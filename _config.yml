@@ -8,9 +8,8 @@ includes_dir: ./_includes
 
 # Handling Reading
 safe:         false
-include:      [".htaccess"]
-exclude:      ["Gemfile", "Gemfile.lock"]
 keep_files:   [".git", ".svn"]
+exclude:      ["Gemfile", "Gemfile.lock"]
 encoding:     "utf-8"
 markdown_ext: "markdown,mkdown,mkdn,mkd,md"
 
@@ -22,14 +21,13 @@ unpublished: false
 
 # Plugins
 whitelist: []
-gems:      []
+gems:      [jekyll-paginate]
 
 # Conversion
 markdown:    kramdown
-highlighter: rouge
+highlighter: pygments
 lsi:         false
 excerpt_separator: "\n\n"
-incremental: false
 
 # Serving
 detach:  false
@@ -38,12 +36,24 @@ host:    127.0.0.1
 baseurl: "" # does not include hostname
 
 # Outputting
-permalink:     date
+permalink:     /:title.html
+paginate: 10
 paginate_path: /page:num
 timezone:      null
 
 quiet:    false
-defaults: []
+defaults:
+  -
+    scope:
+      path: "" 
+    values:
+      layout: "default"
+  -
+    scope:
+      path: ""
+      type: "posts"
+    values: 
+      permalink: "/posts/:title.html"
 
 # Markdown Processors
 rdiscount:
