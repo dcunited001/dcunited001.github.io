@@ -56,6 +56,13 @@ defaults:
     values: 
       layout: inner
       permalink: "/posts/:title.html"
+  -
+    scope:
+      path: ""
+      type: "projects"
+    values: 
+      layout: inner
+      permalink: "/projects/:title.html"
 
 # Markdown Processors
 rdiscount:
