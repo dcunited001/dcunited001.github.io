@@ -355,31 +355,27 @@ IVVMM::::.:.:. . ... .::II:.::..:.. .. .. . . .:.:::IHH:.:HHIIHIHH':-'
 
 <p>So, since strings of nucleotides are essentially base-4 numbers, they can easily be encoded into binary and stored in 64-bit integers.  Example Integers are below, encoded in base-2 and base-4, starting on the left-hand side.</p>
 
-<p>```ruby
-acgtacgt.as_string = “ACGTACGT”
-aaaacccc.as_string = “AAAACCCC”</p>
+<figure class="highlight"><pre><code class="language-ruby" data-lang="ruby"><span class="n">acgtacgt</span><span class="o">.</span><span class="n">as_string</span> <span class="o">=</span> <span class="s2">&quot;ACGTACGT&quot;</span>
+<span class="n">aaaacccc</span><span class="o">.</span><span class="n">as_string</span> <span class="o">=</span> <span class="s2">&quot;AAAACCCC&quot;</span>
 
-<h1 id="a--00-c--01-g--10-t--11">A = 00, C = 01, G = 10, T = 11</h1>
-<p>acgtacgt.as_base2 = “0001101100011011”
-aaaacccc.as_base2 = “0000000001010101”</p>
+<span class="c1"># A = 00, C = 01, G = 10, T = 11</span>
+<span class="n">acgtacgt</span><span class="o">.</span><span class="n">as_base2</span> <span class="o">=</span> <span class="s2">&quot;0001101100011011&quot;</span>
+<span class="n">aaaacccc</span><span class="o">.</span><span class="n">as_base2</span> <span class="o">=</span> <span class="s2">&quot;0000000001010101&quot;</span>
 
-<p>acgtacgt.as_base4 = “01230123”
-aaaacccc.as_base4 = “00001111”
-```</p>
+<span class="n">acgtacgt</span><span class="o">.</span><span class="n">as_base4</span> <span class="o">=</span> <span class="s2">&quot;01230123&quot;</span>
+<span class="n">aaaacccc</span><span class="o">.</span><span class="n">as_base4</span> <span class="o">=</span> <span class="s2">&quot;00001111&quot;</span></code></pre></figure>
 
 <p>For binary numbers, Hamming Distance is usually calculated by xor’ing each input and counting the bits.  Fortunately, there is a CPU instruction just for counting bits, as it turns out that this is an incredibly important operation that is very fast in hardware.  For two base-4 numbers, things are a bit more complicated.  But Hamming Distance can still be reduced to a single operation – and a single FPGA instruction.</p>
 
-<p>```ruby
-binary1 = “00110011”
-binary2 = “01100011”
-difbits = “01010000”</p>
+<figure class="highlight"><pre><code class="language-ruby" data-lang="ruby"><span class="n">binary1</span> <span class="o">=</span> <span class="s2">&quot;00110011&quot;</span>
+<span class="n">binary2</span> <span class="o">=</span> <span class="s2">&quot;01100011&quot;</span>
+<span class="n">difbits</span> <span class="o">=</span> <span class="s2">&quot;01010000&quot;</span>
 
-<p>xor(binary1, binary2) = “01010000”
-countbits(“01010000”) = 2</p>
+<span class="n">xor</span><span class="p">(</span><span class="n">binary1</span><span class="p">,</span> <span class="n">binary2</span><span class="p">)</span> <span class="o">=</span> <span class="s2">&quot;01010000&quot;</span>
+<span class="n">countbits</span><span class="p">(</span><span class="s2">&quot;01010000&quot;</span><span class="p">)</span> <span class="o">=</span> <span class="mi">2</span>
 
-<h1 id="therefore-the-base2-hamming-distance-is-2">therefore, the base2 hamming distance is 2</h1>
-<p>#   because there are two bits that differ between binary1 and binary2
-```</p>
+<span class="c1"># therefore, the base2 hamming distance is 2</span>
+<span class="c1">#   because there are two bits that differ between binary1 and binary2</span></code></pre></figure>
 
 <p>Using base4 numbers encoded into 64-bit integers, things are a bit more complicated.  We’re not just looking for the bits that are different.  Instead, we’re looking for the number of 2-bit values that differ.  We’ll need to shuffle the bits around to ensure that each 2-bit position is counted only once.</p>
 
@@ -393,24 +389,22 @@ countbits(“01010000”) = 2</p>
 #### ★   H = G &amp; Z
 #### ★   HammingDist(A,B) = countBits(H)</p>
 
-<p><code>ruby
-+------------------+----------+----------+
-| A = ACGTACGT     | 00011011 | 00011011 |
-| B = AAAACCCC     | 00000000 | 01010101 |
-| ---------------- | -------- | -------- |
-| X = A xor B      | 00011011 | 01001110 |
-| Y = X*2 (BSL)    | 00110110 | 10011100 |
-| Z = Magic #      | 10101010 | 10101010 |
-| ---------------- | -------- | -------- |
-| W = Y &amp; Z        | 00100010 | 10001000 |
-| X = A xor B      | 00011011 | 01001110 |
-| G = W | X        | 00111011 | 11001110 |
-| Z = Magic #      | 10101010 | 10101010 |
-| H = G &amp; Z        | 00101010 | 10001010 |
-| ---------------- | -------- | -------- |
-| HammingDist(A,B) | 3        | 3        |
-+------------------+----------+----------+
-</code></p>
+<figure class="highlight"><pre><code class="language-ruby" data-lang="ruby"><span class="o">+------------------+----------+----------+</span>
+<span class="o">|</span> <span class="n">A</span> <span class="o">=</span> <span class="no">ACGTACGT</span>     <span class="o">|</span> <span class="mo">00011011</span> <span class="o">|</span> <span class="mo">00011011</span> <span class="o">|</span>
+<span class="o">|</span> <span class="n">B</span> <span class="o">=</span> <span class="no">AAAACCCC</span>     <span class="o">|</span> <span class="mo">00000000</span> <span class="o">|</span> <span class="mo">01010101</span> <span class="o">|</span>
+<span class="o">|</span> <span class="o">----------------</span> <span class="o">|</span> <span class="o">--------</span> <span class="o">|</span> <span class="o">--------</span> <span class="o">|</span>
+<span class="o">|</span> <span class="n">X</span> <span class="o">=</span> <span class="n">A</span> <span class="n">xor</span> <span class="n">B</span>      <span class="o">|</span> <span class="mo">00011011</span> <span class="o">|</span> <span class="mo">01001110</span> <span class="o">|</span>
+<span class="o">|</span> <span class="n">Y</span> <span class="o">=</span> <span class="n">X</span><span class="o">*</span><span class="mi">2</span> <span class="p">(</span><span class="no">BSL</span><span class="p">)</span>    <span class="o">|</span> <span class="mo">00110110</span> <span class="o">|</span> <span class="mi">10011100</span> <span class="o">|</span>
+<span class="o">|</span> <span class="n">Z</span> <span class="o">=</span> <span class="no">Magic</span> <span class="c1">#      | 10101010 | 10101010 |</span>
+<span class="o">|</span> <span class="o">----------------</span> <span class="o">|</span> <span class="o">--------</span> <span class="o">|</span> <span class="o">--------</span> <span class="o">|</span>
+<span class="o">|</span> <span class="n">W</span> <span class="o">=</span> <span class="n">Y</span> <span class="o">&amp;</span> <span class="n">Z</span>        <span class="o">|</span> <span class="mo">00100010</span> <span class="o">|</span> <span class="mi">10001000</span> <span class="o">|</span>
+<span class="o">|</span> <span class="n">X</span> <span class="o">=</span> <span class="n">A</span> <span class="n">xor</span> <span class="n">B</span>      <span class="o">|</span> <span class="mo">00011011</span> <span class="o">|</span> <span class="mo">01001110</span> <span class="o">|</span>
+<span class="o">|</span> <span class="n">G</span> <span class="o">=</span> <span class="n">W</span> <span class="o">|</span> <span class="n">X</span>        <span class="o">|</span> <span class="mo">00111011</span> <span class="o">|</span> <span class="mi">11001110</span> <span class="o">|</span>
+<span class="o">|</span> <span class="n">Z</span> <span class="o">=</span> <span class="no">Magic</span> <span class="c1">#      | 10101010 | 10101010 |</span>
+<span class="o">|</span> <span class="n">H</span> <span class="o">=</span> <span class="n">G</span> <span class="o">&amp;</span> <span class="n">Z</span>        <span class="o">|</span> <span class="mo">00101010</span> <span class="o">|</span> <span class="mi">10001010</span> <span class="o">|</span>
+<span class="o">|</span> <span class="o">----------------</span> <span class="o">|</span> <span class="o">--------</span> <span class="o">|</span> <span class="o">--------</span> <span class="o">|</span>
+<span class="o">|</span> <span class="no">HammingDist</span><span class="p">(</span><span class="n">A</span><span class="p">,</span><span class="n">B</span><span class="p">)</span> <span class="o">|</span> <span class="mi">3</span>        <span class="o">|</span> <span class="mi">3</span>        <span class="o">|</span>
+<span class="o">+------------------+----------+----------+</span></code></pre></figure>
 
 <h3 id="thats-just-hamming-distance-in-constant-time--who-cares">That’s just Hamming Distance in Constant Time.  Who cares?</h3>
 
@@ -434,14 +428,12 @@ countbits(“01010000”) = 2</p>
 
 <p>The most beneficial aspect of the Neighbor Transform is that the algorithm doesn’t require intermediate data values.  In other words, all operations of the Neighborhood Transform algorithm can proceed at the same time.  All you have to do is coordinate the transformation of each member of the set.  Therefore, it’s GPU accelerable, assuming you have the original Base Neighborhood calculated.  This is a major advantage!</p>
 
-<p><code>ruby
-+---------------------+------+-------------+
-| Base Nucleotide     | AAAA | 00 00 00 00 |
-| Target Neighborhood | ACGT | 00 01 10 11 |
-| Nucleotide          | AAGA | 00 00 10 00 |
-| AAGA ~+ ACGT        | ACAT | 00 01 00 11 |
-+---------------------+------+-------------+
-</code></p>
+<figure class="highlight"><pre><code class="language-ruby" data-lang="ruby"><span class="o">+---------------------+------+-------------+</span>
+<span class="o">|</span> <span class="no">Base</span> <span class="no">Nucleotide</span>     <span class="o">|</span> <span class="no">AAAA</span> <span class="o">|</span> <span class="mo">00</span> <span class="mo">00</span> <span class="mo">00</span> <span class="mo">00</span> <span class="o">|</span>
+<span class="o">|</span> <span class="no">Target</span> <span class="no">Neighborhood</span> <span class="o">|</span> <span class="no">ACGT</span> <span class="o">|</span> <span class="mo">00</span> <span class="mo">01</span> <span class="mi">10</span> <span class="mi">11</span> <span class="o">|</span>
+<span class="o">|</span> <span class="no">Nucleotide</span>          <span class="o">|</span> <span class="no">AAGA</span> <span class="o">|</span> <span class="mo">00</span> <span class="mo">00</span> <span class="mi">10</span> <span class="mo">00</span> <span class="o">|</span>
+<span class="o">|</span> <span class="no">AAGA</span> <span class="o">~+</span> <span class="no">ACGT</span>        <span class="o">|</span> <span class="no">ACAT</span> <span class="o">|</span> <span class="mo">00</span> <span class="mo">01</span> <span class="mo">00</span> <span class="mi">11</span> <span class="o">|</span>
+<span class="o">+---------------------+------+-------------+</span></code></pre></figure>
 
 <h3 id="this-neighbor-transform-alg-is-also-applicable-to-amino-acid--codon-neighborhoods">This Neighbor Transform Alg is also Applicable to Amino Acid &amp; Codon Neighborhoods</h3>
 

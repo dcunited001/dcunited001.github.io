@@ -270,60 +270,50 @@ as they weren’t documented on the wiki page.  So, I reinstalled without them.<
 but it may be a bit out of date.  I’m not very familiar with the Python ecosystem, but <code>brew install python</code> 
 seems to install <code>pip</code> and <code>easy_install</code> as well now.  All I needed to do was run the following commands:</p>
 
-<p><code>bash
-brew install readline sqlite gdbm
-brew install python --universal --framework
-</code></p>
+<figure class="highlight"><pre><code class="language-bash" data-lang="bash">brew install readline sqlite gdbm
+brew install python --universal --framework</code></pre></figure>
 
 <p>And I verified with this:</p>
 
-<p>```bash
-python –version &amp;&amp; la <code>which python</code>
-# Python 2.7.6 
-# /usr/local/bin/python -&gt; ../Cellar/python/2.7.6_1/bin/python</p>
+<figure class="highlight"><pre><code class="language-bash" data-lang="bash">python --version <span class="o">&amp;&amp;</span> la <span class="sb">`</span>which python<span class="sb">`</span>
+<span class="c"># Python 2.7.6 </span>
+<span class="c"># /usr/local/bin/python -&gt; ../Cellar/python/2.7.6_1/bin/python</span>
 
-<p>pip –version &amp;&amp; la <code>which pip</code> 
-# pip 1.5.5 
-# /usr/local/bin/pip -&gt; ../Cellar/python/2.7.6_1/bin/pip</p>
+pip --version <span class="o">&amp;&amp;</span> la <span class="sb">`</span>which pip<span class="sb">`</span> 
+<span class="c"># pip 1.5.5 </span>
+<span class="c"># /usr/local/bin/pip -&gt; ../Cellar/python/2.7.6_1/bin/pip</span>
 
-<p>easy_install –version &amp;&amp; la <code>which easy_install</code> 
-# setuptools 3.6 
-# /usr/local/bin/easy_install -&gt; ../Cellar/python/2.7.6_1/bin/easy_install 
-```</p>
+easy_install --version <span class="o">&amp;&amp;</span> la <span class="sb">`</span>which easy_install<span class="sb">`</span> 
+<span class="c"># setuptools 3.6 </span>
+<span class="c"># /usr/local/bin/easy_install -&gt; ../Cellar/python/2.7.6_1/bin/easy_install </span></code></pre></figure>
 
 <p>Then, I configured my environment for <code>virtualenv</code>, by adding the following to my <code>.bashrc</code>.  Some of these
 values will differ for you.</p>
 
-<p>```bash
-PATH=${PATH}:/usr/local/share/python
-export SITE_PACKAGES=/usr/local/lib/python2.7/site-packages</p>
+<figure class="highlight"><pre><code class="language-bash" data-lang="bash"><span class="nv">PATH</span><span class="o">=</span><span class="k">${</span><span class="nv">PATH</span><span class="k">}</span>:/usr/local/share/python
+<span class="nb">export </span><span class="nv">SITE_PACKAGES</span><span class="o">=</span>/usr/local/lib/python2.7/site-packages
 
-<h1 id="setup-virtualenv">setup virtualenv</h1>
-<p>export WORKON_HOME=$HOME/.virtualenvs
-export VIRTUALENVWRAPPER_PYTHON=/usr/local/bin/python2.7
-export VIRTUALENVWRAPPER_VIRTUALENV_ARGS=’–no-site-packages’
-export PIP_VIRTUALENV_BASE=$WORKON_HOME
-export PIP_RESPECT_VIRTUALENV=true
-if [[ -r /usr/local/bin/virtualenvwrapper.sh ]]; then
-    source /usr/local/bin/virtualenvwrapper.sh
-else
-    echo “WARNING: Can’t find virtualenvwrapper.sh”
-fi
-```</p>
+<span class="c"># setup virtualenv</span>
+<span class="nb">export </span><span class="nv">WORKON_HOME</span><span class="o">=</span><span class="nv">$HOME</span>/.virtualenvs
+<span class="nb">export </span><span class="nv">VIRTUALENVWRAPPER_PYTHON</span><span class="o">=</span>/usr/local/bin/python2.7
+<span class="nb">export </span><span class="nv">VIRTUALENVWRAPPER_VIRTUALENV_ARGS</span><span class="o">=</span><span class="s1">&#39;--no-site-packages&#39;</span>
+<span class="nb">export </span><span class="nv">PIP_VIRTUALENV_BASE</span><span class="o">=</span><span class="nv">$WORKON_HOME</span>
+<span class="nb">export </span><span class="nv">PIP_RESPECT_VIRTUALENV</span><span class="o">=</span><span class="nb">true</span>
+<span class="k">if</span> <span class="o">[[</span> -r /usr/local/bin/virtualenvwrapper.sh <span class="o">]]</span><span class="p">;</span> <span class="k">then</span>
+    <span class="nb">source</span> /usr/local/bin/virtualenvwrapper.sh
+<span class="k">else</span>
+    <span class="nb">echo</span> <span class="s2">&quot;WARNING: Can&#39;t find virtualenvwrapper.sh&quot;</span>
+<span class="k">fi</span></code></pre></figure>
 
 <p>Then, I installed <code>virtualenv</code> and <code>virtualenvwrapper</code> and tested:</p>
 
-<p><code>bash
-pip install virtualenv
-pip install virtualenvwrapper
-</code></p>
+<figure class="highlight"><pre><code class="language-bash" data-lang="bash">pip install virtualenv
+pip install virtualenvwrapper</code></pre></figure>
 
 <p>And I verified with this:</p>
 
-<p><code>bash
-mkvirtualenv test
-rmvirtualenv test
-</code></p>
+<figure class="highlight"><pre><code class="language-bash" data-lang="bash">mkvirtualenv <span class="nb">test</span>
+rmvirtualenv <span class="nb">test</span></code></pre></figure>
 
 <p><code>virtualenv</code> hit a few snags when running its callback scripts, but my zsh setup shows the name
 of the active virtualenv profile and that seemed to be working.  I wish I had more time to learn more 

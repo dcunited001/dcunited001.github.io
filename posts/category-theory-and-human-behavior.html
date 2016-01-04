@@ -264,23 +264,19 @@ IVVMM::::.:.:. . ... .::II:.::..:.. .. .. . . .:.:::IHH:.:HHIIHIHH':-'
 
 <p>Let’s write this out with javascript:</p>
 
-<p><code>javascript
-function myBehavior() {
-  me.askFor('Alpha');
-  me.askFor('Beta');
-  me.askFor('Gamma');
-}
-</code></p>
+<figure class="highlight"><pre><code class="language-javascript" data-lang="javascript"><span class="kd">function</span> <span class="nx">myBehavior</span><span class="p">()</span> <span class="p">{</span>
+  <span class="nx">me</span><span class="p">.</span><span class="nx">askFor</span><span class="p">(</span><span class="s1">&#39;Alpha&#39;</span><span class="p">);</span>
+  <span class="nx">me</span><span class="p">.</span><span class="nx">askFor</span><span class="p">(</span><span class="s1">&#39;Beta&#39;</span><span class="p">);</span>
+  <span class="nx">me</span><span class="p">.</span><span class="nx">askFor</span><span class="p">(</span><span class="s1">&#39;Gamma&#39;</span><span class="p">);</span>
+<span class="p">}</span></code></pre></figure>
 
 <p>And let’s say that you’re afraid that asking for this information will alert this person to your intentions.  Now, let’s say you have some people you have influence over – your unwitting minions Alice, Bob and Carol – <em>mwua haha ha.</em>  Well, then, let’s apply the Category Theory concept of Functors to abstract this behavior and obfuscate it.</p>
 
-<p><code>javascript
-function myNewBehavior() {
-  me.ask('Alice').toAskFor('Alpha');
-  me.ask('Bob').toAskFor('Beta');
-  me.ask('Carol').toAskFor('Gamma');
-}
-</code></p>
+<figure class="highlight"><pre><code class="language-javascript" data-lang="javascript"><span class="kd">function</span> <span class="nx">myNewBehavior</span><span class="p">()</span> <span class="p">{</span>
+  <span class="nx">me</span><span class="p">.</span><span class="nx">ask</span><span class="p">(</span><span class="s1">&#39;Alice&#39;</span><span class="p">).</span><span class="nx">toAskFor</span><span class="p">(</span><span class="s1">&#39;Alpha&#39;</span><span class="p">);</span>
+  <span class="nx">me</span><span class="p">.</span><span class="nx">ask</span><span class="p">(</span><span class="s1">&#39;Bob&#39;</span><span class="p">).</span><span class="nx">toAskFor</span><span class="p">(</span><span class="s1">&#39;Beta&#39;</span><span class="p">);</span>
+  <span class="nx">me</span><span class="p">.</span><span class="nx">ask</span><span class="p">(</span><span class="s1">&#39;Carol&#39;</span><span class="p">).</span><span class="nx">toAskFor</span><span class="p">(</span><span class="s1">&#39;Gamma&#39;</span><span class="p">);</span>
+<span class="p">}</span></code></pre></figure>
 
 <p>Congratulations, you’ve just basically used your minions to abstract your behavior and hide your motivations.  If the person you’re acquiring information from <em>knew you wanted to know about Alpha, Beta and Gamma</em>, <strong>then they could also conclude you were going to Zeta sometime soon</strong>.  I apologize – things get confusing when you’re dealing with <a href="http://en.wikipedia.org/wiki/Abstract_nonsense">abstract nonsense</a>.</p>
 
