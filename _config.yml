@@ -53,6 +53,7 @@ defaults:
       path: ""
       type: "posts"
     values: 
+      layout: inner
       permalink: "/posts/:title.html"
 
 # Markdown Processors

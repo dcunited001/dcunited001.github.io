@@ -1,0 +1,146 @@
+---
+title: "Oh I Have this Stellar Startup Idea Worth Millions &#x2605; Just Kidding &#x2605; April Fools"
+categories: blog
+tags: "startups business"
+author:
+  name: "David Conner"
+---
+
+So, I just want to explain why I feel like the most underrated, overlooked person on the planet.  Below is a business proposal I submitted to Virginia Tech for their **Game Changers Challenge Loan**, a $25,000 loan to start a business.  There was a 5-page limit to entries, so this business proposal is not perfect.  Admittedly, one of the rules for this contest was that your business could not be one that needed the first $25,000 of a $500,000 seed round.  So I did not expect to win.  
+
+However, I did expect to get attention and help realizing these ideas.  I cannot do this alone.  I've had this idea in a few different forms since October or November 2011.  I have had a few good chances to get it together, but every single !@#$'ing time, I run out of money or I invest my energy working on someone else's startup idea.  
+
+> Also, please bear in mind that I wrote this proposal on Halloween night in about 6 hours.  So, again, it's not perfect.  But, it's really not that bad either.  And I have enough content to write about ten of these.
+
+### So Here's the Business Proposal
+
+Some parts are redacted.  But for the most part, I'm leaving most of it unedited.  By this point, there's not much of a chance to complete this, since the market's saturated.  Check out [Splice](https://splice.com), which is pretty much the same thing. I'm publishing this because I hope someone reads it and will **realize that I really do understand what I'm talking about**.
+
+TL;DR [Skip to my thoughts](#my-unfortunate-disposition) on why I've never been able to achieve this.
+
+## Oscil8 &#x2605; The Audio Discovery Engine
+
+Music producers and foley artists lack a collaboration tool and centralized community for instrument, effect, and sound design.  It's difficult to collaborate on sounds created with software and frustrating to share sounds produced on hardware synthesizers and drum kits.  Small communities exist as forums, but they're fragmented and based around specific software and hardware tools.  These communities are frustrating and time consuming to search through.  Some web stores sell music production content like sample packs, effects, software instruments and instrument patches.  But again, it's fragmented and there's no centralized payment processing.
+
+A unified community would facilitate sharing of techniques of sound design.  It would provide talented amateurs with a place to showcase their skills, draw on the pro's for inspiration and connect with local artists to collaborate.  Professional producers and hobbyists could efficiently browse through a interface harnessing Web Audio and MIDI to seemlessly swap out generated audio previews of instruments as they scroll through the webpage or app.  This intuitive UI would allow users to explore both software and hardware sounds: synthesizer patches, drum kits, effects and samples.  This sound design community would rate sounds and algorithms would identify the most popular to provide higher quality feeds for users.
+
+### Unifying a Fragmented Market
+
+The Oscil8 app is the Vine for Music Production, but we're focused on perfecting the experience of discovering new sounds.  As web and mobile are primarily visual media, this presents unique UI/UX challenges.  If we provide an efficient, engaging experience, we'll captivate artists and musicians, an affluent and trendsetting niche market.  
+
+As most of the existing competition is fragmented, there's an opportunity to centralize Oscil8's segment of the audio engineering market.  As a fragmented market, it's also is under utilized, since it's difficult for customers to discover content and purchase it.  As there's no big players in our market segment, it's more difficult to define.  It mostly consists of smaller producers and DJ's selling sample packs they've created.  However, if a community grew to facilitate collaboration and the market became centralized in an App Store for Musicians, demand would increase significantly.
+
+Oscil8's segment of the audio engineering market includes the audio engineers, artists, producers, DJ's, promoters, and foley artists who are interested in buying or selling sounds.  This market could also be extended to include all active members of our community, but not everyone will be interested in using our App Store for Musicians, our main revenue stream.  However, our community is a valuable, marketable group in itself: they're so interested in music that listening to the latest tracks on Soundcloud isn't enough.  They want to be even more engaged in favorite artist's creative process.
+
+### The Audio Engineering Market
+
+Though Oscil8's market is technically not new, it has yet to be properly defined and is therefore difficult to quantify.  However, the Audio Engineering market overlaps with Oscil8's and is well researched.  The National Association of Music Merchandisers releases a global report every year.
+
+The NAMM 2008 Global Report states Computer Music Products (CMP) garnered $430M in 2007, with a 2.7% increase over 2006.  The same report for 2011 states a $384M market for CMP in 2010, with a 9.55% increase over 2009.  In 2010, the market for Plug-In Software & Loops (PSL) was valued at $18.8M.  PSL is the component of the CMP market which most strongly overlaps with the fragmented market described earlier.  PSL was not included in the 2008 report.
+
+The NAMM 2014 report states a $360M value for the CMP market, a 1.9% increase from 2012 to 2013.  Following a slight downturn for plugins in 2012, the PSL market jumped back up over 29% to $22.3M in 2013.  The PSL market has a 10-year growth trend of 40%.  This indicates strong growth for the plugin market. 
+
+However, Oscil8's market does not fall cleanly into these markets, but instead derives from customers who have purchased products in those categories.  Our market is composed of musicians who have already purchased these CMP, PSL and other electronic music products, who would like to extend their products' functionality by downloading patches, samples, configurations, and instruments.  
+
+Our customers either have already heavily invested in these CMP/PSL products or have downloaded free PSL products and would like to extend their functionality or learn how to use them.  Even though name brand PSL products like Native Instruments' Komplete or CMP products like Ableton are very expensive, Oscil8 is not limited by that barrier to entry.  Though customers who are heavily invested in music production products are preferable for their potential value and their expertise, we can also sell patches based on popular free VST's and sample packs will work with any audio program.  It's also important to note the difference in price between products in the Oscil8 store, targeted at $2-20 and in the PSL category, from experience ranging between $50-500.
+
+### Oscil8's Competition
+
+Oscil8 has several indirect competitors and a few direct competitors.  Examples of indirect competitors include DAW's like Ableton and music discovery apps like Soundcloud, which would moreso compete for our users' attention.  However, our users would likely find the Oscil8 app to be more engaging than Soundcloud, as there's much more value for amateurs who may not have the time to put entire tracks together.  Additionally, our community would foster more collaboration among artists.
+
+As products embrace the internet and add more social features, more Digital Audio Workstations like Ableton will attempt to add social features in their product.  However, these products will always be DAW-first.  Social features like instrument sharing or track collaboration will always be an afterthought, especially since DAW software is such a massive undertaking in itself.  
+
+Though at first, social features in DAW's have advantage of being closely integrated by the DAW developer, this will implicitly limit the social features to that DAW.  First of all, this isn't how it should work -- an app that connects music producers should include connect producers who use various software tools.  Second, because the value of a network increases exponentially with the number of nodes, then a network connecting musicians of multiple DAW's would be more valuable than a network connecting users from one DAW.  
+By autogenerating previews of sounds based solely on the configuration files uploaded, this easily enables our users to browse sounds, independent of the DAW or VST plugin used to generate the sound.  Note that the Oscil8 MVP won't be capable of autogenerated audio previews.  Since users can hear sounds regardless of what program was used to generate them, they can collaborate on those sounds as well, offering advice or just rating them higher.  
+
+Depending on how this preview generation process is implemented, **it may be patentable**.  It also may be easy for DAW developers to interfere with, which depends on how their software is utilized and whether we can license their software to run in the cloud.  To circumvent their leverage, we can create a VST plugin that receives input in the DAW from the instrument that will be uploaded.  The plugin will be connected to our API and will prompt the user for the config files, uploading those simultaneously with the sample.  Our goal would be to have DAW's and VST plugin writers implement our API directly in their instruments or software and we'll produce open source libs to facilitate this.  
+
+There are two moreso direct competitors that come to mind: Blend.IO and Splice.  Splice stands out because their product interfaces more with the individual files in a music project, whereas Blend.IO is more of a dropbox integration.  It's important to note that both apps are based around music project collaboration, instead of collaboration on the components of music projects.  And as such, they have several disadvantages.  
+
+First off, they require the musician to integrate the product into their workflow, which is going to slow them down.  Splice is basically source control for musicians and even allows you to fork projects, which is great, but complicated.  Oscil8 is separate from a musicians workflow.  Second, their business models so far are based on the Github model, where users pay for private projects.  **That's nice, *but it's not an App Store for Musicians.* **  Third, neither Splice nor Blend.io will work well for musicians that integrate a hardware mixer or instruments.  So even if they push to copy Oscil8's features, their products won't integrate well with hardware, which is one of the coolest aspects of Oscil8: **uploading MIDI Sysex configs for hardware.**  Fourth, in these two products, the project collaboration features will take precedence over component collaboration features, which will be poorly implemented in these two products, if at all.
+
+And finally, as a music component collaboration tool, Oscil8 will have tons of audio data in the backend: [INTELLECTUAL PROPERTY REDACTED].
+
+### Oscil8 Business Model
+
+Oscil8's product is a music production community.  It's built with software, but based on key relationships between us, existing product vendors and most importantly, our customers.  Software development will comprise a large part of our key activities, but our marketing team will identify new opportunities and offer insights into customer behavior.  Oscil8's business development team will either need to establish mutual relationships with key partners, like DAW vendors and hardware manufacturers, or we'll need to identify creative means of leverage with product features until we have mutual relationships.  Goals of developing such relationships include Oscil8 API integration into our partners' products.  
+
+As a SaaS in the cloud, our primary marketing channel is direct to consumers.  Ideally, we'll be able to leverage partner relationships to promote our product, which would also promote our brand's authenticity, when positioned alongside familiar products.  In the initial alpha phase, we'll work with local artists in our personal network. This will give us a chance to integrate early feedback into our product.  During the beta software phase, we'll use an organic growth strategy and pursue musicians directly for beta testing.  From there, we'll tap into existing online music production communities and market to recording arts and music business students.  During our early growth phases, we'll collect mobile and web analytics data to identify how our users are learning about our product, what makes a user active in our community.
+
+Our initial goal is to grow an active, passionate user base by making a strong impression.  Initially, to encourage collaborative content creation, we'll narrow the playing field and focus solely on the ten most popular paid and free software instruments.  When we have a polished product and a vibrant budding community, Oscil8 will shift its focus to developing our App Store for Musicians and further growing the necessary partnerships with key players in our industry.  Our App Store will allow our community to profit from the samples, instruments and effects they've created.  In what may start as tightly controlled growth, where only top-ranked producers are permitted access to the store, we'll allow these artists to sell bundles of content.  Oscil8 will manage the rights distribution for this content.  Oscil8 will collect a percentage of sales via the store and this should prove to be a great incentive for user growth, user activity and content generation.  In the future, Oscil8 may offer [INTELLECTUAL PROPERTY REDACTED], providing an additional revenue stream.
+
+### Team
+
+At the moment, the Oscil8 team consists of David Conner, a business savvy Ruby and Angular developer.  However, we are talking with [NAME REDACTED], an NRV native finishing up at Full Sail until March 2015, where he's studying Music Business and focusing on Music Publishing.  As the Oscil8 alpha progresses over the next 2 months and we begin to market, the demonstrated traction will entice co-founders and investors.
+
+For early hires, we need to fill the following roles: frontend/backend development, design, UI/UX, product development, business development, analytics, marketing, branding, financial, accounting, music publishing, copyright law and others.  Some of these roles should be outsourced and several could overlap.  Our frontend stack is Angular and is completely separate from the backend Rails stack.  This makes development easier and future dev hires cheaper.
+
+### Projections
+
+Business revenues are operating income are difficult to predict, but we'll provide projections for 6 months, 12 months and 3 years.  According to AngelList, our competitor, Splice, has accumulated over $7.5M in Seed and Series A in the course of a year, leading to a personally estimated market valuation at $20M, at least.  Splice, to the best of our knowledge, has no revenue after a year of operation, but plans to monetize with the Github model.  Our gut projects growth to a valuation of up to $100M by Oct 2015.  Of course, comparing to Oscil8 is apples to oranges.
+
+At six months, we plan to have grown a significant user base, but still have no options for revenue.  Thus, our operating income will be based solely on investments.  At this point, we'd plan to have about 7 employees, averaging around $80K and composing less than $300K for 6 months.  At this point, office space and server costs should both contribute about $2K per month, about 100 light AWS boxes.  Hardware budget should be $50K for laptops and equipment.  Oscil8 needs about $500K to survive six months.
+
+As we complete the first year, Oscil8 should grow to 15 employees, averaging $100K.  We still aren't likely to have revenue until after the first year.  Monthly cost for office space should be $5K and cost for servers should jump to $5K to account for background processes.  We'll need an additional $100K for equipment for the second half of the year, for a very rough estimate of $1.0M operating cost in the second half of the year.  
+
+At the end of the first year, we should have about have established the App Store and assuming a 5% share of the PSL market mentioned before, we could accumulate about $1.0M in revenue by the end of the second year.  This assumes a 1:1 correlation between our market and the PSL market.  Assuming onboarding of 30 more employees at an average of $50K, this brings Oscil8 to a total of $3.0M in employee costs.  Add a $200K budget for equipment, $10K per month in server costs, and $10K in office costs, expenses of $4.0M seem appropriate, leaving us at a 75% loss for the year and still $4.5M behind in our investments.
+
+For the third year, holding second year values stable, except increasing market share to 20% of the 2012 PLS market value, we should arrive at a breakeven operating cost.  However, this still leaves us $4.5M in debt.  I hope these numbers are appropriate, though I wish they looked better.
+
+### Game Changers Challenge Loan
+
+Over 3 months, Oscil8 would use the $25,000 loan to prepare itself for a $1.0M Seed round and a Series A.  The best way to get there is to polish a strong product and apply to an accelerator like YCombinator or Techstars.  Before accepting capital, Oscil8 definitely needs to model our market more confidently.  We'll outsource some design, as well as legal for provisional patents and create a C-Corp.
+
+____
+
+<a name="my-unfortunate-disposition"></a>
+
+### My Unfortunate Disposition
+
+So that's it.  Why haven't I done anything with all this?  My problem is that I am very good at a several things, but that I lack the experience or degree to acquire the right position.  For example, **I'm very, very good with Business Strategy**, even though I had no idea what a SWOT analysis was until recently.  Many grads might ask you, "what's a SWOT analysis?", and then claim you don't know what you're talking about because you don't know the right vocabulary.  
+
+> !@#$ a SWOT analysis.  Overly simplistic garbage.
+
+I, however, do understand these concepts, in an instinctive manner.  Please, testing someone like me on vocabulary is a waste of time.  I also had no idea what [Conway's Game of Life](http://en.wikipedia.org/wiki/Conway's_Game_of_Life) was, until recently.  And this is another favorite for programmers to test you with.  I thought they were referring to the !@#$'ing board game LIFE -- joke's on me.  Turns out, I implemented Conway's Game of Life in high school, using Pascal.  Yes, I know what the concept is.  No, I did not know what the concept was named.  Your test failed.  I wasn't made aware of my mistake either.  I was just laughed at.  This particular example has happened multiple times by the way.
+
+### Creativity with Technology
+
+I have spectacular insight into how people will want to use technology.  I have a particular talent for identifying trends years beforehand, providing enough time for people to make reasonable investments based on my assumptions.  Just look at my social feeds: I was aware of NSA spying from like 2005-2013, for example.  Because I !@#$'ing paid attention.  I'm not exactly sure how that came as a surprise to people, by the way.  I had my tin-foil hat on the whole time.  
+
+> Unaware of how NSA wiretapping affects the technology industries and the financial system as a whole? And how knowledge of this should affect investment decisions? *OK then, stop acting like I'm an idiot.* GTFO!!
+
+Still unsure of whether my insights in technology mean anything? [READ THIS ARTICLE](/posts/2015-03-14-gpu-accelerated-string-neighborhood-in-linear-time.html), if you can even understand it.
+
+However, I don't have an MBA, so C-level jobs are right out.  I seem to lack the experience required for Product Management positions, though a job like that would probably be perfect for me.  The experience I do have is programming, but I'm actually not a great programmer.  So when I do get a job coding, I tend get pushed right out.  Because it's not me, it's not where I was intended to be, as much as I love programming.  I'm much better at math than I am programming.
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/rae7_O_6EtU" frameborder="0" allowfullscreen></iframe>
+
+#### Zero Theorum AKA pretty much my life as a developer.
+
+Another problem is that I don't have a college degree, even though I find myself far more educated than 90% of college graduates I've run into.  Holistically, anyways.  What do I mean by this?  College educated people have such a narrow focus that they can't see outside of their major.  And once they graduate, they stop learning and stop growing.  They become so busy with their lives that they never bother to venture far outside of their major.  However, I'm able to make insights between machine learning and psychology, for example.  This is not to say that I'm educated enough.  I never want to stop learning.
+
+> But here's the problem -- it's really hard for management to justify hiring me over someone who does have a college degree.
+
+So, where does that leave me?  !@#$'ing McDonalds, that's where.  As *intelligent, creative and insightful* as I am, businesses don't really need *that*.  Execution is everything, as someone who has several autistic traits, I'm unfortunately "difficult" to work with.  In other words, I'm [mostly] completely incapable of executing on my own ideas.  And instead, I'm trapped by them.  I have a notebook full of ideas that I'd love to work on and every month, I see my own ideas popping into reality.  Not that my ideas are being stolen -- they're just destined to exist because they're !@#$'ing good ideas.  But I'm so passionate about building them in my own head, that it's difficult for me to pay attention to the world around me.
+
+Steve Jobs would have been nothing, if not for the people around him.  This is true of many famous people, in business and entertainment. 
+
+### Everyone Loves to Idolize Steve Jobs
+
+But what happens when someone like him comes along?  Simple, the guy gets punched in the face and kicked out on his ass, over and over again.  However, it's the exact characteristics of what makes someone like Steve Jobs so creative and so great that also make someone like this incredibly difficult to work with.  Their unrealistic expectations, their attention to the most minute details, their foresight, their projection of design to anticipate the future, their unrelenting challenge to the status quo and their belief that different is better. 
+
+These ideals are required to foster the innovation needed to disrupt a market, but a person who embodies these ideas can often be difficult to work with.  And because they aren't really necessary to the process, their creativity gets sucked up and they find themselves kicked out on their ass.
+
+### There's More Where This Came From
+
+Like I said, I've got tons of ideas -- **none of them are digitized**.  I'm consistantly two to five years ahead of the curve -- not that this is unique of course.  But, I know what is going to happen next.  I don't need all of this.  Oftentimes, I realize that the ideas I do have are worthless in my hands, as I'm completely incapable of executing on them.  So I try to seed them with other people who are capable because I truly believe the world would be a better place if some of these things became reality a little faster.
+
+![Menger Sponge](/img/posts/2015-04-01-oh-i-have-this-stellar-startup-idea-worth-millions-just-kidding-april-fools/menger-sponge.gif)
+
+I once had the opportunity to talk to people who actually looked closely enough to see inside me.  And I'm just now remembering all of this.  Honestly, it feels great, knowing that for once, there was someone who truly understood me.  Even if it is too late at this point.
+
+But, for whatever reason, most people just want me to put my blinders back on and get to work.  To forget everything I might have ever been.  They want to crush the inspiration within me, I guess because they feel it fuels an unhealthy obsession that will never be realized -- since I apparently lack some crucial skills.  But I just can't give it up.
+
+[![DC at the Helm of the Pinta](/img/posts/2015-04-01-oh-i-have-this-stellar-startup-idea-worth-millions-just-kidding-april-fools/pinta.jpg)](https://instagram.com/dchronik/)
+
+#### Oh hey look! It's me, at the Helm of the Pinta, on the verge of discovering a new world.
