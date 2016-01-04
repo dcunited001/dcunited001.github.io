@@ -6,19 +6,14 @@ author:
   name: "David Conner"
 ---
 
-> This is not a *I'm sooo smart* blog.  I promise.  I hate doing that, I really do.  I also don't like prefacing
-> an article with this.
-
-I originally outlined this
-article several months ago over the course of a few hours.  The problem with outlines and articles -- and *every
-single other project i work on* -- is that if i don't follow it through to completion at that moment, i almost
-certainly never will.
-
 Sometimes, i wish i wasn't so intelligent because the most mundane things will send my mind off into another place.
 Don't get me wrong, I enjoy philosophizing about this stuff, but it's just not useful for me and it can be very
 distracting from what I actually need to do.  However, as bad as my writing can be, I feel like it's important
 for me to get this stuff out there.  Occasionally, i feel like writing could perhaps be more important than anything
 else I would do.  Probably not though.
+
+> This is not a *I'm sooo smart* blog.  I promise.  I hate doing that, I really do.  I also don't like prefacing
+> an article with this.
 
 So, a few months ago, I was messing with a spider for a few minutes.  Pretty simple, right?  I just kinda poked around it
 for a few minutes, seeing how it would react to me.  And a few minutes later, I walked past its field of vision
