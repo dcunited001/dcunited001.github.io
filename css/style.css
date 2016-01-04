@@ -5940,6 +5940,9 @@ button.close {
 body {
   font-family: 'Roboto Condensed', sans-serif; }
 
+footer p {
+  text-align: center; }
+
 body {
   font-size: 18px;
   line-height: 30px;
@@ -5997,8 +6000,8 @@ h1.special {
   overflow: hidden;
   margin: 0;
   text-transform: uppercase;
-  font-size: 69px;
-  line-height: 69px;
+  font-size: 80px;
+  line-height: 80px;
   font-weight: 700;
   color: #ff4545; }
   h1.special span {
@@ -6028,7 +6031,7 @@ h1.special {
     padding: 50px; }
   .tile h2 {
     margin: 0;
-    font-size: 100px;
+    font-size: 60px;
     font-weight: 400;
     letter-spacing: -0.05em;
     line-height: 100px; }
@@ -6114,7 +6117,7 @@ aside {
     margin: 0 5px; }
 
 .site-footer {
-  margin-top: 200px; }
+  /* margin-top: 200px; */ }
 
 .pagination-wrap {
   text-align: center; }
