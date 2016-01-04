@@ -2,10 +2,10 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
 
  <title>Scotch Jekyll Bootstrap</title>
- <link href="http://scotch-io.github.io/atom.xml" rel="self"/>
- <link href="http://scotch-io.github.io/"/>
- <updated>2016-01-04T02:11:40-05:00</updated>
- <id>http://scotch-io.github.io</id>
+ <link href="https://scotch-io.github.io/atom.xml" rel="self"/>
+ <link href="https://scotch-io.github.io/"/>
+ <updated>2016-01-04T02:14:28-05:00</updated>
+ <id>https://scotch-io.github.io</id>
  <author>
    <name>Nicholas Cerminara</name>
    <email>nick@scotch.io</email>
@@ -14,9 +14,9 @@
  
  <entry>
    <title>My First Video Post on Jekyll</title>
-   <link href="http://scotch-io.github.io/posts/2015-10-08-my-first-video-post"/>
+   <link href="https://scotch-io.github.io/posts/2015-10-08-my-first-video-post"/>
    <updated>2015-08-31T09:26:34-04:00</updated>
-   <id>http://scotch-io.github.io/posts/my-first-video-post</id>
+   <id>https://scotch-io.github.io/posts/my-first-video-post</id>
    <content type="html">&lt;p&gt;Steve Austin: Astronaut. A man barely alive. Gentlemen… we can rebuild him. We have the technology. We have the capability to make the world’s first bionic man. Steve Austin will be that man. Better than he was before. Better. Stronger. Faster.&lt;/p&gt;
 
 &lt;p&gt;My name is Rhoda Morgenstern. I was born in the Bronx, New York in December of 1941. I’ve always felt responsible for World War II. The first thing I remember liking that liked me back was food. I had a bad puberty; it lasted seventeen years. I’m a high school graduate. I went to art school. My entrance exam was on a book of matches. I decided to move out of the house when I was twenty-four. My mother still refers to this as the time I ran away from home. Eventually, I ran to Minneapolis, where it’s cold and I figured I’d keep better. Now I’m back in Manhattan. New York, this is your last chance!&lt;/p&gt;
@@ -28,9 +28,9 @@
  
  <entry>
    <title>My First Post on Jekyll</title>
-   <link href="http://scotch-io.github.io/posts/2015-08-31-example-post"/>
+   <link href="https://scotch-io.github.io/posts/2015-08-31-example-post"/>
    <updated>2015-08-31T09:26:34-04:00</updated>
-   <id>http://scotch-io.github.io/posts/example-post</id>
+   <id>https://scotch-io.github.io/posts/example-post</id>
    <content type="html">&lt;p&gt;Steve Austin: Astronaut. A man barely alive. Gentlemen… we can rebuild him. We have the technology. We have the capability to make the world’s first bionic man. Steve Austin will be that man. Better than he was before. Better. Stronger. Faster.&lt;/p&gt;
 
 &lt;p&gt;My name is Rhoda Morgenstern. I was born in the Bronx, New York in December of 1941. I’ve always felt responsible for World War II. The first thing I remember liking that liked me back was food. I had a bad puberty; it lasted seventeen years. I’m a high school graduate. I went to art school. My entrance exam was on a book of matches. I decided to move out of the house when I was twenty-four. My mother still refers to this as the time I ran away from home. Eventually, I ran to Minneapolis, where it’s cold and I figured I’d keep better. Now I’m back in Manhattan. New York, this is your last chance!&lt;/p&gt;
@@ -42,9 +42,9 @@
  
  <entry>
    <title>My First Normal Post on Jekyll</title>
-   <link href="http://scotch-io.github.io/posts/2015-10-08-my-first-normal-post"/>
+   <link href="https://scotch-io.github.io/posts/2015-10-08-my-first-normal-post"/>
    <updated>2015-08-15T09:26:34-04:00</updated>
-   <id>http://scotch-io.github.io/posts/my-first-normal-post</id>
+   <id>https://scotch-io.github.io/posts/my-first-normal-post</id>
    <content type="html">&lt;p&gt;Steve Austin: Astronaut. A man barely alive. Gentlemen… we can rebuild him. We have the technology. We have the capability to make the world’s first bionic man. Steve Austin will be that man. Better than he was before. Better. Stronger. Faster.&lt;/p&gt;
 
 &lt;p&gt;My name is Rhoda Morgenstern. I was born in the Bronx, New York in December of 1941. I’ve always felt responsible for World War II. The first thing I remember liking that liked me back was food. I had a bad puberty; it lasted seventeen years. I’m a high school graduate. I went to art school. My entrance exam was on a book of matches. I decided to move out of the house when I was twenty-four. My mother still refers to this as the time I ran away from home. Eventually, I ran to Minneapolis, where it’s cold and I figured I’d keep better. Now I’m back in Manhattan. New York, this is your last chance!&lt;/p&gt;

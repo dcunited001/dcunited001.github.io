@@ -3,10 +3,10 @@
   <channel>
     <title>Scotch Jekyll Bootstrap</title>
     <description>An Open-Source Bootstrap 3 Jekyll Theme by Scotch</description>
-    <link>http://scotch-io.github.io/</link>
-    <atom:link href="http://scotch-io.github.io/feed.xml" rel="self" type="application/rss+xml"/>
-    <pubDate>Mon, 04 Jan 2016 02:11:40 -0500</pubDate>
-    <lastBuildDate>Mon, 04 Jan 2016 02:11:40 -0500</lastBuildDate>
+    <link>https://scotch-io.github.io/</link>
+    <atom:link href="https://scotch-io.github.io/feed.xml" rel="self" type="application/rss+xml"/>
+    <pubDate>Mon, 04 Jan 2016 02:14:28 -0500</pubDate>
+    <lastBuildDate>Mon, 04 Jan 2016 02:14:28 -0500</lastBuildDate>
     <generator>Jekyll v3.0.1</generator>
     
       <item>
@@ -19,8 +19,8 @@
 
 </description>
         <pubDate>Mon, 31 Aug 2015 09:26:34 -0400</pubDate>
-        <link>http://scotch-io.github.io/posts/2015-10-08-my-first-video-post</link>
-        <guid isPermaLink="true">http://scotch-io.github.io/posts/2015-10-08-my-first-video-post</guid>
+        <link>https://scotch-io.github.io/posts/2015-10-08-my-first-video-post</link>
+        <guid isPermaLink="true">https://scotch-io.github.io/posts/2015-10-08-my-first-video-post</guid>
         
         <category>mars</category>
         
@@ -43,8 +43,8 @@
 
 </description>
         <pubDate>Mon, 31 Aug 2015 09:26:34 -0400</pubDate>
-        <link>http://scotch-io.github.io/posts/2015-08-31-example-post</link>
-        <guid isPermaLink="true">http://scotch-io.github.io/posts/2015-08-31-example-post</guid>
+        <link>https://scotch-io.github.io/posts/2015-08-31-example-post</link>
+        <guid isPermaLink="true">https://scotch-io.github.io/posts/2015-08-31-example-post</guid>
         
         <category>cats</category>
         
@@ -69,8 +69,8 @@
 
 </description>
         <pubDate>Sat, 15 Aug 2015 09:26:34 -0400</pubDate>
-        <link>http://scotch-io.github.io/posts/2015-10-08-my-first-normal-post</link>
-        <guid isPermaLink="true">http://scotch-io.github.io/posts/2015-10-08-my-first-normal-post</guid>
+        <link>https://scotch-io.github.io/posts/2015-10-08-my-first-normal-post</link>
+        <guid isPermaLink="true">https://scotch-io.github.io/posts/2015-10-08-my-first-normal-post</guid>
         
         <category>html</category>
         
