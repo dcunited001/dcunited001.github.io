@@ -9,6 +9,7 @@ includes_dir: ./_includes
 # Handling Reading
 safe:         false
 keep_files:   [".git", ".svn"]
+include:      [".htaccess", "_pages"]
 exclude:      ["Gemfile", "Gemfile.lock"]
 encoding:     "utf-8"
 markdown_ext: "markdown,mkdown,mkdn,mkd,md"
