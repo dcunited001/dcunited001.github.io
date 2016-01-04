@@ -11,6 +11,10 @@ $scotch-secondary: #FF7B7B;
 %roboto { font-family: 'Roboto Condensed', sans-serif; }
 
 
+footer p {
+    text-align: center;
+}
+
 body {
     @extend %roboto;
     font-size: 18px;
@@ -80,8 +84,8 @@ h1.special {
     margin: 0;
     text-transform: uppercase;
     @extend %oswald;
-    font-size: 69px;
-    line-height: 69px;
+    font-size: 80px;
+    line-height: 80px;
     font-weight: 700;
     color: $scotch-primary;
 
@@ -116,7 +120,7 @@ h1.special {
 
     h2 {
         margin: 0;
-        font-size: 100px;
+        font-size: 60px;
         font-weight: 400;
         letter-spacing: -0.05em;
         line-height: 100px;
@@ -235,7 +239,7 @@ aside {
 }
 
 .site-footer {
-    margin-top: 200px;
+    /* margin-top: 200px; */
 }
 
 .pagination-wrap {
