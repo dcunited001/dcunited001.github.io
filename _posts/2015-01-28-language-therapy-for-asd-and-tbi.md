@@ -1,6 +1,6 @@
 ---
 title: "Language Therapy for Autism and Traumatic Brain Injury"
-tags: "autism asd neuroscience machinelearning psychology hypothesis"
+tags: "health neuro machine-learning psychology language"
 categories: blog
 author:
   name: "David Conner"

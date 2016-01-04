@@ -2,7 +2,7 @@
 title: "Key Remap - The Digit-Symbol Hack"
 author:
   name: "David Conner"
-tags: "keyboard keyremap keyremap4macbook osx xkb xmodmap protips"
+tags: "keyboard osx xkb protips"
 ---
 
 ### Devs, you going to love this keyboard hack!

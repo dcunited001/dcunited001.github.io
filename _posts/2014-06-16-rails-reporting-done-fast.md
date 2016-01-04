@@ -2,7 +2,7 @@
 title: "Rails Reporting Done Fast Part I"
 author:
   name: "David Conner"
-tags: "mysql postgres postgresql ruby views functions reporting rails reports pdf csv xls"
+tags: "sql ruby reporting rails"
 ---
 
 ### Agile Reporting

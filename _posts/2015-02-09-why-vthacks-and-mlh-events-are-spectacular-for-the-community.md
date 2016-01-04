@@ -1,6 +1,6 @@
 ---
 title: "Why VTHacks and MLH Events are Spectacular for the Community"
-tags: "hackaton mlh coding education microsoft meetups community"
+tags: "hackatons education"
 categories: blog
 author:
   name: "David Conner"

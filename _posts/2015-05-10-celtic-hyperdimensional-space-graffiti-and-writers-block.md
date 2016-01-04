@@ -1,7 +1,7 @@
 ---
 title: "Celtic Hyperdimensional Space Graffiti and Writers' Block"
 categories: blog
-tags: "graffiti art dimenstionality writing"
+tags: "graffiti art writing"
 author:
   name: "David Conner"
 ---

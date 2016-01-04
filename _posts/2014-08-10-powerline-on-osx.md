@@ -2,7 +2,7 @@
 title: "Installing Powerline on OSX"
 author:
   name: "David Conner"
-tags: "powerline localtog bash zsh fish 1337 shell protips python pip homebrew"
+tags: "shell protips python osx"
 ---
 
 First we'll need to install `python`, `pip`, and `easy_install`.

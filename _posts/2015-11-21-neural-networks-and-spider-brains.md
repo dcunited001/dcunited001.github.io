@@ -1,7 +1,7 @@
 ---
 title: "Neural Networks and Spider Brains"
 categories: blog
-tags: "psychology philosophy spiders ai machine-learning"
+tags: "psychology philosophy ai machine-learning"
 author:
   name: "David Conner"
 ---

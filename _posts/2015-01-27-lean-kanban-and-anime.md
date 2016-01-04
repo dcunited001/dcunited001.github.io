@@ -1,6 +1,6 @@
 ---
 title: "Lean, Kanban and Anime"
-tags: "anime business marketing entertainment lean kanban"
+tags: "anime business marketing writing lean agile kanban"
 categories: blog
 author:
   name: "David Conner"

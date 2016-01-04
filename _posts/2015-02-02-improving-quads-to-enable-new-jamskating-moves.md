@@ -1,6 +1,6 @@
 ---
 title: "Improving Quads to Enable New Jamskating Moves"
-tags: "jamskating kickstarters creativity"
+tags: "jamskating creativity ideas"
 categories: blog
 author:
   name: "David Conner"

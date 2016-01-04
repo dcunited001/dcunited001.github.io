@@ -1,7 +1,7 @@
 ---
 title: "Experiences in Meditation"
 categories: blog
-tags: "meditation buddhism religion psychology"
+tags: "meditation religion psychology"
 author:
   name: "David Conner"
 ---

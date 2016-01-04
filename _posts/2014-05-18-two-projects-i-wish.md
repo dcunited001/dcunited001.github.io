@@ -2,7 +2,7 @@
 title: "Two Projects That Would Save the World"
 author:
   name: "David Conner"
-tags: "supercomputers bioinformatics biology savingtheworld chemistry"
+tags: "supercomputing bioinformatics biology savingtheworld chemistry"
 ---
 
 ### So I'm a guy with a TON of ideas

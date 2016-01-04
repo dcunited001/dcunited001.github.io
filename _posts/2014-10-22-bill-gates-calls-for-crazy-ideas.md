@@ -2,7 +2,7 @@
 title: "Bill Gates Calls for Crazy Ideas"
 author:
   name: "David Conner"
-tags: "ideas bioinformatics biology savingtheworld health protein"
+tags: "ideas bioinformatics biology savingtheworld health"
 ---
 
 So I saw a post by [Bill Gates on LinkedIn](https://www.linkedin.com/pulse/article/20141021225933-251749025-a-call-for-crazy-ideas), 

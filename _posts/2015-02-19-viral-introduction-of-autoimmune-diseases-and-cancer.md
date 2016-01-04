@@ -1,6 +1,6 @@
 ---
 title: "Viral Introduction of Autoimmune Diseases and Cancer"
-tags: "health medicine science virus biology savingtheworld bioinformatics biology"
+tags: "health medicine biology savingtheworld bioinformatics"
 categories: blog
 author:
   name: "David Conner"

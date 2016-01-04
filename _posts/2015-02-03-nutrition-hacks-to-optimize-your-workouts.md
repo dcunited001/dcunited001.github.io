@@ -1,6 +1,6 @@
 ---
 title: "Nutrition Hacks to Optimize Your Workouts"
-tags: "nutrition exercise health food yoga"
+tags: "fitness health food yoga"
 categories: blog
 author:
   name: "David Conner"

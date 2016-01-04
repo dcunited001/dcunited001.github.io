@@ -1,6 +1,6 @@
 ---
 title: "Public-ize all the things!"
-tags: "social privacy nsa surveillance philosophy"
+tags: "sociology social-media privacy surveillance philosophy"
 categories: blog
 author:
   name: "David Conner"

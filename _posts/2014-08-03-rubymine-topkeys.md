@@ -2,7 +2,7 @@
 title: "Rubymine Topkeys"
 author:
   name: "David Conner"
-tags: "rubymine intellij top topkey key keyboardshortcut keyboard hotkey productivity"
+tags: "text-editors keyboard productivity"
 # TODO: add tips on using features.
 # TODO: look for patterns in hotkeys (e.g. F7 is usually for Usages & F3 is usually for Bookmarks)
 # TODO: also update with the useful hotkeys that i blacked out because i already knew them

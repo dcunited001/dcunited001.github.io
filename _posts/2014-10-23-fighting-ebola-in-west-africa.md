@@ -2,7 +2,7 @@
 title: "Fighting Ebola in West Africa"
 author:
   name: "David Conner"
-tags: "ideas ebola health savingtheworld africa"
+tags: "ideas health savingtheworld"
 ---
 
 ### In a response to [Ban Ki-moon's post](https://www.linkedin.com/pulse/article/20141023150016-204317422-how-we-can-stop-ebola) on LinkedIn...
