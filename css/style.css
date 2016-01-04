@@ -5943,6 +5943,16 @@ body {
 footer p {
   text-align: center; }
 
+.tile .inner-guts img {
+  display: block;
+  max-width: 100%;
+  height: auto; }
+
+article img {
+  display: block;
+  max-width: 100%;
+  height: auto; }
+
 body {
   font-size: 18px;
   line-height: 30px;
