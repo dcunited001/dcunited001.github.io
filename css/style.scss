@@ -15,6 +15,18 @@ footer p {
     text-align: center;
 }
 
+.tile .inner-guts img {
+    display: block;
+    max-width: 100%;
+    height: auto;
+}
+
+article img {
+  display: block;
+  max-width: 100%;
+  height: auto;
+}
+
 body {
     @extend %roboto;
     font-size: 18px;
