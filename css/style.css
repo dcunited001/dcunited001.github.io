@@ -6008,20 +6008,22 @@ h1.special {
     display: inline-block;
     position: relative;
     padding: 0 15px;
-    max-width: 1000px; }
-    h1.special span:before, h1.special span:after {
-      content: '';
-      position: absolute;
-      display: block;
-      height: 1px;
-      background: #e8e8e8;
-      width: 99999999px;
-      top: 50%;
-      transform: translateY(-50%); }
-    h1.special span:before {
-      left: 100%; }
-    h1.special span:after {
-      right: 100%; }
+    max-width: 1000px;
+    /*
+            &:before, &:after {
+                content: '';
+                position: absolute;
+                display: block;
+                height: 1px;
+                background: #e8e8e8;
+                width: 99999999px;
+                top: 50%;
+                transform: translateY(-50%);
+            }
+    
+            &:before { left: 100%; }
+            &:after { right: 100%; }
+    */ }
 
 .tile {
   position: relative;
