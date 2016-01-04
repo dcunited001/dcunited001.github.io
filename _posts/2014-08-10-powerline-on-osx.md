@@ -24,14 +24,14 @@ I started following [this guide](https://gist.github.com/pithyless/1208841) to g
 but it may be a bit out of date.  I'm not very familiar with the Python ecosystem, but `brew install python` 
 seems to install `pip` and `easy_install` as well now.  All I needed to do was run the following commands:
 
-```bash
+{% highlight bash %}
 brew install readline sqlite gdbm
 brew install python --universal --framework
-```
+{% endhighlight %}
 
 And I verified with this:
 
-```bash
+{% highlight bash %}
 python --version && la `which python`
 # Python 2.7.6 
 # /usr/local/bin/python -> ../Cellar/python/2.7.6_1/bin/python
@@ -43,12 +43,12 @@ pip --version && la `which pip`
 easy_install --version && la `which easy_install` 
 # setuptools 3.6 
 # /usr/local/bin/easy_install -> ../Cellar/python/2.7.6_1/bin/easy_install 
-```
+{% endhighlight %}
 
 Then, I configured my environment for `virtualenv`, by adding the following to my `.bashrc`.  Some of these
 values will differ for you.
 
-```bash
+{% highlight bash %}
 PATH=${PATH}:/usr/local/share/python
 export SITE_PACKAGES=/usr/local/lib/python2.7/site-packages
 
@@ -63,21 +63,21 @@ if [[ -r /usr/local/bin/virtualenvwrapper.sh ]]; then
 else
     echo "WARNING: Can't find virtualenvwrapper.sh"
 fi
-```
+{% endhighlight %}
 
 Then, I installed `virtualenv` and `virtualenvwrapper` and tested:
 
-```bash
+{% highlight bash %}
 pip install virtualenv
 pip install virtualenvwrapper
-```
+{% endhighlight %}
 
 And I verified with this:
 
-```bash
+{% highlight bash %}
 mkvirtualenv test
 rmvirtualenv test
-```
+{% endhighlight %}
 
 `virtualenv` hit a few snags when running its callback scripts, but my zsh setup shows the name
 of the active virtualenv profile and that seemed to be working.  I wish I had more time to learn more 

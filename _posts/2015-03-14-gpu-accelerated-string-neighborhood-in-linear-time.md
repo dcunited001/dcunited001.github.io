@@ -101,7 +101,7 @@ Therefore, you no longer have to juggle resources for computing workloads and th
 
 So, since strings of nucleotides are essentially base-4 numbers, they can easily be encoded into binary and stored in 64-bit integers.  Example Integers are below, encoded in base-2 and base-4, starting on the left-hand side.
 
-```ruby
+{% highlight ruby %}
 acgtacgt.as_string = "ACGTACGT"
 aaaacccc.as_string = "AAAACCCC"
 
@@ -111,11 +111,11 @@ aaaacccc.as_base2 = "0000000001010101"
 
 acgtacgt.as_base4 = "01230123"
 aaaacccc.as_base4 = "00001111"
-```
+{% endhighlight %}
 
 For binary numbers, Hamming Distance is usually calculated by xor'ing each input and counting the bits.  Fortunately, there is a CPU instruction just for counting bits, as it turns out that this is an incredibly important operation that is very fast in hardware.  For two base-4 numbers, things are a bit more complicated.  But Hamming Distance can still be reduced to a single operation -- and a single FPGA instruction.
 
-```ruby
+{% highlight ruby %}
 binary1 = "00110011"
 binary2 = "01100011"
 difbits = "01010000"
@@ -125,7 +125,7 @@ countbits("01010000") = 2
 
 # therefore, the base2 hamming distance is 2
 #   because there are two bits that differ between binary1 and binary2
-```
+{% endhighlight %}
 
 Using base4 numbers encoded into 64-bit integers, things are a bit more complicated.  We're not just looking for the bits that are different.  Instead, we're looking for the number of 2-bit values that differ.  We'll need to shuffle the bits around to ensure that each 2-bit position is counted only once.  
 
@@ -139,7 +139,7 @@ Here's the algorithm to calculate the hamming distance between two nucleotides A
 #### &#x2605; &nbsp; H = G & Z
 #### &#x2605; &nbsp; HammingDist(A,B) = countBits(H)
 
-```ruby
+{% highlight ruby %}
 +------------------+----------+----------+
 | A = ACGTACGT     | 00011011 | 00011011 |
 | B = AAAACCCC     | 00000000 | 01010101 |
@@ -156,7 +156,7 @@ Here's the algorithm to calculate the hamming distance between two nucleotides A
 | ---------------- | -------- | -------- |
 | HammingDist(A,B) | 3        | 3        |
 +------------------+----------+----------+
-```
+{% endhighlight %}
 
 ### That's just Hamming Distance in Constant Time.  Who cares?
 
@@ -176,14 +176,14 @@ This algorithm basically performs 2-bit addition on a member of the Base Neighbo
 
 The most beneficial aspect of the Neighbor Transform is that the algorithm doesn't require intermediate data values.  In other words, all operations of the Neighborhood Transform algorithm can proceed at the same time.  All you have to do is coordinate the transformation of each member of the set.  Therefore, it's GPU accelerable, assuming you have the original Base Neighborhood calculated.  This is a major advantage!
 
-```ruby
+{% highlight ruby %}
 +---------------------+------+-------------+
 | Base Nucleotide     | AAAA | 00 00 00 00 |
 | Target Neighborhood | ACGT | 00 01 10 11 |
 | Nucleotide          | AAGA | 00 00 10 00 |
 | AAGA ~+ ACGT        | ACAT | 00 01 00 11 |
 +---------------------+------+-------------+
-```
+{% endhighlight %}
 
 ### This Neighbor Transform Alg is also Applicable to Amino Acid & Codon Neighborhoods
 

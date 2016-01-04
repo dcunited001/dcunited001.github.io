@@ -14,23 +14,23 @@ Here's one way category theory applies to human behavior.  I'm going to generici
 
 Let's write this out with javascript:
 
-```javascript
+{% highlight javascript %}
 function myBehavior() {
   me.askFor('Alpha');
   me.askFor('Beta');
   me.askFor('Gamma');
 }
-```
+{% endhighlight %}
 
 And let's say that you're afraid that asking for this information will alert this person to your intentions.  Now, let's say you have some people you have influence over -- your unwitting minions Alice, Bob and Carol -- *mwua haha ha.*  Well, then, let's apply the Category Theory concept of Functors to abstract this behavior and obfuscate it.
 
-```javascript
+{% highlight javascript %}
 function myNewBehavior() {
   me.ask('Alice').toAskFor('Alpha');
   me.ask('Bob').toAskFor('Beta');
   me.ask('Carol').toAskFor('Gamma');
 }
-```
+{% endhighlight %}
 
 Congratulations, you've just basically used your minions to abstract your behavior and hide your motivations.  If the person you're acquiring information from *knew you wanted to know about Alpha, Beta and Gamma*, **then they could also conclude you were going to Zeta sometime soon**.  I apologize -- things get confusing when you're dealing with [abstract nonsense](http://en.wikipedia.org/wiki/Abstract_nonsense).  
 
