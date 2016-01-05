@@ -3,9 +3,10 @@
 @import '../_sass/bootstrap';
 @import '../_sass/syntax-highlighting';
 
-
-$scotch-primary: rgb(255, 69, 69);
-$scotch-secondary: #FF7B7B;
+$texel-primary: rgb(255, 69, 69);
+$texel-secondary: #FF7B7B;
+$texel-navbar-heart: rgb(255, 111, 111);
+$texel-navbar-lambda: rgb(111, 111, 255);
 
 %oswald { font-family: 'Oswald', sans-serif; }
 %roboto { font-family: 'Roboto Condensed', sans-serif; }
@@ -15,6 +16,9 @@ footer p {
     text-align: center;
 }
 
+/* Img Fix
+--------------------------------------------------
+*/
 .tile .inner-guts img {
     display: block;
     max-width: 100%;
@@ -26,6 +30,10 @@ article img {
   max-width: 100%;
   height: auto;
 }
+
+/* Social buttons
+--------------------------------------------------
+*/
 
 body {
     @extend %roboto;
@@ -42,7 +50,7 @@ a {
     outline: none !important;
     text-decoration: none !important;
     transition: all 225ms ease;
-    color: $scotch-secondary;
+    color: $texel-secondary;
 
     &:hover { color: #6165FF; }
 }
@@ -56,6 +64,7 @@ h1, h2, h3, h4, h5, h6 { @extend %oswald; }
     background: #086AFF;
     color: #fff;
 }
+
 nav.navbar {
     margin: 0;
 
@@ -69,14 +78,20 @@ nav.navbar {
 
         i {
             transition: inherit;
-            color: $scotch-primary;
+            color: $texel-primary;
             transform: scale(1);
         }
 
         &:hover i {
-            color: rgb(255, 111, 111);
+            color: $texel-navbar-heart;
             transform: scale(1.35);
         }
+
+        &:hover i span.navbar-lambda {
+            color: $texel-navbar-lambda;
+            transform: scale(1.35);
+        }
+
     }
 }
 .title-group {
@@ -99,7 +114,7 @@ h1.special {
     font-size: 80px;
     line-height: 80px;
     font-weight: 700;
-    color: $scotch-primary;
+    color: $texel-primary;
 
     span {
         display: inline-block;
