@@ -5,6 +5,11 @@
 * [Demo](http://scotch-io.github.io)
 * [Read the Jekyll Tutorial](https://scotch.io/tutorials/getting-started-with-jekyll-plus-a-free-bootstrap-3-starter-theme)
 
+### Noteable Bootstrap/Jekyll/CSS Themes
+
+- [Minimal Mistakes](https://mmistakes.github.io/minimal-mistakes/)
+
+
 ## WTF?
 
 Jekyll is a simple and blog-aware static site generator built in Ruby. In laymen terms, it's just a tool to let you have **all the cool features of a full-blown CMS without having to worry about managing a database**. This means hosting is *extremely easy* and *scalable* since all you're doing is managing a bunch of files.

@@ -5943,6 +5943,9 @@ body {
 footer p {
   text-align: center; }
 
+/* Img Fix
+--------------------------------------------------
+*/
 .tile .inner-guts img {
   display: block;
   max-width: 100%;
@@ -5953,6 +5956,9 @@ article img {
   max-width: 100%;
   height: auto; }
 
+/* Social buttons
+--------------------------------------------------
+*/
 body {
   font-size: 18px;
   line-height: 30px;
@@ -5994,6 +6000,9 @@ nav.navbar {
       transform: scale(1); }
     nav.navbar .navbar-brand:hover i {
       color: #ff6f6f;
+      transform: scale(1.35); }
+    nav.navbar .navbar-brand:hover i span.navbar-lambda {
+      color: #6f6fff;
       transform: scale(1.35); }
 
 .title-group {
