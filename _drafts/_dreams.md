@@ -1,0 +1,109 @@
+- also, need to write down some of the older dreams that i had
+  - Individual Eleven dream (with sephiroth) (this was a christmas morning dream, 1-3 years ago)
+  - reflection dream where i saw the two girls (this dream is craaazzyyy bc tatiana)
+    - one girl (reflection) i saw but i didn't recognize
+    - the other girl her reflection i saw.  and i recognized as she was turning away and it was too late
+  - and then there's the crazy ass world war dream i had from when i was like 10 years old or whatever
+
+- dreams where by subconscious is trying to communicate a metaphor to me for the state of my brain
+  - lupus dream where i'm reading a book and the pages are flying around
+  - columbian drug lord dream where i was floating down a river without enough water
+    - everyone else was doing fine (metaphor for blood cells/neurons?)
+      - 
+    - i met my friend (daniel collins) who explained the situation, which i was familiar with
+      - we met up before we got in the river (i think? 11/24/15)
+    - he started to inject me with artificial blood to smuggle the coke with
+    - drug lord tried to kill me with a drill
+  - dream where my house was filling up with water until it touched the electrical sockets
+  - dream where i dug up a dead body, traveled to chicago and opened a new path in the woods
+
+    - <11/24/15> this was in february, i believe
+    - the dream began in my house, everything was dark & it was night 
+      - the dead body was in my next door neighbor's yard. i don't know who it was.
+      - my neighbor's house was no longer there. it had been torn down.
+      - this is the neighbor's house that is visible from my bedroom
+    - i dug up the dead body.  i was afraid of being caught for something
+      - but i can't remember what it was. (11/24/15)
+      - i can't remeber who's body it was.  i think it was my own
+    - i was a bit scared, so i started walking down the hill behind my house
+      - i started climbing the hill that roanoke college owns.
+      - as i got to the top of that hill, i fell down 
+        - it was as if i entered through a tear in space
+        - this is why i think it's a metaphor for my brain
+        - i fell down another hill and it was bright outside, daytime
+      - i realized i was somewhere different entirely and i had no idea where
+        - i believe i thought i was somewhere near chicago
+        - somewhere very far from where i had started
+        - i kept walking.  i was nowhere near cities or anything
+        - just woods and paths and dirt roads
+      - </11/24/15>
+    - i eventually got to where i could proceed no further
+      - i had to choose to go left or go right, and the path i chose was much more overrun (11/24/15)
+      - everything in the overrun path was very dark, lots of vegetation in the way (11/24/15)
+    - my brain tried to warn me not to go down this path, but i chose to anyways
+      - i don't know that my brain was warning me about the path, (11/24/15)
+        - but instead, that the consequences of taking it would be arduous
+    - when i pulled out a flashlight the path turned out to lead to my own room
+      - i shined the flashlight around and i could see things in my room
+    - this was the dream that i had right before i activated repressed memories
+  - dreams change when i get bit by a spider
+    - i suddenly get vivid imagery related to spiders, like webs, etc
+    - wake up suddenly, usually screaming in fear and jump out of the bed, sprinting down the stairs
+    - occasionally discover a spider bite the next day
+  - ice skating in canada 
+  - dream where i was wondering around a bboy jam 
+    - and there was always "taht one guy" that i would try to battle
+      - it seemed this guy was focusing so much negativity towards me
+    - i was doing really well (i had made a pretty good bboy comeback) .., but this one guy  
+      - i would be cyphering and doing some really sick moves
+        - there were 3 or four battle circles.  
+        - i was doing hollows and just occasional power moves
+    - i was mostly focusing on teaching others there -- not how to break, but how to learn to break
+      - just giving general advice on how to avoid my own mistakes
+      - and while i was talking, i was toprock, but mostly focused on dancing for fun
+      - having fun while dancing and focused on style. 
+    - these are some of the things i wanted to teach during the dream
+      - not giving up.  having fun.  self-expression.  consistent training and the cost of even just a week break
+      - i was trying to talk about my own mistakes and how to avoid them
+      - and why learning a skill like breaking is important for learning about life
+      - and the most important lesson i wanted to impart was to learn how to learn a skill
+    - i could tell that some of the bboy's in the circles were really listening. maybe 20%
+      - i could tell that many of the bboys just weren't paying attention.  
+      - they were focused on the other bboy's at the jam
+      - another 20% or so had a look on their face like "why's this has-been telling me how to learn"
+    - but there was this one guy that just wanted to destroy me
+      - he sought to prove to everyone there that i was a failure and kept trying to call me out
+      - he would get into the cypher battle circle, while i was just trying to focus on style
+    - and he would bust out power, but then like wrap himself around me
+      - it was weird, it was like a visual 3-d distortion, where he spiraled around me
+      - when it happened, it would kill my back.  like it felt like my spine was going to break
+    - i would shift away and move, and he would do it again and again.
+      - i tried moving toanother circle and he just kept following me.
+      - when he would wrap himself around me, i would cry out because it felt like my back was going to snap
+      - he was putting a ton of physical pressure on my spine.  my spine was curving so much,
+        - if i didn't escape, he was going to snap it.  i even yelled out "yo you're going to break my spine!"
+    - i don't think this was a metaphor for deality with paggro/hostile people in my life
+      - although that's certainly possible
+      - i think it was a metaphor for a part of my brain that was/is domineering the rest
+        - i feel like there's part of my brain that's failing or pushing out the rest
+        - and my brain is trying to subconsciously communicate this to me through metaphors in my dreams
+      - i think that the bboy's in the dream are like neurons or parts of my brain
+        - and i'm trying to push them to correcting some kind of problem 
+        - and prevent these parts of my brain from giving up in a hopeless battle against whatever
+      - and yet, there's this one guy, this dick that is determined to fuck it all up 
+
+  - other dreams:
+    - jousting with taylor swift on rolly chairs
+      - also hung out with jennifer chang and some guy i don't know in this dream, like at their house
+      - we cooked food or something, then me and lots of other people were in a highschool with linoleum floors
+        - this is where the rolly chair jousting went down
+        - it was more like chicken.  i lost taylor swift won lol.
+      - also this dream got really weird shortly after and involve specific people from years ago in my life
+        - but we'll just pretend these are separate dreams
+        - mng was !@#$'ing some girl in roller skates, in front of a long line of people, just rolling along
+          - when he asked her to do it (in front of everyone) she had a look on her face
+            - like, she didn't *really* want to, but .. meh, whatever.  
+            - she was already blowing him in front of everyone
+
+
+
