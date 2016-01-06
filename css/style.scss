@@ -31,6 +31,11 @@ article img {
   height: auto;
 }
 
+article iframe {
+    display:block;
+    max-width: 100%;
+}
+
 /* Social buttons
 --------------------------------------------------
 */
@@ -89,7 +94,7 @@ nav.navbar {
 
         &:hover i span.navbar-lambda {
             color: $texel-navbar-lambda;
-            transform: scale(1.35);
+            /* transform: scale(1.35); */
         }
 
     }
