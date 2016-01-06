@@ -141,7 +141,7 @@ IVVMM::::.:.:. . ... .::II:.::..:.. .. .. . . .:.:::IHH:.:HHIIHIHH':-'
           :::..:... .. .::IIH..:.::.:.. . ... . .:.::.II:I::'III
           ':::.:.. ... .::IIH::.:.:.:. .. .. . .:..::.::.:::  HI
            ::::.:.. .. .::IIH:.:.::.:. . .. . . .:...:.:.:.'  HI
-           '::::.. .. ..::IIH::.::.:.:.. ... . . .:.:.:.:.:   II    
+           '::::.. .. ..::IIH::.::.:.:.. ... . . .:.:.:.:.:   II
 
             (her name's roxanne)
 
@@ -184,9 +184,22 @@ IVVMM::::.:.:. . ... .::II:.::..:.. .. .. . . .:.:::IHH:.:HHIIHIHH':-'
         <script src="//cdnjs.cloudflare.com/ajax/libs/html5shiv/3.7.2/html5shiv.min.js"></script>
         <script src="/js/respond.min.js"></script>
     <![endif]-->
-
 </head>
-<body class="">
+  <body class="">
+    
+
+    <!-- ganalytics -->
+    <script>
+      (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
+      (i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
+      m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
+      })(window,document,'script','//www.google-analytics.com/analytics.js','ga');
+
+      ga('create', 'UA-49910074-1', 'xel.io');
+      ga('send', 'pageview');
+    </script>
+
+    
 
     <nav class="navbar navbar-inverse navbar-fixed-top">
         <div class="container-fluid">
@@ -230,7 +243,7 @@ IVVMM::::.:.:. . ... .::II:.::..:.. .. .. . . .:.:::IHH:.:HHIIHIHH':-'
 
 
 
-    
+
 
 <div class="title-group">
     <h1 class="special">
@@ -248,13 +261,13 @@ IVVMM::::.:.:. . ... .::II:.::..:.. .. .. . . .:.:::IHH:.:HHIIHIHH':-'
     </p>
 </div>
 
-    <main>
-        <div class="container">
-            <div class="row">
-                <div class="col-md-12">
-                    
+<main>
+  <div class="container">
+    <div class="row">
+      <div class="col-md-12">
+        
 
-                    <nav class="pagination-wrap">
+        <nav class="pagination-wrap">
     <ul class="pagination pagination-lg">
         
 
@@ -263,10 +276,10 @@ IVVMM::::.:.:. . ... .::II:.::..:.. .. .. . . .:.:::IHH:.:HHIIHIHH':-'
         
     </ul>
 </nav>
-                </div>
-            </div>
-        </div>
-    </main>
+      </div>
+    </div>
+  </div>
+</main>
 
 
     <footer class="site-footer">
