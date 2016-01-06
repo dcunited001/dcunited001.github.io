@@ -1,0 +1,22 @@
+{% include header.html %}
+
+{% include title-group.html %}
+
+<div class="container">
+
+  <article>
+    <div class="row">
+      <div class="col-md-10 col-md-offset-1">
+        {{ content }}
+      </div>
+    </div>
+
+    <section class="comments">
+      {% include disqus.html title=page.title url=page.url %}
+    </section>
+
+  </article>
+
+</div>
+
+{% include footer.html %}

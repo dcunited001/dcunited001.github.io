@@ -1,0 +1,10 @@
+{% if site.data.global.disqus %}
+<div id="disqus_thread"></div>
+<script type="text/javascript">
+  window.disqus_identifier="";
+  window.disqus_url="{{ site.data.global.url }}/{{ include.url }}";
+  window.disqus_title="{{ include.title }}";
+</script>
+<script type="text/javascript" src="https://disqus.com/forums/{{ site.data.global.disqus }}/embed.js"></script>
+<noscript><a href="https://{{ site.data.global.disqus }}.disqus.com/?url=ref">View the discussion thread.</a></noscript>
+{% endif %}
