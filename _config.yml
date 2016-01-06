@@ -9,7 +9,7 @@ includes_dir: ./_includes
 # Handling Reading
 safe:         false
 keep_files:   [".git", ".svn"]
-include:      [".htaccess", "_pages"]
+include:      [".htaccess", "_pages", "tags", "projects"]
 exclude:      ["Gemfile", "Gemfile.lock"]
 encoding:     "utf-8"
 markdown_ext: "markdown,mkdown,mkdn,mkd,md"
@@ -46,23 +46,30 @@ quiet:    false
 defaults:
   -
     scope:
-      path: "" 
+      path: ""
     values:
       layout: "default"
   -
     scope:
       path: ""
       type: "posts"
-    values: 
+    values:
       layout: "post"
       permalink: "/posts/:title.html"
   -
     scope:
       path: ""
       type: "projects"
-    values: 
+    values:
       layout: inner
       permalink: "/projects/:title.html"
+  -
+    scope:
+      path: ""
+      type: "tags"
+    values:
+      layout: tags
+      permalink: "/tags/:tag"
 
 # Markdown Processors
 rdiscount:
@@ -86,10 +93,3 @@ kramdown:
     coderay_tab_width:         4
     coderay_bold_every:        10
     coderay_css:               style
-
-# jekyll-tagging
-tag_page_layout: tag_page
-tag_page_dir: tag
-tag_feed_layout: tag_feed
-tag_feed_dir: tag
-tag_permalink_style: pretty

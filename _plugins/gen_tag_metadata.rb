@@ -16,19 +16,19 @@ def write_tag_files(tags)
     tag_path = get_tag_page_path(t[:slug])
     unless File.exist?(tag_path)
       File.open(tag_path, 'w') { |f|
-        f.write(get_tag_file_content(t[:slug], t[:permalink]))
+        f.write(get_tag_file_content(t[:slug]))
       }
     end
   end
 end
 
 
-def get_tag_file_content(slug, permalink)
+def get_tag_file_content(slug)
 <<EOS
 ---
-layout: tags
+layout: tag
 tag: #{slug}
-parmalink: #{permalink}
+parmalink: /tags/#{slug}
 ---
 EOS
 end
@@ -38,7 +38,7 @@ def get_tags_yaml_filename
 end
 
 def get_tag_page_path(slug)
-  File.join(File.dirname(__FILE__), '..', '_tags', "#{slug}.md")
+  File.join(File.dirname(__FILE__), '..', 'tags', "#{slug}.md")
 end
 
 def read_tags_yaml
