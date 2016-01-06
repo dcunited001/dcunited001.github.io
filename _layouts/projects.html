@@ -1,0 +1,20 @@
+{% include header.html %}
+
+{% include title-group.html %}
+
+<main>
+  <div class="container">
+    <div class="row">
+      <div class="col-md-12">
+        {% assign projects = site.projects | sort: 'display_order' %}
+        {% for post in projects %}
+
+        {% include tile.html %}
+
+        {% endfor %}
+      </div>
+    </div>
+  </div>
+</main>
+
+{% include footer.html %}
