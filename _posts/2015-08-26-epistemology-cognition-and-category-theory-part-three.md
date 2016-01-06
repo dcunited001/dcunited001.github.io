@@ -2,6 +2,8 @@
 title: "Epistemology, Cognition and Category Theory: Part Three - Directive Cognitive Expansion"
 categories: blog
 tags: "philosophy math psychology category-theory intelligence"
+headline: Strenthening Specific Mental Faculties through Learning
+excerpt: There's a huge focus on STEM and this is appropriate, but the arts offer immense benefits to further accelerate development and self-actualization.  We can't forget that what we seem to do just for fun has a great benefit in how we'll perform at work.
 author:
   name: "David Conner"
 ---

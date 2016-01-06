@@ -2,8 +2,10 @@
 title: "Epistemology, Cognition and Category Theory: Part One"
 categories: blog
 tags: "philosophy math psychology category-theory intelligence"
+headline: "Phenomenology and an Unintented Ontological Argument"
 author:
   name: "David Conner"
+excerpt: "I love learning new things.  I get to experience beginner's mind again and it gives me a chance to reflect on the process I use to learn.  By actively observing beginner's mind, you can refamiliarize yourself with its nature, so that you might be able to partially apply this state of mind when you need it.  By introspecting on this process, I hope to continually improve it. I try to approach new activities and skills from a multitude of perspectives and I like to examine the similarities between everything."
 ---
 
 Lately, I've been working on learning skateboarding and some tricking.  At the moment, I'm pretty terrible at both.   If I had the time to practice more, I would improve very quickly.  Especially if I had someone better to practice with who could teach me and push me harder. It's amazing how the presence of others can stimulate improvement, especially when they are significantly more proficient at what you're trying to learn. 
