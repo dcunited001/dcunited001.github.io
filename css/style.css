@@ -5997,17 +5997,17 @@ nav.navbar {
     text-transform: uppercase;
     font-size: 16px; }
   nav.navbar .navbar-brand {
-    text-transform: none; }
+    text-transform: none;
+    font-weight: bold; }
     nav.navbar .navbar-brand i {
       transition: inherit;
-      color: #ff4545;
+      color: #FF4545;
       transform: scale(1); }
     nav.navbar .navbar-brand:hover i {
-      color: #ff6f6f;
+      color: #FF6060;
       transform: scale(1.35); }
-    nav.navbar .navbar-brand:hover i span.navbar-lambda {
-      color: #6f6fff;
-      /* transform: scale(1.35); */ }
+    nav.navbar .navbar-brand:hover .navbar-lambda {
+      color: #6F6FFF; }
 
 .title-group {
   text-align: center;
@@ -6026,7 +6026,7 @@ h1.special {
   font-size: 80px;
   line-height: 80px;
   font-weight: 700;
-  color: #ff4545; }
+  color: #FF4545; }
   h1.special span {
     display: inline-block;
     position: relative;
