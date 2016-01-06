@@ -12,11 +12,33 @@ def get_unique_tags(posts)
 end
 
 def write_tag_files(tags)
+  tags.each do |t|
+    tag_path = get_tag_page_path(t[:slug])
+    unless File.exist?(tag_path)
+      File.open(tag_path, 'w') { |f|
+        f.write(get_tag_file_content(t[:slug], t[:permalink]))
+      }
+    end
+  end
+end
 
+
+def get_tag_file_content(slug, permalink)
+<<EOS
+---
+layout: tags
+tag: #{slug}
+parmalink: #{permalink}
+---
+EOS
 end
 
 def get_tags_yaml_filename
   File.join(File.dirname(__FILE__), '..', '_data', 'tags.yml')
+end
+
+def get_tag_page_path(slug)
+  File.join(File.dirname(__FILE__), '..', '_tags', "#{slug}.md")
 end
 
 def read_tags_yaml
@@ -42,11 +64,8 @@ end
 
 Jekyll::Hooks.register :site, :pre_render do |site|
   old_tags = read_tags_yaml
-  tags = get_unique_tags(site.posts)
+  tags = slugify_tags(get_unique_tags(site.posts))
 
-
-  unless slugify_tags(tags) == old_tags
-    write_tag_yaml(tags)
-
-  end
+  write_tag_yaml(tags) unless tags == old_tags
+  write_tag_files(tags)
 end
