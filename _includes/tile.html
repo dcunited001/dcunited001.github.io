@@ -11,16 +11,26 @@
   </a>
   {% endif %}
   <div class="inner-guts">
-    <h2><a href="{{ post.url | prepend: site.baseurl }}">{{ post.title }}</a></h2>
     <aside>
+
+      {% if post.type == "project" %}
+      {{ post.date | date: "%Y" }}
+      {% else %}
       {{ post.date | date: "%m.%d.%y" }}
+      {% endif %}
+
       {% if post.categories != empty %}
-      &middot;
       {% for category in post.categories %}
-      <span>{{ category }}</span>
+      &middot;&nbsp;<span>{{ category | capitalize }}</span>
       {% endfor %}
       {% endif %}
+
+      {% if post.headline %}
+      &middot;&nbsp;<span class="headline">{{ post.headline }}</span>
+      {% endif %}
     </aside>
+    <h2><a href="{{ post.url | prepend: site.baseurl }}">{{ post.title }}</a></h2>
+
     <div class="excerpt">{{ post.excerpt }}</div>
     <a href="{{ post.url | prepend: site.baseurl }}" class="read-more btn btn-info btn-lg">Read More <i class="fa fa-angle-right"></i></a>
     {% if post.tags != empty %}

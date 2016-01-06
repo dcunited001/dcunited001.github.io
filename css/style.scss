@@ -8,6 +8,9 @@ $texel-secondary: #FF7B7B;
 $texel-navbar-heart: #FF6060;
 $texel-navbar-lambda: #6F6FFF;
 
+
+$texel-aside-grey: #525252;
+
 %oswald { font-family: 'Oswald', sans-serif; }
 %roboto { font-family: 'Roboto Condensed', sans-serif; }
 
@@ -101,13 +104,25 @@ nav.navbar {
 .title-group {
     text-align: center;
     padding: 0 15px;
-    margin: 50px 0 100px;
+    margin: 50px 0 50px;
 
     p {
         max-width: 800px;
         margin: 25px auto 0;
     }
 }
+
+.project-title-group {
+    text-align: center;
+    padding: 0 15px;
+    margin: 50px 0 50px;
+
+    p {
+        max-width: 800px;
+        margin: 25px auto 0;
+    }
+}
+
 h1.special {
     position: relative;
     text-align: center;
@@ -149,14 +164,14 @@ h1.special {
     box-shadow: 0 0.15em 0.35em 0 rgba(0, 0, 0, 0.135);
     margin-bottom: 125px;
 
-    .inner-guts { padding: 50px; }
+    .inner-guts { padding: 20px; }
 
     h2 {
-        margin: 0;
+        margin: 0;;
         font-size: 60px;
         font-weight: 400;
         letter-spacing: -0.05em;
-        line-height: 100px;
+        // line-height: 100px;
     }
 
     .featurette {
@@ -242,7 +257,7 @@ h1.special {
     }
 
     .read-more {
-        margin-top: 50px;
+        margin-top: 10px;
         width: 100%;
         max-width: 175px;
         position: relative;
@@ -261,14 +276,22 @@ h1.special {
 
 aside {
     font-size: 17px;
-    color: #525252;
-    margin: 16px 0;
+    line-height: 100%;
+    color: $texel-aside-grey;
+    margin: 0px 0;
     @extend %oswald;
 
     span {
-        text-transform: uppercase;
-        margin: 0 5px;
+        text-transform: none;
+        // margin: 0 5px;
     }
+
+    span.headline {
+        text-transform: none;
+        color: $texel-aside-grey;
+        // margin: 0 5px;
+    }
+
 }
 
 .site-footer {
