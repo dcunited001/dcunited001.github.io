@@ -2,6 +2,7 @@
 title: "Neural Networks and Spider Brains"
 categories: blog
 tags: "psychology philosophy ai machine-learning"
+headline: Do Spiders Dream of Electric Sheep?
 author:
   name: "David Conner"
 ---
