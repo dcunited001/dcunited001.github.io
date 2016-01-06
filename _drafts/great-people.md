@@ -21,13 +21,15 @@ others to work with us?
 >
 > Stay Foolish.
 
+!["Stay Hungry. Stay Foolish." - Steve Jobs](/img/posts/2016-01-03-facets-of-greatness/steve-jobs-stay-hungry-stay-foolish.jpg)
+
 explain the facets of greatness as me trying to explain a concept 
 - which involves characteristics that can't really be explained.  
 - and the facets are like the faces of this abstract thing that can be explained.  
 - mostly stretching the metaphor in the title though
 - everything is like this to some degree
 - but i hope that by explaining these facets, that it's easier for others
-- to relate to 
+- to relate to
 
 [ explain the list ]
 
