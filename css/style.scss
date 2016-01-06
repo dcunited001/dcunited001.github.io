@@ -3,14 +3,13 @@
 @import '../_sass/bootstrap';
 @import '../_sass/syntax-highlighting';
 
-$texel-primary: rgb(255, 69, 69);
+$texel-primary: #FF4545;
 $texel-secondary: #FF7B7B;
-$texel-navbar-heart: rgb(255, 111, 111);
-$texel-navbar-lambda: rgb(111, 111, 255);
+$texel-navbar-heart: #FF6060;
+$texel-navbar-lambda: #6F6FFF;
 
 %oswald { font-family: 'Oswald', sans-serif; }
 %roboto { font-family: 'Roboto Condensed', sans-serif; }
-
 
 footer p {
     text-align: center;
@@ -80,6 +79,7 @@ nav.navbar {
 
     .navbar-brand {
         text-transform: none;
+        font-weight: bold;
 
         i {
             transition: inherit;
@@ -92,9 +92,8 @@ nav.navbar {
             transform: scale(1.35);
         }
 
-        &:hover i span.navbar-lambda {
+        &:hover .navbar-lambda {
             color: $texel-navbar-lambda;
-            /* transform: scale(1.35); */
         }
 
     }
