@@ -11,8 +11,8 @@ permalink: /tags/
 		{% assign tags = site.tags | sort %}
 		{% for tag in site.tags %}
 	
-			<a href="/tags/{{ tag | first | slugify }}/" 
-			data-weight="{{ tag | last | size | times: 4 | plus: 20 }}">{{ tag | first | replace: '-', ' ' }}</a>
+		<a href="/tags/{{ tag | first | slugify }}"
+			 data-weight="{{ tag | last | size | times: 4 | plus: 20 }}">{{ tag | first | replace: '-', ' ' }}</a>
 
 		{% endfor %}
 	</ul>
