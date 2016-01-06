@@ -6012,8 +6012,16 @@ nav.navbar {
 .title-group {
   text-align: center;
   padding: 0 15px;
-  margin: 50px 0 100px; }
+  margin: 50px 0 50px; }
   .title-group p {
+    max-width: 800px;
+    margin: 25px auto 0; }
+
+.project-title-group {
+  text-align: center;
+  padding: 0 15px;
+  margin: 50px 0 50px; }
+  .project-title-group p {
     max-width: 800px;
     margin: 25px auto 0; }
 
@@ -6053,13 +6061,12 @@ h1.special {
   box-shadow: 0 0.15em 0.35em 0 rgba(0, 0, 0, 0.135);
   margin-bottom: 125px; }
   .tile .inner-guts {
-    padding: 50px; }
+    padding: 20px; }
   .tile h2 {
     margin: 0;
     font-size: 60px;
     font-weight: 400;
-    letter-spacing: -0.05em;
-    line-height: 100px; }
+    letter-spacing: -0.05em; }
   .tile .featurette {
     position: relative;
     display: block;
@@ -6120,7 +6127,7 @@ h1.special {
       line-height: 1.5;
       text-transform: uppercase; }
   .tile .read-more {
-    margin-top: 50px;
+    margin-top: 10px;
     width: 100%;
     max-width: 175px;
     position: relative;
@@ -6135,11 +6142,14 @@ h1.special {
 
 aside {
   font-size: 17px;
+  line-height: 100%;
   color: #525252;
-  margin: 16px 0; }
+  margin: 0px 0; }
   aside span {
-    text-transform: uppercase;
-    margin: 0 5px; }
+    text-transform: none; }
+  aside span.headline {
+    text-transform: none;
+    color: #525252; }
 
 .site-footer {
   /* margin-top: 200px; */ }

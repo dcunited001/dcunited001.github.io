@@ -246,20 +246,25 @@ IVVMM::::.:.:. . ... .::II:.::..:.. .. .. . . .:.:::IHH:.:HHIIHIHH':-'
 
 
 <div class="title-group">
-    <h1 class="special">
-        <span>
-        
-            <i class="fa fa-star"></i> te.xel.io <i class="fa fa-rocket"></i>
-        
-        </span>
-    </h1>
+  
+
+  <h1 class="special">
+    <span>
+      
+      <i class="fa fa-star"></i> te.xel.io <i class="fa fa-rocket"></i>
+      
+    </span>
+  </h1>
+  
+
+  <p class="lead">
     
-    <p class="lead">
-        
-            
-        
-    </p>
+    
+    
+  </p>
+
 </div>
+
 
 <main>
   <div class="container">
