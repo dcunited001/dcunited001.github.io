@@ -5956,6 +5956,10 @@ article img {
   max-width: 100%;
   height: auto; }
 
+article iframe {
+  display: block;
+  max-width: 100%; }
+
 /* Social buttons
 --------------------------------------------------
 */
@@ -6003,7 +6007,7 @@ nav.navbar {
       transform: scale(1.35); }
     nav.navbar .navbar-brand:hover i span.navbar-lambda {
       color: #6f6fff;
-      transform: scale(1.35); }
+      /* transform: scale(1.35); */ }
 
 .title-group {
   text-align: center;
