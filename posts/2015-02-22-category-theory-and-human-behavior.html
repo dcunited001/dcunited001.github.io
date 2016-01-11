@@ -146,7 +146,7 @@ IVVMM::::.:.:. . ... .::II:.::..:.. .. .. . . .:.:::IHH:.:HHIIHIHH':-'
             (her name's roxanne)
 
            -->
-    <title>Finally! A Blog! ♥ te.xel.io</title>
+    <title>Category Theory and Human Behavior ♥ te.xel.io</title>
     <meta http-equiv="X-UA-Compatible" content="IE=edge,chrome=1">
     <meta name="viewport" content="width=device-width, initial-scale=1.0, maximum-scale=1.0">
     <meta content="yes" name="apple-mobile-web-app-capable">
@@ -251,13 +251,13 @@ IVVMM::::.:.:. . ... .::II:.::..:.. .. .. . . .:.:::IHH:.:HHIIHIHH':-'
   <h1 class="special">
     <span>
       
-      Finally! A Blog!
+      Category Theory and Human Behavior
       
     </span>
   </h1>
   
   <aside>
-    04.10.14
+    02.22.15
     
     &middot;
     
@@ -282,27 +282,73 @@ IVVMM::::.:.:. . ... .::II:.::..:.. .. .. . . .:.:::IHH:.:HHIIHIHH':-'
     <section class="article-content">
       <div class="row">
         <div class="col-md-10 col-md-offset-1">
-          <p>This is a blog where I can boast about my technological feats.</p>
+          <p><img src="/img/posts/2015-02-22-category-theory-and-human-behavior/monoidal-functor.png" alt="Just Keep Reading" /></p>
 
-<h3 id="static-ftw">Static FTW</h3>
+<h3 id="just-keep-reading-its-really-not-that-complicated">Just Keep Reading, It’s Really Not That Complicated</h3>
 
-<p>It’s a <em>completely static</em> site, built using the <a href="https://linemanjs.com">Lineman</a> front-end framework.
-I used the <a href="https://github.com/linemanjs/lineman-blog-template">Lineman Blog Template</a> as a starting point
-and added <a href="http://getbootstrap.com/">Bootstrap</a> to make it shiny and responsive.  Try playing around
-with different screen sizes and see how the page reacts.</p>
+<p>Here’s one way category theory applies to human behavior.  I’m going to genericize this and apply an example using javascript – don’t fret, it will be very simple.  You should be able to understand this without programming.  Now let’s say that you need to acquire 3 pieces of information – Alpha, Beta, and Gamma.  It doesn’t really matter what pieces of information Alpha, Beta, and Gamma – it could be anything.  This is a generic example.</p>
 
-<h3 id="a-markdown-blog-template-with-bootstrap">A Markdown Blog Template with Bootstrap</h3>
+<p>Let’s write this out with javascript:</p>
 
-<p>I also created a <a href="https://github.com/dcunited001/lineman-blog-bootstrap-template">blog template</a> with
-bootstrap ready to go with a few other features as well.  That way, I
-can easily create a separate blog for skating, etc.  All of my sites
-will be hosted on subdomains on <em>xel.io</em> because IO domains are $70 and
-I’m cheap like that.  Also, xel is a pretty generic word-stem.</p>
+<figure class="highlight"><pre><code class="language-javascript" data-lang="javascript"><span class="kd">function</span> <span class="nx">myBehavior</span><span class="p">()</span> <span class="p">{</span>
+  <span class="nx">me</span><span class="p">.</span><span class="nx">askFor</span><span class="p">(</span><span class="s1">&#39;Alpha&#39;</span><span class="p">);</span>
+  <span class="nx">me</span><span class="p">.</span><span class="nx">askFor</span><span class="p">(</span><span class="s1">&#39;Beta&#39;</span><span class="p">);</span>
+  <span class="nx">me</span><span class="p">.</span><span class="nx">askFor</span><span class="p">(</span><span class="s1">&#39;Gamma&#39;</span><span class="p">);</span>
+<span class="p">}</span></code></pre></figure>
 
-<p>Anyone with a text editor can use this blog template, writing posts in 
-<a href="http://daringfireball.net/projects/markdown/">Markdown</a>.  Well, you might 
-need to know a little bit about Git, DNS and hosting.  But, it’s really simple
-and it’s static.</p>
+<p>And let’s say that you’re afraid that asking for this information will alert this person to your intentions.  Now, let’s say you have some people you have influence over – your unwitting minions Alice, Bob and Carol – <em>mwua haha ha.</em>  Well, then, let’s apply the Category Theory concept of Functors to abstract this behavior and obfuscate it.</p>
+
+<figure class="highlight"><pre><code class="language-javascript" data-lang="javascript"><span class="kd">function</span> <span class="nx">myNewBehavior</span><span class="p">()</span> <span class="p">{</span>
+  <span class="nx">me</span><span class="p">.</span><span class="nx">ask</span><span class="p">(</span><span class="s1">&#39;Alice&#39;</span><span class="p">).</span><span class="nx">toAskFor</span><span class="p">(</span><span class="s1">&#39;Alpha&#39;</span><span class="p">);</span>
+  <span class="nx">me</span><span class="p">.</span><span class="nx">ask</span><span class="p">(</span><span class="s1">&#39;Bob&#39;</span><span class="p">).</span><span class="nx">toAskFor</span><span class="p">(</span><span class="s1">&#39;Beta&#39;</span><span class="p">);</span>
+  <span class="nx">me</span><span class="p">.</span><span class="nx">ask</span><span class="p">(</span><span class="s1">&#39;Carol&#39;</span><span class="p">).</span><span class="nx">toAskFor</span><span class="p">(</span><span class="s1">&#39;Gamma&#39;</span><span class="p">);</span>
+<span class="p">}</span></code></pre></figure>
+
+<p>Congratulations, you’ve just basically used your minions to abstract your behavior and hide your motivations.  If the person you’re acquiring information from <em>knew you wanted to know about Alpha, Beta and Gamma</em>, <strong>then they could also conclude you were going to Zeta sometime soon</strong>.  I apologize – things get confusing when you’re dealing with <a href="http://en.wikipedia.org/wiki/Abstract_nonsense">abstract nonsense</a>.</p>
+
+<p>Interestingly, these same concepts also apply to computer hacking, where you need to outwit automated algorithms for detecting abnormal behavior – <strong>and you do so using Agent-based Design Patterns</strong> …</p>
+
+<p>… ** <em>aaaand a botnet.</em> **  <em>You’re going to need a botnet.</em></p>
+
+<h3 id="functors-and-natural-transformations">Functors and Natural Transformations</h3>
+
+<p>So, in the code sample above, we’ve just applied the <strong>Agent-based Design Pattern</strong> to our original function myBehavior as a <em>*Category Theory *Functor</em> **.  And now we have a new function called myNewBehavior.</p>
+
+<p>At least, I think Functor is the right term, but I might actually be referring to Natural Transformations – <em>I DON’T EVEN KNOW LMAO.</em>  The details of how Functors work aren’t really important – <strong>but they are incredibly useful</strong>, if you understand them.</p>
+
+<p><img src="/img/posts/2015-02-22-category-theory-and-human-behavior/functor-joke.jpg" alt="Functor Joke LMAO" /></p>
+
+<p>This is getting complicated, but if you’re into computer science, you can use Abstract Syntax Trees (AST’s) to basically modify any existing code written in any programming language and add functionality to it.  You could theoretically wrap any function with code for Dynamic Programming.  You could even transform it to another programming language.  It’s !@#$’ing magic.  It is, however, overly complicated and 999 times out of 1,000, there is an easier way to do things.  It ain’t easy, that’s for sure.  I’ve never done it.</p>
+
+<h3 id="ltgives-audience-generous-pause-for-laughtergt">&lt;gives audience generous pause for laughter&gt;</h3>
+
+<p>My point is that category theory underpins human behavior – conversation, interaction, motivation, sociology, etc.  All of these can be mathematically described using tree-like structures representing self-modifying functions, coupled with game theory and other mathematic concepts.  Category theory is also applicable in genericizing and amalgamating other behavior that you see.  You can basically interpret any behavior as a function, then replace the specifics with variables and combine with other functions to reuse it.</p>
+
+<p><strong>If you don’t understand this math</strong> – that’s OK.  That’s what’s nice about having a human brain – you don’t actually have to understand how its functionality works to use it.  You just do.  By the time you pop out and before you start crawling, your brain is already capable of linear algebra, category theory and other complex concepts, many of which are still far beyond human understanding.  If your brain wasn’t capable of these things, you wouldn’t be able to learn to walk or cross the street.</p>
+
+<h3 id="make-it-stop--lol-im-kidding-im-kidding">Make It Stop!!  LOL I’m kidding, I’m kidding.</h3>
+
+<p>This is what I’ve been seeing in my head for the past few months.  Well, this and several kinds of more complicated, high dimensional graph structures.</p>
+
+<p><img src="/img/posts/2015-02-22-category-theory-and-human-behavior/functor.jpg" alt="Functors" /></p>
+
+<p>Functors are mappings between multiple categories.  Between any two “finite” categories – that is, two categories with a finite set of objects and a finite number of mappings (morphisms) between those objects – there is a finite number of functors encompassing the set of all functors between them.  These represent the myriad of ways to combinate between one category to the next … mayyybe.  Jeez, I should maybe learn a little more about this so I $#@!’ing know what I’m talking about.  I should – idonno – go to college or something.  Or at least be surrounded by other people who do know what the !@#$ they’re talking about!</p>
+
+<h2 id="oh-irony">Oh, Irony</h2>
+
+<p>See – the ironic part is that I’ve never really been able to intuitively understand social behavior.  Yet, now that I’ve been able to intellectualize it, I can become more profient than most ordinary people who aren’t able to intellectualize it.</p>
+
+<h3 id="and-now-for-your-daily-dose-of-google-im-feeling-lucky">And now, for your daily dose of “Google, I’m Feeling Lucky”</h3>
+
+<iframe width="420" height="315" src="https://www.youtube.com/embed/vJVZAvrg-ts" frameborder="0" allowfullscreen=""></iframe>
+
+<h4 id="kagamine-rin---abstract-nonsense-english-subbed">Kagamine Rin - Abstract Nonsense (English Subbed)</h4>
+
+<p>Yeesh …. On second thought, there’s some really bad imagery in that video.  Dammit.  Read the lyrics, pay no attention to the pictures in the video.  There really are some relevant subjects intermingled between the bullshit.  Gee, thanks Google.</p>
+
+<h3 id="up-next-abusing-the-equals-function-to-actually-make-category-theory-useful">Up next, abusing the equals function to <em>actually make category theory useful.</em></h3>
+
+<p>Equals is a function too, donchya kno?!</p>
 
         </div>
       </div>
@@ -313,8 +359,8 @@ and it’s static.</p>
 <div id="disqus_thread"></div>
 <script type="text/javascript">
   window.disqus_identifier="";
-  window.disqus_url="https://te.xel.io//posts/first-post.html";
-  window.disqus_title="Finally! A Blog!";
+  window.disqus_url="https://te.xel.io//posts/2015-02-22-category-theory-and-human-behavior.html";
+  window.disqus_title="Category Theory and Human Behavior";
 </script>
 <script type="text/javascript" src="https://disqus.com/forums/te-xel-io/embed.js"></script>
 <noscript><a href="https://te-xel-io.disqus.com/?url=ref">View the discussion thread.</a></noscript>
