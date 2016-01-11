@@ -60,7 +60,7 @@ defaults:
       type: "posts"
     values:
       layout: "post"
-      permalink: "/posts/:title.html"
+      permalink: "/posts/:year-:month-:day-:title.html"
   -
     scope:
       path: ""
