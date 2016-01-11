@@ -1,3 +1,11 @@
+
+organize content
+
+- add taylor swift dream
+- add ice skating dream
+- add older dreams from notebook
+- add dream about malala
+
 - also, need to write down some of the older dreams that i had
   - Individual Eleven dream (with sephiroth) (this was a christmas morning dream, 1-3 years ago)
   - reflection dream where i saw the two girls (this dream is craaazzyyy bc tatiana)
