@@ -1,0 +1,8 @@
+### So maybe I don't look the part.
+
+But I do have the knowledge, the wisdom, the creativity required.  I've had plenty of ideas stolen.  It doesn't even phase me anymore.  Most of the time, I'd rather give them away, knowing that helped out my friends.  Many times, I don't even want the credit.
+
+This last summer, I was sponsored by Bont, but moved into a living situation in Raleigh with my teammates and ... it didn't really work out -- believe it or not, it has something to do with bedbugs, which are apparently my mortal enemy.  I had hoped to have the chance to innovate on products specifically for jamskating, but ended up quitting and moving back to Roanoke.  Every single time I try to make a comeback in jamskating, I work really hard for about two months and then a perfect shitstorm of drama rears its ugly head.  *Every single time.*  
+
+I've tried to enter back into the sport like seven times now, but haven't really felt into it since November 2006, when I lost my license for marijuana possession, which severely inhibited me from practicing and traveling.  I can't emphasize enough how this seemingly benign setback snowballed into something greater and greater.  Got a DUI in late 2008?  **made significantly worse because of the previous marijuana possession.**  In this case, I was supposed to lose my license for a year.  Instead, because of the increased "treatment" just for marijuana, it was almost two years before I started driving again.  It's like being punished twice.  I **finally** got my license back.  In 2011.  Guess what?  A month later.  Busted for weed again.  *By Virginia Tech*  Ridiculous.  Both times I got drug charges, I am fairly sure that I was set up by someone I know.
+
