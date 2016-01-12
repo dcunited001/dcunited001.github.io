@@ -100,6 +100,17 @@ blog about all the blogs i haven't written
   - computers are physical manifestations of certain kinds of math
   - aliens, at least terrans, should similarly progress through materials and computing technologies
   - likely had similar processor architectures and similar distinctions between computer languages (alien lisp)
+  - aliens need to solve many of the same problems we do for technology
+    - so they likely need to have very similar experiments to do so
+    - and they make many of the same breakthroughs in a simliar progression
+  - aliens then observing us would understand the problems we are facing
+    - and those we are about to face
+  - there would be many differences though, based on:
+    - availability of resources, form/function of species and speciation
+    - defining qualities of environment and the form of intelligent life
+    - specific progression of technology
+    - cataclysmic events 
+
 - measuring the degree to which inner/outer neural networks
   - are disrupted by variations in input and correlate this to the performance of the network
   - using this as an important meta-measure of how well these certain phenomena are captured by the network
