@@ -1,8 +1,9 @@
 ---
 title: "Facets of Greatness"
+categories: "blog"
+tags: "business psychology philosophy"
 author:
   name: "David Conner"
-  tags: "business psychology life philosophy"
 ---
 
 What makes a person like Elon Musk or Steve Jobs such a great person?
@@ -12,9 +13,15 @@ forward, in spite of hardship?  What attributes contribute to the
 development of these qualities and behaviors? Why are these attributes
 important?
 
+What kinds of knowledge help us form and realize a vision? What
+knowledge catalyzes the development of such a vision?  What inspires
+others to work with us?
+
 > Stay Hungry.
 >
 > Stay Foolish.
+
+!["Stay Hungry. Stay Foolish." - Steve Jobs](/img/posts/2016-01-03-facets-of-greatness/steve-jobs-stay-hungry-stay-foolish.jpg)
 
 explain the facets of greatness as me trying to explain a concept 
 - which involves characteristics that can't really be explained.  
@@ -22,22 +29,36 @@ explain the facets of greatness as me trying to explain a concept
 - mostly stretching the metaphor in the title though
 - everything is like this to some degree
 - but i hope that by explaining these facets, that it's easier for others
-- to relate to 
+- to relate to
 
 [ explain the list ]
 
 ### Quantification
+
 ### Communication
+
 ### Signaling
+
 ### Orchestration
+
 ### Knowledge
+
 ### Vision
+
 ### Story
+
 ### Identity
+
 ### Strategy
-### Legal System
+
+### The System
+
+
 
 ## Quantification
+
+Perhaps one facet is more important than others.  It's hard to say and
+while describing each facet, it seems that one is the crux.
 
 they try to systematically and reproducibly measure everything they can. 
 - the leaders of enterprise throughout history, but especially in the past century, 
