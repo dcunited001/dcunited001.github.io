@@ -4,6 +4,8 @@ description: ''
 url: 'https://te.xel.io'
 footer_text: ''
 
+disqus: 'te-xel-io'
+
 # Admin Settings
 admin_name: 'David Conner'
 admin_email: ''

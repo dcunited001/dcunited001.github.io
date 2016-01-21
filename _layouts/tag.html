@@ -1,0 +1,27 @@
+{% include header.html %}
+
+<div class="title-group">
+  <h1 class="special">
+    <span><i class="fa fa-tag"></i>&nbsp;{{ page.tag | replace:'-',' ' }}</span>
+  </h1>
+
+  <aside>
+    {% if site.tags[page.tag] %}
+    {{ site.tags[page.tag] | size }}&nbsp;Posts
+    {% endif %}
+  </aside>
+</div>
+
+<article>
+  <div class="container">
+    {% if site.tags[page.tag] %}
+    {% for post in site.tags[page.tag] %}
+
+    {% include tile.html %}
+
+    {% endfor %}
+    {% endif %}
+  </div>
+</article>
+
+{% include footer.html %}

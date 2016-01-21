@@ -2,8 +2,10 @@
 title: "Epistemology, Cognition and Category Theory: Part Two - A Model for the Mind"
 categories: blog
 tags: "philosophy math psychology category-theory intelligence"
+headline: A High Level Overview of Cognitive Faculties
 author:
   name: "David Conner"
+excerpt: "Data and metadata about functions and language in particular is likely found all over the brain. And information related to other faculties of the mind is likely similarly sharded all over the brain. This would help achieve dynamic behavior, as it would allow multiple regions of the brain to sort of map functionality together. But doing so would also contribute to efficiency and redundancy."
 ---
 
 ## A High Level Overview

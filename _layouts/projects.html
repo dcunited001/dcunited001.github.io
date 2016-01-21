@@ -6,11 +6,12 @@
   <div class="container">
     <div class="row">
       <div class="col-md-12">
-        {% for post in paginator.posts %}
-        {% include tile.html %}
-        {% endfor %}
+        {% assign projects = site.projects | sort: 'display_order' %}
+        {% for post in projects %}
 
-        {% include pagination.html %}
+        {% include tile.html %}
+
+        {% endfor %}
       </div>
     </div>
   </div>
