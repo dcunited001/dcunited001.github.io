@@ -49,6 +49,36 @@ blog about all the blogs i haven't written
       - e.g. bioinformatics string-neighborhood can be accelerated 
 - post on the qualities of great people (see draft)
 
+- series on linux distros (linuxi)
+  - 
+- article on building/installing a bootloader, securely
+
+- man should prove himself wise enough to preserve nature as it is before attempting to alter it
+  - 
+
+- article on dark matter, gravity and relativity
+  - specifically, is the speed of light truly constant for all conditions
+    - light is composed of particle waves flowing through space
+      - if space curves, light appears to curve, but the flow of light doesn't affect the medium
+        - for the most part, the mass of energy flowing through space as photons
+          - doesn't affect the structure of space.
+      - however, if light is flowing in sync with a gravity wave,
+        - the gravity wave [supposedly] flows at the speed of light
+          - but distorts the structure of spacetime itself as it propagates
+        - therefore it would alter the apparent speed of light flowing in the same direction
+        - possibly(??) causing that light to *appear* to travel 
+          - at slightly less/slightly more than c
+   - if this is true, or if something similar is true, and c is not universally constant
+     - but instead c varies from apparent c, dependent on the structure of space,
+     - then what is c, really?
+     - and how does this affect other laws of physics?
+       - which are dependent on c? are they actually dependent on local/apparent c?
+     - and how does this affect the conclusions we've reached using statistic modeling of the cosmos?
+   - it's probably not tru to begin with (i don't knwo all the mathematic complexities)
+     - however, it's interesting to thing that something so fundamental as the constant nature of c
+       - may not be so constant
+     - and it's an interesting thought experiment to examine the dependencies of theories in physics
+       - if X, changes how does that affect theories based on X?  etc..
 
 - quasi-religious ideals
   - acting as though you literally are the other person
