@@ -48,6 +48,8 @@ rescue
 end
 
 def slugify_tags(tags)
+  # slugify_tags is no longer required for write_tag_yaml
+  # - glad i happened to catch that
   tags.reduce([]) {|memo, (k,v)|
     memo << {slug: k, name: v}
   }
@@ -57,8 +59,7 @@ def write_tag_yaml(tags)
   # assuming __FILE__ is ./_plugins
   yaml_filename = get_tags_yaml_filename
   File.open(yaml_filename, 'w') do |f|
-    tags_list = slugify_tags(tags)
-    f.write(tags_list.to_yaml)
+    f.write(tags.to_yaml)
   end
 end
 

@@ -113,3 +113,7 @@
   :name: Intelligence
 - :slug: ai
   :name: Ai
+- :slug: linux
+  :name: Linux
+- :slug: security
+  :name: Security
