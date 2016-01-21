@@ -1,9 +1,9 @@
 <!doctype html>
-<!--[if lt IE 7 ]><html itemscope itemtype="http://schema.org/Organization" id="ie6" class="ie ie-old" lang="en-US"><![endif]-->
-<!--[if IE 7 ]>   <html itemscope itemtype="http://schema.org/Organization" id="ie7" class="ie ie-old" lang="en-US"><![endif]-->
-<!--[if IE 8 ]>   <html itemscope itemtype="http://schema.org/Organization" id="ie8" class="ie ie-old" lang="en-US"><![endif]-->
-<!--[if IE 9 ]>   <html itemscope itemtype="http://schema.org/Organization" id="ie9" class="ie" lang="en-US"><![endif]-->
-<!--[if gt IE 9]><!--><html itemscope itemtype="http://schema.org/Organization" lang="en-US"><!--<![endif]-->
+<!--[if lt IE 7 ]><html itemscope itemtype="http://schema.org/Article" id="ie6" class="ie ie-old" lang="en-US"><![endif]-->
+<!--[if IE 7 ]>   <html itemscope itemtype="http://schema.org/Article" id="ie7" class="ie ie-old" lang="en-US"><![endif]-->
+<!--[if IE 8 ]>   <html itemscope itemtype="http://schema.org/Article" id="ie8" class="ie ie-old" lang="en-US"><![endif]-->
+<!--[if IE 9 ]>   <html itemscope itemtype="http://schema.org/Article" id="ie9" class="ie" lang="en-US"><![endif]-->
+<!--[if gt IE 9]><!--><html itemscope itemtype="http://schema.org/Article" lang="en-US"><!--<![endif]-->
 <head>
 
     <!-- Meta -->
@@ -146,7 +146,7 @@ IVVMM::::.:.:. . ... .::II:.::..:.. .. .. . . .:.:::IHH:.:HHIIHIHH':-'
             (her name's roxanne)
 
            -->
-    <title>te.xel.io ♥ </title>
+    <title>Bootloader and rEFInd Security ♥ te.xel.io</title>
     <meta http-equiv="X-UA-Compatible" content="IE=edge,chrome=1">
     <meta name="viewport" content="width=device-width, initial-scale=1.0, maximum-scale=1.0">
     <meta content="yes" name="apple-mobile-web-app-capable">
@@ -251,10 +251,20 @@ IVVMM::::.:.:. . ... .::II:.::..:.. .. .. . . .:.:::IHH:.:HHIIHIHH':-'
   <h1 class="special">
     <span>
       
-      <i class="fa fa-star"></i> te.xel.io <i class="fa fa-rocket"></i>
+      Bootloader and rEFInd Security
       
     </span>
   </h1>
+  
+  <aside>
+    01.21.16
+    
+    &middot;
+    
+    <span>Blog</span>
+    
+    
+  </aside>
   
 
   <p class="lead">
@@ -266,25 +276,167 @@ IVVMM::::.:.:. . ... .::II:.::..:.. .. .. . . .:.:::IHH:.:HHIIHIHH':-'
 </div>
 
 
-<main>
-  <div class="container">
-    <div class="row">
-      <div class="col-md-12">
-        
+<div class="container">
 
-        <nav class="pagination-wrap">
-    <ul class="pagination pagination-lg">
-        
+  <article>
+    <section class="article-content">
+      <div class="row">
+        <div class="col-md-10 col-md-offset-1">
+          <p>To properly implement rEFInd, this means <em>you need to know what
+you’re doing</em>, especially if your security requires more than usual
+concern.  Otherwise, you’re completely exposing super-root access to
+your laptop.</p>
 
-        
+<p>I cannot underscore the importance of these, if security is a top
+priority.  If it is, you should really not be running rEFInd.  You
+should have a single bootable OS, with a minimal bootloader and you
+should be using Secure Boot.</p>
 
-        
-    </ul>
-</nav>
+<blockquote>
+  <p>Plz Note: this list should not be considered exhaustive, nor
+should this post be considered authoritative.  I’m just learning
+about bootloaders myself.  But this is a good starting point.</p>
+</blockquote>
+
+<p>I should also note that configuring all these correctly is a pain.
+It will require entering two passwords before you get to your OS
+password.</p>
+
+<h2 id="general-password-security-notes">General Password Security Notes</h2>
+
+<p>For many, using a password manager sounds overly complicated,
+especially one that’s not sync’d to the cloud.  However, I can assure
+you, it’s actually way simpler. Just trust me. Everyone needs a
+variable degree of privacy, but it’s important to know what
+protections your process actually gives you.</p>
+
+<blockquote>
+  <p>Don’t let someone own all your bases at once.</p>
+</blockquote>
+
+<p>In general: use distinct passwords for LUKS, disk-encryption, password
+safes, OS users and OS Super Users.  This provides proper security
+through compartmentalization.</p>
+
+<p>Furthermore, compartmentalize your use of a password manager by
+creating multiple files (with separate keys!) and secure access to
+these files <em>physically</em>.  That is, separate your most important
+passwords (GMail, etc) from the rest of your passwords.  If you have
+passwords for work or whatever, don’t store them all in one place.</p>
+
+<p>Don’t store these password files on your computer and definitely not
+in the cloud.  Instead, store the most crucial ones on a
+LUKS-encrypted USB drive.  Or use a YubiKey, properly configured.</p>
+
+<h2 id="signing-your-efi-bootloader">(1) Signing your EFI bootloader!</h2>
+
+<p>If your bootloader is not signed, it can be modified.  This means a
+malicious program could make modifications to your kernel images, in
+memory, before your OS fully loads.  For OSX, Linux or Windows, this
+means that arbitrary code could be loaded at the OS level as you’re
+booting.  This can wreak all kinds of havoc and/or mute any
+protections you might think you have.</p>
+
+<h2 id="configuring-secure-boot">(2) Configuring Secure Boot!</h2>
+
+<p>This involves signing your bootloader and configuring UEFI to reject
+bootloaders that don’t hash out…</p>
+
+<h2 id="restricting-your-uefi-boot-devices">(3) Restricting your UEFI boot devices!</h2>
+
+<p>Someone who attains root access in an install can alter/update the
+UEFI boot order or trigger an alternate UEFI boot.  This means they
+can boot from CD/USB or whatever.  So even if you do not have
+vulnerabilities in your systems configured, they can attain access
+through an external linux ISO.  If you’ve configured things correctly,
+this should not provide them with any more options.</p>
+
+<h2 id="limiting-your-efieefind-boot-options">(4) Limiting your EFI/eEFInd boot options!</h2>
+
+<p>There are several problematic defaults for rEFInd, but which are
+needed for newbs.  For example, if you don’t restrict rEFInd boot
+options, rEFInd scans accessible disks for bootable images.  Any of
+these images can be booted.  You can configure rEFInd to allow users
+to alter arguments passed to bootable images (partition, luks options,
+etc.)  This is a very helpful option if you’re learning about this
+stuff, but also another avenue for an adversary with physical access.
+And rEFInd offers other tools like MOKS and other options which are
+enabled by default.  After you’ve got your bootloader set and signed,
+you need to disable this stuff.</p>
+
+<h2 id="utilizing-whole-disk-encryption-luks">(5) Utilizing whole-disk encryption (LUKS)!</h2>
+
+<p>If you’re not using LUKS whole-disk encryption, this means anyone who
+has 10 minutes access to your laptop can access rEFInd.  Using LUKS
+should prompt you for a password before you can boot into rEFInd.</p>
+
+<h2 id="encrypting-your-individual-partitions">(6) Encrypting your individual partitions!</h2>
+
+<p>If your disks are not encrypted, they are full accessible to any
+OS/program than can be booted from EFI.  This means if you have a
+linux install that you’re just messing with, someone could obtain
+access to all your OSX data, if that partition is not encrypted.
+Using disk encryption for individual partitions means that you should
+be prompted for a password before you boot into an OS from rEFInd.
+That’s a second password, before you get to your OS password.</p>
+
+<h2 id="consistent-partition-table">(7) Consistent Partition Table</h2>
+
+<p>When working with an existing OSX installation, you can end up with
+a hybrid partition table, which is confusing.  You may need to image
+your partitions and reload them.</p>
+
+<h2 id="retaining-access-to-your-macs-restore-partition">(8) Retaining access to your Mac’s Restore Partition!</h2>
+
+<p>If things go wrong, you’re going to want access to the restore
+partition, as it provides alot of tools for troubleshooting these
+problems, especially with regard to OSX and Mac hardware.
+It really sucks to not have this when you need it.</p>
+
+<h2 id="while-not-locking-yourself-out-of-refind">(9) While not locking yourself out of rEFInd!</h2>
+
+<p>Retain a bootloader backup that can be used in case you hose
+your.  If you can’t boot into rEFInd, you’re going to have to
+get creative to restore it.  This means backing up your EFI
+partition and getting access to change your UEFI boot order.</p>
+
+<p>I think.  Haven’t gone through this myself.  Like I said.  I’m not an
+expert here.</p>
+
+<h2 id="using-distinct-keys-for-luks-encryption-and-passwords">(10) Using distinct keys for LUKS, Encryption and Passwords</h2>
+
+<p>Your individual partitions should not be encrypted with the same key.
+You can’t access a password manager at boot time.  You should not
+reuse your LUKS key or any of your disk encryption keys as passwords
+anywhere else.  Disk encryption is not very secure, especially if
+adversaries have physical access or can image sections of your disk
+multiple times.</p>
+
+<p>That’s all I can think of for now. Leave a comment below if you’d
+like to discuss.</p>
+
+
+        </div>
       </div>
-    </div>
-  </div>
-</main>
+    </section>
+
+    <section class="comments">
+      
+<div id="disqus_thread"></div>
+<script type="text/javascript">
+  window.disqus_identifier="";
+  window.disqus_url="https://te.xel.io//posts/2016-01-21-bootloader-and-refind-security.html";
+  window.disqus_title="Bootloader and rEFInd Security";
+</script>
+<script type="text/javascript" src="https://disqus.com/forums/te-xel-io/embed.js"></script>
+<noscript><a href="https://te-xel-io.disqus.com/?url=ref">View the discussion thread.</a></noscript>
+
+
+    </section>
+
+  </article>
+
+</div>
 
 
     <footer class="site-footer">

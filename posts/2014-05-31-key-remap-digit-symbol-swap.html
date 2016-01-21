@@ -1,9 +1,9 @@
 <!doctype html>
-<!--[if lt IE 7 ]><html itemscope itemtype="http://schema.org/Organization" id="ie6" class="ie ie-old" lang="en-US"><![endif]-->
-<!--[if IE 7 ]>   <html itemscope itemtype="http://schema.org/Organization" id="ie7" class="ie ie-old" lang="en-US"><![endif]-->
-<!--[if IE 8 ]>   <html itemscope itemtype="http://schema.org/Organization" id="ie8" class="ie ie-old" lang="en-US"><![endif]-->
-<!--[if IE 9 ]>   <html itemscope itemtype="http://schema.org/Organization" id="ie9" class="ie" lang="en-US"><![endif]-->
-<!--[if gt IE 9]><!--><html itemscope itemtype="http://schema.org/Organization" lang="en-US"><!--<![endif]-->
+<!--[if lt IE 7 ]><html itemscope itemtype="http://schema.org/Article" id="ie6" class="ie ie-old" lang="en-US"><![endif]-->
+<!--[if IE 7 ]>   <html itemscope itemtype="http://schema.org/Article" id="ie7" class="ie ie-old" lang="en-US"><![endif]-->
+<!--[if IE 8 ]>   <html itemscope itemtype="http://schema.org/Article" id="ie8" class="ie ie-old" lang="en-US"><![endif]-->
+<!--[if IE 9 ]>   <html itemscope itemtype="http://schema.org/Article" id="ie9" class="ie" lang="en-US"><![endif]-->
+<!--[if gt IE 9]><!--><html itemscope itemtype="http://schema.org/Article" lang="en-US"><!--<![endif]-->
 <head>
 
     <!-- Meta -->
@@ -146,7 +146,7 @@ IVVMM::::.:.:. . ... .::II:.::..:.. .. .. . . .:.:::IHH:.:HHIIHIHH':-'
             (her name's roxanne)
 
            -->
-    <title>te.xel.io ♥ </title>
+    <title>Key Remap - The Digit-Symbol Hack ♥ te.xel.io</title>
     <meta http-equiv="X-UA-Compatible" content="IE=edge,chrome=1">
     <meta name="viewport" content="width=device-width, initial-scale=1.0, maximum-scale=1.0">
     <meta content="yes" name="apple-mobile-web-app-capable">
@@ -251,10 +251,15 @@ IVVMM::::.:.:. . ... .::II:.::..:.. .. .. . . .:.:::IHH:.:HHIIHIHH':-'
   <h1 class="special">
     <span>
       
-      <i class="fa fa-star"></i> te.xel.io <i class="fa fa-rocket"></i>
+      Key Remap - The Digit-Symbol Hack
       
     </span>
   </h1>
+  
+  <aside>
+    05.31.14
+    
+  </aside>
   
 
   <p class="lead">
@@ -266,25 +271,105 @@ IVVMM::::.:.:. . ... .::II:.::..:.. .. .. . . .:.:::IHH:.:HHIIHIHH':-'
 </div>
 
 
-<main>
-  <div class="container">
-    <div class="row">
-      <div class="col-md-12">
-        
+<div class="container">
 
-        <nav class="pagination-wrap">
-    <ul class="pagination pagination-lg">
-        
+  <article>
+    <section class="article-content">
+      <div class="row">
+        <div class="col-md-10 col-md-offset-1">
+          <h3 id="devs-you-going-to-love-this-keyboard-hack">Devs, you going to love this keyboard hack!</h3>
 
-        
+<p>If you’ve spent a lot of time in the shell, you may find yourself wishing to move at the <strong>Speed of Thought</strong>,
+yet encumbered by that pesky shift key.  How are you supposed to throw down that <em>regex</em>, when you’ve got
+to strain your fingers with alternate shift strokes?  Want to exit VIM using <strong>q!</strong> without hitting shift?
+Want to type any strong password without hitting shift?</p>
 
-        
-    </ul>
-</nav>
+<blockquote>
+  <p>… Well, i guess you do need shift to type caps … But who types passwords anymore?</p>
+</blockquote>
+
+<h1 id="map-your-fn-keys-to-digits">Map your FN Keys to Digits</h1>
+
+<p>And now you have an extra row of keys for text entry!  It’s <em>almost</em> like having <strong>extra fingers</strong>.  Don’t
+worry about those <strong>Function Keys</strong>, you’ll still be able to use those with the Mac FN button.  As for the
+<strong>Consumer Keys</strong>, a.k.a. Media Keys, I have a modkey hack you can use to get those back.</p>
+
+<h1 id="map-your-digits-to-symbols">Map your Digits to Symbols</h1>
+
+<p>And now you don’t have to press shift to type <strong>!@#$%^&amp;*()</strong>!  Suddenly, there’s a lot less friction when
+typing in the shell.</p>
+
+<h2 id="heres-my-keyboard-layout">Here’s my keyboard layout:</h2>
+
+<blockquote>
+  <p>Yep, I have an <strong>Uber</strong> key.  And a <strong>Hyper</strong> key, which is only active where needed: in Terminal and Emacs.</p>
+</blockquote>
+
+<p><img src="/img/keyboard-digits-symbols.jpeg" class="img-responsive img-rounded" alt="OSX Keyboard Layout" /></p>
+
+<blockquote>
+  <p>Oh, and I think I just experienced a moment of extacy, as I realized my Hyper Key configuration for GUI Emacs
+is magically working!  Yes, there’s a separate configuration required for Hyper in Terminal Emacs and GUI Emacs.
+And the script that mysteriously did nothing in the past is now working.  Ahhh, yeah!</p>
+</blockquote>
+
+<h3 id="herehttpsgithubcomdcunited001dcfileskbdblobmasterkeyremap4macbookconsumertosymbolsxml-is-the-config-ive-been-using-for-over-a-year-now"><a href="https://github.com/dcunited001/dc.files.kbd/blob/master/KeyRemap4Macbook/consumer_to_symbols.xml">Here</a> is the config I’ve been using for over a year now</h3>
+
+<p>This is a config file for <a href="https://pqrs.org/macosx/keyremap4macbook/">KeyRemap4MacBook</a>,
+my absolute <strong>FAVORITE</strong> OSX customization tool.  This is <strong>THE KING</strong> of customizing your Mac’s keyboard.
+Honestly, no other tool comes close.  Not <a href="https://wiki.archlinux.org/index.php/xmodmap">XModMap</a>.
+No, not even Linux’s <a href="https://wiki.archlinux.org/index.php/X_KeyBoard_extension">XKB</a>.  AFAIK, XKB cannot
+remap simultaneous keypresses.  <strong>IF</strong> anyone can correct me here, plz let me know, as I would be absolutely
+blissful to discover this in Linux.</p>
+
+<h4 id="whats-a-simultaneous-keypress">What’s a Simultaneous Keypress?</h4>
+
+<p>You can map <strong>&lt;</strong> and <strong>&gt;</strong> to say, <strong>X+Space</strong> and <strong>,+Space</strong>, which is also a configuration I have set
+with KeyRemap.  So when I use two fingers to hit <strong>X</strong> and <strong>Space</strong> within a threshold time limit, <strong>&lt;</strong> is substituted
+instead.</p>
+
+<blockquote>
+  <p>Again, if there’s anything like this in <em>Linux</em>, please let me know!</p>
+</blockquote>
+
+<p>This seems like a minor hack, but I really enjoy typing my HTML’s like this.  I have simultaneous keypresses
+configured for <strong>&lt;</strong> <strong>{</strong> <strong>~</strong> <strong>“</strong> <strong>|</strong> <strong>}</strong> <strong>&gt;</strong> and I find them fun to type.  I wish I had more time to do some
+exploring with configs like these.  But alas, I digress…</p>
+
+<h2 id="the-ultimate-developers-keyboard">The Ultimate Developer’s Keyboard!</h2>
+
+<blockquote>
+  <p>Isn’t that <em>Dvorak</em>?</p>
+</blockquote>
+
+<p>Well, this hack works with <em>both</em> QWERTY <em>and</em> DVORAK, when using OSX keyboard layouts.  I also have config samples for XModMap
+in Linux, which are in my <a href="https://github.com/dcunited001/dc.files.kbd">dc.files.kbd</a> repo as well.</p>
+
+<h3 id="what-are-you-waitin-for">What are you waitin for?</h3>
+
+<h1 id="get-to-configurating-yer-keyboards">Get to configurating yer keyboards!</h1>
+
+        </div>
       </div>
-    </div>
-  </div>
-</main>
+    </section>
+
+    <section class="comments">
+      
+<div id="disqus_thread"></div>
+<script type="text/javascript">
+  window.disqus_identifier="";
+  window.disqus_url="https://te.xel.io//posts/2014-05-31-key-remap-digit-symbol-swap.html";
+  window.disqus_title="Key Remap - The Digit-Symbol Hack";
+</script>
+<script type="text/javascript" src="https://disqus.com/forums/te-xel-io/embed.js"></script>
+<noscript><a href="https://te-xel-io.disqus.com/?url=ref">View the discussion thread.</a></noscript>
+
+
+    </section>
+
+  </article>
+
+</div>
 
 
     <footer class="site-footer">

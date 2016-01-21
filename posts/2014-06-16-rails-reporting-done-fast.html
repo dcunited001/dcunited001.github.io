@@ -1,9 +1,9 @@
 <!doctype html>
-<!--[if lt IE 7 ]><html itemscope itemtype="http://schema.org/Organization" id="ie6" class="ie ie-old" lang="en-US"><![endif]-->
-<!--[if IE 7 ]>   <html itemscope itemtype="http://schema.org/Organization" id="ie7" class="ie ie-old" lang="en-US"><![endif]-->
-<!--[if IE 8 ]>   <html itemscope itemtype="http://schema.org/Organization" id="ie8" class="ie ie-old" lang="en-US"><![endif]-->
-<!--[if IE 9 ]>   <html itemscope itemtype="http://schema.org/Organization" id="ie9" class="ie" lang="en-US"><![endif]-->
-<!--[if gt IE 9]><!--><html itemscope itemtype="http://schema.org/Organization" lang="en-US"><!--<![endif]-->
+<!--[if lt IE 7 ]><html itemscope itemtype="http://schema.org/Article" id="ie6" class="ie ie-old" lang="en-US"><![endif]-->
+<!--[if IE 7 ]>   <html itemscope itemtype="http://schema.org/Article" id="ie7" class="ie ie-old" lang="en-US"><![endif]-->
+<!--[if IE 8 ]>   <html itemscope itemtype="http://schema.org/Article" id="ie8" class="ie ie-old" lang="en-US"><![endif]-->
+<!--[if IE 9 ]>   <html itemscope itemtype="http://schema.org/Article" id="ie9" class="ie" lang="en-US"><![endif]-->
+<!--[if gt IE 9]><!--><html itemscope itemtype="http://schema.org/Article" lang="en-US"><!--<![endif]-->
 <head>
 
     <!-- Meta -->
@@ -146,7 +146,7 @@ IVVMM::::.:.:. . ... .::II:.::..:.. .. .. . . .:.:::IHH:.:HHIIHIHH':-'
             (her name's roxanne)
 
            -->
-    <title>te.xel.io ♥ </title>
+    <title>Rails Reporting Done Fast Part I ♥ te.xel.io</title>
     <meta http-equiv="X-UA-Compatible" content="IE=edge,chrome=1">
     <meta name="viewport" content="width=device-width, initial-scale=1.0, maximum-scale=1.0">
     <meta content="yes" name="apple-mobile-web-app-capable">
@@ -251,10 +251,15 @@ IVVMM::::.:.:. . ... .::II:.::..:.. .. .. . . .:.:::IHH:.:HHIIHIHH':-'
   <h1 class="special">
     <span>
       
-      <i class="fa fa-star"></i> te.xel.io <i class="fa fa-rocket"></i>
+      Rails Reporting Done Fast Part I
       
     </span>
   </h1>
+  
+  <aside>
+    06.16.14
+    
+  </aside>
   
 
   <p class="lead">
@@ -266,25 +271,100 @@ IVVMM::::.:.:. . ... .::II:.::..:.. .. .. . . .:.:::IHH:.:HHIIHIHH':-'
 </div>
 
 
-<main>
-  <div class="container">
-    <div class="row">
-      <div class="col-md-12">
-        
+<div class="container">
 
-        <nav class="pagination-wrap">
-    <ul class="pagination pagination-lg">
-        
+  <article>
+    <section class="article-content">
+      <div class="row">
+        <div class="col-md-10 col-md-offset-1">
+          <h3 id="agile-reporting">Agile Reporting</h3>
 
-        
+<p>I’ve been doing a lot of reporting for a client lately. Since 2011, I’ve been maintaining a gem called 
+<a href="https://github.com/dcunited001/skiima">Skiima</a>.  And even though I didn’t know 
+what the concept was when I started, what I’ve created is a <strong>gem</strong> for <strong>containerizing</strong>
+SQL DDL Statements.</p>
 
-        
-    </ul>
-</nav>
+<p>In other words, if you have a multi-database application, you can use Skiima to containerize an application 
+that references these databases.  Say your project has service-oriented architecture and has 3 API’s: a
+Authentication API with Users/Profiles, an Events API and a Donations API, each with their own database.  Then
+you can create a Reports API with it’s own database and use Skiima to create reports using views, functions and 
+stored procedures that refer to the Auth, Events and Donations databases.</p>
+
+<p>You can use ActiveRecord to create view-backed report models and use Mongo to cache the data results
+of those reports.  Or you can use view-backed models and scheduled Resque jobs to distill and retrieve data for 
+a dashboard.  With Skiima, you can keep these SQL DDL objects in source control <strong>and</strong> <em>easily</em> deploy your views, 
+functions, stored procedures to multiple environments.</p>
+
+<blockquote>
+  <p>Yep, this is where some Rails devs start throwing tomatoes.</p>
+</blockquote>
+
+<h3 id="heres-my-response-to-the-naysayers">Here’s my response to the naysayers</h3>
+
+<p>I get this every time I suggest using my gem and view-backed models for reporting.</p>
+
+<blockquote>
+  <p>But David - ORM and ActiveRecord to <em>saves you</em> from the <em>evils</em> of <strong>SQL</strong>!</p>
+</blockquote>
+
+<p>But the truth is - SQL is simple and it just works!  Queue up the ** <em>SQL Doesn’t Scale</em> **
+arguments here.  But really - SQL does scale - to a point.  My strategy for <strong>Reporting</strong> in <em>early</em> 
+<strong>Rails Applications</strong> works!  Granted, SQL Reporting isn’t appropriate for a sharded database 
+or when you’ve got <strong>1,000,000+ users</strong>.</p>
+
+<blockquote>
+  <p>But - it allows startups to make invaluable insights about their data - early on!
+When there’s still a chance to pivot.</p>
+</blockquote>
+
+<p>And here’s my argument: SQL Reporting works to a point.  When your application is big enough
+to have problems of scale, then you’ve likely now got the budget to deal with those problems.<br />
+But before you’re application is big enough to warrant tackling problems of scale, then
+you need to be willing to use the tools you can to get the data you need.</p>
+
+<blockquote>
+  <p><strong>Y.A.G.N.I.</strong> and <strong>Lean Startups</strong></p>
+</blockquote>
+
+<h3 id="using-skiima-allows-you-to-make-rails-reporting-agile">Using Skiima allows you to make Rails Reporting agile</h3>
+
+<p>Our client has several hundred thousand users and view-backed reports in Rails is working
+great for us so far!  We are able to respond quickly to change requests, which are a given when writing reports.<br />
+We can easily add/remove columns, create new filters, change the grouping, update 
+the logic for aggregated data and apply drastic changes to CSV, XLS and PDF templates, all
+without flinching.  And most importantly - without draining our client’s wallet!</p>
+
+<p>And that’s key for young startups and young webapps - staying agile.  There’s enough to do just 
+building the application.  Reporting is like icing on top of the cake - you’ve got to bake the cake
+first.  And since our reporting is agile, we can stay focused on building customer-facing features,
+while building reports without breaking a sweat.</p>
+
+<h3 id="part-ii---using-skiimahttpsgithubcomdcunited001skiima-to-enable-agile-reporting">Part II - Using <a href="https://github.com/dcunited001/skiima">Skiima</a> to Enable Agile Reporting</h3>
+
+<p>Coming Soon…</p>
+
+
+        </div>
       </div>
-    </div>
-  </div>
-</main>
+    </section>
+
+    <section class="comments">
+      
+<div id="disqus_thread"></div>
+<script type="text/javascript">
+  window.disqus_identifier="";
+  window.disqus_url="https://te.xel.io//posts/2014-06-16-rails-reporting-done-fast.html";
+  window.disqus_title="Rails Reporting Done Fast Part I";
+</script>
+<script type="text/javascript" src="https://disqus.com/forums/te-xel-io/embed.js"></script>
+<noscript><a href="https://te-xel-io.disqus.com/?url=ref">View the discussion thread.</a></noscript>
+
+
+    </section>
+
+  </article>
+
+</div>
 
 
     <footer class="site-footer">

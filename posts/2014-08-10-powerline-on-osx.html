@@ -1,9 +1,9 @@
 <!doctype html>
-<!--[if lt IE 7 ]><html itemscope itemtype="http://schema.org/Organization" id="ie6" class="ie ie-old" lang="en-US"><![endif]-->
-<!--[if IE 7 ]>   <html itemscope itemtype="http://schema.org/Organization" id="ie7" class="ie ie-old" lang="en-US"><![endif]-->
-<!--[if IE 8 ]>   <html itemscope itemtype="http://schema.org/Organization" id="ie8" class="ie ie-old" lang="en-US"><![endif]-->
-<!--[if IE 9 ]>   <html itemscope itemtype="http://schema.org/Organization" id="ie9" class="ie" lang="en-US"><![endif]-->
-<!--[if gt IE 9]><!--><html itemscope itemtype="http://schema.org/Organization" lang="en-US"><!--<![endif]-->
+<!--[if lt IE 7 ]><html itemscope itemtype="http://schema.org/Article" id="ie6" class="ie ie-old" lang="en-US"><![endif]-->
+<!--[if IE 7 ]>   <html itemscope itemtype="http://schema.org/Article" id="ie7" class="ie ie-old" lang="en-US"><![endif]-->
+<!--[if IE 8 ]>   <html itemscope itemtype="http://schema.org/Article" id="ie8" class="ie ie-old" lang="en-US"><![endif]-->
+<!--[if IE 9 ]>   <html itemscope itemtype="http://schema.org/Article" id="ie9" class="ie" lang="en-US"><![endif]-->
+<!--[if gt IE 9]><!--><html itemscope itemtype="http://schema.org/Article" lang="en-US"><!--<![endif]-->
 <head>
 
     <!-- Meta -->
@@ -146,7 +146,7 @@ IVVMM::::.:.:. . ... .::II:.::..:.. .. .. . . .:.:::IHH:.:HHIIHIHH':-'
             (her name's roxanne)
 
            -->
-    <title>te.xel.io ♥ </title>
+    <title>Installing Powerline on OSX ♥ te.xel.io</title>
     <meta http-equiv="X-UA-Compatible" content="IE=edge,chrome=1">
     <meta name="viewport" content="width=device-width, initial-scale=1.0, maximum-scale=1.0">
     <meta content="yes" name="apple-mobile-web-app-capable">
@@ -251,10 +251,15 @@ IVVMM::::.:.:. . ... .::II:.::..:.. .. .. . . .:.:::IHH:.:HHIIHIHH':-'
   <h1 class="special">
     <span>
       
-      <i class="fa fa-star"></i> te.xel.io <i class="fa fa-rocket"></i>
+      Installing Powerline on OSX
       
     </span>
   </h1>
+  
+  <aside>
+    08.10.14
+    
+  </aside>
   
 
   <p class="lead">
@@ -266,25 +271,148 @@ IVVMM::::.:.:. . ... .::II:.::..:.. .. .. . . .:.:::IHH:.:HHIIHIHH':-'
 </div>
 
 
-<main>
-  <div class="container">
-    <div class="row">
-      <div class="col-md-12">
-        
+<div class="container">
 
-        <nav class="pagination-wrap">
-    <ul class="pagination pagination-lg">
-        
+  <article>
+    <section class="article-content">
+      <div class="row">
+        <div class="col-md-10 col-md-offset-1">
+          <p>First we’ll need to install <code>python</code>, <code>pip</code>, and <code>easy_install</code>.</p>
 
-        
+<h3 id="homebrew-and-python">Homebrew and Python</h3>
 
-        
-    </ul>
-</nav>
+<p>I highly recommend checking out <a href="https://github.com/Homebrew/homebrew/wiki/Homebrew-and-Python">homebrew’s wiki page on python</a>,
+which offers lots of information on the options offered when building python with homebrew.</p>
+
+<p>The guide I followed used the command <code>brew install python --universal --framework</code>, but didn’t clarify what these extra options did.
+I searched around a bit and found <a href="http://www.thisisthegreenroom.com/2011/installing-python-numpy-scipy-matplotlib-and-ipython-on-lion/">this article</a>,
+which explains that <code>--universal</code> builds a “universal (32/64 bit) version.”  It also explains that the <code>--framework</code> option “tells 
+it to build as a Framework, which has some downstream niceties.”  I’m not sure if these options are still valid for <code>brew install python</code>, 
+as they weren’t documented on the wiki page.  So, I reinstalled without them.</p>
+
+<h3 id="installing-python-pip-and-easyinstall">Installing <code>Python</code>, <code>Pip</code>, and <code>EasyInstall</code></h3>
+
+<p>I started following <a href="https://gist.github.com/pithyless/1208841">this guide</a> to get Python installed,
+but it may be a bit out of date.  I’m not very familiar with the Python ecosystem, but <code>brew install python</code> 
+seems to install <code>pip</code> and <code>easy_install</code> as well now.  All I needed to do was run the following commands:</p>
+
+<figure class="highlight"><pre><code class="language-bash" data-lang="bash">brew install readline sqlite gdbm
+brew install python --universal --framework</code></pre></figure>
+
+<p>And I verified with this:</p>
+
+<figure class="highlight"><pre><code class="language-bash" data-lang="bash">python --version <span class="o">&amp;&amp;</span> la <span class="sb">`</span>which python<span class="sb">`</span>
+<span class="c"># Python 2.7.6 </span>
+<span class="c"># /usr/local/bin/python -&gt; ../Cellar/python/2.7.6_1/bin/python</span>
+
+pip --version <span class="o">&amp;&amp;</span> la <span class="sb">`</span>which pip<span class="sb">`</span> 
+<span class="c"># pip 1.5.5 </span>
+<span class="c"># /usr/local/bin/pip -&gt; ../Cellar/python/2.7.6_1/bin/pip</span>
+
+easy_install --version <span class="o">&amp;&amp;</span> la <span class="sb">`</span>which easy_install<span class="sb">`</span> 
+<span class="c"># setuptools 3.6 </span>
+<span class="c"># /usr/local/bin/easy_install -&gt; ../Cellar/python/2.7.6_1/bin/easy_install </span></code></pre></figure>
+
+<p>Then, I configured my environment for <code>virtualenv</code>, by adding the following to my <code>.bashrc</code>.  Some of these
+values will differ for you.</p>
+
+<figure class="highlight"><pre><code class="language-bash" data-lang="bash"><span class="nv">PATH</span><span class="o">=</span><span class="k">${</span><span class="nv">PATH</span><span class="k">}</span>:/usr/local/share/python
+<span class="nb">export </span><span class="nv">SITE_PACKAGES</span><span class="o">=</span>/usr/local/lib/python2.7/site-packages
+
+<span class="c"># setup virtualenv</span>
+<span class="nb">export </span><span class="nv">WORKON_HOME</span><span class="o">=</span><span class="nv">$HOME</span>/.virtualenvs
+<span class="nb">export </span><span class="nv">VIRTUALENVWRAPPER_PYTHON</span><span class="o">=</span>/usr/local/bin/python2.7
+<span class="nb">export </span><span class="nv">VIRTUALENVWRAPPER_VIRTUALENV_ARGS</span><span class="o">=</span><span class="s1">&#39;--no-site-packages&#39;</span>
+<span class="nb">export </span><span class="nv">PIP_VIRTUALENV_BASE</span><span class="o">=</span><span class="nv">$WORKON_HOME</span>
+<span class="nb">export </span><span class="nv">PIP_RESPECT_VIRTUALENV</span><span class="o">=</span><span class="nb">true</span>
+<span class="k">if</span> <span class="o">[[</span> -r /usr/local/bin/virtualenvwrapper.sh <span class="o">]]</span><span class="p">;</span> <span class="k">then</span>
+    <span class="nb">source</span> /usr/local/bin/virtualenvwrapper.sh
+<span class="k">else</span>
+    <span class="nb">echo</span> <span class="s2">&quot;WARNING: Can&#39;t find virtualenvwrapper.sh&quot;</span>
+<span class="k">fi</span></code></pre></figure>
+
+<p>Then, I installed <code>virtualenv</code> and <code>virtualenvwrapper</code> and tested:</p>
+
+<figure class="highlight"><pre><code class="language-bash" data-lang="bash">pip install virtualenv
+pip install virtualenvwrapper</code></pre></figure>
+
+<p>And I verified with this:</p>
+
+<figure class="highlight"><pre><code class="language-bash" data-lang="bash">mkvirtualenv <span class="nb">test</span>
+rmvirtualenv <span class="nb">test</span></code></pre></figure>
+
+<p><code>virtualenv</code> hit a few snags when running its callback scripts, but my zsh setup shows the name
+of the active virtualenv profile and that seemed to be working.  I wish I had more time to learn more 
+about the python ecosystem, but just haven’t had a chance yet.  If I’ve made a glaring omission, please
+drop me a line in the comments!  Thank you!</p>
+
+<h3 id="installing-and-configuring-powerline">Installing and Configuring Powerline</h3>
+
+<p>Installing powerline ended up being much simpler once I read and understood everything.  It’s pretty easy: just 
+run the <code>pip install git+git://github.com/Lokaltog/powerline</code> and boom.  You’ve got powerline.</p>
+
+<p>Now you need to add some powerline fonts.  So, clone this repo and put it in a safe place, like a lockbox.  I
+added it as a git submodule to my dotfiles.  So whenever I’m setting up a new machine and cloning my dotfiles, I
+expand the submodules and boom.  All the <code>powerline-fonts</code> are there, then I just start double-clicking away! Or
+you can also open the Font Book app, hit ⌘-O, navigate to the powerline-fonts directory, select it and 
+hit enter.</p>
+
+<p>Finally, you need to set up your zsh to load a new prompt.  Powerline includes a base prompt for you.  If you’ve
+added the above <code>.bashrc</code> snippet to your zsh profile, you should be able to add <code>. $SITE_PACKAGES/powerline/bindings/zsh/powerline.zsh</code>
+to the end.</p>
+
+<p>Now open a fresh terminal and check out your prompt!  It should look something like this.</p>
+
+<p><img src="/img/posts/2014-08-10-powerline-on-osx/zsh-powerline-prompt.png" alt="Powerline Prompt in ZSH" /></p>
+
+<p>Now, navigate to a git repository and you can see the branch on the right, like so:</p>
+
+<p><img src="/img/posts/2014-08-10-powerline-on-osx/branch-prompt.png" alt="Current Branch in ZSH Prompt" /></p>
+
+<h3 id="great-powerline-on-osx">Great! Powerline on OSX!</h3>
+
+<p>You should now have both Python and Powerline rarin’ to go.  I’ve added a git submodule for my 
+<a href="https://github.com/dcunited001/dc.files.powerline">powerline config</a>
+in <a href="https://github.com/dcunited001/dc.files">dc.files</a> and I’m linking my <code>~/.config/powerline</code> here.  In the
+powerline submodule, I’ve set up a custom powerline theme for zsh.  My custom theme includes a battery level indicator
+that reads out in hearts.  As in, hearts like Legend of Zelda.  Check it out!</p>
+
+<p><img src="/img/posts/2014-08-10-powerline-on-osx/loz-battery-readout.png" alt="Legend of Zelda Battery Indicator" /></p>
+
+<p>Check the <a href="http://powerline.readthedocs.org/en/latest/configuration.html#references">Configuration</a> section of the 
+Powerline docs.  Specifically, the References pages, which detail themes, colorschemes and how to tweak each option!
+Great stuff - make your prompts splash.</p>
+
+<p>Also check out the <a href="http://powerline.readthedocs.org/en/latest/usage.html#plugins">plugins</a> on the Usage page to see 
+how to configure <code>vim</code> and <code>tmux</code> with a status bar.  Take a look at <a href="https://coderwall.com/p/trgyrq">this protip</a> to make your 
+tmux status bar responsive.  For <code>emacs</code>, check out <a href="https://github.com/jonathanchu/emacs-powerline">emacs-powerline</a> 
+and <a href="https://github.com/milkypostman/powerline">powerline.el</a>, which may be available on MELPA.</p>
+
+<p>Richard Guay does a great job of explaining 
+<a href="http://computers.tutsplus.com/tutorials/getting-spiffy-with-powerline--cms-20740">Powerline customizations</a>
+for vim/macvim, fish, and zsh.  His blog includes tons of screenshots.  Great resource!</p>
+
+        </div>
       </div>
-    </div>
-  </div>
-</main>
+    </section>
+
+    <section class="comments">
+      
+<div id="disqus_thread"></div>
+<script type="text/javascript">
+  window.disqus_identifier="";
+  window.disqus_url="https://te.xel.io//posts/2014-08-10-powerline-on-osx.html";
+  window.disqus_title="Installing Powerline on OSX";
+</script>
+<script type="text/javascript" src="https://disqus.com/forums/te-xel-io/embed.js"></script>
+<noscript><a href="https://te-xel-io.disqus.com/?url=ref">View the discussion thread.</a></noscript>
+
+
+    </section>
+
+  </article>
+
+</div>
 
 
     <footer class="site-footer">

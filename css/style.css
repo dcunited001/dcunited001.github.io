@@ -5956,6 +5956,10 @@ article img {
   max-width: 100%;
   height: auto; }
 
+article iframe {
+  display: block;
+  max-width: 100%; }
+
 /* Social buttons
 --------------------------------------------------
 */
@@ -5993,23 +5997,31 @@ nav.navbar {
     text-transform: uppercase;
     font-size: 16px; }
   nav.navbar .navbar-brand {
-    text-transform: none; }
+    text-transform: none;
+    font-weight: bold; }
     nav.navbar .navbar-brand i {
       transition: inherit;
-      color: #ff4545;
+      color: #FF4545;
       transform: scale(1); }
     nav.navbar .navbar-brand:hover i {
-      color: #ff6f6f;
+      color: #FF6060;
       transform: scale(1.35); }
-    nav.navbar .navbar-brand:hover i span.navbar-lambda {
-      color: #6f6fff;
-      transform: scale(1.35); }
+    nav.navbar .navbar-brand:hover .navbar-lambda {
+      color: #6F6FFF; }
 
 .title-group {
   text-align: center;
   padding: 0 15px;
-  margin: 50px 0 100px; }
+  margin: 50px 0 50px; }
   .title-group p {
+    max-width: 800px;
+    margin: 25px auto 0; }
+
+.project-title-group {
+  text-align: center;
+  padding: 0 15px;
+  margin: 50px 0 50px; }
+  .project-title-group p {
     max-width: 800px;
     margin: 25px auto 0; }
 
@@ -6022,7 +6034,7 @@ h1.special {
   font-size: 80px;
   line-height: 80px;
   font-weight: 700;
-  color: #ff4545; }
+  color: #FF4545; }
   h1.special span {
     display: inline-block;
     position: relative;
@@ -6049,13 +6061,12 @@ h1.special {
   box-shadow: 0 0.15em 0.35em 0 rgba(0, 0, 0, 0.135);
   margin-bottom: 125px; }
   .tile .inner-guts {
-    padding: 50px; }
+    padding: 20px; }
   .tile h2 {
     margin: 0;
     font-size: 60px;
     font-weight: 400;
-    letter-spacing: -0.05em;
-    line-height: 100px; }
+    letter-spacing: -0.05em; }
   .tile .featurette {
     position: relative;
     display: block;
@@ -6116,7 +6127,7 @@ h1.special {
       line-height: 1.5;
       text-transform: uppercase; }
   .tile .read-more {
-    margin-top: 50px;
+    margin-top: 10px;
     width: 100%;
     max-width: 175px;
     position: relative;
@@ -6131,11 +6142,14 @@ h1.special {
 
 aside {
   font-size: 17px;
+  line-height: 100%;
   color: #525252;
-  margin: 16px 0; }
+  margin: 0px 0; }
   aside span {
-    text-transform: uppercase;
-    margin: 0 5px; }
+    text-transform: none; }
+  aside span.headline {
+    text-transform: none;
+    color: #525252; }
 
 .site-footer {
   /* margin-top: 200px; */ }

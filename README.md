@@ -1,3 +1,10 @@
+## TE.XEL.IO
+
+> `texel` - A texel, texture element, or texture pixel is the fundamental
+> unit of texture space.
+
+drafts are on my bitbucket.
+
 # Bootstrap 3 Starter Theme for Jekyll
 
 ![Bootstrap 3 Jekyll](https://scotch.io/wp-content/uploads/2015/10/bootstrap-plus-jekyll.png)
@@ -8,7 +15,6 @@
 ### Noteable Bootstrap/Jekyll/CSS Themes
 
 - [Minimal Mistakes](https://mmistakes.github.io/minimal-mistakes/)
-
 
 ## WTF?
 
