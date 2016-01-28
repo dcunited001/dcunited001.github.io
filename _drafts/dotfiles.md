@@ -1,0 +1,39 @@
+
+- why alterant, dotfiler and ellipsis are good
+- why yadm, homeshick, vsch, dotbot,s.u.s. don't really make the cut
+  - gnu stow replaces most of these
+- ideally dotfiles & management tools should:
+  - be written in bash. this is hard.
+  - have minimal dependencies.  
+    - imo, one binary depency is ok. helps if it's installable by apt-get or something
+      - one *stock* python dependency is ok too, i guess
+  - be very quick to install
+  - should not make me think about how to maintain them
+    - unless it's a clever methodology that makes sense and doesn't introduce too much complexity
+  - should be deployable to multple platforms
+    - it should handle multiple devices for each platform well
+    - it should do so stupidly
+  - configs should be composable
+    - this is useful when constructing per-platform configs
+    - dotfiler seems to do this very well
+    - i'm toying with the idea of composable templates that are rendered on deploy
+      - this seems overly complicated though, as changes require a rebuild
+      - but may couple nicely with terminal profiles and per-project configs
+  - custom yaml formats are right out, unless they really add value
+    - if you can write yaml for something, you can write a shell script
+    - alterant is yaml that adds value, it's basically rake for dotfiles
+      - i still wouldn't store my encrypted anything in a public repo though
+    - yaml almost certainly introduces a language like
+  - should take per-project configs into account
+    - for long-term projects, this is very useful
+  - i really like the managers that have per-project or per-topic repos
+    - i prefer submodules, even though it's added complexity
+  - repo's should be shareable (this is why i like submodules)
+  - configuration should be easily discoverable
+  - should leave your shell with a fast startup time
+    - and minimal configuration.  i'd rather not have every alias and every function enabled.
+- ideas:
+  - containerization using docker?
+    - construction of per-project containers?
+    - i just really don't like the idea of all my languages and all my scripts/functionality
+      - being available at all times on my shell

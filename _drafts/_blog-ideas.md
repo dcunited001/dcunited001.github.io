@@ -1,3 +1,56 @@
+- open sourced my brain:
+  - hacker news post
+
+- on becoming a philosopher (more interesting title?)
+  - progressing beyond the physical and beyond tree-based modeling
+    - moving towards categorical thinking
+  - discovering self-similarity and it's importance "getting to the meta"
+    - discovering metaphenomina and epiphenonina
+  - discovering and knowing your own beliefs.  
+    - having your own experience before trying to understand the great thinkers
+  - approaching formlessness: the importance of forms and formlessness
+  - how to observe?
+    - how do we observe others if we don't know how to observe ourselves?
+      - ... there is something more here?
+  - tabula rasa, zen and the art of beginning
+    - it's important to observe yourself as you know knothing
+      - but how can you know to do this or know how to do this
+        - if you most crucially need to observe yourself as you know nothing?
+      - how does one instill the art of observing the right things in themselves if they know nothing?
+    - these are classic problems that have been poured over and meditated on for millenia
+      - particularly the zen thing i just mentioned, 
+        - which stems from buddhist thought
+          - which stems from hindi thought
+  - which brings me to my next point
+    - everything that has been done has been done countless times before
+      - [lead into examples? or fully develop thoughts first]
+      - ancient math was developed that acted as the basis for ancient philosophic logic & thought
+        - Banach–Tarski paradox is incredibly important and i believe developed in ancient times
+          - i cannot recall what it is crucially important in philosophy
+          - this is completely baseless by the way.
+          - [enumerate ancient philosophic applications]
+
+- economics, stocks & commodities - how do fluxuating currency values affect investment decisions
+  - already complicated enough b4 taking into account how fluctuating currencies affect portfolio/demand
+  - other tweets that i can turn into 3,000 word articles?
+- how do 'anaphorized' and 'cataphorized' grammatical structures 
+  - affect language and the development of the brain?
+  - what subtle differences are caused by languages that have cataphoric inflexion of grammer
+    - versus those who have pronouncedly less.
+  - by cataphoric inflexion, i mean your brain constantly has to think a little ahead
+    - if i'm asking a question "how do[es] ... "
+      - i have to subconsciously think about the subject before rendering the verb. 
+        - does the verb need to be inflected plural or singular?
+        - it depends on the subject of course
+      - i only have thought about this because of subtle neurological symptoms
+    - this is also true for lots of other grammitic subtleties in many languages
+      - but pronouncedly moreso in indo-european languages
+        - especially in those languages that differentiate on gender
+      - and pronouncedly less so in languages like japanese and mandarin
+        - they do not have the same problem because they usually avoid gender altogether
+          - and usually pluralization, too.  unless the plurality is specified.
+  - so what are the effects on native speakers in expression and on cognitive patterns?
+
 blog about all the blogs i haven't written
 - blog/video on obstacles in my life (transportation problems, scheduling problems)
 - article about inspiring people in my life (personal connections)
@@ -143,7 +196,6 @@ blog about all the blogs i haven't written
   - VR x Theater?!
 
 - man should prove himself wise enough to preserve nature as it is before attempting to alter it
-  - 
 
 - article on dark matter, gravity and relativity
   - specifically, is the speed of light truly constant for all conditions
