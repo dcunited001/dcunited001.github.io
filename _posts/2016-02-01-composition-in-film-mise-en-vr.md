@@ -2,8 +2,10 @@
 title: "Composition in Film: Mise en VR"
 categories: blog
 tags: "cinematography virtual-reality"
+headline: What is the Streaming Video of VR?
 author:
   name: "David Conner"
+excerpt: If the point of mise en scene in 2D is to control the probability distribution of your audience, how do you achieve the same objective in VR, especially if you can't control the perspective and orientation of the audience. This overwhelming complexity of the VR medium, does this lack of limitation actually limit the capacity of film in the VR medium to convey a consistent message to viewers? And how does the convoluted nature of a medium of the future affect it's consumer adoption and rate of adoption?
 ---
 
 > Streaming video transformed the internet in the past decade. So, for VR, what's
