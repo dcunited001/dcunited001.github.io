@@ -77,7 +77,9 @@ Sometimes, a picture is worth a thousand words. So here you go. This
 is a probability distribution representing where people look in an
 image.
 
-TODO: INSERT PICTURE
+#### See? Probability Distribution:
+
+![Eyetracking Sample](/img/posts/2016-02-01-composition-in-film-mise-en-vr/eyetrack-sample.jpg)
 
 ### Made You Look!
 
@@ -386,11 +388,11 @@ move adds another dimension to the medium.
 ### A Statistical Model for Directing Focus
 
 So in order to understand how controlling the probability distribution
-of the focus of our many viewers, it may be of benefit to return to
-the mathematics-inspired analogies. It may seem Daedalian, I know. I
-hope you'll excuse my tendency to reach for math and other abstract,
-hard to understand concepts, but doing so really does help me reason
-about this stuff.
+of the focus of our many viewers aids in crafting an experience, it
+may be of benefit to return to the mathematics-inspired analogies. It
+may seem Daedalian, I know. I hope you'll excuse my tendency to reach
+for math and other abstract, hard to understand concepts, but doing so
+really does help me reason about this stuff.
 
 So. In general, how does added dimensionality affect a problem?
 Personally, I need more understanding to answer this question,
@@ -414,36 +416,126 @@ for the artist.  If you understand how these variations of VR
 expression will develop and how consumers will approach the industry,
 the you can anticipate demand for products.  Step 3: Profit
 
+### Differentiation in VR Media
+
+All content in VR will be stereoscopic 3D.  The forms of media
+available in VR can be differentiated by the degree of freedom
+available to the viewer, player or user.  There will be uniform,
+serial experiences, like a film, where the viewer streams the exact
+same content as someone else. But the degree of freedom determines how
+the audience members could perceive it differently.
+
+Another degree of freedom can be added to a serial experience and
+that's position.  The viewer can move around and experience the work
+from various positions.  IMO, I just don't think the benefits outweigh
+the increased complexity and diluted 'bandwidth' of either 360 3D
+video and video where the viewer controls the position.
+
+And a final degree of freedom can be added, by removing the temporal
+requirement of serial media.  By serial, I mean like a type of medium
+where the content is streamed, but each viewer receives exactly the
+same content.  Another form of medium can be created, which is like a
+cross between a video game and a movie.  It's like an event-driven
+experience, where you are allowed to proceed through the story at your
+own pace.  The characters on screen react to events you trigger,
+though you may or may not be part of the story or acknowledged by
+characters on screen.
+
+This seems to resolve some of the problems described above, but
+introduces a major problem: how would you experience this with a
+friend. Though, I suppose you could configure the experience to be
+streamed to a group, but it still raises a lot of questions.  Among
+them: why wouldn't you just play a video game?
+
+Yet, I still don't think I've described a medium which would become
+the streaming media of VR.  And that's because I believe that will
+be moreso part of AR and that our preconceived notion of VR is more
+of a red herring.
+
 ### Guiding the Experience of Your Audience
 
-So, what tools are available to reduce the complexity of VR? 3D audio
-is a good example of a technique that can help direct the focus of
-your audience.  3D microphones have recently been developed, specifically
-to capture audio for Oculus Rift and 360 3D movies.
+So, what tools are available to reduce the complexity of VR? Most of
+the techniques used to guide the audience's experience here will be
+based on anticipating their reaction to events onscreen, then
+guiding it towards the next intended point of focus, using strong
+sensory signals.
 
-TODO: insert 3D microphone
+3D audio is a good example of a technique that can help direct the
+focus of your audience.  3D microphones have recently been developed,
+specifically to capture audio for Oculus Rift and 360 3D movies.  This
+kind of audio is going to require complicated new software tools as
+well as new techniques. Using binaural audio cues, one can direct the
+viewer towards an anticipated focal point.
+
+#### A 3D Binaural Microphone
+
+![3D Microphone](/img/posts/2016-02-01-composition-in-film-mise-en-vr/binaural-3d-mic.jpg)
+
+Another interesting technique would be to use lots of POV shots in 360
+3D video.  So, you would switch from character to character, at times,
+I guess.  Actually, the more I write about this, the more limiting it
+all seems.  AR is going to be way more interesting, but much harder
+to achieve technologically.
+
+The most useful tools for understanding the process for creating the
+best VR experiences? Data & analytics. Any VR video platform should
+incorporate data collection to assist in analyzing user response. This
+will be invaluable in understanding how to create art in VR.
+
+### Problems with Composition in VR
+
+It's difficult to create a consistent experience when your audience is
+free to move their head around in VR. How do you arrange the scene, to
+get the perfect shot, if a viewer might not even be looking? More
+importantly, why would you bother with aspects of mise en scene, if
+they're just going to be overlooked? Does that mean that many typical
+techniques will no longer be utilized?
+
+Some techniques could be proposed to fix aspects of 360 video.  You
+could force the viewpoint to move/snap to a point for important scenes.
+But IMO, that's going to feel jarring to the viewer.  If you're going
+to allow the freedom to look around, then you're going to have to be
+more creative than that.
+
+The order of and transition between camera shots will be another
+problem.  With 360 video, how do you resolve where the user is looking
+when transitioning to the next camera shot?  Do you transition to the
+next scene, but oriented towards where they *were* looking. Or towards
+where they should be looking in the next scene, albeit with their head
+oriented in the previous direction? The latter won't work at all after
+multiple scene transitions.  The former's not exactly a solution either,
+as the director can't really anticipate where someone would be looking
+before the transition.
+
+A subtle technique in film is to attract the viewer's attention to a
+point, then transition to the next shot, so that their point of focus
+still remains in the point where they are most likely to look.  This
+is fucking gold in advertising. You can use motion to ensure that, in
+the next shot, the viewer is looking right at the brand name.  You
+can't really do this with 360 video.
+
+### VR x Theater
+
+Congratulations.  You made it.  I don't know how, but here you are.
+
+This is a cross of VR and Theater, as in live theater.  This starts
+out pretty cool, but gets way cooler with the advent of AR, around
+2018.  Think of a virtual chatroom, where you can watch people perform.
+
+> Uhh... not Twitch, it's not Twitch, although they're perfectly
+> positioned to capitalize on this.
+
+Actors could perform live theater in front of a virtual audience. As a
+viewer, you could render yourself among a huge audience or just with
+your friends.
+
+Integration of AR techniques is where this starts to get really
+awesome.  Imagine being in a live Pixar production.  The actors could
+be interacting with motion sensing equipment and perhaps experiencing
+the VR themselves.
 
 
 
-    - and so, similar to Alfred Hitchcock's quote that a subjects size on screen should reflect it's importance
-      - a subject's positioning in VR medium should also reflect it's importance.
-        - yet, it's a bit tougher to control that, so i should disect alfred hitchcock's statement there
-    - why is it that size on screen should reflect importance?
-      - to understand this, we need to understand what draws a viewer's attention
-      - there's something almost mathematic about this
-        - what the director is really trying to control is the probability distribution
-          - of where people are looking during certain key frames in a scene
-        - this is so that they can direct the viewer's experience
-      - so, if by increasing the size of a subject,
-        - you increase the probability that someone happens to look at that subject
-          - then it makes it easier to expect that someone is observing the right things
-            - to have the kind of experience you intended
-    - so, how does this change for VR? how can you attempt to control the probability distribution here?
-      - if a viewer can turn and look anywhere they want, or even shift position,
-        - how can you guarantee that a good chunk of your viewers
-          - are going to experience the right thing at the right time?
-          - (hint) 3D audio helps alot, but still isn't enough
-    - i think that this added complexity will either:
       - hold back the medium from widespread adoption
       - or force artists to be creative in finding a way to transcend past this limitation
         - which is ironically a limitation created by a lack of limitation
