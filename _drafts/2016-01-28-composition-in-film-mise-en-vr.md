@@ -24,7 +24,27 @@ marketing strategy, branding and business model, even if the business
 is boring or obscure.  For many businesses, it's easy to imagine and
 describe the processes and kinds of roles necessary.
 
-Film is particularly involved
+Since film is an industry with a myriad of industries as dependencies,
+thinking about film production usually kicks off more introspection
+than usual.  For example, I was watching "Clockwork Orange" recently.
+There was a showing at the Grandin Theater and it was amazing to see
+this film for the first time in theaters.  And, this movie sparks and
+drives internal dialogue in the audience about censorship, obsenity,
+the role of constraint and morality in society.  But also it has a
+particular style of cinematography, including a perculiar approach to
+mise en scene. This got me thinking a lot about how the director
+sourced locations for these shots, since there seems to be suble
+iconography in some of these shots, which add to the depth of the
+film's overall message.
+
+So, what is the process used to source these shots? And why does it
+seem that this style of mise en film is absent from most movies today?
+It seems like it would be difficult and time-intensive to arrange
+these shots.  And i posit that it's because, unless used properly, it
+would usually detract from the film. Most films that have the
+mass-appeal to rake in revenue aren't artistic and
+they just don't need this technique. 
+
 
 
 - whenever i watch a movie like a clockwork orange,
