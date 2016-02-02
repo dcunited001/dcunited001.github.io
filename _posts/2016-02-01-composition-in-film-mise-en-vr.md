@@ -520,7 +520,7 @@ Congratulations.  You made it.  I don't know how, but here you are.
 
 This is a cross of VR and Theater, as in live theater.  This starts
 out pretty cool, but gets way cooler with the advent of AR, around
-2018.  Think of a virtual chatroom, where you can watch people perform.
+2018.  Think of a virtual hangout, where you can watch people perform.
 
 > Uhh... not Twitch, it's not Twitch, although they're perfectly
 > positioned to capitalize on this.
@@ -534,26 +534,20 @@ awesome.  Imagine being in a live Pixar production.  The actors could
 be interacting with motion sensing equipment and perhaps experiencing
 the VR themselves.
 
+### In Summary
 
+What is the universal medium of expression for VR that will be the
+equivalent of film?  Again, what's the equivalent of streaming video
+in VR?  Both of these are difficult to pin down.
 
-      - hold back the medium from widespread adoption
-      - or force artists to be creative in finding a way to transcend past this limitation
-        - which is ironically a limitation created by a lack of limitation
-      - so, for example, instead of creating an experience like a film, which is exactly the same every time
-        - artists may opt to create a cross between a film and a video game
-          - where the experience is event-driven and the characters respond to the viewer's state
-            - while being coded to provide as consistent of an experience as possible
+3D video will certainly take off.  360 video might just be more of a
+feature than a format, assuming your 3D video is rendered for variable
+perspective.  There will undoubtedly be a variety of novel forms of
+expression through VR, but most will derive their value from novelty.
 
-- VR x Theater?!
-
-
-- what is the universal medium of expression for VR that will be the equivalent of film
-  - there seem to be a lot of interesting ways to express things in VR
-    - but they will have mostly novelty value and then seem like gimmicks
-  - it's hard for me to imagine a new medium of expression in VR that will last
-    - film has a clear universal format
-    - but VR complicates too much.  there are too many variables.
-  - it's easy to say that 3D movies would take off in VR
-
-- constraints on expression in VR
-  - limits on coordinated movement of objects when rendering in realtime
+VR is infinitely more valuable to games and simulations than video.
+For video, VR complicates way too much.  It requires more investment
+and more process in a film production.  There's already enough of
+that.  IMO, plot, background and characters are the most important
+aspects of a story.  Far more crucial than the video, sound or
+graphical medium, although they certainly important.
