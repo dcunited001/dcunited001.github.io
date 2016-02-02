@@ -26,24 +26,116 @@ describe the processes and kinds of roles necessary.
 
 Since film is an industry with a myriad of industries as dependencies,
 thinking about film production usually kicks off more introspection
-than usual.  For example, I was watching "Clockwork Orange" recently.
-There was a showing at the Grandin Theater and it was amazing to see
-this film for the first time in theaters.  And, this movie sparks and
-drives internal dialogue in the audience about censorship, obsenity,
-the role of constraint and morality in society.  But also it has a
-particular style of cinematography, including a perculiar approach to
-mise en scene. This got me thinking a lot about how the director
-sourced locations for these shots, since there seems to be suble
-iconography in some of these shots, which add to the depth of the
-film's overall message.
+than is usual for me.  For example, I was watching "Clockwork Orange"
+recently.  There was a showing at the Grandin Theater and it was
+amazing to see this film for the first time in theaters.  This movie
+sparks and drives an internal dialogue in the audience about censorship,
+obscenity, the role of constraint and morality in society.  But also it
+has a particular style of cinematography, including a perculiar
+approach to mise en scene. This got me thinking a lot about how the
+director sourced locations for these shots, since there seems to be
+suble iconography in some of these shots, which add to the depth of
+the film's overall message.
 
 So, what is the process used to source these shots? And why does it
 seem that this style of mise en film is absent from most movies today?
 It seems like it would be difficult and time-intensive to arrange
 these shots.  And i posit that it's because, unless used properly, it
 would usually detract from the film. Most films that have the
-mass-appeal to rake in revenue aren't artistic and
-they just don't need this technique. 
+mass-appeal to rake in revenue aren't artistic and they just don't
+need this technique. Focus on this technique pays off for some films
+and some audiences, but not others. It really depends on your market.
+
+### A Mathematic Basis for Mise en Scene
+
+So, what is mise en scene? It's a term in composition that refers to
+how the set, actors and cameras coordinate in order to compose the the
+visual arrangement of elements on screen. It also applies to theater,
+in which case multiple perspectives of the audience need to be taken
+into account.  This is why mise en scene in VR will be closer to that
+of theater, rather than that of film.  In film, you end up with
+having basically composed one moving 2D representation.  Through this,
+the audience experiences your vision and derives your message.
+
+However, people are different and, given the same static 2D image,
+they will observe different things. Not only will they make different
+observations, they will look at entirely different parts of the image.
+That's just for a static 2D image.
+
+So what are director's trying to acheive with mise en scene? What are
+they trying to optimize? Having studied a bit of neuromarketing -
+*it's neuroscience!* - here's the thought that should blow your mind,
+as I'm taking something typically considered right-brain and bringing
+full-circle to the more analytic left-brain.  I propose that:
+
+> By carefully controlling the arrangement of visual elements, the
+> director is trying control the probability distribution, over time,
+> of categorized sets of viewers.  This is in an effort to orchestrate
+> the experience of diverse categories of audience members.
+
+Sometimes, a picture is worth a thousand words. So here you go. This
+is a probability distribution representing where people look in an
+image.
+
+TODO: INSERT PICTURE
+
+### Made You Look!
+
+This is one of the most fundamental elements of composition in
+film. If you understand what drives people *to look at something*, you
+can set them up to be more likely to pay attention to the right
+things.  And in such a controversial film as *A Clockwork Orange*,
+with a diverse set of viewers, many of whom are disgusted at what is
+happening on screen, then utilizing mise en scene is critical in
+coordinating their experience.  Many of these viewers would otherwise
+be reviling in disgust and looking away, completely missing some
+critical aspect of your message.  Imagine if someone watched the first
+30 minutes of this film and left.  Being able to anticipate the visual
+reaction of homogenous set of viewers is hard.  Being able to control
+the experiences of a diverse audience is masterful.
+
+As stated in the video at the top of the article, Alfred Hitchcock
+once famously stated that the size of an object on screen should
+reflect its importance.  And why is that?  Circling back to my
+statement that a director is trying to control the likelyhood of a
+viewer paying attention to the right things, then by increasing the
+size of someone on screen, then it makes a few things more
+likely. First, it becomes more likely that someone would begin to look
+at that object and continue to look at it.  Second, it emphasizes
+details in that object.  Third, in some viewers with a critical mind,
+this may cause them to reflect on the object's size in relation to
+other on screen objects.  But, like i said, your audience is diverse
+and you can't count on all people to understand such critical facets
+of film.
+
+Other factors you can use to influence a viewers attention include
+such visual hacks as contrast, focus, blur, color and especially
+motion. To understand how to apply these visual hacks, you really need
+to understand what drives attention in the human mind, as well as how
+we process visual information. These visual hacks can also
+detract. This is why mugging is so annoying.  Mugging is when an actor
+purposely diverts attention, typically utilizing motion. People can
+only pay attention to one thing. For an actor with a small part,
+mugging can be tempting because they can try to get a bit more
+attention on screen or whatever. Fortunately, everyone knows this
+trick.  Actually, your goal is to play the viewers attention to where
+it is intended.  Do this and you'll be far better off.
+
+Great, I've digressed into offering my amateur take.
+
+### Composition and Architecture
+
+I will get to VR, but first, I'll take a detour. **Logistics.** That's
+the dimension that I find so fascinating about so many subjects that
+others seem to miss.  I like to deconstruct the topic I'm assessing by
+expounding on the logistic processes required. So, in this case, I'm
+thinking about how Stanley Kubrick sourced the locations for his
+shots. Obviously, the guy read the book *A Clockwork Orange* and
+obviously, he studied the work to understand what it meant and what it
+could mean.
+
+> How do you go from that starting point to having a fully fledged
+> vision for a film that will spend eternity on most top 100 lists?
 
 
 
@@ -57,7 +149,7 @@ they just don't need this technique.
     - refer to the house at 12:30 in the video
       - this house has a specific layout that enables the shot conveying imbalance
   - this seems like a pretty complicated thing to do
-    - you have certain aspects of the story, of the plot and dynamics of the characters 
+    - you have certain aspects of the story, of the plot and dynamics of the characters
       - that you want to convey through image composition
     - so first, you need to decide what those are
       - then you need to brainstorm ways of expressing them on-screen
