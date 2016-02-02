@@ -10,7 +10,7 @@ author:
 > the equivalent of video and, in particular, streaming video?
 
 So I watched this video on
-[composition in storytelling](https://www.youtube.com/watch?time_continue=3&v=CvLQJReDhic),
+[composition in storytelling](https://www.youtube.com/watch?v=CvLQJReDhic),
 which discussed how directors arrange visual elements for shots. And
 this sparked my curiosity on several tangents related to the subject,
 including architecture and VR.  Specifically, I want to know how film
@@ -34,7 +34,7 @@ obscenity, the role of constraint and morality in society.  But also it
 has a particular style of cinematography, including a perculiar
 approach to mise en scene. This got me thinking a lot about how the
 director sourced locations for these shots, since there seems to be
-suble iconography in some of these shots, which add to the depth of
+subtle iconography in some of these shots, which add to the depth of
 the film's overall message.
 
 So, what is the process used to source these shots? And why does it
@@ -96,9 +96,9 @@ the experiences of a diverse audience is masterful.
 
 As stated in the video at the top of the article, Alfred Hitchcock
 once famously stated that the size of an object on screen should
-reflect its importance.  And why is that?  Circling back to my
-statement that a director is trying to control the likelyhood of a
-viewer paying attention to the right things, then by increasing the
+reflect its importance to the film. And why is that?  Circling back
+to my statement that a director is trying to control the likelyhood of
+a viewer paying attention to the right things, then by increasing the
 size of someone on screen, then it makes a few things more
 likely. First, it becomes more likely that someone would begin to look
 at that object and continue to look at it.  Second, it emphasizes
@@ -137,49 +137,114 @@ could mean.
 > How do you go from that starting point to having a fully fledged
 > vision for a film that will spend eternity on most top 100 lists?
 
+Not actually going to attempt to answer this question.  What's the
+process used to enumerate and evaluate locations for a movie like
+this? I'm sure there's a storyboard involved early on, but the
+location will significantly change what can be planned in a
+storyboard. The location itself creates constraints on camera shots
+that can be used.
+
+In the video that sparked this blog post, there was a particularly
+good example of a shot at
+[12:30](https://youtu.be/CvLQJReDhic?t=12m17s) that contrasts the
+sizes of two characters, disrupting the visual balance of the
+image. With the imbalanced shot in this example, the point is to
+convey a lack of control for one character and a sense of conflict
+between them.
+
+However, in order to set up this shot in particular, the layout and
+floor plan of the house itself was important.  A similar shot might be
+constructed in any house, but the layout enabled the cameras to be
+positioned so that the size of the characters on screen would be in
+line with the tone of the events onscreen.
+
+### Sourcing Locations and Cyclical Iteration
+
+So, sourcing locations for film seems to be critical for mise en
+scene.  There are certain aspects of the story, the plot and dynamics
+of the characters that you want to convey through image
+composition. The director needs to decide what to express via image
+composition and mise en scene, when first storyboarding.
+
+This planning in storyboarding likely happens at the same time
+locations are being identified. However, knowing what kind of shots
+you want to frame for individual scenes is crucial in deciding
+locations for these scenes.
+
+And so there's a bit of a circular dependency there, which is similar
+to one that happens when producing a song that features lyrics.  Do
+you construct the beat first?  And overlay the lyrics?  Or do you
+write the lyrics first and then write the beat to emphasize the
+lyrical delivery?  The answer is that you do both, though a few
+cyclical iterations.  You develop a bit on the beat, maybe that
+inspires some lyrics, that flow to that beat in particular.  The
+lyrics you're developing fit the beat your working on and that's
+crucial.  Then once you've finished the lyrics, you rearrange sections
+of the beat to match the lyrical delivery, which takes a lot of studio
+time.  If you're just working with a track that bought rights for via
+some producer you don't know, you probably can't really rearrange
+parts of the beat.  That's shit by the way, especially if it means you
+can't master the track that you're rapping over.
+
+But cyclically iterating on location and image composition in film can
+be incredibly expensive, especially if you need to travel to distant
+locations to evaluate them and plan shots. And this is a very
+complicated optimization problem, which is why it's interesting to me.
+It is more convoluted if you're evaluating a location that is used
+for multiple scenes or for a majority of film content.  That location
+needs to be capable of providing a variety of scenarios that provide
+possibilities for applying compositional techniques, while remaining
+visually compelling.
+
+And so, when storyboarding, I'm guessing that many shots can be
+planned in a generic manner.  The "Composition in Storytelling" video
+mentions *composition templates.* They are invaluable in reducing the
+complexity of this problem.  These can be extrapolated from existing
+works.  Compositional templates can be employed in a storyboard and
+are then easily be modified to fit a location's constraints.  For
+example, the order and angle of camera shots could be generically
+planned out for a scene, then slightly adapted once the location
+has be set.  However, being able to think about this before choosing
+the location is invaluable, logistically.
+
+And I haven't even touched on negotiating the legal rights to use a
+particular location.  I can only imagine the work that went into
+locking down Times Square for Vanilla Sky. I've had that dream
+before. Swear to God. Scouts honor.
+
+> Idea: an algorithm for analyzing building layouts to determine
+> composition possibilities would be useful in narrowing down a list
+> of locations.
+
+Buildings with unique architecture are great locations for creating
+visually striking imagery. Yet when such iconic locations have been
+used in such a way that contributes to mise en scene, this reduces the
+likelihood that such a building would be chosen again. This mostly
+only applies when the film is very popular or critically acclaimed and
+the imagery created is unmistakable.
+
+However, on the other hand, there are some locations that I've seen
+crop up on screen time after time. In particular, there's a skating
+rink in LA that's used for most shots of roller skating that appear in
+movies and TV for the past few decades. So besides its location in LA,
+what makes this rink a good location for film?
+
+Are there some buildings like this which were design, at least in some
+part, with film composition in mind? If so, this is likely a
+phenomenon confined to LA, but to what extent would architects design
+floor plans with this in mind? Have people studied floor plans and
+schematics used for critically acclaimed films?  Or at least studied
+floor plans to methodically determine what offers the best shots?
+
+It seems that film does affect architecture in LA, at least at a macro
+level. Based on how spread out LA is, it seems like the development of
+LA was controlled and restricted in the early and mid-20th century
+through the implementation of building codes.  Otherwise, IMO there
+would be more urban centers.
 
 
-- whenever i watch a movie like a clockwork orange,
-  - i start wondering how the director sources locations for shots
-  - what's the process they use to enumerate and evaluate these locations?
 
-
-
-  - how do directors find locations with shots that are used to create compelling image composition?
-    - refer to the house at 12:30 in the video
-      - this house has a specific layout that enables the shot conveying imbalance
-  - this seems like a pretty complicated thing to do
-    - you have certain aspects of the story, of the plot and dynamics of the characters
-      - that you want to convey through image composition
-    - so first, you need to decide what those are
-      - then you need to brainstorm ways of expressing them on-screen
-        - i'm guessing this happens mostly at the same time locations are being identified
-      - however, knowing what kind of shots you want to frame for individual scenes
-        - is very important in deciding locations for those scenes
-      - and this is a very complicated optimization problem
-        - especially if a location is used for multiple scenes or for a majority of film content
-          - that location needs to be capable of providing a myriad of scenarios and room layouts, etc
-            - that provide possibilities for applying compositional techniques
-        - identifying composition templates used in film certainly helps reduce the complexity of this problem
-          - algorithm for analyzing building layouts to determine composition possibilities?
-    - then, once you've identified suitable locations,
-      - then you can decide how to direct the camera in these scenes 
-        - to acheive the composition effects you want
-  - would buildings be reused for film?
-    - once an iconic, recognizable location has been used in a popular, acclaimed film 
-      - this would seem to reduce the incentive for the location to be reused again, at least for some time
-      - however, at the same time, if a location has proven its worth,
-        - then it seems the location could be reused again
-
-  - so it seems, to some extent, the design of buildings in LA would reflect this need
-    - e.g. there's a skating rink in LA that's used for most shots of skating in film over the past few years
-      - besides it's location, what makes this rink a good location for film?
-      - are there some buildings like this which were designed with image composition in mind?
-        - at least, to some extent.  it'd be ridiculous to solely design a building around this.
-    - but i wonder to what extent people design floor plans with this in mind?
-      - do people study floor plans and schematics of buildings used for critically acclaimed films?
-
-  - and, because limitations seem to enhance creativity, 
+- and, because limitations seem to enhance creativity, 
     - it seems this problem of designing the composition for shots would be more difficult for pixar
       - designing a scene for computer generated movies would require adding in lots of details
         - changes would be expensive in terms of time
@@ -231,4 +296,24 @@ could mean.
         - artists may opt to create a cross between a film and a video game
           - where the experience is event-driven and the characters respond to the viewer's state
             - while being coded to provide as consistent of an experience as possible
-  - VR x Theater?!
+
+- VR x Theater?!
+
+
+- what is the universal medium of expression for VR that will be the equivalent of film
+  - there seem to be a lot of interesting ways to express things in VR
+    - but they will have mostly novelty value and then seem like gimmicks
+  - it's hard for me to imagine a new medium of expression in VR that will last
+    - film has a clear universal format
+    - but VR complicates too much.  there are too many variables.
+  - it's easy to say that 3D movies would take off in VR
+  
+
+
+
+
+
+
+
+
+
