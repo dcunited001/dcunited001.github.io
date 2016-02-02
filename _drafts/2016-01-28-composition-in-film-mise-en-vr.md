@@ -242,53 +242,208 @@ LA was controlled and restricted in the early and mid-20th century
 through the implementation of building codes.  Otherwise, IMO there
 would be more urban centers.
 
+### Composition in Computer Generated Works
+
+Because limitations seem to enhance creativity, Pixar would have a
+much more complex problem in designing the composition for shots.
+While you're not restricted by the constraints of a location,
+designing a scene for computer generated movies involves adding in
+tons of details.
+
+Changes to these scenes would be expensive in terms of time. So when
+these computer generated scenes are designed, these general image
+composition rules are likely taken into account and composition
+templates are employed. The storyboards are constructed around rough
+sketches of scenes and minor details are added later on.  If high
+detail is added early on, this significantly increases render times
+and unnecessarily lengthens the feedback loop.
+
+### How Does Image Composition Change for 3D Movies?
+
+3D cameras and 3D movies offer a plethora of interesting methods that
+obliterate subtle constraints of film.  For example, mirrors are a
+serious problem in scene design and restrict camera placement.  It's
+not a problem with 3D movies though.  This is just one example of
+constraints of 3D film that are just non-existent in 3D.  However,
+these new techniques require equipment, planning and time, which
+complicate the logistic process of producing scenes.
+
+3D also transends some location-based limitations.  You can overwrite
+any sections of the scene by modeling the scene in 3D.  So if the
+location for a scene has a visual element that detracts from the
+composition, you can remove it.  Or extend it.  Or modify it.
+
+There are also tools with 3D film that enable you to alter visual
+expression of objects in frame.  For example, if you've read in a 3D
+mesh that represents the structure of a 3D object, you can easily
+manipulate those objects in 3D.  A great example of this is lighting.
+With 3D film, you can alter the lighting of objects.  You can add
+lighting for specific objects that isn't cast on others, like you're
+Michelangelo.  This creates unique effects on mise en scene, focusing
+your viewers attention on elements that confuse their subconscious
+mind with impossible lighting, attracting their attention.
+
+Additionally, you can control the perspective and viewing frustum at
+render time, applying different perspective parameters to various
+objects.  Again, creating slight distortion that a viewer's mind knows
+to be impossible, causing their attention to be directed in an
+unconscious manner.  It's about breaking the mind's model of reality,
+forcing the subconscious to reevaluate something that seems so real in
+all but one or two dimensions. And yet the experience clearly violates
+some constraint of the mind's model of reality.  This drives a
+phenomenon known as a
+[schema](http://www.tandfonline.com/doi/abs/10.1080/10400419.2014.901061)
+[violation](http://psp.sagepub.com/content/40/8/959.abstract), which
+has been extensively studied in relation to intelligence.
+
+> Idea: there is no reason why 3D film must be digital first. Creating
+> an analog 3D camera should be possible.  Although in most cases,
+> the recording would be converted into digital and combined with
+> digital elements at some point.  But there's no reason a 3D movie
+> could not be produced analog all the way through. Doing so would
+> require specialized cameras.
+
+### VR x Streaming Video
+
+Ahhh finally, we've arrived.  Virtual Reality.  How do the rules of
+composition change for VR? This is a difficult question because we
+still don't know how VR will develop as a medium of
+expression. Obviously 3D movies will take off on VR, but IMO that
+detached experience might be a bit jarring to a viewer.  And there's
+the problem of sharing the experience of watching a 3D movie in VR.
+This is a software problem that's going to present the consumer with
+lots of unwanted complexity.
+
+I want to repeat the question I stated at the beginning of the article:
+
+> Streaming video transformed the internet in the past decade. So, for
+> VR, what's the equivalent of video and, in particular, streaming
+> video?
+
+This question allows me to think about VR in such a different way
+because I feel like there is something we are missing about it.  We're
+defining VR based on our notions of film and video games today.  But
+IMO, the general public's perception of VR today is wildly distorted.
+So much is just not feasible because of constraints imposed by UI/UX,
+cost, hardware and software.  But the business, hardware and software
+challenges faced by VR/AR is addressed in a pending article.
+
+I personally think that the lack of constraint in VR will prevent the
+development of one universal medium.  That is, there may be no
+development of an equivalent like film, which is a 2D medium that has
+clearly stated and universally adopted standards describing it's ratio
+and framerate.  Because of the divergent nature of the types of
+experience offered by VR, it doesn't seem like one of these experience
+types will establish itself as the universal.
+
+This will certainly be true until 2020. Given time, if there is some
+universal medium for the expression of art and experiences that
+emerges, it should become obvious by 2020.  We would certainly be
+well-rewarded by studying the evolution of cinema and video and the
+beginning of the 20th century.  In particular, looking at unsuccessful
+offshoots in this time: what experimental techniques did people
+attempt that failed and why?
+
+### How Does Image Composition Change for VR?
+
+If the point of mise en scene in 2D is to control the probability
+distribution of your audience, how do you achieve the same objective
+in VR, especially if you can't control the perspective and orientation
+of the audience. This overwhelming complexity of the VR
+medium, does this lack of limitation actually limit the capacity of
+film in the VR medium to convey a consistent message to viewers? And
+how does the convoluted nature of a medium of the future affect it's
+consumer adoption and rate of adoption?
+
+Or does the complexity only seem overwhelming because I'm tightly
+coupling 360 VR video to film?  Perhaps this complexity will be
+reduced by the exploration of pioneering artists that discover new
+forms of expression and new composition templating techniques.
+
+> This is what excites me about VR. It's new.  It's unexplored.  There
+> are no rules and it's up to someone to discover those rules and
+> write them.  This is a huge opportunity for someone to make their
+> mark.  Realizing that this kind of opportunity exists and that
+> basically no one else can see it excites me in a very primal, almost
+> sexual way.
+
+So, for 360 3D VR video, as a director, how do you control the
+experience of your audience, especially if you can't count on their
+orientation and perspective?  As a viewer, how does this added freedom
+to look around affect your understanding and feedback from viewing a
+static experience.  It seems like it'd be strange to view a static
+360 video experience while being able to move around.
+
+An analogy can really help to ground the exploration of an unfamiliar
+subject. The cinematography for 360 VR Video is to that of video as
+cinematography of video is to photography.  Whereas photography is
+fixed in time and lacks motion, cinematography needs to take these
+into account, although photography technically does subtly deal with
+motion. Going from 2D video to 360 VR Video similarly requires adding
+the 'dimension' of the viewer's orientation.  The viewer's capacity to
+move adds another dimension to the medium.
+
+### A Statistical Model for Directing Focus
+
+So in order to understand how controlling the probability distribution
+of the focus of our many viewers, it may be of benefit to return to
+the mathematics-inspired analogies. It may seem Daedalian, I know. I
+hope you'll excuse my tendency to reach for math and other abstract,
+hard to understand concepts, but doing so really does help me reason
+about this stuff.
+
+So. In general, how does added dimensionality affect a problem?
+Personally, I need more understanding to answer this question,
+especially if I were to apply it to the problem at hand. However, I
+can say that increased dimensionality can complicate a problem space,
+but also simplify it as well.  Here, dimensionality doesn't refer to
+typical Euclidean dimensions of space, but to the range of options
+available to the artists.  It's instead a widely increased
+feature-space.
+
+The reason I'm mentioning math here is because it's a means of
+methodically developing knowledge of VR as a medium. If you understand
+how to combinate through the various permutations of VR as a medium
+and comprehend how each one functionally differs, then you can foresee
+how each would be useful as a medium of expression. Math really isn't
+the only way to come to understand this and it's too esoteric for
+most, but it works for me.
+
+But think about it: there's lots of opportunities here and not just
+for the artist.  If you understand how these variations of VR
+expression will develop and how consumers will approach the industry,
+the you can anticipate demand for products.  Step 3: Profit
+
+### Guiding the Experience of Your Audience
+
+So, what tools are available to reduce the complexity of VR? 3D audio
+is a good example of a technique that can help direct the focus of
+your audience.  3D microphones have recently been developed, specifically
+to capture audio for Oculus Rift and 360 3D movies.
+
+TODO: insert 3D microphone
 
 
-- and, because limitations seem to enhance creativity, 
-    - it seems this problem of designing the composition for shots would be more difficult for pixar
-      - designing a scene for computer generated movies would require adding in lots of details
-        - changes would be expensive in terms of time
-      - so when these computer generated scenes are designed,
-        - these general image compositions rules are likely taken into account early on
-          - and the shots are designed around rough sketches
-        - therefore, image composition is likely used more often in computer generated movies
 
-  - how do these rules change for 3D movies? 
-    - for 3D movies, you can control the perspective and viewing frustum at render time
-      - this means it's easier to use these effects to accentuate things happening on screen
-  - how do they change for VR?
-    - how do you create these effects in VR "experiences" if you can't control the perspective of the viewer?
-    - what is the equivalent of streaming video in VR?
-  - how does this added complexity for a medium of the future affect it's adoption & it's rate of adoption?
-    - because of the overwhelming complexity of the medium, 
-      - does this limit the capacity of art in the VR medium to convey a consistent message to viewers?
-      - or does the complexity only seem overwhelming bc i'm tightly coupling 360 VR video to film
-        - and artist will have to explore to discover new forms of expression and new templating techniques,
-    - this is similar to the differences between photography and cinematography (and between theatre and film)
-      - whereas photography is fixed in time and lacks motion, cinematagraphy needs to take these into account
-        - photography does depend on motion, to a degree, 
-          - but with cinematagraphy, motion represents an entire dimension
-      - so, with 360 VR experiences, the perspective of the viewer and their capacity to move from a fixed position
-        - both represent added dimensions of the medium.
     - and so, similar to Alfred Hitchcock's quote that a subjects size on screen should reflect it's importance
       - a subject's positioning in VR medium should also reflect it's importance.
         - yet, it's a bit tougher to control that, so i should disect alfred hitchcock's statement there
-    - why is it that size on screen should reflect importance? 
+    - why is it that size on screen should reflect importance?
       - to understand this, we need to understand what draws a viewer's attention
       - there's something almost mathematic about this
-        - what the director is really trying to control is the probability distribution 
+        - what the director is really trying to control is the probability distribution
           - of where people are looking during certain key frames in a scene
         - this is so that they can direct the viewer's experience
-      - so, if by increasing the size of a subject, 
+      - so, if by increasing the size of a subject,
         - you increase the probability that someone happens to look at that subject
           - then it makes it easier to expect that someone is observing the right things
             - to have the kind of experience you intended
     - so, how does this change for VR? how can you attempt to control the probability distribution here?
       - if a viewer can turn and look anywhere they want, or even shift position,
-        - how can you guarantee that a good chunk of your viewers 
+        - how can you guarantee that a good chunk of your viewers
           - are going to experience the right thing at the right time?
           - (hint) 3D audio helps alot, but still isn't enough
-    - i think that this added complexity will either: 
+    - i think that this added complexity will either:
       - hold back the medium from widespread adoption
       - or force artists to be creative in finding a way to transcend past this limitation
         - which is ironically a limitation created by a lack of limitation
@@ -307,13 +462,6 @@ would be more urban centers.
     - film has a clear universal format
     - but VR complicates too much.  there are too many variables.
   - it's easy to say that 3D movies would take off in VR
-  
 
-
-
-
-
-
-
-
-
+- constraints on expression in VR
+  - limits on coordinated movement of objects when rendering in realtime
