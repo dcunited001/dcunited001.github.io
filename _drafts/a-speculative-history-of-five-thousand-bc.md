@@ -1,5 +1,5 @@
 ---
-title: "A Speculative History of 5,000 B.C."
+title: "A Speculative History of 5,000 B.C. (Part One)"
 categories: blog
 tags: "linux security"
 headline:
@@ -8,14 +8,20 @@ author:
 excerpt:
 ---
 
+- http://gastonsanchez.com/opinion/2014/02/16/Mathjax-with-jekyll/
+- TODO: set up mathjax
+- TODO: some pics and stuff
+
+$$\aleph_\infnty$$
+
 So, I'm going to write this article a little earlier than I should
 because it touches on so many ideas I find fascinating, especially
-linguistics and early civilization.  It's important to understand
-that what I'm postulating here is far from fact and is at best
-an amalgamation of many good ideas, a few of which might actually
-be valid. That's why I'm going to preface this as speculative
-history or just fiction really.  But it still has all the elements
-of a great story.
+linguistics and early civilization.  It's important to understand that
+what I'm postulating here is far from fact.  At best, it's an
+amalgamation of many good ideas, a few of which might actually be
+valid seeds to bear fruit, in the right context.  That's why I'm going
+to preface this as speculative history or just fiction really.  But it
+still has all the elements of a great story.
 
 I believe that among other great ideas, I might have found a clue to
 the origins of the proto-indo-european language:
@@ -24,7 +30,9 @@ then dive into some details.  I won't neglect the occasional collapsed
 civilization and catastrophic disasters, nor the archetypes accumulated in
 humanity's collective unconsciousness.
 
-![deckard cain photo]
+![deckard cain photo](/img/posts/2016-02-03-a-speculative-history-of-five-thousand-bc/stay-awhile-and-listen.jpg)
+
+#### Greetings from Deckard Cain
 
 ### War and Peace
 
@@ -104,12 +112,10 @@ And finally, building cities to this degree of craftsmanship,
 including other feats such as multi-story buildings, requires
 cultivating systems of understanding, measurement and knowledge
 propagation.  They obviously valued knowledge, intelligence and
-wisdom.
-
-It's these observations, among others, that lead me to believe these
-people had a kind of academic class.  They seemed to understand that
-the could improve their lives through technology.  To the point that
-the pursuit of technology itself was immensely valuable.
+wisdom. It's these observations, among others, that lead me to believe
+these people had a kind of academic class.  They seemed to understand
+that they could improve their lives through technology.  To the point
+that the pursuit of technology itself was immensely valuable.
 
 The Sumerians and so many others after them realized the value of
 technology too. Yet, their lust for power caused the ruling class to
@@ -125,10 +131,47 @@ from the suffering and chaos of nature for the benefit of everyone,
 Sumeria sought to use technology to construct monoliths and towering
 empires.
 
+And forget about Sumeria.  What about this Shangri-la?  To me, it's
+not so surprising that their buildings vanished, but it's confounding
+to wonder why their culture completely disappeared.  I can understand
+the cities, but why does it seem that their art and architecture
+evaporated like a mirage without a cultural lineage or legacy?
 
-harrapans
-- unknown language
--
+What about their language? Why are there no remnants of intermediate
+written forms?  To this, I believe it is because the change was quick.
+And it makes for a fascinating story, too. Absolutely epic.
+
+### A Cold Snap Back to the Last Ice Age
+
+There's a lot missing from human history ... IMO, pre-history, as
+defined by a lack of written history, ended much earlier than we can
+conclusively state.  But something's wrong.  If that's true, where is
+the evidence?  Why is it that we don't see any widespread systemized
+written language before ~4,000 BC. Where are the engineering marvels
+of ages long past?  There's a good explanation for that, although
+it doesn't completely encompass the utter lack of evidence.
+
+So, let's take a trek back to 10,000 BC, the turning point at the end
+of the last ice age.  With google maps and a 60 year generation, it's
+always been a challenge for us to imagine a dynamic map over
+millenia.  We've only had accurate maps for a few hundred years.
+
+Though, IMO, I believe that the world of 8,000 - 4,000 BC in
+particular would have been particularly turbulent, to the point such
+that the dynamic nature of geography would have been very apparent to
+at least some of our ancestors at the time.  More on this, in just a
+second.
+
+#### The World of ~10,000 BC:
+
+![map of ice age]
+
+You can see several landmasses in particular that are now missing.
+There's the celebrated Bering Strait, of course.  And the lesser known
+landmass connecting Africa's Rift Valley with the Arabian Peninsula.
+Hmmmm, that's odd.  Korea and Japan are touching.
+
+And, if you've got a sharp eye, you'll notice
 
 the importance of geography in the early world
 - astrology as a coordinate system for locating oneself
@@ -136,19 +179,161 @@ the importance of geography in the early world
   - but also for fostering a purpose in a violent world with lots of suffering
   - and for cultivating trans-generational strategies for improving the human condition
 
+### 12,000 BC - 8,000 BC
 
-break pre-history up into several periods:
+The world is just beginning its transition.  The conditions are not
+ripe for humanity to tap into it's potential and develop
+agriculture. The weather is too turbulent, which wouldn't stop us, had
+we previously developed this skill.  Furthermore, the changing weather
+drives both us and our main food source to migrate.
 
-- 12,000 BC
-- 8,000 BC
-  - settlements in turkey (cayal hatuk)
-- 6,000 BC
-  - settlements in mesopotamia
-- 5,000 BC
+By this time, people have almost certainly noticed that seeds grow
+into plants, which should bear fruit. And that, by planting food
+sources while following migrating animals, food can be harvested if
+returning to the same place later. Or at least, this results in food
+for someone.
+
+> Thus, karma is born ...
+
+See?  Ug nice.  Ug plant many seed, just for you.  Just cuz Ug
+nice. Ug cares. Be like Ug.
+
+### Proto-Language was Ephemeral and Chaotic
+
+As for language, IMO, the development of spoken language was far more
+fluid, chaotic and than historians realize.  Remember, the average age
+at this point was pretty low, with some exceptions.  The paleo diet
+really is healthy for a reason, so we really gotta give credit where
+credit is due.  The lack of sedentary lifestyles also probably gives
+these people a better life expectancy than we would first estimate.
+
+But overall, it can be expected, with low life expectancy, high
+transiency and solely verbal means for transfer of knowledge, that
+myth, language and culture are all ephemeral at this point.  IMO, at
+this point, vocabulary developed as needed.  Word order and syntax
+were fluid. There was no structure to enforce and thus, there were no
+rules, nor would anyone know that there should be rules for spoken
+communication.
+
+> In the ice age, ain't nobody hittin' ignore on
+> their newsfeed because you spelled *your* wrong.
+
+As for vocabulary, we would likely draw inspiration from mostly local
+& transient environmental influences that provided inspiration for
+words and root cultural elements. With constant migration and terrible
+memory from all the fantastic weed we would undoubtedly be hotboxing
+in igloos, this vocabulary would be transient. Because the
+communcation systems were so diverse, it would be difficult to
+culturally exchange with others in a meaningful way, further dampening
+cultural development.
+
+We only need words for what we know.  As language requires time and
+repetition to be propagated to others, we only teach what is relevant.
+If what we come to know and what is relevant depends on where we are,
+and if relevance & memory are determined by frequency of usage, then
+the vocabulary before formal communication systems are established
+would have high turnover.  Except for a few terms, which would be
+predisposed for both exchange with other small cultural groups, as
+well as predisposed for retention by those groups.
+
+So, apart from some universal phenomena derived from experiences
+common to all humans, there would be little shared inspiration,
+acoustic and otherwise, upon which to create vocabulary.
+
+### The Collective Unconscious is Countably Infinite $$\aleph_\infty$$
+
+This notion of shared experience is crucial to understanding cultural
+development.  The composition of each of our universally shared
+experiences; the downstream consequential chain reactions; our
+infinite yet spectrally resonant range of reactions to them.
+
+> Birth. Death. Sickness. Love. Fear. Friendship. Water. Light. Food.
+
+These ideas experienced by all with near certainty: they are
+combinated with higher level ideas and form a universal loom on which
+the web of individual psyche is weaved.  These are so universal that
+one can even say that fucking space aliens - they will experience many
+of these same phenomena.
+
+The idea of collective unconscious pops up time and time again to
+answer tough questions, though almost always circumstantially instead
+of conclusively. Kinda frustrating. Really need hard evidence.
+
+In this case, IMO, its moreso the collective unconscious and less so
+the presence of a universal language root that caused morphological
+archetypes to emerge across the globe.  It's these morphemes (read:
+word roots) that are shared across so many languages that suggest the
+presence of the Proto-Indo-European language.  Likely, it's a
+combination of the sporatic emergence of these near universal
+morphemes from the convergence of the collective unconscious
+with the viral nature of knowledge that caused these morphemes to
+coalesce at the root of Indo-European language family.
+
+### Part Two: Calamity Echoes Through Human Psyche
+
+That's it for the first part. The next section covers 8,000 BC through
+5,000 BC, including geographic reformation of the earth during this
+time. This opened up the opportunity for cultural innovations, such
+as agriculture, language, trade and boats.  We got boats y'all.  They
+probably weren't too good though.
+
+
 
 ###
 
+This transition was destructive and creative at the same time,
+isolating groups humans and psychologically imprinting them with
+disaster, over and over again.  This disaster sparked a need to understand
 
+It provided us with the impetus to culturally innovate to
+
+### 8,000 BC - 5,000 BC
+
+Lets be real, up to this point, humanity has been sticking to the
+rivers and lakes that it's used to.  But that's all about to change.
+Things are starting to heat up.
+
+Lack of settlement means lack of sustained agriculture,
+though. Because our food source is restricted to what we can find to
+eat, this limits our population, as do many other factors.  Lack of
+settlement means trade is sporadic at best and both of these factors
+contribute to lack of cultural development.  Trade might be the single
+most important factor incentivizing development of abstract written
+communication, so that's right out too.
+
+archetypes:
+- sunken continent, lost civilization
+- deluge/flood/disaster & vengeful god
+
+### 5,000 BC
+
+"the plan"
+- collective unconscious strikes again
+
+### 4,000 BC
+
+development of the plan
+- origins of metallurgy and whatnot
+
+### 3,000 BC
+
+back to harappa
+- proto-anthropology
+
+### 2,000 BC
+
+paradise lost
+
+
+
+
+break pre-history up into several periods:
+
+- 8,000 BC
+  - settlements in turkey (cayal hatuk)
+  - melting glaciers providing an impetus for sea travel
+  - ending with settlements in mesopotamia
+- 5,000 BC
 
 preface the article by defining how this is 'speculative history'
 - state that it couldn't be true for the same reason that batman couldn't hang out with the xmen
@@ -175,6 +360,10 @@ harrapan technology:
 - some homes were connected to a centralized drainage system that used gravity to carry waste
 - in mahenjo-daro, the largest building was a bathhouse
 - they traded cotton cloth
+- their way of life was dependent on a consistent flooding cycle (twice per year)
+  - does this result from flooding from glaciation?
+  - would they have been able to observe and predict a change in water flow from a melting glacier?
+- did harrapans know about and observe climate change?
 
 - personal beliefs on the transmission of culture throughout the world around 3,000 B.C.
   - that mostly lack evidence by the way
