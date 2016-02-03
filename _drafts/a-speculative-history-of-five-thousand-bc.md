@@ -26,14 +26,115 @@ humanity's collective unconsciousness.
 
 ![deckard cain photo]
 
-### Sumeria and Harrapa
+### War and Peace
 
 The two earliest major civilizations in our world were the Sumerians
-of the Mesopotamian and the Harrapans of the Indus Valley, which
-were only recently discovered in the 20th century.  The Sumerian and
-Harrapan civilizations breifly coexisted, around 3,000 BC.
+of the Mesopotamian and the Harrapans of the Indus Valley, which were
+only recently discovered in the 20th century.  One was plagued by
+warfare and the other vanished after being blessed by peace.
+
+The Sumerian and Harrapan civilizations breifly coexisted, around
+3,000 BC and undoubtedly knew of each other. There was significant
+trade.  In fact, until the discovery of Harrapan cities, the only
+evidence we had were artifacts found in Sumerian cities.  At that
+point, we weren't aware of the Indus Valley Civilization (ICV.)
+
+### Sumeria
+
+Sumeria is known for its ziggurats, it's cities, for fostering
+agriculture and, most famously, the first system of written language.
+It's also the *first known* major civilization in the world. I provide
+a compelling argument to explain why Sumeria may not be the first
+Mesopotamian civilization later on.
+
+Sumeria also occupied the most valuable piece of real estate the world
+has ever known.  This is what fueled the conflict for so long in the
+middle east, which was blessed and cursed by geography.  The middle
+east brings inlets of water in which connect it to the Horn of Africa,
+the Persian Gulf, the Mediterranean, the Black Sea, the Caspian Sea
+and to the far east.  The middle east was and is the *literal center
+of the world.*
+
+The fastest way to travel *and trade* in the old world?  Seafare.  The
+fastest way to meet the most people?  The fastest way to accumulate
+knowledge?  The fastest way to collect the most taxes?  The fastest
+way to conduct the most business with the most people?  Sit in the
+center of the world.  Identify this with a bit of geography, find a
+way to occupy it and regulate commerce and you're set for generations.
+It is this power that people have been fighting over for millennia.
+
+### Harrapa
+
+Harrapa is famous as a technologically advanced civilization that
+vanished, only recently rediscovered in the last century, whose
+language we are still struggling to translate.  Their technology was
+amazing for a civilization from 5,000 to 6,000 years in the past.
+
+Some Harrapan cities had systems of plumbing, where houses were
+connected with piping to carry away waste.  They had toilets.  5,000
+years ago. Imagine the knowledge that requires to engineer that.  With
+no precedent established from prior civilizations?  If you're going to
+construct a sewage system, of any capacity or quality, that doesn't
+just require technology, an understanding of physics, and a modest
+understanding of fluid dynamics.
+
+It requires forethought! You really can't build on top of existing
+settlement infrastructure for a major project like that.  You've
+really got to step back and plan where a good spot for a city would
+be, which would offer the ideal setting for gravity to push water
+through a system like that.  And which would not be subject to
+erosion, that would be a waste.
+
+My point here is fourfold.  First, this implies that the Harrapans
+were experimenting with this stuff for a long time at a small scale
+before implementing larger, more permanent systems.  The lessons
+learned to construct lasting civil infrastructure take *generations*.
+Secondly, simply having the incentive to build systems like this - it
+implies long-term stability and lack of chaotic change.  Otherwise,
+a society would simply never think about doing this stuff.  It just
+wouldn't even occur to them and it certainly wouldn't be a priority.
+
+Third, these efforts take long-term multi-generational cooperation,
+which may also imply longer lifespans. The Harrapans basically never
+knew warfare, which may have been their downfall.  So they obviously
+weren't forcing anyone to build this stuff.  They didn't seem to spend
+all their money building temples either.
+
+And finally, building cities to this degree of craftsmanship,
+including other feats such as multi-story buildings, requires
+cultivating systems of understanding, measurement and knowledge
+propagation.  They obviously valued knowledge, intelligence and
+wisdom.
+
+It's these observations, among others, that lead me to believe these
+people had a kind of academic class.  They seemed to understand that
+the could improve their lives through technology.  To the point that
+the pursuit of technology itself was immensely valuable.
+
+The Sumerians and so many others after them realized the value of
+technology too. Yet, their lust for power caused the ruling class to
+attempt to horde it for themselves when it was useful and stifle its
+development when it threatened whatever good thing they had goin' on
+at the time.
+
+But why?  Why the contrast here?  Why did the two civilizations have
+completely different perspectives on the phenomena of knowledge, the
+development of technology and the release of humanity from the
+constraints of nature?  Whereas it appears Harrapa sought to free man
+from the suffering and chaos of nature for the benefit of everyone,
+Sumeria sought to use technology to construct monoliths and towering
+empires.
 
 
+harrapans
+- unknown language
+-
+
+the importance of geography in the early world
+- astrology as a coordinate system for locating oneself
+- mythology as a means of preserving knowledge
+  - but also for fostering a purpose in a violent world with lots of suffering
+  - and for cultivating trans-generational strategies for improving the human condition
 
 
 break pre-history up into several periods:
