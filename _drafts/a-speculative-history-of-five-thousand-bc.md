@@ -1,3 +1,80 @@
+---
+title: "A Speculative History of 5,000 B.C."
+categories: blog
+tags: "linux security"
+headline:
+author:
+  name: "David Conner"
+excerpt:
+---
+
+So, I'm going to write this article a little earlier than I should
+because it touches on so many ideas I find fascinating, especially
+linguistics and early civilization.  It's important to understand
+that what I'm postulating here is far from fact and is at best
+an amalgamation of many good ideas, a few of which might actually
+be valid. That's why I'm going to preface this as speculative
+history or just fiction really.  But it still has all the elements
+of a great story.
+
+I believe that among other great ideas, I might have found a clue to
+the origins of the proto-indo-european language:
+proto-anthropologists.  I need to explain some things at a high level,
+then dive into some details.  I won't neglect the occasional collapsed
+civilization and catastrophic disasters, nor the archetypes accumulated in
+humanity's collective unconsciousness.
+
+![deckard cain photo]
+
+### Sumeria and Harrapa
+
+The two earliest major civilizations in our world were the Sumerians
+of the Mesopotamian and the Harrapans of the Indus Valley, which
+were only recently discovered in the 20th century.  The Sumerian and
+Harrapan civilizations breifly coexisted, around 3,000 BC.
+
+
+
+
+break pre-history up into several periods:
+
+- 12,000 BC
+- 8,000 BC
+  - settlements in turkey (cayal hatuk)
+- 6,000 BC
+  - settlements in mesopotamia
+- 5,000 BC
+
+###
+
+
+
+preface the article by defining how this is 'speculative history'
+- state that it couldn't be true for the same reason that batman couldn't hang out with the xmen
+
+
+topics to mention:
+- sicilian monolith
+- bathymetry maps
+  - how much of this should i cover?
+- evolution of langauge through proto-anthropologists
+- the indended purpose behind development of mythology
+  - epic of gilgamesh (city vs country, city wins?)
+- harrapans didn't seem to have war or much conflict at all
+
+topics to research:
+- extent & time period of sumerian civilization
+  - established written law code around 1,800BC w/ hammurabi
+- order of events in the bible
+- epic of gilgamesh (plot, themes, timeline and inspiration from the early world)
+- relationship b/w sumeria and harrapans
+  - trading with sumerians as early as 3,500BC (from crash course video)
+
+harrapan technology:
+- some homes were connected to a centralized drainage system that used gravity to carry waste
+- in mahenjo-daro, the largest building was a bathhouse
+- they traded cotton cloth
+
 - personal beliefs on the transmission of culture throughout the world around 3,000 B.C.
   - that mostly lack evidence by the way
   - harappan civilization was created in the ancient world after the 'center' of the ancient world was identified
