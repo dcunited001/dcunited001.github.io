@@ -6,7 +6,7 @@
     - moving towards categorical thinking
   - discovering self-similarity and it's importance "getting to the meta"
     - discovering metaphenomina and epiphenonina
-  - discovering and knowing your own beliefs.  
+  - discovering and knowing your own beliefs.
     - having your own experience before trying to understand the great thinkers
   - approaching formlessness: the importance of forms and formlessness
   - how to observe?
@@ -18,7 +18,7 @@
         - if you most crucially need to observe yourself as you know nothing?
       - how does one instill the art of observing the right things in themselves if they know nothing?
     - these are classic problems that have been poured over and meditated on for millenia
-      - particularly the zen thing i just mentioned, 
+      - particularly the zen thing i just mentioned,
         - which stems from buddhist thought
           - which stems from hindi thought
   - which brings me to my next point
@@ -33,13 +33,14 @@
 - economics, stocks & commodities - how do fluxuating currency values affect investment decisions
   - already complicated enough b4 taking into account how fluctuating currencies affect portfolio/demand
   - other tweets that i can turn into 3,000 word articles?
-- how do 'anaphorized' and 'cataphorized' grammatical structures 
+
+- how do 'anaphorized' and 'cataphorized' grammatical structures
   - affect language and the development of the brain?
   - what subtle differences are caused by languages that have cataphoric inflexion of grammer
     - versus those who have pronouncedly less.
   - by cataphoric inflexion, i mean your brain constantly has to think a little ahead
     - if i'm asking a question "how do[es] ... "
-      - i have to subconsciously think about the subject before rendering the verb. 
+      - i have to subconsciously think about the subject before rendering the ve
         - does the verb need to be inflected plural or singular?
         - it depends on the subject of course
       - i only have thought about this because of subtle neurological symptoms
@@ -73,7 +74,7 @@ blog about all the blogs i haven't written
   - disrupting existing neural networks is exactly why psychedelics can be beneficial
 - genetics as a probabilistic program
 - article(s) on differential diagnosis for MS, ALS, HD, PME's, LD and other neurodegenerative disorders
-- vulnerability of homogenous belief systems 
+- vulnerability of homogenous belief systems
 - hypothetical /net/null attacks:
   - far too easy to hijack/manipulate unencrypted network connections using routing protocol attacks
   - e.g. reroute unencrypted IRC messages, then balance out the packets for that app
@@ -92,20 +93,21 @@ blog about all the blogs i haven't written
   - if AR/VR does not *QUICKLY* achieve market penetration and consumer adoption,
     - the tech may face a setback of years
 - differences in learning CS through academics and through experience
-  - why CS is all about math.  
+  - why CS is all about
     - without consciously understanding the math behind cs
       - you'll constantly be solving the same problems as though they are each different
   - however, the mentality that every problem is the same leads to problems in those academically inclined
     - they see the same problem everywhere and believe that every problem that fits a mold/patterm has the same answer
     - when in fact, there are some problems/algorithms which can be made more efficient than it appears at first glance
-      - and it is precisely because of the subtleties of the domain of the problem.  
-      - e.g. bioinformatics string-neighborhood can be accelerated 
+      - and it is precisely because of the subtleties of the domain of the problem.
+      - e.g. bioinformatics string-neighborhood can be accelerated
 - post on the qualities of great people (see draft)
 
 - series on linux distros (linuxi)
-  - 
+  -
 - article on building/installing a bootloader, securely
- 
+
+
 
 - man should prove himself wise enough to preserve nature as it is before attempting to alter it
 
@@ -119,7 +121,7 @@ blog about all the blogs i haven't written
         - the gravity wave [supposedly] flows at the speed of light
           - but distorts the structure of spacetime itself as it propagates
         - therefore it would alter the apparent speed of light flowing in the same direction
-        - possibly(??) causing that light to *appear* to travel 
+        - possibly(??) causing that light to *appear* to travel
           - at slightly less/slightly more than c
    - if this is true, or if something similar is true, and c is not universally constant
      - but instead c varies from apparent c, dependent on the structure of space,
@@ -157,7 +159,7 @@ blog about all the blogs i haven't written
       - think hard about problems without cheating by applying today's knowledge/technology
       - how would aristotle have reached these conclusions?
       - could the ancient greeks known this and if so, how did they reach those conclusions?
-- as we hurtle towards relative omniscience and relative omnipotence, 
+- as we hurtle towards relative omniscience and relative omnipotenc
   - isn't it important for us to discuss what makes a group worthy of ...
     - ... "handling this power?" i think that's what i meant to write
 
@@ -174,7 +176,7 @@ blog about all the blogs i haven't written
     - additionally, this was another catalyst for myth
     - and a catalyst for measure the world around us
   - how would ancient people begin to approach measuring the stars
-  - ancient people's fascination with stars, 
+  - ancient people's fascination with stars,
     - as they were the most dependable, most stable phenomenon of their world
 
 ## Math
@@ -192,7 +194,7 @@ blog about all the blogs i haven't written
     - availability of resources, form/function of species and speciation
     - defining qualities of environment and the form of intelligent life
     - specific progression of technology
-    - cataclysmic events 
+    - cataclysmic events
 
 - measuring the degree to which inner/outer neural networks
   - are disrupted by variations in input and correlate this to the performance of the network
@@ -224,7 +226,7 @@ Applied Category Theory:
 
 ## Technology
 
-- how the shift to VR/AR changes the tech economic landscape 
+- how the shift to VR/AR changes the tech economic landscape
   - less need for traditional user-interfacing hardware
   - more need for software/networking/wearables/micro-computer
   - wearables will set fashion trends, as the most popular & most functional will set the tone for form/function
@@ -287,10 +289,10 @@ Applied Category Theory:
   - The finite nature of the metaphysical (Graham's Number)
     - how this relates to information && information about information
     - teilhard de chardin and virtual sub-realities
-  - how the metaphysical takes increasing hold on our world 
+  - how the metaphysical takes increasing hold on our world
     - as the speed of communication approaches zero, knowledge becomes omnipresent
     - information warfare becomes practical, effective and lightning fast
-  - post-post-structuralism 
+  - post-post-structuralism
     - accepting the inevitability of the totality of structuralism
     - how to fight to delay it by increasing the 'hardness' of algorithms
   - blurring languages/conceptualizations renders structuralism obsolete
@@ -324,8 +326,8 @@ Applied Category Theory:
     - through non-violent intervention, such as that employed by Ghandi and Dr. King
     - at first, people like Ghandi and Dr. King were begged by their friends to just fall in line
       - to accept that which was unfair because it was "good enough" or "it could be worse"
-    - but by getting attention with the right means 
-      - and drawing the people around them into the fight 
+    - but by getting attention with the right means
+      - and drawing the people around them into the fight
         - who must be willing to accept pain in striving towards a better condition for everyone
       - these hero's were able to draw even more attention to injustices
     - and this is because, when people are presented with the right information from the right perspective,
@@ -335,7 +337,7 @@ Applied Category Theory:
     - but it can be tapped through the just the right push
     - and it is driven by the human condition
       - that is, the common experiences that we all face throughout our lives
-      - 
+      -
 
 - exploiting buridan's principle
   - buridan's is pretty fucked up if you think about it
@@ -348,7 +350,7 @@ Applied Category Theory:
   - buridans is great because it exemplifies problems in our own systems of ethics
     - and exemplifies how knowledge of someone's system of ethics or belief systems can be used to stagnate that person
       - wow, that's really, really, fucking depressing
-    - so, if it can be used for controlling people through their belief systems, 
+    - so, if it can be used for controlling people through their belief sy
       - then it also speaks on the value of more-uniform belief systems
       - that is, if everyone has mostly random belief systems composed of a myriad of parent belief systems
         - then they are going to be a bit harder to systematically motivate
@@ -368,15 +370,15 @@ Applied Category Theory:
       - ... phew i think i went a bit off topic there.
   - buridans variations - buridans awesome because you can easily variate it.
     - bales A & B.  ass equally distant.  ass already has bale C, you take bale C
-    - one bale of hay is real and the other is fake, but the ass doesn't know which.  
+    - one bale of hay is real and the other is fake, but the ass doesn't know which.
       - or doesn't know that one could be fake
-    - buridan's + game theory.  
+    - buridan's + game theory.
       - example where two people are walking towards each other and need to decide who's going to move out of the way
     - or two planes flying towards each other and need to coordinate an action with limited time for communication
       - an action, where if they make a symmetric decision, will result in disaster
-  - write about why it's important to make decisions ahead of time 
+  - write about why it's important to make decisions ahead of time
     - and distribute decision making protocols ahead of time
-    - this is important for distributed computer systems, 
+    - this is important for distributed computer systems,
       - but also for people who may not be able to communicate efficiently, openly, etc
         - when needed to make a decision
     - there's a connection to category theory and monads here
@@ -388,7 +390,7 @@ Applied Category Theory:
         - early on, by studying religion, we equip ourselves with knowledge about situations
           - situations we haven't personally encountered and kinds of decisions we haven't made
         - this comes at the cost of freedom of choosing our own path and our own belief system
-          - but it's just fucking useful to not have to expend the time and effort 
+          - but it's just fucking useful to not have to expend the ti
             - to decide on every detail
 
 ## Esotericism
@@ -411,7 +413,7 @@ Applied Category Theory:
 
 - Novel(?) problems in genetic modifications (altered gene expression results in propagation of epigenetic information to subsequent generations)
 - Your body establishes patterns of gene expression during youth.  These patterns become difficult to change in adulthood
-- the paradigm shift of epigenetics and it's philosophical implications: 
+- the paradigm shift of epigenetics and it's philosophical implications:
   - http://www.sciencedaily.com/releases/2015/04/150402161751.htm
   - http://www.scientificamerican.com/article/human-genome-s-spirals-loops-and-globules-come-into-4-d-view-video/
 - DNA as a probabilistic program
@@ -433,9 +435,9 @@ Applied Category Theory:
 - the situation i went through in westminister colorado, where i had to call the cops on someone i just met
 - therapy for social situations.  a small group of people write dialogue for a TV show.  encourages people to think deeper behind what makes people tick in social situations.
 - antidepressants, inhibited sexuality and dirty porn
-- sociology: "clearing the path" - metaphor for prepping social situations for someone/some event 
+- sociology: "clearing the path" - metaphor for prepping social situations for someone/some event
 - how it might feel to be terminally ill
-- how inundation of text (via mobile apps) and surveillance has magically changed how people perceive text and interact online 
+- how inundation of text (via mobile apps) and surveillance has magically changed how people perceive text and interact online
 
 ## Surveillance State
 
@@ -445,7 +447,7 @@ Applied Category Theory:
 - the drug war as introduction to totalitarianism
 - censorship on facebook
 - app to fuzz data to social accounts to prevent pattern recognition
-- #‎USB‬ ‪#‎TypeC‬ as your only option for a power supply is the most ‪#‎Orwellian‬ thing i've ever seen. I give up. Show's over folks. The American Dream is over. Privacy? 
+- #‎USB‬ ‪#‎TypeC‬ as your only option for a power supply is the most ‪#‎Orwellian‬ thing i've ever seen. I give up. Show's over folks. The American Dream is over. Privacy?
 - VR Manakin projects.  Implanted memories using virtual reality.
 - avoiding surveillance by painting a picture online with the abundance of data
   - why this is better than simply dropping out of online activity altogether
@@ -456,7 +458,7 @@ Applied Category Theory:
   - why north korea isn't communinist (it's autocratic/military/monarchy) and why N.K. should be a synonym for full of shit
   - north koreans obviously aren't allowed to study government.  otherwise, they would know exactly how oxymoronic and [synonym for word-missing-the-meaning] they are
   - why i slightly respect chinese communism (but why it's not exactly communism)
-  - what's required for communism to work and why this inherantly plants the seeds of its own destruction 
+  - what's required for communism to work and why this inherantly plants the seeds of its own destruction
     - the agencies required for surveillance gain the power and motivation for more power
     - I.E. the KGB subverting communism into oligarchy to magnify their own power.
 
@@ -467,11 +469,11 @@ Applied Category Theory:
 - the ancient geography of the mediteranean would have radically shifted political/economic centers of power
   - NOAA bathymetry map: https://maps.ngdc.noaa.gov/viewers/bathymetry/
   - gawker article on underwater sicilian megaliths http://www.sciencedirect.com/science/article/pii/S2352409X15300535
-  - look for conjunction of < 100m depth and extended river pathways.  
+  - look for conjunction of < 100m depth and extended river pathways.
   - identify altered currents and smooth waters.
   - doggerland
     - where was the water?  what parts of the english channel/north sea show the most glacial activity?
-    - compare celtic megalithic culture & sites with river locations.  
+    - compare celtic megalithic culture & sites with river locations.
       - english channel river system
     - why did cultures disperse to western england and eastern denmark?
       - probably because tsunami destroyed most of doggerland in 6,000 bc
