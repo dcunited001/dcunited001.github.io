@@ -8,7 +8,13 @@ author:
 excerpt:
 ---
 
-###
+The importance of geography in the early world.
+- astrology as a coordinate system for locating oneself
+- mythology as a means of preserving knowledge
+  - but also for fostering a purpose in a violent world with lots of suffering
+  - and for cultivating trans-generational strategies for improving the human condition
+
+### Calamity Echoes Through Human Psyche
 
 This transition was destructive and creative at the same time,
 isolating groups humans and psychologically imprinting them with
