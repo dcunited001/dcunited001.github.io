@@ -2,16 +2,11 @@
 title: "A Speculative History of 5,000 B.C. (Part One)"
 categories: blog
 tags: "linux security"
-headline: War & Peace: A Cautionary Tale
+headline: War & Peace, A Cautionary Tale
 author:
   name: "David Conner"
-excerpt:
+excerpt: "excerpt"
 ---
-
-- http://gastonsanchez.com/opinion/2014/02/16/Mathjax-with-jekyll/
-- TODO: set up mathjax
-
-$$\aleph_\infnty$$
 
 So, I'm going to write this article a little earlier than I should
 because it touches on so many ideas I find fascinating, especially
@@ -90,7 +85,7 @@ understanding of fluid dynamics.
 
 #### Ruins from Mohenjo Daro
 
-![Mohenjo Daro](/img/posts/2016-02-03-a-speculative-history-of-five-thousand-bc/mohenjo-daro.jpg)
+![Mohenjo Daro Ruins 1](/img/posts/2016-02-03-a-speculative-history-of-five-thousand-bc/mohenjo-daro.jpg)
 
 It requires forethought! You really can't build on top of existing
 settlement infrastructure for a major project like that.  You've
@@ -116,7 +111,7 @@ all their money building temples either.
 
 #### More Ruins from Mohenjo Daro
 
-![Mohenjo Daro](/img/posts/2016-02-03-a-speculative-history-of-five-thousand-bc/mohenjo-daro.jpg)
+![Mohenjo Daro Ruins 2](/img/posts/2016-02-03-a-speculative-history-of-five-thousand-bc/mohenjo-daro-2.jpg)
 
 And finally, building cities to this degree of craftsmanship,
 including other feats such as multi-story buildings, requires
@@ -188,7 +183,7 @@ flooded sometime between 7,000 BC and 5,000 BC, both gradually and
 cataclysmically, I'm sure.  Also, there are Arabian legends of
 mythical sunken cities near Bahrain.  Interesting, n'est pas?
 
-![general timeline for sea level after ice age](/img/posts/2016-02-03-a-speculative-history-of-five-thousand-bc/)
+![general timeline for sea level after ice age](/img/posts/2016-02-03-a-speculative-history-of-five-thousand-bc/post-glacial-sea-level.png)
 
 Another interesting spot is just below the coast of Sicily. Why?
 First because it's below 50m depth.  And at the time that it would be
@@ -216,7 +211,7 @@ regions would be advantageous for trade?  What geographic features
 would be advantageous?  And perhaps most importantly, how would the
 ever changing geographic features affect the geopolitical situation?
 
-![Kingdom of Zeal in Chrono Trigger](/img/posts/2016-02-03-a-speculative-history-of-five-thousand-bc/)
+![Kingdom of Zeal in Chrono Trigger](/img/posts/2016-02-03-a-speculative-history-of-five-thousand-bc/chrono-trigger-zeal.jpg)
 
 ### 12,000 BC - 8,000 BC
 
@@ -277,9 +272,12 @@ well as predisposed for retention by those groups.
 
 So, apart from some universal phenomena derived from experiences
 common to all humans, there would be little shared inspiration,
-acoustic and otherwise, upon which to create vocabulary.
+acoustic and otherwise, upon which to create vocabulary.  Also, I
+think there is an interesting connection between how we learned to use
+primitive vocal forms of communication and modern digital forms of
+expression.
 
-### The Collective Unconscious is Countably Infinite $$\aleph_\infty$$
+### \\( \aleph_\infty \\) The Collective Unconscious is Countably Infinite
 
 This notion of shared experience is crucial to understanding cultural
 development.  The composition of each of our universally shared
