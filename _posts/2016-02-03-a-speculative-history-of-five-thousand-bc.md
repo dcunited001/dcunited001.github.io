@@ -163,27 +163,48 @@ that the dynamic nature of geography would have been very apparent to
 at least some of our ancestors at the time.  More on this, in just a
 second.
 
-#### The Geography ~12,000 BC:
+#### The Geography of ~12,000 BC:
 
 ![map of ice age](/img/posts/2016-02-03-a-speculative-history-of-five-thousand-bc/sea-level-last-ice-age.gif)
 
-I picture is worth a thousand words, am I right? You can see several
+I picture is worth a thousand words, am I right? You can glean much
+better info from NOAA's ocean bathymetry maps.  You can see several
 landmasses in particular that are now missing.  There's the celebrated
 Bering Strait, of course.  And the lesser known landmass connecting
 Africa's Rift Valley with the Arabian Peninsula.  Hmmmm, that's odd.
 Korea and Japan are touching.  Ooohlala.
 
 And, if you've got a sharp eye, you'll notice that there practically
-is no Persian gulf.  Strange isn't it.  It was like this, until it
+is no Persian gulf.  Strange isn't it. It was like this, until it
 flooded sometime between 7,000 BC and 5,000 BC, both gradually and
-cataclysmically, I'm sure.  You can glean more info from ocean
-bathymetry maps.
+cataclysmically, I'm sure.  Also, there are Arabian legends of
+mythical sunken cities near Bahrain.  Interesting, n'est pas?
 
-the importance of geography in the early world
-- astrology as a coordinate system for locating oneself
-- mythology as a means of preserving knowledge
-  - but also for fostering a purpose in a violent world with lots of suffering
-  - and for cultivating trans-generational strategies for improving the human condition
+Another interesting spot is just below the coast of Sicily. Why?
+First because it's below 50m depth.  And at the time that it would be
+mostly above ground (before 5,000 BC), this area would form a strait,
+which would be perfect for controlling Mediterranean trade along the
+coast of North Africa, at exactly the time when people would first be
+capable of exploration.  Sound iffy?  There was a monolith discovered
+here in August 2015!
+
+Yet another interesting spot is just off the coast of Montpellier,
+France.  Why?  Intersection of a river and a quickly receding
+coastline.  Also, English Channel, especially in the area around the
+Netherlands.  There's Doggerland in the North Sea, which had already
+bee cut off, but was likely wiped out by a collapsing glacial shelf
+around 5,500 BC.  There may be many more areas like this in
+Southeast Asia and elsewhere as well.
+
+But it's really hit or miss. Probably not going to find monoliths
+everywhere.  You have to imagine what the world would be like at just
+before that time.  Imagine what the geopolitical situation would be.
+Where are the rivers?  Where do we know that there would definitely be
+settlements?  In general, in what average direction would those
+inhabitants be moving, in the course of migration and trade?  What
+regions would be advantageous for trade?  What geographic features
+would be advantageous?  And perhaps most importantly, how would the
+ever changing geographic features affect the geopolitical situation?
 
 ![general timeline for sea level after ice age](/img/posts/2016-02-03-a-speculative-history-of-five-thousand-bc/)
 
@@ -284,3 +305,9 @@ That's it for the first part. The next section covers 8,000 BC through
 time. This opened up the opportunity for cultural innovations, such
 as agriculture, language, trade and boats.  We got boats y'all.  They
 probably weren't too good though.
+
+The importance of geography in the early world.
+- astrology as a coordinate system for locating oneself
+- mythology as a means of preserving knowledge
+  - but also for fostering a purpose in a violent world with lots of suffering
+  - and for cultivating trans-generational strategies for improving the human condition
