@@ -2,7 +2,7 @@
 title: "A Speculative History of 5,000 B.C. (Part One)"
 categories: blog
 tags: "linux security"
-headline:
+headline: War & Peace: A Cautionary Tale
 author:
   name: "David Conner"
 excerpt:
@@ -10,7 +10,6 @@ excerpt:
 
 - http://gastonsanchez.com/opinion/2014/02/16/Mathjax-with-jekyll/
 - TODO: set up mathjax
-- TODO: some pics and stuff
 
 $$\aleph_\infnty$$
 
@@ -30,11 +29,13 @@ then dive into some details.  I won't neglect the occasional collapsed
 civilization and catastrophic disasters, nor the archetypes accumulated in
 humanity's collective unconsciousness.
 
-![deckard cain photo](/img/posts/2016-02-03-a-speculative-history-of-five-thousand-bc/stay-awhile-and-listen.jpg)
-
 #### Greetings from Deckard Cain
 
-### War and Peace
+![deckard cain photo](/img/posts/2016-02-03-a-speculative-history-of-five-thousand-bc/stay-awhile-and-listen.jpg)
+
+## War & Peace
+
+### A Cautionary Tale
 
 The two earliest major civilizations in our world were the Sumerians
 of the Mesopotamian and the Harrapans of the Indus Valley, which were
@@ -45,7 +46,8 @@ The Sumerian and Harrapan civilizations breifly coexisted, around
 3,000 BC and undoubtedly knew of each other. There was significant
 trade.  In fact, until the discovery of Harrapan cities, the only
 evidence we had were artifacts found in Sumerian cities.  At that
-point, we weren't aware of the Indus Valley Civilization (ICV.)
+point, we weren't aware of that the Indus Valley Civilization (ICV)
+existed.
 
 ### Sumeria
 
@@ -125,11 +127,10 @@ at the time.
 
 But why?  Why the contrast here?  Why did the two civilizations have
 completely different perspectives on the phenomena of knowledge, the
-development of technology and the release of humanity from the
-constraints of nature?  Whereas it appears Harrapa sought to free man
-from the suffering and chaos of nature for the benefit of everyone,
-Sumeria sought to use technology to construct monoliths and towering
-empires.
+purpose of technology and the release of humanity from the constraints
+of nature?  Whereas it appears Harrapa sought to free man from the
+suffering and chaos of nature for the benefit of everyone, Sumeria
+sought to use technology to construct monoliths and towering empires.
 
 And forget about Sumeria.  What about this Shangri-la?  To me, it's
 not so surprising that their buildings vanished, but it's confounding
@@ -151,7 +152,7 @@ written language before ~4,000 BC. Where are the engineering marvels
 of ages long past?  There's a good explanation for that, although
 it doesn't completely encompass the utter lack of evidence.
 
-So, let's take a trek back to 10,000 BC, the turning point at the end
+So, let's take a trek back to 12,000 BC, the turning point at the end
 of the last ice age.  With google maps and a 60 year generation, it's
 always been a challenge for us to imagine a dynamic map over
 millenia.  We've only had accurate maps for a few hundred years.
@@ -162,22 +163,29 @@ that the dynamic nature of geography would have been very apparent to
 at least some of our ancestors at the time.  More on this, in just a
 second.
 
-#### The World of ~10,000 BC:
+#### The Geography ~12,000 BC:
 
-![map of ice age]
+![map of ice age](/img/posts/2016-02-03-a-speculative-history-of-five-thousand-bc/sea-level-last-ice-age.gif)
 
-You can see several landmasses in particular that are now missing.
-There's the celebrated Bering Strait, of course.  And the lesser known
-landmass connecting Africa's Rift Valley with the Arabian Peninsula.
-Hmmmm, that's odd.  Korea and Japan are touching.
+I picture is worth a thousand words, am I right? You can see several
+landmasses in particular that are now missing.  There's the celebrated
+Bering Strait, of course.  And the lesser known landmass connecting
+Africa's Rift Valley with the Arabian Peninsula.  Hmmmm, that's odd.
+Korea and Japan are touching.  Ooohlala.
 
-And, if you've got a sharp eye, you'll notice
+And, if you've got a sharp eye, you'll notice that there practically
+is no Persian gulf.  Strange isn't it.  It was like this, until it
+flooded sometime between 7,000 BC and 5,000 BC, both gradually and
+cataclysmically, I'm sure.  You can glean more info from ocean
+bathymetry maps.
 
 the importance of geography in the early world
 - astrology as a coordinate system for locating oneself
 - mythology as a means of preserving knowledge
   - but also for fostering a purpose in a violent world with lots of suffering
   - and for cultivating trans-generational strategies for improving the human condition
+
+![general timeline for sea level after ice age](/img/posts/2016-02-03-a-speculative-history-of-five-thousand-bc/)
 
 ### 12,000 BC - 8,000 BC
 
