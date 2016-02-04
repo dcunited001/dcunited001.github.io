@@ -1,11 +1,14 @@
 ---
 title: "A Speculative History of 5,000 B.C. (Part One)"
 categories: blog
-tags: "linux security"
+tags: "anthropology linguistics"
 headline: War & Peace, A Cautionary Tale
 author:
   name: "David Conner"
-excerpt: "excerpt"
+excerpt: "Birth. Death. Sickness. Love. Fear. Friendship. Water. Light. Food.
+  These ideas experienced by all with near certainty: they are
+  combinated with higher level ideas and form a universal loom on which
+  the web of individual psyche is weaved."
 ---
 
 So, I'm going to write this article a little earlier than I should
@@ -217,9 +220,9 @@ ever changing geographic features affect the geopolitical situation?
 
 The world is just beginning its transition.  The conditions are not
 ripe for humanity to tap into it's potential and develop
-agriculture. The weather is too turbulent, which wouldn't stop us, had
-we previously developed this skill.  Furthermore, the changing weather
-drives both us and our main food source to migrate.
+agriculture. The weather is too turbulent, which wouldn't have stopped
+us, had we previously developed this skill.  Furthermore, the changing
+weather drives both us and our main food source to migrate.
 
 By this time, people have almost certainly noticed that seeds grow
 into plants, which should bear fruit. And that, by planting food
@@ -235,11 +238,13 @@ nice. Ug cares. Be like Ug.
 ### Proto-Language was Ephemeral and Chaotic
 
 As for language, IMO, the development of spoken language was far more
-fluid, chaotic and than historians realize.  Remember, the average age
-at this point was pretty low, with some exceptions.  The paleo diet
-really is healthy for a reason, so we really gotta give credit where
-credit is due.  The lack of sedentary lifestyles also probably gives
-these people a better life expectancy than we would first estimate.
+fluid, chaotic and ephemeral than historians realize.  Remember, the
+average age at this point was pretty low, with some exceptions.  The
+paleo diet really is healthy for a reason, so we really gotta give
+credit where credit is due. Thanks Ug.  The lack of sedentary
+lifestyles also probably gives these people a better life expectancy
+than we would first estimate.  Probably not by much though.  Those
+wisdom teeth really cap the shelf life at this point.
 
 But overall, it can be expected, with low life expectancy, high
 transiency and solely verbal means for transfer of knowledge, that
