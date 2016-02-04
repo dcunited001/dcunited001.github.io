@@ -88,6 +88,10 @@ construct a sewage system, of any capacity or quality, that doesn't
 just require technology, an understanding of physics, and a modest
 understanding of fluid dynamics.
 
+#### Ruins from Mohenjo Daro
+
+![Mohenjo Daro](/img/posts/2016-02-03-a-speculative-history-of-five-thousand-bc/mohenjo-daro.jpg)
+
 It requires forethought! You really can't build on top of existing
 settlement infrastructure for a major project like that.  You've
 really got to step back and plan where a good spot for a city would
@@ -109,6 +113,10 @@ which may also imply longer lifespans. The Harrapans basically never
 knew warfare, which may have been their downfall.  So they obviously
 weren't forcing anyone to build this stuff.  They didn't seem to spend
 all their money building temples either.
+
+#### More Ruins from Mohenjo Daro
+
+![Mohenjo Daro](/img/posts/2016-02-03-a-speculative-history-of-five-thousand-bc/mohenjo-daro.jpg)
 
 And finally, building cities to this degree of craftsmanship,
 including other feats such as multi-story buildings, requires
@@ -180,6 +188,8 @@ flooded sometime between 7,000 BC and 5,000 BC, both gradually and
 cataclysmically, I'm sure.  Also, there are Arabian legends of
 mythical sunken cities near Bahrain.  Interesting, n'est pas?
 
+![general timeline for sea level after ice age](/img/posts/2016-02-03-a-speculative-history-of-five-thousand-bc/)
+
 Another interesting spot is just below the coast of Sicily. Why?
 First because it's below 50m depth.  And at the time that it would be
 mostly above ground (before 5,000 BC), this area would form a strait,
@@ -206,7 +216,7 @@ regions would be advantageous for trade?  What geographic features
 would be advantageous?  And perhaps most importantly, how would the
 ever changing geographic features affect the geopolitical situation?
 
-![general timeline for sea level after ice age](/img/posts/2016-02-03-a-speculative-history-of-five-thousand-bc/)
+![Kingdom of Zeal in Chrono Trigger](/img/posts/2016-02-03-a-speculative-history-of-five-thousand-bc/)
 
 ### 12,000 BC - 8,000 BC
 
@@ -252,7 +262,7 @@ As for vocabulary, we would likely draw inspiration from mostly local
 words and root cultural elements. With constant migration and terrible
 memory from all the fantastic weed we would undoubtedly be hotboxing
 in igloos, this vocabulary would be transient. Because the
-communcation systems were so diverse, it would be difficult to
+communication systems were so diverse, it would be difficult to
 culturally exchange with others in a meaningful way, further dampening
 cultural development.
 
@@ -305,9 +315,3 @@ That's it for the first part. The next section covers 8,000 BC through
 time. This opened up the opportunity for cultural innovations, such
 as agriculture, language, trade and boats.  We got boats y'all.  They
 probably weren't too good though.
-
-The importance of geography in the early world.
-- astrology as a coordinate system for locating oneself
-- mythology as a means of preserving knowledge
-  - but also for fostering a purpose in a violent world with lots of suffering
-  - and for cultivating trans-generational strategies for improving the human condition
