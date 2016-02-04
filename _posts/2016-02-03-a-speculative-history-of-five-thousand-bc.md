@@ -272,8 +272,8 @@ If what we come to know and what is relevant depends on where we are,
 and if relevance & memory are determined by frequency of usage, then
 the vocabulary before formal communication systems are established
 would have high turnover.  Except for a few terms, which would be
-predisposed for both exchange with other small cultural groups, as
-well as predisposed for retention by those groups.
+predisposed for both exchange with other small cultural groups and
+retention by those groups.
 
 So, apart from some universal phenomena derived from experiences
 common to all humans, there would be little shared inspiration,
