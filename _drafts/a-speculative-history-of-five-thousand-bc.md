@@ -8,56 +8,228 @@ author:
 excerpt:
 ---
 
+- part two starts with 8,000 BC - 5,000 BC, then covers up to 4,000 BC
+- part three covers 4,000 BC through 2,000 BC and then sums up the rest
+
 The importance of geography in the early world.
+- surveying (especially elevation, during a chaotic time)
 - astrology as a coordinate system for locating oneself
 - mythology as a means of preserving knowledge
   - but also for fostering a purpose in a violent world with lots of suffering
   - and for cultivating trans-generational strategies for improving the human condition
 
+Lets be real, up to this point, humanity has been sticking to the
+rivers and lakes that it's used to.  But that's all about to change.
+Things are starting to heat up.  Literally.
+
+As I stated in the last article, this
+writing represents my personal thoughts on human history from the
+Neolithic through the Bronze Age and it shouldn't be take as fact.
+It's titled "A Speculative History" for a reason.  I hope to provide a
+good story and possibly spark your interest.  If I do, follow up with
+some research yourself.
+
 ### Calamity Echoes Through Human Psyche
 
-This transition was destructive and creative at the same time,
-isolating groups humans and psychologically imprinting them with
-disaster, over and over again.  This disaster sparked a need to understand
+The Neolithic was fraught with changing weather patterns and
+disaster. This continued through the late Neolithic, up through the
+early Copper Age.  After 6,000 BC, the ice stopped melting and the
+weather became a lot more stable.  When ice melts and land bridges are
+broken, ocean currents and undersea brine rivers are disrupting,
+forming new patterns which drive weather.  The changing weather causes
+some areas to lose their appeal for settlement, forcing people to find
+greener pastures.  Such was the case for the Sahara, which was mostly
+green and arable through a long transition around 5,000 BC, finally
+becoming the desert we know today.
 
-It provided us with the impetus to culturally innovate to
+Through the neolithic period, most of humanity was nomadic.  Lack of
+settlement means lack of sustained agriculture, though. Because our
+food source is restricted to what we can find to eat, this limits our
+population, as do many other factors, such as regularly scheduled
+catastrophic flooding.  Lack of settlement means trade is sporadic at
+best and both of these factors contribute to stifled cultural
+development.  Trade might be the single most important factor
+incentivizing development of abstract written communication, so that's
+right out too.  When you trade, you have to count things, write them
+down and persist that information.
+
+The humans that did settle would do so near the ocean, along rivers,
+deltas and lakes.  They would find the easy access to water alluring
+and so would animals, providing food.  However, these are the exact
+areas subject to widespread destruction in flooding, which was often
+seasonal, but sometimes devastating.  And these are just the exact
+people who would be developing the basis of sophisticated
+culture. During the period of 12,000 BC through 6,000 BC, there were
+likely dozens of megafloods, each wiping out between 5% and 50% of the
+population in that region.  If you experienced an event like that and
+survived, you'd want to know why and you'd want to find out how to
+prevent it from happening again.  Yet, these events were relatively
+rare and only preserved through myth.  It was difficult to understand
+the mechanism causing flooding and if some group did, then it was
+difficult to propagate that knowledge or discern a method to predict
+when one would happen.
+
+However, that's not to say that we didn't understand what was going on
+around us.  I believe that ancient humanity was well aware of rising
+sea levels, since this is something they'd definitely be able to mark
+and measure over the course of three or so generations.  At times, the
+sea was rising at a rate of 10m every 300-500 years.  That's really
+fast, for some areas.  People would notice --
+
+> Oh shit, guys.  I think we're about to be on an island.  I don't
+> think there's any way off of this thing.  Are you staying?  I'm
+> peacin' out y'all.  Nevermind, too late.  There's not much food left
+> here.  You think we can make somethin' that floats real good? I'm
+> starving.
+
+Boom. Seafare.
+
+I really think that this ever-changing world created the conditions
+that required humanity to innovate or perish.  By developing crude
+seafare.
+
+So you see, this transition was destructive and creative at the same
+time, isolating groups of humans and psychologically imprinting us
+with disaster, over and over again.  These disasters sparked a need to
+understand the world around us.  To understand, we developed means of
+surveying the earth.  We developed an intense desire to understand
+geography, everyone did.  It was already crucial for sustenance and
+intriguing for self-discovery, but now it was important for survival.
+
+We developed archeoastronomy, utilizing monoliths and smaller markers
+to measure the motion of the stars, perhaps the only thing that ever
+remained unquestionably constant.  As people had been migrating
+throughout the ice age, the stars should have been well known for
+navigation.  This would only become more systematized. Through the
+Copper Age, it became apparent that understanding these phenomena
+granted power and influence over others.  At some point, we reached a
+critical mass of understanding, when cultural artifacts became more
+valuable and useful for survival than anything tangible could be, in
+itself.
+
+This dynamic, deadly world of the Late Neolithic and Copper Age
+provided us with the impetus for humanity to culturally innovate.  We
+began to share information with other groups and more importantly, we
+began to develop methodical strategies to share information more
+efficiently and effectively.  And then, there was metallurgy, perhaps
+the most important development until writing. In addition to being a
+useful new technology, metallurgy paved way to creating resources
+worth accumulating.
+
+Excess of goods helped foster trade.  Trade incentivized cultural
+exchange, the acquisition of new technologies, and conflict.  The
+accelerating cultural exchange lead us to expand our lexicon: the set
+of words and ideas we were aware of and could combine to form new
+ideas. For the intelligent, commerce also provided motivation to
+discover geography to locate the fastest and most trodden routes.
+Trade quickly drove us to abstract the notion of value into money to
+further accelerate commerce.  This was tightly related to metallurgy.
+What else could be so valuable to anyone except Gold or Copper:
+materials which should be equally useful to anyone with a hammer.
+
+> It's shiny? I can bang it with a rock, loudly, till I get what ever
+> I need? Gotta have it.  How long do I have to bang it?  Is it Gold?
+> Never seent it.  Is it copper?  Got tons of it.  Good stuff.
+> Silver? Never heard of it.  Lead? Raw? How hot do I have to burn it?
+
+Trade and especially money drove us to create written language, with
+which we could propagate ideas without speech and preserve traditions
+or will, even beyond death.  Systematized forms of writing beyond art
+were not developed until the end of Copper Age or the beginning of the
+Bronze Age.
+
+### Lake Agassiz
+
+- spread across canada, much larger than all five great lakes combined
+  - fed by melting lake water, but unstable
+  - excess freshwater accumulation caused glacial outburst floods
+    - some of which refilled the great lakes
+    - these would typically cool the northern hemisphere,
+      - but increase the sea level
+  - around 12,000 BC, it would drain northward when the glacial lake burst
+  - started to drain southward when burst.
+- around 6,200 BC, it burst for the last time
+  - and sea levels may have risen dramatically in response
+    - so it seems the sea level rose in bursts
+
+
+
+### Doggerland
+
+- knocked out by tsunami (Storegga Slide around 6200 BC)
+  - this is probably not the only time a seaside glacier collapsed, triggering tsunami
+  - however, the rest of the developing world was geographically shielded from tsunami's
+    - generated by glacial collapse
+    - the Mediterranean, definitely not at risk
+    - nor would southern india
+- flooding of the english channel
+  - how would the Storegga Slide have affected this?
+- original settlements in england/ireland?
+  -
+
+
+### Black Sea Outburst Flood
+
+using google maps, i can see the effect of erosion from an ancient danube riverbed
+- there doesn't seem to be much undersea erosion around the rest of the black sea
+  -except for the area leading from the Bosphorus strait
+
+### The Persian Gulf
+
+include pics from Kurt Lambeck paper (1995)
+- "Shoreline reconstructions for the Persian Gulf since the last glacial maximum"
+
+flooding of the Persian gulf during this time
+- probably happened once as an unexpected catastrophe
+  - then again, periodically every few hundred years
+  - these repeated experiences would have been catastrophic to early civilization
+  - the pain of losing everything would have been seared into our psyche
+    - IMO, this pain served as an impetus to build monolithic works
+      - if the work was big enough it would not be lost to catastrophe
+      - or disassembled by invaders
+    - by building these works, ancient leaders hoped that their culture
+      - would never again be completely lost
+      - thus the origin behind the search for immortality by Egyptians
+- the response to flooding of the Persian gulf
+  - during this time, the Tigris & Euphrates would have flowed into Persian Gulf area
+    - possibly merging before/around reaching the area now known as Kuwait
+    - thus, the fertile crescent before 5,000 BC would have been nearly twice as large
+    - and the closest area to the Persian Gulf would have been the most attractive place to live, there
+      - this is because it becomes the most ideal port connecting the entire Fertile Cresent river basin
+  - people would have been split into at least three groups following the catastrophe(s)
+    - people would follow the region along the coast of Iran up towards the Indus Valley
+      - these people would eventually found Harrapa, the Indus Valley Civilization (ICV)
+    - another group of people would retreat, again and again, further up the Persian Gulf
+      - as water repeatedly destroyed coastal civilizations.
+      - the changing coastline would become noticeable and would visibly move
+        - these changes would occur over the course of two to three generations
+        - and measuring these changes would require marking the coastline
+          - likely using large stone objects
+          - these are also useful as constants for marking/measuring objects in the skyline
+    - this group of people would follow the changing Tigris/Euphrates delta
+  - a third group would begin occupying higher and higher ground
+    - along the coastline from Kuwait to Oman to Yemen
+
+sumerian creation myth (1600 BC)
+
+development of mythology
+- gilgamesh
+
 
 ### 8,000 BC - 5,000 BC
 
-Lets be real, up to this point, humanity has been sticking to the
-rivers and lakes that it's used to.  But that's all about to change.
-Things are starting to heat up.
+(from the end of the neolithic to the beginning of the copper age)
 
-Lack of settlement means lack of sustained agriculture,
-though. Because our food source is restricted to what we can find to
-eat, this limits our population, as do many other factors.  Lack of
-settlement means trade is sporadic at best and both of these factors
-contribute to lack of cultural development.  Trade might be the single
-most important factor incentivizing development of abstract written
-communication, so that's right out too.
 
-archetypes:
-- sunken continent, lost civilization
-- deluge/flood/disaster & vengeful god
+sahara climate change
+- from 8000 BC to 5000 BC
 
-### 5,000 BC
+4 areas with flooding disaster
+- doggerland
+- black sea
+- persian gulf
+- ??
 
-"the plan"
-- collective unconscious strikes again
-
-### 4,000 BC
-
-development of the plan
-- origins of metallurgy and whatnot
-
-### 3,000 BC
-
-back to harappa
-- proto-anthropology
-
-### 2,000 BC
-
-paradise lost
 
 break pre-history up into several periods:
 
@@ -67,8 +239,162 @@ break pre-history up into several periods:
   - ending with settlements in mesopotamia
 - 5,000 BC
 
+
+archetypes:
+- sunken continent, lost civilization
+- deluge/flood/disaster & vengeful god
+
+human conflict:
+- doesn't seem common until the bronze age
+  - because killing someone is inefficient and grotesque without metallic weapons
+    - have you ever thought about how painful it would be to kill someone with a rock?
+      - that would suck
+    - i guess you could use a spear or something, but still.  inefficient
+      - you really gotta hit the guy multiple times.
+        - what if he breaks your wooden spear.  just snaps it in half?
+      - or what if his spear is bigger?
+    - really, at this point in time, killing people is hard
+      - and like most other things, people just aren't very good at it yet
+  - without money and controlled trade and accumulated resources,
+    - there is no significant financial benefit to doing so
+      - what are you going to do?  murder Abel and take his sticks?
+    - as technology increases, so do accumulated resources
+      - for neolithic through bronze age civs,
+        - metallic resources can be reprocessed and repurposed
+    - without accumulated resources, trade and money, there are no taxes
+    - without taxes, there is no dedicated government of any respectable size
+    - with no taxes and no government,
+      - it's really hard to systematically coordinate a population to start war
+    - a war of any scale means a significant portion of men leaving the fields
+      - this is a significant problem for societies with low population
+  - out of control populations are not as much of a problem
+    - neither is resource over-consumption
+  - and don't get me wrong, i'm sure there was some conflict,
+    - but that it was localized conflict
+      - and for the most part, it wasn't organized beyond perhaps a few dozen people
+
+religion
+- without widespread religion there are no ideological causes for warfare
+    - and again, without the cultural infrastructure to spread religion
+      - and without a class of people who can afford to hang out and tend to religious affairs
+    - there is no way for organized religion to spread,
+      - nor is there really any cultural apparatus to enforce religious beliefs
+    - so, there was no widespread religion,
+      - and similar to the fluid nature of language discuss in part one
+      - religions were 'ephemeral.' that is, they came and went.  they were moreso tribal.
+      - it was only when one belief system conferred significant evolutionary advantage that it took off
+        - and i mean informational evolutionary advantage, not genetic.
+        - this means that the belief system had significant growth vectors
+          - AND more importantly, it offered the adherents so advantage
+        - that is, there was some significant demonstrative or believable value in adhering to this system
+- but religion quickly enters the picture,
+  - as people witness more and more phenomena they can't explain, they seek explanation
+  - and the people who can explain, especially those who can harness said inexplicable phenomena
+    - begin to enjoy their newfound power
+    - it is at this point that some people begin to realize just how stupid other people are
+    - this shaman or priest class begins to understand that it doesn't just matter how they explain things
+      - or whether the explanations are even true at all
+      - it turns out, for the most part,
+        - the only thing that matters is whether people believe their explanations
+    - at this point, the priest class begins to separate itself from the rest of society
+
+- the knowledge of good and evil
+  - this is not simply the knowledge of the existance of good and the existence of evil
+    - neither is it really the loss of our innocence, per se.
+  - the knowledge of good and evil is the knowledge of *how to use* **good** and **how to use** *evil*
+    - in order to accomplish one's goals.
+    - especially in the sense that one becomes aware of how others will perceive an action
+  - the more abstract our knowledge of the world grew,
+    - the more that abstract knowledge could be used to confer one an advantage over others for good or ill
+  - fairly quickly on, those with significant knowledge began to understand
+    - just how powerful both knowledge and information were.
+    - so they learned to horde it.
+      - that anything leaking from the priest or ruling class was incredibly dangerous to themselves
+    - these same people feared technological innovations,
+      - because they understood how to control the status quo
+
+black sea settlements? research
+- apparently a glacial deluge here?  it's a hypothesis, but i think a reasonable one
+
+Copper Age
+- anatolia
+- cultures began to be capable of processing copper
+  - bronze requires copper & tin
+  - tin was scarce originally? why?
+- vinca culture (early: 5700 BC - 4800 BC, late: 4800 BC - 4200 BC)
+  - tartaria tablets (containing vinca symbols),
+- timna valley, in southern isreal, shows evidence of copper mining dating back to between 7,000 BC to 5,000 BC
+- Bhirrana, the oldest ICV site (dating back to 7500-6200 BC)
+
+
+
+Bronze Age
+- Troy I founded in 3,000 BC
+
+- sunken monolith discovered at ~50m near sicily in August 2015
+  - how much work is being done to explore sites like this?
+  - is it possible to do something like LIDAR for underwater surveys
+    - that are under less than 100m seawater?
+- dilmun, a lost civilization located near Bahrain and mentioned in Gilgamesh
+- we can see the cultural legacy of sumerian cuneiform in other mesotopian languages
+  - but why is it that the harrapan language just disappeared without any real cultural legacy,
+    - especially with their language?
+
+
+recent genetic work have shown that
+- a "mixture" of Indo-Aryans and Dravidians began circa 2200 B.C. and ended around 100 A.D
+- recent ars technica article?
+
+
+### 5,000 BC
+
+by this time, civilization was well established in parts of the indus valley
+- it likely wasn't anything like the technologically advanced ICV around 3000 BC
+
+"the plan"
+- collective unconscious strikes again
+- development of systematized means of accelerating the development of culture
+  - by identifying the conditions that allow society to study and develop knowledge
+    - stability, tradition, virtues, ...
+    - a healthy economy
+  - then identifying a geographically shielded location close to the center of the world
+- establishment of systems of self-preservation for this culture
+  - no one leaves, unless authorizes
+
+## Part 3
+
+
 preface the article by defining how this is 'speculative history'
-- state that it couldn't be true for the same reason that batman couldn't hang out with the xmen
+- state that it couldn't be true
+  - for the same reason that batman couldn't hang out with the xmen
+  - save for part 3
+
+
+
+### 4,000 BC
+
+development of the plan
+
+
+origins of metallurgy and whatnot
+- metallurgy furthers the sense of the self
+- the importance of metallurgy in developing abstract ideas and art
+  - joke about "mobile" art app
+- how hot can we make fire?
+  - melting various metals as a measure of heat and to quantify energy
+  - knowledge of energy contained within sources
+    - availability/scarcity of materials with significant levels of energy
+
+
+### 3,000 BC
+
+back to harappa
+- proto-anthropology
+  -
+
+### 2,000 BC
+
+paradise lost
 
 previous disasters:
 - cro magnon? neanderthal?
