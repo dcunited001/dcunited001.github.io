@@ -102,13 +102,17 @@ a wandering mage happens to meet a traveling girl
     - or, he can forget that it all happened (which wouldn't ever happen)
   - the priest is explicit.  if for some reason he doesn't die, kill him.
     - the priest also instructs the assassin to drink the other vial
-      - which will make him forget his mission
+      - which will make him forget his mission (a la hashashins)
 
 - mage becomes immortal
   - elaborate on this event
 
-- the assassin approaches the mage in a new city, as a friend.
-  - the mage has tried to forget, desperately
+- the assassin approaches the mage in a new city, first posing as an old friend.
+  - the mage doesn't recognize him and knows to be wary
+    - however, is intrigued when intuition causes his hair to stand on end
+  - it's this curiosity that's nearly killed him so many times before
+    - yet has taught him so much at the same time
+- the mage has tried to forget, desperately
   - so when the assassin approaches him, he is grateful for the opportunity to forget
 - the assassin becomes worried: this was unexpected.
   - how could someone turn down immortality? and so quickly?
@@ -125,7 +129,7 @@ a wandering mage happens to meet a traveling girl
   - the assassin freaks out and believes he has drunk the poison
     - believing the other to be an antidote, he reaches for it before our hero finishes it
     - he downs it, sealing his fate
-- the mage is arrested for killing the assassin
+- the mage is immediately arrested for killing the assassin
   - and worse still, he has lost all memory of the princess (?)
   - TODO: how does he get out of jail?
     - gets death penalty?  escapes at execution?
@@ -142,10 +146,12 @@ a wandering mage happens to meet a traveling girl
 - the king hears about it and invites the mage learn more about a new elixir of immortality
   - the king has also heard of this mage's wisdom and even a bit about his white magic from the princess
   - she told him that the mage may have a plan to save the kingdom and solve [some of] their problems
+  - (?) king sends emissary, without knowing about mage in jail.  priest kills emissaries.
 
 - the gods find out about his immortality and are completely pissed at hermes
   - they also suspect sophia (athena) had something to do with it,
     - (and maybe she did, unbeknownst to them all)
+      - after all, the hand of wisdom remains unseen
     - did she witness hermes take the water to the mage?
       - and let him get away with it, wise enough to understand the consequences?
   - TODO: what are the gods going to do?
