@@ -130,10 +130,13 @@ a wandering mage happen to meet a traveling girl
 
 - the king hears about it and invites the mage learn more about a new elixir of immortality
   - the king has also heard of this mage's wisdom and even a bit about his white magic from the princess
+  - she told him that the mage may have a plan to save the kingdom and solve [some of] their problems
 
 - the gods find out about his immortality and are completely pissed at hermes
   - they also suspect sophia (athena) had something to do with it,
     - (and maybe she did, unbeknownst to them all)
+    - did she witness hermes take the water to the mage?
+      - and let him get away with it, wise enough to understand the consequences?
   - TODO: what are the gods going to do?
 
 - meanwhile, the people think that the priest actually did it
@@ -152,4 +155,4 @@ a wandering mage happen to meet a traveling girl
   - he works with some other magi in the area and concocts a scheme to put the mage into a coma
   - ...
   - somehow they pull it off, while our hero is on his way to warn the princess
-  - and somehow she has to become the hero
+  - and somehow she has to become the heroine
