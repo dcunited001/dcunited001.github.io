@@ -121,6 +121,8 @@ a wandering mage happen to meet a traveling girl
   - the assassin freaks out and believes he has drunk the poison
     - believing the other to be an antidote, he reaches for it before our hero finishes it
     - he downs it, sealing his fate
+- the mage is arrested for killing the assassin
+  - and worse still, he has lost all memory of the princess (?)
 
 - the priest hears of this and learns about the mages true immortality
   - the priest knows all too well that immortality is a blessing and a curse,
@@ -151,8 +153,24 @@ a wandering mage happen to meet a traveling girl
   - she feels her obligation is paid off to the mage (even though he really didn't do anything)
   - but her intuition tells her something is not right
 
+- the princess sends a message to the mage, but is unsure if he received it
+  - as the messenger was tortured and killed after making contact and delivering the message
+  - the message was unclear and the mage is unsure what to do,
+  - he has no idea who sent it, but only knows where it came from and that they need help
+
 - the priest decides that, while he cannot kill the mage, there are other things he can do.
-  - he works with some other magi in the area and concocts a scheme to put the mage into a coma
+
+- the mage starts a journey to her kingdom, but along the way,
+  - the priest has set a trap in a forest of illusion
+  - the mage is alone but ends up following himself around in the forest
+    - (losing himself, as well as his magick)
+    - he gets completely caught up in a maze of illusions involving visions of himself
+      - it's a "lost forest" zelda throwback
+  - finally makes it out of that
+
+- then the priest works with some other magi in the area and concocts a scheme to put the mage into a coma
   - ...
   - somehow they pull it off, while our hero is on his way to warn the princess
+    - he falls into a deep coma, in a cave high in a mountain range
   - and somehow she has to become the heroine
+    - because otherwise it'd just be a helpless princess story lulz
