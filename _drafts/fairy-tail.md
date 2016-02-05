@@ -2,13 +2,13 @@ a modern fairy tale
 
 in a land whose cities have long since been swept away by the sands of time...
 
-a wandering mage happen to meet a traveling girl
-- as she was a faraway land, and the mage loved hearing about faraway things
+a wandering mage happens to meet a traveling girl
+- as she was from a faraway land, and the mage loved hearing about faraway things
   - she immediately attracted his attention.  in fact, it was her voice.
     - that's what he heard first.  if he'd seen her lavish clothes or all her attendents
     - he likely never would have spoken to her, as he didn't value those things
       - and didn't understand those who did
-  - but he turned around and saw the most beatiful woman he'd ever seen
+  - but he turned around and saw the most beautiful woman he'd ever seen
     - it was love at first sight for him
     - maybe it was the way she looked at him,
       - maybe it was the way he looked at her
@@ -49,8 +49,9 @@ a wandering mage happen to meet a traveling girl
   - and he starts to feel really bad and frets, trying to ask for something of equal value
     - equal value is important here because you don't want ask to exchange such a gift
       - with something of lesser value.  they may think you didn't value the original gift.
-  - he had been talking about immortality earlier,
+  - they had been talking about immortality earlier,
     - an idea he thought preposterous, with what he knew of magic
+    - so he asked for it, again, thinking she could never fulfill it
 - the princess says yes.  of course.  she believes it's totally possible.
   - unbeknownst to most, a high priest in her kingdom has been promising the king immortality
 - the mage freaks out a bit.  really, she wasn't supposed to say yes
@@ -68,8 +69,9 @@ a wandering mage happen to meet a traveling girl
   - hermes figured so much.  but hatches a plan anyways.
     - without violating too much of the whole "gods shall not interfere" thing
     - he's not too sure he can get them together, because all gods know:
-      - mettling in mortal affairs is stupid, risky.  but mettling with love is playing with fire.
-  - he knows that he can fetch water from the river of the dead (styx)
+      - meddling in mortal affairs is stupid, risky, against the rules.
+      - but meddling with love is playing with fire.
+  - but he figures that he can fetch water from the river of the dead (styx)
     - and trick the mage into drinking it, bestowing eternal life
     - that way, the princess won't have to know that she couldn't grant the mage's clever wish.
 
@@ -79,7 +81,7 @@ a wandering mage happen to meet a traveling girl
 
 - the priest is hoping for political gains once the marriage goes through,
   - as he has secret financial ties with certain elements in her fiance's country
-    - this is of course unknown to the fiance
+    - this is of course unknown to the fiance and they are honestly in love
   - this is also why the priest has been seeking to throw his own country into chaos
     - because he'll profit in power and finance later
 
@@ -109,10 +111,12 @@ a wandering mage happen to meet a traveling girl
   - the mage has tried to forget, desperately
   - so when the assassin approaches him, he is grateful for the opportunity to forget
 - the assassin becomes worried: this was unexpected.
-  - how could someone turn down immortality?
+  - how could someone turn down immortality? and so quickly?
+    - hasn't he heard of the power of this priest? even the priest was sure it would work
   - the assassin performs a "miracle" with the supposed elixir of immortality
     - as instructed by the priest.  he's worried the mage doesn't believe him
   - the mage still doesn't value eternal life, as he believes something greater lies beyond this one
+    - how can he begin that journey if he lives forever?
   - and he still mostly wants to forget, secretly hoping that if he does,
     - then maybe he'll be able to fall in love again
 - the assassin hands him the poison anyways, unaware that the mage is already immortal
@@ -123,11 +127,16 @@ a wandering mage happen to meet a traveling girl
     - he downs it, sealing his fate
 - the mage is arrested for killing the assassin
   - and worse still, he has lost all memory of the princess (?)
+  - TODO: how does he get out of jail?
+    - gets death penalty?  escapes at execution?
+  - TODO: how/when does he regain memory?
+    - when seeing someone who was with the princess, but not her
+    - after the forest/illusions section
 
 - the priest hears of this and learns about the mages true immortality
   - the priest knows all too well that immortality is a blessing and a curse,
     - so he instead plans to assail the mage's reputation with false charges
-  - the priest is also threatened by the immortality.  as someone who can't die is a problem
+  - the priest is also threatened by the immortality, as someone who can't die is a problem
     - especially if they know the priest has been lying to the king
 
 - the king hears about it and invites the mage learn more about a new elixir of immortality
@@ -150,7 +159,8 @@ a wandering mage happen to meet a traveling girl
 
 - the princess thinks .... hmmm what does the princess think?
   - does she believe the priest did it?
-  - she feels her obligation is paid off to the mage (even though he really didn't do anything)
+    - yes/no/maybe .. i think she's starting to lost trust after certain events
+  - she feels her obligation is paid off to the mage? (even though he really didn't do anything)
   - but her intuition tells her something is not right
 
 - the princess sends a message to the mage, but is unsure if he received it
@@ -161,16 +171,42 @@ a wandering mage happen to meet a traveling girl
 - the priest decides that, while he cannot kill the mage, there are other things he can do.
 
 - the mage starts a journey to her kingdom, but along the way,
-  - the priest has set a trap in a forest of illusion
+  - the priest has set a trap to draw the mage into a forest of illusion
   - the mage is alone but ends up following himself around in the forest
     - (losing himself, as well as his magick)
     - he gets completely caught up in a maze of illusions involving visions of himself
       - it's a "lost forest" zelda throwback
+    - the visions of himself delude him and cause him to believe his current circumstances are all his fault
+      - eventually he can no longer distinguish the reflections of himself from his actual body
+      - and starts having strange out-of-body experiences
+    - the visions take him down some very dark places
   - finally makes it out of that
+    - TODO: .. how exactly?
+    - however, he's missing a huge part of himself through the ordeal and has lost most of his magick
+      - TODO: what can symbolize this loss?  a jewel? .. maybe
+      - worse still, he doesn't even know what he's looking for or what awaits him
 
 - then the priest works with some other magi in the area and concocts a scheme to put the mage into a coma
   - ...
   - somehow they pull it off, while our hero is on his way to warn the princess
     - he falls into a deep coma, in a cave high in a mountain range
   - and somehow she has to become the heroine
-    - because otherwise it'd just be a helpless princess story lulz
+- because otherwise it'd just be a helpless princess story lulz
+  - TODO: or the magi are good, they find him and help him "find himself" within the coma
+
+- mage in a coma, meanwhile, gods are satisfied because immortal guy is effectively KO'd
+  - and thus, their meddling has effectively stopped producing downstream ripples in the .. karma fabric
+  - except hermes and sophia.
+    - sophia is worried because the positive vibes this guy was putting off
+      - have been replaced by an equal but dark negative force
+      - not stemming from him, but stemming from the imbalance of his absence
+        - turns out this guy was pretty important, albeit indirectly,
+        - in maintaining an universal balance in the world
+      - meanwhile, balance of power has tipped far in the evil priest's favor
+    - hermes feels shitty, thinking this guy could have simply died, if it weren't for him
+      - he knows the curse of immortality all too well
+- sophia, acting against her wise non-interventional nature,
+  - decides to secretly warn the princess in a dream
+  - TODO: dream content
+
+- princess's reaction to dream?
