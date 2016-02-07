@@ -1,13 +1,108 @@
-gravity.md
+---
+title: "Questions On Gravity"
+categories: blog
+tags: "science physics astronomy"
+author:
+  name: "David Conner"
+---
+
+Ars Technica recently posted an article on
+[an exciting new development in dark matter](http://arstechnica.com/science/2016/02/spotting-dark-matter-by-the-way-it-moves/)
+and this piqued my interest on the subject. Another article I just saw
+on
+[Gizmodo teases a Nobel-worthy revelation on gravity waves](http://gizmodo.com/rumor-mill-heats-up-again-for-discovery-of-gravitationa-1757513741). I've
+had a lot of questions about dark matter and gravity that my current
+understanding of physics can't answer. Again, yet another subject
+where my understanding of math limits me.
+
+### TL;DR; Gravity is Wierd
+
+As far as I can see, understanding gravity necessitates a shift in how
+we model space.  I've used a few thought experiments to help simplify
+the important pieces.
+
+Here's some of the most profound questions:
+
+#### Is there a distinction between gravity and the space it curves?
+
+Or is gravity literally the ripple in space? That would imply space is
+simpler than it seems. That's a bummer.
+
+#### Does gravity cause the path of gravitation itself to curve?
+
+This makes sense. If gravitons exist, they should follow similar rules
+as photons, right? It'd be weird if most bosons, like photons,
+followed the curvature of spacetime, but others didn't at all.  It'd
+make sense if each boson interacted in it's own way with the curved
+nature of spacetime, yet still adhered to the same features of local
+space.
+
+And it'd just be weird to have a set of bosons, that interacts via a
+completely different kind of space.  Your model would have to account
+for multiple models of space: one relativistic and another, who knows.
+It's a lot simpler if all the bosons are in the same space.
+
+In other words, what I'm trying to ask is:
+
+#### If gravitons follow curved spacetime, how does this affect other bosons?
+
+And this is the question I got stuck on tonight: If a gravity wave is
+moving in the exact same direction as several parallel beams of
+photons, how are they affected?
+
+#### If gravitons alter the spacetime that other bosons operate on ...
+
+Then how do you even resolve that dependency graph? One would need
+to take precedence over another ... or something. In other words,
+if none of the bosons alter spacetime, then one can assume that
+spacetime is fairly consistent, except for the exception of matter
+that moves, but that's really not that hard to resolve.
+
+All the particles operate on the same space.  If the space changes,
+all particles, for the most part, react accordingly and at the same
+time.  There are some exceptions maybe with the propagation of
+gravity.  Here you can't really have quantum gravity.
+
+However, if gravitons alter the spacetime that these other bosons are
+using, how does one deal with that dependency graph that arises?  If
+you view bosons as units in streams of information that modify states
+of other particles, then what stream of information do gravitons
+make up?  Do they comprise a stream to the surrounding space? How so?
+Would that mean space itself is composed of particles too?  Would it
+stream information all those spatial particles simultaneously?  That
+gets complicated.
+
+TODO: reword
+
+
+
+
+#### How do scalar bosons, like the Higgs, differ from Gauge bosons?
+
+I don't really know enough to elaborate on this.
+
+
+Similar to how the path of light curves?  Actually this makes sense.
+- Restated: If gravitons exist, would they
+
+
+
+
+### Nobel Worthy Gravity Waves
+
+The Gizmodo article mentions a possible Nobel-worthy discovery of
+gravity waves.  Apparently a binary blackhole merger has been
+discovered, which is one of the few events that would produce gravity
+waves detectable by current means.
+
+
 
 mention:
 
-- discover about variations in dopplershift that correlate from our motion in relation to massive objects
-  - arstechnica article
 - thought experiment: 2 massive objects moving away from each other
   - really need to create some pics for this kind of stuff
 
-ideas: 
+ideas:
 
 - viewing astrophysical observations in the universe as streams of information
   - that is imagine not just the star as a "star," instead imagine it as a stream of photons
@@ -19,9 +114,8 @@ ideas:
 
 assuming the path of a gamma ray burst was not altered by the gravity wave, which it almost certainly would, then both would not reach us with the same time interval they started with.
 
-- is there a distinction between gravity and the space it curves? or is gravity literally a ripple in space? 
-- would high levels of gravity cause the path of gravitation itself to curve, similar to how the path of light curves? 
-- if gravity travels at the speed of light and force is mass, and if all matter exhibits gravitational force on all other matter, then what happens to the gravitational energy between 2 massive objects moving away from each other, whose gravitational energy takes significant time to reach the other object? 
+- would high levels of gravity cause the path of gravitation itself to curve, similar to how the path of light curves?
+- if gravity travels at the speed of light and force is mass, and if all matter exhibits gravitational force on all other matter, then what happens to the gravitational energy between 2 massive objects moving away from each other, whose gravitational energy takes significant time to reach the other object?
 - would space curve for the objects in between, even though the source of gravitational energy may be unclear?
 
 - article on dark matter, gravity and relativity
@@ -34,7 +128,7 @@ assuming the path of a gamma ray burst was not altered by the gravity wave, whic
         - the gravity wave [supposedly] flows at the speed of light
           - but distorts the structure of spacetime itself as it propagates
         - therefore it would alter the apparent speed of light flowing in the same direction
-        - possibly(??) causing that light to *appear* to travel 
+        - possibly(??) causing that light to *appear* to travel
           - at slightly less/slightly more than c
    - if this is true, or if something similar is true, and c is not universally constant
      - but instead c varies from apparent c, dependent on the structure of space,
@@ -47,6 +141,71 @@ assuming the path of a gamma ray burst was not altered by the gravity wave, whic
        - may not be so constant
      - and it's an interesting thought experiment to examine the dependencies of theories in physics
        - if X, changes how does that affect theories based on X?  etc..
+
+
+
+### Dark Matter's Incoherent Doppler Shift
+
+The Ars Technica article discusses unexpected low-energy gamma rays,
+whose sources can't be determined.  It is suspected that extremely
+rare interactions with dark matter are triggering these gamma ray
+bursts.
+
+The article mentions an interesting inverse correlation in
+the doppler shift in dark matter suspected gamma ray bursts (GRB) in
+relation to the observed doppler shift from other sources of matter.
+Perhaps not an inverse correlation per se, but a lack of coherence
+with the doppler shift normally exhibited by normal matter we observe.
+Most matter in our galaxy is spiraling inwards towards the center and
+moving, on average, at specific speeds in relation to us.  Because of
+the difference in speed, we observe the doppler shift and because the
+motion of all matter in our galaxy is more or less synchronously
+spiraling inwards, we observe a predictable, smooth doppler pattern
+for normal matter.
+
+Yet, dark matter doesn't interact with matter, except through gravity.
+The only reason we suspect it exists is because our observations don't
+match our cosmological models.  They mostly match; that is, on a micro
+scale, our models for gravity seem to work.  But on the cosmic scale,
+there seems to be an enormous amount of missing mass out there than we
+can't account for.  Personally, I'm not so convinced this exists at
+all, instead feeling that there's something subtly wrong with our
+models.
+
+This research looked into the doppler shift of the GRB's, which is
+around 3.5 KeV, whereas normal light signal is between 1.5eV and
+3.5eV.  Because of the speed difference between the sun and dark
+matter, measuring the doppler shift requires sensing very low energy
+differences.  But new satellites will be launched with gear that
+should be capable of doing this.
+
+This research is significant because we may have observed direct
+evidence of dark matter that lines up with our
+expectations. Hopefully, the frequency of the GRB's we see are
+spatially coherent with the distortion that our models predict for
+dark matter's effect on mass in each area of our galaxy.
+
+Basically, dark matter's average motion is distinct from the average
+motion of the galaxy and this is what allows us to distinguish the
+doppler shift data.  GRB's shift towards blue when we would expect
+normal matter to shift red, which means it's moving away from the
+majority of matter (that we're moving.
+
+### My Thoughts on Dark Matter
+
+My own uneducated thoughts: I get the feeling that there's something
+subtly off with our model of the universe. We see that there's some
+general variance that's spatially distributed with the observations
+that accompany our data. That is, our observations work in smaller
+systems, but on a larger scale, there's this huge disparity in the
+motion we see in galaxies and clusters.  We suspect that dark matter
+causes galaxies to cluster and even to form in the first place, but
+simply because we can't explain it otherwise.
+
+But the stars in nearby galaxies?  They seem to cohere to our model's
+predictions, at their interactions with local stars do.  IMO, there's
+something missing from our model of gravity or our understanding of
+the structure of space.
 
   - giant plasma tv thought experiment (see snippet)
     - .... or maybe not .. the point here was to create streams of photons generated from the same location
@@ -67,8 +226,4 @@ this is getting more complicated than i intended. it really helps to visualize t
 
 if you then visualize an idealized gravity wave propagating along with these rays, it would cause p1 to be closer, then farther from the star as it increased/decreased gravity. assuming the gravity wave and photons are traveling at c, the speed of light, then a gravity wave likely won’t both increase & decrease gravity for a single photon, unless that photon’s path is significantly curved by the wave in relation to the direction of the gravity wave. it’s tricky because gravity and light move at c and so any effect is minute.
 
-i’m rambling at this point, but i think this is a useful thought experiment for understanding how gravity affects space, even though it’s a bit idealized. yet, after thinking about this, it just seems that gravity waves would break some kind of invariance in relativity, or at least my understanding of it. for a gamma ray burst with all photons moving parallel with a gravity wave, wouldn’t the distribution of photons in that beam show a doppler shift? they definitely would, if the photons were not all moving parallel with the gravity wave. what i mean by a break in invariance is it’s odd that just because a photon is moving exactly in line with a gravity wave, it wouldn’t exhibit any effect at all on it.  
-
-
-
-
+i’m rambling at this point, but i think this is a useful thought experiment for understanding how gravity affects space, even though it’s a bit idealized. yet, after thinking about this, it just seems that gravity waves would break some kind of invariance in relativity, or at least my understanding of it. for a gamma ray burst with all photons moving parallel with a gravity wave, wouldn’t the distribution of photons in that beam show a doppler shift? they definitely would, if the photons were not all moving parallel with the gravity wave. what i mean by a break in invariance is it’s odd that just because a photon is moving exactly in line with a gravity wave, it wouldn’t exhibit any effect at all on it.
