@@ -2,7 +2,7 @@ a modern fairy tale
 
 in a land whose cities have long since been swept away by the sands of time...
 
-a wandering mage happens to meet a traveling girl
+a wandering mage in a new land happens to meet a traveling girl
 - as she was from a faraway land, and the mage loved hearing about faraway things
   - she immediately attracted his attention.  in fact, it was her voice.
     - that's what he heard first.  if he'd seen her lavish clothes or all her attendents
@@ -36,6 +36,7 @@ a wandering mage happens to meet a traveling girl
   - he was worried that she was too highly regarded, too protected.
     - that the people around her were often just trying to curry favor
     - and that being around this kind of behavior distorted her perception, as it would anyone's
+      - that's a curse of power & celebrity
 - in the course of talking to her, he unintentionally teaches her a bit of magic and she catches on too fast
   - he begins to worry that he'll get in trouble.  or worse, she will.
   - he hesitates to tell her, but decides he must. she has to learn to control it, or it could bring trouble
@@ -56,7 +57,7 @@ a wandering mage happens to meet a traveling girl
   - unbeknownst to most, a high priest in her kingdom has been promising the king immortality
 - the mage freaks out a bit.  really, she wasn't supposed to say yes
   - the mage doesn't really like accepting gifts from anyone, especially those he can't repay
-- hermes, or the messenger god, has been secretly listening in to the conversation,
+- hermes, or the messenger god (another name?), has been secretly listening in to the conversation,
   - sheds a tear, a master mage himself, moved by the experience,
     - knowing full well these two are in love and ought to be
     - yet knowing how improbable such an event would be
@@ -74,6 +75,8 @@ a wandering mage happens to meet a traveling girl
   - but he figures that he can fetch water from the river of the dead (styx)
     - and trick the mage into drinking it, bestowing eternal life
     - that way, the princess won't have to know that she couldn't grant the mage's clever wish.
+      - hmmm.. but if he did this, wouldn't he be helping the priest out?
+        - or maybe it's a sly play and hermes know's what is going to happen
 
 - mage & princess part,
   - the mage truthfully never expects to see her again,
@@ -112,11 +115,16 @@ a wandering mage happens to meet a traveling girl
     - however, is intrigued when intuition causes his hair to stand on end
   - it's this curiosity that's nearly killed him so many times before
     - yet has taught him so much at the same time
+- mage catches a bad vibe and tries to leave, but is then intrigued to learn there's a connection to the princesses, thus stays
 - the mage has tried to forget, desperately
   - so when the assassin approaches him, he is grateful for the opportunity to forget
 - the assassin becomes worried: this was unexpected.
   - how could someone turn down immortality? and so quickly?
-    - hasn't he heard of the power of this priest? even the priest was sure it would work
+    - hasn't he heard of the power of this priest? even the priest seemed sure it would work
+      - TODO: resolve plot inconsistency problems here and elsewhere with the poison stuff
+      - without devaluing this event. assassin must present mage with choice, mage must choose to forget,
+        - assassin must act selfishly and attempt to cure himself and in doing so die
+        - mage must be arrested bc of this
   - the assassin performs a "miracle" with the supposed elixir of immortality
     - as instructed by the priest.  he's worried the mage doesn't believe him
   - the mage still doesn't value eternal life, as he believes something greater lies beyond this one
@@ -133,6 +141,8 @@ a wandering mage happens to meet a traveling girl
   - and worse still, he has lost all memory of the princess (?)
   - TODO: how does he get out of jail?
     - gets death penalty?  escapes at execution?
+    - is it public execution that alerts public of his immortality?
+      - what form? how does it fail? it needs to be spectacular.  we've got an audience people
   - TODO: how/when does he regain memory?
     - when seeing someone who was with the princess, but not her
     - after the forest/illusions section
@@ -165,8 +175,9 @@ a wandering mage happens to meet a traveling girl
 
 - the princess thinks .... hmmm what does the princess think?
   - does she believe the priest did it?
-    - yes/no/maybe .. i think she's starting to lost trust after certain events
+    - yes/no/maybe .. i think she's starting to lose trust after certain events
   - she feels her obligation is paid off to the mage? (even though he really didn't do anything)
+    - but never really felt "obliged" - moreso wanted to do it, but wasn't too concerned with it, as she never thought she'd see him again either
   - but her intuition tells her something is not right
 
 - the princess sends a message to the mage, but is unsure if he received it
@@ -199,6 +210,33 @@ a wandering mage happens to meet a traveling girl
   - and somehow she has to become the heroine
 - because otherwise it'd just be a helpless princess story lulz
   - TODO: or the magi are good, they find him and help him "find himself" within the coma
+
+- while mage is in coma, he can barely move, or can't turn around. or something.
+  - trying to create a scene that draws from plato's allegory of the cave
+  - mage is basically stuck staring at the cave wall.
+    - the only light entering his part of the cave is being reflected/refracted off giant crystals
+      - and onto the wall in front of him.  the light partially hits plants & etc as it enters
+    - the dancing shadow's create hallucinations and construct an illusory experience (similar to plato's cave)
+      - or is he trapped within a crystal?
+  - mage's only choice is to meditate, for however long it takes (month's, year's)
+    - he can't die, so food is not a problem.  (but what happens to him as a result?)
+  - eventually, he regains his magic and his control over himself is restored, but he is still trapped
+    - and this point, the illusory experience created by the shadows is no longer haunting
+  - he realizes he is stuck and seeks to free himself through nirvana(??) but isn't sure it's possible
+    - i really want to chill with the buddhist imagery here.
+    - but maybe he wants to free himself of this life to begin the next,
+      - hoping he'll be more capable and more prepared to resolve the situation then
+  - he realizes the only thing he has power over at this point is his mind & spirit
+    - he seeks to sharpen this through meditation
+    - originally, from his arrest and the trap in the forest of illusion, he pretty much lost himself
+      - he couldn't understand why it all happened to him and he just lost the best parts of himself
+      - he became bitter and angry. he blamed others, even though he didn't realize why it was happening to him
+    - he seeks to let it all go, which requires releasing his control over the situation
+    - he feels guilty for having affected a situation and possibly caused things to become worse for the princess, his friends and everyone else
+
+- where does everyone think the mage has gone? what is the priest doing in his absence?
+  - how much time passes? and what happens to the princess and her fiance in the meantime?
+  - what happens to the king?  the kingdom?
 
 - mage in a coma, meanwhile, gods are satisfied because immortal guy is effectively KO'd
   - and thus, their meddling has effectively stopped producing downstream ripples in the .. karma fabric
