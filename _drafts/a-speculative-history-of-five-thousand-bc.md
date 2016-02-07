@@ -327,6 +327,11 @@ flooding of the Persian gulf during this time
 
 sumerian creation myth (1600 BC)
 
+- babylonians tracked jupiter with sophisticated geometrical math
+  - http://arstechnica.com/science/2016/01/babylonians-tracked-jupiter-with-sophisticated-geometrical-math/
+  - Used geometry that hints at calculus 1,500 years before Europeans.
+
+
 development of mythology
 - gilgamesh
 
