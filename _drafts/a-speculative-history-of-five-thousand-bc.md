@@ -1,7 +1,7 @@
 ---
 title: "A Speculative History of 5,000 B.C. (Part Two)"
 categories: blog
-tags: "linux security"
+tags: "anthropology"
 headline: Calamity Echoes Through Human Psyche
 author:
   name: "David Conner"
@@ -10,6 +10,8 @@ excerpt:
 
 - part two starts with 8,000 BC - 5,000 BC, then covers up to 4,000 BC
 - part three covers 4,000 BC through 2,000 BC and then sums up the rest
+
+message dr anderson
 
 The importance of geography in the early world.
 - surveying (especially elevation, during a chaotic time)
@@ -22,12 +24,11 @@ Lets be real, up to this point, humanity has been sticking to the
 rivers and lakes that it's used to.  But that's all about to change.
 Things are starting to heat up.  Literally.
 
-As I stated in the last article, this
-writing represents my personal thoughts on human history from the
-Neolithic through the Bronze Age and it shouldn't be take as fact.
-It's titled "A Speculative History" for a reason.  I hope to provide a
-good story and possibly spark your interest.  If I do, follow up with
-some research yourself.
+As I stated in the last article, this writing represents my personal
+thoughts on human history from the Neolithic through the Bronze Age
+and it shouldn't be take as fact.  It's titled "A Speculative History"
+for a reason.  I hope to provide a good story and possibly spark your
+interest.  If I do, follow up with some research yourself.
 
 ### Calamity Echoes Through Human Psyche
 
@@ -60,14 +61,14 @@ areas subject to widespread destruction in flooding, which was often
 seasonal, but sometimes devastating.  And these are just the exact
 people who would be developing the basis of sophisticated
 culture. During the period of 12,000 BC through 6,000 BC, there were
-likely dozens of megafloods, each wiping out between 5% and 50% of the
-population in that region.  If you experienced an event like that and
-survived, you'd want to know why and you'd want to find out how to
-prevent it from happening again.  Yet, these events were relatively
-rare and only preserved through myth.  It was difficult to understand
-the mechanism causing flooding and if some group did, then it was
-difficult to propagate that knowledge or discern a method to predict
-when one would happen.
+likely dozens of megafloods around the world, each wiping out between
+5% and 50% of the population in that region.  If you experienced an
+event like that and survived, you'd want to know why and you'd want to
+find out how to prevent it from happening again.  Yet, these events
+were relatively rare to the victim populations and only preserved
+through myth.  It was difficult to understand the mechanism causing
+flooding and if some group did, then it was difficult to propagate
+that knowledge or discern a method to predict when one would happen.
 
 However, that's not to say that we didn't understand what was going on
 around us.  I believe that ancient humanity was well aware of rising
@@ -91,7 +92,7 @@ seafare.
 So you see, this transition was destructive and creative at the same
 time, isolating groups of humans and psychologically imprinting us
 with disaster, over and over again.  These disasters sparked a need to
-understand the world around us.  To understand, we developed means of
+conceptualize the world around us.  To understand, we developed means of
 surveying the earth.  We developed an intense desire to understand
 geography, everyone did.  It was already crucial for sustenance and
 intriguing for self-discovery, but now it was important for survival.
@@ -129,14 +130,59 @@ materials which should be equally useful to anyone with a hammer.
 
 > It's shiny? I can bang it with a rock, loudly, till I get what ever
 > I need? Gotta have it.  How long do I have to bang it?  Is it Gold?
-> Never seent it.  Is it copper?  Got tons of it.  Good stuff.
-> Silver? Never heard of it.  Lead? Raw? How hot do I have to burn it?
+> Never seent it. Is it copper?  Got tons of it. Good stuff.  Silver?
+> Never heard of it. Lead? Raw? How hot do I have to burn it?
 
 Trade and especially money drove us to create written language, with
 which we could propagate ideas without speech and preserve traditions
 or will, even beyond death.  Systematized forms of writing beyond art
 were not developed until the end of Copper Age or the beginning of the
 Bronze Age.
+
+### Flooded regions.... TODO: fix title
+
+Almost every culture has a story about a catastrophic flood that
+nearly destroyed humanity. Many of these also feature a Noah figure,
+whom they divine had influenced to craft an ark and preserve animal
+life.  IMO, the animals moreso symbolize the preservation of culture
+and knowledge here, whereas the ark symbolizes the preparation of a
+small, but wise group of people.  In this world, these flooding events
+were rare, especially regionally.
+
+- But they were so destructive that no one would ever forget
+  - and they developed these myths as a means to ensure that future generations would be prepared
+  - many cultures would propagate these myths to adjacent cultures
+- and here, i feel like the group symbolized by a Noah figure was prepared to deal with this
+  - minor seismic events may have preceded previous events by weeks or months, if the flooding was glacial
+
+
+
+
+### Doggerland
+
+
+Countless myths concern lost cities, once great, but now sunken into
+the sea or otherwise forgotten.
+
+A developed
+culture, usually fairly advanced that lay in the far north.  The
+greeks called it Hyperborea.  Doggerland fits many of these myths.  It
+was violently flooded by a tsunami triggered by a massive glacial
+event called the Storegga Slide.
+
+
+
+
+
+- knocked out by tsunami (Storegga Slide around 6200 BC)
+  - this is probably not the only time a seaside glacier collapsed, triggering tsunami
+  - however, the rest of the developing world was geographically shielded from tsunami's
+    - generated by glacial collapse
+    - the Mediterranean, definitely not at risk
+    - nor would southern india
+- flooding of the english channel
+  - how would the Storegga Slide have affected this?
+- original settlements in england/ireland?
 
 ### Lake Agassiz
 
@@ -153,34 +199,103 @@ Bronze Age.
     - so it seems the sea level rose in bursts
 
 
-
-### Doggerland
-
-- knocked out by tsunami (Storegga Slide around 6200 BC)
-  - this is probably not the only time a seaside glacier collapsed, triggering tsunami
-  - however, the rest of the developing world was geographically shielded from tsunami's
-    - generated by glacial collapse
-    - the Mediterranean, definitely not at risk
-    - nor would southern india
-- flooding of the english channel
-  - how would the Storegga Slide have affected this?
-- original settlements in england/ireland?
-  -
-
-
 ### Black Sea Outburst Flood
+
+There was possibly a major flood here in the 6th or 8th
+millenium. It's known that the Black Sea was very recently completely
+freshwater, with no connection through the Bosporus.  Another
+explanation is that 8th millinium glacial flooding near the Caspian
+diverted large amounts of freshwater into the Black Sea. The most
+telltale sign of flooding from the Sea of Marmara would be diluvium
+near the Bosporus, extending into and beyond the extent of the
+original freshwater Black Sea.  Another key indicator could be
+variations in mineral concentrations between regions of the originally
+freshwater and seawater regions of the Black Sea.  One study, which
+I'll reference soon, compared deposits of cellular life near the mouth
+of the strait with those found on the seafloor.
+
+
+
+IMO, it'd be very hard for the water to naturally breach the Bosporus
+Strait when it was still an Isthmus.  Today the strait is only 17
+miles long.  It averages 65m deep If this was a natural geological
+feature, it should have cyclically flooded and reconnected several
+times in the past million years.  It is not likely that it would have
+only once occured naturally in recent geological history.  And thus,
+the Bosporus Strait should exhibit evidence of a geological structure
+that has flooded multiple times.  As thin as the Bosporus Isthmus
+would have been, it would be more likely to flood in multiple places
+if it flooded multiple times.  This could be another indication of
+whether the even happened multiple times.
+
+Perhaps an earthquake in or around the Bosporus weakened the soil
+there or somehow otherwise opened.
+
+- earthquake in, near bosphorus? the marmara fault runs through it.
+  - possible tsunami that weakened the soil there?
+  - sea of marmara was landlocked up to 4000 BC
+
+
+One last observation is the presence of an underwater brine river in
+the Black Sea, originating from the Bosporus Strait and flowing into
+the Black Sea, forming what would be the worlds 6th largest river by
+volume.  Looking at the depth maps of the Marmara Sea, the Bosporus
+and the Black Sea, this seems strange at first.  The Bosporus is 65m
+deep on average.  Why would cold water flow up to 65 meters from a
+depth of +1000m and into the Black Sea.  On further reading, there is
+a warm current flowing in the opposite direction from the Black Sea
+into the Marmara.  This current likely draws cold, salty water up
+by convection as it enters the Marmara.
+
+
+
+
+transition from outburst floods
+
+IMO, this one can't be conclusively shown to be, from my amateur take
+after some reading. I want it to be true because it might explain a lot.
+And there were definitely ancient peoples in the area,
+
+... rewrite that ^^^
+
+... and maybe get rid of this vvvv
 
 using google maps, i can see the effect of erosion from an ancient danube riverbed
 - there doesn't seem to be much undersea erosion around the rest of the black sea
-  -except for the area leading from the Bosphorus strait
+  - except for the area leading from the Bosporus strait
+- at least, i think.  i don't know what i'm looking for and the data is horribly blurred
+  - also, i should see this erosion closer to the source, the Bosporus
+  - however, i really think if there were a recent outburst flood,
+    - there should be diluvian erosion patterns here
 
-### The Persian Gulf
+- this is definitely way on the pseudoscience end, but ...
+  - the Bosporus Strait is only 17 miles long and averages at 65m deep
+    - i'm not really sure what tools it would take to use.  this is the major issue.
+    - but if there were tools available, they could have started from them middle
+      - or really just dug outward
+  - would it be impossible for this to have been one of the first engineering projects?
+    - for comparison, the Suez canal is 120 miles long
+    - the Panama canal is 50 miles long
+  - there were even ancient canal projects:
+    - many roman canal projects were of similar depth and breadth
+    - canal of the pharoahs: over 50 miles long
+      - i'll admit, the wiki page is a bit questionable
+      - it doesn't really address whether or not the project was every completed
+  - and i can tell, i'm really just trying to make this work,
+    - although, turkey and the areas surrounding really was the center of civilization
+- but it also matches up with sections from the Gilgamesh and Sumerian flood myths,
+  - stating that the gods conspired to cause the flood
+  - however, these myths were definitely centered around the Persian Gulf
+    - and around Dilmun in particular, which seems to have occupied Bahrain and
+      the area beyond Shatt-al-Arab river, the Ur-Schatt river basin in the ancient Persian Gulf
+
+### Dilmun and the Ancient Persian Gulf River Basin
 
 include pics from Kurt Lambeck paper (1995)
 - "Shoreline reconstructions for the Persian Gulf since the last glacial maximum"
 
 flooding of the Persian gulf during this time
-- probably happened once as an unexpected catastrophe
+- probably happened at least once as an unexpected catastrophe
   - then again, periodically every few hundred years
   - these repeated experiences would have been catastrophic to early civilization
   - the pain of losing everything would have been seared into our psyche
@@ -214,6 +329,37 @@ sumerian creation myth (1600 BC)
 
 development of mythology
 - gilgamesh
+
+
+
+writing in dilmun?  probably not
+- dilmun was partially submerged by 8000 BC and mostly submerged by 6000 BC.
+  - because of writing's viral nature, it would have quickly escaped if it was developed in Dilmun
+- there's a 4000 year space between the time when Dilmun would have been in it's heyday
+  - and when Sumeria first started developing it's writing
+
+writing in Sumeria (4000 BC)
+- we only have proof of writing back to 4000 BC in Sumeria.
+  - however, the first samples of writing are almost entirely comprised of financial records of transactions
+    - and inventories of agricultural products.
+- but IMO, there was writing in the area before people thought to produce clay tablets.
+  - it was part of developing further abstract ideas, but we only have evidence of it
+    from when people decided to start firing clay tablets.
+  - speaking of which, that whole process seems cumbersome.
+    - i don't think everyone had a kiln or means of creating these tablets.
+    - they must have been required for some purpose
+      - or at least strongly encouraged by some part of their culture
+      - perhaps by the introduction of taxes
+    - but if not everyone had a kiln, the inhabitants likely developed processes
+      - for producing these in some systematic, more efficient way.
+    - if you don't own a kiln, but you happen to be rich enough to need to tabulate inventory
+      - or record a transaction, the it's basically like going to kinko's every time you need to print something
+- these systems likely originated in a similar fashion to language.
+  - and it's related to the humans abstracting concepts using art
+  - the more common that became, the more people would communicate with art
+  - as they communicated with art, particular symbols and styles would emerge to represent similar ideas
+- however, they wouldn't be writing in a way that left a permanent trace,
+  - that is, until the sumerians started keeping financial records.
 
 
 ### 8,000 BC - 5,000 BC
