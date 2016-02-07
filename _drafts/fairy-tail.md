@@ -2,6 +2,8 @@ a modern fairy tale
 
 in a land whose cities have long since been swept away by the sands of time...
 
+TODO: what kind of symbols to use?
+
 a wandering mage in a new land happens to meet a traveling girl
 - as she was from a faraway land, and the mage loved hearing about faraway things
   - she immediately attracted his attention.  in fact, it was her voice.
@@ -81,6 +83,10 @@ a wandering mage in a new land happens to meet a traveling girl
 - mage & princess part,
   - the mage truthfully never expects to see her again,
     - nor does he expect to gain immortality
+  - the have definitely exchanged gifts by this point, but what gifts?
+    - this is very important, as the mage needs to carry the gift with him
+      - but be completely confused as to how he got those fucking kale chips.
+      - i mean kale chips.  goddamn, who the fuck even eats those? lmao
 
 - the priest is hoping for political gains once the marriage goes through,
   - as he has secret financial ties with certain elements in her fiance's country
@@ -253,4 +259,4 @@ a wandering mage in a new land happens to meet a traveling girl
   - decides to secretly warn the princess in a dream
   - TODO: dream content
 
-- princess's reaction to dream?
+- princess's reaction to dream(s)?
