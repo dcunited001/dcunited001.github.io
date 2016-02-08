@@ -282,6 +282,24 @@ composed of some quantum structure, is this structure permanently
 changed by the presence of mass?  Is local space directly connected to
 the mass that occupies it?
 
+### How to extend the notion of singularity to two or three points?
+
+So if a singularity for a black hole is a point so massive it creates
+an event horizon from which light cannot escape, are there extensions
+for systems with two or three such points?  If you have a binary black
+hole system, what happens as the event horizons merge?  Would there be
+a singularity that "streched" across space, forming a line? This seems
+impossible, but what would the space between these singularities be
+like?
+
+And if there was a trinary black hole system that was collapsing, it
+seems like an extremely interesting situation could emerge, where a
+"triangular" region of space is formed, surrounded by event horizons
+linking each singularity.  Learning more about what happens here might
+tell us more about the nature of space when a singularity forms, since
+prior to that the massive object has volume and will be decomposed
+into a singularity in a chain reaction.
+
 ### Dark Matter's Incoherent Doppler Shift
 
 The Ars Technica article discusses unexpected low-energy gamma rays,
