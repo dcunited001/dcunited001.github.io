@@ -19,9 +19,7 @@ where my understanding of math limits me.
 
 As far as I can see, understanding gravity necessitates a shift in how
 we model space.  I've used a few thought experiments to help simplify
-the important pieces.
-
-Here's some of the most profound questions:
+the important pieces.  Here's a few of the more profound questions:
 
 #### Is there a distinction between gravity and the space it curves?
 
@@ -72,7 +70,7 @@ Would that mean space itself is composed of particles too?  Would it
 stream information all those spatial particles simultaneously?  That
 gets complicated.
 
-TODO: reword
+TODO: reword and or split this question up
 
 
 
@@ -85,8 +83,51 @@ I don't really know enough to elaborate on this.
 Similar to how the path of light curves?  Actually this makes sense.
 - Restated: If gravitons exist, would they
 
+#### If energy is mass, does gravitational energy interact with space or mass in transit?
 
+If gravity travels at the speed of light and force is mass, and if all
+matter exhibits gravitational force on all other matter, then what
+happens to the gravitational energy between two massive objects moving
+away from each other, whose gravitational energy takes significant
+time to reach the other object?
 
+Would space curve for the objects in between, because of the
+gravitational energy in transit?  If this gravitation energy does
+cause space to curve while it's in transit, does the source of the
+gravity affect how space curves? Or is the force expressed on space
+simply an aggregate of all the forces being transferred through that
+space?
+
+Even with the limits of relativity, one can imagine situations where
+the gravitational force expressed on two objects could never reach the
+other side, AFAIK.  E.G. if large two objects, both traveling toward
+each other at half the speed of light, relative to a nearby observer,
+then miss each other and continue to travel at nearly half the speed
+of light in opposite directions, it could take nearly an eternity
+for the force of gravity to exert influence on the other object.
+
+#### How do we preserve conservation of energy with quantum gravity?
+
+So, it's clear that quantum gravity has some complex issues to
+resolve.  Otherwise, there are loopholes under which the conservation
+of energy would be violated.  This may be an indication that gravity
+operates via a non-local mechanism.  Or, in other words, we need more
+dimensions to explain it mathematically.  We can be fairly sure that
+the force that gravity exhibits travels at the speed of light over
+space, but does that mean all of the mechanisms of gravity operate
+over our 3-space?
+
+#### What is the nature of these other dimensions?
+
+So if gravity operates via mechanisms in other dimensions, how does
+the speed of light apply there?  Is there some similar limit?  What is
+the structure and nature of these dimensions and why do they not seem
+to affect existing observations?  Have we not noticed them before
+because the other 3 forces do not interact with these dimensions?  Is
+this a kind of compartmentalization that's required to prevent quantum
+gravity from creating dependency issues?  By this, I mean it may be
+mathematically simpler if gravity operates on a different space than
+the space it manipulates.
 
 ### Nobel Worthy Gravity Waves
 
@@ -115,8 +156,6 @@ ideas:
 assuming the path of a gamma ray burst was not altered by the gravity wave, which it almost certainly would, then both would not reach us with the same time interval they started with.
 
 - would high levels of gravity cause the path of gravitation itself to curve, similar to how the path of light curves?
-- if gravity travels at the speed of light and force is mass, and if all matter exhibits gravitational force on all other matter, then what happens to the gravitational energy between 2 massive objects moving away from each other, whose gravitational energy takes significant time to reach the other object?
-- would space curve for the objects in between, even though the source of gravitational energy may be unclear?
 
 - article on dark matter, gravity and relativity
   - specifically, is the speed of light truly constant for all conditions
