@@ -188,7 +188,7 @@ gravity from creating dependency issues?  By this, I mean it may be
 mathematically simpler if gravity operates on a different space than
 the space it manipulates.
 
-### The Universe is Composed of Streams of Information
+### The universe is composed of streams of information
 
 I found it interesting to think about photons, bosons, etc as streams
 of information.  That is, we're not looking at a star, but we're
@@ -206,37 +206,77 @@ with the information needed to distort?  We know that gravity is not
 the result of the interaction of two masses, but instead the
 interaction of two masses through curved spacetime.
 
-### A gamm
+### Is the speed of light truly constant for all conditions?
 
-assuming the path of a gamma ray burst was not altered by the gravity wave, which it almost certainly would, then both would not reach us with the same time interval they started with.
+The main issue I have with all this is that gravity, which
+theoritically also travels at c, the speed of light, also effects the
+medium through which it flows.  And as I've shown above, light is
+always slowed down by gravity.  This is because the only value for
+which light will not curve is a value that is *exactly* in line with
+gravity's influence and this is impossible.  Therefore, light will
+always be affected in some way and slowed down by gravity.
+Technically, the light doesn't slow down, but it's flowing through
+more "space," as it's affected by gravity. And if light is "slowed
+down" by a gravity wave, then it would always be slowed down in some
+way by the net influence of gravity on space.
 
-- would high levels of gravity cause the path of gravitation itself to curve, similar to how the path of light curves?
+### Is gravity really the sum of effects on curved spacetime?
 
-- article on dark matter, gravity and relativity
-  - specifically, is the speed of light truly constant for all conditions
-    - light is composed of particle waves flowing through space
-      - if space curves, light appears to curve, but the flow of light doesn't affect the medium
-        - for the most part, the mass of energy flowing through space as photons
-          - doesn't affect the structure of space.
-      - however, if light is flowing in sync with a gravity wave,
-        - the gravity wave [supposedly] flows at the speed of light
-          - but distorts the structure of spacetime itself as it propagates
-        - therefore it would alter the apparent speed of light flowing in the same direction
-        - possibly(??) causing that light to *appear* to travel
-          - at slightly less/slightly more than c
-   - if this is true, or if something similar is true, and c is not universally constant
-     - but instead c varies from apparent c, dependent on the structure of space,
-     - then what is c, really?
-     - and how does this affect other laws of physics?
-       - which are dependent on c? are they actually dependent on local/apparent c?
-     - and how does this affect the conclusions we've reached using statistic modeling of the cosmos?
-   - it's probably not tru to begin with (i don't knwo all the mathematic complexities)
-     - however, it's interesting to thing that something so fundamental as the constant nature of c
-       - may not be so constant
-     - and it's an interesting thought experiment to examine the dependencies of theories in physics
-       - if X, changes how does that affect theories based on X?  etc..
+Which begs the question: are two areas of space functionally
+equivalent if they have the same net distortion of space from
+any number of gravitational sources?  That is, if you can ensure
+that two areas of space have the exact same net component for
+gravity, even though that gravity is caused by different sources,
+is the effect on masses in that area of space exactly the same.
 
+I'm fairly confident that it's not.  If there is some structure to
+spacetime, than you could not produce two regions with identically
+composed spacetime without providing the exact input from masses.
+That is, just because you have created a net equivalent of
+gravitational forces doesn't mean that your spacetime is functionally
+equivalent in all respects.
 
+Example: you've got two planets.  One is huge and the other is small.
+You're in a spaceship in the middle.  Measure the net force of gravity
+on your spaceship.  Now, increase the mass of the planets, but move
+them further away, so that the net force of gravity is the same. Is
+the state of spacetime that your ship occupies identical to it's
+previous state?  No, for a dozen reasons.  And I think getting this to
+work to control the state of spacetime would be pretty difficult.
+
+### Does gravity lose energy to dispersion?
+
+If gravity is also similarly "slowed down" in the same way that light
+would be, does that mean that a gravity wave loses energy as it
+propagates through space?
+
+### If the apparent speed of light varies from place to place...
+
+-- and I'm pretty sure this section is shit, but I left it in anyways --
+
+How does this affect how we make observations.  Then the speed of
+light itself becomes a kind of initial value problem, where you
+can't pin it down because it's impossible to measure the net forces
+distorting local spacetime.
+
+But then, what is c, really?  If the measurement of this constant
+can't be understood as accurate because it would require measuring the
+net distortion of local spacetime, then how does this affect the other
+laws of physics?
+
+Like I said, I almost threw this out, but it's interesting to think
+about the dependencies between various laws of physics.  Which are
+dependent on c?  Would the be dependent on local or universal c? And
+how does this affect the conclusions we've reached using statistic
+modeling of the cosmos?  And it's an interesting thought experiment to
+examine the dependencies of theories in physics.
+
+### Does spacetime have memory?
+
+If spacetime is distorted by mass, and particularly, if spacetime is
+composed of some quantum structure, is this structure permanently
+changed by the presence of mass?  Is local space directly connected to
+the mass that occupies it?
 
 ### Dark Matter's Incoherent Doppler Shift
 
