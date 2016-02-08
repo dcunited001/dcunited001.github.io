@@ -15,18 +15,25 @@ had a lot of questions about dark matter and gravity that my current
 understanding of physics can't answer. Again, yet another subject
 where my understanding of math limits me.
 
+### Nobel Worthy Gravity Waves
+
+The Gizmodo article mentions a possible Nobel-worthy discovery of
+gravity waves.  Apparently a binary blackhole merger has been
+discovered, which is one of the few events that would produce gravity
+waves detectable by current means.
+
 ### TL;DR; Gravity is Wierd
 
 As far as I can see, understanding gravity necessitates a shift in how
 we model space.  I've used a few thought experiments to help simplify
-the important pieces.  Here's a few of the more profound questions:
+the important pieces.  Here's a few of the more profound questions.
 
-#### Is there a distinction between gravity and the space it curves?
+### Is there a distinction between gravity and the space it curves?
 
 Or is gravity literally the ripple in space? That would imply space is
 simpler than it seems. That's a bummer.
 
-#### Does gravity cause the path of gravitation itself to curve?
+### Does gravity cause the path of gravitation itself to curve?
 
 This makes sense. If gravitons exist, they should follow similar rules
 as photons, right? It'd be weird if most bosons, like photons,
@@ -42,13 +49,70 @@ It's a lot simpler if all the bosons are in the same space.
 
 In other words, what I'm trying to ask is:
 
-#### If gravitons follow curved spacetime, how does this affect other bosons?
+### If gravitons follow curved spacetime, how does this affect other bosons?
 
 And this is the question I got stuck on tonight: If a gravity wave is
 moving in the exact same direction as several parallel beams of
-photons, how are they affected?
+photons, how are they affected?  The photons that are moving just
+outside of parallel to the gravity wave would certainly be affected
+and the more their trajectory is altered, I can say confidently that
+the influence of gravity on them would only increase.
 
-#### If gravitons alter the spacetime that other bosons operate on ...
+However, this would seem to break some kind of directional or spatial
+invariance of gravity, relativity or spacetime.  Why is it that the
+photon whose trajectory exactly matches a gravity wave not be
+affected, while all adjacent photons with the same origin would be
+greatly affected?  They would all assume and adhere to a change in
+distribution, causing a doppler effect.  Except for this one beam of
+photons that wouldn't be affected at all.  This would be a violation
+of continuity in this function.
+
+### Thought experiment: traveling with a gravity wave
+
+If you imagine a uniformly distributed narrow beam of protons, all
+traveling perfectly parallel to each other and traveling in sync with
+a gravity wave, you'll get an idea of how the resulting distorted
+distribution of photons would look a bit odd.  Imagine the photons
+beginning from various adjacent sources and they are all parallel,
+but that the gravity wave was emitted from a single source, so there
+are slightly varied angles of incidence to each photon.  Some photons
+lie in the crest of the gravity wave and some in the trough.
+
+For the most part, the photons that lie in the crest of the wave get
+their trajectory bent slightly inward.  And those that lie on the
+trough of the trajectory get bent slightly outward (i think).  So you
+can imagine that the resulting distrbution of photons, in this
+idealized scenario, would look parabolized.  That is, except for the
+beam of photons that is exactly in line with the gravity wave, which
+may be technically impossible under real conditions.  This beam,
+informed by my current understanding of general relativity and curved
+spacetime, could not be slowed down because it's traveling at the
+speed of light and that is constant.  It is taking a straight path
+through spacetime that has been curved, but such that the curved
+spacetime does not affect it's apparent trajectory.  And thus, this
+beam of light would not be distorted in any way by the gravity, but
+would stick out like a sore thumb in the parabolized distribution of
+photons.
+
+It's a violation of continuity because of a problem with
+invariance. Unless my understanding of this is incorrect, which is
+likely, then this center beam of photons must also be slowed down to
+some degree, but I can't resolve how.  And thus, the photons traveling
+in crest of the wave would slow down a bit, apparently.  The photons
+traveling in the trough of the wave would speed up a bit, so that
+all the photons would be uniformly distorted.
+
+However, this thought experiment has been set up with idealized
+conditions, similar to those for general relativity.  In this problem,
+the originating mass for the gravity wave is point-like and can
+apparently alter its mass with no change in position, producing a
+perfectly circular gravity wave, which is impossible in nature. Also,
+in nature, it would be impossible to produce a stream of photons that
+are exactly in line with the origin of the gravity wave, unless you
+could ensure that it was lined up down to the plank length, but I'm
+not sure I really understand that.
+
+### If gravitons alter the spacetime that other bosons operate on ...
 
 Then how do you even resolve that dependency graph? One would need
 to take precedence over another ... or something. In other words,
@@ -68,22 +132,15 @@ of other particles, then what stream of information do gravitons
 make up?  Do they comprise a stream to the surrounding space? How so?
 Would that mean space itself is composed of particles too?  Would it
 stream information all those spatial particles simultaneously?  That
-gets complicated.
+gets complicated.  How do you deal with deformed space if the plank
+length is constant?  Does that mean that space is voxelized?
 
-TODO: reword and or split this question up
+### How do scalar bosons, like the Higgs, differ from Gauge bosons?
 
+I don't really know enough to elaborate on this, but there should
+be some fundamental differences in how scalar bosons work.
 
-
-
-#### How do scalar bosons, like the Higgs, differ from Gauge bosons?
-
-I don't really know enough to elaborate on this.
-
-
-Similar to how the path of light curves?  Actually this makes sense.
-- Restated: If gravitons exist, would they
-
-#### If energy is mass, does gravitational energy interact with space or mass in transit?
+### If energy is mass, does gravitational energy interact with space or mass in transit?
 
 If gravity travels at the speed of light and force is mass, and if all
 matter exhibits gravitational force on all other matter, then what
@@ -98,6 +155,8 @@ gravity affect how space curves? Or is the force expressed on space
 simply an aggregate of all the forces being transferred through that
 space?
 
+### Another Thought Experiment
+
 Even with the limits of relativity, one can imagine situations where
 the gravitational force expressed on two objects could never reach the
 other side, AFAIK.  E.G. if large two objects, both traveling toward
@@ -106,7 +165,7 @@ then miss each other and continue to travel at nearly half the speed
 of light in opposite directions, it could take nearly an eternity
 for the force of gravity to exert influence on the other object.
 
-#### How do we preserve conservation of energy with quantum gravity?
+### How do we preserve conservation of energy with quantum gravity?
 
 So, it's clear that quantum gravity has some complex issues to
 resolve.  Otherwise, there are loopholes under which the conservation
@@ -117,7 +176,7 @@ the force that gravity exhibits travels at the speed of light over
 space, but does that mean all of the mechanisms of gravity operate
 over our 3-space?
 
-#### What is the nature of these other dimensions?
+### What is the nature of these other dimensions?
 
 So if gravity operates via mechanisms in other dimensions, how does
 the speed of light apply there?  Is there some similar limit?  What is
@@ -129,29 +188,25 @@ gravity from creating dependency issues?  By this, I mean it may be
 mathematically simpler if gravity operates on a different space than
 the space it manipulates.
 
-### Nobel Worthy Gravity Waves
+### The Universe is Composed of Streams of Information
 
-The Gizmodo article mentions a possible Nobel-worthy discovery of
-gravity waves.  Apparently a binary blackhole merger has been
-discovered, which is one of the few events that would produce gravity
-waves detectable by current means.
+I found it interesting to think about photons, bosons, etc as streams
+of information.  That is, we're not looking at a star, but we're
+looking at a stream of photons and imagining the star that's producing
+them. And when we look at the night sky, were receiving long, unbroken
+streams of photons for each star in the sky.  These streams aren't
+just directly to us, but are more like a radial stream of photons from
+the star.
 
+It's useful to think of other quantum phenomena in the same way i
+think.  Yet it's really hard to imagine gravity as we know it in this
+way.  If objects in motion require spacetime to determine their
+trajectory, what stream of information could provide the spacetime
+with the information needed to distort?  We know that gravity is not
+the result of the interaction of two masses, but instead the
+interaction of two masses through curved spacetime.
 
-
-mention:
-
-- thought experiment: 2 massive objects moving away from each other
-  - really need to create some pics for this kind of stuff
-
-ideas:
-
-- viewing astrophysical observations in the universe as streams of information
-  - that is imagine not just the star as a "star," instead imagine it as a stream of photons
-  - and likewise for gravity: imagine it as a stream of information from another object with mass
-    - this information only has an effect once it reaches the other side
-
-- what are the implications for technology once relativistic effects are overcome?
-
+### A gamm
 
 assuming the path of a gamma ray burst was not altered by the gravity wave, which it almost certainly would, then both would not reach us with the same time interval they started with.
 
@@ -245,24 +300,3 @@ But the stars in nearby galaxies?  They seem to cohere to our model's
 predictions, at their interactions with local stars do.  IMO, there's
 something missing from our model of gravity or our understanding of
 the structure of space.
-
-  - giant plasma tv thought experiment (see snippet)
-    - .... or maybe not .. the point here was to create streams of photons generated from the same location
-
-snipped from gizmodo
-
-i’m not a physicist, but the nature of gravity waves is different than quantum waves in that gravity affects the medium through which it propagates. so if that’s true, then how could the trajectory and velocity of a gamma ray burst not be altered? unless there’s some weird balance between the energy dispersed by a gravity wave on the objects around it and the trajectory/momentum of those objects.
-
-assuming they’re both moving in the same direction at the same speed, different phenomena could arise, based on their relative positions. a different result would occur if the gamma ray burst were well in front of the wave, on its crest, on its trough or well behind it.
-
-thought experiment: focus on a star just on the edge of the sun. like the original experiment proving relativity. if the suns gravity were to increase quickly, the trajectory of the light from that star would change. it would appear slightly further away from the sun.
-
-now consider 3 equidistant parallel light rays emerging orthogonally from a large-bodied object like the sun. r0 is the center ray, r1 and r2 are the outer, equidistant rays. now increase gravity at the source. assuming symmetry, those same parallel rays should bend inwards intersect at a point far away from the star, but at different times since they travelled different distances. ray r0 should be further outward than r1 & r2, since it had a straight path. r1 & r2 will intersect the path of r0 at the same time, since everything is symmetric.
-
-p0: the origin of ray r0. p1: the intersection point on r0 of rays r1 and r2. p2: the position of a photon on ray r0 when r1 and r2 intersect.
-
-this is getting more complicated than i intended. it really helps to visualize these light rays as paths, instead of traveling photons. now increase gravity again and p1 is closer to the star. the proportion of p2/p0 to p1/p0 has increase. decrease gravity and that proportion decreases
-
-if you then visualize an idealized gravity wave propagating along with these rays, it would cause p1 to be closer, then farther from the star as it increased/decreased gravity. assuming the gravity wave and photons are traveling at c, the speed of light, then a gravity wave likely won’t both increase & decrease gravity for a single photon, unless that photon’s path is significantly curved by the wave in relation to the direction of the gravity wave. it’s tricky because gravity and light move at c and so any effect is minute.
-
-i’m rambling at this point, but i think this is a useful thought experiment for understanding how gravity affects space, even though it’s a bit idealized. yet, after thinking about this, it just seems that gravity waves would break some kind of invariance in relativity, or at least my understanding of it. for a gamma ray burst with all photons moving parallel with a gravity wave, wouldn’t the distribution of photons in that beam show a doppler shift? they definitely would, if the photons were not all moving parallel with the gravity wave. what i mean by a break in invariance is it’s odd that just because a photon is moving exactly in line with a gravity wave, it wouldn’t exhibit any effect at all on it.
