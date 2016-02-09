@@ -30,7 +30,10 @@ waves detectable by current means.
 
 As far as I can see, understanding gravity necessitates a shift in how
 we model space.  I've used a few thought experiments to help simplify
-the important pieces.  Here's a few of the more profound questions.
+the important pieces.
+Here's a few of the more profound questions escaping me at the moment.
+I wish I knew more of the math and physics to understand this more
+completely.
 
 ### Is there a distinction between gravity and the space it curves?
 
@@ -51,7 +54,7 @@ completely different kind of space.  Your model would have to account
 for multiple models of space: one relativistic and another, who knows.
 It's a lot simpler if all the bosons are in the same space.
 
-In other words, what I'm trying to ask is:
+In other words, what I'm trying to ask is --
 
 ### If gravitons follow curved spacetime, how does this affect other bosons?
 
@@ -70,6 +73,25 @@ greatly affected?  They would all assume and adhere to a change in
 distribution, causing a doppler effect.  Except for this one beam of
 photons that wouldn't be affected at all.  This would be a violation
 of continuity in this function.
+
+### Here's Some Gravitational Lensing
+
+![Black Hole Gravitational Lensing](/img/posts/2016-02-08-questions-on-gravity/black-hole-lensing.gif)
+
+Notice how the objects seem to move away from the black hole as it
+first approaches. That is happening because rays that would otherwise
+not be directed towards you are following the curved spacetime.
+Here's an image describing how light bends around massive objects.
+
+#### Gravitational Lens Geometry
+
+![Gravitational Lens Geometry](/img/posts/2016-02-08-questions-on-gravity/gravitational-lens-geometry.svg)
+
+In the presence of one mass, light will follow a path that only curves
+in one direction.  After passing the object, the light will gradually
+return to traveling in a straight line, but it only curves towards the
+gravitational source.  It doesn't curve back the other way as it
+returns to a straight path.
 
 ### Thought experiment: traveling with a gravity wave
 
@@ -210,6 +232,17 @@ with the information needed to distort?  We know that gravity is not
 the result of the interaction of two masses, but instead the
 interaction of two masses through curved spacetime.
 
+### Einstein Rings
+
+When the observer is directly in line with a black hole and a large
+galaxy further behind it, you can see Einstein Rings.  In this
+generated image, as it zooms further in, you can even see that light
+from the observer's region of space is being redirected back towards
+the viewer in alternating rings.  For more information, check out the
+[wikipedia entry](https://en.wikipedia.org/wiki/Einstein_ring#A_simulation).
+
+![Einstein Rings](/img/posts/2016-02-08-questions-on-gravity/einstein-ring-zoom.gif)
+
 ### Is the speed of light truly constant for all conditions?
 
 The main issue I have with all this is that gravity, which
@@ -291,6 +324,13 @@ hole system, what happens as the event horizons merge?  Would there be
 a singularity that "streched" across space, forming a line? This seems
 impossible, but what would the space between these singularities be
 like?
+
+<p>
+<div markdown="0">
+<img src="/img/posts/2016-02-08-questions-on-gravity/black-hole-merger.gif" alt="Black Hole Merger"/>
+<aside>Image: <a href="https://commons.wikimedia.org/w/index.php?curid=4837860">Urbane Legend</a></aside>
+</div>
+</p>
 
 And if there was a trinary black hole system that was collapsing, it
 seems like an extremely interesting situation could emerge, where a
