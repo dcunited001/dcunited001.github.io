@@ -1,0 +1,40 @@
+<svg xmlns="http://www.w3.org/2000/svg"	xmlns:xlink="http://www.w3.org/1999/xlink" viewBox="-5 0 500 300">
+<title>Gravitational Lensing</title>
+<desc>Optical geometry of gravitational lens.</desc>
+<defs>
+	<marker id="Arrow" viewBox="0 0 10 10" refX="5" refY="5"
+		markerUnits="strokeWidth" orient="auto"	markerWidth="10" markerHeight="10">
+		<polyline points="10,5 0,10 0,0 10,5" fill="black"/>
+	</marker>
+	<marker id="Tip" viewBox="0 0 2 10" refX="1" refY="5"
+		markerUnits="strokeWidth" orient="auto"	markerWidth="10" markerHeight="10">
+		<line x1="1" x2="1" y1="0" y2="10" stroke="black"/>
+	</marker>
+</defs>
+<g fill="black">
+	<circle cx="10" cy="120" r="5"/>
+	<circle cx="300" cy="150" r="8"/>
+	<ellipse cx="470" cy="150" rx="2" ry="4"/>
+</g>
+<g stroke="black" fill="none">
+	<path d="M490,150 a20,10 0 0,1 -20,-10 M490,150 a20,10 0 0,0 -20,10 M472,145 a2,5 0 0,0 0,10"/>
+	<circle cx="10" cy="50" r="5"/><circle cx="10" cy="225" r="5"/>
+	<path d="M10,35 V250 M300,35 V250 M450,35 V250 M10,150 H450" stroke-dasharray="2,2"/>
+	<path d="M355,129 a5,10 0 0,0 0,21 M225,100 a5,10 0 0,0 -2,17 M235,136 a5,10 0 0,0 -2,14"/>
+	<path d="M10,120 L260,116.4 L300,116 M300,116 L320,120.5 L450,150 M10,120 L260,169.85 L300,175.6 M300,175.6 L320,172.16 L450,150" marker-mid="url(#Arrow)"/>
+	<path d="M10,120L450,150 M10,50L300,116 M10,225L300,175.6" stroke-dasharray="6,3"/>
+	<path d="M10,260 H300 H450 M10,290 H450" marker-end="url(#Tip)" marker-start="url(#Tip)" marker-mid="url(#Tip)"/>
+</g>
+<text font-size="15" stroke="none" fill="black">
+	<tspan x="-3" y="10">source</tspan><tspan x="0" dy="15">plane</tspan>
+	<tspan x="290" y="10">lens</tspan><tspan x="285" dy="15">plane</tspan>
+	<tspan x="425" y="10">observer</tspan><tspan x="435" dy="15">plane</tspan>
+	<tspan x="150" y="250">D</tspan><tspan font-size="12" dy="5">LS</tspan>
+	<tspan x="350" y="250">D</tspan><tspan font-size="12" dy="5">L</tspan>
+	<tspan x="250" y="283">D</tspan><tspan font-size="12" dy="5">S</tspan>
+	<tspan x="205" y="110">&#x03b1;</tspan>
+	<tspan x="200" y="144">&#x03b8;</tspan><tspan font-size="12" dy="5">S</tspan>
+	<tspan x="330" y="136">&#x03b8;</tspan><tspan font-size="12" dy="5">1</tspan>
+	<tspan x="290" y="134">b</tspan>
+</text>
+</svg>
