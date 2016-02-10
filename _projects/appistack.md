@@ -26,6 +26,11 @@ with CORS configured.  And you can do this all for free, with
 and [Divshot](https://divshot.com/).  So get the CRUD out of the way
 and start building.
 
+> Note: Google has purchased Divshot and integrated it into Firebase.
+> The setup instructions for Divshot are no longer relevant and the
+> Angular app will need to be deployed on Heroku if you want a free
+> running instance.
+
 ### Appistack Project Templates
 
 #### [appistack-rails](https://github.com/appistack/appistack-rails)
