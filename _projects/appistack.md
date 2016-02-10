@@ -3,6 +3,7 @@ title: "Appistack"
 type: project
 date: 2013-01-01
 repo_url: "https://github.com/appistack/appistack"
+project_url: "https://dcunited001.github.io/appistack"
 categories: ['Gems']
 display_order: 1
 headline: A Containerized Hackathon Template
