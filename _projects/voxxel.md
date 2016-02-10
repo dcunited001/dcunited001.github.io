@@ -2,7 +2,6 @@
 title: "Voxxel"
 type: project
 date: 2015-01-01
-repo_url: "https://github.com/dcunited001/skiima"
 categories: ['Apps']
 display_order: 2
 headline: Who's Line is It Anyway?
