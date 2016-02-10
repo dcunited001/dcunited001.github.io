@@ -47,11 +47,12 @@ something like that.  Use your imagination.
 
 And one last point, if you absolutely, absolutely need the most
 performance out of an algorithm and neither development time nor
-build time are problems, then **C/C++ always the answer**.
+build time are problems, then **C/C++ always the answer**.  But
+where's the fun in that?
 
 ### Nucleotide Neighborhoods in Linear Time
 
-You can read more about it here in
+You can read more about these algorithms here in
 [this post](/posts/2015-03-14-gpu-accelerated-string-neighborhood-in-linear-time.md).
 In the post, I describe using dynamic programming and a bit of
 ingenuity to write a string neighborhood algorithm for nucleotides
