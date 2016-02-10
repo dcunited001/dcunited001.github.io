@@ -216,6 +216,9 @@ Applied Category Theory:
   - like say, a rogue department of an intelligence agency or the inevitable nemisis of AI
 - how the singularity and surveillance will promote occult techniques
   - why this is good and bad
+- updates in 3D graphics for VR/AR
+  - How do 3D graphics requirements change with VR/AR?
+  - How do 3D graphics capabilities change with Metal/Vulkan?
 
 ## Anime
 
