@@ -177,6 +177,7 @@ IVVMM::::.:.:. . ... .::II:.::..:.. .. .. . . .:.:::IHH:.:HHIIHIHH':-'
     <!-- Fonts -->
     <link rel="stylesheet" href="//fonts.googleapis.com/css?family=Roboto+Condensed:300,300italic,400,400italic,700,700italic|Oswald:300,400,700">
     <link rel="stylesheet" href="//maxcdn.bootstrapcdn.com/font-awesome/4.4.0/css/font-awesome.min.css">
+    <script src="http://cdn.mathjax.org/mathjax/latest/MathJax.js?config=TeX-AMS-MML_HTMLorMML" type="text/javascript"></script>
 
     <!-- Styles -->
     <link rel="stylesheet" href="/css/style.css">
@@ -219,22 +220,20 @@ IVVMM::::.:.:. . ... .::II:.::..:.. .. .. . . .:.:::IHH:.:HHIIHIHH':-'
             <div id="navbar" class="navbar-collapse collapse">
                 <ul class="nav navbar-nav navbar-right">
                     
-                        <li>
-                            <a href="/"><i class="fa fa-lg fa-home"></i></a>
-                        </li>
+                        <li><a href="/projects">Projects</a></li>
                     
-                        <li>
-                            <a href="/projects">Projects</a>
-                        </li>
+                        <li><a href="/tags">Tags</a></li>
                     
-                        <li>
-                            <a href="/tags">Tags</a>
-                        </li>
+                        <li><a href="/about">About</a></li>
                     
-                        <li>
-                            <a href="/about">About</a>
-                        </li>
-                    
+                    <li class="navbar-social">
+                      <a href="https://github.com/dcunited001"><i class="fa fa-lg fa-github"></i></a>
+                      <a href="https://twitch.tv/dcunit3d"><i class="fa fa-lg fa-twitch"></i></a>
+                      <a href="https://youtube.com/dcunited001"><i class="fa fa-lg fa-youtube"></i></a>
+                      <a href="https://twitter.com/dcunit3d"><i class="fa fa-lg fa-twitter"></i></a>
+                      <a href="https://linkedin.com/in/dcunit3d"><i class="fa fa-lg fa-linkedin"></i></a>
+                      <a href="https://angel.co/dcunit3d"><i class="fa fa-lg fa-angellist"></i></a>
+                    </li>
                 </ul>
             </div>
         </div>
@@ -291,12 +290,15 @@ IVVMM::::.:.:. . ... .::II:.::..:.. .. .. . . .:.:::IHH:.:HHIIHIHH':-'
         <div class="container">
             <div class="row">
                 <div class="col-md-12">
-                    <p class="text-muted"> &copy; 2016</p>
+                  <p class="text-muted">
+                    dconner.pro@gmail.com&nbsp; &copy; 2016
+                    &nbsp;<a href="/feed.xml"><i class="fa fa-rss-square"></i></a>
+                    &nbsp;<a href="/atom.xml"><i class="fa fa-rss"></i></a>
+                  </p>
                 </div>
             </div>
         </div>
     </footer>
-
 
     <!-- JavaScript -->
     <script src="//ajax.googleapis.com/ajax/libs/jquery/1.9.1/jquery.min.js"></script>
@@ -308,3 +310,4 @@ IVVMM::::.:.:. . ... .::II:.::..:.. .. .. . . .:.:::IHH:.:HHIIHIHH':-'
 
     </body>
 </html>
+
