@@ -1,10 +1,10 @@
 ---
 title: "Appistack"
 type: project
-date: 2013-01-01
+date: 2015-01-01
 repo_url: "https://github.com/appistack/appistack"
 project_url: "https://dcunited001.github.io/appistack"
-categories: ['Gems']
+categories: ['Template']
 display_order: 1
 headline: A Containerized Hackathon Template
 excerpt: Appistack is a technology stack template for startups and API-driven applications. Appistack enables developers to hit the ground running with an API and single page app deployed to Heroku/Divshot in less than an hour.

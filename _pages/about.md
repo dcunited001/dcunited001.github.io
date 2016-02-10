@@ -7,6 +7,7 @@ permalink: /about/
 <div style="text-align: center;">
   <span>
     <a href="https://github.com/dcunited001"><i class="fa fa-3x fa-github"></i></a>
+    <a href="https://youtube.com/twitch"><i class="fa fa-3x fa-twitch"></i></a>
     <a href="https://youtube.com/dcunited001"><i class="fa fa-3x fa-youtube"></i></a>
     <a href="https://twitter.com/dcunit3d"><i class="fa fa-3x fa-twitter"></i></a>
     <a href="https://facebook.com/dconner.pro"><i class="fa fa-3x fa-facebook-square"></i></a>
