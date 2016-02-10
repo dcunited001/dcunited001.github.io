@@ -100,7 +100,18 @@ nav.navbar {
         }
 
     }
+
+    .navbar-right li.navbar-social {
+        padding: 0px;
+
+        a {
+            padding-left: 5px;
+            padding-right: 5px;
+            display: inline-block;
+        }
+    }
 }
+
 .title-group {
     text-align: center;
     padding: 0 15px;
