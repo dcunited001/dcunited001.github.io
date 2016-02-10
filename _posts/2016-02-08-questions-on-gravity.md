@@ -30,10 +30,60 @@ waves detectable by current means.
 
 As far as I can see, understanding gravity necessitates a shift in how
 we model space.  I've used a few thought experiments to help simplify
-the important pieces.
-Here's a few of the more profound questions escaping me at the moment.
-I wish I knew more of the math and physics to understand this more
-completely.
+the important pieces.  Here's a few of the more profound questions
+escaping me at the moment.  I wish I knew more of the math and physics
+to understand this more completely.
+
+
+> Update: I started looking further into some of the questions that I
+> asked and found that these are indeed very relevant issues to be
+> discussed.  Frustratingly, I have again found that my intuition is
+> particularly accurate here - frighteningly so, considering I dropped
+> out of university physics.  Yet, at the moment, I lack the
+> mathematics to pursue further inquiry, even though I suck it up like
+> a sponge - it's easy because every new term maps to a familiar, but
+> unnamed concept I've explored on my own.  For most of the questions
+> that I've asked, the answers have not yet been conclusively
+> determined.
+
+> I may update some of the questions in the future, to map my
+> exploration to existing concepts.  I used the word 'frighteningly'
+> above for a reason.  In particular,
+> [de Sitter Invariant Special Relativity](https://en.wikipedia.org/wiki/De_Sitter_invariant_special_relativity)
+> represents an approach to answering many issues that confounded me
+> in this article.
+> [Doubly Special Relativity](https://en.wikipedia.org/wiki/Doubly_special_relativity)
+> was another interesting topic because some of the approaches used
+> model spacetime with 'momentum space' instead of position space. I
+> didn't mention this in the article, but I got the feeling certain
+> issues with relativity can only conclusively be resolved using
+> momentum, yet I couldn't really elaborate on why that was.  Like I
+> said, it was a feeling.
+> [Quantum Geometry](https://en.wikipedia.org/wiki/Quantum_geometry)
+> is being developed to resolve how interactions are processed at
+> lengths relevant to the Planck Length, though it's implemented
+> differently for each theory of Quantum Gravity.
+
+> My point is, someone with my education shouldn't be able to
+> understand much of this, beyond the typical summarization of high
+> level information from *A Brief History of Time*. Yet, dipping into
+> the math and specific theories, I'm able to pick some of this up
+> without anyone guiding me along.
+
+> And I now understand why Quantum Gravity is so difficult. The
+> approaches are so diverse, varied and intricate. The experimental
+> evidence for Quantum Gravity isn't there, nor will it be anytime
+> soon, so all we have to go on is theory, hoping that we'll get
+> indirect clues from further experiments. The biggest missing element
+> is the quantum structure of space. If we understand that, we'll
+> understand the mechanism of gravity.  The biggest mathematical
+> challenge is that, for analogy, whereas General Relativity is an
+> Initial Value Problem (IVP), formulating Quantum Field Theory in
+> curved spacetime is like a meta-IVP.  It's like an IVP wrapping
+> another IVP, where the mathematic structures to use to resolve the
+> problem are undeterminable. That's my intuition speaking.  Resolving
+> the math is so challenging because the same spacetime curvature can
+> 'look' different from each point.
 
 ### Is there a distinction between gravity and the space it curves?
 
