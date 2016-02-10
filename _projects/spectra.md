@@ -21,4 +21,4 @@ of the Swift language to enable vibrant new graphical programming
 techniques.  Dependency Injection maximizes simplicity.  Render
 pipelines can be constructed dynamically.  Nodes in the Scene Graph
 can be flexibly interweaved.  Geometry and Compute Shaders are at the
-forefront
+forefront.
