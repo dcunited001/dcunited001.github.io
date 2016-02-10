@@ -4,7 +4,7 @@ type: project
 date: 2015-01-01
 repo_url: "https://github.com/dcunited001/skiima"
 categories: ['Apps']
-display_order: 1
+display_order: 2
 headline:
 excerpt: Voxxel is an app that scores accents and impressions of soundbytes from movies and TV. It includes an AngularJS frontend, including spectrogram animations built with HTML Canvas, D3 and WebAudio. An iOS prototype was built with Swift. An android prototype was also developed.
 author:
