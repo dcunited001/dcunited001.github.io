@@ -36,7 +36,17 @@
     {% if post.tags != empty %}
     <div class="tags">
       {% for tag in post.tags %}
-      <span><a href="/tags/{{tag}}"><i class="fa f-lg fa-tag"></i>&nbsp;{{ tag | replace: '-',' ' }}</a></span>
+      <span>
+        {% if post.type == "page" %}
+        <a href="/tags/{{tag}}">
+          <i class="fa f-lg fa-tag"></i>&nbsp;{{ tag | replace: '-',' ' }}
+        </a>
+        {% else %}
+        <a href="/tags">
+          <i class="fa f-lg fa-tag"></i>&nbsp;{{ tag | replace: '-',' ' }}
+        </a>
+        {% endif %}
+      </span>
       {% endfor %}
     </div>
     {% endif %}
