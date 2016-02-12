@@ -13,6 +13,7 @@ permalink: /about/
     <a href="https://facebook.com/dconner.pro"><i class="fa fa-3x fa-facebook-square"></i></a>
     <a href="https://linkedin.com/in/dcunit3d"><i class="fa fa-3x fa-linkedin"></i></a>
     <a href="https://angel.co/dcunit3d"><i class="fa fa-3x fa-angellist"></i></a>
+    <a href="https://livecoding.tv/dcunit3d"><i class="fa fa-3x fa-code"></i></a>
   </span>
 </div>
 
