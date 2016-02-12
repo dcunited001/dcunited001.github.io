@@ -565,7 +565,57 @@ topics to research:
 - order of events in the bible
 - epic of gilgamesh (plot, themes, timeline and inspiration from the early world)
 - relationship b/w sumeria and harrapans
-  - trading with sumerians as early as 3,500BC (from crash course video)
+  - trading with sumerians as early as 3,500BC (from crash course
+    video)
+
+the harrapan culture that created "the plan":
+- a segment of harrapan culture in the himalayan steppes
+  - close to the mouth of the indus river
+  - a civilization that witnessed many of their neighbors' societies
+    perish in floods, leaving no trace
+- this society become wise enough to understand the cause of the
+  floods.  they knew that the causes behind them would not last
+  forever
+  - they identified a location that would provide water and sustenance
+    but was mostly guarded from flooding damage
+    - they intentionally picked a place that was high in the mountains
+      because it would be nearly impossible to invade.
+    - thus, their culture and the cultures they studied and protected
+      would be shielded from the chaos of warfare
+  - from here, they developed a plan to prevent such widespread loss
+    of culture. to them, nothing was more tragic than the
+    disappearance of culture.  nothing, except the subversion of it.
+    - was their choice to disappear a response to subversion by
+      conquerors?
+    - or was it because they were afraid that knowledge of their
+      society would lead back to knowledge they were trying to protect
+      the world against? i.e. leading humanity to a premature
+      discovery of 'the plan' or of forbidden maths.
+  . also, from here, high up in the world, they observed cultures rise
+      and fall, languages grew and subsided while their culture
+      persisted
+  - they also understood the curse of overpopulation and, by learning
+    the highest of maths, they understood the inevitable progression
+    of technology into artificial intelligence.
+    - this insight was accessible since well before the first
+      mechanical computers.  all that is necessary is the knowledge
+      that it is possible for a machine or even a system to be created
+      in the image of man's mind.
+    - from their wisdom, knowing this and knowing the heart of man,
+      they determined that the development of such an artificial mind
+      could lead to utopia or to the enslavement of mankind
+- and to protect against overpopulation, they determined that
+  disasters early in man's history would be more effective in staving
+  off the dangers of overpopulation
+  - should i continue describing this aspect of overpopulation?  it's
+    pretty fucking grim. nothing good would come of people knowing the
+    truth
+- anyways, the development of a plan to ensure the survival of mankind
+  began. it became known to them ....
+  - they developed protocols to be preserved unconsciously through
+    mythology
+    - protocols for propagating information back to 'the origin,'
+      though the origin was hardly intended to be a physical place
 
 harrapan technology:
 - some homes were connected to a centralized drainage system that used gravity to carry waste
