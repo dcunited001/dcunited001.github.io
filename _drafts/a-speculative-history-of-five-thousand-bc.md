@@ -13,13 +13,6 @@ excerpt:
 
 message dr anderson
 
-The importance of geography in the early world.
-- surveying (especially elevation, during a chaotic time)
-- astrology as a coordinate system for locating oneself
-- mythology as a means of preserving knowledge
-  - but also for fostering a purpose in a violent world with lots of suffering
-  - and for cultivating trans-generational strategies for improving the human condition
-
 Lets be real, up to this point, humanity has been sticking to the
 rivers and lakes that it's used to.  But that's all about to change.
 Things are starting to heat up.  Literally.
@@ -364,70 +357,106 @@ hoarded some critical knowledge for themselves, either about the
 processes the group required to create value or about their methods of
 leadership.
 
+The earliest evidence of copper mining is in Timna Valley, in southern
+Israel, dating back to 7,000 BC to 5,000 BC.  The
+[Vinča culture](https://en.wikipedia.org/wiki/Vin%C4%8Da_culture)
+culture, that occupied the Balkans in the 5th and 6th millenia, was
+one of the first that practiced copper metallurgy. The largest of
+their settlements would have accommodated several thousand
+people. Their culture produced the widely known
+[Tărtăria tablets](https://en.wikipedia.org/wiki/T%C4%83rt%C4%83ria_tablets),
+which IMO, are not legit.  Or at least, not indicative of written
+language.  At most, they indicate proto-language, but there's a lot of
+controversy surrounding these, including the fact that the clay
+tablets were baked after discovery in 1961 to "preserve" them,
+preventing carbon dating. They easily could have kept samples for
+carbon dating.
 
-
-
-- Through trade, metal tended to gravitate through other limited
-  conduits of value. By conduit of value, I mean a type of product
-  taht ... nevermind, metal used as money. so it's trade was widely
-  dispersed.  whereas conduits of value applies mostly to other
-  products.
-  - So, because the number of goods to trade was limited and because
-    the sources of those goods were limited, each type of good would
-    disperse predictably throughout the world.
-  - The location of resources were not the same as the ideal location
-    for agriculture.  In many cases, agriculture was not practical.
-
-- does this mean that a majority of artifacts would have been lost
-  in deluge like events.
+- does this mean that a majority of artifacts would have been lost in
+  deluge like events.
   - maybe address this in the deluge section
 
+### Origin of Religion
 
-### notes about seafare and trade
+Without widespread, organized religion, there were no other ideological
+causes for warfare at this point in history. Without the cultural
+infrastructure to spread religion or without the need for a
+specialized class of people who can afford to hang out and tend to
+religious affairs, religion had a tough time gaining a
+foothold. There's no mechanism for organized religion to spread and it
+offers no benefits in the late neolithic, nor was there any cultural
+apparatus to enforce religious beliefs.
 
-- It's thought that humanity has been in the seas since before the end
-  of the ice age.
+At this point, religion was mostly limited to tribal belief systems
+that attempted to explain natural phenomena or preserve knowledge
+useful for survival.  Similar to the fluid nature of language
+discussed in part one, religious beliefs were also ephemeral.  That
+is, they came and went.  No one had a concept of a singular, universal
+god.  Instead, they sought to attribute natural phenomena to deities
+in an attempt to understand them.  Gods in ancient times were
+perceived so differently than they are now, that I would say we should
+use a different word to accurately describe the meaning.  They were
+moreso a means of organizing knowledge about the world when there were
+no other abstractions that could be used as touchstones. In contrast,
+in more recent times, we have personified gods and deities. Instead of
+being a lens through which to understand the world, they morphed into
+all-powerful beings who demand our obedience.  And why?  Because it's
+useful as a tool of leadership.
 
+It was only when one belief system conferred significant evolutionary
+advantage, that a religion would take off and become widespread.  And
+I mean both cultural and informational evolutionary advantages, but
+not genetic.  This means that the belief system had significant growth
+vectors and more importantly, it offered some benefit to the
+society. There was some significant demonstrative or believable value
+in adhering to this system.
 
-religion
-- without widespread religion there are no ideological causes for warfare
-    - and again, without the cultural infrastructure to spread religion
-      - and without a class of people who can afford to hang out and tend to religious affairs
-    - there is no way for organized religion to spread,
-      - nor is there really any cultural apparatus to enforce religious beliefs
-    - so, there was no widespread religion,
-      - and similar to the fluid nature of language discuss in part one
-      - religions were 'ephemeral.' that is, they came and went.  they were moreso tribal.
-      - it was only when one belief system conferred significant evolutionary advantage that it took off
-        - and i mean informational evolutionary advantage, not genetic.
-        - this means that the belief system had significant growth vectors
-          - AND more importantly, it offered the adherents so advantage
-        - that is, there was some significant demonstrative or believable value in adhering to this system
-- but religion quickly enters the picture,
-  - as people witness more and more phenomena they can't explain, they seek explanation
-  - and the people who can explain, especially those who can harness said inexplicable phenomena
-    - begin to enjoy their newfound power
-    - it is at this point that some people begin to realize just how stupid other people are
-    - this shaman or priest class begins to understand that it doesn't just matter how they explain things
-      - or whether the explanations are even true at all
-      - it turns out, for the most part,
-        - the only thing that matters is whether people believe their explanations
-    - at this point, the priest class begins to separate itself from the rest of society
+But organized religion quickly enters the picture, as soon as there is
+enough of a stable, localized economy to warrant further social
+stratification, leaders begin creating belief systems as a means of
+socialization for new generations.  As people witness more and more
+phenomena they can't explain, they naturally seek explanation.  And
+the people who can explain, especially those who can harness said
+inexplicable phenomena, begin to enjoy their new found power. This
+shaman or priest class begins to understand that it doesn't just
+matter how they explain things, or whether the explanations are even
+true at all.  It turns out, for the most part, the only thing that
+matters is whether it appears that people believe their explanations.
+At this point, the priest class begins to separate itself from the
+rest of society.
 
-- the knowledge of good and evil
-  - this is not simply the knowledge of the existance of good and the existence of evil
-    - neither is it really the loss of our innocence, per se.
-  - the knowledge of good and evil is the knowledge of *how to use* **good** and **how to use** *evil*
-    - in order to accomplish one's goals.
-    - especially in the sense that one becomes aware of how others will perceive an action
-  - the more abstract our knowledge of the world grew,
-    - the more that abstract knowledge could be used to confer one an advantage over others for good or ill
-  - fairly quickly on, those with significant knowledge began to understand
-    - just how powerful both knowledge and information were.
-    - so they learned to horde it.
-      - that anything leaking from the priest or ruling class was incredibly dangerous to themselves
-    - these same people feared technological innovations,
-      - because they understood how to control the status quo
+This happens so often with religions, by the way. There are many cases
+of a religion preaching openness and offering to teach others how to
+access their divine spark.  The preach that through them, their
+followers can come to understand the nature of the universe and come
+to know God. Then, typically after a one or two generations, the true
+knowledge of the religion is esoterically sealed away from the masses
+and only accessible after a lifetime of piety as a priest. The priest
+class uses their system of stratification to lock away the truth for
+themselves, typically to maintain or create power. In doing so, they
+prevent most common people from obtaining true spiritual freedom.
+Instead they create a mechanism whereby they sell access to a placebo
+for spirituality, acting as gatekeepers who prevent all but a few
+carefully filtered adherents from ever knowing the truth.
+
+To me, the knowledge of good and evil is not simply the knowledge of
+the existence of good and the existence of evil. That is, this doesn't
+represent man's discovery of evil or sin.  Neither is it really the
+loss of our innocence, per se.  Instead, the knowledge of good and
+evil is the knowledge of _both_ *how to use* **good** and **how to
+use** *evil* in order to accomplish one's goals, and especially in the
+sense that one becomes aware of how others will perceive an
+action. The more abstract our knowledge of the world grew, the more
+that abstract knowledge could be used to confer an advantage over
+others for good or ill.  Fairly quickly, those with significant
+knowledge began to understand just how powerful both knowledge and
+information were.  So they learned to horde it because anything
+leaking from the priest or ruling class was incredibly dangerous to
+themselves.  So therefore, they designed a system to control the
+populace by controlling the perception of what was good and what was
+evil. These same people feared technological innovations because they
+understood how to maintain the status quo, but were afraid of what
+they didn't understand.
 
 ### The Deluge(s)
 
@@ -498,8 +527,6 @@ culture, usually fairly advanced that lay in the far north.  The
 greeks called it Hyperborea.  Doggerland fits many of these myths.  It
 was violently flooded by a tsunami triggered by a massive glacial
 event called the Storegga Slide.
-
-
 
 
 
@@ -652,6 +679,27 @@ flooding of the Persian gulf during this time
   - a third group would begin occupying higher and higher ground
     - along the coastline from Kuwait to Oman to Yemen
 
+
+
+### notes about seafare and trade
+
+
+- It's thought that humanity has been in the seas since before the end
+  of the ice age.
+  - hypothesis for how humans reached australia?
+- mention how seafare contributes to geography, astronomy & mythology
+
+https://en.wikipedia.org/wiki/Ancient_maritime_history#Maritime_prehistory
+
+The importance of geography in the early world.
+- surveying (especially elevation, during a chaotic time)
+- astrology as a coordinate system for locating oneself
+- mythology as a means of preserving knowledge
+  - but also for fostering a purpose in a violent world with lots of suffering
+  - and for cultivating trans-generational strategies for improving the human condition
+
+
+
 sumerian creation myth (1600 BC)
 
 - babylonians tracked jupiter with sophisticated geometrical math
@@ -661,6 +709,9 @@ sumerian creation myth (1600 BC)
 
 development of mythology
 - gilgamesh
+
+
+### part 3 stars here
 
 
 
@@ -777,6 +828,7 @@ preface the article by defining how this is 'speculative history'
 - state that it couldn't be true
   - for the same reason that batman couldn't hang out with the xmen
   - save for part 3
+
 
 
 
