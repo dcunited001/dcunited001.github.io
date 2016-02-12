@@ -372,10 +372,6 @@ tablets were baked after discovery in 1961 to "preserve" them,
 preventing carbon dating. They easily could have kept samples for
 carbon dating.
 
-- does this mean that a majority of artifacts would have been lost in
-  deluge like events.
-  - maybe address this in the deluge section
-
 ### Origin of Religion
 
 Without widespread, organized religion, there were no other ideological
@@ -456,7 +452,16 @@ themselves.  So therefore, they designed a system to control the
 populace by controlling the perception of what was good and what was
 evil. These same people feared technological innovations because they
 understood how to maintain the status quo, but were afraid of what
-they didn't understand.
+they didn't understand.  And once humanity had proverbially eaten of
+the fruit of the tree of knowledge, we learned how to control others.
+We developed an economy based on specialization and created layers of
+social stratification, but we inadvertently created a world that no
+longer offered abundance.  In essence, we built a house of cards that
+required that people to be imbued with desire for material to be
+compelled to contribute to the system.  The further we retreated from
+nature, the more we were allured by the promise of completely escaping
+its harsh reality.  Yet, the more complicated our societies became,
+the more disparate the conditions were for various social strata.
 
 ### The Deluge(s)
 
