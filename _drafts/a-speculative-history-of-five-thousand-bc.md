@@ -139,21 +139,350 @@ or will, even beyond death.  Systematized forms of writing beyond art
 were not developed until the end of Copper Age or the beginning of the
 Bronze Age.
 
-### Flooded regions.... TODO: fix title
+### The Origins of Conflict
+
+Human conflict doesn't seem common until the mid copper age, at least
+not on a scale pitting one society against another in an organized
+way.  It wouldn't become very common until the bronze age because the
+factors that make warfare appealing for survival or political purposes
+don't quite exist yet.  There are some exceptions.  Conflict on a
+small scale may have been somewhat common in the neolithic, as this
+[article](https://www.theguardian.com/science/2016/jan/20/stone-age-massacre-offers-earliest-evidence-human-warfare-kenya)
+discusses a 10,000 BP dig finding violence leaving dozens dead.
+Hardly warfare, IMO.
+
+First off, think about warfare in the late neolithic.  It's hard.
+Yeh, you've got arrows, but the range is only a hundred yards, maybe.
+That doesn't give you much of an advantage in time before the
+otherside reaches you and then, the best weapons are spears and rocks.
+Also, not great weapons. I mean, if you want to disable someone with a
+spear, you've got to hit the guy a couple times and what if he just
+breaks your wooden spear?  Just snaps it in half.  What are you going
+to do? And you can't carry very many weapons.  They're heavy and no
+one knows how to make good ones.  Or what if he takes one of the few
+weapons you can carry with you and stabs you with it.  That's gonna
+hurt and you're probably going to get an infection and die.
+
+Have you ever had to kill someone with a rock?  Like a really big
+rock?  Can you imagine how grotesque that would be?  If you have to
+kill someone with a gun, it's not very hard.  You can sort of look the
+other way and squeeze real hard and it's over.  You've done it, one
+quick action and you've completed your mistake and you can get on with
+guilt and whatnot.  But a rock?  You've just got to keep bashing and
+bashing and it's really just a more emotional experience.  And you
+can't convince dozens of people to fight each other with rocks.  Just
+not going to happen.
+
+So you see.  Warfare's just not a good idea right now.  It's hard to
+kill people.  And like other things at this point, people just aren't
+very good at it yet.  There's no armor or anything and there's no
+guarantee that you won't get killed yourself.  It's really a coin
+toss.  There's no reassuring feeling that your technology is going
+give you a nice clean win and therefore, it's also hard to convince
+hundreds of others to go along with you.  This brings me to my next
+point.
+
+There aren't very many people at this point.  The world was harsh,
+unforgiving, but bountiful.  Therefore, cooperation was much more
+rewarding than warfare.  You could protect yourself from risk and
+harsh conditions by cooperating.  The benefits reaped from this
+cooperation for mutual benefit far outweighed those a group would
+receive by attacking another group.  And those benefits would be
+negligible - there were no resources worth accumulating.  Therefore,
+there were no resources accumulated.  Most food spoiled, agriculture
+was limited.  There was limited trade, except for leather and
+obsidian.  Beginning with the copper age, people began trading the
+eponymous copper, as it was malleable.  But would any of this motivate
+conflict?  Hardly.
+
+Without accumulated resources and especially without money (read: gold
+and copper) there was no significant financial benefit for warfare.
+What are you going to do - murder Abel and take his sticks?  As
+technology proliferates, so do accumulated resources.  As small
+villages crop up, these advertise the location of accumulated
+resources.  Suddenly, the idea of someone having something worth
+taking steps into the forefront.  Meaning, if you were a hunter
+gatherer tribe facing a hard winter with no food in 20000 BC, you
+almost never would have encountered an opportunity to provide for
+yourself by stealing from another tribe.  Because people were
+migratory, with a few exceptions, it would be very difficult to
+determine their location.  When people build towns, they would be
+vulnerable to theft and raids, which may be one factor contributing to
+nomadic societies.
+
+When I say money, at this point, I mean gold and copper.  Silver
+wasn't really a thing, as it had to be separated from lead.  Lead
+would be moderately useful, but needs to be headed to about 300&#176;C
+to separate it from it's constituent materials, commonly including
+silver.  Gold was exceedingly rare throughout the world, but copper
+deposits can be found all through out Anatolia and it's surrounding
+regions. Tin was very rare and European deposits were mostly located
+in Spain, preventing the discovery of bronze.
+
+> Swords to plowshares. Far from the intended meaning of the phrase,
+> it implies the double-edged nature of technology: the same
+> tech can be used for good or evil.
+
+Metallurgy means people can make more efficient weapons and
+agricultural tools. However, it is doubtful that, at least in the
+beginning, people thought of what was used as money as a separate
+thing called money.  It's just in the nature of copper that it was so
+useful to everyone that it embodied **pre-historic liquidity.**
+Because everyone knew that everyone needed or wanted metallic stuff,
+primarily copper, then they'd anticipate they could use it as a medium
+to barter with everyone else. Therefore, as a store of value, copper
+was great.  Even if you didn't want it, you knew that someone else
+needed it.
+
+Without accumulated resources, controlled trade and money, there is
+are no taxes either. Without taxes, there's no dedicated government of
+any respectable size.  With no taxes and no government, it's really
+hard to systematically coordinate people's lives.  And organizing a
+large population to start war?  Forget about it.  When hundreds of
+people start colocating in small towns, it's much easier to convince
+people to pay taxes and to find prospective soldiers for defense or
+war.  But without taxes, you're not going to convince anybody to risk
+their life in your war, outside perhaps minor skirmishes over
+resources.  What's in it for them? Without societies of significant
+size, there's no abstraction or specialization of tasks.  War of any
+scale means a significant portion of men leaving the fields.  This is
+a huge problem for societies with low population.
+
+And to sum up, I'm sure there was localized conflict up to 6,000 BC.
+But for the most part, it wasn't organized beyond perhaps a few dozen
+people.  The reason is just that the causes of human conflict aren't
+there yet.  There's no benefit to war and people just aren't capable
+of doing it without significant risk of mortal injury.  There is no
+resource over-consumption to drive conflict and population is
+constrained.
+
+### Metallurgy ... Or How How Can We Make Fire?
+
+As I've already stated, metallurgy is perhaps the most important
+development for mankind, outside of written language.  It's important,
+as the availability of metals is perhaps the single most limiting
+factor for the proliferation of technology. Copper and Bronze Age
+civilizations grew and fell based on the geographic distribution of
+metal.  And so, here you can see the hands of fate.  These seemingly
+arbitrary factors that determine the course of history.
+
+More than just providing stabby things and protecting oneself from
+said stabby things, metal furthers the sense of self, as it provides a
+medium for the development of art.  Up to this point, humanity's been
+limited to carvings, which deteriorate fast, or painting with blood
+and pigments.  But metal, that lasts.  And copper is malleable.  It
+allows us to create art, to express and communicate ideas to others.
+And because metal lasts, these ideas can be transferred between
+generations.
+
+> And this is a really important idea: the persistence of knowledge
+> through generations. The length of time that an idea lives on -
+> particularly the number of generations. It's not just important as a
+> growth factor in the infancy of humanity.  It's also relevant to us
+> today.  If you can increase the number of subsequent generations
+> from 1 to 2, elements of culture are far more likely to stick
+> around.  This is just as relevant today.  In communist regimes, they
+> often go for the older generations to eradicate ideas and rewrite
+> history.
+
+Once people discovered that metal could melt through the application
+of heat, they probably tried burning lots of things.  As villages
+became bigger and trade routes extended further, people's interest in
+burning things remained steadfast.  They wanted to burn more things,
+exotic things they'd never seen before were best.
+
+> What would happen if we burned this new green rock?  Would that
+> melt?  Hopefully it didn't explode.
+
+Perhaps more important than finding new things to burn was finding
+something which could burn hotter.  This opened new doors for
+metallurgy.  Some materials became standard candles for measure of
+heat and primarily: galena and copper. Galena contains silver and
+lead. It must be heated to ~300&#176;C to be separated.  Copper ores
+must be heated to around ~1100&#176;C to separate, but fortunately
+copper could be found on its own.  Materials like these who's melting
+points were commonly known were incredibly useful for identifying new
+techniques for burning things even hotter.  Of course, the melting
+points were not known, as there was no standardized means of measuring
+temperature.  However, it was known that one thing would consistently
+melt before another and that melting some materials required specific
+techniques.
+
+Because there was a financial incentive in converting raw ore to
+constituent materials, the development of new smelting techniques was
+sought after. They used water to cool rocks, weakening them so they
+could be easily smashed to obtain ore and developed many other
+interesting techniques to process materials.  People who were able to
+mine and process ore accumulated valuable materials for trade. Perhaps
+more valuable than the metals themselves was the financial incentive
+they gave humanity to discover more about our world.
+
+Materials that burned hotter would be very interesting, especially
+oil.  While we would not understand the specific natural laws that
+determined chemical properties, some of us would understand that
+energy was naturally contained in various materials to varying
+degrees.  We would observe that different kinds of woods burned hotter
+and that fire burned hotter with increased airflow or when the air was
+concentrated and contained.  Therefore, similarly to ordering
+materials by their melting point, we would also similarly assess
+combustible materials by their energy density, without knowing what
+that concept is scientifically.
+
+And if cultures came into contact with significant amounts of oil,
+they would certainly recognize both its energy density and value.  Far
+and beyond most other natural materials, oil has an abundance of
+energy.  Unlike some other natural materials with high energy density,
+it is fairly accessible.  However, it's use would have been greatly
+restricted by availability and discoverability.  We just wouldn't be
+able to consistently find it.  Therefore, provided that both its
+scarcity and uniquely high energy density were knowable, I conclude
+that ancient alchemists would have considered it to be extremely
+valuable and chemically similar to other natural oils. If we did
+realize its value, we wouldn't have done so until the first or second
+millenia BC because we wouldn't have the alchemic knowledge, nor the
+ability to know it's global scarcity.
+
+> Oh, that oil stuff?  Yeh, we have a ton of it. What do you mean
+> you've never seen it before? The stuff burns hotter than anything
+> else we know of, ounce for ounce. We can't figure out what to do
+> with it though.  We're gonna call it
+> [naphtha](https://en.wikipedia.org/wiki/Naphtha). You swear you've
+> never seen it before though? That shit burns in water! No, I'm not
+> lying. Yeh, in water, you know, the splashy stuff. Yeh, we got a ton
+> of it.
+
+Mining and metallurgy was also important because they were
+remunerative activities that required further development of
+specialization and management of logistics.  Agriculture was similar
+in this regard.  It was much more useful to develop specialized roles
+and distribute work than for each person to do it all themselves.  And
+because mining and metallurgy involved the accumulation of large
+stores of value, this necessitated leadership.  Someone had to take
+charge.  More importantly, that person had to justify why someone
+should take charge and prove why it should be them.  Usually, they
+hoarded some critical knowledge for themselves, either about the
+processes the group required to create value or about their methods of
+leadership.
+
+
+
+
+- Through trade, metal tended to gravitate through other limited
+  conduits of value. By conduit of value, I mean a type of product
+  taht ... nevermind, metal used as money. so it's trade was widely
+  dispersed.  whereas conduits of value applies mostly to other
+  products.
+  - So, because the number of goods to trade was limited and because
+    the sources of those goods were limited, each type of good would
+    disperse predictably throughout the world.
+  - The location of resources were not the same as the ideal location
+    for agriculture.  In many cases, agriculture was not practical.
+
+- does this mean that a majority of artifacts would have been lost
+  in deluge like events.
+  - maybe address this in the deluge section
+
+
+### notes about seafare and trade
+
+- It's thought that humanity has been in the seas since before the end
+  of the ice age.
+
+
+religion
+- without widespread religion there are no ideological causes for warfare
+    - and again, without the cultural infrastructure to spread religion
+      - and without a class of people who can afford to hang out and tend to religious affairs
+    - there is no way for organized religion to spread,
+      - nor is there really any cultural apparatus to enforce religious beliefs
+    - so, there was no widespread religion,
+      - and similar to the fluid nature of language discuss in part one
+      - religions were 'ephemeral.' that is, they came and went.  they were moreso tribal.
+      - it was only when one belief system conferred significant evolutionary advantage that it took off
+        - and i mean informational evolutionary advantage, not genetic.
+        - this means that the belief system had significant growth vectors
+          - AND more importantly, it offered the adherents so advantage
+        - that is, there was some significant demonstrative or believable value in adhering to this system
+- but religion quickly enters the picture,
+  - as people witness more and more phenomena they can't explain, they seek explanation
+  - and the people who can explain, especially those who can harness said inexplicable phenomena
+    - begin to enjoy their newfound power
+    - it is at this point that some people begin to realize just how stupid other people are
+    - this shaman or priest class begins to understand that it doesn't just matter how they explain things
+      - or whether the explanations are even true at all
+      - it turns out, for the most part,
+        - the only thing that matters is whether people believe their explanations
+    - at this point, the priest class begins to separate itself from the rest of society
+
+- the knowledge of good and evil
+  - this is not simply the knowledge of the existance of good and the existence of evil
+    - neither is it really the loss of our innocence, per se.
+  - the knowledge of good and evil is the knowledge of *how to use* **good** and **how to use** *evil*
+    - in order to accomplish one's goals.
+    - especially in the sense that one becomes aware of how others will perceive an action
+  - the more abstract our knowledge of the world grew,
+    - the more that abstract knowledge could be used to confer one an advantage over others for good or ill
+  - fairly quickly on, those with significant knowledge began to understand
+    - just how powerful both knowledge and information were.
+    - so they learned to horde it.
+      - that anything leaking from the priest or ruling class was incredibly dangerous to themselves
+    - these same people feared technological innovations,
+      - because they understood how to control the status quo
+
+### The Deluge(s)
 
 Almost every culture has a story about a catastrophic flood that
 nearly destroyed humanity. Many of these also feature a Noah figure,
 whom they divine had influenced to craft an ark and preserve animal
 life.  IMO, the animals moreso symbolize the preservation of culture
 and knowledge here, whereas the ark symbolizes the preparation of a
-small, but wise group of people.  In this world, these flooding events
-were rare, especially regionally.
+small, but wise group of people.  In many of the stories, such as
+Gilgamesh and the Sumerian flood epic, the flood is presented as a
+conspiracy of the gods against humanity, who is only saved through the
+disobedience of one of those gods.  Obviously, the myth can't be
+presented in that way in Abrahamic religions, as there is only one
+God.
 
-- But they were so destructive that no one would ever forget
-  - and they developed these myths as a means to ensure that future generations would be prepared
-  - many cultures would propagate these myths to adjacent cultures
-- and here, i feel like the group symbolized by a Noah figure was prepared to deal with this
-  - minor seismic events may have preceded previous events by weeks or months, if the flooding was glacial
+These floods significantly slowed our cultural development, as
+they typically knocked out the most fertile and likely to be
+development settlements: those located around water. The events would
+destroy most of the culture that had developed in a region and only
+the people far outside of irrigable land would survive.
+
+In this world, these flooding events were rare, especially
+regionally. But they were so destructive that no one would ever
+forget.  Any history was limited by the persistence of memory. The
+survivors developed these myths as a means to ensure that future
+generations would be prepared to preserve culture in case of another
+widespread disaster.  The survivors of an event like this might not
+have been able to preserve what was lost, but they were well aware of
+the scope of what was lost.
+
+The response became an obsession with preventing such loss of culture,
+which wasn't only experienced through the wrath of God, but also
+commonly experienced through limited warfare.  Those who built
+something and accumulated resources worth envy would need to develop
+adequate defense against their society being dismantled, physically
+and metaphysically.  One of the tools against this dismantlement is
+the development of myth, which ensures that cultural archetypes and
+programs survive, even if the majority of your buildings and people
+don't.  Another tool against this is simply building things so big,
+people couldn't tear them apart.  This is why Egyptians entombed their
+prized possessions and designed them to be hidden for millennia.  I
+believe that the desire to begin building monoliths was, in part,
+inspired by the pain of losing everything time and time again.  To
+flood and to warfare.  The power to control history by dismantling
+other cultures or ideas would already be well experienced in various
+levels of society.
+
+
+
+
+
+
+
+
+- minor seismic events may have preceded previous events by weeks or months, if the flooding was glacial
 
 
 
@@ -246,8 +575,6 @@ depth of +1000m and into the Black Sea.  On further reading, there is
 a warm current flowing in the opposite direction from the Black Sea
 into the Marmara.  This current likely draws cold, salty water up
 by convection as it enters the Marmara.
-
-
 
 
 transition from outburst floods
@@ -395,75 +722,6 @@ archetypes:
 - sunken continent, lost civilization
 - deluge/flood/disaster & vengeful god
 
-human conflict:
-- doesn't seem common until the bronze age
-  - because killing someone is inefficient and grotesque without metallic weapons
-    - have you ever thought about how painful it would be to kill someone with a rock?
-      - that would suck
-    - i guess you could use a spear or something, but still.  inefficient
-      - you really gotta hit the guy multiple times.
-        - what if he breaks your wooden spear.  just snaps it in half?
-      - or what if his spear is bigger?
-    - really, at this point in time, killing people is hard
-      - and like most other things, people just aren't very good at it yet
-  - without money and controlled trade and accumulated resources,
-    - there is no significant financial benefit to doing so
-      - what are you going to do?  murder Abel and take his sticks?
-    - as technology increases, so do accumulated resources
-      - for neolithic through bronze age civs,
-        - metallic resources can be reprocessed and repurposed
-    - without accumulated resources, trade and money, there are no taxes
-    - without taxes, there is no dedicated government of any respectable size
-    - with no taxes and no government,
-      - it's really hard to systematically coordinate a population to start war
-    - a war of any scale means a significant portion of men leaving the fields
-      - this is a significant problem for societies with low population
-  - out of control populations are not as much of a problem
-    - neither is resource over-consumption
-  - and don't get me wrong, i'm sure there was some conflict,
-    - but that it was localized conflict
-      - and for the most part, it wasn't organized beyond perhaps a few dozen people
-
-religion
-- without widespread religion there are no ideological causes for warfare
-    - and again, without the cultural infrastructure to spread religion
-      - and without a class of people who can afford to hang out and tend to religious affairs
-    - there is no way for organized religion to spread,
-      - nor is there really any cultural apparatus to enforce religious beliefs
-    - so, there was no widespread religion,
-      - and similar to the fluid nature of language discuss in part one
-      - religions were 'ephemeral.' that is, they came and went.  they were moreso tribal.
-      - it was only when one belief system conferred significant evolutionary advantage that it took off
-        - and i mean informational evolutionary advantage, not genetic.
-        - this means that the belief system had significant growth vectors
-          - AND more importantly, it offered the adherents so advantage
-        - that is, there was some significant demonstrative or believable value in adhering to this system
-- but religion quickly enters the picture,
-  - as people witness more and more phenomena they can't explain, they seek explanation
-  - and the people who can explain, especially those who can harness said inexplicable phenomena
-    - begin to enjoy their newfound power
-    - it is at this point that some people begin to realize just how stupid other people are
-    - this shaman or priest class begins to understand that it doesn't just matter how they explain things
-      - or whether the explanations are even true at all
-      - it turns out, for the most part,
-        - the only thing that matters is whether people believe their explanations
-    - at this point, the priest class begins to separate itself from the rest of society
-
-- the knowledge of good and evil
-  - this is not simply the knowledge of the existance of good and the existence of evil
-    - neither is it really the loss of our innocence, per se.
-  - the knowledge of good and evil is the knowledge of *how to use* **good** and **how to use** *evil*
-    - in order to accomplish one's goals.
-    - especially in the sense that one becomes aware of how others will perceive an action
-  - the more abstract our knowledge of the world grew,
-    - the more that abstract knowledge could be used to confer one an advantage over others for good or ill
-  - fairly quickly on, those with significant knowledge began to understand
-    - just how powerful both knowledge and information were.
-    - so they learned to horde it.
-      - that anything leaking from the priest or ruling class was incredibly dangerous to themselves
-    - these same people feared technological innovations,
-      - because they understood how to control the status quo
-
 black sea settlements? research
 - apparently a glacial deluge here?  it's a hypothesis, but i think a reasonable one
 
@@ -526,15 +784,6 @@ preface the article by defining how this is 'speculative history'
 
 development of the plan
 
-
-origins of metallurgy and whatnot
-- metallurgy furthers the sense of the self
-- the importance of metallurgy in developing abstract ideas and art
-  - joke about "mobile" art app
-- how hot can we make fire?
-  - melting various metals as a measure of heat and to quantify energy
-  - knowledge of energy contained within sources
-    - availability/scarcity of materials with significant levels of energy
 
 
 ### 3,000 BC
@@ -603,7 +852,7 @@ the harrapan culture that created "the plan":
       in the image of man's mind.
     - from their wisdom, knowing this and knowing the heart of man,
       they determined that the development of such an artificial mind
-      could lead to utopia or to the enslavement of mankind
+      could lead to utopia or to the destruction of mankind
 - and to protect against overpopulation, they determined that
   disasters early in man's history would be more effective in staving
   off the dangers of overpopulation
