@@ -390,6 +390,12 @@ tell us more about the nature of space when a singularity forms, since
 prior to that the massive object has volume and will be decomposed
 into a singularity in a chain reaction.
 
+> **Update**: Determining the state of space between two black holes
+> at the last moment before their merger is discussed as the
+> [Final Parsec Problem](https://en.wikipedia.org/wiki/Binary_black_hole#The_final-parsec_problem)
+> problem.  It's tough to get models of binary black holes to get
+> close enough to merge.
+
 ### Dark Matter's Incoherent Doppler Shift
 
 The Ars Technica article discusses unexpected low-energy gamma rays,
