@@ -1,5 +1,4 @@
 main:
-    - { url: '/', text: '<i class="fa fa-lg fa-home"></i>' }
     - { url: '/projects', text: 'Projects' }
     - { url: '/tags', text: 'Tags' }
     - { url: '/about', text: 'About' }
