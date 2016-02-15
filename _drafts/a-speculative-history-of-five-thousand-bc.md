@@ -602,7 +602,7 @@ a warm current flowing in the opposite direction from the Black Sea
 into the Marmara.  This current likely draws cold, salty water up
 by convection as it enters the Marmara.
 
-
+[Naratuk: warfare from 10,000 BC](https://www.theguardian.com/science/2016/jan/20/stone-age-massacre-offers-earliest-evidence-human-warfare-kenya)
 
 transition from outburst floods
 

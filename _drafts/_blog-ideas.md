@@ -257,6 +257,16 @@ Applied Category Theory:
   - if the universe is 13.7 billion years old and we're not in the center of it, then there should be some space beyond which we see nothing.  if not, the big bang can't be true.
 - relate hallucinogens with google's dreaming neural networks
 
+## Physics
+
+- Quantum Gravity & Doubly Special Relativity
+  - instead of being based on Position Space
+  - it is based on "Momentum Space," which is similar to a vague aha moment I had
+    - where i felt that, for some reason, the curvature of space would have something to do with momentum
+      - if some kind of invariance were to be preserved between 3+ observers 
+        - (i think this was the line of thought i was following)
+
+
 ## Art
 
 - Art that I own and why I would never sell it
