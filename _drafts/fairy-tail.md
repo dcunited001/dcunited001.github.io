@@ -260,3 +260,22 @@ a wandering mage in a new land happens to meet a traveling girl
   - TODO: dream content
 
 - princess's reaction to dream(s)?
+
+
+
+==================
+
+misc scene ideas:
+
+- mage is traveling, but alone. he visits a small twon where a school of 
+  magic is based.  he's in pretty bad shape (but not that bad, just doesn't 
+  have much money)
+  - he's learning a new form of magic and really doesn't want to pay 
+    attention to anything else at the moment 
+
+
+
+
+
+
+
