@@ -27,17 +27,17 @@ But I've designed it in such a way that it is easy for users to pick up the basi
 
 ## Declarative | Composable | Functional
 
-### 3D Graphics with a first-party, strongly typed functional language. 
+#### &#x2605; 3D Graphics with a first-party, strongly typed functional language. 
 
-### Everything is declarative - from render pipelines to assets and meshes. 
+#### &#x2605; Everything is declarative - from render pipelines to assets and meshes. 
 
-### Everything you need is accessible through dependency injection.  
+#### &#x2605; Everything you need is accessible through dependency injection.  
 
-### Everything is composable, with a focus on combinating monadic mesh/submesh generation for dynamic and flexible geometry manipulation (hopefully in real time)
+#### &#x2605; Everything is composable, with a focus on combinating monadic mesh/submesh generation for dynamic and flexible geometry manipulation (hopefully in real time)
 
-### Composable, dynamically swappable, parallelizable graphics.
+#### &#x2605; Composable, dynamically swappable, parallelizable graphics.
 
-### Stream Data to Metal Inputs & Buffers, for audio visualization or vertex streaming.
+#### &#x2605; Stream Data to Metal Inputs & Buffers, for audio visualization or vertex streaming.
 
 Here's some video of [OSX audio visualization](https://www.youtube.com/watch?v=LKVYEnu8sLk) using a very early version of the library
 
