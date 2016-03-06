@@ -272,6 +272,8 @@ misc scene ideas:
   have much money)
   - he's learning a new form of magic and really doesn't want to pay 
     attention to anything else at the moment 
+- but everyone is giving him shit
+  - people are literally queued up to create negative situations for him
 
 
 
