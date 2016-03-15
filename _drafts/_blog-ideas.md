@@ -409,9 +409,30 @@ Applied Category Theory:
   - differentiation of genomic programs and cell-types should be relatively flat
   - that is, there's a tree that represents the types of cells that cells can become
   - but, because of occam's razor, this tree should be flat because too much hierarchy induces too much complexity in the system
+- "Improved MRI Scanning Techniques" (they already exist)
+  - [Magnetization Transfer](https://en.wikipedia.org/wiki/Magnetization_transfer) + machine learning to recognize characteristic neuronal features
+  - could this be combined with DTI (Diffusion Tensor Imaging) methodology or models to help detail a functional map of the brain
+  - do higher order patterns emerge in the resonance of hydrogen molecules around similar/disparate macromolecules?
+    - if so, would these be detectable?  or does Magnetization Transfer already utilize the limits of what's possible here
+    - higher order patterns may only emerge around specific cell types
+    - is 3.0T MRI even strong enough to do anything here?  
+  - can ion-interactions be utilized to infer more information?  particularly Sodium 23, as it's one of the primary neuro-ions
+  - what can Magnetization Transfer tell us about ion-channels in the brain?  
+    - if Magnetization Transfer is all about how free ions react to the presence of a strong magnetic 
+  - can heavy water be used as a contrast agent?  (yes, it can - [Patent (2013)](https://www.google.com/patents/US20130142724)
+    - furthermore, can heavy water be combined with MT? (would need before and after shots)
+      - this would be particularly effective in the presence of contrasting agents!  ... maybe
+
 - why you should cycle nootropics and nutritional supplements
   - some vitamins/minerals competitively inhibit absorption of others
   - nootropics and herbs taken consistently for long enough time periods cause your body/brain to adjust
+  - this is also true of some medications
+    - by studying how brain chemistry is altered and how genetic programs respond to various medications
+      - quickly cycling medications *may in some cases* allow the brain to reach a stable point
+      - at this point, some med cycling could be halted and the brain -- with a consistent diet -- 
+        - may acheive stability that it could not either with consistent medication or without medicantion
+  - identifying patterns of responses to various brain chemistries and especially by identifying genetic and dietary effect
+    - will be incredibly useful in properly treating mental illness
 
 ## UI & HCI
 
