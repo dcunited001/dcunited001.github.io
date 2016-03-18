@@ -5,6 +5,12 @@ blog on why i don't drive
 - as protest
 - because of barrier to entry
 
+blog on skiima-cohort-report
+- convert to an example project for skiima
+- blog about it.  convert it to a rails project?
+- also set up an example rails project for skiima, showing a dashboard
+  and etc
+
 - on becoming a philosopher (more interesting title?)
   - progressing beyond the physical and beyond tree-based modeling
     - moving towards categorical thinking
