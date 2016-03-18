@@ -1,6 +1,10 @@
 - open sourced my brain:
   - hacker news post
 
+blog on why i don't drive
+- as protest
+- because of barrier to entry
+
 - on becoming a philosopher (more interesting title?)
   - progressing beyond the physical and beyond tree-based modeling
     - moving towards categorical thinking
