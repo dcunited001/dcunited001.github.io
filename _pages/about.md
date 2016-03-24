@@ -19,6 +19,9 @@ permalink: /about/
 
 {:center: style="text-align: center;"}
 
+The metaphysical structure representing the sum of all human knowledge greatly exceeds the computational capacity of the universe, implying that the universe can never observe in totality the knowledge contained within it.
+{: center}
+
 ### How to become great at anything
 {: center}
 
