@@ -5,6 +5,101 @@ organize content
 - add ice skating dream
 - add older dreams from notebook
 - add dream about malala
+- dream from my childhood about cooking show
+
+- nuclear holocaust dream
+  - there is war with russia due to both Russian and US aggression in eastern Europe
+    - ultimately, russia provokes a US response to war, but unintentionally so
+      - that is Russia did not intent to provoke a US response to war, 
+      - but that's what it escalated to
+    - i justified the circumstances i found myself in early on in the dream with this explanation
+  - in the beginning of the dream, i find myself in the battlefield as a politician with no war experience
+    - i wasn't really supposed to be over there when it all started going down
+    - i was at odds with the people around me, who weren't really expecting to find themselves fighting either
+    - at this point in the dream, there was a lot of imagery of like supermarket parking lots
+      - esp. one that looked a lot like target (the color red) though this was in eastern europe
+  - somehow i get captured (or rather, my team does) and i'm being held hostage
+    - this is all like secret intelligence agency warfare at this point, nothing official from either Russia/US
+    - these people holding me and my time hostage are trying to say the situation can be dispersed
+      - if i just betray my country and switch sides
+      - basically, they're offering me a chance to switch sides for my own skin
+      - for whatever reason, it's tempting to comply (if in name only), but i don't, basically for semantics 
+        - that is, even if i don't think i'd confer advantage 2 my country's enemies via a betrayal, in name only
+          - i still would prefer to resist in the face of death to prove a point
+    - i'm holding out hope that i'll be rescued
+      - they enemies holding me hostage don't think this will happen, since it'd risk the death of me & my team
+      - but i'm ready to fight and so is my team, if we get an opportunity
+  - the US team comes to rescue us. suddenly things escalate into official state action from both sides
+    - not yet a war though.  but there is an official battle and putin is there.
+    - we get an opportunity and somehow i make it out though just barely.  there are lots of casualties
+  - there is a huge battle in the supermarket area.  
+    - i escape, even though the space we're fighting in is less than preferable (no cover in a parking lot)
+    - at this point, someone kills putin.  like shoots him in front of me.  
+      - obviously, i'd prefer not to talk about this, but it happened in my dream.
+      - honestly, i think putin's a good leader for russia.  
+      - and the rest of my dream explains why chaotic conditions for russia and eastern europe 
+        - would spell absolute disaster for the modern world
+  - there are lots of battles in ravines, lightly to heavily forested.  lots of browns and greens in imagery.
+    - the long ravines remind me of star war's trench runs, but with lots of infantry battles instead of air
+  - the tides turn and the numbers play out in our favor.  the US and allies think we've won.
+    - however, this crazy bitch gets in charge while the nations are negotiating peace & surrender conditions
+    - this girl (she's young) is vindictively butthurt.  she's got a thick russian accent.
+      - i don't know if she was an official leader of russia at that point
+      - but she manages to command popular support -- or at least military support
+  - somehow this lady is remotely broadcasting her face and voice everywhere (VR/AR perhaps)
+    - but pretty much everyone can see her image threatening the world with nuclear weapons
+      - and because of her timeline for threat of action, no one takes her seriously.
+      - she's basically threatening to nuke in less than a few hours if the world doesn't comply with whatever
+    - she's threatening the world and especially europe with nukes.
+      - but no one gives her threats credibility, nor do they want to, since russia just lost the war basically
+  - again, no one takes her seriously, which is a huge mistake.
+    - she starts nuking, first one or two cities in northern eastern europe (think western ukraine or poland)
+    - then more, quite quickly, without even a realistic chance for a NATO/American nuclear response 
+      - or tactical counterforce response (some of these details i'm layering onto my dream)
+        - not that i'm making shit up, but there were some events/details in the dream that require explaination
+          - that we couldn't destroy their nuclear capability in response to their nuclear action in time
+            - implies that our counterforce strategies failed
+  - and then she continues to nuke more and more cities in europe (around a dozen)
+    - i'm in western europe at the time (so probably north of the alps, close to the french/german border)
+      - just based on my overall vibe - in the dream i felt safe from nuclear action (at first)
+        - but close enough to be absolutely terrified
+        - i could see bright flashes that were very distant, but correlated to this dictatress's threats
+    - as this is happeneing, her image is broadcasting her threats and she's laughing maniacally
+  - the last one that i see go off is very close by (< 100 miles or so) but it's huge.
+    - it was specifically mentioned as a hydrogen bomb
+    - i tried to take cover in a ditch by the side of the road.  i laid down.  
+      - i was pretty scared of the radiation and i got nuclear sunburn
+      - i felt my skin burn as a result of the radiation.
+    - this one was targeted at a major western-european city (i think paris or something like that)
+    - the people that i'm with disappear (they don't vaporize or anything) but they aren't around anymore
+      - i'm not sure what happened to them.  i was with a military team when it all started happening
+      - but i'm alone at this point
+  - next thing i know, i'm at a traffic stop and it's complete chaos.  everyone is trying to evacuate.
+    - all i know is that i have to get to a university in San Antonio or Austin (somewhere in TX)
+    - again, this is immediately after, everything is complete chaos and i was in Europe. 
+      - but yet, i'm trying to hitch a ride to Texas in a car from Europe... 
+        - doesn't make sense, but my dream self rationalizes it by transporting me to north central US 
+          - think Illinois, though i wasn't really sure
+      - and all my dream self knows is that i'm trying to head "south" to texas
+        - i have a strong overwhelming urge to go there in response to what has happened.
+        - there is some reason to go to a university there, some tactical asset that is shielded from events
+          - some means of fighting back
+  - i get in literally the first car i see with one occupant. it's a smaller car, kind of older and i think red
+    - it's nighttime and, again, complete chaos.  everyone is trying to evacuate simultaneously
+    - i knock on the door and open it myself.  i quickly explain where i'm going. 
+      - the driver just has this horridly solemn look on his face (and i'll explain in a second)
+      - he agrees and we get on the road and proceed on as we can, though traffic makes that a bit difficult
+        - he doesn't really say much when i asked, just kind of motions inward
+  - after i wake up, i realize the solemn look was bc he knew that we were both going to die from radiation
+    - (i think) and i was the last person he would see before dying
+      - he had already concluded that he was going to die and he was just relieved he didn't have to die alone
+      - but at the same time, he thought he was going to die alone in the next 12-48 hours with a stranger
+    - he had pretty much given up, given the radiation and chaotic circumstances
+      - however, even though it appeared both our fates were sealed, iwas too naive - maybe ignorant - to give up
+        - it didn't even occur to me that i might die or that i should give pause to that
+        - i didn't really care
+      - and so, he had shut down basically, but i still had an objective, something to look forward to
+        - something greater than myself, to which my own death would be inconsequential
 
 - also, need to write down some of the older dreams that i had
   - Individual Eleven dream (with sephiroth) (this was a christmas morning dream, 1-3 years ago)

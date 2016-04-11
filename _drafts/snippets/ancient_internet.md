@@ -1,0 +1,5 @@
+stories of magic and psychic abilities are sometimes better approximations for predicting how something like internet would change the world. people thought of much of this stuff hundreds, if not thousands of years ago. we just can’t see the parallels because technology has made things so complex.
+
+all one has to do is imagine that the boundary dividing the self begins to break down as the rate of information exchange approaches infinite and as information approaches omnipresence. knowing that it would be useful to transfer information more quickly would cause one to anticipate how such accelerated development of knowledge would change the world. knowing or believing that information would eventually transfer as freely as it does today - without regard for *how* some technology would make this happen - has been possible for hundreds of years.
+
+in fact, it is ironically technology itself which clouds our ability to see the future. it overcomplicates everything and people begin to base their beliefs and systems of knowledge on only what they can see and what they already know. 
