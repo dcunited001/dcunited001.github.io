@@ -340,4 +340,17 @@ miRNA treatments for diseases involving imprint control regions
 - would it be specific enough
   - if not, could it be used to just generally tune down the expression of those genes
 
+lncRNA's as genetic state-machines
+- it'd be interesting to identify lncRNA's which can transition their shape from one form to another
+  - each triggering some kind of functionality
+    - lncRNA1 transitions (1) A -> B (2) B -> C (3) C -> B (4) C -> D 
+- this would make them like a genetic state machine
+  - they could have certain specific functionalities which are only enabled while in certain forms
+  - this would be disadvantageous if they became "stuck" in some forms 
+    - that is, if they are needed in each cell of a cell type
+      - if they are used only occasionally to trigger some permananent state change, this would be ok
+      - otherwise, they would trigger the production of too much waste in a nucleus
+
+
+
 
