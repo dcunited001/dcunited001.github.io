@@ -10,6 +10,109 @@ blog on skiima-cohort-report
 - blog about it.  convert it to a rails project?
 - also set up an example rails project for skiima, showing a dashboard
   and etc
+coding for the muse device
+- how i got it working
+  - check forum post & update
+- why i had to recreate the project over and over again
+  - review git commits (then consolidate, so messages are gone)
+- problems: 
+  - file structure issues
+  - needed to add "-lc++" to "OTHER_LDFLAGS"
+  - obscure errors when accessing IXNMuseManager with the API (everything else worked alright)
+    - but the net effect was: i had to wall off access to the lib within objective-c which kinda sucked
+    - i have practically zero experience with objective-c and also, my design was overly complicated
+
+blogs on swift:
+- dependency injection with Swinject. problems implementing auto-injection. 
+  - explain some ideas for funcitonal programming, 
+    - especially those combining category theory and combinatory logic
+- using reflection for metaprogramming
+- functional programming paradigms.  (category theory implemented in swift? Inversion-of-Control)
+- modeling problems with functional programming techniques (way different than OOP)
+  
+Need for a tech-oriented language:
+- one language w/ 16 or 32 chars (hex)
+  - very useful in minimizing search time
+- another kanji-like language
+  - sym for each concept
+  - isomorphic to words
+  - analysis of semantics and languages in hex to produce the primitive radicals from 'first principles'
+- these concepts could be universal (fucking space aliens)
+- identifying the chars themselves could be a universal process
+  - by making not of simple mathematic properties (particularly various kinds of symmetries)
+    - and using symbols that are rotationally and symmetrically invariant
+  - another pattern may be that the number of strokes for the 16-32 char lang is equivalent to the base
+    - 0/1 have 1 stroke 2/3 have 2 strokes, 4567 have 3 strokes, etc.
+- but the point is that there is or may be 
+  - a pair of universal written language forms that map to universal semantics
+- that is, each sufficiently advanced race would invariably produce the same communication forms/protocols
+  - and one primary advantage to this is that it would aid communication limitations imposed by speed of light
+    - that is, if there were some triple of communication protocol, symbols and semantics 
+      - which was based on something so universal that it transcended space & time
+    - then, each culture in the galaxy or universe that became sufficiently advanced would develop this
+      - at least until that culture developed technology which transcended the limits of the speed of light
+      - there may be a period of 10,000 to millions of years before a civilization truly transcends it
+        - as the means of surpassing the speed of light and imposition of the vastness of space
+          - may be very very very expensive in terms of energy
+        - and thus there may be some kind of galactic ethics issues involved as well
+          - who's energy is it to harvest, really
+    - anyways, my point is, if the speed of light really is an issue, then a universal language would be
+      - very very useful in helping alien species communicate from across the galaxy
+        - esp. when the time scales of communication response might be upwards of 100,000 years
+        - or millions of years in trans-galactic communication
+- so, whats the basis of such a language?  math!  the "universal language"
+  - the language would be based on mathmatic primitives from category theory, algebraic geometry, etc
+  - and these primitives would be combined in some "universal" way to produce semantics at a higher level
+- furthermore, at the exact time in which a species in the galaxy is obtaining tech for outer space exploration
+  - is the exact time in which we are obtaining the tech for inner space exploration (i.e. computers, cyberspace)
+  - and it is clearly demonstratable there are algorithmic benefits to placing constraints on language
+    - especially if it is to be a true esparanto or a truly universal language
+  - for example, constraining a language to use a base-2 number of symbols maximizes information throughput
+    - this, in turn, maximizes the output of some bitcrunching versions of those algorithms
+      - quantum computing is good for some things, but it doesn't really accelerate indexing algorithms AFAIK
+        - that is, if you're talking about quantum computing as in quantum simulation of statistics functions
+        - if instead, you mean quantum computing as increasing the number of bits available for simultaneous processing
+          - then ... maybe those bitcruncing algs would be different.
+          - but i'm pretty sure these versions of quantum computing are really fucking hard
+            - that is, encoding 2 bits of state with each electron - e.g. (overly-simplistic) one with charge and one with spin 
+            - these are very difficult to design and very difficult to spatially optimize (reduce in size)
+          - this is not the same thing as quantum computing as it's usually discussed (that is, as it's employed for Shor's algs)
+            - but it would accelerate traditional computing
+        - but quantum computing which is employed for shor's algs 
+          - and uses entanglement or other mechanisms to link operations as they proceed thru the processor
+          - this doesn't really aid some of the most basic indexing algorithms for text 
+            - or for genomics, which is what led me to discovering this universal language phenomena
+    - my point is that, the combination of 
+      - (1) algorithmic benefits and 
+      - (2) the ensuing insight of a truly universal language
+      - therefore, may converge to produce the phenomena of a universal language
+        - that is, there is both the need (#1 above) and the comprehension of the possibility & benefits (#2)
+          - and these two things converge at approximately the same time in the development of a sufficiently advanced civilization.
+- boom.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 - on becoming a philosopher (more interesting title?)
   - progressing beyond the physical and beyond tree-based modeling
@@ -39,6 +142,24 @@ blog on skiima-cohort-report
           - i cannot recall what it is crucially important in philosophy
           - this is completely baseless by the way.
           - [enumerate ancient philosophic applications]
+
+
+radial aspects of pulsar and planetary discovery?
+- if we've detected X planets, an`d we know that only planets who's orbit crosses 
+  - within the diameter can be discovered, 
+  - how would one construct a statistical method that tells us how many to expect
+  - the statistic would also have to account for the likelyhood of planet orbit and planet disk formation
+    - to align with the rotation of the galaxy
+- for pulsars the same thing is relevant for universal navigation systems.
+  - in other words, using pulsars to pinpoint universal location works, 
+    - but we can only see the pulsars that are lined up with us
+    - this works for galactic navigation and even for local super group navigation
+  - but it doesn't work if you were in another corner of the universe (several million lightyears away)
+    - you'll see a subset of pulsars that wee see, which is lined up in a cylindar that extends infinitely
+      in the direction of point a and point b
+  - also, how to you communicate the map off pulsars across such vast distance as thousands of light years
+- how can we know how locations millions of light years away see the universe?
+  - would doing so break our model of the universe?
 
 - economics, stocks & commodities - how do fluxuating currency values affect investment decisions
   - already complicated enough b4 taking into account how fluctuating currencies affect portfolio/demand
@@ -152,6 +273,7 @@ blog about all the blogs i haven't written
 - ancient people's knowledge was far more advanced than we give them credit for
   - quite often, a system observed with less information is more simply understood than when perceiving the same system with much more info.
   - this phenomenon results in modern man's misapprehension that our supposedly more acute vision of reality offers more complete comprehension
+  - check snippet on how ancient people could have anticipated something like the internet
 - blog on ancient calendar systems and why it takes so long to measure the 365 day calendar year
   - and how an ancient people would progress through verifying the 365 calendar year
     - how long would it take for them to recognize a leap year and why?
@@ -275,7 +397,66 @@ Applied Category Theory:
     - where i felt that, for some reason, the curvature of space would have something to do with momentum
       - if some kind of invariance were to be preserved between 3+ observers 
         - (i think this was the line of thought i was following)
-
+- can we actually pinpoint the source location for gravitational waves?
+  - the difference here will tell us a lot about the universe
+  - i don't think that gravity follows the same path as light
+  - https://en.wikipedia.org/wiki/First_observation_of_gravitational_waves#Location_in_the_sky
+    - admits they are using conventional methods to track gravitational waves
+  - https://en.wikipedia.org/wiki/Gravitational_wave
+  - https://en.wikipedia.org/wiki/Tests_of_general_relativity#Strong_field_tests:_Binary_pulsars
+- how does gravity exert force on other objects, in respect to it's speed for travel
+  - gravitational doppershift?  
+    - a relativity like theory is needed to specify how change in speed changes expression of gravity.  
+    - there should be a way to deduce true locations of objects by observing their estimated position
+      - in relation to the estimated position of massive objects moving towards/away from them at high speeds
+    - at high speeds, there should be some difference in the momentums of each object
+      - that existing theories don't predict
+    - the ideal situation is an object moving perpendicular to the motion of a very large object moving quickly toward it. existing frameworks should have difficulting predicting the motion of this smaller object
+  - this is because the objects are not pulling on each other, they are distorting space
+    - this distortion travels at a speed and has fluid-like properties
+- the fluidlike nature of space should cause some changes in the behavior of spacetime
+  - for large, fast moving objects.  gravity should be greater ahead of them and lesser behind their path.
+  - however, the fluidlike nature will create higher level, observable phenomena 
+    - visible from the propagation of gravity from the object
+- the total effect of an object on the spacetime around it should be equal, regardless of its motion
+  - (for some reason, i really think i was going somewhere with this idea, but i didn't capture it)
+    - acceleration changes the way gravity is expressed?
+    - density changes the way gravity is expressed? 
+      - how does each component's pull on each other affect the total pull on an observer?
+  - unless of course, its mass changes. 
+  - as the changes in space curvature radiate out, the amount of pull that is radiating out 
+    - should sum up to an equivalent amount 
+      - would the density of the object affect this amount?
+        - it should.  the counteracting forces of mass that pulls against itself
+          - should mean the object has less pull on space around it, with respect to the mass of the object
+          - or, when divided up into infinite peices, can one say that the components to the curvature of space
+            around an object always counteract each other in the same way?
+            - no, but yes (maybe)
+            - this is because the components of an object pull against each other with 1000 times the strength
+              when the object is 1000 times denser (relationship is not truly linear)
+      - that is, for a large oject, like the sun or earth, 
+        - do the gravitational forces counteracting each other detract from the total gravitational force?
+      - this is beside the point
+  - if the object is constant, the oval of distorted space around it doesn't change shape
+    - if the object accelerates, that oval-shaped field does change shape.
+      - ahead of the object, the space experiences a denser pull towards the object
+        - but over time, it averages out to be the same (with respect to the object's changed position)
+      - behind the object, the space experiences a lighter pull towards the object
+  - but the point is, the total 'amount' of curvature in space around the object remains the same
+    - as does the total 'amount' / time in curvature in space around the object
+- the problem with testing many of these theorys is that we can only make large scale observations for gravity
+- is the gravity at the center of earth truly "Zero"?
+  - that is, the space at the center of a massive object would have some effect from the mass of the earth
+- thought experiment: comet at the 99% speed of light, heading inwards on it's orbit around the son
+  - if it's riding at nearly the speed of light, how does it experience changes in the force of gravity
+    - what about 50%, 70%, 80%, 90%
+- another thought experiment: an innumerable number of grands of sand in space, with the total mass of one sun
+  - but the are spread out to be a sphere the volume of the solar system
+  - now place a feather at any point around the sphere of equally dense sand
+    - for different points inside and out, how does the feature experience gravity & space
+    - for different densities of the sphere?
+  - can this be used to construct a space-displacement theory of gravity?
+    - and with space displacement, there should be vortexes formed by an object's motion/acceleration
 
 ## Art
 
