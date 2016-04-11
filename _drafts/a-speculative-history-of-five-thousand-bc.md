@@ -602,6 +602,11 @@ a warm current flowing in the opposite direction from the Black Sea
 into the Marmara.  This current likely draws cold, salty water up
 by convection as it enters the Marmara.
 
+- another possible source for flow through the bosporus is the difference in salinity
+  - more saline water is pulled in... maybe
+  - http://www.crpg.cnrs-nancy.fr/local/cache-vignettes/L500xH186/Capture_d_ecran_2012-08-27_a_16-32-58-a6eba.jpg
+  - https://clasticdetritus.files.wordpress.com/2010/08/bosphorous.jpg
+
 [Naratuk: warfare from 10,000 BC](https://www.theguardian.com/science/2016/jan/20/stone-age-massacre-offers-earliest-evidence-human-warfare-kenya)
 
 transition from outburst floods
@@ -1027,3 +1032,61 @@ and this is where the story for the wise arch-mage came from
   - to be hidden in plain view until the world was ready
   - and until the world had a great need to unite these magic forms into one
   - which he knew would occur at the same time, the most critical time for our development
+
+
+### links
+
+https://en.wikipedia.org/wiki/Etana
+https://en.wikipedia.org/wiki/Sumerian_King_List#The_list
+https://en.wikipedia.org/wiki/Chronology_of_the_ancient_Near_East
+https://en.wikipedia.org/wiki/Shuruppak
+https://en.wikipedia.org/wiki/Ancient_literature
+https://en.wikipedia.org/wiki/Proto-writing
+https://en.wikipedia.org/wiki/Kish_tablet
+https://en.wikipedia.org/wiki/History_of_communication
+https://en.wikipedia.org/wiki/Semiotics
+https://en.wikipedia.org/wiki/Ferdinand_de_Saussure
+https://en.wikipedia.org/wiki/Computational_semiotics
+https://en.wikipedia.org/wiki/History_of_linguistics
+https://en.wikipedia.org/wiki/Chalcolithic
+https://en.wikipedia.org/wiki/Metallurgy_during_the_Copper_Age_in_Europe
+https://en.wikipedia.org/wiki/Bhirrana
+https://en.wikipedia.org/wiki/Kalibangan
+https://en.wikipedia.org/wiki/List_of_Indus_Valley_Civilisation_sites
+https://en.wikipedia.org/wiki/Mohenjo-daro
+https://en.wikipedia.org/wiki/Rudnik_(mountain)
+https://en.wikipedia.org/wiki/Timna_Valley
+https://en.wikipedia.org/wiki/Gulf_of_Aqaba
+https://en.wikipedia.org/wiki/Vin%C4%8Da_culture
+https://en.wikipedia.org/wiki/Black_Sea_deluge_hypothesis
+https://en.wikipedia.org/wiki/Aegean_Sea
+https://en.wikipedia.org/wiki/Outburst_flood#Lake_Bonneville
+https://en.wikipedia.org/wiki/Caspian_Sea#History
+https://en.wikipedia.org/wiki/Naphtha#Etymology
+https://en.wikipedia.org/wiki/Vedas
+https://en.wikipedia.org/wiki/Vedic_Sanskrit
+https://en.wikipedia.org/wiki/Indo-Aryan_peoples
+https://en.wikipedia.org/wiki/Substratum_in_Vedic_Sanskrit
+https://en.wikipedia.org/wiki/Bactria%E2%80%93Margiana_Archaeological_Complex
+https://en.wikipedia.org/wiki/Indus_Valley_Civilisation
+https://en.wikipedia.org/wiki/Andronovo_culture
+https://en.wikipedia.org/wiki/Proto-Indo-European_language
+https://en.wikipedia.org/wiki/Vedic_Sanskrit
+https://en.wikipedia.org/wiki/File:Black-Sea-NASA.jpg
+http://emvc.geol.ucsb.edu/2_infopgs/IP2IceAge/ePersGulfFlood.html
+https://en.wikipedia.org/wiki/Dravidian_peoples
+https://en.wikipedia.org/wiki/Indo-Iranians#Genetics
+https://en.wikipedia.org/wiki/History_of_ancient_Egypt#Neolithic_Egypt
+https://en.wikipedia.org/wiki/Sahara#History
+https://en.wikipedia.org/wiki/Tassili_n%27Ajjer
+https://en.wikipedia.org/wiki/Archaeoastronomy
+https://en.wikipedia.org/wiki/Cataracts_of_the_Nile
+https://en.wikipedia.org/wiki/Diluvium
+https://en.wikipedia.org/wiki/Laas_Geel
+https://en.wikipedia.org/wiki/9th_millennium_BC
+https://en.wikipedia.org/wiki/Jericho#Ancient_period
+http://arstechnica.com/science/2015/12/irelands-population-underwent-a-dramatic-change-4000-years-ago/
+
+
+
+
