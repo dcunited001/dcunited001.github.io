@@ -107,7 +107,13 @@ to be.  Implemented with FPGA's or ASIC's?  Even better.
 ![Cost of Genome](/img/posts/2016-04-10-the-nature-of-space-time-and-information-implies-universal-language/genome-cost.jpg)
 
 What if it weren't just cheap and fast to sequence human genome data, but to datamine it as
-well.  Multiple sequence alignment would be trivially fast.
+well.  Multiple sequence alignment would be trivially fast.  Evolutional divergence of
+exons between species? Easy.  Between specimans or patients in an experiment?  Easy. 
+Account for deviations in lab data resulting from individual mutations in lab specimans?
+Easy.  Datamining for truly personalized medicine?  Easy.  Correlating minor patient
+variations in key genes to patient treatment outcomes?  All easy.  If and only if there is
+a better algorithm for sequence alignment.
+
 That's what I imagine may be possible with this algorithm. The design I'm planning could also
 be matched up against an intractable problem. Who knows.
 
@@ -151,7 +157,7 @@ simple latin alphabet.
 
 Launch a new product? VR/AR? Web Service? Instant 100% global market penetration, given a 
 few key assumptions of course.  Do you like money?  No?  OK, that's fair, your probably
-voting for .... ok, nevermind.  Not really funny, I know.
+voting for .... ok, nevermind.  Not really funny, I know.  
 Anyways, I'm guessing that you know someone who likes money
 a lot.  I don't really, other than it's a means to an end for bringing change to the world.
 
@@ -197,6 +203,8 @@ Hydrogen is a limited resource.
 > fusion.  Especially hydrogen/helium ratios.  It's probably not novel though.
 
 ### The Tower of Babel Crumbles
+
+![The Tower of Babel Crumbles Always](/img/posts/2016-04-12-the-nature-of-space-time-and-information-implies-universal-language/brueghel-tower-of-babel.jpg)
 
 There are many drawbacks to be considered as well.  But, like I said, this is something
 that is probably inevitable, though it may be a century before we see it completely
