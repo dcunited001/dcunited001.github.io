@@ -75,10 +75,12 @@ about a communication protocol for conveying semantics (meaning) and data simult
 
 > That's not new.  We did that with data we sent out on Voyager, Carl Sagan's cosmic frisbee 
 > ... because before it ventures too far outside the Oort Cloud, we'll probably fetch it, get it?  
-> It is fairly trivial to map from one language to another and to encode the means for doing so 
-> along with the content is not too complicated.  
 
-What's my reasoning? First, I'll briefly cover the benefits.  And then I'll 
+It is fairly trivial to map from one language to another and to encode the means for doing so 
+along with the content is not too complicated.  
+
+What's my reasoning behind this idea of universal language? First, I'll briefly cover 
+the benefits.  And then I'll 
 explain how it could be possible.  It definitely is possible, though what would qualify is 
 debateable.  First off, **math** is a universal language.  So that, in itself, qualifies,
 though math itself isn't really what I'm talking about.  Neither is a communication
@@ -99,6 +101,15 @@ produce something on par with existing algorithms.  Possibly something between 1
 of magnitude faster on desktop/server environments and unconstrained in specialized computing 
 environments.  Basically, it would be as scaleably fast as memory and GPU would allow it 
 to be.  Implemented with FPGA's or ASIC's?  Even better.
+
+#### Look at how fast that line dropped!
+
+![Cost of Genome](/img/posts/2016-04-10-the-nature-of-space-time-and-information-implies-universal-language/genome-cost.jpg)
+
+What if it weren't just cheap and fast to sequence human genome data, but to datamine it as
+well.  Multiple sequence alignment would be trivially fast.
+That's what I imagine may be possible with this algorithm. The design I'm planning could also
+be matched up against an intractable problem. Who knows.
 
 ### An Engineered Global Language
 
@@ -166,7 +177,7 @@ As more devices are added to the internet of things and as technology begins to 
 everything, then the software to manage the ever-increasing graph of nodes will need
 to become more complex as well.  
 
-> Moar energies! 
+> Moar energies!
 
 If every software problem is made
 needlessly more complex by the introduction of language, forcing some text-related 
@@ -239,7 +250,7 @@ Is there such a maximally "best" language?  What if there was?  What if it was
 universally discoverable? That every sufficiently adv. civ. would arrive to the
 exact same place. 
 
-![But Why?]
+![But Why?](/img/posts/2016-04-10-the-nature-of-space-time-and-information-implies-universal-language/butwhy.gif)
 
 ## In time. All in due time.
 
@@ -258,8 +269,8 @@ The speed of light also implies that we aren't able to easily communicate with o
 It takes 15 minutes to talk to Mars! To Mars!! Ok, sometimes 5, but more often than not, 
 it's more than 10 minutes -- both ways!!  
 
-> Oh, Elon didn't tell you? Elon Musk is clownin on all those hopeful astronauts.
-> I hate to break it to you, guys. *There's no lolcat videos on Mars!* Suckers.
+> Oh, Elon didn't tell you? Elon Musk is clownin on all you hopeful astronauts.
+> I hate to break it to you. *There's no lolcat videos on Mars!* Suckers.
 > You'll have to settle with dust tornadoes and waiting for occasional Olympus 
 > eruption.  It only erupts every decade.  I promise.  JK, all respect to Elon.
 > He's the man.
@@ -346,9 +357,11 @@ think about.  Or ooo what if entanglement is really caused by micro-wormholes an
 is just an illusion obscuring a manifold where all points are equidistant.  Probably
 not, but now I'm just making shit up.
 
-###
+![Silence When Gleep Glop Doth Speakth!!](/img/posts/2016-04-10-the-nature-of-space-time-and-information-implies-universal-language/gleep-glop.jpg)
 
-[ needz title baddly ]
+#### "Silence When Gleep Glop Doth Speakth!!" ...
+
+### Thus Spoke Gleep Glop
 
 So, I've established or it should be easy to see that:
 
@@ -526,13 +539,5 @@ So, tell me again why I should settle for working on wordpress designs
 (no graphic design experience) when I have clearly demonstrated
 the creativity and talent that far outweights my flaws.  
 IMO, such work would be setting me up for failure because 
-it doesn't harness my strengths. 
-
-Oh and virginia will
-be taking my license next week.  Yay, Virginia, fuck me in the ass once more
-for ole times' sake.  No more social interactions for me.  Nope, i don't 
-deserve the opportunity for "psychological development."  Just keep fuckin me
-right in the shitter and claim my life's fucked up because i'm "immature."
-
-
-
+it doesn't harness my strengths.  And why should my only option at the moment
+be a temp agency?  Really?  Because I'm pretty sure that's worse than bestbuy. 
