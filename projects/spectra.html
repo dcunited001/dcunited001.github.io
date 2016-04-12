@@ -286,22 +286,64 @@ IVVMM::::.:.:. . ... .::II:.::..:.. .. .. . . .:.:::IHH:.:HHIIHIHH':-'
     <section class="article-content">
       <div class="row">
         <div class="col-md-10 col-md-offset-1">
-          <h3 id="d-graphics-with-metal">3D Graphics with Metal</h3>
+          <h2 id="spectra--metal-graphics-engine-swift---ios---osx">Spectra =&gt; Metal Graphics Engine (Swift - iOS - OSX)</h2>
 
-<p>Spectra is a 3D Graphics Library for iOS, written in Swift.  It’s
-based on the new Metal framework, which opens the door for new
-possibilities!  Spectra is focused on utilizing the functional facets
-of the Swift language to enable vibrant new graphical programming
-techniques.  Dependency Injection maximizes simplicity.  Render
-pipelines can be constructed dynamically.  Nodes in the Scene Graph
-can be flexibly interweaved.  Geometry and Compute Shaders are at the
-forefront.</p>
+<p>I’m back to building my 3D Graphics engine.  Spectra is really designed for learning low-level graphics 
+techniques.  I’m building it primarily to learn these techniques myself and to explore mathematic concepts.<br />
+But I’ve designed it in such a way that it is easy for users to pick up the basics of low-level 3D graphics.</p>
 
-<p>Note: the current Spectra repository is a rewrite of this
-<a href="http://github.com/dcunited001/SpectraNu">older repo</a>, which has more
-information about what I was hoping to achieve with the project.
-However, neither are very functional at the moment.  This project’s on
-hold, as I get distracted with some other work.</p>
+<p><a href="https://trello.com/b/FYL0pBuF/spectra">Trello Board</a> if you want to contribute or see what i’m building next.</p>
+
+<blockquote>
+  <p><strong>N.B.</strong> -&gt; this library will be moved to replace <a href="http://github.com/dcunited001/Spectra">dcunited001/Spectra</a> at
+some point. Soooo, actually using it is not recommended yet. I’m rewriting this library for like the fifth 
+time (using Carthage) since cocoapods is broken.  And now i’m rewriting it again to have proper 
+dependency injection’</p>
+</blockquote>
+
+<h2 id="declarative--composable--functional">Declarative | Composable | Functional</h2>
+
+<h4 id="x2605-3d-graphics-with-a-first-party-strongly-typed-functional-language">★ 3D Graphics with a first-party, strongly typed functional language.</h4>
+
+<h4 id="x2605-everything-is-declarative---from-render-pipelines-to-assets-and-meshes">★ Everything is declarative - from render pipelines to assets and meshes.</h4>
+
+<h4 id="x2605-everything-you-need-is-accessible-through-dependency-injection">★ Everything you need is accessible through dependency injection.</h4>
+
+<h4 id="x2605-everything-is-composable-with-a-focus-on-combinating-monadic-meshsubmesh-generation-for-dynamic-and-flexible-geometry-manipulation-hopefully-in-real-time">★ Everything is composable, with a focus on combinating monadic mesh/submesh generation for dynamic and flexible geometry manipulation (hopefully in real time)</h4>
+
+<h4 id="x2605-composable-dynamically-swappable-parallelizable-graphics">★ Composable, dynamically swappable, parallelizable graphics.</h4>
+
+<h4 id="x2605-stream-data-to-metal-inputs--buffers-for-audio-visualization-or-vertex-streaming">★ Stream Data to Metal Inputs &amp; Buffers, for audio visualization or vertex streaming.</h4>
+
+<p>Here’s some video of <a href="https://www.youtube.com/watch?v=LKVYEnu8sLk">OSX audio visualization</a> using a very early version of the library</p>
+
+<blockquote>
+  <p>Note: almost none of this is functional right now.  I’m writing this for myself, primarily so I can explore <a href="http://www.geometry.caltech.edu/">3D &amp; Advanced Geometry</a></p>
+</blockquote>
+
+<blockquote>
+  <p>Also Note: performance is absolutely not a focus at this point.  I’m not sure it’d be a good idea to use this design in production.</p>
+</blockquote>
+
+<h3 id="spectra-features">Spectra Features</h3>
+
+<ul>
+  <li>Read Metal graphics pipeline objects into a DescriptorManager with the S3DXML format.</li>
+  <li>Some classes set up to manage rendering (Renderer, RenderStage) but these will change soon.</li>
+</ul>
+
+<h3 id="spectra-roadmap">Spectra Roadmap</h3>
+
+<ul>
+  <li>Finish the SpectraXML format for defining Model I/O objects.</li>
+  <li>Rename S3DXML and possibly split it into a separate framework.</li>
+  <li>Set up some basic resource management classes.</li>
+  <li>Rewrite Renderer, RenderStage, etc.</li>
+  <li>Configure auto-injection for Swinject containers, so users can dynamically define higher order factories as they
+read in XML data (requires Swinject 2.0.0)</li>
+  <li>Integrate with MPS Metal Performance Shaders for convolutions, etc.</li>
+</ul>
+
 
         </div>
       </div>
