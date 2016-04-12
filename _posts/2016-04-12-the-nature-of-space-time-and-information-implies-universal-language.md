@@ -233,9 +233,13 @@ Many times, in the real world --
 > life?  My only experience with the real world has been a horrible Maslovian joke played
 > on a poor bloke with Aspergers, AFAIK.  Ironically, such crippling isolation has fueled
 > the exact conditions which promote development revolutionary world-changing ideas.
-> Take that, powers-that-be.  LuLz
+> Take that, powers-that-be.  LuLz.
 
--- Clearly, I have digressed.  Ahem.  Many times, in the real world, you want to simply
+#### -- Clearly, I have digressed ... Ahem.  
+
+![Can't afford the dog](2016-04-12-the-nature-of-space-time-and-information-implies-universal-language/lolcat-afford-the-dog.jpg)
+
+Many times, in the real world, you want to simply
 get from point A to point B, but there is no simple path in between the two.  And when
 implementing a global shift to an engineered language, could there be such a path?  At 
 least, there will be the all but certain developments of dialects that diverge, along 
@@ -290,16 +294,7 @@ aliens, then maybe your grandkids will hear back.  Is that a bad joke?  I still 
 seen Interstellar.  I heard it was good.  I want to see it.  Thing is, I made $3000 last
 year.
 
-Which brings me to my next point.  Maybe if someone could pay me to do something every
-now and then, I'd stop dropping revolutionary technology on the internet.  I'd probably
-be so busy, I'd never think about it. Here's a good one.  Remember the Ansible, from 
-Ender's Game?  I promised, didn't I?  You have until I publish this article. After that,
-time's up, Mr. Bond. 
-
-> I know, I know, I'm not setting a good example.  Technology can be
-> dangerous, yada yada, blahblahblah.  I'm real fucking butthurt over here.  Did I *really*
-> ask to get fucked in the ass?  And no, I'm not mad at anyone for not getting me a job or
-> something along those lines.  But I do find my situation a little hard to believe.
+But anyways, remember the Ansible, from Ender's Game?  I promised, didn't I? 
 
 ### Heady Crystals!! 
 
@@ -317,7 +312,7 @@ low bandwith.  Still no lolcats on Mars, folks.  It's a tragedy.
 
 > Imagine, if you would: an interstellar world, where we explore the cosmos for thousands 
 > of years, scouring the stars for life.  And we find it!  But, the aliens can't watch
-> our latest lolcat videos.  OMGWTF?!  
+> our latest lolcat videos.  OMGWTF?!
 
 Maybe this isn't possible, I don't know. Last time, I checked, it seemed like it might 
 be theoritically impossible, but mostly an engineering challenge.  First, how do you 
@@ -335,6 +330,10 @@ assuming that each entangled pair is only to be used for one-way communication, 
 from A -> B or from B -> A, then you should be able to alternate between particle states
 that signify a one or a zero.  Basically, you're reading not the quantum state, but a
 quantum state *change*.
+
+#### Cyclicly Entangled Particles
+
+![Silence When Gleep Glop Doth Speakth!!](/img/posts/2016-04-10-the-nature-of-space-time-and-information-implies-universal-language/](lolcat-wtf.jpg)
 
 Furthermore, with a bit more imagination, there may be another way to do this, which would
 require cyclicly entangled particles.  I know, I know.  "It's not theoretically possible."
@@ -398,6 +397,8 @@ detect the possibility of life.
 > we're doomed and it's all we have.  ALLCATS!  And some books, send 'em Chicken Soup
 > or something.  Or a Bible. That's always a good one.  Give 'em the gift of religious
 > fanaticism.  But only if they don't have any Uranium. 
+
+![All the cats!](2016-04-12-the-nature-of-space-time-and-information-implies-universal-language/lolcat-airplane.jpg)
 
 Wellll... that is, unless instantaneous communication is possible. But, if the ansible 
 is real, it requires transporting a physical object to whereever you want to communicate.
@@ -476,6 +477,8 @@ and *simple* as possible.  There should be some "purest" such graph, where every
 be expressed as a simple conjugation of existing concepts, but the complexity of the graph is
 minimalized.  
 
+![Pew Pew](2016-04-12-the-nature-of-space-time-and-information-implies-universal-language/lolcat-pew-pew.jpg)
+
 As we work more with machine learning, we will likely gravitate towards a graph
 such as this.  There is already much work being done, where the semantics modeled by english
 is contrasted by the semantics modeled by another language.  It's interesting to see the
@@ -543,9 +546,15 @@ In other words:
 > we'll nurture our own oneiric universe too.  But only if we
 > can awaken our brothers and sisters.
 
+![Return to Planet Lolcation](2016-04-12-the-nature-of-space-time-and-information-implies-universal-language/lolcat-flying-cat.jpg)
+
 So, tell me again why I should settle for working on wordpress designs 
 (no graphic design experience) when I have clearly demonstrated
 the creativity and talent that far outweights my flaws.  
 IMO, such work would be setting me up for failure because 
 it doesn't harness my strengths.  And why should my only option at the moment
 be a temp agency?  Really?  Because I'm pretty sure that's worse than bestbuy. 
+
+#### Oh wells, I tried. Right?
+
+![You Tried =/](2016-04-12-the-nature-of-space-time-and-information-implies-universal-language/lolcat-you-tried.jpg)
