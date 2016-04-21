@@ -53,9 +53,7 @@ explain the facets of greatness as me trying to explain a concept
 
 ### The System
 
-
-
-## Quantification
+### Quantification
 
 Perhaps one facet is more important than others.  It's hard to say and
 while describing each facet, it seems that one is the crux.
@@ -498,7 +496,7 @@ exhibit irratic behavior.  But:
 - Inferring their belief structure
 - Comparing it to others
 - Generalizing belief structures
-- Compairing and contrasting them
+- Comparing and contrasting them
 - And understanding how that affects actions and results
 
 These are crucial to identifying opportunity and mitigating risk in
@@ -545,8 +543,9 @@ to a board of directors to invest in this risky new technology that
 might slash through profit margins in 5 years or so.  Why would they
 do that when they got a good thing goin on?  And convincing a public
 company to do this, when the public shareholders have considerable
-influence over the direction of a company?  "You're going to do what
-to my dividends?"
+influence over the direction of a company?  
+
+>"You're going to do what to my dividends?"
 
 Truthfully, the situation describe above, where a company stagnates on
 innovation because of conflict of interest probably doesn't play out
@@ -672,8 +671,8 @@ but this skill of looking for the commonly overlooked is a great contributing at
   - helps you focus harder on making the moment at hand more special
   - what did i do that pushed me forward? 
   - how did i assess my situation in life to make sure that i got the most out of it
-  - when there were setbacks, what did i do to 
-  - what makes my story different?  
+  - when there were setbacks, what did i do to
+  - what makes my story different?
   - and why did i do the things i did?
     - is the 'why' something i can tell other people?
       - if not, this *can* indicate negative behavior
@@ -728,8 +727,6 @@ Your vision and story should drive the development of your identity.  It becomes
 - know what they want and don't waste their energy chasing things they don't
   - they keep their eye on the ball (very important)
   	- if your energy/time is diverted to other things, you're not going to get much done
-
-
   - important for angel investors  (cut?)
     - if you want to perform as an angel investor, 
       - you need strong communication with the companies you fund
@@ -747,6 +744,8 @@ Your vision and story should drive the development of your identity.  It becomes
     - the kinds of people you need to look out for won't directly attack you
       - people like that are easy to deal with.  practically take care of themselves.
     - but they'll drain your spirit, redirect your energy and leave you exhausted.
+
+
 
 ### Legal System
 
