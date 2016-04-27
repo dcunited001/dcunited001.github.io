@@ -5,18 +5,33 @@ tags: "computer-science "
 headline: "How it works is easy, but why is always more important."
 author:
   name: "David Conner"
-excerpt: "Dico ergo quia non loquimur de talibus naturaliter possibilibus sed
-  miraculose possibilibus quod in uno parvo spacio et loco ut in loco
-  grani milii vel sub eius magnitudine Deus posset formare valde magnum
-  corpus, scilicet maius quam sit mundus et verum est quod illud corpus
-  non esset in illo parvo corpore vel loco circumscriptive et
-  commensurabiliter."
+excerpt: "This is a story about my quest to truly understand functional
+  programming.  It'd be much easier if I found myself surrounded by
+  other coders with the same pursuit.  Or better yet, in the midst of a
+  council of wise greybeards, who could recount days of yore, coding on
+  Lisp Machines and Space Cadet Keyboards."
 ---
 
-So, I've been struggling with a problem for the past few months and
-it's a bit embarrassing honestly.  You see, I'm working on a Swift
-graphics library called [Spectra](/projects/spectra) and I need to
-parse XML.
+This is a story about my quest to decipher the inner mysteries of
+functional programming.  There's just not enough work out there for
+the beginner to intermediate functional programmer.  This quest would
+be much easier if I found myself surrounded by other developers with
+the same pursuit.  Or better yet, in the midst of a council of wise
+greybeards, who could recount days of yore, coding on **Lisp
+Machines** and **Space Cadet Keyboards**.
+
+Bask in the glory of the Space Cadet Keyboard, among whom there is no
+equal! Wherefore art thou, Lisp Machine, oh divine purveyor of
+opulence and majestic wisdom.
+
+![Space Cadet Keyboard](/img/posts/2016-04-27-augment-your-lambda-fu-spectra-graphics-with-swift/space-cadet-keyboard.jpg)
+
+#### Weep now, for thee shall dream nevermore of greater splendor...
+
+... So, anyways, I've been struggling with a problem for the past few
+months and it's a bit embarrassing honestly.  You see, I'm working on
+a Swift graphics library called [Spectra](/projects/spectra) and I
+need to parse XML.
 
 > Yes, you heard me right: I'm having a hard time parsing XML.
 
@@ -95,6 +110,27 @@ framework to build them with.
 > The idea mentioning shaders processing elements in a graph of
 > vertices in a submesh is basically Conway's Game of Life for 3D
 > objects.
+
+![Cellular Automata and Conway's Game of Life](/img/posts/2016-04-27-augment-your-lambda-fu-spectra-graphics-with-swift/cellular-automata.gif)
+
+#### Conway's Game of Life
+
+Now, imagine the above, but instead of manipulating the value of each
+cell, you are manipulating the position, texture coordinate, color,
+anisotropy or surface normal value for a vertex on a mesh.  And you're
+doing so by constructing a random, balanced graph using a submesh on a
+mesh, which only requires the addition of an attribute to your mesh.
+Basically, an XML tag or just one mesh transformation.  Paired with
+anisotropy modulation and the right fragment shader, this technique
+could be particularly amazing.  However, it does require execution of
+a compute shader on each frame, as well as sacrificing some
+performance declarations for some of the fragment shader function
+inputs.
+
+You can find more info on *Cellular Automata* and *Conway's Game of
+Life* [here](http://mathworld.wolfram.com/CellularAutomaton.html). I
+remember coding this in Pascal in high school, though I wasn't aware
+of the name at the time.
 
 Exploring these concepts would allow me to visually demonstrate my
 math and programming skills to the world in a way which no one could
@@ -267,6 +303,8 @@ centralized of any platform or framework.
 #### 2015 - [What's New in Metal, Part 2New](https://developer.apple.com/videos/wwdc/2015/?id=607)
 
 
+
+
 ### Alien Haskell Technology
 
 However, as infinitely valuable as these AST/HOAS/etc structures are
@@ -292,26 +330,56 @@ composed to actually solve problems.
   - that's because it's purely functional and many of these design
     patterns are only needed when working with a Strongly Typed
     functional language
-  - lisp implements a lot of similar stuff with macros
+  - lisp implements a lot of similar stuff with macros, but it's
+    different, since one can more easily handle disparate types with
+    dynamic types.
+  - also, clojure's destructuring is one of my favorite features of
+    any programming language.  this right here solves so many
+    problems.
+
 
 - [Type Safe Code Transformations in Haskell](http://www.sciencedirect.com/science/article/pii/S1571066107002514)
 -
   [Parametric Compositional Data Types](http://arxiv.org/abs/1202.2917)
+- other papers with HOAS/PHOAS transformations of AST's in Haskell
+  - 
 
+[Spectra Trello Board](https://trello.com/b/FYL0pBuF/spectra)
 
 - briefly mention "extensible records" and Elm programming language
 - operators/combinators?
 
 ### Augment Your Lambda Fu - Part 2
 
+#### on lenses and prisms?
 
-
+- i want to write quite a bit about AST's, etc.  But I'm not sure if
+  this warrants a completely separate part or not.
 
 
 - Brandon Williams discussion on Lenses & Prisms
   - And his article/video on implementation of algrebraic structures in Swift
 - Visual Article discussing Lenses
-
+- Kmett's videos
+  - Especially this one:
+  - [The Unreasonable Effectiveness of Lenses for Business Applications](https://www.youtube.com/watch?v=T88TDS7L5DY&feature=youtu.be)
+    
+- To me, lenses have been so crucial to understanding the deeper
+  mysteries in functional programming,
+  - as they are really the first example of a 'higher-order'
+    generalized functional programming structure that I understood
+  - I say 'higher-order' since I am well acquainted with things like
+    monads, compose and bind.
+    - but, while fairly straightforward to understand, monads or
+      compose or bind are just general concepts.
+      - this kind of abstract non-sense really is the boon and curse
+        of functional programming.
+        - it's so generalized, it can apply to anything,
+        - but it's so generalized, it's difficult to relate to
+          anything
+        - that is, it's easy to understand what each higher-order
+          function or operator does, but it's difficult to understand
+          the why, since they can't easily be grounded to any familiar concept.
 
 
 - describe the Store monad
