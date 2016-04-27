@@ -1,7 +1,8 @@
 ---
 title: Augment Your Lambda Fu: Spectra Graphics with Swift"
 categories: blog
-tags: "computer-science "
+tags: "computer-science category-theory algorithms graphics swift
+  functional-programming haskell"
 headline: "How it works is easy, but why is always more important."
 author:
   name: "David Conner"
