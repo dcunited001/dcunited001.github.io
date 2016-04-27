@@ -143,6 +143,26 @@ Need for a tech-oriented language:
           - this is completely baseless by the way.
           - [enumerate ancient philosophic applications]
 
+- greatest blits: the coolest algorithms and coding techniques
+  - [Genetically improved BarraCUDA](http://arxiv.org/abs/1505.07855)
+    - for maximally performant multi-sequence alignment
+    - fucking badass: optimizes by restructuring the code & configuration of shaders
+      - uses genetic programming and scores each mutant in the batch on performance
+  - pretty much anything with AST's
+    - ast's are incredibly powerful
+    - you can transpile from one language to another
+  - decompilation & obfuscation
+  - slabbing algorithms
+  - cracking encryption
+
+- compose universal semantic network from several different languages,
+  - then datamine urban dictionary as well as data on idiom/slang usage
+    - to provide semantic algorithms with examples to make further inferences
+    - hopefully, it wouldn't confuse the semantic network
+      - but instead would allow algs to draw connections between more things
+      - this kind of learning probably needs humans involved
+
+- confession inspired by implanted memories?
 
 radial aspects of pulsar and planetary discovery?
 - if we've detected X planets, an`d we know that only planets who's orbit crosses 
