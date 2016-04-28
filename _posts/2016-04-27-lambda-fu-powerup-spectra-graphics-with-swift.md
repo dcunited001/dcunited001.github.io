@@ -26,7 +26,7 @@ Machines** and **Space Cadet Keyboards**.
 
 ![Space Cadet Keyboard](/img/posts/2016-04-27-lambda-fu-powerup-spectra-graphics-with-swift/space-cadet-keyboard.jpg)
 
-Bask in the glory of the  Cadet Keyboard, among whom there is no
+Bask in the glory of the Space Cadet Keyboard, among whom there is no
 equal! Wherefore art thou, Lisp Machine, oh divine purveyor of
 opulence and majestic wisdom.. . . ... So, anyways, I've been
 struggling with a problem for the past few months and it's a bit
