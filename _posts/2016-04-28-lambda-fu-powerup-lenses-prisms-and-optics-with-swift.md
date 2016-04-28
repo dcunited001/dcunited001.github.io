@@ -16,6 +16,74 @@ excerpt: "This is a story about my quest to decipher the inner mysteries of
 
 
 
+
+
+
+
+I was really searching for a means of retaining functionality while
+ensuring my interface for working with pipelines and the scene graph
+would be uniform, instead of complicated and highly variadic.  I tried
+several things to achieve this end.  I thought I could pass in a
+closure, along with metadata for the tree of nodes I was generating,
+but this didn't resolve the complexity.  While I found this to be a
+very useful pattern, actually implementing it to override how XML
+nodes were generated into Model I/O objects was clunky in real
+practice.  If one needed to replace a mesh that was three levels deep
+in an XML node tree, it meant a developer would have to mostly hand
+code a structure that mirrored the node tree down three levels at
+least.  That is, it'd actually be simpler just to instantiate the
+classes by hand than to ever use the XML at all, if you wanted custom
+behavior by composing subtrees of XML nodes together.  I eventually found
+
+#### The SpectraInjected Tuple
+
+{% highlight swift %}
+// pass in a map of containers,
+// - along with metadata to retrieve objects from them when necessary
+public typealias SpectraInjected = (inj: [String: Container], options: [String: Any])
+{% endhighlight %}
+
+#### The MetalNodeInjector Closure
+
+{% highlight swift %}
+// A Closure to optionally inject
+// - to enable some flexibility when generating a tree of nodes
+public typealias MetalNodeInjector = (inj: [String: Container], options: [String: Any]) -
+(inj: [String: Container], options: [String: Any])
+{% endhighlight %}
+
+
+#### The MetalNode Protocol
+
+{% highlight swift %}
+// Note: the typical java method of parsing XML nodes
+// - with simple generics may have been superior
+
+public protocol MetalNode {
+associatedtype NodeType
+associatedtype MTLType
+
+var id: String? { get set }
+init() // adding this blank initializer allows me to work with Self() in RenderPassAttachmentDescriptorNode extension
+init(nodes: Container, elem: XMLElement)
+func parseXML(nodes: Container, elem: XMLElement)
+func generate(inj: [String: Container],
+                   options: [String: Any],
+                   injector: MetalNodeInjector?) -> MTLType
+func register(nodes: Container, objectScope: ObjectScope)
+// copy is required for ensuring immutability when retrieving nodes from D/I containers
+func copy() -> NodeType
+}
+{% endhighlight %}
+
+
+
+
+
+
+
+
+
 ### Alien Haskell Technology
 
 However, as infinitely valuable as these AST/HOAS/etc structures are
