@@ -33,12 +33,10 @@ struggling with a problem for the past few months and it's a bit
 embarrassing honestly.  You see, I'm working on a Swift graphics
 library called [Spectra](/projects/spectra) and I need to parse XML.
 
-> Yes, you heard me right: I'm having a hard time parsing XML.
-
-Well, technically, I'm parsing it just fine into node trees,
-registering those into dependency injection.  The hard part is working
-with those trees and allowing everything to remain generic and
-flexible.
+Yes, you heard me right: I'm having a hard time parsing XML. Well,
+technically, I'm parsing it just fine into node trees, registering
+those into dependency injection.  The hard part is working with those
+trees and allowing everything to remain generic and flexible.
 
 So why is it hard?  Well, since I'm using Swift, I want to use the
 language's strongly-typed functional capabilities.  I've been very
@@ -50,10 +48,14 @@ reimplement an aged-old problem and recreate the wheel with yet
 another "Look What I Can Do" graphics library?  Impressive?
 Meh... Yes, actually.  Creative?  Not really.
 
-### Spectra: A Functional Graphics Library on a First Party Platform
+### Metal and Vulkan Signal Opportunity for 3D Graphics
 
 First, a bit of background on why I've spent so much time working on
-graphics.
+graphics. VR means that Graphics is shaping up to be a high-demand
+skill rapidly -- and so is compute, with AI and machine learning
+growing by the minute.  The allure of distributed machine learning was
+enticing as well -- compute cost could be offloaded to consumers under
+specific circumstances.
 
 #### Look What I Can Do!
 
@@ -70,12 +72,54 @@ challenge of it - there was no one else doing this stuff! It was still
 fresh.  There were no open source libraries or frameworks built on
 Metal yet.
 
-I smelled an opportunity.  Apple controls the design of chips on
-mobile.  Metal is exclusive to Apple platforms.  Graphics is shaping
-up to be a high-demand skill rapidly -- and so is compute, with AI and
-machine learning growing by the minute.  The allure of distributed
-machine learning was enticing as well -- compute cost could be
-offloaded to consumers under specific circumstances.
+Metal is exclusive to Apple platforms. The competing framework Vulkan
+was designed by the Kronos Group, a graphics industry consortium.  It
+just came out and is impressive as well. I smelled an
+opportunity. Since these major graphics developments just came out,
+that means that there's a need for frameworks to be built for them.
+The vastly superior flexibility of Metal and Vulkan implies
+drastically novel implementations for higher level graphics
+frameworks.
+
+Yes, there are already existing frameworks like Unity and Unreal
+Engine.  And yes, those frameworks have massive followings in the game
+development world.  Developers have contributed years of their life
+becoming familiar with those designs, so it's not going to be easy to
+unseat them.  However, the new frameworks with a completely fresh
+start on design are the frameworks that are capable of truly
+harnessing the power of Metal and Vulkan.
+
+The existing major players will want to take advantage of many of the
+new features, like superior memory access modes and other
+optimizations, for performance and flexibility.  Doing so will mean at
+least two or more years of migration.  And they are anchored to OpenGL
+support for older devices as well.  Even still, these larger
+frameworks are locked into maintaining some design patterns for the
+next complete major version at least.
+
+And no, I don't think my framework will ever be on their level -- the
+best thing it has going for it right now is the name, Spectra.
+However, I'm excited to work on building a graphics framework from the
+ground up with zero a priori knowledge on the traditional design of
+such a framework, aside from what I picked up from the basic tutorials
+out there.
+
+### Spectra: A Functional Graphics Library
+#### on a First Party Platform and Language
+
+Apple controls the design of their mobile.  Vulkan is required to
+support a much wider array of graphics cards, which honestly is still
+fairly limited since almost everything running hardware from a handful
+of companies.  Check the [Vulkan Hardware Chart] for more info.  For
+example, only NVidia cards from Fermi onwards will support Vulkan and
+to varying degrees of functionality.  That's basically NVidia
+
+
+
+The minimal variance in hardware means performance optimization is
+minimally complex, even though the is fairly restricted
+
+
 
 Apple has always had an advantage in software performance, both
 efficiency of compute and power consumption, that results from their
