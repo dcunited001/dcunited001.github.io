@@ -51,11 +51,14 @@ Meh... Yes, actually.  Creative?  Not really.
 ### Metal and Vulkan Signal Opportunity for 3D Graphics
 
 First, a bit of background on why I've spent so much time working on
-graphics. VR means that Graphics is shaping up to be a high-demand
+graphics.  And then I'll describe the difference in design and
+performance that functional programming can make for graphics.
+
+VR means that Graphics is shaping up to be a high-demand
 skill rapidly -- and so is compute, with AI and machine learning
-growing by the minute.  The allure of distributed machine learning was
+growing by the minute.  The allure of distributed machine learning is
 enticing as well -- compute cost could be offloaded to consumers under
-specific circumstances.
+some circumstances.
 
 #### Look What I Can Do!
 
@@ -105,27 +108,55 @@ such a framework, aside from what I picked up from the basic tutorials
 out there.
 
 ### Spectra: A Functional Graphics Library
+
 #### on a First Party Platform and Language
 
-Apple controls the design of their mobile.  Vulkan is required to
-support a much wider array of graphics cards, which honestly is still
-fairly limited since almost everything running hardware from a handful
-of companies.  Check the [Vulkan Hardware Chart] for more info.  For
-example, only NVidia cards from Fermi onwards will support Vulkan and
-to varying degrees of functionality.  That's basically NVidia
+Apple tightly controls the design of their mobile chips.  Vulkan is
+required to support a much wider array of graphics cards, which
+honestly is still fairly limited since almost everything running
+hardware from a handful of companies.  Check the
+[Vulkan Hardware Chart] for more info.  For example, only NVidia cards
+from Fermi onwards will support Vulkan and to varying degrees of
+functionality.  That's basically NVidia's products from the last 3
+years.  Support is not uniform across operating system and the
+software interface may vary slightly, both of which mean somewhat more
+complex software design or more likely a markedly reduced usage of
+Vulkan's distinguishing features.
 
+Apple's minimal variance in hardware means performance optimization is
+minimally complex, even though the reduced diversity in devices for
+Vulkan means there's not too much of a difference here.  But more
+tightly controlled hardware design for Metal-capable devices implies
+several advantages.
 
+### Metal Advantages Driven By Hardware
 
-The minimal variance in hardware means performance optimization is
-minimally complex, even though the is fairly restricted
+#### &#x2295; Faster consumer adoption of Metal-capable devices
 
+#### &#x2295; Simpler software complexity to realize performance gains
 
+#### &#x2295; Nearly complete Metal feature penetration.
+
+#### &#x2295; Simpler software tooling for developers, like debuggers.
+
+#### &#x2295; Segmented market means Metal is decoupled from other industry progress.
+
+All of this translates into opportunity for Apple to provide unique
+offerings to marketably distinguish it's graphical and gaming
+capabilities.  That's Apple.  And to those who question my exploration
+of graphics and gaming on Apple's platform, I have my reasons.  And
+yes, the software developed to ride Metal will have a smaller market.
+But that's a good thing.  The past decade has shown that Apple
+platforms tap markets that are consistently more affluent and
+sophisticated.
 
 Apple has always had an advantage in software performance, both
 efficiency of compute and power consumption, that results from their
 limited hardware platforms.  This constitutes a major advantage for
 Apple -- they may end up having the most efficient graphics and
-compute platform.  And though most people don't think of Apple as
+compute platform.  They'll definitely have the earliest, most
+consistent set of software tools for developers.  The debugger is
+fantastic for Metal, trust me. And though most people don't think of Apple as
 providing a rich platform for gaming or VR, Metal might just make the
 difference.
 
@@ -137,7 +168,18 @@ building the next revolutionary software products.  So even if my
 framework with a novel functional design wasn't exactly revolutionary,
 what I'd learn would make it worth my time.
 
-### A Graphics Framework to Learn Low-Level Graphics
+### Swift: Functional For Fun and Profit
+
+#### A Graphics Framework to Learn Low-Level Graphics
+
+And yet another major strength for Apple: the Swift language.  Yes,
+it's open source now and available on Linux.  But it's still a first
+party language and one of the few that's functional and enjoys wide
+support.  The programming patterns in Haskell seem to work fairly well
+in Swift, which opens interesting new design possibilities that aren't
+as available for other operating systems and platforms. Apple is
+great at concentrating their energy into the right places and Swift
+exemplifies this.
 
 As I was learning to work with graphics and compute myself, I wanted
 to build a framework that allowed me to explore various graphics
@@ -162,20 +204,19 @@ submesh.  I imagined this all before I ever looked at the Model I/O
 API.  I had soo many beautiful ideas I could see in my head, but no
 framework to build them with.
 
-> The idea mentioning shaders processing elements in a graph of
-> vertices in a submesh is basically Conway's Game of Life for 3D
-> objects.
+#### Conway's Game of Life
 
 ![Cellular Automata and Conway's Game of Life](/img/posts/2016-04-27-lambda-fu-powerup-spectra-graphics-with-swift/cellular-automata.gif)
 
-#### Conway's Game of Life
+Processing elements in a graph of vertices in a submesh is basically
+Conway's Game of Life for 3D objects.
 
 Now, imagine the above, but instead of manipulating the value of each
 cell, you are manipulating the position, texture coordinate, color,
 anisotropy or surface normal value for a vertex on a mesh.  And you're
 doing so by constructing a random, balanced graph using a submesh on a
-mesh, which only requires the addition of an attribute to your mesh.
-Basically, an XML tag or just one mesh transformation.  Paired with
+mesh, which only requires the addition of one attribute to your mesh
+-- basically, an XML tag or just one mesh transformation.  Paired with
 anisotropy modulation and the right fragment shader, this technique
 could be particularly amazing.  However, it does require execution of
 a compute shader on each frame, as well as sacrificing some
@@ -189,27 +230,41 @@ of the name at the time.
 
 Exploring these concepts would allow me to visually demonstrate my
 math and programming skills to the world in a way which no one could
-deny!  And it would allow me to begin to understand algebraic geometry
-and I could learn advanced math at the same time as producing a very
-visual portfolio that would make it impossible for anyone to insinuate
-that I lacked skill.  I am seriously so tired of that shit.
+downplay or deny!  Where before, a handful of people have, towards my
+detriment, essentially claimed that I lack skill or knowledge in
+technology and pointed to my difficulty with UI design/implementation,
+if I begin to excel in graphics, it'd be visibly obvious that they've
+been wrong the whole time.  What is often preclusively difficult for
+these same detractors, I soak up like a sponge. It's just frustrating
+that I haven't had the opportunity to work with this stuff.  Or work
+at efficiently at 60 hours per week at any time during the past four
+years, for whatever reason.
+
+Graphics and espcially geometry manipulation would allow me to begin
+to understand algebraic geometry, which studies the functional
+"shapes" that emerge from morphisms between increasingly complicated
+categories -- the stuff functional programming is made of. I could
+learn advanced math at the same time as producing a very visual
+portfolio that would make it impossible for anyone to insinuate that I
+lacked skill.  I am seriously so tired of that shit.
 
 > If you think I am below you, could you maybe treat me in the same
 > way I would treat someone who I perceived to be below my skill
 > level?  I would offer that person authentic advice on where to find
 > the answers to improve.
 
-And so, I found myself designing a kind of novel rendering pipeline that
-chains blocks of functional behavior to be sent to an encoder for the
-GPU.  It seemed different than how all the docs online I was reading
-were describing how graphics were processed.  This design would allow
-me to dynamically restructure models that were being rendered or
-switch them to be rendered with different pipelines.  In theory, this
-design would also make it a bit easier (fingers crossed) to use the
-parallel render encoder for Metal, which enables you to use multiple
-CPU cores to direct graphics to be encoded.  So, functional paradigms
-for a graphics framework offer simplicity (in theory) and more
-manageable performance.
+And so, I found myself designing a kind of novel rendering pipeline
+that chains blocks of functional behavior to be sent to an encoder for
+the GPU.  It seemed different than how all the docs online I was
+reading were describing how graphics were processed.  This design
+would allow me to dynamically restructure models that were being
+rendered or switch them to be rendered with different pipelines.  In
+theory, this design would also make it a bit easier (fingers crossed)
+to use the parallel render encoder for Metal, which enables you to use
+multiple CPU cores to direct graphics to be encoded.  So, functional
+design paradigms for a graphics framework should promote simplicity
+(in theory) and more manageable performance.  Swift's nature opens up
+possibilities for faster realization of Metal's benefits.
 
 Furthermore, perhaps the most exciting for myself, functional
 programming is based on category theory and so are the primitives for
@@ -222,11 +277,22 @@ composition of fairly simply defined attributes.  Such a framework
 for geometry would be amazing for providing visuals at a
 lightshow. And I could finally learn how it all worked.
 
-It was a bit frustrating for me to realize my natural talent for
-this.  As with everything else, I found creativity surging, but the
-time for implementation lacking. Still, not a single person has
-contributed to my library. That's OK.  I'm pretty opinionated as to
-the kind of design I want, but I would really appreciate any advice.
+It was a bit frustrating for me to realize my natural talent for this.
+As with everything else, I found creativity surging, but the time for
+implementation lacking. Still, not a single person has contributed to
+my library. That's OK.  I'm pretty opinionated as to the kind of
+design I want, but I would really appreciate any advice. And
+admittedly, some of these problems are a bit out of my reach.  Buffer
+allocation and the kind of speciallized resource utilization required
+for complex 3D graphics is really just too hard for me right
+now. Also, benchmarking and estimating the workload for each frame, 60
+times a second -- and especially redirecting resources when you detect
+a workload that exceeds your throughput -- this is incredibly tough.
+Resource prioritization and resource allocation for 3D graphics are
+problems that are orders of magnitude more difficult than designing a
+scene graph and rendering some things.
+
+But that challenge is exactly what I find alluring.
 
 ### Why XML for Spectra? And Why Is It Hard?
 
