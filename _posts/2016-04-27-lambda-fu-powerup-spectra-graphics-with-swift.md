@@ -2,7 +2,7 @@
 title: "Lambda Fu Powerup: Spectra Graphics with Swift"
 categories: blog
 tags: "computer-science category-theory algorithms graphics swift functional-programming haskell"
-headline: "How it works is easy, but why is always more important."
+headline: "Swift and Metal power novel new design for 3D graphics"
 author:
   name: "David Conner"
 excerpt: "This is a story about my quest to decipher the inner mysteries of
@@ -305,8 +305,10 @@ VR.  This idea is all over the place and there are many similar
 frameworks for 3D with HTML Canvas.
 
 But then, I found myself needing dependency injection badly,
-especially when passing objects in for rendering.  I needed access to
-everything, everywhere pretty much.  Yet, at the same time, I needed
+especially when passing objects in for rendering.  D/I is usually an
+object-oriented design pattern, but I wanted to bring over the
+simpilicity I saw in Angular.  I needed access to everything,
+everywhere pretty much.  Yet, at the same time, I needed
 **manageable** and **performant** dependency injection.  Graphics is
 such a great problem for exploring hard problems in computer science.
 It's not so bad, just exploring the pipeline or scene graph.  But as
@@ -366,6 +368,8 @@ metaprogramming and reflection with Swift, both of which are fairly
 lacking. I would go down the rabbit hole, so to speak, just to find
 that there was absolutely no way to do the thing I was trying.  Then,
 I would have to spend a ton of time backing out of the rabbit hole.
+Each time, I made a design change, I had to replicate it across
+between 20 and 40 classes ... because I'm a genius...
 
 It seemed that classes were the way to go and that structs were more
 restrictive, since they descended from `Any`.  But this conflicted
@@ -380,10 +384,10 @@ I realized I needed more math and so I started watching tons of
 lectures on everything: Abstract Algebra, Combinatorics, Matroids and
 more.  But still, I couldn't find the elusive knowledge for working
 with trees.  I looked at parser combinators and lexers.  I looked at
-the documentation for Google's perfect design for generating &
-managing DOM, parsed from HTML.  But still, that (and everything else)
-mostly talked about generating a tree-like object from text or some
-other form.  Instead of manipulating it.
+the documentation on Google's perfect design for generating & managing
+DOM, parsed from HTML.  But still, that (and everything else) mostly
+talked about generating a tree-like object from text or some other
+form.  Instead of manipulating it.
 
 I began to realize that what I wanted to do was moreso along the lines
 of manipulating AST's, so I started looking into that and Type Theory.
@@ -392,7 +396,14 @@ All the articles I found were written with obscure mathematical
 notation.  I finally found Lenses and Prisms, which are the perfect
 library for working with this kind of stuff.
 
-## Lambda Fu Powerup - Part Two
+By the way, if you want a great intro to Type Theory, check out Erik
+Hinton's presentation on
+[The Derivative of a Regular Type is its Type of One-Hole Contexts](https://www.youtube.com/watch?v=K7tQsKxC2I8).
+I'll try to write a Lambda Fu Powerup post on AST/HOAS/PHOAS
+soon. It's an incredibly powerful concept that I've been fascinated
+with the topic for quite some time, but I have a ton to learn.
+
+## Next Up on Lambda Fu!
 
 ### Optics: Lenses and Prisms in Swift
 
@@ -417,104 +428,19 @@ documentation, I've found it to be some of the best, concise and
 centralized of any platform or framework.
 
 #### 2014 - [Working with Metal: Overview](https://developer.apple.com/videos/wwdc/2014/#603)
+
 #### 2014 - [Working with Metal: Fundamentals](https://developer.apple.com/videos/wwdc/2014/#604)
+
 #### 2014 - [Working with Metal: Advanced](https://developer.apple.com/videos/wwdc/2014/#605)
+
 #### 2015 - [Metal Performance Optimization Techniques](https://developer.apple.com/videos/wwdc/2015/?id=610)
+
 #### 2015 - [What's New in Metal, Part 1New](https://developer.apple.com/videos/wwdc/2015/?id=603)
+
 #### 2015 - [What's New in Metal, Part 2New](https://developer.apple.com/videos/wwdc/2015/?id=607)
 
-
-
-
-### Alien Haskell Technology
-
-However, as infinitely valuable as these AST/HOAS/etc structures are
-to functional programming, it's very difficult to see why these are
-more useful than they appear on the surface.  Without context and a
-clear understanding of the mathematic notation, it's hard for me to
-parse together how these objects can be used, though my imagination
-runs wild.  It appears that these AST's are indeed very difficult to
-work with, as the examples of programmatic manipulation seem limited
-and are described by the authors as such.
-
-Haskell is a difficult language to pick up, though I've been hard at
-learning functional programming for a few years now.  I've explored
-Clojure a bit and everyone's played with javascript.  However, without
-walking through the Land of Lisp and short of having a personal
-assistant who can answer any questions that I might have --
-particularly on the "Why" of functional programming techniques -- it's
-been quite a challenge to understand how these techniques are to be
-composed to actually solve problems.
-
-- the only language which seems to have a decent amount of examples of
-  this stuff is haskell
-  - that's because it's purely functional and many of these design
-    patterns are only needed when working with a Strongly Typed
-    functional language
-  - lisp implements a lot of similar stuff with macros, but it's
-    different, since one can more easily handle disparate types with
-    dynamic types.
-  - also, clojure's destructuring is one of my favorite features of
-    any programming language.  this right here solves so many
-    problems.
-
-
-- [Type Safe Code Transformations in Haskell](http://www.sciencedirect.com/science/article/pii/S1571066107002514)
--
-  [Parametric Compositional Data Types](http://arxiv.org/abs/1202.2917)
-- other papers with HOAS/PHOAS transformations of AST's in Haskell
-
-[Spectra Trello Board](https://trello.com/b/FYL0pBuF/spectra)
-
-- briefly mention "extensible records" and Elm programming language
-- operators/combinators?
-
-### Lambda Fu Powerup - Part 2
-
-#### on lenses and prisms?
-
-- i want to write quite a bit about AST's, etc.  But I'm not sure if
-  this warrants a completely separate part or not.
-
-
-- Brandon Williams discussion on Lenses & Prisms
-  - And his article/video on implementation of algrebraic structures in Swift
-- Visual Article discussing Lenses
-- Kmett's videos
-  - Especially this one:
-  -
-    [The Unreasonable Effectiveness of Lenses for Business Applications](https://www.youtube.com/watch?v=T88TDS7L5DY&feature=youtu.be)
-  -
-    [Program Imperatively Using Haskell Lenses](http://www.haskellforall.com/2013/05/program-imperatively-using-haskell.html)
-
-- [Typelift/Focus](https://github.com/typelift/Focus) - Optics for
-  Swift with Lenses, Prisms and more!
-
-- To me, lenses have been so crucial to understanding the deeper
-  mysteries in functional programming,
-  - as they are really the first example of a 'higher-order'
-    generalized functional programming structure that I understood
-  - I say 'higher-order' since I am well acquainted with things like
-    monads, compose and bind.
-    - but, while fairly straightforward to understand, monads or
-      compose or bind are just general concepts.
-      - this kind of abstract non-sense really is the boon and curse
-        of functional programming.
-        - it's so generalized, it can apply to anything,
-        - but it's so generalized, it's difficult to relate to
-          anything
-        - that is, it's easy to understand what each higher-order
-          function or operator does, but it's difficult to understand
-          the why, since they can't easily be grounded to any familiar concept.
-
-
-- describe the Store monad
-  - like nodes of descretized trees of indexable operations
-  - [A Schemer's View on Monads](https://news.ycombinator.com/item?id=5068196)
-- describe the State monad
-- describe how the zoom<x> function is useful
-- describe how continuations can be aggregated
-- describe a functional state machine for transforming and operating
-  on tree-like or graph-like data structures
-  - what is an appropriate design for the intermediate objects that
-    are passed around and accumulate deferred behaviors
+And finally, if you're getting into Metal, you're going to want to
+check out [FlexMonkey's blog](http://flexmonkey.blogspot.com/).  He
+has some amazing examples with Metal, as well as image processing.
+[@FlexMonkey](https://twitter.com/FlexMonkey) Follow him on Twitter if
+you're into this stuff, for real!
