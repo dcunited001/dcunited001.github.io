@@ -129,3 +129,11 @@
   :name: Physics
 - :slug: astronomy
   :name: Astronomy
+- :slug: graphics
+  :name: Graphics
+- :slug: swift
+  :name: Swift
+- :slug: functional-programming
+  :name: Functional Programming
+- :slug: haskell
+  :name: Haskell
