@@ -339,19 +339,19 @@ manipulations as attributes on the latter copies.  I could alter the
 surface normals or change the texture coordinates or add more vertices
 (and update submeshes accordingly) to prepare for a transformation
 from one shape to another.  And then, once those geometry morphisms
-were complete, I could execute a deferred callback to swap out the
-objects being rendered and another callback to deallocated the former
-copies, only retaining the copied objects afterward.  AFAIK, all of
-this stuff is incredibly challenging and not very easy with existing
-frameworks.
+were complete, I could use continuation and state monads to execute a
+deferred callback to swap out the objects being rendered and another
+callback to deallocated the former copies, only retaining the copied
+objects afterward.  AFAIK, all of this stuff is incredibly challenging
+and not very easy with existing frameworks.
 
 But these capabilities were only possible if I could read the scene
 graph into D/I containers just the right way so that resources could
 be easily managed later.  And this depended on working with the trees
 of XML nodes in an unusual way.  Any design that I approached seemed
 to make the problem space just as complicated as if I didn't have XML
-at all.  This is because the meta-structure for an tree is almost as
-complicated as the tree itself, which means that manipulating the tree
+at all.  This is because the meta-structure for any tree is almost as
+complicated as the tree itself, which means manipulating the tree
 programmatically requires knowledge of the tree structure.  And *THAT*
 means, that it's pointless to read in the objects in XML, since to
 manipulate them, you need to know the structure of each tree and
