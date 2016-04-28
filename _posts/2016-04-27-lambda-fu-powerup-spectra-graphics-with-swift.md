@@ -109,19 +109,20 @@ out there.
 
 ### Spectra: A Functional Graphics Library
 
-#### on a First Party Platform and Language
+#### On a First Party Platform and Language
 
 Apple tightly controls the design of their mobile chips.  Vulkan is
 required to support a much wider array of graphics cards, which
 honestly is still fairly limited since almost everything running
 hardware from a handful of companies.  Check the
-[Vulkan Hardware Chart] for more info.  For example, only NVidia cards
-from Fermi onwards will support Vulkan and to varying degrees of
-functionality.  That's basically NVidia's products from the last 3
-years.  Support is not uniform across operating system and the
-software interface may vary slightly, both of which mean somewhat more
-complex software design or more likely a markedly reduced usage of
-Vulkan's distinguishing features.
+[Vulkan Hardware Chart](https://en.wikipedia.org/wiki/Vulkan_(API)#Hardware)
+for more info.  For example, only NVidia cards from Fermi onwards will
+support Vulkan and to varying degrees of functionality.  That's
+basically NVidia's products from the last 3 years.  Support is not
+uniform across operating system and the software interface may vary
+slightly, both of which mean somewhat more complex software design or
+more likely a markedly reduced usage of Vulkan's distinguishing
+features.
 
 Apple's minimal variance in hardware means performance optimization is
 minimally complex, even though the reduced diversity in devices for
@@ -155,10 +156,10 @@ efficiency of compute and power consumption, that results from their
 limited hardware platforms.  This constitutes a major advantage for
 Apple -- they may end up having the most efficient graphics and
 compute platform.  They'll definitely have the earliest, most
-consistent set of software tools for developers.  The debugger is
-fantastic for Metal, trust me. And though most people don't think of Apple as
-providing a rich platform for gaming or VR, Metal might just make the
-difference.
+consistent set of software tools for developers.  The Metal debugging
+tools are fantastic, trust me. And though most people don't think of
+Apple as providing a rich platform for gaming or VR, Metal might just
+make the difference.
 
 And so, I began to think that building a graphics platform might
 present valuable opportunity later on -- or help me build credibility
@@ -186,7 +187,7 @@ to build a framework that allowed me to explore various graphics
 pipelines.  This means being able to take various meshes and
 processing their vertices and surfaces in various ways.  I envisioned
 many creative uses of graphics techniques using the primitives found
-in Metal. I unintentionally used a compute shader to create what is
+in Metal. I unknowingly used a compute shader to create what is
 known as a tessellation shader in OpenGL.  I constantly found myself
 reinventing known techniques in graphics.
 
@@ -240,13 +241,13 @@ that I haven't had the opportunity to work with this stuff.  Or work
 at efficiently at 60 hours per week at any time during the past four
 years, for whatever reason.
 
-Graphics and espcially geometry manipulation would allow me to begin
+Graphics and especially geometry manipulation would allow me to begin
 to understand algebraic geometry, which studies the functional
 "shapes" that emerge from morphisms between increasingly complicated
-categories -- the stuff functional programming is made of. I could
-learn advanced math at the same time as producing a very visual
-portfolio that would make it impossible for anyone to insinuate that I
-lacked skill.  I am seriously so tired of that shit.
+categories and their duals -- the stuff functional programming is made
+of. I could learn advanced math at the same time as producing a very
+visual portfolio that would make it impossible for anyone to insinuate
+that I lacked skill.  I am seriously so tired of that shit.
 
 > If you think I am below you, could you maybe treat me in the same
 > way I would treat someone who I perceived to be below my skill
@@ -278,19 +279,19 @@ for geometry would be amazing for providing visuals at a
 lightshow. And I could finally learn how it all worked.
 
 It was a bit frustrating for me to realize my natural talent for this.
-As with everything else, I found creativity surging, but the time for
-implementation lacking. Still, not a single person has contributed to
-my library. That's OK.  I'm pretty opinionated as to the kind of
-design I want, but I would really appreciate any advice. And
-admittedly, some of these problems are a bit out of my reach.  Buffer
-allocation and the kind of speciallized resource utilization required
-for complex 3D graphics is really just too hard for me right
-now. Also, benchmarking and estimating the workload for each frame, 60
-times a second -- and especially redirecting resources when you detect
-a workload that exceeds your throughput -- this is incredibly tough.
-Resource prioritization and resource allocation for 3D graphics are
-problems that are orders of magnitude more difficult than designing a
-scene graph and rendering some things.
+As with everything else, I found creativity surging, but the time and
+skill for implementation lacking. Still, not a single person has
+contributed to my library. That's OK.  I'm pretty opinionated as to
+the kind of design I want, but I would really appreciate any
+advice. And admittedly, some of these problems are a bit out of my
+reach.  Buffer allocation and the kind of speciallized resource
+utilization required for complex 3D graphics is really just too hard
+for me right now. Also, benchmarking and estimating the workload for
+each frame, 60 times a second -- and especially redirecting resources
+when you detect a workload that exceeds your throughput -- this is
+incredibly tough.  Resource prioritization and resource allocation for
+3D graphics are problems that are orders of magnitude more difficult
+than designing a scene graph and rendering some things.
 
 But that challenge is exactly what I find alluring.
 
@@ -330,8 +331,7 @@ dependency injection containers.  From there, I can generate the XML
 node objects into actual Metal and Model I/O objects, but before I do,
 I can compose those nodes with other nodes or entirely replace some
 branches of objects in the scene graph.  This is very useful when you
-want your graphics framework to process **REAL-TIME GEOMETRY
-SHADERS**.
+want your graphics framework to process *real-time geometry shaders*.
 
 I could duplicate the objects and allocate the copies to memory, as
 the former is being rendered.  I could then apply geometry
@@ -427,6 +427,14 @@ all of which are immensely useful.  As I've gotten used to Apple's
 documentation, I've found it to be some of the best, concise and
 centralized of any platform or framework.
 
+And finally, if you're getting into Metal, you're going to want to
+check out [FlexMonkey's blog](http://flexmonkey.blogspot.com/).  He
+has some amazing examples with Metal, as well as image processing.
+[@FlexMonkey](https://twitter.com/FlexMonkey) Follow him on Twitter if
+you're into this stuff, for real!
+
+### WWDC Presentations on Metal
+
 #### 2014 - [Working with Metal: Overview](https://developer.apple.com/videos/wwdc/2014/#603)
 
 #### 2014 - [Working with Metal: Fundamentals](https://developer.apple.com/videos/wwdc/2014/#604)
@@ -438,9 +446,3 @@ centralized of any platform or framework.
 #### 2015 - [What's New in Metal, Part 1New](https://developer.apple.com/videos/wwdc/2015/?id=603)
 
 #### 2015 - [What's New in Metal, Part 2New](https://developer.apple.com/videos/wwdc/2015/?id=607)
-
-And finally, if you're getting into Metal, you're going to want to
-check out [FlexMonkey's blog](http://flexmonkey.blogspot.com/).  He
-has some amazing examples with Metal, as well as image processing.
-[@FlexMonkey](https://twitter.com/FlexMonkey) Follow him on Twitter if
-you're into this stuff, for real!
