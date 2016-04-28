@@ -1,5 +1,5 @@
 ---
-title: "Augment Your Lambda Fu: Spectra Graphics with Swift"
+title: "Lambda Fu Powerup: Spectra Graphics with Swift"
 categories: blog
 tags: "computer-science category-theory algorithms graphics swift functional-programming haskell"
 headline: "How it works is easy, but why is always more important."
@@ -22,20 +22,23 @@ the same pursuit.  Or better yet, in the midst of a council of wise
 greybeards, who could recount days of yore, coding on **Lisp
 Machines** and **Space Cadet Keyboards**.
 
-Bask in the glory of the Space Cadet Keyboard, among whom there is no
-equal! Wherefore art thou, Lisp Machine, oh divine purveyor of
-opulence and majestic wisdom.
-
-![Space Cadet Keyboard](/img/posts/2016-04-27-augment-your-lambda-fu-spectra-graphics-with-swift/space-cadet-keyboard.jpg)
-
 #### Weep now, for thee shall dream nevermore of greater splendor...
 
-... So, anyways, I've been struggling with a problem for the past few
-months and it's a bit embarrassing honestly.  You see, I'm working on
-a Swift graphics library called [Spectra](/projects/spectra) and I
-need to parse XML.
+![Space Cadet Keyboard](/img/posts/2016-04-27-lambda-fu-powerup-spectra-graphics-with-swift/space-cadet-keyboard.jpg)
+
+Bask in the glory of the  Cadet Keyboard, among whom there is no
+equal! Wherefore art thou, Lisp Machine, oh divine purveyor of
+opulence and majestic wisdom.. . . ... So, anyways, I've been
+struggling with a problem for the past few months and it's a bit
+embarrassing honestly.  You see, I'm working on a Swift graphics
+library called [Spectra](/projects/spectra) and I need to parse XML.
 
 > Yes, you heard me right: I'm having a hard time parsing XML.
+
+Well, technically, I'm parsing it just fine into node trees,
+registering those into dependency injection.  The hard part is working
+with those trees and allowing everything to remain generic and
+flexible.
 
 So why is it hard?  Well, since I'm using Swift, I want to use the
 language's strongly-typed functional capabilities.  I've been very
@@ -52,6 +55,12 @@ Meh... Yes, actually.  Creative?  Not really.
 First, a bit of background on why I've spent so much time working on
 graphics.
 
+#### Look What I Can Do!
+
+![Everyone's favorite 500 Line Triangle](/img/posts/2016-04-27-lambda-fu-powerup-spectra-graphics-with-swift/triangle.png)
+
+#### I Drew A Triangle with 500 Lines of Code!
+
 I first saw the opportunity when I began to work with Metal, an
 alternative to OpenGL at the suggestion of someone on an Apple IRC
 channel.  I compared the two frameworks and something clicked with me
@@ -62,11 +71,11 @@ fresh.  There were no open source libraries or frameworks built on
 Metal yet.
 
 I smelled an opportunity.  Apple controls the design of chips on
-mobile.  Metal is exclusive to Apple platforms.  Graphics is going to
-huge very soon - and so is compute, with AI and machine learning
-growing by the minute.  The allure of distributed machine learning was
-alluring as well - compute cost could be offloaded to consumers under
-specific circumstances.
+mobile.  Metal is exclusive to Apple platforms.  Graphics is shaping
+up to be a high-demand skill rapidly -- and so is compute, with AI and
+machine learning growing by the minute.  The allure of distributed
+machine learning was enticing as well -- compute cost could be
+offloaded to consumers under specific circumstances.
 
 Apple has always had an advantage in software performance, both
 efficiency of compute and power consumption, that results from their
@@ -113,7 +122,7 @@ framework to build them with.
 > vertices in a submesh is basically Conway's Game of Life for 3D
 > objects.
 
-![Cellular Automata and Conway's Game of Life](/img/posts/2016-04-27-augment-your-lambda-fu-spectra-graphics-with-swift/cellular-automata.gif)
+![Cellular Automata and Conway's Game of Life](/img/posts/2016-04-27-lambda-fu-powerup-spectra-graphics-with-swift/cellular-automata.gif)
 
 #### Conway's Game of Life
 
@@ -273,7 +282,7 @@ All the articles I found were written with obscure mathematical
 notation.  I finally found Lenses and Prisms, which are the perfect
 library for working with this kind of stuff.
 
-## Augment Your Lambda Fu - Part Two
+## Lambda Fu Powerup - Part Two
 
 ### Optics: Lenses and Prisms in Swift
 
@@ -344,14 +353,13 @@ composed to actually solve problems.
 -
   [Parametric Compositional Data Types](http://arxiv.org/abs/1202.2917)
 - other papers with HOAS/PHOAS transformations of AST's in Haskell
-  - 
 
 [Spectra Trello Board](https://trello.com/b/FYL0pBuF/spectra)
 
 - briefly mention "extensible records" and Elm programming language
 - operators/combinators?
 
-### Augment Your Lambda Fu - Part 2
+### Lambda Fu Powerup - Part 2
 
 #### on lenses and prisms?
 
@@ -364,8 +372,14 @@ composed to actually solve problems.
 - Visual Article discussing Lenses
 - Kmett's videos
   - Especially this one:
-  - [The Unreasonable Effectiveness of Lenses for Business Applications](https://www.youtube.com/watch?v=T88TDS7L5DY&feature=youtu.be)
-    
+  -
+    [The Unreasonable Effectiveness of Lenses for Business Applications](https://www.youtube.com/watch?v=T88TDS7L5DY&feature=youtu.be)
+  -
+    [Program Imperatively Using Haskell Lenses](http://www.haskellforall.com/2013/05/program-imperatively-using-haskell.html)
+
+- [Typelift/Focus](https://github.com/typelift/Focus) - Optics for
+  Swift with Lenses, Prisms and more!
+
 - To me, lenses have been so crucial to understanding the deeper
   mysteries in functional programming,
   - as they are really the first example of a 'higher-order'
