@@ -324,14 +324,14 @@ useful for manipulating objects in my scene graph as well.  That is, I
 could define a set of shaders and construct a graphics pipeline once,
 then when I instantiated everything, I could do so on several devices
 or GPU's at once.  This is mildly useful for managing the pipelines.
-
-However, for managing elements in my scene graph, it is incredibly
-useful!  Again, I could define things once and read the XML nodes into
-dependency injection containers.  From there, I can generate the XML
-node objects into actual Metal and Model I/O objects, but before I do,
-I can compose those nodes with other nodes or entirely replace some
-branches of objects in the scene graph.  This is very useful when you
-want your graphics framework to process *real-time geometry shaders*.
+However, for managing elements in my scene graph, this added
+functionality is incredibly useful!  Again, I could define things once
+and read the XML nodes into dependency injection containers.  From
+there, I can generate the XML node objects into actual Metal & Model
+I/O objects, but before I do, I can compose those nodes with other
+nodes or entirely replace some branches of objects in the scene graph.
+This is very useful when you want your graphics framework to process
+*real-time geometry shaders*.
 
 I could duplicate the objects and allocate the copies to memory, as
 the former is being rendered.  I could then apply geometry
@@ -353,7 +353,7 @@ to make the problem space just as complicated as if I didn't have XML
 at all.  This is because the meta-structure for any tree is almost as
 complicated as the tree itself, which means manipulating the tree
 programmatically requires knowledge of the tree structure.  And *THAT*
-means, that it's pointless to read in the objects in XML, since to
+means it's pointless to read in the objects in XML, since to
 manipulate them, you need to know the structure of each tree and
 subtree, which is ok if you're hard coding units of behavior.  Yet, if
 you want arbitrary manipulation of objects in a scene graph, things
@@ -401,7 +401,7 @@ Hinton's presentation on
 [The Derivative of a Regular Type is its Type of One-Hole Contexts](https://www.youtube.com/watch?v=K7tQsKxC2I8).
 I'll try to write a Lambda Fu Powerup post on AST/HOAS/PHOAS
 soon. It's an incredibly powerful concept that I've been fascinated
-with the topic for quite some time, but I have a ton to learn.
+with for quite some time, but I have a ton to learn.
 
 ## Next Up on Lambda Fu!
 
