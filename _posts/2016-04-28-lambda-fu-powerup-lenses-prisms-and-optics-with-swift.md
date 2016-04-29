@@ -1,5 +1,5 @@
 ---
-title: "Lambda-Fu Powerup: Lenses, Prisms and Optics With Swift"
+title: "Lambda-Fu Powerup: Lenses, Prisms & Optics With Swift"
 categories: blog
 tags: "computer-science category-theory algorithms graphics swift functional-programming haskell"
 headline: "How it works is easy, but why is always more important."
@@ -14,26 +14,184 @@ excerpt: "This is a story about my quest to decipher the inner mysteries of
   Machines and Space Cadet Keyboards."
 ---
 
+In the previous
+[Lambda Fu Powerup](/posts/2016-04-27-lambda-fu-powerup-spectra-graphics-with-swift.html),
+I discussed Spectra, a functional graphics framework I've been working
+on, using Swift and Metal.  In this entry, I'm going to discuss some
+specific techniques I've learned with functiona programming, beyond
+the basic boring "Look at my glorious monads" post.  There's so much
+info out there on introductory functional programming using category
+theory, but there are very few posts I've seen that delve into
+higher-level design concepts that build on monads, bind, etc.  At
+least, there aren't very many that are written in a language besides
+Haskell, which is pretty dense for someone who hasn't much experience
+with it. Haskell intrigues me and it's near the top of my list for the
+next language for me to learn, but I just don't have the time right
+now.
 
+### Optics: Lenses and Prisms
 
+The answer to my problem has been **optics**, which is a pattern
+borrowed from Haskell that enables you to zoom down into object like
+structures, functionally, with **lenses** and **prisms**.  You can
+retrieve data several layers deep by composing them together and also
+compose their setters.  I'm going to assume that you're familiar with
+the basics though because there's a lot of good content out there for
+this.  I'll link to it at the end of the article.  I really think that
+lenses are a great example of one of those higher-level design
+patterns for functional programming that enable you to see what it's
+*realllly* all about.
 
+First, I'm going to tackle some high level concepts about why lenses
+would be useful.  Some people just can't see it.  I saw some pretty
+ugly comments on this
+[lightning talk](https://www.youtube.com/watch?v=ofjehH9f-CU) on
+lenses and prisms, where some people obviously just didn't get it.
+And i'm not gonna lie, it's not easy to figure out.  Some libraries
+are more basic than others and you're going to want to use lenses that
+allow you to return objects of various type and arity because that
+allows you to return a tuple containing your target and functions for
+callback or continuation (i.e. retaining references for deferred
+execution).  This is an important point though because there are a few
+of libraries out there that don't give you the full **Lens<S,T,A,B>**,
+which allows you to be more fluid with how you work with these
+objects.
 
+> If you can't return a different tuple for the modified source or the
+> modified target, that means you can't return deferred functions for
+> callback or continuation.
 
+By the way, if you're using swift,
+[Typelift/Focus](https://github.com/typelift/optics) is a fantastic
+implementation of lenses.  It's broken down to be completely
+functional and based on the `IxStore` monad.  It also includes the
+`IxMultiStore`, `IxState` and `IxCont` monads, each of which has
+several traditional operators implemented, like `bind`, `fmap`,
+`imap`, `contramap` and `f-apply`.
 
-I was really searching for a means of retaining functionality while
-ensuring my interface for working with pipelines and the scene graph
-would be uniform, instead of complicated and highly variadic.  I tried
-several things to achieve this end.  I thought I could pass in a
-closure, along with metadata for the tree of nodes I was generating,
-but this didn't resolve the complexity.  While I found this to be a
-very useful pattern, actually implementing it to override how XML
-nodes were generated into Model I/O objects was clunky in real
-practice.  If one needed to replace a mesh that was three levels deep
-in an XML node tree, it meant a developer would have to mostly hand
-code a structure that mirrored the node tree down three levels at
-least.  That is, it'd actually be simpler just to instantiate the
-classes by hand than to ever use the XML at all, if you wanted custom
-behavior by composing subtrees of XML nodes together.  I eventually found
+**Note: if you don't understand what `IxStore`, `IxMultiStore`,
+`IxState` and `IxCont` actually do in `Typelift/Focus`, then you don't
+understand how to use this library** and you likely don't understand
+how to use lenses.  If you're coming into this just by using Focus to
+create lenses and prisms with getters and setters, you're missing the
+point because that doesn't give you anything that object oriented
+programming doesn't.
+
+**You need to trace through the source from the Lens `zoom<X>` method
+through the `IxState` implementation**.  After doing so, with some
+reflection, I finally "got it" and I could finally say that I
+understood functional programming beyond monads and simple
+categories.  I still have a ton to learn, but that's why I feel that
+learning about lenses is worthwhile for someone that's interested in
+upping their ** *Lambda Fu* **.
+
+So, I'm doing you a huge favor by writing this article.  No, it won't
+include lots of code snippets.  In the past, for me, looking at tons
+of Haskell and F# code snippets basically did nothing for me.  Writing
+Haskell and F# code may have allowed me to get it, but I don't have
+much experience with those languages.  Talking to the right people may
+have allowed me to grasp it, but I don't know very many people in my
+area who are interested in truly functional code.
+
+I'm doing you a huge favor because I'm summarizing some functional
+programming techniques, which for me were very difficult to identify
+on my own.  For example, I'll describe how to process elements of a
+tree or list in order to collect **continuation monads** to be
+executed later.  When I review my first functional approach to
+transforming XML node trees later, I'll explain how continuation
+monads were really the missing piece.
+
+### Parameterized Types for Lenses
+
+#### S => Source
+
+#### T => Modified Source
+
+#### A => Target
+
+#### B => Modified Target
+
+Read over that real quick.  It's a bit confusing, but that's OK.  T
+isn't the Target type.  If you're like me, you'll trip up on that a
+few times.  A Lens is composed of a getter and setter. The `Getter` is
+a morphism from `S => A` and the `Setter` from `(S,B) => T`. However,
+a complete get/set operation on a Lens is a basically morphism from `S
+=> T`.  With the getter, you extract from source `S` some target type
+`A` into a context where you can modify it to type `B`, typically
+outside the lens, unless using `Lens.modify` or `Lens.zoom<X>`.
+
+### Zoom [rename section]
+
+Sounds pretty simple, right? Here's where things get interesting.  You
+can also use the `zoom<X>` method from to inject affect the arity of
+data returned from a Lens Getter. That is, you can use `zoom<X>` to
+return not only the object you're inspecting.  In order to use `zoom`,
+you'll need to understand `IxState`, which is a state monad
+implementation. However, you're basically just zooming into the lens's
+context and passing the `IxState` down to it.  This returns another
+`IxState` coupled to the lens's getter context and the `IxState` is
+essentially a monad that transforms the lens getter into type `S =>
+(X, A)` where `X` is whatever type you passed in with the `IxState`
+arg to `zoom<X>`.
+
+#### But what does it alllll meannn?!
+
+What all this means is that not only can you retrieve whatever `A:
+Target` type you normally retrieve with your lens, but you can also
+perform some transformation using other elements available in the
+closure of the `IxState` monad you passed in to return a tuple of type
+`(X, A)`.  Here `X` could represent some kind of `state` or an `enum`
+coupled to transition behaviors for a state machine or simply a map of
+collected callback behaviors.  In other words, whereas the lenses
+typically process object-like data container types, the `zoom<X>`
+method allows you to specify any type `X` that acts as monadic glue.
+
+So, if on one of my XML nodes, I define a property that tells my
+generator that I should always register this to a dependency injection
+container, but only after `generate()` has completed processing all
+nodes, then I can use `zoom<X>` to return a callback with the
+generated node.  I would then collect the callbacks into an array as
+I'm processing the list/tree of nodes to generate.  And because the
+closure for D/I registration was created within the `IxState` monad,
+it's still coupled to the reference to the node and maintains that
+until it's called later.  This is somewhat useful with one type of
+callback, but moreso useful when you want to collect multiple types of
+callbacks when processing a tree or list.
+
+So basically `zoom<X>` and a few other Optics techniques allow you to
+create an interface between object-like structures that hook them
+together with a kind of functional state-machine glue -- AFAIK, I am
+still a novice here, but that's what it seems like to me.  Over the
+past few days, I've been thinking about whether there would be
+generalized `kinds` of these `λ-glue` objects and, if so, what they'd
+look like.  I've also been thinking a lot about how the typical
+functional operators would apply to lenses and prisms.
+
+### Parsing XML with Swift
+
+First of all, there's a lot of Apple developers that will be quick to
+ask why I chose XML over PLists, since those would have been much
+easier.  Yes, yes that was most certainly a mistake. However, I'd
+still have the problem managing the parsed trees of data, regardless
+of whether I'd used XML, JSON or PList.
+
+And why would I spend so much time on this?  I was really searching
+for a means of retaining functionality while ensuring my interface for
+working with pipelines and the scene graph would be uniform, instead
+of complicated and highly variadic.  I tried several things to achieve
+this end.  I thought I could pass in a closure, along with metadata
+for the tree of nodes I was generating, but this didn't resolve the
+complexity.
+
+While I found this to be a very useful pattern, actually
+implementing it to override how XML nodes were generated into Model
+I/O objects was clunky in real practice.  If one needed to replace a
+mesh that was three levels deep in an XML node tree, it meant a
+developer would have to mostly hand code a structure that mirrored the
+node tree down three levels at least.  That is, it'd actually be
+simpler just to instantiate the classes by hand than to ever use the
+XML at all, if you wanted custom behavior by composing subtrees of XML
+nodes together.  I eventually found
 
 #### The SpectraInjected Tuple
 
@@ -78,7 +236,9 @@ func copy() -> NodeType
 
 
 
-
+sample of processing a tree 3 levels deep with expected keys
+- first collecting a list of items to operation
+- but simultaneously collecting a set of continuation monads
 
 
 
