@@ -44,7 +44,7 @@ excited about all the reactive programming libraries and other
 functional projects I've seen with Swift.  For me, it's incredibly
 important to work on something novel, something fresh, which would be
 an outlet for my creativity.  Why would I want to basically
-reimplement an aged-old problem and recreate the wheel with yet
+reimplement an age-old problem and recreate the wheel with yet
 another "Look What I Can Do" graphics library?  Impressive?
 Meh... Yes, actually.  Creative?  Not really.
 
