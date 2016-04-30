@@ -160,12 +160,43 @@ callbacks when processing a tree or list.
 
 So basically `zoom<X>` and a few other Optics techniques allow you to
 create an interface between object-like structures that hook them
-together with a kind of functional state-machine glue -- AFAIK, I am
-still a novice here, but that's what it seems like to me.  Over the
-past few days, I've been thinking about whether there would be
-generalized `kinds` of these `λ-glue` objects and, if so, what they'd
-look like.  I've also been thinking a lot about how the typical
-functional operators would apply to lenses and prisms.
+together with a kind of functional state-machine glue. AFAIK, I am
+still a novice here, but that's what it seems like to me. It's a kind
+of `computational metatype` or something. Over the past few days, I've
+been thinking about whether there would be generalized `kinds` of
+these `λ-glue` objects and, if so, what they'd look like.  I've also
+been thinking a lot about how the typical functional operators `bind`,
+`fmap` and `imap` would apply to lenses and prisms.  It's easy to see
+what these do, but it's a bit harder to understand how to apply them
+towards design without having a ton of experience.
+
+### Modus Opticae
+
+#### Other Incredibly Useful Techniques with Optics
+
+The two main optics types are `Lenses` and `Prisms`.  I've covered
+Lenses pretty thoroughly and these work great for for processing and
+constructing `Product Types` -- tuples and structs.  Prisms work far
+better for processing `Sum Types`, which are enums for Swift.  Sum
+types are also referred to as `disjoint unions`.
+
+- Lenses for Sum Types (tuples)
+  - Prisms for Product Types (enums)
+
+- describe the Store monad
+  - like nodes of descretized trees of indexable operations
+  - [A Schemer's View on Monads](https://news.ycombinator.com/item?id=5068196)
+- describe the State monad
+- describe how continuations can be aggregated
+- describe a functional state machine for transforming and operating
+  on tree-like or graph-like data structures
+  - what is an appropriate design for the intermediate objects that
+    are passed around and accumulate deferred behaviors
+
+
+
+
+
 
 ### Parsing XML with Swift
 
@@ -236,9 +267,42 @@ func copy() -> NodeType
 
 
 
-sample of processing a tree 3 levels deep with expected keys
-- first collecting a list of items to operation
-- but simultaneously collecting a set of continuation monads
+
+
+### Summary [edit section title]
+
+- To me, lenses have been so crucial to understanding the deeper
+  mysteries in functional programming,
+  - as they are really the first example of a 'higher-order'
+    generalized functional programming structure that I understood
+  - I say 'higher-order' since I am well acquainted with things like
+    monads, compose and bind.
+    - but, while fairly straightforward to understand, monads or
+      compose or bind are just general concepts.
+      - this kind of abstract non-sense really is the boon and curse
+        of functional programming.
+        - it's so generalized, it can apply to anything,
+        - but it's so generalized, it's difficult to relate to
+          anything
+        - that is, it's easy to understand what each higher-order
+          function or operator does, but it's difficult to understand
+          the why, since they can't easily be grounded to any familiar concept.
+
+
+### Resources
+
+- Brandon Williams discussion on Lenses & Prisms
+  - And his article/video on implementation of algrebraic structures in Swift
+- Visual Article discussing Lenses
+- Kmett's videos
+  - Especially this one:
+  -
+    [The Unreasonable Effectiveness of Lenses for Business Applications](https://www.youtube.com/watch?v=T88TDS7L5DY&feature=youtu.be)
+  -
+    [Program Imperatively Using Haskell Lenses](http://www.haskellforall.com/2013/05/program-imperatively-using-haskell.html)
+
+- [Typelift/Focus](https://github.com/typelift/Focus) - Optics for
+  Swift with Lenses, Prisms and more!
 
 
 
@@ -280,59 +344,18 @@ composed to actually solve problems.
 - [Type Safe Code Transformations in Haskell](http://www.sciencedirect.com/science/article/pii/S1571066107002514)
 -
   [Parametric Compositional Data Types](http://arxiv.org/abs/1202.2917)
-- other papers with HOAS/PHOAS transformations of AST's in Haskell
+  - other papers with HOAS/PHOAS transformations of AST's in Haskell
 
 [Spectra Trello Board](https://trello.com/b/FYL0pBuF/spectra)
 
 - briefly mention "extensible records" and Elm programming language
-- operators/combinators?
 
-### Lambda-Fu Powerup - Part 2
+### Lambda Fu Powerup - Part 3 - Operators/Combinators
+
+### Lambda Fu Powerup - Part 4 - HOAS & PHOAS - Alien Haskell Technology
+
 
 #### on lenses and prisms?
 
 - i want to write quite a bit about AST's, etc.  But I'm not sure if
   this warrants a completely separate part or not.
-
-
-- Brandon Williams discussion on Lenses & Prisms
-  - And his article/video on implementation of algrebraic structures in Swift
-- Visual Article discussing Lenses
-- Kmett's videos
-  - Especially this one:
-  -
-    [The Unreasonable Effectiveness of Lenses for Business Applications](https://www.youtube.com/watch?v=T88TDS7L5DY&feature=youtu.be)
-  -
-    [Program Imperatively Using Haskell Lenses](http://www.haskellforall.com/2013/05/program-imperatively-using-haskell.html)
-
-- [Typelift/Focus](https://github.com/typelift/Focus) - Optics for
-  Swift with Lenses, Prisms and more!
-
-- To me, lenses have been so crucial to understanding the deeper
-  mysteries in functional programming,
-  - as they are really the first example of a 'higher-order'
-    generalized functional programming structure that I understood
-  - I say 'higher-order' since I am well acquainted with things like
-    monads, compose and bind.
-    - but, while fairly straightforward to understand, monads or
-      compose or bind are just general concepts.
-      - this kind of abstract non-sense really is the boon and curse
-        of functional programming.
-        - it's so generalized, it can apply to anything,
-        - but it's so generalized, it's difficult to relate to
-          anything
-        - that is, it's easy to understand what each higher-order
-          function or operator does, but it's difficult to understand
-          the why, since they can't easily be grounded to any familiar concept.
-
-
-- describe the Store monad
-  - like nodes of descretized trees of indexable operations
-  - [A Schemer's View on Monads](https://news.ycombinator.com/item?id=5068196)
-- describe the State monad
-- describe how the zoom<x> function is useful
-- describe how continuations can be aggregated
-- describe a functional state machine for transforming and operating
-  on tree-like or graph-like data structures
-  - what is an appropriate design for the intermediate objects that
-    are passed around and accumulate deferred behaviors
