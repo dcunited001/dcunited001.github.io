@@ -170,18 +170,157 @@ been thinking a lot about how the typical functional operators `bind`,
 what these do, but it's a bit harder to understand how to apply them
 towards design without having a ton of experience.
 
-### Modus Opticae
+## Modus Opticae
 
-#### Other Incredibly Useful Techniques with Optics
+### Other Incredibly Useful Techniques with Optics
 
 The two main optics types are `Lenses` and `Prisms`.  I've covered
 Lenses pretty thoroughly and these work great for for processing and
 constructing `Product Types` -- tuples and structs.  Prisms work far
 better for processing `Sum Types`, which are enums for Swift.  Sum
-types are also referred to as `disjoint unions`.
+types are also referred to as `disjoint unions`. So with prisms, you
+can instantiate an enum type or evoke various transitions from them to
+another.  And your getter produces an optional for the target, so your
+morphism from `A => B` can handle the case where `S => A?` returned a
+nil target.
 
-- Lenses for Sum Types (tuples)
-  - Prisms for Product Types (enums)
+As for the `IxStore<O,I,A>`, these are mainly a means to store context
+(i.e. closure) for `Lens`, `Iso` and `Prism`.  When you create a
+`Lens`, what `Typelift/Focus` does under the hood is create a function
+that returns an `IxStore<A,B,T>`. This store is indexed by a value of
+type A, the target returned by the lens getter.  When you run `set` or
+`peek` on the the Store, you're accessing a coherent context for the
+setter monad you created the lens with.
+
+One thing that looks interesting for `IxStore` is "braiding" together
+various `IxStore` objects returned for lenses and prisms with `imap`,
+`contramap`, `seek` and `seeks`. I haven't done any of this
+yet and since it requires 4 for 5 generics, so keep that in mind.  But
+it may be very useful to do so, since you're recomposing lenses in a
+more general sense than with just compose.
+
+### Here Is Is Y'all: the Hokey Pokey
+
+> And that's what functional programming is all about: taking these
+> small units of behavior and recomposing them as you need them.  And
+> to do so, you have to construct your programs such that these pieces
+> retain the ability to be recomposed.  The smallest pieces are the
+> best, but the tradeoff is that it requires a ton of glue to
+> recompose them in pursuit of a program that is actually useful.
+
+I'm in search of a general technique for combinatoric deconstruction
+of code & design patterns into small chunks of functionality which can
+be algebraically reconstructed.  The issue is the same with functional
+programming & category theory: and that is everything is so general
+that it's difficult to relate the tools of functional programming to
+the actual, concrete application of any problem.
+
+### IxStore x Dynamic Programming
+
+Another useful technique for IxStore would be an IxStore that memoizes
+the results of retrieval and update operations for dynamic
+programming. But it would only be useful in circumstances where you
+can guarantee `B => T` to be deterministic. There are similar
+performance optimizations and dynamic programming techniques when
+you can guarentee that `S => A` is also deterministic.  In this
+case, you can cache the monadic `IxStore` objects that that are
+returned by the lens getter, and thus, the stores closure and
+execution path can be predetermined.  However, many of these
+operations are so fast anyways that you don't really save any time
+by doing this. In general functional progamming is excellent at
+enabling the developer to silently inject behavior to be utilized
+for dynamic programming or to otherwise alter behavior.  Dynamic
+programming techniques are only useful when you're given sufficient
+memory.
+
+### Simply Automorphic
+
+Again, there are some optics libraries out there which don't provide
+the four parameterized types for lenses.  `SimpleLens` and
+`SimplePrism` are examples of these in `Typelift/Focus` and they're
+useful for some situations I'm sure, but they lack the capacity to
+provide most of what makes these optics so useful in functional
+programming.  Without the full range of type parameters for optics,
+you can't process your `Source` and `AltTarget` type to be stored in
+an `AltSource` type that differs from `Source`.
+
+That is, your **morphisms** on `Source` and `Target` are restrained to
+**automorphisms**.  That means `AltSource` can't be a tuple of
+`(Source, (Something -> Else))`, which restricts the capacity for
+continuations.  Similarly, you can't modify `Target` and then specify
+a tuple of `(Target, (Something -> Else))` as the `AltTarget` type for
+your setter.  If you can do this, then you can trigger alternate
+behavior that's coded inside your `Setter`.  Maybe you want your
+setter to include conditional behavior triggered by it's parameters.
+Or maybe you want your setter to execute an optional monad that's
+included with the parameters.
+
+You can't do the above, if you're restricted to `Source == AltSource`
+and `Target == AltTarget`.  But, if you haven't done a lot of
+functional programming in the past, you might have a hard time seeing
+why this is restrictive.  At least, at first.  I did.
+
+### Moar Zooms!!
+
+Again, it's hard to adequitely summarize the utility offered by the
+`Zoom<X>` method in `Typelift/Focus`.  It's so useful, especially with
+`IxCont` and that computation metatype concept I just mentioned, which
+seem like great ways to recursively process trees like parsed XML
+docs.  Another design pattern that seems incredibly useful is using
+`Zoom<X>` with `Lens.split()` and `Lens.fanout()`.  Doing so with
+multiple lenses operating over similar Source & Target types could
+allow you to evaluate the result of multiple similar operations. This
+is basically like a kind of "horizontal composition." This horizontal
+composition can also be usef to simultaneously retrieve both a
+property and a pair it with the right monad to be continued.
+
+> "Continue. Continue. Continue... Continue." - Dr. Pavel Pezner
+
+And what `IxStore` and `IxState` essentially allow you to do is
+construct these discretized trees of indexable operations.  These
+functional trees are malleable via functional programming operators
+and optics that allow you to braid operations together and specify how
+you can insert new behavior into the branches of the tree at specific
+points. That's like a 10,000ft view that summarizes what I've learned.
+
+### Optical Lambda Trees
+
+I'm really just making this shit up.  There is no such "thing" as an
+optical lambda tree, but I'm not sure what to call this.  For
+processing or transforming tree-like or graph-like data, there is an
+inverted tree-like structure composed of either maps or tuples.  In
+the case of tuples, the first entry is the next lens to cap on,
+required for each of tis operations.  The next entry is a self-similar
+data structure describing subsequent levels of processing.  For maps,
+the keys are either values or lenses. If the key is a value, then no
+recursion is necessary and the value attributed to that key is
+processed with the lens stack.  If the key is instead another lens, it
+is composed onto the current stack when processing the data attached
+to that lens key.
+
+And for this **Optical Lambda Tree** -- or whatever you want to call
+it; I'm sure there's a better, more descriptive, more technical
+name... Anyways, for this tree, there is an associated recursive
+function, or dictionary with several defined & recursive behaviors,
+that processes the tree of data using the "lens-tree" to provide
+instructions and data access logic.  Such a functiona can also be used
+to simultaneous iterate through the tree and collect data or
+functional units of behavior to be applied later, as continuation
+monads.
+
+All in all, for a specific example relating to graphics, this
+technique could be used to transform/update branches of a tree, while
+storing information about which parts of a tree need to be registered
+for dependency injection or be instantiated with buffer allocation
+after initial processing is complete.  That is a great example of how
+to use this to process the tree of nodes for a Scene Graph.
+
+It's still complicated as hell though.  But so is any solution to the
+efficient distribution of computing resources in a scene graph of
+objects to be rendered.  It is very difficult to find a simple way to
+distribute resources for rendering, while providing flexibility and
+limiting complexity.  There are so many interdependent constraints.
+
 
 - describe the Store monad
   - like nodes of descretized trees of indexable operations
@@ -193,7 +332,7 @@ types are also referred to as `disjoint unions`.
   - what is an appropriate design for the intermediate objects that
     are passed around and accumulate deferred behaviors
 
-
+### Functional State Machine
 
 
 
@@ -222,7 +361,7 @@ developer would have to mostly hand code a structure that mirrored the
 node tree down three levels at least.  That is, it'd actually be
 simpler just to instantiate the classes by hand than to ever use the
 XML at all, if you wanted custom behavior by composing subtrees of XML
-nodes together.  I eventually found
+nodes together.  I eventually found.
 
 #### The SpectraInjected Tuple
 
