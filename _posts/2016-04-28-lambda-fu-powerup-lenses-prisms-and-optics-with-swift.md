@@ -322,22 +322,41 @@ distribute resources for rendering, while providing flexibility and
 limiting complexity.  There are so many interdependent constraints.
 
 
-- describe the Store monad
-  - like nodes of descretized trees of indexable operations
-  - [A Schemer's View on Monads](https://news.ycombinator.com/item?id=5068196)
-- describe the State monad
-- describe how continuations can be aggregated
-- describe a functional state machine for transforming and operating
-  on tree-like or graph-like data structures
-  - what is an appropriate design for the intermediate objects that
-    are passed around and accumulate deferred behaviors
+### Unnecessary Abstraction
 
-### Functional State Machine
+#### A quick fable on the seductive promise of "unified" frameworks
 
+Usually frameworks that promise to simplify the deployment of a mobile
+app to multiple frameworks actually increase complexity.  Instead of
+the implementation details being a result of the complexity of the
+union of those two frameworks, it's more like the complexity of one of
+these frameworks is like the product of the disparity of those two
+frameworks. Frameworks built on Cordova, like Ionic, can be useful
+though, but you'll find yourself running into a ton of problems.
 
+#### Moral of the Story
 
+These unnecessary abstractions never actually simplify anything. A
+solution that maps multiple problem spaces into one usually needs to
+take into account all the complexities in each one.  Therefore, you
+have to make a choice between flexibility and excessive configuration
+or simplicity and convention.  But in neither case do you have a
+simplified problem space.
+
+> And so now you have FOUR problems: you need to learn the API for
+> iOS, the API for Android, the differences between them AND the API
+> for Ionic. Or whatever framework (not trying to pick on ionic here)
+
+For Cordova-based frameworks, you'll find that many of the plugins
+only have one implementation.  Or that the API/design of the problem
+domain addressed by a plugin diverges so significantly that there is
+no single API that could reasonably simplify it.
 
 ### Parsing XML with Swift
+
+So now for a few, quick examples.  I just want to explore an
+alternative to lenses.  This is the functional technique that I wanted
+to explore first, before I discovered lenses.
 
 First of all, there's a lot of Apple developers that will be quick to
 ask why I chose XML over PLists, since those would have been much
@@ -348,10 +367,13 @@ of whether I'd used XML, JSON or PList.
 And why would I spend so much time on this?  I was really searching
 for a means of retaining functionality while ensuring my interface for
 working with pipelines and the scene graph would be uniform, instead
-of complicated and highly variadic.  I tried several things to achieve
-this end.  I thought I could pass in a closure, along with metadata
-for the tree of nodes I was generating, but this didn't resolve the
-complexity.
+of complicated and highly variadic.  That's another thing that's
+magical about functional programming -- **uniform interfaces**.
+Fucking pixie dust. I love it. I tried several things to achieve this
+end.  I thought I could pass in a closure, along with metadata for the
+tree of nodes I was generating, but this didn't resolve the
+complexity.  It was like a shell game where I was shifting the
+complexity from the interface to the implementation.
 
 While I found this to be a very useful pattern, actually
 implementing it to override how XML nodes were generated into Model
@@ -361,7 +383,8 @@ developer would have to mostly hand code a structure that mirrored the
 node tree down three levels at least.  That is, it'd actually be
 simpler just to instantiate the classes by hand than to ever use the
 XML at all, if you wanted custom behavior by composing subtrees of XML
-nodes together.  I eventually found.
+nodes together.  I eventually found that lenses and prisms were the
+functional answer to this problem.
 
 #### The SpectraInjected Tuple
 
@@ -404,59 +427,115 @@ func copy() -> NodeType
 }
 {% endhighlight %}
 
+So, basically what I was trying to provide with this interface was a
+means of expressing the differences between a parsed node tree and the
+node tree that you want to generate.  For example, you might parse an
+XML for an object to render representing a general type of enemy or
+something. But say you want to reparse it and render one section with
+a different color. Or apply a different texture to some meshes that
+are located two or three levels into the mesh.  But you still want to
+share 99% of the resources for the object.  That is, the data for the
+triangles in the meshes, you don't want to allocate that memory that
+twice if you don't have to.  That's expensive in terms of time and memory!
 
+So, I wanted to find an answer to this so that it was simple and
+efficient.  It's still going to be complicated, but I think that
+Lenses and Prisms will help me delve in to a node tree, swap out the
+things that are different, while still allowing me to share memory
+resources.
 
+Yet people want to act like I can't parse XML or some shit. Excuse
+me for not having someone I can ask that just gives me the answers.
+That'd sure be nice.
 
+### Summary
 
-### Summary [edit section title]
+So to mi, lenses have been so crucial to understanding the deeper
+mysteries in functional programming.  They were really the first
+example of a 'higher-order' functional programming structure or design
+pattern that I understood.  I say higher-order, since I am well
+acquanted with things like monads, compose and bind.  But, while
+fairly straightforward to understand, monad or compose or bind --
+these are just general concepts.
 
-- To me, lenses have been so crucial to understanding the deeper
-  mysteries in functional programming,
-  - as they are really the first example of a 'higher-order'
-    generalized functional programming structure that I understood
-  - I say 'higher-order' since I am well acquainted with things like
-    monads, compose and bind.
-    - but, while fairly straightforward to understand, monads or
-      compose or bind are just general concepts.
-      - this kind of abstract non-sense really is the boon and curse
-        of functional programming.
-        - it's so generalized, it can apply to anything,
-        - but it's so generalized, it's difficult to relate to
-          anything
-        - that is, it's easy to understand what each higher-order
-          function or operator does, but it's difficult to understand
-          the why, since they can't easily be grounded to any familiar concept.
-
+For me, the challenge is not how, it is why.  It's not how do I use
+these tools, but where should these tools be used to acheive a design?
+And how does one envisage the overall design?  And this abstract
+non-sense really is the boon and curse of functional programming.
+It's so generalized that it can apply to anything.  But again, it's so
+generalized that it's difficult to attach to things in some concrete
+way.
 
 ### Resources
 
-- Brandon Williams discussion on Lenses & Prisms
-  - And his article/video on implementation of algrebraic structures in Swift
-- Visual Article discussing Lenses
-- Kmett's videos
-  - Especially this one:
-  -
-    [The Unreasonable Effectiveness of Lenses for Business Applications](https://www.youtube.com/watch?v=T88TDS7L5DY&feature=youtu.be)
-  -
-    [Program Imperatively Using Haskell Lenses](http://www.haskellforall.com/2013/05/program-imperatively-using-haskell.html)
+Here's some resources that I've found to be invaluable in learning
+functional programming techniques.
 
-- [Typelift/Focus](https://github.com/typelift/Focus) - Optics for
-  Swift with Lenses, Prisms and more!
+First of all, the
+[F# for Fun and Profit blog](https://fsharpforfunandprofit.com) is
+fantastic and so are Scott Wlashin's videos.  I'd recommend starting
+out with [Functional Design Patterns]() and
+[A Functional Approach to Domain Driven Design](https://vimeo.com/97507575).
+Then, finally, take a look at
+[Coding Like Frankenstein](https://vimeo.com/142347199), which is a
+great story about Dr. Frankenfunctor and the Monadster.  These videos
+talk about functional programming using F#, which is a strongly-typed
+language from Microsoft, very similar to Haskell in it's capabilities
+and implementation. I wish I'd known how cool that was about 7 years
+ago lol.
 
+> I'm impressed, Microsoft.
 
+If you're looking for some Swift examples of functional programming
+and, in particular, presentations on optics, here's some links.  First
+of all, Brandon Williams has a lightning talk on
+[Lenses in Swift](https://www.youtube.com/watch?v=ofjehH9f-CU) using
+MST3K as an example.  What an excellent choice! Brandon also has a
+blog on implementing
+[a basis for algebraic structures in Swift](http://www.fewbutripe.com/swift/math/algebra/2015/02/17/algebraic-structure-and-protocols.html)
+like Magmas and Semigroups.  I haven't watched it yet and I don't
+really know what those things are ... but uhhh mag-ma!
 
+![Doctor Evil - Magma](/img/posts/2016-04-30-lambda-fu-powerup-lenses-prisms-and-optics-with-swift/doctor-evil-magma.jpg)
 
+Or... nevermind, I guess I was thinking about the implementation of
+Magma in [Typelift/Algebra](https://github.com/typelift/Algebra).
+Mr. Williams, where is the magma?
 
-### Alien Haskell Technology
+The best talk that I found in relating the usefulness of lenses was
+[The Unreasonable Effectiveness of Lenses for Business Applications](https://www.youtube.com/watch?v=T88TDS7L5DY&feature=youtu.be),
+which involves some Haskell, but not too much.  I love Haskell, but
+it's a bit dense for me to parse right now.
 
-However, as infinitely valuable as these AST/HOAS/etc structures are
-to functional programming, it's very difficult to see why these are
-more useful than they appear on the surface.  Without context and a
-clear understanding of the mathematic notation, it's hard for me to
-parse together how these objects can be used, though my imagination
-runs wild.  It appears that these AST's are indeed very difficult to
-work with, as the examples of programmatic manipulation seem limited
-and are described by the authors as such.
+Here's some other resources, that are great if you're not scared of
+Haskell.  There's the illustrated
+[Lenses In Pictures](http://adit.io/posts/2013-07-22-lenses-in-pictures.html)
+article, as well as
+[Program Imperatively Using Haskell Lenses](http://www.haskellforall.com/2013/05/program-imperatively-using-haskell.html)
+
+## Lambda Fu #3
+
+### HOAS & PHOAS - Alien Haskell Technology
+
+So, next time, I'm going to explore AST manipulation and Type Theory.
+AST's are ridiculously useful, but incredibly complicated.
+
+These infinitely valuable AST/HOAS/etc structures are to functional
+programming, it's very difficult to see why these are more useful than
+they appear on the surface.  Without context and a clear understanding
+of the mathematic notation, it's hard for me to parse together how
+these objects can be used, though my imagination runs wild.  It
+appears that these AST's are indeed very difficult to work with, as
+the examples of programmatic manipulation seem limited and are
+described by the authors as such.
+
+Here's some articles that I'll be reading over the next month or
+so. There is
+[Type Safe Code Transformations in Haskell](http://www.sciencedirect.com/science/article/pii/S1571066107002514)
+and
+[Parametric Compositional Data Types](http://arxiv.org/abs/1202.2917),
+as well as some other papers with HOAS/PHOAS transformations of AST's
+in Haskell.
 
 Haskell is a difficult language to pick up, though I've been hard at
 learning functional programming for a few years now.  I've explored
@@ -467,34 +546,18 @@ particularly on the "Why" of functional programming techniques -- it's
 been quite a challenge to understand how these techniques are to be
 composed to actually solve problems.
 
-- the only language which seems to have a decent amount of examples of
-  this stuff is haskell
-  - that's because it's purely functional and many of these design
-    patterns are only needed when working with a Strongly Typed
-    functional language
-  - lisp implements a lot of similar stuff with macros, but it's
-    different, since one can more easily handle disparate types with
-    dynamic types.
-  - also, clojure's destructuring is one of my favorite features of
-    any programming language.  this right here solves so many
-    problems.
+And thats because the only language which seems to have a decent
+amount of examples of this stuff is haskell. That's because it's
+purely functional and many of these design patterns are only needed or
+applicable when working with a Strongly Typed functional language.
+Lisp implements a lot of similar stuff with macros, but it's
+different, since one can more easily handle disparate types with
+dynamic types.  Also, clojure's destructuring is one of my favorite
+features of any programming language.  this right here solves so many
+problems.
 
+Another pattern I found to be immensely useful in my quest to process
+these tree-like data structures are the **Extensible Records**
+available in the Elm Programming Language.
 
-- [Type Safe Code Transformations in Haskell](http://www.sciencedirect.com/science/article/pii/S1571066107002514)
--
-  [Parametric Compositional Data Types](http://arxiv.org/abs/1202.2917)
-  - other papers with HOAS/PHOAS transformations of AST's in Haskell
-
-[Spectra Trello Board](https://trello.com/b/FYL0pBuF/spectra)
-
-- briefly mention "extensible records" and Elm programming language
-
-### Lambda Fu Powerup - Part 3 - Operators/Combinators
-
-### Lambda Fu Powerup - Part 4 - HOAS & PHOAS - Alien Haskell Technology
-
-
-#### on lenses and prisms?
-
-- i want to write quite a bit about AST's, etc.  But I'm not sure if
-  this warrants a completely separate part or not.
+That's it for today.  Peace!
