@@ -120,7 +120,7 @@ a complete get/set operation on a Lens is a basically morphism from `S
 `A` into a context where you can modify it to type `B`, typically
 outside the lens, unless using `Lens.modify` or `Lens.zoom<X>`.
 
-### Zoom [rename section]
+### It Zøøms Ze Thingz
 
 Sounds pretty simple, right? Here's where things get interesting.  You
 can also use the `zoom<X>` method from to inject affect the arity of
@@ -199,7 +199,7 @@ yet and since it requires 4 for 5 generics, so keep that in mind.  But
 it may be very useful to do so, since you're recomposing lenses in a
 more general sense than with just compose.
 
-### Here Is Is Y'all: the Hokey Pokey
+### Here It Is Y'all: the Hokey Pokey
 
 > And that's what functional programming is all about: taking these
 > small units of behavior and recomposing them as you need them.  And
