@@ -125,8 +125,9 @@ outside the lens, unless using `Lens.modify` or `Lens.zoom<X>`.
 Sounds pretty simple, right? Here's where things get interesting.  You
 can also use the `zoom<X>` method from to inject affect the arity of
 data returned from a Lens Getter. That is, you can use `zoom<X>` to
-return not only the object you're inspecting.  In order to use `zoom`,
-you'll need to understand `IxState`, which is a state monad
+return not only the object you're inspecting, but also some
+information about it or some monad to call later.  In order to use
+`zoom`, you'll need to understand `IxState`, which is a state monad
 implementation. However, you're basically just zooming into the lens's
 context and passing the `IxState` down to it.  This returns another
 `IxState` coupled to the lens's getter context and the `IxState` is
