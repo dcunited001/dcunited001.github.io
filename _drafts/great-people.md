@@ -629,6 +629,27 @@ technologies, and knowledge of your consumer's beliefs.
 
 But .. you know, be realistic.
 
+----------
+
+
+- Apple Newton
+  - publicly was a huge failure but allowed apple to collect a
+    ton of data on mobile applications, usage and consumer
+    behavior.  positioned apple to conduct mobile research
+  - this data & experience was likely critical for determining
+    the required processing power, battery life, networking
+    capabilities for a successful mobile computing product
+    (i.e. the iPhone)
+  - so then they would know that when these product specs cross
+    over some critical specs, that would be the ideal time to
+    release a product *like* the Newton, so that it wouldn't be
+    a complete consumer flop
+  - and they would have a leg up on the competition and be
+    able to take advantage of the hype to ensure that apple's
+    mobile product would take off.
+
+========
+
 ### Story
 
 - people love a good story
@@ -714,11 +735,15 @@ Your vision and story should drive the development of your identity.  It becomes
 
 - as much as i hate it, appearances are everything
 
+
 ### Orchestration
 
 - so they understand all these things
   - and they see where they want to go
   - they have the passion and energy to push to get there
+
+------------
+
 - but, when confronted with obstacles, they identify an alternate path
   - lack resources for orchestration? they figure out a way to get them
   - lack skills?  they work hard to acquire them
@@ -730,13 +755,33 @@ Your vision and story should drive the development of your identity.  It becomes
 
 - know what they want and don't waste their energy chasing things they don't
   - they keep their eye on the ball (very important)
-  	- if your energy/time is diverted to other things, you're not going to get much done
+  	- if your energy/time is diverted to other things, you're not
+        going to get much done
+
+- hp's machine and how things look different from the top than they do
+  from the bottom up
+  - 9:06 (whatever i recorded at about 9:06pm)
+  - so the exec's need to be able to estimate assets, liabilities, &
+    expected revenues, along with risk.
+  - they also need to be able to evaluate the effect of hypothetical
+    situations without worrying people within their organization will
+    believe those situations to be probable or possible
+    - espeically when those hypothetical strategies require
+      complicated/expensive/controversial action
+    - i.e. they might want to examine the effects of laying off large
+      amounts of people, without having people in their organization
+      worry about the how it will play out or whether it's
+      possible/likely at all
+    - another good example are wargames
+      - run throughs of hypothetical situations
+
   - important for angel investors  (cut?)
     - if you want to perform as an angel investor,
       - you need strong communication with the companies you fund
         - or at least, you need to have some kind of apparatus in place that provides you with the information you need
           - [reword?]
-      - if you aren't capable of getting the straightforward information you need about your investments
+      - if you aren't capable of getting the straightforward
+        information you need about your investments
 
 - no one does anything truly great by accident (well, almost no one)
   - but there are some people,
@@ -750,6 +795,7 @@ Your vision and story should drive the development of your identity.  It becomes
     - but they'll drain your spirit, redirect your energy and leave you exhausted.
 
 
+============
 
 ### Legal System
 
