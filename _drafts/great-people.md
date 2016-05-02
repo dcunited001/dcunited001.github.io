@@ -50,6 +50,10 @@ create my own, which is by no means complete.
   were to be pure.  That is, many of these facets overlap and I don't
   believe this is the ideal way to structure this content.
 
+But even in a premature form, I believe that some of these tools will
+be invaluable in protecting that which is close to you from what is
+coming.
+
 ### The Surface Surrounding the Intangible
 
 In this series, I'm trying to explain concepts that involve
