@@ -304,7 +304,7 @@ it; I'm sure there's a better, more descriptive, more technical
 name... Anyways, for this tree, there is an associated recursive
 function, or dictionary with several defined & recursive behaviors,
 that processes the tree of data using the "lens-tree" to provide
-instructions and data access logic.  Such a functiona can also be used
+instructions and data access logic.  Such a functional can also be used
 to simultaneous iterate through the tree and collect data or
 functional units of behavior to be applied later, as continuation
 monads.
@@ -359,7 +359,7 @@ So now for a few, quick examples.  I just want to explore an
 alternative to lenses.  This is the functional technique that I wanted
 to explore first, before I discovered lenses.
 
-First of all, there's a lot of Apple developers that will be quick to
+First of all, there are a lot of Apple developers that will be quick to
 ask why I chose XML over PLists, since those would have been much
 easier.  Yes, yes that was most certainly a mistake. However, I'd
 still have the problem managing the parsed trees of data, regardless
