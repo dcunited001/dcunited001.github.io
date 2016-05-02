@@ -25,8 +25,6 @@ others to work with us?
 
 - the fate of Tartarus. or maybe just a picture.
 
---------
-
 Where is it that most people learn to be great?  It's their father
 that first imbues that image.  Perhaps their mother as well.
 Unfortunately, I never had a father.  He died when I was 14 months
@@ -161,6 +159,57 @@ vision, story and identity as aspects of the same thing
 
 ------
 
+## How to Break Through
+
+I see many of these qualities in}yself, though I fear it's too late.
+Becoming great and freeing yourself from the chains of a "normal" life
+is quite rare.  You'll find that it often requires the coordination of
+one or two previous generations for someone to really "break through."
+Does it require being born into the aristocracy or the upper middle
+class? No. Does it require access to a network of the rich and famous?
+No. A serendipitous opportunity, perhaps divined by fate? No, though
+the best of us will make the most of our luck and those situations
+which are truly once in a lifetime.
+
+So what does it mean to break through and what does it take? It really
+is quite rare. I'm talking about the success that is quite often 1 in
+100,000. You'll find that people born into wealthy circumstances can
+be quite stunted in their development. And, similarly that those born
+into poverty often lack the resources or opportunities to develop.
+It's expensive to be poor.  That is true.
+
+Instead, I view this as a kind of natural selection for
+psychology. It's the people who have the perfect mashup of ideas and
+behaviors in their minds who become wildly successful. It's the people
+who have the perfect mix of positives, without the wrong kind of
+negatives who end up breaking through. The meme's and ideas that
+develop in these people's minds, coupled with the perfect timing and
+just the right combination of serendipitous (*) events results in a
+mind that responds to more effectively extract the positives out of a
+situation without being restrained by the negatives. It's one that,
+coupled with the guidance of others, perfectly creates fertile
+situations in front of them.
+
+So, what's the most important factor in creating the perfect artist
+and business minds?  IMO, it's the structure of the minds of their
+parents and how the parents raise their child.  Often, you'll look at
+someone's life and see that not only did the previous generation
+affect their upbringing, but the generation before that as well.
+Obviously, this is something that *can* be easier to provide for
+affluent families, but wealth is absolutely not required and usually
+you'll find that it hurts.  Instead, families that have struggled for
+a generation or two will develop a perspective and outlook on life,
+coupled with strategies for self-actualization and propagating that
+knowledge, which all contribute greatly towards success in this
+"natural selection" of "ideal" psychology.
+
+And the most important point for me to stress here is that there are
+sooo many small mistakes someone can make that result in massive risks
+or costs to someone's career.  The seeds for your career start when
+you are young and every moment matters, whether you realize that at
+the time or not.  There are some early behaviors, beliefs or actions
+-- which usually require high maturity or a parent's guidance or
+interference -- and these can either make you or break you.  My point
 is that it's usually impossible for most people to comprehend these
 unspoken "rules" *at any point in their life*, much less between
 15-25, which are really the critical years.  And so, they either don't
@@ -180,7 +229,7 @@ has in building the next generation.  We spend almost no time
 together.  There are fewer conversations and fewer family dinners.
 Alas, that's the subject for another post.
 
-## Learn From the Past
+## Learn From the Fool
 
 ### If You Are Wise
 
@@ -592,8 +641,6 @@ major investment of their resources and I wonder why they wanted to
 make that knowledge public. I wish I could be a part of those
 discussions because I'm sure they have good reasons.
 
-=============
-
 The best example of signaling I can think of is the great lengths that
 the US and UK undertook to surprise Germany with the invasion location
 for DDay.  There were two major possibilities for DDay invasion.  The
@@ -743,7 +790,7 @@ that you have to understand everything at a much deeper level.  Once
 you have this deeper understanding, then you can exploit that
 knowledge differential towards your success.
 
-This knowledge differential is the differences between your deeper
+This knowledge differential is the difference between your deeper
 understanding of a subject against that of the commonly understood
 model for your subject of interest.  But you need to be intimately
 familiar with each model!  This is so you can understand the
@@ -856,9 +903,9 @@ do that when they got a good thing goin on?  And convincing a public
 company to do this, when the public shareholders have considerable
 influence over the direction of a company?
 
->"You're going to do what to my dividends?"
+> "You're going to do what to my dividends?"
 
-Truthfully, the situation describe above, where a company stagnates on
+Truthfully, the situation described above, where a company stagnates on
 innovation because of conflict of interest probably doesn't play out
 that way.  But often it can.  Yet, this signals more opportunity.  If
 you know that a new technology is going to revolutionize an industry
@@ -892,8 +939,6 @@ through the sea of data and sorting through the noise.  People have
 vested interest in getting you to believe something is true.  You have
 to sort through all that and understand their incentives, behavior,
 beliefs and signaling to find the truth.
-
-----------
 
 ## Vision
 
@@ -965,8 +1010,6 @@ But .. you know, be realistic.
 - Southwest Airlines and a cocktail napkin
 - Steve Jobs story
 
-========
-
 - a story about how you met your cofounders or what spurred you to create your product are invaluable
   - these are things that cannot be replicated by your competition
   - these are things that cannot be changed
@@ -993,13 +1036,14 @@ But .. you know, be realistic.
       - which requires discovering something new, one needs to become familiar with their own cognitive workings,
       - which is what occludes this stuff in the first place
 
-> "to cultivate a sense of discerning true novelty & unknown opportunity, become acutely aware of the present & your cognitive patterns"
+> "to cultivate a sense of discerning true novelty & unknown
+> opportunity, become acutely aware of the present & your cognitive
+> patterns"
 
-but this skill of looking for the commonly overlooked is a great contributing attribute in
-- building a new product or creating a great story to tell or really
-  making the most of your life
-
--------------
+- but this skill of looking for the commonly overlooked is a great
+  contributing attribute in
+  - building a new product or creating a great story to tell or really
+    making the most of your life
 
 - How focusing on you want to tell the story of your life 2-5 years from now
   - helps you focus harder on making the moment at hand more special
@@ -1038,7 +1082,7 @@ but this skill of looking for the commonly overlooked is a great contributing at
     - but still fumbled, so these parts kinda suck to tell as a story
   - but i've never given up
 
-### Identity
+## Identity
 
 Your vision and story should drive the development of your identity.
 They become part of your image and are really all part of the same
@@ -1052,15 +1096,14 @@ perceived, both by yourself and by others.
 
 - as much as i hate it, appearances are everything
 
-============
+## Orchestration
 
-### Orchestration
+resummerize as orchestration & describe the differences between that
+and strategy.
 
 - so they understand all these things
   - and they see where they want to go
-  - they have the passion and energy to push to get there
-
-------------
+  - they have the passion and energy to push to get
 
 - but, when confronted with obstacles, they identify an alternate path
   - lack resources for orchestration? they figure out a way to get them
@@ -1112,14 +1155,11 @@ perceived, both by yourself and by others.
       - people like that are easy to deal with.  practically take care of themselves.
     - but they'll drain your spirit, redirect your energy and leave you exhausted.
 
-
-============
-
 ### Legal System
+
 
 explain that i mean they innately understand the rules of the system they create within
 - especially as this pertains to intellectual property
-
 
 I do not mean that they understand intellectual property
 
