@@ -33,15 +33,94 @@ explain the facets of greatness as me trying to explain a concept
 
 [ explain the list ]
 
+--------
+
+
+direction and instead I felt a hole that needed to be filled.  I was
+forced to search hard for meaning in life, but there was nothing
+there, nothing real anyways.  If you are fortunate enough to find some
+compelling meaning, you are incredibly lucky.  I eventually found that
+I needed to create my own meaning in life.
+
+So this series is a reflection on what I've learned. I didn't have
+much of a clearly stated system given to me by my parents.  I had to
+create my own, which is by no means complete.
+
+## The Facets of Greatness
+
+In this series, I'm trying to explain concepts that involve
+characteristics which cannot really be explained at all. They are much
+deeper than that.  And so, these facets are like the faces on the
+surface of this abstract, ineffable thing. [elaborate]
+
+I really hope that by explaining these facets, I make it easier for
+others to relate to the intangible truth to becoming great which so
+often eludes the majority of us.  Most give up on pursuing this path
+before we know it exists and by the time we see it, it's too
+late. You'll find in life that there are many people out there with
+advice for you, but truly, their advice is meant to make you useful to
+them, while providing enough value to seem authentic.
+
+Instead, I hope to arm you with most of the knowledge and advice that
+I would give myself.  A good rule of thumb for ethical action in any
+case and especially when giving advice to someone is the golden rule:
+treat your neighbor as you'd treat yourself.  Or, more radically:
+
+> Treat everyone else as though they literally are you. As though we
+> are all one. That, by harming another, you are harming yourself.
+
+![Treat Yo'self!]
+
+And the Golden Rule's corollary of course: treat yourself as you'd
+like others to treat you.  I've said it time and time again.
+
+> Your confidence is your most valuable asset and you better know that
+> people will try to steal that too.
+
+By assaulting your confidence, you'll find that negative people not
+only boost theirs, but they do so at your expense, by subjugating you
+through demoralization.  You've been warned!
+
+
+==========
+
 ### Quantification
+
+Great people quantify and measure everything.  Without quantification,
+you cannot develop a system or hope to improve.  The most difficult or
+seemingly ineffable is usually the most valuable to form a system for
+quantification.  Since it's difficult, it confers advantage when you
+can measure and predict that which mystifies others. It's especially
+crucial to learn how to measure your usage of time, as well as those
+around you.  You also need to learn to quantify information,
+knowledge, communication and social networking -- both online and IRL.
 
 ### Communication
 
+These great leaders are all conductors in the symphony of
+communication.  They identify the most efficient means to relay
+messages, so that they can interfaces with a tree of people in their
+own organization as well as with people in others.  Everyone has
+twenty-four hours in a day.  The best leaders network with power
+players who command their own subtree of the organization and, by
+doing so, harness the sum of man-hours available to their network for
+maximum efficiency.
+
 ### Signaling
 
-### Orchestration
+Everything around you is part of a myriad of systems, composed of
+countless feedback loops.  Signaling concerns becoming aware of how
+your organization's words and actions will implicitly and explicitly
+affect those feedback loops.  Signaling is a kind of indirect
+communication, but it is communication.
 
 ### Knowledge
+
+- knowledge drives how you see a system compared to how others see the
+  same system.  the difference between your model and that of others
+  determines your belief that there is opportunity where others see
+  only risk.  this can also help you determine how to mitigate risk.
+- need a better, more descriptive summary here.
 
 ### Vision
 
@@ -49,21 +128,30 @@ explain the facets of greatness as me trying to explain a concept
 
 ### Identity
 
-### Strategy
+### Orchestration
 
 ### The System
+
+
+--------
+
+## Part Two
 
 ### Quantification
 
 Perhaps one facet is more important than others.  It's hard to say and
 while describing each facet, it seems that one is the crux.
 
-they try to systematically and reproducibly measure everything they can.
-- the leaders of enterprise throughout history, but especially in the past century,
+they try to systematically and reproducibly measure everything they
+can.
+- the leaders of enterprise throughout history, but especially in the
+  past century,
   - have excelled because they quantified things that others couldn't.
-- in other words, where others may have data they collect and things they measure,
+- in other words, where others may have data they collect and things
+  they measure,
   - great people will identify what others haven't thought to measure
-    - and create methodologies for quantifying what others have thought impossible to measure.
+    - and create methodologies for quantifying what others have
+      thought impossible to measure.
 
 Standard Oil built an empire in the 19th century because they had a
 better understanding of their market than their competitors. This is
@@ -74,6 +162,7 @@ detract from my point: when there was an opportunity for a company
 like Standard Oil to be created, they were able to make business
 decisions based on the disparity of information and knowledge
 available to them and their competitors.
+
 
 Standard Oil had better information, thus they had better knowledge
 and understanding about their market.  How did they acquire that
@@ -89,6 +178,12 @@ Or that the conditions of the oil market at that time would inevitably
 lead to coalescence.
 
 [examples of unexpected things to measure]
+- geographic destribution of their competitors' customers
+- market share of their competitors
+- oil price trends
+- range of viable oil prices for their competitors to offer
+- cost of production and transportation for their product vs
+  competitors
 
 if you can't measure something, how can you say you know it?
 knowledge is power, but if you can't quantify something -- a process,
@@ -96,6 +191,8 @@ a quality, etc. -- then how can you reliably reproduce it?  strategy
 is useless if you don't know what the pieces are, how the fit together
 or whether some piece of your strategy can be reliably executed when
 you need it.
+
+also important to quantify statistic variance and risk
 
 ...
 
@@ -108,11 +205,12 @@ how can you say you improve year over year, if you don't measure the right aspec
 
 how can you say that your product is revolutionary, if you can't provide numbers that show how revolutionary it is?
 
-
 lead into communication:
 - communication is a great example of something that seems difficult to measure
 
 ## Communication
+
+- Efficient b-tree structures
 
 Communication is both the receipt and transmission of information.
 It's a great example of something that seems difficult to measure and
@@ -142,7 +240,9 @@ previous centuries before the internet and phone systems.  I find
 myself pondering what it would be like to remain a step ahead of your
 competition at that time.  If you owned a furniture store, you would
 spend an exorbitant amount of time checking prices and quality of
-products from wholesalers and manufacturers.
+products from wholesalers and manufacturers.  You would build a
+network of local manufacturers and spend time cultivating those
+relationships.
 
 How much of your time would you spend doing that?  How would you stay
 ahead of your competitors?  What systems & processes would you enact
@@ -167,17 +267,21 @@ no longer the difficulty.  It is sifting through the firehose of data.
 Now the informational advantage is available to those who can process
 the data. Whereas acquiring information used to be the barrier to
 overcome that signified opportunity, now it is the capacity for
-sifting through the data.
+sifting through the data to find the valuable nuggets.
+
+- paid access to distribute information to people in a targeted manner
+  - a.k.a. advertising in general
 
 The prevalence of social media represents ennumerable opportunities to
 network with customers, to learn from them, to understand how they
 think about your products and to observe the kinds of experiences your
 products create.  But social media also presents itself as a huge
 vulnerability to business strategy.  If you're not watching your
-message, you could be revealing a lot of information about business
-strategy.  You could be projecting the wrong message and associations
-for your brand, confusing your customer's perception of brand identity
-or unintentionally diluting your brand's value.
+message, you could be revealing a lot of information abou that
+business strategy.  You could be projecting the wrong message and
+associations for your brand, confusing your customer's perception of
+brand identity or unintentionally diluting your brand's value.
+Branding is one of the most crucial aspects to tech products.
 
 Moving back towards the facets of great people, I enjoy watching
 interviews of founders or other great leaders today.  I like watching
@@ -198,15 +302,14 @@ almost unknown.  Even when an audience member asks a dumb question, or
 a leading question, you can learn how they respond to different
 situations and a little bit about why.
 
-> Ooohhh, yeh, you might want to watch your answer on that one, just sidestep and keep moving.
+> Ooohhh, yeh, you might want to watch your answer on that one, just
+> sidestep and keep moving.
 
 You'll notice that these people are smart and quick, yet usually
 passive, when someone does something like asking a leading question.
 They usually just don't attach to it, and I'll elaborate on that in a
 later section.  Observing how someone responds to problems is vital to
 measuring their character.
-
-===========
 
 If you know about the long term goals and mission of this person's
 organization, looking at how they posture themselves and their
@@ -586,6 +689,8 @@ vested interest in getting you to believe something is true.  You have
 to sort through all that and understand their incentives, behavior,
 beliefs and signaling to find the truth.
 
+----------
+
 ## Vision
 
 And this brings us to vision.  Your expert level understanding of your
@@ -629,9 +734,6 @@ technologies, and knowledge of your consumer's beliefs.
 
 But .. you know, be realistic.
 
-----------
-
-
 - Apple Newton
   - publicly was a huge failure but allowed apple to collect a
     ton of data on mobile applications, usage and consumer
@@ -648,8 +750,6 @@ But .. you know, be realistic.
     able to take advantage of the hype to ensure that apple's
     mobile product would take off.
 
-========
-
 ### Story
 
 - people love a good story
@@ -660,6 +760,8 @@ But .. you know, be realistic.
 
 - Southwest Airlines and a cocktail napkin
 - Steve Jobs story
+
+========
 
 - a story about how you met your cofounders or what spurred you to create your product are invaluable
   - these are things that cannot be replicated by your competition
@@ -690,7 +792,10 @@ But .. you know, be realistic.
 > "to cultivate a sense of discerning true novelty & unknown opportunity, become acutely aware of the present & your cognitive patterns"
 
 but this skill of looking for the commonly overlooked is a great contributing attribute in
-- building a new product or creating a great story to tell or really making the most of your life
+- building a new product or creating a great story to tell or really
+  making the most of your life
+
+-------------
 
 - How focusing on you want to tell the story of your life 2-5 years from now
   - helps you focus harder on making the moment at hand more special
@@ -708,16 +813,21 @@ but this skill of looking for the commonly overlooked is a great contributing at
 - also, this idea that we're all telling our own story can have some downsides
   - like yeh, it can definitely motivate us to turn hardship into a reason to excel
     - but you don't want to just create contrived circumstances.
-    - and you don't want to be the villian either, so i don't want this to be taken the wrong way
+    - and you don't want to be the villian either, so i don't want
+      this to be taken the wrong way
 
-- but also -- living your life and just appreciating that later on, you'll be able to tell your story
-  - and knowing that it will be a better story because you focused on getting the most out of life while you could,
+- but also -- living your life and just appreciating that later on,
+  you'll be able to tell your story
+  - and knowing that it will be a better story because you focused on
+    getting the most out of life while you could,
   - -- that, in itself will help drive more positive behavior, i think.
     - you'll create more memorable experiences
-    - you'll craft your own story and be able to relate your experiences to others in a more meaningful way
+    - you'll craft your own story and be able to relate your
+      experiences to others in a more meaningful way
 
 - but my point is that great people seem to excel at this skill too
-  - at relating what pushed them harder and why their vision matters so much to them.
+  - at relating what pushed them harder and why their vision matters
+    so much to them.
 
 - how my story kinda sucks
   - because i've faced a lot of problems which weren't even that big of a deal
@@ -726,7 +836,10 @@ but this skill of looking for the commonly overlooked is a great contributing at
 
 ### Identity
 
-Your vision and story should drive the development of your identity.  It becomes part of your image
+Your vision and story should drive the development of your identity.
+They become part of your image and are really all part of the same
+thing.  Kind of past,present and future aspects of how you are
+perceived, both by yourself and by others.
 
 - your vision becomes part of your identity (segue)
   - your vision becomes part of your image
@@ -735,6 +848,7 @@ Your vision and story should drive the development of your identity.  It becomes
 
 - as much as i hate it, appearances are everything
 
+============
 
 ### Orchestration
 
