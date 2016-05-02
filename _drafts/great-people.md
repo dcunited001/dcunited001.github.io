@@ -23,9 +23,9 @@ others to work with us?
 
 !["Stay Hungry. Stay Foolish." - Steve Jobs](/img/posts/2016-01-03-facets-of-greatness/steve-jobs-stay-hungry-stay-foolish.jpg)
 
-explain the facets of greatness as me trying to explain a concept 
-- which involves characteristics that can't really be explained.  
-- and the facets are like the faces of this abstract thing that can be explained.  
+explain the facets of greatness as me trying to explain a concept
+- which involves characteristics that can't really be explained.
+- and the facets are like the faces of this abstract thing that can be explained.
 - mostly stretching the metaphor in the title though
 - everything is like this to some degree
 - but i hope that by explaining these facets, that it's easier for others
@@ -58,8 +58,8 @@ explain the facets of greatness as me trying to explain a concept
 Perhaps one facet is more important than others.  It's hard to say and
 while describing each facet, it seems that one is the crux.
 
-they try to systematically and reproducibly measure everything they can. 
-- the leaders of enterprise throughout history, but especially in the past century, 
+they try to systematically and reproducibly measure everything they can.
+- the leaders of enterprise throughout history, but especially in the past century,
   - have excelled because they quantified things that others couldn't.
 - in other words, where others may have data they collect and things they measure,
   - great people will identify what others haven't thought to measure
@@ -104,7 +104,7 @@ information is based on quantifyable data and is processed to produce
 knowledge.  if you can't quantify something or if you have collected
 the wrong data, this can skew your organizations understanding ....
 
-how can you say you improve year over year, if you don't measure the right aspects of your business? 
+how can you say you improve year over year, if you don't measure the right aspects of your business?
 
 how can you say that your product is revolutionary, if you can't provide numbers that show how revolutionary it is?
 
@@ -206,6 +206,8 @@ They usually just don't attach to it, and I'll elaborate on that in a
 later section.  Observing how someone responds to problems is vital to
 measuring their character.
 
+===========
+
 If you know about the long term goals and mission of this person's
 organization, looking at how they posture themselves and their
 organization can speak volumes about those goals.  How do they say
@@ -282,6 +284,8 @@ other instances where a major company is obviously signaling towards a
 major investment of their resources and I wonder why they wanted to
 make that knowledge public. I wish I could be a part of those
 discussions because I'm sure they have good reasons.
+
+=============
 
 The best example of signaling I can think of is the great lengths that
 the US and UK undertook to surprise Germany with the invasion location
@@ -543,7 +547,7 @@ to a board of directors to invest in this risky new technology that
 might slash through profit margins in 5 years or so.  Why would they
 do that when they got a good thing goin on?  And convincing a public
 company to do this, when the public shareholders have considerable
-influence over the direction of a company?  
+influence over the direction of a company?
 
 >"You're going to do what to my dividends?"
 
@@ -630,7 +634,7 @@ But .. you know, be realistic.
 - people love a good story
   - there's always something to be learned
   - you can make your brand, your identity more relatable
-  - your story sometimes drives your vision 
+  - your story sometimes drives your vision
     - and helps other people understand the 'why' behind your vision
 
 - Southwest Airlines and a cocktail napkin
@@ -639,17 +643,17 @@ But .. you know, be realistic.
 - a story about how you met your cofounders or what spurred you to create your product are invaluable
   - these are things that cannot be replicated by your competition
   - these are things that cannot be changed
-  - and they help cultivate a unique connection between you and your most loyal customres 
+  - and they help cultivate a unique connection between you and your most loyal customres
     - or your potential customers in your market
     - or between you and a new friend
 
 - so if you live life knowing that when you meet a new person, like any new person,
   - you want to notate your first experience(s) with them and always remember them
     - you now have something between the two of you that no one else does
-  - but you need to have a vivid awareness of the present moment 
+  - but you need to have a vivid awareness of the present moment
     - as well as the desire to remember the small things when they happen
     - in order to really cultivate a new connection in this way
-  - otherwise, if you don't keep this in mind 
+  - otherwise, if you don't keep this in mind
     - (and it takes much intent to acutely focus on the present moment)
     - it's too easy to get distracted by life and all the usual things and all your usual patterns and behaviors
       - many opportunities will pass you by and you'll never even know
@@ -669,7 +673,7 @@ but this skill of looking for the commonly overlooked is a great contributing at
 
 - How focusing on you want to tell the story of your life 2-5 years from now
   - helps you focus harder on making the moment at hand more special
-  - what did i do that pushed me forward? 
+  - what did i do that pushed me forward?
   - how did i assess my situation in life to make sure that i got the most out of it
   - when there were setbacks, what did i do to
   - what makes my story different?
@@ -678,11 +682,11 @@ but this skill of looking for the commonly overlooked is a great contributing at
       - if not, this *can* indicate negative behavior
       - there's plenty of times when you can't explain why
       - but usually, if you can explain the reasoning behind your behavior and do so honestly ..
-  - so if you face some hardships in your life 
+  - so if you face some hardships in your life
     - think about how you would overcome them, if you were the hero of your story
 - also, this idea that we're all telling our own story can have some downsides
   - like yeh, it can definitely motivate us to turn hardship into a reason to excel
-    - but you don't want to just create contrived circumstances.  
+    - but you don't want to just create contrived circumstances.
     - and you don't want to be the villian either, so i don't want this to be taken the wrong way
 
 - but also -- living your life and just appreciating that later on, you'll be able to tell your story
@@ -710,7 +714,7 @@ Your vision and story should drive the development of your identity.  It becomes
 
 - as much as i hate it, appearances are everything
 
-### Strategy
+### Orchestration
 
 - so they understand all these things
   - and they see where they want to go
@@ -720,7 +724,7 @@ Your vision and story should drive the development of your identity.  It becomes
   - lack skills?  they work hard to acquire them
   - terrible reputation/image?  they come up with a strategy for changing it
 - they understand the goal and that no one's going to do the work for them
-  - they aren't afraid of massive challenge.  
+  - they aren't afraid of massive challenge.
   - where they see risk, they see opportunity
   - where they see challenge, they see (opportunity for personal growth)
 
@@ -728,14 +732,14 @@ Your vision and story should drive the development of your identity.  It becomes
   - they keep their eye on the ball (very important)
   	- if your energy/time is diverted to other things, you're not going to get much done
   - important for angel investors  (cut?)
-    - if you want to perform as an angel investor, 
+    - if you want to perform as an angel investor,
       - you need strong communication with the companies you fund
         - or at least, you need to have some kind of apparatus in place that provides you with the information you need
           - [reword?]
       - if you aren't capable of getting the straightforward information you need about your investments
 
 - no one does anything truly great by accident (well, almost no one)
-  - but there are some people, 
+  - but there are some people,
     - whereby some accident of fate or life circumstance
     - who life equips with not only the insight required to understand the importance of these [attributes]
     - but also the mind/behaviors to create a path and the spirit to conquer these challenges [any obstacles].
@@ -764,10 +768,10 @@ other comments:
   - many of them i observed and learned too late
     - as i have already made far too many mistakes
     - i believe that others can draw on your mistakes
-      - and that many problems, although embarrassing or whatever, 
+      - and that many problems, although embarrassing or whatever,
       - if the experiences of these problems are shared, then it can truly help others avoid them
   - but are these lessons a curse or a blessing?
-    - the ambition required to pursue a path like this ...  
+    - the ambition required to pursue a path like this ...
       - fosters attachment in me that should not otherwise exist
     - if i didn't desire success and greatness out of a belief that, properly postured, i could truly benefit the world
       - then i wouldn't want it at all
@@ -775,8 +779,6 @@ other comments:
   - perception of this person by the masses: reality vs appearances
     - if it's important to learn from these people, so we can grow from their experiences
       - then doesn't the distortion of reality detract from this?
-    - if these people need to hide theirs vulnerabilities to ensure/protect their success, 
+    - if these people need to hide theirs vulnerabilities to ensure/protect their success,
       - as well as other qualities
       - then how does the common person sift through the myth and the reality?
-
-
