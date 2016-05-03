@@ -374,7 +374,7 @@ carbon dating.
 
 ### Origin of Religion
 
-- add notes that this is speculation and includes some personal perspectives on 
+- add notes that this is speculation and includes some personal perspectives on
   biblical events (i don't even want to call it an interpretation and these stories
   aren't only found in the bible)
 
@@ -911,9 +911,28 @@ the harrapan culture that created "the plan":
     mythology
     - protocols for propagating information back to 'the origin,'
       though the origin was hardly intended to be a physical place
-      
+
+
+development of hidden maths throughout history
+
+- I don't have much evidence to back up my claims here, but
+  it'd be very interesting to examine the prevelence of
+  mathematic knowledge throughout the world.
+- Particularly, it'd be interesting to study in context with
+  both the transmission of ideas through the active cultural
+  relationships and the dependency graph for various
+  mathematics.
+- That is, since throughout history it's been advantageous to
+  restrict the propagation of *some* mathematics, and thus,
+  the extent of this knowledge is often lost to history.
+- But we may be able to learn more about what these cultures knew --
+  *paleo-epistemology*, lulz -- by making some inferences into the
+  nature of mathematics and inferring how their models and notation
+  systems would restrict their thought and progress in some areas of
+  math.
 
 harrapan technology:
+
 - some homes were connected to a centralized drainage system that used gravity to carry waste
 - in mahenjo-daro, the largest building was a bathhouse
 - they traded cotton cloth
@@ -1086,7 +1105,3 @@ https://en.wikipedia.org/wiki/Laas_Geel
 https://en.wikipedia.org/wiki/9th_millennium_BC
 https://en.wikipedia.org/wiki/Jericho#Ancient_period
 http://arstechnica.com/science/2015/12/irelands-population-underwent-a-dramatic-change-4000-years-ago/
-
-
-
-
