@@ -114,21 +114,46 @@ maximum efficiency.
 
 ### Signaling
 
-Everything around you is part of a myriad of systems, composed of
-countless feedback loops.  Signaling concerns becoming aware of how
-your organization's words and actions will implicitly and explicitly
-affect those feedback loops.  Signaling is a kind of indirect
-communication, but it is communication.
+Signaling is a kind of indirect communication, but it differs
+significantly from that described above because it encompasses
+handling unintentional communication.  Everything around you is part
+of a myriad of systems, composed of countless feedback loops.
+Signaling concerns becoming aware of how your organization's words and
+actions will implicitly and explicitly affect those feedback loops.
+Mastering signaling requires development of self-awareness at multiple
+levels beyond the individual.  Typically, you'll find that these
+leaders and corporations prefer to not signal at all.
 
 ### Knowledge
 
-- knowledge drives how you see a system compared to how others see the
-  same system.  the difference between your model and that of others
-  determines your belief that there is opportunity where others see
-  only risk.  this can also help you determine how to mitigate risk.
-- need a better, more descriptive summary here.
+Knowledge is power, as stated by the famous maxim.  And, yep, it's
+true, in case you hadn't figured that out yet. I think everyone knows
+this, but there are many out there who, whether they're younger or
+older, feel it's pointless to engage in the academic pursuit of
+knowledge, for whatever reason.  Sometimes it's because they don't see
+the potential in themselves, which is depressing.  Sometimes it's
+because, because of the combination of their beliefs at the time and
+whatever life circumstances they're dealing with, they perceive it to
+be futile or pointless.
+
+Whatever the reason, it's incredibly disheartening when someone develops
+antipathy towards the pursuit of knowledge because it's how we equip
+ourselves with the tools we need to free ourselves from whatever
+limitations we have in life.
+
+Knowledge drives how you see a system compared to how others see the
+same system.  The difference between your model and that of others
+determines your belief that there is opportunity where others see only
+risk. This also determines the available options for mitigating risk.
+So it's important to not only understand things but also understand
+how other people understand them.  And know how to determine which
+model someone applies towards a problem and how they acquired
+information.
 
 ### Vision
+
+
+
 
 ### Story
 

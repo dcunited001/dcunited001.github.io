@@ -7,15 +7,30 @@ author:
 ---
 
 
-
-
-[END]
-
-
-
 ## Part Two
 
-types of measurement
+### Quantification
+
+Perhaps one facet is more important than others.  It's hard to say and
+while describing each facet, it seems that one is the crux.
+
+they try to systematically and reproducibly measure everything they
+can.
+- the leaders of enterprise throughout history, but especially in the
+  past century,
+  - have excelled because they quantified things that others couldn't.
+- in other words, where others may have data they collect and things
+  they measure,
+  - great people will identify what others haven't thought to measure
+    - and create methodologies for quantifying what others have
+      thought impossible to measure.
+
+### types of measurement
+
+
+
+### history of measurement
+
 - time, clocks, etc
   - time is perhaps the most important thing to measure
     - you basically can't organize the behavior of groups of any size,
@@ -57,25 +72,7 @@ types of measurement
 
 
 
-
-
-
-
-### Quantification
-
-Perhaps one facet is more important than others.  It's hard to say and
-while describing each facet, it seems that one is the crux.
-
-they try to systematically and reproducibly measure everything they
-can.
-- the leaders of enterprise throughout history, but especially in the
-  past century,
-  - have excelled because they quantified things that others couldn't.
-- in other words, where others may have data they collect and things
-  they measure,
-  - great people will identify what others haven't thought to measure
-    - and create methodologies for quantifying what others have
-      thought impossible to measure.
+### Standard Oil
 
 Standard Oil built an empire in the 19th century because they had a
 better understanding of their market than their competitors. This is
