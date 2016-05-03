@@ -9,11 +9,12 @@ excerpt: ""
 ---
 
 What makes a person like Elon Musk or Steve Jobs so effective at
-reaching their dreams?  What qualities, behaviors, experience and
-knowledge contribute most to building their character, realizing their
-dreams and pushing them forward, in spite of hardship?  What
-attributes contribute to the development of these qualities and
-behaviors? Why are these attributes important?
+reaching their dreams? How were people like Ghandi and Martin Luther
+King Jr. so effective at organizing a movement?  What qualities,
+behaviors, experience and knowledge contribute most to building their
+character, realizing their dreams and pushing them forward, in spite
+of hardship?  What attributes contribute to the development of these
+qualities and behaviors? Why are these attributes important?
 
 What kinds of knowledge help us form and realize a vision? What
 knowledge catalyzes the development of such a vision?  What inspires
@@ -38,7 +39,9 @@ to be filled.  I was forced to search hard for meaning in life, but
 there was nothing there, nothing real anyways.  I eventually found
 that I needed to create my own meaning in life.
 
-![]
+![Myst](/img/posts/2016-05-03-facets-of-greatness-part-1-intro/myst.png)
+
+#### Myst - Good Luck Figuring That Shit Out
 
 So this series is a reflection on what I've learned. I didn't have
 much of a clearly stated system given to me by my parents.  That is,
@@ -197,7 +200,7 @@ treat your neighbor as you'd treat yourself.  Or, more radically:
 > Treat everyone else as though they literally are you. As though we
 > are all one. That, by harming another, you are harming yourself.
 
-![Treat Yo'self!]
+![Treat Yo'self!](/img/posts/2016-05-03-facets-of-greatness-part-1-intro/treat-yo-self.png)
 
 And the Golden Rule's corollary of course: treat yourself as you'd
 like others to treat you.  I've said it time and time again.
