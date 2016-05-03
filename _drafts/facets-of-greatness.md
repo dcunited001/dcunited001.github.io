@@ -19,6 +19,8 @@ can.
 - the leaders of enterprise throughout history, but especially in the
   past century,
   - have excelled because they quantified things that others couldn't.
+  - google led initial success in search because by developing a means of
+    quantifying the websites that people referred to most.
 - in other words, where others may have data they collect and things
   they measure,
   - great people will identify what others haven't thought to measure

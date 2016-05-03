@@ -9,12 +9,11 @@ excerpt: ""
 ---
 
 What makes a person like Elon Musk or Steve Jobs so effective at
-reaching their dreams?
-What qualities, behaviors, experience and knowledge contribute most to
-building their character, realizing their dreams and pushing them
-forward, in spite of hardship?  What attributes contribute to the
-development of these qualities and behaviors? Why are these attributes
-important?
+reaching their dreams?  What qualities, behaviors, experience and
+knowledge contribute most to building their character, realizing their
+dreams and pushing them forward, in spite of hardship?  What
+attributes contribute to the development of these qualities and
+behaviors? Why are these attributes important?
 
 What kinds of knowledge help us form and realize a vision? What
 knowledge catalyzes the development of such a vision?  What inspires
@@ -39,19 +38,141 @@ to be filled.  I was forced to search hard for meaning in life, but
 there was nothing there, nothing real anyways.  I eventually found
 that I needed to create my own meaning in life.
 
+![]
+
 So this series is a reflection on what I've learned. I didn't have
-much of a clearly stated system given to me by my parents.  I had to
-create my own, which is by no means complete.
+much of a clearly stated system given to me by my parents.  That is,
+other than **(Step 1)** Read the Bible **(Step 2)** Go to Church
+**(Step 3)** ???.  I had to create my own, which is by no means
+complete.  And honestly, building your life on a basis founded in even
+a small amount of religious study is not a bad idea.  Religions are
+successful primarly because they are so capable of providing people
+with a solid foundation for life.  In addition to explaining the
+mysteries of life and it's origins, religions are the accumulation of
+stories, which impart wisdom and a method for living life.
 
-- also, this article isn't really mean to be a consummate dissertation (?)
-  on the topics contained herein.  these ideas aren't really "pure"
-  and really need to be distilled if a system based on these ideas
-  were to be pure.  That is, many of these facets overlap and I don't
-  believe this is the ideal way to structure this content.
+### Aristotelian Ethics
 
-But even in a premature form, I believe that some of these tools will
-be invaluable in protecting that which is close to you from what is
-coming.
+Also, this article isn't meant to be a consummate dissertation on the
+topics contained herein.  these ideas aren't really "pure" and really
+need to be distilled if a system based on these ideas were to be pure.
+That is, many of these facets overlap and I don't believe this is the
+ideal way to structure this content. Perhaps if I didn't miss out on a
+college education (and the college experience) then I'd be capable of
+doing this justice. Two other systems which are much more complete include Benjamin
+Franklin's system of 13 virtues found in his autobiography, which is
+frustratingly incomplete.
+
+Aristotle's Ethics includes a system of virtues, which is highly
+regarded.  It's lasted over 2,000 years, so someone thought it was
+important. Aristotle emphasizes the notion that the ideal practice of
+a virtue was exemplified by finding the *mean* between two extremes
+for that virtue.  It's very interesting that Aristotle thought to take
+something like virtues and human behavior and plot them onto something
+that is like a space.  Each virtue is like a dimension or an axis on a
+graph, where the extremes are found at the ends of each axis.  A
+person exhibiting proper ethical behavior would then find themselves
+centered at the origin of these axes, although I'm not sure that a
+notion of perfect ethical behavior actually exists.  Optimal ethical
+behavior, in the Aristotelean sense, really depends on your intent and
+your objective in life.  If there is an optimum, it should be found in
+a region of space close to the origin.
+
+> Please note: I haven't studied this in any official capacity, so do
+> your own study and draw your own conclusions.
+
+Of particular importance is Aristotle's concept of **magnanimity**,
+which requires handling transgressions with grace, humility and
+wisdom.  Another important takeaway is that no one exemplifies these
+virtues a priori. It takes practice and conscious effort. There are
+many paradoxical behaviors which depart from natural human urges and
+one of the most important is that we must learn to enjoy that which is
+not enjoyable, yet fosters development.  Delayed gratification, in
+other words.  Basically, controlling your mind to extract pleasure
+from situations and experiences which would be considered boring,
+frustrating, or painful.  The degree to which one can do is one of the
+primary factors that determines the degree to which they can develop
+these virtues.
+
+However, one conclusion that I've drawn from studying Ethics is that
+the systems our society has in place to cultivate virtuous people who
+work together -- these systems are fairly fragile.  It really only
+takes a generation or two and it will all fall apart.  We enjoy the
+benefits of a stable system with strong rule of law, but there are a
+lot of people who don't comprehend or don't care to understand how our
+systems work or why.  The relative stability we have and the
+democratic system we've set up -- it creates a very special
+environment in which those who are good are rewarded, for the most
+part.  Those who make the right decisions and those who are willing to
+risk and sacrifice in pursuit of what they believe to be good, even
+when those benefits may only pay off in the long term -- it is
+incredibly important to reward those people.  But this is also why
+it's important to educate those who don't care or have a hard time
+comprehending why America works and has worked for about 250 years.
+And this is becoming a bit harder to do, as the pace of information
+transmission accelerates and it becomes harder to discern what we
+should believe and what we should examine further.
+
+And as development of technology only expands more rapidly, this kinds
+of sociological changes will only become more commonplace.  This is
+why it is urgent that we foster the kind of culture around the world
+that is prepared to adapt. It's also important to ensure that everyone
+stays above water.  Poverty creates desolate conditions in far too
+many lives that is disruptive to propagating values to the next
+generation.  There is far too much confirmation bias in both the rich
+and the poor that prevents us from finding solutions to address the
+root causes of poverty.  In particular, those who are wealthy have an
+obligation to those who are not. If the wealthy in this country do not
+demonstrate their appreciation of that responsibility, then the system
+that we have becomes reproachable and vulnerability to instability.
+We absolutely cannot have this kind of instability in any major world
+power as we approach this period of exponential technological
+growth. Technology is a double-edged sword and has the propensity for
+beneficence and for malevolence, particularly if it's not controlled.
+If some of this tech gets into the wrong hands, it will create
+disorder that is bad very every major world power.  If we recognize
+this, agree to cooperate and formulate a strategy for handling this,
+we'll be fine. If we can't do that, we're screwed.  And the kind of
+world that exists after major technological collapse is one in which
+the lack of resources and the lack of systems to promote coordinated
+behavior prevents the emergence of a stable system that fosters
+virtuous behavior.  It'd be the exact opposite.  The best way for an
+individual to survive or protect their family would be by acting in
+horridly selfish ways.  It's also important to understand that this
+kind of Mad Max scenario isn't certain and that assuming it is may
+make it difficult to restore order.
+
+The whole world has enough on our plate without major war.  We have to
+clean up the oceans and the environment over the next two
+generations. That's really all the time we have to fix certain
+problems, which IMO is plenty of time, excluding major disaster or war
+at a large scale. I've seen amazing progress towards many difficult
+long-term issues in the past two and past five years, which is
+incredibly encouraging.
+
+So anyways, what I'm writing is meant to equip my readers with tools
+that will help us lead a new generation of cooperation. I think, I
+can't honestly say that this is everything or there aren't other
+leaders who are far more capable.  But, whereas Aristotle and
+Franklin's writings were meant for life in general, the Facets of
+Greatness series provides information meant to help those with no
+small plans develop a vision and learn to live with their future story
+in mind.  I hope that some of this information will help those with
+dreams learn to share their vision with others to encourage
+cooperation.  I spend a lot of time watching interviews and press
+conferences of leaders and I hope this series captures much of the
+qualities the best leaders exempllify and the tools they use.  These
+tools are often difficult to see or only attained with
+experience. Most people, if they understand them, have a very hard
+time explaining them.
+
+And yes, this series is imperfect.  Yet even in a premature form, I
+believe that some of these tools will be invaluable in whatever
+app-designing or empire-building or world-saving pursuits you may
+have. You may find your dreams to be more about building a small
+business for a robust, enjoyable family life or working towards a life
+long goal in academia.  Still you'll find this series to be incredibly
+useful, even if your megalomania isn't quite yet terminal.
 
 ### The Surface Surrounding the Intangible
 
@@ -152,8 +273,11 @@ information.
 
 ### Vision
 
-
-
+vision, story and identity as aspects of the same thing
+- vision is your anticipated destination in the future
+  - your story helps define where you came from
+  - your identity relates to how you and your organization are
+    perceived now
 
 ### Story
 
@@ -167,12 +291,7 @@ information.
 
 ### Identity
 
-vision, story and identity as aspects of the same thing
-- vision is your anticipated destination in the future
-  - your story helps define where you came from
-  - your identity relates to how you and your organization are
-    perceived now
-
+- your image
 
 ### Orchestration
 
@@ -181,9 +300,8 @@ vision, story and identity as aspects of the same thing
 
 ### The System
 
-=======
-
-------
+knowledge of legal options for your business
+- strategically structuring your patents and other IP registration
 
 ## How to Break Through
 
@@ -438,7 +556,8 @@ interest -- it's nearly destroyed me.  And the ambition required to
 pursue a path like this ends up fostering attachment in me that should
 not otherwise exist.  If I didn't desire success and greatness out of
 a belief that, properly postured, I could truly benefit the world, the
-I wouldn't want it at all.
+I wouldn't want it at all. And yet, ironically, now that I've learned
+all this, I can see it, but I'm in no position to effectively use it.
 
 ### Part Two:
 
@@ -447,4 +566,4 @@ I wouldn't want it at all.
 I'll discuss quantification and its importance in the next section,
 describes a few examples of how accurate methods of measurement lead
 individuals to attain insurmountable advantage in their industry or
-culture.
+society.
