@@ -16,15 +16,31 @@ character, realizing their dreams and pushing them forward, in spite
 of hardship?  What attributes contribute to the development of these
 qualities and behaviors? Why are these attributes important?
 
+!["Stay Hungry. Stay Foolish." - Steve Jobs](/img/posts/2016-05-03-facets-of-greatness-part-1-intro/steve-jobs-stay-hungry-stay-foolish.jpg)
+
 What kinds of knowledge help us form and realize a vision? What
 knowledge catalyzes the development of such a vision?  What inspires
-others to work with us?
+others to work with us?  Here's a list of what I believe to be the
+Facets of Greatness.  In this article, I'll summarize each of these,
+providing detailed descriptions subsequent articles.
 
-> Stay Hungry.
->
-> Stay Foolish.
+### &#x1f48e; Quantification
 
-!["Stay Hungry. Stay Foolish." - Steve Jobs](/img/posts/2016-01-03-facets-of-greatness/steve-jobs-stay-hungry-stay-foolish.jpg)
+### &#x1f48e; Communication
+
+### &#x1f48e; Signaling
+
+### &#x1f48e; Vision
+
+### &#x1f48e; Story
+
+### &#x1f48e; Identity
+
+### &#x1f48e; Orchestration
+
+### &#x1f48e; The System
+
+### &#x1f48e;
 
 Where is it that most people learn to be great?  It's their father
 that first imbues that image.  Perhaps their mother as well.
@@ -46,7 +62,9 @@ that I needed to create my own meaning in life.
 So this series is a reflection on what I've learned. I didn't have
 much of a clearly stated system given to me by my parents.  That is,
 other than **(Step 1)** Read the Bible **(Step 2)** Go to Church
-**(Step 3)** ???.  I had to create my own, which is by no means
+**(Step 3)** ???.
+
+I had to create my own, which is by no means
 complete.  And honestly, building your life on a basis founded in even
 a small amount of religious study is not a bad idea.  Religions are
 successful primarly because they are so capable of providing people
@@ -54,17 +72,18 @@ with a solid foundation for life.  In addition to explaining the
 mysteries of life and it's origins, religions are the accumulation of
 stories, which impart wisdom and a method for living life.
 
-### Aristotelian Ethics
+## Aristotelian Ethics
 
 Also, this article isn't meant to be a consummate dissertation on the
-topics contained herein.  these ideas aren't really "pure" and really
-need to be distilled if a system based on these ideas were to be pure.
-That is, many of these facets overlap and I don't believe this is the
-ideal way to structure this content. Perhaps if I didn't miss out on a
-college education (and the college experience) then I'd be capable of
-doing this justice. Two other systems which are much more complete include Benjamin
-Franklin's system of 13 virtues found in his autobiography, which is
-frustratingly incomplete.
+topics contained herein.  These ideas aren't really "pure" and need to
+be distilled if a system based on these ideas were to be pure.  That
+is, many of these facets overlap and I don't believe this is the ideal
+way to structure this content.  Some may be missing and others could
+be reorganized into more fitting facets. Perhaps if I didn't miss out
+on a college education (and the college experience) then I'd be
+capable of doing this justice. Two other systems which are much more
+complete include Benjamin Franklin's system of 13 virtues found in his
+autobiography, which is frustratingly incomplete.
 
 Aristotle's Ethics includes a system of virtues, which is highly
 regarded.  It's lasted over 2,000 years, so someone thought it was
@@ -74,7 +93,7 @@ for that virtue.  It's very interesting that Aristotle thought to take
 something like virtues and human behavior and plot them onto something
 that is like a space.  Each virtue is like a dimension or an axis on a
 graph, where the extremes are found at the ends of each axis.  A
-person exhibiting proper ethical behavior would then find themselves
+person exhibiting perfect ethical behavior would then find themselves
 centered at the origin of these axes, although I'm not sure that a
 notion of perfect ethical behavior actually exists.  Optimal ethical
 behavior, in the Aristotelean sense, really depends on your intent and
@@ -84,10 +103,34 @@ a region of space close to the origin.
 > Please note: I haven't studied this in any official capacity, so do
 > your own study and draw your own conclusions.
 
+### Magnanimity
+
+#### Aristotle's Crowning Virtue
+
 Of particular importance is Aristotle's concept of **magnanimity**,
 which requires handling transgressions with grace, humility and
-wisdom.  Another important takeaway is that no one exemplifies these
-virtues a priori. It takes practice and conscious effort. There are
+wisdom.  Someone magnanimous would be willing and eager to sacrifice
+their own objectives towards the pursuit of something much
+greater. Someone who is magnanimous knows what they believe and
+understands how to exemplify their beliefs, which they do, almost to a
+fault.  They have detached themselves and their ego from their
+circumstances and their behavior is dictated by their ideals.  And
+yet, they can deftly respond to ethical transgressions towards
+themselves with graceful, agile, creative responses to negative
+situations. A person like this must retain awareness of their
+environment and capable of vetting those they will work with. They
+must observe and identify the context in which their actions will be
+read without utilizing such means as to alter the context. At the same
+time, it is helpful to retain control over the context of such
+situations, but most of us lack the resources or time to do
+so. Magnanimity is a higher-level virtue, exemplified by threading and
+layering the other virtues.  It is cultivated over the course of one's
+lifetime and sometimes over the course of generations. You can read
+more about [magnanimity](https://en.wikipedia.org/wiki/Magnanimity) on
+wikipedia.
+
+Another important takeaway is that no one exemplifies these
+virtues *a priori*. It takes practice and conscious effort. There are
 many paradoxical behaviors which depart from natural human urges and
 one of the most important is that we must learn to enjoy that which is
 not enjoyable, yet fosters development.  Delayed gratification, in
@@ -97,19 +140,54 @@ frustrating, or painful.  The degree to which one can do is one of the
 primary factors that determines the degree to which they can develop
 these virtues.
 
+### Extrapolating Global Trends
+
+#### With an Aristotelian Lens
+
 However, one conclusion that I've drawn from studying Ethics is that
 the systems our society has in place to cultivate virtuous people who
-work together -- these systems are fairly fragile.  It really only
-takes a generation or two and it will all fall apart.  We enjoy the
-benefits of a stable system with strong rule of law, but there are a
-lot of people who don't comprehend or don't care to understand how our
-systems work or why.  The relative stability we have and the
-democratic system we've set up -- it creates a very special
-environment in which those who are good are rewarded, for the most
-part.  Those who make the right decisions and those who are willing to
-risk and sacrifice in pursuit of what they believe to be good, even
-when those benefits may only pay off in the long term -- it is
-incredibly important to reward those people.  But this is also why
+work together -- these systems are fairly fragile and must be
+protected.  It really only takes a generation or two and it will all
+fall apart.  We enjoy the benefits of a stable system with strong rule
+of law, but there are a lot of people who don't comprehend or don't
+care to understand how our systems work or why.  The relative
+stability we have and the democratic system we've set up -- it creates
+a very special environment in which those who are good are rewarded,
+for the most part.  Even in countries which do not have a strictly
+democratic system, some are experiencing unprecedented growth because
+their systems cultivate the right virtues and promote those who
+exemplify them. The reason a democratic system works is because it
+fosters the involvement of large proportions of a nation's population.
+The more people who are involved, the more invested citizens become
+and the more difficult it is to obscure corruption or enshroud a
+protected political class through various mechanisms. Successful,
+stable governmental systems will always promote involvement of all
+stripes of citizens, regardless of the mechanisms in place for
+governance.
+
+And so, because the governmental and societal systems we have in place
+are so special, yet can be fragile -- and because these virtues
+contribute to stability and the possibility of benevvolent livelihoods
+-- then it's important for those who exemplify the right virtues to
+accrue influence.  It's often difficult for people from 15-30 in
+America to understand some policies because there are some things you
+won't understand until you've had specific life experiences.  Some of
+those experiences include graduation from higher education or disease
+or dealing with the reality of one's own mortality or the death of
+someone you were close to.  A great example is having and raising
+children.  There are things you just won't understand in life until
+you personally have invested your love and life into raising a child,
+watching them walk into many of the same phenomena of life that you
+did. And so there are many policies or issues that won't make sense or
+won't seem relevant or that you won't prioritize until you personally
+have that experience, whatever it is. But one general idea behind
+wisely implemented policy is that those who make the right decisions
+and those who are willing to risk and sacrifice in pursuit of what
+they believe to be good, even when those benefits may only pay off in
+the long term -- it is incredibly important to reward those people.
+Often, the right thing to do isn't easy and there was an easier path,
+but for whatever reason, some people chose the harder path, even when
+they thought it might not pay off for a decade.  But this is also why
 it's important to educate those who don't care or have a hard time
 comprehending why America works and has worked for about 250 years.
 And this is becoming a bit harder to do, as the pace of information
@@ -148,20 +226,19 @@ make it difficult to restore order.
 The whole world has enough on our plate without major war.  We have to
 clean up the oceans and the environment over the next two
 generations. That's really all the time we have to fix certain
-problems, which IMO is plenty of time, excluding major disaster or war
-at a large scale. I've seen amazing progress towards many difficult
-long-term issues in the past two and past five years, which is
-incredibly encouraging.
+problems, which IMO is plenty of time, excluding major disaster. I've
+seen amazing progress towards many difficult long-term issues in the
+past two and past five years, which is incredibly encouraging.
 
 So anyways, what I'm writing is meant to equip my readers with tools
 that will help us lead a new generation of cooperation. I think, I
 can't honestly say that this is everything or there aren't other
-leaders who are far more capable.  But, whereas Aristotle and
-Franklin's writings were meant for life in general, the Facets of
-Greatness series provides information meant to help those with no
-small plans develop a vision and learn to live with their future story
-in mind.  I hope that some of this information will help those with
-dreams learn to share their vision with others to encourage
+leaders who are far more capable advice.  Or experience.  But, whereas
+Aristotle and Franklin's writings were meant for life in general, the
+Facets of Greatness series provides information meant to help those
+with no small plans develop a vision and learn to live with their
+future story in mind.  I hope that some of this information will help
+those with dreams learn to share their vision with others to encourage
 cooperation.  I spend a lot of time watching interviews and press
 conferences of leaders and I hope this series captures much of the
 qualities the best leaders exempllify and the tools they use.  These
@@ -177,12 +254,14 @@ business for a robust, enjoyable family life or working towards a life
 long goal in academia.  Still you'll find this series to be incredibly
 useful, even if your megalomania isn't quite yet terminal.
 
+![Facets of Greatness](img/posts/2016-05-03-facets-of-greatness-part-1-intro/gem-cuts.jpg)
+
 ### The Surface Surrounding the Intangible
 
 In this series, I'm trying to explain concepts that involve
 characteristics which cannot really be explained at all. They are much
 deeper than that.  And so, these facets are like the faces on the
-surface of this abstract, ineffable thing. [elaborate]
+surface of this abstract, ineffable thing.
 
 I really hope that by explaining these facets, I make it easier for
 others to relate to the intangible truth to becoming great which so
@@ -276,14 +355,34 @@ information.
 
 ### Vision
 
-vision, story and identity as aspects of the same thing
-- vision is your anticipated destination in the future
-  - your story helps define where you came from
-  - your identity relates to how you and your organization are
-    perceived now
+Vision, story and identity are really aspects of the same thing, which
+is how your persona, your organizations, your struggles and your
+dreams will be perceived by various groupings of people at different
+points in time.  Your knowledge helps you construct your vision for
+where your field of passion is headed.  Perhaps it's your local
+community or your family's business.  And your vision doesn't
+encompass your ideas of where things will go, or where they could go.
+Your vision needs to incorporate your idea of where it *should*
+go.
+
+You have to know where you're going before you can begin your journey
+... or at least, you should. Your vision helps inform you and your
+organization to begin composing strategies for getting there. The
+difference between your vision and the idea of where everyone else
+thinks that trends will lead needs to be fueled by your passion and
+knowledge of your subject or field.  You don't have to explain this
+difference but you need to be able to rationalize it and be capable of
+conveying the how and the why, at least within your organization. One
+of the best examples of communicating a vision is Macintosh's 1984
+Superbowl Commercial.  I'll elaborate more in the section on vision.
+But before that commercial aired, most people were barely emotionally
+invested in personal computers.  The commercial established the idea
+that there might be another radically different option before they
+were aware that there could be another option.
 
 ### Story
 
+  - your story helps define where you came from
 - people love a good story
   - there's always something to be learned
   - you can make your brand, your identify more relatable
@@ -295,6 +394,9 @@ vision, story and identity as aspects of the same thing
 ### Identity
 
 - your image
+  - your identity relates to how you and your organization are
+    perceived now
+
 
 ### Orchestration
 

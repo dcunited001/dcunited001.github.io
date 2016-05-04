@@ -612,6 +612,32 @@ beliefs and signaling to find the truth.
 
 ## Vision
 
+apple 1984 commercial
+- see summary on vision
+- it posed apple's product as being somehow fundamentally different
+  - and conveyed the rebellious spirit that apple wanted to market
+- for many people it was the first major impression of apple that they
+  had.  and AFAIK (fact-check) the ad didn't even feature the product
+  - and it left many people scratching their heads
+  - but for many of those people who resonated emotionally with the
+    message, they felt compelled to learn more about apple's upcoming
+    products.
+  - the effort they spent doing meant that their emotional connection
+    to apple's product and their image of apple's newly established
+    brand would be reinforced.
+- apple was trying to reach people who went against the grain because
+  it wanted to reach artists and writers and other creatives
+  - again ... fact check
+  - but the point is, they were trying to create an ad that would
+    resonate with customers who had specific qualities
+  - because they weren't just trying to market to everyone and build
+    the biggest market they could
+  - no, they wanted their market share to be driven by acquiring a
+    particular kind of customer. they wanted to capture that person's
+    imagination and they wanted to make them passionate about apple's
+    products by leading them to share Apple and Steve Job's vision of
+    personal computing.
+
 And this brings us to vision.  Your expert level understanding of your
 market, your skill, or whatever it is drives the development of your
 vision.  Great people always have a vision, which is driven by how
