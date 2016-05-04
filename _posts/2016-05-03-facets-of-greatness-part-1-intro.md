@@ -341,23 +341,68 @@ in the room at that time.
 
 ### Communication
 
-- crafting the same message with various functional objectives
-- minimalized content generally is best, but can be tough
-  - twitter is awesome because people have to write < 140 chars
-  - minimalized content is great because
-    - it isn't expensive in terms of time
-    - and it's easier to parse because there's less to consume and process
-- projecting a consistent message across your organization
-- marketing on social media
-  - targeting niche markets.
-  - targeting subgroups of consumers with whom a particular message
-    would resonate
-  - listening to people on social media
-    - finding the right customers
-    - categorizing people on social media (centroids)
-- projecting the right message in public appearances
-  - "staying on message"
-- keeping your customers & fans excited
+Communication is one of the most important facets to develop.  If you
+can't communicate effectively, how can you expect to leverage your
+network and coordinate the execution of a strategy?  It's important to
+be able to craft the same message in various formats, to optimize
+various functional objectives. Examples include brevity, detail,
+rhythm, adaptation for a specific medium, usage of specific
+vocabulary, and more.
+
+In general, minimalized content and a concentrated, focused message is
+superior.  It's tough to tumble and polish your message until it
+conveys everything you need with concise precision, but it's well
+worth it.  A minimal message is efficient in terms of time and it's
+also easier to parse because there's less to consume and process.
+This increases it's capacity for retention.  Twitter's a great way to
+practice, since you have to find a way to say everything in 140
+characters.  If you're building a product, you really need to figure
+out how to succinctly summarize your product's value, while
+distiguishing it, in the span of a tweet.  If you can't do that, you
+haven't spent enough time thinking about how to convey your product or
+its value proposition to your customers.
+
+It's important to project a consistent message across your
+organization.  This is a rule that's made to be broken
+... occasionally.  But it's getting harder to maintain consistency
+when there's so much consumer engagement across social media. How do
+you know that your social media presence is in step with your brand's
+image?  For large organizations, how do you ensure that the right hand
+knows what the left hand is doing?
+
+Your communication needs to cohere to any longer-term marketing
+strategies you have in place.  You'll need to reach niche markets.
+These are valuable because of their diversity, but can become more
+expensive to cater to.  You'll want to target subgroups of consumers
+with whom a particular style of message might resonate strongly, but
+would turn off consumers from other subgroups.  And how do you
+identify these groups in the first place.  Communication is a two-way
+street.  It's both conveying a message and processing messages from
+others.  So your organization needs to be capable of identifying and
+categorizing groups of people on social media, perhaps using
+algorithms like
+[cluster analysis](https://en.wikipedia.org/wiki/Cluster_analysis).
+Proficiency here means effective, efficient market penetration and
+hopefully stronger customer relationships.
+
+Leaders also need to develop interpersonal communication skills, which
+I definitely need to strengthen.  I enjoy watching founders discuss
+their products and organizations in interviews, especially those
+founders who are new to the game or have burning passion for an
+exciting new idea.  I enjoy thinking about how this process works for
+all parties: the founder, the interviewer, the hosting organization
+and the audience.  It's importantant to stay on message and there's a
+lot of subtleties to watch out for, most of which are personal
+mistakes.  It's important to keep your customers and fans excited, but
+also stay on message while retaining flexibility for any business
+strategy. For publicly-traded companies, these objectives can be
+difficult to balance with the interests stockholders.
+
+#### Rule of Thumb for IPO's
+
+> When do you know in your heart of hearts that it is the "right"
+> "time" to IPO?  Easy ... never..
+
 
 ### Signaling
 
@@ -369,19 +414,55 @@ Signaling concerns becoming aware of how your organization's words and
 actions will implicitly and explicitly affect those feedback loops.
 Mastering signaling requires development of self-awareness at multiple
 levels beyond the individual.  Typically, you'll find that these
-leaders and corporations prefer to not signal at all.
+leaders and corporations prefer to not signal at all, especially in
+interpersonal communication. This is kind of because everyone knows
+that all (or most) options are on the table, always.
+
+So get to work on your poker face.
+
+> E.G. My startup says we'll never IPO.  Everyone says that.  It's a
+> fucking negotiation tactic.  Yet, it's also just generally a good
+> idea to retain control, especially for a young, small startup.
+
+So, here, the rookie move (in most circumstances) is to imply that
+you're willing to IPO or accept acquisition early on.  Even if you
+say you're not, everyone knows that for that kind of exit strategy,
+all options should remain on the table.  By sticking with a no,
+you're signaling that your perceived value of your product and your
+opportunity outweighs those options.  By signaling towards yes,
+especially too early, you're losing flexibility and influence in the
+negotiation process.  And either way -- yes or no -- all options are
+.. possibly on the table .. maybe?  So why signal an early yes?
+
+### ALWAYS MORE OPTIONS! ALWAYS!
+
+![gradius options]
+
+And by playing the game so that your options remain open, you retain
+flexibility.  At the same time, it's important to know when to break
+these general rules.  Don't be an asshole and manipulate your
+relationship with investers, etc. out of greed.  Those guys are
+fucking smart, they will know.
+
+> That's actually what VC's and Angel's do: they read people to
+> leverage business relationships, with precision. And people entrust
+> them with *billions* of dollars to do so, with precision.  They have
+> hundreds of times more experience at the negotiation table and
+> managing board politics.
+
+More in the section on signaling.  Just remember.  **Poker Face**.
 
 ### Knowledge
 
-Knowledge is power, as stated by the famous maxim.  And, yep, it's
-true, in case you hadn't figured that out yet. I think everyone knows
-this, but there are many out there who, whether they're younger or
-older, feel it's pointless to engage in the academic pursuit of
-knowledge, for whatever reason.  Sometimes it's because they don't see
-the potential in themselves, which is depressing.  Sometimes it's
-because, because of the combination of their beliefs at the time and
-whatever life circumstances they're dealing with, they perceive it to
-be futile or pointless.
+Knowledge is power, as stated by that maxim from time immemorial.
+And, yep, it's true, in case you hadn't figured that out yet. I think
+everyone knows this, but there are many out there who, whether they're
+younger or older, feel it's pointless to engage in the academic
+pursuit of knowledge, for whatever reason.  Sometimes it's because
+they don't see the potential in themselves, which is depressing.
+Sometimes it's because, because of the combination of their beliefs at
+the time and whatever life circumstances they're dealing with, they
+perceive it to be futile or pointless.
 
 Whatever the reason, it's incredibly disheartening when someone develops
 antipathy towards the pursuit of knowledge because it's how we equip
