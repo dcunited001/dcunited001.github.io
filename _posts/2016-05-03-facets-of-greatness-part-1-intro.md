@@ -26,6 +26,8 @@ providing detailed descriptions subsequent articles.
 
 ### &#x1f48e; Quantification
 
+### &#x1f48e; Networking
+
 ### &#x1f48e; Communication
 
 ### &#x1f48e; Signaling
@@ -304,16 +306,42 @@ crucial to learn how to measure your usage of time, as well as those
 around you.  You also need to learn to quantify information,
 knowledge, communication and social networking -- both online and IRL.
 
-### Communication
+### Networking
 
 These great leaders are all conductors in the symphony of
 communication.  They identify the most efficient means to relay
-messages, so that they can interfaces with a tree of people in their
+messages, so that they can interface with a tree of people in their
 own organization as well as with people in others.  Everyone has
-twenty-four hours in a day.  The best leaders network with power
-players who command their own subtree of the organization and, by
+twenty-four hours in a day.  The best leaders effectively communicate
+with others who command their own subtree of the organization and, by
 doing so, harness the sum of man-hours available to their network for
 maximum efficiency.
+
+Additionally, they know how to structure and build their social
+network.  These leaders know how to maximize the efficiency of their
+communication by coordinating with high-influence nodes in their
+network.  They adapt their network by rearranging redundant nodes to
+reduce inefficiencies.  Furthermore, you'll find these people are
+effective at identifying influential people inside and outside of
+their network in order to cultivate those connections.  However, being
+the guy that only seeks out those who are useful in some way is kind
+of shitty, so it's important to be authentic, so you don't come of as
+a self-serving sycophant, obviously. Learning how to reinforce your
+network through spontaneous connection and communication is an
+artform.  If you only talk to someone when you need something, it
+becomes obvious pretty fast, which can be unfortunate for quiet people
+like myself.  Instead, if you gamify your communications with others
+to force yourself to reconnect just to catch up every few months or
+so, this can work wonders when you actually do need something.
+Additionally, effective networkers excel at quickly identifying the
+power structure and relationships in an unfamiliar environment.  This
+can be challenging since any patterns that arise from these structures
+are often ephemeral -- people's behavior can change depending on who's
+in the room at that time.
+
+### Communication
+
+- something something about communication
 
 ### Signaling
 
@@ -381,6 +409,8 @@ that there might be another radically different option before they
 were aware that there could be another option.
 
 ### Story
+
+- developing the zen to build your story as you live it
 
   - your story helps define where you came from
 - people love a good story

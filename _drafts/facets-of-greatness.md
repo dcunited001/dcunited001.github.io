@@ -129,34 +129,16 @@ how can you say you improve year over year, if you don't measure the right aspec
 how can you say that your product is revolutionary, if you can't provide numbers that show how revolutionary it is?
 
 lead into communication:
-- communication is a great example of something that seems difficult to measure
+- communication is a great example of something that seems difficult
+  to measure
 
-## Communication
+## Networking
 
-- Efficient b-tree structures
-
-Communication is both the receipt and transmission of information.
-It's a great example of something that seems difficult to measure and
-to quantify.  Unless you're familiar with the math that drives
-companies like Google, then communication is going to seem like a
-liberal art.  But great people learn how to systemize everything.
-It's difficult to truly excel at something without systemizing it.
-And they excel at both parsing the nuggets of gold from information
-received, as well as crafting their content to convey the intended
-message.
-
-Crafting the right message your business, brand or project requires
-skill and experience.  It's a tough optimization problem.  The best
-take great pains to craft a minimal message.  By minimalizing the
-content, the message and its concepts are pure, simple, easily
-understood and easily recalled.  You can tell just by looking at
-Apple's advertisements, their user manuals, their developer
-documentation, their tech support dialogues -- these guys have gone
-through great pains to craft their message for simplicity and to
-promote their brand's identity.  I can just tell, that Apple as a
-company, from the top down, is structured differently, just by
-observing the uniform style and goals of nearly 100% of their
-communication.
+- networking as designing/structuring/building/maintaining your social
+  network(s)
+- your contact list as one of your most valuable assets
+  - if you confidence is your most valuable, your contact list might
+    be your second most valuable
 
 Returning to the 19th century economy, it amazes me to think back to
 previous centuries before the internet and phone systems.  I find
@@ -184,9 +166,98 @@ previous centuries, efficiently receiving information was a critical
 factor in determining success for those fortunate enough to own
 businesses in that time.
 
-However, as the internet dominates information distribution and makes
-it available to everyone, being privy to information and knowledge is
-no longer the difficulty.  It is sifting through the firehose of data.
+Fortunately, information distribution is no longer constrained by the
+limits of space and is beginning to transcend time.  This presents a
+different kind of challenge, but it means your social network
+connections are almost more valuable.  Who are you tuned in to on
+Twitter, Facebook and Instagram.  I've personally noticed a huge
+difference in the quality of content between the various networks,
+primarily because I'm connected to different sets of people on each.
+The most valuable information I receive, concerning business and
+technology, comes from Twitter, where I'm connected to many
+influential people I don't know.
+
+- there are strategies applicable to each social network,
+  - and it really depends on what you're trying to get out of each one
+- i find myself wanting better tools, not for producing posts, but for
+  consuming them.
+  - identifying the right nuggets at the right time is crucial.
+- but too much information is distracting.  I could watch coursera
+  videos or math lectures all day and never stop.
+  - or I could just as easily read articles I find on twitter all day
+    and never stop.
+  - but I've reached a point where there's so much overlap between the
+    knowledge i already have and the information i'm consuming that
+    i've become frustrated with media.  it's a challenge to find
+    valuable information that expands my knowledge or worldview.
+    - too much repeated stuff out there
+- managing social media is expensive in terms of time and very
+  inefficient, both from the standpoint of consuming it and producing
+  it.  i am very close to backing up my contacts and closing out my
+  facebook and twitter altogether.
+
+it's becoming more important to prune our social networks and filter
+out the info that's just not important.
+- briefly describe why, yada, yada
+
+social networks IRL.
+- rewrite the summary from part one here
+- discuss cultivating your own IRL social network
+  - how to approach it methodically
+
+- the math behind it
+  - Efficient b-tree structures & graph reductions
+    - finding graph representations to satisfy some functional purpose
+
+- how to design the network you want to create
+  - "you are the sum of the 5 people you spend the most time with"
+  - the rule of 150 connections
+
+- gamifying networking.
+  - important if you realize communication or making connections may
+    not be a natural strength
+  - by goal-setting, you can collect some basic stats
+    - you can set an expectation (i got 10 business cards or met 10
+      people)
+    - you can gauge your progress over time
+    - you can motivate yourself to make more connections while you're
+      at an event.  or while your at the event, you can focus more on
+      some specific aspect of networking you're trying to improve.
+  - you can also set other goals, like practicing an elevator speech.
+    - maybe a product pitch or just your personal introduction
+  - and you can challenge yourself by competing with other people in
+    your sales department
+    - a competition to find the most interesting person
+    - find a person who owns X car. or has done A,B, and C.
+
+## Communication
+
+Communication is both the receipt and transmission of information.
+It's a great example of something that seems difficult to measure and
+to quantify.  Unless you're familiar with the math that drives
+companies like Google, then communication is going to seem like a
+liberal art.  But great people learn how to systemize everything.
+It's difficult to truly excel at something without systemizing it.
+And they excel at both parsing the nuggets of gold from information
+received, as well as crafting their content to convey the intended
+message.
+
+Crafting the right message your business, brand or project requires
+skill and experience.  It's a tough optimization problem.  The best
+take great pains to craft a minimal message.  By minimalizing the
+content, the message and its concepts are pure, simple, easily
+understood and easily recalled.  You can tell just by looking at
+Apple's advertisements, their user manuals, their developer
+documentation, their tech support dialogues -- these guys have gone
+through great pains to craft their message for simplicity and to
+promote their brand's identity.  I can just tell, that Apple as a
+company, from the top down, is structured differently, just by
+observing the uniform style and goals of nearly 100% of their
+communication.
+
+As the internet dominates information distribution and makes it
+available to everyone, being privy to information and knowledge is no
+longer the difficulty.  It is sifting through the firehose of data.
 Now the informational advantage is available to those who can process
 the data. Whereas acquiring information used to be the barrier to
 overcome that signified opportunity, now it is the capacity for
@@ -297,6 +368,11 @@ properly assessed or executed.  Using tactics to avoid predictability
 requires that you have an intimate understanding of how your message
 is perceived by various categories of customers and how it could be
 perceived.
+
+## Networking
+
+
+
 
 ## Signaling
 
