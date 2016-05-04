@@ -205,6 +205,39 @@ social networks IRL.
 - discuss cultivating your own IRL social network
   - how to approach it methodically
 
+- vetting people's experience level
+  - this is important for interviewing as well as networking
+  - almost anyone will want to convince you they are better than they
+    are at some skill, so you need to be able to quickly test someone
+  - there are right and wrong ways to probe someone on experience
+    level or skills.  it's kind of like the logic paradox, where if
+    you just ask the right question, it doesn't matter if the guy is
+    telling the truth or lying.  you'll get the right answer
+  - just because someone isn't highly experienced doesn't mean they're
+    not a valuable connection.  is this person young and ambitions and
+    on their way up?
+
+- these questions and topics to sound someone out will vary, depending
+  on the industry, topic, skill, experience level, etc.
+  - but, as you get to know more and more people, you'll develop more
+    expansive knowledge
+  - you can always leverage one of your connections with more
+    experience in that field or topic.  you can facilitate a
+    connection between these two people and see what that person
+    thinks.
+    - usually, it's best steer away from introducing these
+    people for the obstensible purpose of learning more about
+    someone's profiency, at least for the person you're sounding
+    out.
+    - and it really works best if you can arrange it so that
+    neither party knows that's the purpose, but that can reduce the
+    effectiveness, if one person doesn't know they're supposed to
+    informally vet this person.  you can always hint or make it known
+    later on.
+    - general rule of thumb, line things up so you can hit 2 birds
+      with one stone.  or five birds.  more is better.  and don't make
+      it known why you threw the rock.
+
 - the math behind it
   - Efficient b-tree structures & graph reductions
     - finding graph representations to satisfy some functional purpose
@@ -369,9 +402,7 @@ requires that you have an intimate understanding of how your message
 is perceived by various categories of customers and how it could be
 perceived.
 
-## Networking
-
-
+- "concept cars" and other things that will never ever happen
 
 
 ## Signaling

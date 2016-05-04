@@ -341,7 +341,23 @@ in the room at that time.
 
 ### Communication
 
-- something something about communication
+- crafting the same message with various functional objectives
+- minimalized content generally is best, but can be tough
+  - twitter is awesome because people have to write < 140 chars
+  - minimalized content is great because
+    - it isn't expensive in terms of time
+    - and it's easier to parse because there's less to consume and process
+- projecting a consistent message across your organization
+- marketing on social media
+  - targeting niche markets.
+  - targeting subgroups of consumers with whom a particular message
+    would resonate
+  - listening to people on social media
+    - finding the right customers
+    - categorizing people on social media (centroids)
+- projecting the right message in public appearances
+  - "staying on message"
+- keeping your customers & fans excited
 
 ### Signaling
 
