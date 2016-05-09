@@ -6,6 +6,8 @@ author:
   name: "David Conner"
 ---
 
+[exigently](http://www.thesaurus.com/browse/exigently) - new favorite
+word?? ... nah, but close
 
 ## Part Two
 
@@ -404,7 +406,6 @@ perceived.
 
 - "concept cars" and other things that will never ever happen
 
-
 ## Signaling
 
 Communication is signaling and vice versa, but signaling is more
@@ -537,10 +538,10 @@ kind of orchestration.
 
 ## Knowledge
 
-These people value knowledge and systemize it's acquisition.  They're
-intimately aware of what they don't know.  They understand how to
-apply knowledge for gain.  They have the wisdom to deftly perform when
-they don't have the knowledge.
+These people value knowledge and systematize it's acquisition.
+They're intimately aware of what they don't know.  They understand how
+to apply knowledge for gain.  They have the wisdom to deftly perform
+when they don't have the knowledge.
 
 They construct strategies based on what they learn.  Then they
 enumerate the factors and dependencies of the factors in that
@@ -887,45 +888,115 @@ But .. you know, be realistic.
 
 ## Identity
 
-Your vision and story should drive the development of your identity.
-They become part of your image and are really all part of the same
-thing.  Kind of past,present and future aspects of how you are
-perceived, both by yourself and by others.
+- kernel (linux reference)
 
 - your vision becomes part of your identity (segue)
   - your vision becomes part of your image
   - explain why identity/image is so important
+  - i've noticed that some of the most brilliant people
+    tend to almost become their philosophy.
 - your organization must embody or complement your image
-
+  - branding is everything: for people and for startups
+    - yet as a person, IMO, don't become so image-obsessed that building it
+      & protecting become everything you do.
+      - maintaining a perfect image is often difficult.  and boring.
+      - if you're constantly guarding yourself against situations that
+        risk a negative outcome, then you miss out on a lot of the
+        basic random life situations where you learn to react, adapt &
+        grow
+    - a lot of the advice i would offer to someone else with regard to
+      image cuts against the beliefs and behavior I exhibit myself.
+      - in business, it's good to have a clean cut image and style.
+        in entertainment, it helps, but another style of image might
+        fit better. but you must remain consistent and in tune with
+        what makes you resonate.
+      - in the past decade, i've tended to go against that.  I didn't
+        want the meticulous clean-cut look.  I didn't like wearing
+        suits and dress clothes to work because it meant having two
+        sets of clothes, which was weird.
+      - and plus, the pleated khaki and button down look tended to
+        pull me away from a lot of people, who were often a lot more
+        interesting. i felt that if i completely ascribed to that
+        look, i'd miss out on learning a lot about people in general.
+    - usually, when you have a brand and image to maintain, it becomes
+      risky to interact with just anyone, especially when everyone
+      knows you.
+      - I'm not famous or anything, but I have experienced what it
+        feels like when you never ever have the chance to make a brand
+        new first impression.  it sucks ... well i guess it depends on
+        your image, lol.  But, everyone already has this idea of who
+        you are because they've heard things about you.
+        - So if you have friends in high places and people have a good
+          impression of you, that's great.
+        - If you have enemies or frenemies in high places (and maybe
+          made a lot of bad moves in your late teens) then you can
+          accrue a lot of baggage with your image.
+        - Worse still, i pretty much decided to make myself a target
+          by supporting marijuana legalization. I realized that one of
+          the reasons it was perpetuated was because of how the drug
+          war silenced dissent.  I probably should have just attended
+          college in california or something.  I severely
+          underestimated the personal cost to my reputation.
+        - ... should i end this here?
+        - However, instead of defeating me, some of these early black
+          marks to my image instead provided challenges that I had to
+          strategize to work around.  I had to learn to tuck and weave
+          within the socially conservative region of southwest
+          virginia
+    - A great way to strengthen connections with others and to build
+      your image is to give back.  It's hard to do this in southwest
+      virginia when you can't drive.  You're never the person that
+      your friends will think of when they need help with something.
+    - I spent nearly 8 years between the ages of 20 and 30 either
+      unable to drive or without a car.  Sometimes, I didn't really
+      need to, but it was almost always a huge setback.  In early
+      2011, after finally getting my license when my license was
+      suspended.
 - self-awareness is a valuable trait with regard to identity and image
 
+- developing an understanding of how your organization is perceived
+  - as well as the groups and units within it
+  - also, to dig for the meta, this means you need to develop tactics
+    and behavior of identifying how to quickly construct accurate
+    self-image at various levels.
+    - always in flux: from time to time, from person to person, from
+      group to group.
 
 - interesting how the future affects the present
+  - similar to how your story connects you to your identity,
+    - you should be able to connect a path from your identity to your vision
 
 - as much as i hate it, appearances are everything
 
-## Orchestration
+## The System
 
-resummerize as orchestration & describe the differences between that
-and strategy.
+explain that i mean they innately understand the rules of the system
+they create within
+- with regard to structuring/creating/operating a legal entity
+  - understanding how to get the system to work for you
+    - without abusing it
+- especially as this pertains to intellectual property
 
-- so they understand all these things
-  - and they see where they want to go
-  - they have the passion and energy to push to get
+- patents/trademarks/copyrights
 
-- but, when confronted with obstacles, they identify an alternate path
-  - lack resources for orchestration? they figure out a way to get them
-  - lack skills?  they work hard to acquire them
-  - terrible reputation/image?  they come up with a strategy for changing it
-- they understand the goal and that no one's going to do the work for them
-  - they aren't afraid of massive challenge.
-  - where they see risk, they see opportunity
-  - where they see challenge, they see (opportunity for personal growth)
 
-- know what they want and don't waste their energy chasing things they don't
-  - they keep their eye on the ball (very important)
-  	- if your energy/time is diverted to other things, you're not
-        going to get much done
+- LLC/C-Corp/S-Corp
+
+- how stocks work for startups and early stage businesses
+  - preferential stock
+
+
+## Strategy
+
+strategy as the composition of tactics and paths to long term goals
+- tactics tend to be generalizable and applicable to multiple
+  situations
+
+- backward induction
+  - identifying midgame and endgame positions or goals to achieve
+    - walking back through a sequence of moves or objectives to get
+      there
+    - then obfuscating or permuting your moves to avoid detection
 
 - hp's machine and how things look different from the top than they do
   from the bottom up
@@ -944,6 +1015,32 @@ and strategy.
     - another good example are wargames
       - run throughs of hypothetical situations
 
+
+
+## Orchestration
+
+resummerize as orchestration & describe the differences between that
+and strategy.
+
+- so they understand all these things
+  - and they see where they want to go
+  - they have the passion and energy to push to get it
+
+- but, when confronted with obstacles, they identify an alternate path
+  - lack resources for orchestration? they figure out a way to get them
+  - lack skills?  they work hard to acquire them
+  - terrible reputation/image?  they come up with a strategy for changing it
+- they understand the goal and that no one's going to do the work for them
+  - they aren't afraid of massive challenge.
+  - where they see risk, they see opportunity
+  - where they see challenge, they see (opportunity for personal growth)
+
+- know what they want and don't waste their energy chasing things they don't
+  - they keep their eye on the ball (very important)
+  	- if your energy/time is diverted to other things, you're not
+        going to get much done
+
+
   - important for angel investors  (cut?)
     - if you want to perform as an angel investor,
       - you need strong communication with the companies you fund
@@ -951,6 +1048,10 @@ and strategy.
           - [reword?]
       - if you aren't capable of getting the straightforward
         information you need about your investments
+
+
+
+### Save for an intro
 
 - no one does anything truly great by accident (well, almost no one)
   - but there are some people,
@@ -962,16 +1063,6 @@ and strategy.
     - the kinds of people you need to look out for won't directly attack you
       - people like that are easy to deal with.  practically take care of themselves.
     - but they'll drain your spirit, redirect your energy and leave you exhausted.
-
-## Legal System
-
-explain that i mean they innately understand the rules of the system
-they create within
-- with regard to structuring/creating/operating a legal entity
-  - understanding how to get the system to work for you
-- especially as this pertains to intellectual property
-
-I do not mean that they understand intellectual property
 
 ### notes
 

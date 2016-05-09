@@ -42,6 +42,8 @@ providing detailed descriptions subsequent articles.
 
 ### &#x1f48e; The System
 
+### &#x1f48e; Strategy
+
 ### &#x1f48e;
 
 Where is it that most people learn to be great?  It's their father
@@ -295,7 +297,7 @@ through demoralization.  You've been warned!
 
 ## The Facets of Greatness
 
-### Quantification
+### &#x1f48e; Quantification
 
 Great people quantify and measure everything.  Without quantification,
 you cannot develop a system or hope to improve.  The most difficult or
@@ -306,7 +308,7 @@ crucial to learn how to measure your usage of time, as well as those
 around you.  You also need to learn to quantify information,
 knowledge, communication and social networking -- both online and IRL.
 
-### Networking
+### &#x1f48e; Networking
 
 These great leaders are all conductors in the symphony of
 communication.  They identify the most efficient means to relay
@@ -339,7 +341,7 @@ can be challenging since any patterns that arise from these structures
 are often ephemeral -- people's behavior can change depending on who's
 in the room at that time.
 
-### Communication
+### &#x1f48e; Communication
 
 Communication is one of the most important facets to develop.  If you
 can't communicate effectively, how can you expect to leverage your
@@ -404,7 +406,7 @@ difficult to balance with the interests stockholders.
 > "time" to IPO?  Easy ... never..
 
 
-### Signaling
+### &#x1f48e; Signaling
 
 Signaling is a kind of indirect communication, but it differs
 significantly from that described above because it encompasses
@@ -452,7 +454,7 @@ fucking smart, they will know.
 
 More in the section on signaling.  Just remember.  **Poker Face**.
 
-### Knowledge
+### &#x1f48e; Knowledge
 
 Knowledge is power, as stated by that maxim from time immemorial.
 And, yep, it's true, in case you hadn't figured that out yet. I think
@@ -478,7 +480,7 @@ how other people understand them.  And know how to determine which
 model someone applies towards a problem and how they acquired
 information.
 
-### Vision
+### &#x1f48e; Vision
 
 Vision, story and identity are really aspects of the same thing, which
 is how your persona, your organizations, your struggles and your
@@ -505,39 +507,143 @@ invested in personal computers.  The commercial established the idea
 that there might be another radically different option before they
 were aware that there could be another option.
 
-### Story
+### &#x1f48e; Story
 
-- developing the zen to build your story as you live it
+Everyone loves a good story. This is one of the most valuable tools
+you have.  Not only does a great story help you connect with people
+and gather momentum, but by focusing on how you'll tell the story as
+you live it ensures that you'll enjoy it as it happens and when you
+tell it.  If you're focused on it as it happens, you'll notice more
+about your experiences and you'll retain more of the right
+details. Imperatively, you'll be able to focus on living your story as
+so to embed meaning and value for others.  This requires cultivating a
+zen-like awareness of the present moment, which I'll describe in the
+section on Story.
 
-  - your story helps define where you came from
-- people love a good story
-  - there's always something to be learned
-  - you can make your brand, your identify more relatable
-  - your story sometimes drives your vision
-    - and helps other people understand the why behind your vision
-- southwest airlines and the cocktail napkin
-- the steve jobs story
+> "What would the hero in your story do?" <= This, I like.
 
-### Identity
+Your story will make your brand and your identity more relatable.
+When you and your cofounders faced adversity, how did you overcome it?
+When it looked like things were hopeless, what did you do?  Did you
+build yourself up from nothing?  Or were you just handed and
+opportunity? What mistakes did you make and why?  What strained your
+relationships with your team and what comprimises did you make to
+account for that?  How did you build your team and cultivate your
+relationships?  What values did you stress when deciding the kind of
+culture you would imbute into your startup or project?  When were you
+closest to giving up and what kept you going?  What tools do you use
+when you find yourself or your team struggling or getting blocked up?
+Many of the toxic problems that seem into a team and corrode their
+relationships accrue slowly.  Often, by the time you find them, the
+problems can be one hundred times worse than if the root cause was
+addressed early.  So how did you assess your team members and
+identify that the seeds for these problems were growing?
 
-- your image
-  - your identity relates to how you and your organization are
-    perceived now
+These questions are relevant to anyone and everyone.  The answers are
+not the same in every situation, but unfortunately, we often don't
+know to even contemplate these issues beforehand.  And that's the
+value of experience.  By living your life and your story in such a way
+that you notate the important details and decisions, you can more
+effectively share that experience with others later on.  Even if you
+fail, if nothing else, you have your experience.  For all of these
+questions, it is invaluable to envisage your options, ideals and
+decision-making processes before you have to answer them.  If you're
+always reacting, you'll always be several steps behind.  Remain
+proactive, by deliberating these and other important questions
+beforehand.
 
+Your story should drive the development of your vision. It should help
+you and other people understand the *why* behind your vision. The best
+way to think about an idea for a new product is to think about the
+simple problems in your life.  What's a good solution?  What do I keep
+running into that wastes my time? Even if you don't know the solution,
+assess the problems you have and constantly search for new
+perspectives.  A good problem to solve is relatable.  It's something
+everyone faces.  This problem you faced: remember it! It's practically
+required for a startup pitch.
 
-### Orchestration
+##### &#x1f48e; Identity
 
-- strategy-
-- merge with legal system?
+Your vision and story should drive the development of your identity.
+They become part of your image and are really all part of the same
+thing.  Kind of past,present and future aspects of how you are
+perceived, both by yourself and by others.  At times, I've been pretty
+frustrated to need to struggle so hard against my image, but all this
+upstream swimming and rhetoric jujitsu has made me smarter and
+stronger.  It's also taken quite a toll on me, so I hope to share some
+of my experiences.
 
-### The System
+Your organization and the units within it also have image and
+identity. You're responsible for understanding how they are perceived
+and for understanding how this perception might vary from group to
+group. You need to develop means of constructing accurate self-image,
+which is always in flux: from time to time, from person to person,
+from group to group.
+
+Identity and self-image is where empathy arises.  In particular,
+empathy facilitates your ability to forge strong new relationships
+with others, so it's **vital** for **networking**, **signaling**,
+**communication**, and **orchestration**. If you do not have accurate
+awareness of the self, you cannot have robust empathy with
+others. This is because empathy arises from considering how things
+appear to others, but if you can't see yourself for how you truly are
+then what good would it do to you put yourself in their shoes?
+
+And similarly, self-awareness drives your efficacy in all the facets,
+but especially identity. It's often referenced as one of the most
+important traits for those in business and for leadership by some of
+the greatest guru's out there, who I'm sure can provide much more
+depth for those neophytes of self-image, empathy and compassion.  Go
+watch a [TED](https://www.youtube.com/watch?v=uOrzmFUJtrs)
+[Talk](https://www.youtube.com/watch?v=g4ocm8_UKJs) or
+[something](https://www.youtube.com/watch?v=gXlIAS-rI4E).  Be
+[radical](https://www.youtube.com/watch?v=9IgOVOPLTYI).  Since
+self-awareness is so foundational to identity and all the other
+facets, I've embedded these talks at the end of this article.
+
+How could you project a consistent image to others if you aren't
+self-aware or honest with yourself.  It's important to note that
+sometimes it is useful to project a different image of yourself to
+multiple groups.  You'll find those that manipulate excel at this and
+their games depend on it.  Personally, while it's incredibly
+difficult, I find that retaining and projecting a universally
+consistent image to everyone -- appearing to be the same from anyone's
+perspective -- is one of the best things someone can do.  Obviously,
+it's incredibly challenging, it limits the space of your actions and
+can be impossible, as some people just don't care to see you in an
+honest light. However, you'll find that the most auspicious, seraphic
+people find projecting a congruent self-image to be worth the
+tremendous opportunity costs. And this is why it is important to
+observe this quality in others. If someone goes through great lengths
+to maintain coherent image to others, including those whom haven't
+established lengthy rapport, when it comes at hefty personal risk,
+then that is a person you should trust, depending on their ideals of
+course.  Someone who projects a universally consistent image of crap
+or of evil ... is not so great.
+
+- kernel (linux reference)
+
+### &#x1f48e; The System
 
 knowledge of legal options for your business
 - strategically structuring your patents and other IP registration
 
+- registering copyrights for materials you produce
+  - registering contracts to transfer.
+
+### Strategy
+
+composition of strategy and tactics
+- backward induction
+
+### Orchestration
+
+execution of strategy
+
+
 ## How to Break Through
 
-I see many of these qualities in}yself, though I fear it's too late.
+I see many of these qualities in myself, though I fear it's too late.
 Becoming great and freeing yourself from the chains of a "normal" life
 is quite rare.  You'll find that it often requires the coordination of
 one or two previous generations for someone to really "break through."
@@ -790,6 +896,46 @@ not otherwise exist.  If I didn't desire success and greatness out of
 a belief that, properly postured, I could truly benefit the world, the
 I wouldn't want it at all. And yet, ironically, now that I've learned
 all this, I can see it, but I'm in no position to effectively use it.
+
+
+## Go Watch A TED Talk!
+### On Self-Awareness, Empathy && Radical Self-Love
+
+Note: I haven't actually watched these yet.  I'm mostly including them
+so that I too, one day, will watch them.  Probably tomorrow.  Or some
+time when I'm laying on the couch, eating Ben and Jerry's Chocolate
+Explosion, and watching reruns of
+[A to Z](http://www.nbc.com/a-to-z?nbc=1) on Netflix, no doubt
+yearning for unrequited love and missed connections...
+
+Still no idea why they cancelled that show.  I'm hoping it's just
+because they didn't want to show Andrew and Zelda breaking up.
+Zelda's so hot.  Hopefully, Andrew knows he's got a fantastic thing
+goin on and can figure out how to keep doing whatever the fuck he did
+to land that brilliant piece... lol.  I wouldn't bet on it though.  I
+mean don't get me wrong... . . It's not going to be simple or easy.
+
+I'm just sayin', like Goku. **XD** Kaaaaamehameha, motherfuckers! I'm out!
+
+### Sam Richards - A Radical Experiment in Empathy
+
+<iframe width="560" height="315"
+src="https://www.youtube.com/embed/9IgOVOPLTYI" frameborder="0"
+allowfullscreen></iframe>
+
+### Joan Halifax - Compassion And The True Meaning Of Empathy
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/g4ocm8_UKJs" frameborder="0" allowfullscreen></iframe>
+
+### Niko Everett - A User's Guide to Building Self-Esteem
+
+<iframe width="560" height="315"
+src="https://www.youtube.com/embed/uOrzmFUJtrs" frameborder="0"
+allowfullscreen></iframe>
+
+### Meaghan Ramsey - Why Thinking You're Ugly is Bad For You
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/9IgOVOPLTYI" frameborder="0" allowfullscreen></iframe>
 
 ### Part Two:
 
