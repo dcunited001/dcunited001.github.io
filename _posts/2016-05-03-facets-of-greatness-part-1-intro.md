@@ -24,12 +24,6 @@ others to work with us?  Here's a list of what I believe to be the
 Facets of Greatness.  In this article, I'll summarize each of these,
 providing detailed descriptions subsequent articles.
 
-> And I really just want to emphasize that, while I've learned a lot
-> about these "facets of greatness", I'm not exactly the
-> brightly-shining, radiant, exemplary apex here... I want nothing
-> other than to methodologize and improve on these, if I'm ever to
-> realisticly expect to launch a product.
-
 ### &#x1f48e; Quantification
 
 ### &#x1f48e; Networking
@@ -51,6 +45,13 @@ providing detailed descriptions subsequent articles.
 ### &#x1f48e; Strategy
 
 ### &#x1f48e;
+
+> "And I really just want to emphasize that, while I've learned a lot
+> about these "facets of greatness", I'm not exactly the
+> brightly-shining, radiant, exemplary apex here... I want nothing
+> other than to methodologize and improve on these, if I'm ever to
+> realisticly expect to launch a product." - David Conner, Radiant
+> Apex of Greatness...
 
 Where is it that most people learn to be great?  It's their father
 that first imbues that image.  Perhaps their mother as well.
@@ -444,7 +445,7 @@ negotiation process.  And either way -- yes or no -- all options are
 
 ### ALWAYS MORE OPTIONS! ALWAYS!
 
-![gradius options]
+![Gradius Options](/img/posts/2016-05-03-facets-of-greatness-part-1-intro/gradius-option.png)
 
 And by playing the game so that your options remain open, you retain
 flexibility.  At the same time, it's important to know when to break
@@ -631,6 +632,8 @@ image of crap or of evil ... is not so great.  Who knows?  Maybe
 they're secretly a cutesy kitten on the inside.  Probably not though.
 
 ### &#x1f48e; The System
+
+
 
 knowledge of legal options for your business
 - strategically structuring your patents and other IP registration

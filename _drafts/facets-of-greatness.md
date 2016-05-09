@@ -9,7 +9,45 @@ author:
 [exigently](http://www.thesaurus.com/browse/exigently) - new favorite
 word?? ... nah, but close
 
+
+
 ## Part Two
+
+- Start out by talking a bit about modernization and how special our
+  moment in history is.  It's like standing on the shoulders of
+  giants and we're ready to launch out into space ... or something..
+  - these few generations represent the culmination of human history, at
+    least thus far.
+  - There's a lot of talk about the Singularity, but I prefer to think
+    about it more as Convergence.  We are definitely seeing
+    exponential development of technology, but I think we'll
+    eventually plateau with something more of a Sigmoid S-curve.
+  - Regardless of where you think we're going, with our emminent
+    liftoff towards exponential growth, we have to step back and
+    examine our trajectory here.
+    - It is paramount that we understand where we are going.
+  - And we also need to understand how we arrived to where we are.
+    How did we get to this momentus position?
+    - And really, the answer is that we learned how to measure the
+      world around us.
+      - We even learned to measure cultural progress.
+      - You can see that in the past 600 years, we clearly anticipated
+        modernization because of how we prepared for it.  IMO,
+        anyways, and I believe you can see some of the underpinnings
+        for this stretch back even further. (might want to remove at
+        least some of this..  speculative, lacks solid historic
+        examples, and maybe not scientific..)
+- the sociological implications of technology are more evident every
+  day.
+  - we need to understand where we are going.  as long as we move
+    forward with this in mind, we'll be ok.
+    - we need to figure out how to make technology "more human" or we
+      risk losing touch with our humanity.
+  - if we anticipate how society will change people ...
+  - so we need to quantify behavior so we can measure it.  and we can
+    anticipate our trajectory.
+
+....
 
 ### Quantification
 
