@@ -952,7 +952,10 @@ But .. you know, be realistic.
       need to, but it was almost always a huge setback.  In early
       2011, after finally getting my license when my license was
       suspended.
+
 - self-awareness is a valuable trait with regard to identity and image
+  - it's essential to all the other facets, especially: networking,
+    communication, signaling and
 
 - developing an understanding of how your organization is perceived
   - as well as the groups and units within it
@@ -961,6 +964,11 @@ But .. you know, be realistic.
     self-image at various levels.
     - always in flux: from time to time, from person to person, from
       group to group.
+
+- some of us seek to hide our identity
+  - detecting when this is occuring in others.
+    - and why it's important to know why someone would hide something.
+
 
 - interesting how the future affects the present
   - similar to how your story connects you to your identity,

@@ -24,6 +24,12 @@ others to work with us?  Here's a list of what I believe to be the
 Facets of Greatness.  In this article, I'll summarize each of these,
 providing detailed descriptions subsequent articles.
 
+> And I really just want to emphasize that, while I've learned a lot
+> about these "facets of greatness", I'm not exactly the
+> brightly-shining, radiant, exemplary apex here... I want nothing
+> other than to methodologize and improve on these, if I'm ever to
+> realisticly expect to launch a product.
+
 ### &#x1f48e; Quantification
 
 ### &#x1f48e; Networking
@@ -618,10 +624,11 @@ observe this quality in others. If someone goes through great lengths
 to maintain coherent image to others, including those whom haven't
 established lengthy rapport, when it comes at hefty personal risk,
 then that is a person you should trust, depending on their ideals of
-course.  Someone who projects a universally consistent image of crap
-or of evil ... is not so great.
+course.
 
-- kernel (linux reference)
+The corollary here: someone who projects a universally consistent
+image of crap or of evil ... is not so great.  Who knows?  Maybe
+they're secretly a cutesy kitten on the inside.  Probably not though.
 
 ### &#x1f48e; The System
 
