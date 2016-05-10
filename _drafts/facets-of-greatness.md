@@ -1025,6 +1025,8 @@ they create within
 
 - patents/trademarks/copyrights
 
+Regardless, following
+the patent process through to the end requires
 
 - LLC/C-Corp/S-Corp
 
@@ -1096,6 +1098,12 @@ and strategy.
         information you need about your investments
 
 
+
+knowledge of legal options for your business
+- strategically structuring your patents and other IP registration
+
+- registering copyrights for materials you produce
+  - registering contracts to transfer.
 
 ### Save for an intro
 

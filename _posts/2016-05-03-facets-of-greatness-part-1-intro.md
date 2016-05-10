@@ -304,6 +304,8 @@ through demoralization.  You've been warned!
 
 ## The Facets of Greatness
 
+- emphasize that these are summaries
+
 ### &#x1f48e; Quantification
 
 Great people quantify and measure everything.  Without quantification,
@@ -628,25 +630,51 @@ then that is a person you should trust, depending on their ideals of
 course.
 
 The corollary here: someone who projects a universally consistent
-image of crap or of evil ... is not so great.  Who knows?  Maybe
-they're secretly a cutesy kitten on the inside.  Probably not though.
+image of crap or of evil ... is not so great. Who knows? Maybe
+they're secretly a cutesy kitten on the inside. Probably not though.
 
 ### &#x1f48e; The System
 
+These people are pros at navigating the system. By system, I mean the
+legal framework that exists in their locality, but it's not just
+limited to laws and regulations. Each organization and groups create
+their own "process frameworks" that specify how people will interact
+and how tasks will be done. As for these process frameworks, there
+tend to be both explicit and implicit processes.  Some of these aren't
+so clearly stated, but it's crucial to be able to pick up on them
+quickly, just like it is to assess a new group's structure and
+hierarchy.  If you're going to get anywhere in business, not only do
+you have to excell in reading these process structures, but also
+designing them, implementing transitions between them and having the
+experience to know what works.  It's a common mistake to oversimplify
+and assume you have the right changes to a particular process, but
+"one thorn of experience is worth a wilderness of warning." Sometimes
+a slower or less efficient process allows you to better gauge risk,
+assess your opportunity for more profitable options or develop a
+stronger relationship with a customer.
+
+As for the legal framework, you can't construct a business plan or
+negotiate with partners without knowing the details of how your
+business entity will be structured.  Being aware of your options here
+is critical as nothing is worse then funnelling thousands into
+starting your fledgling dream business, just to realize that you set
+it all up wrong.  Knowing the basics on trademark, copyright and
+patent law is a must if you're going to properly structure and protect
+your IP.  This is critical if you don't have very much money.  Filing
+the wrong patent can be incredibly expensive and leave you incredibly
+vulnerable.  Properly structuring a set of patents takes not only
+requires domain expertise, but legal expertise as well.  Otherwise,
+you'll waste a ton of time and money at the patent office or get stuck
+with a patent that can be invalidated later.
+
+### &#x1f48e; Strategy
 
 
-knowledge of legal options for your business
-- strategically structuring your patents and other IP registration
-
-- registering copyrights for materials you produce
-  - registering contracts to transfer.
-
-### Strategy
 
 composition of strategy and tactics
 - backward induction
 
-### Orchestration
+### &#x1f48e; Orchestration
 
 execution of strategy
 
@@ -906,7 +934,6 @@ not otherwise exist.  If I didn't desire success and greatness out of
 a belief that, properly postured, I could truly benefit the world, the
 I wouldn't want it at all. And yet, ironically, now that I've learned
 all this, I can see it, but I'm in no position to effectively use it.
-
 
 ## Go Watch A TED Talk!
 ### On Self-Awareness, Empathy && Radical Self-Love
