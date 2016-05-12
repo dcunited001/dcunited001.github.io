@@ -339,6 +339,8 @@ through demoralization.  You've been warned!
 
 ![Drink From The Firehouse](/img/posts/2016-05-03-facets-of-greatness-part-1-intro/drink-from-the-firehose.jpg)
 
+#### That was just for you, Wierd Al
+
 In the intro, I've provided a quick summary of each facet.  I ended up
 going well over what I'd planned for some of these summaries.  I'm
 planning on writing a 3,000 - 10,000 word article for each facet and
@@ -804,9 +806,11 @@ how to design with redundancy and resilience in mind.
 This is the Unknown facet.  It's a mystery.  Wrapped in an enigma.
 Contained inside a box!  It's a box.  I wonder what's in it?
 
-![UHF What's In The Box?!](/img/posts/2016-05-03-facets-of-greatness-part-1-intro/)
+### WHAT'S IN THE BOX?!
 
-#### That was just for you, Wierd Al
+![UHF What's In The Box?!](/img/posts/2016-05-03-facets-of-greatness-part-1-intro/whats-in-the-box.jpg)
+
+### NOTHING YOU SO STUPID!!
 
 The Unknown facet encompasses what we don't know or can't know. This
 includes attributes that are difficult to pin down. It also includes
@@ -1092,7 +1096,11 @@ dependent on someone else being respectful and tactful enough to help
 us address them in the right way.  And self-awareness is something
 I'll discuss in the section on identity and image.
 
+### Ahhh Tantalus
+
 ![The Fate of Tantalus](/img/posts/2016-05-03-facets-of-greatness-part-1-intro/tantalus.jpg)
+
+#### Cursed For Eternity to See the Fruit Just Outside His Reach
 
 As for me personally, are these lessons a blessing or a curse? Only
 after a decade of painful mistakes did I learn any of this. I'm never
