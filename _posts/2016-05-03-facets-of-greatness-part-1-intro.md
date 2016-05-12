@@ -5,7 +5,14 @@ tags: "business psychology philosophy sociology leadership"
 headline: ""
 author:
   name: "David Conner"
-excerpt: ""
+excerpt: "Non possidentem multa vocaveris
+recte beatum; rectius occupat
+nomen beati, qui deorum
+muneribus sapienter uti
+duramque callet pauperiem pati
+peiusque leto flagitium timet,
+non ille pro caris amicis
+aut patria timidus perire."
 ---
 
 What makes a person like Elon Musk or Steve Jobs so effective at
@@ -15,6 +22,8 @@ behaviors, experience and knowledge contribute most to building their
 character, realizing their dreams and pushing them forward, in spite
 of hardship?  What attributes contribute to the development of these
 qualities and behaviors? Why are these attributes important?
+
+> How do I find the path to Elysia?
 
 !["Stay Hungry. Stay Foolish." - Steve Jobs](/img/posts/2016-05-03-facets-of-greatness-part-1-intro/steve-jobs-stay-hungry-stay-foolish.jpg)
 
@@ -53,6 +62,8 @@ providing detailed descriptions subsequent articles.
 > realisticly expect to launch a product." - David Conner, Radiant
 > Apex of Greatness...
 
+### [Add Title]
+
 Where is it that most people learn to be great?  It's their father
 that first imbues that image.  Perhaps their mother as well.
 Unfortunately, I never had a father.  He died when I was 14 months
@@ -75,15 +86,17 @@ much of a clearly stated system given to me by my parents.  That is,
 other than **(Step 1)** Read the Bible **(Step 2)** Go to Church
 **(Step 3)** ???.
 
-I had to create my own, which is by no means
-complete.  And honestly, building your life on a basis founded in even
-a small amount of religious study is not a bad idea.  Religions are
-successful primarly because they are so capable of providing people
-with a solid foundation for life.  In addition to explaining the
-mysteries of life and it's origins, religions are the accumulation of
-stories, which impart wisdom and a method for living life.
+I had to create my own, which is by no means complete.  And honestly,
+building your life on a basis founded in even a small amount of
+religious study is not a bad idea.  Religions are successful primarly
+because they are so capable of providing people with a solid
+foundation for life.  In addition to explaining the mysteries of life
+and it's origins, religions are the accumulation of stories, which
+impart wisdom and a method for living life.
 
 ## Aristotelian Ethics
+
+### A Brief Interlude
 
 Also, this article isn't meant to be a consummate dissertation on the
 topics contained herein.  These ideas aren't really "pure" and need to
@@ -265,7 +278,7 @@ business for a robust, enjoyable family life or working towards a life
 long goal in academia.  Still you'll find this series to be incredibly
 useful, even if your megalomania isn't quite yet terminal.
 
-![Facets of Greatness](img/posts/2016-05-03-facets-of-greatness-part-1-intro/gem-cuts.jpg)
+![Facets of Greatness](/img/posts/2016-05-03-facets-of-greatness-part-1-intro/gem-cuts.jpg)
 
 ### The Surface Surrounding the Intangible
 
@@ -304,9 +317,17 @@ through demoralization.  You've been warned!
 
 ## The Facets of Greatness
 
-- emphasize that these are summaries
+#### Are You Ready? You Get To Drink From The Firehouse!!
 
-### &#x1f48e; Quantification
+![Drink From The Firehouse](/img/posts/2016-05-03-facets-of-greatness-part-1-intro/drink-from-the-firehose.jpg)
+
+In the intro, I've provided a quick summary of each facet.  I ended up
+going well over what I'd planned for some of these summaries.  I'm
+planning on writing a 3,000 - 10,000 word article for each facet and
+I've mostly written out about half of these.  If you want to check out
+the drafts for each section, [here](https://github.com/dcunited001/dcunited001.github.io/blob/facets/_drafts/facets-of-greatness.md) they are on my github.
+
+## &#x1f48e; Quantification
 
 Great people quantify and measure everything.  Without quantification,
 you cannot develop a system or hope to improve.  The most difficult or
@@ -317,7 +338,7 @@ crucial to learn how to measure your usage of time, as well as those
 around you.  You also need to learn to quantify information,
 knowledge, communication and social networking -- both online and IRL.
 
-### &#x1f48e; Networking
+## &#x1f48e; Networking
 
 These great leaders are all conductors in the symphony of
 communication.  They identify the most efficient means to relay
@@ -350,7 +371,7 @@ can be challenging since any patterns that arise from these structures
 are often ephemeral -- people's behavior can change depending on who's
 in the room at that time.
 
-### &#x1f48e; Communication
+## &#x1f48e; Communication
 
 Communication is one of the most important facets to develop.  If you
 can't communicate effectively, how can you expect to leverage your
@@ -415,7 +436,7 @@ difficult to balance with the interests stockholders.
 > "time" to IPO?  Easy ... never..
 
 
-### &#x1f48e; Signaling
+## &#x1f48e; Signaling
 
 Signaling is a kind of indirect communication, but it differs
 significantly from that described above because it encompasses
@@ -463,7 +484,7 @@ fucking smart, they will know.
 
 More in the section on signaling.  Just remember.  **Poker Face**.
 
-### &#x1f48e; Knowledge
+## &#x1f48e; Knowledge
 
 Knowledge is power, as stated by that maxim from time immemorial.
 And, yep, it's true, in case you hadn't figured that out yet. I think
@@ -489,7 +510,7 @@ how other people understand them.  And know how to determine which
 model someone applies towards a problem and how they acquired
 information.
 
-### &#x1f48e; Vision
+## &#x1f48e; Vision
 
 Vision, story and identity are really aspects of the same thing, which
 is how your persona, your organizations, your struggles and your
@@ -516,7 +537,7 @@ invested in personal computers.  The commercial established the idea
 that there might be another radically different option before they
 were aware that there could be another option.
 
-### &#x1f48e; Story
+## &#x1f48e; Story
 
 Everyone loves a good story. This is one of the most valuable tools
 you have.  Not only does a great story help you connect with people
@@ -571,7 +592,7 @@ perspectives.  A good problem to solve is relatable.  It's something
 everyone faces.  This problem you faced: remember it! It's practically
 required for a startup pitch.
 
-##### &#x1f48e; Identity
+## &#x1f48e; Identity
 
 Your vision and story should drive the development of your identity.
 They become part of your image and are really all part of the same
@@ -633,7 +654,7 @@ The corollary here: someone who projects a universally consistent
 image of crap or of evil ... is not so great. Who knows? Maybe
 they're secretly a cutesy kitten on the inside. Probably not though.
 
-### &#x1f48e; The System
+## &#x1f48e; The System
 
 These people are pros at navigating the system. By system, I mean the
 legal framework that exists in their locality, but it's not just
@@ -667,17 +688,149 @@ requires domain expertise, but legal expertise as well.  Otherwise,
 you'll waste a ton of time and money at the patent office or get stuck
 with a patent that can be invalidated later.
 
-### &#x1f48e; Strategy
+## &#x1f48e; Strategy
 
+Strategy is really about the composition of tactics at various levels.
+Business and life are can be viewed through the lens of game theory.
+Both are a mix of turn-based and real-time games.  In life, one
+chooses their objectives to optimize on based on their model of the
+world, usually fairly early on.  Some people possess far more
+cognition and metacognition, which both greatly extend your ability to
+assess and model the world.  The earlier you cognitively develop, the
+better.  Doing so equips you with the meta-tools you need to construct
+the model you'll use to search for meaning in life, for your own
+purpose.  In business, you optimize on other factors and objectives,
+like value, opportunity, diversity, control, risk, security and time.
 
+As a generalized concept, strategy is about the composition of tactics
+at various levels.  Reuseable tactics are the best: if you've found
+something that works in one field, industry or game, you'll find that
+you can usually rework it and apply it elsewhere.  Most tactics can be
+generalized to varying degrees: you can change their form or
+parameterize them by abstracting variables.  The most reuseable
+tactics are the best.  You can combine tactics with others or
+deconstruct them into small pieces which can be rearranged.
 
-composition of strategy and tactics
-- backward induction
+Backward induction is a well-known technique in chess and other games.
+It means you look for the endgame or midgame scenario that you'd like
+to achieve and think backwards to identify sequences of moves that
+will allow you to reach it.  I wrote about it in the third part of my
+series on
+[Category Theory, Epistemology and Cognition](http://te.xel.io/posts/2015-08-26-epistemology-cognition-and-category-theory-part-three.html).
+However, the proper execution of backward induction requires
+deconstruction.  That is, you must take the optimal sequence of moves
+that you've identified and reconstruct them in such a way that avoids
+detection.  In a game like chess, you might insert blocking moves that
+prevent the opponent from moving or back up other pieces or hold
+spaces in the middle of the board. These moves are all but tangential
+to your true objective. Otherwise, if you were to instead execute
+your sequence of tactics in a direct manner, your opponent could
+easily determine your intention and your entire strategy is pointless.
 
-### &#x1f48e; Orchestration
+Furthermore, appearances overcomplicate an otherwise simple
+reality. If you don't take into account how your opponent perceives
+your actions or if you can't detect that, you'll always find yourself
+behind.  No matter your level of "skill" in your game of choice, if
+it's a multiplayer game, there is always a meta-game.  Therefore, you
+have to learn how to shield your tactics from detection. This usually
+requires becoming skilled in the art of duplicity, if not deception.
+However, deception errs on the side of outright cheating and it's not
+fun to play with those who have no rules.  Also, actions which can be
+perceived in more than one way are always more valuable, inherently.
+Learning how your opponent models the game is incredibly valuable as
+well.  If you can observe through their conscious actions or
+unconscious reactions pieces of the system they use to inform their
+moves, then you can more accurately predict their next moves from
+their play style.
 
-execution of strategy
+The section on Strategy will cover much more, including why you should
+be wary of making your objectives known and how to detect your
+opponents strategies.  For example, in addition to looking at your
+opponent's actions, it can often prove more useful to look at what
+they are *not* doing.  Specifically, when your opponent is
+intentionally obscuring their intentions, reflecting on the actions
+that seem to be off-limits to them is often the best way to unravel
+their strategy ...  which reminds me that it's also incredibly useful
+to weight an opponent's action in terms of the energy they
+invested. High-energy actions always mean much more. Or they usually
+do anyways. You'd be surprised...
 
+![Show Me The Beef](/img/posts/2016-05-03-facets-of-greatness-part-1-intro/where-the-beef.jpg)
+
+## &#x1f48e; Orchestration
+
+Orchestration is really the execution of strategy.  Whereas strategy
+concerns intuition and knowledge of each of the other facets,
+orchestration concerns coordination of each facet.  You're working
+with the processes and systems you've woven into your organization.
+You'll need to know what to do when these processes break down or
+tactics don't work.  If you're organization is nimble and if you're
+maintaining proper communication, then you'll be able to refocus the
+organization's energy in another direction when your systems
+invariably malfunction.  If you've really stacked your chips right,
+then even when things go wrong, it won't matter much.  You won't have
+lost too much steam, if you've been aiming for as many birds as you
+can with each stone.  With orchestration, synergy is what you're
+looking for.  How can you coordinate each facet, so that everything
+you do satsifies multiple objectives.  Grandmaster chess players
+remain flexible with their available moves and even though each piece is
+backing up multiple pieces, it seems like they have a maximum number
+of available "safe" moves.  In business and life, this means knowing
+how to design with redundancy and resilience in mind.
+
+> The little piggie with the brick house sleeps soundly every night
+> because his house can withstand all kinds of pressure.
+
+## &#x1f48e; ???
+
+This is the Unknown facet.  It's a mystery.  Wrapped in an enigma.
+Contained inside a box!  It's a box.  I wonder what's in it?
+
+![UHF What's In The Box?!](/img/posts/2016-05-03-facets-of-greatness-part-1-intro/)
+
+#### That was just for you, Wierd Al
+
+The Unknown facet encompasses what we don't know or can't know. This
+includes attributes that are difficult to pin down. It also includes
+those attributes that aren't typically associated with greatness,
+which for whatever reason, end up being one of those critical things
+that really *made* someone.  Far too many people associate being
+different with weakness.  They seek to identify what makes others
+different and they point it out.  They question it.  They criticize
+it.  Sometimes they accept it, but usually people will try to use it
+in some way.  Often, instead of embracing our own unique quirks as
+strengths, we buy into all the criticism.
+
+> Always be yourself, stick to what you know to be true, trust your
+> gut and believe in yourself.
+
+We should become comfortable with what we can't do yet or with what we
+haven't learned.  By challenging ourselves to experience what is
+uncomfortable or difficult, we expand our ability to deal with those
+situations the next time.  Because our mind is the product of ideas
+and processes that it can combinate, then by developing skills which
+are challenging and difficult for most, our mind will become more
+capable than others.  Some of us have unique challenges that prevent
+us from experiencing some things and this means that there are some
+ideas or extensions of those ideas which aren't available to
+everyone. Or rather, those ideas are only available vicariously. But
+we should embrace those peope who can expand our minds by sharing
+experiences that we can't have or truly can't know.
+
+Wisdom is knowing what to do when you do not know.  You need to have
+the intuition to dig deeper when it seems that you have a set course
+of action.  When it seems you already have a viable set of options,
+you have to exercise patience to ensure you've truly examined the
+situation.  Usually, picking from the cards dealt to you is fine, but
+sometimes you'll find there's not a single fair card in each hand
+dealt to you.  Also, you have to know when to make a stand and when to
+hold your cards. Yet, on the other hand, you absolutely have to be
+capable of recognizing a situation where doing nothing is the *only*
+wrong course of action.  Some of these are very hard concepts to
+balance, which is why it's crucial that we understand our own values,
+as well as the emotions and behaviors that drive us. If we know what
+drives us and we have a nearly concrete set of values, then we can
+remain grounded and centered in the face of tumultuous discord.
 
 ## How to Break Through
 
@@ -920,7 +1073,7 @@ dependent on someone else being respectful and tactful enough to help
 us address them in the right way.  And self-awareness is something
 I'll discuss in the section on identity and image.
 
-- the fate of Tartarus. maybe just a picture.
+![The Fate of Tantalus](/img/posts/2016-05-03-facets-of-greatness-part-1-intro/tantalus.jpg)
 
 As for me personally, are these lessons a blessing or a curse? Only
 after a decade of painful mistakes did I learn any of this. I'm never
@@ -952,7 +1105,8 @@ goin on and can figure out how to keep doing whatever the fuck he did
 to land that brilliant piece... lol.  I wouldn't bet on it though.  I
 mean don't get me wrong... . . It's not going to be simple or easy.
 
-I'm just sayin', like Goku. **XD** Kaaaaamehameha, motherfuckers! I'm out!
+I'm just sayin', like Goku. **XD** Kaaaaamehameha, motherfuckers! I'm
+out!
 
 ### Sam Richards - A Radical Experiment in Empathy
 

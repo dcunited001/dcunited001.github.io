@@ -9,7 +9,13 @@ author:
 [exigently](http://www.thesaurus.com/browse/exigently) - new favorite
 word?? ... nah, but close
 
+Talk about people who are still alive
+- bill gates
+- elon musk
+- link to other articles that detail sections of their story
+- footnotes
 
+add examples of how to apply these ideas
 
 ## Part Two
 
@@ -111,8 +117,6 @@ can.
   - by the 18th or 19th century, pocketwatches were much more
     prevelant, though still incredibly valuable
   - https://en.wikipedia.org/wiki/History_of_watches
-
-
 
 ### Standard Oil
 
@@ -852,7 +856,8 @@ But .. you know, be realistic.
 - Southwest Airlines and a cocktail napkin
 - Steve Jobs story
 
-- a story about how you met your cofounders or what spurred you to create your product are invaluable
+- a story about how you met your cofounders or what spurred you to
+  create your product are invaluable
   - these are things that cannot be replicated by your competition
   - these are things that cannot be changed
   - and they help cultivate a unique connection between you and your most loyal customres
@@ -867,15 +872,20 @@ But .. you know, be realistic.
     - in order to really cultivate a new connection in this way
   - otherwise, if you don't keep this in mind
     - (and it takes much intent to acutely focus on the present moment)
-    - it's too easy to get distracted by life and all the usual things and all your usual patterns and behaviors
+    - it's too easy to get distracted by life and all the usual things
+      and all your usual patterns and behaviors
       - many opportunities will pass you by and you'll never even know
       - these things won't seem like opportunities at all if you even notice them anyways
-  - and to develop this sense of discerning true novelty and unknown opportunity in your mind
-    - you must be acutely aware of present phenomena and the inner workings of your own mind
+  - and to develop this sense of discerning true novelty and unknown
+    opportunity in your mind
+    - you must be acutely aware of present phenomena and the inner
+      workings of your own mind
       - you have to understand how your own mind functions in an accurate and honest way
         - if you ever hope to change it in any meaningful way
-    - and it's counterintuitive to think that, in order to change how you look for novelty in everyday things,
-      - which requires discovering something new, one needs to become familiar with their own cognitive workings,
+    - and it's counterintuitive to think that, in order to change how
+      you look for novelty in everyday things,
+      - which requires discovering something new, one needs to become
+        familiar with their own cognitive workings,
       - which is what occludes this stuff in the first place
 
 > "to cultivate a sense of discerning true novelty & unknown
@@ -897,7 +907,8 @@ But .. you know, be realistic.
     - is the 'why' something i can tell other people?
       - if not, this *can* indicate negative behavior
       - there's plenty of times when you can't explain why
-      - but usually, if you can explain the reasoning behind your behavior and do so honestly ..
+      - but usually, if you can explain the reasoning behind your
+        behavior and do so honestly ..
   - so if you face some hardships in your life
     - think about how you would overcome them, if you were the hero of your story
 - also, this idea that we're all telling our own story can have some downsides
@@ -1033,12 +1044,14 @@ the patent process through to the end requires
 - how stocks work for startups and early stage businesses
   - preferential stock
 
-
 ## Strategy
 
 strategy as the composition of tactics and paths to long term goals
 - tactics tend to be generalizable and applicable to multiple
   situations
+
+- in terms of game-theory, business is a mix of turn-based and
+  real-time strategy
 
 - backward induction
   - identifying midgame and endgame positions or goals to achieve
@@ -1063,8 +1076,6 @@ strategy as the composition of tactics and paths to long term goals
     - another good example are wargames
       - run throughs of hypothetical situations
 
-
-
 ## Orchestration
 
 resummerize as orchestration & describe the differences between that
@@ -1088,16 +1099,26 @@ and strategy.
   	- if your energy/time is diverted to other things, you're not
         going to get much done
 
-
   - important for angel investors  (cut?)
     - if you want to perform as an angel investor,
       - you need strong communication with the companies you fund
-        - or at least, you need to have some kind of apparatus in place that provides you with the information you need
+        - or at least, you need to have some kind of apparatus in
+          place that provides you with the information you need
           - [reword?]
       - if you aren't capable of getting the straightforward
         information you need about your investments
 
+calculating risk
 
+appearances vs. reality
+- how a strategy is perceived
+- shielding your tactics from detection
+  - poker analogy: if your tell is spotted, how do you use it again?
+    - if you call a bluff or win too many times on one basis...
+    - the way to reuse them is to randomly swap out your tactics
+      - and allow the opponent to "win" just enough to think that the
+        next hand is a good bet
+    - in other words you have to detect when you have been detected
 
 knowledge of legal options for your business
 - strategically structuring your patents and other IP registration
@@ -1105,29 +1126,71 @@ knowledge of legal options for your business
 - registering copyrights for materials you produce
   - registering contracts to transfer.
 
+In poker (for which I am no expert!) if your tell is spotted, how do
+you use it again?  If you call a bluff or win too many times on just
+one basis, then your opponents will pick up on the specific info
+you're using to win.  The way to reuse your info channels (tells) or
+tactics, is to randomly cycle them in and out.  If you rely on tells
+too many times in a row, then even if the opponent can't determine how
+you're picking up the info, they'll know.  Or they'll suspect.
+Regardless, they'll change their behavior and what you've learned will
+just become more info to manage.  So you have to cycle them out, which
+usually means allowing the opponent to "win" just enough to think the
+next hand is a good bet.
+
+Beware making your goals known.  You have to know the right time to
+make your objects known and to whom you will disclose them.  There are
+people who will stop at nothing to be little haters that seek to trip
+you up whenever they can.  It's happened to me sooo many times.  It's
+incredibly frustrating to be excited about some new app idea, just to
+have someone intentionally trip you up by distracting you or
+misdirecting your energy or whatever.  You'd be surprised at what
+people are eager to do, even though they won't ever accomplish much
+themselves.  And yet, the last thing they'll do is partner up with you
+on a project or offer to help, directly.  Sounds paranoid and I think
+it's fueled by confirmation bias, but I've experienced it several
+times.
+
+> "Rule #1 in life: Don't ever, ever let David Conner win.  Fuck that
+> guy."
+
+The cynicism is killing me on the inside, like a cancer.  Regardless,
+this kind of shit that I've been shoveling all my life has only served
+to make me stronger, year after year, as long as I can stave off the
+negativity. My life is like one of those logic paradoxes.
+
+
+of course the other side is detecting and analyzing strategy
+- the perfect strategy is nothing if it doesn't take into account the
+  behavior of other players (and non-players)
+- starcraft 'probe' tactics
+  - you need to be aware of what your opponent is planning
+    - while preventing them from becoming aware that you know
+- why it's useless to be a psychic?
+  - because the second someone knows that you know, they'll change
+    their mind and claim you're crazy.
+
+- measuring your opponents intent by gauging the level of energy
+  invested
+
 ### Save for an intro
 
 - no one does anything truly great by accident (well, almost no one)
   - but there are some people,
     - whereby some accident of fate or life circumstance
-    - who life equips with not only the insight required to understand the importance of these [attributes]
-    - but also the mind/behaviors to create a path and the spirit to conquer these challenges [any obstacles].
+    - who life equips with not only the insight required to understand
+      the importance of these [attributes]
+    - but also the mind/behaviors to create a path and the spirit to
+      conquer these challenges [any obstacles].
   - this is why you must guard your will to fight
     - your [most dangerous] enemies will go for that first
     - the kinds of people you need to look out for won't directly attack you
       - people like that are easy to deal with.  practically take care of themselves.
     - but they'll drain your spirit, redirect your energy and leave you exhausted.
 
-### notes
-
-i want to start out with this stuff about myself below, but it's really just not important
-
-other comments:
-
-
 ### ???
 
-the unknown facet
+the unknown facet (rewrite summary!)
 - describe it as the things we don't know or can't know
   - we should become comfortable with what we can't do yet or with
     what we haven't learned
@@ -1201,11 +1264,11 @@ seek conformity.
       to protect ourselves from the chaos resulting from strained
       relationships or turbulent economics or some catastrophe.
 
-wisdom as knowing what to do when you do not know
+wisdom as knowing what to do when you do not know (rewrite)
 - having the patience and intuition for times when it seems that you
   have a set course of action or viable options
 
-knowing when to make a stand and when to hold your cards
+knowing when to make a stand and when to hold your cards (partial rewrite)
 - knowing how to recognize a situation where doing nothing is the only
   wrong thing to do
   - while respecting the beauty of things as inherantly perfect as
