@@ -23,8 +23,6 @@ character, realizing their dreams and pushing them forward, in spite
 of hardship?  What attributes contribute to the development of these
 qualities and behaviors? Why are these attributes important?
 
-> How do I find the path to Elysia?
-
 !["Stay Hungry. Stay Foolish." - Steve Jobs](/img/posts/2016-05-03-facets-of-greatness-part-1-intro/steve-jobs-stay-hungry-stay-foolish.jpg)
 
 What kinds of knowledge help us form and realize a vision? What
@@ -62,8 +60,6 @@ providing detailed descriptions subsequent articles.
 > realisticly expect to launch a product." - David Conner, Radiant
 > Apex of Greatness...
 
-### [Add Title]
-
 Where is it that most people learn to be great?  It's their father
 that first imbues that image.  Perhaps their mother as well.
 Unfortunately, I never had a father.  He died when I was 14 months
@@ -76,6 +72,8 @@ found myself lacking direction and instead I felt a hole that needed
 to be filled.  I was forced to search hard for meaning in life, but
 there was nothing there, nothing real anyways.  I eventually found
 that I needed to create my own meaning in life.
+
+> So how do I find the path to Elysia?
 
 ![Myst](/img/posts/2016-05-03-facets-of-greatness-part-1-intro/myst.png)
 
@@ -94,6 +92,20 @@ foundation for life.  In addition to explaining the mysteries of life
 and it's origins, religions are the accumulation of stories, which
 impart wisdom and a method for living life.
 
+In this article, I'll describe other systems of virtues, detailing how
+they differ from what I've included in this series, which is moreso
+about the knowledge required to move people to build great
+things. Then I'll provide a summary of each facet, each of which will
+be further detailed in future articles. Then I'll describe some of the
+general mistakes I've made in the past and explain why it's important
+to play to appearances.  I'll elaborate on some of the personal costs
+of doing so.  I discuss why wealthy circumstance doesn't always lead
+to success and explain the kind of psychological natural selection
+that does seem to lead to it.  Success and wealth seems to ironically
+detract and shield us from the experiences that lead to stronger
+people. I'll discuss vulnerability and the paradox of how shielding
+our individual vulnerabilities makes us weaker as a whole.
+
 ## Aristotelian Ethics
 
 ### A Brief Interlude
@@ -103,11 +115,11 @@ topics contained herein.  These ideas aren't really "pure" and need to
 be distilled if a system based on these ideas were to be pure.  That
 is, many of these facets overlap and I don't believe this is the ideal
 way to structure this content.  Some may be missing and others could
-be reorganized into more fitting facets. Perhaps if I didn't miss out
-on a college education (and the college experience) then I'd be
-capable of doing this justice. Two other systems which are much more
-complete include Benjamin Franklin's system of 13 virtues found in his
-autobiography, which is frustratingly incomplete.
+be reorganized into more fitting categories. Perhaps if I didn't miss
+out on a college education (and the college experience) then I'd be
+more capable of doing this justice. Two other systems which are much
+more complete include Benjamin Franklin's system of 13 virtues found
+in his autobiography, which is frustratingly incomplete.
 
 Aristotle's Ethics includes a system of virtues, which is highly
 regarded.  It's lasted over 2,000 years, so someone thought it was
@@ -120,7 +132,7 @@ graph, where the extremes are found at the ends of each axis.  A
 person exhibiting perfect ethical behavior would then find themselves
 centered at the origin of these axes, although I'm not sure that a
 notion of perfect ethical behavior actually exists.  Optimal ethical
-behavior, in the Aristotelean sense, really depends on your intent and
+behavior, in the Aristotelian sense, really depends on your intent and
 your objective in life.  If there is an optimum, it should be found in
 a region of space close to the origin.
 
@@ -148,10 +160,10 @@ read without utilizing such means as to alter the context. At the same
 time, it is helpful to retain control over the context of such
 situations, but most of us lack the resources or time to do
 so. Magnanimity is a higher-level virtue, exemplified by threading and
-layering the other virtues.  It is cultivated over the course of one's
-lifetime and sometimes over the course of generations. You can read
-more about [magnanimity](https://en.wikipedia.org/wiki/Magnanimity) on
-wikipedia.
+layering practice of the other virtues.  It is cultivated over the
+course of one's lifetime and sometimes over the course of
+generations. You can read more about
+[magnanimity](https://en.wikipedia.org/wiki/Magnanimity) on wikipedia.
 
 Another important takeaway is that no one exemplifies these
 virtues *a priori*. It takes practice and conscious effort. There are
@@ -180,7 +192,9 @@ a very special environment in which those who are good are rewarded,
 for the most part.  Even in countries which do not have a strictly
 democratic system, some are experiencing unprecedented growth because
 their systems cultivate the right virtues and promote those who
-exemplify them. The reason a democratic system works is because it
+exemplify them.
+
+The reason a democratic system works is because it
 fosters the involvement of large proportions of a nation's population.
 The more people who are involved, the more invested citizens become
 and the more difficult it is to obscure corruption or enshroud a
@@ -193,10 +207,12 @@ And so, because the governmental and societal systems we have in place
 are so special, yet can be fragile -- and because these virtues
 contribute to stability and the possibility of benevvolent livelihoods
 -- then it's important for those who exemplify the right virtues to
-accrue influence.  It's often difficult for people from 15-30 in
-America to understand some policies because there are some things you
-won't understand until you've had specific life experiences.  Some of
-those experiences include graduation from higher education or disease
+accrue influence.  It's often difficult for people from ages 15
+through 30 in America to understand some policies because there are
+some things you won't understand until you've had specific life
+experiences.  Plato famously wrote in The Republic that a society
+should be governed by the older generation and this is why.  Some of
+these experiences include graduation from higher education or disease
 or dealing with the reality of one's own mortality or the death of
 someone you were close to.  A great example is having and raising
 children.  There are things you just won't understand in life until
@@ -218,7 +234,7 @@ And this is becoming a bit harder to do, as the pace of information
 transmission accelerates and it becomes harder to discern what we
 should believe and what we should examine further.
 
-And as development of technology only expands more rapidly, this kinds
+And as development of technology only expands more rapidly, this kind
 of sociological changes will only become more commonplace.  This is
 why it is urgent that we foster the kind of culture around the world
 that is prepared to adapt. It's also important to ensure that everyone
@@ -227,25 +243,25 @@ many lives that is disruptive to propagating values to the next
 generation.  There is far too much confirmation bias in both the rich
 and the poor that prevents us from finding solutions to address the
 root causes of poverty.  In particular, those who are wealthy have an
-obligation to those who are not. If the wealthy in this country do not
-demonstrate their appreciation of that responsibility, then the system
-that we have becomes reproachable and vulnerability to instability.
-We absolutely cannot have this kind of instability in any major world
-power as we approach this period of exponential technological
-growth. Technology is a double-edged sword and has the propensity for
-beneficence and for malevolence, particularly if it's not controlled.
-If some of this tech gets into the wrong hands, it will create
-disorder that is bad very every major world power.  If we recognize
-this, agree to cooperate and formulate a strategy for handling this,
-we'll be fine. If we can't do that, we're screwed.  And the kind of
-world that exists after major technological collapse is one in which
-the lack of resources and the lack of systems to promote coordinated
-behavior prevents the emergence of a stable system that fosters
-virtuous behavior.  It'd be the exact opposite.  The best way for an
-individual to survive or protect their family would be by acting in
-horridly selfish ways.  It's also important to understand that this
-kind of Mad Max scenario isn't certain and that assuming it is may
-make it difficult to restore order.
+obligation to aid those who are not. If the wealthy in this country do
+not demonstrate their appreciation of that responsibility, then the
+system that we have becomes reproachable and vulnerability to
+instability.  We absolutely cannot have this kind of instability in
+any major world power as we approach this period of exponential
+technological growth. Technology is a double-edged sword and has the
+propensity for beneficence and for malevolence, particularly if it's
+not controlled.  If some of this tech gets into the wrong hands, it
+will create disorder that is bad very every major world power.  If we
+recognize this, agree to cooperate and formulate a strategy for
+handling this, then we'll be fine. If we can't do that, we're screwed.
+And the kind of world that exists after major technological collapse
+is one in which the lack of resources and the lack of systems to
+promote coordinated behavior prevents the emergence of a stable system
+that fosters virtuous behavior.  It'd be the exact opposite.  The best
+way for an individual to survive or protect their family would be by
+acting in horridly selfish ways.  It's also important to understand
+that this kind of Mad Max scenario isn't certain and that assuming it
+is may make it difficult to restore order.
 
 The whole world has enough on our plate without major war.  We have to
 clean up the oceans and the environment over the next two
@@ -932,8 +948,6 @@ tactics. Please keep that in mind.
 
 ### Guard Your Reputation With Your Life
 
-(rewrite?)
-
 What does one need to avoid?  Since becoming great requires a lot of
 exposure and often courting someone's attention who would, in a way,
 vouch for you, then you need to guard your reputation as though it
@@ -956,12 +970,9 @@ sometimes bring opportunity, they often come bearing baggage or rotten
 fruit. Especially if you don't vet them.  This is another great
 ability to develop: you need to be able to quickly run people through
 a gambit and understand how they're going to react in various similar
-future situations (?).  All while appearing approachable and
-non-judgemental.
-
-(this is something my family probably should have taught me, but kind
-of left out... then again, it's my experiences that have made me who i
-am today, but that probably wasn't the intent)
+future situations.  All while appearing approachable and
+non-judgemental.  This was something that wasn't explicitly taught to
+me by my family.
 
 All of this contrasts my own values (to a greater degree in the past)
 because I like being exposed to all kinds of people, regardless of
@@ -986,12 +997,12 @@ don't happen to line up at that time.  Thank you anyways.
 
 But, for my detractors:
 
-> If someone asked you to write 15,000 words on the factors, traits,
-> events and conditions required to develop mastery of leadership,
-> what would you write?  If someone asked you to speak for three hours
-> on the subject, what arguments would you make?  What historical
-> allegories would you choose to illustrate your points?  What would
-> others say in response?
+> If someone asked you to write 10,000 - 30,000 words on the factors,
+> traits, events and conditions required to develop mastery of
+> leadership, what would you write?  If someone asked you to speak for
+> three hours on the subject, what arguments would you make?  What
+> historical allegories would you choose to illustrate your points?
+> What would others say in response?
 
 While my words are far from eloquent and while I'm far from perfect
 myself, how long are people going to try to claim that I don't know
@@ -1021,7 +1032,7 @@ quirky tech ideas too, I have not been able to identify a single
 person who seems to want to be a cofounder.  Much of this is my fault,
 for not networking enough and spending 100% of my available time
 programming instead of finding a team with which i could delegate
-responsibility.
+responsibility.  But, it is strange, right?
 
 Again, I see some of these qualities in myself.  Many of them, I
 observed and learned too late, as I've already made far too many
@@ -1136,3 +1147,19 @@ I'll discuss quantification and its importance in the next section,
 describes a few examples of how accurate methods of measurement lead
 individuals to attain insurmountable advantage in their industry or
 society.
+
+> Non possidentem multa vocaveris
+>
+> recte beatum; rectius occupat
+>
+> nomen beati, qui deorum
+>
+> muneribus sapienter uti
+>
+> duramque callet pauperiem pati
+>
+> peiusque leto flagitium timet,
+>
+> non ille pro caris amicis
+>
+> aut patria timidus perire.
