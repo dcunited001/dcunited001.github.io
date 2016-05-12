@@ -168,9 +168,11 @@ information is based on quantifyable data and is processed to produce
 knowledge.  if you can't quantify something or if you have collected
 the wrong data, this can skew your organizations understanding ....
 
-how can you say you improve year over year, if you don't measure the right aspects of your business?
+how can you say you improve year over year, if you don't measure the
+right aspects of your business?
 
-how can you say that your product is revolutionary, if you can't provide numbers that show how revolutionary it is?
+how can you say that your product is revolutionary, if you can't
+provide numbers that show how revolutionary it is?
 
 lead into communication:
 - communication is a great example of something that seems difficult
@@ -1172,6 +1174,19 @@ of course the other side is detecting and analyzing strategy
 
 - measuring your opponents intent by gauging the level of energy
   invested
+
+
+### Already tried turning it off and on again?
+
+#### Tried pushing all the buttons? Because that usually works well!!
+
+![Pushing all the buttons](/img/posts/2016-05-03-facets-of-greatness-part-1-intro/push-all-the-buttons.gif)
+
+### ... NOT!
+
+404 => Buttons Denied! Sometimes it's better not to push those buttons
+if you don't know what you're doing. Pushing all of them is bad. DO
+NOT DO IT. CLEAR?
 
 ### Save for an intro
 

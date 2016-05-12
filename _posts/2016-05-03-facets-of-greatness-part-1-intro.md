@@ -319,6 +319,8 @@ treat your neighbor as you'd treat yourself.  Or, more radically:
 > Treat everyone else as though they literally are you. As though we
 > are all one. That, by harming another, you are harming yourself.
 
+#### And Don't Forget -- Treat Yo Self!
+
 ![Treat Yo'self!](/img/posts/2016-05-03-facets-of-greatness-part-1-intro/treat-yo-self.png)
 
 And the Golden Rule's corollary of course: treat yourself as you'd
@@ -847,6 +849,12 @@ balance, which is why it's crucial that we understand our own values,
 as well as the emotions and behaviors that drive us. If we know what
 drives us and we have a nearly concrete set of values, then we can
 remain grounded and centered in the face of tumultuous discord.
+
+### Where's The Beef?!!
+
+![Where the fuck is it?](/img/posts/2016-05-03-facets-of-greatness-part-1-intro/wheres-the-beef.jpg)
+
+#### No, Seriously. Have I Touched It?
 
 ## How to Break Through
 
