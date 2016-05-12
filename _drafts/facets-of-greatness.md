@@ -762,6 +762,12 @@ vested interest in getting you to believe something is true.  You have
 to sort through all that and understand their incentives, behavior,
 beliefs and signaling to find the truth.
 
+- how to acquire knowledge quickly
+  - intelligence as the set of knowledge to enable you to acquire,
+    process, prioritize and analyze the important information.
+    - notes from my youtube video
+
+
 ## Vision
 
 apple 1984 commercial

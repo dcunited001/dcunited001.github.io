@@ -1,5 +1,5 @@
 ---
-title: "Facets of Greatness - Part 1 - Intro"
+title: "Facets of Greatness - Intro"
 categories: blog
 tags: "business psychology philosophy sociology leadership"
 headline: ""
@@ -23,7 +23,7 @@ character, realizing their dreams and pushing them forward, in spite
 of hardship?  What attributes contribute to the development of these
 qualities and behaviors? Why are these attributes important?
 
-!["Stay Hungry. Stay Foolish." - Steve Jobs](/img/posts/2016-05-03-facets-of-greatness-part-1-intro/steve-jobs-stay-hungry-stay-foolish.jpg)
+!["Stay Hungry. Stay Foolish." - Steve Jobs](/img/posts/2016-05-12-facets-of-greatness-intro/steve-jobs-stay-hungry-stay-foolish.jpg)
 
 What kinds of knowledge help us form and realize a vision? What
 knowledge catalyzes the development of such a vision?  What inspires
@@ -75,7 +75,7 @@ that I needed to create my own meaning in life.
 
 > So how do I find the path to Elysia?
 
-![Myst](/img/posts/2016-05-03-facets-of-greatness-part-1-intro/myst.png)
+![Myst](/img/posts/2016-05-12-facets-of-greatness-intro/myst.png)
 
 #### Myst - Good Luck Figuring That Shit Out
 
@@ -294,7 +294,7 @@ business for a robust, enjoyable family life or working towards a life
 long goal in academia.  Still you'll find this series to be incredibly
 useful, even if your megalomania isn't quite yet terminal.
 
-![Facets of Greatness](/img/posts/2016-05-03-facets-of-greatness-part-1-intro/gem-cuts.jpg)
+![Facets of Greatness](/img/posts/2016-05-12-facets-of-greatness-intro/gem-cuts.jpg)
 
 ### The Surface Surrounding the Intangible
 
@@ -321,25 +321,23 @@ treat your neighbor as you'd treat yourself.  Or, more radically:
 
 #### And Don't Forget -- Treat Yo Self!
 
-![Treat Yo'self!](/img/posts/2016-05-03-facets-of-greatness-part-1-intro/treat-yo-self.png)
+![Treat Yo'self!](/img/posts/2016-05-12-facets-of-greatness-intro/treat-yo-self.png)
 
 And the Golden Rule's corollary of course: treat yourself as you'd
-like others to treat you.  I've said it time and time again.
-
-> Your confidence is your most valuable asset and you better know that
-> people will try to steal that too.
-
-By assaulting your confidence, you'll find that negative people not
-only boost theirs, but they do so at your expense, by subjugating you
-through demoralization.  You've been warned!
+like others to treat you.  I've said it time and time again. **Your
+confidence is your most valuable asset and you better know that people
+will try to steal that too.** By assaulting your confidence, you'll
+find that negative people not only boost theirs, but they do so at
+your expense, by subjugating you through demoralization.  You've been
+warned!
 
 ## The Facets of Greatness
 
 #### Are You Ready? You Get To Drink From The Firehouse!!
 
-![Drink From The Firehouse](/img/posts/2016-05-03-facets-of-greatness-part-1-intro/drink-from-the-firehose.jpg)
+![Drink From The Firehouse](/img/posts/2016-05-12-facets-of-greatness-intro/drink-from-the-firehose.jpg)
 
-#### That was just for you, Wierd Al
+#### Thanks, Wierd Al.
 
 In the intro, I've provided a quick summary of each facet.  I ended up
 going well over what I'd planned for some of these summaries.  I'm
@@ -375,16 +373,19 @@ communication by coordinating with high-influence nodes in their
 network.  They adapt their network by rearranging redundant nodes to
 reduce inefficiencies.  Furthermore, you'll find these people are
 effective at identifying influential people inside and outside of
-their network in order to cultivate those connections.  However, being
-the guy that only seeks out those who are useful in some way is kind
-of shitty, so it's important to be authentic, so you don't come of as
-a self-serving sycophant, obviously. Learning how to reinforce your
-network through spontaneous connection and communication is an
-artform.  If you only talk to someone when you need something, it
-becomes obvious pretty fast, which can be unfortunate for quiet people
-like myself.  Instead, if you gamify your communications with others
-to force yourself to reconnect just to catch up every few months or
-so, this can work wonders when you actually do need something.
+their network in order to cultivate those connections.
+
+However, being the guy that only seeks out those who are useful in
+some way is kind of shitty, so it's important to be authentic, so you
+don't come of as a self-serving sycophant, obviously. Learning how to
+reinforce your network through spontaneous connection and
+communication is an artform.  If you only talk to someone when you
+need something, it becomes obvious pretty fast, which can be
+unfortunate for quiet people like myself.  Instead, if you gamify your
+communications with others to force yourself to reconnect just to
+catch up every few months or so, this can work wonders when you
+actually do need something.
+
 Additionally, effective networkers excel at quickly identifying the
 power structure and relationships in an unfamiliar environment.  This
 can be challenging since any patterns that arise from these structures
@@ -414,7 +415,7 @@ distiguishing it, in the span of a tweet.  If you can't do that, you
 haven't spent enough time thinking about how to convey your product or
 its value proposition to your customers.
 
-It's important to project a consistent message across your
+It's important to project a consistent message from and across your
 organization.  This is a rule that's made to be broken
 ... occasionally.  But it's getting harder to maintain consistency
 when there's so much consumer engagement across social media. How do
@@ -452,8 +453,8 @@ difficult to balance with the interests stockholders.
 
 #### Rule of Thumb for IPO's
 
-> When do you know in your heart of hearts that it is the "right"
-> "time" to IPO?  Easy ... never..
+> When do you know *in your heart of hearts* that it is the "right"
+> "time" to IPO? That's easy ... never ...
 
 
 ## &#x1f48e; Signaling
@@ -488,7 +489,7 @@ negotiation process.  And either way -- yes or no -- all options are
 
 ### ALWAYS MORE OPTIONS! ALWAYS!
 
-![Gradius Options](/img/posts/2016-05-03-facets-of-greatness-part-1-intro/gradius-option.png)
+![Gradius Options](/img/posts/2016-05-12-facets-of-greatness-intro/gradius-option.png)
 
 And by playing the game so that your options remain open, you retain
 flexibility.  At the same time, it's important to know when to break
@@ -497,10 +498,16 @@ relationship with investers, etc. out of greed.  Those guys are
 fucking smart, they will know.
 
 > That's actually what VC's and Angel's do: they read people to
-> leverage business relationships, with precision. And people entrust
-> them with *billions* of dollars to do so, with precision.  They have
+> leverage business relationships, *with precision*. And people entrust
+> them with *billions* of dollars to do so, *with precision*.  They have
 > hundreds of times more experience at the negotiation table and
 > managing board politics.
+
+Picture it like this.  Do you want to be part of this conversation?
+
+> "Oh yeh... we invested several hundred million of our 5 year funding
+> cycle on that shiny startup. But we forget to ask this one leeeettle
+> question and we lost all *their* money."
 
 More in the section on signaling.  Just remember.  **Poker Face**.
 
@@ -509,12 +516,13 @@ More in the section on signaling.  Just remember.  **Poker Face**.
 Knowledge is power, as stated by that maxim from time immemorial.
 And, yep, it's true, in case you hadn't figured that out yet. I think
 everyone knows this, but there are many out there who, whether they're
-younger or older, feel it's pointless to engage in the academic
+younger or older, feel it is pointless to engage in the academic
 pursuit of knowledge, for whatever reason.  Sometimes it's because
 they don't see the potential in themselves, which is depressing.
 Sometimes it's because, because of the combination of their beliefs at
 the time and whatever life circumstances they're dealing with, they
-perceive it to be futile or pointless.
+perceive it to be futile or pointless.  And I'm really not sure if
+that is less depressing or more depressing.
 
 Whatever the reason, it's incredibly disheartening when someone develops
 antipathy towards the pursuit of knowledge because it's how we equip
@@ -551,11 +559,14 @@ knowledge of your subject or field.  You don't have to explain this
 difference but you need to be able to rationalize it and be capable of
 conveying the how and the why, at least within your organization. One
 of the best examples of communicating a vision is Macintosh's 1984
-Superbowl Commercial.  I'll elaborate more in the section on vision.
+Superbowl Commercial.  I'll elaborate more on why in that section.
 But before that commercial aired, most people were barely emotionally
 invested in personal computers.  The commercial established the idea
 that there might be another radically different option before they
-were aware that there could be another option.
+were aware that there could be another option.  It set consumers'
+expectations so that they would approach and judge the Apple
+experience based on being different.  I could easily write 10,000
+words on just that ad.
 
 ## &#x1f48e; Story
 
@@ -583,7 +594,7 @@ relationships?  What values did you stress when deciding the kind of
 culture you would imbute into your startup or project?  When were you
 closest to giving up and what kept you going?  What tools do you use
 when you find yourself or your team struggling or getting blocked up?
-Many of the toxic problems that seem into a team and corrode their
+Many of the toxic problems that seep into a team and corrode their
 relationships accrue slowly.  Often, by the time you find them, the
 problems can be one hundred times worse than if the root cause was
 addressed early.  So how did you assess your team members and
@@ -616,10 +627,10 @@ required for a startup pitch.
 
 Your vision and story should drive the development of your identity.
 They become part of your image and are really all part of the same
-thing.  Kind of past,present and future aspects of how you are
+thing.  They are past, present and future aspects of how you are
 perceived, both by yourself and by others.  At times, I've been pretty
 frustrated to need to struggle so hard against my image, but all this
-upstream swimming and rhetoric jujitsu has made me smarter and
+upstream swimming and rhetorical jujitsu has made me smarter and
 stronger.  It's also taken quite a toll on me, so I hope to share some
 of my experiences.
 
@@ -652,23 +663,22 @@ self-awareness is so foundational to identity and all the other
 facets, I've embedded these talks at the end of this article.
 
 How could you project a consistent image to others if you aren't
-self-aware or honest with yourself.  It's important to note that
-sometimes it is useful to project a different image of yourself to
-multiple groups.  You'll find those that manipulate excel at this and
-their games depend on it.  Personally, while it's incredibly
-difficult, I find that retaining and projecting a universally
-consistent image to everyone -- appearing to be the same from anyone's
-perspective -- is one of the best things someone can do.  Obviously,
-it's incredibly challenging, it limits the space of your actions and
-can be impossible, as some people just don't care to see you in an
-honest light. However, you'll find that the most auspicious, seraphic
-people find projecting a congruent self-image to be worth the
-tremendous opportunity costs. And this is why it is important to
-observe this quality in others. If someone goes through great lengths
-to maintain coherent image to others, including those whom haven't
-established lengthy rapport, when it comes at hefty personal risk,
-then that is a person you should trust, depending on their ideals of
-course.
+self-aware or honest with yourself.  Occasionally, it it's critical to
+project a different image of yourself to multiple groups.  You'll find
+those that manipulate excel at this and their games depend on it.
+Personally, while it's incredibly difficult, I find that retaining and
+projecting a universally consistent image to everyone -- appearing to
+be the same from anyone's perspective -- is one of the best things
+someone can do.  Obviously, it's incredibly challenging, it limits the
+space of your actions and can be impossible, as some people just don't
+care to see you in an honest light. However, you'll find that the most
+auspicious, seraphic people find projecting a congruent self-image to
+be worth the tremendous opportunity costs. And this is why it is
+important to observe this quality in others. If someone goes through
+great lengths to maintain coherent image to others, including those
+whom haven't established lengthy rapport, when it comes at hefty
+personal risk, then that is a person you should trust, depending on
+their ideals of course.
 
 The corollary here: someone who projects a universally consistent
 image of crap or of evil ... is not so great. Who knows? Maybe
@@ -678,14 +688,14 @@ they're secretly a cutesy kitten on the inside. Probably not though.
 
 These people are pros at navigating the system. By system, I mean the
 legal framework that exists in their locality, but it's not just
-limited to laws and regulations. Each organization and groups create
+limited to laws and regulations. Each organization and group create
 their own "process frameworks" that specify how people will interact
 and how tasks will be done. As for these process frameworks, there
 tend to be both explicit and implicit processes.  Some of these aren't
 so clearly stated, but it's crucial to be able to pick up on them
 quickly, just like it is to assess a new group's structure and
 hierarchy.  If you're going to get anywhere in business, not only do
-you have to excell in reading these process structures, but also
+you have to excel in reading these process structures, but also
 designing them, implementing transitions between them and having the
 experience to know what works.  It's a common mistake to oversimplify
 and assume you have the right changes to a particular process, but
@@ -697,7 +707,7 @@ stronger relationship with a customer.
 As for the legal framework, you can't construct a business plan or
 negotiate with partners without knowing the details of how your
 business entity will be structured.  Being aware of your options here
-is critical as nothing is worse then funnelling thousands into
+is critical, as nothing is worse then funnelling thousands into
 starting your fledgling dream business, just to realize that you set
 it all up wrong.  Knowing the basics on trademark, copyright and
 patent law is a must if you're going to properly structure and protect
@@ -741,11 +751,11 @@ However, the proper execution of backward induction requires
 deconstruction.  That is, you must take the optimal sequence of moves
 that you've identified and reconstruct them in such a way that avoids
 detection.  In a game like chess, you might insert blocking moves that
-prevent the opponent from moving or back up other pieces or hold
-spaces in the middle of the board. These moves are all but tangential
-to your true objective. Otherwise, if you were to instead execute
-your sequence of tactics in a direct manner, your opponent could
-easily determine your intention and your entire strategy is pointless.
+prevent the opponent from moving or choose moves that reinforce other
+pieces or throw in moves to claim spaces in the middle of the
+board. These moves are all but tangential to your true objective.
+Otherwise, if you were to instead execute your sequence of tactics in
+a direct manner, your opponent could easily determine your intentions.
 
 Furthermore, appearances overcomplicate an otherwise simple
 reality. If you don't take into account how your opponent perceives
@@ -775,7 +785,9 @@ to weight an opponent's action in terms of the energy they
 invested. High-energy actions always mean much more. Or they usually
 do anyways. You'd be surprised...
 
-![Show Me The Beef](/img/posts/2016-05-03-facets-of-greatness-part-1-intro/where-the-beef.jpg)
+### Where's The Beef?!!
+
+![Where the fuck is it?](/img/posts/2016-05-12-facets-of-greatness-intro/wheres-the-beef.jpg)
 
 ## &#x1f48e; Orchestration
 
@@ -789,11 +801,11 @@ maintaining proper communication, then you'll be able to refocus the
 organization's energy in another direction when your systems
 invariably malfunction.  If you've really stacked your chips right,
 then even when things go wrong, it won't matter much.  You won't have
-lost too much steam, if you've been aiming for as many birds as you
-can with each stone.  With orchestration, synergy is what you're
-looking for.  How can you coordinate each facet, so that everything
-you do satsifies multiple objectives.  Grandmaster chess players
-remain flexible with their available moves and even though each piece is
+lost too much steam, if you've been aiming each stone for as many
+birds as possible.  With orchestration, synergy is what you're looking
+for.  How can you coordinate each facet, so that everything you do
+satsifies multiple objectives.  Grandmaster chess players remain
+flexible with their available moves and even though each piece is
 backing up multiple pieces, it seems like they have a maximum number
 of available "safe" moves.  In business and life, this means knowing
 how to design with redundancy and resilience in mind.
@@ -806,11 +818,14 @@ how to design with redundancy and resilience in mind.
 This is the Unknown facet.  It's a mystery.  Wrapped in an enigma.
 Contained inside a box!  It's a box.  I wonder what's in it?
 
-### WHAT'S IN THE BOX?!
+#### WHAT'S IN THE BOX?!
 
-![UHF What's In The Box?!](/img/posts/2016-05-03-facets-of-greatness-part-1-intro/whats-in-the-box.jpg)
+![UHF What's In The Box?!](/img/posts/2016-05-12-facets-of-greatness-intro/whats-in-the-box.jpg)
 
 ### NOTHING YOU SO STUPID!!
+
+Maybe try again in a week.  It's a Shrödingers Box.  Sometimes there's
+nothing, but sometimes there's a lil kitten.
 
 The Unknown facet encompasses what we don't know or can't know. This
 includes attributes that are difficult to pin down. It also includes
@@ -837,7 +852,7 @@ us from experiencing some things and this means that there are some
 ideas or extensions of those ideas which aren't available to
 everyone. Or rather, those ideas are only available vicariously. But
 we should embrace those peope who can expand our minds by sharing
-experiences that we can't have or truly can't know.
+experiences that we can't have or can't truly know.
 
 Wisdom is knowing what to do when you do not know.  You need to have
 the intuition to dig deeper when it seems that you have a set course
@@ -854,12 +869,6 @@ as well as the emotions and behaviors that drive us. If we know what
 drives us and we have a nearly concrete set of values, then we can
 remain grounded and centered in the face of tumultuous discord.
 
-### Where's The Beef?!!
-
-![Where the fuck is it?](/img/posts/2016-05-03-facets-of-greatness-part-1-intro/wheres-the-beef.jpg)
-
-#### No, Seriously. Have I Touched It?
-
 ## How to Break Through
 
 I see many of these qualities in myself, though I fear it's too late.
@@ -868,9 +877,9 @@ is quite rare.  You'll find that it often requires the coordination of
 one or two previous generations for someone to really "break through."
 Does it require being born into the aristocracy or the upper middle
 class? No. Does it require access to a network of the rich and famous?
-No. A serendipitous opportunity, perhaps divined by fate? No, though
-the best of us will make the most of our luck and those situations
-which are truly once in a lifetime.
+No. A fortuitous opportunity, perhaps divined by fate? No, though the
+best of us will make the most of our luck and those situations which
+are truly once in a lifetime.
 
 So what does it mean to break through and what does it take? It really
 is quite rare. I'm talking about the success that is quite often 1 in
@@ -885,8 +894,8 @@ behaviors in their minds who become wildly successful. It's the people
 who have the perfect mix of positives, without the wrong kind of
 negatives who end up breaking through. The meme's and ideas that
 develop in these people's minds, coupled with the perfect timing and
-just the right combination of serendipitous (*) events results in a
-mind that responds to more effectively extract the positives out of a
+just the right combination of serendipitous events results in a mind
+that responds to more effectively extract the positives out of a
 situation without being restrained by the negatives. It's one that,
 coupled with the guidance of others, perfectly creates fertile
 situations in front of them.
@@ -972,10 +981,11 @@ say I regret supporting ending the War on Drugs.
 ### Keep Your Circle Tight
 
 Getting that big break often requires getting the approval of other,
-already successful people who equally (desire?) their reputation and
-their already secured position.  These people will want to vet anyone
-that gets close to them.  They have a set of friends who have proven
-their trustworthiness and they're wary of letting people in.
+already successful people who at least equally desire to protect their
+reputation and their already secured position.  These people will want
+to vet anyone that gets close to them.  They have a set of friends who
+have proven their trustworthiness and they're wary of letting people
+in.
 
 Similarly, you need to keep your circle tight.  While new people can
 sometimes bring opportunity, they often come bearing baggage or rotten
@@ -988,7 +998,7 @@ me by my family.
 
 All of this contrasts my own values (to a greater degree in the past)
 because I like being exposed to all kinds of people, regardless of
-weather they would be positive or negative -- mostly because i want to
+whether they would be positive or negative -- mostly because i want to
 learn about them.  Isolation also bears a cost and if you're always
 around people you've carefully chosen, can you really say that you
 "know" people?  Honestly, living life in such a guarded, cautious
@@ -1010,11 +1020,11 @@ don't happen to line up at that time.  Thank you anyways.
 But, for my detractors:
 
 > If someone asked you to write 10,000 - 30,000 words on the factors,
-> traits, events and conditions required to develop mastery of
-> leadership, what would you write?  If someone asked you to speak for
-> three hours on the subject, what arguments would you make?  What
-> historical allegories would you choose to illustrate your points?
-> What would others say in response?
+> traits, events and conditions required to master leadership, so that
+> you could build something great, what would you write?  If someone
+> asked you to speak for three hours on the subject, what arguments
+> would you make?  What historical allegories would you choose to
+> illustrate your points?  What would others say in response?
 
 While my words are far from eloquent and while I'm far from perfect
 myself, how long are people going to try to claim that I don't know
@@ -1038,21 +1048,21 @@ influence -- you'll find this to be quite angering.  Especially if
 you've made a ton of sacrifices to retain your personal definition of
 ethics or morality.
 
-Anyway, not one person has contributed more than an hour *with me* to any
-product idea I've had.  For all my viable business ideas and all my
-quirky tech ideas too, I have not been able to identify a single
+Anyway, not one person has contributed more than an hour *with me* to
+any product idea I've had.  For all my viable business ideas and all
+my quirky tech ideas too, I have not been able to identify a single
 person who seems to want to be a cofounder.  Much of this is my fault,
 for not networking enough and spending 100% of my available time
 programming instead of finding a team with which i could delegate
 responsibility.  But, it is strange, right?
 
-Again, I see some of these qualities in myself.  Many of them, I
-observed and learned too late, as I've already made far too many
-mistakes.  However, I believe that others can draw on the experience
-of your mistakes.  And that if the experiences of these problems are
-shared, instead of covered up and hidden, people can greatly benefit
-from that.  Even when many of those problems may be embarrassing or
-expose personal vulnerability.
+Again, I see some of these facets manifested in myself and I know that
+other people do as well.  Many of them, I observed and learned too
+late, as I've already made far too many mistakes.  However, I believe
+that others can draw on the experience of your mistakes.  And that, if
+the experiences of these problems are shared, instead of covered up
+and hidden, people can greatly benefit from that.  Even when many of
+those problems may be embarrassing or expose personal vulnerability.
 
 ### Vulnerability
 
@@ -1071,15 +1081,15 @@ about it.  If they're trying to score political points in the office,
 then they won't involve you when calling attention to your
 vulnerabilities. IMO, it's tragic that we would end up with this kind
 of culture in the workplace... If someone only seeks to exploit their
-coworkers vulnerabilities to score political points and greater
+coworkers vulnerabilities to score political points and gain greater
 influence in their local workspace -- instead of working with their
 colleague to address and improve them -- then doesn't that leave us
 all more vulnerable as a group?  That'd imply that some negative
 political behavior in the workplace is not only abbrasive, but
 corrosive.  And without the proper systems in place to keep this
-behavior in check, the wrong people rise to the top employing shady,
-opportunistic tactics while simultaneously leaving groups in various
-social strata much more vulnerable, in aggregate.
+behavior in check, the wrong people rise to the top by employing
+shady, opportunistic tactics while simultaneously leaving groups in
+various social strata much more vulnerable, in aggregate.
 
 Also, if it's important to learn from these people by examining their
 biographies and lives, so we can grow from their experiences, then
@@ -1098,9 +1108,9 @@ I'll discuss in the section on identity and image.
 
 ### Ahhh Tantalus
 
-![The Fate of Tantalus](/img/posts/2016-05-03-facets-of-greatness-part-1-intro/tantalus.jpg)
+![The Fate of Tantalus](/img/posts/2016-05-12-facets-of-greatness-intro/tantalus.jpg)
 
-#### Cursed For Eternity to See the Fruit Just Outside His Reach
+#### Cursed For Eternity to Remain with the Fruit Just Outside His Reach
 
 As for me personally, are these lessons a blessing or a curse? Only
 after a decade of painful mistakes did I learn any of this. I'm never
@@ -1115,7 +1125,33 @@ a belief that, properly postured, I could truly benefit the world, the
 I wouldn't want it at all. And yet, ironically, now that I've learned
 all this, I can see it, but I'm in no position to effectively use it.
 
+#### Horace, Carmina, IX, Book 4. 9. 45.
+
+> Non possidentem multa vocaveris
+>
+> recte beatum; rectius occupat
+>
+> nomen beati, qui deorum
+>
+> muneribus sapienter uti
+>
+> duramque callet pauperiem pati
+>
+> peiusque leto flagitium timet,
+>
+> non ille pro caris amicis
+>
+> aut patria timidus perire.
+
+Translation:
+
+> You will not rightly call him a happy man who possesses much; he
+> more rightly earns the name of happy who is skilled in wisely using
+> the gifts of the gods, and in suffering hard poverty, and who fears
+> disgrace as worse than death.
+
 ## Go Watch A TED Talk!
+
 ### On Self-Awareness, Empathy && Radical Self-Love
 
 Note: I haven't actually watched these yet.  I'm mostly including them
@@ -1155,7 +1191,7 @@ allowfullscreen></iframe>
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/9IgOVOPLTYI" frameborder="0" allowfullscreen></iframe>
 
-### Part Two:
+### Next Up:
 
 ## Quantification
 
@@ -1163,19 +1199,3 @@ I'll discuss quantification and its importance in the next section,
 describes a few examples of how accurate methods of measurement lead
 individuals to attain insurmountable advantage in their industry or
 society.
-
-> Non possidentem multa vocaveris
->
-> recte beatum; rectius occupat
->
-> nomen beati, qui deorum
->
-> muneribus sapienter uti
->
-> duramque callet pauperiem pati
->
-> peiusque leto flagitium timet,
->
-> non ille pro caris amicis
->
-> aut patria timidus perire.
