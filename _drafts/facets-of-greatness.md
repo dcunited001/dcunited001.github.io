@@ -342,6 +342,14 @@ the data. Whereas acquiring information used to be the barrier to
 overcome that signified opportunity, now it is the capacity for
 sifting through the data to find the valuable nuggets.
 
+Keep? - Over the next decade or so, we'll see that these free
+information distribution platforms, such as the internet, are
+gradually reclaimed to be refitted by gatekeepers who sell access for
+profits.  Depending on how you feel about the degree to which freedom
+of information permeance can be responsible, it's restriction can be a
+blessing or a curse and thus, profiting from it's restriction could be
+seen as necessary or abominable.
+
 - paid access to distribute information to people in a targeted manner
   - a.k.a. advertising in general
 
