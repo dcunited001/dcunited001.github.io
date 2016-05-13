@@ -33,25 +33,25 @@ others to work with us?  Here's a list of what I believe to be the
 Facets of Greatness.  In this article, I'll summarize each of these,
 providing detailed descriptions subsequent articles.
 
-### &#x1f48e; Quantification
+### &#x1f48e; [Quantification](#quantification)
 
-### &#x1f48e; Networking
+### &#x1f48e; [Networking](#networking)
 
-### &#x1f48e; Communication
+### &#x1f48e; [Communication](#communication)
 
-### &#x1f48e; Signaling
+### &#x1f48e; [Signaling](#signaling)
 
-### &#x1f48e; Vision
+### &#x1f48e; [Vision](#vision)
 
-### &#x1f48e; Story
+### &#x1f48e; [Story](#story)
 
-### &#x1f48e; Identity
+### &#x1f48e; [Identity](#identity)
 
-### &#x1f48e; Orchestration
+### &#x1f48e; [Orchestration](#orchestration)
 
-### &#x1f48e; The System
+### &#x1f48e; [The System](#the-system)
 
-### &#x1f48e; Strategy
+### &#x1f48e; [Strategy](#strategy)
 
 ### &#x1f48e;
 
@@ -347,7 +347,9 @@ planning on writing a 3,000 - 10,000 word article for each facet and
 I've mostly written out about half of these.  If you want to check out
 the drafts for each section, [here](https://github.com/dcunited001/dcunited001.github.io/blob/facets/_drafts/facets-of-greatness.md) they are on my github.
 
-## &#x1f48e; Quantification
+<a name="quantification"/>
+
+## &#x1f48e; [Quantification](#quantification)
 
 Great people quantify and measure everything.  Without quantification,
 you cannot develop a system or hope to improve.  The most difficult or
@@ -358,7 +360,9 @@ crucial to learn how to measure your usage of time, as well as those
 around you.  You also need to learn to quantify information,
 knowledge, communication and social networking -- both online and IRL.
 
-## &#x1f48e; Networking
+<a name="networking"/>
+
+## &#x1f48e; [Networking](#networking)
 
 These great leaders are all conductors in the symphony of
 communication.  They identify the most efficient means to relay
@@ -394,7 +398,9 @@ can be challenging since any patterns that arise from these structures
 are often ephemeral -- people's behavior can change depending on who's
 in the room at that time.
 
-## &#x1f48e; Communication
+<a name="communication"/>
+
+## &#x1f48e; [Communication](#communication)
 
 Communication is one of the most important facets to develop.  If you
 can't communicate effectively, how can you expect to leverage your
@@ -458,8 +464,9 @@ difficult to balance with the interests stockholders.
 > When do you know *in your heart of hearts* that it is the "right"
 > "time" to IPO? That's easy ... never ...
 
+<a name="signaling"/>
 
-## &#x1f48e; Signaling
+## &#x1f48e; [Signaling](#signaling)
 
 Signaling is a kind of indirect communication, but it differs
 significantly from that described above because it encompasses
@@ -513,7 +520,9 @@ Picture it like this.  Do you want to be part of this conversation?
 
 More in the section on signaling.  Just remember.  **Poker Face**.
 
-## &#x1f48e; Knowledge
+<a name="knowledge"/>
+
+## &#x1f48e; [Knowledge](#knowledge)
 
 Knowledge is power, as stated by that maxim from time immemorial.
 And, yep, it's true, in case you hadn't figured that out yet. I think
@@ -540,7 +549,9 @@ how other people understand them.  And know how to determine which
 model someone applies towards a problem and how they acquired
 information.
 
-## &#x1f48e; Vision
+<a name="vision"/>
+
+## &#x1f48e; [Vision](#vision)
 
 Vision, story and identity are really aspects of the same thing, which
 is how your persona, your organizations, your struggles and your
@@ -570,7 +581,9 @@ expectations so that they would approach and judge the Apple
 experience based on being different.  I could easily write 10,000
 words on just that ad.
 
-## &#x1f48e; Story
+<a name="story"/>
+
+## &#x1f48e; [Story](#story)
 
 Everyone loves a good story. This is one of the most valuable tools
 you have.  Not only does a great story help you connect with people
@@ -625,7 +638,9 @@ perspectives.  A good problem to solve is relateable.  It's something
 everyone faces.  This problem you faced: remember it! It's practically
 required for a startup pitch.
 
-## &#x1f48e; Identity
+<a name="identity"/>
+
+## &#x1f48e; [Identity](#identity)
 
 Your vision and story should drive the development of your identity.
 They become part of your image and are really all part of the same
@@ -686,7 +701,9 @@ The corollary here: someone who projects a universally consistent
 image of crap or of evil ... is not so great. Who knows? Maybe
 they're secretly a cutesy kitten on the inside. Probably not though.
 
-## &#x1f48e; The System
+<a name="the-system"/>
+
+## &#x1f48e; [The System](#the-system)
 
 These people are pros at navigating the system. By system, I mean the
 legal framework that exists in their locality, but it's not just
@@ -720,7 +737,9 @@ requires domain expertise, but legal expertise as well.  Otherwise,
 you'll waste a ton of time and money at the patent office or get stuck
 with a patent that can be invalidated later.
 
-## &#x1f48e; Strategy
+<a name="strategy"/>
+
+## &#x1f48e; [Strategy](#strategy)
 
 Strategy is really about the composition of tactics at various levels.
 Business and life are can be viewed through the lens of game theory.
@@ -791,7 +810,9 @@ do anyways. You'd be surprised...
 
 ![Where the fuck is it?](/img/posts/2016-05-12-facets-of-greatness-intro/wheres-the-beef.jpg)
 
-## &#x1f48e; Orchestration
+<a name="orchestration"/>
+
+## &#x1f48e; [Orchestration](#orchestration)
 
 Orchestration is really the execution of strategy.  Whereas strategy
 concerns intuition and knowledge of each of the other facets,
@@ -815,7 +836,9 @@ how to design with redundancy and resilience in mind.
 > The little piggie with the brick house sleeps soundly every night
 > because his house can withstand all kinds of pressure.
 
-## &#x1f48e; ???
+<a name="unknown"/>
+
+## &#x1f48e; [???](#unknown)
 
 This is the Unknown facet.  It's a mystery.  Wrapped in an enigma.
 Contained inside a box!  It's a box.  I wonder what's in it?
