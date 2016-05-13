@@ -23,6 +23,8 @@ character, realizing their dreams and pushing them forward, in spite
 of hardship?  What attributes contribute to the development of these
 qualities and behaviors? Why are these attributes important?
 
+### How to Steve Jobs
+
 !["Stay Hungry. Stay Foolish." - Steve Jobs](/img/posts/2016-05-12-facets-of-greatness-intro/steve-jobs-stay-hungry-stay-foolish.jpg)
 
 What kinds of knowledge help us form and realize a vision? What
