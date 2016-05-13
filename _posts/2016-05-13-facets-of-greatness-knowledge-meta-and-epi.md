@@ -318,3 +318,5 @@ Next up on Facets of Greatness: Knowledge, I'm going to deconstruct a
 youtube video I made some time ago on how to become intelligent.  In
 the meantime, I'm going to write about some of the other facets, such
 as communication and signaling.
+
+Peace!
