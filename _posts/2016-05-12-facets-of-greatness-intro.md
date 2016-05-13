@@ -59,13 +59,13 @@ providing detailed descriptions subsequent articles.
 > about these "facets of greatness", I'm not exactly the
 > brightly-shining, radiant, exemplary apex here... I want nothing
 > other than to methodologize and improve on these, if I'm ever to
-> realisticly expect to launch a product." - David Conner, Radiant
+> realistically expect to launch a product." - David Conner, Radiant
 > Apex of Greatness...
 
 Where is it that most people learn to be great?  It's their father
 that first imbues that image.  Perhaps their mother as well.
 Unfortunately, I never had a father.  He died when I was 14 months
-old.  You might say the world acted as my fater, or tried to help as
+old.  You might say the world acted as my father, or tried to help as
 much as it could anyway. So, instead of a singular impression or image
 of what it means to be a great person, I ended up with several.  Yet,
 the combination of these impressions were far weaker than that most
@@ -88,7 +88,7 @@ other than **(Step 1)** Read the Bible **(Step 2)** Go to Church
 
 I had to create my own, which is by no means complete.  And honestly,
 building your life on a basis founded in even a small amount of
-religious study is not a bad idea.  Religions are successful primarly
+religious study is not a bad idea.  Religions are successful primarily
 because they are so capable of providing people with a solid
 foundation for life.  In addition to explaining the mysteries of life
 and it's origins, religions are the accumulation of stories, which
@@ -207,7 +207,7 @@ governance.
 
 And so, because the governmental and societal systems we have in place
 are so special, yet can be fragile -- and because these virtues
-contribute to stability and the possibility of benevvolent livelihoods
+contribute to stability and the possibility of benevolent livelihoods
 -- then it's important for those who exemplify the right virtues to
 accrue influence.  It's often difficult for people from ages 15
 through 30 in America to understand some policies because there are
@@ -283,7 +283,7 @@ future story in mind.  I hope that some of this information will help
 those with dreams learn to share their vision with others to encourage
 cooperation.  I spend a lot of time watching interviews and press
 conferences of leaders and I hope this series captures much of the
-qualities the best leaders exempllify and the tools they use.  These
+qualities the best leaders exemplify and the tools they use.  These
 tools are often difficult to see or only attained with
 experience. Most people, if they understand them, have a very hard
 time explaining them.
@@ -413,7 +413,7 @@ This increases it's capacity for retention.  Twitter's a great way to
 practice, since you have to find a way to say everything in 140
 characters.  If you're building a product, you really need to figure
 out how to succinctly summarize your product's value, while
-distiguishing it, in the span of a tweet.  If you can't do that, you
+distinguishing it, in the span of a tweet.  If you can't do that, you
 haven't spent enough time thinking about how to convey your product or
 its value proposition to your customers.
 
@@ -446,7 +446,7 @@ their products and organizations in interviews, especially those
 founders who are new to the game or have burning passion for an
 exciting new idea.  I enjoy thinking about how this process works for
 all parties: the founder, the interviewer, the hosting organization
-and the audience.  It's importantant to stay on message and there's a
+and the audience.  It's important to stay on message and there are a
 lot of subtleties to watch out for, most of which are personal
 mistakes.  It's important to keep your customers and fans excited, but
 also stay on message while retaining flexibility for any business
@@ -496,7 +496,7 @@ negotiation process.  And either way -- yes or no -- all options are
 And by playing the game so that your options remain open, you retain
 flexibility.  At the same time, it's important to know when to break
 these general rules.  Don't be an asshole and manipulate your
-relationship with investers, etc. out of greed.  Those guys are
+relationship with investors, etc. out of greed.  Those guys are
 fucking smart, they will know.
 
 > That's actually what VC's and Angel's do: they read people to
@@ -585,15 +585,15 @@ section on Story.
 
 > "What would the hero in your story do?" <= This, I like.
 
-Your story will make your brand and your identity more relatable.
+Your story will make your brand and your identity more relateable.
 When you and your cofounders faced adversity, how did you overcome it?
 When it looked like things were hopeless, what did you do?  Did you
 build yourself up from nothing?  Or were you just handed and
 opportunity? What mistakes did you make and why?  What strained your
-relationships with your team and what comprimises did you make to
+relationships with your team and what compromises did you make to
 account for that?  How did you build your team and cultivate your
 relationships?  What values did you stress when deciding the kind of
-culture you would imbute into your startup or project?  When were you
+culture you would imbue into your startup or project?  When were you
 closest to giving up and what kept you going?  What tools do you use
 when you find yourself or your team struggling or getting blocked up?
 Many of the toxic problems that seep into a team and corrode their
@@ -621,7 +621,7 @@ way to think about an idea for a new product is to think about the
 simple problems in your life.  What's a good solution?  What do I keep
 running into that wastes my time? Even if you don't know the solution,
 assess the problems you have and constantly search for new
-perspectives.  A good problem to solve is relatable.  It's something
+perspectives.  A good problem to solve is relateable.  It's something
 everyone faces.  This problem you faced: remember it! It's practically
 required for a startup pitch.
 
@@ -735,11 +735,11 @@ purpose.  In business, you optimize on other factors and objectives,
 like value, opportunity, diversity, control, risk, security and time.
 
 As a generalized concept, strategy is about the composition of tactics
-at various levels.  Reuseable tactics are the best: if you've found
+at various levels.  Reusable tactics are the best: if you've found
 something that works in one field, industry or game, you'll find that
 you can usually rework it and apply it elsewhere.  Most tactics can be
 generalized to varying degrees: you can change their form or
-parameterize them by abstracting variables.  The most reuseable
+parameterize them by abstracting variables.  The most reusable
 tactics are the best.  You can combine tactics with others or
 deconstruct them into small pieces which can be rearranged.
 
@@ -806,7 +806,7 @@ then even when things go wrong, it won't matter much.  You won't have
 lost too much steam, if you've been aiming each stone for as many
 birds as possible.  With orchestration, synergy is what you're looking
 for.  How can you coordinate each facet, so that everything you do
-satsifies multiple objectives.  Grandmaster chess players remain
+satisfies multiple objectives.  Grandmaster chess players remain
 flexible with their available moves and even though each piece is
 backing up multiple pieces, it seems like they have a maximum number
 of available "safe" moves.  In business and life, this means knowing
@@ -853,7 +853,7 @@ capable than others.  Some of us have unique challenges that prevent
 us from experiencing some things and this means that there are some
 ideas or extensions of those ideas which aren't available to
 everyone. Or rather, those ideas are only available vicariously. But
-we should embrace those peope who can expand our minds by sharing
+we should embrace those people who can expand our minds by sharing
 experiences that we can't have or can't truly know.
 
 Wisdom is knowing what to do when you do not know.  You need to have
@@ -931,12 +931,12 @@ they break these "rules" and unknowingly lose the opportunity.
 However, it's important for me to state that there is not a singular
 "ideal" psychology and, in fact, you'll find that this kind of great
 success is often an ironic curse.  It can bear a terrible price and
-one might struggle for it, never to acheive it. Or struggle for it in
+one might struggle for it, never to achieve it. Or struggle for it in
 vain without realizing they'd already committed too many mistakes. For
 me, I've been so stubborn and singularly focused on building a
 product, refusing to give up, that I've nearly destroyed my life.
 
-One factor hoding America back is the waning influence that the family
+One factor holding America back is the waning influence that the family
 has in building the next generation.  We spend almost no time
 together.  There are fewer conversations and fewer family dinners.
 Alas, that's the subject for another post.
@@ -1075,7 +1075,7 @@ what to show and how to talk to people about problems and who to trust
 about them?  If appearance trumps reality, then is it worse to have a
 perceived vulnerability or an actual one?  How does one's own
 awareness of them change things?  And when is it ethical to lead
-others into believing someone possessess some weakness like this?
+others into believing someone possesses some weakness like this?
 
 The intention behind this matters, but I've found time and time again
 that if someone really cares about you, then they will let you know
@@ -1087,7 +1087,7 @@ coworkers vulnerabilities to score political points and gain greater
 influence in their local workspace -- instead of working with their
 colleague to address and improve them -- then doesn't that leave us
 all more vulnerable as a group?  That'd imply that some negative
-political behavior in the workplace is not only abbrasive, but
+political behavior in the workplace is not only abrasive, but
 corrosive.  And without the proper systems in place to keep this
 behavior in check, the wrong people rise to the top by employing
 shady, opportunistic tactics while simultaneously leaving groups in
