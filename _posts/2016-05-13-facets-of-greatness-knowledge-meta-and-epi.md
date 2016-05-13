@@ -112,7 +112,7 @@ understand how to look at some thing and draw parallels to some other
 things that you already know, then you can use these parallels as an
 incredibly useful tool to understand that new thing.
 
-> AND YOU GET IT FO FREE!!
+> AND YOU GET IT FO FREE!! C.O.D. NO MONEY DOWN!
 
 The concept of meta and epi maximize your ability to make inferences
 about some new thing, using only your existing set of knowledge. The
