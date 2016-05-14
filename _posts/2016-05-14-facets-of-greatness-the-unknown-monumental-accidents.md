@@ -2,10 +2,15 @@
 title: "Facets of Greatness - The Unknown - Monumental Accidents"
 categories: blog
 tags: "business psychology philosophy sociology leadership"
-headline: ""
+headline: "What Bonsai Teaches Us About Life"
 author:
   name: "David Conner"
-excerpt: ""
+excerpt: "And if we consider humanity to be the product of all the ideas
+available to our collective minds, shouldn't we embrace diversity of
+mind, body and culture as strengths?  These people who have endured
+challenge after challenge in their lives and whose minds will no doubt
+contain a wholly different range of memories and ideas: we should see
+them as luminaries who can see things we could never imagine."
 ---
 
 So, again, the unknown facet represents what the other facets fail to
