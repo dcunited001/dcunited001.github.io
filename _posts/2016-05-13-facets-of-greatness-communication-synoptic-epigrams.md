@@ -141,7 +141,9 @@ was the process to set up the interview?  What's the message they're
 obstensibly trying to convey?  Why did they agree to this appearance?
 What are both parties getting out of it?
 
-### Why Those Questions and Why Those Answers?
+### Why Those Questions
+
+#### And Why Those Answers?
 
 If they have someone managing PR, how did they work to posture content
 for the organization and/or it's projects for this interview?  What
