@@ -181,6 +181,8 @@ lead into communication:
 
 ## Networking
 
+![Time vs. Exposure Graph for Social Media]
+
 
 ## Communication
 
