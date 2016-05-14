@@ -364,6 +364,10 @@ knowledge, communication and social networking -- both online and IRL.
 
 ## &#x1f48e; [Networking](#networking)
 
+[Maximizing Mutual Benefit](/posts/2016-05-14-facets-of-greatness-networking-maximizing-mutual-benefit.html)
+- How to quickly identify, vet and connect to mutually beneficial
+connections.
+
 These great leaders are all conductors in the symphony of
 communication.  They identify the most efficient means to relay
 messages, so that they can interface with a tree of people in their
