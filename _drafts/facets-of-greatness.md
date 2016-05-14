@@ -764,18 +764,3 @@ of course the other side is detecting and analyzing strategy
 404 => Buttons Denied! Sometimes it's better not to push those buttons
 if you don't know what you're doing. Pushing all of them is bad. DO
 NOT DO IT. CLEAR?
-
-### Save for an intro
-
-- no one does anything truly great by accident (well, almost no one)
-  - but there are some people,
-    - whereby some accident of fate or life circumstance
-    - who life equips with not only the insight required to understand
-      the importance of these [attributes]
-    - but also the mind/behaviors to create a path and the spirit to
-      conquer these challenges [any obstacles].
-  - this is why you must guard your will to fight
-    - your [most dangerous] enemies will go for that first
-    - the kinds of people you need to look out for won't directly attack you
-      - people like that are easy to deal with.  practically take care of themselves.
-    - but they'll drain your spirit, redirect your energy and leave you exhausted.
