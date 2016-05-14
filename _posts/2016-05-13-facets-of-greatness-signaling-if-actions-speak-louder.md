@@ -133,7 +133,9 @@ more of an effect than you expect.  This is especially true if other
 people want to use your words and actions for their own purposes or
 without your knowledge.
 
-![Picasso's Manus](/img/posts/2016-05-13-facets-of-greatness-signaling-actions-speak-louder)
+### No Dali, You Can't!
+
+![Dali's Manus](/img/posts/2016-05-13-facets-of-greatness-signaling-if-actions-speak-louder/dali-la-main.jpg)
 
 So you'll see these founders and especially celebrities will restrain
 their words and actions simply because of that.  It is a gag, where
