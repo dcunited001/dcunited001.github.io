@@ -48,9 +48,11 @@ than they used to be.  So is awareness of one's location.  No one
 bothers to memorize directions or phone numbers any more.  These
 high-level tasks leverage those modular cognitive functions.  If you
 remove enough of the need for the tasks, then you gradually remove the
-need for the functions.  And you end up with Idiocracy.
+need for the functions.  And you end up with ...
 
-![Idiocracy]
+![Idiocracy](/img/posts/2016-05-14-facets-of-greatness-the-unknown-monumental-accidents/idiocracy.jpg)
+
+#### Idiocracy
 
 Furthermore, not only do the cultural incentives disappear for these
 high-level tasks, but so do the economic incentives.  To perform at
@@ -68,9 +70,7 @@ to become aware of how that world will change, in order to anticipate
 how their energy would best be utilized.  At least, to avoid the
 frustration that is ...
 
-### Simpsons Did It
-
-![Simpsons Did It]
+![Simpsons Did It](/img/posts/2016-05-14-facets-of-greatness-the-unknown-monumental-accidents/simpsons-did-it.jpg)
 
 Nothing is more frustrating than working on a project for several
 months, just to find that some other team is more adequately
@@ -138,7 +138,6 @@ on earth can match.  It can be difficult at times, but that just means
 we need to identify the common thread that connects us all.  We all
 bleed the same color.  We do still face different challenges, but we
 all go to the same place eventually.
-
 
 ### Embracing Our Differences
 
@@ -313,7 +312,7 @@ lube when they fucked me in the ass.  I need one of these:
 
 ### Could Anyone Spare a Donut for my Coccyx?
 
-![DONUTS!](/img/posts/facets-of-greatness-the-unknown-monumental-accidents/a-donut-for-you-coccyx.jpg)
+![DONUTS!](/img/posts/2016-05-14-facets-of-greatness-the-unknown-monumental-accidents/a-donut-for-you-coccyx.jpg)
 
 And it'd be much better to own my failures.  However, as for
 startups, I can't ever really say that I have tried.  No one listened
@@ -324,7 +323,7 @@ experience, I totally forgot *Rule Number One*:
 > Rule #1: Don't ever fucking let David Conner win.  Fuck that lazy,
 > druggie piece of shit.
 
-And remember, anything is possible!  If you're name isn't David
+And remember, anything is possible!  If your name isn't David
 Conner.  Now, please excuse me, while I melt my fucking face off.
 
 #### For Fans of Kaizo Mario and Masochists in General, Amazon Recommends:
