@@ -1,0 +1,424 @@
+---
+title: "Facets of Greatness - Networking - Maximizing Mutual Benefit"
+categories: blog
+tags: "business psychology philosophy sociology leadership networking"
+headline: ""
+author:
+  name: "David Conner"
+excerpt: "Thinking back to the 19th century economy,
+it amazes me to think back to previous centuries
+before the internet and phone systems.  I find myself pondering what
+it would be like to remain a step ahead of your competition at that
+time."
+---
+
+Networking is about designing, structuring, building and maintaining
+your social networking by establishing new connections.  Communication
+-- and signaling, to some extent -- is about leveraging your
+network. Or that of your connections or organization.
+
+### Meatspace Networking
+
+... And honestly, networking might be one of my biggest weaknesses,
+but I haven't had way too much practice, as I can't drive. And when I
+have worked on a startup project, I've regrettably worked alone,
+spending the majority of my time programming.
+
+### Your Contact List is Gold
+
+The contact list you build is one of your most valuable assets.  This
+is one reason that I keep my Facebook friends private, even though
+almost everything else I've done on that site has been private.  In
+sales, depending on agreements with your employer, it could be
+unethical to try to carry your contact list to leverage them at your
+next job.  So there's a ton of value there.  It doesn't matter what
+your profit margins are if you don't have customers.
+
+### Mutually Beneficial Connections
+
+In order to further your relationship with customers, or even friends,
+you need to get to know them.  You have to develop a rapport with a
+connection to develop comfort and trust, then you have to the chance
+to understand their needs and how you fit together.  No one wants to
+buy something they find out they didn't really need, so even if you
+managed to sell someone in that case, you didn't provide long-term
+value, so you're not likely to have a repeat customer.
+
+It's terrible to think of people as walking ATM's, and if you treat
+them like that, you're not going far.  Yet, when you develop
+connection where value flows in both directions, then the relationship
+is mutually beneficial and that's how life works.  It works in
+business and in friendship.  It's sad, very few people would say they
+want to be in a one-sided friendship, where one party receives all the
+value.  Anyone who would want that likely doesn't have great
+self-esteem.
+
+### Identifying Valuable Channels
+
+So the idea is to find people who share interests or needs. A great
+trick to this is find where people talk about the thing you're
+interested in.  It could be a forum, an online class, a widely known
+twitter hashtag that seems to consistently spark discussions, or a
+meetup group.  You can even spark random conversations with complete
+strangers.  Some of these channels are going to provide more value
+than others and many of them will be outright time sinks.  You have to
+find the ones that offer the most bang for you buck.  High bandwidth,
+personal communication channels are the best, since you grab that
+person's attention and you can read facial cues to gauge interest.
+
+As widely connected as social media is, I've found that it's a huge
+time sync, unless you're a "power user" ... I'm a software developer
+and I suck at social media. I think "power user" means you can afford
+to buy influence from bots or something. I donno.  IMO, buying
+influence is cheap.  In my personal experience, facebook promotion
+never worked for me.  I spent like $200 on that shit for my personal
+account (sorry facebook) just to see what would happen and it was
+basically like a broken arcade machine.  Regardless, for me, social
+media is highly distracting and I tend to kill any discussion I post
+on.  Go figure. It could be a facebook thread with 100 comments, but I
+post on it?  It's dead in the water.... interesting, n'est-ce pas?
+
+### The Elevator Speech
+
+Anyways, once you've identified the channels, you can engage other
+people.  You can use the elevator pitch to introduce yourself, which I
+picked up in Toastmasters.  Their rewarding program connects you with
+experienced public speaking mentors with, if you're like me and need a
+ton of work here. You'll find these mentors to be influential leaders
+in your local community, valuable connections with constructive
+advice.
+
+Toastmasters taught me about the elevator speech, which is a short 30
+or 60 second speech that you imbue with your own style to introduce
+yourself quickly and confidently. You don't want a mechanical cookie
+cutter introduction for yourself, but the more you practice the easier
+it becomes.  You can build these quick elevator speeches for other
+topics or cater them to a specific audience.  You're going to need
+something short, but flexible, that offers plenty of interest points
+for the other party to grasp onto.  Usually, you'll hit a common
+interest.  If not, you'll find that many other people will begin
+talking about themselves with little encouragement.  Honestly, that's
+best because you don't have to expend much effort at first and there's
+plenty value there if you're a good listener.  However, if you're like
+me, then you don't like talking about yourself much ... even though
+it's just about all I can talk about.  So I just stay quiet mostly.
+Again, it's a "protracted isolation" thing.
+
+### Identifying High Value Connections
+
+Regardless, you'll find that the higher value connections out there
+usually don't want to share as much. Or they are more difficult to
+approach.  You can tell by observing the way people act -- and there
+are plenty of people out there who want to act like this, but don't
+pull it off right because it doesn't come from the heart.  When people
+act less approachable out of conscious motivation to do so, it will
+usually become apparent after you talk to them for a minute. You have
+to listen to the space between their words.  They might be a true
+high-value person or they might just be faking it 'til they make it.
+It's OK, all of the best out there did it LOL. Also, since these
+people are constantly approached by others, they become bored easily
+and they've experienced all the games.  That's yet another reason to
+be authentic.
+
+You'll need to think more about what you're trying to get out of
+networking. Are you looking to meet new customers?  Or are you looking
+for an investor or business partner? There are different tactics to
+match various situations.
+
+### Vetting New Connections
+
+I've noticed that some people seem to be very good at quickly vetting
+the experience level of other people.  Versitility here is invaluable
+for interviewing, but also for networking.  Almost anyone will want to
+convince you that they are better than they actually are at some
+skill, so you need to be able to quickly test someone.  You can do
+this with ease if you are knowledgable in that field, but what if you
+aren't?  There are some general tactics for flushing out someone's BS,
+but they aren't guaranteed to work.
+
+If you're considering getting into a working or personal relationship
+with someone, then you're going to want to make some assertions about
+their character.  There are right and wrong ways to probe someone on
+experience level or skills.  It's kind of like a logic paradox, where
+if you ask just the right question, it doesn't matter if the guy is
+telling the truth or lying, you'll get the right answer.  Honestly, I
+don't know how they figure this shit out.  But the people who make
+great managers are always proficient with this.  I would know, I've
+been through a ton of interviews.
+
+Also, just because someone isn't highly experienced at the time
+doesn't mean they're not a valuable connection.  Is this person young
+and ambitious and on their way up?  They'll probably remember who
+connected with them early on and helped them out.
+
+These questions and topics to sound someone out will vary, depending
+on the industry, topic, skill, experience level, etc.  There are
+several command line Linux utilities that you can ask about.  If
+someone has solved certain problems, like compiling the Linux kernel,
+then they'll know about them.  They'll be able to describe how they've
+used those utilities in the past.  This is much more effective than:
+have you ever compiled the Linux kernel, yes or no?
+
+As you progress in your career, you'll develop more expansive
+knowledge and become more qualified to interview on a wider variety of
+topics. You'll pick up more subtle cues that indicate trustworthiness
+and combined with the right information about experience, you can
+easily find the distinguished applicants.  Or that's what I hope.  I
+don't have any experience with interviewing, but I've spent a lot of
+time thinking about it, since I'm worried my weaker social skills will
+hurt my ability to form a strong early team, unless I hire someone
+with an MBA or equivalent experience. Or a lawyer. They're good at
+sifting through BS. And handy for business law, too.
+
+Another way to vet people is to leverage an existing connection --
+someone you know to be trustworthy.  Arrange a meeting or facilitate a
+connection between these two people and see what your connection
+thinks.  It's best to steer away from introducing these people for the
+obstensible purpose of learning more about someone's proficiency,
+definitely for the person you're sounding out.  And it works best if
+you can arrange it so that neither party knows the purpose. Yes, that
+can reduce the effectiveness, if one person doesn't know they're
+supposed to informally vet this person.  You can always hint or make
+it known later on.
+
+> General rule of thumb: line things up so you can hit two birds with
+> one stone.  Or five birds.  More is better here.  And don't make it
+> known why you threw the rock.  Or that it was even you.
+
+### Practicing Interpersonal Techniques
+
+If you find yourself lacking in some of the techniques for execution
+of networking, then there are plenty of ways to practice.  The first
+idea is to get as much practice as possible.  It doesn't help anyone
+*to be isolated*.  How many times am I going to say *isolated* in this
+series of articles?  Can I ask a psychologist whether or not it's good
+for someone who has Asperger's and is socially inept to be placed
+within a literal invisible fence? ... Does it fucking seem like I
+would like to remain disconnected from the world? My point is that,
+while I'm not good at this stuff and even though I need a ton of
+practice, I obviously know the things I need to know to improve at
+least someone. Yet, there seems to be a problem.  I can't ever drive
+during daytime hours. Ever talk to someone who works late night
+shifts? Is it easy for them to make new friends? I wonder why.
+
+... Moving on.
+
+### Gamifying Networking
+
+So another good idea to improve your networking skills is to find ways
+to gamify it.  You can do it by yourself or with a friend!!
+Basically, you're just setting small goals that you keep in mind for
+the duration of some networking event.  Set an expectation like: get
+ten business cards or meet ten new people.  You can gauge your
+progress over longer periods of time if you want, but the point is to
+motivate yourself to make more connections at an event or increase the
+quality of the connections formed.  The best sales guys (as well as
+the better friends) are going to brainstorm ways of talking to
+specific connections hours, days or weeks before an event.  If you
+spend the time thinking about how you're going to talk to someone
+specific in mind or what you're going to talk about, it should go more
+smoothly when it happens.  This is because you've spent that extra
+time thinking about that person, their life, their interests, etc.
+
+You could even challenge yourself by competing with other people in
+your sales department or amoung your friends.  You can suggest an
+informal competition to find the most interesting person or find the
+best reaction to a terrible joke.  Or find a person who owns X car. Or
+has done A, B, and C.
+
+### Networking in 19th Century America
+
+We're incredibly lucky to have social media.  Thinking back to the
+19th century economy, it amazes me to think back to previous centuries
+before the internet and phone systems.  I find myself pondering what
+it would be like to remain a step ahead of your competition at that
+time.  If you owned a furniture store, you would spend an exorbitant
+amount of time checking prices and quality of products from
+wholesalers and manufacturers.  You would build a network of local
+manufacturers and spend time cultivating those relationships.
+
+How much of your time would you spend doing that?  How would you stay
+ahead of your competitors?  What systems & processes would you enact
+to ensure you were capable of collecting the best information on
+furniture?  How would you determine what is worth manufacturing
+locally and what is more profitable elsewhere?  How would you stay in
+contact with previous colleagues?
+
+It seems that before the advent of instantaneous communication that
+business -- and especially retail, manufacture and distribution -- was
+all in who you knew and how you could leverage your social network in
+order to maximize its benefits.  This was a time when doing so would
+be costly in terms of time and energy.  Because of the increased
+difficulty, the ability to do so would be very profitable.  Thus, in
+previous centuries, efficiently receiving information was a critical
+factor in determining success for those fortunate enough to own
+businesses in that time.
+
+Fortunately, information distribution is no longer constrained by the
+limits of space and is beginning to transcend time.  This presents a
+different kind of challenge, but it means your social network
+connections are almost more valuable.  Who are you tuned in to on
+Twitter, Facebook and Instagram.  I've personally noticed a huge
+difference in the quality of content between the various networks,
+primarily because I'm connected to different sets of people on each.
+The most valuable information I receive, concerning business and
+technology, comes from Twitter, where I'm connected to many
+influential people I don't know.
+
+### Social Media Networking
+
+There are strategies applicable to each social network. Social media
+has become much more diverse, now that there are a dozen major
+networks instead of Twitter and Facebook. Snapchat is great, but it's
+expensive in terms of time and effort for engagement. Yet, the
+tradeoff is stronger, more personal connection for engagement.
+
+The appropriate tactics depend on what what you're trying to get out
+of each network.  Do you want the most followers or the most engaged
+followers -- hint: you want the most engaged followers.  Ultimately,
+what you want has nothing to do with numbers: you want to people's
+attention.  You want to spend time thinking about your content.
+
+My biggest problem with social media is that I don't engage with
+content that other people created as much.  You'd be surprised at the
+people who will end up responding to you in some way, but you're more
+likely to get a response if you identify people who are looking to
+connect with others.  People want to "trade up," so you can use Klout
+to identify people interested in your topics who have a similar or
+lower Klout score and converse with them.  Find the people who seem to
+have an inaccurately low Klout score.  Or, forget about influence and
+Klout algother and just find positive people who want to talk about
+the stuff you want to talk about.
+
+Identifying the right nuggets at the right time is crucial. You want
+to find content that's on the up and up: if you re-share something
+that has 4,000 shares, what good does one more do.  But if that
+reshared piece went from 10 to 4,000 a day later, then it's more
+likely that you identified interesting content early.  So, how do you
+identify content is likely to trend?
+
+I find myself wanting better tools.  Not for producing posts, but for
+consuming them and identify ripe content to interact with.  I tried
+HootSuite, but I still don't like maintaining the extra web portal and
+working through the channel based web interface.  I'm probably doing
+it wrong.
+
+It's vital to prune our social network contacts and filter out the
+ones who are uhhh sucking it up with recycled memes.  No offence, but
+the one about Sponge Bob and Hank Hill, I already saw it.  Different
+words though.  A+ for effort.  To each his own, I guess.  I don't want
+to ignore these people either.  I really don't like the "Hide" button
+or whatever.  But by unfollowing, you condense the information so that
+it's more valuable.  I would suggest creating multiple accounts ...
+fuck that -- that makes my facebook account sound like a job. Also, by
+narrowing your follow list down, you're signaling to content producers
+an indication of what is valuable.
+
+Which brings me to my next point: social media is democratic. One like
+equals one vote.  Those newsfeed algorithms are powerful and valuable.
+They determine what is likely to be seen and what is not.  In my own
+newsfeed on facebook, there are a set of friends who consistently get
+like 30-100 likes on every single thing they post, but I'm lucky to
+get a single comment or interaction. Ever. I don't get it. People have
+told me "well, you can't drive, but at least there's all these online
+social media connections" .... PFFFTTT LMAO.  Yeh, let's trade
+accounts for a month and let's see how you feel after that.
+
+> In fact, that's a spectacular idea: trading accounts. Just for
+> kicks.
+
+I once sent out 75 messages after returning from an Instacart
+interview in San Francisco to promote their product.  I didn't expect
+to get anything out of it, but I included a referral code.  I hoped to
+seed users in their active markets (there were only 10 major cities at
+the time) and I was curious as to whether Instacart would ever figure
+that out in their analytics.  That they rejected my employment -- no
+hard feelings really, though I calculated $2 million in stock options
+after 3 years of employment -- but I still cared so much about their
+product that I devoted like 4 hours to sending facebook messages.  You
+know how many people responded to me?  Five.  Just five.  Or less.
+Yeh .. a bit spammy, I know, so I'm not mad.  Whatevs.  I was curious
+to see who would respond and whether Instacart would ever pick that up
+in their analytics.  And I had a genuine interest in promoting their
+product.
+
+> Have I said isolated yet? Did I say that?
+
+People use Facebook and Twitter differently: there are different
+categories of usage behaviors.  Do you have custom lists and newsfeeds
+set up? I do. Do you use them? I don't. The main feeds are so engaging
+that I just don't think about it. I'd be curious to see the data on
+how people use these features. But if it's not the default, you really
+can't depend on people using that product.  And if it's a social media
+consumption feature, then as a producer or advertiser, you probably
+can't query that in an API either.  Which would only be mildly useful,
+depending on what usage patterns were available via API.
+
+So yeh, I'm a bit bitter about my social media experience.  It's not
+rainbows and unicorns.  It'd be nice to feel "connected" I guess.  Or
+at least for my online social life to fill in that void left by
+constant moves and depression. Then again, I don't think I want to be
+glued to it either.  But I feel like "I did something wrong," when
+really, people are probably just too click-happy with that hide
+button or something.  I donno.
+
+Too much information is distracting.  I could watch coursera or math
+lectures all day and never stop like it was my job.  I could just as
+easily read articles on Twitter 24/7 and constantly find compelling
+content to keep me reading.  Yet, I've reached this point where
+there's so much overlap between the knowledge I already have and the
+information I'm consuming that it is a serious challenge to find the
+valuable info that expands my knowledge or worldview.  There's way too
+much repetitive content out there: it's a crowded market. It used to
+be exciting for me to find articles to share on Facebook in 2010, but
+now anything that's important ends up in their Top Ten Trending list,
+so it's basically pointless to share news articles -- again, I think
+I'm "doing it wrong."
+
+But you're basically prompting your friends with:
+
+> Hey! Do you want to read this thing that you probably already read
+> somewhere else? If you haven't read it, you probably already spent
+> all the time you had available to read boring news articles about
+> world politics or economics. But I thought I'd ask. Maybe click
+> "like" anyways?
+
+So yeh... I'm not great with social media. That should be clear.
+
+### Up Next:
+
+## Networking: Math and Design
+
+In the next post on networking, I'll describe ideas behind the design
+of your IRL Social Network, as well as detail the math behind it.
+There is a ton of math that's involved in social situations, though
+it's mostly based on set theory and statistics.
+
+For example, the center of the table is the best place to sit, if you
+want to engage with a maximum number of people.  If you want to
+restrict the number of people who can engage with you, then sit at
+either end of the table.  Or go King Arthur and build a round table,
+so everyone is equidistant.  That's really the way to go.
+
+More math: the ideal time to talk to girls at a show? If you're
+actually planning on having a good first night with her/them?  It's
+precisely 12 O'Clock.  As in, the first time you see that girl in
+front of you, before she has a chance to consciously think about you.
+That's the statistic optimum for maximal first impression.  It's
+proven.
+
+Also, the math behind designing and tapping into your social network
+involves much of the same stuff found in computer science.  There
+should exist some optimal branching design for a social network that
+balances access to upstream nodes with influence or value for each
+node.  This is moreso true with power structures found in corporate or
+governmental organizations. Additionally, you can rearrange and
+transform social network graphs to alternate representations with
+layouts that satisfy some functional objective.
+
+In designing the social network you want to create, there are several
+maxim that are often repeated.  There's the famous rule of a realistic
+maximum of 150 connections.  Another that I'd like to discuss is they
+saying that "you are the sum of the 5 people you spend the most time
+with."  This speaks volumes about optimizing the design of your social
+network to benefit you and the people you spend the most time with.
