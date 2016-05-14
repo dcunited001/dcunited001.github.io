@@ -365,11 +365,14 @@ I have no support system with which to talk to.  I have been told by
 my family that, because of my reluctance to give up, I am "crazy" and
 I "belong in a hospital."
 
-How can someone read the 20,000 words I have published in the past 48
-hours and reasonably conclude that I am not in touch with reality,
-unless there is some aspect of reality I am not being shown. How can
-someone allude that I am delusional because I do not understand my own
-capabilities?  Absolutely ridiculous.  I have a lot to learn and a ton
-of room for growth, but I am absolutely not delusional about my
-skillset. Be the next person to make a Steve jobs joke, I fucking dare
-you.
+Again, I challenge you to write 20,000 to 30,000 words on leadership.
+If you criticize me, then what do you have to say?  Obviously, there
+are people out there who are more agreeable, but look honestly at what
+I have been through.  And how can someone read the 20,000 words I have
+published in the past 48 hours and reasonably conclude that I am not
+in touch with reality, unless there is some aspect of reality I am not
+being shown. How can someone allude that I am delusional because I do
+not understand my own capabilities?  Absolutely ridiculous.  I have a
+lot to learn and a ton of room for growth, but I am absolutely not
+delusional about my skillset or range of experience. Be the next
+person to make a Steve jobs joke, I fucking dare you.
