@@ -19,6 +19,8 @@ add examples of how to apply these ideas
 
 ## Part Two
 
+
+
 - Start out by talking a bit about modernization and how special our
   moment in history is.  It's like standing on the shoulders of
   giants and we're ready to launch out into space ... or something..
@@ -53,7 +55,6 @@ add examples of how to apply these ideas
   - so we need to quantify behavior so we can measure it.  and we can
     anticipate our trajectory.
 
-....
 
 ### Quantification
 
@@ -180,137 +181,6 @@ lead into communication:
 
 ## Networking
 
-Intro
-- networking as designing/structuring/building/maintaining your social
-  network(s)
-- communication (and signaling, to some extent) as leveraging your
-  network
-- your contact list as one of your most valuable assets
-  - if you confidence is your most valuable, your contact list might
-    be your second most valuable
-
-Returning to the 19th century economy, it amazes me to think back to
-previous centuries before the internet and phone systems.  I find
-myself pondering what it would be like to remain a step ahead of your
-competition at that time.  If you owned a furniture store, you would
-spend an exorbitant amount of time checking prices and quality of
-products from wholesalers and manufacturers.  You would build a
-network of local manufacturers and spend time cultivating those
-relationships.
-
-How much of your time would you spend doing that?  How would you stay
-ahead of your competitors?  What systems & processes would you enact
-to ensure you were capable of collecting the best information on
-furniture?  How would you determine what is worth manufacturing
-locally and what is more profitable elsewhere?  How would you stay in
-contact with previous colleagues?
-
-It seems that before the advent of instantaneous communication that
-business -- and especially retail, manufacture and distribution -- was
-all in who you knew and how you could leverage your social network in
-order to maximize its benefits.  This was a time when doing so would
-be costly in terms of time and energy.  Because of the increased
-difficulty, the ability to do so would be very profitable.  Thus, in
-previous centuries, efficiently receiving information was a critical
-factor in determining success for those fortunate enough to own
-businesses in that time.
-
-Fortunately, information distribution is no longer constrained by the
-limits of space and is beginning to transcend time.  This presents a
-different kind of challenge, but it means your social network
-connections are almost more valuable.  Who are you tuned in to on
-Twitter, Facebook and Instagram.  I've personally noticed a huge
-difference in the quality of content between the various networks,
-primarily because I'm connected to different sets of people on each.
-The most valuable information I receive, concerning business and
-technology, comes from Twitter, where I'm connected to many
-influential people I don't know.
-
-- there are strategies applicable to each social network,
-  - and it really depends on what you're trying to get out of each one
-- i find myself wanting better tools, not for producing posts, but for
-  consuming them.
-  - identifying the right nuggets at the right time is crucial.
-- but too much information is distracting.  I could watch coursera
-  videos or math lectures all day and never stop.
-  - or I could just as easily read articles I find on twitter all day
-    and never stop.
-  - but I've reached a point where there's so much overlap between the
-    knowledge i already have and the information i'm consuming that
-    i've become frustrated with media.  it's a challenge to find
-    valuable information that expands my knowledge or worldview.
-    - too much repeated stuff out there
-- managing social media is expensive in terms of time and very
-  inefficient, both from the standpoint of consuming it and producing
-  it.  i am very close to backing up my contacts and closing out my
-  facebook and twitter altogether.
-
-it's becoming more important to prune our social networks and filter
-out the info that's just not important.
-- briefly describe why, yada, yada
-
-social networks IRL.
-- rewrite the summary from part one here
-- discuss cultivating your own IRL social network
-  - how to approach it methodically
-
-- vetting people's experience level
-  - this is important for interviewing as well as networking
-  - almost anyone will want to convince you they are better than they
-    are at some skill, so you need to be able to quickly test someone
-  - there are right and wrong ways to probe someone on experience
-    level or skills.  it's kind of like the logic paradox, where if
-    you just ask the right question, it doesn't matter if the guy is
-    telling the truth or lying.  you'll get the right answer
-  - just because someone isn't highly experienced doesn't mean they're
-    not a valuable connection.  is this person young and ambitions and
-    on their way up?
-
-- these questions and topics to sound someone out will vary, depending
-  on the industry, topic, skill, experience level, etc.
-  - but, as you get to know more and more people, you'll develop more
-    expansive knowledge
-  - you can always leverage one of your connections with more
-    experience in that field or topic.  you can facilitate a
-    connection between these two people and see what that person
-    thinks.
-    - usually, it's best steer away from introducing these
-    people for the obstensible purpose of learning more about
-    someone's profiency, at least for the person you're sounding
-    out.
-    - and it really works best if you can arrange it so that
-    neither party knows that's the purpose, but that can reduce the
-    effectiveness, if one person doesn't know they're supposed to
-    informally vet this person.  you can always hint or make it known
-    later on.
-    - general rule of thumb, line things up so you can hit 2 birds
-      with one stone.  or five birds.  more is better.  and don't make
-      it known why you threw the rock.
-
-- the math behind it
-  - Efficient b-tree structures & graph reductions
-    - finding graph representations to satisfy some functional purpose
-
-- how to design the network you want to create
-  - "you are the sum of the 5 people you spend the most time with"
-  - the rule of 150 connections
-
-- gamifying networking.
-  - important if you realize communication or making connections may
-    not be a natural strength
-  - by goal-setting, you can collect some basic stats
-    - you can set an expectation (i got 10 business cards or met 10
-      people)
-    - you can gauge your progress over time
-    - you can motivate yourself to make more connections while you're
-      at an event.  or while your at the event, you can focus more on
-      some specific aspect of networking you're trying to improve.
-  - you can also set other goals, like practicing an elevator speech.
-    - maybe a product pitch or just your personal introduction
-  - and you can challenge yourself by competing with other people in
-    your sales department
-    - a competition to find the most interesting person
-    - find a person who owns X car. or has done A,B, and C.
 
 ## Communication
 
@@ -338,6 +208,16 @@ seen as necessary or abominable.
 > Employ your time in improving yourself by other men's writings, so
 > that you shall gain easily what others have labored hard for. -
 > Socrates
+
+
+There's a game called "Five Why's" and it's very helpful for exploring
+concepts that are unfamiliar or difficult.  Basically, we start with
+networking, then ask "Why?" and provide and answer.  Then take the
+answer and ask "Why?" again.  And again, until you've answered "Why"
+five times.  After you repeat this exercise a few times, you'll find
+you have much a better understanding of the concept at hand,
+regardless if you've just learned about it or if you thought you
+completely understood it.
 
 ## Vision
 
@@ -764,3 +644,55 @@ of course the other side is detecting and analyzing strategy
 404 => Buttons Denied! Sometimes it's better not to push those buttons
 if you don't know what you're doing. Pushing all of them is bad. DO
 NOT DO IT. CLEAR?
+
+### No Great Feat is an Accident
+
+No one does anything truly great by accident ... well, almost no
+one. But there are a fortunate few, whereby serendipity of fate or
+accidental life circumstance, who life equips with not only the
+insight required to understand the importance of these **facets of
+greatness**, but also the mind and behaviors to clear a path. And the
+spirit to conquer these challenges.
+
+Speaking of clearing a path, I blogged about some
+[crazy dreams](/posts/2016-05-14-oneironautics-questing-for-lucidity.html
+where my mind needed me to do just that.
+
+### Guard Your Will to Fight
+
+This is why you must guard your will to fight.  No matter how capable
+your mind and body are, if your spirit is broken, you will give up.
+Your most dangerous enemies will go for that first.  The kinds of
+people you need to look out for won't directly attack you.  People
+like that are easy to deal with.  They practically take care of
+themselves! If you look like an asshole or overtly coerce someone
+emotionally, people aren't going to want to deal with you.
+
+Your more capable and dangerous opponents will not be overt.  They
+will seek to control the audience and abuse channels of communication.
+They will do so subtly, before you know what hit you.  I wrote 20,000
+words about workplace bullying.  While I pulled the content, I've been
+thinking about reposting it.  I'm tired of dealing with people and
+tactics like this.  As many campaigns as there are about bullying,
+these tactics only seem to be more accepted as time goes on and their
+practitioners further entrenched.
+
+> I pray that this is only paranoia or confirmation bias. If it is
+> anything more than that, bad things are happening.
+
+When and if "bad things" start happening, then you'll see concerted,
+partisan efforts to displace specific factions of people by syphoning
+their income and influence.  They will target the most vocal first and
+gag the rest with fear -- or worse, coerce them in secret.  The best
+way to stop it is by swamping the system to turn it against itself,
+but that is expensive and painful.
+
+Anyways, these people will drain your spirit and limit your
+influence.  They will identify your stongest social connections in
+some environment and try to sever them, exhaust them or turn them
+against you.  They'll redirect your energy or place themselves between
+you and your manager, remapping correspondence and distort your
+relationship by contorting your actions or abusing the game of
+telephone.
+
+Super happy fun time, amirite? Enough about that.
