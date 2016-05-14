@@ -183,6 +183,8 @@ lead into communication:
 Intro
 - networking as designing/structuring/building/maintaining your social
   network(s)
+- communication (and signaling, to some extent) as leveraging your
+  network
 - your contact list as one of your most valuable assets
   - if you confidence is your most valuable, your contact list might
     be your second most valuable
@@ -323,6 +325,8 @@ seen as necessary or abominable.
 - "concept cars" and other things that will never ever happen
 
 ## Signaling
+
+
 
 ## Knowledge Pt 2
 
