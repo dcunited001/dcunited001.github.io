@@ -402,6 +402,10 @@ in the room at that time.
 
 ## &#x1f48e; [Communication](#communication)
 
+[Synoptic Epigrams](/posts/2016-05-13-facets-of-greatness-communication-synoptic-epigrams.html)
+- Overview on Communication for Leaders.  Leveraging your network with
+a concise message. Simple is better.
+
 Communication is one of the most important facets to develop.  If you
 can't communicate effectively, how can you expect to leverage your
 network and coordinate the execution of a strategy?  It's important to
@@ -468,6 +472,11 @@ difficult to balance with the interests stockholders.
 
 ## &#x1f48e; [Signaling](#signaling)
 
+[If Actions Speak Louder](/posts/2016-05-13-facets-of-greatness-signaling-if-actions-speak-louder.html)
+- Overview on Signaling. The how and why to signaling. Why signaling
+overcomplicates otherwise simple projects. How signaling is the
+missing piece for the otherwise exceptionally intelligent.
+
 Signaling is a kind of indirect communication, but it differs
 significantly from that described above because it encompasses
 handling unintentional communication.  Everything around you is part
@@ -523,6 +532,11 @@ More in the section on signaling.  Just remember.  **Poker Face**.
 <a name="knowledge"/>
 
 ## &#x1f48e; [Knowledge](#knowledge)
+
+[Meta and Epi](/posts/2016-05-13-facets-of-greatness-knowledge-meta-and-epi.html) -
+- Overview of Knowledge.  Understanding metaphenomena and epiphenomena.
+Constructing and reading models. Utilizing knowledge differential for
+profit.
 
 Knowledge is power, as stated by that maxim from time immemorial.
 And, yep, it's true, in case you hadn't figured that out yet. I think
