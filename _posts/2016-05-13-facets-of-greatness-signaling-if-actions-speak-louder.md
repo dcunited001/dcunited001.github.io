@@ -137,6 +137,8 @@ without your knowledge.
 
 ![Dali's Manus](/img/posts/2016-05-13-facets-of-greatness-signaling-if-actions-speak-louder/dali-la-main.jpg)
 
+#### If only Dali had known...
+
 So you'll see these founders and especially celebrities will restrain
 their words and actions simply because of that.  It is a gag, where
 you are bound by fame.  Isn't that crazy?  You obtain influence and
