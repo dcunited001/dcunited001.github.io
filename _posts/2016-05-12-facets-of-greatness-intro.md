@@ -873,7 +873,7 @@ which for whatever reason, end up being one of those critical things
 that really *made* someone.  Far too many people associate being
 different with weakness.  They seek to identify what makes others
 different and they point it out.  They question it.  They criticize
-it.  Sometimes they accept it, but usually people will try to use it
+it.  Sometimes they accept it, and sometimes people will try to use it
 in some way.  Often, instead of embracing our own unique quirks as
 strengths, we buy into all the criticism.
 
@@ -892,6 +892,8 @@ ideas or extensions of those ideas which aren't available to
 everyone. Or rather, those ideas are only available vicariously. But
 we should embrace those people who can expand our minds by sharing
 experiences that we can't have or can't truly know.
+
+### What is Wisdom?
 
 Wisdom is knowing what to do when you do not know.  You need to have
 the intuition to dig deeper when it seems that you have a set course
