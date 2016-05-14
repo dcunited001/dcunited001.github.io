@@ -165,7 +165,8 @@ organize content
       - we cooked food or something, then me and lots of other people were in a highschool with linoleum floors
         - this is where the rolly chair jousting went down
         - it was more like chicken.  i lost taylor swift won lol.
-      - also this dream got really weird shortly after and involve specific people from years ago in my life
+      - also this dream got really weird shortly after (same night,
+        same dream, i thought...) and involve specific people from years ago in my life
         - but we'll just pretend these are separate dreams
         - mng was !@#$'ing some girl in roller skates, in front of a long line of people, just rolling along
           - when he asked her to do it (in front of everyone) she had a look on her face
