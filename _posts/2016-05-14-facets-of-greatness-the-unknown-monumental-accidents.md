@@ -317,7 +317,7 @@ lube when they fucked me in the ass.  I need one of these:
 
 ### Could Anyone Spare a Donut for my Coccyx?
 
-![DONUTS!](/img/posts/2016-05-14-facets-of-greatness-the-unknown-monumental-accidents/a-donut-for-you-coccyx.jpg)
+![DONUTS!](/img/posts/2016-05-14-facets-of-greatness-the-unknown-monumental-accidents/a-donut-for-your-coccyx.jpg)
 
 And it'd be much better to own my failures.  However, as for
 startups, I can't ever really say that I have tried.  No one listened
