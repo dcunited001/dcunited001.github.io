@@ -106,21 +106,6 @@ best?  LMAO.  Fuck it, take what they will, I will always know...
 
 ... Moving on
 
-
-
-However, in a world standing on the shoulders of giants -- who are, in
-turn, standing on giants all the way down -- several things become
-limiting factors for creativity which present unique challenges. There
-is the sheer scale of time require to learn all the necessary skills
-to advance a field.  This is a huge issue and so is all the repeat
-information you'll need to process when learning the required skills.
-
-Yet there is another more subtle limiting factor for us inhabitants of
-our postmodern world, where mostly everything has been done in some
-way or another.  In a world where mostly everything has been done in
-some way or another, people have less of a reward system in place to
-exercise their creative muscles.
-
 ### Metamodernism
 
 Metamodernism looks at cycles that transition between
@@ -144,59 +129,157 @@ Read this fantastic article to learn more: [[Re]construction:
 Metamodern ‘Transcendence’ and the Return of
 Myth](http://www.metamodernism.com/2015/10/21/reconstruction-metamodern-transcendence-and-the-return-of-myth/)
 
+### Exercising Our Creative Muscles
 
+However, in a world standing on the shoulders of giants -- who are, in
+turn, standing on giants all the way down -- several things become
+limiting factors for creativity which present unique challenges. There
+is the sheer scale of time require to learn all the necessary skills
+to advance a field.  This is a huge issue and so is all the repeat
+information you'll need to process when learning the required skills.
 
-    - but also, people living in a postmodern world, where mostly everything has been done in some way or another
-  - but, in this postmodern world, everyone can learn anything they want by going to wikipedia
-    - and this is how you most efficiently develop talent to be most valuable in todays world
-  - we live in a world that's like 2 steps away from downloading jujitsu from the matrix.
-    - but you can't so easily teach someone to be as creative as the people who discovered all this in the first place
+Yet there is another more subtle limiting factor for us inhabitants of
+our postmodern world. In a world where mostly everything has been done
+in some way or another, people have less of a reward system in place
+to exercise their creative muscles. The opporunity for creativity
+dwindles and the cost for true invention skyrockets. Our drive to
+create diminshes, but our thirst doesn't disappear. Like anything
+else, if you don't use it, you lose it.
+
+We're two steps away from a world where it's possible to download
+jujitsu from the matrix -- yet, the need for many skills will be
+supplanted by tech.  Outside of amusement or curiousity, there would
+be many skills we wouldn't need to download. We can currently learn
+nearly anything we want for free with Coursera and other online
+education tools. We are more in control of the design and development
+of our mind than ever before. But you can't so easily teach someone to
+be as creative as the people who struggled to innovate in the first
+place.
+
+## The Paradox of Creativity
+
+For people to profit from discoveries in society, there are more
+efficient ways to teach skills and subjects, but it's one that may or
+may not foster creative aptitude.  It is simple with technology, but
+not easy, to optimize the education systems on quantity of knowledge
+developed -- though technology never replaces the community of IRL
+college and school. Yet, this is orthogonal to the knowledge required
+for creative process.  And I would say that there is no set of
+knowledge which could completely replace the experience and passion
+that drives the creative process.
+
+Speaking firsthand, in a world where anyone can conjure up youtube
+videos of any fantastic combination of keywords, I've found myself
+desensitized to what should be truly amazing. We've become so
+oversaturated with access to prime content, sorted by viewcount and
+rating, that we can easily lose appreciation for the amazing
+experiences around us. It's like reality porn, since it strongly warps
+our notion of what's normal. It can drive people to strive harder, but
+obviously may lead to unrealistic expectations.
+
+### The Power of the Unknown
+
+In my head, a reel is playing my 2004 image of an amazing bboy hitting
+the most insane powermoves.  The windmill sensei that brought me up in
+the bboy game comes to mind. I was so excited to meet this guy because
+I had never met anyone who could teach me how to bboy and here's this
+guy that, breaking it down for 120 seconds, pulled 200 kids into the
+center of the floor to watch. Fast forward just three years and
+getting a crowd that size so quick was impossible.  The ability to
+have vicariously experience anything at any time sapped the magic from
+so much out there. And after TV shows like America's Best Dance Crew,
+it's to be expected this wouldn't be such a rarity in Roanoke.
+
+But there's really no replacing that kind of magic moment, where out
+of nowhere, life hands you precisely what you've been searching for.
+You just had no idea; your mind had no concept of it, but your heart
+felt it. That is the power of mystery in life and it's dying. There is
+power in seeing something, which your mind struggled to assess, model,
+measure and compare. That moment is what life is about, to me.
+
+### Simpsons Did It, Again!
+
+We rob ourselves of the power of these experiences by  ...
+
+(?) Multitudes of people who are incredibly smart, but less creative,
+especially in a world where anyone.
+
   - so this is a kind of paradox.
-    - in order for people to take advantage of the things we've discovered as a society
-      - there is more efficient way to teach them, but one that may or may not lead to cultivating a creative aptitude
-    - but having lots of people who are incredibly smart, but less creative
-      - especially in a world where anyone can stream a youtube video of any combination of amazing things
-        - and the experience of watching this video can stem off the desire to actually do it
+    - in order for people to take advantage of the things we've
+      discovered as a society
+      - there is more efficient way to teach them, but one that may or
+        may not lead to cultivating a creative aptitude
+    - but having lots of people who are incredibly smart, but less
+      creative
+      - especially in a world where anyone can stream a youtube video
+        of any combination of amazing things
+        - and the experience of watching this video can stem off the
+          desire to actually do it
           - "Simpson's did it"
-      - this may mean that we accelerate our implementation of science and technology,
+      - this may mean that we accelerate our implementation of science
+        and technology,
         - but that we stagnate our progression of it, eventually
-    - actually i don't think this is as much of an issue as it could be, immediately
+    - actually i don't think this is as much of an issue as it could
+      be, immediately
       - but that it very well could be an important issue soon
-        - say, 3 to 4 generations into this phenomenon of postmodern quasiomniscience
-        - by that time, if we don't expend a bit of time and energy properly understanding how we got here
-          - and the skills that were used and what motivated us, that could very well be lost
+        - say, 3 to 4 generations into this phenomenon of postmodern
+          quasiomniscience
+        - by that time, if we don't expend a bit of time and energy
+          properly understanding how we got here
+          - and the skills that were used and what motivated us, that
+            could very well be lost
           - this has happended time and time again in history:
             - people understand where the have come from (the "what" ??)
-              - and can mostly accurately understand one to two generations of history
+              - and can mostly accurately understand one to two
+                generations of history
             - people may remember the "how"
-              - or they may be amazed at pyramids or stone statues on easter island
+              - or they may be amazed at pyramids or stone statues on
+                easter island
             - but they almost always forget the "why"
-          - and this phenomenon of not understanding "why" will become infinitely more difficult to understand
-            - in a world of overdriven sensory overload -- this is already a problem
+          - and this phenomenon of not understanding "why" will become
+            infinitely more difficult to understand
+            - in a world of overdriven sensory overload -- this is
+              already a problem
             - there's so much information out there,
-              - that it becomes difficult to discern things which were once just common sense
-              - and it becomes common to philosophize and "discover" so mode of thinking or some phenomenon
+              - that it becomes difficult to discern things which were
+                once just common sense
+              - and it becomes common to philosophize and "discover"
+                so mode of thinking or some phenomenon
                 - that everyone used to be familiar with
-            - you can already see how this has effected us by contrasting eating habits now versus 100 years ago
+            - you can already see how this has effected us by
+              contrasting eating habits now versus 100 years ago
               - and then observing how that effects our living habits
-              - and correlating it to what the average 14 year old knows about the world
-            - the skills and hard work that we gave up in the name of convenience
+              - and correlating it to what the average 14 year old
+                knows about the world
+            - the skills and hard work that we gave up in the name of
+              convenience
               - also endowed us with lots of useful knowledge
-              - yet, we focus on how skills were mostly an encumbrance,
-                - and we totally overlook how replacing those skills with convenience
-                  - leads to a vacuum in newer generations, where there was once experience and knowledge
-            - so common agriculture practices are mostly lost to this generation
-              - but there are great insights that can be attained from working in these trades for a year or two
-                - this is stuff that you'll only understand by doing it yourself for a protracted amount of time
-                - and it's stuff that someone can explain it to you and it'll go in one ear and out the other
+              - yet, we focus on how skills were mostly an
+                encumbrance,
+                - and we totally overlook how replacing those skills
+                  with convenience
+                  - leads to a vacuum in newer generations, where
+                    there was once experience and knowledge
+            - so common agriculture practices are mostly lost to this
+              generation
+              - but there are great insights that can be attained from
+                working in these trades for a year or two
+                - this is stuff that you'll only understand by doing
+                  it yourself for a protracted amount of time
+                - and it's stuff that someone can explain it to you
+                  and it'll go in one ear and out the other
                   - if they can even put it into words.
-    - but i'm saying this phenonena of no longer understanding the value of a skill that's been replaced by convenience
+    - but i'm saying this phenonena of no longer understanding the
+      value of a skill that's been replaced by convenience
       - relates to this paradox of creativity,
-        - whereby when education is so streamlined that a bachelor's can be attained in 10 years
+        - whereby when education is so streamlined that a bachelor's
+          can be attained in 10 years
           - or when innovation is driven by AI
         - we'll forget the value of being creative
-      	  - and it won't be something that we'll realize that we miss once it's gone
-      	    - because even if we could turn away from the adumbration of sensory overload,
+      	  - and it won't be something that we'll realize that we miss
+              once it's gone
+      	    - because even if we could turn away from the adumbration
+                of sensory overload,
       	      - we won't know where to look to
 
 #PostModernism #ParadoxOfCreativity In the future, we'll forget creativity's worth & it won't be something we realize we miss once it's gone
