@@ -397,7 +397,9 @@ farming techniques.
 > prices and profits shared amoung more people. Good luck with that
 > one though.
 
-### Líf and Lífþrasir in a Hollow Tree
+## Líf and Lífþrasir
+
+### In a Hollow Tree
 
 My point is, by severing ourselves from longstanding cultural
 practices, we poison that tree, culling all the branches to leave just
@@ -444,5 +446,6 @@ know where to look.  If we forget, we will be lost.  As progress
 accelerates, culture exponentiates, as do its effects on society. With
 culture, we have the opportunity to nurture our tree to see it blossom
 or see it curl inward as we become fastidiously blinded by hubris.
+Which one would give us a resilient haven for Líf and Lífþrasir?
 
 ...
