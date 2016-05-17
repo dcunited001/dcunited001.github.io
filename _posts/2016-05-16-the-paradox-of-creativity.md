@@ -14,8 +14,8 @@ so that we can take advantage of the cross-pollination of ideas."
 
 In the future, we'll forget creativity's eminance & it won't be
 something we realize we miss once it's gone. The path from whence we
-came will be hidden and inconstructible ... if adumbrating sensory
-overload doesn't occlude our sight, then the ...
+came will be hidden and inconstructible. Adumbrating sensory overload
+will occlude our path, if we even think to look for it.
 
 > Honestly, as dysfunctional as I have been, I miss whatever part of me
 > thought to write this down.
