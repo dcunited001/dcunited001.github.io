@@ -5,7 +5,11 @@ tags: "philosophy singularity postmodernism metamodernism"
 headline: ""
 author:
   name: "David Conner"
-excerpt: ""
+excerpt: "Obviously, we must move forward; our economy demands it. Yet, we need
+to keep a close eye on our trajectory.  Total loss of the factors
+which fecundate and fertilize to cultivate seeds of creativity may
+leave us stranded and lost. We need to maintain diversity of thought,
+so that we can take advantage of the cross-pollination of ideas."
 ---
 
 In the future, we'll forget creativity's eminance & it won't be
@@ -446,6 +450,7 @@ know where to look.  If we forget, we will be lost.  As progress
 accelerates, culture exponentiates, as do its effects on society. With
 culture, we have the opportunity to nurture our tree to see it blossom
 or see it curl inward as we become fastidiously blinded by hubris.
-Which one would give us a resilient haven for Líf and Lífþrasir?
+Which one would give our children a resilient haven for
+[Líf and Lífþrasir](https://en.wikipedia.org/wiki/L%C3%ADf_and_L%C3%ADf%C3%BErasir)?
 
 ...
