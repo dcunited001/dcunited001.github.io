@@ -8,8 +8,13 @@ author:
 excerpt: ""
 ---
 
-Honestly, as dysfunctional as I have been, I miss whatever part of me
-thought to write this down.
+In the future, we'll forget creativity's eminance & it won't be
+something we realize we miss once it's gone. The path from whence we
+came will be hidden and inconstructible ... if adumbrating sensory
+overload doesn't occlude our sight, then the ...
+
+> Honestly, as dysfunctional as I have been, I miss whatever part of me
+> thought to write this down.
 
 Exponential development of culture threatens to detach us from the
 aspects of life that precipitate creativity.  The nature of
@@ -175,7 +180,12 @@ oversaturated with access to prime content, sorted by viewcount and
 rating, that we can easily lose appreciation for the amazing
 experiences around us. It's like reality porn, since it strongly warps
 our notion of what's normal. It can drive people to strive harder, but
-obviously may lead to unrealistic expectations.
+obviously may lead to unrealistic expectations. For me, watching some
+amazing maker videos would stimulate my imagination and simultaneously
+stem my desire to try it or something like it, since it had been done
+before. This led me to avoid learning some skills altogether, had I
+just been willing to work very hard to experience something without
+feeling a need for that project to be something *new*.
 
 ### The Power of the Unknown
 
@@ -197,127 +207,242 @@ felt it. That is the power of mystery in life and it's dying. There is
 power in seeing something, which your mind struggled to assess, model,
 measure and compare. That moment is what life is about, to me.
 
-### Simpsons Did It, Again!
+### Cyberspace Wanderlust
 
-We rob ourselves of the power of these experiences by  ...
+We rob ourselves of the power of these experiences as we sift through
+videos, tweets and shares to immediately satisfy our craving for
+humour or wonder.  Though too often this understanding lies below the
+veil of my conscious mind: it is desire for the ecstacy of
+incomprehensible, imcomparable experience that drives my behavior; to
+recognize it, to control it is to exhibit masterful control of my mind
+and my life.  And to practice is it, one must meld with the beauty of
+now and dissolve preconceived maxims or schemas for the world, the
+experiences of which further inform our mind, all to often quenching
+the flame of the child inside us.
 
-(?) Multitudes of people who are incredibly smart, but less creative,
-especially in a world where anyone.
+This is because the more powerful our schemata for predicting and
+controlling the world become, the more likely we are to lean on the
+same schema again and again.  This results in constriction of variety
+of experience and myopia and the elimination of dynamic behavior. And
+yet, the world doesn't ask us to do this; quite the opposite.
+Structures in society tend to extinquish this, except in a few cases,
+particularly for artists. If your livelihood demands strengthening
+your inner child, I hope you realize how lucky you are.
 
-  - so this is a kind of paradox.
-    - in order for people to take advantage of the things we've
-      discovered as a society
-      - there is more efficient way to teach them, but one that may or
-        may not lead to cultivating a creative aptitude
-    - but having lots of people who are incredibly smart, but less
-      creative
-      - especially in a world where anyone can stream a youtube video
-        of any combination of amazing things
-        - and the experience of watching this video can stem off the
-          desire to actually do it
-          - "Simpson's did it"
-      - this may mean that we accelerate our implementation of science
-        and technology,
-        - but that we stagnate our progression of it, eventually
-    - actually i don't think this is as much of an issue as it could
-      be, immediately
-      - but that it very well could be an important issue soon
-        - say, 3 to 4 generations into this phenomenon of postmodern
-          quasiomniscience
-        - by that time, if we don't expend a bit of time and energy
-          properly understanding how we got here
-          - and the skills that were used and what motivated us, that
-            could very well be lost
-          - this has happended time and time again in history:
-            - people understand where the have come from (the "what" ??)
-              - and can mostly accurately understand one to two
-                generations of history
-            - people may remember the "how"
-              - or they may be amazed at pyramids or stone statues on
-                easter island
-            - but they almost always forget the "why"
-          - and this phenomenon of not understanding "why" will become
-            infinitely more difficult to understand
-            - in a world of overdriven sensory overload -- this is
-              already a problem
-            - there's so much information out there,
-              - that it becomes difficult to discern things which were
-                once just common sense
-              - and it becomes common to philosophize and "discover"
-                so mode of thinking or some phenomenon
-                - that everyone used to be familiar with
-            - you can already see how this has effected us by
-              contrasting eating habits now versus 100 years ago
-              - and then observing how that effects our living habits
-              - and correlating it to what the average 14 year old
-                knows about the world
-            - the skills and hard work that we gave up in the name of
-              convenience
-              - also endowed us with lots of useful knowledge
-              - yet, we focus on how skills were mostly an
-                encumbrance,
-                - and we totally overlook how replacing those skills
-                  with convenience
-                  - leads to a vacuum in newer generations, where
-                    there was once experience and knowledge
-            - so common agriculture practices are mostly lost to this
-              generation
-              - but there are great insights that can be attained from
-                working in these trades for a year or two
-                - this is stuff that you'll only understand by doing
-                  it yourself for a protracted amount of time
-                - and it's stuff that someone can explain it to you
-                  and it'll go in one ear and out the other
-                  - if they can even put it into words.
-    - but i'm saying this phenonena of no longer understanding the
-      value of a skill that's been replaced by convenience
-      - relates to this paradox of creativity,
-        - whereby when education is so streamlined that a bachelor's
-          can be attained in 10 years
-          - or when innovation is driven by AI
-        - we'll forget the value of being creative
-      	  - and it won't be something that we'll realize that we miss
-              once it's gone
-      	    - because even if we could turn away from the adumbration
-                of sensory overload,
-      	      - we won't know where to look to
+### Mastery Over Mystery Means Mystery Over Mastery
 
-#PostModernism #ParadoxOfCreativity In the future, we'll forget creativity's worth & it won't be something we realize we miss once it's gone
+To tap into the power of the unknown, we have to develop the intuition
+to evaluate the true value of unknown experiences, as well as their
+fidelity and authenticity when they are vicarious or surrogate. We
+also need to resolve the self-restraint and patience to wait for the
+bona fide phenomena, instead of self-indulgence on a rough imitation.
+You only have one first experience with something or someone, although
+yes, one can argue that there are never two experiences or two things
+exactly alike. And yet, the only way we can develop this intuition is
+through experiences and by living life.
 
-#ParadoxOfCreativity Bc if adumbrating sensory overload doesn't occlude us, the path from whence we came will be hidden and inconstructible
+## Paraparadox
 
+When I meet someone, I always try to remember how it happened. I'm not
+good at this, but I try. Some people's creativity derives from their
+model of attention and focus. They simply process different
+information and notice different things. Optimal social behavior is a
+very hard problem that requires storing and processing lots of
+information. For me, that's a challenge. For others, it appears to be
+simple and natural. However, if you constantly process and store what
+is happening around you, you are more aware of the present and you're
+more likely to remember the little things about the first time you met
+someone, which IMO is irreplaceable.
 
-- the psychological/sociological implications of a post-modern(?) world
-  - title: the death of creativity in a post modern world
-    - example: evolution of tv from 4 channels to dozens to the internet
-      - loss of universal memes.
-    - example: idioms and evolution of language
-    - example: rodney mullen interview in bones brigade?
-    - example: Ezra Pound's 1934 injunction to "Make it new!" (modernism)
-    - metamodernism
-  - decades ago, everyone was exposed to common cultural factors
-    - there were a limited number of genre's of music
-    - as more genre's of music were created and existing genres were recombinated
-      - more subcultures evolved and our society became more culturally fragmented, psychologically
-    - memetically and epimemitcally, this changes how people are psychologically imprinted
-      - this means that subcultures of people developed that shared much fewer universal psychological imprints
-  - today, everything that has been done has been done before
-    - all new genres of music/movies simply recominations of existing genre's and works
-    - everything blurs together and nothing is pure.  nothing is original.
-  - there are many means of communicating with, motivating, relating to, empathizing with and manipulating people
-    - which only work when certain psychological imprints are (nearly) universally shared
-    - what happens as our cultural artifacts become less pure and more diluted?
-    - what happens as our cultural articifers (musicians, directors, poets, etc) and people in general
-      - become more capable than ever of creating, but less capable of standing out
-        - or creating something wholly originally
-        - or creating something pure, which is less influenced by what's come before
-    - communicating through symbols implied by art that is well-known to a subset of your audience
-      - it's only possible to communicate with these symbols when both the symbols and their meaning are well-known
-      - example playing "what it's like" on guitar at a party
-  - there are some insights about creativity which can only be learned experientially
-    - by being extremely creative in a particular field and truly pushing the boundaries
-    - there are many insights which when learned firsthand through experience
-      - will resonate through your being and facillitate a much greater change
-      - than anyone could ever experience through the study of philosophy
-    - begin with these insights about insights
-  - so therefore, the death of creativity is very depressing indeed.
+### Two Paradoxes Paired to Form a Third
+
+A corollary to this is to actually restrict the number of times you
+might meet someone new or experience something completely new, since
+that requires so much energy and effort on your part. Yet, it's
+another paradox, since trying to control the experiences you will have
+limits your range of life experiences from which to discern truth.
+The only way we can hope to discern a sense of truth in the flux of
+life is by being exposed to as many authentic situations as possible.
+Yet, again, so many religions and cultures develop their traditions
+and social structures based on five or more generations of life
+experience, so how would someone know when it is worthwhile to seek
+their own understanding?
+
+### 無 de nada
+
+As for becoming a master of the present moment, I'm sure there are
+plenty of other exercises to strengthen your awareness, as well as
+tactics for knowing how to apply your learnings.
+
+## From Whence We Came?
+
+Multitudes of people who are incredibly smart, but less creative,
+especially in a world where anyone can instantly know nearly anything,
+may leave us in a place where we can not see the way back. However, if
+we can't see the way back, how can we claim the way forward?
+I view the Singularity as more of a Convergence, or exponential
+development towards a sharply plateaued sigmoid curve, which may
+consist of several steps over millions of years. But, with this
+paradox of creativity, we may accelerate our implementation of science
+and technology, but then stagnate our progression of it, eventually,
+as we separate ourselves from our past.
+
+### Metaphysical Cross-Pollination
+
+Obviously, we must move forward; our economy demands it. Yet, we need
+to keep a close eye on our trajectory.  Total loss of the factors
+which fecundate and fertilize to cultivate seeds of creativity may
+leave us stranded and lost. We need to maintain diversity of thought,
+so that we can take advantage of the cross-pollination of ideas.
+
+> Jesus Christ, think of the bees!!
+
+Otherwise, 3 or 4 generations into this phenomenon of
+quasi-omnisience, if we don't expend the energy to maintain an
+understanding of how we got here, then the skills, traits and seeds of
+originality may be lost. An understanding of what motivates artistry
+and creation, that could easily be forgotten. Or perhaps it is fated,
+in which case, it is all the more vital for us to retain the memory of
+this future moving forward.
+
+### The What, The How and The Why
+
+This has happened time and time again in history: people understand
+the "what" of their history, they may even remember the "how" of the
+past, But, they almost always forget the "why" in their story. It's
+simple to remain aware of the what happened in the past two
+generations. People may marvel at how the pyramids in egypt or stone
+statues on Easter Island. But can anyone answer the Riddle of the
+Sphinx? IMO, the same motivation that compelled the inhabitants of
+Easter Island to construct their statues also, albeit partially,
+answers that riddle.
+
+Over the next century, this phenomenon of not understandy "why" will
+rapidly become more difficult to understand.  In a world of overdriven
+sensory overload, this is already a problem.  There's so much
+information out there, that it becomes difficult to discern things
+which were once just common sense.  And, even though we appear to be
+so much more "advanced" and sophisticated, our minds are suffering.
+Needless complexity in our lives has distracted us through constant
+overstimulation.  And it's become common to philosophize and
+"discover" some mode of thinking or phenomenon that everyone used to
+be familiar with.
+
+### It's the Food and How We Cook It
+
+You can already see how this has effected us by contrasting eating
+habits now, compared to 100 to 500 years ago. Of course, there wasn't
+much decent medical or nutritional records then and no doubt that
+poverty drove people to eat less healthy.  But if you look at
+conventional wisdom about what were healty eating habits then and
+correlate it to the beliefs of an average 14 year old, you might be
+shocked.  In the past five years, our habits have changed and America
+seems much healthier, but 25 years ago, someone thought it'd be a good
+idea to load food with transfats.  And this is one example where our
+minds, overstimulated with data and the latest scientific
+understanding, thought it'd be a great idea to completely reject 5
+centuries of conventional nutritional and medical understanding.  No,
+those people had no fucking clue "how" their traditions worked, but
+they did understand "what" seemed to work.  It has always been
+valuable to draw generalizations across generations of observed
+patterns in eating and living habits.
+
+Science seems smart, but often lacks wisdom.  It appears to explain,
+yet often lacks the "why." Science without religion is blind; religion
+without science is lame.  Ahhh, sometimes lines from TV shows can be
+brilliant eh?
+
+### Generation Rift
+
+The skills and hard work that we gave up in the name of convenience
+also endowed us with invaluable knowledge.  Usually this we absorbed
+purely from sensory experience, milking cows and whatever.  We made
+valuable insights from our direct observations.  If we completely lack
+the experiences that cause those observations, or if an entire
+generation no longer shares like 90% of the observations or
+experiences of the previous generations, then a rift is formed.  It
+becomes more difficult to relate.  The younger generation has a tough
+time comprehending the belief systems of the older generation and
+simply considers them wrong, when there is immeasurable value in
+sharing our experiences. And in a major revolution, the seniors and
+elderly often find themselves targeted in the following years, as
+their experience threatens the young power.
+
+### Tempered from Experience
+
+And for those skills which seemed outdated, the youth tends to believe
+them to be a complete encumbrance.  We totally overlook how replacing
+those skills with convenience leads to a vacuum in newer generations,
+where there was once experience and knowledge. Therefore, large
+branches are severed from the tree our or collective mind to which we
+all map our belief systems and knowledge.  This reduces the diversity
+of mind and culture, which encroaches on the universal scope of ideas
+available to us.
+
+For example, common agricultural practices are mostly lost to this
+generation.  Robots are our friendly farmers and you can see their
+perfect circular crops dot the terrain from 15,000 feet. But there are
+great insights that can be attained from a life working in this trade,
+or perhaps just a few humble years. This is stuff you'll only
+understand by doing it yourself for a protracted amount of
+time. Someone could try to explain it to you, but the relevance of
+this knowledge would be completely invisible, if it can even be put
+into words. Farmers are closer to nature. Farmers learn to be closer
+to animals, at least they do if they're not using cruel factory
+farming techniques.
+
+> Sidenote: There is an economic benefit to restraint on cruel
+> agricultural practices, which is that it restrains livestock
+> production to smaller operations. This translates into higher
+> prices and profits shared amoung more people. Good luck with that
+> one though.
+
+### Líf and Lífþrasir in a Hollow Tree
+
+My point is, by severing ourselves from longstanding cultural
+practices, we poison that tree, culling all the branches to leave just
+one. In doing so, we stunt our own growth and our fate may be that our
+great-grandchildren are all blind.  Or lost.  Or unaware of how they
+were born into their world? We need to maintain the practice of
+cultural practices and trades which can be automated, so that we can
+continue to maintain this diversity.  It's obviously not efficient,
+but our future depends on our ability to understand our world. After
+all, we only arrived here by understanding the world around us, right?
+
+In 2030, education will be so streamlined that equivalent of a
+bachelor's degree could be attained in less than 10 years, instead of
+17.  Innovation will eventually be driven by AI.  And the more facets
+of life that are supplanted by AI, the darker the shadow of nihilism
+will grow. Nihilism scares me more than any robot or zombie apocalypse
+because we can never be sure to prevent or defeat it, no matter how
+much progress we achieve.  In fact, it is progress itself that
+strengthens the spectre of nihilism. The more we eliminate disease and
+poverty, the more certain we are to struggle against widespread
+nihilism.
+
+### Winning!
+
+Imagine that. The more we win, the more certain we are to lose.  To
+lose hope. To lose progress. To lose understanding. The seeds of our
+salvation and hope lie in recognizing this early and fomenting
+cultural resilience against it. In a world where there is no reason to
+work, we cannot forget the value of hard work. In a world where there
+is no disease, we cannot forget the pain, fear and regret so often
+experienced in a hospital or a deathbed. In a world where there is no
+poverty, we cannot forget the valuable lessons we learned enduring
+stagnant poverty. If we don't manage to push forward with this
+information, we will be forever cursed to being pulled back. When that
+happens, we may have forgotten where we came from, so how can we know
+where to go?
+
+### Never Forget 天命
+
+So I hope we never forget the value of being creative.  It won't be
+something that we realize we miss once it's gone because even if we
+could turn away from the adumbration of sensory overload, we won't
+know where to look.  If we forget, we will be lost.  As progress
+accelerates, culture exponentiates, as do its effects on society. With
+culture, we have the opportunity to nurture our tree to see it blossom
+or see it curl inward as we become fastidiously blinded by hubris.
+
+...
