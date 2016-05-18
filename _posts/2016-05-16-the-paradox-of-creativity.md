@@ -2,7 +2,7 @@
 title: "The Paradox of Creativity"
 categories: blog
 tags: "philosophy singularity postmodernism metamodernism"
-headline: ""
+headline: "I miss whatever part of me thought to write this down."
 author:
   name: "David Conner"
 excerpt: "Obviously, we must move forward; our economy demands it. Yet, we need
@@ -12,7 +12,7 @@ leave us stranded and lost. We need to maintain diversity of thought,
 so that we can take advantage of the cross-pollination of ideas."
 ---
 
-In the future, we'll forget creativity's eminance & it won't be
+In the future, we'll forget creativity's eminence & it won't be
 something we realize we miss once it's gone. The path from whence we
 came will be hidden and inconstructible. Adumbrating sensory overload
 will occlude our path, if we even think to look for it.

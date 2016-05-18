@@ -2,10 +2,13 @@
 title: "The Death of Creativity"
 categories: blog
 tags: "philosophy singularity postmodernism metamodernism"
-headline: ""
+headline: "Save the Touchstones!"
 author:
   name: "David Conner"
-excerpt: ""
+excerpt: "A myriad of psychological and sociological challenges face us
+tomorrow, born out of a world where novelty is scarce, the prospect of
+individuality, outnumbered, faces sublimation and creativity wilts in
+terra cocta."
 ---
 
 A myriad of psychological and sociological challenges face us
