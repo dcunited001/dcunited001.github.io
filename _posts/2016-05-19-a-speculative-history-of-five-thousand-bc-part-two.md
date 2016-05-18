@@ -2,16 +2,14 @@
 title: "A Speculative History of 5,000 B.C. (Part Two)"
 categories: blog
 tags: "anthropology"
-headline: Calamity Echoes Through Human Psyche
+headline: "Calamity Echoes Through Human Psyche"
 author:
   name: "David Conner"
-excerpt:
+excerpt: ""
 ---
 
 - part two starts with 8,000 BC - 5,000 BC, then covers up to 4,000 BC
 - part three covers 4,000 BC through 2,000 BC and then sums up the rest
-
-message dr anderson
 
 Lets be real, up to this point, humanity has been sticking to the
 rivers and lakes that it's used to.  But that's all about to change.
@@ -19,9 +17,41 @@ Things are starting to heat up.  Literally.
 
 As I stated in the last article, this writing represents my personal
 thoughts on human history from the Neolithic through the Bronze Age
-and it shouldn't be take as fact.  It's titled "A Speculative History"
-for a reason.  I hope to provide a good story and possibly spark your
-interest.  If I do, follow up with some research yourself.
+and it shouldn't be taken as fact or reflect my understanding of
+historical facts.  It's titled "A Speculative History" for a reason.
+I hope to provide a good story and possibly spark your interest.  If I
+do, follow up with some research yourself.
+
+### Pre-Historic Written Language
+
+What I can state with confidence is that the story that we know is not
+the complete truth. There is a lot missing and I think various empires
+added in a lot of content through the ages. It does appear that there
+was no system of writing that emerged before Sumeria. If there was, it
+would show up across the world.  The invention of written language was
+viral because if it's economic implications and it's ability to
+systemitize belief systems. IMO, Vinča and ICV writing samples were
+ideographic proto-writing, which would be formative in establishing
+symbols to link concepts across tribally structured peoples. That is,
+it seems people discovered that they could establish symbols that
+would enable them to communicate across tribal boundaries.
+
+A symbolicized phonetic written language just wouldn't seem natural
+for the people of 5,000 B.C or earlier. Written language only becomes
+useful when people can read what you write and it's unlikely that
+verbal language was consistent enough to enable a written language to
+apply to more than a few thousand people at most. If there were some
+advanced written language, it's unlikely that all samples of such
+language from before 5,000 B.C. were written on a degrading medium
+such as wood, instead of fired clay.  Linguistic analysis of Sumerian
+clay tablets clearly shows the exceptionally high rate of evolution of
+the language from the 4th millenia to the 3rd. This matches what I'd
+expect to see when written language is a novel concept.
+
+However, I am interested to learn more about Harappan and ICV culture
+because it is clear that we've only scratched the surface.  So I'm
+hopeful that we'll have the chance to study more of their
+establishments.
 
 ### Calamity Echoes Through Human Psyche
 
@@ -77,6 +107,12 @@ fast, for some areas.  People would notice --
 > starving.
 
 Boom. Seafare.
+
+In fact, a recently discovered
+[underwater site in Florida](http://phys.org/news/2016-05-evidence-humans-southeastern-earlier-previously.html)
+shows that pre-Clovis peoples certainly inhabited the Americas more
+than 14,500 years ago. This begs the question: did people of that time
+have access to seafaring technology?
 
 I really think that this ever-changing world created the conditions
 that required humanity to innovate or perish.  By developing crude
