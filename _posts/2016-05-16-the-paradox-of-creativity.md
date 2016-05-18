@@ -34,7 +34,7 @@ In a world where almost everything has been discovered, how does one
 cultivate creativity? There is a skill of creating something without
 knowing about it.  Some ideas are just natural extensions of others;
 maybe two to three steps away.  If you're lucky, you'll have a head
-start on those innovations which are so close the something that
+start on those innovations which are so close to something that
 exists and is well known.  Yet, these ideas will naturally be reached
 by most people who think about them.
 
@@ -42,9 +42,9 @@ Other ideas and techniques are much more difficult to reach. If you're
 lucky, you identify something truly new that can be recombinated with
 everything applicable. These gems may require excruciating
 introspection and magnificent insight.  Being capable of this kind of
-creativity is a skill! Some have a talent for it, but it can be
-practiced, improved and understood. It is not some mysticism only
-possible for eccentrics.
+creativity is an exceedingly rare skill! Some have a talent for it,
+but it can also be practiced, improved and understood. It is not some
+mysticism only possible for eccentrics.
 
 ### Life is Miracle Grow for Creatives
 
@@ -64,7 +64,8 @@ knowledge about those domains.
 
 Limitations to communication and cultural transmission have been
 evaporating since the introduction of broadband and pervasion of
-internet video. When I wanted to learn how to windmill from the
+internet video. When I wanted to learn how to windmill, all I had was
+the
 [Mother Goose Ultimate Windmill Guide](https://web.archive.org/web/20050415014353/http://www.angelfire.com/hiphop2/mothergoose/).
 It was hard as shit to teach myself that.  After a few months of
 rolling around in my garage, I miraculously met a bboy that helped me
