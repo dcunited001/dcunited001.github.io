@@ -15,7 +15,7 @@ coding for the muse device
   - check forum post & update
 - why i had to recreate the project over and over again
   - review git commits (then consolidate, so messages are gone)
-- problems: 
+- problems:
   - file structure issues
   - needed to add "-lc++" to "OTHER_LDFLAGS"
   - obscure errors when accessing IXNMuseManager with the API (everything else worked alright)
@@ -23,13 +23,13 @@ coding for the muse device
     - i have practically zero experience with objective-c and also, my design was overly complicated
 
 blogs on swift:
-- dependency injection with Swinject. problems implementing auto-injection. 
-  - explain some ideas for funcitonal programming, 
+- dependency injection with Swinject. problems implementing auto-injection.
+  - explain some ideas for funcitonal programming,
     - especially those combining category theory and combinatory logic
 - using reflection for metaprogramming
 - functional programming paradigms.  (category theory implemented in swift? Inversion-of-Control)
 - modeling problems with functional programming techniques (way different than OOP)
-  
+
 Need for a tech-oriented language:
 - one language w/ 16 or 32 chars (hex)
   - very useful in minimizing search time
@@ -43,11 +43,11 @@ Need for a tech-oriented language:
     - and using symbols that are rotationally and symmetrically invariant
   - another pattern may be that the number of strokes for the 16-32 char lang is equivalent to the base
     - 0/1 have 1 stroke 2/3 have 2 strokes, 4567 have 3 strokes, etc.
-- but the point is that there is or may be 
+- but the point is that there is or may be
   - a pair of universal written language forms that map to universal semantics
 - that is, each sufficiently advanced race would invariably produce the same communication forms/protocols
   - and one primary advantage to this is that it would aid communication limitations imposed by speed of light
-    - that is, if there were some triple of communication protocol, symbols and semantics 
+    - that is, if there were some triple of communication protocol, symbols and semantics
       - which was based on something so universal that it transcended space & time
     - then, each culture in the galaxy or universe that became sufficiently advanced would develop this
       - at least until that culture developed technology which transcended the limits of the speed of light
@@ -74,16 +74,16 @@ Need for a tech-oriented language:
         - if instead, you mean quantum computing as increasing the number of bits available for simultaneous processing
           - then ... maybe those bitcruncing algs would be different.
           - but i'm pretty sure these versions of quantum computing are really fucking hard
-            - that is, encoding 2 bits of state with each electron - e.g. (overly-simplistic) one with charge and one with spin 
+            - that is, encoding 2 bits of state with each electron - e.g. (overly-simplistic) one with charge and one with spin
             - these are very difficult to design and very difficult to spatially optimize (reduce in size)
           - this is not the same thing as quantum computing as it's usually discussed (that is, as it's employed for Shor's algs)
             - but it would accelerate traditional computing
-        - but quantum computing which is employed for shor's algs 
+        - but quantum computing which is employed for shor's algs
           - and uses entanglement or other mechanisms to link operations as they proceed thru the processor
-          - this doesn't really aid some of the most basic indexing algorithms for text 
+          - this doesn't really aid some of the most basic indexing algorithms for text
             - or for genomics, which is what led me to discovering this universal language phenomena
-    - my point is that, the combination of 
-      - (1) algorithmic benefits and 
+    - my point is that, the combination of
+      - (1) algorithmic benefits and
       - (2) the ensuing insight of a truly universal language
       - therefore, may converge to produce the phenomena of a universal language
         - that is, there is both the need (#1 above) and the comprehension of the possibility & benefits (#2)
@@ -165,13 +165,13 @@ Need for a tech-oriented language:
 - confession inspired by implanted memories?
 
 radial aspects of pulsar and planetary discovery?
-- if we've detected X planets, an`d we know that only planets who's orbit crosses 
-  - within the diameter can be discovered, 
+- if we've detected X planets, an`d we know that only planets who's orbit crosses
+  - within the diameter can be discovered,
   - how would one construct a statistical method that tells us how many to expect
   - the statistic would also have to account for the likelyhood of planet orbit and planet disk formation
     - to align with the rotation of the galaxy
 - for pulsars the same thing is relevant for universal navigation systems.
-  - in other words, using pulsars to pinpoint universal location works, 
+  - in other words, using pulsars to pinpoint universal location works,
     - but we can only see the pulsars that are lined up with us
     - this works for galactic navigation and even for local super group navigation
   - but it doesn't work if you were in another corner of the universe (several million lightyears away)
@@ -259,36 +259,6 @@ blog about all the blogs i haven't written
 - article on building/installing a bootloader, securely
 
 
-
-- man should prove himself wise enough to preserve nature as it is before attempting to alter it
-
-- quasi-religious ideals
-  - acting as though you literally are the other person
-    - if we are all one, then this is true
-  - accessing your future self and your genius
-  - cultivating your connection with God
-    - whatever you may believe to be god
-  - cultivating virtues and leadership in yourself and others
-  - living your life as though it was a movie and you're the hero
-    - what's your story?
-    - this mindset could go horribly wrong, so how to limit it?
-      - e.g. someone has the wrong view of reality, does something horrible
-      - or someone decides to be the villain
-  - thinking outside of time
-  - thinking outside the box by lifting arbitrary constraints and taking concepts to their limits
-    - what happens if i take that to infinity? e.g.
-      - what if the speed of communication were infinite
-      - what if all knowledge was omnipresent
-      - what if cost of energy was no longer a constraint
-    - ignore technological constraints
-      - what if the speed of light was not a limitation
-    - simulate ancient models of thought
-      - think hard about problems without cheating by applying today's knowledge/technology
-      - how would aristotle have reached these conclusions?
-      - could the ancient greeks known this and if so, how did they reach those conclusions?
-- as we hurtle towards relative omniscience and relative omnipotenc
-  - isn't it important for us to discuss what makes a group worthy of ...
-    - ... "handling this power?" i think that's what i meant to write
 
 - ancient people's knowledge was far more advanced than we give them credit for
   - quite often, a system observed with less information is more simply understood than when perceiving the same system with much more info.
@@ -415,7 +385,7 @@ Applied Category Theory:
   - instead of being based on Position Space
   - it is based on "Momentum Space," which is similar to a vague aha moment I had
     - where i felt that, for some reason, the curvature of space would have something to do with momentum
-      - if some kind of invariance were to be preserved between 3+ observers 
+      - if some kind of invariance were to be preserved between 3+ observers
         - (i think this was the line of thought i was following)
 - can we actually pinpoint the source location for gravitational waves?
   - the difference here will tell us a lot about the universe
@@ -425,8 +395,8 @@ Applied Category Theory:
   - https://en.wikipedia.org/wiki/Gravitational_wave
   - https://en.wikipedia.org/wiki/Tests_of_general_relativity#Strong_field_tests:_Binary_pulsars
 - how does gravity exert force on other objects, in respect to it's speed for travel
-  - gravitational doppershift?  
-    - a relativity like theory is needed to specify how change in speed changes expression of gravity.  
+  - gravitational doppershift?
+    - a relativity like theory is needed to specify how change in speed changes expression of gravity.
     - there should be a way to deduce true locations of objects by observing their estimated position
       - in relation to the estimated position of massive objects moving towards/away from them at high speeds
     - at high speeds, there should be some difference in the momentums of each object
@@ -436,16 +406,16 @@ Applied Category Theory:
     - this distortion travels at a speed and has fluid-like properties
 - the fluidlike nature of space should cause some changes in the behavior of spacetime
   - for large, fast moving objects.  gravity should be greater ahead of them and lesser behind their path.
-  - however, the fluidlike nature will create higher level, observable phenomena 
+  - however, the fluidlike nature will create higher level, observable phenomena
     - visible from the propagation of gravity from the object
 - the total effect of an object on the spacetime around it should be equal, regardless of its motion
   - (for some reason, i really think i was going somewhere with this idea, but i didn't capture it)
     - acceleration changes the way gravity is expressed?
-    - density changes the way gravity is expressed? 
+    - density changes the way gravity is expressed?
       - how does each component's pull on each other affect the total pull on an observer?
-  - unless of course, its mass changes. 
-  - as the changes in space curvature radiate out, the amount of pull that is radiating out 
-    - should sum up to an equivalent amount 
+  - unless of course, its mass changes.
+  - as the changes in space curvature radiate out, the amount of pull that is radiating out
+    - should sum up to an equivalent amount
       - would the density of the object affect this amount?
         - it should.  the counteracting forces of mass that pulls against itself
           - should mean the object has less pull on space around it, with respect to the mass of the object
@@ -454,7 +424,7 @@ Applied Category Theory:
             - no, but yes (maybe)
             - this is because the components of an object pull against each other with 1000 times the strength
               when the object is 1000 times denser (relationship is not truly linear)
-      - that is, for a large oject, like the sun or earth, 
+      - that is, for a large oject, like the sun or earth,
         - do the gravitational forces counteracting each other detract from the total gravitational force?
       - this is beside the point
   - if the object is constant, the oval of distorted space around it doesn't change shape
@@ -626,10 +596,10 @@ Applied Category Theory:
   - do higher order patterns emerge in the resonance of hydrogen molecules around similar/disparate macromolecules?
     - if so, would these be detectable?  or does Magnetization Transfer already utilize the limits of what's possible here
     - higher order patterns may only emerge around specific cell types
-    - is 3.0T MRI even strong enough to do anything here?  
+    - is 3.0T MRI even strong enough to do anything here?
   - can ion-interactions be utilized to infer more information?  particularly Sodium 23, as it's one of the primary neuro-ions
-  - what can Magnetization Transfer tell us about ion-channels in the brain?  
-    - if Magnetization Transfer is all about how free ions react to the presence of a strong magnetic 
+  - what can Magnetization Transfer tell us about ion-channels in the brain?
+    - if Magnetization Transfer is all about how free ions react to the presence of a strong magnetic
   - can heavy water be used as a contrast agent?  (yes, it can - [Patent (2013)](https://www.google.com/patents/US20130142724)
     - furthermore, can heavy water be combined with MT? (would need before and after shots)
       - this would be particularly effective in the presence of contrasting agents!  ... maybe
@@ -640,7 +610,7 @@ Applied Category Theory:
   - this is also true of some medications
     - by studying how brain chemistry is altered and how genetic programs respond to various medications
       - quickly cycling medications *may in some cases* allow the brain to reach a stable point
-      - at this point, some med cycling could be halted and the brain -- with a consistent diet -- 
+      - at this point, some med cycling could be halted and the brain -- with a consistent diet --
         - may acheive stability that it could not either with consistent medication or without medicantion
   - identifying patterns of responses to various brain chemistries and especially by identifying genetic and dietary effect
     - will be incredibly useful in properly treating mental illness
