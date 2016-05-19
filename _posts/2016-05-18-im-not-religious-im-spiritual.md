@@ -231,6 +231,9 @@ Atheism as a basis for laws can be good
 
 My own beliefs? To gloss over a few:
 
+
+**split into part two**
+
 ## My Beliefs?
 
 I'll just gloss over a few of these.
@@ -265,8 +268,16 @@ are clearly stated rules, but because someone who equinanimously
 informs their action with empathy and awareness just wouldn't break
 those rules.
 
-  - acting as though you literally are the other person
-    - if we are all one, then this is true
+- acting as though you literally are the other person
+  - if we are all one, then this is true
+
+- this is really the most important aspect
+  - almost everything else could be dropped or redefined
+  - also, one has to decide on:
+    - relative or absolute morality
+    - relativism and/or utilitarianism vs. pragmatic expression of
+      philosophy
+    - each has their dangers
 
 ### The Unknown
 
@@ -319,6 +330,18 @@ possible future selves as already existing and act accordingly.
 
 - of course, it's important to be realistic here.
 
+### Light and Dark, Good and Evil
+
+
+
+### Everything Has a Purpose
+
+### Compassion & Empathy
+
+
+### Self-Sacrifice
+
+### The Relative and the Absolute
 
 ### Independence
 
@@ -358,6 +381,10 @@ each is fairly comprehensive, we would be well served through their
 study. At the least, we learn about what other people believe.
 
 ### Judgement & Forgiveness
+
+
+### Providing Purpose
+
 
 
 ### Understanding Our Personal Circumstances
