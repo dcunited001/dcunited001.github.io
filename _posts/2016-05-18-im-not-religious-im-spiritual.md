@@ -1,8 +1,8 @@
 ---
 title: "I'm Not Religious, I'm Spiritual"
 categories: blog
-tags: "anthropology"
-headline: "Calamity Echoes Through Human Psyche"
+tags: "anthropology religion sociology psychology"
+headline: ""
 author:
   name: "David Conner"
 excerpt: ""
@@ -195,7 +195,7 @@ invalidating itself and the belief systems of it's followers. Yet, it
 doesn't necessarily propagate the new beliefs to those followers.
 This sows a sense of distrust between generations.
 
-### Relgious Beliefs are Vulnerable to Exploitation
+### Relgious Beliefs Are Vulnerable to Exploitation
 
 More to the point, this flux creates an opportunity for
 exploitation. Whoever funds the science exerts control of the
@@ -207,7 +207,60 @@ intentions in mind. IMO, I'd rather have policy decisions based on
 something unchanging, like humanist values. At the same time, I don't
 think it's a good idea for people to entirely base public policy on
 
-### Arguments/Statements are not logical
+### Arguments Not Based On Propositional Logic
+
+Ok, this is fair, but it's also my personal favorite. I somehow got in
+an argument with someone on Facebook about atheism, where he was
+berating me for arguing that religion has value, regardless of its
+scientific provability. Ok, the argument was heated and we were both
+berating each other. I made most of the counter arguments above, but
+he asserted that I knew nothing of propositional logic. Again, this
+was fair because my argument didn't actually hold under propositional
+logic. I acknowledged this and he immediately incurred an aneurism.  I
+then introduced category theory and higher-order logic, which he knew
+nothing about. He then countered by blocking me on Facebook. I think
+it's because I won.
+
+## Part Two
+
+### Indispensible Foundations to Mercurial Cultural Shift
+
+- while i admit it's wise to base belief systems on demonstrable facts
+  - when the basis for such truths constantly shifts, as it does with science
+  - this is actually no basis at all
+  - if the basis for truth constantly shifts around based on our
+    currrent level of knowledge, the cultural resilience derived from
+    extrapolating from that foundation is lost
+
+- I want to make it clear that it's not my intention to cast judgement
+  on atheists. that's your belief system.
+  - however, i feel like religion is really vulnerable at this moment
+    in history
+    - even though it has tremendous value towards accumulating wisdom
+      through history to guide the actions of future generations
+    - and yet, the major world religions are losing their power and
+      influence to science, which seems much more capable of
+      demonstrating truth and mastery over the world
+      - however, IMO, religion equips you with the wisdom of dozens of
+        generations -- and yet, it's outright rejected by most
+        atheists
+    - and yet, it is as if atheists totally disregard the power of the
+      human mind and both individual and cultural beliefs
+      - if you chose atheism or rejected religion based on your
+        intelligence, how could you possibly not understand the power
+        of the human mind?
+
+- so no, it's not atheism or atheists that I have a problem with,
+  - what irriates me is when atheists assault religion in an
+  evangelical way
+    - especially when
+
+
+## Part Two
+
+- tectonic
+- mercurial
+- errata
 
 ### ... ?
 
@@ -221,8 +274,6 @@ must cooperate or we cannot hope to resolve.
 had a list
 of rules that were clearly enumerated and did not change for millenia.
 
-
-
 . It is incredibly ignorant to say
 to that there is not
 
@@ -230,7 +281,6 @@ Atheism as a basis for laws can be good
 - but also it can be misguided
 
 My own beliefs? To gloss over a few:
-
 
 **split into part two**
 
@@ -254,7 +304,6 @@ today, I find it difficult to defend because I haven't strongly
 embraced any religion.  I can't exactly use my interpretation of bible
 verses as rhetorical defense because who am I to interpret something
 like that, if I don't claim strong personal belief.
-
 
 
 gnostic/theosophist influence:
