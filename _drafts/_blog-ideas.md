@@ -22,6 +22,10 @@ coding for the muse device
     - but the net effect was: i had to wall off access to the lib within objective-c which kinda sucked
     - i have practically zero experience with objective-c and also, my design was overly complicated
 
+compare 21st century america to fall of rome as warning
+- compare prescription medication to lead in aqueducts
+  - also, we literally have lead in water
+
 blogs on swift:
 - dependency injection with Swinject. problems implementing auto-injection.
   - explain some ideas for funcitonal programming,
