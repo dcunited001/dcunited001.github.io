@@ -3,7 +3,7 @@ title: "Workplace Bullying: Part Two - General Strategies"
 categories: blog
 author:
   name: "David Conner"
-tags: "sociology psychology workplace-bullying"
+tags: "sociology psychology bullying"
 ---
 
 I'm not sure the term **Workplace Bullying** really captures the

@@ -3,7 +3,7 @@ title: "Workplace Bullying: Part Three - Specific Tactics"
 categories: blog
 author:
   name: "David Conner"
-tags: "sociology psychology workplace-bullying"
+tags: "sociology psychology bullying"
 ---
 
 I hope to share what has happened to me and around me, so that other's

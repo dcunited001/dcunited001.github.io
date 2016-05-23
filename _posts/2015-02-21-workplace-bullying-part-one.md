@@ -2,7 +2,7 @@
 title: "Workplace Bullying: Part One"
 author:
   name: "David Conner"
-tags: "sociology psychology workplace-bullying"
+tags: "sociology psychology bullying"
 categories: blog
 ---
 

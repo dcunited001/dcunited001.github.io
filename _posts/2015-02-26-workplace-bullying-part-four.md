@@ -3,7 +3,7 @@ title: "Workplace Bullying: Part Four - Tools Against Bullying"
 categories: blog
 author:
   name: "David Conner"
-tags: "sociology psychology workplace-bullying"
+tags: "sociology psychology bullying"
 ---
 
 ## Same Team! *SAME TEAM!*
