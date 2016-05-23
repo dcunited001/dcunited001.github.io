@@ -3,7 +3,7 @@ title: "Bedbugs, the WORST To Ever Happen To Me, Yet"
 categories: blog
 author:
   name: "David Conner"
-tags: "psychology ptsd"
+tags: "psychology anecdotes"
 ---
 
 ### Now, this is a story all about how my life got flipped-turned upside down!
