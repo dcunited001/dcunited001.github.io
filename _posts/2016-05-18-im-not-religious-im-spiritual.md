@@ -34,6 +34,8 @@ deny that a good story can be formative in how our youth construct
 their lens and perspective. Myth and religion are like dies from which
 our children's minds are cast.
 
+- more on this analogy
+
 To disempower religion and its institutions is not simply
 negligence. It is an assault on the resilience of social fabric
 supporting individuals, families and communities. It degrades the
@@ -43,9 +45,11 @@ No, its institutions are not perfect, but neither could be anything
 created by man. But their propensity for benefit is immeasureable.
 
 - atheism for policy, etc.
--
 
-To deny it on a personal level... but systematically ... blah blah blah
+To deny it on a personal level, ... but systematically ... blah blah
+blah
+
+atheism as an inverson of religion
 
 It's horrifying to see a concerted effort to discredit religion and
 its institutions over the course of several generations.  This is an
@@ -56,7 +60,6 @@ religion, one augments is ability to build a resilient livelihood. In
 anticipation of an unprecedented storm, the man, woman or family who
 built the strongest house can rest assured that his/her family will
 sleep at night.
-
 
 - irrefutable value of myth/religion
 
@@ -420,12 +423,9 @@ possible future selves as already existing and act accordingly.
 
 ### Light and Dark, Good and Evil
 
-
-
 ### Everything Has a Purpose
 
 ### Compassion & Empathy
-
 
 ### Self-Sacrifice
 
