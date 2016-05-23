@@ -1,5 +1,5 @@
 ---
-title: "I'm Not Religious, I'm Spiritual"
+title: "I'm Not Religious, I'm Spiritual: Casting Men with Myth"
 categories: blog
 tags: "anthropology religion sociology psychology"
 headline: ""
@@ -16,6 +16,8 @@ these critics miss the point. These myths attempt to explain the what
 and how in the world.  Sometimes cracks and faults in these myths can
 can be found.
 
+## Casting Men with Myth
+
 Yet far more important, especially for our ancient ancestors
 struggling to survive, myth encoded information vital to that
 struggle. Even today, myth, whether it is religious or not, encodes
@@ -25,7 +27,72 @@ basis of factuality is lunacy.  It's a bad argument to make with
 religion, since to be effective it needs to be taken as truth,
 especially by those who are too young to understand this value.
 
-And so I think atheism is misguided.  IMO, athiests say there's no
+### Our Irreplaceable Golden Dies
+
+There is irrefutable value to myth and religion. You simply cannot
+deny that a good story can be formative in how our youth construct
+their lens and perspective. Myth and religion are like dies from which
+our children's minds are cast.
+
+To disempower religion and its institutions is not simply
+negligence. It is an assault on the resilience of social fabric
+supporting individuals, families and communities. It degrades the
+tools and social networks that support people through the world. And
+yes, these institutions and belief systems are vulnerable to abuse.
+No, its institutions are not perfect, but neither could be anything
+created by man. But their propensity for benefit is immeasureable.
+
+- atheism for policy, etc.
+-
+
+To deny it on a personal level... but systematically ... blah blah blah
+
+It's horrifying to see a concerted effort to discredit religion and
+its institutions over the course of several generations.  This is an
+effort to disempower the common man by robbing him of the collective
+knowledge and wisdom accumulated over generations. By studying and
+adhering to a belief system and code of ethics established by
+religion, one augments is ability to build a resilient livelihood. In
+anticipation of an unprecedented storm, the man, woman or family who
+built the strongest house can rest assured that his/her family will
+sleep at night.
+
+
+- irrefutable value of myth/religion
+
+- while i admit it's wise to base belief systems on demonstrable facts
+  - when the basis for such truths constantly shifts, as it does with science
+  - this is actually no basis at all
+  - if the basis for truth constantly shifts around based on our
+    currrent level of knowledge, the cultural resilience derived from
+    extrapolating from that foundation is lost
+
+- I want to make it clear that it's not my intention to cast judgement
+  on atheists. that's your belief system.
+  - however, i feel like religion is really vulnerable at this moment
+    in history
+    - even though it has tremendous value towards accumulating wisdom
+      through history to guide the actions of future generations
+    - and yet, the major world religions are losing their power and
+      influence to science, which seems much more capable of
+      demonstrating truth and mastery over the world
+      - however, IMO, religion equips you with the wisdom of dozens of
+        generations -- and yet, it's outright rejected by most
+        atheists
+    - and yet, it is as if atheists totally disregard the power of the
+      human mind and both individual and cultural beliefs
+      - if you chose atheism or rejected religion based on your
+        intelligence, how could you possibly not understand the power
+        of the human mind?
+
+- so no, it's not atheism or atheists that I have a problem with,
+  - what irriates me is when atheists assault religion in an
+  evangelical way
+    - especially when
+
+
+
+I believe atheism is misguided.  IMO, athiests say there's no
 room for God because it has been shown or can be shown that there is
 no God. The facts do not permit it. That is often the basis of their
 religion of rejection of religion. In my opinion, that is so
@@ -76,6 +143,8 @@ efficiently rule his country? By creating whatever rules he sees fit
 to project through state-worship? I'd prefer a world that worships an
 imaginary flying spaghetti monster, if such a being simply and clearly
 enumerated a list of rules that remained constant for millenia.
+
+### There Is No Man Above Him
 
 That is one of the aspects that I admire about Christianity.  Jesus
 declares himself to be "King of kings and Lord of lords." And this
@@ -225,36 +294,6 @@ it's because I won.
 
 ### Indispensible Foundations to Mercurial Cultural Shift
 
-- while i admit it's wise to base belief systems on demonstrable facts
-  - when the basis for such truths constantly shifts, as it does with science
-  - this is actually no basis at all
-  - if the basis for truth constantly shifts around based on our
-    currrent level of knowledge, the cultural resilience derived from
-    extrapolating from that foundation is lost
-
-- I want to make it clear that it's not my intention to cast judgement
-  on atheists. that's your belief system.
-  - however, i feel like religion is really vulnerable at this moment
-    in history
-    - even though it has tremendous value towards accumulating wisdom
-      through history to guide the actions of future generations
-    - and yet, the major world religions are losing their power and
-      influence to science, which seems much more capable of
-      demonstrating truth and mastery over the world
-      - however, IMO, religion equips you with the wisdom of dozens of
-        generations -- and yet, it's outright rejected by most
-        atheists
-    - and yet, it is as if atheists totally disregard the power of the
-      human mind and both individual and cultural beliefs
-      - if you chose atheism or rejected religion based on your
-        intelligence, how could you possibly not understand the power
-        of the human mind?
-
-- so no, it's not atheism or atheists that I have a problem with,
-  - what irriates me is when atheists assault religion in an
-  evangelical way
-    - especially when
-
 
 ## Part Two
 
@@ -286,7 +325,7 @@ My own beliefs? To gloss over a few:
 
 ## My Beliefs?
 
-I'll just gloss over a few of these.
+I'll just gloss over a few of these
 
 Just wanted to summarize over those, although that list is by no means
 complete. And please let me emphacize: I in no way intend or intended
