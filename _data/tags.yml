@@ -75,6 +75,8 @@
   :name: Psychology
 - :slug: language
   :name: Language
+- :slug: anecdotes
+  :name: Anecdotes
 - :slug: jamskating
   :name: Jamskating
 - :slug: creativity
@@ -89,6 +91,8 @@
   :name: Hackatons
 - :slug: medicine
   :name: Medicine
+- :slug: bullying
+  :name: Bullying
 - :slug: math
   :name: Math
 - :slug: category-theory
