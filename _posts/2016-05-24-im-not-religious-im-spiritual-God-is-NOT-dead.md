@@ -22,8 +22,11 @@ there seem to be a lot of people in the world who hold nothing sacred.
 In this series, I hope to convince you that religion is more relevant
 than ever in the 21st century. It is precisely because of science's
 ever-shifting basis from which we extrapolate other ideas, including
-policy decisions. It is just as vulnerable to manipulation as any
-human institution, perhaps moreso because it doesn't have a permanent
+policy decisions. Because of this unsteady foundation, among other
+exigences, I would proclaim "God is NOT dead!"
+
+Science is just as vulnerable to manipulation as any human
+institution, perhaps moreso because it doesn't have a permanent
 foundation. Science is amazing for explaining the material world, but
 that's just about it. It easily *describes* human and social behavior,
 but provides no mechanism for accumulating transgenerational knowledge
