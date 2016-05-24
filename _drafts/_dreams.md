@@ -10,7 +10,7 @@ organize content
 - nuclear holocaust dream
   - there is war with russia due to both Russian and US aggression in eastern Europe
     - ultimately, russia provokes a US response to war, but unintentionally so
-      - that is Russia did not intent to provoke a US response to war, 
+      - that is Russia did not intent to provoke a US response to war,
       - but that's what it escalated to
     - i justified the circumstances i found myself in early on in the dream with this explanation
   - in the beginning of the dream, i find myself in the battlefield as a politician with no war experience
@@ -23,7 +23,7 @@ organize content
     - these people holding me and my time hostage are trying to say the situation can be dispersed
       - if i just betray my country and switch sides
       - basically, they're offering me a chance to switch sides for my own skin
-      - for whatever reason, it's tempting to comply (if in name only), but i don't, basically for semantics 
+      - for whatever reason, it's tempting to comply (if in name only), but i don't, basically for semantics
         - that is, even if i don't think i'd confer advantage 2 my country's enemies via a betrayal, in name only
           - i still would prefer to resist in the face of death to prove a point
     - i'm holding out hope that i'll be rescued
@@ -32,12 +32,12 @@ organize content
   - the US team comes to rescue us. suddenly things escalate into official state action from both sides
     - not yet a war though.  but there is an official battle and putin is there.
     - we get an opportunity and somehow i make it out though just barely.  there are lots of casualties
-  - there is a huge battle in the supermarket area.  
+  - there is a huge battle in the supermarket area.
     - i escape, even though the space we're fighting in is less than preferable (no cover in a parking lot)
-    - at this point, someone kills putin.  like shoots him in front of me.  
+    - at this point, someone kills putin.  like shoots him in front of me.
       - obviously, i'd prefer not to talk about this, but it happened in my dream.
-      - honestly, i think putin's a good leader for russia.  
-      - and the rest of my dream explains why chaotic conditions for russia and eastern europe 
+      - honestly, i think putin's a good leader for russia.
+      - and the rest of my dream explains why chaotic conditions for russia and eastern europe
         - would spell absolute disaster for the modern world
   - there are lots of battles in ravines, lightly to heavily forested.  lots of browns and greens in imagery.
     - the long ravines remind me of star war's trench runs, but with lots of infantry battles instead of air
@@ -54,7 +54,7 @@ organize content
       - but no one gives her threats credibility, nor do they want to, since russia just lost the war basically
   - again, no one takes her seriously, which is a huge mistake.
     - she starts nuking, first one or two cities in northern eastern europe (think western ukraine or poland)
-    - then more, quite quickly, without even a realistic chance for a NATO/American nuclear response 
+    - then more, quite quickly, without even a realistic chance for a NATO/American nuclear response
       - or tactical counterforce response (some of these details i'm layering onto my dream)
         - not that i'm making shit up, but there were some events/details in the dream that require explaination
           - that we couldn't destroy their nuclear capability in response to their nuclear action in time
@@ -67,7 +67,7 @@ organize content
     - as this is happeneing, her image is broadcasting her threats and she's laughing maniacally
   - the last one that i see go off is very close by (< 100 miles or so) but it's huge.
     - it was specifically mentioned as a hydrogen bomb
-    - i tried to take cover in a ditch by the side of the road.  i laid down.  
+    - i tried to take cover in a ditch by the side of the road.  i laid down.
       - i was pretty scared of the radiation and i got nuclear sunburn
       - i felt my skin burn as a result of the radiation.
     - this one was targeted at a major western-european city (i think paris or something like that)
@@ -76,9 +76,9 @@ organize content
       - but i'm alone at this point
   - next thing i know, i'm at a traffic stop and it's complete chaos.  everyone is trying to evacuate.
     - all i know is that i have to get to a university in San Antonio or Austin (somewhere in TX)
-    - again, this is immediately after, everything is complete chaos and i was in Europe. 
-      - but yet, i'm trying to hitch a ride to Texas in a car from Europe... 
-        - doesn't make sense, but my dream self rationalizes it by transporting me to north central US 
+    - again, this is immediately after, everything is complete chaos and i was in Europe.
+      - but yet, i'm trying to hitch a ride to Texas in a car from Europe...
+        - doesn't make sense, but my dream self rationalizes it by transporting me to north central US
           - think Illinois, though i wasn't really sure
       - and all my dream self knows is that i'm trying to head "south" to texas
         - i have a strong overwhelming urge to go there in response to what has happened.
@@ -86,7 +86,7 @@ organize content
           - some means of fighting back
   - i get in literally the first car i see with one occupant. it's a smaller car, kind of older and i think red
     - it's nighttime and, again, complete chaos.  everyone is trying to evacuate simultaneously
-    - i knock on the door and open it myself.  i quickly explain where i'm going. 
+    - i knock on the door and open it myself.  i quickly explain where i'm going.
       - the driver just has this horridly solemn look on his face (and i'll explain in a second)
       - he agrees and we get on the road and proceed on as we can, though traffic makes that a bit difficult
         - he doesn't really say much when i asked, just kind of motions inward
@@ -112,66 +112,30 @@ organize content
   - lupus dream where i'm reading a book and the pages are flying around
   - columbian drug lord dream where i was floating down a river without enough water
     - everyone else was doing fine (metaphor for blood cells/neurons?)
-      - 
+      -
     - i met my friend (daniel collins) who explained the situation, which i was familiar with
       - we met up before we got in the river (i think? 11/24/15)
     - he started to inject me with artificial blood to smuggle the coke with
     - drug lord tried to kill me with a drill
-  - dream where my house was filling up with water until it touched the electrical sockets
-  - dream where i dug up a dead body, traveled to chicago and opened a new path in the woods
-
-    - <11/24/15> this was in february, i believe
-    - the dream began in my house, everything was dark & it was night 
-      - the dead body was in my next door neighbor's yard. i don't know who it was.
-      - my neighbor's house was no longer there. it had been torn down.
-      - this is the neighbor's house that is visible from my bedroom
-    - i dug up the dead body.  i was afraid of being caught for something
-      - but i can't remember what it was. (11/24/15)
-      - i can't remeber who's body it was.  i think it was my own
-    - i was a bit scared, so i started walking down the hill behind my house
-      - i started climbing the hill that roanoke college owns.
-      - as i got to the top of that hill, i fell down 
-        - it was as if i entered through a tear in space
-        - this is why i think it's a metaphor for my brain
-        - i fell down another hill and it was bright outside, daytime
-      - i realized i was somewhere different entirely and i had no idea where
-        - i believe i thought i was somewhere near chicago
-        - somewhere very far from where i had started
-        - i kept walking.  i was nowhere near cities or anything
-        - just woods and paths and dirt roads
-      - </11/24/15>
-    - i eventually got to where i could proceed no further
-      - i had to choose to go left or go right, and the path i chose was much more overrun (11/24/15)
-      - everything in the overrun path was very dark, lots of vegetation in the way (11/24/15)
-    - my brain tried to warn me not to go down this path, but i chose to anyways
-      - i don't know that my brain was warning me about the path, (11/24/15)
-        - but instead, that the consequences of taking it would be arduous
-    - when i pulled out a flashlight the path turned out to lead to my own room
-      - i shined the flashlight around and i could see things in my room
-    - this was the dream that i had right before i activated repressed memories
-  - dreams change when i get bit by a spider
-    - i suddenly get vivid imagery related to spiders, like webs, etc
-    - wake up suddenly, usually screaming in fear and jump out of the bed, sprinting down the stairs
-    - occasionally discover a spider bite the next day
-  - ice skating in canada 
-  - dream where i was wondering around a bboy jam 
+  - ice skating in canada
+  - dream where i was wondering around a bboy jam
     - and there was always "taht one guy" that i would try to battle
       - it seemed this guy was focusing so much negativity towards me
-    - i was doing really well (i had made a pretty good bboy comeback) .., but this one guy  
+    - i was doing really well (i had made a pretty good bboy comeback) .., but this one guy
       - i would be cyphering and doing some really sick moves
-        - there were 3 or four battle circles.  
+        - there were 3 or four battle circles.
         - i was doing hollows and just occasional power moves
     - i was mostly focusing on teaching others there -- not how to break, but how to learn to break
       - just giving general advice on how to avoid my own mistakes
       - and while i was talking, i was toprock, but mostly focused on dancing for fun
-      - having fun while dancing and focused on style. 
+      - having fun while dancing and focused on style.
     - these are some of the things i wanted to teach during the dream
       - not giving up.  having fun.  self-expression.  consistent training and the cost of even just a week break
       - i was trying to talk about my own mistakes and how to avoid them
       - and why learning a skill like breaking is important for learning about life
       - and the most important lesson i wanted to impart was to learn how to learn a skill
     - i could tell that some of the bboy's in the circles were really listening. maybe 20%
-      - i could tell that many of the bboys just weren't paying attention.  
+      - i could tell that many of the bboys just weren't paying attention.
       - they were focused on the other bboy's at the jam
       - another 20% or so had a look on their face like "why's this has-been telling me how to learn"
     - but there was this one guy that just wanted to destroy me
@@ -191,9 +155,9 @@ organize content
         - i feel like there's part of my brain that's failing or pushing out the rest
         - and my brain is trying to subconsciously communicate this to me through metaphors in my dreams
       - i think that the bboy's in the dream are like neurons or parts of my brain
-        - and i'm trying to push them to correcting some kind of problem 
+        - and i'm trying to push them to correcting some kind of problem
         - and prevent these parts of my brain from giving up in a hopeless battle against whatever
-      - and yet, there's this one guy, this dick that is determined to fuck it all up 
+      - and yet, there's this one guy, this dick that is determined to fuck it all up
 
   - other dreams:
     - jousting with taylor swift on rolly chairs
@@ -201,12 +165,10 @@ organize content
       - we cooked food or something, then me and lots of other people were in a highschool with linoleum floors
         - this is where the rolly chair jousting went down
         - it was more like chicken.  i lost taylor swift won lol.
-      - also this dream got really weird shortly after and involve specific people from years ago in my life
+      - also this dream got really weird shortly after (same night,
+        same dream, i thought...) and involve specific people from years ago in my life
         - but we'll just pretend these are separate dreams
         - mng was !@#$'ing some girl in roller skates, in front of a long line of people, just rolling along
           - when he asked her to do it (in front of everyone) she had a look on her face
-            - like, she didn't *really* want to, but .. meh, whatever.  
+            - like, she didn't *really* want to, but .. meh, whatever.
             - she was already blowing him in front of everyone
-
-
-
