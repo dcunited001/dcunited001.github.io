@@ -34,9 +34,17 @@ or embuing ethics in our youth. Instead, in the place of no other
 mechanism, this is left almost entirely to our education system, which
 is so busy teaching to the test that it, in many cases, doesn't have a
 snowball's chance in hell to fulfill that need.  IMO, it's frustrating
-that religious schools are mostly only available for wealthy families
+that religious schools are mostly only available for wealthy families,
+although I'm not sure how to work the legal logistics fairly on that
+one.
 
-### Social Institutions Provide Benefits
+It turned out Nietzche feared nihilism as much as I. His work covered
+the creeping nihilism encroaching on Western society, as God's
+impending "death" drew nearer. However, I feel Nietzche jumped the gun
+on this.  My first article on [Epistemology, Category Theory and
+Cognition](http://te.xel.io/posts/2015-11-21-neural-networks-and-spider-brains.html)
+
+### Benefits of Social Institutions
 
 In this part, I make an argument for religion's value and ask how
 aetheism fulfills its roles. I understand that it is possible, but
@@ -60,15 +68,15 @@ power when interpreted using a singular, literal interpretation. That
 said, to those with a strict religious background, some of these
 arguments could be offensive, though I aim to defend religion and myth.
 
-Yes, often cracks and faults in these stories and traditions can can
-be found. Yet far more important, especially for our ancient ancestors
-striving to survive, myth encoded information vital to that struggle.
-Even today, myth, whether it is religious or not, encodes vital
-lessons in these fables. Whether or not you take them to be fact,
-there is value and to totally disregard it on the basis of factuality
-is lunacy. It's a bad argument to make with religion, since to be most
-effective it needs to be taken as truth, especially by those who are
-too young to understand these concepts.
+Cracks and faults in these stories and traditions can be found. Yet
+far more important, especially for our ancient ancestors striving to
+survive, myth encoded information vital to that struggle.  Even today,
+myth, whether it is religious or not, encodes vital lessons in these
+fables. Whether or not you take them to be fact, there is value and to
+totally disregard it on the basis of factuality is lunacy. It's a bad
+argument to make with religion, since to be most effective it needs to
+be taken as truth, especially by those who are too young to understand
+these concepts.
 
 ### Our Irreplaceable Golden Dies
 
@@ -115,8 +123,6 @@ dozens of generations.
 > suggest? How many generations of knowledge have been embedded in the
 > content and culture surrounding it?
 
-
-
 It's horrifying to see a concerted effort to discredit religion and
 its institutions over the course of several generations.  This is an
 effort to disempower the common man by robbing him of the collective
@@ -127,35 +133,102 @@ anticipation of an unprecedented storm, the man, woman or family who
 built the strongest house can rest assured that his/her family will
 sleep at night.
 
-To disempower religion and its institutions is not simply
-negligence. It degrades the tools and social networks that help
-families support each other. And by disempowering religion, you are
-actually disempowering family and local community. It is an assault on
-the resilience of social fabric supporting individuals, families and
+To disempower religion and its institutions is not simply negligent.
+It degrades the tools and social networks that help families support
+each other. And by disempowering religion, you are actually
+disempowering family and local community. It is an assault on the
+resilience of social fabric supporting individuals, families and
 communities.
 
 Yes, these institutions and belief systems are vulnerable to
-abuse. No, its institutions are not perfect, but neither could be
-anything created by man. But their propensity for benefit is
-immeasureable in comparison to many of the acclaimed problems.
+abuse. No, religious institutions are not perfect, but neither could
+be anything created by man. To their credit, the propensity for
+benefit is immeasureable to acclaimed problems.
 
-- atheism for policy, etc.
+###
+
+While atheism is not science and vice versa, we all have a need to
+explain the world around us.  And I'm going to assume that, if atheism
+is defined as "a lack of belief system," that an athiest likely seeks
+out the sciences to understand their world.
+
+Belief systems based on science and the institutions built around them
+also have flaws and vulnerabilities.  The set of knowledge from which
+other belief are extrapolated -- the basis -- depends on individual
+knowledge and varies widely.  There is also dissonance between what is
+accepted by the establishment, the individuals within it and sets of
+those people.
+
+Science today is completely different from science a decade ago.
+Furthermore, both to the establishment and the individuals, the
+knowledge sets forming each basis are constantly shifting to include
+new information, both a strength and a flaw of science.  By
+understanding the dissonance, some groups can choose to suppress
+information that would lead other groups to wildly different
+conclusions from each of their bases.
+
+Another problem is that it becomes more complex to discover and manage
+information about the belief systems of others, since you have to
+assert what another individual knows to imagine the related beliefs
+they might hold.  Which, I guess, is just true about life in general.
+But it means if a religion forms the core of someone's belief systems,
+instead of science, there is less propensity for variation and fewer
+assertions required to pick up on how someone views the basics. Today,
+people obviously need to deal with both, but it's interesting to
+observe how wildly different the core of these belief systems behave.
+Another difference from science is that religions are more likely to
+form a basis for how a person views the world and their relationship
+to it.
+
+One last difference is that, for the most part, the knowledge that
+forms a religion's basis won't change. This makes them more
+susceptible to changing cultural conditions than science, which can
+adapt. Yet, it also makes a person's basis formed from a religion a
+bit easier to understand. They are likely to share much of that basis
+with other believers. Or they could; obviously it's best not to label
+anyone. Every person is an individual. And I feel like I should note
+that it's incredibly shitty to contort someone's religious based views
+against them. If I have ever done that to you, I am so incredibly
+sorry.
+
+Because the belief systems extrapolated from a basis can rapidly
+change in many ways upon the introduction of new knowledge, it's
 
 
+- therefore, it's vulnerable to political influence
+    - academia can be bought and knowledge can be manufactured
+    - knowledge is not necessarily true
+  - any philosophy can be misused for political gain,
+    - but atheism is especially vulnerable to this because it holds
+      NOTHING sacred
 
+###
 
-atheism as an inverson of religion
+Atheism has a myriad of philosophic consequences for ethics, morality
+and public policy. The conclusions stemming from atheism include that
+it is unfair to base policy decisions on religion and that it is
+misguided to judge others on religious beliefs (hypocritical for some
+atheists).  These consequential beliefs are reached solely by
+believing that there is no god.  Quite simply, atheism is an ideology.
 
+But, if you would argue that "atheism is the absence of any beliefs,"
+I would say that is false.  Atheism requires the belief that there are
+no god(s) -- this is a belief in itself.  Therefore, regardless of the
+philosophic conclusions that one may reach from this single belief,
+atheism is still a belief system.
 
+And a very shifty belief system at that.  Since atheism attests that
+because it is composed of no beliefs, the philosophy of atheism
+appears to be irreproachable.  This would make atheism moreso the
+inversion of a religion.  A religion where the the handful of
+adherents who are zealots seek to dismantle, disempower and destroy
+all other religions, while maintaining rhetorical invulnerability
+through statements like "atheism is not a religion," "atheism is not
+an ideology," and "atheism is not a belief system."
 
-- irrefutable value of myth/religion
-
-- while i admit it's wise to base belief systems on demonstrable facts
-  - when the basis for such truths constantly shifts, as it does with science
-  - this is actually no basis at all
-  - if the basis for truth constantly shifts around based on our
-    currrent level of knowledge, the cultural resilience derived from
-    extrapolating from that foundation is lost
+And after atheist zealots have dismantled other religions, they do not
+replace it with anything, for they do not and cannot understand the
+value of religion.
 
 - I want to make it clear that it's not my intention to cast judgement
   on atheists. that's your belief system.
@@ -175,58 +248,11 @@ atheism as an inverson of religion
         intelligence, how could you possibly not understand the power
         of the human mind?
 
-- so no, it's not atheism or atheists that I have a problem with,
-  - what irriates me is when atheists assault religion in an
-  evangelical way
-    - especially when
-
-
-
-- why atheism is arrogant and not a religion
-  - doesn't provide a set of values to pass on through generations
-  - is based on knowledge alone and is completely ignorant of wisdom
-  - it's based on a constantly shifting set of knowledge which produces completely different conclusions at any time
-    - that is, atheism today is completely different from atheism a decade ago
-  - therefore, it's vulnerable to political influence
-    - academia can be bought and knowledge can be manufactured
-    - knowledge is not necessarily true
-  - any philosophy can be misused for political gain,
-    - but atheism is especially vulnerable to this because it holds NOTHING sacred
-
-
-
-Atheism, defined as the belief that there are no god(s) is itself a
-belief, forming part of a belief system.  This is a belief system that
-has a myriad of philosophic consequences for ethics, morality and
-public policy. The conclusions stemming from atheism include that it
-is unfair to base policy decisions on religion and that it is
-misguided to judge others on religious beliefs (hypocritical for some
-atheists).  These consequential beliefs are reached solely by
-believing that there is no god.  Quite simply, atheism is an ideology.
-
-But, if you would argue that "atheism is the absence of any beliefs,"
-i would say that is false.  Atheism requires the belief that there are
-no god(s) -- this is a belief in itself.  Therefore, regardless of the
-philosophic conclusions that one may reach from this single belief,
-atheism is still a belief system.
-
-And a very shifty belief system at that.  Since atheism attests that
-because it is composed of no beliefs, the philosophy of atheism
-appears to be irreproachable.  This would make atheism moreso the
-inversion of a religion.  A religion where the zealots seek to
-dismantle, disempower and destroy all other religions, while
-maintaining rhetorical invulnerability through statements like
-"atheism is not a religion," "atheism is not an ideology," and
-"atheism is not a belief system."
-
-And after atheist zealots have dismantled other religions, they do not
-replace it with anything, for they do not and cannot understand the
-value of religion. And so, you get what we got here:
-[failure to communicate.](https://www.youtube.com/watch?v=yBBWUZfgRiw)
 
 
 
 
+## Part 2
 
 I believe atheism is misguided.  IMO, athiests say there's no
 room for God because it has been shown or can be shown that there is
