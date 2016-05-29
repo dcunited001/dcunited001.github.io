@@ -57,7 +57,7 @@ of it. In the next part, I refute a few common arguments of
 atheism. In the last part, I describe some of my own religious or
 spiritual beliefs.  And to clarify, I don't think atheism is
 inherently wrong.  People are free to choose for themselves,
-obviously.  I just think it is short-sighted.
+obviously. I just think it is short-sighted.
 
 Obviously, humanity has struggled to define the world for tens of
 thousands of years. Mythology and religion enable us to piece together
@@ -193,14 +193,14 @@ sorry.
 
 Because the belief systems extrapolated from a basis can rapidly
 change in many ways upon the introduction of new knowledge, it's
-
-
-- therefore, it's vulnerable to political influence
-    - academia can be bought and knowledge can be manufactured
-    - knowledge is not necessarily true
-  - any philosophy can be misused for political gain,
-    - but atheism is especially vulnerable to this because it holds
-      NOTHING sacred
+complex to predict how those beliefs will change. If you can reliably
+do so, you can capture opportunity and reduce risk. If you can
+control how information is published, disseminated or interpreted, you
+can control how opportunity and risk are signaled within the
+system. Larger religious organizations suffer some of the same flaws
+as well, where people try to acquire power.  Both science and religion
+can be misused, yet I think science has the propensity for being
+misused in subtle, hard to control ways.
 
 ###
 
@@ -226,19 +226,115 @@ all other religions, while maintaining rhetorical invulnerability
 through statements like "atheism is not a religion," "atheism is not
 an ideology," and "atheism is not a belief system."
 
-And after atheist zealots have dismantled other religions, they do not
-replace it with anything, for they do not and cannot understand the
-value of religion.
+###
 
-- I want to make it clear that it's not my intention to cast judgement
-  on atheists. that's your belief system.
-  - however, i feel like religion is really vulnerable at this moment
-    in history
-    - even though it has tremendous value towards accumulating wisdom
-      through history to guide the actions of future generations
-    - and yet, the major world religions are losing their power and
-      influence to science, which seems much more capable of
-      demonstrating truth and mastery over the world
+And after zealot-level atheists have dismantled other religions, they
+do not replace it with anything, for they do not and cannot understand
+the value of religion. This is disheartening, since it is so capable
+of accumulating and propagating transgenerational wisdom.  Atheism
+completely lacks those mechanisms. So does science, outside the
+educational system, which is specialized. This corrodes some cultures
+that blindly march on, oblivious to the successive demoralization of
+each generation. They see it all around them:
+
+#### People are easily distracted from their dreams and goals
+
+#### People are quicker to give up on long-term relationships
+
+#### They form weaker bonds with their families
+
+#### Friendships become more superficial
+
+#### Communication with others becomes shallow
+
+#### They avoid planning for the future out of fear or thoughtlessness
+
+#### With technology, they seek to escape what they don't understand
+
+#### As people drift apart, they become more fearful of each other
+
+#### Friendship and family is commoditized and can easily be replaced
+
+#### They become drawn to influential people with quick benefit
+
+#### They can't cope when it gets tough or think to ask
+
+#### They are less likely to help others in need or care
+
+We're approaching the extremes of Nietzche's baseless society haunted
+by nihilism. God has been declared dead for some time. We're seeing a
+huge shift in culture and IMO it is incredibly negative. Many people
+might not consider me to be the most moral person, depending on their
+definition of morality, yet I don't think you could find anyone that
+could say I'm unethical.
+
+The major world religions are waning away and influence to science,
+which seems much more capable of demonstrating truth and mastery over
+the world. Maybe God really did die -- but people faintly feel
+something missing, but can't really put their finger on it. By 2030 or
+2040 it will bounce back and become more influential than it has in a
+hundred years. The next generation of ours will wake up and understand
+that their unknown missing piece is cultivation of their connection to
+God or to spirituality or to the Atman.
+
+These are my own beliefs on the nature of God. I enjoy learning what I
+can about all religious traditions and don't subscribe to any one of
+them. So maybe I'm not qualified to speculate here.  However, I am
+certain that there is something else that exists.
+
+### There Is No Order Higher Than Truth
+
+To me, God is without beginning or end. God represents the mystery,
+the unknown, the unknowable, and creation.  Through dedication and
+meditation, we can tune into God to access the source of universal
+knowledge and true power.
+
+Such a light could never be subdued because truth fuels its ardor.
+Obliteration cannot destroy the immaterial. This infinitely
+self-referential source of truth is identical, regardless of who or
+what witnesses it. Peering in further, illumination bursts outwards
+highlighting self-symmetry of sillouettes branching inwards, like an
+arborous, one sided infinite reflection. It's omnipresent and
+universal; the same truth resonates throughout space. Yet, no matter
+how you package it or encapsulate it or deny it or fracture it, it
+cannot be changed because it already incorporates the totality of all
+possible existences. From my perspective, this undeniable, intangible,
+unimaginably complex metaphysical entity is what other religions refer
+to as God.
+
+By seeking understanding of our world, our universe, we indirectly
+familiarize ourselves with aspects of this entity. From the study of
+philosophy and higher-order phenomena, one's mind invariably converges
+towards this entity outside time and space. However it's approached,
+as one navigates it's myriad of infinitely complicated infinities,
+more generalized tools of thought and reason become available. How one
+cultivates their own connection is almost irrelevant. Cognizance of
+this being empowers one to wield light against darkness and love to
+conquer evil. "Let there be light." - God's first words in the Bible.
+
+And so, this light derived from knowledge and truth can *never* be
+destroyed. Whenever and wherever there are beings with the time,
+stability and blessing of God to further the development of their
+consciousness, will rediscover truth and reclaim light. Destroy it if
+you are so empowered; if you want. These truths are self-evident
+through exploration of our world and our mind.  They can be surpressed
+to decimation, but obliteration is simply not possible.
+
+Pulvering this crystalline light with unrelenting force flares
+iridescent shards outward. Inviscating those flecks within honey
+foments precipition; in kafkaesque amber, phononic waves propagate
+outward, astringence and obdurance only minimizing resistence; in
+basalt, waves reflect back inward, transforming seismic tension into
+stupefying liquification amidst vortical convolution yielding
+recrystallization. Any
+
+
+Over the next two decades, barring global catastrophe, we have nothing
+greater to fear than *nihilism*, driven by the paradox of creativity,
+asphyxiating demoralization and individuality. I don't think I could
+illustrate this any better than Nietzche. However, there's another
+path leading away from nihilism's abyss.
+
       - however, IMO, religion equips you with the wisdom of dozens of
         generations -- and yet, it's outright rejected by most
         atheists
@@ -631,6 +727,10 @@ study. At the least, we learn about what other people believe.
 
 
 ### Providing Purpose
+
+
+
+### Light/Dark & Good/Evil
 
 
 
