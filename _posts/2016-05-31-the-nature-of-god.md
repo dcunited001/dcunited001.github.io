@@ -70,8 +70,8 @@ halon, extinguishing your screams for justice and their echoes with
 visceral lung-popping force. An illusory dream, for in their gusting
 fervor to align all to their will lies their philistinic ignorance of
 the universe’s preordained evolutionary endpoint, which itself
-reflects the metaphysical from whence we all descend. As we broaden
-our knowledge, our belief systems overlap and homogenize. Henceforth,
+reflects the metaphysical whence we all descend. As we broaden our
+knowledge, our belief systems overlap and homogenize. Henceforth,
 vicissitude portends attendant metamorphosis, approaching allineation
 with this original image. This imbues them with an Achilles heel, a
 vulnerability to an immeasurably meager stone: their beloved
