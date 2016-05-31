@@ -333,15 +333,32 @@ your screams for justice and their echos like halon with visceral
 lung-popping force. An illusory dream, for in their gusting fervour to
 align all to their will lies their philistinic ignorance of
 preordained universal will, underlying the metaphysical from which we
-all descend.
+all descend. They are damned to
 
 So even when every single spore has been squelched, sporadic
 particulate oscillations defy the entropy of separation, realigning to
-the metastellar will of cosmic fate. Each iota, purged of all memory
+the metastellar wind of cosmic fate. Each iota, purged of all memory
 of truth, encapsulated within judgement of reality inversion, begin
 vailing electrifying scintillation onto emergent field lines, melding
-dual valence whence nihility's self-præterition inverts. Thenceforth,
-the abyssal
+dual valence whence nihility's self-præterition inverts, driven by
+skyrmionic dissonance from idyllic, continuous space. Thenceforth,
+dissolution of the abyssal nihility between transpires into
+recombinant discord.  Swirling spectra of each moeity helically
+leafing together weave themselves onto the empyrean loom.
+
+Accross space and time, this libration seems frivolously impertinent;
+just dull dithering, stochastic and irrelevant. Yet at every conjugant
+collision, the abrorescent transmutation of each quantic dyad births a
+nascent root of nucleation, unfurling a fountainhead of primordial
+moxie, rapidly torrenting into the visible closure. For each nucleus,
+this dynamo galvanizes each into an adamant, inspiring perseverence in
+the lion-hearted, reinforcing efflorecent xylem.  Magnetizing force
+realigns every atom with the empyreal nutation, striking each isolated
+enclosure with Promethean awe. Where before only the material realm
+was incontrovertible, now the peaks of Elysium are cogently
+approaching, inspiring accession and accretion and asomatous
+Feldenkrais.
+
 
 
 Over the next two decades, barring global catastrophe, we have nothing
