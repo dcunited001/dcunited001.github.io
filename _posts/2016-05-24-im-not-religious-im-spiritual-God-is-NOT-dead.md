@@ -321,12 +321,27 @@ through exploration of our world and our mind.  They can be surpressed
 to decimation, but obliteration is simply not possible.
 
 Pulvering this crystalline light with unrelenting force flares
-iridescent shards outward. Inviscating those flecks within honey
-foments precipition; in kafkaesque amber, phononic waves propagate
-outward, astringence and obdurance only minimizing resistence; in
-basalt, waves reflect back inward, transforming seismic tension into
-stupefying liquification amidst vortical convolution yielding
-recrystallization. Any
+iridescent shards outward, each a verdant propagule. Inviscating those
+flecks within honey foments precipition; in kafkaesque amber, phononic
+waves propagate outward, astringence and obdurance only minimizing
+resistence; in basalt, waves reflect back inward, transforming seismic
+tension into stupefying liquification amidst vortical convolution
+yielding recrystallization.
+
+The deafening zealous gesellschaft seeking asphyxiation of light traps
+your screams for justice and their echos like halon with visceral
+lung-popping force. An illusory dream, for in their gusting fervour to
+align all to their will lies their philistinic ignorance of
+preordained universal will, underlying the metaphysical from which we
+all descend.
+
+So even when every single spore has been squelched, sporadic
+particulate oscillations defy the entropy of separation, realigning to
+the metastellar will of cosmic fate. Each iota, purged of all memory
+of truth, encapsulated within judgement of reality inversion, begin
+vailing electrifying scintillation onto emergent field lines, melding
+dual valence whence nihility's self-præterition inverts. Thenceforth,
+the abyssal
 
 
 Over the next two decades, barring global catastrophe, we have nothing
