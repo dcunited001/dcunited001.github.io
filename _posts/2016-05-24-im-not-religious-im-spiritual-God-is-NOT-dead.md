@@ -277,96 +277,9 @@ hundred years. The next generation of ours will wake up and understand
 that their unknown missing piece is cultivation of their connection to
 God or to spirituality or to the Atman.
 
-These are my own beliefs on the nature of God. I enjoy learning what I
-can about all religious traditions and don't subscribe to any one of
-them. So maybe I'm not qualified to speculate here.  However, I am
-certain that there is something else that exists.
 
-### There Is No Order Higher Than Truth
-
-To me, God is without beginning or end. God represents the mystery,
-the unknown, the unknowable, and creation.  Through dedication and
-meditation, we can tune into God to access the source of universal
-knowledge and true power.
-
-Such a light could never be subdued because truth fuels its ardor.
-Obliteration cannot destroy the immaterial. This infinitely
-self-referential source of truth is identical, regardless of who or
-what witnesses it. Peering in further, illumination bursts outwards
-highlighting self-symmetry of sillouettes branching inwards, like an
-arborous, one sided infinite reflection. It's omnipresent and
-universal; the same truth resonates throughout space. Yet, no matter
-how you package it or encapsulate it or deny it or fracture it, it
-cannot be changed because it already incorporates the totality of all
-possible existences. From my perspective, this undeniable, intangible,
-unimaginably complex metaphysical entity is what other religions refer
-to as God.
-
-By seeking understanding of our world, our universe, we indirectly
-familiarize ourselves with aspects of this entity. From the study of
-philosophy and higher-order phenomena, one's mind invariably converges
-towards this entity outside time and space. However it's approached,
-as one navigates it's myriad of infinitely complicated infinities,
-more generalized tools of thought and reason become available. How one
-cultivates their own connection is almost irrelevant. Cognizance of
-this being empowers one to wield light against darkness and love to
-conquer evil. "Let there be light." - God's first words in the Bible.
-
-And so, this light derived from knowledge and truth can *never* be
-destroyed. Whenever and wherever there are beings with the time,
-stability and blessing of God to further the development of their
-consciousness, will rediscover truth and reclaim light. Destroy it if
-you are so empowered; if you want. These truths are self-evident
-through exploration of our world and our mind.  They can be surpressed
-to decimation, but obliteration is simply not possible.
-
-Pulvering this crystalline light with unrelenting force flares
-iridescent shards outward, each a verdant propagule. Inviscating those
-flecks within honey foments precipition; in kafkaesque amber, phononic
-waves propagate outward, astringence and obdurance only minimizing
-resistence; in basalt, waves reflect back inward, transforming seismic
-tension into stupefying liquification amidst vortical convolution
-yielding recrystallization.
-
-The deafening zealous gesellschaft seeking asphyxiation of light traps
-your screams for justice and their echos like halon with visceral
-lung-popping force. An illusory dream, for in their gusting fervour to
-align all to their will lies their philistinic ignorance of
-preordained universal will, underlying the metaphysical from which we
-all descend. They are damned to
-
-So even when every single spore has been squelched, sporadic
-particulate oscillations defy the entropy of separation, realigning to
-the metastellar wind of cosmic fate. Each iota, purged of all memory
-of truth, encapsulated within judgement of reality inversion, begin
-vailing electrifying scintillation onto emergent field lines, melding
-dual valence whence nihility's self-præterition inverts, driven by
-skyrmionic dissonance from idyllic, continuous space. Thenceforth,
-dissolution of the abyssal nihility between transpires into
-recombinant discord.  Swirling spectra of each moeity helically
-leafing together weave themselves onto the empyrean loom.
-
-Accross space and time, this libration seems frivolously impertinent;
-just dull dithering, stochastic and irrelevant. Yet at every conjugant
-collision, the abrorescent transmutation of each quantic dyad births a
-nascent root of nucleation, unfurling a fountainhead of primordial
-moxie, rapidly torrenting into the visible closure. For each nucleus,
-this dynamo galvanizes each into an adamant, inspiring perseverence in
-the lion-hearted, reinforcing efflorecent xylem.  Magnetizing force
-realigns every atom with the empyreal nutation, striking each isolated
-enclosure with Promethean awe. Where before only the material realm
-was incontrovertible, now the peaks of Elysium are cogently
-approaching, inspiring accession and accretion and asomatous
-Feldenkrais.
-
-
-
-Over the next two decades, barring global catastrophe, we have nothing
-greater to fear than *nihilism*, driven by the paradox of creativity,
-asphyxiating demoralization and individuality. I don't think I could
-illustrate this any better than Nietzche. However, there's another
-path leading away from nihilism's abyss.
-
+    - even though it has
+    - and yet, t
       - however, IMO, religion equips you with the wisdom of dozens of
         generations -- and yet, it's outright rejected by most
         atheists
@@ -377,7 +290,8 @@ path leading away from nihilism's abyss.
         of the human mind?
 
 
-
+- science has superstition as well, formed by current belief systems
+  which are quickly outmoded
 
 
 ## Part 2
