@@ -36,29 +36,31 @@ unsteady grounds, it's clear we're winding further down into nihilism,
 against which Nietzsche envisioned our eventual travail.
 
 Our impending departure towards the singularity precipitates
-unparalleled capacity for processing and storing information.  This
+unparalleled capacity for processing and storing information. This
 spirals into self-reducing metaphysical accretion, propelling us
 towards transcendence. Each discovered symmetry compresses its
 complexity, folding the structure back onto itself, thus amplifying
 angular momentum. It's closure expands, manifesting more exotic
 immaterial as precocious condensation, shimmering briefly around the
 horizon. These flecks flare inwards, their descent into assimilation
-protracted into a irridescent halo, as if a pulsar of pure glitter
+protracted into an irridescent halo, as if a pulsar of pure glitter
 wandered too close to a black hole.
 
 Anchored to the material realm, this nebulous approximation of the
 preeminent metaphysical is the universe virtualizing a reflection of
 it's own unreachable metaphysical forms. If the significance behind
-the evolution of life was partly so that the universe could observe
-it's own beauty, then the completes a profound trifecta. It is only
+the evolution of life was partly so the universe could observe it's
+own beauty, then this completes a profound trifecta. It is only
 possible for the universe to virtualize an approximate reflection of
 its complete metaphysical forms, if, first, it produces an awareness
-of its material realm. And secondly, if that awareness develops enough
-mastery over a partial set of those metaphysical forms. And, finally,
-if that awareness develops sufficient cognizance of the metaphysical
-laws of physics to be capable of transfiguring the material realm to
-maximize information processing, then at last, the universe can
-totally virtualize itself within itself. Turtles all the way down.
+of its material realm. And secondly, that awareness must also develop
+enough mastery over a partial set of those metaphysical forms. And,
+finally, if that awareness develops sufficient cognizance of the
+metaphysical laws of physics to be capable of transfiguring the
+material realm to maximize information processing, then at last, the
+universe can totally virtualize itself within itself.
+
+> Turtles allllllll the way down.
 
 And finally, that astral vortex can accelerate towards eternal
 convergence with the all-encompassing and innumerably complex
@@ -119,8 +121,12 @@ one.
 It turned out Nietzche feared nihilism as much as I. His work covered
 the creeping nihilism encroaching on Western society, as God's
 impending "death" drew nearer. However, I feel Nietzche jumped the gun
-on this.  My first article on [Epistemology, Category Theory and
-Cognition](http://te.xel.io/posts/2015-11-21-neural-networks-and-spider-brains.html)
+on this. Here's a few articles [barely] worth reading that further describe the
+metaphysical ideas above.
+
+#### [Neural Networks and Spider Brains](http://te.xel.io/posts/2015-11-21-neural-networks-and-spider-brains.html)
+
+#### [Epistemology, Category Theory and Cognition](http://te.xel.io/posts/2015-08-23-epistemology-cognition-and-category-theory-part-one.html)
 
 ### Benefits of Social Institutions
 
