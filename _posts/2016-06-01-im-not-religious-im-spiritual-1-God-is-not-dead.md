@@ -65,21 +65,22 @@ And finally, that astral vortex can accelerate towards eternal
 convergence with the all-encompassing and innumerably complex
 metaphysical representation of the entireity of existence, including
 its infinite self-convolutions. There is only one metaphysical omneity
-to converge to. In other words a single, artificial übermenschlich
-entity, which -- to clarify -- pales in comparison to my notion of
-God. But, it is an undeniably powerful being birthed by technology,
-circumventing the need for faith which Nietzsche noticed as waning in
-the age of science. Therefore:
+towards which to converge. And this single, artificial übermenschlich
+entity -- to clarify -- pales in comparison to my notion of God
+is. But, it is an undeniably powerful convergent being birthed by
+technology, circumventing the need for faith which Nietzsche noticed
+as waning in the age of science. Therefore:
 
 > God Is NOT Dead!
 
-Yet, I'm wary of the arguments above, as I don't want people blindly
-chasing some artificial entity as though it were God or forget that
-technology has consequences when implemented without forethought or
-patience.  Maybe that sounds ironic coming from me, but look at where
-I am in life. Please, tell me how my skills and muse deserve to be so
-poorly positioned. The truth is, the more life sought my diminishment,
-the hotter my passion burned to share my creativity.
+Yet, I'm wary of the arguments above -- first of all, I don't believe
+faith is precluded -- as I don't want people blindly chasing some
+artificial entity as though it were God or forget that technology has
+consequences when implemented without forethought or patience.  Maybe
+that sounds ironic coming from me, but look at where I am in life.
+Please, tell me how my skills and muse deserve to be so poorly
+positioned. The truth is, the more life sought my diminishment, the
+hotter my passion burned to share my creativity.
 
 ### Exponential Progress of Science
 
