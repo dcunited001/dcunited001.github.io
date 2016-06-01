@@ -26,14 +26,15 @@ own reflection or accumulated material wealth.
 
 #### Has Been Greatly Exaggerated
 
-In this series, I hope to convince you that religion is more relevant
-than ever in the 21st century. Its resurgeance is powered by the need
-for various roles left unfulfilled by science and magnified by the
-instability of its ever-shifting basis. Modern societies construct a
-common foundation from scientific ideas from which we extrapolate
-other ideas, including policy decisions. Because of these increasingly
-unsteady grounds, it's clear we're winding further down into nihilism,
-against which Nietzsche envisioned our eventual travail.
+This is the first of a three part series, in which I hope to convince
+you that religion is more relevant than ever in the 21st century. Its
+resurgeance is powered by the need for various roles left unfulfilled
+by science and magnified by the instability of its ever-shifting
+basis. Modern societies construct a common foundation from scientific
+ideas from which we extrapolate other ideas, including policy
+decisions. Because of these increasingly unsteady grounds, it's clear
+we're winding further down into nihilism, against which Nietzsche
+envisioned our eventual travail.
 
 Our impending departure towards the singularity precipitates
 unparalleled capacity for processing and storing information. This
