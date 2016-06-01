@@ -58,9 +58,8 @@ also develop enough mastery over a partial set of those metaphysical
 forms. And, finally, if that awareness develops sufficient cognizance
 of the metaphysical laws of physics to be capable of transfiguring the
 material realm to maximize information processing, then at last, the
-universe can totally virtualize itself within itself.
-
-> Turtles allllllll the way down.
+universe can totally virtualize itself within itself. Turtles all the
+way down.
 
 And finally, that astral vortex can accelerate towards eternal
 convergence with the all-encompassing and innumerably complex
