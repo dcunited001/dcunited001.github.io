@@ -313,7 +313,7 @@ religions, while maintaining rhetorical invulnerability through
 statements like "atheism is not a religion," "atheism is not an
 ideology," and "atheism is not a belief system."
 
-### From Deconstruction to Demoralization
+### &#x2140; From Deconstruction to Demoralization
 
 And after zealot-level atheists have dismantled other religions, they
 do not replace it with anything, for they do not and cannot understand
@@ -324,29 +324,29 @@ educational system, which is specialized. This corrodes some cultures
 that blindly march on, oblivious to the successive demoralization of
 each generation. They see it all around them:
 
-#### People are easily distracted from their dreams and goals
+#### &#x2285; People are easily distracted from their dreams and goals
 
-#### People are quicker to give up on long-term relationships
+#### &#x2285; People are quicker to give up on long-term relationships
 
-#### They form weaker bonds with their families
+#### &#x2285; They form weaker bonds with their families
 
-#### Friendships become more superficial
+#### &#x2285; Friendships become more superficial
 
-#### Communication with others becomes shallow
+#### &#x2285; Communication with others becomes shallow
 
-#### They avoid planning for the future out of fear or thoughtlessness
+#### &#x2285; They avoid planning for the future out of fear or thoughtlessness
 
-#### With technology, they seek to escape what they don't understand
+#### &#x2285; With technology, they seek to escape what they don't understand
 
-#### As people drift apart, they become more fearful of each other
+#### &#x2285; As people drift apart, they become more fearful of each other
 
-#### Friendship and family is commoditized and can easily be replaced
+#### &#x2285; Friendship and family is commoditized and can easily be replaced
 
-#### They become drawn to influential people with quick benefit
+#### &#x2285; They become drawn to influential people with quick benefit
 
-#### They can't cope when it gets tough or think to ask
+#### &#x2285; They can't cope when it gets tough or think to ask
 
-#### They are less likely to help others in need or care
+#### &#x2285; They are less likely to help others in need or care
 
 (Yes, this piece is fairly opinionated)
 
