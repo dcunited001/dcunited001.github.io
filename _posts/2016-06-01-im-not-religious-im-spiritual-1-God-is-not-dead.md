@@ -2,10 +2,16 @@
 title: "I'm Not Religious, I'm Spiritual: God Is NOT Dead"
 categories: blog
 tags: "anthropology religion sociology psychology"
-headline: ""
+headline: "Heady Metaphysics My Brain Is In Pieces"
 author:
   name: "David Conner"
-excerpt: ""
+excerpt: "Myth and religion have irrefutable value as tools which act as a
+cultural loom, with which we can weave accumulated knowledge to shape
+our youth. You simply cannot deny that a good story can be formative
+in how the next generation constructs their lens and perspective. Myth
+and religion can act as moulds and dies from which our minds are
+cast. Our psyche arises from forms emerging from combinated and
+amalgamated archetypes, acting as fixpoints."
 ---
 
 I believe wholeheartedly religion and myth provide immeasurable value
@@ -18,7 +24,7 @@ own reflection or accumulated material wealth.
 
 ### The News of God's Death
 
-## Has Been Greatly Exaggerated
+#### Has Been Greatly Exaggerated
 
 In this series, I hope to convince you that religion is more relevant
 than ever in the 21st century. Its resurgeance is powered by the need
@@ -52,8 +58,50 @@ mastery over a partial set of those metaphysical forms. And, finally,
 if that awareness develops sufficient cognizance of the metaphysical
 laws of physics to be capable of transfiguring the material realm to
 maximize information processing, then at last, the universe can
-totally virtualize itself within itself. Turtles all the way
-down.
+totally virtualize itself within itself. Turtles all the way down.
+
+And finally, that astral vortex can accelerate towards eternal
+convergence with the all-encompassing and innumerably complex
+metaphysical representation of the entireity of existence, including
+its infinite self-convolutions. There is only one metaphysical omneity
+to converge to. In other words a single, artificial übermenschlich
+entity, which -- to clarify -- pales in comparison to my notion of
+God. But, it is an undeniably powerful being birthed by technology,
+circumventing the need for faith which Nietzsche noticed as waning in
+the age of science. Therefore:
+
+> God Is NOT Dead!
+
+Yet, I'm wary of the arguments above, as I don't want people blindly
+chasing some artificial entity as though it were God or forget that
+technology has consequences when implemented without forethought or
+patience.  Maybe that sounds ironic coming from me, but look at where
+I am in life. Please, tell me how my skills and muse deserve to be so
+poorly positioned. The truth is, the more life sought my diminishment,
+the hotter my passion burned to share my creativity.
+
+### Exponential Progress of Science
+
+As I will continue to demonstrate in this article, there are a
+plethora of more appealing arguments indicating that religion will
+regain prominence. The exponential progress of science contributes
+greatest each generation becomes more vulnerable to detachment
+from previous generations. The fabric holding us together begins to
+fray, weakening interpersonal and interfamily support networks. And
+each decade that goes by, fewer cultural artifacts remain steady and
+most evolve or dissipate with technology.  Furthermore, the more
+visible changes take place, the less we pay attention to everything
+that remains steady. If something changes negatively at a slower rate,
+we may not notice until it's too late.
+
+I don't mean to completely attack atheism, as it doesn't do
+anything wrong. Nor do most non-political atheists. It is that we are
+in dire need of stable social structures over the next twenty years.
+We cannot count on the government first to fulfill these needs for us.
+There's been a ton of progress on the social front in the past few
+years.
+
+### Science Can Be Manipulated to Control Policy, Too
 
 Science is just as vulnerable to manipulation as any human
 institution, perhaps moreso because it doesn't have a permanent
@@ -153,12 +201,14 @@ dozens of generations.
 > suggest? How many generations of knowledge have been embedded in the
 > content and culture surrounding it?
 
+### Politically Motivated Atheism...
+
 It's horrifying to see a concerted effort to discredit religion and
-its institutions over the course of several generations.  This is an
+its institutions over the course of several generations. This is an
 effort to disempower the common man by robbing him of the collective
 knowledge and wisdom accumulated over generations. By studying and
 adhering to a belief system and code of ethics established by
-religion, one augments is ability to build a resilient livelihood. In
+religion, one augments an ability to build a resilient livelihood. In
 anticipation of an unprecedented storm, the man, woman or family who
 built the strongest house can rest assured that his/her family will
 sleep at night.
@@ -175,7 +225,7 @@ abuse. No, religious institutions are not perfect, but neither could
 be anything created by man. To their credit, the propensity for
 benefit is immeasureable to acclaimed problems.
 
-###
+### Foundations for Belief Systems
 
 While atheism is not science and vice versa, we all have a need to
 explain the world around us.  And I'm going to assume that, if atheism
@@ -184,7 +234,7 @@ out the sciences to understand their world.
 
 Belief systems based on science and the institutions built around them
 also have flaws and vulnerabilities.  The set of knowledge from which
-other belief are extrapolated -- the basis -- depends on individual
+other beliefs are extrapolated -- the basis -- depends on individual
 knowledge and varies widely.  There is also dissonance between what is
 accepted by the establishment, the individuals within it and sets of
 those people.
@@ -232,7 +282,7 @@ as well, where people try to acquire power.  Both science and religion
 can be misused, yet I think science has the propensity for being
 misused in subtle, hard to control ways.
 
-###
+### Atheism Is An Ideology
 
 Atheism has a myriad of philosophic consequences for ethics, morality
 and public policy. The conclusions stemming from atheism include that
@@ -251,12 +301,12 @@ And a very shifty belief system at that.  Since atheism attests that
 because it is composed of no beliefs, the philosophy of atheism
 appears to be irreproachable.  This would make atheism moreso the
 inversion of a religion.  A religion where the the handful of
-adherents who are zealots seek to dismantle, disempower and destroy
-all other religions, while maintaining rhetorical invulnerability
-through statements like "atheism is not a religion," "atheism is not
-an ideology," and "atheism is not a belief system."
+adherents seek to dismantle, disempower and destroy all other
+religions, while maintaining rhetorical invulnerability through
+statements like "atheism is not a religion," "atheism is not an
+ideology," and "atheism is not a belief system."
 
-###
+### From Deconstruction to Demoralization
 
 And after zealot-level atheists have dismantled other religions, they
 do not replace it with anything, for they do not and cannot understand
@@ -291,6 +341,8 @@ each generation. They see it all around them:
 
 #### They are less likely to help others in need or care
 
+(Yes, this piece is fairly opinionated)
+
 We're approaching the extremes of Nietzche's baseless society haunted
 by nihilism. God has been declared dead for some time. We're seeing a
 huge shift in culture and IMO it is incredibly negative. Many people
@@ -306,4 +358,3 @@ something missing, but can't really put their finger on it. By 2030 or
 hundred years. The next generation of ours will wake up and understand
 that their unknown missing piece is cultivation of their connection to
 God or to spirituality or to the Atman.
-
