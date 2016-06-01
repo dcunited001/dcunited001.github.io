@@ -365,3 +365,7 @@ something missing, but can't really put their finger on it. By 2030 or
 hundred years. The next generation of ours will wake up and understand
 that their unknown missing piece is cultivation of their connection to
 God or to spirituality or to the Atman.
+
+## Part 2: On Atheisms
+
+Coming Soon...
