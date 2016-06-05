@@ -61,7 +61,39 @@ believers.
 
 Without sets of archetypical fixpoints shared across large groups of
 our society, without regard to class or ethnicity, we are going to
-quickly find ourselves lost in the future.
+quickly find ourselves lost in the future. The basis for belief
+systems formed by science is completely detached from anything
+permenant. Like Ouroboros, it always cyclicly consuming itself: newer
+beliefs in the basis superceeding older beliefs and the resulting
+belief structure representing science's extrapolated sphere of
+knowledge is constantly recalculated, then distributed. While this
+process continues to accelerate, then the costs to cultural stability
+will increase just as steadily.
+
+### Differential Singularity
+
+We risk ending up dealing with a phenomenon I refer to as differential
+singularity. This draws on the differential created in belief systems
+as new discoveries in science are propagated outward to policy makers
+and everyone else. In part one, I argued that there is significant
+opportunity to abuse the differential and time delay here to profit
+financially and politically.  However, as progress towards the
+singularity increases this differential only grows wider.  We risk
+creating a situation where the people currently in control of the
+technology seal themselves off from threats to their power.
+
+At some point, unless access to information is permitted, there is a
+huge opportunity for the power-hungry to abuse this
+differential. There are specific technologies which magnify the rate
+at which new discoveries occur.  On the other hand, many of these
+technologies are incredibly dangerous and, thus, the desire to wall
+these techs off is justified.  Because of this, the likelihood that a
+small faction of people would abuse the differential singularity is
+all the more likely: because if they did, who would know about it?
+
+###
+
+So we need these fixpoints to ground our culture in something.  
 
 ...
 
