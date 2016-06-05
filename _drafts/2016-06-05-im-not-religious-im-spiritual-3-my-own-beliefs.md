@@ -246,12 +246,6 @@ growth. Yet, it is unfortunate our time spent at the height of our
 potential is precisely when we have a minimal understanding of the
 world, preventing us from best planning how to invest that potential.
 
-> "Every man is born as many men and dies as a single one." -
-> Heidegger
-
-this is the exact time when we
-
-
 ### Timelessness
 
 I find it an invaluable tool to simulate ancient models of thought. It
@@ -265,9 +259,50 @@ or that. If so, how would they have been able to predict these
 conclusions. It's a useful tool, but can easily lead to unfounded
 inferences, so it's important to keep that in mind.
 
+So, for example, it would be possible for people to foresee that
+overpopulation was the inevitable result of population growth, given
+two things: exponential growth and the spherical, and thus limited,
+shape of the earth. In fact, Ancient people were all to familiar with
+constraints on their life imposed by overpopulation and the effects it
+had on society.  Their building heights were limited to a few stories
+and their lack of technology meant that food production was
+limited.
+
+Further still, they may have been able to at least imagine how things
+would unfold in future events by specifying what those limitations
+were that inhibited their growth: human/time/energy cost of food
+production, transportation, communication, disease and the
+like. Simply by enumerating these, then assuming that technology would
+resolve them, and then iterating through scenarios derived from
+combinations of sets where specific limitations were removed, they
+could foresee social changes and events to unfold at some point in the
+future. Or they could at least try. For example, if you assumed that
+the time required for communication drops to zero or that the
+bandwidth approaches infinite, you could surmise how that may change
+society. If you assume disease could be controlled, then you might
+surmise a large city with a democracy like Athens might thrive beyond
+a specific population growth instead of becoming doomed by
+epidemic. Understanding that cities hosting more than a specific
+population size determined by the likelihood of catastrophe would
+change the nature of long-term geopolitical influences: people would
+lose interest in rural life and power structures in cities would
+become more efficient.
+
 Yet, there are many things which are complicated by our way of life.
 In many ways, ancient people could foresee much more accurately than
-we can comprehend. We perceive them to be ignorant because they lacked
+we can comprehend. We don't have enough time to think the same
+thoughts and, in so many instances, we assume that we already have the
+answers and never bother to think through these questions ourselves.
+The sturdy foundations of Western and Eastern philosophy are a
+blessing and a curse, as all these great debates and discussions have
+been resolved. We can learn about it, but most of us never have any a
+postieri development of ideas which are structured independently of
+those foundations. I think there is tremendous value in developing our
+own thoughts, but because it's so difficult to do so once we're
+exposed to superior means of framing philosophical questions, we never
+have that chance.
+
+And we perceive these ancient people to be ignorant because they lacked
 technology when actually our way of life almost completely clouds our
 vision and our minds.  We deal with so much irrelevant information and
 non-sense. Our lives are so structured so that we cannot see beyond
@@ -347,24 +382,71 @@ appear that the desire for change motives a few actions or does it
 permeate their actions? It's important to be realistic and keep your
 goals in mind.
 
-
-
-- seeing the best in other people
-  - being realistic, but treating them as though your seeing the best
-    version of themselves that their idealized version of you would
-    also see.
-    - there's a Rick and Morty episode about this lol
-
-  - accessing your future self and tapping into your genius
-    - throwing the concept of timelessness in...
-
-  - cultivating virtues and leadership in yourself and others
-
-- of course, it's important to be realistic here.
+There was a Rick and Morty episode about this concept of envisioning
+someone in terms of their potential instead of their flaws. To
+summarize, Beth and Jerry go to couples therapy and end up fighting
+the way they envision each other, materialized as monsters. I won't
+really spoil how everything works out, but it's worth watching. It's
+episode 7 of the 2nd season: Big Trouble in Little Sanchez.
 
 ### Help Others Grow
 
+It's important to give back and help those around you develop skills
+and opportunity. There have been quite a few situations where I've
+seen those in a position of relative power attempt to prevent those
+around them from fully developing. It is usually to prevent that
+person from pursuing greener pastures or from becoming more valuable
+to that organization or whatever. Rule #1 is *Never Outshine the
+Master*, after all. That's the first rule!
+
+It's vital to be humble and patient towards those you're serving. But
+in my experience, I remember those people who contributed to my
+skills, career, personal life or hobbies, especially when it seemed to
+run counter to their incentives. Teaching others and being a mentor
+are invaluable means to enrich your self, your organization and your
+community. In a very profound way. This is one of the best ways to
+develop your social network. If you have a positive influence on
+someone, especially if it took significant energy over a long period
+of time, then you will develop a strong connection. That person is
+probably going to represent you in a positive way.
+
+And if, for whatever reason, someone limits your ability or
+opportunity for teaching others, then imagine how much that would
+limit you in life! One of my greatest mistakes when trying to organize
+a jamskating team when I was about 18 was my failure to realize just
+how useful and rewarding it would to help other people grow. I lost so
+many opportunities for growth, resulting from partly my own failure to
+recognize this, paired with the fact that many of the people around me
+wanted me to ultimately fail. A decade later, I found myself asking
+"Why the fuck did they not suggest X or advise me about Y?" The reason
+is because many of the people around me never wanted me to succeed,
+but they also did not want to appear to interfere. Why? Drug
+legalization. It was because I supported legalization.
+
+Actively or passively preventing someone from giving back to others
+and being a positive influence in their live is the equivalent to
+topping a tree. Their social network will be so stunted later in their
+life and they probably won't know what happened. Again, there's much I
+could have done and it's hard to argue that this was intentional.
+Maybe they were justified. Maybe they never thought to do that and
+it's just a coincidence that my only protege stabbed me in the back
+more times than I can count.
+
 ### Light and Dark, Good and Evil
+
+These two concepts can each be viewed on a separate axis.  Light and
+Dark describe the degree to which something can be seen.  Good and
+Evil describe something like the morality of an action, event, person,
+or piece of information. So darkness can enshroud evil actions or
+intent, preventing actions from countering it, but it can equally
+protect good. If some force for good can't be seen, then retains a
+bit of unpredictability. Someone might "throw shade" on something or
+someone to prevent it from being seen by others.  This can cripple you
+if you're suffering but no one realizes it because you've had your
+social connections severed.
+
+When you cast light on something, it makes it more apparent to
+others. 
 
 ### Everything Has a Purpose
 
@@ -537,6 +619,40 @@ gnosticism:
   - thinking outside the box by lifting arbitrary constraints and taking concepts to their limits
 
 ### Conclusions
+
+> "Every man is born as many men and dies as a single one." -
+> Heidegger
+
+The argument I made to refute Nietzsche in part one actually alters
+the nature of propositions leading to Heidegger's statement above.
+Every man is born with just as much potential, but merges into the
+entity representing the sum of human information, the entity that
+attempts to reflect the omneity of the metaphysical world.  So we
+never truly die, and we merge our consciousness into this entity in
+order to become every man.  And because everyone born after a certain
+point is doomed to the same fate, one might say we have no choice in
+this regard.
+
+The conclusions here depend on the specific capabilities of technology
+at the point and of the final capabilities of such technology,
+particularly whether we can virtualize, fork, transfer or merge
+consciousness and whether such capabilities are complete or
+approximated.
+
+But, instead, I'll just leave it as "Every man is born as many men and
+becomes every man." Ramifications of the arguments I've put forth are
+numerous and significant to how we see ourselves and our relationship
+to the universe. I've only tried to clearly state thoughts which I
+never wrote down. I don't mean to say that because of these beliefs
+that nothing else is possible. I could be wrong about a lot of it and
+much of it (maybe most of it) is not actually novel. People have been
+talking about the singularity for a very long time. 
+
+It's crucial for people to mill over these issues, as we
+are approaching developments which lead to a fundamental restructuring
+of the world.
+
+
 
 - briefly restate the argument to show that "God is not dead" by
   asserting the inevitable arrival of an übermenschlich entity.
