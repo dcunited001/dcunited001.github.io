@@ -434,21 +434,85 @@ more times than I can count.
 
 ### Light and Dark, Good and Evil
 
-These two concepts can each be viewed on a separate axis.  Light and
-Dark describe the degree to which something can be seen.  Good and
-Evil describe something like the morality of an action, event, person,
-or piece of information. So darkness can enshroud evil actions or
-intent, preventing actions from countering it, but it can equally
-protect good. If some force for good can't be seen, then retains a
-bit of unpredictability. Someone might "throw shade" on something or
-someone to prevent it from being seen by others.  This can cripple you
-if you're suffering but no one realizes it because you've had your
-social connections severed.
+These two concepts can each be viewed on a separate axis. Light and
+Dark describe the degree to which something can be seen. Good and Evil
+describe something like the morality of an action, event, person, or
+piece of information. So darkness can enshroud evil actions or intent,
+preventing actions from countering it, but it can equally protect
+good. If some force for good can't be seen, then retains a bit of
+unpredictability. Someone might "throw shade" on something or someone
+to prevent it from being seen by others. This can cripple you if
+you're suffering but no one realizes it because you've had your social
+connections severed.
 
 When you cast light on something, it makes it more apparent to
-others. 
+others. I've been serendipitously saved so many times by simply making
+the right pieces of information seen. There are certain circumstances
+you can avoid, just by making something known. There was very bad
+experience I had in Denver, where I briefly moved in with someone who
+was mentally ill. I didn't know him very well at all and I only lived
+with him for 2 days before leaving. This was the most frightening
+experience in my life because I already felt threatened, but I
+suddenly realized that I had no friends or family who really knew
+where I was. What scared me most of all was the degree to which this
+guy would try to distract me when I pulled my phone out, especially
+when I mentioned calling my family.
+
+### Awareness and Understanding of Evil
+
+There are types of events which are much more difficult for someone to
+pull off if they know other people are aware of your situation or of
+certain facts. And you'll find that manipulative or abusive people
+will try to threaten you into not making information known. And
+perpetrators of specific crimes, especially experienced repeat
+offenders will try to ascertain specific peices of information to
+gauge the likelihood of problems. If you provide them specific answers
+that indicate vulnerability, they might take action.
+
+If they're clever, they won't indicate or alarm you when they're
+searching for this information. *THIS ITSELF IS THE BIGGEST RED FLAG.*
+It is a huge indication that something is wrong when you ascertain
+that someone is trying to read pieces of information from you that
+indicate vulnerability to a specific type of crime or exploit. The
+degree to which they hide their intent implies their skill and
+foresight, as well as the degree to which you should fear that
+situation.  Good memory is important here because if someone
+rearranges the order in which they attempt to acquire information, it
+obscures cause and effect and becomes harder to detect that someone is
+going to pull one over on you.
+
+So, in order to recognize these situations, you really have to become
+aware of the kinds of crimes or ethical omissions that people might
+want to commit. You need to know what would motivate someone towards
+that end or in what ways someone could be compelled to commit a
+crime. Understanding the process, time and materials required for such
+actions is also important in understand what information someone
+requires. The more time they have, the more they can obfuscate their
+actions to avoid detection.  The more resources they have, the more
+likely they can involve other people, meaning that now, you not only
+have to worry about the information you've given to one person, but
+the information that you've given to several people and you need to
+know how they're connected. If you're up against a well lubricated
+machine that facilitates undercover activity, then the connections
+will difficult to perceive.  If you're fighting a surveillance
+apparatus, then you may need to be aware that they have information
+you never disclosed to anyone.  If someone has information that you
+have never disclosed to anyone or they have information that you ONLY
+EVER disclosed to one person, that's a major red flag.
 
 ### Everything Has a Purpose
+
+It's a bit interesting that knowledge of evil is required to fight
+against it. If for some reason, evil disappeared, then we would be
+totally inept against it in just a few generations. So, yes,
+everything has a purpose. There is a reason for everything. If you're
+a Christian, this can help answer the problem of evil: why would God
+create evil or allow it to exist? Yet, it doesn't completely resolve
+the problem of evil.
+
+But with 
+
+
 
 ### Compassion & Empathy
 
