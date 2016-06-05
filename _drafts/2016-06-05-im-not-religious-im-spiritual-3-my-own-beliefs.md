@@ -1,49 +1,108 @@
 ---
-title: "I'm Not Religious, I'm Spiritual: Of God and Atheisms"
+title: "I'm Not Religious, I'm Spiritual: My Own Beliefs"
 categories: blog
 tags: "anthropology religion sociology psychology"
-headline: ""
+headline: "Indispensible Foundations to Mercurial Cultural
+Deconstruction"
 author:
   name: "David Conner"
 excerpt: ""
 ---
 
-## Part Three
+### Mercurial Cultural Deconstruction
 
-### Indispensible Foundations to Mercurial Cultural Shift
+As we hurtle towards relative omniscience and relative omnipotence,
+isn't it important for us to discuss what makes humanity or any group
+worthy of wielding this power? If the primary belief system dictating
+policy is atheism and, thus, based on being the absence of any belief
+system, how can we ensure that whatever elements are in control of
+technology will be reigned in by any set of rules? If we do not have
+this discussion now, we will *never* have the opportunity. We need to
+be confident that not only is there an ethical framework, but that it
+is beyond insurmountable.  Moreover, we must rest assured that there
+is a system of propagating such a framework, so that our children do
+not find themselves overwhelmed by forces they can't understand, while
+disconnected from the cultural paths which led there.
+
+Elements of our culture will shift beneath us as we stand transfixed
+in a stuporous awe of the lightning-fast transition of other cultural
+elements.  In other words, our attention will be in the wrong place
+and we won't see potential problems until they have saturated the
+younger generations.  Each decade of youth will be increasingly
+detached from other decades. The cultural spectra that emerge will
+continue to diversify and detach until each distinct, detached "color"
+in the spectra is but a year or two apart.
+
+### Cultural Spaghettification
+
+It's like the spaghettification experienced when falling into a black
+hole: the closer you get, the more you get pulled apart, until you get
+stretched incredibly thin, like spaghetti.  And such is the effect
+that the singularity will have on each age group in our culture, which
+is why the singularity might be metaphorically viewed as a
+metaphysical black hole. This leads to the *Generation Rift*
+phenomenon, described in
+[The Paradox of Creativity](/posts/2016-05-16-the-paradox-of-creativity.html).
+
+### Generational Stratification
+
+So, religion is a perfect tool for helping to counter this cultural
+deconstruction and generational stratification, but it can only be
+helpful if large enough sets of people in our culture share belief
+systems. In particular, they must share those beliefs which form the
+*basis* of the rest of their beliefs. The notion of a basis was
+discussed in the first section of this series.  Where the bases formed
+primarily from scientific knowledge are always shifting, those formed
+by and tied to religion are much more constant.  In this way, elements
+of religion act as *metacultural fixpoints* in the psyche of
+believers.
+
+### Metacultural Fixpoints
+
+Without sets of archetypical fixpoints shared across large groups of
+our society, without regard to class or ethnicity, we are going to
+quickly find ourselves lost in the future.
+
+...
+
+To clarify, I am not trying to specify the "correct" religion or
+specify the correct set of beliefs that should form the basis of a
+religion or even specify that there could be such a "correct" set of
+beliefs. To specify, because I don't believe it is possible for me or
+anyone else to fully comprehend the entity which represents my
+definition of God, I don't believe it's possible for anyone to state
+that their set of beliefs is the superior belief system. I do not
+intend to force my opinions and beliefs on others.  Please understand
+my motivation behind writing this is sincere concern that we may find
+ourselves unprepared for the future, regardless of which class,
+ethnicity or religion we are part of.
+
+## Personal Beliefs
+
+While I claim that religion is needed because of it's capacity to
+shape the minds of the next generation, I haven't provided or accepted
+such a vehicle myself.  I don't believe humanism is quite capable in
+this regard and I feel like atheism completely disregards the value of
+such a vehicle and our need for one.  However, I don't intend on
+specifying how such a thing should be constructed for my own belief
+system, since it is mine and mine alone.
 
 
-## Part Two
 
-- tectonic
-- mercurial
-- errata
+- religion as ever more important as the foundations of our culture
+  begin to change more and more.
 
-### ... ?
 
-any more
+But as we approach
 
-policies
-which strengthen our economies.  War is too disastrous in the 21st
-century.  There are so many problems on which the the entire globe
-must cooperate or we cannot hope to resolve.
 
-had a list
-of rules that were clearly enumerated and did not change for millenia.
-
-. It is incredibly ignorant to say
-to that there is not
 
 Atheism as a basis for laws can be good
 - but also it can be misguided
 
-My own beliefs? To gloss over a few:
 
-**split into part two**
 
 ## My Beliefs?
-
-I'll just gloss over a few of these
 
 Just wanted to summarize over those, although that list is by no means
 complete. And please let me emphacize: I in no way intend or intended
@@ -58,10 +117,9 @@ dirty, whether it's Buddhism or Christianity or whatever. And while I
 clearly see the value of religion and hold it's waning influence
 partially responsible for many of the problems we have in the world
 today, I find it difficult to defend because I haven't strongly
-embraced any religion.  I can't exactly use my interpretation of bible
+embraced any religion. I can't exactly use my interpretation of bible
 verses as rhetorical defense because who am I to interpret something
 like that, if I don't claim strong personal belief.
-
 
 gnostic/theosophist influence:
 
@@ -120,6 +178,14 @@ possible future selves as already existing and act accordingly.
       - how would aristotle have reached these conclusions?
       - could the ancient greeks known this and if so, how did they
         reach those conclusions?
+
+- there are many things which are complicated by our way of life
+  - in many ways, ancient people could foresee much more than we can
+    comprehend
+  - we perceive them to be ignorant because they lacked technology
+    - but actually, our way of life clouds are vision and our minds,
+      making it impossible to reach many of the same insights, which
+      ancient people might consider common sense.
 
 ### Emphacizing Potential Over Faults
 
@@ -306,6 +372,37 @@ gnosticism:
       - or someone decides to be the villain
   - thinking outside the box by lifting arbitrary constraints and taking concepts to their limits
 
-- as we hurtle towards relative omniscience and relative omnipotenc
-  - isn't it important for us to discuss what makes a group worthy of ...
-    - ... "handling this power?" i think that's what i meant to write
+### Conclusions
+
+- briefly restate the argument to show that "God is not dead" by
+  asserting the inevitable arrival of an übermenschlich entity.
+  - assert that this means faith is no longer necessary for belief in
+    God, since this entity's development assymptotically approaches
+    the metaphysical reflection of God
+  - this doesn't preclude faith, but means faith is no longer
+    necessary.
+    - but it can still leave us dealing with the fallout of a belief
+      system that is undeniable, where faith is not required.
+      - a belief system dependent on faith instead of undeniable
+        evidence has it's own qualities and benefits
+    - and furthermore, it still leaves us with the responsibility of
+      dealing with the problem of nihilism, which Nietszche feared.
+
+Even if someone manages to purge all memory of me as an individual,
+you will never manage to purge all reflections of me which are alive
+inside all of us. Those fragments don't need to be linked by name to
+survive -- in fact anonymity was a crucial element, as the love and
+oneness we strive for would lose power and relevance if it were
+named. And the most important fragments, in fact, would only be
+rediscovered, as they are pieces of universal truths. What I have
+begun and what we have set in motion cannot be stopped, nor should it
+be.
+
+- you're #WhatHaveViews
+  - thoughts belong to those who think them.
+  - words belong to those who write them.
+  - languages belong to those who speak them.
+  - and our memes? they belong to us
+  - our languages? they belong to us
+
+
