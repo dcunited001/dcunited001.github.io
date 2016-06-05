@@ -219,7 +219,7 @@ other things can be defined.  Therefore, they are timeless. Our
 inescapable fates are defined in terms of the intangible and nothing
 can escape it's reach.
 
-### Timelessness
+### Find Your Genius
 
 In addition to the Golden Rule, we need to think outside our current
 time and place.  This means considering how people lived in the past,
@@ -232,6 +232,27 @@ situation.
 > If I were already the person I wanted to be, how would I handle this
 > situation differently. That person that built my dreams, what would
 > he or she have done to get there?
+
+The Romans had their own concept of genius, which was like the design
+essence that lay beyond our psyche: it was like our individual star in
+the metaphysical sky. It resembles this concept of the idealized
+self. When we are young, we should develop that kernel of knowledge
+that allows us to best decide what we want to do with our lives and
+helps us identify the pieces of knowledge which are most useful. It
+helps if our parents can be very involved in our lives or that we at
+least have some mentor who can fuel this development.  Our minds are
+most pliable then and we have the most opportunity for them most
+growth. Yet, it is unfortunate our time spent at the height of our
+potential is precisely when we have a minimal understanding of the
+world, preventing us from best planning how to invest that potential.
+
+> "Every man is born as many men and dies as a single one." -
+> Heidegger
+
+this is the exact time when we
+
+
+### Timelessness
 
 I find it an invaluable tool to simulate ancient models of thought. It
 helps to brainstorm other ways of viewing the world or of trying to
@@ -293,18 +314,39 @@ becoming defined by others, and honestly, I am so fucking tired of
 that.  Do not try to label me or define me or tell me what I believe
 or explain to others what I think. I define myself. I have my own
 beliefs. I think my own thoughts. And no one should assume they have
-the right to ANY of that.  I have sacrificed so much in order to never
-give in.  In order to openly support drug legalization, so I will be
-damned if I let someone else define me or speak for me. Though,
-honestly, letting someone else speak for me probably wouldn't be too
-bad. However, I have been victimized in the workplace by a handful of
-people and I just sat idly by, not wanting to say anything wrong or
-worried that I'd sink to their level. And I just sat there, while they
-made my life miseraable; they ruined my life and I just sat there!
-They obliterated any confidence anyone had in my in my workplace.
+the right to ANY of that.
 
-How often have
-you been labeled in your personal life and then you find
+I have sacrificed so much in order to never give in, in order to
+openly support drug legalization, so I will be damned if I let someone
+else define me or speak for me. Though, honestly, letting someone else
+speak for me probably wouldn't be too bad. However, I have been
+victimized in the workplace by a handful of people and I just sat idly
+by, not wanting to say anything wrong or worried that I'd sink to
+their level. And I just sat there, while they made my life miseraable;
+they ruined my life and I just sat there!  They obliterated any
+confidence anyone had in my in my workplace and they did so in a
+calculated, strategic manner.
+
+And so my point is: do not find yourself in this position.  Define
+yourself. Speak up. Be independent. Think your own thoughts. Listen to
+others and especially to understand how they see you.
+
+Conversely and by corrolary, make it easier for others to define
+themselves, authentically.  You can do this by providing better
+information to them about how you perceive them, though not
+necessarily in a direct manner. You can give them the space and
+autonomy to grow. You can share anecdotes and experience that might
+end up being important to how they see themselves or what they decide
+to do with their career.
+
+But always be aware of the lens you're using to view them: is this a
+perspective you've constructed independently? Is it honest? Is it
+helpful? If this person needs change, do they want to change? Is that
+desire to change just verbal or at the conscious level? Or does it
+appear that the desire for change motives a few actions or does it
+permeate their actions? It's important to be realistic and keep your
+goals in mind.
+
 
 
 - seeing the best in other people
@@ -319,6 +361,8 @@ you been labeled in your personal life and then you find
   - cultivating virtues and leadership in yourself and others
 
 - of course, it's important to be realistic here.
+
+### Help Others Grow
 
 ### Light and Dark, Good and Evil
 
