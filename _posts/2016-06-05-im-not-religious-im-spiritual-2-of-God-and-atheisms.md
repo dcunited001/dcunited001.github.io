@@ -2,10 +2,17 @@
 title: "I'm Not Religious, I'm Spiritual: Of God and Atheisms"
 categories: blog
 tags: "anthropology religion sociology psychology"
-headline: ""
+headline: "Equiped With the Wisdom of Dozens of Generations"
 author:
   name: "David Conner"
-excerpt: ""
+excerpt: "Which part of the beauty of this world did you miss? Did you take a
+look at that sapphiric jewel floating in the massive expanse of ether?
+Did you stop to think that the only reason we can begin to fathom the
+infinite, magnificent expanse of our universe is because the universe
+began to reflect intangible metaphysical artifacts and imbued star
+dust with the potential to become self-aware.  Over the course of
+billions of years, the universe evoked forms through which it could
+wonder in awe of it's own beauty."
 ---
 
 Atheisms, plural, because if atheism isn't a religion or even a belief
@@ -84,13 +91,13 @@ enumerated a list of rules that remained constant for millenia.
 
 ### There Is No Man Above Him
 
-That is one of the aspects that I admire about Christianity.  Jesus
+That is one of the aspects that I admire about Christianity. Jesus
 declares himself to be "King of kings and Lord of lords." And this
 means there is no person on earth, whether a pauper or emperor, who
 could challenge the authority of what is written in the New
-Testament. That for over two millenia, even the most powerful rulers
-would be bound to adhere to such a clearly stated set of rules. Ethics
-and laws which could never change on the whim of a tyrant.  And which
+Testament. That for two millenia, even the most powerful rulers would
+be bound to adhere to such a clearly stated set of rules. Ethics and
+laws which could never change on the whim of a tyrant. And which
 could be used to hold such tyrants accountable for transgressions
 against a set of laws which no man could question.
 
