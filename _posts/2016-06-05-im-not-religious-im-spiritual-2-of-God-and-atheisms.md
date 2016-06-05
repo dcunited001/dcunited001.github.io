@@ -206,8 +206,10 @@ towards people of other faiths.
 
 So does bad science. IMO, science itself should be considered a
 religion because the belief systems extrapolated from current
-understanding are formative in the belief systems of the acolytes of
-science.
+understanding are just as formative in the belief systems of the
+acolytes of science. Science can easily lead to dangerous utilitarian
+policy, since it doesn't typically lead to strong definitions of
+ethics.
 
 ### Religious Beliefs Are Outdated
 
@@ -217,19 +219,19 @@ science is constantly in flux.  So, not only does it create belief
 structures, just like a religion, it's constantly in cyclic flux,
 invalidating itself and the belief systems of it's followers. Yet, it
 doesn't necessarily propagate the new beliefs to those followers.
-This sows a sense of distrust between generations.
+This can sow the seeds of a cultural rift between generations.
 
 ### Relgious Beliefs Are Vulnerable to Exploitation
 
 More to the point, this flux creates an opportunity for
-exploitation. Whoever funds the science exerts control of the
-flux from one paradigm to the next.  The control resides with the few
-with the resources to do so.  And the vulnerability for exploitation
-is powerful, as the decisions of lawmakers are often based on the
-current extent of mainstream scientific knowledge, with the best
-intentions in mind. IMO, I'd rather have policy decisions based on
-something unchanging, like humanist values. At the same time, I don't
-think it's a good idea for people to entirely base public policy on
+exploitation. Whoever funds the science exerts control of the flux
+from one paradigm to the next.  The control resides with the few with
+the resources to do so.  And the vulnerability for exploitation is
+powerful, as the decisions of lawmakers are often based on the current
+extent of mainstream scientific knowledge, with the best intentions in
+mind. IMO, I'd rather have policy decisions based on something
+unchanging, like humanist values. At the same time, I don't think it's
+a good idea for people to entirely base public policy on religion.
 
 ### Arguments Not Based On Propositional Logic
 
@@ -243,7 +245,8 @@ was fair because my argument didn't actually hold under propositional
 logic. I acknowledged this and he immediately incurred an aneurism.  I
 then introduced category theory and higher-order logic, which he knew
 nothing about. He then countered by blocking me on Facebook. I think
-it's because I won.
+it's because I won. Often the value and sometimes the truth in
+religion isn't found at the surface.
 
 ## Part 3: My Beliefs
 
