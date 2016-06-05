@@ -1,5 +1,5 @@
 ---
-title: "I'm Not Religious, I'm Spiritual: God Is NOT Dead"
+title: "I'm Not Religious, I'm Spiritual: God Is Not Dead"
 categories: blog
 tags: "anthropology religion sociology psychology"
 headline: "Heady Metaphysics My Brain Is In Pieces"
@@ -368,4 +368,10 @@ God or to spirituality or to the Atman.
 
 ## Part 2: On Atheisms
 
-Coming Soon...
+The next section I'll briefly describe religion's role in providing
+the long-term cultural stability which fermented the Renaissance and
+the Age of Enlightenment in the West. I'll describe why society needs
+the notion of a set of inviolable tenets, which restrain the worst and
+even the best of mankind. Then I'll refute several of atheism's common
+arguments against religion.
+
