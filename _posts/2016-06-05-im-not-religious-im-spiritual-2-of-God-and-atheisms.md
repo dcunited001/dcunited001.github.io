@@ -184,9 +184,9 @@ all be false?
 
 Just covered this one earlier. While it can be shown that, yes, many
 conflicts have been driven by religion, weakening the
-value-propagating function of religion in society, without replacing
-it with anything, leads to demoralization and disrupts the viability
-of widely-shared value systems.
+value-propagating function of religion in society without replacing it
+with anything, leads to demoralization and disrupts the viability of
+widely-shared value systems.
 
 ### Religious People Are Judgemental
 
@@ -198,7 +198,9 @@ adopting a moral code. And people who refrain from, in particular,
 pleasurable activities their religion declares immoral, have every
 right to be proud of the life they lead. And there are reasons behind
 the rules they follow. It takes a lot of effort to do so and they have
-every right to it.
+every right to be proud of it, without letting that pride cloud their
+vision. At the same time, they should be accepting and tolerant
+towards people of other faiths.
 
 ### Religion Leads to Bad Policy
 
@@ -244,3 +246,10 @@ nothing about. He then countered by blocking me on Facebook. I think
 it's because I won.
 
 ## Part 3: My Beliefs
+
+In the final part of this series, I describe some of my own
+beliefs. I'm in the odd position of arguing on the behalf of organized
+and unorganized religion, yet I'd miss the target if I didn't bother
+specifying some of my own beliefs and values, which are derived from
+learning about world religions, from gnosticism and theosophy, and
+from self-discovery.

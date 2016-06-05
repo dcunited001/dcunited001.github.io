@@ -125,9 +125,9 @@ impending "death" drew nearer. However, I feel Nietzche jumped the gun
 on this. Here's a few articles [barely] worth reading that further describe the
 metaphysical ideas above.
 
-#### [Neural Networks and Spider Brains](http://te.xel.io/posts/2015-11-21-neural-networks-and-spider-brains.html)
+#### [Neural Networks and Spider Brains](/posts/2015-11-21-neural-networks-and-spider-brains.html)
 
-#### [Epistemology, Category Theory and Cognition](http://te.xel.io/posts/2015-08-23-epistemology-cognition-and-category-theory-part-one.html)
+#### [Epistemology, Category Theory and Cognition](/posts/2015-08-23-epistemology-cognition-and-category-theory-part-one.html)
 
 ### Benefits of Social Institutions
 
