@@ -68,7 +68,8 @@ beliefs in the basis superceeding older beliefs and the resulting
 belief structure representing science's extrapolated sphere of
 knowledge is constantly recalculated, then distributed. While this
 process continues to accelerate, then the costs to cultural stability
-will increase just as steadily.
+will increase just as steadily. So we need these fixpoints to ground
+our culture in something.
 
 ### Differential Singularity
 
@@ -83,19 +84,24 @@ creating a situation where the people currently in control of the
 technology seal themselves off from threats to their power.
 
 At some point, unless access to information is permitted, there is a
-huge opportunity for the power-hungry to abuse this
-differential. There are specific technologies which magnify the rate
-at which new discoveries occur.  On the other hand, many of these
-technologies are incredibly dangerous and, thus, the desire to wall
-these techs off is justified.  Because of this, the likelihood that a
-small faction of people would abuse the differential singularity is
-all the more likely: because if they did, who would know about it?
+huge opportunity for the power-hungry to abuse this differential.
+There are specific technologies which magnify the rate at which new
+discoveries occur: this is the nature of the singularity.  On the
+other hand, many of these technologies are incredibly dangerous and,
+thus, the desire to wall these techs off is justified.  It is because
+of this that the likelihood that a small faction of people would abuse
+the differential singularity is all the more likely: because if they
+did, who would know about it?
 
-###
+### I'm Still Searching
 
-So we need these fixpoints to ground our culture in something.  
-
-...
+While I claim that religion is needed because of it's capacity to
+shape the minds of the next generation, I haven't provided or accepted
+such a vehicle myself.  I don't believe humanism is quite capable in
+this regard and I feel like atheism completely disregards the value of
+such a vehicle and our need for one.  However, I don't intend on
+specifying how such a thing should be constructed for my own belief
+system, since it is mine and mine alone.
 
 To clarify, I am not trying to specify the "correct" religion or
 specify the correct set of beliefs that should form the basis of a
@@ -110,31 +116,6 @@ ourselves unprepared for the future, regardless of which class,
 ethnicity or religion we are part of.
 
 ## Personal Beliefs
-
-While I claim that religion is needed because of it's capacity to
-shape the minds of the next generation, I haven't provided or accepted
-such a vehicle myself.  I don't believe humanism is quite capable in
-this regard and I feel like atheism completely disregards the value of
-such a vehicle and our need for one.  However, I don't intend on
-specifying how such a thing should be constructed for my own belief
-system, since it is mine and mine alone.
-
-
-
-- religion as ever more important as the foundations of our culture
-  begin to change more and more.
-
-
-But as we approach
-
-
-
-Atheism as a basis for laws can be good
-- but also it can be misguided
-
-
-
-## My Beliefs?
 
 Just wanted to summarize over those, although that list is by no means
 complete. And please let me emphacize: I in no way intend or intended
@@ -158,22 +139,56 @@ gnostic/theosophist influence:
 ### The Golden Rule
 
 We should act as though we are all one and that to harm another is to
-harm oneself. IMO, the 10 Commandments and Noahide laws are rules that
+harm oneself. IMO, the Ten Commandments and Noahide laws are rules that
 someone who truly respects another would not break.  Not because they
 are clearly stated rules, but because someone who equinanimously
 informs their action with empathy and awareness just wouldn't break
-those rules.
+those rules.  Such a person's ethical rules for action might not
+map up one-to-one with the Ten Commandments, but still, their actions
+will mostly line up with them.
 
-- acting as though you literally are the other person
-  - if we are all one, then this is true
+### We Are All One
 
-- this is really the most important aspect
-  - almost everything else could be dropped or redefined
-  - also, one has to decide on:
-    - relative or absolute morality
-    - relativism and/or utilitarianism vs. pragmatic expression of
-      philosophy
-    - each has their dangers
+If we truly are all one, then harming another person is equivalent to
+harming oneself.  This is why I try to extend the Golden Rule to
+perceiving situations and interactions as though I am literally the
+other person or people involved.  I will try to see the world through
+their eyes. This and the Golden Rule are really the most important
+aspects -- and I'm not sure that these are two separate things.
+Almost everything else could be dropped or redefined.
+
+At that point, one needs to decide on relative or absolute morality:
+relativism vs. moral universalism of Kant.  This requires
+universalability, which dictates that for an action to be permissable,
+it must apply equally to every situation and every person.  It is
+nearly impossible, but incredibly admirable to adhere to Kant's
+philosophy, as it almost entirely nullifies your space of potential
+actions.
+
+Also, it is incredibly hard to practice empathetic behavior if people
+warp the perception of you, so that you're a pariah. It's not an
+excuse to limit one's interactions with others or restrict empathy,
+but it is really hard to practice compassion or provide values to
+others when one has no income and practically nothing to give.
+
+Furthermore it's incredibly hard to see the world through someone's
+eyes when they see you as a miserable useless piece of shit and they
+never intend on allowing others to see you in an honest light.  Why
+would I want to view their perspective, when all they intend is to
+limit me, no matter what I do?  Of course, it is still crucial to try
+because you can only connect with someone by empathizing with them.
+
+### Negative, Neutral, and Positive
+
+Obviously, I miss the mark on compassion and the Golden Rule quite
+often. It is one thing to do no harm and seek neutrality with the
+world. For the most part, this is easy for me. But it is another thing
+entirely to contribute to the world around you. Just because you don't
+harm another doesn't mean you're actively giving back.  If you don't
+expend time, energy, and resources contributing positively to the
+people around you, you'll find yourself pretty isolated.  If someone
+seeks to strip you of your resources to rob you of your capability to
+positively influence people around you, this is incredibly depressing.
 
 ### The Unknown
 
@@ -181,7 +196,9 @@ There is this mystical, ineffable force that pervades every fragment
 of the universe.  It is powerful and we cannot ever hope to fully
 understand it, but it's far from fruitless to try. This is the basis
 for the connection between all of us, our karma, and the direction of
-our individual fates.
+our individual fates.  I explain this a little better in this article
+on the [Nature of God](/posts/2016-05-31-the-nature-of-god.html),
+although the language is a bit dense.
 
 ### The Intangible
 
@@ -189,14 +206,18 @@ The intangible is as real as the tangible. The beliefs of others are
 as real as the chair I'm sitting in. The intangible extends to
 metaphysical concepts beyond those based on information processed by
 conscious, physical beings. There is consciousness everywhere;
-everything is connected. And there are intangible metaphysical affects
-pervading space and time.  Some of these will never change -- it could
-be argued that any which are not perminant can be totally & summarily
-defined in terms of those that are permanent. Math is such a
-universal, metaphysical object, which cannot ever change by its nature
-and from which all other things can be defined.  Therefore, they are
-timeless. Our exigent fates are defined in terms of the intangible and
-nothing can escape it's reach.
+everything is connected. And there are intangible metaphysical
+artifacts pervading space and time.  They might be metaphysical and
+thus, invisible and intangible, but the effects on our lives are very
+real.
+
+Some of these will never change -- and it could be argued that any
+which are not perminant can be totally & summarily defined in terms of
+those that are permanent. Math is such a universal, metaphysical
+object, which cannot ever change by its nature and from which all
+other things can be defined.  Therefore, they are timeless. Our
+inescapable fates are defined in terms of the intangible and nothing
+can escape it's reach.
 
 ### Timelessness
 
@@ -204,22 +225,87 @@ In addition to the Golden Rule, we need to think outside our current
 time and place.  This means considering how people lived in the past,
 as well as how they could live in the future. We should think of our
 possible future selves as already existing and act accordingly.
+Sometimes it's better imagine situations through the lense of our
+idealized selves than from within the confines of our present
+situation.
 
-    - simulate ancient models of thought
-      - think hard about problems without cheating by applying today's knowledge/technology
-      - how would aristotle have reached these conclusions?
-      - could the ancient greeks known this and if so, how did they
-        reach those conclusions?
+> If I were already the person I wanted to be, how would I handle this
+> situation differently. That person that built my dreams, what would
+> he or she have done to get there?
 
-- there are many things which are complicated by our way of life
-  - in many ways, ancient people could foresee much more than we can
-    comprehend
-  - we perceive them to be ignorant because they lacked technology
-    - but actually, our way of life clouds are vision and our minds,
-      making it impossible to reach many of the same insights, which
-      ancient people might consider common sense.
+I find it an invaluable tool to simulate ancient models of thought. It
+helps to brainstorm other ways of viewing the world or of trying to
+reach the same idea. I will think hard about problems to without
+cheating by applying today's knowledge or technology.  For example,
+trying to understand how arabian mathematicians understood algorithms
+when they originally developed the concept. Or trying to think through
+whether or not the ancient greeks would have been able to predict this
+or that. If so, how would they have been able to predict these
+conclusions. It's a useful tool, but can easily lead to unfounded
+inferences, so it's important to keep that in mind.
+
+Yet, there are many things which are complicated by our way of life.
+In many ways, ancient people could foresee much more accurately than
+we can comprehend. We perceive them to be ignorant because they lacked
+technology when actually our way of life almost completely clouds our
+vision and our minds.  We deal with so much irrelevant information and
+non-sense. Our lives are so structured so that we cannot see beyond
+our blinders. In some cases, it is impossible to reach many of the
+same insights, which ancient people might consider common sense.
+
+In fact, this is one idea behind the area of Buddhist eschatology
+dealing with Maitreya.  Maitreya will appear in the future when most
+people are disconnected with the dharma and he will achieve
+enlightenment. After a certain point, people will lead incredibly long
+lives and they will completely lose the ability to become enlightened
+for a very long time. I want to refrain from making too many
+conclusions about this, but to me, this means we are disconnected from
+enlightenment because of some aspect of our culture or lives at that
+time. Or, at least, that our ability to reach true enlightenment or
+something like it can be significantly impaired by our way of life.
 
 ### Emphacizing Potential Over Faults
+
+I believe that we interact best with others when we see them for their
+potential, instead of their faults. We shouldn't limit another's
+capacity in our mind, through judgement or however. Too often we
+develop some rigid preconcieved notion of how someone "is" and we
+forget to think of them in terms of how they could be.
+
+This has happened to every one of us: someone sets their expectation
+of us and they treat us like that and we fall in line exactly with
+their expectations. Example: someone is treated like they might be a
+thief, they're hurt by the assumption and so, in response, they steal
+something. The example's a bit extreme. Another common example
+surrounds mental illness: someone is labelled as depressed or bipolar
+or schizophrenic or quick to anger. And the reinforcement of the label
+itself is responsible for reinforcing behaviors which contribute to
+the label.
+
+Obviously, if you find yourself in these kinds of situation, you
+shouldn't give in and allow other people to define what you are.  That
+is weak, but it is all too easy to give in. The harder people try to
+label you, the louder and more vocal they are, and the more uniform
+their assertions, the easier it becomes to give in.
+
+Too often, I have allowed my silence and inaction to lead me to
+becoming defined by others, and honestly, I am so fucking tired of
+that.  Do not try to label me or define me or tell me what I believe
+or explain to others what I think. I define myself. I have my own
+beliefs. I think my own thoughts. And no one should assume they have
+the right to ANY of that.  I have sacrificed so much in order to never
+give in.  In order to openly support drug legalization, so I will be
+damned if I let someone else define me or speak for me. Though,
+honestly, letting someone else speak for me probably wouldn't be too
+bad. However, I have been victimized in the workplace by a handful of
+people and I just sat idly by, not wanting to say anything wrong or
+worried that I'd sink to their level. And I just sat there, while they
+made my life miseraable; they ruined my life and I just sat there!
+They obliterated any confidence anyone had in my in my workplace.
+
+How often have
+you been labeled in your personal life and then you find
+
 
 - seeing the best in other people
   - being realistic, but treating them as though your seeing the best
@@ -245,6 +331,8 @@ possible future selves as already existing and act accordingly.
 ### The Relative and the Absolute
 
 ### Independence
+
+### Always Keep Searching
 
 We are best when we have as much power over our fate and circumstance
 as possible. One should take great care if interfering in the life of
