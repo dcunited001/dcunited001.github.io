@@ -155,7 +155,7 @@ ethnicity or religion we are part of.
 
 #### [Independence](#independence)
 
-#### [Self-Knowledge](#self-knowledge)
+#### [Knowledge of Self](#knowledge-of-self)
 
 #### [Karma](#karma)
 
@@ -667,7 +667,7 @@ We are best when we have as much power over our fate and circumstance
 as possible. One should take great care if interfering in the life of
 another.
 
-### Self-Knowledge
+### Knowledge of Self
 
 We should know ourselves and our world. We can't know ourselves
 without learning about the world and we can't fully understand the
