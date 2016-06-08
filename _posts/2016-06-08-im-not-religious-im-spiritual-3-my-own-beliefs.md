@@ -2,14 +2,16 @@
 title: "I'm Not Religious, I'm Spiritual: My Own Beliefs"
 categories: blog
 tags: "anthropology religion sociology psychology"
-headline: "Indispensible Foundations to Mercurial Cultural
-Deconstruction"
+headline: "Indispensible Foundations to Mercurial Cultural Deconstruction"
 author:
   name: "David Conner"
 excerpt: ""
 ---
 
 ### Mercurial Cultural Deconstruction
+
+- TODO: link articles together (TOC on each article)
+  - how to do this in jekyll?
 
 As we hurtle towards relative omniscience and relative omnipotence,
 isn't it important for us to discuss what makes humanity or any group
@@ -117,6 +119,68 @@ ethnicity or religion we are part of.
 
 ## Personal Beliefs
 
+#### &#x03A6; [The Golden Rule](#the-golden-rule)
+
+#### &#x1234; [We Are All One](#we-are-all-one)
+
+#### &#x1234; [The Unknown](#the-unknown)
+
+#### &#x03A6; [Negative, Neutral & Positive](#negative-neutral-positive)
+
+#### &#x03A6; [The Intangible](#the-intangible)
+
+#### &#x03A6; [Find Your Genius](#find-your-genius)
+
+#### &#x03A6; [Timelessness](#timelessness)
+
+#### [Emphasizing Potential Over Faults](#emphasizing-potential-over-faults)
+
+#### [Help Others Grow](#help-others-grow)
+
+#### [Light & Dark, Good & Evil](#light-and-dark-good-and-evil)
+
+#### [Awareness and Understanding of Evil](#awareness-and-understanding-of-evil)
+
+#### [Everything Has a Purpose](#everything-has-a-purpose)
+
+#### [The Relative & the Absolute](#the-relative-and-the-absolute)
+
+#### [Familiarity with the Empty Mind](#familiarity-with-the-empty-mind)
+
+#### [Meditation](#meditation)
+
+#### [Always Keep Searching](#always-keep-searching)
+
+#### [Never Stop Stopping](#never-stop-stopping)
+
+#### [Independence](#independence)
+
+#### [Self-Knowledge](#self-knowledge)
+
+#### [Karma](#karma)
+
+#### [Devine Connection](#devine-connection)
+
+#### [Every World Religion Offers Valuable Wisdom](#every-world-religion-offers-valuable-wisdom)
+
+#### [Judgement & Forgiveness](#judgment-and-forgiveness)
+
+#### [Providing Purpose](#providing-purpose)
+
+#### [Understanding Our Personal Circumstances](#understanding-our-personal-circumstances)
+
+#### [Understanding Our Environment](#understanding-our-environment)
+
+#### [Axiomatic Waypoints](#axiomatic-waypoints)
+
+#### [Asymptotic Evaluation](#asymptotic-evaluation)
+
+#### [Moving the Lampposts](#moving-the-lampposts)
+
+#### [Reincarnation](#reincarnation)
+
+#### [Humility](#humility)
+
 Just wanted to summarize over those, although that list is by no means
 complete. And please let me emphacize: I in no way intend or intended
 to create something that other people would follow. Dear God, no. That
@@ -176,7 +240,7 @@ would I want to view their perspective, when all they intend is to
 limit me, no matter what I do?  Of course, it is still crucial to try
 because you can only connect with someone by empathizing with them.
 
-### Negative, Neutral, and Positive
+### Negative, Neutral, & Positive
 
 Obviously, I miss the mark on compassion and the Golden Rule quite
 often. It is one thing to do no harm and seek neutrality with the
@@ -430,7 +494,7 @@ Maybe they were justified. Maybe they never thought to do that and
 it's just a coincidence that my only protege stabbed me in the back
 more times than I can count.
 
-### Light and Dark, Good and Evil
+### Light & Dark, Good & Evil
 
 These two concepts can each be viewed on a separate axis. Light and
 Dark describe the degree to which something can be seen. Good and Evil
@@ -456,7 +520,7 @@ where I was. What scared me most of all was the degree to which this
 guy would try to distract me when I pulled my phone out, especially
 when I mentioned calling my family.
 
-### Awareness and Understanding of Evil
+### Awareness & Understanding of Evil
 
 There are types of events which are much more difficult for someone to
 pull off if they know other people are aware of your situation or of
@@ -522,45 +586,62 @@ cultivates a great understanding of the secret motion of things and a
 great awareness of the state of the world, one should not interfere.
 The subtlest of actions can have extraordinary consequences.
 
-### Self-Sacrifice
-
-... maybe delete?
-
-I really hope this section won't be misinterpreted, but I feel that
-our life is the greatest gift we have. Giving my life could mean
-dedicating my life in service of my family, community or country. It
-could also mean literally giving up my life at some point. I
-personally don't fear death, but IMO it'd be a lot harder to
-accomplish my goals if I died. Giving your life for something is a
-beautiful act that each of us can only do once. And it would be a
-tragedy if one were to sacrifice themselves without understanding
-why. A muted martyr is not a martyr.
-
-> "Live as if you were to die tomorrow. Learn as if you were to live
-> forever." - Mahatma Ghandi
-
-Everyone dies. I'd rather make my death mean something. Living out a
-long, fulfilling life is good to strive for, but sounds boring IMO.
-
-Of course, this doesn't mean I believe that violent actions are
-justified just because one sacrifices themselves. IMO, that is
-cowardly, both on the part of the person that performs such act as
-well as the people that put them up to it.
-
-### The Relative and the Absolute
+### The Relative & the Absolute
 
 The relative and absolute can be applied to morality, but can also be
-generalized to almost anything.
+generalized to almost anything.  Moreover, there is a continuum
+between the two.
 
-...
+Cohering to the relevant means you consider your relationship to your
+local surroundings first, whether or not that means local in the
+physical sense.  Cohering to the absolute means adhering to a set of
+ideas that don't change under circumstance.
 
 ### Familiarity with the Empty Mind
 
 It's peculiar, how an empty mind is so much more capable of
-functioning than the conditioned mind. The completely empty mind has
-the capacity for anything and yet nothing, so in itself it is not very
-useful. Still, unlearning bad habits and untangling negative beliefs
-and is incredibly challenging. It's impossible to
+functioning than the conditioned mind. As tabula rasa, the empty mind
+has the capacity for anything and yet nothing, so in itself it is not
+very useful. Still, unlearning bad habits and untangling negative
+beliefs and is incredibly challenging.  So it's best to learn things
+right. As you develop further, if you actively observe beginner's
+mind, you can use your awareness of it to partially apply it's
+benefits as you need them.
+
+...
+
+One of the worst things you can do is reinforce an anxiety you have
+about something, like a type of situation or a personal behavior. It's
+best not to get hung up on this stuff because it can inhibit the rest
+of your mind.  Some anxieties are basically your mind overexerting
+itself on minor details.  This can be emotionally exhausting, but it
+can also deplete your brain's chemical energy and the nutrients it
+needs to function.
+
+But a mind that is calm and focused on just the right aspects of a
+situation works best.  But in order to develop
+
+the mind is peculiar and there are definitely hacks
+- analytical mind vs emotional mind
+  - the two seem to inhibit each other
+- exhaustion of specific circuits
+  - nutrients are local resources in the brain
+  - blood can revitalize cells with nutrients, but 
+
+the point is, there are peculiarities to neural circuitry
+- and to counter this, one of the best things you can do is empty your
+  mind and focus on nothing
+
+### Meditation
+
+Meditation or extended, focused prayer can bring calmness to your mind
+and partially reset its state.
+
+- often, meditation or relaxation or extended, focused prayer can
+  bring calmness to your mind and somewhat reset it's state
+  - this can alleviate anxiety or bring the clarity needed for insight
+  - this same feeling can come from playing music or 
+
 
 ### Always Keep Searching
 
@@ -593,12 +674,20 @@ without learning about the world and we can't fully understand the
 world without knowing about ourselves.  Meditation, retreat into
 nature, and education are great ways to learn about ourselves.
 
+
+
 ### Karma
 
 Our actions matter, even when they are not seen. There is karma formed
 from the beliefs of others, which is usually a response to your own
 actions and beliefs. I also believe in universal karma, which is
 outside our control or understanding.
+
+- causality
+  - there is another way. there is always another way
+    - if it seems too hard, it means we are not yet skilled enough
+      - we need to observe more of before we act
+
 
 ### Devine Connection
 
@@ -608,6 +697,7 @@ as ordinary or supernatural, I believe it is there and that some are
 more in tune than others. It's something we can exercise through
 reflection and medititation. And it is something that can be
 suppressed by others.
+
 
 ### Every World Religion Offers Valuable Wisdom
 
@@ -619,6 +709,7 @@ study. At the least, we learn about what other people believe.
 
 ... elaborate on philosophy here?
 
+
 ### Judgement & Forgiveness
 
 who has the right to judge anyone?
@@ -626,13 +717,13 @@ who has the right to judge anyone?
   - of course we can try
   - but we can never actually understand their situation.
 
-
 ### Providing Purpose
 
 in our lives
 - in others lives
 
 finding our purpose
+
 
 
 ### Understanding Our Personal Circumstances
@@ -675,6 +766,7 @@ to this situation, but I don't understand why we let those factors
 persist.  Actually, there are massive profits for those innovators who
 develop solutions to help clean up what has been damaged. And it looks
 like there was great progress towards this at Paris.
+
 
 ### Axiomatic Waypoints
 
@@ -748,9 +840,32 @@ gnosticism:
     - this mindset could go horribly wrong, so how to limit it?
       - e.g. someone has the wrong view of reality, does something horrible
       - or someone decides to be the villain
-  - thinking outside the box by lifting arbitrary constraints and taking concepts to their limits
+  - thinking outside the box by lifting arbitrary constraints and
+    taking concepts to their limits
 
-### Conclusions
+### Humility
+
+
+
+## Conclusions
+
+- briefly restate the argument to show that "God is not dead" by
+  asserting the inevitable arrival of an übermenschlich entity.
+  - assert that this means faith is no longer necessary for belief in
+    God, since this entity's development assymptotically approaches
+    the metaphysical reflection of God
+  - this doesn't preclude faith, but means faith is no longer
+    necessary.
+    - but it can still leave us dealing with the fallout of a belief
+      system that is undeniable, where faith is not required.
+      - a belief system dependent on faith instead of undeniable
+        evidence has it's own qualities and benefits
+    - and furthermore, it still leaves us with the responsibility of
+      dealing with the problem of nihilism, which Nietszche feared.
+
+> "Live as if you were to die tomorrow. Learn as if you were to live
+> forever." - Mahatma Ghandi
+
 
 > "Every man is born as many men and dies as a single one." -
 > Heidegger
@@ -784,21 +899,7 @@ It's crucial for people to mill over these issues, as we
 are approaching developments which lead to a fundamental restructuring
 of the world.
 
-
-
-- briefly restate the argument to show that "God is not dead" by
-  asserting the inevitable arrival of an übermenschlich entity.
-  - assert that this means faith is no longer necessary for belief in
-    God, since this entity's development assymptotically approaches
-    the metaphysical reflection of God
-  - this doesn't preclude faith, but means faith is no longer
-    necessary.
-    - but it can still leave us dealing with the fallout of a belief
-      system that is undeniable, where faith is not required.
-      - a belief system dependent on faith instead of undeniable
-        evidence has it's own qualities and benefits
-    - and furthermore, it still leaves us with the responsibility of
-      dealing with the problem of nihilism, which Nietszche feared.
+(change to be areferential)
 
 Even if someone manages to purge all memory of an individual, you will
 never manage to purge all reflections of that person which are alive
@@ -816,5 +917,3 @@ be.
   - languages belong to those who speak them.
   - and our memes? they belong to us
   - our languages? they belong to us
-
-
