@@ -134,8 +134,6 @@ embraced any religion. I can't exactly use my interpretation of bible
 verses as rhetorical defense because who am I to interpret something
 like that, if I don't claim strong personal belief.
 
-gnostic/theosophist influence:
-
 ### The Golden Rule
 
 We should act as though we are all one and that to harm another is to
@@ -476,10 +474,10 @@ that someone is trying to read pieces of information from you that
 indicate vulnerability to a specific type of crime or exploit. The
 degree to which they hide their intent implies their skill and
 foresight, as well as the degree to which you should fear that
-situation.  Good memory is important here because if someone
-rearranges the order in which they attempt to acquire information, it
-obscures cause and effect and becomes harder to detect that someone is
-going to pull one over on you.
+situation. Good memory is important here because if someone rearranges
+the order in which they attempt to acquire information, it obscures
+cause and effect and becomes harder to detect that someone is going to
+pull one over on you.
 
 So, in order to recognize these situations, you really have to become
 aware of the kinds of crimes or ethical omissions that people might
@@ -510,19 +508,79 @@ a Christian, this can help answer the problem of evil: why would God
 create evil or allow it to exist? Yet, it doesn't completely resolve
 the problem of evil.
 
-But with 
+Again, everything has a purpose. Instead of immediately disdaining
+manisfestations of negativity, you can reorient your perspective by
+reminding yourself that there is a purpose and reason for everything.
+If you get fired, maybe you belong in another company or industry or
+career path.
 
-
-
-### Compassion & Empathy
+My personal favorite is, when you can predict someone's sequence of
+actions under various circumstances, you understand that they might
+fulfill a particular purpose. It can be a bit screwed up to think of
+people in this way.  It's another reason why, even though one might
+cultivates a great understanding of the secret motion of things and a
+great awareness of the state of the world, one should not interfere.
+The subtlest of actions can have extraordinary consequences.
 
 ### Self-Sacrifice
 
+... maybe delete?
+
+I really hope this section won't be misinterpreted, but I feel that
+our life is the greatest gift we have. Giving my life could mean
+dedicating my life in service of my family, community or country. It
+could also mean literally giving up my life at some point. I
+personally don't fear death, but IMO it'd be a lot harder to
+accomplish my goals if I died. Giving your life for something is a
+beautiful act that each of us can only do once. And it would be a
+tragedy if one were to sacrifice themselves without understanding
+why. A muted martyr is not a martyr.
+
+> "Live as if you were to die tomorrow. Learn as if you were to live
+> forever." - Mahatma Ghandi
+
+Everyone dies. I'd rather make my death mean something. Living out a
+long, fulfilling life is good to strive for, but sounds boring IMO.
+
+Of course, this doesn't mean I believe that violent actions are
+justified just because one sacrifices themselves. IMO, that is
+cowardly, both on the part of the person that performs such act as
+well as the people that put them up to it.
+
 ### The Relative and the Absolute
 
-### Independence
+The relative and absolute can be applied to morality, but can also be
+generalized to almost anything.
+
+...
+
+### Familiarity with the Empty Mind
+
+It's peculiar, how an empty mind is so much more capable of
+functioning than the conditioned mind. The completely empty mind has
+the capacity for anything and yet nothing, so in itself it is not very
+useful. Still, unlearning bad habits and untangling negative beliefs
+and is incredibly challenging. It's impossible to
 
 ### Always Keep Searching
+
+> "I know that I know nothing" - Socrates
+
+While remembering to appreciate the progress we've made, we must
+accept that we will never fully develop.
+
+...
+
+### Never Stop Stopping
+
+Too many people believe that they had an opportunity, but it's
+passed. No matter how crazy something sounds or how impossible it
+seems, if you believe that future to be determined, you have
+relinquished control. Even when it seems like dozens of people are
+stacked against some event or possibility, the second you accept it as
+impossible, you are allowing fate to decide for you.
+
+### Independence
 
 We are best when we have as much power over our fate and circumstance
 as possible. One should take great care if interfering in the life of
@@ -559,15 +617,22 @@ world religions. Though I can't say one is better than another and
 each is fairly comprehensive, we would be well served through their
 study. At the least, we learn about what other people believe.
 
+... elaborate on philosophy here?
+
 ### Judgement & Forgiveness
+
+who has the right to judge anyone?
+- can we ever truly understand how someone feels?
+  - of course we can try
+  - but we can never actually understand their situation.
 
 
 ### Providing Purpose
 
+in our lives
+- in others lives
 
-
-### Light/Dark & Good/Evil
-
+finding our purpose
 
 
 ### Understanding Our Personal Circumstances
@@ -665,16 +730,19 @@ where we are, what if we had a better, brighter flashlight? If we had
 an innovative means of measuring some phenomenon, wouldn't we make new
 advancements at what would seem to be warp speed?
 
-- moving the lampposts
+### Reincarnation
+
+I'm not sure whether or not I believe that reincarnation is real. I do
+to some extent, the specific details of which I don't want to explain.
+
+However, I want to believe that reincarnation is real because I want
+- bc i want to believe that our lives carry meaning to the next
+
 
 gnosticism:
 - and the authorship of those works are hotly debated. Many
 - if not most are probably fallacious, but it's
 
-
-- quasi-religious ideals
-  - cultivating your connection with God
-    - whatever you may believe to be god
   - living your life as though it was a movie and you're the hero
     - what's your story?
     - this mindset could go horribly wrong, so how to limit it?
@@ -710,7 +778,7 @@ to the universe. I've only tried to clearly state thoughts which I
 never wrote down. I don't mean to say that because of these beliefs
 that nothing else is possible. I could be wrong about a lot of it and
 much of it (maybe most of it) is not actually novel. People have been
-talking about the singularity for a very long time. 
+talking about the singularity for a very long time.
 
 It's crucial for people to mill over these issues, as we
 are approaching developments which lead to a fundamental restructuring
@@ -732,8 +800,8 @@ of the world.
     - and furthermore, it still leaves us with the responsibility of
       dealing with the problem of nihilism, which Nietszche feared.
 
-Even if someone manages to purge all memory of me as an individual,
-you will never manage to purge all reflections of me which are alive
+Even if someone manages to purge all memory of an individual, you will
+never manage to purge all reflections of that person which are alive
 inside all of us. Those fragments don't need to be linked by name to
 survive -- in fact anonymity was a crucial element, as the love and
 oneness we strive for would lose power and relevance if it were
