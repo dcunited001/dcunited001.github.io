@@ -117,69 +117,73 @@ my motivation behind writing this is sincere concern that we may find
 ourselves unprepared for the future, regardless of which class,
 ethnicity or religion we are part of.
 
-## Personal Beliefs
+# &#x0B87;&#x0BD0;&#x0E5B;
 
-#### &#x03A6; [The Golden Rule](#the-golden-rule)
+#### [&#x13EB; The Golden Rule](#the-golden-rule)
 
-#### &#x1234; [We Are All One](#we-are-all-one)
+#### [&#x13EB; We Are All One](#we-are-all-one)
 
-#### &#x1234; [The Unknown](#the-unknown)
+#### [&#x13EB; The Unknown](#the-unknown)
 
-#### &#x03A6; [Negative, Neutral & Positive](#negative-neutral-positive)
+#### [&#x13EB; Negative, Neutral & Positive](#negative-neutral-positive)
 
-#### &#x03A6; [The Intangible](#the-intangible)
+#### [&#x13EB; The Intangible](#the-intangible)
 
-#### &#x03A6; [Find Your Genius](#find-your-genius)
+#### [&#x13EB; Find Your Genius](#find-your-genius)
 
-#### &#x03A6; [Timelessness](#timelessness)
+#### [&#x13EB; Timelessness](#timelessness)
 
-#### [Emphasizing Potential Over Faults](#emphasizing-potential-over-faults)
+#### [&#x13EB; Emphasizing Potential Over Faults](#emphasizing-potential-over-faults)
 
-#### [Help Others Grow](#help-others-grow)
+#### [&#x13EB; Help Others Grow](#help-others-grow)
 
-#### [Light & Dark, Good & Evil](#light-and-dark-good-and-evil)
+#### [&#x13EB; Light & Dark, Good & Evil](#light-and-dark-good-and-evil)
 
-#### [Awareness and Understanding of Evil](#awareness-and-understanding-of-evil)
+#### [&#x13EB; Awareness and Understanding of Evil](#awareness-and-understanding-of-evil)
 
-#### [Everything Has a Purpose](#everything-has-a-purpose)
+#### [&#x13EB; Everything Has a Purpose](#everything-has-a-purpose)
 
-#### [The Relative & the Absolute](#the-relative-and-the-absolute)
+#### [&#x13EB; The Relative & the Absolute](#the-relative-and-the-absolute)
 
-#### [Familiarity with the Empty Mind](#familiarity-with-the-empty-mind)
+#### [&#x13EB; Familiarity with the Empty Mind](#familiarity-with-the-empty-mind)
 
-#### [Meditation](#meditation)
+#### [&#x13EB; Meditation](#meditation)
 
-#### [Always Keep Searching](#always-keep-searching)
+#### [&#x13EB; Always Keep Searching](#always-keep-searching)
 
-#### [Never Stop Stopping](#never-stop-stopping)
+#### [&#x13EB; Never Stop Stopping](#never-stop-stopping)
 
-#### [Independence](#independence)
+#### [&#x13EB; Independence](#independence)
 
-#### [Knowledge of Self](#knowledge-of-self)
+#### [&#x13EB; Knowledge of Self](#knowledge-of-self)
 
-#### [Karma](#karma)
+#### [&#x13EB; Karma](#karma)
 
-#### [Devine Connection](#devine-connection)
+#### [&#x13EB; Devine Connection](#devine-connection)
 
-#### [Every World Religion Offers Valuable Wisdom](#every-world-religion-offers-valuable-wisdom)
+#### [&#x13EB; Wisdom In Every World Religion](#every-world-religion-offers-valuable-wisdom)
 
-#### [Judgement & Forgiveness](#judgment-and-forgiveness)
+#### [&#x13EB; Judgement & Forgiveness](#judgment-and-forgiveness)
 
-#### [Providing Purpose](#providing-purpose)
+#### [&#x13EB; Providing Purpose](#providing-purpose)
 
-#### [Understanding Our Personal Circumstances](#understanding-our-personal-circumstances)
+#### [&#x13EB; Understanding Our Personal Circumstances](#understanding-our-personal-circumstances)
 
-#### [Understanding Our Environment](#understanding-our-environment)
+#### [&#x13EB; Understanding Our Environment](#understanding-our-environment)
 
-#### [Axiomatic Waypoints](#axiomatic-waypoints)
+#### [&#x13EB; Axiomatic Waypoints](#axiomatic-waypoints)
 
-#### [Asymptotic Evaluation](#asymptotic-evaluation)
+#### [&#x13EB; Asymptotic Evaluation](#asymptotic-evaluation)
 
-#### [Moving the Lampposts](#moving-the-lampposts)
+#### [&#x13EB; Moving the Lampposts](#moving-the-lampposts)
 
-#### [Reincarnation](#reincarnation)
+#### [&#x13EB; Reincarnation](#reincarnation)
 
-#### [Humility](#humility)
+#### [&#x13EB; Humility](#humility)
+
+#### Self-Similarity
+
+
 
 Just wanted to summarize over those, although that list is by no means
 complete. And please let me emphacize: I in no way intend or intended
@@ -198,7 +202,9 @@ embraced any religion. I can't exactly use my interpretation of bible
 verses as rhetorical defense because who am I to interpret something
 like that, if I don't claim strong personal belief.
 
-### The Golden Rule
+<a name="the-golden-rule"/>
+
+### &#x2182; The Golden Rule
 
 We should act as though we are all one and that to harm another is to
 harm oneself. IMO, the Ten Commandments and Noahide laws are rules that
@@ -209,7 +215,9 @@ those rules.  Such a person's ethical rules for action might not
 map up one-to-one with the Ten Commandments, but still, their actions
 will mostly line up with them.
 
-### We Are All One
+<a name="we-are-all-one"/>
+
+### &#x2182; We Are All One
 
 If we truly are all one, then harming another person is equivalent to
 harming oneself.  This is why I try to extend the Golden Rule to
@@ -240,7 +248,9 @@ would I want to view their perspective, when all they intend is to
 limit me, no matter what I do?  Of course, it is still crucial to try
 because you can only connect with someone by empathizing with them.
 
-### Negative, Neutral, & Positive
+<a name="negative-neutral-and-positive"/>
+
+### &#x2182; Negative, Neutral, & Positive
 
 Obviously, I miss the mark on compassion and the Golden Rule quite
 often. It is one thing to do no harm and seek neutrality with the
@@ -252,7 +262,9 @@ people around you, you'll find yourself pretty isolated.  If someone
 seeks to strip you of your resources to rob you of your capability to
 positively influence people around you, this is incredibly depressing.
 
-### The Unknown
+<a name="the-unknown"/>
+
+### &#x2182; The Unknown
 
 There is this mystical, ineffable force that pervades every fragment
 of the universe.  It is powerful and we cannot ever hope to fully
@@ -262,7 +274,9 @@ our individual fates.  I explain this a little better in this article
 on the [Nature of God](/posts/2016-05-31-the-nature-of-god.html),
 although the language is a bit dense.
 
-### The Intangible
+<a name="the-intangible"/>
+
+### &#x2182; The Intangible
 
 The intangible is as real as the tangible. The beliefs of others are
 as real as the chair I'm sitting in. The intangible extends to
@@ -281,7 +295,9 @@ other things can be defined.  Therefore, they are timeless. Our
 inescapable fates are defined in terms of the intangible and nothing
 can escape it's reach.
 
-### Find Your Genius
+<a name="find-your-genius"/>
+
+### &#x2182; Find Your Genius
 
 In addition to the Golden Rule, we need to think outside our current
 time and place.  This means considering how people lived in the past,
@@ -308,7 +324,9 @@ growth. Yet, it is unfortunate our time spent at the height of our
 potential is precisely when we have a minimal understanding of the
 world, preventing us from best planning how to invest that potential.
 
-### Timelessness
+<a name="timelessness"/>
+
+### &#x2182; Timelessness
 
 I find it an invaluable tool to simulate ancient models of thought. It
 helps to brainstorm other ways of viewing the world or of trying to
@@ -382,7 +400,9 @@ enlightenment because of some aspect of our culture or lives at that
 time. Or, at least, that our ability to reach true enlightenment or
 something like it can be significantly impaired by our way of life.
 
-### Emphacizing Potential Over Faults
+<a name="emphacizing-potential-over-faults"/>
+
+### &#x2182; Emphacizing Potential Over Faults
 
 I believe that we interact best with others when we see them for their
 potential, instead of their faults. We shouldn't limit another's
@@ -451,7 +471,9 @@ the way they envision each other, materialized as monsters. I won't
 really spoil how everything works out, but it's worth watching. It's
 episode 7 of the 2nd season: Big Trouble in Little Sanchez.
 
-### Help Others Grow
+<a name="help-others-grow"/>
+
+### &#x2182; Help Others Grow
 
 It's important to give back and help those around you develop skills
 and opportunity. There have been quite a few situations where I've
@@ -494,7 +516,9 @@ Maybe they were justified. Maybe they never thought to do that and
 it's just a coincidence that my only protege stabbed me in the back
 more times than I can count.
 
-### Light & Dark, Good & Evil
+<a name="light-and-dark-good-and-evil"/>
+
+### &#x2182; Light & Dark, Good & Evil
 
 These two concepts can each be viewed on a separate axis. Light and
 Dark describe the degree to which something can be seen. Good and Evil
@@ -520,7 +544,9 @@ where I was. What scared me most of all was the degree to which this
 guy would try to distract me when I pulled my phone out, especially
 when I mentioned calling my family.
 
-### Awareness & Understanding of Evil
+<a name="awareness-and-understanding-of-evil"/>
+
+### &#x2182; Awareness & Understanding of Evil
 
 There are types of events which are much more difficult for someone to
 pull off if they know other people are aware of your situation or of
@@ -562,7 +588,9 @@ you never disclosed to anyone.  If someone has information that you
 have never disclosed to anyone or they have information that you ONLY
 EVER disclosed to one person, that's a major red flag.
 
-### Everything Has a Purpose
+<a name="everything-has-a-purpose"/>
+
+### &#x2182; Everything Has a Purpose
 
 It's a bit interesting that knowledge of evil is required to fight
 against it. If for some reason, evil disappeared, then we would be
@@ -586,7 +614,9 @@ cultivates a great understanding of the secret motion of things and a
 great awareness of the state of the world, one should not interfere.
 The subtlest of actions can have extraordinary consequences.
 
-### The Relative & the Absolute
+<a name="the-relative-and-the-absolute"/>
+
+### &#x2182; The Relative & the Absolute
 
 The relative and absolute can be applied to morality, but can also be
 generalized to almost anything.  Moreover, there is a continuum
@@ -597,7 +627,9 @@ local surroundings first, whether or not that means local in the
 physical sense.  Cohering to the absolute means adhering to a set of
 ideas that don't change under circumstance.
 
-### Familiarity with the Empty Mind
+<a name="familiarity-with-the-empty-mind"/>
+
+### &#x2182; Familiarity with the Empty Mind
 
 It's peculiar, how an empty mind is so much more capable of
 functioning than the conditioned mind. As tabula rasa, the empty mind
@@ -632,7 +664,9 @@ the point is, there are peculiarities to neural circuitry
 - and to counter this, one of the best things you can do is empty your
   mind and focus on nothing
 
-### Meditation
+<a name="meditation"/>
+
+### &#x2182; Meditation
 
 Meditation or extended, focused prayer can bring calmness to your mind
 and partially reset its state.
@@ -643,7 +677,9 @@ and partially reset its state.
   - this same feeling can come from playing music or 
 
 
-### Always Keep Searching
+<a name="always-keep-searching"/>
+
+### &#x2182; Always Keep Searching
 
 > "I know that I know nothing" - Socrates
 
@@ -652,7 +688,9 @@ accept that we will never fully develop.
 
 ...
 
-### Never Stop Stopping
+<a name="never-stop-stopping"/>
+
+### &#x2182; Never Stop Stopping
 
 Too many people believe that they had an opportunity, but it's
 passed. No matter how crazy something sounds or how impossible it
@@ -661,13 +699,17 @@ relinquished control. Even when it seems like dozens of people are
 stacked against some event or possibility, the second you accept it as
 impossible, you are allowing fate to decide for you.
 
-### Independence
+<a name="independence"/>
+
+### &#x2182; Independence
 
 We are best when we have as much power over our fate and circumstance
 as possible. One should take great care if interfering in the life of
 another.
 
-### Knowledge of Self
+<a name="knowledge-of-self"/>
+
+### &#x2182; Knowledge of Self
 
 We should know ourselves and our world. We can't know ourselves
 without learning about the world and we can't fully understand the
@@ -676,7 +718,9 @@ nature, and education are great ways to learn about ourselves.
 
 
 
-### Karma
+<a name="karma"/>
+
+### &#x2182; Karma
 
 Our actions matter, even when they are not seen. There is karma formed
 from the beliefs of others, which is usually a response to your own
@@ -689,7 +733,9 @@ outside our control or understanding.
       - we need to observe more of before we act
 
 
-### Devine Connection
+<a name="devine-connection"/>
+
+### &#x2182; Devine Connection
 
 We each have a connection to the divine. This is a concept from
 gnosticism. Whether this connection is viewed
@@ -699,7 +745,9 @@ reflection and medititation. And it is something that can be
 suppressed by others.
 
 
-### Every World Religion Offers Valuable Wisdom
+<a name="wisdom-in-every-world-religion"/>
+
+### &#x2182; Wisdom In Every World Religion
 
 Whether or not you believe the words of a religious text, there is
 value there. I would like to know as much as I can about the major
@@ -710,14 +758,18 @@ study. At the least, we learn about what other people believe.
 ... elaborate on philosophy here?
 
 
-### Judgement & Forgiveness
+<a name="judgement-and-forgiveness"/>
+
+### &#x2182; Judgement & Forgiveness
 
 who has the right to judge anyone?
 - can we ever truly understand how someone feels?
   - of course we can try
   - but we can never actually understand their situation.
 
-### Providing Purpose
+<a name="providing-purpose"/>
+
+### &#x2182; Providing Purpose
 
 in our lives
 - in others lives
@@ -726,7 +778,9 @@ finding our purpose
 
 
 
-### Understanding Our Personal Circumstances
+<a name="understanding-our-personal-circumstances"/>
+
+### &#x2182; Understanding Our Personal Circumstances
 
 We are born without any understanding of our world.  We should develop
 understanding of our circumstances before deciding they should be
@@ -738,7 +792,9 @@ completely understand and misappropriated time & energy doing so.  I
 would have been much better served had I reflected on my conditions
 and learned a lot more about the world before taking action.
 
-### Understanding Our Environment
+<a name="understanding-our-environment"/>
+
+### &#x2182; Understanding Our Environment
 
 Also, a similar concept applies to man's relationship with nature. Or
 rather, this concept specifies how we relate to the world, globally,
@@ -768,7 +824,9 @@ develop solutions to help clean up what has been damaged. And it looks
 like there was great progress towards this at Paris.
 
 
-### Axiomatic Waypoints
+<a name="axiomatic-waypoints"/>
+
+### &#x2182; Axiomatic Waypoints
 
 Technology is rapidly changing our life and culture.  In this
 turbulent period, what can we know to be unequivocally constant? What
@@ -785,7 +843,9 @@ especially those with long-established tradition, remains constant,
 regardless of how life changes around us.  So it is useful and, again,
 atheism is short-sighted.
 
-### Asymptotic Evaluation
+<a name="asymptotic-evaluation"/>
+
+### &#x2182; Asymptotic Evaluation
 
 This is more of a tool I use to evaluate new ideas in the concept of
 trends, regardless of whether it's a past, present and
@@ -805,7 +865,9 @@ powers as a futurist. But developing a better understanding of what
 this transitionary period will be like is vital if we survive the next
 filter in Fermi's Paradox.
 
-### Moving the Lampposts
+<a name="moving-the-lampposts-"/>
+
+### &#x2182; Moving the Lampposts
 
 Another tool that I use to examine problems. Science is constantly
 developing better tools to measure phenomena. One of the best
@@ -822,7 +884,9 @@ where we are, what if we had a better, brighter flashlight? If we had
 an innovative means of measuring some phenomenon, wouldn't we make new
 advancements at what would seem to be warp speed?
 
-### Reincarnation
+<a name="reincarnation"/>
+
+### &#x2182; Reincarnation
 
 I'm not sure whether or not I believe that reincarnation is real. I do
 to some extent, the specific details of which I don't want to explain.
@@ -843,9 +907,9 @@ gnosticism:
   - thinking outside the box by lifting arbitrary constraints and
     taking concepts to their limits
 
-### Humility
+<a name="humility"/>
 
-
+### &#x2182; Humility
 
 ## Conclusions
 
