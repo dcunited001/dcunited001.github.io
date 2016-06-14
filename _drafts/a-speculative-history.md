@@ -120,6 +120,58 @@ back to harappa
 - proto-anthropology
   -
 
+### links
+
+https://en.wikipedia.org/wiki/Etana
+https://en.wikipedia.org/wiki/Sumerian_King_List#The_list
+https://en.wikipedia.org/wiki/Chronology_of_the_ancient_Near_East
+https://en.wikipedia.org/wiki/Shuruppak
+https://en.wikipedia.org/wiki/Ancient_literature
+https://en.wikipedia.org/wiki/Proto-writing
+https://en.wikipedia.org/wiki/Kish_tablet
+https://en.wikipedia.org/wiki/History_of_communication
+https://en.wikipedia.org/wiki/Semiotics
+https://en.wikipedia.org/wiki/Ferdinand_de_Saussure
+https://en.wikipedia.org/wiki/Computational_semiotics
+https://en.wikipedia.org/wiki/History_of_linguistics
+https://en.wikipedia.org/wiki/Chalcolithic
+https://en.wikipedia.org/wiki/Metallurgy_during_the_Copper_Age_in_Europe
+https://en.wikipedia.org/wiki/Bhirrana
+https://en.wikipedia.org/wiki/Kalibangan
+https://en.wikipedia.org/wiki/List_of_Indus_Valley_Civilisation_sites
+https://en.wikipedia.org/wiki/Mohenjo-daro
+https://en.wikipedia.org/wiki/Rudnik_(mountain)
+https://en.wikipedia.org/wiki/Timna_Valley
+https://en.wikipedia.org/wiki/Gulf_of_Aqaba
+https://en.wikipedia.org/wiki/Vin%C4%8Da_culture
+https://en.wikipedia.org/wiki/Black_Sea_deluge_hypothesis
+https://en.wikipedia.org/wiki/Aegean_Sea
+https://en.wikipedia.org/wiki/Outburst_flood#Lake_Bonneville
+https://en.wikipedia.org/wiki/Caspian_Sea#History
+https://en.wikipedia.org/wiki/Naphtha#Etymology
+https://en.wikipedia.org/wiki/Vedas
+https://en.wikipedia.org/wiki/Vedic_Sanskrit
+https://en.wikipedia.org/wiki/Indo-Aryan_peoples
+https://en.wikipedia.org/wiki/Substratum_in_Vedic_Sanskrit
+https://en.wikipedia.org/wiki/Bactria%E2%80%93Margiana_Archaeological_Complex
+https://en.wikipedia.org/wiki/Indus_Valley_Civilisation
+https://en.wikipedia.org/wiki/Andronovo_culture
+https://en.wikipedia.org/wiki/Proto-Indo-European_language
+https://en.wikipedia.org/wiki/Vedic_Sanskrit
+https://en.wikipedia.org/wiki/File:Black-Sea-NASA.jpg
+http://emvc.geol.ucsb.edu/2_infopgs/IP2IceAge/ePersGulfFlood.html
+https://en.wikipedia.org/wiki/Dravidian_peoples
+https://en.wikipedia.org/wiki/Indo-Iranians#Genetics
+https://en.wikipedia.org/wiki/History_of_ancient_Egypt#Neolithic_Egypt
+https://en.wikipedia.org/wiki/Sahara#History
+https://en.wikipedia.org/wiki/Tassili_n%27Ajjer
+https://en.wikipedia.org/wiki/Archaeoastronomy
+https://en.wikipedia.org/wiki/Cataracts_of_the_Nile
+https://en.wikipedia.org/wiki/Diluvium
+https://en.wikipedia.org/wiki/Laas_Geel
+https://en.wikipedia.org/wiki/9th_millennium_BC
+https://en.wikipedia.org/wiki/Jericho#Ancient_period
+http://arstechnica.com/science/2015/12/irelands-population-underwent-a-dramatic-change-4000-years-ago/
 ### 2,000 BC
 
 paradise lost
@@ -333,241 +385,5 @@ and this is where the story for the wise arch-mage came from
 - and who divided a great magic into 7 forms to be spread to the corners of the earth
   - to be hidden in plain view until the world was ready
   - and until the world had a great need to unite these magic forms into one
-  - which he knew would occur at the same time, the most critical time for our development
-- furthermore they structured cultural information and language across
-  cultures in order to prove/disprove reincarnation
-  - if reincarnation was real and people retained some of their
-    identity or reconnected with some part of their past lives,
-    - then if information/experience was passed from one generation to
-      the next, it would more clearly show up if info & language was
-      fragmented (and especially language)
-  - e.g. if someone had memories of living in an region that spoke
-    sanskrit or an eastern european language or an italian language
-    and then they were reborn in japan or china or oceana
-    - AND they retained remnants of their experience that were more
-      pronounced in childhood, then they would mistakenly find
-      themselves displaying specific errors of speech.
-      - obviously stuff like this could be easily misinterpreted
-      - and regardless of whether reincarnation is real, people have
-        always been mapped to the same universal set of semantics &
-        metaphysical concepts. connections that are merely incidental
-        could be displayed because of these mappings we form
-  - anyways.. these differences would be more pronounced *earlier* in
-    civilization, as we first started developing technology and
-    culture because people would have less lives to live with such
-    tech & culture (if they were reborn across the world in a
-    statistically uniform way)
-    - and so if there was a universal culture early on that had the
-      ability to execute on the "The Plan" that I mentioned above,
-      then they would be better prepared to detect these kinds of
-      inter-incarnational signs if they used cultural & linguistic
-      engineering to geographically distribute linguistic features so
-      that diversity & regional variance was maximized.. !!!
-  - ideas like this are few and far between today because we are so
-    completely distracted by technology, social institutaions, social
-    stratification, projected individuality, mental illness, and the
-    near infinite expanse of the noosphere that:
-    - (1) we just never get to these thoughts. we never "get there," in
-      that there are too many other entertaining or worrying or
-      distracting things to think about
-    - (2) we don't have the time or resources or attention or desire
-      to spend enough energy thinking about the right things
-    - (3) our cultural artifacts are so diverse that we can't sift
-      through them to find the original patterns our ancestors picked
-      up on.
-      - language and culture were much simpler towards the beginning
-        of written language.
-      - having significantly less of this (like 1/1,000,000th) makes
-        it much more likely that a few people could piece it all
-        together
-  - the blueprints for "The Plan" form a kind of metaphysical map that
-    would allow us to hack reality by preserving intergenerational
-    knowledge
-    - beyond just that of written language and literature
-    - if reincarnation exists AND if those people could be located
-  - and by doing the following (some of this would occur incidentally
-    to some degree, but *could* be engineered to optimize the
-    indexability & persistence of information)
-    - (1) fragmenting language and cultural elements,
-    - (2) persisting execution of "The Plan" and its impact through generations,
-    - (3) planning the evolution of language/culture such that the
-      information encoded on "The Map" can almost be "indexed"
-      geographically. or along other dimensions.
-      - this map is analogous to the "Akashic Records", stored on the
-        "Astral Plane"
-        - in the way i see these "Akashic Records" they are kind of
-          like a transgenerational collective consciousness (and/or
-          collective unconsciousness)
-          - by inhibiting vectors for transgenerational propagation of
-            information (i.e. religious/state/educational
-            institutions, literature, etc)
-            - dark & ignorant forces can subtly dismantle and dissolve
-              our means of accessing this (or at least make it a bit
-              harder to figure it all out)
-            - if zero people remember something and no one wrote it
-              down, it can be significantly harder to access it again
-              - not necessarily impossible .... but
-    - (4) and propgating that subset of information that allows one to
-      know/read the "Map" (think waterworld, LOL)
-    - (5) encoding information -- "The Key" -- about how to read the
-      map into various cultural elements embedded into different
-      cultures.
-      - this Key can be assembled with different parts based on
-        the culture/myth/language/etc was used to create that instance
-        of The Key.
-        - so many of these same symbols (think semiotics, etc)
-          wouldn't be relevant as a "key" to people outside that
-          culture.
-        - using category theory and multiple layers of indirection and
-          abstraction, multiple instances of The Key can designed for
-          a specific fragment/shard/branch of the Map & Akashic
-          Records.
-          - That instance of the key may provide enough information &
-            meta information to allow someone to access information
-            stored on other shards of the Akashic Records.
-            - not all of the information in our collective
-      - this information is sometimes embedded into mythology
-        - not necessarily intentionally as part of a cohesive, ancient
-          proto-globalist plan.  but, because the insights developed by
-          ancient religion can be so similar as we are all expounding
-          on many of the same mysteries and problems, this "encoding"
-          can be incidental
-  - this information allows spiritually developed persons from
-      each culture to access the "Astral Plane," provided they:
-    - know of the plane
-    - understand its true nature (which is usually obfuscated
-      through esotericism)
-    - they understand enough about history, culture and language
-      to understand how information in "The Map" can be indexed to
-      cultural elements in the real world. (and if they can trace
-      the evolution of that index, that helps to understand
-      the relevance)
-    - they understand how to recognize "astrally" significant
-      events in the world and distinguish them from merely
-      incidental events
-    - they've expounded the knowledge required to access indexed
-      elements and map them to real world events, phenomena, etc.
-  - if an individual can do these things, then they can "unfold"
-    the information stored in the "Astral Plane"
-
-- then: one can basically access information on something like the
-  - this astral plane can be indexed geographically
-    -  ..... (other 'dimensional' 'indexes')
-
-- analogy to collective consciousness/unconsciousness (CC/CU)
-  - difference between space & negative space in art
-    - "objects" and "structures" in the CU aren't really "there"
-      in the same way that they are for the CC.
-      - the CU are like structures that emerge from indirect human
-        behavior. e.g. responses to disaster, war, personal trauma,
-        tyranny, government institutions, etc.
-        - i describe the reaction to the flood(s) in ~5000 B.C.
-        - "the" flood (and/or worldwide disaster) and the response to
-          it became an archetype in the collective unconcsious of
-          humanity. and it's a structure/memory that we haven't lost
-          for at least 5,000
-        - even though IMO, there were many floods from 15,000
-          B.C. through 5,000 B.C. because ice was melting everywhere
-        - and these events were so catastrophic that they congealed
-          into one mythical "Great Flood" event in the realm of the
-          CU... and the CC, actually.  both of them.
-    - they don't really have the same relationship in that the CU
-      can't be obtained by looking at the inverse image of the CC
-      - or looking for emergent images formed from shapes/symbols in
-        the CC
-
-- after a major cataclysm like a Great Flood, so many people
-  unexpectedly disappear at once that much of the accumulated cultural
-  info & memories disappear, along with the CC.
-  - furthermore, this information becomes irrelevant afterwards,
-    - much of the relevance of cultural information at that time was
-      likely based on family, group & tribal relationships.
-    - if you're tribe loses 97% of the population and you can't even
-      locate other survivors outside your tribe or whatever,
-      that cultural information both gains and loses relevance
-      - there's a desire to preserve it in the future,
-      - but it loses relevance because it's based on endpoints in a
-        tightly coupled social network where all the endpoints have
-        disappeared.
-    - because the info becomes less relevant, there's little interest
-      in perpetuating much of the trivial info. and there's a huge
-      incentive to fill that void with an imagined history of tribal
-      memory, especially if there aren't many people left to
-      contradict it.
-      - this easily be used to gain a position of power after a disaster
-        in earlier human history.
-    - disasters on this scale greatly affected the information economy
-      in pre-history.  the demand for different types of information
-      dramatically changed and the supply was greatly limited.
-      - the need for communication networks between widely separated
-        groups of people became more apparent.
-        - after something like this, people would want to know how
-          widespread the damage was. they would be very interested in
-          finding out what happened to other groups of people
-      - it became clear that some information was more important than
-        the rest.
-        - information about survival or being resilient to events like
-          this.
-        - or being safe from them. or finding a place to settle where
-          there was limited risk.
-        - or "protocols" about meeting locations where, in case of
-          another disaster, people could meet other survivors.
-          - these could be preserved through myth
-      - much of this wasn't at the conscious level. people didn't sit
-        around and ponder these questions, per se. it was moreso the
-        outcome of their reaction to events like this.
-
-
-
-### links
-
-https://en.wikipedia.org/wiki/Etana
-https://en.wikipedia.org/wiki/Sumerian_King_List#The_list
-https://en.wikipedia.org/wiki/Chronology_of_the_ancient_Near_East
-https://en.wikipedia.org/wiki/Shuruppak
-https://en.wikipedia.org/wiki/Ancient_literature
-https://en.wikipedia.org/wiki/Proto-writing
-https://en.wikipedia.org/wiki/Kish_tablet
-https://en.wikipedia.org/wiki/History_of_communication
-https://en.wikipedia.org/wiki/Semiotics
-https://en.wikipedia.org/wiki/Ferdinand_de_Saussure
-https://en.wikipedia.org/wiki/Computational_semiotics
-https://en.wikipedia.org/wiki/History_of_linguistics
-https://en.wikipedia.org/wiki/Chalcolithic
-https://en.wikipedia.org/wiki/Metallurgy_during_the_Copper_Age_in_Europe
-https://en.wikipedia.org/wiki/Bhirrana
-https://en.wikipedia.org/wiki/Kalibangan
-https://en.wikipedia.org/wiki/List_of_Indus_Valley_Civilisation_sites
-https://en.wikipedia.org/wiki/Mohenjo-daro
-https://en.wikipedia.org/wiki/Rudnik_(mountain)
-https://en.wikipedia.org/wiki/Timna_Valley
-https://en.wikipedia.org/wiki/Gulf_of_Aqaba
-https://en.wikipedia.org/wiki/Vin%C4%8Da_culture
-https://en.wikipedia.org/wiki/Black_Sea_deluge_hypothesis
-https://en.wikipedia.org/wiki/Aegean_Sea
-https://en.wikipedia.org/wiki/Outburst_flood#Lake_Bonneville
-https://en.wikipedia.org/wiki/Caspian_Sea#History
-https://en.wikipedia.org/wiki/Naphtha#Etymology
-https://en.wikipedia.org/wiki/Vedas
-https://en.wikipedia.org/wiki/Vedic_Sanskrit
-https://en.wikipedia.org/wiki/Indo-Aryan_peoples
-https://en.wikipedia.org/wiki/Substratum_in_Vedic_Sanskrit
-https://en.wikipedia.org/wiki/Bactria%E2%80%93Margiana_Archaeological_Complex
-https://en.wikipedia.org/wiki/Indus_Valley_Civilisation
-https://en.wikipedia.org/wiki/Andronovo_culture
-https://en.wikipedia.org/wiki/Proto-Indo-European_language
-https://en.wikipedia.org/wiki/Vedic_Sanskrit
-https://en.wikipedia.org/wiki/File:Black-Sea-NASA.jpg
-http://emvc.geol.ucsb.edu/2_infopgs/IP2IceAge/ePersGulfFlood.html
-https://en.wikipedia.org/wiki/Dravidian_peoples
-https://en.wikipedia.org/wiki/Indo-Iranians#Genetics
-https://en.wikipedia.org/wiki/History_of_ancient_Egypt#Neolithic_Egypt
-https://en.wikipedia.org/wiki/Sahara#History
-https://en.wikipedia.org/wiki/Tassili_n%27Ajjer
-https://en.wikipedia.org/wiki/Archaeoastronomy
-https://en.wikipedia.org/wiki/Cataracts_of_the_Nile
-https://en.wikipedia.org/wiki/Diluvium
-https://en.wikipedia.org/wiki/Laas_Geel
-https://en.wikipedia.org/wiki/9th_millennium_BC
-https://en.wikipedia.org/wiki/Jericho#Ancient_period
-http://arstechnica.com/science/2015/12/irelands-population-underwent-a-dramatic-change-4000-years-ago/
+  - which he knew would occur at the same time, the most critical time
+    for our development
