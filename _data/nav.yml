@@ -2,3 +2,4 @@ main:
     - { url: '/projects', text: 'Projects' }
     - { url: '/tags', text: 'Tags' }
     - { url: '/about', text: 'About' }
+    - { url: '/quotes', text: 'Quotes' }
