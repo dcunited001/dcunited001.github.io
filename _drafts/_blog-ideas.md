@@ -26,6 +26,50 @@ compare 21st century america to fall of rome as warning
 - compare prescription medication to lead in aqueducts
   - also, we literally have lead in water
 
+- article on mathy stuff i've learned? matroids, combinatorics, etc.
+
+- metaphysical kernel (maybe add into the Ground Control article?)
+
+- any policy which compels more than 96% of people (most any)
+  - or any science which operates on more than 96% of people is bad
+  - especially long-term
+  - because it destroys our ability to measure and compare
+    alternatives
+  - there are so many policies and especially scientific ones
+    - that operate over 100% of america and there is no way to
+      identify a statistically fair control population
+
+- hindi language and prosody
+  - young-fibonacci lattice
+    - wikipedia mentions indians studied something like this to study
+      prosody
+  - implications of aspirated vowels in hindi
+    - how it affects prosody and rhythm
+    - what that means for vocabulary
+  - how aspirated vowels affects the proximity required for someone to
+    understand you
+    - does proximity matter much? (i don't speak hindi)
+    - it would really require that someone know a lot more about the
+      vocabulary in common use
+  - how do aspirated vowels affect bandwidth of verbal language
+    - how do they affect the structure of vocabulary
+      - and the composition of morphemes?
+  - is there some functional relationship between morphemes with and
+    without vowels that include aspiration?
+  - icelandic has more consonant sounds than any language(afaik)
+    - and many of these require close proximity for comprehension
+    - how does this affect bandwidth of verbal language
+    - how does it affect the structure of vocabulary
+      - and the composition of morphemes?
+
+- written language and symmetry groups (isometry groups)
+- metaphysics and mathematic crystallography
+  - can metaphysical structures form crystals?
+  - space groups & emergent crystallographic properties
+- article on gravity crystals
+  - are there actually any solutions for infinite gravity crystals?
+    - finite gravity crystals?
+
 blogs on swift:
 - dependency injection with Swinject. problems implementing auto-injection.
   - explain some ideas for funcitonal programming,
