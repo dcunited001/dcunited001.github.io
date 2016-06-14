@@ -183,8 +183,6 @@ ethnicity or religion we are part of.
 
 #### Self-Similarity
 
-
-
 Just wanted to summarize over those, although that list is by no means
 complete. And please let me emphacize: I in no way intend or intended
 to create something that other people would follow. Dear God, no. That
@@ -620,12 +618,15 @@ The subtlest of actions can have extraordinary consequences.
 
 The relative and absolute can be applied to morality, but can also be
 generalized to almost anything.  Moreover, there is a continuum
-between the two.
+between the two and neither can be completely reached.  It's best to
+attune your actions to both, when possible.  It should always be
+possible, but that doesn't mean it's easy.
 
 Cohering to the relevant means you consider your relationship to your
 local surroundings first, whether or not that means local in the
-physical sense.  Cohering to the absolute means adhering to a set of
-ideas that don't change under circumstance.
+physical sense. Cohering to the absolute means adhering to a set of
+ideas that don't change under circumstance. For morality, this means
+Kant's moral universalism.
 
 <a name="familiarity-with-the-empty-mind"/>
 
@@ -640,17 +641,17 @@ right. As you develop further, if you actively observe beginner's
 mind, you can use your awareness of it to partially apply it's
 benefits as you need them.
 
-...
-
 One of the worst things you can do is reinforce an anxiety you have
 about something, like a type of situation or a personal behavior. It's
 best not to get hung up on this stuff because it can inhibit the rest
 of your mind.  Some anxieties are basically your mind overexerting
 itself on minor details.  This can be emotionally exhausting, but it
 can also deplete your brain's chemical energy and the nutrients it
-needs to function.
+needs to function.  If you find yourself with thoughts like this,
+meditative activities can be a boon for untangling the negativity in
+your mind.
 
-But a mind that is calm and focused on just the right aspects of a
+A mind that is calm and focused on just the right aspects of a
 situation works best.  But in order to develop
 
 the mind is peculiar and there are definitely hacks
@@ -658,7 +659,7 @@ the mind is peculiar and there are definitely hacks
   - the two seem to inhibit each other
 - exhaustion of specific circuits
   - nutrients are local resources in the brain
-  - blood can revitalize cells with nutrients, but 
+  - blood can revitalize cells with nutrients, but
 
 the point is, there are peculiarities to neural circuitry
 - and to counter this, one of the best things you can do is empty your
@@ -674,8 +675,7 @@ and partially reset its state.
 - often, meditation or relaxation or extended, focused prayer can
   bring calmness to your mind and somewhat reset it's state
   - this can alleviate anxiety or bring the clarity needed for insight
-  - this same feeling can come from playing music or 
-
+  - this same feeling can come from playing music or
 
 <a name="always-keep-searching"/>
 
@@ -732,7 +732,6 @@ outside our control or understanding.
     - if it seems too hard, it means we are not yet skilled enough
       - we need to observe more of before we act
 
-
 <a name="devine-connection"/>
 
 ### &#x2182; Devine Connection
@@ -743,7 +742,6 @@ as ordinary or supernatural, I believe it is there and that some are
 more in tune than others. It's something we can exercise through
 reflection and medititation. And it is something that can be
 suppressed by others.
-
 
 <a name="wisdom-in-every-world-religion"/>
 
@@ -756,7 +754,6 @@ each is fairly comprehensive, we would be well served through their
 study. At the least, we learn about what other people believe.
 
 ... elaborate on philosophy here?
-
 
 <a name="judgement-and-forgiveness"/>
 
@@ -775,8 +772,6 @@ in our lives
 - in others lives
 
 finding our purpose
-
-
 
 <a name="understanding-our-personal-circumstances"/>
 
@@ -822,7 +817,6 @@ to this situation, but I don't understand why we let those factors
 persist.  Actually, there are massive profits for those innovators who
 develop solutions to help clean up what has been damaged. And it looks
 like there was great progress towards this at Paris.
-
 
 <a name="axiomatic-waypoints"/>
 
@@ -899,7 +893,9 @@ gnosticism:
 - and the authorship of those works are hotly debated. Many
 - if not most are probably fallacious, but it's
 
-  - living your life as though it was a movie and you're the hero
+
+
+- living your life as though it was a movie and you're the hero
     - what's your story?
     - this mindset could go horribly wrong, so how to limit it?
       - e.g. someone has the wrong view of reality, does something horrible
@@ -929,7 +925,6 @@ gnosticism:
 
 > "Live as if you were to die tomorrow. Learn as if you were to live
 > forever." - Mahatma Ghandi
-
 
 > "Every man is born as many men and dies as a single one." -
 > Heidegger
@@ -981,3 +976,6 @@ be.
   - languages belong to those who speak them.
   - and our memes? they belong to us
   - our languages? they belong to us
+
+# ◊ ‽ λ ∇ Φ
+
