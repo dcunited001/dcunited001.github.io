@@ -1,6 +1,6 @@
 ---
 layout: inner
-title: "&#x300C;&#x25CA; &#x203D; &#x03BB; &#x2207; &#x03A6;&#x300D;"
+title: "&#x300C;&#x25CA;&#x203D;&#x03BB;&#x2207;&#x03A6;&#x300D;"
 permalink: /quotes/
 ---
 
