@@ -162,11 +162,15 @@ antenna: at some point, as the EMR travels outward, that will change
 from a donut to a disk. Therefore, there will be a timestep that
 requires a discontinuity if you're mapping the "surface" of the EMR
 radiating outwards over increasing timesteps.  If you're just mapping
-volume slices, it's possible to maintain continuity.
+volume chunks and then integrating on those, it's possible to maintain
+continuity.  I wonder if that's generally true: that you can just
+abuse dimensionality, do a bit of remapping and get around problems
+with continuity in topology.  And if so, under what conditions will
+that hold and why?
 
 This differentiability across a shape that could change topology is
 important when you want to structure higher order behavior on top of
-the distribution of EMR.  E.G. if you want to design an algorithm that
+the distribution of EMR. E.G. if you want to design an algorithm that
 optimizes antenna design for phase coherence at specific distances,
 where you might want to have a receiver or something. I donno. I
 really don't.
@@ -184,7 +188,8 @@ learned exactly what a vector field was, though they were in my high
 school textbooks. I thought they were boring because "vector" in the
 name.
 
-Also, this paper on fluid simulation using laplacian eigenfunctions
+Also, this paper from Toronto on
+[fluid simulation using laplacian eigenfunctions](http://www.dgp.toronto.edu/~tyler/fluids/FluidDynamicsLaplacianEigenfunctions.pdf)
 looks cool. I think eigenfunctions allow you to vary operations &
 behavior based on state of local systems within a large complicated
 system. I've been trying to figure that out for a long time. How to
@@ -193,6 +198,9 @@ system. It's probably important for physics based on statistical
 mechanics and quantum mechanics.
 
 ### Convolutional Behavior
+
+So, yet another "gotcha" and this one kinda sucks.  The entire antenna
+doesn't produce signal.  EMR is produced from alternating current
 
 - The entire antenna isn't producing signal. i don't know the
   exact mechanics, but I do know that current flows to the outside of
