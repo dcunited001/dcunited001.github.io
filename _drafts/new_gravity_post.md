@@ -13,7 +13,6 @@
   - obviously, the mechanics of an antenna's shape and it's components
     orientation in space affect how it disperses energy
 
-
     - it is impossible for the energy emitted from an antenna to be
       emitted from a single origin, even if the antenna were composed
       of one particle
@@ -24,11 +23,13 @@
       from one place should carry over
       - and therefore emitted from a region of space enveloping the
         antenna
+
   - but the fact that there is true origin for the formula means that
     the math here is very much more complicated.
     - you can't just look at a surface integral for a single shape
       (the timeslices of the ellipsoid-like object that propagates
       outward)
+
     - it likely requires summing over something similar to surface
       integrals for individual contributions to energy emissions for
       subdivided slices of the antenna.
@@ -92,3 +93,119 @@
       - and after you do so, you can then use gradient and divergence
         to get a bit more information on how the energy dissapates
         - and especially the laplacian (the divergence of the gradient)
+
+
+
+
+## To Learn Over the Next Six Months
+
+### Language
+
+- Japanese
+- Kanji
+- Learn more about written languages (devanagari, etc)
+
+### Math
+
+- Retake Coursera Crypto I
+- Study some of Crypto papers on deck
+- Finite Element Analysis
+- Helmholtz Decomposition
+- Master Gradient/Curl/Divergence/Laplacian
+- Branched Ray Tracing Algorithms
+- Wallpaper Group
+- Matroids
+- Halting Problem
+- Knot Theory (Racks and Quandles)
+- Distributive Lattice
+- Various Emergent Crystal Structures
+- Symmetry Groups and Isometry Groups
+- Quantum Harmonic Oscillators
+- Einstein Solids
+- Groups/Rings/Fields
+- Polynomials and Ring Theory
+- Galois Theory
+- Dyandic Tensor
+- Wavelets
+- λ-Rings
+- Grothendieck
+- n-Category Theory (& omega... lol)
+- ... probably start with just regular Category Theory though
+- Like braiding ... what's that?
+- Then build up to Ross Street's work
+- Sheaf theory and applications
+- Hermitian Operators
+- Symplectic Operators
+- Hamintonian Mechanics
+- Ergodic Hypothesis .....
+- Tensor Fields
+- Manifolds & Reimann Manifolds
+- Jacobian Matrix
+- Using a self-similar 3D flower of life to approximate integral
+  (Laplacian)
+- Diffusion Theorum
+
+### Electromagnetism
+
+- E & M basics
+- Skyrmions
+- Permittivity
+- Band Theory! (lots of great ideas for solid state chem here)
+- Quantum Hall Effect
+- Other Thermo-Electric effects
+
+### Superconductance
+
+- Flux pinning
+- Flux tubes
+- BCS Theory
+- Ginzburg-Landau Theory
+- Abrikosor Vortices
+- Type 1/1.5/2 Superconductors
+- London Penetration Depth
+- Superconducting Coherence Length
+- Husimi Q Representation
+- Quantum Vortex
+- Magnetic Flux Quantum
+- Current Density
+- Flux Pumping
+- Debye Model
+- Correlation to Phononic Properties
+- Correlation to Lattice Arrangment & Dimensionality (1D,2D,3D)
+- Space Group
+- Crystoallographic Point Group
+- Broullouin Zone
+- Bloch Wave & Oscillations & MoM Method
+
+### Plasma Physics
+
+Basics:
+
+- DC/AC Conductivity
+- Photo/Tunnel Ionizations
+- Langmuir Probe
+- DC & RF Discharge
+
+Plasma Instabilities:
+
+- Plasma waves: EM, Langmuir, Surface Plasma, & Ion Acoustic
+- 2 Stream Instability Propagation
+- Weibel Instability
+
+Plasma Confinement:
+
+- Single Particle Motion
+- Motion in Magnetic Fields (inhomogenous/curved)
+- Magnetic Moment Confinement
+- Mirror Confinement
+- Tokamak Confinement
+
+Applications:
+
+- Medium/Short Wave Communications
+- Processing of Materials
+- Laser Ablation
+- Laser-Driven Fusion
+- Magnetic Fusion
+
+& Magnetohydrodynamics

@@ -1,11 +1,17 @@
 ---
 title: "Divergents and Directional Antennae"
 categories: blog
-tags: "math science fusion"
-headline: ""
+tags: "math science physics"
+headline: "This is why I have to thaw out my burrito's..."
 author:
   name: "David Conner"
-excerpt: ""
+excerpt: "
+I started thinking about directional antennae and reason about what
+kind of math would allow me to predict the shape of the energy
+distribution, first given idealized omnidirectional or directional
+antennae. And later, given the specific structure of a more realistic
+antenna, I hoped to identify some relationships that would allow
+computation of energy propagation and distribution."
 ---
 
 So in the past two weeks or so, I dove in headfirst to a series of
@@ -105,7 +111,7 @@ complex because for each SVE, to calculate it's E-SVE, you need the
 sum of contributions for a particular timeslice. Because EMR travels
 at the speed of light, we'll need to know that SVE's distance to each
 AVE in the antenna. And therefore, the mapping for the tensor isn't
-just `space-to-space` or `(x,y,z) => (x,y,z)` or `(r1) => (r2)`, it's
+just `space-to-space` or `[x,y,z] => [x,y,z]` or `[r1] => [r2]`, it's
 space + time to space. Or `[r1 | ∂t*c == dist(r1,r2)] => [r2]` where
 `∂t` here represents the difference in time for EMR traveling from
 `r1` to reach `r2`, instead of the time difference for each slice or
@@ -321,23 +327,58 @@ orientation of energy radiation from AVE
   - alters dispersion and path
   - requires ray tracing (afaik)
   - also, i might be completely ignorant of E/M
-- reflection from objects in environment
-  - not even going to touch this one
-
 
 ### Stateful Interactions
+
+Some higher-level phenomena can emerge from the convolutions of `AVE`
+and their neighbors.  These behaviors can cause the system or that
+part of the system to act in a completely different manner, unable to
+be sufficiently modeled by the basics.  In other words, they are
+emergent phenomena.  States of matter like solid, liquid, gas, and
+plasma are examples where the system takes on completely new behaviors
+that are not possible unless that part of the system satisfies
+specific conditions.
+
+If I'm right with the wikipedia articles and papers I've been reading,
+then this is where the Hamiltonian operators become useful, which
+allow you specify complicated systems of behavior.  And I *think* this
+is where eigenfunctions become useful. Again, you're going to need to
+identify a set of conditions that can recognize where in the system
+these state rules begin to take effect.  And then you're going to need
+to be able to dynamically maintain a map of the part of the system
+that adheres to various states.  And apply the functions that pertain
+to the active states in the right order.
+
+As it approaches absolute zero, ice changes into many different forms.
+But just because a region of ice is at the temperature range for a
+particular form doesn't mean it automatically assumes it.  Sometimes,
+some level of kinetic energy must enter the system and then it has the
+energy it needs to reconfigure itself.  Ice has another emergent
+phenomenon where it blocks out microwaves.  Water vibrates and allows
+the microwaves pass through.
+
+> ... This is why I have to thaw out my burrito's because otherwise I
+> end up with burrito slushies. Warm on the outside and a little cold
+> in the middle. Just the way I like 'em. Yummmm...
 
 Further, there are many magnetic and EMR interactions that
 emerge from micro/macro structures in the antenna's crystal
 lattice. From those interactions emerge stateful behaviors that would
-cause that.
+cause that.  These are moreso micro-level interactions that can build
+up into higher level behaviors.  I'm very much interested in this
+stuff.
 
-- A convolutional mapping is required here
+### That's It
 
-### Directional Antennae
+Moving on to the next article.  Just wanted to explain some of the
+things I've learned lately.  I feel like I've learned so much in the
+past two or three weeks, just from watching a few lectures and taking
+a few notes.
 
-
-
-- one problem is that: if you are trying to model the energy
-  distribution of an antenna and that's dependent on itself, how do
-  you know what shape to use for each timeslice?
+I wish I could dedicate myself to being a fulltime student on Coursera
+or maybe even a higher education institution. My issue with going back
+to school for four years officially is that -- yes, it's a bit too
+expensive, but that's really not it -- it's that I'd have to settle on
+one thing for four years and really keep my blinders on.  It'd be so
+hard for me to commit to school without getting distracted by
+some amazing technology, platform or startup idea.
