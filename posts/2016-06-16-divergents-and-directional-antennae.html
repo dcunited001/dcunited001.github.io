@@ -546,13 +546,11 @@ or contrast value in each pixel and 2 - 5 adjacent pixels.</p>
 
 <h4 id="a-convolution-on-a-pixel-and-2-adjacent-pixels">A Convolution on a pixel and 2 adjacent pixels</h4>
 
-<p><code>
-[ ] [ ] [ ] [ ] [ ]
-[ ] [ ] [ ] [ ] [ ]
-[ ] [ ] [X] [ ] [ ]
-[ ] [ ] [ ] [ ] [ ]
-[ ] [ ] [ ] [ ] [ ]
-</code></p>
+<figure class="highlight"><pre><code class="language-ruby" data-lang="ruby"><span class="o">[</span> <span class="o">]</span> <span class="o">[</span> <span class="o">]</span> <span class="o">[</span> <span class="o">]</span> <span class="o">[</span> <span class="o">]</span> <span class="o">[</span> <span class="o">]</span><span class="p">;</span>
+<span class="o">[</span> <span class="o">]</span> <span class="o">[</span> <span class="o">]</span> <span class="o">[</span> <span class="o">]</span> <span class="o">[</span> <span class="o">]</span> <span class="o">[</span> <span class="o">]</span><span class="p">;</span>
+<span class="o">[</span> <span class="o">]</span> <span class="o">[</span> <span class="o">]</span> <span class="o">[</span><span class="n">X</span><span class="o">]</span> <span class="o">[</span> <span class="o">]</span> <span class="o">[</span> <span class="o">]</span><span class="p">;</span>
+<span class="o">[</span> <span class="o">]</span> <span class="o">[</span> <span class="o">]</span> <span class="o">[</span> <span class="o">]</span> <span class="o">[</span> <span class="o">]</span> <span class="o">[</span> <span class="o">]</span><span class="p">;</span>
+<span class="o">[</span> <span class="o">]</span> <span class="o">[</span> <span class="o">]</span> <span class="o">[</span> <span class="o">]</span> <span class="o">[</span> <span class="o">]</span> <span class="o">[</span> <span class="o">]</span><span class="p">;</span></code></pre></figure>
 
 <p>Results in up to 25 operations per pixel at that layer.</p>
 
