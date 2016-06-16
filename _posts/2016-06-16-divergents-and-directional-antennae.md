@@ -272,13 +272,14 @@ or contrast value in each pixel and 2 - 5 adjacent pixels.
 
 #### A Convolution on a pixel and 2 adjacent pixels
 
-```
-[ ] [ ] [ ] [ ] [ ]
-[ ] [ ] [ ] [ ] [ ]
-[ ] [ ] [X] [ ] [ ]
-[ ] [ ] [ ] [ ] [ ]
-[ ] [ ] [ ] [ ] [ ]
-```
+
+{% highlight ruby %}
+[ ] [ ] [ ] [ ] [ ];
+[ ] [ ] [ ] [ ] [ ];
+[ ] [ ] [X] [ ] [ ];
+[ ] [ ] [ ] [ ] [ ];
+[ ] [ ] [ ] [ ] [ ];
+{% endhighlight %}
 
 Results in up to 25 operations per pixel at that layer.
 
