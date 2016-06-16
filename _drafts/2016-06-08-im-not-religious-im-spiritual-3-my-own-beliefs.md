@@ -12,6 +12,8 @@ excerpt: ""
 
 - TODO: link articles together (TOC on each article)
   - how to do this in jekyll?
+    - set up folders to be created with $series/1-$article_title.html
+    - then assure that older links will still redirect and/or be valid
 
 As we hurtle towards relative omniscience and relative omnipotence,
 isn't it important for us to discuss what makes humanity or any group
@@ -146,6 +148,10 @@ ethnicity or religion we are part of.
 #### [&#x13EB; The Relative & the Absolute](#the-relative-and-the-absolute)
 
 #### [&#x13EB; Familiarity with the Empty Mind](#familiarity-with-the-empty-mind)
+
+#### Neurological Hacks
+
+#### Comprehension of Empathy
 
 #### [&#x13EB; Meditation](#meditation)
 
@@ -647,14 +653,65 @@ best not to get hung up on this stuff because it can inhibit the rest
 of your mind.  Some anxieties are basically your mind overexerting
 itself on minor details.  This can be emotionally exhausting, but it
 can also deplete your brain's chemical energy and the nutrients it
-needs to function.  If you find yourself with thoughts like this,
-meditative activities can be a boon for untangling the negativity in
-your mind.
+needs to function.  Just like a computer with malware, a mind
+infested with negativity or one that constantly reacts to situations
+with negative thoughts wastes it's resources and runs slower.  If this
+gets bad enough, it can lead to a runaway effect and mental illness
+can manifest, like schizophrenia or schizoid personality disorder.
 
-A mind that is calm and focused on just the right aspects of a
-situation works best.  But in order to develop
+... finish this by describing a bit more of the zen
 
-the mind is peculiar and there are definitely hacks
+If you find yourself with thoughts like this, meditative activities
+can be a boon for untangling the negativity in your mind.  A mind that
+is calm and focused on just the right aspects of a situation works
+best.
+
+### Desire/Willpower
+
+- understanding the desires/goals of others
+  - and your own
+
+The brain and mind are peculiar. They are kind of like biological
+computers, but I don't believe we are just chemical robots trapped in
+meatspace. Yet because our minds are computers, they operate using
+programs, though the API isn't quite as direct as Twitter's. The
+interface here is far more complicated.
+
+Programs in the human mind are more like convolutions on memory,
+experience and behavior, combined with short and long-term
+optimization for goals. These include conscious, subconscious and
+completely unconscious desires or objectives. Behind nearly every
+person's behavior is a motivational force seeking some kind of
+equilibrium with those goals and desires.  For some of us, we have
+become well aware of what we want out of life, but many of us succumb
+to hedonistic desires. For a few of us, those desires are constantly
+in flux, based on our current emotional state and recent sensory
+experience.
+
+It's best to decide on your goals and stick to them, otherwise, you'll
+find yourself as the starving donkey stuck between two bales of hay,
+always headed to a new goal, but never quite getting there. It's
+better not to have a particular tendency for a desire than to have
+developed a fortitude against that tendency. However, that willpower
+and fortitude to resist desire generally is indispensible. And
+generally, because those things we need to do, but don't want to do
+are so important to anyone's long-term success in life, then
+developing a strong capacity here is one of the most important things
+you can do.
+
+...
+
+developing a strong
+motivation to do what you need to do, but what you don't want to do
+
+### Keep your eye on the ball
+
+- should this be it's own section
+- one of the biggest tactics you'll have used against you is to
+  distract you from your goals
+
+### Neurological Hacks
+
 - analytical mind vs emotional mind
   - the two seem to inhibit each other
 - exhaustion of specific circuits
@@ -664,6 +721,85 @@ the mind is peculiar and there are definitely hacks
 the point is, there are peculiarities to neural circuitry
 - and to counter this, one of the best things you can do is empty your
   mind and focus on nothing
+
+[fMRI reveals reciprocal inhibition between social and physical cognitive domains](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC3602121/)
+
+
+
+- this paper discusses two different neural components used in our
+  personal and professional lives:
+  - the task positive network and the 'social' network
+  - the task positive network
+    - activated when given some analytic tasks (programming,
+      analytics, finance, math, physics, etc.)
+    - it is part of our executive function
+    - and when it is activated, it also blocks out other possibilities
+      and neural circuits & networks
+      - that is, working with tasks dependent on this will inhibit
+        other circuits from functioning effectively
+  - the "social" network
+    - this is a component of the "default mode" network
+      - the SN helps you deal with social/emotional issues
+    - recent studies have shown that TPN and SN are completely
+        independent (with very little overlap)
+    - AND they suppress each other.
+
+- these networks inhibit each other, so if you're focused on
+  analytical tasks, you are less proficient on processing
+  social/emotional issues (& vice versa)
+  - furthermore (IMO) it is likely not efficient to switch gears
+  - and so, when you have someone at your workplace who doesn't have to
+    focus analytically and they spread toxic social/emotional issues
+    around or just to one person (who's is being strongly compelled to
+    increase performance of analytic tasks and who isn't good at
+    social/emotional issues in the first place)
+    - guess who's going to be struggling to perform their job AND
+      suffer the most emotionally?
+    - and again, if that person constantly switches them from being
+      compelled to focus on difficult emotional issues to analytical
+      issues, they won't get much done and it will burn out their
+      brain with stress.
+      - as in physically, chemically burn their brain: stress damages
+        the hippocampus.
+      - enough of this (5+ years) and that person will find it
+        difficult to function, ever.
+
+> TODO: change title name, update TOC
+
+### Comprehension of Neurological Aspects of Empathy
+
+but just as there are negative ways we can use understanding of
+psychology and neurology, there are positive ways we can use this.
+
+
+[Examination of the neural substrates activated in memories of experiences with resonant and dissonant leaders](http://www.sciencedirect.com/science/article/pii/S1048984311001263)
+
+- hemodynamic network and mirror neuron networks complement each other
+  to augment empathy
+- hemodynamic network
+  - this tunes us in to another's emotions at a neural level.
+  - this relates more to perceiving their emotional state than
+    'simulating' via mirror neuron nets.
+- mirror neuron networks
+  - supports empathy by "mirroring" via a kind of simulation of
+    another's experience based on what you know
+  - that is: you can sub/consciously simulate yourself in their shoes
+    based on the models you've built in life.
+  - this is great, but it leads to a few problems, one of which deals
+    with cognitive bias:
+    - if we haven't experienced enough of life to accurately
+      understand someone else, we might miss a few details when we try
+      to put our selves in their shoes.
+    - so we may be a bit blindsided when they're angry in a situation,
+      when we thought they'd be happy with it
+      - in this case, the hemodynamic network lets us observe their
+        externalized expression of their feelings
+      - if we get a mismatch here: mirror neuron networks seem to
+        signal that this person should be content, yet hemodynamic
+        networks are displaying just the opposite,
+      - then this should indicate we need to step back and observe the
+        situation from another angle.
+
 
 <a name="meditation"/>
 
@@ -979,3 +1115,28 @@ be.
 
 # ◊ ‽ λ ∇ Φ
 
+### &#x0DF4;&#x0DEF;&#x0DF4;
+
+# &#x0BF8;&#x0BD0;&#x0E5B;
+
+# &#x0B87;
+
+&#x0DA7;
+
+## &#x0DF4;
+
+
+
+&#x0B90;&#x0B95;&#x0BBE;
+
+&#x0B9C;
+
+&#x0B83;&#x0B9C;&#x0BC7;
+
+&#x0B9C;&#x0BBE;
+
+&#x0B87; &#x0BB4;
+
+&#x0BD0; (om)
+
+&#x0BF3;&#x0BE7;
