@@ -26,13 +26,6 @@ comprehending the low-level details of the math behind the
 physics. That's one big difference between watching a TED Talk on
 fusion and actually taking a class on Plasma Physics.
 
-- reminder that i'm working through this problem in my head
-  - i realize a lot of it is wrong, but a lot of it is straightforward
-    to me, if only at a high level.
-  - and the point is, i seem to be good at quickly absorbing this
-    stuff and applying these concepts at a high-level to reason about
-    problems, which before were completely out of my comprehention.
-
 ### Radiation of Electromagnetic Energy
 
 I started thinking about directional antennae and reason about what
@@ -48,6 +41,10 @@ computation of energy propagation and distribution.
 > simple to me. I'm starting to pick up some math/physics tools that
 > would greatly augment my ability to reason about domains and
 > problems which were formerly completely out of my grasp.
+
+So uhh, keep in mind, this article isn't about providing an accurate
+model of this problem. Instead, I'm walking through how I approached
+the problem.
 
 I had just learned about surface integrals, which are used in the
 Laplacian operator. From intuition, it seems like the energy radiated
@@ -76,41 +73,124 @@ is still fairly simple to use.  You can model passing small volumes to
 a 3D parametric function `E-dist(t,x1,x2,y1,x2,z1,x2) -> (E)` that
 returns a scalar quantity of energy.
 
+### Power In = Power Out + Power Loss
+
 Two very useful values that very useful to know is the rate of
 current/energy going into the antenna and how much energy is produced
-as EMR.
+as EMR. You can correlate those values to the average rate of energy
+output, assuming some energy loss given the material specifics. This
+power `P` implies that for a timestep large enough such that the
+average rate of energy output holds, the sum of energy must equal the
+power output for that timeslice. This can be very roughly notated as:
+`∫E(r,t)∂t = P * ∂t`, where we're either summing over a thin shell
+using surface integral or laplacian or getting the difference in
+`E(r,t+1)` and `E(r,t)`. But the point is that we may be able to use
+the total power in and efficiency of the antenna to estimate how much
+power should appear in a timeslice.
 
 ### Antenna Mechanics
 
-Both of these models assume EMR from a pointlike object, but that's
-impossible, isn't it? So, if it's not pointlike, then we can't simply
-use a parametric function because that's too much of an approximation.
-The mechanics of an antenna's shape contributes to distorting that
-ellipsoid. So one could divide the antenna into increasingly small 3D
-pieces -- Antenna Volume Element `AVE` for brevity.
+Spherical and multi-axis directional parametric - both of these models
+assume EMR from a pointlike object, but that's impossible, isn't it?
+So, if it's not pointlike, then we can't simply use a parametric
+function because that's too much of an approximation.  The mechanics
+of an antenna's shape contributes to distorting that ellipsoid. So one
+could divide the antenna into increasingly small 3D pieces -- Antenna
+Volume Element `AVE` for brevity. The space enclosing & surrounding
+the antenna is `SVE`.
 
-Yet, that's complicated, isn't it?  It's going to require a tensor to
+Yet, that's complicated, isn't it? It's going to require a tensor to
 map each antenna slice to it's energy output. And it's a bit more
 complex because for each SVE, to calculate it's E-SVE, you need the
 sum of contributions for a particular timeslice. Because EMR travels
 at the speed of light, we'll need to know that SVE's distance to each
 AVE in the antenna. And therefore, the mapping for the tensor isn't
-just space-to-space (or `(x,y,z) => (x,y,z)` or r-to-r), it's space +
-time to space. Or `[r1 | ∂t*c == dist(r1,r2)] => [r2]` where ∂t here
-represents the difference in time.... for ....brain fog
+just `space-to-space` or `(x,y,z) => (x,y,z)` or `(r1) => (r2)`, it's
+space + time to space. Or `[r1 | ∂t*c == dist(r1,r2)] => [r2]` where
+`∂t` here represents the difference in time for EMR traveling from
+`r1` to reach `r2`, instead of the time difference for each slice or
+shell of the EMP radiating from the antenna.
 
-The energy contribution of each `AVE` can be summed to match the
-output of the antenna.  We'll call this function `E-AVE()` and it has
-another function coupled to it called `E-SVE()`, which is the EMR
-energy in a particular volume of space surrounding it.  `E-AVE` can be
-calculated as a scalar, or a point-like spherical vector field, whose
-vectors' magnitudes sum to that scalar, approximately.  `E-SVE` could
-be calculated similarly as a scalar value of energy for that volume
-element, but for purposes of calculating values for regions on the
-surface integral of `E-SVE` for specific timeslices of `t`, it may
-help to retain that directional information.
+So, given this somewhat complicated domain for the tensor, the energy
+contribution of each `AVE` can be summed to match the output of the
+antenna for each point in space surrounding it.  We'll call this pair
+of functions `E-AVE()` and `E-SVE()` -- again, representing the energy
+contributions from each chunk of the antenna and the energy received
+into each chunk of space surrounding it.  An algorithm to calculate
+these values can be set up in many different ways, therefore the arity
+or parameters of these functions could vary quite a bit.  But we know
+they at least require some time `t`.
 
+`E-AVE` can be calculated to return scalar, or a point-like spherical
+vector "field", whose vectors' magnitudes sum to that scalar,
+approximately. Technically, it might not be a vector field, since it
+only has vectors radiating outwards from that one point -- and it
+could require a minimal volume/topology, in order to maintain some
+kind of continuity for the calculus. `E-SVE` could be calculated
+similarly as a scalar value of energy for that volume element, but for
+purposes of calculating values for regions on the surface integral of
+`E-SVE` for specific timeslices of `t`, it may help to retain that
+directional information. In other words, for each slice of the `SVE`,
+the EMR there can be calculated from components, but those components
+are actually continuous waves (.. particles) that can be traced
+backwords to each contributing `AVE`. I won't be using this fact, and
+it gets significantly harder with electromagnetic forces that distort
+the path of EMR but it's interesting that everything is kind of woven
+together.
 
+So, given an `E-AVE` output with directional information, we should be
+able to calculate the `E-SVE` for each region in the surface
+integral. From here we can use the other vector calculus tools to get
+a bit more information about how the radiation dissipates as it moves
+further away from the antenna.
+
+### Surface & Volume Mapping
+
+However, there's still a problem: in order to calculate a surface
+integral for the shell of radiation at a particular time point `t`, or
+to calculate the volume of a region of space within a timeslice at
+`t`, we can't really specify that operation without either:
+
+#### (1) Knowing a bit about the shape of that shell at `t` and its topology
+
+#### (2) Or calculating it from the shell of EMR at t = 0 (the surface of the antenna)
+
+Either way, you might have to account for changes in the topology,
+requiring your algorithm or math to remap the space. I think this
+implies a kind of discontinuity.  E.G. you have a donut shaped
+antenna: at some point, as the EMR travels outward, that will change
+from a donut to a disk. Therefore, there will be a timestep that
+requires a discontinuity if you're mapping the "surface" of the EMR
+radiating outwards over increasing timesteps.  If you're just mapping
+volume slices, it's possible to maintain continuity.
+
+This differentiability across a shape that could change topology is
+important when you want to structure higher order behavior on top of
+the distribution of EMR.  E.G. if you want to design an algorithm that
+optimizes antenna design for phase coherence at specific distances,
+where you might want to have a receiver or something. I donno. I
+really don't.
+
+But, I *think* this differentiability across shapes that aren't
+topologically continuous is important for differential manifolds, but
+I haven't looked into it much yet. I just found Harvard
+[Math 253](http://www.math.harvard.edu/~canzani/math253.html)'s
+compiled lecture
+[notes](http://www.math.harvard.edu/~canzani/docs/Laplacian.pdf) and
+got that onto my Kindle.  These look like good notes going from
+laplacian operator to manifolds to Reimann manifolds, which are used
+in relativity. I can't really say I know what a manifold is. I just
+learned exactly what a vector field was, though they were in my high
+school textbooks. I thought they were boring because "vector" in the
+name.
+
+Also, this paper on fluid simulation using laplacian eigenfunctions
+looks cool. I think eigenfunctions allow you to vary operations &
+behavior based on state of local systems within a large complicated
+system. I've been trying to figure that out for a long time. How to
+specify various higher-order behaviors to emerge in a particle-based
+system. It's probably important for physics based on statistical
+mechanics and quantum mechanics.
 
 ### Convolutional Behavior
 
