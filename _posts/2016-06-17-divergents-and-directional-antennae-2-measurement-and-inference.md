@@ -104,12 +104,88 @@ but given enough processing power and enough of the right kind of
 data, it will always produce frighteningly accuracte inferences about
 systems.
 
-### Noise Injection X Statistical Imaging
+## Noise Injection X Statistical Imaging
 
-This, as I have noted on twitter, is very useful in understanding the
-results of MRI, especially diffusion-tensor imaging.  We should be
-able to conbine data from various methodologies.  It's all lined up
+This noise injection, as I have noted on twitter, is very useful in
+understanding the results of MRI, especially diffusion-tensor imaging.
+We should be able to conbine data from various methodologies.
+
+### Spatial Coherence
+
+First, to link images spatially; to get spatial coherence between
+image sets.  There are several types of MRI -- T1 and T2 is one
+distinction.  Whether or not a dye was used is another dimension.
+There are sagital, axial, and coronal image sets.  It's all lined up
 with the same physical space as a domain generating the MRI data.
 Though the individual spaces of each MRI methodology may be different,
 they can all be correlated to the same 3D cartesion physical space,
-relative to the person being imaged.
+relative to the person being imaged. This means that specific
+structures in the brain, varying in how the data specifically depicts
+them, can be correllated across images.
+
+This technique can link multiple types of MRI images, so they can be
+corrected into the same spatial coordiante system and their values can
+be combined.  Their values would be spatially shifted though, so
+standard algorithms like binomial image interpolation would not work
+without some customization.  However, the higher resolution the MRI,
+the less effect that spatial dissonance would have on image analysis,
+since data from the images would be more spatially "in phase."
+
+### Temporal Coherence
+
+The next step is to get temporal coherence.
+
+- short term
+- long term
+
+### Categorical Coherence
+
+
+One final step is to get categorical coherence, which requires
+understanding more about the input in order to make inferences across
+data sets.  For MRI, this means understanding the patient's age,
+recent/chronic diet/nutrition habits, medical status, etc.  So that
+inferences can be made across data sets.  I.E. without spatial or
+temporal coherence, the hippocampus could be recognized in a axial
+image by an algorithm trained to identify hippocampus shapes at
+various ages, young or old.
+
+This "categorical coherence" looks for higher level patterns.  It
+could identify the presence of diseases previously unknown, not
+because it's matching against a list of diseases and their
+progressions, but because it's identified unknown patterns of
+neurodegeneration in a patient.  In addition to unknown disease
+progression, this could also identify the combination of drug-induced
+neurological damage or damage induced by the combination of diseases.
+It could even identify WHAT DRUG CAUSED THE NEUROLOGICAL DAMAGE by
+understanding the dispersion and extend of damage in the brain.
+
+### Drug absorption in the Human Brain.
+
+The brain is very particular in that it has the blood brain barrier,
+which restricts entry of charged particles.  The only way a charged
+particle can pass through the blood brain barrier, which is a linining
+of brain cells that receives and filters nutrients from arteries and
+capallaries, is if that charged particle is briefly neutralized.  The
+point is that this has a big effect on the dispersion of specific
+chemicals throughout the brain, which form the basis of a "neural
+fingerprint" for neurological damage or for normal activity and
+absorption.
+
+
+it doesn't seem to matter how smart or talented you are
+- there are so many intelligent peeople out there
+  - that it's easy for many people to get filtered out if they don't
+    conform
+  - especially since for any piece of knowledge to be replicated, it
+    only has to be incontrovertibly demonstrated once.
+  - after that, the person who reached those conclusions is no longer
+    necessary. perhaps, even less necessary than before, in some
+    circumstances.
+  - that attitude, i don't believe that's right.
+
+
+sufficiently intelligent being should evolve into one of several
+*types*, given the proper experiences
+- but a being that is more intelligent than that should evolve into
+  one that can embody all of them.
