@@ -9,6 +9,16 @@ establish the overall theme and tie each part back to how it reinforces this the
 
 how to structure this series of articles?
 
+article about predictive medicine and CYP450
+- this article might be a good start for probabilistic theory
+  - but how to measure this?
+  - explain why the expression of genetics has a much greater effect
+    than the encoding of alleles in the genes, usually
+
+- hmmmmm, there was like one other example of probabilistic
+  programming theory of metanomics
+  - neural fingerprints
+
 part one: introduction:
 
 - what is probabilistic programming
@@ -16,12 +26,12 @@ part one: introduction:
   - and why the research is being done (promising for machine learning & ai)
 - explain what makes something a program
   - trees/loops
-  - explain how it's hard for people to see how a set of probabilities 
+  - explain how it's hard for people to see how a set of probabilities
     - can lead to something with behaviors like a program
     - powersets of interactions, etc, etc
   - cells can even use metaprogramming
 - list current models for biological behavior that this model circumscribes
-  - 
+  -
 - what's the difference between current models and this paradigm for genetic behavior?
   - this model not only explains how genetics works in the nucleus, which directs operations of the cell
     - but also explains cytoplasmic interactions and cytoplasmic-nuclear interactions
@@ -34,7 +44,7 @@ part one: introduction:
   - current models seem limited to describing interactions between related genes
     - they don't describe how different chromosomes interact
     - they are overly simplistic in describing how protein products of genes interact
-    - describing how controlling spaces within the cell and nucleus 
+    - describing how controlling spaces within the cell and nucleus
       - are totally out of scope for current models
   - the probabilistic programming paradigm for genetic behavior is more complete
     - this makes it more complicated, but also simpler at the same time
@@ -61,7 +71,7 @@ part ??: metaprogramming
   - that is, there's a tree that represents the types of cells that cells can become
   - but, because of occam's razor, this tree should be flat because too much hierarchy induces too much complexity in the system
   - genetic programs modelable by markov graph?
-  
+
 - http://www.scientificamerican.com/article/human-genome-s-spirals-loops-and-globules-come-into-4-d-view-video/
 
 An offhand, uninformed, speculative response to #1 - DNA that encodes mRNA should not be located directly adjacent to chromatin linkage sites. Junk DNA may also contain metadata that directs the folding of chromatin.
@@ -75,7 +85,7 @@ other features of computer programs that must have a mirrored mechanism in genet
 
 distinctions between genetic programs and computer programs
 - all programs are tree like structures
-- however, because of occam's razor, 
+- however, because of occam's razor,
   - genetic program trees are likely very flat
   - and the dependency tree of differentiated cell types is likely very flat as well
 
@@ -96,18 +106,18 @@ because loosely packed chromatin is more available to molecules around it
   - than inactive genes
 
 because histone H1 winds up nucleosomes in an ordered fashion,
-- since chromatin is wound up in a spiral formation, 
-  - some histone types should always be center-facing and some should be outward facing. 
+- since chromatin is wound up in a spiral formation,
+  - some histone types should always be center-facing and some should be outward facing.
 - therefore, some histone types should be more readily accessible to epigenetic machinery than others.
   - that is, when genes are activated, these histones will be be the first to be altered
   - which opens up the nucleosomes' more hidden histone types.
 
 
 shape and location of chromosomes definite affect their function
-- chromatin near the periphery is usually heterochromatin 
+- chromatin near the periphery is usually heterochromatin
 - chromatin near the center is usually euchromatin
 
-### blog post: in nucleus transcription factories, 
+### blog post: in nucleus transcription factories,
 - RNA Polymerase 2 is static and DNA is pulled through
   - this is sort of like a program executing in a linear fashion
 - transcription factories are often packed with transcription factors
@@ -115,7 +125,7 @@ shape and location of chromosomes definite affect their function
 - coregulated genes share transcription factories
   - this is more efficient bc instead of requiring high levels of transcription factors everywhere
   - there is just needed
-- transcription factors are like CPU cores? (or a computing process) 
+- transcription factors are like CPU cores? (or a computing process)
   - in that they control the execution of a program (DNA strand)
   - and contain their own environment (transcription factors)
   - maybe better computing analogy
@@ -133,7 +143,7 @@ nucleolus seems like the process of the most basic DNA program
 - the program that ensures ribosomes are created and mRNA can be transcribed
   - contains RNA Pol1, which transcribes genes for ribosomes
   - surrounded by RNA Pol3, which transcribes genes for tRNA, which translates codons to amino's
-- the reason the nucleolus contains RNA P1 and is surrounded by RNA P3 
+- the reason the nucleolus contains RNA P1 and is surrounded by RNA P3
   - is because the nucleolus is like the operating system process of DNA
   - and so all of this needs to be in one place
 - the other transcription factories are like spawned processes of the operating system
@@ -146,7 +156,7 @@ x-inactivation requires threshold level of Rnf12
 - however in Rnf12-knockout, x-inactivation can still occur, but usually occurs much later
 
 x-inactivation doesn't occur when x-chromosomes can't spatially pair
-- i really don't think there is a 'counting' mechanism. 
+- i really don't think there is a 'counting' mechanism.
 - Rnf12 is more like a binary mechanism -- X.count == 2 or X.count == 1
 - if the two chromosomes are adjacent, how does the X chosen to activate protect itself against Xist?
   - where is Xist gene located in relation to the X chromosome pairing site
@@ -170,11 +180,11 @@ early after fertilization, the fertilized egg has two pro-nuclei
 
 epigenetic reprogramming immediately after fertilization
 - both maternal and paternal genomes reach methylation low around the blastocyst stage
-  - paternal genome is demethylized fast by hydroxylating the methyl groups, which destabilyzes the bonds 
+  - paternal genome is demethylized fast by hydroxylating the methyl groups, which destabilyzes the bonds
     - involves TET proteins
   - maternal genome is demethylized more slowly because DNMT1 is not expressed
   - however, what accounts for this difference in behavior?
-  - is DNMT1 only suppressed in the maternal genome or both?  
+  - is DNMT1 only suppressed in the maternal genome or both?
   - what triggers hydroxylation in paternal genome?
   - how long do the pro-nuclei remain separate?  only in the fertilized egg?
 
@@ -197,7 +207,7 @@ genomically imprinted genes (aka parental imprinting, gametic imprinting)
   - but the expression of alleles occurs in a parent-of-origin restricted manner
   - only your maternal copy or only your paternal copy is expressed
 - these imprinted genes undergo reprogramming during primordial germ cell development
-  - but resist the initial reprogramming 
+  - but resist the initial reprogramming
 - these gene sets are known to be critical for viability of embryo's
 
 expression of imprinted genes is controlled by imprint control regions (ICR's)
@@ -217,10 +227,10 @@ imprinted genes exist in clusters.  there are ~150 imprinted genes in humans and
 - imprinted gene expression is not always found in all tissues.
   - imprinted gene expression is common in placenta and brain.
 
-** ICR resembles like an if-then-else. 
+** ICR resembles like an if-then-else.
 - when ICR is marked, some genes will be expressed and others repressed.
   - refer to document for mouse geneome in video 4-3
-- e.g. if the ICR is imprinted on the maternal chromosome, 
+- e.g. if the ICR is imprinted on the maternal chromosome,
   - this will result in the maternal expression of certain genes
   - since the ICR is not marked on the corresponding paternal chromosome
     - this results in the expression of another set of paternal genes within the same cluster
@@ -234,7 +244,7 @@ kcnq1 ICR (Chromosome 11) controls gene expression with the lncRNA kcnq1ot1
 - however not all genes adjacent to kcnq1 are silenced
 - cdkn1c is maternally expressed and is a growth inhibitor (tumor suppressor)
 
-### blog post: in addition to being crucial for DNA replication, 
+### blog post: in addition to being crucial for DNA replication,
 - the duality of DNA is also crucial for the function of miRNA's, piRNA's and  lncRNA's
 - evolutionarily, the duality of DNA promotes the similarity of long sequences of adjancent DNA
   - this promotes the function of miRNA's, piRNA's and lncRNA's
@@ -264,7 +274,7 @@ H19/igf2 cluster (Chromosome 11)
   - CTCF modulates the chromatin loop and so without it, enhancers are adjacent to H19
   - with CTCF, enhancers are adjacent to igf2
 
-somehow, the act of transcription through a locus can deactivate a gene 
+somehow, the act of transcription through a locus can deactivate a gene
 - still not know exactly how the silencing is set up in these cases.
 - not known if Ube3a-antisense or the act of transcribing Ube3a in reverse causes inactivation
 - possible that the act of transcribing requires the loss of histone marks??
@@ -279,7 +289,7 @@ intracisternal A-particles as mechanism for genetic metaprogramming
   - this presents the genome with an opportunity to alternativly express these genes
   - over time, this means cells can recombinate alternate expression of genes
     - e.g. Axin-fused mice with the IAP insert can express the protein Axon as both:
-      - [...+exon6+exon7+...] 
+      - [...+exon6+exon7+...]
       - or [exon7+...] - which is the expression type that causes kinked tails in mice
     - this behavior can be modulated by epigenetic state
       - but otherwise the gene would be only expressed as [...+exon6,7+...]
@@ -301,19 +311,19 @@ intracisternal A-particles as mechanism for genetic metaprogramming
     - that is, if a gene contains a region that is a receptor for an activation site
 - can the recombinant function method described above be used for artificial intelligence
 - can the IAP mechanism of insertion of variations of genetic-metadata be used with bytecode
-  - in otherwords, take a region of bytecode for a function 
+  - in otherwords, take a region of bytecode for a function
     - and randomly insert various segments of program-altering bytecode
     - e.g. ([begin & instructions] + {new-end + new-instructions + new-begin} + [instructions + end])
       - creates a new callable function
       - dealing with this machine code would be a serious mind fuck
   - similar techniques are probably already widely used for compiler optimization
-    - but can these techniques be used for self-modifying programs 
+    - but can these techniques be used for self-modifying programs
     - that intentionally destructure/restructure their machine code to create new behaviors
     - while satisfying dependencies and objectives
 - and apparently the recombinant behavior i'm describing is very similar to concatenative programming languages
   - such as Joy and Factor
   - concatenative.org/wiki/view/Concatenative%20language/Meta-programming
-  
+
 
 role of protamine in transgenerational epigenetic inheritence
 - sperm doesn't have chromatin. instead it has protamine, which retains some histone marks.
@@ -324,7 +334,7 @@ role of protamine in transgenerational epigenetic inheritence
 paramutation in mice: kit protein that causes mice to fully develop black coat of fur
 - when injecting wild-type (black) mouse eggs with kit protein mRNA from a spotted mouse
   - this sometimes causes the mouse that's born to become spotted
-  - but not usually if you inject mRNA from 
+  - but not usually if you inject mRNA from
     - very rarely, injecting this mRNA from a black mouse will cause a spotted coat
     - could this be due to the similarity for the Kit protein mRNA between black & spotted mice?
     - when mRNA is exact match, it triggers process
@@ -343,14 +353,10 @@ miRNA treatments for diseases involving imprint control regions
 lncRNA's as genetic state-machines
 - it'd be interesting to identify lncRNA's which can transition their shape from one form to another
   - each triggering some kind of functionality
-    - lncRNA1 transitions (1) A -> B (2) B -> C (3) C -> B (4) C -> D 
+    - lncRNA1 transitions (1) A -> B (2) B -> C (3) C -> B (4) C -> D
 - this would make them like a genetic state machine
   - they could have certain specific functionalities which are only enabled while in certain forms
-  - this would be disadvantageous if they became "stuck" in some forms 
+  - this would be disadvantageous if they became "stuck" in some forms
     - that is, if they are needed in each cell of a cell type
       - if they are used only occasionally to trigger some permananent state change, this would be ok
       - otherwise, they would trigger the production of too much waste in a nucleus
-
-
-
-
