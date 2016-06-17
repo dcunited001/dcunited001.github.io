@@ -14,6 +14,8 @@ antenna, I hoped to identify some relationships that would allow
 computation of energy propagation and distribution."
 ---
 
+#### [&#x2605; Part Two: Measurement and Inference](/posts/2016-06-17-divergents-and-directional-antennae-2-measurement-and-inference)
+
 So in the past two weeks or so, I dove in headfirst to a series of
 [Plasma Physics lectures](https://www.youtube.com/playlist?list=PLbMVogVj5nJS4KY5UFWBLSu7kMzPbL35T)
 by V.K. Tripathi. I haven't studied EMR/Maxwell or Thermodynamics or

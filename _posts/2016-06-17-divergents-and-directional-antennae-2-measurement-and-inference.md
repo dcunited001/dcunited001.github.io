@@ -1,13 +1,21 @@
 ---
 title: "Divergents and Directional Antennae - Measurement and Inference"
 categories: blog
-tags: "math science physics"
+tags: "math science physics neuro medicine machine-learning health bioinformatics"
 headline: "How many experimental measurements?"
 author:
   name: "David Conner"
 excerpt: "
-"
+This categorical coherence looks for higher level patterns.  It
+could identify the presence of diseases previously unknown, not
+because it's matching against a list of diseases and their
+progressions, but because it's identified unknown patterns of
+neurodegeneration in a patient.  In addition to unknown disease
+progression, this could also identify the combination of drug-induced
+neurological damage or damage induced by the combination of diseases."
 ---
+
+#### [&#x2605; Part One: Divergents and Directional Antennae](/posts/2016-06-17-divergents-and-directional-antennae-2-measurement-and-inference)
 
 ### How Many Experimental Measurements?
 
@@ -215,8 +223,8 @@ all possible. This is because the molecule needs to undergo several
 chemical changes, which can take a lot of time or be nearly
 impossible.  And it can't even get into a neuron (or affect the
 surface ion channels & receptors of a neuron) until it does.  This is
-why strong acids and bases are incredibly dangerous -- JESUS CHRIST
-CUTTING COCAINE WITH BAKING SODA IS EVIL. Strong acids and bases could
+why strong acids and bases are incredibly dangerous -- *JESUS CHRIST
+CUTTING COCAINE WITH BAKING SODA IS EVIL*. Strong acids and bases could
 damage the blood brain barrier and cause hellacious damage.  I dont'
 know enough of the structure of the endothelial cells in the blood
 brain barrier to know if it's a significant problem.
