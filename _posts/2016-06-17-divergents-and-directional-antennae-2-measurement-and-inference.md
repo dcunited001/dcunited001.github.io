@@ -11,8 +11,6 @@ excerpt: "
 
 ### How Many Experimental Measurements?
 
-Update... One More Question, Actually
-
 How many experimental measurements does one need to make in order to
 infer the distribution of energy?  Is it less or more?  For a
 quadratic equation, you need 3 measurements. For a cubic equation, you
@@ -110,6 +108,10 @@ This noise injection, as I have noted on twitter, is very useful in
 understanding the results of MRI, especially diffusion-tensor imaging.
 We should be able to conbine data from various methodologies.
 
+> The following inferences do not cite sources. Do not infer what I
+> write here as fact. Do your own research. Keep reading if you'd like
+> to know how to cure cancer.
+
 ### Spatial Coherence
 
 First, to link images spatially; to get spatial coherence between
@@ -147,7 +149,6 @@ structure that enables E.S.P.  Ahahahh, that's probably not real
 though.
 
 ### Categorical Coherence
-
 
 One final step is to get categorical coherence, which requires
 understanding more about the input in order to make inferences across
@@ -204,13 +205,13 @@ why some SSRI's have such a wide array of recepter activity.
 Different parts of the drug fit different locks. And this is true with
 engodenous chemicals too.
 
-###
+### Blood Flow and Neuropharmacology
 
 The point is, when someone takes a drug, it flows in through the
 arteries and hits the places that receive the most blood first.  It
 then reaches the capillaries.  But if it's a charged particle, it
 takes forever for it to penetrate the blood brain barrier, if it's at
-all possible.  This is because the molecule needs to undergo several
+all possible. This is because the molecule needs to undergo several
 chemical changes, which can take a lot of time or be nearly
 impossible.  And it can't even get into a neuron (or affect the
 surface ion channels & receptors of a neuron) until it does.  This is
@@ -244,7 +245,7 @@ neural fingerprint.
 This is incredibly complicated and hard to measure.  And leads into
 another subject on predictive medicene, which I will write on soon.
 The point here is that the spatial information trumps genetic
-information.  The distribution of receptors matters alot more than the
+information.  The distribution of receptors matters a lot more than the
 phenotype of the patient's genetics. AND IT IS MUCH HARDER TO MEASURE!
 
 ### Competing Chemicals Change the Neural Fingerprint
@@ -273,6 +274,8 @@ methodologies could predict cancer and disease much earlier and much
 more accurately than many of the current methods.  And not just in the
 brain!
 
+### Identifing Neuronal Structure Types
+
 So, if you can pinpoint the Substantia Nigra and you know that it
 often contains
 [Nicontinic Acetylcholine Receptor (nAChR)](https://en.wikipedia.org/wiki/Nicotinic_acetylcholine_receptor),
@@ -284,6 +287,10 @@ this may be caused by strong local pressure in their brain, which
 could be an indication of a brain tumor.  Just by using algorithms to
 classify types of structures in the human brain and identify them and
 their specific shape.
+
+## Curing Cancer
+
+### With Early Prediction and Detection
 
 This cell type and shape distribution may allow us to identify other
 kinds of cancer earlier.  This is much more effective than predictive
