@@ -17,6 +17,18 @@ neurological damage or damage induced by the combination of diseases."
 
 #### [&#x2605; Part One: Divergents and Directional Antennae](/posts/2016-06-17-divergents-and-directional-antennae-2-measurement-and-inference)
 
+### In Which David Conner Cures Cancer
+
+This article continues from the last one, but is concerned moreso with
+analytically modeling a system from observed measurements. Then I
+continue on to establish the concept of neurological
+neuro/pharmocological "fingerprints" by which diseases can be
+diagnosed earlier via MRI.  And by looking for patterns and deviation
+from patterns, we should be able to cure cancer much, much
+earlier. (This section title is facetious many of these techniques are
+already known, but the ramifications to available cancer diagnosis
+methodologies are serious)
+
 ### How Many Experimental Measurements?
 
 How many experimental measurements does one need to make in order to
