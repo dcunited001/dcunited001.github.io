@@ -10,7 +10,7 @@ This categorical coherence looks for higher level patterns.  It
 could identify the presence of diseases previously unknown, not
 because it's matching against a list of diseases and their
 progressions, but because it's identified unknown patterns of
-neurodegeneration in a patient.  In addition to unknown disease
+neurodegeneration in a patient. In addition to unknown disease
 progression, this could also identify the combination of drug-induced
 neurological damage or damage induced by the combination of diseases."
 ---
@@ -21,21 +21,21 @@ neurological damage or damage induced by the combination of diseases."
 
 This article continues from the last one, but is concerned moreso with
 analytically modeling a system from observed measurements. Then I
-continue on to establish the concept of neurological
-neuro/pharmocological "fingerprints" by which diseases can be
-diagnosed earlier via MRI.  And by looking for patterns and deviation
-from patterns, we should be able to cure cancer much, much
-earlier. (This section title is facetious many of these techniques are
-already known, but the ramifications to available cancer diagnosis
-methodologies are serious)
+continue on to establish the concept of neurological &
+neuropharmocological "fingerprints" by which diseases can be diagnosed
+earlier via MRI. And by looking for patterns and deviation from
+patterns, we should be able to cure cancer much, much earlier. *(This
+section header is facetious; many of these techniques are already known,
+but the ramifications to available cancer diagnosis methodologies are
+serious)
 
 ### How Many Experimental Measurements?
 
-How many experimental measurements does one need to make in order to
-infer the distribution of energy?  Is it less or more?  For a
-quadratic equation, you need 3 measurements. For a cubic equation, you
-need four.  And generally, for any n-polynomial in two dimensions, you
-need n+1 measurements.
+Continuing from part one, how many experimental measurements does one
+need to make in order to infer the distribution of EMR energy from an
+antenna?  Is it less or more?  For a quadratic equation, you need 3
+measurements. For a cubic equation, you need four.  And generally, for
+any n-polynomial in two dimensions, you need n+1 measurements.
 
 But for determining this kind of distribution, how many measurements
 do you need to make to be more confident in the rest of the values?
