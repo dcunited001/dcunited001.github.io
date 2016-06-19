@@ -237,14 +237,15 @@ arteries and hits the places that receive the most blood first.  It
 then reaches the capillaries. But if it's a charged particle, it takes
 forever for it to penetrate the blood brain barrier, if it's at all
 possible. This is because the molecule needs to undergo several
-chemical changes, which can take a lot of time or be nearly
-impossible.` And it can't even get into a neuron (or affect the surface
-ion channels & receptors of a neuron) until it does.  This is why
-strong acids and bases are incredibly dangerous -- *JESUS CHRIST
-CUTTING COCAINE WITH BAKING SODA IS EVIL*. Strong acids and bases
-could damage the blood brain barrier and cause hellacious damage.  I
-dont' know enough of the structure of the endothelial cells in the
-blood brain barrier to know if it's a significant problem.
+chemical changes, which are low-probability events. And it can't even
+get into a neuron (or affect the surface ion channels & receptors of a
+neuron) until it does.  This is why strong acids and bases are
+incredibly dangerous -- *JESUS CHRIST CUTTING COCAINE WITH BAKING SODA
+IS EVIL*. Strong acids and bases could damage the blood brain barrier
+and cause hellacious damage.  I don't know enough of the structure of
+the endothelial cells in the blood brain barrier to know if it's a
+significant problem, but it seems like that could be damaged by
+strong, localized deviations in pH.
 
 > By the way, cigarette manufacturers include ammonia by the way
 > because it changes nicotine into its "crack" form.  The freebase
