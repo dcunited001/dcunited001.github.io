@@ -266,13 +266,23 @@ already be activated by another drug that binds more tightly or for
 longer, then the molecules will continue randomly floating around
 until they find something to interact with.  The pattern of space in
 the human brain that a drug would normally bind to forms a kind of
-neural fingerprint.
+neuropharmacological fingerprint.
 
 This is incredibly complicated and hard to measure.  And leads into
 another subject on predictive medicene, which I will write on soon.
 The point here is that the spatial information trumps genetic
-information.  The distribution of receptors matters a lot more than the
-phenotype of the patient's genetics. AND IT IS MUCH HARDER TO MEASURE!
+information.  The distribution of receptors matters a lot more than
+the phenotype of the patient's genetics. And again, **it is much
+harder to measure!**
+
+For some CYP450 enzymes in the liver, their relative quantities could
+be measured by observing plasma concentrations of a drug metabolized
+by them, but that's invasive. And still, there are many drugs which
+are acted on or interfere with the action of multiple CYP450 enzymes,
+making it difficult to ensure accurate testing. If your blood
+cholesterol tests are inaccurate because of recent diet changes,
+quantifying individual CYP450 levels would be two or three orders of
+magnitude harder.
 
 ### Competing Chemicals Change the Neural Fingerprint
 
