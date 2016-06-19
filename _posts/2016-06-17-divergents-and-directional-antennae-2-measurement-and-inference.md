@@ -24,10 +24,10 @@ analytically modeling a system from observed measurements. Then I
 continue on to establish the concept of neurological &
 neuropharmocological "fingerprints" by which diseases can be diagnosed
 earlier via MRI. And by looking for patterns and deviation from
-patterns, we should be able to cure cancer much, much earlier. *(This
-section header is facetious; many of these techniques are already known,
-but the ramifications to available cancer diagnosis methodologies are
-serious)
+patterns, we should be able to treat cancer much, much earlier. *(This
+section header is facetious; many of these techniques are already
+known, but the ramifications to available cancer diagnosis
+methodologies are serious)
 
 ### How Many Experimental Measurements?
 
@@ -71,7 +71,7 @@ noise transformed in the output.
 
 ### When Methodology Affects Data
 
-When the methodology affects the data you collect, this makes thex
+When the methodology affects the data you collect, this makes the
 inference of something like the distribution of EMR so much more
 difficult. This is because you can never truly measure the thing you
 want because the instrument or whatever introduces noise that changes
@@ -89,7 +89,7 @@ infer the nature of the "zero system" you're looking for.
 
 ### Statistical Resolution
 
-When you add the "dimension" of statistics to your mathematics models,
+When you add the "dimension" of statistics to your mathematic models,
 you are empowering yourself to understanding the likelihood of a
 system to assuming various states.  This allows you to solve the
 problems from a completely different perspective.  You almost don't
@@ -121,7 +121,7 @@ doesn't really work with AI because machine learning algorithms can
 process information, the significance of which it doesn't need
 conscious awareness.  Yes, bias is a huge problem in machine learning,
 but given enough processing power and enough of the right kind of
-data, it will always produce frighteningly accuracte inferences about
+data, it will always produce frighteningly accurate inferences about
 systems.
 
 ## Noise Injection X Statistical Imaging
@@ -132,7 +132,10 @@ We should be able to conbine data from various methodologies.
 
 > The following inferences do not cite sources. Do not infer what I
 > write here as fact. Do your own research. Keep reading if you'd like
-> to know how to cure cancer.
+> to know how to cure cancer. And by cure, I mean identification
+> through such early and non-invasive methodologies that it rarely
+> reaches the later stages like metastasis, which are notoriously hard
+> to treat.
 
 ### Spatial Coherence
 
