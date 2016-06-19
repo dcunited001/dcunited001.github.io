@@ -247,10 +247,10 @@ the endothelial cells in the blood brain barrier to know if it's a
 significant problem, but it seems like that could be damaged by
 strong, localized deviations in pH.
 
-> By the way, cigarette manufacturers include ammonia by the way
-> because it changes nicotine into its "crack" form.  The freebase
-> form of nicotine bypasses the blood brain barrier faster and is felt
-> almost immediately.
+> By the way, cigarette manufacturers include ammonia because it
+> changes nicotine into its "crack" form.  The freebase form of
+> nicotine bypasses the blood brain barrier faster and is felt almost
+> immediately.
 
 The receptor profile determines where a drug will stick around.  The
 receptor profile is a list of receptors, along with information on
