@@ -180,7 +180,7 @@ understanding more about the input in order to make inferences across
 data sets.  For MRI, this means understanding the patient's age,
 recent/chronic diet/nutrition habits, medical status, etc.  So that
 inferences can be made across data sets.  I.E. without spatial or
-temporal coherence, the hippocampus could be recognized in a axial
+temporal coherence, the hippocampus could be recognized in an axial
 image by an algorithm trained to identify hippocampus shapes at
 various ages, young or old.
 
@@ -192,21 +192,21 @@ neurodegeneration in a patient.  In addition to unknown disease
 progression, this could also identify the combination of drug-induced
 neurological damage or damage induced by the combination of diseases.
 It could even identify WHAT DRUG CAUSED THE NEUROLOGICAL DAMAGE by
-understanding the dispersion and extend of damage in the brain.
+understanding the dispersion and extent of damage in the brain.
 
 ## Neural Fingerprint for Pharmaceuticals
 
 ### Drug Absorption in the Human Brain.
 
 The brain is very particular in that it has the blood brain barrier,
-which restricts entry of charged particles.  The only way a charged
-particle can pass through the blood brain barrier, which is a linining
-of brain cells that receives and filters nutrients from arteries and
-capallaries, is if that charged particle is briefly neutralized.  The
-point is that this has a big effect on the dispersion of specific
-chemicals throughout the brain, which form the basis of a "neural
-fingerprint" for neurological damage or for normal activity and
-absorption.
+which restricts entry of charged particles.  The blood brain barrier
+is a linining of brain cells that receives and filters nutrients from
+arteries and capallaries.  The only way a charged particle can pass
+through that is if it is briefly neutralized, which is a
+low-probability event. The point is that this has a big effect on the
+dispersion of specific chemicals throughout the brain, which form the
+basis of a "neural fingerprint" for neurological damage or for normal
+activity and absorption.
 
 ### Neural Fingerprint for Receptors
 
