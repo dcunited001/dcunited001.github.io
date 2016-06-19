@@ -41,7 +41,9 @@ But for determining this kind of distribution, how many measurements
 do you need to make to be more confident in the rest of the values?
 When determining the average value for EMR in any `SVE` over a short
 time-scale? And when you take into account how the values for each
-`SVE` and `AVE` fluctuate over time?
+`SVE` and `AVE` fluctuate over time? Note: `SVE` is spatial volume
+element and `AVE` is antennae volume element from the model in part
+one)
 
 Is there the same kind of relationship as with n-polynomial equations
 in two dimensions? Where more information allows you to confidently
