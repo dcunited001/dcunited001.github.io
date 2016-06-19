@@ -220,31 +220,31 @@ many introns within genes which are reused or similar versions are
 pasted elsewhere.
 
 This allows chemical behavior to be encoded in one place, but
-reused. It exponentiates the variety available to It's analogous to an
-input/output adapter, like a 1/4" to 1/8" headphone adapter.  It's
-also analogous to interfaces and inheritance in object oriented
-programming. The point is: our bodies evolved similar mechanisms to
-work with similar chemicals.  And particularly, to work with different
-spatial aspects of a specific chemical messenger's chemistry.  This is
-why some SSRI's have such a wide array of recepter activity.
-Different parts of the drug fit different locks. And this is true with
-engodenous chemicals too.
+reused. It exponentiates the variety available to our genetic
+programs. It's analogous to an input/output adapter, like a 1/4" to
+1/8" headphone adapter. It's also analogous to interfaces and
+inheritance in object oriented programming. The point is: our bodies
+evolved similar mechanisms to work with similar chemicals. And
+particularly, to work with different spatial aspects of a specific
+chemical messenger's chemistry. This is why some SSRI's have such a
+wide array of recepter activity. Different parts of the drug fit
+different locks. And this is true with engodenous chemicals too.
 
 ### Blood Flow and Neuropharmacology
 
 The point is, when someone takes a drug, it flows in through the
 arteries and hits the places that receive the most blood first.  It
-then reaches the capillaries.  But if it's a charged particle, it
-takes forever for it to penetrate the blood brain barrier, if it's at
-all possible. This is because the molecule needs to undergo several
+then reaches the capillaries. But if it's a charged particle, it takes
+forever for it to penetrate the blood brain barrier, if it's at all
+possible. This is because the molecule needs to undergo several
 chemical changes, which can take a lot of time or be nearly
-impossible.  And it can't even get into a neuron (or affect the
-surface ion channels & receptors of a neuron) until it does.  This is
-why strong acids and bases are incredibly dangerous -- *JESUS CHRIST
-CUTTING COCAINE WITH BAKING SODA IS EVIL*. Strong acids and bases could
-damage the blood brain barrier and cause hellacious damage.  I dont'
-know enough of the structure of the endothelial cells in the blood
-brain barrier to know if it's a significant problem.
+impossible.` And it can't even get into a neuron (or affect the surface
+ion channels & receptors of a neuron) until it does.  This is why
+strong acids and bases are incredibly dangerous -- *JESUS CHRIST
+CUTTING COCAINE WITH BAKING SODA IS EVIL*. Strong acids and bases
+could damage the blood brain barrier and cause hellacious damage.  I
+dont' know enough of the structure of the endothelial cells in the
+blood brain barrier to know if it's a significant problem.
 
 > By the way, cigarette manufacturers include ammonia by the way
 > because it changes nicotine into its "crack" form.  The freebase
