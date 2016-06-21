@@ -315,7 +315,10 @@ stilted. Don't just describe the events and details at the
 surface. Refrain from expository dialogue, *especially if you're using
 it to expose emotional state!* LOL, definitely don't do that.
 
-So, use the category theory concept of pullbacks...
+So, use the category theory concept of
+[pullbacks](https://en.wikipedia.org/wiki/Pullback_(category_theory)).
+
+![Category Theory Pullback](/img/posts/2016-06-21-if-i-had-the-chops-to-write-my-daedalian-magnum-corpus/category-theory-pullback.png)
 
 - "three dimensional" characters: more category theory (pullbacks).
   - don't just describe the events and details at the surface.
@@ -379,5 +382,7 @@ entire process of creation.  this way, the style you apply seems
 uniformly embedded in the work, instead of a late idea or something
 that requires a ton of edits and reworks.
 
-
 ## Part Two - Specific Themes
+
+In the next part, I'm going to list some specific themes I'd like to
+write about.  This
