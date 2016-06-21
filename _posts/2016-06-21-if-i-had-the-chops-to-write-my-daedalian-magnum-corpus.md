@@ -256,6 +256,66 @@ itself.
 
 ## &#x2605; Characters & Relationships &#x2605; Major & Minor
 
+Behind themes, your characters, their relationships and the
+development of both might be the most important parts. They will help
+you elucidate your themes. IMO, ideating all of this is some the
+hardest part of the creative process for literature and screenplays,
+besides the hard work of writing and editing a book or screen
+play. It's all so ephemeral.  What if you think you have a good story,
+but you get a few months into thinking it out ... and it just doesn't
+work?
+
+Your main characters are going to have to be well thought out.  I feel
+like I don't have nearly enough experience here, but your characters
+must feel real in your mind.  Almost like an actor, you must be able
+to simulate their personality in your mind.  What would they do?  How
+would they dress?  How does their appearance affect their behavior?
+Their position in their society and their personality, how does that
+contrast with the social norms of various strata?  Why?  Why is that
+important to painting the picture of your world?  What is it that is
+going to resonate with readers and viewers?  Why?  What would make
+your readers and viewers want to cosplay this character? What is going
+to be controversial and are those controversial elements relateable?
+
+Some characters, you will need to create as you need them for just one
+or two scenes, but that doesn't mean they're not worth investing
+energy into. Sometimes these characters are the best because you don't
+have to worry about maintaining them and so you can contort their
+personality and traits a bit more for a bit of literary chiaroscuro.
+
+What makes your characters real?  What makes them three dimensional?
+What traits, mores and values do your fantasy realm's people share
+that must be universal, with even our own world? And for every one of
+these questions: ask why!  No, ask
+[five why's](https://en.wikipedia.org/wiki/5_Whys)! The little
+accessories that your character wears, what are their purpose to their
+world? Or is it just extraneous baggage? What hero wants to dress up
+every day with with accessories that are merely baggage? Maybe
+there's a story behind that ring or that leather piece?
+
+What is this character's comfort zone? And what happens when they get
+harshly placed outside it? Do they react realistically? Do they
+change? What provokes their change? Or does the character, a high
+class princess that's never seen a fleck of dirt, just magically adapt
+to circumstances she couldn't psychologically tolerate? Because that
+wouldn't be "realistic" which is a pretty fun term to toss around when
+referring to fantasy realms. Yet, you want to construct this realm in
+the mind of your viewer, so you want all the details to be coherent.
+You want them to construct this world in their mind because they want
+to escape our common reality, which is quite boring. So you owe it to
+them to flesh it out. On the other hand, you need to give yourself
+room for flexibility: don't flesh out so many details if it's going to
+be a problem to be stuck with them.
+
+And so, to get "three-dimensional characters," I'll again return to
+category theory -- this time to **pullbacks**.  It's more useful to
+let the reader construct their version of the character in their head
+because if you try to do it for them, it's going to feel forced and
+stilted. Don't just describe the events and details at the
+surface. Refrain from expository dialogue, *especially if you're using
+it to expose emotional state!* LOL, definitely don't do that.
+
+So, use the category theory concept of pullbacks...
 
 - "three dimensional" characters: more category theory (pullbacks).
   - don't just describe the events and details at the surface.
