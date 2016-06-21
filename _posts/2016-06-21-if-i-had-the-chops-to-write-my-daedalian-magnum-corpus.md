@@ -13,6 +13,18 @@ excerpt: "Dico ergo quia non loquimur de talibus naturaliter possibilibus sed
   commensurabiliter."
 ---
 
+### Elements of Literature
+
+#### &#x2605; [Themes](#themes)
+
+#### &#x2605; [Form](#form)
+
+#### &#x2605; [Plot](#plot)
+
+#### &#x2605; [Characters & Relationships](#characters-and-relationships)
+
+#### &#x2605; [Style](#plot)
+
 I love taking the time to stop and think about literature I read and
 movies I've seen and virtual worlds that I've explored. I love
 thinking about how profoundly different works have affected me. And it
@@ -109,7 +121,9 @@ have mostly no idea what I'm talking about.  Here, I'll describe each
 type of constructive element and later, I'll enumerate over some
 specific themes that interest me personally.
 
-### Major and Minor Themes
+<a name="themes"/>
+
+## &#x2605; Themes &#x2605; Major & Minor
 
 Of all the elements, the most important by far is theme.  This is
 going to drive the internal dialogue of your readers and hopefully any
@@ -139,7 +153,9 @@ development.
 A list of themes I would like to explore will be enumerated in part
 two.
 
-### Form
+<a name="form"/>
+
+## &#x2605; Form &#x2605; Major & Minor
 
 What's the overall form of the plot?  This is a major dependency of
 all the elements. That is, changing the form will necessitate
@@ -189,7 +205,9 @@ trilogy, which is a ringed plot. It's a trilogy of trilogies, began
 in the middle of a ringed story. The "ringed" form is well known in
 literature and Star Wars is like a meta-form of that.
 
-### Major/Minor Plot Elements
+<a name="plot"/>
+
+## &#x2605; Plot &#x2605; Major & Minor
 
 As you decide on major and minor themes, you should begin thinking of
 major and minor plot elements that would help you expose them.
@@ -234,17 +252,9 @@ algortihm to weave those events together for some higher purpose that
 allows the work to inspire in its readers a discussion about life
 itself.
 
-### Characters and Relationships
+<a name="characters-and-relationships"/>
 
-- the characters and their relationships will help you elucidate your
-  themes. some characters, you will need to create as you need them,
-  but this doesn't mean those characters aren't worth investing energy
-  into.
-
-
-IMO, this is the hardest part of the creative process
-- besides the hard work of writing and editing a book or screen play
-
+## &#x2605; Characters & Relationships &#x2605; Major & Minor
 
 
 - "three dimensional" characters: more category theory (pullbacks).
@@ -299,10 +309,15 @@ IMO, this is the hardest part of the creative process
     your story, it feels natural.  and when that's not there, it
     feels constricted, just barebones plot.
 
-### Style
+<a name="style"/>
+
+## &#x2605; Style &#x2605; Major & Minor
 
 you should be experienced enough as a writer (or artist or poet,
 whatever) to consciously embed elements of style throughout it's
 entire process of creation.  this way, the style you apply seems
 uniformly embedded in the work, instead of a late idea or something
 that requires a ton of edits and reworks.
+
+
+## Part Two - Specific Themes
