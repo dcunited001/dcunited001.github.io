@@ -141,6 +141,8 @@ provide a new lens.  There are many which seem relevant now, but whose
 importance will soon fade.  These stories will likely vanish from the
 pages of time.
 
+### Timeless and Universal Themes
+
 Thus, it's important to choose timeless and universally relevant
 themes that everyone can value or appreciate. But what is universally
 relevant and what is timeless?  As modern civilization continues to
@@ -315,10 +317,53 @@ stilted. Don't just describe the events and details at the
 surface. Refrain from expository dialogue, *especially if you're using
 it to expose emotional state!* LOL, definitely don't do that.
 
+### Pullbacks and Character Development
+
 So, use the category theory concept of
-[pullbacks](https://en.wikipedia.org/wiki/Pullback_(category_theory)).
+[pullbacks](https://en.wikipedia.org/wiki/Pullback_(category_theory)). And
+please note, this concept doesn't really map up one-to-one with the
+concept with category theory, but I think I can illustrate some
+important points about both by illustrating with this analogy.
+
+#### Pullback Diagram
 
 ![Category Theory Pullback](/img/posts/2016-06-21-if-i-had-the-chops-to-write-my-daedalian-magnum-corpus/category-theory-pullback.png)
+
+So, `P` and `Z` are your reader's perceptions of character `A`,
+`Alice`, before and after some character development. Lets say that
+`Z` is your character after some transformative event that makes your
+reader think Alice is greedy and shortsighted.  To make the analogy to
+category theory more clear (this isn't really important) then `P -> X
+-> Z` and `P -> Y -> Z` represent the transformations of `greedy` and
+`shortsighted`, in either order.  Whether or not you apply the
+functions `greedy` or `shortsighted` first or second doesn't matter,
+you still reach a place `Z` where the reader perceives both are true
+about `Alice`.  But if you just do it this way, it's the equivalent of
+writing `The character Alice is greedy and shortsighted`. Boring,
+right? But that is the goal. You need the reader to believe that Alice
+is these things.
+
+So a pullback is a transformation of `P -> X -> Z` and `P -> Y -> Z`
+so that you can go from `Q -> X -> Z` or `Q -> Y -> Z`. And there is
+the implied existence of a function `u` that will transform `Q -> P`,
+but that's not important. What is important is that you have pulled
+back from the overly simple statement `The character Alice is greedy
+and shortsighted` and obfuscated that with a situation or event that
+allows the reader to understand that. These pullbacks are also useful
+for genericizing types of events and situations, so that they could be
+reapplied to other characters.
+
+And so, these kind of pullbacks are essential to writing literature in
+such a way that allows the reader theirself to search for your
+meaning.  It makes it a bit harder, so that they spend more time and
+energy trying to understand your art.  These kinds of pullbacks also
+make your art a bit ambiguous.  It's clear you wanted to spark a
+dialogue on `greed` and `myopia`, but now your readers need to discuss
+amongst themselves what you actually wanted to say. When truly, you
+wanted them to explore these themes or character traits because they
+are complex and the reason you thought about them enough to inspire
+art in the first place is because there is no "right" answer.
+
 
 - "three dimensional" characters: more category theory (pullbacks).
   - don't just describe the events and details at the surface.
