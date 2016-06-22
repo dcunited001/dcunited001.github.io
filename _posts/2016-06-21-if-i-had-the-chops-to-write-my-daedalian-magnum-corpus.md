@@ -252,23 +252,21 @@ written into the story and I immediately think "oh, I see, that's
 where they want to make this a trilogy." But that's better than
 tacking on a self-contained sequel. Either way, the premise of
 subsequent work has changed the work itself.  How does one construct a
-story without planning on the sequel?
+story without planning on the sequel? Sometimes, it's best to travel
+hundreds of years in the past and explore some stories from a little
+known part of the mythology for the original work.
 
-There is another way, which embodies a kind of formlessness, and this
-is by constructing a story, adding in enough extraneous, unresolved
-material to leave openings for connected works.  Done in the right
-way, this is a technique that can add to the complexity of the
-original work and the work should feel both homogenous and
-heterogenous. Think of one of those automatic, contextual photoshop
-brushes.  How does it work? It checks the surrounding area and fills
-in the pixes so nothing stands out too much. This technique is a bit
-similar. And when you mixin enough extraneous heterogenous detail into
-your story, it feels natural. And when that's not there, it feels
-constricted, just barebones plot.
-
-Sometimes, it's best to travel hundreds of years in the past and
-explore some stories from a little known part of the mythology for the
-original work.
+Another better way, which embodies a kind of formlessness, is to
+construct a story, adding in enough extraneous, unresolved material to
+leave openings for connected works.  Done in the right way, this is a
+technique that can add to the complexity of the original work and the
+work should feel both homogenous and heterogenous. Think of one of
+those automatic, contextual photoshop brushes.  How does it work? It
+checks the surrounding area and fills in the pixes so nothing stands
+out too much. This technique is a bit similar. And when you mixin
+enough extraneous heterogenous detail into your story, it feels
+natural. And when that's not there, it feels constricted, just
+barebones plot.
 
 Sequels can change the meaning of the first work. It'd be hard for
 *Star Wars Episode VII* to have quite the same effect as on someone
