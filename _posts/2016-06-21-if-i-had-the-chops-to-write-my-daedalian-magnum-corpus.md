@@ -13,6 +13,11 @@ excerpt: "Dico ergo quia non loquimur de talibus naturaliter possibilibus sed
   commensurabiliter."
 ---
 
+{:center: style="text-align: center;"}
+
+### &#x2605; [Themes](#themes) &#x2605; [Form](#form) &#x2605; [Plot](#plot) &#x2605; [Characters](#characters) &#x2605; [Style](#plot) &#x2605;
+{: center}
+
 I love taking the time to stop and think about literature I read and
 movies I've seen and virtual worlds that I've explored. I love
 thinking about how profoundly different works have affected me. And it
@@ -23,41 +28,25 @@ Why was it that these works affected me so much at that point in my
 life and how would they have affected me later on?  When I first read
 that chapter or saw that scene, what was I thinking? What should I
 have noticed and why didn't I notice it? What compelled me to finish
-that RPG, but not that one? Was the story not as compelling or was
-the pace not consistent enough? Why was I so drawn to that character
-and how did my own thoughts about him/her change as the character
+that RPG, but not others? Was the story not as compelling or was the
+pace not consistent enough? Why was I so drawn to that character and
+how did my own thoughts about him/her change as the character
 developed? What was it that drew me in at first and why? If I was to
 create my own work, how could I recreate that magical moment?
-
-#### Chrono Trigger &#x2605; [Richie Branson](https://richiebranson.bandcamp.com/album/from-guardia-with-love) Can Tell You Why
-
-![Chrono Trigger](/img/posts/2016-06-21-if-i-had-the-chops-to-write-my-daedalian-magnum-corpus/chrono-trigger-art.jpg)
 
 Over time, your answers to questions like these will change as you
 learn more about life.  So if you do not capture your reactions
 authentically and as they happen, you're likely to lose touch with
 that part of yourself that you embodied at that time.
 
-### Elements of Literature:
-
-#### [&#x2605; Themes](#themes)
-
-#### [&#x2605; Form](#form)
-
-#### [&#x2605; Plot](#plot)
-
-#### [&#x2605; Characters & Relationships](#characters-and-relationships)
-
-#### [&#x2605; Style](#plot)
-
 ## What Is Your Message?
 
 Do you ever feel like you're carrying a message that no one else has
-heard?  Do you feel the weight of that on your shoulders?  Do you feel
+heard? Do you feel the weight of that on your shoulders? Do you feel
 that if you didn't write something down, that it might be months or
-years before you have the same thought?  That it might be some time
+years before you have the same thought? That it might be some time
 before anyone else is viewing a subject through that particular
-perspective?  Perhaps, months, years or maybe never? ... Though,
+perspective? Perhaps, months, years or maybe never? ... Though,
 obviously, not every thing I think of is revolutionary
 
 ### What Is Your Story & Why?
@@ -131,7 +120,13 @@ would be many roads never traveled. When I explored these roads, if I
 never wrote anything down, I'd never remember anything. And for the
 longest time, I didn't.
 
-# A Constructive Writing Process
+## A Constructive Writing Process
+{: center}
+
+### &#x2605; [Themes](#themes) &#x2605; [Form](#form) &#x2605; [Plot](#plot) &#x2605; [Characters](#characters) &#x2605; [Style](#plot) &#x2605;
+{: center}
+
+![Cuneiform Gibberish](/img/posts/2016-06-21-if-i-had-the-chops-to-write-my-daedalian-magnum-corpus/cuneiform.png)
 
 If I ever felt I had the time to write something meaningful, I imagine
 I'd use a kind of constructive process, involving the following:
@@ -143,8 +138,8 @@ specific themes that interest me personally.
 
 <a name="themes"/>
 
-
-## &#x2605; Themes &#x2605;
+# &#x2605; Themes &#x2605;
+{: center}
 
 Of all the elements, the most important by far is theme.  This is
 going to drive the internal dialogue of your readers and hopefully any
@@ -154,11 +149,6 @@ There is no such thing as a "finished" work of art.  And thus, works
 that doesn't drive a dialogue, works that don't make us ask new
 questions or provide a new light with which to revisit old modes of
 thinking, these works just don't have as much depth.  They are flat.
-
-#### The Opening Lines to Gilgamesh ... Not Really Though
-
-![Cuneiform Gibberish](/img/posts/2016-06-21-if-i-had-the-chops-to-write-my-daedalian-magnum-corpus/cuneiform.png)
-
 ### Timeless and Universal Themes
 
 And for writing, the themes you choose and how you work with them,
@@ -186,7 +176,8 @@ two.
 
 <a name="form"/>
 
-## &#x2605; Form &#x2605;
+# &#x2605; Form &#x2605;
+{: center}
 
 What's the overall form of the plot?  This is a major dependency of
 all the elements. That is, changing the form will necessitate
@@ -210,6 +201,8 @@ find consumers want to re-experience your work, which is a far more
 accurate measure of validation and valuation than the score on their
 review, if they write one.
 
+### Setting and Breaking Expectations
+
 Some plot elements can have a much more dramatic effect if some of the
 ending is revealed up to the reader up front -- think Star Wars. This
 totally changes how a reader will experience your story.  Instead of
@@ -219,6 +212,8 @@ be connected sometime in the future. Having these kinds of waypoints
 will cause someone to be more invested in your story because their
 mind is going to constantly reevaluate how the stories current
 elements must connect to some events in the future.
+
+### Connecting the Dots
 
 And so, their mind is always trying to connect the dots. This is just
 generally true with the human mind: it speciallizes in this.  So give
@@ -326,7 +321,8 @@ and everything suddenly unfolds, leaving almost nothing remaining.
 
 <a name="plot"/>
 
-## &#x2605; Plot &#x2605;
+# &#x2605; Plot &#x2605;
+{: center}
 
 As you decide on major and minor themes, you should begin thinking of
 major and minor plot elements that would help you expose them.
@@ -359,14 +355,14 @@ betrayal, you need a character that betrays another in an epic way.
 And to explore that to the full effect, you need minor events in your
 story that establish a trusting relationship between the two.
 
-Category theory is actually great for kind of genericizing plot events
-or stories from real life. You can take some memories or stories
-you've heard and just abstract the characters or combinate & reapply
-the same "type" of scenario with different characters until you find
-something interesting. But being able to identify those kinds of
-compelling events and types of events from real life and from other
-stories is the skill here. What types of events would be most
-interesting when applied to different characters and situations.
+Category theory is great for kind of genericizing plot events or
+stories from real life. You can take some memories or stories you've
+heard and just abstract the characters or combinate & reapply the same
+"type" of scenario with different characters until you find something
+interesting. But being able to identify those kinds of compelling
+events and types of events from real life and from other stories is
+the skill here. What types of events would be most interesting when
+applied to different characters and situations.
 
 ### AI-driven Literature
 
@@ -377,18 +373,55 @@ algortihm to weave those events together for some higher purpose that
 allows the work to inspire in its readers a discussion about life
 itself.
 
-<a name="characters-and-relationships"/>
+There has been a ton of work put into this. AI has been trained on
+academic papers, political speeches and screenplays. AI even wrote
+this screenplay
+[Sunscreen](http://arstechnica.com/the-multiverse/2016/06/an-ai-wrote-this-movie-and-its-strangely-moving/),
+which was produced and completed. There's still a lot of work to be
+done. N-gram models are way too simple. Sequence-to-sequence is used
+in a lot of work with language, but that's still not going to cut
+it.
 
-## &#x2605; Characters & Relationships &#x2605;
+> For the next paragraph, just think: "Watson" retired from IBM and
+> kicking our ass at jeopardy to write novels. And his memoirs. That's
+> basically all I'm saying.
+
+Any neural network that doesn't actually process the semantics in the
+language of the text into a model based on information and knowledge
+isn't going to be able to do much. Most AI algorithms that process
+text and language rely on the frequency of words, but don't venture
+too far into semantics. And what I'm thinking about is a network that
+takes the facts and information and plot movement contained in the
+semantics and then constructs a neural network based on that. It then
+mulls over clusters of higher-order data and produces something novel
+... which is punny if you think about it.
+
+The best use for AI in writing for now is for the exploratory process:
+it'd be great at combinating through scenarios for characters,
+chaining them together and then passing control to screenwriters or
+focus groups or something. These higher-order events can be abstracted
+from the kind of knowledge and information that Watson
+aggregates. These higher-order events can be linked together.  Just
+visualized one of those massive old-school synthesizers, with all the
+patch cords chaining various modules together.
+
+#### Ergo Proxy
+
+![Ergo Proxy](/img/posts/2016-06-21-if-i-had-the-chops-to-write-my-daedalian-magnum-corpus/ergo-proxy.jpg)
+
+<a name="characters"/>
+
+# &#x2605; Characters & Relationships &#x2605;
+{: center}
 
 Behind themes, your characters, their relationships and the
 development of both might be the most important parts. They will help
 you elucidate your themes. IMO, ideating all of this is some the
 hardest part of the creative process for literature and screenplays,
 besides the hard work of writing and editing a book or screen
-play. It's all so ephemeral.  It can shift so easily.  What if you
-think you have a good story, but you get a few months into thinking it
-out ... and it just doesn't work?
+play. It's all so ephemeral. It can shift so easily. What if you think
+you have a good story, but you get a few months into thinking it out
+... and it just doesn't work?
 
 
 Your main characters are going to have to be well thought out.  I feel
@@ -409,14 +442,16 @@ energy into. Sometimes these characters are the best because you don't
 have to worry about maintaining them and so you can contort their
 personality and traits a bit more for a bit of literary chiaroscuro.
 
-What makes your characters real? What traits, mores and values do
-your fantasy realm's people share that must be universal, with even
-our own world? And for every one of these questions: ask why!  No, ask
-[five why's](https://en.wikipedia.org/wiki/5_Whys)! The little
-accessories that your character wears, what are their purpose to their
-world? Or is it just extraneous baggage? What hero wants to dress up
-every day with with accessories that are merely baggage? Maybe there's
-a story behind that ring or that leather piece?
+What makes your characters real? What traits, mores and values do your
+fantasy realm's people share that must be universal, with even our own
+world? And for every one of these questions: ask why!  No, ask
+[Five Why's](https://en.wikipedia.org/wiki/5_Whys)! By the way, Five
+Why's is basically the application of pullbacks, which I'll cover in
+just a second. The apparel that your character wears, what is its
+purpose to their world?  Does form fit the function? Or is it just
+extraneous baggage? What hero wants to dress up every day with with
+crap that is mere baggage?  Maybe there's a story behind that ring or
+that leather piece? Who knows.
 
 ![Ergo Proxy Re-l Mayer](/img/posts/2016-06-21-if-i-had-the-chops-to-write-my-daedalian-magnum-corpus/ergo-proxy-awakening.png)
 
@@ -518,12 +553,27 @@ investment of energy to last.
 ### Anonimyzed Characters
 
 There is a kind of merger of characters with the mathematic concept of
-type theory. That is, you'll find that, for the situations you want to
-use to highlight your chosen themes, you're going to need characters
-to fill various roles. If your characters are pulling off a heist and
-one of them gets left behind, it could be any of them, but why should
-you pick each one? The role is the character that needs to be left
-behind, which is necessary for some future element of the plot.
+type theory. Don't freak out! Type theory is basically Mad Libs.
+That's all. If you want to get fancy, think Mad Libs with tree-like
+data structures.
+
+Type theory sounds overly abstract, but it's applicable
+to writing and the creative process. Type theory can be applied to
+both the situations you're character will be in as well as to the
+characters themselves. It allows you to compare and specify parallels
+between the structures of data, in this case characters and events. In
+computer science, type theory very useful for functional programming
+and if you were to model literature you would find yourself finding a
+ton of connections to category theory, as we already have.
+
+For the situations you want to use to highlight your chosen themes,
+you're going to need characters to fill various roles. If your
+characters are pulling off a heist and one of them gets left behind,
+it could be any of them, but why should you pick each one? The role is
+the character that needs to be left behind, which is necessary for
+some future element of the plot. If your characters pull off a series
+of heists, there might be similar features shared between all of them:
+specific events or roles for a character to fulfill.
 
 So, if you've enumerated these generic situations and plot movements
 that you want to use to construct your plot, then you can also create
@@ -576,9 +626,17 @@ archetypes. And I wonder: is that because they are the most pure
 implementations of these archetypes? Or is it because they were some
 of the first and everything is based on them?
 
+### The Icarus Archetype
+
+#### Ergo Proxy's [Monad](https://en.wikipedia.org/wiki/Monad_(philosophy)) [Proxy](https://en.wikipedia.org/wiki/Monad)
+
+![The Monad Proxy](/img/posts/2016-06-21-if-i-had-the-chops-to-write-my-daedalian-magnum-corpus/ergo-proxy-ending.jpg)
+
 <a name="style"/>
 
-## &#x2605; Style &#x2605;
+# &#x2605; Style &#x2605;
+{: center}
+
 
 
 You should be experienced enough as a writer (or artist or poet,
