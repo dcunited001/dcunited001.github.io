@@ -87,6 +87,8 @@ I hope to describe how to use elements and methods of this creative
 process to facilitate the development of higher-quality, more
 meaningful writing in myself, as well as my readers.
 
+### Machinations Beneath The Surface
+
 Most people view things through a common lens because they haven't
 dove in to explore their true nature. People who understand the inner
 workings or true nature of some tech, some medium, some idea, they see
@@ -95,6 +97,20 @@ marvelously more sophisticated, yet wondrously simple.  It cannot be
 rigidly defined and neither can its potential. To them, it is
 difficult to state something is or is not possible because they see
 multifarious solutions.
+
+It's like peering over a bridge into a river, where some sections are
+deep and others are shallow, with rolling rapids and rocks
+exposed. But the deeper sections of the river, you can observe the
+rocks beneath the waves. Even though you can't see the rocks or the
+riverbed directly, you can still infer their presence because of what
+you see on the surface. This is how I see reality; the divide between
+the physical world and the metaphysical. Some of the metaphysical must
+certainly be there, even though I can't directly observe it.  In fact,
+I may never see it, but I know that it's there.
+
+#### Boulder River
+
+![Boulder River](/img/posts/2016-06-21-if-i-had-the-chops-to-write-my-daedalian-magnum-corpus/boulder-river.jpg)
 
 So I get distracted because my mind is too populated with connections
 to random things.  If my mind were a graph and whatever I was looking
