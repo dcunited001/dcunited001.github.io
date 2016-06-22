@@ -261,6 +261,42 @@ them without abandon. If a show is going to be short, significant
 characters can die or whatever. There's less risk there and because of
 that, the stories can have more varied developments.
 
+### Formlessness
+
+[No Longer Human](https://en.wikipedia.org/wiki/No_Longer_Human)(1948)
+by Osamu Dazai is an excellent example of formlessness. I haven't read
+it, but I've seen the anime based on it, which is part of
+[Aoi Bungaku](https://en.wikipedia.org/wiki/Aoi_Bungaku), a collection
+of japanese literature adapted to anime. It's presumed to be partly
+based on the life of Osamu Dazai, who committed suicide shortly after
+publishing it. The anime follows the life of Oba Yozo after a
+disastrously failed double suicide attempt and delves into his
+childhood and his recovery from the failed suicide.
+
+As for themes, it speaks powerfully about the role of the individual
+in relation to society. There are several brilliant role reversals
+woven into the work, especially towards the end, which are only made
+possible by the form of the novel. It's difficult to see these coming,
+but they are pulled off just right and add a ton of depth to the
+characters in the story. Two of the characters are so similar, yet so
+distinctive.  Neither really fits into society and both are kind of
+outcasts, but one is able to reconcile this, while the other makes a
+few majestic steps forward and several equally tragic falls backward.
+
+Only having experienced the anime, I think the story seems formless
+because it's partly based on the life of the author and thus,
+traditional form is right out the window. Usually, stories adapted
+from real events end up being shallow and one-sided. But here,
+elements of form are woven in on top of the pieces of the author's
+life story, resulting in a very complex story about life with very
+real characters. The end of the anime feels almost like the climax of
+a chess game, where there are several pieces holding others in place
+and everything suddenly unfolds, leaving almost nothing remaining.
+
+#### No Longer Human Manga
+
+![No Longer Human Manga](/img/posts/2016-06-21-if-i-had-the-chops-to-write-my-daedalian-magnum-corpus/no-longer-human-manga.jpg)
+
 <a name="plot"/>
 
 ## &#x2605; Plot
@@ -406,29 +442,29 @@ it down. You'll see that it's simple and relevant.
 
 ![Category Theory Pullback](/img/posts/2016-06-21-if-i-had-the-chops-to-write-my-daedalian-magnum-corpus/category-theory-pullback.png)
 
-So, `P` and `Z` are your reader's perceptions of character `A`,
+So, `P` and `Z` are your reader's perceptions of the character
 `Alice`, before and after some character development. Lets say that
 `Z` is your character after some transformative event that makes your
-reader think Alice is greedy and shortsighted.  To make the analogy to
-category theory more clear (this isn't really important) then `P -> X
--> Z` and `P -> Y -> Z` represent the transformations of `greedy` and
-`shortsighted`, in either order.  Whether or not you apply the
+reader think `Alice` is greedy and shortsighted.  To make the analogy
+to category theory more clear (this isn't really important) then `P ->
+X -> Z` and `P -> Y -> Z` represent the transformations of `greedy`
+and `shortsighted`, in either order.  Whether or not you apply the
 functions `greedy` or `shortsighted` first or second doesn't matter,
 you still reach a place `Z` where the reader perceives both are true
 about `Alice`.  But if you just do it this way, it's the equivalent of
 writing `The character Alice is greedy and shortsighted`. Boring,
-right? But that is the goal. You need the reader to believe that Alice
-is these things.
+right? But that is the goal. You need the reader to believe that
+`Alice` is these things.
 
 So a pullback is a transformation of `P -> X -> Z` and `P -> Y -> Z`
 so that you can go from `Q -> X -> Z` or `Q -> Y -> Z`. And there is
-the implied existence of a function `u` that will transform `Q -> P`,
-but that's not important. What is important is that you have pulled
-back from the overly simple statement `The character Alice is greedy
-and shortsighted` and obfuscated that with a situation or event that
-allows the reader to understand that. These pullbacks are also useful
-for genericizing types of events and situations, so that they could be
-reapplied to other characters.
+the implied existence of a function `u` that transforms `Q -> P`. What
+is important is that you have pulled back from the overly simple
+statement `The character Alice is greedy and shortsighted` and
+obfuscated that with a situation or event that allows the reader to
+understand that. These pullbacks are also useful for genericizing
+types of events and situations, so that they could be reapplied to
+other characters.
 
 And so, these kind of pullbacks are essential to writing literature in
 such a way that allows the reader theirself to search for your
@@ -520,8 +556,11 @@ that requires a ton of edits and reworks.
     - are you focusing on style in some way that drives the other
       elements
     - tarantino seems to do this well
-    
+
     Ghost in the shell video
+    
+No Longer Human is told in the form of notebooks left behind by the
+main character
 
 ## Part Two - Specific Themes
 
