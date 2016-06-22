@@ -438,6 +438,6 @@ piece of it to be replicated, it only needs to be incontrovertibly
 demonstrated once. From that point, it can be restated and replicated
 as truth, on the basis of faith alone.  Yet, after that, the person
 who reached those conclusions is no longer necessary.  Perhaps, even
-less necessary before.  In some circumstances.
+less necessary than before.  In some circumstances.
 
 That attitude; I don't believe that's right.
