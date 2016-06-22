@@ -13,23 +13,11 @@ excerpt: "Dico ergo quia non loquimur de talibus naturaliter possibilibus sed
   commensurabiliter."
 ---
 
-### Elements of Literature
-
-#### [&#x2605; Themes](#themes)
-
-#### [&#x2605; Form](#form)
-
-#### [&#x2605; Plot](#plot)
-
-#### [&#x2605; Characters & Relationships](#characters-and-relationships)
-
-#### [&#x2605; Style](#plot)
-
 I love taking the time to stop and think about literature I read and
 movies I've seen and virtual worlds that I've explored. I love
 thinking about how profoundly different works have affected me. And it
 seems that there's always something else to pick up when I take the
-time to rexplore them.
+time to reexplore them.
 
 Why was it that these works affected me so much at that point in my
 life and how would they have affected me later on?  When I first read
@@ -41,10 +29,26 @@ and how did my own thoughts about him/her change as the character
 developed? What was it that drew me in at first and why? If I was to
 create my own work, how could I recreate that magical moment?
 
+#### Chrono Trigger &#x2605; [Richie Branson](https://richiebranson.bandcamp.com/album/from-guardia-with-love) Can Tell You Why
+
+![Chrono Trigger](/img/posts/2016-06-21-if-i-had-the-chops-to-write-my-daedalian-magnum-corpus/chrono-trigger-art.jpg)
+
 Over time, your answers to questions like these will change as you
 learn more about life.  So if you do not capture your reactions
 authentically and as they happen, you're likely to lose touch with
 that part of yourself that you embodied at that time.
+
+### Elements of Literature:
+
+#### [&#x2605; Themes](#themes)
+
+#### [&#x2605; Form](#form)
+
+#### [&#x2605; Plot](#plot)
+
+#### [&#x2605; Characters & Relationships](#characters-and-relationships)
+
+#### [&#x2605; Style](#plot)
 
 ## What Is Your Message?
 
@@ -139,7 +143,8 @@ specific themes that interest me personally.
 
 <a name="themes"/>
 
-## &#x2605; Themes
+
+## &#x2605; Themes &#x2605;
 
 Of all the elements, the most important by far is theme.  This is
 going to drive the internal dialogue of your readers and hopefully any
@@ -150,14 +155,18 @@ that doesn't drive a dialogue, works that don't make us ask new
 questions or provide a new light with which to revisit old modes of
 thinking, these works just don't have as much depth.  They are flat.
 
+#### The Opening Lines to Gilgamesh ... Not Really Though
+
+![Cuneiform Gibberish](/img/posts/2016-06-21-if-i-had-the-chops-to-write-my-daedalian-magnum-corpus/cuneiform.png)
+
+### Timeless and Universal Themes
+
 And for writing, the themes you choose and how you work with them,
 this determines the depth of your work.  Some themes are more relevant
 to some than others.  Some are played out, but might be fresh if you
 provide a new lens.  There are many which seem relevant now, but whose
 importance will soon fade.  These stories will likely vanish from the
 pages of time.
-
-### Timeless and Universal Themes
 
 Thus, it's important to choose timeless and universally relevant
 themes that everyone can value or appreciate. But what is universally
@@ -171,9 +180,13 @@ development.
 A list of themes I would like to explore will be enumerated in part
 two.
 
+#### Illustration from the 12th Century [Eadwine Psalter](https://en.wikipedia.org/wiki/Eadwine_Psalter)
+
+![Eadwine Psalter](/img/posts/2016-06-21-if-i-had-the-chops-to-write-my-daedalian-magnum-corpus/eadwine-psalter.jpg)
+
 <a name="form"/>
 
-## &#x2605; Form
+## &#x2605; Form &#x2605;
 
 What's the overall form of the plot?  This is a major dependency of
 all the elements. That is, changing the form will necessitate
@@ -315,7 +328,7 @@ and everything suddenly unfolds, leaving almost nothing remaining.
 
 <a name="plot"/>
 
-## &#x2605; Plot
+## &#x2605; Plot &#x2605;
 
 As you decide on major and minor themes, you should begin thinking of
 major and minor plot elements that would help you expose them.
@@ -368,16 +381,17 @@ itself.
 
 <a name="characters-and-relationships"/>
 
-## &#x2605; Characters & Relationships
+## &#x2605; Characters & Relationships &#x2605;
 
 Behind themes, your characters, their relationships and the
 development of both might be the most important parts. They will help
 you elucidate your themes. IMO, ideating all of this is some the
 hardest part of the creative process for literature and screenplays,
 besides the hard work of writing and editing a book or screen
-play. It's all so ephemeral.  What if you think you have a good story,
-but you get a few months into thinking it out ... and it just doesn't
-work?
+play. It's all so ephemeral.  It can shift so easily.  What if you
+think you have a good story, but you get a few months into thinking it
+out ... and it just doesn't work?
+
 
 Your main characters are going to have to be well thought out.  I feel
 like I don't have nearly enough experience here, but your characters
@@ -406,6 +420,8 @@ world? Or is it just extraneous baggage? What hero wants to dress up
 every day with with accessories that are merely baggage? Maybe there's
 a story behind that ring or that leather piece?
 
+![Ergo Proxy Re-l Mayer](/img/posts/2016-06-21-if-i-had-the-chops-to-write-my-daedalian-magnum-corpus/ergo-proxy-awakening.png)
+
 What is this character's comfort zone? And what happens when they get
 harshly placed outside it? Do they react realistically? Do they
 change? What provokes their change? Or does the character, a high
@@ -430,15 +446,15 @@ stilted. Try to avoid describing the events and details at the
 surface.
 
 So to sculpt these more authentic characters, you find that writers
-will mix one of two strategies. You'll find that both are necessary,
-though the first is much better IMO.  First, they may strategically
-filter what is described at the surface and use that to allow you to
-imagine what must lie below.  And secondly, they may attempt to
-directly describe the thoughts and inner feelings of the characters to
-articulate how a reader should perceive the surface details. This is
-necessary when you want to make sure that your reader is thinking
-about certain things when a scene is unfolding. It's like putting
-text in bold. Sometimes you want to do that.
+will mix one of two strategies. Both are necessary, though the first
+is much better IMO.  First, they may strategically filter what is
+described at the surface and use that to allow you to imagine what
+must lie below.  And secondly, they may attempt to directly describe
+the thoughts and inner feelings of the characters to articulate how a
+reader should perceive the surface details. This is necessary when you
+want to make sure that your reader is thinking about certain things
+when a scene is unfolding. It's like putting text in bold. Sometimes
+you want to do that.
 
 And you have to take the limitations of your medium into account. A
 movie only has a running time of 90 - 120 minutes, tops. You need to
@@ -446,11 +462,11 @@ change how you develop your characters so you can do it faster, unless
 your character is already fairly well known, like a comic book
 superhero or something.
 
-But try to refrain from techniques like expository dialogue,
-*especially if you're using it to expose emotional state!* LOL,
-definitely don't do that.
-
 ### Pullbacks and Character Development
+
+Try to refrain from techniques like expository dialogue, *especially
+if you're using it to expose emotional state!* LOL, definitely don't
+do that.
 
 So, instead use the category theory concept of
 [pullbacks](https://en.wikipedia.org/wiki/Pullback_(category_theory)). And
@@ -564,7 +580,8 @@ of the first and everything is based on them?
 
 <a name="style"/>
 
-## &#x2605; Style
+## &#x2605; Style &#x2605;
+
 
 You should be experienced enough as a writer (or artist or poet,
 whatever) to consciously embed elements of style throughout it's
@@ -579,10 +596,28 @@ that requires a ton of edits and reworks.
       elements
     - tarantino seems to do this well
 
-    Ghost in the shell video
-    
+Ghost in the shell video:
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/gXTnl1FVFBw" frameborder="0" allowfullscreen></iframe>
+
 No Longer Human is told in the form of notebooks left behind by the
-main character
+main character.
+- why did the author choose this style?
+
+- The Cantebury Tales
+  - style of a collection of small stories from the same era or series
+    of events
+  - police procedural
+  - death note anime
+
+- Gargantua and Pantagruel
+  - made up words, inspired by ancient greek (need more info)
+  - tons of wordplay. considered obscene at first, but eventually
+    became a staple of french literature
+  - a particular "scorn for fortuitous things" .... need to expand on
+    this
+
+![Gargantua and Pantagruel](/img/posts/2016-06-21-if-i-had-the-chops-to-write-my-daedalian-magnum-corpus/gargantua-and-pantagruel.jpg)
 
 ## Part Two - Specific Themes
 
