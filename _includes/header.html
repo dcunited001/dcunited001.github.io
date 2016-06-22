@@ -187,7 +187,6 @@ IVVMM::::.:.:. . ... .::II:.::..:.. .. .. . . .:.:::IHH:.:HHIIHIHH':-'
     <![endif]-->
 </head>
   <body class="{{ post.title | downcase | replace:' ','-' | replace:',','' | strip_html }}{% if page.category %} category-{{ page.category }}{% endif %}{% if page.layout-class %} layout-{{ page.layout-class }}{% endif %}">
-    
 
     <!-- ganalytics -->
     <script>
@@ -198,9 +197,27 @@ IVVMM::::.:.:. . ... .::II:.::..:.. .. .. . . .:.:::IHH:.:HHIIHIHH':-'
 
       ga('create', 'UA-49910074-1', 'xel.io');
       ga('send', 'pageview');
-    </script>
 
-    
+      var scrollDepthConfig = {}
+      ga('require', 'scrollDepthTracker', '/js/scroll-depth-tracker.js', config);
+
+      /* scrollDepthTracker defaults
+      action : 'Pageview End',
+      beacon : true,
+      category : 'Page',
+      debug : false,
+      delay : true,
+      labelNoScroll : 'Did Not Scroll',
+      labelScroll : 'Did Scroll',
+      sampleRate : 100,
+      scrollThreshold : 10,
+      setPage : true,
+      timeout : 300,
+      timeThreshold : 15,
+      metric : null,
+      maxTimeOnPage : 30
+      */
+    </script>
 
     <nav class="navbar navbar-inverse navbar-fixed-top">
         <div class="container-fluid">
