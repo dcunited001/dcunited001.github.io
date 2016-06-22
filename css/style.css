@@ -5956,6 +5956,10 @@ article img {
   max-width: 100%;
   height: auto; }
 
+p.centered img {
+  margin-left: auto;
+  margin-right: auto; }
+
 article iframe {
   display: block;
   max-width: 100%; }
