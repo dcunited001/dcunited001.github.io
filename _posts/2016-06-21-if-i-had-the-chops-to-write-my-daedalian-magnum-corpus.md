@@ -123,7 +123,7 @@ specific themes that interest me personally.
 
 <a name="themes"/>
 
-## &#x2605; Themes &#x2605; Major & Minor
+## &#x2605; Themes
 
 Of all the elements, the most important by far is theme.  This is
 going to drive the internal dialogue of your readers and hopefully any
@@ -157,7 +157,7 @@ two.
 
 <a name="form"/>
 
-## &#x2605; Form &#x2605; Major & Minor
+## &#x2605; Form
 
 What's the overall form of the plot?  This is a major dependency of
 all the elements. That is, changing the form will necessitate
@@ -207,9 +207,63 @@ trilogy, which is a ringed plot. It's a trilogy of trilogies, began
 in the middle of a ringed story. The "ringed" form is well known in
 literature and Star Wars is like a meta-form of that.
 
+### Sequels Break Coherence to Form
+
+Why is that that sequels don't usually stand up to the first works?
+Often, it's because the author didn't have another direction planned
+for the work. The stories for the sequels feel "tacked on." They seem
+isolated or self-contained or, worse, stilted in how they are
+interwoven into the original work. They might intertwine with the
+previous work well, but the previous work lacks the ability to
+intertwine as well with the sequel, depending on how the author left
+openings for sequels.
+
+At the same time, it can sometimes be cheesy when there's a bit
+written into the story and I immediately think "oh, I see, that's
+where they want to make this a trilogy." But that's better than
+tacking on a self-contained sequel. Either way, the premise of
+subsequent work has changed the work itself.  How does one construct a
+story without planning on the sequel?
+
+There is another way, which embodies a kind of formlessness, and this
+is by constructing a story, adding in enough extraneous, unresolved
+material to leave openings for connected works.  Done in the right
+way, this is a technique that can add to the complexity of the
+original work and the work should feel both homogenous and
+heterogenous. Think of one of those automatic, contextual photoshop
+brushes.  How does it work? It checks the surrounding area and fills
+in the pixes so nothing stands out too much. This technique is a bit
+similar. And when you mixin enough extraneous heterogenous detail into
+your story, it feels natural. And when that's not there, it feels
+constricted, just barebones plot.
+
+Sometimes, it's best to travel hundreds of years in the past and
+explore some stories from a little known part of the mythology for the
+original work.
+
+Sequels can change the meaning of the first work. It'd be hard for
+*Star Wars Episode VII* to have quite the same effect as on someone
+who waited nearly thirty years from the release of *Episode VI*. I'm
+not at all saying there's anything wrong with how JJ Abrams approached
+the sequels, but it's impossible for that work to have the same effect
+as it did on people who grew up with the first six episodes.
+
+Sometimes it's best to leave the reader or viewer seething with
+unresolved tension. Other times, a story should begin and end. And
+that's it. You've explored the world. Time for a new story. This is
+something I really like about anime and manga and I've written a post
+about it before in
+[Lean, Kanban and Anime](/posts/2015-01-27-lean-kanban-and-anime.html).
+There are the franchises that return again and again, but there are so
+many one off stories that last just a season or two.  This gives the
+storytellers the chance to explore a set of characters and develop
+them without abandon. If a show is going to be short, significant
+characters can die or whatever. There's less risk there and because of
+that, the stories can have more varied developments.
+
 <a name="plot"/>
 
-## &#x2605; Plot &#x2605; Major & Minor
+## &#x2605; Plot
 
 As you decide on major and minor themes, you should begin thinking of
 major and minor plot elements that would help you expose them.
@@ -256,7 +310,7 @@ itself.
 
 <a name="characters-and-relationships"/>
 
-## &#x2605; Characters & Relationships &#x2605; Major & Minor
+## &#x2605; Characters & Relationships
 
 Behind themes, your characters, their relationships and the
 development of both might be the most important parts. They will help
@@ -426,51 +480,48 @@ that matches up with character B.
 
 ### Character Archetypes
 
-- character archetypes and traits. the "tsundere"
-- character development: how to expose development to readers
-  through events.  how to stress the character development without
-  having it detract from more important points of the story.
-  - will your readers honestly even notice that your character has
-    changed?  what will draw their attention without expository
-    dialogue?
-  - IMO, most stories are too short for anything but the main 3 or 4
-    characters to demonstrate meaningful character development.  but
-    it's great when this is pulled off so that it's coherent.
+Ahhh the tsundere. Who doesn't love a good tsundere? Anime shows often
+seem to have one. It's the character, usually a girl, who acts like
+she doesn't approve of our unlikely hero. She remains cold and
+distant, but why?! And gradually they grow close after the hero proves
+himself in some way.
 
-- NOTE: also explain how and why sequels usually don't stand up to
-  the first works.
-  - (maybe move to the section on form)
-  - it's mostly because the author didn't have another
-    direction planned for the work.
-  - the stories for the sequels feel "tacked on." they are
-    self-contained and don't intertwine.
-  - at the same time, it's a bit cheesy when there's a bit written
-    into the story and you're like "oh i see where they want to make
-    this a trilogy."  either way, the premise of subsequent work
-    has changed the work.  planning the sequels out is preferable
-    for sure though.
-    - but sometimes, a story should begin and end. and that's it.
-      you've explored the world.  time for a new story.
-  - how to construct a story without "planning on the sequel." there
-    is another way, through a certain kind of formlessness.  by
-    constructing a story and adding enough extraneous material such
-    that the original work feels both homogenous and heterogenous.
-    - think of one of those automatic contextual photoshop brushes.
-      how does it work?  it checks the surrounding area and fills in
-      pixels so nothing stands out too much.  this is a bit similar.
-  - also, when you mixin enough extraneous heterogenous detail into
-    your story, it feels natural.  and when that's not there, it
-    feels constricted, just barebones plot.
+These character archetypes are all over the place. There's the distant
+mystic. The thief with a heart of gold. The homeless guy who's seen
+everything. The evil stepmom. The unlikely hero. The valiant
+prince. The trickster. They're all over literature and it's nearly
+impossible to create characters that break these molds. You have to be
+familiar with them because you're inevitably going to copy traits from
+them whether you know it or not. You can try to combine one or more
+archetypes, but that's not such a great approach. A good idea would be
+to practice creating characters that embody these archetypes in some
+way. If you can master that, then you should know how to create
+characters that differ from them in some significant way.
+
+Greek mythology and other ancient traditions are a great source of
+stories about characters that seem to best embody these
+archetypes. And I wonder: is that because they are the most pure
+implementations of these archetypes? Or is it because they were some
+of the first and everything is based on them?
 
 <a name="style"/>
 
-## &#x2605; Style &#x2605; Major & Minor
+## &#x2605; Style
 
 you should be experienced enough as a writer (or artist or poet,
 whatever) to consciously embed elements of style throughout it's
 entire process of creation.  this way, the style you apply seems
 uniformly embedded in the work, instead of a late idea or something
 that requires a ton of edits and reworks.
+
+- how do specific techniques of style reinforce the themes or
+  characters?
+  - is your use of style "major" or "minor"
+    - are you focusing on style in some way that drives the other
+      elements
+    - tarantino seems to do this well
+    
+    Ghost in the shell video
 
 ## Part Two - Specific Themes
 
