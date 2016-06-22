@@ -285,15 +285,14 @@ energy into. Sometimes these characters are the best because you don't
 have to worry about maintaining them and so you can contort their
 personality and traits a bit more for a bit of literary chiaroscuro.
 
-What makes your characters real?  What makes them three dimensional?
-What traits, mores and values do your fantasy realm's people share
-that must be universal, with even our own world? And for every one of
-these questions: ask why!  No, ask
+What makes your characters real? What traits, mores and values do
+your fantasy realm's people share that must be universal, with even
+our own world? And for every one of these questions: ask why!  No, ask
 [five why's](https://en.wikipedia.org/wiki/5_Whys)! The little
 accessories that your character wears, what are their purpose to their
 world? Or is it just extraneous baggage? What hero wants to dress up
-every day with with accessories that are merely baggage? Maybe
-there's a story behind that ring or that leather piece?
+every day with with accessories that are merely baggage? Maybe there's
+a story behind that ring or that leather piece?
 
 What is this character's comfort zone? And what happens when they get
 harshly placed outside it? Do they react realistically? Do they
@@ -309,21 +308,45 @@ them to flesh it out. On the other hand, you need to give yourself
 room for flexibility: don't flesh out so many details if it's going to
 be a problem to be stuck with them.
 
+### Three-Dimensional Characters
+
 And so, to get "three-dimensional characters," I'll again return to
 category theory -- this time to **pullbacks**.  It's more useful to
 let the reader construct their version of the character in their head
 because if you try to do it for them, it's going to feel forced and
-stilted. Don't just describe the events and details at the
-surface. Refrain from expository dialogue, *especially if you're using
-it to expose emotional state!* LOL, definitely don't do that.
+stilted. Try to avoid describing the events and details at the
+surface.
+
+So to sculpt these more authentic characters, you find that writers
+will mix one of two strategies. You'll find that both are necessary,
+though the first is much better IMO.  First, they may strategically
+filter what is described at the surface and use that to allow you to
+imagine what must lie below.  And secondly, they may attempt to
+directly describe the thoughts and inner feelings of the characters to
+articulate how a reader should perceive the surface details. This is
+necessary when you want to make sure that your reader is thinking
+about certain things when a scene is unfolding. It's like putting
+text in bold. Sometimes you want to do that.
+
+And you have to take the limitations of your medium into account. A
+movie only has a running time of 90 - 120 minutes, tops. You need to
+change how you develop your characters so you can do it faster, unless
+your character is already fairly well known, like a comic book
+superhero or something.
+
+But try to refrain from techniques like expository dialogue,
+*especially if you're using it to expose emotional state!* LOL,
+definitely don't do that.
 
 ### Pullbacks and Character Development
 
-So, use the category theory concept of
+So, instead use the category theory concept of
 [pullbacks](https://en.wikipedia.org/wiki/Pullback_(category_theory)). And
 please note, this concept doesn't really map up one-to-one with the
 concept with category theory, but I think I can illustrate some
-important points about both by illustrating with this analogy.
+important points about both by illustrating with this analogy. And
+yeh, it's abstract non-sense mathematic mumbo jumbo, but I can break
+it down. You'll see that it's simple and relevant.
 
 #### Pullback Diagram
 
@@ -362,25 +385,47 @@ dialogue on `greed` and `myopia`, but now your readers need to discuss
 amongst themselves what you actually wanted to say. When truly, you
 wanted them to explore these themes or character traits because they
 are complex and the reason you thought about them enough to inspire
-art in the first place is because there is no "right" answer.
+art in the first place is because there is no "right" answer. Art that
+is so direct & obvious doesn't inspire enough discussion and
+investment of energy to last.
 
+### Anonimyzed Characters
 
-- "three dimensional" characters: more category theory (pullbacks).
-  - don't just describe the events and details at the surface.
-  - instead, they mix one of two strategies: they strategically
-    filter what is described at the surface and use that to allow you
-    to imagine what must lie below.
-  - or they attempt to directly describe the thoughts and inner
-    feelings of the characters, to describe how a reader would
-    perceive the surface details.
-- anonymyzed characters:
-  - merger of characters with type theory & category theory
-  - for some events, start out with just the roles you need to fill
-    - then later on, decide on whether that role should be tied to
-      an existing character, or just another nameless minion
-  - this allows you to be flexible in composing events/characters
-    together without creating massively intertwined dependencies
-    in plot
+There is a kind of merger of characters with the mathematic concept of
+type theory. That is, you'll find that, for the situations you want to
+use to highlight your chosen themes, you're going to need characters
+to fill various roles. If your characters are pulling off a heist and
+one of them gets left behind, it could be any of them, but why should
+you pick each one? The role is the character that needs to be left
+behind, which is necessary for some future element of the plot.
+
+So, if you've enumerated these generic situations and plot movements
+that you want to use to construct your plot, then you can also create
+anonymized characters to attach to specific situations.  This way, you
+can evaluate characters for that role in that situation to find the
+best fit.  Changing characters that are part of a scene can have
+ramifications on dependencies to the story. E.G. the character that
+gets left behind in the heist was originally supposed to be in a scene
+just a bit later on, but now that's a plot hole and a dependency issue
+to be resolved.
+
+But anonimyzing the characters that are part of your scenes allows you
+to be a bit more flexible with your story.  Because the imposition
+limitations often sparks creativity, then by evaluating which
+characters make the most sense for each scene and resolving the
+dependency issues that arise by creating explanatory scenes, you're
+actually augmenting your creative capacity. I've always found that
+imposed limitations cause me to be much more creative than usual.
+
+And so, if you have these anonimyzed characters, you might specify
+some of their actions and reactions in specific scenes, but because
+you haven't decided their identity, you can always merge them with
+other characters to some extent.  E.G. well for scene A, we need a
+heroic character that can rappel onto a balcony to save the day and
+that matches up with character B.
+
+### Character Archetypes
+
 - character archetypes and traits. the "tsundere"
 - character development: how to expose development to readers
   through events.  how to stress the character development without
