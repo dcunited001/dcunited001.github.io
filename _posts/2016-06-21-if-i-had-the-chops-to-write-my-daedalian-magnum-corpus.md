@@ -15,15 +15,15 @@ excerpt: "Dico ergo quia non loquimur de talibus naturaliter possibilibus sed
 
 ### Elements of Literature
 
-#### &#x2605; [Themes](#themes)
+#### [&#x2605; Themes](#themes)
 
-#### &#x2605; [Form](#form)
+#### [&#x2605; Form](#form)
 
-#### &#x2605; [Plot](#plot)
+#### [&#x2605; Plot](#plot)
 
-#### &#x2605; [Characters & Relationships](#characters-and-relationships)
+#### [&#x2605; Characters & Relationships](#characters-and-relationships)
 
-#### &#x2605; [Style](#plot)
+#### [&#x2605; Style](#plot)
 
 I love taking the time to stop and think about literature I read and
 movies I've seen and virtual worlds that I've explored. I love
@@ -112,9 +112,9 @@ I may never see it, but I know that it's there.
 
 ![Boulder River](/img/posts/2016-06-21-if-i-had-the-chops-to-write-my-daedalian-magnum-corpus/boulder-river.jpg)
 
-So I get distracted because my mind is too populated with connections
-to random things.  If my mind were a graph and whatever I was looking
-at or thinking of were our current node, then on average, I would have
+I get distracted because my mind is too populated with connections to
+random things.  If my mind were a graph and whatever I was looking at
+or thinking of were our current node, then on average, I would have
 dozens as many edges to others than a normal person. Several factors
 contribute to this: I know tons of useless trivia, I tend to examine
 various trivial aspects of things and I try to correlate more than the
@@ -127,7 +127,7 @@ would be many roads never traveled. When I explored these roads, if I
 never wrote anything down, I'd never remember anything. And for the
 longest time, I didn't.
 
-## A Constructive Writing Process
+# A Constructive Writing Process
 
 If I ever felt I had the time to write something meaningful, I imagine
 I'd use a kind of constructive process, involving the following:
@@ -320,6 +320,8 @@ and everything suddenly unfolds, leaving almost nothing remaining.
 As you decide on major and minor themes, you should begin thinking of
 major and minor plot elements that would help you expose them.
 
+### The Intersection of Form and Plot
+
 It's the intersection of form and plot that allows for plausible
 alternate explanations to a storyline.  Again, this is a priceless
 tool for getting your reader to engage and invest in your story. It's
@@ -332,6 +334,8 @@ well as your fantasy. It's especially important to look for form and
 plot that allow for plausible alternate explanations.  So writers need
 to be capable of identifying duplicitous scenarious or portraying
 scenarious in such a way that allows for duplicitous explanations.
+
+### Tropes
 
 There are generic kinds of events and events that are genericizeable
 which can allow a writer to enumerate reusable scenarios for minor
@@ -352,6 +356,8 @@ something interesting. But being able to identify those kinds of
 compelling events and types of events from real life and from other
 stories is the skill here. What types of events would be most
 interesting when applied to different characters and situations.
+
+### AI-driven Literature
 
 In terms of getting an AI algorithm to write literature or movies, one
 challenge is managing the interweaved web of dependencies between
@@ -560,9 +566,9 @@ of the first and everything is based on them?
 
 ## &#x2605; Style
 
-you should be experienced enough as a writer (or artist or poet,
+You should be experienced enough as a writer (or artist or poet,
 whatever) to consciously embed elements of style throughout it's
-entire process of creation.  this way, the style you apply seems
+entire process of creation. This way, the style you apply seems
 uniformly embedded in the work, instead of a late idea or something
 that requires a ton of edits and reworks.
 
