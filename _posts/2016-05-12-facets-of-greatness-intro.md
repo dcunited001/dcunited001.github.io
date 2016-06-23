@@ -23,16 +23,6 @@ character, realizing their dreams and pushing them forward, in spite
 of hardship?  What attributes contribute to the development of these
 qualities and behaviors? Why are these attributes important?
 
-### How to Steve Jobs
-
-!["Stay Hungry. Stay Foolish." - Steve Jobs](/img/posts/2016-05-12-facets-of-greatness-intro/steve-jobs-stay-hungry-stay-foolish.jpg)
-
-What kinds of knowledge help us form and realize a vision? What
-knowledge catalyzes the development of such a vision?  What inspires
-others to work with us?  Here's a list of what I believe to be the
-Facets of Greatness.  In this article, I'll summarize each of these,
-providing detailed descriptions subsequent articles.
-
 ### &#x1f48e; [Quantification](#quantification)
 
 ### &#x1f48e; [Networking](#networking)
@@ -54,6 +44,16 @@ providing detailed descriptions subsequent articles.
 ### &#x1f48e; [Strategy](#strategy)
 
 ### &#x1f48e;
+
+### How to Steve Jobs
+
+!["Stay Hungry. Stay Foolish." - Steve Jobs](/img/posts/2016-05-12-facets-of-greatness-intro/steve-jobs-stay-hungry-stay-foolish.jpg)
+
+What kinds of knowledge help us form and realize a vision? What
+knowledge catalyzes the development of such a vision?  What inspires
+others to work with us?  Here's a list of what I believe to be the
+Facets of Greatness.  In this article, I'll summarize each of these,
+providing detailed descriptions subsequent articles.
 
 > "And I really just want to emphasize that, while I've learned a lot
 > about these "facets of greatness", I'm not exactly the
@@ -364,9 +364,7 @@ knowledge, communication and social networking -- both online and IRL.
 
 ## &#x1f48e; [Networking](#networking)
 
-[Maximizing Mutual Benefit](/posts/2016-05-14-facets-of-greatness-networking-maximizing-mutual-benefit.html)
-- How to quickly identify, vet and connect to mutually beneficial
-connections.
+### &#x2182; [Maximizing Mutual Benefit](/posts/2016-05-14-facets-of-greatness-networking-maximizing-mutual-benefit.html) How to quickly identify, vet and connect to mutually beneficial connections.
 
 These great leaders are all conductors in the symphony of
 communication.  They identify the most efficient means to relay
