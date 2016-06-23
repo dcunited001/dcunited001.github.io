@@ -423,6 +423,7 @@ play. It's all so ephemeral. It can shift so easily. What if you think
 you have a good story, but you get a few months into thinking it out
 ... and it just doesn't work?
 
+[reword this vvvv]
 
 Your main characters are going to have to be well thought out.  I feel
 like I don't have nearly enough experience here, but your characters
@@ -637,7 +638,17 @@ of the first and everything is based on them?
 # &#x2605; Style &#x2605;
 {: center}
 
+transition from characters, etc to intro on style
 
+definition of literary style
+- style seems to mesh together the other literary elements
+- style follows trends in literature
+
+***
+
+Experienced writers will consciously embed elements of style
+throughout their work's creation. They might have developed their own
+distinctive style, but they probably wouldn't tell you that.
 
 You should be experienced enough as a writer (or artist or poet,
 whatever) to consciously embed elements of style throughout it's
@@ -645,33 +656,147 @@ entire process of creation. This way, the style you apply seems
 uniformly embedded in the work, instead of a late idea or something
 that requires a ton of edits and reworks.
 
+***
+
 - how do specific techniques of style reinforce the themes or
   characters?
   - is your use of style "major" or "minor"
     - are you focusing on style in some way that drives the other
       elements
-    - tarantino seems to do this well
 
-Ghost in the shell video:
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/gXTnl1FVFBw" frameborder="0" allowfullscreen></iframe>
+Style can detract from your story
+- should be aware of how your style will affect your work ahead of
+  time. it really shouldn't be something you just throw in
+- creative writing
+
+kinds of style
+- vocabulary/language
+- character development
+- novelty
+- the degree of clarity in detail
+  - or the kinds of perspectives which are shown
+- adherence to wordplay and language
+- paralellism/connectedness between characters
+
+properly executed style can add entire dimension to the work
+- that is, it can add some fundamental level of content worth
+  inspecting further
+  - often, it does this by creating dissonance between the words and the
+    meaning
+
+#### Tarantino - Jackie Brown
+
+- the cohesion between what is shown
+- and the conciseness of the material
+- tarantino seems to focus the viewer onto just the right aspects of
+  the plot and characters
+  - (reword bc spoiler)... it's difficult to manage to persist the
+    certain
+
+when style is pulled off best,
+- it feeds back into the nature of the story or into the
+  internal/external dialogue of the viewers
+  - it feeds into the plot, the characters, or especially the themes
+
+#### Birdman
+
+birdman - a film where style reflects back into the depth of the work
+- this is a spectacular example of the use of style to add depth to
+  the work
+  - the one-shot view highlights differences between acting and
+    theater, in a movie about theater
+  - the one-shot style also makes a statement about life/death
+    - where you only have one shot
+    - and it makes a statement about the high-stakes nature of an
+      actor's career
+  - the one-shot style makes us question the reality of the ending
+    - since there's no break in action, it reinforces the reality of
+      his fantasies
+  - the film shifts from the mundane life of an actor trying to regain
+    control of his career to his surreal dreamlike fantasies
+- the one-shot style also means that ... what?? .......
+
+  - the hateful eight
+    - how does the choice of film feed back into the work
+    - why this choice of film?
+
+#### infinite jest (barely started it)
+
+- a book containing a loosely threaded collection of stories
+  - DFW mentions that all the answers exist, but just past the last
+    page. (paraphrase from wikipedia) i think
+
+#### the crying of lot 49
+
+(remove)
+
+- looking forward to reading this
+  - i enjoy it's style, full of allusions
+
+#### on the road - kerouac
+
+- notes compiled and written in one shot on a bus across the country
+- here the style embodies the spirit of the novel
+
+#### kaiser soze
+
+- a mixture of form and style
+- an impossibly convoluted, elusive character
+  - unresolveable ending
+  - the myth of kaiser soze feeds into the story ... how?
+
+#### No Longer Human
 
 No Longer Human is told in the form of notebooks left behind by the
 main character.
 - why did the author choose this style?
 
-- The Cantebury Tales
-  - style of a collection of small stories from the same era or series
-    of events
-  - police procedural
-  - death note anime
+#### Cantebury Tales
 
-- Gargantua and Pantagruel
-  - made up words, inspired by ancient greek (need more info)
-  - tons of wordplay. considered obscene at first, but eventually
-    became a staple of french literature
-  - a particular "scorn for fortuitous things" .... need to expand on
-    this
+- style of a collection of small stories from the same era or series
+  of events
+- countless works embody this style of form
+  - death note anime
+  - sin city
+
+#### Gargantua and Pantagruel
+
+- made up words, inspired by ancient greek (need more info)
+- tons of wordplay. considered obscene at first, but eventually
+  became a staple of french literature
+- a particular "scorn for fortuitous things" .... need to expand on
+  this
+
+#### Neuromancer
+
+- vivid detail of scenery
+  - so much is explored that isn't reused
+  - it's almost dreamlike
+    - in that imagery arises then fades without consequence to the
+      main plot
+    - while adding to the atmosphere
+  - i always reference this aspect of neuromancer because it stuck out
+    to me
+    - there was so much revealed about this future culture
+      - yet it wasn't enough i was left wanting more
+
+#### Ghost in the Shell
+
+- distinction between frames in japanese manga and american comics
+  - pretty much ripping the criticism straight from the video
+- but manga explores space in a different way
+  - and the original GITS movie reflects that with a series of slow
+    moving shots at the beginning
+  - helps establish and explore a sprawling urban world of the future
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/gXTnl1FVFBw" frameborder="0" allowfullscreen></iframe>
+
+#### Experimentation with Style
+
+- creative writing to explore style
+- exercises? ideas?
+  - short stories, etc.
 
 ![Gargantua and Pantagruel](/img/posts/2016-06-21-if-i-had-the-chops-to-write-my-daedalian-magnum-corpus/gargantua-and-pantagruel.jpg)
 
@@ -679,3 +804,5 @@ main character.
 
 In the next part, I'm going to list some specific themes I'd like to
 write about.  This
+
+![Chrono Trigger Campfire](/img/posts/2016-06-21-if-i-had-the-chops-to-write-my-daedalian-magnum-corpus/chrono-campfire.jpg)
