@@ -1,5 +1,5 @@
 ---
-title: "I'm Not Religious, I'm Spiritual: A Lighhouse in a Storm"
+title: "I'm Not Religious, I'm Spiritual: A Lighthouse in a Storm"
 categories: blog
 tags: "anthropology religion sociology psychology"
 headline: "Indispensible Foundations to Mercurial Cultural Deconstruction"
