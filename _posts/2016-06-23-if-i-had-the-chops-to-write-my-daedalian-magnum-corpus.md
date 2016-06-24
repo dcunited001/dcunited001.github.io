@@ -103,7 +103,7 @@ I may never see it, but I know that it's there.
 
 #### Boulder River
 
-![Boulder River](/img/posts/2016-06-21-if-i-had-the-chops-to-write-my-daedalian-magnum-corpus/boulder-river.jpg)
+![Boulder River](/img/posts/2016-06-23-if-i-had-the-chops-to-write-my-daedalian-magnum-corpus/boulder-river.jpg)
 
 I get distracted because my mind is too populated with connections to
 random things.  If my mind were a graph and whatever I was looking at
@@ -126,7 +126,7 @@ longest time, I didn't.
 ### &#x2605; [Themes](#themes) &#x2605; [Form](#form) &#x2605; [Plot](#plot) &#x2605; [Characters](#characters) &#x2605; [Style](#plot) &#x2605;
 {: center}
 
-![Cuneiform Gibberish](/img/posts/2016-06-21-if-i-had-the-chops-to-write-my-daedalian-magnum-corpus/cuneiform.png)
+![Cuneiform Gibberish](/img/posts/2016-06-23-if-i-had-the-chops-to-write-my-daedalian-magnum-corpus/cuneiform.png)
 
 If I ever felt I had the time to write something meaningful, I imagine
 I'd use a kind of constructive process, involving the following:
@@ -172,7 +172,7 @@ two.
 
 #### Illustration from the 12th Century [Eadwine Psalter](https://en.wikipedia.org/wiki/Eadwine_Psalter)
 
-![Eadwine Psalter](/img/posts/2016-06-21-if-i-had-the-chops-to-write-my-daedalian-magnum-corpus/eadwine-psalter.jpg)
+![Eadwine Psalter](/img/posts/2016-06-23-if-i-had-the-chops-to-write-my-daedalian-magnum-corpus/eadwine-psalter.jpg)
 
 <a name="form"/>
 
@@ -317,7 +317,7 @@ and everything suddenly unfolds, leaving almost nothing remaining.
 
 #### No Longer Human Manga
 
-![No Longer Human Manga](/img/posts/2016-06-21-if-i-had-the-chops-to-write-my-daedalian-magnum-corpus/no-longer-human-manga.jpg)
+![No Longer Human Manga](/img/posts/2016-06-23-if-i-had-the-chops-to-write-my-daedalian-magnum-corpus/no-longer-human-manga.jpg)
 
 <a name="plot"/>
 
@@ -407,7 +407,7 @@ patch cords chaining various modules together.
 
 #### Ergo Proxy
 
-![Ergo Proxy](/img/posts/2016-06-21-if-i-had-the-chops-to-write-my-daedalian-magnum-corpus/ergo-proxy.jpg)
+![Ergo Proxy](/img/posts/2016-06-23-if-i-had-the-chops-to-write-my-daedalian-magnum-corpus/ergo-proxy.jpg)
 
 <a name="characters"/>
 
@@ -454,7 +454,7 @@ extraneous baggage? What hero wants to dress up every day with with
 crap that is mere baggage?  Maybe there's a story behind that ring or
 that leather piece? Who knows.
 
-![Ergo Proxy Re-l Mayer](/img/posts/2016-06-21-if-i-had-the-chops-to-write-my-daedalian-magnum-corpus/ergo-proxy-awakening.png)
+![Ergo Proxy Re-l Mayer](/img/posts/2016-06-23-if-i-had-the-chops-to-write-my-daedalian-magnum-corpus/ergo-proxy-awakening.png)
 
 What is this character's comfort zone? And what happens when they get
 harshly placed outside it? Do they react realistically? Do they
@@ -512,7 +512,7 @@ it down. You'll see that it's simple and relevant.
 
 #### Pullback Diagram
 
-![Category Theory Pullback](/img/posts/2016-06-21-if-i-had-the-chops-to-write-my-daedalian-magnum-corpus/category-theory-pullback.png)
+![Category Theory Pullback](/img/posts/2016-06-23-if-i-had-the-chops-to-write-my-daedalian-magnum-corpus/category-theory-pullback.png)
 
 So, `P` and `Z` are your reader's perceptions of the character
 `Alice`, before and after some character development. Lets say that
@@ -631,7 +631,7 @@ of the first and everything is based on them?
 
 #### Ergo Proxy's [Monad](https://en.wikipedia.org/wiki/Monad_(philosophy)) [Proxy](https://en.wikipedia.org/wiki/Monad)
 
-![The Monad Proxy](/img/posts/2016-06-21-if-i-had-the-chops-to-write-my-daedalian-magnum-corpus/ergo-proxy-ending.jpg)
+![The Monad Proxy](/img/posts/2016-06-23-if-i-had-the-chops-to-write-my-daedalian-magnum-corpus/ergo-proxy-ending.jpg)
 
 <a name="style"/>
 
@@ -643,10 +643,6 @@ types and metatypes they embody. So has literature; myths have
 evolved and so has the way we tell them. Storytellers have found that
 one of the best ways to change a story is to change how they present
 the narrative to the reader, the listener, the viewer.
-
-#### So How About That Modernization, Eh?
-
-![Chrono Trigger Campfire](/img/posts/2016-06-21-if-i-had-the-chops-to-write-my-daedalian-magnum-corpus/chrono-campfire.jpg)
 
 New technologies open up new ways of telling old stories.  Higher
 bandwidth, instantaneous communication has given us the flat world of
@@ -666,6 +662,10 @@ were beginning to understand then mind, body and world like never
 before. The variety of writing styles that were put into publication
 underscore this and reflect the liberalization of control over
 publication.
+
+#### So How About That Modernization, Eh?
+
+![Chrono Trigger Campfire](/img/posts/2016-06-23-if-i-had-the-chops-to-write-my-daedalian-magnum-corpus/chrono-campfire.jpg)
 
 ## Literary Style
 
@@ -785,13 +785,13 @@ something for itself requires judging it in context of everything
 else. To some reasonable degree of course; the best way to look at art
 critically is to not look at it critically at all.
 
+#### [Gargantua and Pantagruel](https://en.wikipedia.org/wiki/Gargantua_and_Pantagruel)
+
+![Gargantua and Pantagruel](/img/posts/2016-06-23-if-i-had-the-chops-to-write-my-daedalian-magnum-corpus/gargantua-and-pantagruel.jpg)
+
 But my point is: this concept of style where the artist or author
 stands against the flowing currents of recent trends, that is an
 element of style in itself. And often, it's a very brave one.
-
-#### [Gargantua and Pantagruel](https://en.wikipedia.org/wiki/Gargantua_and_Pantagruel)
-
-![Gargantua and Pantagruel](/img/posts/2016-06-21-if-i-had-the-chops-to-write-my-daedalian-magnum-corpus/gargantua-and-pantagruel.jpg)
 
 ### Cohesive Style
 
@@ -804,8 +804,6 @@ to a work.  There is a moreso "major" application of a type of style
 where that style permeates the work. And there are more "minor"
 applications of style, which might be more a result of the period of
 time the work was created than a result of the artist's intent.
-
-
 
 ## When Style Fuels Artistry
 
@@ -826,6 +824,8 @@ work. The one-shot view highlights the differences between the nature
 of acting for cinema and for theatre. In a movie about theature. But
 it doesn't end there.
 
+{:spoilers: style="color:#FFFFFF;"}
+
 This is a movie that makes powerful statements about life & death,
 about an actor's failing career and his attempt at a comeback. His
 career is totally controlled by other people's perceptions of him. The
@@ -842,6 +842,8 @@ same problems in life? I know I have several times. It's like a video
 game and here I am on the same level again. Life is asking me to
 evolve or restart at the last checkpoint.
 
+### Some Spoilers Below
+
 Birdman shifts from the mundane life of an actor trying to regain
 control of his career to his epic, surreal dreamlike fantasies, where
 he asserts control over reality by defying its rules. In most film,
@@ -854,6 +856,7 @@ ending, was his comeback a fantasy? I don't know. It's a powerful
 statement about suicide, in that again, you only have one shot at
 life. If he did die, as the film allows us to briefly believe, then he
 never could have enjoyed the comeback.
+{: spoilers}
 
 Also, the film explores how an artist or actor presents themselves to
 the world by contrasting the world backstage with the visual imagery
@@ -868,6 +871,7 @@ winging it back on stage. The actors in the play didn't see it coming
 either. He returns to the stage from practically left field, but the
 character on stage is not an actor. Instead he bears his true self in
 front of everyone, in what is perhaps a fatal mistake.
+{: spoilers}
 
 And, amoung the points I think the film tries to make, is that such a
 tightly constraining set of habits for one's personal life is
@@ -880,12 +884,17 @@ audience of the film get to see what his life would have been like,
 were he not to have died, which is a brave statement on suicide, I
 think. Because wouldn't we like to see a reality where he struggled
 and succeeded? I don't believe that's what "really happened."
+{: spoilers}
 
 And, so I think the point of the film is that we should be a little
 less guarded. We should be more willing to show our true selves. We
 need to cry out when we need help, because our lifes get further
 contorted. It shouldn't be difficult for us to do this in our
 society. It's hard enough.
+
+#### Birdman's "Times Square" Scene
+
+![Birdman Times Square](/img/posts/2016-06-23-if-i-had-the-chops-to-write-my-daedalian-magnum-corpus/birdman-running.jpg)
 
 ### Jackie Brown
 
@@ -1084,4 +1093,20 @@ of knowledge I'm searching for.
 ## Part Two - Specific Themes
 
 In the next part, I'm going to list some specific themes I'd like to
-write about.  This
+write about. Some of these are quite depressing, but I feel like life
+has blessed me with a wide variety of experience, people and
+places. I'd always love to travel more though.
+
+These themes include ideas on betrayal, compassion, deception,
+paradox, fate, fame, war, art, wisdom, idealism, mortality, memory,
+freedom, salvation, philosophy, history, self-discovery, power,
+misunderstanding, confusion, temptation, and fear.
+
+The majority of these themes I wrote down in just one night.  I knew
+the story I wanted to tell and the lessons I'd learned, but I couldn't
+even begin. So instead, I thought to write down all the themes I
+wanted to write about.
+
+#&#x300C;&#x25CA;&#x203D;&#x03BB;&#x2207;&#x03A6;&#x300D;
+{:center}
+
