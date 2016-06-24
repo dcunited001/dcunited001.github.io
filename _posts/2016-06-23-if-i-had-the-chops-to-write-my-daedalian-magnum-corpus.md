@@ -638,25 +638,59 @@ of the first and everything is based on them?
 # &#x2605; Style &#x2605;
 {: center}
 
-transition from characters, etc to intro on style
+Cultures have evolved over time, as have people and the personality
+types and metatypes they embody. So has literature; myths have
+evolved and so has the way we tell them. Storytellers have found that
+one of the best ways to change a story is to change how they present
+the narrative to the reader, the listener, the viewer.
 
-definition of literary style
-- style seems to mesh together the other literary elements
-- style follows trends in literature
+New technologies open up new ways of telling old stories.  Higher
+bandwidth, instantaneous communication has given us the flat world of
+modernization, where everyone and every culture is essentially on the
+same playing field.  Or rather, we seem to be eternally moving in that
+direction. The total quantity of information that is shared between
+the entire world has never been higher and so we have also changed the
+way we share information.
 
-***
+Further, this society urges the individual to stand out. So in that
+regard, modernization has encouraged writers to be creative in how
+they tell stories. The turn of the 20th century gave us stream of
+consciousness for example. People were in the middle of the
+intellectual and cultural revolution that would pave the way for the
+technological and philosophical developments of the 20th century. We
+were beginning to understand then mind, body and world like never
+before. The variety of writing styles that were put into publication
+underscore this and reflect the liberalization of control over
+publication.
 
-Experienced writers will consciously embed elements of style
-throughout their work's creation. They might have developed their own
-distinctive style, but they probably wouldn't tell you that.
+### Literary Style
 
-You should be experienced enough as a writer (or artist or poet,
-whatever) to consciously embed elements of style throughout it's
-entire process of creation. This way, the style you apply seems
-uniformly embedded in the work, instead of a late idea or something
-that requires a ton of edits and reworks.
+So what is literary style? Style seems to mesh together the other
+literary elements. Style evolves over time and follows trends. Style
+is how a writer chooses to tell a story. Experienced writers will
+consciously embed elements of style throughout their work's
+creation. They might have developed their own distinctive style, but
+they probably wouldn't tell you that. That would limit other people's
+scope of perspectives, when looking at their work.
 
-***
+When you apply style to a work, which kind you apply and how much
+should seem uniformly embedded in the work, instead of a late idea or
+something that requires a ton of edits and reworks. Or it should at
+least seem like style that was conscientiously applied and for good
+reason. There is a spectrum to the quantity and type of style applied
+to a work.  There is a moreso "major" application of a type of style
+where that style permeates the work. And there are more "minor"
+applications of style, which might be more a result of the period of
+time the work was created than a result of the artist's intent.
+
+### ... ?
+
+But the best kind of work: you'll notice something. The style the
+writer or director pursued -- maybe it was that author's distinvtive
+style or maybe the style embodied their philosophy -- it feeds back
+into the work, somehow. Nowhere is this more perfectly executed, I
+think, than in Birdman. In this movie, the style of filming is so
+perfectly reflected back into the nature of the meaning of the work.
 
 - how do specific techniques of style reinforce the themes or
   characters?
