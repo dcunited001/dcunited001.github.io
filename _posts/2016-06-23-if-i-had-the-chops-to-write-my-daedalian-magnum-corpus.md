@@ -706,7 +706,7 @@ reader provides that sense of time by consuming the work. Authors need
 to be well aware of how it feels to read their own work and I'll
 discuss that in just a bit. Thinking about other people actually
 reading my writing has given me a bit of motivation to write
-differently. I don't want to change my art for others, but it'd be a
+differently.  I don't want to change my art for others, but it'd be a
 lot cooler if others enjoyed consuming it.
 
 ### Causality and Cardinality
@@ -789,6 +789,10 @@ But my point is: this concept of style where the artist or author
 stands against the flowing currents of recent trends, that is an
 element of style in itself. And often, it's a very brave one.
 
+#### [Gargantua and Pantagruel](https://en.wikipedia.org/wiki/Gargantua_and_Pantagruel)
+
+![Gargantua and Pantagruel](/img/posts/2016-06-21-if-i-had-the-chops-to-write-my-daedalian-magnum-corpus/gargantua-and-pantagruel.jpg)
+
 ### Cohesive Style
 
 When you apply style to a work, which kind you apply and how much
@@ -800,6 +804,8 @@ to a work.  There is a moreso "major" application of a type of style
 where that style permeates the work. And there are more "minor"
 applications of style, which might be more a result of the period of
 time the work was created than a result of the artist's intent.
+
+
 
 ## When Style Fuels Artistry
 
@@ -951,100 +957,129 @@ But again, On the Road? Artistic treasure. The style, the action of
 the writing, everything feeds into it's own message. And from it, the
 American legend of Neal Cassidy was born.
 
+### Canterbury Tales
 
-#### Cantebury Tales
+This is a collection of stories from the 14th and 15th centuries from
+Geoffrey Chaucer. Each story is told by a pilgrim on their way to
+Canterbury from London. The
+[Miller's Tale](https://en.wikipedia.org/wiki/The_Miller%27s_Tale) is
+particularly amusing. The pilgrims are from various walks of life and
+this gives us a good idea of what 14th century life was like in
+England as well as an idea of what these people might have wanted life
+to be like.
 
-- style of a collection of small stories from the same era or series
-  of events
-- countless works embody this style of form
-  - death note anime
-  - sin city
+But this collection of stories is a mechanic used over and over again
+throughout history. Sin City, the graphic novel and the film, uses it
+and weaves together a great story. The anime Death Parade also uses
+this technique to explore the lives of people in their most final
+moments.
 
+### Ghost in the Shell
 
+I recently watched a critique on Ghost in the Shell that discussed the
+importance of a few minutes of the film with wide shots from different
+angles and variously sized viewing frustums. Looking at the animation
+in the footage, some of this was pretty expensive to create. There's a
+lot of motion and a ton of effort went into these
+scenes.
 
-#### Ghost in the Shell
+[NerdWriter1](https://www.youtube.com/user/Nerdwriter1), who has some
+other great analyses, highlights the importance of these scenes for
+establishing a connection to this futuristic world. He notes that
+these scenes through time out the window in favor for focusing on
+space. He draws some parallels to the difference between japanese
+manga and american comics. In particular, he notes that action
+progresses differently between frames in manga, where there is a bit
+more focus on frames that only depict the world. He then argues that
+this is connected to connecting the viewer to the source and sense of
+identity that these inhabitants of the future experience.
 
-- distinction between frames in japanese manga and american comics
-  - pretty much ripping the criticism straight from the video
-- but manga explores space in a different way
-  - and the original GITS movie reflects that with a series of slow
-    moving shots at the beginning
-  - helps establish and explore a sprawling urban world of the future
-
+The relationship of identity in a world of constant technological
+evolution is is paramount for us to understand. This is something
+society needs to explore and understand before it happens. It's
+important theme of the series, which is a frighteningly accurate
+depiction of tech in the future. And here, the usage of style in
+composition feeds back into the artistic intent of this series, though
+not nearly as meta as with Birdman.
 
 <iframe width="560" height="315"
 src="https://www.youtube.com/embed/gXTnl1FVFBw" frameborder="0"
 allowfullscreen></iframe>
 
-#### kaiser soze
+## My Own Style
 
-- a mixture of form and style
-- an impossibly convoluted, elusive character
-  - unresolveable ending
-  - the myth of kaiser soze feeds into the story ... how?
-
-#### No Longer Human
-
-No Longer Human is told in the form of notebooks left behind by the
-main character.
-- why did the author choose this style?
-
-#### Gargantua and Pantagruel
-
-- made up words, inspired by ancient greek (need more info)
-- tons of wordplay. considered obscene at first, but eventually
-  became a staple of french literature
-- a particular "scorn for fortuitous things" .... need to expand on
-  this
-
-#### Neuromancer
-
-- vivid detail of scenery
-  - so much is explored that isn't reused
-  - it's almost dreamlike
-    - in that imagery arises then fades without consequence to the
-      main plot
-    - while adding to the atmosphere
-  - i always reference this aspect of neuromancer because it stuck out
-    to me
-    - there was so much revealed about this future culture
-      - yet it wasn't enough i was left wanting more
-
-
-### My own writing style
+I haven't been writing for long. I have some great ideas. There's a
+ton of topics I could write on for non-fiction and I have a few good
+fiction ideas as well. I have some specific ideas for a world I want
+to create, but I'm not sure what medium is best. I think video games
+or VR might be best. But I need to work a lot on style. I'd hate to
+piss away some of this content by trying to make it the first thing I
+tackle with my writing.
 
 Similar to how bright colors and intense patterns could detract from
 the message in a painting, your style could detract from your story,
-so it needs to be tactfully applied. In my own writing, I choose to be
-conversational because this is my writing and my message. I am not
-writing because I want someone to read it. Often my topics and ideas
-are overly complicated. I discussed category theory in this blog post,
-for example. I write about too many topics and my posts are too long!
-A marketing professional would find it quite a challenge to promote my
+so it needs to be tactfully applied. In my own non-fiction articles on
+[te.xel.io](http://te.xel.io), I choose to be conversational because
+this is my writing and my message. I am not writing because I want
+someone to read it. Often my topics and ideas are overly
+complicated. I discussed category theory in this blog post, for
+example. I write about too many topics and my posts are too long!  A
+marketing professional would find it quite a challenge to promote my
 blog in its existing form. I've been directly told and indirectly
-hinted that my content is "too complicated" and that it's just "way too
-long" and "way too many words." HAHAHAHA LMAO!!
+hinted that my content is "too complicated" and that it's just "way
+too long" and "way too many words." HAHAHAHA LMAO!!
 
 The jokes on you. this is my writing and I am writing for myself. I'll
 be damned if I disappear without having ever written down my
 thoughts. And no, I do not want to limit myself chasing short-term
-goals like increased likes and more retweets and more shares. To me,
-there could be no bigger mistake than changing the nature of my
-message by limiting the scope and especially the length of my posts to
-hope that someone shares it. I do not care. I'm looking at the
-analytics and people are reading my stuff. People are finishing these
-long-winded, complicated posts.
+goals like increased likes and more retweets and more shares. My blog
+is not a growth hack. To me, there could be no bigger mistake than
+changing the nature of my message by limiting the scope and especially
+the length of my posts to hope that someone shares it. I do not
+care. I'm looking at the analytics and people are reading my
+stuff. People are finishing these long-winded, complicated posts.
 
 At the same time, I need to work on improving my style. I want my
-content to be well organized and I want my message to be focused.
+content to be well organized and I want my message to be focused. Like
+I noted earlier, revisiting my own writing and imagining it through
+the eyes of someone else has motivated me to work on my style.
 
-#### Experimentation with Style
+## Style Experimentation
 
-- creative writing to explore style
-- exercises? ideas?
-  - short stories, etc.
+So if style is so important for conveying a message and especially for
+making your work stand out, how do you improve it? Reading is a good
+start, especially when you are constantly evaluating an authors
+message and constrasting it with their delivery, while applying that
+to the context of your own writing, ideas and delivery.
 
-![Gargantua and Pantagruel](/img/posts/2016-06-21-if-i-had-the-chops-to-write-my-daedalian-magnum-corpus/gargantua-and-pantagruel.jpg)
+Another good place is seeking creative writing projects. This is a
+good way to challenge yourself to write a short story or essay, while
+consciously employing an unfamiliar style. To do this, you have to be
+aware of your options. I've learned that the best dancer can dance
+with any style, the best actor can act with any style and the best
+writer can write with any style. That is, they are experts, not by
+mastery of their own style, but by understanding all styles and
+cultivating a familiarity with all of them. It's not crucial to be a
+master of everything. If we all tried to be the best at everything, we
+ought to never bother at all. But by at least understanding the innate
+nature of all kind of things, we can reapply what we learn from one
+area to another.
+
+And the most important thing to remember is that the most proficient
+experts in any given field are not limited by their options! If you
+find yourself bested in some arena of skill, you wouldn't want it to
+happen because you ran out of options, would you? Everyone needs to be
+well rounded, but the very root of all strategy is drawn from having
+options. From maintaining flexibility. This is a lesson on the nature
+of strategy itself, formiing it's core, that can be applied to any
+game, any field, any industry, anything.
+
+Because writing involves communication of a message about people, then
+wouldn't it be best to know people? This is another skill that I feel
+fairly proficient with, yet one that I badly need to work on. Being an
+outsider, I have a completely different perspective on people. Being a
+perfectionist, I feel compelled to keep trying until I find the piece
+of knowledge I'm searching for.
 
 ## Part Two - Specific Themes
 
