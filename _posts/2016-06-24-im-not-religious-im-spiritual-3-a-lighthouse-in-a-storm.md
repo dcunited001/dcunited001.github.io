@@ -122,9 +122,9 @@ ethnicity or religion we are part of.
 
 #### [&#x13EB; We Are All One](#we-are-all-one)
 
-#### [&#x13EB; The Unknown](#the-unknown)
-
 #### [&#x13EB; Negative, Neutral & Positive](#negative-neutral-positive)
+
+#### [&#x13EB; The Unknown](#the-unknown)
 
 #### [&#x13EB; The Intangible](#the-intangible)
 
@@ -132,13 +132,13 @@ ethnicity or religion we are part of.
 
 #### [&#x13EB; Timelessness](#timelessness)
 
-#### [&#x13EB; Emphasizing Potential Over Faults](#emphasizing-potential-over-faults)
+#### [&#x13EB; Emphasizing Potential Over Faults](#emphasizing-potential)
 
 #### [&#x13EB; Help Others Grow](#help-others-grow)
 
-#### [&#x13EB; Light & Dark, Good & Evil](#light-and-dark-good-and-evil)
+#### [&#x13EB; Light & Dark, Good & Evil](#light-dark-good-evil)
 
-#### [&#x13EB; Awareness and Understanding of Evil](#awareness-and-understanding-of-evil)
+#### [&#x13EB; Awareness & Understanding of Evil](#awareness-and-understanding-of-evil)
 
 #### [&#x13EB; Everything Has a Purpose](#everything-has-a-purpose)
 
@@ -146,9 +146,15 @@ ethnicity or religion we are part of.
 
 #### [&#x13EB; Familiarity with the Empty Mind](#familiarity-with-the-empty-mind)
 
-#### Neurological Hacks
+#### [&#x13EB; Willpower & True Self-Mastery](#willpower-and-true-self-mastery)
 
-#### Comprehension of Empathy
+#### [&#x13EB; Know What You Want](#know-what-you-want)
+
+#### [&#x13EB; Keep Your Eye on the Ball](#keep-your-eye-on-the-ball)
+
+#### [&#x13EB; Nature of Mind](#nature-of-mind)
+
+#### [&#x13EB; Neurological Empathy](#neurological-empathy)
 
 #### [&#x13EB; Meditation](#meditation)
 
@@ -166,9 +172,17 @@ ethnicity or religion we are part of.
 
 #### [&#x13EB; Wisdom In Every World Religion](#every-world-religion-offers-valuable-wisdom)
 
+#### [&#x13EB; Prismatic Perspective](#prismatic-perspective)
+
 #### [&#x13EB; Judgement & Forgiveness](#judgment-and-forgiveness)
 
 #### [&#x13EB; Providing Purpose](#providing-purpose)
+
+#### [&#x13EB; Believe in Yourself](#believe-in-yourself)
+
+#### [&#x13EB; Metapersona &#x1F52D;&#x1F3AD;&#x1F50D;](#metapersona)
+
+#### [&#x13EB; Life's a Movie and You're the Hero](lifes-a-movie-and-youre-the-hero)
 
 #### [&#x13EB; Understanding Our Personal Circumstances](#understanding-our-personal-circumstances)
 
@@ -182,9 +196,9 @@ ethnicity or religion we are part of.
 
 #### [&#x13EB; Reincarnation](#reincarnation)
 
-#### [&#x13EB; Humility](#humility)
+#### [&#x13EB; Self-Similarity](#self-similarity)
 
-#### Self-Similarity
+#### [&#x13EB; Humility](#humility)
 
 Just wanted to summarize over those, although that list is by no means
 complete. And please let me emphacize: I in no way intend or intended
@@ -205,7 +219,7 @@ like that, if I don't claim strong personal belief.
 
 <a name="the-golden-rule"/>
 
-### &#x2182; The Golden Rule
+## [&#x2182; The Golden Rule](#the-golden-rule)
 
 We should act as though we are all one and that to harm another is to
 harm oneself. IMO, the Ten Commandments and Noahide laws are rules that
@@ -218,7 +232,7 @@ will mostly line up with them.
 
 <a name="we-are-all-one"/>
 
-### &#x2182; We Are All One
+## [&#x2182; We Are All One](#we-are-all-one)
 
 If we truly are all one, then harming another person is equivalent to
 harming oneself.  This is why I try to extend the Golden Rule to
@@ -251,7 +265,7 @@ because you can only connect with someone by empathizing with them.
 
 <a name="negative-neutral-and-positive"/>
 
-### &#x2182; Negative, Neutral, & Positive
+## [&#x2182; Negative, Neutral & Positive](#negative-neutral-positive)
 
 Obviously, I miss the mark on compassion and the Golden Rule quite
 often. It is one thing to do no harm and seek neutrality with the
@@ -265,7 +279,7 @@ positively influence people around you, this is incredibly depressing.
 
 <a name="the-unknown"/>
 
-### &#x2182; The Unknown
+## [&#x2182; The Unknown](#the-unknown)
 
 There is this mystical, ineffable force that pervades every fragment
 of the universe. It is powerful and we cannot ever hope to fully
@@ -277,7 +291,7 @@ although the language is a bit dense.
 
 <a name="the-intangible"/>
 
-### &#x2182; The Intangible
+## [&#x2182; The Intangible](#the-intangible)
 
 The intangible is as real as the tangible. The beliefs of others are
 as real as the chair I'm sitting in. The intangible extends to
@@ -298,7 +312,7 @@ can escape it's reach.
 
 <a name="find-your-genius"/>
 
-### &#x2182; Find Your Genius
+## [&#x2182; Find Your Genius](#find-your-genius)
 
 In addition to the Golden Rule, we need to think outside our current
 time and place.  This means considering how people lived in the past,
@@ -327,7 +341,7 @@ world, preventing us from best planning how to invest that potential.
 
 <a name="timelessness"/>
 
-### &#x2182; Timelessness
+## [&#x2182; Timelessness](#timelessness)
 
 I find it an invaluable tool to simulate ancient models of thought. It
 helps to brainstorm other ways of viewing the world or of trying to
@@ -401,9 +415,9 @@ enlightenment because of some aspect of our culture or lives at that
 time. Or, at least, that our ability to reach true enlightenment or
 something like it can be significantly impaired by our way of life.
 
-<a name="emphacizing-potential-over-faults"/>
+<a name="emphacizing-potential"/>
 
-### &#x2182; Emphacizing Potential Over Faults
+## [&#x2182; Emphasizing Potential Over Faults](#emphasizing-potential)
 
 I believe that we interact best with others when we see them for their
 potential, instead of their faults. We shouldn't limit another's
@@ -474,7 +488,7 @@ episode 7 of the 2nd season: Big Trouble in Little Sanchez.
 
 <a name="help-others-grow"/>
 
-### &#x2182; Help Others Grow
+## [&#x2182; Help Others Grow](#help-others-grow)
 
 It's important to give back and help those around you develop skills
 and opportunity. There have been quite a few situations where I've
@@ -517,9 +531,9 @@ Maybe they were justified. Maybe they never thought to do that and
 it's just a coincidence that my only protege stabbed me in the back
 more times than I can count.
 
-<a name="light-and-dark-good-and-evil"/>
+<a name="light-dark-good-evil"/>
 
-### &#x2182; Light & Dark, Good & Evil
+## [&#x2182; Light & Dark, Good & Evil](#light-dark-good-evil)
 
 These two concepts can each be viewed on a separate axis. Light and
 Dark describe the degree to which something can be seen. Good and Evil
@@ -547,7 +561,7 @@ when I mentioned calling my family.
 
 <a name="awareness-and-understanding-of-evil"/>
 
-### &#x2182; Awareness & Understanding of Evil
+## [&#x2182; Awareness & Understanding of Evil](#awareness-and-understanding-of-evil)
 
 There are types of events which are much more difficult for someone to
 pull off if they know other people are aware of your situation or of
@@ -591,7 +605,7 @@ EVER disclosed to one person, that's a major red flag.
 
 <a name="everything-has-a-purpose"/>
 
-### &#x2182; Everything Has a Purpose
+## [&#x2182; Everything Has a Purpose](#everything-has-a-purpose)
 
 It's a bit interesting that knowledge of evil is required to fight
 against it. If for some reason, evil disappeared, then we would be
@@ -617,7 +631,7 @@ The subtlest of actions can have extraordinary consequences.
 
 <a name="the-relative-and-the-absolute"/>
 
-### &#x2182; The Relative & the Absolute
+## [&#x2182; The Relative & the Absolute](#the-relative-and-the-absolute)
 
 The relative and absolute can be applied to morality, but can also be
 generalized to almost anything.  Moreover, there is a continuum
@@ -633,7 +647,7 @@ Kant's moral universalism.
 
 <a name="familiarity-with-the-empty-mind"/>
 
-### &#x2182; Familiarity with the Empty Mind
+## [&#x2182; Familiarity with the Empty Mind](#familiarity-with-the-empty-mind)
 
 It's peculiar, how an empty mind is so much more capable of
 functioning than the conditioned mind. As tabula rasa, the empty mind
@@ -675,7 +689,9 @@ machinations of the rest of our mind, then what does that imply about
 the structure of our mind? And how do we observe it in totality?
 Perhaps, the answer is.....
 
-### &#x2182; Willpower, True Self-Mastery
+<a name="willpower-and-true-self-mastery"/>
+
+## [&#x2182; Willpower & True Self-Mastery](#willpower-and-true-self-mastery)
 
 We must comprehend what motivates others and what motivates
 ourselves. When we develop awareness the long-term goals of others, we
@@ -710,7 +726,9 @@ to hedonistic desires. For a few of us, those desires are constantly
 in flux, based on our current emotional state and recent sensory
 experience.
 
-### &#x2182; Know What You Want From Life
+<a name="know-what-you-want"/>
+
+## [&#x2182; Know What You Want](#know-what-you-want)
 
 Everyone wants something in life. It's very rare to find individuals
 who don't want much of anything. Almost every time, inability to
@@ -730,7 +748,9 @@ to do.
 The people that work hardest and work smartest will win. The people
 who want it most will continue to work harder and smarter.
 
-### &#x2182; Keep Your Eye on the Ball
+<a name="keep-your-eye-on-the-ball"/>
+
+## [&#x2182; Keep Your Eye on the Ball](#keep-your-eye-on-the-ball)
 
 And it follows that one of the most effective tactics you'll find used
 against you is to distract you from your goals. Or to convince you
@@ -749,7 +769,9 @@ those things we need to do, but don't want to do are so important to
 anyone's long-term success in life, then developing a strong capacity
 here is one of the most important things you can do.
 
-### &#x2182; Neurological Hacks
+<a name="nature-of-mind"/>
+
+## [&#x2182; Nature of Mind](#nature-of-mind)
 
 - analytical mind vs emotional mind
   - the two seem to inhibit each other
@@ -803,9 +825,9 @@ the point is, there are peculiarities to neural circuitry
       - enough of this (5+ years) and that person will find it
         difficult to function, ever.
 
-> TODO: change title name, update TOC
+<a name="neurological-empathy"/>
 
-### &#x2182; Comprehension of Neurological Aspects of Empathy
+## [&#x2182; Neurological Empathy](#neurological-empathy)
 
 but just as there are negative ways we can use understanding of
 psychology and neurology, there are positive ways we can use this.
@@ -841,7 +863,7 @@ psychology and neurology, there are positive ways we can use this.
 
 <a name="meditation"/>
 
-### &#x2182; Meditation
+## [&#x2182; Meditation](#meditation)
 
 Meditation or extended, focused prayer can bring calmness to your mind
 and partially reset its state.
@@ -853,7 +875,7 @@ and partially reset its state.
 
 <a name="always-keep-searching"/>
 
-### &#x2182; Always Keep Searching
+## [&#x2182; Always Keep Searching](#always-keep-searching)
 
 > "I know that I know nothing" - Socrates
 
@@ -882,7 +904,7 @@ three parts outlined, but unwritten.
 
 <a name="never-stop-stopping"/>
 
-### &#x2182; Never Stop Stopping
+## [&#x2182; Never Stop Stopping](#never-stop-stopping)
 
 Too many people believe that they had an opportunity, but it's
 passed. No matter how crazy something sounds or how impossible it
@@ -893,7 +915,7 @@ impossible, you are allowing fate to decide for you.
 
 <a name="independence"/>
 
-### &#x2182; Independence
+## [&#x2182; Independence](#independence)
 
 We are best when we have as much power over our fate and circumstance
 as possible. One should take great care if interfering in the life of
@@ -916,7 +938,7 @@ seen giving and those who do should be rewarded.
 
 <a name="knowledge-of-self"/>
 
-### &#x2182; Knowledge of Self
+## [&#x2182; Knowledge of Self](#knowledge-of-self)
 
 We should know ourselves and our world. We can't know ourselves
 without learning about the world and we can't fully understand the
@@ -927,7 +949,7 @@ nature, and education are great ways to learn about ourselves.
 
 <a name="karma"/>
 
-### &#x2182; Karma
+## [&#x2182; Karma](#karma)
 
 Our actions matter, even when they are not seen. There is karma formed
 from the beliefs of others, which is usually a response to your own
@@ -941,7 +963,7 @@ outside our control or understanding.
 
 <a name="devine-connection"/>
 
-### &#x2182; Devine Connection
+## [&#x2182; Devine Connection](#devine-connection)
 
 We each have a connection to the divine. This is a concept from
 gnosticism. Whether this connection is viewed
@@ -952,7 +974,7 @@ suppressed by others.
 
 <a name="wisdom-in-every-world-religion"/>
 
-### &#x2182; Wisdom In Every World Religion
+## [&#x2182; Wisdom In Every World Religion](#every-world-religion-offers-valuable-wisdom)
 
 Whether or not you believe the words of a religious text, there is
 value there. I would like to know as much as I can about the major
@@ -964,7 +986,7 @@ study. At the least, we learn about what other people believe.
 
 <a name="prismatic-perspective"/>
 
-### &#x2182; Prismatic Perspective
+## [&#x2182; Prismatic Perspective](#prismatic-perspective)
 
 We can never truly understand how someone else feels, but we can
 try. It's important to view and experience live from a multitude of
@@ -977,7 +999,7 @@ makes us shine.
 
 <a name="judgement-and-forgiveness"/>
 
-### &#x2182; Judgement & Forgiveness
+## [&#x2182; Judgement & Forgiveness](#judgment-and-forgiveness)
 
 Who really has the right to judge anyone? Have you experienced what
 that person as experienced? What details are you using to judge them?
@@ -1007,7 +1029,7 @@ which brings me to my next point: purpose.
 
 <a name="providing-purpose"/>
 
-### &#x2182; Providing Purpose
+## [&#x2182; Providing Purpose](#providing-purpose)
 
 I've always wondered how other people did it. Some things seem so easy
 for them and they're juggling a dozen times the responsibility that I
@@ -1038,9 +1060,11 @@ fork in the road, make a decision and stick it out. Don't be afraid to
 admit you've been wrong, but at the same time, it's better to avoid
 finding yourself in that position.
 
+... more about just needing a purpose in life
+
 <a name="believe-in-yourself"/>
 
-### &#x2182; Believe in Yourself
+## [&#x2182; Believe in Yourself](#believe-in-yourself)
 
 The number one factor I've noticed in people who've gone too far down
 the wrong path? They don't have that driven, focused energy provided
@@ -1077,7 +1101,7 @@ personas.
 
 <a name="metapersona"/>
 
-### &#x2182; Metapersona &#x1F52D;&#x1F3AD;&#x1F50D;
+## [&#x2182; Metapersona &#x1F52D;&#x1F3AD;&#x1F50D;](#metapersona)
 
 There's a great quote and I can't find it -- if anyone knows, plz let
 me know, I can't find shit except Deadline articles LMAO -- so I'll
@@ -1137,7 +1161,7 @@ hang onto. They're going to need that and want that.
 
 <a name="lifes-a-movie-and-youre-the-hero"/>
 
-### &#x2182; Life's a Movie and You're the Hero
+## [&#x2182; Life's a Movie and You're the Hero](lifes-a-movie-and-youre-the-hero)
 
 This is a great tool for reexamining your life. If your life were a
 movie or an epic saga, what would the hero do? The idealized version
@@ -1159,7 +1183,7 @@ outsmarts his opponents by being cunning and courageous.
 
 <a name="understanding-our-personal-circumstances"/>
 
-### &#x2182; Understanding Our Personal Circumstances
+## [&#x2182; Understanding Our Personal Circumstances](#understanding-our-personal-circumstances)
 
 We are born without any understanding of our world.  We should develop
 understanding of our circumstances before deciding they should be
@@ -1173,7 +1197,7 @@ and learned a lot more about the world before taking action.
 
 <a name="understanding-our-environment"/>
 
-### &#x2182; Understanding Our Environment
+## [&#x2182; Understanding Our Environment](#understanding-our-environment)
 
 Also, a similar concept applies to man's relationship with nature. Or
 rather, this concept specifies how we relate to the world, globally,
@@ -1225,7 +1249,7 @@ financially.
 
 <a name="axiomatic-waypoints"/>
 
-### &#x2182; Axiomatic Waypoints
+## [&#x2182; Axiomatic Waypoints](#axiomatic-waypoints)
 
 Technology is rapidly changing our life and culture.  In this
 turbulent period, what can we know to be unequivocally constant? What
@@ -1244,7 +1268,7 @@ atheism is short-sighted.
 
 <a name="asymptotic-evaluation"/>
 
-### &#x2182; Asymptotic Evaluation
+## [&#x2182; Asymptotic Evaluation](#asymptotic-evaluation)
 
 This is more of a tool I use to evaluate new ideas in the concept of
 trends, regardless of whether it's a past, present and
@@ -1266,7 +1290,7 @@ filter in Fermi's Paradox.
 
 <a name="moving-the-lampposts-"/>
 
-### &#x2182; Moving the Lampposts
+## [&#x2182; Moving the Lampposts](#moving-the-lampposts)
 
 Another tool that I use to examine problems. Science is constantly
 developing better tools to measure phenomena. One of the best
@@ -1285,7 +1309,7 @@ advancements at what would seem to be warp speed?
 
 <a name="reincarnation"/>
 
-### &#x2182; Reincarnation
+## [&#x2182; Reincarnation](#reincarnation)
 
 I'm not sure whether or not I believe that reincarnation is real. I do
 to some extent, the specific details of which I don't want to explain.
@@ -1293,6 +1317,10 @@ I want to believe that reincarnation is real because I want to believe
 that our actions carry meaning to the next. I want to believe that I
 get another chance to improve myself and that the lessons I learn here
 carry into the next.
+
+<a name="self-similarity"/>
+
+## [&#x2182; Self-Similarity](#self-similarity)
 
 <a name="humility"/>
 
