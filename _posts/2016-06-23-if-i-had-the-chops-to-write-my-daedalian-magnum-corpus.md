@@ -789,9 +789,7 @@ But my point is: this concept of style where the artist or author
 stands against the flowing currents of recent trends, that is an
 element of style in itself. And often, it's a very brave one.
 
-###
-
-symbolism (art movement)
+### Cohesive Style
 
 When you apply style to a work, which kind you apply and how much
 should seem uniformly embedded in the work, instead of a late idea or
@@ -803,83 +801,180 @@ where that style permeates the work. And there are more "minor"
 applications of style, which might be more a result of the period of
 time the work was created than a result of the artist's intent.
 
-### ... ?
+## When Style Fuels Artistry
 
 But the best kind of work: you'll notice something. The style the
-writer or director pursued -- maybe it was that author's distinctive
-style or perhaps a style that embodies their philosophy -- it feeds
-back into the work, somehow. Nowhere is this more perfectly executed,
-I think, than in Birdman. In this movie, the style of filming is so
-perfectly reflected back into the nature of the meaning of the work.
+writer or director pursued feeds back into the work, somehow. Maybe it
+was this author's distinctive style or perhaps a style that embodies
+their philosophy, but if fuels the artistic merit of the work. Nowhere
+is this more perfectly executed, I think, than in Birdman. In this
+movie, the style of filming is so perfectly reflected back into the
+nature of its artistic statements.
+
+### Birdman
+
+The one-shot take in birdman isn't just an technological
+accomplishment. It's not just a novelty or gimmick for the film. This
+is a spectacular example of the use of style to ad depth to the
+work. The one-shot view highlights the differences between the nature
+of acting for cinema and for theatre. In a movie about theature. But
+it doesn't end there.
+
+This is a movie that makes powerful statements about life & death,
+about an actor's failing career and his attempt at a comeback. His
+career is totally controlled by other people's perceptions of him. The
+way they look at him and paint him determines his available
+opportunities and I've been stuck in that same exact spot, time and
+time again. It's his attempt to break the mold that his previous work
+forced him into. And, like *Hamilton*, he's got one shot to do it.
+This is his chance. That is it. It's high stakes.
+
+The one-shot take revisits some of the same scenes and situations in
+the play, from rehersal to showtime. This is a statement about the
+nature of life itself. How often do we find ourselves revisiting the
+same problems in life? I know I have several times. It's like a video
+game and here I am on the same level again. Life is asking me to
+evolve or restart at the last checkpoint.
+
+Birdman shifts from the mundane life of an actor trying to regain
+control of his career to his epic, surreal dreamlike fantasies, where
+he asserts control over reality by defying its rules. In most film,
+there's a sharp, visual break between a scene that is reality and
+fantasy. Because there's no such break in birdman, this makes it very
+difficult for me to understand where reality begins and fantasy
+ends. This makes the nature of the film difficult to pin down, as no
+one interpretation of it really fits. Did he die, in the end? Was the
+ending, was his comeback a fantasy? I don't know. It's a powerful
+statement about suicide, in that again, you only have one shot at
+life. If he did die, as the film allows us to briefly believe, then he
+never could have enjoyed the comeback.
+
+Also, the film explores how an artist or actor presents themselves to
+the world by contrasting the world backstage with the visual imagery
+of the audience. This divide is emphasized in the marching band scene,
+which is presented to us the unfortunate accident of a nerve-wrecked
+actor who bums a cigarette to calm his nerves before that final
+scene. And he's nearly stripped naked in the middle of Times Square,
+where he's dodging in and out of a marching band as he scrambles to
+return to the theatre. There couldn't be more perfect symbolism. He
+defies the expectation of the audience of the play and the film by
+winging it back on stage. The actors in the play didn't see it coming
+either. He returns to the stage from practically left field, but the
+character on stage is not an actor. Instead he bears his true self in
+front of everyone, in what is perhaps a fatal mistake.
+
+And, amoung the points I think the film tries to make, is that such a
+tightly constraining set of habits for one's personal life is
+destructive. That, by never bearing his soul to anyone and restricted
+by being defined by others, he had found himself cornered. If only he
+could have show his true self to others sooner, but if others weren't
+misunderstanding him through their distorted perspective, then his
+guard was up, especially when the stakes were high.  And we, as the
+audience of the film get to see what his life would have been like,
+were he not to have died, which is a brave statement on suicide, I
+think. Because wouldn't we like to see a reality where he struggled
+and succeeded? I don't believe that's what "really happened."
+
+And, so I think the point of the film is that we should be a little
+less guarded. We should be more willing to show our true selves. We
+need to cry out when we need help, because our lifes get further
+contorted. It shouldn't be difficult for us to do this in our
+society. It's hard enough.
+
+### Jackie Brown
+
+This is another great movie and, even though it's one of his earlier
+films, I think exemplifies Quentin Tarantino's style. What I noticed
+was that, it was everything onscreen was necessary for the film to say
+exactly what it was trying to say. And it was projected in just the
+right perspective. Everything that was there was needed in order to
+develop the characters. It manages to funnel the audience through a
+very consistent experience, I think. And it does so by tightly
+controlling the composition of the scenes and the presentation/order
+of the scenes.
+
+And by doing this, Tarantino is creating a consistent experience
+amoung his audience, which is very difficult to do. People have very
+diverse backgrounds and when you're directing, you have to understand
+how diverse audiences are going to respond to specific scenes. How is
+a scene or character is going to make someone feel? If a viewer had
+one type of response, how would they feel about this plot/character
+development? Would that compel them to enjoy that moment?
+
+### Infinite Jest
+
+This is a book I barely started, so I can't say too much. I know that
+the book is written out of order, using the distorted ordinality I
+referenced above. I'm sure there's a more appropriate term for
+this. Even still, the stories that are included are from various
+characters viewpoints and are eventually woven together. This is a
+book I'd like to read, but I don't read as much as I should.
+
+#### The Title for Infinite Jest Comes from Hamlet
+
+> Alas, poor Yorick! I knew him, Horatio: a fellow of *infinite jest*,
+> of most excellent fancy: he hath borne me on his back a thousand
+> times; and now, how abhorred in my imagination it is!
+
+On the Wikipedia page, it's noted that David Foster Wallace mentions
+that "the answers all [exist], but just past the last page."
+
+### The Crying of Log 49
+
+Another book I need to finish, but so far I've noticed that the use of
+language is remarkable, as are the allusions to other pieces of
+art. The novel's only some 150 pages long, but I feel like I need to
+research all the symbolism as I'm reading it or understanding the
+novel is hopeless.
+
+### On the Road
+
+This novel set the tone for the sixties. One of my favorite books, it
+was written by Kerouac in the span of three weeks. On a road
+trip. This novel was written at just the right, spectacular moment of
+American history, when it had just become possible and economically
+feasilbe for the average American to travel the continent. This novel
+embodies the spirit of the impetous road trip, extemporaneously
+declared by the drunken ramblings of the night before, yet decisively
+acted on to lead youth on a improvised journey of serindipitous
+discovery. I love it.
+
+The economic conditions of the late fifties and the sixties permitted
+this exhilirating exploration of American and the ensuing cultural
+transformation. The stage had been set and that generation lived out
+adventures that will remain forever unparalleled. When I remember that
+we can never again return to that moment, I cry a little bit. Where we
+are going is just as great and I wish we could return America to such
+simpler times.
+
+But again, On the Road? Artistic treasure. The style, the action of
+the writing, everything feeds into it's own message. And from it, the
+American legend of Neal Cassidy was born.
+
+
+#### Cantebury Tales
+
+- style of a collection of small stories from the same era or series
+  of events
+- countless works embody this style of form
+  - death note anime
+  - sin city
 
 
 
+#### Ghost in the Shell
 
-- how do specific techniques of style reinforce the themes or
-  characters?
-  - is your use of style "major" or "minor"
-    - are you focusing on style in some way that drives the other
-      elements
+- distinction between frames in japanese manga and american comics
+  - pretty much ripping the criticism straight from the video
+- but manga explores space in a different way
+  - and the original GITS movie reflects that with a series of slow
+    moving shots at the beginning
+  - helps establish and explore a sprawling urban world of the future
 
-properly executed style can add entire dimension to the work
-- that is, it can add some fundamental level of content worth
-  inspecting further
-  - often, it does this by creating dissonance between the words and the
-    meaning
 
-#### Tarantino - Jackie Brown
-
-- the cohesion between what is shown
-- and the conciseness of the material
-- tarantino seems to focus the viewer onto just the right aspects of
-  the plot and characters
-  - (reword bc spoiler)... it's difficult to manage to persist the
-    certain
-
-when style is pulled off best,
-- it feeds back into the nature of the story or into the
-  internal/external dialogue of the viewers
-  - it feeds into the plot, the characters, or especially the themes
-
-#### Birdman
-
-birdman - a film where style reflects back into the depth of the work
-- this is a spectacular example of the use of style to add depth to
-  the work
-  - the one-shot view highlights differences between acting and
-    theater, in a movie about theater
-  - the one-shot style also makes a statement about life/death
-    - where you only have one shot
-    - and it makes a statement about the high-stakes nature of an
-      actor's career
-  - the one-shot style makes us question the reality of the ending
-    - since there's no break in action, it reinforces the reality of
-      his fantasies
-  - the film shifts from the mundane life of an actor trying to regain
-    control of his career to his surreal dreamlike fantasies
-- the one-shot style also means that ... what?? .......
-
-  - the hateful eight
-    - how does the choice of film feed back into the work
-    - why this choice of film?
-
-#### infinite jest (barely started it)
-
-- a book containing a loosely threaded collection of stories
-  - DFW mentions that all the answers exist, but just past the last
-    page. (paraphrase from wikipedia) i think
-
-#### the crying of lot 49
-
-(remove)
-
-- looking forward to reading this
-  - i enjoy it's style, full of allusions
-
-#### on the road - kerouac
-
-- notes compiled and written in one shot on a bus across the country
-- here the style embodies the spirit of the novel
+<iframe width="560" height="315"
+src="https://www.youtube.com/embed/gXTnl1FVFBw" frameborder="0"
+allowfullscreen></iframe>
 
 #### kaiser soze
 
@@ -893,14 +988,6 @@ birdman - a film where style reflects back into the depth of the work
 No Longer Human is told in the form of notebooks left behind by the
 main character.
 - why did the author choose this style?
-
-#### Cantebury Tales
-
-- style of a collection of small stories from the same era or series
-  of events
-- countless works embody this style of form
-  - death note anime
-  - sin city
 
 #### Gargantua and Pantagruel
 
@@ -923,18 +1010,6 @@ main character.
     - there was so much revealed about this future culture
       - yet it wasn't enough i was left wanting more
 
-#### Ghost in the Shell
-
-- distinction between frames in japanese manga and american comics
-  - pretty much ripping the criticism straight from the video
-- but manga explores space in a different way
-  - and the original GITS movie reflects that with a series of slow
-    moving shots at the beginning
-  - helps establish and explore a sprawling urban world of the future
-
-<iframe width="560" height="315"
-src="https://www.youtube.com/embed/gXTnl1FVFBw" frameborder="0"
-allowfullscreen></iframe>
 
 ### My own writing style
 
@@ -961,11 +1036,9 @@ analytics and people are reading my stuff. People are finishing these
 long-winded, complicated posts.
 
 At the same time, I need to work on improving my style. I want my
-content to be well organized and I want my message to be focused. 
+content to be well organized and I want my message to be focused.
 
 #### Experimentation with Style
-
-
 
 - creative writing to explore style
 - exercises? ideas?
