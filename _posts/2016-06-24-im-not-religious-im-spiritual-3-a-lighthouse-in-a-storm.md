@@ -858,7 +858,25 @@ and partially reset its state.
 > "I know that I know nothing" - Socrates
 
 While remembering to appreciate the progress we've made, we must
-accept that we will never fully develop.
+accept that we will never fully develop, but this is exactly what
+powers someone to keep striving for progress. With every personal
+stride forwards, there is still progress to be made. It's not an easy
+philosophy to live with -- and, if you embody this mindset, you have
+to remember to take a breather every so often, just to be happy and
+content with where you are.
+
+I discuss some of these ideas in my series Epistemology, Cognition,
+and Category Theory. Part one is
+[an overview](/posts/2015-08-23-epistemology-cognition-and-category-theory-part-one.html)
+for the rest of the series. The second part presents
+[a model for the mind](/posts/2015-08-23-epistemology-cognition-and-category-theory-part-two.html). And
+the third part is
+[directive cognitive expansion](/posts/2015-08-26-epistemology-cognition-and-category-theory-part-three.html),
+which describes how a specific skill might contribute towards your
+mental faculties. This is a great series to read, if you're the kind
+of person who is always trying to improve yourself. There are two or
+three parts outlined, but unwritten.
+
 
 ...
 
@@ -893,8 +911,8 @@ interfering with causality in another person's life.
 
 But they'll learn more from it. They'll grow more from it. And, with
 skill, you can learn how to kinda pay it forward, so to speak, without
-interfering with causality. But it's best for us to give without being
-seen giving.
+interfering with causality. So it's best for us to give without being
+seen giving and those who do should be rewarded.
 
 <a name="knowledge-of-self"/>
 
@@ -905,7 +923,7 @@ without learning about the world and we can't fully understand the
 world without knowing about ourselves.  Meditation, retreat into
 nature, and education are great ways to learn about ourselves.
 
-
+...
 
 <a name="karma"/>
 
@@ -944,23 +962,200 @@ study. At the least, we learn about what other people believe.
 
 ... elaborate on philosophy here?
 
+<a name="prismatic-perspective"/>
+
+### &#x2182; Prismatic Perspective
+
+We can never truly understand how someone else feels, but we can
+try. It's important to view and experience live from a multitude of
+perspectives. Too many people become comfortable with their own class
+or their own social strata. If you don't branch out, then you're
+missing out on valuable experiences that can change you forever. Too
+many of us develop a warped lens on life because we spend so much time
+within our own comfort zone. People are different, but that's what
+makes us shine.
+
 <a name="judgement-and-forgiveness"/>
 
 ### &#x2182; Judgement & Forgiveness
 
-who has the right to judge anyone?
-- can we ever truly understand how someone feels?
-  - of course we can try
-  - but we can never actually understand their situation.
+Who really has the right to judge anyone? Have you experienced what
+that person as experienced? What details are you using to judge them?
+It doesn't matter what walk of life that person came from, I guarantee
+there is something you can learn from them. If nothing else, you can
+learn from their mistakes.
+
+We've all made mistakes. Sometimes they are accidents, sometimes risk
+was too high, sometimes we just weren't aware and sometimes we are
+unfairly burdened by our own mistakes. Sometimes our own guilty or
+shameful conscience ways on us more than anyone else and we are our
+own worst enemy. Far too often, people make mistakes and are never
+able to recover from them. It's so depressing to see someone who
+believes they have no choice but to continue down the same path. The
+moment you believe it's too late to change is the moment in which you
+have sealed your fate, no matter how impossible it may seem. There is
+always a possibility and purpose to change.
+
+And so forgiveness is necessary to unburden us from the weight of our
+own sins, whether the guilt placed on us seems to be coming from
+society or it's our own conscience that won't let us move on. You
+can't do much about what everyone else thinks. I've been there. The
+past decade, practically, I've had people trying to push friends and
+acquaintances away from me. It still hurts, but I can't do anything
+except move on. And it helps to have something to look forward to,
+which brings me to my next point: purpose.
 
 <a name="providing-purpose"/>
 
 ### &#x2182; Providing Purpose
 
-in our lives
-- in others lives
+I've always wondered how other people did it. Some things seem so easy
+for them and they're juggling a dozen times the responsibility that I
+have on my plate. I've feared serious commitment for a years and I
+value the freedom of will that prevents me from becoming burdened by
+circumstance and obligation. I feared that some major life event will
+prevent me from pursuing skating or working on a startup. For the same
+reason, I never bought a house and avoided debt. I paid off my credit
+cards and I will never again have another personal credit card.
 
-finding our purpose
+In stark contrast to my own life, my friends that have all these
+responsibilities and obligations are more capable and more efficient.
+I've spent a lot of time trying to figure that out. And it seems that
+(1) settling down on life decisions makes things a bit easier and (2)
+the imposition of a higher purpose drives them to work harder. So
+they're making huge leaps in their careers and, at the same time,
+raising kids. Or maybe they don't have kids, but they have some cause
+that they dedicate themselves to completely. Whatever it is, they have
+chosen a purpose and, by deciding on a course of action, they've freed
+themselves from uncertainty to make more progress in life.
+
+If someone doesn't have a higher purpose in life, what would motivate
+them to change? How do we decide on our purpose? Do we look to our
+passions? Do we dream? What do we dream? Or should we impart a more
+rational approach and go with what is safe? One thing is certain: you
+don't want to regret the decisions you make, so when you come to a
+fork in the road, make a decision and stick it out. Don't be afraid to
+admit you've been wrong, but at the same time, it's better to avoid
+finding yourself in that position.
+
+<a name="believe-in-yourself"/>
+
+### &#x2182; Believe in Yourself
+
+The number one factor I've noticed in people who've gone too far down
+the wrong path? They don't have that driven, focused energy provided
+by a sense of purpose.
+
+And why is haven't they found their purpose or passion? They don't
+believe in themselves. Or they don't maintain that belief and keep
+their eye on the ball. Or they misunderstand their circumstances and
+they develop a false sense of confidence. Or they didn't believe in
+themselves a specific key points in their adolescence, so they didn't
+explore enough of life to discover what would drive them.
+
+We need more mentors in the world to be role models for kids. We need
+to be exposed to more skills and activities, so we can grow up to be
+well-rounded and capable. There are systemic sociological problems in
+our society and they are being caused by a dozen different things. And
+we're stalling out whenever anyone tries to address them.
+
+The internet is a majestic platform for reaching out and teaching
+people. We hear it constantly: the 1% has never been richer! OK,
+yes. That is true, but at the same time, *at no point in human history
+has the average person had more opportunities!* In history!! You are
+standing on the shoulders of giants and every single person has
+unimaginable power that people just 100 years ago couldn't even dream
+of. No, not everyone is in the position to take advantage of that.
+
+And the internet provides us with the informational infrastructure to
+reach out and figure out how to get people to believe in themselves
+again. Interactions will soon be higher-bandwidth and more human than
+ever. Because of this and other factors, the capacity for online
+influence will become more decentralized. This depends on how the web
+is regulated and to what degree people want to interact with virtual
+personas.
+
+<a name="metapersona"/>
+
+### &#x2182; Metapersona &#x1F52D;&#x1F3AD;&#x1F50D;
+
+There's a great quote and I can't find it -- if anyone knows, plz let
+me know, I can't find shit except Deadline articles LMAO -- so I'll
+paraphrase:
+
+> In improv, people learn more about themselves and each other's true
+> selves when they're acting and wearing masks.
+
+Why is this? It's because the truth is that we are *always* wearing a
+mask. Everyone does to some degree. And sometimes we project
+differently to different people, for better or worse. But, when we
+intentionally wear a mask by acting a part, we have the ability
+express ourselves more authentically because our words and actions are
+no longer attached to our identity, per se. And so, if we orient our
+mind appropriately, we realize that we communicate in ways that might
+otherwise be stymied by anxiety or fear.
+
+The face of the internet will change with VR and technology
+will become more human. High-bandwidth *human* interactions will begin
+to replace textual interactions. This means VR will be a platform for
+real communication. It's similar to the difference between Radio and
+TV: the power shifts away from the faceless voice. More natural, more
+limited social networks will return. It won't be so easy to sway
+1,000,000 followers because if you don't have real, in-depth
+interactions with someone, the connection won't be strong enough. To
+some degree, we'll retain hyperconnectedness and.
+
+My point in mentioning this is that one-on-one interactions will
+replace the irrelevant noise of comment threads, where half the
+participants are trolls with a few bots. At the same time, people are
+interacting in novel ways, but in a high bandwidth manner that causes
+people to focus on personal one-on-one connections. There are positive
+and negative aspects to this, but I think it's overwhelmingly
+positive, with the right safeguards in place.
+
+Furthermore, VR allows people to easily to don another personality. We
+can do this on the internet as is, but not to the same degree. This,
+combined with the stronger connections, means that people are more
+able to understand life from another perspective. But this ability to
+experience different "virtual realities" is actually a means of
+masking ourselves with a "virtual identity." I would argue that to be in
+a virtual reality actually requires that someone have some degree of
+identity obfuscation. A kind of mask or virtual identity. There's
+risks here, but there's a huge benefit in that we'll learn more about
+ourselves and each other, if we can learn to distinguish the confirmation
+bias that results from incorrectly associating a virtual reality
+experience to a real one. There's some danger here that people will
+prefer their virtual identity, their persona, more than their own
+identity, but this also contributes to a wider array of experiences.
+
+One problem in VR, and we're already seeing this to some degree, is
+that societal norms and roles will blur together. This isn't really a
+problem, per se, as it is something to keep in mind. As I've argued,
+our society's evolution will accelerate and there's going to be some
+turbulence. People are going to want to find something constant to
+hang onto. They're going to need that and want that.
+
+<a name="lifes-a-movie-and-youre-the-hero"/>
+
+### &#x2182; Life's a Movie and You're the Hero
+
+This is a great tool for reexamining your life. If your life were a
+movie or an epic saga, what would the hero do? The idealized version
+of yourself, perhaps as you envision yourself a decade from now, what
+would that person do? The person that has built the rocket that took
+them to the moon. It's easy to get caught up in our own circumstances,
+ruminating and wasting precious time and energy. I spent way too much
+on effort just worrying, instead of thinking outside my own situation.
+
+This mindset could go horribly wrong. E.G. if someone decides that
+needed to rack up like the Punisher and dispense vigilante justice. So
+I'm not really sure how to limit it, other than to say that this is
+just a tool. The person you imagine yourself becoming should embody a
+stronger sense of the values that you do today. And if you value
+things like the Golden Rule, then you couldn't even imagine doing
+something horrible like that. Me, personally? I'm more moved by the
+hero who is at an extreme disadvantage, who sticks to his values and
+outsmarts his opponents by being cunning and courageous.
 
 <a name="understanding-our-personal-circumstances"/>
 
@@ -994,18 +1189,39 @@ will be irreparably expensive, far outweighing any benefit from
 cutting corners. Rather, we're just hoarding the profits for ourselves
 and pushing the costs to another generation.
 
-We have to encourage global cooperation towards this goal, while
-accepting the risk that comes with being the first to act, as such
-policies imply impaired capacity for competition.  The greatest
-challenge is to balance the interests of nature and mankind with
-global economic pressures and game theory -- we basically have to
-convince industry leaders around the world that they should curtail
-their profits, while leaving themselves open for other nations to
-capitalize on the opportunity -- so I completely understand how we got
-to this situation, but I don't understand why we let those factors
-persist.  Actually, there are massive profits for those innovators who
-develop solutions to help clean up what has been damaged. And it looks
-like there was great progress towards this at Paris.
+Good news! It looks like there was great progress towards
+environmental agreements at Paris. But we have to encourage global
+cooperation towards this goal, while accepting the risk that comes
+with being the first to act, as such policies imply impaired capacity
+for competition. Good news! It looks like there was great progress
+towards environmental agreements at Paris. The greatest challenge is
+to balance the interests of nature and mankind with global economic
+pressures and game theory -- we basically have to convince industry
+leaders around the world that they should curtail their profits, while
+leaving themselves open for other nations to capitalize on the
+opportunity -- so I completely understand how we got to this
+situation, but I don't understand why we let those factors persist.
+
+Actually, there are massive profits for those innovators who develop
+solutions to help clean up what has been damaged! If environmental
+cleanup is viewed in the right way, this is actually an opportunity
+for industry. However, the problem is: who's going to pay for it? The
+government. The citizens, via taxes. I think by structuring this
+challenge creatively, we can create opportunity for ventures funded by
+the private-sector to succeed. And there is a long-term, hidden cost
+to environmental damage that is difficult for most corporations and
+organizations to see. This hidden cost is composed of health problems,
+cleanup costs and missed economic opportunity. So, while it seems to
+be more expensive to implement environmental policies, it is actually
+more expensive for us not to, but if the economic situation gets out
+of hand, then our environmental policy doesn't matter.
+
+At the same time, if we implement controls and other nations ignore
+them, they could blaze past us and then environmental policy is
+irrelevant. Yet, the direction that the global economy is headed is
+one where many of the industrial processes that contribute to
+pollution will be phased out, as they no longer make sense
+financially.
 
 <a name="axiomatic-waypoints"/>
 
@@ -1073,24 +1289,10 @@ advancements at what would seem to be warp speed?
 
 I'm not sure whether or not I believe that reincarnation is real. I do
 to some extent, the specific details of which I don't want to explain.
-
-However, I want to believe that reincarnation is real because I want
-- bc i want to believe that our lives carry meaning to the next
-
-
-gnosticism:
-- and the authorship of those works are hotly debated. Many
-- if not most are probably fallacious, but it's
-
-
-
-- living your life as though it was a movie and you're the hero
-    - what's your story?
-    - this mindset could go horribly wrong, so how to limit it?
-      - e.g. someone has the wrong view of reality, does something horrible
-      - or someone decides to be the villain
-  - thinking outside the box by lifting arbitrary constraints and
-    taking concepts to their limits
+I want to believe that reincarnation is real because I want to believe
+that our actions carry meaning to the next. I want to believe that I
+get another chance to improve myself and that the lessons I learn here
+carry into the next.
 
 <a name="humility"/>
 
