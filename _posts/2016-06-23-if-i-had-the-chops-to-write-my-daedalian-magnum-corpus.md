@@ -673,6 +673,86 @@ creation. They might have developed their own distinctive style, but
 they probably wouldn't tell you that. That would limit other people's
 scope of perspectives, when looking at their work.
 
+Literary style includes the language an author chose to use. That
+vocabulary includes cultural connections and evokes imagery, so style
+includes that imagery inspired by the use of language. It includes the
+overall format of the work. The author has a choice over the level of
+clarity they provide and what they choose to focus on. The narration
+can vary per chapter or per character as well, so that focus or
+perspective can change over a work. Some authors and works rely on a
+lot of wordplay. This is difficult to pull off well and those
+connections can be lost over time.
+
+Style includes how an author chooses to develop their characters and
+the level of parallelism and connectedness in their characters. In
+other words, the form an author uses or the themes they explore are
+best highlighted when there is a connection between movements in
+character development.
+
+### Temporality and Ordinality
+
+Some works employ a kind of temporal variation, a distortion of time
+in where events or their experience can shift with respect to time.
+Ordinal variation refers to variation in order itself. In fact, every
+book employs temporal and ordinal variation to some degree because
+there is no sense of time in words on paper. They are just words on
+paper, chapters in a book. There is no time there. The only sense of
+time arises from how a reader explores the pages in the book. The
+reader provides that sense of time by consuming the work. Authors need
+to be well aware of how it feels to read their own work and I'll
+discuss that in just a bit. Thinking about other people actually
+reading my writing has given me a bit of motivation to write
+differently. I don't want to change my art for others, but it'd be a
+lot cooler if others enjoyed consuming it. 
+
+### Causality and Cardinality
+
+Another similar techniques employ variation in cardinality and
+causality. Distorting cardinality requires distorting how people
+perceive a collection of literature or the ideas in a book by changing
+the sets of ideas that people group together. We see this a lot with
+reboots: people want the franchise to be rebooted, so they can relive
+the myths they love as though they were new again. *Just a little bit
+of this* is *great*. Just a little bit. Too much rockin of the
+foundations is a bad thing. This style of cardinal distortion can be
+contained to a single work.
+
+And by distorting causality, some seriously cool Dr. Strange ish is
+possible. In otherwords, by breaking logic or altering the structure
+of ideas brought to life by words, new possibilities are available.
+This is something that excites me about *Virtual Reality*. No, it is
+not the simulation of reality that stimulates my imagination. It is
+that the very foundations of reality can be broken and a coherent
+world can be made and consumed viscerally. The rules of physics can be
+remade. And this can be done with fiction, writing and cinema as
+well. This is what frustrates me about first person shooters and other
+overly realistic video games. Why would you want to escape to a
+simulated version of reality that almost exactly mirrors the version
+of reality that you know?
+
+One place where
+- legend of zelda
+- reboots
+
+kinds of style
+- vocabulary/language
+- character development
+- novelty
+- the degree of clarity in detail
+  - or the kinds of perspectives which are shown
+- adherence to wordplay and language
+- paralellism/connectedness between characters
+- temporal variation
+- causitive variation
+- retelling the same story (legend of zelda)
+
+'differential style'
+- the difference between a work and the artist's other works
+- the difference between a world and other current works
+- these are a kind of style (though not very strong)
+
+symbolism (art movement)
+
 When you apply style to a work, which kind you apply and how much
 should seem uniformly embedded in the work, instead of a late idea or
 something that requires a ton of edits and reworks. Or it should at
@@ -686,32 +766,20 @@ time the work was created than a result of the artist's intent.
 ### ... ?
 
 But the best kind of work: you'll notice something. The style the
-writer or director pursued -- maybe it was that author's distinvtive
-style or maybe the style embodied their philosophy -- it feeds back
-into the work, somehow. Nowhere is this more perfectly executed, I
-think, than in Birdman. In this movie, the style of filming is so
+writer or director pursued -- maybe it was that author's distinctive
+style or perhaps a style that embodies their philosophy -- it feeds
+back into the work, somehow. Nowhere is this more perfectly executed,
+I think, than in Birdman. In this movie, the style of filming is so
 perfectly reflected back into the nature of the meaning of the work.
+
+
+
 
 - how do specific techniques of style reinforce the themes or
   characters?
   - is your use of style "major" or "minor"
     - are you focusing on style in some way that drives the other
       elements
-
-
-Style can detract from your story
-- should be aware of how your style will affect your work ahead of
-  time. it really shouldn't be something you just throw in
-- creative writing
-
-kinds of style
-- vocabulary/language
-- character development
-- novelty
-- the degree of clarity in detail
-  - or the kinds of perspectives which are shown
-- adherence to wordplay and language
-- paralellism/connectedness between characters
 
 properly executed style can add entire dimension to the work
 - that is, it can add some fundamental level of content worth
@@ -824,9 +892,40 @@ main character.
     moving shots at the beginning
   - helps establish and explore a sprawling urban world of the future
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/gXTnl1FVFBw" frameborder="0" allowfullscreen></iframe>
+<iframe width="560" height="315"
+src="https://www.youtube.com/embed/gXTnl1FVFBw" frameborder="0"
+allowfullscreen></iframe>
+
+### My own writing style
+
+Similar to how bright colors and intense patterns could detract from
+the message in a painting, your style could detract from your story,
+so it needs to be tactfully applied. In my own writing, I choose to be
+conversational because this is my writing and my message. I am not
+writing because I want someone to read it. Often my topics and ideas
+are overly complicated. I discussed category theory in this blog post,
+for example. I write about too many topics and my posts are too long!
+A marketing professional would find it quite a challenge to promote my
+blog in its existing form. I've been directly told and indirectly
+hinted that my content is "too complicated" and that it's just "way too
+long" and "way too many words." HAHAHAHA LMAO!!
+
+The jokes on you. this is my writing and I am writing for myself. I'll
+be damned if I disappear without having ever written down my
+thoughts. And no, I do not want to limit myself chasing short-term
+goals like increased likes and more retweets and more shares. To me,
+there could be no bigger mistake than changing the nature of my
+message by limiting the scope and especially the length of my posts to
+hope that someone shares it. I do not care. I'm looking at the
+analytics and people are reading my stuff. People are finishing these
+long-winded, complicated posts.
+
+At the same time, I need to work on improving my style. I want my
+content to be well organized and I want my message to be focused. 
 
 #### Experimentation with Style
+
+
 
 - creative writing to explore style
 - exercises? ideas?
