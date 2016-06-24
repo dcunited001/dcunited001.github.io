@@ -108,10 +108,10 @@ I may never see it, but I know that it's there.
 I get distracted because my mind is too populated with connections to
 random things.  If my mind were a graph and whatever I was looking at
 or thinking of were our current node, then on average, I would have
-dozens as many edges to others than a normal person. Several factors
-contribute to this: I know tons of useless trivia, I tend to examine
-various trivial aspects of things and I try to correlate more than the
-average person.
+dozens as many edges to other nodes as the average normal person.
+Several factors contribute to this: I know tons of useless trivia, I
+tend to examine various trivial aspects of things and I try to
+correlate more than the average person.
 
 And so I tend to pursue a lot of tangents and it's a bit harder to
 control where my mind goes, but that's actually a strength.  If I
