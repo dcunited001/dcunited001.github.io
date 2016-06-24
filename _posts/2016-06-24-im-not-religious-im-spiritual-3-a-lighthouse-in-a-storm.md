@@ -726,6 +726,8 @@ to hedonistic desires. For a few of us, those desires are constantly
 in flux, based on our current emotional state and recent sensory
 experience.
 
+note that neuro-stuff will be covered in just a few sections
+
 <a name="know-what-you-want"/>
 
 ## [&#x2182; Know What You Want](#know-what-you-want)
@@ -746,7 +748,8 @@ strong motivation to do what you need to do, but what you don't want
 to do.
 
 The people that work hardest and work smartest will win. The people
-who want it most will continue to work harder and smarter.
+who want it most will keep striving to work harder and smarter. You
+can't crush the human spirit.
 
 <a name="keep-your-eye-on-the-ball"/>
 
@@ -982,7 +985,7 @@ world religions. Though I can't say one is better than another and
 each is fairly comprehensive, we would be well served through their
 study. At the least, we learn about what other people believe.
 
-... elaborate on philosophy here?
+... elaborate on philosophy here? theosophy?
 
 <a name="prismatic-perspective"/>
 
@@ -1009,9 +1012,9 @@ learn from their mistakes.
 
 We've all made mistakes. Sometimes they are accidents, sometimes risk
 was too high, sometimes we just weren't aware and sometimes we are
-unfairly burdened by our own mistakes. Sometimes our own guilty or
-shameful conscience ways on us more than anyone else and we are our
-own worst enemy. Far too often, people make mistakes and are never
+unfairly burdened by our own mistakes. Sometimes our own guilt or
+shameful conscience weighs on us more than anyone else and we become
+our own worst enemy. Far too often, people make mistakes and are never
 able to recover from them. It's so depressing to see someone who
 believes they have no choice but to continue down the same path. The
 moment you believe it's too late to change is the moment in which you
@@ -1199,6 +1202,10 @@ and learned a lot more about the world before taking action.
 
 ## [&#x2182; Understanding Our Environment](#understanding-our-environment)
 
+... note that this whereas the previous concept was like the relative
+environment, this is moreso the extension of that concept to the
+absolute. and it can mean literally the ecosystem
+
 Also, a similar concept applies to man's relationship with nature. Or
 rather, this concept specifies how we relate to the world, globally,
 instead of our personal situations. Both in how the individual relates
@@ -1288,7 +1295,7 @@ powers as a futurist. But developing a better understanding of what
 this transitionary period will be like is vital if we survive the next
 filter in Fermi's Paradox.
 
-<a name="moving-the-lampposts-"/>
+<a name="moving-the-lampposts"/>
 
 ## [&#x2182; Moving the Lampposts](#moving-the-lampposts)
 
