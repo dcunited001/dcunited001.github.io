@@ -644,6 +644,10 @@ evolved and so has the way we tell them. Storytellers have found that
 one of the best ways to change a story is to change how they present
 the narrative to the reader, the listener, the viewer.
 
+#### So How About That Modernization, Eh?
+
+![Chrono Trigger Campfire](/img/posts/2016-06-21-if-i-had-the-chops-to-write-my-daedalian-magnum-corpus/chrono-campfire.jpg)
+
 New technologies open up new ways of telling old stories.  Higher
 bandwidth, instantaneous communication has given us the flat world of
 modernization, where everyone and every culture is essentially on the
@@ -663,7 +667,7 @@ before. The variety of writing styles that were put into publication
 underscore this and reflect the liberalization of control over
 publication.
 
-### Literary Style
+## Literary Style
 
 So what is literary style? Style seems to mesh together the other
 literary elements. Style evolves over time and follows trends. Style
@@ -703,7 +707,7 @@ to be well aware of how it feels to read their own work and I'll
 discuss that in just a bit. Thinking about other people actually
 reading my writing has given me a bit of motivation to write
 differently. I don't want to change my art for others, but it'd be a
-lot cooler if others enjoyed consuming it. 
+lot cooler if others enjoyed consuming it.
 
 ### Causality and Cardinality
 
@@ -730,26 +734,62 @@ overly realistic video games. Why would you want to escape to a
 simulated version of reality that almost exactly mirrors the version
 of reality that you know?
 
-One place where
-- legend of zelda
-- reboots
+One place where you see causality broken is the Legend of Zelda.  I
+stopped bothering trying to figure that plot out around Windwaker.
+LMAO. But the truth is -- or my personal take on the series -- it's a
+legend. What you are playing through is not a single epic saga. You
+are experiencing the story as a legend. You are living it as it is
+told and retold. And that is so awesome. It's also very freeing in
+that the series of the Legend of Zelda can go in any direction they
+want. They are very flexible in this regard. And I think the way
+they've chosen to explore that universe is pure brilliance because it
+totally broken rank from all the other video games from the
+nineties. It was perplexing because I couldn't figure out what the
+overall story was. But I love it because it's basically the same story
+every time with different characters and different situations, yet
+specific elements are held to be the same, so it feels like the same
+myth. Sometimes the entire world is flooded, sometimes it's not. But
+there's always a master sword, a triforce and a hero of time.
 
-kinds of style
-- vocabulary/language
-- character development
-- novelty
-- the degree of clarity in detail
-  - or the kinds of perspectives which are shown
-- adherence to wordplay and language
-- paralellism/connectedness between characters
-- temporal variation
-- causitive variation
-- retelling the same story (legend of zelda)
+### Differential Style and Orthogonality
 
-'differential style'
-- the difference between a work and the artist's other works
-- the difference between a world and other current works
-- these are a kind of style (though not very strong)
+Speaking of breaking rank, this brings me to another point: how does
+an artist's work fit in with other art at the time? This matters more
+at the time a piece of art was created and will always be relevant to
+some extent, but that relevance fades away, leaving the true spirit of
+the art. Some of the best art is orthogonal to current trends. That
+is, the art understood what was happening at the time, but its message
+was completely different in some way. Or delivered in a completely
+different way.
+
+> For the mathematically uninitiated, orthogonality is like trying to
+> plot something on an X & Y axis, yet completely missing the point in
+> some way because the data needs to be visualized on the Z axis to be
+> fully understood. That's what it means for some relationship to be
+> orthogonal: it's "statistically independent." And technically, it is
+> the concept of perpendicularity extended to more than 2 dimensions.
+
+So if you are always judging art by its relationship to other current
+pieces -- which is important, don't get me wrong -- then you are
+probably missing the point. There is no maximally best way of looking
+at art, of course. But you can usually identify a great piece of art
+by saying "wow, this is so different from everything else right now."
+Which is a bit self-contradictory because I've just said it's best to
+judge art for the piece of art itself, not the artist and not the art
+trend.  Yet, in order to really recognize how something is different
+from an artists work, you have to look at that artist's other pieces.
+To really recognize a piece of art that breaks trends or breaks some
+other deeply established concept, you have to know how that art
+differs from other pieces of art. So in that regard, to judge
+something for itself requires judging it in context of everything
+else. To some reasonable degree of course; the best way to look at art
+critically is to not look at it critically at all.
+
+But my point is: this concept of style where the artist or author
+stands against the flowing currents of recent trends, that is an
+element of style in itself. And often, it's a very brave one.
+
+###
 
 symbolism (art movement)
 
@@ -937,5 +977,3 @@ content to be well organized and I want my message to be focused.
 
 In the next part, I'm going to list some specific themes I'd like to
 write about.  This
-
-![Chrono Trigger Campfire](/img/posts/2016-06-21-if-i-had-the-chops-to-write-my-daedalian-magnum-corpus/chrono-campfire.jpg)
