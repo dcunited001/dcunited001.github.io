@@ -423,19 +423,17 @@ play. It's all so ephemeral. It can shift so easily. What if you think
 you have a good story, but you get a few months into thinking it out
 ... and it just doesn't work?
 
-[reword this vvvv]
-
-Your main characters are going to have to be well thought out.  I feel
-like I don't have nearly enough experience here, but your characters
-must feel real in your mind.  Almost like an actor, you must be able
-to simulate their personality in your mind.  What would they do?  How
-would they dress?  How does their appearance affect their behavior?
-Their position in their society and their personality, how does that
-contrast with the social norms of various strata?  Why?  Why is that
-important to painting the picture of your world?  What is it that is
-going to resonate with readers and viewers?  Why?  What would make
-your readers and viewers want to cosplay this character? What is going
-to be controversial and are those controversial elements relateable?
+Your characters must feel real in not just your mind, but in how they
+appear to others as well. Almost like an actor, you must be able to
+simulate their personality in your mind. And others should be able to
+as well. What would these characters do? How would they dress? Why?
+How does their appearance affect their behavior? Their position in
+their society and their personality, how does that contrast with the
+social norms of various strata? Why? Why is that important to
+painting the picture of your world?  What is it that is going to
+resonate with readers and viewers? Why? What would make your readers
+and viewers want to cosplay this character? What is going to be
+controversial and are those controversial elements relateable?
 
 Some characters, you will need to create as you need them for just one
 or two scenes, but that doesn't mean they're not worth investing
