@@ -1296,7 +1296,46 @@ carry into the next.
 
 <a name="humility"/>
 
-### &#x2182; Humility
+## [&#x2182; Humility](#humility)
+
+- One of the toughest lessons is to learn to be humble in life,
+  especially after having accomplished so much or learned so much.
+  - the more i learn, the harder it gets.
+  - i don't want to project an arrogant attitude or narcissistic
+    personality
+  - but if that's the signal someone else sense, regardless of whether
+    i sent it, that's a huge turn off. for practically everyone
+    - people want to be valued. they want to feel important
+  - i've found that time after time, i've missed out on opportunities
+    to connect or learn from others around me because my words and
+    attitude signaled the wrong thing. I do it all the time. And I've
+    often found myself in the position where my signals and social
+    cues are intentionally misrepresented to others.
+  - regardless of how i was misunderstood, the connections to others
+    around me were damaged. and i lost the opportunity to learn from
+    them.
+    - over the years, people I looked up to in school and work and
+      life have piqued my interest in just the right way
+    - i can't tell you how many seemingly minor statements have
+      changed my life for the better and I have no idea where I'd be
+      without those miniscule pieces of advice
+    - (in 2007) "Hey David, have you heard of this Ruby on Rails
+      thing? My friends say it's the next best thing since sliced
+      bread. "
+
+- when you're so driven for self-improvement and learning, it's too
+  easy to tune people out, instead of spending time and energy
+  listening.
+  - i have this terrible habit of just listening for new information,
+    and tuning out as soon as i realize i'm not getting any new
+    knowledge or information
+  - but you can only learn things once
+  - instead of paying so much attention to what people are saying, i
+    should disconnect from myself and listen to how they are
+    communicating
+
+
+### 
 
 ## Conclusions
 
