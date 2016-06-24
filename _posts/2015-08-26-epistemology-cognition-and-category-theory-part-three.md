@@ -15,6 +15,8 @@ on any of these four points, you will accelerate your rate of
 learning."
 ---
 
+#### &#x2605; [An Overview](/posts/2015-08-23-epistemology-cognition-and-category-theory-part-one.html) &#x2605; [A Model for the Mind](/posts/2015-08-23-epistemology-cognition-and-category-theory-part-two.html) &#x2605; Directive Cognitive Expansion &#x2605;
+
 ### Strenthening Specific Mental Faculties through Learning
 
 Learning new activities, like chess, language or acting, can help us

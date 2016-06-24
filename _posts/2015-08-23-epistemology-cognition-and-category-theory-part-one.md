@@ -1,8 +1,9 @@
 ---
-title: "Epistemology, Cognition and Category Theory: Part One"
+title: "Epistemology, Cognition and Category Theory: Part One -
+An Overview"
 categories: blog
 tags: "philosophy math psychology category-theory intelligence"
-headline: "Phenomenology and an Unintented Ontological Argument"
+headline: "Phenomenology and an Unintended Ontological Argument"
 author:
   name: "David Conner"
 excerpt: "I love learning new things. I get to experience beginner's
@@ -14,6 +15,8 @@ process, I hope to continually improve it. I try to approach new
 activities and skills from a multitude of perspectives and I like to
 examine the similarities between everything."
 ---
+
+#### &#x2605; An Overview &#x2605; [A Model for the Mind](/posts/2015-08-23-epistemology-cognition-and-category-theory-part-two.html) &#x2605; [Directive Cognitive Expansion](/posts/2015-08-26-epistemology-cognition-and-category-theory-part-three.html) &#x2605;
 
 Lately, I've been working on learning skateboarding and some tricking.
 At the moment, I'm pretty terrible at both.  If I had the time to
@@ -312,7 +315,7 @@ for most of what I'm describing, but I don't know what they are.  This
 cyclic function that I'm describing has been particularly interesting
 to me recently.
 
-## Part Two: A Model for the Mind
+## Part Two: [A Model for the Mind](/posts/2015-08-23-epistemology-cognition-and-category-theory-part-two.html)
 
 I'll briefly overview the various faculties of the brain and the mind
 and explain how they can be combined.  By training various activities

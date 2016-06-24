@@ -4,8 +4,9 @@ categories: blog
 tags: "philosophy math psychology category-theory intelligence"
 headline: A High Level Overview of Cognitive Faculties
 author:
-  name: "David Conner
-excerpt: "Data and metadata about functions and language in particular
+  name: "David Conner"
+excerpt: "
+Data and metadata about functions and language in particular
 is likely found all over the brain. And information related to other
 faculties of the mind is likely similarly sharded all over the
 brain. This would help achieve dynamic behavior, as it would allow
@@ -14,11 +15,17 @@ together. But doing so would also contribute to efficiency and
 redundancy."
 ---
 
+#### &#x2605; [An Overview](/posts/2015-08-23-epistemology-cognition-and-category-theory-part-one.html) &#x2605; A Model for the Mind &#x2605; [Directive Cognitive Expansion](/posts/2015-08-26-epistemology-cognition-and-category-theory-part-three.html) &#x2605;
 
-## A High Level Overview
+## A High Level Overview of the Mind
 
-
-Data and metadata about functions and language in particular is likely found all over the brain.  And information related to other faculties of the mind is likely similarly sharded all over the brain.  This would help achieve dynamic behavior, as it would allow multiple regions of the brain to sort of map functionality together.  But doing so would also contribute to efficiency and redundancy.  That's all complete speculation on the brain.
+Data and metadata about functions and language in particular is likely
+found all over the brain.  And information related to other faculties
+of the mind is likely similarly sharded all over the brain.  This
+would help achieve dynamic behavior, as it would allow multiple
+regions of the brain to sort of map functionality together.  But doing
+so would also contribute to efficiency and redundancy.  That's all
+complete speculation on the brain.
 
 Regardless of how it's implemented in hardware, I do know that the
 mind can dynamically coordinate it's functionality.  I know I'm not
@@ -311,7 +318,7 @@ cognition about cognition.  People with strong metacognition are able
 to abstract and reason about their own thought process, which can lead
 to mind blowing insights.
 
-## Part Three: Directive Cognitive Expansion
+## Part Three: [Directive Cognitive Expansion](/posts/2015-08-26-epistemology-cognition-and-category-theory-part-three.html)
 
 I'll cover how you can improve specific cognitive faculties by
 learning new things.  I'll also discuss the importants of assessing a
