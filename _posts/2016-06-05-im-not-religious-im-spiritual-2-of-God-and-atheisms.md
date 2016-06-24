@@ -15,8 +15,12 @@ billions of years, the universe evoked forms through which it could
 wonder in awe of it's own beauty."
 ---
 
+#### &#x2605; [God Is Not Dead](/posts/2016-06-01-im-not-religious-im-spiritual-1-God-is-not-dead.html) &#x2605; Of God and Atheisms &#x2605; [A Lighthouse in a Storm](#) &#x2605;
+
+### Why Atheisms?
+
 Atheisms, plural, because if atheism isn't a religion or even a belief
-system, then each atheism must necessarily be it's own thing.  Thus,
+system, then each atheism must necessarily be it's own thing. Thus,
 "atheisms." Of all of the arguments presented by atheists, that is the
 one that gets under my skin because it really can't be countered and
 it shields atheism from criticism by definition. As I claimed in the
