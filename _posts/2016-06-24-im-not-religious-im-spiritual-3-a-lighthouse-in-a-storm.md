@@ -8,6 +8,8 @@ author:
 excerpt: ""
 ---
 
+{:center: style="text-align: center;"}
+
 #### &#x2605; [God Is Not Dead](/posts/2016-06-01-im-not-religious-im-spiritual-1-God-is-not-dead.html) &#x2605; [Of God and Atheisms](/posts/2016-06-05-im-not-religious-im-spiritual-2-of-God-and-atheisms.html) &#x2605; A Lighthouse in a Storm &#x2605;
 
 ### Mercurial Cultural Deconstruction
@@ -117,91 +119,90 @@ ourselves unprepared for the future, regardless of which class,
 ethnicity or religion we are part of.
 
 # &#x0B87;&#x0BD0;&#x0E5B;
+{:center}
 
-#### [&#x13EB; The Golden Rule](#the-golden-rule)
+### &#x13EB; [The Golden Rule](#the-golden-rule)
 
-#### [&#x13EB; We Are All One](#we-are-all-one)
+### &#x13EB; [We Are All One](#we-are-all-one)
 
-#### [&#x13EB; Negative, Neutral & Positive](#negative-neutral-positive)
+### &#x13EB; [Negative & Neutral & Positive](#negative-neutral-positive)
 
-#### [&#x13EB; The Unknown](#the-unknown)
+### &#x13EB; [The Unknown](#the-unknown)
 
-#### [&#x13EB; The Intangible](#the-intangible)
+### &#x13EB; [The Intangible](#the-intangible)
 
-#### [&#x13EB; Find Your Genius](#find-your-genius)
+### &#x13EB; [Find Your Genius](#find-your-genius)
 
-#### [&#x13EB; Timelessness](#timelessness)
+### &#x13EB; [Timelessness](#timelessness)
 
-#### [&#x13EB; Emphasizing Potential Over Faults](#emphasizing-potential)
+### &#x13EB; [Emphasizing Potential](#emphasizing-potential)
 
-#### [&#x13EB; Help Others Grow](#help-others-grow)
+### &#x13EB; [Help Others Grow](#help-others-grow)
 
-#### [&#x13EB; Light & Dark, Good & Evil](#light-dark-good-evil)
+### &#x13EB; [Light & Dark, Good & Evil](#light-dark-good-evil)
 
-#### [&#x13EB; Awareness & Understanding of Evil](#awareness-and-understanding-of-evil)
+### &#x13EB; [Awareness of Evil](#awareness-of-evil)
 
-#### [&#x13EB; Everything Has a Purpose](#everything-has-a-purpose)
+### &#x13EB; [Everything Has a Purpose](#everything-has-a-purpose)
 
-#### [&#x13EB; The Relative & the Absolute](#the-relative-and-the-absolute)
+### &#x13EB; [Relative & Absolute](#relative-and-absolute)
 
-#### [&#x13EB; Familiarity with the Empty Mind](#familiarity-with-the-empty-mind)
+### &#x13EB; [The Empty Mind](#the-empty-mind)
 
-#### [&#x13EB; Willpower & True Self-Mastery](#willpower-and-true-self-mastery)
+### &#x13EB; [Willpower & Self-Mastery](#willpower-and-self-mastery)
 
-#### [&#x13EB; Know What You Want](#know-what-you-want)
+### &#x13EB; [Know What You Want](#know-what-you-want)
 
-#### [&#x13EB; Keep Your Eye on the Ball](#keep-your-eye-on-the-ball)
+### &#x13EB; [Keep Your Eye on the Ball](#keep-your-eye-on-the-ball)
 
-#### [&#x13EB; Nature of Mind](#nature-of-mind)
+### &#x13EB; [Nature of Mind](#nature-of-mind)
 
-#### [&#x13EB; Neurological Empathy](#neurological-empathy)
+### &#x13EB; [Neurological Empathy](#neurological-empathy)
 
-#### [&#x13EB; Meditation](#meditation)
+### &#x13EB; [Meditation](#meditation)
 
-#### [&#x13EB; Always Keep Searching](#always-keep-searching)
+### &#x13EB; [Always Keep Searching](#always-keep-searching)
 
-#### [&#x13EB; Never Stop Stopping](#never-stop-stopping)
+### &#x13EB; [Never Stop Stopping](#never-stop-stopping)
 
-#### [&#x13EB; Independence](#independence)
+### &#x13EB; [Independence](#independence)
 
-#### [&#x13EB; Knowledge of Self](#knowledge-of-self)
+### &#x13EB; [Knowledge of Self](#knowledge-of-self)
 
-#### [&#x13EB; Karma](#karma)
+### &#x13EB; [Karma](#karma)
 
-#### [&#x13EB; Devine Connection](#devine-connection)
+### &#x13EB; [Devine Connection](#devine-connection)
 
-#### [&#x13EB; Wisdom In Every World Religion](#every-world-religion-offers-valuable-wisdom)
+### &#x13EB; [Wisdom of All](#wisdom-of-all)
 
-#### [&#x13EB; Prismatic Perspective](#prismatic-perspective)
+### &#x13EB; [Prismatic Perspective](#prismatic-perspective)
 
-#### [&#x13EB; Judgement & Forgiveness](#judgment-and-forgiveness)
+### &#x13EB; [Judgement & Forgiveness](#judgement-and-forgiveness)
 
-#### [&#x13EB; Providing Purpose](#providing-purpose)
+### &#x13EB; [Providing Purpose](#providing-purpose)
 
-#### [&#x13EB; Believe in Yourself](#believe-in-yourself)
+### &#x13EB; [Believe in Yourself](#believe-in-yourself)
 
-#### [&#x13EB; Metapersona &#x1F52D;&#x1F3AD;&#x1F50D;](#metapersona)
+### &#x13EB; [Metapersona &#x1F52D;&#x1F3AD;&#x1F50D;](#metapersona)
 
-#### [&#x13EB; Life's a Movie and You're the Hero](lifes-a-movie-and-youre-the-hero)
+### &#x13EB; [You're the Hero](#youre-the-hero)
 
-#### [&#x13EB; Understanding Our Personal Circumstances](#understanding-our-personal-circumstances)
+### &#x13EB; [Circumstance](#circumstance)
 
-#### [&#x13EB; Understanding Our Environment](#understanding-our-environment)
+### &#x13EB; [Environment](#environment)
 
-#### [&#x13EB; Axiomatic Waypoints](#axiomatic-waypoints)
+### &#x13EB; [Axiomatic Waypoints](#axiomatic-waypoints)
 
-#### [&#x13EB; Asymptotic Evaluation](#asymptotic-evaluation)
+### &#x13EB; [Asymptotic Evaluation](#asymptotic-evaluation)
 
-#### [&#x13EB; Moving the Lampposts](#moving-the-lampposts)
+### &#x13EB; [Moving the Lampposts](#moving-the-lampposts)
 
-#### [&#x13EB; Reincarnation](#reincarnation)
+### &#x13EB; [Self-Similarity](#self-similarity)
 
-#### [&#x13EB; Self-Similarity](#self-similarity)
-
-#### [&#x13EB; Humility](#humility)
+### &#x13EB; [Humility](#humility)
 
 Just wanted to summarize over those, although that list is by no means
-complete. And please let me emphacize: I in no way intend or intended
+complete. And please let me emphasize: I in no way intend or intended
 to create something that other people would follow. Dear God, no. That
 would be irresponsible. I simply wanted to understand as much about
 the world as I could, including world religions, though I'm
@@ -263,7 +264,7 @@ would I want to view their perspective, when all they intend is to
 limit me, no matter what I do?  Of course, it is still crucial to try
 because you can only connect with someone by empathizing with them.
 
-<a name="negative-neutral-and-positive"/>
+<a name="negative-neutral-positive"/>
 
 ## [&#x2182; Negative, Neutral & Positive](#negative-neutral-positive)
 
@@ -415,9 +416,9 @@ enlightenment because of some aspect of our culture or lives at that
 time. Or, at least, that our ability to reach true enlightenment or
 something like it can be significantly impaired by our way of life.
 
-<a name="emphacizing-potential"/>
+<a name="emphasizing-potential"/>
 
-## [&#x2182; Emphasizing Potential Over Faults](#emphasizing-potential)
+## [&#x2182; Emphasizing Potential](#emphasizing-potential)
 
 I believe that we interact best with others when we see them for their
 potential, instead of their faults. We shouldn't limit another's
@@ -559,9 +560,9 @@ where I was. What scared me most of all was the degree to which this
 guy would try to distract me when I pulled my phone out, especially
 when I mentioned calling my family.
 
-<a name="awareness-and-understanding-of-evil"/>
+<a name="awareness-of-evil"/>
 
-## [&#x2182; Awareness & Understanding of Evil](#awareness-and-understanding-of-evil)
+## [&#x2182; Awareness of Evil](#awareness-of-evil)
 
 There are types of events which are much more difficult for someone to
 pull off if they know other people are aware of your situation or of
@@ -629,9 +630,9 @@ cultivates a great understanding of the secret motion of things and a
 great awareness of the state of the world, one should not interfere.
 The subtlest of actions can have extraordinary consequences.
 
-<a name="the-relative-and-the-absolute"/>
+<a name="relative-and-absolute"/>
 
-## [&#x2182; The Relative & the Absolute](#the-relative-and-the-absolute)
+## [&#x2182; Relative & Absolute](#relative-and-absolute)
 
 The relative and absolute can be applied to morality, but can also be
 generalized to almost anything.  Moreover, there is a continuum
@@ -645,30 +646,33 @@ physical sense. Cohering to the absolute means adhering to a set of
 ideas that don't change under circumstance. For morality, this means
 Kant's moral universalism.
 
-<a name="familiarity-with-the-empty-mind"/>
+<a name="the-empty-mind"/>
 
-## [&#x2182; Familiarity with the Empty Mind](#familiarity-with-the-empty-mind)
+## [&#x2182; The Empty Mind](#the-empty-mind)
 
 It's peculiar, how an empty mind is so much more capable of
 functioning than the conditioned mind. As tabula rasa, the empty mind
-has the capacity for anything and yet nothing, so in itself it is not
+has the capacity for anything and yet is nothing. In itself it is not
 very useful. Still, unlearning bad habits and untangling negative
-beliefs and is incredibly challenging.  So it's best to learn things
+beliefs and is incredibly challenging. So it's best to learn things
 right. As you develop further, if you actively observe beginner's
 mind, you can use your awareness of it to partially apply it's
 benefits as you need them.
 
-One of the worst things you can do is reinforce an anxiety you have
-about something, like a type of situation or a personal behavior. It's
-best not to get hung up on this stuff because it can inhibit the rest
-of your mind.  Some anxieties are basically your mind overexerting
-itself on minor details.  This can be emotionally exhausting, but it
-can also deplete your brain's chemical energy and the nutrients it
-needs to function.  Just like a computer with malware, a mind
-infested with negativity or one that constantly reacts to situations
-with negative thoughts wastes it's resources and runs slower.  If this
-gets bad enough, it can lead to a runaway effect and mental illness
-can manifest, like schizophrenia or schizoid personality disorder.
+It's terrible to reinforce an anxiety you have about something, like a
+type of situation or a personal behavior. It's best not to get hung up
+on this stuff because it can inhibit the rest of your mind and
+anxieties are self-perpetuating by nature. Some anxieties are
+basically your mind overexerting itself on minor details. This can be
+emotionally exhausting, but it can also deplete nutrients and the
+chemical energy your brain needs to function. Just like a computer
+with malware, a mind infested with negativity or one that constantly
+reacts to situations with negative thoughts wastes it's resources and
+runs slower. If this gets bad enough, it can lead to a runaway effect
+and
+[connectopathy](http://www.biologicalpsychiatrycnni.org/article/S2451-9022(16)00062-8/fulltext)
+can manifest as mental illness, like schizophrenia or schizoid
+personality disorder.
 
 If you find yourself with thoughts like this, meditative activities
 can be a boon for untangling the negativity in your mind.  A mind that
@@ -689,9 +693,9 @@ machinations of the rest of our mind, then what does that imply about
 the structure of our mind? And how do we observe it in totality?
 Perhaps, the answer is.....
 
-<a name="willpower-and-true-self-mastery"/>
+<a name="willpower-and-self-mastery"/>
 
-## [&#x2182; Willpower & True Self-Mastery](#willpower-and-true-self-mastery)
+## [&#x2182; Willpower & Self-Mastery](#willpower-and-self-mastery)
 
 We must comprehend what motivates others and what motivates
 ourselves. When we develop awareness the long-term goals of others, we
@@ -975,9 +979,9 @@ more in tune than others. It's something we can exercise through
 reflection and medititation. And it is something that can be
 suppressed by others.
 
-<a name="wisdom-in-every-world-religion"/>
+<a name="wisdom-of-all"/>
 
-## [&#x2182; Wisdom In Every World Religion](#every-world-religion-offers-valuable-wisdom)
+## [&#x2182; Wisdom of All](#wisdom-of-all)
 
 Whether or not you believe the words of a religious text, there is
 value there. I would like to know as much as I can about the major
@@ -1002,7 +1006,7 @@ makes us shine.
 
 <a name="judgement-and-forgiveness"/>
 
-## [&#x2182; Judgement & Forgiveness](#judgment-and-forgiveness)
+## [&#x2182; Judgement & Forgiveness](#judgement-and-forgiveness)
 
 Who really has the right to judge anyone? Have you experienced what
 that person as experienced? What details are you using to judge them?
@@ -1162,9 +1166,9 @@ our society's evolution will accelerate and there's going to be some
 turbulence. People are going to want to find something constant to
 hang onto. They're going to need that and want that.
 
-<a name="lifes-a-movie-and-youre-the-hero"/>
+<a name="youre-the-hero"/>
 
-## [&#x2182; Life's a Movie and You're the Hero](lifes-a-movie-and-youre-the-hero)
+## [&#x2182; Life's a Movie and You're the Hero](#youre-the-hero)
 
 This is a great tool for reexamining your life. If your life were a
 movie or an epic saga, what would the hero do? The idealized version
@@ -1184,9 +1188,9 @@ something horrible like that. Me, personally? I'm more moved by the
 hero who is at an extreme disadvantage, who sticks to his values and
 outsmarts his opponents by being cunning and courageous.
 
-<a name="understanding-our-personal-circumstances"/>
+<a name="circumstance"/>
 
-## [&#x2182; Understanding Our Personal Circumstances](#understanding-our-personal-circumstances)
+## [&#x2182; Circumstance](#circumstance)
 
 We are born without any understanding of our world.  We should develop
 understanding of our circumstances before deciding they should be
@@ -1198,9 +1202,9 @@ completely understand and misappropriated time & energy doing so.  I
 would have been much better served had I reflected on my conditions
 and learned a lot more about the world before taking action.
 
-<a name="understanding-our-environment"/>
+<a name="environment"/>
 
-## [&#x2182; Understanding Our Environment](#understanding-our-environment)
+## [&#x2182; Environment](#environment)
 
 ... note that this whereas the previous concept was like the relative
 environment, this is moreso the extension of that concept to the
@@ -1313,17 +1317,6 @@ proficient with it.  Basically, if we're having a hard time seeing
 where we are, what if we had a better, brighter flashlight? If we had
 an innovative means of measuring some phenomenon, wouldn't we make new
 advancements at what would seem to be warp speed?
-
-<a name="reincarnation"/>
-
-## [&#x2182; Reincarnation](#reincarnation)
-
-I'm not sure whether or not I believe that reincarnation is real. I do
-to some extent, the specific details of which I don't want to explain.
-I want to believe that reincarnation is real because I want to believe
-that our actions carry meaning to the next. I want to believe that I
-get another chance to improve myself and that the lessons I learn here
-carry into the next.
 
 <a name="self-similarity"/>
 
@@ -1442,7 +1435,9 @@ be.
   - and our memes? they belong to us
   - our languages? they belong to us
 
-# ◊ ‽ λ ∇ Φ
+#&#x300C;&#x25CA;&#x203D;&#x03BB;&#x2207;&#x03A6;&#x300D;
+{:center}
+
 
 ### &#x0DF4;&#x0DEF;&#x0DF4;
 
