@@ -1028,8 +1028,15 @@ We each have a connection to the divine. This is a concept from
 gnosticism. Whether this connection is viewed
 as ordinary or supernatural, I believe it is there and that some are
 more in tune than others. It's something we can exercise through
-reflection and medititation. And it is something that can be
-suppressed by others.
+reflection and medititation.
+
+It is a divine spark that can be ignited by others. It is an eternal
+flame that can be that can be suppressed by others, perhaps completely
+squelched. Because this divine spark emerges from universal,
+metaphysical aspects of life, it is always destined to be
+rediscovered, even were it to seemingly perish. For dramatic and vivid
+imagery, read
+[The Nature of God](/posts/2016-05-31-the-nature-of-god.html).
 
 <a name="wisdom-of-all"/>
 
