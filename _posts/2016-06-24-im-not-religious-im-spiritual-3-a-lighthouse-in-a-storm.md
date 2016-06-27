@@ -1070,7 +1070,10 @@ question such belief systems because, through experience, life will
 bring us all to understand specific pieces of knowledge -- these
 again, are universal because ... well, read
 [The Nature of God](/posts/2016-05-31-the-nature-of-god.html). If you
-don't understand, reread the first part of this series!
+don't understand, reread the first part of this series! If what they
+learn from life differs so starkly from what is reinforced through
+torment and needless sacrifice, people will stand up for themselves
+and construct a paradigm that embodies the truths they discover.
 
 I would like to know as much as I can about the major world religions.
 Though I can't say one is better than another and each is fairly
@@ -1147,16 +1150,15 @@ that they dedicate themselves to completely. Whatever it is, they have
 chosen a purpose and, by deciding on a course of action, they've freed
 themselves from uncertainty to make more progress in life.
 
-If someone doesn't have a higher purpose in life, what would motivate
-them to change? How do we decide on our purpose? Do we look to our
-passions? Do we dream? What do we dream? Or should we impart a more
-rational approach and go with what is safe? One thing is certain: you
-don't want to regret the decisions you make, so when you come to a
-fork in the road, make a decision and stick it out. Don't be afraid to
-admit you've been wrong, but at the same time, it's better to avoid
-finding yourself in that position.
-
-... more about just needing a purpose in life
+The magnitude of effect that a simple purpose can have on someone's
+life is mystifying. If someone doesn't have a higher purpose in life,
+what would motivate them to change? How do we decide on our purpose?
+Do we look to our passions? Do we dream? What do we dream? Or should
+we impart a more rational approach and go with what is safe? One thing
+is certain: you don't want to regret the decisions you make, so when
+you come to a fork in the road, make a decision and stick it
+out. Don't be afraid to admit you've been wrong, but at the same time,
+it's better to avoid finding yourself in that position.
 
 <a name="believe-in-yourself"/>
 
