@@ -5,14 +5,23 @@ tags: "anthropology religion sociology psychology"
 headline: "Indispensible Foundations to Mercurial Cultural Deconstruction"
 author:
   name: "David Conner"
-excerpt: ""
+excerpt: "
+So, religion is a perfect tool for helping to counter this cultural
+deconstruction and generational stratification, but it can only be
+helpful if large enough sets of people in our culture share belief
+systems. In particular, they must share those beliefs which form the
+basis of the rest of their beliefs. The notion of a basis was
+discussed in the first section of this series.  Where the bases formed
+primarily from scientific knowledge are always shifting, those formed
+by and tied to religion are much more constant.  In this way, elements
+of religion act as metacultural fixpoints in the psyche of
+believers."
 ---
 
 {:center: style="text-align: center;"}
 
 #### &#x2605; [God Is Not Dead](/posts/2016-06-01-im-not-religious-im-spiritual-1-God-is-not-dead.html) &#x2605; [Of God and Atheisms](/posts/2016-06-05-im-not-religious-im-spiritual-2-of-God-and-atheisms.html) &#x2605; A Lighthouse in a Storm &#x2605;
-
-### Mercurial Cultural Deconstruction
+{: center}
 
 As we hurtle towards relative omniscience and relative omnipotence,
 isn't it important for us to discuss what makes humanity or any group
@@ -26,6 +35,8 @@ is beyond insurmountable.  Moreover, we must rest assured that there
 is a system of propagating such a framework, so that our children do
 not find themselves overwhelmed by forces they can't understand, while
 disconnected from the cultural paths which led there.
+
+### Mercurial Cultural Deconstruction
 
 Elements of our culture will shift beneath us as we stand transfixed
 in a stuporous awe of the lightning-fast transition of other cultural
@@ -119,7 +130,6 @@ ourselves unprepared for the future, regardless of which class,
 ethnicity or religion we are part of.
 
 # &#x0B87;&#x0BD0;&#x0E5B;
-{:center}
 
 ### &#x13EB; [The Golden Rule](#the-golden-rule)
 
@@ -172,7 +182,7 @@ ethnicity or religion we are part of.
 ### &#x13EB; [Karma](#karma)
 
 ### &#x13EB; [Devine Connection](#devine-connection)
-
+ &#x2605;
 ### &#x13EB; [Wisdom of All](#wisdom-of-all)
 
 ### &#x13EB; [Prismatic Perspective](#prismatic-perspective)
@@ -691,7 +701,8 @@ And if we are observing our own mind, then which part of our mind are
 we observing? If we must focus part of our mind to observe the
 machinations of the rest of our mind, then what does that imply about
 the structure of our mind? And how do we observe it in totality?
-Perhaps, the answer is.....
+
+Perhaps, the answer is ... . .
 
 <a name="willpower-and-self-mastery"/>
 
@@ -730,7 +741,8 @@ to hedonistic desires. For a few of us, those desires are constantly
 in flux, based on our current emotional state and recent sensory
 experience.
 
-note that neuro-stuff will be covered in just a few sections
+The upcoming sections on neurological empathy and the nature of mind
+explain more about neurology.
 
 <a name="know-what-you-want"/>
 
@@ -780,57 +792,90 @@ here is one of the most important things you can do.
 
 ## [&#x2182; Nature of Mind](#nature-of-mind)
 
-- analytical mind vs emotional mind
-  - the two seem to inhibit each other
-- exhaustion of specific circuits
-  - nutrients are local resources in the brain
-  - blood can revitalize cells with nutrients, but
+The importance of understanding our own mind's inner workings cannot
+be understated. For example, the analytical mind and the emotional
+mind tend to inhibit each other, at a neurological level. This means
+that activating the analytical circuits -- for periods of time
+exceeding, say, thirty minutes -- will cause your brain to shift the
+allocation of energy and resources towards those analytical circuits.
+It has been shown that this will cause the emotional functions of your
+mind to be diminished to some degree. If you want to understand this
+more, I would suggest taking a detailed look at neurological research
+yourself.
 
-the point is, there are peculiarities to neural circuitry
-- and to counter this, one of the best things you can do is empty your
-  mind and focus on nothing
+#### [fMRI reveals reciprocal inhibition between social and physical cognitive domains](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC3602121/)
 
-[fMRI reveals reciprocal inhibition between social and physical cognitive domains](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC3602121/)
+This paper discusses two different neural components used in our
+personal and professional lives: the *Task Positive Network* and the
+*Social Network*.  The Task Positive network is activated when given
+some analytic tasks, like programming, financial number crunching,
+math or physics. It's part of our executive function. When it's
+activated, it also blocks our other possibilities.
 
+In particular, its activation suppresses the Social Network, which is
+a component of the *Default Mode Network*. The Social Network helps
+you deal with social & emotional issues. Recent studies have shown
+that the TPN and the SN are almost completely independent and have
+very little neural overlap. Furthermore, they suppress each other.  So
+if you're focused on analytical tasks, then you are less proficient at
+processing social and emotional issues, until you switch gears.
+Further still, I hypothesize that is likely not efficient for your
+brain to do that. And so, when you have someone at your workplace who
+doesn't have to focus analytically (or effectively doesn't!) and they
+spread toxic social/emotional issues, then how do you think that
+contributes to the overall functioning of your teams?
 
+And perhaps just targeting one person, who isn't very good at
+social/emotional issues in the first place -- I.E. *ME* -- then guess
+who's going to be struggling to perform their job *AND* suffer the
+most, emotionally? If the toxic employee is trained in psychology and
+compels the other employee to constantly switch from focusing on
+analytical issues to emotional issues, do you think they will appear
+to get much done? NO!  It will burn out their brain with stress. *AND
+GODDAMIT I MEAN IT WILL LITERALLY, CHEMICALLY BURN OUT THEIR BRAIN!*
+As in, lasting, permanent, chemical and neurological damage. In
+particular, stress damages the hippocampus.  Enough of this -- I.E. 5+
+years -- and that person might find it hard to function again, ever!
 
-- this paper discusses two different neural components used in our
-  personal and professional lives:
-  - the task positive network and the 'social' network
-  - the task positive network
-    - activated when given some analytic tasks (programming,
-      analytics, finance, math, physics, etc.)
-    - it is part of our executive function
-    - and when it is activated, it also blocks out other possibilities
-      and neural circuits & networks
-      - that is, working with tasks dependent on this will inhibit
-        other circuits from functioning effectively
-  - the "social" network
-    - this is a component of the "default mode" network
-      - the SN helps you deal with social/emotional issues
-    - recent studies have shown that TPN and SN are completely
-        independent (with very little overlap)
-    - AND they suppress each other.
+Worse still, how do you think that compelling little stazis to
+psychologically torment people on a government list would affect the
+economy, on a local, regional and national level? Do you think that
+would benefit a struggling economy or would it be detrimental? How do
+you think such regulation would affect small business? .... What
+happens when small business struggles on national scale?  Isn't small
+business crucial for the middle class? Isn't the middle class vital
+for the prosperity of common Americans? If you support something like
+this, *THEN WHO AND WHAT DO YOU STAND FOR?* If not the american
+economy, *THEN WHO OR WHAT DO YOU REPRESENT?*
 
-- these networks inhibit each other, so if you're focused on
-  analytical tasks, you are less proficient on processing
-  social/emotional issues (& vice versa)
-  - furthermore (IMO) it is likely not efficient to switch gears
-  - and so, when you have someone at your workplace who doesn't have to
-    focus analytically and they spread toxic social/emotional issues
-    around or just to one person (who's is being strongly compelled to
-    increase performance of analytic tasks and who isn't good at
-    social/emotional issues in the first place)
-    - guess who's going to be struggling to perform their job AND
-      suffer the most emotionally?
-    - and again, if that person constantly switches them from being
-      compelled to focus on difficult emotional issues to analytical
-      issues, they won't get much done and it will burn out their
-      brain with stress.
-      - as in physically, chemically burn their brain: stress damages
-        the hippocampus.
-      - enough of this (5+ years) and that person will find it
-        difficult to function, ever.
+> If you'd like to read more about what I've personally experienced in
+> the workplace, I wrote this series on
+> [my](/posts/2015-02-21-workplace-bullying-part-one.html)
+> [experiences](2015-02-24-workplace-bullying-part-two.html)
+> with [workplace](2015-02-25-workplace-bullying-part-three.html)
+> [bullying](2015-02-26-workplace-bullying-part-four.html).
+
+Basically, resources like nutrition, ATP for energy, and preproduced
+protein products are localized throughout the brain. Overexertion of
+specific brain circuits will exhaust those resources. This may be
+partially responsible for the effect where you can spend hours and
+hours on a problem and make no progress, but take a short break or
+relax with friends and suddenly you have a burst of creativy insight
+because you've given those neural circuits a chance to replentish
+their resources.  If we understand the causes behind effects like
+these, we can engage the peculiarities of our mind for our benefit.
+
+Another incredibly important aspect to mental functioning is blood
+flow. This is why exercise is so important. Cardio increases your
+heart rate and blood cycles resources in and waste out. Some of the
+deeper tissue subnetworks in your organs and brain are difficult to
+reach unless your body cycles blood faster. This is because those
+deeper tissue subnetworks are only accessible via capillaries and I
+surmise that there is a large disparity in the resource distribution
+at the capillary level. Therefore, increasing your heartrate through
+healthy, daily exercise is necessary to happiness and bodily function
+and mental acuity. It doesn't matter how healthy you eat if your body
+has trouble distributing those resources!
 
 <a name="neurological-empathy"/>
 
@@ -905,7 +950,6 @@ which describes how a specific skill might contribute towards your
 mental faculties. This is a great series to read, if you're the kind
 of person who is always trying to improve yourself. There are two or
 three parts outlined, but unwritten.
-
 
 ...
 
@@ -1269,7 +1313,7 @@ culture and social structures is constantly shifting beneath our
 feet.
 
 This is one reason why religion will be relevant through these next
-few decades.  The philosophical and ideological conclusions one
+few decades. The philosophical and ideological conclusions one
 reaches by extrapolating scientific advancements remain in pace with
 the rate of advancement.  The transition to the post-Singularity epoch
 will necessitate constant and chaotic re-evaluation.  Yet, religion,
@@ -1282,9 +1326,10 @@ atheism is short-sighted.
 ## [&#x2182; Asymptotic Evaluation](#asymptotic-evaluation)
 
 This is more of a tool I use to evaluate new ideas in the concept of
-trends, regardless of whether it's a past, present and
-future. Basically, I ask myself, what happens if I take that to
-infinity? Or zero?
+trends, regardless of whether it's a past, present and future.
+Basically, I ask myself, what happens if I take that to infinity? Or
+zero? What is the likelihood of such a limit and the timescale for
+it's occurance?
 
 Examples: what if there was no cost or energy required
 for communication? Or what if the maximum theoretical energy density
@@ -1363,7 +1408,7 @@ advancements at what would seem to be warp speed?
     communicating
 
 
-### 
+###
 
 ## Conclusions
 
