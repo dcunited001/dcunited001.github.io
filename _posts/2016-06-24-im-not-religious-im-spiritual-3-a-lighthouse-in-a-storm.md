@@ -1013,12 +1013,25 @@ ways to learn about the world.
 Our actions matter, even when they are not seen. There is karma formed
 from the beliefs of others, which is usually a response to your own
 actions and beliefs. I also believe in universal karma, which is
-outside our control or understanding.
+outside our control or complete understanding. And even though total
+comprehension of the workings of karma is impossible, we should still
+seek to understand its nature, so we can be fully aware of the extent
+of effect our own actions.
 
-- causality
-  - there is another way. there is always another way
-    - if it seems too hard, it means we are not yet skilled enough
-      - we need to observe more of before we act
+Karma is like the butterfly effect. The smallest butterfly can flap
+it's wings in Brazil and create a chaotic tornado in Kansas. Next
+thing you know, Dorothy's on a transformative journey down the yellow
+brick road with three unworthy companions and a chorus full of little
+people.
+
+Studying karma is a study of causality -- I think! but I am no expert
+here. It seems that you must understand yourself and others and each
+person's current place in the world.  There's always a myriad of
+details that follow each action. It may seem that there is no other
+way, but there is always another way.  There is always a better
+way. If it seems that one situation requires a course of action that
+is too difficult, then we are not yet skilled enough.  We need to
+observe more and reflect more before we act.
 
 <a name="devine-connection"/>
 
