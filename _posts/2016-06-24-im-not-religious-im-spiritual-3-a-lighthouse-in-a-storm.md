@@ -1297,19 +1297,17 @@ and learned a lot more about the world before taking action.
 
 ## [&#x2182; Environment](#environment)
 
-... note that this whereas the previous concept was like the relative
-environment, this is moreso the extension of that concept to the
-absolute. and it can mean literally the ecosystem
+Whereas the previous concept applies to a person's relative, local
+environment, this has more to do with a person's absolute, global
+environment. It's about how we relate to the world, globally, instead
+of our personal situations. That is, both in how the individual
+relates to the world and how humanity relates to the world.
 
-Also, a similar concept applies to man's relationship with nature. Or
-rather, this concept specifies how we relate to the world, globally,
-instead of our personal situations. Both in how the individual relates
-to the world and how humanity relates to the world.
-
-I believe man should prove itself capable of maintaining nature as is
-before attempting to alter it. We have caused so much change to nature
-with science before developing tools capable of accurately measuring
-it's state. The feedback loops that preserve balance are robust, but
+It extends to how we relate with nature and the ecosystem. I believe
+man should prove itself capable of maintaining nature as is before
+attempting to alter it. We have caused so much change to nature with
+science before developing tools capable of accurately measuring it's
+state. The feedback loops that preserve balance are robust, but
 delicate. If enough of them are altered or removed, the consequences
 will be irreparably expensive, far outweighing any benefit from
 cutting corners. Rather, we're just hoarding the profits for ourselves
