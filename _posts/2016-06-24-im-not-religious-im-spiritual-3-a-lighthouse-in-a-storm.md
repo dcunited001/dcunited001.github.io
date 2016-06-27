@@ -881,37 +881,35 @@ has trouble distributing those resources!
 
 ## [&#x2182; Neurological Empathy](#neurological-empathy)
 
-but just as there are negative ways we can use understanding of
-psychology and neurology, there are positive ways we can use this.
+There are both negative and positive ways that we can use psychology
+and neurology. We should familiarize ourselves with the negatives to
+defend ourselves against it and hope that it isn't misused. We should
+practice using the positive patterns of behavior that we can learn
+from psychology and neurology.
 
+#### [Examination of the neural substrates activated in memories of experiences with resonant and dissonant leaders](http://www.sciencedirect.com/science/article/pii/S1048984311001263)
 
-[Examination of the neural substrates activated in memories of experiences with resonant and dissonant leaders](http://www.sciencedirect.com/science/article/pii/S1048984311001263)
+Case in point: this study, where it's show that the *Hemodynamic
+Network* and the *Mirror Neuron Networks* complement each other to
+augment empathy.  The HN tunes us into another's emotions at a neural
+level.  This relates more to perceiving their emotional state, then
+the kind of simulation done by MNN, which support empathy by
+"mirroring" via a kind of simulation of another's experience based on
+what you know.  That is, MNN can consciously or subconsciously allow
+someone to simulation themselves in another's shoes based on the
+models of behavior, circumstance and life that they understand.
 
-- hemodynamic network and mirror neuron networks complement each other
-  to augment empathy
-- hemodynamic network
-  - this tunes us in to another's emotions at a neural level.
-  - this relates more to perceiving their emotional state than
-    'simulating' via mirror neuron nets.
-- mirror neuron networks
-  - supports empathy by "mirroring" via a kind of simulation of
-    another's experience based on what you know
-  - that is: you can sub/consciously simulate yourself in their shoes
-    based on the models you've built in life.
-  - this is great, but it leads to a few problems, one of which deals
-    with cognitive bias:
-    - if we haven't experienced enough of life to accurately
-      understand someone else, we might miss a few details when we try
-      to put our selves in their shoes.
-    - so we may be a bit blindsided when they're angry in a situation,
-      when we thought they'd be happy with it
-      - in this case, the hemodynamic network lets us observe their
-        externalized expression of their feelings
-      - if we get a mismatch here: mirror neuron networks seem to
-        signal that this person should be content, yet hemodynamic
-        networks are displaying just the opposite,
-      - then this should indicate we need to step back and observe the
-        situation from another angle.
+Simulation via MNN is great, but it leaves a few gaps, primarily
+caused by cognitive bias.  If we haven't experienced enough of life to
+accurately understand someone else, we might miss a few details when
+we try to put ourselves in their shoes.  So we may be a bit blindsided
+when they're angry or distraught in a situation, when we simulated via
+MNN that they would be happy or content. In this case, the HN lets us
+observe their externalized expression of their feelings. If we get a
+mismatch here, then this should indicate that we need to step back and
+observe the situation from another angle. That is the Hemodynamic
+Network is indicating something different from the Mirror Neuron
+Networks and this should invite us to investigate why.
 
 <a name="meditation"/>
 
