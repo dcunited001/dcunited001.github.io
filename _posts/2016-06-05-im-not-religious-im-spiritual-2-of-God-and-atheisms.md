@@ -15,7 +15,10 @@ billions of years, the universe evoked forms through which it could
 wonder in awe of it's own beauty."
 ---
 
+{:center: style="text-align: center;"}
+
 #### &#x2605; [God Is Not Dead](/posts/2016-06-01-im-not-religious-im-spiritual-1-God-is-not-dead.html) &#x2605; Of God and Atheisms &#x2605; [A Lighthouse in a Storm](#) &#x2605;
+{:center}
 
 ### Why Atheisms?
 

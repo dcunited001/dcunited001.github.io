@@ -14,8 +14,10 @@ cast. Our psyche arises from forms emerging from combinated and
 amalgamated archetypes, acting as fixpoints."
 ---
 
-#### &#x2605; God Is Not Dead &#x2605; [Of God and Atheisms](/posts/2016-06-05-im-not-religious-im-spiritual-2-of-God-and-atheisms.html) &#x2605; [A Lighthouse in a Storm](#) &#x2605;
+{:center: style="text-align: center;"}
 
+#### &#x2605; God Is Not Dead &#x2605; [Of God and Atheisms](/posts/2016-06-05-im-not-religious-im-spiritual-2-of-God-and-atheisms.html) &#x2605; [A Lighthouse in a Storm](#) &#x2605;
+{: center}
 
 I believe wholeheartedly religion and myth provide immeasurable value
 to the individual and society, regardless of the belief systems in
