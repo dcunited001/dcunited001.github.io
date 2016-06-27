@@ -1056,12 +1056,29 @@ imagery, read
 ## [&#x2182; Wisdom of All](#wisdom-of-all)
 
 Whether or not you believe the words of a religious text, there is
-value there. I would like to know as much as I can about the major
-world religions. Though I can't say one is better than another and
-each is fairly comprehensive, we would be well served through their
-study. At the least, we learn about what other people believe.
+value there. The bible does not *need* to be true to add value to your
+life or the lives of others. Religions are established and retain
+prominence based on their ability to be valuable to people and
+society. And they can only do so when they embody certain truths which
+we all hold to be self-evident.
 
-... elaborate on philosophy here? theosophy?
+If a religion differs so starkly with reality, it will not last. This
+is why state worship, the de facto religion of many regimes, does not
+last. It does not embody truth and instead embodies utility.  It is
+transparent and people can see through that. They will constantly
+question such belief systems because, through experience, life will
+bring us all to understand specific pieces of knowledge -- these
+again, are universal because ... well, read
+[The Nature of God](/posts/2016-05-31-the-nature-of-god.html). If you
+don't understand, reread the first part of this series!
+
+I would like to know as much as I can about the major world religions.
+Though I can't say one is better than another and each is fairly
+comprehensive, we would be well served through their study. At the
+least, we learn about what other people believe. I enjoy looking at
+the links between language, culture and religion. I want to understand
+as much about people as possible. I'm hopeful that we will learn more
+about humanity from 10,000 BC through 2,000 BC.
 
 <a name="prismatic-perspective"/>
 
