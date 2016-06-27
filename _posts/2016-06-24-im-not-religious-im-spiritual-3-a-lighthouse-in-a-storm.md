@@ -991,10 +991,20 @@ seen giving and those who do should be rewarded.
 
 We should know ourselves and our world. We can't know ourselves
 without learning about the world and we can't fully understand the
-world without knowing about ourselves.  Meditation, retreat into
-nature, and education are great ways to learn about ourselves.
+world without knowing about ourselves. Self-knowledge is fundamental
+to understanding the world. In mathematics and particularly group and
+ring theory, the existance of an identity value is essential.  In
+life, self-knowledge fulfills the same purpose.  If everything can be
+defined in terms of it's relationships to everything else, then
+learning about ourselves is one of the best ways of learning about the
+world.  And apropos that, to understand ourselves, to define
+ourselves, we must learn as much about the world as
+possible.
 
-...
+Meditation, retreat into nature, introspection, philosophy and
+education are great ways to learn about ourselves. Academia, language,
+culture, hobbies, recreation, life experience and stories are great
+ways to learn about the world.
 
 <a name="karma"/>
 

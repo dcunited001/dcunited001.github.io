@@ -1,5 +1,5 @@
 ---
-title: "Divergents and Directional Antennae - Measurement and Inference"
+title: "Divergents and Directional Antennae: Measurement and Inference"
 categories: blog
 tags: "math science physics neuro medicine machine-learning health bioinformatics"
 headline: "How many experimental measurements?"
