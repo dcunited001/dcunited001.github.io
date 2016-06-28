@@ -1351,20 +1351,19 @@ financially.
 
 ## [&#x2182; Axiomatic Waypoints](#axiomatic-waypoints)
 
-Technology is rapidly changing our life and culture.  In this
-turbulent period, what can we know to be unequivocally constant? What
-can we identify and use as fixed reference points if the basis for our
-culture and social structures is constantly shifting beneath our
-feet.
+Technology is rapidly changing our life and culture. In this turbulent
+period, what can we know to be unequivocally constant? What can we
+identify and use as fixed reference points if the basis for our
+culture and social structures is constantly shifting beneath our feet.
 
 This is one reason why religion will be relevant through these next
-few decades. The philosophical and ideological conclusions one
-reaches by extrapolating scientific advancements remain in pace with
-the rate of advancement.  The transition to the post-Singularity epoch
-will necessitate constant and chaotic re-evaluation.  Yet, religion,
+few decades. The philosophical and ideological conclusions one reaches
+by extrapolating scientific advancements remain in pace with the rate
+of advancement. The transition to the post-Singularity epoch will
+necessitate constant and chaotic re-evaluation. Yet, religion,
 especially those with long-established tradition, remains constant,
-regardless of how life changes around us.  So it is useful and, again,
-atheism is short-sighted.
+regardless of how life changes around us. So it is useful and, again,
+atheism is short-sighted. Or so I believe.
 
 <a name="asymptotic-evaluation"/>
 
@@ -1394,11 +1393,10 @@ filter in Fermi's Paradox.
 ## [&#x2182; Moving the Lampposts](#moving-the-lampposts)
 
 Another tool that I use to examine problems. Science is constantly
-developing better tools to measure phenomena. One of the best
-examples is X-Ray crystallography, for which like 50 Nobel Prizes have
-been awarded.  If it weren't for this one technique, steampunk would
-still be in-vogue and not because it's some kind of chic, hipster
-style.
+developing better tools to measure phenomena. One of the best examples
+is X-Ray crystallography, for which like 50 Nobel Prizes have been
+awarded. If it weren't for this one technique, steampunk would still
+be in-vogue and not because it's some kind of chic, hipster style.
 
 So
 [moving the lamposts](http://movingthelamppost.com/blog/html/index.html)
@@ -1452,8 +1450,33 @@ advancements at what would seem to be warp speed?
     should disconnect from myself and listen to how they are
     communicating
 
+- some people think I'm narcissistic and i'm sure this is true to some
+  extent.
+  - however, the reason i care about my personal image is that it's
+    been used against me so often!!
+  - i absolutely cannot stand it when i have the doors of opportunity
+    slammed in my face. that shit hurts. if someone could do so much
+    for people, why limit them like that?
+  - i have always been as filled with potential as I am and i'm sure
+    that there are millions of others just like me, who've been denied
+    opportunity when their potential exceeds mine.
+- so i have this kind of love-hate relationship with self-image. i
+  want to be myself and i want others to perceive me as i am.
+  - but i've adapted this defense mechanism to respond to criticism in
+    specific positions. and it's not because i am hurt by the
+    criticism, it's that i have had people assault me with frivolous
+    criticism in the workplace because they're trying to get me
+    fired. it has happened over and over again.
+  - it happened in jamskating and it has happened so many times in my
+    personal life. it has left me isolated with crippling depression.
+  - i don't understand why people treat me like this.
 
-###
+- i'm sorry if i give you the impression that i'm arrogant. trust
+  me, the last thing i want is to give someone the wrong impression in
+  that regard. i do not think i am better than anyone. in fact, quite
+  the opposite. i struggle to understand what has happened in my life
+  and why i am here. i made many sacrifices to avoid buckling to
+  violations of my personal sense of ethics.
 
 ## Conclusions
 
