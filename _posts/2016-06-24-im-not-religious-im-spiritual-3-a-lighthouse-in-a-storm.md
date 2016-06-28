@@ -1524,11 +1524,16 @@ violationsof my personal sense of ethics.
 Seriously, I suspect that some dark, shadowy government agency has
 psychologically & sociologically profiled me, otherwise society's
 actions towards me would be a bit more random and less
-objective-oriented. To clarify, I'm not saying I think that has
-happened, I'm saying that it realllly would not surprise me if that
-had happened.
+objective-oriented. To clarify, I'm not saying I know that happened
+... I'm saying that it realllly would not surprise me if that had
+happened. Every one of the 5 people I have had serious problems with
+in my career had psychological training. It's easy to distinguish
+someone who understands psychology well and uses it from someone who
+just acts naturally. It's also easy to distinguish those people who
+care to resolve any problems that might arise and those who actually
+want those problems to become worse.
 
-## Conclusions
+# Conclusions
 
 > "Live as if you were to die tomorrow. Learn as if you were to live
 > forever." - Mahatma Ghandi
