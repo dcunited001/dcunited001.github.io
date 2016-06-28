@@ -1414,71 +1414,124 @@ advancements at what would seem to be warp speed?
 
 ## [&#x2182; Humility](#humility)
 
-- One of the toughest lessons is to learn to be humble in life,
-  especially after having accomplished so much or learned so much.
-  - the more i learn, the harder it gets.
-  - i don't want to project an arrogant attitude or narcissistic
-    personality
-  - but if that's the signal someone else sense, regardless of whether
-    i sent it, that's a huge turn off. for practically everyone
-    - people want to be valued. they want to feel important
-  - i've found that time after time, i've missed out on opportunities
-    to connect or learn from others around me because my words and
-    attitude signaled the wrong thing. I do it all the time. And I've
-    often found myself in the position where my signals and social
-    cues are intentionally misrepresented to others.
-  - regardless of how i was misunderstood, the connections to others
-    around me were damaged. and i lost the opportunity to learn from
-    them.
-    - over the years, people I looked up to in school and work and
-      life have piqued my interest in just the right way
-    - i can't tell you how many seemingly minor statements have
-      changed my life for the better and I have no idea where I'd be
-      without those miniscule pieces of advice
-    - (in 2007) "Hey David, have you heard of this Ruby on Rails
-      thing? My friends say it's the next best thing since sliced
-      bread. "
+Learning how to be humble and why are some of the toughest aspects of
+life. And the more you learn about life, the more challenging this
+becomes.
 
-- when you're so driven for self-improvement and learning, it's too
-  easy to tune people out, instead of spending time and energy
-  listening.
-  - i have this terrible habit of just listening for new information,
-    and tuning out as soon as i realize i'm not getting any new
-    knowledge or information
-  - but you can only learn things once
-  - instead of paying so much attention to what people are saying, i
-    should disconnect from myself and listen to how they are
-    communicating
+No matter who I'm dealing with, I don't want to project an arrogant
+attitude or narcissistic personality. If that's the signal someone is
+receiving, regardless of whether I intended to send it, that's a huge
+turn off. For everyone. People want to be valued. They want to feel
+important. If you don't help them provide that feeling for themselves,
+then they'll find someone who will.
 
-- some people think I'm narcissistic and i'm sure this is true to some
-  extent.
-  - however, the reason i care about my personal image is that it's
-    been used against me so often!!
-  - i absolutely cannot stand it when i have the doors of opportunity
-    slammed in my face. that shit hurts. if someone could do so much
-    for people, why limit them like that?
-  - i have always been as filled with potential as I am and i'm sure
-    that there are millions of others just like me, who've been denied
-    opportunity when their potential exceeds mine.
-- so i have this kind of love-hate relationship with self-image. i
-  want to be myself and i want others to perceive me as i am.
-  - but i've adapted this defense mechanism to respond to criticism in
-    specific positions. and it's not because i am hurt by the
-    criticism, it's that i have had people assault me with frivolous
-    criticism in the workplace because they're trying to get me
-    fired. it has happened over and over again.
-  - it happened in jamskating and it has happened so many times in my
-    personal life. it has left me isolated with crippling depression.
-  - i don't understand why people treat me like this.
+It's usually contrary to progress in a team to have someone distort
+their importance relative to the others. The best team is well
+rounded, with respect to an organization's hierarchy. The ideal team
+is competitive, they understand each member's strengths and weaknesses
+and they try to play to those attributes to further team progress.
+Competition is no good when each team member is tripping up someone
+else to appear better by comparison. What good does that do? A good
+team extracts value from the network: if a team is a graph where each
+member is a node, then a good team has a high, well distributed value
+received from each edge between the team members. That is, the team
 
-- i'm sorry if i give you the impression that i'm arrogant. trust
-  me, the last thing i want is to give someone the wrong impression in
-  that regard. i do not think i am better than anyone. in fact, quite
-  the opposite. i struggle to understand what has happened in my life
-  and why i am here. i made many sacrifices to avoid buckling to
-  violations of my personal sense of ethics.
+And I've found that time after time, I've missed out on opportunities
+to connect and learn from others around me because my words and
+attitude signaled the wrong thing.  I do it all the time. And I've
+often found myself in the position where my signals and social cues
+are intentionally misrepresented by others. Regardless of how I was
+misunderstood, the connections to others around my were damaged and I
+lost the opportunity to learn from them and better myself. I have been
+dealt an unimaginable amount of damage to my career because of this.
+
+E.G. all this technology? I can't afford it. An oculus rift? NEVER
+EVEN TOUCHED ONE. My connections to others in technology are
+specifically targeted. Apparently, it's ideal if my contact to people
+in math, science and technology is minimized.
+
+Over the years, people I looked up to in school and work and life have
+piqued my interest in just the right way.  I can't tell you how many
+seemingly minor statements have changed my life for the better and I
+have no idea where I'd be without those miniscule peices of
+advice.
+
+> In 2007: "Hey David, have you heard of this Ruby on Rails thing? My
+> web developer friends from Charlottesville say its the next best
+> thing since sliced bread."
+
+That simple statement had some pretty big effects on my life. I got
+into web development and the first version of Rails that I tried was
+1.2.4. I still have some of the code I wrote.
+
+When you're so driven for self-improvement and learning, it's too easy
+to tune people out, instead of spending time and energy listening. I
+have this terrible habit of just listening for new information and
+then tuning out as soon as I realize I'm not getting any new knowledge
+or info.  You can only learn once and so many social interactions are
+incentivized by the distribution of knowledge. The internet and social
+media stymie these incentives by making all information available
+everywhere. So when you already know so much and acquiring knowledge
+is a primary motivating factor in pursuing social interactions
+... well, you fill in the gaps there. Instead of paying so much
+attention to whether I recognize the facts behind what people are
+saying, I should disconnect from myself and listen to how they are
+saying it. I guess.
+
+I wish I was in a location where it was easy for me to connect with
+others on an academic basis, but I'm not. The professional world
+chewed me up and spit me out several times. I can't get a job in a
+large corporation without a BS or BA. It makes very little sense for
+me to go back to school to get a Masters or PhD, since I'd have to
+complete my Bachelor's. And so the academic world won't accept me. The
+small business world can't risk me. The government hates me.
+
+And so what do I really have left? I could start my own business, but
+I can't seem to form a team of cofounders. And why is that? ... Moving
+on ...
+
+Some people think I'm narcissistic and I'm sure this is true to some
+extent. However, the reason I care about my personal image is that
+it has been used against me so often! I absolutely cannot stand it
+when I have the doors of opporunity slammed in my face, over and over
+again. That shit hurts! If someone could do so much for people, why
+limit them like that? I have always been as filled with potential as I
+am now and I'm sure there are millions of others just like me, who've
+been denied opportunity, when their potential likely exceeds mine.
+
+So I have this kind of love-hate relationship with self-image. I want
+to be myself and I want others to perceive me as I am. I actually
+enjoy receiving honest criticism because it means that I can improve
+myself, but I've adapted this defense mechanism to respond to
+criticism in certain situations. It's not because I'm hurt by the
+criticism, it's that I have had people assault me with frivolous
+criticism in the workplace.  Basically, it's because they're trying to
+get me fired. Its happened over and over again. It happened in
+jamskating and it's also happened many times in my personal life. It
+has left me isolated with crippling depression and no one i can to
+reach out to for help. I really don't understand why people treat me
+like this.
+
+So if I've given you the impression that I'm arrogant, trust me,
+that's the last thing I want. I get the feeling that a lot of people
+are left with that impression because the people around me are so much
+louder than myself. I'm quiet.  I do not think I am better than
+anyone. In fact, quite the opposite, but I'm driven to be the best
+that I can be. And I struggle to understand what has happened in my
+life and why I'm here. I made so many sacrifices to avoid buckling to
+violationsof my personal sense of ethics.
+
+Seriously, I suspect that some dark, shadowy government agency has
+psychologically & sociologically profiled me, otherwise society's
+actions towards me would be a bit more random and less
+objective-oriented. To clarify, I'm not saying I think that has
+happened, I'm saying that it realllly would not surprise me if that
+had happened.
 
 ## Conclusions
+
+> "Live as if you were to die tomorrow. Learn as if you were to live
+> forever." - Mahatma Ghandi
 
 - briefly restate the argument to show that "God is not dead" by
   asserting the inevitable arrival of an übermenschlich entity.
@@ -1493,9 +1546,6 @@ advancements at what would seem to be warp speed?
         evidence has it's own qualities and benefits
     - and furthermore, it still leaves us with the responsibility of
       dealing with the problem of nihilism, which Nietszche feared.
-
-> "Live as if you were to die tomorrow. Learn as if you were to live
-> forever." - Mahatma Ghandi
 
 > "Every man is born as many men and dies as a single one." -
 > Heidegger
