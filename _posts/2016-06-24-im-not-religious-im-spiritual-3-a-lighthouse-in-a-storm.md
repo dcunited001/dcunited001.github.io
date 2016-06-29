@@ -1410,6 +1410,8 @@ advancements at what would seem to be warp speed?
 
 ## [&#x2182; Self-Similarity](#self-similarity)
 
+
+
 <a name="humility"/>
 
 ## [&#x2182; Humility](#humility)
@@ -1515,28 +1517,53 @@ like this.
 So if I've given you the impression that I'm arrogant, trust me,
 that's the last thing I want. I get the feeling that a lot of people
 are left with that impression because the people around me are so much
-louder than myself. I'm quiet.  I do not think I am better than
-anyone. In fact, quite the opposite, but I'm driven to be the best
+louder than myself. I'm quiet. I do not think I am better than
+anyone. In fact, quite the opposite. But, I'm driven to be the best
 that I can be. And I struggle to understand what has happened in my
 life and why I'm here. I made so many sacrifices to avoid buckling to
-violationsof my personal sense of ethics.
+selling myself out.
 
-Seriously, I suspect that some dark, shadowy government agency has
-psychologically & sociologically profiled me, otherwise society's
-actions towards me would be a bit more random and less
-objective-oriented. To clarify, I'm not saying I know that happened
-... I'm saying that it realllly would not surprise me if that had
-happened. Every one of the 5 people I have had serious problems with
-in my career had psychological training. It's easy to distinguish
+Seriously though, sometimes I suspect that some dark, shadowy
+government agency has psychologically & sociologically profiled me,
+otherwise society's actions towards me would be a bit more random and
+less objective-oriented. To clarify, I'm not saying I know that
+happened ... I'm saying that it realllly would not surprise me if that
+had happened. Every one of the 5 people I have had serious problems
+with in my career had psychological training. It's easy to distinguish
 someone who understands psychology well and uses it from someone who
 just acts naturally. It's also easy to distinguish those people who
 care to resolve any problems that might arise and those who actually
 want those problems to become worse.
 
-# Conclusions
+# God is not Dead
+{:center}
 
 > "Live as if you were to die tomorrow. Learn as if you were to live
 > forever." - Mahatma Ghandi
+
+
+[maybe rewrite the following:]
+
+The concept of God is more relevant than ever. The 20th century may
+seem to have diminished religion's purpose, but as the
+technology-driven evolution of society escalates to warp speed, we're
+going to want some constants to ground ourselves with. Nietzche
+foresaw society's 20th century movement away from religion, since
+science would supplant part of the meaning it supplied to people.
+(... rephrase that, it explained some of the mystery and origin of the
+world, but science began to supplant that). However, I don't believe
+Nietzche foresaw the reaction society would have in relation to the
+singularity.
+
+- We'll respond by reaching out for something constant in these
+  turbulant times.
+- Instead of moving us away from religion, science will eventually
+  lead us to reach out for it again
+- because of how much science has rapidly changed society
+
+has a greater purpose in the world than is indicated by recent history
+
+...
 
 - briefly restate the argument to show that "God is not dead" by
   asserting the inevitable arrival of an übermenschlich entity.
@@ -1584,17 +1611,14 @@ It's crucial for people to mill over these issues, as we
 are approaching developments which lead to a fundamental restructuring
 of the world.
 
-(change to be areferential)
-
 Even if someone manages to purge all memory of an individual, you will
 never manage to purge all reflections of that person which are alive
 inside all of us. Those fragments don't need to be linked by name to
-survive -- in fact anonymity was a crucial element, as the love and
+survive -- in fact anonymity is a crucial element, as the love and
 oneness we strive for would lose power and relevance if it were
 named. And the most important fragments, in fact, would only be
-rediscovered, as they are pieces of universal truths. What I have
-begun and what we have set in motion cannot be stopped, nor should it
-be.
+rediscovered, as they are pieces of universal truths. What has begun
+and what was set in motion cannot be stopped, nor should it be.
 
 - you're #WhatHaveViews
   - thoughts belong to those who think them.
