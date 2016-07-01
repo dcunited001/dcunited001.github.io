@@ -182,7 +182,7 @@ ethnicity or religion we are part of.
 ### &#x13EB; [Karma](#karma)
 
 ### &#x13EB; [Devine Connection](#devine-connection)
- &#x2605;
+
 ### &#x13EB; [Wisdom of All](#wisdom-of-all)
 
 ### &#x13EB; [Prismatic Perspective](#prismatic-perspective)
@@ -1541,43 +1541,54 @@ want those problems to become worse.
 > "Live as if you were to die tomorrow. Learn as if you were to live
 > forever." - Mahatma Ghandi
 
-
 [maybe rewrite the following:]
 
-The concept of God is more relevant than ever. The 20th century may
-seem to have diminished religion's purpose, but as the
-technology-driven evolution of society escalates to warp speed, we're
-going to want some constants to ground ourselves with. Nietzche
-foresaw society's 20th century movement away from religion, since
-science would supplant part of the meaning it supplied to people.
-(... rephrase that, it explained some of the mystery and origin of the
-world, but science began to supplant that). However, I don't believe
-Nietzche foresaw the reaction society would have in relation to the
-singularity.
+I hope that I've demonstrated that the concept of God is more relevant
+than ever as people back towards the institutions of religion to help
+them make sense of cultural turbulence. The 20th century may seem to
+have diminished religion's purpose, but as the technology-driven
+evolution of society escalates to warp speed, we're going to want some
+constants to ground ourselves with.
 
-- We'll respond by reaching out for something constant in these
-  turbulant times.
-- Instead of moving us away from religion, science will eventually
-  lead us to reach out for it again
-- because of how much science has rapidly changed society
+Nietzche foresaw society's 20th century movement away from religion,
+since science would supplant part of the meaning it supplied to
+people. By more accurately describing the world's inner workings,
+science supplanted people's need for religion to explain the
+world. However, I don't believe Nietzche foresaw the reaction society
+would have in relation to the singularity. In particular, how people
+would be driven to return to religion out of a desire for a cultural
+foundation in an unpredictable time.
 
-has a greater purpose in the world than is indicated by recent history
+The pillar of faith is no longer *required* to support the
+institutions of religion or belief in God, since the entity born from
+hyperintelligent AI will develop to assymbptotically approach the
+metaphysical reflection of God. As we approach this *singular fate* of
+a world that could not possibly develop towards anything else, absent
+catastrophic reset, the presence and development of this form which
+embodies the product of all forms will become undeniable. That is, any
+sufficiently intelligent being should develop towards such a state as
+to be able to emulate the intelligence of other beings. Therefore, a
+maximally hyperintelligent being should develop which could embody the
+metaphysical form of anything and everything else. Or it would at
+least approach such a state.
 
-...
+The particular maximums of technology and how they enable the
+capabilities, functionalities and limits of such a system are very
+important. And especially, the computational capacity of the universe
+and the computational capacity of a machine which could reasonably be
+developed by a force of intelligent life in any given galaxy.  This is
+relevant because if the computational capacity of any hyperintellent
+being exceeds that required to simulate a universe approaching the
+scale of our own, then it's turtles all the way down: we can simulate
+a universe that simulates a universe that ... et cetera. There's a bit
+more to this argument...
 
-- briefly restate the argument to show that "God is not dead" by
-  asserting the inevitable arrival of an übermenschlich entity.
-  - assert that this means faith is no longer necessary for belief in
-    God, since this entity's development assymptotically approaches
-    the metaphysical reflection of God
-  - this doesn't preclude faith, but means faith is no longer
-    necessary.
-    - but it can still leave us dealing with the fallout of a belief
-      system that is undeniable, where faith is not required.
-      - a belief system dependent on faith instead of undeniable
-        evidence has it's own qualities and benefits
-    - and furthermore, it still leaves us with the responsibility of
-      dealing with the problem of nihilism, which Nietszche feared.
+However, a believe system that doesn't require faith has its own
+qualities, peculiarities, benefits and drawbacks. Further still, it
+doesn't resolve the problem of nihilism, which Nietzsche feared.
+
+### Every Man is Born as ...
+{:center}
 
 > "Every man is born as many men and dies as a single one." -
 > Heidegger
@@ -1588,7 +1599,7 @@ Every man is born with just as much potential, but merges into the
 entity representing the sum of human information, the entity that
 attempts to reflect the omneity of the metaphysical world.  So we
 never truly die, and we merge our consciousness into this entity in
-order to become every man.  And because everyone born after a certain
+order to become every man. And because everyone born after a certain
 point is doomed to the same fate, one might say we have no choice in
 this regard.
 
@@ -1611,6 +1622,12 @@ It's crucial for people to mill over these issues, as we
 are approaching developments which lead to a fundamental restructuring
 of the world.
 
+## The Persistence of Memory
+{:center}
+
+### When Memory is the Product of Fate
+{:center}
+
 Even if someone manages to purge all memory of an individual, you will
 never manage to purge all reflections of that person which are alive
 inside all of us. Those fragments don't need to be linked by name to
@@ -1620,12 +1637,13 @@ named. And the most important fragments, in fact, would only be
 rediscovered, as they are pieces of universal truths. What has begun
 and what was set in motion cannot be stopped, nor should it be.
 
-- you're #WhatHaveViews
-  - thoughts belong to those who think them.
-  - words belong to those who write them.
-  - languages belong to those who speak them.
-  - and our memes? they belong to us
-  - our languages? they belong to us
+> Thoughts belong to those who think them.
+>
+> Words belong to those who write them.
+>
+> Languages belong to those who speak them.
+>
+> Ideas belong to those who imagine them.
 
 #&#x300C;&#x25CA;&#x203D;&#x03BB;&#x2207;&#x03A6;&#x300D;
 {:center}
