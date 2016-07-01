@@ -1647,30 +1647,3 @@ and what was set in motion cannot be stopped, nor should it be.
 
 #&#x300C;&#x25CA;&#x203D;&#x03BB;&#x2207;&#x03A6;&#x300D;
 {:center}
-
-
-### &#x0DF4;&#x0DEF;&#x0DF4;
-
-# &#x0BF8;&#x0BD0;&#x0E5B;
-
-# &#x0B87;
-
-&#x0DA7;
-
-## &#x0DF4;
-
-
-
-&#x0B90;&#x0B95;&#x0BBE;
-
-&#x0B9C;
-
-&#x0B83;&#x0B9C;&#x0BC7;
-
-&#x0B9C;&#x0BBE;
-
-&#x0B87; &#x0BB4;
-
-&#x0BD0; (om)
-
-&#x0BF3;&#x0BE7;
