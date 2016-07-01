@@ -39,7 +39,7 @@ disconnected from the cultural paths which led there.
 ### Mercurial Cultural Deconstruction
 
 Elements of our culture will shift beneath us as we stand transfixed
-in a stuporous awe of the lightning-fast transition of other cultural
+in stuporous awe of the lightning-fast transition of other cultural
 elements.  In other words, our attention will be in the wrong place
 and we won't see potential problems until they have saturated the
 younger generations.  Each decade of youth will be increasingly
@@ -77,13 +77,13 @@ Without sets of archetypical fixpoints shared across large groups of
 our society, without regard to class or ethnicity, we are going to
 quickly find ourselves lost in the future. The basis for belief
 systems formed by science is completely detached from anything
-permenant. Like Ouroboros, it always cyclicly consuming itself: newer
-beliefs in the basis superceeding older beliefs and the resulting
+permenant. Like Ouroboros, it is always cyclicly consuming itself:
+newer beliefs in the basis supercede older beliefs and the resulting
 belief structure representing science's extrapolated sphere of
-knowledge is constantly recalculated, then distributed. While this
-process continues to accelerate, then the costs to cultural stability
-will increase just as steadily. So we need these fixpoints to ground
-our culture in something.
+knowledge is constantly recalculated and constantly redistributed.
+While this process continues to accelerate, then the costs to cultural
+stability will increase just as steadily. So we need these fixpoints
+to ground our culture in something.
 
 ### Differential Singularity
 
@@ -104,8 +104,9 @@ discoveries occur: this is the nature of the singularity.  On the
 other hand, many of these technologies are incredibly dangerous and,
 thus, the desire to wall these techs off is justified.  It is because
 of this that the likelihood that a small faction of people would abuse
-the differential singularity is all the more likely: because if they
-did, who would know about it?
+the differential singularity is all the more probable: because if they
+did, they could justify it to those around them while keeping it
+secret from most of us.
 
 ### I'm Still Searching
 
