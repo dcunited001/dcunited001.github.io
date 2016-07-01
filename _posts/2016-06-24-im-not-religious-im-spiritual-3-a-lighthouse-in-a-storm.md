@@ -1637,13 +1637,17 @@ named. And the most important fragments, in fact, would only be
 rediscovered, as they are pieces of universal truths. What has begun
 and what was set in motion cannot be stopped, nor should it be.
 
-> Thoughts belong to those who think them.
->
-> Words belong to those who write them.
->
-> Languages belong to those who speak them.
->
-> Ideas belong to those who imagine them.
-
 #&#x300C;&#x25CA;&#x203D;&#x03BB;&#x2207;&#x03A6;&#x300D;
+{:center}
+
+Thoughts belong to those who think them.
+{:center}
+
+Words belong to those who write them.
+{:center}
+
+Languages belong to those who speak them.
+{:center}
+
+Ideas belong to those who imagine them.
 {:center}
