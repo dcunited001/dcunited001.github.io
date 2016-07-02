@@ -19,6 +19,36 @@ article about predictive medicine and CYP450
   programming theory of metanomics
   - neural fingerprints
 
+metanomics and probabilistic programming
+- mapping out tissue networks in the human body using MRI (diffusion
+  tensor imaging) + Yoga.
+  - need to be able to map various spaces together
+  - the yoga postures cause different blood flow patterns
+  - statistical resolution should allow us to map out tissues by
+    looking at networks of small veins and arteries down to
+    capillaries
+- this should revolutionize cancer treatments because you can tailor
+  someone's treatment plan to target specific networks of tissues
+  - you can know that if you take out a set of tissue subnetworks,
+    that you have taken out all of the branches leading to them
+  - if the cancer is confined to that area, then you can know that
+    there's a much smaller chance of it coming back
+    - you have annihilated the tissue 'feeding' the cancer
+    - so therefore, there should be a much lower chance of it
+      returning
+- this is like a "connectome" for probabilistic programming
+  - the connectome is the highest level of tissue interconnection, but
+    is stratified itself, as it's a tree
+  - the brain has a connectome and this can be observed by using
+    diffusion tensor imaging and some learning
+  - but the yoga in the methodology inserts some known level of
+    variance into the system of veins/arteries for specific areas of
+    the body
+  - those areas get more blood and open up
+    - the MRI images can be sewn together and with enough imaging
+    - then a highly accurate model of the connectome for the brain and
+      other organs can be constructed
+
 part one: introduction:
 
 - what is probabilistic programming
