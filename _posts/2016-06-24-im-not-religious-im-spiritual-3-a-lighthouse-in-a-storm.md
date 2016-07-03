@@ -371,11 +371,12 @@ inferences, so it's important to keep that in mind.
 So, for example, it would be possible for people to foresee that
 overpopulation was the inevitable result of population growth, given
 two things: exponential growth and the spherical, and thus limited,
-shape of the earth. In fact, Ancient people were all to familiar with
+shape of the earth. In fact, Ancient people were all too familiar with
 constraints on their life imposed by overpopulation and the effects it
-had on society.  Their building heights were limited to a few stories
-and their lack of technology meant that food production was
-limited.
+had on society.  Their urban development was limited to buildings a
+few stories tall and their lack of technology meant that food
+production was limited.
+
 
 Further still, they may have been able to at least imagine how things
 would unfold in future events by specifying what those limitations
@@ -408,8 +409,8 @@ been resolved. We can learn about it, but most of us never have any a
 postieri development of ideas which are structured independently of
 those foundations. I think there is tremendous value in developing our
 own thoughts, but because it's so difficult to do so once we're
-exposed to superior means of framing philosophical questions, we never
-have that chance.
+exposed to superior means of framing philosophical questions. So we
+never have that chance.
 
 And we perceive these ancient people to be ignorant because they lacked
 technology when actually our way of life almost completely clouds our
@@ -468,7 +469,7 @@ else define me or speak for me. Though, honestly, letting someone else
 speak for me probably wouldn't be too bad. However, I have been
 victimized in the workplace by a handful of people and I just sat idly
 by, not wanting to say anything wrong or worried that I'd sink to
-their level. And I just sat there, while they made my life miseraable;
+their level. And I just sat there, while they made my life miserable;
 they ruined my life and I just sat there!  They obliterated any
 confidence anyone had in my in my workplace and they did so in a
 calculated, strategic manner.
@@ -614,8 +615,8 @@ machine that facilitates undercover activity, then the connections
 will difficult to perceive.  If you're fighting a surveillance
 apparatus, then you may need to be aware that they have information
 you never disclosed to anyone.  If someone has information that you
-have never disclosed to anyone or they have information that you ONLY
-EVER disclosed to one person, that's a major red flag.
+have never disclosed to anyone or they have information that you only
+ever disclosed to one person, that's a major red flag.
 
 <a name="everything-has-a-purpose"/>
 
@@ -834,11 +835,11 @@ who's going to be struggling to perform their job *AND* suffer the
 most, emotionally? If the toxic employee is trained in psychology and
 compels the other employee to constantly switch from focusing on
 analytical issues to emotional issues, do you think they will appear
-to get much done? NO!  It will burn out their brain with stress. *AND
-GODDAMIT I MEAN IT WILL LITERALLY, CHEMICALLY BURN OUT THEIR BRAIN!*
-As in, lasting, permanent, chemical and neurological damage. In
-particular, stress damages the hippocampus.  Enough of this -- I.E. 5+
-years -- and that person might find it hard to function again, ever!
+to get much done? NO!  It will burn out their brain with stress. And I
+mean it will literally chemically burn out their brain. As in,
+lasting, permanent, chemical and neurological damage. In particular,
+stress damages the hippocampus.  Enough of this -- I.E. 5+ years --
+and that person might find it hard to function again, ever!
 
 Worse still, how do you think that compelling little stazis to
 psychologically torment people on a government list would affect the
@@ -919,12 +920,9 @@ Networks and this should invite us to investigate why.
 ## [&#x2182; Meditation](#meditation)
 
 Meditation or extended, focused prayer can bring calmness to your mind
-and partially reset its state.
-
-- often, meditation or relaxation or extended, focused prayer can
-  bring calmness to your mind and somewhat reset it's state
-  - this can alleviate anxiety or bring the clarity needed for insight
-  - this same feeling can come from playing music or
+and partially reset its state. This can alleviate anxiety or bring
+clarity needed for insight.  This same feeling can come from playing
+music or from pretty much anything that focuses one part of your mind.
 
 <a name="always-keep-searching"/>
 
@@ -951,8 +949,6 @@ which describes how a specific skill might contribute towards your
 mental faculties. This is a great series to read, if you're the kind
 of person who is always trying to improve yourself. There are two or
 three parts outlined, but unwritten.
-
-...
 
 <a name="never-stop-stopping"/>
 
@@ -1001,8 +997,7 @@ life, self-knowledge fulfills the same purpose.  If everything can be
 defined in terms of it's relationships to everything else, then
 learning about ourselves is one of the best ways of learning about the
 world.  And apropos that, to understand ourselves, to define
-ourselves, we must learn as much about the world as
-possible.
+ourselves, we must learn as much about the world as possible.
 
 Meditation, retreat into nature, introspection, philosophy and
 education are great ways to learn about ourselves. Academia, language,
@@ -1027,24 +1022,24 @@ thing you know, Dorothy's on a transformative journey down the yellow
 brick road with three unworthy companions and a chorus full of little
 people.
 
-Studying karma is a study of causality -- I think! but I am no expert
-here. It seems that you must understand yourself and others and each
-person's current place in the world.  There's always a myriad of
-details that follow each action. It may seem that there is no other
-way, but there is always another way.  There is always a better
-way. If it seems that one situation requires a course of action that
-is too difficult, then we are not yet skilled enough.  We need to
-observe more and reflect more before we act.
+Studying karma is a study of causality -- I think! though I've never
+studied it in an official capacity. It seems that you must understand
+yourself and others and each person's current place in the world.
+There's always a myriad of details that follow each action. It may
+seem that there is no other way, but there is always another way.
+There is always a better way. If it seems that one situation requires
+a course of action that is too difficult, then we are not yet skilled
+enough.  We need to observe more and reflect more before we act.
 
 <a name="devine-connection"/>
 
 ## [&#x2182; Devine Connection](#devine-connection)
 
 We each have a connection to the divine. This is a concept from
-gnosticism. Whether this connection is viewed
-as ordinary or supernatural, I believe it is there and that some are
-more in tune than others. It's something we can exercise through
-reflection and medititation.
+gnosticism. Whether this connection is viewed as ordinary or
+supernatural, I believe it is there and that some are more in tune
+than others. It's something we can exercise through reflection and
+medititation.
 
 It is a divine spark that can be ignited by others. It is an eternal
 flame that can be that can be suppressed by others, perhaps completely
