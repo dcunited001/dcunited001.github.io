@@ -8,6 +8,17 @@ author:
 excerpt: ""
 ---
 
+
+### TODO
+
+- split into separate files
+- organize the first article
+- find pictures. make content visual & relatable
+  - for an esoteric topic lol
+- find articles & papers for P450 (inducers, stats, etc)
+
+###
+
 note that
 [article](https://www.quantamagazine.org/20160630-how-does-life-come-from-randomness/)
 about self-organizing entropy forming life
@@ -203,12 +214,9 @@ explain spatially distributed state at a high level
     - but it should be possible to describe some behaviors and
       tendancies that could not be explained before
 
-
-
 mapping out tissue networks in the body
 - various kinds of "addressing" systems for communication between cell
   networks.
-
 - cover introduction to ideas in general
 
 ### Maximums for Information Processing, Networks, etc
@@ -265,7 +273,6 @@ author:
   name: "David Conner"
 excerpt: ""
 ---
-
 
 # Part: Two
 
