@@ -12,7 +12,7 @@ note that
 [article](https://www.quantamagazine.org/20160630-how-does-life-come-from-randomness/)
 about self-organizing entropy forming life
 
-
+### Metanomics
 
 intro
 - explain higher level organization of *-nomics
@@ -35,196 +35,6 @@ intro
     - then you can observe/detect that precancerous phenotype and deal
       with it more quickly/safely/effectively, etc
     - by scanning for aberrations in tissue type
-- how should the methodologies of science be expanded to pick up on
-  the data that would indicate the need for this theory?
-  - expanding a genetic map to a map that includes methylation data
-  - collecting the dna-methylation data
-    - attaching tissue network address data to dna-methylation
-      - and especially its variation
-  - faster algorithms for genomic processing
-    - more efficient data storage/collection
-
-explain spatially distributed state at a high level
-- hierarchically distributed state
-- physical distribution of cells imparts some higher order
-  hierarchical distribution of state (than just cellular)
-  - e.g. groupings of cell types, blood brain barrier
-- physical channels as mediation of state
-  - veins/lymph system in an optimal state, will provide some optimal
-    opportunity for exchange of state between tissues
-  - ventricular system in the brain (need to look into details here)
-
-part one: introduction:
-
-- what is probabilistic programming
-  - explain PP languages that are being explored
-  - and why the research is being done (promising for machine learning
-    & ai)
-- explain what makes something a program
-  - trees/loops
-  - explain how it's hard for people to see how a set of probabilities
-    - can lead to something with behaviors like a program
-    - powersets of interactions, etc, etc
-  - cells can even use metaprogramming
-- list current models for biological behavior that this model
-  -circumscribes
-- what's the difference between current models and this paradigm for
-  genetic behavior?
-  - this model not only explains how genetics works in the nucleus,
-    which directs operations of the cell
-    - but also explains cytoplasmic interactions and
-      cytoplasmic-nuclear interactions
-      - that is, spatially distributed state extends beyond the
-        nucleus
-    - it also can help explain inter-cellular interactions
-      - caused by chemical messengers (hormones & proteins)
-      - or caused by more global change in state (pH, hydration)
-      - or caused by more local change in state (changes across
-        specific organs)
-    - it can also explain inter-chromosome behaviors
-  - current models seem limited to describing interactions between
-    related genes
-    - they don't describe how different chromosomes interact
-    - they are overly simplistic in describing how protein products of
-      genes interact
-    - describing how controlling spaces within the cell and nucleus
-      - are totally out of scope for current models
-  - the probabilistic programming paradigm for genetic behavior is
-    more complete
-    - this makes it more complicated, but also simpler at the same
-      time
-    - basically, for each gene, protein, nucleoulus, transcriptome,
-      cell, group of cells, organ, body, etc
-      - there are a sets of functions that can be executed, each with
-        a probability
-        - executing the function changes the local state, which in the
-          case of genetics is spatially distributed
-    - looking at the complete picture while resolving the most minute
-      details and interactions
-      - is probably impossible, as you have to consider powersets of
-        interactions and behaviors
-    - but it should be possible to describe some behaviors and
-      tendancies that could not be explained before
-
-
-mapping out tissue networks in the body
-- various kinds of "addressing" systems for communication between cell
-  networks.
-
-- cover introduction to ideas in general
-
-- abstract idea of a maximum of addressable behaviors that is
-  'conveniently-accessible' enough in some way, forming a maximum in
-  programmable genetic behavior
-  - because the space can't manage the information complexity without
-    causing problems in it's dependable executablility
-- giving way to a need for multi-karyotic cells
-- lead into brief discussion on how this limit is another form of a
-  mathematical limit imposed on computers as well
-  - that is a maximum per-node limit for transformations or
-    extensibility
-  - imposing various computational maximum for behavior
-    - spatial limits (a computer any bigger would create a black hole)
-    - per-node mathematic limits
-    - network bottleneck/overhead limits
-  - this implies the existance of several hard limits for computation
-
-part two: spatially distributed state
-- explain what I mean by spatially distributed state
-- transciptomes and nucleolus
-  - use Process/Program & OS metaphors to describe these
-
-
-(re)-explain spatially distributed state at a high level
-- && hierarchically distributed state
-- && physical distribution of cells imparts some higher order
-  hierarchical distribution of state (than just cellular)
-  - e.g. groupings of cell types, blood brain barrier
-- && physical channels as mediation of state
-  - && veins/lymph system in an optimal state, will provide some
-    optimal opportunity for exchange of state between tissues
-  - && ventricular system in the brain (need to look into details
-    here)
-
-part ??: metaprogramming
-- some cells modify their own genomes to augment behaviors
-  - genomic process for copy & pasted genes
-    - is there a genomic mechnanism for preventing bad writes?
-    - some writes would have almost no effect on genetic expression of
-      critical factors
-    - some writes would be disastrous for that generation or the
-      subsequent generation
-    - some writes would be disastrous for all subsequent generations
-      of cells
-- or modify the available mRNA & their rates of transcription into
-  protein products
-  - miRNA, piRNA?
-    - these ramp up or inhibit the available mRNA's that are to be
-      produced into protein products
-
-establish the overall theme and tie each part back to how it
-reinforces this theme
-- genetics is a program where loops and trees of behavior can be
-  predictably triggered
-  - so go through examples from epigenetics and explain how they
-    reinforce/demostrate/utilize this idea
-
-how to structure this series of articles?
-
-article about predictive medicine and CYP450
-- this article might be a good start for probabilistic theory
-  - but how to measure this?
-  - explain why the expression of genetics has a much greater effect
-    than the encoding of alleles in the genes, usually
-
-- hmmmmm, there was like one other example of probabilistic
-  programming theory of metanomics
-  - neural fingerprints
-
-metanomics and probabilistic programming
-- mapping out tissue networks in the human body using MRI (diffusion
-  tensor imaging) + Yoga.
-  - need to be able to map various spaces together
-  - the yoga postures cause different blood flow patterns
-  - statistical resolution should allow us to map out tissues by
-    looking at networks of small veins and arteries down to
-    capillaries
-- this should revolutionize cancer treatments because you can tailor
-  someone's treatment plan to target specific networks of tissues
-  - you can know that if you take out a set of tissue subnetworks,
-    that you have taken out all of the branches leading to them
-  - if the cancer is confined to that area, then you can know that
-    there's a much smaller chance of it coming back
-    - you have annihilated the tissue 'feeding' the cancer
-    - so therefore, there should be a much lower chance of it
-      returning
-- this is like a "connectome" for probabilistic programming
-  - the connectome is the highest level of tissue interconnection, but
-    is stratified itself, as it's a tree
-  - the brain has a connectome and this can be observed by using
-    diffusion tensor imaging and some learning
-  - but the yoga in the methodology inserts some known level of
-    variance into the system of veins/arteries for specific areas of
-    the body
-  - those areas get more blood and open up
-    - the MRI images can be sewn together and with enough imaging
-    - then a highly accurate model of the connectome for the brain and
-      other organs can be constructed
-
-
-
-
----
-title: "Metanomics & Probabilistic Programming: Cytochrome P450"
-categories: blog
-tags: "genomics epigenetics"
-headline: ""
-author:
-  name: "David Conner"
-excerpt: ""
----
-
-
 
 ### Changes in Cytochrome 450 from long term drug usage
 
@@ -307,9 +117,215 @@ excerpt: ""
         actions you take matter.  the fate of your health is not
         predetermined.
 
-
 - [Cytochrome]()
 - [Buproprion](https://en.wikipedia.org/wiki/Bupropion)
+
+- how should the methodologies of science be expanded to pick up on
+  the data that would indicate the need for this theory?
+  - expanding a genetic map to a map that includes methylation data
+  - collecting the dna-methylation data
+    - attaching tissue network address data to dna-methylation
+      - and especially its variation
+  - faster algorithms for genomic processing
+    - more efficient data storage/collection
+
+explain spatially distributed state at a high level
+- hierarchically distributed state
+- physical distribution of cells imparts some higher order
+  hierarchical distribution of state (than just cellular)
+  - e.g. groupings of cell types, blood brain barrier
+- physical channels as mediation of state
+  - veins/lymph system in an optimal state, will provide some optimal
+    opportunity for exchange of state between tissues
+  - ventricular system in the brain (need to look into details here)
+
+### Probabilistic Programming for Computers
+
+- what is probabilistic programming
+  - explain PP languages that are being explored
+  - and why the research is being done (promising for machine learning
+    & ai)
+- explain what makes something a program
+  - trees/loops
+  - explain how it's hard for people to see how a set of probabilities
+    - can lead to something with behaviors like a program
+    - powersets of interactions, etc, etc
+  - cells can even use metaprogramming
+- list current models for biological behavior that this model
+  -circumscribes
+
+- what's the difference between current models and this paradigm for
+  genetic behavior?
+  - this model not only explains how genetics works in the nucleus,
+    which directs operations of the cell
+    - but also explains cytoplasmic interactions and
+      cytoplasmic-nuclear interactions
+      - that is, spatially distributed state extends beyond the
+        nucleus
+    - it also can help explain inter-cellular interactions
+      - caused by chemical messengers (hormones & proteins)
+      - or caused by more global change in state (pH, hydration)
+      - or caused by more local change in state (changes across
+        specific organs)
+    - it can also explain inter-chromosome behaviors
+  - current models seem limited to describing interactions between
+    related genes
+    - they don't describe how different chromosomes interact
+    - they are overly simplistic in describing how protein products of
+      genes interact
+    - describing how controlling spaces within the cell and nucleus
+      - are totally out of scope for current models
+  - the probabilistic programming paradigm for genetic behavior is
+    more complete
+    - this makes it more complicated, but also simpler at the same
+      time
+    - basically, for each gene, protein, nucleoulus, transcriptome,
+      cell, group of cells, organ, body, etc
+      - there are a sets of functions that can be executed, each with
+        a probability
+        - executing the function changes the local state, which in the
+          case of genetics is spatially distributed
+    - looking at the complete picture while resolving the most minute
+      details and interactions
+      - is probably impossible, as you have to consider powersets of
+        interactions and behaviors
+    - but it should be possible to describe some behaviors and
+      tendancies that could not be explained before
+
+mapping out tissue networks in the body
+- various kinds of "addressing" systems for communication between cell
+  networks.
+
+- cover introduction to ideas in general
+
+- abstract idea of a maximum of addressable behaviors that is
+  'conveniently-accessible' enough in some way, forming a maximum in
+  programmable genetic behavior
+  - because the space can't manage the information complexity without
+    causing problems in it's dependable executablility
+- giving way to a need for multi-karyotic cells
+- lead into brief discussion on how this limit is another form of a
+  mathematical limit imposed on computers as well
+  - that is a maximum per-node limit for transformations or
+    extensibility
+  - imposing various computational maximum for behavior
+    - spatial limits (a computer any bigger would create a black hole)
+    - per-node mathematic limits
+    - network bottleneck/overhead limits
+  - this implies the existance of several hard limits for computation
+
+# Part: Two
+
+can transition from talking about tissue networks
+- viewing tissue networks at various levels of scale
+- behaviour determined by electrical fields
+  - by a genomic, biochemical homonculus
+  - a homonculus is your mental representation of your body,
+    - with respect to various other mental faculties, like tactile
+      sense, motion or prioperception
+  - but there should be a genomic, biochemical homunculus which
+    chemically drives the development of the nerves which drive
+    electric impulses that determine tissue behaviors
+    - that is, there should be some imprint of this in the
+      genome/epigenome
+
+## Spatially Distributed State
+
+- is there a good example from the epigenetics class?
+- explain what I mean by spatially distributed state
+- transciptomes and nucleolus
+  - use Process/Program & OS metaphors to describe these
+
+(re)-explain spatially distributed state at a high level
+- && hierarchically distributed state
+- && physical distribution of cells imparts some higher order
+  hierarchical distribution of state (than just cellular)
+  - e.g. groupings of cell types, blood brain barrier
+- && physical channels as mediation of state
+  - && veins/lymph system in an optimal state, will provide some
+    optimal opportunity for exchange of state between tissues
+  - && ventricular system in the brain (need to look into details
+    here)
+
+part ??: metaprogramming
+- some cells modify their own genomes to augment behaviors
+  - genomic process for copy & pasted genes
+    - is there a genomic mechnanism for preventing bad writes?
+    - some writes would have almost no effect on genetic expression of
+      critical factors
+    - some writes would be disastrous for that generation or the
+      subsequent generation
+    - some writes would be disastrous for all subsequent generations
+      of cells
+- or modify the available mRNA & their rates of transcription into
+  protein products
+  - miRNA, piRNA?
+    - these ramp up or inhibit the available mRNA's that are to be
+      produced into protein products
+
+establish the overall theme and tie each part back to how it
+reinforces this theme
+- genetics is a program where loops and trees of behavior can be
+  predictably triggered
+  - so go through examples from epigenetics and explain how they
+    reinforce/demostrate/utilize this idea
+
+how to structure this series of articles?
+
+article about predictive medicine and CYP450
+- this article might be a good start for probabilistic theory
+  - but how to measure this?
+  - explain why the expression of genetics has a much greater effect
+    than the encoding of alleles in the genes, usually
+
+- hmmmmm, there was like one other example of probabilistic
+  programming theory of metanomics
+  - neural fingerprints
+
+### Metanomics and Tissue Networks
+
+#### Diffusion Tensor Imaging and Tissue Maps
+
+metanomics and probabilistic programming
+- mapping out tissue networks in the human body using MRI (diffusion
+  tensor imaging) + Yoga.
+  - need to be able to map various spaces together
+  - the yoga postures cause different blood flow patterns
+  - statistical resolution should allow us to map out tissues by
+    looking at networks of small veins and arteries down to
+    capillaries
+- this should revolutionize cancer treatments because you can tailor
+  someone's treatment plan to target specific networks of tissues
+  - you can know that if you take out a set of tissue subnetworks,
+    that you have taken out all of the branches leading to them
+  - if the cancer is confined to that area, then you can know that
+    there's a much smaller chance of it coming back
+    - you have annihilated the tissue 'feeding' the cancer
+    - so therefore, there should be a much lower chance of it
+      returning
+- this is like a "connectome" for probabilistic programming
+  - the connectome is the highest level of tissue interconnection, but
+    is stratified itself, as it's a tree
+  - the brain has a connectome and this can be observed by using
+    diffusion tensor imaging and some learning
+  - but the yoga in the methodology inserts some known level of
+    variance into the system of veins/arteries for specific areas of
+    the body
+  - those areas get more blood and open up
+    - the MRI images can be sewn together and with enough imaging
+    - then a highly accurate model of the connectome for the brain and
+      other organs can be constructed
+
+
+---
+title: "Metanomics & Probabilistic Programming: Cytochrome P450"
+categories: blog
+tags: "genomics epigenetics"
+headline: ""
+author:
+  name: "David Conner"
+excerpt: ""
+---
 
 
 - probabilistic programming languages
