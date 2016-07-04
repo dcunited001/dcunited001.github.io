@@ -2,7 +2,7 @@
 title: "Metanomics & Probabilistic Programming: Intro"
 categories: blog
 tags: "genomics epigenetics"
-headline: "What Cytochrome-P450 Enzymes Imply for Predictive Medicine"
+headline: "What Do Cytochrome-P450 Enzymes Imply for Predictive Medicine"
 author:
   name: "David Conner"
 excerpt: ""
@@ -12,13 +12,35 @@ note that
 [article](https://www.quantamagazine.org/20160630-how-does-life-come-from-randomness/)
 about self-organizing entropy forming life
 
-### Metanomics
+## Metanomics Intro
 
 intro
 - explain higher level organization of *-nomics
   - reference notes from Pavel Pevzner's lecture
 - lead into metagenomics
 - also explain it in relation to probabilistic programming
+
+- how should the methodologies of science be expanded to pick up on
+  the data that would indicate the need for this theory?
+  - expanding a genetic map to a map that includes methylation data
+  - collecting the dna-methylation data
+    - attaching tissue network address data to dna-methylation
+      - and especially its variation
+  - faster algorithms for genomic processing
+    - more efficient data storage/collection
+
+explain spatially distributed state at a high level
+- hierarchically distributed state
+- physical distribution of cells imparts some higher order
+  hierarchical distribution of state (than just cellular)
+  - e.g. groupings of cell types, blood brain barrier
+- physical channels as mediation of state
+  - veins/lymph system in an optimal state, will provide some optimal
+    opportunity for exchange of state between tissues
+  - ventricular system in the brain (need to look into details here)
+
+### Value Proposition Summary
+
 - make a value proposition to describe the value in theorizing about
   metanomics in this way
   - it's value is in evaluating/modeling technologies for
@@ -35,6 +57,11 @@ intro
     - then you can observe/detect that precancerous phenotype and deal
       with it more quickly/safely/effectively, etc
     - by scanning for aberrations in tissue type
+
+#### Transition into P450
+
+- the section on P450 needs to be towards the end of the article
+  - so that there's plenty of space to overview everything
 
 ### Changes in Cytochrome 450 from long term drug usage
 
@@ -120,24 +147,8 @@ intro
 - [Cytochrome]()
 - [Buproprion](https://en.wikipedia.org/wiki/Bupropion)
 
-- how should the methodologies of science be expanded to pick up on
-  the data that would indicate the need for this theory?
-  - expanding a genetic map to a map that includes methylation data
-  - collecting the dna-methylation data
-    - attaching tissue network address data to dna-methylation
-      - and especially its variation
-  - faster algorithms for genomic processing
-    - more efficient data storage/collection
+## Metanomics x Probabilistic Programming
 
-explain spatially distributed state at a high level
-- hierarchically distributed state
-- physical distribution of cells imparts some higher order
-  hierarchical distribution of state (than just cellular)
-  - e.g. groupings of cell types, blood brain barrier
-- physical channels as mediation of state
-  - veins/lymph system in an optimal state, will provide some optimal
-    opportunity for exchange of state between tissues
-  - ventricular system in the brain (need to look into details here)
 
 ### Probabilistic Programming for Computers
 
@@ -192,17 +203,48 @@ explain spatially distributed state at a high level
     - but it should be possible to describe some behaviors and
       tendancies that could not be explained before
 
+
+
 mapping out tissue networks in the body
 - various kinds of "addressing" systems for communication between cell
   networks.
 
 - cover introduction to ideas in general
 
+### Maximums for Information Processing, Networks, etc
+
+- discuss the maximums encountered here and how they arise
+  - arises when various layers of metanomic networks become too large
+  - a limit is encountered with chromosomes
+    - you can't have 1,000 or 10,000 chromosomes executing one program
+    - in order to function, the system needs for specific behaviors to
+      be executed dependably without any outside manipulation or state
+      modification
+    - but if there are 1,000 chromosomes in a nucleus, you can't
+      guarantee adjacency of anything.
+      - whereas, with 23 chromosomes, you can almost guarantee that
+        all of the chromosomes will be relatively adjacent
+  - there are other similar limits encountered
+  - for example, if you have several chromosomes that are 1,000x the
+    "normal" length, then it becomes very difficult
+
+** need to resolve **
+
+- the problem is describing where these limits come into play and
+  where they actually matter
+  - how to break down the distinctions between these limits
+    - many of them aren't "limits" per se.
+    - they are idealistic maximums, where exceeding the number
+      produces a diminishing effect in the networks
+  - but when pairs/tuples of these limits are compared, exceeding any
+    two of them for a tuple may cause the entire system to break down
+
 - abstract idea of a maximum of addressable behaviors that is
   'conveniently-accessible' enough in some way, forming a maximum in
   programmable genetic behavior
   - because the space can't manage the information complexity without
     causing problems in it's dependable executablility
+  - what to call this concept? ... ergodic network maximum (?)
 - giving way to a need for multi-karyotic cells
 - lead into brief discussion on how this limit is another form of a
   mathematical limit imposed on computers as well
@@ -213,7 +255,6 @@ mapping out tissue networks in the body
     - per-node mathematic limits
     - network bottleneck/overhead limits
   - this implies the existance of several hard limits for computation
-
 
 ---
 title: "Metanomics & Probabilistic Programming: Spatially-Distributed State"
