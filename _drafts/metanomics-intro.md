@@ -1,19 +1,18 @@
-dna-as-probabilistic-program.md
-
-
 ---
 title: "Metanomics & Probabilistic Programming: Intro"
 categories: blog
 tags: "genomics epigenetics"
-headline: ""
+headline: "What Cytochrome-P450 Enzymes Imply for Predictive Medicine"
 author:
   name: "David Conner"
 excerpt: ""
 ---
 
-that
+note that
 [article](https://www.quantamagazine.org/20160630-how-does-life-come-from-randomness/)
 about self-organizing entropy forming life
+
+
 
 intro
 - explain higher level organization of *-nomics
@@ -32,7 +31,7 @@ intro
   - what diseases can be better modeled and how? why?
     - tracing the "epigenotypes" of cancer back through several
       pre-cancerous epigenomic states, which have an observable
-      phenotype
+      phenotype (mri imaging, etc.)
     - then you can observe/detect that precancerous phenotype and deal
       with it more quickly/safely/effectively, etc
     - by scanning for aberrations in tissue type
