@@ -214,6 +214,18 @@ mapping out tissue networks in the body
     - network bottleneck/overhead limits
   - this implies the existance of several hard limits for computation
 
+
+---
+title: "Metanomics & Probabilistic Programming: Spatially-Distributed State"
+categories: blog
+tags: "genomics epigenetics"
+headline: ""
+author:
+  name: "David Conner"
+excerpt: ""
+---
+
+
 # Part: Two
 
 can transition from talking about tissue networks
@@ -247,7 +259,36 @@ can transition from talking about tissue networks
   - && ventricular system in the brain (need to look into details
     here)
 
-part ??: metaprogramming
+
+spatially distributed state in the nucleus
+- when operations are quick and repetitive, then modified state
+  quickly accumulates around the source of events
+  - there is also an offset effect, where the surrounding chemical
+    messengers are crowded outwards and there are physical effects
+    on the solution (osmosis, pressure, etc.)
+- what other ways can genetic programs execute and alter state,
+  locally?
+
+
+
+---
+title: "Metanomics & Probabilistic Programming: Epigenomic Metaprogramming"
+categories: blog
+tags: "genomics epigenetics"
+headline: ""
+author:
+  name: "David Conner"
+excerpt: ""
+---
+
+
+# Part ??:
+
+## Metaprogramming
+
+- is there a good example from the epigenetics class?
+- again, another good example?
+
 - some cells modify their own genomes to augment behaviors
   - genomic process for copy & pasted genes
     - is there a genomic mechnanism for preventing bad writes?
@@ -317,18 +358,9 @@ metanomics and probabilistic programming
       other organs can be constructed
 
 
----
-title: "Metanomics & Probabilistic Programming: Cytochrome P450"
-categories: blog
-tags: "genomics epigenetics"
-headline: ""
-author:
-  name: "David Conner"
-excerpt: ""
----
+# probabilistic programming languages
 
 
-- probabilistic programming languages
 - structure => function && function => structure
 
 - ergodics and other tools for modeling state transformations
@@ -396,7 +428,8 @@ distinctions between genetic programs and computer programs
   - and the dependency tree of differentiated cell types is likely
     very flat as well
 
-implications of mitotic heritability
+### Implications of Mitotic Heritability
+
 - genes that are turned on in one cell type are also turned on in
   dependent cell types
   - unless they are explicitly deactivated by the dependent cell type
@@ -420,6 +453,11 @@ it
 - that is, it's easier for epigenetic machinery to access histones of
   active genes
   - than inactive genes
+- what does this imply about nature of genetic behavior?
+  - it's possible(common?) to activate gene, then expect it to be
+    quickly turned off in daughter cell type
+  - need to reevaluate the mechanism here, before jumping to
+    conclusions
 
 because histone H1 winds up nucleosomes in an ordered fashion,
 - since chromatin is wound up in a spiral formation,
@@ -435,7 +473,9 @@ shape and location of chromosomes definite affect their function
 - chromatin near the periphery is usually heterochromatin
 - chromatin near the center is usually euchromatin
 
-### blog post: in nucleus transcription factories,
+# Blog Post:
+
+## In Nucleus Transcription Factories
 
 - RNA Polymerase 2 is static and DNA is pulled through
   - this is sort of like a program executing in a linear fashion
