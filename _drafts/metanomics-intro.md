@@ -17,8 +17,6 @@ excerpt: ""
   - for an esoteric topic lol
 - find articles & papers for P450 (inducers, stats, etc)
 
-###
-
 note that
 [article](https://www.quantamagazine.org/20160630-how-does-life-come-from-randomness/)
 about self-organizing entropy forming life
@@ -219,6 +217,8 @@ mapping out tissue networks in the body
   networks.
 - cover introduction to ideas in general
 
+
+
 ### Maximums for Information Processing, Networks, etc
 
 - discuss the maximums encountered here and how they arise
@@ -264,150 +264,7 @@ mapping out tissue networks in the body
     - network bottleneck/overhead limits
   - this implies the existance of several hard limits for computation
 
----
-title: "Metanomics & Probabilistic Programming: Spatially-Distributed State"
-categories: blog
-tags: "genomics epigenetics"
-headline: ""
-author:
-  name: "David Conner"
-excerpt: ""
----
-
-# Part: Two
-
-can transition from talking about tissue networks
-- viewing tissue networks at various levels of scale
-- behaviour determined by electrical fields
-  - by a genomic, biochemical homonculus
-  - a homonculus is your mental representation of your body,
-    - with respect to various other mental faculties, like tactile
-      sense, motion or prioperception
-  - but there should be a genomic, biochemical homunculus which
-    chemically drives the development of the nerves which drive
-    electric impulses that determine tissue behaviors
-    - that is, there should be some imprint of this in the
-      genome/epigenome
-
-## Spatially Distributed State
-
-- is there a good example from the epigenetics class?
-- explain what I mean by spatially distributed state
-- transciptomes and nucleolus
-  - use Process/Program & OS metaphors to describe these
-
-(re)-explain spatially distributed state at a high level
-- && hierarchically distributed state
-- && physical distribution of cells imparts some higher order
-  hierarchical distribution of state (than just cellular)
-  - e.g. groupings of cell types, blood brain barrier
-- && physical channels as mediation of state
-  - && veins/lymph system in an optimal state, will provide some
-    optimal opportunity for exchange of state between tissues
-  - && ventricular system in the brain (need to look into details
-    here)
-
-
-spatially distributed state in the nucleus
-- when operations are quick and repetitive, then modified state
-  quickly accumulates around the source of events
-  - there is also an offset effect, where the surrounding chemical
-    messengers are crowded outwards and there are physical effects
-    on the solution (osmosis, pressure, etc.)
-- what other ways can genetic programs execute and alter state,
-  locally?
-
-
-
----
-title: "Metanomics & Probabilistic Programming: Epigenomic Metaprogramming"
-categories: blog
-tags: "genomics epigenetics"
-headline: ""
-author:
-  name: "David Conner"
-excerpt: ""
----
-
-
-# Part ??:
-
-## Metaprogramming
-
-- is there a good example from the epigenetics class?
-- again, another good example?
-
-- some cells modify their own genomes to augment behaviors
-  - genomic process for copy & pasted genes
-    - is there a genomic mechnanism for preventing bad writes?
-    - some writes would have almost no effect on genetic expression of
-      critical factors
-    - some writes would be disastrous for that generation or the
-      subsequent generation
-    - some writes would be disastrous for all subsequent generations
-      of cells
-- or modify the available mRNA & their rates of transcription into
-  protein products
-  - miRNA, piRNA?
-    - these ramp up or inhibit the available mRNA's that are to be
-      produced into protein products
-
-establish the overall theme and tie each part back to how it
-reinforces this theme
-- genetics is a program where loops and trees of behavior can be
-  predictably triggered
-  - so go through examples from epigenetics and explain how they
-    reinforce/demostrate/utilize this idea
-
-how to structure this series of articles?
-
-article about predictive medicine and CYP450
-- this article might be a good start for probabilistic theory
-  - but how to measure this?
-  - explain why the expression of genetics has a much greater effect
-    than the encoding of alleles in the genes, usually
-
-- hmmmmm, there was like one other example of probabilistic
-  programming theory of metanomics
-  - neural fingerprints
-
-### Metanomics and Tissue Networks
-
-#### Diffusion Tensor Imaging and Tissue Maps
-
-metanomics and probabilistic programming
-- mapping out tissue networks in the human body using MRI (diffusion
-  tensor imaging) + Yoga.
-  - need to be able to map various spaces together
-  - the yoga postures cause different blood flow patterns
-  - statistical resolution should allow us to map out tissues by
-    looking at networks of small veins and arteries down to
-    capillaries
-- this should revolutionize cancer treatments because you can tailor
-  someone's treatment plan to target specific networks of tissues
-  - you can know that if you take out a set of tissue subnetworks,
-    that you have taken out all of the branches leading to them
-  - if the cancer is confined to that area, then you can know that
-    there's a much smaller chance of it coming back
-    - you have annihilated the tissue 'feeding' the cancer
-    - so therefore, there should be a much lower chance of it
-      returning
-- this is like a "connectome" for probabilistic programming
-  - the connectome is the highest level of tissue interconnection, but
-    is stratified itself, as it's a tree
-  - the brain has a connectome and this can be observed by using
-    diffusion tensor imaging and some learning
-  - but the yoga in the methodology inserts some known level of
-    variance into the system of veins/arteries for specific areas of
-    the body
-  - those areas get more blood and open up
-    - the MRI images can be sewn together and with enough imaging
-    - then a highly accurate model of the connectome for the brain and
-      other organs can be constructed
-
-
-# probabilistic programming languages
-
+## Ergodics
 
 - structure => function && function => structure
 
@@ -431,15 +288,8 @@ metanomics and probabilistic programming
   discussed with tat), but extend it to meaning the reflection of
   information into the physical
 
-part two: spatially distributed state
-- explain what I mean by spatially distributed state
-- transciptomes and nucleolus
-  - use Process/Program & OS metaphors to describe these
+### DNA as a probabilistic program
 
-part ??: metaprogramming
-- some cells modify their own genomes to augment behaviors
-
-- DNA as a probabilistic program
   - differentiation of genomic programs and cell-types should be
     relatively flat
   - that is, there's a tree that represents the types of cells that
@@ -447,6 +297,8 @@ part ??: metaprogramming
   - but, because of occam's razor, this tree should be flat because
     too much hierarchy induces too much complexity in the system
   - genetic programs modelable by markov graph?
+
+
 
 - http://www.scientificamerican.com/article/human-genome-s-spirals-loops-and-globules-come-into-4-d-view-video/
 
@@ -463,7 +315,6 @@ genetic programs that a particular gene is *not* being expressed. For
 more info, see this article:
 http://www.the-scientist.com/?articles.view/articleNo/43029/title/Silencing-Surprise/
 
-probabilistic programming languages
 
 other features of computer programs that must have a mirrored
 mechanism in genetic programs
