@@ -8,7 +8,6 @@ author:
 excerpt: ""
 ---
 
-
 ### TODO
 
 - split into separate files
@@ -26,7 +25,7 @@ about self-organizing entropy forming life
 intro
 - explain higher level organization of *-nomics
   - reference notes from Pavel Pevzner's lecture
-- lead into metagenomics
+- lead into metanomics
 - also explain it in relation to probabilistic programming
 
 - how should the methodologies of science be expanded to pick up on
@@ -50,6 +49,13 @@ explain spatially distributed state at a high level
 
 ### Value Proposition Summary
 
+- i need a better analogy for explaining these ideas
+  - i've always known genomics and DNA to be programs, but yet there
+    was always a disconnect there
+
+- how do i relate this to someone who doesn't know anything about
+  metanomics, probabilistic programming or ergodic theory
+
 - make a value proposition to describe the value in theorizing about
   metanomics in this way
   - it's value is in evaluating/modeling technologies for
@@ -72,7 +78,9 @@ explain spatially distributed state at a high level
 - the section on P450 needs to be towards the end of the article
   - so that there's plenty of space to overview everything
 
-### Changes in Cytochrome 450 from long term drug usage
+- sometimes
+
+### Changes in Cytochrome P450 from long term drug usage
 
 - long term usage of drugs which inhibit and especially those that
   induce metabolism by Cytochrome P450 enzymes should generally
@@ -158,7 +166,6 @@ explain spatially distributed state at a high level
 
 ## Metanomics x Probabilistic Programming
 
-
 ### Probabilistic Programming for Computers
 
 - what is probabilistic programming
@@ -217,8 +224,6 @@ mapping out tissue networks in the body
   networks.
 - cover introduction to ideas in general
 
-
-
 ### Maximums for Information Processing, Networks, etc
 
 - discuss the maximums encountered here and how they arise
@@ -263,6 +268,80 @@ mapping out tissue networks in the body
     - per-node mathematic limits
     - network bottleneck/overhead limits
   - this implies the existance of several hard limits for computation
+
+## Example programming problem:
+
+### "Ergodic" State Machine - Particle Shader
+
+Some of the math here can be demonstrated with a special kind of
+particle shader that implements a bit of functional analysis to
+calculate functions with the local neighborhood as input.
+- then each particle can obtain various values of state.
+- the neighborhood includes all points in the metric space < d from
+  any r (x,y,z,1,etc)
+  - this neighborhood is passed as a function that returns the sum of
+    changes for each particle in the neighborhood
+- these subsets of the space are concatenated (& added/averaged
+  togeter)
+  - one is calculated for each point (in the GPU)
+  - voodoo magic blit stuff
+- the set of points in the space is updated with the averaged changes
+  in state after (concat/add)
+  - this forms a particle based 3D conway's game of life that crosses
+    molecular dynamics with state machines
+- the goal is to identify some stable states
+  - that is, states should emerge from ergodic behavior for
+    state-to-state transitions.
+    - I.E. Particle Goo G has 10,000 particles p, points that are close
+      average their values
+      - for all properties on each particle P in G
+        - or some other functional modification.
+    - there should be some starting conditions or some external
+      pressures that can be applied on the system to force it to
+      converge in some areas.
+      - look for a cross with cymatics (just for grins)
+      - great opportunity for embedded youtube video
+    - these stable states should be cyclical or mapped to a graph
+  - or stable metastates
+    - these are like higher-order composition (HOC) of boolean
+      membership functions (BMF) for the set of particles p in
+      Particle Goo G that satisfy enough of some boolean function
+      across the local neighborhood or boundary set
+      - this is similar to phase transition math
+        - which needs to recognize on various levels the state
+          transitions between phases of matter at several scales
+      - there's probably some intersection with statiscal mechanics
+    - so basically these BMF's can cause large scale parts of a system
+      to adhere to specific rules that only apply to that subset or a
+      subset extended to some similarity limit Sim(x) <= |d|
+      - which collates all similarly conjoint particles/groups that
+        lie within that similarity distance
+      - TLDR; for phase transitions, this means you can optimize by
+        treating chunks of ice as single bodied objects (to some
+        degree) and liquid as liquid and gas as gas
+    - ^^^ these describe states
+      - metastates can be composed of to form a new function that
+        selects sets of particles that adhere to a functional
+        conjunction or disjunction of some kind
+- the system needs to be capable of being asserted as "behaving as an
+  A-state like particle system to x degree"
+  - and behaving as a B-state like particle system to some degree
+  - similarly it should possible to measure some subselection of the
+    system's progress towards an aggregate transition from C-state to
+    D-state. basically need to know: is it going towards C? or back
+    towards D? etc,etc.
+- But, with a bit of luck it should be possible to identify stable
+  states and metastates that ergodically emerge under certain
+  conditions or during specific transitions.
+  - you could color or animate the particles which achieve a specific
+    state
+- there should be a way to set up a graph-like object (with some
+  continuities) that allows you to model the higher order metastates
+- it should also be possible to colorize and indicate higher-dimension
+  data in each particle p
+
+
+## Math
 
 ## Ergodics
 
