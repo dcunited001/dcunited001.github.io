@@ -125,8 +125,6 @@ a way, I want to imitate that style with this work. In a way...
 
 ## American Eros: Or How to Fell a Souley
 
-### Chapter One
-
 I never thought I'd have that once in a lifetime experience ... but it
 happened, so fast, so illustriously fast. It wasn't love at first
 sight. I fell in love the instant I heard her voice, before I turned
@@ -179,14 +177,12 @@ Was she looking for it?
 
 That rush of blood to the head, just now. Incredulous. What was that?
 Was the restraint released from my heart? Impossible. It's like a
-vault. I designed it that way. Or my observer did. Was it him? Whoever
-enshrouded it, they built a daedalian labyrynth for a reason. They
-gave Icarus wings, but kept him locked in a maze. They warned him, but
-knew he'd rise and fall anyways. Or wait, that's not right. No that
-wasn't Icarus. If he had wings, he'd just fly out. Whoever it was, if
-he could just see the maze...
-
-[kinda too much content for a brief flash]
+vault. I designed it that way. Or maybe my observer did. Was it him?
+Whoever enshrouded it, they built a daedalian labyrynth for a
+reason. They gave Icarus wings, but kept him locked in a maze. They
+warned him, but knew he'd rise and fall anyways. Or wait, that's not
+right. No that wasn't Icarus. If he had wings, he'd just fly
+out. Whoever it was, if he could just see the maze...
 
 Another heartbeat. No, that can't be right. What was I doing? Her
 voice? Who was it? I didn't know her. Or did I? My subconscious starts
@@ -198,11 +194,11 @@ My observer is unaware, but my subconsious halts all other background
 processes, solely to resolve this one question. Do I know her?
 
 Instantly, my subconscious has accessed the voice prints of everyone I
-know or ever passed by. (every x,y,z) I would not realize it until
-years later, but in that brief instant, some part of my mind processed
-and comprehended a record of every single person's voice I'd ever
-heard. Why? Why was her voice so different? What could provoke such a
-surge of introspection?
+know or ever passed by. I would not realize it until years later, but
+in that brief instant, some part of my mind processed and comprehended
+a record of every single person's voice I'd ever heard. Why? Why was
+her voice so different? What could provoke such a surge of
+introspection?
 
 And completely missed by my consciousness, my observer. If I'd seen
 this girl, even for a second, that self-saboteur would deploy a mental
@@ -215,15 +211,13 @@ to that great facebook in the sky.
 
 For just a brief moment in time, and perhaps most importantly, it was
 our hearts that met first, not our eyes. It transcended space and the
-material world. (moreso for me than for her ... that's what she said
-..) And her brilliance disassembled any masking still darkening my
-heart. It's as if some tendril of her ethereal being reached through
-that labyrinth and dispersed (its ?? fragments into spacelessness). Or
-maybe through sheer elegance, pierced it like a blade to gossamer. The
-connection I felt, it's as if she saw through to my heart's radiance
-and found something that I myself had buried and forgotten. (Without
-sight at all). (too much emphasis on lack of sight? need to be less
-direct about it)
+material world. And her brilliance disassembled any masking still
+darkening my heart. It's as if some tendril of her ethereal being
+reached through that labyrinth and dispersed its fragments into
+spacelessness. Or maybe through sheer elegance, pierced it like a
+blade to gossamer. The connection I felt, it's as if she saw through
+to my heart's radiance and found something that I myself had buried
+and forgotten.
 
 Another heartbeat, but my racing mind had lost count. Faster.
 Everything seemed faster. The energy rippled through my veins, my
@@ -238,7 +232,7 @@ universe surged with orgasm and gravitational radiation echoed loudly
 as the world transfigured itself to spite fate. A nuclear burst of
 energy, powered by fate's chains. No matter what had happened before,
 fate lost it's power for a brief moment. All its intensity to grip and
-control life and transfix our destiny.  All of that energy suddenly
+control life and transfix our destiny. All of that energy suddenly
 fed back into itself.
 
 And thus, this is how the universe became philocentric. In one sudden
@@ -246,11 +240,11 @@ moment, the earth, the stars, they fell around us. Love became the
 center of the universe. We became the center of the universe. Nothing
 else mattered. The fruit of fortune and fame bloomed in front of us,
 green hues shifting to red. Tantalized. Still so tantalizing.
-Outpacing the warmth still filling into my fingers, my hands (red)
-from dialation, the perspiration seeping out of my palms. Something so
-perfect. Nothing perfect needs anything added or removed. How do I
-reach out? How do I take it? My palms are probably glistening with
-sweat. What if I can't hold onto it?
+Outpacing the warmth still filling into my fingers, the perspiration
+seeping out of my palms. Something so perfect. Nothing perfect needs
+anything added or removed. How do I reach out? How do I take it? My
+palms are probably glistening with sweat. What if I can't hold onto
+it?
 
 But I felt it. Nothing can confirm your destiny to yourself as
 strongly as feeling the foundation of your fate shifting tectonically
@@ -265,3 +259,36 @@ ending with: ... ?
 
 Two new friends dared dream that illusion of separation the world over
 could be ended.
+
+###
+
+I wrote this section at my usual coffee spot, on July 5th, overcome
+with brief inspiration, right before I was about to leave of
+course. It was originally just going to be a short creative writing
+peice, 2,000 words at most. I was really aiming for a 750 word
+description of the effect an experience like this would have on
+someone who might not otherwise ever experience something like it.
+
+I almost feel bad writing this down because it's just so
+powerful. It's a little secret to love that most people would miss,
+unless you curl up with romance novels on the reg for a candlelit
+rendezvous with both Ben and Jerry...
+
+But, it would be hard for someone to pull this off. If you can or did,
+you are officially in the matchmaker's secret society. If you can
+figure out how to get two magnetic people to meet and in the most
+perfect spectacular way, then you wield powerful magic. But it
+requires knowing so much about both of them and knowing exactly how
+they will first meet. On the otherhand, people can smell a stilted
+scenario a mile away, so the more you do to control and/or add to the
+situation, the more you risk ruining it. Any forcing or grasping might
+render all your efforts pointless.
+
+It's the kind of thing that can only be done by observing just the
+right qualities in people and their friends and then hoping your
+understanding of their personalities will invite a magnanimous
+planetery alignment, when they meet. this is particularly hard for
+quiet and/or shy people. to figure out how to bring them
+out. Fortunately, there are people who are good at that. Opposites
+attract. I'm really just looking for a girl who can straight up
+operate my brain like a computer. A better half.
