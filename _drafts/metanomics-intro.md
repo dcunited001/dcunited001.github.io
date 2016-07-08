@@ -340,10 +340,71 @@ calculate functions with the local neighborhood as input.
 - it should also be possible to colorize and indicate higher-dimension
   data in each particle p
 
+this example project is a kind of metaphor for a "spatially
+distributed state machine, that could be easily modeled on top of
+molecular dynamics"
+- there's really not much of a difference between this particle shader
+  and a genomic program
+- both can proceed through several series of stable states/metastates,
+  - each of which triggers further behavior
+  - this gives rise to somethin that parallels the transition between
+    nodes on a markov graph
+    - but distributed across 10K's of particles and triggering lasting
+      permanent changes at various levels
+- the "spatially distributed" state-machinary is stratified and
+  entangled across various strata of "state-isolation units" and
+  spaces
+
+
+#### State Isolation Unit
+
+- a cell
+- a closed branch of a tissue network,
+- an organ or cellular organelle (endoplasmic reticulum, where protein
+  subunits are combinated and sometimes intelligently paired) or
+- beyond the nuclear membrane in the nucleus
+- a transcriptome "execution bubble" in the nucleus
+  - nowhere is the "ergodic state machine theory" of metagenomic
+    programs more clearly shown than with the transcriptome bubble (i
+    think transcriptome is the term)
+  - basically a nucleus has its nucleosome and this is like the
+    juggernaut of genomic machinery
+    - (IMO) it functions like the kernel in the OS, receiving demand
+      for moreso generic cellular machinery
+  - therefore the dependencies for this cellular machinery is likely
+    also similarly limited.
+    - that is, between all cell types for some specifices and for many
+      species which are closely colocated on the evolutionary tree:
+    - the nucleosome should share some limited subset -- *the nuclear
+      kernel* -- that provides the most basic functions
+    - i would also go on to say that the nucleosome's rhythms and
+      mechanisms are probably also important
+    - and because ribosomes enable transcription, this *nuclear
+      kernel* executed and transcribed in the nucleosome is mostly
+      restricted to genes that are adjacent to that nuclear kernel
+  - when DNA is transcribed these transcriptome bubbles appear and are
+    like containers for spatially distributed state. in other words,
+    the existance of a new transcriptome around specific genes being
+    transcribed outside of the nucleosome in the nucleus means these
+    genes and their activation factors are shielded from outside
+    interference
+    - this is like the memory region reserved for a process (but in
+      terms of metagenomics and spatially distributed state)
+    - if you look at the mRNA, miRNA, piRNA, etc products from DNA
+      transcription as the by-product of the execution
+    - these by-products are more likely to retained within the
+      transcriptome and shielded from non-sequitous byproducts from
+      elsewhere in the genome
+    - furthermore, the transcriptome can attach activation factors or
+      addressable chunklets of RNA to the surface to make it more
+      likely to grab specific strands of DNA
+      - if this is possible and fairly dynamic, it drastically changes
+        the set of protein subunits and genes that can be quickly
+        geared up through epigenetic machinery
 
 ## Math
 
-## Ergodics
+### Ergodics
 
 - structure => function && function => structure
 
