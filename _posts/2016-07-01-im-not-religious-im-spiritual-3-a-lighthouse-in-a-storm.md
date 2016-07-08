@@ -317,12 +317,18 @@ thus, invisible and intangible, but the effects on our lives are very
 real.
 
 Some of these will never change -- and it could be argued that any
-which are not perminant can be totally & summarily defined in terms of
+which are not perminant can be summarily & totally defined in terms of
 those that are permanent. Math is such a universal, metaphysical
 object, which cannot ever change by its nature and from which all
 other things can be defined.  Therefore, they are timeless. Our
 inescapable fates are defined in terms of the intangible and nothing
 can escape it's reach.
+
+Unfortunately, many scientists, despite their intelligence or intent
+to search for truth, completely disregard the metaphysical, as their
+model of reality begins in the material. They view humanity as
+basically wetware with neurotransmitters marking state in chemical
+software writtin in a genetic programming language.
 
 <a name="find-your-genius"/>
 
