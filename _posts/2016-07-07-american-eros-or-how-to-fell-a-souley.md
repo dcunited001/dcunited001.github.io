@@ -199,8 +199,10 @@ Not even my own radiance could pierce those layers of detrimental
 self-depricating defense mechanisms. Instead, there's only a faint
 aura, an indication of black-body radiation, coupled with what must
 certainly contain blistering heat from contained energy. Ne touchez
-pas! [additional generic language warnings for hot coffee] But I
-wonder, what would the world see if the self-imposed restraints
+pas! No toque las superficies calientes! Daß der Kaffee faktisch heiß
+ist!　直火は使用できません！
+
+But I wonder, what would the world see if the self-imposed restraints
 marring my heart's light could be released? What would my observer
 see? Could he see himself, as he truly is? Who cares what the world
 thinks. That lil guy needs a mirror.
