@@ -65,7 +65,7 @@ tied to the result of the interaction in the past *and* to future
 interactions. So, any future interaction to either particle has to
 account for state changes to the other particle in the entangled pair.
 
-### Interconnected and Everconnected
+## Interconnected and Everconnected
 
 Lets think all the way back to the Big Bang. I believe it happened,
 though religions might talk about things symbolicly. If you look at
@@ -82,10 +82,10 @@ interconnected and everything is everconnected. Forever....
 
 #### The Universe, Basically... lulz
 
-![The Universe](/img/posts/)
+![The Universe, as the Overly Attached Girlfriend You Probably Never Dated](/img/posts/2016-07-11-consciousness-as-a-continuum/gf-forever.jpg)
 
-I'm not the first person who's thought
-of this. Obviously.
+I'm not the first person who's thought of this. Obviously .... Or
+maybe I did. Who knows (I didn't)
 
 > "Simpsons Did It!" -- Pretty much everyone in the world when I try
 > to say I've done something original. But *damn* how many times have
@@ -109,7 +109,7 @@ I donno. I need to know more. But I suck up the math like a
 sponge. Seriously. I just need to be around more people that think
 about this stuff.
 
-### The Quantum Web
+## The Quantum Web
 
 So, if these ideas hold to some degree, then there should be a
 *Quantum Web* that forms between all particles that have ever
