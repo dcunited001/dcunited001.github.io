@@ -200,7 +200,7 @@ self-depricating defense mechanisms. Instead, there's only a faint
 aura, an indication of black-body radiation, coupled with what must
 certainly contain blistering heat from contained energy. Ne touchez
 pas! No toque las superficies calientes! Daß der Kaffee faktisch heiß
-ist!　直火は使用できません！
+ist! 直火は使用できません！
 
 But I wonder, what would the world see if the self-imposed restraints
 marring my heart's light could be released? What would my observer
@@ -223,9 +223,9 @@ reverb. Did it come from within -- my heart skips a beat and a rush of
 blood to the head. The dawn sunlight suddenly stops casting shadows
 and instead everything is refracted as mother of pearl. The shadows,
 the light. A brief, brilliant flash of the essence of beauty itself. I
-can't tell (if this came from the light, from the sun). Or maybe this
-pearling refraction emerged from within myself. Did she see it too?
-Was she looking for it?
+can't tell -- this perplexing luminance, did it suddenly surge through
+the window from the sun? Or maybe this pearling refraction emerged
+from within myself. Did she see it too? Was she looking for it?
 
 That rush of blood to the head, just now. Incredulous. What was that?
 Was the restraint released from my heart? Impossible. It's like a
