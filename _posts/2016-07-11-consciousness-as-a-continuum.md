@@ -13,6 +13,16 @@ excerpt: "
 
 ### Consciousness is a continuum that
 
+
+- introduce some things: link these ideas together
+  - need a thesis
+
+- why do i need to talk about entropy
+
+- why do i need to talk about quantum entanglement
+
+- mention the Neural Networks and Spider Brains article
+
 ## Entropy
 
 entropy in cosmology/thermodynamics
@@ -50,7 +60,7 @@ Entropy determines the fate of the universe. If there's a Big Crunch,
 we can deal with that a lot easier than a Big Freeze. There must
 certainly be one or the other, I think.
 
-### The Connectedness of All Things
+# The Connectedness of All Things
 
 Spooky action at a distance. That's how Einstein referred to quantum
 entanglement of particles. It transcends the speed of light.
@@ -116,23 +126,26 @@ So, if these ideas hold to some degree, then there should be a
 interacted. And because there were so many more interactions at the
 beginning, then nearly every particle should already be entangled with
 all others, to some degree. I don't know how long entanglement really
-persists though.
+persists though. This Quantum Web is born out of the concept of
+everconnectedness I introduced above.
 
-If it holds, then everything is like this Quantum Web
-of particles, which is a graph where every particle's state is
-describable by its product of previous interactions. The graph can be
-arranged in a few ways and reoriented to help find paths/trees for one
-specific particle. You could try to identify the specific particles
-that form it's interactions and all the dependencies as
-well. Particles which do not have quantum effects like this could be
-combined to form "new" particles, which do not have such dependencies
-... maybe.
+The degree of the history of interactions that are maintained is a
+question I wish I could shout at a group of MIT freshmen. Because they
+could probably tell me. And yes, I would probably shout this question
+at a crowd of people at MIT.  Hey, when you want to freaking know the
+answer, you want to know! *I HAVE QUESTIONS, PEOPLE!* And they are
+hard! It's like going to the bathroom. Sometimes you just gotta know.
 
-interconnectedness of things:
-- everconnectedness (everything has always been intrinsicly linked
-  since the beginning)
-  - though, admittedly, i don't understand the rules behind such a
-    quantum web of connection
+If it holds, then everything is like this Quantum Web of particles,
+which is a graph where every particle's state is describable by its
+product of previous interactions. The graph can be arranged in a few
+ways and reoriented to help find paths/trees for one specific
+particle. You could try to identify the specific particles that form
+it's interactions and all the dependencies as well. Particles which
+do not have quantum effects like this could be combined to form "new"
+particles, which do not have such dependencies ... maybe.
+
+
 
 
 life is the inevitability that entropy will push matter to self
