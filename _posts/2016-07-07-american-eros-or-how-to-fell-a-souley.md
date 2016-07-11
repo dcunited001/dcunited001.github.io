@@ -267,9 +267,9 @@ material world. And her brilliance disassembled any masking still
 darkening my heart. It's as if some tendril of her ethereal being
 reached through that labyrinth and dispersed its fragments into
 spacelessness. Or maybe through sheer elegance, pierced it like a
-blade to gossamer. The connection I felt, it's as if she saw through
-to my heart's radiance and found something that I myself had buried
-and forgotten.
+blade to shadowy gossamer. The connection I felt, it's as if she saw
+through to my heart's radiance and found something that I myself had
+buried and forgotten.
 
 Another heartbeat, but my racing mind had lost count. Faster.
 Everything seemed faster. The energy rippled through my veins, my
