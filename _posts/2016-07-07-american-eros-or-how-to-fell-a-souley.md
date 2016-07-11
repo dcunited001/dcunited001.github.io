@@ -41,6 +41,24 @@ trademark, so by no means could anyone really make financial gain from
 these stories! Boom: problem null and void. Haha, take that, Roko
 Basilisk...
 
+### American Eros: Just Look at those Washboard Abs!
+
+#### Who could trample on that sheer artistry?
+
+![American Eros: Just Look at those Washboard Abs](/img/posts/2016-07-07-american-eros-or-how-to-fell-a-souley/american-eros-cover.jpeg)
+
+> Mr. Henderson, put on your clothes!
+>
+> Your Honor, I object! *Have you seen these abs?*
+>
+> Mr. Henderson, I will hold you in contempt!
+>
+> Your Honor, we could all settle this silly thing with a game of quarters
+> off this springy tent I'm barely pitching for my next witness, who
+> I'd like to call to the *stand!*
+
+### The Architypical Episaga
+
 Anyways, there are a few rules and constraints I want to set for this
 particular episaga. The first is a restriction on form: we start by
 hearing an account of an event in the future, loosely defined in
@@ -87,13 +105,9 @@ instantly recognized. Computer vision requires intense processing and
 so does human vision. I discuss these ideas a bit more in
 [Epistemology, Cognition and Category Theory: A Model for the Mind](http://te.xel.io/posts/2015-08-23-epistemology-cognition-and-category-theory-part-two.html).
 
-# 一期一会
+### &#x2605; 一期一会 &#x2605; Ichi Go, Ichi É &#x2605; いちごいちえ &#x2605;
 
-いちごいちえ
-
-Ichi Go, Ichi É
-
-### A Once in a Lifetime Experience
+# A Once in a Lifetime Experience
 
 This concept from Japan and Zen Buddhism refers to the nature of such
 stellar once-in-a-lifetime or once-in-an-age events. But, there's a
@@ -136,7 +150,8 @@ immediately after an experience.
 > and, if not, then at least detect violations of consistency in
 > various regions of the brain.
 >
-> By the way, [my brain](https://github.com/dcunited001/mri-scans)
+> By the way, [my brain](https://github.com/dcunited001/mri-scans) is
+> on Github. It's open source. Send me a pull request if you'd like.
 
 Basically, what I'm trying to say is that David Foster Wallace was a
 genius in the way he wove together various threads & subthreads for
@@ -271,28 +286,66 @@ beneath you. And this deafening transmogrification of your destiny, it
 can't be denied. And I felt it.  Here. Just now. Every star in the
 milky way thrust its mass hopelessly against the chains of fate.
 
+After everything that had just happened to me, there's no way I could
+possibly be both more prepared and less prepared for this moment. Or
+for what was about to unfold. I had all but given up quite some time
+ago, but everything that had happened up until this most perfect
+moment had exquisitely predisposed to be so powerlessly susceptible to
+it. And yet, at that time, I could not have been more content on my
+own. Or ... No, not on my own, because I had all these amazing new
+friends.
 
+There's no way either of us could comprehend how, but we we're going
+to change the fate of the world. I have no idea if she remembers me,
+especially now, but she reached out that day and changed my life
+forever. The bonds on my heart that she so effortly sliced through,
+it unlocked something in me. It freed me from the part of myself that
+held me back. From what I knew now, I could reach out to others. Maybe
+I could free them too. With knowledge. With experience. With love.
 
-ending with: ... ?
+If the rest of humanity could feel what I felt in that instant, just
+once. They would know. If they could feel what I felt, they would be
+moved. She could tap into my genius, the ethereal spectra of ancient
+souls my own spirit was metaphysically linked to. I knew I had the
+potential to be great, but my biggest enemy was myself.
 
-Two new friends
-- complete strangers
+And somehow, she knew me better than I did myself. That's what it felt
+like. I asked. Have we met? I racked my mind and countless memories to
+find a time we'd cross paths. Was it so familiar because I'd lived
+this life countless times before? Is that what happens? Do we live
+countless lives simultaneously? Do we live all the variations of our
+own life, all at the same time? Do we live everyone else's life, all
+at the same time? Strange thoughts. Why did she seem so familiar?
 
-it was the way she tapped my genius
+But there's no way we could be together. It just wouldn't work. She
+was on such a different path. It was what made me me and what made her
+her that drew us together. The only way we could be together is if we
+lost that. I realized this and I know she did two. But for those few
+days, we loved each other so intensely. Perhaps, it was because we
+knew it wouldn't last. I hope that's not the secret.
 
+I finally felt like part of the world, instead of an outsider. A
+people watcher, looking in. I comprehended all the shades of
+chiaroscuro in our social stratifications and gamified human
+mechinations. I had comprehended that before, but I can't say I
+understood it. I couldn't be part of it. Maybe it was because of what
+I had learned in the past decade. But she dissolved that separation
+between me and the world. Or, I discovered the capacity for love to
+dissolve that separation between myself and others. How can I do the
+same for others?
 
-the net result is that no, they didn't end up together
-- but after that weekend, he discovered the capacity for love to
-  dissolve that separation, finally feeling like part of the world,
-  instead of peering in as an outsider.
-  - brief thoughts on the difference b/w being an insider/outsider
-- and his character hopes that he can help dissolve that separation in
-  others as well.
+And we had talked about just that. I knew it wouldn't work and because
+of this, I wasn't afraid to tell her how I felt. I told her that I
+understood how the universe communicates things like destiny. There
+are some things, they are so incidental, yet so impossibly
+implausible. I hadn't seen just a handful of these, there had been
+hundreds and it felt like fate was at odds with itself. We were being
+pulled together and torn apart all at the same time.
 
-but dared dream that, through love, illusion of separation the world
-over could be ended.
+But we both dared dream that, through love, illusion of separation the
+world over could be ended.
 
-###
+### So That's It! For Now...
 
 I wrote this section at my usual coffee spot, on July 5th, overcome
 with brief inspiration, right before I was about to leave of
@@ -306,15 +359,18 @@ powerful. It's a little secret to love that most people would miss,
 unless you curl up with romance novels on the reg for a candlelit
 rendezvous with both Ben and Jerry...
 
+### Matchmaker Number Nine
+
 But, it would be hard for someone to pull this off. If you can or did,
-you are officially in the matchmaker's secret society. If you can
-figure out how to get two magnetic people to meet and in the most
-perfect spectacular way, then you wield powerful magic. But it
-requires knowing so much about both of them and knowing exactly how
-they will first meet. On the otherhand, people can smell a stilted
-scenario a mile away, so the more you do to control and/or add to the
-situation, the more you risk ruining it. Any forcing or grasping might
-render all your efforts pointless.
+you are officially in the matchmaker's secret society, the elusive
+matchmaker number nine. If you can figure out how to get two magnetic
+people to meet and in the most perfect spectacular way, then you wield
+powerful magic. But it requires knowing so much about both of them and
+knowing exactly how they will first meet. How they would feel on that
+day; in the instant just before. On the other hand, people can smell a
+stilted scenario a mile away, so the more you do to control and/or add
+to the situation, the more you risk ruining it. Any forcing or
+grasping might render all your efforts pointless.
 
 It's the kind of thing that can only be done by observing just the
 right qualities in people and their friends and then hoping your
