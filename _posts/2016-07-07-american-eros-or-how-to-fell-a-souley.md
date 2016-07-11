@@ -362,6 +362,8 @@ pulled together and torn apart all at the same time.
 But we both dared dream that, through love, illusion of separation the
 world over could be ended.
 
+![Corona Sunset](/img/posts/2016-07-07-american-eros-or-how-to-fell-a-souley/corona-sunset.jpg)
+
 ## So That's It! For Now...
 
 I wrote this section at my usual coffee spot, on July 5th, overcome
