@@ -64,9 +64,15 @@ particular episaga. The first is a restriction on form: we start by
 hearing an account of an event in the future, loosely defined in
 concept, time, place, and role. As a reader, we know the story ends
 with this chapter. Or maybe, this chapter is a midpoint in some
-greater saga. Maybe it's a romance novel or a sci-fi thriller. Who
-knows. But, I've always found that some simple, basic limitations
-envigorate creativity.
+greater saga. But it's presented to us at the beginning. Maybe it's a
+romance novel or a sci-fi thriller. Who knows. But, I've always found
+that some simple, basic limitations envigorate creativity.
+
+The narrator in this section isn't really me, by the way. Again, I
+know how I'm going to develop this character and present the story,
+but I'm trying to leave things intentionally open here. And especially
+with regard to gender, so feel free to change that around in this
+section.
 
 When I actually pitch the episaga to authors, writers and
 storytellers, I'll explain a few more constraints. Some others include
@@ -123,9 +129,9 @@ luck and fortune, Tyche, handed you a blank check, what would you do?
 If everything you had ever wanted -- or better, yet, everything you
 hadn't been capable of imagining -- appeared right in front of you,
 could you ride that lightning? So, this first chapter is the summary
-of such an experience.
+of what presents itself in that way to the narrator.
 
-So this is a story about life as experienced as a somewhat tangled
+To me, this is a story about life as experienced as a somewhat tangled
 lanyard of threads and subthreads. As the mind processes experience
 into memory, it marls this rope to emotional or situational
 touchstones. Then, it layers down aggregate, self-produced information
@@ -160,7 +166,9 @@ genius in the way he wove together various threads & subthreads for
 Infinite Jest ... even though I've only read like 50 pages so far. In
 a way, I want to imitate that style with this work. In a way...
 
-## American Eros: Or How to Fell a Souley
+# American Eros:
+
+## Or How to Fell a Souley
 
 I never thought I'd have that once in a lifetime experience ... but it
 happened, so fast, so illustriously fast. It wasn't love at first
@@ -324,14 +332,14 @@ at the same time? Strange thoughts. Why did she seem so familiar?
 But there's no way we could be together. It just wouldn't work. She
 was on such a different path. It was what made me me and what made her
 her that drew us together. The only way we could be together is if we
-lost that. I realized this and I know she did two. But for those few
+lost that. I realized this and I know she did too. But for those few
 days, we loved each other so intensely. Perhaps, it was because we
 knew it wouldn't last. I hope that's not the secret.
 
 I finally felt like part of the world, instead of an outsider. A
 people watcher, looking in. I comprehended all the shades of
 chiaroscuro in our social stratifications and gamified human
-mechinations. I had comprehended that before, but I can't say I
+mechinations. I could comprehend that before, but I can't say I
 understood it. I couldn't be part of it. Maybe it was because of what
 I had learned in the past decade. But she dissolved that separation
 between me and the world. Or, I discovered the capacity for love to
@@ -349,7 +357,7 @@ pulled together and torn apart all at the same time.
 But we both dared dream that, through love, illusion of separation the
 world over could be ended.
 
-### So That's It! For Now...
+## So That's It! For Now...
 
 I wrote this section at my usual coffee spot, on July 5th, overcome
 with brief inspiration, right before I was about to leave of
