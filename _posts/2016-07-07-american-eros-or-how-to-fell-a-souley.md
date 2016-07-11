@@ -12,27 +12,43 @@ excerpt: ""
 ## The Episaga
 
 So, this is an excerpted chapter from a book that exists in the
-future. This isn't just any normal book. This is a compendium of
-myriad storytellers, forked and spliced to weave together hundreds of
-stories, all rooted in a fixed point: the most perfectly visceral
+future. This isn't just any normal book. This is a compendium compiled
+by myriad storytellers, forked & spliced to weave together hundreds
+of stories, all rooted in a fixed point: the most perfectly visceral
 experience of *true love*.
 
-In fact, this kind of book only exists in the future. It's an
+In fact, this type of literature only exists in the future. It's an
 episaga. It's creators aren't authors. They are storytellers. This
 eminates from my appreciation of the oral storytelling tradition and a
 desire to return to the kind of myth that is more personal, more
 human. There is no one single account of such a myth because that
 would imply that such a story is perfect and what is less human than
-perfection? I hope that authors can embrace this concept: the episaga.
+perfection? I hope that authors can embrace the concept of the
+episaga.
 
-There are a few rules and constraints I want to set for this
-episaga. The first is a restriction on form: we start by hearing an
-account of an event in the future, loosely defined in concept, time,
-place, and role. As a reader, we know the story ends with this
-chapter. Or maybe, this chapter is a midpoint in some greater
-saga. Maybe it's a romance novel or a sci-fi thriller. Who knows. But,
-I've always found that some simple, basic limitations envigorate
-creativity.
+Though this concept is hardly new, I want to find the architypical
+kind of story for it. I want it to be something like the Aristocrat
+joke for comedians, where the objective is to take this basic concept
+and tell the best story from it. Even the episaga is to be successful
+as a concept, there still won't be very many root stories that gain
+significant popularity, since for any project to gain momentum, it
+would have to enjoy the support of tons of authors.  Then of course,
+there's the problem of trademark and copyright. What if someone
+invests a ton of time on this, to no avail. Fortunately, I've found
+the perfect answer to this for now: I've named my story "American
+Eros," which was published on June 1st, 2013. It's already a
+trademark, so by no means could anyone really make financial gain from
+these stories! Boom: problem null and void. Haha, take that, Roko
+Basilisk...
+
+Anyways, there are a few rules and constraints I want to set for this
+particular episaga. The first is a restriction on form: we start by
+hearing an account of an event in the future, loosely defined in
+concept, time, place, and role. As a reader, we know the story ends
+with this chapter. Or maybe, this chapter is a midpoint in some
+greater saga. Maybe it's a romance novel or a sci-fi thriller. Who
+knows. But, I've always found that some simple, basic limitations
+envigorate creativity.
 
 When I actually pitch the episaga to authors, writers and
 storytellers, I'll explain a few more constraints. Some others include
@@ -71,11 +87,13 @@ instantly recognized. Computer vision requires intense processing and
 so does human vision. I discuss these ideas a bit more in
 [Epistemology, Cognition and Category Theory: A Model for the Mind](http://te.xel.io/posts/2015-08-23-epistemology-cognition-and-category-theory-part-two.html).
 
-#　一期一会
+# 一期一会
+
+いちごいちえ
+
+Ichi Go, Ichi É
 
 ### A Once in a Lifetime Experience
-
-一期一会 - いちごいちえ - Ichi Go, Ichi É
 
 This concept from Japan and Zen Buddhism refers to the nature of such
 stellar once-in-a-lifetime or once-in-an-age events. But, there's a
@@ -117,6 +135,8 @@ immediately after an experience.
 > extrapolate information. But it should be able to extract memory
 > and, if not, then at least detect violations of consistency in
 > various regions of the brain.
+>
+> By the way, [my brain](https://github.com/dcunited001/mri-scans)
 
 Basically, what I'm trying to say is that David Foster Wallace was a
 genius in the way he wove together various threads & subthreads for
@@ -129,7 +149,7 @@ I never thought I'd have that once in a lifetime experience ... but it
 happened, so fast, so illustriously fast. It wasn't love at first
 sight. I fell in love the instant I heard her voice, before I turned
 to see the angel whose radiance my presence was most certainly
-robbing of vitreosity. And brilliance.
+syphoning vitreosity. And brilliance.
 
 It was the unexpected tap on the shoulder. And her voice. It was her
 voice. Those words in that instant. It led my heart to awaken. Somehow
@@ -143,12 +163,10 @@ These are undesired. Most definitely not meant to be understood, if
 ever shown to my observer at all. The observer, the one who
 witnesses...
 
-(the observer can't see this, but designed it? need to explain)
-
 Not even my own radiance could pierce those layers of detrimental
 self-depricating defense mechanisms. Instead, there's only a faint
 aura, an indication of black-body radiation, coupled with what must
-certainly contain blistering heat. (from contained energy) Ne touchez
+certainly contain blistering heat from contained energy. Ne touchez
 pas! [additional generic language warnings for hot coffee] But I
 wonder, what would the world see if the self-imposed restraints
 marring my heart's light could be released? What would my observer
@@ -239,12 +257,12 @@ And thus, this is how the universe became philocentric. In one sudden
 moment, the earth, the stars, they fell around us. Love became the
 center of the universe. We became the center of the universe. Nothing
 else mattered. The fruit of fortune and fame bloomed in front of us,
-green hues shifting to red. Tantalized. Still so tantalizing.
-Outpacing the warmth still filling into my fingers, the perspiration
-seeping out of my palms. Something so perfect. Nothing perfect needs
-anything added or removed. How do I reach out? How do I take it? My
-palms are probably glistening with sweat. What if I can't hold onto
-it?
+green hues shifting to red. Tantalized. Still so tantalizing. Still so
+tantalizing. Outpacing the warmth still filling into my fingers, the
+perspiration seeping out of my palms. Something so perfect. Nothing
+perfect needs anything added or removed. How do I reach out? How do I
+take it? My palms are probably glistening with sweat. What if I can't
+hold onto it?
 
 But I felt it. Nothing can confirm your destiny to yourself as
 strongly as feeling the foundation of your fate shifting tectonically
@@ -257,8 +275,22 @@ milky way thrust its mass hopelessly against the chains of fate.
 
 ending with: ... ?
 
-Two new friends dared dream that illusion of separation the world over
-could be ended.
+Two new friends
+- complete strangers
+
+it was the way she tapped my genius
+
+
+the net result is that no, they didn't end up together
+- but after that weekend, he discovered the capacity for love to
+  dissolve that separation, finally feeling like part of the world,
+  instead of peering in as an outsider.
+  - brief thoughts on the difference b/w being an insider/outsider
+- and his character hopes that he can help dissolve that separation in
+  others as well.
+
+but dared dream that, through love, illusion of separation the world
+over could be ended.
 
 ###
 
@@ -287,8 +319,13 @@ render all your efforts pointless.
 It's the kind of thing that can only be done by observing just the
 right qualities in people and their friends and then hoping your
 understanding of their personalities will invite a magnanimous
-planetery alignment, when they meet. this is particularly hard for
-quiet and/or shy people. to figure out how to bring them
+planetery alignment, when they meet. This could be particularly hard
+for quiet and/or shy people. To figure out how to bring them
 out. Fortunately, there are people who are good at that. Opposites
 attract. I'm really just looking for a girl who can straight up
-operate my brain like a computer. A better half.
+operate my brain like a computer. A better half. Someone who can tap
+into my genius and who feels like
+
+Here's a reading of this first section of American Eros.
+
+<iframe width="420" height="315" src="https://www.youtube.com/embed/RJRpcJuoYS8" frameborder="0" allowfullscreen></iframe>

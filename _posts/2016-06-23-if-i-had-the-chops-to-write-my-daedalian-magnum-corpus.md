@@ -933,7 +933,7 @@ book I'd like to read, but I don't read as much as I should.
 On the Wikipedia page, it's noted that David Foster Wallace mentions
 that "the answers all [exist], but just past the last page."
 
-### The Crying of Log 49
+### The Crying of Lot 49
 
 Another book I need to finish, but so far I've noticed that the use of
 language is remarkable, as are the allusions to other pieces of
@@ -1108,4 +1108,3 @@ wanted to write about.
 
 #&#x300C;&#x25CA;&#x203D;&#x03BB;&#x2207;&#x03A6;&#x300D;
 {:center}
-
