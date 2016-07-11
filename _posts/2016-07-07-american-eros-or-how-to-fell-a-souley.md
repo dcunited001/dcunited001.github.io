@@ -34,7 +34,7 @@ perfection? I hope that authors can embrace the concept of the
 episaga.
 
 Though this concept is hardly new, I want to find the architypical
-kind of story for it. I want it to be something like the Aristocrat
+kind of story for it. I want it to be something like the *Aristocrat*
 joke for comedians, where the objective is to take this basic concept
 and tell the best story from it. Even the episaga is to be successful
 as a concept, there still won't be very many root stories that gain
