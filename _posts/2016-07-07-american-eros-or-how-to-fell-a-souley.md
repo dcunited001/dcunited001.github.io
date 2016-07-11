@@ -16,6 +16,8 @@ What would that be like? My head started spinning..."
 
 ## The Episaga
 
+#### To skip to the story, [click here](#the-story)
+
 So, this is an excerpted chapter from a book that exists in the
 future. This isn't just any normal book. This is a compendium compiled
 by myriad storytellers, forked & spliced to weave together hundreds
@@ -171,7 +173,7 @@ genius in the way he wove together various threads & subthreads for
 Infinite Jest ... even though I've only read like 50 pages so far. In
 a way, I want to imitate that style with this work. In a way...
 
-# American Eros:
+<h1><a href="#the-story" name="the-story">American Eros</a></h1>
 
 ## Or How to Fell a Souley
 
