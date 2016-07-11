@@ -304,10 +304,12 @@ held me back. From what I knew now, I could reach out to others. Maybe
 I could free them too. With knowledge. With experience. With love.
 
 If the rest of humanity could feel what I felt in that instant, just
-once. They would know. If they could feel what I felt, they would be
-moved. She could tap into my genius, the ethereal spectra of ancient
-souls my own spirit was metaphysically linked to. I knew I had the
-potential to be great, but my biggest enemy was myself.
+once. They would know. If they could feel the relief, the warmth that
+my heart felt, they would be moved. She could tap into my genius, the
+ethereal spectra of ancient souls my own spirit was metaphysically
+linked to. I knew I had the potential to be great, but my biggest
+enemy was myself. I needed someone like that; a better half. Someone
+to fill in all the gaps.
 
 And somehow, she knew me better than I did myself. That's what it felt
 like. I asked. Have we met? I racked my mind and countless memories to
