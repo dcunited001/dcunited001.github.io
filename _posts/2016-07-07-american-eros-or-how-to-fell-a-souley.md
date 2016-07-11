@@ -134,7 +134,9 @@ of that sensory experience. These behaviors of the mind are often
 noted as what causes witness testimony to change so dramatically,
 immediately after an experience.
 
-> Quick sidenote: what if everything we've ever seen exists encoded in
+#### A Brief Neurological Sidenote
+
+> What if everything we've ever seen exists encoded in
 > our mind, whether or not those images are linked to consciously
 > accessible memories? Could we replay someone's life from an MRI?
 > Even the suppressed memories? If for some reason it's possible to
