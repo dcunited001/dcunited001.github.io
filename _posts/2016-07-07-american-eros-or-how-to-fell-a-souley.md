@@ -3,7 +3,7 @@ title: "American Eros: Or How to Fell A Souley"
 categories: blog
 tags: "creativity writing sci-fi language linguistics dreams
 literature metamodernism savingtheworld philosophy"
-headline: ""
+headline: "I had a sudden inspiration to write down the perfect love scene."
 author:
   name: "David Conner"
 excerpt: "
@@ -45,12 +45,12 @@ invests a ton of time on this, to no avail. Fortunately, I've found
 the perfect answer to this for now: I've named my story "American
 Eros," which was published on June 1st, 2013. It's already a
 trademark, so by no means could anyone really make financial gain from
-these stories! Boom: problem null and void. Haha, take that, Roko
+these stories! Boom: problem null and void. Haha, take that, Roko's
 Basilisk...
 
 ### American Eros: Just Look at those Washboard Abs!
 
-#### Who could trample on that sheer artistry?
+#### Who would trample on that sheer artistry?
 
 ![American Eros: Just Look at those Washboard Abs](/img/posts/2016-07-07-american-eros-or-how-to-fell-a-souley/american-eros-cover.jpeg)
 
@@ -239,8 +239,8 @@ out. Whoever it was, if he could just see the maze...
 Another heartbeat. No, that can't be right. What was I doing? Her
 voice? Who was it? I didn't know her. Or did I? My subconscious starts
 comparing the imprint in my phonological loop, restreaming it and
-transforming it in the endohelian cortex, trying to understand: who's
-image is this? Not image, but voiceprint?
+transforming it in the auditory cortex, trying to understand: who's
+image is this? Not image, but voiceprint.
 
 My observer is unaware, but my subconsious halts all other background
 processes, solely to resolve this one question. Do I know her?

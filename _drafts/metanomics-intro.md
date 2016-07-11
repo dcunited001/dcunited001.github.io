@@ -25,6 +25,9 @@ about self-organizing entropy forming life
 intro
 - explain higher level organization of *-nomics
   - reference notes from Pavel Pevzner's lecture
+  - define genomics in relation to epigenomics
+  - define transcriptomics
+  - define proteomics
 - lead into metanomics
 - also explain it in relation to probabilistic programming
 
@@ -39,6 +42,7 @@ intro
 
 explain spatially distributed state at a high level
 - hierarchically distributed state
+  - this enables execution of tree-like sets of behavior across cells
 - physical distribution of cells imparts some higher order
   hierarchical distribution of state (than just cellular)
   - e.g. groupings of cell types, blood brain barrier
@@ -47,11 +51,50 @@ explain spatially distributed state at a high level
     opportunity for exchange of state between tissues
   - ventricular system in the brain (need to look into details here)
 
+ergodics can describe these stable states of biological systems
+- these states are like the "resting places" of systems
+  - a transition can be
+
+(maybe move somewhere else, but it's important for ergodics
+description) in such a system, the variables are really defined as the
+presence or absence of a particular molecule in a variably sized space
+- this space could be divided into subunits
+  - and reoriented
+- this is particularly complicated by the need to allow for
+  statistical-mechanics-like arrangements of particles (that are not
+  spherical cows)
+
 ### Value Proposition Summary
 
 - i need a better analogy for explaining these ideas
   - i've always known genomics and DNA to be programs, but yet there
     was always a disconnect there
+    - the main disconnect was for cell types, but this is fairly well
+      explained by epigenetic mechinisms
+    - still, how do you coordinate across neighbor cells and
+      communicate?
+    - how do you coordinate behavior of nucleus?
+    - if genetics is a program, could there be event-driven behavior?
+      - there certainly is. and probabilistic programming is like a
+        kind of statistical reeinvisioning of event-driven
+        programming, but with events described as the intersection of
+        two "variables" in space
+        - again, a variable is like the presence or absence of a
+          variable, with restrictions on orientation
+        - so the intersection of these is like the intersection of two
+          of those moleculse, but with restrictions on how that
+          "intersection" occured.
+        - such an event causes a reaction.
+    - the spatially distributed state forms a physical
+      hierarchy of compartments. these add the notion of scope common
+      to many programming languages ... sort of.
+      - in programming languages, special steps and handling is needed
+        to allow a variable to escape scope. if it's not done
+        properly, it may not have the intended effect or could cause
+        problems
+      - so this spatial hierarchy of containers are really like
+        execution closures. they are literally physical closures that
+        act as containers for values (proteins, mRNA, etc)
 
 - how do i relate this to someone who doesn't know anything about
   metanomics, probabilistic programming or ergodic theory
@@ -77,7 +120,6 @@ explain spatially distributed state at a high level
 
 - the section on P450 needs to be towards the end of the article
   - so that there's plenty of space to overview everything
-
 - sometimes
 
 ### Changes in Cytochrome P450 from long term drug usage
@@ -166,6 +208,8 @@ explain spatially distributed state at a high level
 
 ## Metanomics x Probabilistic Programming
 
+this may need to be the second part.
+
 ### Probabilistic Programming for Computers
 
 - what is probabilistic programming
@@ -179,7 +223,7 @@ explain spatially distributed state at a high level
     - powersets of interactions, etc, etc
   - cells can even use metaprogramming
 - list current models for biological behavior that this model
-  -circumscribes
+  - circumscribes ... what did i mean by 'circumscribes'?
 
 - what's the difference between current models and this paradigm for
   genetic behavior?
@@ -358,6 +402,7 @@ molecular dynamics"
 
 #### State Isolation Unit
 
+- this definitely has to be the "name" for this thing
 - a cell
 - a closed branch of a tissue network,
 - an organ or cellular organelle (endoplasmic reticulum, where protein
