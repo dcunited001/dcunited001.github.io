@@ -6,7 +6,12 @@ literature metamodernism savingtheworld philosophy"
 headline: ""
 author:
   name: "David Conner"
-excerpt: ""
+excerpt: "
+I had a sudden inspiration to write down the perfect love scene. It
+came to me on Wednesday. I was wondering why I've never had that love
+at first sight experience. And then I thought, why should sight be
+involved? Could someone fall in love without ever seeing someone?
+What would that be like? My head started spinning..."
 ---
 
 ## The Episaga
