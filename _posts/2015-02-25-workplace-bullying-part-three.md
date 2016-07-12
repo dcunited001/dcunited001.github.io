@@ -682,6 +682,69 @@ By listening in to your conversations, a workplace bully can identify
 scenario's they are likely to get away with and they can gain
 invaluable understanding behind your own actions as well.
 
+This almost implies that someone has other people networked in on
+this, by the way. Installing malware is the kind of move where it's
+going to leave a trace. They could get caught. If they got caught,
+that'd be a big fucking deal. But guess what! It's not them. It's
+someone else that you don't know that does this. Then they're not at
+risk to take the fault, even though they are receiving information and
+advice about how to handle you from someone else.
+
+### The Smoking Gun
+
+THIS IS THE DEAD GIVEAWAY THAT SOMEONE FUCKED WITH MY LIFE, BY THE
+WAY! No, not that someone installed malware, but that there were
+people who could not possibly coordinating their actions was perfectly
+incidentally as they were and as part of a coordinated strategy with
+regard to my psychology and sociology!!! That's what makes me so
+goddamn angry about all this. KNOWING that someone fucked with my life
+for the better part of a decade and RUINED it. And knowing that no one
+will ever display the accountability for this. NEVER! What the fuck is
+that?
+
+How the fuck am I supposed to move on after CAREER ASSASSINATION?!
+When no one will ever say "Yeh, something along those lines
+happened. You should probably give him a fucking break."
+
+GET THE FUCK OUTTA HERE WITH THAT SHIT. And you want to know what
+pisses me off?
+
+And NO, this was not just **random behavior** from malicious
+people. That on it's own is bad enough. But you know how I can tell?
+Look for the equilibrium these people seek. That's the subject of an
+article I'll write soon. But these people, the handful I've had a
+problem with, it's their objective to seek to push me out. It's like
+linear regression, for human behavior. They are completely fine when
+things are getting worse, for me. Usually, if you have problems with
+someone, you can sort that shit out. But not if they really, really
+are out to get you. Then they are going to get you. And they are not
+going to tell you and they are going to throw everything they have at
+you AND THEY ARE FUCKING GOOD AT IT.
+
+### America? WHAT THE FUCK!!
+
+And I think I have perfectly displayed just how intelligent I am. If
+someone had worked with me in a positive way -- or rather, if someone
+had not outright sabotaged my life and destroyed my family
+relationships, yada yada, then I would have been completely fine. I
+would have excelled actually. I would have been so much further than I
+am now.
+
+So yeh. Go ahead and say "we wanted the best for you." That shit right
+there? That's laughable. Because if I was laying in a gutter right
+now, these assholes would sleep sound at night knowing their job had
+been done. Their objective to discredit me and destroy my life had
+been completed. They never, ever wanted what was best for me. They
+wanted me to get the fuck out of the way. That's all.
+
+And what if I hadn't been so intelligent? What if I couldn't recognize
+what was going on. That something was wrong. They threw their entire
+weight against someone who has asberger's and neurological
+problems. And someone whom they specificly isolated to solitude. AND I
+FUCKING HANDED THEIR ASSES TO THEM. And you know what? They're
+mad. They're mad that they didn't win. They're fucking sore
+losers. And they got their asses handed to them by an "autist."
+
 ![Alice in Wonderland](/img/posts/2015-02-25-workplace-bullying-part-three/alice-in-wonderland.jpg)
 
 ### So that's it for Part Three
