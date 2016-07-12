@@ -1,172 +1,298 @@
 ---
 title: "Wherefore Art Thou, SSB!"
+categories: blog
+tags: "productivity creative-writing"
+headline: "Long, long ago ..."
 author:
   name: "David Conner"
+excerpt: "
+... there was a script that circulated the interwebs: create-ssb.sh.
+And it was a good script, for it vanquished the evils of Tabitis,
+that deadly disease which wasteth your time with petty tab-management.
+Remnants of said script still circulate the interwebs today.  But
+lo! -- I truly pity the fool who readth these blog posts.  For
+surely, they shall waste hours of their time."
 ---
 
-### Long, long ago ...
-... there was a script that circulated the interwebs: create-ssb.sh.  And it was a good script, for it vanquished the evils of **Tabitis**, that deadly disease which wasteth your time with petty tab-management.  Remnants of said script still circulate the interwebs today.  **But lo!** -- I truly pity the fool who readth these blog posts.  For surely, they shall waste hours of their time. 
+## Long, long ago ...
 
-What times are these when mighty corporations dare breakth the mere hacks we have come to love so much?  But some shall surely say "ho! here is FluidApp" and to them I say - "Who the $#@! uses Safari?".  Still others more shall say "TooManyTabs" and to them I say - "Ye chrome plugin flickerth when I do open it and woe unto he who wasteth my CPU with petty graphics".  
+... there was a script that circulated the interwebs: create-ssb.sh.
+And it was a good script, for it vanquished the evils of **Tabitis**,
+that deadly disease which wasteth your time with petty tab-management.
+Remnants of said script still circulate the interwebs today.  **But
+lo!** -- I truly pity the fool who readth these blog posts.  For
+surely, they shall waste hours of their time.
 
-Surely, the wise Greybeards atop Mt. Google will hear our pleas for improved tab management and send unto us **The Chosen One** who shall vanquish Tabitis *forever*, so that we may return to spending our time writing software.  For then, surely our sanity will be restored.
+What times are these when mighty corporations dare breakth the mere
+hacks we have come to love so much?  But some shall surely say "ho!
+here is FluidApp" and to them I say - "Who the $#@! uses Safari?".
+Still others more shall say "TooManyTabs" and to them I say - "Ye
+chrome plugin flickerth when I do open it and woe unto he who wasteth
+my CPU with petty graphics".
+
+Surely, the wise Greybeards atop Mt. Google will hear our pleas for
+improved tab management and send unto us **The Chosen One** who shall
+vanquish Tabitis *forever*, so that we may return to spending our time
+writing software.  For then, surely our sanity will be restored.
 
 ------------------------
 
 ### When I upgraded to OSX 10.9 in late February, all my SSB's broke.
 
-I believed some changes in how OSX handles processes are preventing SSB's from being treated as separate applications.  I later found out that it's a combination of Gatekeeper and the create-ssb.sh script, which did not properly sign the SSB executables.
+I believed some changes in how OSX handles processes are preventing
+SSB's from being treated as separate applications.  I later found out
+that it's a combination of Gatekeeper and the create-ssb.sh script,
+which did not properly sign the SSB executables.
 
-**I had an SSB for:**
+### I had an SSB for:
 
-1) All of my non-work browsing (facebook, etc)
+#### 1) All of my non-work browsing (facebook, etc)
 
-2) My Google apps (Gmail,Voice,Calendar, Etc)
+#### 2) My Google apps (Gmail,Voice,Calendar, Etc)
 
-3) All of my local web development 
-  - a tabset with localhost:3000, localhost:8000, etc 
-  - these all automatically opened for me at the push of a button
+#### 3) All of my local web development
 
-4) Github
+A tabset with localhost:3000, localhost:8000, etc.  These all
+automatically opened for me at the push of a button
 
-5) Airbrake/Semaphore
+#### 4) Github
 
-6) And more
+#### 5) Airbrake/Semaphore
+
+#### 6) And more
 
 ### All of my SSB configuration was broken in OSX 10.9
 
-This makes me mad because I spent a lot of time looking for solutions that would save me time.  Let me emphasize the time-savings for context-switching in terms of **BIG O Notation**
+This makes me mad because I spent a lot of time looking for solutions
+that would save me time.  Let me emphasize the time-savings for
+context-switching in terms of **BIG O Notation**
 
-**I go from an O(1) operation that requires no short-term memory and requires < 0.1 seconds**
-- this means I press a keyboard shortcut and I go exactly to the webapp or window that I want
+**I go from an O(1) operation that requires no short-term memory and
+  requires < 0.1 seconds**
 
-**To an O(N^2) operation that requires lots of short-term memory and requires 5-50 seconds - To Switch Tabs**
-- O(N^2) is of course made up, but I wanted to put this in terms that an engineer can relate to
+This means I press a keyboard shortcut and I go exactly to the webapp
+or window that I want
+
+**To an O(N^2) operation that requires lots of short-term memory and
+  requires 5-50 seconds - To Switch Tabs**
+
+O(N^2) is of course made up, but I wanted to put this in terms that an
+engineer can relate to
 
 **however, the amount of time the process requires depends on:**
-- the number of tabs, the number of windows and the similarity between the content in the TINY, TINY, TINY tabs at the top of the screen
+
+The number of tabs, the number of windows and the similarity between
+the content in the TINY, TINY, TINY tabs at the top of the screen
 
 ### However, Site-Specific-Browsers still aren't the ideal solution to Tabitis because:
 
-1. it's difficult to have portable configuration between Chrome instances (the main problem)
-2. data generated by chrome is not shared between instances, like web history...
-3. the browser applications and their plugins eat more resources than they should
+#### 1) it's difficult to have portable configuration between Chrome instances (the main problem)
 
-### Here's what I love about SSB's:
+#### 2) data generated by chrome is not shared between instances, like web history...
 
-**1) Each Web Application is a TRUE Application**
-  - with configuration and tools like QuickSilver, I can assign a hotkey to immediately open that application, from any application
-  - when all everything is bundled in one application, I can't easily interface to that application with QuickSilver
+#### 3) the browser applications and their plugins eat more resources than they should
 
-**2) I can open as many Github Projects as I want in my Github Application**
-  - And then when I'm done, I can close ALL my Github activity, without affecting my GMail/Semaphore/Airbrake/etc tabs
-  - I don't have to inspect each tab and window to close them, i can just nuke the entire application!
+## Here's what I love about SSB's:
 
-**3) By configuring a set of tabs to open when I start the browser, I can make assumptions that save me time**
-  - I can ensure that GMail is ALWAYS tab 1, Voice is always tab 2, SoundCloud is always tab 3, etc...
-  - Likewise, I can ensure that when I shift focus to an SSB, I can press CMD+1, CMD+2, CMD+3 and go directly to the tab I need
-  - and I do not have to maintain the current state of my browser within my short-term memory!
-**4) I can have separate sets of Bookmarks, etc for each SSB**
-  - for example, my Github SSB had bookmarks for AWS and other dev tools.
-  - my development application had bookmarks to problem URL's where customer-reported bugs were present
+### 1) Each Web Application is a TRUE Application
 
-**5) Did You Know: Apple booted SoundCloud from the App Store, so there is NO_WAY to use this as a true application?**
-  - Even if you have the SoundCloud DMG backed up (which I did) - you still cannot log in with the application.
-  - So even when Apple wants to push around possible competition for iTunes, I can still use that webapp as an application
+With configuration and tools like QuickSilver, I can assign a hotkey
+to immediately open that application, from any application.  When all
+everything is bundled in one application, I can't easily interface to
+that application with QuickSilver
 
-**6) They make it difficult for websites to track your Facebook across the web**
-  - because that data's not even in the application
+### 2) I can open as many Github Projects as I want in my Github Application
 
-**7) I can restrict some plugins to only run on certain SSB's**
-  - plugins like vimium are great, but some of these plugins are poorly written and very resource intensive
-  - when they are running on multiple chrome applications, they suck resources bad
-  - this is one reason that I did not sign-in to all of my Chrome SSB's
+And then when I'm done, I can close ALL my Github activity, without
+affecting my GMail/Semaphore/Airbrake/etc tabs.  I don't have to
+inspect each tab and window to close them, i can just nuke the entire
+application!
 
-### Here are the solutions I had tried:
-**1) Tinkering for literally hours to get my SSB's working again...**
+### 3) By configuring a set of tabs to open when I start the browser, I can make assumptions that save me time
 
-**2) Considering switching to Linux for a multitude of reasons**
-  - but I don't know that there's a solution there.  maybe, i'll probably switch soon anyways... ugh don't get me started
+I can ensure that GMail is ALWAYS tab 1, Voice is always tab 2,
+SoundCloud is always tab 3, etc...  Likewise, I can ensure that when I
+shift focus to an SSB, I can press CMD+1, CMD+2, CMD+3 and go directly
+to the tab I need And I do not have to maintain the current state of
+my browser within my short-term memory!
 
-**3) TooManyTabs Plugin**
-  - while this is the best solution so far, i think I have used it maybe 3 times over almost 2 months
-  - it restricts your usage of shortcut keys, probably because it's a plugin
-  - it has flashy graphics that I don't like, I wish it were more like opening a file in Sublime, using fuzzy matching
+### 4) I can have separate sets of Bookmarks, etc for each SSB
 
-**4) OneTab Plugin**
-  - sorry this just isn't going to work for me
-  - *shortcut keys?*
+For example, my Github SSB had bookmarks for AWS and other dev tools.
+My development application had bookmarks to problem URL's where
+customer-reported bugs were present
 
-**5) TabOutliner Plugin**
-  - This one is interesting, but I just didn't like the interface
-  - I don't like User Interfaces that require me to LOOK for something
-  - **Standard Shortcut Keys?** *That work from any application!*
-  - This plugin has tabsets that you can restore, which is nice.
-  - but why would I waste time configuring something that I already know is not going to work (bc shortcut keys)
+### 5) Did You Know: Apple booted SoundCloud from the App Store, so there is NO_WAY to use this as a true application?
 
-**6) I scoured QuickSilver for a means of opening a specific tab or window within Chrome**
-  - But there's no good way I can think of to specify the tab/window you want
-  - If there was, then this data would already be organized within chrome 
-  - and thus, there would probably be a UI-Element for it within Chrome!
+Even if you have the SoundCloud DMG backed up (which I did) - you
+still cannot log in with the application. So even when Apple wants to
+push around possible competition for iTunes, I can still use that
+webapp as an application
 
-**7) I briefly thought about writing an Apple Automator Script**
+### 6) They make it difficult for websites to track your Facebook across the web
 
-**8) Using a Tablet/Laptop for browsing certain applications**
-  - this should be a great solution, but you run into configuration management issues
-  - how to sync passwords, etc, etc
-  - Now i need two laptops and a tablet.  It's not portable!
+Because that data's not even in the application
+
+### 7) I can restrict some plugins to only run on certain SSB's
+
+Plugins like vimium are great, but some of these plugins are poorly
+written and very resource intensive.  When they are running on
+multiple chrome applications, they suck resources bad.  This is one
+reason that I did not sign-in to all of my Chrome SSB's.
+
+## Here are the solutions I had tried:
+
+### 1) Tinkering for literally hours to get my SSB's working again...
+
+### 2) Considering switching to Linux for a multitude of reasons
+
+But I don't know that there's a solution there.  Maybe, i'll probably
+switch soon anyways... Ugh don't get me started
+
+### 3) TooManyTabs Plugin
+
+While this is the best solution so far, i think I have used it maybe 3
+times over almost 2 months.  It restricts your usage of shortcut keys,
+probably because it's a plugin.  It has flashy graphics that I don't
+like, I wish it were more like opening a file in Sublime, using fuzzy
+matching.
+
+### 4) OneTab Plugin
+
+Sorry this just isn't going to work for me. *No shortcut keys?*
+
+### 5) TabOutliner Plugin
+
+This one is interesting, but I just didn't like the interface. I
+don't like User Interfaces that require me to LOOK for something.
+**Standard Shortcut Keys?** *That work from any application!* This
+plugin has tabsets that you can restore, which is nice.  But why would
+I waste time configuring something that I already know is not going to
+work (bc shortcut keys)
+
+### 6) I scoured QuickSilver for a means of opening a specific tab or window within Chrome
+
+But there's no good way I can think of to specify the tab/window you
+want. If there was, then this data would already be organized within
+chrome. And thus, there would probably be a UI-Element for it within
+Chrome!
+
+### 7) I briefly thought about writing an Apple Automator Script
+
+
+### 8) Using a Tablet/Laptop for browsing certain applications
+
+This should be a great solution, but you run into configuration
+management issues. How to sync passwords, etc, etc. Now i need two
+laptops and a tablet. It's not portable!
 
 ### What about an official feature?
 
-Add the ability to set up Chrome Application Instances
-- These instances are just like SSB's.  To the OS, they should appear as separate applications
-- This means I can easily add shortcuts to each instance using QuickSilver and GnomeDo
+#### Add the ability to set up Chrome Application Instances
 
-Add the ability to configure a Chrome Application Instance to use a specific Chrome User
-- this ensures each Chrome Instance has it's own configuration, if needed/wanted
-- additionally, i believe this allows you to restrict plugins as well
+These instances are just like SSB's. To the OS, they should appear as
+separate applications. This means I can easily add shortcuts to each
+instance using QuickSilver and GnomeDo.
 
-#### Here's another UI Solution that can be used in tandem
-- set up a simple fuzzy matcher that allows you to switch tabs, based on the title of the page
-- a feature like this exists in vimium
-- but i'm sorry, it's frustrating to rely on a plugin that I have disabled on a few pages
+#### Add the ability to configure a Chrome Application Instance to use a specific Chrome User
+
+This ensures each Chrome Instance has it's own configuration, if
+needed/wanted. Additionally, i believe this allows you to restrict
+plugins as well.
+
+### Here's another UI Solution that can be used in tandem
+
+Set up a simple fuzzy matcher that allows you to switch tabs, based on
+the title of the page.  A feature like this exists in vimium.  But i'm
+sorry, it's frustrating to rely on a plugin that I have disabled on a
+few pages.
 
 ### Why hasn't an official feature been rolled out?
 
-My fear is that I am maybe one of hundreds of nerds that uses a browser in this way.  And therefore, the impact is too small and my pleas will go unnoticed.  But it's incredibly useful for me.  I need to quickly refer to information on the web in a manner that does not interfere with what I'm doing.  And when companies want me to update tickets, timesheets and data in several webapps **as I code**, I end up hopelessly distracted ... unless my workflow is organized.
+My fear is that I am maybe one of hundreds of nerds that uses a
+browser in this way.  And therefore, the impact is too small and my
+pleas will go unnoticed.  But it's incredibly useful for me.  I need
+to quickly refer to information on the web in a manner that does not
+interfere with what I'm doing.  And when companies want me to update
+tickets, timesheets and data in several webapps **as I code**, I end
+up hopelessly distracted ... unless my workflow is organized.
 
-However, implementing this may interfere with the data Google collects.  IMO, implementing this will actually produce better data because it implicitly associates the data with the context of the user's activities, but it might not be easy.
+However, implementing this may interfere with the data Google
+collects.  IMO, implementing this will actually produce better data
+because it implicitly associates the data with the context of the
+user's activities, but it might not be easy.
 
 ## Here's the bottom line
 
-if increasingly more applications are webapps, then why do webapps become increasingly painful to use, especially when using multiple webapps simultaneously?  webapps should not be like that and everyone would save time if they weren't...
-
-------------------------
+if increasingly more applications are webapps, then why do webapps
+become increasingly painful to use, especially when using multiple
+webapps simultaneously?  webapps should not be like that and everyone
+would save time if they weren't...
 
 ## **Update:** Fortunately, there's a fix for the Gatekeeper conflict!
 
-Anyone else feel like they're reading the Ghostbusters 3 script?  I did find that the [official Chrome SSB repo](https://github.com/lhl/chrome-ssb-osx) has a [pull request](https://github.com/lhl/chrome-ssb-osx/issues/23) that addresses the Gatekeeper bug!  My heart leapt for joy and I hurredly began configuring my SSB's once more.  
+Anyone else feel like they're reading the Ghostbusters 3 script?  I
+did find that the
+[official Chrome SSB repo](https://github.com/lhl/chrome-ssb-osx) has
+a [pull request](https://github.com/lhl/chrome-ssb-osx/issues/23) that
+addresses the Gatekeeper bug!  My heart leapt for joy and I hurredly
+began configuring my SSB's once more.
 
-The SSB processes were separate!  Everything was working as expected!  I could set up quicksilver shortcuts!  I hadn't been happier since before I installed OSX 10.9, which is *so easy* **IFF** you upgrade and *do not reinstall from a fresh image*.  If you follow some guides online, you'll end up with an installation and no recovery partition, not that you really need one.  It's healthy to blow away your OS from time to time.  Ugh anyways, don't get me started on that one!
+The SSB processes were separate!  Everything was working as expected!
+I could set up quicksilver shortcuts!  I hadn't been happier since
+before I installed OSX 10.9, which is *so easy* **IFF** you upgrade
+and *do not reinstall from a fresh image*.  If you follow some guides
+online, you'll end up with an installation and no recovery partition,
+not that you really need one.  It's healthy to blow away your OS from
+time to time.  Ugh anyways, don't get me started on that one!
 
 Back to the crusade.  *Annnnnd ...*
 
 ### Alas! There be two more dragons here!
 
-I noticed some Apple Keychain popups, which I denied at first.  They kept appearing, but finally they stopped.  Finally back to my business of eradicating tabitis *forever*.  
+I noticed some Apple Keychain popups, which I denied at first.  They
+kept appearing, but finally they stopped.  Finally back to my business
+of eradicating tabitis *forever*.
 
-**Dragon #1** - Just testing the ole' browser here.  Everything's working well.  Then I decide it'd be a swell idea to have multiple Chrome users, one for each SSB.  Seems to work just fine at first.  But, then the entire internet breaks.  Only on the SSB though and only with Chrome users.  
+**Dragon #1** - Just testing the ole' browser here.  Everything's
+working well.  Then I decide it'd be a swell idea to have multiple
+Chrome users, one for each SSB.  Seems to work just fine at first.
+But, then the entire internet breaks.  Only on the SSB though and
+only with Chrome users.
 
-The symptoms are different depending on what type of Chrome user I'm signed in with.  Supervised users are the worst.  I can't even get to a single webpage!  Unsupervised Chrome users work ok -- but wait! Nevermind, static assets don't load right. 
+The symptoms are different depending on what type of Chrome user I'm
+signed in with.  Supervised users are the worst.  I can't even get to
+a single webpage!  Unsupervised Chrome users work ok -- but wait!
+Nevermind, static assets don't load right.
 
-Whatever, I'll just forget about multiple users for a minute.  I've already wasted hours trying to figure this out.  But these damn keychain popups won't stop!  There's hundreds of them and they are relentless!  Arg **Dragon #2!**  The good news - I'm pretty sure they're related, if I can stop the keychain popups, I think everything will load fine.  The good news is that today I found another [pull request](https://github.com/lhl/chrome-ssb-osx/issues/27) that should address this.  We'll see, but I'm stoked that someone is helping resolve this.
+Whatever, I'll just forget about multiple users for a minute.  I've
+already wasted hours trying to figure this out.  But these damn
+keychain popups won't stop!  There's hundreds of them and they are
+relentless!  Arg **Dragon #2!** The good news - I'm pretty sure
+they're related, if I can stop the keychain popups, I think everything
+will load fine.  The good news is that today I found another
+[pull request](https://github.com/lhl/chrome-ssb-osx/issues/27) that
+should address this.  We'll see, but I'm stoked that someone is
+helping resolve this.
 
 ### On Linux?
 
-*No problems whatsoever!*  Everything works as it should.  **IT TOOK FIVE MINUTES!**  Just follow [this guide here](http://mccormick.cx/news/entries/isolated-browsing-with-chrome) and you can store a per-SSB profile, *whereever you like* - no hacks.
+*No problems whatsoever!* Everything works as it should.  **IT TOOK
+ FIVE MINUTES!** Just follow
+ [this guide here](http://mccormick.cx/news/entries/isolated-browsing-with-chrome)
+ and you can store a per-SSB profile, *whereever you like* - no hacks.
 
-At this point, I had sworn off OSX forever.  I've since installed Linux Mint and I'm still thinking of making the switch.  There's only a few dev tools holding me back: iTerm, KeyRemap and well, that's about it.  If I switch, I might still use OSX for iMovie and a few other "normal" things.  
+At this point, I had sworn off OSX forever.  I've since installed
+Linux Mint and I'm still thinking of making the switch.  There's only
+a few dev tools holding me back: iTerm, KeyRemap and well, that's
+about it.  If I switch, I might still use OSX for iMovie and a few
+other "normal" things.
 
 ## It's a hack after all.  Why was I so pissed?
 
-This hack saves me tons of time.  And I still don't understand why it's not a *feature*.  I didn't expect this to happen when I upgraded to 10.9 and it was a *huge* disappointment.  I've invested a lot of time finding ways to save time.  And this is one method that saves a lot of time and reduces stress in organizing my work.  I'm hopeful that everything will resolved.
+This hack saves me tons of time.  And I still don't understand why
+it's not a *feature*.  I didn't expect this to happen when I upgraded
+to 10.9 and it was a *huge* disappointment.  I've invested a lot of
+time finding ways to save time.  And this is one method that saves a
+lot of time and reduces stress in organizing my work.  I'm hopeful
+that everything will resolved.
