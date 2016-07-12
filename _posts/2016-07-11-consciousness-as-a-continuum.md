@@ -18,6 +18,7 @@ excerpt: "
   - need a thesis
 
 - why do i need to talk about entropy
+  - both cosmic entropy and informational entropy
 
 - why do i need to talk about quantum entanglement
 
@@ -31,34 +32,71 @@ a logarithmic measure of the rate of transfer of information in a
 particular message or language.
 - entropy in information theory is derived from the amount of
   possible variations in an encoded message.
+  - so in the context of physics and especially biology,
+    - informational entropy plays a role in determining the types and
+      rates of interactions that could occur between particles
+    - as if the intersection of two particles is a kind of
+      informational exchange
+  - ... i think. i haven't really thought this out. it seems like a
+    parallel could be identified here...
 
 In the grand scheme of things, cosmic entropy is its own
-anti-thesis. Or ... we should hope that it is. Entropy is EVIL!! Our
-ability to counter it and our capacity to dominate it determines our
-cosmic fate. We have to do so ethically of course, but observing the
-universe's state, it appears there's not much out there capable of
+anti-thesis. Or ... we should hope that it is. Entropy is EVIL!! lulz
+
+Our ability to counter entropy and our capacity to dominate it
+determines our cosmic fate. We have to do so ethically of course, but
+observing the universe's state, it appears there's not much out there
 doing so on a grand scale. Such
 [Type II/III](https://en.wikipedia.org/wiki/Kardashev_scale)
 Civilizations would show up as abberations violating natural entropy
 in cosmology. Intelligent life *could* account for *some* of Dark
 Matter's variation, but I just don't know enough about astrology &
-cosmology.
+cosmology. That's right, intelligent life should show up as
+statistical error in our models of the universe.
 
 Our ability to increase the computational capacity of the universe
 determines our ability to augment our window of consciousness into the
 universe. More computational power translates into the power to solve
 bigger problems. More importantly, it translates into the ability to
 virtualize larger and larger worlds, if for some reason other worlds
-are not accessible in another means. This digs into some ideas I
-hesitate to write about quite yet, but they extend what is discussed
-in
+are not accessible in another means. This extends from what I've
+written in
 [I'm Not Religious, I'm Spiritual (Part One)](/posts/2016-06-01-im-not-religious-im-spiritual-1-God-is-not-dead.html)
 and
 [Nature of God](http://localhost:4000/posts/2016-05-31-the-nature-of-god.html).
 
 Entropy determines the fate of the universe. If there's a Big Crunch,
 we can deal with that a lot easier than a Big Freeze. There must
-certainly be one or the other, I think.
+certainly be one or the other, I think. With increasing vastness of
+space, it will require more energy to reorganize it for
+computation. That's depressing. Depending on the inherent
+computational potential of matter, we can create powerful computers
+with the matter/energy available to us. But if we're surrounded by a
+cosmic desert, we can't build massive computers. And that limits our
+ability to expand into virtual universes that descend from ours.
+
+Basically, the complexity of a universe that can be reasonably
+simulated by intelligent life depends on this computational density
+and our ability to assemble pieces of such a massive computer.
+
+### 
+
+> Side trek: what if stars *are* such a massive network of computers,
+> because of the possible interconnectedness of all matter? In other
+> words, there could be a quantum virus harnessing entanglement that
+> impregnates stars with a self-replicating form of quantum
+> information, eventually transforming that star into a node in a
+> universal network. It's like a cosmic game of tag with stars. You
+> just have to physically get to each one first.
+
+### Quantum Broadband
+
+#### WTF, Comcast!! Where you at?
+
+> Or, what if matter really forms this quantum channel of
+> communication and the reason SETI hasn't picked up alien signals is
+> because their all talking on another channel. That's my personal
+> answer to Fermi's paradox. That or 
 
 # The Connectedness of All Things
 
