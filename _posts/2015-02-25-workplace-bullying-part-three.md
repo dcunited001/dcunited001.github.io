@@ -43,9 +43,77 @@ encourage inaction and to prevent interference.
 
 The worst part about these tactics is their indirectness.
 
-### &#x2605; Hall of Mirrors
+### &#x265E; [Hall of Mirrors](#hall-of-mirrors)
+
+### &#x265E; [Spread Rumors](#spread-rumors)
+
+### &#x265E; [Abuse Confirmation Bias when Speading Rumors](#abuse-confirmation-bias)
+
+### &#x265E; [Construct a Lie with Elements of the Truth](lie-with-elements-of-the-truth)
+
+### &#x265E; [Pick a Weak Target](#pick-a-weak-target)
+
+### &#x265E; [Identify the Target's Strongest Connections and Sever Them](#disconnect-the-target)
+
+### &#x265E; [Blocking Moves, Like Those in Chess](#blocking-moves)
+
+### &#x265E; [Attach Labels to You](#attach-labels)
+
+### &#x265E; [Disarm You with Kindness](#disarm-you-with-kindness)
+
+### &#x265E; [Have You Ever Tried Suggestion?](#suggestion)
+
+### &#x265E; [Playing Dumb](#playing-dumb)
+
+### &#x265E; [Fool's Errands](#fools-errands)
+
+### &#x265E; [Distorting Your Social Model](#distorting-your-social-model)
+
+### &#x265E; [Bad Advice](#bad-advice)
+
+### &#x265E; [Setting the Frame](#setting-the-frame)
+
+### &#x265E; [Pavlov's Cute Puppy](#pavlovs-dog)
+
+### &#x265E; [You've Been Rorshocked!](#youve-been-rorshocked)
+
+### &#x265E; [Create Juicy Soundbytes to Misquote You](#misquote-you)
+
+### &#x265E; [Use Your Religion & Politics Against You](#use-your-religion-or-politics-against-you)
+
+### &#x265E; [Souring and Exhausting Your Relationships](#exhausting-your-connections)
+
+### &#x265E; [Good Cop, Bad Cop](#good-cop-bad-cop)
+
+### &#x265E; [Attaching Psychological Labels to You](#psychologically-labelling-you)
+
+### &#x265E; [Setting up a Fall Guy](#setting-up-a-fall-guy)
+
+### &#x265E; [Create Lose-Lose Situations](#create-lose-lose-situations)
+
+### &#x265E; [Labelling You as Paranoid -- Extremely Effective](#now-youre-paranoid)
+
+### &#x265E; [Identify Your Vices and Use Them Against You](#identify-your-vices)
+
+### &#x265E; [Misrepresent Your Works/Actions to Others](#misrepresentation)
+
+### &#x265E; [A Bully Will Choose Their Audience Wisely](#play-to-their-audience)
+
+### &#x265E; [Channels of Communication are Exploited](#exploit-channels-of-communication)
+
+### &#x265E; [Limiting Your Tools](#limiting-your-tools)
+
+### &#x265E; [Setting You Up For Failure](#setting-you-up-for-failure)
+
+### &#x265E; [Profile Their Victims](#profile-their-victims)
+
+### &#x265E; [Install Malware on Your Computer](#install-malware)
+
+<a name="hall-of-mirrors"/>
 
 ![Enter the Dragon - Hall of Mirrors](/img/posts/2015-02-25-workplace-bullying-part-three/enter-the-dragon.jpg)
+
+# &#x265E; [Hall of Mirrors](#hall-of-mirrors)
 
 The bully may utilize suggestion and rhetoric to make "copies" of
 himself and his beliefs.  They may bring in new people and poison them
@@ -63,7 +131,9 @@ training in metaphysical jujitsu.
 
 #### You practice Qi Gong and Toungue Fu, my homies?
 
-### &#x2605; Spread Rumors
+<a name="spread-rumors"/>
+
+# &#x265E; [Spread Rumors](#spread-rumors)
 
 The bully may acquire information about you in order to spread
 believeable rumors.  You may spend years fighting these rumors.  You
@@ -76,7 +146,9 @@ not know who started them, if you ever hear about them.  Sometimes, a
 bully will pick out the worst possible things, a rumor so nasty that
 no one will verify it for themselves.
 
-### &#x2605; Abuse Confirmation Bias when Speading Rumors
+<a name="abuse-confirmation-bias"/>
+
+# &#x265E; [Abuse Confirmation Bias when Speading Rumors](#abuse-confirmation-bias)
 
 When the bully spreads a rumor, they may couple this by suggesting a
 method to test you with.  "Oh.. just ask him this or mention that.
@@ -113,7 +185,9 @@ interactions with people.  Again, no one will actually verify it -- no
 one will even get close to this person.  This is how lives are ruined,
 folks.
 
-### &#x2605; Construct a Lie by Rearranging Elements of the Truth
+<a name="lie-with-elements-of-the-truth"/>
+
+# &#x265E; [Construct a Lie with Elements of the Truth](lie-with-elements-of-the-truth)
 
 This is another particularly useful tool in creating rumors and
 suggesting methods of confirmation bias.  This involves **Category
@@ -131,13 +205,17 @@ meant anything at all, in and of themselves anyways.  The songs and
 lyrics will begin to acquire meaning though.  Incredibly useful tool
 for artists.
 
-### &#x2605; Pick a Weak Target
+<a name="pick-a-weak-target"/>
+
+# &#x265E; [Pick a Weak Target](#pick-a-weak-target)
 
 A bully doesn't want to pick a fight they're going to lose do they?
 
 ![Don't Feed the Troll](/img/posts/2015-02-25-workplace-bullying-part-three/dont-feed-the-troll.png)
 
-### &#x2605; Identify the Target's Strongest Connections and Sever Them
+<a name="disconnect-the-target"/>
+
+# &#x265E; [Identify the Target's Strongest Connections and Sever Them](#disconnect-the-target)
 
 The bully will find someone who is socially isolated to begin with.
 And the bully will attack that person by attacking their strong social
@@ -146,7 +224,9 @@ stand up for that person no longer will.  This is especially effective
 if that person has a developmental disorder making it hard for them to
 establish relationships in the first place!!
 
-### &#x2605; Blocking Moves, Like Those in Chess
+<a name="blocking-moves"/>
+
+# &#x265E; [Blocking Moves, Like Those in Chess](#blocking-moves)
 
 The bully may attempt to prevent you from acquiring new relationships
 by blocking you.  This can be physical, like blocking you from
@@ -162,13 +242,17 @@ with to try to preemptively establish a stronger relationship with
 them.  Then, a manipulative person is capable of poisoning them
 against you before you have a chance.
 
-### &#x2605; Attach Labels to You
+<a name="attach-labels"/>
+
+# &#x265E; [Attach Labels to You](#attach-labels)
 
 Already discussed this at length, but this bully will try to attach
 labels to you.  They may feel out their social environment to
 determine which labels are the most effective to apply to you.
 
-### &#x2605; Disarm You with Kindness
+<a name="disarm-you-with-kindness"/>
+
+# &#x265E; [Disarm You with Kindness](#disarm-you-with-kindness)
 
 Awww, isn't that sweet.  They're being nice to you.  How can you even
 be mad at them!  This is a particularly effective tool in the bully's
@@ -179,7 +263,9 @@ reconcile differences.  Ahhh, plausible deniability.  There it is
 again.  Be careful!  Definitely don't react negatively to someone
 being nice to you.
 
-### &#x2605; Have You Ever Tried Suggestion?
+<a name="suggestion" />
+
+# &#x265E; [Have You Ever Tried Suggestion?](#suggestion)
 
 This is another tool.  You should try it sometime.  Just mention it to
 someone.  You don't even have to mention it directly.  Just bring it
@@ -191,7 +277,9 @@ I've never made that mistake, but I'm pretty sure you'll be labelled
 as paranoid.  This is why it's particularly effective: you can't even
 be blamed for doing it.
 
-### &#x2605; Playing Dumb
+<a name="playing-dumb" />
+
+# &#x265E; [Playing Dumb](#playing-dumb)
 
 > What?  I don't even know what that means?  How could I even use
 > suggestion?  I don't even know what that is.  Yes, I studied
@@ -217,9 +305,17 @@ response to other behavior.  Sometimes it's better off to not
 broadcast everything you know, especially to those who are trying to
 take advantage of you.
 
-### &#x2605; Fool's Errands
+<a name="fools-errands" />
 
-> *"'ello good sir.  'ave you ever heard of the key to the midway?* Me and the ole' manager 'ave been looking for it all day and can't find it anywhere.  You wouldn't happen to know where it is, would you?  You'd be practically declared a hero if you did.  Well, off ya' go then.  Find that [key to the midway](http://en.wiktionary.org/wiki/key_to_the_midway), ya bloody sucka!"
+# &#x265E; [Fool's Errands](#fools-errands)
+
+> *"'ello good sir.  'ave you ever heard of the key to the midway?* Me
+> and the ole' manager 'ave been looking for it all day and can't find
+> it anywhere.  You wouldn't happen to know where it is, would you?
+> You'd be practically declared a hero if you did.  Well, off ya' go
+> then.  Find that
+> [key to the midway](http://en.wiktionary.org/wiki/key_to_the_midway),
+> ya bloody sucka!"
 
 This is a trick that's easy to fall for.  I once literally had a
 coworker ask me if I knew what the Key to the Midway was, when I had
@@ -246,7 +342,9 @@ The best fool's errand a workplace bully will employs involve a
 considerable redirection of your time and energy.  Don't go startin'
 new projects by yourself and don't go chasing waterfalls either.
 
-### &#x2605; Bad Advice
+<a name="bad-advice" />
+
+# &#x265E; [Bad Advice](#bad-advice)
 
 Bullies in the workplace will give you bad advice and frame it as
 words of wisdom.  They're just trying to put you down the wrong path.
@@ -257,7 +355,9 @@ the least.
 > "Just.Be.Yourself." -- David Conner ... oh shit, that shoudn't be in
 > the 'Bad Advice' section.
 
-### &#x2605; Distorting Your Social Model
+<a name="distorting-your-social-model" />
+
+# &#x265E; [Distorting Your Social Model](#distorting-your-social-model)
 
 This is a particularly effective form of bad advice.  Everyone has a
 social model, but the problem is that some of these social models just
@@ -280,7 +380,9 @@ making a mistake in misjudging this person.  Always keep that in mind,
 as well.  But also watch for people who seem to try to make you
 self-conscious.
 
-### &#x2605; Setting the Frame
+<a name="setting-the-frame" />
+
+# &#x265E; [Setting the Frame](#setting-the-frame)
 
 > "NEVER frame art!  Do NOT frame this piece!" -- Said every good
 > artist I have ever bought art from.
@@ -316,18 +418,24 @@ context behind a conversation.
 
 > Moral of the story: watch your !#@$'ing back around these people.
 
-### &#x2605; Pavlov's Cute Puppy
+<a name="pavlovs-dog" />
+
+# &#x265E; [You've Been Rorshocked!](#youve-been-rorshocked)
 
 [Pavlog's Dog](http://en.wikipedia.org/wiki/Classical_conditioning) is
 an old experiment, where the dogs were conditioned to expect food at
-the chime of a bell.  The association with the chime of the bell
+the chime of a bell. The association with the chime of the bell
 became so strong, it caused the dogs to salivate without the presence
 of food.
 
 My point is: in each instance, a workplace bully has *almost seemed
 trained in psychology!* And they abused it, which is really, really
-fucked up!  Also, if you're completely unaware of psychology, you'll
-be caught off guard when it's used against you.
+fucked up! One or two of these people knew it because they either
+directly mentioned it or they had studied psychology in college. And
+you don't study psychology in college without running into Pavlov's
+dog. It's a bit sick to imagine someone thinking like this
+though. Also, if you're completely unaware of psychology, you'll be
+caught off guard when it's used against you.
 
 Pavlov's dog is useful to someone who wants to create signals used to
 indicate threats or other messages.  It's hard to understand how
@@ -335,14 +443,16 @@ someone could use this against someone, but trust me -- it happens.
 Don't be surprised when this and other tools of psychology are used
 against you.
 
-### Here's some cute puppies.
+#### Here's some cute puppies.
 
 This article is a bit depressing.  It doesn't get any better.  You
 deserve a break.  Watch this cute puppy compilation.
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/3kAo2Z3C3gY" frameborder="0" allowfullscreen></iframe>
 
-### &#x2605; You've Been Rorshocked!
+<a name="youve-been-rorshocked" />
+
+# &#x265E; [You've Been Rorshocked!](#youve-been-rorshocked)
 
 This is another one related to psychology.  I've noticed that these
 people will do something I call "rorshocking." That's intentionally
@@ -363,7 +473,9 @@ reputation.  It doesn't matter whether you give them the reaction that
 they want, sociopathic people excel in contorting other's words and
 actions.
 
-### &#x2605; Create Juicy Soundbytes to Misquote You
+<a name="misquote-you" />
+
+# &#x265E; [Create Juicy Soundbytes to Misquote You](#misquote-you)
 
 Often, they will create contrived situations to get you to say
 something they'll misuse to
@@ -402,7 +514,9 @@ that they're your friends?  Like if you're going to misquote someone
 like that, **JUST FUCKING LIE**.  Just make some shit up.  Pull it out
 of your own ass because I don't want you pulling it out of mine.
 
-### &#x2605; Use Your Religion & Politics Against You
+<a name="use-your-religion-or-politics-against-you" />
+
+# &#x265E; [Use Your Religion & Politics Against You](#use-your-religion-or-politics-against-you)
 
 This has already been covered, but you need to be aware -- there are
 really good reasons to leave politics and religion at home.  You may
@@ -411,17 +525,21 @@ information.  But don't be surprised when it gets used against you.
 You may find that a bully will identify people on the opposite side of
 politics/religion and pit you against them.
 
-And IMO, this is really sad.  Why should it be a problem to talk about
+And IMO, this is really sad. Why should it be a problem to talk about
 who we are?
 
-### &#x2605; Fear Mongering
+<a name="fear-mongering" />
+
+# &#x265E; [Fear Mongering](#fear-mongering)
 
 This person will spread anxieties around the office about certain
 aspects of your performance.  Whatever is negative and can be used,
 they will spread.  They will seek to hide your victories and triumphs,
 but will spread whatever fears can be used.
 
-### &#x2605; Souring and Exhausting Your Relationships
+<a name="exhausting-your-connections" />
+
+# &#x265E; [Souring and Exhausting Your Relationships](#exhausting-your-connections)
 
 These people may seek to make you unnecessarily overuse your
 relationships with other people, until they are exhausted.  They might
@@ -433,7 +551,9 @@ There is a give & take to life.  If for some reason, you're required
 to overtake from those around you or if you just ask for help all the
 time, people are going to be less likely to help you when you need it.
 
-### &#x2605; Good Cop, Bad Cop
+<a name="good-cop-bad-cop" />
+
+# &#x265E; [Good Cop, Bad Cop](#good-cop-bad-cop)
 
 This is a particularly effective strategy and it requires a certain
 level of complicity.  Basically, one person acts like your friend and
@@ -447,7 +567,9 @@ information about how you feel about the Bad Cop.
 This is actually a tactic that's used in business fairly often and so,
 it really doesn't indicate a bully.
 
-### &#x2605; Attaching Pyschological Labels to You
+<a name="psychologically-labelling-you" />
+
+# &#x265E; [Attaching Psychological Labels to You](#psychologically-labelling-you)
 
 The bully may try to apply psychological labels to you.  This can be
 particularly effective, as oftentimes with mental disorders, the way
@@ -460,7 +582,18 @@ paranoid, you're probably not going to be taken seriously anytime
 soon.  Sometimes, people just throw labels out there to see what
 sticks.  It's incredibly unsettling.
 
-### &#x2605; Labelling You as Paranoid -- Extremely Effective
+To me, these people seemed trained in psychology. So it's no surprise
+that they would recognize the symptoms. And yes, this happened to me
+before, several times. I heard the guy who has the psychology degree
+(who wasn't a very good programmer) mention specific psychological and
+neurological symptoms/signs in an offhand conversation to someone
+else. And the nature of the conversation was such that he was trying
+to indicate to that person that they were going to have a hard time
+with me... Or something to that effect.
+
+<a name="now-youre-paranoid" />
+
+# &#x265E; [Labelling You as Paranoid -- Extremely Effective](#now-youre-paranoid)
 
 Because intentions are concealed and sociopaths thrive on plausible
 deniability & duplicity -- then, when dealing with passive aggressive
@@ -472,8 +605,9 @@ they do, you can easily bust out the "paranoid" card.
 
 By the way, **interpreting motivations behind behavior** and
 **determining correlated reactions & behaviors** are two of the most
-powerful things you can do in life.  If you are not allowed to do
-these things, you will never succeed in any significant way.
+powerful things you can do in life. This is an example of having your
+social model distorted. If you are not allowed to do these things, you
+will never succeed in any significant way.
 
 > You Must Determine Correlated Behavior!!
 
@@ -509,7 +643,9 @@ problem is that they can be poisoned against you, before you ever get
 the chance to meet them.  They will act with behavior suggested to
 them by your enemies.
 
-### &#x2605; Create Lose-Lose Situations.
+<a name="#create-lose-lose-situations" />
+
+# &#x265E; [Create Lose-Lose Situations](#create-lose-lose-situations)
 
 This person may consistently think ahead to place you into lose-lose
 situations.  They'll put you in between a rock and a hard place, so to
@@ -518,7 +654,9 @@ yourself here, think quickly and creatively to find yourself a way out
 of that box.  Don't rely on the choices presented to you.  Be
 creative.
 
-### &#x2605; Setting up a Fall Guy
+<a name="#setting-up-a-fall-guy" />
+
+# &#x265E; [Setting up a Fall Guy](#setting-up-a-fall-guy)
 
 This is more likely to occur in private life, which actually happened
 to me once.  I found I was being accused of stealing a PS4 in a
@@ -562,7 +700,9 @@ kind of situation has not.  In business, this can be a more serious
 trap.  It can be used for more than assailing your reputation.  Watch
 out for being set up as a fall guy for someone else's legal problems.
 
-### &#x2605; Identify Your Vices and Use Them Against You
+<a name="identify-your-vices" />
+
+# &#x265E; [Identify Your Vices and Use Them Against You](#identify-your-vices)
 
 > "Recovering alcoholic?  Ten years sober?  Not any more!" -- Anonymous Sociopath
 
@@ -583,12 +723,16 @@ regain.
 
 > "Perfect." -- Anonymous Sociopath
 
-### &#x2605; A Bully Will Choose Their Audience Wisely
+<a name="play-to-their-audience" />
+
+# &#x265E; [A Bully Will Choose Their Audience Wisely](#play-to-their-audience)
 
 The bully won't want to seem cruel in front of others.  But, when you
 are 1-on-1, they will likely let you know how they feel.
 
-### &#x2605; Misrepresent Your Works/Actions to Others
+<a name="#misrepresentation" />
+
+# &#x265E; [Misrepresent Your Works/Actions to Others](#misrepresentation)
 
 This is similar to some of the content in "Setting the Frame."  But,
 it's worth saying again: bullies and sociopaths are excellent at being
@@ -598,7 +742,9 @@ how your words and actions were misrepresented.  After all, this
 person has carefully controlled visibility and chosen their audiences
 wisely.  Politics.
 
-### &#x2605; Channels of Communication are Exploited
+<a name="exploit-channels-of-communication" />
+
+# &#x265E; [Channels of Communication are Exploited](#exploit-channels-of-communication)
 
 The bully will take advantage of how information is disseminated.
 This is similar to controlling visibility and audience, but altogether
@@ -634,7 +780,9 @@ others without sounding paranoid.
 > PLAUSIBLE DENIABILITY .. 'But, i was just trying to help him
 > fdsamkofppaefnoapwnfoepwa'
 
-### &#x2605; They'll Keep You Busy Until You Experience Problems in Your Personal Life
+<a name="#distraction-with-busywork" />
+
+# &#x265E; [They'll Keep You Busy Until You Experience Problems in Your Personal Life](#distraction-with-busywork)
 
 A workplace bully may identify aspects of your personal life to use
 against you.  They may stack you up for work or make you work in such
@@ -643,7 +791,9 @@ for you to deal with personal issues.  They may make you feel as
 though you aren't accomplishing enough, so that you'll be hesitant to
 take time off to deal with personal issues.
 
-### &#x2605; Limiting Your Tools
+<a name="limiting-your-tools" />
+
+# &#x265E; [Limiting Your Tools](#limiting-your-tools)
 
 > "Build me a goddamn bridge, David.  But, don't use a goddamn hammer
 > or any fucking nails, David.  Or so help me God, I'll fire your lazy
@@ -657,14 +807,17 @@ take time off to deal with personal issues.
 > "Shut up, David.  SEE EVERYONE, watch what happens when you build
 > shitty rope bridges.  YOUR FIRED!"
 
+<a name="setting-you-up-for-failure" />
 
-### &#x2605; Setting You Up For Failure
+# &#x265E; [Setting You Up For Failure](#setting-you-up-for-failure)
 
 See quote above ^^^^
 
 > "Death by micromanagement." - David Conner
 
-### &#x2605; Profile Their Victims
+<a name="profile-their-victims" />
+
+# &#x265E; [Profile Their Victims](#profile-their-victims)
 
 If someone is going to bully you and if they are good at it, they WILL
 profile you.  They will ask you leading questions.  And they WILL ask
@@ -673,7 +826,9 @@ young) reveals which pop culture references you do and do not know,
 what technologies you know, etc, etc.  Sounds subtle, but trust me,
 it's useful.
 
-### &#x2605; Install Malware on Your Computer
+<a name="install-malware" />
+
+# &#x265E; [Install Malware on Your Computer](#install-malware)
 
 A workplace bully is going to want to keep an eye on you.  There are
 many examples of voice-to-text exploits online.  Another
