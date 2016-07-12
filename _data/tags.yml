@@ -1,4 +1,12 @@
 ---
+- :slug: social-media
+  :name: Social Media
+- :slug: writing
+  :name: Writing
+- :slug: productivity
+  :name: Productivity
+- :slug: creative-writing
+  :name: Creative Writing
 - :slug: supercomputing
   :name: Supercomputing
 - :slug: bioinformatics
@@ -27,8 +35,6 @@
   :name: Rails
 - :slug: text-editors
   :name: Text Editors
-- :slug: productivity
-  :name: Productivity
 - :slug: shell
   :name: Shell
 - :slug: python
@@ -45,8 +51,6 @@
   :name: Economics
 - :slug: sociology
   :name: Sociology
-- :slug: social-media
-  :name: Social Media
 - :slug: privacy
   :name: Privacy
 - :slug: surveillance
@@ -59,8 +63,6 @@
   :name: Business
 - :slug: marketing
   :name: Marketing
-- :slug: writing
-  :name: Writing
 - :slug: lean
   :name: Lean
 - :slug: agile
