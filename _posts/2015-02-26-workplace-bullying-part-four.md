@@ -4,7 +4,8 @@ categories: blog
 author:
   name: "David Conner"
 tags: "sociology psychology bullying"
-headline: ""
+headline: "If you read one part of the workplace bullying series, you
+should read this"
 excerpt: "
 These tools will help you, but you will notice sometimes that these
 really really piss a bully off.  Be warned - some battles aren't worth
