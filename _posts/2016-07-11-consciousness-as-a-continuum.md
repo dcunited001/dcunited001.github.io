@@ -1,5 +1,5 @@
 ---
-title: "Consciousness as a Continuum"
+title: "Consciousness as a Continuum: Life, the Cosmos and You"
 categories: blog
 tags: "creativity writing sci-fi language linguistics dreams
 literature metamodernism savingtheworld philosophy"
@@ -245,28 +245,11 @@ with the matter/energy available to us. But if we're surrounded by a
 cosmic desert, we can't build massive computers. And that limits our
 ability to expand into virtual universes that descend from ours.
 
-Basically, the complexity of a universe that can be reasonably
-simulated by intelligent life depends on this computational density
-and our ability to assemble pieces of such a massive computer.
-
-###
-
-> Side trek: what if stars *are* such a massive network of computers,
-> because of the possible interconnectedness of all matter? In other
-> words, there could be a quantum virus harnessing entanglement that
-> impregnates stars with a self-replicating form of quantum
-> information, eventually transforming that star into a node in a
-> universal network. It's like a cosmic game of tag with stars. You
-> just have to physically get to each one first.
-
-### Quantum Broadband
-
-#### WTF, Comcast!! Where you at?
-
-> Or, what if matter really forms this quantum channel of
-> communication and the reason SETI hasn't picked up alien signals is
-> because their all talking on another channel. That's my personal
-> answer to Fermi's paradox. That or
+The complexity of a universe that can be reasonably simulated by
+intelligent life depends on this computational density and our ability
+to assemble pieces of such a massive computer. There are some
+mathematic inequalities here and I'll discuss those sometime soon. In
+my Dr. Strange article.
 
 # The Connectedness of All Things
 
@@ -352,3 +335,22 @@ particle. You could try to identify the specific particles that form
 it's interactions and all the dependencies as well. Particles which
 do not have quantum effects like this could be combined to form "new"
 particles, which do not have such dependencies ... maybe.
+
+
+> Side trek: what if stars *are* such a massive network of computers,
+> because of the possible interconnectedness of all matter? In other
+> words, there could be a quantum virus harnessing entanglement that
+> impregnates stars with a self-replicating form of quantum
+> information, eventually transforming that star into a node in a
+> universal network. It's like a cosmic game of tag with stars. You
+> just have to physically get to each one first.
+
+
+### Quantum Broadband
+
+#### WTF, Comcast!! Where you at?
+
+> Or, what if matter really forms this quantum channel of
+> communication and the reason SETI hasn't picked up alien signals is
+> because their all talking on another channel. That's my personal
+> answer to Fermi's paradox. That or
