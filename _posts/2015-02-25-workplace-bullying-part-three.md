@@ -904,6 +904,13 @@ FUCKING HANDED THEIR ASSES TO THEM. And you know what? They're
 mad. They're mad that they didn't win. They're fucking sore
 losers. And they got their asses handed to them by an "autist."
 
+My favorite part though is watching these people squirm between a
+system of ethics that restricts them, though they *clearly* have no
+ethical restraints themselves. Or at least, that's true of the people
+doing the dirty work. It's hilarious how they artificially restrain
+themselves? Why stop there? Why not just go all out stazi? What's
+stopping them?
+
 ![Alice in Wonderland](/img/posts/2015-02-25-workplace-bullying-part-three/alice-in-wonderland.jpg)
 
 ### So that's it for Part Three
