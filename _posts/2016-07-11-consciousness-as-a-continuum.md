@@ -7,7 +7,12 @@ headline: "Everconnectedness, the Quantum Web and Entropy's Antithesis"
 author:
   name: "David Conner"
 excerpt: "
-"
+As senses evolve, they provide us with a bigger window to that
+world. As our brains evolved, they provide us with a better processing
+that expands that same window with aggregate information at various
+levels, expanding to the kind of consciousness that human beings
+experience. The kind that forces us to question why? Why am i here?
+What is my purpose? What is my directive?"
 ---
 
 Philosophers have debated on the nature of consciousness for
@@ -351,6 +356,19 @@ it's interactions and all the dependencies as well. Particles which
 do not have quantum effects like this could be combined to form "new"
 particles, which do not have such dependencies ... maybe.
 
+It should be possible to Quantum Web into more localized neighborhoods
+of matter that has interacted more recently. We could assume that
+matter close to us is more likely to have interacted recently than
+something lightyears away.  Something similar to the cosmic background
+radiation might emerge. As we peer further into the history of
+entanglements, we could deduce how local particles are entangled and
+then infer the average effect that distant particles may have.
+
+Again, it's all pure speculation. If I ever make it out of this
+invisible fence and up to the MIT campus in Boston, I'll be sure to
+shout questions at strangers. But until then, I really don't have
+anyone to talk to or ask. *C'est triste.*
+
 ### Quantum Broadband
 
 #### WTF, Comcast!! Where you at?
@@ -408,4 +426,23 @@ virtualizing a universe inside ours.
 ## All is One, One is All
 
 What does any of this have to do with consciousness? Quantum mechanics
-may lay the framework for a universally connected
+may lay the framework for a universally connected hivemind, whether or
+not we need a superintelligent being to dock into the cosmic
+supercomputer.
+
+What we learn about quantum mechanics and philosophy over the next 50
+years will radically change our worldview. If my wild guesses in this
+article are even close, it may already be possible for bizarre
+paranormal abilities like telepathy to exist, leveraging the Quantum
+Web. It'd be easier for ancient people to discover such things, as
+they wouldn't be so blinded by science. I give science such a hard
+time, but it's really the only way we can confidently say we know
+something.
+
+This all feeds back into the topics I was discussing in the section on
+informational entropy. Faster, further reaching communication networks
+enable us to accelerate the rate at which we share information. This
+causes the distribution of ideas to flatten, as information and
+knowledge becomes omnipresent. This means that, back here in our
+corner of the universe, we can contemplate and recombinate more
+ideas. We become more conscious. From communication. From diversity.
