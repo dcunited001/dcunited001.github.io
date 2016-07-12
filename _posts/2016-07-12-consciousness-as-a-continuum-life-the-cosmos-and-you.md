@@ -86,8 +86,8 @@ That is, eventually. We can eventually state those questions. We have
 to evolve so many mental faculties before we get to that point. But
 the brain itself is really the ultimate abstraction of the
 universe. It's the universe taking the sum of it's experiences and
-internalizing it into little nodes that happen to dictate the actions
-of animals.
+internalizing it into little nodes: wetware computers driving the
+minds and actions of animals.
 
 In fact, life and especially self-aware life is the universe's means
 of becoming aware of itself.
