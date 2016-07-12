@@ -5,8 +5,7 @@ tags: "productivity creative-writing"
 headline: "Long, long ago ..."
 author:
   name: "David Conner"
-excerpt: "
-... there was a script that circulated the interwebs: create-ssb.sh.
+excerpt: "... there was a script that circulated the interwebs: create-ssb.sh.
 And it was a good script, for it vanquished the evils of Tabitis,
 that deadly disease which wasteth your time with petty tab-management.
 Remnants of said script still circulate the interwebs today.  But
