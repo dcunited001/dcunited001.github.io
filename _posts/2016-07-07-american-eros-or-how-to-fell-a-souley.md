@@ -173,7 +173,9 @@ genius in the way he wove together various threads & subthreads for
 Infinite Jest ... even though I've only read like 50 pages so far. In
 a way, I want to imitate that style with this work. In a way...
 
-<h1><a href="#the-story" name="the-story">American Eros</a></h1>
+<a name="the-story" />
+
+# [American Eros](#the-story)
 
 ## Or How to Fell a Souley
 
