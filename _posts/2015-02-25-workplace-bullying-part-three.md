@@ -1,10 +1,14 @@
 ---
-title: "Workplace Bullying: Part Three - Specific Tactics"
+title: "Workplace Bullying: Specific Tactics"
 categories: blog
 author:
   name: "David Conner"
 tags: "sociology psychology bullying"
+headline: ""
+excerpt: ""
 ---
+
+#### &#x2605; [Overview](/posts/2015-02-21-workplace-bullying-part-one.html) &#x2605; [General Strategies](/posts/2015-02-24-workplace-bullying-part-two.html) &#x2605; Specific Tactics &#x2605; [Tools Against Bullying](/posts/2015-02-26-workplace-bullying-part-four.html)
 
 I hope to share what has happened to me and around me, so that other's
 can identify it and protect themselves from negative behavior.  I need
