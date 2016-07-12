@@ -11,8 +11,84 @@ excerpt: "
 "
 ---
 
-### Consciousness is a continuum that
+Philosophers have debated on the nature of consciousness for
+ages. What is it that allows us to think? As Descartes said:
 
+> I think, therefore I am.
+
+Is this true? If so, what makes us conscious and not animals? Is there
+some fundamental difference between us?  I believe that consciousness
+is a continuum that extends to some degree across all walks of
+life. Consciousness is our window to the world. It's how we experience
+the information that we experience.
+
+### Consciousness is a Continuum
+
+This window can be shallow in that it is just the experience of the
+information with very little processed aggregate information available
+on top of it. Or this window can have much more depth to it, in which
+case it would include lots of aggregate data. Eventually, this window
+becomes complex enough that it gives rise to complex thought.
+
+Particularly after vocal cords are developed that can be controlled to
+differentiate a large number of phonemes in a reproducible
+manner. When this is combined with the mental prowess for basic
+abstract thought and (social features), then something special happens
+in the minds of animals.
+
+Once the knowledge for making these phonemes (types of sounds) is
+fairly common, so that it's almost inevitable for the children of that
+species to make those sounds, then it can be expected that nearly
+every member of a species will experiement with combinations of those
+sounds. Once that happens, then it can be expected that there will be
+a transfer of information between members of the same specices, simply
+because:
+
+#### They have the physical ability to make the same kinds of sounds.
+
+#### Most members of the species will make those sounds.
+
+#### The species has some level of sociality.
+
+#### And, therefore, the species will share common experiences.
+
+So there will be a transfer of information between members of the same
+species, given that they can make similar sounds. These sounds are
+attached to meanings in the world, which requires ideas from
+[semiotics](https://en.wikipedia.org/wiki/Semiotics). Early on, it's
+difficult to ascribe any particular meaning to "words" in these kinds
+of languages. There's no structure and nothing is maintained. So,
+early on, these phonemes take on meanings that are implicit to the
+animals experience and because they all have similar experiences,
+those meanings can be implicitly conveyed to other members of the
+species without having to communicate any specific meaning. Similar to
+slang, the particular words and meanings will rise and wane in
+usage. These phonemes can be combined to form morphemes and,
+eventually, grammars should emerge.
+
+It's hard to say this is language because there isn't any way to
+specify meanings for anything. But it is communication. And it sets
+the stage for abstraction and variation and combination of other
+faculties of the brain, which lays the groundwork for higher level
+thought.  And we all gradually evolve towards embodying minds which
+are capable of discovering what are universal ideas.
+
+### Language Expands Consciousness
+
+Language expands our consciousness. It's what enables abstract thought
+for many reasons. If a species does not have the capacity to produce a
+large number of phonemes, then it will probably not develop higher
+consciousness. In order to develop that, a species needs that kind of
+challenge in it's environment; something that provides value if the
+animals can master it; something that forces their minds to abstract
+and to variated combinations of symbols and functions.
+
+There is very little else in an early intelligent life form that would
+be both useful enough and allow them to play around with
+variations. They need some kind of social structure because those
+social activities require them to abstract their actions, behaviors
+and routines. Social structure also forces them to develop a stronger
+concept of both self and group.
 
 - introduce some things: link these ideas together
   - need a thesis
@@ -79,7 +155,7 @@ Basically, the complexity of a universe that can be reasonably
 simulated by intelligent life depends on this computational density
 and our ability to assemble pieces of such a massive computer.
 
-### 
+###
 
 > Side trek: what if stars *are* such a massive network of computers,
 > because of the possible interconnectedness of all matter? In other
@@ -96,7 +172,7 @@ and our ability to assemble pieces of such a massive computer.
 > Or, what if matter really forms this quantum channel of
 > communication and the reason SETI hasn't picked up alien signals is
 > because their all talking on another channel. That's my personal
-> answer to Fermi's paradox. That or 
+> answer to Fermi's paradox. That or
 
 # The Connectedness of All Things
 
