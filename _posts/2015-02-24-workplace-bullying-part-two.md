@@ -1,25 +1,38 @@
 ---
-title: "Workplace Bullying: Part Two - General Strategies"
+title: "Workplace Bullying: General Strategies"
 categories: blog
 author:
   name: "David Conner"
 tags: "sociology psychology bullying"
+headline: "I'm tired of being the victim here"
+excerpt: "
+And too often, when I complain to my friends and family, they just
+tell me to look past it, to ignore it.  They claim I'm paranoid or
+looking too deeply into things.  Actually, this isn't terrible advice:
+it's important to not get caught up in a bully's games, but sometimes
+they're really hard to ignore.  I'm tired of doing nothing.  So, I'm
+going to describe exactly how to do this to someone.  This is how it
+happens.  Personally, I'm amazed that some poeple are capable of this
+or that people could do this at all."
 ---
+
+#### &#x2605; [Overview](/posts/2015-02-21-workplace-bullying-part-one.html) &#x2605; General Strategies &#x2605; [Specific Tactics](/posts/2015-02-25-workplace-bullying-part-three.html) &#x2605; [Tools Against Bullying](/posts/2015-02-26-workplace-bullying-part-four.html)
 
 I'm not sure the term **Workplace Bullying** really captures the
 essence what happens.  This name *bullying* has too many connotations
 attached to it.  It's associated too much with what happens in middle
 schools and on playgrounds, making you seem helpless and incapable of
-handling your own problems.  While bullying in the workplace is
-similar, there are many differences.  Bullying in the workplace is
-more methodical, plausible deniability is usually exploited and it's
-usually motivated by the bully's fear of being inadequate.
-Additionally, workplace bullying involves many strategies and tactics
-which aren't inherently harmful or evil in themselves.  Many of these
-tactic are necessary for proper management and are invaluable for
-leadership.  However, when certain actions are used repetitively with
-the wrong intentions, this is when you can begin to argue that you are
-being bullied at work.
+handling your own problems.
+
+While bullying in the workplace is similar, there are many
+differences.  Bullying in the workplace is more methodical, plausible
+deniability is usually exploited and it's usually motivated by the
+bully's fear of being inadequate.  Additionally, workplace bullying
+involves many strategies and tactics which aren't inherently harmful
+or evil in themselves.  Many of these tactic are necessary for proper
+management and are invaluable for leadership.  However, when certain
+actions are used repetitively with the wrong intentions, this is when
+you can begin to argue that you are being bullied at work.
 
 However, the term "bullying" tends to evoke the wrong imagery and
 maybe paints the victim of workplace bullying as being helpless.  For
@@ -51,6 +64,7 @@ up on others.  Certain situations in business particularly can provide
 the incentives to make this more likely to occur.
 
 #### &#x2605; Before suspected layoffs.  Maybe revenue numbers have mysteriously leaked out of the accounting department.
+
 #### &#x2605; During a merger or organizational restructuring.
 
 > When [mobbing] occurs as emotional abuse in the workplace, such as
@@ -105,6 +119,7 @@ strategy "Following Up."  Some bullies will see to it that you never
 have another chance again!
 
 ## *Incredibly Important!*
+
 #### Please Read!
 
 If you find yourself the victim of some of these strategies, remember
@@ -125,37 +140,54 @@ this person used the circumstances they created in order to gain
 power.
 
 ## General Strategies of Workplace Bullying
-#### Utilizing passive aggressive behavior to make someone miserable:
 
-- [Distract Your Opponent](#distracting-your-opponent)
-- [Work Indirecly and Abuse Plausible Deniability](#abuse-plausible-deniability)
-- [Crush the Will to Fight Back](#crush-the-will-to-fight-back)
-- [Control the Audience](#control-the-audience)
-- [Isolate your Enemy](#isolate-your-enemy)
-- [Use the System to Avoid Blame](#use-the-system-to-avoid-blame)
-- [Losing the Game? Play a New Game!](#losing-the-game-play-a-new-game)
-- [Catspaws, Catspaws, Catspaws](#catspaws-catspaws-catspaws)
-- [Control your environment and Limit the Options](#control-your-environment-and-limit-the-options)
-- [Let Your Opponent Destroy Themselves](#let-your-opponent-destroy-themselves)
-- [Applying Labels and Abusing Them](#applying-labels-and-abusing-them)
-- [Finding Your Buttons and Pushing Them](#finding-your-buttons-and-pushing-them)
-- [Gradually Eat Away at Reputation](#gradually-eat-away-at-reputation)
-- [Convince People that the Ends Justifies the Means](#convince-people-that-the-ends-justifies-the-means)
-- [Eliminate Threats Early](#eliminate-threats-early)
-- [Following Up -- Crushing an Enemy Totally](#following-up-crushing-an-enemy-totally)
+*Utilizing passive aggressive behavior to make someone miserable:*
+
+### &#x265E; [Distract Your Opponent](#distracting-your-opponent)
+
+### &#x265E; [Work Indirecly and Abuse Plausible Deniability](#abuse-plausible-deniability)
+
+### &#x265E; [Crush the Will to Fight Back](#crush-the-will-to-fight-back)
+
+### &#x265E; [Control the Audience](#control-the-audience)
+
+### &#x265E; [Isolate your Enemy](#isolate-your-enemy)
+
+### &#x265E; [Use the System to Avoid Blame](#use-the-system-to-avoid-blame)
+
+### &#x265E; [Losing the Game? Play a New Game!](#losing-the-game-play-a-new-game)
+
+### &#x265E; [Catspaws, Catspaws, Catspaws](#catspaws-catspaws-catspaws)
+
+### &#x265E; [Control your environment and Limit the Options](#control-your-environment-and-limit-the-options)
+
+### &#x265E; [Let Your Opponent Destroy Themselves](#let-your-opponent-destroy-themselves)
+
+### &#x265E; [Applying Labels and Abusing Them](#applying-labels-and-abusing-them)
+
+### &#x265E; [Finding Your Buttons and Pushing Them](#finding-your-buttons-and-pushing-them)
+
+### &#x265E; [Gradually Eat Away at Reputation](#gradually-eat-away-at-reputation)
+
+### &#x265E; [Convince People that the Ends Justifies the Means](#convince-people-that-the-ends-justifies-the-means)
+
+### &#x265E; [Eliminate Threats Early](#eliminate-threats-early)
+
+### &#x265E; [Following Up -- Crushing an Enemy Totally](#following-up-crushing-an-enemy-totally)
 
 In general, these are the tactics you will find yourself facing if
 someone is going to bully you out of work or attempt to exploit
 passive aggressive behavior.
 
 <a name="distracting-your-opponent"/>
-### &#x2605; [Distract Your Opponent](/posts/2015-02-24-workplace-bullying-part-two.html#distracting-your-opponent)
+
+![Keep your eye on the ball](/img/posts/2015-02-24-workplace-bullying-part-two/eye-on-ball-1.jpg)
+
+# &#x265E; [Distract Your Opponent](/posts/2015-02-24-workplace-bullying-part-two.html#distracting-your-opponent)
 
 The bully will want to make sure that what they do seems justified.
 If there are ways of distracting their opponent to prevent them from
 completing work, you can bet on it: they will pursue those tactics.
-
-![Keep your eye on the ball](/img/posts/2015-02-24-workplace-bullying-part-two/eye-on-ball-1.jpg)
 
 At the end of the game, they need the system to approve everything
 they've done.  If management views the bully as someone who pushed out
@@ -179,7 +211,8 @@ with fools errand's and through other means.
 ![Keep your eye on the ball](/img/posts/2015-02-24-workplace-bullying-part-two/eye-on-ball-2.gif)
 
 <a name="abuse-plausible-deniability"/>
-### &#x2605; [Work Indirecly and Abuse Plausible Deniability](/posts/2015-02-24-workplace-bullying-part-two.html#abuse-plausible-deniability)
+
+# &#x265E; [Work Indirecly and Abuse Plausible Deniability](/posts/2015-02-24-workplace-bullying-part-two.html#abuse-plausible-deniability)
 
 The bully will find multiple explanations for their behavior and get
 people to become aware of them, even though they're duplicitous.  This
@@ -196,7 +229,8 @@ How do you pick up on this?
 > motivations do not add up.
 
 <a name="crush-the-will-to-fight-back"/>
-### &#x2605; [Crush the Will to Fight Back](/posts/2015-02-24-workplace-bullying-part-two.html#crush-the-will-to-fight-back)
+
+# &#x265E; [Crush the Will to Fight Back](/posts/2015-02-24-workplace-bullying-part-two.html#crush-the-will-to-fight-back)
 
 This person wants to make you give up, so they have control.
 Therefore they will want to make you feel the burn.  If they can make
@@ -206,7 +240,8 @@ less able to defend yourself.
 ![Paris Hilton & the Art of War](/img/posts/2015-02-24-workplace-bullying-part-two/paris-hilton.jpg)
 
 <a name="control-the-audience"/>
-### &#x2605; [Control the Audience](/posts/2015-02-24-workplace-bullying-part-two.html#control-the-audience)
+
+# &#x265E; [Control the Audience](/posts/2015-02-24-workplace-bullying-part-two.html#control-the-audience)
 
 This one is used by every workplace bully I know and one of their most
 important tactics.  They will seek to control visibility.  They will
@@ -226,7 +261,8 @@ after it happens repeatedly and with strategic purpose, it becomes
 hard to ignore.
 
 <a name="isolate-your-enemy"/>
-### &#x2605; [Isolate your Enemy](/posts/2015-02-24-workplace-bullying-part-two.html#isolate-your-enemy)
+
+# &#x265E; [Isolate your Enemy](/posts/2015-02-24-workplace-bullying-part-two.html#isolate-your-enemy)
 
 This may be the most important tactic a workplace bully persues! They
 will attempt to isolate you, which is easier if you are quiet and keep
@@ -265,7 +301,8 @@ person to construct your perspective of your office's environment and
 culture!
 
 <a name="use-the-system-to-avoid-blame"/>
-### &#x2605; [Use the System to Avoid Blame](/posts/2015-02-24-workplace-bullying-part-two.html#use-the-system-to-avoid-blame) -- "Those are the Rules! Sorry, not my fault!"
+
+# &#x265E; [Use the System to Avoid Blame](/posts/2015-02-24-workplace-bullying-part-two.html#use-the-system-to-avoid-blame) -- "Those are the Rules! Sorry, not my fault!"
 
 This person excels at operating within the system.  Contrary to
 popular misconceptions, many sociopaths are actually great at playing
@@ -274,7 +311,8 @@ system against people.  A workplace bully will construct contrived
 situations where you are publicly humiliated by the system.
 
 <a name="losing-the-game-play-a-new-game"/>
-### &#x2605; [Losing the Game? Play a New Game!](/posts/2015-02-24-workplace-bullying-part-two.html#losing-the-game-play-a-new-game)
+
+# &#x265E; [Losing the Game? Play a New Game!](/posts/2015-02-24-workplace-bullying-part-two.html#losing-the-game-play-a-new-game)
 
 The rules don't favor the bully? The bully will find ways to implement
 new rules that do.  This person will use the system to construct a box
@@ -294,7 +332,8 @@ game where you will fail.
 a programmer -- good programmers eliminate time.
 
 <a name="catspaws-catspaws-catspaws"/>
-### &#x2605; [Catspaws, Catspaws, Catspaws](/posts/2015-02-24-workplace-bullying-part-two.html#catspaws-catspaws-catspaws)
+
+# &#x265E; [Catspaws, Catspaws, Catspaws](/posts/2015-02-24-workplace-bullying-part-two.html#catspaws-catspaws-catspaws)
 
 The bully will attempt to get other people to do the dirty work.  This
 is very complicated, since you have to construct abstracted behavior
@@ -320,7 +359,8 @@ as a reason to push that person out -- and thus, that person is no
 longer a threat to the bully.
 
 <a name="control-your-environment-and-limit-the-options"/>
-### &#x2605; [Control your environment and Limit the Options](/posts/2015-02-24-workplace-bullying-part-two.html#control-your-environment-and-limit-the-options)
+
+# &#x265E; [Control your environment and Limit the Options](/posts/2015-02-24-workplace-bullying-part-two.html#control-your-environment-and-limit-the-options)
 
 This is another gem from Sun Tzu's art of war: limit the opponent to
 playing from the cards in your hand.  Besides using suggestion, the
@@ -329,7 +369,8 @@ this to work. And then, it's really hard to question, isn't it --
 after all, that person is your manager.
 
 <a name="let-your-opponent-destroy-themselves"/>
-### &#x2605; [Let your Opponent Destroy Themselves](/posts/2015-02-24-workplace-bullying-part-two.html#let-your-opponent-destroy-themselves)
+
+# &#x265E; [Let your Opponent Destroy Themselves](/posts/2015-02-24-workplace-bullying-part-two.html#let-your-opponent-destroy-themselves)
 
 This is a vital one and one that doesn't necessarily indicate a
 workplace bully.  Just like the principle behind using catspaws, you
@@ -359,7 +400,8 @@ out?  Either way, it's your fault: you shouldn't entrust someone who
 isn't ready with major responsibilities.
 
 <a name="applying-labels-and-abusing-them"/>
-### &#x2605; [Applying Labels and Abusing Them](/posts/2015-02-24-workplace-bullying-part-two.html#applying-labels-and-abusing-them)
+
+# &#x265E; [Applying Labels and Abusing Them](/posts/2015-02-24-workplace-bullying-part-two.html#applying-labels-and-abusing-them)
 
 The workplace bully, early on, will attempt to psychologically profile
 you.  They will ask you questions that will allow them to label you
@@ -372,6 +414,7 @@ age. Every. Single. Time!
 Now, normally, these are just questions which happen to come up.  When
 people want to get to know each other, these are they questions they
 ask:
+
 - Are you single, dating or married? Do you have kids?
 - How old are you?  Where are you from?
 - Do you drink?  Do you smoke?  Do you smoke ... weed?  Ok, that last
@@ -453,7 +496,8 @@ have to naturally act in this manner.  Either that, or they have grown
 up with extremely manipulative role models -- and if so, watch out!
 
 <a name="finding-your-buttons-and-pushing-them"/>
-### &#x2605; [Finding Your Buttons and Pushing Them](/posts/2015-02-24-workplace-bullying-part-two.html#finding-your-buttons-and-pushing-them)
+
+# &#x265E; [Finding Your Buttons and Pushing Them](/posts/2015-02-24-workplace-bullying-part-two.html#finding-your-buttons-and-pushing-them)
 
 Bullies will use these labels to help determine your behavior.  They
 will be more capable of effectively manipulating you and getting away
@@ -510,7 +554,8 @@ you lash back at them in front of everyone.  They will push your
 buttons to shift blame and make it seem like you're the bad guy.
 
 <a name="gradually-eat-away-at-reputation"/>
-### &#x2605; [Gradually Eat Away at Reputation](/posts/2015-02-24-workplace-bullying-part-two.html#gradually-eat-away-at-reputation)
+
+# &#x265E; [Gradually Eat Away at Reputation](/posts/2015-02-24-workplace-bullying-part-two.html#gradually-eat-away-at-reputation)
 
 A workplace bully will make smart comments in meetings and poke fun at
 you in front of other colleagues.  While they may belittle you 1-on-1
@@ -525,7 +570,8 @@ less responsibilities.  With less responsibilities, you will find
 yourself claiming less contributions to the team's work!
 
 <a name="convince-people-that-the-ends-justifies-the-means"/>
-### &#x2605; [Convince People that the Ends Justifies the Means](/posts/2015-02-24-workplace-bullying-part-two.html#convince-people-that-the-ends-justifies-the-means)
+
+# &#x265E; [Convince People that the Ends Justifies the Means](/posts/2015-02-24-workplace-bullying-part-two.html#convince-people-that-the-ends-justifies-the-means)
 
 Eventually, once this person has successfully rooted themselves in
 your environment, destroyed your colleagues' confidence in you and
@@ -542,7 +588,8 @@ They will push your buttons more and more, just to point and say --
 see? I told you so!
 
 <a name="eliminate-threats-early"/>
-### &#x2605; [Eliminate Threats Early](/posts/2015-02-24-workplace-bullying-part-two.html#eliminate-threats-early)
+
+# &#x265E; [Eliminate Threats Early](/posts/2015-02-24-workplace-bullying-part-two.html#eliminate-threats-early)
 
 A workplace bully will tend to try to eliminate threats early, before
 a perceived problem becomes a threat.  If you stand up for yourself or
@@ -550,7 +597,8 @@ sidestep their tricks & charades, you will quickly find yourself a
 target.  So watch out!
 
 <a name="following-up-crushing-an-enemy-totally"/>
-### &#x2605; [Following Up -- Crushing an Enemy Totally](/posts/2015-02-24-workplace-bullying-part-two.html#following-up-crushing-an-enemy-totally)
+
+# &#x265E; [Following Up -- Crushing an Enemy Totally](/posts/2015-02-24-workplace-bullying-part-two.html#following-up-crushing-an-enemy-totally)
 
 Some workplace bullies are particularly vindictive.  They will work
 hard to make sure you are never given another chance again. Or that,
@@ -619,7 +667,6 @@ over your legacy.  The bully then has much more control over your life
 and your history.  And there's not a damn thing you can do about it!
 If they can manipulate while you can defend, they can manipulate when
 when you're dead.
-
 
 ## Part Two is a Wrap!
 
