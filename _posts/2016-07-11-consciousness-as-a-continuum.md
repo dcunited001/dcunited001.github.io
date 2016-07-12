@@ -7,7 +7,6 @@ headline: "Everconnectedness, the Quantum Web and Entropy's Antithesis"
 author:
   name: "David Conner"
 excerpt: "
-
 "
 ---
 
@@ -22,13 +21,81 @@ is a continuum that extends to some degree across all walks of
 life. Consciousness is our window to the world. It's how we experience
 the information that we experience.
 
+My thesis requires discussing language and semiotics, particularly how
+the former equips our mind with the tools it needs for
+abstraction. Also, I'll need to talk about entropy. Informational
+entropy lays the groundwork for how we exchange information and how
+our minds process information. Cosmic entropy sets the stage for
+discussing how matter is interconnected. We can trace matter back to
+the origin and we'll find that matter forms an intertangled graph I
+call the Quantum Web. This is important for laying the foundation for
+some more unexpected qualities of reality: particularly the quantum
+mechanical aspects of consciousness.
+
+There's a lot of speculation in this article. Again, please do your
+own research. If you find something that's glaringly wrong, please
+comment about it.
+
+In the conclusions from this information, hopefully we should be able
+to question our place in the universe. We may be part of something
+ancient. There may be life all around us in the universe. The
+tumultuous times we are going through, they may not be so unique. Life
+can take many forms, but my hypothesis is that consciousness is the
+window we use to experience the world.
+
+### What is Life?
+
+Life is the inevitability that entropy will push matter to self
+organize into higher forms, eventually to those that have the capacity
+to instantiate higher-levels of information. Life forms need to
+process information. Even microbes are technically processing and
+reacting to information, though they are doing so mechanically. In
+fact, we are made of information. Therefore, to survive life forms
+internalize information about their world in the form of
+self-organized matter composed of various representations of that
+information, including the life forms experience.
+
+This sets the basis for the continuum of consciousness, which is
+formed from the undeniable fact that we have a window to the
+world. Life processes streams of information. The very fact that we
+have this experience of information means that we have consciousness,
+at least some level of it. Even if it's not a very big window or not a
+very "significant" one, it is our window to the world. Even a spider
+must, on some implicit level, deal with the fact that it is
+experiencing the reality of that window to the world. I discuss this
+further in
+[Neural Networks and Spider Brains](/posts/2015-11-21-neural-networks-and-spider-brains.html).
+
+As senses evolve, they provide us with a bigger window to that
+world. As our brains evolved, they provide us with a better processing
+that expands that same window with aggregate information at various
+levels, expanding to the kind of consciousness that human beings
+experience. The kind that forces us to question why?
+
+### Why am i here?
+
+### What is my purpose?
+
+### What is my directive?
+
+That is, eventually. We can eventually state those questions. We have
+to evolve so many mental faculties before we get to that point. But
+the brain itself is really the ultimate abstraction of the
+universe. It's the universe taking the sum of it's experiences and
+internalizing it into little nodes that happen to dictate the actions
+of animals.
+
+In fact, life and especially self-aware life is the universe's means
+of becoming aware of itself.
+
 ### Consciousness is a Continuum
 
-This window can be shallow in that it is just the experience of the
-information with very little processed aggregate information available
-on top of it. Or this window can have much more depth to it, in which
-case it would include lots of aggregate data. Eventually, this window
-becomes complex enough that it gives rise to complex thought.
+This window of consciousness can be shallow in that it is just the
+experience of the information with very little processed aggregate
+information available on top of it. Or this window can have much more
+depth to it, in which case it would include lots of aggregate
+data. Eventually, this window becomes complex enough that it gives
+rise to complex thought.
 
 Particularly after vocal cords are developed that can be controlled to
 differentiate a large number of phonemes in a reproducible
@@ -258,33 +325,3 @@ particle. You could try to identify the specific particles that form
 it's interactions and all the dependencies as well. Particles which
 do not have quantum effects like this could be combined to form "new"
 particles, which do not have such dependencies ... maybe.
-
-
-
-
-life is the inevitability that entropy will push matter to self
-organize into higher forms, eventually to those that have the capacity
-to instantiate higher-levels of information.  life forms need to
-process information. therefore, life forms internalize information
-about their world in the form of self-organized matter composed of
-various representations of that information, including the life forms
-experience.
-
-this sets the basis for the continuum of consciousness, which is
-formed from the undeniable fact that we have a window to the
-world. life processes streams of information. the very fact that we
-have this experience of information means that we have consciousness,
-at least some level of it. even if it's not a very big window or not a
-very "significant" one, it is our window to the world. even a spider
-must, on some implicit level, deal with the fact that it is
-experiencing the reality of that window to the world.
-
-as senses evolve, they provide us with a bigger window to that
-world. as our brains evolved, they provide us with a better processing
-that expands that same window with aggregate information at various
-levels, expanding to the kind of consciousness that human beings
-experience. the kind that forces us to question why? why am i here?
-what is my purpose? what is my directive?
-
-in fact, life and especially self-aware life is the universe's means
-of becoming aware of itself.
