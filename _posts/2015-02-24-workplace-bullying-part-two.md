@@ -302,7 +302,9 @@ culture!
 
 <a name="use-the-system-to-avoid-blame"/>
 
-# &#x265E; [Use the System to Avoid Blame](/posts/2015-02-24-workplace-bullying-part-two.html#use-the-system-to-avoid-blame) -- "Those are the Rules! Sorry, not my fault!"
+# &#x265E; [Use the System to Avoid Blame](/posts/2015-02-24-workplace-bullying-part-two.html#use-the-system-to-avoid-blame)
+
+### "Those are the Rules! Sorry, not my fault!"
 
 This person excels at operating within the system.  Contrary to
 popular misconceptions, many sociopaths are actually great at playing
@@ -345,9 +347,9 @@ particularly manipulative.  Therefore, you won't tend to see this
 happening, unless multiple people gang up on you at work -- which is
 called **mobbing** by the way.
 
-![Cat's Paw](/img/posts/2015-02-24-workplace-bullying-part-two/catspaw.jpg)
-
 #### Nyan!
+
+![Cat's Paw](/img/posts/2015-02-24-workplace-bullying-part-two/catspaw.jpg)
 
 It seems to be easier if you excel at math, especially category
 theory, since you are technically obfuscating functions in a manner
@@ -415,12 +417,20 @@ Now, normally, these are just questions which happen to come up.  When
 people want to get to know each other, these are they questions they
 ask:
 
-- Are you single, dating or married? Do you have kids?
-- How old are you?  Where are you from?
-- Do you drink?  Do you smoke?  Do you smoke ... weed?  Ok, that last
-  one doesn't normally come up very early.
-- I heard you were *libertarian* ... is that true?  (they probably
-  won't ask this directly, but they will label you with it)
+#### Are you single, dating or married? Do you have kids?
+
+#### How old are you?  Where are you from?
+
+#### Do you drink?  Do you smoke?
+
+#### Do you smoke ... weed?
+
+Ok, that one doesn't normally come up very early.
+
+#### I heard you were *libertarian*
+
+... is that true? They probably won't ask this directly, but they
+will label you with it. Or they might. Happened to me.
 
 See, but that's the problem right there: **plausible deniability.**
 Remember that? These are just questions people ask to get to know each
