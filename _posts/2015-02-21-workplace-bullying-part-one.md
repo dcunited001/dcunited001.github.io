@@ -1,10 +1,20 @@
 ---
-title: "Workplace Bullying: Part One"
+title: "Workplace Bullying: Overview"
 author:
   name: "David Conner"
 tags: "sociology psychology bullying"
 categories: blog
+headline: "No person should ever be miserable at their place of work."
+excerpt: "
+Yup, there really is A BOOK. And here it is. With great power
+comes great responsibility. Some people use this book as a kind of
+bible.  $#@! those people. Here's a blog with a
+nice preview of the lovely teachings
+this book entails. You're going to want to buy this book and study
+it. To protect yourself from its great evils."
 ---
+
+#### &#x2605; Overview &#x2605; [General Strategies](/posts/2015-02-24-workplace-bullying-part-two.html) &#x2605; [Specific Tactics](/posts/2015-02-25-workplace-bullying-part-three.html) &#x2605; [Tools Against Bullying](/posts/2015-02-26-workplace-bullying-part-four.html)
 
 ### No person should ever be miserable at their place of work.
 
