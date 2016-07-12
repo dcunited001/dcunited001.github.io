@@ -5,7 +5,12 @@ author:
   name: "David Conner"
 tags: "sociology psychology bullying"
 headline: ""
-excerpt: ""
+excerpt: "
+One of the worst
+aspects of passive aggressive behavior -- and one reason that it is so
+effective -- is that positive behavior becomes easy to confuse with
+negative behavior, since the goal is to confuse cause and effect, to
+encourage inaction and to prevent interference."
 ---
 
 #### &#x2605; [Overview](/posts/2015-02-21-workplace-bullying-part-one.html) &#x2605; [General Strategies](/posts/2015-02-24-workplace-bullying-part-two.html) &#x2605; Specific Tactics &#x2605; [Tools Against Bullying](/posts/2015-02-26-workplace-bullying-part-four.html)
@@ -921,5 +926,7 @@ you can use to prevent this behavior from occuring in front of you.
 This is definitely the most important part.  I wanted to include it
 first, but it requires a lot of context to understand why this is
 important.
+
+## Part Four: [Tools Against Bullying](/posts/2015-02-26-workplace-bullying-part-four.html)
 
 <iframe width="420" height="315" src="https://www.youtube.com/embed/KFNcStdF_Ok" frameborder="0" allowfullscreen></iframe>

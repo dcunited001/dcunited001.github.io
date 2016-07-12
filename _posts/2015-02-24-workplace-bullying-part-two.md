@@ -682,3 +682,5 @@ when you're dead.
 
 Part 3 will cover identifying and profiling a workplace bully, as well
 as other tools you can use to protect yourself.
+
+## Part Three: [Specific Tactics](/posts/2015-02-25-workplace-bullying-part-three.html)

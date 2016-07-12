@@ -5,13 +5,14 @@ author:
   name: "David Conner"
 tags: "sociology psychology bullying"
 headline: ""
-excerpt: ""
+excerpt: "
+These tools will help you, but you will notice sometimes that these
+really really piss a bully off.  Be warned - some battles aren't worth
+fighting. Your energy and talents may be better suited elsewhere.  Of
+course, that's not to say you shouldn't stand up for yourself."
 ---
 
-
 #### &#x2605; [Overview](/posts/2015-02-21-workplace-bullying-part-one.html) &#x2605; [General Strategies](/posts/2015-02-24-workplace-bullying-part-two.html) &#x2605; [Specific Tactics](/posts/2015-02-25-workplace-bullying-part-three.html) &#x2605; Tools Against Bullying
-
-
 
 ## Same Team! *SAME TEAM!*
 

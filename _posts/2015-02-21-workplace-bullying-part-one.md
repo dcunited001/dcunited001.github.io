@@ -456,4 +456,6 @@ I'll describe what I've experienced, generally and specifically.  I'll
 also provide some tools to help these prevent these situations from
 arising.
 
+## Part Two: [General Strategies](/posts/2015-02-24-workplace-bullying-part-two.html)
+
 For now, my friends... Watch that clip ... It's hilarious. ^^^
