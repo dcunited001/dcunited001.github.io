@@ -1,8 +1,7 @@
 ---
 title: "Consciousness as a Continuum: Life, the Cosmos and You"
 categories: blog
-tags: "creativity writing sci-fi language linguistics dreams
-literature metamodernism savingtheworld philosophy"
+tags: "sci-fi language linguistics literature metamodernism philosophy"
 headline: "Everconnectedness, the Quantum Web and Entropy's Antithesis"
 author:
   name: "David Conner"
