@@ -43,7 +43,7 @@ tumultuous times we are going through, they may not be so unique. Life
 can take many forms, but my hypothesis is that consciousness is the
 window we use to experience the world.
 
-### What is Life?
+## What is Life?
 
 Life is the inevitability that entropy will push matter to self
 organize into higher forms, eventually to those that have the capacity
@@ -88,7 +88,7 @@ of animals.
 In fact, life and especially self-aware life is the universe's means
 of becoming aware of itself.
 
-### Consciousness is a Continuum
+## Consciousness is a Continuum
 
 This window of consciousness can be shallow in that it is just the
 experience of the information with very little processed aggregate
@@ -140,7 +140,7 @@ faculties of the brain, which lays the groundwork for higher level
 thought.  And we all gradually evolve towards embodying minds which
 are capable of discovering what are universal ideas.
 
-### Language Expands Consciousness
+## Language Expands Consciousness
 
 Language expands our consciousness. It's what enables abstract thought
 for many reasons. If a species does not have the capacity to produce a
@@ -157,31 +157,58 @@ social activities require them to abstract their actions, behaviors
 and routines. Social structure also forces them to develop a stronger
 concept of both self and group.
 
-- introduce some things: link these ideas together
-  - need a thesis
+## Informational Entropy
 
-- why do i need to talk about entropy
-  - both cosmic entropy and informational entropy
+But what are we really doing with language? We're replicating memes of
+information. A meme is a unit of information. It's not a square
+picture with large text on Twitter. A meme can be combined with type
+theory to act as a template for information. That's what you see on
+twitter. People are taking this meme that people have decided means
+something simple and can be clearly communicated. And they are
+attaching other pieces of information to it ... kind of using type
+theory, whether they know it or not.
 
-- why do i need to talk about quantum entanglement
+But even animals need to replicate information. They have defined
+specific signs and symbols to mean something amoung members of their
+branch of the social hierarchy. They just don't have the language
+faculties to definitively assign a clear meaning to something, so they
+don't even need the notion of a "word." Most of the time, they don't
+even have morphemes. Or they might just be communicating with body
+language.
 
-- mention the Neural Networks and Spider Brains article
+Each member of a community has a set of information in it's mind. And
+through communication those members can spread that information to
+others. And by expanding the base set symbols (phonemes, gestures)
+that are recognized by each member of the community, they are
+expanding the ability of those animals to communicate.
 
-## Entropy
+But in a cosmic context, if we consider life to be increasingly higher
+levels of self-organization of matter, then informational entropy
+applies there too. Entropy in information theory is derived from the
+amount of possible variations in an encoded message. Instead of an
+encoded message, we consider the variation in types of particles and
+the types of particle interactions, then informational entropy should
+correlate to the presence of life.
 
-entropy in cosmology/thermodynamics
+This is an interesting path of thought, if you consider the
+intersection of two particles as a kind of informational exchange.
 
-a logarithmic measure of the rate of transfer of information in a
-particular message or language.
-- entropy in information theory is derived from the amount of
-  possible variations in an encoded message.
-  - so in the context of physics and especially biology,
-    - informational entropy plays a role in determining the types and
-      rates of interactions that could occur between particles
-    - as if the intersection of two particles is a kind of
-      informational exchange
-  - ... i think. i haven't really thought this out. it seems like a
-    parallel could be identified here...
+And what is happening there anyways? Out there in the vastness of
+space? What conditions contribute to an increase in informational
+entropy? Obviously, stable conditions. Or is that obvious? I could
+imagine life forms in the sun, if there's a propensity for the chaotic
+magnetic fields to feed into some kind of self-sustaining,
+self-replicating electromagnetic force. If such information
+persistence could occur in matter on earth and if it's not so far
+fetched for something like that to occur in the frosty depths of
+Europa, then why not in the Sun?
+
+If life is just the persistence of information in the universe, then
+it should be everywhere. But if this definition is true, then what are
+we? Are we really that special? I think so. I think it's special for
+organic lifeforms to receive such prolonged stability.
+
+### Cosmic Entropy
 
 In the grand scheme of things, cosmic entropy is its own
 anti-thesis. Or ... we should hope that it is. Entropy is EVIL!! lulz
