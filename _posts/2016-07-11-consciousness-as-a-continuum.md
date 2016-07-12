@@ -72,11 +72,11 @@ that expands that same window with aggregate information at various
 levels, expanding to the kind of consciousness that human beings
 experience. The kind that forces us to question why?
 
-### Why am i here?
+#### Why am i here?
 
-### What is my purpose?
+#### What is my purpose?
 
-### What is my directive?
+#### What is my directive?
 
 That is, eventually. We can eventually state those questions. We have
 to evolve so many mental faculties before we get to that point. But
@@ -254,7 +254,10 @@ my Dr. Strange article.
 # The Connectedness of All Things
 
 Spooky action at a distance. That's how Einstein referred to quantum
-entanglement of particles. It transcends the speed of light.
+entanglement of particles. It transcends the speed of light because
+the exchange of information here doesn't require the traversal of
+space. Space is what imposes the speed of light.
+
 Entanglement shares some interesting properties with my favorite
 subject: category theory. And in particular, there are lots of
 interesting overlaps with functional programming.
@@ -265,6 +268,17 @@ of state in the future. That is the future state of both particles is
 tied to the result of the interaction in the past *and* to future
 interactions. So, any future interaction to either particle has to
 account for state changes to the other particle in the entangled pair.
+
+In fact, this in and of itself, *could* what drives the Heisenberg
+Uncertainty Principle ... but it's probably not. But if you think
+about it: if all electrons have a web of entanglements that extend
+pretty far back, then to determine qualities of one particle, then
+wouldn't you need to know all of the states of particles it had
+interacted with? ... I need to be able to ask some questions...
+
+I imagine that entanglement itself could be responsible for a degree
+of uncertainty. The states of dependent particles could change based
+on the particles they depend on.
 
 ## Interconnected and Everconnected
 
@@ -314,11 +328,12 @@ about this stuff.
 
 So, if these ideas hold to some degree, then there should be a
 *Quantum Web* that forms between all particles that have ever
-interacted. And because there were so many more interactions at the
-beginning, then nearly every particle should already be entangled with
-all others, to some degree. I don't know how long entanglement really
-persists though. This Quantum Web is born out of the concept of
-everconnectedness I introduced above.
+interacted. It's born out of the concept of everconnectedness I
+introduced above. And because there were so many more interactions at
+the beginning, then nearly every particle should already be entangled
+with all others, to some degree. I don't know how long entanglement
+really persists though. Or the degree to which an entanglement would
+continue to affect future entanglements.
 
 The degree of the history of interactions that are maintained is a
 question I wish I could shout at a group of MIT freshmen. Because they
@@ -336,21 +351,61 @@ it's interactions and all the dependencies as well. Particles which
 do not have quantum effects like this could be combined to form "new"
 particles, which do not have such dependencies ... maybe.
 
-
-> Side trek: what if stars *are* such a massive network of computers,
-> because of the possible interconnectedness of all matter? In other
-> words, there could be a quantum virus harnessing entanglement that
-> impregnates stars with a self-replicating form of quantum
-> information, eventually transforming that star into a node in a
-> universal network. It's like a cosmic game of tag with stars. You
-> just have to physically get to each one first.
-
-
 ### Quantum Broadband
 
 #### WTF, Comcast!! Where you at?
 
-> Or, what if matter really forms this quantum channel of
+> So ... what if matter really forms this quantum channel of
 > communication and the reason SETI hasn't picked up alien signals is
 > because their all talking on another channel. That's my personal
 > answer to Fermi's paradox. That or
+
+If we can tap into matter across the universe, what if we can use
+those quantum mechanical mechanisms, coupled with the
+[universal language](/posts/2016-04-12-the-nature-of-space-time-and-information-implies-universal-language.html)
+concept I wrote about in April 2016. Could we pair these two together
+to join a cosmic internet full of alien life forms the universe over?
+Could we network with those aliens using quantum mechanics and
+identify particle pairings which are entangled without having physical
+access to both?
+
+### Cosmic Computational Complexity
+
+This is a crucial question to answer. Perhaps it's better off left as
+a science fiction scenario, but if it were possible, then we could
+leverage the entire universe as a massive computer. It's basically
+cosmic internet! And the customer service probably beats cable
+internet. They have light years to cross, my friend. And they still
+beat the cable company!
+
+At that point, we shed most of the spatial restrictions on the
+computational capacity of the universe. We can leverage the whole
+thing, regardless of whether there's a Big Crunch or a Big Freeze. It
+won't really matter. Galaxies should stay mostly in tact,
+regardless. They just drift so far apart that they are separated by
+intractible distances.
+
+#### It's the Freaking Star Gate!
+
+**Side Trek:** What if stars *are* such a massive network of
+computers, because of the possible interconnectedness of all matter?
+In other words, there could be a quantum virus harnessing entanglement
+that impregnates stars with a self-replicating form of quantum
+information, eventually transforming that star into a node in a
+universal network. It's like a cosmic game of tag with stars. You just
+have to physically get to each one first.
+
+And: when you throw Superintelligent AI into the mix with this idea --
+or any concept where there is a massive universal communication medium
+-- how does that change the implications of AI? It means that AI would
+merge together with this cosmic network of other superintelligent AI's
+and join this hivemind virtualization cluster in the sky. I wonder
+what they'd talk about...
+
+It'd be pretty cool though because this maximizes our capacity for
+virtualizing a universe inside ours.
+
+## All is One, One is All
+
+What does any of this have to do with consciousness? Quantum mechanics
+may lay the framework for a universally connected
