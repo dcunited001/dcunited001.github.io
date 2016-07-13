@@ -24,8 +24,9 @@ We've seen the evolution of the distribution of mass communication
 from four channels to dozens to the internet. The internet is
 essentially the inversion of the concept of mass communication, where
 each person has their own channel.  And for about two decades, the
-average person had access to the power of knowledge and information,
-unequivocally greater than at any other time in human history.
+average person had access to the power of knowledge and
+information. This access is unequivocally greater than at any other
+time in human history.
 
 But this can be just as dangerous as it is beneficial. If any
 information can be freely transmitted over maximally connected
@@ -60,10 +61,11 @@ Individuality is derived from how we and others present or perceive
 ourselves to differ in relation to some universal
 constants. Individuality is evaporating because these cultural
 touchstones we use to define ourselves are becoming buried in a sea of
-mimicry. It's ironic that uniformly amplified stochastic expression of
-novel cultural elements -- in other words, maximized, wholly and
-equivalent individualistic expression -- would threaten individuality
-itself.
+mimicry. It's ironic that uniformly amplified, stochastic expression
+of novel cultural elements would threaten individuality itself. In
+other words, if everyone has the capacity for maximized, wholly and
+equivalent individualistic expression, then individuality disappears
+because we lose those centralized touchstones.
 
 For what are we, if we lack these unifying cultural elements that we
 use to define ourselves? How can one compare themselves to someone
