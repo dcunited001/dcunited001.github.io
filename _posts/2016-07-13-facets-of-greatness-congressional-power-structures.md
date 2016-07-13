@@ -582,24 +582,25 @@ If everyone is bound to one rigid platform or another, it's to easy to
 stymie progress. The point to adhering to group dynamics is to
 accomplish shared goals through compromise.
 
-### Dark Side
+#### A "Dark Side"
 
+There's a "dark side" that can emerge from these rules, obviously. I'm
+not going to delve too far into those aspects. There's the potential
+for a politician to tailor his message to a specific audience, where
+they speak out of both sides of their mouth, so to speak. Or they can
+convince or restrain you from communicating with other people.
 
+#### Watch how you sell what you sell
 
-There's a 
-
-  - there's a "dark side" to alot of these rules, obviously. i'm not
-    really going to detail that aspect of things
-    - but usually there is the potential for a politician to tailor
-      his message to a specific audience. this is just life, really.
-    - but, basically, you gotta watch how you sell what you sell
-      because you want the people you compromise with to feel like
-      they got what they wanted today, next week and next year.
-      - if people are satisfied at first, and later feel shortchanged,
-        that will build up.
-      - this is especially true when you're trying to establish
-        a compromise with "resources" which are hard to pin a dollar
-        value to
+However, you have to watch how you sell what you sell. You want the
+people you compromise with to feel like what they wanted today, next
+week and next year. If people are satisfied at first and later feel
+shortchanged, that will build up. This is especially true with
+politics when you're trying to establish a compromise with resources
+which are hard to pin a dollar amount to. Actually, you can't pin a
+dollar amount to most of these: it's unethical. And so there's no
+medium of exchange. Misunderstandings like these are eased and
+ameliorated with communication and empathy.
 
 ## Political Resources
 
@@ -611,7 +612,8 @@ There's a
         value.
       - and an instance of a resource varies in value to each party
         and group that is involved
-  - the value is derived from appearances
+
+- the value is derived from appearances
     - it is not a personal subjective value.  that is, it doesn't
       matter what the thing is worth to you personally.  what matters
       is what it's worth to other people, although this is true for
@@ -620,7 +622,8 @@ There's a
       have a numeric, comparable value attached to them.  and they
       shouldn't really.  that's getting uncomfortably close to ethical
       issues.
-  - i don't know the specific rules behind ethics for each of these
+
+- i don't know the specific rules behind ethics for each of these
     resource types or in general. i know that it is very much
     dependent on the manner in which you make an offer
     - or the way you market it to the other party.
@@ -659,13 +662,15 @@ There's a
     - rookies on capital hill are going to have to work harder to
       obtain some resources.
   - amendments and bills - these can be used for compromises
-  - floor time & agenda
+
+- floor time & agenda
     - unless you have a few years under your belt and have served
       others, then i imagine this would be less available to you than
       to others
       - this increases demand for floor time and agenda influence for
         junior congressmen, meaning they have to barter for it.
-  - opportunity & service
+
+- opportunity & service
     - one can leverage an opportunity or role as part of a compromise
     - or perform some service in aid to a cause, group effort,
       campaign, etc.
@@ -675,7 +680,8 @@ There's a
     - and likewise, it's useful to identify/estimate opportunities for
       service to use as leverage ... or as a way to gauge various
       things
-  - pr/publicity/press
+
+- pr/publicity/press
     - some actions can be undertaken in congress to gain PR points or
       publicity on an issue.
       - I doubt this is the primary motivating factor in deciding
@@ -690,22 +696,24 @@ There's a
         - enumerating your supporters, their needs and their
           expectations helps you ensure that your giving back to those
           who are pushing you forward
-  - budgets (office/staff for congressman, etc. and committee staff)
+
+- budgets (office/staff for congressman, etc. and committee staff)
     - if you hold an office, legislative, executive, judicial,
       administrative, or otherwise, then I'd imagine you'd have some
       kind of budget.
       - in many cases, it's probably not managed personally, but you
         have influence over it.
         - money <=> power
-  - personal time
+
+- personal time
     - one has to leverage their time efficiently, while remaining
       flexible, which becomes incredibly difficult as you gain
       influence
-  - your understanding of the system
+
+- your understanding of the system
     - how you model the system and perceive the relationships between
       people is incredibly valuable
       - in fact, this might be one of your greatest sources of value
-
 
   - committee agenda & time
 
