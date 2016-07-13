@@ -364,7 +364,7 @@ knowledge, communication and social networking -- both online and IRL.
 
 ## &#x1f48e; [Networking](#networking)
 
-### &#x2182; [Maximizing Mutual Benefit](/posts/2016-05-14-facets-of-greatness-networking-maximizing-mutual-benefit.html) How to quickly identify, vet and connect to mutually beneficial connections.
+#### &#x2182; [Maximizing Mutual Benefit](/posts/2016-05-14-facets-of-greatness-networking-maximizing-mutual-benefit.html) How to quickly identify, vet and connect to mutually beneficial connections.
 
 These great leaders are all conductors in the symphony of
 communication.  They identify the most efficient means to relay
@@ -404,9 +404,7 @@ in the room at that time.
 
 ## &#x1f48e; [Communication](#communication)
 
-[Synoptic Epigrams](/posts/2016-05-13-facets-of-greatness-communication-synoptic-epigrams.html)
-- Overview on Communication for Leaders.  Leveraging your network with
-a concise message. Simple is better.
+#### &#x2182; [Synoptic Epigrams](/posts/2016-05-13-facets-of-greatness-communication-synoptic-epigrams.html) Overview on Communication for Leaders.  Leveraging your network with a concise message. Simple is better.
 
 Communication is one of the most important facets to develop.  If you
 can't communicate effectively, how can you expect to leverage your
@@ -474,10 +472,7 @@ difficult to balance with the interests stockholders.
 
 ## &#x1f48e; [Signaling](#signaling)
 
-[If Actions Speak Louder](/posts/2016-05-13-facets-of-greatness-signaling-if-actions-speak-louder.html)
-- Overview on Signaling. The how and why to signaling. Why signaling
-overcomplicates otherwise simple projects. How signaling is the
-missing piece for the otherwise exceptionally intelligent.
+#### &#x2182; [If Actions Speak Louder](/posts/2016-05-13-facets-of-greatness-signaling-if-actions-speak-louder.html) Overview on Signaling. The how and why to signaling. Why signaling overcomplicates otherwise simple projects. How signaling is the missing piece for the otherwise exceptionally intelligent.
 
 Signaling is a kind of indirect communication, but it differs
 significantly from that described above because it encompasses
@@ -535,10 +530,7 @@ More in the section on signaling.  Just remember.  **Poker Face**.
 
 ## &#x1f48e; [Knowledge](#knowledge)
 
-[Meta and Epi](/posts/2016-05-13-facets-of-greatness-knowledge-meta-and-epi.html) -
-- Overview of Knowledge.  Understanding metaphenomena and epiphenomena.
-Constructing and reading models. Utilizing knowledge differential for
-profit.
+#### &#x2182; [Meta and Epi](/posts/2016-05-13-facets-of-greatness-knowledge-meta-and-epi.html) Overview of Knowledge. Understanding metaphenomena and epiphenomena. Constructing and reading models. Utilizing knowledge differential for profit.
 
 Knowledge is power, as stated by that maxim from time immemorial.
 And, yep, it's true, in case you hadn't figured that out yet. I think
@@ -856,7 +848,7 @@ how to design with redundancy and resilience in mind.
 
 ## &#x1f48e; [???](#unknown)
 
-[Monumental Accidents](/posts/2016-05-14-facets-of-greatness-the-unknown-monumental-accidents.html)
+#### &#x2182; [Monumental Accidents](/posts/2016-05-14-facets-of-greatness-the-unknown-monumental-accidents.html)
 
 This is the Unknown facet.  It's a mystery.  Wrapped in an enigma.
 Contained inside a box!  It's a box.  I wonder what's in it?
