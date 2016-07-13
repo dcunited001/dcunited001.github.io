@@ -343,9 +343,9 @@ you trust who help you run the show.
 
 In general, assets like real estate are less risky than active
 business ventures. Assets aren't free: they require taxes and
-upkeep. 
+upkeep.
 
-### 
+### (transition between politics)
 
 For me, money is useful as it permits me the influence to exert for
 change. That's it. That's the only reason i've wanted money. That's
@@ -359,10 +359,46 @@ didn't want anything else, but the ability to attain the influence to
 change things. I became single-minded and decided nothing else was
 worth it.
 
+This stubbornness was borne out of passion for particular issues. I
+saw that things could be better; they should be better. And I was
+infuriated with the lack of progress on particular problems. Around
+summer 2007, I discovered Ron Paul and if it weren't for that I might
+still be liberal. I voted for Nader in 2004. That's how liberal I was.
+I thought Chavez was a great guy. He paid the heating bill for people
+in the Bronx! A leader from Venezuela gave to random people in New
+York City. Out of the goodness of his heart! That's how liberal I was.
 
+I wisened up after 2007 and became more conservative, but I was still
+passionate about many of the same problems as the left. Actually, I
+discovered that both the left and the right were concerned about
+mostly the same problems, but they had different answers. I refused to
+give in on social issues and I'm still socially liberal. IMO, those
+are mostly issues to be addressed by the family and by cultural
+institutions. Yet, many of those cultural institutions have been
+weakened.
 
-###
+I'm pretty steadfast fiscally conservative. I've never received
+unemployment or welfare or a check from the government outside of my
+income taxes, when I got still got a check. I still owed taxes from
+2014, but for some reason, it had been real hard to find a job. So, I
+gave up finding a job in 2015 after about May. I'd make as little
+money as possible and just let my 2015 tax return cancel out my 2014
+taxes. Fuck 'em. If I'd gotten another job, I'd have been harrassed
+like I was at almost every real job I've had. Fuck 'em!
 
+#### Can't win? Play another game!
+
+I've been unemployed for a long time, but that doesn't mean I haven't
+been working hard. I took advantage of all the resources available
+online. Wikipedia, Coursera and all the other brilliant ways to
+learn. Yeh, the economy has been tough and the distribution of wealth
+has been shifted towards the wealthy. The dissipation of the middle
+class is a serious problem. Yet, there has never been another time in
+history were the poor have more opportunities. No, this doesn't work
+for everyone, but for many people & especially young people, *you have
+never been as empowered as you are now! In history!*
+
+## Congressional Networks
 
 - congress (435 reps and 100 senators) as an example of recomposing a set
   of people into various networks, based on some meeting some
@@ -380,6 +416,8 @@ worth it.
       - both toward specific relationships and in general
     - mapping this out in your head is crucial
 
+## Navigating those networks
+
 - understanding how to recognize/navigate/assess/prioritize these
   networks, structures and connections enables you to work smarter,
   get more done and rise up through the ranks.
@@ -392,6 +430,8 @@ worth it.
     leveraging players from your party and reaching across the aisle
   - you have to be keenly aware of how other people perceive the
     system, both those in your party and the opposing party
+
+## Anticipating Changes in Needs
 
 - understanding how people's needs are going to change from today to
   tomorrow to next year. and it introduces yet another dimension of
@@ -418,6 +458,8 @@ worth it.
   - and everyone wants to look like they're taking part in slaying
     whatever dragon is rearing it's head at the moment. but is it
     really worth the energy?
+
+## Members of the Political Class are Power Brokers
 
 - congressman and faculty operate as power brokers
   - this entails minimizing access to information and power
@@ -455,6 +497,8 @@ worth it.
       - this is especially true when you're trying to establish
         a compromise with "resources" which are hard to pin a dollar
         value to
+
+## Political Resources
 
 - the nature of "resources" in congress
   - these resources are like a kind of currency ...
@@ -504,6 +548,8 @@ worth it.
             easily at the committee. this is a mechanism in our
             government that is quite frustrating, but there are
             reasons for enabling that control.
+
+### Bartering for Comprimise
 
   - bartering for this or anything else requires that you be creative
     & flexible in finding ways to offer value to others
@@ -559,6 +605,8 @@ worth it.
 
 
   - committee agenda & time
+
+## Prioritizing Resources
 
 - understanding how to estimate, prioritize and schedule your
   available resources
