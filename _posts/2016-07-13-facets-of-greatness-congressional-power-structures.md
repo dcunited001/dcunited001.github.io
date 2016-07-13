@@ -19,6 +19,7 @@ policies. (restructure this)
   - need to have an appreciation of the why and the tradition behind
     these things
     - if for nothing else, you have to understand it to change it.
+- note that I might be showing my own inexperience here
 
 ## Table of Contents
 
@@ -515,30 +516,78 @@ dragon is rearing it's head that day. Is it really worth the energy?
 
 ## Politicians are Power Brokers
 
-- congressman and faculty operate as power brokers
-  - this entails minimizing access to information and power
-    - minimizing available surface area for information/power
-      increases ability of individual to leverage info/power as an
-      asset
-      - while simultaneously increasing it's value for other players
-      - that is, if one person has lowered barriers to access for
-        info/power, then the value for that info/favor is reduced for
-        other players
-      - so they're breaking the game for others.
-        - i hate that it works like this but it does
-      - i value transparency, making info freely available and not
-        convoluting my own actions to increase the value of some
-        info/influence i might be able to offer someone else
-      - while improper usage of these tactics can lead one into
-        trouble, it's just kinda how it works (i think.....)
-  - so there are individual incentives for behavior as a kind of power
-    broker, but there are also group incentives at various levels
-    - so, in some instances, leveraging an opportunity when it goes
-      against party or committee objectives can rub people the wrong
-      way, at best
-      - at the same time, it's important for people to be able to
-        break rank.  if everyone is bound to one rigid platform or
-        another, it's too easy to stymie progress.
+Congressmen and faculty are power brokers. So are bureaucrats. And
+when it comes down to it, we are all politicians on one level or
+another. This pops up all the time in the business world and whenever
+there's competition. A politician is someone who knows what they want
+and needs to find a way to get there. So they have to abstract their
+needs from their presentation of needs. In turn, there are people you
+have to work with with a similar disposition: they have goals and
+there's an abstraction between their actions and how they present
+their actions. That's what politics is about. Politics begins to take
+on interesting group dynamics as you add groups, rules and change.
+
+It can be frustrating. I've learned a lot of hard lessons about
+politics over the years in unusual places.
+
+If politicians are power brokers, what does this imply? What is a good
+politician? A proficient politician aquires and leverages advantage.
+There are different ways to do this. Some are great; some are good;
+some are bad. You can't forget that you're dealing with people and in
+Washington, you're dealing with good people. Yes, even the politicians
+on the news for being in trouble are typically good people. They
+invested their lives in this. They have families. And they are
+typically upstanding citizens. Everyone makes a few mistakes, even
+though there really are a few bad apples out there.
+
+But, to optimize one's own advantage within an explicitly political
+system like Congress, this entails minimizing access to information
+and power. You're trying to minimize available surface area for
+information and power, which increases your opportunity to leverage
+that information as an asset. While restricting availability of
+information, you simultaneously increase its value for other players.
+
+This is a lesson I learned from bboys. Yes, breakdancers. I used to
+show off all the time. I wasn't really showing off. I was having fun
+or practicing. However, in various situations, this can dilute the
+entertainment value of bboying. It used to be pretty rare to see. If
+it's completely common and for no reason, then it begins to lose it's
+excitement and novelty. Also, it attracts attention. The people who
+have experienced a lot of success in the entertainment industry don't
+like that attention. Getting attention kinda what they do for work and
+it can feel like work.
+
+The point is, if you're diluting the value for yourself, that's your
+own problem. If you're diluting the value a group of people, that's
+another. The group dynamic takes over. If one person has lowered
+barriers to access for information or power, then the value for that
+resource is reduced for other players. Someone's breaking the game. I
+can't stand that it works like this, but sometimes it does.
+
+I value transparency and making knowledge freely available. I'd rather
+not convolute my own actions to fit appearances and it's frustrating
+to be jerked around by other players in a situation like that. They
+obfuscate a simple situation by wrapping it in another game and
+completely circumvent the apparent realities of the more simple
+situation.
+
+#### Individual and Group Dynamics
+
+There are individual incentives for behavior as a kind of power
+broker, but there are also group incentives at various levels So, in
+some instances, leveraging an opportunity when it goes against party,
+committee or group objectives can rub people the wrong way, at best.
+At the same time, it's important for people to be able to break rank.
+If everyone is bound to one rigid platform or another, it's to easy to
+stymie progress. The point to adhering to group dynamics is to
+accomplish shared goals through compromise.
+
+### Dark Side
+
+
+
+There's a 
+
   - there's a "dark side" to alot of these rules, obviously. i'm not
     really going to detail that aspect of things
     - but usually there is the potential for a politician to tailor
@@ -599,7 +648,7 @@ dragon is rearing it's head that day. Is it really worth the energy?
           - AFAIK they would take one symbolic action on it per year,
             up until the last decade (maybe a little further)
           - medical was a bit easier, but progress can be stalled
-            easily at the committee. this is a mechanism in our
+            easily at the commi this is a mechanism in our
             government that is quite frustrating, but there are
             reasons for enabling that control.
 
