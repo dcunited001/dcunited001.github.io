@@ -1,6 +1,6 @@
 ---
 title: "Facets of Greatness - Knowledge - Meta and Epi"
-categories: blog
+categories: "blog facets-of-greatness"
 tags: "business psychology philosophy sociology leadership"
 headline: "I cannot teach anybody anything, I can only make them think."
 author:

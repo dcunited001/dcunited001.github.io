@@ -1,6 +1,6 @@
 ---
 title: "Facets of Greatness - The Unknown - Monumental Accidents"
-categories: blog
+categories: "blog facets-of-greatness"
 tags: "business psychology philosophy sociology leadership"
 headline: "What Bonsai Teaches Us About Life"
 author:

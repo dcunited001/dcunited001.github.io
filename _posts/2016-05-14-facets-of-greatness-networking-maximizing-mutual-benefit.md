@@ -1,6 +1,6 @@
 ---
 title: "Facets of Greatness - Networking - Maximizing Mutual Benefit"
-categories: blog
+categories: "blog facets-of-greatness"
 tags: "business psychology philosophy sociology leadership networking"
 headline: ""
 author:

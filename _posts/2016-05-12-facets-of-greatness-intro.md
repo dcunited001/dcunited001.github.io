@@ -1,6 +1,6 @@
 ---
 title: "Facets of Greatness - Intro"
-categories: blog
+categories: "blog facets-of-greatness"
 tags: "business psychology philosophy sociology leadership"
 headline: ""
 author:

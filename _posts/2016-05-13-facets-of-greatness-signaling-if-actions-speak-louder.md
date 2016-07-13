@@ -1,6 +1,6 @@
 ---
 title: "Facets of Greatness - Signaling - If Actions Speak Louder"
-categories: blog
+categories: "blog facets-of-greatness"
 tags: "business psychology philosophy sociology leadership"
 headline: "Certainly, if one tells the truth while the other always lies..."
 author:

@@ -1,6 +1,6 @@
 ---
 title: "Facets of Greatness - Communication - Synoptic Epigrams"
-categories: blog
+categories: "blog facets-of-greatness"
 tags: "business psychology philosophy sociology leadership"
 headline: "What Can We Read Between the Lines?"
 author:
