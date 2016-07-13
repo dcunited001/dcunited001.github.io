@@ -16,7 +16,7 @@ tomorrow, born out of a world where novelty is scarce, the prospect of
 individuality, outnumbered, faces sublimation and creativity wilts in
 terra cocta.
 
-### The Evolution of Information Distribution
+## The Evolution of Information Distribution
 
 #### The Inversion of Mass Communication
 
@@ -38,7 +38,7 @@ we are lacking those cultural touchstones, the propensity for
 misinformation to alter our course of action skyrockets.  Our beloved
 21st century Library of Alexandria becomes it's antithesis.
 
-### Who's Dictionary?
+#### Who's Dictionary?
 
 The Urban Dictionary is a loosely controlled collection of idioms and
 expression, but who controls what gets on there or not? Are there
@@ -47,7 +47,7 @@ idioms and expressive language from experiences in our lives, then if
 we all have completely different experiences, can we communicate with
 idioms?
 
-### Check Yo Bubble
+#### Check Yo Bubble
 
 The newsfeed filter bubble is incredibly powerful, though
 incomprehensibly complex.  How often do you check your friends
@@ -58,20 +58,20 @@ differentiation?
 ## Make It New!
 
 Individuality is derived from how we and others present or perceive
-ourselves to differ in relation to some universal
-constants. Individuality is evaporating because these cultural
-touchstones we use to define ourselves are becoming buried in a sea of
-mimicry. It's ironic that uniformly amplified, stochastic expression
-of novel cultural elements would threaten individuality itself. In
-other words, if everyone has the capacity for maximized, wholly and
-equivalent individualistic expression, then individuality disappears
-because we lose those centralized touchstones.
+ourselves to differ in relation to some universal constants.
+Individuality is evaporating because these cultural touchstones we use
+to define ourselves are becoming buried in a sea of mimicry. It's
+ironic that uniformly amplified, stochastic expression of novel
+cultural elements would threaten individuality itself. In other words,
+if everyone has the capacity for maximized, wholly and equivalent
+individualistic expression, then individuality disappears because we
+lose those centralized touchstones.
 
 For what are we, if we lack these unifying cultural elements that we
 use to define ourselves? How can one compare themselves to someone
 else if we don't all share some common experiences?
 
-### Primordial Ooze of the Noosphere
+#### Primordial Ooze of the Noosphere
 
 Decades ago, everyone was exposed to common cultural factors.  Now, we
 have been thrust far into the noosphere, which is like the biosphere,
@@ -83,7 +83,7 @@ there, but I think it's clear that as the population grows, so do the
 cultural artifacts.  In the past two decades, these artifacts have
 been piling up and who is to say which are relevant and which are not?
 
-### My Electro Glitch Hip Crunk Future Trap Jazz Hop Band
+#### My Electro Glitch Hip Crunk Future Trap Jazz Hop Band
 
 We have more genre's of music every year because everyone struggles to
 sound different. Preexisting genre's are combinated to create new
@@ -93,7 +93,7 @@ any degree of significance. Not only is there so much variation in
 content, there is equally as much variation in patterns of content
 consumption behaviors.
 
-### How Many Hipsters?
+#### How Many Hipsters?
 
 How many hipsters does it take to change a lightbulb? Well, if you
 have more than one, they'll never be able to decide on the lighting
@@ -104,20 +104,22 @@ are economic consequences as well. Cost to advertise skyrockets and
 then there's so much noise noone wants to pay attention to your
 marketing message.
 
-### Memetics and Epimemetics
+## Memetics and Epimemetics
 
 Genres of music and other forms of art inspire subcultures to
 arise. And our culture becomes more fragmented, psychologically and
 sociologically. Memetically, this changes how people are
 psychologically structured and the degree to which their psyches can
-be predicted. The exponential variation of memes decreases their
-viability and alters their epimemetic behaviors. Epimemetics to memes,
-as epidemiology is to disease. For the most part, with increased
-number and decreased viability, it becomes very difficult for much to
-rise to the top to become a touchstone.  And there would be very few
+be predicted.
+
+The exponential variation of memes decreases their viability and
+alters their epimemetic behaviors. Epimemetics is to memes as
+epidemiology is to disease. For the most part, with increased number
+and decreased viability, it becomes very difficult for much to rise to
+the top to become a touchstone. And there would be very few
 touchstones universally pervading society.
 
-### Everything Old Is New Again
+#### Everything Old Is New Again
 
 Today, everything that has been done as been done before. We've all
 heard that before. It's even in Ecclesiastes:
@@ -128,18 +130,18 @@ heard that before. It's even in Ecclesiastes:
 
 All new and old genres of movies are recombinations of pre-existing
 genre's and works, maybe with new technology or a new perspective.
-But they're all the same ideas.  This isn't to say that recent TV or
-movies lack quality.  Quite the opposite: there is so much excellent
+But they're all the same ideas. This isn't to say that recent TV or
+movies lack quality. Quite the opposite: there is so much excellent
 writing and production in entertainment today. But there's so much
 content on Hulu and Netflix that it becomes hard to experience it
 all.
 
-### White Noise, Pink Noise
+#### White Noise, Pink Noise
 
 For art and life in general, everything starts to blur together.
 Nothing is pure and nothing is original.  When a work of art is
 perceived as a reconstitution of other ideas, what happens when there
-are innumerable, indistinguishable ideas to link to?  Can any
+are innumerable, indistinguishable ideas to link to? Can any
 interpretations be said to have consistency in meaning? If no symbols
 can have relevance, then what happens to language? What does this mean
 for us? For individual cultures, old and new? For the entire world as
@@ -164,7 +166,7 @@ useful statistical inferences based on categorizing people on
 overlapping sets of information that we have consumed and our
 behaviors. Obviously, such a capability isn't available to each of us.
 
-### The Unknown Philosopher
+#### The Unknown Philosopher
 
 There was a 19th or 20th century French philosophy that, for the life
 of me, I can't find.  I think he was a contemporary of Heidegger, but
@@ -175,7 +177,7 @@ wasn't hugely popular, that really resonated with me. It's more
 relevant now than ever, with information consumption primarily
 funneled through ISP's and the internet.
 
-### Avert Your Eyes
+#### Avert Your Eyes
 
 There are some links that you could click on and you do not want to
 click on them ... an extreme example, there is a horrible, terrible,
@@ -196,7 +198,7 @@ to push the boundaries in most fields, what does that imply about the
 people in that society? What are their lives like?  What do they feel?
 Where do they find happiness?
 
-### I Want To Know...
+## I Want To Know...
 
 #### I Really Wanted To Know... Don't You?
 
@@ -204,7 +206,7 @@ Where do they find happiness?
 src="https://www.youtube.com/embed/vCZ1YteCv5M" frameborder="0"
 allowfullscreen></iframe>
 
-### 100% Free Range A Postieri...
+## I'm 100% Free Range A Postieri...
 
 #### For the most part....
 
@@ -224,7 +226,7 @@ creativity. I always enjoy watching the end of Bones Brigade.  The
 last part of the interview with Rodney Mullen never ceases to blow me
 away. His understanding of philosophy is on mystic guru level.
 
-### Move On and Shine Brighter
+## Move On and Shine Brighter
 
 #### A Brief Treatise on Lampshade Warfare
 
@@ -236,7 +238,7 @@ learned out to generalize it when I asked myself: what if I took all
 that energy I applied to jamskating and figured out how to apply it
 elsewhere?
 
-And I realized that, if I could do that, no one could ever assert that1
+And I realized that, if I could do that, no one could ever assert that
 my contributions in jamskating were inconsequential. It wouldn't
 matter if, every single time I tried to start skating again, a handful
 of people interfered. If I managed to prove beyond any doubt that I
@@ -247,7 +249,7 @@ would eventually make damn sure that I was remembered. And all those
 people that would hold me at arms length wouldn't be able to hold me
 back elsewhere.
 
-### Shade This!
+## Shade This!
 
 #### [Points at Genitals]
 
