@@ -14,6 +14,9 @@ time supporting him until early 2016. The reason is because I think
 our country is facing some hard times and we need an outsider and
 fresh policies.
 
+- important to know the hows of the system
+  - and important to know the why's
+
 ###
 
 Washington seems gridlocked on so many issues. This isn't a bug; it's
@@ -149,98 +152,217 @@ But right now, we need smart people in Washington getting paid good
 money to research policy. And we need a lot of those people in the
 system. Again, for now...
 
+### Designed with Change in Mind
+
+The country's systems were designed to anticipate centuries of change!
+Centuries! The founders fully expected large changes in policy and
+public sentiment after the founding of our country. And they did all
+over the course of a hot summer in Pennsylvania. With no
+air-conditioning.
+
+The Articles of Confederation may have been a more idealistic
+government, but let's be serious here: do you really think they
+intended that to last? Not really. It was good enough. Good enough to
+give our founders about a decade to figure out what would be great
+enough to last centuries. That's what I mean. Yeh, Thomas Jefferson
+might have wanted the Articles to last. It didn't have the power or
+mechanism to tax states. That's like asking the Red Cross to run your
+government.
+
+But this is what I mean: they knew it was going to play out like
+that. And what would you do? They just fought a revolution. Things are
+tumultuous and tensions with the British are fierce. Do you think
+Britain was going to play nice with foreign policy? No. They were
+going to be subversive, I imagine. So if you have a temporary
+government declared as the official thing, it gives you time to think
+of the right policies worth fighting for and an opportunity to see how
+the other side of the Atlantic is going to play.
+
+Like Guiness, it's brilliant! And, IMO, this same foresight is evident
+in the Constitution and Bill of Rights on the scale of centuries.
+
 ### Game Design
 
-- the country's systems were designed with change in mind.
-  - the founders fully expected large changes in policy and public
-    sentiment after the founding of our country.
-  - this reminds me a bit of Blizzard's excellent game design
-    - Blizzard is renowned for balance in their games. that's what
-      made Starcraft, Diablo and Warcraft compelling.
-    - but i've noticed that it seems that they anticipated not only
-      the game balance, but the metagame balance.
-      - they seemed to understand how the strategies would change as
-        they released minor changes in patches
-      - this means they did a ridiculous amount of play-testing for
-        various settings.
-    - i'm giving Blizzard a ton of credit here, but there is a reason
-      their titles are amoung the most popular in professional gaming
-    - and the point is that it seems like they anticipated the
-      long-term evolution and *that* is why they were successful
-    - instead of nailing down a single "balanced" game configuraion,
-      they tested Starcraft strategies under different settings
-      - and understood which ones would be dominant as they made minor
-        changes.
-      - from here, they transition from one set of dominant strategies
-        to another and wait for the players to catch up.
-      - *this* keeps metagame interesting for professionals.
-      - *this* requires games to invest time and energy in keeping up
-        with trends in the gaming world
-      - that investment? it means that players will feel committed to
-        Blizzard titles.
-      - that discussion for metagame? it also drives SEO while
-        simultaneously fostering a community around their titles
-- sidenote: if you haven't figured it out yet, i am not a pathetic
-  loser. i fucking know my shit. i assess companies and their business
-  strategies all the time. i cannot help it. and it is so irritating
-  to have NEVER had the chance even once to build a product with a
-  team.
-  - the reason why i have never had the chance is because there are
-    negative people who know that I would be successful. and once I
-    got my first success, I would fucking multiply that shit. and
-    after I multiplied it, I would exponentiate it.
-  - I intuitively understand parent/subsidiary politics and business
-    strategy. I know what it means to fucking own the market. and the
-    fact that I barely have two quarters to rub together is bullshit
-    and everyone in this country knows it.
+This reminds me of Blizzard's excellent game design. Yes, Blizzard
+games. As in, Warcraft, Diablo and Starcraft. Their games are known
+for impeccable balance and for retaining communities of gamers for a
+decade or longer. And why?
 
---------
+Anticipation of strategy and metagame trends is what makes Blizzard
+games last for decades. I've noticed that it seems they anticipated
+not only the game balance, but the metagame balance and transitions.
+They seemed to understand how the strategies would change as they
+released minor changes in patches. This means that they did a
+ridiculous amount of play-testing for various settings.
 
-This can prevent quick change, which is normally a good thing. The
-power in a republic should be distributed across the generations, but
-the people that make the most critical decisions should be 
+I'm giving Blizzard a ton of credit here, but there's a reason their
+titles are amoung the most popular in professional gaming. They
+anticipated the long-term evolution and *that* is why they were
+successful. Instead of nailing down a single "balanced" game
+configuraion, they tested Starcraft strategies under different
+settings. Through play-testing, they learned which ones would be
+dominant as they made minor changes.
 
-- political outsiders would likely face some difficulty integrating with
-  existing power structures in washington
-  - that is, unless they already have a large network to leverage.
-    e.g. from business.
-  - people who have been in washington for a decade have a major
-    advantage over those who are new to it. those who've been in
-    politics for a decade would have a similar advantage.
-  - though the business sense definitely helps, along with your
-    network.
+From here, they understood how to optimally transition from one set of
+dominant strategies to another. This allowed Blizzard to slightly tilt
+the online game balance. In Starcraft, this means a few strategies
+will become favored and others will become tougher bets. That makes
+things interesting for different classes of players. Some strategies
+may see little to no gameplay, but are suddenly popular after a patch
+because slight changes make them practical.
 
-- i think that some invested businesspeople would run into
-    conflicts of interest, of which they may be more than wary
-  - however, in politics, everything is about appearances and, so,
-    you'll find things twisted against you, just because it seems
-    believable.  hopefully people are reasonable about this, but i'm
-    sure things get dirty quick.
-  - so divestment would be worthwhile because if you no longer have
-    your assets & investments, then you can't be said to be influenced
-    by them.  or at least it's a lot harder.
-  - so, i think, a general rule: politicians don't mix well with
-    active business ventures, which also means that you are better
-    off to forego opportunities while in politics.
-  - another option is to restructure your assets/investments
-    - you can't be expected to run a business while obligated to the
-      duties of federal office.  at least it would be hard to do so.
-    - so, then your best bet, if you can't divest, is to find someone
-      to manage them for you
-    - but this kind of sucks because you have to trust that person to
-      not fuck you over
-      - e.g. by putting you in the position where you can't be seen
-        having profited by visibly correcting this person's
-        mistakes. they could make a series of subtle bad management
-        decisions, which you wouldn't have had time to see, giving
-        them some advantage.  like dropping the stock price
-        temporarily, allowing them to attempt to skim ownership of the
-        company, in an opportunistic manner.
-        - an oddly specific scenario and not likely, but i can imagine
-          that there would be other scenarios that'd be hard to see.
-  - obviously, assets are less risky than active business ventures
-  - some industries are riskier than others, especially those who
-    allocate extensive resources towards lobbying
+Blizzard understood how to optimally balance Starcraft for games from
+two to eight players with three races. That's impressive. Not only
+that, but they seem to have play-tested so well they understood the
+optimal transition in patches. This means they could phase dominant
+strategies in and out.
+
+This has a ton of difficult-to-predict but valuable effects that
+enabled Blizzard to retain gamer loyalty, even over shiny new products
+from competitors. It's part of a corporate strategy to grow a loyal
+community around their games. Blizzard can tweak the game and drive
+trends in pro play. *This* keeps metagame interesting for
+professionals. *That* requires gamers to invest time and energy in
+keeping up with trends in the gaming world. They have to discuss this
+stuff in forums.
+
+That investment? It means that players will feel committed to blizzard
+titles. That discussion for metagame? It also drives SEO while
+simultaneously fostering a community around their titles. If the
+settings were fairly constant and gameplay strategies were stable, the
+game would age more quickly and the adaptation would require
+discussion.
+
+Sidenote: yes, i've made less than 30% of the aggregate income that I
+should have over the past few years, mostly to pursue startup
+ideas. But if you haven't figured it out yet, just because I haven't
+had spectacular success doesn't mean I'm an idiot. The crap I've dealt
+with from specific people I worked with (less than five people) has
+been a serious setback, for which I have no one to hold
+accountable.
+
+But that doesn't mean I'm a failure. If you associate success with
+riches -- or with the appearance of money! -- you should reassess the
+way you look at people. I've been through a lot, but I fucking know my
+shit. I assess companies and their business strategies all the time. I
+cannot help it. And it is so irritating to have NEVER had the chance
+even once to build a product with a team. Not even once! It's like
+it's against the law to cofound a company with me. You'd have to be a
+moron to pass up an opportunity to found an music app like
+[Splice](https://splice.com)!
+
+One reason why I have never had the chance is because I've never had
+an opportunity. I can't say I've failed even though I spent almost
+five years of my life on this! Because I've never really tried! And
+there are negative people who know that I would be successful. The
+people around me are not stupid. They know that once I got my first
+success, I would fucking multiply that shit. And after I multiplied
+it, I would exponentiate it.
+
+I intuitively understand parent/subsidiary politics and business
+strategy. I know what it means to own competitors to fucking own an
+market. And the fact that I barely have two quarters to rub together
+is bullshit and everyone in this country knows it. I couldn't buy
+coffee the other day because I only had five quarters. I didn't have
+seven quarters...
+
+Can I have some first world problems?! Or do I live in Mali? I made
+$1,717 in 2015. Yes. Yes, that number has FOUR fucking digits ... So
+yes, I feel like I deserve to bitch about it. After May, I worked hard
+to not make any money in 2015, just so I could put the lowest number
+possible on my tax. JUST SO I COULD BITCH ABOUT IT. So I will.
+
+And how is it that I can help so many other people, yet have nothing
+myself? What the fuck is that, anyways? Moving on...
+
+-----
+
+So anyways, preventing rapid change is normally a good thing, though
+not with the upcoming tectonic cultural shift. The power in a republic
+should be distributed across the generations, but the people that make
+the most critical decisions should be the more senior
+generations. This is the subject for another post, but there are just
+some things that you won't understand until you have experienced
+them. You won't get it.
+
+All of this got me thinking about politics in Washington. Yes, Trump
+is an outsider. He's a very successful businessman. The guy knows how
+to strategize, leverage his network and orchestrate people to build
+success. And there's no doubt he's connected with a large network of
+people, but Washington DC has a politically oriented network. While
+Trump has strong connections in DC, it's not the same thing as having
+worked in DC for decades.
+
+Political outsiders would likely face some difficulty integrating with
+existing power structures in DC. Some heavily invested businesspeople
+would run into conflicts of interest. They know that. You don't just
+wing it in Washington.
+
+However, politics is about appearances. You'll find situations twisted
+against you, just because it seems believable. It's not a good idea to
+do something just because you can. Hopefully people are reasonable
+about this, but it gets dirty quick. If he wins, Trump needs to assert
+leadership early because of the political climate. If it were me, I'd
+be looking for people to use as examples to assert leadership so other
+people get the picture. I'd make it known that I want examples. And
+people are going to want to test out those waters. Go ahead.
+
+To minimize surface area for people to attack, some divestment would
+be worthwhile because if you no longer have your assets & investments,
+then you can't be said to be influenced by them. At least it's not so
+easy.
+
+As much as people like to accuse politicians of scheming to get rich,
+career politicians will stay away from large investments, especially
+conflicts of interest. General rule: politicians don't mix well with
+active business ventures, which also means that you are better off to
+forego opportunities while in politics. If you're a career politician,
+more valuable to forego large investments. Investments in some
+industries are riskier than others, like those that allocate extensive
+resources towards lobbying.
+
+Besides divestment, another option is to restructure your assets and
+investments. You can't be expected to run a business while obligated
+to the duties of federal office. It'd be difficult to say the
+least. If you can't divest, then your best bet, if you can't divest,
+is to find someone to manage these investments for you. This sucks
+because you have to trust that person to not fuck you over.
+
+E.G. If that person puts you in the position where you can't be seen
+having profited by visibly correcting this person's mistakes. they
+could make a series of subtly bad management decisions, which you
+wouldn't have had time to see, giving them some advantage. They could
+mismanage, dropping the stock price temporarily, allowing them to
+attempt to skim ownership of the company, in an opportunistic
+manner. Anyone who would mismanage for an advantage? Send 'em to the
+moon. An oddly specific scenario and not likely, but I can imagine
+that there would be other scenarios that'd be hard to see. More to the
+point, any problems that arise would distract from your duties. But,
+if you have significant assets, then you probably already have people
+you trust who help you run the show.
+
+In general, assets like real estate are less risky than active
+business ventures. Assets aren't free: they require taxes and
+upkeep. 
+
+### 
+
+For me, money is useful as it permits me the influence to exert for
+change. That's it. That's the only reason i've wanted money. That's
+the whole fucking reason I was chasing it all this time! I saw
+problems with the world. I wanted to fix them and I felt
+powerless. Around 2005, I decided I'd have to get money. Around 2007,
+I discovered apps were a possibility, but I was distracted with
+skating and petty drama. But I knew that if I wanted to change things,
+I needed money and a lot of it. Around 2011, I discovered that I
+didn't want anything else, but the ability to attain the influence to
+change things. I became single-minded and decided nothing else was
+worth it.
+
+
+
+###
+
 
 - congress (435 reps and 100 senators) as an example of recomposing a set
   of people into various networks, based on some meeting some
@@ -437,8 +559,6 @@ the people that make the most critical decisions should be
 
 
   - committee agenda & time
-
-
 
 - understanding how to estimate, prioritize and schedule your
   available resources
