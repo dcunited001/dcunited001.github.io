@@ -10,12 +10,20 @@ excerpt: ""
 
 Just to clarify right at the start: I support Trump for president. I
 think the guy has some great ideas, though admittedly I had a hard
-time supporting him until early 2016. The reason is because I think
-our country is facing some hard times and we need an outsider and
-fresh policies.
+time supporting him until early 2016. The reason I support him is
+because we're embarking on a transitionary period and need fresh
+policies. (restructure this)
 
 - important to know the hows of the system
   - and important to know the why's
+  - need to have an appreciation of the why and the tradition behind
+    these things
+    - if for nothing else, you have to understand it to change it.
+
+## Table of Contents
+
+- include links to each section
+- 
 
 ###
 
@@ -181,7 +189,7 @@ the other side of the Atlantic is going to play.
 Like Guiness, it's brilliant! And, IMO, this same foresight is evident
 in the Constitution and Bill of Rights on the scale of centuries.
 
-### Game Design
+### Game Design (Blizzard)
 
 This reminds me of Blizzard's excellent game design. Yes, Blizzard
 games. As in, Warcraft, Diablo and Starcraft. Their games are known
@@ -233,6 +241,10 @@ settings were fairly constant and gameplay strategies were stable, the
 game would age more quickly and the adaptation would require
 discussion.
 
+### Sidenote on personal success
+
+- click [here]() if you'd like to skip. lulz
+
 Sidenote: yes, i've made less than 30% of the aggregate income that I
 should have over the past few years, mostly to pursue startup
 ideas. But if you haven't figured it out yet, just because I haven't
@@ -242,14 +254,15 @@ been a serious setback, for which I have no one to hold
 accountable.
 
 But that doesn't mean I'm a failure. If you associate success with
-riches -- or with the appearance of money! -- you should reassess the
-way you look at people. I've been through a lot, but I fucking know my
-shit. I assess companies and their business strategies all the time. I
-cannot help it. And it is so irritating to have NEVER had the chance
-even once to build a product with a team. Not even once! It's like
-it's against the law to cofound a company with me. You'd have to be a
-moron to pass up an opportunity to found an music app like
-[Splice](https://splice.com)!
+riches -- or with the appearance of money! -- then you should reassess
+the way you look at people. Being rich is not the same as being
+wealthy. I've been through a lot, but I know my shit. I assess
+businesses and their strategies all the time. I cannot help it. I read
+about founders and their lives. And it is so irritating to have NEVER
+had the chance even once to build a product with a team. Not even
+once! It's like it's against the law to cofound a company with
+me. You'd have to be a moron to pass up an opportunity to found an
+music app like [Splice](https://splice.com)!
 
 One reason why I have never had the chance is because I've never had
 an opportunity. I can't say I've failed even though I spent almost
@@ -259,12 +272,13 @@ people around me are not stupid. They know that once I got my first
 success, I would fucking multiply that shit. And after I multiplied
 it, I would exponentiate it.
 
-I intuitively understand parent/subsidiary politics and business
-strategy. I know what it means to own competitors to fucking own an
-market. And the fact that I barely have two quarters to rub together
-is bullshit and everyone in this country knows it. I couldn't buy
-coffee the other day because I only had five quarters. I didn't have
-seven quarters...
+I intuitively understand politics and business strategy for parent
+companies and their subsidiaries, though I'm sure I have blind
+spots. I know what it means to own competitors to dominate market
+share. The fact that I barely have two quarters to rub together is
+bullshit and everyone in this country knows it. I couldn't buy coffee
+the other day because I only had five quarters. I didn't have seven
+quarters... And I didn't feel like walking home.
 
 Can I have some first world problems?! Or do I live in Mali? I made
 $1,717 in 2015. Yes. Yes, that number has FOUR fucking digits ... So
@@ -275,7 +289,7 @@ possible on my tax. JUST SO I COULD BITCH ABOUT IT. So I will.
 And how is it that I can help so many other people, yet have nothing
 myself? What the fuck is that, anyways? Moving on...
 
------
+### Distribution of power across generations
 
 So anyways, preventing rapid change is normally a good thing, though
 not with the upcoming tectonic cultural shift. The power in a republic
@@ -285,6 +299,8 @@ generations. This is the subject for another post, but there are just
 some things that you won't understand until you have experienced
 them. You won't get it.
 
+### Washington is tough for an outsider
+
 All of this got me thinking about politics in Washington. Yes, Trump
 is an outsider. He's a very successful businessman. The guy knows how
 to strategize, leverage his network and orchestrate people to build
@@ -293,10 +309,14 @@ people, but Washington DC has a politically oriented network. While
 Trump has strong connections in DC, it's not the same thing as having
 worked in DC for decades.
 
+#### Integrating with Power Structures in Washington
+
 Political outsiders would likely face some difficulty integrating with
 existing power structures in DC. Some heavily invested businesspeople
 would run into conflicts of interest. They know that. You don't just
 wing it in Washington.
+
+#### Politics is about Appearances
 
 However, politics is about appearances. You'll find situations twisted
 against you, just because it seems believable. It's not a good idea to
@@ -306,6 +326,8 @@ leadership early because of the political climate. If it were me, I'd
 be looking for people to use as examples to assert leadership so other
 people get the picture. I'd make it known that I want examples. And
 people are going to want to test out those waters. Go ahead.
+
+#### Minimizing Conflicts of Interest
 
 To minimize surface area for people to attack, some divestment would
 be worthwhile because if you no longer have your assets & investments,
@@ -345,7 +367,7 @@ In general, assets like real estate are less risky than active
 business ventures. Assets aren't free: they require taxes and
 upkeep.
 
-### (transition between politics)
+### Personal Political Transition
 
 For me, money is useful as it permits me the influence to exert for
 change. That's it. That's the only reason i've wanted money. That's
@@ -367,6 +389,15 @@ still be liberal. I voted for Nader in 2004. That's how liberal I was.
 I thought Chavez was a great guy. He paid the heating bill for people
 in the Bronx! A leader from Venezuela gave to random people in New
 York City. Out of the goodness of his heart! That's how liberal I was.
+
+- describe problems i was/am passionate about?
+
+- many of our problems are symptoms of deeper problems
+  - many of these are cultural
+    - to improve these, we need to focus on education
+    - but it's not going to be overnight
+
+- mention that I know what it feels like to struggle
 
 I wisened up after 2007 and became more conservative, but I was still
 passionate about many of the same problems as the left. Actually, I
@@ -400,66 +431,89 @@ never been as empowered as you are now! In history!*
 
 ## Congressional Networks
 
-- congress (435 reps and 100 senators) as an example of recomposing a set
-  of people into various networks, based on some meeting some
-  functional objective.... better way to word this?
-  - you can divide the senate/house into leadership, administrators &
-    senators/reps.
-    - you can further organize this view via seniority, political
-      influence or on some other dimension
-  - you can organize each house by committee and tie in relationships
-    to committee staff members
-  - construct a network with each congressman's staff
-    - and understand how each office coordinates with others
-    - there has to be some kind of differential, where some offices
-      and some faculty members exhibit more influence
-      - both toward specific relationships and in general
-    - mapping this out in your head is crucial
+Between the House and the Senate, there are 435 Representatives and
+100 Senators, but this isn't the only way to group these people.  As I
+tend to do, I found a mathematic analogy. Higher level math is useful
+because it has so many parallels with real life. In fact, to master
+real life, you have to learn these tools, whether you realize it or
+not. And this is a great example of learning to view your personal
+networks from several perspectives.
+
+Members of congressmen and faculty on Capitol Hill can be recomposed
+into various views, including by officially defined groups like
+committees and less explicit affiliations. The house and senate can be
+divided into leadership, administrators and general congressmen. You
+can further organize this view via seniority, political influence or
+on some other dimension. These groups can be reorganized into groups
+that satisfy some functional objective. E.G. all senators who have
+served 12+ years or all representatives who've served 6+
+years. There's a hierarchy of seniority based on number of terms
+served and it matters when considering who's going to assume
+leadership or committee roles.
+
+You can organize each house by committee and tie in relationships to
+committee staff members. You can construct a network with each
+congressman's staff to identify strong connections between
+offices. This would help one understand how each office coordinates
+with others. And there has to be some kind of differential, where some
+offices and faculty members exhibit more influence. Understanding who
+has influence, when they have it and why is critical. Perhaps several
+senators coordinate to handle specific planks of the party's platform,
+so working with their staff might yield more progress to that end.
+
+- working with politicians
+  - they all understand the games that are played
+  - sometimes things just don't work out the way you want
 
 ## Navigating those networks
 
-- understanding how to recognize/navigate/assess/prioritize these
-  networks, structures and connections enables you to work smarter,
-  get more done and rise up through the ranks.
-  - as someone who's struggled alot in social situations, it's
-    incredibly frustrating to not be able to see how these things work
-    - if you don't it's very easy to expend a ton of time/energy in
-      the wrong place, basically spinning your wheels.
-  - that said, it's one thing to notice how these things work and
-    another to be capable of pulling off a coordinated strategy
-    leveraging players from your party and reaching across the aisle
-  - you have to be keenly aware of how other people perceive the
-    system, both those in your party and the opposing party
+Understanding how to recognize, navigate, assess and prioritize these
+networks, structures and connections enables you to work smarter, get
+more done and rise up through the ranks. As someone who's struggled
+alot in social situations, it's incredibly frustrating to not
+intuitively understand how these things work. If you don't have a
+clear understanding of these networks or if you don't have good
+information, it's very easy to expend a ton of time/energy in the
+wrong place. You're basically spinning your wheels.
+
+That said, it's one thing to notice how these things work and another
+to be capable of pulling off a coordinated strategy leveraging players
+from your party and reaching across the aisle. You have to be keenly
+aware of how other people perceive the system. That includes those in
+your party and in opposing parties.
 
 ## Anticipating Changes in Needs
 
-- understanding how people's needs are going to change from today to
-  tomorrow to next year. and it introduces yet another dimension of
-  complexity to master.
-  - if you know that someone wants something very badly today, but
-    probably won't want to expend the political capital on it in a
-    month, then it may or may not be wise to compromise with that
-    person based on their current needs
-  - similarly, if you need something badly today, you might not need
-    it in a month or a year.  or it might just become less relevant
-    than it seems today.  so bargaining for it might be wise, to
-    ensure that people know you're working towards their
-    interests. yet, if you know that the factors determining that need
-    will change soon, then it could be a waste of energy pursuing
-    that.
-  - this is crucial because predicting and understanding this means
-    you aren't slogged down by unnecessary battles and that your
-    effort today is worth at least as much as it is tomorrow.
-    - and a corollary is that by introducing issues you can force the
-      opposing party to divide their energy, or at least draw it
-      towards a more limited range of their platform ... which can
-      help you predict how they are priortizing their issues.
-    - these techniques really can't be understated
-  - and everyone wants to look like they're taking part in slaying
-    whatever dragon is rearing it's head at the moment. but is it
-    really worth the energy?
+This is one of the most powerful tools at your disposal: understanding
+how people's needs are going to change from today to tomorrow and from
+next year to next decade. This introduces yet another dimension of
+complexity to master.
 
-## Members of the Political Class are Power Brokers
+If you know that someone wants something very badly today, but
+probably won't want to expend the political capital on it in a month,
+then it may or may not be wise to compromise with that person based on
+their current needs. Or maybe so. Depends on whether they'd want a
+refund, so it depends on how you sell it.
+
+Similarly, if you need something badly today, you might not need it in
+a month or a year. Or it might just become less relevant than it seems
+today. So bargaining for it might be wise, to ensure that people know
+you're working towards their interests. Yet, if you know that the
+factors determining that need will change soon, then it could be a
+waste of energy pursuing that.
+
+Predicting and understanding is crucial. It means you aren't slogged
+down by unnecessary battles and that your effort today is worth at
+least as much as it is tomorrow. A corollary to this is that by
+introducing issues you can force the opposing party to divide their
+energy, or at least draw it towards a more limited range of their
+platform ... which can help you predict how they are priortizing their
+issues. These techniques really can't be understated.
+
+Everyone wants to look like they're taking part in slaying whatever
+dragon is rearing it's head that day. Is it really worth the energy?
+
+## Politicians are Power Brokers
 
 - congressman and faculty operate as power brokers
   - this entails minimizing access to information and power
