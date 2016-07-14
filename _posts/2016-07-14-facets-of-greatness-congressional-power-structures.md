@@ -8,27 +8,50 @@ author:
 excerpt: ""
 ---
 
+All this talk of Trump as an outsider to Washington got me thinking
+about what that would be like to be all but green to Washington.
 
+## Washington's Tough for Outsiders
 
+And yes, Trump is an outsider. He's a very successful businessman. The
+guy knows how to strategize, leverage his network and orchestrate
+people to build success. And there's no doubt he's connected with a
+large network of people, but Washington DC has a politically oriented
+network. While Trump has strong connections in DC, it's not the same
+thing as having worked in DC for decades.
 
-### Washington is tough for an outsider
+#### &#x2605; How does a candidate best spend his time until the election?
 
-All of this got me thinking about politics in Washington. Yes, Trump
-is an outsider. He's a very successful businessman. The guy knows how
-to strategize, leverage his network and orchestrate people to build
-success. And there's no doubt he's connected with a large network of
-people, but Washington DC has a politically oriented network. While
-Trump has strong connections in DC, it's not the same thing as having
-worked in DC for decades.
+#### &#x2605; How are public appearances prioritized?
 
-#### Integrating with Power Structures in Washington
+#### &#x2605; How do you gear up the infrastructure for an effective campaign?
+
+#### &#x2605; How do you make those decisions to fill cabinet positions? VP?
+
+#### &#x2605; How should you coordinate with campaigns for congress to maximize synergy?
+
+#### &#x2605; How do you design/extend your social network to interface with leadership in Congress?
+
+#### &#x2605; How do you interface with the opposition in Congress and elsewhere?
+
+#### &#x2605; What would you do to set the tone when you set foot in office and why?
+
+#### &#x2605; How do you prioritize your agenda early on?
+
+#### &#x2605; What should be done to prepare?
+
+These are all challenging questions, but especially so when you need
+to make new connections. However, a tabula rasa isn't so bad. You get
+a fresh start, if you play your cards right.
+
+## Integrating with the Washington Machine
 
 Political outsiders would likely face some difficulty integrating with
 existing power structures in DC. Some heavily invested businesspeople
-would run into conflicts of interest. They know that. You don't just
+might run into conflicts of interest. They know that. You don't just
 wing it in Washington.
 
-#### Politics is about Appearances
+#### Anticipate How Appearances will be Contorted
 
 However, politics is about appearances. You'll find situations twisted
 against you, just because it seems believable. It's not a good idea to
@@ -39,21 +62,54 @@ be looking for people to use as examples to assert leadership so other
 people get the picture. I'd make it known that I want examples. And
 people are going to want to test out those waters. Go ahead.
 
-#### Minimizing Conflicts of Interest
+#### Minimize Surface Area for Attack
 
 To minimize surface area for people to attack, some divestment would
 be worthwhile because if you no longer have your assets & investments,
 then you can't be said to be influenced by them. At least it's not so
-easy.
+easy. And by the way, I'm sure Trump has considered this stuff.
+
+#### You Don't Have Time for That Side-Gig
+
+General rule: politicians don't mix well with active business
+ventures, which also means that you are better off to forego
+opportunities while in politics. If you're a career politician, more
+valuable to forego large investments.
+
+#### Investing in Specific Industries Invites Problems
 
 As much as people like to accuse politicians of scheming to get rich,
 career politicians will stay away from large investments, especially
-conflicts of interest. General rule: politicians don't mix well with
-active business ventures, which also means that you are better off to
-forego opportunities while in politics. If you're a career politician,
-more valuable to forego large investments. Investments in some
-industries are riskier than others, like those that allocate extensive
-resources towards lobbying.
+conflicts of interest. It opens you up for attacks. Investments in
+some industries are riskier than others, like those which allocate
+extensive resources towards lobbying.
+
+#### Line Up Your Incentives
+
+It really depends on the industry in which you are invested and the
+role you play in the business. If you have significant assets in some
+industries, this could be an advantage if you find the incentives that
+motivate your actions line up with the people you support. This is a
+challenge if you're heavily invested in some faceless megacorp. That's
+just not relatable.
+
+However, if you are heavily invested in real estate and especially
+commercial real estate, you'll find that your incentives line up with
+much of your support. While Trump has a much, much larger asset
+portfolio than the average joe, he has a lot of support from the
+middle class and small business owners. These people care about the
+value of real estate just as much as Trump.
+
+## Line Up Your Incentives: *WIN EVERY TIME!*
+
+> That's the way to win every time: form groups and coalitions with
+> people who share your incentives. You need to understand how to
+> identify what drives the behavior of people and groups. Find people
+> who share your motivations and goals. Or find a way to adapt your
+> incentives and goals to better match that of other groups. *You will
+> win every time!*
+
+#### Restructure Assets
 
 Besides divestment, another option is to restructure your assets and
 investments. You can't be expected to run a business while obligated
@@ -490,3 +546,22 @@ In Congress, there are resouces like
     following specific events
     - e.g. slightly higher approval ratings after the standup at the
       white house press conference
+
+
+### Identifying a Vice President
+
+The executive branch needs to be able to set the tone for legislative
+sessions. The Vice President presides over the Senate. Past VP's have
+varied with regard to how much influence they exert on the Senate's
+agenda and operations. Since that person is involved with the
+legislature, it would be beneficial to choose someone who has
+preexisting connections with congressmen and their staffmembers.
+
+That's not a determining factor for such a decision and would be
+easily be outweighed. It should be easy to identify someone in your
+staff who has many of the same connections. When you're making a
+decision like that, you want to play to the party. It's an early
+opportunity to work work with the rest of the party to find someone
+they feel is deserving and is the right person in that regard.
+Chemistry is also important. Finding the right VP would be a bit
+tougher for a VP.
