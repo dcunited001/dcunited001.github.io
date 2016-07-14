@@ -365,69 +365,89 @@ If everyone is bound to one rigid platform or another, it's to easy to
 stymie progress. The point to adhering to group dynamics is to
 accomplish shared goals through compromise.
 
-#### A "Dark Side"
+#### The Dark Side of Politics
 
 There's a "dark side" that can emerge from these rules, obviously.
-There always is. I'm not going to delve too far into those aspects.
+There always is. I'm not going to delve too far into those
+aspects... I'm basically saying that politicians have a tendency to be
+politicians.
+
 There's the potential for a politician to tailor his message to a
 specific audience, where they speak out of both sides of their mouth,
-so to speak. Or they can convince or restrain you from communicating
-with other people.
+so to speak. Or they can convince you to keep things to yourself or
+restrain you from communicating with other people.
 
 #### Watch How You Sell What You Sell
 
 However, you have to watch how you sell what you sell. You want the
 people you compromise with to feel like what they wanted today, next
 week and next year. If people are satisfied at first and later feel
-shortchanged, that will build up. This is especially true with
-politics when you're trying to establish a compromise with resources
-which are hard to pin a dollar amount to. Actually, you can't pin a
-dollar amount to most of these: it's unethical. And so there's no
-medium of exchange. Misunderstandings like these are eased and
-ameliorated with communication and empathy.
+shortchanged, that will build up.
+
+This is especially true with politics when you're trying to establish
+a compromise with resources which are hard to pin a dollar amount
+to. Actually, you can't pin a dollar amount to most of these: it's
+unethical. And so there's no medium of exchange. Misunderstandings
+like these are eased and ameliorated with communication and empathy.
 
 <a name="#bartering-with-political-resources" />
 
 # &#x265E; [Bartering with Political Resources](#bartering-with-political-resources)
 
-In Congress, there are resouces like
+In Congress, there are resouces that people can exchange to
+compromise. Members of the same party might typically exchange some
+types of the resources. Other types may be more common to be exchanged
+by opposing factions.
 
-- the nature of "resources" in congress
-  - these resources are like a kind of currency ...
-    - though they are more like commodities in that the value of each
-      type can't be equated to others.
-      - and two instances of one type will vary wildly in perceived
-        value.
-      - and an instance of a resource varies in value to each party
-        and group that is involved
+These resources are like commodities in that the value of each type
+can't be easily equated to others. Their value towards establishing a
+compromise is heavily dependent on who's asking and why. Two instances
+of one type may vary wildly in perceived value. An instance may vary
+in value in relation to each party and group that is involved.
 
-#### Value Derives from Appearances
+#### Value Derives from Appearances and Circumstance
 
-- the value is derived from appearances
-  - it is not a personal subjective value.  that is, it doesn't
-    matter what the thing is worth to you personally.  what matters
-    is what it's worth to other people, although this is true for
-    most everything.
-  - the value of these resources can't really be discretized .. or
-    have a numeric & comparable value attached to them. and they
-    shouldn't really. that's getting uncomfortably close to ethical
-    issues.
+Their value derives from appearances. It's not a personal subjective
+value. That is, it doesn't matter what the thing is worth to you
+personally. What matters is what it's worth to other people, although
+this is true for most everything.
+
+The value of these resources isn't really comparable. They can't
+really have numeric and comparable value attached to them and they
+shouldn't. Making everything too official would push us closer to
+ethical issues. It's really tough to understand where that line is
+drawn.
+
+Some good rules of thumb might be: can you tell your fellow
+congressmen about it? Would you tell your constituents? Would you tell
+members of the opposing party?
 
 #### Ethics
 
-- i don't know the specific rules behind ethics for each of these
-    resource types or in general. i know that it is very much
-    dependent on the manner in which you make an offer
-    - or the way you market it to the other party.
-    - i do know that anything quid pro quo and especially that which
-      is verbally acknowledged as such ...
-      - i guess it just doesn't sound great: "i give you X for Y"
-      - although it has to work that way sometimes, I'm sure it could
-        get you into trouble in some instances or with some resource
-        types.
-    - honestly, the thought of taking stock of these "resources" as a
-      commodity is a bit upsetting to me. but they are tools to push
-      for the change you want to see.
+Again, I'm not sure where the line is drawn on ethics. Quid pro quo
+exchange of services for money is a big no-no. Quid pro quo in general
+is not such a great idea, especially if it's something that is
+expected to be repeated. That sounds more like a product than a
+compromise. There are technicalities, I'm sure. I don't know. I'd like
+to know just because I'm curious how these kind of cases are decided.
+
+The manner in which someone approaches you or makes an offer makes a
+big difference. So does the method you use to market it to the other
+party. When you enter an official verbal or contractual agreement,
+this lends a bit of legal weight to the exchange. It just doesn't
+sound great when a congressman says to a lobbyist: "I give you X for
+Y."
+
+And so the groups that are compromising also make a difference. If one
+congressman made the a similar offer to another congressman, that
+doesn't sound so bad. Although some agreements need to be made on a
+quid pro quo basis, but some situations, groups or resource types
+could spell trouble.
+
+Honestly, the thought of taking stock of these "resources" as a
+commodity is a bit upsetting to me. They are tools to push for the
+change you want to see, though. Gauging your inventory to understand
+what you have at your disposal to trade up and gain ground.
 
 #### Bartering with Political Resources
 
@@ -473,6 +493,56 @@ towards party goals.
 
 #### Limited Resources
 
+Some resources are fixed in one way or another, particularly with
+respect to leadership roles. There is only one Speaker of the House &
+Minority Whip; one Majority Leader & one Minority Leader. And you
+can't exactly eagerly expect this to fall in your lap. First of all,
+there are going to be dozens of congressmen ahead of you. Secondly, if
+you're salivating at the thought of a leadership role, that could lead
+to some negative intra-party politics.
+
+Looking at the congressmen on or just above your seniority, and doing
+a bit of political calculus, you could imagine that some of you might
+occupy or compete for those roles someday. If you're both good
+politicians, then you'll both know it too, even if it's 5 or 10 years
+out. Intra-party competition is a great, in moderation.
+
+Gauging upcoming interchange in committee leadership roles or the
+opposing party is far more useful political calculus, with a similar 5
+to 10 year timescale. You get to determine people on the opposing team
+that you should remain ingratiated to ... lulz. Don't piss off those
+guys because in a few years, you're going to need to get some
+legislation through a committee and you want that wheel to stay
+greased. Ideally, you wouldn't worry about such things because ...
+
+![Zima Guy from SNL]
+
+There's a limited amount of time each year for the House & Senate
+floor agendas. The same applies to committees, which sometimes handle
+only one bill per issue per session. They might only try to tackle
+medical marijuana once per year. So, if the House Criminal Justice
+Committee votes that down, that might be it. Interestingly, the House
+Criminal Justice Committee is chaired by Bob Goodlatte, Roanoke's
+House Rep. I knew he was on it, but I didn't realize he was the
+chair. That's the committee that discusses various marijuana reforms.
+
+In the nineties, it was really tough to get drug reform heard in any
+legislative forum, state or federal. The level of debate has increased
+considerably since then, but progress has been slow on this issue in
+particular. It's just really hard to get representatives to get on
+board with drug reform. The people making decisions in state and
+federal legislatures are upstanding citizens. What upstanding citizen
+is going to champion that cause? LOL. You're basically saying, "You
+know what my community needs? More drugs!" Even if they support drug
+reform, it's expensive in terms of political capital. Then, if it
+doesn't make progress, you just wasted those resources and political
+capital, which may have been better spent elsewhere. So it's been
+difficult to make progress on that front.
+
+The committee system tends to stall reforms a bit, partly to encourage
+healthy debate. It's by design & I'll discuss that in my next article
+on political theory. 
+
   - some resources are fixed in some way.
     - there is only one Speaker of the House and one Minority Whip
       - one Majority/Minority leader
@@ -491,17 +561,12 @@ towards party goals.
             government that is quite frustrating, but there are
             reasons for enabling that control.
 
-#### Bartering with Political Resources
-
-  - bartering for this or anything else requires that you be creative
-    & flexible in finding ways to offer value to others
-    - rookies on capital hill are going to have to work harder to
-      obtain some resources.
-  - amendments and bills - these can be used for compromises
-
 <a name="political-resources-in-congress" />
 
 # &#x265E; [Political Resources in Congress](#political-resources-in-congress)
+
+#### Time
+
 
 #### Floor Time and Agenda
 
@@ -640,3 +705,16 @@ tie things up
 - mention the next article
   - which describes issues in the system
   - explains why the system stagnates
+
+
+### misc things to learn
+
+- political factions in europe
+  - overview of rules used
+  - names of legislative bodies and leaders
+  - recognize pictures of buildings, ppl &  whatnot
+  - particularly UK, Germany, France, Spain ... etc
+- military ranking systems for American army, marines, navy, air force
+  - for (some) other countries
+  - just interesting to know (briefly examined)
+- names/specs of US/Russian/Chinese military equipment
