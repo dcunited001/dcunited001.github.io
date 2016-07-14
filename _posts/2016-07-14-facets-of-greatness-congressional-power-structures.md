@@ -429,6 +429,48 @@ In Congress, there are resouces like
       commodity is a bit upsetting to me. but they are tools to push
       for the change you want to see.
 
+#### Bartering with Political Resources
+
+There's really no well-defined value for many of these resources, so
+it's like a barter system for various commodities.
+
+Or so I assume. I only watch C-SPAN when it's exciting. Usually for
+the season premieres. Oh and their epic miniseries. You know, like the
+new Marvel crossover where congressmen are secretly superheros who
+fight crime, but they can't because they're stuck in a committee
+hearing about what to do with all the remaining payphones.
+
+If they did that, there wouldn't be any more payphones to use to
+change into their alter-ego super hero costumes, so they can skip
+committee hearings to fly out to the Fortress of Solitude and kick it
+in Superman's sweet new crib ... I mean, fight crime. They couldn't
+fight crime. So nope. They're stuck in a committee deadlock. They
+diverted donations and propped up a SuperPAC to save all the
+payphones.
+
+Jesus, what would you do? You already know if you show up to that
+committee hearing once, the anti-payphone cabal is going to force a
+vote ... or you could kick it with Superman in freaking
+Antartica.
+
+Anyways, bartering for this or anything else requires that you be
+creative and flexible in finding ways to offer value to others. Like
+the way you snuck that amendment onto the bill to send the Queen a
+birthday card. You know, the amendment where your UK compatriots
+agreed to send over those giant Tardis phone booths in exchange for an
+official apology on Austin Powers. Those things are roomy! Plenty of
+space to change real quick to fly out to the Fortress for beerpong
+with Superman. The anti-payphone cabal? They're not gonna see it
+coming. Suckers. They're negotiating for nothing! Fuck 'em. Plus those
+Tardis things have time travel! You and superman can finally wrestle
+some velociraptors and screw with cavemen. It's gonnnna be sooo
+awesome!
+
+So yeh. Totally listen to me. I have tons of experience
+here. Seriously though, rookies on Capital Hill need to work harder to
+obtain resources, which to some degree, they're expected to contribute
+towards party goals.
+
 #### Limited Resources
 
   - some resources are fixed in some way.
