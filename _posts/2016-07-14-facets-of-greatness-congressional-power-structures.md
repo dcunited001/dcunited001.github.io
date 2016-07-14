@@ -69,12 +69,50 @@ be worthwhile because if you no longer have your assets & investments,
 then you can't be said to be influenced by them. At least it's not so
 easy. And by the way, I'm sure Trump has considered this stuff.
 
+#### Restructure or Divest
+
+As for your portfolio, you could restructure the assets & investments
+or divest some of them entirely. If you divest and transfer ownership,
+you get the liquidity and you don't have to be concerned with upkeep.
+
 #### You Don't Have Time for That Side-Gig
 
 General rule: politicians don't mix well with active business
 ventures, which also means that you are better off to forego
 opportunities while in politics. If you're a career politician, more
-valuable to forego large investments.
+valuable to forego large investments. It might be easier to cash in
+your chips.
+
+You really can't be expected to run a business while obligated to the
+duties of federal office. It'd be difficult to say the least. If
+divestment and restructuring don't work, then your best bet is to find
+someone you trust manage these investments for you. This could be
+risky, but that can be minimized through strategery and trust.
+
+An edge case, as an example of risk: if that person puts you in the
+position where you can't be seen having profited by visibly correcting
+this person's mistakes. they could make a series of subtly bad
+management decisions, which you wouldn't have had time to see, giving
+them some advantage. They could mismanage, dropping the stock price
+temporarily, allowing them to attempt to skim ownership of the
+company, in an opportunistic manner. Anyone who would mismanage for an
+advantage? *Send 'em to the moon.*
+
+In fact, that's a great test case to determine if you can trust
+someone, period. Find a way to put the cheese right in front of
+them. See what they do. You have to be able to *know* you can trust
+someone or *know* that you've got the chips stacked so you're not
+depending on trust to mitigate risk.
+
+If you haven't figured this out, I'm a very, very paranoid
+person. *Contents fragile once damaged.*
+
+This is an oddly specific scenario and not likely, but I can imagine
+that there would be other scenarios, difficult to foresee until you
+get bit once or twice. More to the point, any problems that arise
+would distract from your duties as a politician. But, if you have
+significant assets, then you probably already have people you trust
+who help you run the show.
 
 #### Investing in Specific Industries Invites Problems
 
@@ -100,54 +138,55 @@ portfolio than the average joe, he has a lot of support from the
 middle class and small business owners. These people care about the
 value of real estate just as much as Trump.
 
-## Line Up Your Incentives: *WIN EVERY TIME!*
+#### Cooperative Game Theory
 
-> That's the way to win every time: form groups and coalitions with
-> people who share your incentives. You need to understand how to
-> identify what drives the behavior of people and groups. Find people
-> who share your motivations and goals. Or find a way to adapt your
-> incentives and goals to better match that of other groups. *You will
-> win every time!*
+> **Line up your incentives *AND WIN EVERY TIME!*:** form groups and
+> coalitions with people who share your incentives. You need to
+> understand how to identify what drives the behavior of people and
+> groups. Find people who share your motivations and goals. Or find a
+> way to adapt your incentives and goals to better match that of other
+> groups. *You will win every time!*
 
-#### Restructure Assets
+## My Political Transition From 2005 to 2015
 
-Besides divestment, another option is to restructure your assets and
-investments. You can't be expected to run a business while obligated
-to the duties of federal office. It'd be difficult to say the
-least. If you can't divest, then your best bet, if you can't divest,
-is to find someone to manage these investments for you. This sucks
-because you have to trust that person to not fuck you over.
+For me, money is useful as it permits me the influence to address the
+problems I was so passionate about.
 
-E.G. If that person puts you in the position where you can't be seen
-having profited by visibly correcting this person's mistakes. they
-could make a series of subtly bad management decisions, which you
-wouldn't have had time to see, giving them some advantage. They could
-mismanage, dropping the stock price temporarily, allowing them to
-attempt to skim ownership of the company, in an opportunistic
-manner. Anyone who would mismanage for an advantage? Send 'em to the
-moon. An oddly specific scenario and not likely, but I can imagine
-that there would be other scenarios that'd be hard to see. More to the
-point, any problems that arise would distract from your duties. But,
-if you have significant assets, then you probably already have people
-you trust who help you run the show.
+*That's it!* That is the only reason I've wanted money. That is the
+reason I was chasing it all this time! I saw problems with the world.
+I wanted to fix them and I felt powerless. I thought about it all the
+time. No, I didn't complete my bachelor's at Virginia Tech, but I
+thought about world affairs and philosophy constantly. World events in
+the late aughties kept me up at night. I was worried. We were losing
+our freedoms. The dialogue on foreign and domestic policy was
+dominated by national security.
 
-In general, assets like real estate are less risky than active
-business ventures. Assets aren't free: they require taxes and
-upkeep.
+Around 2005, I decided I'd have to get money. That was pretty much
+it. I decided I needed a lot of it. Ideally, billions of dollars, like
+those guys in Silicon Valley. They could make a difference. This was
+little more than a feint thought in the background, but it was
+there. I needed money if I wanted to make the kind of difference the
+world needed. No idea how I'd get it, but I knew that if there was a
+way, I'd find it. I wouldn't give up. I wouldn't give in.
 
-### Personal Political Transition
+Some of the reforms I supported, like drug policy reform, weren't
+popular with my family, my community or many of the adults in the
+jamskating world. I expected resistence, but I thought people were
+going to be a bit more overt. I had no idea what I was getting myself
+into. My arguments were compelling and I would not shut up. I kept
+expecting a fight, but it never came. It was only around 2012 that I
+realized the "fight" had come and gone. No one had given me the same
+opportunities they gave everyone else. It wasn't because they were
+drug-free, it was because they were drug-silent. They didn't vocally
+challenge the laws. I knew I was attracting attention, but I never saw
+it coming. I think about the opportunities I lost constantly.
 
-For me, money is useful as it permits me the influence to exert for
-change. That's it. That's the only reason i've wanted money. That's
-the whole fucking reason I was chasing it all this time! I saw
-problems with the world. I wanted to fix them and I felt
-powerless. Around 2005, I decided I'd have to get money. Around 2007,
-I discovered apps were a possibility, but I was distracted with
-skating and petty drama. But I knew that if I wanted to change things,
-I needed money and a lot of it. Around 2011, I discovered that I
-didn't want anything else, but the ability to attain the influence to
-change things. I became single-minded and decided nothing else was
-worth it.
+Around 2007, I
+discovered apps were a possibility, but I was distracted with skating
+and petty drama. But I knew that if I wanted to change things, I
+needed money and a lot of it. Around 2011, I discovered that I didn't
+want anything else, but the ability to attain the influence to change
+things. I became single-minded and decided nothing else was worth it.
 
 This stubbornness was borne out of passion for particular issues. I
 saw that things could be better; they should be better. And I was
