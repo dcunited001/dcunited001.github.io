@@ -8,10 +8,26 @@ author:
 excerpt: ""
 ---
 
+## Washington's Tough for Outsiders
+
 All this talk of Trump as an outsider to Washington got me thinking
 about what that would be like to be all but green to Washington.
 
-## Washington's Tough for Outsiders
+### &#x265E; [Integrating with the Washington Machine](#integrating-with-the-washington-machine)
+
+### &#x265E; [Cooperative Game Theory](#cooperative-game-theory)
+
+### &#x265E; [Navigating Congressional Networks](#navigating-congressional-networks)
+
+### &#x265E; [Anticipating Changing Winds](#anticipating-changing-winds)
+
+### &#x265E; [Politicians are Power Brokers](#politicians-are-power-brokers)
+
+### &#x265E; [Bartering with Political Resources](#bartering-with-political-resources)
+
+### &#x265E; [Political Resources in Congress](#political-resources-in-congress)
+
+### &#x265E; [Prioritizing Resources](#prioritizing-resources)
 
 And yes, Trump is an outsider. He's a very successful businessman. The
 guy knows how to strategize, leverage his network and orchestrate
@@ -44,7 +60,9 @@ These are all challenging questions, but especially so when you need
 to make new connections. However, a tabula rasa isn't so bad. You get
 a fresh start, if you play your cards right.
 
-## Integrating with the Washington Machine
+<a name="integrating-with-the-washington-machine" />
+
+# &#x265E; [Integrating with the Washington Machine](#integrating-with-the-washington-machine)
 
 Political outsiders would likely face some difficulty integrating with
 existing power structures in DC. Some heavily invested businesspeople
@@ -138,7 +156,12 @@ portfolio than the average joe, he has a lot of support from the
 middle class and small business owners. These people care about the
 value of real estate just as much as Trump.
 
-#### Cooperative Game Theory
+<a name="cooperative-game-theory" />
+
+# &#x265E; [Cooperative Game Theory](#cooperative-game-theory)
+
+This is the most important section in this article. Hands down, feet
+up.
 
 > **Line up your incentives *AND WIN EVERY TIME!*:** form groups and
 > coalitions with people who share your incentives. You need to
@@ -147,8 +170,9 @@ value of real estate just as much as Trump.
 > way to adapt your incentives and goals to better match that of other
 > groups. *You will win every time!*
 
+<a name="congressional-networking" />
 
-## Congressional Networks
+# &#x265E; [Congressional Networking](#congressional-networking)
 
 Between the House and the Senate, there are 435 Representatives and
 100 Senators, but this isn't the only way to group these people.  As I
@@ -158,33 +182,74 @@ real life, you have to learn these tools, whether you realize it or
 not. And this is a great example of learning to view your personal
 networks from several perspectives.
 
+#### Grouping Congressmen and Staff Functionally
+
 Members of congressmen and faculty on Capitol Hill can be recomposed
 into various views, including by officially defined groups like
-committees and less explicit affiliations. The house and senate can be
+committees and less explicit affiliations. The House & Senate can be
 divided into leadership, administrators and general congressmen. You
 can further organize this view via seniority, political influence or
 on some other dimension. These groups can be reorganized into groups
-that satisfy some functional objective. E.G. all senators who have
-served 12+ years or all representatives who've served 6+
-years. There's a hierarchy of seniority based on number of terms
-served and it matters when considering who's going to assume
-leadership or committee roles.
+that satisfy some functional condition.
 
-You can organize each house by committee and tie in relationships to
-committee staff members. You can construct a network with each
-congressman's staff to identify strong connections between
-offices. This would help one understand how each office coordinates
-with others. And there has to be some kind of differential, where some
-offices and faculty members exhibit more influence. Understanding who
-has influence, when they have it and why is critical. Perhaps several
-senators coordinate to handle specific planks of the party's platform,
-so working with their staff might yield more progress to that end.
+E.G. all senators who have served 12+ years or all representatives
+who've served 6+ years. There's a hierarchy of seniority based on
+number of terms served and it matters when considering who's going to
+assume leadership or committee roles.
 
-- working with politicians
-  - they all understand the games that are played
-  - sometimes things just don't work out the way you want
+#### Graphing Committees and Other Structures
 
-## Navigating those networks
+It's useful to view the members that compose each committee, tying in
+connections to committee staff members with their connections to staff
+and other congressmen. If you're familiar with graph theory, you can
+use that to model the relationships in these groups. Each edge between
+nodes can have a value that indicates a stronger or weaker
+relationship. It's not so important to actually draw these things out
+as it is to imagine how these groups of people are tied together. If
+you find the stronger edges in that graph, this should generally
+indicate where the influence is. But it's a little more complicated
+than defining one edge type.
+
+![Graph Theory]
+
+You can construct a network with each congressman's staff to identify
+strong connections between offices. This would help one understand
+how each office coordinates with others. And there has to be some kind
+of differential, where some offices and faculty members exhibit more
+influence, both on those around them and on the bigger picture.
+
+Understanding who has influence, when they have it and why is
+critical. The graphs I mentioned above aren't static, they shift
+dynamically with respect to current events, issues du jour and
+context. Again, it's possible to model this stuff, but that's kinda
+silly. The important part is to understand how such tools can give you
+insight into the system. Graph theory is used everywhere.
+
+Perhaps several senators coordinate to handle specific planks of the
+party's platform. Then, working with their staff might yield more
+progress on those issues.
+
+#### Working with Politicians
+
+Politicians understand the kinds of games that are played and know
+that sometimes things just don't work out the way you want. You might
+willingly use yourself as a pawn in a risky situation to curry favor
+to build influence early on. You might get gamed or burned pretty
+badly. But there's no reason to lash out at people because of it. It's
+not personal. It's business for these people.
+
+Still, that means you need to be aware that this is their career. Some
+people will get in and get out; others will stick around. But people
+remember how you react to various situations and how you contributed
+to a group's goals, particularly if there was some personal cost or
+sacrifice. Or at least they should.
+
+> They might not remember what happened, what you said or what you
+> did, exactly. But they will remember how you made them feel.
+
+<a name="navigating-congressional-networks" />
+
+# &#x265E; [Navigating Congressional Networks](#navigating-congressional-networks)
 
 Understanding how to recognize, navigate, assess and prioritize these
 networks, structures and connections enables you to work smarter, get
@@ -193,7 +258,7 @@ alot in social situations, it's incredibly frustrating to not
 intuitively understand how these things work. If you don't have a
 clear understanding of these networks or if you don't have good
 information, it's very easy to expend a ton of time/energy in the
-wrong place. You're basically spinning your wheels.
+wrong place. You're basically spinning yqour wheels.
 
 That said, it's one thing to notice how these things work and another
 to be capable of pulling off a coordinated strategy leveraging players
@@ -201,7 +266,7 @@ from your party and reaching across the aisle. You have to be keenly
 aware of how other people perceive the system. That includes those in
 your party and in opposing parties.
 
-## Anticipating Changes in Needs
+# &#x265E; [Anticipating Changing Winds](#anticipating-changing-winds)
 
 This is one of the most powerful tools at your disposal: understanding
 how people's needs are going to change from today to tomorrow and from
@@ -232,7 +297,7 @@ issues. These techniques really can't be understated.
 Everyone wants to look like they're taking part in slaying whatever
 dragon is rearing it's head that day. Is it really worth the energy?
 
-## Politicians are Power Brokers
+# &#x265E; [Politicians are Power Brokers](#politicians-are-power-brokers)
 
 Congressmen and faculty are power brokers. So are bureaucrats. And
 when it comes down to it, we are all politicians on one level or
@@ -302,13 +367,14 @@ accomplish shared goals through compromise.
 
 #### A "Dark Side"
 
-There's a "dark side" that can emerge from these rules, obviously. I'm
-not going to delve too far into those aspects. There's the potential
-for a politician to tailor his message to a specific audience, where
-they speak out of both sides of their mouth, so to speak. Or they can
-convince or restrain you from communicating with other people.
+There's a "dark side" that can emerge from these rules, obviously.
+There always is. I'm not going to delve too far into those aspects.
+There's the potential for a politician to tailor his message to a
+specific audience, where they speak out of both sides of their mouth,
+so to speak. Or they can convince or restrain you from communicating
+with other people.
 
-#### Watch how you sell what you sell
+#### Watch How You Sell What You Sell
 
 However, you have to watch how you sell what you sell. You want the
 people you compromise with to feel like what they wanted today, next
@@ -320,7 +386,9 @@ dollar amount to most of these: it's unethical. And so there's no
 medium of exchange. Misunderstandings like these are eased and
 ameliorated with communication and empathy.
 
-## Political Resources
+<a name="#bartering-with-political-resources" />
+
+# &#x265E; [Bartering with Political Resources](#bartering-with-political-resources)
 
 In Congress, there are resouces like
 
@@ -332,7 +400,6 @@ In Congress, there are resouces like
         value.
       - and an instance of a resource varies in value to each party
         and group that is involved
-
 
 #### Value Derives from Appearances
 
@@ -390,9 +457,13 @@ In Congress, there are resouces like
       obtain some resources.
   - amendments and bills - these can be used for compromises
 
-## Political Resource Types
+<a name="political-resources-in-congress" />
+
+# &#x265E; [Political Resources in Congress](#political-resources-in-congress)
 
 #### Floor Time and Agenda
+
+- rpg gold metaphor
 
 - floor time & agenda
     - unless you have a few years under your belt and have served
@@ -465,7 +536,9 @@ In Congress, there are resouces like
 
 - committee agenda & time
 
-## Prioritizing Resources
+<a name="prioritizing-resources" />
+
+# &#x265E; [Prioritizing Resources](#prioritizing-resources)
 
 - understanding how to estimate, prioritize and schedule your
   available resources
@@ -484,7 +557,7 @@ In Congress, there are resouces like
   - remember that some relationships are meant to grow and others are
     not. help those who need it, but don't forget to help yourself
 
-### misc
+# Annual Cadence
 
 - yearly cycle of events (executive branch)
   - white house press conference
@@ -498,7 +571,7 @@ In Congress, there are resouces like
       white house press conference
 
 
-### Identifying a Vice President
+# Picking a Vice President
 
 The executive branch needs to be able to set the tone for legislative
 sessions. The Vice President presides over the Senate. Past VP's have
@@ -515,3 +588,13 @@ opportunity to work work with the rest of the party to find someone
 they feel is deserving and is the right person in that regard.
 Chemistry is also important. Finding the right VP would be a bit
 tougher for a VP.
+
+![Whiff of Grapeshot image]
+
+
+### 
+
+tie things up
+- mention the next article
+  - which describes issues in the system
+  - explains why the system stagnates
