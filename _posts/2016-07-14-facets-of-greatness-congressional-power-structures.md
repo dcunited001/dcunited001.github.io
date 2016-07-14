@@ -517,14 +517,43 @@ greased. Ideally, you wouldn't worry about such things because ...
 
 ![Zima Guy from SNL]
 
+<a name="political-resources-in-congress" />
+
+# &#x265E; [Political Resources in Congress](#political-resources-in-congress)
+
+#### Floor Time and Agenda
+
 There's a limited amount of time each year for the House & Senate
-floor agendas. The same applies to committees, which sometimes handle
-only one bill per issue per session. They might only try to tackle
-medical marijuana once per year. So, if the House Criminal Justice
-Committee votes that down, that might be it. Interestingly, the House
-Criminal Justice Committee is chaired by Bob Goodlatte, Roanoke's
-House Rep. I knew he was on it, but I didn't realize he was the
-chair. That's the committee that discusses various marijuana reforms.
+floor agendas. I imagine it works like an old-school RPG. Each player
+starts with a set amount of gold. You get 50 gold right off the
+bat. Then you gotta go adventuring and trade up from there. Slay
+dragons with the other heroes of the realm and whatnot.
+
+It seems that there are similar resources that each player starts out
+with.
+
+I could easily look this up
+
+- rpg gold metaphor
+
+- floor time & agenda
+    - unless you have a few years under your belt and have served
+      others, then i imagine this would be less available to you than
+      to others
+      - this increases demand for floor time and agenda influence for
+        junior congressmen, meaning they have to barter for it.
+  - specific times of the day/season are more valuable
+
+#### Commitee Time & Agenda
+
+The same notions of limited time and agenda access apply to
+committees, which sometimes handle only one bill per issue per
+session. They might only try to tackle medical marijuana once per
+year. So, if the House Criminal Justice Committee votes that down,
+that might be it. Interestingly, the House Criminal Justice Committee
+is chaired by Bob Goodlatte, Roanoke's House Rep. I knew he was on it,
+but I didn't realize he was the chair. That's the committee that
+discusses various marijuana reforms.
 
 In the nineties, it was really tough to get drug reform heard in any
 legislative forum, state or federal. The level of debate has increased
@@ -541,13 +570,9 @@ difficult to make progress on that front.
 
 The committee system tends to stall reforms a bit, partly to encourage
 healthy debate. It's by design & I'll discuss that in my next article
-on political theory. 
+on political theory:
+[Understanding the Political System](/posts/2016-07-14-facets-of-greatness-understanding-the-political-system.html).
 
-  - some resources are fixed in some way.
-    - there is only one Speaker of the House and one Minority Whip
-      - one Majority/Minority leader
-      - there's a fixed number of commitee leadership roles that can
-        help you work legislation through
     - there is a limited time each year for the house/senate agenda
       - same applies to committees, which sometimes handle only one
         bill per issue per session.
@@ -561,24 +586,9 @@ on political theory.
             government that is quite frustrating, but there are
             reasons for enabling that control.
 
-<a name="political-resources-in-congress" />
 
-# &#x265E; [Political Resources in Congress](#political-resources-in-congress)
+#### Time/Energy
 
-#### Time
-
-
-#### Floor Time and Agenda
-
-- rpg gold metaphor
-
-- floor time & agenda
-    - unless you have a few years under your belt and have served
-      others, then i imagine this would be less available to you than
-      to others
-      - this increases demand for floor time and agenda influence for
-        junior congressmen, meaning they have to barter for it.
-  - specific times of the day/season are more valuable
 
 #### Opportunity and Service
 
@@ -638,10 +648,6 @@ on political theory.
   - how you model the system and perceive the relationships between
     people is incredibly valuable
     - in fact, this might be one of your greatest sources of value
-
-#### Commitee Time & Agenda
-
-- committee agenda & time
 
 <a name="prioritizing-resources" />
 
