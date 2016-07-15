@@ -1,8 +1,10 @@
 ---
 title: "Facets of Greatness: Congressional Power Structures"
 categories: "blog facets-of-greatness"
-tags: "business psychology leadership sociology savingtheworld philosophy"
-headline: "A political treatise on Superman, your congressman and the anti-payphone cabal"
+tags: "business psychology leadership sociology savingtheworld
+philosophy politics"
+headline: "Your definitive guide to working the system and looking good while you
+do it"
 author:
   name: "David Conner"
 excerpt: "
@@ -19,6 +21,14 @@ you figured out how it worked in 2010 doesn't mean it's going to be
 like that in 2020. The ability to anticipate that change is powerful
 as well."
 ---
+
+This article in the
+[Facets of Greatness](/posts/2016-05-12-facets-of-greatness-intro.html)
+series is on social political philosophy. My goal is to equip aspiring
+leaders with a proficient foundation for working within a system like
+Congress. This is almost entirely speculation, as I neither have
+experience in legistlature nor did I refer to sources for this
+article.
 
 ## Washington's Tough for Outsiders
 
@@ -40,6 +50,8 @@ about what that would be like to be all but green to Washington.
 ### &#x265E; [Political Resources in Congress](#political-resources-in-congress)
 
 ### &#x265E; [Prioritizing Resources](#prioritizing-resources)
+
+### &#x265E; [Annual Cadence of Events](#annual-cadence-of-events)
 
 And yes, Trump is an outsider. He's a very successful businessman. The
 guy knows how to strategize, leverage his network and orchestrate
@@ -194,7 +206,7 @@ real life, you have to learn these tools, whether you realize it or
 not. And this is a great example of learning to view your personal
 networks from several perspectives.
 
-#### Grouping Congressmen and Staff Functionally
+#### Grouping Congressmen & Staff Functionally
 
 Members of congressmen and faculty on Capitol Hill can be recomposed
 into various views, including by officially defined groups like
@@ -209,7 +221,7 @@ who've served 6+ years. There's a hierarchy of seniority based on
 number of terms served and it matters when considering who's going to
 assume leadership or committee roles.
 
-#### Graphing Committees and Other Structures
+#### Graphing Committees & Other Structures
 
 It's useful to view the members that compose each committee, tying in
 connections to committee staff members with their connections to staff
@@ -366,7 +378,7 @@ obfuscate a simple situation by wrapping it in another game and
 completely circumvent the apparent realities of the more simple
 situation.
 
-#### Individual and Group Dynamics
+#### Individual & Group Dynamics
 
 There are individual incentives for behavior as a kind of power
 broker, but there are also group incentives at various levels So, in
@@ -475,10 +487,9 @@ hearing about what to do with all the remaining payphones.
 If they did that, there wouldn't be any more payphones to use to
 change into their alter-ego super hero costumes, so they can skip
 committee hearings to fly out to the Fortress of Solitude and kick it
-in Superman's sweet new crib ... I mean, fight crime. They couldn't
-fight crime. So nope. They're stuck in a committee deadlock. They
-diverted donations and propped up a SuperPAC to save all the
-payphones.
+in Superman's sweet new crib ... I mean, fight crime. But
+nope. They're stuck in a committee deadlock. They diverted donations
+and propped up a SuperPAC to save all the payphones.
 
 Jesus, what would you do? You already know if you show up to that
 committee hearing once, the anti-payphone cabal is going to force a
@@ -533,7 +544,7 @@ greased. Ideally, you wouldn't worry about such things because ...
 
 # &#x265E; [Political Resources in Congress](#political-resources-in-congress)
 
-#### Floor Time and Agenda
+#### Floor Time & Agenda
 
 There's a limited amount of time each year for the House & Senate
 floor agendas. I imagine it works like an old-school RPG. Each player
@@ -610,7 +621,7 @@ it will probably be easily diffused because people are smart. And if
 they push themselves to get things done, then cheap tactics will cause
 them to work harder. That's kinda what it does for me every time.
 
-#### Time/Energy
+#### Time & Energy
 
 The next resource is Time and Energy. Each congressmen has a budget
 and a staff that can help interface with other offices on Capital
@@ -642,7 +653,7 @@ special interests, which might be appropriate, in terms of
 strategy. Knowledge is power, after all. It's all in how people
 coordinate with each other.
 
-#### Opportunity and Service
+#### Opportunity & Service
 
 One can leverage an opportunity or role as part of a comprimise. You
 can offer someone the chance to speak at a fundraising event for a
@@ -686,7 +697,7 @@ great events to be a part of. If you're doing things right, people
 should be approaching you as someone who's a respected authority who
 would be an asset to whatever their project is.
 
-#### Staff and Human Resources
+#### Staff & Human Resources
 
 After you've worked in Washington for several years, you'll have a
 network of people there. You'll have a staff and you'll know good
@@ -824,7 +835,29 @@ chance for better deals down the road.
 Remember that some relationships are meant to grow and others are
 not. Help those who need it, but don't forget to help yourself.
 
-## Facets of Greatness: Understanding the Political System
+<a name="annual-cadence-of-events" />
+
+# &#x265E; [Annual Cadence of Events](#annual-cadence-of-events)
+
+There's a cycle of events that repeats each year. This is more
+relevant for members of the exectutive branch, who attend annual
+diplomatic conferences and press events. I took note of this when
+watching Barack Obama speaking at a NATO conference in July 2016. He
+mentioned that it was a yearly event, which got me to thinking about
+other annual events like the White House Press Conference. The event
+where Obama traditionally delivered a standup routine.
+
+This implies that there's a regular rhythm to events. Some of those
+could be slightly out of order, missing or attended by various team
+members. But for annual diplomatic events across the world, the US
+would usually send a presence. This is interesting. If you understand
+how the events might typically sway public opinion, then you can
+utilize that to your advantage, if only in a minor way. For example,
+you might expect that public sentiment and your approval rating would
+swell slightly after. There might be other predictable effects
+precending or following specific events.
+
+## Facets of Greatness: [Understanding the Political System](/posts/2016-07-15-facets-of-greatness-understanding-the-political-system.html)
 
 The American implementation of a democratic republic is different than
 that of most others. Our system has some interesting qualities to

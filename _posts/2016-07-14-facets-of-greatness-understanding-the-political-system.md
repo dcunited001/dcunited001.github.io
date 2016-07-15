@@ -8,6 +8,11 @@ author:
 excerpt: ""
 ---
 
+
+
+
+
+
 Just to clarify right at the start: I support Trump for president. I
 think the guy has some great ideas, though admittedly I had a hard
 time supporting him until early 2016. The reason I support him is
@@ -40,21 +45,6 @@ way and our democracy has grown too large.
 
 
 
-
-# Annual Cadence
-
-- yearly cycle of events (executive branch)
-  - white house press conference
-  - NATO conference
-  - etc
-- there's a kind of yearly rhythm to lots of these events
-  - events could be slightly out of order or missing, etc
-  - but there might be some more predictable effects preceding or
-    following specific events
-    - e.g. slightly higher approval ratings after the standup at the
-      white house press conference
-
-
 # Picking a Vice President
 
 The executive branch needs to be able to set the tone for legislative
@@ -74,14 +64,6 @@ Chemistry is also important. Finding the right VP would be a bit
 tougher for a VP.
 
 ![Whiff of Grapeshot image]
-
-
-###
-
-tie things up
-- mention the next article
-  - which describes issues in the system
-  - explains why the system stagnates
 
 
 ### misc things to learn
@@ -424,6 +406,9 @@ the most critical decisions should be the more senior
 generations. This is the subject for another post, but there are just
 some things that you won't understand until you have experienced
 them. You won't get it.
+
+
+
 
 
 
