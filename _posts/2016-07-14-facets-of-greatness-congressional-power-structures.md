@@ -529,20 +529,24 @@ starts with a set amount of gold. You get 50 gold right off the
 bat. Then you gotta go adventuring and trade up from there. Slay
 dragons with the other heroes of the realm and whatnot.
 
-It seems that there are similar resources that each player starts out
-with.
+It seems that there are similar resources that each representative
+starts out with. Or can easily access. Then, as you advance further
+and further upon your transcontinental quest for public opinion, you
+get access to higher level influence and tools.
 
-I could easily look this up
+Everyone has access to floor time, but unless you have a few years
+under your belt and have served others, then I imagine this would be
+less available to you than others. This increases demand for floor
+time and agenda influence for junior congressmen, meaning they have to
+barter for it and work a bit harder. Or so I imagine.
 
-- rpg gold metaphor
-
-- floor time & agenda
-    - unless you have a few years under your belt and have served
-      others, then i imagine this would be less available to you than
-      to others
-      - this increases demand for floor time and agenda influence for
-        junior congressmen, meaning they have to barter for it.
-  - specific times of the day/season are more valuable
+Further, specific times of the day & session would be more valuable
+than others. Earlier in the legislative session might be more
+advantageous to help set the tone on an issue. Later in the session,
+the agenda's probably packed and it'd would be more
+competitive. Having time to speak allows you to be more influentual if
+you get a word in when important issues are being discussed. It's all
+about building that CSPAN following. Just trust me, bro.
 
 #### Commitee Time & Agenda
 
@@ -573,35 +577,102 @@ healthy debate. It's by design & I'll discuss that in my next article
 on political theory:
 [Understanding the Political System](/posts/2016-07-14-facets-of-greatness-understanding-the-political-system.html).
 
-    - there is a limited time each year for the house/senate agenda
-      - same applies to committees, which sometimes handle only one
-        bill per issue per session.
-        - obviously, if it's an important issue or one
-        - this is one reason it's been so hard to get marijuana reform
-          through the Criminal Justice committees.
-          - AFAIK they would take one symbolic action on it per year,
-            up until the last decade (maybe a little further)
-          - medical was a bit easier, but progress can be stalled
-            easily at the commi this is a mechanism in our
-            government that is quite frustrating, but there are
-            reasons for enabling that control.
+When bringing an issue through committee, you have to handle it
+properly, like it's your baby. At this point, there's a small number
+of people who have a lot of control over whether it will be discussed
+and how it will be modified. Sometimes, the committees will make a
+symbolic action on an issue or bill to briefly consider it, but moreso
+to give the appearance that they're looking into that issue.
 
+But all of these committee actions can provide you leverage that you
+can use or barter for. Though if you have influence on the committee,
+there are several tactics you could use that you really wouldn't want
+to use. Direct tactics that waste someone's time, which would lead to
+frustration.
+
+You don't want to resort to petty committee tactics, especially
+against a popular issue. It goes against the spirit of democracy for a
+few people to completely stall things out. It's not a strong way to
+respond to your opponents. And if it's a direct obvious tactic, then
+it will probably be easily diffused because people are smart. And if
+they push themselves to get things done, then cheap tactics will cause
+them to work harder. That's kinda what it does for me every time.
 
 #### Time/Energy
 
+The next resource is Time and Energy. Each congressmen has a budget
+and a staff that can help interface with other offices on Capital
+Hill. You have a limited number of manhours and so does everyone
+else. You might be able to contribute your staff towards an ally's
+goal and this is a resource. It could be a favor. It's something you
+can use.
+
+Since, you're pretty busy as a congressman, you'll want a good
+communicater and a good manager, preferably someone who's both. They
+usually are both.
+
+To get your bill through committee, you really want someone to take
+your baby seriously. So when they ask for changes, you should work
+outside the committee's time as much as possible. As with everything
+else, you want a tight feedback loop, so that you make changes or
+suggestions and add/remove stuff as quickly as possible. There may be
+some bills where it's just not going to work and you can spend as much
+time on as you want. That time could be better spent elsewhere.
+
+Instead, you could coordinate with other congressmen or leadership to
+see what they need. That time is valueable, but getting legislation
+passed isn't your only job. And sometimes these tasks are delegated by
+leadership in the party. Or they could be, so that some congressmen
+focus on specific tasks that they work efficiently and others take
+care of public appearances. It's probably because they have a nice
+smile or whatever. Others can maintain relationships with specific
+special interests, which might be appropriate, in terms of
+strategy. Knowledge is power, after all. It's all in how people
+coordinate with each other.
 
 #### Opportunity and Service
 
-- opportunity & service
-    - one can leverage an opportunity or role as part of a compromise
-    - or perform some service in aid to a cause, group effort,
-      campaign, etc.
-      - and leverage the promise of this service
-      - or the value of completed service to one's own personal
-        reputation
-    - and likewise, it's useful to identify/estimate opportunities for
-      service to use as leverage ... or as a way to gauge various
-      things
+One can leverage an opportunity or role as part of a comprimise. You
+can offer someone the chance to speak at a fundraising event for a
+non-profit event unrelated to campaigning. Events like this are great
+for growing your network. If you're good, you'll read the crowd and
+engage with people to understand what they're looking for in
+Congress. Since you're the guy from Washington, you'll find that
+people will approach you and if you help them with something, they'll
+remember you because they talked to you.
+
+You also need to seek out people who don't just approach you. In
+general, with anything, it's good to shake things up and resist the
+temptation to settle into specific patterns. And it's beneficial to be
+the one driving the action, instead of the one responding. If you
+approach someone who doesn't expect it, that might leave them feeling
+really good. Further still, the people who approach you always want
+something. Sometimes it might not be a thrilling conversation. Or
+maybe they just want to talk you about a specific issue. And maybe
+they just want to shake your hand, but they want something. They
+probably heard you're the guy in the room from Washington.
+
+Or it might be a volunteer opportunity or some other event someone
+promised to go to, but needs to swap on. Not a great idea to reneg on
+something simple like that, but sometimes it happens. But the more
+stuff like this that you do, the larger your network grows. And if
+you, the important guy spent your time helping someone, people usually
+remember that. Those are strong, positive connections based on strong
+memories. You want to build those. As a representative, you need to be
+good at networking and listening, so you can serve people the best you
+can.
+
+So, you can pursue these opportunities, but likewise, you can offer
+them to other people. This is a great way to test junior members of
+Congress. How willing were they to be a part of something? Did they
+approach you about an opportunity they heard about? Were they willing
+to take on some obligation like that, where there wasn't a clear gain?
+Those are good people.
+
+Likewise, if you keep your ears out for these things, you can find
+great events to be a part of. If you're doing things right, people
+should be approaching you as someone who's a respected authority who
+would be an asset to whatever their project is.
 
 #### Staff and Human Resources
 
