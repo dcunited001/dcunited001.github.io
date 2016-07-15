@@ -41,6 +41,61 @@ way and our democracy has grown too large.
 
 
 
+# Annual Cadence
+
+- yearly cycle of events (executive branch)
+  - white house press conference
+  - NATO conference
+  - etc
+- there's a kind of yearly rhythm to lots of these events
+  - events could be slightly out of order or missing, etc
+  - but there might be some more predictable effects preceding or
+    following specific events
+    - e.g. slightly higher approval ratings after the standup at the
+      white house press conference
+
+
+# Picking a Vice President
+
+The executive branch needs to be able to set the tone for legislative
+sessions. The Vice President presides over the Senate. Past VP's have
+varied with regard to how much influence they exert on the Senate's
+agenda and operations. Since that person is involved with the
+legislature, it would be beneficial to choose someone who has
+preexisting connections with congressmen and their staffmembers.
+
+That's not a determining factor for such a decision and would be
+easily be outweighed. It should be easy to identify someone in your
+staff who has many of the same connections. When you're making a
+decision like that, you want to play to the party. It's an early
+opportunity to work work with the rest of the party to find someone
+they feel is deserving and is the right person in that regard.
+Chemistry is also important. Finding the right VP would be a bit
+tougher for a VP.
+
+![Whiff of Grapeshot image]
+
+
+###
+
+tie things up
+- mention the next article
+  - which describes issues in the system
+  - explains why the system stagnates
+
+
+### misc things to learn
+
+- political factions in europe
+  - overview of rules used
+  - names of legislative bodies and leaders
+  - recognize pictures of buildings, ppl &  whatnot
+  - particularly UK, Germany, France, Spain ... etc
+- military ranking systems for American army, marines, navy, air force
+  - for (some) other countries
+  - just interesting to know (briefly examined)
+- names/specs of US/Russian/Chinese military equipment
+
 
 
 
