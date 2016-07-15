@@ -676,122 +676,156 @@ would be an asset to whatever their project is.
 
 #### Staff and Human Resources
 
-- staff members (useful especially for rookie congressmen)
+After you've worked in Washington for several years, you'll have a
+network of people there. You'll have a staff and you'll know good
+people who want to be part of something. Likewise, there will be
+junior congressmen who are trying to find great members for their
+staff. If they're new to Washington, they might not have a large
+network. It's probably a thing that people run into all the time at a
+specific time of year when there's a fresh load of congressmen coming
+in. They probably have a name for it.
+
+But this is a thing that you can do for a junior congressmen that
+might help them. And they'll see that person almost every workday when
+Congress is in session. And you may have done two people favors, if
+you found someone a job. Win, win, win. That's easy, LOL. But you have
+to know the chemistry is going to work out right.
 
 #### PR, Publicity & Press
 
-- pr/publicity/press
-    - some actions can be undertaken in congress to gain PR points or
-      publicity on an issue.
-      - I doubt this is the primary motivating factor in deciding
-        whether or not to take an action, but you have to understand
-        how your actions will affect your relationships with people
-        around you.
-        - crucial for maintaining relationships with funding sources
-          and lobbyists
-      - in fact, visible action is so crucial that one should review
-        the nature of promises both public and private made to
-        supporters, at least once every quarter or so
-        - enumerating your supporters, their needs and their
-          expectations helps you ensure that your giving back to those
-          who are pushing you forward
+Some people like being in front of the camera. Some people need to get
+in front of one. Some actiosn can be undertaken in Congress to gain PR
+points or publicity on an issue. It's good to be seen as an authority
+on an particular issue or subject and even better if that meshes well
+with your district or state. It's nice if everyone gets more facetime,
+so you want to make sure you take the facetime that is the most
+synergistic with you or find the person whom would fit that part best.
+
+This becomes part of your image, which is crucial for maintaining
+relationships with funding sources and lobbyists. You'll also need to
+develop your image with actions in Congress, but the same principle
+above applies: someone else might need that more than you, which means
+you need to know what issues drive district and state elections. You
+should anyways. And if that's going to be an election issue or
+something, and you let someone else take the reins on the floor in
+Congress, then you just did a favor. They owe you one.
+
+In fact, visible action is so crucial that one should review the
+nature of promises both public and private made to supporters, at
+least once every quarter or so. Enumerating your supporters, their
+needs and their expectations helps you ensure that your giving back to
+those who are pushing you forward.
 
 #### Budget Items
 
-- budgets (office/staff for congressman, etc. and committee staff)
-    - if you hold an office, legislative, executive, judicial,
-      administrative, or otherwise, then I'd imagine you'd have some
-      kind of budget.
-      - in many cases, it's probably not managed personally, but you
-        have influence over it.
-        - money <=> power
+Congressmen get to vote on how much they get paid, but they also get a
+budget. That's pretty sweet, but it comes with a lot of
+responsibility. How do you know you're getting the most of your
+budget? Or do you have a surplus at the end of the year and return it
+to the government just because. That's a strong indication that your
+actions fall in line with your words, if you're in favor of limited
+government.
+
+Like I mentioned above, you really need a good manager and someone who
+can handle money well. And you'll need to be competitive with hiring
+because if not, a lobbyist will come along and snatch up your best
+people at the wrong time. Now that I think about it, I wouldn't be
+surprised if that occasionally happened at the worst of
+times. Ideally, you'll find someone who works for principles, not
+money. They want a job not because of the money, but the mission.
+
+If you hold an office, legislative, executive, judicial,
+administrative, or otherwise, than you'd have some kind of budget. If
+you have authority in Washington, a lot of your time is going to be
+schedule away in meetings or proceedures of some kind. You don't have
+time for much else, so you need people to help you run the show.
 
 #### Personal Time
 
-- personal time
-  - one has to leverage their time efficiently, while remaining
-    flexible, which becomes incredibly difficult as you gain
-    influence
+Everyone has personal time. I don't think you can give personal time
+to someone else, but you can trade it away. One has to leverage their
+time efficiently, while remaining flexible, which becomes incredibly
+difficult as you gain influence. This is one reason I adjusted to
+being single. I'm glad I didn't aquire those obligations. I think...
 
 #### Knowledge of the System
 
-- your understanding of the system
-  - how you model the system and perceive the relationships between
-    people is incredibly valuable
-    - in fact, this might be one of your greatest sources of value
+Your understanding of the system is your most valuable asset. You
+can't forget that. Your understanding of how things really work. And
+politicians know that. People in general know that. Some people will
+tend to obfuscate a system, so it appears to work in one way, but
+there are other, less visible factors at work.
+
+How you model the system and perceive the relationships between people
+is incredibly valuable. This is in constant flux. It's not going to be
+the same from year to year. The only constant is change. Just because
+you figured out how it worked in 2010 doesn't mean it's going to be
+like that in 2020. The ability to anticipate that change is powerful
+as well.
+
+Some people working within some organization or group get stuck in a
+reactive mode. They aren't working the system. The system is working
+them. There are times to remain passive or reactive. Sometimes that
+gives you an advantage. But if you're actively driving behavior,
+people have to react to you. Similarly, some people are acting
+actively in a system, but passively with regard to change in that
+system. So if you actively anticipate how a system will change from
+State A to State B or from year to year, then you have another
+advantage.
 
 <a name="prioritizing-resources" />
 
 # &#x265E; [Prioritizing Resources](#prioritizing-resources)
 
-- understanding how to estimate, prioritize and schedule your
-  available resources
-  - need to be able to take stock of the tools available to you and
-    how each kind differs by nature.
-    - some resources are more appropriate
-    - some resources are more scarce
-    - a resource's value differs from you to them
-      - identify this and utilize it
-  - seeking mutual benefit is best.  it's win, win, win
-    - you win bc you get what you want.
-    - they win because they get what they want
-    - and you win again because you profited in some other way in
-      giving them what they wanted ... this could be shady though
-  - seeking long-term mutual benefit is even better
-  - remember that some relationships are meant to grow and others are
-    not. help those who need it, but don't forget to help yourself
+You need to understand how to prioritize and schedule your available
+resources. This means taking stock of the tools available to you and
+how each kind differs by nature, as well as taking stock of your
+resources. Some tools & resources match a situation; some are more
+scarece. A resources value differs in value from you to the person
+you're bartering with. You can identify this and utilize it.
 
-# Annual Cadence
+Seeking mutual benefit is best.
 
-- yearly cycle of events (executive branch)
-  - white house press conference
-  - NATO conference
-  - etc
-- there's a kind of yearly rhythm to lots of these events
-  - events could be slightly out of order or missing, etc
-  - but there might be some more predictable effects preceding or
-    following specific events
-    - e.g. slightly higher approval ratings after the standup at the
-      white house press conference
+### It's Win, Win, Win:
 
+#### You win because you get what you want.
 
-# Picking a Vice President
+#### They win because they get what they want or need.
 
-The executive branch needs to be able to set the tone for legislative
-sessions. The Vice President presides over the Senate. Past VP's have
-varied with regard to how much influence they exert on the Senate's
-agenda and operations. Since that person is involved with the
-legislature, it would be beneficial to choose someone who has
-preexisting connections with congressmen and their staffmembers.
+#### And you win again if you also profited in some other way
 
-That's not a determining factor for such a decision and would be
-easily be outweighed. It should be easy to identify someone in your
-staff who has many of the same connections. When you're making a
-decision like that, you want to play to the party. It's an early
-opportunity to work work with the rest of the party to find someone
-they feel is deserving and is the right person in that regard.
-Chemistry is also important. Finding the right VP would be a bit
-tougher for a VP.
+That's right: win, win, win. The third win is because, in giving them
+what they wanted, you got something else that you wanted. If you did
+this, then you truly nailed two birds with one stone.
 
-![Whiff of Grapeshot image]
+<iframe width="560" height="315"
+src="https://www.youtube.com/embed/iHmLljk2t8M" frameborder="0"
+allowfullscreen></iframe>
 
+#### Long-term Mutual Benefit is the Sweet Spot
 
-### 
+Seeking long-term mutual benefit is even better. That sets up the
+chance for better deals down the road.
 
-tie things up
-- mention the next article
-  - which describes issues in the system
-  - explains why the system stagnates
+#### Some Relationships are Meant to Grow, Others are Not
 
+Remember that some relationships are meant to grow and others are
+not. Help those who need it, but don't forget to help yourself.
 
-### misc things to learn
+## Facets of Greatness: Understanding the Political System
 
-- political factions in europe
-  - overview of rules used
-  - names of legislative bodies and leaders
-  - recognize pictures of buildings, ppl &  whatnot
-  - particularly UK, Germany, France, Spain ... etc
-- military ranking systems for American army, marines, navy, air force
-  - for (some) other countries
-  - just interesting to know (briefly examined)
-- names/specs of US/Russian/Chinese military equipment
+The American implementation of a democratic republic is different than
+that of most others. Our system has some interesting qualities to
+it. Some of these are actually features, not bugs. In the next
+political article in this series, I'll speculate on the how and the
+why behind some of our founders decisions. I'll describe why it's a
+good thing when the decision making power is tilted slightly towards
+the more senior generations.
+
+I'll also talk about Starcraft and Blizzard games. Unfortunately,
+there will be no more Tardis's or velocirapter-wrestling outings with
+Superman. And no, Wonder Woman is not going to be there. Just the
+anti-payphone cabal complaining about a phone that rang for 26
+years...
+
+Yeh... no one ever actually hung up, so it kept ringin...
