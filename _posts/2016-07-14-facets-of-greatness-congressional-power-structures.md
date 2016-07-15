@@ -2,10 +2,22 @@
 title: "Facets of Greatness: Congressional Power Structures"
 categories: "blog facets-of-greatness"
 tags: "business psychology leadership sociology savingtheworld philosophy"
-headline: ""
+headline: "A political treatise on Superman, your congressman and the anti-payphone cabal"
 author:
   name: "David Conner"
-excerpt: ""
+excerpt: "
+Your understanding of the system is your most valuable asset. You
+can't forget that. Your understanding of how things really work. And
+politicians know that. People in general know that. Some people will
+tend to obfuscate a system, so it appears to work in one way, but
+there are other, less visible factors at work.
+
+How you model the system and perceive the relationships between people
+is incredibly valuable. This is in constant flux. It's not going to be
+the same from year to year. The only constant is change. Just because
+you figured out how it worked in 2010 doesn't mean it's going to be
+like that in 2020. The ability to anticipate that change is powerful
+as well."
 ---
 
 ## Washington's Tough for Outsiders
@@ -515,7 +527,7 @@ guys because in a few years, you're going to need to get some
 legislation through a committee and you want that wheel to stay
 greased. Ideally, you wouldn't worry about such things because ...
 
-![Zima Guy from SNL]
+![Goshdarnit I'm good enough](/img/posts/2016-07-14-facets-of-greatness-congressional-power-structures/goshdarnit.jpg)
 
 <a name="political-resources-in-congress" />
 
