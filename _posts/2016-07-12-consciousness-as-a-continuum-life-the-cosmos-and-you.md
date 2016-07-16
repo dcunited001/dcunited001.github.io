@@ -427,6 +427,24 @@ invisible fence and up to the MIT campus in Boston, I'll be sure to
 shout questions at strangers. But until then, I really don't have
 anyone to talk to or ask. *C'est triste.*
 
+### Quantum Broadband
+
+#### WTF, Comcast!! Where you at?
+
+> So ... what if matter really forms this quantum channel of
+> communication and the reason SETI hasn't picked up alien signals is
+> because their all talking on another channel. That's my personal
+> answer to Fermi's paradox.
+
+If we can tap into matter across the universe, what if we can use
+those quantum mechanical mechanisms, coupled with the
+[universal language](/posts/2016-04-12-the-nature-of-space-time-and-information-implies-universal-language.html)
+concept I wrote about in April 2016. Could we pair these two together
+to join a cosmic internet full of alien life forms the universe over?
+Could we network with those aliens using quantum mechanics and
+identify particle pairings which are entangled without having physical
+access to both?
+
 ## What Comes After the Singularity?
 
 The next steps to this philosophy entail an extension of the
@@ -529,24 +547,6 @@ Really, the specifics of this are all quite speculative. The point is
 your lolcats and they are laughing. Because deep down, they know. They
 know that their lolcats are superior -- whatever their cats may look
 like.
-
-### Quantum Broadband
-
-#### WTF, Comcast!! Where you at?
-
-> So ... what if matter really forms this quantum channel of
-> communication and the reason SETI hasn't picked up alien signals is
-> because their all talking on another channel. That's my personal
-> answer to Fermi's paradox.
-
-If we can tap into matter across the universe, what if we can use
-those quantum mechanical mechanisms, coupled with the
-[universal language](/posts/2016-04-12-the-nature-of-space-time-and-information-implies-universal-language.html)
-concept I wrote about in April 2016. Could we pair these two together
-to join a cosmic internet full of alien life forms the universe over?
-Could we network with those aliens using quantum mechanics and
-identify particle pairings which are entangled without having physical
-access to both?
 
 ### Cosmic Computational Complexity
 
