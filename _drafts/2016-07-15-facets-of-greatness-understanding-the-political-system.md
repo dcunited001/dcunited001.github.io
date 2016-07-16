@@ -25,6 +25,38 @@ problems that result from that, as noble as our founders' intentions
 were. Other times, we feel these pain points when special interests
 get in the way.
 
+# But ... Why?
+
+### &#x265E; [Diluted Representation](#diluted-representation)
+
+### &#x265E; [Why is Washington Gridlocked?](#why-is-washington-gridlocked)
+
+### &#x265E; [Reform Requires Building a Movement](reform-requires-building-a-movement)
+
+### &#x265E; [By It's Nature, Risk Helps Us Grow](#risk-helps-us-grow)
+
+### &#x265E; [Economic Effects of Election Outcome](#economic-effects-of-election-outcome)
+
+### &#x265E; [Socialism is Great!](#socialism-is-great)
+
+### &#x265E; [21st Century Economics](#21st-century-economics)
+
+### &#x265E [Democracy is Susceptible to Misinformation](#democracy-is-susceptible-to-misinformation)
+
+### &#x265E; [Immigration](#immigration)
+
+### &#x265E; [The Singularity Implies Tectonic Cultural Shift](#singularity-implies-tectonic-cultural-shift)
+
+### &#x265E; [I Can't Stand Citizens United, But...](#i-cant-stand-citizens-united)
+
+### &#x265E; [Distribution of Power Across Generations]
+
+### &#x265E; America was Designed with Change in Mind
+
+### &#x265E; [Of Governments and Video Game Design](#of-governments-and-video-game-design)
+
+# Navigating the Political System
+
 It's important to know how to navigate the political system in
 Washington DC, but more important to understand the why's. We need to
 have an appreciation of why it was designed in this way, as well as
@@ -42,7 +74,9 @@ diluted, per person.
 
 ![Whiff of Grapeshot image]
 
-### The Federal Government has Grown too Large
+<a name="diluted-representation" />
+
+# &#x265E; [Diluted Representation](#diluted-representation)
 
 One major problem our country deals with is variance in
 representation. When the country was founded, there was approximately
@@ -67,7 +101,9 @@ citizens to provide feedback, then this can be used as a tool by the
 media and special interests to pick off congressmen by manipulating
 public opinion at key times. It's all so complicated.
 
-### Why is Washington Gridlocked?
+<a name="why-is-washington-gridlocked" />
+
+# &#x265E; [Why is Washington Gridlocked?](#why-is-washington-gridlocked)
 
 Washington seems gridlocked on so many issues. This isn't a bug; it's
 a feature. In part, this is how the system was designed by the
@@ -116,7 +152,9 @@ beneficial in the longterm. They are expensive in terms of
 implementation and in the cost to the economy. Businesses need to be
 able to project and prepare for policy changes.
 
-## Reform Requires Building a Movement
+<a name="reform-requires-building-a-movement" />
+
+# &#x265E; [Reform Requires Building a Movement](reform-requires-building-a-movement)
 
 Higher cost to reforms means that the people who want it most end up
 winning. To change something in this country, you have to get popular
@@ -133,7 +171,9 @@ washington.
 And what happens then? Smarter, well-researched policies
 ... generally.
 
+<a name="risk-helps-us-grow" />
 
+# &#x265E; [By It's Nature, Risk Helps Us Grow](#risk-helps-us-grow)
 
 In the Nineties and Aughties, there were just too many people who
 weren't paying attention. Because, for the most part, it all felt
@@ -149,7 +189,9 @@ change. Just to be clear, we need Keynesian policies and we need the
 Fed. A stable economy means more accurate projections and anticipation
 of trends.
 
-## Economic Effects of Election Outcome
+<a name="economic-effects-of-election-outcome" />
+
+# &#x265E; [Economic Effects of Election Outcome](#economic-effects-of-election-outcome)
 
 Ever heard that the outcome of the presidential election affects the
 economy? Policy & platform aside, does that mean that one president
@@ -166,7 +208,9 @@ between candidates. That guy gets to run the executive branch of the
 US Government. You bet your ass one candidate is going to better than
 the other.
 
-## Socialism is Great!
+<a name="socialism-is-great" />
+
+# &#x265E; [Socialism is Great!](#socialism-is-great)
 
 #### Until You Run Out of Money...
 
@@ -177,7 +221,9 @@ to pay for them? Something like that wouldn't happen all at once, but
 generally it does. And it's verrrry verry sneaky. It occurs on the
 timescale of generations; not years, not election cycles.
 
-## 21st Century Economics
+<a name="21st-century-economics" />
+
+# [21st Century Economics](#21st-century-economics)
 
 #### We'll Need to Rewrite the Econ Textbooks
 
@@ -189,14 +235,18 @@ and broken. It hasn't happened yet. It's not going to happen
 overnight. But it will happen. And they're going to have to rewrite
 the college economics textbooks for Micro and Macro.
 
-#### Democracy is Susceptible to Misinformation
+<a name="democracy-is-susceptible-to-misinformation" />
+
+# &#x265E [Democracy is Susceptible to Misinformation](#democracy-is-susceptible-to-misinformation)
 
 It can be difficult to relay the context of policy decisions to
 average americans and then retain strategic advantage in the global
 marketplace. China is mostly a closed country and they have so many
 advantages in this regard. We just let people walk on over.
 
-## Immigration
+<a name="immigration" />
+
+# &#x265E; [Immigration](#immigration)
 
 #### It's a National Security Issue
 
@@ -206,7 +256,9 @@ problem. Again, it's sinister in that it's not a big enough issue to
 tackle, so no one does. The consequences are easier to deal with if we
 make tough decisions now. The tensions are worse if we keep waiting.
 
-## Singularity Implies Tectonic Cultural Shift
+<a name="singularity-implies-tectonic-cultural-shift" />
+
+# &#x265E; [The Singularity Implies Tectonic Cultural Shift](#singularity-implies-tectonic-cultural-shift)
 
 There's a lot of change getting ready to go down in the whole
 world. If you've been living under a rock, it stems from technology
@@ -216,7 +268,7 @@ do not nail it right, we're going to lose. Not everything, but we'll
 lose pretty big. This isn't a high-probability risk, but it would be a
 costly one. So we need to be prepared.
 
-#### I Can't Stand Citizens United, But...
+# &#x265E; [I Can't Stand Citizens United, But...](#i-cant-stand-citizens-united)
 
 So, as much as I detest the Citizen's United decision, this is
 actually one reason that there should be a lot of money in Washington
@@ -242,7 +294,9 @@ But right now, we need smart people in Washington getting paid good
 money to research policy. And we need a lot of those people in the
 system. Again, for now...
 
-## Distribution of Power Across Generations
+<a name="distribution-of-power-across-generations" />
+
+# &#x265E; [Distribution of Power Across Generations]
 
 Another common gripe is that the generation making decisions is not
 the generation who feels the impact of them. The power in a republic
@@ -255,7 +309,9 @@ won't get it. Also, rapid change from the inexperienced younger
 generation contributes to instability. Plato agrees. Read the
 Republic.
 
-## America was Designed with Change in Mind
+<a name="america-was-designed-with-change-in-mind" />
+
+# &#x265E; America was Designed with Change in Mind
 
 The country's systems were designed to anticipate centuries of change!
 Centuries! The founders fully expected large changes in policy and
@@ -281,12 +337,16 @@ government declared as the official thing, it gives you time to think
 of the right policies worth fighting for and an opportunity to see how
 the other side of the Atlantic is going to play.
 
-Like Guiness, it's brilliant! And, IMO, this same foresight is evident
+Like Guinness, it's brilliant! And, IMO, this same foresight is evident
 in the Constitution and Bill of Rights on the scale of centuries.
 
-![Guiness]
+#### Brilliant Implementation of a Republic!
 
-## Of Governments and Video Game Design
+![Guinness, the best thing since nitrogenated beer...](/img/posts/2016-07-16-facets-of-greatness-understanding-the-political-system/guinness-brilliant.gif)
+
+<a name="of-governments-and-video-game-design" />
+
+# &#x265E; [Of Governments and Video Game Design](#of-governments-and-video-game-design)
 
 This reminds me of Blizzard's excellent game design. Yes, Blizzard
 games. As in, Warcraft, Diablo and Starcraft. Their games are known
@@ -344,17 +404,16 @@ settings were fairly constant and gameplay strategies were stable, the
 game would age more quickly and the adaptation would require
 discussion.
 
-## Sidenote on personal success
+Well, that's it! No more politics for now... Womp Womp; The End;;
 
-- click [here]() if you'd like to skip. lulz
+## A Brief Journey Into My Personal Life
 
-Sidenote: yes, i've made less than 30% of the aggregate income that I
-should have over the past few years, mostly to pursue startup
-ideas. But if you haven't figured it out yet, just because I haven't
-had spectacular success doesn't mean I'm an idiot. The crap I've dealt
-with from specific people I worked with (less than five people) has
-been a serious setback, for which I have no one to hold
-accountable.
+Yes, i've made less than 30% of the aggregate income that I should
+have over the past few years, mostly to pursue startup ideas. But if
+you haven't figured it out yet, just because I haven't had spectacular
+success doesn't mean I'm an idiot. The crap I've dealt with from
+specific people I worked with (about five people) has been a serious
+setback, for which no one has been held accountable.
 
 But that doesn't mean I'm a failure. If you associate success with
 riches -- or with the appearance of money! -- then you should reassess
@@ -390,16 +449,11 @@ to not make any money in 2015, just so I could put the lowest number
 possible on my tax. JUST SO I COULD BITCH ABOUT IT. So I will.
 
 And how is it that I can help so many other people, yet have nothing
-myself? What the fuck is that, anyways? Moving on...
+myself? What the fuck is that, anyways?
 
+## Be the Leader I Wasn't Allowed to Become
 
-
-
-
-
-
-
-###
+#### Hopefully I'm Helping Someone Grow
 
 As previously noted in the
 [Facets of Greatness](/posts/2016-05-12-facets-of-greatness-intro.html)
@@ -409,9 +463,11 @@ it still clues your opponents into how you will approach a
 problem. And because of that, they can hone their tactics and focus
 their energy to what will be effective for you.
 
-So ... therefore, it's dumb for me to explain all this, isn't it? It's
-a quasi-political post that, to anyone on Capital Hill, might display
-entry level knowledge of tactics in politics.
+Therefore, it's dumb for me to explain all this, isn't it? It's a
+[quasi-political post](/posts/2016-07-14-facets-of-greatness-congressional-power-structures.html)
+that, to anyone on Capital Hill, might display entry level knowledge
+of tactics in politics. It might help my enemies deconstruct my own
+strategies and tactics.
 
 So why do it? Because there's so many people out there who don't have
 this knowledge. That's what the Facets of Greatness series is
@@ -424,25 +480,14 @@ reads:
 > favorable views of him; and constantly affirm accordance with this
 > law of the land by publicly chipping away at his credibility.
 
+## So I Learned to Lead Leaders!
+
+#### It was Genius All Along
+
 But even if I can't win myself, that doesn't mean that I can't fight
 the battle through others. This is partly what I've been doing all
-along. It's what was so genius, all along. So, through these Facets of
-Greatness, I hope to equip others with valuables to help them push
-forward towards change.
-
-
-### misc things to learn
-
-- political factions in europe
-  - overview of rules used
-  - names of legislative bodies and leaders
-  - recognize pictures of buildings, ppl &  whatnot
-  - particularly UK, Germany, France, Spain ... etc
-- military ranking systems for American army, marines, navy, air force
-  - for (some) other countries
-  - just interesting to know (briefly examined)
-- names/specs of US/Russian/Chinese military equipment
-
-
-
+along. It's what was so genius, all along. So, through these
+[Facets of Greatness](/posts/2016-05-12-facets-of-greatness-intro.html),
+I hope to equip others with valuables to help them push forward
+towards change.
 
