@@ -349,6 +349,7 @@ though religions might talk about things symbolicly. If you look at
 Genesis, everything happens in the right order. Interesting, n'est-ce
 pas? The order is preserved ... K, moving on.
 
+
 If you start now and move all the way back to the Big Bang, everything
 becomes more likely to be connected. Particle interactions are more
 likely and, therefore, entanglements are more likely. I wish I knew
@@ -426,6 +427,109 @@ invisible fence and up to the MIT campus in Boston, I'll be sure to
 shout questions at strangers. But until then, I really don't have
 anyone to talk to or ask. *C'est triste.*
 
+## What Comes After the Singularity?
+
+The next steps to this philosophy entail an extension of the
+Singularity. I believe that, if the Quantum Web already exists or if
+we can reasonably construct one, then we can plug into a universal
+network of superintelligent AI's via quantum networking and quantum
+entanglement.
+
+That network would be composed of computers accessible by the entire
+universe or the connected regions. Therefore, that network would
+permit access to the sum of all knowledge accross those regions! So,
+instead of having access to the knowledge attained from its own
+Singularlity, a civilization would have access to the sum of knowledge
+attained from all Singularities!
+
+Put in terms of math functions, this is like taking an exponential
+function `f(x) = 2^x` and adding a new term `g(x,y) = y * 2^x`, where
+y is the number of connected super-entities. All connected
+civilizations would approach the advancement of the most advanced
+civilization. Or they could, depending on how freely that information
+was exchanged. Like I said in the intro, this drastically changes the
+knowledge economy of the universe!
+
+> And this means voyager is on a lonely journey through the universe for
+> no reason. Sorry Carl Sagan, that's like investing in MySpace... LOL,
+> the only reason I say that is because how often does anyone get to say
+> they foresaw something starkly in contrast to what Carl Sagan
+> envisioned.
+
+#### That's Like Besting Snoop Dogg on a Marijuana Pop Quiz
+
+<iframe width="560" height="315"
+src="https://www.youtube.com/embed/w5Kn03jssKY" frameborder="0"
+allowfullscreen></iframe>
+
+### In Which Aliens Give Us Free Stuff
+
+This means that whichever superintelligent AI's connected to that
+network would get that tech for free and get bumped up to the next
+plateau level. They would automatically acheive the highest level of
+knowledge available anywhere. That is, if those aliens are really nice
+and they give us lots of things for free. Ya know, because of how nice
+they are.
+
+There is a larger incentive for civilizations to hoard or protect
+knowledge if the difference in technological development is more like
+a series of plateaus than one Singularity. After each Singularity,
+there would be a period of stagnated development. This is how I
+envision technology development to unfold, by the way. There isn't one
+singularity, there are several. So if this is true, then alien
+civilizations are going to want to restrict some of their knowledge.
+
+### No Slim Shady! And No Lolcats.
+
+There may be encrypted communications for this cosmic quantum
+internet. Or there may be interference between so many civilizations
+coming only or using the channels improperly. There should be some
+universal protocol that enables CDMA/TDMA-like sharing of that
+resource ... somehow. Interestingly, it will probably be similar to
+CDMA/TDMA-like protocols, but reimagined for quantum
+networking. There's probably a InterGalactic FCC!! And no, they will
+not let Slim Shady be. So, no Slim Shady. And no lolcats. Every damn
+civilization thinks *their* lolcats are the best.
+
+> "If you think David Conner should write for Rick and Morty, make
+> sure to tweet this article to
+> [@rickandmorty](https://twitter.com/rickandmorty) and
+> [@danharmon](https://twitter.com/danharmon). Thank you, come
+> again. And again and again. Your mom." - David Conner, a stand up
+> guy
+
+But interference from lower aliens who don't know what they're doing
+could be irritating. Like if you don't properly subdivide your comm
+packets to match the chronons, you're doing it wrong! You're fucking
+it up for Gleep Gloop out here. He still hasn't watched the 1972
+Superbowl and you're fucking it up for him.
+
+#### Now apologize to Gleep Glop ... or die!!
+
+![Gleep Glop is Lord of all Gloops! Recognize!](/img/posts/2016-07-11-consciousness-as-a-continuum/gleep-glop.jpg)
+
+As for the protocols which are utilized for communication over the
+Quantum Web, there would be limitations resulting from the quantum
+mechanism they utilize.  These limitations would drastically affect
+the bandwidth and capability for communication to other areas of the
+universe. That, in turn, would would change the nature of how
+lifeforms utilize this technology. If there's a low maximum distance
+for intertangled particles that can be used for communication, then
+we'd have to use repeaters to talk to civilizations outside our
+neighborhood.
+
+There may be some spatial restrictions to this. There might be
+limitations on the kinds of partical systems that can be mapped to
+communication networks. If there is a Quantum Web, then particles are
+more tightly coupled to other local particals than more distant
+particles because of how matter was distributed after the Big Bang.
+
+Really, the specifics of this are all quite speculative. The point is
+-- there are aliens and they are reading your tweets. They are seeing
+your lolcats and they are laughing. Because deep down, they know. They
+know that their lolcats are superior -- whatever their cats may look
+like.
+
 ### Quantum Broadband
 
 #### WTF, Comcast!! Where you at?
@@ -433,7 +537,7 @@ anyone to talk to or ask. *C'est triste.*
 > So ... what if matter really forms this quantum channel of
 > communication and the reason SETI hasn't picked up alien signals is
 > because their all talking on another channel. That's my personal
-> answer to Fermi's paradox. That or
+> answer to Fermi's paradox.
 
 If we can tap into matter across the universe, what if we can use
 those quantum mechanical mechanisms, coupled with the
