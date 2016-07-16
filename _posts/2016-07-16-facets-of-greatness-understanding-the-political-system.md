@@ -13,6 +13,12 @@ think the guy has some great ideas, though admittedly I had a hard
 time supporting him until early 2016. The reason I support him is
 because we're embarking on a transition and we need fresh ideas.
 
+#### Hoo Wee! Can You Smell That?
+
+## A [Whiff of Grapeshot](https://en.wikipedia.org/wiki/13_Vend%C3%A9miaire)
+
+![It's a Whiff of Grapeshot](/img/posts/2016-07-16-facets-of-greatness-understanding-the-political-system/whiff-of-grapeshot.jpg)
+
 This another political philosophy entry in the
 [Facets of Greatness](/posts/2016-05-12-facets-of-greatness-intro.html)
 series. Our leaders need to understand the system, particularly some
@@ -41,7 +47,7 @@ get in the way.
 
 ### &#x265E; [21st Century Economics](#21st-century-economics)
 
-### &#x265E [Democracy is Susceptible to Misinformation](#democracy-is-susceptible-to-misinformation)
+### &#x265E; [Democracy is Susceptible to Misinformation](#democracy-is-susceptible-to-misinformation)
 
 ### &#x265E; [Immigration](#immigration)
 
@@ -49,9 +55,9 @@ get in the way.
 
 ### &#x265E; [I Can't Stand Citizens United, But...](#i-cant-stand-citizens-united)
 
-### &#x265E; [Distribution of Power Across Generations]
+### &#x265E; [Distribution of Power Across Generations](#distribution-of-power-across-generations)
 
-### &#x265E; America was Designed with Change in Mind
+### &#x265E; [America was Designed with Change in Mind](#america-was-designed-with-change-in-mind)
 
 ### &#x265E; [Of Governments and Video Game Design](#of-governments-and-video-game-design)
 
@@ -69,10 +75,6 @@ has been gridlocked. It was partly designed to hold back change,
 unless the legislature receives strong enough signals from the people.
 And our democracy has grown too large, so representation has been
 diluted, per person.
-
-![The Tree of Liberty...]
-
-![Whiff of Grapeshot image]
 
 <a name="diluted-representation" />
 
@@ -254,7 +256,10 @@ I'm going to write an article on illegal immigration very soon. This
 is mostly a national security issue and it's a long-term
 problem. Again, it's sinister in that it's not a big enough issue to
 tackle, so no one does. The consequences are easier to deal with if we
-make tough decisions now. The tensions are worse if we keep waiting.
+make tough decisions now. The tensions are worse if we keep
+waiting. And my main point of contention here is that illegal
+immigration is bad for everyone: legal citizens, legal immigrants and
+especially illegal immigrants.
 
 <a name="singularity-implies-tectonic-cultural-shift" />
 
@@ -296,7 +301,7 @@ system. Again, for now...
 
 <a name="distribution-of-power-across-generations" />
 
-# &#x265E; [Distribution of Power Across Generations]
+# &#x265E; [Distribution of Power Across Generations](#distribution-of-power-across-generations)
 
 Another common gripe is that the generation making decisions is not
 the generation who feels the impact of them. The power in a republic
@@ -311,7 +316,7 @@ Republic.
 
 <a name="america-was-designed-with-change-in-mind" />
 
-# &#x265E; America was Designed with Change in Mind
+# &#x265E; [America was Designed with Change in Mind](#america-was-designed-with-change-in-mind)
 
 The country's systems were designed to anticipate centuries of change!
 Centuries! The founders fully expected large changes in policy and
@@ -490,4 +495,3 @@ along. It's what was so genius, all along. So, through these
 [Facets of Greatness](/posts/2016-05-12-facets-of-greatness-intro.html),
 I hope to equip others with valuables to help them push forward
 towards change.
-
