@@ -8,25 +8,22 @@ author:
 excerpt: ""
 ---
 
-
-
-
-
-
 Just to clarify right at the start: I support Trump for president. I
 think the guy has some great ideas, though admittedly I had a hard
 time supporting him until early 2016. The reason I support him is
 because we're embarking on a transition and we need fresh ideas.
 
-There are some tough to understand issues with the American Federal
-Government.
-
-- sometimes, it's bc the system was designed this way
-  - other times, special interest gets in the way
-
-- the point of this article is to explain the reasoning behind pain
-  points in Washington DC.
-  - gridlock
+This another political philosophy entry in the
+[Facets of Greatness](/posts/2016-05-12-facets-of-greatness-intro.html)
+series. Our leaders need to understand the system, particularly some
+of the tough to understand issues in the American Federal
+Government. The people need comprehension on this points as well
+because the system is designed such that the squeakiest wheel gets the
+grease. It's a democracy and you have to be loud about what you
+want. The system was designed this way and sometimes there are
+problems that result from that, as noble as our founders' intentions
+were. Other times, we feel these pain points when special interests
+get in the way.
 
 It's important to know how to navigate the political system in
 Washington DC, but more important to understand the why's. We need to
@@ -35,54 +32,15 @@ the traditions behind the design aspects. If for no other reason than
 to understand it out of a desire to leverage it for change, instead of
 working against it.
 
-###
+One major pain point people feel right now: the legislative process
+has been gridlocked. It was partly designed to hold back change,
+unless the legislature receives strong enough signals from the people.
+And our democracy has grown too large, so representation has been
+diluted, per person.
 
-The
-legislative process has been gridlocked. It was partly designed that
-way and our democracy has grown too large.
-
-
-
-
-
-# Picking a Vice President
-
-The executive branch needs to be able to set the tone for legislative
-sessions. The Vice President presides over the Senate. Past VP's have
-varied with regard to how much influence they exert on the Senate's
-agenda and operations. Since that person is involved with the
-legislature, it would be beneficial to choose someone who has
-preexisting connections with congressmen and their staffmembers.
-
-That's not a determining factor for such a decision and would be
-easily be outweighed. It should be easy to identify someone in your
-staff who has many of the same connections. When you're making a
-decision like that, you want to play to the party. It's an early
-opportunity to work work with the rest of the party to find someone
-they feel is deserving and is the right person in that regard.
-Chemistry is also important. Finding the right VP would be a bit
-tougher for a VP.
+![The Tree of Liberty...]
 
 ![Whiff of Grapeshot image]
-
-
-### misc things to learn
-
-- political factions in europe
-  - overview of rules used
-  - names of legislative bodies and leaders
-  - recognize pictures of buildings, ppl &  whatnot
-  - particularly UK, Germany, France, Spain ... etc
-- military ranking systems for American army, marines, navy, air force
-  - for (some) other countries
-  - just interesting to know (briefly examined)
-- names/specs of US/Russian/Chinese military equipment
-
-
-
-
-
-
 
 ### The Federal Government has Grown too Large
 
@@ -145,21 +103,20 @@ got me time after time with drug law reform. I'm well familiar with
 cosponsored bills left gasping for breath, suffocated by committee
 politics. It's just the way the system is.
 
+#### This Friction Promotes Stability in the Long Term
 
+It makes a republic less susceptible to foreign influence, one of the
+biggest weaknesses of a democratic government with fairly open
+borders. This also prevents wild changes in policy implementations,
+were we ever to have a fickle populace. Frequent fluctuations and
+reversals in policy means that our economy, it's businesses and
+industries don't have time to adapt. Reforms are expensive, regardless
+of who supports them and regardless of whether they are justified and
+beneficial in the longterm. They are expensive in terms of
+implementation and in the cost to the economy. Businesses need to be
+able to project and prepare for policy changes.
 
-This friction actually promotes stability in the long term. It makes a
-republic less susceptible to foreign influence, one of the biggest
-weaknesses of a democratic government with fairly open borders. This
-also prevents wild changes in policy implementations, were we ever to
-have a fickle populace. Frequent fluctuations and reversals in policy
-means that our economy, it's businesses and industries don't have time
-to adapt. Reforms are expensive, regardless of who supports them and
-regardless of whether they are justified and beneficial in the
-longterm. They are expensive in terms of implementation and in the
-cost to the economy. Businesses need to be able to project and prepare
-for policy changes.
-
-### Reform requires a movement (title)
+## Reform Requires Building a Movement
 
 Higher cost to reforms means that the people who want it most end up
 winning. To change something in this country, you have to get popular
@@ -176,9 +133,11 @@ washington.
 And what happens then? Smarter, well-researched policies
 ... generally.
 
-(maybe remove) In the Nineties and Aughties, there were just too many
-people who weren't paying attention. Because, for the most part, it
-all felt good. Why? Cheap credit provided plenty of liquidity for the
+
+
+In the Nineties and Aughties, there were just too many people who
+weren't paying attention. Because, for the most part, it all felt
+good. Why? Cheap credit provided plenty of liquidity for the
 economy. Cheap credit leads to misallocation of resources. We weren't
 really aware there were problems or if we were, we didn't know why. We
 weren't reading the signals.
@@ -190,7 +149,7 @@ change. Just to be clear, we need Keynesian policies and we need the
 Fed. A stable economy means more accurate projections and anticipation
 of trends.
 
-### Economic Effects of Election Outcome
+## Economic Effects of Election Outcome
 
 Ever heard that the outcome of the presidential election affects the
 economy? Policy & platform aside, does that mean that one president
@@ -207,12 +166,20 @@ between candidates. That guy gets to run the executive branch of the
 US Government. You bet your ass one candidate is going to better than
 the other.
 
+## Socialism is Great!
+
+#### Until You Run Out of Money...
+
 And just real quick, here's the deal with socialism: it's fucking
 great! It's amazing! Right until your coffers dry up and you can't
 fund your services. How you gonna do fund services without liquidity
 to pay for them? Something like that wouldn't happen all at once, but
 generally it does. And it's verrrry verry sneaky. It occurs on the
 timescale of generations; not years, not election cycles.
+
+## 21st Century Economics
+
+#### We'll Need to Rewrite the Econ Textbooks
 
 Are there problems? Yes! The prices in the US economy are generally
 out of control and have been for years. This is tough if you don't
@@ -222,19 +189,24 @@ and broken. It hasn't happened yet. It's not going to happen
 overnight. But it will happen. And they're going to have to rewrite
 the college economics textbooks for Micro and Macro.
 
+#### Democracy is Susceptible to Misinformation
+
 It can be difficult to relay the context of policy decisions to
 average americans and then retain strategic advantage in the global
 marketplace. China is mostly a closed country and they have so many
-advantages in this regard. We just let people walk on over. I'm going
-to write an article on illegal immigration very soon. This is mostly a
-national security issue and it's a long-term problem. Again, it's
-sinister in that it's not a big enough issue to tackle, so no one
-does. The consequences are easier to deal with if we make tough
-decisions now. The tensions are worse if we keep waiting.
+advantages in this regard. We just let people walk on over.
 
-### We Need Well-Research Policy
+## Immigration
 
-#### .. Tectonic Cultural Shift
+#### It's a National Security Issue
+
+I'm going to write an article on illegal immigration very soon. This
+is mostly a national security issue and it's a long-term
+problem. Again, it's sinister in that it's not a big enough issue to
+tackle, so no one does. The consequences are easier to deal with if we
+make tough decisions now. The tensions are worse if we keep waiting.
+
+## Singularity Implies Tectonic Cultural Shift
 
 There's a lot of change getting ready to go down in the whole
 world. If you've been living under a rock, it stems from technology
@@ -243,6 +215,8 @@ with this. It's not going to be easy. and it's going to be fast. If we
 do not nail it right, we're going to lose. Not everything, but we'll
 lose pretty big. This isn't a high-probability risk, but it would be a
 costly one. So we need to be prepared.
+
+#### I Can't Stand Citizens United, But...
 
 So, as much as I detest the Citizen's United decision, this is
 actually one reason that there should be a lot of money in Washington
@@ -268,7 +242,20 @@ But right now, we need smart people in Washington getting paid good
 money to research policy. And we need a lot of those people in the
 system. Again, for now...
 
-### Designed with Change in Mind
+## Distribution of Power Across Generations
+
+Another common gripe is that the generation making decisions is not
+the generation who feels the impact of them. The power in a republic
+should be distributed across the generations, but the people that make
+the most critical decisions should be the more senior generations.
+
+Why? That's the subject for another post, but there are just some
+things that you won't understand until you have experienced them. You
+won't get it. Also, rapid change from the inexperienced younger
+generation contributes to instability. Plato agrees. Read the
+Republic.
+
+## America was Designed with Change in Mind
 
 The country's systems were designed to anticipate centuries of change!
 Centuries! The founders fully expected large changes in policy and
@@ -297,12 +284,16 @@ the other side of the Atlantic is going to play.
 Like Guiness, it's brilliant! And, IMO, this same foresight is evident
 in the Constitution and Bill of Rights on the scale of centuries.
 
-### Game Design (Blizzard)
+![Guiness]
+
+## Of Governments and Video Game Design
 
 This reminds me of Blizzard's excellent game design. Yes, Blizzard
 games. As in, Warcraft, Diablo and Starcraft. Their games are known
 for impeccable balance and for retaining communities of gamers for a
 decade or longer. And why?
+
+#### Anticipation of Trends in Strategy and Metagame
 
 Anticipation of strategy and metagame trends is what makes Blizzard
 games last for decades. I've noticed that it seems they anticipated
@@ -319,6 +310,8 @@ configuraion, they tested Starcraft strategies under different
 settings. Through play-testing, they learned which ones would be
 dominant as they made minor changes.
 
+#### Nothing is Perfect; Perfection is Anticipation of Imperfection
+
 From here, they understood how to optimally transition from one set of
 dominant strategies to another. This allowed Blizzard to slightly tilt
 the online game balance. In Starcraft, this means a few strategies
@@ -332,6 +325,8 @@ two to eight players with three races. That's impressive. Not only
 that, but they seem to have play-tested so well they understood the
 optimal transition in patches. This means they could phase dominant
 strategies in and out.
+
+#### Drive Discussion and Get Players to Invest
 
 This has a ton of difficult-to-predict but valuable effects that
 enabled Blizzard to retain gamer loyalty, even over shiny new products
@@ -349,7 +344,7 @@ settings were fairly constant and gameplay strategies were stable, the
 game would age more quickly and the adaptation would require
 discussion.
 
-### Sidenote on personal success
+## Sidenote on personal success
 
 - click [here]() if you'd like to skip. lulz
 
@@ -397,16 +392,6 @@ possible on my tax. JUST SO I COULD BITCH ABOUT IT. So I will.
 And how is it that I can help so many other people, yet have nothing
 myself? What the fuck is that, anyways? Moving on...
 
-### Distribution of power across generations
-
-So anyways, preventing rapid change is normally a good thing, though
-not with the upcoming tectonic cultural shift. The power in a republic
-should be distributed across the generations, but the people that make
-the most critical decisions should be the more senior
-generations. This is the subject for another post, but there are just
-some things that you won't understand until you have experienced
-them. You won't get it.
-
 
 
 
@@ -433,14 +418,31 @@ this knowledge. That's what the Facets of Greatness series is
 about. They stonewalled me. There might as well be a federal law that
 reads:
 
-> David Conner is not fucking allowed to win; do not let that cheating
-> twerp to win the turd at the bottom of a box of cereal; do not lend
-> him credence of any kind; do not allow others to develop favorable
-> views of him; and constantly affirm accordance with this law of the
-> land by publicly chipping away at his credibility.
+> David Conner is not fucking allowed to win; do not allow that
+> cheating twerp to win the turd at the bottom of a box of cereal; do
+> not lend him credence of any kind; do not allow others to develop
+> favorable views of him; and constantly affirm accordance with this
+> law of the land by publicly chipping away at his credibility.
 
 But even if I can't win myself, that doesn't mean that I can't fight
 the battle through others. This is partly what I've been doing all
 along. It's what was so genius, all along. So, through these Facets of
 Greatness, I hope to equip others with valuables to help them push
 forward towards change.
+
+
+### misc things to learn
+
+- political factions in europe
+  - overview of rules used
+  - names of legislative bodies and leaders
+  - recognize pictures of buildings, ppl &  whatnot
+  - particularly UK, Germany, France, Spain ... etc
+- military ranking systems for American army, marines, navy, air force
+  - for (some) other countries
+  - just interesting to know (briefly examined)
+- names/specs of US/Russian/Chinese military equipment
+
+
+
+

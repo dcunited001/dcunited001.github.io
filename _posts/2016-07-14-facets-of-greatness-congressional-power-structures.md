@@ -24,11 +24,11 @@ as well."
 
 This article in the
 [Facets of Greatness](/posts/2016-05-12-facets-of-greatness-intro.html)
-series is on social political philosophy. My goal is to equip aspiring
-leaders with a proficient foundation for working within a system like
-Congress. This is almost entirely speculation, as I neither have
-experience in legistlature nor did I refer to sources for this
-article.
+series is on social political philosophy, particularly with regard to
+leadership. My goal is to equip aspiring leaders with a proficient
+foundation for working within a system like Congress. This is almost
+entirely speculation, as I neither have experience in legistlature nor
+did I refer to sources for this article.
 
 ## Washington's Tough for Outsiders
 
