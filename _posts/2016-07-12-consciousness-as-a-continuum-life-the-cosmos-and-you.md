@@ -134,19 +134,22 @@ depth to it, in which case it would include lots of aggregate
 data. Eventually, this window becomes complex enough that it gives
 rise to complex thought.
 
-Particularly after vocal cords are developed that can be controlled to
-differentiate a large number of phonemes in a reproducible
-manner. When this is combined with the mental prowess for basic
-abstract thought and (social features), then something special happens
-in the minds of animals.
+This is particularly so, after vocal cords are developed that can be
+controlled to differentiate a large number of phonemes in a
+reproducible manner because this allows us to combinate abstract
+actions and attach them to meaning with semiotics. Even better, now
+those little nodes of experience can communicate with others to
+efficiently distribute their experience. When this is combined with
+the mental prowess for basic abstract thought and (social features),
+then something special happens in the minds of animals.
 
 Once the knowledge for making these phonemes (types of sounds) is
 fairly common, so that it's almost inevitable for the children of that
 species to make those sounds, then it can be expected that nearly
 every member of a species will experiement with combinations of those
-sounds. Once that happens, then it can be expected that there will be
-a transfer of information between members of the same specices, simply
-because:
+sounds. Once that happens, then it can be expected that there will
+always be a transfer of information between members of the same
+species, simply because:
 
 #### They have the physical ability to make the same kinds of sounds.
 
@@ -262,6 +265,27 @@ Matter's variation, but I just don't know enough about astrology &
 cosmology. That's right, intelligent life should show up as
 statistical error in our models of the universe.
 
+These statistical abberrations would grow as the universe expands from
+the point where intelligent life interfered with the distribution of
+matter. So, if this is true and life interfered in a measureable way,
+then there should also be a kind of distribution across the universe
+for this error when contrasted with the regions that aren't as
+drastically altered. This is because only a few Type II/III
+civilizations would emerge in the first few billion years. Those would
+have the largest effect on the shape of the universe.
+
+And therefore, ancient events would starkly contrast cosmological
+models of galaxies and galaxy clusters. This only applies to
+civilizations that can do stuff like create black holes and move stars
+and trigger supernovae. Those are the types of events we should look
+for. Particularly triggered supernovae, I think.
+
+Furthermore, intelligent life could explain the presence of
+assymmetries in clusters/galaxies! Especially if these variations
+occurred < 1BY after the big bang. Maybe everything was symmetric. If
+so, intelligent life could cause seemingly minor changes, creating
+assymmetry over time.
+
 Our ability to increase the computational capacity of the universe
 determines our ability to augment our window of consciousness into the
 universe. More computational power translates into the power to solve
@@ -273,10 +297,10 @@ written in
 and
 [Nature of God](http://localhost:4000/posts/2016-05-31-the-nature-of-god.html).
 
-Entropy determines the fate of the universe. If there's a Big Crunch,
-we can deal with that a lot easier than a Big Freeze. There must
-certainly be one or the other, I think. With increasing vastness of
-space, it will require more energy to reorganize it for
+Entropy determines the fate of the universe. If there's a Big
+Crunch, we can deal with that a lot easier than a Big Freeze. There
+must certainly be one or the other, I think. With increasing vastness
+of space, it will require more energy to reorganize it for
 computation. That's depressing. Depending on the inherent
 computational potential of matter, we can create powerful computers
 with the matter/energy available to us. But if we're surrounded by a
