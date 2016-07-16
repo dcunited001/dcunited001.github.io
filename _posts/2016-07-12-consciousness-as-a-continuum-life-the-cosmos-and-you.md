@@ -25,20 +25,44 @@ is a continuum that extends to some degree across all walks of
 life. Consciousness is our window to the world. It's how we experience
 the information that we experience.
 
+#### Language & Semiotics
+
 My thesis requires discussing language and semiotics, particularly how
-the former equips our mind with the tools it needs for
-abstraction. Also, I'll need to talk about entropy. Informational
-entropy lays the groundwork for how we exchange information and how
-our minds process information. Cosmic entropy sets the stage for
-discussing how matter is interconnected. We can trace matter back to
-the origin and we'll find that matter forms an intertangled graph I
-call the Quantum Web. This is important for laying the foundation for
-some more unexpected qualities of reality: particularly the quantum
-mechanical aspects of consciousness.
+the former equips our mind with the tools it needs for abstraction.
+I'll show that higher complexity semiotics results in higher
+consciousness and a greater capacity for abstraction. Also, I'll need
+to talk about entropy. Informational entropy lays the groundwork for
+how we exchange information and how our minds process information.
+
+#### Informational Entropy
+
+Informational entropy determines the complexity of the information
+that we can process and also the bandwidth of transmission of that
+information. This informational entropy is a measure of the complexity
+of semiotics. Languages or forms of communication that contain a small
+number of phonemes or symbols don't have very high bandwidth. With
+extremely low informational entropy, the we can't have complex
+grammers because there's not enough "space." E.G. A language with one
+vowel and two consonants.
+
+#### Cosmic Entropy and the Destiny of Humanity
+
+Cosmic entropy sets the stage for discussing how matter is
+interconnected. We can trace matter back to the origin and we'll find
+that matter forms an intertangled graph I call the Quantum Web. This
+is important for laying the foundation for some more unexpected
+qualities of reality: particularly the quantum mechanical aspects of
+consciousness.
+
+#### Notes on Speculation
 
 There's a lot of speculation in this article. Again, please do your
 own research. If you find something that's glaringly wrong, please
-comment about it.
+comment about it. Particularly, I'm unsure of the section on the
+Quantum Web. It sounds amazing and may set the stage for philosophy
+beyond the Singularity.
+
+#### In Conclusion, We May Merge with an Ancient Cosmic Internet
 
 In the conclusions from this information, hopefully we should be able
 to question our place in the universe. We may be part of something
@@ -46,6 +70,14 @@ ancient. There may be life all around us in the universe. The
 tumultuous times we are going through, they may not be so unique. Life
 can take many forms, but my hypothesis is that consciousness is the
 window we use to experience the world.
+
+#### The Cosmic Economy
+
+And if the Quantum Web is real, then it may be possible for our
+superintelligent AI born in the Singularity to merge with all or some
+alien superintelligences across the universe. This would have some
+interesting economic consequences in the universal knowledge economy.
+I'll talk about alien economics and cosmic ethics in a future article.
 
 ## What is Life?
 
@@ -71,12 +103,12 @@ further in
 [Neural Networks and Spider Brains](/posts/2015-11-21-neural-networks-and-spider-brains.html).
 
 As senses evolve, they provide us with a bigger window to that
-world. As our brains evolved, they provide us with a better processing
+world. As our brains evolve, they provide us with a better processing
 that expands that same window with aggregate information at various
 levels, expanding to the kind of consciousness that human beings
-experience. The kind that forces us to question why?
+experience. The kind that forces us to question => **Why?**
 
-#### Why am i here?
+#### Why am I here?
 
 #### What is my purpose?
 
@@ -90,7 +122,8 @@ internalizing it into little nodes: wetware computers driving the
 minds and actions of animals.
 
 In fact, life and especially self-aware life is the universe's means
-of becoming aware of itself.
+of becoming aware of itself. It's summerizing that experience of
+itself *inside itself*.
 
 ## Consciousness is a Continuum
 
@@ -210,7 +243,8 @@ Europa, then why not in the Sun?
 If life is just the persistence of information in the universe, then
 it should be everywhere. But if this definition is true, then what are
 we? Are we really that special? I think so. I think it's special for
-organic lifeforms to receive such prolonged stability.
+organic lifeforms to receive such prolonged stability as to develop
+philosophy and freedom from the lower rungs of Fermi's Paradox.
 
 ### Cosmic Entropy
 
