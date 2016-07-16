@@ -476,18 +476,19 @@ strategies and tactics.
 
 So why do it? Because there's so many people out there who don't have
 this knowledge. That's what the Facets of Greatness series is
-about. They stonewalled me. There might as well be a federal law that
-reads:
+about. They stonewalled me.
+
+#### There might as well be a federal law that reads:
 
 > David Conner is not fucking allowed to win; do not allow that
-> cheating twerp to win the turd at the bottom of a box of cereal; do
-> not lend him credence of any kind; do not allow others to develop
+> cheating twerp to win the turd at the bottom of a cereal box; do not
+> lend him credence of any kind; do not allow others to develop
 > favorable views of him; and constantly affirm accordance with this
 > law of the land by publicly chipping away at his credibility.
 
 ## So I Learned to Lead Leaders!
 
-#### It was Genius All Along
+#### That was My Genius All Along
 
 But even if I can't win myself, that doesn't mean that I can't fight
 the battle through others. This is partly what I've been doing all
