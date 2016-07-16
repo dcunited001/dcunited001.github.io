@@ -458,8 +458,6 @@ myself? What the fuck is that, anyways?
 
 ## Be the Leader I Wasn't Allowed to Become
 
-#### Hopefully I'm Helping Someone Grow
-
 As previously noted in the
 [Facets of Greatness](/posts/2016-05-12-facets-of-greatness-intro.html)
 series, revealing the extent of your ability to model a specific
@@ -473,6 +471,8 @@ Therefore, it's dumb for me to explain all this, isn't it? It's a
 that, to anyone on Capital Hill, might display entry level knowledge
 of tactics in politics. It might help my enemies deconstruct my own
 strategies and tactics.
+
+#### Hopefully I'm Helping Someone Grow
 
 So why do it? Because there's so many people out there who don't have
 this knowledge. That's what the Facets of Greatness series is
