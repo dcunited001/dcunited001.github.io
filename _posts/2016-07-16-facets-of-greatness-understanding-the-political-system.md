@@ -1,7 +1,8 @@
 ---
 title: "Facets of Greatness: Understanding the Political System"
 categories: "blog facets-of-greatness"
-tags: "business psychology leadership sociology savingtheworld philosophy"
+tags: "business psychology leadership sociology savingtheworld
+philosophy politics"
 headline: ""
 author:
   name: "David Conner"
