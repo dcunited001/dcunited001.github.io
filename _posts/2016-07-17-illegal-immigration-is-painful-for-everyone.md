@@ -161,6 +161,10 @@ illegal immigration affects each class differently.
         which should it be?
     - this should include people who are here because they overstayed
       their visa or whatever.
+    - mention that these immigrants help strengthen our economy
+      - they fill in gaps for skills we lack
+    - help contribute to diverse culture.
+      - diversity is the thing that sets america apart
 
 ## Illegal Immigrants
 
@@ -375,11 +379,13 @@ The jobs that are being taken are really the least of our concerns.
     - (2) they don't pay income taxes.
       - it's not like they are dancing their way to the bank though
 
-#### (3) Lack of Employment Rights
+#### (3) Employment Rights
 
     - (3) they don't have employment rights.
       - this leads to tension, risk and abuse in (illegal) employment
         agreements, where they have no options for recompense
+
+#### (4) Policy Response is Isolating
 
     - (4) domestic policies meant to stem the demand for cheap labor from
       illegal immigrants
@@ -389,6 +395,9 @@ The jobs that are being taken are really the least of our concerns.
       - they risk serious consequences of backlash from legal and
         illegal immigrants of specific ethnicities (not just limited
         to latin american ancestry)
+
+#### (5) Unintended Free Market Response to Policy Response
+
     - (5) illegal immigrants seeking work (to feed their families) are
       committing crimes by working.  employers hiring illegal
       immigrants are committing crimes by employing them.
@@ -400,7 +409,10 @@ The jobs that are being taken are really the least of our concerns.
           out."
       - people supporting illegal immigrants may also be committing
         crimes if they are knowingly doing so
-    - (6) their children can't receive education (depending on
+
+#### (6) Disparity in Education and Government Services
+
+- (6) their children can't receive education (depending on
       circumstance)
       - this leads to large amounts of idle, uneducated youth
         - it's bad. and when the issue is resolved, these children
@@ -413,7 +425,10 @@ The jobs that are being taken are really the least of our concerns.
           the workplace
           - because of a lack of education
           - or because a perceived lack of education
-    - (7) if strict policies on stemming demand for illegal immigrant
+
+#### (7) Strict Policies make things tough
+
+- (7) if strict policies on stemming demand for illegal immigrant
       employment are working, then things are going to get real hard
       for illegal immigrants, including those who would otherwise be
       "model uncitizens"
@@ -421,12 +436,18 @@ The jobs that are being taken are really the least of our concerns.
         hardship, with little options for money to resolve those
         problems.
       - that will lead people to partake in organized crime
-    - (8) these people will become culturally isolated from the rest
+
+#### (8) Cultural Isolation (repeated?)
+
+- (8) these people will become culturally isolated from the rest
       of america, having to live in the shadows, basically
       - major, major source of misunderstanding and conflict
       - i've never actually met someone that i know to be an illegal
         immigrant. never spoken to someone like that.
-    - (9) there is no assurance that these immigrants have valid
+
+#### (9) No Means of Identification (retitle bc they could have)
+
+- (9) there is no assurance that these immigrants have valid
       identification from another country
       - where do we send them back?
         - if they have no identification. they will probably lie and
@@ -435,7 +456,11 @@ The jobs that are being taken are really the least of our concerns.
         - someone may manipulate the system into getting a free plane
           ticket to basically anywhere they want
         - that's probably not actually such a serious threat though.
-    - (10) the burden of cost to monitor and deport is placed on taxpayers
+      - this one has national security written all over it
+
+#### (10) Burden of Cost is on Taxpayers
+
+- (10) the burden of cost to monitor and deport is placed on taxpayers
       - who can't be sure that there is a coherent strategy for
         actual resolution
       - this forms a bureaucracy, who's budget from year-to-year
@@ -449,7 +474,10 @@ The jobs that are being taken are really the least of our concerns.
         discussion.
         - overhang as in the incentives are like a really wobbly jenga
           tower.
-    - (11) implementation of policy risks fracturing families
+
+#### (11) Implementation Risks Fracturing Families
+
+- (11) implementation of policy risks fracturing families
       - when the discussion to construct a coherent policy never
         really occured.  or at least not to the extent that i would
         like to believe is necessary.
@@ -457,10 +485,26 @@ The jobs that are being taken are really the least of our concerns.
           i'm saying if no one knows the goals we are pushing towards
           with resolving illegal immigration, how can they know how to
           react?
-    - (12) and there's the major security risk when people connected
+
+#### (12) National Security Risk
+
+- (12) and there's the major security risk when people connected
       to terrorism try to slip in.
-    - (13) and if amnesty is announced, we can be sure that these
+
+
+#### (13) Can't Announce Policy Changes
+
+- (13) and if amnesty is announced, we can be sure that these
       people will try to slip in.
+
+#### (14) Stifled Policy Debate
+
+- furthermore, we can't really have an open debate here.
+  - partly because we can't talk about all the options on the table
+    because of effect that could have on behavior
+  - partly because of the PC Police scaring us into inaction by
+    raising the spectre of racism
+
 
 # What are the Answers?
 
