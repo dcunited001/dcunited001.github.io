@@ -106,6 +106,8 @@ are illegal immigrants, who entered the country illegally.
 Again, an oversimplification, but our domestic policies towards
 illegal immigration affects each class differently.
 
+
+
 Why draw this distinction between families who have been here since
 the sixties and those who are more recent immigrants? Aren't we all
 equally US Citizens? In the eyes of the law, yes. For all intensive
@@ -144,78 +146,13 @@ intensifies problems described later on. Those downstream problems are
 issues that foreign powers can subtly use to further demoralize and
 destabilize America by highlighting ethnic tensions.
 
-## Diversity is a Strength
+Read [Diversity is America's Strength]()
 
-####
-
-Our diversity is a strength, as long as it unifies us. It's a major
-strength. In fact, it is that "thing" that makes America different
-from anywhere else in the world. If America was a product, that is how
-I would want to market it and, in fact, that is exactly what we did at
-the turn of the 19th century.
-
-#### Greater Range of Ideas; Greater Range of Flexibility
-
-A diverse culture has a greater range of ideas to draw from. A diverse
-culture can't be easily subverted by misinformation because our
-response to events is less predictable and any such disruptive foreign
-policy strategy would need to account for a greater range of groups
-and ideas.
-
-When foreign or internal powers seek to divide us along ethnic
-boundaries, it weakens us, it causes pain, it stifles our progress on
-other issues, and it leaves lasting scars. When problems erupt along
-ethnic boundaries and things get bad enough, we could be dealing with
-the consequences of those problems for two generations. That kind of
-scar tissue is sensitive and can be triggered later on. We need a
-dialogue on racial and ethnic issues, if we ever want them to improve,
-but people on the extremes of any "side" need to calm down.
-
-*Diversity is a strength* as long as we are united through it. If we
-allow it to be used against us, if we act on it ourselves and
-exacerbate serious issues, then we are squandering the energy and
-political capital we could invest in other changes in our society. We
-have to address these concerns, so that they become our strength.
-
-Nowhere else in the entire world can you find more diversity than
-America! That is our strength! It is our brand. If there was
-nationalism in America, what would it look like? Nationalism is fueled
-by pride in one's nation. We should be proud of our diversity and
-determined to make it a strength. In America, nationalism shouldn't
-divide us along ethnic boundaries. It should unite us.
-
-##
-
-America is a microcosm of the world. Our world is lucky to have such a
-great nation, a superpower, where so many cultures flourish
-together. Yes, there is a ton of progress to be made, but
-overpopulation threatens the world like never before. Resources are
-dwindling. These are the causes that spark war, except they are going
-to occur on a global scale.
-
-In a way, America has been cursed by a legacy of centuries-old
-genocide and slavery. But in a way, we are blessed by it because here
-we are in the most powerful country in the world and we are forced to
-resolve these differences. We have to. Think about what it'd be like
-to live in a world where the handful of most powerful nations did not
-have much ethnic diversity. How would an overpopulation conflict play
-out then?
-
-####
-
-*Mark my words: what happens in America with regard to ethnic tensions
-is an indication of what will happen for the rest of the world.*
-Like I said, America is a microcosm. Our diversity here symbolically
-reflects the diversity everywhere else. If these problems boil over
-and promote instability, the same thing will happen the world over. So
-we seriously need to get our shit together and figure this out. As
-individuals, we have to be willing to turn the other cheek; to reach
-out; to seek understanding. If we do not do that here, now, it's an
-incredibly bad omen for the world in 2050.
 
 ## Citizens Since or Before the Baby Boomer Generation
 
-
+These are families that have been in America for around three or more
+generations.
 
     - +3 generation americans (roots in america since baby-boomer
       generation)
@@ -351,62 +288,8 @@ this? Tearing down the real segregation was bad enough. Five decades
 later and we're still dealing with long-term cultural problems from
 that. And ... we want another source of problems like that? Hell no!
 
-That's one reason I care enough to risk sounding like a insensitive
-shithead. Tolerance? Discrimination? How do we improve these? How can
-someone improve a social issue they can't talk about? Yes, we should
-be more tolerant! Absolutely! But we also have to be tolerant of
-people who are intolerant. That doesn't mean we should like it, no!
+(Link to section on resolving these tensions) [Diversity is America's Strength]()
 
-#### What Safe Space?
-
-(title)
-
-If you completely cut someone off who's been labelled as racist, what
-does that do? Has anyone in this country actually watched American
-History X? How does the character Lamont breakthrough to the neonazi
-character? Does he do it by ignoring that character? Avoiding him?
-Isolating him? No! Just the opposite.
-
-#### Respond to Intolerance with Tolerance
-
-If we want to resolve ethnic tensions in America, we need
-communication and we can't immediately respond to a differing
-viewpoint by escalating tension. We have to respond to intolerance
-itself with tolerance!
-
-> Just to clarify, the following is not a critique on Black Lives
-> Matter protestors, but instead is advice for any social movement.
-
-#### Speak Through Tremendous Action
-
-Watch how people react to those who disagree with them. I admire
-people like Gandhi and Dr. King because they dealt with a lot of
-outright injustice and they did it with grace! They knew their actions
-spoke more powerfully than any words they could ever utter. They knew
-they were surrounded by people who wanted change and people who were
-vitriously opposed to it.
-
-#### Truth as a Strategy
-
-But, how did they respond? They allowed their actions to speak for
-themselves and they allowed their opponents actions to speak for their
-opponents and they believed that people would see things as they
-were. That is it! Their strategy was truth! Truth and nothing more!
-
-#### Truth and Loving Our Enemy
-
-Except perhaps loving their enemy enough to grant him or her
-forgiveness for their ignorance. And they suffered for this. They
-suffered through the ignorance and intolerance, but maintained the
-grace to forgive their enemies, right through the midst of it all.
-It's not easy to maintain your inner peace in the middle of some grave
-injustice.
-
-There are too many people on all sides with insensitive and/or flat
-out wrong viewpoints. Some of my own viewpoints are insensitive.  I'm
-sorry if that's the case. I absolutely do not condone or intend to
-encourage any kind of racist or intolerant bullshit. We need to come
-together in this country.
 
 ## the pros don't outweigh the cons
 
