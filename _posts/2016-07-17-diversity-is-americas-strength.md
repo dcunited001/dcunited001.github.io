@@ -14,6 +14,9 @@ from anywhere else in the world. If America was a product, that is how
 I would want to market it and, in fact, that is exactly what we did at
 the turn of the 19th century.
 
+# ToC
+
+
 ### Greater Range of Ideas; Greater Range of Flexibility
 
 A diverse culture has a greater range of ideas to draw from. A diverse
@@ -74,7 +77,66 @@ individuals, we have to be willing to turn the other cheek; to reach
 out; to seek understanding. If we do not do that here, now, it's an
 incredibly bad omen for the world in 2050.
 
+
 ###
+
+(grammatical typo)
+
+That's one reason I care enough to risk sounding like a insensitive
+shithead... Occasionally. Tolerance? Discrimination? How do we improve
+these? How can someone improve a social issue they can't talk about?
+Yes, we should be more tolerant! Absolutely! But we also have to be
+tolerant of people who are intolerant. That doesn't mean we should
+like it, no!
+
+If you completely cut someone off who's been labelled as racist, what
+does that do? Has anyone in this country actually watched American
+History X? How does the character Lamont breakthrough to the neonazi
+character? Does he do it by ignoring that character? Avoiding him?
+Isolating him? No! Just the opposite.
+
+#### Respond to Intolerance with Tolerance
+
+If we want to resolve ethnic tensions in America, we need
+communication and we can't immediately respond to a differing
+viewpoint by escalating tension. We have to respond to intolerance
+itself with tolerance!
+
+> Just to clarify, the following is not a critique on Black Lives
+> Matter protestors, but instead is advice for any social movement.
+
+#### Speak Through Tremendous Action
+
+Watch how people react to those who disagree with them. I admire
+people like Gandhi and Dr. King because they dealt with a lot of
+outright injustice and they did it with grace! They knew their actions
+spoke more powerfully than any words they could ever utter. They knew
+they were surrounded by people who wanted change and people who were
+vitriously opposed to it.
+
+#### Truth as a Strategy
+
+But, how did they respond? They allowed their actions to speak for
+themselves and they allowed their opponents actions to speak for their
+opponents and they believed that people would see things as they
+were. That is it! Their strategy was truth! Truth and nothing more!
+
+#### Truth and Loving Our Enemy
+
+Except perhaps loving their enemy enough to grant him or her
+forgiveness for their ignorance. And they suffered for this. They
+suffered through the ignorance and intolerance, but maintained the
+grace to forgive their enemies, right through the midst of it all.
+It's not easy to maintain your inner peace in the middle of some grave
+injustice.
+
+There are too many people on all sides with insensitive and/or flat
+out wrong viewpoints. Some of my own viewpoints are insensitive.  I'm
+sorry if that's the case. I absolutely do not condone or intend to
+encourage any kind of racist or intolerant bullshit. We need to come
+together in this country.
+
+#
 
 From 2009 through 2013, I felt unfairly labeled as a racist,
 occassionally. I don't know how it happened.  For a variety of
@@ -133,9 +195,9 @@ indicated to them that they should shut the fuck up because they don't
 know what they are talking about and race is a sensitive subject that
 shouldn't be approached without care? If someone understood people
 
-well enough to know they could get away with falsely labelling someone
-like that ... then shouldn't they have the foresight to understand how
-that wrongfully directed negativity might contribute to someone's
+Well enough to know they could get away with falsely labelling someone
+like that ... Then, shouldn't they have the foresight to understand
+how that wrongfully directed negativity might contribute to someone's
 personal feelings on race? In other words, negativity begets
 negativity. Someone well versed in group dynamics, sociology and
 psychology should be able to see that's a possible consequence of
@@ -178,76 +240,24 @@ want every single fucking person on the planet to examine my life
 under a goddamn microscope and verify for themselves: DAVID CONNER IS
 NOT A FUCKING RACIST YOU FUCKING ASSHOLES.
 
+I am not claiming that I am a perfect person. I have made some poor
+statements, but I have seriously had it with this shit. There's no one
+left to stand up for me and I am tired of being held up as an example
+of what is truly my antithesis. And it's not just being labelled as
+racist. It extends to other things as well.
 
+And it is infuriating that I find myself socially isolated and
+everyone else tells my story for me. The world doesn't really hear
+what I have to say and I never actually get the chance to make a first
+impression because someone has already gone ahead of me to sling the
+muck before I even get the chance to say "Hi, my name is David
+Conner." If I do move to somewhere, by myself, where no one knows me
+-- as I have done two or three times -- and I disconnect my Facebook,
+it's only a matter of time before that smeared, discredited image
+catches up to me.
 
-
-I am not claiming that I am a perfect person, but I have seriously had
-it with this shit. There's no one left to stand up for me and I am
-tired of being held up as an example of what is truly my
-antithesis. I'm tired of it because I have sacrificed a lot of
-opportunities to maintain specific political viewpoints and to have
-some issue like that just carelessly tossed around to discredit me is
-bullshit! Someone that does that, knowingly, willingly? They need to
-go piss on a powerline.
-
-
-
-###
-
-(grammatical typo)
-
-That's one reason I care enough to risk sounding like a insensitive
-shithead... Occasionally. Tolerance? Discrimination? How do we improve
-these? How can someone improve a social issue they can't talk about?
-Yes, we should be more tolerant! Absolutely! But we also have to be
-tolerant of people who are intolerant. That doesn't mean we should
-like it, no!
-
-
-
-If you completely cut someone off who's been labelled as racist, what
-does that do? Has anyone in this country actually watched American
-History X? How does the character Lamont breakthrough to the neonazi
-character? Does he do it by ignoring that character? Avoiding him?
-Isolating him? No! Just the opposite.
-
-#### Respond to Intolerance with Tolerance
-
-If we want to resolve ethnic tensions in America, we need
-communication and we can't immediately respond to a differing
-viewpoint by escalating tension. We have to respond to intolerance
-itself with tolerance!
-
-> Just to clarify, the following is not a critique on Black Lives
-> Matter protestors, but instead is advice for any social movement.
-
-#### Speak Through Tremendous Action
-
-Watch how people react to those who disagree with them. I admire
-people like Gandhi and Dr. King because they dealt with a lot of
-outright injustice and they did it with grace! They knew their actions
-spoke more powerfully than any words they could ever utter. They knew
-they were surrounded by people who wanted change and people who were
-vitriously opposed to it.
-
-#### Truth as a Strategy
-
-But, how did they respond? They allowed their actions to speak for
-themselves and they allowed their opponents actions to speak for their
-opponents and they believed that people would see things as they
-were. That is it! Their strategy was truth! Truth and nothing more!
-
-#### Truth and Loving Our Enemy
-
-Except perhaps loving their enemy enough to grant him or her
-forgiveness for their ignorance. And they suffered for this. They
-suffered through the ignorance and intolerance, but maintained the
-grace to forgive their enemies, right through the midst of it all.
-It's not easy to maintain your inner peace in the middle of some grave
-injustice.
-
-There are too many people on all sides with insensitive and/or flat
-out wrong viewpoints. Some of my own viewpoints are insensitive.  I'm
-sorry if that's the case. I absolutely do not condone or intend to
-encourage any kind of racist or intolerant bullshit. We need to come
-together in this country.
+I'm tired of it because I have sacrificed a lot of opportunities to
+maintain specific political viewpoints. To have some issue like that
+just carelessly tossed around to discredit me is bullshit! Someone
+that does that, knowingly, willingly? They need to go piss on a
+powerline.
