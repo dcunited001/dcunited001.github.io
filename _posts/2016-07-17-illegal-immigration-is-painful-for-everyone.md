@@ -108,11 +108,39 @@ are illegal immigrants, who entered the country illegally.
 Again, it's an oversimplification, but our domestic policies towards
 illegal immigration affects each class differently.
 
+========
+
+Why draw this distinction between families who have been here since
+the sixties and those who are more recent immigrants? Aren't we all
+equally US Citizens? In the eyes of the law, yes. For all intensive
+purposes, yes. I'm not arguing some people are more American and
+others are less American.
+
+Unfortunately, the effects from illegal immigration affect people
+differently along generational and ethnic lines. Hispanic families
+who've been here since the sixties may feel much differently about
+policies than those who immigrated here in the nineties. But both
+families may feel the effects of misappropriated prejudice ... as if
+prejudice could ever be justified.
+
+- the issue is stirring up tensions in america along ethnic boundaries
+  and then causing people who are longtime US citizens to get hurt for
+  no good reason at all.
+  - note that this causes our own people to turn against themselves
+  - this further strains tensions in america along ethnic boundaries
+  - this gives our enemies abroad fodder to use as rheteric against
+    america. (oh they're racist/look at how X people is treated/etc)
+    - this is the kind of rhetoric that can be used by foreign powers
+      to divide us along ethnic bounderies
+  - our diversity is a strength, as long as it unifies us.
+    - when foreign/internal powers seek to divide us along ethnic
+      boundaries, it weakens us.
+    - so we have to address these concerns, so these things cannot be
+      used against us.
+
 ## Citizens Since or Before the Baby Boomer Generation
 
 
-- why draw this distinction? aren't we all equally US Citizens? Well,
-  yes, in the eyes of the law.
 
     - +3 generation americans (roots in america since baby-boomer
       generation)
@@ -128,9 +156,9 @@ illegal immigration affects each class differently.
 ## Citizens Since or After Generation X
 
 
-      - people who just became citizens might not have such
-        extensive roots. when things go wrong, it might be harder
-        for them to reach out.
+- people who just became citizens might not have such extensive
+        roots. when things go wrong, it might be harder for them to
+        reach out.
       - or, if they are feeling the effects ethnic discrimination,
         when they're citizens and have been, how do you think that's
         going to make these people feel?
