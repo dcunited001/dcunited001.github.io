@@ -130,8 +130,65 @@ create a negative, corrosive feedback loop, driving people to
 experience negativity by being labelled as racist when they are not?
 Or when direct, straightforward statements to that person would have
 indicated to them that they should shut the fuck up because they don't
-know what they are talking about and race is a sensitve subject that
-shouldn't be approached without care?
+know what they are talking about and race is a sensitive subject that
+shouldn't be approached without care? If someone understood people
+
+well enough to know they could get away with falsely labelling someone
+like that ... then shouldn't they have the foresight to understand how
+that wrongfully directed negativity might contribute to someone's
+personal feelings on race? In other words, negativity begets
+negativity. Someone well versed in group dynamics, sociology and
+psychology should be able to see that's a possible consequence of
+their actions, right? ... But they don't care? They don't care that
+the end result of their action contributes to the opposite of their
+ostensible goal of acting against racism?
+
+The only thing I'm trying to say here is that this happened to me
+*several times* from 2009 through 2013. And guess what? Each time, the
+person was a white guy. With strong left-leaning tendencies. A fucking
+white guy stirring up some serious muck. I am so angry even writing
+about this right now. This is not to say that we can't stand up for
+each other and correct others who make racist statements...
+
+But what *exactly* are your intentions? You want these issues to get
+better, right? Because if someone uses an issue like this, oh my !@#$!
+$#@! that is the most blindingly ignorant bullshit I can imagine. It's
+one thing to have a misunderstanding. It's another thing to willfully
+label someone falsely to discredit them, while being completely
+capable of understanding that the indirect consequences of doing so
+might actually contribute to exacerbating a problem you claim to care
+so much about. And to top it off, this requires a few weeks of minor
+actions and talking behind my back and not a single instance of one of
+these people directly talking to me about it. So I think we can see,
+if someone did do this, they didn't care about the issue, they cared
+about discrediting me! That's bullshit!
+
+Why am I blogging about this? First off, let me tell you that I am not
+an expert on the subject of race relations or diversity. In fact, I've
+been thinking of watching some Coursera lectures on a class like that,
+just so that I don't misstep and say the wrong thing. I think doing so
+would benefit myself greatly. Usually, I just keep my mouth shut. That
+usually works pretty good, unless you're the quiet guy who finds
+himself targeted to be discredited and only God knows why.
+
+But why would I blog about it? Because I want people to hear me say
+this. I want to make it *loud and clear*. I wouldn't care if everyone
+on the goddamn planet could hear me. In fact, I would want them to. I
+want every single fucking person on the planet to examine my life
+under a goddamn microscope and verify for themselves: DAVID CONNER IS
+NOT A FUCKING RACIST YOU FUCKING ASSHOLES.
+
+
+
+
+I am not claiming that I am a perfect person, but I have seriously had
+it with this shit. There's no one left to stand up for me and I am
+tired of being held up as an example of what is truly my
+antithesis. I'm tired of it because I have sacrificed a lot of
+opportunities to maintain specific political viewpoints and to have
+some issue like that just carelessly tossed around to discredit me is
+bullshit! Someone that does that, knowingly, willingly? They need to
+go piss on a powerline.
 
 
 
