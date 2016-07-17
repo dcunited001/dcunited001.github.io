@@ -59,8 +59,6 @@ fucking wall, but we need it. The wall is mostly a symbol, by the
 way. I don't care what the !@#$ it is, so long as it means that the
 number of people crossing the border slows to a trickle.
 
-
-
 ## Why is it Challenging?
 
 ### Future Consequences of a Poor Policy
@@ -105,38 +103,115 @@ are immigrants working or studying in the country on a visa. I would
 include those staying on an expired visa in this class. Finally, there
 are illegal immigrants, who entered the country illegally.
 
-Again, it's an oversimplification, but our domestic policies towards
+Again, an oversimplification, but our domestic policies towards
 illegal immigration affects each class differently.
-
-========
 
 Why draw this distinction between families who have been here since
 the sixties and those who are more recent immigrants? Aren't we all
 equally US Citizens? In the eyes of the law, yes. For all intensive
 purposes, yes. I'm not arguing some people are more American and
-others are less American.
+others are less American. But, this issue is nuanced in regard to
+various demographics.
 
 Unfortunately, the effects from illegal immigration affect people
 differently along generational and ethnic lines. Hispanic families
 who've been here since the sixties may feel much differently about
 policies than those who immigrated here in the nineties. But both
 families may feel the effects of misappropriated prejudice ... as if
-prejudice could ever be justified.
+prejudice could ever be properly appropriated.
 
-- the issue is stirring up tensions in america along ethnic boundaries
-  and then causing people who are longtime US citizens to get hurt for
-  no good reason at all.
-  - note that this causes our own people to turn against themselves
-  - this further strains tensions in america along ethnic boundaries
-  - this gives our enemies abroad fodder to use as rheteric against
-    america. (oh they're racist/look at how X people is treated/etc)
-    - this is the kind of rhetoric that can be used by foreign powers
-      to divide us along ethnic bounderies
-  - our diversity is a strength, as long as it unifies us.
-    - when foreign/internal powers seek to divide us along ethnic
-      boundaries, it weakens us.
-    - so we have to address these concerns, so these things cannot be
-      used against us.
+As more people illegally cross into America, the effects of this issue
+and those nuanced responses to it become more pronounced. It stirs up
+tensions in America along ethnic boundaries, causing people who are
+long-time US citizens to get hurt for no good reason at all. Our own
+citizens are redirecting the tension on themselves, further straining
+tensions along ethnic boundaries.
+
+A third party can approach this issue in an obtuse manner to
+demoralize us, using it as rhetoric against America. When it's career
+suicide to mistakenly state a single politically incorrect phrase, the
+discussion stagnates on this issue and others. There's a good reason
+for strong response to insensitive and politically incorrect
+statements. But, in a democracy, silencing that discussion can enable
+internal and external factions to stifle change. It prevents America
+from responding to America's problems.
+
+For illegal immigration, lack of dialogue here means failure to act on
+an issue that should be simple to fix. Over the course of decades,
+this leads to serious problems. In and of itself, the issue isn't that
+big of a deal. Downstream, inaction with this specific issue
+intensifies problems described later on. Those downstream problems are
+issues that foreign powers can subtly use to further demoralize and
+destabilize America by highlighting ethnic tensions.
+
+## Diversity is a Strength
+
+####
+
+Our diversity is a strength, as long as it unifies us. It's a major
+strength. In fact, it is that "thing" that makes America different
+from anywhere else in the world. If America was a product, that is how
+I would want to market it and, in fact, that is exactly what we did at
+the turn of the 19th century.
+
+#### Greater Range of Ideas; Greater Range of Flexibility
+
+A diverse culture has a greater range of ideas to draw from. A diverse
+culture can't be easily subverted by misinformation because our
+response to events is less predictable and any such disruptive foreign
+policy strategy would need to account for a greater range of groups
+and ideas.
+
+When foreign or internal powers seek to divide us along ethnic
+boundaries, it weakens us, it causes pain, it stifles our progress on
+other issues, and it leaves lasting scars. When problems erupt along
+ethnic boundaries and things get bad enough, we could be dealing with
+the consequences of those problems for two generations. That kind of
+scar tissue is sensitive and can be triggered later on. We need a
+dialogue on racial and ethnic issues, if we ever want them to improve,
+but people on the extremes of any "side" need to calm down.
+
+*Diversity is a strength* as long as we are united through it. If we
+allow it to be used against us, if we act on it ourselves and
+exacerbate serious issues, then we are squandering the energy and
+political capital we could invest in other changes in our society. We
+have to address these concerns, so that they become our strength.
+
+Nowhere else in the entire world can you find more diversity than
+America! That is our strength! It is our brand. If there was
+nationalism in America, what would it look like? Nationalism is fueled
+by pride in one's nation. We should be proud of our diversity and
+determined to make it a strength. In America, nationalism shouldn't
+divide us along ethnic boundaries. It should unite us.
+
+##
+
+America is a microcosm of the world. Our world is lucky to have such a
+great nation, a superpower, where so many cultures flourish
+together. Yes, there is a ton of progress to be made, but
+overpopulation threatens the world like never before. Resources are
+dwindling. These are the causes that spark war, except they are going
+to occur on a global scale.
+
+In a way, America has been cursed by a legacy of centuries-old
+genocide and slavery. But in a way, we are blessed by it because here
+we are in the most powerful country in the world and we are forced to
+resolve these differences. We have to. Think about what it'd be like
+to live in a world where the handful of most powerful nations did not
+have much ethnic diversity. How would an overpopulation conflict play
+out then?
+
+####
+
+*Mark my words: what happens in America with regard to ethnic tensions
+is an indication of what will happen for the rest of the world.*
+Like I said, America is a microcosm. Our diversity here symbolically
+reflects the diversity everywhere else. If these problems boil over
+and promote instability, the same thing will happen the world over. So
+we seriously need to get our shit together and figure this out. As
+individuals, we have to be willing to turn the other cheek; to reach
+out; to seek understanding. If we do not do that here, now, it's an
+incredibly bad omen for the world in 2050.
 
 ## Citizens Since or Before the Baby Boomer Generation
 
