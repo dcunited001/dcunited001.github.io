@@ -16,22 +16,19 @@ likely to disagree with me (on a reactive, knee-jerk basis)
 wtf else can i say instead of "it's important" .. "it's crucial"
 ... eugh. need more expressive language...
 
-concise, clearly stated thesis: ???
-- followed by intro,
-
 Illegal immigration is a serious long-term issue. Not to be alarmist,
 but it's a bit of a powder keg. The further we let it go on, the worse
 it gets. Regardless of who's side you're on, you need to hear me out.
 The truth is, there aren't "sides" on this issue; it is painful for
 everyone involved!
 
-## Illegal Immigration Hurts, Whether You Are:
+### Illegal Immigration Hurts, Whether You Are:
 
-#### From A Family with Four Hundred Year Old Roots in America
+#### &#x2605; From A Family with Four Hundred Year Old Roots in America
 
-#### The Child of Immigrant Parents Who Struggled to Get here
+#### &#x2605; The Child of Immigrant Parents Who Struggled to Get here
 
-#### Part of a Family Who Illegally Crossed into America Chasing Opportunity
+#### &#x2605; Part of a Family Who Illegally Crossed into America Chasing Opportunity
 
 In 5,000 words or less, I'm going to provide you with the realest
 summary of why it's a painful issue for everyone involved. You'll be
@@ -64,113 +61,13 @@ number of people crossing the border slows to a trickle.
 
 
 
+## Why is it Challenging?
 
-### Why it's hard
+### Future Consequences of a Poor Policy
 
-Why is it such a hard problem to tackle? Honestly, America has way
-bigger problems *at the moment*. Yet, the more time passes, the harder
-this becomes to resolve. The solutions will be more expensive and
-tensions will be higher, stagnating policy change. Worse still, with
-each year that passes, the consequences of inaction become
-increasingly severe, including long-lasting cultural problems!
+### Longterm Ethnic Tension is Agony
 
-> **E.G.** You put up a forcefield and stop people from entering the
-> country. You then grant everyone amnesty. Ok, problem solved, right?
-> **WRONG!!** Now you have a dozen million people, potentially bitter,
-> who lack the same level of education. They don't have resumes and
-> they don't have very much money either.
-
-So, have you actually thought out how these policies will play out?
-OK, so then, aside from national security, what is the single, worst
-aspect of illegal immigration? It is the cultural isolation. The de
-facto consequences here might as well be segregation. And we
-absolutely can not have a segment of our population, long deprived of
-education and employment opportunities, who is isolated along mostly
-ethnic boundaries!
-
-## Notes on Longterm Ethnic Tension
-
-(rename title)
-
-I cannot emphasize this enough. That kind of crap ferments
-longstanding ethnic tension. The kind of problems that cannot simply
-be resolved. And yet, our inaction is going to further contribute to
-this? Tearing down the real segregation was bad enough. Five decades
-later and we're still dealing with long-term cultural problems from
-that. And ... we want another source of problems like that? Hell no!
-
-That's one reason I care enough to risk sounding like a insensitive
-shithead. Tolerance? Discrimination? How do we improve these? How can
-someone improve a social issue they can't talk about? Yes, we should
-be more tolerant! Absolutely! But we also have to be tolerant of
-people who are intolerant. That doesn't mean we should like it, no!
-But if you completely cut someone off who's been labelled as racist,
-what does that do? Has anyone in this country actually watched
-American History X? How does the character Lamont breakthrough to the
-neonazi character? Does he do it by ignoring that character? Avoiding
-him? Isolating him? No! Just the opposite.
-
-If we want to resolve ethnic tensions in America, we need
-communication and we can't immediately respond to a differing
-viewpoint by escalating tension. We have to respond to intolerance
-itself with tolerance!
-
-> Just to clarify, the following is not a critique on Black Lives
-> Matter protestors, but instead is advice for any social movement.
-
-Watch how people react to those who disagree with them. I admire
-people like Gandhi and Dr. King because they dealt with a lot of
-outright injustice and they did it with grace! They knew their actions
-spoke more powerfully than any words they could ever utter. They knew
-they were surrounded by people who wanted change and people who were
-vitriously opposed to it. But, how did they respond? They allowed
-their actions to speak for themselves and they allowed their opponents
-actions to speak for their opponents and they believed that people
-would see things as they were.
-
-That is it! Their strategy was truth! Truth and nothing more! Except
-perhaps loving their enemy enough to grant him or her forgiveness for
-their ignorance. And they suffered for this. They suffered through the
-ignorance and intolerance, but maintained the grace to forgive their
-enemies as they marched through the midst of it all.
-
-So yes, there are a lot of people on all sides with insensitive and/or
-flat out wrong viewpoints. Some of my own viewpoints are insensitive.
-I'm sorry if that's the case. I absolutely do not condone or intend to
-encourage any kind of racist or intolerant bullshit. We need to come
-together in this country.
-
-However, if being "tolerant" means tiptoeing around immigration and if
-it's racist to say that there are people in this country who came here
-illegally, how the !@#$ are we going to resolve these problems? And if
-you supposedly stand opposed to intolerance and racism, I hate to tell
-you, but your inaction here is going to make those problems worse!
-
-
-
-the more complicated the consequences on
-inaction will become. These include, ncluding some very serious,
-long-lasting cultural problems, which
-
-- illegal immigration is a powder keg
-  - it's a serious long-term issue
-    - that doesn't present enough incentives to be resolved
-      - which is precisely why it's so dangerous: current trends in
-        policy, while promising (i need more info, just assuming there
-        has been some progress here) are not nearly enough
-      - there just aren't enough benefits, politically, to really
-        tackle this issue
-
-    - honestly, we have way bigger problems *at the moment*
-      - yet, the more time passes, the harder this becomes to resolve
-      - and by acting like it's not a big deal really puts us at risk
-        of lackluster progress
-        - or acting like we have taken appropriate action to solve the
-          problem, instead of pushing the envelope with our discussion
-      - basically, if it continues for another decade or so, we risk
-        to having to deal with 6% of the population, instead of 3%
-
-# Overview
+### Why Don't People Act?
 
 ### Why Should You Care?
 
@@ -186,22 +83,37 @@ long-lasting cultural problems, which
 
 # What are the Answers?
 
+<a name="illegal-immigration-is-painful-for-everyone" />
 
-- (1) provide a definitive, balanced statement of illegal immigration
-  - why is it a problem? why should you care?
-    - establish that this problem is felt differently for different
-      groups of people.
-    - if you care about problems stemming from ethnic tensions,
-      then you would want to resolve this earlier than later
-      - because every year, the problem gets worse
-      - and the larger the disparity there is between legal and
-        illegal populations, the larger the ethnic tension there will
-        be. so again, if you care about fallout from ethnic tension,
-        then you'll want to do something about it sooner than later.
-      - there are 11 million people in the country illegally now
-        - if this number is 20 million instead, then that approaches
-          0.5% to 1.0% of the population!
-  - who feels this problem and why?
+# [Illegal Immigration is Painful for Everyone](#illegal-immigration-is-painful-for-everyone)
+
+Illegal immigration is an issue where everyone is affected, regardless
+of how it personally affects you. It's an issue where everyone should
+want to pursue policy changes for their own benefit. Instead, the
+debate in this country frames the discussion in terms of race and
+ethnicity. This is counterproductive because there are domestic
+policy changes would would be beneficial for everyone, even the people
+here illegally! And my motivation for writing this is partly derived
+from my concern for the problems they face.
+
+In an oversimplification, I'm going to divide families and people
+living in America into four classes of citizenship. There are those
+who have been citizens since the Baby Boomer generation or
+before. Next, there are American families who have been citizens since
+or after Generation X. These are more recent immigrants. Third, there
+are immigrants working or studying in the country on a visa. I would
+include those staying on an expired visa in this class. Finally, there
+are illegal immigrants, who entered the country illegally.
+
+Again, it's an oversimplification, but our domestic policies towards
+illegal immigration affects each class differently.
+
+## Citizens Since or Before the Baby Boomer Generation
+
+
+- why draw this distinction? aren't we all equally US Citizens? Well,
+  yes, in the eyes of the law.
+
     - +3 generation americans (roots in america since baby-boomer
       generation)
       - i need to emphacize that i'm not saying that these people are
@@ -212,7 +124,10 @@ long-lasting cultural problems, which
           - large support networks when things go wrong. they probably
             know a few dozen family members, possibly in their own
             city
-    - 1st & 2nd generation americans
+
+## Citizens Since or After Generation X
+
+
       - people who just became citizens might not have such
         extensive roots. when things go wrong, it might be harder
         for them to reach out.
@@ -225,6 +140,9 @@ long-lasting cultural problems, which
         - remember, these are people who worked hard to find
           a way to get here. they came to america for a reason, even
           though it was tough.
+
+## Immigrants on Visa (title)
+
     - legal immigrants working on a visa/etc
       - these may be the least integrated people. i've been in a
         similar position, where i was living in a place and i didn't
@@ -241,6 +159,11 @@ long-lasting cultural problems, which
       - so, which experience would you prefer? if we could make one
         or the other experience happen more often in this country,
         which should it be?
+    - this should include people who are here because they overstayed
+      their visa or whatever.
+
+## Illegal Immigrants
+
     - illegal immigrants
       - they are perhaps the worst off in this whole situation.
       - the policies at the state and federal level seek to punish
@@ -251,7 +174,7 @@ long-lasting cultural problems, which
         Dream.
       - so it's tough out there for people who are here illegally.
 
-    - illegal immigrants are criminals, by definition
+  - btw, illegal immigrants are criminals, by definition
       - but this statement doesn't actually make any judgements about
         their character
       - by definition someone labelled as an "illegal immigrant" must
@@ -261,12 +184,12 @@ long-lasting cultural problems, which
       - fleeing bad circumstances in latin america or south america
       - to pursue the american dream for themselves or their children
 
-  - far and beyond, the biggest problem is national security
-      - you just can't, especially not in the 21st century. not in
-        america. that's just a giant red flag. we're worried about al
-        qaeda, but 11 million people just walked on in? man, that's 11
-        million chances for some terrible organization to have already
-        snuck someone in.
+# Why is it Challenging?
+
+Why is it such a hard problem to tackle? Honestly, America has way
+bigger problems *at the moment*. Yet, the more time passes, the harder
+this becomes to resolve. The solutions will be more expensive and
+tensions will be higher, stagnating policy change.
 
 - (2) why is it so hard to solve?
   - basically no one wants to do what it takes to fix the problem
@@ -291,6 +214,154 @@ long-lasting cultural problems, which
       problems.
       - obviously, there is an opportunity for racism. it would
         definitely
+
+
+## Future Consequences of a Poor Policy
+
+With each year that passes, the consequences of inaction become
+increasingly severe, including long-lasting cultural problems!
+
+> **E.G.** You put up a forcefield and stop people from entering the
+> country. You then grant everyone amnesty. Ok, problem solved, right?
+> **WRONG!!** Now you have a dozen million people, potentially bitter,
+> who lack the same level of education. They don't have resumes and
+> they don't have very much money either.
+
+So, have you actually thought out how these policies will play out?
+OK, so then, aside from national security, what is the single, worst
+aspect of illegal immigration? It is the cultural isolation. The de
+facto consequences here might as well be segregation. And we
+absolutely can not have a segment of our population, long deprived of
+education and employment opportunities, who is isolated along mostly
+ethnic boundaries!
+
+## Longterm Ethnic Tension is Agony
+
+I cannot emphasize this enough. That kind of crap ferments
+longstanding ethnic tension. The kind of problems that cannot simply
+be resolved. And yet, our inaction is going to further contribute to
+this? Tearing down the real segregation was bad enough. Five decades
+later and we're still dealing with long-term cultural problems from
+that. And ... we want another source of problems like that? Hell no!
+
+That's one reason I care enough to risk sounding like a insensitive
+shithead. Tolerance? Discrimination? How do we improve these? How can
+someone improve a social issue they can't talk about? Yes, we should
+be more tolerant! Absolutely! But we also have to be tolerant of
+people who are intolerant. That doesn't mean we should like it, no!
+
+#### What Safe Space?
+
+(title)
+
+If you completely cut someone off who's been labelled as racist, what
+does that do? Has anyone in this country actually watched American
+History X? How does the character Lamont breakthrough to the neonazi
+character? Does he do it by ignoring that character? Avoiding him?
+Isolating him? No! Just the opposite.
+
+#### Respond to Intolerance with Tolerance
+
+If we want to resolve ethnic tensions in America, we need
+communication and we can't immediately respond to a differing
+viewpoint by escalating tension. We have to respond to intolerance
+itself with tolerance!
+
+> Just to clarify, the following is not a critique on Black Lives
+> Matter protestors, but instead is advice for any social movement.
+
+#### Speak Through Tremendous Action
+
+Watch how people react to those who disagree with them. I admire
+people like Gandhi and Dr. King because they dealt with a lot of
+outright injustice and they did it with grace! They knew their actions
+spoke more powerfully than any words they could ever utter. They knew
+they were surrounded by people who wanted change and people who were
+vitriously opposed to it.
+
+#### Truth as a Strategy
+
+But, how did they respond? They allowed their actions to speak for
+themselves and they allowed their opponents actions to speak for their
+opponents and they believed that people would see things as they
+were. That is it! Their strategy was truth! Truth and nothing more!
+
+#### Truth and Loving Our Enemy
+
+Except perhaps loving their enemy enough to grant him or her
+forgiveness for their ignorance. And they suffered for this. They
+suffered through the ignorance and intolerance, but maintained the
+grace to forgive their enemies, right through the midst of it all.
+It's not easy to maintain your inner peace in the middle of some grave
+injustice.
+
+There are too many people on all sides with insensitive and/or flat
+out wrong viewpoints. Some of my own viewpoints are insensitive.  I'm
+sorry if that's the case. I absolutely do not condone or intend to
+encourage any kind of racist or intolerant bullshit. We need to come
+together in this country.
+
+## the pros don't outweigh the cons
+
+The illegal immigration debate in America is messy. The PC police
+prevent people from...
+
+- title should imply that there aren't enough perceived benefits to
+  justify the implementation of policy
+  - stifled discussion doesn't allow us to have the conversation that
+    would allow the public to understand the things they need to know
+    for the issue to accumulate the momentum it needs for action
+    - jesus this is like the worst sentence ever.
+    - i need that in like 3 words
+
+However, if being "tolerant" means tiptoeing around immigration and if
+it's racist to say that there are people in this country who came here
+illegally, how the !@#$ are we going to resolve these problems? And if
+you supposedly stand opposed to intolerance and racism, I hate to tell
+you, but your inaction here is going to make those problems worse!
+
+    - that doesn't present enough incentives to be resolved
+      - which is precisely why it's so dangerous: current trends in
+        policy, while promising (i need more info, just assuming there
+        has been some progress here) are not nearly enough
+      - there just aren't enough benefits, politically, to really
+        tackle this issue
+
+    - and by acting like it's not a big deal really puts us at risk
+        of lackluster progress
+        - or acting like we have taken appropriate action to solve the
+          problem, instead of pushing the envelope with our discussion
+      - basically, if it continues for another decade or so, we risk
+        to having to deal with 6% of the population, instead of 3%
+
+# Why is it a problem?
+
+(summarize, then lead into list of problems)
+
+- (1) provide a definitive, balanced statement of illegal immigration
+  - why is it a problem? why should you care?
+    - establish that this problem is felt differently for different
+      groups of people.
+    - if you care about problems stemming from ethnic tensions,
+      then you would want to resolve this earlier than later
+      - because every year, the problem gets worse
+      - and the larger the disparity there is between legal and
+        illegal populations, the larger the ethnic tension there will
+        be. so again, if you care about fallout from ethnic tension,
+        then you'll want to do something about it sooner than later.
+      - there are 11 million people in the country illegally now
+        - if this number is 20 million instead, then that approaches
+          0.5% to 1.0% of the population!
+
+### National Security
+
+  - far and beyond, the biggest problem is national security
+      - you just can't, especially not in the 21st century. not in
+        america. that's just a giant red flag. we're worried about al
+        qaeda, but 11 million people just walked on in? man, that's 11
+        million chances for some terrible organization to have already
+        snuck someone in.
+
 
 
 # Problems Related to Illegal Immigration
@@ -391,6 +462,44 @@ The jobs that are being taken are really the least of our concerns.
     - (13) and if amnesty is announced, we can be sure that these
       people will try to slip in.
 
+# What are the Answers?
+
+summary
+- some of these won't appeal to conservatives because ... the
+  government has to finance it. my response to this is: look at the
+  longterm consequences of prolonging inaction or trying to implement an
+  ineffective policy.
+  - those are going to be incredibly expensive
+  - it's frustrating, i know. but if there's a better answer, i'd love
+    to hear it.
+- also describe the problems caused by a disorganized strategy
+- goals for an ideal policy?
+  - stops more people from crossing the border!
+  - applies amnesty to ~20-50% of existing illegal immigrants over 4 years
+    - just pulling those numbers from thin air
+    - but whatever it is, it should be hard. it should act as an
+      implicit filter, so that the people who have qualities that
+      contribute to society stay
+      - it should be risky. like "i dont know if i can do that, but if i
+        work hard, then maybe"
+      - it should be challenging, like military service would be
+        challenging
+    - it should be fair
+      - obviously, something like national guard service wouldn't work
+        for everyone (also ... are these people we want to train and
+        give guns?)
+    - it should be robust:
+      - in terms of preventing unintended problems
+      - or circumvention of measures
+  - mitigates some of longterm problems that could result
+      - e.g. problems where citizens receive amnesty, but are shut out
+        of services afterwards ... something we don't want
+    - it absolutely must account for the disparity in education &
+      employability. mandatory.
+  - should be something that is appealing for people
+    - but also fair to those who have been here. or came here legally
+
+
 ## A Disorganized Strategy for Immigration Means:
 
     - increased tensions for illegal and legal immigrants here
@@ -410,8 +519,6 @@ The jobs that are being taken are really the least of our concerns.
           to term (because of the secrecy) then how can you ensure
           that certain long-term tactics are properly executed
           - and certain long-term objectives are met
-
-# What are the Answers?
 
 ### Economic Policy
 
