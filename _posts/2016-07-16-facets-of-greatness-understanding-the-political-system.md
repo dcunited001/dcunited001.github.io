@@ -38,7 +38,7 @@ get in the way.
 
 ### &#x265E; [Why is Washington Gridlocked?](#why-is-washington-gridlocked)
 
-### &#x265E; [Reform Requires Building a Movement](reform-requires-building-a-movement)
+### &#x265E; [Reform Requires Building a Movement](#reform-requires-building-a-movement)
 
 ### &#x265E; [By It's Nature, Risk Helps Us Grow](#risk-helps-us-grow)
 
@@ -83,11 +83,11 @@ diluted, per person.
 
 One major problem our country deals with is variance in
 representation. When the country was founded, there was approximately
-one Representative per ~30,000 citizens and less, if it's considered
-in terms of households. Today, that's one Representative per ~750,000
-citizens! A major difference! The Senate is even worse. Again, this is
-one of those things our founders foresaw and understood would change
-as population grew.
+one Representative per ~30,000 citizens. Actually less, if it's
+considered in terms of number of households. Today, that's one
+Representative per ~750,000 citizens! A major difference! The Senate
+is even worse. Again, this is one of those things our founders foresaw
+and understood would change as population grew.
 
 How can we fix this, so that individual citizens have more influence?
 It's tough! We can't add more Representatives, because it's sluggish
@@ -157,14 +157,14 @@ able to project and prepare for policy changes.
 
 <a name="reform-requires-building-a-movement" />
 
-# &#x265E; [Reform Requires Building a Movement](reform-requires-building-a-movement)
+# &#x265E; [Reform Requires Building a Movement](#reform-requires-building-a-movement)
 
 Higher cost to reforms means that the people who want it most end up
 winning. To change something in this country, you have to get popular
 support, especially if a policy is contrary to special interests.
 
 That means you have to build a movement. How do you build a movement?
-you relate to people. You figure out how to connect to them. You get
+You relate to people. You figure out how to connect to them. You get
 them emotionally invested in something. If something else is more
 important, then they'll gravitate towards that. But when people are
 emotionally and financially invested, they care. They pay attention to
@@ -226,7 +226,7 @@ timescale of generations; not years, not election cycles.
 
 <a name="21st-century-economics" />
 
-# [21st Century Economics](#21st-century-economics)
+# &#x265E; [21st Century Economics](#21st-century-economics)
 
 #### We'll Need to Rewrite the Econ Textbooks
 
@@ -240,7 +240,7 @@ the college economics textbooks for Micro and Macro.
 
 <a name="democracy-is-susceptible-to-misinformation" />
 
-# &#x265E [Democracy is Susceptible to Misinformation](#democracy-is-susceptible-to-misinformation)
+# &#x265E; [Democracy is Susceptible to Misinformation](#democracy-is-susceptible-to-misinformation)
 
 It can be difficult to relay the context of policy decisions to
 average americans and then retain strategic advantage in the global
@@ -273,6 +273,8 @@ with this. It's not going to be easy. and it's going to be fast. If we
 do not nail it right, we're going to lose. Not everything, but we'll
 lose pretty big. This isn't a high-probability risk, but it would be a
 costly one. So we need to be prepared.
+
+<a name="i-cant-stand-citizens-united" />
 
 # &#x265E; [I Can't Stand Citizens United, But...](#i-cant-stand-citizens-united)
 
@@ -452,7 +454,7 @@ Can I have some first world problems?! Or do I live in Mali? I made
 $1,717 in 2015. Yes. Yes, that number has FOUR fucking digits ... So
 yes, I feel like I deserve to bitch about it. After May, I worked hard
 to not make any money in 2015, just so I could put the lowest number
-possible on my tax. JUST SO I COULD BITCH ABOUT IT. So I will.
+possible on my tax returns. JUST SO I COULD BITCH ABOUT IT. So I will.
 
 And how is it that I can help so many other people, yet have nothing
 myself? What the fuck is that, anyways?
@@ -495,5 +497,5 @@ But even if I can't win myself, that doesn't mean that I can't fight
 the battle through others. This is partly what I've been doing all
 along. It's what was so genius, all along. So, through these
 [Facets of Greatness](/posts/2016-05-12-facets-of-greatness-intro.html),
-I hope to equip others with valuables to help them push forward
+I hope to equip others with valuable knowledge to help them push forward
 towards change.

@@ -750,16 +750,16 @@ with a patent that can be invalidated later.
 ## &#x1f48e; [Strategy](#strategy)
 
 Strategy is really about the composition of tactics at various levels.
-Business and life are can be viewed through the lens of game theory.
-Both are a mix of turn-based and real-time games.  In life, one
-chooses their objectives to optimize on based on their model of the
-world, usually fairly early on.  Some people possess far more
-cognition and metacognition, which both greatly extend your ability to
-assess and model the world.  The earlier you cognitively develop, the
-better.  Doing so equips you with the meta-tools you need to construct
-the model you'll use to search for meaning in life, for your own
-purpose.  In business, you optimize on other factors and objectives,
-like value, opportunity, diversity, control, risk, security and time.
+Business and life can be viewed through the lens of game theory. Both
+are a mix of turn-based and real-time games. In life, one chooses
+their objectives to optimize on based on their model of the world,
+usually fairly early on.  Some people possess far more cognition and
+metacognition, which both greatly extend your ability to assess and
+model the world.  The earlier you cognitively develop, the better.
+Doing so equips you with the meta-tools you need to construct the
+model you'll use to search for meaning in life, for your own purpose.
+In business, you optimize on other factors and objectives, like value,
+opportunity, diversity, control, risk, security and time.
 
 As a generalized concept, strategy is about the composition of tactics
 at various levels.  Reusable tactics are the best: if you've found
@@ -853,7 +853,7 @@ how to design with redundancy and resilience in mind.
 This is the Unknown facet.  It's a mystery.  Wrapped in an enigma.
 Contained inside a box!  It's a box.  I wonder what's in it?
 
-#### WHAT'S IN THE BOX?!
+#### [WHAT'S IN THE BOX?!](https://www.youtube.com/watch?v=TtTzTYDUwvQ)
 
 ![UHF What's In The Box?!](/img/posts/2016-05-12-facets-of-greatness-intro/whats-in-the-box.jpg)
 
