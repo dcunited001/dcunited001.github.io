@@ -1,3 +1,12 @@
+---
+title: "Illegal Immigration is Painful for Everyone"
+categories: "blog"
+tags: "sociology politics"
+headline: ""
+author:
+  name: "David Conner"
+excerpt: ""
+---
 
 really need the article to appeal to the emotions of people who are
 likely to disagree with me (on a reactive, knee-jerk basis)
@@ -10,8 +19,138 @@ wtf else can i say instead of "it's important" .. "it's crucial"
 concise, clearly stated thesis: ???
 - followed by intro,
 
-## Intro
+Illegal immigration is a serious long-term issue. Not to be alarmist,
+but it's a bit of a powder keg. The further we let it go on, the worse
+it gets. Regardless of who's side you're on, you need to hear me out.
+The truth is, there aren't "sides" on this issue; it is painful for
+everyone involved!
 
+## Illegal Immigration Hurts, Whether You Are:
+
+#### From A Family with Four Hundred Year Old Roots in America
+
+#### The Child of Immigrant Parents Who Struggled to Get here
+
+#### Part of a Family Who Illegally Crossed into America Chasing Opportunity
+
+In 5,000 words or less, I'm going to provide you with the realest
+summary of why it's a painful issue for everyone involved. You'll be
+able to empathize with what illegal immigrants are going through in
+this country. I'm going to try to describe what that's like, but I
+don't actually know any illegal immigrants, so you'll have to forgive
+me for that. And as much as you can try to put yourself in someone
+else's shoes, you'll never truly know how that feels until you're
+there.
+
+#### Illegal Immigration Indicates a Failure of Border Security
+
+Furthermore, I'll elaborate on how illegal immigration contributes to
+other problems the country is facing. It's an indication of a failure
+of border security. I'll discuss the challenges facing a resolution of
+illegal immigration. These include challenges that are cultural,
+financial, strategic or political. For example, publicly announcing
+the policy details will change behavior. If we say "Free amnesty!
+Citizenship for anyone for three months," what do you think that will
+do? People might rush the border.
+
+#### We can't solve this problem until we prevent people from entering the country illegally
+
+Amnesty doesn't exactly solve the problem, by the way. People can
+still come here illegally, so what does that do anyways? The debate on
+this issue is ridiculous. This is why we need a wall. I hate the
+fucking wall, but we need it. The wall is mostly a symbol, by the
+way. I don't care what the !@#$ it is, so long as it means that the
+number of people crossing the border slows to a trickle.
+
+
+
+
+### Why it's hard
+
+Why is it such a hard problem to tackle? Honestly, America has way
+bigger problems *at the moment*. Yet, the more time passes, the harder
+this becomes to resolve. The solutions will be more expensive and
+tensions will be higher, stagnating policy change. Worse still, with
+each year that passes, the consequences of inaction become
+increasingly severe, including long-lasting cultural problems!
+
+> **E.G.** You put up a forcefield and stop people from entering the
+> country. You then grant everyone amnesty. Ok, problem solved, right?
+> **WRONG!!** Now you have a dozen million people, potentially bitter,
+> who lack the same level of education. They don't have resumes and
+> they don't have very much money either.
+
+So, have you actually thought out how these policies will play out?
+OK, so then, aside from national security, what is the single, worst
+aspect of illegal immigration? It is the cultural isolation. The de
+facto consequences here might as well be segregation. And we
+absolutely can not have a segment of our population, long deprived of
+education and employment opportunities, who is isolated along mostly
+ethnic boundaries!
+
+## Notes on Longterm Ethnic Tension
+
+(rename title)
+
+I cannot emphasize this enough. That kind of crap ferments
+longstanding ethnic tension. The kind of problems that cannot simply
+be resolved. And yet, our inaction is going to further contribute to
+this? Tearing down the real segregation was bad enough. Five decades
+later and we're still dealing with long-term cultural problems from
+that. And ... we want another source of problems like that? Hell no!
+
+That's one reason I care enough to risk sounding like a insensitive
+shithead. Tolerance? Discrimination? How do we improve these? How can
+someone improve a social issue they can't talk about? Yes, we should
+be more tolerant! Absolutely! But we also have to be tolerant of
+people who are intolerant. That doesn't mean we should like it, no!
+But if you completely cut someone off who's been labelled as racist,
+what does that do? Has anyone in this country actually watched
+American History X? How does the character Lamont breakthrough to the
+neonazi character? Does he do it by ignoring that character? Avoiding
+him? Isolating him? No! Just the opposite.
+
+If we want to resolve ethnic tensions in America, we need
+communication and we can't immediately respond to a differing
+viewpoint by escalating tension. We have to respond to intolerance
+itself with tolerance!
+
+> Just to clarify, the following is not a critique on Black Lives
+> Matter protestors, but instead is advice for any social movement.
+
+Watch how people react to those who disagree with them. I admire
+people like Gandhi and Dr. King because they dealt with a lot of
+outright injustice and they did it with grace! They knew their actions
+spoke more powerfully than any words they could ever utter. They knew
+they were surrounded by people who wanted change and people who were
+vitriously opposed to it. But, how did they respond? They allowed
+their actions to speak for themselves and they allowed their opponents
+actions to speak for their opponents and they believed that people
+would see things as they were.
+
+That is it! Their strategy was truth! Truth and nothing more! Except
+perhaps loving their enemy enough to grant him or her forgiveness for
+their ignorance. And they suffered for this. They suffered through the
+ignorance and intolerance, but maintained the grace to forgive their
+enemies as they marched through the midst of it all.
+
+So yes, there are a lot of people on all sides with insensitive and/or
+flat out wrong viewpoints. Some of my own viewpoints are insensitive.
+I'm sorry if that's the case. I absolutely do not condone or intend to
+encourage any kind of racist or intolerant bullshit. We need to come
+together in this country.
+
+However, if being "tolerant" means tiptoeing around immigration and if
+it's racist to say that there are people in this country who came here
+illegally, how the !@#$ are we going to resolve these problems? And if
+you supposedly stand opposed to intolerance and racism, I hate to tell
+you, but your inaction here is going to make those problems worse!
+
+
+
+the more complicated the consequences on
+inaction will become. These include, ncluding some very serious,
+long-lasting cultural problems, which
 
 - illegal immigration is a powder keg
   - it's a serious long-term issue
