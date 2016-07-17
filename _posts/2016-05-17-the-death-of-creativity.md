@@ -24,9 +24,9 @@ We've seen the evolution of the distribution of mass communication
 from four channels to dozens to the internet. The internet is
 essentially the inversion of the concept of mass communication, where
 each person has their own channel.  And for about two decades, the
-average person had access to the power of knowledge and
-information. This access is unequivocally greater than at any other
-time in human history.
+average person had access to the power of knowledge and information
+while the internet was completely free. This access is unequivocally
+greater than at any other time in human history.
 
 But this can be just as dangerous as it is beneficial. If any
 information can be freely transmitted over maximally connected
@@ -106,18 +106,18 @@ marketing message.
 
 ## Memetics and Epimemetics
 
-Genres of music and other forms of art inspire subcultures to
-arise. And our culture becomes more fragmented, psychologically and
-sociologically. Memetically, this changes how people are
+Genres of music and art forms inspire subcultures to arise and
+diversify. Then, our culture becomes more fragmented, psychologically
+and sociologically.  Memetically, this changes how people are
 psychologically structured and the degree to which their psyches can
 be predicted.
 
-The exponential variation of memes decreases their viability and
-alters their epimemetic behaviors. Epimemetics is to memes as
-epidemiology is to disease. For the most part, with increased number
-and decreased viability, it becomes very difficult for much to rise to
-the top to become a touchstone. And there would be very few
-touchstones universally pervading society.
+The exponential variation of memes decreases their viability. They are
+less likely to persist and this alters their epimemetic behavior.
+Epimemetics is to memes as epidemiology is to disease. For the most
+part, with increased number and decreased viability, it's challenging
+for any memes to rise to the top to become a touchstone. And there
+would be very few touchstones universally pervading society.
 
 #### Everything Old Is New Again
 
@@ -161,10 +161,12 @@ above the noise, we'll have problems.
 
 This takes on an interesting dimension when it's now possible to know
 the information that a person may know or have seen.  While for most
-of us, we see simply noise, those operating a panopticon can draw
-useful statistical inferences based on categorizing people on
-overlapping sets of information that we have consumed and our
-behaviors. Obviously, such a capability isn't available to each of us.
+of us, we see simply noise, those operating a
+[panopticon](https://en.wikipedia.org/wiki/Panopticon) can draw useful
+statistical inferences based on categorizing people on overlapping
+sets of information that we have consumed and our behaviors.
+Obviously, such a capability isn't available to all of us, just those
+who happen to have a surveillance apparatus on hand.
 
 #### The Unknown Philosopher
 
