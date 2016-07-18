@@ -118,7 +118,9 @@ incredibly bad omen for the world in 2050.
 
 # [Where Do We Go from Here?](#where-do-we-go-from-here) &#x0E5B;
 
-
+> The following is advice for any social movement. And just to
+> clarify, none of this article should be taken as a critique on Black
+> Lives Matter protestors.
 
 Tolerance? Discrimination? How do we improve these? How can someone
 improve a social issue they can't talk about?  Yes, we should be more
@@ -138,10 +140,6 @@ Isolating him? No! Just the opposite.
 If we want to resolve ethnic tensions in America, we need
 communication and we can't immediately respond to a differing
 viewpoint by escalating tension.
-
-> Just to clarify, none of this article should be taken as a critique
-> on Black Lives Matter protestors. Instead, the following is advice
-> for any social movement.
 
 We have to respond to intolerance itself with tolerance! That doesn't
 mean we should be passively tolerant of intolerance, but gauge your
