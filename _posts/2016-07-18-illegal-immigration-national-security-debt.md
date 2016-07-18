@@ -8,6 +8,8 @@ author:
 excerpt: ""
 ---
 
+- synonyms for tension & ethnic tension
+
 My passion for this issue stems from a concern for the struggle that
 illegal immigrants face in this country along with foresight on how
 this problem grows over time. *It's National Security Debt.*
@@ -22,7 +24,7 @@ First of all, if you strongly disagree with this article, then I want
 you to reach out to me. But I also want you to read Sun Tzu's Art of
 War. It's free. It's short. Read one with some commentary or
 something. You can probably read it in an hour or two. Read that and
-then tell me about how I'm wrong.  
+then tell me about how I'm wrong.
 
 ### Illegal Immigration Hurts, Whether You Are:
 
@@ -439,13 +441,13 @@ amoung nations work across the globe?
 
 # Problems Related to Illegal Immigration
 
-#### (1) Jobs
+## (1) Jobs
 
 The jobs that are being taken are really the least of our concerns. If
 our concern is lost jobs, we should be more concerned about those sent
 overseas.
 
-#### (2) Income Taxes
+## (2) Income Taxes
 
 Illegal immigrants don't pay income taxes. They don't make very much
 money, especially since state and federal laws are cracking down
@@ -462,7 +464,7 @@ And I believe cooking the books is a separate crime itself. Now you
 have two criminals: the illegal immigrant and the person who hired
 them.
 
-#### (3) Employment Rights
+## (3) Employment Rights
 
 Illegal immigrants don't have employment rights. This can lead to
 tension. They can't expect contracts to be enforced and I imagine moot
@@ -483,45 +485,63 @@ where someone is injured and loses future income, while simultaneously
 dealing with an angry employer and potential legal consequences.
 
 These and other situations lead to increased tension, risk and abuse
-in illegal employment aggreements, where they have no options for
+in illegal employment agreements, where they have no options for
 recompense. Ask any union member whether they'd work without oversight
 from OSHA or Worker's Comp. What would they say if you told them you
 heard of a guy who got fired for breaking his arm, who never got paid
 and received delayed medical care.
 
-#### (4) Policies Encourage Isolation
+## (4) Policies Encourage Isolation
 
 The domestic policies meant to stem the demand for cheap labor from
 illegal immigrants end up creating more problems. It's not because the
 policies are flawed. These are just common sense policies: business
 can't hire employees that aren't paid minimum wage, aren't guaranteed
-employment rights and are ill.
+employment rights and are here illegally.
 
-Are tough on both employee and employer. This compels businesses to
-turn over their books when under suspicion.
+These policies tough on both employee and employer. This compels
+businesses to turn over their books when under suspicion.
 
-- these actually stoke the flames because now you have a slice
-  of the population who is essentially backed into a corner
-  - and is being starved out
-- they risk serious consequences of backlash from legal and
-  illegal immigrants of specific ethnicities (not just limited
-  to latin american ancestry)
+These actually stoke the flames because now you have a slice of the
+population who is essentially backed into a corner and is being
+starved out. These policies are necessary, but risk serious
+consequences of backlash from legal and illegal immigrants of various
+ethnicities.
 
-#### (5) Unintended Free Market Response to Policy Response
+## (5) Unintended Free Market Response to Policy Response
 
-- (5) illegal immigrants seeking work (to feed their families) are
-  committing crimes by working.  employers hiring illegal
-  immigrants are committing crimes by employing them.
-  - there are no social programs in place for this major chunk of
-    our population: ELEVEN MILLION PEOPLE with no social security
-    in place (in the truest sense of the term)
-  - that's three percent of our population with no options for
-    stability and nowhere to go, if it gets "really fucking cold
-    out."
-- people supporting illegal immigrants may also be committing
-  crimes if they are knowingly doing so
+Illegal immigrants seeking a living wage and trying to feed their
+families are committing crimes by working. Employers hiring illegal
+immigrants are committing several crimes by employing them, including
+cooking their books. There are no social programs in place for this
+major chunk of our population. No safety net. There is no social
+security in place, in the truest sense of the term.
 
-#### (6) Disparity in Education and Government Services
+That's one percent of our population with no options for stability and
+nowhere to go, when things get tough. Further, people who knowingly
+support illegal immigrants without reporting them could be committing
+a crime if they did so. I'd feel horrible if I was compelled to rat
+someone out like that and ended up splitting up a family.
+
+What do people do, who hit hard times? They usually try to make ends
+meet. Sometimes, this means they turn to crime or drugs to make money
+... by the way, how many politicians out there would openly state
+their views on anything? I mean *that's* politics. And so, yeh, I'm
+saying that when things get tough, these policies could cause illegal
+immigrants to resort to crime, like any other person whose family is
+hungry. This is an example of a statement that can't be used as
+component of an argument.
+
+No, instead a politician would decide it's not worth mentioning
+something offensive. Especially in a case like this, where not drawing
+attention to it shields the public from thinking about it and, in the
+end, provides reasons to arrest illegal immigrants who resort to crime
+to feed themselves when they can't find work. Why would you risk the
+offensive statement here?
+
+Just think about that for a minute.
+
+## (6) Disparity in Education and Government Services
 
 - (6) their children can't receive education (depending on
       circumstance)
@@ -537,7 +557,7 @@ turn over their books when under suspicion.
           - because of a lack of education
           - or because a perceived lack of education
 
-#### (7) Strict Policies make things tough
+## (7) Strict Policies make things tough
 
 - (7) if strict policies on stemming demand for illegal immigrant
       employment are working, then things are going to get real hard
@@ -548,7 +568,7 @@ turn over their books when under suspicion.
         problems.
       - that will lead people to partake in organized crime
 
-#### (8) Cultural Isolation (repeated?)
+## (8) Cultural Isolation (repeated?)
 
 - (8) these people will become culturally isolated from the rest
       of america, having to live in the shadows, basically
@@ -556,7 +576,7 @@ turn over their books when under suspicion.
       - i've never actually met someone that i know to be an illegal
         immigrant. never spoken to someone like that.
 
-#### (9) No Means of Identification (retitle bc they could have)
+## (9) No Means of Identification (retitle bc they could have)
 
 - (9) there is no assurance that these immigrants have valid
       identification from another country
@@ -569,7 +589,7 @@ turn over their books when under suspicion.
         - that's probably not actually such a serious threat though.
       - this one has national security written all over it
 
-#### (10) Burden of Cost is on Taxpayers
+## (10) Burden of Cost is on Taxpayers
 
 - (10) the burden of cost to monitor and deport is placed on taxpayers
       - who can't be sure that there is a coherent strategy for
@@ -586,7 +606,7 @@ turn over their books when under suspicion.
         - overhang as in the incentives are like a really wobbly jenga
           tower.
 
-#### (11) Implementation Risks Fracturing Families
+## (11) Implementation Risks Fracturing Families
 
 - (11) implementation of policy risks fracturing families
       - when the discussion to construct a coherent policy never
@@ -597,18 +617,18 @@ turn over their books when under suspicion.
           with resolving illegal immigration, how can they know how to
           react?
 
-#### (12) National Security Risk
+## (12) National Security Risk
 
 - (12) and there's the major security risk when people connected
       to terrorism try to slip in.
 
 
-#### (13) Can't Announce Policy Changes
+## (13) Can't Announce Policy Changes
 
 - (13) and if amnesty is announced, we can be sure that these
       people will try to slip in.
 
-#### (14) Stifled Policy Debate
+## (14) Stifled Policy Debate
 
 - furthermore, we can't really have an open debate here.
   - partly because we can't talk about all the options on the table
