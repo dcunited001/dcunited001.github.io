@@ -1,5 +1,5 @@
 ---
-title: "Illegal Immigration is Painful for Everyone"
+title: "The Definitive Illegal Immigration Post"
 categories: "blog"
 tags: "sociology politics"
 headline: ""
@@ -107,10 +107,8 @@ Why draw this distinction between families who have been here since
 the sixties and those who are more recent immigrants? Aren't we all
 equally US Citizens? In the eyes of the law, yes. For all intensive
 purposes, yes. I'm not arguing some people are more American and
-others are less American. But, this issue is nuanced in regard to
+others are less American. However, this issue is nuanced in regard to
 various demographics.
-
-- it's hard to make ... ??
 
 ### Citizens Since or Before the Baby Boomer Generation
 
@@ -240,17 +238,87 @@ bigger problems *at the moment*. Yet, the more time passes, the harder
 this becomes to resolve. The solutions will be more expensive and
 tensions will be higher, stagnating policy change.
 
-- (2) why is it so hard to solve?
+## The Debate Isn't Structured Properly
+
+The illegal immigration debate in America is messy. The PC police
+prevent people from making specific statements. Without those
+statements you can't complete a coherent arguement to relay to the
+public. Without the public being aware of how this problem impacts us
+in 2025, if unmitigated, then we can't move forward on it in a
+democracy.x
+
+For the most part, it's great that people are restrained from making
+statements that could lead to ethnic tension. However, that's not the
+case if blacklisting specific propositions of an argument restrains us
+from implementing the right public policy. This is especially true
+*when inaction otherwise leads to a drastically worse situation*.
+
+## The Pros Don't Outweigh the Cons
+
+There just aren't enough perceived benefits to justify the cost in
+political capital from either side. We were entirely focused on health
+care from 2008 through 2014. These past two years, the nation has been
+intensely focused on ethnic tensions, originally stemming from the
+Ferguson protests. The attention there was entirely warranted by the
+way, even though it's getting way out of hand! I can't believe what
+happened in Dallas!
+
+So there are major ethnic tensions in the African American community.
+
+In my article,
+[Diversity is America's Strength](/posts/2016-07-17-diversity-is-americas-strength.html#a-microcosm-for-diversity-in-the-world),
+I was dead serious when I said that "*America is a microcosm of the
+world, with respect to ethnic issues and diversity!"* What happens
+here is indicitive to how things will play out in the rest of the
+world by 2050. If we can't make it work here, in America, with 300
+million people and plenty of wealth, how the globe expect to make it
+work?
+
+
+- title should imply that there aren't enough perceived benefits to
+  justify the implementation of policy
+  - stifled discussion doesn't allow us to have the conversation that
+    would allow the public to understand the things they need to know
+    for the issue to accumulate the momentum it needs for action
+    - jesus this is like the worst sentence ever.
+    - i need that in like 3 words
+
+However, if being "tolerant" means tiptoeing around immigration and if
+it's racist to say that there are people in this country who came here
+illegally, how the !@#$ are we going to resolve these problems? And if
+you supposedly stand opposed to intolerance and racism, I hate to tell
+you, but your inaction here is going to make those problems worse!
+
+    - that doesn't present enough incentives to be resolved
+      - which is precisely why it's so dangerous: current trends in
+        policy, while promising (i need more info, just assuming there
+        has been some progress here) are not nearly enough
+      - there just aren't enough benefits, politically, to really
+        tackle this issue
+
+    - and by acting like it's not a big deal really puts us at risk
+        of lackluster progress
+        - or acting like we have taken appropriate action to solve the
+          problem, instead of pushing the envelope with our discussion
+      - basically, if it continues for another decade or so, we risk
+        to having to deal with 6% of the population, instead of 3%
+
+
   - basically no one wants to do what it takes to fix the problem
   - it doesn't seem like it's that big of a problem
     - it's very subtle and the longer it goes on, the larger the
       problem could be
+
+## There Aren't Any Great Answers
+
   - there just aren't any good answers
   - many of the "solutions" don't address the underlying problem:
     - there is no real border security.
     - that means that people keep crossing the border illegally
-  - even when we run out of ... ?? hmm??? what was i going to write?
-  - the southern border with mexico is huge!
+    - the southern border with mexico is huge!
+
+## Amnesty Can't Be Structured Properly
+
   - amnesty is a legal nightmare
       - it's unfair to those who went through the real process
       - completely lacks controls
@@ -294,39 +362,6 @@ that. And ... we want another source of problems like that? Hell no!
 
 (Link to section on resolving these tensions)
 [Diversity is America's Strength](/posts/2016-07-17-diversity-is-americas-strength.html)
-
-## The pros don't outweigh the cons
-
-The illegal immigration debate in America is messy. The PC police
-prevent people from...
-
-- title should imply that there aren't enough perceived benefits to
-  justify the implementation of policy
-  - stifled discussion doesn't allow us to have the conversation that
-    would allow the public to understand the things they need to know
-    for the issue to accumulate the momentum it needs for action
-    - jesus this is like the worst sentence ever.
-    - i need that in like 3 words
-
-However, if being "tolerant" means tiptoeing around immigration and if
-it's racist to say that there are people in this country who came here
-illegally, how the !@#$ are we going to resolve these problems? And if
-you supposedly stand opposed to intolerance and racism, I hate to tell
-you, but your inaction here is going to make those problems worse!
-
-    - that doesn't present enough incentives to be resolved
-      - which is precisely why it's so dangerous: current trends in
-        policy, while promising (i need more info, just assuming there
-        has been some progress here) are not nearly enough
-      - there just aren't enough benefits, politically, to really
-        tackle this issue
-
-    - and by acting like it's not a big deal really puts us at risk
-        of lackluster progress
-        - or acting like we have taken appropriate action to solve the
-          problem, instead of pushing the envelope with our discussion
-      - basically, if it continues for another decade or so, we risk
-        to having to deal with 6% of the population, instead of 3%
 
 # Why is it a problem?
 
