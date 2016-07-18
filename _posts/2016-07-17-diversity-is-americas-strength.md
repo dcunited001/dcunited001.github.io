@@ -17,7 +17,11 @@ the turn of the 19th century.
 # ToC
 
 
-### Greater Range of Ideas; Greater Range of Flexibility
+
+
+## Greater Range of Ideas
+
+#### And a Greater Range of Flexibility
 
 A diverse culture has a greater range of ideas to draw from. A diverse
 culture can't be easily subverted by misinformation because our
@@ -54,8 +58,8 @@ America is a microcosm of the world. Our world is lucky to have such a
 great nation, a superpower, where so many cultures flourish
 together. Yes, there is a ton of progress to be made, but
 overpopulation threatens the world like never before. Resources are
-dwindling. These are the causes that spark war, except they are going
-to occur on a global scale.
+dwindling. These are conditions that spark war, except that tension is
+growing on a global scale.
 
 In a way, America has been cursed by a legacy of centuries-old
 genocide and slavery. But in a way, we are blessed by it because here
@@ -236,17 +240,20 @@ himself targeted to be discredited and only God knows why.
 But why would I blog about it? Because I want people to hear me say
 this. I want to make it *loud and clear*. I wouldn't care if everyone
 on the goddamn planet could hear me. In fact, I would want them to. I
-want every single fucking person on the planet to examine my life
-under a goddamn microscope and verify for themselves: DAVID CONNER IS
-NOT A FUCKING RACIST YOU FUCKING ASSHOLES.
+would want every single fucking person on the planet to examine my
+life under a goddamn microscope and verify for themselves: DAVID
+CONNER IS NOT A FUCKING RACIST YOU FUCKING ASSHOLES.
 
-I am not claiming that I am a perfect person. I have made some poor
-statements, but I have seriously had it with this shit. There's no one
-left to stand up for me and I am tired of being held up as an example
-of what is truly my antithesis. And it's not just being labelled as
-racist. It extends to other things as well.
+I am not claiming that I am a perfect person. Far from it, but I would
+be willing to be judged after having my entire life sifted through.
+With regard to race, I have made a few poor statements, not driven by
+negativity, but by carelessness. However, I have seriously had it with
+this shit where I'm falsely labelled, yet never given the chance to
+respond. There's no one left to stand up for me and I am tired of
+being held up as an example of what is truly my antithesis.  And it's
+not just being labelled as racist. It extends to other things as well.
 
-And it is infuriating that I find myself socially isolated and
+And it is infuriating that I find myself socially isolated, while
 everyone else tells my story for me. The world doesn't really hear
 what I have to say and I never actually get the chance to make a first
 impression because someone has already gone ahead of me to sling the
@@ -254,10 +261,12 @@ muck before I even get the chance to say "Hi, my name is David
 Conner." If I do move to somewhere, by myself, where no one knows me
 -- as I have done two or three times -- and I disconnect my Facebook,
 it's only a matter of time before that smeared, discredited image
-catches up to me.
+catches up to me. And it's not me, yet who feels the door getting
+slammed in their face, time after time?
 
 I'm tired of it because I have sacrificed a lot of opportunities to
-maintain specific political viewpoints. To have some issue like that
-just carelessly tossed around to discredit me is bullshit! Someone
-that does that, knowingly, willingly? They need to go piss on a
+maintain specific political viewpoints. Specifically, to have some
+issue like that just carelessly tossed around to discredit me is
+bullshit! Someone that does that, willingly, with comprehension of how
+those actions would foment negativity? They need to go piss on a
 powerline.

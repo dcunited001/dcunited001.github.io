@@ -288,7 +288,8 @@ this? Tearing down the real segregation was bad enough. Five decades
 later and we're still dealing with long-term cultural problems from
 that. And ... we want another source of problems like that? Hell no!
 
-(Link to section on resolving these tensions) [Diversity is America's Strength]()
+(Link to section on resolving these tensions)
+[Diversity is America's Strength]()
 
 
 ## the pros don't outweigh the cons
