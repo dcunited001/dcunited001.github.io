@@ -5,7 +5,16 @@ tags: "sociology politics"
 headline: ""
 author:
   name: "David Conner"
-excerpt: ""
+excerpt: "
+What happens in America with regard to ethnic tensions
+is an indication of what will happen for the rest of the world.
+Like I said, America is a microcosm. Our diversity here symbolically
+reflects the diversity everywhere else. If these problems boil over
+and promote instability, the same thing will happen the world over. So
+we seriously need to get our shit together and figure this out. As
+individuals, we have to be willing to turn the other cheek; to reach
+out; to seek understanding. If we do not do that here, now, it's an
+incredibly bad omen for the world in 2050."
 ---
 
 Our diversity is a strength, as long as it unifies us. It's a major
@@ -96,7 +105,7 @@ growing on a global scale.
 
 In a way, America has been cursed by a legacy of centuries-old
 genocide and slavery. But in wierd a way, we are blessed by a
-population composed of many ethnicities in the 21st century
+population representing a patchwork of ethnicities in the 21st century
 world. Here we are in the most powerful country and we will be forced
 to resolve these differences. We have to. Think about what it'd be
 like to live in a world where the handful of most powerful nations did
