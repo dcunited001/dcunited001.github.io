@@ -1,5 +1,5 @@
 ---
-title: "The Definitive Illegal Immigration Post"
+title: "Illegal Immigration: National Security Debt"
 categories: "blog"
 tags: "sociology politics"
 headline: ""
@@ -8,10 +8,9 @@ author:
 excerpt: ""
 ---
 
-really need the article to appeal to the emotions of people who are
-likely to disagree with me (on a reactive, knee-jerk basis)
-- so i need to structure my content just right, otherwise those people
-  will just stop reading or put up a mental block
+My passion for this issue stems from a concern for the struggle that
+illegal immigrants face in this country along with foresight on how
+this problem grows over time. *It's National Security Debt.*
 
 Illegal immigration is a serious long-term issue. Not to be alarmist,
 but it's a bit of a powder keg. The further we let it go on, the worse
@@ -19,11 +18,17 @@ it gets. Regardless of who's side you're on, you need to hear me out.
 The truth is, there aren't "sides" on this issue; it is painful for
 everyone involved!
 
+First of all, if you strongly disagree with this article, then I want
+you to reach out to me. But I also want you to read Sun Tzu's Art of
+War. It's free. It's short. Read one with some commentary or
+something. You can probably read it in an hour or two. Read that and
+then tell me about how I'm wrong.  
+
 ### Illegal Immigration Hurts, Whether You Are:
 
 #### &#x2605; From A Family with Four Hundred Year Old Roots in America
 
-#### &#x2605; The Child of Immigrant Parents Who Struggled to Get here
+#### &#x2605; The Child of Immigrant Parents Who Struggled to Get Here
 
 #### &#x2605; Part of a Family Who Illegally Crossed into America Chasing Opportunity
 
@@ -245,7 +250,7 @@ prevent people from making specific statements. Without those
 statements you can't complete a coherent arguement to relay to the
 public. Without the public being aware of how this problem impacts us
 in 2025, if unmitigated, then we can't move forward on it in a
-democracy.x
+democracy.
 
 For the most part, it's great that people are restrained from making
 statements that could lead to ethnic tension. However, that's not the
@@ -257,31 +262,24 @@ from implementing the right public policy. This is especially true
 
 There just aren't enough perceived benefits to justify the cost in
 political capital from either side. We were entirely focused on health
-care from 2008 through 2014. These past two years, the nation has been
-intensely focused on ethnic tensions, originally stemming from the
-Ferguson protests. The attention there was entirely warranted by the
-way, even though it's getting way out of hand! I can't believe what
-happened in Dallas!
+care from 2008 through 2014. Since Ferguson, everyone's been focused
+on the BlackLivesMatter protests and mounting tensions between
+countries. And 2016 has been completely defined news so tragically
+shocking and weird that I question the nature of reality every single
+day. I'm pretty smart. If I can't figure out what the fuck is going
+on...
 
-So there are major ethnic tensions in the African American community.
+Basically, combined with ever-restrictive, silently pervasive filter
+bubbles in social media, this atmosphere in the media furthers an
+already languishing debate. On illegal immigration. On any issue. This
+trend has fully materialized in the past few months. We'll never get
+anywhere with this debate. People don't understand that the problem
+gets worse as time goes on.
 
-In my article,
-[Diversity is America's Strength](/posts/2016-07-17-diversity-is-americas-strength.html#a-microcosm-for-diversity-in-the-world),
-I was dead serious when I said that "*America is a microcosm of the
-world, with respect to ethnic issues and diversity!"* What happens
-here is indicitive to how things will play out in the rest of the
-world by 2050. If we can't make it work here, in America, with 300
-million people and plenty of wealth, how the globe expect to make it
-work?
-
-
-- title should imply that there aren't enough perceived benefits to
-  justify the implementation of policy
-  - stifled discussion doesn't allow us to have the conversation that
-    would allow the public to understand the things they need to know
-    for the issue to accumulate the momentum it needs for action
-    - jesus this is like the worst sentence ever.
-    - i need that in like 3 words
+But yet, AFAIK, democrats want to trade respect for law and
+immigration procedures for a dozen million new votes via amnesty,
+without building a wall. How's that gonna work? Oh... more votes. I
+get it.
 
 However, if being "tolerant" means tiptoeing around immigration and if
 it's racist to say that there are people in this country who came here
@@ -289,48 +287,69 @@ illegally, how the !@#$ are we going to resolve these problems? And if
 you supposedly stand opposed to intolerance and racism, I hate to tell
 you, but your inaction here is going to make those problems worse!
 
-    - that doesn't present enough incentives to be resolved
-      - which is precisely why it's so dangerous: current trends in
-        policy, while promising (i need more info, just assuming there
-        has been some progress here) are not nearly enough
-      - there just aren't enough benefits, politically, to really
-        tackle this issue
+The lack of incentive to solve is precisely why illegal immigration is
+so dangerous. It's subtle. It wasn't addressed in the late nineties
+and it was basically a hot potato in the aughties.
 
-    - and by acting like it's not a big deal really puts us at risk
-        of lackluster progress
-        - or acting like we have taken appropriate action to solve the
-          problem, instead of pushing the envelope with our discussion
-      - basically, if it continues for another decade or so, we risk
-        to having to deal with 6% of the population, instead of 3%
+## Lackluster Solutions
 
+There aren't any great answers and no one wants to let us hurt
+anyone's feelings. The southern border with mexico is huge. It's hard
+to justify the expense of a wall, but for that we need to think
+outside the box.
 
-  - basically no one wants to do what it takes to fix the problem
-  - it doesn't seem like it's that big of a problem
-    - it's very subtle and the longer it goes on, the larger the
-      problem could be
+#### Amnesty is Difficult to Structure Properly
 
-## There Aren't Any Great Answers
+Amnesty's a legal nightmare and possibly a policy quagmire. Depending
+on how something like that is implemented, it will be a bureaucratic
+mess creating another government agency that persists for decades and
+steadily grows.
 
-  - there just aren't any good answers
-  - many of the "solutions" don't address the underlying problem:
-    - there is no real border security.
-    - that means that people keep crossing the border illegally
-    - the southern border with mexico is huge!
+> Have you ever seen a federal bureaucracy on a hunger strike? Neither
+> have I! They just feed themselves. End of year budget's like a shell
+> game to justify increases, year after year.
 
-## Amnesty Can't Be Structured Properly
+Further to the point, some amnesty implementations completely
+disregard legitimate immigration procedures and respect for the
+law. What signal does that send to the people who dreamed big and
+worked hard to get here?
 
-  - amnesty is a legal nightmare
-      - it's unfair to those who went through the real process
-      - completely lacks controls
+#### Lack of Standard Identification
+
+This is a national security mess. How does one prove identity? How do
+we know you are who you say you are. All that talk about Real ID and
+then we just hand ID's out to anyone that walks in. Basically, you
+just pick yours up at Kroger.
+
+No Photo ID? No documents? How are you going to handle those
+situations? I'm sure that someone has thought about this way more than
+I have.
+
+##
+
       - proclamation of an amnesty program is tantamount to
         advertising free citizenship for anyone who can make it in in
         time
       - and there is no way to implement amnesty in enough time to
         avoid a massive influx of illegal immigration
+
+## Massive Deportations
+
+Does anyone really want to talk about this? No. I don't. But
+seriously, what are we going to do? Again, inaction makes the problem
+worse. And the people in this country don't get that. They're so
+afraid to hurt someone's feelings by saying the wrong thing that
+they'd rather knowingly let the whole damn thing become a powder keg
+by 2025.
+
+And think about it, most of the policies that people have supported up
+to now
+
     - massive deportation may work, but is equally riddled with
       problems.
       - obviously, there is an opportunity for racism. it would
         definitely
+
 
 ## Future Consequences of a Poor Policy
 
@@ -362,6 +381,31 @@ that. And ... we want another source of problems like that? Hell no!
 
 (Link to section on resolving these tensions)
 [Diversity is America's Strength](/posts/2016-07-17-diversity-is-americas-strength.html)
+
+## Simultaneous Tensions Between Multiple Ethnicities is a Disaster
+
+These past two years, the nation has been intensely focused on ethnic
+tensions, originally stemming from the Ferguson protests. The
+attention there was entirely warranted by the way, even though it's
+getting way out of hand! I can't believe what happened in Dallas!
+
+So there are major ethnic tensions in the African American community.
+That's not what I'm writing about, but regardless of how you feel
+about them, what happens when you add growing ethnic tension in the
+Hispanic community stemming from illegal immigration? At the same
+time?! That combination could fracture this country!
+
+> We really have to stop and ask ourselves: what sacrifices are we
+> going to make to ensure this country doesn't fall apart!
+
+You need to read my article
+[Diversity is America's Strength](/posts/2016-07-17-diversity-is-americas-strength.html#a-microcosm-for-diversity-in-the-world).
+I was dead serious when I said that "*America is a microcosm of the
+world, with respect to ethnic issues and diversity!"* What happens
+here is indicitive to how things will play out in the rest of the
+world by 2050. If we can't make it work here, in America, with 300
+million people and plenty of wealth, how can we expect to make peace
+amoung nations work across the globe?
 
 # Why is it a problem?
 
@@ -456,28 +500,26 @@ employment rights and are ill.
 Are tough on both employee and employer. This compels businesses to
 turn over their books when under suspicion.
 
-    - (4) domestic policies meant to stem the demand for cheap labor from
-      illegal immigrants
-      - these actually stoke the flames because now you have a slice
-        of the population who is essentially backed into a corner
-        - and is being starved out
-      - they risk serious consequences of backlash from legal and
-        illegal immigrants of specific ethnicities (not just limited
-        to latin american ancestry)
+- these actually stoke the flames because now you have a slice
+  of the population who is essentially backed into a corner
+  - and is being starved out
+- they risk serious consequences of backlash from legal and
+  illegal immigrants of specific ethnicities (not just limited
+  to latin american ancestry)
 
 #### (5) Unintended Free Market Response to Policy Response
 
-    - (5) illegal immigrants seeking work (to feed their families) are
-      committing crimes by working.  employers hiring illegal
-      immigrants are committing crimes by employing them.
-      - there are no social programs in place for this major chunk of
-        our population: ELEVEN MILLION PEOPLE with no social security
-        in place (in the truest sense of the term)
-        - that's three percent of our population with no options for
-          stability and nowhere to go, if it gets "really fucking cold
-          out."
-      - people supporting illegal immigrants may also be committing
-        crimes if they are knowingly doing so
+- (5) illegal immigrants seeking work (to feed their families) are
+  committing crimes by working.  employers hiring illegal
+  immigrants are committing crimes by employing them.
+  - there are no social programs in place for this major chunk of
+    our population: ELEVEN MILLION PEOPLE with no social security
+    in place (in the truest sense of the term)
+  - that's three percent of our population with no options for
+    stability and nowhere to go, if it gets "really fucking cold
+    out."
+- people supporting illegal immigrants may also be committing
+  crimes if they are knowingly doing so
 
 #### (6) Disparity in Education and Government Services
 
