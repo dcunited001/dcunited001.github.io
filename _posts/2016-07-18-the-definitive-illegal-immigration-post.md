@@ -13,9 +13,6 @@ likely to disagree with me (on a reactive, knee-jerk basis)
 - so i need to structure my content just right, otherwise those people
   will just stop reading or put up a mental block
 
-wtf else can i say instead of "it's important" .. "it's crucial"
-... eugh. need more expressive language...
-
 Illegal immigration is a serious long-term issue. Not to be alarmist,
 but it's a bit of a powder keg. The further we let it go on, the worse
 it gets. Regardless of who's side you're on, you need to hear me out.
@@ -55,7 +52,7 @@ do? People might rush the border.
 Amnesty doesn't exactly solve the problem, by the way. People can
 still come here illegally, so what does that do anyways? The debate on
 this issue is ridiculous. This is why we need a wall. I hate the
-fucking wall, but we need it. The wall is mostly a symbol, by the
+!@#$ing wall, but we need it. The wall is mostly a symbol, by the
 way. I don't care what the !@#$ it is, so long as it means that the
 number of people crossing the border slows to a trickle.
 
@@ -104,9 +101,7 @@ include those staying on an expired visa in this class. Finally, there
 are illegal immigrants, who entered the country illegally.
 
 Again, an oversimplification, but our domestic policies towards
-illegal immigration affects each class differently.
-
-
+illegal immigration affect each set differently.
 
 Why draw this distinction between families who have been here since
 the sixties and those who are more recent immigrants? Aren't we all
@@ -115,62 +110,30 @@ purposes, yes. I'm not arguing some people are more American and
 others are less American. But, this issue is nuanced in regard to
 various demographics.
 
-Unfortunately, the effects from illegal immigration affect people
-differently along generational and ethnic lines. Hispanic families
-who've been here since the sixties may feel much differently about
-policies than those who immigrated here in the nineties. But both
-families may feel the effects of misappropriated prejudice ... as if
-prejudice could ever be properly appropriated.
+- it's hard to make ... ??
 
-As more people illegally cross into America, the effects of this issue
-and those nuanced responses to it become more pronounced. It stirs up
-tensions in America along ethnic boundaries, causing people who are
-long-time US citizens to get hurt for no good reason at all. Our own
-citizens are redirecting the tension on themselves, further straining
-tensions along ethnic boundaries.
-
-A third party can approach this issue in an obtuse manner to
-demoralize us, using it as rhetoric against America. When it's career
-suicide to mistakenly state a single politically incorrect phrase, the
-discussion stagnates on this issue and others. There's a good reason
-for strong response to insensitive and politically incorrect
-statements. But, in a democracy, silencing that discussion can enable
-internal and external factions to stifle change. It prevents America
-from responding to America's problems.
-
-For illegal immigration, lack of dialogue here means failure to act on
-an issue that should be simple to fix. Over the course of decades,
-this leads to serious problems. In and of itself, the issue isn't that
-big of a deal. Downstream, inaction with this specific issue
-intensifies problems described later on. Those downstream problems are
-issues that foreign powers can subtly use to further demoralize and
-destabilize America by highlighting ethnic tensions.
-
-Read [Diversity is America's Strength]()
-
-
-## Citizens Since or Before the Baby Boomer Generation
+### Citizens Since or Before the Baby Boomer Generation
 
 These are families that have been in America for around three or more
-generations.
+generations. These families have deeper roots and are well connected
+in their local communities. This means they have well-established
+support networks to lean on when things go wrong.
 
-    - +3 generation americans (roots in america since baby-boomer
-      generation)
-      - i need to emphacize that i'm not saying that these people are
-        more american or that others are less american.
-      - making this distinction b/w recent immigrants and long time
-        citizens is important because their lives are a bit different
-        - people who have been here for a long time have deep roots
-          - large support networks when things go wrong. they probably
-            know a few dozen family members, possibly in their own
-            city
+- +3 generation americans (roots in america since baby-boomer
+  generation)
+  - making this distinction b/w recent immigrants and long time
+    citizens is important because their lives are a bit different
+    - people who have been here for a long time have deep roots
+    - large support networks when things go wrong. they probably
+      know a few dozen family members, possibly in their own
+      city
 
-## Citizens Since or After Generation X
+### Citizens Since or After Generation X
 
 
 - people who just became citizens might not have such extensive
-        roots. when things go wrong, it might be harder for them to
-        reach out.
+  roots. when things go wrong, it might be harder for them to
+  reach out.
       - or, if they are feeling the effects ethnic discrimination,
         when they're citizens and have been, how do you think that's
         going to make these people feel?
@@ -181,7 +144,14 @@ generations.
           a way to get here. they came to america for a reason, even
           though it was tough.
 
-## Immigrants on Visa (title)
+Language can sometimes present a barrier for first generation
+citizens, but that's eased over time. Still, it can present
+challenges, making it harder to reach out.
+- Combined with a more limited network,
+
+
+
+### Immigrants on Visa (title)
 
     - legal immigrants working on a visa/etc
       - these may be the least integrated people. i've been in a
@@ -228,6 +198,41 @@ generations.
       - fleeing bad circumstances in latin america or south america
       - to pursue the american dream for themselves or their children
 
+
+
+Unfortunately, the effects from illegal immigration affect people
+differently along generational and ethnic lines. Hispanic families
+who've been here since the sixties may feel much differently about
+policies than those who immigrated here in the nineties. But both
+families may feel the effects of misappropriated prejudice ... as if
+prejudice could ever be properly appropriated.
+
+As more people illegally cross into America, the effects of this issue
+and those nuanced responses to it become more pronounced. It stirs up
+tensions in America along ethnic boundaries, causing people who are
+long-time US citizens to get hurt for no good reason at all. Our own
+citizens are redirecting the tension on themselves, further straining
+tensions along ethnic boundaries.
+
+A third party can approach this issue in an obtuse manner to
+demoralize us, using it as rhetoric against America. When it's career
+suicide to mistakenly state a single politically incorrect phrase, the
+discussion stagnates on this issue and others. There's a good reason
+for strong response to insensitive and politically incorrect
+statements. But, in a democracy, silencing that discussion can enable
+internal and external factions to stifle change. It prevents America
+from responding to America's problems.
+
+For illegal immigration, lack of dialogue here means failure to act on
+an issue that should be simple to fix. Over the course of decades,
+this leads to serious problems. In and of itself, the issue isn't that
+big of a deal. Downstream, inaction with this specific issue
+intensifies problems described later on. Those downstream problems are
+issues that foreign powers can subtly use to further demoralize and
+destabilize America by highlighting ethnic tensions.
+
+Read [Diversity is America's Strength](/posts/2016-07-17-diversity-is-americas-strength.html)
+
 # Why is it Challenging?
 
 Why is it such a hard problem to tackle? Honestly, America has way
@@ -259,7 +264,6 @@ tensions will be higher, stagnating policy change.
       - obviously, there is an opportunity for racism. it would
         definitely
 
-
 ## Future Consequences of a Poor Policy
 
 With each year that passes, the consequences of inaction become
@@ -267,7 +271,7 @@ increasingly severe, including long-lasting cultural problems!
 
 > **E.G.** You put up a forcefield and stop people from entering the
 > country. You then grant everyone amnesty. Ok, problem solved, right?
-> **WRONG!!** Now you have a dozen million people, potentially bitter,
+> *WRONG!!* Now you have a dozen million people, potentially bitter,
 > who lack the same level of education. They don't have resumes and
 > they don't have very much money either.
 
@@ -289,10 +293,9 @@ later and we're still dealing with long-term cultural problems from
 that. And ... we want another source of problems like that? Hell no!
 
 (Link to section on resolving these tensions)
-[Diversity is America's Strength]()
+[Diversity is America's Strength](/posts/2016-07-17-diversity-is-americas-strength.html)
 
-
-## the pros don't outweigh the cons
+## The pros don't outweigh the cons
 
 The illegal immigration debate in America is messy. The PC police
 prevent people from...
@@ -359,20 +362,64 @@ you, but your inaction here is going to make those problems worse!
 
 #### (1) Jobs
 
-The jobs that are being taken are really the least of our concerns.
+The jobs that are being taken are really the least of our concerns. If
+our concern is lost jobs, we should be more concerned about those sent
+overseas.
 
 #### (2) Income Taxes
 
-    - (2) they don't pay income taxes.
-      - it's not like they are dancing their way to the bank though
+Illegal immigrants don't pay income taxes. They don't make very much
+money, especially since state and federal laws are cracking down
+against businesses who are caught hiring them.
+
+Their labor isn't quantified by businesses in the same way as other
+contractors or employees would be. This encourages sketchy book
+keeping practices to hide payments. That's just bad business. Any
+accounting system which needs to account for swapping money between
+accounts and withdrawing cash for payment becomes necessarily more
+complex, which makes it easier to cover other illegal behavior.
+
+And I believe cooking the books is a separate crime itself. Now you
+have two criminals: the illegal immigrant and the person who hired
+them.
 
 #### (3) Employment Rights
 
-    - (3) they don't have employment rights.
-      - this leads to tension, risk and abuse in (illegal) employment
-        agreements, where they have no options for recompense
+Illegal immigrants don't have employment rights. This can lead to
+tension. They can't expect contracts to be enforced and I imagine moot
+contracts leads to unclear statements of work and/or service level
+agreements. The lack of clearly stated requirements for work leads to
+disputes where, basically, they have to do what someone says or they
+don't get paid.
 
-#### (4) Policy Response is Isolating
+There's no authority in their employment environment that they can
+rely on to provide fair arbitration in case of a dispute. They can't\
+receive worker's comp or protection from OSHA. Any injury on the job
+could result in major legal consequences for both the person and their
+employer. After an accident requiring hospitalization, employee health
+and safety should be the number one priority. Instead, both parties
+here have an incentive to handle the situation to protect their own
+interests. I imagine that leading to seriously fucked up situations
+where someone is injured and loses future income, while simultaneously
+dealing with an angry employer and potential legal consequences.
+
+These and other situations lead to increased tension, risk and abuse
+in illegal employment aggreements, where they have no options for
+recompense. Ask any union member whether they'd work without oversight
+from OSHA or Worker's Comp. What would they say if you told them you
+heard of a guy who got fired for breaking his arm, who never got paid
+and received delayed medical care.
+
+#### (4) Policies Encourage Isolation
+
+The domestic policies meant to stem the demand for cheap labor from
+illegal immigrants end up creating more problems. It's not because the
+policies are flawed. These are just common sense policies: business
+can't hire employees that aren't paid minimum wage, aren't guaranteed
+employment rights and are ill.
+
+Are tough on both employee and employer. This compels businesses to
+turn over their books when under suspicion.
 
     - (4) domestic policies meant to stem the demand for cheap labor from
       illegal immigrants
