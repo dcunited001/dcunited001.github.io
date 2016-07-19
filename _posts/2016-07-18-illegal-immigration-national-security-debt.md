@@ -47,6 +47,69 @@ there.
 
 ## [Illegal Immigration is Painful for Everyone](#illegal-immigration-is-painful-for-everyone)
 
+#### &#x2605; [Citizens Since or Before the Baby Boomer Generation](#citizens-since-or-before-the-baby-boomer-generation)
+
+#### &#x2605; [Citizens Since or After Generation X](#citizens-since-or-after-generation-x)
+
+#### &#x2605; [Immigrants on Visa](#immigrants-on-visa)
+
+#### &#x2605; [Illegal Immigrants](#illegal-immigrants)
+
+#### &#x2605; [This Issue Makes America Vulnerable](#this-issue-makes-america-vulnerable)
+
+## [Why is it Challenging?](#why-is-it-challenging)
+
+#### &#x2605; [The Debate Isn't Structured Properly](#the-debate-isnt-structured-properly)
+
+#### &#x2605; [The Pros Don't Outweigh the Cons](#the-pros-dont-outweigh-the-cons)
+
+#### &#x2605; [Lackluster Solutions](#lackluster-solutions)
+
+#### &#x2605; [Amnesty is Difficult to Structure Properly](#amnesty-is-difficult-to-structure-properly)
+
+#### &#x2605; [Lack of Standard Identification](#lack-of-standard-identification)
+
+#### &#x2605; [Proclamation of Amnesty is Essentially Advertisement for Citizenship](#proclamation-of-amnesty)
+
+#### &#x2605; [Massive Deportations](#massive-deportations)
+
+#### &#x2605; [Future Consequences of Inaction and Poor Policy!](#future-consequences-of-inaction-and-poor-policy)
+
+#### &#x2605; [Longterm Ethnic Tension is Agony](#longterm-ethnic-tension-is-agony)
+
+#### &#x2605; [Simultaneous Tensions Between Multiple Ethnicities is a Disaster](#simultaneous-tensions-between-multiple-ethnicities-is-a-disaster)
+
+## [Why Is It A Problem?](#why-is-it-a-problem)
+
+#### &#x2605; [National Security](#national-security)
+
+## [Problems Related to Illegal Immigration](#problems-related-to-illegal-immigration)
+
+#### &#x2605; [Lost Jobs](#lost-jobs)
+
+#### &#x2605; [Unpaid Income Tax](#unpaid-income-taxes)
+
+#### &#x2605; [Lack of Employment Rights](#lack-of-employement-rights)
+
+#### &#x2605; [Cultural Isolation](#cultural-isolation)
+
+#### &#x2605; [Policies as Response Encourage More Isolation](#policies-as-response-encourage-more-isolation)
+
+#### &#x2605; [Unintended Free Market Response to Policy Response](#unintended-free-market-response-to-policy-response)
+
+#### &#x2605; [Disparity in Education and Government Services](#disparity-in-education-and-government-services)
+
+#### &#x2605; [Identification and Proof of Citizenship](#identification-and-proof-of-citizenship)
+
+#### &#x2605; [Burden of Cost is On Taxpayers](#burden-of-cost-is-on-taxpayers)
+
+#### &#x2605; [Fractured Families](#fractured-families)
+
+#### &#x2605; [Can't Announce Policy Changes](#cant-announce-policy-changes)
+
+#### &#x2605; [Stifled Policy Debate](#stifled-policy-debate)
+
+## [What are the Answers?](#what-are-the-answers)
 
 
 
@@ -442,13 +505,27 @@ No Photo ID? No documents? How are you going to handle those
 situations? I'm sure that someone has thought about this way more than
 I have.
 
-##
+<a name="proclamation-of-amnesty" />
 
-      - proclamation of an amnesty program is tantamount to
-        advertising free citizenship for anyone who can make it in in
-        time
-      - and there is no way to implement amnesty in enough time to
-        avoid a massive influx of illegal immigration
+## [Proclamation of Amnesty is Essentially Advertisement for Citizenship](#proclamation-of-amnesty)
+
+This is one of those apsects that makes this problem so difficult to
+resolve. You can't announce amnesty or anything like it, until we've
+fixed the root problem. Doing so would be irresponsible. There won't
+be a massive rush for the border, but the numbers will increase,
+especially depending on the particular details.
+
+The proclamation of an amnesty program is tantamount to advertising
+free citizenship for anyone who can make it in in time. And there is
+no way to implement amnesty in enough time to avoid a massive influx
+of illegal immigration. You can't just snap your fingers. That kind of
+stuff takes time! Most of the progress could occur in about five
+years, but there's no way we could complete something like this in ten
+years. I don't think.
+
+Some illegal immigrants are great people and I think we should figure
+out a way to provide *some* means of getting citizenship. Somehow.
+This is discussed more, later on.
 
 <a name="massive-deportations" />
 
@@ -493,7 +570,7 @@ ethnic boundaries!
 
 <a name="longterm-ethnic-tension-is-agony" />
 
-## Longterm Ethnic Tension is Agony
+## [Longterm Ethnic Tension is Agony](#longterm-ethnic-tension-is-agony)
 
 I cannot emphasize this enough. That kind of crap ferments
 longstanding ethnic tension. The kind of problems that cannot simply
@@ -507,7 +584,7 @@ that. And ... we want another source of problems like that? Hell no!
 
 <a name="simultaneous-tensions-between-multiple-ethnicities-is-a-disaster" />
 
-## Simultaneous Tensions Between Multiple Ethnicities is a Disaster
+## [Simultaneous Tensions Between Multiple Ethnicities is a Disaster](#simultaneous-tensions-between-multiple-ethnicities-is-a-disaster)
 
 These past two years, the nation has been intensely focused on ethnic
 tensions, originally stemming from the Ferguson protests. The
@@ -536,36 +613,88 @@ amoung nations work across the globe?
 
 # [Why Is It A Problem?](#why-is-it-a-problem)
 
-(summarize, then lead into list of problems)
+So, why should you care about illegal immigration? Why is it a
+problem? Why is it your problem?
 
-- (1) provide a definitive, balanced statement of illegal immigration
-  - why is it a problem? why should you care?
-    - establish that this problem is felt differently for different
-      groups of people.
-    - if you care about problems stemming from ethnic tensions,
-      then you would want to resolve this earlier than later
-      - because every year, the problem gets worse
-      - and the larger the disparity there is between legal and
-        illegal populations, the larger the ethnic tension there will
-        be. so again, if you care about fallout from ethnic tension,
-        then you'll want to do something about it sooner than later.
-      - there are 11 million people in the country illegally now
-        - if this number is 20 million instead, then that approaches
-          3% to 6% of the population!
+It's an issue that's felt differently for different groups of people,
+but if you care about problems stemming from ethnic tensions, then you
+would want to resolve this earlier than later. That's because every
+year there's a larger population of undocumented immigrants. And the
+larger the disparity there is between legal and illegal populations,
+the larger the ethnic tension there will be. There are eleven million
+people in the United States illegally. That's about 3% of the US
+population. If instead, there were 20 million people, then that
+approaches 5% or 6%, if you measure against US population at that
+time. So, we already have to deal with about 1 in 50 people. Think
+about the situation and how it affects internal issues when we have to
+worry about 1 in 20 people!
 
-## National Security
+So again, **if you care about fallout from ethnic tension**, then
+you'll want to do something about it *sooner* than *later*. I'm tired
+of explaining myself on what should be a minor issue.
 
-  - far and beyond, the biggest problem is national security
-    - you just can't, especially not in the 21st century. not in
-      america. that's just a giant red flag. we're worried about al
-      qaeda, but 11 million people just walked on in? man, that's 11
-      million chances for some terrible organization to have already
-      snuck someone in.
+<a name="national-security" />
 
+## [National Security](#national-security)
+
+Far and beyond, the biggest problem here is national security. You
+just can't. Not in the 21st century. Not in America. We have millions
+of people crossing the border? And we're paying to deal with the
+consequences of it? In political capital? In government resources? In
+terms of the growing strife amoung our people? And we don't know who
+these people are? That's just a giant red flag!
+
+We're worried about Al Qaeda ... but eleven million people just walked
+on in? Man, that's eleven million chances for some terrible
+organization to have already snuck someone in. It wouldn't surprise me
+if Homeland Security hasn't already identified dozens of people who
+have done just that.
+
+And then to lambast the Republican nominee for pointing this out
+because he's worried that eleven million undocumented immigrants might
+contain people who cause problems or are just flat out enemies of the
+state? Yeh, there is a better way to word the things he said. It's
+pretty terrible to make those statements, but my counterpoint is that
+*you can't even make statements tangential to my point that eleven
+million people could contain enemies of the state.*
+
+Am I crazy here? I mean I don't want to open a pandora's box of racism
+because it's horrible. But we can't even manage our own damn country
+because we're worried about hurting people's feelings. My feeling are
+going to get pretty hurt if ethnic tensions spread to combine with
+others and cause our country to suffer serious consequences. And we
+could have stopped it, but didn't because we might hurt someone's
+feelings.
+
+I'd like to distance myself from the way Donald Trump said what he
+did, but it's important to note the none of the eleven million
+individuals who illegally crossed the border came here because they
+wanted to surprise hundreds of Americans with giftboxes, filled with
+candy and a bottle of wine. They came here out of self-interest. So,
+they're getting what they want, giving us a headache with all the
+stifled discussion and then possibly contributing to a perfect storm
+of ethnic conflict by 2030.
+
+And we can't talk about it, but Democrats can *openly* talk about
+*using* this population for *more votes*. What the fuck?! If you
+really cared, you'd be talking more about the challenges this
+population will face once they get their ID card and citizenship.
+Gotta get their vote and public support first, eh?
+
+Just so I got this right, let me recap. There's water in the cargo
+hold, we can't talk about the leak and you'd like us to take on some
+more water -- and possibly some suicide bombers -- just so you can get
+a stronger grip on the ship's wheel? I don't think so. We're going to
+solve the problem at it's root. We're going to do so responsibly. It's
+going to happen, starting now because otherwise it's going get messier
+and uglier and nobody wants that! And you're going to help or you're
+going to GTFO.
+
+Basically, it's a national security problem in many ways.
 
 <a name="problems-related-to-illegal-immigration"
 
-# [Problems Related to Illegal Immigration]()
+# [Problems Related to Illegal Immigration](#problems-related-to-illegal-immigration)
 
 <a name="lost-jobs" />
 
@@ -793,21 +922,28 @@ can move on. When possible. That is not always possible.
 ## [Fractured Families](#fractured-families)
 
 The current situation and the implementation of policy risks
-fracturing families. This is another problem made worse to some degree
-by inaction, when the discussion to construct a coherent policy never
-really occured at all. Not to the necessary extent.
+fracturing families. This is agonizing and it's made worse to some
+degree by inaction, when the discussion to construct a coherent policy
+never really occured at all. Not to the necessary extent.
 
-- more here
+We have to be careful and tactful when developing and implementing
+policy to address this because we absolutely do not want to cause this
+pain. If it happens, we may have just caused excruciating pain that
+will last for generations. And even if we disregard how it makes
+others feel -- which is horrible -- then even still, every single time
+it happens, it may create problems we have to deal with for
+generations.
 
-- some of the other policies in this country are fracturing families
-  by the way, which makes me fucking livid
+Some of the other policies in this country are fracturing families by
+the way, which makes me !@#$'ing livid. I don't want to look under the
+rug right now. That's generally valuable advice by the way: do not,
+under any circumstance, look under that !@#$'ing rug. Everyone's got
+one and it's there for a reason. You can walk on it. You can set your
+table on it and that works pretty good. I wouldn't recommend moving
+it. But under no circumstance should you ever attempt to look under
+it.
 
-<a name="national-security-risk" />
-
-## [National Security Risk](#national-security-risk)
-
-- (12) and there's the major security risk when people connected
-      to terrorism try to slip in.
+[Link to National Security Post]()
 
 <a name="cant-announce-policy-changes" />
 
@@ -838,6 +974,7 @@ really occured at all. Not to the necessary extent.
   - partly because of the PC Police scaring us into inaction by
     raising the spectre of racism
 
+<a name="what-are-the-answers" />
 
 # [What are the Answers?](#what-are-the-answers)
 
