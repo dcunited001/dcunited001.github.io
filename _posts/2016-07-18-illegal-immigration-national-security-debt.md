@@ -45,6 +45,11 @@ me for that. And as much as you can try to put yourself in someone
 else's shoes, you'll never truly know how that feels until you're
 there.
 
+## [Illegal Immigration is Painful for Everyone](#illegal-immigration-is-painful-for-everyone)
+
+
+
+
 #### Illegal Immigration Indicates a Failure of Border Security
 
 Furthermore, I'll elaborate on how illegal immigration contributes to
@@ -97,25 +102,35 @@ purposes, yes. I'm not arguing some people are more American and
 others are less American. However, this issue is nuanced in regard to
 various demographics.
 
-## [Citizens Since or Before the Baby Boomer Generation]()
+<a name="citizens-since-or-before-the-baby-boomer-generation" />
+
+## [Citizens Since or Before the Baby Boomer Generation](#citizens-since-or-before-the-baby-boomer-generation)
 
 These are families that have been in America for around three or more
 generations. These families have deeper roots and are well connected
 in their local communities. This means they have well-established
-support networks to lean on when things go wrong.
+support networks to lean on when things go wrong. They probably have a
+few dozen family members they could rely on possibly in their own
+city. There is no language barrier.
 
-- +3 generation americans (roots in america since baby-boomer
-  generation)
-  - making this distinction b/w recent immigrants and long time
-    citizens is important because their lives are a bit different
-    - people who have been here for a long time have deep roots
-    - large support networks when things go wrong. they probably
-      know a few dozen family members, possibly in their own
-      city
-- need to emphacize why this class of people wants essentially the same
-  thing as the others and why.
+This group of people essentially wants the same things as others, but
+in a different way, as they've benefitted from our society and its
+systems for generations. Obviously some people in society face more
+challenges than others and have differing viewpoints as to how and why
+those problems exist. But, if they believe in the American Dream, then
+they want to offer others the chance to partake in the system they see
+as beneficial.
 
-### Citizens Since or After Generation X
+However, they still want strong immigration policy. They don't want
+that system to be threatened by massive numbers of undocumented
+immigrants bypassing those immigration procedures. if members of this
+group of people understood the true longterm threat this posed, they
+would be angry about it. Again, this issue is a problem precisely
+because it's subtle and long-term.
+
+<a name="citizens-since-or-after-generation-x" />
+
+## [Citizens Since or After Generation X](#citizens-since-or-after-generation-x)
 
 Families and people who have became citizens in the past generation or
 two are going to feel differently on this issue. I think we also need
@@ -151,7 +166,9 @@ america for a reason, even though it was tough. If effects from such
 treatment are serious, that further isolates families who would
 probably otherwise be very patriotic!
 
-### Immigrants on Visa, etc.
+<a name="immigrants-on-visa" />
+
+## [Immigrants on Visa](#immigrants-on-visa)
 
 Aside from illegal immigrants, legal immigrants working or studying on
 a visa might be the least integrated people. Further still, a resident
@@ -176,6 +193,15 @@ I wrote in May and it's actually better. It's part of the
 [Facets of Greatness](/posts/2016-05-12-facets-of-greatness-intro.html)
 series, but also has a section on
 [how diversity strengthens America](/posts/2016-05-14-facets-of-greatness-the-unknown-monumental-accidents.html#embracing-diversity).
+
+The most important point to emphacize here is: these immigrants
+respected the law and procedures when they applied for the opportunity
+to come here. I don't think they are too happy about those who
+didn't. They are not going to be very happy about discrimination and
+tension stirred up as a result of illegal immigration. They might not
+have the same opinion on the cause of that and there's never any
+excuse for such discrimination, but that shit hurts and now these
+legal immigrants are feeling it too!
 
 #### I've Been There, Too ...  Well Kinda
 
@@ -216,7 +242,9 @@ awesome and the language immersion would be great for me. I really
 like the culture. And the *food*, 美味しい！ And the cosplayers'
 scene! lulz
 
-## Illegal Immigrants
+<a name="illegal-immigrants" />
+
+## [Illegal Immigrants](#illegal-immigrants)
 
 Illegal immigrants are perhaps the worst off in this whole
 situation. Accuse me of racism if you want, but it's actually empathy
@@ -290,7 +318,9 @@ long-time US citizens to get hurt for no good reason at all. Our own
 citizens are redirecting the tension on themselves, further straining
 tensions along ethnic boundaries.
 
-## This Issues Makes America Vulnerable
+<a name="this-issue-makes-america-vulnerable" />
+
+## [This Issue Makes America Vulnerable](#this-issue-makes-america-vulnerable)
 
 A third party can approach this issue in an obtuse manner to
 demoralize us, using it as rhetoric against America. When it's career
@@ -311,14 +341,18 @@ destabilize America by highlighting ethnic tensions.
 
 Read [Diversity is America's Strength](/posts/2016-07-17-diversity-is-americas-strength.html)
 
-# Why is it Challenging?
+<a name="why-is-it-challenging" />
+
+# [Why is it Challenging?](#why-is-it-challenging)
 
 Why is it such a hard problem to tackle? Honestly, America has way
 bigger problems *at the moment*. Yet, the more time passes, the harder
 this becomes to resolve. The solutions will be more expensive and
 tensions will be higher, stagnating policy change.
 
-## The Debate Isn't Structured Properly
+<a name="the-debate-isnt-structured-properly" />
+
+## [The Debate Isn't Structured Properly](#the-debate-isnt-structured-properly)
 
 The illegal immigration debate in America is messy. The PC police
 prevent people from making specific statements. Without those
@@ -333,7 +367,9 @@ case if blacklisting specific propositions of an argument restrains us
 from implementing the right public policy. This is especially true
 *when inaction otherwise leads to a drastically worse situation*.
 
-## The Pros Don't Outweigh the Cons
+<a name="the-pros-dont-outweigh-the-cons" />
+
+## [The Pros Don't Outweigh the Cons](#the-pros-dont-outweigh-the-cons)
 
 There just aren't enough perceived benefits to justify the cost in
 political capital from either side. We were entirely focused on health
@@ -366,14 +402,18 @@ The lack of incentive to solve is precisely why illegal immigration is
 so dangerous. It's subtle. It wasn't addressed in the late nineties
 and it was basically a hot potato in the aughties.
 
-## Lackluster Solutions
+<a name="lackluster-solutions)" />
+
+## [Lackluster Solutions](#lackluster-solutions)
 
 There aren't any great answers and no one wants to let us hurt
 anyone's feelings. The southern border with mexico is huge. It's hard
 to justify the expense of a wall, but for that we need to think
 outside the box.
 
-#### Amnesty is Difficult to Structure Properly
+<a name="amnesty-is-difficult-to-structure-properly" />
+
+## [Amnesty is Difficult to Structure Properly](#amnesty-is-difficult-to-structure-properly)
 
 Amnesty's a legal nightmare and possibly a policy quagmire. Depending
 on how something like that is implemented, it will be a bureaucratic
@@ -389,7 +429,9 @@ disregard legitimate immigration procedures and respect for the
 law. What signal does that send to the people who dreamed big and
 worked hard to get here?
 
-#### Lack of Standard Identification
+<a name="lack-of-standard-identification" />
+
+## [Lack of Standard Identification](#lack-of-standard-identification)
 
 This is a national security mess. How does one prove identity? How do
 we know you are who you say you are. All that talk about Real ID and
@@ -408,7 +450,9 @@ I have.
       - and there is no way to implement amnesty in enough time to
         avoid a massive influx of illegal immigration
 
-## Massive Deportations
+<a name="massive-deportations" />
+
+## [Massive Deportations](#massive-deportations)
 
 Does anyone really want to talk about this? No. I don't. But
 seriously, what are we going to do? Again, inaction makes the problem
@@ -422,11 +466,13 @@ to now
 
 - massive deportation may work, but is equally riddled with
   problems.
-  - obviously, there is an opportunity for racism. it would
-    definitely
+  - obviously, there is an risk for racism and painful
+    discrimination. it would definitely.
+  - we may be able to mitigate this risk with technology
 
+<a name="future-consequences-of-inaction-and-poor-policy" />
 
-## Future Consequences of a Poor Policy
+## [Future Consequences of Inaction and Poor Policy!](#future-consequences-of-inaction-and-poor-policy)
 
 With each year that passes, the consequences of inaction become
 increasingly severe, including long-lasting cultural problems!
@@ -445,6 +491,8 @@ absolutely can not have a segment of our population, long deprived of
 education and employment opportunities, who is isolated along mostly
 ethnic boundaries!
 
+<a name="longterm-ethnic-tension-is-agony" />
+
 ## Longterm Ethnic Tension is Agony
 
 I cannot emphasize this enough. That kind of crap ferments
@@ -456,6 +504,8 @@ that. And ... we want another source of problems like that? Hell no!
 
 (Link to section on resolving these tensions)
 [Diversity is America's Strength](/posts/2016-07-17-diversity-is-americas-strength.html)
+
+<a name="simultaneous-tensions-between-multiple-ethnicities-is-a-disaster" />
 
 ## Simultaneous Tensions Between Multiple Ethnicities is a Disaster
 
@@ -503,7 +553,7 @@ amoung nations work across the globe?
         - if this number is 20 million instead, then that approaches
           3% to 6% of the population!
 
-### National Security
+## National Security
 
   - far and beyond, the biggest problem is national security
     - you just can't, especially not in the 21st century. not in
@@ -731,22 +781,23 @@ It's necessary to provide visibility here and reports summarize ICE's
 operations. However, the incentives for each party here do not line up
 properly. There's major overhang with regard to enforcing immigration,
 as in incentives driving each party's behavior line up like a wobbly
-jenga tower.
-
-(review ^^^)
+jenga tower. This is just the politics of business between a unit of
+an organization that reports to a unit that reviews their actions, so
+it's not entirely unexpected. Yet, I think we need to make sure that
+we don't end up with these zombie bureaucracies that seek nominal
+progress. We need policy and organizations that solve problems so we
+can move on. When possible. That is not always possible.
 
 <a name="fractured-families" />
 
 ## [Fractured Families](#fractured-families)
 
-- (11) implementation of policy risks fracturing families
-      - when the discussion to construct a coherent policy never
-        really occured.  or at least not to the extent that i would
-        like to believe is necessary.
-        - and i cover how a viable strategy requires secrecy, but what
-          i'm saying if no one knows the goals we are pushing towards
-          with resolving illegal immigration, how can they know how to
-          react?
+The current situation and the implementation of policy risks
+fracturing families. This is another problem made worse to some degree
+by inaction, when the discussion to construct a coherent policy never
+really occured at all. Not to the necessary extent.
+
+- more here
 
 - some of the other policies in this country are fracturing families
   by the way, which makes me fucking livid
@@ -767,6 +818,12 @@ jenga tower.
   - this means we stymie an already stifled discussion
     - we can't really make suggestions without causing possibly
       significant changes in behavior
+
+      viable strategy requires secrecy, but what
+          i'm saying if no one knows the goals we are pushing towards
+          with resolving illegal immigration, how can they know how to
+          react?
+
 
 - whenever we do decide on something, we have to be careful as to how
   we present it and announce it.
