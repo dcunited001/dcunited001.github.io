@@ -329,11 +329,11 @@ the generation who feels the impact of them. The power in a republic
 should be distributed across the generations, but the people that make
 the most critical decisions should be the more senior generations.
 
-Why? That's the subject for another post, but there are just some
-things that you won't understand until you have experienced them. You
-won't get it. Also, rapid change from the inexperienced younger
-generation contributes to instability. Plato agrees. Read the
-Republic.
+Why? I've actually already written about it. It's in the Facets of
+Greatness Intro in the section on
+[Why Power Should Gravitate Towards Seniority](/posts/2016-05-12-facets-of-greatness-intro.html).
+Rapid change from the inexperienced younger generation contributes to
+instability. Plato agrees. Read the Republic.
 
 <a name="america-was-designed-with-change-in-mind" />
 
