@@ -426,16 +426,16 @@ amoung nations work across the globe?
         then you'll want to do something about it sooner than later.
       - there are 11 million people in the country illegally now
         - if this number is 20 million instead, then that approaches
-          0.5% to 1.0% of the population!
+          3% to 6% of the population!
 
 ### National Security
 
   - far and beyond, the biggest problem is national security
-      - you just can't, especially not in the 21st century. not in
-        america. that's just a giant red flag. we're worried about al
-        qaeda, but 11 million people just walked on in? man, that's 11
-        million chances for some terrible organization to have already
-        snuck someone in.
+    - you just can't, especially not in the 21st century. not in
+      america. that's just a giant red flag. we're worried about al
+      qaeda, but 11 million people just walked on in? man, that's 11
+      million chances for some terrible organization to have already
+      snuck someone in.
 
 
 
@@ -491,7 +491,20 @@ from OSHA or Worker's Comp. What would they say if you told them you
 heard of a guy who got fired for breaking his arm, who never got paid
 and received delayed medical care.
 
-## (4) Policies Encourage Isolation
+## (4) Cultural Isolation
+
+Since they can't get into trouble that results in legal action, these
+people will become culturally isolated from the rest of America. They
+would almost have to live in the shadows. They couldn't easily apply
+for a bank account. They would use mostly cash, which can be
+risky. They could receive payments through someone else, which would
+make payments a bit simpler and easier to mask for businesses...
+
+I've never actually met someone I know to be an illegal immigrant.
+That's not something I'd imagine someone would tell you right off the
+bat. So I hope this doesn't sound insensitive.
+
+## (5) Policies Encourage More Isolation
 
 The domestic policies meant to stem the demand for cheap labor from
 illegal immigrants end up creating more problems. It's not because the
@@ -508,7 +521,7 @@ starved out. These policies are necessary, but risk serious
 consequences of backlash from legal and illegal immigrants of various
 ethnicities.
 
-## (5) Unintended Free Market Response to Policy Response
+## (6) Unintended Free Market Response to Policy Response
 
 Illegal immigrants seeking a living wage and trying to feed their
 families are committing crimes by working. Employers hiring illegal
@@ -517,11 +530,12 @@ cooking their books. There are no social programs in place for this
 major chunk of our population. No safety net. There is no social
 security in place, in the truest sense of the term.
 
-That's one percent of our population with no options for stability and
-nowhere to go, when things get tough. Further, people who knowingly
-support illegal immigrants without reporting them could be committing
-a crime if they did so. I'd feel horrible if I was compelled to rat
-someone out like that and ended up splitting up a family.
+Eleven million. That's 3% of our population with no options for
+stability and nowhere to go, when things get tough. Further, people
+who knowingly support illegal immigrants without reporting them could
+be committing a crime if they did so. I'd feel horrible if I was
+compelled to rat someone out like that and ended up splitting up a
+family.
 
 What do people do, who hit hard times? They usually try to make ends
 meet. Sometimes, this means they turn to crime or drugs to make money
@@ -541,70 +555,59 @@ offensive statement here?
 
 Just think about that for a minute.
 
-## (6) Disparity in Education and Government Services
+## (7) Disparity in Education and Government Services
 
-- (6) their children can't receive education (depending on
-      circumstance)
-      - this leads to large amounts of idle, uneducated youth
-        - it's bad. and when the issue is resolved, these children
-          will suffer lasting consequences, as they won't easily
-          conform to others of the same age in the education system
-        - major source of long term consequences.
-        - a certain minority who, if granted amnesty, *may* feel
-          ashamed to admit to their past, for fear of judgement and
-          for fear of being labeled as someone who is less capable in
-          the workplace
-          - because of a lack of education
-          - or because a perceived lack of education
+Their children may or may not have access to education, depending on
+circumstance. This could contribute to idle, under-educated
+youth. What does that contribute to?
 
-## (7) Strict Policies make things tough
+When we do solve this issue, these children will suffer lasting
+consequences, as they won't easily conform to others of the same age
+in the education system.
 
-- (7) if strict policies on stemming demand for illegal immigrant
-      employment are working, then things are going to get real hard
-      for illegal immigrants, including those who would otherwise be
-      "model uncitizens"
-      - this leads to about 3% of the population suffering serious
-        hardship, with little options for money to resolve those
-        problems.
-      - that will lead people to partake in organized crime
+*Disparity in education is a major source of long-term
+consequences*. A certain fraction of new citizens who, if granted
+amnesty, *may* feel ashamed to admit to receiving amnesty, for fear of
+judgement and for fear of being labeled as someone who is less
+capable in the workplace. This could result from a lack of education
+or a perceived lack of education, **both of which result from a
+complete failure to provide an adequate amnesty process.**
 
-## (8) Cultural Isolation (repeated?)
+A process which transitions illegal immigrants to citizens which does
+not help bridge that gap is a failure out of the gate. You might as
+well retire that horse. You might celebrate your victory on illegal
+immigration and pat yourself on the back ... but guess what? You just
+created a source of long-term tension along ethnic lines. That's like
+sellin someone a car without an engine. Thanks a lot.
 
-- (8) these people will become culturally isolated from the rest
-      of america, having to live in the shadows, basically
-      - major, major source of misunderstanding and conflict
-      - i've never actually met someone that i know to be an illegal
-        immigrant. never spoken to someone like that.
+## (9) Identification and Proof of Citizenship
 
-## (9) No Means of Identification (retitle bc they could have)
+There's no assurance that these immigrants have valid identification,
+contributing to national security and operational problems. I don't
+want to elaborate too much here, but we're asking for it. There is
+major potential for abuse of ICE procedures here. If we do need to
+deport someone, where do we send them? It's possible to manipulate the
+system into basically getting a free plane ticket anywhere they want.
 
-- (9) there is no assurance that these immigrants have valid
-      identification from another country
-      - where do we send them back?
-        - if they have no identification. they will probably lie and
-        say their from tijuana or cuidad juarez.
-      - there is major potential for abuse of our own systems here
-        - someone may manipulate the system into getting a free plane
-          ticket to basically anywhere they want
-        - that's probably not actually such a serious threat though.
-      - this one has national security written all over it
+(review)
 
 ## (10) Burden of Cost is on Taxpayers
 
-- (10) the burden of cost to monitor and deport is placed on taxpayers
-      - who can't be sure that there is a coherent strategy for
-        actual resolution
-      - this forms a bureaucracy, who's budget from year-to-year
-        actually requires maintainence of the problem ... to some
-        extent, anyways.
-        - because of congressional and executive oversight, it also
-        requires establishing reports demonstrating reasonable
-        progress
-      - but this is a major problem because the incentives behind each
-        of the players suffer from major, major overhang and stifled
-        discussion.
-        - overhang as in the incentives are like a really wobbly jenga
-          tower.
+The burden of cost to monitor and deport is placed on taxpayers, but
+we can't be sure that there's a coherent strategy for actual
+resolution. This results in the formation of a bureaucracy, whose
+budget from year-to-year actually requires maintainence of the problem
+... to some extent, anyways. And because ICE needs congressional and
+executive oversight, it also requires establishing reports
+demonstrating reasonable progress.
+
+It's necessary to provide visibility here and reports summarize ICE's
+operations. However, the incentives for each party here do not line up
+properly. There's major overhang with regard to enforcing immigration,
+as in incentives driving each party's behavior line up like a wobbly
+jenga tower.
+
+(review ^^^)
 
 ## (11) Implementation Risks Fracturing Families
 
@@ -674,8 +677,18 @@ summary
   - should be something that is appealing for people
     - but also fair to those who have been here. or came here legally
 
+- restriction of cash? if they have to deal in cash but can't buy some
+  goods in cash... i mean that's a really mean, draconian way to crack
+  down on it.
+  - seriously orwellian though. not worth the implementation, etc.
+
+- addressing the identification problem
+  - this can be used in some way to slightly pressure Latin American
+    countries to adopt more robust identification
+
 
 ## A Disorganized Strategy for Immigration Means:
+  - move this up?
 
     - increased tensions for illegal and legal immigrants here
     - any concerted strategy for solving the problem requires some
