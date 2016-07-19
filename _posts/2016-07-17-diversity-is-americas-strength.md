@@ -2,7 +2,7 @@
 title: "Diversity is America's Strength"
 categories: "blog"
 tags: "sociology politics"
-headline: ""
+headline: "Unity through Diversity"
 author:
   name: "David Conner"
 excerpt: "
