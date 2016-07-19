@@ -34,7 +34,9 @@ then tell me about how I'm wrong.
 
 #### &#x2605; Part of a Family Who Illegally Crossed into America Chasing Opportunity
 
-In 5,000 words or less, I'm going to provide you with the realest
+In 5,000 words or less -- HA! Like that was ever going to happen...
+
+In 8,000 words or so, I'm going to provide you with the realest
 summary of why it's a painful issue for everyone involved. You'll be
 able to empathize with what illegal immigrants are going through in
 this country. I'm going to try to describe what that's like, but I
@@ -62,28 +64,6 @@ this issue is ridiculous. This is why we need a wall. I hate the
 !@#$ing wall, but we need it. The wall is mostly a symbol, by the
 way. I don't care what the !@#$ it is, so long as it means that the
 number of people crossing the border slows to a trickle.
-
-## Why is it Challenging?
-
-### Future Consequences of a Poor Policy
-
-### Longterm Ethnic Tension is Agony
-
-### Why Don't People Act?
-
-### Why Should You Care?
-
-### Who Feels this Problem and Why?
-
-- each class
-
-### Why has it been so Hard to Resolve?
-
-# Problems Related to Illegal Immigration
-
-### (1-15)
-
-# What are the Answers?
 
 <a name="illegal-immigration-is-painful-for-everyone" />
 
@@ -117,7 +97,7 @@ purposes, yes. I'm not arguing some people are more American and
 others are less American. However, this issue is nuanced in regard to
 various demographics.
 
-### Citizens Since or Before the Baby Boomer Generation
+## [Citizens Since or Before the Baby Boomer Generation]()
 
 These are families that have been in America for around three or more
 generations. These families have deeper roots and are well connected
@@ -132,6 +112,8 @@ support networks to lean on when things go wrong.
     - large support networks when things go wrong. they probably
       know a few dozen family members, possibly in their own
       city
+- need to emphacize why this class of people wants essentially the same
+  thing as the others and why.
 
 ### Citizens Since or After Generation X
 
@@ -920,6 +902,8 @@ not really sure this will be very effective.
         - and the discussion of it
 
 
+-- possibly split into separate post (not 5,000 words!)
+
 <a name="system-theory-structure-the-incentives-and-feedback-loops" />
 
 ### [Systems Theory - Structure the Incentives and Feedback Loops]()
@@ -960,8 +944,48 @@ not really sure this will be very effective.
       communicating that to others and cutting through the stifled,
       chaotic dialogue in this country.
 
-      When we make people aware that we all know we
-      want essentially the same thing,
+- metaphor to a system of a million random 3D vectors of varying
+  direction and magnitude.  If you sum a random or almost random
+  system of vectors like this, what do you end up with?
+  - a very small vector representing the sum of change in the system.
+  - just throwing numbers out: the magnitude could be 1/100 to 100
+    times the magnitude of the average vector
+- now what if that system contains the same number of vectors of a
+  similar distribution of magnitude, where they have been reoriented
+  so that the face towards mostly the same direction.
+  - when you sum them, you get a vector that's somewhere between
+    10,000 and 1,000,000 times the magnitude of the original vector
+- we all agree that we need changes and we all recognize mostly the
+  same set of serious problems in society. Where the left and right
+  depart is on proposing solutions to those problems. What I want to
+  do is unite the left and the right, so that we can truly accomplish
+  something great in America and in the world.
+
+  - sometime soon, i'll write a post on the differences between the
+    freedom of the individual and the freedom of the community.
+    - particularly, i'll discuss that they are fundamentally at odds
+      with each other. individuals should have the freedom to live the
+      life they want, without judgement.
+      - so we need a system that enables that
+      - but small, local communities also deserve the freedom to build
+        the community they want and one that
+        - and we need a system that allows local communities to depart
+          from the mainstream on some social issues
+    - but the point here is that the left and the right are at each
+      others throats over this stuff. but we need a country that has
+      both. the federal government has no business telling you what is
+      moral and what is not. they should make laws that enforce
+      ethics, but morality is something for individuals, families and
+      communities to decide. yet, if communities lack that freedom,
+      then we have problems.
+
+  - if we could figure out a system where we have both the freedom of
+    the individual and the freedom of the community, where the left
+    and right don't have to fight about this, then imagine the
+    progress we could make for america.
+
+      When and so when we make people aware that we all know we want
+      essentially the same thing,
       - we all want the chance to work hard and be rewarded for that
         hard work,
       - then we can motivate everyone
