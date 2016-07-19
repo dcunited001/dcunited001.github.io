@@ -6,7 +6,16 @@ philosophy politics"
 headline: ""
 author:
   name: "David Conner"
-excerpt: ""
+excerpt: "
+The Articles of Confederation may have been a more idealistic
+government, but let's be serious here: do you really think they
+intended that to last? Not really. It was good enough. Good enough to
+give our founders about a decade to figure out what would be great
+enough to last centuries. That's what I mean. Yeh, Thomas Jefferson
+might have wanted the Articles to last. It didn't have the power or
+mechanism to tax states. That's like asking the Red Cross to run your
+government. But this is what I mean: they knew it was going to play
+out like that. And what would you do?"
 ---
 
 Just to clarify right at the start: I support Trump for president. I
@@ -61,6 +70,14 @@ get in the way.
 ### &#x265E; [America was Designed with Change in Mind](#america-was-designed-with-change-in-mind)
 
 ### &#x265E; [Of Governments and Video Game Design](#of-governments-and-video-game-design)
+
+### &#x265E; [A Brief Journey Into My Personal Life](a-brief-journey-into-my-personal-life)
+
+### &#x265E; [Be the Leader I Wasn't Allowed to Become](be-the-leader-i-wasnt-allowed-to-become)
+
+> So I Learned to Lead Leaders!
+>
+> That was My Genius All Along.
 
 # Navigating the Political System
 
@@ -159,9 +176,10 @@ able to project and prepare for policy changes.
 
 # &#x265E; [Reform Requires Building a Movement](#reform-requires-building-a-movement)
 
-Higher cost to reforms means that the people who want it most end up
-winning. To change something in this country, you have to get popular
-support, especially if a policy is contrary to special interests.
+Higher cost in time & effort for reforms means that the people who
+want it most end up winning. To change something in this country, you
+have to get popular support, especially if a policy is contrary to
+special interests.
 
 That means you have to build a movement. How do you build a movement?
 You relate to people. You figure out how to connect to them. You get
@@ -271,8 +289,8 @@ world. If you've been living under a rock, it stems from technology
 and the tectonic cultural shift that's occuring. There are problems
 with this. It's not going to be easy. and it's going to be fast. If we
 do not nail it right, we're going to lose. Not everything, but we'll
-lose pretty big. This isn't a high-probability risk, but it would be a
-costly one. So we need to be prepared.
+lose pretty big. This isn't a high-probability risk, but it could be a
+costly loss. So we need to be prepared.
 
 <a name="i-cant-stand-citizens-united" />
 
@@ -414,7 +432,9 @@ discussion.
 
 Well, that's it! No more politics for now... Womp Womp; The End;;
 
-## A Brief Journey Into My Personal Life
+<a name="a-brief-journey-into-my-personal-life" />
+
+# &#x265E; [A Brief Journey Into My Personal Life](a-brief-journey-into-my-personal-life)
 
 Yes, i've made less than 30% of the aggregate income that I should
 have over the past few years, mostly to pursue startup ideas. But if
@@ -459,7 +479,9 @@ possible on my tax returns. JUST SO I COULD BITCH ABOUT IT. So I will.
 And how is it that I can help so many other people, yet have nothing
 myself? What the fuck is that, anyways?
 
-## Be the Leader I Wasn't Allowed to Become
+<a name="be-the-leader-i-wasnt-allowed-to-become" />
+
+# &#x265E; [Be the Leader I Wasn't Allowed to Become](be-the-leader-i-wasnt-allowed-to-become)
 
 As previously noted in the
 [Facets of Greatness](/posts/2016-05-12-facets-of-greatness-intro.html)
