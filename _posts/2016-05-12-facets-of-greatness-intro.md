@@ -15,6 +15,8 @@ non ille pro caris amicis
 aut patria timidus perire."
 ---
 
+<a name="how-to-steve-jobs" />
+
 What makes a person like Elon Musk or Steve Jobs so effective at
 reaching their dreams? How were people like Ghandi and Martin Luther
 King Jr. so effective at organizing a movement?  What qualities,
@@ -22,6 +24,48 @@ behaviors, experience and knowledge contribute most to building their
 character, realizing their dreams and pushing them forward, in spite
 of hardship?  What attributes contribute to the development of these
 qualities and behaviors? Why are these attributes important?
+
+## [How to Steve Jobs](#how-to-steve-jobs)
+
+### &#x03A6; [What Do We Need to Know to be Great?](#what-do-we-need-to-know-to-be-great)
+
+### &#x03A6; [Where Do We Learn to be Great?](#where-do-we-learn-to-be-great)
+
+### &#x03A6; [A Reflection of My Life Experience](#a-reflection-of-my-life-experience)
+
+## [Aristotelian Ethics: A Brief Interlude](#aristotelian-ethics-a-brief-interlude)
+
+### &#x03A6; [Magnanimity](#magnanimity)
+
+### &#x03A6; [Extrapolating Global Trends](#extrapolating-global-trends)
+
+### &#x03A6; [You're Not Born with Virtue or Magnanimity](#youre-not-born-with-virtue-or-magnanimity)
+
+## [An Aristotelian Lens for Global Trends](#an-aristotelian-lens-for-global-trends)
+
+### &#x03A6; [Democracy Encourages Personal Investment](#democracy-encourages-personal-investment)
+
+### &#x03A6; [Why Power Should Gravitate Towards Seniority](#why-power-should-gravitate-towards-seniority)
+
+### &#x03A6; [Wisdom Comes from Experience](#wisdom-comes-from-experience)
+
+### &#x03A6; [Reward Risk for Pursuit of What is Right](#reward-risk-for-pursuit-of-what-is-right)
+
+### &#x03A6; [Poverty Is Corrosive](#poverty-is-corrosive)
+
+### &#x03A6; [Technology is a Double-Edged Sword](#technology-is-a-double-edged-sword)
+
+### &#x03A6; [The World Cannot Afford Major War](#the-world-cannot-afford-major-war)
+
+### &#x03A6; [Global Collapse Precludes Viability of Virtue](#global-collapse-precludes-viability-of-virtue)
+
+## [Tools for a New Generation of Cooperation](#tools-for-a-new-generation-of-cooperation)
+
+### &#x03A6; [With No Small Plans](#with-no-small-plans)
+
+!["Stay Hungry. Stay Foolish." - Steve Jobs](/img/posts/2016-05-12-facets-of-greatness-intro/steve-jobs-stay-hungry-stay-foolish.jpg)
+
+# [The Facets of Greatness](#facets-of-greatness)
 
 ### &#x1f48e; [Quantification](#quantification)
 
@@ -43,11 +87,11 @@ qualities and behaviors? Why are these attributes important?
 
 ### &#x1f48e; [Strategy](#strategy)
 
-### &#x1f48e;
+### &#x1f48e; [???](#unknown)
 
-### How to Steve Jobs
+<a name="what-do-we-need-to-know-to-be-great" />
 
-!["Stay Hungry. Stay Foolish." - Steve Jobs](/img/posts/2016-05-12-facets-of-greatness-intro/steve-jobs-stay-hungry-stay-foolish.jpg)
+## [What Do We Need to Know to be Great?](#what-do-we-need-to-know-to-be-great)
 
 What kinds of knowledge help us form and realize a vision? What
 knowledge catalyzes the development of such a vision?  What inspires
@@ -61,6 +105,10 @@ providing detailed descriptions subsequent articles.
 > other than to methodologize and improve on these, if I'm ever to
 > realistically expect to launch a product." - David Conner, Radiant
 > Apex of Greatness...
+
+<a name="where-do-we-learn-to-be-great" />
+
+## [Where Do We Learn to be Great?](#where-do-we-learn-to-be-great)
 
 Where is it that most people learn to be great?  It's their father
 that first imbues that image.  Perhaps their mother as well.
@@ -81,6 +129,10 @@ that I needed to create my own meaning in life.
 
 #### Myst - Good Luck Figuring That Shit Out
 
+<a name="a-reflection-of-my-life-experience" />
+
+# [A Reflection of My Life Experience](#a-reflection-of-my-life-experience)
+
 So this series is a reflection on what I've learned. I didn't have
 much of a clearly stated system given to me by my parents.  That is,
 other than **(Step 1)** Read the Bible **(Step 2)** Go to Church
@@ -100,17 +152,19 @@ about the knowledge required to move people to build great
 things. Then I'll provide a summary of each facet, each of which will
 be further detailed in future articles. Then I'll describe some of the
 general mistakes I've made in the past and explain why it's important
-to play to appearances.  I'll elaborate on some of the personal costs
-of doing so.  I discuss why wealthy circumstance doesn't always lead
-to success and explain the kind of psychological natural selection
-that does seem to lead to it.  Success and wealth seems to ironically
-detract and shield us from the experiences that lead to stronger
-people. I'll discuss vulnerability and the paradox of how shielding
-our individual vulnerabilities makes us weaker as a whole.
+to play to appearances. I'll elaborate on some of the personal costs
+of doing so.
 
-## Aristotelian Ethics
+I discuss why wealthy circumstance doesn't always lead to success and
+explain the kind of psychological natural selection that does seem to
+lead to it.  Success and wealth seems to ironically detract and shield
+us from the experiences that lead to stronger people. I'll discuss
+vulnerability and the paradox of how shielding our individual
+vulnerabilities makes us weaker as a whole.
 
-### A Brief Interlude
+<a name="aristotelian-ethics-a-brief-interlude" />
+
+# [Aristotelian Ethics: A Brief Interlude](#aristotelian-ethics-a-brief-interlude)
 
 Also, this article isn't meant to be a consummate dissertation on the
 topics contained herein.  These ideas aren't really "pure" and need to
@@ -141,7 +195,9 @@ a region of space close to the origin.
 > Please note: I haven't studied this in any official capacity, so do
 > your own study and draw your own conclusions.
 
-### Magnanimity
+<a name="magnanimity" />
+
+## [Magnanimity](#magnanimity)
 
 #### Aristotle's Crowning Virtue
 
@@ -167,6 +223,10 @@ course of one's lifetime and sometimes over the course of
 generations. You can read more about
 [magnanimity](https://en.wikipedia.org/wiki/Magnanimity) on wikipedia.
 
+<a name="youre-not-born-with-virtue-or-magnanimity" />
+
+## [You're Not Born with Virtue or Magnanimity](#youre-not-born-with-virtue-or-magnanimity)
+
 Another important takeaway is that no one exemplifies these
 virtues *a priori*. It takes practice and conscious effort. There are
 many paradoxical behaviors which depart from natural human urges and
@@ -178,9 +238,9 @@ frustrating, or painful.  The degree to which one can do is one of the
 primary factors that determines the degree to which they can develop
 these virtues.
 
-### Extrapolating Global Trends
+<a name="an-aristotelian-lens-for-global-trends" />
 
-#### With an Aristotelian Lens
+# [An Aristotelian Lens for Global Trends](#an-aristotelian-lens-for-global-trends)
 
 However, one conclusion that I've drawn from studying Ethics is that
 the systems our society has in place to cultivate virtuous people who
@@ -188,13 +248,18 @@ work together -- these systems are fairly fragile and must be
 protected.  It really only takes a generation or two and it will all
 fall apart.  We enjoy the benefits of a stable system with strong rule
 of law, but there are a lot of people who don't comprehend or don't
-care to understand how our systems work or why.  The relative
-stability we have and the democratic system we've set up -- it creates
-a very special environment in which those who are good are rewarded,
-for the most part.  Even in countries which do not have a strictly
-democratic system, some are experiencing unprecedented growth because
-their systems cultivate the right virtues and promote those who
-exemplify them.
+care to understand how our systems work or why.
+
+The relative stability we have and the democratic system we've set up
+-- it creates a very special environment in which those who are good
+are rewarded, for the most part.  Even in countries which do not have
+a strictly democratic system, some are experiencing unprecedented
+growth because their systems cultivate the right virtues and promote
+those who exemplify them.
+
+<a name="democracy-encourages-personal-investment" />
+
+## [Democracy Encourages Personal Investment](#democracy-encourages-personal-investment)
 
 The reason a democratic system works is because it
 fosters the involvement of large proportions of a nation's population.
@@ -205,57 +270,111 @@ stable governmental systems will always promote involvement of all
 stripes of citizens, regardless of the mechanisms in place for
 governance.
 
+<a name="why-power-should-gravitate-towards-seniority" />
+
+## [Why Power Should Gravitate Towards Seniority](#why-power-should-gravitate-towards-seniority)
+
 And so, because the governmental and societal systems we have in place
 are so special, yet can be fragile -- and because these virtues
 contribute to stability and the possibility of benevolent livelihoods
 -- then it's important for those who exemplify the right virtues to
-accrue influence.  It's often difficult for people from ages 15
+accrue influence. It's often difficult for people from ages 15
 through 30 in America to understand some policies because there are
 some things you won't understand until you've had specific life
 experiences.  Plato famously wrote in The Republic that a society
-should be governed by the older generation and this is why.  Some of
-these experiences include graduation from higher education or disease
-or dealing with the reality of one's own mortality or the death of
-someone you were close to.  A great example is having and raising
-children.  There are things you just won't understand in life until
-you personally have invested your love and life into raising a child,
-watching them walk into many of the same phenomena of life that you
-did. And so there are many policies or issues that won't make sense or
-won't seem relevant or that you won't prioritize until you personally
-have that experience, whatever it is. But one general idea behind
-wisely implemented policy is that those who make the right decisions
-and those who are willing to risk and sacrifice in pursuit of what
-they believe to be good, even when those benefits may only pay off in
-the long term -- it is incredibly important to reward those people.
-Often, the right thing to do isn't easy and there was an easier path,
-but for whatever reason, some people chose the harder path, even when
-they thought it might not pay off for a decade.  But this is also why
-it's important to educate those who don't care or have a hard time
-comprehending why America works and has worked for about 250 years.
-And this is becoming a bit harder to do, as the pace of information
-transmission accelerates and it becomes harder to discern what we
-should believe and what we should examine further.
+should be governed by the older generation and this is why.
 
-And as development of technology only expands more rapidly, this kind
+<a name="wisdom-comes-from-experience" />
+
+## [Wisdom Comes from Experience](#wisdom-comes-from-experience)
+
+Some of these experiences include graduation from higher education or
+disease or dealing with the reality of one's own mortality or the
+death of someone you were close to.  A great example is having and
+raising children.  There are things you just won't understand in life
+until you personally have invested your love and life into raising a
+child, watching them walk into many of the same phenomena of life that
+you did. And so there are many policies or issues that won't make
+sense or won't seem relevant or that you won't prioritize until you
+personally have that experience, whatever it is.
+
+<a name="reward-risk-for-pursuit-of-what-is-right" />
+
+## [Reward Risk for Pursuit of What is Right](#reward-risk-for-pursuit-of-what-is-right)
+
+But one general idea behind wisely implemented policy is that those
+who make the right decisions and those who are willing to risk and
+sacrifice in pursuit of what they believe to be good, even when those
+benefits may only pay off in the long term -- it is incredibly
+important to reward those people.  Often, the right thing to do isn't
+easy and there was an easier path, but for whatever reason, some
+people chose the harder path, even when they thought it might not pay
+off for a decade.  But this is also why it's important to educate
+those who don't care or have a hard time comprehending why America
+works and has worked for about 250 years.  And this is becoming a bit
+harder to do, as the pace of information transmission accelerates and
+it becomes harder to discern what we should believe and what we should
+examine further.
+
+#### Horace, Carmina, IX, Book 4. 9. 45.
+
+> Non possidentem multa vocaveris
+>
+> recte beatum; rectius occupat
+>
+> nomen beati, qui deorum
+>
+> muneribus sapienter uti
+>
+> duramque callet pauperiem pati
+>
+> peiusque leto flagitium timet,
+>
+> non ille pro caris amicis
+>
+> aut patria timidus perire.
+
+Translation:
+
+> You will not rightly call him a happy man who possesses much; he
+> more rightly earns the name of happy who is skilled in wisely using
+> the gifts of the gods, and in suffering hard poverty, and who fears
+> disgrace as worse than death.
+
+As development of technology only expands more rapidly, this kind
 of sociological changes will only become more commonplace.  This is
 why it is urgent that we foster the kind of culture around the world
 that is prepared to adapt. It's also important to ensure that everyone
-stays above water.  Poverty creates desolate conditions in far too
-many lives that is disruptive to propagating values to the next
-generation.  There is far too much confirmation bias in both the rich
-and the poor that prevents us from finding solutions to address the
-root causes of poverty.  In particular, those who are wealthy have an
-obligation to aid those who are not. If the wealthy in this country do
-not demonstrate their appreciation of that responsibility, then the
-system that we have becomes reproachable and vulnerability to
-instability.  We absolutely cannot have this kind of instability in
-any major world power as we approach this period of exponential
-technological growth. Technology is a double-edged sword and has the
-propensity for beneficence and for malevolence, particularly if it's
-not controlled.  If some of this tech gets into the wrong hands, it
-will create disorder that is bad very every major world power.  If we
-recognize this, agree to cooperate and formulate a strategy for
-handling this, then we'll be fine. If we can't do that, we're screwed.
+stays above water.
+
+<a name="poverty-is-corrosive" />
+
+## [Poverty Is Corrosive](#poverty-is-corrosive)
+
+Poverty creates desolate conditions in far too many lives and poverty
+itself disrupts propagating values to the next generation.  There is
+far too much confirmation bias in both the rich and the poor that
+prevents us from finding solutions to address the root causes of
+poverty.  In particular, those who are wealthy have an obligation to
+aid those who are not. If the wealthy do not demonstrate their
+appreciation of that responsibility, then the system that we have
+becomes reproachable and vulnerability to instability.  We absolutely
+cannot have this kind of instability in any major world power as we
+approach this period of exponential technological growth.
+
+<a name="technology-is-a-double-edged-sword" />
+
+## [Technology is a Double-Edged Sword](#technology-is-a-double-edged-sword)
+
+Technology is a double-edged sword and has the propensity for
+beneficence and for malevolence, particularly if it's not controlled.
+If some of this tech gets into the wrong hands, it will create
+disorder that is bad very every major world power.  If we recognize
+this, agree to cooperate and formulate a strategy for handling this,
+then we'll be fine. If we can't do that, we're screwed.
+
+## [Global Collapse Precludes Viability of Virtue](#global-collapse-precludes-viability-of-virtue)
+
 And the kind of world that exists after major technological collapse
 is one in which the lack of resources and the lack of systems to
 promote coordinated behavior prevents the emergence of a stable system
@@ -265,6 +384,8 @@ acting in horridly selfish ways.  It's also important to understand
 that this kind of Mad Max scenario isn't certain and that assuming it
 is may make it difficult to restore order.
 
+## [The World Cannot Afford Major War](#the-world-cannot-afford-major-war)
+
 The whole world has enough on our plate without major war. We have to
 clean up the oceans and the environment over the next two generations.
 That's really all the time we have to fix certain problems, which IMO
@@ -272,21 +393,29 @@ is plenty of time, excluding major disaster. I've seen amazing
 progress towards many difficult long-term issues in the past two and
 past five years, which is incredibly encouraging.
 
+# [Tools for a New Generation of Cooperation](#tools-for-a-new-generation-of-cooperation)
+
 So anyways, what I'm writing is meant to equip my readers with tools
 that will help us lead a new generation of cooperation. I think, I
 can't honestly say that this is everything or there aren't other
-leaders who are far more capable advice.  Or experience.  But, whereas
-Aristotle and Franklin's writings were meant for life in general, the
-Facets of Greatness series provides information meant to help those
-with no small plans develop a vision and learn to live with their
-future story in mind.  I hope that some of this information will help
-those with dreams learn to share their vision with others to encourage
-cooperation.  I spend a lot of time watching interviews and press
-conferences of leaders and I hope this series captures much of the
-qualities the best leaders exemplify and the tools they use.  These
-tools are often difficult to see or only attained with
-experience. Most people, if they understand them, have a very hard
-time explaining them.
+leaders who are far more capable advice.  Or experience.
+
+<a name="with-no-small-plans" />
+
+## [With No Small Plans](#with-no-small-plans)
+
+Whereas Aristotle and Franklin's writings were meant for life in
+general, the Facets of Greatness series provides information meant to
+help those with no small plans develop a vision and learn to live with
+their future story in mind. I hope that some of this information will
+help those with dreams learn to share their vision with others to
+encourage cooperation.
+
+I spend a lot of time watching interviews and press conferences of
+leaders and I hope this series captures much of the qualities the best
+leaders exemplify and the tools they use.  These tools are often
+difficult to see or only attained with experience. Most people, if
+they understand them, have a very hard time explaining them.
 
 And yes, this series is imperfect.  Yet even in a premature form, I
 believe that some of these tools will be invaluable in whatever
@@ -298,7 +427,9 @@ useful, even if your megalomania isn't quite yet terminal.
 
 ![Facets of Greatness](/img/posts/2016-05-12-facets-of-greatness-intro/gem-cuts.jpg)
 
-### The Surface Surrounding the Intangible
+<a name="the-surface-surrounding-the-intangible" />
+
+# [The Surface Surrounding the Intangible](#the-surface-surrounding-the-intangible)
 
 In this series, I'm trying to explain concepts that involve
 characteristics which cannot really be explained at all. They are much
@@ -333,7 +464,7 @@ find that negative people not only boost theirs, but they do so at
 your expense, by subjugating you through demoralization.  You've been
 warned!
 
-## The Facets of Greatness
+# [The Facets of Greatness](#facets-of-greatness)
 
 #### Are You Ready? You Get To Drink From The Firehouse!!
 
@@ -863,7 +994,7 @@ Contained inside a box!  It's a box.  I wonder what's in it?
 ### NOTHING YOU SO STUPID!!
 
 Maybe try again in a week.  It's a Shrödingers Box.  Sometimes there's
-nothing, but sometimes there's a lil kitten.
+nothing, but sometimes there's a lil kitty.
 
 The Unknown facet encompasses what we don't know or can't know. This
 includes attributes that are difficult to pin down. It also includes
@@ -1048,7 +1179,7 @@ Then again, if you've made so many sacrifices already in your life and
 you've remained calculated and guarded for so long, are you really
 willing to bring someone in who could disrupt that?
 
-## In summary
+## [In summary](#in-summary)
 
 Many people I know scoff at my attempts to build a product.  Some of
 them laugh at my ideas; some will point towards my reputation or
@@ -1158,37 +1289,14 @@ sure whether my stubbornness is a positive or negative trait, but it's
 only by refusing to give up did I ever learn any of this.  Everyone
 around me -- my friends and family -- wanted me to give up or just get
 a job and be distracted. Maybe they were really thinking of my best
-interest -- it's nearly destroyed me.  And the ambition required to
-pursue a path like this ends up fostering attachment in me that should
-not otherwise exist.  If I didn't desire success and greatness out of
-a belief that, properly postured, I could truly benefit the world, the
-I wouldn't want it at all. And yet, ironically, now that I've learned
-all this, I can see it, but I'm in no position to effectively use it.
+interest -- it's nearly destroyed me.
 
-#### Horace, Carmina, IX, Book 4. 9. 45.
-
-> Non possidentem multa vocaveris
->
-> recte beatum; rectius occupat
->
-> nomen beati, qui deorum
->
-> muneribus sapienter uti
->
-> duramque callet pauperiem pati
->
-> peiusque leto flagitium timet,
->
-> non ille pro caris amicis
->
-> aut patria timidus perire.
-
-Translation:
-
-> You will not rightly call him a happy man who possesses much; he
-> more rightly earns the name of happy who is skilled in wisely using
-> the gifts of the gods, and in suffering hard poverty, and who fears
-> disgrace as worse than death.
+The ambition required to pursue a path like this ends up fostering
+attachment in me that should not otherwise exist.  If I didn't desire
+success and greatness out of a belief that, properly postured, I could
+truly benefit the world, the I wouldn't want it at all. And yet,
+ironically, now that I've learned all this, I can see it, but I'm in
+no position to effectively use it.
 
 ## Go Watch A TED Talk!
 
