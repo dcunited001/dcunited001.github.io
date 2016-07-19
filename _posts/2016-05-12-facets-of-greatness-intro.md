@@ -1338,12 +1338,3 @@ allowfullscreen></iframe>
 ### Meaghan Ramsey - Why Thinking You're Ugly is Bad For You
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/9IgOVOPLTYI" frameborder="0" allowfullscreen></iframe>
-
-### Next Up:
-
-## Quantification
-
-I'll discuss quantification and its importance in the next section,
-describes a few examples of how accurate methods of measurement lead
-individuals to attain insurmountable advantage in their industry or
-society.
