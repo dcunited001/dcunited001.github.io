@@ -713,6 +713,9 @@ they're secretly a cutesy kitten on the inside. Probably not though.
 
 ## &#x1f48e; [The System](#the-system)
 
+
+#### &#x2182; [Understanding the Political System](/posts/2016-07-16-facets-of-greatness-understanding-the-political-system.html) An overview of common blockers in the American political system, along with the reasoning and wisdom behind them.
+
 These people are pros at navigating the system. By system, I mean the
 legal framework that exists in their locality, but it's not just
 limited to laws and regulations. Each organization and group create
