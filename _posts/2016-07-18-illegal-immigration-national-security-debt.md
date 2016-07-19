@@ -135,75 +135,164 @@ support networks to lean on when things go wrong.
 
 ### Citizens Since or After Generation X
 
+Families and people who have became citizens in the past generation or
+two are going to feel differently on this issue. I think we also need
+to recognize that almost every family in America is a family of
+immigrants, in one way or another. For some who are more recent, they
+might not have such extensive roots. When things go wrong, it might be
+harder for them to reach out. Language can sometimes present a barrier
+for first generation citizens, but that's eased over time. Still, it
+can present challenges, making it harder to reach out. Or they can
+become isolated.
 
-- people who just became citizens might not have such extensive
-  roots. when things go wrong, it might be harder for them to
-  reach out.
-      - or, if they are feeling the effects ethnic discrimination,
-        when they're citizens and have been, how do you think that's
-        going to make these people feel?
-        - if effects from such treatment are serious, that further
-          isolates families who would probably otherwise be very
-          patriotic!
-        - remember, these are people who worked hard to find
-          a way to get here. they came to america for a reason, even
-          though it was tough.
+Also, these more recent immigrants are going to view this issue
+differently. For people who saved and worked hard to get here and the
+worked hard to settle here, having tons of people just walk in to
+receive amnesty a few generations later might rub them the wrong
+way. Also, fairly strict and equally enforced immigration policy means
+that we know a bit about the people who are coming here and we're
+making sure those who do can help us continue to make America greater.
 
-Language can sometimes present a barrier for first generation
-citizens, but that's eased over time. Still, it can present
-challenges, making it harder to reach out.
-- Combined with a more limited network,
+Illegal immigration isn't going to be as emotionally relevant to
+non-hispanic ethnicities. They're not going to identify as personally
+to the issue. They just aren't. We have to take this into account in a
+respectful, emotionally intelligent way. To stifle all discussion here
+leads us to inaction and that makes the eventual resolution of the
+problem more painful.
 
+If hispanic residents are feeling the effects ethnic discrimination,
+that's going to exacerbate tension hispanic communities with both
+legal and illegal residents. When they are citizens and have been, how
+do you think that's going to make these people feel? Remember, these
+are people who worked hard to find a way to get here. they came to
+america for a reason, even though it was tough. If effects from such
+treatment are serious, that further isolates families who would
+probably otherwise be very patriotic!
 
+### Immigrants on Visa, etc.
 
-### Immigrants on Visa (title)
+Aside from illegal immigrants, legal immigrants working or studying on
+a visa might be the least integrated people. Further still, a resident
+on visa who's not planning on staying might not be trying to establish
+as many connections. This grouping of American residents should
+include people who are here because they overstayed their visa or
+whatever. I don't know why. Just because.
 
-    - legal immigrants working on a visa/etc
-      - these may be the least integrated people. i've been in a
-        similar position, where i was living in a place and i didn't
-        know anyone. and i went through serious problems. it was tough
-        being alone and i know that no one wanted me to succeed.
-        - and there were other times I was in a new place and I met
-          some really amazing people. and they knew i had just moved a
-          dozen or more hours away from home, where i didn't know
-          anyone.
-        - and instead of waiting for me to make the first move, they
-          worked hard to make me feel comfortable. they made sure i
-          was included and wanted to get to know me. i'll never forget
-          what that feels like and i've been there several times too.
-      - so, which experience would you prefer? if we could make one
-        or the other experience happen more often in this country,
-        which should it be?
-    - this should include people who are here because they overstayed
-      their visa or whatever.
-    - mention that these immigrants help strengthen our economy
-      - they fill in gaps for skills we lack
-    - help contribute to diverse culture.
-      - diversity is the thing that sets america apart
+These immigrants help strengthen our economy and fill in gaps for
+skills we lack. If you're willing to move across the world, you're
+willing to work hard. Yes, even if you are an illegal immigrant. If
+you decide there's somewhere with better opportunity and you pick
+yourself and your family up and you move across the world, you are
+willing to make sacrifices and you're willing to work hard.
+
+And these immigrants help contribute to diverse culture. I've linked
+several times to this article on
+[diversity as a strength](/posts/2016-07-17-diversity-is-americas-strength.html#a-microcosm-for-diversity-in-the-world). I
+also rediscovered this post titled
+[The Unknown - Monumental Accidents](/posts/2016-05-14-facets-of-greatness-the-unknown-monumental-accidents.html)
+I wrote in May and it's actually better. It's part of the
+[Facets of Greatness](/posts/2016-05-12-facets-of-greatness-intro.html)
+series, but also has a section on
+[how diversity strengthens America](/posts/2016-05-14-facets-of-greatness-the-unknown-monumental-accidents.html#embracing-diversity).
+
+#### I've Been There, Too ...  Well Kinda
+
+I've been in similar positions, where I moved to a place specifically
+because I didn't know anyone and I wanted a fresh start. I went
+through some serious problems, partially because I'm a bit quite. It
+was tough being alone and I know that there weren't many people who
+wanted me to succeed.
+
+There were other times when I was in a new place and I met some really
+amazing people. and they knew I had just moved a dozen or more hours
+away from home, where I didn't know anyone. And instead of waiting for
+me to make the first move, they worked hard to make me feel
+comfortable. They made sure I was included and wanted to get to know
+me. I'll never forget what that feels like and I've been there several
+times too. In fact, these people are everywhere, but there aren't
+nearly enough of them.
+
+#### Which Experience Would You Prefer? What Do You Value?
+
+And so, which experience would you prefer? If we could make one or the
+other experience happen more often in this country, which should it
+be? Obviously, the kind of experience where we connect with other
+people. Again and again, I stress that isolating people is bad. That's
+a really, really bad thing. We need to encourage connection. We need
+to fight terror with love. Those damned souls who lead terror
+organizations know how to stir up people to fight with lies and
+deception, especially those who wouldn't otherwise pick up guns if
+they knew the whole story! So we should help people, but at the same
+time, we don't want to just let such radicalizing forces into our own
+country!
+
+#### I'd Love to Live in Japan
+
+And I can't imagine what it'd be like to move somewhere where I'm just
+learning the language. I want to move to Japan sometime. That'd be
+awesome and the language immersion would be great for me. I really
+like the culture. And the *food*, 美味しい！ And the cosplayers'
+scene! lulz
 
 ## Illegal Immigrants
 
-    - illegal immigrants
-      - they are perhaps the worst off in this whole situation.
-      - the policies at the state and federal level seek to punish
-        employers for hiring illegal immigrants. this makes sense, but
-        it has the unintended consequence of making things tough for
-        people who just wanted a better life. and they were willing to
-        risk themselves and their families to seek out the American
-        Dream.
-      - so it's tough out there for people who are here illegally.
+Illegal immigrants are perhaps the worst off in this whole
+situation. Accuse me of racism if you want, but it's actually empathy
+with this group of people that encourages me to seek resolution as
+soon as possible. Because, no matter how you slice it, inaction on
+this issue is going to cause worse problems for this group of
+people. Regardless of how you feel on solutions to this issue,
+resolving it as soon as possible is in their best interest.
 
-  - btw, illegal immigrants are criminals, by definition
-      - but this statement doesn't actually make any judgements about
-        their character
-      - by definition someone labelled as an "illegal immigrant" must
-        have committed the crime of entering the country illegally
-    - most of these people of good character and only came here for one
-      of the following reasons:
-      - fleeing bad circumstances in latin america or south america
-      - to pursue the american dream for themselves or their children
+#### No, That Issue Is Not to Be Used as a Political Tool
 
+So ... yeh ... keep going with those accusations. Because they're not
+true and I'm like rubber: it *will* end up sticking to you. Many of my
+enemies know these accusations are not true, but if they can get it to
+stick, it's *just so effective* at disempowering political
+opposition. And that's what makes me so mad. That's a sensitive
+issue. It's not to be used as a political tool. If you do, you are
+*the worst* and, if you do portray someone in this light falsely for
+political gain, you do not care about the issue. So just stop acting
+like you care. It really makes me mad. 
 
+If you read
+[this article](/posts/2016-07-17-diversity-is-americas-strength.html#a-microcosm-for-diversity-in-the-world),
+you'll understand, but I'm doing you a favor honestly. Because the
+more I convince you to dig deeper with your delusional arguments, the
+more the situation will eventually swing in my favor... People will
+understand that I care. And they will come together. And we will
+conquer this shit.
+
+Again, these people are the worst off in this situation. The policies
+at the state and federal level seek to punish employers for hiring
+illegal immigrants. This makes sense, but it has the unintended
+consequence of making things tough for people who just wanted a better
+life. And, they were willing to risk themselves and their families to
+seek out the American Dream! Again, I don't care who you are or how
+you got here: if you relocated your family across the world because
+you thought it'd lead to better lives, you're willing to work hard.
+
+#### By Definition, They Are Criminals
+
+I do kinda care how you got here because if you came here illegally,
+you broke the law getting here and you are breaking the law by being
+here. btw, illegal immigrants are criminals, by definition But this
+statement doesn't actually make any judgements about their character.
+By definition someone labelled as an "illegal immigrant" must have
+committed the crime of entering the country illegally. That's it. Why
+is that controversial? Please, accept reality here. This is serious
+and we need to handle it. There are solutions, lets make them happen
+so we can move on.
+
+But it's tough out there for people who are here illegally, so I
+empathize with your situation.  Most of these people are of good
+character and only came here for one of the following reasons. They
+were fleeing hard circumstances in latin america, south america or
+elsewhere. Or they wanted to pursue the american dream for themselves
+or their children. We spend so much effort and money exporting the
+American Dream, but we're going to get mad when people want in on
+that?
 
 Unfortunately, the effects from illegal immigration affect people
 differently along generational and ethnic lines. Hispanic families
@@ -218,6 +307,8 @@ tensions in America along ethnic boundaries, causing people who are
 long-time US citizens to get hurt for no good reason at all. Our own
 citizens are redirecting the tension on themselves, further straining
 tensions along ethnic boundaries.
+
+## This Issues Makes America Vulnerable
 
 A third party can approach this issue in an obtuse manner to
 demoralize us, using it as rhetoric against America. When it's career
@@ -347,10 +438,10 @@ by 2025.
 And think about it, most of the policies that people have supported up
 to now
 
-    - massive deportation may work, but is equally riddled with
-      problems.
-      - obviously, there is an opportunity for racism. it would
-        definitely
+- massive deportation may work, but is equally riddled with
+  problems.
+  - obviously, there is an opportunity for racism. it would
+    definitely
 
 
 ## Future Consequences of a Poor Policy
@@ -409,7 +500,9 @@ world by 2050. If we can't make it work here, in America, with 300
 million people and plenty of wealth, how can we expect to make peace
 amoung nations work across the globe?
 
-# Why is it a problem?
+<a name="why-is-it-a-problem" />
+
+# [Why Is It A Problem?](#why-is-it-a-problem)
 
 (summarize, then lead into list of problems)
 
@@ -438,16 +531,28 @@ amoung nations work across the globe?
       snuck someone in.
 
 
+<a name="problems-related-to-illegal-immigration"
 
-# Problems Related to Illegal Immigration
+# [Problems Related to Illegal Immigration]()
 
-## (1) Jobs
+<a name="lost-jobs" />
 
-The jobs that are being taken are really the least of our concerns. If
-our concern is lost jobs, we should be more concerned about those sent
-overseas.
+## [Lost Jobs](#lost-jobs)
 
-## (2) Income Taxes
+Let me just get this out of the way because I'm going to torch this
+straw man. The jobs that are being taken are really the least of our
+concerns. If our concern is lost jobs, we should be more concerned
+about those sent overseas.
+
+Yes, it may disproportionately affect some industries. It's partially
+because these industries are vulnerable to it in that the structure of
+their finances lends itself to easily dispensing cash illegally.
+
+... And they say I'm a business failure. Ha!
+
+<a name="unpaid-income-tax" />
+
+## [Unpaid Income Tax](#unpaid-income-taxes)
 
 Illegal immigrants don't pay income taxes. They don't make very much
 money, especially since state and federal laws are cracking down
@@ -464,7 +569,9 @@ And I believe cooking the books is a separate crime itself. Now you
 have two criminals: the illegal immigrant and the person who hired
 them.
 
-## (3) Employment Rights
+<a name="lack-of-employment-rights" />
+
+## [Lack of Employment Rights](#lack-of-employement-rights)
 
 Illegal immigrants don't have employment rights. This can lead to
 tension. They can't expect contracts to be enforced and I imagine moot
@@ -491,7 +598,22 @@ from OSHA or Worker's Comp. What would they say if you told them you
 heard of a guy who got fired for breaking his arm, who never got paid
 and received delayed medical care.
 
-## (4) Cultural Isolation
+If you're on the left and it doesn't concern you that, in our
+ambivalence, we have created a situation where there are *people* out
+there who are not covered by protection of rights as an employee, *you
+should be livid!*
+
+<a name="cultural-isolation" />
+
+## [Cultural Isolation](#cultural-isolation)
+
+Let me start out by saying that the situation as it is now is moving
+towards one frighteningly similar to *segregation under Jim Crow
+laws!* Again, there are people out there who should be livid. We
+understand the damage done by cultural isolation, right? Good. Let's
+fix this shit and bring people together. Otherwise, our inaction
+implies that we are implicit in creating a situation that may lead to
+long-term issues along ethnic lines.
 
 Since they can't get into trouble that results in legal action, these
 people will become culturally isolated from the rest of America. They
@@ -500,11 +622,27 @@ for a bank account. They would use mostly cash, which can be
 risky. They could receive payments through someone else, which would
 make payments a bit simpler and easier to mask for businesses...
 
-I've never actually met someone I know to be an illegal immigrant.
-That's not something I'd imagine someone would tell you right off the
-bat. So I hope this doesn't sound insensitive.
+I've never actually met someone I know to be an illegal immigrant. And
+I think that's a bad sign because three percent of our population --
+11 million residents -- *is illegal*. That means, if I was in New
+York, DC or Dallas, I should be able to walk around crowded city
+blocks and three out of every one hundred people I see is living here
+without a visa and without citizenship. I wouldn't try to point people
+out, of course. And yet, I've never "met" someone who's here
+illegally. Strange, n'est-ce pas? We all must walk by these people
+every day, but I've never met one. Either I'm missing something or
+this cultural isolation is really bad.
 
-## (5) Policies Encourage More Isolation
+> Hey, how 'bout them Yankees? Nice weather, right? By the way, do you
+> got a green card, esse?
+
+Legitimacy of residency -- that's not something I'd imagine
+someone would tell you right off the bat. So I hope this doesn't sound
+insensitive.
+
+<a name="policies-as-response-encourage-more-isolation" />
+
+## [Policies as Response Encourage More Isolation](#policies-as-response-encourage-more-isolation)
 
 The domestic policies meant to stem the demand for cheap labor from
 illegal immigrants end up creating more problems. It's not because the
@@ -521,7 +659,9 @@ starved out. These policies are necessary, but risk serious
 consequences of backlash from legal and illegal immigrants of various
 ethnicities.
 
-## (6) Unintended Free Market Response to Policy Response
+<a name="unintended-free-market-response-to-policy-response" />
+
+## [Unintended Free Market Response to Policy Response](#unintended-free-market-response-to-policy-response)
 
 Illegal immigrants seeking a living wage and trying to feed their
 families are committing crimes by working. Employers hiring illegal
@@ -555,7 +695,9 @@ offensive statement here?
 
 Just think about that for a minute.
 
-## (7) Disparity in Education and Government Services
+<a name="disparity-in-education-and-government-services" />
+
+## [Disparity in Education and Government Services](#disparity-in-education-and-government-services)
 
 Their children may or may not have access to education, depending on
 circumstance. This could contribute to idle, under-educated
@@ -580,7 +722,9 @@ immigration and pat yourself on the back ... but guess what? You just
 created a source of long-term tension along ethnic lines. That's like
 sellin someone a car without an engine. Thanks a lot.
 
-## (9) Identification and Proof of Citizenship
+<a name="identification-and-proof-of-citizenship" />
+
+## [Identification and Proof of Citizenship](#identification-and-proof-of-citizenship)
 
 There's no assurance that these immigrants have valid identification,
 contributing to national security and operational problems. I don't
@@ -589,9 +733,9 @@ major potential for abuse of ICE procedures here. If we do need to
 deport someone, where do we send them? It's possible to manipulate the
 system into basically getting a free plane ticket anywhere they want.
 
-(review)
+<a name="#burden-of-cost-is-on-taxpayers" />
 
-## (10) Burden of Cost is on Taxpayers
+## [Burden of Cost is On Taxpayers](#burden-of-cost-is-on-taxpayers)
 
 The burden of cost to monitor and deport is placed on taxpayers, but
 we can't be sure that there's a coherent strategy for actual
@@ -609,7 +753,9 @@ jenga tower.
 
 (review ^^^)
 
-## (11) Implementation Risks Fracturing Families
+<a name="fractured-families" />
+
+## [Fractured Families](#fractured-families)
 
 - (11) implementation of policy risks fracturing families
       - when the discussion to construct a coherent policy never
@@ -620,18 +766,32 @@ jenga tower.
           with resolving illegal immigration, how can they know how to
           react?
 
-## (12) National Security Risk
+- some of the other policies in this country are fracturing families
+  by the way, which makes me fucking livid
+
+<a name="national-security-risk" />
+
+## [National Security Risk](#national-security-risk)
 
 - (12) and there's the major security risk when people connected
       to terrorism try to slip in.
 
+<a name="cant-announce-policy-changes" />
 
-## (13) Can't Announce Policy Changes
+## [Can't Announce Policy Changes](#cant-announce-policy-changes)
 
-- (13) and if amnesty is announced, we can be sure that these
+- and if amnesty is announced, we can be sure that these
       people will try to slip in.
+  - this means we stymie an already stifled discussion
+    - we can't really make suggestions without causing possibly
+      significant changes in behavior
 
-## (14) Stifled Policy Debate
+- whenever we do decide on something, we have to be careful as to how
+  we present it and announce it.
+
+<a name="stifled-policy-debate" />
+
+## [Stifled Policy Debate](#stifled-policy-debate)
 
 - furthermore, we can't really have an open debate here.
   - partly because we can't talk about all the options on the table
@@ -640,7 +800,7 @@ jenga tower.
     raising the spectre of racism
 
 
-# What are the Answers?
+# [What are the Answers?](#what-are-the-answers)
 
 summary
 - some of these won't appeal to conservatives because ... the
@@ -686,8 +846,9 @@ summary
   - this can be used in some way to slightly pressure Latin American
     countries to adopt more robust identification
 
+<a name="a-disorganized-approach-is-detrimental" />
 
-## A Disorganized Strategy for Immigration Means:
+## [A Disorganized Approach is Detrimental](#a-disorganized-approach-is-detrimental)
   - move this up?
 
     - increased tensions for illegal and legal immigrants here
@@ -742,16 +903,8 @@ not really sure this will be very effective.
         - ... i don't really want to say "negative reinforcement" here
           - but we need to find means of motivating action here
 
-### Structure the Incentives
 
-  - need to motivate the legal and illegal immigrant populations to
-    action
-    - consequences for illegal immigrants to cooperate can't all be
-      negative.
-    - seriously, what incentive would an illegal immigrant have for
-      putting themselves at risk to cooperate with the system?
-    - i don't really know what our options are here... but i'd love to
-      explore them and hear what ideas people have
+
 
 ### Attention and Compromise from Both Parties
 
@@ -765,3 +918,52 @@ not really sure this will be very effective.
         just,
         - when requirements and process for this must remain secret.
         - and the discussion of it
+
+
+<a name="system-theory-structure-the-incentives-and-feedback-loops" />
+
+### [Systems Theory - Structure the Incentives and Feedback Loops]()
+
+- brief notes on how this approach to modeling allows you to construct
+  systems which are viable and effective in almost any domain
+  - business, government, etc
+  - it's the intersection of systems theory (biology & business) with
+    game theory
+  - human and group interactions are all based on motivation, risk,
+    reward, goals, feedback loops and communication.
+    - and a tiered, multidimension approach towards each of those
+
+- the number one thing we can do is make sure that group incentives
+  line up. this single point of information alone might be the most
+  valuable nugget in this entire post.
+  - make sure individuals and groups know what they want and make sure
+    that the people on our side want the same time.
+  - if they want something else, see if you can convince them that
+    what you want is really the same thing
+
+  - need to motivate the legal and illegal immigrant populations to
+    action
+    - consequences for illegal immigrants to cooperate can't all be
+      negative.
+    - seriously, what incentive would an illegal immigrant have for
+      putting themselves at risk to cooperate with the system?
+    - i don't really know what our options are here... but i'd love to
+      explore them and hear what ideas people have
+
+  - what I did here was explain how each class of citizens in america
+    actually wants the same thing with regard to illegal
+    immigration. even the illegal immigrants! We all want to be
+    respected, hard-working citizens of America.
+    - when you view these tough issues in that way, then it's not so
+      complex. after reenvisioning a tough issue like that and being
+      open minded, the next step is to be capable of efficiently
+      communicating that to others and cutting through the stifled,
+      chaotic dialogue in this country.
+
+      When we make people aware that we all know we
+      want essentially the same thing,
+      - we all want the chance to work hard and be rewarded for that
+        hard work,
+      - then we can motivate everyone
+        to work towards making America greater. We can build it and we
+        will be faster, stronger and longer lasting.
