@@ -17,7 +17,30 @@ So, again, the unknown facet represents what the other facets fail to
 encompass, as well as the mystery, which is unknowable.  The first
 lines of the Tao Te Ching summarize it best.
 
-### The Modular Mind
+
+
+### &#x0CB2; [The Modular Mind](#the-modular-mind)
+
+### &#x0CB2; [Engineering Culture](#engineering-culture)
+
+### &#x0CB2; [Embracing Diversity](#embracing-diversity)
+
+### &#x0CB2; [Humanity as the Sum of our Capacity for Thought](#humanity-as-the-sum-of-our-capacity-for-thought)
+
+### &#x0CB2; [Diversity of Experience](#diversity-of-experience)
+
+### &#x0CB2; [What Bonsai Teaches Us About Life](#what-bonzai-teaches-us-about-life)
+
+### &#x0CB2; [Independence == Ownership](#independence-equals-ownership)
+
+### &#x0CB2; [Could Anyone Spare a Donut for my Coccyx?](#could-anyone-spare-a-donut-for-my-coccyx)
+
+### &#x0CB2; [All In All, That's Life!](#all-in-all-thats-life)
+
+
+<a name="the-modular-mind" />
+
+# &#x0DA7; [The Modular Mind](#the-modular-mind)
 
 A mind which is restricted to specialized tasks is less capable and
 less dynamic.  This is because consciousness coordinates the modular
@@ -42,7 +65,9 @@ people like to bring up genetic engineering and brain-computer
 interfaces, but let me just state clearly: those technologies can go
 horribly wrong.  And to some extent, there will be problems.
 
-### Engineering Culture
+<a name="engineering-culture" />
+
+# &#x0DA7; [Engineering Culture](#engineering-culture)
 
 #### In Anticipation of the Singularity
 
@@ -81,7 +106,9 @@ Nothing is more frustrating than working on a project for several
 months, just to find that some other team is more adequately
 positioned to seize that market.
 
-## Embracing Diversity
+<a name="embracing-diversity" />
+
+# &#x0DA7; [Embracing Diversity](#embracing-diversity)
 
 ### Of Body, Mind and Culture
 
@@ -144,7 +171,9 @@ we need to identify the common thread that connects us all.  We all
 bleed the same color.  We do still face different challenges, but we
 all go to the same place eventually.
 
-### Embracing Our Differences
+<a name="embracing-our-differences" />
+
+# &#x0DA7; [Embracing Our Differences](#embracing-our-differences)
 
 Far too many people associate being different with weakness.  They
 consciously or subconsciously seek to identify what makes others
@@ -181,7 +210,9 @@ different perspective or a different shape to their mind, which is
 unavailble to the neurotypical or the "normal" person. Or at the
 least, this person as a wildly different range of experiences.
 
-### Humanity as the Sum of our Capacity for Thought
+<a name="humanity-as-the-sum-of-our-capacity-for-thought" />
+
+# &#x0DA7; [Humanity as the Sum of our Capacity for Thought](#humanity-as-the-sum-of-our-capacity-for-thought)
 
 And if we consider humanity to be the product of all the ideas
 available to our collective minds, shouldn't we embrace diversity of
@@ -190,7 +221,9 @@ challenge after challenge in their lives and whose minds will no doubt
 contain a wholly different range of memories and ideas: we should see
 them as luminaries who can see things we could never imagine.
 
-### Diversity of Experience
+<a name="diversity-of-experience" />
+
+# &#x0DA7; [Diversity of Experience](#diversity-of-experience)
 
 Knowing how important diversity is to personal growth, it's also
 important to recognize that a wide range of experiences and a
@@ -212,7 +245,9 @@ Your mind is recognizing some of the
 [epiphenomena](/posts/2016-05-13-facets-of-greatness-knowledge-meta-and-epi.html)
 found in the practice of that artform.
 
-### What Bonsai Teaches Us About Life
+<a name="what-bonzai-teaches-us-about-life" />
+
+# &#x0DA7; [What Bonsai Teaches Us About Life](#what-bonzai-teaches-us-about-life)
 
 One artform that takes decades to master is that of bonsai trees.  It
 requires tonnes of difficult-to-acquire experience on how environment,
@@ -233,7 +268,9 @@ like to believe, at least.  Another similar skill is building a ship
 in a bottle.  You have a restricted interface to work with and it can
 be incredibly frustrating.
 
-### Independence Promotes Acceptance of Self-Culpability
+<a name="independence-promotes-acceptance-of-self-culpability" />
+
+# &#x0DA7; [Independence Promotes Acceptance of Self-Culpability](#independence-promotes-acceptance-of-self-culpability)
 
 It's important to for someone to maintain an idea of independence in
 their development.  And this is why maintaining authentic freedom is
@@ -269,7 +306,9 @@ I have been treated is bullshit. It doesn't matter how talented or
 smart I am, if I'm living on a proverbial island after burning every
 bridge I had.
 
-### Independence == Ownership
+<a name="independence-equals-ownership" />
+
+# &#x0DA7; [Independence == Ownership](#independence-equals-ownership)
 
 And finally, even though it'd be great to receive credit for the
 various things I may or may not have set in motion, it's impossible to
@@ -315,7 +354,9 @@ taste. So, yeh, I'm an asshole.  I wish I wasn't.  I really, realllly
 do.  But, it's a bit hard to sit down because no one bothered to use
 lube when they fucked me in the ass.  I need one of these:
 
-### Could Anyone Spare a Donut for my Coccyx?
+<a name="could-anyone-spare-a-donut-for-my-coccyx" />
+
+# &#x0DA7; [Could Anyone Spare a Donut for my Coccyx?](#could-anyone-spare-a-donut-for-my-coccyx)
 
 ![DONUTS!](/img/posts/2016-05-14-facets-of-greatness-the-unknown-monumental-accidents/a-donut-for-your-coccyx.jpg)
 
@@ -348,7 +389,9 @@ href="https://vimeo.com/119134995">American Shokunin</a> from <a
 href="https://vimeo.com/ryanjbush">Ryan Bush</a> on <a
 href="https://vimeo.com">Vimeo</a>.</p>
 
-### All In All, That's Life!
+<a name="all-in-all-thats-life" />
+
+# &#x0DA7; [All In All, That's Life!](#all-in-all-thats-life)
 
 Please don't take anything I say too seriously.  I am laughing my ass
 off as I write this. My writing is often the only place to vent, as I
