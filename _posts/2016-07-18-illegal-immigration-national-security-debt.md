@@ -75,7 +75,7 @@ there.
 
 #### &#x2605; [Future Consequences of Inaction and Poor Policy!](#future-consequences-of-inaction-and-poor-policy)
 
-#### &#x2605; [Longterm Ethnic Tension is Agony](#longterm-ethnic-tension-is-agony)
+#### &#x2605; [Long-Term Ethnic Tension is Social Agony](#long-term-ethnic-tension-is-social-agony)
 
 #### &#x2605; [Simultaneous Tensions Between Multiple Ethnicities is a Disaster](#simultaneous-tensions-between-multiple-ethnicities-is-a-disaster)
 
@@ -110,8 +110,6 @@ there.
 #### &#x2605; [Stifled Policy Debate](#stifled-policy-debate)
 
 ## [What are the Answers?](#what-are-the-answers)
-
-
 
 #### Illegal Immigration Indicates a Failure of Border Security
 
@@ -187,7 +185,7 @@ as beneficial.
 However, they still want strong immigration policy. They don't want
 that system to be threatened by massive numbers of undocumented
 immigrants bypassing those immigration procedures. if members of this
-group of people understood the true longterm threat this posed, they
+group of people understood the true long-term threat this posed, they
 would be angry about it. Again, this issue is a problem precisely
 because it's subtle and long-term.
 
@@ -568,9 +566,9 @@ absolutely can not have a segment of our population, long deprived of
 education and employment opportunities, who is isolated along mostly
 ethnic boundaries!
 
-<a name="longterm-ethnic-tension-is-agony" />
+<a name="long-term-ethnic-tension-is-social-agony" />
 
-## [Longterm Ethnic Tension is Agony](#longterm-ethnic-tension-is-agony)
+## [Long-term Ethnic Tension is Agony](#long-term-ethnic-tension-is-social-agony)
 
 I cannot emphasize this enough. That kind of crap ferments
 longstanding ethnic tension. The kind of problems that cannot simply
@@ -579,8 +577,11 @@ this? Tearing down the real segregation was bad enough. Five decades
 later and we're still dealing with long-term cultural problems from
 that. And ... we want another source of problems like that? Hell no!
 
-(Link to section on resolving these tensions)
-[Diversity is America's Strength](/posts/2016-07-17-diversity-is-americas-strength.html)
+Read
+[Diversity is America's Strength](/posts/2016-07-17-diversity-is-americas-strength.html). The
+section on
+[Embracing Diversity](/posts/2016-05-14-facets-of-greatness-the-unknown-monumental-accidents.html#embracing-diversity)
+from the Facets of Greatness series is better though.
 
 <a name="simultaneous-tensions-between-multiple-ethnicities-is-a-disaster" />
 
@@ -600,7 +601,7 @@ time?! That combination could fracture this country!
 > We really have to stop and ask ourselves: what sacrifices are we
 > going to make to ensure this country doesn't fall apart!
 
-You need to read my article
+Again, you need to read my article
 [Diversity is America's Strength](/posts/2016-07-17-diversity-is-americas-strength.html#a-microcosm-for-diversity-in-the-world).
 I was dead serious when I said that "*America is a microcosm of the
 world, with respect to ethnic issues and diversity!"* What happens
@@ -943,8 +944,6 @@ table on it and that works pretty good. I wouldn't recommend moving
 it. But under no circumstance should you ever attempt to look under
 it.
 
-[Link to National Security Post]()
-
 <a name="cant-announce-policy-changes" />
 
 ## [Can't Announce Policy Changes](#cant-announce-policy-changes)
@@ -978,17 +977,49 @@ it.
 
 # [What are the Answers?](#what-are-the-answers)
 
-summary
-- some of these won't appeal to conservatives because ... the
-  government has to finance it. my response to this is: look at the
-  longterm consequences of prolonging inaction or trying to implement an
-  ineffective policy.
-  - those are going to be incredibly expensive
-  - it's frustrating, i know. but if there's a better answer, i'd love
-    to hear it.
-- also describe the problems caused by a disorganized strategy
-- goals for an ideal policy?
-  - stops more people from crossing the border!
+The answers to these problems are what is really important. If we
+can't find that, then it doesn't matter how much we talk about
+it.
+
+Some of these won't appeal to conservatives because ... the government
+needs to finance some of it. That's fuels part of their refusal to
+accept amnesty. My response: examine the long-term consequences of
+prolonging inaction or implementing ineffective policies. Those are
+both going to be incredibly expensive. Somehow, somebody's gotta spend
+some money. It's frustrating, I know, but if there's a better answer,
+I'd love to hear it.
+
+<a name="goals-for-an-ideal-policy" />
+
+### [Goals For an Ideal Policy](#goals-for-an-ideal-policy)
+
+First of all, the number one priority is to make it harder for people
+to cross the border. If we can't stop that, then there's not much else
+that matters.
+
+Second goal is to mitigate the accumulation of long-term social and
+cultural problems. 
+
+Social problems include situations where citizens receive amnesty, but
+are shut out of services afterwards. Or citizens aren't adequately
+prepared for the workforce. If we don't help them, they would become
+dependent on welfare, so we're going to pay for it one way or
+another. It would be wise to do it in a way that gives us the benefit
+of having planned for it and offered it.
+
+- do not fuck with people's families
+
+- minimize cost
+
+
+- make it fair
+
+      - e.g. p ... something we don't want
+    - it absolutely must account for the disparity in education &
+      employability. mandatory.
+  - should be something that is appealing for people
+    - but also fair to those who have been here. or came here legally.
+
   - applies amnesty to ~20-50% of existing illegal immigrants over 4 years
     - just pulling those numbers from thin air
     - but whatever it is, it should be hard. it should act as an
@@ -1005,13 +1036,22 @@ summary
     - it should be robust:
       - in terms of preventing unintended problems
       - or circumvention of measures
-  - mitigates some of longterm problems that could result
-      - e.g. problems where citizens receive amnesty, but are shut out
-        of services afterwards ... something we don't want
-    - it absolutely must account for the disparity in education &
-      employability. mandatory.
-  - should be something that is appealing for people
-    - but also fair to those who have been here. or came here legally
+
+
+### Transitionary Program
+
+- we need a program to transition people to citizenship
+
+
+<a name="the-wall" />
+
+### The Wall
+
+We need a wall to stop it from getting worse. I don't know if that
+means we should have a literal wall because that might not be as
+effective as it needs to be.
+
+
 
 - restriction of cash? if they have to deal in cash but can't buy some
   goods in cash... i mean that's a really mean, draconian way to crack
