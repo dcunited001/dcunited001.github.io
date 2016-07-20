@@ -338,11 +338,11 @@ discredited and only God knows why.
 In December 2014, I interviewed with Instacart for a Rails job and
 several "shenanigans" happened. After the interview, I attended a
 Rails meetup, right down the street from their office. If I paid
-$2000+ to interview someone and I was aware they attended an event
-down the street, I might ask another employee to attend anonymously. I
-met one of the guys who ran the ABC show *Startup U*, who approached
-me and asked me questions. So, someone else knew I was there
-... maybe.
+$2000+ to interview someone and I was aware they were attending an
+event down the street, I might ask another employee to attend
+anonymously. I met one of the guys who ran the ABC show *Startup U*,
+who approached me and asked me questions. So, someone else knew I was
+there ... maybe.
 
 But there was someone who started one of those conversations that
 took an abrupt accusatory tone and involved racial topics. Basically,

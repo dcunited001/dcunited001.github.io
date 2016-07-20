@@ -136,8 +136,8 @@ plenty of diversity, but none to the extent that the US does.  So,
 while there is some conflict that arises surrounding diversity, with
 my points above, doesn't that actually imply that diversity is a
 distinguishing strength of the US? A culture rich with diverse ideas
-and people is resilient against external factors. It is more difficult
-to internal or external subversion, for example.
+and people is resilient against external factors. It is less
+vulnerable to internal or external subversion, for example.
 
 It has actually been shown that cultural dissonance drives
 intelligence because of the struggle to understand and interoperate
@@ -148,7 +148,7 @@ describes some brilliant studies that elaborate on why this is.
 Another lesson to be learned is that, no matter what challenges you
 face, if you struggle to push harder, your mind will be strengthened
 and you will be rewarded.  The degree to which your mind can be
-strenthened us highly variable, depending on your condition.  I also
+strenthened is highly variable, depending on your condition.  I also
 wrote an article suggesting
 [Language Therapy for Autism and Traumatic Brain Injury](/posts/2015-01-28-language-therapy-for-asd-and-tbi.html).
 

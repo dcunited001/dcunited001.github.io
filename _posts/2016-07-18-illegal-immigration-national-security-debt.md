@@ -8,11 +8,32 @@ author:
 excerpt: ""
 ---
 
-- synonyms for tension & ethnic tension
-
 My passion for this issue stems from a concern for the struggle that
 illegal immigrants face in this country along with foresight on how
 this problem grows over time. *It's National Security Debt.*
+
+#### So ... Thirty-Five Pages on Illegal Immigration ...
+
+In 10,000 words, I'm going to provide you with the realest
+summary of why it's a painful issue for everyone involved. You'll be
+able to empathize with what illegal immigrants are going through in
+this country. I'm going to try to describe what that's like, but I
+don't actually know any illegal immigrants, so you'll have to forgive
+me for that. And as much as you can try to put yourself in someone
+else's shoes, you'll never truly know how that feels until you're
+there.
+
+### Illegal Immigration is Going to Hurt, Whether You Are:
+
+#### &#x2605; From A Family with Four Hundred Year Old Roots in America
+
+#### &#x2605; The Child of Immigrant Parents Who Struggled to Get Here
+
+#### &#x2605; Part of a Family Who Illegally Crossed into America Chasing Opportunity
+
+I challenge you to read this and retain the opinion that someone with
+my opinions is short-sighted on this issue or that I don't know my
+stuff or that I don't care.
 
 Illegal immigration is a serious long-term issue. Not to be alarmist,
 but it's a bit of a powder keg. The further we let it go on, the worse
@@ -25,25 +46,6 @@ you to reach out to me. But I also want you to read Sun Tzu's Art of
 War. It's free. It's short. Read one with some commentary or
 something. You can probably read it in an hour or two. Read that and
 then tell me about how I'm wrong.
-
-### Illegal Immigration Hurts, Whether You Are:
-
-#### &#x2605; From A Family with Four Hundred Year Old Roots in America
-
-#### &#x2605; The Child of Immigrant Parents Who Struggled to Get Here
-
-#### &#x2605; Part of a Family Who Illegally Crossed into America Chasing Opportunity
-
-In 5,000 words or less -- HA! Like that was ever going to happen...
-
-In 8,000 words or so, I'm going to provide you with the realest
-summary of why it's a painful issue for everyone involved. You'll be
-able to empathize with what illegal immigrants are going through in
-this country. I'm going to try to describe what that's like, but I
-don't actually know any illegal immigrants, so you'll have to forgive
-me for that. And as much as you can try to put yourself in someone
-else's shoes, you'll never truly know how that feels until you're
-there.
 
 ## [Illegal Immigration is Painful for Everyone](#illegal-immigration-is-painful-for-everyone)
 
@@ -62,6 +64,8 @@ there.
 #### &#x2605; [The Debate Isn't Structured Properly](#the-debate-isnt-structured-properly)
 
 #### &#x2605; [The Pros Don't Outweigh the Cons](#the-pros-dont-outweigh-the-cons)
+
+#### &#x2605; [A Disorganized Approach is Detrimental](#a-disorganized-approach-is-detrimental)
 
 #### &#x2605; [Lackluster Solutions](#lackluster-solutions)
 
@@ -109,11 +113,33 @@ there.
 
 #### &#x2605; [Stifled Policy Debate](#stifled-policy-debate)
 
+# [Goals For an Ideal Policy](#goals-for-an-ideal-policy)
+
+#### &#x2605; [Stop Illegal Immigration](#stop-illegal-immigration)
+
+#### &#x2605; [Mitigate Long-Term Social and Cultural Problems](#mitigate-long-term-social-and-cultural-problem)
+
+#### &#x2605; [Robust and Well-Thought Out](#robust-and-well-thought-out)
+
+#### &#x2605; [Equitable and Fair](#equitable-and-fair)
+
+#### &#x2605; [Efficient with Clear Long-Term Goals](#efficient-with-clear-long-term-goals)
+
+#### &#x2605; [We Stick To It](#we-stick-to-it)
+
 ## [What are the Answers?](#what-are-the-answers)
 
+#### &#x2605; [Transitionary Program](#transitionary-program)
 
+#### &#x2605; [The Wall](#the-wall)
 
-#### Illegal Immigration Indicates a Failure of Border Security
+#### &#x2605; [Address Foreign ID Card Standards](#address-foreign-id-card-standards)
+
+#### &#x2605; [Economic Policy](#economic-policy)
+
+#### &#x2605; [Attention and Compromise from Both Parties](#attention-and-compromise-from-both-parties)
+
+### Illegal Immigration Indicates a Failure of Border Security
 
 Furthermore, I'll elaborate on how illegal immigration contributes to
 other problems the country is facing. It's an indication of a failure
@@ -124,7 +150,7 @@ the policy details will change behavior. If we say "Free amnesty!
 Citizenship for anyone for three months," what do you think that will
 do? People might rush the border.
 
-#### We can't solve this problem until we prevent people from entering the country illegally
+### We can't solve this problem until we prevent people from entering the country illegally
 
 Amnesty doesn't exactly solve the problem, by the way. People can
 still come here illegally, so what does that do anyways? The debate on
@@ -465,6 +491,38 @@ The lack of incentive to solve is precisely why illegal immigration is
 so dangerous. It's subtle. It wasn't addressed in the late nineties
 and it was basically a hot potato in the aughties.
 
+<a name="a-disorganized-approach-is-detrimental" />
+
+## [A Disorganized Approach is Detrimental](#a-disorganized-approach-is-detrimental)
+
+Any concerted strategy for solving the problem requires some element
+of secrecy to be effectively implemented to prevent any unintended
+response.  This necessitates circumventing the democratic process in
+Congress, not to pass laws, but for discussion. If you can't openly
+discuss something or suggest tactics because of it, then it's hard to
+put it into action in a democratic system.
+
+Lack of discussion means that if the strategy changes from year to
+year and from term to term, our people and their representatives
+aren't going to be as aware of policy decisions. Because of that, they
+are likely to change fairly quickly.
+
+I'm sure that most of our congressmen and their staff are
+well-informed on the issue of immigration. I'm sure they know the
+specifics of these policies. They get into their position because:
+they're good at making just decisions; they're good at working a
+network of information gathering to facilitate those decisions; and
+they know how to work with other people and balance interests. It's
+not like they believe it's not important. However, it's generally true
+of any secret policy that it's a harder to discuss particular details
+or future policy decisions.
+
+Lack of discussion presents challenges in maintaining a coordinated,
+coherent strategy. If it's more challenging to coordinate how the
+strategy changes from term to term -- because of secrecy -- then can
+we be sure that certain long-term tactics are properly executed and
+certain long-term objectives are met?
+
 <a name="lackluster-solutions)" />
 
 ## [Lackluster Solutions](#lackluster-solutions)
@@ -539,13 +597,13 @@ they'd rather knowingly let the whole damn thing become a powder keg
 by 2025.
 
 And think about it, most of the policies that people have supported up
-to now
-
-- massive deportation may work, but is equally riddled with
-  problems.
-  - obviously, there is an risk for racism and painful
-    discrimination. it would definitely.
-  - we may be able to mitigate this risk with technology
+to now haven't stopped the influx of immigrants. Massive deportation
+may work, but is equally riddled with problems. How do we identify
+people in a fair way that prevents us from discriminating? Obviously,
+there's a risk for racism and painful discrimination! We have to get
+the right people on board, so we're not mistakenly hurting our own
+citizens here. And, to some degree, we may be able to mitigate this
+risk with technology.
 
 <a name="future-consequences-of-inaction-and-poor-policy" />
 
@@ -663,7 +721,7 @@ million people could contain enemies of the state.*
 
 Am I crazy here? I mean I don't want to open a pandora's box of racism
 because it's horrible. But we can't even manage our own damn country
-because we're worried about hurting people's feelings. My feeling are
+because we're worried about hurting people's feelings. My feelings are
 going to get pretty hurt if ethnic tensions spread to combine with
 others and cause our country to suffer serious consequences. And we
 could have stopped it, but didn't because we might hurt someone's
@@ -678,8 +736,8 @@ they're getting what they want, giving us a headache with all the
 stifled discussion and then possibly contributing to a perfect storm
 of ethnic conflict by 2030.
 
-And we can't talk about it, but Democrats can *openly* talk about
-*using* this population for *more votes*. What the fuck?! If you
+And we can't talk about it, but Democrats can *all but openly* talk
+about *using* this population for *more votes*. What the fuck?! If you
 really cared, you'd be talking more about the challenges this
 population will face once they get their ID card and citizenship.
 Gotta get their vote and public support first, eh?
@@ -950,42 +1008,43 @@ it.
 
 ## [Can't Announce Policy Changes](#cant-announce-policy-changes)
 
-- and if amnesty is announced, we can be sure that these
-      people will try to slip in.
-  - this means we stymie an already stifled discussion
-    - we can't really make suggestions without causing possibly
-      significant changes in behavior
-
-      viable strategy requires secrecy, but what
-          i'm saying if no one knows the goals we are pushing towards
-          with resolving illegal immigration, how can they know how to
-          react?
-
-
-- whenever we do decide on something, we have to be careful as to how
-  we present it and announce it.
+If amnesty is announced, we can be sure that there will be a surge of
+people, the degree of which can't be known. We can't make suggestions
+without causing significant changes in behavior and we really need to
+understand how our discussion affects that. Whenever we do decide on
+something, we have to be careful as to how we present it and announce
+it. And it's going to change how each of those four classes perceive
+our immigration policy, in addition to people outside the country.
 
 <a name="stifled-policy-debate" />
 
 ## [Stifled Policy Debate](#stifled-policy-debate)
 
-- furthermore, we can't really have an open debate here.
-  - partly because we can't talk about all the options on the table
-    because of effect that could have on behavior
-  - partly because of the PC Police scaring us into inaction by
-    raising the spectre of racism
+So to have a viable strategy here requires secrecy. If our strategy is
+disorganized then none of our congressmen know the goals we are
+pushing towards with resolving illegal immigration, how can they know
+how to react and how to discuss it?
+
+Furthermore, we can't have a completely open debate here. For the most
+part, we can explain many of the options, but we also risk signalling
+to people and losing advantage. The PC Police also scare us into
+inaction by rasing the spectre of racism.
 
 <a name="goals-for-an-ideal-policy" />
 
 # [Goals For an Ideal Policy](#goals-for-an-ideal-policy)
 
-## Stop Illegal Immigration
+<a name="stop-illegal-immigration" />
+
+## [Stop Illegal Immigration](#stop-illegal-immigration)
 
 First of all, the number one priority is to make it harder for people
 to cross the border. If we can't stop that, then there's not much else
 that matters.
 
-## Mitigate Long-Term Social and Cultural Problems
+<a name="mitigate-long-term-social-and-cultural-problem" />
+
+## [Mitigate Long-Term Social and Cultural Problems](#mitigate-long-term-social-and-cultural-problem)
 
 Second goal is to mitigate the accumulation of long-term social and
 cultural problems. By cultural problems, I mean we have to guard
@@ -1002,7 +1061,9 @@ social problem is family. We don't want to mess with someone's family
 because that's going to be a hardship they'll remember and tell their
 kids.
 
-## Robust and Well-Thought Out
+<a name="robust-and-well-thought-out" />
+
+## [Robust and Well-Thought Out](#robust-and-well-thought-out)
 
 There are eleven million undocumented immigrants in the country.
 There are going to be problems with some cases, but we don't want to
@@ -1023,7 +1084,9 @@ want people who don't want to comply. Sorry. This is our country and
 we don't actually have to do anything except put you on a 20 hour bus
 ride to Tijuana.
 
-## Equitable and Fair
+<a name="equitable-and-fair" />
+
+## [Equitable and Fair](#equitable-and-fair)
 
 It should be fair to everyone. For illegal immigrants. For legal
 citizens and immigrants too. I'm sure there's some people in
@@ -1035,7 +1098,9 @@ first world problem. Some countries have to figure out how to keep
 people in. But, we respect human rights and we can show that. Every
 crisis is an opportunity.
 
-## Efficient with Clear Long-Term Goals
+<a name="efficient-with-clear-long-term-goals" />
+
+## [Efficient with Clear Long-Term Goals](#efficient-with-clear-long-term-goals)
 
 Why should we spend so much money on residents who came here
 illegally? That's pretty crazy. Whatever our policy ends up being --
@@ -1048,7 +1113,9 @@ citizenship over 5 years through a two-year program; deports 95% of
 remaining illegal immigrants over 10 years who didn't transition to
 full citizens.
 
-## We Stick To It
+<a name="we-stick-to-it" />
+
+## [We Stick To It](#we-stick-to-it)
 
 We're going to pick a horse and we're going to stick to it. Flux in
 policy here is very expensive, moreso than usual.
@@ -1069,7 +1136,9 @@ both going to be incredibly expensive. Somehow, somebody's gotta spend
 some money. It's frustrating, I know, but if there's a better answer,
 I'd love to hear it.
 
-### Transitionary Program
+<a name="transitionary-program" />
+
+## [Transitionary Program](#transitionary-program)
 
 We need a program to transition people to citizenship. I don't really
 want to call it amnesty though. That makes them sound like political
@@ -1099,88 +1168,99 @@ but we really don't want to think about it that way.
 
 <a name="the-wall" />
 
-### The Wall
+## [The Wall](#the-wall)
 
 We need a wall to stop it from getting worse. I don't know if that
 means we should have a literal wall because that might not be as
 effective as it needs to be.
 
-### Address Foreign ID Card Standards
+<a name="address-foreign-id-card-standards" />
+
+## [Address Foreign ID Card Standards](#address-foreign-id-card-standards)
 
 We can stress the importance of being able to identify citizens to
 pressure Latin America and other regions to adopt more stringent
 identification requirements. In general, this should help fight
 terrorism.
 
-<a name="a-disorganized-approach-is-detrimental" />
+<a name="economic-policy" />
 
-## [A Disorganized Approach is Detrimental](#a-disorganized-approach-is-detrimental)
-  - move this up?
+## [Economic Policy](#economic-policy)
 
-    - increased tensions for illegal and legal immigrants here
-    - any concerted strategy for solving the problem requires some
-      element of secrecy to be effectively implemented to prevent any
-      unintended response
-      - this necessitates circumventing the democratic process in
-        congress
-        - if you can't openly discuss something or suggest tactics
-          because of it, then it's hard to put it into action in a
-          democratic system
-      - lack of discussion means that if the strategy changes from
-        year to year and term to term, no one is going to know
-        - which basically means there can be no coordinated, coherent
-          strategy.
-        - if you can't coordinate how the strategy changes from term
-          to term (because of the secrecy) then how can you ensure
-          that certain long-term tactics are properly executed
-          - and certain long-term objectives are met
+This won't be as effective, but it will help us resolve our problems
+from another angle. Instead of fighting demand for labor within our
+own country, we can figure out how to work with the Mexican government
+to boost border security and develop economic incentives so that there
+are more jobs there. Obviously, we need to focus on ourselves
+first. That's partly why this is frustrating because we have to focus
+on figuring out what to do with people who just walked in.
 
-### Economic Policy
+The solution starts with economic and politic partnerships with
+Mexico. This is already to our advantage because, quite frankly,
+Mexico is closer to us than China. So this provides us with an
+economic mechanism for foreign policy that we can use for some
+leverage and hopefully address multiple problems at once.  We need
+work with mexico to establish mutually beneficial policies which
+create opportunities there.
 
-not really sure this will be very effective.
-  - the solution starts by addressing economic/political issues in
-    neighboring states (mexico)
-    - we need work with mexico to establish mutually beneficial
-      policies which create opportunities there
-      - Microsoft manufactured the original xbox in guadalajara, for
-        example.
-    - transporting products from mexico should be cheaper.  right now,
-      the transportation channels available to push products out of
-      mexico and into america are suboptimal, AFAIK. i don't actually
-      have much knowledge on the specifics, but i'm making inferences
-      from a few key pieces of info
-      - from what i know, i'm tending towards thinking that mexico has
-        an infrastructure problem that prevents product from being
-        efficiently exported
-        - but i haven't researched this at all
-    - whatever policy we undertake here needs to factor in
-      strengthening our relationship with mexico.
-    - mexican authorities need to be involved in stemming the flow
-      - we need to present them with a choice, essentially
-        - positive reinforcement for demonstrated traction towards
-          solving this problem.
-          - our numbers get better stateside, we encourage policies
-            which help the situation
-          - examples include cooperation on shared infrastructure
-            projects or encouragement of manufacturing opportunities
-            - however, if it's hard enough to create jobs in america,
-              what business do we have promising to create jobs
-              elsewhere, that's dumb
-        - ... i don't really want to say "negative reinforcement" here
-          - but we need to find means of motivating action here
+It's honestly not that great of a tool because we can't expect to
+dictate how businesses will invest and construct their supply
+chains. Also, if our supply chains have multiple dependencies that
+require parts and subparts to circle the world like Magellan, that
+doesn't help anybody. Chinese businesses would still have the
+advantage because all in all, it's going to be cheaper for
+them. They've already got the industrial infrastructure for everything
+and => OH YEH! *WE DON'T HAVE THAT ANYMORE!*
 
+Rearchitecting supply chains and building new infrastructure is a
+major cost for American companies and may simply cause us to cut
+ourselves out of the loop, if it renders some unable to compete. Or if
+it renders any marginal number of companies significantly at
+disadvantage for competition. However, there are other major economic
+changes coming our way that are going to rewrite the textbooks and we
+cannot let these slip through our fingers.
 
+However, *one hand washes the other* and the more we can help Mexico
+develop, the better off we all are I think. Whatever policy we
+undertake here needs to factor in strengthening our relationship with
+mexico. Microsoft manufactured the original xbox in Guadalajara, for
+example. So the more products like that which are manufactured closer
+to home, the better, but America first.
 
+I'm not sure why Mexico hasn't developed faster with higher economic
+indicators. Transporting products from Mexico should be cheaper. Right
+now, the transportation channels available to push products out of
+Mexico and into America and global markets are suboptimal, I think?
+This is speculation really, as I've neither been to Mexico or actually
+left the country. I don't actually have much knowledge on the
+specifics, so I'm just making inferences from a few key pieces of
+information. From what I know, I'm tending towards thinking that
+Mexico needs more robust transportation infrastructure.
 
-### Attention and Compromise from Both Parties
+Mexican authorities need to be more involved in stemming the flow of
+immigrants across the border. They need to be more aware of people who
+arrive in cities acting as staging points to cross the border. I'm
+sure they police this to some degree. But our policy needs to involve
+Mexican authorities, so we can use it as a two-way tool for foreign
+policy. With continued demonstrated traction towards solving this
+problem, we encourage policies that push both our countries forward
+together. Obviously, it's not so simple. Examples include cooperation
+on shared infrastructure projects or encouragement of manufacturing
+opportunities.
 
-  - and finally, solving this problem requires attention and
-    compromise from both parties
-    - the longer we wait, the worse it gets and the more negativity
-      it generates.
-    - we need some form of amnesty, the implementation of such a
-      policy has it's own problems (stated above)
-      - mostly, it's difficult to determine what is fair and what is
-        just,
-        - when requirements and process for this must remain secret.
-        - and the discussion of it
+<a name="attention-and-compromise-from-both-parties" />
+
+## [Attention and Compromise from Both Parties](#attention-and-compromise-from-both-parties)
+
+Finally, solving this problem requires attention and compromise from
+both parties. The longer we wait, the worse it gets and the more
+negativity it generates. While we need some form of amnesty, the
+implementation of such a policy has its own problems. Mostly it's
+difficult to determine & specify what is fair, efficient and just,
+legally and logistically. This is especially when requirements and
+process must remain secret.
+
+But we have to solve the problem and we need to start now. With every
+crisis comes opportunity and hopefully that opportunity is used as a
+chance for America to show the world yet again how it handles such a
+situation.
