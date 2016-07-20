@@ -83,7 +83,7 @@ there.
 
 #### &#x2605; [National Security](#national-security)
 
-## [Problems Related to Illegal Immigration](#problems-related-to-illegal-immigration)
+### [Other Problems Related to Illegal Immigration](#problems-related-to-illegal-immigration)
 
 #### &#x2605; [Lost Jobs](#lost-jobs)
 
@@ -110,6 +110,8 @@ there.
 #### &#x2605; [Stifled Policy Debate](#stifled-policy-debate)
 
 ## [What are the Answers?](#what-are-the-answers)
+
+
 
 #### Illegal Immigration Indicates a Failure of Border Security
 
@@ -973,6 +975,84 @@ it.
   - partly because of the PC Police scaring us into inaction by
     raising the spectre of racism
 
+<a name="goals-for-an-ideal-policy" />
+
+# [Goals For an Ideal Policy](#goals-for-an-ideal-policy)
+
+## Stop Illegal Immigration
+
+First of all, the number one priority is to make it harder for people
+to cross the border. If we can't stop that, then there's not much else
+that matters.
+
+## Mitigate Long-Term Social and Cultural Problems
+
+Second goal is to mitigate the accumulation of long-term social and
+cultural problems. By cultural problems, I mean we have to guard
+against promoting isolation of a community
+
+Social problems include situations where citizens receive amnesty, but
+are shut out of services afterwards. Or where citizens aren't
+adequately prepared for the workforce. It absolutely must account for
+the disparity in education & employability. Mandatory. If we don't
+help them, they would become dependent on welfare, so we're going to
+pay for it one way or another. It would be wise to do it in a way that
+gives us the benefit of having planned for it and offered it. Another
+social problem is family. We don't want to mess with someone's family
+because that's going to be a hardship they'll remember and tell their
+kids.
+
+## Robust and Well-Thought Out
+
+There are eleven million undocumented immigrants in the country.
+There are going to be problems with some cases, but we don't want to
+create more problems, especially long-term problems. Policies and
+procedures should favor the state, in general, and should be designed
+to prevent circumvention of measures. If someone can't handle that,
+then it sounds like they might have general problems dealing with
+rules and laws.
+
+Remember, these are people that came here illegally in the first
+place. They shouldn't be here, but they are. We need to figure out who
+is staying and who is leaving. Some of the people who came here could
+have been approved for citizenship, but others may have been denied or
+were denied.
+
+Whatever our rules are, we want people who want to comply. We don't
+want people who don't want to comply. Sorry. This is our country and
+we don't actually have to do anything except put you on a 20 hour bus
+ride to Tijuana.
+
+## Equitable and Fair
+
+It should be fair to everyone. For illegal immigrants. For legal
+citizens and immigrants too. I'm sure there's some people in
+Washington that could figure what fair means exactly, but this is also
+a chance to show how America deals with these things.
+
+Yeh, we've got first world problems. Illegal immigration is kind of a
+first world problem. Some countries have to figure out how to keep
+people in. But, we respect human rights and we can show that. Every
+crisis is an opportunity.
+
+## Efficient with Clear Long-Term Goals
+
+Why should we spend so much money on residents who came here
+illegally? That's pretty crazy. Whatever our policy ends up being --
+and I have ideas to implement -- we need to make sure it doesn't drag
+out like the War on Drugs or something. And, hell no, we cannot have a
+War on Illegal Immigration. That's a PR nightmare.
+
+Example goals: transitions ~20-50% of existing illegal immigrants to
+citizenship over 5 years through a two-year program; deports 95% of
+remaining illegal immigrants over 10 years who didn't transition to
+full citizens.
+
+## We Stick To It
+
+We're going to pick a horse and we're going to stick to it. Flux in
+policy here is very expensive, moreso than usual.
+
 <a name="what-are-the-answers" />
 
 # [What are the Answers?](#what-are-the-answers)
@@ -989,59 +1069,33 @@ both going to be incredibly expensive. Somehow, somebody's gotta spend
 some money. It's frustrating, I know, but if there's a better answer,
 I'd love to hear it.
 
-<a name="goals-for-an-ideal-policy" />
-
-### [Goals For an Ideal Policy](#goals-for-an-ideal-policy)
-
-First of all, the number one priority is to make it harder for people
-to cross the border. If we can't stop that, then there's not much else
-that matters.
-
-Second goal is to mitigate the accumulation of long-term social and
-cultural problems. 
-
-Social problems include situations where citizens receive amnesty, but
-are shut out of services afterwards. Or citizens aren't adequately
-prepared for the workforce. If we don't help them, they would become
-dependent on welfare, so we're going to pay for it one way or
-another. It would be wise to do it in a way that gives us the benefit
-of having planned for it and offered it.
-
-- do not fuck with people's families
-
-- minimize cost
-
-
-- make it fair
-
-      - e.g. p ... something we don't want
-    - it absolutely must account for the disparity in education &
-      employability. mandatory.
-  - should be something that is appealing for people
-    - but also fair to those who have been here. or came here legally.
-
-  - applies amnesty to ~20-50% of existing illegal immigrants over 4 years
-    - just pulling those numbers from thin air
-    - but whatever it is, it should be hard. it should act as an
-      implicit filter, so that the people who have qualities that
-      contribute to society stay
-      - it should be risky. like "i dont know if i can do that, but if i
-        work hard, then maybe"
-      - it should be challenging, like military service would be
-        challenging
-    - it should be fair
-      - obviously, something like national guard service wouldn't work
-        for everyone (also ... are these people we want to train and
-        give guns?)
-    - it should be robust:
-      - in terms of preventing unintended problems
-      - or circumvention of measures
-
-
 ### Transitionary Program
 
-- we need a program to transition people to citizenship
+We need a program to transition people to citizenship. I don't really
+want to call it amnesty though. That makes them sound like political
+prisoners or something. That's crazy.
 
+If there is some transitionary amnesty program, it should be something
+that is appealing for undocumented immigrants to apply for, yet
+something that is also fair to those who are here legally. We need to
+communicate the benefits clearly and it motivate them to work with
+us. Right now, there's not much incentive for undocumented immigrants
+to walk in an ICE office. Why not? What is going to make them do that?
+
+There need to be multiple channels like this and each one should
+include some educational component. Like a G.E.D. requirement or
+something. Obviously, something like national guard service wouldn't
+work for everyone ... And are these people we want to train and give
+guns? But for some people, that might work well.
+
+Whatever it is, it should be a little risky. Like "i dont know if i
+can do that, but if i work hard, then maybe." It should be
+challenging, like military service would be challenging. Because,
+whatever the goals are for transitions to citizenship, we want to
+identify the people who will help us make America great again. Put the
+others on a bus to Tijuana. It should act as an implicit filter, so
+that the people who have qualities that contribute to society stay,
+but we really don't want to think about it that way.
 
 <a name="the-wall" />
 
@@ -1051,16 +1105,12 @@ We need a wall to stop it from getting worse. I don't know if that
 means we should have a literal wall because that might not be as
 effective as it needs to be.
 
+### Address Foreign ID Card Standards
 
-
-- restriction of cash? if they have to deal in cash but can't buy some
-  goods in cash... i mean that's a really mean, draconian way to crack
-  down on it.
-  - seriously orwellian though. not worth the implementation, etc.
-
-- addressing the identification problem
-  - this can be used in some way to slightly pressure Latin American
-    countries to adopt more robust identification
+We can stress the importance of being able to identify citizens to
+pressure Latin America and other regions to adopt more stringent
+identification requirements. In general, this should help fight
+terrorism.
 
 <a name="a-disorganized-approach-is-detrimental" />
 
@@ -1134,94 +1184,3 @@ not really sure this will be very effective.
         just,
         - when requirements and process for this must remain secret.
         - and the discussion of it
-
-
--- possibly split into separate post (not 5,000 words!)
-
-<a name="system-theory-structure-the-incentives-and-feedback-loops" />
-
-### [Systems Theory - Structure the Incentives and Feedback Loops]()
-
-- brief notes on how this approach to modeling allows you to construct
-  systems which are viable and effective in almost any domain
-  - business, government, etc
-  - it's the intersection of systems theory (biology & business) with
-    game theory
-  - human and group interactions are all based on motivation, risk,
-    reward, goals, feedback loops and communication.
-    - and a tiered, multidimension approach towards each of those
-
-- the number one thing we can do is make sure that group incentives
-  line up. this single point of information alone might be the most
-  valuable nugget in this entire post.
-  - make sure individuals and groups know what they want and make sure
-    that the people on our side want the same time.
-  - if they want something else, see if you can convince them that
-    what you want is really the same thing
-
-  - need to motivate the legal and illegal immigrant populations to
-    action
-    - consequences for illegal immigrants to cooperate can't all be
-      negative.
-    - seriously, what incentive would an illegal immigrant have for
-      putting themselves at risk to cooperate with the system?
-    - i don't really know what our options are here... but i'd love to
-      explore them and hear what ideas people have
-
-  - what I did here was explain how each class of citizens in america
-    actually wants the same thing with regard to illegal
-    immigration. even the illegal immigrants! We all want to be
-    respected, hard-working citizens of America.
-    - when you view these tough issues in that way, then it's not so
-      complex. after reenvisioning a tough issue like that and being
-      open minded, the next step is to be capable of efficiently
-      communicating that to others and cutting through the stifled,
-      chaotic dialogue in this country.
-
-- metaphor to a system of a million random 3D vectors of varying
-  direction and magnitude.  If you sum a random or almost random
-  system of vectors like this, what do you end up with?
-  - a very small vector representing the sum of change in the system.
-  - just throwing numbers out: the magnitude could be 1/100 to 100
-    times the magnitude of the average vector
-- now what if that system contains the same number of vectors of a
-  similar distribution of magnitude, where they have been reoriented
-  so that the face towards mostly the same direction.
-  - when you sum them, you get a vector that's somewhere between
-    10,000 and 1,000,000 times the magnitude of the original vector
-- we all agree that we need changes and we all recognize mostly the
-  same set of serious problems in society. Where the left and right
-  depart is on proposing solutions to those problems. What I want to
-  do is unite the left and the right, so that we can truly accomplish
-  something great in America and in the world.
-
-  - sometime soon, i'll write a post on the differences between the
-    freedom of the individual and the freedom of the community.
-    - particularly, i'll discuss that they are fundamentally at odds
-      with each other. individuals should have the freedom to live the
-      life they want, without judgement.
-      - so we need a system that enables that
-      - but small, local communities also deserve the freedom to build
-        the community they want and one that
-        - and we need a system that allows local communities to depart
-          from the mainstream on some social issues
-    - but the point here is that the left and the right are at each
-      others throats over this stuff. but we need a country that has
-      both. the federal government has no business telling you what is
-      moral and what is not. they should make laws that enforce
-      ethics, but morality is something for individuals, families and
-      communities to decide. yet, if communities lack that freedom,
-      then we have problems.
-
-  - if we could figure out a system where we have both the freedom of
-    the individual and the freedom of the community, where the left
-    and right don't have to fight about this, then imagine the
-    progress we could make for america.
-
-      When and so when we make people aware that we all know we want
-      essentially the same thing,
-      - we all want the chance to work hard and be rewarded for that
-        hard work,
-      - then we can motivate everyone
-        to work towards making America greater. We can build it and we
-        will be faster, stronger and longer lasting.
