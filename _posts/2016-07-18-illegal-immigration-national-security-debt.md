@@ -2,10 +2,22 @@
 title: "Illegal Immigration: National Security Debt"
 categories: "blog"
 tags: "sociology politics"
-headline: ""
+headline: "The definitive post on Illegal Immigration"
 author:
   name: "David Conner"
-excerpt: ""
+excerpt: "
+My passion for this issue stems from a concern for the struggle that
+illegal immigrants face in this country along with foresight on how
+this problem grows over time. *It's National Security Debt.*
+In 10,000 words, I'm going to provide you with the realest
+summary of why it's a painful issue for everyone involved. You'll be
+able to empathize with what illegal immigrants are going through in
+this country. I'm going to try to describe what that's like, but I
+don't actually know any illegal immigrants, so you'll have to forgive
+me for that. And as much as you can try to put yourself in someone
+else's shoes, you'll never truly know how that feels until you're
+there.
+"
 ---
 
 My passion for this issue stems from a concern for the struggle that
@@ -39,7 +51,7 @@ Illegal immigration is a serious long-term issue. Not to be alarmist,
 but it's a bit of a powder keg. The further we let it go on, the worse
 it gets. Regardless of who's side you're on, you need to hear me out.
 The truth is, there aren't "sides" on this issue; it is painful for
-everyone involved!
+everyone involved.
 
 First of all, if you strongly disagree with this article, then I want
 you to reach out to me. But I also want you to read Sun Tzu's Art of
