@@ -2,7 +2,7 @@
 title: "Illegal Immigration: National Security Debt"
 categories: "blog"
 tags: "sociology politics"
-headline: "The definitive post on Illegal Immigration"
+headline: "A bipartisan argument for resolving this mess now"
 author:
   name: "David Conner"
 excerpt: "
@@ -22,7 +22,8 @@ there.
 
 My passion for this issue stems from a concern for the struggle that
 illegal immigrants face in this country along with foresight on how
-this problem grows over time. *It's National Security Debt.*
+this problem grows over time. *It's National Security Debt.* And this
+is a bipartisan argument for resolving this mess now.
 
 #### So ... Thirty-Five Pages on Illegal Immigration ...
 
@@ -1213,16 +1214,20 @@ Mexico is closer to us than China. So this provides us with an
 economic mechanism for foreign policy that we can use for some
 leverage and hopefully address multiple problems at once.  We need
 work with mexico to establish mutually beneficial policies which
-create opportunities there.
+create opportunities there. And **NO**, we are *not* going to do this
+with **tariffs**. That puts the power in politicians hands to make or
+break businesses and why the !@#$ would we hand that kind of power to
+Washington?! What?!
 
-It's honestly not that great of a tool because we can't expect to
-dictate how businesses will invest and construct their supply
-chains. Also, if our supply chains have multiple dependencies that
-require parts and subparts to circle the world like Magellan, that
-doesn't help anybody. Chinese businesses would still have the
-advantage because all in all, it's going to be cheaper for
-them. They've already got the industrial infrastructure for everything
-and => OH YEH! *WE DON'T HAVE THAT ANYMORE!*
+So, I don't know how were going to do it, but I do know that we are
+going to re-industrialize! It's honestly not that great of a tool
+because we can't expect to dictate how businesses will invest and
+construct their supply chains. Also, if our supply chains have
+multiple dependencies that require parts and subparts to circle the
+world like Magellan, that doesn't help anybody. Chinese businesses
+would still have the advantage because all in all, it's going to be
+cheaper for them. They've already got the industrial infrastructure
+for everything and => OH YEH! *WE DON'T HAVE THAT ANYMORE!*
 
 Rearchitecting supply chains and building new infrastructure is a
 major cost for American companies and may simply cause us to cut
