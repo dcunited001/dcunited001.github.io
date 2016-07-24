@@ -1,68 +1,4 @@
----
-title: "Virtually Rifted: Yet Prodigiously Gifted"
-categories: "blog"
-tags: "virtual-reality business startups"
-headline: ""
-author:
-  name: "David Conner"
-excerpt: ""
----
 
-- briefly explain videos 5 & 6 from
-  [why you should give me a billion dollars](https://www.youtube.com/playlist?list=PLEJEA9mYfeKjEbBxmiHEHpLcqnx5DIrYr)
-  - [vid 5](https://www.youtube.com/watch?v=hBAINyOzXVY&list=PLEJEA9mYfeKjEbBxmiHEHpLcqnx5DIrYr&index=5)
-  - [vid 6](https://www.youtube.com/watch?v=kBtIkCUb8qI&list=PLEJEA9mYfeKjEbBxmiHEHpLcqnx5DIrYr&index=6)
-
-vr blind dates app
-- kinda like chat roulette or airtime for VR
-  - you pop in and out of quick 5 minute interactions with other
-    people
-- i'm not really passionate enough about it to work on it
-
-#### 3 questions 4 VR/AR:
-
-- what is the equivalent of the browser?
-- what is the equivalent of streaming video?
-- .... what's the third?
-
-
-this is a bit old, by the way: i'm catching up with some of the
-content i added to the video series
-- but i have a ton of new stuff
-  - covering VR business models and how the industry will evolve to
-    transition from VR to AR.
-
-#### why AR is way more interesting than VR
-
-virtual reality is a bit antisocial
-- you can't see other people unless they are in your virtual
-  experience, which requires time to configure
-  - if you're headset has a 3D camera, this isn't too much of a
-    problem because it can overlay on top of that, but oculus does
-    not.
-- i don't understand why there's not a 3D camera with hardware
-  mesh/voxelization in the oculus. maybe this isn't so easy. i'm sure
-  these guys thought of this stuff.
-  - some of the ideas i have for hardware, software and business
-    models address these concerns. VR/AR will change in its
-    implementation over the next decade.
-  - this means the hardware will cycle in and out. i don't think the
-    way it's packaged now makes sense, but more on that in the
-    business article
-
-#### Super Smash Maker
-
-(move up to top as an example of an augmented experience)
-
-you could create a platform game or a Super Smash Brother's level with
-objects on a table. you can use gestures to cut and paste template
-objects and create a new level to use temporarily. the template
-objects could be anything: a piece of paper or a cup or pocket
-change. when you specify a gesture or command, the object is cut and
-paste as you design your level. from there, you can stretch, color or
-move the virtual objects around and apply behavior to them. getting
-this to work well would require having room equipped with the right
-sensors and it would definitely be a challenge.
 
 
 #### mapping identical spaces
@@ -225,7 +161,7 @@ Graphics with Spectra
 
 ================
 
-VR Business
+## Part 2: VR Business
 
 UI/UX is voice, gesture & object-functional (better word for this?)
 - so these are more realistic interactions
@@ -382,18 +318,89 @@ and it would be something sorta like be stuckin the lost woods from zelda
 
 
 
-==========
+==================================================
+
+# VR/AR: UI & Social
+
+
+
+## UI
+
+
+
+### VR has a Hardware UI
+
+so does everything... but with VR it's critical that
+
+
+
+## Social
+
+
+
+
+
+
+==================================================
+
+# VR/AR: Business & UI (title?)
+
+## App Ideas
+
+- which apps leverage Business/UI aspects?
+  - or show how an app today might fail tomorrow because of changes in
+    user interactions
+
+
+#### UI-Driven Economics of Data
+
+
+
 
 #### Hardware Economics
 
+- mention that product/platform complexity will cause VR to suffer serious setbacks
+  - if hardware require for apps is vastly different from platform to platform or app to app
+    - this becomes incredibly confusing/frustrating/expensive for consumers
+    - and drastically increases the cost of software development
+- alters demand for other computing products
+  -
+
+### What is a VR product? What is an AR product?
 
 
 
-==========
+
+## Who are the consumers of a VR/AR product?
+
+
+###
 
 
 
+# Market
 
+
+## Hardware Market Dynamics
+
+for hardware (especially), software, & platforms
+- customer expectations of product
+- consumption dynamics (...?)
+- customer segmentation & revenue streams
+  - whether products are marketable to businesses or just consumers
+
+#### Customer expectations of product
+
+these questions kind of repeated for hardware/software/platforms
+- what is a VR product? what is an AR product?
+ - what do you need to buy? why?
+ - how does a customer know?
+- especially in terms of how this is going
+
+## Platform(s) - Market Dynamics
+
+
+## Software(s) - Market Dynamics
 
 
 
@@ -416,3 +423,31 @@ google) WHY? why don't you fucking ask someone that can answer that
 question? oh yeh, that's right, there aren't very many people who
 can... (rewrite lulz) alexa can probably answer that question. i'll
 answer it if you double my net worth! it'll cost you SIXTY CENTS...
+
+
+
+==================================================
+
+
+## VR/AR: Killer Apps
+
+
+
+
+
+### Social Aspects
+
+- how does VR/AR change the social aspect of
+
+
+
+
+==================================================
+
+
+## VR/AR: Graphics, Hardware & Software (& Networking?)
+
+- include section on hackpack?
+
+
+### Example Apps
