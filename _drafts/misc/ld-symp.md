@@ -96,7 +96,7 @@ inducing autophagy by rapamycin before, but not after, the formation of plaques 
 - http://www.ncbi.nlm.nih.gov/pmc/articles/PMC3182203/
 - i thought rapamycin would activate mTOR and **suppress** immune activity …
 
-nanoparticles coated in rapamycin attach to mTOR (where mTOR is more highly expressed?)
+nanoparticles coated in rapamycin attach to mTOR (where mTOR is more highly expressed?) !!!!!!
 - https://news.wustl.edu/news/Pages/26497.aspx
 - doing so increases the likelihood that autophagy will be triggered
   - i postulate this is bc mTOR’s autophagy-inhibiting effects will be inhibited
