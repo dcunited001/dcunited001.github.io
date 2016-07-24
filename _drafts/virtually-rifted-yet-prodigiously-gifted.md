@@ -8,22 +8,23 @@ author:
 excerpt: ""
 ---
 
-
 - briefly explain videos 5 & 6 from
-  [why you should give me a billion dollars]()
-  - [vid 5]()
-  - [vid 6]()
+  [why you should give me a billion dollars](https://www.youtube.com/playlist?list=PLEJEA9mYfeKjEbBxmiHEHpLcqnx5DIrYr)
+  - [vid 5](https://www.youtube.com/watch?v=hBAINyOzXVY&list=PLEJEA9mYfeKjEbBxmiHEHpLcqnx5DIrYr&index=5)
+  - [vid 6](https://www.youtube.com/watch?v=kBtIkCUb8qI&list=PLEJEA9mYfeKjEbBxmiHEHpLcqnx5DIrYr&index=6)
 
 vr blind dates app
 - kinda like chat roulette or airtime for VR
   - you pop in and out of quick 5 minute interactions with other
     people
+- i'm not really passionate enough about it to work on it
 
+#### 3 questions 4 VR/AR:
 
-3 questions 4 VR/AR:
 - what is the equivalent of the browser?
 - what is the equivalent of streaming video?
 - .... what's the third?
+
 
 this is a bit old, by the way: i'm catching up with some of the
 content i added to the video series
@@ -127,6 +128,51 @@ just the right dimensions.
 
 (more here)
 
+you can map adjacent rooms in your house to one space to other virtual
+rooms
+- or you can be in a single room and map these logical transitions to
+  other spaces
+  - if you've mapped adjacent rooms ...
+    - then you can walk from room to room and this triggers a
+      transition
+      - you can specify which transition with a gesture or something
+
+- VX/AX can be rendered for the space they are presented in
+  - this is similar to the 6th layer of OSI model/Responsive CSS
+
+this cuts down on the requirement for rooms of specific geometry
+- your applications know how to render things in various geometries in
+  some way which is not overly complicated.
+
+- experienced can be shared on non-identical surfaces
+  - "you, a friend and your coffee tables"
+  - it recognizes that you can load this VX/AX on this flat area of
+    your coffee table. or the activity or experience could be loaded
+    into other constraints.
+    - so in this way, floating apps or activities would have less
+      limitations, but these would seem more "real" if they were
+      "docked" in relation to some
+
+CSS-like language to determine how these activities bind to their
+surfaces or docking points.
+- has something similar to media queries which allows these to expand
+  their bounds to fit spaces of different sizes
+
+
+
+
+
+#### multi-room mappings
+
+mapping multiple physical rooms to multiple virtual spaces
+
+
+it's much more affordable to wire together a single room with a set of
+sensors that can enable applications.
+
+
+
+
 
 #### hyperlinked spaces
 
@@ -135,16 +181,28 @@ all about hyperlinked spaces. or they could be... it's hard to
 tell. one thing is certain, there will be continual change in VR/AR as
 the tech rolls out. (more in the business article)
 
+so instead of clicking on a space, you just trigger a more complicated
+action that transfers you to another virtual space.
+
 - what is the equivalent of the browser for VR/AR?
+  - url routing schemes for virtual spaces
+- mapping virtual spaces onto physical spaces,
+  - either identical and not identical
+
+
+
 - hyperlinked spaces
 - turning your house into a virtualized environment
 - mapping experiences to non-identical spaces
 
-- url routing schemes for virtual spaces
-- mapping virtual spaces onto physical spaces,
-  - either identical and not identical
+
+
 
 #### sharing virtual experiences
+
+basically loading shared virtual experiences on a table in a coffee
+shop or something.
+- move to another section?
 
 
 #### examples of virtualized AR experiences
@@ -153,7 +211,10 @@ the tech rolls out. (more in the business article)
   - some things are better in real reality though
 
 
+#### stress advanced math skills
 
+- Linear Algebra
+- Category Theory & Algebraic Geometry
 
 ================
 
@@ -162,28 +223,29 @@ Graphics with Spectra
 
 
 
-
 ================
 
-VR/AR User Interfaces, Mapping Spaces and Date Roulette
+VR Business
+
+UI/UX is voice, gesture & object-functional (better word for this?)
+- so these are more realistic interactions
 
 
-### part6 snippet: ~3:20 - ~5:00
+whether or not people choose text over virtual telepresence depends on
+how the user interfaces facilitate quick, dynamic interactions
+- people have a tendancy to want to limit the signals from
+  face-to-face or voice interactions to just text because:
+  - there's less anxiety
+  - text can be asynchronous
 
 
-0:00 - 1:45 (clean)
-- intro
-- vr blind dates
+is there a way to make virtual telepresence asynchronous without
+overburdening the user with UI/UX
+- if so, then users are more likely to use this. or at least the
+  effect limiting voice/video usage would be downplayed
+  - object/gesture/voice
 
-1:45 - 3:00 (clean)
-
-3:00 - 4:00
-
-4:00 - 6:00
-
-6:00 - 7:00
-
-7:00 - 8:00 (all clean)
+================
 
 you could either map adjacent rooms in your house
 - to adjacent virtual rooms
@@ -312,7 +374,25 @@ and if instead you turn right, a similar thing would happen
 and it would be something sorta like be stuckin the lost woods from zelda
 - you could go anywhere, but you could never really leave
 
+
 ==========
+
+#### Window Managers
+
+
+
+
+==========
+
+#### Hardware Economics
+
+
+
+
+==========
+
+
+
 
 
 
