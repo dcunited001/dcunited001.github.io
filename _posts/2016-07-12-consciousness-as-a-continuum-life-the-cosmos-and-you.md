@@ -25,6 +25,52 @@ is a continuum that extends to some degree across all walks of
 life. Consciousness is our window to the world. It's how we experience
 the information that we experience.
 
+## Consciousness Transcends Space
+
+#### [Language & Semiotics](#language-and-semiotics)
+
+#### [Informational Entropy](#informational-entropy)
+
+#### [Cosmic Entropy Determines Humanity's Destiny](#cosmic-entropy-determines-humanitys-destiny)
+
+#### [On Speculation](#on-speculation)
+
+#### [The Cosmic Economy](#the-cosmic-economy)
+
+#### [Ancient Cosmic Internet](#ancient-cosmic-internet)
+
+## [What is Life?](#what-is-life)
+
+#### [Consciousness is a Continuum](#consciousness-is-a-continuum)
+
+#### [Language Expands Consciousness](#language-expands-consciousness)
+
+#### [Informational Entropy](#informational-entropy)
+
+#### [Cosmic Entropy](#cosmic-entropy)
+
+## [The Connectedness of All Things](#the-connectedness-of-all-things)
+
+#### [Interconnected and Everconnected](#interconnected-and-everconnected)
+
+#### [The Quantum Web](#the-quantum-web)
+
+## [What Comes After the Singularity?](#what-comes-after-the-singularity)
+
+#### [In Which Aliens Give Us Free Stuff](#in-which-aliens-give-us-free-stuff)
+
+#### [A Cosmic Ham Radio](#a-cosmic-ham-radio)
+
+#### [Cosmic Computational Complexity](#cosmic-computational-complexity)
+
+#### [Replication of Magnetohydrodynamic Information Internalization](#replication-of-magnetohydrodynamic-information-internalization)
+
+## [All is One, One is All](#all-is-one-one-is-all)
+
+
+# Consciousness Transcends Space
+
+
 <a name="language-and-semiotics" />
 
 ### [Language & Semiotics](#language-and-semiotics)
@@ -93,9 +139,9 @@ tumultuous times we are going through, they may not be so unique. Life
 can take many forms, but my hypothesis is that consciousness is the
 window we use to experience the world.
 
-<a name="" />
+<a name="what-is-life" />
 
-# [What is Life?]()
+# [What is Life?](#what-is-life)
 
 Life is the inevitability that entropy will push matter to self
 organize into higher forms, eventually to those that have the capacity
@@ -141,7 +187,7 @@ In fact, life and especially self-aware life is the universe's means
 of becoming aware of itself. It's summerizing that experience of
 itself *inside itself*.
 
-<a name="" />
+<a name="consciousness-is-a-continuum" />
 
 ## [Consciousness is a Continuum](#consciousness-is-a-continuum)
 
@@ -198,9 +244,9 @@ faculties of the brain, which lays the groundwork for higher level
 thought.  And we all gradually evolve towards embodying minds which
 are capable of discovering what are universal ideas.
 
-<a name="" />
+<a name="language-expands-consciousness" />
 
-## Language Expands Consciousness
+## [Language Expands Consciousness](#language-expands-consciousness)
 
 Language expands our consciousness. It's what enables abstract thought
 for many reasons. If a species does not have the capacity to produce a
@@ -217,9 +263,9 @@ social activities require them to abstract their actions, behaviors
 and routines. Social structure also forces them to develop a stronger
 concept of both self and group.
 
-<a name="" />
+<a name="informational-entropy" />
 
-## Informational Entropy
+## [Informational Entropy](#informational-entropy)
 
 But what are we really doing with language? We're replicating memes of
 information. A meme is a unit of information. It's not a square
@@ -271,9 +317,9 @@ we? Are we really that special? I think so. I think it's special for
 organic lifeforms to receive such prolonged stability as to develop
 philosophy and freedom from the lower rungs of Fermi's Paradox.
 
-<a name="" />
+<a name="cosmic-entropy" />
 
-### Cosmic Entropy
+## [Cosmic Entropy](#cosmic-entropy)
 
 In the grand scheme of things, cosmic entropy is its own
 anti-thesis. Or ... we should hope that it is. Entropy is EVIL!! lulz
@@ -337,9 +383,9 @@ to assemble pieces of such a massive computer. There are some
 mathematic inequalities here and I'll discuss those sometime soon. In
 my Dr. Strange article.
 
-<a name="" />
+<a name="the-connectedness-of-all-things" />
 
-# The Connectedness of All Things
+# [The Connectedness of All Things](#the-connectedness-of-all-things)
 
 Spooky action at a distance. That's how Einstein referred to quantum
 entanglement of particles. It transcends the speed of light because
@@ -368,9 +414,9 @@ I imagine that entanglement itself could be responsible for a degree
 of uncertainty. The states of dependent particles could change based
 on the particles they depend on.
 
-<a name="" />
+<a name="interconnected-and-everconnected" />
 
-## Interconnected and Everconnected
+## [Interconnected and Everconnected](#interconnected-and-everconnected)
 
 Lets think all the way back to the Big Bang. I believe it happened,
 though religions might talk about things symbolicly. If you look at
@@ -415,9 +461,9 @@ I donno. I need to know more. But I suck up the math like a
 sponge. Seriously. I just need to be around more people that think
 about this stuff.
 
-<a name="" />
+<a name="the-quantum-web" />
 
-## The Quantum Web
+## [The Quantum Web](#the-quantum-web)
 
 So, if these ideas hold to some degree, then there should be a
 *Quantum Web* that forms between all particles that have ever
@@ -475,9 +521,9 @@ Could we network with those aliens using quantum mechanics and
 identify particle pairings which are entangled without having physical
 access to both?
 
-<a name="" />
+<a name="what-comes-after-the-singularity" />
 
-# What Comes After the Singularity?
+# [What Comes After the Singularity?](#what-comes-after-the-singularity)
 
 The next steps to this philosophy entail an extension of the
 Singularity. I believe that, if the Quantum Web already exists or if
@@ -512,9 +558,9 @@ knowledge economy of the universe!
 src="https://www.youtube.com/embed/w5Kn03jssKY" frameborder="0"
 allowfullscreen></iframe>
 
-<a name="" />
+<a name="in-which-aliens-give-us-free-stuff" />
 
-### In Which Aliens Give Us Free Stuff
+## [In Which Aliens Give Us Free Stuff](#in-which-aliens-give-us-free-stuff)
 
 This means that whichever superintelligent AI's connected to that
 network would get that tech for free and get bumped up to the next
@@ -531,9 +577,9 @@ envision technology development to unfold, by the way. There isn't one
 singularity, there are several. So if this is true, then alien
 civilizations are going to want to restrict some of their knowledge.
 
-<a name="" />
+<a name="a-cosmic-ham-radio" />
 
-### No Slim Shady! And No Lolcats.
+## [A Cosmic Ham Radio](#a-cosmic-ham-radio)
 
 There may be encrypted communications for this cosmic quantum
 internet. Or there may be interference between so many civilizations
@@ -541,7 +587,11 @@ coming only or using the channels improperly. There should be some
 universal protocol that enables CDMA/TDMA-like sharing of that
 resource ... somehow. Interestingly, it will probably be similar to
 CDMA/TDMA-like protocols, but reimagined for quantum
-networking. There's probably a InterGalactic FCC!! And no, they will
+networking.
+
+#### No Slim Shady! And No Lolcats.
+
+There's probably a InterGalactic FCC!! And no, they will
 not let Slim Shady be. So, no Slim Shady. And no lolcats. Every damn
 civilization thinks *their* lolcats are the best.
 
@@ -584,9 +634,9 @@ your lolcats and they are laughing. Because deep down, they know. They
 know that their lolcats are superior -- whatever their cats may look
 like.
 
-<a name="" />
+<a name="cosmic-computational-complexity" />
 
-## [Cosmic Computational Complexity]()
+## [Cosmic Computational Complexity](#cosmic-computational-complexity)
 
 This is a crucial question to answer. Perhaps it's better off left as
 a science fiction scenario, but if it were possible, then we could
@@ -627,7 +677,7 @@ of energy within the overall system. When the system enters another
 body of plasma, like a star, then these subsystems replicate their
 behavior to adjacent plasma. Eventually, the entire star is converted
 to these dynamic energy motion patters, which are *self-sustaining*
-(somehow, lulz) and *self-replicating. The star eventually develops
+(somehow, lulz) and *self-replicating*. The star eventually develops
 the capacity to internalize the external energy patterns it receives
 as input. It catalyzes into a giant burning plasma life-form! It can
 internalize information and "store" it in patterns of energy rippling
@@ -652,9 +702,9 @@ what they'd talk about...
 It'd be pretty cool though because this maximizes our capacity for
 virtualizing a universe inside ours.
 
-<a name="" />
+<a name="all-is-one-one-is-all" />
 
-# [All is One, One is All]()
+# [All is One, One is All](#all-is-one-one-is-all)
 
 What does any of this have to do with consciousness? Quantum mechanics
 may lay the framework for a universally connected hivemind, whether or
