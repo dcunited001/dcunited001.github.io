@@ -586,7 +586,7 @@ like.
 
 <a name="" />
 
-## Cosmic Computational Complexity
+## [Cosmic Computational Complexity]()
 
 This is a crucial question to answer. Perhaps it's better off left as
 a science fiction scenario, but if it were possible, then we could
@@ -654,7 +654,7 @@ virtualizing a universe inside ours.
 
 <a name="" />
 
-## [All is One, One is All]()
+# [All is One, One is All]()
 
 What does any of this have to do with consciousness? Quantum mechanics
 may lay the framework for a universally connected hivemind, whether or
