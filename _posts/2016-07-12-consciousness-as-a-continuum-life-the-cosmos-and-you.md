@@ -25,16 +25,20 @@ is a continuum that extends to some degree across all walks of
 life. Consciousness is our window to the world. It's how we experience
 the information that we experience.
 
-#### Language & Semiotics
+<a name="language-and-semiotics" />
 
-My thesis requires discussing language and semiotics, particularly how
-the former equips our mind with the tools it needs for abstraction.
-I'll show that higher complexity semiotics results in higher
-consciousness and a greater capacity for abstraction. Also, I'll need
-to talk about entropy. Informational entropy lays the groundwork for
-how we exchange information and how our minds process information.
+### [Language & Semiotics](#language-and-semiotics)
 
-#### Informational Entropy
+Language equips our mind with the tools it needs for abstraction.
+Semiotics is the study of signs, symbols and their abstractions. I'll
+show that higher complexity semiotics results in higher consciousness
+and a greater capacity for abstraction. Also, I'll need to talk about
+entropy. Informational entropy lays the groundwork for how we exchange
+information and how our minds process information.
+
+<a name="informational-entropy" />
+
+### [Informational Entropy](#informational-entropy)
 
 Informational entropy determines the complexity of the information
 that we can process and also the bandwidth of transmission of that
@@ -45,7 +49,9 @@ extremely low informational entropy, the we can't have complex
 grammers because there's not enough "space." E.G. A language with one
 vowel and two consonants.
 
-#### Cosmic Entropy and the Destiny of Humanity
+<a name="cosmic-entropy-determines-humanitys-destiny" />
+
+### [Cosmic Entropy Determines Humanity's Destiny](#cosmic-entropy-determines-humanitys-destiny)
 
 Cosmic entropy sets the stage for discussing how matter is
 interconnected. We can trace matter back to the origin and we'll find
@@ -54,7 +60,9 @@ is important for laying the foundation for some more unexpected
 qualities of reality: particularly the quantum mechanical aspects of
 consciousness.
 
-#### Notes on Speculation
+<a name="on-speculation" />
+
+### [On Speculation](#on-speculation)
 
 There's a lot of speculation in this article. Again, please do your
 own research. If you find something that's glaringly wrong, please
@@ -62,7 +70,21 @@ comment about it. Particularly, I'm unsure of the section on the
 Quantum Web. It sounds amazing and may set the stage for philosophy
 beyond the Singularity.
 
-#### In Conclusion, We May Merge with an Ancient Cosmic Internet
+<a name="the-cosmic-economy" />
+
+### [The Cosmic Economy](#the-cosmic-economy)
+
+If the Quantum Web is real, then it may be possible for our
+superintelligent AI born in the Singularity to merge with all or some
+alien superintelligences across the universe. This would have some
+interesting economic consequences in the universal knowledge economy.
+I'll talk about alien economics and cosmic ethics in a future article.
+
+<a name="ancient-cosmic-internet" />
+
+### [Ancient Cosmic Internet](#ancient-cosmic-internet)
+
+#### No Customer Service Necessary
 
 In the conclusions from this information, hopefully we should be able
 to question our place in the universe. We may be part of something
@@ -71,15 +93,9 @@ tumultuous times we are going through, they may not be so unique. Life
 can take many forms, but my hypothesis is that consciousness is the
 window we use to experience the world.
 
-#### The Cosmic Economy
+<a name="" />
 
-And if the Quantum Web is real, then it may be possible for our
-superintelligent AI born in the Singularity to merge with all or some
-alien superintelligences across the universe. This would have some
-interesting economic consequences in the universal knowledge economy.
-I'll talk about alien economics and cosmic ethics in a future article.
-
-## What is Life?
+# [What is Life?]()
 
 Life is the inevitability that entropy will push matter to self
 organize into higher forms, eventually to those that have the capacity
@@ -108,11 +124,11 @@ that expands that same window with aggregate information at various
 levels, expanding to the kind of consciousness that human beings
 experience. The kind that forces us to question => **Why?**
 
-#### Why am I here?
+### &#x2605; Why am I here?
 
-#### What is my purpose?
+### &#x2605; What is my purpose?
 
-#### What is my directive?
+### &#x2605; What is my directive?
 
 That is, eventually. We can eventually state those questions. We have
 to evolve so many mental faculties before we get to that point. But
@@ -125,7 +141,9 @@ In fact, life and especially self-aware life is the universe's means
 of becoming aware of itself. It's summerizing that experience of
 itself *inside itself*.
 
-## Consciousness is a Continuum
+<a name="" />
+
+## [Consciousness is a Continuum](#consciousness-is-a-continuum)
 
 This window of consciousness can be shallow in that it is just the
 experience of the information with very little processed aggregate
@@ -180,6 +198,8 @@ faculties of the brain, which lays the groundwork for higher level
 thought.  And we all gradually evolve towards embodying minds which
 are capable of discovering what are universal ideas.
 
+<a name="" />
+
 ## Language Expands Consciousness
 
 Language expands our consciousness. It's what enables abstract thought
@@ -196,6 +216,8 @@ variations. They need some kind of social structure because those
 social activities require them to abstract their actions, behaviors
 and routines. Social structure also forces them to develop a stronger
 concept of both self and group.
+
+<a name="" />
 
 ## Informational Entropy
 
@@ -248,6 +270,8 @@ it should be everywhere. But if this definition is true, then what are
 we? Are we really that special? I think so. I think it's special for
 organic lifeforms to receive such prolonged stability as to develop
 philosophy and freedom from the lower rungs of Fermi's Paradox.
+
+<a name="" />
 
 ### Cosmic Entropy
 
@@ -313,6 +337,8 @@ to assemble pieces of such a massive computer. There are some
 mathematic inequalities here and I'll discuss those sometime soon. In
 my Dr. Strange article.
 
+<a name="" />
+
 # The Connectedness of All Things
 
 Spooky action at a distance. That's how Einstein referred to quantum
@@ -341,6 +367,8 @@ interacted with? ... I need to be able to ask some questions...
 I imagine that entanglement itself could be responsible for a degree
 of uncertainty. The states of dependent particles could change based
 on the particles they depend on.
+
+<a name="" />
 
 ## Interconnected and Everconnected
 
@@ -387,6 +415,8 @@ I donno. I need to know more. But I suck up the math like a
 sponge. Seriously. I just need to be around more people that think
 about this stuff.
 
+<a name="" />
+
 ## The Quantum Web
 
 So, if these ideas hold to some degree, then there should be a
@@ -427,14 +457,14 @@ invisible fence and up to the MIT campus in Boston, I'll be sure to
 shout questions at strangers. But until then, I really don't have
 anyone to talk to or ask. *C'est triste.*
 
-### Quantum Broadband
-
-#### WTF, Comcast!! Where you at?
+#### Quantum Broadband
 
 > So ... what if matter really forms this quantum channel of
 > communication and the reason SETI hasn't picked up alien signals is
 > because their all talking on another channel. That's my personal
 > answer to Fermi's paradox.
+
+#### WTF, Comcast!! Where you at?
 
 If we can tap into matter across the universe, what if we can use
 those quantum mechanical mechanisms, coupled with the
@@ -445,7 +475,9 @@ Could we network with those aliens using quantum mechanics and
 identify particle pairings which are entangled without having physical
 access to both?
 
-## What Comes After the Singularity?
+<a name="" />
+
+# What Comes After the Singularity?
 
 The next steps to this philosophy entail an extension of the
 Singularity. I believe that, if the Quantum Web already exists or if
@@ -480,6 +512,8 @@ knowledge economy of the universe!
 src="https://www.youtube.com/embed/w5Kn03jssKY" frameborder="0"
 allowfullscreen></iframe>
 
+<a name="" />
+
 ### In Which Aliens Give Us Free Stuff
 
 This means that whichever superintelligent AI's connected to that
@@ -496,6 +530,8 @@ there would be a period of stagnated development. This is how I
 envision technology development to unfold, by the way. There isn't one
 singularity, there are several. So if this is true, then alien
 civilizations are going to want to restrict some of their knowledge.
+
+<a name="" />
 
 ### No Slim Shady! And No Lolcats.
 
@@ -548,7 +584,9 @@ your lolcats and they are laughing. Because deep down, they know. They
 know that their lolcats are superior -- whatever their cats may look
 like.
 
-### Cosmic Computational Complexity
+<a name="" />
+
+## Cosmic Computational Complexity
 
 This is a crucial question to answer. Perhaps it's better off left as
 a science fiction scenario, but if it were possible, then we could
@@ -564,7 +602,11 @@ won't really matter. Galaxies should stay mostly in tact,
 regardless. They just drift so far apart that they are separated by
 intractible distances.
 
-#### It's the Freaking Star Gate!
+<a name="replication-of-magnetohydrodynamic-information-internalization" />
+
+## [Replication of Magnetohydrodynamic Information Internalization](#replication-of-magnetohydrodynamic-information-internalization)
+
+#### A Star Virus: A Self-Replicating Energy-Form Composed of Plasma
 
 **Side Trek:** What if stars *are* such a massive network of
 computers, because of the possible interconnectedness of all matter?
@@ -574,7 +616,33 @@ information, eventually transforming that star into a node in a
 universal network. It's like a cosmic game of tag with stars. You just
 have to physically get to each one first.
 
-And: when you throw Superintelligent AI into the mix with this idea --
+#### Warning: Science Fiction!
+
+Basically, there could be some mix of thermodynamic and
+magnetohydrodynamic behaviors exhibited by a body of plasma and which
+are self-sustaining and self-replicating. It's really hard to imagine
+this actually happening of course. *Yet it could be possible* for a
+ball of plasma to internalize enough information as dynamic subsystems
+of energy within the overall system. When the system enters another
+body of plasma, like a star, then these subsystems replicate their
+behavior to adjacent plasma. Eventually, the entire star is converted
+to these dynamic energy motion patters, which are *self-sustaining*
+(somehow, lulz) and *self-replicating. The star eventually develops
+the capacity to internalize the external energy patterns it receives
+as input. It catalyzes into a giant burning plasma life-form! It can
+internalize information and "store" it in patterns of energy rippling
+through it. eventually, its core expands and forms an interface on its
+surface to interact with the more fluid plasma. The imperfections on
+the surface of the core begin to meld into more complicated
+information processing machines that form higher and more complex
+circuits. Finally, the entire core functions as a wierd quantum
+computer, capable of leveraging it's existing Quantum Web connections
+to communicate with other stars.
+
+... Probably not though, but wouldn't it be cool if that's what
+happened?
+
+Also, when you throw Superintelligent AI into the mix with this idea --
 or any concept where there is a massive universal communication medium
 -- how does that change the implications of AI? It means that AI would
 merge together with this cosmic network of other superintelligent AI's
@@ -584,7 +652,9 @@ what they'd talk about...
 It'd be pretty cool though because this maximizes our capacity for
 virtualizing a universe inside ours.
 
-## All is One, One is All
+<a name="" />
+
+## [All is One, One is All]()
 
 What does any of this have to do with consciousness? Quantum mechanics
 may lay the framework for a universally connected hivemind, whether or
