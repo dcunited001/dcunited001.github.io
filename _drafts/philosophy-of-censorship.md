@@ -138,3 +138,70 @@ hindered by censorship.
   - we absolutely cannot let this happen.
 
 ### HOW ARE WE **AS AMERICANS** LETTING THIS HAPPEN?!!
+
+
+
+=============
+
+facebook censorship:
+
+unsubscribing has implicit negative feedback on newsfeed algorithms:
+- not only do you hide that person from your view, but the lack of
+  interaction encourages
+
+if people are encouraged to unsubscribe on a political basis
+- that can create isolated communities of people
+- and bc of the feedback effect from unsubscribing
+  - this isolation is more pronounced
+  - then there's another feedback effect where because social circle
+    of people that are isolated online, then it narrows the set of
+    information those people are exposed to
+    - this, when combined with clustering algorithms that facebook
+      would use to determine the "kinds" of people that are interested
+      in various categories of things, then this would lead to
+      significant distortion in what people see
+    - so that leads to further effects
+- most of this is made much worse by unsubscribing
+
+
+it seems that every fresh channel that i use gets OK feedback,
+sometimes they'll get an incredibly response
+- then, every time after that, I get such a mediocre response
+
+there's no real way to get around this censorship
+- you can register accounts with new email addresses
+  - but then your new accounts have no
+
+
+
+What makes me sick is that the left is stifling debate in academia and
+in the media, putting politics in gridlock. The left mostly controls
+Silicon Valley, though they are fairly impartial with regard to
+technological implementation. However, nearly all of the communication
+out there has shifted towards social media and online messaging
+platforms. So if you get censored for some reason, that's kind of a
+big deal.
+
+The algorithms used for this are susceptible to passive and active
+attacks/manipulation. When the NSA surveils, that's passive. If the
+NSA were to subvert Facebook servers to alter Newsfeed rankings,
+that's active. If DHS were to subtly encourage massive unsubscribes
+from a person (somehow), that's passive because it's not coming from
+within the Facebook application. Among other factors, when anyone
+unsubscribes from you, this contributes to a feedback effect within
+Facebook algorithms. This drives isolated subnetworks of users on
+facebook, partially cut off from the Graph by political
+differences. If anyone encourages systemic unsubscribes (E.G. for
+political reasons!) then this contributes to those same feedback
+effects that further !@#$ with the Facebook newsfeed algorithms!!!
+
+I cannot emphasize this enough, but these could have MASSIVE
+implications for the American economy, but it doesn't seem the left
+really even gives a shit! And it really feels like censorship out
+there!! Like political censorship. It's like we have our own Iron
+Curtain over America, but it's more like a Silicon Blanket. And almost
+all communication is via online interaction now. If you're censored
+online, you're just wasting your time basically. If you were at a
+party and everyone you talked to walked away from you, you'd probably
+change your behavior, but with online interactions, YOU CAN'T SEE THAT
+HAPPENING. So you continue wasting your time...
