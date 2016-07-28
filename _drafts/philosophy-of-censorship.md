@@ -270,3 +270,74 @@ more authentic.
       - more active interference would require specific knowledge of a
         web application's design and codebase.  and I'm just going to
         leave it at that.
+
+- how unsubscribes affect social media algorithms (outlined above)
+  - a political movement could request that its supporters unsubscribe
+    from users who post about specific topics. if they did so, this
+    would cause a runaway effect that would lead to americans being
+    isolated online and divided
+    - they might not even be aware of the magnitude of effect that
+      such a tactic would have! but it's pretty big.
+      - social media newsfeed algorithms depend on getting signals
+        that indicate how many people respond to your content
+      - when your content receives little to no exposure, there's a
+        feedback loop. reduced exposure leads to reduced likes,
+        reduced likes and interaction leads to further reduced
+        exposure.
+        - when combined with clustering, categorization and
+          recommendation algorithms, this leads to further isolation
+
+  - when you're isolated online, you don't know that you're wasting
+    your time! you might try to reach out to others, but you won't see
+    why you're not getting through. it helps to have data and
+    analytics. having access to google analytics helped me gamify the
+    promotion of my blog and within a week or two, i instantly
+    understood much of what I was doing wrong!
+    - but i've been using facebook for years and I still have no idea
+      why i can barely get a single person to like any of my posts.
+
+- [like-farming and social-media tactics](http://www.foxnews.com/tech/2016/02/27/dont-click-like-on-facebook-again-until-read-this.html)
+
+
+and so, how do the social media & SEO censorship/distraction tactics
+above affect the model of censorship outlined above.
+- consider a graph with a temporal component that can be grouped to
+  show the set of topics an individual or groupings of individuals
+  have seen.
+  - you can consider or understand everything someone saw today or last week or
+    last month.
+    - and you can do the same for groups of individuals
+- social media censorship/distraction limits the ideas that people are
+  exposed to
+  - in the same way that cultures can blacklist or whitelist ideas or
+    topics, these tactics do the same in a way that limits that graph
+    - you can particularly effect the range of ideas that someone is
+      exposed to
+      - again, another feedback loop with newsfeed algorithms. by
+        eliminating some topics or distracting from them, this shifts
+        the discussion elsewhere. people talk about other topics and
+        those are given much greater exposure.
+
+- newsfeed algorithms should almost incorporate their antithesis
+  - instead of focusing on what drives activity, they should also
+    cause other topics to be featured, just to avoid the potential for
+    feedback loops.
+    - unsubscribes should have a timeout or something.  if you don't
+      want to see what someone posts, at least send the clear
+      indication to that person. just drop them from your friends
+      list. unsubscribes are just one more passive aggressive
+      interaction in our society. there are far too many avenues for
+      passive aggressive behavior with social media.
+  - these problems are difficult for developers and data scientists to
+    observe and measure, so the people designing these things aren't
+    necessarily at fault.
+    - there are so many feedback loops in the newsfeed
+      algorithms. that's really where the problems are. i don't have
+      access to any of this data and I don't have much machine
+      learning experience, beyond a few courses, but I can see the
+      effect that manipulating these algorithms have.  I feel isolated
+      in real life and online and I struggle to understand why.
+  - furthermore, there are economic pressures which motivate SEO &
+    Social Media companies to circumvent measures taken by newsfeed
+    algorithms to promote fairness. they are encouraged to manipulate
+    these algorithms for their benefit.
