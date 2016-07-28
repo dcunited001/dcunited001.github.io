@@ -205,3 +205,17 @@ online, you're just wasting your time basically. If you were at a
 party and everyone you talked to walked away from you, you'd probably
 change your behavior, but with online interactions, YOU CAN'T SEE THAT
 HAPPENING. So you continue wasting your time...
+
+===========
+
+exactly. also, your true value in social media comes from the unique
+content you post/create. or at least, if you identify a story earlier
+than others, that should be reflected in your reputation in the
+newsfeed algorithms...
+
+the dems are exploiting web applications and their algorithms to
+project an intended appearance and to isolate/divide americans. these
+algorithms already have their own weaknesses that encourage clusters
+of users to become more clustered. they already have those weaknesses,
+as they are. but these weaknesses can be abused to increase that
+effect.
