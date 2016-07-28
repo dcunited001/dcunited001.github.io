@@ -18,7 +18,26 @@ outcome of seemingly off the cuff statements and questions?  Good?
 Bad?"
 ---
 
-Communication is both the receipt and transmission of information.
+# &#x2605; [Crafting a Succinct Message](#crafting-a-succinct-message)
+
+### [Sifting for Gold](#sifting-for-gold)
+
+### [Staying on Message](#staying-on-message)
+
+# &#x2605; [A Wealth of Experience in Interviews](#a-wealth-of-experience-in-interviews)
+
+### [What Can We Read Between the Lines?](#what-can-we-read-between-the-lines)
+
+### [Read the Room](#read-the-room)
+
+### [Let's Talk About Me](#lets-talk-about-me)
+
+### [Why Those Questions](#why-those-questions)
+
+# &#x2605; [Balancing Simplicity with Tactics](#balancing-simplicity-with-tactics)
+
+### *Communication* is both the receipt and transmission of information.
+
 It's a great example of something that seems difficult to measure and
 to quantify.  Unless you're familiar with the math that drives
 companies like Google, then communication is going to seem like a
@@ -28,7 +47,9 @@ And they excel at both parsing the nuggets of gold from information
 received, as well as crafting their content to convey the intended
 message.
 
-### Crafting a Succinct Message
+<a name="crafting-a-succinct-message" />
+
+# [Crafting a Succinct Message](#crafting-a-succinct-message)
 
 Crafting the right message your business, brand or project requires
 skill and experience.  It's a tough optimization problem.  The best
@@ -43,7 +64,9 @@ company, from the top down, is structured differently, just by
 observing the uniform style and goals of nearly 100% of their
 communication.
 
-### Sifting for Gold
+<a name="sifting-for-gold" />
+
+### [Sifting for Gold](#sifting-for-gold)
 
 As the internet dominates information distribution and makes it
 available to everyone, being privy to information and knowledge is no
@@ -58,7 +81,9 @@ Of course, providing paid access to distribute information to a market
 in a targeted manner is not new.  That's basically advertising in
 general.
 
-### Staying on Message
+<a name="staying-on-message" />
+
+### [Staying on Message](#staying-on-message)
 
 #### With Increased Informational Surface Area
 
@@ -73,7 +98,9 @@ associations for your brand, confusing your customer's perception of
 brand identity or unintentionally diluting your brand's value.
 Branding is one of the most crucial aspects to tech products.
 
-## A Wealth of Experience in Interviews
+<a name="a-wealth-of-experience-in-interviews" />
+
+# [A Wealth of Experience in Interviews](#a-wealth-of-experience-in-interviews)
 
 Moving back towards the facets of great people, I enjoy watching
 interviews of founders or other great leaders today.  I like watching
@@ -103,7 +130,9 @@ They usually just don't attach to it, and I'll elaborate on that in a
 later section.  Observing how someone responds to problems is vital to
 measuring their character.
 
-### What Can We Read Between the Lines?
+<a name="what-can-we-read-between-the-lines" />
+
+### [What Can We Read Between the Lines?](#what-can-we-read-between-the-lines)
 
 If you know about the long term goals and mission of this person's
 organization, looking at how they posture themselves and their
@@ -121,7 +150,9 @@ It's important to note that many, if not most, inferences you make
 that aren't grounded in fact might be based in misinterpretation of
 words & actions. So properly weighting the inferences you draw is key.
 
-### Read the Room
+<a name="read-the-room" />
+
+### [Read the Room](#read-the-room)
 
 #### And Know Your Audience
 
@@ -133,7 +164,9 @@ definitely worth it to have someone else help you construct your
 message here and to help you craft together content for a media
 appearance.
 
-### Let's Talk About Me
+<a name="lets-talk-about-me" />
+
+### [Let's Talk About Me](#lets-talk-about-me)
 
 So I also like to think about the process behind an interview or media
 appearance.  How did they identify the questions being asked?  What
@@ -141,7 +174,9 @@ was the process to set up the interview?  What's the message they're
 obstensibly trying to convey?  Why did they agree to this appearance?
 What are both parties getting out of it?
 
-### Why Those Questions
+<a name="why-those-questions" />
+
+### [Why Those Questions](#why-those-questions)
 
 #### And Why Those Answers?
 
@@ -159,7 +194,9 @@ But, again and perhaps most important, when they veered off track, why
 did that happen?  This might be where you pick up the most information
 that wasn't intentionally conveyed.
 
-### Balancing Simplicity with Tactics
+<a name="balancing-simplicity-with-tactics" />
+
+# [Balancing Simplicity with Tactics](#balancing-simplicity-with-tactics)
 
 While it's critical to convey a simple message, for many
 organizations, this can render elements of your business strategy more
@@ -183,7 +220,7 @@ perceived.
 
 ## That's It for Communication
 
-I might write about communication again soon, but since it overlaps so
-much with networking and signaling, it's difficult to identify topics
-which apply only to communication. I hope to post the content I have
-on signaling and networking next.
+I might write about the facet of communication again soon, but since
+it overlaps so much with networking and signaling, it's difficult to
+identify topics which apply only to communication. I hope to post the
+content I have on signaling and networking next.
