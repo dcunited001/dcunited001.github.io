@@ -219,3 +219,54 @@ algorithms already have their own weaknesses that encourage clusters
 of users to become more clustered. they already have those weaknesses,
 as they are. but these weaknesses can be abused to increase that
 effect.
+
+===========
+
+because facebook and twitter newsfeed algorithms are perceived to be
+"fair" the presentation of trends in social media is perceived to be
+more authentic.
+- i really don't believe that the average american understands how SEO
+  and social media strategies work.
+  - so unless the average american is leaping to conclusions as to how
+    to control the presentation of information and trends on social
+    media, then they are more likely to trust it more
+    - it's a bit like the difference in publicity and advertising with
+      regard to authenticity and trust
+- if we were more aware of how to manipulate these things, then we'd
+  be more cynical about what we see. it's easy to cause articles,
+  topics and events to trend.
+  - similarly, it's fairly simple to distract from an issue that just
+    recently began trending online.
+    - you basically try to trend other things and crowd it out
+    - we are seeing so much of this happen!
+  - this is all *passive* interference with technology and social
+    media, by the way.
+    - this is all possible without interfering with the operation of
+      web applications!
+      - if one was to actively interfere with web application, using
+        the NSA for example, then it'd be fairly easy for technology
+        companies to identify this behavior *and they would be
+        pissed!*
+    - doing this in almost any capacity is incredibly irresponsible
+      and shows total disregard for the American economy!
+      - it irreversibly damages the world's trust in American
+        technology products, which is WHY I don't think it would
+        happen.
+      - if someone in power did this:
+        - without taking the utmost care
+        - or having the most dire need to do so
+          - in no more than a handful of cases!
+        - then that shows a reckless disregard for the American
+          economy! this person or this group does not give a shit
+          about America. At this point, technology, software and
+          hardware are some of the few things that the American
+          economy actually does have. And this is why I don't think
+          it's going on, actually....
+    - to make it clear, actively interfering with the operation of web
+      applications is not the same thing as passive surveillance.  or
+      even *passive* techniques to manipulate social media and/or SEO
+      -- these imply utilizing the system in the same way as normal
+      users would.
+      - more active interference would require specific knowledge of a
+        web application's design and codebase.  and I'm just going to
+        leave it at that.
