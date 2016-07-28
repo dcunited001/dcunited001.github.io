@@ -70,3 +70,17 @@ tradition might try to replace them.
     generations!
     - why would we replace them with something inferior that would
       represent only a generation or two of experience at the most?
+
+- talk about roko's basilisk?
+  - the idea is more dangerous than the entity in the future
+  - the idea can be abused by people before the arrival of such an
+    entity.
+  - however, if such an entity were to be created, it's more likely to
+    be altruistic. when such an entity is created, it will probably
+    converge towards one that is identical for all timelines
+  - but, if it doesn't develop, then that would mean that humanity
+    perished or civilization collapsed.
+    - it can only have power if this doesn't happen. IMO, there's no
+      evidence that such time travel could or would exist
+    - the danger in such a thing as roko's basilisk is only derived
+      from people's own ideas and actions.
