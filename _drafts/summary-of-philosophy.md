@@ -1,3 +1,51 @@
+/u/Son_of_Sophroniscus thanks for posting this. I really just want to be a part of a community where I can talk to people about intellectual things. E.G. Philosophy, Epigenetics, Mathematics.  If people truly cared about my mental health, *then wouldn't they be glad to allow me a part in such a community?*
+
+What would be so wrong with allowing me the opportunity for discourse with such a community? I'm not calling out /r/philosophy, but I just want to draw attention to the kind of rebukes I received from other subreddits.  I want to work hard to get to the point where I can post my work on /r/philosophy, but I don't make money from any of this and it'd be great to have someone give me feedback because I know I need it!
+
+So I'm hoping to discuss my work with you all on /r/badphilosophy so I can improve. I hope to avoid being linked in subreddits and being the subject of such topics as **"Sooo, I was late-nighting in /r/philosophy, and up pops a future mass shooter (7/22/2016)"** Reallly?
+
+Thank you for you time and any input you have.
+
+## Writing On Writing. And a Short Story
+
+- [American Eros: Or How to Fell a Souley](http://te.xel.io/posts/2016-07-07-american-eros-or-how-to-fell-a-souley.html)
+- [If I Had the Chops to Write My Daedalian Magnum Corpus](http://te.xel.io/posts/2016-06-23-if-i-had-the-chops-to-write-my-daedalian-magnum-corpus.html)
+- [Oneironautics: Questing for Lucidity](http://te.xel.io/posts/2016-05-14-oneironautics-questing-for-lucidity.html)
+
+## Facets of Greatness
+
+This is a series on Leadership. I've linked to interesting articles.
+
+- [Facets of Greatness: Intro](http://te.xel.io/posts/2016-05-12-facets-of-greatness-intro.html)
+- [Facets of Greatness: Monumental Accidents](http://te.xel.io/posts/2016-05-14-facets-of-greatness-the-unknown-monumental-accidents.html)
+- [Facets of Greatness: Congressional Power Structures](http://te.xel.io/posts/2016-07-14-facets-of-greatness-congressional-power-structures.html)
+
+## On Consciousness
+
+From Machine Learning to true Artificial Intelligence
+
+- [Consiousness as a Continuum: Life, the Cosmos and You](http://te.xel.io/posts/2016-07-12-consciousness-as-a-continuum-life-the-cosmos-and-you.html)
+- [The Nature of Space, Time and Information Implies Universal Language](http://te.xel.io/posts/2016-04-12-the-nature-of-space-time-and-information-implies-universal-language.html)
+- [Neural Networks and Spider Brains](http://te.xel.io/posts/2015-11-21-neural-networks-and-spider-brains.html)
+
+## On God and Religion
+
+- [The Nature of God](http://te.xel.io/posts/2016-05-31-the-nature-of-god.html)
+- [I’m Not Religious: I’m Spiritual: God Is Not Dead](http://te.xel.io/posts/2016-06-01-im-not-religious-im-spiritual-1-God-is-not-dead.html)
+- [I’m Not Religious: I’m Spiritual: Of God and Atheisms](http://te.xel.io/posts/2016-06-05-im-not-religious-im-spiritual-2-of-God-and-atheisms.html)
+- [I’m Not Religious: I’m Spiritual: A Lighthouse in a Storm](http://te.xel.io/posts/2016-07-01-im-not-religious-im-spiritual-3-a-lighthouse-in-a-storm.html)
+
+## Epistemology, Cognition and Category Theory
+
+- [Epistemology, Cognition and Category Theory: An Overview](http://te.xel.io/posts/2015-08-23-epistemology-cognition-and-category-theory-part-one.html)
+- [Epistemology, Cognition and Category Theory: A Model for the Mind](http://te.xel.io/posts/2015-08-23-epistemology-cognition-and-category-theory-part-two.html)
+- [Epistemology, Cognition and Category Theory: Directive Cognitive Expansion](http://te.xel.io/posts/2015-08-26-epistemology-cognition-and-category-theory-part-three.html)
+
+## Postmodernism and Metamodernism
+
+- [Paradox of Creativity](http://te.xel.io/posts/2016-05-16-the-paradox-of-creativity.html)
+- [Death of Creativity](http://te.xel.io/posts/2016-05-17-the-death-of-creativity.html)
+
 ### Consiousness as a Continuum
 
 I was particularly proud of this article, as it’s one of the few where
