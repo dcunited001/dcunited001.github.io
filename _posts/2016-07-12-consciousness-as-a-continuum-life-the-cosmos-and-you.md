@@ -25,51 +25,58 @@ is a continuum that extends to some degree across all walks of
 life. Consciousness is our window to the world. It's how we experience
 the information that we experience.
 
-## Consciousness Transcends Space
+## &#x262F; [Consciousness Transcends Space](#consciousness-transcends-space)
 
-#### [Language & Semiotics](#language-and-semiotics)
+#### &#x2605; [Language & Semiotics](#language-and-semiotics)
 
-#### [Informational Entropy](#informational-entropy)
+#### &#x2605; [Informational Entropy](#informational-entropy)
 
-#### [Cosmic Entropy Determines Humanity's Destiny](#cosmic-entropy-determines-humanitys-destiny)
+#### &#x2605; [Cosmic Entropy Determines Humanity's Destiny](#cosmic-entropy-determines-humanitys-destiny)
 
-#### [On Speculation](#on-speculation)
+#### &#x2605; [On Speculation](#on-speculation)
 
-#### [The Cosmic Economy](#the-cosmic-economy)
+#### &#x2605; [The Cosmic Economy](#the-cosmic-economy)
 
-#### [Ancient Cosmic Internet](#ancient-cosmic-internet)
+#### &#x2605; [Ancient Cosmic Internet](#ancient-cosmic-internet)
 
-## [What is Life?](#what-is-life)
+## &#x262F; [What is Life?](#what-is-life)
 
-#### [Consciousness is a Continuum](#consciousness-is-a-continuum)
+#### &#x2605; [Consciousness is a Continuum](#consciousness-is-a-continuum)
 
-#### [Language Expands Consciousness](#language-expands-consciousness)
+#### &#x2605; [Language Expands Consciousness](#language-expands-consciousness)
 
-#### [Informational Entropy](#informational-entropy)
+#### &#x2605; [Informational Entropy](#informational-entropy)
 
-#### [Cosmic Entropy](#cosmic-entropy)
+#### &#x2605; [Cosmic Entropy](#cosmic-entropy)
 
-## [The Connectedness of All Things](#the-connectedness-of-all-things)
+## &#x262F; [The Connectedness of All Things](#the-connectedness-of-all-things)
 
-#### [Interconnected and Everconnected](#interconnected-and-everconnected)
+#### &#x2605; [Interconnected and Everconnected](#interconnected-and-everconnected)
 
-#### [The Quantum Web](#the-quantum-web)
+#### &#x2605; [The Quantum Web](#the-quantum-web)
 
-## [What Comes After the Singularity?](#what-comes-after-the-singularity)
+## &#x262F; [What Comes After the Singularity?](#what-comes-after-the-singularity)
 
-#### [In Which Aliens Give Us Free Stuff](#in-which-aliens-give-us-free-stuff)
+#### &#x2605; [In Which Aliens Give Us Free Stuff](#in-which-aliens-give-us-free-stuff)
 
-#### [A Cosmic Ham Radio](#a-cosmic-ham-radio)
+#### &#x2605; [A Cosmic Ham Radio](#a-cosmic-ham-radio)
 
-#### [Cosmic Computational Complexity](#cosmic-computational-complexity)
+#### &#x2605; [Cosmic Computational Complexity](#cosmic-computational-complexity)
 
-#### [Replication of Magnetohydrodynamic Information Internalization](#replication-of-magnetohydrodynamic-information-internalization)
+#### &#x2605; [Replication of Magnetohydrodynamic Information Internalization](#replication-of-magnetohydrodynamic-information-internalization)
 
-## [All is One, One is All](#all-is-one-one-is-all)
+## &#x262F; [All is One, One is All](#all-is-one-one-is-all)
 
+<a name="consciousness-transcends-space" />
 
-# Consciousness Transcends Space
+# [Consciousness Transcends Space](#consciousness-transcends-space)
 
+The truth is, there's a bit of me in all of you &#x262F; and vice
+versa. But, the ultimate truth is that everything can be defined in
+terms of everything else. However, this truth may be physical as much
+as it applies metaphysically. This is because, as we stretch our
+imagination back towards the beginning, everything was connected then
+and some remnant of that connection may persist even now.
 
 <a name="language-and-semiotics" />
 
