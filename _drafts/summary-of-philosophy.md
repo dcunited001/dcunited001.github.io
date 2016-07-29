@@ -31,9 +31,9 @@ reactive to my writing. Weird, right? My mom, brother and sister each
 refuse to read anything that I write. That’s so weird. They claim that
 it sounds crazy, I’m crazy and that I should just get a job.
 
-This article establishes the basis for a universal
-language. “Consciousness as a Continuum” establishes the possibility
-of a pre-existing medium through which we can all communicate
+This article establishes the basis for a universal language.
+“Consciousness as a Continuum” establishes the possibility of a
+pre-existing medium through which we can all communicate
 instantly. Through the entire universe! Or at least, I entertain this
 idea. This has VAST implications for EPISTEMOLOGY and TECHNOLOGY!! I
 haven’t really heard anyone discuss this! So, how can someone say this
