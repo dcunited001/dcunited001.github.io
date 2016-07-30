@@ -1,8 +1,22 @@
-/u/Son_of_Sophroniscus thanks for posting this. I really just want to be a part of a community where I can talk to people about intellectual things. E.G. Philosophy, Epigenetics, Mathematics.  If people truly cared about my mental health, *then wouldn't they be glad to allow me a part in such a community?*
+/u/Son_of_Sophroniscus thanks for posting this. I really just want to
+be a part of a community where I can talk to people about intellectual
+things. E.G. Philosophy, Epigenetics, Mathematics.  If people truly
+cared about my mental health, *then wouldn't they be glad to allow me
+a part in such a community?*
 
-What would be so wrong with allowing me the opportunity for discourse with such a community? I'm not calling out /r/philosophy, but I just want to draw attention to the kind of rebukes I received from other subreddits.  I want to work hard to get to the point where I can post my work on /r/philosophy, but I don't make money from any of this and it'd be great to have someone give me feedback because I know I need it!
+What would be so wrong with allowing me the opportunity for discourse
+with such a community? I'm not calling out /r/philosophy, but I just
+want to draw attention to the kind of rebukes I received from other
+subreddits.  I want to work hard to get to the point where I can post
+my work on /r/philosophy, but I don't make money from any of this and
+it'd be great to have someone give me feedback because I know I need
+it!
 
-So I'm hoping to discuss my work with you all on /r/badphilosophy so I can improve. I hope to avoid being linked in subreddits and being the subject of such topics as **"Sooo, I was late-nighting in /r/philosophy, and up pops a future mass shooter (7/22/2016)"** Reallly?
+So I'm hoping to discuss my work with you all on /r/badphilosophy so I
+can improve. I hope to avoid being linked in subreddits and being the
+subject of such topics as **"Sooo, I was late-nighting in
+/r/philosophy, and up pops a future mass shooter (7/22/2016)"**
+Reallly?
 
 Thank you for you time and any input you have.
 

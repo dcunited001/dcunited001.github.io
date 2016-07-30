@@ -8,7 +8,6 @@ author:
 excerpt: ""
 ---
 
-
 ## Philosophy of Censorship
 
 the development of philosophy (and knowledge in general) is greatly
@@ -139,9 +138,47 @@ hindered by censorship.
 
 ### HOW ARE WE **AS AMERICANS** LETTING THIS HAPPEN?!!
 
-
+end of part one?
 
 =============
+
+describe how political movements can encourage its members to take
+action online.
+- some of those actions just help a movement grow.  that
+  is, they aren't negative or divisive on their own. but in particular,
+  a political/religious movement can encourage its members to take
+  actions, the consequences of which they might not fully understand and
+  the results of which, when combined with the feedback loops and
+  vulnerabilities in machine learning algorithms cause significant harm
+  to society.
+
+
+- example: "birther" movement:
+  - encouraged Barack Obama's most vocal (and perhaps most irrational)
+    opposition to self-identify on social media.
+    - well ... now you have a list of your most energetic opponents to
+      harass IRL.
+  - explain that our online words and actions have lasting effect that
+    most of us don't understand.
+    - younger people don't understand because they're young and don't
+      understand the consequences
+    - older people dont' understand because they're sometimes
+      unfamiliar with technology and they don't understand it's
+      capabilities
+
+- explain how i "got lucky" fighting online censorship
+  - i was very vocal before these web applications had the technical
+    capacity for censorship and before our post-911 education system
+    had engrained specific cultural "things" in our youth that
+    encouraged them to avoid raising their voices.
+    - there's something very, very different b/w people that graduated
+      high school before 2006-ish and those that graduated
+      afterwards. and particularly those who graduated after like
+      2012ish.
+      - the younger they are, the MORE AMORAL they are. i don't know
+        if it's just confirmation bias from my personal perspective,
+        but i have seen some of the worst of humanity hiding behind
+        the smuggiest, overly-confident smirks.
 
 facebook censorship:
 
@@ -205,6 +242,124 @@ online, you're just wasting your time basically. If you were at a
 party and everyone you talked to walked away from you, you'd probably
 change your behavior, but with online interactions, YOU CAN'T SEE THAT
 HAPPENING. So you continue wasting your time...
+
+- mention shadowbanning (weaponized social media)
+- how to determine whether or not you're being shadowbanned or
+  your content is being shadowculled
+  - to determine this, you have to know how this process works for
+    both the corporations enabling this censorship and for shadowy
+    government agencies participating in it.
+  - there must be some "rules"
+  - those rules are based on "costs"
+
+- economic cost (the blowback of being caught on a massive scale)
+  - for a second here, forget about the economic cost of snowden's
+    revelations because those were mostly passive surveillance
+    programs. but there was still a pretty large economic cost, wasn't
+    there? people lost trust in these apps!
+  - the corporations facilitating this, they don't want people to know
+    it's happening
+
+- intelligence cost
+  - when people in various foreign countries post content to social
+    media products, this produces content metrics.
+    - this can be coupled with usage metrics to gauge how important
+      that content was to the people who posted it and the people who
+      interacted with it
+  - so, when you're censoring or culling content on a political basis,
+    guess what! you're losing the authenticity of those metrics, both
+    content and usage. you're actually blinding yourself.
+    - but there's a game theory element here. countries or groups can
+      conduct informational warfare by altering the content format &
+      metrics.
+      - furthermore, they can simulate interactions to alter the usage
+        metrics. this can mislead adversaries or algorithms.
+      - for example, you can mistrain translation algorithms to make
+        it harder for people to export your nation's content because
+        it's more difficult to process your language.
+    - this is all information warfare. write me a check please.
+
+- however, this can distort the signals that we read from social media
+  - that's true for both intelligence agencies and for businesses!
+  - if we're muffling the response to some event, we can't
+    authentically read the response to it.
+    - what if we should know that if 10,000 people post about some
+      event, this should indicate a possible terror threat, but no one
+      is reading the analytics from that hashtag because it's being
+      shadowbanned or shadowculled!
+  - then you might say the right hand doesn't know what the left hand
+    is doing!
+    - if these tactics are being done in an organized manner, there
+      won't be the "authentic" data and the "post-censored"
+      data. there will just be the social media signals data as it
+      appears. there are several reasons for this:
+      - organizational and logistical reasons: if you're really
+        censoring data, you don't want anyone to be able to question
+        that, right?
+      - reasons relating to engineering challenges: here, it's just
+        not possible to have your cake and eat it too. we're lucky to
+        be able to do half the stuff we can do with stream processing
+        architectures.
+      - introducing a censorship layer to this is incredibly
+        complicated, but probably not impossible. the internet already
+        appears to be a bit balkanized. yet, this is antithetical to
+        these corporations mission statements and to their
+        stockholder's bottom lines. you're just not going to be able
+        to convince them to invest in this infrastructure without
+        pointing guns to their backs! and if you do, you're still
+        going to have HUMINT logistical challenges.
+
+- what are the "rules" here? the people in charge of shadowbanning a
+  hashtag, topic or domain have costs attributed to their actions
+  - one of those costs is the cost of being caught culling someone's
+    content
+    - if someone is having their content, tweets or shares culled out,
+      they're wasting their time, but if they know this or they find
+      out, they're going to invest their energy elsewhere. thus,
+      they'll escape the 'stasis' you've placed them in.
+    - so that's one "cost". they don't want the person to find out
+      because they'll react to it.
+    - another cost to being caught here is that
+
+- the technical "rules"
+  - how does one cull content or links from a particular domain
+  - it's a hard enough problem simply getting these web applications
+    to work!
+  - containerized web applications.
+    - it's entirely possible to ... yada yada yada
+      - requires HUMINT resources
+  - layer 1,2,3,4,5 hacks
+    - level3 and other internet backbone service providers
+  - BGP hacks
+    - silent IP rerouting
+  - SSL hacks
+    - when combined with ip rerouting
+      - is basically, Konami's up-up, down-down, left-right,
+        left-right, ...
+    - if you have those SSL hacks, combined with BGP hacks (or any
+      hack that lets you redirect specified traffic streams through
+      servers/routers of your choosing) ...
+      - you fucking win
+    - and they do have all of this! several times over!!!!x!x!x!x!x!x!
+    - however, there's a lot of moving parts here. and those moving
+      parts lead to the potential for major bugs.
+      - again, a great example of government interference in the free
+        market leading to catastrophic problems! ... eventually
+      - but government interference in this case leads to minor
+        quality of service glitches.  just weird things that don't
+        work right. unexplainable bugs, etc.
+      - yet, when the full scope of this activity is known, it leads
+        to a collapse in trust in US Technology products!! BECAUSE THE
+        GOVERNMENT WOULDN"T GET THE FUCK OUT!
+
+- the HUMINT "rules"
+  - basically, you need to have people inside technology companies
+    that you can leverage. preferably people closer to the top.
+  - IMO, this is everywhere! as far as I can see, these people who can
+    be leveraged, either directly or indirectly, are everywhere in the
+    technology industry!
+
+- so, how to fight back?
 
 ===========
 
@@ -298,7 +453,6 @@ more authentic.
 
 - [like-farming and social-media tactics](http://www.foxnews.com/tech/2016/02/27/dont-click-like-on-facebook-again-until-read-this.html)
 
-
 and so, how do the social media & SEO censorship/distraction tactics
 above affect the model of censorship outlined above.
 - consider a graph with a temporal component that can be grouped to
@@ -341,3 +495,7 @@ above affect the model of censorship outlined above.
     Social Media companies to circumvent measures taken by newsfeed
     algorithms to promote fairness. they are encouraged to manipulate
     these algorithms for their benefit.
+
+-
+  [shadowbanning](http://newstarget.com/2016-07-29-bypass-twitter-censorship-by-using-alternative-information-sources-fetch-news-and-goodgopher-com.html)
+  - so apparently, those in charge of censorship don't actually care.
