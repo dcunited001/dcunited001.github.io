@@ -1,5 +1,5 @@
 ---
-title: "Philosophy of Censorship"
+title: "Philosophy of Censorship: In Defense of Alexandria"
 categories: "blog"
 tags: "sociology politics"
 headline: ""
@@ -12,10 +12,67 @@ excerpt: ""
 
 the development of philosophy (and knowledge in general) is greatly
 hindered by censorship.
+- part one details, in general, how censorship prevents us from
+  developing new ideas.
+- part two talks about how censorship works for social media in
+  particular
+- part three combines the ideas from part one and part two to discuss
+  how social media censorship isolates individuals, divides people and
+  creates more problems than it could solve
+
 - when a nation blocks access to ideas or restricts dialogue on
   specific ideas or prevents people from learning and developing,
   every citizen in that nation suffers because their intellectual
   development as a culture stagnates.
+- however, we're going to be living in a world where censorship of
+  some technologies and ideas is necessary because they are
+  dangerous.
+  - so how do we fairly block access to those who would do harm with
+    those technologies while preventing abuse of this system by those
+    who would make themselves gatekeepers to this kind of knowledge?
+- IMO, dicussion on censoring dangerous technology is less relevant
+  than censoring people, groups and current events in social media
+
+
+- The library of Alexandria as a metaphor for the internet.
+  - what made the library so special in the ancient world?
+  - why did the Romans burn it? what advantage would they gain from
+    this?
+  - was this event unique? why not?
+  - what "thing" distinguished european culture and development from
+    the rest of the world? why did we end up developing?
+    - the answer has absolutely nothing to do with innate genetic
+      superiority. it's instead a cultural peculiarity and a mix of
+      geopolitical/economic advantages.
+    - the reason is that we were the first to have an industrial
+      revolution. that's it.
+      - then the question becomes: why were europeans the first to
+        have an industrial revolution?
+        - arabians and indians developed superior math well before
+          europeans. there was superior technology available in the
+          far east. Marco Polo didn't even know how to make ice cream.
+  - so then, what was the thing that got us to the industrial
+    revolution first? IMO, it was this cultural peculiarity of sharing
+    knowledge, coupled with shared economic incentives and
+    withstanding widespread cultural invasion. basically, Christianity
+    established a cultural foundation that both unified Europe and
+    propagated a system of values, while withstanding invasion long
+    enough to reach the industrial revolution.
+    - While being unified through Christianity, Europe was also fairly
+      decentralized, so when we achieved technological innovations,
+      they could never be horded into one place. In China, there were
+      times when philosophy and technology were horded by a tiny
+      ruling classes and this knowledge disappeared entirely from the
+      rest of society.
+    - The same kind of event happened when the Library of Alexandria
+      burned to the ground.  This destroyed the extent of knowledge
+      available to western society, while allowing some of it to be
+      preserved by the ruling class.  These knowledge hording events
+      happened over and over again and IMO, if we don't watch it,
+      we're going to see one happen again with the internet.  Just as
+      such events stagnated regional development in the past, THIS
+      WILl STAGNATE OUR DEVELOPMENT! Except, this time, it will occur
+      on a global scale!
 
 #### there are cultures that seem to blacklist specific ideas.
 
@@ -24,6 +81,8 @@ hindered by censorship.
     specific ideas. Obscenity was a big deal in the 60's, for example.
   - this isn't so bad, in itself. it really depends on how it's used,
     but one could argue there are some ideas that must be censored.
+
+- more examples here:
 
 #### there are other countries which whitelist ideas
 
