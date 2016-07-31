@@ -1,5 +1,5 @@
 ---
-title: "Philosophy of Censorship: In Defense of Alexandria"
+title: "From the Parapets of Alexandria: Philosophy of Censorship"
 categories: "blog"
 tags: "sociology politics"
 headline: ""
@@ -8,22 +8,53 @@ author:
 excerpt: ""
 ---
 
-## Philosophy of Censorship
+# アレクサンドリアの丏から
 
-the development of philosophy (and knowledge in general) is greatly
-hindered by censorship.
-- part one details, in general, how censorship prevents us from
-  developing new ideas.
-- part two talks about how censorship works for social media in
-  particular
-- part three combines the ideas from part one and part two to discuss
-  how social media censorship isolates individuals, divides people and
-  creates more problems than it could solve
+This is a series inspired by the battles we see waged against
+censorship everyday. The menace of tyranny has been growing for years
+and by the time we recognize it for what it is, it will be too late.
+
+The development of all new ideas and knowledge is greatly hindered by
+censorship of any kind. This includes philosophy itself. Furthermore,
+America's stride towards social progress around the world has been
+reduced to a wimpering stagger by censorship and manipulation of
+social media. We promise such great works around the world, but what
+does it say when the world can see we obviously can't speak openly at
+home. If we pride ourselves on freedom to religion and freedom of
+speech, what does this say? And what kind of election is this?!
+
+The first essay will discuss the effect censorship has on the
+development of knowledge in general. The second essay will cover
+specific strategies for censorship in social media, as well as how its
+implementation foments risk in the American economy by threatening to
+undermine trust in technology products and restricting available
+markets for our products. The third essay will combine ideas from the
+first two to discuss how social media censorship isolates individuals,
+divides people and creates more problems than it could solve.
+
+# What Kind of 21st Century Do You Want?
+
+- what kind of 21st century do you want to live in?
+  - early in the 21st century, there are many important choices we
+    need to make, individually and as nations and globally.
+  - this is not a "dark" vision of the future. this is a realistic
+    vision, which accounts for the possible futures that lay ahead of
+    us.
+  - consequences of global warfare
+    - incapable of responding to environmental threats
+    - economic stagnation in formerly prosperous regions
+
+- two different paths for the 21st century with regard to availability
+  of information.
+
 
 - when a nation blocks access to ideas or restricts dialogue on
   specific ideas or prevents people from learning and developing,
   every citizen in that nation suffers because their intellectual
   development as a culture stagnates.
+  - qaddafi's citizens weren't allowed to learn foreign languages
+    - or was it gaddafi? did anyone else find it strange when we
+      started spelling this guy's name in two different ways?
 - however, we're going to be living in a world where censorship of
   some technologies and ideas is necessary because they are
   dangerous.
@@ -33,6 +64,9 @@ hindered by censorship.
 - IMO, dicussion on censoring dangerous technology is less relevant
   than censoring people, groups and current events in social media
 
+# Philosophy of Censorship
+
+## The Library of Alexandria is a Metaphor
 
 - The library of Alexandria as a metaphor for the internet.
   - what made the library so special in the ancient world?
@@ -420,7 +454,14 @@ HAPPENING. So you continue wasting your time...
 
 - so, how to fight back?
 
+
+- a digital "bill of rights"
+
+
 ===========
+
+
+
 
 exactly. also, your true value in social media comes from the unique
 content you post/create. or at least, if you identify a story earlier
