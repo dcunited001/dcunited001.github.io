@@ -51,13 +51,16 @@ communities, as nations AND AS ONE!
 This is not a "dark" vision of the future! I am tired of being ignored
 and recessed as if I am something to be hidden away and swept under
 the rug! This is a realistic vision of things that will come to pass
-and it is because of the nature of information. It is inherently
-metaphysical and there is nothing any person or group can do to stop
-the things I am talking about. You could destroy me and destroy every
-fragment of my memory and it would not matter! In the end, there is
-one future and it cannot be denied. The only question is -- how will
-we get there? Will we be together when we arrive? Or will we rip
-ourselves apart trying to fight our fate or profit from our destiny?
+and it is because of the nature of information; it is inherently
+metaphysical! I am not going to get into the specifics of *the
+prophecy*, but there is nothing any person or group can do to stop the
+things I am talking about. You could destroy me and destroy every
+fragment of my memory and it would not matter!
+
+In the end, there is one future and it cannot be denied. The only
+question is -- how will we get there? Will we be together when we
+arrive? Or will we rip ourselves apart trying to fight our fate or
+profit from our destiny?
 
 So, instead, we have to determine not where we are going, but how we
 are going to get there! Do we want the path towards this future to be
@@ -68,7 +71,10 @@ conflict! Do we want that?! HELL NO WE DON'T! If global warfare breaks
 out, we will be incapable of responding to environmental threats!
 Formerly prosperous regions will be burdened by economic stagnation.
 
+## What Is Best For Humanity?
 
+- how did we get to where we are now?
+  - what truly matters most?
 
 - two different paths for the 21st century with regard to availability
   of information.
@@ -138,6 +144,7 @@ Formerly prosperous regions will be burdened by economic stagnation.
   - this includes Russia in the 2000's (I think) and it even includes
     America, to some extent. America has always suppressed a few,
     specific ideas. Obscenity was a big deal in the 60's, for example.
+    - anybody remember *Deep Throat?*
   - this isn't so bad, in itself. it really depends on how it's used,
     but one could argue there are some ideas that must be censored.
 
@@ -257,6 +264,10 @@ Formerly prosperous regions will be burdened by economic stagnation.
 ### HOW ARE WE **AS AMERICANS** LETTING THIS HAPPEN?!!
 
 end of part one?
+
+
+
+
 
 =============
 
