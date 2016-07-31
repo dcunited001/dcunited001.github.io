@@ -1,7 +1,7 @@
 ---
 title: "Political Transition: 2005 through 2015"
 categories: "blog"
-tags: "sociology politics"
+tags: ""
 headline: ""
 author:
   name: "David Conner"

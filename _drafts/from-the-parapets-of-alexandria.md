@@ -34,19 +34,44 @@ divides people and creates more problems than it could solve.
 
 # What Kind of 21st Century Do You Want?
 
-- what kind of 21st century do you want to live in?
-  - early in the 21st century, there are many important choices we
-    need to make, individually and as nations and globally.
-  - this is not a "dark" vision of the future. this is a realistic
-    vision, which accounts for the possible futures that lay ahead of
-    us.
-  - consequences of global warfare
-    - incapable of responding to environmental threats
-    - economic stagnation in formerly prosperous regions
+Ahead of us, lay some important decisions that will decide the fate of
+the world. Not just America or Europe or the Western world. What we
+decide in these next five years and how we react to specific trends
+will determine the fate of the world. We must decide: what kind of
+21st century do we want to live in? What kind of 21st century do we
+want our children and grandchildren to inherit? What will they think
+of us?
+
+These are crucial decisions that we must make and history will judge
+us from the 22nd century. Many of the destinations for these trends
+are inevitable and the forces that drive them are unstoppable! We must
+consider these trends and questions individually, as families, as
+communities, as nations AND AS ONE!
+
+This is not a "dark" vision of the future! I am tired of being ignored
+and recessed as if I am something to be hidden away and swept under
+the rug! This is a realistic vision of things that will come to pass
+and it is because of the nature of information. It is inherently
+metaphysical and there is nothing any person or group can do to stop
+the things I am talking about. You could destroy me and destroy every
+fragment of my memory and it would not matter! In the end, there is
+one future and it cannot be denied. The only question is -- how will
+we get there? Will we be together when we arrive? Or will we rip
+ourselves apart trying to fight our fate or profit from our destiny?
+
+So, instead, we have to determine not where we are going, but how we
+are going to get there! Do we want the path towards this future to be
+violent? Or do we want it to be peaceful? Do we want this future to
+include everyone and all cultures? Of course we do! And we have to
+determine whether we want to reach this future after decades of bloody
+conflict! Do we want that?! HELL NO WE DON'T! If global warfare breaks
+out, we will be incapable of responding to environmental threats!
+Formerly prosperous regions will be burdened by economic stagnation.
+
+
 
 - two different paths for the 21st century with regard to availability
   of information.
-
 
 - when a nation blocks access to ideas or restricts dialogue on
   specific ideas or prevents people from learning and developing,
@@ -455,8 +480,9 @@ HAPPENING. So you continue wasting your time...
 - so, how to fight back?
 
 
-- a digital "bill of rights"
 
+- a digital "bill of rights"
+  - why? need to expand on these ideas before writing part 3
 
 ===========
 
