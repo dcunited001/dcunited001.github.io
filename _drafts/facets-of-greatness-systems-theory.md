@@ -8,6 +8,31 @@ author:
 excerpt: ""
 ---
 
+
+what kind of person are you? what primarily motivates you?
+- are you easily controlled through fear?
+  - are you fickle or superficial or materialistic?
+  - can you be persuaded through your desires?
+  - can you be bought? can you be coerced?
+  - are you easily led around by the nose?
+  - do you have ethics?
+    - do you project that sense of ethics to others around you?
+    - with your actions or just your words?
+    - what do you do when you see others violate your ethics?
+      - and their own ethics?
+  - are you intelligent? smart? hardworking?
+  - are you trustworthy?
+  - do you volunteer for things and serve others?
+  - what do you do when no one is looking?
+    - how does this change your statements and actions?
+    - does your perception of your own beliefs change when you think
+      no one is looking?
+  - what motivates you? can you be persuaded to want something else?
+
+===============
+
+
+
 ### [Systems Theory - Structure the Incentives and Feedback Loops]()
 
 - brief notes on how this approach to modeling allows you to construct
