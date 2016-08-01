@@ -1,87 +1,147 @@
-/u/Son_of_Sophroniscus thanks for posting this. I really just want to
-be a part of a community where I can talk to people about intellectual
-things. E.G. Philosophy, Epigenetics, Mathematics.  If people truly
-cared about my mental health, *then wouldn't they be glad to allow me
-a part in such a community?*
+I really just want to be a part of a community where I can talk to
+people about intellectual things. E.G. Philosophy, Epigenetics,
+Mathematics. I want to work hard to progress, but I don't make money
+from any of this. I'd love to get feedback, so please, leave what you
+can in the comments!
 
-What would be so wrong with allowing me the opportunity for discourse
-with such a community? I'm not calling out /r/philosophy, but I just
-want to draw attention to the kind of rebukes I received from other
-subreddits.  I want to work hard to get to the point where I can post
-my work on /r/philosophy, but I don't make money from any of this and
-it'd be great to have someone give me feedback because I know I need
-it!
+TODO:
 
-So I'm hoping to discuss my work with you all on /r/badphilosophy so I
-can improve. I hope to avoid being linked in subreddits and being the
-subject of such topics as **"Sooo, I was late-nighting in
-/r/philosophy, and up pops a future mass shooter (7/22/2016)"**
-Reallly?
+- section on business pursuits and
+- move this to about me? i at least need a link from the top
+  - the problem with my site and the content is that it is not
+    navigable. there's no discovery, aside from the tag cloud, which
+    needs to be adjusted...
+  - there's no way for people to discover what is relevant to them
+  - it's almost a blessing that i'm able to write about so many
+    topics. this makes it easy to market from one standpoint and hard
+    to market my writing/blog from another standpoint
+    - on one hand, i can post as many links as i want, rotating
+      through various channels
+      - i'll never exhaust my content and my channels. EVER!
+    - i can consistently generate sessions and high (10:00-30:00)
+      average session times!
+      - however, this takes quite a lot of work
+    - on the other hand, a visitor to my website is mostly unable to
+      sort through to find the stuff that is interesting to them
+      - or identify what i've written and why.
+      - that's kinda the purpost of this. it's an overview of the
+        things i've written. and in less than 4,000ish words people
+        get an overview of the better content.
 
-Thank you for you time and any input you have.
 
-## Writing On Writing. And a Short Story
+Thanks you for your time and any input you have.
 
-- [American Eros: Or How to Fell a Souley](http://te.xel.io/posts/2016-07-07-american-eros-or-how-to-fell-a-souley.html)
-- [If I Had the Chops to Write My Daedalian Magnum Corpus](http://te.xel.io/posts/2016-06-23-if-i-had-the-chops-to-write-my-daedalian-magnum-corpus.html)
-- [Oneironautics: Questing for Lucidity](http://te.xel.io/posts/2016-05-14-oneironautics-questing-for-lucidity.html)
+## [Writing On Writing. And a Short Story](#writing-on-writing)
 
-## Facets of Greatness
+#### &#x2605; [American Eros: Or How to Fell a Souley](/posts/2016-07-07-american-eros-or-how-to-fell-a-souley.html)
 
-This is a series on Leadership. I've linked to interesting articles.
+#### &#x2605; [If I Had the Chops to Write My Daedalian Magnum Corpus](/posts/2016-06-23-if-i-had-the-chops-to-write-my-daedalian-magnum-corpus.html)
 
-- [Facets of Greatness: Intro](http://te.xel.io/posts/2016-05-12-facets-of-greatness-intro.html)
-- [Facets of Greatness: Monumental Accidents](http://te.xel.io/posts/2016-05-14-facets-of-greatness-the-unknown-monumental-accidents.html)
-- [Facets of Greatness: Congressional Power Structures](http://te.xel.io/posts/2016-07-14-facets-of-greatness-congressional-power-structures.html)
+#### &#x2605; [Oneironautics: Questing for Lucidity](/posts/2016-05-14-oneironautics-questing-for-lucidity.html)
 
-## On Consciousness
+## [Facets of Greatness](#facets-of-greatness)
+
+This is a series on Leadership. I've linked to interesting
+articles. Actually, they're all interesting.
+
+#### &#x2605; [Facets of Greatness: Intro](/posts/2016-05-12-facets-of-greatness-intro.html)
+
+#### &#x2605; [Monumental Accidents](/posts/2016-05-14-facets-of-greatness-the-unknown-monumental-accidents.html)
+
+#### &#x2605; [Congressional Power Structures](/posts/2016-07-14-facets-of-greatness-congressional-power-structures.html)
+
+## [On Consciousness](#on-consciousness)
 
 From Machine Learning to true Artificial Intelligence
 
-- [Consiousness as a Continuum: Life, the Cosmos and You](http://te.xel.io/posts/2016-07-12-consciousness-as-a-continuum-life-the-cosmos-and-you.html)
-- [The Nature of Space, Time and Information Implies Universal Language](http://te.xel.io/posts/2016-04-12-the-nature-of-space-time-and-information-implies-universal-language.html)
-- [Neural Networks and Spider Brains](http://te.xel.io/posts/2015-11-21-neural-networks-and-spider-brains.html)
+#### &#x2605; [Neural Networks and Spider Brains](/posts/2015-11-21-neural-networks-and-spider-brains.html)
 
-## On God and Religion
+#### &#x2605; [The Nature of Space, Time and Information Implies Universal Language](/posts/2016-04-12-the-nature-of-space-time-and-information-implies-universal-language.html)
 
-- [The Nature of God](http://te.xel.io/posts/2016-05-31-the-nature-of-god.html)
-- [I’m Not Religious: I’m Spiritual: God Is Not Dead](http://te.xel.io/posts/2016-06-01-im-not-religious-im-spiritual-1-God-is-not-dead.html)
-- [I’m Not Religious: I’m Spiritual: Of God and Atheisms](http://te.xel.io/posts/2016-06-05-im-not-religious-im-spiritual-2-of-God-and-atheisms.html)
-- [I’m Not Religious: I’m Spiritual: A Lighthouse in a Storm](http://te.xel.io/posts/2016-07-01-im-not-religious-im-spiritual-3-a-lighthouse-in-a-storm.html)
+#### &#x2605; [Consiousness as a Continuum: Life, the Cosmos and You](/posts/2016-07-12-consciousness-as-a-continuum-life-the-cosmos-and-you.html)
 
-## Epistemology, Cognition and Category Theory
+## [On God and Religion](#on-god-and-religion)
 
-- [Epistemology, Cognition and Category Theory: An Overview](http://te.xel.io/posts/2015-08-23-epistemology-cognition-and-category-theory-part-one.html)
-- [Epistemology, Cognition and Category Theory: A Model for the Mind](http://te.xel.io/posts/2015-08-23-epistemology-cognition-and-category-theory-part-two.html)
-- [Epistemology, Cognition and Category Theory: Directive Cognitive Expansion](http://te.xel.io/posts/2015-08-26-epistemology-cognition-and-category-theory-part-three.html)
+blurb
 
-## Postmodernism and Metamodernism
+#### &#x2605; [The Nature of God](/posts/2016-05-31-the-nature-of-god.html)
 
-- [Paradox of Creativity](http://te.xel.io/posts/2016-05-16-the-paradox-of-creativity.html)
-- [Death of Creativity](http://te.xel.io/posts/2016-05-17-the-death-of-creativity.html)
+#### &#x2605; [I’m Not Religious: I’m Spiritual: God Is Not Dead](/posts/2016-06-01-im-not-religious-im-spiritual-1-God-is-not-dead.html)
 
-### Consiousness as a Continuum
+#### &#x2605; [I’m Not Religious: I’m Spiritual: Of God and Atheisms](/posts/2016-06-05-im-not-religious-im-spiritual-2-of-God-and-atheisms.html)
 
-I was particularly proud of this article, as it’s one of the few where
-I didn’t have an outline. Usually, I write an outline and it sits in
-my drafts branch for months or years. I have hundreds of these
-things. I could write for 10 hours a day for 6 - 12 months and not run
-out of unique content. But when I published this article, it was
-immediately deleted from r/philosophy and I was threatened by other
-users. For philosophy? Really? … Really?!!
+#### &#x2605; [I’m Not Religious: I’m Spiritual: A Lighthouse in a Storm](/posts/2016-07-01-im-not-religious-im-spiritual-3-a-lighthouse-in-a-storm.html)
 
-Why respond so strongly? And why respond by appealing to subreddits
-that are politically oriented?! That’s crazy.
+## [Epistemology](#epistemology)
 
-### The Nature of Space, Time and Information Implies Universal Language
+... blurb
 
-Here, I pitch the possibility of some language which is like the
-kernel or apex of the structure of knowledge. It is built from the
-most basic structures of information. The thesis for this one is: the
-need to communicate & establish protocols without having to cross vast
-distances implies that every sufficiently advanced civilization would
-eventually uncover an identical language to communicate ideas, given
-enough time and development.
+#### &#x2605; [From the Parapets of Alexandria](2016-08-01-from-the-parapets-of-alexandria-knowledge-extinction-events.html)
+
+#### &#x2605; [Epistemology, Cognition and Category Theory](/posts/2015-08-23-epistemology-cognition-and-category-theory-part-one.html)
+
+## [Postmodernism and Metamodernism](#postmodernism-and-metamodernism)
+
+#### &#x2605; [Paradox of Creativity](http://te.xel.io/posts/2016-05-16-the-paradox-of-creativity.html)
+
+#### &#x2605; [Death of Creativity](http://te.xel.io/posts/2016-05-17-the-death-of-creativity.html)
+
+<a name="writing-on-writing" />
+
+# [Writing On Writing. And a Short Story](#writing-on-writing)
+
+### American Eros: Or How to Fell a Souley
+
+This is a pitch for a revolutionary new concept. Well, kinda... I’m
+calling this an episaga. There have been open source and collaborative
+books before. However, this is an open source myth and the idea is
+that people will each tell their own story or fork off another, while
+keeping several fixpoints constant. That is, there are several
+invariant plot points, which should mostly stay the same. And other
+people would contribute towards them. The fixpoints should be as
+generic as possible and there should only be a handful. Ideally just
+one or two.
+
+I actually pitched this idea as part of a practice in a
+quasi-religion. It's called oneiroism. The idea is that we need to
+protect individuality and find a way to stand up against
+nihilism. This accomplishes both. Everyone would have their version of
+a particular story which would be a meditation on something like Love
+or Justice or Heroism.
+
+By maintaining their personal version through their life or
+collaborating with others on their version of a particular story, they
+are developing their ability to recognize/utilize/strengthen those
+traits in themselves and others. Furthermore, it represents
+individuality for the sake of individuality as we approach the end of
+individuality. Individuality can provide us with drive and
+purpose. This can help us stand up against nihilism.
+
+I don’t see anyone else talking about ideas like this. I know there
+are people like that out there, but I might talk to less than five
+people per week. Oh Tyche, might thee shine on me...
+
+### If I Had the Chops to Write My Daedalian Magnum Corpus
+
+This isn’t really philosophy, but it’s about empowering people who’d
+want to write … I guess? My heads getting a bit big here LOL. I wanted
+to describe my own writing process, for my own purposes as a writer.
+So I ended up writing this. The second part is still incomplete, but
+is mostly available in the drafts branch on Github ... for now.
+
+<a name="on-consciousness" />
+
+# [On Consciousness](#on-consciousness)
+
+## &#x2605; [The Nature of Space, Time and Information Implies Universal Language](/posts/2016-04-12-the-nature-of-space-time-and-information-implies-universal-language.html)
+
+This post pitches possibility of some language which constructed to
+mirror the kernel or apex of the structure of knowledge. It is built
+from the most basic structures of information. The thesis for this one
+is: the need to communicate & establish protocols without having to
+cross vast distances implies that every sufficiently advanced
+civilization would eventually uncover an identical language to
+communicate ideas, given enough time and development.
 
 This is one of the articles for which I received significant backlash…
 from my family, who knows nothing about philosophy. I sat on the
@@ -102,34 +162,46 @@ haven’t really heard anyone discuss this! So, how can someone say this
 isn’t philosophy and that it belongs on a futurism subreddit?! That’s
 fucking crazy!
 
-“Consciousness as a Continuum” undermines the Singularity by posing
-the possibility of threshold at which all civilizations in the
-universe will become capable of instant communication with all
-others. Thus, instant transmission of data & experience & knowledge to
-other civilizations. A galactic economy, where your value is
-established by the supply of computational power you can contributed
-to this cosmic quantum supercomputer to the sky!
+## &#x2605; [Consiousness as a Continuum: Life, the Cosmos and You](/posts/2016-07-12-consciousness-as-a-continuum-life-the-cosmos-and-you.html)
 
-OMFG how the fuck could a moderator remove this article?! Like I know
-it rambles a bit. But that is proof of genius: I didn’t have an
-outline; no one told me about this idea; I sat down one afternoon and
-rambled on until I reached this idea. WHAT THE FUCK?! But I’m useless
-and I have sixty cents to my name. LMAO, it’s all the better because I
-get to laugh about it. I get to laugh about the way the world derided
-me and isolated me and how I overcame it all.
+This article undermines the Singularity by posing the possibility of
+threshold at which all civilizations in the universe will become
+capable of instant communication with all others. Thus, instant
+transmission of data & experience & knowledge to other civilizations.
+Imagine a galactic economy, where your value is established by the
+supply of computational power you can contributed to this cosmic
+quantum supercomputer to the sky!
 
-### Neural Networks and Spider Brains
+This article generated controversy on Reddit's Philosophy channel,
+though moderators quickly removed it. Users in other subreddits and a
+few not-very-supportive readers critiqued my work as rambling, but
+didn't actually demostrate knowledge of the content. This further
+demonstrates their lack of familiarity with my subject matter in
+general! THANK YOU CLUELESS READERS! You just proved my content was
+novel!
+
+Regarless, this piece's "rambling" nature is proof of genius: I didn’t
+have an outline; no one told me about this idea; I sat down one
+afternoon and just wrote until I published it.
+
+## &#x2605; [Neural Networks and Spider Brains](/posts/2015-11-21-neural-networks-and-spider-brains.html)
 
 This is an article about consciousness that ties in nicely with
 “Consciousness as a Continuum” and “The Nature of Space, Time and
 Information Implies Universal Language.” It covers how a spider
 processes sensory information via insights its neural networks must
-make. These insights are provided to some window of consciousness that
-the spider uses to drive its actions and behaviors. Want to know why I
-wrote this article? I was procrastinating and I saw a spider on the
-wall. I realized that, at some level. it must somehow be capable of
-recognizing objects, types of objects, actions and types of actions in
-order to “inform” it’s actions. This post requires understanding of
+make. This piece covers the lower levels of consciousness and more
+completely describes what I call the window of consciousness in later
+essays. These lower level neural networks drive insights which are
+provided to that window of consciousness, which the spider uses to
+drive its actions and behaviors.
+
+Want to know why I wrote this article? I was procrastinating and I saw
+a spider on the wall. And so I frantically typed up an outline. This
+is my Newton's Apple, if I have one. As I watched and interacted, I
+realized that, at some level, it must be capable of recognizing
+objects, types of objects, actions and types of actions in order to
+“inform” it’s actions. This post requires understanding of
 consciousness, neurology, machine learning and other somewhat esoteric
 fields.
 
@@ -139,7 +211,21 @@ genius: I don’t fucking know! I also don’t know why I have sixty cents
 to my name. Philosophy is spooky and dangerous!! Don’t think too hard
 about how you think!
 
-### Epistemology, Cognition and Category Theory
+<a name="facets-of-greatness" />
+
+# [Facets of Greatness](#facets-of-greatness)
+
+blurbs about some of the articles and the inspiration that drove them
+
+<a name="epistemology" />
+
+# [Epistemology](#epistemology)
+
+blurbs about graph theory and category theory
+
+- link to stanford article
+
+## &#x2605; Epistemology, Cognition and Category Theory
 
 This is an unfinished series on the mind and its connections to the
 nature of knowledge and cognition. Readers need an understanding of
@@ -166,21 +252,30 @@ Eventually I will write part four and five, which provide a model for
 knowledge that’s based on category theory. Some people at Stanford
 have already written about this, so it’s not new, but it is powerful.
 
-### Paradox of Creativity and Death of Creativity
+<a name="postmodernism-and-metamodernism" />
+
+# [Postmodernism and Metamodernism](#postmodernism-and-metamodernism)
 
 These two articles cover social and cultural problems that will take
 root as technology evolves more rapidly. These are most definitely
 philosophical questions and I would argue that understanding
 philosophical problems could never be more important than at the
-current moment. Figuring out how to stave off nihilism and the death
-of individuality is our Riddle of the Sphinx. The roots of almost all
-21st century social & cultural problems will be partially composed of
-nihilism or the death of individuality. Those two concepts will
-cripple and demoralize us at a time in history when we MUST remain as
-strong as we could possibly be. I posted the “Paradox of Creativity”
-in early June. It was my first post on reddit. It was deleted in six
-hours, but had already accumulated 2,500 sessions and 50 comments! My
-first post on reddit!! IN SIX HOURS!!
+current moment. Paradox of Creativity was the first article I posted
+on [/r/philosophy]()
+
+Figuring out how to stave off nihilism and the death of individuality
+is our Riddle of the Sphinx. The roots of almost all 21st century
+social & cultural problems will be partially composed of nihilism or
+the death of individuality. Those two concepts will cripple and
+demoralize us at a time in history when we MUST remain as strong as we
+could possibly be.
+
+## [Paradox of Creativity]()
+
+I posted the “Paradox of Creativity” in early June. It was my first
+post on reddit. It was deleted in six hours, but had already
+accumulated 2,500 sessions and 50 comments! My first post on reddit!!
+IN SIX HOURS!!
 
 That is validation. It doesn’t matter what you say or whether you
 blessings allow me an opportunity to have my writing critiqued. My
@@ -188,40 +283,9 @@ writing has been validated by the simple fact that thousands of people
 visited my site in six hours. When I saw that number, I thought there
 must be something wrong! NOPE!
 
-### American Eros: Or How to Fell a Souley
+## [Death of Creativity]()
 
-This is a pitch for a revolutionary new concept. Well, kinda… I’m
-calling this an episaga. There have been open source and collaborative
-books before. However, this is an open source myth and the idea is
-that people will each tell their own story or fork off another, while
-keeping several fixpoints constant. That is, there are several
-invariant plot points, which should mostly stay the same. And other
-people would contribute towards them. The fixpoints should be as
-generic as possible and there should only be a handful. Ideally just
-one or two.
-
-I actually pitched this idea as part of a practice in a
-quasi-religion. The idea is that we need to protect individuality and
-find a way to stand up against nihilism. This accomplishes
-both. Everyone would have their version of a particular story which
-would be a meditation on something like Love or Justice or Heroism. By
-maintaining their version through their life or collaborating with
-others on their version of a particular story, they are developing
-their ability to recognize/utilize/strengthen those traits in
-themselves and others. Furthermore, it represents individuality for
-the sake of individuality as we approach the end of
-individuality. Individuality can provide us with drive and
-purpose. This can help us stand up against nihilism.
-
-I don’t see anyone else talking about ideas like this. I know there
-are people like that out there, but I might talk to less than five
-people per week.
-
-### If I Had the Chops to Write My Daedalian Magnum Corpus
-
-This isn’t really philosophy, but it’s about empowering people who’d
-want to write … I guess? My heads getting a bit big here LOL. I wanted
-to describe my own writing process, for my own purposes as a writer.
+blurb...
 
 ### I’m Not Religious: I’m Spiritual
 
