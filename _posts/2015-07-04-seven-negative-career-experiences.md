@@ -33,29 +33,29 @@ anymore.
 
 Also, please note that my own family has been basically isolating
 (read: disconnecting) me for damage control and to save face. They
-have practically forced me to remove this blog and others describing
-my life and workplace abuse from the web. But here they are again! I
-will not go through this *bullshit* and have *NOTHING* to show for it!
+have previously forced me to remove any blogs describing my life and
+workplace abuse from the web. But here they are again! I will not go
+through this *bullshit* and have *NOTHING* to show for it!
+
+# Seven Different Reasons to Sue:
+
+## **&#x2696;** [Gluten Intolerance](#gluten-intolerance)
+
+## **&#x2696;** [A Toilet Exploded On Me](#a-toilet-exploded-on-me)
+
+## **&#x2696;** [I Couldn't Encrypt My Harddrive](#i-couldnt-encrypt-my-harddrive)
+
+## **&#x2696;** [OMFG the Bedbugs](#OMFG-the-bedbugs)
+
+## **&#x2696;** [Homeless for Several Weeks](#homeless-for-several-weeks)
+
+## **&#x2696;** [Caught in Merger Politics](#caught-in-merger-politics)
+
+## **&#x2696;** [Scientologists 'Audited' Me at Work](#scientologists-audited-me-at-work)
 
 **TL;DR; scientology**
 
 > **Warning:** do not tell me that I'm *"living in the past."*
-
-# Seven Different Reasons to Sue:
-
-### &#x2696; [Gluten Intolerance](#gluten-intolerance)
-
-### &#x2696; [A Toilet Exploded On Me](#a-toilet-exploded-on-me)
-
-### &#x2696; [I Couldn't Encrypt My Harddrive](#i-couldnt-encrypt-my-harddrive)
-
-### &#x2696; [OMFG the Bedbugs](#OMFG-the-bedbugs)
-
-### &#x2696; [Homeless for Several Weeks](#homeless-for-several-weeks)
-
-### &#x2696; [Caught in Merger Politics](#caught-in-merger-politics)
-
-### &#x2696; [Scientologists 'Audited' Me at Work](#scientologists-audited-me-at-work)
 
 <a name="gluten-intolerance" />
 
