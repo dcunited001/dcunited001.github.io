@@ -35,10 +35,11 @@ divides people and creates more problems than it could solve.
 # What Kind of 21st Century Do You Want?
 
 Ahead of us, lay some important decisions that will decide the fate of
-the world. Not just America or Europe or the Western world. What we
-decide in these next five years and how we react to specific trends
-will determine the fate of the world. We must decide: what kind of
-21st century do we want to live in? What kind of 21st century do we
+the world. Not just America or Europe or the Western world. Censorship
+and the free availability of information lay at the center of this.
+What we decide in these next five years and how we react to specific
+trends will determine the fate of the world. We must decide: what kind
+of 21st century do we want to live in? What kind of 21st century do we
 want our children and grandchildren to inherit? What will they think
 of us?
 
@@ -89,35 +90,70 @@ that we have today? Why is that relevant to censorship?
 > last ditch effort for widespread censorship -- because guess what:
 > it's the last chance to do it.
 
+Two different paths for the 21st century with regard to availabilityof
+information. Again, these separate paths lead to the same place: in
+several decades, well have a communication infrastructure where it's
+impossible to control the desemination of information. Therefore,
+we'll reach a world where it's not possible to censor information, but
+in the meantime, we will transition through a period of time where
+governments and corporations have strong incentives to censor and
+attack ideas. So, we can either decide to embrace a controlled
+transition towards this destined future world where ideas cannot be
+censored or we can trudge painfully through this intermediate world
+where governments and corporations try their hardest to censor
+information.
+
+The real danger is that many of the legitimate reasons to censor
+specific information will be used to implement generalized censorship.
+Restriction of some technologies and ideas is necessary because they
+are inherently dangerous. Specific algorithms might be dangerous,
+especially with regard to artificial intelligence. Genetic technology
+is incredibly dangerous in the wrong hands. So how do we fairly block
+access to those who would do harm with those technologies while
+preventing abuse of this system by those who would make themselves
+gatekeepers to this kind of knowledge?
+
+In fact, if these dangerous technologies are dependencies of almost
+all further technological progress, then we will reach a point where
+anyone hoping to proceed further in science must be cleared in some
+way. That is, if real progress in science requires that you learn some
+technology that could be considered dangerous, then there must be some
+mechanism in society where people are approved to learn about these
+things. Those who fail to be approved cannot be taught specific pieces
+of knowledge. This significantly impairs their ability to make
+progress in science.
+
+In some ways, our society already has these mechanisms in place to
+discover and clear intelligence. If you look in the right places, you
+will find them. There are institutions in our society which identify
+individuals with high IQ, so they can either be distracted or inducted
+into organizations which operate in secret. Sounds crazy, right? Those
+high-IQ savants will either have blinders placed on them or they will
+be so bound by NDA's they won't be able to speak openly. If you
+understand that one of the most valuable resources available to a
+superpower is a supply of high-intelligence individuals, then you
+would understand the need to identify them early on. These people are
+incredibly valuable, but simultaneously incredibly dangerous. The more
+intelligent, the more volatile. The wrong person discovering the wrong
+things could blow the lid on billions of dollars in research and/or
+secret programs...
+
+My fear is that these mechanisms will be abused for censorship at
+large, especially once humanity has advanced to attain specific
+technologies. Dicussion on censoring dangerous technology is less
+relevant than censoring people, groups and current events in social
+media. When a nation blocks access to ideas or restricts dialogue on
+specific ideas or prevents people from learning and developing, every
+citizen in that nation suffers because their intellectual development
+as a culture stagnates.
+
 - how did we get to where we are now?
   - what truly matters most?
-
-- two different paths for the 21st century with regard to availability
-  of information.
-
-- when a nation blocks access to ideas or restricts dialogue on
-  specific ideas or prevents people from learning and developing,
-  every citizen in that nation suffers because their intellectual
-  development as a culture stagnates.
-  - qaddafi's citizens weren't allowed to learn foreign languages
-    - or was it gaddafi? did anyone else find it strange when we
-      started spelling this guy's name in two different ways?
-- however, we're going to be living in a world where censorship of
-  some technologies and ideas is necessary because they are
-  dangerous.
-  - so how do we fairly block access to those who would do harm with
-    those technologies while preventing abuse of this system by those
-    who would make themselves gatekeepers to this kind of knowledge?
-- IMO, dicussion on censoring dangerous technology is less relevant
-  than censoring people, groups and current events in social media
-
 
 ### A Chinese "Library of Alexandria" Event
 
 - [Burning of Books and Burying of Scholars](https://en.wikipedia.org/wiki/Burning_of_books_and_burying_of_scholars)
 - [Records of the Grand Historian (first emporer of Qin Dynasty)](https://en.wikipedia.org/wiki/Records_of_the_Grand_Historian)
-
-# Philosophy of Censorship
 
 ## The Library of Alexandria is a Metaphor
 
@@ -161,6 +197,9 @@ that we have today? Why is that relevant to censorship?
       WILl STAGNATE OUR DEVELOPMENT! Except, this time, it will occur
       on a global scale!
 
+
+# Philosophy of Censorship
+
 #### there are cultures that seem to blacklist specific ideas.
 
 - this includes Russia in the 2000's (I think) and it even includes
@@ -173,6 +212,8 @@ that we have today? Why is that relevant to censorship?
 
 
 - more examples here:
+  - western medicine's control over academic journals
+    - meh... maybe not
 
 #### there are other countries which whitelist ideas
 
@@ -198,6 +239,11 @@ that we have today? Why is that relevant to censorship?
   who would force you to believe that every path except the one they
   follow is wrong. this is much different than those who try to
   convince you that their path is the only right path.
+  
+
+  - qaddafi's citizens weren't allowed to learn foreign languages
+    - or was it gaddafi? did anyone else find it strange when we
+      started spelling this guy's name in two different ways?
 
 ### how do we develop new ideas?
 
