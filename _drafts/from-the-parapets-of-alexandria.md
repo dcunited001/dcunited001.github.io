@@ -55,7 +55,8 @@ and it is because of the nature of information; it is inherently
 metaphysical! I am not going to get into the specifics of *the
 prophecy*, but there is nothing any person or group can do to stop the
 things I am talking about. You could destroy me and destroy every
-fragment of my memory and it would not matter!
+fragment of my memory and it would not matter! The truth is I, as an
+individual, am irrelevant! And yet, I don't think my job here is done.
 
 In the end, there is one future and it cannot be denied. The only
 question is -- how will we get there? Will we be together when we
@@ -67,11 +68,28 @@ are going to get there! Do we want the path towards this future to be
 violent? Or do we want it to be peaceful? Do we want this future to
 include everyone and all cultures? Of course we do! And we have to
 determine whether we want to reach this future after decades of bloody
-conflict! Do we want that?! HELL NO WE DON'T! If global warfare breaks
+conflict! Do we want that?! *HELL NO WE DON'T!* If global warfare breaks
 out, we will be incapable of responding to environmental threats!
 Formerly prosperous regions will be burdened by economic stagnation.
 
 ## What Is Best For Humanity?
+
+So, assuming our destination is a foregone conclusion and
+understanding that we are accelerating towards it, it would be wise to
+take a look at how we've arrived to our current position thus far. How
+did humanity get here? How is it that we developed all the technology
+that we have today? Why is that relevant to censorship?
+
+> Also, please do note that the communication infrastructure of the
+> future completely circumvents censorship: at the level of the
+> infrastructure! It will be completely decentralized. So, not only
+> would it be unwise to implement widespread censorship, this is the
+> last point in history in which it is even possible to destroy an
+> idea!  Thus, we get what we have right here: what is basically a
+> last ditch effort for widespread censorship -- because guess what:
+> it's the last chance to do it.
+
+
 
 - how did we get to where we are now?
   - what truly matters most?
@@ -94,6 +112,12 @@ Formerly prosperous regions will be burdened by economic stagnation.
     who would make themselves gatekeepers to this kind of knowledge?
 - IMO, dicussion on censoring dangerous technology is less relevant
   than censoring people, groups and current events in social media
+
+
+### A Chinese "Library of Alexandria" Event
+
+- [Burning of Books and Burying of Scholars](https://en.wikipedia.org/wiki/Burning_of_books_and_burying_of_scholars)
+- [Records of the Grand Historian (first emporer of Qin Dynasty)](https://en.wikipedia.org/wiki/Records_of_the_Grand_Historian)
 
 # Philosophy of Censorship
 
