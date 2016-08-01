@@ -1,8 +1,18 @@
 ---
 title: "Seven Negative Career Experiences"
+categories: "blog"
+tags: "sociology psychology bullying"
+headline: "Seven Different Instances Where I Was Emotionally Abused at
+my Workplace"
 author:
   name: "David Conner"
-  tags: "career sociology psychology workplace bullying"
+excerpt: "
+After the party, we hung out a bit in Boulder's Central Park.  Then, I
+asked her back to the apartment.  We were walking back, but about
+halfway there, I told her about the bedbugs.  She freaked out.  Here's
+the punchline: A fucking homeless girl wanted nothing to do with my
+bedbug ridden apartment!
+"
 ---
 
 I've written about
@@ -18,6 +28,8 @@ those who support or shield them.
 So I'm going to detail specific instances where I was emotionally
 abused. Some of these are embarrassing. I honestly don't care
 anymore.
+
+### [Gaslighting](https://en.wikipedia.org/wiki/Gaslighting)
 
 Also, please note that my own family has been basically isolating
 (read: disconnecting) me for damage control and to save face. They
