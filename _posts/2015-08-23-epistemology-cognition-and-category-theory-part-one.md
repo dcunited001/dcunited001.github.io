@@ -1,8 +1,7 @@
 ---
-title: "Epistemology, Cognition and Category Theory: Part One -
-An Overview"
+title: "Epistemology, Cognition and Category Theory: An Overview"
 categories: blog
-tags: "philosophy math psychology category-theory intelligence"
+tags: "philosophy math psychology category-theory intelligence epistemology"
 headline: "Phenomenology and an Unintended Ontological Argument"
 author:
   name: "David Conner"

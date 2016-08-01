@@ -1,7 +1,7 @@
 ---
-title: "Epistemology, Cognition and Category Theory: Part Two - A Model for the Mind"
+title: "Epistemology, Cognition and Category Theory: A Model for the Mind"
 categories: blog
-tags: "philosophy math psychology category-theory intelligence"
+tags: "philosophy math psychology category-theory intelligence epistemology"
 headline: A High Level Overview of Cognitive Faculties
 author:
   name: "David Conner"

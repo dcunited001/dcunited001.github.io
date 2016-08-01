@@ -117,6 +117,8 @@
   :name: Religion
 - :slug: intelligence
   :name: Intelligence
+- :slug: epistemology
+  :name: Epistemology
 - :slug: ai
   :name: Ai
 - :slug: linux
@@ -159,3 +161,5 @@
   :name: Literature
 - :slug: politics
   :name: Politics
+- :slug: censorship
+  :name: Censorship
