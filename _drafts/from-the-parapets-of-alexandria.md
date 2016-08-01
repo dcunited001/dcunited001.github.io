@@ -90,9 +90,9 @@ that we have today? Why is that relevant to censorship?
 > last ditch effort for widespread censorship -- because guess what:
 > it's the last chance to do it.
 
-Two different paths for the 21st century with regard to availabilityof
-information. Again, these separate paths lead to the same place: in
-several decades, well have a communication infrastructure where it's
+Two different paths for the 21st century with regard to availability
+of information. Again, these separate paths lead to the same place: in
+several decades, we'll have a communication infrastructure where it's
 impossible to control the desemination of information. Therefore,
 we'll reach a world where it's not possible to censor information, but
 in the meantime, we will transition through a period of time where
@@ -112,6 +112,8 @@ is incredibly dangerous in the wrong hands. So how do we fairly block
 access to those who would do harm with those technologies while
 preventing abuse of this system by those who would make themselves
 gatekeepers to this kind of knowledge?
+
+## ...
 
 In fact, if these dangerous technologies are dependencies of almost
 all further technological progress, then we will reach a point where
@@ -182,13 +184,83 @@ prevent it from happening again.
 - [Burning of Books and Burying of Scholars](https://en.wikipedia.org/wiki/Burning_of_books_and_burying_of_scholars)
 - [Records of the Grand Historian (first emporer of Qin Dynasty)](https://en.wikipedia.org/wiki/Records_of_the_Grand_Historian)
 
-## The Library of Alexandria is a Metaphor
+## The Internet is Our Library of Alexandria
 
-- The library of Alexandria as a metaphor for the internet.
-  - what made the library so special in the ancient world?
-  - why did the Romans burn it? what advantage would they gain from
-    this?
-  - was this event unique? why not?
+The internet is modern man's Library of Alexandria. This is a stellar
+metaphor for the internet's position as both a repository of knowledge
+and a mechanism for propagating that knowledge. However, the internet
+can be inverted into just the opposite. It can become a destructive
+tool of the surveillance state that watches over ever piece of
+information ever dispensed. If all communication is via the internet
+and all education proceeds through it, then the internet can be used
+to measure the sum of knowledge in any given person. In this way, the
+internet can be used by tyrants to dispense knowledge to whomever they
+permit worthy of access to information. Already, we see social
+experiments whereby a
+[balkanized internet](https://en.wikipedia.org/wiki/Splinternet) or
+"splinternet" permits access to information in a manner restricted by
+geography. A splinternet can shard information in other ways as well.
+
+What made the library so special in the ancient world? Why did the
+Romans burn it? What advantage would they gain from this? Was this
+event unique? If not, how could we predict that an event like it would
+happen any time soon?
+
+In the western world, Alexandria was a very special place, where
+scholars collected information from around the ancient world into an
+archive. There were some other libraries, but there was really nothing
+like Alexandria.  Everything was gathered into one point, which was a
+boon that made Alexandria a Mecca for scholars, but it also made
+Alexandria a central point of failure for Western knowledge.
+
+The internet is just like this in many ways. The telecom
+infrastructure is the central point of failure. If you control the
+telecom infrastructure in a nation, you control the internet in that
+nation. Simple as that. Look at what happened in the Arab Spring
+protests! What is the first thing the dictators did? They shut down
+the internet! How did they do that? They had centralized authority
+over the telecom industry in their nations. How did they fail to shut
+down Twitter, then? Because Twitter was designed to operate over
+cellular networks first! *Google:* **Twitter** *and* **40404** and
+you'll see what I mean. They couldn't shut down their own cellular
+networks because that would disrupt their own forces.
+
+> If you are concerned about tyrrany and disrupted internet service in
+> America, then hopefully you caught the drift there. *ENSURE THAT
+> 40404 IS SET UP ON YOUR TWITTER ACCOUNT!* You can even set this up
+> on a backup account & burner phone, if you're wise like that. It
+> won't be useful 'til it's useful.
+
+So, why did the Romans burn the Library of Alexandria? Well it was the
+central beacon of knowledge in the Western world! So they understood
+that they could horde that knowledge for themselves and use it to more
+efficiently rule over Europe and the Middle East. This has happened
+time after time. In fact, I would say it's one of those few
+unfortunate things that happens in every culture right around the time
+when that culture starts nailing it. Right around the time that
+cultures develop significant technology and knowledge, there is this
+force that motivates the ruling class to seal away that knowledge for
+itself! Also, the ruling classes, pre-industrial revolution despise
+technology! They know how to run the game before technology comes
+along and makes things complicated.
+
+This is the extreme of the concept discussed in the
+[Harnessing the Knowledge Differential](/posts/2016-05-13-facets-of-greatness-knowledge-meta-and-epi.html#harnessing-the-knowledge-differential)
+section of
+[Facets of Greatness: Meta and Epi](/posts/2016-05-13-facets-of-greatness-knowledge-meta-and-epi.html). Basically,
+the ruling class determines that it is possible to create a hard
+divide between what they know and what the general population *can*
+know. And they destroy all remnants of knowledge except for fragments
+which they horde for themselves. It happened several times with the
+[Library of Alexandria](https://en.wikipedia.org/wiki/Destruction_of_the_Library_of_Alexandria)
+and it happened in China in the Qin dynasty with the
+[Burning of Books and Burying of Scholars](https://en.wikipedia.org/wiki/Burning_of_books_and_burying_of_scholars). The
+Han Dynasty recorded that the Qin dynasty destroyed the available
+knowledge and that scholars were buried alive with their work! It has
+happened in history time and time again. And I'm afraid that the
+centralized point of failure in the internet (I.E. control of telecom)
+means that this could happen again!
+
   - what "thing" distinguished european culture and development from
     the rest of the world? why did we end up developing?
     - the answer has absolutely nothing to do with innate genetic
