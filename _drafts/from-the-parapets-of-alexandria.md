@@ -138,17 +138,42 @@ intelligent, the more volatile. The wrong person discovering the wrong
 things could blow the lid on billions of dollars in research and/or
 secret programs...
 
-My fear is that these mechanisms will be abused for censorship at
-large, especially once humanity has advanced to attain specific
-technologies. Dicussion on censoring dangerous technology is less
-relevant than censoring people, groups and current events in social
-media. When a nation blocks access to ideas or restricts dialogue on
-specific ideas or prevents people from learning and developing, every
-citizen in that nation suffers because their intellectual development
-as a culture stagnates.
+Knowing some of the things I know, the stuff *they* don't want you to
+know? *It's really not that hard!* It's really not! However, exposure
+to just one or two of the right pieces of information is enough for a
+high-IQ individual to extrapolate thousands of others. Again, the more
+intelligent, the more volatile! Why am I writing this? Because I am
+damn tired of how I was treated, personally! And I detest the idea of
+a society where your contributions and your potential means nothing!
+We are marching towards a world just like that! Consumed by nihilism,
+your individuality will mean *NOTHING!* I was treated as though my
+life were worth *nothing!* I know how to fight this creeping
+nihilism. The answer is religion...  That is part of the answer
+anyways.
+
+My fear is that these mechanisms for information and intelligence
+control will be abused for censorship at large, especially once
+humanity has advanced to attain specific technologies. Dicussion on
+censoring dangerous technology is less relevant than censoring people,
+groups and current events in social media. When a nation blocks access
+to ideas or restricts dialogue on specific ideas or prevents people
+from learning and developing, every citizen in that nation suffers
+because their intellectual development as a culture stagnates.
+
+I will present an epistemological argument for why censorship, either
+by blacklist or whitelist, damages a civilizations ability to
+progress. I will detail why the ruling class in any given civilization
+has the motive to censor and even destroy knowledge for its own
+benefit! I will present historical situations where this kind of
+knowledge hording has happened in the past. And hopefully we can
+prevent it from happening again.
+
+## How Did Man Reach the Moon?
 
 - how did we get to where we are now?
   - what truly matters most?
+
+- wan hu
 
 ### A Chinese "Library of Alexandria" Event
 
