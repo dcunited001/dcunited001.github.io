@@ -148,8 +148,10 @@ a society where your contributions and your potential means nothing!
 We are marching towards a world just like that! Consumed by nihilism,
 your individuality will mean *NOTHING!* I was treated as though my
 life were worth *nothing!* I know how to fight this creeping
-nihilism. The answer is religion...  That is part of the answer
+nihilism. The answer is religion... That is part of the answer
 anyways.
+
+## Technology is a Straw Man for Censorship
 
 My fear is that these mechanisms for information and intelligence
 control will be abused for censorship at large, especially once

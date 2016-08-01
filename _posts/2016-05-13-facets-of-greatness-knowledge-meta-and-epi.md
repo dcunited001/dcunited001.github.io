@@ -22,6 +22,20 @@ isn't just how you understand the world or some concept that is
 important.  You must understand how other people have modeled this
 concept because that is where you'll find the fuel for change.
 
+# [Metaphenomena and Epiphenomena](#metaphenomena-and-epiphenomena)
+
+### [Metadata and Epidata](#metadata-and-epidata)
+
+# [Knowledge is Power](#knowledge-is-power)
+
+### [Harnessing the Knowledge Differential](#harnessing-the-knowledge-differential)
+
+### [Competitive Advantage and Ouroboros](#competitive-advantage-and-ouroboros)
+
+### [Baller Blockin'](#baller-blockin)
+
+### [You're Going to Do What to My Dividends?](#youre-going-to-do-what-to-my-dividends)
+
 There's a quote from someone like Socrates or Einstein and I can't
 find it.  But basically, this person stated that the most intelligent
 people don't just understand some topic, they understand how other
@@ -39,7 +53,9 @@ they *strategically* embue that understanding into their rhetoric, all
 the while refusing to lose ground to that other person. These people
 are incredibly smart, but not likely to listen.
 
-## Metaphenomena and Epiphenomena
+<a name="metaphenomena-and-epiphenomena" />
+
+# [Metaphenomena and Epiphenomena](#metaphenomena-and-epiphenomena)
 
 There's a concept that I believe is incredibly important to
 understanding the world around us.  It's the meta, which is a prefix
@@ -59,7 +75,9 @@ often just referred to as meta.  It's very difficult to distinguish,
 so I'm not sure I'll nail this correctly, but the concept of epi and
 it's relationship as dual to meta is necessary.
 
-### Metadata and Epidata
+<a name="metadata-and-epidata" />
+
+### [Metadata and Epidata](#metadata-and-epidata)
 
 The metaphenomena of some phenomena are really the mappings between it
 and itself that establish some whole or partial self-similarity --
@@ -127,7 +145,9 @@ Cryptography classes in 2012.  Those classes, amoung others, provided
 me with tools for reasoning that I just wouldn't comprehend if I
 hadn't taken them.
 
-## Knowledge is power
+<a name="knowledge-is-power" />
+
+# [Knowledge is Power](#knowledge-is-power)
 
 These great people people value knowledge and systematize it's
 acquisition.  They're intimately aware of what they don't know.  They
@@ -159,6 +179,10 @@ that you have to understand everything at a much deeper level.  Once
 you have this deeper understanding, then you can exploit that
 knowledge differential towards your success.
 
+<a name="harnessing-the-knowledge-differential" />
+
+### [Harnessing the Knowledge Differential](#harnessing-the-knowledge-differential)
+
 This knowledge differential is the difference between your deeper
 understanding of a subject against that of the commonly understood
 model for your subject of interest.  But you need to be intimately
@@ -177,6 +201,10 @@ knowledge here -- but don't be evil, lol!  All joking aside, evil
 behavior here includes misleading other people and network marketing
 schemes.  Pure evil, unless your cousin pushes CrackStar or something.
 
+<a name="competitive-advantage-and-ouroboros" />
+
+### [Competitive Advantage and Ouroboros](#competitive-advantage-and-ouroboros)
+
 But you have to know that, usually, competitive advantage in this case
 doesn't last forever, if you depend on some better understanding of
 how a market, product or industry works.  If other people manage to
@@ -189,7 +217,6 @@ good examples here.  Some techniques work until they are commonly
 known.  And in these cases, you need to posture yourself and your
 organization for a healthy transition.  It's your responsibility to
 your employees and your organization.
-
 
 Also, there are factors which are perceived as being driving forces
 and strong indicators which aren't really that useful. If you know how
@@ -220,12 +247,17 @@ how it works, especially if they want to participate competitively.
 Some of these models are good and some are bad.  And some people just
 exhibit irratic behavior.  But:
 
-- Understanding what people believe
-- Inferring their belief structure
-- Comparing it to others
-- Generalizing belief structures
-- Comparing and contrasting them
-- And understanding how that affects actions and results
+#### &#x2605; Understanding what people believe
+
+#### &#x2605; Inferring their belief structure
+
+#### &#x2605; Comparing it to others
+
+#### &#x2605; Generalizing belief structures
+
+#### &#x2605; Comparing and contrasting them
+
+#### &#x2605; And understanding how that affects actions and results
 
 These are crucial to identifying opportunity and mitigating risk in
 nearly any market, any subject, any skill, any activity.
@@ -250,7 +282,11 @@ until someone dominates the market.  I believe while there is a
 plethora of opportunities now, the barrier to entry for technical
 startups is going to rise slowly over the next decade.
 
-> Baller Blockin' ... They straight up baller blockin'
+<a name="baller-blockin" />
+
+### [Baller Blockin'](#baller-blockin)
+
+#### They Straight Up Baller Blockin'
 
 And it's crucial to diversify your portfolio when market conditions
 seem likely to change.  There's an important conflict of interest here
@@ -273,7 +309,9 @@ do that when they got a good thing goin on?  And convincing a public
 company to do this, when the public shareholders have considerable
 influence over the direction of a company?
 
-> "You're going to do what to my dividends?"
+<a name="youre-going-to-do-what-to-my-dividends" />
+
+### [You're Going to Do What to My Dividends?](#youre-going-to-do-what-to-my-dividends)
 
 Truthfully, the situation described above, where a company stagnates on
 innovation because of conflict of interest probably doesn't play out
