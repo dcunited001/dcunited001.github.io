@@ -8,6 +8,56 @@ author:
 excerpt: ""
 ---
 
+#### see Genius about Thomas Wolfe
+
+#### Part One: Knowledge Extinction Events
+
+- motivation behind why censorship is important now!
+  - already published for the most part
+
+#### Part Two: Philosophy of Censorship
+
+- why free exchange of ideas matters!
+  - why is it that free exchange of ideas leads to progress for
+    humanity
+  - why and exactly how does limiting the free exchange of knowedge,
+    information and ideas lead to limiting progress of humanities &
+    philosophy
+    - especially from an epistemological standpoint
+
+#### Part Three: Censorship In Social Media (title?)
+
+- how do they do it?
+  - algorithms/etc (i already have this lined up)
+    - overview, not too many specifics
+  - where are the weak points?
+
+#### Part Four: Combine parts 2 & 3 to Fight Censorship (title?)
+
+- basically, take the emotion & motivations from part one
+  - along with the philosophy of part two
+  - and the technicals of part three
+  - to lay out plans/ideas for preventing the free exchange of info
+  - while retaining the safety of *some* limited discourse
+
+- how can a completely decentralized system be constructed
+  - why are shared incentives important?!
+  - how can a system like that of 16th-19th century europe be
+    constructed
+  - special attention should be paid to how this system was
+    architected *earlier* not later!
+    - how the system functioned when it was less stable is more
+      important to how the system retained that stability
+      - in the 19th and 20th century, the academic system was well
+        established.  how were these institutions architected before
+        there was an economy/industry in place for them?
+      - how/why did they function in absense of such an economy/industry?
+        - why and HOW?
+  - how can we carry that over to the 21st century?
+    - how can we build robust safeguards in our institutions so they
+      continue to function in absence of stability!
+    - the urgency here is merited, as it only takes a generation or
+      two for things to fall apart.
 
 # Philosophy of Censorship
 
@@ -49,7 +99,6 @@ excerpt: ""
   who would force you to believe that every path except the one they
   follow is wrong. this is much different than those who try to
   convince you that their path is the only right path.
-
 
   - qaddafi's citizens weren't allowed to learn foreign languages
     - or was it gaddafi? did anyone else find it strange when we
@@ -143,7 +192,7 @@ excerpt: ""
 
 ### HOW ARE WE **AS AMERICANS** LETTING THIS HAPPEN?!!
 
-end of part one?
+end of part two?
 
 
 
@@ -163,7 +212,7 @@ action online.
 
 
 - example: "birther" movement:
-  - encouraged Barack Obama's most vocal (and perhaps most irrational)
+  - encouraged Barack Obama's most vocal (and perhaps more irrational)
     opposition to self-identify on social media.
     - well ... now you have a list of your most energetic opponents to
       harass IRL.
@@ -209,7 +258,6 @@ if people are encouraged to unsubscribe on a political basis
     - so that leads to further effects
 - most of this is made much worse by unsubscribing
 
-
 it seems that every fresh channel that i use gets OK feedback,
 sometimes they'll get an incredibly response
 - then, every time after that, I get such a mediocre response
@@ -217,8 +265,6 @@ sometimes they'll get an incredibly response
 there's no real way to get around this censorship
 - you can register accounts with new email addresses
   - but then your new accounts have no
-
-
 
 What makes me sick is that the left is stifling debate in academia and
 in the media, putting politics in gridlock. The left mostly controls
