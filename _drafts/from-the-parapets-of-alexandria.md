@@ -89,8 +89,6 @@ that we have today? Why is that relevant to censorship?
 > last ditch effort for widespread censorship -- because guess what:
 > it's the last chance to do it.
 
-
-
 - how did we get to where we are now?
   - what truly matters most?
 
@@ -165,12 +163,14 @@ that we have today? Why is that relevant to censorship?
 
 #### there are cultures that seem to blacklist specific ideas.
 
-  - this includes Russia in the 2000's (I think) and it even includes
-    America, to some extent. America has always suppressed a few,
-    specific ideas. Obscenity was a big deal in the 60's, for example.
-    - anybody remember *Deep Throat?*
-  - this isn't so bad, in itself. it really depends on how it's used,
+- this includes Russia in the 2000's (I think) and it even includes
+  America, to some extent. America has always suppressed a few,
+  specific ideas. Obscenity was a big deal in the 60's, for example.
+  - anybody remember *Deep Throat?*
+  - the movie, not the source
+- this isn't so bad, in itself. it really depends on how it's used,
     but one could argue there are some ideas that must be censored.
+
 
 - more examples here:
 
