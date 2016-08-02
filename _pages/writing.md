@@ -6,8 +6,71 @@ permalink: /writing/
 
 {:center: style="text-align: center;"}
 
+## [Writing On Writing and Other Writings](#writing-on-writing)
+
+#### &#x2605; [American Eros: Or How to Fell a Souley](/posts/2016-07-07-american-eros-or-how-to-fell-a-souley.html)
+
+#### &#x2605; [If I Had the Chops to Write My Daedalian Magnum Corpus](/posts/2016-06-23-if-i-had-the-chops-to-write-my-daedalian-magnum-corpus.html)
+
+#### &#x2605; [Oneironautics: Questing for Lucidity](/posts/2016-05-14-oneironautics-questing-for-lucidity.html)
+
+## [Medical Sciences](#medical-sciences)
+
+#### &#x2605; [Divergents: Measurements and Inference](/posts/2016-06-17-divergents-and-directional-antennae-2-measurement-and-inference.html)
+
+#### &#x2605; Unified Theory of Metanomics (coming soon)
+
+## [Facets of Greatness](#facets-of-greatness)
+
+#### &#x2605; [Facets of Greatness: Intro](/posts/2016-05-12-facets-of-greatness-intro.html)
+
+#### &#x2605; [Monumental Accidents](/posts/2016-05-14-facets-of-greatness-the-unknown-monumental-accidents.html)
+
+## [Linguistics and Semiotics](#linguistics-and-semiotics)
+
+#### &#x2605; [The Nature of Space, Time and Information Implies Universal Language](/posts/2016-04-12-the-nature-of-space-time-and-information-implies-universal-language.html)
+
+#### 5,000 BC (mention theory of language evolution)
+
+## [Consciousness](#consciousness)
+
+#### &#x2605; [Neural Networks and Spider Brains](/posts/2015-11-21-neural-networks-and-spider-brains.html)
+
+#### &#x2605; [Consiousness as a Continuum: Life, the Cosmos and You](/posts/2016-07-12-consciousness-as-a-continuum-life-the-cosmos-and-you.html)
+
+## [God and Religion](#god-and-religion)
+
+#### &#x2605; [The Nature of God](/posts/2016-05-31-the-nature-of-god.html)
+
+#### &#x2605; [I’m Not Religious, I’m Spiritual: God Is Not Dead](/posts/2016-06-01-im-not-religious-im-spiritual-1-God-is-not-dead.html)
+
+#### &#x2605; [I’m Not Religious, I’m Spiritual: Of God and Atheisms](/posts/2016-06-05-im-not-religious-im-spiritual-2-of-God-and-atheisms.html)
+
+#### &#x2605; [I’m Not Religious, I’m Spiritual: A Lighthouse in a Storm](/posts/2016-07-01-im-not-religious-im-spiritual-3-a-lighthouse-in-a-storm.html)
+
+## [Epistemology](#epistemology)
+
+#### &#x2605; [From the Parapets of Alexandria](2016-08-01-from-the-parapets-of-alexandria-knowledge-extinction-events.html)
+
+#### &#x2605; [Epistemology, Cognition and Category Theory](/posts/2015-08-23-epistemology-cognition-and-category-theory-part-one.html)
+
+## [Postmodernism and Metamodernism](#postmodernism-and-metamodernism)
+
+#### &#x2605; [Paradox of Creativity](/posts/2016-05-16-the-paradox-of-creativity.html)
+
+#### &#x2605; [Death of Creativity](/posts/2016-05-17-the-death-of-creativity.html)
+
+## [Physical Sciences](#physical-sciences)
+
+#### &#x2605; [Divergents: Directional Antennae](/posts/2016-06-16-divergents-and-directional-antennae.html)
+
+## [Political Philosophy](#political-philosophy)
+
+#### &#x2605; [Congressional Power Structures](/posts/2016-07-14-facets-of-greatness-congressional-power-structures.html)
 
 
+
+TODO: edit and/or cut =================================================
 
 I really just want to be a part of a community where I can talk to
 people about intellectual things. E.G. Philosophy, Epigenetics,
@@ -63,76 +126,14 @@ fascinating, if I may say so myself. Sometimes, these ideas mirror
 some that have been discussed ad infinitum. And sometimes they are
 completely original and worthy of at least criticism!
 
-
-## [Writing On Writing and Other Writings](#writing-on-writing)
-
-#### &#x2605; [American Eros: Or How to Fell a Souley](/posts/2016-07-07-american-eros-or-how-to-fell-a-souley.html)
-
-#### &#x2605; [If I Had the Chops to Write My Daedalian Magnum Corpus](/posts/2016-06-23-if-i-had-the-chops-to-write-my-daedalian-magnum-corpus.html)
-
-#### &#x2605; [Oneironautics: Questing for Lucidity](/posts/2016-05-14-oneironautics-questing-for-lucidity.html)
-
-## [Medical Sciences](#medical-sciences)
-
-#### &#x2605; Unified Theory of Metanomics (coming soon)
-
-## [Facets of Greatness](#facets-of-greatness)
-
-#### &#x2605; [Facets of Greatness: Intro](/posts/2016-05-12-facets-of-greatness-intro.html)
-
-#### &#x2605; [Monumental Accidents](/posts/2016-05-14-facets-of-greatness-the-unknown-monumental-accidents.html)
-
-## [Linguistics and Semiotics](#linguistics-and-semiotics)
-
-#### &#x2605; [The Nature of Space, Time and Information Implies Universal Language](/posts/2016-04-12-the-nature-of-space-time-and-information-implies-universal-language.html)
-
-#### 5,000 BC (mention theory of language evolution)
-
-## [Consciousness](#consciousness)
-
-#### &#x2605; [Neural Networks and Spider Brains](/posts/2015-11-21-neural-networks-and-spider-brains.html)
-
-#### &#x2605; [Consiousness as a Continuum: Life, the Cosmos and You](/posts/2016-07-12-consciousness-as-a-continuum-life-the-cosmos-and-you.html)
-
-## [God and Religion](#god-and-religion)
-
-#### &#x2605; [The Nature of God](/posts/2016-05-31-the-nature-of-god.html)
-
-#### &#x2605; [I’m Not Religious, I’m Spiritual: God Is Not Dead](/posts/2016-06-01-im-not-religious-im-spiritual-1-God-is-not-dead.html)
-
-#### &#x2605; [I’m Not Religious, I’m Spiritual: Of God and Atheisms](/posts/2016-06-05-im-not-religious-im-spiritual-2-of-God-and-atheisms.html)
-
-#### &#x2605; [I’m Not Religious, I’m Spiritual: A Lighthouse in a Storm](/posts/2016-07-01-im-not-religious-im-spiritual-3-a-lighthouse-in-a-storm.html)
-
-## [Epistemology](#epistemology)
-
-#### &#x2605; [From the Parapets of Alexandria](2016-08-01-from-the-parapets-of-alexandria-knowledge-extinction-events.html)
-
-#### &#x2605; [Epistemology, Cognition and Category Theory](/posts/2015-08-23-epistemology-cognition-and-category-theory-part-one.html)
-
-## [Postmodernism and Metamodernism](#postmodernism-and-metamodernism)
-
-#### &#x2605; [Paradox of Creativity](/posts/2016-05-16-the-paradox-of-creativity.html)
-
-#### &#x2605; [Death of Creativity](/posts/2016-05-17-the-death-of-creativity.html)
-
-## [Physical Sciences](#physical-sciences)
-
-#### &#x2605; [Divergents 1]()
-
-#### &#x2605; [Divergents 2]()
-
-## [Political Philosophy](#political-philosophy)
-
-#### &#x2605; [Congressional Power Structures](/posts/2016-07-14-facets-of-greatness-congressional-power-structures.html)
-
+TODO: edit and/or cut =================================================
 
 
 <a name="writing-on-writing" />
 
 # [Writing On Writing. And a Short Story](#writing-on-writing)
 
-### American Eros: Or How to Fell a Souley
+### [American Eros: Or How to Fell a Souley]()
 
 This is a pitch for a revolutionary new concept. Well, kinda... I’m
 calling this an episaga. There have been open source and collaborative
@@ -163,7 +164,7 @@ I don’t see anyone else talking about ideas like this. I know there
 are people like that out there, but I might talk to less than five
 people per week. Oh Tyche, might thee shine on me...
 
-### If I Had the Chops to Write My Daedalian Magnum Corpus
+### [If I Had the Chops to Write My Daedalian Magnum Corpus](/posts/2016-)
 
 This isn’t really philosophy, but it’s about empowering people who’d
 want to write … I guess? My heads getting a bit big here LOL. I wanted
@@ -171,10 +172,9 @@ to describe my own writing process, for my own purposes as a writer.
 So I ended up writing this. The second part is still incomplete, but
 is mostly available in the drafts branch on Github ... for now.
 
-
 <a name="medical-sciences" />
 
-
+# [Medical Sciences](#medical-sciences)
 
 <a name="facets-of-greatness" />
 
