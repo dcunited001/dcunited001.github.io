@@ -6,6 +6,8 @@ permalink: /writing/
 
 {:center: style="text-align: center;"}
 
+TODO: blurb about basic intro to work
+
 ## [Writing On Writing and Other Writings](#writing-on-writing)
 
 #### &#x2605; [American Eros: Or How to Fell a Souley](/posts/2016-07-07-american-eros-or-how-to-fell-a-souley.html)
@@ -68,17 +70,6 @@ permalink: /writing/
 
 #### &#x2605; [Congressional Power Structures](/posts/2016-07-14-facets-of-greatness-congressional-power-structures.html)
 
-
-
-TODO: edit and/or cut =================================================
-
-I really just want to be a part of a community where I can talk to
-people about intellectual things. E.G. Philosophy, Epigenetics,
-Mathematics. I want to work hard to progress, but I don't make money
-from any of this. I'd love to get feedback, so please, leave what you
-can in the comments!
-
-TODO:
 
 - section on business pursuits and
 - move this to about me? i at least need a link from the top
@@ -409,7 +400,10 @@ blurb...
 
 <a name="physical-sciences" />
 
+# [Physical Sciences](#physical-sciences)
 
-# Physical Sciences
+
+
+<a name="political-philosophy" />
 
 # [Political Philosophy](#political-philosophy)
