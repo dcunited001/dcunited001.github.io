@@ -4,6 +4,13 @@ title: About
 permalink: /about/
 ---
 
+{:center: style="text-align: center;"}
+
+I once started a self-portrait in highschool, with oil paints. I never
+finished.
+{: center}
+
+
 <div style="text-align: center;">
   <span>
     <a href="https://github.com/dcunited001"><i class="fa fa-3x fa-github"></i></a>
@@ -17,18 +24,26 @@ permalink: /about/
   </span>
 </div>
 
-{:center: style="text-align: center;"}
-
-The metaphysical structure representing the sum of all human knowledge greatly exceeds the computational capacity of the universe, implying that the universe can never observe in totality the knowledge contained within it.
-{: center}
 
 ### How to become great at anything
 {: center}
 
-Find your weakness, practice and make it a strength. Find what's difficult and make it effortless. Make it everything you do, your soul focus, and you will be great. Don't stop to settle for what feels great, don't let others convince you that you're already great and rob you of your desire to practice. Examine yourself from others' points of view.  What do they find great and what weaknesses do they see?  Don't forget to give back to those around you and empower your friends because they'll be invaluable later on.  But most of all make sure that you have fun excelling, because otherwise being great doesn't mean much at all.
+Find your weakness, practice and make it a strength. Find what's
+difficult and make it effortless. Make it everything you do, your soul
+focus, and you will be great. Don't stop to settle for what feels
+great, don't let others convince you that you're already great and rob
+you of your desire to practice. Examine yourself from others' points
+of view.  What do they find great and what weaknesses do they see?
+Don't forget to give back to those around you and empower your friends
+because they'll be invaluable later on.  But most of all make sure
+that you have fun excelling, because otherwise being great doesn't
+mean much at all.
 {: center}
 
-## Computering
-{:center}
 
-<img src="/img/rayban_hax_boi.gif" alt="Rayban Hax Boi" class="img-circle center-block" />
+### Computering
+{: center}
+
+<img src="/img/rayban_hax_boi.gif"
+     alt="Rayban Hax Boi"
+     class="img-circle center-block" />
