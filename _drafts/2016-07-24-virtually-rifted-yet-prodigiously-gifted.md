@@ -39,30 +39,10 @@ thing you'll get is a ...
 Let me emphacize that I have a problem with a society architected to
 dispense retribution to anything but unwavering, unquestioning
 obedience, regardless of that person's integrity or how much value
-they have contributed. It's sickening, honestly. This is precisely how
-communism corrodes and deteriorates value systems in a society over
-the course of several generations.
-
-If you look for the communism's butterfly effect event, you'll find
-it's invisible cascades unfolding in late 19th century Easern European
-politics. Most likely.  Particularly, you should find social
-engineering that sowed the seeds of the Bolshevik revolution, decades
-ahead of Anastasia's demise. But most important to such a revolution
-are the seeds sown to degrade and demoralize Russia. While I'm no
-scholar on communism, if you look at late 19th academia in Eastern
-Europe, you should find many intellectuals who attempted to undermine
-establishment institutions through cleverly-disguised, duplicitous
-policies.
-
-Multi-faceted duplicity is the key as wise rulers with generations of
-experience aren't going to fall for just anything. And my argument is
-that we are seeing exactly that in America and have been, since the
-end of World War II. Honestly, since well before that! The movement
-for Communism in America has always been creeping socialism.
-
-And the rest of this series with ideas for VR/AR Software, Hardware,
-Networking, Platforms and Business Models should leave you scratching
-your head.
+they have contributed. To not properly acknowledge sacrifice, talent,
+good-naturedness, or integrity begs a moral delimma. The rest this is
+about ideas for VR/AR Software, Hardware, Networking, Platforms and
+Business Models should leave you scratching your head.
 
 Ahh OK, so now we've moved past the introductory filter device, which
 ensures the only people still reading are the people who might give me
@@ -75,10 +55,10 @@ my race to the bottom who can't wipe the brown stains off their little
 zebra pencildicks. You better get pinesol, comet, and steel wool, my
 little ineffective buddy. Keep tellin yourself that it's the motion of
 the brushin, but depending on how you've said what you've said, that
-muck'ss going to be a bit hard to brush off. And I'm the guy that may
-or may not have been the target of a decade-long, systematic campaign
-to discredit me. Instead, I would invite those people to just click
-that little X button on the tab to close it. And you're damn right you
+mucks going to be a bit hard to brush off. And I'm the guy that may or
+may not have been the target of a decade-long, systematic campaign to
+discredit me. Instead, I would invite those people to just click that
+little X button on the tab to close it. And you're damn right you
 will. Do not continue reading if you never intend to give me a fair
 shot in life!  !@#$ YOU, in particular, good sir. Yes, you!
 
