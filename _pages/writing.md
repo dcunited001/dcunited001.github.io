@@ -6,8 +6,6 @@ permalink: /writing/
 
 {:center: style="text-align: center;"}
 
-TODO: blurb about basic intro to work
-
 ## [Writing On Writing and Other Writings](#writing-on-writing)
 
 #### &#x2605; [American Eros: Or How to Fell a Souley](/posts/2016-07-07-american-eros-or-how-to-fell-a-souley.html)
@@ -16,23 +14,11 @@ TODO: blurb about basic intro to work
 
 #### &#x2605; [Oneironautics: Questing for Lucidity](/posts/2016-05-14-oneironautics-questing-for-lucidity.html)
 
-## [Medical Sciences](#medical-sciences)
-
-#### &#x2605; [Divergents: Measurements and Inference](/posts/2016-06-17-divergents-and-directional-antennae-2-measurement-and-inference.html)
-
-#### &#x2605; Unified Theory of Metanomics (coming soon)
-
 ## [Facets of Greatness](#facets-of-greatness)
 
 #### &#x2605; [Facets of Greatness: Intro](/posts/2016-05-12-facets-of-greatness-intro.html)
 
 #### &#x2605; [Monumental Accidents](/posts/2016-05-14-facets-of-greatness-the-unknown-monumental-accidents.html)
-
-## [Linguistics and Semiotics](#linguistics-and-semiotics)
-
-#### &#x2605; [The Nature of Space, Time and Information Implies Universal Language](/posts/2016-04-12-the-nature-of-space-time-and-information-implies-universal-language.html)
-
-#### 5,000 BC (mention theory of language evolution)
 
 ## [Consciousness](#consciousness)
 
@@ -62,106 +48,78 @@ TODO: blurb about basic intro to work
 
 #### &#x2605; [Death of Creativity](/posts/2016-05-17-the-death-of-creativity.html)
 
-## [Physical Sciences](#physical-sciences)
-
-#### &#x2605; [Divergents: Directional Antennae](/posts/2016-06-16-divergents-and-directional-antennae.html)
-
-## [Political Philosophy](#political-philosophy)
-
-#### &#x2605; [Congressional Power Structures](/posts/2016-07-14-facets-of-greatness-congressional-power-structures.html)
-
-
-- section on business pursuits and
-- move this to about me? i at least need a link from the top
-  - the problem with my site and the content is that it is not
-    navigable. there's no discovery, aside from the tag cloud, which
-    needs to be adjusted...
-  - there's no way for people to discover what is relevant to them
-  - it's almost a blessing that i'm able to write about so many
-    topics. this makes it easy to market from one standpoint and hard
-    to market my writing/blog from another standpoint
-    - on one hand, i can post as many links as i want, rotating
-      through various channels
-      - i'll never exhaust my content and my channels. EVER!
-    - i can consistently generate sessions and high (10:00-30:00)
-      average session times!
-      - however, this takes quite a lot of work
-    - on the other hand, a visitor to my website is mostly unable to
-      sort through to find the stuff that is interesting to them
-      - or identify what i've written and why.
-      - that's kinda the purpost of this. it's an overview of the
-        things i've written. and in less than 4,000ish words people
-        get an overview of the better content.
-
-## Thanks For Reading!
-
-Anyways, I deal with people who are just going for the legs
-basically. They want to make me unsure of myself by insulting me and
-deriding my work, all while preventing me from having the opportunity
-to connect with others. Someone recently attacked me for being proud
-of the fact that I’ve published 45,000 words on my blog since
-July. That’s ridiculous. She attacked me by saying that the definition
-of “published” requires some authority to bless the content for
-“publication.” I don’t care if anyone publishes my writing. It’s just
-some random person discrediting me by attacking my ideas, hoping that
-no one else will give them a chance. We went back and forth on
-Facebook until there were 200 comments LMAO. Why would they waste the
-time?
-
-I’m self-taught, so my style and form isn’t “academic.” The only
-philosophy book I’ve completely read is The Republic. I got halfway
-through Ethics. I know my writing has problems, but my ideas are
-original AFAIK. Some of them are anyways or at least they could be. My
-point is, the ideas behind my writing are interesting. They are
-fascinating, if I may say so myself. Sometimes, these ideas mirror
-some that have been discussed ad infinitum. And sometimes they are
-completely original and worthy of at least criticism!
-
-TODO: edit and/or cut =================================================
-
-
 <a name="writing-on-writing" />
 
 # [Writing On Writing. And a Short Story](#writing-on-writing)
 
-### [American Eros: Or How to Fell a Souley]()
+### [If I Had the Chops to Write My Daedalian Magnum Corpus](/posts/2016-06-23-if-i-had-the-chops-to-write-my-daedalian-magnum-corpus.html)
 
-This is a pitch for a revolutionary new concept. Well, kinda... I’m
-calling this an episaga. There have been open source and collaborative
-books before. However, this is an open source myth and the idea is
-that people will each tell their own story or fork off another, while
-keeping several fixpoints constant. That is, there are several
-invariant plot points, which should mostly stay the same. And other
-people would contribute towards them. The fixpoints should be as
-generic as possible and there should only be a handful. Ideally just
-one or two.
-
-I actually pitched this idea as part of a practice in a
-quasi-religion. It's called oneiroism. The idea is that we need to
-protect individuality and find a way to stand up against
-nihilism. This accomplishes both. Everyone would have their version of
-a particular story which would be a meditation on something like Love
-or Justice or Heroism.
-
-By maintaining their personal version through their life or
-collaborating with others on their version of a particular story, they
-are developing their ability to recognize/utilize/strengthen those
-traits in themselves and others. Furthermore, it represents
-individuality for the sake of individuality as we approach the end of
-individuality. Individuality can provide us with drive and
-purpose. This can help us stand up against nihilism.
-
-I don’t see anyone else talking about ideas like this. I know there
-are people like that out there, but I might talk to less than five
-people per week. Oh Tyche, might thee shine on me...
-
-### [If I Had the Chops to Write My Daedalian Magnum Corpus](/posts/2016-)
+TODO: rewrite this
 
 This isn’t really philosophy, but it’s about empowering people who’d
 want to write … I guess? My heads getting a bit big here LOL. I wanted
 to describe my own writing process, for my own purposes as a writer.
 So I ended up writing this. The second part is still incomplete, but
 is mostly available in the drafts branch on Github ... for now.
+
+### [American Eros: Or How to Fell a Souley](/posts/2016-07-07-american-eros-or-how-to-fell-a-souley.html)
+
+TODO: shorten
+
+American Eros is first a short-story about love at first sight,
+without sight. It's also a pitch for a revolutionary new concept that
+I'm calling an *episaga*, which is an open source myth. The idea is to
+tell a story how what led the main character to develop exactly what
+they needed in order to have that perfect love experience the next
+morning, when they least expected it.
+
+Yes, there have been open source and collaborative books before, but
+this is a new age reworking of myth and I hope to inspire others to
+return to the true human storytelling tradition. The idea is that
+storytellers will keep several fixpoints mostly constant, and these
+include a handful of plot-points, characters, themes, etc. The fewer
+and the more general, the better! Storytellers can fork off of other
+versions of the myth or collaborate. The self-imposed restrictions
+help foster creativity.
+
+To explain further here are several invariant plot points -- fixpoints
+-- which should mostly stay the same. And other people would
+contribute towards them. The fixpoints should be as generic as
+possible and there should only be a handful. Ideally, for plotpoints,
+just one or two, to preserve variations in form.
+
+quasi-religion. It's called oneiroism. Perhaps I specify that Oneirism
+is something more along the lines of philosophy in practice than a
+religion. The idea is that we need to protect individuality and find a
+way to stand up against nihilism. This is aimed at addressing
+both. Everyone would have their version of a particular story which
+would be a meditation on something like Love or Justice or Heroism.
+
+By maintaining a personal version through their life or collaborating
+with others on their version of a particular story, they are
+developing their ability to recognize/utilize/strengthen those traits
+in themselves and others. Furthermore, it represents individuality for
+the sake of individuality as we approach the end of individuality.
+Individuality can provide us with drive and purpose. This can help us
+stand up against nihilism.
+
+I don’t see anyone else talking about an idea like the episaga. There
+are similar concepts, but this is specifically targeted towards
+addressing philosophical problems in the near-future. I know there are
+authors out there with whom this would really catch on.
+
+> Oh Tyche, might thee shine on me...
+
+### [Oneironautics: Questing for Lucidity](/posts/2016-05-14-oneironautics-questing-for-lucidity.html)
+
+I occasionally have the most vivid dreams. Oneironautics is a series
+where I describe some of my dreams. These are the ones where you wake
+up and you just have to write them down. If you're looking for a laugh
+or something to freak you out a bit, then by all means, take a peek at
+my subconscious. The first in the series covers several dreams: one
+includes a Colombian drug lord and power tools and another includes a
+journey into the recesses of my mind, presented as a metaphor whereby
+I unlock some knowledge hidden away.  And perhaps for my own good...
 
 <a name="medical-sciences" />
 
@@ -178,12 +136,17 @@ known for? And I don't mean their accomplishments, but the subtle
 aspects of their craft that they care so much about because they've
 realized something the rest of us missed.  (examples?)
 
-
-TODO: which articles to link/summarize?
-
+TODO: which articles to link/summarize? For now, just those two, but I
+should highlight the two or three best.
 
 This is a series on Leadership. I've linked to interesting
 articles. Actually, they're all interesting.
+
+<a name="linguistics-and-semiotics" />
+
+# [Linguistics and Semiotics](#linguistics-and-semiotics)
+
+
 
 <a name="consciousness" />
 
@@ -277,10 +240,6 @@ Intelligence? I guess? I don’t know. But that right there is my
 genius: I don’t fucking know! I also don’t know why I have sixty cents
 to my name. Philosophy is spooky and dangerous!! Don’t think too hard
 about how you think!
-
-<a name="linguistics-and-semiotics" />
-
-# [Linguistics and Semiotics](#linguistics-and-semiotics)
 
 <a name="god-and-religion" />
 
