@@ -10,7 +10,6 @@ I once started a self-portrait in highschool, with oil paints. I never
 finished.
 {: center}
 
-
 <div style="text-align: center;">
   <span>
     <a href="https://github.com/dcunited001"><i class="fa fa-3x fa-github"></i></a>
@@ -24,6 +23,35 @@ finished.
   </span>
 </div>
 
+### The Measure of a Good Man
+{: center}
+
+The measure of a good man is what he decides to do when a friend needs
+help, whether his friend asks directly or not. When it's not his
+problem and especially when he'll incur significant retribution for
+helping his friend or especially a stranger! Even moreso when it's a
+stranger!
+
+<img src="/img/integrity.png"
+     alt="Integrity, Defined"
+     class="center-block" />
+
+### Integrity: I Have It, Almost to a Fault
+{: center}
+
+When someone cares more about about truth, justice, compassion,
+equity, integrity and virtue than their own life? That's a good
+person! This is what you should look for in man! Reward their ability
+to make personal sacrifice for justice, love and truth!
+
+And, off-topic, that's what makes military and police good people in
+general. This is why, even though I've found myself arrested and
+singled out for drug charges, I can't look at an officer or a soldier
+without respect. It's because I know that ninety-nine times out of a
+hundred, or really more than that, the person wearing that uniform is
+willing to risk their life. The reason they do is because they care so
+much about the kinds of things people should care about, that they are
+willing to risk their life for it.
 
 ### How to become great at anything
 {: center}
@@ -39,7 +67,6 @@ because they'll be invaluable later on.  But most of all make sure
 that you have fun excelling, because otherwise being great doesn't
 mean much at all.
 {: center}
-
 
 ### Computering
 {: center}
