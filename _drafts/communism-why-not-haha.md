@@ -1,5 +1,119 @@
----
----
+
+
+=======================================
+
+Please understand that i never meant to publish a lot of this. i put
+it all online simply because I thought I might not have a chance to
+otherwise and to circumvent being accused of plagarism. Should someone
+be or have been sheisty enough to plagarize my work on my file
+systems, then publish it on their own, using specific wording in
+anticipation that my published documents would mirror that wording
+.... welllll then THIS IS SOURCE CONTROL, MY !#%^@
+
+GOTCHA, BITCHES! (probably just being paranoid though. it's actually a
+skill! a very, very tragic skill)
+
+Source control tracks all commited history... and no one has time to
+dig through git to accurately update history with timestamps while
+ensuring unlinked hunks are purged from the repo's. I'm not sure i'm
+100% right on this, but I think you have to tell git to purge unlinked
+hunks from your repository. So yeh! Even if it doesn't look like it's
+in there, it *might* just be in there... hahaha dear God. Seriously
+though, anything too gnarly is at home on a fucking sticky note. Which
+are unfortunately not source-controlled and/or timestamped. Oh that's
+a bummer, eh?
+
+Anyways, please understand this => While I might not support your
+political **label**, per se, _I definitely care about your problems._
+And, with every last fiber of my being, I intend to continue fighting
+until we make things better in the US and in the world. BECAUSE WE
+CAN!  And because that's what I always intended to do. That's why I
+wanted wealth in the first place. I realized the quickest, most
+robust, most failsafe method to get *real change* was to chase a
+fucking pot of gold. And the personal development I'd accrue along the
+way would be priceless!
+
+The problem is, specific people were terrified I might actually get
+there, precisely because they knew why I wanted it!
+
+=======================================
+
+- why communism is bullshit and is its own antithesis
+  - why north korea isn't communinist (it's
+    autocratic/military/monarchy) and why N.K. should be a synonym for
+    full of shit
+  - north koreans obviously aren't allowed to study government.
+    otherwise, they would know exactly how oxymoronic and
+    [synonym for word-missing-the-meaning] they are
+  - why i slightly respect chinese communism (but why it's not exactly
+    communism)
+  - what's required for communism to work and why this inherantly
+    plants the seeds of its own destruction
+    - the agencies required for surveillance gain the power and
+      motivation for more power
+    - I.E. the KGB subverting communism into oligarchy to magnify
+      their own power.
+
+=======================================
+
+Let me emphacize that I have a problem with a society architected to
+dispense retribution to anything but unwavering, unquestioning
+obedience, regardless of that person's integrity or how much value
+they have contributed. It's sickening, honestly. This is precisely how
+communism corrodes and deteriorates value systems in a society over
+the course of several generations.
+
+If you look for the communism's butterfly effect event, you'll find
+it's invisible cascades unfolding in late 19th century Easern European
+politics. Most likely.  Particularly, you should find social
+engineering that sowed the seeds of the Bolshevik revolution, decades
+ahead of Anastasia's demise. But most important to such a revolution
+are the seeds sown to degrade and demoralize Russia. While I'm no
+scholar on communism, if you look at late 19th academia in Eastern
+Europe, you should find many intellectuals who attempted to undermine
+establishment institutions through cleverly-disguised, duplicitous
+policies.
+
+Multi-faceted duplicity is the key as wise rulers with generations of
+experience aren't going to fall for just anything. And my argument is
+that we are seeing exactly that in America and have been, since the
+end of World War II. Honestly, since well before that! The movement
+for Communism in America has always been creeping socialism.
+
+=======================================
+
+Why #Socialism fails: it requires a strong economy to provide
+expensive benefits for everyone, yet culturally degrades the virtues
+that create a strong economy.  This inevitably leads to the loss of
+values and, eventually the wealth itself, that would lead such a
+situation to be possible.  The best answer for governance is not
+actually as straightforward as "sunshine, unicorns and icecream for
+everyone."
+
+[Plato's Five Regimes](https://en.wikipedia.org/wiki/Plato%27s_five_regimes)
+
+Sorry, you're #Myopic - you're simply not thinking of the future.
+
+Fortunately, the price of these problematic services (such as
+healthcare) will plummet, regardless of public policy. However, it's
+infuriating to see both of the following: the demagogue politicians
+who promise such grand reforms, full-well knowing that these reforms
+represent changing economics moreso than real change; and their
+followers, ignorant of the true causes of their suffering, who foist
+their chosen demagogues up as some kind of salvation, without
+understanding that their ideology will soon be irrelevant.
+
+What I'm trying to say: your politics are about as useful as an
+umbrella in a hurricane. Far more powerful forces will determine the
+course of policy over the next decade or two. The only question is
+.....
+
+- can i have your cornbread?
+- who will control this newfound power and what will they do with it?
+- ... ?
+
+================================
+
 
 subversive long-term political strategy of the left:
 - push conservatives out of their jobs, especially those that are

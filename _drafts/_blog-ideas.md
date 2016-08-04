@@ -607,16 +607,6 @@ Applied Category Theory:
 - avoiding surveillance by painting a picture online with the abundance of data
   - why this is better than simply dropping out of online activity altogether
 
-## Government
-
-- why communism is bullshit and is its own antithesis
-  - why north korea isn't communinist (it's autocratic/military/monarchy) and why N.K. should be a synonym for full of shit
-  - north koreans obviously aren't allowed to study government.  otherwise, they would know exactly how oxymoronic and [synonym for word-missing-the-meaning] they are
-  - why i slightly respect chinese communism (but why it's not exactly communism)
-  - what's required for communism to work and why this inherantly plants the seeds of its own destruction
-    - the agencies required for surveillance gain the power and motivation for more power
-    - I.E. the KGB subverting communism into oligarchy to magnify their own power.
-
 ## History
 
 - why the Norwegian crusade was a badass medieval crusade
