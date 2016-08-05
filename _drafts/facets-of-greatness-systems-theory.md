@@ -405,3 +405,122 @@ given some constant set or sets of social situations
   - and that's really waht I meant to cover here
     - if you have a relationship that needs work, what do you do to
       make sure it continues moving forward
+
+### Social Dynamics - Equilibrium and Gradient
+
+if the social variables are imagined as a hyperdimensional coordinate
+system, then
+- you can imagine the person's state,
+  - as well as their environment's and social participants' state,
+  - all mapped as points(or something)
+- visualizing the specifics really aren't important here. it's the
+  high level concepts
+  - and most of this, if processed by a person's mind is subconscious
+    anyways. so it's not something most ppl understand, nor is it
+    something we could consciously process
+- that person's state depends on all the other variables
+  - I.E. their perception of their own state and that of others around
+    them, including social groupings, etc.
+  - this informs their subconscious of the equilibrium they'd want to
+    seek in that situation. the equilibrium could be plotted as points
+    or regions in that same hyperdimensional space (or one could get
+    more complicated...)
+  - those "regions" could be imagined as slices of space carved away
+    by inequalities.
+    - or ... ugh i don't know lol
+- the point is, one can take into account the calculus of this
+  situation. the rate at which other participants change or the rate
+  of change of their personal state in this situation.
+  - but it gets better.
+  - when the participants of a group are making decisions, the seek to
+    hide, omit, or manipulate information.
+    - at any time, regardless of the truth of their words/actions or
+      the significance of their omissions, a person can imagine that
+      these people specifically want to indicate that they are *going
+      toward* or *moving away* from that "thing" by manipulating
+      information
+    - THEREFORE, you can use the gradient in this hyperdimensional
+      plane in various ways, inferring that someone's conscious
+      actions or omitted actions indicate action towards/away from
+      that LINE indicated by the gradient of their action.
+      - imagine a 3D coordinate system (X,Y, & Z)
+      - think of a competitive version of the game snake
+      - there's a dozen red dots on it representing people that each
+        want to go towards or away from blue dots plotted on the same
+        coordinate system
+      - there's a hundred blue dots and each person has a secret list
+        of 20 blue points to obtain
+        - each is variously weighted for each person. one dot could be
+          worth 100 points to one person and 5 points to the next. who
+          knows, but the red dots generally don't want to indicate
+          that information.
+      - the red dots can move, over time and each have their own
+        algorithm for making decisions, independent from others. each
+        red dot receives the same information and understands that all
+        the others do too (or perhaps they don't...)
+        - they can move at different speeds, dependent on their score
+        - really, there's all kinds of restrictions/modifications here
+      - the point is: one of the most effective algorithms for
+        determining the goal of other red dots is by observing the
+        gradient of their actions.
+        - I.E. if one blue dot fakes by moving away from a point, but
+          doesn't do so *orthogonally*
+          - and there's no other point which they are obviously moving
+            towards
+          - then one could assume that red point has behavior tightly
+            coupled to that point they were either moving directly
+            toward or directly away from
+        - and the way to do this is by measuring the gradient of
+          several vars in this hyperdimensional plane, which each red
+          dot's algorithm would need to process differently
+          - in this case, the hyperdimensional plane is used to plot
+            the features of an individual red dot's AI understanding
+            of the system.
+            - these feature sets can be modified!
+              - dimensions added/removed
+              - measures/metrics changed
+              - priorities shifted
+            - these feature sets can vary between red dots!
+          - and most crucially, there is reflection of each red
+            dot's understanding of how the other red dots process
+            information.
+            - this must similarly be malleable. even more flexible,
+              given the unknown nature of how each red dot's
+              algorithm works.
+          - and again, another crucial step of understanding is that
+            there is a dualistic reflection of how each red dot
+            perceives each of the other's individual AI reflection of
+            their presented information
+            - or at least, theoretically, one could extend this into
+              infinity.
+            - what A thinks that B thinks what A is thinking about
+              what B is thinking .... etc
+              - this is tough, but there's a ton of valuable info here
+            - another step is that this information must be
+              generalizable to hierarchical groups
+            - and another crucial step is that, in addition to
+              infinite reflection of *paired* AI algorithms, there is
+              also an infinite reflection of "what A thinks that B
+              thinks about what A thinks of C ..."
+              - for not just pairs, but all possible sequences of red
+                dots in the graph
+            - much of this reflected data for AI is useless beyond one
+              or two levels. however, it's really, really difficult
+              and tedious to obscure your actions, even beyond a
+              single level
+
+basically: two incredibly powerful ways to understand social dynamics
+and group behavior, in addition to ascertaining other people's
+equilibriums:
+- look at the "gradients" of their actions to infer whether they are
+  lying, omitting, manipulating, etc.
+  - generally, unless their action is "significantly orthogonal" from
+    their goal (i'm sure there's a measure for orthogonality in
+    hyperdimensional planes ... seems useful)
+    - then you can generally surmise (especially over time!) that they
+      are moving *toward* or *deceptively away from* their (un)stated
+      goals!
+- combine the gradient with the reflection ideas from above
+  - "what A thinks that B thinks what A is thinking about what B is
+    thinking .... etc"
+  - "what A thinks that B thinks about what A thinks of C ..."
