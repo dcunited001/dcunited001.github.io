@@ -1,35 +1,187 @@
 ---
-title: "Philosophy of Censorship"
+title: "Facets of Greatness: Systems Theory, Incentives and ... Feedback Loops"
 categories: "blog"
 tags: "sociology politics"
-headline: ""
+headline: "What kind of person are you? what primarily motivates you?"
 author:
   name: "David Conner"
 excerpt: ""
 ---
 
+Systems Theory is all about feedback loops. It's a powerful, but
+simple science of modeling processes with feedback loops... basically.
+If you know a lot about Systems theory.
 
-what kind of person are you? what primarily motivates you?
-- are you easily controlled through fear?
-  - are you fickle or superficial or materialistic?
-  - can you be persuaded through your desires?
-  - can you be bought? can you be coerced?
-  - are you easily led around by the nose?
-  - do you have ethics?
-    - do you project that sense of ethics to others around you?
-    - with your actions or just your words?
-    - what do you do when you see others violate your ethics?
-      - and their own ethics?
-  - are you intelligent? smart? hardworking?
-  - are you trustworthy?
-  - do you volunteer for things and serve others?
-  - what do you do when no one is looking?
-    - how does this change your statements and actions?
-    - does your perception of your own beliefs change when you think
-      no one is looking?
-  - what motivates you? can you be persuaded to want something else?
 
-===============
+to model processesIn business, you'll need to know a bit
+of systems theory to design logistics, reporting, robust inventory and
+processes. Thanks PersonalMBA... That's if you are
+
+
+The measure of a good man is what he decides to do when a friend needs
+help, whether his friend asks directly or not. When it’s not his
+problem and especially when he’ll incur significant retribution for
+helping his friend or especially a stranger! Even moreso when it’s a
+stranger!
+
+### Integrity: I Have It, Almost to a Fault
+
+When someone cares more about about truth, justice, compassion,
+equity, integrity and virtue than their own life? That’s a good
+person! This is what you should look for in man! Reward their ability
+to make personal sacrifice for justice, love and truth!
+
+And, off-topic, that’s what makes military and police good people in
+general. This is why, even though I’ve found myself arrested and
+singled out for drug charges, I can’t look at an officer or a soldier
+without respect. It’s because I know that ninety-nine times out of a
+hundred, or really more than that, the person wearing that uniform is
+willing to risk their life. The reason they do is because they care so
+much about the kinds of things people should care about, that they are
+willing to risk their life for it.
+
+# What Kind of Person Are You?
+
+### Attributes?
+
+Are you intelligent? Smart? Hardworking? Are you trustworthy? Loud?
+Well-known? Well-respected? Resourceful?
+
+### Motivation?
+
+What motivates you? How easily can you be persuaded to want something
+else? Are you easily controlled through fear? Are you fickle,
+superficial or materialistic? Can you be persuaded through your
+desires? Can you be bought? Coerced? Could you be goaded into action?
+Or easily led around by the nose?
+
+### Ethics?
+
+Do you have a strong sense of your own ethics? Is it well-defined?
+Deeply thought out? Experienced? Practical? Are you open-minded to
+other frameworks? Do you project that sense of ethics to others around
+you?  With just your words or with your actions too? What do you do
+when you see others violate your ethics? And their own? Do you
+volunteer and try to serve others?
+
+###
+
+(title: "self-fixedness", "self-constant-ness")
+
+What do you do when no one is looking? When you think no one's looking
+or when you *know* know one is looking? What's the difference? If
+everyone could see everything you've done for years at a time
+... every word, thought and visible action, what would they think?
+Everyone has faults, but people who live their life as though there
+really might be judgement for their actions regardless of their
+visibility seem to be stronger & more resilient. They can't cheat
+themselves out of working harder by simply lying, taking or pulling
+one over on someone else. It requires the development of complicated
+behaviors regardless: either the foresight to structure one's actions
+morally or the insight and instinct to flow between the awareness of
+others.  (And the latter is not usually a good feeling by the way)
+
+It's an interesting question because we'll soon be moving towards a
+world like that, whether we like it or not. It will be impossible to
+do much anything without some level of visibility, whether we like it
+or not. Would that visibility change your statements and actions? What
+kind of person would simply be themselves regardless? Does your
+perception of your own beliefs change when you think no one is
+looking? Who would even want to become aware of that?
+
+### Integrity
+
+## Modeling Casual Human Behavior
+
+### actions speak louder than words
+
+#### actions are basically really loud words
+
+#### reactions are crystal clear
+
+well.... maybe not exactly
+
+### what are they not doing? not saying? not reacting to?
+
+this is wayyy more useful than anything so far
+- but the idea that people are chasing some sense of equilibrium
+  models this domain much more robustly
+
+#### how does change affect the situation
+
+#### what is this person/people optimizing their behavior on
+
+### How Might I Know That
+
+## Facets of Greatness (what section?)
+
+misc advice(but powerful): if you're not asking me what i want, how do
+i know you're trying to help me?
+- the more important point is: these people should know what you want
+  and they should be good at ascertaining what you want without asking
+  you.
+  - yet, depending on your role in life and your psychologically
+    ingrained need for control, you might make it difficult to get
+    that information.
+- if you don't ask for my needs, that's kind of a yellow card ... maybe
+  - but if you don't care about what i want or you don't care about my
+    needs
+    - EVEN IF I'M IGNORANT OF THEM AND **ESPECIALLY** IF I'M CLUELESS
+- this is important when you're dealing with people that tell you what
+  you want to hear or what they think you need to hear
+  - because it's a metric that allows you to discern:
+    - does this person care about my goals
+    - or is this person capable of serving my needs?
+    - if you can't understand what I need, then I can't depend on you!
+  - keep in mind there are plenty of relationships where you should
+    not stress this
+    - because that person might not be obligated to do shit for you
+    - or bc you might want relationships that are not based on someone
+      needing to provide you with something
+      - equally mutually beneficial relationships
+    - however, if you have a lot of money/power, then these
+      relationships can be risky, especially if you depend on them
+      - because you can't control them
+      - if this person is sheisty, then they might tug on the other
+        end of that rope and, if you don't each need each other, then
+        they might be able to throw you off balance a bit.
+- If you're not asking me about what I want, what I need,
+  - and i usually keep that close to my chest
+  - then how would you know what I want, if I haven't told you?
+- so if that's the case, then I already (and always will) know that
+  you're either incompetent, careless, just fucking with me or trying
+  to use me for something YOU want.
+  - i'm not sure which one is worst.
+- so if, through your words & actions, you don't give me a consistent
+  impression that you need to know what i think, need and
+  want
+  - then you're inherently going to raise my suspicion
+  - and if you give me the impression that you don't care what i want,
+    that's almost worse
+    - it's almost as someone who should know what you want, but
+      interacting with them and trying to ascertain their perception
+      of yours needs is like living out one of those paradoxical logic
+      riddles
+      - where there's two doors and one leads to certain death and the
+        other leads to hot cosplayers
+      - but you have like cunningly trick either person into telling
+        you the truth.
+        - that's bullshit
+        - i don't actually want to think about it that hard
+        - i just want to know
+    - if someone is fucking with you this and then bitches
+      relationship problems, but consistent misleads you on what they
+      want/need and their idea of what you want/need
+      - THAT PERSON DOESN'T CARE!!
+      - that person doesn't want to improve the relationship!
+      - in fact, that's quite the opposite, they seem to be actively
+        sabotaging the relationship and wasting your time.
+    - and they're playing you for a fool
+      - which means that they probably think you're stupid or they're
+        really smart. either way, that's horse shit.
+- you can lead, follow or get out of the way
+  - or... you can help me, you can hinder me, or you can get out of
+    the way.
 
 
 
@@ -118,98 +270,6 @@ what kind of person are you? what primarily motivates you?
       - then we can motivate everyone
         to work towards making America greater. We can build it and we
         will be faster, stronger and longer lasting.
-
-
-## Facets of Greatness (what section?)
-
-misc advice(but powerful): if you're not asking me what i want, how do
-i know you're trying to help me?
-- the more important point is: these people should know what you want
-  and they should be good at ascertaining what you want without asking
-  you.
-  - yet, depending on your role in life and your psychologically
-    ingrained need for control, you might make it difficult to get
-    that information.
-- if you don't ask for my needs, that's kind of a yellow card ... maybe
-  - but if you don't care about what i want or you don't care about my
-    needs
-    - EVEN IF I'M IGNORANT OF THEM AND **ESPECIALLY** IF I'M CLUELESS
-- this is important when you're dealing with people that tell you what
-  you want to hear or what they think you need to hear
-  - because it's a metric that allows you to discern:
-    - does this person care about my goals
-    - or is this person capable of serving my needs?
-    - if you can't understand what I need, then I can't depend on you!
-  - keep in mind there are plenty of relationships where you should
-    not stress this
-    - because that person might not be obligated to do shit for you
-    - or bc you might want relationships that are not based on someone
-      needing to provide you with something
-      - equally mutually beneficial relationships
-    - however, if you have a lot of money/power, then these
-      relationships can be risky, especially if you depend on them
-      - because you can't control them
-      - if this person is sheisty, then they might tug on the other
-        end of that rope and, if you don't each need each other, then
-        they might be able to throw you off balance a bit.
-- If you're not asking me about what I want, what I need,
-  - and i usually keep that close to my chest
-  - then how would you know what I want, if I haven't told you?
-- so if that's the case, then I already (and always will) know that
-  you're either incompetent, careless, just fucking with me or trying
-  to use me for something YOU want.
-  - i'm not sure which one is worst.
-- so if, through your words & actions, you don't give me a consistent
-  impression that you need to know what i think, need and
-  want
-  - then you're inherently going to raise my suspicion
-  - and if you give me the impression that you don't care what i want,
-    that's almost worse
-    - it's almost as someone who should know what you want, but
-      interacting with them and trying to ascertain their perception
-      of yours needs is like living out one of those paradoxical logic
-      riddles
-      - where there's two doors and one leads to certain death and the
-        other leads to hot cosplayers
-      - but you have like cunningly trick either person into telling
-        you the truth.
-        - that's bullshit
-        - i don't actually want to think about it that hard
-        - i just want to know
-    - if someone is fucking with you this and then bitches
-      relationship problems, but consistent misleads you on what they
-      want/need and their idea of what you want/need
-      - THAT PERSON DOESN'T CARE!!
-      - that person doesn't want to improve the relationship!
-      - in fact, that's quite the opposite, they seem to be actively
-        sabotaging the relationship and wasting your time.
-    - and they're playing you for a fool
-      - which means that they probably think you're stupid or they're
-        really smart. either way, that's horse shit.
-- you can lead, follow or get out of the way
-  - or... you can help me, you can hinder me, or you can get out of
-    the way.
-
-
-## Modeling Casual Human Behavior
-
-### actions speak louder than words
-
-#### actions are basically really loud words
-
-#### reactions are crystal clear
-
-well.... maybe not exactly
-
-### what are they not doing? not saying? not reacting to?
-
-this is wayyy more useful than anything so far
-- but the idea that people are chasing some sense of equilibrium
-  models this domain much more robustly
-
-#### how does change affect the situation
-
-#### what is this person/people optimizing their behavior on
 
 
 ### Equilibrium & Social Dynamics
