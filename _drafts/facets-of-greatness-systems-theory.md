@@ -12,8 +12,9 @@ Systems Theory is all about feedback loops. It's a powerful, but
 simple science of modeling processes with feedback loops... basically.
 If you know a lot about Systems theory.
 
+...
 
-to model processesIn business, you'll need to know a bit
+to model processes In business, you'll need to know a bit
 of systems theory to design logistics, reporting, robust inventory and
 processes. Thanks PersonalMBA... That's if you are
 
