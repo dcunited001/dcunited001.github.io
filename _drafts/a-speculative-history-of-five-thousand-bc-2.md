@@ -422,6 +422,8 @@ carbon dating.
 
 #### There is this mystical
 
+...
+
 that
 there is this mystical ineffable force that pervades every fragment of
 the universe -- While I subscribe to my own beliefs that inform my
@@ -491,7 +493,7 @@ carefully filtered adherents from ever knowing the truth.
 To me, the knowledge of good and evil is not simply the knowledge of
 the existence of good and the existence of evil. That is, this doesn't
 represent man's discovery of evil or sin.  Neither is it really the
-loss of our innocence, per se.  Instead, the knowledge of good and
+loss of our innocence, per se. Instead, the knowledge of good and
 evil is the knowledge of _both_ *how to use* **good** and **how to
 use** *evil* in order to accomplish one's goals, and especially in the
 sense that one becomes aware of how others will perceive an
