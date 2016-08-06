@@ -72,6 +72,50 @@ is what we need. Otherwise, when something goes wrong, which will
 happen to some degree, some party that was not invested may seize on
 the opportunity, using it as an excuse to gain power.
 
+======
+
+### From blog ideas on education
+
+Centralizing and utilizing educational resources to accelerate K12
+education, while maintaining the ability to experiment
+
+### FB Comments on Diversity of Education
+
+IMO the lack of religion in this country has resulted in general
+demoralization over a few generations. I'd like to see fed/state
+governments offer vouchers for *some* otherwise private schools. I
+don't believe that only the wealthy should be capable of sending their
+kids to a private school of their own choice. forcing everyone into
+secular schools, unless you're from an upper middle class is not
+fair. it makes it hard to raise your kids in a controlled environment
+where they learn about the world in the way you want your children to
+learn about it.
+
+IMO There's the liberty of the individual and the liberty of the
+community. over the past seven decades, the liberty of the individual
+has surged and this is great. people should want to be the kind of
+person they want to be and to feel comfortable about that. But this
+has surged at the restriction of local communities. Because of
+religion's waning influence, it has become difficult or almost
+impossible to ensure your children aren't exposed to specific ideas.
+
+That might sound a bit backwards, but I imagine that as a parent, that
+is one of your first priorities. In fact, I know that is true from a
+psychological perspective. There are things about the world you don't
+want your children to have to think about. And also there are things
+that kids or even people shouldn't know or think about *generally*
+simply because it makes it easier to to identify children that have
+because it's rare instead of fairly common.
+
+We need diversity in our systems of education. Also, this could be a
+means of getting some intelligent or talented kids out of a bad
+neighborhood early on. It sounds like a completely separate issue, but
+this may be a long term tactic for breaking the cycle of poverty and
+offering new options for parents who'd love nothing more than to help
+their children grow up without fearing specific influences.
+
+======
+
 ## Education
 
 ### We Need More of It
@@ -154,12 +198,11 @@ because that implies that we own the positive and negative
 consequences.
 
 So many people claim I'm dangerous or controversial or a bad example
-or whatever. And yet, I'm trying to
-warn about serious problems that threaten the stability of our entire
-world. Seriously: *have you ever dealt with hungry people?* Hunger on
-a widespread scale is a recipe for disaster. Have you ever seen Les
-Miserables? I actually haven't, but I heard those people get super
-pissed off. It's not funny.
+or whatever. And yet, I'm trying to warn about serious problems that
+threaten the stability of our entire world. Seriously: *have you ever
+dealt with hungry people?* Hunger on a widespread scale is a recipe
+for disaster. Have you ever seen Les Miserables? I actually haven't,
+but I heard those people get super pissed off. It's not funny.
 
 So, when we save a few pennies here and there cutting corners on
 production, so that Belfort's stocks go up a quarter of a point.  It
