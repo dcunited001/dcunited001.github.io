@@ -72,7 +72,46 @@ excerpt: ""
 
 #### &#x2605; my sense of inner peace ("taken" by those, first by force and mistreatment and second by accusations that I'm a sociopathic bully because I do not feel guilty for what I don't know)
 
-#### &#x2605; the love of my life (who may or may not have ever spoken to me and certainly will not anymore)
+#### &#x2605; the love of my life (who may or may not have ever spoken
+to me and certainly will not anymore)
+
+# Possible Conspiracy to Murder David Conner (November 4th, 2013)
+
+Here's some videos of me with someone who compelled me to video tape
+him. The most suspicious details are outlined towards the very bottom
+of this post, in the email I sent to Priori Legal. Read that if you
+want more info. I would have died on my mom's birthday and a day
+before my birthday!
+
+Keep in mind that this guy claimed to have just gotten out of a mental
+health clinic like two days before I moved in with him, for 48
+hours. I kept the videos private, but I just can't anymore. And I
+don't have enough money to purchase editing software with face
+tracking to blur his face.
+
+### The most suspicious points:
+
+#### He didn't care about the consequences to his own property,
+
+#### The messages he left weren't personally significant then but definitely are now,
+
+#### He mentioned specific people by name (whom i didn't remember meeting at the time and i now recall meeting those people)
+
+#### He didn't want me to call my family to let them know where I was
+
+#### He seemed like a crisis actor who retained control of the situation (and me) while displaying almost perfect schizophrenia symptoms down to the word salad
+
+NO DRUGS WERE CONSUMED, except we did smoke a bit of weed. LSD123 is
+something he wrote on the walls, which led to questions from the
+mental health officers who came to my aid after 14 hours fo this.
+
+### [The Aftermath](https://youtu.be/Lim6F4XiLvM)
+
+### [The Wrath of Dextro](https://youtu.be/FVE21m-5rzY)
+
+### [The Calm Before the Storm](https://youtu.be/5R-jV1Jlaic)
+
+# Why Would Killary, an Associate or the Government Want Retaliation? ...
 
 ### "Whistleblowing" with Tweets about NSA Surveillance since 2005
 
