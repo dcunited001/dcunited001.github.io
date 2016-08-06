@@ -14,6 +14,66 @@ excerpt: ""
 #### &#x2605; [Workplace Bullying](te.xel.io/posts/2015-02-21-workplace-bullying-part-one.html)
 #### &#x2605; [Seven Negative Career Experiences](http://te.xel.io/posts/2015-07-04-seven-negative-career-experiences.html)
 
+# TL;DR; REALLY?! WELL HERE'S A FUCKING LIST OF GRIEVANCES!
+
+#### &#x2605; Opportunity for billions of dollars (but really who cares ... It's "opportunity" and this is only America, right?)
+
+#### &#x2605; credibility
+
+#### &#x2605; self-respect
+
+#### &#x2605; respect from friends and family
+
+#### &#x2605; accomplishment
+
+#### &#x2605; sense of accomplishment
+
+#### &#x2605; emotional stability
+
+#### &#x2605; tons of ideas
+
+#### &#x2605; any reasonable budding relationship (platonic or otherwise ~= a la "thirsty")
+
+#### &#x2605; the bottom 3 layers of maslov's hierarchy of needs (via systematic plan requiring medical, neurological, psychological, sociological info/analysis)
+
+#### &#x2605; HIPAA rights
+
+#### &#x2605; every single right in the bill of rights
+
+#### &#x2605; the ability to make a true first impression (via poison pen and smear campaign)
+
+#### &#x2605; apparently my tax dollars bc they paid for this shit
+
+#### &#x2605; the self-respect of politicians/family/friends who were clueless then powerless
+
+#### &#x2605; my right to form contracts (while sober)
+
+#### &#x2605; my right to a lawyer
+
+#### &#x2605; my right to property
+
+#### &#x2605; my right to not live with someone coerced against me (3rd amendment),
+
+#### &#x2605; my right to a trial and notification of charges (6&7),
+
+#### &#x2605; my ability to help others through imposed poverty(which restricts/culls social connections),
+
+#### &#x2605; my brand/image,
+
+#### &#x2605; my life,
+
+#### &#x2605; my story,
+
+#### &#x2605; my ability to speak freely (which is restricted by "agreements" of which I am fully unaware!),
+
+#### &#x2605; my dignity,
+
+#### &#x2605; my integrity (mostly bc I cannot hold myself responsible for actions I do not know occured or their degree of impact),
+
+#### &#x2605; my sense of inner peace ("taken" by those, first by force and mistreatment and second by accusations that I'm a sociopathic bully because I do not feel guilty for what I don't know)
+
+#### &#x2605; the love of my life (who may or may not have ever spoken to me and certainly will not anymore)
+
 ### "Whistleblowing" with Tweets about NSA Surveillance since 2005
 
 First of all, this is part of an epic story that has been going on for
@@ -231,7 +291,7 @@ everything I've got. And I've got a lot. And I want to be able to ask
 some mother fucking questions and I'm so fucking tired of having
 people accuse me of being crazy or some shit.
 
-### Sent to to Priori Legal Attorneys (7/2016) and ACLU (8/2016)
+### No Indication of Crime or Evidence or Investigation (6th Amendment)
 
 I have received virtually no indication that I have committed any
 crime. Or that I am or ever was the subject of any investigation.
@@ -243,3 +303,117 @@ one of the things that's kept me safe. They will not hesitate to get
 you in contact with people who commit such crimes (for
 fun/profit/boredom/whatever) and that's one of their tactics for
 handling threats actually.
+
+### Sent to to Priori Legal Attorneys (7/2016) and ACLU (8/2016)
+
+```
+Thanks for your message! When I submitted my request, I was actually
+walking through the UI of the Priori Legal app, since I was
+interviewing via Hired.com.
+
+I don't know that I'm looking for legal advice per se. I do have one
+question though -- and of course this turns into 1,500 words. I
+remember interviewing with a developer named Dan and eventually with
+the CEO. I wanted to know if the reason you didn't hire me had
+anything to do with any kind of background check á la John
+Oliver. While I don't remember submitting much background check data,
+I was wondering if you guys ran anything like that when I applied.  It
+was via Hired.com, so they may have provided something there.
+
+I know, it sounds like a sketchy question to answer, especially since
+you emailed me, but I've had a few difficulties at the one of the last
+jobs I've had.  My direct manager gave me a really hard time right
+after I submitted my background check. He was basically manufacturing
+reasons to fire me and assaulting my credibility with other employees
+before my first week was over.  I developed something along the lines
+of PTSD, though never diagnosed. And when I say I had a hard time, I
+had a really fucking hard time, mostly just with him. I couldn't let
+go until I wrote 20,000 words on Workplace Bullying. in addition to
+severe personal issues, which were just additional fodder used against
+me... I think writing these blogs has made it tougher to get a job,
+sometimes.  But if I hadn't written them, I would have never, ever
+attained closure after this job.
+
+Additionally, our CEO at this company treated me to lunch, personally,
+just to ask me about my background check -- although he was a much,
+much cooler guy. Again, I experienced few problems, except from the
+one manager, but it was a small company.  I explained everything and
+he didn't mention anything then.  Because of how they handled it, I
+think something really bad came back on my background check that I was
+unaware of. I have found it so difficult to find a job since then,
+that I've essentially given up. And they implied that they may not
+have been legally permitted to explain what was on my background
+check, but never indicated that directly. At the time, it didn't make
+sense. Why would they so carefully step around a background check
+which should only include a Marijuana possession and DUI?
+
+I had similarly tough experiences at three previous jobs, though to
+not nearly the same extent.  At every single workplace since 2010, I
+have had exactly one person that gives me hell until I'm fired. I
+should have made at least $500,000 since 2010, but have only worked
+enough to make about $150,000. But it feels like this dark, dark cloud
+is just following me around wherever I go and it is horrible.
+
+The single person that I have problems with always seems like they
+have been trained in psychology and used it against me. Twice, the
+person has had military experience. Once, they had counterintelligence
+on their resume. I have been nearly driven to suicide over this and
+all in all, the last 10 years of my life have been hell. I made $1,717
+in America last year (not a typo) and I have no idea why I have such a
+hard time finding a job. I practically gave up after June 2015, so I
+haven't been looking. But I'm stuck in Roanoke, VA and I can't network
+with anyone or find any decent tech job.
+
+Obviously, I have nothing against you guys. Likely, there was just a
+better candidate. I remember not having worked with Rails for about a
+month prior to the tech interview. When I had the final interview with
+the CEO.
+
+==============================
+
+Furthermore, in Boulder, a coworker introduced me to someone at the
+same office, but who worked for different company. I only ever briefly
+spent time with him, a handful of smoke breaks at tops. In November, I
+was homeless and this guy had just gotten out of a mental institution
+a day or two prior. He offered me a free place to stay. Within 48
+hours I had the most alarming, frightening experience in my
+lifetime. I felt threatened and there were so many red flags:
+
+- he was waving around a large rock,
+- the experience lasted 14+ hours,
+- he was definitely suffering severe schizophrenia symptoms: couldn't
+  stop talking; word salad, erratic, violent behavior
+- in stark contrast, he was tactfully controlling my behavior
+- he practically forced me to record video
+- he began writing on the walls, indicating that he wasn't concerned
+  with the consequences
+- he wrote sacroligous messages. and also messages about drugs, which
+  led to tough questions from the officers when they arrived.
+- he got particularly nervous/controlling when I wanted to make a
+  phone call and more so when i wanted to call my family
+- i became very scared when I realized that no one knew where I was
+- he would follow me around, with the rock. his behavior was tightly
+  coupled to mine (even though he was babbling incoherently)
+- if it hadn't been for two complete strangers who passed by i may not
+  have been able to get them to distract him enough to call the cops
+  without upsetting and alarming him
+- the phone that was used to record the video was stolen, on Election
+  Day 2014, a federal holiday, at the Election Headquarters.
+  - the day it was stolen was the same exact day i began to use it
+    again, as my mom drove out of town with my other phone
+  - if I hadn't incidentally stored copies of this disk on an offline
+    hard disk, i wouldn't have been able to upload these videos
+
+I am like 90% sure he was going to murder me and then show the videos
+of the experience and act like we were both doing drugs and I freaked
+out and he grabbed the first thing he could (a massive rock) and
+defended himself by smashing my skull in it.....
+
+Here's the state of his apartment the day after. This is just one more
+thing that happened to me in Boulder that was ridiculously crazy. And
+loosely connected to my workplace.  I have written a list of seven
+different reasons I could sue that place, though I don't plan on
+pursuing legal action. It's been 3 years and I would feel bad because
+if I did it, i'd fucking sue them out of business and 30 people out of
+a job.
+```
