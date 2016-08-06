@@ -166,3 +166,27 @@ Astronomy as a means for recognizing reincarnation ... somehow
 - but... how?
 
 =============
+
+
+So... There are many answers out there to Fermi’s paradox. One of
+those answers is that we’re looking for emission of radiation. It
+turns out that radiation emission from a planet may only last a few
+hundred years because there’s a much more efficient technology out
+there.
+
+Also, I believe there might be some kind of Quantum Web, coupled with
+both a universal language and universal quantum networking
+protocol. The existence of these things would allow us to tap into a
+cosmic internet, powered by a local supercluster party-line and
+communicate without energy, for free. This would allow us to
+communicate at faster than the speed of light and transfer
+consciousness across the cosmos into awaiting android bodies, without
+the need to travel.
+
+Bad news: energy demands are still high for local life though, so
+we’ll still need Dyson Spheres. More bad news: no epic Star Trek
+journeys. Nope. Well, OK maybe, but not really. We wouldn’t need
+to. Once we connect with all those other civilizations, we can fork
+our consciousness to epic space bodies and have freeky alien sex and
+there’s probably a lot of tentacles involved.... more is better,
+amirite?
