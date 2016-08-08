@@ -8,6 +8,8 @@ author:
 excerpt: ""
 ---
 
+================================
+
 ### general objectives for every policy in the next decade
 
 1. Does this help end poverty?
@@ -65,3 +67,25 @@ excerpt: ""
 14. Does it allow us to maintain a strong military?
 15. Is it part of a unified, coherent policy?
   - does the left hand know what the right hand is doing?
+
+================================
+
+(on hillary) i mean i'd feel badly for anyone in that position,
+regardless of what they did and especially in contrast to how they act
+about what they did. it's not as easy to understand people as it seems
+and if they can't assess their own relationships with others honestly,
+then it's almost more sad. this entire thing is sooo fucked up
+
+Vote for the best candidate. To me, your vote isn't as important as
+why you cast the vote you did. And in our elections, that reasoning
+and being vocal about it has the potential for more effect than any
+vote or financial contribution ever could. It's that simple.
+
+#Trump is breaking out the Big Tent again. and we're going to unify
+America so we can make progress in the world
+
+but we actually need fiscal conservatism, combined with social
+liberalism (with the ability forsmall communities to structure their
+lives according to religious freedom while respecting the lives/views
+of individuals) if we can do that, while unifying America and
+retaining a strong military, we're going to be just fine

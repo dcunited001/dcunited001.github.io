@@ -15,13 +15,14 @@ censorship everyday. The menace of tyranny has been growing for years
 and by the time we recognize it for what it is, it will be too late.
 
 The development of all new ideas and knowledge is greatly hindered by
-censorship of any kind. This includes philosophy itself. Furthermore,
-America's stride towards social progress around the world has been
-reduced to a wimpering stagger by censorship and manipulation of
-social media. We promise such great works around the world, but what
-does it say when the world can see we obviously can't speak openly at
-home. If we pride ourselves on freedom to religion and freedom of
-speech, what does this say? And what kind of election is this?!
+censorship of any kind. This includes philosophy, science, medicine,
+and art. Furthermore, America's stride towards social progress around
+the world has been reduced to a wimpering stagger by censorship and
+manipulation of social media. We promise such great works around the
+world, but what does it say when the world can see we obviously can't
+speak openly at home. If we pride ourselves on freedom to religion and
+freedom of speech, what does this say? And what kind of election is
+this?!
 
 The first essay will discuss the effect censorship has on the
 development of knowledge in general. The second essay will cover
@@ -78,13 +79,16 @@ and it is because of the nature of information; it is inherently
 metaphysical! I am not going to get into the specifics of *the
 prophecy*, but there is nothing any person or group can do to stop the
 things I am talking about. You could destroy me and destroy every
-fragment of my memory and it would not matter! The truth is I, as an
-individual, am irrelevant! And yet, I don't think my job here is done.
+fragment of my memory and it would not matter! The truth is that I, as
+an individual, am irrelevant! And yet, I don't think my job here is
+done. I feel like I have a lot to offer the world and that I'm just
+getting started.
 
-In the end, there is one future and it cannot be denied. The only
-question is -- how will we get there? Will we be together when we
-arrive? Or will we rip ourselves apart trying to fight our fate or
-profit from our destiny?
+In the end, there is one future and it cannot be denied. In the end,
+no matter how long it takes, we get to a future that is the same, at
+least for our corner of the universe. The only question is -- how will
+we get there? Will we be together when we arrive? Or will we rip
+ourselves apart trying to fight our fate or profit from our destiny?
 
 So, instead, we have to determine not where we are going, but how we
 are going to get there! Do we want the path towards this future to be
