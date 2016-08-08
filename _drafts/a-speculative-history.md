@@ -1,4 +1,4 @@
-### part 3 stars here
+### part 3 starts here
 
 writing in dilmun?  probably not
 - dilmun was partially submerged by 8000 BC and mostly submerged by 6000 BC.
@@ -28,6 +28,94 @@ writing in Sumeria (4000 BC)
   - as they communicated with art, particular symbols and styles would emerge to represent similar ideas
 - however, they wouldn't be writing in a way that left a permanent trace,
   - that is, until the sumerians started keeping financial records.
+
+==========
+
+(possibly another post)
+
+- to prevent a fermi's paradox extinction event, there's a few
+  questions that a intelligent species should/must always consider, at
+  least until they pass several critical filters (this could be an
+  entire separate article)
+- this means that these should remain questions that are mostly
+    unanswerable or require faith to deduce. two of these include:
+  - (1) They must always search for their origins.
+    - Each generation must re-evaluate what it knows and question
+      its origins until this is solveable. Or at least this is very
+        helpful in that each generation must re-evaluate it's own
+        origins with accumulated knowledge
+    - whoever controls the past controls the future.
+      - by constantly rediscovering more about their past, they will
+        have the opportunity to re-evaluate their own origins and,
+          thus, the meaning of their origins.
+      - imagine this wasn't so fairly straightforward early on and
+        that man was trapped on the coasts of australia until they
+          seized on freedom with navigational & seafaring tech. they
+          wouldn't constantly question their origins or be able to
+          adjust that.
+      - i believe it's incredibly useful to adjust that lense used
+        to understand the significance of your own culture(s) by
+  - (2) They must not know whether they are alone in the universe.
+  - other things that should remain unanswered or things that
+    generally help an intelligent species avoid a great filter in
+       Fermi's Paradox
+  - they can't answer what the meaning of life is
+      - they can't conclusively whether there is a God (akin but not
+        equivalent to being able to answer whether there is life)
+      - they can't inhabit the entire planet until they are ready
+      - they can't develop specific technologies until they are ready
+      - they all develop [mostly] at the same time.
+        - this means
+      - they all regard each other as equals
+      - there isn't one dominant "race" or superpower that subjagates
+        the others.
+
+==========
+
+post-it (digitized on 8/8)
+
+(need to restructure all of this)
+
+After ascertaining the cause/nature of recurrent catastropic floods,
+ancient people sought a safe haven.
+- some realized that deglaciation was causing it, so they needed
+  to understand geography and to be able to communicate on a wide
+  scale
+- those that realized that deglaciation was causing it.
+  - they would have wanted to inhabit areas close to rivers that were
+    higher elevation and risky for total destruction in a major flood.
+    - they also would want to inhabit areas close to glaciers to
+      monitor for impending floods and close to
+  - A few realized that the amount of ice was finite and thus, this
+    transition period of flooding was limited.
+    - (some of this should be moved)
+    - they were also familiar with the nature of myth and information
+      and understood that they could control how people thought about
+      massive floods long after they stopped.
+    - they knew that thousands of years after the flooding stopped
+      people would forget about it totally (this was before the
+      persistence of most knowledge beyond 3 generations)
+      - but they knew they pain of near-total civilizational
+        destruction should never be forgotten
+- at the same time, of those who realized a safer more stable world
+  would arrive, there were those who were disgusted by their own
+  sinful nature. they wanted man to forget their history to give us a
+  clean start.
+  - they also knew how important it was to always search for your
+    beginnings.
+- so a few wise men thought:
+  - we can find a peaceful land by the rising sea, away from the river
+    flooding powered by steady deglaciation. Others amoung us can live
+    close to the glaciers, but out of the flood zones. They can keep
+    an eye out for melting or a break in the levee
+- but the wisest amoung them knew all traces of our lowly seaside
+  civilization will mostly disappear, as will traces of most
+  settlements in some areas. this might ease mankind's memory of
+  perhaps their most disgraceful days. And they will forever search
+  for their origin and identity. They might be blessed by their
+  amnesia.
+
+==========
 
 ### 8,000 BC - 5,000 BC
 
