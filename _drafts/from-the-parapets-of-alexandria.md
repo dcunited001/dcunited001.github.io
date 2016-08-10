@@ -27,6 +27,26 @@ excerpt: ""
 
 #### Part Three: Censorship In Social Media (title?)
 
+intro:
+
+America and the industrialized world now communicate almost completely
+using digitized media.  Text messages, emails, VOIP, video: each are
+digital, each carries metadata that can be collected and
+datamined. This changes the nature of communication. It means that, if
+effectively all socialization occurs over digitized media and with
+common digitized protocols, then any party who controls that shared
+fabric of communication has immense power. They can change what you
+see by affecting the bahavior of newsfeed and clustering
+algorithms. They can prevent others from seeing your messages by
+intercepting them or muting the notifications. If they're textual
+messages how would you or the other party become aware? They can
+deploy exploits like this only when it's safe to assume you wouldn't
+communicate about it: like when your GPS signals aren't in the same
+location. And if they simply mute the notification -- oops it must be
+a bug or something.
+
+
+
 - how do they do it?
   - algorithms/etc (i already have this lined up)
     - overview, not too many specifics

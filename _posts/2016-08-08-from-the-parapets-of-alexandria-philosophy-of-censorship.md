@@ -15,10 +15,13 @@ excerpt: ""
 What effect does censorship have on development of society, culture,
 technology and discourse? This can be demonstrated with many examples
 where restricted discourse led to stagnated development in each of
-these dimensions of humanity. This leads to a phenomenon which is the
-opposite of the Singularity: progress plateaus. In any case, a plateau
-or stepped progression may be natural, but this is a certainty, given
-a level of censorship.
+these dimensions of humanity. This stagnated discourse leads to dead
+ends in the graph of knowledge, for individuals and groups.
+Blacklisting and whitelisting knowledge restricts requisite knowledge,
+without which humanity simply cannot progress further.  This leads to
+a phenomenon which is the opposite of the Singularity: progress
+plateaus. In any case, a plateau or stepped progression may be
+natural, but this is a certainty, given a level of censorship.
 
 Central to this series is the observation that the global elites could
 not have misunderstood the progression of technology and it's effect
@@ -40,6 +43,7 @@ transmission of information cannot be impeded, which is why, if there
 were to be a total collapse, it would occur now. As in right now. As
 in within the next few years. A decade at the most.
 
+### Thermopylae, Marathon and Kublai Khan
 
 How does cheap and free transmission affect people? How does it lead
 to progress? The power of a simple message unimpeded can change the
@@ -73,6 +77,13 @@ particular, it is about the democratization of music production
 hardware. It is the first time that *everyone* had access to all the
 equipment needed to produce music, no crazy white man involved.
 
+Hip Hop represents the equivalent of the Internet in terms of
+democratization of technology in the music industry. It is the 20th
+century's equivalent of the printing press. It is similar in how
+economic and technological factors transformed social and cultural
+conditions. This empowered millions of people and cutting out those
+few who stood in the way since the birth of radio and mass media!
+
 In the late 70's and early 80's, music production equipment was still
 expensive, but it was the first time since the invention of radio that
 someone could produce and record music by themselves. Along came the
@@ -89,25 +100,20 @@ syndication on the radio waves. It was this change in the economics
 and technology of music that paved the way for the cultural revolution
 known as Hip Hop.
 
-Hip Hop represents the equivalent of the Internet in terms of
-democratization of technology in the music industry. It is the 20th
-century's equivalent of the printing press. It is similar in how
-economic and technological factors transformed social and cultural
-conditions. This empowered millions of people and cutting out those
-few who stood in the way since the birth of radio and mass media!
-
 Def jam poetry evolved into MC's lyrical style. Block Party DJs like
 ‪‎Kool Herc‬ and ‪Africa Bambaataa‬ battled with innovative DJ styles and
 collaborated to architect a cultural movement that simply couldn't be
 stopped. Lyrics provided a lens into conditions and poverty in ethnic
 urban communities which were otherwise lost and forgotten. Until this
 radio explosion radio was tightly controlled and continued to be for
-decades. The cassette recorder & player was the next major
-advancement. It meant anything with a headphone out or a tape
-interface could record a mixtape that could be copied and shared with
-friends. No longer could white, corporate types maintain a music
-industry cabal. Everyone who could afford a Walkman or earlier
-incarnations of cassette tech could make their own music.
+decades.
+
+The cassette recorder & player was the next major advancement. It
+meant anything with a headphone out or a tape interface could record a
+mixtape that could be copied and shared with friends. No longer could
+white, corporate types maintain a music industry cabal. Everyone who
+could afford a Walkman or earlier incarnations of cassette tech could
+make their own music.
 
 Again, democratization of music production birthed a genre of music
 giving a voice to those otherwise silenced for generations. And why?
@@ -118,8 +124,8 @@ to things!
 
 ###
 
-Why did Black Lives Matter arise in 2014, 2015 and 2016? Because of
-the democratization of government statistics required for data
+Why did Black Lives Matter arise in 2014, 2015, and 2016? It was the
+democratization of government statistics required for data
 science. Quite simply, before this time, most of that data had been
 inaccessible. In the early 2010's and especially in late 2013, there
 was a huge push to democratize data for all governments in the United
@@ -128,45 +134,154 @@ States and around the world. In the US, state and local governments
 incarceration records.
 
 It was this movement to digitize and publicize data that sowed the
-seeds for the anger that ensued. This anger was well justified, though
-I hope we funnel this into positive movement and come together. The
-reason people were so angry is because they could finally show that
-there was a lot of unconscious racism across America. Furthermore,
-there were these pockets where institutionalized racism was
-harbored. These places were cities and districts where it was
-UNDENIABLE that you had conscious, instituationalized racism, where
-the local law enforcement was acting as "Sherrifs of Nottingham" and
-intentionally enforcing laws in pursuit of suppression. These places
-were few and far between IMO. Ferguson is such an example, where the
-disparity is so pronounced it is undeniably conscious.
+seeds for the anger that ensued. It it was something that was
+inevitable. This data would have inevitably become available. Some
+people woul dhave been ready for it. This anger was well justified,
+though I hope we funnel this into positive movement and come
+together. The reason people were so angry is because they could
+finally show that there was a lot of unconscious racism across
+America.
+
+*Furthermore, there were these pockets where institutionalized racism
+was harbored.* These places were cities and districts where it was
+*UNDENIABLE* that you had *conscious, instituationalized racism*,
+where the local law enforcement was acting as "Sherrifs of Nottingham"
+and intentionally enforcing laws in pursuit of suppression. These
+places were few and far between IMO. Ferguson is such an example,
+where the disparity is so pronounced it is undeniably conscious.
 
 In subsequent sections, I'll discuss how social media newsfeed
 algorithms have vulnerabilities and flaws that increase division in
 America. In particular, clustering algorithms and others have runaway
-feedback loops that have a runaway affect that *DIVIDES
-AMERICA*. These algorithms are difficult to design, tweak and validate
-in the first place, but there are major problems here, as far as I can
-see.
+feedback loops that have a runaway affect that *DIVIDES AMERICA*.
+These algorithms are difficult to design, tweak and validate in the
+first place, but there are major problems here, as far as I can see.
 
 ###
 
-- effect on discourse
-  - "dead ends" in the graph of knowledge, without access to requisite
-    knowledge.
-- mention whitelisting/blacklisting
+Tight control over communication media and content stifles social
+change before it has a chance to grow. These policies are usually
+implemented in order to encourage some facets of culture blessed by
+state or idealogy and to discourage others. It becomes harder for new
+cultural developments to take root and grow large enough to challenge
+those of the status quo. The next blues, rock or hiphop might simply
+never happen.
 
-Who loves ‪#‎HipHop‬? I do. It
+This starkly departs from some of my previous statements on
+culture. Basically, as communication infrastructure encourages the
+rapid spread of ideas and information, the speed and bandwidth at
+which an memes traverse the globe approaches infinite. Therefore, our
+world becomes much more affected and determined by *IDEAS* themselves.
+In otherwords, as limitations to communication tend toward zero, then
+these aethereal metaphysical entities like beliefs and ideas begin to
+take precedence over the physical realm, regardless of whether virtual
+or reality. Regardless of whether true or false.
 
-The 808 drum machine
-and similar equipment (expensive, but not prohibitively so) expanded
-music production control to more people and removed the requirement of
-a staffed studio from the logistic equation. Cheaper sampling also
-changed the game and paved the way for innovation. ONE PERSON could
-produce music in a way that was easier and cheaper than ever
-before.
+Ideas begin to take a life of their own and their effects
+reach into reality at an ever-increasing pace. They acquire a life of
+their own. They are like metaphysical entities which once were bound
+by slow information replication rates and then hierarchical control
+over mass media. The more we can communicate, the more power ideas
+have. If these ideas have such unfathomably increased power, then we
+need to pay more attention to them. Therefore, the surveillance and
+epidemiology of memes should be measured, quantified, analyzed,
+predicted and carefully controlled.
 
-- would this same development be possible when the means of
-communication have been seized?
+This was and is *"the prophecy"*, or at least part of it as a was in
+mid-May 2013... It's not so much of a religious thing as it is a
+complete reunderstanding of the world in the information age. Neither
+it nor its implications are incorrect, but instead require a bit of
+common sense so we don't go apeshit with censorship and social
+engineering. In context and in practicality, ideas and technology can
+be very dangerous today and therefore, there is good reason for some
+restriction on communication or what people see. However, in its
+overzealous fervor to censor every damn thing the government disagrees
+with, we could very easily create a situation where we stifle
+innovation at a most critical time, where the most beautiful thing
+we've ever created is instead roped off or turned against us.
+
+The internet is absolutely glorious in its ability to revolutionize
+the world. But like fire, any great tool or technology can be used for
+good and can be used for evil. The same technology used to create
+plows was used to work metal for weaponry. I fear the day when we can
+no longer ask questions or a simple statement can be retroactively
+used as justification without proof. Government action can
+surreptitiously act against public will, without notification. I have
+feared this since high school, at least. I could only predict and
+analyze NSA capabilities because of the effort I put into thinking
+about what they could do.
+
+Our rights are sacred. They descend from God. They do not come from
+man. Man cannot give us our rights and man cannot take them away. Our
+founding fathers simply recognized the reality of the social
+contract. When government oversteps their bounds, what happens is
+that, behind the scenes, God or Providence or whatever you want to
+call it acts to stir man against the sins of tyranny. This occurs as
+long as we can see or talk about these acts of tyranny.
+
+Insofar as I understand it, this is why our founders claimed that
+certain inalienable rights descended from God. Man's natural tendancy
+is to be good and just. When we receive the right information and
+these problems are framed in the right way, we will stand against the
+unjust suffering of others. If it weren't for this, why should a
+handful of academics, politicians and pundits go through such lengths
+to mislead, obfuscate, and deceive?
+
+*IT IS BECAUSE THEY FEAR THE PEOPLE.* They fear that the free exchange
+of information will lead to drastically reduced education costs and
+that people across the world will learn about how they have been
+misled, sometimes for good reason, as there are arguments to attack
+every policy.
+
+Democracy is the worst form of government, except all the others. Its
+biggest weakness is susceptibility of its people and institutions to
+foreign influence. During the past two decades, foreign influence in
+America has undermined the media with subversion and suggestion. As
+bandwidth increases the capabilities of and reliance on information
+economy structures, then the power that ideas have on our world
+implies our government becomes all the more vulnerable to information.
+
+Given that our corporations publish everything to the world, but
+economies like China are all-but-closed, that puts American and
+democratic industries at a perpetual disadvantage. Given that our
+borders are mostly open, sometimes without reasonable immigration
+policy or even a fence, that makes it very easy for a few people to
+slip in who mean us harm or could exfiltrate the fraction of data we
+haven't published to the world. from 2010 through 2013, I read
+countless articles where China was accused of intellectual property
+theft and industrial espionage.
+
+Our economy is everything. If America doesn't have an economy, we're
+toast. Americans don't understand how our world is changing and we
+have enemies who don't want us to respond in time. I am not being
+alarmist. I am being realistic. This is how it is going to go
+down. They loaned us money and stole F-35 design specs. Yeh the F-35
+program. The one where we spent fucking $1.5+ Trillion with a fucking
+tee. Actually, I have know idea what the total is I just know it has
+13 digits. What the fuck did we borrow and spend that money for? Why
+didn't we just let China develop the jet and steal it from them?
+
+My point is that we have entered the information age. We live in a
+world where surface area to SIGINT, MASINT and HUMINT fucking
+matter. This shit is serious. We're worried about who uses which
+bathroom and no one bothered to pay attention when they fucking stole
+everything! So, information and how it disseminates matters.
+
+We can blind ourselves and stunt our own development by censoring
+everything. Free information exchange has advantages as well. Working
+in secret or without access to the entire internet is also a major
+disadvantage, but what does it matter if foreign hacker syndicates
+just steal it from you in the end? Yet, if we don't have free access
+to information, we'll never have another Steve Jobs or Einstein or
+Elon Musk. Imagine if Albert Einstein was only allowed to view
+specific patents. Or the government arbitrarily told him he couldn't
+use anything he saw for his own research. Or if he never received any
+information from the patent office, but they just decided they didn't
+want him to be the guy that published `E=mc^2`... Baby Einstein?
+Relativity? *NOT ON My WATCH!!* `E=mc^2` ?! *NOT IN MY 'MERITOCRACY!!*
+
+
+
 
 #### Part Two: Philosophy of Censorship
 
