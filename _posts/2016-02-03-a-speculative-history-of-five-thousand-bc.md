@@ -31,9 +31,12 @@ humanity's collective unconsciousness.
 
 ![deckard cain photo](/img/posts/2016-02-03-a-speculative-history-of-five-thousand-bc/stay-awhile-and-listen.jpg)
 
-## War & Peace
 
-### A Cautionary Tale
+
+
+# [War & Peace](#war-and-peace)
+
+### [A Cautionary Tale](#a-cautionary-tale)
 
 The two earliest major civilizations in our world were the Sumerians
 of the Mesopotamian and the Harrapans of the Indus Valley, which were
@@ -47,7 +50,7 @@ evidence we had were artifacts found in Sumerian cities.  At that
 point, we weren't aware of that the Indus Valley Civilization (ICV)
 existed.
 
-### Sumeria
+### [Sumeria](#sumeria)
 
 Sumeria is known for its ziggurats, it's cities, for fostering
 agriculture and, most famously, the first system of written language.
@@ -71,7 +74,7 @@ center of the world.  Identify this with a bit of geography, find a
 way to occupy it and regulate commerce and you're set for generations.
 It is this power that people have been fighting over for millennia.
 
-### Harrapa
+### [Harrapa](#harrapa)
 
 Harrapa is famous as a technologically advanced civilization that
 vanished, only recently rediscovered in the last century, whose
@@ -89,6 +92,8 @@ understanding of fluid dynamics.
 #### Ruins from Mohenjo Daro
 
 ![Mohenjo Daro Ruins 1](/img/posts/2016-02-03-a-speculative-history-of-five-thousand-bc/mohenjo-daro.jpg)
+
+### [Forethought Implies Generations of Accumulation](#forethought-implies-generations-of-accumulation)
 
 It requires forethought! You really can't build on top of existing
 settlement infrastructure for a major project like that.  You've
@@ -116,13 +121,15 @@ all their money building temples either.
 
 ![Mohenjo Daro Ruins 2](/img/posts/2016-02-03-a-speculative-history-of-five-thousand-bc/mohenjo-daro-2.jpg)
 
+### [Introspection, Measurement and Knowledge Propagation](#introspection-measurement-and-knowledge-propagation)
+
 And finally, building cities to this degree of craftsmanship,
 including other feats such as multi-story buildings, requires
-cultivating systems of understanding, measurement and knowledge
+cultivating systems of introspection, measurement and knowledge
 propagation.  They obviously valued knowledge, intelligence and
 wisdom. It's these observations, among others, that lead me to believe
-these people had a kind of academic class.  They seemed to understand
-that they could improve their lives through technology.  To the point
+these people had a kind of academic class. They seemed to understand
+that they could improve their lives through technology. To the point
 that the pursuit of technology itself was immensely valuable.
 
 The Sumerians and so many others after them realized the value of
@@ -131,6 +138,8 @@ attempt to horde it for themselves when it was useful and stifle its
 development when it threatened whatever good thing they had goin' on
 at the time.
 
+### [Knowledge Hoarding](#knowledge-hoarding)
+
 But why?  Why the contrast here?  Why did the two civilizations have
 completely different perspectives on the phenomena of knowledge, the
 purpose of technology and the release of humanity from the constraints
@@ -138,7 +147,7 @@ of nature?  Whereas it appears Harrapa sought to free man from the
 suffering and chaos of nature for the benefit of everyone, Sumeria
 sought to use technology to construct monoliths and towering empires.
 
-And forget about Sumeria.  What about this Shangri-la?  To me, it's
+And forget about Sumeria. What about this Shangri-la?  To me, it's
 not so surprising that their buildings vanished, but it's confounding
 to wonder why their culture completely disappeared.  I can understand
 the cities, but why does it seem that their art and architecture
@@ -148,7 +157,7 @@ What about their language? Why are there no remnants of intermediate
 written forms?  To this, I believe it is because the change was quick.
 And it makes for a fascinating story, too. Absolutely epic.
 
-### A Cold Snap Back to the Last Ice Age
+](#a-cold-snap)
 
 There's a lot missing from human history ... IMO, pre-history, as
 defined by a lack of written history, ended much earlier than we can
@@ -157,6 +166,8 @@ the evidence?  Why is it that we don't see any widespread systemized
 written language before ~4,000 BC. Where are the engineering marvels
 of ages long past?  There's a good explanation for that, although
 it doesn't completely encompass the utter lack of evidence.
+
+### [Back to the Last Ice Age](#back-to-the-ice-age)
 
 So, let's take a trek back to 12,000 BC, the turning point at the end
 of the last ice age.  With google maps and a 60 year generation, it's
@@ -169,16 +180,18 @@ that the dynamic nature of geography would have been very apparent to
 at least some of our ancestors at the time.  More on this, in just a
 second.
 
+### [Unstable Geography Inhibited Cultural Development]
+
+One picture is worth a thousand words, am I right? You can glean much
+better info from NOAA's ocean bathymetry maps. You can see several
+landmasses in particular that are now missing. There's the celebrated
+Bering Strait, of course. And the lesser known landmass connecting
+Africa's Rift Valley with the Arabian Peninsula. Hmmmm, that's odd.
+Korea and Japan are touching. Ooohlala.
+
 #### The Geography of ~12,000 BC:
 
 ![map of ice age](/img/posts/2016-02-03-a-speculative-history-of-five-thousand-bc/sea-level-last-ice-age.gif)
-
-I picture is worth a thousand words, am I right? You can glean much
-better info from NOAA's ocean bathymetry maps.  You can see several
-landmasses in particular that are now missing.  There's the celebrated
-Bering Strait, of course.  And the lesser known landmass connecting
-Africa's Rift Valley with the Arabian Peninsula.  Hmmmm, that's odd.
-Korea and Japan are touching.  Ooohlala.
 
 And, if you've got a sharp eye, you'll notice that there practically
 is no Persian gulf.  Strange isn't it. It was like this, until it
@@ -216,7 +229,7 @@ ever changing geographic features affect the geopolitical situation?
 
 ![Kingdom of Zeal in Chrono Trigger](/img/posts/2016-02-03-a-speculative-history-of-five-thousand-bc/chrono-trigger-zeal.jpg)
 
-### 12,000 BC - 8,000 BC
+# [12,000 BC - 8,000 BC](#12000bc-8000bc)
 
 The world is just beginning its transition.  The conditions are not
 ripe for humanity to tap into it's potential and develop
@@ -235,7 +248,7 @@ for someone.
 See?  Ug nice.  Ug plant many seed, just for you.  Just cuz Ug
 nice. Ug cares. Be like Ug.
 
-### Proto-Language was Ephemeral and Chaotic
+### [Proto-Language was Ephemeral and Chaotic](#proto-language-was-ephemeral-and-chaotic)
 
 As for language, IMO, the development of spoken language was far more
 fluid, chaotic and ephemeral than historians realize.  Remember, the
@@ -282,7 +295,7 @@ think there is an interesting connection between how we learned to use
 primitive vocal forms of communication and modern digital forms of
 expression.
 
-### \\( \aleph_\infty \\) The Collective Unconscious is Countably Infinite
+### \\( \aleph_\infty \\) [The Collective Unconscious is Countably Infinite](#the-collective-unconscious-is-countably-infinite)
 
 This notion of shared experience is crucial to understanding cultural
 development.  The composition of each of our universally shared

@@ -101,10 +101,7 @@ of them. Some of them moved, predictably.
 - names have meaning. different systems of naming people have
   different range and delineation of meaning.
 
-
-
 ========
-
 
 this is about how ideas about fragmented language/culture in the
 series 5000bc relate to reincarnation.

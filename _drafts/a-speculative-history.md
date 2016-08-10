@@ -47,12 +47,12 @@ writing in Sumeria (4000 BC)
     - whoever controls the past controls the future.
       - by constantly rediscovering more about their past, they will
         have the opportunity to re-evaluate their own origins and,
-          thus, the meaning of their origins.
+        thus, the meaning of their origins.
       - imagine this wasn't so fairly straightforward early on and
         that man was trapped on the coasts of australia until they
-          seized on freedom with navigational & seafaring tech. they
-          wouldn't constantly question their origins or be able to
-          adjust that.
+        seized on freedom with navigational & seafaring tech. they
+        wouldn't constantly question their origins or be able to
+        adjust that.
       - i believe it's incredibly useful to adjust that lense used
         to understand the significance of your own culture(s) by
   - (2) They must not know whether they are alone in the universe.
@@ -60,15 +60,14 @@ writing in Sumeria (4000 BC)
     generally help an intelligent species avoid a great filter in
        Fermi's Paradox
   - they can't answer what the meaning of life is
-      - they can't conclusively whether there is a God (akin but not
+    - they can't conclusively whether there is a God (akin but not
         equivalent to being able to answer whether there is life)
-      - they can't inhabit the entire planet until they are ready
-      - they can't develop specific technologies until they are ready
-      - they all develop [mostly] at the same time.
-        - this means
-      - they all regard each other as equals
-      - there isn't one dominant "race" or superpower that subjagates
-        the others.
+    - they can't inhabit the entire planet until they are ready
+    - they can't develop specific technologies until they are ready
+    - they all develop [mostly] at the same time. or iteratively
+    - they all regard each other as equals
+    - there isn't one dominant "race" or superpower that subjagates
+      the others.
 
 ==========
 
@@ -168,7 +167,6 @@ Bronze Age
 - we can see the cultural legacy of sumerian cuneiform in other mesotopian languages
   - but why is it that the harrapan language just disappeared without any real cultural legacy,
     - especially with their language?
-
 
 recent genetic work have shown that
 - a "mixture" of Indo-Aryans and Dravidians began circa 2200 B.C. and ended around 100 A.D
