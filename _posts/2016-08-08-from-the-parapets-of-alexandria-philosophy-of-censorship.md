@@ -19,6 +19,36 @@ Censorship has a major effect
     knowledge.
 - mention whitelisting/blacklisting
 
+- tie in how democratization of music production helped change
+  conditions in poverty stricken neighborhoods in NYC and other large
+  American cities.
+
+Who loves ‪#‎HipHop‬? I do. It represents the equivalent of the Internet
+in terms of democratization of technology in the music industry and
+the equivalent of the printing press in how economic and technological
+factors transformed social and cultural conditions, empowering
+millions of people and cutting out those few who stood in the way
+since the birth of radio and mass media!!
+
+Democratization of music production birthed a genre of music giving a
+voice to those otherwise silenced for generation. The 808 drum machine
+and similar equipment (expensive, but not prohibitively so) expanded
+music production control to more people and removed the requirement of
+a staffed studio from the logistic equation. Cheaper sampling also
+changed the game and paved the way for innovation. ONE PERSON could
+produce music in a way that was easier and cheaper than ever
+before. Def jam poetry evolved into MC's lyrical style. Block Party
+DJs like ‪#‎KoolHerc‬ and ‪#‎AfricaBambaataa‬ battled with innovative DJ
+styles and collaborated to architect a cultural movement that simply
+couldn't be stopped. Lyrics provided a lens into conditions and
+poverty in ethnic urban communities which were otherwise lost and
+forgotten. Until this radio explosion (and including decades
+afterwards) radio was tightly controlled. But the cassette player
+meant mixtape a could be copied and shared with friends. No longer
+could white, corporate types maintain a music industry cabal.
+
+- would this same development be possible when the means of
+communication have been seized?
 
 #### Part Two: Philosophy of Censorship
 
