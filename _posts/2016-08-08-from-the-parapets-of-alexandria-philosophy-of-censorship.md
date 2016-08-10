@@ -140,8 +140,13 @@ intentionally enforcing laws in pursuit of suppression. These places
 were few and far between IMO. Ferguson is such an example, where the
 disparity is so pronounced it is undeniably conscious.
 
-In subsequent sections, I'll discuss
-
+In subsequent sections, I'll discuss how social media newsfeed
+algorithms have vulnerabilities and flaws that increase division in
+America. In particular, clustering algorithms and others have runaway
+feedback loops that have a runaway affect that *DIVIDES
+AMERICA*. These algorithms are difficult to design, tweak and validate
+in the first place, but there are major problems here, as far as I can
+see.
 
 ###
 
@@ -149,10 +154,6 @@ In subsequent sections, I'll discuss
   - "dead ends" in the graph of knowledge, without access to requisite
     knowledge.
 - mention whitelisting/blacklisting
-
-- tie in how democratization of music production helped change
-  conditions in poverty stricken neighborhoods in NYC and other large
-  American cities.
 
 Who loves ‪#‎HipHop‬? I do. It
 
