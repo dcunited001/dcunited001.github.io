@@ -21,8 +21,11 @@ future:      false
 unpublished: false
 
 # Plugins
-whitelist: []
-gems:      [jekyll-paginate]
+whitelist:
+  - jekyll-redirect-from
+gems:
+  - jekyll-paginate
+  - jekyll-redirect-from
 
 # Conversion
 markdown:    kramdown
