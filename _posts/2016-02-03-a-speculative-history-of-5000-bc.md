@@ -1,14 +1,16 @@
 ---
-title: "A Speculative History of 5,000 B.C. (Part One)"
+title: "A Speculative History of Humanity: War and Peace"
 categories: blog
 tags: "anthropology linguistics"
-headline: War & Peace, A Cautionary Tale
+headline: "Sumeria and Harrapa: A Cautionary Tale"
 author:
   name: "David Conner"
 excerpt: "Birth. Death. Sickness. Love. Fear. Friendship. Water. Light. Food.
   These ideas experienced by all with near certainty: they are
   combinated with higher level ideas and form a universal loom on which
   the web of individual psyche is weaved."
+redirect_from:
+  - /posts/2016-02-03-a-speculative-history-of-five-thousand-bc
 ---
 
 So, I'm going to write this article a little earlier than I should
