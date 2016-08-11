@@ -22,28 +22,58 @@ valid seeds to bear fruit, in the right context.  That's why I'm going
 to preface this as speculative history or just fiction really.  But it
 still has all the elements of a great story.
 
-I believe that among other great ideas, I might have found a clue to
-the origins of the proto-indo-european language:
-proto-anthropologists.  I need to explain some things at a high level,
-then dive into some details.  I won't neglect the occasional collapsed
-civilization and catastrophic disasters, nor the archetypes accumulated in
-humanity's collective unconsciousness.
-
 #### Greetings from Deckard Cain
 
 ![deckard cain photo](/img/posts/2016-02-03-a-speculative-history-of-five-thousand-bc/stay-awhile-and-listen.jpg)
 
 
+# Stay Awhile and Listen...
 
+I believe that among other ideas, I might have found a clue to the
+origins of the proto-indo-european language: proto-anthropologists.  I
+need to explain some things at a high level, then dive into some
+details.  I won't neglect the occasional collapsed civilization and
+catastrophic disasters, nor the archetypes accumulated in humanity's
+collective unconsciousness.
+
+## [War & Peace](#war-and-peace)
+
+#### [A Cautionary Tale](#a-cautionary-tale)
+
+#### [Sumeria](#sumeria)
+
+#### [Harrapa](#harrapa)
+
+#### [Forethought Implies Generations of Accumulation](#forethought-implies-generations-of-accumulation)
+
+#### [Introspection, Measurement and Knowledge Propagation](#introspection-measurement-and-knowledge-propagation)
+
+#### [Knowledge Hoarding](#knowledge-hoarding)
+
+## [A Cold Snap](#a-cold-snap)
+
+#### [Back to the Last Ice Age](#back-to-the-ice-age)
+
+#### [Unstable Geography Inhibited Cultural Development](#unstable-geography-inhibited-cultural-development)
+
+## [12,000 BC - 8,000 BC](#12000bc-8000bc)
+
+#### [Proto-Language was Ephemeral and Chaotic](#proto-language-was-ephemeral-and-chaotic)
+
+#### [The Collective Unconscious is Countably Infinite](#the-collective-unconscious-is-countably-infinite)
+
+<a name="war-and-peace" />
 
 # [War & Peace](#war-and-peace)
-
-### [A Cautionary Tale](#a-cautionary-tale)
 
 The two earliest major civilizations in our world were the Sumerians
 of the Mesopotamian and the Harrapans of the Indus Valley, which were
 only recently discovered in the 20th century.  One was plagued by
 warfare and the other vanished after being blessed by peace.
+
+<a name="a-cautionary-tale" />
+
+### [A Cautionary Tale](#a-cautionary-tale)
 
 The Sumerian and Harrapan civilizations breifly coexisted, around
 3,000 BC and undoubtedly knew of each other. There was significant
@@ -51,6 +81,8 @@ trade.  In fact, until the discovery of Harrapan cities, the only
 evidence we had were artifacts found in Sumerian cities.  At that
 point, we weren't aware of that the Indus Valley Civilization (ICV)
 existed.
+
+<a name="sumeria" />
 
 ### [Sumeria](#sumeria)
 
@@ -76,6 +108,8 @@ center of the world.  Identify this with a bit of geography, find a
 way to occupy it and regulate commerce and you're set for generations.
 It is this power that people have been fighting over for millennia.
 
+<a name="harrapa" />
+
 ### [Harrapa](#harrapa)
 
 Harrapa is famous as a technologically advanced civilization that
@@ -94,6 +128,8 @@ understanding of fluid dynamics.
 #### Ruins from Mohenjo Daro
 
 ![Mohenjo Daro Ruins 1](/img/posts/2016-02-03-a-speculative-history-of-five-thousand-bc/mohenjo-daro.jpg)
+
+<a name="forethought-implies-generations-of-accumulation" />
 
 ### [Forethought Implies Generations of Accumulation](#forethought-implies-generations-of-accumulation)
 
@@ -123,6 +159,8 @@ all their money building temples either.
 
 ![Mohenjo Daro Ruins 2](/img/posts/2016-02-03-a-speculative-history-of-five-thousand-bc/mohenjo-daro-2.jpg)
 
+<a name="introspection-measurement-and-knowledge-propagation" />
+
 ### [Introspection, Measurement and Knowledge Propagation](#introspection-measurement-and-knowledge-propagation)
 
 And finally, building cities to this degree of craftsmanship,
@@ -139,6 +177,8 @@ technology too. Yet, their lust for power caused the ruling class to
 attempt to horde it for themselves when it was useful and stifle its
 development when it threatened whatever good thing they had goin' on
 at the time.
+
+<a name="knowledge-hoarding" />
 
 ### [Knowledge Hoarding](#knowledge-hoarding)
 
@@ -159,7 +199,9 @@ What about their language? Why are there no remnants of intermediate
 written forms?  To this, I believe it is because the change was quick.
 And it makes for a fascinating story, too. Absolutely epic.
 
-](#a-cold-snap)
+<a name="a-cold-snap" />
+
+# [A Cold Snap](#a-cold-snap)
 
 There's a lot missing from human history ... IMO, pre-history, as
 defined by a lack of written history, ended much earlier than we can
@@ -168,6 +210,8 @@ the evidence?  Why is it that we don't see any widespread systemized
 written language before ~4,000 BC. Where are the engineering marvels
 of ages long past?  There's a good explanation for that, although
 it doesn't completely encompass the utter lack of evidence.
+
+<a name="back-to-the-ice-age" />
 
 ### [Back to the Last Ice Age](#back-to-the-ice-age)
 
@@ -182,7 +226,9 @@ that the dynamic nature of geography would have been very apparent to
 at least some of our ancestors at the time.  More on this, in just a
 second.
 
-### [Unstable Geography Inhibited Cultural Development]
+<a name="unstable-geography-inhibited-cultural-development" />
+
+### [Unstable Geography Inhibited Cultural Development](#unstable-geography-inhibited-cultural-development)
 
 One picture is worth a thousand words, am I right? You can glean much
 better info from NOAA's ocean bathymetry maps. You can see several
@@ -231,6 +277,8 @@ ever changing geographic features affect the geopolitical situation?
 
 ![Kingdom of Zeal in Chrono Trigger](/img/posts/2016-02-03-a-speculative-history-of-five-thousand-bc/chrono-trigger-zeal.jpg)
 
+<a name="12000bc-8000bc" />
+
 # [12,000 BC - 8,000 BC](#12000bc-8000bc)
 
 The world is just beginning its transition.  The conditions are not
@@ -245,10 +293,12 @@ sources while following migrating animals, food can be harvested if
 returning to the same place later. Or at least, this results in food
 for someone.
 
-> Thus, karma is born ...
+### Thus, karma is born ...
 
-See?  Ug nice.  Ug plant many seed, just for you.  Just cuz Ug
-nice. Ug cares. Be like Ug.
+> See?  Ug nice.  Ug plant many seed, just for you.  Just cuz Ug
+> nice. Ug cares. Be like Ug.
+
+<a name="proto-language-was-ephemeral-and-chaotic" />
 
 ### [Proto-Language was Ephemeral and Chaotic](#proto-language-was-ephemeral-and-chaotic)
 
@@ -296,6 +346,8 @@ acoustic and otherwise, upon which to create vocabulary.  Also, I
 think there is an interesting connection between how we learned to use
 primitive vocal forms of communication and modern digital forms of
 expression.
+
+<a name="the-collective-unconscious-is-countably-infinite" />
 
 ### \\( \aleph_\infty \\) [The Collective Unconscious is Countably Infinite](#the-collective-unconscious-is-countably-infinite)
 
