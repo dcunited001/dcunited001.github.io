@@ -119,6 +119,19 @@ if one's consciousness can be mapped to universes descending from ours
   - with a tree/conic-shaped view of a branch, how do you ascend and
   descend other branches? if you can connect?
 
+- if consciousness could attain some higher form in the crystal across a
+  branch in the metaverse, then could it also pull something off like
+  the metanomics probabilistic program that could ... do something.
+  - crystals would form in different dimensions and could be
+    viewed/grouped with structure along various combinations of
+    dimensions
+    - metaverse can also branch along similar combo's of dimensions
+- when branched out in some dimensions the metaverse *could* have some
+  (partially) continuous surfaces...
+  - if so, is there some way to maintain higher-order chrystals,
+    arrangements or forms based in differentiation, integration, etc
+- a perfect crystal would have
+
 #### Metaverse Forms
 
   - conic
