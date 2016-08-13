@@ -89,3 +89,43 @@ laws of nature hold.
         AI are greater
   - but because of convergence, there is yet less for us to discover
     of the world.  which IMO is just incredibly depressing
+
+how does the assumption of quantum networking relate to how these
+
+#### Metaverse Consciousness Crystallization
+
+if one's consciousness can be mapped to universes descending from ours
+- and if our universe projects those with mappings in itself, then
+  could those values our consciousness maps to there by mapped back in
+  this universe w/o additional info?
+- if so, and if our universe were just descended from another, then
+  couldn't we map back upwards too?
+- again: turtles all the way down ... and turtles all the way up
+  - depending on the constraints imposed on each universe as to how
+    much
+- could you "crystallize" with with metaverse? that is become one
+  across all universes within some virtualized world and
+  - if so, then
+    - you could expect that person or consciousness to react
+      similarly across some set of branches in that metaverse
+      - or the entire metaverse (completely crystallized
+    - are there special properties conveyed by projecting yourself as
+      crystalized through branches in such a metaverse?
+      - does this change with respect to relationships?
+        - 2 overlapping/harmonious crystalizations of consciousness
+          (mapped across a region of the metaverse)
+          - could this convey circumstances of psychic behavior?
+  - and also, ...?
+  - with a tree/conic-shaped view of a branch, how do you ascend and
+  descend other branches? if you can connect?
+
+#### Metaverse Forms
+
+  - conic
+    - graph model with a time/etc component that collapses near the
+      center. can be parameterized with time or with
+  - tree
+  - graph
+  - circular
+
+#
