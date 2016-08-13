@@ -8,6 +8,8 @@ author:
 excerpt: ""
 ---
 
+# **アレクサンドリア**の**丏**から
+
 ### how do we develop new ideas?
 
 - to distinguish b/w an idea that is truly "new" and those that are

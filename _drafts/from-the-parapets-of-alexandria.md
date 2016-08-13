@@ -47,6 +47,8 @@ a bug or something.
 
 
 
+(more about how we blind our own SIGINT via social media algorithms)
+
 - how do they do it?
   - algorithms/etc (i already have this lined up)
     - overview, not too many specifics

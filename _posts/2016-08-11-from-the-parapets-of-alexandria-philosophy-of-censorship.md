@@ -8,6 +8,9 @@ author:
 excerpt: ""
 ---
 
+- TODO: add bookmarks
+- TODO: add ToC
+
 # **アレクサンドリア**の**丏**から
 
 #### Part Two: Ethics of Censorship
