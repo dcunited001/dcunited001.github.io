@@ -55,15 +55,23 @@ branching outwards in every direction.
 
 > Ground control to Doctor Strange.
 
+### This was new to me
+
 (This is all completely new for me, by the way)
 
 - changing from a world determined by the material to one determined
   by the metaphysical
   - which is yet another reason why god is more relevant tomorrow
+    - information becomes much more important
 
-a physical manisfestation of the
-physically embedding our image of the metaphysical and radiating its
-essence to us.
+a physical manisfestation of the self-similar, physical embedding our
+image of the metaphysical and radiating its essence to us. 
+- (...what exactly did i mean by this?)
+
+a physical manisfestation of the self-similar reflection of the
+metaphysical. (i.e. CPU's are basically a reflection of logic from
+metaphysical structures into physical)
+
 
 
 if there are ways of "traveling" between different universes in the
@@ -78,6 +86,7 @@ laws of nature hold.
   - then those laws must hold in each universe and there must be some
     laws of nature for the metaverse
 
+### We'll Turn Inwards to Conquer Inner Space
 
 - eventually we run out of things to learn about nature & science
   - as in, new scientific laws or phenomena to discover
@@ -86,6 +95,8 @@ laws of nature hold.
   - this might happen more quickly than we realize
   - there might never be another tesla or einstein
   - or long, running, intense math proofs
+
+
 - the only thing left would be insights based on convolutions of human
   data or social data, etc. etc.
   - yet, as we lose our individuality to nihilism, humanity converges
@@ -123,9 +134,11 @@ if one's consciousness can be mapped to universes descending from ours
         - 2 overlapping/harmonious crystalizations of consciousness
           (mapped across a region of the metaverse)
           - could this convey circumstances of psychic behavior?
-  - and also, ...?
+  - and also, ...? i was writing ish too fast
   - with a tree/conic-shaped view of a branch, how do you ascend and
   descend other branches? if you can connect?
+
+### Can These Crystalline, Transplanar Metaverse Entities Run Programs
 
 - if consciousness could attain some higher form in the crystal across a
   branch in the metaverse, then could it also pull something off like
@@ -150,8 +163,10 @@ if one's consciousness can be mapped to universes descending from ours
       universes/branches
       - however, this 
 
-- crystallization across branches of virtualized universes within a
-  view of the metaverse can resemble closures form math/programming
+### Crystallization traversing a metaverse resembles closure & scope
+
+crystallization across branches of virtualized universes within a view
+of the metaverse can resemble closures form math/programming
   - that is, information can be chained down into nested virtualized
     universes similar to scope.
     - but this information can be embodied by consciousness or some
@@ -164,6 +179,54 @@ if one's consciousness can be mapped to universes descending from ours
           information lambda-gen function and run it
       - in this case it would also need to understand how state is
         pushed across
+- this transplanar shared state transversing the metaverse should
+  have lots of repition in structure, including nests closures and
+  shared scopes b/w branches and subgraphs of the metaverse
+  - especially when there are various crystalline elements tiled
+    across metaversal boundaries.
+    - which are technically spaces of various kinds, though i have no
+      idea which)
+
+### Beings or Entities inhabiting the metaverse
+
+they could either be restricted or arise from local branches or areas,
+and capable of moving around locally to some degree
+- or they inhabit the pure metaverse
+  - that is they arise not from any individual universe, but out of
+    some aspect of the metaverse itself
+
+- (misc) does the metaverse connect upwards to the metaphysical realm?
+  - that is, can you derive/map metaphysics for each universe in the
+    metaverse.
+    - this would be similar to how you can use one math to define
+    other maths ... though apparently you can't. thanks alot Gödel.
+    - am i correct on the incompleteness theorum inferences?
+      - how did i get to this? are there other interesting connections
+        b/w this and Gödel's I. Theorum
+  - but is this "where" the metaphysical realm "is" ??
+
+### The soul as our map to the universal collective un/conscious
+
+- if we can view the soul in this way (as a map to the universal
+  collective un/conscious)
+  - then what does that say about those souls who more totally map to
+    the Universal CU/CC
+  - what does it say about those souls who contribute "more" unique
+    nodes to the Universal CU/CC for human culture & knowledge?
+- especially true if the achievement of "perfect" "enlightenment"
+  could be taken to mean obtaining some perfect uniform mapping.
+  - or special states of consciousness could mean that being's mind
+    has pushed it's state outward in the metaverse to indicate some
+    degree of crystallization
+- are there some "realm's" accessible to the minds of each/some
+  conscious beings that aren't so much part of the "physical"
+  universe? in other words
+
+
+  
+  
+  
+  if you can actually identify the 
 
 could there be "beings" native moreso to the multiverse and some how
 they exist out of it (or within it or around it)
