@@ -1,5 +1,5 @@
 ---
-title: "Oneiroism"
+title: "Galactic Ethics"
 categories: "blog"
 tags: "sociology politics"
 headline: ""
@@ -45,7 +45,9 @@ excerpt: ""
           which cause some terraforming effect
         - this could be engineered
 
-==========
+
+
+### Gravity Waves
 
 - is there gravitational wave radiation?
 - gravity doesn't exert a spherical effect on spacetime (?)
@@ -190,3 +192,21 @@ to. Once we connect with all those other civilizations, we can fork
 our consciousness to epic space bodies and have freeky alien sex and
 there’s probably a lot of tentacles involved.... more is better,
 amirite?
+
+### Galactic ethics 4 time travel
+
+Galaxy where a federation permits cultures to perform time travel
+a limited number of times
+
+- because to contain it requres containing the butterfly effect
+- so someone has to do that & counterbalance the effects
+- therefore, bc the butterfly effect needs to be contained,
+  - to allow societies to fix their shit without too much affect on
+    the universe as a whole (because large gravitational/EMR
+    disturbances cause large changes that ripple outwards)
+  - it also is not permitted after the culture breaks through the oort
+    cloud.
+- basically, your civilization gets a few extra lives before it breaks
+  through to travel between systems
+  - this one's completely hypothetical and probably not true. mostly a
+    scifi plot device
