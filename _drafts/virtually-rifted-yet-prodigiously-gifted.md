@@ -431,7 +431,17 @@ answer it if you double my net worth! it'll cost you SIXTY CENTS...
 
 ## VR/AR: Killer Apps
 
+- VR App: 4D Rubik's Cube
+  - seems like a good way to display how to depart from reality
 
+- 4D VR Rubik's Cube w/ Hardware
+  - could use OLED screens or LED's to update colors for the fourth
+    dimension
+  - also, traditional rubik's cube is like a 3D cube with surface
+    rotations.
+  - there's another possibility 3D cube with segment
+    rotations, where each cube on a smaller scale rotates about its
+    axis and there's no surface rotations
 
 
 

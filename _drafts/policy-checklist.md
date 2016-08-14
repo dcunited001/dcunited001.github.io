@@ -89,3 +89,15 @@ liberalism (with the ability forsmall communities to structure their
 lives according to religious freedom while respecting the lives/views
 of individuals) if we can do that, while unifying America and
 retaining a strong military, we're going to be just fine
+
+================================
+
+Brief quotes from RNC speeches:
+
+- we are stronger through the colors that unite us
+- all lies matter .... (on second thought...)
+- more than ever, we are dedicated to solving these problems
+  *together*.
+- Reagan's 80% Quote
+  - Reagan's Status Quo Quote
+- "What you are speaks so loudly that i can not hear a word you're saying"
