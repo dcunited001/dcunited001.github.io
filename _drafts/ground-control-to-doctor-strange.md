@@ -1,10 +1,18 @@
+---
+title: "Ground Control to Doctor Strange"
+categories: blog
+tags: "anthropology"
+headline: "Calamity Echoes Through Human Psyche"
+author:
+  name: "David Conner"
+excerpt: ""
+---
+
 mention teilhard and the fate of the universe
 - is it a hot end? much more interesting!
   - this means that the lifetime of a universe is likely cyclical by
     nature. an eternal cycle of big crunch followed by big bang
 - is it a cold end? more more boring
-  - this
-
 
 It's a vertical metaverse. It's possible this could permit parametric
 variation in any dimension, implying the potential simultaneous
@@ -130,15 +138,96 @@ if one's consciousness can be mapped to universes descending from ours
   (partially) continuous surfaces...
   - if so, is there some way to maintain higher-order chrystals,
     arrangements or forms based in differentiation, integration, etc
-- a perfect crystal would have
+- a perfect crystal over some branch/grouping would be composed of
+  repetitive or self-similar/geometric elements/groupings
+- how would your mind structure itself across multiple universes
+  - some parts of your mind would *neef* (no !@#$'ing idea what neef
+    means)
+  - would you retain all information about other consciousnesses if
+    you "traveled" between them?
+    - you might if you kinda sync the relevant information
+    - but some information could be self contained in various
+      universes/branches
+      - however, this 
 
-#### Metaverse Forms
+- crystallization across branches of virtualized universes within a
+  view of the metaverse can resemble closures form math/programming
+  - that is, information can be chained down into nested virtualized
+    universes similar to scope.
+    - but this information can be embodied by consciousness or some
+      other aspect of that branch/grouping of universes.
+      - so programs could operate across these things, moving state
+        from various closures to the others
+      - how does dependency of information present in closures change
+        in thes cases because it seems like you might need to ..
+        - you could rely on the information being there or build some
+          information lambda-gen function and run it
+      - in this case it would also need to understand how state is
+        pushed across
+
+could there be "beings" native moreso to the multiverse and some how
+they exist out of it (or within it or around it)
+- they could move around
+- what types of beings would there be
+  - would there be architypical beings, capable of metaversal
+    trans-planar motion, manipulation, etc.
+  - would there necessarily be some incarnation of that archetypical
+    being in a metaverse branch/grouping?
+
+what is the state of knowledge of some being of consciousness in other
+planes/branches/etc
+- how does it know what it knows when its in various branches?
+  - there must be some information about information
+    - and there must be some minimal kernel of the structure of information
+      itself. though it may be an infinitely recurring self-similar
+      identity map b/w groupings
+  - this kernel of knowledge must always exist in every universe. it
+    must cyclicly refer to itself, with recursion.
+    - the same kernel must be accessible regardless of whether it's
+      for the universe or some instantiation of consciousness in that
+      universe. this is also true for the branches/groupings in the
+      metaverse.
+    - this nugget itself must exist everywhere. it's kind ofa cyclical
+      minimal amount of information about the structure of
+      information.
+      - it can't be changed, across all branches
+      - it may be able to be mapped and it probably has something to
+        do with the definition of phi from recursive functions
+        (continuous division or square roots)
+        - something like the continuous fraction/roots phi definition
+          can probably be bridged to group theory or category theory/
+        - if this is true
+
+- misc other roots with continous phi definition (1/3,1/4, -2)
+  - these could also be tied to group theory (and in some way with
+    modular arithematic possibly)
+    - this is probably seen in group/ring/field behaviors and galois
+      theory. i remember seeing a web or network of rings of primes
+
+- because of this cyclical definition of the most generalized kernel
+  of information structure (KIS), then should any given metaverse have all
+  it's branches and/or (subgraphs where edges where, generally, each
+  subgraph is minimally connected to others which all share a common
+  ancester: the cyclical 
+
+#### metaverse Forms
 
   - conic
     - graph model with a time/etc component that collapses near the
-      center. can be parameterized with time or with
+      center. can be parameterized with time or with other dimensions
+    - also can collapse in the temporal dimension to channel through
+      specific points of higher probability or coalescence
+      - this sounds a lot like the wave function & quantum mechanics
+      - but i specifically mean that the future eventualities
+        *coalesce* on a *macro-scale* between various forms that can
+        have a singular destination (i.e. a singular superintelligent
+        being)
   - tree
   - graph
   - circular
 
-#
+#### misc math
+
+Are there graphs that can be defined as having a *most random*
+structure. this can be set for the entire graph or just set the 
+- or a most random set of neighborhoods with
