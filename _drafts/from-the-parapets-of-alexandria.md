@@ -82,7 +82,68 @@ a bug or something.
       two for things to fall apart.
 
 
+=============
 
+### Comparison with Ghandi and Colonial India under Britain
+
+the forces that we're fighting are using the system against us. In
+India, Britain controlled the market for Salt. This was before
+widespread refrigeration, even in the developed world.
+- britain had a monopoly on the Salt market in India
+  - and there were high taxes on it
+  - it was so tightly controlled that it was illegal for Indians to
+    produce their own salt.
+- this was an incredibly effective mechanism of control because
+  Indians couldn't withstand going without salt for very long because
+  of how tightly coupled salt was to food.
+  - that is, they were reliant on the British for food.
+- any time there was local protest in India, the british could play
+  the indian people against each other. controlling the salt and
+  indirectly controlling the food in an area allowed them to reinforce
+  control and monitor where the resistence was coming from
+  - they could switch things up to favor those Indians who would break
+    rank and stifle any protests.
+  - until this was corrected, protests almost served as a means of
+    identifying the structure of dissent, which gave british forces
+    a list of people to work against in a local region.
+    - protesting British control seemed counter-effective! it just
+      served as a means to become identified. these people would have
+      their neighbors and friends played against them.
+    - that is how it works folks. most of this is speculation on how
+      the british controlled india, by the way. so I might be omitting
+      information that would change how this is viewed.
+    - but basically, who ever was caught providing the means for
+      people to resist (extra salt, storing large amounts of food,
+      passing messages) they would be singled out if they helped
+      organize anything!
+
+### Ghandi's Salt March Built a Social Network ... in 1930!!
+
+- in 1930, Ghandi organized a protest, where he simply started walking
+  240 miles to a place in the arabian sea, where he could pick up the
+  salt of the earth.
+  - by the time he got there, there were thousands of people following
+    him. his protest was effective because of how simple it was. he
+    had a bit of notoriety beforehand, but this was a movement that
+    encouraged others to become involved.
+    - those who marched 200+ miles with him would remember that for
+      the rest of their life.
+    - thousands of people marching together from various regions
+      allowed those people to form a network of people who would
+      communicate to aid the resistance
+    - and it was so simple. how can one make the salt of the earth
+      illegal? how could that possibly be illegal
+    - also, it wasn't really illegal until these people got to the
+      Arabian Sea. That is, for the entire march, they were gaining
+      momentum and it wasn't until they got there that they were
+      "committing" a "crime" for which the enemy might arrest them!
+- Ghandi got people involved. he leveraged a powerful network of
+  people who were willing to stand alongside him and make sacrifices
+  for a cause. somehow, he managed to build this network and it takes
+  a very special kind of person to intuitively understand how this is
+  done.
+  - and be sure: people around the world who help implement in
+    systemic suppression know this!!
 
 
 =============
