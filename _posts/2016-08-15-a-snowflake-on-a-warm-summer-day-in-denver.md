@@ -1,22 +1,36 @@
 ---
-title: "A Snowflake on a Warm Summer Day in Denver"
+title: ""
 categories: "blog"
 tags: "sociology politics epistemology censorship"
-headline: ""
+headline: "A Snowflake on a Warm Summer Day in Denver"
 author:
   name: "David Conner"
 excerpt: ""
 ---
 
-So I used this story as an answer on my YCombinator application.  I'd
+> Note: I originally wrote this story in March or April 2015 and then
+> emailed the story to my brother and sister, who haven't quite
+> commented on it. This is the earliest account of the story after I
+> remembered it in the last few days of February 2015, but it's not
+> complete. I left a lot of stuff out because it was so dark, which is
+> why I was so concerned with the events.
+>
+> Also, please note that I'm not claiming this to be true. In fact, I
+> would love for my version of events to be compared against that of
+> others who were involved. That should be fairly simple, but it seems
+> that no one wants to talk about what happened, even though so many
+> people have indicated they know. The following is the original text
+> from the email.
+
+So I used this story as an answer on my `YCombinator` application.  I'd
 love to publish this story but I'm not sure Tatiana would really like
 that.  There's a ton of hilarious details I left out to keep things
 brief.  She introduced me to Michael Keaton, Emma Stone, Jennifer
 Lawrence (i think) as well as the guy from Hunger Games.  And possibly
 George Lucas, but I didn't recognize him if it was.
 
-Please tell us about the time you, dcunit3d, most successfully hacked
-some (non-computer) system to your advantage.
+> Please tell us about the time you, dcunit3d, most successfully
+> hacked some (non-computer) system to your advantage.
 
 So I'm going to tell you a story. It's one that I could literally
 spend hours talking about, but I've tried to keep it brief.  It's
