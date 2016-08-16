@@ -108,9 +108,18 @@ She asked me to come up with some questions so she could practice.
 After one generic question, I came up with a really good one: "Which
 one of the clones would be best prepared for the Zombie Apocolypse?"
 
-We continued talking about all the things: linguistics, philosophy, post-structuralism, movies, etc.  We talked about the Singularity and it's implications for society.  I told her about mass NSA surveillance about a week before the Snowden story broke.  We talked about using 3D filming techniques in 2D films.  She told me about scenes coming up in "The Wolf of Wall Street" and asked several questions about quaaludes, lol.
+We continued talking about all the things: linguistics, philosophy,
+post-structuralism, movies, etc.  We talked about the Singularity and
+it's implications for society.  I told her about mass NSA surveillance
+about a week before the Snowden story broke.  We talked about using 3D
+filming techniques in 2D films.  She told me about scenes coming up in
+"The Wolf of Wall Street" and asked several questions about quaaludes,
+lol.
 
-We also talked about jamskating and how the rollerskating industry was dying.  And we talked about the show Parks'n'Rec, which is ironic because 3 months later, Tatiana shot not one, but two episodes of Parks'n'Rec that featured rollerskating -- s6e5 & s6e6.
+We also talked about jamskating and how the rollerskating industry was
+dying.  And we talked about the show Parks'n'Rec, which is ironic
+because 3 months later, Tatiana shot not one, but two episodes of
+Parks'n'Rec that featured rollerskating -- s6e5 & s6e6.
 
 At one point, we were talking about improv comedy and impersonations.
 I had been doing accents and impressions, even though I suck at
@@ -133,7 +142,11 @@ Leela's asking me to come back down.  It sounded kind of urgent, like
 i would totally miss out on something amazing.  I wanted to stay, but
 a few minutes later, my team decided we should work from Leela.
 
-While we were working at Leela, I kept meeting these amazing girls that seemed to be so interested in me.  The whole time, I'm thinking "Wow -- what am I doing right here?" As I discovered two years later, it was Tatiana acting as each of her clones and I had no idea that it was the same girl.
+While we were working at Leela, I kept meeting these amazing girls
+that seemed to be so interested in me.  The whole time, I'm thinking
+"Wow -- what am I doing right here?" As I discovered two years later,
+it was Tatiana acting as each of her clones and I had no idea that it
+was the same girl.
 
 Around 3:00am, I'm working alone on our team's project.  I'm still
 awake and had decided to stay up all night.  This girl with dreadlocks
@@ -144,7 +157,15 @@ on that.  She comes back in 2 minutes and asks again and I'm like "OK,
 I can't tell this girl no twice.  Besides she seems like she could be
 amazing."
 
-So she asks me to roll the joint.  I smell the weed and realize it's Blue Dream -- by far my favorite strain and something I'd mentioned to Tatiana.  While I'm doing that, we're discussing biotechnology and all of these amazing sciency things that I love to talk about.  We also talked about the time my college roommates and I built an igloo -- just to hotbox it.  Pretty much immediately, I fall in love with Cosima -- who is actually Tatiana -- as she could hang with me on Bioinformatics, Epigenetics, Medicene and all these amazing topics!  Of course, I botched the joint completely, lulz.
+So she asks me to roll the joint.  I smell the weed and realize it's
+Blue Dream -- by far my favorite strain and something I'd mentioned to
+Tatiana.  While I'm doing that, we're discussing biotechnology and all
+of these amazing sciency things that I love to talk about.  We also
+talked about the time my college roommates and I built an igloo --
+just to hotbox it.  Pretty much immediately, I fall in love with
+Cosima -- who is actually Tatiana -- as she could hang with me on
+Bioinformatics, Epigenetics, Medicene and all these amazing topics!
+Of course, I botched the joint completely, lulz.
 
 This is where I had the system hacked against me. I started talking
 about how I fell in love with this amazing girl Tatiana Maslany.
@@ -249,3 +270,35 @@ game.  Many celebrities don't like solely being known for their work
 and their characters, since fans who recognize them for that are less
 likely to recognize them for people they actually are.  And that's why
 I'm never watching TV again.
+
+### That's It ... Not Really Though
+
+There's so much other stuff within this story that's unbelievable. I'm
+not sure how it would be possible, but I think I got ghosted. As in,
+"Ghost in the Shell," where someone has false memories implanted or
+incepted in them ... somehow.
+
+This isn't some random set of delusions. It's easy to distinguish
+random information from non-random information -- see some of
+[Claude Shannon's work in crypto](https://en.wikipedia.org/wiki/Entropy_(information_theory)
+as an example. This adds a very interesting dimension to things. Why
+would delusional memories include information about topics I know
+nothing about? Why would they seem to nudge me in a specific direction
+or lead me by the nose? Someone has been toying with me like a ship in
+a bottle and I thought it was very cute at first because OMG did you
+read that story above?! Who would question that?
+
+There are many family and friends who asked me about this stuff before
+who won't talk about it now. They indicated knowledge of specific
+people in this stories before I remembered. There are hundreds of
+people who've indicated knowledge of details, topics and even specific
+phrases/quotes. It's very strange. I'm sure I'm actually incorrect
+about most of those, but out of hundreds of people .... c'mon give me
+a break!
+
+Since I "remembered," people have also indicated a strong aversion to
+talking about it. I'm very good at reading people and some of these
+people are afraid to talk about it. They won't affirm it, but they
+don't actively deny it either. They act like it's non-sense and not
+important. And there are many people who have indicated knowledge of
+it, who won't talk about it directly.
