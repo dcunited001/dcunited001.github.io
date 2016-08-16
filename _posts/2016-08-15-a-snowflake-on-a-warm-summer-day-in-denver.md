@@ -17,7 +17,8 @@ excerpt: ""
 >
 > Also, please note that I'm not claiming this to be true. In fact, I
 > would love for my version of events to be compared against that of
-> others who were involved. That should be fairly simple, but it seems
+> others who were involved because I'm very, very confused about this
+> whole ordeal. That should be fairly simple, but it seems
 > that no one wants to talk about what happened, even though so many
 > people have indicated they know. The following is the original text
 > from the email.

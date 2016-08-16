@@ -1,5 +1,5 @@
 ---
-title: "Ground Control to Doctor Strange"
+title: "Consciousness Crystallization: Ground Control to Dr. Strange"
 categories: blog
 tags: "anthropology"
 headline: "Calamity Echoes Through Human Psyche"
@@ -8,11 +8,16 @@ author:
 excerpt: ""
 ---
 
-mention teilhard and the fate of the universe
+mention teilhard de chardin and the fate of the universe
+- (explain these ideas in more depth)
 - is it a hot end? much more interesting!
   - this means that the lifetime of a universe is likely cyclical by
     nature. an eternal cycle of big crunch followed by big bang
 - is it a cold end? more more boring
+
+but what if the physical doesn't matter as much as we think it does
+
+- it's turtles all the way down (and up too)
 
 It's a vertical metaverse. It's possible this could permit parametric
 variation in any dimension, implying the potential simultaneous
@@ -31,6 +36,13 @@ transversible, assuming the universes were bridged in some way.
 - what questions should we ask about the nature of the metaverse?
   - what mechanisms
 
+### information representaion efficiency (in terms of energy/structure)
+
+in other words, how much information can our physical universe
+represent and simulate. is there actually any limit?
+- can we can virtualize universes that can store more information than
+  it would take to represent them.
+
 the main question is:
 - what is the ratio of information storage capacity of one universe as
   compared to the complexity of universes stemming from it?
@@ -48,8 +60,8 @@ the main question is:
     - and it implies that the metaverse is just the universe itself
       and all the limited simulated universes contained within it
 
-the reasoning here is: if it's turtles all the way down, then why not
-turtles all the way up?  why would we assume that we're the turtle on
+The reasoning here is: if it's turtles all the way down, then why not
+turtles all the way up?  Why would we assume that we're the turtle on
 top? and yet, it's not just turtles up and down, it's turtles
 branching outwards in every direction.
 
@@ -65,7 +77,7 @@ branching outwards in every direction.
     - information becomes much more important
 
 a physical manisfestation of the self-similar, physical embedding our
-image of the metaphysical and radiating its essence to us. 
+image of the metaphysical and radiating its essence to us.
 - (...what exactly did i mean by this?)
 
 a physical manisfestation of the self-similar reflection of the
@@ -111,12 +123,29 @@ laws of nature hold.
 
 how does the assumption of quantum networking relate to how these
 
+
+#### forked consciousness
+
+- forked consciousness
+  - analogy about 1,000,000 virtual universes below our own physical
+    universe where they are all mostly the same, except a few key
+    points
+  - then fork someone's consciousness and deploy into all of those
+    situations simultaneously
+
+#### gravity crystals
+
+
+
 #### Metaverse Consciousness Crystallization
 
+- re:zero first two episodes
+  -
+
 if one's consciousness can be mapped to universes descending from ours
-- and if our universe projects those with mappings in itself, then
-  could those values our consciousness maps to there by mapped back in
-  this universe w/o additional info?
+- and if our universe projects those with mappings in itself,
+  - then those values our consciousness maps there
+    - could they be mapped back in this universe w/o additional info?
 - if so, and if our universe were just descended from another, then
   couldn't we map back upwards too?
 - again: turtles all the way down ... and turtles all the way up
@@ -161,14 +190,14 @@ if one's consciousness can be mapped to universes descending from ours
     - you might if you kinda sync the relevant information
     - but some information could be self contained in various
       universes/branches
-      - however, this 
+      - however, this
 
-### Crystallization traversing a metaverse resembles closure & scope
+### Crystallization traversing a metaverse resembles Closure & Scope
 
 crystallization across branches of virtualized universes within a view
 of the metaverse can resemble closures form math/programming
   - that is, information can be chained down into nested virtualized
-    universes similar to scope.
+    universes and is similar to scope.
     - but this information can be embodied by consciousness or some
       other aspect of that branch/grouping of universes.
       - so programs could operate across these things, moving state
@@ -212,7 +241,7 @@ and capable of moving around locally to some degree
   - then what does that say about those souls who more totally map to
     the Universal CU/CC
   - what does it say about those souls who contribute "more" unique
-    nodes to the Universal CU/CC for human culture & knowledge?
+    nodes to the Universal CU/CC (for human culture & knowledge)?
 - especially true if the achievement of "perfect" "enlightenment"
   could be taken to mean obtaining some perfect uniform mapping.
   - or special states of consciousness could mean that being's mind
@@ -222,11 +251,7 @@ and capable of moving around locally to some degree
   conscious beings that aren't so much part of the "physical"
   universe? in other words
 
-
-  
-  
-  
-  if you can actually identify the 
+if you can actually identify the... ??
 
 could there be "beings" native moreso to the multiverse and some how
 they exist out of it (or within it or around it)
@@ -271,26 +296,25 @@ planes/branches/etc
   of information structure (KIS), then should any given metaverse have all
   it's branches and/or (subgraphs where edges where, generally, each
   subgraph is minimally connected to others which all share a common
-  ancester: the cyclical 
+  ancester: the cyclical
 
 #### metaverse Forms
 
-  - conic
-    - graph model with a time/etc component that collapses near the
-      center. can be parameterized with time or with other dimensions
-    - also can collapse in the temporal dimension to channel through
-      specific points of higher probability or coalescence
-      - this sounds a lot like the wave function & quantum mechanics
-      - but i specifically mean that the future eventualities
-        *coalesce* on a *macro-scale* between various forms that can
-        have a singular destination (i.e. a singular superintelligent
-        being)
-  - tree
-  - graph
-  - circular
+- conic
+  - graph model with a time/etc component that collapses near the
+    center. can be parameterized with time or with other dimensions
+  - also can collapse in the temporal dimension to channel through
+    specific points of higher probability or coalescence
+    - this sounds a lot like the wave function & quantum mechanics
+    - but i specifically mean that the future eventualities *coalesce*
+      on a *macro-scale* between various forms that can have a
+      singular destination (i.e. a singular superintelligent being)
+- tree
+- graph
+- circular
 
 #### misc math
 
 Are there graphs that can be defined as having a *most random*
-structure. this can be set for the entire graph or just set the 
+structure. this can be set for the entire graph or just set the
 - or a most random set of neighborhoods with
