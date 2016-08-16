@@ -100,4 +100,104 @@ Brief quotes from RNC speeches:
   *together*.
 - Reagan's 80% Quote
   - Reagan's Status Quo Quote
-- "What you are speaks so loudly that i can not hear a word you're saying"
+- "What you are speaks so loudly that i can not hear a word you're
+  saying"
+
+
+================================
+
+CSPAN2 talk on presidential transitions:
+
+on transitions & filling policy positions:
+
+- christopher lu
+  - former executive director of obama-biden transition project
+  - "the vast majority of what happens in government isn't partisan"
+    - this quote underscores my notes about cooperation below
+    - "you really just want it to work"
+      - you debate on the changes you want, but rule of law and
+        efficiency/efficacy of policy takes precidence
+
+- "people are policy"
+- "all generalizatoins are false, including this one"
+- "... because they don't govern with ... "
+  - goals need to be outcome-oriented
+    - goals are good, but can be restraining
+    - e.g. over-promise and now you're strained in several directions
+  - it's harder to govern if you have very *specific* goals
+    - because if they are specific, you aren't willing to be
+  - while transparency is good, sometimes this can make things
+    difficult. if you reveal everything you want to do to people
+
+###
+
+
+- speech - start out with a list of goals to say you'll be accountable
+  for achieving by the end of your term
+  - put a man on the moon by the end of the decade - JFK
+  - goals should be emotionally stirring and motivate people inside
+    and outside your movement
+
+- the bar has always been set high for previous transitions
+  - the obama administration held the bush administration to
+
+- career staff and political staff
+  - ... ? what are these?
+  - "careers" are highly motivated to do a good job to impress
+    superiors
+    - these people are motivated by success in their career
+  - political staff - i think moreso is the campaign staff
+    - nope, not really
+
+
+- there's a process for the administration, but then there's also a
+  protracted process from the appointee's point of view
+  - especially for those who must be confirmed by congress
+  - they might need to shuffle around their life just to pursue a
+    nomination
+    - for example, dept of labor appointee nominee had to divest his
+      entire stock portfolio because dept of labor works with
+      everything
+
+
+- there is a transition period
+- australia has 8 roles that change when there's a new administration
+  - with the US, there are thousands
+    - senate must confirm hundreds of them
+
+### Questions
+
+- what exactly does the transition staff do?
+  - do both candidates for an executive position like the president
+    have their own transition teams while evaluating who they want
+    in the cabinet?
+  - or would they have a small transition team early on before the
+    election results, ramping up as election day approaches?
+
+  - this implies that the transition staff should have access to
+    information about what's going on and the kinds of challenges the
+    country might face in the next several years.
+
+- what do agency review teams do during the transition?
+  - ... besides the obvious
+- what are the differences b/w the campaign staff?
+  - this team needs to be soley focused on your campaign because if
+    you don't win, it doesn't matter
+  - and transition... ?
+  -
+
+
+- when the administration changes parties, this prevents significantly
+  more challenges than it would otherwise
+  - but it's also a good way to observe how loyal/ethical people are
+    going to be when they are working across the aisle.
+    - obviously, in politics, people are used to working with others
+      who have opposing viewpoints.
+
+- "it helps to have people move around the government/washington"
+  - this can give people a better perspective
+
+- deputy directors are similar to COO's
+
+
+- "labor is about peace and prosperity"
