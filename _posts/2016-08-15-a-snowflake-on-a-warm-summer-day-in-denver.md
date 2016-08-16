@@ -273,10 +273,23 @@ I'm never watching TV again.
 
 ### That's It ... Not Really Though
 
-There's so much other stuff within this story that's unbelievable. I'm
-not sure how it would be possible, but I think I got ghosted. As in,
-"Ghost in the Shell," where someone has false memories implanted or
-incepted in them ... somehow.
+There's so much other stuff within this story that's
+unbelievable. This already sounds unbelievable, yes. However, I've
+left out some parts that add several more layers to this
+experience. There's a lot of stuff I left out. It's so strange that
+something so emotionally impactful was unavailable to my mind until
+twenty months later. Sometimes, I suspect that I really might have had
+an authentic religious experience. I can't explain it...
+
+I'm not sure how it would be possible, but I think I got ghosted. As
+in, "Ghost in the Shell," where someone has false memories implanted
+or incepted in them ... somehow. Sounds crazy, right? I've been
+dealing with this ever since I remembered it in early 2015, with
+absolutely no way to verify. One point to emphacize is the number of
+strongly anachronistic content! Most of this consists of things that
+would be easy to predict in late 2014, but difficult to predict in
+spring or summer 2013! Furthermore, there are many strong
+anachronisms.
 
 This isn't some random set of delusions. It's easy to distinguish
 random information from non-random information -- see some of
