@@ -1,8 +1,8 @@
 ---
-title: ""
+title: "That Time I Repressed My Own Memories ... For Love"
 categories: "blog"
 tags: "sociology politics epistemology censorship"
-headline: "A Snowflake on a Warm Summer Day in Denver"
+headline: "A Snowflake Chance on a Warm Summer Day in Denver"
 author:
   name: "David Conner"
 excerpt: ""

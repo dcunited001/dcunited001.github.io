@@ -21,9 +21,9 @@ ages. What is it that allows us to think? As Descartes said:
 
 Is this true? If so, what makes us conscious and not animals? Is there
 some fundamental difference between us?  I believe that consciousness
-is a continuum that extends to some degree across all walks of
-life. Consciousness is our window to the world. It's how we experience
-the information that we experience.
+is a continuum that extends to some degree across all walks of life.
+Consciousness is our window to the world. It's how we experience the
+information that we experience.
 
 ## &#x262F; [Consciousness Transcends Space](#consciousness-transcends-space)
 
