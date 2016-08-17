@@ -338,20 +338,20 @@ I'm not 100% sure that any of this even happened, though I would love
 for someone to verify. That sounds strange, I know, but just hear me
 out.
 
-![img1](/img/posts/2016-08-17-that-time-i-repressed-my-own-memories-for-love/img1.png)
+![img1](/img/posts/2016-08-17-that-time-i-repressed-my-own-memories-for-love/img1.jpg)
 
-![img2](/img/posts/2016-08-17-that-time-i-repressed-my-own-memories-for-love/img2.png)
+![img2](/img/posts/2016-08-17-that-time-i-repressed-my-own-memories-for-love/img2.jpg)
 
-![img3](/img/posts/2016-08-17-that-time-i-repressed-my-own-memories-for-love/img3.png)
+![img3](/img/posts/2016-08-17-that-time-i-repressed-my-own-memories-for-love/img3.jpg)
 
-![img4](/img/posts/2016-08-17-that-time-i-repressed-my-own-memories-for-love/img4.png)
+![img4](/img/posts/2016-08-17-that-time-i-repressed-my-own-memories-for-love/img4.jpg)
 
-![img5](/img/posts/2016-08-17-that-time-i-repressed-my-own-memories-for-love/img5.png)
+![img5](/img/posts/2016-08-17-that-time-i-repressed-my-own-memories-for-love/img5.jpg)
 
-![img6](/img/posts/2016-08-17-that-time-i-repressed-my-own-memories-for-love/img6.png)
+![img6](/img/posts/2016-08-17-that-time-i-repressed-my-own-memories-for-love/img6.jpg)
 
-![img7](/img/posts/2016-08-17-that-time-i-repressed-my-own-memories-for-love/img7.png)
+![img7](/img/posts/2016-08-17-that-time-i-repressed-my-own-memories-for-love/img7.jpg)
 
-![img8](/img/posts/2016-08-17-that-time-i-repressed-my-own-memories-for-love/img8.png)
+![img8](/img/posts/2016-08-17-that-time-i-repressed-my-own-memories-for-love/img8.jpg)
 
-![img9](/img/posts/2016-08-17-that-time-i-repressed-my-own-memories-for-love/img9.png)
+![img9](/img/posts/2016-08-17-that-time-i-repressed-my-own-memories-for-love/img9.jpg)
