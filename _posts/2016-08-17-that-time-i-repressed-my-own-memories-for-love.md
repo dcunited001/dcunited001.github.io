@@ -271,7 +271,7 @@ and their characters, since fans who recognize them for that are less
 likely to recognize them for people they actually are.  And that's why
 I'm never watching TV again.
 
-### That's It ... Not Really Though
+# That's It ... Not Really Though
 
 There's so much other stuff within this story that's
 unbelievable. This already sounds unbelievable, yes. However, I've
@@ -315,3 +315,5 @@ people are afraid to talk about it. They won't affirm it, but they
 don't actively deny it either. They act like it's non-sense and not
 important. And there are many people who have indicated knowledge of
 it, who won't talk about it directly.
+
+### Here's Some More Notes on What Happened
