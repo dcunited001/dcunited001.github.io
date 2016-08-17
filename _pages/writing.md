@@ -40,7 +40,11 @@ permalink: /writing/
 
 #### &#x2605; [From the Parapets of Alexandria](2016-08-01-from-the-parapets-of-alexandria-knowledge-extinction-events.html)
 
-#### &#x2605; [Epistemology, Cognition and Category Theory](/posts/2015-08-23-epistemology-cognition-and-category-theory-part-one.html)
+#### &#x2605; [Epistemology, Cognition and Category Theory: An Overview](/posts/2015-08-23-epistemology-cognition-and-category-theory-part-one.html)
+
+#### &#x2605; [Epistemology, Cognition and Category Theory: A Model For The Mind](/posts/2015-08-23-epistemology-cognition-and-category-theory-part-two.html)
+
+#### &#x2605; [Epistemology, Cognition and Category Theory: Directive Cognitive Expansion](/posts/2015-08-26-epistemology-cognition-and-category-theory-part-three.html)
 
 ## [Postmodernism and Metamodernism](#postmodernism-and-metamodernism)
 
@@ -61,7 +65,10 @@ writing and this is hanging me up. It's linked to by every page.
 
 TODO: rewrite this
 
-This isn’t really philosophy, but it’s about empowering people who’d
+This article was about exploring and articulating my own writing
+process
+
+about empowering people who’d
 want to write … I guess? My heads getting a bit big here LOL. I wanted
 to describe my own writing process, for my own purposes as a writer.
 So I ended up writing this. The second part is still incomplete, but
@@ -132,7 +139,7 @@ I unlock some knowledge hidden away.  And perhaps for my own good...
 
 <a name="facets-of-greatness" />
 
-# &#x16DD; [Facets of Greatness](#facets-of-greatness)
+# &#x16DD; [Facets of Greatness](#facets-of-greatness) &#x16DD;
 
 TODO: blurbs about some of the articles and the inspiration that drove them
 
@@ -195,7 +202,7 @@ haven’t really heard anyone discuss this! So, how can someone say this
 isn’t philosophy and that it belongs on a futurism subreddit?! That’s
 fucking crazy!
 
-### [Consiousness as a Continuum: Life, the Cosmos and You](/posts/2016-07-12-consciousness-as-a-continuum-life-the-cosmos-and-you.html)
+### [Consciousness as a Continuum: Life, the Cosmos and You](/posts/2016-07-12-consciousness-as-a-continuum-life-the-cosmos-and-you.html)
 
 This article undermines the Singularity by posing the possibility of
 threshold at which all civilizations in the universe will become
@@ -213,7 +220,7 @@ demonstrates their lack of familiarity with my subject matter in
 general! THANK YOU CLUELESS READERS! You just proved my content was
 novel!
 
-Regarless, this piece's "rambling" nature is proof of genius: I didn’t
+Regardless, this piece's "rambling" nature is proof of genius: I didn’t
 have an outline; no one told me about this idea; I sat down one
 afternoon and just wrote until I published it.
 
@@ -297,6 +304,12 @@ that the universe can never observe in totality the knowledge
 contained within it.
 
 ### Epistemology, Cognition and Category Theory
+
+#### &#x2605; [An Overview](/posts/2015-08-23-epistemology-cognition-and-category-theory-part-one.html)
+
+#### &#x2605; [A Model For The Mind](/posts/2015-08-23-epistemology-cognition-and-category-theory-part-two.html)
+
+#### &#x2605; [Directive Cognitive Expansion](/posts/2015-08-26-epistemology-cognition-and-category-theory-part-three.html)
 
 TODO: edit & link 3 parts
 
