@@ -50,7 +50,7 @@ permalink: /writing/
 
 <a name="writing-on-writing" />
 
-# [Writing On Writing. And a Short Story](#writing-on-writing)
+# &#x16DD; [Writing On Writing. And a Short Story](#writing-on-writing) &#x16DD;
 
 ### [If I Had the Chops to Write My Daedalian Magnum Corpus](/posts/2016-06-23-if-i-had-the-chops-to-write-my-daedalian-magnum-corpus.html)
 
@@ -123,11 +123,11 @@ I unlock some knowledge hidden away.  And perhaps for my own good...
 
 <a name="medical-sciences" />
 
-# [Medical Sciences](#medical-sciences)
+# &#x16DD; [Medical Sciences](#medical-sciences) &#x16DD;
 
 <a name="facets-of-greatness" />
 
-# [Facets of Greatness](#facets-of-greatness)
+# &#x16DD; [Facets of Greatness](#facets-of-greatness)
 
 TODO: blurbs about some of the articles and the inspiration that drove them
 
@@ -144,13 +144,13 @@ articles. Actually, they're all interesting.
 
 <a name="linguistics-and-semiotics" />
 
-# [Linguistics and Semiotics](#linguistics-and-semiotics)
+# &#x16DD; [Linguistics and Semiotics](#linguistics-and-semiotics) &#x16DD;
 
 
 
 <a name="consciousness" />
 
-# [Consciousness](#consciousness)
+# &#x16DD; [Consciousness](#consciousness) &#x16DD;
 
 TODO: edit & link stanford article
 
@@ -163,7 +163,7 @@ TODO: edit & link stanford article
     at least a more social experience, but that just doesn't work for
     me.  explain? or cut?
 
-# &#x2605; [The Nature of Space, Time and Information Implies Universal Language](/posts/2016-04-12-the-nature-of-space-time-and-information-implies-universal-language.html)
+### [The Nature of Space, Time and Information Implies Universal Language](/posts/2016-04-12-the-nature-of-space-time-and-information-implies-universal-language.html)
 
 This post pitches possibility of some language which constructed to
 mirror the kernel or apex of the structure of knowledge. It is built
@@ -192,7 +192,7 @@ haven’t really heard anyone discuss this! So, how can someone say this
 isn’t philosophy and that it belongs on a futurism subreddit?! That’s
 fucking crazy!
 
-# &#x2605; [Consiousness as a Continuum: Life, the Cosmos and You](/posts/2016-07-12-consciousness-as-a-continuum-life-the-cosmos-and-you.html)
+### [Consiousness as a Continuum: Life, the Cosmos and You](/posts/2016-07-12-consciousness-as-a-continuum-life-the-cosmos-and-you.html)
 
 This article undermines the Singularity by posing the possibility of
 threshold at which all civilizations in the universe will become
@@ -214,7 +214,7 @@ Regarless, this piece's "rambling" nature is proof of genius: I didn’t
 have an outline; no one told me about this idea; I sat down one
 afternoon and just wrote until I published it.
 
-# &#x2605; [Neural Networks and Spider Brains](/posts/2015-11-21-neural-networks-and-spider-brains.html)
+### [Neural Networks and Spider Brains](/posts/2015-11-21-neural-networks-and-spider-brains.html)
 
 This is an article about consciousness that ties in nicely with
 “Consciousness as a Continuum” and “The Nature of Space, Time and
@@ -243,10 +243,10 @@ about how you think!
 
 <a name="god-and-religion" />
 
-# [God and Religion](#god-and-religion)
+# &#x16DD; [God and Religion](#god-and-religion) &#x16DD;
 
 
-## [The Nature of God](/posts/2016-05-31-the-nature-of-god.html)
+### [The Nature of God](/posts/2016-05-31-the-nature-of-god.html)
 
 TODO: edit
 
@@ -284,14 +284,14 @@ seriously LOL (and it is something that I am well-acquainted with)
 
 <a name="epistemology" />
 
-# [Epistemology](#epistemology)
+# &#x16DD; [Epistemology](#epistemology) &#x16DD;
 
 The metaphysical structure representing the sum of all human knowledge
 greatly exceeds the computational capacity of the universe, implying
 that the universe can never observe in totality the knowledge
 contained within it.
 
-## &#x2605; Epistemology, Cognition and Category Theory
+### Epistemology, Cognition and Category Theory
 
 TODO: edit & link 3 parts
 
@@ -323,7 +323,7 @@ have already written about this, so it’s not new, but it is powerful.
 
 <a name="postmodernism-and-metamodernism" />
 
-# [Postmodernism and Metamodernism](#postmodernism-and-metamodernism)
+# &#x16DD; [Postmodernism and Metamodernism](#postmodernism-and-metamodernism) &#x16DD;
 
 These two articles cover social and cultural problems that will take
 root as technology evolves more rapidly. These are most definitely
@@ -339,7 +339,7 @@ the death of individuality. Those two concepts will cripple and
 demoralize us at a time in history when we MUST remain as strong as we
 could possibly be.
 
-## [Paradox of Creativity](/posts/2016-05-16-the-paradox-of-creativity.html)
+### [Paradox of Creativity](/posts/2016-05-16-the-paradox-of-creativity.html)
 
 I posted the “Paradox of Creativity” in early June. It was my first
 post on reddit. It was deleted in six hours, but had already
@@ -352,17 +352,15 @@ writing has been validated by the simple fact that thousands of people
 visited my site in six hours. When I saw that number, I thought there
 must be something wrong! NOPE!
 
-## [Death of Creativity](/posts/2016-05-17-the-death-of-creativity.html)
+### [Death of Creativity](/posts/2016-05-17-the-death-of-creativity.html)
 
 blurb...
 
 
 <a name="physical-sciences" />
 
-# [Physical Sciences](#physical-sciences)
-
-
+# &#x16DD; [Physical Sciences](#physical-sciences) &#x16DD;
 
 <a name="political-philosophy" />
 
-# [Political Philosophy](#political-philosophy)
+# &#x16DD; [Political Philosophy](#political-philosophy) &#x16DD;
