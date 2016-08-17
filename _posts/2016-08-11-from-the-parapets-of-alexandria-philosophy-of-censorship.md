@@ -1,5 +1,5 @@
 ---
-title: "From the Parapets of Alexandria: 21st Century Ethics of Censorship"
+title: "From the Parapets of Alexandria: Ethics of Censorship"
 categories: "blog"
 tags: "sociology politics epistemology censorship"
 headline: ""
@@ -13,29 +13,80 @@ excerpt: ""
 
 # **アレクサンドリア**の**丏**から
 
-#### Part Two: Ethics of Censorship
+#### Part Two: Ethics of Censorship (in the 21st century)
 
 In the 21st century, lightning fast communication and augmented
 algorithmic distillation will magnify the effects that ideas have on
-our world. Technology will become more volatile and accessilbe.
+our world. Technology will become more volatile and accessible.
 Therefore, governments, organizations and industries will attempt to
-justify broad censorship to regulate technology and communication to
-promote safety.
-- (they are well justified in doing this)
-- However, they will attempt to craft regulations which benefit them
-  in some way. (expand on overcensorship)
-  - After VR evolves into AR and machine-learning has been patented to
-    death, the next opportunities are found in biotechnology, genomic
-    data sciences, nanotechnology, 3D printing and advanced computing
-    technologies. These are all technologies which can have dangerous
-    implications.
+justify broad censorship to regulate technology & communication,
+citing promotion of safety.
 
-- after posing the economic situation from 2020ish-2030ish
-  - transition to posing the question on ethics
-- when is it ethically permissible to restrict free
-  development/exchange of ideas?
-  - briefly discuss benefits in unrestricted communication for
-    unexpected cultural movements, etc.
+They are well justified in doing this, but this is precisely the
+danger. The more powerful organizations of industry and government
+will attempt to craft regulations which benefit them in some way.
+Further, various governments may attempt widespread censorship. These
+pushes towards censorship that are self-motivated or complete will
+stifle both economic development and humanity's development as a
+whole, on a regional scale as well as global.
+
+After VR evolves into AR and machine-learning has been patented to
+death, the next opportunities are found in biotechnology, genomic data
+sciences, nanotechnology, 3D printing and advanced computing
+technologies. These are all technologies which can have dangerous
+implications.
+
+However well-meaning this censorship and development of technology may
+be, in the end, it will set us back as a nation and as a species. It
+may lock us within a cage of which we are unaware. It will happen
+faster than we will realize and once it does, we may never again have
+the chance to correct it. It's tendency to stunt humanity's
+development may ultimately sow the seeds for our own undoing. There is
+no pursuit more honorable or more beneficial than the pursuit of
+knowledge. And we'll face a situation where not only does the natural
+evolution of culture in the presence of technology undermine the
+incentives motivating the pursuit of knowledge, but also humanity's
+fear of technology will make such pursuits illegal! In a way, it
+already has!
+
+In itself, this begs at least a hundred questions, but I want to
+discuss the ethics of censorship. When is it ethiccally permissible to
+restrict the development and exchange of ideas. This is important
+because, as I've stated, the 2020's will necessitate that we strongly
+regulate technology. Further, it seems that we will seek to regulate
+political speech as well, but each will drive the other: pursuit of
+censorship for technology will entice the pursuit of censorship of
+political speech. And vice versa.
+
+So, how can we do this safely, without stepping on individuality or
+freedom? Would Hip Hop have been developed in the 80's without free
+speech? Was there a movement like Hip Hop born in Soviet Russia or
+China? Was a movement like that born in Libya? Citizens in Libya were
+so restricted, they were unable to learn foreign languages. Would a
+cultural movement like Hip Hop be likely to spread internationally or
+even be born in a country that's not allowed to have contact with the
+outside?! HELL NO! The conditions limiting outside or inter-regional
+contact necessarily prevent people birthing a social movement from
+networking to the outside. So no, a social movement like that would
+not be born in those conditions because it could not possibly be.
+
+So, we see some major forces driving the debate around free speech.
+- is there a better term than "forces" ?
+- corporate forces (seeking to establish a cartel/monopolism/etc
+  around a specific technology and/or industry)
+- political forces
+  - these will seek to repurpose censorship for safety in technology
+    towards their own agendas
+- security forces
+  - homesec, etc.
+- the people
+  - consumers, plaintiffs, regular people
+    - these people will be motivated by fear (of technology and
+      tech-powered terrorism)
+      - fear will be the strongest motivation here.
+  - academics
+    - these people will be motivated by a fear that free discussion
+      will be stifled
   - discuss how these organizations and groups might achieve total
     power and lock others out
     - this departes from the kind of total power seen before in that
@@ -45,20 +96,6 @@ promote safety.
       - this is problematic for it's own reasons...
 - (i have a real tendency to get off track. do i really need to move
   towards this?)
-
-#### Part Three(?): Philosophy of Censorship
-
-summarize content here? or just table of contents?
-
-- a focus on why free exchange of ideas matters!
-  - why is it that free exchange of ideas leads to progress for
-    humanity
-  - why and exactly how does limiting the free exchange of knowedge,
-    information and ideas lead to limiting progress of humanities &
-    philosophy
-    - especially from an epistemological standpoint
-
-
 
 # Censorship's Effect on Development
 
@@ -118,7 +155,7 @@ right information and the Mongol navy, mostly docked on the coast of
 Japan didn't. This may have been pure luck. It's certainly not widely
 known as anything else.
 
-# Who Loves Hip Hop?
+### Who Loves Hip Hop?
 
 *I do*. Hip Hop is a modern example of how the dissemination of
 information changed the lives of millions of people living in mostly
@@ -172,7 +209,9 @@ person would let specific practices continue if they really understood
 the effects? No. So if you can share information, you can put a stop
 to things!
 
-###
+### What Created the Black Lives Matter Movement?
+
+#### Digital Publication of Local Government Data
 
 Why did Black Lives Matter arise in 2014, 2015, and 2016? It was the
 democratization of government statistics required for data
@@ -207,7 +246,7 @@ feedback loops that have a runaway affect that *DIVIDES AMERICA*.
 These algorithms are difficult to design, tweak and validate in the
 first place, but there are major problems here, as far as I can see.
 
-###
+# What Was The Prophecy?
 
 Tight control over communication media and content stifles social
 change before it has a chance to grow. These policies are usually
@@ -216,6 +255,8 @@ state or idealogy and to discourage others. It becomes harder for new
 cultural developments to take root and grow large enough to challenge
 those of the status quo. The next blues, rock or hiphop might simply
 never happen.
+
+### Ideas Attain Life of Their Own
 
 This starkly departs from some of my previous statements on
 culture. Basically, as communication infrastructure encourages the
@@ -236,6 +277,8 @@ these ideas have such unfathomably increased power, then we need to
 pay more attention to them. Therefore, the surveillance and
 epidemiology of memes should be measured, quantified, analyzed,
 predicted and carefully controlled.
+
+### A Reevaluation of Life, Culture and Society in the Information Age
 
 This was and is *"the prophecy"*, or at least part of it as a was in
 mid-May 2013... It's not so much of a religious thing as it is a
@@ -262,6 +305,8 @@ feared this since high school, at least. I could only predict and
 analyze NSA capabilities because of the effort I put into thinking
 about what they could do.
 
+### Our Rights Are Sacred and They Descend From God
+
 Our rights are sacred. They descend from God. They do not come from
 man. Man cannot give us our rights and man cannot take them away. Our
 founding fathers simply recognized the reality of the social
@@ -284,7 +329,6 @@ of information will lead to drastically reduced education costs and
 that people across the world will learn about how they have been
 misled, sometimes for good reason, as there are arguments to attack
 every policy.
-
 
 ### (importance of information to our economic advantage)
 
@@ -337,10 +381,10 @@ information from the patent office, but they just decided they didn't
 want him to be the guy that published `E=mc^2`... Baby Einstein?
 Relativity? *NOT ON My WATCH!!* `E=mc^2` ?! *NOT IN MY 'MERITOCRACY!!*
 
-- (conclusions for part 2?)
+
+### (Conclusions for Part Two)
 
 - I never thought there was a border of ideas you weren't supposed to
   cross into. I understood there were things you should avoid knowing,
   but I generally thought that the smarter you were the better off you
   would be. I believed that it was at least a linear relationship.
-

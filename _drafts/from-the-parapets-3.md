@@ -10,6 +10,23 @@ excerpt: ""
 
 # **アレクサンドリア**の**丏**から
 
+
+
+#### Part Three(?): Philosophy of Censorship
+
+summarize content here? or just table of contents?
+
+- a focus on why free exchange of ideas matters!
+  - moreso from an epistemological standpoint
+    - as in, can't reach higher ideas without common discourse being
+      available, legal and natural
+  - why is it that free exchange of ideas leads to progress for
+    humanity
+  - why and exactly how does limiting the free exchange of knowedge,
+    information and ideas lead to limiting progress of humanities &
+    philosophy
+    - especially from an epistemological standpoint
+
 ### how do we develop new ideas?
 
 - to distinguish b/w an idea that is truly "new" and those that are
