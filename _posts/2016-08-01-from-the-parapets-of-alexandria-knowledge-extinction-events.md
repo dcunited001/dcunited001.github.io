@@ -5,7 +5,19 @@ tags: "sociology politics epistemology censorship"
 headline: ""
 author:
   name: "David Conner"
-excerpt: ""
+excerpt: "
+Two different paths for the 21st century with regard to availability
+of information. Again, these separate paths lead to the same place: in
+several decades, we'll have a communication infrastructure where it's
+impossible to control the desemination of information. Therefore,
+we'll reach a world where it's not possible to censor information, but
+in the meantime, we will transition through a period of time where
+governments and corporations have strong incentives to censor and
+attack ideas. So, we can either decide to embrace a controlled
+transition towards this destined future world where ideas cannot be
+censored or we can trudge painfully through this intermediate world
+where governments and corporations try their hardest to censor
+information."
 ---
 
 # **アレクサンドリア**の**丏**から

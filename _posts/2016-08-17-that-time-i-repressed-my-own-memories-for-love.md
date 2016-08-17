@@ -2,10 +2,23 @@
 title: "That Time I Repressed My Own Memories ... For Love"
 categories: "blog"
 tags: "sociology politics epistemology censorship"
-headline: "A Snowflake Chance on a Warm Summer Day in Denver"
+headline: "A Snowflake's Chance on a Warm Summer Day in Denver"
 author:
   name: "David Conner"
-excerpt: ""
+excerpt: "
+Tatiana tells me they're at the Denver Comic Con to get ready for the
+San Diego Comic Con, where the Orphan Black cast is doing a panel.
+She asked me to come up with some questions so she could practice.
+After one generic question, I came up with a really good one: 'Which
+one of the clones would be best prepared for the Zombie Apocolypse?'
+We continued talking about all the things: linguistics, philosophy,
+post-structuralism, movies, etc.  We talked about the Singularity and
+it's implications for society.  I told her about mass NSA surveillance
+about a week before the Snowden story broke.  We talked about using 3D
+filming techniques in 2D films.  She told me about scenes coming up in
+'The Wolf of Wall Street' and asked several questions about quaaludes,
+lol.
+"
 ---
 
 > Note: I originally wrote this story in March or April 2015 and then
