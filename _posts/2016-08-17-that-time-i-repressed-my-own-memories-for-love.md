@@ -317,3 +317,28 @@ important. And there are many people who have indicated knowledge of
 it, who won't talk about it directly.
 
 ### Here's Some More Notes on What Happened
+
+These are some images of notes I kept on a flash drive for some
+time. I compartmentalized the fact that I had thrown this drive away
+so that I wouldn't slip up and mention it to anyone. Keep in mind that
+I'm not 100% sure that any of this even happened, though I would love
+for someone to verify. That sounds strange, I know, but just hear me
+out.
+
+![img1](/img/posts/2016-08-17-that-time-i-repressed-my-own-memories-for-love/img1.png)
+
+![img2](/img/posts/2016-08-17-that-time-i-repressed-my-own-memories-for-love/img2.png)
+
+![img3](/img/posts/2016-08-17-that-time-i-repressed-my-own-memories-for-love/img3.png)
+
+![img4](/img/posts/2016-08-17-that-time-i-repressed-my-own-memories-for-love/img4.png)
+
+![img5](/img/posts/2016-08-17-that-time-i-repressed-my-own-memories-for-love/img5.png)
+
+![img6](/img/posts/2016-08-17-that-time-i-repressed-my-own-memories-for-love/img6.png)
+
+![img7](/img/posts/2016-08-17-that-time-i-repressed-my-own-memories-for-love/img7.png)
+
+![img8](/img/posts/2016-08-17-that-time-i-repressed-my-own-memories-for-love/img8.png)
+
+![img9](/img/posts/2016-08-17-that-time-i-repressed-my-own-memories-for-love/img9.png)
