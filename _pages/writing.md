@@ -48,6 +48,11 @@ permalink: /writing/
 
 #### &#x2605; [Death of Creativity](/posts/2016-05-17-the-death-of-creativity.html)
 
+### Please Note
+
+I'm publishing this a bit early because I have to attend to some other
+writing and this is hanging me up. It's linked to by every page.
+
 <a name="writing-on-writing" />
 
 # &#x16DD; [Writing On Writing. And a Short Story](#writing-on-writing) &#x16DD;
@@ -146,8 +151,6 @@ articles. Actually, they're all interesting.
 
 # &#x16DD; [Linguistics and Semiotics](#linguistics-and-semiotics) &#x16DD;
 
-
-
 <a name="consciousness" />
 
 # &#x16DD; [Consciousness](#consciousness) &#x16DD;
@@ -245,7 +248,6 @@ about how you think!
 
 # &#x16DD; [God and Religion](#god-and-religion) &#x16DD;
 
-
 ### [The Nature of God](/posts/2016-05-31-the-nature-of-god.html)
 
 TODO: edit
@@ -267,10 +269,13 @@ people like that!” LMAO, seriously? WTF? The same user informed me
 that she created a Reddit account just to message me. I have no idea
 who it was, but I have some ideas … I think? ……
 
+### [I’m Not Religious, I’m Spiritual](/posts/2016-06-01-im-not-religious-im-spiritual-1-God-is-not-dead.html)
 
-### [I’m Not Religious: I’m Spiritual]()
+#### &#x2605; [God Is Not Dead](/posts/2016-06-01-im-not-religious-im-spiritual-1-God-is-not-dead.html)
 
-TODO: link 3 posts
+#### &#x2605; [Of God and Atheisms](/posts/2016-06-05-im-not-religious-im-spiritual-2-of-God-and-atheisms.html)
+
+#### &#x2605; [A Lighthouse in a Storm](/posts/2016-07-01-im-not-religious-im-spiritual-3-a-lighthouse-in-a-storm.html)
 
 TODO: edit
 
@@ -320,7 +325,6 @@ Eventually I will write part four and five, which provide a model for
 knowledge that’s based on category theory. Some people at Stanford
 have already written about this, so it’s not new, but it is powerful.
 
-
 <a name="postmodernism-and-metamodernism" />
 
 # &#x16DD; [Postmodernism and Metamodernism](#postmodernism-and-metamodernism) &#x16DD;
@@ -353,9 +357,6 @@ visited my site in six hours. When I saw that number, I thought there
 must be something wrong! NOPE!
 
 ### [Death of Creativity](/posts/2016-05-17-the-death-of-creativity.html)
-
-blurb...
-
 
 <a name="physical-sciences" />
 
