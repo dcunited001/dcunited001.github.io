@@ -51,6 +51,39 @@ assets. We don't need that.
         whatnot!*
   - so, what are our options?
 
+### (Turn inwards and conquer inner space)
+
+so maybe we should turn inwards for a joyful revolution. We should
+turn inwards and conquer inner space, rather than to seek solutions
+outside. We need to conquer the negativity in our hearts that leads to
+problems in the world. Everything good and everything evil arises from
+our hearts and minds. Emotions, thoughts, words, actions, rigid
+beliefs. It comes from our hearts first.
+
+If we survive the next 100 years, we'll survive for 10,000
+years. Humanity has enough problems given our current circumstances
+and possibility of catastrophe in the near future...  Why should we
+permit conflict to burden us more?! If we need the best aspects of the
+human condition to inspire us through this next century, which should
+we continue to sow the worst seeds of human behavior, fallible at best
+and malevolent when unchecked?
+
+### (the most important battle is philosophic)
+
+The major battle facing humanity today is philosophical. It may seem
+technological, but it's not. It may seem the most urgent battle is
+with nature or for resources, but it's not! The most crucial battle we
+face in this decade and the next is philosophical: we must conquer
+ourselves. We have to be intimately familiar with understand how
+forces we can't imagine will change our lives. Known unknowns, unknown
+knowns, and most importantly unknown unknowns. Humanity's
+metamorphosis here won't be efficient, so how can we prepare the
+cultures of 2030 to count on the fluid nature of information to stay
+lean and stay agile? Again, this is in stark contrast to the slow pace
+of social engineering projects.
+
+### We need both a *cultural* revolution and a *cognitive* revolution
+
 
 ### Influence Flow on the Micro Scale
 
@@ -368,3 +401,6 @@ is ready to face such struggles.
       prepared and compromised and sacrificed and worked together!!
   - btw, nanotech allows us to scalably expand to space, probably
     by 2030. there's your moonbase! lulz
+
+
+(more here?)
