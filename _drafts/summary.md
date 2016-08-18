@@ -52,7 +52,16 @@ This is the second entry in the divergents series.
 
 ==============================================
 
+TODO: edit & link stanford article
 
+- mention importance of Andrew Ng's Machine Learning classes & Dan
+  Boneh's Crypto classes on teaching me the math fundamentals to
+  envision anything beyond the basics.
+  - if it hadn't been for Coursera and free education expanding my
+    mind, I never would have gotten anywhere.
+  - at the same time, i would have prefered the academic experience or
+    at least a more social experience, but that just doesn't work for
+    me.  explain? or cut?
 
 ==============================================
 

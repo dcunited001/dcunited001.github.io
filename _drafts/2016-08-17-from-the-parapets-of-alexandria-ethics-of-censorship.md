@@ -11,6 +11,9 @@ excerpt: ""
 - TODO: add bookmarks
 - TODO: add ToC
 
+- need to tie in my examples to the ethics of censorship
+  - need to clarify categories. (already enumerated?)
+
 # **アレクサンドリア**の**丏**から
 
 #### Part Two: Ethics of Censorship (in the 21st century)
@@ -246,7 +249,7 @@ feedback loops that have a runaway affect that *DIVIDES AMERICA*.
 These algorithms are difficult to design, tweak and validate in the
 first place, but there are major problems here, as far as I can see.
 
-# What Was The Prophecy?
+# What Was *The Prophecy?*
 
 Tight control over communication media and content stifles social
 change before it has a chance to grow. These policies are usually
@@ -256,17 +259,43 @@ cultural developments to take root and grow large enough to challenge
 those of the status quo. The next blues, rock or hiphop might simply
 never happen.
 
-### Ideas Attain Life of Their Own
+### Networks Without Limitation Reality to Converge Towards the Metaphysical
 
 This starkly departs from some of my previous statements on
 culture. Basically, as communication infrastructure encourages the
 rapid spread of ideas and information, the speed and bandwidth at
 which an memes traverse the globe approaches infinite. Therefore, our
 world becomes much more affected and determined by *IDEAS* themselves.
-In otherwords, as limitations to communication tend toward zero, then
+Therefore, physical reality begins to converge towards the
+metaphysical.
+
+In other words, as limitations to communication tend toward zero, then
 these aethereal metaphysical entities, i.e. beliefs and ideas, begin
 to take precedence over the physical realm, regardless of whether
-virtual or real, individual or shared, true or false.
+virtual or real, individual or shared, true or false. These ideas
+themselves take precendence and their effect on physical reality is
+more prominent.  Traditionaly physical qualities of reality begin to
+become less important than arbitrarily defined metaphysical
+information, which may or may not depend on information accumulated
+from some measure on the physical world.
+
+**Because factors related to bandwidth, storage, network connection
+degree, processing, indexing and data source/quality/quantity all
+optimize, then these are no longer limitations.**
+
+And therefore, aggregate values will also tend to see the same
+effect. A statistical model related to some AI algorithm could be
+considered metaphysical information that would become nearly
+omnipresent. Models of uncertainty could be shared between data
+processing entities on such an idealized communication network, *as
+though there were no such limitiations on processing, data aggregation
+or publishing.* In the most ideal state, *it is as if there is no such
+thing as separation of information!* This is important for
+metaphysical values such as uncertainty in science experiements or
+depth measurements or values tied to physical reality pulled into the
+metaphysical realm.
+
+### Ideas Attain Life of Their Own
 
 Ideas begin to take a life of their own and their effects reach into
 reality at an ever-increasing pace. They acquire a life of their
@@ -287,12 +316,12 @@ it nor its implications are incorrect, but instead require a bit of
 common sense so we don't go apeshit with censorship and social
 engineering. In context and in practicality, ideas and technology can
 be very dangerous today and therefore, there is good reason for some
-restriction on communication or what people see. However, in its
-overzealous fervor to censor every damn thing the government disagrees
-with, we could very easily create a situation where we stifle
-innovation at a most critical time. We'll see the most beautiful thing
-we've ever created instead roped off or abstracted to artificially
-implement hierarchical control or turned against us.
+restriction on communication or what people see. However, in the
+government's overzealous fervor to censor every damn thing it
+disagrees with, we could very easily create a situation where we
+stifle innovation at a most critical time. We'll see the most
+beautiful thing we've ever created instead roped off or abstracted to
+artificially implement hierarchical control or turned against us.
 
 The internet is absolutely glorious in its ability to revolutionize
 the world. But like fire, any great tool or technology can be used for

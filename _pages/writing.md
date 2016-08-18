@@ -255,9 +255,9 @@ writing a journal, this article is useful.
 American Eros is first a short-story about love at first sight,
 without sight. It's also a pitch for a revolutionary new concept that
 I'm calling an *episaga*, which is an open source myth. The idea is to
-tell a story how what led the main character to develop exactly what
-they needed in order to have that perfect love experience the next
-morning, when they least expected it.
+tell a story describing how led the main character to develop exactly
+what they needed in order to have that perfect love experience the
+next morning, when they least expected it.
 
 Yes, there have been open source and collaborative books before, but
 this is a new age reworking of myth and I hope to inspire others to
@@ -292,7 +292,6 @@ I unlock some knowledge hidden away.  And perhaps for my own good...
 <a name="facets-of-greatness" />
 
 # &#x16DD; [Facets of Greatness](#facets-of-greatness) &#x16DD;
-
 
 This is a series on Leadership. Think of people like Steve Jobs, Elon
 Musk, Mahatma Gandhi, and Martin Luther King Jr. What about local
@@ -371,8 +370,6 @@ of bonsai.
 
 # &#x16DD; [Consciousness](#consciousness) &#x16DD;
 
-TODO: edit & link stanford article
-
 It's important to note how lost I'd be without Coursera's free online
 education. Those courses are such stellar opportunities and I never
 would have had the insights I did without them. The first was Andrew
@@ -380,15 +377,6 @@ Ng's Machine Learning class and it was mind-blowing. I was challenged
 at first, but by the second week, I was hooked. Taking this
 revolutionized my understanding and conceptualization of artificial
 intelligence.
-
-- mention importance of Andrew Ng's Machine Learning classes & Dan
-  Boneh's Crypto classes on teaching me the math fundamentals to
-  envision anything beyond the basics.
-  - if it hadn't been for Coursera and free education expanding my
-    mind, I never would have gotten anywhere.
-  - at the same time, i would have prefered the academic experience or
-    at least a more social experience, but that just doesn't work for
-    me.  explain? or cut?
 
 ### [The Nature of Space, Time and Information Implies Universal Language](/posts/2016-04-12-the-nature-of-space-time-and-information-implies-universal-language.html)
 
@@ -515,8 +503,6 @@ really tug at the 'ole puppet strings.
 
 #### &#x2605; [A Lighthouse in a Storm](/posts/2016-07-01-im-not-religious-im-spiritual-3-a-lighthouse-in-a-storm.html)
 
-TODO: edit
-
 This is a three-part series arguing for the value of religion. Part
 one refutes Nietzsche’s hypothesis that “God is Dead.” It does so
 using some pretty convoluted language. This was an intentional
@@ -551,7 +537,9 @@ the hill in a disadvantageous manner. It seems like they are well
 aware of psychological methods, but that they are using them to make
 things harder for me. In other words, their cost function is not
 optimized on my success, BUT ON MY FAILURE! Both in the short-term and
-long-term!  That's fucking crazy! But when, given hundreds of decision
+long-term!
+
+That sounds fucking crazy! But when, given hundreds of decision
 points, when I gauge the impact and intention behind their actions
 and, most crucially, the alternative available words/actions, it
 becomes clear: this person or this group does not care about me. Over
@@ -575,28 +563,26 @@ contained within it.
 
 #### &#x2605; [Directive Cognitive Expansion](/posts/2015-08-26-epistemology-cognition-and-category-theory-part-three.html)
 
-TODO: edit & link 3 parts
 
 This is an unfinished series on the mind and its connections to the
-nature of knowledge and cognition. Readers need an understanding of
+nature of knowledge and cognition. These articles tie together of
 neurology, psychology, cognition, metacognition, philosophy, category
 theory (math) and epistemology. By combining knowledge from
-developmental, behavioral and cognitive psychology, we should be able
-to learn how we learn. As we become familiar with this, we should be
-able to accelerate our development to learn better, faster, harder …
+developmental, behavioral and cognitive psychology, we enable
+ourselves to learn about how we learn. With this, we accelerate our
+development to learn better, faster, harder …
 
 This post uses an incorrect set of terms for describing epistemology,
-but that’s because I basically don’t know the proper vocabulary terms
-for the concepts I’m talking about. I’ve got a lot to learn. The first
-part is an intro. The second part discusses specific elements of our
-mind. It states that our brain is modular and our mind is powered by
-dynamically combining these modular elements. It then asserts that if
-we develop/improve some of these modular elements through some
-specific skill or hobby that those improvements should carry over to
-other skills that rely on any of those elements. Part three briefly
-enumerates some of the skills/hobbies that work best for this. It
-describes how and why these skills help our mind function more
-proficiently.
+but that’s because I basically I'm not using the usual epistemology
+language. The first part is an intro. The second part discusses
+specific elements of our mind. It states that our brain is modular and
+our mind is powered by dynamically combining these modular
+elements. It then asserts that if we develop/improve some of these
+modular elements through some specific skill or hobby that those
+improvements should carry over to other skills that rely on any of
+those elements. Part three briefly enumerates some of the
+skills/hobbies that work best for this. It describes how and why these
+skills help our mind function more proficiently.
 
 Eventually I will write part four and five, which provide a model for
 knowledge that’s based on category theory. Some people at Stanford
