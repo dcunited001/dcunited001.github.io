@@ -6,6 +6,118 @@ permalink: /writing/
 
 {:center: style="text-align: center;"}
 
+Everything I'm writing at the moment is like a draft. I'm creating a
+body of work I can rework into multiple books. Mostly non-fiction, but
+with some great ideas for fiction, including a fairy tale and fable
+about a princess and a mage.
+
+There's also a story about an alchemist who makes a momentus
+discovery, but flees an overzealous, draconian government into the
+depths of an ancient city, which becomes a metaphor for a spiritual
+transformation. He makes the horrible realization that, by discovering
+and relevating a true spiritual transformation that rivals competing
+faiths, he has broken an ancient seal restraining the materialization
+of demonic transplanar entities.
+
+### Yes! I'm Looking For an Editor
+
+When I write those books, particularly the non-fiction. I'm hoping to
+involve an editor the entire time. So yes, I'm looking for someone
+who'd like to edit my work. Most of the valid negative feedback I've
+received deals with style, form, and a lack of illustrations or
+diagrams.
+
+### On Criticism
+
+I love getting feedback on my writing, especially negative feedback,
+since it implies an opportunity for quick improvement. I value
+negative criticism much more than positive criticism, but I will
+disregard criticism when it's invalid. If the source of criticism
+doesn't clearly articulate their reasoning, this can occasionally be a
+test to see if I would be capable of filling in the blank. However,
+more often than not, if the criticism is a majority ad hominem, with
+little to no references to my ideas or arguments, it's baseless and
+invalid at best.
+
+### You Are Your Most Valuable Asset
+
+I love hearing what everyone has to say, but I constantly encounter
+people who want to throw me off with their criticisms. If you ever
+really get somewhere in life, you will find that you have to
+understand what defines you, what defines your work and how your work
+is an expression of yourself. You are your most valuable asset. Your
+definition of yourself and your creative expression: *that is what you
+have* as an artist.
+
+Your confidence conveys that. You will get shit tests all the time and
+people will specifically test you on exactly that. If you don't
+understand that or if you let any bozo tell you who you are, what your
+work means, or why you should change it, then you just don't got
+it. Take every piece of advice with a healthy dose of skepticism
+because people likely don't know you or your work, but they know
+confidence.
+
+### Why Is Novelty So Often Rejected?
+
+In fact, if you truly have something new, they won't understand it,
+but they'll understand how you react to it and how strongly you defend
+your artistic direction.  Further, a true artist doesn't define his
+work for you. If s/he does, their art probably lacks depth. Almost any
+work acquires depth through mystery and most attempts by artists to
+clarify or define their work will flatten it. So, truly, if your work
+pushes boundaries or it's captivating, *people won't understand it!*
+**In fact, for aestheticians and art critics, the degree to which your
+work defies comprehension by various audiences is a measure of your
+work's value!** Especially when it inspires fascination.
+
+The truly mysterious is what we lust after. There are so many people
+in my life who publicly criticize my writing by deriding it as lacking
+sense, coherence, structure, sources or adherence to typical academic
+language. I'm so glad these people are fucking idiots because they are
+proving that my work has value and these people would never do me any
+real favors. Please! Fucking clueless and let's keep it that way!
+
+### Criticisms on Lack of Sources
+
+The one criticism I hear most is a lack of sources! That's not so bad,
+compared to what people could criticize, and they are all points which
+I fully understand. And honestly ... an autodydact with no sources?!
+... Again, you're doing me favors. It's original content.
+
+For some articles, that's unacceptable. But again, I'm not an
+academic. Criticizing me for lack of sources? It's basically some tool
+too sharp for his/her own good asking me to do something they very
+well know burdens me with more time investment than the average
+academic. I'm writing posts about dozens of different fields without
+university education, which confers an understanding of what the
+groundbreaking studies are in those fields. Not only do I have nearly
+zero familiarity with the de facto, highly-cited papers in any single
+field, I'm often combining one to four fields.
+
+Ain't nobody got time for that! That's where most of the work happens
+when you write a 10,000-40,000 master's thesis. I'm not writing a
+thesis. I'm writing fucking blogs. I have about 100,000 words on deck
+and 300,000 words worth of content in vague outlines, with just as
+much on post-it notes.
+
+### Distributed Intellectual Property Attack
+
+Speaking of post-it notes, I'm also in the middle of a distributed
+intellectual property attack, which has been going on for several
+years. Essentially, I realized: ain't nobody gonna let David Conner
+win not nothin'! I mean c'mon! LOL ... And so, instead of sitting on a
+mound of ideas lusting over my first entrepreneurship win, I'm just
+going to write about all of this and forget about profiting.  I've
+never wanted money itself. I only wanted currency for influence.
+Including this disclaimer sounds lofty, but I only want to only
+release IP that is positive and beneficial.
+
+I've found that my true power all along is by connecting the right
+people with the right people and the right ideas. I found that, while
+I may never amount to anything myself, I am perfectly content
+acheiving nothing and knowing that I've planted the the right seeds in
+the right places.
+
 ## [Writing On Writing and Other Writings](#writing-on-writing)
 
 #### &#x2605; [American Eros: Or How to Fell a Souley](/posts/2016-07-07-american-eros-or-how-to-fell-a-souley.html)
@@ -67,8 +179,8 @@ kind of techno-nihilism could end up being corrosive.
 To help counter this, I've been thinking about putting together a kind
 of quasi-religion.  It's called oneiroism from the wordstem *oneiro*,
 which implies dreaming. Perhaps I specify that Oneirism is something
-more along the lines of philosophy in practice than a
-religion. Another idea would be for augmented self-improvement through
+more along the lines of philosophy in practice than a religion.
+Another idea would be for augmented self-improvement through
 cognition, as I've outlined in my
 [Directive Cognitive Expansion](/posts/2015-08-26-epistemology-cognition-and-category-theory-part-three.html)
 article. The idea there is to empower people by training them to use
@@ -181,6 +293,7 @@ I unlock some knowledge hidden away.  And perhaps for my own good...
 
 # &#x16DD; [Facets of Greatness](#facets-of-greatness) &#x16DD;
 
+
 This is a series on Leadership. Think of people like Steve Jobs, Elon
 Musk, Mahatma Gandhi, and Martin Luther King Jr. What about local
 community leaders that you find motivating and inspiring? What is it
@@ -209,6 +322,47 @@ a much better place. I wholeheartedly believe that a world full of
 empowered, knowledgable, wise people would certainly be a more
 peaceful world.
 
+### &#x2182; [Maximizing Mutual Benefit](/posts/2016-05-14-facets-of-greatness-networking-maximizing-mutual-benefit.html) &#x2182;
+
+How to quickly identify, vet and connect to mutually beneficial
+connections.
+
+### &#x2182; [Synoptic Epigrams](/posts/2016-05-13-facets-of-greatness-communication-synoptic-epigrams.html) &#x2182;
+
+An inappropriately titled article on why communication is
+important. Overview on Communication for Leaders. Leveraging your
+network with a concise message. Simple is better.
+
+### &#x2182; [If Actions Speak Louder](/posts/2016-05-13-facets-of-greatness-signaling-if-actions-speak-louder.html) &#x2182;
+
+Overview on Signaling. The how and why to signaling. Why signaling
+overcomplicates otherwise simple projects. How signaling is the
+missing piece for the otherwise exceptionally intelligent.
+
+### &#x2182; [Meta and Epi](http://localhost:4000/posts/2016-05-13-facets-of-greatness-knowledge-meta-and-epi.html) &#x2182;
+
+Overview of Knowledge. Understanding metaphenomena and
+epiphenomena. Constructing and reading models. Utilizing knowledge
+differential for profit.
+
+### &#x2182; [Congressional Power Structures](/posts/2016-07-14-facets-of-greatness-congressional-power-structures.html) &#x2182;
+
+An intuitive overview of working with political power structures. This
+is about leveraging your network, your goals and your colleagues'
+needs to get things done.
+
+### &#x2182; [Understanding the Political System](/posts/2016-07-16-facets-of-greatness-understanding-the-political-system.html) &#x2182;
+
+An overview of common blockers in the American political system, along
+with the reasoning and wisdom behind them.
+
+### &#x2182; [Monumental Accidents](/posts/2016-05-14-facets-of-greatness-the-unknown-monumental-accidents.html) &#x2182;
+
+There are no such things. Truly, nothing great is an accident. This
+article covers some disparate topics, such as diversity of body and
+mind, the modular mind, social engineering, independence and the art
+of bonsai.
+
 <a name="linguistics-and-semiotics" />
 
 # &#x16DD; [Linguistics and Semiotics](#linguistics-and-semiotics) &#x16DD;
@@ -218,6 +372,14 @@ peaceful world.
 # &#x16DD; [Consciousness](#consciousness) &#x16DD;
 
 TODO: edit & link stanford article
+
+It's important to note how lost I'd be without Coursera's free online
+education. Those courses are such stellar opportunities and I never
+would have had the insights I did without them. The first was Andrew
+Ng's Machine Learning class and it was mind-blowing. I was challenged
+at first, but by the second week, I was hooked. Taking this
+revolutionized my understanding and conceptualization of artificial
+intelligence.
 
 - mention importance of Andrew Ng's Machine Learning classes & Dan
   Boneh's Crypto classes on teaching me the math fundamentals to
@@ -272,7 +434,7 @@ though moderators quickly removed it. Users in other subreddits and a
 few not-very-supportive readers critiqued my work as rambling, but
 didn't actually demostrate knowledge of the content. This further
 demonstrates their lack of familiarity with my subject matter in
-general! THANK YOU CLUELESS READERS! You just proved my content was
+general! *THANK YOU!* You just proved my content was
 novel!
 
 Regardless, this piece's "rambling" nature is proof of genius: I didn’t
@@ -281,38 +443,49 @@ afternoon and just wrote until I published it.
 
 ### [Neural Networks and Spider Brains](/posts/2015-11-21-neural-networks-and-spider-brains.html)
 
-This is an article about consciousness that ties in nicely with
-“Consciousness as a Continuum” and “The Nature of Space, Time and
-Information Implies Universal Language.” It covers how a spider
-processes sensory information via insights its neural networks must
-make. This piece covers the lower levels of consciousness and more
-completely describes what I call the window of consciousness in later
-essays. These lower level neural networks drive insights which are
-provided to that window of consciousness, which the spider uses to
-drive its actions and behaviors.
+This is an article about consciousness that ties into **Consciousness
+as a Continuum** and **The Nature of Space, Time and Information Implies
+Universal Language**. It covers how a spider processes sensory
+information via insights its neural networks must make. This piece
+covers the lower levels of consciousness and more completely describes
+what I call the window of consciousness in later essays. These lower
+level neural networks drive insights which are provided to that window
+of consciousness, which the spider uses to drive its actions and
+behaviors.
 
-Want to know why I wrote this article? I was procrastinating and I saw
-a spider on the wall. And so I frantically typed up an outline. This
-is my Newton's Apple, if I have one. As I watched and interacted, I
+When I thought to draft these ideas, I was procrastinating saw a
+spider on the wall. And so I frantically typed up an outline. This is
+my Newton's Apple, if I have one. As I watched and interacted, I
 realized that, at some level, it must be capable of recognizing
 objects, types of objects, actions and types of actions in order to
-“inform” it’s actions. This post requires understanding of
-consciousness, neurology, machine learning and other somewhat esoteric
-fields.
+“inform” it’s actions. These capabilities imply that its neural
+networks must embody some structure which permits these
+capabilities. This post requires understanding of consciousness,
+neurology, machine learning and other esoteric fields.
 
-But … it could also lead to important insights for Artificial
+But … the post could also lead to important insights for Artificial
 Intelligence? I guess? I don’t know. But that right there is my
-genius: I don’t fucking know! I also don’t know why I have sixty cents
-to my name. Philosophy is spooky and dangerous!! Don’t think too hard
-about how you think!
+genius: I don’t fucking know! I'm caught between both a superiority
+complex and an inferiority complex! Throw me a frickin' bone here! I'm
+trying to establish credibility.
+
+It's pretty funny to watch people dismantle my work, but never
+actually mention any of the content. They usually go straight for the
+*ad hominem*, which is the debate equivalent of throwing your own poo
+at someone. It stinks and now you have poo on your hands. If you don't
+understand the language or whatever, that is fine. I'm more than happy
+to talk to you about it and I guarentee that within five to fifteen
+minutes, you will understand what it is I'm talking about, regardless
+of your education level. I guess that makes me a good teacher, too.
+
+I also don’t know why I have sixty cents to my name. Philosophy is
+spooky and dangerous!! Don’t think too hard about how you think!
 
 <a name="god-and-religion" />
 
 # &#x16DD; [God and Religion](#god-and-religion) &#x16DD;
 
 ### [The Nature of God](/posts/2016-05-31-the-nature-of-god.html)
-
-TODO: edit
 
 For that series and, in particular, for “Nature of God”, I thought
 that if I bait skeptical readers into attacking me by saying that my
@@ -329,7 +502,10 @@ And guess what? I was been attacked for just that! For using
 expressive language! I was told “the academic world doesn’t need
 people like that!” LMAO, seriously? WTF? The same user informed me
 that she created a Reddit account just to message me. I have no idea
-who it was, but I have some ideas … I think? ……
+who it was, but I have some ideas … Ya, it's probably just someone
+else catfishing me. That's real funny! Well, it's not traditional
+catfishing, but more like catfishing with carney tricks thrown in to
+really tug at the 'ole puppet strings.
 
 ### [I’m Not Religious, I’m Spiritual](/posts/2016-06-01-im-not-religious-im-spiritual-1-God-is-not-dead.html)
 
@@ -347,7 +523,40 @@ using some pretty convoluted language. This was an intentional
 direction in style. I wanted to use scientific imagery to appeal to
 atheists and scientists in particular. I also expected these same
 people to be the first to dismiss my work. No one really takes me
-seriously LOL (and it is something that I am well-acquainted with)
+seriously LOL.
+
+The notion of immediate rejection on whatever effective basis possible
+is something that I am well-acquainted with. I am constantly dealing
+with people who never plan on taking me serious and don't wish for my
+success, ever. It would make them wrong. They value saving face more
+than healthy progress for myself. I never get the chance to make a
+first impression. And so! I have learned to take this into account.
+Specifically, I often present people with openings to attack me on the
+assumption that they will (and they do) so when they attack me, they
+so it on my terms! It's a learned defense mechanism in a world of
+constant criticism.
+
+It's so bad, I have an analogy for my life that involves the
+statistical method of linear regression, where you are optimizing a
+function.  The general idea is that you've got a ball rolling down a
+hill and you want it to roll in such a way that optimizes some cost
+function. At each step, you're picking variables that allow the ball
+to roll down the hill to a more efficient solution.
+
+Well, in terms of my most common social interaction, in both the
+short-term and long-term, it seems that people around my are trying to
+micro-manage things like number of social connections, impact,
+credibility, appearance, and context, such that the ball rolls down
+the hill in a disadvantageous manner. It seems like they are well
+aware of psychological methods, but that they are using them to make
+things harder for me. In other words, their cost function is not
+optimized on my success, BUT ON MY FAILURE! Both in the short-term and
+long-term!  That's fucking crazy! But when, given hundreds of decision
+points, when I gauge the impact and intention behind their actions
+and, most crucially, the alternative available words/actions, it
+becomes clear: this person or this group does not care about me. Over
+the course of hundreds of interactions, it becomes clear: they always
+go with what is negative for me, especially in the long term.
 
 <a name="epistemology" />
 
@@ -402,7 +611,7 @@ root as technology evolves more rapidly. These are most definitely
 philosophical questions and I would argue that understanding
 philosophical problems could never be more important than at the
 current moment. Paradox of Creativity was the first article I posted
-on [/r/philosophy]()
+on [/r/philosophy](https://www.reddit.com/r/philosophy)
 
 Figuring out how to stave off nihilism and the death of individuality
 is our Riddle of the Sphinx. The roots of almost all 21st century

@@ -956,6 +956,8 @@ do anyways. You'd be surprised...
 
 ## &#x1f48e; [Orchestration](#orchestration)
 
+#### &#x2182; [Congressional Power Structures](/posts/2016-07-14-facets-of-greatness-congressional-power-structures.html) An intuitive overview of working with political power structures. This is about leveraging your network, your goals and your colleagues' needs to get things done.
+
 Orchestration is really the execution of strategy.  Whereas strategy
 concerns intuition and knowledge of each of the other facets,
 orchestration concerns coordination of each facet.  You're working
@@ -982,7 +984,7 @@ how to design with redundancy and resilience in mind.
 
 ## &#x1f48e; [???](#unknown)
 
-#### &#x2182; [Monumental Accidents](/posts/2016-05-14-facets-of-greatness-the-unknown-monumental-accidents.html)
+#### &#x2182; [Monumental Accidents](/posts/2016-05-14-facets-of-greatness-the-unknown-monumental-accidents.html) There are no such things. Truly, nothing great is an accident. This article covers some disparate topics, such as diversity of body and mind, the modular mind, social engineering, independence and the art of bonsai.
 
 This is the Unknown facet.  It's a mystery.  Wrapped in an enigma.
 Contained inside a box!  It's a box.  I wonder what's in it?
