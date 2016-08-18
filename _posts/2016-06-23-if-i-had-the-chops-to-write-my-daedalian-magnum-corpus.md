@@ -15,7 +15,7 @@ excerpt: "Dico ergo quia non loquimur de talibus naturaliter possibilibus sed
 
 {:center: style="text-align: center;"}
 
-### &#x2605; [Themes](#themes) &#x2605; [Form](#form) &#x2605; [Plot](#plot) &#x2605; [Characters](#characters) &#x2605; [Style](#plot) &#x2605;
+### &#x2605; [Themes](#themes) &#x2605; [Form](#form) &#x2605; [Plot](#plot) &#x2605; [Characters](#characters) &#x2605; [Style](#style) &#x2605;
 {: center}
 
 I love taking the time to stop and think about literature I read and

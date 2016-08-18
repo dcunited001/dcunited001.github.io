@@ -57,26 +57,88 @@ permalink: /writing/
 I'm publishing this a bit early because I have to attend to some other
 writing and this is hanging me up. It's linked to by every page.
 
+# &#x16DD; [Oneiroism](#oneiroism) &#x16DD;
+
+When people no longer need to work and when computers are more capable
+of creation than people, the Singularity will threaten to destroy the
+incentivization structure that motivates people towards action. This
+kind of techno-nihilism could end up being corrosive.
+
+To help counter this, I've been thinking about putting together a kind
+of quasi-religion.  It's called oneiroism from the wordstem *oneiro*,
+which implies dreaming. Perhaps I specify that Oneirism is something
+more along the lines of philosophy in practice than a
+religion. Another idea would be for augmented self-improvement through
+cognition, as I've outlined in my
+[Directive Cognitive Expansion](/posts/2015-08-26-epistemology-cognition-and-category-theory-part-three.html)
+article. The idea there is to empower people by training them to use
+their minds through art, science and meditation.
+
+I'm a bit afraid what I write might be taken too seriously, but I
+think humanity needs to return to myth to connect with our roots and
+that through myth and through codified practices, we can inspire
+people to strive for self-improvement in the face of nihilism.
+
+One idea for a practice is geared towards the need to protect
+individuality and find a way to stand up against nihilism. The episaga
+is aimed at addressing both. Everyone would have their version of a
+particular story which would be a meditation on something like Love or
+Justice or Heroism. [American Eros](#american-eros) is the first such
+story.
+
+By maintaining a personal version through their life or collaborating
+with others on their version of a particular story, they are
+developing their ability to recognize/utilize/strengthen those traits
+in themselves and others. Furthermore, it represents individuality for
+the sake of individuality as we approach the end of individuality.
+Individuality can provide us with drive and purpose. This can help us
+stand up against nihilism.
+
+I don’t see anyone else talking about an idea like the episaga. There
+are similar concepts, but this is specifically targeted towards
+addressing philosophical problems in the near-future. I know there are
+authors out there with whom this would really catch on.
+
+> Oh Tyche, might thee shine on me...
+
 <a name="writing-on-writing" />
 
 # &#x16DD; [Writing On Writing. And a Short Story](#writing-on-writing) &#x16DD;
 
 ### [If I Had the Chops to Write My Daedalian Magnum Corpus](/posts/2016-06-23-if-i-had-the-chops-to-write-my-daedalian-magnum-corpus.html)
 
-TODO: rewrite this
+If you had asked me at age nineteen to pick a career path I'd never
+explore, I would have immediately and emphatically answered with
+"Writer." Recent exigent events seemed to have altered the course of
+my destiny. Such unquestionable axioms of reality, suddenly reek of
+fallibility, like "DC would never, under any circumstance, ever become
+a writer. You can count on that like the sun coming up." Apparently
+this is no longer true.
 
-This article was about exploring and articulating my own writing
-process
+In exploring the possibility of being a writer, I decided to explore.
+and articulate my own writing process. I decided to write an article
+about it. As a writer, it seems it'd be useful in finding an
+editor. The first thing I'd want to communicate to an editor is how I
+think about writing. I've enumerated the other elements of the writing
+process as Theme, Form, Plot, Characters and Style. As themes are the
+most important aspect of writing, IMO, I created a list of hundreds of
+themes, which I'll include in part two of Daedalian Magnum
+Corpus. Themes are the ideas behind your work that you want your
+readers to explore. Themes are why your work would be interesting or
+why they'd inspire discussion. There are tons of good stories and
+intriguing characters, but themes are where your work connects with
+the human condition.
 
-about empowering people who’d
-want to write … I guess? My heads getting a bit big here LOL. I wanted
-to describe my own writing process, for my own purposes as a writer.
-So I ended up writing this. The second part is still incomplete, but
-is mostly available in the drafts branch on Github ... for now.
+And I wanted to empower people who’d want to write … I guess? My heads
+getting a bit big here LOL. I wanted to describe my own writing
+process, for my own purposes as a writer. So I ended up writing
+this. And I think it's useful reading for anyone who wants to tell a
+story. If you're making a video game or writing a screen play or just
+writing a journal, this article is useful.
+
+<a name="american-eros" />
 
 ### [American Eros: Or How to Fell a Souley](/posts/2016-07-07-american-eros-or-how-to-fell-a-souley.html)
-
-TODO: shorten
 
 American Eros is first a short-story about love at first sight,
 without sight. It's also a pitch for a revolutionary new concept that
@@ -94,33 +156,11 @@ and the more general, the better! Storytellers can fork off of other
 versions of the myth or collaborate. The self-imposed restrictions
 help foster creativity.
 
-To explain further here are several invariant plot points -- fixpoints
--- which should mostly stay the same. And other people would
-contribute towards them. The fixpoints should be as generic as
+To explain further here are several invariant plot points --
+*fixpoints* -- which should mostly stay the same. And other people
+would contribute towards them. The fixpoints should be as generic as
 possible and there should only be a handful. Ideally, for plotpoints,
 just one or two, to preserve variations in form.
-
-quasi-religion. It's called oneiroism. Perhaps I specify that Oneirism
-is something more along the lines of philosophy in practice than a
-religion. The idea is that we need to protect individuality and find a
-way to stand up against nihilism. This is aimed at addressing
-both. Everyone would have their version of a particular story which
-would be a meditation on something like Love or Justice or Heroism.
-
-By maintaining a personal version through their life or collaborating
-with others on their version of a particular story, they are
-developing their ability to recognize/utilize/strengthen those traits
-in themselves and others. Furthermore, it represents individuality for
-the sake of individuality as we approach the end of individuality.
-Individuality can provide us with drive and purpose. This can help us
-stand up against nihilism.
-
-I don’t see anyone else talking about an idea like the episaga. There
-are similar concepts, but this is specifically targeted towards
-addressing philosophical problems in the near-future. I know there are
-authors out there with whom this would really catch on.
-
-> Oh Tyche, might thee shine on me...
 
 ### [Oneironautics: Questing for Lucidity](/posts/2016-05-14-oneironautics-questing-for-lucidity.html)
 
@@ -141,18 +181,33 @@ I unlock some knowledge hidden away.  And perhaps for my own good...
 
 # &#x16DD; [Facets of Greatness](#facets-of-greatness) &#x16DD;
 
-TODO: blurbs about some of the articles and the inspiration that drove them
+This is a series on Leadership. Think of people like Steve Jobs, Elon
+Musk, Mahatma Gandhi, and Martin Luther King Jr. What about local
+community leaders that you find motivating and inspiring? What is it
+that sparks leaders great and small to begin work on projects that
+seem monumental or impossible or hopeless? Why do they strive onwards
+where everyone else gives up? Why do they find success when others
+might work harder?
 
-What is it that sparks great people to identify those things they're
-known for? And I don't mean their accomplishments, but the subtle
-aspects of their craft that they care so much about because they've
-realized something the rest of us missed.  (examples?)
+For leaders like Ghandi, IMO, he gained an opportunity because his
+non-violent tactics countered traditional resistance to social
+change. And his tactics and protests, perhaps by chance or by genius,
+built a movement. Ghandi was a master of social networking before
+Facebook or Twitter.  Either he was very lucky and capitalized on his
+chance or he was a genius at networking through people. How could a
+fairly soft-spoken man like Ghandi inspire people throughout India at
+a time when the telecommunication system was still being developed
+there?
 
-TODO: which articles to link/summarize? For now, just those two, but I
-should highlight the two or three best.
-
-This is a series on Leadership. I've linked to interesting
-articles. Actually, they're all interesting.
+What makes these people different? What are those subtle aspects of
+their craft they care so much about, yet everyone else managed to
+miss? There must be something that makes these people different in a
+way. What do they know that the rest of us are missing out on? Would
+the world be a better place if many of these ideas were common
+knowledge? Yes, with the exception of some ideas, I think it would be
+a much better place. I wholeheartedly believe that a world full of
+empowered, knowledgable, wise people would certainly be a more
+peaceful world.
 
 <a name="linguistics-and-semiotics" />
 
