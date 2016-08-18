@@ -73,6 +73,30 @@ contact necessarily prevent people birthing a social movement from
 networking to the outside. So no, a social movement like that would
 not be born in those conditions because it could not possibly be.
 
+categories of reasons & benefits/drawbacks of censorship
+
+#### Reasons/Analysis For Factions Wanting Censorship 
+
+- profit & market/IP control
+- to prevent technological disaster
+  - by assessing capabilities of people
+- to prevent/control the spread of info
+  - particularly that which may undermine social institutions
+  - to prevent hysteria in the middle of a crisis
+- to isolate people by controlling the social connections b/w people
+  - managing HUMINT networks
+- managing SIGINT/MASINT networks & data flow
+  - reactive/proactive SIGINT & MASINT
+    - implying the use of social media & SEO
+- for general social engineering
+  - to encourage people to access some topics over others
+  - to encourage some behaviors and discourage others
+- to totally lock down access to information sources
+  - to monitor 
+
+#### Reasons/Analysis For Factions Wanting Censorship 
+
+
 So, we see some major forces driving the debate around free speech.
 - is there a better term than "forces" ?
 - corporate forces (seeking to establish a cartel/monopolism/etc
@@ -249,7 +273,7 @@ feedback loops that have a runaway affect that *DIVIDES AMERICA*.
 These algorithms are difficult to design, tweak and validate in the
 first place, but there are major problems here, as far as I can see.
 
-# What Was *The Prophecy?*
+# What Is *The Prophecy?*
 
 Tight control over communication media and content stifles social
 change before it has a chance to grow. These policies are usually
@@ -295,7 +319,7 @@ metaphysical values such as uncertainty in science experiements or
 depth measurements or values tied to physical reality pulled into the
 metaphysical realm.
 
-### Ideas Attain Life of Their Own
+### Ideas Acquire Life of Their Own
 
 Ideas begin to take a life of their own and their effects reach into
 reality at an ever-increasing pace. They acquire a life of their

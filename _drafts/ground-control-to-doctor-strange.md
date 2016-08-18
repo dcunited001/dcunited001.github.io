@@ -262,8 +262,55 @@ they exist out of it (or within it or around it)
   - would there necessarily be some incarnation of that archetypical
     being in a metaverse branch/grouping?
 
-what is the state of knowledge of some being of consciousness in other
-planes/branches/etc
+
+#### If a consciousness moves across the metaverse, can this cause memory problems
+
+- time congealed (?) memory loss in a true(suspected) spiritual experience
+  as the result of reaching through the metaverse
+  - and then your experience is split between multiple universes
+  - those experiences be experienced by a linked/merged/forked
+    consciousness, but if things occur slightly differently in each
+    different universe considered, then where does the memory get
+    written?
+    - what is stored in the brain and what is stored in the mind?
+    - does quantum mechanics provide a mechanism whereby this
+      information can be shared across all universes, some universes,
+      etc? (more on this topic is discuss in the next section)
+- assuming this metaverse stuff or something similar is possible
+  (quantum mechanics seems to point to something like this) then,
+  - again, if someone experiences a spiritual experience or the
+    intervention of some metaversal entity (i.e. possession or having
+    God speak through you) then where does the information about that
+    experience get stored?
+    - would some of the memory be stored in one world versus another?
+    - in an experience like this, would some of it be shared across
+      all universes in which the experience occured
+  - if the experience actually involved time travel, how would that
+    look like in this metaverse-based world?
+    - if someone channeled their consciousness from the future, it
+      seems like this would cause the experience of the current
+      universe to be spliced into many worlds,
+      - whereby the new spliced worlds that lack a path that funnels
+        these worlds into back into a destined, singular reality for
+        that universe fade away
+        - that's because it's like a time loop spliced across the
+          metaverse
+        - so the paths that don't connect back never existed.
+    - this is what i meant above with "time-congealed"
+- double slit experiment and macro-scale quantum convergence
+  - imagine the spliced world-paths described above with or without
+    time travel crossing together and overlapping at several
+    "gate-points"
+  - this is similar to saying that these spliced world-paths overlap
+    at points which are like the slits in the double slit experiment.
+    - there's then these wave-functions that form around those
+      interactions, but describing moreso macro-level events
+      - or maybe not the macro-level events, but it's an interesting
+        idea. one that's most likely not true.
+
+
+#### State of Knowledge of some being of consciousness in other planes/branches/etc
+
 - how does it know what it knows when its in various branches?
   - there must be some information about information
     - and there must be some minimal kernel of the structure of information

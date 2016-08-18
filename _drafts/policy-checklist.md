@@ -104,6 +104,20 @@ Brief quotes from RNC speeches:
   saying"
 
 
+=============
+
+
+#### difference b/w RNC & DNC:
+
+one couldn't wait for the country to see them for what they truly
+were. The other has to make it through the next week frantic the
+country might see them for what they are.
+
+Regardless of what each says about the other, which one would you
+prefer to lead? The one who's proud to show you who they truly are,
+even when that means showing their flaws. or handling the perceived
+flaws from unfair press coverage.
+
 ================================
 
 CSPAN2 talk on presidential transitions:
