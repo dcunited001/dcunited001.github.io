@@ -31,18 +31,19 @@ mostly anything. Of course, you can't shout "Fire!" in a crowded
 theater. Still, hidden to most, this freedom of speech was limited
 intellectually.
 
-### Don't Shout Fire in a Crowded Theater
+### Don't Shout Fire
 
 There are just some things you're not supposed to know and some things
 that are incredibly dangerous to say, regardless of their
 truthiness. Those things include some equivalents of shouting "Fire!"
 and causing a panic in the global economy. For the most part, it's
 impossible to do this, but it's a great example of the kind of things
-that will cause you to accumulate enemies in America.
+that will cause you to accumulate animosity in America, even if you
+don't actually intend that to happen.
 
 ### Don't Be Paranoid About CIA Operations
 
-#### Especially Not If You're Going To Be Correct
+#### Especially Not If Your Speculations Are Correct
 
 Also, it's not a good idea to state details of otherwise unquestioned
 CIA operations, mostly unknown to all but a few hundred thousand
@@ -73,13 +74,12 @@ and logistics.
 Another example of a limit on free speech is mentioning implementation
 of technologies which are supposed to be secret, like biotech,
 gentech, neurotech, quantum computing and "quantum networking". I
-don't know if quantum networking is practical, by the way. But this
-one is a big NO NO. As in, do not think to hard about what is too far
+don't know if quantum networking is practical, but China just launched
+a satellite to study quantum networking. Or they claim they did. If
+you're wondering what QN is, it's basically the Ansible from Ender's
+Game. But getting too far ahead on technology is a big NO NO
+... apparently. As in, do not think to hard about what is too far
 outside of the content on TV.
-
-China just launched a satellite to study quantum networking, by the
-way. Or they claim they did. If you're wondering what QN is, it's
-basically the Ansible from Ender's Game.
 
 #### Especially Math and Cryptography!!
 
@@ -204,11 +204,14 @@ me? NO! They tried to lock me in the looney bin!
 > And if I'm totally wrong about the bitcrunching algorithm using
 > Hidden Subgroups to resolve edit distance for nucleotides in
 > constant time, then by all means: fucking let me know! LOL I really
-> have no idea. All I know is that I have an edit distance or
-> levenschten neighborhood algorithm in constant time that could be
-> used for a genomic sequencing algorithm that far surpasses existing
-> sequencing algorithms. I get the feeling this is a common problem
-> domain where people bridge into strictly vertboten NSA maths...
+> have no idea. I've read recent and older papers relating similar
+> problems to
+> [Boolean Satisfiability](http://cacm.acm.org/magazines/2009/8/34498-boolean-satisfiability-from-theoretical-hardness-to-practical-success/fulltext)
+> All I know is that I have an edit distance or levenschten
+> neighborhood algorithm in constant time that could be used for a
+> genomic sequencing algorithm that far surpasses existing sequencing
+> algorithms. I get the feeling this is a common problem domain where
+> people bridge into strictly vertboten NSA maths...
 
 What are examples of math problems I intuitively understood high-level
 solutions? Without understanding the actual maths or proofs...  And
