@@ -15,7 +15,7 @@ excerpt: ""
 - motivation behind why censorship is important now!
   - already published for the most part
 
-#### Part Two: Philosophy of Censorship
+#### Part Two(?): Philosophy of Censorship
 
 - why free exchange of ideas matters!
   - why is it that free exchange of ideas leads to progress for
@@ -25,7 +25,9 @@ excerpt: ""
     philosophy
     - especially from an epistemological standpoint
 
-#### Part Three: Censorship In Social Media (title?)
+================================================================
+
+#### Part Three(?): Censorship In Social Media (title?)
 
 intro:
 
@@ -45,6 +47,82 @@ communicate about it: like when your GPS signals aren't in the same
 location. And if they simply mute the notification -- oops it must be
 a bug or something.
 
+=========
+
+The real value in social media is user time and attention. Some social
+media products engage millions or billions of user-hours of per
+day. Control of the information presented or not presented is
+incredibly powerful! It's subject to sufficient influence by
+corporations or governments. Without external manipulation, newsfeed
+and search algorithms are difficult to implement redundantly,
+efficiently, and equitably. These SEO providers are in an arms race
+with the algorithms of Search and Social giants. There are entire
+industries dedicated to SEO and social media to fairly influence these
+algorithms and their products are layered on top of products like
+Facebook and Google. When the government pressures Twitter to remove
+trends, they may be nullifying the influence of hundreds of thousands
+of passionate grassroots protesters who managed to land their first
+major trend after months of hard work. A government or corporation who
+exerts significant influence over the information presented in
+Facebook News or Twitter trends may be muzzling a viral publicity
+success only achieved through millions of dollars in donations to a
+non-profit. And in doing so, these large, powerful entities are strong
+arming the economics of the tech industry. This not only robs people
+of their voice and influence, but also degrades several key metrics in
+the technology space: actual delivered value to customers
+(impressions, clicks, conversions, engagement time), expectation of
+ROI for consumers, quality of service to customers, customer
+satisfaction, and the fair market price for a product.
+
+Since social media consumers only have a limited amount of time per
+day, this is analagous to a house party that orders a large amount of
+pizza, which represents the purchase of SEO services or advertising
+from Twitter. As the total time of user engagement is fairly fixed,
+there is only so much pizza to go around at that party: what the
+attendees ordered. But government interference in social media is like
+a group of drunk people showing up to your party and taking away
+entire pizzas. It completely interferes with the economics of tech
+products by indirectly and directly affecting the metrics mentioned
+above. This should violate policy with the FCC for interfering with
+the authenticity of message and delivery of content. Similarly, this
+should violate some federal policy for mucking around in specific
+industries, though it's outside the SEC's purview.
+
+This is a clear example of how Big Government's overreach interferes
+with the equitable, transparent and efficient functioning of a market,
+bogging it down and making it less competitive to global markets!
+
+
+
+the attendees decided to pitch.
+
+There are several arguments for restricting government interference in
+the operation of web applications.
+
+Passive surveillance of data isn't
+as worrying as direct influence of their products. In the US, the
+telecom industry is tightly coupled to the federal government. Control
+of telecom industry, the fabric of the route/switch layer, and
+access/documentation for the physical layer confers God-like hacking
+powers. Access or influence to any of these things makes otherwise
+challenging hacks absolutely trivial.
+
+However, strict regional or international regulation of these products
+can stifle innovation by encumbering new products with overburdening
+requirements that restrict agility, requiring dozens of employees
+instead of a handful for a startup. Such regulations might include
+forcing geolocated application containers/servers to be hosted in
+datacenters within the geographic borders of a nation or under
+networks controlled by that nation. Examples include Brazil, which
+recently forced Google to host Brazilian Gmail data in Brazil. Such
+rules make sense at times, but may completely choke out
+innovation. Also, such rules can make it difficult to index data
+distributed across the world. Such problems with indexing or aggregate
+data reduces the quality of targeted advertising products for
+companies like Facebook or Google.
+
+
+================================================================
 
 
 (more about how we blind our own SIGINT via social media algorithms)
