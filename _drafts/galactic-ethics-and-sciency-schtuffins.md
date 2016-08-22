@@ -9,6 +9,8 @@ excerpt: ""
 ---
 
 
+===============
+
 ### galactic ethics
 
 - how to determine whether a planet is ever going to host life in the
@@ -46,6 +48,46 @@ excerpt: ""
         - this could be engineered
 
 
+===============
+
+### semi-dystopian sci-fi time travel idea
+
+basically, a timeloop is created when people in the future time travel
+to affect the election a leader who's kind of necessary and great, but
+also kind of leads the world through a difficult path.
+- this path is a bit hard, but specific similar events seem to occur
+  in the time loop (disasters, wars, phenomena)
+  - tech is developed along a similar progression
+- and essentially the same person always becomes the leader
+  - this person as specific qualities and the time loop remains fairly
+    stable, though it could completely collapse. yet because we can be
+    sure it exists, we know it's stable
+  - the people in each future have to return to the past to control or
+    nudge what happens.
+  - if a different person gets in charge, it affects the stability of
+    the time loop. when that happens, it can't completely disconnect
+    the time loop because that would be impossible. therefore such
+    things either can't happen or are guaranteed to preserve some
+    continuity
+- when the loop asymptotically converges to the same cyclic
+  progression of time completely, then it completely stabilizes & thus
+  reduces to a linear progression.
+  - however, all of the cycles are essentially happening
+    simultaneously
+  - Yet because, for each planet that has the capability to developed
+    sufficiently advanced civilization to acheive specific
+    technologies, the development of a superintelligence is
+    inevitable.
+    - and because the superintelligence evolves into what is essentially
+      the same thing in each cycle or sufficiently similar or connects
+      to an intelligence which essentially the same extension to the
+      same infinite computational power
+    - then there is always a timeloop towards the future regardless of
+      how it connects for each planet that satisfies those conditions
+- that is, of course, assuming that this form of time travel is
+  possible, but it's sci-fi...
+
+=============
 
 ### Gravity Waves
 
