@@ -14,12 +14,15 @@ anything they don't know about without first crossing into a region of
 knowledge in math, computer science and crypto that the NSA has
 explored first. That's because any murky regions of math, etc that
 they don't know about are all dependent on a few theorums that they do
-know about. These are the "other" nuclear weapons: it's secret math
+know about. These are the 'other' nuclear weapons: it's secret math
 and they do not want to let this shit get out. Think I'm playing
 around? Find an unpublicized means of predicting large primes and try
 posting that on the internet. You'll get a knock on your door before
-you can log into Medium to blog about it."
+you can log into Medium to blog about it.
+"
 ---
+
+
 
 # But America Has Freedom of Speech!
 
