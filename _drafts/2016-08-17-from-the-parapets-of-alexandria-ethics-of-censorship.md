@@ -16,7 +16,7 @@ excerpt: ""
 
 # **アレクサンドリア**の**丏**から
 
-#### Part Two: Ethics of Censorship (in the 21st century)
+### Part Two: Ethics of Censorship in the 21st Century
 
 In the 21st century, lightning fast communication and augmented
 algorithmic distillation will magnify the effects that ideas have on
@@ -32,6 +32,262 @@ Further, various governments may attempt widespread censorship. These
 pushes towards censorship that are self-motivated or complete will
 stifle both economic development and humanity's development as a
 whole, on a regional scale as well as global.
+
+### But America Has Freedom of Speech!
+
+In the past 15 years and since 1776, Americans had the freedom to say
+mostly anything. Of course, you can't shout "Fire!" in a crowded
+theater. Still, hidden to most, this freedom of speech was limited
+intellectually.
+
+There are just some things you're not supposed to know and some things
+that are incredibly dangerous to say, regardless of their
+truthiness. Those things include some equivalents of shouting "Fire!"
+and causing a panic in the global economy. For the most part, it's
+impossible to do this, but it's a great example of the kind of things
+that will cause you to accumulate enemies in America.
+
+Also, it's not a good idea to state details of otherwise unquestioned
+CIA operations, mostly unknown to all but a few hundred thousand
+people in the world. That's generally a bad idea! They suicided Gary
+Webb for uncovering the cocaine connection in the Iran Contra
+scandal. This is one place where I really incurred the wrath of the
+feds.
+
+In 2005, I was mostly parroting things I read on various alternative
+news sites. Some of those things were false. In 2011 and 2012, I
+learned enough *and interpolated enough* to be scared. The key there
+is that I read between the lines and that I kept my fucking mouth
+shut. What I saw? Holy shit! Yeh, I actually started keeping my
+fucking mouth shut, for the most part. In 2013, I had learned enough
+to begin unraveling and extrapolating things that are never spoken
+aloud, even by those involved. However, if I hadn't kept my mouth
+shut, they would have easily identified me. And in 2013, they did, but
+they misread me because I had read one-too-many wikipedia pages on
+the intelligence community and inferred a ton about their operations
+and logistics.
+
+Other examples include mentioning implementation of technologies which
+are supposed to be secret, like biotech, gentech, neurotech, quantum
+computing and "quantum networking". I don't know if quantum networking
+is practical, by the way. There are lots of secret technologies that
+the DoD researches and understands a bit about, at least. However,
+they are usually prototypical projects, either proof of concept or
+expensive one-off implementations. They are almost never projects
+produced at scale because that would be insecure and make the tech &
+knowledge of it more available.
+
+And these DoD people spend even more money than on research just
+trying to keep this shit secret. They don't want people to even know
+what they experiment with because then people might infer it is or
+isn't possible just based on whether they pursued subsequent
+projects. This is what infuriates me when our media reports that China
+hacked our F-35 program, etc, etc, which oddly doesn't seem to be
+happening as much as it used to. I guess that's a good thing.
+
+My point is: perhaps the worst thing you can do with regards to free
+speech in America is actually become too smart. That's right. That's
+worse than all of the above. And truthfully, that is exactly what I
+did. I accidentally uncovered an algorithm that is connected to some
+math and apparently that math is dangerous. It was a bitcrunching
+algorithm for edit distance in genomics that was essentially a 2-bit
+quantum computing algorithm. It wasn't hard; *it literally wasn't
+hard!* And this is the kind of shit that a promising freshman at
+Stanford could do. Whatever it was, it has invited all kind of shit
+into my life.
+
+And that's precisely the source of my problems: basically, I'm too
+intelligent and I learned too much. And did the government reward
+that? Hell no! The government couldn't figure out how to assign me to
+some job to distract me because, at the same time, I have been subject
+to methodical psychological torture whereever I go! And I spoke up
+about this algorithm and began uncovering tons of other possible
+technologies that weren't in the news. I certainly hadn't heard of
+them. Since it appeared that I was isolated and because I was proud of
+my work and my potential, I wanted to prove that to other people.
+
+For many of the technologies, I knew that I'd never have the chance to
+develop the stuff, so I just tweeted about it, hoping I'd put out a
+message in a bottle and it'd make its way into the right person's
+hands. About 95% of this stuff had already been developed and publicly
+studied. Some of it hadn't and was incredibly powerful, especially a
+few algorithms and math ideas I had.
+
+The only thing that will trigger people to attempt to distract me more
+than my writing is math. If I start watching math lectures online,
+people fucking freak out. In a wierd way, because they can't actually
+indicate to me that they are interfering in my life. So it's pretty
+funny actually because I get to watch them squirm.  They so badly want
+me to fail so it'll they'll save face when it justifies everything
+they've done thus far!
+
+And trust me: I know that they have interfered and how they typically
+do it because it's been happening for 5 or more years! I also know
+that they know the level of significance, but I also know that these
+same people do not actually undestand either the content or the reason
+it's significant: because I couldn't even comprehend its
+significance. This prompts some interesting questions surrounding how
+someone would maintain near-constant awareness of what I'm working on
+and then have the capacity to communicate it to my family (& other
+handlers) and the influence to coerce them into being abusive!
+
+Yet, they can't tell me that I'm not worthless because they're then
+prompted with an antithetical delimma. They can't admit that I have
+potential or accept how significant that potential is because it would
+triggers a minor ego-crisis. I'm hoping that it occasionally makes
+them question their purpose in life. And again, they can't tell me, so
+they have to manipulate me emotionally using gaslighting, etc. And
+it's incredibly abusive. Welcome to my life.
+
+What's so mean, IMO is that they do this and they KNOW what I'm
+capable of and they refuse to acknowledge it in any way, telling me I
+should work at a fucking minimum wage job. Rich or poor, it is not
+about the money I make. It is the fact that I have the ability to
+change the world with my mind. I have a gift that most other people
+don't have. And instead of being permitted to use that gift? I'm
+psychologically tortured and forced to believe that everything in my
+situation is my own fault. All the while, the people directly
+manipulating & handling me? They all KNOW my potential, but they
+still actively seek to prevent others from learning the truth or even
+looking! It's bullshit!
+
+I can't understate how cruel this is. And someone is making people in
+my life do this and I wanna know how they do it and why. Because, with
+as much psychological trauma has been inflicted on me, imagine what
+it'd feel like to be the person who is forced to be twisted against
+their own fucking friends and family! Specifically because their
+friend or family member has incredible, unseen potential. And they are
+forced to make that person question his own worth, which has all been
+directly and indirectly as a project to force me to kill myself. It's
+much easier to deal with this when I understand what people are doing,
+but it's hard knowing how much these people have ruined for me. And,
+in doing so, how much they have set the world back.
+
+Furthermore, whoever has been maintaining near-constant surveillance
+in my life *does have the capacity to understand the significance of
+my work!* This means they can steal whatever they want from whatever
+projects I'm working on. And they do so and they take it and they beat
+me over the fucking head with it, all while coercing my family in a
+weird, illegal experiment to try to get me to commit suicide. And
+another objective is to keep me isolated and restrained from contact,
+especially people involved in the technology industry or those who
+might recognize my genius!!!
+
+Fucked up, right? Maintain surveillance. Continue methodical
+sociological harassment to isolate and discredit. "Street theatre" to
+humiliate, discredit & distract *any time this person might be in
+public*. Establish trust to plant individuals in his life who can
+distract & discredit. Place ethical and moral traps in front of him to
+distract, confuse, humiliate and discredit. Never allow that person to
+have a friend. Do not allow him to establish contact with "the
+outside." Ruin his life in 2011 weeks before he's going to apply for a
+passport. Dissuade him from leaving the country, which is justified
+because he's a national security threat. Threaten and harrass his
+family and friends to twist them against him. Allocate millions in
+budget for HUMINT/SIGINT resources. At no time, ever allow him to
+understand the situation he's in. Forge any documents he's ever signed
+without permitting him to understand the contracts he's entered. Make
+vague, but tactically relevant insinuations to manipulate him. Place
+someone around him with a J.D., an "interpreter" who asks questions
+which only seem relevant now, but at no time should you ever inform
+him that he might need a fucking lawyer. The guy's pretty cool though.
+
+OH! AND FUCKING STEAL ANYTHING HE DOES THAT MIGHT PRODUCE VALUE. Then
+beat him over the head with it and NEVER, EVER, EVER allow that person
+to get so much as a pat on the back. He's a slave. Slaves should be
+demeaned.
+
+Oh, and get it all on video and broadcast it to the country live.
+
+# Factions Invested For or Against Censorship
+
+### Corporations and Multinational Conglomerates
+
+These factions will have interest in controlling technology.
+Particularly, the IP behind nanotech and gentech, which the entities
+invested will identify, brand and market as dangerous for several
+reasons. First, these technologies truly are dangerous. So they'll
+want to work together to shield the industry as a whole from
+liability, PR disaster, and perceived risk.  Second, they'll want to
+control the technology to profit from it themselves. Sharing
+information in general means that subsequent technology becomes easier
+to develop. Finally, at the investor level, people who fund these
+businesses want redundant, tight mechanisms of control over the
+progression of this technology.
+
+### National Security (Tech, Police & Policy)
+
+Agencies and organizations focused on national security will want to
+hang on to this social media paradigm of user interaction in the
+internet. Virtual reality is so fundamentally different that it
+becomes harder to monitor. Google, Facebook, etc will not be able to
+index UI/UX data around it, which is what most of those business
+models are based on. This implies a revolution in business strategy
+for the consumer-facing aspects of technology industries.
+
+However, from the perspective of government agencies, this is
+detrimental. They want to monitor their users' activity by
+piggy-backing off of the data generated by legitimate products. They
+want a more centralized set of user applications, where the power is
+in the hands of a few organizations.
+
+Therefore, National Security organizations' interests in censorship
+are more subtle and general: they want to mold the industry into
+particular kinds of shapes that are easier to manipulate. Right now,
+the technology industries deliver data for intelligence in a way that
+outmatches any future development: it's about as good as it's ever
+going to get. They will resist any movement away from the current
+paradigm of user interaction in technology.
+
+In America, these organizations want you to have enough freedom to
+speech, so that you'll feel comfortable enough to self-identify
+online. Or, at least, that's how it's felt since Sept 11th, 2001. DHS,
+especially, will fuck with your life and you will have no clue what
+hit you.
+
+### Political Parties and Factions
+
+Particularly in democracies, groups like political parties, think
+tanks and lobbyists will want to be able to exert influence over the
+conversation on social media and technology. These organizations,
+whether operating in official government capacity, will also want to
+hang on to that same social media paradigm.
+
+### Political Movements
+
+### Military Organizations
+
+### Individuals
+
+### Academic Institutions
+
+So, we see some major forces driving the debate around free speech.
+- is there a better term than "forces" ?
+- corporate forces (seeking to establish a cartel/monopolism/etc
+  around a specific technology and/or industry)
+- political forces
+  - these will seek to repurpose censorship for safety in technology
+    towards their own agendas
+- security forces
+  - homesec, etc.
+- the people
+  - consumers, plaintiffs, regular people
+    - these people will be motivated by fear (of technology and
+      tech-powered terrorism)
+      - fear will be the strongest motivation here.
+  - academics
+    - these people will be motivated by a fear that free discussion
+      will be stifled
+  - discuss how these organizations and groups might achieve total
+    power and lock others out
+    - this departes from the kind of total power seen before in that
+      the common person is not neglected in poverty. because
+      technology enables cheap solutions, once we build it out, we
+      shouldn't actually need much of anything.
+      - this is problematic for it's own reasons...
+- (i have a real tendency to get off track. do i really need to move
+  towards this?)
+
 
 After VR evolves into AR and machine-learning has been patented to
 death, the next opportunities are found in biotechnology, genomic data
@@ -75,7 +331,7 @@ not be born in those conditions because it could not possibly be.
 
 categories of reasons & benefits/drawbacks of censorship
 
-#### Reasons/Analysis For Factions Wanting Censorship 
+#### Reasons/Analysis For Factions Wanting Censorship
 
 - profit & market/IP control
 - to prevent technological disaster
@@ -92,37 +348,8 @@ categories of reasons & benefits/drawbacks of censorship
   - to encourage people to access some topics over others
   - to encourage some behaviors and discourage others
 - to totally lock down access to information sources
-  - to monitor 
+  - to monitor
 
-#### Reasons/Analysis For Factions Wanting Censorship 
-
-
-So, we see some major forces driving the debate around free speech.
-- is there a better term than "forces" ?
-- corporate forces (seeking to establish a cartel/monopolism/etc
-  around a specific technology and/or industry)
-- political forces
-  - these will seek to repurpose censorship for safety in technology
-    towards their own agendas
-- security forces
-  - homesec, etc.
-- the people
-  - consumers, plaintiffs, regular people
-    - these people will be motivated by fear (of technology and
-      tech-powered terrorism)
-      - fear will be the strongest motivation here.
-  - academics
-    - these people will be motivated by a fear that free discussion
-      will be stifled
-  - discuss how these organizations and groups might achieve total
-    power and lock others out
-    - this departes from the kind of total power seen before in that
-      the common person is not neglected in poverty. because
-      technology enables cheap solutions, once we build it out, we
-      shouldn't actually need much of anything.
-      - this is problematic for it's own reasons...
-- (i have a real tendency to get off track. do i really need to move
-  towards this?)
 
 # Censorship's Effect on Development
 
@@ -433,7 +660,6 @@ use anything he saw for his own research. Or if he never received any
 information from the patent office, but they just decided they didn't
 want him to be the guy that published `E=mc^2`... Baby Einstein?
 Relativity? *NOT ON My WATCH!!* `E=mc^2` ?! *NOT IN MY 'MERITOCRACY!!*
-
 
 ### (Conclusions for Part Two)
 
