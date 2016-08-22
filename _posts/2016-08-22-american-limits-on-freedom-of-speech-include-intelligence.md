@@ -208,7 +208,11 @@ me? NO! They tried to lock me in the looney bin!
 > domain where people bridge into strictly vertboten NSA maths...
 
 What are examples of math problems I intuitively understood high-level
-solutions? Without understanding the actual maths or proofs...
+solutions? Without understanding the actual maths or proofs...  And
+I'm a little fuzzy on these memories, so please don't assume I'm
+making claims about them. I would like nothing other than to clear up
+this region of my memory. However, about a dozen people who formerly
+acknowledged this experience now act like it never happened.
 
 #### Information Compression in Pythagorean Triples
 
@@ -252,6 +256,13 @@ compression. Also, discussing this with Go is what made the high-level
 solution for Pythagorean Triples so natural because we discussed that
 shortly afterwards. This was supposedly in 2013.
 
+#### Inception for AI with Google Deep Dream
+
+The idea for machine learning inception using Google Deep Dream was
+one of those ideas and the reason I pitched it was because I was
+explaining how hallucinagens cause visuals and why that's related to
+neural networks.
+
 This same person in the same conversation asked me about like a dozen
 other unsolved problems and we discussed a few dozen ideas that have
 become reality. A handful of those pushed science, math and artificial
@@ -263,6 +274,41 @@ it was in 2013, but I never remembered any of it until early 2015. In
 fact, I can't say it even happened at all, which is driving me
 crazy. It's just odd that these specific unsolved problems or
 advancements would seem familiar.
+
+Remembering this experience helped me understand how promising my
+ideas were. There were many ideas I had written down into notebooks
+and ... apparently, someone helped me launch a distributed
+intellectual property attack? I think? Or someone has fucked with my
+head in a really big way. When I consider what has happened to me
+since this event, it's awesome to think that in the past 12 months,
+I've developed about 10 times the number of ideas and I'm just sitting
+on it.
+
+#### Hope Y'all Are Happy!!
+
+And that's why I keep saying: I hope y'all were happy in being
+complicit with the gang-rape of Einstein on a train to Dashau. Because
+if things actually come together, that means there were hundreds of
+minor things set in motion that can be traced back to me. AND THAT'S
+NOT GOING LOOK VERY GOOD. All I want is for people to recognize that I
+have a gift, I deserve to use it, that mankind is held back every
+fucking week that I am not networked in with the right people. And I'm
+not even that smart, really. But somehow, I am miraculously
+intelligent.
+
+When I'm finally discovered or win this is all uncovered, I would
+really prefer to have a happy ending, where I don't angrily point
+fingers at family, friends & shadowy government spooks. Instead I
+could happily recount all those times people encouraged me to keep
+going or made sure I wasn't distracted OR JUST BELIEVED IN ME INSTEAD
+OF PROPAGATING MUCK IN THIS SMEAR CAMPAIGN. Again! If this all comes
+together, the people who held me back are going to look so fucking
+stupid and just about downright evil AND I DON'T WANT THAT!!
+
+However, it's pretty clear that no one intends to get the fuck out of
+my way!! I can't even buy coffee! I'VE HAD EVERYTHING STOLEN FROM ME,
+AFAIK! I wanted to give it away, but it'd be easier if I'd gotten a
+single fucking pat on the back for this shit.
 
 ### Hey David, Remember When You Said You Would Win A Nobel Prize?! ROFL
 
