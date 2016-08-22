@@ -39,7 +39,7 @@ assets. We don't need that.
     from the ground up.
   - this builds on the ideas in this series: creation/diffusion of
     influence in a society
-    - but instead of going with democracy or communism
+    - but instead of simply going with democracy or communism
       - either essentially means leaning more heavily towards one
         currency for change: either money($$$) or affluence in social
         institutions)
@@ -49,11 +49,18 @@ assets. We don't need that.
         protections on an individual's rights**: *speech, religion,
         property, life, liberty, ... pursuit of happiness and
         whatnot!*
+        - however, because of how technology nature changes
+          information & communication, it makes democracy less
+          efficient & less likely to represent individuals
+        - that doesn't mean it can't work or the people can't have
+          power, it just means that our system needs to adapt to how
+          information flows and how fast it spreads through a system.
+
   - so, what are our options?
 
 ### (Turn inwards and conquer inner space)
 
-so maybe we should turn inwards for a joyful revolution. We should
+Maybe instead, we should turn inwards for our revolution. We should
 turn inwards and conquer inner space, rather than to seek solutions
 outside. We need to conquer the negativity in our hearts that leads to
 problems in the world. Everything good and everything evil arises from
@@ -64,7 +71,7 @@ If we survive the next 100 years, we'll survive for 10,000
 years. Humanity has enough problems given our current circumstances
 and possibility of catastrophe in the near future...  Why should we
 permit conflict to burden us more?! If we need the best aspects of the
-human condition to inspire us through this next century, which should
+human condition to inspire us through this next century, should
 we continue to sow the worst seeds of human behavior, fallible at best
 and malevolent when unchecked?
 
@@ -167,7 +174,13 @@ Start with a brief discussion of Democracy vs Communism
         - in communist command economies, it's difficult for one to
           accumulate wealth because taxes are very high,
           - private savings rates would usually be low (i think?)
-            - expenses are usually on par with that of someone's wages
+            - expenses should usually be a higher proportion of
+              someone's wages than in capitalist systems.
+              - this isn't true when we lose the middle class
+            - if wealth drives influence in capitalist systems, then
+              restriction of wealth to a small segment of society
+              means that region's citizens likely have less influence
+              than they should
       - diffusion of influence is more tightly constrained in
         communist or socialist societies
         - this is restricted by rigid hierachies and party dominance
@@ -177,7 +190,7 @@ Start with a brief discussion of Democracy vs Communism
           confer influence
       - if influence exchanges (via wealth, role, or otherwise) could
         be mapped out in a graph for democratic and communist systems
-        - for both is the nodes in the graph would be defined by the
+        - for both, are the nodes in the graph would be defined by the
             hierarchical organizations of business, government, party
             and family/social institutions
         - the ways in which influence is exchanged in communist
@@ -274,7 +287,6 @@ Start with a brief discussion of Democracy vs Communism
           work... yotta yotta
 - IMO, regardless of the system
 
-
 - here's an idea though: why shouldn't that "creation" of influence
   originate at the individual/family/community levels first?
   - it already does in many ways. e.g. someone invests in a degree in
@@ -283,8 +295,6 @@ Start with a brief discussion of Democracy vs Communism
     individuals in society. therefore, if we can create social
     institutions which enable us to quickly more efficiently educate
     people, then we should
-
-
 
 ### Addressing Depopulation Conspiracy Theories
 
@@ -404,3 +414,22 @@ is ready to face such struggles.
 
 
 (more here?)
+
+
+basically, the question is:
+- do we want our children to depend on a population who just went
+  through an event with population effects on the level of 15th
+  century europe?
+  - these ppl are going to have some issues..
+    - if those issues include war, ethnic tension, etc. then that
+      means we'll perpetuate that in a time of higher tensions bc of
+      resource constraints. thus, are more likely to continue holding
+      those grudges further in the future
+      - hate gives us more hate. if we experience problems because of
+        that at the same time as humanity's greatest crunch (dealing
+        with overpopulation) there may be some nations who experience
+        pain that never heals
+- or would we rather go with the population who didn't tear themselves
+  apart with war and spent their resources applying that higher
+  population's energy towards building solutions to prepare humanity
+  for the 22nd century?
