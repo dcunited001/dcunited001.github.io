@@ -32,6 +32,7 @@ artform or music genre?
 > Empowered people are dangerous people in the 21st century factory
 > farm!
 
+### (title... $#@!)
 
 #### From a utilitarian perspective, what are the costs, risks and benefits to limiting those forms of speech?
 
@@ -80,7 +81,6 @@ interfering with the operation of social media web application
 servers/data or indirectly through farming interactions and content
 via SEO. It's hard enough for newsfeed algorithms to function properly
 
-
 ###
 
 In the 21st century, lightning fast communication and augmented
@@ -102,7 +102,7 @@ labor, time, and energy when observed at a larger scale.
 
 BUT THAT'S THE POINT, ISN'T IT? To disempower people passionate about
 specific topics that are censored and delisted on Twitter and
-Facebook! And
+Facebook! And... (what?)
 
 
 They are well justified in doing some of this, but this is precisely

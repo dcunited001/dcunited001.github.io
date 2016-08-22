@@ -51,28 +51,33 @@ a bug or something.
 
 The real value in social media is user time and attention. Some social
 media products engage millions or billions of user-hours of per
-day. Control of the information presented or not presented is
+day. Control over whether and how information is presented is
 incredibly powerful! It's subject to sufficient influence by
-corporations or governments. Without external manipulation, newsfeed
-and search algorithms are difficult to implement redundantly,
-efficiently, and equitably. These SEO providers are in an arms race
-with the algorithms of Search and Social giants. There are entire
-industries dedicated to SEO and social media to fairly influence these
-algorithms and their products are layered on top of products like
-Facebook and Google. When the government pressures Twitter to remove
-trends, they may be nullifying the influence of hundreds of thousands
-of passionate grassroots protesters who managed to land their first
-major trend after months of hard work. A government or corporation who
-exerts significant influence over the information presented in
-Facebook News or Twitter trends may be muzzling a viral publicity
-success only achieved through millions of dollars in donations to a
-non-profit. And in doing so, these large, powerful entities are strong
-arming the economics of the tech industry. This not only robs people
-of their voice and influence, but also degrades several key metrics in
-the technology space: actual delivered value to customers
-(impressions, clicks, conversions, engagement time), expectation of
-ROI for consumers, quality of service to customers, customer
-satisfaction, and the fair market price for a product.
+corporations or governments, yet the effects these entities have on
+these industries is erratic and unpredictable.
+
+Without external manipulation, newsfeed and search algorithms are
+difficult to implement redundantly, efficiently, and equitably. These
+SEO providers are in an arms race with the algorithms of Search and
+Social giants. There are entire industries dedicated to SEO and social
+media to fairly influence these algorithms and their products are
+layered on top of products like Facebook and Google. When the
+government pressures Twitter to remove trends, they may be nullifying
+the influence of hundreds of thousands of passionate grassroots
+protesters who managed to land their first major trend after months of
+hard work. A government or corporation who exerts significant
+influence over the information presented in Facebook News or Twitter
+trends may be muzzling a viral publicity success only achieved through
+millions of dollars in donations to a non-profit.
+
+In pursuit of controlling these new, decentralized mediums, these
+large, powerful entities are strong arming the economics of the social
+media industry. This not only robs people of their voice and
+influence, but also degrades several key metrics in the technology
+space: actual delivered value to customers (impressions, clicks,
+conversions, engagement time), expectation of ROI for consumers,
+quality of service to customers, customer satisfaction, and the fair
+market price for a product.
 
 Since social media consumers only have a limited amount of time per
 day, this is analagous to a house party that orders a large amount of
@@ -92,6 +97,19 @@ This is a clear example of how Big Government's overreach interferes
 with the equitable, transparent and efficient functioning of a market,
 bogging it down and making it less competitive to global markets!
 
+- comments on bureaucracy, lack of oversight in pursuit of policy
+  implementation by bureaucracies, with regard to social media
+  - lack of accountability for social media budgets
+    - things change so quickly that, except for long term campaigns,
+      it becomes difficult to track how money is spent for social
+      media advertising and optimization.
+      - i'm sure this problem has been experienced to some degree with
+        advertising fund invested in traditional media. however,
+        traditional media has a longer feedback loop b/w planning,
+        purchase and execution. the shorter feedback loop could leave
+        less time for planning & decision making.
+      - this problem might only pop up in government/corporate
+        entities with large social media budgets
 
 
 the attendees decided to pitch.
