@@ -11,6 +11,12 @@ excerpt: ""
 
 ### Oneiroism
 
+should include a growth limiting mechanism
+- as in, no offical structure or *huge* focus on lots of money/power
+
+
+### misc
+
 (include)
 
 Conley - I think I'd largely agree with your assessment of the
@@ -81,4 +87,6 @@ cultural trends.
   Category Theory in that we are strengthening some of the most
   important skills humanity posseses. and we have given ourselves the
   perfect excuse for doing so, in spite of the futility of standing
-  against nihilism. (maybe shuffle things around)
+  against nihilism. (maybe shuffle order around)
+
+-------
