@@ -84,8 +84,6 @@ a physical manisfestation of the self-similar reflection of the
 metaphysical. (i.e. CPU's are basically a reflection of logic from
 metaphysical structures into physical)
 
-
-
 if there are ways of "traveling" between different universes in the
 metaverse, then how are they linked together such that the inviolable
 laws of nature hold.
@@ -107,7 +105,6 @@ laws of nature hold.
   - this might happen more quickly than we realize
   - there might never be another tesla or einstein
   - or long, running, intense math proofs
-
 
 - the only thing left would be insights based on convolutions of human
   data or social data, etc. etc.
@@ -141,7 +138,6 @@ how does the assumption of quantum networking relate to how these
 
 - re:zero first two episodes
   -
-
 if one's consciousness can be mapped to universes descending from ours
 - and if our universe projects those with mappings in itself,
   - then those values our consciousness maps there
@@ -359,6 +355,17 @@ they exist out of it (or within it or around it)
 - tree
 - graph
 - circular
+
+
+### Consciousness Crystallization within a Single Universe
+
+a similar form of consciousness crystallization can occur within a
+single universe. this is what happens with religion, actually.  with
+respect to religion, the crystallization is rarely tiled with the same
+kind of nodes. most religions promote social institutions which
+involve various kinds of roles.
+
+- expand on these ideas
 
 #### misc math
 
