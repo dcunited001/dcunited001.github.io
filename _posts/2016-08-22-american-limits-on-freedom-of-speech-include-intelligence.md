@@ -5,7 +5,20 @@ tags: "sociology politics censorship"
 headline: "Don't think too hard, especially about math. Math is scary."
 author:
   name: "David Conner"
-excerpt: ""
+excerpt: "
+If you have a boner for math and cryptography, keep that shit quiet! I
+learned this the hard way. You will not believe how much trouble
+you'll get in if you can't pass a clearance and you happen to stumble
+on a theorum they already know about -- and you're not going to find
+anything they don't know about without first crossing into a region of
+knowledge in math, computer science and crypto that the NSA has
+explored first. That's because any murky regions of math, etc that
+they don't know about are all dependent on a few theorums that they do
+know about. These are the "other" nuclear weapons: it's secret math
+and they do not want to let this shit get out. Think I'm playing
+around? Find an unpublicized means of predicting large primes and try
+posting that on the internet. You'll get a knock on your door before
+you can log into Medium to blog about it."
 ---
 
 # But America Has Freedom of Speech!
@@ -60,6 +73,10 @@ gentech, neurotech, quantum computing and "quantum networking". I
 don't know if quantum networking is practical, by the way. But this
 one is a big NO NO. As in, do not think to hard about what is too far
 outside of the content on TV.
+
+China just launched a satellite to study quantum networking, by the
+way. Or they claim they did. If you're wondering what QN is, it's
+basically the Ansible from Ender's Game.
 
 #### Especially Math and Cryptography!!
 
@@ -127,7 +144,7 @@ I flew under the radar, so to speak. They didn't see it coming because
 they had worked pretty hard to discredit me and they believed the shit
 they smeared on me. There are programs to identify intelligent
 children in America and other countries. Intelligence is a vital
-characteristic to identify early so it can be harnessed. There are a
+characteristic to identify early, so it can be harnessed. There are a
 limited number of ways to think about simple problems when you're
 young and you can identify someone's general IQ by how they solve
 problems or think about games while they're young. If a child makes
