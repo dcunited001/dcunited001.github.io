@@ -27,7 +27,19 @@ who'd like to edit my work. Most of the valid negative feedback I've
 received deals with style, form, and a lack of illustrations or
 diagrams.
 
-### On Criticism
+# [On Criticism](#on-criticism)
+
+### [You Are Your Own Most Valuable Asset](#you-are-your-own--most-valuable-asset)
+
+### [Why Is Novelty So Often Rejected?](#why-is-novelty-so-often-rejected)
+
+### [Criticisms on Lack of Sources](#criticisms-on-lack-of-sources)
+
+### [Distributed Intellectual Property Attack](#distributed-intellectual-property-attack)
+
+<a name="on-criticism" />
+
+# [On Criticism](#on-criticism)
 
 I love getting feedback on my writing, especially negative feedback,
 since it implies an opportunity for quick improvement. I value
@@ -39,7 +51,9 @@ more often than not, if the criticism is a majority ad hominem, with
 little to no references to my ideas or arguments, it's baseless and
 invalid at best.
 
-### You Are Your Most Valuable Asset
+<a name="you-are-your-own--most-valuable-asset" />
+
+### [You Are Your Own Most Valuable Asset](#you-are-your-own--most-valuable-asset)
 
 I love hearing what everyone has to say, but I constantly encounter
 people who want to throw me off with their criticisms. If you ever
@@ -47,17 +61,20 @@ really get somewhere in life, you will find that you have to
 understand what defines you, what defines your work and how your work
 is an expression of yourself. You are your most valuable asset. Your
 definition of yourself and your creative expression: *that is what you
-have* as an artist.
+have as an artist.*
 
 Your confidence conveys that. You will get shit tests all the time and
-people will specifically test you on exactly that. If you don't
-understand that or if you let any bozo tell you who you are, what your
-work means, or why you should change it, then you just don't got
-it. Take every piece of advice with a healthy dose of skepticism
+people will specifically test you on exactly that: your confidence and
+your resolve towards the expression of your artistic integrity. If you
+don't understand that or if you let any bozo tell you who you are,
+what your work means, or why you should change it, then you just don't
+got it. Take every piece of advice with a healthy dose of skepticism
 because people likely don't know you or your work, but they know
 confidence.
 
-### Why Is Novelty So Often Rejected?
+<a name="why-is-novelty-so-often-rejected" />
+
+### [Why Is Novelty So Often Rejected?](#why-is-novelty-so-often-rejected)
 
 In fact, if you truly have something new, they won't understand it,
 but they'll understand how you react to it and how strongly you defend
@@ -77,7 +94,9 @@ language. I'm so glad these people are fucking idiots because they are
 proving that my work has value and these people would never do me any
 real favors. Please! Fucking clueless and let's keep it that way!
 
-### Criticisms on Lack of Sources
+<a name="criticisms-on-lack-of-sources" />
+
+### [Criticisms on Lack of Sources](#criticisms-on-lack-of-sources)
 
 The one criticism I hear most is a lack of sources! That's not so bad,
 compared to what people could criticize, and they are all points which
@@ -89,18 +108,21 @@ academic. Criticizing me for lack of sources? It's basically some tool
 too sharp for his/her own good asking me to do something they very
 well know burdens me with more time investment than the average
 academic. I'm writing posts about dozens of different fields without
-university education, which confers an understanding of what the
-groundbreaking studies are in those fields. Not only do I have nearly
-zero familiarity with the de facto, highly-cited papers in any single
-field, I'm often combining one to four fields.
+university education. That academic expression is what confers an
+understanding of what the groundbreaking studies are in your major or
+subject of expertise. Not only do I have nearly zero familiarity with
+the de facto, highly-cited papers in any single field, I'm often
+combining one to four fields.
 
 Ain't nobody got time for that! That's where most of the work happens
-when you write a 10,000-40,000 master's thesis. I'm not writing a
+when you write a 10,000-40,000 word master's thesis. I'm not writing a
 thesis. I'm writing fucking blogs. I have about 100,000 words on deck
 and 300,000 words worth of content in vague outlines, with just as
 much on post-it notes.
 
-### Distributed Intellectual Property Attack
+<a name="distributed-intellectual-property-attack" />
+
+### [Distributed Intellectual Property Attack](#distributed-intellectual-property-attack)
 
 Speaking of post-it notes, I'm also in the middle of a distributed
 intellectual property attack, which has been going on for several
@@ -113,10 +135,10 @@ Including this disclaimer sounds lofty, but I only want to only
 release IP that is positive and beneficial.
 
 I've found that my true power all along is by connecting the right
-people with the right people and the right ideas. I found that, while
-I may never amount to anything myself, I am perfectly content
-acheiving nothing and knowing that I've planted the the right seeds in
-the right places.
+people with the right people and ideas. I found that, while I may
+never amount to anything myself, I am perfectly content acheiving
+nothing and knowing that I've planted the the right seeds in the right
+places.
 
 ## [Writing On Writing and Other Writings](#writing-on-writing)
 
