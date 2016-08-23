@@ -19,12 +19,12 @@ excerpt: ""
 
 ### Part Two: Ethics of Censorship in the 21st Century
 
-What do flag burning laws and citations give us as citizens? When we
-trade freedom for that particular expression, how does that effect
-society and culture? IMO, it's mostly symbolic. Maybe it should be a
-minor misdemeanor to pull people into the courtroom. Does prohibition
-of flag burning effect our culture as much as prohibiting a language,
-artform or music genre?
+In the 21st century, lightning fast communication and augmented
+algorithmic distillation will magnify the effects that ideas have on
+our world. Technology will become more volatile and accessible.
+Therefore, governments, organizations and industries will attempt to
+justify broad censorship to regulate technology & communication,
+citing promotion of safety.
 
 > Imagine if Hip Hop was illegal! Open source software! Encryption so
 > software! Religious Texts! Dear God, we have to burn the Tony
@@ -32,7 +32,15 @@ artform or music genre?
 > Empowered people are dangerous people in the 21st century factory
 > farm!
 
-### (title... $#@!)
+They are well justified in doing some of this, but this is precisely
+the danger. The more powerful organizations of industry and government
+will attempt to craft regulations which benefit them in some way.
+Further, various governments may attempt widespread censorship. These
+pushes towards censorship that are self-motivated or complete will
+stifle both economic development and humanity's development as a
+whole, on a regional scale as well as global.
+
+### Ethical Questions for the Information Age
 
 #### From a utilitarian perspective, what are the costs, risks and benefits to limiting those forms of speech?
 
@@ -56,10 +64,58 @@ artform or music genre?
 
 #### With automated censorship, how do we manage the risk for unintended consequences? That is, how do we minimize users not in violation that are affected & vice versa, when they are not prompted with any indication how/why they are in violation and there is no human element in the mix?
 
-This is a legal argument in and of itself because by affecting the
-free speech of one person via manipulation of social media algorithms,
-you are also affecting, and therefore regulating, the speech of
-everyone using that platform!
+These mass communication platforms are fundamentally different than
+previous systems, which were easier to control because they were
+hierarchical and the economics of radio/TV production implied limited
+choice. The internet and social media represent almost an inversion of
+the mass communication paradigm. Instead of being communication from
+few-to-many, social media platforms enable many-to-many communication.
+This was originally a democratization of mass communication. However,
+we've seen a decade's worth of development produce mechanisms for
+control that obfuscate and otherwise simple, decentralized system. A
+decade of social media, trolls and bots have masked signal with noise.
+
+Every message must travel on infrastructure and within application
+platforms give way to the bottleneck that present the most effective
+mechanisms of control. If this was Thermopylae, the infrastructure and
+platform bottlenecks represent the chokepoints of the narrow stretches
+of the shores along the Gulf of Malia. This is where someone exerts
+the greatest amount of technical control over disseminated content,
+user behavior, data for analytics and application functionality.
+
+The internet of circa 2025 simply doesn't present these same
+chokepoints. Furthermore, virtual reality introduces changes in UX/UI
+that fundamentally change the nature of user interaction, types of
+data collected and the economics of tech products. The combination of
+future networking paradigms, which are decentralized, coupled with the
+less discretizable user interactions of VR/AR imply that this capacity
+for strict control over the dissemination of information simply
+evaporates.
+
+*THEREFORE, IF SOMEONE WANTED TO COLLAPSE THE SYSTEM THEY
+WOULD DO IT IN THE NEXT FIVE YEARS!!*
+
+That's one reason why I'm very passionate about this issue right
+now. Total censorship at this moment in history creates a possibility
+for collapse into a totalitarian system, where that next internet
+technology revolution that enables a purely decentralized,
+uncensorable paradigm simply never emerges. That is, the nature of the
+system right now may entice some set of tyrants to act now because
+later, they might not have the chance.
+
+
+
+
+
+(connect) The interdependent nature of these communication platforms,
+coupled with lack of understanding, constant flux, and uncertainty in
+how interactions of players contributes to the platform's small and
+large scale behavior patterns.
+
+(connect) presents is a legal argument in & of itself.  By
+affecting the free speech of one person via manipulation of social
+media algorithms, you are also affecting and therefore regulating the
+speech of everyone using that platform.
 
 It's similar to the "indirect affect on aggregate commerce" argument
 presented by the federal government in the 2005 Supreme Court case,
@@ -80,38 +136,6 @@ entire social media ecosystem. This can be done by directly
 interfering with the operation of social media web application
 servers/data or indirectly through farming interactions and content
 via SEO. It's hard enough for newsfeed algorithms to function properly
-
-###
-
-In the 21st century, lightning fast communication and augmented
-algorithmic distillation will magnify the effects that ideas have on
-our world. Technology will become more volatile and accessible.
-Therefore, governments, organizations and industries will attempt to
-justify broad censorship to regulate technology & communication,
-citing promotion of safety.
-
-### (Social Media Censorship)
-
-What makes it OK to passively aggressively shadowban someone through
-manipulation of search and newsfeed algorithms? When tech companies
-are using automated algorithms to prevent others from seeing it
-they're doing in a passive aggressive manner that *seeks to waste this
-person's time and energy* in such a way that's difficult to counter,
-it seems this is counterproductive and leads to a poor investment of
-labor, time, and energy when observed at a larger scale.
-
-BUT THAT'S THE POINT, ISN'T IT? To disempower people passionate about
-specific topics that are censored and delisted on Twitter and
-Facebook! And... (what?)
-
-
-They are well justified in doing some of this, but this is precisely
-the danger. The more powerful organizations of industry and government
-will attempt to craft regulations which benefit them in some way.
-Further, various governments may attempt widespread censorship. These
-pushes towards censorship that are self-motivated or complete will
-stifle both economic development and humanity's development as a
-whole, on a regional scale as well as global.
 
 # Factions Invested For or Against Censorship
 
@@ -159,7 +183,7 @@ online. Or, at least, that's how it's felt since Sept 11th, 2001. DHS,
 especially, will fuck with your life and you will have no clue what
 hit you.
 
-### Political Parties and Factions
+### Political Parties
 
 Particularly in democracies, groups like political parties, think
 tanks and lobbyists will want to be able to exert influence over the
@@ -175,6 +199,16 @@ hang on to that same social media paradigm.
 
 ### Academic Institutions
 
+- these people will be motivated by a fear that free discussion
+  will be stifled
+
+### The People
+
+- consumers, plaintiffs, regular people
+  - these people will be motivated by fear (of technology and
+    tech-powered terrorism)
+    - fear will be the strongest motivation here.
+
 So, we see some major forces driving the debate around free speech.
 - is there a better term than "forces" ?
 - corporate forces (seeking to establish a cartel/monopolism/etc
@@ -185,13 +219,11 @@ So, we see some major forces driving the debate around free speech.
 - security forces
   - homesec, etc.
 - the people
-  - consumers, plaintiffs, regular people
-    - these people will be motivated by fear (of technology and
-      tech-powered terrorism)
-      - fear will be the strongest motivation here.
   - academics
-    - these people will be motivated by a fear that free discussion
-      will be stifled
+
+
+### (some groups might be locked out and unable to study/learn specific things)
+
   - discuss how these organizations and groups might achieve total
     power and lock others out
     - this departes from the kind of total power seen before in that
@@ -199,9 +231,36 @@ So, we see some major forces driving the debate around free speech.
       technology enables cheap solutions, once we build it out, we
       shouldn't actually need much of anything.
       - this is problematic for it's own reasons...
+
 - (i have a real tendency to get off track. do i really need to move
   towards this?)
 
+# Reasons/Analysis For Factions Wanting Censorship
+
+- to prevent technological disaster
+  - by assessing capabilities of people
+- to prevent/control the spread of info
+  - particularly that which may undermine social institutions
+  - to prevent hysteria in the middle of a crisis
+- to isolate people by controlling the social connections b/w people
+  - managing HUMINT networks
+- managing SIGINT/MASINT networks & data flow
+  - control over the design of UI/UX interactions can enable
+    accumulation of more useful data.
+  - reactive/proactive SIGINT & MASINT
+    - implying the use of social media & SEO
+- for general social engineering
+  - to encourage people to access some topics over others
+  - to encourage some behaviors and discourage others
+  - to cull out specific cultural artifacts
+- to totally lock down access to information sources
+  - to monitor
+
+
+### (Profit & Market/IP control)
+
+
+### (censorship for safety & tech)
 
 After VR evolves into AR and machine-learning has been patented to
 death, the next opportunities are found in biotechnology, genomic data
@@ -245,24 +304,6 @@ not be born in those conditions because it could not possibly be.
 
 categories of reasons & benefits/drawbacks of censorship
 
-#### Reasons/Analysis For Factions Wanting Censorship
-
-- profit & market/IP control
-- to prevent technological disaster
-  - by assessing capabilities of people
-- to prevent/control the spread of info
-  - particularly that which may undermine social institutions
-  - to prevent hysteria in the middle of a crisis
-- to isolate people by controlling the social connections b/w people
-  - managing HUMINT networks
-- managing SIGINT/MASINT networks & data flow
-  - reactive/proactive SIGINT & MASINT
-    - implying the use of social media & SEO
-- for general social engineering
-  - to encourage people to access some topics over others
-  - to encourage some behaviors and discourage others
-- to totally lock down access to information sources
-  - to monitor
 
 
 # Censorship's Effect on Cultural Development
@@ -297,73 +338,6 @@ entering an age where decentralized, unmonitized and truly free
 transmission of information cannot be impeded, which is why, if there
 were to be a total collapse, it would occur now. As in right now. As
 in within the next few years. A decade at the most.
-
-### Censorship on Expression: Flag Burning
-
-Flag burning exemplifies the debate over reasonable limits on free
-speech for art or protest. IMO, flag burning should be legal. However,
-it is one of the dumbest forms of expression. Not only is it
-completely disrespectful to American values permitting free speech,
-when used as a form of protest, it runs counter to the protestors'
-stated goals. It's an ignorant form of expression which will alienate
-you from the people in America who can change things.
-
-IMO, since as speech for protest, it is ignorant and countereffective,
-the only case in which flag desecration would be "acceptable" would be
-when it is used for art. My reasoning is that you might be able to
-convey a message involving a burned flag that isn't anti-American, but
-very much patriotic. Still, what art involves desecrating the flag?
-What kind of art is that and does it really offer value in its
-message? Usually art that goes straight for shock value is shit.
-
-The people who do this usually want attention. That's all. It's a
-cheap ploy and a shameful use of free speech IMO, especially in the
-US. Why would you do that? It's degrading towards the very things we
-stand for! Aren't there better, more constructive ways to get your
-message out?! By burning the US flag, you're saying you don't give a
-fuck about the right to free speech that gives you the right to do
-that in the first place! *AND FOR WHAT?!* What higher purpose could
-possibly stir you to burn the American flag? Isn't there a better way
-to try display the "speech" or the "argument" you're trying to make by
-burning the flag?
-
-No, the people who do this are usually trying to stir up resentment
-against America or they do it out of ignorance. I'm not sure which one
-is worse. And it's highly unlikely that a person who's truly
-sacrificed for this country via military service would ever burn a
-flag! I'm sure it has happened... Furthermore, the people who have
-actually been through severe trauma at the fault of a country aren't
-likely to want to attract attention by burning flags, especially at a
-political or otherwise widely visible events
-
-I don't understand why someone would do it other than to fan flames of
-anti-american resentment. It's something to do to attract attention
-and stir up an emotional response, intended to grow support for
-something which undermines the very essence of america, which are the
-inalienable rights we hold sacred. It's those rights which would
-permit someone to commit such an act without recompense.
-
-**It's that action *for superficial, self-defeating gain*, _with assured
-impunity_ and *without the sacrifices for freedom* for which _others gave
-their lives._ that action is *cowardly* and *short-sighted*.**
-
-I know people have done it before and I don't mean to cast judgement.
-Whether it's what they intend to convey or not, someone who does it
-completely lacks respect for the values we hold sacred!
-
-Even though it's cowardly and ignorant, it should be legal. Just like
-it should be legal to speak freely about other shameful things. It
-should definitely be legal. Part of my reasoning is that, if you
-should choose to express such disrespectful speech in America, then
-I'd love for you to have the opportunity to do that, so you can be
-seen doing it. I hope that if you do it or you are known to have done
-it, that someone speaks to you and makes you understand why it's just
-all around a terrible thing to do. You might as well piss on it.
-
-One should hope we don't have to create laws for flag burning to
-prevent our people from using this form of speech as protest. Again,
-allowing this speech is a good way for private citizens to engage with
-people who self-identify as disrespectfully anti-American.
 
 ### Thermopylae, Marathon and Kublai Khan
 
@@ -474,12 +448,88 @@ and intentionally enforcing laws in pursuit of suppression. These
 places were few and far between IMO. Ferguson is such an example,
 where the disparity is so pronounced it is undeniably conscious.
 
-In subsequent sections, I'll discuss how social media newsfeed
-algorithms have vulnerabilities and flaws that increase division in
-America. In particular, clustering algorithms and others have runaway
-feedback loops that have a runaway affect that *DIVIDES AMERICA*.
-These algorithms are difficult to design, tweak and validate in the
-first place, but there are major problems here, as far as I can see.
+In subsequent entries in this series, I'll discuss how social media
+newsfeed algorithms have vulnerabilities and flaws that increase
+division in America. In particular, clustering algorithms and others
+have runaway feedback loops that have a runaway affect that *DIVIDES
+AMERICA*.  These algorithms are difficult to design, tweak and
+validate in the first place, but there are major problems here, as far
+as I can see.
+
+### Censorship on Expression: Flag Burning
+
+What do flag burning laws and citations give us as citizens? When we
+trade freedom for that particular expression, how does that effect
+society and culture? IMO, it's mostly symbolic. Maybe it should be a
+minor misdemeanor to pull people into the courtroom. Does prohibition
+of flag burning effect our culture as much as prohibiting a language,
+artform or music genre?
+
+Flag burning exemplifies the debate over reasonable limits on free
+speech for art or protest. IMO, flag burning should be legal. However,
+it is one of the dumbest forms of expression. Not only is it
+completely disrespectful to American values permitting free speech,
+when used as a form of protest, it runs counter to the protestors'
+stated goals. It's an ignorant form of expression which will alienate
+you from the people in America who can change things.
+
+IMO, since as speech for protest, it is ignorant and countereffective,
+the only case in which flag desecration would be "acceptable" would be
+when it is used for art. My reasoning is that you might be able to
+convey a message involving a burned flag that isn't anti-American, but
+very much patriotic. Still, what art involves desecrating the flag?
+What kind of art is that and does it really offer value in its
+message? Usually art that goes straight for shock value is shit.
+
+The people who do this usually want attention. That's all. It's a
+cheap ploy and a shameful use of free speech IMO, especially in the
+US. Why would you do that? It's degrading towards the very things we
+stand for! Aren't there better, more constructive ways to get your
+message out?! By burning the US flag, you're saying you don't give a
+fuck about the right to free speech that gives you the right to do
+that in the first place! *AND FOR WHAT?!* What higher purpose could
+possibly stir you to burn the American flag? Isn't there a better way
+to try display the "speech" or the "argument" you're trying to make by
+burning the flag?
+
+No, the people who do this are usually trying to stir up resentment
+against America or they do it out of ignorance. I'm not sure which one
+is worse. And it's highly unlikely that a person who's truly
+sacrificed for this country via military service would ever burn a
+flag! I'm sure it has happened... Furthermore, the people who have
+actually been through severe trauma at the fault of a country aren't
+likely to want to attract attention by burning flags, especially at a
+political or otherwise widely visible events
+
+I don't understand why someone would do it other than to fan flames of
+anti-american resentment. It's something to do to attract attention
+and stir up an emotional response, intended to grow support for
+something which undermines the very essence of america, which are the
+inalienable rights we hold sacred. It's those rights which would
+permit someone to commit such an act without recompense.
+
+**It's that action *for superficial, self-defeating gain*, _with assured
+impunity_ and *without the sacrifices for freedom* for which _others gave
+their lives._ that action is *cowardly* and *short-sighted*.**
+
+I know people have done it before and I don't mean to cast judgement.
+Whether it's what they intend to convey or not, someone who does it
+completely lacks respect for the values we hold sacred!
+
+Even though it's cowardly and ignorant, it should be legal. Just like
+it should be legal to speak freely about other shameful things. It
+should definitely be legal. Part of my reasoning is that, if you
+should choose to express such disrespectful speech in America, then
+I'd love for you to have the opportunity to do that, so you can be
+seen doing it. I hope that if you do it or you are known to have done
+it, that someone speaks to you and makes you understand why it's just
+all around a terrible thing to do. You might as well piss on it.
+
+One should hope we don't have to create laws for flag burning to
+prevent our people from using this form of speech as protest. Again,
+allowing this speech is a good way for private citizens to engage with
+people who self-identify as disrespectfully anti-American.
+
 
 # What Is *The Prophecy?*
 
@@ -642,7 +692,7 @@ information from the patent office, but they just decided they didn't
 want him to be the guy that published `E=mc^2`... Baby Einstein?
 Relativity? *NOT ON My WATCH!!* `E=mc^2` ?! *NOT IN MY 'MERITOCRACY!!*
 
-### (Conclusions for Part Two)
+# (Conclusions for Part Two)
 
 - I never thought there was a border of ideas you weren't supposed to
   cross into. I understood there were things you should avoid knowing,

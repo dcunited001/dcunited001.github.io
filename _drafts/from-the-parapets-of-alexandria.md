@@ -8,14 +8,131 @@ author:
 excerpt: ""
 ---
 
-#### see Genius about Thomas Wolfe
+#### see Genius (documentary about Thomas Wolfe)
 
 #### Part One: Knowledge Extinction Events
 
 - motivation behind why censorship is important now!
   - already published for the most part
 
-#### Part Two(?): Philosophy of Censorship
+================================================================
+
+# Part Two: Philosophy of Censorship
+
+- in order to explore to really explore the ethics of censorship
+  - i need to discuss the *factions* invested for/against
+  - then elaborate on the *motivating factors*
+- there are many reasons why people would want to restrict information
+  - but it's hard to weigh the pros/cons here, without understanding
+    who might want to restrict/widen access to information and why
+
+- determining right/wrong for technological applications of censorship
+  relies on:
+  - understanding the intent (ethics usually does revolve around
+    intent),
+  - need to promote cultural/economic stability
+    - without limiting innovation
+  - risk for duplicity of intent in rapidly evolving fields,
+  - risk of unintended consequences
+  - risk of unforeseen disaster
+  - risk of stifled development
+  - the risk of people becoming locked in a totalitarian a system
+    that's eradicated specific sets of knowledge
+    - this risk is
+
+- the rapidly changing environment implies that information signals
+  are more important and the potential for false/misleading
+  information to have a greater economic/cultural/political impact is
+  also greater.
+  - humanity has gone from processing almost completely local signals
+    in the 19th century to processing almost completely global signals
+    - where local signals are almost an after thought
+
+
+
+- rapidly evolving fields present unforeseen opportunities amid
+  turbulent cultural/economic conditions
+
+  - (reword all of this) the problems here are caused by the nature of
+    of ... (this system? the turbulence? the opportunities presented?)
+    - or the nature of people and group behavior in a high-risk,
+      high-stakes system with high uncertainty
+      - coupled with less insurance or foundation
+        - it's impossible to take anything for granted
+
+  - these turbulent conditions mean that opportunities that were
+    unpredicted will present themselves
+    - with economic turbulence, this implies rapid growth in some
+      industries with rapid losses in industries thought to be solid
+      long-term investments
+  - groups may be more pressed to act
+    - because of group risk/losses
+    - or because they were presented with an opportunity neither their
+      group nor their adversaries foresaw
+
+# Intro
+
+### Ethical Questions
+
+- pose some basic ethical questions on 21st century censorship
+
+# Factions Invested For/Against Censorship
+
+
+
+### Corporations and Multinational Conglomerates
+
+### National Security
+
+### Political Parties
+
+### Political Movements
+
+### Political Movements
+
+### Military Organizations
+
+### Individuals
+
+### Academic Institutions
+
+### The People
+
+### (some groups of people might be locked out
+
+# Motivations For/Against Censorship
+
+### ....
+
+# Censorship's effect on Cultural Development
+
+### Thermopylae
+
+### Hip Hop
+
+### BLM
+
+### Censorship on Expression
+
+# What is "The Prophecy"
+
+### Networks w/o Limitation
+
+### Ideas Acquire Life of Their Own
+
+### A Reevaluation of Life, ...
+
+### Our Rights are Sacred
+
+### Control of Information & 21st Century Economics
+
+### SIGINT/.../...
+
+
+
+================================================================
+
+#### Part Three(?): Philosophy of Censorship
 
 - why free exchange of ideas matters!
   - why is it that free exchange of ideas leads to progress for
@@ -27,7 +144,7 @@ excerpt: ""
 
 ================================================================
 
-#### Part Three(?): Censorship In Social Media (title?)
+#### Part Four(?): Censorship In Social Media (title?)
 
 intro:
 
@@ -47,8 +164,31 @@ communicate about it: like when your GPS signals aren't in the same
 location. And if they simply mute the notification -- oops it must be
 a bug or something.
 
-=========
 
+
+
+
+
+
+================================================================
+
+
+### (Social Media Censorship)
+
+What makes it OK to passively aggressively shadowban someone through
+manipulation of search and newsfeed algorithms? When tech companies
+are using automated algorithms to prevent others from seeing it
+they're doing in a passive aggressive manner that *seeks to waste this
+person's time and energy* in such a way that's difficult to counter,
+it seems this is counterproductive and leads to a poor investment of
+labor, time, and energy when observed at a larger scale.
+
+BUT THAT'S THE POINT, ISN'T IT? To disempower people passionate about
+specific topics that are censored and delisted on Twitter and
+Facebook! And... (what?)
+
+================================================================
+×
 The real value in social media is user time and attention. Some social
 media products engage millions or billions of user-hours of per
 day. Control over whether and how information is presented is
