@@ -64,6 +64,8 @@ whole, on a regional scale as well as global.
 
 #### With automated censorship, how do we manage the risk for unintended consequences? That is, how do we minimize users not in violation that are affected & vice versa, when they are not prompted with any indication how/why they are in violation and there is no human element in the mix?
 
+# Dimensions to Consider in the Technology and Censorship Debate
+
 These mass communication platforms are fundamentally different than
 previous systems, which were easier to control because they were
 hierarchical and the economics of radio/TV production implied limited
@@ -95,17 +97,21 @@ evaporates.
 *THEREFORE, IF SOMEONE WANTED TO COLLAPSE THE SYSTEM THEY
 WOULD DO IT IN THE NEXT FIVE YEARS!!*
 
+### Peak Tyranny
+
 That's one reason why I'm very passionate about this issue right
-now. Total censorship at this moment in history creates a possibility
-for collapse into a totalitarian system, where that next internet
-technology revolution that enables a purely decentralized,
-uncensorable paradigm simply never emerges. That is, the nature of the
-system right now may entice some set of tyrants to act now because
-later, they might not have the chance.
+now. It's urgent that we promote stability because the risk to be
+trapped within a totalitarian system is very high. Total censorship at
+this moment in history creates a possibility for collapse into a
+totalitarian system, where that next internet technology revolution
+that enables a purely decentralized, uncensorable paradigm simply
+never emerges. That is, the nature of the system right now may entice
+some set of tyrants to act now because later, they might not have the
+chance.
 
 
 
-
+### Unintended Consequences
 
 (connect) The interdependent nature of these communication platforms,
 coupled with lack of understanding, constant flux, and uncertainty in

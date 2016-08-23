@@ -26,19 +26,49 @@ excerpt: ""
   - but it's hard to weigh the pros/cons here, without understanding
     who might want to restrict/widen access to information and why
 
+
+
+# Dimensions to Consider in the Technology and Censorship Debate
+
 - determining right/wrong for technological applications of censorship
   relies on:
+
+### Peak Tyranny
+
+  - the risk of people becoming locked in a totalitarian a system
+    that's eradicated specific sets of knowledge
+
+  - this paradox: the internet allows free exchange of information but
+    because it becomes easier to understand what information someone
+    has accessed, that "free" exchange leads to:    (move this?)
+    - increased surveillance
+      - and it seems to be used quite often for HUMINT!!
+    - permanent record of interests/knowledge
+  - awareness of an increased potential for negligence (keep?)
+    - esp. with respect to economic policy & investment
   - understanding the intent (ethics usually does revolve around
     intent),
   - need to promote cultural/economic stability
     - without limiting innovation
   - risk for duplicity of intent in rapidly evolving fields,
+
+### Unintended Consequences
+
   - risk of unintended consequences
+
+### Unforsean Disaster
+
   - risk of unforeseen disaster
+
+### Stifled Development
+
   - risk of stifled development
-  - the risk of people becoming locked in a totalitarian a system
-    that's eradicated specific sets of knowledge
     - this risk is
+
+- competing interests (maybe remove)
+  - the kind of UI/UX tech interactions
+
+
 
 - the rapidly changing environment implies that information signals
   are more important and the potential for false/misleading
@@ -115,6 +145,8 @@ excerpt: ""
 ### Censorship on Expression
 
 # What is "The Prophecy"
+
+- move this to its own article/series?
 
 ### Networks w/o Limitation
 
