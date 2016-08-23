@@ -33,10 +33,6 @@ excerpt: ""
 - determining right/wrong for technological applications of censorship
   relies on:
 
-### Peak Tyranny
-
-  - the risk of people becoming locked in a totalitarian a system
-    that's eradicated specific sets of knowledge
 
   - this paradox: the internet allows free exchange of information but
     because it becomes easier to understand what information someone
@@ -44,61 +40,35 @@ excerpt: ""
     - increased surveillance
       - and it seems to be used quite often for HUMINT!!
     - permanent record of interests/knowledge
-  - awareness of an increased potential for negligence (keep?)
-    - esp. with respect to economic policy & investment
-  - understanding the intent (ethics usually does revolve around
-    intent),
-  - need to promote cultural/economic stability
-    - without limiting innovation
-  - risk for duplicity of intent in rapidly evolving fields,
 
-### Unintended Consequences
+  - this paradox has a sociological dimension because of the near
+    total penetration of digital communication
+    - (as % of population using digital vs non-digital communication)
+    - can't be sure that text-based communications are real
+      - voice/video communcations are also fallible (last episodes of
+        quantico) ..
+    - but if 100% of people nearly 100% of the time are using easily
+      monitored, insufficiently encrypted communication channels, that
+      fuels the sociological phenomenon I mentioned.
+      - problems verifying authenticity/identity lead to legal axioms
+        being questioned
+    - (restructure/throw away ... i donno if this belongs here or
+      maybe in the section on censorship in social media)
 
-  - risk of unintended consequences
+  - this paradox w/ nature of singularity makes a re-evaluation of
+    tech/censorship ethics necessary.. (reword)
+  - lead into section on tyranny
 
-### Unforsean Disaster
+### Peak Tyranny
 
-  - risk of unforeseen disaster
+  - the risk of people becoming locked in a totalitarian a system
+    that's eradicated specific sets of knowledge
+
 
 ### Stifled Development
 
-  - risk of stifled development
-    - this risk is
-
-- competing interests (maybe remove)
-  - the kind of UI/UX tech interactions
-
-
-
-- the rapidly changing environment implies that information signals
-  are more important and the potential for false/misleading
-  information to have a greater economic/cultural/political impact is
-  also greater.
-  - humanity has gone from processing almost completely local signals
-    in the 19th century to processing almost completely global signals
-    - where local signals are almost an after thought
-
-
-
-- rapidly evolving fields present unforeseen opportunities amid
-  turbulent cultural/economic conditions
-
-  - (reword all of this) the problems here are caused by the nature of
-    of ... (this system? the turbulence? the opportunities presented?)
-    - or the nature of people and group behavior in a high-risk,
-      high-stakes system with high uncertainty
-      - coupled with less insurance or foundation
-        - it's impossible to take anything for granted
-
-  - these turbulent conditions mean that opportunities that were
-    unpredicted will present themselves
-    - with economic turbulence, this implies rapid growth in some
-      industries with rapid losses in industries thought to be solid
-      long-term investments
-  - groups may be more pressed to act
-    - because of group risk/losses
-    - or because they were presented with an opportunity neither their
-      group nor their adversaries foresaw
+- risk of stifled development
+  - this risk is
 
 # Intro
 
@@ -197,15 +167,9 @@ location. And if they simply mute the notification -- oops it must be
 a bug or something.
 
 
-
-
-
-
-
 ================================================================
 
-
-### (Social Media Censorship)
+### [Social Media Censorship]()
 
 What makes it OK to passively aggressively shadowban someone through
 manipulation of search and newsfeed algorithms? When tech companies
@@ -220,7 +184,7 @@ specific topics that are censored and delisted on Twitter and
 Facebook! And... (what?)
 
 ================================================================
-×
+
 The real value in social media is user time and attention. Some social
 media products engage millions or billions of user-hours of per
 day. Control over whether and how information is presented is
@@ -284,18 +248,17 @@ bogging it down and making it less competitive to global markets!
         entities with large social media budgets
 
 
-the attendees decided to pitch.
+The attendees decided to pitch...
 
 There are several arguments for restricting government interference in
 the operation of web applications.
 
-Passive surveillance of data isn't
-as worrying as direct influence of their products. In the US, the
-telecom industry is tightly coupled to the federal government. Control
-of telecom industry, the fabric of the route/switch layer, and
-access/documentation for the physical layer confers God-like hacking
-powers. Access or influence to any of these things makes otherwise
-challenging hacks absolutely trivial.
+Passive surveillance of data isn't as worrying as direct influence of
+their products. In the US, the telecom industry is tightly coupled to
+the federal government. Control of telecom industry, the fabric of the
+route/switch layer, and access/documentation for the physical layer
+confers God-like hacking powers. Access or influence to any of these
+things makes otherwise challenging hacks absolutely trivial.
 
 However, strict regional or international regulation of these products
 can stifle innovation by encumbering new products with overburdening

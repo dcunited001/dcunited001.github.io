@@ -11,6 +11,7 @@ excerpt: ""
 - TODO: add bookmarks
 - TODO: add ToC
 - TODO: add in content on flag burning
+- TODO: DISCUSS ICANN transfer (ZOMFG WZF!!)
 
 - need to tie in my examples to the ethics of censorship
   - need to clarify categories. (already enumerated?)
@@ -26,9 +27,9 @@ Therefore, governments, organizations and industries will attempt to
 justify broad censorship to regulate technology & communication,
 citing promotion of safety.
 
-> Imagine if Hip Hop was illegal! Open source software! Encryption so
-> software! Religious Texts! Dear God, we have to burn the Tony
-> Robbins books and videos! Self-help books are for the terrorisks!
+> Imagine if Hip Hop was illegal. Open source software. Encryption so
+> software. Religious Texts. Dear God, we have to burn the Tony
+> Robbins books and videos. Self-help books are for the terrorisks!
 > Empowered people are dangerous people in the 21st century factory
 > farm!
 
@@ -64,7 +65,9 @@ whole, on a regional scale as well as global.
 
 #### With automated censorship, how do we manage the risk for unintended consequences? That is, how do we minimize users not in violation that are affected & vice versa, when they are not prompted with any indication how/why they are in violation and there is no human element in the mix?
 
-# Dimensions to Consider in the Technology and Censorship Debate
+# Dimensions Driving Ethics in Modern Censorship
+
+(move to part one?)
 
 These mass communication platforms are fundamentally different than
 previous systems, which were easier to control because they were
@@ -109,14 +112,142 @@ never emerges. That is, the nature of the system right now may entice
 some set of tyrants to act now because later, they might not have the
 chance.
 
+### Understanding Intent of Policy, Strategy & Goals
 
+- understanding the intent (ethics usually does revolve around
+    intent),
+  - need to promote cultural/economic stability
+    - without limiting innovation
+  - risk for duplicity of intent in rapidly evolving fields,
+
+
+### Restriction of Individuality
+
+
+### Control Over Our Ascent Towards the Singularity
+
+
+###
+
+### Real and Intellectual Property Rights
+
+- increased focus on user agreements and things that are leased to
+  you, but "because the technology is 'dangerous'" you don't actually
+  have the right to own things from specific future industries
+  - industries which are likely to be locked down in this way include
+    nanotech, biotech, 3D printing, artificial intelligence
+- there may be a fundamental deconstruction of the AI industry and
+  subsequent reconstruction, in terms of the distribution of
+  intellectual property.
+  - this obfuscation would allow people who own certain intellectual
+    property rights to artificially restrict the distribution of
+    services rendered via IP & Tech they onw.
+  - this would also be useful (but perhaps unwise) in the nanotech,
+    biotech & 3D printing industries, where the pricing structure of
+    products built with 3D printers or nanotech is based on a
+    redesign/reorientation of the services
+    - this might indicate a smoother transition from products derived
+      via traditional manufacturing processes to those printed via
+      nanotech or 3D printing. i.e. instead of selling printers or
+      nanotech, people who are licensed to own the tech can lease time
+      to people (or something), while allowing for prices to be set
+      closer to the value in the traditional market
+    - this might avoid a price crash (or something IDFK) it's also
+      very anti-free market.
+
+- protecting copyright. how does copyright change here?
+  - (... more here ...)
+
+### Promoting Safety and Preventing Disaster
+
+
+### Awareness of Knowledge
+
+
+- awareness of an increased potential for negligence (keep?)
+  - esp. with respect to economic policy & investment
 
 ### Unintended Consequences
 
+- general description of unintended consequences
+
+- problems where policy is implemented, which encourages smoother
+  transition through high-innovation cycles. this is going to be a bit
+  of a tempation for products like self-driving cars or 3D printing.
+  - policy makers might pushback on automakers to restrict
+    self-driving capacity, citing security concerns. another option
+    would be to limit the self-driving feature's geographic
+    availability or something.
+  - the point is to prevent a crash for competitor products by
+    lengthening the transition time. for self-driving cars, a cautious
+    transition is best
+  - however, this is counter to one of America's greatest strengths
+    and perhaps our nation's most critical goal: remaining at the
+    forefront of the technology frontier.
+    - if we artificially slow the rates of these technological
+      transitions, we allow ourselves more time & attention to push
+      coherent, adaptive economic policy. we'll be more capable of
+      observing and reacting to trends.
+    - however, it may be foolish
+
+### Unforeseen Circumstances and Turbulant Group Dynamics
+
+- the rapidly changing environment implies that information signals
+  are more important and the potential for false/misleading
+  information to have a greater economic/cultural/political impact is
+  also greater.
+  - humanity has gone from processing almost completely local signals
+    in the 19th century to processing almost completely global signals
+    - where local signals are almost an after thought
+
+- rapidly evolving fields present unforeseen opportunities amid
+  turbulent cultural/economic conditions
+
+  - (reword all of this) the problems here are caused by the nature of
+    of ... (this system? the turbulence? the opportunities presented?)
+    - or the nature of people and group behavior in a high-risk,
+      high-stakes system with high uncertainty
+      - coupled with less insurance or foundation
+        - it's impossible to take anything for granted
+
+  - these turbulent conditions mean that opportunities that were
+    unpredicted will present themselves
+    - with economic turbulence, this implies rapid growth in some
+      industries with rapid losses in industries thought to be solid
+      long-term investments
+  - groups may be more pressed to act
+    - because of group risk/losses
+    - or because they were presented with an opportunity neither their
+      group nor their adversaries foresaw
+
+
+### Authority Over Content Creation, Classification, Distribution and Permanence
+
+- control over this means you control who sees what
+
+- there's some messed up things that can be done with splinternet.
+  - (maybe move this to the social media article)
+  - you can publish different news articles in various states or
+    regions, but block them in the alleged "originating" region. using
+    social media posts to trend some major event like a flood or
+    earthquake supposedly on the West Coast, while promoting the
+    article within the united states but in every region except the
+    West Coast. So everyone gets the impression that it happened and
+    social media artifacts are restricted from blacklisted regions.
+  - it's actually possible to use internet balkanization to do exactly
+    that! it's not guaranteed to work, but if you're running the same
+    games across thirteen regions, where reach region is so vigorously
+    dicussing twelve trending, highly-emotional events happening in
+    other areas, most people are probably going to be too busy to
+    validate the non-existent event in their own area.
+    - it requires some funky social media application configuration
+      and lots of influence over the newsfeed algorithms
+    - it's mostly an impossible, high-level idea, but it is possible
+
 (connect) The interdependent nature of these communication platforms,
 coupled with lack of understanding, constant flux, and uncertainty in
-how interactions of players contributes to the platform's small and
-large scale behavior patterns.
+how interactions of players contribute to the platform's small & large
+scale behavior patterns.
 
 (connect) presents is a legal argument in & of itself.  By
 affecting the free speech of one person via manipulation of social
@@ -271,8 +402,7 @@ So, we see some major forces driving the debate around free speech.
 After VR evolves into AR and machine-learning has been patented to
 death, the next opportunities are found in biotechnology, genomic data
 sciences, nanotechnology, 3D printing and advanced computing
-technologies. These are all technologies which can have dangerous
-implications.
+technologies, which can have high-risk, high-impact consequences.
 
 However well-meaning this censorship and development of technology may
 be, in the end, it will set us back as a nation and as a species. It
@@ -310,8 +440,6 @@ not be born in those conditions because it could not possibly be.
 
 categories of reasons & benefits/drawbacks of censorship
 
-
-
 # Censorship's Effect on Cultural Development
 
 What effect does censorship have on development of society, culture,
@@ -321,14 +449,15 @@ these dimensions of humanity. This stagnated discourse leads to dead
 ends in the graph of knowledge, for individuals and groups.
 Blacklisting and whitelisting knowledge restricts requisite knowledge,
 without which humanity simply cannot progress further.  This leads to
-a phenomenon which is the opposite of the Singularity: progress
+a phenomenon, where in contrast to the Singularity, progress
 plateaus. In any case, a plateau or stepped progression may be
-natural, but this is a certainty, given a level of censorship.
+natural, but this is a certainty, given a level of censorship. Our
+progression will end there.
 
 Central to this series is the observation that the global elites could
 not have misunderstood the progression of technology and it's effect
 on the dissemination of information. How widespread this understanding
-was is up for grabs, but I believe that we have been misled with false
+was is less clear, but I believe that we have been misled with false
 futurism. Understanding how these global elites knew and knowing how
 they knew furthers my belief that they intent to enact a global
 reset. Regardless of what the ruling class in each country knew and
@@ -347,13 +476,13 @@ in within the next few years. A decade at the most.
 
 ### Thermopylae, Marathon and Kublai Khan
 
-How does cheap and free transmission affect people? How does it lead
-to progress? The power of a simple message unimpeded can change the
+How does cheap and free transmission affect us? How does it lead to
+progress? The power of a simple message unimpeded can change the
 course of civilizations. At Thermopolae, the brave acts of hundreds of
 Spartans struck fear into the heart of Persians and funneled vigor
-into the hearts of Greeks to rise up and resist the oncoming
-hordes. Would this envigorating effect have been possible if not for
-the story? What if it couldn't be told?
+into the hearts of Greeks to rise up and resist the oncoming hordes.
+Would this envigorating effect have been possible if not for the
+story? What if it couldn't be told?
 
 What about the Battle of Marathon?! Greeks defeated the Persians and
 news of this victory was so critical that Pheidippides ran over twenty
@@ -365,7 +494,7 @@ decimated the Mongol's forces. I believe that the dissemination of
 information was somehow responsible for this. I don't know how it
 would be possible or the exact details. If the Japanese baited the
 Mongols into attacking at just the right time, then they changed the
-course of information. Why? If this is so, it is because they had the
+course of history. Why? If this is so, it is because they had the
 right information and the Mongol navy, mostly docked on the coast of
 Japan didn't. This may have been pure luck. It's certainly not widely
 known as anything else.

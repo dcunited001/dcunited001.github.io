@@ -188,7 +188,7 @@ to just one or two of the right pieces of information is enough for a
 high-IQ individual to extrapolate thousands of others. Again, the more
 intelligent, the more volatile! Why am I writing this? Because I am
 damn tired of how I was treated, personally! And I detest the idea of
-a society where your contributions and your potential means nothing!
+a society where your contributions and your potential mean nothing!
 We are marching towards a world just like that! Consumed by nihilism,
 your individuality will mean *NOTHING!* I was treated as though my
 life were worth *nothing!* I know how to fight this creeping
@@ -220,20 +220,22 @@ prevent it from happening again.
 
 # [The Internet is Our Library of Alexandria](#the-internet-is-our-library-of-alexandria)
 
-The internet is modern man's Library of Alexandria. This is a stellar
-metaphor for the internet's position as both a repository of knowledge
-and a mechanism for propagating that knowledge. However, the internet
-can be inverted into just the opposite. It can become a destructive
-tool of the surveillance state that watches over ever piece of
-information ever dispensed. If all communication is via the internet
-and all education proceeds through it, then the internet can be used
-to measure the sum of knowledge in any given person. In this way, the
-internet can be used by tyrants to dispense knowledge to whomever they
-permit worthy of access to information. Already, we see social
-experiments whereby a
-[balkanized internet](https://en.wikipedia.org/wiki/Splinternet) or
-"splinternet" permits access to information in a manner restricted by
-geography. A splinternet can shard information in other ways as well.
+The internet is modern man's
+[Library of Alexandria](https://en.wikipedia.org/wiki/Library_of_Alexandria).
+This is a stellar metaphor for the internet's position as both a
+repository of knowledge and a mechanism for propagating that
+knowledge. However, the internet can be inverted into just the
+opposite. It can become a destructive tool of the surveillance state
+that watches over ever piece of information ever dispensed. If all
+communication is via the internet and all education proceeds through
+it, then the internet can be used to measure the sum of knowledge in
+any given person. In this way, the internet can be used by tyrants to
+dispense knowledge to whomever they permit worthy of access to
+information. Already, we see social experiments whereby a
+[splinternet](https://en.wikipedia.org/wiki/Splinternet) or
+"Balkanized internet" permits access to information in a manner
+restricted by geography. A splinternet can shard information in other
+ways as well.
 
 What made the library so special in the ancient world? Why did the
 Romans burn it? What advantage would they gain from this? Was this
