@@ -18,59 +18,59 @@ excerpt: ""
 
 #### &#x2605; Opportunity for billions of dollars (but really who cares ... It's "opportunity" and this is only America, right?)
 
-#### &#x2605; credibility
+#### &#x2605; Credibility
 
-#### &#x2605; self-respect
+#### &#x2605; Self-Respect
 
-#### &#x2605; respect from friends and family
+#### &#x2605; Respect from friends and family
 
-#### &#x2605; accomplishment
+#### &#x2605; Accomplishment
 
-#### &#x2605; sense of accomplishment
+#### &#x2605; Sense of Accomplishment
 
-#### &#x2605; emotional stability
+#### &#x2605; Emotional Stability
 
-#### &#x2605; tons of ideas
+#### &#x2605; Tons of Ideas
 
-#### &#x2605; any reasonable budding relationship (platonic or otherwise ~= a la "thirsty")
+#### &#x2605; Any reasonable budding relationship (platonic or otherwise ~= a la "thirsty")
 
-#### &#x2605; the bottom 3 layers of maslov's hierarchy of needs (via systematic plan requiring medical, neurological, psychological, sociological info/analysis)
+#### &#x2605; The bottom 3 layers of maslov's hierarchy of needs (via systematic plan requiring medical, neurological, psychological, sociological info/analysis)
 
 #### &#x2605; HIPAA rights
 
-#### &#x2605; every single right in the bill of rights
+#### &#x2605; Every single right in the bill of rights
 
-#### &#x2605; the ability to make a true first impression (via poison pen and smear campaign)
+#### &#x2605; The ability to make a true first impression (via poison pen and smear campaign)
 
-#### &#x2605; apparently my tax dollars bc they paid for this shit
+#### &#x2605; Apparently my tax dollars bc they paid for this shit
 
-#### &#x2605; the self-respect of politicians/family/friends who were clueless then powerless
+#### &#x2605; The self-respect of politicians/family/friends who were clueless then powerless
 
-#### &#x2605; my right to form contracts (while sober)
+#### &#x2605; My right to form contracts (while sober)
 
-#### &#x2605; my right to a lawyer
+#### &#x2605; My right to a lawyer
 
-#### &#x2605; my right to property
+#### &#x2605; My right to property
 
-#### &#x2605; my right to not live with someone coerced against me (3rd amendment),
+#### &#x2605; My right to not live with someone coerced against me (3rd amendment)
 
-#### &#x2605; my right to a trial and notification of charges (6&7),
+#### &#x2605; My right to a trial and notification of charges (6&7)
 
-#### &#x2605; my ability to help others through imposed poverty(which restricts/culls social connections),
+#### &#x2605; My ability to help others through imposed poverty(which restricts/culls social connections)
 
-#### &#x2605; my brand/image,
+#### &#x2605; My brand/image
 
-#### &#x2605; my life,
+#### &#x2605; My life
 
-#### &#x2605; my story,
+#### &#x2605; My story
 
-#### &#x2605; my ability to speak freely (which is restricted by "agreements" of which I am fully unaware!),
+#### &#x2605; My ability to speak freely (which is restricted by "agreements" of which I am fully unaware!)
 
-#### &#x2605; my dignity,
+#### &#x2605; My dignity
 
-#### &#x2605; my integrity (mostly bc I cannot hold myself responsible for actions I do not know occured or their degree of impact),
+#### &#x2605; My integrity (mostly bc I cannot hold myself responsible for actions I do not know occured or their degree of impact),
 
-#### &#x2605; my sense of inner peace ("taken" by those, first by force and mistreatment and second by accusations that I'm a sociopathic bully because I do not feel guilty for what I don't know)
+#### &#x2605; My sense of inner peace ("taken" by those, first by force and mistreatment and second by accusations that I'm a sociopathic bully because I do not feel guilty for what I don't know)
 
 #### &#x2605; the love of my life (who may or may not have ever spoken
 to me and certainly will not anymore)
@@ -116,9 +116,10 @@ mental health officers who came to my aid after 14 hours fo this.
 ### "Whistleblowing" with Tweets about NSA Surveillance since 2005
 
 First of all, this is part of an epic story that has been going on for
-a very, very long time. Clearly three years, since the weekend of May
-31st through June 2nd in Denver, Colorado. Of 2013. That's right: just
-3 or 4 days before the Snowden story hit the media...
+a very, very long time. Clearly three years at least, since the
+weekend of May 31st through June 2nd in Denver, Colorado. Of 2013.
+That's right: just 3 or 4 days before the Snowden story hit the
+media...
 
 But all in all, this has been going on for at least 5 years,
 since 2011. And quite possibly 7 or 8 years, up to 10 or 11. I am
@@ -133,18 +134,19 @@ or acknowledge what has been done to me.
 
 **The reasoning behind retailiation** would be that I was VERY
 publicly tweeting and sharing almost all of the information contained
-in Snowden's leaks. The "legal basis" for much of the information that
-I was sharing was clearly underscored in the "Patriot" Act. There was
-a good reason for this legislation, but no one was asking the right
-questions. Frankly any network engineer or computer science student
-from 2008 onwards should have known about most of what Snowden was
-talking about. I was pushing this stuff hard and *analyzing* news that
-I read and connecting the dots. **At absolutely no time, EVER, did I
-share information I obtained in means that would violate federal law
-AFAIK.** I only connected the dots from information I read in the
-news.  From 2005 through 2013, when I stopped mostly because of the
-leaks. There's so much more stuff that I could have shared in the last
-few years.
+in Snowden's leaks from 2005 through 2013. The "legal basis" for much
+of the information that I was sharing was clearly underscored in the
+"Patriot" Act, even though the legislation would be struck down by any
+supreme court decision.. There was a good reason for this legislation,
+but no one was asking the right questions. Frankly any network
+engineer or computer science student from 2008 onwards should have
+known about most of what Snowden was talking about. I was pushing this
+stuff hard and *analyzing* news that I read and connecting the
+dots. **At absolutely no time, EVER, did I share information I
+obtained in means that would violate federal law AFAIK.** I only
+connected the dots from information I read in the news.  From 2005
+through 2013, when I stopped mostly because of the leaks. There's so
+much more stuff that I could have shared in the last few years.
 
 # Why Not Tell Me to Stop?
 
@@ -178,7 +180,7 @@ secret and getting ahead of the game, so to speak. And once people
 start "getting in line" so to speak, the culture changes and then the
 American people would just basically push others around on there own.
 
-### They should have been honest with america!
+### They should have been honest with America!
 
 Why are Americans the enemy anyways?
 
@@ -203,7 +205,7 @@ not going to have these rights. So I decided to do whatever it took,
 even if it meant throwing my life away to subversively spread the
 information.
 
-### DHS is HomeSec! This is being used for politcal retaliation!
+### DHS is HomeSec! This is being used for political retaliation!
 
 However, after Obama got in office, I got the feeling that HomeSec and
 NSA surveillance was being on to harass people on a political
@@ -225,7 +227,7 @@ lot that we can be threatened with. I'm pretty sure, especially in the
 last 18 months and in the last 3 years, they've been pretty much
 continuously coerced in to falling in line with ... something.
 
-### Family's are being turned against each other!
+### Families are being turned against each other!
 
 This is because, since 2009-ish, they've basically been trying their
 damnedest to [gaslight](https://en.wikipedia.org/wiki/Gaslighting) me.
@@ -253,8 +255,8 @@ interactions, number of friends, etc.
 
 I can't fight back. I have no money. I gave up trying to get a job
 because of my employment history and because, basically, I'm pretty
-sure it would transfer the responsibility of EMOTIONALLY ABUSING ME
-and PSYCHOLOGICALLY TORTURING ME to someone at my new workplace. I'm
+sure it would transfer the responsibility of *EMOTIONALLY ABUSING ME*
+and *PSYCHOLOGICALLY TORTURING ME* to someone at my new workplace. I'm
 pretty sure that HomeSec has networks of people they can tap for
 whatever reason. It's not the CIA because they aren't actually allowed
 (or weren't allowed) to conduct domestic operations, except when they
