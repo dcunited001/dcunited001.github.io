@@ -8,10 +8,26 @@ author:
 excerpt: ""
 ---
 
+My main complaint is that, regardless of the reality of situations
+I've been through, I have suffered significant emotional trauma. My
+family refuses to acknowledge this or treat me as though I might
+actually be a victim. **Yes, I deserve to be treated as though I am a
+victim.** And I deserve to have the reality of my emotional trauma
+recognized or at least receive treatment that recognizes the reality
+of the effects of such emotional trauma, regardless of the cause.
+
+Any such attempt to ameliorate this situation which does not account
+for my emotional trauma is destined for failure before it starts. Any
+attempt to ameliorate this situation without accepting my skill set
+and level of understanding in several fields is similarly destined for
+failure.
+
 ### Background on my Psychological Torture Experiences
 
 #### &#x2605; [Bedbugs in Boulder](http://te.xel.io/posts/2015-02-01-bedbugs-the-worst-to-ever-happen-to-me.html)
+
 #### &#x2605; [Workplace Bullying](te.xel.io/posts/2015-02-21-workplace-bullying-part-one.html)
+
 #### &#x2605; [Seven Negative Career Experiences](http://te.xel.io/posts/2015-07-04-seven-negative-career-experiences.html)
 
 # TL;DR; REALLY?! WELL HERE'S A FUCKING LIST OF GRIEVANCES!
@@ -153,7 +169,7 @@ much more stuff that I could have shared in the last few years.
 **The reasoning behind not approaching me in any *reasonable* official
 capacity** was at least threefold:
 
-#### (1) They're activity was illegal and needed to remain unchallenged
+### (1) Their activity was illegal and needed to remain unchallenged
 
 What they were doing was somewhat supported by federal legislation
 that was illegal. They didn't want to alert anyone it was being
@@ -161,7 +177,7 @@ used. It was incredibly illegal. They didn't want a court battle to
 get to the Supreme Court, where these laws would need to be shut down
 and publicly so.
 
-#### (2) They knew people would resist and wanted to use them as examples
+### (2) They knew people would resist and wanted to use them as examples
 
 They were looking for people to make examples of. They didn't want to
 tell me to stop because they knew there would be people like me out
@@ -170,7 +186,7 @@ they would get these people to self-identify during the years that
 social media was active and public. Then, they'd have a list of people
 they'd narrow down.
 
-#### (3) They wanted to retain *secrecy* while building out these systems
+### (3) They wanted to retain *secrecy* while building out these systems
 
 At the same time, they'd flex their muscles and identify the
 "Patriots" as the "Patriot" Act might identify them. Their
@@ -182,7 +198,7 @@ American people would just basically push others around on there own.
 
 ### They should have been honest with America!
 
-Why are Americans the enemy anyways?
+#### Why are Americans the enemy anyways?
 
 It's not that I'm completely against the powers enumerated in the
 Patriot Act. However, our constitution simply and absolutely does not
@@ -342,12 +358,14 @@ hurt people in the past and made mistakes, but *never reallllly hurt
 people.* The fact I haven't committed any serious mistakes thus far is
 one of the things that's kept me safe. They will not hesitate to get
 you in contact with people who commit such crimes (for
-fun/profit/boredom/whatever) and that's one of their tactics for
-handling threats actually.
+fun/profit/boredom/whatever). That's one of their tactics for
+handling threats: put a threat in contact with a group of people
+likely to compel someone into becoming a criminal.
 
-### Sent to to Priori Legal Attorneys (7/2016) and ACLU (8/2016)
+# Sent to to Priori Legal Attorneys (7/2016)
 
-```
+### And sent to the ACLU (8/2016)
+
 Thanks for your message! When I submitted my request, I was actually
 walking through the UI of the Priori Legal app, since I was
 interviewing via Hired.com.
@@ -457,4 +475,3 @@ different reasons I could sue that place, though I don't plan on
 pursuing legal action. It's been 3 years and I would feel bad because
 if I did it, i'd fucking sue them out of business and 30 people out of
 a job.
-```
