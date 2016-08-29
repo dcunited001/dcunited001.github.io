@@ -10,11 +10,6 @@ excerpt: ""
 
 #### see Genius (documentary about Thomas Wolfe)
 
-#### Part One: Knowledge Extinction Events
-
-- motivation behind why censorship is important now!
-  - already published for the most part
-
 ================================================================
 
 # Part Two: Philosophy of Censorship
@@ -26,49 +21,10 @@ excerpt: ""
   - but it's hard to weigh the pros/cons here, without understanding
     who might want to restrict/widen access to information and why
 
-
-
 # Dimensions to Consider in the Technology and Censorship Debate
 
-- determining right/wrong for technological applications of censorship
-  relies on:
-
-
-  - this paradox: the internet allows free exchange of information but
-    because it becomes easier to understand what information someone
-    has accessed, that "free" exchange leads to:    (move this?)
-    - increased surveillance
-      - and it seems to be used quite often for HUMINT!!
-    - permanent record of interests/knowledge
-
-  - this paradox has a sociological dimension because of the near
-    total penetration of digital communication
-    - (as % of population using digital vs non-digital communication)
-    - can't be sure that text-based communications are real
-      - voice/video communcations are also fallible (last episodes of
-        quantico) ..
-    - but if 100% of people nearly 100% of the time are using easily
-      monitored, insufficiently encrypted communication channels, that
-      fuels the sociological phenomenon I mentioned.
-      - problems verifying authenticity/identity lead to legal axioms
-        being questioned
-    - (restructure/throw away ... i donno if this belongs here or
-      maybe in the section on censorship in social media)
-
-  - this paradox w/ nature of singularity makes a re-evaluation of
-    tech/censorship ethics necessary.. (reword)
-  - lead into section on tyranny
-
 ### Peak Tyranny
-
-  - the risk of people becoming locked in a totalitarian a system
-    that's eradicated specific sets of knowledge
-
-
 ### Stifled Development
-
-- risk of stifled development
-  - this risk is
 
 # Intro
 

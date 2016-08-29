@@ -618,7 +618,7 @@ Superbowl and you're fucking it up for him.
 #### Now apologize to Gleep Glop ... or die!!
 
 ![Gleep Glop is Lord of all Gloops! Recognize!](/img/posts/2016-07-11-consciousness-as-a-continuum/gleep-glop.jpg)
-
+[^1]
 As for the protocols which are utilized for communication over the
 Quantum Web, there would be limitations resulting from the quantum
 mechanism they utilize.  These limitations would drastically affect

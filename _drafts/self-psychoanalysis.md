@@ -31,6 +31,11 @@ functionally relevant information/behavior.
   are tightly-coupled to one's own. (behavior/reactions/tactics/objectives)
 
 
+- a perfect storm is a random occurance ... IN NATURE! A perfect storm
+  in mental health treatment IS NOT A RANDOM OCCURANCE. There is
+  simply too much human involvement from so many angles.
+  - One must assume it cannot be chance.
+
 ### true change springs from the intention of change
 
 true, long-term, positive change will be the result of positive
@@ -63,7 +68,47 @@ SITUATION WORSE AND USE MY FAMILY TO DO EXACTLY THAT.
 
 - when I establish a relationship with a mental health practicioner
 
+#### &#x2605; General Suppression of Communication
+
 #### &#x2605; No Discussion of Problems
+
+#### &#x2605; No emphasis on routines (part of a total lack of realistic planning)
+
+Tie into Aspergers Diagnosis
+- this demonstrates willful ignorance of my diagnosis
+
+#### &#x2605; They guilt me for lack of social maturity, while
+ restricting learning experiences
+
+ They continue to restricting me from experiencing the events which
+ would provoke the kind of social maturation that occurs in 20-30 year
+ olds. This
+
+I can't emphasize how cruel this is. I have Asperger's. I don't know
+how else to say it. I would have been much better off, but **I lacked
+virtually all social interaction b/w the ages 20 to 30.** How can you
+expect someone to socially develop who is intentionally isolated,
+while subject to emotional trauma leaving him with PTSD. This occurs
+with virtually zero emotional support system, where the people who are
+supposed to be the strongest connections instead contribute to the
+shaming and mentally corroding tactics.
+
+It occurs for about a decade. And then the person who experiences the
+pain, who's much worse off emotionally, is the person at fault?! When
+can someone else accept some responsibility here?! How is it fair to
+expect me to pick myself up? IT'S NOT! It is unrealistic to expect me
+to do so and it implies that my family, at best, lacks a rational
+plan.  And worse, it may imply their cooperation in a plan to
+discredit and destabilize me.
+
+Observing everything first-hand leaves me wondering how this perfect
+storm of mental health treatment came together.
+
+#### &#x2605; Their idea of "Treatment Plan" is wait idly by until
+they have induced enough depression/aggrivation/guilt/shame to induce
+some reaction that justifies locking me away, while claiming they were
+simply "too busy" with their own lives and "it never was their problem
+anyways"
 
 #### &#x2605; Suppression of Propagation of Information Related to My Situation
 

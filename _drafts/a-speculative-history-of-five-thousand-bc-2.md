@@ -8,8 +8,10 @@ author:
 excerpt: ""
 ---
 
+
 - part two starts with 8,000 BC - 5,000 BC, then covers up to 4,000 BC
-- part three covers 4,000 BC through 2,000 BC and then sums up the rest
+- part three covers 4,000 BC through 2,000 BC and then sums up the
+  rest
 
 Lets be real, up to this point, humanity has been sticking to the
 rivers and lakes that it's used to.  But that's all about to change.
@@ -22,7 +24,7 @@ historical facts.  It's titled "A Speculative History" for a reason.
 I hope to provide a good story and possibly spark your interest.  If I
 do, follow up with some research yourself.
 
-### Pre-Historic Written Language
+# Pre-Historic Written Language
 
 What I can state with confidence is that the story that we know is not
 the complete truth. There is a lot missing and I think various empires
@@ -53,29 +55,34 @@ because it is clear that we've only scratched the surface.  So I'm
 hopeful that we'll have the chance to study more of their
 establishments.
 
-## Calamity Echoes Through Human Psyche
+# Calamity Echoes Through Human Psyche
 
 The Neolithic was fraught with changing weather patterns and
 disaster. This continued through the late Neolithic, up through the
 early Copper Age.  After 6,000 BC, the ice stopped melting and the
 weather became a lot more stable.  When ice melts and land bridges are
 broken, ocean currents and undersea brine rivers are disrupting,
-forming new patterns which drive weather.  The changing weather causes
-some areas to lose their appeal for settlement, forcing people to find
-greener pastures.  Such was the case for the Sahara, which was mostly
-green and arable through a long transition around 5,000 BC, finally
-becoming the desert we know today.
+forming new patterns which drive weather.
 
-Through the neolithic period, most of humanity was nomadic.  Lack of
+The changing weather causes some areas to lose their appeal for
+settlement, forcing people to find greener pastures.  This would
+obfuscate evidence of earlier human settlements, since we need to look
+for place which may have been overrun by nature or wouldn't make sense
+to us, like the bottom of the English Channel. Such was the case for
+the Sahara, which was mostly green and arable through a long
+transition around 5,000 BC, finally becoming the desert we know today.
+
+Through the neolithic period, most of humanity was nomadic. Lack of
 settlement means lack of sustained agriculture, though. Because our
 food source is restricted to what we can find to eat, this limits our
 population, as do many other factors, such as regularly scheduled
-catastrophic flooding.  Lack of settlement means trade is sporadic at
-best and both of these factors contribute to stifled cultural
-development.  Trade might be the single most important factor
-incentivizing development of abstract written communication, so that's
-right out too.  When you trade, you have to count things, write them
-down and persist that information.
+catastrophic flooding.
+
+Lack of settlement means trade is sporadic at best and both of these
+factors contribute to stifled cultural development.  Trade might be
+the single most important factor incentivizing development of abstract
+written communication, so that's right out too.  When you trade, you
+have to count things, write them down and persist that information.
 
 The humans that did settle would do so near the ocean, along rivers,
 deltas and lakes.  They would find the easy access to water alluring
@@ -92,6 +99,8 @@ were relatively rare to the victim populations and only preserved
 through myth.  It was difficult to understand the mechanism causing
 flooding and if some group did, then it was difficult to propagate
 that knowledge or discern a method to predict when one would happen.
+
+# (Innovate or Die?)
 
 However, that's not to say that we didn't understand what was going on
 around us.  I believe that ancient humanity was well aware of rising
@@ -114,7 +123,7 @@ shows that pre-Clovis peoples certainly inhabited the Americas more
 than 14,500 years ago. This begs the question: did people of that time
 have access to seafaring technology?
 
-## Innovate or Die
+# Innovate or Die
 
 I really think that this ever-changing world created the conditions
 that required humanity to innovate or perish.  By developing crude
@@ -293,7 +302,7 @@ of doing it without significant risk of mortal injury.  There is no
 resource over-consumption to drive conflict and population is
 constrained.
 
-## Metallurgy ...
+# Metallurgy ...
 
 ### Or: How Hot Can We Make Fire?
 
@@ -601,7 +610,6 @@ event called the Storegga Slide.
 - around 6,200 BC, it burst for the last time
   - and sea levels may have risen dramatically in response
     - so it seems the sea level rose in bursts
-
 
 ### Black Sea Outburst Flood
 

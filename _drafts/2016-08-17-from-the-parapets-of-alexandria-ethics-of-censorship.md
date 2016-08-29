@@ -63,7 +63,148 @@ whole, on a regional scale as well as global.
 
 #### For political & cultural censorship, is it ethical to leverage feedback loops & flaws in social media algorithms to encourage the development of specific trends, some of which may be divisive? e.g. Encouraging someone to post more radical viewpoints by clustering the user in a group exposed to more of the same topics, creating a "Black Twitter" or "Trump Twitter"
 
-#### With automated censorship, how do we manage the risk for unintended consequences? That is, how do we minimize users not in violation that are affected & vice versa, when they are not prompted with any indication how/why they are in violation and there is no human element in the mix?
+#### With automated censorship, how do we manage the risk for unintended consequences? i.e. How do we minimize users not in violation that are affected & vice versa, when they are not prompted with any indication how/why they are in violation & there's no human element in the mix?
+
+# 21st Century Ethical Paradox
+
+> Utilizing the internet's free access to the sum of information on
+> planet Earth implicitly allows service providers to index your mind,
+> and assess the extent of information you've been exposed to.
+>
+> If you were born into the Information Age, this can be a *near
+> total* assessment of the facts and information that could be in your
+> mind. I can't adequately articulate how powerful this is.
+
+The internet allows free exchange of information, but at the cost of
+profiling your mind's set of knowledge and information.  So you can
+access whatever information you want, but as you do, intermediates
+become more aware of everything you might have read. Depending on how
+technologies like eye-tracking penetrate user interfaces, this could
+mean that every word or image you view generates an indication of that
+event. Other augmentations to user interfaces are more powerful and
+complete.
+
+Service providers can maintain & assess populations, groups or
+individuals for a distribution of information and knowledge. Or, it
+might be an AI algorithm that aggregates that data and constructs
+profiles based on each user. Furthermore, there are hundreds of
+metrics that Google uses as redundant means of identifying
+users. These include IP Address, Chrome Login Status, and even UI
+metrics like Window Size.
+
+This capacity makes it very difficult to use web/mobile products
+without leaving behind a trail of logs and metadata. Both Facebook's
+Like buttons and Google's redundant means of identifying users track
+you across the internet. Even if you blew away your Chrome browser and
+reinstalled, Google may still be able to identify your user
+interactions against others, even if you switch VPN's. Obviously, if
+you're hacking, don't use Chrome.
+
+I'm not lambasting Google's data collection, just emphasizing that
+Google, Facebook, NSA and others have the ability to trivially track
+you across the internet, should they want to target you. And the price
+you pay for instant, unimpeded access to a mostly universal data set
+is that you're allowing these entities to construct profiles which
+indicate the knowledge and info.
+
+The most selective information would be very safe in Google's data
+centers and occasionally NSA data centers ... lulz. For most other web
+applications, the records are distributed b/w client and server, but
+those can be subject to compromise, aggregation and analysis. (finish
+paragraph)
+
+- include information
+- move some of this to the section on Internet/Social Media censorship
+
+### (Paradigm Changes)
+
+- the paradigm here changes if/when
+  [quantum networking](https://en.wikipedia.org/wiki/Quantum_network)
+  (QN) and
+  [Future Internet](https://en.wikipedia.org/wiki/Future_Internet)
+  architectures become prevelant.
+  - quantum networking means that the communication fabric itself will
+    not only become decentralized, but is implicitly nonlocal. This
+    might represent the most important paradigm shift in computing
+    since networking. It could also be impossible, so there's
+    that. The design of portable QN devices will likely present
+    engineering problems like size, power and form factor constraints,
+    related to superconduction and minimizing interference.
+
+  - Some technologies will become useful around 2020 because they
+    compliment demands for Augmented Reality applications. Future
+    Internet tech like content centric networking means that data is
+    not made available to the network by address, but is instead
+    locatable and routable by name and dataset hierarchy.  The data
+    sharded along various dimensions, like application data structure,
+    and is cached as close to the user as possible. Honestly, it's not
+    a technology I would bet on, as QN may eventually outmode it.
+
+# Have You Heard the Good News?!
+
+### Our Brains May Themselves Be Quantum Computers, Complete with .
+
+    though there are likely mechanical engineering, power and
+    size constraints for portable QN devices.
+
+
+#### Future Internet: Content Centric Networking
+
+#### [CCN](https://en.wikipedia.org/wiki/Content_centric_networking)
+
+#### [NDN](https://en.wikipedia.org/wiki/Named_data_networking)
+
+#### [ICN]()
+
+ultimately constructing a
+profile that can be used to psycholanalyze you, stalk you, blackmail
+you.
+
+This is unavoidable via the accumulation, analysis, & shared records
+of your online behavior. In fact, hacked database tables from web
+applications can be pieced together to put together a scarily accurate
+profile of someone! Raw or processed data like this might be valuable
+on the black market, though I hardly think I'd be giving someone that
+idea.
+
+That's pretty scary, right? 怖いね？
+
+- this paradox:
+  -
+
+    it becomes easier to understand
+    what information someone has accessed, that "free" exchange leads
+    to
+
+
+  because every
+    web request leaves behind logs & metadata on the client, server
+    and the routers in between.
+
+    - increased surveillance
+      - and it seems to be used quite often for HUMINT!!
+    - permanent record of interests/knowledge
+
+  - this paradox has a sociological dimension because of the near
+    total penetration of digital communication
+    - (as % of population using digital vs non-digital communication)
+    - can't be sure that text-based communications are real
+      - voice/video communcations are also fallible (last episodes of
+        quantico) ..
+    - but if 100% of people nearly 100% of the time are using easily
+      monitored, insufficiently encrypted communication channels, that
+      fuels the sociological phenomenon I mentioned.
+      - problems verifying authenticity/identity lead to legal axioms
+        being questioned
+    - (restructure/throw away ... i donno if this belongs here or
+      maybe in the section on censorship in social media)
+
+  - this paradox w/ nature of singularity makes a re-evaluation of
+    tech/censorship ethics necessary.. (reword)
+  - lead into section on tyranny
+
+### Balancing Information Distribution and Group Dynamics in Uncharted Territory
+
 
 # Dimensions Driving Ethics in Modern Censorship
 

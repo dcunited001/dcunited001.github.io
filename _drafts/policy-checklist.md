@@ -70,6 +70,35 @@ excerpt: ""
 
 ================================
 
+to respond/clarify:
+
+- health care
+- education
+  - need to elaborate. big ideas are mostly lofty imagery
+  - need to specify what i mean
+- immigration
+  - how can i @!#$'ing clarify this any more?
+  - i wrote 10,000 words on this
+  - building a wall (we have to stop the influx of illegal
+    immigration)
+    - if we don't slow/stop it, the problem is going to be much bigger
+      later on.
+- real social change.
+  - real upward motion from impovershed demographics
+  - powered by social/cultural changes & education
+- religious freedom
+  - religion/education via vouchers
+    - how to structure fair policies legally
+- stance on trade
+
+- who are these ppl?
+  - [Father Coglin](https://en.wikipedia.org/wiki/Charles_Coughlin)
+  - [Alexsandr Dugin](https://en.wikipedia.org/wiki/Aleksandr_Dugin)
+  - [Margeret Sanger](https://en.wikipedia.org/wiki/Margaret_Sanger)
+  - [Chuck Hagel](https://en.wikipedia.org/wiki/Chuck_Hagel)
+
+================================
+
 (on hillary) i mean i'd feel badly for anyone in that position,
 regardless of what they did and especially in contrast to how they act
 about what they did. it's not as easy to understand people as it seems

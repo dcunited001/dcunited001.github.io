@@ -1,32 +1,72 @@
 ### part 3 starts here
 
+ideas for part 3:
+
+- previous periods weren't stable enough such that architecture,
+  construction or differentiation/specialization of roles would matter
+  enough to reinforce those habits. at least not for long periods of
+  time.
+- integrate ideas that, before architecture, humans had very little
+  idea of permanence. there was simply:
+  - the stars, which seemed to be all but permanent & unchanging
+  - the earth & geological formations, which were mostly permanent
+  - human/animal life, which was, in stark contrast, very transient
+- after architecture, humanity gained the ability to craft their own
+  artifacts which varied in degree of permanence.
+  - settlements contained buildings which, if properly constructed,
+    seemed to last longer.
+    - these artifacts themselves
+- discuss how this led to the idea that permanence was special
+  - the things that lasted longer seemed "better" because it was more
+    difficult to properly design/engineer/construct things to last
+    longer
+    - this began to become applied to non-material things as well
+  - people likely decided to take this concept to its extreme
+    - could something be constructed which would be most permanent?
+      - or at least, the idea would be to construct something which
+        would at least be unquestionably permanent
+
 writing in dilmun?  probably not
 - dilmun was partially submerged by 8000 BC and mostly submerged by 6000 BC.
-  - because of writing's viral nature, it would have quickly escaped if it was developed in Dilmun
+  - because of writing's viral nature, it would have quickly escaped
+    if it was developed in Dilmun
+  - we don't really see evidence of this in record or in the evolution
+    of language
+    - perhaps this is the missing piece though.
 - there's a 4000 year space between the time when Dilmun would have been in it's heyday
   - and when Sumeria first started developing it's writing
 
 writing in Sumeria (4000 BC)
 - we only have proof of writing back to 4000 BC in Sumeria.
-  - however, the first samples of writing are almost entirely comprised of financial records of transactions
+  - however, the first samples of writing are almost entirely
+    comprised of financial records of transactions
     - and inventories of agricultural products.
-- but IMO, there was writing in the area before people thought to produce clay tablets.
-  - it was part of developing further abstract ideas, but we only have evidence of it
-    from when people decided to start firing clay tablets.
+- but IMO, there was writing in the area before people thought to
+  produce clay tablets.
+  - it was part of developing further abstract ideas, but we only have
+    evidence of it from when people decided to start firing clay
+    tablets.
   - speaking of which, that whole process seems cumbersome.
-    - i don't think everyone had a kiln or means of creating these tablets.
+    - i don't think everyone had a kiln or means of creating these
+      tablets.
     - they must have been required for some purpose
       - or at least strongly encouraged by some part of their culture
       - perhaps by the introduction of taxes
-    - but if not everyone had a kiln, the inhabitants likely developed processes
+    - but if not everyone had a kiln, the inhabitants likely developed
+      processes
       - for producing these in some systematic, more efficient way.
-    - if you don't own a kiln, but you happen to be rich enough to need to tabulate inventory
-      - or record a transaction, the it's basically like going to kinko's every time you need to print something
+    - if you don't own a kiln, but you happen to be rich enough to
+      need to tabulate inventory
+      - or record a transaction, the it's basically like going to
+        kinko's every time you need to print something
 - these systems likely originated in a similar fashion to language.
   - and it's related to the humans abstracting concepts using art
-  - the more common that became, the more people would communicate with art
-  - as they communicated with art, particular symbols and styles would emerge to represent similar ideas
-- however, they wouldn't be writing in a way that left a permanent trace,
+  - the more common that became, the more people would communicate
+    with art
+  - as they communicated with art, particular symbols and styles would
+    emerge to represent similar ideas
+- however, they wouldn't be writing in a way that left a permanent
+  trace,
   - that is, until the sumerians started keeping financial records.
 
 ==========
@@ -153,8 +193,6 @@ Copper Age
   - tartaria tablets (containing vinca symbols),
 - timna valley, in southern isreal, shows evidence of copper mining dating back to between 7,000 BC to 5,000 BC
 - Bhirrana, the oldest ICV site (dating back to 7500-6200 BC)
-
-
 
 Bronze Age
 - Troy I founded in 3,000 BC
