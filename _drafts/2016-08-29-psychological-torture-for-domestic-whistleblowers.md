@@ -366,6 +366,8 @@ likely to compel someone into becoming a criminal.
 
 ### And sent to the ACLU (8/2016)
 
+{% highlight %}
+
 Thanks for your message! When I submitted my request, I was actually
 walking through the UI of the Priori Legal app, since I was
 interviewing via Hired.com.
@@ -475,3 +477,5 @@ different reasons I could sue that place, though I don't plan on
 pursuing legal action. It's been 3 years and I would feel bad because
 if I did it, i'd fucking sue them out of business and 30 people out of
 a job.
+
+{% endhighlight %}
