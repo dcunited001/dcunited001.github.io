@@ -86,3 +86,91 @@ metanomics and probabilistic programming
     - the MRI images can be sewn together and with enough imaging
     - then a highly accurate model of the connectome for the brain and
       other organs can be constructed
+
+
+# Spatially distributed state on the Macro Scale
+
+i.e.
+
+### Methodology & Data Analysis for More Proficient MRI
+
+many ways to increase proficiency for interpolating & extrapolating
+from MRI data
+
+overview of ideas/methods:
+
+### Targeted Drug Delivery & Activation Via TMS or Ultrasound
+
+Develop macromolecule containers which act as containers for:
+
+- traditional drug delivery
+- delivery of RNA/DNA/Virus for genetic engineering
+
+These macromolecule containers either react to magnetism, ultrasound
+or some other localized simulus
+
+- e.g. a protein with a ferromagnetic iron ion embedded in the
+  structure can act as a subunit in a simple macromolecule
+  - this protein's subunits could mimic something found in nature, but
+    it needs to react to magnetism, ultrasound or NMR vibrations
+    - I think these are way to faint to trigger any action
+- the point is, if some generic mechanism for this can be created,
+  drugs can be more efficiently targeted in such a way that does not
+  require tissue-specific protein activation factors
+
+### Treatment for Traumatic Brain Injury via Placement of Neural Stem Cells (NSC)
+
+think of it as like LASIK for Traumatic Brain Injury
+
+this is a high-level idea which has been explored before. with
+machine learning and MRI data, it should be possible to identify:
+- weakened neural structures
+- disconnected neural structures (networks, etc) in the brain.
+
+e.g. it might be possible to determine locations of lesions causing
+specific neurological signs/symptoms
+- obviously, this can be done to some degree on the macro scale
+- what I'm talking about is identifying the places in the brain
+  responsible for driving neurological symptoms (alexia, dysarthria,
+  etc) but moreso on the micro scale.
+  - the goal would be to identify places in which neural stem cells
+    could be surgically placed to correct damage done to neural
+    networks from lesions
+
+this would require examining the electrical activity of neural
+circuits in the human brain while if functions normally and comparing
+it to a model for normal human neural activity.
+- EEG isn't going to cut it. fMRI won't work. I don't know what
+  mechanism PET uses. I don't think they are going to be small-scale
+  or realtime enough
+- so, if someone had a Broca's lesion, they would want to understand
+  the structure of that region of the brain at a micro-scale
+  - they would want to compare how the patient's neural circuitry was
+    functioning & compare it to how similar neural circuitry
+    interoperates in that region.
+    - and again, compare a model of the patient's electrical/ionic
+      activity for specific higher-order regions of their brain with
+      that of neurotypical people
+
+additionally, if a method of [robitic] surgical implantation of Neural Stem
+Cells seems unsafe or leads to complications, such as disregulated
+localized growth of neurons,
+- then it may be possible to use the method listed above:
+  macromolecule drug delivery targeted via TMS/etc
+- i.e. localized direction & application of neurotrophic growth
+  factors.
+
+
+### Misc Questions:
+
+What is the effect of NMR on Lipids? Could vacuoules be constructed
+with lipids that have a known varying isotopic ratio?
+- this seems like it might be the perfect means of introducing
+  controlled noise into MRI
+  - if it's something like a vacuole, the structure should react in
+    varying degrees to its surroundings, etc.
+  - the vacuole could be filled with D20 instead of H20, which would
+    further change how it interacts
+  - again, the goal is to introduce controlled, known noise during MRI
+    - this will help greatly in mapping out micro/macro structures in
+      the brain

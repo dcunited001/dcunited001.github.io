@@ -38,7 +38,7 @@ symbols to link concepts across tribally structured peoples. That is,
 it seems people discovered that they could establish symbols that
 would enable them to communicate across tribal boundaries.
 
-A symbolicized phonetic written language just wouldn't seem natural
+A symbolicized phonetic written language just 14wouldn't seem natural
 for the people of 5,000 B.C or earlier. Written language only becomes
 useful when people can read what you write and it's unlikely that
 verbal language was consistent enough to enable a written language to

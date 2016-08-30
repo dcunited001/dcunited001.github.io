@@ -9,7 +9,7 @@ excerpt: ""
 ---
 
 
-
+explain defacement of my sister's art and rationale behind it
 
 # main theme:
 
@@ -43,11 +43,21 @@ functionally relevant information/behavior.
 - it is trivial to determine if someone's behavior/reactions/tactics/objectives
   are tightly-coupled to one's own. (behavior/reactions/tactics/objectives)
 
-
 - a perfect storm is a random occurance ... IN NATURE! A perfect storm
   in mental health treatment IS NOT A RANDOM OCCURANCE. There is
   simply too much human involvement from so many angles.
   - One must assume it cannot be chance.
+
+###
+
+- similarity to solving sudoku puzzles: have to evaluate paths without
+  being sure of the coherence of their truth values
+  - i.e. there are no simple tactics where one can be sure that one
+    move advances the solution
+- similarity to the Bell distribution
+  - also Hardy distribution
+  - refer to the Simon Institute lectures
+- liar's paradoxes, etc.
 
 ### true change springs from the intention of change
 
@@ -155,6 +165,12 @@ to write in my drafts folder
 
 - i have at least two non-fiction books I could write AND SELL
 
+#### &#x2605; Learn Japanese (and other languages, but JP first)
+
+
+
+#### &#x2605; Live in Japan (eventually)
+
 
 ### These are all realistic goals. Each and every one of them.
 
@@ -197,7 +213,11 @@ linguistic development. However, it should be trivial to develop
 further and is at least an interesting theory.
 
 Regardless, even presenting a summerization of this theory requires an
-understanding of linguistics, anthropology, pre-history, sociology and...
+understanding of linguistics, anthropology, pre-history, sociology
+and...
+
+
+# Realistic Goals for Getting Myself Out of this situation
 
 # How else can i tell that my family does not have good intentions
 
@@ -235,6 +255,24 @@ SITUATION WORSE AND USE MY FAMILY TO DO EXACTLY THAT.
 #### &#x2605; No Discussion of Problems
 
 #### &#x2605; No Written Discussion of Problems
+
+they haven't expended any time/energy on coming up with a plan for
+getting me out of the house.  other than hoping that general
+antipathy, guilt and shame will eventually make me hit "ROCK BOTTOM"
+and that I might be motivated through sufficient
+pain/fear/discomfort...
+- what a loving family, amirite?
+
+#### &#x2605; Duplicity of intent/action
+
+- there are plenty of examples of where duplicity of intent/action
+  behind my family's actions leads me to a more negative, more
+  compromised disposition.
+  - they will use duplicity of statements/actions to further restrict
+    my available actions, but they never afford the same foresight,
+    tactfulness when the outcome could be more positive for me
+  - examples of how duplicity and tact can be used for positive
+    results?
 
 #### &#x2605; They Pursue Action with Detrimental Consequences Without Discussing It With Me
 
