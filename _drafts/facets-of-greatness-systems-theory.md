@@ -10,7 +10,8 @@ excerpt: ""
 
 Systems Theory is all about feedback loops. It's a powerful, but
 simple science of modeling processes with feedback loops... basically.
-If you know a lot about Systems theory.
+If you know a lot about Systems theory... (you'll know i have almost
+zero knowledge in this subject)
 
 ...
 
@@ -183,8 +184,6 @@ i know you're trying to help me?
 - you can lead, follow or get out of the way
   - or... you can help me, you can hinder me, or you can get out of
     the way.
-
-
 
 ### [Systems Theory - Structure the Incentives and Feedback Loops]()
 

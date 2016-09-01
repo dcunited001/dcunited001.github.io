@@ -372,3 +372,41 @@ involve various kinds of roles.
 Are there graphs that can be defined as having a *most random*
 structure. this can be set for the entire graph or just set the
 - or a most random set of neighborhoods with
+
+### projection of causality onto lower universes from external, higher universes
+
+causality is driven from higher universes onto lower universes,
+- at least at the point of conception
+  - (e.g. a big-bang creation event decides initial values)
+  - this is like powering on a video game console or giving birth to
+    some other kind of "lower" universe
+- possibly on a real-time basis
+  - where entities from higher universes can influence events in a
+    lower or simulated universe in real-time
+    - like player one controlling a character in a video game
+- possibly on an event-driven basis
+  - specific events broadcast themselves to entities in higher planes
+    who then choose to or must react to them.
+
+but some of the conditions above imply causation isn't ever completely
+internalized in a universe... there is always some external influence
+which may vary in its degree of continuity
+
+- but this implies that externally-sourced causation of events is not
+  final or total. that is, even if we are fated to specific events, we
+  can fight that.
+  - if we were damned from the point of conception in the big bang, we
+    can counter that.
+  - if entities from a higher universe must maintain constant
+    intervention in our world, that means there must be a reason for
+    that.
+  - if entities from a higher plane involve themselves in our world on
+    a specific event-driven basis, then we can become aware of that
+    and we can counter it. or at least control our own fate.
+
+... more here
+
+this shared degree of causality also implies shared information
+- or duplicated locatation of some information
+- ... i didn't explore how or the implications on causality of options
+  for how information can be duplicated or shared
