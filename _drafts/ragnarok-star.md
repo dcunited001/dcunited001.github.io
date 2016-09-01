@@ -1,7 +1,7 @@
 ---
 title: "Ragnarok, Metaphysics and Engineering Cultural Touchstones for Mythos"
 categories: "blog"
-tags: "sociology politics epistemology censorship"
+tags: "sociology politics"
 headline: ""
 author:
   name: "David Conner"
