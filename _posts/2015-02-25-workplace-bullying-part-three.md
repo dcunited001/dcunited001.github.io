@@ -1,16 +1,17 @@
 ---
-title: "Workplace Bullying: Specific Tactics"
+title: "Defense Against The Dark Arts: Perps, Trolls and Passive Aggressive Tactics"
 categories: blog
 author:
   name: "David Conner"
-tags: "sociology psychology bullying"
-headline: "But ... how would someone specifically ruin another's life?"
+tags: "sociology psychology bullying gangstalking gaslighting torture warcrimes"
+headline: "The first rule of psychological torture is: make sure the victim never talks about it."
 excerpt: "
-One of the worst
-aspects of passive aggressive behavior -- and one reason that it is so
-effective -- is that positive behavior becomes easy to confuse with
-negative behavior, since the goal is to confuse cause and effect, to
-encourage inaction and to prevent interference."
+One of the worst aspects of passive aggressive behavior -- and one
+reason that it is so effective -- is that positive behavior becomes
+easy to confuse with negative behavior, since the goal is to confuse
+cause and effect, to encourage inaction and to prevent interference."
+redirect_from:
+  - /posts/2015-02-25-workplace-bullying-part-three
 ---
 
 #### &#x2605; [Overview](/posts/2015-02-21-workplace-bullying-part-one.html) &#x2605; [General Strategies](/posts/2015-02-24-workplace-bullying-part-two.html) &#x2605; Specific Tactics &#x2605; [Tools Against Bullying](/posts/2015-02-26-workplace-bullying-part-four.html)

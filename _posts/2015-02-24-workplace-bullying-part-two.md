@@ -1,9 +1,9 @@
 ---
-title: "Workplace Bullying: General Strategies"
+title: "Defense Against The Dark Arts: Moot Victims, Sun Tzu, Strategy And End Games"
 categories: blog
 author:
   name: "David Conner"
-tags: "sociology psychology bullying"
+tags: "sociology psychology bullying gangstalking gaslighting torture warcrimes"
 headline: "I'm tired of being the victim here"
 excerpt: "
 And too often, when I complain to my friends and family, they just
@@ -14,6 +14,8 @@ they're really hard to ignore.  I'm tired of doing nothing.  So, I'm
 going to describe exactly how to do this to someone.  This is how it
 happens.  Personally, I'm amazed that some poeple are capable of this
 or that people could do this at all."
+redirect_from:
+  - /posts/2015-02-24-workplace-bullying-part-two
 ---
 
 #### &#x2605; [Overview](/posts/2015-02-21-workplace-bullying-part-one.html) &#x2605; General Strategies &#x2605; [Specific Tactics](/posts/2015-02-25-workplace-bullying-part-three.html) &#x2605; [Tools Against Bullying](/posts/2015-02-26-workplace-bullying-part-four.html)

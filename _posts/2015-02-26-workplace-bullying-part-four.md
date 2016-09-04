@@ -1,16 +1,17 @@
 ---
-title: "Workplace Bullying: Tools Against Bullying"
+title: "Defense Against The Dark Arts: How to Fight Back Without Losing Your Mind"
 categories: blog
 author:
   name: "David Conner"
 tags: "sociology psychology bullying"
-headline: "If you read one part of the workplace bullying series, you
-should read this"
+headline: "So how do you fight back against this most passive aggressive torture?"
 excerpt: "
 These tools will help you, but you will notice sometimes that these
 really really piss a bully off.  Be warned - some battles aren't worth
 fighting. Your energy and talents may be better suited elsewhere.  Of
 course, that's not to say you shouldn't stand up for yourself."
+redirect_from:
+  - /posts/2015-02-26-workplace-bullying-part-four
 ---
 
 #### &#x2605; [Overview](/posts/2015-02-21-workplace-bullying-part-one.html) &#x2605; [General Strategies](/posts/2015-02-24-workplace-bullying-part-two.html) &#x2605; [Specific Tactics](/posts/2015-02-25-workplace-bullying-part-three.html) &#x2605; Tools Against Bullying

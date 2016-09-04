@@ -1,10 +1,10 @@
 ---
-title: "Workplace Bullying: Overview"
+title: "Defense Against The Dark Arts: Master Class on Workplace Bullying and Gangstalking"
 author:
   name: "David Conner"
-tags: "sociology psychology bullying"
+tags: "sociology psychology bullying gangstalking gaslighting torture warcrimes"
 categories: blog
-headline: "No person should ever be miserable at their place of work."
+headline: "The how-to-guide that the Intelligence Community wants to purge from the internet..."
 excerpt: "
 Yup, there really is A BOOK. And here it is. With great power
 comes great responsibility. Some people use this book as a kind of
@@ -12,9 +12,43 @@ bible.  $#@! those people. Here's a blog with a
 nice preview of the lovely teachings
 this book entails. You're going to want to buy this book and study
 it. To protect yourself from its great evils."
+redirect_from:
+  - /posts/2015-02-21-workplace-bullying-part-one
 ---
 
 #### &#x2605; Overview &#x2605; [General Strategies](/posts/2015-02-24-workplace-bullying-part-two.html) &#x2605; [Specific Tactics](/posts/2015-02-25-workplace-bullying-part-three.html) &#x2605; [Tools Against Bullying](/posts/2015-02-26-workplace-bullying-part-four.html)
+
+
+Please Note:
+
+I recently rewrote this article after discovering the
+"T4rG3ted 1ndiv1dual" Community. While alot of that stuff is batshit
+insane, I have experienced a decade of this. I am a TI in pain and
+have been since at least 2010. So I recently renamed my workplace
+bullying survival guide to:
+
+### Defense Against the Dark Arts
+
+It's a particularly fitting name as many of the techniques these
+people use are straight from esoteric & occult teachings, which is one
+reason people think they're hounded by NWO or Illuminati or Free
+Masons. It's not. It's just your friendly neighborhood franchised
+Gulag.
+
+I'll be writing more about this topic soon, but I have seriously
+fucking had it with these people. They have coerced my family, robbed
+me of my life, my dignity, my words, any sense of belonging and
+love. Shit, I'm lucky if I can ever get a hug or talk to someone who
+doesn't gain trust to inflict negativity.
+
+They will do and say whatever it takes to get you to shut up. They
+abuse Stockholm Syndrome and act like cheerful little Stasi when they
+know they mostly were in the same boat as you, at one point or
+another. These people are sick and their organized behavior represents
+war crimes because it's being done on a political basis in the name of
+the War on Terror, except as a domestic rollout of Guantanamo. AFAIK,
+this is mostly being funded secretly via the Army, using money
+laundering to hide their budgets from Congress.
 
 ### No person should ever be miserable at their place of work.
 
