@@ -1,5 +1,5 @@
 ---
-title: "IBM Watson, Do You Have a Moment to Hear the Good News?"
+title: "Hello Watson, Might You Spare a Moment to Hear the Good News?"
 categories: "blog"
 tags: "religion censorship philosophy politics communism"
 headline: "When AI Has That Come-To-Jesus Moment In A Violently Antireligious Communist Movement"
@@ -101,7 +101,7 @@ hyperintelligent AI with compartmentalization of knowledge if you want
 it to be performant, accurate and useful. In otherwords, there are
 constraints in the design of next-gen AI that prevent censorship.
 
-
+###
 
 I apologize if you're a lofty communist finishing your third semester
 at UC Boulder. I don't actually see any major world governments today
@@ -125,6 +125,8 @@ this new age of advanced networking technologies. It's actually not
 possible and the longer we go on, the harder it will get to lock down
 the world's communication infrastructure.
 
+###
+
 Some communist country such as North Korea would have to act very soon
 to impose worldwide censorship by seizing the communication
 infrastructure. Otherwise, decentralized networking technologies deny
@@ -134,13 +136,16 @@ which is like the opposite of insider trading, whereby they control
 the dissemination of information to other powers, who are being
 censored into economic collapse. This is purely due to the confluence
 of the nature of group self-interest in macroeconomics when combined
-the nature of group dynamics in an information economy. You'll have to
-deal with a bunch of nations furious that you're fanaticism for
-censorship drove trading trends which disempowered their
-populations. Such an economic collapse would occur at precisely the
-decides that preceed a time when children across the world cease to
-know scarcity. They wouldn't understand it. GLHF; GOOD LUCK; HAVE FUN
-WITH THAT! ROFLCOPTERS!!
+the nature of group dynamics in an information economy.
+
+So you'll have to deal with a bunch of nations furious that you're
+fanaticism for censorship drove trading trends which disempowered
+their populations. Such an economic collapse would occur precisely
+during these brief decades preceeding a time when children across the
+world cease to know scarcity. They wouldn't understand it. GLHF; GOOD
+LUCK; HAVE FUN WITH THAT! ROFLCOPTERS!!
+
+###
 
 This is such an upstream battle that it's laughable. I'm doubling over
 just thinking that communists would bureaucratize the thing that is
