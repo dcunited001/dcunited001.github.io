@@ -10,7 +10,6 @@ excerpt: ""
 
 ### Design of Knowledge Systems for Robustness of Culture, Preservation of Authenticity, etc
 
-
 Some knowledge and information is less likely to degrade over time.
 - Cultures often rely on myths during time of turmoil to preserve
 information in an encoded form
@@ -24,6 +23,7 @@ information in an encoded form
         the world. in this snake, we find ouroborosian symbology,
         which IMO is critical in composing an interpretation of what
         Jormungand represents
+        - according to wikipedia, the snake grasps its own tail
       - if the snake has curled around the world, then it would be
         impossible for Nordic people to be unaware of the spherical
         shape of the world
@@ -34,6 +34,13 @@ information in an encoded form
           THE SPHERICAL SHAPE OF THE WORLD...
           - (the ignorance of columbus is perhaps the greatest lie of
             western "history")
+      - There are 3 monsters: a land, sea and air monster (sound
+        familiar?)
+        - the sea monster is Jormungand, the snake
+        - the land monster is Fenrir, the wolf
+        - third monster (maybe i'm off on this?)
+      - Thor is poisoned by jormungand's bite, but successfully
+        destroys him
 
 ### Ragnarok was pre-literary futurism
 
@@ -91,17 +98,16 @@ information in an encoded form
 
 ### Neo-Ragnarok
 
-
 - ugh, major sidetrack... again, back to Ragnarok. IMO, with little
   substantial evidence, I think the Nordic religions wanted to unite
   and preserve cultural elements and predictions of the far future in
   their mythos via a written version of the Poetic Edda & Ragnarok
   - but if one were to do this today -- and especially in the face of
     likely persecution of believers:
-  - what would we choose to preserve,
+  - what would we choose to preserve?
 - how would we abstract/obfuscate that so that it maintains
   authenticity, resillience to external
-  subversion/manipulation/persecution, etc
+  subversion/manipulation/persecution, etc?
 - and, if we can foresee events in the future for which our
   descendents may lose the knowledge/tools to comprehend,
   then how do we preserve the authenticity of that
@@ -109,7 +115,7 @@ information in an encoded form
   - especially when it needs to be obscured to protect the
     interests of the people preserving the message in the face
     of persecution
-    - but they
+    - but they...
 
 ### The Shepherd as a Universal Symbol
 

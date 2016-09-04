@@ -10,6 +10,8 @@ excerpt: ""
 
 #### see Genius (documentary about Thomas Wolfe)
 
+"Social Media Ghettos"
+
 ================================================================
 
 # Part Two: Philosophy of Censorship
@@ -33,8 +35,6 @@ excerpt: ""
 - pose some basic ethical questions on 21st century censorship
 
 # Factions Invested For/Against Censorship
-
-
 
 ### Corporations and Multinational Conglomerates
 

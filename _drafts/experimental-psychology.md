@@ -1,12 +1,38 @@
 ---
-title: "... Experimental Psychology"
+title: "Experimental Psychology: Hypothetical Methods for Implanted Memories"
 categories: "blog"
-tags: "sociology politics"
+tags: "psychology neuro"
 headline: ""
 author:
   name: "David Conner"
 excerpt: ""
 ---
+
+TODO: tranlate what was an extended comment on an article in the
+internet to an actual post
+
+- reference to ars technica article
+- references to videos explaining "memory implantation" studies from 2015
+
+This
+[Ars Technica synopsis](http://arstechnica.com/science/2016/08/false-memories-arise-because-the-brain-codes-similar-ideas-similarly/)
+of an
+[PNAS article on false memories](http://www.pnas.org/content/early/2016/08/16/1610686113)
+piqued my interest and got my biological antithikera ticking.
+
+In the past five years, mainstream media has been weaving in
+experimental methods from bleeding edge psychology and
+neurology. Memory implantation and other mental manipulation is a
+classic science fiction plot mechanic. We see it in Eternal Sunshine
+of the Spotless Mind, where memories can be erased, something I would
+never want to do. The 2015 show Blindspot incorporates a mechanic
+whereby the
+
+
+
+
+In
+2012
 
 ### Implanted Memories
 
