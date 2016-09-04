@@ -444,6 +444,55 @@ answer it if you double my net worth! it'll cost you SIXTY CENTS...
     axis and there's no surface rotations
 
 
+### VR Psychology/Sociology are Killer Applications for Academia
+
+so... it turns out that VR/AR are fantastic for academia, sociology
+and psychology.
+
+#FalseMemory studies: streaming 3D VR overlaying a slightly modified
+reality makes 4 good methodology 4psych memory ...
+
+something along these lines would be great for psychology studies on
+memory. also, keeping track of the real world with an immersive 3D
+virtual world in context is an interesting, but unnatural challenge
+for the brain.
+
+e.g. #2 a table in front of someone has 12 red cubes & 3 fake red
+cubes that look identical. a robotic arm performs a shell game ... the
+interactions with the cubes are identical and the participant must
+keep track of which ones are real/fake.  plot twist: the participant
+must get a drink of water and remove himself from the setting for a
+brief distraction.
+
+e.g. #1 participant is in mostly empty room and must remember the
+location of several real items randomly located through the room,
+while trying to complete some virtual activity where the real items
+are artificially erased from the activity.  this is good because it
+could be a VR/AR game with a score and everyone knows games with
+scores are quantifiable activities.
+
+furthermore, #quantizable feedback includes #EyeTracking
+#Accelerometer data. and also some means of reading #FacialExpressions
+and translating them data. facial expressions are like mandatory for
+VR. if your VR doesn't read/convey facetracking to apply to an avatar,
+then you lost bro. all this data is pattern mineable.
+
+furthur furthermore, #EEG could be attached to an Oculus for more
+quantization ... brooooooo!!!  (EEG should probably be ... not
+included in VR eughhh)
+
+... yep, it's me and i'm at it again with my "crazy" and "delusional"
+and "totally schizophrenic mind" with all my crazy talk of ""quality
+of life improving 「ideas」i'm such an asshole, right?
+
+"fucking don't let *that guy* talk ... THAT GUY?! fuck that guy. he's
+on a list... probably all of them. always thinking all the time? what
+a fucking douchebag. that guy should be #GangsTalk3d with
+#StreetTh3ater amirite? People should be payed to positioned
+themselves around him in public to inject themselves in his social
+space to snip those possible connections..."
+
+Right? people should cash checks for doin' that to US citizens, right?
 
 ### Social Aspects
 
