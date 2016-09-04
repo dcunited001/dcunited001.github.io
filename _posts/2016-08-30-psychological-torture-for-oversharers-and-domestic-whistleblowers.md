@@ -1,7 +1,7 @@
 ---
-title: "Psychological Torture for Domestic Whistleblowers"
+title: "Psychological Torture for Oversharers and Domestic Whistleblowers"
 categories: blog
-tags: ""
+tags: "sociology psychology bullying"
 headline:
 author:
   name: "David Conner"
@@ -88,8 +88,7 @@ failure.
 
 #### &#x2605; My sense of inner peace ("taken" by those, first by force and mistreatment and second by accusations that I'm a sociopathic bully because I do not feel guilty for what I don't know)
 
-#### &#x2605; the love of my life (who may or may not have ever spoken
-to me and certainly will not anymore)
+#### &#x2605; the love of my life (who may or may not have ever spoken to me and certainly will not anymore)
 
 # Possible Conspiracy to Murder David Conner (November 4th, 2013)
 
@@ -142,9 +141,75 @@ since 2011. And quite possibly 7 or 8 years, up to 10 or 11. I am
 under the impression that I've been psychologically tortured in the
 official capacity of the United States after being marked as a
 terrorist, for whatever reason, without any notification. I've tried
-getting in touch with the ACLU and stuff. I'm fairly sure that my
-family is in on this. I'm in a situation where no one wants to accept
-or acknowledge what has been done to me.
+getting in touch with the ACLU and attorneys.
+
+I'm in a situation where no one wants to accept or acknowledge what
+has been done to me. I'm fairly sure that my family is complicit in
+this to some degree. At best, it would seem that some group(s) have
+convinced my family to pursue an "ideal" treatment plan chock full of
+duplicitous psychology. If this is the case, ...
+
+#### **Someone Convinced My Family that a "Treatment Plan" Consists of:**
+
+#### &#x03A8; Protracted isolation. I'm closing in on a decade now!
+
+#### &#x03A8; Exacerbation of factors which indirectly contribute to isolation
+
+#### &#x03A8; Restriction of involvement in planning for family events.
+
+#### &#x03A8; Guilt, Shame and Negativity applied in all circumstances. Avoid positive reinforcement at all costs. Never, ever give David Conner a pat on the back.
+
+#### &#x03A8; Near complete restriction of narcissistic supply to someone whose childhood to adolescent development relied entirely on incentivization that would create narcissism
+
+#### &#x03A8; Constant emphasis on the unrealistic and delusional nature of David Conner's projects, hopes and dreams
+
+#### &#x03A8; Never contribute to David Conner's delusional dreams
+
+#### &#x03A8; Emphasize that guarded ego is more important than community and family
+
+#### &#x03A8; Emphasis on blame. Demonstrate a lack of accountability. It's not your fault that you hav to gaslight him
+
+#### &#x03A8; Strict rhetorical control of all verbal interactions.
+
+#### &#x03A8; Every verbal interaction is the chance to create an anecdote that helps you lock David Conner away faster. Don't worry, no one else will hear about it.
+
+#### &#x03A8; Accumulate anecdotes about David Conner's Anger Problems, Depression, Delusion, etc.
+
+#### &#x03A8; Never seek to help David Conner network for business purposes
+
+#### &#x03A8; Save face. at all times, ego trumps everything.
+
+#### &#x03A8; Control his diet. Ensure emergence of psychosomatic symptoms via malnutrition
+
+#### &#x03A8; Disrupt David Conner's routines after it seems he has been focusing on a goal for several weeks, but before he has attained any real accomplishment on that project.
+
+#### &#x03A8; Abuse Communication Mediums; Relay Negative Messages, Stifle Positive Messages
+
+#### &#x03A8;
+
+#### &#x03A8;
+
+#### &#x03A8;
+
+#### &#x03A8;
+
+#### &#x03A8;
+
+- (last) disrupt formation of habits and routines by assessing the
+  dependencies for such habits (e.g. shaving? not without razors!
+  don't we do enough already? keeping your clothes organized? not
+  without a dresser! no you can't have a dresser! need to buy
+  something to organize toiletries? nope, we want you to look like a
+  messy shit.)
+
+restriction of all time/energy/thought,
+complete lack of treatment plan, lack of realistic goals, mishandled
+communication, accumulation of anecdotes to convince the court to lock
+me away against my will.
+
+This is not a treatment plan for someone who has Asperger's,
+depression and PTSD from emotional trauma. It seems that either my
+family is aware & complicit of emotional
 
 ### Why Would the Gov't Retalliate?
 
