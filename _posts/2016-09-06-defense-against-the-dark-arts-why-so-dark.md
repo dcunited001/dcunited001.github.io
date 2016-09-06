@@ -9,7 +9,7 @@ excerpt: "
 "
 ---
 
-### Occult Psychology Repackaged as Neuro-Linguistic Programming
+### It's Occult Psychology Repackaged as Neuro-Linguistic Programming
 
 It's a particularly fitting name as many of the techniques these
 people use are straight from esoteric & occult teachings, which is one
