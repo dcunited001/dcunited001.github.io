@@ -191,7 +191,114 @@ crossed MKUltra with a Ponzi scheme and called it Guantanamo, then
 they claimed it was for national security and, hell, why not call it a
 religion too.
 
-### notes on OPM
+# notes on OPM
+
+Personally, I can't figure out what the hell happened in the
+world. All I know is that I *allegedly* had a conversation with
+someone who, amidst many sketchy questions, also asked *verbatim*:
+
+> What is the worst thing that could happen to the United States?
+
+Because of my tendency to think this person was "my team" and to
+believe this person knew the ins and outs of the game, I thought they
+wanted to source me like the Red Cell author Mark Henshaw. So, almost
+without hesitation, I told them: whatever institution runs clearance
+for the United States, hack that shit and you run the game. I didn't
+know what the OPM was. We looked that up on wikipedia. This was in
+2013.
+
+All I knew was that I had gotten fired from several jobs and, for some
+of them, it seemed it was because I couldn't pass a clearance
+screening. After all, those military & United States Army types that I
+had problems with ... they seemed to have pushed me out of my job and
+ruined my life. And when I worked at CCS, they had recently funded a
+startup that would provide protection for the electric grid...
+
+So I had looked up the docs and process on clearance to understand
+that process. Could I qualify? Well, according to the FBI, I had
+smoked weed and told people about it more than seven times, so
+... NOPE. Other than that, I would have though. And Steve Jobs did
+acid and he got a clearance. After subsequently reading an article
+Gawker linked to that mentioned it would soon become hard to
+obtain/keep a job in America without being capable of obtaining Secret
+or Top Secret, I realized what a major vulnerability this was for
+America.
+
+How could some two-pence loser who was so imcompetent he couldn't hold
+a job able to pinpoint the single largest vulnerability in the United
+States Government? Because this ostracized, pathetic excuse for an
+American understood logistics and bureaucratic largess. That's
+why. The problem is that the government, in an ongoing attempt to ruin
+my life justified it's actions by claiming I was dangerous at best
+and, worse, I was incompetent. The left hand wasn't aware of the right
+hand's interactions and someone blinded the rest of it's
+organizations. They justified their actions that prevented/interfered
+with employment and ruined my life by saying I was a threat and that I
+was worthless anyways.
+
+The truth is, they couldn't have been more wrong. I have terrible
+short-term memory, but I'm a genius on par with Einstein, though I've
+accomplished absolutely nothing. No one bothered to help me grow that
+part of myself and about 5-10 years, there has been a significant
+attempt at ensuring that no one ever did! And now they can hide
+neither my stellar luminosity nor their bloodlust to turn my life into
+an example nor all the collateral damage in which they are 1000 times
+more accountable for.
+
+They created this; they continually persued action when they could
+have ended it at any time; they funded it when I have no money and
+I've made less than $3000 in 2015 and 2016; they lied to themselves;
+they manipulated investigations and records to cover their tracks;
+they got caught wanting to use me as a scapegoat; they got caught
+approaching me to use me as a double to rally a racist movement they
+could then justify in quashing. This shit goes on and on and on. I'm
+being kind when I say this is a dozen Watergates.
+
+And they've given me several dozen "explanations" based on comments I
+made to myself, of which they are aware of recordings. I know who's
+involved with this ... basically, considering they are micromanaging
+my social network, assume that anyone who is "allowed" to persist in
+interacting with me is involved. It's really as simple as that. And
+how secure is that? It's not, which speaks volumes to their intent
+nullify me as a liability ....
+
+They never, ever had a very nice engame planned. There's no sunshine
+and rainbows coming out this unicorn's butt. They were going to
+incapacitate me, however. In 2013, I knowingly convinced them that I
+was suicidal and that they could just push me to suicide. LMAO. Yeh,
+that was fucked up but encouraged them to produce volumes of evidence
+doing exactly what I had expected they were doing in my life all
+along: psychologically torturing me to push me to suicide.
+
+{% highlight %}
+
+        ROFL:ROFL:LOL:ROFL:ROFL
+         _________||_________
+ L      /                 [ O\
+LOL=====                  |_|_\
+ L     B|O M B                 )
+      F |______,-------¬_____/
+     T //    }-OMGROCKET))
+    W // _______||_||_________/_/
+
+{% endhighlight %}
+
+I would have cooperated with the government in an investigation. *THERE
+ARE NO CIRCUMSTANCES SHOULD I EVER HAVE BEEN PSYCHOLOGICALLY
+TORTURED*. They spent millions on this shit and I'm not joking.
+Considering I've been under a fucking microscope, I thought I was
+being fairly cooperative and that contacting a low-level FBI agent or
+making digital record of this was one of the worst things I could
+do. I thought that, at best, it'd lead to me getting harmed.
+Furthermore, according to memories, which are on par in reliability
+with the same memories that seem to have gotten me in trouble, much of
+this was part of ... some complicated thing with many aspects and
+objectives.
+
+Basically ... well actually I can't really mention much of anything,
+but I sure as hell wish that these pissants would piss off and move
+on. Because continuing to poke and prod the volatile psychology that
+you so meticulously engineered isn't going to make anything better.
 
 ### Yup, They Got All the Bases! Every Single One of Them.
 
