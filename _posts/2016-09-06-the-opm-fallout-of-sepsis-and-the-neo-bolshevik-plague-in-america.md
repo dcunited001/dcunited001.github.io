@@ -282,7 +282,7 @@ information and psychological warfare doesn't give a shit about
 America. They want to quickly take away our guns, figuratively and
 literally. That's it.
 
-### Americans' Declawed for External Domination
+### Americans' Declawed for Externally Motivated Domination
 
 They want to declaw us. They want to turn American's against each
 other to distract our energy. That will make us withdraw our energy in
@@ -332,7 +332,7 @@ clamping down the Overton Window, you have basically amputated
 America's ability to protect itself from what are nation-to-nation
 issues, not racist issues.
 
-### Strict Control of the Overton Window
+### Open Up the Debate and Overton Window
 
 Leftists have controlled the "lexicon" of rhetorical arguments you're
 allowed to use in any debate on any issues for quite some time. It
@@ -349,24 +349,114 @@ effort to distract those who would try to stop it and (2) some of
 the goals of the "NWO" aren't actually that bad, when taken in the
 proper context. Anyways...... moving on.
 
-Controlling the right arguments there basically gives them carte
-blanche to win any debate. Doing so allows the neo-Bolsheviks to
-motivate Americans to fanatically pursue policies which are
-detrimental to our long-term interests.
+### Correct Economic Problems Before They Lead to Irreversible Consequences
+
+Controlling the right arguments basically gives these neo-Bolsheviks
+carte blanche to win any debate. Doing so allows the neo-Bolsheviks to
+motivate Americans to fanatically pursue policies which are actually
+detrimental to our long-term interests. $15 minimum wage is a great
+example of a policy with a particular value (fifteen dollars) that
+would extinguish small business and trigger downstream consequences in
+the American economy.
+
+However, raising the minimum wage is just a fact of life. Fifteen
+Dollars? Hell fucking no that is borderline criminal, negligent,
+insane or all of the above. A suggestion that numbs pain now, but
+causes significant. It's like a questionable doctor giving the high
+school quarterback with a slipped disc a prescription for oxycontin
+the night before the big game, sayin "You're fine! Take as many of
+these as you need 'til you feel dizzy and you go out there and win
+that game, son." and then smackin him on the ass on the way out of the
+office. If that's his doctor's idea of treatment, that guy needs a new
+one.
+
+With all due respect to Bernie Sanders as someone who truly cares
+about issues that are hurting millions of American's out there, the
+$15 minimum wage was a social media hack to gain support and quickly
+build a movement early on. Such a number would shutter so many small
+businesses and place a massive incentive for corporations to automate
+away all of the jobs those people had, all while destroying options
+for businesses to structure incentivization and the motivation for
+people to go to college. What's the answer, then? Lower the costs and
+prices of services and products in America that leave people in
+poverty. Why doesn't welfare help reduce rates of poverty?  That's a
+really good question to ask if you are in favor of a major increase to
+minimum wage
 
 # How Could This Happen Here?
 
-In the process of doing this and in the process of expending God knows
-how much money doing it, they manage to make you believe it's your
-fault, all while shielding the American Public from ever questioning
-whether this could happen to someone. They will methodically and
-mathematically ruin your life by constraining your social network and
-turning those few social nodes you do have against you. And if those
-nodes don't cooperate -- your best friends or closest family members
--- well, they'll be lucky to avoid getting on the shit list too. And
-if they do actively, intentionally resist your treatment or help you
-in any way, they better understand that they're going to be on that
-shit list.
+Whoever is doing this to America, they're really fucking up a lot of
+people's lives and causing a lot of damage, as far as I can see. And
+it's being done in such a way that lashes out at anyone who dares
+question things. Social media is a distraction at best, at this point!
+CNN, MSNBC, ABC, CBS, NBC and sometimes even Fox ... it looks like
+anyone who asks real questions loses their job. BTW, I'm not so
+predispositioned to believe the right is always right. However, in our
+country's current nightmare, they are right on it. Yet, they still
+aren't asking many more questions than anyone else.
+
+### Social Media is an Echo Chamber
+
+#### and Somebody Handed Out Megaphones to the Retarded Parrots
+
+Thanks a lot, by the way. For paying out SEO and Social Media
+optimization to basically hand all these idiots under foreign
+influence a bunch of megaphones.  Y'all gave megaphones ... to those
+people? Social Media, and the news as well, is like a bunch of retarded parrots
+right now. It's like you're only allowed to make statements that
+adhere to a predetermined list of acceptable rhetoric. And somewhere
+out there, there's a really heavy hand and if you make people think:
+that heavy hand is going to knock you the fuck out. Then they're going
+to threaten your family and threaten tactics like the Mafia might use
+to pummel down on the guy who won't pay protection money.
+
+### Even the Mafia Polices Itself
+
+I really gotta slow my roll here, 'cause I'm givin the Mafia a bad
+Someone once told me "David, the government's like the Mafia. No, You
+don't get it, the government is really like the Mafia." And everytime
+I think I understand what they meant, I find out a couple years down
+the road just how right they were.
+
+Here's the deal though: even the Mafia has to keep itself in check
+because the government is supposed to be the law. The Mafia will
+impose constraints on it's behavior, so it doesn't end up with its
+back against the wall like it was in Italy in the 80's and 90's: don't
+fuck with people who aren't in the game; don't use violence as a
+message if everyone's going to see it; don't fuck with the government
+unless they fuck with you; yada, yada.
+
+Well, who's watching the watchers? If even organized crime policies
+itself to an extent, in fear of the government, then who deals with
+corruption in the government when it starts dispensing retribution
+like the Mafia? The answer lies in the Social Contract. The people
+deal with it. And in America, our government is for the people, by the
+people.
+
+### Technology Throws the Social Contract's Validity into Question
+
+However, in the 21st century, tyrrany has one major trick up its
+sleeve that it didn't have in the 20th century: technology. This tool
+threatens the underpinnings and essence of John Locke's Social
+Contract. If America falls to tyranny, the world may never recover. If
+we really need something like martial law, there better be a good
+reason and there better be some mechanism built in that lets us end it
+when its appropriate. And it would appear that, if we are descending
+into tyranny, that is absolutely not the case because it really looks
+like somebody's got a lot of organizations by the balls.
+
+### The Collateral Damage is Immeasureable
+
+In the process of doing clamping down and expending God knows how much
+money doing it, they managed to make you believe it's your fault, all
+while shielding the American Public from ever questioning whether this
+could happen to someone. They will methodically and mathematically
+ruin your life by constraining your social network and turning those
+few social nodes you do have against you. And if those nodes don't
+cooperate -- your best friends or closest family members -- well,
+they'll be lucky to avoid getting on the shit list too. And if they do
+actively, intentionally resist your treatment or help you in any way,
+they better understand that they're going to be on that shit list.
 
 ### So You Have Been Socially Nullified.
 
@@ -511,16 +601,56 @@ part of myself and about 5-10 years, there has been a significant
 attempt at ensuring that no one ever did! And now they can hide
 neither my stellar luminosity nor their bloodlust to turn my life into
 an example nor all the collateral damage in which they are 1000 times
-more accountable for.
+more accountable.
 
-They created this; they continually persued action when they could
-have ended it at any time; they funded it when I have no money and
-I've made less than $3000 in 2015 and 2016; they lied to themselves;
-they manipulated investigations and records to cover their tracks;
-they got caught wanting to use me as a scapegoat; they got caught
-approaching me to use me as a double to rally a racist movement they
-could then justify in quashing. This shit goes on and on and on. I'm
-being kind when I say this is a dozen Watergates.
+### Here's My Argument, in a Nutshell
+
+#### &#x2605; They worked very hard to plan this before 2013
+
+#### &#x2605; They created this and have worked very hard to keep it in motion
+
+#### &#x2605; They continually persued action when they could have ended it at any time;
+
+#### &#x2605; They funded action through a dozen different government institutions
+
+#### &#x2605; I have no money and I've made less than $3000 in 2015 and 2016
+
+#### &#x2605; They lied to themselves and blinded themselves with a decade long smear campaign
+
+#### &#x2605; They manipulated investigations and records to cover their tracks
+
+#### &#x2605; They didn't have an endgame for this particular game-state
+
+#### &#x2605; They got caught wanting to use me as a scapegoat
+
+#### &#x2605; They got caught approaching me to use me as a double to rally a racist movement they could then justify in quashing, among many other very questionable things.
+
+#### &#x2605; They've been lying. I've been trying my best to be honest.
+
+#### &#x2605; Any evidence in my favor is suppressed
+
+#### &#x2605; The bureaucracy is abused in their favor and I still question whether I'm crazy for thinking there is any "court case" happening.
+
+#### &#x2605; So do my "friends" & family. Friends is in quotes because they micromanage my social network to reduce exposure of information that might be used in my own defense and to exert near-total control of my psychological state
+
+#### &#x2605; They actively interfere actively & passively with the function of online social networking algorithms to reduce exposure there
+
+#### &#x2605; They are intimately aware of information I have revealed to "friends" in confidence or typed into files on my computer which I have never spoken aloud or have spoken aloud, alone in my own home
+
+#### &#x2605; They use such information against me to encourage me to "end" any attempt to understand what is happening to me. (e.g. to understand why my own family treats me like shit) or to stand up for myself
+
+#### &#x2605; They attempt to silence me by leveraging
+their control of my social network to indirectly lead me into assuming
+a myriad of self conflicting beliefs about my situation.  like a
+retarded kid tried to solve a Sudoku puzzle . This impairs
+my own mental health situation.
+
+#### &#x2605; They are quite aware of the volatility of the situation. They try to hold me accountable for collateral damage when they could have attempted to correct this situation at any time.
+
+#### &#x2605; They have control of and access to agreements that they won't let anyone else see. I don't understand what I agreed to and I don't think I ever signed anything.
+
+This shit goes on and on and on. I'm being kind when I say this is a
+dozen Watergates.
 
 And they've given me several dozen "explanations" based on comments I
 made to myself, of which they were aware of recordings. I know who's
