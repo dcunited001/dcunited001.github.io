@@ -41,13 +41,14 @@ the world.
 
 What is socialism without a competitive economy? It's a fucking
 third-world country in the making. That's what. I know there's some
-people out there that really like the ideas of socialism. But,
-socialism destroys the incentives people have for working. The numbers
-don't fucking work in the long term. I wish they did. Wouldn't that
-be nice: we could just feed the poor and house the homeless and break
-out our checkbook whenever there were problems. Social ills? Poverty?
-Just throw money at it. As much money as it takes, year after year. It
-doesn't matter how much.
+people out there that really like the ideas of socialism. Yes, the
+economic pains in America are painful. But, socialism destroys the
+incentives people have for working. The numbers don't fucking work in
+the long term. I wish they did. Wouldn't that be nice: we could just
+feed the poor and house the homeless and break out our checkbook
+whenever there were problems. Social ills? Poverty?  Just throw money
+at it. As much money as it takes, year after year. It doesn't matter
+how much.
 
 Basically, the programs socialism has to offer that keep people eating
 in times of protracted or prevelant poverty drain the coffers. They're
@@ -258,21 +259,33 @@ absolutely begin to register on the Stalin scale of state-psychopathy.
 
 ### External Interest Never Accurately Represents Internal Interest
 
-- these are our enemies and not our friends.
-  - they will play America against itself to dominate.
-  - they want control first and foremost. they want their job to be
-    easy
-  - Make no mistake. they do not give a shit about how America
-    performs in the world economy
-    - and in fact, communism and leftists assault the right to
-      property with a religious level of zeal primarily to stifle
-      competition.
-    - for the same reason, they won't want America to have the
-      resources to fight back! Ain't that some shit?!
+Remember, this is external interest that is compelling Americans to
+act against themselves. These are our enemies and not our
+friends. Look what happened to me and ask: what would you do? If it
+was you? Your friend? Your son or daughter? How would you react?
+
+Again: this is an external interest. No internal interest would
+essentially place ankle-weights on major contributors to the US
+economy. The things that tech companies are forced to comply with are
+absolutely not in line with American economic interests. They want to
+control us and restrain us, first and foremost. They want their job to
+be easy, which is why it's necessary to blindfold the average
+American.
+
+Make no mistake, they don't give a shit about how America performs in
+the world economy! And in fact, communism and hard-lin leftist assault
+the right to property with a religious level of zeal, primarily to
+stifle competition to their own agenda. Because when people acquire
+property and wealth, they gain a foothold and can influence other
+people. So, therefore, for the same reason, a foreign interest
+motivated by communist ideas won't want America to obtain the same
+foothold to fight back!!
+
+Ain't that some shit?!
 
 ### If You Knowingly Aid the Enemy Right Now, You Are A Traitor
 
-TRAITORS ARE TRAITORS! If you are knowingly helping some external
+*TRAITORS ARE TRAITORS!* If you are knowingly helping some external
 interest overtake America, you are a fucking traitor. Depending on
 your level of complicity, you should be shot by a firing squad. They
 will contort your understanding of the situation and try to convince
@@ -291,7 +304,7 @@ tensions, a movement from local Americans to fight an American
 Stasi. It doesn't matter. If it keeps our focus at home, "they"
 steadily make gains abroad.
 
-### Racist Bullshit is Going to Ruin America
+### Stop This Racist Bullshit is Going to Ruin America
 
 This is why American needs to put away that dumbass, divisive racist
 bullshit and unite. We need to unite as one because if we don't we're
@@ -362,13 +375,13 @@ the American economy.
 However, raising the minimum wage is just a fact of life. Fifteen
 Dollars? Hell fucking no that is borderline criminal, negligent,
 insane or all of the above. A suggestion that numbs pain now, but
-causes significant. It's like a questionable doctor giving the high
-school quarterback with a slipped disc a prescription for oxycontin
-the night before the big game, sayin "You're fine! Take as many of
-these as you need 'til you feel dizzy and you go out there and win
-that game, son." and then smackin him on the ass on the way out of the
-office. If that's his doctor's idea of treatment, that guy needs a new
-one.
+causes significant damage in the long run. It's like a questionable
+doctor giving the high school quarterback with a slipped disc a
+prescription for oxycontin the night before the big game, sayin
+"You're fine! Take as many of these as you need 'til you feel dizzy
+and you go out there and win that game, son." and then smackin him on
+the ass on the way out of the office. If that's his doctor's idea of
+treatment, that guy needs a new one.
 
 With all due respect to Bernie Sanders as someone who truly cares
 about issues that are hurting millions of American's out there, the
@@ -625,7 +638,21 @@ more accountable.
 
 #### &#x2605; They got caught approaching me to use me as a double to rally a racist movement they could then justify in quashing, among many other very questionable things.
 
-#### &#x2605; They've been lying. I've been trying my best to be honest.
+#### &#x2605; They've been lying. I've been trying my best to be honest. With both myself and any others.
+
+#### &#x2605; They've micromanaged my medical care, although I'm currently happy with my doctors
+
+#### &#x2605; Someone has occasionally swapped out my prescriptions, AFAIK
+
+#### &#x2605; I have been warned about compounding pharmacies
+
+#### &#x2605; I have been drugged without my knowledge, occasionally
+
+#### &#x2605; It would appear that I may be involved in human medical testing of psychological treatment, drugs, etc. without my knowledge or approval ... and possibly even surgery.
+
+#### &#x2605; Unconscious indications from real friends and from family would indicate that they have been gagged and can't associate with me or do anything that might help me out: in my personal life, in my mental health situation, in my social life, in my professional life.
+
+#### &#x2605; It would appear that people have been gagged with National Security "Letters" whatever the fuck those things actually are. I very seriously doubt that if you got a National Security Letter, it would arrive in the mail as a certified letter ... or leave any physical evidence.
 
 #### &#x2605; Any evidence in my favor is suppressed
 
@@ -639,15 +666,15 @@ more accountable.
 
 #### &#x2605; They use such information against me to encourage me to "end" any attempt to understand what is happening to me. (e.g. to understand why my own family treats me like shit) or to stand up for myself
 
-#### &#x2605; They attempt to silence me by leveraging
-their control of my social network to indirectly lead me into assuming
-a myriad of self conflicting beliefs about my situation.  like a
-retarded kid tried to solve a Sudoku puzzle . This impairs
-my own mental health situation.
+#### &#x2605; They attempt to silence me by leveraging their control of my social network to indirectly lead me into assuming a myriad of fallacious self-conflicting beliefs about my situation. The information they have projected to me constructs cover story that invalidates itself a thousand times over that looks like a retarded kid tried to solve a Sudoku puzzle. This impairs my own mental health situation, making things more volatile.
 
 #### &#x2605; They are quite aware of the volatility of the situation. They try to hold me accountable for collateral damage when they could have attempted to correct this situation at any time.
 
-#### &#x2605; They have control of and access to agreements that they won't let anyone else see. I don't understand what I agreed to and I don't think I ever signed anything.
+#### &#x2605; Even though they are aware of the volatility of the situation and have indicated constant awareness of the current state of the situation, they still encourage people to poke me with a "ten-foot pole"
+
+#### &#x2605; They employ "street theater" to push people away from me in social settings these are like contrived conversations that are either relevant to me, my current situation or to pushing people away from me. Yeh .... it's wierd, but apparently people really do get paid to do this shit.
+
+#### &#x2605; They have control of and access to "agreements" that they won't let anyone else see. I don't understand what I agreed to and I don't think I ever signed anything.
 
 This shit goes on and on and on. I'm being kind when I say this is a
 dozen Watergates.
@@ -660,31 +687,240 @@ interacting with me is involved. It's really as simple as that. And
 how secure is that? It's not, which speaks volumes to their intent
 nullify me as a liability ....
 
+### They Never Had an Endgame For This Game State
+
+This is kind of what makes me feel justified in continued action to
+push someone to admit what happened to me. There's no sunshine and
+rainbows coming out this unicorn's butt. Their endgame consisted of
+incapacitated me, however it happened. In 2013, I knowingly convinced
+them that I was suicidal and that they could just push me to
+suicide. LMAO. Yeh, that was fucked up but encouraged them to produce
+volumes of evidence doing exactly what I had expected they were doing
+in my life all along: psychologically torturing me to push me to
+suicide.
+
+# Ye Olde ROFL Copter
+
+...
+
+#### Other endgames include: subdued and gagged through coercion, complete subversion, suicide, "suicide", auto accident, mental incapacitation via psychological means, mental incapacitation through neurological or pharmaceutical means, some other physical incapacitation, cancer, death in general...
+
 That observation, as well as many others things I've seen. "They"
 never, ever had a very nice endgame planned. Again, whoever "they" is
 ... there are several factions involved in this, at odds with each
-other. This is kind of what makes me feel justified in continued
-action to push someone to admit what happened to me. There's no
-sunshine and rainbows coming out this unicorn's butt. Their endgame
-consisted of incapacitated me, however it happened. In 2013, I
-knowingly convinced them that I was suicidal and that they could just
-push me to suicide. LMAO. Yeh, that was fucked up but encouraged them
-to produce volumes of evidence doing exactly what I had expected they
-were doing in my life all along: psychologically torturing me to push
-me to suicide.
+other. Notice the attractiveness of those options above. They sound
+super fun don't they?
 
-{% highlight "ruby" %}
-//
-//          ROFL:ROFL:LOL:ROFL:ROFL
-//              _______||_________
-//   L         /               [ O\
-//  LOL========                |_|_\
-//   L     B|O M B                  )
-//        F    |____,-------¬______/
-//       T //    }-OMGROCKET))
-//      W // _______||_||_________/_/
-//
-{% endhighlight %}
+None of them sound appealing to someone who earnestly believes that,
+over the course of a decade, he got mugged on a weekly basis for a
+grand total of ten billion dollars. And for someone who seems to have
+anonymously contributed to society in a myriad of ways via some
+serendipitous distributed inellectual property attack and hasn't
+earned a dollar for any of it. Sorry. None of those work.
+
+### Have You Tried ... ?
+
+> You should try .... hmmmm gotta think real hard about this ... have
+> you tried fucking fixing what you broke? No?
+
+Oh, that's right, you can't interact in a way that would indicate
+you were involved. I forgot. So I guess that means you just don't
+have to do shit. Well, none of the emotional trauma or protracted
+psychological torture or career assassination matters then. Jeez.
+Forget it. All that collateral damage? I guess there was just
+nothing you could have done then, huh?
+
+### It'll All Come Out in the Wash
+
+Oh, well, it'll fix itself right?
+None of that matters then, huh?
+I guess nothing that happened to me matters. Or America or any
+other American who's been in my own shoes.
+
+Eventually you can fix this. I believe in you, 'Murkinya .. woops!
+I mean, "America" ...
+
+# Ohh, I Have An Idea!
+
+### You Should Invent a Disease and a Pattern Language!
+
+Just invent a pattern language that maps to real current event. Like a
+disease or something. Oh, or Qg'daphie Duck! Yeh, whatever his fucking
+name is. Fuck that guy anyway! How's a major media organization like
+CNN or some shit supposed to keep that straight.
+
+This will let you keep your citizens in a state of constant confusion.
+You know, so in case any of them get real wise and try to "ask
+questions" or "stand up for their rights" -- well, they won't
+understand what's happening. And fuck 'em, right? Who are they
+anyways?
+
+Well, according to current events from 2010 through 2016, those people
+who didn't understand were the middle class and upper middle class and
+small business owners. Ya know, the same ones the IRS was robbing
+blind and blocking with politically motivated tax audits. Yeh, those
+rich fuckers. The ones that pay the majority of the taxes. Those
+guys. Fuck 'em. Especially the libertarians! Those guys! Asking all
+them pesky questions about the Constitution and the Bill of
+Rights. They're so smart and patriotic and they don't want to be
+dependent on the government! Ugh they make me so mad!!!
+
+All of this corrosive, counter-productive activity spiked around 2011
+around the same time the Occupy protests started going down. I don't
+know what's driving it, but it's getting a little hard to ignore.
+
+That disease is probably going to have to be a real thing though. Like
+... I donno, let's just say Zika. Now the interesting thing about Zika
+is that it didn't occur until after we went down to South America,
+played God and tried to destroy the population of Dengue fever
+carrying mosquitoes...
+
+**This is your friendly reminder that, as much as it seems that I have
+leaked, I really do have cards to play until the end of time. So at
+any time, feel free to acknowledge what you did to me, using my real
+name, and make it publicly known at least some of the things you did
+to me and then STOP fucking with the lives of me, my friends, family
+members and local community. I know what you're doing.**
+
+... moving on. We destroyed that population of mostquitoes with
+genetic engineering. The ones with the hemorrhagic fever dengue,
+that's pronounced DEN-GAY. Den, as pronounced in Snoden. What
+happened? This was a "power-vacuum" in the l33t speak of
+mosquitologists. I warned in 2013 that we absolutely should not be
+playing God by screwing around with the mosquito populations. I didn't
+know what happened, but that's what happened. The evidence is right
+there in the DNA of the mosquito population. No more dengue fever. Now
+we have prevelant Zika and people don't die as much so that's
+nice. The problem is, well, now their babies live on and suffer from
+intellectual disabilities for the rest of their life.
+
+Ok, that's bad. So it's unquestionable that no one would ... question
+Zika right? Good! Then if we want to map a pattern language to it, we
+can do that, just we did with Qdg'dfaffy D'fuck, whatever his fucking
+name was. So, just like no one would question us running air raids on
+Bengnhazi to topple a dictator, none of these meddlin' kids are gonna
+ask questions when we propose duplicitous plans of attack on
+Zika.
+
+Like when we propose utilizing the CDC to enforce policy on a virus of
+the mind. No, I'm not even joking. That's what Obama wants to do. He
+wants to leverage the CDC to attack people who have "Oppositional
+Defiant Disorder" or "Borderline Personality Disorder." Now, remember,
+the latter was just added to the DSM a year or so. *THEY CREATED A
+DIAGNOSIS FOR POLITICAL DISSiDENTS!*
+
+... How much more Soviet-style and Cuban-style abuse of the "medical"
+and "psychiatric" institutions do you need before you realize what's
+going on here? Do you want to post a doctor for every neighborhood?
+*THEY CHANGED THE DSM TO CREATE A DIAGNOSIS FOR POLITICAL DISSiDENTS!*
+Who has the influence to do that?
+
+Should we wait for these people to add a subtype of schizophrenia for
+non-schizo patients, just like the Soviets did? I've gotta tell you,
+with data-driven medicene and with the increasing power to map the
+mind, that's just not going to work anymore! If you try to make up
+psychiatric labels to harrass people, it's going to become real clear
+as soon as you run data science on their MRI scans:
+
+> This guy just don't have a connectopathy like scizophrenia.
+> Nope. This guy's neural networks show that he has autism. This guy's
+> neural networks show that ... well we have no idea. He's
+> normal. There's nothing wrong with him at all. Oh, but *this* guy?
+> His brain deviates so far from the norm in terms of neural damage
+> that ... Jesus Christ! They chemically castrated his brain! Either
+> that or he ate the brown acid at Woodstock. And it might have
+> happened between the ages of 20 through 25.
+
+It's like reading tree rings, least before your brain and mind stop
+developing. But even afterwards because your brain will display
+characteristic signs of neural decay that will differ from place to
+place in your brain. I don't know if that happened to me, but I'm
+pretty sure the government has intentionally distributed bad drugs to
+me from time to time. Regardless, it is fucking miraculous that my
+brain is even able to function, at this point! I stay away from almost
+everything except from pot because it's all terrible -- the time
+spent, the damage done, the people everything.
+
+And I'm telling you that that just so everyone knows ... I shouldn't
+drop like a dead fly from a overdose any time soon. I've been trying
+to think ahead of every possible cover story for my own death to
+uhhh... pre-emptively minimize the possibility. And IMO that's what's
+been keeping me alive.  Thinking ahead, understanding the
+possibilities and understanding that, when a state-run institution
+does something like that, they send signals a week or month ahead of
+time, so not too many people ask questions when you "overdose" or "get
+robbed with cocaine sprinkled on you" or "your what had you." Whatever
+that may be. All I do is understand what's possible and watch for
+people to say things that establish signals, especially in the minds
+of the few people around me, and then I kinda know what to watch out
+for. This paranoia has robbed me of what little there might have been
+left in my life.
+
+And all those people dying from carfentanyl?! Some schmuck in their
+basement can't just create that stuff. Fentanyl is hard enough, if you
+don't want law enforcement beating down your door because they're
+pissed a handful of kids OD'd on dope. OK, well now there are people
+out there dying from carfentanyl by the hundred. And I can tell you:
+that's not normal. It runs counter to the business model and
+motivations for drug dealers to stay low. Fentanyl is questionable at
+best, but carfentanyl is a murder weapon. You can die breathing it in.
+
+Junkies look out for each other because no one else does. You're the
+lowest piece of shit in society because dope drives terrible crime
+sprees. So, the second your friend dies of an overdose and your left
+holding the bags, you're going to be warning all your friends before
+the ambulance gets there. And that leaves behind a characteristic
+messaging pattern that should emerge in Huntington and Cincinatti. If
+those text messages aren't there for anyone who died, then someone may
+have just gotten off of nearly two hundred state-driven murders.
+
+Back to neural castration. Just like there are neuro-connectological
+profiles specific to phenotypes, there are similar profiles that act
+as fingerprints for chemical damage to the brain. And these profiles
+my be read from the brains of people who've had mind-altering
+transcranial magnetic stimulation. I've seen studies where they are
+able to detect the presence of some weak "false memories" by data
+mining fMRI responses.
+
+The major warning here is that these people are out there perpatratin'
+and they mostly don't care how these crimes might be viewed by society
+in a decade. That could mean a few things. For example, they don't
+expect the people they're doing it to to figure it out and ask
+questions. Or they don't understand how easily proveable some of these
+things are with the technology of the 2020's. Or, my favorite, they
+just don't care because it's part of a system-collapse or
+civilization-collapse event and ain't nobody gonna know to ask
+questions after it happens. A system-collapse would be something like
+a worldwide tyrannical revolution, producing a new system where all
+the old knowledge has been purged in a single generation and no one is
+capable of asking questions because no one knows what happened and
+every move they make online is monitored, so that any person asking
+the right questions leading to the truth is killed very quickly.
+
+These same people capable of orchestrating this through intelligence
+agencies are so threatened by the internet and the freedom of all
+information and the discovery of past sins that I fear some looney-bin
+scenario like this might actually be possible. In the two years or so,
+whenever I try to sound the alarm about things like this or about
+other government shenanigans, that's when I feel the most
+pressure. Before that, I never felt any pressure. The people I know
+today were involved would simply egg me on.
+
+And now everyone wants to point at me and say "It's his fault! Yeh
+fucking Shaggy over there!  The fucking pothead who keeps asking those
+meddling questions. We keep taking everything from him and keeps
+trying to get people to think! To use their brains!"
+
+Eventually, I figure it out. My life is like an atrocious version of
+that Steve Jobs quote. It's something like "All the random things that
+happen in life don't make sense looking forward, but once you look
+back, you can connect the dots and everything makes sense. Everything
+was meaningful." I'm like the Steve Jobs of government fuckery. And
+for every person who "made it" as far as I did, there are millions of
+others, who either settled or were brainwashed or were driven insane
+or had an "accident."
+
+###
 
 I would have cooperated with the government in an investigation. *THERE
 ARE NO CIRCUMSTANCES UNDER WHICH I EVER HAVE BEEN PSYCHOLOGICALLY
@@ -703,18 +939,28 @@ but I sure as hell wish that these pissants would piss off and move
 on. Because continuing to poke and prod the volatile psychology that
 you so meticulously engineered isn't going to make anything better.
 
+### Universal Blackmail
+
+And they are blackmailing fucking everyone. Like they're the goddamn
+mafia. But here's the deal with distributed and total blackmail
+against your citizenry. Fucking everybody is gettin blackmailed!
+Again, STAND UP FOR YOUR GODDAMN RIGHTS AND FORGIVE OTHERS OF THEIR
+SINS BECAUSE THEY GETTIN BLACKMAILED JUST LIKE YOU ARE IF YOU HAVE
+ANY INFLUENCE.
+
 ### Yup, They Got All the Bases! Every Single One of Them.
 
 How can these Bolo's do this in the Age of the Internet? Because they
 have total control of the communication infrastructure. They have
 seized the means of communication. They have domination of telecom.
 Any party that exerts control over telecom infrastructure has God-mode
-on the internet. Assume that SSL is broken and thus HTTPS is
-broken. Most sites don't even use SSL anymore. Those sites are
-definitely definitely hopelessly broken. Assume that any message you
-send on the internet can be blocked silently or modified persistently.
+on the internet. **Assume that SSL is broken and thus HTTPS is
+broken. JUST MAKE THAT ASSUMPTION.** Most sites don't even use SSL
+anymore. Those sites are definitely definitely hopelessly
+broken. Assume that any message you send on the internet can be
+blocked silently or modified persistently.
 
-### All Your Bases Have Splinternet
+### All Your Bases Have a Free Splinternet Connection
 
 It is possible to Man-in-the-Middle anything with a customized
 application server. Facebook, Twitter, Gmail, anything. They can
@@ -727,20 +973,186 @@ the terminals you are in front of. These are theoretical exploits by
 the way, but they are possible in theory. Far from practical, but they
 are possible and it scares the shit out of me.
 
-I am a refugee because they won't let me leave. Understanding these
-exploits is part of the reason why they'll never, ever let me leave
-the United States. My intelligence is why they say I'm dangerous, by
-the way. Not because of my intent, but because of my intellectual
-capability with regard to understanding how to fucking run shit in
-information warfare. And psychological warfare, too. And economic
-warfare. They know it. They know I also know a lot of other things
-which aren't really part of the official story.
+### Until the Government Gives Me Armed Ground Transport to Canada...
 
-### Universal Blackmail
+Then I am a refugee because they won't let me leave. Understanding
+these exploits amoung other things is part of the reason why they'll
+never, ever let me leave the United States. My intelligence is why
+they say I'm dangerous, by the way. Not because of my intent, but
+because of my intellectual capability with regard to understanding how
+to fucking run shit in information warfare. And psychological warfare,
+too. And economic warfare. They know it. They know I also know a lot
+of other things which aren't really part of the official story.
 
-And they are blackmailing fucking everyone. Like they're the goddamn
-mafia. But here's the deal with distributed and total blackmail
-against your citizenry. Fucking everybody is gettin blackmailed!
-Again, STAND UP FOR YOUR GODDAMN RIGHTS AND FORGIVE OTHERS OF THEIR
-SINS BECAUSE THEY GETTIN BLACKMAILED JUST LIKE YOU ARE IF YOU HAVE
-ANY INFLUENCE.
+#
+
+And it turns out: the government regulates intelligence. You have to
+have a brain license if your IQ is way to high...
+
+### You Got A License For Them Math Problems, Boy?
+
+Any violations here? Apparently, you get hung as a traitor or some
+shit. Or they might claim they exposed you to just enough classified
+information to try you in secret court until they figure out how to
+kill you or shut you up. And that's interesting because, in my case,
+no one ever told me to shut up. Ever! No one has ever directly said
+anything to me to direct me to stop doing whatever TF it is that I'm
+doing! Well how the hell is a kid with Asperger's supposed to know?!
+You practically have to smack him in the face and give him an ice
+bucket shower before you explain that:
+
+> No. Do not learn X, Y, and Z. Your IQ is too high and the government
+> can't give you a clearance. YOU ARE NOT ALLOWED!
+
+And no one ever explained this either:
+
+> People really don't appreciate the things you've been posting on
+> Facebook since 2005. Yeh, the things about the NSA, government
+> surveillance and the end of American Republic? Don't do that. You
+> can't. You have to stop.
+
+That's all someone had to say. Well, I was taught to value American
+rights as though they were sacred. Jesus, how am I supposed to know
+that, since 2001, we wiped our ass with the Bill of Rights as part of
+an undeclared war on American citizens?
+
+Usually, for nerds who are too smart for their own good, they'll just
+strap you in with a real cushy job. You know, the works: big salary,
+ping-pong balls and lots of other nerds clackin' away on their
+keyboard. And, if you're lucky, you might even find yourself with a
+hot wife. After all, you've been bred to be socially awkward, isolated
+and to crave sex. So that you're easily controlled, if you're
+male. It's also interesting that, as part of our social engineering,
+many more men ended up in engineering than technology. Just an
+interesting coincidence and nothing more.
+
+### Don't you know the Status Quo is fine the way it is?
+
+Too many Google queries for intelligence concepts, aspects of
+conspiracies that are, as of yet, uncovered or mathematic theorums
+that are prerequisites for breaking through the veil? You'll find a
+white van is constantly parked outside your house or that you just so
+happened to end up living in a van down by the river!
+
+Because make no mistake: the government doesn't give a shit about what
+intelligent people contribute to society ... apparently. In my
+experience, anyways. In fact, if you change too much at one time, it
+makes it real hard for those people in power to stay in power. And
+nobody likes that shit. Fuckin' nerds, with their pocket protectors
+and their fucking goofy-ass glasses and awkward prosody. They're
+always fucking things up -- those little twerps are "bad for
+business!"
+
+You'd think that any one with a high enough IQ knows that, while his
+innovation might technically the equivalent of Zero Point Energy for
+medicine, genomics, fusion, financial engineering, hacking or whatever
+-- that it's bad for the existing business models out there. The
+status quo is fine the way it is. We don't need to cure diseases!
+What? We milk them. That's a teet! If we change things too fast, we
+lose control and other people aren't intelligent enough to anticipate
+the change in the resulting system.
+
+Yes, we cheerlead innovation and change, but that's all for show!
+Nobody cares. We want baby steps so the fat kids can keep up with the
+pace. The people counting the money would rather keep you in
+submission, so they can milk you! And if you break rank one too many
+times, one of these rich pricks or government surveillance operators
+is going take note and they're going to steal and/or control your
+innovations. Why? Because they already have the patents and the
+capital and you don't. So you better play by the rules and STICK WITH
+THE PACK!
+
+Jesus, every one of those geeks thinks he's Nikola Tesla. Meritocracy?
+HA! Try Murkyatocracy!
+
+Well guess what! Turing "ate an apple laced with cyanide." While he
+was alone. Tesla died under mysterious circumstances in 1943 and had
+all of his property, intellectual and otherwise, confiscated by the
+[Office of Alien Property Confiscation](https://en.wikipedia.org/wiki/Office_of_Alien_Property_Custodian).
+
+An agency that, bizarrely, I have never heard of. I have scoured
+Wikipedia since 2005 and never heard of it, amoung other recent trends
+and diseases. OACP confiscates any and all property during wartime
+from the enemy's cold dead rigor mortis grip. Yes, apparently Nikola
+Tesla was an enemy of the state! Weird. I had never heard that.
+
+> See? Ain't not nobody's allowed to be smart no more! Nah, you need
+> the blessing of the state! Don't be on them Quantum Information
+> Theory vidyas now, ya hear? No sir, none of that Bioinformatics for
+> you. Just don't think about it! And whatever you do, do not fucking
+> solve an "unsolved" math problem. *YOU WOULD NOT BELIEVE WHAT WILL
+> HAPPEN IF YOU EVEN GET CLOSE!* Just be a good boy and get a job
+> at McDonalds. That brain's dangerous if it's loaded you know? Put
+> the goddamn safety on and get that job at Best Buy. The Geek Squad
+> needs people like you!!
+
+^^^ Said no loving mother to her child, ever.
+
+Apparently, OACP was involved in the
+[Anna Nicole Smith](https://en.wikipedia.org/wiki/Marshall_v._Marshall)
+Supreme Court
+[cases](https://en.wikipedia.org/wiki/Stern_v._Marshall). Yes, both of
+them. There were two, in 2006 and 2011. And those bastards snatched up
+all of her estate after she died from cardiac arrest.
+
+OACP, the very same agency I've never heard of, was also involved in
+seizing & redistributing the intellectual property & assets from the
+Nazi's after WW2. Did America ever say "Thank You,
+Nationalsozialistische Deutsche Arbeiterpartei"? Nope. They just took
+all of that, like Wernher von Braun's rocket tech, and acted like they
+did it themselves. Then they stuck all the rest of the Nazi's in "Area
+51" wherever that is.
+
+For the Nazi's who posed a threat, the OSS determined they had all
+information of value and killed them, orphaning any children they may
+have had. Anyone who had value as an asset who could not be killed
+without significantly threatening intelligence to aid America in the
+assured conflict with Sovied Russia? They were weighed down with so
+much blackmail and counterforce, we could be sure they'd never do
+shit. And, we could count on it too, because at that point, we knew we
+all hated Stalin as much as Hitler did. And nobody wanted to let that
+grubby, drunk psychopathic bastard bury another body in Western
+Europe.
+
+Then America acted like nothing happened, while they beat the Soviets
+over the head in the Cold War. And then they told America we were
+lucky we didn't speak German. Because we had something. We had
+acquired a lot of valuable assets and tech actually. Because if the
+Germans were going to fold to either side, it'd be Western Europe. And
+it seemed that Soviet Russia had no idea we had it. So we sure as shit
+weren't gonna waste it, whatever it was.
+
+The end of WW2 is very interesting, to say the least.
+
+I'm not trying to apologize for the Nazi's. I'm just saying. If the
+Soviets had gotten access to everything like we did, we would have
+quickly lost the Cold War. Stalin would've just kept on pushin' on,
+like he always set out to do well before Hitler broke the
+[Molotov–Ribbentrop Pact](https://en.wikipedia.org/wiki/Molotov%E2%80%93Ribbentrop_Pact).
+
+If Germany had been complacent, just to let the Soviets conquer and
+absorb their country, its assets and its intellectual property, then
+WW2 would have represented the annhilation democracy and freedom in
+Europe. And very likely the world. Stalin would have gained a ton of
+momentum with that move and everything would have been tipped in their
+favor, while Germany still reeled from defeat in WW1 and sanctions
+from the Treaty of Versaille. They had to pay back all that war debt!
+For both sides! Whoa. Hitler was like "Just sit here, broke as hell,
+with nothing to do but stand in line for soup and just let Stalin
+scoop us up? Fuck that!" And ... well.. then terrible things happened.
+
+
+### Who turned the OACP On Again?!
+
+{% highlight "ruby" %}
+//
+//          ROFL:ROFL:LOL:ROFL:ROFL
+//              _______||_________
+//   L         /               [ O\
+//  LOL========                |_|_\
+//   L     B|O M B                  )
+//        F    |____,-------¬______/
+//       T //    }-OMGROCKET))
+//      W // _______||_||_________/_/
+//
+{% endhighlight %}
