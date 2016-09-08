@@ -367,7 +367,62 @@ involve various kinds of roles.
 
 - expand on these ideas
 
-#### misc math
+### crystallization and time travel
+
+if someone achieves some known state of mind that
+- satisfies some conditions/properties/responses
+  - in some deterministic way
+  - or non-deterministic, but acceptably variant way
+- then that persons consciousness can travel through to the past or
+  future and the consequences could be "known" at least to some degree
+  - or the variance might be controllable or predictable so that the
+    outcome can be corrected via expecting the difference
+  - but really, it works best when you can expect that the outcome is
+    the same. otherwise it probably could diverge significantly
+  - so you could connect to previous lives or with the consciousness
+    of someone who's mind is addressable for some reason. i.e. for
+    some reason it's readibly accessible at that time/place for yours
+    to connect.
+    - one could establish ritualistic protocols of interactions that
+      strengthen the quantum connectivity to encourage connections
+      from the future ... somehow
+    - so it's like a device or some kind of drug that enables your
+      mind to connect back from the future. or would allow your
+      successor to connect back from the future
+      - in this way, you would choose a succession of consciousnesses
+        that would be able to link back from generations ahead to your
+        own consciousness
+        - while keeping some specific key private or something
+      - to establish this in particular, you'd need to ensure that you
+        can propagate the mind-form that can link back to the past
+        - so, you're basically trying to design some self-sustaining
+          crystalized mind-form that will always be able to maintain
+          that propagation of mind-form.
+        - because, as long as you can always depend on it being
+          similar enough and is linkable, then you can ensure that
+          there will be something that connects back from the future,
+          even if it's another person's consciousness
+- the consciousness instead might merge with another person or vessel
+  from another time or place.
+  - a vessel, as in, perhaps a burning bush...... uhhh not really though
+  - this vessel might be something expects a specific mind-form or
+    uses some interface. in other articles, i've described a universal
+    language and protocol, but interfaces would need to be built on
+    top of this ... and that's when the universiality breaks down a
+    bit
+  - this could be an android across the galaxy with a quantum
+    networking interface or some alien life form
+    - probably impossible, but maybe you could link in and passively
+      or actively observe.
+-
+
+### using your brain to find your zero point
+
+e.g. meditation utilizing some mechanics to encourage your mind to
+identify quantum links in your brain or develop them in some way... if
+this is even possible
+
+### misc math
 
 Are there graphs that can be defined as having a *most random*
 structure. this can be set for the entire graph or just set the
