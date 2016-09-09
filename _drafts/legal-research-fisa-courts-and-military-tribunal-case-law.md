@@ -241,3 +241,66 @@ almost all circumstances, you just don't stand a chance.
   - because apparently what's important here isn't a dead widow's
     protracted suffering after losing her husband, it's making a point
     about bankruptcy technicalities.
+
+
+# SDN Specially Designated Nationals
+
+basically, these are lists of spies
+
+TODO: find the list online, also refer to
+
+### What, NO ISIS?!
+
+??
+
+### North Korea and "North Korea" and Asia
+
+DPRK, DPRK2, DPRK3
+BURMA
+
+### Latin America, Cuba and "Cuba"
+
+VENEZUELA
+CUBA
+
+### Middle East and "Middle East"
+
+SYRIA
+IRAN, IRAN-HR, IRAN-TR
+IRAQ2, IRAQ3
+LIBYA2, LIBYA3
+LEBANON
+YEMEN
+
+#### "non-SDN" Palestine Legistlative Council
+
+NS-PLC
+
+### Africa and "Africa"
+
+SOMALIA, SOUTH SUDAN, SUDAN, BURUNDI
+ZIMBABWE, DARFUR, COTED, DRCONGO
+
+### Europe and Ukraines
+
+UKRAINE-EO13660, UKRAINE-EO13661, UKRAINE-EO13662, UKRAINE-EO13685
+BALKANS, BELARUS
+
+### Misc
+
+CAR
+561List
+FSE-SY
+FTO
+HRIT-IR
+HRIT-SY
+IFSR
+IRGC
+ISA
+MAGNIT
+NPWMD
+SDGT
+SDNT
+SDNTK
+SDT
+TCO

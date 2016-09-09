@@ -766,14 +766,21 @@ Rights. They're so smart and patriotic and they don't want to be
 dependent on the government! Ugh they make me so mad!!!
 
 All of this corrosive, counter-productive activity spiked around 2011
-around the same time the Occupy protests started going down. I don't
-know what's driving it, but it's getting a little hard to ignore.
+around the same time the Occupy protests started going down. That's
+when I really noticed it happening and first could ever associate it
+with the left. I believe that, in my own life, the seeds were sown in
+2010 at the latest. It seems like the continuation and growth of
+secret repressive reprogramming programs in this country that could be
+traced back to the early Cold War. I don't know what's driving it out
+of nowhere, but it's getting a little hard to ignore and I think
+there's some runaway faction in the left that seized control of the
+totalitarian machinery created by Bush in response to 9/11.
 
-That disease is probably going to have to be a real thing though. Like
-... I donno, let's just say Zika. Now the interesting thing about Zika
-is that it didn't occur until after we went down to South America,
-played God and tried to destroy the population of Dengue fever
-carrying mosquitoes...
+Back to that disease. It's probably going to have to be a real thing
+though. Like ... I donno, let's just say Zika. Now the interesting
+thing about Zika is that it didn't occur until after we went down to
+South America, played God and tried to destroy the population of
+Dengue fever carrying mosquitoes...
 
 **This is your friendly reminder that, as much as it seems that I have
 leaked, I really do have cards to play until the end of time. So at
@@ -792,7 +799,7 @@ know what happened, but that's what happened. The evidence is right
 there in the DNA of the mosquito population. No more dengue fever. Now
 we have prevelant Zika and people don't die as much so that's
 nice. The problem is, well, now their babies live on and suffer from
-intellectual disabilities for the rest of their life.
+"intellectual disabilities" for the rest of their life.
 
 Ok, that's bad. So it's unquestionable that no one would ... question
 Zika right? Good! Then if we want to map a pattern language to it, we
@@ -800,14 +807,118 @@ can do that, just we did with Qdg'dfaffy D'fuck, whatever his fucking
 name was. So, just like no one would question us running air raids on
 Bengnhazi to topple a dictator, none of these meddlin' kids are gonna
 ask questions when we propose duplicitous plans of attack on
-Zika.
+Zika. Great! That means that we can treat a real disease in South
+America and simultaneously treat a vaguely defined "mind-virus" in
+America, repurposing the CDC to "treat" that.
 
-Like when we propose utilizing the CDC to enforce policy on a virus of
-the mind. No, I'm not even joking. That's what Obama wants to do. He
-wants to leverage the CDC to attack people who have "Oppositional
-Defiant Disorder" or "Borderline Personality Disorder." Now, remember,
-the latter was just added to the DSM a year or so. *THEY CREATED A
-DIAGNOSIS FOR POLITICAL DISSiDENTS!*
+How do you treat a mind-virus anyways? And isn't it interesting that
+this occurs at precisely the time when nuclear medicine's most
+world-changing applications are publicly becoming known: MRI's and
+machine learning. Another interesting point: there's recently been a
+ton of investment into nuclear medicine right here in the Roanoke
+Valley, on the tune of hundreds of millions of dollars into Virginia
+Tech's medical facilities here. As interested and forward thinking as
+I am, you'd think I would have interfaced with someone in Roanoke on
+MRI datamining. Nope. The closest I've come is talking to someone with
+Virginia Tech's new Neuroscience program, whom my paranoid mind
+immediately flagged as being involved with whoever's running this g4ng
+st4lking and str3et th3atr3 on me.
+
+Again, the smokescreen on news and social media is so thick, no one
+else is seeing this coming. Everyone's so entertained with this joke
+of an election that no one's asking questions about anything real. And
+I can't see the forest for the trees here. Is this really going to be
+good for America, in the end? Is this part of a concerted strategy on
+our part? Or is it a power grab? Because, to me, it looks a lot closer
+to a power grab: you can't ask questions; both sides seem to be aware
+of things they aren't letting the public on to; both sides are acting
+like it doesn't matter what they do now because they won't be
+explaining it later on; people are encouraged to play a part in this
+drama.
+
+And if it's a power grab, then Zika would make a good cover for the
+CDC to enforce policy on a virus of the mind. No, I'm not even
+joking. And that's what Obama wants to do, allegedly. I've seen
+articles that claim the CDC will begin treating "negative
+information/facts" and "viral belief systems." And going back to
+neurology, there have been tons of studys on implanting memories and
+removing memories. 
+
+These studies scare the shit out of me, but they seem to be written
+for pretty basic shit, but what if their capacity for neurological
+manipulation is much greater than that? Can you imagine what damage
+could be done if you could implant/suggest false memories that are
+used to... I donno... compel someone to confess against themselves in
+a FISA court case? Who would believe that person anyways?! And if it
+doesn't matter whether someone would believe that person in the
+future, when such technology must inevitably become public
+... couldn't it be argued that whoever was doing that did not actually
+plan on handling that scenario in the future? ... By collapsing the
+system and initiating some tyrant's totalitarian wet drean?
+
+#### Neurological Programs and Leveraging the Medical System to Attack Belief Systems
+
+#### (1) We've exponentiated our capacity for neurological mapping & manipulation
+
+#### (2) There are rumors about leveraging the CDC to "medicate" beliefs
+
+#### (3) With greater neurological prowess and greater understanding
+ of the nature of information, there will be a tendancy to view
+ problems related to information & beliefs as actually being medical in
+ nature, since medicine would have the ability to "treat" a person by
+ adding or removing memories
+
+#### (4) We've seen that the CDC has grabbed more and more powers in
+ this regard to attack diseases. If someone is planning to repurpose
+ the CDC to be used in such a way, we would see lobbyists and
+ congressmen pushing for extra powers to be given to the CDC.
+
+#### (5) The next step is the legal redefinition of belief systems as a disease.
+ and they will utilize terrorism to justify this.
+
+It's important to note that nationalizing medicine is required for
+communism for a plethora of reasons. Firstmost, it promises the lower
+classes that they'll no longer be burdened by their health. In a more
+sinister way, it provides the government dominion over your body and
+mind. Since the only way to seek treatment is through the government,
+your health can be used as leverage against you, not unlike how
+families a decade ago would be hesitant to quit an unfair job if would
+risk losing health insurance. It's really something to think
+about. There are no perfect systems.
+
+Quite often, I get the feeling that the nominal leaders in our
+government really have no idea what's happening. And if something like
+this were to be rammed through that would certainly be the case. At
+that point, our minds are nothing more than disk drives to these
+people, who become like anti-virus software. Who would determine what
+is a "valid" belief and what is a "dangerous" belief?
+
+Someone with the logistic infrastructure to implement these programs
+in secret would obviously tend to use them. Why else would they spend
+so much time & money building it all out. So, if someone used powers
+like this to fix their problems by rewriting someone's memories, then
+could this same group of people have any real long-term vision? Does
+absolute power actually give you the ability to envision utopia? Of
+course, utopia doesn't exist, but simply having the power doesn't mean
+that you know how to lead people or even where to lead them.
+
+If these neurological procedures to toy with memory are possible,
+call into question legal axioms that have held for thousands of
+years. It's really dirty. You could find yourself accused of rape
+without ever knowing about it by multiple witnesses who are
+emotionally distraught from the pain they experienced. You could be
+falsely accused and have your life flipped upside down and to these
+people, it's all real. It's just as real as though it has actually
+happened! This is all hypothetical of course, but science fiction's a
+great way to stay on top of this stuff.
+
+Who can believe what we see on Social Media or anywhere for that
+matter. Newspapers are bankrupt and everything digital is ephemeral,
+so whenever "this" all goes down, whatever "this" is, there will be no
+trace... Obama wants to leverage the CDC to attack people who have
+"Oppositional Defiant Disorder" or "Borderline Personality Disorder."
+Now, remember, the latter was just added to the DSM a year or
+so. *THEY CREATED A DIAGNOSIS FOR POLITICAL DISSiDENTS!*
 
 ... How much more Soviet-style and Cuban-style abuse of the "medical"
 and "psychiatric" institutions do you need before you realize what's
@@ -1031,7 +1142,7 @@ male. It's also interesting that, as part of our social engineering,
 many more men ended up in engineering than technology. Just an
 interesting coincidence and nothing more.
 
-### Don't you know the Status Quo is fine the way it is?
+### Don't You Know the Status Quo is Fine the Way It Is?
 
 Too many Google queries for intelligence concepts, aspects of
 conspiracies that are, as of yet, uncovered or mathematic theorums
@@ -1039,9 +1150,12 @@ that are prerequisites for breaking through the veil? You'll find a
 white van is constantly parked outside your house or that you just so
 happened to end up living in a van down by the river!
 
-Because make no mistake: the government doesn't give a shit about what
-intelligent people contribute to society ... apparently. In my
-experience, anyways. In fact, if you change too much at one time, it
+### Your Intelligence, No Matter How Developed Isn't A Unique Commodity
+
+And make no mistake: the government and some powerful people just
+don't give a shit about what intelligent people contribute to society
+... apparently. In my experience, anyways. Heretofore, this is what
+life has shown me. In fact, if you change too much at one time, it
 makes it real hard for those people in power to stay in power. And
 nobody likes that shit. Fuckin' nerds, with their pocket protectors
 and their fucking goofy-ass glasses and awkward prosody. They're
@@ -1055,7 +1169,9 @@ medicine, genomics, fusion, financial engineering, hacking or whatever
 status quo is fine the way it is. We don't need to cure diseases!
 What? We milk them. That's a teet! If we change things too fast, we
 lose control and other people aren't intelligent enough to anticipate
-the change in the resulting system.
+the change in the resulting system. Yeh, this is really depressing and
+I'm clearly the exception, not the rule ... but my life has become one
+massive glaring, migrane-inducing exception.
 
 Yes, we cheerlead innovation and change, but that's all for show!
 Nobody cares. We want baby steps so the fat kids can keep up with the
@@ -1067,19 +1183,28 @@ innovations. Why? Because they already have the patents and the
 capital and you don't. So you better play by the rules and STICK WITH
 THE PACK!
 
+### [Welcome to Murkyatocracy. Population: Nikola Tesla and Alan Turing]()
+
 Jesus, every one of those geeks thinks he's Nikola Tesla. Meritocracy?
 HA! Try Murkyatocracy!
 
 Well guess what! Turing "ate an apple laced with cyanide." While he
 was alone. Tesla died under mysterious circumstances in 1943 and had
 all of his property, intellectual and otherwise, confiscated by the
-[Office of Alien Property Confiscation](https://en.wikipedia.org/wiki/Office_of_Alien_Property_Custodian).
+[Office of Alien Property Custodian](https://en.wikipedia.org/wiki/Office_of_Alien_Property_Custodian).
+
+### Tesla's Property Was Seized By the OACP as a Traiter After His Death
 
 An agency that, bizarrely, I have never heard of. I have scoured
 Wikipedia since 2005 and never heard of it, amoung other recent trends
 and diseases. OACP confiscates any and all property during wartime
 from the enemy's cold dead rigor mortis grip. Yes, apparently Nikola
-Tesla was an enemy of the state! Weird. I had never heard that.
+Tesla was an enemy of the state! Weird. I had never heard that. A
+citizen for about 50 years, but an enemy. However, it was during WW2
+and it does seem he was encoding his work in a way that only he would
+understand. But ... seized for being a WW2 traitor? Turing was under
+surveillance after WW2 for sympathizing with or spying for the
+Soviets.
 
 > See? Ain't not nobody's allowed to be smart no more! Nah, you need
 > the blessing of the state! Don't be on them Quantum Information
@@ -1093,12 +1218,16 @@ Tesla was an enemy of the state! Weird. I had never heard that.
 
 ^^^ Said no loving mother to her child, ever.
 
+### OACP Was Somehow Involved in Anna Nicole Smith's USSC Cases
+
 Apparently, OACP was involved in the
 [Anna Nicole Smith](https://en.wikipedia.org/wiki/Marshall_v._Marshall)
 Supreme Court
 [cases](https://en.wikipedia.org/wiki/Stern_v._Marshall). Yes, both of
 them. There were two, in 2006 and 2011. And those bastards snatched up
 all of her estate after she died from cardiac arrest.
+
+### The Same OACP That Dismantled I.G. Farben and Other Nazi Corporations
 
 OACP, the very same agency I've never heard of, was also involved in
 seizing & redistributing the intellectual property & assets from the
@@ -1108,15 +1237,17 @@ all of that, like Wernher von Braun's rocket tech, and acted like they
 did it themselves. Then they stuck all the rest of the Nazi's in "Area
 51" wherever that is.
 
+### After WW2 America Consumed the Nazi's in Anticipation of the Soviet Menace
+
 For the Nazi's who posed a threat, the OSS determined they had all
-information of value and killed them, orphaning any children they may
-have had. Anyone who had value as an asset who could not be killed
-without significantly threatening intelligence to aid America in the
-assured conflict with Sovied Russia? They were weighed down with so
-much blackmail and counterforce, we could be sure they'd never do
-shit. And, we could count on it too, because at that point, we knew we
-all hated Stalin as much as Hitler did. And nobody wanted to let that
-grubby, drunk psychopathic bastard bury another body in Western
+information of value and killed them, probably orphaning any children
+they may have had. Anyone who had value as an asset who could not be
+killed without significantly threatening intelligence to aid America
+in the assured conflict with Soviet Russia? They were weighed down
+with so much blackmail and counterforce, we could be sure they'd never
+do shit. And, we could count on it too, because at that point, we knew
+we all hated Stalin as much as Hitler did. And nobody wanted to let
+that grubby, drunk psychopathic bastard bury another body in Western
 Europe.
 
 Then America acted like nothing happened, while they beat the Soviets
@@ -1127,12 +1258,13 @@ Germans were going to fold to either side, it'd be Western Europe. And
 it seemed that Soviet Russia had no idea we had it. So we sure as shit
 weren't gonna waste it, whatever it was.
 
-The end of WW2 is very interesting, to say the least.
+###
 
-I'm not trying to apologize for the Nazi's. I'm just saying. If the
-Soviets had gotten access to everything like we did, we would have
-quickly lost the Cold War. Stalin would've just kept on pushin' on,
-like he always set out to do well before Hitler broke the
+The end of WW2 is very interesting, to say the least. I'm not
+apologizing for the Nazi's. I'm just saying: if the Soviets acquired
+access to everything like we did, we would have quickly lost the Cold
+War. Stalin would've just kept on pushin' on, like he always set out
+to do well before Hitler broke the
 [Molotov–Ribbentrop Pact](https://en.wikipedia.org/wiki/Molotov%E2%80%93Ribbentrop_Pact).
 
 If Germany had been complacent, just to let the Soviets conquer and
@@ -1146,7 +1278,7 @@ For both sides! Whoa. Hitler was like "Just sit here, broke as hell,
 with nothing to do but stand in line for soup and just let Stalin
 scoop us up? Fuck that!" And ... well.. then terrible things happened.
 
-### Who turned the OACP On Again?!
+# Who turned OACP On Again?!
 
 OK, so if the OACP is being used and it's an agency that's turned on
 during wartime, that means that someone turned it on again. Who did
@@ -1159,9 +1291,14 @@ the mafia normally redistributes them?! By force! Really? I mean
 ... really?!!
 
 So... I guess we're at world war or something? News to me. I knew that
-we I knew that
-we declared War on Terror in 2001, but I also realized we declared War
-on Drugs in 1971.
+we I knew that we declared War on Terror in 2001, but I also realized
+we declared War on Drugs in 1971. Before 2010, we were at war with
+Iraq and Afganistan.
+.
+
+Actually, now that I look, it seems
+that [OFAC](https://en.wikipedia.org/wiki/Portal:Featured_content) has
+the authority in the War on Terror.
 
 {% highlight "ruby" %}
 //
@@ -1176,4 +1313,6 @@ on Drugs in 1971.
 //
 {% endhighlight %}
 
-
+- intellectual property theft via surveillance
+  - if coordinated for political reasons could be incredibly
+    powerful, esp in today's economy
