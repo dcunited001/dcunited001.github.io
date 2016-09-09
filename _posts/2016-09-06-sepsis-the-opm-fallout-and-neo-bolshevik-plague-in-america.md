@@ -139,11 +139,11 @@ everyone knows it, but ... it's OK?
 
 # America has FOSO
 
-### Fear of Speaking Out
-
 To me, this is equally terrifying as it is obvious. Why? BECAUSE THIS
 IS HAPPENING AND THE PEOPLE WHO SHOULD STOP IT SEEM TO BE SOILING
 THEMSELVES IN FEAR OF SPEAKING OUT. FOSO. These bozos have F.O.S.O.
+
+### Fear of Speaking Out
 
 Why? If the answer is because of patriotism, that might be acceptable
 to me. Depending on the circumstances.... However, I don't think
@@ -304,7 +304,7 @@ tensions, a movement from local Americans to fight an American
 Stasi. It doesn't matter. If it keeps our focus at home, "they"
 steadily make gains abroad.
 
-### Stop This Racist Bullshit is Going to Ruin America
+### Stop This Racist Bullshit. It's Going to Cripple America
 
 This is why American needs to put away that dumbass, divisive racist
 bullshit and unite. We need to unite as one because if we don't we're
@@ -327,17 +327,62 @@ external politics. I am so tired of having the race card thrown at me
 for what are simply political purposes. IMO, such behavior shows
 disgusting disregard of what is a critically sensitive issue.
 
-And for the racists out there who would advocate for the
-implementation of such policies ... have you actually pictured what
-that would look like? It doesn't make sense and actually represents a
-broken, misinformed, almost schizophrenic view of domestic and
-international policy. What are you going to do, reimplement Jim Crow
-and Segregation? How's that going to work out? A person like this
-forgets certain economic realities ... no one's going to want to trade
-with you or help you.
+### If You Advocate Racism...
+
+#### Have You Actually Considered How That Would Play Out?
+
+No, I really want to know. What are your ideas? What do you think
+America should look like in 10 or 50 years? How would your beliefs
+actually help people if they were widespread?
+
+For the racists out there who would advocate for the implementation of
+such policies ... have you even pictured what that would look like? It
+doesn't make sense and actually represents a broken, misinformed,
+almost schizophrenic view of domestic and international policy. What
+are you going to do, reimplement Jim Crow and Segregation? How's that
+going to work out? A person like this forgets certain economic
+realities ... no one's going to want to trade with you or help you.
+
+### For the Social Justice Warriors...
+
+I empathize with your mission, but have you considered that it's
+really not your battle? It's great when people stand up for others,
+but when is it enough? When is it too much? Are you so sure that the
+monsters you're fighting are real? Could it be possible that you're
+wrong? What if you are duped into irreparably damage someone's life on
+the basis of fighting for social justice, but it turns out that person
+couldn't be further from a racist? What if some foreign political
+force was pushing America to fight itself, so that we'd be too tied
+down with social problems at home, we'd lose a ton of ground in
+foreign policy?
+
+When you strike out at someone for being racist, how can you actually
+be sure? Did you ever bother to verify? Did someone tell you? Did you
+see a social media post? When you lashed out at them, how did your
+actions affect the situation? Did you ameliorate some tension in that
+environment? Did you protect someone? Did the racist change his
+beliefs? Or did you even bother to verify what that person's beliefs
+were, before or after you intervened? What if that person got the
+wrong impression of the situation and your interference drove them to
+seek comfort with a group of people that would make them more racist?
+How does that help racial and ethnic issues at all? How were other
+people in the situation involved?
+
+One problem I have with social justice warriors, in my personal
+experiences, they **used** racism to advance some other agenda, often
+political or just to help isolate me at work. If I could prove that
+happened and they were motivated in that way, how would you consider
+that persons actions then? Is that ethical to use such a divisive
+emotional issue? Now, what if I told you that these people in my
+personal experiences were mostly white? And, what if I told you that
+they never overtly asked me anything? And that the deceived the people
+around me and handled everything mostly behind my back? I never had
+the chance to set things right. In the long term, on a social scale,
+how does this advance racial issues? That would seem to exacerbate
+them! And it makes me sick! That makes me want to puke!
 
 And what people on the left don't understand is that the people they
-are vehemently demeaning as racists don't actually want that. For the
+are vehemently demeaning as racists don't actually want that... for the
 most part. Yes, there are some idiots who might actually want
 that. What people on the left also forget is that there really are
 nations that intend America harm in a very serious way. And by
@@ -540,7 +585,7 @@ situation, you can fucking bet on it. You could set your watch by it.
 
 Why do you think they sap the finances of anyone they subdue via
 psychological torture? *BECAUSE THEY DON'T WANT YOU TO RUN TO ANOTHER
-COUNTRY AND FIND OUT HOW MUCH YOUR LIFE CHANGES WHEN YOU DON'T HAVVE
+COUNTRY AND FIND OUT HOW MUCH YOUR LIFE CHANGES WHEN YOU DON'T HAVE
 TO DEAL WITH THIS SHIT.* They don't want you to inform people from
 other countries about what's happening. Why? Because other countries
 wouldn't sit back and watch this shit happen?
@@ -842,7 +887,7 @@ joking. And that's what Obama wants to do, allegedly. I've seen
 articles that claim the CDC will begin treating "negative
 information/facts" and "viral belief systems." And going back to
 neurology, there have been tons of studys on implanting memories and
-removing memories. 
+removing memories.
 
 These studies scare the shit out of me, but they seem to be written
 for pretty basic shit, but what if their capacity for neurological
@@ -942,6 +987,8 @@ as soon as you run data science on their MRI scans:
 > that or he ate the brown acid at Woodstock. And it might have
 > happened between the ages of 20 through 25.
 
+### Neural Bitemark Analysis - Data Science on Nuclear Medicine
+
 It's like reading tree rings, least before your brain and mind stop
 developing. But even afterwards because your brain will display
 characteristic signs of neural decay that will differ from place to
@@ -951,6 +998,8 @@ me from time to time. Regardless, it is fucking miraculous that my
 brain is even able to function, at this point! I stay away from almost
 everything except from pot because it's all terrible -- the time
 spent, the damage done, the people everything.
+
+### (predicting covert action)
 
 And I'm telling you that that just so everyone knows ... I shouldn't
 drop like a dead fly from a overdose any time soon. I've been trying
@@ -966,6 +1015,10 @@ people to say things that establish signals, especially in the minds
 of the few people around me, and then I kinda know what to watch out
 for. This paranoia has robbed me of what little there might have been
 left in my life.
+
+### (Carfentanyl)
+
+- mention my tweets calling this out in Huntington
 
 And all those people dying from carfentanyl?! Some schmuck in their
 basement can't just create that stuff. Fentanyl is hard enough, if you
@@ -985,6 +1038,8 @@ messaging pattern that should emerge in Huntington and Cincinatti. If
 those text messages aren't there for anyone who died, then someone may
 have just gotten off of nearly two hundred state-driven murders.
 
+###
+
 Back to neural castration. Just like there are neuro-connectological
 profiles specific to phenotypes, there are similar profiles that act
 as fingerprints for chemical damage to the brain. And these profiles
@@ -992,6 +1047,8 @@ my be read from the brains of people who've had mind-altering
 transcranial magnetic stimulation. I've seen studies where they are
 able to detect the presence of some weak "false memories" by data
 mining fMRI responses.
+
+### (warning that these people aren't planning on telling this story)
 
 The major warning here is that these people are out there perpatratin'
 and they mostly don't care how these crimes might be viewed by society
@@ -1016,6 +1073,8 @@ whenever I try to sound the alarm about things like this or about
 other government shenanigans, that's when I feel the most
 pressure. Before that, I never felt any pressure. The people I know
 today were involved would simply egg me on.
+
+### (i'm a scapegoat)
 
 And now everyone wants to point at me and say "It's his fault! Yeh
 fucking Shaggy over there!  The fucking pothead who keeps asking those
@@ -1049,6 +1108,8 @@ Basically ... well actually I can't really mention much of anything,
 but I sure as hell wish that these pissants would piss off and move
 on. Because continuing to poke and prod the volatile psychology that
 you so meticulously engineered isn't going to make anything better.
+
+# (OPM and its effects)
 
 ### Universal Blackmail
 
@@ -1300,6 +1361,66 @@ Actually, now that I look, it seems
 that [OFAC](https://en.wikipedia.org/wiki/Portal:Featured_content) has
 the authority in the War on Terror.
 
+- SDN's and I-9 notifications to track individuals across the country
+  - coverage
+
+- intellectual property theft via surveillance
+  - if coordinated for political reasons could be incredibly powerful,
+    esp in today's economy
+  - basically the main driver for economics over the next decade is
+    technology and thus, intellectual property
+  - so if someone hijacked homeland security to steal this from "the
+    other side" they could use it to secure an insurmountable position
+    in the economy of tomorrow.
+- i believe this happened to me, to some degree. I'm not sure how or
+  who did it, but i do know that I've been under minor surveillance
+  since
+  2010. Early on, it was mostly indirect HUMINT and some SIGINT.
+  - i think they were worried that, because of how I used technology,
+    that since it was harder to surveil me, i deserved more attention.
+  - for example, i have always refused to use Dropbox and maintain any
+    connection to cloud storage on my laptops or mobile devices.
+    - why? one reason is that if you're computer is authorized to
+      write to cloud storage, it can become trivial to exfiltrate data
+      from your computer
+  - i think my statements on social media and IRL led them to believe
+    I was a problem moreso than a threat. in fact, most of the people
+    speaking out always knew what was coming. many of these people
+    intentionally maintained a low profile and knew what to avoid
+    saying.  They resisted DHS/FBI Minority Report radicalization
+    operations, which were fairly rampant from 2008-2012. The FBI
+    would identify someone and, via HUMINT, would seek to see if that
+    person could be pushed to terrorist acts. Quickly thereafter, the
+    incident would be paraded around as a victory against
+    terrorism. It really makes you wonder because ...  why do that if
+    there are real victories to be paraded around with terrorism. This
+    practice could be justified in some ways, but is a really sketchy
+    precedent to set.
+- anyways, I always treated technology as though it was inherently
+  insecure at all times. After 2011, if I had anything significantly
+  profitable, i would write it down in analog on pencil and paper.
+  - however, i really never expected to be robbed blind of profit and
+    credit
+  - while being subjected to psychological torture just to be held up
+    as a scapegoat
+  - that's insane. I would never have expected that to happen in
+    america, but it did
+  - and the degree to which the people around me act towards me?
+    - it scares the fuck out of me.
+  - people i know are scared. i can see the concern and fear in their
+    eyes, but thy are afraid of getting marked themselves.
+    - they approach out of concern, but are timid and afraid and do
+      not want extended connection, especially in public.
+  - and you're telling me the government can do all this,
+    - but they can't even fix what happened? why? because they're
+      afraid of getting caught red-handed? If this is provably
+      happening to one of your most patriotic citizens ... wouldn't
+      you try to stop it? Or correct it?
+    - if someone wins a court case for bullying in school or sexual
+      harassment, don't people usually seek to intervene? afterwards,
+      depending on the severity and the certainty, don't people
+      usually step in to help?
+
 {% highlight "ruby" %}
 //
 //          ROFL:ROFL:LOL:ROFL:ROFL
@@ -1312,7 +1433,3 @@ the authority in the War on Terror.
 //      W // _______||_||_________/_/
 //
 {% endhighlight %}
-
-- intellectual property theft via surveillance
-  - if coordinated for political reasons could be incredibly
-    powerful, esp in today's economy

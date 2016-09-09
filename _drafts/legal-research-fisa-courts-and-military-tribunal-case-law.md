@@ -242,12 +242,105 @@ almost all circumstances, you just don't stand a chance.
     protracted suffering after losing her husband, it's making a point
     about bankruptcy technicalities.
 
+# State Action Doctrine
+
+obscure 14th amendment statement that prevents the federal government
+from limiting the rights of citizens in specific ways
+
+- mostly restricts the ways in which contracts and agreements are
+  enforcable when the contractor is the federal government
+  - however, if there is significant proof showing entanglement via
+    some front organization or business or religion, that means that
+    the same restrictions to validity or enforceability of contract
+    apply
+  - therefore if it can be shown that a front organization received
+    payments via federal government or received direction through
+    feds, then it may be shown that the organization is *entangled*
+  - so if CIA pays psychologists to torture US citizens/un-citiznes
+    for GITMO, but uses front organizations or patsies, if it can be
+    shown they are entangled, then sections of those contracts are
+    either null, void or unenforceable
+
+- furthermore, the US Government isn't allowed to entangle itself with
+  religious organizations. depending on the level of interdependency,
+  this could be shown to be highly unethical.
+  - especially if the US is shielding discover of what would otherwise
+    be illegal psychological, neurological or medical experiementation
+
+
+#### [Dandar v Church of Scientology Flag Serv. Org, Inc.](https://casetext.com/case/dandar-v-church-of-scientology-flag-serv-org-6)
+
+this case is a great example of a protracted fight that eventually
+references the 14th amendment for some strange reason
+
+"The Eleventh Circuit has identified three tests for determining
+whether a private person or entity should be considered a state actor:
+'(1) the public function test; (2) the state compulsion test; and (3)
+the nexus/joint action test.'"
+
+
+# [MCA 2006](https://en.wikipedia.org/wiki/Military_Commissions_Act_of_2006)
+
+
+# [MCA 2009](https://en.wikipedia.org/wiki/Military_Commissions_Act_of_2009)
+
+- how did the second law modify the first?
+  - apparently corrected a constitutional challenge to MCA 2006
+    - this addressed a case that failed because it didn't permit
+      detainees to have access to habeas corpus
+    - however courts have ruled in the past that non-citizens do not
+      have a right to habeas corpus.
+      - this would seem to especially hold for purely military
+        detainees
+      - this underscores the fact that "detainees" are domestic, which
+        was news to me in 2016. i never thought that a detainee would
+        originate from america unless that person is a united states
+        citizen. however, it would seem that most detaines actually
+        are citizens or un-citizens stripped of citizenship via NDAA
+- how do these laws 4 military tribunals correspond to NDAA?
+  - the main question here is that the original supreme court
+    challenge that required the 2009 amendment was over habeas corpus,
+    so if non-citizens do not have habeas corpus, then if they were
+    declared non-enemy combatants, that means that they no longer have
+    citizenship.
+    - thus, the original constitutional challenge no longer applies
+  - also, if you lie to congress by assigning detainees false names
+    - which are arabic ... and americans just generally nod in
+      approval when you talk about terrorists with funny foreign names
+      lacking any rights ... which is perhaps the most racist thing i
+      have ever heard
+    - anyways, if the military retains exclusive jurisdiction over
+      these people and lies about their names and convolutes their
+      case history, then those meddlin' senators in congress can't do
+      shit.
+      - furthermore, the few congressmen and senators that actually do
+        know can just throw their hands up and act surprised. no
+        accountability. womp womp.
+
+
+# NDAA 2011
 
 # SDN Specially Designated Nationals
 
-basically, these are lists of spies
+- basically, these are lists of spies or suspected terrorists
+  - can also include front businesses
+- this is intended to limit/constrain their ability to network
+  - however
+
+### SDN questions
+
+- who manages this list of "5000" or so people (OFAC?)
+  - 5000 is the dumbest fucking number i've ever heard
 
 TODO: find the list online, also refer to
+
+
+### OFAC SDN
+
+- [OFAC Overview](http://www.ffiec.gov/bsa_aml_infobase/pages_manual/olm_037.htm)
+- [OFAC Cites Violations in Dealings with Specially Designated Nationals](http://www.lexology.com/library/detail.aspx?g=036eee5f-a753-4b5d-bcdf-7e5ff00fabb5)
+
+# SDN Types
 
 ### What, NO ISIS?!
 
