@@ -878,7 +878,20 @@ ago, business models for startups, and ideas for IP related to
 VR/AR. And ... the government considers people like me a threat? I'm a
 threat?!
 
-FUCK YOU YOU RUINED MY LIFE! What was I supposed to do?! Roll over
+*I SPECIFICALLY AVOIDED VIOLENCE AND ADVOCATION OF VIOLENCE BECAUSE I
+AM A PACIFIST AT HEART AND I KNEW HOW THESE LAWS WOULD BE APPLIED.* If
+you are wise, you will embrace and proclaim pacifism too. This tyranny
+will not hesitate to destroy you, your life, your health, and your
+family. The notion of justice will be a casualty, as will truth and
+property and humanity. They will take these things and desecrate them
+with prejudice and they will do so violently. Do not fall to their
+level. Stand up for yourself and on't waste your own life, but the
+second you take an action that encourages violence or is violent in
+itself, you'll find that they will destroy everything in your life
+with indiscriminate, violent force, all while claiming that you are
+the terrorist.
+
+AND FUCK YOU, YOU RUINED MY LIFE! What was I supposed to do?! Roll over
 like a dog? Grab a shovel and dig my own grave? Turn around and
 inflict the same psychological lacerations upon others, hoping that my
 own pain might be numbed? I want these bastards to acknowledge what
@@ -890,6 +903,8 @@ nature: a mother's compulsion to protect her offspring. I want to know
 who participated in this. Everyone. And I want to know what they did,
 specifically. And maybe not everything, but I want it now. As in, five
 minutes ago was too late!
+
+### You Can Never Take My Dreams!
 
 And hell no, I will never stop writing about it until you cut my
 fingers off! I will never stop speaking about it until you cut my
