@@ -730,6 +730,8 @@ everything is traceable and we can respond to it as early as
 possible. Bacteria a little different than other organisms though
 because they can share circular DNA plasmids.
 
+
+
 The technological options for genomic data science expand with
 expansions of computing power. This is some seriously powerful stuff &
 something I was working on in March and April. If I had managed to
@@ -760,6 +762,8 @@ others instead of using it to their own advantage. While I trust some
 groups in the Western world with such responsibility, I'm not so sure
 that some groups in the global economy would execute that duty
 altruistically.
+
+### What Makes a Good Steward of Future Intellectual Property Holdings?
 
 And its not a joke: we're getting close to a world that might be
 controlled by esoteric groups of corporate conglomerates who act as
@@ -793,6 +797,8 @@ you didn't mean to and it ain't personal, but it gets personal. This
 family of characters simply does not want the wrong things to happen
 with regard to AI & if you get close to that, they'll find you. Like
 Hollywood.  Don't worry, don't call us, we'll call you. The end.
+
+### Weighiing Pros and Cons of IP Distribution Endgame Scenarios
 
 It's very possible that similar families or multinational holdings
 companies might emerge to run things in the pre-Singularity economy of
@@ -843,13 +849,102 @@ would these people ever prevent me from attempting business or
 science, unless ... could it be that they are terrified of any
 success? **I just discussed personal ideas on the endgame of the
 distribution of intellectual property in the 21st economy.** Who the
-fuck says that?! Who thinks about that? Furthermore, my intentions
-were always positive. I only wanted wealth because I saw it as a way
-and means to empower real change for the benefit of others. Not just
-myself. Though I can't lie, I did like the idea of fondue parties,
-champagne, yachts, private islands and disposable helicopters.
-Actually, today, all of that materialistic stuff represents a waste of
-thought, time and energy. I don't want it.
+fuck says that?! Who thinks about that?
+
+Furthermore, my intentions were always positive. If my intentions
+weren't positive, would I have ever thought about how alternate
+distributions of intellectual property might impact mankind? Nope. I
+would be much busier making money, counting money, thinking about how
+to make more money or trying to figure out how to spend it. I only
+wanted wealth because I saw it as a way and means to empower real
+change for the benefit of others. Not just myself. Though I can't lie,
+I did like the idea of fondue parties, champagne, yachts, private
+islands and disposable helicopters.  Actually, today, all of that
+materialistic stuff represents a waste of thought, time and energy. I
+don't want it.
+
+# The War Is For Your Mind. You Are Fighting For Your Soul.
+
+Apparently, the terrorist of the 21st century looks a lot like
+me. *WHAT THE FUCK?!* I write about altruism. I'm completely detached
+from whether I'll obtain profit or credit from anything I think
+of. They've taken everything from me and I've finally figured out that
+I can't do anything with my intelligence or creativity. They budget
+millions of dollars ensuring that I never connect to the people or
+resources that would lead me to success. So I resort to tweeting out
+ideas for revolutionary medical methodologies, mathematical questions,
+links to shitty reflections on questions philosophers answered years
+ago, business models for startups, and ideas for IP related to
+VR/AR. And ... the government considers people like me a threat? I'm a
+threat?!
+
+FUCK YOU YOU RUINED MY LIFE! What was I supposed to do?! Roll over
+like a dog? Grab a shovel and dig my own grave? Turn around and
+inflict the same psychological lacerations upon others, hoping that my
+own pain might be numbed? I want these bastards to acknowledge what
+they did to me. I want to know why. I want it to be public. I want
+them to stop doing it to other people. I want them to use my real
+name. I want to know who got my family to be complicit. I want to know
+what you threatened my mother with to break the strongest link in
+nature: a mother's compulsion to protect her offspring. I want to know
+who participated in this. Everyone. And I want to know what they did,
+specifically. And maybe not everything, but I want it now. As in, five
+minutes ago was too late!
+
+And hell no, I will never stop writing about it until you cut my
+fingers off! I will never stop speaking about it until you cut my
+toungue out! I will never stop thinking until you psychiatrically numb
+me or neurologically castrate me. And I will never stop dreaming until
+I stop sleeping!
+
+And, if accountability is unacceptable for you, that's too bad. You
+want to use me as a scapegoat? Go right ahead. I've already accepted
+my own life as a cost of the progress I seek. There is no person on
+earth who has the same support, the same vision and the same situation
+as I. So it's realistic to think that no other person will be capable
+of standing up with the same odds. So you can be sure that I will risk
+being damned for eternity by being annulled to history or written down
+into the pages of time as the antithesis of everything I every stood
+for before I would ever become a muted martyr or an unknown martyr. A
+muted martyr is just a body in a ditch. A mass grave.. You want to
+scapegoat me to avoid your own culpability & you ask for my life,
+legacy and soul?! *FOR WHAT?!*
+
+What have these people who tortured me done for me? When I think back
+to whatever allegedly happened ... really, what were the intentions of
+these people? I am only here out of the love and compassion of
+millions of people who don't even know my name. They treat me like
+Voldemort, like I'm some kind of sick, twisted shadow of a person who
+must never be named. They punish anyone who even accidentally shows
+compassion or offers friendship to someone in my shoes. What kind of
+world is that? Do you want to raise children in a world like that?
+
+Seriously? The government tells you not only how to think, but who to
+love and who to hate. They'll never tell you why. Anyone who questions
+it should tremble in fear 'til they piss themselves, just to be
+humiliated and ostracized for the smell. In a world that mindlessly
+cheers on the very notion of truth itself, there is no hope for those
+lost souls to know God. Ironically, God will eventually emerge and
+become known, but a world like that descends into chaotic,
+soul-sucking darkness that will envelope everything you know and love,
+including your unborn children.
+
+And that's why I'm begging people to stand up now before it's too
+late. Whether you stand up for freedom, truth and justice today have
+very little impact on the course of events that may or may not take
+place over the next 4 years. However, in the government's zeal to hide
+the truth from you, they have stolen your power to influence the real
+problems, but far worse than that, if you do not raise your voice
+RIGHT NOW, they will have marred your soul for eternity.
+
+They have very recently broken family! They broke the concept of
+family. They are pitting family members against each other and have
+begun deconstructing what I consider perhaps the most important
+concept to all of humanity, except that of God. They are doing this in
+front of our eyes and we cheer it on, like this is some kind of
+game. This isn't a game. There is a war going out there. The war is
+for your mind and the most tragic casuality of this war will be your
+soul.
 
 Whoa. What a sidetrack. Back to hypothetical diagnostic methods using
 NMR and MRI...
