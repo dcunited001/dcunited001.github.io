@@ -891,6 +891,33 @@ itself, you'll find that they will destroy everything in your life
 with indiscriminate, violent force, all while claiming that you are
 the terrorist.
 
+###
+
+What people need is peace through strength. Buddhists profess
+non-violence, but practice martial arts because of how it strenthens
+and expands their mind. Further, tyrants and opportunistic people will
+attack those they perceive as being weak. Therefore, weakness invites
+an opportunity for violence. However, movements lead by people like
+Martin Luther King Jr. and Mahatmas Gandhi would never have grown or
+blossomed if they condoned violence.
+
+Those two movements for civil rights, sovereignty and progress were
+successful precisely because they forced their opponents to question
+their application of force. They forced the brutal to question their
+acts of violence. An eye for an eye makes the whole world go
+blind. Instead Gandhi forced those who could not be reconciled with to
+lash out and, in their own pacifist reaction to it, forced these
+people to realize what they were doing was wrong. That it didn't
+matter what degree of brutality was applied. Gandhi and his movement
+grew through painful cooperative sacrifice, which lead his people to
+feel invested and, in this way, he led them to secure moral authority,
+the higher ground in the minds of men.
+
+And so, our movement needs to identify our own Salt March. What is it
+that
+
+(move the following?)
+
 AND FUCK YOU, YOU RUINED MY LIFE! What was I supposed to do?! Roll over
 like a dog? Grab a shovel and dig my own grave? Turn around and
 inflict the same psychological lacerations upon others, hoping that my
