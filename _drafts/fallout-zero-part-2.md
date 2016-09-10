@@ -1,24 +1,19 @@
 ---
-title: "Fallout Zero: Surviving OPM, Sepsis, and the Neo-Bolshevik Metamorphosis"
+title: "Fallout Zero: "
 author:
   name: "David Conner"
 tags: "communism politics economics"
 categories: blog
-headline: "They out there fuckin Lady Liberty down by the harbor and everyone can hear her scream!"
+headline: ""
 excerpt: "
-That's right, they out there fuckin' Lady Libery down by the harbor
-and everyone in Manhattan can hear that bitch screaming, but because
-she's got a bag on her head and she's asphixating from the gag in her
-throat, it's OK. It's OK folks. She probably likes it. Lady Liberty's
-turnin blue in the face and somebody's running a train on her and
-everyone knows it, but ... it's OK?
+
 "
 ---
 
-I might have figured
-out what was happening to me or what would happen to me. What's so
-frustrating is these programs had zero impact on how I behaved, which
-makes me think I was more useful to these people as *RESEARCH*, since
+I might have figured out what was happening to me or what would happen
+to me. What's so frustrating is these programs had zero impact on how
+I behaved, which makes me think I was more useful to these people as
+*RESEARCH*, since
 2010. I can find zero other explanation for these programs. They only
 damaged me....
 
@@ -454,11 +449,10 @@ This is kind of what makes me feel justified in continued action to
 push someone to admit what happened to me. There's no sunshine and
 rainbows coming out this unicorn's butt. Their endgame consisted of
 incapacitated me, however it happened. In 2013, I knowingly convinced
-them that I was suicidal and that they could just push me to
-suicide. LMAO. Yeh, that was fucked up but encouraged them to produce
-volumes of evidence doing exactly what I had expected they were doing
-in my life all along: psychologically torturing me to push me to
-suicide.
+them that I was suicidal and that they could just push me to suicide.
+LMAO. Yeh, that was fucked up but encouraged them to produce volumes
+of evidence doing exactly what I had expected they were doing in my
+life all along: psychologically torturing me to push me to suicide.
 
 # Ye Olde ROFL Copter
 
@@ -615,7 +609,7 @@ future, when such technology must inevitably become public
 plan on handling that scenario in the future? ... By collapsing the
 system and initiating some tyrant's totalitarian wet drean?
 
-#### Neurological Programs and Leveraging the Medical System to Attack Belief Systems
+### Neurological Programs and Leveraging the Medical System to Attack Belief Systems
 
 #### (1) We've exponentiated our capacity for neurological mapping & manipulation.
 
@@ -663,6 +657,10 @@ people, it's all real. It's just as real as though it has actually
 happened! This is all hypothetical of course, but science fiction's a
 great way to stay on top of this stuff.
 
+### A Diagnosis For Political Dissidents
+
+#### "Borderline" Personality Disorder
+
 Who can believe what we see on Social Media or anywhere for that
 matter. Newspapers are bankrupt and everything digital is ephemeral,
 so whenever "this" all goes down, whatever "this" is, there will be no
@@ -671,18 +669,196 @@ trace... Obama wants to leverage the CDC to attack people who have
 Now, remember, the latter was just added to the DSM a year or
 so. *THEY CREATED A DIAGNOSIS FOR POLITICAL DISSiDENTS!*
 
+
+
 ... How much more Soviet-style and Cuban-style abuse of the "medical"
 and "psychiatric" institutions do you need before you realize what's
 going on here? Do you want to post a doctor for every neighborhood?
 *THEY CHANGED THE DSM TO CREATE A DIAGNOSIS FOR POLITICAL DISSiDENTS!*
 Who has the influence to do that?
 
-Should we wait for these people to add a subtype of schizophrenia for
-non-schizo patients, just like the Soviets did? I've gotta tell you,
-with data-driven medicene and with the increasing power to map the
-mind, that's just not going to work anymore! If you try to make up
-psychiatric labels to harrass people, it's going to become real clear
-as soon as you run data science on their MRI scans:
+Should we wait for these people to add
+[a subtype of *schizophrenia* for non-schizo dissidents](https://en.wikipedia.org/wiki/Sluggish_schizophrenia),
+just like the Soviets did
+[with their abuses of psychiatry](https://en.wikipedia.org/wiki/Political_abuse_of_psychiatry_in_the_Soviet_Union)?
+I'm fairly confident that psychiatry has been abused the world over
+for politcal reasons with varying degrees of frequency, awareness and
+acceptance. And I've gotta tell you, with data-driven medicene and
+with the increasing power to map the mind, a tyrannical government has
+orders of magnitude more capability to do this.
+
+It's frightening, but the truth is that's just not going to work
+anymore! For as much as the science empowers and tempts these would-be
+tyrants, it also begins to empower their victims as well. In the end,
+data analysis will help people, as long as we don't let a totalitarian
+government stamp out all resistence and seize total control of
+communication networks, information & medicine.
+
+That's right: these power hungry tyrants will be tempted and they'll
+be caught red-handed. This is part of what we're seeing: the science
+expands their capabilities & ethically questionable moves are made
+without full understanding of how the future will enable us to track
+the data back and learn what really happened. We've seen it with
+disparity in ticketing and local law enforcement in places like
+Ferguson, where authorities didn't realize that, yeh, you can enforce
+laws like that, but three decades later, that data's going to be
+accessible!
+
+I'm making this known now, so that we cease it and avoid it
+altogether! If you poison people with GMO's to induce an antibody
+allergy, antibodies are mappable. There's an "antinome" for
+understanding the extent and structures of antibodies formed in
+people's bodies that act as a record of poisons or GMO organisms they
+might have been exposed to. Sean Parker is funding research on it. So,
+you better not do that or we're going to find out!
+
+Furthermore, if you deploy GMO's microbes on people to alter the
+function of their intestinal flora, without their consent, then we're
+going to conduct genomic analysis on that, too. So, we'll look at
+evolutionary trees and see that, hmmmm ... looks like these people all
+have been exposed to bacteria that couldn't have possibly evolved in
+nature because there's no traceable tree of mutations that leads from
+the naturally occuring bacteria to the GMO bacteria. BUSTED! ... if
+that has happened.
+
+This is also concerning because it could be an attack vector for
+technological terrorists, which is why people might claim I shouldn't
+even talk about it. WHAT?! That's actually exactly why we should
+become aware of it as early as possible by geologically tagging
+samples of gut bacteria and other infections. So that if it happens,
+everything is traceable and we can respond to it as early as
+possible. Bacteria a little different than other organisms though
+because they can share circular DNA plasmids.
+
+The technological options for genomic data science expand with
+expansions of computing power. This is some seriously powerful stuff &
+something I was working on in March and April. If I had managed to
+complete what I had designed -- the math, the software and basic ideas
+for hardware based on these ideas, which was a Bio Processing Unit
+(BPU) -- and if these ideas were truly novel, then I swear to God,
+it'd be worth winning a Nobel Prize. It's like genomic data science on
+steroids and, honestly, it might not actually be possible. Who knows?
+
+I don't. I am specifically not allowed "intellectual stimulation." My
+family freaks out when I try to take a coursera class or watch
+lectures on Math and Plasma Physics. Yeh, because I actually am
+delusional enough to think I might make a difference in fusion someday
+and I'm not ashamed to admit it, however crazy the world wants to act
+like I am. In fact, I know I could make a difference in such a field,
+if only indirectly.
+
+If what our government is mercilessly squashing in America is
+curiosity and innovation driven by a lust for knowledge and
+self-actualization, then what the fuck are we doing to our economy as
+we step foot into a 21st century!? I cannot appropriately emphasize
+how the 21st century economy will be based on intellectual property
+and that, while it might be unfair for a segment of the global economy
+to have an insurmountable advantage there, I'd rather it be us if it's
+going to be anyone. That's because I know that someone truly worthy of
+being a steward of IP like that would be willing to share it with all
+others instead of using it to their own advantage. While I trust some
+groups in the Western world with such responsibility, I'm not so sure
+that some groups in the global economy would execute that duty
+altruistically.
+
+And its not a joke: we're getting close to a world that might be
+controlled by esoteric groups of corporate conglomerates who act as
+gatekeepers of intellectual property for specific industries, where it
+would be impossible to advance in some technology without their
+blessing. Depending on how they leverage influence like that, such a
+world could be better off for it or certainly doomed, were greedy
+self-interest to delude whoever holds the keys to genomic science or
+nano science.
+
+This isn't actually a novel idea. Nope, it's a novel idea! Literally:
+in William Gibson's brilliant Neuromancer -- one of the best books
+I've ever read whence the Matrix was a major departure -- the
+Tessier-Ashpool family maintains a monopoly over intellectual property
+related to artifical intelligence. I don't think I'm throwing out
+spoilers here. This family has mostly withdrawn from society and their
+duty is an unwavering, merciless suppression of any possibility rogue
+AI tech might emerge and take root in the world. That's a nightmare
+scenerio in many sci-fi books.
+
+This family runs the "Turing Registry" which has it's own secret
+police, kinda. Think Rothschilds, but for AI instead of banking. In
+this world, if you ever came close to someone connected to the
+Tessier-Ashpools, it's either because you're very fortunate and
+well-respected or because you should disappear without telling anyone
+and spend the rest of your life in a secret underground bunker, amidst
+isolated seclusion. They just don't play and, my memory fails me
+because I read Neuromancer three years ago and I have an overactive
+imagination, but they're not exactly evil for it. They don't care if
+you didn't mean to and it ain't personal, but it gets personal. This
+family of characters simply does not want the wrong things to happen
+with regard to AI & if you get close to that, they'll find you. Like
+Hollywood.  Don't worry, don't call us, we'll call you. The end.
+
+It's very possible that similar families or multinational holdings
+companies might emerge to run things in the pre-Singularity economy of
+the 21st century. They would manage equity and intellectual property
+with regard to specific companies. This is actually the endgame for
+the global economy, barring civilizational collapse or a breakdown of
+international agreements. The seeds of this trend can be seen in
+holdings companies today for patents, *some* of whom you might call
+patent trolls.
+
+There is some set of companies that own and license a ton of patents
+out there. These companies and their holdings represent a distribution
+of IP. There are some distributions of IP which would be very
+beneficial or very detrimental for the welfare of the common person,
+for safety in regard to technological evolution, for equitable "fair"
+economic scenarios, etc. One needs to consider the present state of
+the system, including who owns what, along with the technological
+innovations which are likely to happen, the codification of those
+innovations into patents, the changing value of past/present/future
+patents, as well as future changes in the system. So this global
+economic system can evolve towards one which is fair and beneficial or
+one where greed and lust for power overtake such fragile notions of
+peace and equitable prosperity.
+
+### So, You're Telling Me...
+
+TODO: 3rd world meme
+
+So when people say "Oh he's just full of excuses and never built
+anything himself" or "He's not really that smart/intelligent" or "He
+thinks he knows how to run a company, but he has no idea what he's
+doing" or "He'll never amount to anything" ... For those detractors, I
+definitely accept that many of your critiques contain more truth than
+I'd like. If you're statement is true, thank you for your criticism. I
+hope you mention it to me, instead of just others. If the intent of
+your criticism is positive, again, thank you. I'd love to hear what
+you have to say. How am I supposed to progress if I don't get
+feedback. However, if your intent is negative or you're just trying to
+psyche me out, then please go fuck yourself. Keep in mind that I
+didn't get an education and the government has a unathorized budget
+with my name on it. And, in spite of that, I managed to not succumb to
+their projected delusion, constant gaslighting, subversion/coercion of
+my friends and family, or their constant distractions. In spite of all
+that, I never gave up on myself or stopped believing in myself.
+
+I have a lot to learn and maybe I'll never experience victory, but why
+would these people ever prevent me from attempting business or
+science, unless ... could it be that they are terrified of any
+success? **I just discussed personal ideas on the endgame of the
+distribution of intellectual property in the 21st economy.** Who the
+fuck says that?! Who thinks about that? Furthermore, my intentions
+were always positive. I only wanted wealth because I saw it as a way
+and means to empower real change for the benefit of others. Not just
+myself. Though I can't lie, I did like the idea of fondue parties,
+champagne, yachts, private islands and disposable helicopters.
+Actually, today, all of that materialistic stuff represents a waste of
+thought, time and energy. I don't want it.
+
+Whoa. What a sidetrack. Back to hypothetical diagnostic methods using
+NMR and MRI...
+
+### Neural Bitemark Analysis - Data Science on Nuclear Medicine
+
+If you try to make up psychiatric labels to harrass people, it's going
+to become real clear as soon as you run data science on their MRI
+scans:
 
 > This guy just don't have a connectopathy like scizophrenia.
 > Nope. This guy's neural networks show that he has autism. This guy's
@@ -692,8 +868,6 @@ as soon as you run data science on their MRI scans:
 > that ... Jesus Christ! They chemically castrated his brain! Either
 > that or he ate the brown acid at Woodstock. And it might have
 > happened between the ages of 20 through 25.
-
-### Neural Bitemark Analysis - Data Science on Nuclear Medicine
 
 It's like reading tree rings, least before your brain and mind stop
 developing. But even afterwards because your brain will display

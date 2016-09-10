@@ -182,7 +182,7 @@ AGENTS AND DEFENSE INDUSTRY EMPLOYEES*.
 
 #### And Don't Fucking Write About It If You Didn't Reblog It
 
-**Also known as "Regulations" ...**
+Also known as "Regulations"
 
 Meanwhile, this particular faction is has slammed the Overton Window
 shut and they're pushing many policies which are going to wreck the
