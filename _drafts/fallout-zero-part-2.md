@@ -22,9 +22,13 @@ makes me think I was more useful to these people as *RESEARCH*, since
 2010. I can find zero other explanation for these programs. They only
 damaged me....
 
+- absolutely not a deterrent
+
 - went without sex for so long...
   - sex as a central theme of their torture (for me anyways)
 
+- what is detention? really? you don't remember high school?
+  - i think i got it once.
 - what basically happens is ... "detention"
   - you're not allowed to "play" until you comply
   - you're not allowed to "win" until you comply

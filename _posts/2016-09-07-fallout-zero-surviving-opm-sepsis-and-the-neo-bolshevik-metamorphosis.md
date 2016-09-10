@@ -23,61 +23,61 @@ coming...
 
 # [America's In A Cultural Crisis](#americas-in-a-cultural-crisis)
 
-### [What Is Socialism Without An Economy?](#what-is-socialism-without-an-economy)
+### &#x2605; [What Is Socialism Without An Economy?](#what-is-socialism-without-an-economy)
 
 # [What is a Bolo, Trebek!](#what-is-a-bolo-trebek)
 
-### [We Weren't Intended To Have an Opportunity To React](#we-werent-intended-to-have-an-opportunity-to-react)
+### &#x2605; [We Weren't Intended To Have an Opportunity To React](#we-werent-intended-to-have-an-opportunity-to-react)
 
-### [It's a Cockfight, But...](its-a-cockfight)
+### &#x2605; [It's a Cockfight, But...](its-a-cockfight)
 
-### [Which Chicken Would You Bet On](#which-chicken-would-you-bet-on)
+### &#x2605; [Which Chicken Would You Bet On](#which-chicken-would-you-bet-on)
 
-### [What Overton Window?](#what-overton-window)
+### &#x2605; [What Overton Window?](#what-overton-window)
 
-### [Fallout Zero: A Reality Show from Bethesda](#fallout-zero-a-reality-show-from-bethesda)
+### &#x2605; [Fallout Zero: A Reality Show from Bethesda](#fallout-zero-a-reality-show-from-bethesda)
 
 # [America has FOSO](#america-has-foso)
 
-### [Fear of Speaking Out](#fear-of-speaking-out)
+### &#x2605; [Fear of Speaking Out](#fear-of-speaking-out)
 
 # [How Do We Fix This?](#how-do-we-fix-this)
 
-### [Stand Up For Your Rights!](#stand-up-for-your-rights)
+### &#x2605; [Stand Up For Your Rights!](#stand-up-for-your-rights)
 
-### [Beware the Weaponized Self-Interest of Others](#beware-the-weaponized-self-interest-of-others)
+### &#x2605; [Beware the Weaponized Self-Interest of Others](#beware-the-weaponized-self-interest-of-others)
 
-### [Study the Situation in East Germany](#study-the-situation-in-east-germany)
+### &#x2605; [Study the Situation in East Germany](#study-the-situation-in-east-germany)
 
-### [Above All Else, The American Economy](#above-all-else-the-american-economy)
+### &#x2605; [Above All Else, The American Economy](#above-all-else-the-american-economy)
 
-### [Intellectual Property is the Key](#intellectual-property-is-the-key)
+### &#x2605; [Intellectual Property is the Key](#intellectual-property-is-the-key)
 
-### [Stand Up for International Cooperation and Rule of Law](#stand-up-for-international-cooperation-and-rule-of-law)
+### &#x2605; [Stand Up for International Cooperation and Rule of Law](#stand-up-for-international-cooperation-and-rule-of-law)
 
-### [External Interests Never Accurately Represent Internal Interests](#external-interests-never-accurately-represent-internal-interests)
+### &#x2605; [External Interests Never Accurately Represent Internal Interests](#external-interests-never-accurately-represent-internal-interests)
 
-### [If You Knowingly Aid the Enemy Right Now, You Are A Traitor](#if-you-knowingly-aid-the-enemy-right-now-you-are-a-traitor)
+### &#x2605; [If You Knowingly Aid the Enemy Right Now, You Are A Traitor](#if-you-knowingly-aid-the-enemy-right-now-you-are-a-traitor)
 
-### [Americans' Declawed](#americans-declawed-for-externally-motivated-domination)
+### &#x2605; [Americans' Declawed](#americans-declawed-for-externally-motivated-domination)
 
-### [Racism Is A Lot Like Polio](#racism-is-a-lot-like-polio)
+### &#x2605; [Racism Is A Lot Like Polio](#racism-is-a-lot-like-polio)
 
-### [If You Advocate Racism...](#if-you-advocate-racism)
+### &#x2605; [If You Advocate Racism...](#if-you-advocate-racism)
 
-### [For the Social Justice Warriors...](#for-the-social-justice-warriors)
+### &#x2605; [For the Social Justice Warriors...](#for-the-social-justice-warriors)
 
-### [Were You Standing Up For Someone? Or Your Own Agenda?](#were-you-standing-up-for-someone)
+### &#x2605; [Were You Standing Up For Someone? Or Your Own Agenda?](#were-you-standing-up-for-someone)
 
-### [Open Up the Debate and the Overton Window](#open-up-the-debate-and-the-overton-window)
+### &#x2605; [Open Up the Debate and the Overton Window](#open-up-the-debate-and-the-overton-window)
 
 # [$15 Minimum Wage?](#15-dollar-minimum-wage)
 
-### [Why Should A Sixteen Year-Old Dropout Outsave A Teacher?](#why-should-a-sixteen-year-old-dropout-outsave-a-teacher)
+### &#x2605; [Why Should A Sixteen Year-Old Dropout Outsave A Teacher?](#why-should-a-sixteen-year-old-dropout-outsave-a-teacher)
 
-### [Our Economic Pain is Driven By Out of Control Prices](#our-economic-pain-is-driven-by-out-of-control-prices)
+### &#x2605; [Our Economic Pain is Driven By Out of Control Prices](#our-economic-pain-is-driven-by-out-of-control-prices)
 
-### [Small Businesses Are Already Strained to the Breaking Point](#small-businesses-are-already-strained-to-the-breaking-point)
+### &#x2605; [Small Businesses Are Already Strained to the Breaking Point](#small-businesses-are-already-strained-to-the-breaking-point)
 
 Basically, we're trying to avert what is a cross between AIDS and
 neo-bolshevism from taking over and destroying America. That, and the
@@ -178,7 +178,11 @@ AGENTS AND DEFENSE INDUSTRY EMPLOYEES*.
 
 ### [What Overton Window?](#what-overton-window)
 
-#### You Can Think About What We Tell You To... And Don't Fucking Write About It If You Didn't Reblog It
+#### You Can Think About What We Tell You To...
+
+#### And Don't Fucking Write About It If You Didn't Reblog It
+
+**Also known as "Regulations" ...**
 
 Meanwhile, this particular faction is has slammed the Overton Window
 shut and they're pushing many policies which are going to wreck the
@@ -617,6 +621,7 @@ minimum wage
 
 # Part Two: [A Little Psychological Trauma Never Leaves A Mark]()
 
-[Leave No Mark](), the ICRC report I wish I'd read a long time ago. If
-I'd heard that phrase, I might have "gotten" it. I'll discuss that
-more in the second part.
+[Leave No Marks](https://insomniadiary.wordpress.com/2014/01/18/icrc-report-on-the-treatment-of-fourteen-high-value-detainees-in-cia-custody/),
+the ICRC report I wish I'd seen a long time ago. If so, this whole
+thing might have been a deterrent. If I'd heard that phrase, I might
+have "gotten" it. I'll discuss that more in the second part.
