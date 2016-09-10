@@ -1,5 +1,5 @@
 ---
-title: "Sepsis, the OPM Fallout and Neo-Bolshevik Plague in America"
+title: "Sepsis, the OPM Fallout and Neo-Bolshevik Movement in America"
 author:
   name: "David Conner"
 tags: "communism politics economics"
@@ -15,7 +15,9 @@ everyone knows it, but ... it's OK?
 "
 ---
 
-What's going on in America right now?
+What's going on in America right now? I have no idea, but it's the
+nonchalance that scares me the most. This post rambles from place to
+place.
 
 Basically, we're trying to avert what is a cross between AIDS and
 neo-bolshevism from taking over and destroying America. That, and the
@@ -368,6 +370,8 @@ seek comfort with a group of people that would make them more racist?
 How does that help racial and ethnic issues at all? How were other
 people in the situation involved?
 
+### Were You Standing Up For Someone? Or Your Personal Agenda?
+
 One problem I have with social justice warriors, in my personal
 experiences, they **used** racism to advance some other agenda, often
 political or just to help isolate me at work. If I could prove that
@@ -407,15 +411,54 @@ effort to distract those who would try to stop it and (2) some of
 the goals of the "NWO" aren't actually that bad, when taken in the
 proper context. Anyways...... moving on.
 
-### Correct Economic Problems Before They Lead to Irreversible Consequences
+# $15 Minimum Wage?
 
-Controlling the right arguments basically gives these neo-Bolsheviks
-carte blanche to win any debate. Doing so allows the neo-Bolsheviks to
-motivate Americans to fanatically pursue policies which are actually
-detrimental to our long-term interests. $15 minimum wage is a great
-example of a policy with a particular value (fifteen dollars) that
-would extinguish small business and trigger downstream consequences in
-the American economy.
+Controlling considered statements and acceptable conclusions for
+arguments basically gives these neo-Bolsheviks carte blanche to win
+any debate. Doing so allows them to motivate Americans to fanatically
+pursue policies which are actually detrimental to our long-term
+interests. $15 minimum wage is a great example of a policy with a
+particular value (fifteen dollars) that would extinguish small
+business and trigger downstream consequences in the American economy.
+
+At my first real job, I started as an intern making minimum wage when
+it was less than `$7.00/hr`. I didn't blink at the pay rate because I
+knew the experience far outweighed it. And I've learned there's wisdom
+in achieving goals like higher payrates a step at a time. If I had
+dramatically increased my pay rate or salary and topped out, what
+would keep me working for self-improvement?
+
+### Why Should A Sixteen Year Old Dropout Be Able to Outsave A Teacher?
+
+If a 30 year old teacher with student loans makes as much money as a
+sixteen year-old who drops out to work sixty hours a week, something
+is very wrong with the economy! Yet, a teacher works more than `500
+hrs/quarter` and perhaps up to `600 hrs`. For an average salary of
+around `$45,000`. A 16 year-old could drop out and work full-time for
+`$15/hr` and `500 hrs/quarter` to make around `$30,000`, but it's
+conceiveable that anyone in the workforce could make around `$40,000`
+by working about `60 hrs/wk`. What motivates a disinterested student
+to stay in school? What motivates a student to go to college when the
+benefits don't outweigh the costs?
+
+### Americans Face Problems Driven By Out of Control Prices
+
+The real economic problem here isn't that the minimum wage is too low.
+It's that prices and costs are way too high for many products, but
+especially the services Americans have come to know and love. How many
+monthly bills do you have now? How many did you have five years ago?
+If you can't answer that question because you weren't working at that
+age, then you honestly don't have much to complain about. Sorry to be
+an asshole, but that's life.
+
+How many monthly bills were you paying ten years ago? Twenty years? If
+you were working forty or sixty hours a week at minimum wage, what
+percentage were your monthly services, compared to your wages after
+taxes? Today, people making minimum wages will have almost nothing
+left after rent, phone, car, insurance, health, internet, tv, online
+subscriptions, probation fees, electric, heat, and others, but how
+many of those bills existed in the Nineties? The Eighties? The
+Sixties?
 
 However, raising the minimum wage is just a fact of life. Fifteen
 Dollars? Hell fucking no that is borderline criminal, negligent,
@@ -428,6 +471,8 @@ and you go out there and win that game, son." and then smackin him on
 the ass on the way out of the office. If that's his doctor's idea of
 treatment, that guy needs a new one.
 
+### It Will Strain Many Small Businesses to the Breaking Point
+
 With all due respect to Bernie Sanders as someone who truly cares
 about issues that are hurting millions of American's out there, the
 $15 minimum wage was a social media hack to gain support and quickly
@@ -437,25 +482,138 @@ away all of the jobs those people had, all while destroying options
 for businesses to structure incentivization and the motivation for
 people to go to college. What's the answer, then? Lower the costs and
 prices of services and products in America that leave people in
-poverty. Why doesn't welfare help reduce rates of poverty?  That's a
+poverty. Why doesn't welfare help reduce rates of poverty? That's a
 really good question to ask if you are in favor of a major increase to
 minimum wage
 
 # How Could This Happen Here?
 
-Whoever is doing this to America, they're really fucking up a lot of
-people's lives and causing a lot of damage, as far as I can see. And
-it's being done in such a way that lashes out at anyone who dares
-question things. Social media is a distraction at best, at this point!
-CNN, MSNBC, ABC, CBS, NBC and sometimes even Fox ... it looks like
-anyone who asks real questions loses their job. BTW, I'm not so
-predispositioned to believe the right is always right. However, in our
-country's current nightmare, they are right on it. Yet, they still
-aren't asking many more questions than anyone else.
+Every day I think I've solved the puzzle to the American media circus,
+I find out there's more. I'm starting to feel tired and I don't really
+know why. I've felt like I've been surreptitiously medicated off and
+on for a long time, but I don't think that's it now. I really don't
+know what's wrong, but every day I discover something new, but
+terrible.
 
-### Social Media is an Echo Chamber
+The first twenty years of my life, I was intentionally sheltered, so
+that I wouldn't know what to want in life and I didn't develop. The
+next ten years was rough. I was passionate about my rights and other
+issues, so I wanted to stand up for them, but no one really clued me
+in. So the isolation from license suspensions gave way to outright
+psychological torture with a budget. Now I'm worried that something's
+really wrong with my health, but no one cares. Every encounter I have
+with the people closest to me always tends towards negative and I am
+never permitted to have the experiences I need to develop, as someone
+with Aspergers who missed out for the first two decades. Then, I'm
+made to feel like it's my fault and it's really not. And they
+deconstructed my psychology, to use it against me.
 
-#### and Somebody Handed Out Megaphones to the Retarded Parrots
+*What Hippocratic Oath?!*
+
+###
+
+For so long, no one would listen to me. I only pieced it together when
+I realized how many psychological and sociological variables needed to
+be tightly controlled to create this perfect storm and then imagined
+how unlikely that would be. Never allowed to have specific types of
+experiences; always surrounded by people who mislead me in very cruel
+ways; always led to believe it was my fault; never given so much as a
+pat on the back. Mostly, everyone around me knew and if I was lucky
+they were nice, but it's like these assholes gamified it! They made
+workplace mobbing and general bullying into a game where if you didn't
+score enough points by publicly invoking emotional pain, you might be
+next! It's so fucking sick and now it's undeniably rampant at a time
+when the US is closer than ever to being caught. My experience seems
+to be rare. Somewhere between one in a million or one in a thousand,
+but it's amazing how, even though I fled from city to city, the people
+who coordinated this? THEY WERE ALWAYS THERE WAITING. It couldn't have
+been that rare.
+
+Then, when I blogged about all the workplace bullying and mobbing
+techniques they used on me, my friends and family jumped down my
+throat! Writing about it was the only thing that helped me move on
+because I no longer had to waste my breath talking about it for hours,
+just to have the friends who listened abruptly become aloof. And
+that's part of it: the time I spent ruminating on it or talking about
+it to other people! GODDAMIT! People I know who were involved they
+would let me waste my breath, completely aware of what was happening,
+just to drain my time, as if they got points for riling me up.
+
+#### *Those who were complicit* who would listen could only say:
+
+#### &#x2605; Just ignore it next time...
+
+#### &#x2605; Oh, you're just paranoid!
+
+#### &#x2605; I think something is wrong with you!
+
+#### &#x2605; Just forget about it. Don't play their games!
+
+#### &#x2605; If it happens more than once, it's you, silly!
+
+No one believed me. When I wrote all the specific and general things
+these people did to me, I could simply point to that blog. I wrote
+17,000 words in Feb 2015. Instantly, those people who were complicit?
+They jumped down my throat, saying "David, aren't you trying to get a
+job?! You'll never get a job! DAVID, YOU HAVE TO DELETE THAT!"
+
+Turns out, it's impossible for those exact people to not know. I'm
+in the middle of writing some pieces on how everything affected my
+psychology and sociology. In particular, I can show how those around
+me chose the wrong way to handle my issues throughout my entire life,
+but the first 20 years? That's forgiveable. These last five years?
+That's going to be a lot harder, but I know they wouldn't do it if
+they weren't forced to.
+
+The reason they wanted me to delete it? I basically wrote a handbook
+for the occult psychology used for CIA torture programs. This is
+seriously dark shit, but not much worse than what you see in 48 Laws
+of Power. Some of what I wrote was far more concise and complete
+documentation than anything else out there. People have insinuated
+that information like my writing is classified and that even my
+memories could be classified because I am one of the few people
+resilient enough to withstand this stuff without committing suicide or
+whatever. I don't know what happens to the people that go through
+this.
+
+### These Sadistic Sociopaths Had A Budget!
+
+Even though I have PTSD, I'm treated as though if someone undid the
+negative things they did to screw with me, that it would be
+counterproductive to the way they've spent their funds. Like speaking
+to a therapist that might actually help me would undo years of work &
+risk, not to mention millions in budget. Then they gaslight me to make
+me feel like I'm crazy and I've been jerked around so much, there's
+almost nothing left. If I work somewhere, there has to be someone
+there who's approved to be my "handler" and this person effectively
+mismanages me into failure. If I managed to get a job where there
+wasn't a handler, I fill out my I-9 form, DHS is immediately notified
+and people in my destination receive *Community Notifications*, which
+is a term I've heard aloud several times, early on in the workplace. I
+thought I was tuned in to the right information and stayed clued in to
+these potential rights abuses, but nothing's farther from the truth!
+Every thing makes more sense looking back. Now I see the key phrases
+and I can place the the procedures and remember the acronyms, almost
+eidetically.
+
+### This Psychological Torture Is Everywhere Now and It's Part of Something Else
+
+Whatever happened, it's increased exponentially within the past three
+years and year. I wish I could leave this soul-sucking Hell hole. It's
+everywhere now and it's part of something bigger. Whoever is doing
+this to America, they're really fucking up a lot of people's lives and
+causing a lot of damage, as far as I can see. And it's being done in
+such a way that lashes out at anyone who dares question things. Social
+media is a distraction at best, at this point!  CNN, MSNBC, ABC, CBS,
+NBC and sometimes even Fox ... it looks like anyone who asks real
+questions loses their job. BTW, I'm not so predispositioned to believe
+the right is always right. However, in our country's current
+nightmare, they are right on it. Yet, they still aren't asking many
+more questions than anyone else.
+
+### Social Media Is Nothing More Than An Echo Chamber
+
+#### And Somebody Handed Out Megaphones to the Retarded Parrots
 
 Thanks a lot, by the way. For paying out SEO and Social Media
 optimization to basically hand all these idiots under foreign
@@ -746,15 +904,13 @@ suicide.
 
 # Ye Olde ROFL Copter
 
-...
-
-#### Other endgames include: subdued and gagged through coercion, complete subversion, suicide, "suicide", auto accident, mental incapacitation via psychological means, mental incapacitation through neurological or pharmaceutical means, some other physical incapacitation, cancer, death in general...
-
 That observation, as well as many others things I've seen. "They"
 never, ever had a very nice endgame planned. Again, whoever "they" is
 ... there are several factions involved in this, at odds with each
-other. Notice the attractiveness of those options above. They sound
+other. Notice the attractiveness of those options below. They sound
 super fun don't they?
+
+#### Other endgames include: subdued and gagged through coercion, complete subversion, suicide, "suicide", auto accident, mental incapacitation via psychological means, mental incapacitation through neurological or pharmaceutical means, some other physical incapacitation, cancer, death in general...
 
 None of them sound appealing to someone who earnestly believes that,
 over the course of a decade, he got mugged on a weekly basis for a
@@ -763,7 +919,7 @@ anonymously contributed to society in a myriad of ways via some
 serendipitous distributed inellectual property attack and hasn't
 earned a dollar for any of it. Sorry. None of those work.
 
-### Have You Tried ... ?
+### So Have You Tried ... ?
 
 > You should try .... hmmmm gotta think real hard about this ... have
 > you tried fucking fixing what you broke? No?
@@ -903,23 +1059,15 @@ system and initiating some tyrant's totalitarian wet drean?
 
 #### Neurological Programs and Leveraging the Medical System to Attack Belief Systems
 
-#### (1) We've exponentiated our capacity for neurological mapping & manipulation
+#### (1) We've exponentiated our capacity for neurological mapping & manipulation.
 
-#### (2) There are rumors about leveraging the CDC to "medicate" beliefs
+#### (2) There are rumors about leveraging the CDC to "medicate" beliefs.
 
-#### (3) With greater neurological prowess and greater understanding
- of the nature of information, there will be a tendancy to view
- problems related to information & beliefs as actually being medical in
- nature, since medicine would have the ability to "treat" a person by
- adding or removing memories
+#### (3) With greater neurological prowess and greater understanding of the nature of information, there will be a tendancy to view problems related to information & beliefs as actually being medical in nature, since medicine would have the ability to "treat" a person by adding or removing memories.
 
-#### (4) We've seen that the CDC has grabbed more and more powers in
- this regard to attack diseases. If someone is planning to repurpose
- the CDC to be used in such a way, we would see lobbyists and
- congressmen pushing for extra powers to be given to the CDC.
+#### (4) We've seen that the CDC has grabbed more and more powers in this regard to attack diseases. If someone is planning to repurpose the CDC to be used in such a way, we would see lobbyists and congressmen pushing for extra powers to be given to the CDC.
 
-#### (5) The next step is the legal redefinition of belief systems as a disease.
- and they will utilize terrorism to justify this.
+#### (5) The next step is the legal redefinition of belief systems as a disease and they will utilize terrorism to justify this.
 
 It's important to note that nationalizing medicine is required for
 communism for a plethora of reasons. Firstmost, it promises the lower
@@ -1092,17 +1240,17 @@ or had an "accident."
 
 ###
 
-I would have cooperated with the government in an investigation. *THERE
-ARE NO CIRCUMSTANCES UNDER WHICH I EVER HAVE BEEN PSYCHOLOGICALLY
-TORTURED*. They spent millions on this shit and I'm not joking.
-Considering I've been under a fucking microscope, I thought I was
-being fairly cooperative and that contacting a low-level FBI agent or
-making digital record of this was one of the worst things I could
-do. I thought that, at best, it'd lead to me getting harmed.
-Furthermore, according to memories, which are on par in reliability
-with the same memories that seem to have gotten me in trouble, much of
-this was part of ... some complicated thing with many aspects and
-objectives.
+I would have cooperated with the government in an
+investigation. *THERE ARE NO CIRCUMSTANCES UNDER WHICH I EVER SHOULD
+HAVE BEEN PSYCHOLOGICALLY TORTURED*. They spent millions on this shit
+and I'm not joking.  Considering I've been under a fucking microscope,
+I thought I was being fairly cooperative and that contacting a
+low-level FBI agent or making digital record of this was one of the
+worst things I could do. I thought that, at best, it'd lead to me
+getting harmed.  Furthermore, according to memories, which are on par
+in reliability with the same memories that seem to have gotten me in
+trouble, much of this was part of ... some complicated thing with many
+aspects and objectives.
 
 Basically ... well actually I can't really mention much of anything,
 but I sure as hell wish that these pissants would piss off and move

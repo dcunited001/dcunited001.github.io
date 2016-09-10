@@ -16,6 +16,28 @@ everyone knows it, but ... it's OK?
 ---
 
 
+Hey what's your favorite #Genocide joke?
+
+Have you heard about the one where #HiliaryClinton, #DonaldTrump and
+#GaryJohnson walk into #Syria?
+
+I heard it on #MSNBC this morning,it's hilarious! ROFLCOPTERS!!
+apparently they each ask for a glass of water, but everyone in #Syria
+drinks their own piss!!
+
+ewww those fucking syrian dogs would probably eat their own shit if they had to.
+
+#RealityTV, amirite? ROFL: #FEMA humanitarian missions 2 #Syria? They
+bottled water in #Flint & said better lead from water than a bullet!
+
+HAHAHA omg get it? bc all those federal agencies bought an excess of
+ammunition 3 years ago?! they're going to round ppl up and shoot them
+lmao.
+
+genocide. LMAO. it gets old quick, right? but not quicker than you can
+spray chlorine gas. LMAO not gonna get very old when your dead. don't
+worry. dead people can't feel feelings. no they really can't.
+
 # General
 
 
@@ -339,6 +361,9 @@ TODO: find the list online, also refer to
 
 - [OFAC Overview](http://www.ffiec.gov/bsa_aml_infobase/pages_manual/olm_037.htm)
 - [OFAC Cites Violations in Dealings with Specially Designated Nationals](http://www.lexology.com/library/detail.aspx?g=036eee5f-a753-4b5d-bcdf-7e5ff00fabb5)
+
+- [OFAC Program Tag Definitions](https://www.treasury.gov/resource-center/sanctions/SDN-List/Pages/program_tags.aspx)
+
 
 # SDN Types
 
