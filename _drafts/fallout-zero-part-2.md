@@ -11,8 +11,129 @@ excerpt: "
 ---
 
 I might have figured out what was happening to me or what would happen
-to me. What's so frustrating is these programs had zero impact on how
-I behaved, which makes me think I was more useful to these people as
+to me, except I was blindfolded. Not literally, but metaphoricly.
+What's the point of programs that had zero capicity for deterrence,
+but create long-lasting, expensive mental health problems, while
+introducing major liability for human rights violations.
+
+That leads me to believe there were mostly three purposes to these
+programs:
+
+#### (1) Address logistic growth pains in sliver of the population
+involved in Homeland Security. Basically, they anticipated demand for
+these programs and wanted to push growth early on.
+
+#### (2) In that sliver of the population involved in this, until just
+a few years ago, they could provide a deterrence against speaking out
+or saying anything. They would terrorize these individuals and
+minimize any chance of speaking out, but to the public at large, they
+couldn't know what was happening because it was very illegal, so it's
+not a deterrence for them
+
+#### (3) And mostly, it was for research. Until very recently -- and perhaps this still applies -- these programs would be be limited Any and all psychological or sociological research that leaves no trace. No chemical, neurological or medical experimentation. And sadly, none of this could really include quantitative measurements, unless they were incidental
+
+From a utilitarian standpoint, some of this research would arguably be
+very useful as we're approaching a time when we're undergoing a major
+sociocultural shift in the wake of technology ...
+
+... Technically, some of these "research efforts" would quite
+definitively qualifies as warcrimes under the Geneva Convention. And
+these people are very aware of the criminal nature of their
+activities. As a victim who's suffered for a decade, I'm so fucking
+sick of it, quite literally. I have irreversible neurological damage,
+just from protracted, untreated depression.
+
+The label the ICRC uses is
+[Leave No Marks](https://insomniadiary.wordpress.com/2014/01/18/icrc-report-on-the-treatment-of-fourteen-high-value-detainees-in-cia-custody/). According
+to the Joint Staff Forces College documentation for processing
+detainees, a college for military officials, the ICRC is the only
+organization that is required to be notified of the acquisition of a
+"detainee" ... which, as may come to comprehend after a decade of
+torture, a loosely applied definition. It's supposed to mean a
+prisoner of war, but it's not. Look at the JSFC document yourself and
+simply ask yourself: if I was in Vietnam or Iraq, would I capture
+someone and apply these procedures, precisely? If you read closely and
+use your imagination a bit, the answer is a resounding HELL FUCKING
+NO! And actually, the procedures could be applied to either foreign or
+domestic detainees, but it's just another US Government exercise in
+duplicity. These docs aren't secret or classified, but the indicated
+some quite valuable information to me, so they might get memory holed.
+
+**Specifically, would you let detainees keep most of their
+possessions?** HELL NO! If you're a prisoner of war in Iraq and I was
+the commanding officer, I would be furious to find that a POW had
+anything more than a Qu'ran, at most. **Do prisoners receive anything
+but medications necessary for sustaining their lives?** They'd be
+lucky if they did. I doubt the Taliban would administer even that. So
+why are there so many procedures specific to that? Why does the
+documentation indicate that taking these medications away can be used
+as a means for basically fucking with their head? Except psychiatric
+medications, what drugs do have significant side effects on mental
+functionality when administration is permitted or restricted? From the
+set of drugs commonly found in one of our active warzones? And, since
+these soldiers have so much time to concern themselves with a POW's
+medications as to ensure the distribution of specific prescription
+drugs from our own supplies in situations which aren't life-or-death,
+how many of those soldiers, outside of combat medics (1) to recognize
+what a life-or-death situation/symptom/medication is (2) have the time
+to be concerned with it (3) want to accept the liability for
+prescribing it (4) care enough to draw from our own supplies, except
+in life or death situations. And remember, because even though it's a
+warzone, medical malpractice, withheld treatment and generally doing
+anything to end a POW's life IS A FUCKING WARCRIME.
+
+Now ask yourself. Why is it that the duplicitous, meticulously
+crafted, well-hidden definitions of "detainee" can be so easily
+applied to domestic citizens and former citizens who lost their rights
+under the NDAA? BECAUSE AMERICA IS A WARZONE.
+
+> And if it's not, these procedures don't apply and America's actions
+> in detention is *ILLEGAL*. And if it is an active warzone, then these
+> procedures apply, but mistreatment in many cases, including
+> psychological torture leading to suicide are *WARCRIMES*.
+
+It's either one or the other and I'd rather pick the one that doesn't
+involve warcrimes, but I'm hardly the one on trial here. The degree of
+behavior leading us to cover up reported torture, especially on US
+Citizens implies foreknowledge and calculation and entanglement with
+legal counsel. Also, providing legal advice to someone on how to get
+away with warcrimes is a warcrime. I read that somewhere.
+
+And yeh ... you might ask me "Well, why are you so mad dood" and I'd
+tell you that I've been through up to a decade of this and at least
+five years. And I'm lucky I haven't been killed or commited suicide or
+worse. Yes, there is are worse things than death. Much worse. Like
+what's happening right here, right now, in my life. In Dante's
+Inferno, the deepest, darkest layer of hell is for treason. Who's the
+traitor here? Is it **the man** who spoke up about the violations of
+civil liberties he was so proud of, disregarding the consequences and
+enduring torture for the better part of a decade? Or is it the
+cunning, airtight, well-advised, criminally malicious **group of
+people** who crafted this system? Who never admitted victims an
+indication of torture? Who understood it wasn't effective? Who acted
+like they didn't know? Who exposed America to the legal liability of
+warcrimes? WHO STILL, TO THIS DAY, CANNOT APOLOGIZE OR ACKNOWLEDGE
+WHAT THEY DID, WHO THEY DID IT TO OR WHY!?
+
+The answer to that is simple, in my mind.
+
+These people act like waterboarding is basically as a bad as goin to
+the pool to get a suntan and somebody splashes a little water on you
+and maybe your phone gets wet. From what I can see, waterboarding
+doesn't involve water at all. However, I'm sure there's some torture
+method where someone pours water on people. Wow? Can I get one of
+those please? In fact, I'll take two. Supersize me. In fact, I would
+have eagerly preferred a handful of illegal Mafia-style assault &
+battery incidents, with an actual potential for deterrence, than
+whatever the hell it was that I've been through. This is insane. And
+most Americans have no idea! None! That's changed quite a bit over the
+past few years, but this is incomprehensible. In the name of national
+security, you have created the single biggest threat to national
+security.
+
+
+
+, which makes me think I was more useful to these people as
 *RESEARCH*, since
 2010. I can find zero other explanation for these programs. They only
 damaged me....
@@ -891,7 +1012,7 @@ itself, you'll find that they will destroy everything in your life
 with indiscriminate, violent force, all while claiming that you are
 the terrorist.
 
-###
+### Peace Though Strength of Body, Mind and Spirit
 
 What people need is peace through strength. Buddhists profess
 non-violence, but practice martial arts because of how it strenthens
@@ -929,8 +1050,7 @@ cowardly tactics. Finally, if you do not know why you are fighting,
 all you have is excruciating chaos and protracted, disenchanting
 misery!
 
->
-SO FUCK YOU FOR THAT ONE, COWARD. A leader? Really?
+> SO FUCK YOU FOR THAT ONE, COWARDS. Leaders? Really?
 
 And goddammit that is precisely why I am am livid our opponents would
 hide this from us! That is so cowardly. You are spineless cowards. In
@@ -939,16 +1059,17 @@ at who supports you and look at who suffers for truth and justice.
 Among these people, with whom would you choose to surround yourself?
 Would you choose those who bend and break? Those who'd sell their
 grandmother for a nickel? Those who have no concept of truth or
-justice whatsoever? Or would you surround yourself with those whom you
-may have some disagreement but are sure that they unquestioningly see
-the same truth as you because you know these people care about truth
-more than anything in the world. Because truth is truth. It doesn't
-matter if you see it or I see it or a child sees it or fucking nobody
-sees it. *IT IS THE TRUTH.* And all I know is that my movement is
-united through truth. We stand for justice and for freedom and for
-peace and for prosperity and for compassion. We stand for the right of
-men to be the best men that they can be. But most of all, we stand
-for truth.
+justice whatsoever?
+
+Or would you surround yourself with those whom you may have some
+disagreement but are sure that they unquestioningly see the same truth
+as you because you know these people care about truth more than
+anything in the world. Because truth is truth. It doesn't matter if
+you see it or I see it or a child sees it or fucking nobody sees
+it. *IT IS THE TRUTH.* And all I know is that my movement is united
+through truth. We stand for justice and for freedom and for peace and
+for prosperity and for compassion. We stand for the right of men to be
+the best men that they can be. But most of all, we stand for truth.
 
 ### What Is Our Salt Marsh?
 
