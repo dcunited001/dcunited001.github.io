@@ -950,6 +950,15 @@ peace and for prosperity and for compassion. We stand for the right of
 men to be the best men that they can be. But most of all, we stand
 for truth.
 
+### What Is Our Salt Marsh?
+
+For those who are interested in doing the right thing and putting an
+end to this incomprehensible, draconian tyranny that is so
+disorganized, it could hardly be said to be self-serving ... this is
+the perhaps the most important thought in this article.
+
+> What is our Salt Marsh?
+
 And so, our movement needs to identify our own Salt March. What is it
 that is just so humiliatingly stupid to be illegal? What policies are
 critical to our suppression? One is certainly the surveillance and
@@ -962,20 +971,155 @@ through representatives nor a Constitution that is relevant.
 Another is the secrecy surrounding this incomprehensibly heinous
 system of anti-courts. A court pushes for justice by standing for
 truth. A court must balance justice with the protection of rule of
-law. When there is neither, it cannot be said to be a court. In
-America, these tribunals are nothing other than a shield for cowards
-to hide their atrocities.  I wish I could name a case that disproved
-that statement, but I can't. What kind of court hides it's execution
+law. When there is neither, it cannot be said to be a court.
+
+In America, these tribunals are nothing other than a shield for
+cowards to hide their atrocities.  I wish I could name a case that
+disproved that statement, but I can't. I've never seen video of these
+terrorist being led to justice. We don't even know their names. Half
+the time, they use false Arabic names for people who aren't even
+Arabic! They do so to interfere with oversight from any superiors and
+prevent the actions of congressmen or the American people. That is,
+hands down, the single most racist thing the United States has done in
+the 21st century. That's unconscionable. It's dehumanizing. It's
+inspires hatred of people on a racial basis. But I guess that's OK
+because ...
+
+> "FUCK DEM TOWELHEADS! 'MERICA!! Human Rights?! For A-rabs? Fuck 'em!"
+
+Human rights for americans who've lost their citizenship? Oh NOW it's
+a problem. In this case, there are people who are subject to secret
+courts, which seemingly function without any direct interaction
+between the judged and those who judge.
+
+All I know is that, concerning the "courts" for national security and
+concerning the OFAC labelling and sanctioning of terrorists, I can
+easily ask a dozen questions, referencing only the governments laws
+and regulations itself, that would instantly shatter the illusion that
+the news and the official story in this country is nothing but a
+brazen boldfaced lie to observe reactions to identify threats to
+tyrrany. It's psychological warfare.
+
+Call me crazy, but it's really not that complicated. All I know is
+that there are people that would get very angry if I publicly pointed
+out these references to United States federal code and friends/family
+who'd get fightened to the point of self-defecation if I made
+particular statements. Like the ones I'm typing right now. Why is
+that? Why is it that my family would react in that way? What could be
+so horribly wrong?
+
+Maybe I have an overactive imagination, but whatever is going on, that
+system of military tribunals (est. by MCA 2006 and 2009) combined with
+policies set by FISA 2008 and the annual rubber-stamped NDAA, it's
+unquestionable. And especially Guantanamo: that's so completely
+unreproachable that it would appear people as powerful as presidents
+or generals are threatened if it looks like they might ask too many
+questions.
+
+In fact, amongst some blurry memories are some where I was told that
+every single person who had been down the road I was going down had
+died. Whoever stated this, if it's legit, made it clear that becoming
+a casualty of this situation was not something that could happen or
+may happen. I was told that it was something that almost certainly
+would happen. And, at that time, I didn't care. I wasn't really aware
+of what I was doing or saying, which is why this is all so fucking
+dumb anyways.
+
+I do know that my answers during *whatever-the-fuck-that-was* and even
+the way in which they were stated, seem to authentically reflect my
+beliefs and knowledge and personality, though there have been dozens
+of hard-to-catch anachronisms, including my understanding of when the
+Boston Marathon bombing occured. In these memories, I thought it had
+been well over a year since that happened. That's what I *felt*, but I
+was told that it had been about a month. I have never had my questions
+answered or ever given the opportunity to ask questions.
+
+Concerning explanations, I have been given dozens of cover stories
+that each conflict with each other, in specific detail as well as in
+the implied agenda/goal. These cover stories all indicate that people
+have been listening in to me and observing nearly everything I've done
+in order to figure out, basically, just whatever they needed to say to
+get me to shut the fuck up and stop making noise. At the same time,
+the same people are prodding me, gaslighting me, surveilling me to
+drive my paranoia and using my psychology against me to knowingly lead
+me to create collateral damage, which I was then blamed for. It's been
+insinuated that my memories are classified. That's wierd. Anyways,
+this is all so fucking crazy that I usually wrap it all up in
+something I claim is a sci-fi movie pitch. All I know is that my mind
+only mysteriously schiz's out for precisely this singular
+event. That's it. Just that one 48-hour stretch of memories glitches
+everything out. There are almost no other glitches.
+
+Furthermore, I've been threatened to STFU via vague insinuation to
+avoid talking about it by the same people who seem to want to:
+
+#### (1) Use it for something
+
+#### (2) Hide knowledge of it from me
+
+#### (3) Indicate knowledge of specific phrases or semantic details from it
+
+#### (4) Control me through insinuation that a specific individual will soon make contact and my lovelife will be amazing, like a fucking palmreader or some shit.
+
+#### (5) Control me through insinuation of sex and desire
+
+#### (6) Lie to me via insinuation to delude me into assuming one of these cover stories is true...
+
+This is what they are doing and saying, all while luring me to develop
+trust, destroying other friendships that might happen, preventing me
+from ever having opportunities and instilling general negativity, all
+in order to psychologically torture me. Wow! That's wonderful, isn't
+it! As embarrassingly unbelievable as this all sounds, it is
+apparently true. Or something close to it. One crucial detail is that
+everything is perfectly set up to prevent me from talking about it,
+specifically, and to prevent me from writing and leaving a trace of my
+existence, generally. At this point, I pretty much disregard almost
+everything related to this by the way. Because it is fucking crazy. I
+hate being controlled by my desires. I gave up driving because they
+kept taking my license. I declared myself celibate because whoever
+keeps fucking with my life, they want to cultivate a strong desire and
+lust for sex to use it as a puppet string to control me with it. They
+are so unbelievably predictable and cruel about everything. And they
+do it all with a smile, without telling me why or allowing me the
+slightest, even incidental, compassion or friendship from other
+people. It's sick. It's disgusting and I am fucking tired of it.
+
+I am absolutely not going to waste a second more on delusions. I am
+absolutely not going to allow myself to be emotionally manipulated by
+anything I don't know to be grounded in fact. Not guilt or shame or
+fear or sadness or love or laughter. I wouldn't care if you insinuated
+that I started World War 3. Don't guilt me with shit like that unless
+you might actually bother to overtly state that or inform me in
+writing. If it's not certain like 2+2=4, I am not going to emotionally
+attach to it. Womp womp.
+
+I'm going to move on and I'm going to keep being me, as hard as I can
+possibly be that. I'm going to be as loud as possible because, until I
+am otherwise notified, I haven't done a goddamn thing wrong. No one's
+presented me with anything in writing. No one's said anything to me
+directly & they wouldn't if I'm actually under constant surveillance.
+Further, there are some of these people that would never do anything
+that puts me in a better position in life. Ever. It's dead simple.
+They'll do or say anything with a smile on their face and a blank gaze
+over their eyes, but they will never contribute to a long-term goal of
+mine ever, like helping me find a cofounder or launch an app. And that
+is a fact. I can count on it and I do. It might as well be an axiom at
+this point, like a constant unwavering, truth of the universe.
+
+Then, there are others that continue helping me, but for some reason
+they can't be seen or publicly known to have done it. It's like it'd
+be a felony to be nice to me: to express a brief infatuation with me
+or offer to be my cofounder or plan a surprise birthday party. That's
+crazy!! If that's real and that's the world you live in, GLHF! Sucks
+to be you. And if you were in my shoes, how much sanity would you have
+left?  And those negatives, they're gaslighting me with it and with
+facts and statements that only I should know.
+
+Enough about reptilian space lizards from the center of the earth
+... and back to those courts. What kind of court hides it's execution
 of justice? In what kind of war do we mute our victories? That's not a
 war. How do you win a war if no one knows who you're fighting? How do
 you win a war if no one hears about your victories? Exactly.
-
-For those who are interested in doing the right thing and putting an
-end to this incomprehensible, draconian tyranny that is so
-disorganized, it could hardly be said to be self-serving ... this is
-the perhaps the most important thought in this article
-
-> What is our Salt Marsh?
 
 (move the following?)
 
