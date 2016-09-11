@@ -907,14 +907,75 @@ their application of force. They forced the brutal to question their
 acts of violence. An eye for an eye makes the whole world go
 blind. Instead Gandhi forced those who could not be reconciled with to
 lash out and, in their own pacifist reaction to it, forced these
-people to realize what they were doing was wrong. That it didn't
-matter what degree of brutality was applied. Gandhi and his movement
-grew through painful cooperative sacrifice, which lead his people to
-feel invested and, in this way, he led them to secure moral authority,
-the higher ground in the minds of men.
+people to realize what they were doing was wrong. It didn't matter
+what degree of brutality was applied.
+
+Gandhi and his movement grew through painful cooperative sacrifice,
+which led his people to feel personally invested. And, in this way, he
+led them to secure moral authority, the higher ground in the minds of
+men. It reinforced their resolve and produced a uniform mental
+solidarity in his followers. They developed a cohesive understanding
+of their situation and strategy. They developed a long-term
+understanding of how their tactics would lead to the attainment of
+their goals.
+
+In a movement like that of Gandhi's, if you do not have clearly
+communicated goals, you have nothing. If you don't have unsurveillable
+channels of communication or the capacity to ensure that a friend
+received your words ... you cannot develop coherent goals, so it
+doesn't matter what they are or whether they are reasonable. And if
+you do not know you are fighting, you have nothing but victims of
+cowardly tactics. Finally, if you do not know why you are fighting,
+all you have is excruciating chaos and protracted, disenchanting
+misery!
+
+>
+SO FUCK YOU FOR THAT ONE, COWARD. A leader? Really?
+
+And goddammit that is precisely why I am am livid our opponents would
+hide this from us! That is so cowardly. You are spineless cowards. In
+the business world, your audience and your market is everything. Look
+at who supports you and look at who suffers for truth and justice.
+Among these people, with whom would you choose to surround yourself?
+Would you choose those who bend and break? Those who'd sell their
+grandmother for a nickel? Those who have no concept of truth or
+justice whatsoever? Or would you surround yourself with those whom you
+may have some disagreement but are sure that they unquestioningly see
+the same truth as you because you know these people care about truth
+more than anything in the world. Because truth is truth. It doesn't
+matter if you see it or I see it or a child sees it or fucking nobody
+sees it. *IT IS THE TRUTH.* And all I know is that my movement is
+united through truth. We stand for justice and for freedom and for
+peace and for prosperity and for compassion. We stand for the right of
+men to be the best men that they can be. But most of all, we stand
+for truth.
 
 And so, our movement needs to identify our own Salt March. What is it
-that
+that is just so humiliatingly stupid to be illegal? What policies are
+critical to our suppression? One is certainly the surveillance and
+manipulation of digital channels of communication. Another problem in
+our government that needs to be highlighted is the people's complete
+lack of influence. For a constitutional republic, it's ironic that,
+again, we have neither a republic that enforces the will of the people
+through representatives nor a Constitution that is relevant.
+
+Another is the secrecy surrounding this incomprehensibly heinous
+system of anti-courts. A court pushes for justice by standing for
+truth. A court must balance justice with the protection of rule of
+law. When there is neither, it cannot be said to be a court. In
+America, these tribunals are nothing other than a shield for cowards
+to hide their atrocities.  I wish I could name a case that disproved
+that statement, but I can't. What kind of court hides it's execution
+of justice? In what kind of war do we mute our victories? That's not a
+war. How do you win a war if no one knows who you're fighting? How do
+you win a war if no one hears about your victories? Exactly.
+
+For those who are interested in doing the right thing and putting an
+end to this incomprehensible, draconian tyranny that is so
+disorganized, it could hardly be said to be self-serving ... this is
+the perhaps the most important thought in this article
+
+> What is our Salt Marsh?
 
 (move the following?)
 
