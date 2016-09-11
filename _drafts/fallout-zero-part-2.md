@@ -59,45 +59,100 @@ domestic detainees, but it's just another US Government exercise in
 duplicity. These docs aren't secret or classified, but the indicated
 some quite valuable information to me, so they might get memory holed.
 
-**Specifically, would you let detainees keep most of their
-possessions?** HELL NO! If you're a prisoner of war in Iraq and I was
-the commanding officer, I would be furious to find that a POW had
-anything more than a Qu'ran, at most. **Do prisoners receive anything
-but medications necessary for sustaining their lives?** They'd be
-lucky if they did. I doubt the Taliban would administer even that. So
-why are there so many procedures specific to that? Why does the
-documentation indicate that taking these medications away can be used
-as a means for basically fucking with their head? Except psychiatric
-medications, what drugs do have significant side effects on mental
-functionality when administration is permitted or restricted? From the
-set of drugs commonly found in one of our active warzones? And, since
-these soldiers have so much time to concern themselves with a POW's
-medications as to ensure the distribution of specific prescription
-drugs from our own supplies in situations which aren't life-or-death,
-how many of those soldiers, outside of combat medics (1) to recognize
-what a life-or-death situation/symptom/medication is (2) have the time
-to be concerned with it (3) want to accept the liability for
-prescribing it (4) care enough to draw from our own supplies, except
-in life or death situations. And remember, because even though it's a
-warzone, medical malpractice, withheld treatment and generally doing
-anything to end a POW's life IS A FUCKING WARCRIME.
+#### Specifically, would you let detainees keep most of their possessions?
 
-Now ask yourself. Why is it that the duplicitous, meticulously
+HELL NO! If you're a prisoner of war in Iraq and I was the commanding
+officer, I would be furious to find that a POW had anything more than
+a Qu'ran, at most. Glancing over this document lead me to ask a dozen
+questions like this. There are several documents I've seen like this
+one.
+
+#### Do prisoners receive anything but medications necessary for sustaining their lives?
+
+They'd be lucky if they did. I doubt the Taliban would administer even
+that. So why are there so many procedures specific to that? Why does
+the documentation indicate that taking these medications away can be
+used as a means for basically fucking with their head? Except
+psychiatric medications, what drugs do have significant side effects
+on mental functionality when administration is permitted or
+restricted? From the set of drugs commonly found in one of our active
+warzones? Since these soldiers have so much time to concern themselves
+with a POW's medications as to ensure the distribution of specific
+prescription drugs from our own supplies in situations which aren't
+life-or-death, then...
+
+#### How many of those soldiers, outside of combat medics:
+
+#### (1) are trained to recognize life-or-death situations/symptoms/medications
+
+#### (2) have the time to be concerned with it
+
+#### (3) want to accept the liability for prescribing it
+
+#### (4) care enough to draw from our own supplies, except in life or death situations.
+
+And remember, because even though it's a warzone, medical malpractice,
+withheld treatment and generally doing anything to end a POW's life is
+a *WARCRIME*.
+
+Now ask yourself: why is it that the duplicitous, meticulously
 crafted, well-hidden definitions of "detainee" can be so easily
 applied to domestic citizens and former citizens who lost their rights
-under the NDAA? BECAUSE AMERICA IS A WARZONE.
+under the NDAA? *BECAUSE AMERICA IS A WARZONE.*
 
 > And if it's not, these procedures don't apply and America's actions
 > in detention is *ILLEGAL*. And if it is an active warzone, then these
 > procedures apply, but mistreatment in many cases, including
 > psychological torture leading to suicide are *WARCRIMES*.
 
-It's either one or the other and I'd rather pick the one that doesn't
-involve warcrimes, but I'm hardly the one on trial here. The degree of
-behavior leading us to cover up reported torture, especially on US
-Citizens implies foreknowledge and calculation and entanglement with
-legal counsel. Also, providing legal advice to someone on how to get
-away with warcrimes is a warcrime. I read that somewhere.
+WTF?! America's a warzone?! That's nonsense...
+
+Either way, the question above is a catch-22. I'd rather pick the one
+that doesn't involve warcrimes, but I'm hardly the one on trial
+here. However, it doesn't explain why the Army is leading these
+operations on American soil. Posse Comitatus, anyone? Oh, but I guess
+Caeser done crossed the Rubicon, huh?
+
+> You know what they say about the Rubicon, right? Once you go whack,
+> you never go back
+
+The Rubicon was the river in Rome for which a law declared their
+military must never cross or tyranny would ensue. The American
+equivalent is Posse Comitatus, which prevents the military from being
+deployed on American soil, unless a state of emergency is declared by
+a governor or we are forced to declare martial law.
+
+However, there has been no pronouncement of martial law. In war,
+information decides the winner and warfare has always been primarily
+information warfare. The claim is that restricting this information
+from Americans prevents panic or confers the United States some
+advantage. This is true to some extent. However, it's criminal to
+restrict this information and allow Americans to (incriminate)
+themselves under some false presumption, as though we ourselves are
+the enemy in the War on Terror. The last time I checked, the War on
+Terror was fighting some enemy hellbent on the destruction of America
+in some sandy, desolate country so far off it might as well be the
+dusty plains of Mars. In fact, The War on Terror was declared by
+Congress with the AUMF on Al Qaeda, enumerating the specific non-state
+groups we were fighting against, while providing room for expansion to
+those groups who might use similar tactics.
+
+So where are the car-bombs? Where are these things? Where's the
+shipments of arms? Where are the flag-burnings? Where's the
+anti-American sentiment? If proclamation that our rates are sacred is
+tantamount to treason, then string me up and call me bin Laden.
+
+It is immoral to encourage conflict among Americans who are ignorant
+of what's truly going on. It is cowardly to do this, explaining it
+away as being strategically superior. It is unethical to do all this
+in willful ignorance, claiming we're doing it for our own
+self-preservation when it's more likely to lead to our demise.
+
+The degree of behavior leading us to cover up reported
+torture, especially on US Citizens implies foreknowledge and
+calculation and entanglement with legal counsel. Also, providing legal
+advice to someone on how to get away with warcrimes is a warcrime. I
+read that somewhere.
 
 And yeh ... you might ask me "Well, why are you so mad dood" and I'd
 tell you that I've been through up to a decade of this and at least
