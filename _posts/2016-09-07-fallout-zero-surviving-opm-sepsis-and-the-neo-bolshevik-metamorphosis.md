@@ -619,7 +619,7 @@ poverty. Why doesn't welfare help reduce rates of poverty? That's a
 really good question to ask if you are in favor of a major increase to
 minimum wage
 
-# Part Two: [A Little Psychological Trauma Never Leaves A Mark]()
+# Part Two: [A Little Psychological Torture Never Left A Mark]()
 
 [Leave No Marks](https://insomniadiary.wordpress.com/2014/01/18/icrc-report-on-the-treatment-of-fourteen-high-value-detainees-in-cia-custody/),
 the ICRC report I wish I'd seen a long time ago. If so, this whole

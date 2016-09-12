@@ -1,5 +1,5 @@
 ---
-title: "Fallout Zero: "
+title: "Fallout Zero: A Little Psychological Torture Never Left A Mark"
 author:
   name: "David Conner"
 tags: "communism politics economics"
@@ -41,7 +41,26 @@ definitively qualifies as warcrimes under the Geneva Convention. And
 these people are very aware of the criminal nature of their
 activities. As a victim who's suffered for a decade, I'm so fucking
 sick of it, quite literally. I have irreversible neurological damage,
-just from protracted, untreated depression.
+just from protracted, untreated depression. For years, I've described
+myself as something of an abused dog, afraid to approach anyone. I've
+even been conditioned to approach friendly person with a doggie treat
+because that's exactly how they got me, every time. It's always the
+person that draws me in with some initial kindness to gain my trust
+who ends up driving my emotional pain. It's a tactic. Draw them in and
+push everyone else away before you ruin their mind, slowly and
+painfully. Make sure they never dream of love or compassion again.
+
+At least it's not months and years reeling in chains buried in a
+physical dungeon. Or starving in a Gulag. Yet, this is what they are
+trained to do. And hey, it doesn't leave a mark. But, what they
+shackled me in was a mental gulag and it's left the stomach of my soul
+bloated and starving. And yet, my spirit, too exhausted to writhe
+against these chains of nothing but cruel jokes and sardonic misery,
+is by some literal miracle not broken. They broke my heart a long time
+ago. I mean broke, as in the sense of rendering something incapable of
+functioning. I finished even the job for them. I snapped the last
+pieces of my heart so I could numb the pain. Yet, no matter how they
+twisted or tugged or viced, they never broke my spirit.
 
 The label the ICRC uses is
 [Leave No Marks](https://insomniadiary.wordpress.com/2014/01/18/icrc-report-on-the-treatment-of-fourteen-high-value-detainees-in-cia-custody/). According
@@ -98,7 +117,7 @@ a *WARCRIME*.
 Now ask yourself: why is it that the duplicitous, meticulously
 crafted, well-hidden definitions of "detainee" can be so easily
 applied to domestic citizens and former citizens who lost their rights
-under the NDAA? *BECAUSE AMERICA IS A WARZONE.*
+without notification under the NDAA? *BECAUSE AMERICA IS A WARZONE.*
 
 > And if it's not, these procedures don't apply and America's actions
 > in detention is *ILLEGAL*. And if it is an active warzone, then these
@@ -114,7 +133,7 @@ operations on American soil. Posse Comitatus, anyone? Oh, but I guess
 Caeser done crossed the Rubicon, huh?
 
 > You know what they say about the Rubicon, right? Once you go whack,
-> you never go back
+> you never go back.
 
 The Rubicon was the river in Rome for which a law declared their
 military must never cross or tyranny would ensue. The American
@@ -167,8 +186,8 @@ cunning, airtight, well-advised, criminally malicious **group of
 people** who crafted this system? Who never admitted victims an
 indication of torture? Who understood it wasn't effective? Who acted
 like they didn't know? Who exposed America to the legal liability of
-warcrimes? WHO STILL, TO THIS DAY, CANNOT APOLOGIZE OR ACKNOWLEDGE
-WHAT THEY DID, WHO THEY DID IT TO OR WHY!?
+warcrimes? *WHO STILL, TO THIS DAY, CANNOT APOLOGIZE OR ACKNOWLEDGE
+WHAT THEY DID, WHO THEY DID IT TO OR WHY!?*
 
 The answer to that is simple, in my mind.
 
@@ -186,33 +205,226 @@ past few years, but this is incomprehensible. In the name of national
 security, you have created the single biggest threat to national
 security.
 
+These programs are not authentic research, by any stretch of the
+imagination. AFAIK, they don't collect quantifiable records and any
+they do would be destroyed to minimize long-term liability. Further,
+these programs are expensive in terms of collateral damage to the
+public health of the American.
 
+I'm afraid to go to any psychaitrist, especially now that I know how
+they fish psychiatric and medical records. I'm afraid to seek the help
+that I need, when I need it. It's been insinuated that there are
+people there in the public mental health system that would be there
+waiting for me. At that point, they'd only have more control over my
+life. Victims of these programs who don't end up in the mental health
+system are few and far between. At that point, your health record can
+get real spotty with information that makes suicide a reasonable
+explanation. At that point, if you're suicided, there's going to be no
+one to ask questions. If you made it that far in these programs, you
+can be sure that you don't have financial resources and that your
+friends and family, if they aren't already compromised, they're so
+tired of helping you that they won't offer any help. You'll have no
+one. In my case, a family might have thought of a suicide as the
+inevitable conclusion to a long saga of struggles with personal mental
+health issues.
 
-, which makes me think I was more useful to these people as
-*RESEARCH*, since
-2010. I can find zero other explanation for these programs. They only
-damaged me....
+However, in my case, my family had been compromised. They wouldn't ask
+any questions if I was suicided. Why the fuck would they do that if
+they were complicit?! How bad would it look if your family member
+commits suicide and people know you were complicit?  It's too damn bad
+they hand out "gold stars" for this shit ... I think that's what that
+is, anyways. Apparently families who accept money for helping end the
+government problems receive funds for such familial treason. Or at
+least they receive temporary reprieve from government fines,
+"sanctions" or action against their own assets, businesses and
+property! In my case, I've had people personally make statements about
+"purchasing" the Skating Rink we own, who I caught in lies pretty
+quick. We wouldn't ever sell the skating rink. I stay out of the
+business affairs of the skating rink and AFAIK, we wouldn't ever allow
+outside investment, but we did. It's a family business for a
+reason.
 
-- absolutely not a deterrent
+However, to organized crime or a government dangerously close to
+tyrrany, a small business, a real estate asset or anything of value
+and large personal investment is nothing more than a highly effective
+thumbscrew. When the Mafia charges protection feeds, that's an
+extortion racket. Isn't it interesting that, in such a protection
+racket, that mobster who collects the money and guys who enforce the
+extortion via assault & battery or arson -- they usually don't know
+names or sometimes even faces. Yet, it looks like this is what our
+government is running. *IT'S A HIGHLY EFFECTIVE,
+TERROR-AND-FEAR-CULTIVATING EXTORTION RACKET UNDER THE GUISE OF
+NATIONAL SECURITY AND PATRIOTISM.* And who knows the end goals of such
+criminals?
 
-- went without sex for so long...
-  - sex as a central theme of their torture (for me anyways)
+That's insane, by the way. But, that's what happened and I think I can
+forgive people, but I want to know what happened and I want everyone
+to know what happened, not for my own personal justice, but for the
+justice of everyone who might suffer such a fate now or ever in the
+future. This cannot be done. It should not be possible and these
+government sanctioned mafia tactics must never be practical. People
+deserve to know this so they can protect themselves, their family and
+their friends. In totalitarianism and communism, they seek to
+eliminate threats and anyone who accumulates resources is a
+threat. Property? Money? Food? Guns? Information? You're a threat.
 
-- what is detention? really? you don't remember high school?
-  - i think i got it once.
-- what basically happens is ... "detention"
-  - you're not allowed to "play" until you comply
-  - you're not allowed to "win" until you comply
-  - you're not allowed to leave until you comply
-  - or get laid
-  - and especially not allowed to be seen happy or successful or
-    whatever
-- it's really the dumbest, most immature, counterproductive thing I've
-  ever conceived. it's absolutely puerile.
-  - seriously? ... believe what we tell you and look like you live it
-    ... or you don't get to have a hobby or a relationship or anything
-    that makes you feel good
-- AMERICA!
+Again, the torture and illegal detainment of Americans is Absolutely
+not a deterrent. It threatens our national security by enticing our
+population to commit war crimes by permanently damaging our citizens,
+psychologically and neurologically. It leads us to being less capable
+to compete in the global economy. The health of the American economy
+is also, in itself, a national security issue. All the while, our
+leaders feign ignorance and those who are involved or complicit are
+encouraged to defend this by guilt or by coercion.
+
+The long-term strategic design of these programs, from a legal and
+logistic standpoint, implies that this may not be to simply prepare us
+for a national emergency and martial law, but that martial law and
+transition to a totalitarian government was the destination, nearly
+from the outset. If so, what's the goal? How could this possibly be
+justified? Does that mean that whatever catastrophes our leaders claim
+to justify this with ... does that imply it's inevitable?
+
+### These Programs Are Designed to Mirror Detention from High School
+
+Remember detention from high school? These programs are designed with
+pattern languages and they're designed to prevent the success of
+anyone who questions the wrong thing. Plain and simple.
+
+#### What makes you happy? Sex? Fame?
+
+#### What do you need to be happy? Food? Money?
+
+#### What do you need to survive? Food? Shelter? Love?
+
+#### What gets you going? Success? Drugs?
+
+#### What are your dreams? For yourself? For your children?
+
+#### What are your goals? Short term? Long term?
+
+They do it through poverty, isolation, incrimination.  They do it by
+creating situations around you that push people away. They do it by
+spreading rumors. They do it by affecting your visibility on social
+media applications.
+
+What they do is so incredibly immature, if you think about it. For me,
+they actively engaged in disconnecting me from any friendships or
+relationships that might emerge that make me feel good about
+myself. That's the primary motivation: destroy you emotionally and
+invoke some protracted psychiatric state that destroys you from the
+soul outward.
+
+For me, it lasted so long, it's done irreversible emotional and
+psychological damage. It's affected me so long that I've been
+completely unable to experience those things which young adults use to
+progress further in development. Remember Michael Jackson? Remember
+how he never had those childhood experiences? That was the
+psychological factor that led him to want to experience those
+things. Still, at his age, people are unlikely to satisfy that. I
+don't actually believe the charges levelled against them.
+
+Well, in addition to Asperger's, I have never been permitted to have
+those young adult to early adult experiences. So therefore, I am at
+risk of forever being trapped in that mindset. It's because I'm too
+young to integrate socially with people my age to permit me those
+experiences which get me to the next level. The people around my
+family who have been manipulating them through government institutions
+know this. They couldn't possibly know this, but I suspect they've
+provided my family with phony assessments of my behavior, duplicitous
+in nature, that encourage them to magnify the effects of psychological
+torture, of which my family couldn't possibly have wanted to be
+part. So the protechThe problems I have is not psychiatric or caused by chemical
+imbalance. It's really not even psychological, though it's certainly
+led to that. It's mostly sociological.
+
+When you consider how methodically they planned this and how very
+aware they are of personal information and occult psychology, it's
+downright malevalent how they fan out this toxic miasma that poisons
+your psychology, your social network and especially anyone who might
+not know better than to yank back that helping hand.
+
+#### How long have you been without sex? Without a kiss? Without an embrace from a girl?
+
+#### How long have you been without a job?
+
+#### How long have you been without being able to freely choose who your friends are?
+
+#### How long have you been independent?
+
+#### How long has your family begrudgingly supported you? Did they do it to keep you close?
+
+You can be sure that they will abuse sex and any sensory or material
+things by which you can be attached. My own experience is hardly
+typical, but for me, it was a bit like a real life Dante's Inferno
+except the instruments of your eternal torture are those things which
+you love, lust after, or need. If you don't want it or lust for it,
+but can be made to, they will use it against you. Whatever can be used
+to influence your behavior, will be use. They will brainwash you until
+you love doing it to others or until you fearfully have no other
+escape. They'll warp your mind until lust after the torment of others
+and invokation of these material desires in others. They make you lust
+after the thought of embracing their own sinful pyramid scheme.
+
+That's precisely what it is, actually: a karmic, pyramid scheme. It's
+like an MK Ultra experiment escaped the lab, founded a religion and
+threw in a touch of Bernie Madoff, just for the hell of it. If if
+you'd like, you can feel terrible and fearful about what you've
+done ... or if you let yourself lust for it, it could be your opiate
+of the masses. To be fair, I have had several groups fuck with my head
+over the past decade, so I have no idea who is responsible for what. I
+have no idea who's truly trying to save me and who would prefer I help
+them torment others.
+
+How do you end the torture? By compliance. However, its just like how
+Guantanamo "inmates" are eventually allowed to "leave" the prison camp
+in Cuba, but are sent to another "country" to be "helped" -- you never
+actually leave. There's definitely a physical place in Cuba where
+people are tortured, but there's is also a domestic program. And so,
+they will continue to surround you, but the intensity is scaled
+back. It's their objective to ensure that, just like in the Soviet-era
+gulags, if you acted compliant, you really meant it. The only way to
+do that is to release all tension and resistance to let them brainwash
+you. That's what waterboarding really is, by the way: brainwashing
+through psychological torture in a gulag no one can see. You're not
+allowed to play or win or leave, until you comply. These "thirsty"
+people definitely aren't allowed to get laid. They're especially not
+allowed to be seen happy or successful.
+
+When it gets bad enough, you won't be allowed to participate in a
+hobby or have a relationship or enjoy anything that makes you feel
+good. Positive feelings like that completely destroy what they do to
+you. They're out there risking their skin, laundering money and
+commiting lite war crimes ... so would you be surprised they'd be mad
+if someone else is out there making you feel good about yourself? When
+it can be scientifically counter to their psychological torture
+methods?
+
+It's really the dumbeset, most immature, counterproductive domestic
+policy ever conceived. They know how illegal it is, which is why they
+try so hard to hide it. In my case, I was just too damn smart for
+their tricks and they kept having to scale up the emotional pain
+applied, as well as the level of influence over people in my
+life. These past few years, they've seemed desperate because they know
+just how guilty I am. Usually anyone who makes it as far as I will end
+up committing suicide or mysteriously die in an auto accident ..  but
+I don't drive really. No one has ever made it this far and they're
+shitting their pants.
+
+What they do is counterproductive and wildly distorts the American
+system of values that powers our economy! It flies right in the face
+of the American Dream and they have acknowledged that they know it's
+not effect if its publicly stated goals, but it does somewhat achieve
+the three goals I stated at the top. Those goals are not marketable to
+the American people because they are immoral and contradict everything
+I thought we stood for.
+
+And it seems that, in the past 10 years, there has been politically
+motivated application of these programs. I pray this isn't the
+case. That would paint us to look a lot like East Germany. I can't
+tell whether the goal was political suppression or that some of these
+American Stasi determined that abusing reactions to controversial
+issues like racism would render victims isolated.
 
 # How Could This Happen Here?
 
