@@ -23,7 +23,7 @@ What's the point of programs that had zero capicity for deterrence,
 but create long-lasting, expensive mental health problems, while
 introducing major liability for human rights violations.
 
-### Three Major Goals to Psychological Torture Programs
+### Three Major Goals to Our Psychological Torture Programs
 
 That leads me to believe there were mostly three purposes to these
 programs:
@@ -45,9 +45,9 @@ From a utilitarian standpoint, some of this research would arguably be
 very useful as we're approaching a time when we're undergoing a major
 sociocultural shift in the wake of technology ...
 
-### But Technically, These Are Warcrimes.
+### But Technically, Pschological Torture Is A Warcrime.
 
-#### Warcrimes?! What a Bummer, Dude!
+#### Warcrime?! What a Bummer, Dude!
 
 But technically, some of these "research efforts" would quite
 definitively qualifies as warcrimes under the Geneva Convention. And
@@ -198,7 +198,7 @@ And remember, because even though it's a warzone, medical malpractice,
 withheld treatment and generally doing anything to end a POW's life is
 a *WARCRIME*.
 
-### Who Are We At War With, Anyways?
+# Who Are We At War With, Anyways?
 
 Now ask yourself: why is it that the duplicitous, meticulously
 crafted, well-hidden definitions of "detainee" can be so easily
@@ -212,7 +212,7 @@ without notification under the NDAA? *BECAUSE AMERICA IS A WARZONE.*
 
 WTF?! America's a warzone?! That's nonsense...
 
-# Catch-22's and Posse Comitatus
+### Catch-22's and Posse Comitatus
 
 Either way, the question above is a Catch-22. I'd rather pick the one
 that doesn't involve warcrimes, but I'm hardly the one on trial
@@ -221,6 +221,8 @@ you. However, determining whether we're at war still doesn't explain
 why the Army is leading these operations on American soil. Posse
 Comitatus, anyone? Oh, but I guess Caeser done crossed the Rubicon,
 huh?
+
+### Julius Caeser and Silly Roman Superstitions
 
 > You know what they say about the Rubicon, right? Once you go whack,
 > you never go back.
@@ -238,50 +240,65 @@ from Americans prevents panic or confers the United States some
 advantage. This is true to some extent. However, it's cowardly and
 unethical to restrict this information and allow Americans to
 incriminate themselves under some false presumption, as though we
-ourselves are the enemy in the War on Terror. The last time I checked,
-the War on Terror was fighting some enemy hellbent on the destruction
-of America in some sandy, desolate country so far off it might as well
-be the dusty plains of Mars. In fact, The War on Terror was declared
-by Congress with the AUMF on Al Qaeda, enumerating the specific
-non-state groups we were fighting against, while providing room for
-expansion to those groups who might use similar tactics.
+ourselves are the enemy in the War on Terror. And it would look like
+some Americans are just straight up slaves at this point!
+
+### Where's the War on Terror Being Fought?
+
+The last time I checked, the War on Terror was fighting some enemy
+hellbent on the destruction of America in some sandy, desolate country
+so far off it might as well be the dusty plains of Mars. In fact, The
+War on Terror was declared by Congress with the AUMF on Al Qaeda,
+enumerating the specific non-state groups we were fighting against,
+while providing room for expansion to those groups who might use
+similar tactics.
 
 So where are the car-bombs? Where are these things? Where's the
 shipments of arms? Where are the flag-burnings? Where's the
 anti-American sentiment? If proclamation that our rates are sacred is
 tantamount to treason, then string me up and call me bin Laden.
 
-### Psychological/Informational Warfare on Your Own Citizens Is For Cowards
+### Domestic Psychological & Informational Is Cowardly
 
 It is immoral to encourage conflict among Americans who are ignorant
 of what's truly going on. It is cowardly to do this, explaining it
-away as being strategically superior. It is unethical to do all this
-in willful ignorance, claiming we're doing it for our own
-self-preservation when it's more likely to lead to our demise.
+away as being strategically superior. Please tell me more about how
+these actions are strategic! It is unethical to do all this in willful
+ignorance, claiming we're doing it for our own self-preservation when
+it's more likely to lead to our demise.
 
-The degree of behavior leading us to cover up reported
-torture, especially on US Citizens implies foreknowledge and
-calculation and entanglement with legal counsel. Also, providing legal
-advice to someone on how to get away with warcrimes is a warcrime. I
-read that somewhere.
+The degree of behavior leading us to cover up reported torture,
+especially on US Citizens implies foreknowledge and calculation and
+entanglement with legal counsel. Also, providing legal advice to
+someone on how to get away with warcrimes is a warcrime. I read that
+somewhere.
 
-And yeh ... you might ask me "Well, why are you so mad dood" and I'd
-tell you that I've been through up to a decade of this and at least
-five years. And I'm lucky I haven't been killed or commited suicide or
-worse. Yes, there is are worse things than death. Much worse. Like
-what's happening right here, right now, in my life. In Dante's
-Inferno, the deepest, darkest layer of hell is for treason. Who's the
-traitor here? Is it **the man** who spoke up about the violations of
-civil liberties he was so proud of, disregarding the consequences and
-enduring torture for the better part of a decade? Or is it the
-cunning, airtight, well-advised, criminally malicious **group of
-people** who crafted this system? Who never admitted victims an
-indication of torture? Who understood it wasn't effective? Who acted
-like they didn't know? Who exposed America to the legal liability of
-warcrimes? *WHO STILL, TO THIS DAY, CANNOT APOLOGIZE OR ACKNOWLEDGE
-WHAT THEY DID, WHO THEY DID IT TO OR WHY!?*
+# WHY R U SO MAD DOOD?!
 
-The answer to that is simple, in my mind.
+And yeh ... you might ask me that and I'd tell you that I've been
+through up to a decade of this and at least five years. And I'm lucky
+I haven't been killed or commited suicide or worse.
+
+### Dante's Inferno and Fates Worse Than Death
+
+Yes, there is are worse things than death. Much worse. Like what's
+happening right here, right now, in my life. In Dante's Inferno, the
+deepest, darkest layer of hell is for treason. Who's the traitor here?
+Is it **the man** who spoke up about the violations of civil liberties
+he was so proud of, disregarding the consequences and enduring torture
+for the better part of a decade? Or is it the cunning, airtight,
+well-advised, criminally malicious **group of people** who crafted
+this system? Who never admitted victims an indication of torture? Who
+understood it wasn't effective? Who acted like they didn't know? Who
+exposed America to the legal liability of warcrimes? *WHO STILL, TO
+THIS DAY, CANNOT APOLOGIZE OR ACKNOWLEDGE WHAT THEY DID, WHO THEY DID
+IT TO OR WHY!?*
+
+To me, the answer to that is clear. The ownership for the original sin
+and such collateral damage belongs to all of us, but especially those
+who worked the hardest and lied the most.
+
+### Waterboarding, on Supersoakers
 
 These people act like waterboarding is basically as a bad as goin to
 the pool to get a suntan and somebody splashes a little water on you
@@ -297,28 +314,44 @@ past few years, but this is incomprehensible. In the name of national
 security, you have created the single biggest threat to national
 security.
 
+### Oh It's Research?! Then Publish Your Data!
+
 These programs are not authentic research, by any stretch of the
 imagination. AFAIK, they don't collect quantifiable records and any
 they do would be destroyed to minimize long-term liability. Further,
 these programs are expensive in terms of collateral damage to the
 public health of the American.
 
-I'm afraid to go to any psychaitrist, especially now that I know how
+### Now I'm Even More Afraid to Seek Psychological Help
+
+I was already afraid to seek help from the government reeducation
+known as "Drug Treatment." That already preventing me from seeking
+help from ages 20-25 because I was so sick of group "therapy" that I
+didn't have the patience or time for real treatment.
+
+I'm afraid to go to any psychiatrist, especially now that I know how
 they fish psychiatric and medical records. I'm afraid to seek the help
 that I need, when I need it. It's been insinuated that there are
 people there in the public mental health system that would be there
 waiting for me. At that point, they'd only have more control over my
 life. Victims of these programs who don't end up in the mental health
-system are few and far between. At that point, your health record can
+system are few and far between. At that point, your health records can
 get real spotty with information that makes suicide a reasonable
-explanation. At that point, if you're suicided, there's going to be no
-one to ask questions. If you made it that far in these programs, you
-can be sure that you don't have financial resources and that your
-friends and family, if they aren't already compromised, they're so
-tired of helping you that they won't offer any help. You'll have no
-one. In my case, a family might have thought of a suicide as the
-inevitable conclusion to a long saga of struggles with personal mental
-health issues.
+explanation. Do you even know what your shrink writes down? How do you
+know they aren't intentionally lying about you? Either way, if you're
+suicided, there's going to be no one to ask questions, especially if
+you couldn't properly articulate your questions.
+
+### If You've Made It Close To Where I Am, You Have NOTHING
+
+If you made it that far in these programs, you can be sure that you
+don't have financial resources and that your friends and family, if
+they aren't already compromised, they're so tired of helping you that
+they won't offer any help. You'll have no one. In my case, a family
+might have thought of a suicide as the inevitable conclusion to a long
+saga of struggles with personal mental health issues.
+
+### Wait, Wait, Wait ... YOU DID WHAT TO MY FAMILY?!
 
 However, in my case, my family had been compromised. They wouldn't ask
 any questions if I was suicided. Why the fuck would they do that if
@@ -336,8 +369,10 @@ business affairs of the skating rink and AFAIK, we wouldn't ever allow
 outside investment, but we did. It's a family business for a
 reason.
 
+# Oh That's No Tennis Racket. That's Corruption and Extortion.
+
 However, to organized crime or a government dangerously close to
-tyrrany, a small business, a real estate asset or anything of value
+tyranny, a small business, a real estate asset or anything of value
 and large personal investment is nothing more than a highly effective
 thumbscrew. When the Mafia charges protection feeds, that's an
 extortion racket. Isn't it interesting that, in such a protection
@@ -345,9 +380,11 @@ racket, that mobster who collects the money and guys who enforce the
 extortion via assault & battery or arson -- they usually don't know
 names or sometimes even faces. Yet, it looks like this is what our
 government is running. *IT'S A HIGHLY EFFECTIVE,
-TERROR-AND-FEAR-CULTIVATING EXTORTION RACKET UNDER THE GUISE OF
+**TERROR-AND-FEAR-CULTIVATING EXTORTION RACKET** UNDER THE GUISE OF
 NATIONAL SECURITY AND PATRIOTISM.* And who knows the end goals of such
 criminals?
+
+### Who Can Best Stand Up For The Victims?
 
 That's insane, by the way. But, that's what happened and I think I can
 forgive people, but I want to know what happened and I want everyone
@@ -361,6 +398,8 @@ eliminate threats and anyone who accumulates resources is a
 threat. Property? Money? Food? Guns? Information? You're a
 threat.
 
+###
+
 Again, the torture and illegal detainment of Americans is absolutely
 not a deterrent. It threatens our national security by enticing our
 population to commit war crimes by permanently damaging our citizens,
@@ -370,6 +409,8 @@ is also, in itself, a national security issue. All the while, our
 leaders feign ignorance and those who are involved or complicit are
 encouraged to defend this by guilt or by coercion.
 
+### (Long Term Agenda)
+
 The long-term strategic design of these programs, from a legal and
 logistic standpoint, implies that this may not be to simply prepare us
 for a national emergency and martial law, but that martial law and
@@ -378,11 +419,21 @@ from the outset. If so, what's the goal? How could this possibly be
 justified? Does that mean that whatever catastrophes our leaders claim
 to justify this with ... does that imply it's inevitable?
 
-### These Programs Are Designed to Mirror Detention from High School
+
+# That's Detention for you Mr. Nelson!
+
+#### These Programs Are Designed to Mirror Detention from High School
 
 Remember detention from high school? These programs are designed with
 pattern languages and they're designed to prevent the success of
-anyone who questions the wrong thing. Plain and simple.
+anyone who questions the wrong thing. Plain and simple. If a reporter
+identifies you as one of those meddlin' kids askin the questions, they
+will label you, further investigate you, and put you on a list. At
+that point, the Evil Santa from Futuram determines who gets presents
+and who ... uhhh you don't want to know the rest. But I'm going to
+tell you anyway.
+
+### How Do They Control You In Detention?
 
 #### What makes you happy? Sex? Fame?
 
@@ -401,12 +452,16 @@ creating situations around you that push people away. They do it by
 spreading rumors. They do it by affecting your visibility on social
 media applications.
 
+### It's Immature, Plain and Simple
+
 What they do is so incredibly immature, if you think about it. For me,
 they actively engaged in disconnecting me from any friendships or
 relationships that might emerge that make me feel good about
 myself. That's the primary motivation: destroy you emotionally and
 invoke some protracted psychiatric state that destroys you from the
 soul outward.
+
+### Robbed of Types of Experiences Necessary for Social Development
 
 For me, it lasted so long, it's done irreversible emotional and
 psychological damage. It's affected me so long that I've been
@@ -431,11 +486,13 @@ part. So the protechThe problems I have is not psychiatric or caused by chemical
 imbalance. It's really not even psychological, though it's certainly
 led to that. It's mostly sociological.
 
+### The Psychosocial Miasma Fueling A Plague of Negativity
+
 When you consider how methodically they planned this and how very
-aware they are of personal information and occult psychology, it's
-downright malevalent how they fan out this toxic miasma that poisons
-your psychology, your social network and especially anyone who might
-not know better than to yank back that helping hand.
+aware they are of personal information and occult psychology, their
+actions are downright malevalent. They fan out this toxic miasma that
+poisons your psychology, your social network and especially anyone who
+might not know better than to yank back that helping hand.
 
 #### How long have you been without sex? Without a kiss? Without an embrace from a girl?
 

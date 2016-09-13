@@ -10,6 +10,65 @@ excerpt: "
 "
 ---
 
+
+# part two
+
+# Zero Deterrence Programs
+
+### Three Major Goals to Our Psychological Torture Programs
+
+### But Technically, Pschological Torture Is A Warcrime.
+
+# Exhibit Z: My Brain
+
+### A Living Will And Testament For Justice
+
+### I Never Signed That
+
+# Somebody Call The SPCA!
+
+### Hey, At Least It's Not A Gulag
+
+# Guilty Upon Examination of Public Federal Documentation
+
+### Duplicity in the JSFC War College Process Documentation
+
+# Who Are We At War With, Anyways?
+
+### Catch-22's and Posse Comitatus
+
+### Julius Caeser and Silly Roman Superstitions
+
+### Where's the War on Terror Being Fought?
+
+### Domestic Psychological & Informational Is Cowardly
+
+# WHY R U SO MAD DOOD?!
+
+### Dante's Inferno and Fates Worse Than Death
+
+### Waterboarding, on Supersoakers
+
+### Oh It's Research?! Then Publish Your Data!
+
+### Now I'm Even More Afraid to Seek Psychological Help
+
+### If You've Made It Close To Where I Am, You Have NOTHING
+
+### Wait, Wait, Wait ... YOU DID WHAT TO MY FAMILY?!
+
+
+# That's Detention for you Mr. Nelson!
+
+### How Do They Control You In Detention?
+
+# Oh That's No Tennis Racket. That's Corruption and Extortion.
+
+
+
+
+
+
 # How Could This Happen Here?
 
 Every day I think I've solved the puzzle to the American media circus,
