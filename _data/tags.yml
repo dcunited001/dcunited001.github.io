@@ -95,6 +95,14 @@
   :name: Medicine
 - :slug: bullying
   :name: Bullying
+- :slug: gangstalking
+  :name: Gangstalking
+- :slug: gaslighting
+  :name: Gaslighting
+- :slug: torture
+  :name: Torture
+- :slug: warcrimes
+  :name: Warcrimes
 - :slug: math
   :name: Math
 - :slug: category-theory
@@ -163,3 +171,5 @@
   :name: Politics
 - :slug: censorship
   :name: Censorship
+- :slug: communism
+  :name: Communism

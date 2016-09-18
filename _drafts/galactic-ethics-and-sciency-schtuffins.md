@@ -116,6 +116,168 @@ also kind of leads the world through a difficult path.
 
 =============
 
+### More gravity stuff
+
+#### from the Blind Spot picture
+
+- it looks like a double black hole viewed head on,
+  - i might be missing something.
+  - the front image is inverted
+  - the image is generated from a picture and isn't a real simulation
+    of a black hole. definitely not a real picture because it's a
+    black hole viewed head on.
+- a double black hole should still have a visible area of invisible
+  space inside the front image
+- this got me thinking about black hole binaries.
+  - if viewing a pair of black holes of equal mass arranged
+    equidistant to the viewer, then light would curve around the black
+    holes, but also between them in a manner that sums the effects on
+    spacetime
+
+- what does matter and space look like and how does it behave:
+  - before transition to blackhole
+  - after reverberations from creation of black hole
+    - there should be waves of some kind that have to reverberated
+      around, even though a singularity is like the inversion of space
+      to an infinitely small point, where all the mass is contained
+    - is there any kind of wave that reverberates through this space
+      or does the singularity behave as a point-like object
+    - what is the state b/w singularity and almost-singularity like
+  - and during the merger of a black hole binary
+    - this is especially interesting and some signature should emerge
+      from within the LIGO observations to the merger
+    - we should have noticed this and there are likely wierd spatial
+      reverb-like effects
+    - studying the signature of black holes should tell us more about
+      the "interior" of black holes than any other experiment,
+      especially if we can capture more simultaneous recordings of a
+      wave.
+      - also an experiment in space would allow us to perform the
+        experiment with much larger distances b/w lasers
+
+#### hawking radiation, virtual particles and desitter space
+
+
+- what is the state of matter in a singularity? is there any spatial
+  distribution to the state(s) of matter? how could there not be?
+  - that's counter intuitive, since it's a single point
+  - as a star collapses into a singularity, there's a point where
+    atoms converge into a soup of neutrons and then smaller and
+    smaller subatomic particles
+  - at some time, there as to be a spatial arrangement, then at a
+    later time, it's suddenly a singularity? that's a discontinuity
+    in space-time
+  - what if the change in states of matter eventually leads to some
+    kind of inversion of space (or space-time)
+    - (?) as the mass approaches the state of pure energy, it becomes
+      more continuous and connected. as this happens, the space
+      between is pushed further outward
+      - this would appear to an observer as the formation of a
+        singularity and the massive distortion of space-time around
+        that point, but it's really because the matter dissolves into
+        spatial nothingness as the energy density approaches the
+        maximum for that region of space-time.
+      - even though the singularity doesn't grow in size, the mass
+        still accumulates and stays fixes to that point in space, but
+        does so as raw energy, which is fluid and continuous (?)
+- could a singularity be viewed as another type of space or state of
+  space? it's like an inversion of space, in a way, but clearly, its
+  singular point. yet, does a singularity have some notion of volume
+  that acts as an analog to volume in 3D space?
+  - if something like this is true, then how does one map from the
+    coordinate system of our spacetime to the coordinate system of the
+    inversion of space. it could be a like an anti-bubble floating
+    on the surface of a liquid
+    - one could map the surface of a liquid to the surface of the
+      region of contact on the anti-bubble
+    - this analogy could be extended to 3D
+
+- what is the arrangement of matter "inside" the singularity
+- i need to know more about how the virtual particles emerge from a
+  singularity, why and when. but i think there's a connection
+  between the virtual particles and spacetime.
+  - the collision of these virtual particles allows energy to
+    evaporate from a blackhole in the form of Hawking radiation
+    - this also relieves the stress on the curvature of space imposed
+      by the black hole.
+    - thus, there's a connection b/w these virtual particles and
+      space. at least via energy
+  - what special conditions in a black hole cause the virtual
+    particles to emerge and what determines the rates at which they
+    emerge and the rates at which they collide?
+    - how do these particles behave?
+    - does this depend on the shape of the spacetime around it?
+    - i'd bet that it does & if so, it likely has something to do with
+      the reconcilliation of inconsistencies in the disparity of
+      spacetime
+      - reconcilliation, like a quantum gravity RAFT theorum
+        with virtual particles
+  - this disparity in the view of spacetime emerges in models of
+    relativity inspired by DeSitter space, which is difficult to
+    reconcile a coherent view of spacetime bc each point "sees" it's
+    own version
+    - does this mean that there is an infinitely recursive,
+      turtles-all-the-way-down reconciliation process that eventually
+      gives way to some equilibrium, where the equilibrium is the
+      coherent spacetime? that would make the math very difficult.
+    - regardless of whether there's need for infinite recursion, then
+      the virtual particles may emerge when there is significant
+      difference in the reconciled equilibrium spacetime curvature and
+      the local variance in perceived spacetime curvatures from each
+      point
+  - this disparity might increase between two blackholes, which would
+    mean that models would show increased frequency of virtual
+    particle emergence there (although those situations never last
+    long)
+    - is there some way of quantizing this disparity? or some
+      connection to the Fourier Transform?
+
+- what happens to the singularities and the space b/w th two black
+  holes as they merge together?
+  - at some points, the event horizons could merge, like an electron
+    cloud in di-hydrogen or di-oxygen
+  - the forces of gravity should cancel each other out in between them
+    and this should cause the event horizon(s) to shrink (but increase
+    somewhat on the opposite side, to significant effect)
+    - eventually the
+  - it would probably spew out hawking radiation as the binary pair
+    merges and disrupts the spacetime between them, so that the
+    spacetime can be reconciled and they can be merged.
+    - this should be visible as a burst of hawking radiation but
+      shifted in ways that are unexpected. probably chaotic in terms
+      of spectral content and polarization. a massive amount of
+      energy spews out, similar to gamma ray bursts.
+    - some of the energy would transform into higher forms of matter,
+      like subatomic particles
+  - the matter should splurge outward in between the two holes and
+    there should be some transition from singularity to
+    non-singularity.
+  - this burst of virtual particles likely happens anytime that large
+    massive objects fall into quasars and supermassive blackholes.
+    - but it's probably masked because the conditions in which these
+      particles emerge to reconcile the structure of spacetime don't
+      resemble those of normal blackholes
+
+- there might be some way to use this to calculate information about
+  size/shape/etc of the universe
+  - this being the phenomenon of strong space curvatures, such as
+    levels seen around black holes or in superclusters.
+  - these may contribute in some minor way to a resolution in
+    disonnance of strongly curved spacetime by virtualization and
+    emission of radiation, leading to a faint shadow in the
+    cosmological background radiation at difficult to explain
+    frequencies that don't match the CMB from the big bang
+    - i donno if it's true, but maybe
+
+- [see DeSitter Universe](https://en.wikipedia.org/wiki/De_Sitter_universe)
+  - [False Vacuum](https://en.wikipedia.org/wiki/False_vacuum)
+    - how well does this apply to gravity
+  - [Virtual Particle](https://en.wikipedia.org/wiki/Virtual_particle#Pair_production)
+
+- [Schild's Ladder](https://en.wikipedia.org/wiki/Schild%27s_Ladder)
+  - [Quantum Graph](https://en.wikipedia.org/wiki/Quantum_graph)
+=============
+
 # specifics of quantum entanglement based design
 
 - describe the variations in how particles would develop & retain

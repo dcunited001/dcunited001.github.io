@@ -394,9 +394,8 @@ future. This cannot be done. It should not be possible and these
 government sanctioned mafia tactics must never be practical. People
 deserve to know this so they can protect themselves, their family and
 their friends. In totalitarianism and communism, they seek to
-eliminate threats and anyone who accumulates resources is a
-threat. Property? Money? Food? Guns? Information? You're a
-threat.
+eliminate threats and anyone who accumulates resources is a threat.
+Property? Money? Food? Guns? Information? You're a threat.
 
 ###
 

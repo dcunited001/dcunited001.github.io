@@ -65,9 +65,23 @@ excerpt: "
 # Oh That's No Tennis Racket. That's Corruption and Extortion.
 
 
+# Medical Experimentation
+
+- [Ganser Syndrome](https://en.wikipedia.org/wiki/Ganser_syndrome)
+  - this seems to basically comprise using figurative speech and
+    speaking through metaphor to attempt to be non-cooperative in a
+    psychiatric setting.
+  - but apparently, it's in the DSM-IV TR ... i donno how. i've never
+    heard of it.
+
+- [Munchausen by Proxy]
+
+- [Declaration of Helsinki](https://en.wikipedia.org/wiki/Declaration_of_Helsinki)
+  - recent changes in 2008 and 2013
+  - these are patient rights for human experimentation
 
 
-
+- [Milgram Experiment](https://en.wikipedia.org/wiki/Milgram_experiment)
 
 # How Could This Happen Here?
 

@@ -15,6 +15,11 @@ should include a growth limiting mechanism
 - as in, no offical structure or *huge* focus on lots of money/power
 
 
+### [Discordianism](https://en.wikipedia.org/wiki/Discordianism)
+
+- similar to discordianism in its open source feel with a focus on literature
+- [Principia Discordia](https://en.wikipedia.org/wiki/Principia_Discordia)
+
 
 ### what if God was one of us?
 

@@ -189,3 +189,51 @@ worshipped, or whether you pray at all, some aspect of that connection
 to God is real because God is undeniably real. The absence of God
 isn't truth. It's a power vacuum that is almost always filled by some
 bunk kitsch cult of personality.
+
+
+
+
+
+
+
+### misc facebook discussion on atheism
+
+if it's a question that humans have asked for the entirety of history
+and pre-history and your answer isn't "Brahma" or "Buddha" or "God" or
+"Yahweh" or "Yaldaboath" ... but instead, your answer is "No, I don't
+believe in any of those" then, right there, you've stated a belief in
+an answer to a question which is unquestionably universal.
+
+Atheism is not the lack of a belief system. in fact, if it weren't a
+label, itself, you couldn't relate to other people with the same
+belief system... omfg, no offense to you, but i personally cannot
+stand the "it's not a belief system" argument. because it's factually,
+logically and demonstrably false, invalid, fallacious. again, no
+offense to y'all, personally. this is an argument that's played out
+many times.
+
+atheism is a conviction in belief that overwhelming evidence disproves
+God. if science didn't give you that evidence, atheists likely would
+believe something else. Why? because they would need God, just like
+they NEED science. every person has a NEED to understand the world.
+
+however, to me, science does give plenty of evidence for God. and i
+think atheists are foolish for rejecting the accumulated wisdom of
+dozens of generations by rejecting Christianity and religion. What do
+atheists replace that with? nothing. we're talking about the Bible, a
+book that, for millenia, was the ONLY book that people thought worth
+creating institutions that paid people by the hundreds to copy by
+hand. they thought it was that important.
+
+for the militant and political atheists out there, what do you replace
+it with? oh, nothing? great! oh, cult of personality and
+state-worship? OH GREAT, worship of a man like Kim Il-Sung or Stalin
+... wow! one generation of accumulated wisdom & knowledge!! how do you
+think that's going to work out? what happened in 1989?
+
+but u know what's funny? it doesn't matter if religion itself were to
+be annihilated, eventually people would have to face the reality that
+a superintelligent AI has a come-to-Jesus moment. Aint' that
+hilarious?! take that little nugget of epiphany, tear a page out of
+the Communist Manifest, shove it in a pipe and smoke it because that
+movement is FUNDAMENTALLY PHILOSOPHICALLY FLAWED.
