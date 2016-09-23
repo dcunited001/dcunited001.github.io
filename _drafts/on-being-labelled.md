@@ -17,7 +17,7 @@ And for me? I have aspergers. I already have one of those conditions
 which end up giving someone a label. I have always been a bit gullible
 and I've always been a person who misunderstands social situations and
 I HAVE ENOUGH PROBLEMS WITHOUT HAVING TO DEAL WITH THOSE INTRODUCED
-ARTIFICIALLY BY "OCCUPATIONAL MEDICINERS" ... wtf do you call one of
+ARTIFICIALLY BY "OCCUPATIONAL MEDICINE" ... wtf do you call one of
 those yesmen anyways? These people abused a sensitive issue to leave
 me isolated and stranded against a person who, for his entire life,
 had been isolated out of a lack of social development. Furthermore,
