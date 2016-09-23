@@ -397,27 +397,32 @@ their friends. In totalitarianism and communism, they seek to
 eliminate threats and anyone who accumulates resources is a threat.
 Property? Money? Food? Guns? Information? You're a threat.
 
-###
+### Torture and Detainment is Our Greatest National Security Issue
 
 Again, the torture and illegal detainment of Americans is absolutely
-not a deterrent. It threatens our national security by enticing our
-population to commit war crimes by permanently damaging our citizens,
-psychologically and neurologically. It leads us to being less capable
-to compete in the global economy. The health of the American economy
-is also, in itself, a national security issue. All the while, our
-leaders feign ignorance and those who are involved or complicit are
-encouraged to defend this by guilt or by coercion.
+not a deterrent. I've looked into the specifics of these
+programs. They work by establishing a quasi-citizenship for the former
+US citizen and organizations like
+[DROPPM](https://www.ice.gov/doclib/foia/dro_policy_memos/09684drofieldpolicymanual.pdf)
+describe the specifics of "removal" operations. These programs
+threaten our national security by enticing our population to commit
+war crimes that permanently damage our citizens, psychologically and
+neurologically. It leads us to being less capable to compete in the
+global economy. The health of the American economy is also, in itself,
+a national security issue. All the while, our leaders feign ignorance
+and those who are involved or complicit are encouraged to defend this
+by guilt or by coercion.
 
-### (Long Term Agenda)
+### The US Government Always Expected to Transition to Martial Law
 
 The long-term strategic design of these programs, from a legal and
 logistic standpoint, implies that this may not be to simply prepare us
-for a national emergency and martial law, but that martial law and
-transition to a totalitarian government was the destination, nearly
-from the outset. If so, what's the goal? How could this possibly be
-justified? Does that mean that whatever catastrophes our leaders claim
-to justify this with ... does that imply it's inevitable?
-
+for a national emergency and martial law.  Instead, it may be that
+martial law and transition to a totalitarian government was always the
+destination, nearly from the outset. If so, what's the goal? How could
+this possibly be justified? Does that mean that whatever catastrophes
+our leaders claim to justify this with ... does that imply it's
+inevitable?
 
 # That's Detention for you Mr. Nelson!
 
@@ -471,17 +476,21 @@ psychological factor that led him to want to experience those
 things. Still, at his age, people are unlikely to satisfy that. I
 don't actually believe the charges levelled against them.
 
-Well, in addition to Asperger's, I have never been permitted to have
-those young adult to early adult experiences. So therefore, I am at
-risk of forever being trapped in that mindset. It's because I'm too
-young to integrate socially with people my age to permit me those
-experiences which get me to the next level. The people around my
-family who have been manipulating them through government institutions
-know this. They couldn't possibly know this, but I suspect they've
-provided my family with phony assessments of my behavior, duplicitous
-in nature, that encourage them to magnify the effects of psychological
-torture, of which my family couldn't possibly have wanted to be
-part. So the protechThe problems I have is not psychiatric or caused by chemical
+In addition to Asperger's, I have never been permitted to have those
+young adult to early adult experiences. So therefore, I am at risk of
+forever being trapped in a psychologically undeveloped mindset. It's
+because I'm too young to integrate socially with people my age to
+permit me those experiences which get me to the next level. The people
+around my family who have been manipulating them through government
+institutions know this. They couldn't possibly know this, but I
+suspect they've provided my family with phony assessments of my
+behavior, duplicitous in nature, that encourage them to magnify the
+effects of psychological torture, of which my family couldn't possibly
+have wanted to be part.
+
+...?
+
+The problems I have are not psychiatric or caused by chemical
 imbalance. It's really not even psychological, though it's certainly
 led to that. It's mostly sociological.
 
@@ -493,7 +502,9 @@ actions are downright malevalent. They fan out this toxic miasma that
 poisons your psychology, your social network and especially anyone who
 might not know better than to yank back that helping hand.
 
-#### How long have you been without sex? Without a kiss? Without an embrace from a girl?
+#### How long have you been without sex?
+
+#### Without a kiss? Without an embrace from a girl?
 
 #### How long have you been without a job?
 
@@ -623,9 +634,9 @@ overlap. That is, these shell companies pushing torture for a digital
 buck and modest digital success will receive payments from the same
 sets of people.
 
-These paper tiger-torture companies will include:
+These paper-tiger-torture companies will include:
 
-#### Video game "programmers" who somehow sell games on steam written in Visual Basic 6 and double as hackers who act like they don't have skills and knowingly install spyware on the Geek Squad
+#### Video game "programmers" who somehow sell games on steam written in Visual Basic 6 and double as hackers who act like they don't have skills and knowingly install spyware on Geek Squad
 
 #### Cosplayers and crafty peeps with a patreon account
 
@@ -641,7 +652,7 @@ These paper tiger-torture companies will include:
 
 Meanwhile, everyone I know tells me my products have no hope and that
 I'm a lazy failure, when I'm truly a workaholic, in the most
-tragically ironic sense. America is a joke, but no one bats an eye,
+ironically tragic sense. America is a joke, but no one bats an eye,
 which means this is just how it is. I'm afraid it's how it has always
 been. I asked way too many questions about America around 20 years
 old, from a sense of patriotism. I've always been a patriot. Now that
@@ -651,7 +662,7 @@ that this is it? This is the real thing and this is normal? THIS IS
 FINE?!! What the hell is wrong with you people?
 
 This isn't a free market! There are no algorithms running in social
-media that aren't micromanaged by the NSA> C'mon are you fucking
+media that aren't micromanaged by the NSA! C'mon are you fucking
 kidding me? Everybody and their grandma knows how to bake cookies or
 set up a wordpress site. If you don't there's 1,000 blogs, podcasts
 and videos that will tell you how and THEY ARE FREE. The writer's own
@@ -683,8 +694,6 @@ complicitly, but in total naivety about what they are really doing
 because they've been brainwashed into being programmable puppets in
 pursuit of the alienation of those meddlin' Americans who just asked
 too many damn questions. Jeenkies!
-
-
 
 ###
 
