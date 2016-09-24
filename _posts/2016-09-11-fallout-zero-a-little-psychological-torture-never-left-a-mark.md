@@ -13,8 +13,10 @@ excerpt: "
 I might have figured out what was happening to me or what would happen
 to me, except I was blindfolded. Not literally, but metaphoricly.
 
-# TOC
+TODO: preface with notes about martial law being absolutely required
+as justification for any of this ... and even then ...
 
+# TOC
 
 <a name="zero-deterrence-companies" />
 
@@ -48,9 +50,9 @@ From a utilitarian standpoint, some of this research would arguably be
 very useful as we're approaching a time when we're undergoing a major
 sociocultural shift in the wake of technology, but ...
 
-<a name="" />
+<a name="psychological-torture-is-a-warcrime" />
 
-### Technically, Pschological Torture Is A Warcrime.
+### [Technically, Pschological Torture Is A Warcrime. Period.](#psychological-torture-is-a-warcrime)
 
 #### Warcrime?! What a Bummer, Dude!
 
@@ -61,9 +63,9 @@ activities. As a victim who's suffered for a decade, I'm so fucking
 sick of it, quite literally. I have irreversible neurological damage,
 just from protracted, untreated depression.
 
-<a name="" />
+<a name="exhibit-z-my-brain" />
 
-# Exhibit Z: My Brain
+# [Exhibit Z: My Brain](#exhibit-z-my-brain)
 
 There should be obvious physical evidence in a current high-resolution
 MRI, visible as degradation since my last MRI in March 2014. This
@@ -79,9 +81,9 @@ anything. Trust me, I've searched high and low for a disease that
 makes sense and there is nothing that exists which matches the
 presentation, progression and age of initial presentation.
 
-<a name="" />
+<a name="a-living-will-and-testament-for-justice" />
 
-### A Living Will And Testament For Justice
+### [A Living Will And Testament For Justice](#a-living-will-and-testament-for-justice)
 
 If anything should happen to me, my brain should be preserved and
 studied by independent scientists who (1) publish a map of my brain
@@ -99,9 +101,9 @@ happenens, you can bet that some douchebags will try to say this
 paragraph doesn't count as a statement of living will and testament.
 Technically and legally, it may not, but fuck those guys.
 
-<a name="" />
+<a name="i-never-signed-that" />
 
-### I Never Signed That
+### [I Never Signed That](#i-never-signed-that)
 
 #### I Quite Emphatically Have No Idea What You're Talking About
 
@@ -124,9 +126,9 @@ day.
 
 (TODO: link to anchor link below)
 
-<a name="" />
+<a name="somebody-call-the-spca" />
 
-# Somebody Call The SPCA!
+# [Somebody Call The SPCA!](#somebody-call-the-spca)
 
 #### My Life Feels A Lot Like Animal Abuse
 
@@ -139,9 +141,9 @@ a tactic. Draw them in and push everyone else away before you ruin
 their mind, slowly and painfully. Make sure they never dream of love
 or compassion again.
 
-<a name="" />
+<a name="at-least-its-not-a-gulag" />
 
-### At Least It's Not A Gulag
+### [At Least It's Not A Gulag](#at-least-its-not-a-gulag)
 
 At least it's not months and years reeling in chains buried in a
 physical dungeon. Or starving in a Gulag. Yet, this is what they are
@@ -155,9 +157,9 @@ functioning. I finished even the job for them. I snapped the last
 pieces of my heart so I could numb the pain. Yet, no matter how they
 twisted or tugged or viced, they never broke my spirit.
 
-<a name="" />
+<a name="guilty-upon-examination-of-public-federal-documentation" />
 
-# Guilty Upon Examination of Public Federal Documentation
+# [Guilty Upon Examination of Public Federal Documentation](#guilty-upon-examination-of-public-federal-documentation)
 
 The label the ICRC uses is
 [Leave No Marks](https://insomniadiary.wordpress.com/2014/01/18/icrc-report-on-the-treatment-of-fourteen-high-value-detainees-in-cia-custody/). According
@@ -168,9 +170,9 @@ organization that is required to be notified of the acquisition of a
 torture, a loosely applied definition. It's supposed to mean a
 prisoner of war, but it's not.
 
-<a name="" />
+<a name="duplicity-in-the-jsfc-war-college-process-documentation" />
 
-### Duplicity in the JSFC War College Process Documentation
+### [Duplicity in the JSFC War College Process Documentation](#duplicity-in-the-jsfc-war-college-process-documentation)
 
 Look at the JSFC document yourself and simply ask yourself: if I was
 in Vietnam or Iraq, would I capture someone and apply these
@@ -181,7 +183,7 @@ but it's just another US Government exercise in duplicity. These docs
 aren't secret or classified, but the indicated some quite valuable
 information to me, so they might get memory holed.
 
-#### Specifically, would you let detainees keep most of their possessions?
+#### &2605; Specifically, would you let detainees keep most of their possessions?
 
 HELL NO! If you're a prisoner of war in Iraq and I was the commanding
 officer, I would be furious to find that a POW had anything more than
@@ -189,7 +191,7 @@ a Qu'ran, at most. Glancing over this document lead me to ask a dozen
 questions like this. There are several documents I've seen like this
 one.
 
-#### Do prisoners receive anything but medications necessary for sustaining their lives?
+#### &2605; Do prisoners receive anything but medications necessary for sustaining their lives?
 
 They'd be lucky if they did. I doubt the Taliban would administer even
 that. So why are there so many procedures specific to that? Why does
@@ -205,21 +207,21 @@ life-or-death, then...
 
 ### How many of those soldiers, outside of combat medics:
 
-#### (1) are trained to recognize life-or-death situations/symptoms/medications
+#### &2605; (1) are trained to recognize life-or-death situations/symptoms/medications
 
-#### (2) have the time to be concerned with it
+#### &2605; (2) have the time to be concerned with it
 
-#### (3) want to accept the liability for prescribing it
+#### &2605; (3) want to accept the liability for prescribing it
 
-#### (4) care enough to draw from our own supplies, except in life or death situations.
+#### &2605; (4) care enough to draw from our own supplies, except in life or death situations.
 
 And remember, because even though it's a warzone, medical malpractice,
 withheld treatment and generally doing anything to end a POW's life is
 a *WARCRIME*.
 
-<a name="" />
+<a name="who-are-we-at-war-with-anyways" />
 
-# Who Are We At War With, Anyways?
+# [Who Are We At War With, Anyways?](#who-are-we-at-war-with-anyways)
 
 Now ask yourself: why is it that the duplicitous, meticulously
 crafted, well-hidden definitions of "detainee" can be so easily
@@ -233,9 +235,9 @@ without notification under the NDAA? *BECAUSE AMERICA IS A WARZONE.*
 
 WTF?! America's a warzone?! That's nonsense...
 
-<a name="" />
+<a name="catch-22s-and-posse-comitatus" />
 
-### Catch-22's and Posse Comitatus
+### [Catch-22's and Posse Comitatus](#catch-22s-and-posse-comitatus)
 
 Either way, the question above is a Catch-22. I'd rather pick the one
 that doesn't involve warcrimes, but I'm hardly the one on trial
@@ -245,9 +247,9 @@ why the Army is leading these operations on American soil. Posse
 Comitatus, anyone? Oh, but I guess Caeser done crossed the Rubicon,
 huh?
 
-<a name="" />
+<a name="julius-caeser-and-silly-roman-superstitions" />
 
-### Julius Caeser and Silly Roman Superstitions
+### [Julius Caeser and Silly Roman Superstitions](#julius-caeser-and-silly-roman-superstitions)
 
 > You know what they say about the Rubicon, right? Once you go whack,
 > you never go back.
@@ -268,7 +270,7 @@ incriminate themselves under some false presumption, as though we
 ourselves are the enemy in the War on Terror. And it would look like
 some Americans are just straight up slaves at this point!
 
-### Where's the War on Terror Being Fought?
+### [Where's the War on Terror Being Fought?](#wheres-the-war-on-terror-being-fought)
 
 The last time I checked, the War on Terror was fighting some enemy
 hellbent on the destruction of America in some sandy, desolate country
@@ -283,16 +285,31 @@ shipments of arms? Where are the flag-burnings? Where's the
 anti-American sentiment? If proclamation that our rates are sacred is
 tantamount to treason, then string me up and call me bin Laden.
 
-<a name="" />
+<a name="domestic-psychological-and-informational-warfare-is-cowardly" />
 
-### Domestic Psychological & Informational Is Cowardly
+### [Domestic Psychological & Informational Warefare Is Cowardly](#domestic-psychological-and-informational-warfare-is-cowardly)
 
-It is immoral to encourage conflict among Americans who are ignorant
-of what's truly going on. It is cowardly to do this, explaining it
-away as being strategically superior. Please tell me more about how
-these actions are strategic! It is unethical to do all this in willful
-ignorance, claiming we're doing it for our own self-preservation when
-it's more likely to lead to our demise.
+What do you think of a sucker punch? Would you stab a man in the back?
+Like ... literally stab a man in the back while he's not expecting it?
+Would you shoot a man, woman or child in the back? What if that man or
+woman had a family? Would you maim, disable or disappear the
+breadwinner of that family? Would you condone violence against those
+who aren't expecting a fight, simply to gain ground early on?
+
+*No. You wouldn't, would you. Especially if they did not understand
+they were in a warzone.*
+
+It's immoral to encourage conflict among Americans who are ignorant of
+what's truly going on. It is cowardly to do this, explaining it away
+as being strategically superior. And please tell me more about how
+these actions are strategic! It is unethical to conduct all this
+psychological and informational warfare in willful ignorance, claiming
+we're doing it for our own self-preservation when it's more likely to
+lead to our demise. IMO, conducting such operations on an unexpecting
+citizenry is worse than Pearl Harbor! Yeh ... no one got shot, but you
+Pearl Harbor'd your own citizens with psychological and chemical
+warfare intending to identify and disable those who might fight back!
+That's so cowardly! *IT IS DESPICABLE!*
 
 The degree of behavior leading us to cover up reported torture,
 especially on US Citizens implies foreknowledge and calculation and
@@ -300,17 +317,17 @@ entanglement with legal counsel. Also, providing legal advice to
 someone on how to get away with warcrimes is a warcrime. I read that
 somewhere.
 
-<a name="" />
+<a name="why-r-u-so-mad-dood" />
 
-# WHY R U SO MAD DOOD?!
+# [WHY R U SO MAD DOOD?!](#why-r-u-so-mad-dood)
 
 And yeh ... you might ask me that and I'd tell you that I've been
 through up to a decade of this and at least five years. And I'm lucky
 I haven't been killed or commited suicide or worse.
 
-<a name="" />
+<a name="dantes-inferno-and-fates-worse-than-death" />
 
-### Dante's Inferno and Fates Worse Than Death
+### [Dante's Inferno and Fates Worse Than Death](#dantes-inferno-and-fates-worse-than-death)
 
 Yes, there is are worse things than death. Much worse. Like what's
 happening right here, right now, in my life. In Dante's Inferno, the
@@ -329,9 +346,9 @@ To me, the answer to that is clear. The ownership for the original sin
 and such collateral damage belongs to all of us, but especially those
 who worked the hardest and lied the most.
 
-<a name="" />
+<a name="waterboarding-on-supersoakers" />
 
-### Waterboarding On Supersoakers
+### [Waterboarding On Supersoakers](#waterboarding-on-supersoakers)
 
 These people act like waterboarding is basically as a bad as goin to
 the pool to get a suntan and somebody splashes a little water on you
@@ -347,9 +364,9 @@ past few years, but this is incomprehensible. In the name of national
 security, you have created the single biggest threat to national
 security.
 
-<a name="" />
+<a name="oh-its-research-then-publish-your-data" />
 
-### Oh It's Research?! Then Publish Your Data!
+### [Oh It's Research?! Then Publish Your Data!](#oh-its-research-then-publish-your-data)
 
 These programs are not authentic research, by any stretch of the
 imagination. AFAIK, they don't collect quantifiable records and any
@@ -357,9 +374,9 @@ they do would be destroyed to minimize long-term liability. Further,
 these programs are expensive in terms of collateral damage to the
 public health of the American.
 
-<a name="" />
+<a name="now-im-even-more-afraid-to-seek-psychological-help" />
 
-### Now I'm Even More Afraid to Seek Psychological Help
+### [Now I'm Even More Afraid to Seek Psychological Help](#now-im-even-more-afraid-to-seek-psychological-help)
 
 I was already afraid to seek help from the government reeducation
 known as "Drug Treatment." That already preventing me from seeking
@@ -379,9 +396,12 @@ know they aren't intentionally lying about you? Either way, if you're
 suicided, there's going to be no one to ask questions, especially if
 you couldn't properly articulate your questions.
 
-<a name="" />
+<a name="if-youve-made-it-close-to-where-i-am-you-have-nothing" />
 
-### If You've Made It Close To Where I Am, You Have NOTHING
+### [If You've Made It Close To Where I Am, You Have NOTHING](#if-youve-made-it-close-to-where-i-am-you-have-nothing)
+
+... except for spiritually transformative revelations, if you're so
+inclined. Gee, thanks!
 
 If you made it that far in these programs, you can be sure that you
 don't have financial resources and that your friends and family, if
@@ -390,9 +410,9 @@ they won't offer any help. You'll have no one. In my case, a family
 might have thought of a suicide as the inevitable conclusion to a long
 saga of struggles with personal mental health issues.
 
-<a name="" />
+<a name="you-did-what-to-my-family" />
 
-### Wait, Wait, Wait ... YOU DID WHAT TO MY FAMILY?!
+### [Wait, Wait, Wait ... YOU DID WHAT TO MY FAMILY?!](#you-did-what-to-my-family)
 
 However, in my case, my family had been compromised. They wouldn't ask
 any questions if I was suicided. Why the fuck would they do that if
@@ -410,9 +430,9 @@ business affairs of the skating rink and AFAIK, we wouldn't ever allow
 outside investment, but we did. It's a family business for a
 reason.
 
-<a name="" />
+<a name="oh-thats-no-tennis-racket" />
 
-# Oh That's No Tennis Racket. That's Corruption and Extortion.
+# [Oh That's No Tennis Racket. That's Corruption and Extortion.](#oh-thats-no-tennis-racket)
 
 However, to organized crime or a government dangerously close to
 tyranny, a small business, a real estate asset or anything of value
@@ -427,9 +447,9 @@ government is running. *IT'S A HIGHLY EFFECTIVE,
 NATIONAL SECURITY AND PATRIOTISM.* And who knows the end goals of such
 criminals?
 
-<a name="" />
+<a name="who-can-best-stand-up-for-the-victims" />
 
-### Who Can Best Stand Up For The Victims?
+### [Who Can Best Stand Up For The Victims?](#who-can-best-stand-up-for-the-victims)
 
 That's insane, by the way. But, that's what happened and I think I can
 forgive people, but I want to know what happened and I want everyone
@@ -442,9 +462,9 @@ their friends. In totalitarianism and communism, they seek to
 eliminate threats and anyone who accumulates resources is a threat.
 Property? Money? Food? Guns? Information? You're a threat.
 
-<a name="" />
+<a name="torture-and-detainment-is-our-greatest-national-security-issue" />
 
-### Torture and Detainment is Our Greatest National Security Issue
+### [Torture and Detainment is Our Greatest National Security Issue](#torture-and-detainment-is-our-greatest-national-security-issue)
 
 Again, the torture and illegal detainment of Americans is absolutely
 not a deterrent. I've looked into the specifics of these
@@ -460,9 +480,9 @@ a national security issue. All the while, our leaders feign ignorance
 and those who are involved or complicit are encouraged to defend this
 by guilt or by coercion.
 
-<a name="" />
+<a name="the-us-government-always-expected-to-transition-to-martial-law" />
 
-### The US Government Always Expected to Transition to Martial Law
+### [The US Government Always Expected to Transition to Martial Law](#the-us-government-always-expected-to-transition-to-martial-law)
 
 The long-term strategic design of these programs, from a legal and
 logistic standpoint, implies that this may not be to simply prepare us
@@ -473,9 +493,9 @@ this possibly be justified? Does that mean that whatever catastrophes
 our leaders claim to justify this with ... does that imply it's
 inevitable?
 
-<a name="" />
+<a name="thats-detention-for-you-mr-nelson" />
 
-# That's Detention for you Mr. Nelson!
+# [That's Detention for you Mr. Nelson!](#thats-detention-for-you-mr-nelson)
 
 #### These Programs Are Designed to Mirror Detention from High School
 
@@ -488,30 +508,30 @@ that point, the Evil Santa from Futuram determines who gets presents
 and who ... uhhh you don't want to know the rest. But I'm going to
 tell you anyway.
 
-<a name="" />
+<a name="how-do-they-control-you-in-detention" />
 
-### How Do They Control You In Detention?
+### [How Do They Control You In Detention?](#how-do-they-control-you-in-detention)
 
-#### What makes you happy? Sex? Fame?
+#### &2605; What makes you happy? Sex? Fame?
 
-#### What do you need to be happy? Food? Money?
+#### &2605; What do you need to be happy? Food? Money?
 
-#### What do you need to survive? Food? Shelter? Love?
+#### &2605; What do you need to survive? Food? Shelter? Love?
 
-#### What gets you going? Success? Drugs?
+#### &2605; What gets you going? Success? Drugs?
 
-#### What are your dreams? For yourself? For your children?
+#### &2605; What are your dreams? For yourself? For your children?
 
-#### What are your goals? Short term? Long term?
+#### &2605; What are your goals? Short term? Long term?
 
 They do it through poverty, isolation, incrimination.  They do it by
 creating situations around you that push people away. They do it by
 spreading rumors. They do it by affecting your visibility on social
 media applications.
 
-<a name="" />
+<a name="its-immature-plain-and-simple" />
 
-### It's Immature, Plain and Simple
+### [It's Immature, Plain and Simple](#its-immature-plain-and-simple)
 
 What they do is so incredibly immature, if you think about it. For me,
 they actively engaged in disconnecting me from any friendships or
@@ -523,9 +543,9 @@ positive things, to create a state similar to that of an abused dog
 that's afraid of every person who extends their arm, regardless of
 whether that person intended to harm or heal.
 
-<a name="" />
+<a name="robbed-of-types-of-experiences-necessary-for-social-development" />
 
-### Robbed of Types of Experiences Necessary for Social Development
+### [Robbed of Types of Experiences Necessary for Social Development](#robbed-of-types-of-experiences-necessary-for-social-development)
 
 For me, it lasted so long, it's done irreversible emotional and
 psychological damage. It's affected me so long that I've been
@@ -554,9 +574,9 @@ led to that. It's mostly sociological. People treat me differently and
 I'm mostly ignored, AFAIK. Once you get to a certain age, you lose the
 chance for some psychological development.
 
-<a name="" />
+<a name="the-psychosocial-miasma-feuling-a-plague-of-negativity" />
 
-### The Psychosocial Miasma Fueling A Plague of Negativity
+### [The Psychosocial Miasma Fueling A Plague of Negativity](#the-psychosocial-miasma-feuling-a-plague-of-negativity)
 
 When you consider how methodically they planned this and how very
 aware they are of personal information and occult psychology, their
@@ -564,17 +584,17 @@ actions are downright malevalent. They fan out this toxic miasma that
 poisons your psychology, your social network and especially anyone who
 might not know better than to yank back that helping hand.
 
-#### How long have you been without sex?
+#### &2605; How long have you been without sex?
 
-#### Without a kiss? Without an embrace from a girl?
+#### &2605; Without a kiss? Without an embrace from a girl?
 
-#### How long have you been without a job?
+#### &2605; How long have you been without a job?
 
-#### How long have you been without being able to freely choose who your friends are?
+#### &2605; How long have you been without being able to freely choose who your friends are?
 
-#### How long have you been independent?
+#### &2605; How long have you been independent?
 
-#### How long has your family begrudgingly supported you? Did they do it to keep you close?
+#### &2605; How long has your family begrudgingly supported you? Did they do it to keep you close?
 
 <a name="" />
 
@@ -656,7 +676,7 @@ pushing for justice.
 
 ### Here's an Idea I call Anew Deal
 
-#### Why Not Invest in Infrastructure, Instead of Taxpayer Funded Cannabilization Culture
+#### Why Not Invest in Infrastructure, Instead of Taxpayer Funded Cannabilization Culture?
 
 What they do is counterproductive and wildly distorts the American
 system of values that powers our economy! It flies right in the face
@@ -768,21 +788,21 @@ sets of people.
 
 ### These paper-tiger-torture companies include:
 
-#### Video game "programmers" who somehow sell games on steam written in Visual Basic 6 and double as hackers who act like they don't have skills and knowingly install spyware on Geek Squad
+#### &2605; Video game "programmers" who somehow sell games on steam written in Visual Basic 6 and double as hackers who act like they don't have skills and knowingly install spyware on Geek Squad
 
-#### Cosplayers and crafty peeps with a patreon account
+#### &2605; Cosplayers and crafty peeps with a patreon account
 
-#### Companies with access to medical, psychiatric, psychological, fitness and social media records
+#### &2605; Companies with access to medical, psychiatric, psychological, fitness and social media records
 
-#### The musician just released their first album on Spotify and needs bots to generate authentic plays for cash
+#### &2605; The musician just released their first album on Spotify and needs bots to generate authentic plays for cash
 
-#### That photographer who'd make a lot more money if they just had enough Instagram bots to generate the threshold of likes required to break through the newsfeed stream of their friends
+#### &2605; That photographer who'd make a lot more money if they just had enough Instagram bots to generate the threshold of likes required to break through the newsfeed stream of their friends
 
-#### Anyone who resells souls by the sheaf for likes on Facebook
+#### &2605; Anyone who resells souls by the sheaf for likes on Facebook
 
-#### These are the same people for whom it's literally impossible for their product to any demand whatsoever in a free market.
+#### &2605; These are the same people for whom it's literally impossible for their product to any demand whatsoever in a free market.
 
-#### Writers who exclusively write digital how-to "e-books" whatever the fuck those are, when their titles couldn't possibly sell because there's simply no market for e-books on "How to Bake Cookies Like Grandma."
+#### &2605; Writers who exclusively write digital how-to "e-books" whatever the fuck those are, when their titles couldn't possibly sell because there's simply no market for e-books on "How to Bake Cookies Like Grandma."
 
 Meanwhile, everyone I know tells me my products have no hope and that
 I'm a lazy failure, when I'm truly a workaholic, in the most
