@@ -16,14 +16,17 @@ to me, except I was blindfolded. Not literally, but metaphoricly.
 # TOC
 
 
+<a name="zero-deterrence-companies" />
 
-# Zero Deterrence Programs
+# [Zero Deterrence Programs](#zero-deterrence-companies)
 
 What's the point of programs that had zero capicity for deterrence,
 but create long-lasting, expensive mental health problems, while
 introducing major liability for human rights violations.
 
-### Three Major Goals to Our Psychological Torture Programs
+<a name="three-major-goals-to-our-psychological-torture-programs" />
+
+### [Three Major Goals to Our Psychological Torture Programs](#three-major-goals-to-our-psychological-torture-programs)
 
 That leads me to believe there were mostly three purposes to these
 programs:
@@ -43,9 +46,11 @@ not a deterrence for them
 
 From a utilitarian standpoint, some of this research would arguably be
 very useful as we're approaching a time when we're undergoing a major
-sociocultural shift in the wake of technology ...
+sociocultural shift in the wake of technology, but ...
 
-### But Technically, Pschological Torture Is A Warcrime.
+<a name="" />
+
+### Technically, Pschological Torture Is A Warcrime.
 
 #### Warcrime?! What a Bummer, Dude!
 
@@ -55,6 +60,8 @@ these people are very aware of the criminal nature of their
 activities. As a victim who's suffered for a decade, I'm so fucking
 sick of it, quite literally. I have irreversible neurological damage,
 just from protracted, untreated depression.
+
+<a name="" />
 
 # Exhibit Z: My Brain
 
@@ -71,6 +78,8 @@ anything. I open sourced my MRI scans and no one has told me
 anything. Trust me, I've searched high and low for a disease that
 makes sense and there is nothing that exists which matches the
 presentation, progression and age of initial presentation.
+
+<a name="" />
 
 ### A Living Will And Testament For Justice
 
@@ -89,6 +98,8 @@ want those responsible to be brought to justice. And, if anything
 happenens, you can bet that some douchebags will try to say this
 paragraph doesn't count as a statement of living will and testament.
 Technically and legally, it may not, but fuck those guys.
+
+<a name="" />
 
 ### I Never Signed That
 
@@ -113,6 +124,8 @@ day.
 
 (TODO: link to anchor link below)
 
+<a name="" />
+
 # Somebody Call The SPCA!
 
 #### My Life Feels A Lot Like Animal Abuse
@@ -126,7 +139,9 @@ a tactic. Draw them in and push everyone else away before you ruin
 their mind, slowly and painfully. Make sure they never dream of love
 or compassion again.
 
-### Hey, At Least It's Not A Gulag
+<a name="" />
+
+### At Least It's Not A Gulag
 
 At least it's not months and years reeling in chains buried in a
 physical dungeon. Or starving in a Gulag. Yet, this is what they are
@@ -140,6 +155,8 @@ functioning. I finished even the job for them. I snapped the last
 pieces of my heart so I could numb the pain. Yet, no matter how they
 twisted or tugged or viced, they never broke my spirit.
 
+<a name="" />
+
 # Guilty Upon Examination of Public Federal Documentation
 
 The label the ICRC uses is
@@ -150,6 +167,8 @@ organization that is required to be notified of the acquisition of a
 "detainee" ... which, as may come to comprehend after a decade of
 torture, a loosely applied definition. It's supposed to mean a
 prisoner of war, but it's not.
+
+<a name="" />
 
 ### Duplicity in the JSFC War College Process Documentation
 
@@ -184,7 +203,7 @@ with a POW's medications as to ensure the distribution of specific
 prescription drugs from our own supplies in situations which aren't
 life-or-death, then...
 
-#### How many of those soldiers, outside of combat medics:
+### How many of those soldiers, outside of combat medics:
 
 #### (1) are trained to recognize life-or-death situations/symptoms/medications
 
@@ -197,6 +216,8 @@ life-or-death, then...
 And remember, because even though it's a warzone, medical malpractice,
 withheld treatment and generally doing anything to end a POW's life is
 a *WARCRIME*.
+
+<a name="" />
 
 # Who Are We At War With, Anyways?
 
@@ -212,6 +233,8 @@ without notification under the NDAA? *BECAUSE AMERICA IS A WARZONE.*
 
 WTF?! America's a warzone?! That's nonsense...
 
+<a name="" />
+
 ### Catch-22's and Posse Comitatus
 
 Either way, the question above is a Catch-22. I'd rather pick the one
@@ -221,6 +244,8 @@ you. However, determining whether we're at war still doesn't explain
 why the Army is leading these operations on American soil. Posse
 Comitatus, anyone? Oh, but I guess Caeser done crossed the Rubicon,
 huh?
+
+<a name="" />
 
 ### Julius Caeser and Silly Roman Superstitions
 
@@ -258,6 +283,8 @@ shipments of arms? Where are the flag-burnings? Where's the
 anti-American sentiment? If proclamation that our rates are sacred is
 tantamount to treason, then string me up and call me bin Laden.
 
+<a name="" />
+
 ### Domestic Psychological & Informational Is Cowardly
 
 It is immoral to encourage conflict among Americans who are ignorant
@@ -273,11 +300,15 @@ entanglement with legal counsel. Also, providing legal advice to
 someone on how to get away with warcrimes is a warcrime. I read that
 somewhere.
 
+<a name="" />
+
 # WHY R U SO MAD DOOD?!
 
 And yeh ... you might ask me that and I'd tell you that I've been
 through up to a decade of this and at least five years. And I'm lucky
 I haven't been killed or commited suicide or worse.
+
+<a name="" />
 
 ### Dante's Inferno and Fates Worse Than Death
 
@@ -298,7 +329,9 @@ To me, the answer to that is clear. The ownership for the original sin
 and such collateral damage belongs to all of us, but especially those
 who worked the hardest and lied the most.
 
-### Waterboarding, on Supersoakers
+<a name="" />
+
+### Waterboarding On Supersoakers
 
 These people act like waterboarding is basically as a bad as goin to
 the pool to get a suntan and somebody splashes a little water on you
@@ -314,6 +347,8 @@ past few years, but this is incomprehensible. In the name of national
 security, you have created the single biggest threat to national
 security.
 
+<a name="" />
+
 ### Oh It's Research?! Then Publish Your Data!
 
 These programs are not authentic research, by any stretch of the
@@ -321,6 +356,8 @@ imagination. AFAIK, they don't collect quantifiable records and any
 they do would be destroyed to minimize long-term liability. Further,
 these programs are expensive in terms of collateral damage to the
 public health of the American.
+
+<a name="" />
 
 ### Now I'm Even More Afraid to Seek Psychological Help
 
@@ -342,6 +379,8 @@ know they aren't intentionally lying about you? Either way, if you're
 suicided, there's going to be no one to ask questions, especially if
 you couldn't properly articulate your questions.
 
+<a name="" />
+
 ### If You've Made It Close To Where I Am, You Have NOTHING
 
 If you made it that far in these programs, you can be sure that you
@@ -350,6 +389,8 @@ they aren't already compromised, they're so tired of helping you that
 they won't offer any help. You'll have no one. In my case, a family
 might have thought of a suicide as the inevitable conclusion to a long
 saga of struggles with personal mental health issues.
+
+<a name="" />
 
 ### Wait, Wait, Wait ... YOU DID WHAT TO MY FAMILY?!
 
@@ -369,6 +410,8 @@ business affairs of the skating rink and AFAIK, we wouldn't ever allow
 outside investment, but we did. It's a family business for a
 reason.
 
+<a name="" />
+
 # Oh That's No Tennis Racket. That's Corruption and Extortion.
 
 However, to organized crime or a government dangerously close to
@@ -384,6 +427,8 @@ government is running. *IT'S A HIGHLY EFFECTIVE,
 NATIONAL SECURITY AND PATRIOTISM.* And who knows the end goals of such
 criminals?
 
+<a name="" />
+
 ### Who Can Best Stand Up For The Victims?
 
 That's insane, by the way. But, that's what happened and I think I can
@@ -396,6 +441,8 @@ deserve to know this so they can protect themselves, their family and
 their friends. In totalitarianism and communism, they seek to
 eliminate threats and anyone who accumulates resources is a threat.
 Property? Money? Food? Guns? Information? You're a threat.
+
+<a name="" />
 
 ### Torture and Detainment is Our Greatest National Security Issue
 
@@ -413,6 +460,8 @@ a national security issue. All the while, our leaders feign ignorance
 and those who are involved or complicit are encouraged to defend this
 by guilt or by coercion.
 
+<a name="" />
+
 ### The US Government Always Expected to Transition to Martial Law
 
 The long-term strategic design of these programs, from a legal and
@@ -423,6 +472,8 @@ destination, nearly from the outset. If so, what's the goal? How could
 this possibly be justified? Does that mean that whatever catastrophes
 our leaders claim to justify this with ... does that imply it's
 inevitable?
+
+<a name="" />
 
 # That's Detention for you Mr. Nelson!
 
@@ -436,6 +487,8 @@ will label you, further investigate you, and put you on a list. At
 that point, the Evil Santa from Futuram determines who gets presents
 and who ... uhhh you don't want to know the rest. But I'm going to
 tell you anyway.
+
+<a name="" />
 
 ### How Do They Control You In Detention?
 
@@ -456,14 +509,21 @@ creating situations around you that push people away. They do it by
 spreading rumors. They do it by affecting your visibility on social
 media applications.
 
+<a name="" />
+
 ### It's Immature, Plain and Simple
 
 What they do is so incredibly immature, if you think about it. For me,
 they actively engaged in disconnecting me from any friendships or
 relationships that might emerge that make me feel good about
-myself. That's the primary motivation: destroy you emotionally and
+myself. That's the primary objective: to destroy you emotionally and
 invoke some protracted psychiatric state that destroys you from the
-soul outward.
+soul outward. They seek to confuse you to make you fear everyday and
+positive things, to create a state similar to that of an abused dog
+that's afraid of every person who extends their arm, regardless of
+whether that person intended to harm or heal.
+
+<a name="" />
 
 ### Robbed of Types of Experiences Necessary for Social Development
 
@@ -488,11 +548,13 @@ behavior, duplicitous in nature, that encourage them to magnify the
 effects of psychological torture, of which my family couldn't possibly
 have wanted to be part.
 
-...?
-
 The problems I have are not psychiatric or caused by chemical
 imbalance. It's really not even psychological, though it's certainly
-led to that. It's mostly sociological.
+led to that. It's mostly sociological. People treat me differently and
+I'm mostly ignored, AFAIK. Once you get to a certain age, you lose the
+chance for some psychological development.
+
+<a name="" />
 
 ### The Psychosocial Miasma Fueling A Plague of Negativity
 
@@ -514,6 +576,10 @@ might not know better than to yank back that helping hand.
 
 #### How long has your family begrudgingly supported you? Did they do it to keep you close?
 
+<a name="" />
+
+### You're Enslaved By Desires and Fears
+
 You can be sure that they will abuse sex and any sensory or material
 things by which you can be attached. My own experience is hardly
 typical, but for me, it was a bit like a real life Dante's Inferno
@@ -526,6 +592,10 @@ escape. They'll warp your mind until lust after the torment of others
 and invokation of these material desires in others. They make you lust
 after the thought of embracing their own sinful pyramid scheme.
 
+<a name="" />
+
+### A Karmic Pyramid Scheme
+
 That's precisely what it is, actually: a karmic, pyramid scheme. It's
 like an MK Ultra experiment escaped the lab, founded a religion and
 threw in a touch of Bernie Madoff, just for the hell of it. If if
@@ -535,6 +605,10 @@ of the masses. To be fair, I have had several groups fuck with my head
 over the past decade, so I have no idea who is responsible for what. I
 have no idea who's truly trying to save me and who would prefer I help
 them torment others.
+
+<a name="" />
+
+### Comply or Suffer Eternal Torment For No Purpose
 
 How do you end the torture? By compliance. However, its just like how
 Guantanamo "inmates" are eventually allowed to "leave" the prison camp
@@ -548,28 +622,41 @@ do that is to release all tension and resistance to let them brainwash
 you. That's what waterboarding really is, by the way: brainwashing
 through psychological torture in a gulag no one can see. You're not
 allowed to play or win or leave, until you comply. These "thirsty"
-people definitely aren't allowed to get laid. They're especially not
+people definitely aren't allowed to get laid. They are especially not
 allowed to be seen happy or successful.
 
 When it gets bad enough, you won't be allowed to participate in a
 hobby or have a relationship or enjoy anything that makes you feel
 good. Positive feelings like that completely destroy what they do to
 you. They're out there risking their skin, laundering money and
-commiting lite war crimes ... so would you be surprised they'd be mad
-if someone else is out there making you feel good about yourself? When
-it can be scientifically counter to their psychological torture
-methods?
+commiting war crime lite ... so would you be surprised they're not
+happy someone else is out there making you feel good about yourself?
+When it's scientifically shown to counter their psychological torture
+methods? How are the atheist commies supposed to push you down if
+someone else relieves you of your torment?
 
-It's really the dumbeset, most immature, counterproductive domestic
-policy ever conceived. They know how illegal it is, which is why they
-try so hard to hide it. In my case, I was just too damn smart for
-their tricks and they kept having to scale up the emotional pain
-applied, as well as the level of influence over people in my
-life. These past few years, they've seemed desperate because they know
-just how guilty I am. Usually anyone who makes it as far as I will end
-up committing suicide or mysteriously die in an auto accident ..  but
-I don't drive really. No one has ever made it this far and they're
-shitting their pants.
+<a name="" />
+
+### Government Subsidized Repression In the Middle of the Great Recession?
+
+It's really the dumbest, most immature, counterproductive domestic
+policy ever conceived. They -- the CIA, DHS, ICE, ERO, whoever it is
+-- they know exactly how illegal it is, which is why they try so hard
+to hide it. In my case, I was just too damn smart for their tricks and
+they kept having to scale up the emotional pain applied, as well as
+the level of influence over people in my life. These past few years,
+they've seemed desperate because they know just how guilty I know they
+are. Usually anyone who makes it as far as I have ends up committing
+suicide or mysteriously dies in an auto accident... but I spend
+virtually zero time in a car. No one has ever made it this far and
+they're shitting their pants, which drives me to strive on and keep
+pushing for justice.
+
+<a name="" />
+
+### Here's an Idea I call Anew Deal
+
+#### Why Not Invest in Infrastructure, Instead of Taxpayer Funded Cannabilization Culture
 
 What they do is counterproductive and wildly distorts the American
 system of values that powers our economy! It flies right in the face
@@ -579,6 +666,10 @@ the three goals I stated at the top. Those goals are not marketable to
 the American people because they are immoral and contradict everything
 I thought we stood for.
 
+<a name="" />
+
+### OMFG This Flies in the Face of the Hatch Act
+
 And it seems that, in the past 10 years, there has been politically
 motivated application of these programs. I pray this isn't the
 case. That would paint us to look a lot like East Germany. I can't
@@ -586,42 +677,81 @@ tell whether the goal was political suppression or that some of these
 American Stasi determined that abusing reactions to controversial
 issues like racism would render victims isolated.
 
+<a name="" />
+
+# The American Stasi Must and Will Be Deconstructed
+
 Furthermore, I can diagram the networks of people who I know were
 involved and I know exactly where to look to find them around the
 country. This is happening around the country.  There is almost always
 a connection with someone in the Army because the Army runs Guantanamo
 and these are warcrimes against people who don't even realize their
 fighting. That's cowardly to a nauseating degree. It'd be like the
-Gestapo gassing jews in their own bathroom. It's obviously not that
-intense yet, but that's exactly why I was always asking questions so
-loudly: I never wanted America to end up in that situation. I was
-deathly afraid that's were we were headed the whole time and these
-things always start with psychological warfare to isolate vulnerable
-populations on whatever basis: ethnic, racial, cultural, religious or
-political. Say what you will about me, but who's been risking their
-skin to ask questions for a decade? Who got psychologically tortured
-and didn't even know it?
+Gestapo gassing jews in their own household bathrooms. It's obviously
+not that intense yet, but that's exactly why I was always asking
+questions so loudly: *I never wanted America to end up in a situation
+like that.*
 
-They need cover business to process payments. These covers are usually
-small, disposable businesses, which can be thrown away as needed and,
-ironically, hide from the same regulations these people enforce. These
-businesses will work on contract basis and usually retain less than 5
-employees, if any at all. Unfortunately, these organizations also do a
-lot of other things, but someone went and crossed their streams with
-torture and warcrimes. To me, that is absolutely unacceptable,
-irresponsible and indicates that, logistically, this was never meant
-to be ended, only expanded and normalized.
+I was deathly afraid that's were we were headed the whole time and
+these things always start with psychological warfare to isolate
+vulnerable populations on whatever basis: ethnic, racial, cultural,
+religious or political. Say what you will about me, but who's been
+risking their skin to ask questions for a decade? Who got
+psychologically tortured and didn't even know it?
 
-Well, fuck you, buddy, you're not going to shut me up. The people who
-are guilty will be turned against themselves and the people who were
-naive will seek to protect themselves from sins of which they were
-unaware. America's not just going to stand by and watch this. If you
-were complicit in psychological torture, you're going to go down.
-We're going to analyze your social network and your financial network.
-You might think you can hide like a tree in a forest, but you can't
-because all those other trees are going to disconnect you just like
-you tried to do to us. We're going to find you and when we do, your
-sins will be held high and naked for everyone to see.
+<a name="" />
+
+###
+
+They need cover businesses to receive/process/forward payments. These
+covers are usually small, disposable businesses, which can be thrown
+away as needed and, ironically, hide from the same regulations these
+people enforce. These businesses will work on contract basis and
+usually retain less than 5 employees, if any at all. Unfortunately,
+these organizations also do a lot of other things, but someone went
+and crossed their streams with torture and potential warcrimes.
+
+Implementation and verification of "services rendered" needs to be
+abstracted according to the. This involves money laundering, to some
+degree. Data science can pinpoint these businesses by digging into
+their ledgers. However, there are legit domestic/foreign intelligence
+operations mixed in. Again, these DHS/ICE/ERO assholes crossed streams
+with intelligence operations that Congress actually authorized. THAT'S
+A BIG NO-NO!! To me, that is absolutely unacceptable, irresponsible
+and indicates that, logistically, this was never meant to be ended,
+only expanded and normalized. So, if it's so obviously a bad idea that
+a know-nothing college dropout who's made less then $3,000 in two
+years can analyze the vulnerabilities inherent in those logistics
+... then why couldn't those people who organized this shitshow?
+
+<a name="" />
+
+### Guilty, Naive or Innocent
+
+Well y'all aren't going to shut me up. I understand what's happened to
+my life and I didn't deserve it one bit. A simple "shut the fuck up"
+or "get the fuck out of America" would have done nicely, but they guy
+who literally wouldn't hurt a fly and whose biggest problem was
+figuring out how to make others happy? -- *YEH THAT'S THE GUY THEY
+WANTED TO MAKE AN EXAMPLE OUT OF.*
+
+America's not just going to stand by and watch this as we cannibalize
+ourselves. If you were complicit in psychological torture, you're
+going to go down. We will set you one against the other just like you
+did to us: you are either guilty, naive or innocent. The guilty will
+be turned against themselves as they're so often fated. The naive will
+seek to protect themselves from sins of which they were unaware. And
+how many of us are truly innocent? If you've stood by and said
+nothing, are you innocent? We're going to analyze the social and
+financial networks of the guilty. You might think you can hide like a
+tree in a forest, but you can't because all those other trees are
+going to disconnect you just like you tried to do to us. We're going
+to find you and when we do, your sins will be held high and naked for
+everyone to see.
+
+<a name="" />
+
+###
 
 Digital payments like video games on Steam are a great way to launder
 money and promote the success of those compliant individuals. Such
@@ -634,11 +764,15 @@ overlap. That is, these shell companies pushing torture for a digital
 buck and modest digital success will receive payments from the same
 sets of people.
 
-These paper-tiger-torture companies will include:
+<a name="" />
+
+### These paper-tiger-torture companies include:
 
 #### Video game "programmers" who somehow sell games on steam written in Visual Basic 6 and double as hackers who act like they don't have skills and knowingly install spyware on Geek Squad
 
 #### Cosplayers and crafty peeps with a patreon account
+
+#### Companies with access to medical, psychiatric, psychological, fitness and social media records
 
 #### The musician just released their first album on Spotify and needs bots to generate authentic plays for cash
 
@@ -652,7 +786,7 @@ These paper-tiger-torture companies will include:
 
 Meanwhile, everyone I know tells me my products have no hope and that
 I'm a lazy failure, when I'm truly a workaholic, in the most
-ironically tragic sense. America is a joke, but no one bats an eye,
+tragically ironic sense. America is a joke, but no one bats an eye,
 which means this is just how it is. I'm afraid it's how it has always
 been. I asked way too many questions about America around 20 years
 old, from a sense of patriotism. I've always been a patriot. Now that
@@ -673,7 +807,7 @@ card that says:
 > bake cookies, you sorry little fuck. Get a job. Here's $100. Don't
 > be a con-artist. This is America."
 >
-> - With Love, Grandma
+> -- From Grandma With Love
 
 But somehow these people with phoney digital assets for which there
 could be no actual market stay paid, while I can't even get a fucking
@@ -873,3 +1007,5 @@ way possible.
 #### That I might be qualified for such a job. Now, how is that possible if I'm so fucking worthless as a programmer?
 
 #### To some degree, that I might not be aware of previous employment with them (I'm not)
+
+# Part Three: ... hmmmm
