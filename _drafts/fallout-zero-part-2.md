@@ -64,6 +64,10 @@ excerpt: "
 
 # [Here's My Argument, in a Nutshell](#heres-my-argument-in-a-nutshell)
 
+
+
+
+
 <a name="how-could-this-happen-here" />
 
 # [How Could This Happen Here?](#how-could-this-happen-here)
@@ -77,7 +81,7 @@ terrible.
 
 The first twenty years of my life, I was intentionally sheltered, so
 that I wouldn't know what to want in life and I didn't develop. The
-next ten years was rough. I was passionate about my rights and other
+next ten yeaqrs was rough. I was passionate about my rights and other
 issues, so I wanted to stand up for them, but no one really clued me
 in. So the isolation from license suspensions gave way to outright
 psychological torture with a budget. Now I'm worried that something's
