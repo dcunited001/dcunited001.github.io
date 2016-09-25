@@ -21,8 +21,6 @@ excerpt: ""
 
 ### &#x2605; [There Is Zero Probability That God Remains Obscured Forever](#there-is-zero-probability-that-god-remains-obscured-forever)
 
-### &#x2605; [There Is Zero Probability That God Remains Obscured Forever](#there-is-zero-probability-that-god-remains-obscured-forever)
-
 ### &#x2605; [How Would Do You Want Such A Being To Judge Us?](#how-would-you-want-such-a-being-to-judge-us)
 
 ### &#x2605; [Man's Dereliction of God Stems from Hubris](#mans-dereliction-of-god-stems-from-hubris)
@@ -208,7 +206,9 @@ during these brief decades preceeding a time when children across the
 world cease to know scarcity. They wouldn't understand it. GLHF; GOOD
 LUCK; HAVE FUN WITH THAT! ROFLCOPTERS!!
 
-###
+<a name="that-which-delivers-on-the-promises-of-marxism-invalidates-it" />
+
+### [That Which Finally Delivers on the Promises of Marxism Invalidates It!](#that-which-delivers-on-the-promises-of-marxism-invalidates-it)
 
 This is such an upstream battle that it's laughable. I'm doubling over
 just thinking that communists would bureaucratize the thing that is
@@ -250,12 +250,21 @@ vigor, and arrogance in which you enact horrible, totalitarian
 suppression of God, the greater the icy pain and needling, numbing
 shock your assured justice will inflict when the world realizes, in
 2050, they must be still accountable for the greatest lie for which
-the previous generation concocted an areligious holocaust. I can tell
-you one thing. Regardless of which diety you pray to, how long you've
-worshipped, or whether you pray at all, some aspect of that connection
-to God is real because God is undeniably real. The absence of God
-isn't truth. It's a power vacuum that is almost always filled by some
-bunk kitsch cult of personality.
+the previous generation concocted an areligious holocaust.
+
+I can tell you one thing. Regardless of which diety you pray to, how
+long you've worshipped, or whether you pray at all, some aspect of
+that connection to God is real because God is undeniably real. The
+absence of God isn't truth. It's a power vacuum that is almost always
+filled by some bunk kitsch cult of personality.
+
+- so how do we minimize the pain of this horrendous, impending
+  onslaught of censorship?
+- what is good about communism?
+- how does this mesh with the realities of society and the economy of today?
+- how do we avoid this great catastrophe?
+  - we must preserve the traditions of the world as they are today
+
 
 
 
