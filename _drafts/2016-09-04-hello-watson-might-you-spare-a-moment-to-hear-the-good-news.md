@@ -258,12 +258,7 @@ that connection to God is real because God is undeniably real. The
 absence of God isn't truth. It's a power vacuum that is almost always
 filled by some bunk kitsch cult of personality.
 
-- so how do we minimize the pain of this horrendous, impending
-  onslaught of censorship?
-- what is good about communism?
-- how does this mesh with the realities of society and the economy of today?
-- how do we avoid this great catastrophe?
-  - we must preserve the traditions of the world as they are today
+<a name="" />
 
 # [Atheism Isn't A Belief System?](#atheism-isnt-a-belief-system)
 
@@ -339,8 +334,10 @@ rooted in the scientific method. However, it doesn't give you a free
 pass to shove your beliefs down the throat of adherents to other
 belief systems.
 
+<a
+name="atheism-is-humanitys-response-to-modernism-science-and-rationalism" />
 
-# Atheism is Humanity's Response to Modernism, Science and Rationalism
+### [Atheism is Humanity's Response to Modernism, Science and Rationalism](#atheism-is-humanitys-response-to-modernism-science-and-rationalism)
 
 Atheism appeals to people as a response to an urge to answer the same
 questions that religion has attempted to answer. They are questions
@@ -381,7 +378,9 @@ unreproachable is misguided and unwise.
 
 The truth is that we need both religion and science.
 
-# Ok, Communists. You Win, For Now...
+<a name="ok-communists-you-win-for-now" />
+
+# [Ok, Communists. You Win, For Now...](#ok-communists-you-win-for-now)
 
 Not really. Just go with it...
 
@@ -394,20 +393,22 @@ To me, science does give plenty of evidence for God, but let's assume
 that atheists and communists win. We eradicate religion or at least
 suppress it like Chairman Mao did in the Cultural Revolution.
 
-### So What Do You Replace Religion With?
+<a name="so-what-do-you-replace-religion-with" />
 
-I think atheists and communists are foolish for rejecting the
-accumulated wisdom of dozens of generations by rejecting Christianity
-and religion. What do communists replace it with?
+### [So What Do You Replace Religion With?](#so-what-do-you-replace-religion-with)
+
+Atheists and communists are foolish for rejecting the accumulated
+wisdom of dozens of generations by rejecting Christianity and
+religion. What do communists replace it with?
 
 The Torah. The Bible. The Qu'ran. The Vedas. The Sutras. These are
-books that for centuries or even millinea would be the only book that
-people continuously thought worth copying and preserving. People
-thought these books were so important that they created institutions
-that paid people by the hundreds and thousands to copy them by hand!
-These books laid belief systems that became the foundations of
-rationalism. Paganism could have never transitioned into
-rationalism. It was only through the institution of religion that
+great works that for centuries or even millinea would be the only
+books that people continuously thought worth copying and preserving.
+People thought these books were so important that they created
+institutions that paid people by the hundreds and thousands to copy
+them by hand! These books laid belief systems that became the
+foundations of rationalism. Paganism could have never transitioned
+into rationalism. It was only through the institution of religion that
 science was even born.
 
 For millinea, people thought these books were they so important, they
@@ -415,6 +416,10 @@ collected taxes to facilitate the copying of these text. People
 thought these belief systems were so important that they dedicated
 their greated architectural acheivements almost solely to whatever
 deity was worshipped in the land.
+
+<a name="if-youre-so-wise-then-to-whoms-statue-should-i-pray" />
+
+### [If You're So Wise, Then To Whom's Statue Should I Pray?](#if-youre-so-wise-then-to-whoms-statue-should-i-pray)
 
 And you're going to replace them? With what?! A statue of Saddam
 Hussein or Kim Il-Sung? Wow! I bet these figures are so revolutionary
@@ -440,9 +445,28 @@ into religion.
 What powers our hubris to destroy these traditions now? Especially
 now, when we need God more than ever.
 
-So go ahead, communists. Make my day. Deconstruct religion. Eventually
-people would have to face the reality that a superintelligent AI has a
-come-to-Jesus moment. Ahh the bittersweet irony. Why don't you take
-that little nugget of epiphany, tear a page out of the Communist
-Manifesto, shove it in a pipe and smoke it because your foundational
-philosophy is FUNDAMENTALLY FLAWED.
+So go ahead, communists. Make my day. Deconstruct religion and replace
+it with Party worship or some cult of personality. Eventually people
+will face the reality that a superintelligent AI has a come-to-Jesus
+moment. Ahh the bittersweet irony. Why don't you take that little
+nugget of epiphany, tear a page out of the Communist Manifesto, shove
+it in a pipe and smoke it because your foundational philosophy is
+FUNDAMENTALLY FLAWED.
+
+Let's focus on some more important questions:
+
+#### How do we minimize the pain of this horrendous, impending onslaught of censorship?
+
+#### How do we avoid the pain of a great catastrophe? The world of 2030 and 2050 cannot deal with the burden and cultural legacy of billions of casualties!
+
+#### How do we work together for common benefit? Both within our own society and accross the world?
+
+#### Can't we use our energy to build instead of destroy? At the onset of what seems to be an apocalyptic age, isn't that what is most important today? Regardless of what we do today, our children will share the rewards and costs. We can either work together and build or we can destroy and lament.
+
+#### What are the benefits of communism? What does it promise and why?
+
+#### What makes communism work in some countries and why doesn't it work elsewhere?
+
+#### How does this mesh with the realities of society and our global economy?
+
+#### Why does government subsidized needs of all people imply a need for empire to self-sustain those finances?
