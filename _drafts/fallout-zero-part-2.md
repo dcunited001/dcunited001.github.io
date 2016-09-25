@@ -28,9 +28,45 @@ excerpt: "
 
 - [Milgram Experiment](https://en.wikipedia.org/wiki/Milgram_experiment)
 
-<a name="" />
+# [How Could This Happen Here?](#how-could-this-happen-here)
 
-# How Could This Happen Here?
+### &#x2605; [No One Ever Listened To Me](#no-one-ever-listened-to-me)
+
+### &#x2605; [*Those Who Were Complicit* Who Would Listen Could Only Say:](#those-who-were-complicit-could-only-say)
+
+### &#x2605; [These Sadistic Sociopaths Had A Budget!](these-sadistic-sociopaths-had-a-budget)
+
+### &#x2605; [This Psychological Torture Is Everywhere Now](#this-psychological-torture-is-everywhere-now)
+
+### &#x2605; [Social Media Is Nothing More Than An Echo Chamber](#social-media-is-nothing-more-than-an-echo-chamber)
+
+### &#x2605; [Even the Mafia Polices Itself](#even-the-mafia-polices-itself)
+
+### &#x2605; [Technology Throws the Social Contract's Validity into Question](#technology-throws-the-social-contracts-validity-into-question)
+
+# &#x2605; [The Collateral Damage is Immeasurable](#the-collateral-damage-is-immeasurable)
+
+### &#x2605; [So You've Been Socially Nullified](#so-youve-been-socially-nullified)
+
+### &#x2605; [So You've Been Psychologically Nullified](#so-youve-been-psychologically-nullified)
+
+### &#x2605; [So You Have Been Financially Nullified](#so-youve-been-financially-nullified)
+
+### &#x2605; [So You've Been Socially, Psychologically and Financially Ruined...](#so-youve-been-socially-psychologically-and-financially-ruined)
+
+# [OPM Triggered a Septic Crisis](#opm-triggered-a-septic-crisis)
+
+### &#x2605; [Beware the Military-Industrial Complex](#beware-the-military-industrial-complex)
+
+### &#x2605; [Steve Jobs, the Deadhead With a Top Secret Clearance](#steve-jobs-the-deadhead-with-a-top-secret-clearance)
+
+### &#x2605; [They Blinded Themselves With Their Own Smear Campaign](#they-blinded-themselves-with-their-own-smear-campaign)
+
+# [Here's My Argument, in a Nutshell](#heres-my-argument-in-a-nutshell)
+
+<a name="how-could-this-happen-here" />
+
+# [How Could This Happen Here?](#how-could-this-happen-here)
 
 Every day I think I've solved the puzzle to the American media circus,
 I find out there's more. I'm starting to feel tired and I don't really
@@ -54,9 +90,9 @@ deconstructed my psychology, to use it against me.
 
 *What Hippocratic Oath?!*
 
-<a name="" />
+<a name="no-one-ever-listened-to-me" />
 
-### No One Ever Listened To Me
+### [No One Ever Listened To Me](#no-one-ever-listened-to-me)
 
 For so long, no one would listen to me. I only pieced it together when
 I realized how many psychological and sociological variables needed to
@@ -85,9 +121,9 @@ it to other people! GODDAMIT! People I know who were involved they
 would let me waste my breath, completely aware of what was happening,
 just to drain my time, as if they got points for riling me up.
 
-<a name="" />
+<a name="those-who-were-complicit-could-only-say" />
 
-### [*Those Who Were Complicit* Who Would Listen Could Only Say:]()
+### [*Those Who Were Complicit* Who Would Listen Could Only Say:](#those-who-were-complicit-could-only-say)
 
 #### &#x2605; Just ignore it next time...
 
@@ -126,7 +162,7 @@ this.
 
 <a name="" />
 
-### [These Sadistic Sociopaths Had A Budget!]()
+### [These Sadistic Sociopaths Had A Budget!](these-sadistic-sociopaths-had-a-budget)
 
 Even though I have PTSD, I'm treated as though if someone undid the
 negative things they did to screw with me, that it would be
@@ -146,28 +182,29 @@ Every thing makes more sense looking back. Now I see the key phrases
 and I can place the the procedures and remember the acronyms, almost
 eidetically.
 
-<a name="" />
+<a name="this-psychological-torture-is-everywhere-now" />
 
-### [This Psychological Torture Is Everywhere Now]()
+### [This Psychological Torture Is Everywhere Now](#this-psychological-torture-is-everywhere-now)
 
-#### And it's part of something else
+#### And it's part of something else...
 
-Whatever happened, it's increased exponentially within the past three
-years and year. I wish I could leave this soul-sucking Hell hole. It's
-everywhere now and it's part of something bigger. Whoever is doing
-this to America, they're really fucking up a lot of people's lives and
-causing a lot of damage, as far as I can see. And it's being done in
-such a way that lashes out at anyone who dares question things. Social
-media is a distraction at best, at this point!  CNN, MSNBC, ABC, CBS,
-NBC and sometimes even Fox ... it looks like anyone who asks real
-questions loses their job. BTW, I'm not so predispositioned to believe
-the right is always right. However, in our country's current
-nightmare, they are right on it. Yet, they still aren't asking many
-more questions than anyone else.
+I don't know where it came from... Whatever happened, it's increased
+exponentially within the past three years and year. I wish I could
+leave this soul-sucking Hell hole. It's everywhere now and it's part
+of something bigger. Whoever is doing this to America, they're really
+fucking up a lot of people's lives and causing a lot of damage, as far
+as I can see. And it's being done in such a way that lashes out at
+anyone who dares question things. Social media is a distraction at
+best, at this point!  CNN, MSNBC, ABC, CBS, NBC and sometimes even Fox
+... it looks like anyone who asks real questions loses their job. BTW,
+I'm not so predispositioned to believe the right is always
+right. However, in our country's current nightmare, they are right on
+it. Yet, they still aren't asking many more questions than anyone
+else.
 
-<a name="" />
+<a name="social-media-is-nothing-more-than-an-echo-chamber" />
 
-### [Social Media Is Nothing More Than An Echo Chamber]()
+### [Social Media Is Nothing More Than An Echo Chamber](#social-media-is-nothing-more-than-an-echo-chamber)
 
 #### And Somebody Handed Out Megaphones to the Retarded Parrots
 
@@ -183,9 +220,9 @@ out. Then they're going to threaten your family and threaten tactics
 like the Mafia might use to pummel down on the guy who won't pay
 protection money.
 
-<a name="" />
+<a name="even-the-mafia-polices-itself" />
 
-### [Even the Mafia Polices Itself]()
+### [Even the Mafia Polices Itself](#even-the-mafia-polices-itself)
 
 I really gotta slow my roll here, 'cause I'm givin the Mafia a bad
 Someone once told me "David, the government's like the Mafia. No, You
@@ -208,9 +245,9 @@ like the Mafia? The answer lies in the Social Contract. The people
 deal with it. And in America, our government is for the people, by the
 people.
 
-<a name="" />
+<a name="technology-throws-the-social-contracts-validity-into-question" />
 
-### Technology Throws the Social Contract's Validity into Question
+### [Technology Throws the Social Contract's Validity into Question](#technology-throws-the-social-contracts-validity-into-question)
 
 However, in the 21st century, tyrrany has one major trick up its
 sleeve that it didn't have in the 20th century: technology. This tool
@@ -222,9 +259,9 @@ when its appropriate. And it would appear that, if we are descending
 into tyranny, that is absolutely not the case because it really looks
 like somebody's got a lot of organizations by the balls.
 
-<a name="" />
+<a name="the-collateral-damage-is-immeasurable" />
 
-### The Collateral Damage is Immeasureable
+# [The Collateral Damage is Immeasurable](#the-collateral-damage-is-immeasurable)
 
 In the process of doing clamping down and expending God knows how much
 money doing it, they managed to make you believe it's your fault, all
@@ -237,9 +274,9 @@ they'll be lucky to avoid getting on the shit list too. And if they do
 actively, intentionally resist your treatment or help you in any way,
 they better understand that they're going to be on that shit list.
 
-<a name="" />
+<a name="so-youve-been-socially-nullified" />
 
-### So You've Been Socially Nullified.
+### [So You've Been Socially Nullified](#so-youve-been-socially-nullified)
 
 #### Nothing You Say Has Any Consequence
 
@@ -253,9 +290,9 @@ PSYCHOLOGICAL TORTURE.* Why the minimalized social network? *THEY
 DON'T WON'T OTHER PEOPLE TO HEAR ABOUT WHAT HAPPENS TO THE PEOPLE ON
 THE SHIT LIST.*
 
-<a name="" />
+<a name="so-youve-been-psychologically-nullified" />
 
-### So You Have Been Psychologically Nullified
+### [So You've Been Psychologically Nullified](#so-youve-been-psychologically-nullified)
 
 #### Your mental capability and desire to resist has been extinguished.
 
@@ -304,9 +341,9 @@ without strings, they lose control. You can always be sure that this
 party will NEVER do anything that relinquishes control. In every
 situation, you can fucking bet on it. You could set your watch by it.
 
-<a name="" />
+<a name="so-youve-been-financially-nullified" />
 
-### So You Have Been Financially Nullified
+### [So You Have Been Financially Nullified](#so-youve-been-financially-nullified)
 
 #### You Have No Options to Defend Yourself or to Run.
 
@@ -317,7 +354,9 @@ TO DEAL WITH THIS SHIT.* They don't want you to inform people from
 other countries about what's happening. Why? Because other countries
 wouldn't sit back and watch this shit happen?
 
-### So You've Been Socially, Psychologically and Financially Ruined...
+<a name="so-youve-been-socially-psychologically-and-financially-ruined" />
+
+### [So You've Been Socially, Psychologically and Financially Ruined...](#so-youve-been-socially-psychologically-and-financially-ruined)
 
 ... What's left? Who the fuck knows, but if you're not out there
 scoring points and gaining ground for them, you're useless. The truth
@@ -328,9 +367,9 @@ crossed MKUltra with a Ponzi scheme and called it Guantanamo, then
 they claimed it was for national security and, hell, why not call it a
 religion too.
 
-<a name="" />
+<a name="opm-triggered-a-septic-crisis" />
 
-# OPM Triggered a Septic Crisis
+# [OPM Triggered a Septic Crisis](#opm-triggered-a-septic-crisis)
 
 Personally, I can't figure out what the hell happened in the
 world. All I know is that I *allegedly* had a conversation with
@@ -346,9 +385,9 @@ for the United States, hack that shit and you run the game. I didn't
 know what the OPM was. We looked that up on wikipedia. This was in
 2013.
 
-<a name="" />
+<a name="beware-the-military-industrial-complex" />
 
-### Beware the Military-Industrial Complex
+### [Beware the Military-Industrial Complex](#beware-the-military-industrial-complex)
 
 All I knew was that I had gotten fired from several jobs and, for some
 of them, it seemed it was because I couldn't pass a clearance
@@ -357,9 +396,9 @@ had problems with ... they seemed to have pushed me out of my job and
 ruined my life. And when I worked at CCS, they had recently funded a
 startup that would provide protection for the electric grid...
 
-<a name="" />
+<a name="steve-jobs-the-deadhead-with-a-top-secret-clearance" />
 
-### Steve Jobs, the Deadhead With a Top Secret Clearance
+### [Steve Jobs, the Deadhead With a Top Secret Clearance](#steve-jobs-the-deadhead-with-a-top-secret-clearance)
 
 So I had looked up the docs and process on clearance to understand
 that process. Could I qualify? Well, according to the FBI, I had
@@ -371,9 +410,9 @@ obtain/keep a job in America without being capable of obtaining Secret
 or Top Secret, I realized what a major vulnerability this was for
 America.
 
-<a name="" />
+<a name="they-blinded-themselves-with-their-own-smear-campaign" />
 
-### They Blinded Themselves With Their Own Smear Campaign
+### [They Blinded Themselves With Their Own Smear Campaign](#they-blinded-themselves-with-their-own-smear-campaign)
 
 How could some two-pence loser who was so imcompetent he couldn't hold
 a job able to pinpoint the single largest vulnerability in the United
@@ -396,9 +435,9 @@ neither my stellar luminosity nor their bloodlust to turn my life into
 an example nor all the collateral damage in which they are 1000 times
 more accountable.
 
-<a name="" />
+<a name="heres-my-argument-in-a-nutshell" />
 
-### Here's My Argument, in a Nutshell
+# [Here's My Argument, in a Nutshell](#heres-my-argument-in-a-nutshell)
 
 #### &#x2605; They worked very hard to plan this before 2013
 
@@ -469,7 +508,9 @@ interacting with me is involved. It's really as simple as that. And
 how secure is that? It's not, which speaks volumes to their intent
 nullify me as a liability ....
 
-### They Never Had an Endgame For This Game State
+<a name="they-never-had-an-endgame-for-this-game-state" />
+
+### [They Never Had an Endgame For This Game State](#they-never-had-an-endgame-for-this-game-state)
 
 This is kind of what makes me feel justified in continued action to
 push someone to admit what happened to me. There's no sunshine and
@@ -480,7 +521,9 @@ LMAO. Yeh, that was fucked up but encouraged them to produce volumes
 of evidence doing exactly what I had expected they were doing in my
 life all along: psychologically torturing me to push me to suicide.
 
-# Ye Olde ROFL Copter
+<a name="ye-olde-rofl-copter" />
+
+# [Ye Olde ROFL Copter](#ye-olde-rofl-copter)
 
 That observation, as well as many others things I've seen. "They"
 never, ever had a very nice endgame planned. Again, whoever "they" is
@@ -497,7 +540,9 @@ anonymously contributed to society in a myriad of ways via some
 serendipitous distributed inellectual property attack and hasn't
 earned a dollar for any of it. Sorry. None of those work.
 
-### So Have You Tried ... ?
+<a name="so-have-you-tried" />
+
+### [So Have You Tried ... ?](#so-have-you-tried)
 
 > You should try .... hmmmm gotta think real hard about this ... have
 > you tried fucking fixing what you broke? No?
@@ -509,7 +554,9 @@ psychological torture or career assassination matters then. Jeez.
 Forget it. All that collateral damage? I guess there was just
 nothing you could have done then, huh?
 
-### It'll All Come Out in the Wash
+<a name="itll-all-come-out-in-the-wash" />
+
+### [It'll All Come Out in the Wash](#itll-all-come-out-in-the-wash)
 
 Oh, well, it'll fix itself right?
 None of that matters then, huh?
@@ -519,14 +566,18 @@ other American who's been in my own shoes.
 Eventually you can fix this. I believe in you, 'Murkinya .. woops!
 I mean, "America" ...
 
-# Ohh, I Have An Idea!
+<a name="ohh-i-have-an-idea" />
 
-### You Should Invent a Disease and a Pattern Language!
+# [Ohh, I Have An Idea!](#ohh-i-have-an-idea)
 
-Just invent a pattern language that maps to real current event. Like a
+Just invent a pattern language that maps to real current events. Like a
 disease or something. Oh, or Qg'daphie Duck! Yeh, whatever his fucking
 name is. Fuck that guy anyway! How's a major media organization like
 CNN or some shit supposed to keep that straight.
+
+<a name="you-should-invent-a-disease-and-a-pattern-language" />
+
+### [You Should Invent a Disease and a Pattern Language!](#you-should-invent-a-disease-and-a-pattern-language)
 
 This will let you keep your citizens in a state of constant confusion.
 You know, so in case any of them get real wise and try to "ask
@@ -623,6 +674,9 @@ information/facts" and "viral belief systems." And going back to
 neurology, there have been tons of studys on implanting memories and
 removing memories.
 
+- TODO: include info about ICD-9 & ICD-10?
+- TODO: include info about mTBI & blast-induced traumatic brain injury?
+
 These studies scare the shit out of me, but they seem to be written
 for pretty basic shit, but what if their capacity for neurological
 manipulation is much greater than that? Can you imagine what damage
@@ -635,7 +689,9 @@ future, when such technology must inevitably become public
 plan on handling that scenario in the future? ... By collapsing the
 system and initiating some tyrant's totalitarian wet drean?
 
-### Neurological Programs and Leveraging the Medical System to Attack Belief Systems
+<a name="neurological-programs-and-leveraging-the-medical-system-to-attack-belief-systems" />
+
+### [Neurological Programs and Leveraging the Medical System to Attack Belief Systems](neurological-programs-and-leveraging-the-medical-system-to-attack-belief-systems)
 
 #### (1) We've exponentiated our capacity for neurological mapping & manipulation.
 
@@ -683,7 +739,9 @@ people, it's all real. It's just as real as though it has actually
 happened! This is all hypothetical of course, but science fiction's a
 great way to stay on top of this stuff.
 
-### A Diagnosis For Political Dissidents
+<a name="theres-more-than-one-diagnosis-for-political-dissidents" />
+
+### [There's More Than One Diagnosis For Political Dissidents](#theres-more-than-one-diagnosis-for-political-dissidents)
 
 #### "Borderline" Personality Disorder
 
@@ -695,7 +753,7 @@ trace... Obama wants to leverage the CDC to attack people who have
 Now, remember, the latter was just added to the DSM a year or
 so. *THEY CREATED A DIAGNOSIS FOR POLITICAL DISSiDENTS!*
 
-
+...
 
 ... How much more Soviet-style and Cuban-style abuse of the "medical"
 and "psychiatric" institutions do you need before you realize what's
@@ -789,7 +847,11 @@ groups in the Western world with such responsibility, I'm not so sure
 that some groups in the global economy would execute that duty
 altruistically.
 
-### What Makes a Good Steward of Future Intellectual Property Holdings?
+... (the following should possibly be its own blog entry)
+
+<a name="" />
+
+### [What Makes a Good Steward of Future Intellectual Property Holdings?](what-makes-a-good-steward-of-future-intellectual-property-holdings)
 
 And its not a joke: we're getting close to a world that might be
 controlled by esoteric groups of corporate conglomerates who act as
@@ -824,7 +886,9 @@ family of characters simply does not want the wrong things to happen
 with regard to AI & if you get close to that, they'll find you. Like
 Hollywood.  Don't worry, don't call us, we'll call you. The end.
 
-### Weighiing Pros and Cons of IP Distribution Endgame Scenarios
+<a name="" />
+
+### [Weighing Pros and Cons of IP Distribution Endgame Scenarios](weighing-pros-and-cons-of-ip-distribution-endgame-scenarios)
 
 It's very possible that similar families or multinational holdings
 companies might emerge to run things in the pre-Singularity economy of
@@ -849,7 +913,9 @@ economic system can evolve towards one which is fair and beneficial or
 one where greed and lust for power overtake such fragile notions of
 peace and equitable prosperity.
 
-### So, You're Telling Me...
+<a name="" />
+
+### [So, You're Telling Me...](so-youre-telling-me)
 
 TODO: 3rd world meme
 
@@ -889,7 +955,9 @@ islands and disposable helicopters.  Actually, today, all of that
 materialistic stuff represents a waste of thought, time and energy. I
 don't want it.
 
-# The War Is For Your Mind. You Are Fighting For Your Soul.
+<a name="the-war-is-for-your-mind-and-you-are-fighting-for-your-soul" />
+
+# [The War Is For Your Mind & You Are Fighting For Your Soul](#the-war-is-for-your-mind-and-you-are-fighting-for-your-soul)
 
 Apparently, the terrorist of the 21st century looks a lot like
 me. *WHAT THE FUCK?!* I write about altruism. I'm completely detached
@@ -917,7 +985,9 @@ itself, you'll find that they will destroy everything in your life
 with indiscriminate, violent force, all while claiming that you are
 the terrorist.
 
-### Peace Though Strength of Body, Mind and Spirit
+<a name="" />
+
+### [Peace Though Strength of Body, Mind and Spirit](#peace-through-strength-of-body-mind-and-spirit)
 
 What people need is peace through strength. Buddhists profess
 non-violence, but practice martial arts because of how it strenthens
@@ -976,7 +1046,9 @@ through truth. We stand for justice and for freedom and for peace and
 for prosperity and for compassion. We stand for the right of men to be
 the best men that they can be. But most of all, we stand for truth.
 
-### What Is Our Salt Marsh?
+<a name="" />
+
+### [What Is Our Salt Marsh?](#what-is-our-salt-marsh)
 
 For those who are interested in doing the right thing and putting an
 end to this incomprehensible, draconian tyranny that is so
@@ -1162,7 +1234,9 @@ who participated in this. Everyone. And I want to know what they did,
 specifically. And maybe not everything, but I want it now. As in, five
 minutes ago was too late!
 
-### You Can Never Take My Dreams!
+<a name="you-can-never-take-my-dreams" />
+
+### [You Can Never Take My Dreams!](#you-can-never-take-my-dreams)
 
 And hell no, I will never stop writing about it until you cut my
 fingers off! I will never stop speaking about it until you cut my
@@ -1222,7 +1296,9 @@ soul.
 Whoa. What a sidetrack. Back to hypothetical diagnostic methods using
 NMR and MRI...
 
-### Neural Bitemark Analysis - Data Science on Nuclear Medicine
+<a name="neural-bitemark-analysis-data-science-on-nuclear-medicine" />
+
+### [Neural Bitemark Analysis: Data Science on Nuclear Medicine](#neural-bitemark-analysis-data-science-on-nuclear-medicine)
 
 If you try to make up psychiatric labels to harrass people, it's going
 to become real clear as soon as you run data science on their MRI
@@ -1247,7 +1323,9 @@ brain is even able to function, at this point! I stay away from almost
 everything except from pot because it's all terrible -- the time
 spent, the damage done, the people everything.
 
-### (predicting covert action)
+<a name="anticipating-the-strategies-and-tactics-of-future-covert-action" />
+
+### [Anticipating the Strategies and Tactics of Future Covert Action](#anticipating-the-strategies-and-tactics-of-future-covert-action)
 
 And I'm telling you that that just so everyone knows ... I shouldn't
 drop like a dead fly from a overdose any time soon. I've been trying
@@ -1263,6 +1341,8 @@ people to say things that establish signals, especially in the minds
 of the few people around me, and then I kinda know what to watch out
 for. This paranoia has robbed me of what little there might have been
 left in my life.
+
+<a name="" />
 
 ### (Carfentanyl)
 
@@ -1286,6 +1366,8 @@ messaging pattern that should emerge in Huntington and Cincinatti. If
 those text messages aren't there for anyone who died, then someone may
 have just gotten off of nearly two hundred state-driven murders.
 
+<a name="" />
+
 ###
 
 Back to neural castration. Just like there are neuro-connectological
@@ -1295,6 +1377,8 @@ my be read from the brains of people who've had mind-altering
 transcranial magnetic stimulation. I've seen studies where they are
 able to detect the presence of some weak "false memories" by data
 mining fMRI responses.
+
+<a name="" />
 
 ### (warning that these people aren't planning on telling this story)
 
@@ -1321,6 +1405,8 @@ whenever I try to sound the alarm about things like this or about
 other government shenanigans, that's when I feel the most
 pressure. Before that, I never felt any pressure. The people I know
 today were involved would simply egg me on.
+
+<a name="" />
 
 ### (i'm a scapegoat)
 
@@ -1357,25 +1443,33 @@ but I sure as hell wish that these pissants would piss off and move
 on. Because continuing to poke and prod the volatile psychology that
 you so meticulously engineered isn't going to make anything better.
 
-# (OPM and its effects)
+<a name="opm-they-got-all-the-bases" />
 
-### Universal Blackmail
+# [OPM: They Got All the Bases!](#opm-they-got-all-the-bases)
+
+<a name="universal-blackmail" />
+
+### [Universal Blackmail](#universal-blackmail)
 
 And they are blackmailing fucking everyone. Like they're the goddamn
 mafia. But here's the deal with distributed and total blackmail
 against your citizenry. Fucking everybody is gettin blackmailed!
-Again, STAND UP FOR YOUR GODDAMN RIGHTS AND FORGIVE OTHERS OF THEIR
-SINS BECAUSE THEY GETTIN BLACKMAILED JUST LIKE YOU ARE IF YOU HAVE
-ANY INFLUENCE.
+Again, *STAND UP FOR YOUR GODDAMN RIGHTS AND FORGIVE OTHERS OF THEIR
+SINS BECAUSE THEY GETTIN' BLACKMAILED JUST LIKE YOU ARE IF YOU HAVE
+ANY INFLUENCE.*
 
-### Yup, They Got All the Bases! Every Single One of Them.
+<a name="every-single-one-of-our-bases" />
+
+### [Every Single One of our Bases](#every-single-one-of-our-bases)
 
 How can these Bolo's do this in the Age of the Internet? Because they
 have total control of the communication infrastructure. They have
-seized the means of communication. They have domination of telecom.
+seized the means of communication. They have domination of
+telecom. That's right: World War 3 is cyber and we've been losing.
 Any party that exerts control over telecom infrastructure has God-mode
-on the internet. **Assume that SSL is broken and thus HTTPS is
-broken. [JUST MAKE THAT ASSUMPTION](http://arstechnica.com/security/2016/08/new-attack-steals-private-crypto-keys-by-corrupting-data-in-computer-memory/).**
+on the internet. Furthermore, ssume that SSL is broken and thus HTTPS
+is broken.
+*[JUST MAKE THAT ASSUMPTION](http://arstechnica.com/security/2016/08/new-attack-steals-private-crypto-keys-by-corrupting-data-in-computer-memory/).*
 This attack is pretty bad, but nowhere near some of the others we've
 seen in the past few years.
 
@@ -1385,7 +1479,9 @@ that don't are definitely definitely hopelessly broken. Assume that
 any message you send on the internet can be blocked silently or
 modified persistently.
 
-### All Your Bases Have a Free Splinternet Connection
+<a name="all-your-bases-now-come-with-a-free-splinternet-connection" />
+
+### [All Your Bases Now Come With A Free Splinternet Connection](#all-your-bases-now-come-with-a-free-splinternet-connection)
 
 It is possible to Man-in-the-Middle anything with a customized
 application server. Facebook, Twitter, Gmail, anything. They can
@@ -1398,23 +1494,79 @@ the terminals you are in front of. These are theoretical exploits by
 the way, but they are possible in theory. Far from practical, but they
 are possible and it scares the shit out of me.
 
-### Until the Government Gives Me Armed Ground Transport to Canada...
+<a name="until-the-government-gives-me-armed-ground-transport-to-canada" />
 
-Then I am a refugee because they won't let me leave. Understanding
+### [Until the Government Gives Me Armed Ground Transport to Canada...](until-the-government-gives-me-armed-ground-transport-to-canada)
+
+... then I am a refugee because they won't let me leave. Understanding
 these exploits amoung other things is part of the reason why they'll
 never, ever let me leave the United States. My intelligence is why
 they say I'm dangerous, by the way. Not because of my intent, but
 because of my intellectual capability with regard to understanding how
 to fucking run shit in information warfare. And psychological warfare,
-too. And economic warfare. They know it. They know I also know a lot
-of other things which aren't really part of the official story.
+too. And economic warfare. They I what I know. They know I also know a
+lot of other things which aren't really part of the official
+story. And then they fucked me and they fucked me hard and I said
+stop! I said NO! But they just kept on raping me.
 
-#
+<a name="the-government-regulates-intelligence" />
 
-And it turns out: the government regulates intelligence. You have to
-have a brain license if your IQ is way to high...
+# [The Government Regulates Intelligence](#the-government-regulates-intelligence)
 
-### You Got A License For Them Math Problems, Boy?
+And it turns out:
+[the government regulates intelligence](/posts/2016-08-22-american-limits-on-freedom-of-speech-include-intelligence.html). Basically,
+you have to have a license for your mind if your IQ is way to
+high. No, you don't have to go to the DMV, but they have programs to
+identify people who are intelligent enough to be a threat and they
+will identify you before you realize it. First, they will entice
+you. Then, they will distract you. Then they will destroy you. And
+finally, they will kill you.
+
+All that secret NSA math ... do you really think they just want some
+bozo to take a lucky guess and crack those problems? Hell no. In
+ancient Greece, they killed those who understood the Pythagorean
+secrets. The NSA is no different. If you get too close, they will warn
+you; then they'll burn you; then they will kill you.
+
+They really fucked up with me. I accidentally uncovered an algorithm I
+thought was a great personal accomplishment, but was proof of
+something very dangerous ... apparently. Well, then they fucked my
+life up, which was simply the extension of psychological torture that
+had already lasted a decade. I just wanted them to:
+
+#### (1) Leave me the fuck alone!
+
+#### (2) Or *FIX WHAT THEY FUCKING BROKE!*
+
+Continuing this trail of destruction in my personal life is
+*ABSOLUTELY NOT A FUCKING OPTION.* And at this point, I don't care if
+the entire global economy burns to the fucking ground. I am sick and
+tired of the governments undue influence in my goddamn life and I'm
+standing up and I am screaming about how they wronged me and they're
+going to have to shoot me in broad daylight before I will stop.
+
+<a name="the-value-of-the-individual-is-nil" />
+
+### [The Value of the Individual is Nil](#the-value-of-the-individual-is-nil)
+
+#### You are just a number to them.
+
+The truth is: they don't need your intelligence. The value of the
+individual is nil. You are null and void. As much as we celebrate
+innovation, YOU ARE WORTHLESS TO THEM! If they cannot control you,
+then you are just a security risk. They don't need you.  Someone else
+will make your insights. No matter how great your discoveries, if they
+don't happen today, then someone will make them happen tomorrow.
+
+And if you don't believe me, just look at my fucking life! Listen to
+me; listen to my ideas; listen to what I actually have to say; listen
+to what is in my mind; listen to what I have to share. *AND THEN LOOK
+AT MY FUCKING LIFE!* They destroyed my life because someone declared
+me a security risk and they thought I could not be controlled.
+
+<a name="you-got-a-license-for-them-math-problems-boy" />
+
+### [You Got A License For Them Math Problems, Boy?](#you-got-a-license-for-them-math-problems-boy)
 
 Any violations here? Apparently, you get hung as a traitor or some
 shit. Or they might claim they exposed you to just enough classified
@@ -1451,7 +1603,9 @@ male. It's also interesting that, as part of our social engineering,
 many more men ended up in engineering than technology. Just an
 interesting coincidence and nothing more.
 
-### Don't You Know the Status Quo is Fine the Way It Is?
+<a name="dont-you-know-the-status-quo-is-fine-the-way-it-is" />
+
+### [Don't You Know the Status Quo is Fine the Way It Is?](#dont-you-know-the-status-quo-is-fine-the-way-it-is)
 
 Too many Google queries for intelligence concepts, aspects of
 conspiracies that are, as of yet, uncovered or mathematic theorums
@@ -1459,7 +1613,9 @@ that are prerequisites for breaking through the veil? You'll find a
 white van is constantly parked outside your house or that you just so
 happened to end up living in a van down by the river!
 
-### Your Intelligence, No Matter How Developed Isn't A Unique Commodity
+<a name="your-intelligence-no-matter-how-developed-isnt-a-unique-commodity" />
+
+### [Your Intelligence, No Matter How Developed Isn't A Unique Commodity](#your-intelligence-no-matter-how-developed-isnt-a-unique-commodity)
 
 And make no mistake: the government and some powerful people just
 don't give a shit about what intelligent people contribute to society
@@ -1492,7 +1648,9 @@ innovations. Why? Because they already have the patents and the
 capital and you don't. So you better play by the rules and STICK WITH
 THE PACK!
 
-### [Welcome to Murkyatocracy. Population: Nikola Tesla and Alan Turing]()
+<a name="welcome-to-murkyatocracy" />
+
+### [Welcome to Murkyatocracy. Population: Nikola Tesla and Alan Turing](#welcome-to-murkyatocracy)
 
 Jesus, every one of those geeks thinks he's Nikola Tesla. Meritocracy?
 HA! Try Murkyatocracy!
@@ -1502,7 +1660,9 @@ was alone. Tesla died under mysterious circumstances in 1943 and had
 all of his property, intellectual and otherwise, confiscated by the
 [Office of Alien Property Custodian](https://en.wikipedia.org/wiki/Office_of_Alien_Property_Custodian).
 
-### Tesla's Property Was Seized By the OACP as a Traiter After His Death
+<a name="teslas-property-was-seized-by-the-oacp-as-a-traitor-after-his-death" />
+
+### [Tesla's Property Was Seized By the OACP as a Traiter After His Death](#teslas-property-was-seized-by-the-oacp-as-a-traitor-after-his-death)
 
 An agency that, bizarrely, I have never heard of. I have scoured
 Wikipedia since 2005 and never heard of it, amoung other recent trends
@@ -1527,7 +1687,9 @@ Soviets.
 
 ^^^ Said no loving mother to her child, ever.
 
-### OACP Was Somehow Involved in Anna Nicole Smith's USSC Cases
+<a name="oacp-was-somehow-involved-in-anna-nicole-smiths-ussc-cases" />
+
+### [OACP Was Somehow Involved in Anna Nicole Smith's USSC Cases](#oacp-was-somehow-involved-in-anna-nicole-smiths-ussc-cases)
 
 Apparently, OACP was involved in the
 [Anna Nicole Smith](https://en.wikipedia.org/wiki/Marshall_v._Marshall)
@@ -1536,7 +1698,9 @@ Supreme Court
 them. There were two, in 2006 and 2011. And those bastards snatched up
 all of her estate after she died from cardiac arrest.
 
-### The Same OACP That Dismantled I.G. Farben and Other Nazi Corporations
+<a name="the-same-oacp-that-dismantled-ig-farben-and-other-nazi-corporations" />
+
+### [The Same OACP That Dismantled I.G. Farben and Other Nazi Corporations](#the-same-oacp-that-dismantled-ig-farben-and-other-nazi-corporations)
 
 OACP, the very same agency I've never heard of, was also involved in
 seizing & redistributing the intellectual property & assets from the
@@ -1546,7 +1710,9 @@ all of that, like Wernher von Braun's rocket tech, and acted like they
 did it themselves. Then they stuck all the rest of the Nazi's in "Area
 51" wherever that is.
 
-### After WW2 America Consumed the Nazi's in Anticipation of the Soviet Menace
+<a name="after-ww2-america-consumed-the-nazis-in-anticipation-of-the-soviet-menace" />
+
+### [After WW2 America Consumed the Nazi's in Anticipation of the Soviet Menace](#after-ww2-america-consumed-the-nazis-in-anticipation-of-the-soviet-menace)
 
 For the Nazi's who posed a threat, the OSS determined they had all
 information of value and killed them, probably orphaning any children
@@ -1566,6 +1732,8 @@ acquired a lot of valuable assets and tech actually. Because if the
 Germans were going to fold to either side, it'd be Western Europe. And
 it seemed that Soviet Russia had no idea we had it. So we sure as shit
 weren't gonna waste it, whatever it was.
+
+<a name="" />
 
 ###
 
@@ -1587,7 +1755,9 @@ For both sides! Whoa. Hitler was like "Just sit here, broke as hell,
 with nothing to do but stand in line for soup and just let Stalin
 scoop us up? Fuck that!" And ... well.. then terrible things happened.
 
-# Who turned OACP On Again?!
+<a name="who-turned-oacp-on-again" />
+
+# [Who turned OACP On Again?!](#who-turned-oacp-on-again)
 
 OK, so if the OACP is being used and it's an agency that's turned on
 during wartime, that means that someone turned it on again. Who did
