@@ -1,7 +1,7 @@
 ---
 title: "Hello Watson, Might You Spare a Moment to Hear the Good News?"
 categories: "blog"
-tags: "religion censorship philosophy politics communism"
+tags: "religion censorship philosophy politics communism atheism"
 headline: "When AI Has That Come-To-Jesus Moment In A Violently Antireligious Communist Movement"
 author:
   name: "David Conner"
