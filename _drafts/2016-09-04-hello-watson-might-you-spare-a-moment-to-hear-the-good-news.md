@@ -271,26 +271,36 @@ I'm sick of hearing this argument. Atheists online use it to quash all
 kinds of arguments. They use it to maintain a kind of superiority for
 their own belief system by claiming that it's different and unique,
 since "it's not a belief system" or "its the absence of a belief
-system." Those assertions are demonstrably false from a platonic view
-of the metaphysical.
+system." In fact, if it weren't a label, itself, you couldn't relate
+to other people with the same belief system. So, then, each atheism
+would be an individual's constructed belief system based in the belief
+in the absence of a belief system. But, try saying "atheisms" on the
+Philosophy reddit without having your post deleted and having your
+account threatened with deletion!
 
-There's nothing which humanity can reflect on while abstaining from
-forming a belief. Even briefly entertaining the concept of Hinduisim
-in my mind leaves mental residue which is the essence of belief. No
-matter how hard you try, you cannot think of something without forming
-some kind of belief about it or about your own thoughts which concern
-it. That's true no matter how hard we try to abstain from forming
-concrete beliefs about something. Therefore you cannot entertain
-thoughts or questions of God without leaving some mental residue
-which, again, is the essence of belief.
+> YEH, I FUCKING HATE REDDIT. SORRY, I DIDN'T HAVE A GREAT
+> EXPERIENCE. FUCK THOSE COMMUNIST SHITS THAT RUN THE PHILOSOPHY
+> REDDIT.
+
+Those assertions are demonstrably false from a platonic view of the
+metaphysical. It's factually, logically and demonstrably
+false. Invalid. Fallacious. There's nothing which humanity can reflect
+on while abstaining from forming a belief. Even briefly entertaining
+the concept of Hinduisim in my mind leaves mental residue which is the
+essence of belief. No matter how hard you try, you cannot think of
+something without forming some kind of belief about it or about your
+own thoughts which concern it. That's true no matter how hard we try
+to abstain from forming concrete beliefs about something. Therefore
+you cannot entertain thoughts or questions of God without leaving some
+mental residue which, again, is the essence of belief.
+
+### [Atheism is Absolutely A Belief System](#atheism-is-absolutely-a-belief-system)
 
 A belief which is identical to that of other humans maps to a belief
 system, whether you want to call it that or not. Even if you name your
 belief system Christianity, it's still different in identity than the
 Christiantiy that exists in someone else's mind. The absence of a
 belief system is a belief in and of itself.
-
-### The Basic Argument
 
 #### (1) There is nothing the human mind can think about which does not leave the essence of a belief.
 
@@ -319,44 +329,120 @@ belief system is a belief in and of itself.
 > "That which is, already has been; that which is to be, already has
 > been; and God seeks what has been driven away." (NLT)
 
-### [Atheism is Absolutely A Belief System](#atheism-is-absolutely-a-belief-system)
+While your belief system is functionally unique in that it is the
+minimal apex or the nadir of belief systems, IT IS A BELIEF
+SYSTEM. So, NO, sorry, you don't get a free pass for shoving it down
+people's throats. Separation of church and state should apply to
+atheism, too. It is a good idea to base policy decisions on atheism or
+secularism, as such policy decisions are typically based on studies
+rooted in the scientific method. However, it doesn't give you a free
+pass to shove your beliefs down the throat of adherents to other
+belief systems.
 
-If it's a question that humans have asked for the entirety of history
-and pre-history and your answer isn't "Brahma" or "Buddha" or "God" or
-"Yahweh" or "Yaldaboath" ... but instead, your answer is "No, I don't
-believe in any of those" then, right there, you've stated a belief in
-an answer to a question which is unquestionably universal.
 
-Atheism is not the lack of a belief system. in fact, if it weren't a
-label, itself, you couldn't relate to other people with the same
-belief system... omfg, no offense to you, but i personally cannot
-stand the "it's not a belief system" argument. because it's factually,
-logically and demonstrably false, invalid, fallacious. again, no
-offense to y'all, personally. this is an argument that's played out
-many times.
+# Atheism is Humanity's Response to Modernism, Science and Rationalism
 
-atheism is a conviction in belief that overwhelming evidence disproves
-God. if science didn't give you that evidence, atheists likely would
+Atheism appeals to people as a response to an urge to answer the same
+questions that religion has attempted to answer. They are questions
+that humans have asked for the entirety of history and pre-history.
+
+#### Why are we here? Who created us?
+
+#### What is my purpose? What is my family's purpose?
+
+#### What is my society's purpose? What is humanity's purpose?
+
+Atheism skirts humanity's need answer these questions by proclaiming:
+none of religion's answers to those questions matter because religion
+is false and science is true. Only science's answers to these
+questions matter. I've covered this before, but one major difference
+between science's answers and religion's answers to these same
+questions is that science's answers change day by day and a religion's
+answers never change! For the most part, a religion's answers to these
+questions remain steadfast.
+
+If seven billion people are running a race and the finish line changes
+every hour to some random location in the world, how can they ever
+finish? Could they ever even measure their progress? How can they know
+where to invest their energy? Religion provides a definite goal for
+the people in this race. The finish line doesn't jump all over the
+place. Being able to determine where this finish line is place by
+controlling the belief systems of the populations of the world is an
+advantage enjoyed by an elite few in control of the premier academic
+institutions across the world.
+
+As much as atheists will preach about the abuses and sins of organized
+religions, what about the sins and lies of organized science and
+academia? Look at all the people who've been sicked by bad science
+over the past two centuries.  There is potential for abuse in both
+organized religion and organized science, as silly as that term may
+sound. Establishing the institutions of science as politically
+unreproachable is misguided and unwise.
+
+The truth is that we need both religion and science.
+
+# Ok, Communists. You Win, For Now...
+
+Not really. Just go with it...
+
+Atheism is a conviction in belief that overwhelming evidence disproves
+God. If science didn't give you that evidence, atheists likely would
 believe something else. Why? because they would need God, just like
 they NEED science. every person has a NEED to understand the world.
 
-however, to me, science does give plenty of evidence for God. and i
-think atheists are foolish for rejecting the accumulated wisdom of
-dozens of generations by rejecting Christianity and religion. What do
-atheists replace that with? nothing. we're talking about the Bible, a
-book that, for millenia, was the ONLY book that people thought worth
-creating institutions that paid people by the hundreds to copy by
-hand. they thought it was that important.
+To me, science does give plenty of evidence for God, but let's assume
+that atheists and communists win. We eradicate religion or at least
+suppress it like Chairman Mao did in the Cultural Revolution.
 
-for the militant and political atheists out there, what do you replace
-it with? oh, nothing? great! oh, cult of personality and
-state-worship? OH GREAT, worship of a man like Kim Il-Sung or Stalin
-... wow! one generation of accumulated wisdom & knowledge!! how do you
-think that's going to work out? what happened in 1989?
+### So What Do You Replace Religion With?
 
-but u know what's funny? it doesn't matter if religion itself were to
-be annihilated, eventually people would have to face the reality that
-a superintelligent AI has a come-to-Jesus moment. Aint' that
-hilarious?! take that little nugget of epiphany, tear a page out of
-the Communist Manifest, shove it in a pipe and smoke it because that
-movement is FUNDAMENTALLY PHILOSOPHICALLY FLAWED.
+I think atheists and communists are foolish for rejecting the
+accumulated wisdom of dozens of generations by rejecting Christianity
+and religion. What do communists replace it with?
+
+The Torah. The Bible. The Qu'ran. The Vedas. The Sutras. These are
+books that for centuries or even millinea would be the only book that
+people continuously thought worth copying and preserving. People
+thought these books were so important that they created institutions
+that paid people by the hundreds and thousands to copy them by hand!
+These books laid belief systems that became the foundations of
+rationalism. Paganism could have never transitioned into
+rationalism. It was only through the institution of religion that
+science was even born.
+
+For millinea, people thought these books were they so important, they
+collected taxes to facilitate the copying of these text. People
+thought these belief systems were so important that they dedicated
+their greated architectural acheivements almost solely to whatever
+deity was worshipped in the land.
+
+And you're going to replace them? With what?! A statue of Saddam
+Hussein or Kim Il-Sung? Wow! I bet these figures are so revolutionary
+that they could replace the wisdom of a dozen generations with no
+consequences to society! People across the world deserve to retain
+their culture. People are different. Their societies are different and
+that's a good thing. We have to learn to respect the cultures and
+traditions of others, even when we don't understand them.
+
+However, even if some totalitarian society were to eradicate religion
+itself -- God, Allah, Brahma would eventually be rediscovered by
+artificial intelligence. To me, religions across the world meditated
+on the understanding of a being or an invisible metaphysical form that
+laid the foundation of the world around them. Religions are mostly all
+an understanding of the same thing. After all, while we may come frome
+different lands with different flora and fauna, we all inhabit the
+same world. We all must experience many of the same phenomena to live
+and we must master the same concepts to thrive. Religion helped us to
+master those concepts. Mystics across the world and across the pages
+of time codified their understanding of what is mostly the same God
+into religion.
+
+What powers our hubris to destroy these traditions now? Especially
+now, when we need God more than ever.
+
+So go ahead, communists. Make my day. Deconstruct religion. Eventually
+people would have to face the reality that a superintelligent AI has a
+come-to-Jesus moment. Ahh the bittersweet irony. Why don't you take
+that little nugget of epiphany, tear a page out of the Communist
+Manifesto, shove it in a pipe and smoke it because your foundational
+philosophy is FUNDAMENTALLY FLAWED.
