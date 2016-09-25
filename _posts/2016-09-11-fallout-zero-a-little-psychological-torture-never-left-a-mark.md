@@ -128,6 +128,14 @@ up your ass.
 
 ### &#x2605; [I Would Never Sign Away My Legal Right To Develop My Mind](#i-would-never-sign-away-my-legal-right-to-develop-my-mind)
 
+### &#x2605; [I Knew Nothing of This Before February 2015](#i-knew-nothing-of-this-before-february-2015)
+
+### &#x2605; [Have You Tried Asking Me?](#have-you-tried-asking-me)
+
+### &#x2605; [I Revel in the Tragic Irony of a 21st Century Tesla](#i-revel-in-the-tragic-irony-of-a-21st-century-tesla)
+
+### &#x2605; [In Summary, A Few Final Questions](#in-summary-a-few-final-questions)
+
 <a name="zero-deterrence-companies" />
 
 # [Zero Deterrence Programs](#zero-deterrence-companies)
@@ -1210,7 +1218,7 @@ person was serious or not, but I said no in the most non-judgemental
 way possible.
 
 ### Asking me that question in 2015 implies:
-
+xs
 #### &#x2605; I had the freedom to say yes or no.
 
 #### &#x2605; That I had never signed any previous agreement with them.
