@@ -2,7 +2,7 @@
 title: "Fallout Zero: Surviving OPM, Sepsis, and the Neo-Bolshevik Metamorphosis"
 author:
   name: "David Conner"
-tags: "communism politics economics"
+tags: "communism politics economics gaslighting torture gangstalking"
 categories: blog
 headline: "They out there fuckin Lady Liberty down by the harbor and everyone can hear her scream!"
 excerpt: "

@@ -1,68 +1,14 @@
 ---
-title: "Fallout Zero: A Little Psychological Torture Never Left A Mark"
+title: "Fallout Zero: "
 author:
   name: "David Conner"
-tags: "communism politics economics"
+tags: "communism politics economics gaslighting torture gangstalking"
 categories: blog
 headline: ""
 excerpt: "
 
 "
 ---
-
-
-# part two
-
-# Zero Deterrence Programs
-
-### Three Major Goals to Our Psychological Torture Programs
-
-### But Technically, Pschological Torture Is A Warcrime.
-
-# Exhibit Z: My Brain
-
-### A Living Will And Testament For Justice
-
-### I Never Signed That
-
-# Somebody Call The SPCA!
-
-### Hey, At Least It's Not A Gulag
-
-# Guilty Upon Examination of Public Federal Documentation
-
-### Duplicity in the JSFC War College Process Documentation
-
-# Who Are We At War With, Anyways?
-
-### Catch-22's and Posse Comitatus
-
-### Julius Caeser and Silly Roman Superstitions
-
-### Where's the War on Terror Being Fought?
-
-### Domestic Psychological & Informational Is Cowardly
-
-# WHY R U SO MAD DOOD?!
-
-### Dante's Inferno and Fates Worse Than Death
-
-### Waterboarding, on Supersoakers
-
-### Oh It's Research?! Then Publish Your Data!
-
-### Now I'm Even More Afraid to Seek Psychological Help
-
-### If You've Made It Close To Where I Am, You Have NOTHING
-
-### Wait, Wait, Wait ... YOU DID WHAT TO MY FAMILY?!
-
-
-# That's Detention for you Mr. Nelson!
-
-### How Do They Control You In Detention?
-
-# Oh That's No Tennis Racket. That's Corruption and Extortion.
 
 
 # Medical Experimentation
@@ -80,8 +26,9 @@ excerpt: "
   - recent changes in 2008 and 2013
   - these are patient rights for human experimentation
 
-
 - [Milgram Experiment](https://en.wikipedia.org/wiki/Milgram_experiment)
+
+<a name="" />
 
 # How Could This Happen Here?
 
@@ -106,6 +53,8 @@ made to feel like it's my fault and it's really not. And they
 deconstructed my psychology, to use it against me.
 
 *What Hippocratic Oath?!*
+
+<a name="" />
 
 ### No One Ever Listened To Me
 
@@ -136,7 +85,9 @@ it to other people! GODDAMIT! People I know who were involved they
 would let me waste my breath, completely aware of what was happening,
 just to drain my time, as if they got points for riling me up.
 
-#### *Those who were complicit* who would listen could only say:
+<a name="" />
+
+### [*Those Who Were Complicit* Who Would Listen Could Only Say:]()
 
 #### &#x2605; Just ignore it next time...
 
@@ -173,7 +124,9 @@ resilient enough to withstand this stuff without committing suicide or
 whatever. I don't know what happens to the people that go through
 this.
 
-### These Sadistic Sociopaths Had A Budget!
+<a name="" />
+
+### [These Sadistic Sociopaths Had A Budget!]()
 
 Even though I have PTSD, I'm treated as though if someone undid the
 negative things they did to screw with me, that it would be
@@ -193,7 +146,11 @@ Every thing makes more sense looking back. Now I see the key phrases
 and I can place the the procedures and remember the acronyms, almost
 eidetically.
 
-### This Psychological Torture Is Everywhere Now and It's Part of Something Else
+<a name="" />
+
+### [This Psychological Torture Is Everywhere Now]()
+
+#### And it's part of something else
 
 Whatever happened, it's increased exponentially within the past three
 years and year. I wish I could leave this soul-sucking Hell hole. It's
@@ -208,7 +165,9 @@ the right is always right. However, in our country's current
 nightmare, they are right on it. Yet, they still aren't asking many
 more questions than anyone else.
 
-### Social Media Is Nothing More Than An Echo Chamber
+<a name="" />
+
+### [Social Media Is Nothing More Than An Echo Chamber]()
 
 #### And Somebody Handed Out Megaphones to the Retarded Parrots
 
@@ -224,7 +183,9 @@ out. Then they're going to threaten your family and threaten tactics
 like the Mafia might use to pummel down on the guy who won't pay
 protection money.
 
-### Even the Mafia Polices Itself
+<a name="" />
+
+### [Even the Mafia Polices Itself]()
 
 I really gotta slow my roll here, 'cause I'm givin the Mafia a bad
 Someone once told me "David, the government's like the Mafia. No, You
@@ -247,6 +208,8 @@ like the Mafia? The answer lies in the Social Contract. The people
 deal with it. And in America, our government is for the people, by the
 people.
 
+<a name="" />
+
 ### Technology Throws the Social Contract's Validity into Question
 
 However, in the 21st century, tyrrany has one major trick up its
@@ -258,6 +221,8 @@ reason and there better be some mechanism built in that lets us end it
 when its appropriate. And it would appear that, if we are descending
 into tyranny, that is absolutely not the case because it really looks
 like somebody's got a lot of organizations by the balls.
+
+<a name="" />
 
 ### The Collateral Damage is Immeasureable
 
@@ -272,6 +237,8 @@ they'll be lucky to avoid getting on the shit list too. And if they do
 actively, intentionally resist your treatment or help you in any way,
 they better understand that they're going to be on that shit list.
 
+<a name="" />
+
 ### So You've Been Socially Nullified.
 
 #### Nothing You Say Has Any Consequence
@@ -285,6 +252,8 @@ think they had a mental illness? *THAT GUY IS A VICTIM OF
 PSYCHOLOGICAL TORTURE.* Why the minimalized social network? *THEY
 DON'T WON'T OTHER PEOPLE TO HEAR ABOUT WHAT HAPPENS TO THE PEOPLE ON
 THE SHIT LIST.*
+
+<a name="" />
 
 ### So You Have Been Psychologically Nullified
 
@@ -335,6 +304,8 @@ without strings, they lose control. You can always be sure that this
 party will NEVER do anything that relinquishes control. In every
 situation, you can fucking bet on it. You could set your watch by it.
 
+<a name="" />
+
 ### So You Have Been Financially Nullified
 
 #### You Have No Options to Defend Yourself or to Run.
@@ -357,7 +328,7 @@ crossed MKUltra with a Ponzi scheme and called it Guantanamo, then
 they claimed it was for national security and, hell, why not call it a
 religion too.
 
-
+<a name="" />
 
 # OPM Triggered a Septic Crisis
 
@@ -375,6 +346,8 @@ for the United States, hack that shit and you run the game. I didn't
 know what the OPM was. We looked that up on wikipedia. This was in
 2013.
 
+<a name="" />
+
 ### Beware the Military-Industrial Complex
 
 All I knew was that I had gotten fired from several jobs and, for some
@@ -383,6 +356,8 @@ screening. After all, those military & United States Army types that I
 had problems with ... they seemed to have pushed me out of my job and
 ruined my life. And when I worked at CCS, they had recently funded a
 startup that would provide protection for the electric grid...
+
+<a name="" />
 
 ### Steve Jobs, the Deadhead With a Top Secret Clearance
 
@@ -395,6 +370,8 @@ Gawker linked to that mentioned it would soon become hard to
 obtain/keep a job in America without being capable of obtaining Secret
 or Top Secret, I realized what a major vulnerability this was for
 America.
+
+<a name="" />
 
 ### They Blinded Themselves With Their Own Smear Campaign
 
@@ -418,6 +395,8 @@ attempt at ensuring that no one ever did! And now they can hide
 neither my stellar luminosity nor their bloodlust to turn my life into
 an example nor all the collateral damage in which they are 1000 times
 more accountable.
+
+<a name="" />
 
 ### Here's My Argument, in a Nutshell
 

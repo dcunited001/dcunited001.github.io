@@ -1218,7 +1218,7 @@ person was serious or not, but I said no in the most non-judgemental
 way possible.
 
 ### Asking me that question in 2015 implies:
-xs
+
 #### &#x2605; I had the freedom to say yes or no.
 
 #### &#x2605; That I had never signed any previous agreement with them.
