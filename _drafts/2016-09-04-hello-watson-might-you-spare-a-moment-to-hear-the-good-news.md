@@ -265,13 +265,63 @@ filled by some bunk kitsch cult of personality.
 - how do we avoid this great catastrophe?
   - we must preserve the traditions of the world as they are today
 
+# [Atheism Isn't A Belief System?](#atheism-isnt-a-belief-system)
 
+I'm sick of hearing this argument. Atheists online use it to quash all
+kinds of arguments. They use it to maintain a kind of superiority for
+their own belief system by claiming that it's different and unique,
+since "it's not a belief system" or "its the absence of a belief
+system." Those assertions are demonstrably false from a platonic view
+of the metaphysical.
 
+There's nothing which humanity can reflect on while abstaining from
+forming a belief. Even briefly entertaining the concept of Hinduisim
+in my mind leaves mental residue which is the essence of belief. No
+matter how hard you try, you cannot think of something without forming
+some kind of belief about it or about your own thoughts which concern
+it. That's true no matter how hard we try to abstain from forming
+concrete beliefs about something. Therefore you cannot entertain
+thoughts or questions of God without leaving some mental residue
+which, again, is the essence of belief.
 
+A belief which is identical to that of other humans maps to a belief
+system, whether you want to call it that or not. Even if you name your
+belief system Christianity, it's still different in identity than the
+Christiantiy that exists in someone else's mind. The absence of a
+belief system is a belief in and of itself.
 
-### misc facebook discussion on atheism
+### The Basic Argument
 
-if it's a question that humans have asked for the entirety of history
+#### (1) There is nothing the human mind can think about which does not leave the essence of a belief.
+
+#### (2) All human beliefs map to metaphysical forms in the platonic sense.
+
+#### (3) There are mappings and intermappings between platonic forms, which implies that its impossible to hold truly unique views.
+
+#### (4) Whether you like it or not, all things that are, have been before. Everything that you think has been, in essence, thought before. This statement appears in philosophy and in the Bible as well.
+
+#### (5) Your belief about a lack of belief system is itself a belief.
+
+#### (6) Number 5 requires recursion to fully prove, but since, with graph theory, any infinite-yet-linear branch in a graphs can be reduced to a cycle on the same graph, this cyclical logic can be rewritten as a cycle.
+
+#### (7) Therefore your belief about a lack of belief systems maps to a metaphysical form which is no different than that of someone else's belief about the absence of a belief in God.
+
+#### (8) Therefore, finally, your atheism is no different than another person's atheism. This is especially true in the most authentic sense of the how atheists define atheism as the minimal apex or nadir of belief systems.
+
+#### Ecclesiastes 3:15
+
+> "That which hath been is now; and that which is to be hath already
+> been; and God requireth that which is past." (KJV)
+>
+> "Whatever is has already been, and what will be has been before; and
+> God will call the past to account." (NIV)
+>
+> "That which is, already has been; that which is to be, already has
+> been; and God seeks what has been driven away." (NLT)
+
+### [Atheism is Absolutely A Belief System](#atheism-is-absolutely-a-belief-system)
+
+If it's a question that humans have asked for the entirety of history
 and pre-history and your answer isn't "Brahma" or "Buddha" or "God" or
 "Yahweh" or "Yaldaboath" ... but instead, your answer is "No, I don't
 believe in any of those" then, right there, you've stated a belief in
