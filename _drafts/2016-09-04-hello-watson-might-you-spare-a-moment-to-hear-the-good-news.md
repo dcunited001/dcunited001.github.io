@@ -27,14 +27,29 @@ excerpt: ""
 
 ### &#x2605; [You Cannot Destroy God By Eradicating All Remnants of God Within Man](#you-cannot-destroy-god-by-eradicating-all-remnants-of-god-within-man)
 
-### &#x2605; [So You Believe In Communism](#so-you-believe-in-communism)
+# &#x2605; [So You Believe In Communism](#so-you-believe-in-communism)
 
 ### &#x2605; [One Byte, Two Bytes, Free Bytes ... Blahhh Hah Hahhh](#one-byte-two-bytes)
 
-### &#x2605;
+### &#x2605; [That Which Finally Delivers on the Promises of Marxism Invalidates It!](#that-which-delivers-on-the-promises-of-marxism-invalidates-it)
 
 ### &#x2605; [It's Your Move, Communists](#its-your-move-communists)
 
+# [So You Believe In Communism](#so-you-believe-in-communism)
+
+# [Atheism Isn't A Belief System?](#atheism-isnt-a-belief-system)
+
+### [Atheism is Absolutely A Belief System](#atheism-is-absolutely-a-belief-system)
+
+### [Atheism is Humanity's Response to Modernism, Science and Rationalism](#atheism-is-humanitys-response-to-modernism-science-and-rationalism)
+
+# [Ok, Communists. You Win, For Now...](#ok-communists-you-win-for-now)
+
+### [So What Do You Replace Religion With?](#so-what-do-you-replace-religion-with)
+
+### [If You're So Wise, Then To Whom's Statue Should I Pray?](#if-youre-so-wise-then-to-whoms-statue-should-i-pray)
+
+# [The Important Questions Never Concern Who Is Correct and Who Is Wrong](#the-important-questions-never-concern-who-is-correct-and-who-is-wrong)
 
 <a name="eidos-type-prototype-metatype-and-epitype" />
 
@@ -153,7 +168,7 @@ constraints in the design of next-gen AI that prevent censorship.
 
 <a name="so-you-believe-in-communism" />
 
-### [So You Believe In Communism](#so-you-believe-in-communism)
+# [So You Believe In Communism](#so-you-believe-in-communism)
 
 #### You're Still In College. I forgive you... lulz
 
@@ -289,6 +304,8 @@ to abstain from forming concrete beliefs about something. Therefore
 you cannot entertain thoughts or questions of God without leaving some
 mental residue which, again, is the essence of belief.
 
+<a name="atheism-is-absolutely-a-belief-system" />
+
 ### [Atheism is Absolutely A Belief System](#atheism-is-absolutely-a-belief-system)
 
 A belief which is identical to that of other humans maps to a belief
@@ -334,8 +351,7 @@ rooted in the scientific method. However, it doesn't give you a free
 pass to shove your beliefs down the throat of adherents to other
 belief systems.
 
-<a
-name="atheism-is-humanitys-response-to-modernism-science-and-rationalism" />
+<a name="atheism-is-humanitys-response-to-modernism-science-and-rationalism" />
 
 ### [Atheism is Humanity's Response to Modernism, Science and Rationalism](#atheism-is-humanitys-response-to-modernism-science-and-rationalism)
 
@@ -451,9 +467,9 @@ will face the reality that a superintelligent AI has a come-to-Jesus
 moment. Ahh the bittersweet irony. Why don't you take that little
 nugget of epiphany, tear a page out of the Communist Manifesto, shove
 it in a pipe and smoke it because your foundational philosophy is
-FUNDAMENTALLY FLAWED.
+FUNDAMENTALLY FLAWED
 
-Let's focus on some more important questions:
+# [The Important Questions Never Concern Who Is Correct and Who Is Wrong](#the-important-questions-never-concern-who-is-correct-and-who-is-wrong)
 
 #### How do we minimize the pain of this horrendous, impending onslaught of censorship?
 
