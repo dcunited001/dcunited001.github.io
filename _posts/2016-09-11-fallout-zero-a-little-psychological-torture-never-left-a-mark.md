@@ -30,6 +30,72 @@ as justification for any of this ... and even then ...
 
 # [Somebody Call The SPCA!](#somebody-call-the-spca)
 
+# [Guilty Upon Examination of Public Federal Documentation](#guilty-upon-examination-of-public-federal-documentation)
+### [Duplicity in the JSFC War College Process Documentation](#duplicity-in-the-jsfc-war-college-process-documentation)
+# [Who Are We At War With, Anyways?](#who-are-we-at-war-with-anyways)
+
+### [Catch-22's and Posse Comitatus](#catch-22s-and-posse-comitatus)
+
+### [Julius Caeser and Silly Roman Superstitions](#julius-caeser-and-silly-roman-superstitions)
+
+### [Where's the War on Terror Being Fought?](#wheres-the-war-on-terror-being-fought)
+
+### [Domestic Psychological & Informational Warefare Is Cowardly](#domestic-psychological-and-informational-warfare-is-cowardly)
+
+# [WHY R U SO MAD DOOD?!](#why-r-u-so-mad-dood)
+
+### [Dante's Inferno and Fates Worse Than Death](#dantes-inferno-and-fates-worse-than-death)
+
+### [Waterboarding On Supersoakers](#waterboarding-on-supersoakers)
+
+### [Oh It's Research?! Then Publish Your Data!](#oh-its-research-then-publish-your-data)
+
+### [Now I'm Even More Afraid to Seek Psychological Help](#now-im-even-more-afraid-to-seek-psychological-help)
+
+### [If You've Made It Close To Where I Am, You Have NOTHING](#if-youve-made-it-close-to-where-i-am-you-have-nothing)
+
+### [Wait, Wait, Wait ... YOU DID WHAT TO MY FAMILY?!](#you-did-what-to-my-family)
+
+# [Oh That's No Tennis Racket. That's Corruption and Extortion.](#oh-thats-no-tennis-racket)
+
+### [Who Can Best Stand Up For The Victims?](#who-can-best-stand-up-for-the-victims)
+
+### [Torture and Detainment is Our Greatest National Security Issue](#torture-and-detainment-is-our-greatest-national-security-issue)
+
+### [The US Government Always Expected to Transition to Martial Law](#the-us-government-always-expected-to-transition-to-martial-law)
+
+# [That's Detention for you Mr. Nelson!](#thats-detention-for-you-mr-nelson)
+
+### [How Do They Control You In Detention?](#how-do-they-control-you-in-detention)
+### [It's Immature, Plain and Simple](#its-immature-plain-and-simple)
+### [Robbed of Types of Experiences Necessary for Social Development](#robbed-of-types-of-experiences-necessary-for-social-development)
+
+### [The Psychosocial Miasma Fueling A Plague of Negativity](#the-psychosocial-miasma-feuling-a-plague-of-negativity)
+
+### [Enslaved By Desires and Fears](#enslaved-by-desires-and-fears)
+
+### [A Karmic Pyramid Scheme](#a-karmic-pyramid-scheme)
+
+### [Comply or Suffer Eternal Torment For No Purpose](#comply-or-suffer-eternal-torment-for-no-purpose)
+
+### [Government Subsidized Repression? In the Middle of the Great Recession?!](#government-subsidized-repression)
+
+### [How About Anew Deal](#how-about-anew-deal)
+
+### [OMFG This Flies in the Face of the Hatch Act](#omfg-this-flies-in-the-face-of-the-hatch-act)
+
+# [The American Stasi Must and Will Be Deconstructed](#the-american-stasi-must-and-will-be-deconstructed)
+
+### [What Do Bolsheviks Hate More than God? Entrepreneurs](#what-do-bolsheviks-hate-more-than-god)
+
+### [Welcome to MickeyG's](#welcome-to-mickey-gs-americas-number-one-torture-francise)
+
+### [Guilty, Naive or Innocent](#guilty-naive-or-innocent)
+
+### [Digital Payments Cover Money Laundering for Torture Programs](#digital-payments-cover-money-laundering-for-torture-programs)
+
+### [These Paper Tiger Torture Franchisees Include](#these-paper-tiger-torture-franchisees-includes)
+
 <a name="zero-deterrence-companies" />
 
 # [Zero Deterrence Programs](#zero-deterrence-companies)
@@ -274,6 +340,8 @@ unethical to restrict this information and allow Americans to
 incriminate themselves under some false presumption, as though we
 ourselves are the enemy in the War on Terror. And it would look like
 some Americans are just straight up slaves at this point!
+
+<a name="wheres-the-war-on-terror-being-fought" />
 
 ### [Where's the War on Terror Being Fought?](#wheres-the-war-on-terror-being-fought)
 
