@@ -16,7 +16,19 @@ to me, except I was blindfolded. Not literally, but metaphoricly.
 TODO: preface with notes about martial law being absolutely required
 as justification for any of this ... and even then ...
 
-# TOC
+# [Zero Deterrence Programs](#zero-deterrence-companies)
+
+### [Three Major Goals to Our Psychological Torture Programs](#three-major-goals-to-our-psychological-torture-programs)
+
+### [Technically, Pschological Torture Is A Warcrime. Period.](#psychological-torture-is-a-warcrime)
+
+# [Exhibit Z: My Brain](#exhibit-z-my-brain)
+
+### [A Living Will And Testament For Justice](#a-living-will-and-testament-for-justice)
+
+### [I Never Signed That](#i-never-signed-that)
+
+# [Somebody Call The SPCA!](#somebody-call-the-spca)
 
 <a name="zero-deterrence-companies" />
 
@@ -33,16 +45,9 @@ introducing major liability for human rights violations.
 That leads me to believe there were mostly three purposes to these
 programs:
 
-#### (1) Address logistic growth pains in sliver of the population
-involved in Homeland Security. Basically, they anticipated demand for
-these programs and wanted to push growth early on.
+#### (1) Address logistic growth pains in sliver of the population involved in Homeland Security. Basically, they anticipated demand for these programs and wanted to push growth early on.
 
-#### (2) In that sliver of the population involved in this, until just
-a few years ago, they could provide a deterrence against speaking out
-or saying anything. They would terrorize these individuals and
-minimize any chance of speaking out, but to the public at large, they
-couldn't know what was happening because it was very illegal, so it's
-not a deterrence for them
+#### (2) In that sliver of the population involved in this, until just a few years ago, they could provide a deterrence against speaking out or saying anything. They would terrorize these individuals and minimize any chance of speaking out, but to the public at large, they couldn't know what was happening because it was very illegal, so it's not a deterrence for them
 
 #### (3) And mostly, it was for research. Until very recently -- and perhaps this still applies -- these programs would be be limited Any and all psychological or sociological research that leaves no trace. No chemical, neurological or medical experimentation. And sadly, none of this could really include quantitative measurements, unless they were incidental
 
@@ -596,9 +601,9 @@ might not know better than to yank back that helping hand.
 
 #### &2605; How long has your family begrudgingly supported you? Did they do it to keep you close?
 
-<a name="" />
+<a name="enslaved-by-desires-and-fears" />
 
-### You're Enslaved By Desires and Fears
+### [Enslaved By Desires and Fears](#enslaved-by-desires-and-fears)
 
 You can be sure that they will abuse sex and any sensory or material
 things by which you can be attached. My own experience is hardly
@@ -612,9 +617,9 @@ escape. They'll warp your mind until lust after the torment of others
 and invokation of these material desires in others. They make you lust
 after the thought of embracing their own sinful pyramid scheme.
 
-<a name="" />
+<a name="a-karmic-pyramid-scheme" />
 
-### A Karmic Pyramid Scheme
+### [A Karmic Pyramid Scheme](#a-karmic-pyramid-scheme)
 
 That's precisely what it is, actually: a karmic, pyramid scheme. It's
 like an MK Ultra experiment escaped the lab, founded a religion and
@@ -626,9 +631,9 @@ over the past decade, so I have no idea who is responsible for what. I
 have no idea who's truly trying to save me and who would prefer I help
 them torment others.
 
-<a name="" />
+<a name="comply-or-suffer-eternal-torment-for-no-purpose" />
 
-### Comply or Suffer Eternal Torment For No Purpose
+### [Comply or Suffer Eternal Torment For No Purpose](#comply-or-suffer-eternal-torment-for-no-purpose)
 
 How do you end the torture? By compliance. However, its just like how
 Guantanamo "inmates" are eventually allowed to "leave" the prison camp
@@ -655,9 +660,9 @@ When it's scientifically shown to counter their psychological torture
 methods? How are the atheist commies supposed to push you down if
 someone else relieves you of your torment?
 
-<a name="" />
+<a name="government-subsidized-repression" />
 
-### Government Subsidized Repression In the Middle of the Great Recession?
+### [Government Subsidized Repression? In the Middle of the Great Recession?!](#government-subsidized-repression)
 
 It's really the dumbest, most immature, counterproductive domestic
 policy ever conceived. They -- the CIA, DHS, ICE, ERO, whoever it is
@@ -672,9 +677,9 @@ virtually zero time in a car. No one has ever made it this far and
 they're shitting their pants, which drives me to strive on and keep
 pushing for justice.
 
-<a name="" />
+<a name="how-about-anew-deal" />
 
-### Here's an Idea I call Anew Deal
+### [How About Anew Deal](#how-about-anew-deal)
 
 #### Why Not Invest in Infrastructure, Instead of Taxpayer Funded Cannabilization Culture?
 
@@ -686,9 +691,9 @@ the three goals I stated at the top. Those goals are not marketable to
 the American people because they are immoral and contradict everything
 I thought we stood for.
 
-<a name="" />
+<a name="omfg-this-flies-in-the-face-of-the-hatch-act" />
 
-### OMFG This Flies in the Face of the Hatch Act
+### [OMFG This Flies in the Face of the Hatch Act](#omfg-this-flies-in-the-face-of-the-hatch-act)
 
 And it seems that, in the past 10 years, there has been politically
 motivated application of these programs. I pray this isn't the
@@ -697,9 +702,9 @@ tell whether the goal was political suppression or that some of these
 American Stasi determined that abusing reactions to controversial
 issues like racism would render victims isolated.
 
-<a name="" />
+<a name="the-american-stasi-must-and-will-be-deconstructed" />
 
-# The American Stasi Must and Will Be Deconstructed
+# [The American Stasi Must and Will Be Deconstructed](#the-american-stasi-must-and-will-be-deconstructed)
 
 Furthermore, I can diagram the networks of people who I know were
 involved and I know exactly where to look to find them around the
@@ -717,16 +722,34 @@ these things always start with psychological warfare to isolate
 vulnerable populations on whatever basis: ethnic, racial, cultural,
 religious or political. Say what you will about me, but who's been
 risking their skin to ask questions for a decade? Who got
-psychologically tortured and didn't even know it?
+psychologically tortured and didn't even know it? For asking
+questions? I've been trying to stop this for a decade!
 
-<a name="" />
+<a name="what-do-bolsheviks-hate-more-than-god" />
 
-###
+### [What Do Bolsheviks Hate More than God? Entrepreneurs](#what-do-bolsheviks-hate-more-than-god)
 
-They need cover businesses to receive/process/forward payments. These
-covers are usually small, disposable businesses, which can be thrown
-away as needed and, ironically, hide from the same regulations these
-people enforce. These businesses will work on contract basis and
+They need "entrepreneurs" to found cover businesses to receive,
+process, and forward payments, which primarily stem from the Army
+General Fund, AFAIK. I could be wrong about that, but
+
+I'm sure you've seen the article about $6.5 Trillion missing from the
+Pentagon! Well, that $6.5 trillion dollar number is a misnomer and
+actually is, in itself, a calculated bit of misinformation. That
+number is WRONG. Only $100 billion was laundered and it was via the
+*ARMY GENERAL FUND*, which is under the Department of Defense. *AND
+THEY'VE BEEN DOING IT FOR YEARS.* Only in 2015 was the DoD OIG able to
+complete an audit.
+
+<a name="welcome-to-mickey-gs-americas-number-one-torture-francise" />
+
+### [Welcome to MickeyG's](#welcome-to-mickey-gs-americas-number-one-torture-francise)
+
+#### Would you like a happy meal? That's too fucking bad. Happy is not allowed here at MickeyG's.
+
+These covers are usually small, disposable businesses, which can be
+thrown away as needed and, ironically, hide from the same regulations
+these people enforce. These businesses will work on contract basis and
 usually retain less than 5 employees, if any at all. Unfortunately,
 these organizations also do a lot of other things, but someone went
 and crossed their streams with torture and potential warcrimes.
@@ -744,9 +767,9 @@ a know-nothing college dropout who's made less then $3,000 in two
 years can analyze the vulnerabilities inherent in those logistics
 ... then why couldn't those people who organized this shitshow?
 
-<a name="" />
+<a name="guilty-naive-or-innocent" />
 
-### Guilty, Naive or Innocent
+### [Guilty, Naive or Innocent](#guilty-naive-or-innocent)
 
 Well y'all aren't going to shut me up. I understand what's happened to
 my life and I didn't deserve it one bit. A simple "shut the fuck up"
@@ -769,26 +792,24 @@ going to disconnect you just like you tried to do to us. We're going
 to find you and when we do, your sins will be held high and naked for
 everyone to see.
 
-<a name="" />
+<a name="digital-payments-cover-money-laundering-for-torture-programs" />
 
-###
+### [Digital Payments Cover Money Laundering for Torture Programs](#digital-payments-cover-money-laundering-for-torture-programs)
 
-Digital payments like video games on Steam are a great way to launder
-money and promote the success of those compliant individuals. Such
-digital payments will serve as adequate payoff for tech companies to
-look the other way on NSA surveillance. Again, this is a fucking
-racket, plain and simple. Companies sustaining themselves primarily
-through digital payments are big targets and you'll see that the
-guilty parties have a nauseating degree of social network
+Digital payments like patreon or video games on Steam are a great way
+to launder money and promote the success of those compliant
+individuals. Such digital payments will serve as adequate payoff for
+tech companies to look the other way on NSA surveillance. Again, this
+is a fucking racket, plain and simple. Companies sustaining themselves
+primarily through digital payments are big targets and you'll see that
+the guilty parties have a nauseating degree of social network
 overlap. That is, these shell companies pushing torture for a digital
 buck and modest digital success will receive payments from the same
 sets of people.
 
-<a name="" />
+<a name="these-paper-tiger-torture-franchisees-includes" />
 
-### These paper-tiger-torture companies include:
-
-#### &2605; Video game "programmers" who somehow sell games on steam written in Visual Basic 6 and double as hackers who act like they don't have skills and knowingly install spyware on Geek Squad
+### [These Paper Tiger Torture Franchisees Include](#these-paper-tiger-torture-franchisees-includes)
 
 #### &2605; Cosplayers and crafty peeps with a patreon account
 
@@ -797,6 +818,8 @@ sets of people.
 #### &2605; The musician just released their first album on Spotify and needs bots to generate authentic plays for cash
 
 #### &2605; That photographer who'd make a lot more money if they just had enough Instagram bots to generate the threshold of likes required to break through the newsfeed stream of their friends
+
+#### &2605; Video game "programmers" who somehow sell games on steam written in Visual Basic 6 and double as hackers who act like they don't have skills and knowingly install spyware on Geek Squad
 
 #### &2605; Anyone who resells souls by the sheaf for likes on Facebook
 
@@ -823,7 +846,7 @@ and videos that will tell you how and THEY ARE FREE. The writer's own
 grandmother wouldn't buy that e-book! She'd just send him $100 with a
 card that says:
 
-> "Sorry I spoiled you, but your book sucks. And I taught you how to
+> "Sorry I spoiled you, but your e-book sucks. And I taught you how to
 > bake cookies, you sorry little fuck. Get a job. Here's $100. Don't
 > be a con-artist. This is America."
 >
