@@ -2,19 +2,27 @@
 title: "Fallout Zero: A Little Psychological Torture Never Left A Mark"
 author:
   name: "David Conner"
-tags: "communism politics economics"
+tags: "communism politics economics gaslighting torture gangstalking"
 categories: blog
 headline: ""
 excerpt: "
-
+These are my thoughts on life in American society as it is under a
+constitutional republic. If martial law were declared, well then, some
+of these policies might make sense. However, has martial law been
+declared?! NO IT FUCKING HASN'T! So until then, you can take your
+goddamn psychological torture and you can shove it up your ass.
 "
 ---
 
 I might have figured out what was happening to me or what would happen
-to me, except I was blindfolded. Not literally, but metaphoricly.
+to me, except I was blindfolded. Not literally, but metaphorically.
 
-TODO: preface with notes about martial law being absolutely required
-as justification for any of this ... and even then ...
+Please keep in mind that these are my thoughts on life in American
+society as it is under a constitutional republic. If martial law were
+declared, well then, some of these policies might make sense. However,
+has martial law been declared?! NO IT FUCKING HASN'T! So until then,
+you can take your goddamn psychological torture and you can shove it
+up your ass.
 
 # [Zero Deterrence Programs](#zero-deterrence-companies)
 
@@ -1105,6 +1113,10 @@ personal obligation to truth and justice. Furthermore, it would seem
 that the whole idea was to fake my involvement in something like that,
 only to ball me up and throw me away.
 
+<a name="i-knew-nothing-of-this-before-february-2015" />
+
+### [I Knew Nothing of This Before February 2015](#i-knew-nothing-of-this-before-february-2015)
+
 The first I learned of all these memories was at the end of Feb 2015,
 but I don't think I remembered the "agreement" until March or
 April. On March 13th, I wrote a blog summarizing open source software
@@ -1126,11 +1138,26 @@ psychologically torture me. I gave people about a year to eighteen
 months to do the right thing here.  What's the right thing? BASICALLY
 YOU FIX MY BROKEN LIFE.
 
-I've never been made aware of such an agreement. Since I've never been
+<a name="have-you-tried-asking-me" />
+
+### [Have You Tried Asking Me?](#have-you-tried-asking-me)
+
+I've never been made aware of such an agreement. I have never been
+made aware of detention. I have never been directly questioned about
+these events or charges, whatever they may be. Since I've never been
 allowed to succeed, I figured nothing I did mattered, neither credit
 nor profit. If I was truly a genius or intelligent and I had good
 ideas, it didn't make any sense to sit on them. That would lead me to
 definitely getting no credit for anything.
+
+<a name="i-revel-in-the-tragic-irony-of-a-21st-century-tesla" />
+
+### [I Revel in the Tragic Irony of a 21st Century Tesla](#i-revel-in-the-tragic-irony-of-a-21st-century-tesla)
+
+If there was a 21st century Nikola Telsa, would we celebrate him? Or
+would we crucify him? Lofty language for sure, but what the fuck
+happened to my life? I'm not saying that I'm a Tesla, but holy shit,
+why am I nothing?!
 
 So in the past two years, I've decided that, since any notion of
 personal success is a cruel joke, I'd just dump nearly anything and
@@ -1144,7 +1171,9 @@ most of my Facebook posts public. I also decided that anything I ever
 did online would be MOST PUBLIC; that public data confers power and
 privacy takes our voice away.
 
-#### So ask yourself a few questions:
+<a name="in-summary-a-few-final-questions" />
+
+### [In Summary, A Few Final Questions](#in-summary-a-few-final-questions)
 
 #### &#x2605; Did anything the government ever do in my life fix anything for national security or for previous interference in my life? Nope
 
@@ -1152,7 +1181,7 @@ privacy takes our voice away.
 
 #### &#x2605; Was I ever made aware of actions by the government?
 
-#### &#x2605; Was I ever warned or reprimanded in such a way that could realistically deter my behavior?
+#### &#x2605; Was I ever warned or reprimanded in such a way that could realistically deter my behavior? No? Why Not? Was it maybe because *YOUR BEHAVIOR WAS ILLEGAL?*
 
 #### &#x2605; Was I ever warned to specifically not do anything?
 
@@ -1180,12 +1209,17 @@ to which I answered a clear and emphatic "No." I wasn't sure if the
 person was serious or not, but I said no in the most non-judgemental
 way possible.
 
-#### Asking me that question in 2015 implies:
+### Asking me that question in 2015 implies:
 
-#### I had the freedom to say yes or no.
+#### &#x2605; I had the freedom to say yes or no.
 
-#### That I might be qualified for such a job. Now, how is that possible if I'm so fucking worthless as a programmer?
+#### &#x2605; That I had never signed any previous agreement with them.
 
-#### To some degree, that I might not be aware of previous employment with them (I'm not)
+#### &#x2605; That I might be qualified for such a job. Now, how is that possible if I'm so fucking worthless as a programmer?
 
-# Part Three: ... hmmmm
+#### &#x2605; To some degree, that I might not be aware of previous employment with them (I'm not)
+
+### Part Three
+
+Yup, there's a part three! Aren't you excited?! You're excited. I can
+tell.
