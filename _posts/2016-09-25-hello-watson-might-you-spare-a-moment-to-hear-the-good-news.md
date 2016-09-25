@@ -27,7 +27,7 @@ excerpt: ""
 
 ### &#x2605; [You Cannot Destroy God By Eradicating All Remnants of God Within Man](#you-cannot-destroy-god-by-eradicating-all-remnants-of-god-within-man)
 
-# &#x2605; [So You Believe In Communism](#so-you-believe-in-communism)
+# [So You Believe In Communism](#so-you-believe-in-communism)
 
 ### &#x2605; [One Byte, Two Bytes, Free Bytes ... Blahhh Hah Hahhh](#one-byte-two-bytes)
 
@@ -35,19 +35,17 @@ excerpt: ""
 
 ### &#x2605; [It's Your Move, Communists](#its-your-move-communists)
 
-# [So You Believe In Communism](#so-you-believe-in-communism)
-
 # [Atheism Isn't A Belief System?](#atheism-isnt-a-belief-system)
 
-### [Atheism is Absolutely A Belief System](#atheism-is-absolutely-a-belief-system)
+### &#x2605; [Atheism is Absolutely A Belief System](#atheism-is-absolutely-a-belief-system)
 
-### [Atheism is Humanity's Response to Modernism, Science and Rationalism](#atheism-is-humanitys-response-to-modernism-science-and-rationalism)
+### &#x2605; [Atheism is Humanity's Response to Modernism, Science and Rationalism](#atheism-is-humanitys-response-to-modernism-science-and-rationalism)
 
 # [Ok, Communists. You Win, For Now...](#ok-communists-you-win-for-now)
 
-### [So What Do You Replace Religion With?](#so-what-do-you-replace-religion-with)
+### &#x2605; [So What Do You Replace Religion With?](#so-what-do-you-replace-religion-with)
 
-### [If You're So Wise, Then To Whom's Statue Should I Pray?](#if-youre-so-wise-then-to-whoms-statue-should-i-pray)
+### &#x2605; [If You're So Wise, Then To Whom's Statue Should I Pray?](#if-youre-so-wise-then-to-whoms-statue-should-i-pray)
 
 # [The Important Questions Never Concern Who Is Correct and Who Is Wrong](#the-important-questions-never-concern-who-is-correct-and-who-is-wrong)
 
@@ -304,6 +302,17 @@ to abstain from forming concrete beliefs about something. Therefore
 you cannot entertain thoughts or questions of God without leaving some
 mental residue which, again, is the essence of belief.
 
+#### Ecclesiastes 3:15
+
+> "That which hath been is now; and that which is to be hath already
+> been; and God requireth that which is past." (KJV)
+>
+> "Whatever is has already been, and what will be has been before; and
+> God will call the past to account." (NIV)
+>
+> "That which is, already has been; that which is to be, already has
+> been; and God seeks what has been driven away." (NLT)
+
 <a name="atheism-is-absolutely-a-belief-system" />
 
 ### [Atheism is Absolutely A Belief System](#atheism-is-absolutely-a-belief-system)
@@ -330,17 +339,6 @@ belief system is a belief in and of itself.
 
 #### (8) Therefore, finally, your atheism is no different than another person's atheism. This is especially true in the most authentic sense of the how atheists define atheism as the minimal apex or nadir of belief systems.
 
-#### Ecclesiastes 3:15
-
-> "That which hath been is now; and that which is to be hath already
-> been; and God requireth that which is past." (KJV)
->
-> "Whatever is has already been, and what will be has been before; and
-> God will call the past to account." (NIV)
->
-> "That which is, already has been; that which is to be, already has
-> been; and God seeks what has been driven away." (NLT)
-
 While your belief system is functionally unique in that it is the
 minimal apex or the nadir of belief systems, IT IS A BELIEF
 SYSTEM. So, NO, sorry, you don't get a free pass for shoving it down
@@ -355,15 +353,15 @@ belief systems.
 
 ### [Atheism is Humanity's Response to Modernism, Science and Rationalism](#atheism-is-humanitys-response-to-modernism-science-and-rationalism)
 
-Atheism appeals to people as a response to an urge to answer the same
-questions that religion has attempted to answer. They are questions
-that humans have asked for the entirety of history and pre-history.
-
 #### Why are we here? Who created us?
 
 #### What is my purpose? What is my family's purpose?
 
 #### What is my society's purpose? What is humanity's purpose?
+
+Atheism appeals to people as a response to an urge to answer the same
+questions that religion has attempted to answer. They are questions
+that humans have asked for the entirety of history and pre-history.
 
 Atheism skirts humanity's need answer these questions by proclaiming:
 none of religion's answers to those questions matter because religion
