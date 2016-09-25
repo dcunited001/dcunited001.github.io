@@ -18,83 +18,107 @@ as justification for any of this ... and even then ...
 
 # [Zero Deterrence Programs](#zero-deterrence-companies)
 
-### [Three Major Goals to Our Psychological Torture Programs](#three-major-goals-to-our-psychological-torture-programs)
+### &#x2605; [Three Major Goals to Our Psychological Torture Programs](#three-major-goals-to-our-psychological-torture-programs)
 
-### [Technically, Pschological Torture Is A Warcrime. Period.](#psychological-torture-is-a-warcrime)
+### &#x2605; [Technically, Pschological Torture Is A Warcrime. Period.](#psychological-torture-is-a-warcrime)
 
 # [Exhibit Z: My Brain](#exhibit-z-my-brain)
 
-### [A Living Will And Testament For Justice](#a-living-will-and-testament-for-justice)
+### &#x2605; [A Living Will And Testament For Justice](#a-living-will-and-testament-for-justice)
 
-### [I Never Signed That](#i-never-signed-that)
+### &#x2605; [I Never Signed That](#i-never-signed-that)
 
 # [Somebody Call The SPCA!](#somebody-call-the-spca)
 
+### &#x2605; [At Least It's Not A Gulag](#at-least-its-not-a-gulag)
+
 # [Guilty Upon Examination of Public Federal Documentation](#guilty-upon-examination-of-public-federal-documentation)
-### [Duplicity in the JSFC War College Process Documentation](#duplicity-in-the-jsfc-war-college-process-documentation)
+
+### &#x2605; [Duplicity in the JSFC War College Process Documentation](#duplicity-in-the-jsfc-war-college-process-documentation)
+
 # [Who Are We At War With, Anyways?](#who-are-we-at-war-with-anyways)
 
-### [Catch-22's and Posse Comitatus](#catch-22s-and-posse-comitatus)
+### &#x2605; [Catch-22's and Posse Comitatus](#catch-22s-and-posse-comitatus)
 
-### [Julius Caeser and Silly Roman Superstitions](#julius-caeser-and-silly-roman-superstitions)
+### &#x2605; [Julius Caeser and Silly Roman Superstitions](#julius-caeser-and-silly-roman-superstitions)
 
-### [Where's the War on Terror Being Fought?](#wheres-the-war-on-terror-being-fought)
+### &#x2605; [Where's the War on Terror Being Fought?](#wheres-the-war-on-terror-being-fought)
 
-### [Domestic Psychological & Informational Warefare Is Cowardly](#domestic-psychological-and-informational-warfare-is-cowardly)
+### &#x2605; [Domestic Psychological & Informational Warefare Is Cowardly](#domestic-psychological-and-informational-warfare-is-cowardly)
 
 # [WHY R U SO MAD DOOD?!](#why-r-u-so-mad-dood)
 
-### [Dante's Inferno and Fates Worse Than Death](#dantes-inferno-and-fates-worse-than-death)
+### &#x2605; [Dante's Inferno and Fates Worse Than Death](#dantes-inferno-and-fates-worse-than-death)
 
-### [Waterboarding On Supersoakers](#waterboarding-on-supersoakers)
+### &#x2605; [Waterboarding On Supersoakers](#waterboarding-on-supersoakers)
 
-### [Oh It's Research?! Then Publish Your Data!](#oh-its-research-then-publish-your-data)
+### &#x2605; [Oh It's Research?! Then Publish Your Data!](#oh-its-research-then-publish-your-data)
 
-### [Now I'm Even More Afraid to Seek Psychological Help](#now-im-even-more-afraid-to-seek-psychological-help)
+### &#x2605; [Now I'm Even More Afraid to Seek Psychological Help](#now-im-even-more-afraid-to-seek-psychological-help)
 
-### [If You've Made It Close To Where I Am, You Have NOTHING](#if-youve-made-it-close-to-where-i-am-you-have-nothing)
+### &#x2605; [If You've Made It Close To Where I Am, You Have NOTHING](#if-youve-made-it-close-to-where-i-am-you-have-nothing)
 
-### [Wait, Wait, Wait ... YOU DID WHAT TO MY FAMILY?!](#you-did-what-to-my-family)
+### &#x2605; [Wait, Wait, Wait ... YOU DID WHAT TO MY FAMILY?!](#you-did-what-to-my-family)
 
 # [Oh That's No Tennis Racket. That's Corruption and Extortion.](#oh-thats-no-tennis-racket)
 
-### [Who Can Best Stand Up For The Victims?](#who-can-best-stand-up-for-the-victims)
+### &#x2605; [Who Can Best Stand Up For The Victims?](#who-can-best-stand-up-for-the-victims)
 
-### [Torture and Detainment is Our Greatest National Security Issue](#torture-and-detainment-is-our-greatest-national-security-issue)
+### &#x2605; [Torture and Detainment is Our Greatest National Security Issue](#torture-and-detainment-is-our-greatest-national-security-issue)
 
-### [The US Government Always Expected to Transition to Martial Law](#the-us-government-always-expected-to-transition-to-martial-law)
+### &#x2605; [The US Government Always Expected to Transition to Martial Law](#the-us-government-always-expected-to-transition-to-martial-law)
 
 # [That's Detention for you Mr. Nelson!](#thats-detention-for-you-mr-nelson)
 
-### [How Do They Control You In Detention?](#how-do-they-control-you-in-detention)
-### [It's Immature, Plain and Simple](#its-immature-plain-and-simple)
-### [Robbed of Types of Experiences Necessary for Social Development](#robbed-of-types-of-experiences-necessary-for-social-development)
+### &#x2605; [How Do They Control You In Detention?](#how-do-they-control-you-in-detention)
 
-### [The Psychosocial Miasma Fueling A Plague of Negativity](#the-psychosocial-miasma-feuling-a-plague-of-negativity)
+### &#x2605; [It's Immature, Plain and Simple](#its-immature-plain-and-simple)
 
-### [Enslaved By Desires and Fears](#enslaved-by-desires-and-fears)
+### &#x2605; [Robbed of Types of Experiences Necessary for Social Development](#robbed-of-types-of-experiences-necessary-for-social-development)
 
-### [A Karmic Pyramid Scheme](#a-karmic-pyramid-scheme)
+### &#x2605; [The Psychosocial Miasma Fueling A Plague of Negativity](#the-psychosocial-miasma-feuling-a-plague-of-negativity)
 
-### [Comply or Suffer Eternal Torment For No Purpose](#comply-or-suffer-eternal-torment-for-no-purpose)
+### &#x2605; [Enslaved By Desires and Fears](#enslaved-by-desires-and-fears)
 
-### [Government Subsidized Repression? In the Middle of the Great Recession?!](#government-subsidized-repression)
+### &#x2605; [A Karmic Pyramid Scheme](#a-karmic-pyramid-scheme)
 
-### [How About Anew Deal](#how-about-anew-deal)
+### &#x2605; [Comply or Suffer Eternal Torment For No Purpose](#comply-or-suffer-eternal-torment-for-no-purpose)
 
-### [OMFG This Flies in the Face of the Hatch Act](#omfg-this-flies-in-the-face-of-the-hatch-act)
+### &#x2605; [Government Subsidized Repression? In the Middle of the Great Recession?!](#government-subsidized-repression)
+
+### &#x2605; [How About Anew Deal](#how-about-anew-deal)
+
+### &#x2605; [OMFG This Flies in the Face of the Hatch Act](#omfg-this-flies-in-the-face-of-the-hatch-act)
 
 # [The American Stasi Must and Will Be Deconstructed](#the-american-stasi-must-and-will-be-deconstructed)
 
-### [What Do Bolsheviks Hate More than God? Entrepreneurs](#what-do-bolsheviks-hate-more-than-god)
+### &#x2605; [What Do Bolsheviks Hate More than God? Entrepreneurs](#what-do-bolsheviks-hate-more-than-god)
 
-### [Welcome to MickeyG's](#welcome-to-mickey-gs-americas-number-one-torture-francise)
+### &#x2605; [Welcome to MickeyG's](#welcome-to-mickey-gs-americas-number-one-torture-francise)
 
-### [Guilty, Naive or Innocent](#guilty-naive-or-innocent)
+### &#x2605; [Guilty, Naive or Innocent](#guilty-naive-or-innocent)
 
-### [Digital Payments Cover Money Laundering for Torture Programs](#digital-payments-cover-money-laundering-for-torture-programs)
+### &#x2605; [Digital Payments Cover Money Laundering for Torture Programs](#digital-payments-cover-money-laundering-for-torture-programs)
 
-### [These Paper Tiger Torture Franchisees Include](#these-paper-tiger-torture-franchisees-includes)
+### &#x2605; [These Paper Tiger Torture Franchisees Include](#these-paper-tiger-torture-franchisees-includes)
+
+### &#x2605; [WWGD - What Would Grandma Do?](#what-would-grandma-do)
+
+### &#x2605; [There Could Literally Never Be A Market For That!](#there-could-literally-never-be-a-market-for-that)
+
+### &#x2605; [You're Not An Entrepreneur, You're A Spineless Hack](#youre-not-an-entrepreneur-youre-a-spineless-hack)
+
+# [What F#@&'ng Agreement Are You Talking About?](#what-fucking-agreement-are-you-talking-about)
+
+### &#x2605; [Did I Wanna Hear About Scenes from the Wolf of Wall Street?! Hell Yeh!](#scenes-from-wolf-of-wall-street)
+
+### &#x2605; [Date Raped Legal Bondage? Really?](#date-raped-legal-bondage)
+
+### &#x2605; [How Legal Could That Possibly Be?!](#how-legal-could-that-possibly-be)
+
+### &#x2605; [Your Honor, How High Are You Right Now?](#your-honor-how-high-are-you)
+
+### &#x2605; [I Would Never Sign Away My Legal Right To Develop My Mind](#i-would-never-sign-away-my-legal-right-to-develop-my-mind)
 
 <a name="zero-deterrence-companies" />
 
@@ -254,7 +278,7 @@ but it's just another US Government exercise in duplicity. These docs
 aren't secret or classified, but the indicated some quite valuable
 information to me, so they might get memory holed.
 
-#### &2605; Specifically, would you let detainees keep most of their possessions?
+#### &#x2605; Specifically, would you let detainees keep most of their possessions?
 
 HELL NO! If you're a prisoner of war in Iraq and I was the commanding
 officer, I would be furious to find that a POW had anything more than
@@ -262,7 +286,7 @@ a Qu'ran, at most. Glancing over this document lead me to ask a dozen
 questions like this. There are several documents I've seen like this
 one.
 
-#### &2605; Do prisoners receive anything but medications necessary for sustaining their lives?
+#### &#x2605; Do prisoners receive anything but medications necessary for sustaining their lives?
 
 They'd be lucky if they did. I doubt the Taliban would administer even
 that. So why are there so many procedures specific to that? Why does
@@ -278,13 +302,13 @@ life-or-death, then...
 
 ### How many of those soldiers, outside of combat medics:
 
-#### &2605; (1) are trained to recognize life-or-death situations/symptoms/medications
+#### &#x2605; (1) are trained to recognize life-or-death situations/symptoms/medications
 
-#### &2605; (2) have the time to be concerned with it
+#### &#x2605; (2) have the time to be concerned with it
 
-#### &2605; (3) want to accept the liability for prescribing it
+#### &#x2605; (3) want to accept the liability for prescribing it
 
-#### &2605; (4) care enough to draw from our own supplies, except in life or death situations.
+#### &#x2605; (4) care enough to draw from our own supplies, except in life or death situations.
 
 And remember, because even though it's a warzone, medical malpractice,
 withheld treatment and generally doing anything to end a POW's life is
@@ -585,17 +609,17 @@ tell you anyway.
 
 ### [How Do They Control You In Detention?](#how-do-they-control-you-in-detention)
 
-#### &2605; What makes you happy? Sex? Fame?
+#### &#x2605; What makes you happy? Sex? Fame?
 
-#### &2605; What do you need to be happy? Food? Money?
+#### &#x2605; What do you need to be happy? Food? Money?
 
-#### &2605; What do you need to survive? Food? Shelter? Love?
+#### &#x2605; What do you need to survive? Food? Shelter? Love?
 
-#### &2605; What gets you going? Success? Drugs?
+#### &#x2605; What gets you going? Success? Drugs?
 
-#### &2605; What are your dreams? For yourself? For your children?
+#### &#x2605; What are your dreams? For yourself? For your children?
 
-#### &2605; What are your goals? Short term? Long term?
+#### &#x2605; What are your goals? Short term? Long term?
 
 They do it through poverty, isolation, incrimination.  They do it by
 creating situations around you that push people away. They do it by
@@ -657,17 +681,17 @@ actions are downright malevalent. They fan out this toxic miasma that
 poisons your psychology, your social network and especially anyone who
 might not know better than to yank back that helping hand.
 
-#### &2605; How long have you been without sex?
+#### &#x2605; How long have you been without sex?
 
-#### &2605; Without a kiss? Without an embrace from a girl?
+#### &#x2605; Without a kiss? Without an embrace from a girl?
 
-#### &2605; How long have you been without a job?
+#### &#x2605; How long have you been without a job?
 
-#### &2605; How long have you been without being able to freely choose who your friends are?
+#### &#x2605; How long have you been without being able to freely choose who your friends are?
 
-#### &2605; How long have you been independent?
+#### &#x2605; How long have you been independent?
 
-#### &2605; How long has your family begrudgingly supported you? Did they do it to keep you close?
+#### &#x2605; How long has your family begrudgingly supported you? Did they do it to keep you close?
 
 <a name="enslaved-by-desires-and-fears" />
 
@@ -879,21 +903,21 @@ sets of people.
 
 ### [These Paper Tiger Torture Franchisees Include](#these-paper-tiger-torture-franchisees-includes)
 
-#### &2605; Cosplayers and crafty peeps with a patreon account
+#### &#x2605; Cosplayers and crafty peeps with a patreon account
 
-#### &2605; Companies with access to medical, psychiatric, psychological, fitness and social media records
+#### &#x2605; Companies with access to medical, psychiatric, psychological, fitness and social media records
 
-#### &2605; The musician just released their first album on Spotify and needs bots to generate authentic plays for cash
+#### &#x2605; The musician just released their first album on Spotify and needs bots to generate authentic plays for cash
 
-#### &2605; That photographer who'd make a lot more money if they just had enough Instagram bots to generate the threshold of likes required to break through the newsfeed stream of their friends
+#### &#x2605; That photographer who'd make a lot more money if they just had enough Instagram bots to generate the threshold of likes required to break through the newsfeed stream of their friends
 
-#### &2605; Video game "programmers" who somehow sell games on steam written in Visual Basic 6 and double as hackers who act like they don't have skills and knowingly install spyware on Geek Squad
+#### &#x2605; Video game "programmers" who somehow sell games on steam written in Visual Basic 6 and double as hackers who act like they don't have skills and knowingly install spyware on Geek Squad
 
-#### &2605; Anyone who resells souls by the sheaf for likes on Facebook
+#### &#x2605; Anyone who resells souls by the sheaf for likes on Facebook
 
-#### &2605; These are the same people for whom it's literally impossible for their product to any demand whatsoever in a free market.
+#### &#x2605; These are the same people for whom it's literally impossible for their product to any demand whatsoever in a free market.
 
-#### &2605; Writers who exclusively write digital how-to "e-books" whatever the fuck those are, when their titles couldn't possibly sell because there's simply no market for e-books on "How to Bake Cookies Like Grandma."
+#### &#x2605; Writers who exclusively write digital how-to "e-books" whatever the fuck those are, when their titles couldn't possibly sell because there's simply no market for e-books on "How to Bake Cookies Like Grandma."
 
 Meanwhile, everyone I know tells me my products have no hope and that
 I'm a lazy failure, when I'm truly a workaholic, in the most
@@ -906,6 +930,10 @@ is America? You're telling me that, when I look around today in 2016,
 that this is it? This is the real thing and this is normal? THIS IS
 FINE?!! What the hell is wrong with you people?
 
+<a name="what-would-grandma-do" />
+
+### [WWGD - What Would Grandma Do?](#what-would-grandma-do)
+
 This isn't a free market! There are no algorithms running in social
 media that aren't micromanaged by the NSA! C'mon are you fucking
 kidding me? Everybody and their grandma knows how to bake cookies or
@@ -915,10 +943,17 @@ grandmother wouldn't buy that e-book! She'd just send him $100 with a
 card that says:
 
 > "Sorry I spoiled you, but your e-book sucks. And I taught you how to
-> bake cookies, you sorry little fuck. Get a job. Here's $100. Don't
-> be a con-artist. This is America."
+> bake cookies, you sorry little fuck. That's not entrepreneurship.
+> That's a money laundered handout. Get a job. Build something, don't
+> tear someone else down. Here's $100. Don't be a con-artist. This is
+> America."
 >
 > -- From Grandma With Love
+
+<a name="there-could-literally-never-be-a-market-for-that" />
+### [WWGD - What Would Grandma Do?](#what-would-grandma-do)
+
+### [There Could Literally Never Be A Market For That!](#there-could-literally-never-be-a-market-for-that)
 
 But somehow these people with phoney digital assets for which there
 could be no actual market stay paid, while I can't even get a fucking
@@ -928,6 +963,12 @@ levels of congressional oversight not seen outside countries with pure
 kleptocracy. It is insane. This is not national security, but can you
 ask questions? Hell no! In fact, this is itself the single biggest
 national security threat in soo many ways.
+
+<a name="youre-not-an-entrepreneur-youre-a-spineless-hack" />
+
+### [You're Not An Entrepreneur, You're A Spineless Hack](#youre-not-an-entrepreneur-youre-a-spineless-hack)
+
+#### You've probably never even been hungry before.
 
 By using organizations like the NSA to control comments, reviews and
 payments and with influence in talent agencies, this anonymous,
@@ -940,9 +981,9 @@ because they've been brainwashed into being programmable puppets in
 pursuit of the alienation of those meddlin' Americans who just asked
 too many damn questions. Jeenkies!
 
-###
+<a name="what-fucking-agreement-are-you-talking-about" />
 
-(notes on some "agreement")
+# [What F#@&'ng Agreement Are You Talking About?](#what-fucking-agreement-are-you-talking-about)
 
 The only reason I'm stating this is out of pure paranoia because it's
 insinuated that "agreements" of which I have no knowledge, among other
@@ -962,15 +1003,25 @@ wanted me to sign it and I hadn't even kissed a girl in years at that
 point or, hell, even had more than a 5-minute conversation with one
 from 2011 until 2015ish, maybe.
 
+<a name="scenes-from-wolf-of-wall-street" />
+
+### [Did I Wanna Hear About Scenes from the Wolf of Wall Street?! Hell Yeh!](#scenes-from-wolf-of-wall-street)
+
 Anyway, I was under the presumption that I was restricting my rights
 with regard to details in movies and TV shows AND NOTHING ELSE. This
 was an agreement I supposedly signed on June 1st, 2013 which I didn't
-even remember until March 2015. I don't know what it was for. From my
-memories, whoever wanted me to sign it was very familiar with all the
-blanks for me to initial, so it was something she had done quite
-often. In other words, this wasn't a one-off agreement. Yet, that's
-exactly how it was pitched to me: this was a special deal just for me
-to hear about upcoming movies and TV.
+even remember until March 2015. SKETCHY! So sketchy thatI don't know
+what it was for. From my memories, whoever wanted me to sign it was
+very familiar with all the blanks for me to initial, so it was
+something she had done quite often. In other words, this wasn't a
+one-off agreement. Yet, that's exactly how it was pitched to me: this
+was a special deal just for me to hear about upcoming movies and TV.
+
+<a name="date-raped-legal-bondage" />
+
+### [Date Raped Legal Bondage? Really?](#date-raped-legal-bondage)
+
+#### What about the 14th amendment? State action doctrine says *YOU CAN'T RESTRICT THOSE RIGHTS!!*
 
 Furthermore, I felt under the influence of drugs at the time. If such
 agreement does exist, I don't know why it could be enforced without my
@@ -986,6 +1037,10 @@ about training OCR & handwritten analysis algorithms for reversal, so
 they could be used to generate evidence, like handwritten letters of
 confession & yada yada yada.
 
+<a name="how-legal-could-that-possibly-be" />
+
+### [How Legal Could That Possibly Be?!](#how-legal-could-that-possibly-be)
+
 Anyways, I'm saying this ... just because. Just to make it clear
 because I've never been given the chance to state it in writing. All I
 know is that these people wanted me to sign this and that they were
@@ -999,6 +1054,10 @@ think. I never knew that to be true and that information was never
 disclosed. But I acted as though it was both true and not true at the
 same time, while assuming that it wasn't true and if anyone had asked
 me whether our conversation was recorded, I would have said no.
+
+<a name="your-honor-how-high-are-you" />
+
+### [Your Honor, How High Are You Right Now?](#your-honor-how-high-are-you)
 
 If I did sign this, they tricked me into doing it and I didn't know
 that or understand the implications of the agreement or who it was
@@ -1018,12 +1077,22 @@ someone to pose as a Facebook recruiter to gauge my interest in a FB
 job. I always like to weigh my options, so I heard him out, but at no
 point was I willing to proceed.
 
+<a name="i-would-never-sign-away-my-legal-right-to-develop-my-mind" />
+
+### [I Would Never Sign Away My Legal Right To Develop My Mind](#i-would-never-sign-away-my-legal-right-to-develop-my-mind)
+
+#### Especially Trade Secrets and ESPECIALLY MATH PROBLEMS!
+
 My primary reason for that is to protect my ability to apply my
 knowledge in any way. The only NDA's I've ever signed were for ABS,
 CCS, Internet Marketing Ninjas, Weedmaps (Ghost Group), Jumpcloud and
 other companies I have worked for by contract. None of those companies
 have any major trade secrets or intellectual property of which I am
-aware.
+aware. In fact, that same weekend, I entertained but easily turned
+down someone who presented themselves to me as a Facebook recruiter *ON
+THAT BASIS SPECIFICALLY!*
+
+#### Apparently, there are math problems that are so illegal that if you publicly solve them, fucking space aliens will travel through time and set you up for a 9/11 you never even knew about.
 
 Common sense would indicate that, if I ever signed something for
 TS/SCI or an SAP ... that I'd probably know about it, right? And if
