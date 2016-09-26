@@ -1,5 +1,5 @@
 ---
-title: "Ragnarok, Metaphysics and Engineering Cultural Touchstones for Mythos"
+title: "Ragnarok & Metaphysics: Engineering Cultural Touchstones for Mythos"
 categories: "blog"
 tags: "sociology politics"
 headline: ""
@@ -7,6 +7,9 @@ author:
   name: "David Conner"
 excerpt: ""
 ---
+
+Heads up: this article contains hot fire. Ne Touchez Pas! if
+Prometheus' fate disturbs you.
 
 ### Design of Knowledge Systems for Robustness of Culture, Preservation of Authenticity, etc
 
@@ -213,7 +216,7 @@ symbols, etc?
 
 perhaps the most constant set of `signs` in the semiotic sense
 
-### Architypical Events
+### Architypical Events in Human History
 
 - the creation of the world
   - and the proposed solution to the problem of evil
@@ -228,6 +231,17 @@ perhaps the most constant set of `signs` in the semiotic sense
     civilization are impermanent. In the Judeo-Christian tradition,
     the story of Noah's Flood reminds us that we exist at the grace of
     God.
+
+### Architypical Events/Phenomena in the Human Experience
+
+- birth and death
+  - everyone has a birth
+  - everyone has a death
+  - everyone can relate to these things
+  - and ... everyone has a v-card
+- hunger & thirst
+- virginity (& purity)
+- right and wrong
 
 ### Human Relationships (Family/Friendship)
 
@@ -272,7 +286,13 @@ perhaps the most constant set of `signs` in the semiotic sense
 
 #### Agriculture
 
-### Human Behavior
+### Psychology & Psychiatry
+
+- in the case of modern society, psychology and psychiatry can be
+  mapped in to a language.
+  - this is really what the occult and system of magick were about.
+  - creating systems that could map to features and phenomena in the
+    human mind, in an attempt to control them.
 
 ### Weather Events
 
@@ -290,7 +310,13 @@ perhaps the most constant set of `signs` in the semiotic sense
         less equipped to deal with life, people, cultures and events
         (common & rare)
 
-### Health/Disease
+### Health/Disease/Anatomy
+
+
+### Human Behavior
+
+- emotions, emotional progressions
+- eating, sex, things that every person must do
 
 ### Misc Phenomena
 
