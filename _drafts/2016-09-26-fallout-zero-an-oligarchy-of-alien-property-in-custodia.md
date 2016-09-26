@@ -12,12 +12,14 @@ excerpt: "
 
 This article is way too long. This is part three in a series of
 rambling topics that should have been a dozen different pieces. I'm
-real sorry about that, but it still contains the same quantity of
-gold. THere's even a nugget about endgame scenarios for intellectual
-property distribution. This is real gold for those of us who've had
-the time and wisdom to put together an international banking cartel or
-two over the past 3 centuries ... Ahem! I'm looking at you,
-Illuminati!
+real sorry about that, but it still contains the same quantity of gold
+per block of text.
+
+But wait! There's more! Texelio now contains 20% more gold! There's
+even a nugget about endgame scenarios for intellectual property
+distribution. This is real gold for those of us who've had the time
+and wisdom to put together an international banking cartel or two over
+the past three centuries ... Ahem! I'm looking at you, Illuminati!
 
 # [How Could This Happen Here?](#how-could-this-happen-here)
 

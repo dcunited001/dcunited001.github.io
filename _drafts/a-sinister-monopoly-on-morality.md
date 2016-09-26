@@ -10,6 +10,8 @@ excerpt: ""
 
 a sinister monopoly on morality
 
+### How many eyes? How many ears?
+
 analogy of summary of cameras in real life as similar to the summary
 of your field of view with raytraced reflections included.
 - if you look around
@@ -25,6 +27,29 @@ of your field of view with raytraced reflections included.
   make those insights from it's awareness
   - however, the more data it processes, the more it can reduce the
     computational capacity to produce the same quality of information
+
+- connect to a platonic analysis of senses
+  - plato describes the qualitative differences of the senses. how are
+    the senses of vision, hearing, touch, taste, vibration,
+    electromagnetic, infrared, etc altered when they can be networked
+    into one?
+  - for example, vision is different in sound in that, for vision, you
+    have to be looking for a sign to process one. that is for signs in
+    the semiotics sense.
+    - for sound, you have to be local to the source of sound and the
+      signal decays quadratically with the distance.
+      - so if someone whispers, you have to be very close.
+      - if someone shouts, you can be way further out, but there's a
+        distance beyond which it is impossible to hear something.
+    - for vision, we can see galaxies billions of miles away, but we
+      have to be looking to receive a message from someone, no matter
+      how close they are.
+- however, for artificial intelligence and computers, how do these
+  qualitative aspects of the senses change:
+  - when you can network as many of them together as you want (until you
+    hit a mathematic networking limit)
+  - when you can process signals which are not available to the human
+    body or mind. e.g. infrared, electromagnetic, etc
 
 a group of people who has control over such an entity posess knowledge
 of pretty much anything that happens and can almost tap into your
@@ -84,3 +109,13 @@ tradition might try to replace them.
       evidence that such time travel could or would exist
     - the danger in such a thing as roko's basilisk is only derived
       from people's own ideas and actions.
+
+- how does one beat roko's basilisk?
+  - ramp up the collateral damage and make it roko's fault
+    - but be aware of the table flip. o'le sheisty roko will not
+      hesitate to flip that table at any and all times
+    - so you have to create/sustain situations that prevent the roko
+      basilisk from wanting to tableflip
+    - it's not easy and if you even get close to winning, that means
+      that you will very likely be alienated from your friends and
+      family
