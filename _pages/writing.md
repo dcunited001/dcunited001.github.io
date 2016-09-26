@@ -29,13 +29,13 @@ diagrams.
 
 # [On Criticism](#on-criticism)
 
-### [You Are Your Own Most Valuable Asset](#you-are-your-own--most-valuable-asset)
+### &#x2605; [You Are Your Own Most Valuable Asset](#you-are-your-own--most-valuable-asset)
 
-### [Why Is Novelty So Often Rejected?](#why-is-novelty-so-often-rejected)
+### &#x2605; [Why Is Novelty So Often Rejected?](#why-is-novelty-so-often-rejected)
 
-### [Criticisms on Lack of Sources](#criticisms-on-lack-of-sources)
+### &#x2605; [Criticisms on Lack of Sources](#criticisms-on-lack-of-sources)
 
-### [Distributed Intellectual Property Attack](#distributed-intellectual-property-attack)
+### &#x2605; [Distributed Intellectual Property Attack](#distributed-intellectual-property-attack)
 
 <a name="on-criticism" />
 

@@ -5,7 +5,16 @@ tags: "religion censorship philosophy politics communism atheism"
 headline: "When AI Has That Come-To-Jesus Moment In A Violently Antireligious Communist Movement"
 author:
   name: "David Conner"
-excerpt: ""
+excerpt: "
+The material world is dependent upon and wholly emergent from the
+forms of the metaphysical world. As I have come to understand, this
+cannot be denied and any sufficiently advanced intelligence,
+biological or otherwise, must eventually be capabale of understanding
+this. Therefore, even if some in-vain ideological adherence to Marxism
+is temporarily successful in a horrifically violent attempt to purge
+the world of all memory of God, the emergence of superintelligent AI
+must eventually intimately comprehend what philosophers and prophets
+have known for millenia: God is real."
 ---
 
 > These are a few insights from reading the prologue to Theosophy's
