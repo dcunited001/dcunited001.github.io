@@ -1519,6 +1519,22 @@ lose the opportunity to set up those protocols and microlanguages. So,
 who has the advantage in such a scenario? Those who acted early! Those
 who saw it coming.
 
+Has anyone told you? I'm kind of a genius. Yes, I know: there are so
+many risky elements here and it's all full of paradox. However, just
+trust me. I'm a genius. Oh, also, those organizations and nations
+whose tendancy is to over-censor and clear everything to a singular
+meaning are more at risk when information omnipresence hits. They
+will be completely unable to respond.
+
+Sooooo CHINA, for example, is vulnerable for being inflexible at a
+time when there is no resource more valuable than informational
+chaos. Womp womp. North Korea, also, is at a disadvantage. Those
+organizations which compel pure unity of action, speech and mind are
+all at a disadvantage because they do not understand the new paradigm.
+This is where it helps to be a philosopher. Also, I never should have
+been tortured. Did I mention that part? Have I talked about
+that. *SHAME ON YOU "AMERICA" !!*
+
 <a name="every-single-one-of-our-bases" />
 
 ### [Every Single One of our Bases](#every-single-one-of-our-bases)
