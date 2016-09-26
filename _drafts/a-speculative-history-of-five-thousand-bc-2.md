@@ -8,7 +8,6 @@ author:
 excerpt: ""
 ---
 
-
 - part two starts with 8,000 BC - 5,000 BC, then covers up to 4,000 BC
 - part three covers 4,000 BC through 2,000 BC and then sums up the
   rest

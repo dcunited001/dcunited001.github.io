@@ -182,6 +182,8 @@ universally relevant symbols to meanings then:
         cultural subversion.
 - Which symbols will most resist semiotic change (change in meaning or
   signs) over time. Why?
+  - how is this so completely different in our digital world.
+    - and how to harness this?
 - What systems of symbols will resist change in the face of constantly
   changing culture?
   - In the face of cultural turmoil before, during and after

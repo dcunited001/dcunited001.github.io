@@ -10,7 +10,7 @@ excerpt: ""
 
 a sinister monopoly on morality
 
-### How many eyes? How many ears?
+# How many eyes? How many ears?
 
 analogy of summary of cameras in real life as similar to the summary
 of your field of view with raytraced reflections included.
@@ -27,6 +27,8 @@ of your field of view with raytraced reflections included.
   make those insights from it's awareness
   - however, the more data it processes, the more it can reduce the
     computational capacity to produce the same quality of information
+
+# An Analysis of Digital Senses
 
 - connect to a platonic analysis of senses
   - plato describes the qualitative differences of the senses. how are
@@ -73,6 +75,8 @@ of your field of view with raytraced reflections included.
   - now take a look at my own life and imagine everyone had to live
     like that...
 
+# (Who Controls This?)
+
 a group of people who has control over such an entity posess knowledge
 of pretty much anything that happens and can almost tap into your
 thoughts.
@@ -102,6 +106,9 @@ thoughts.
 - so instead of planning to act against it, we need to plan to act
   responsibly to determine how such a world would be built to benefit
   all of us.
+  - how to transition to the next section...
+    - transition to utilizing religion to adapt to the paradigm shift
+      of our brave new world?
 
 in such a world, it's important to defend older religious traditions
 in this atmosphere because either political atheism or another

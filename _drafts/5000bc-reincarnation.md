@@ -1,4 +1,14 @@
-========
+---
+title: "Reincarnation on the Astral Plane empowered by the Collectively Conscious",
+categories: "blog"
+tags: ""
+headline: ""
+author:
+  name: "David Conner"
+excerpt: ""
+---
+
+TODO: figure out a title that doesn't suck
 
 Ancient Proto Harrapan
 
@@ -51,6 +61,8 @@ almost any development is new to any society.
 - premodernist's desire to experiment with cultural elements encoded
   with myth
 
+### The Birth of Architecture Paralleled And Drove Our Understanding of Mortality
+
 For the ancients, there were varying degrees of permanence in the
 world. The most permanent features of their world were the stars. Most
 of them. Some of them moved, predictably.
@@ -77,7 +89,9 @@ of them. Some of them moved, predictably.
         the role of the Creator or God
 - death of a culture. architecture as a symbol of cultural legacy.
 
-- why did they choose their system of names?
+### (Systems of Naming)
+
+- why and how did earlier peoples choose their system of names?
   - how did this evolve? what was first? was any one thing first?
   - why did people think to name themselves after names of things in
     the world?
@@ -100,6 +114,10 @@ of them. Some of them moved, predictably.
     - David. Saul. Paul. Benjamin. John ... wait which John?
 - names have meaning. different systems of naming people have
   different range and delineation of meaning.
+- this can be connected to my draft on symbols for a religion
+  - the set of signs that can be connected via semiotics to meanings
+    that are codified in a religion
+    - (ragnarok star: the semiotics of mythoology)
 
 ========
 
