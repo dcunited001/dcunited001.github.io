@@ -50,6 +50,28 @@ of your field of view with raytraced reflections included.
     hit a mathematic networking limit)
   - when you can process signals which are not available to the human
     body or mind. e.g. infrared, electromagnetic, etc
+- for example, a computer with 10,000 networked cameras loses the
+  requirement of locality to process signals received through vision.
+  - that is, in order for us to process a sign received through
+    vision, we not only have to be looking, but we have to be in a
+    position such it that is possible to see that sign.
+  - but, for a computer with networked vision signals streaming in
+    from 10,000 cameras scattered across a city, it's not necessary to
+    be in a particular position, especially if the computer system is
+    guarateed to receive a particular amount of coverage.
+    - so if there are enough cameras over a city, then the data
+      streaming in is guaranteed to provide enough coverage to
+      minimize almost all blind spots.
+  - this is terrifying, really
+- another example: microphones in mobile phones in conjunction with
+  GPS essentially gives this computer a set of ears that can process
+  sound without the requirement of locality
+  - this is in line with my prediction that networked computer systems
+    eventually cause our world to evolve into one with information
+    omnipresence: *INFORMATION IS AVAILABLE TO EVERYONE AT ALL TIMES
+    AND IN ALL LOCATIONS*
+  - now take a look at my own life and imagine everyone had to live
+    like that...
 
 a group of people who has control over such an entity posess knowledge
 of pretty much anything that happens and can almost tap into your
