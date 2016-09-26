@@ -9,7 +9,8 @@ excerpt: ""
 ---
 
 Heads up: this article contains hot fire. Ne Touchez Pas! if
-Prometheus' fate disturbs you.
+Prometheus' fate disturbs you. Don't play with fire, don't play in the
+street and don't touch Dimension W.
 
 ### Design of Knowledge Systems for Robustness of Culture, Preservation of Authenticity, etc
 
