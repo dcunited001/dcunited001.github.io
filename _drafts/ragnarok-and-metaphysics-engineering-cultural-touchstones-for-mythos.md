@@ -48,25 +48,25 @@ information in an encoded form
 
 ### Ragnarok was pre-literary futurism
 
-    - Back to the point at hand: IMO Jormungand symbolizes global
-      trade and Ragnarok occurs at a time when trade is global and
-      when modernism threatens to homogenize all culture.
-      - the authors of Ragnarok finally wrote it down (in the Poetic
-        Edda?) during a time of cultural turmoil
-      - in other words, they knew their culture would disappear and
-        that the Christian persecutions of western Europe would spread
-        northward.
-        - to some degree the most influential Nords may have been in
-          agreement with utilizing Christianity to solidify Europe
-          against Islam and any other major cultural movements from
-          the Middle East.
-          - these people were aware of Islam (again, they fought in
-            the greatest road trip of the middle ages: the 2nd
-            Crusades, circa end of 11th century)
-            - they even brought back islamic jewelry from the middle
-              east, which apparently baffled archaeologists for some
-              time. there was a ring with arabic inscriptions found at
-              a nordic burial site or something.
+- Back to the point at hand: IMO Jormungand symbolizes global trade
+  and Ragnarok occurs at a time when trade is global and when
+  modernism threatens to homogenize all culture.
+  - the authors of Ragnarok finally wrote it down (in the Poetic
+    Edda?) during a time of cultural turmoil
+  - in other words, they knew their culture would disappear and that
+    the Christian persecutions of western Europe would spread
+    northward.
+    - to some degree the most influential Nords may have been in
+      agreement with utilizing Christianity to solidify Europe against
+      Islam and any other major cultural movements from the Middle
+      East.
+    - these people were aware of Islam (again, they fought in the
+      greatest road trip of the middle ages: the 2nd Crusades, circa
+      end of 11th century)
+      - they even brought back islamic jewelry from the middle east,
+        which apparently baffled archaeologists for some time. there
+        was a ring with arabic inscriptions found at a nordic burial
+        site or something.
 
 ### Europe has always been obsessed with geopolitical cultural unity
 
@@ -172,8 +172,9 @@ universally relevant symbols to meanings then:
 
 - How do you know which symbols to choose?
   - generally universal recognition trumps everything else, but
-    there's lots of stuff that's universally relevant
+    there's lots of stuff that's universally relevant:
     - water, food, sleep, hunger, greed, money, etc
+    - how do you map this stuff and what's the best way to map it?
     - there is even a list of about 100 universally shared traits,
       which are common even to Amazonian cultures which are completely
       isolated
