@@ -1,5 +1,5 @@
 ---
-title: "Fallout Zero: "
+title: "Fallout Zero: An Oligarchy of Alien Property In Custodia"
 author:
   name: "David Conner"
 tags: "communism politics economics gaslighting torture gangstalking"
@@ -10,23 +10,14 @@ excerpt: "
 "
 ---
 
-
-# Medical Experimentation
-
-- [Ganser Syndrome](https://en.wikipedia.org/wiki/Ganser_syndrome)
-  - this seems to basically comprise using figurative speech and
-    speaking through metaphor to attempt to be non-cooperative in a
-    psychiatric setting.
-  - but apparently, it's in the DSM-IV TR ... i donno how. i've never
-    heard of it.
-
-- [Munchausen by Proxy]
-
-- [Declaration of Helsinki](https://en.wikipedia.org/wiki/Declaration_of_Helsinki)
-  - recent changes in 2008 and 2013
-  - these are patient rights for human experimentation
-
-- [Milgram Experiment](https://en.wikipedia.org/wiki/Milgram_experiment)
+This article is way too long. This is part three in a series of
+rambling topics that should have been a dozen different pieces. I'm
+real sorry about that, but it still contains the same quantity of
+gold. THere's even a nugget about endgame scenarios for intellectual
+property distribution. This is real gold for those of us who've had
+the time and wisdom to put together an international banking cartel or
+two over the past 3 centuries ... Ahem! I'm looking at you,
+Illuminati!
 
 # [How Could This Happen Here?](#how-could-this-happen-here)
 
@@ -63,10 +54,6 @@ excerpt: "
 ### &#x2605; [They Blinded Themselves With Their Own Smear Campaign](#they-blinded-themselves-with-their-own-smear-campaign)
 
 # [Here's My Argument, in a Nutshell](#heres-my-argument-in-a-nutshell)
-
-
-
-
 
 <a name="how-could-this-happen-here" />
 
@@ -164,9 +151,9 @@ resilient enough to withstand this stuff without committing suicide or
 whatever. I don't know what happens to the people that go through
 this.
 
-<a name="" />
+<a name="these-sadistic-sociopaths-had-a-budget" />
 
-### [These Sadistic Sociopaths Had A Budget!](these-sadistic-sociopaths-had-a-budget)
+### [These Sadistic Sociopaths Had A Budget!](#these-sadistic-sociopaths-had-a-budget)
 
 Even though I have PTSD, I'm treated as though if someone undid the
 negative things they did to screw with me, that it would be
@@ -562,10 +549,9 @@ nothing you could have done then, huh?
 
 ### [It'll All Come Out in the Wash](#itll-all-come-out-in-the-wash)
 
-Oh, well, it'll fix itself right?
-None of that matters then, huh?
-I guess nothing that happened to me matters. Or America or any
-other American who's been in my own shoes.
+Oh, well, it'll fix itself right? None of that matters then, huh?  I
+guess nothing that happened to me matters. Or America or any other
+American who's been in my own shoes.
 
 Eventually you can fix this. I believe in you, 'Murkinya .. woops!
 I mean, "America" ...
@@ -820,6 +806,7 @@ because they can share circular DNA plasmids.
 
 
 
+
 The technological options for genomic data science expand with
 expansions of computing power. This is some seriously powerful stuff &
 something I was working on in March and April. If I had managed to
@@ -852,6 +839,7 @@ that some groups in the global economy would execute that duty
 altruistically.
 
 ... (the following should possibly be its own blog entry)
+
 
 <a name="" />
 
@@ -917,9 +905,9 @@ economic system can evolve towards one which is fair and beneficial or
 one where greed and lust for power overtake such fragile notions of
 peace and equitable prosperity.
 
-<a name="" />
+<a name="so-youre-telling-me" />
 
-### [So, You're Telling Me...](so-youre-telling-me)
+### [So, You're Telling Me...](#so-youre-telling-me)
 
 TODO: 3rd world meme
 
@@ -1842,6 +1830,29 @@ the authority in the War on Terror.
       harassment, don't people usually seek to intervene? afterwards,
       depending on the severity and the certainty, don't people
       usually step in to help?
+
+
+# Medical Experimentation
+
+- [Ganser Syndrome](https://en.wikipedia.org/wiki/Ganser_syndrome)
+  - this seems to basically comprise using figurative speech and
+    speaking through metaphor to attempt to be non-cooperative in a
+    psychiatric setting.
+  - but apparently, it's in the DSM-IV TR ... i donno how. i've never
+    heard of it.
+
+- [Munchausen by Proxy]
+
+- [Declaration of Helsinki](https://en.wikipedia.org/wiki/Declaration_of_Helsinki)
+  - recent changes in 2008 and 2013
+  - these are patient rights for human experimentation
+
+- [Milgram Experiment](https://en.wikipedia.org/wiki/Milgram_experiment)
+
+> You never take a man's right to the pursuit of happiness and you
+> never take his ability to serve others.
+
+
 
 {% highlight "ruby" %}
 //
