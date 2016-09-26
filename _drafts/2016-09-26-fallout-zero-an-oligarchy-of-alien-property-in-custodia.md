@@ -27,7 +27,7 @@ the past three centuries ... Ahem! I'm looking at you, Illuminati!
 
 ### &#x2605; [*Those Who Were Complicit* Who Would Listen Could Only Say:](#those-who-were-complicit-could-only-say)
 
-### &#x2605; [These Sadistic Sociopaths Had A Budget!](these-sadistic-sociopaths-had-a-budget)
+### &#x2605; [These Sadistic Sociopaths Had A Budget!](#these-sadistic-sociopaths-had-a-budget)
 
 ### &#x2605; [This Psychological Torture Is Everywhere Now](#this-psychological-torture-is-everywhere-now)
 
@@ -43,7 +43,7 @@ the past three centuries ... Ahem! I'm looking at you, Illuminati!
 
 ### &#x2605; [So You've Been Psychologically Nullified](#so-youve-been-psychologically-nullified)
 
-### &#x2605; [So You Have Been Financially Nullified](#so-youve-been-financially-nullified)
+### &#x2605; [So You've Been Financially Nullified](#so-youve-been-financially-nullified)
 
 ### &#x2605; [So You've Been Socially, Psychologically and Financially Ruined...](#so-youve-been-socially-psychologically-and-financially-ruined)
 
@@ -336,7 +336,7 @@ situation, you can fucking bet on it. You could set your watch by it.
 
 <a name="so-youve-been-financially-nullified" />
 
-### [So You Have Been Financially Nullified](#so-youve-been-financially-nullified)
+### [So You've Been Financially Nullified](#so-youve-been-financially-nullified)
 
 #### You Have No Options to Defend Yourself or to Run.
 
@@ -665,9 +665,6 @@ articles that claim the CDC will begin treating "negative
 information/facts" and "viral belief systems." And going back to
 neurology, there have been tons of studys on implanting memories and
 removing memories.
-
-- TODO: include info about ICD-9 & ICD-10?
-- TODO: include info about mTBI & blast-induced traumatic brain injury?
 
 These studies scare the shit out of me, but they seem to be written
 for pretty basic shit, but what if their capacity for neurological
@@ -1418,7 +1415,9 @@ for every person who "made it" as far as I did, there are millions of
 others, who either settled or were brainwashed or were driven insane
 or had an "accident."
 
-###
+<a name="nothing-justified-my-torture" />
+
+### [Nothing Justified My Torture!](#nothing-justified-my-torture)
 
 I would have cooperated with the government in an
 investigation. *THERE ARE NO CIRCUMSTANCES UNDER WHICH I EVER SHOULD
@@ -1441,20 +1440,93 @@ you so meticulously engineered isn't going to make anything better.
 
 # [OPM: They Got All the Bases!](#opm-they-got-all-the-bases)
 
+Yeh, so OPM was kind of a big deal. Do you understand what that means
+for the Office of Personnel Management to get hacked? Do you
+understand what it means to have that database Ashley Madison'd? OK,
+well technically that database wasn't plastered over the net, but
+someone has access to it. Further still, taking a look at current
+events today, IT WOULD APPEAR THAT WHOEVER HAS THIS DATABASE IS USING
+IT.
+
+In the covert services, you're kind of allowed to have one vice. It's
+like a rule. Your vice can be drugs, money, power or sex. Drugs are
+typically frowned on because they cause a chemical change to your
+faculties of judgement. But, you're really only "allowed" to have
+one. You're not really allowed to have it, but it's permissable. In
+fact, the people that are permitted access to these activities are
+encouraged to have one thumbscrew that the CIA or whoever can leverage
+to control them.
+
+We have that information IN THE FUCKING DATABASE. The FBI conducted
+all of these background checks and they studied the people permitted
+access to Classified, Secret, Top Secret and TS/SCI information. They
+put all that information about you, your work, your hobbies, your
+family, your vices, your fears, etc in the OPM database. Now someone
+has all that information. Everyone who's someone in Washington? *THIS
+IS WHY THEIR HAIR IS ON FIRE.*
+
 <a name="universal-blackmail" />
 
 ### [Universal Blackmail](#universal-blackmail)
 
-And they are blackmailing fucking everyone. Like they're the goddamn
-mafia. But here's the deal with distributed and total blackmail
-against your citizenry. Fucking everybody is gettin blackmailed!
-Again, *STAND UP FOR YOUR GODDAMN RIGHTS AND FORGIVE OTHERS OF THEIR
-SINS BECAUSE THEY GETTIN' BLACKMAILED JUST LIKE YOU ARE IF YOU HAVE
-ANY INFLUENCE.*
+Whoever stole this information is blackmailing everyone, like they're
+the goddamn mafia. But here's the deal with distributed and total
+blackmail against your citizenry. Fucking everybody is gettin
+blackmailed! Again, *STAND UP FOR YOUR GODDAMN RIGHTS AND FORGIVE
+OTHERS OF THEIR SINS BECAUSE THEY GETTIN' BLACKMAILED JUST LIKE YOU
+ARE IF YOU HAVE ANY INFLUENCE.*
+
+
+
+
+OK, well how do we fix this OPM nightmare? We need an Intelligence
+Services reset in America. We need to create a system of five or more
+intelligence services that overlap in some way. The former
+intelligence agencies can comprise one or two nodes in that graph, but
+we need some others for redundancy. This situation actually gives us a
+bit of an advantage, even though it's not one we prefer. I can't
+completely explain why, but just think about it. In the least, it's an
+opportunity to push patriotism and the reorganization of our
+intelligence services at what is perhaps the last moment in history to
+do so before the Singularity. Mwahaha.
+
+Why do I say that? Among other reasons, the permanent digitization of
+records and the emergence of supranational entities that dictate the
+actions of nation-states precludes the possibility of false
+identities. No false identities? It gets really hard to perform
+espionage. Espionage may become something of the past. It may become
+something that is impossible in the late 21st century. And because all
+warfare is essentially information warfare, it may become impossible
+to reasonably conduct warfare if information omnipresence becomes a
+thing. If warfare were impossible, that could finally imply true WORLD
+PEACE, wouldn't it?
+
+So, you see, OPM is truly an opportunity to reorganize the
+intelligence services of America. It's our final chance to do so and
+our enemies may not have anticipated this. They will lock down their
+own intelligence services, but make no mistake: whoever did this to
+OPM did it to any nation whose size requires an agency like OPM to
+manage records. So because our enemies would respond by locking down
+their own security even though it's already compromised, they won't be
+forced to respond by becoming flexible *AT THE LAST MOMENT TO DO
+SO!* **MWAHAHA!**
+
+They may lose the opportunity to retreat into esotericism before
+Singularity creates a state of information omnipresence. Retreat into
+esotericism through the abuse of language requires that such protocols
+are set up ahead of time. As we are pulled into the Singularity, we
+lose the opportunity to set up those protocols and microlanguages. So,
+who has the advantage in such a scenario? Those who acted early! Those
+who saw it coming.
 
 <a name="every-single-one-of-our-bases" />
 
 ### [Every Single One of our Bases](#every-single-one-of-our-bases)
+
+Make no mistake: this is not an opportunity. THIS WAS AN ATTACK ON
+AMERICA. *THIS WAS A REAL ATTACK AND PEOPLE DIED BECAUSE OF THIS!*
+There were real consequences those consequences will continue to seep
+into the fabric between American sociopolitical institutions.
 
 How can these Bolo's do this in the Age of the Internet? Because they
 have total control of the communication infrastructure. They have
@@ -1774,7 +1846,8 @@ that [OFAC](https://en.wikipedia.org/wiki/Portal:Featured_content) has
 the authority in the War on Terror.
 
 - SDN's and I-9 notifications to track individuals across the country
-  - coverage
+  - coverage of small business
+  - how this relates to 
 
 - intellectual property theft via surveillance
   - if coordinated for political reasons could be incredibly powerful,
@@ -1854,7 +1927,8 @@ the authority in the War on Terror.
 > You never take a man's right to the pursuit of happiness and you
 > never take his ability to serve others.
 
-
+- TODO: include info about ICD-9 & ICD-10?
+- TODO: include info about mTBI & blast-induced traumatic brain injury?
 
 {% highlight "ruby" %}
 //

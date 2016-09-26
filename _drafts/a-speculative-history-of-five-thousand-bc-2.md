@@ -1,8 +1,8 @@
 ---
-title: "A Speculative History of 5,000 B.C. (Part Two)"
+title: "Speculative History: Calamity Echoes Through Human Psyche"
 categories: blog
 tags: "anthropology"
-headline: "Calamity Echoes Through Human Psyche"
+headline: ""
 author:
   name: "David Conner"
 excerpt: ""
@@ -23,7 +23,9 @@ historical facts.  It's titled "A Speculative History" for a reason.
 I hope to provide a good story and possibly spark your interest.  If I
 do, follow up with some research yourself.
 
-# Pre-Historic Written Language
+<a name="prehistoric-written-language" />
+
+# [Pre-Historic Written Language](#prehistoric-written-language)
 
 What I can state with confidence is that the story that we know is not
 the complete truth. There is a lot missing and I think various empires
@@ -53,6 +55,8 @@ However, I am interested to learn more about Harappan and ICV culture
 because it is clear that we've only scratched the surface.  So I'm
 hopeful that we'll have the chance to study more of their
 establishments.
+
+<a name="" />
 
 # Calamity Echoes Through Human Psyche
 
@@ -99,6 +103,8 @@ through myth.  It was difficult to understand the mechanism causing
 flooding and if some group did, then it was difficult to propagate
 that knowledge or discern a method to predict when one would happen.
 
+<a name="" />
+
 # (Innovate or Die?)
 
 However, that's not to say that we didn't understand what was going on
@@ -121,6 +127,8 @@ In fact, a recently discovered
 shows that pre-Clovis peoples certainly inhabited the Americas more
 than 14,500 years ago. This begs the question: did people of that time
 have access to seafaring technology?
+
+<a name="" />
 
 # Innovate or Die
 
@@ -183,6 +191,8 @@ which we could propagate ideas without speech and preserve traditions
 or will, even beyond death.  Systematized forms of writing beyond art
 were not developed until the end of Copper Age or the beginning of the
 Bronze Age.
+
+<a name="" />
 
 ### The Origins of Conflict
 
@@ -301,9 +311,9 @@ of doing it without significant risk of mortal injury.  There is no
 resource over-consumption to drive conflict and population is
 constrained.
 
-# Metallurgy ...
+<a name="" />
 
-### Or: How Hot Can We Make Fire?
+# Metallurgy or How Hot Can We Make Fire?
 
 As I've already stated, metallurgy is perhaps the most important
 development for mankind, outside of written language.  It's important,
@@ -315,12 +325,12 @@ arbitrary factors that determine the course of history.
 
 More than just providing stabby things and protecting oneself from
 said stabby things, metal furthers the sense of self, as it provides a
-medium for the development of art.  Up to this point, humanity's been
-limited to carvings, which deteriorate fast, or painting with blood
-and pigments.  But metal, that lasts.  And copper is malleable.  It
-allows us to create art, to express and communicate ideas to others.
-And because metal lasts, these ideas can be transferred between
-generations.
+medium for the development of art with permanence.  Up to this point,
+humanity's been limited to carvings, which deteriorate fast, or
+painting with blood and pigments.  But metal, that lasts for
+generations.  And copper is malleable.  It allows us to create art, to
+express and communicate ideas to others.  And because metal lasts,
+these ideas can be transferred between generations.
 
 > And this is a really important idea: the persistence of knowledge
 > through generations. The length of time that an idea lives on -
@@ -426,9 +436,11 @@ tablets were baked after discovery in 1961 to "preserve" them,
 preventing carbon dating. They easily could have kept samples for
 carbon dating.
 
-## Origin of Religion
+<a name="" />
 
-#### There is this mystical
+# [The Origin of Religion]()
+
+#### (There is this mystical)
 
 ...
 
@@ -526,7 +538,9 @@ nature, the more we were allured by the promise of completely escaping
 its harsh reality.  Yet, the more complicated our societies became,
 the more disparate the conditions were for various social strata.
 
-### The Deluge(s)
+<a name="" />
+
+### [The Deluge(s)]()
 
 Almost every culture has a story about a catastrophic flood that
 nearly destroyed humanity. Many of these also feature a Noah figure,
@@ -628,16 +642,17 @@ of the strait with those found on the seafloor.
 
 
 IMO, it'd be very hard for the water to naturally breach the Bosporus
-Strait when it was still an Isthmus.  Today the strait is only 17
-miles long.  It averages 65m deep If this was a natural geological
-feature, it should have cyclically flooded and reconnected several
-times in the past million years.  It is not likely that it would have
-only once occured naturally in recent geological history.  And thus,
-the Bosporus Strait should exhibit evidence of a geological structure
-that has flooded multiple times.  As thin as the Bosporus Isthmus
-would have been, it would be more likely to flood in multiple places
-if it flooded multiple times.  This could be another indication of
-whether the even happened multiple times.
+Strait when it was still an Isthmus. The Romans dug canals that were
+around a hundred miles long. Today the strait is only 17 miles
+long. It averages 65m deep If this was a natural geological feature,
+it should have cyclically flooded and reconnected several times in the
+past million years.  It is not likely that it would have only once
+occured naturally in recent geological history.  And thus, the
+Bosporus Strait should exhibit evidence of a geological structure that
+has flooded multiple times.  As thin as the Bosporus Isthmus would
+have been, it would be more likely to flood in multiple places if it
+flooded multiple times.  This could be another indication of whether
+the even happened multiple times.
 
 Perhaps an earthquake in or around the Bosporus weakened the soil
 there or somehow otherwise opened.
@@ -645,7 +660,6 @@ there or somehow otherwise opened.
 - earthquake in, near bosphorus? the marmara fault runs through it.
   - possible tsunami that weakened the soil there?
   - sea of marmara was landlocked up to 4000 BC
-
 
 One last observation is the presence of an underwater brine river in
 the Black Sea, originating from the Bosporus Strait and flowing into
