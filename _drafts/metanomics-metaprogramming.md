@@ -11,6 +11,27 @@ excerpt: ""
 - is there a good example from the epigenetics class?
 - again, another good example?
 
+- reconstruction of realistic epigenetic marker values from fossils up
+  to 5,000 years old?
+  - it MAY be possible. basically, we'd have to have enough well
+    preserved (ice-frozen or peat-bog preserved) to have a ton of data
+    to sample from, along with a common map for expected values on
+    genes.
+  - so, basically the idea is to compare epigenetic data assumed to be
+    highly erroneous with a methylation epigenome assembled today.
+
+    - if it's possible there's mostly no way it'd work for histone
+      values. i'm not sure if those can be sampled cheaply &
+      non-invasively today
+    - but WHAT IF it's possible for *some* DNA methylation.
+    - it should be possible, especially in context of some epigenomic
+      maps for tissue.
+      - you can compare the methylation epigenome for different tissue
+        types today with the methylation scanned in from various
+        tissue types from some well-preserved sample like the iceman
+      - because we know what the expected range of variation in tissue
+        types is b/w
+
 - some cells modify their own genomes to augment behaviors
   - genomic process for copy & pasted genes
     - is there a genomic mechnanism for preventing bad writes?
