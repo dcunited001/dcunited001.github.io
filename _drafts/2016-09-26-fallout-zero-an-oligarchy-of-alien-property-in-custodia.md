@@ -1476,8 +1476,7 @@ blackmailed! Again, *STAND UP FOR YOUR GODDAMN RIGHTS AND FORGIVE
 OTHERS OF THEIR SINS BECAUSE THEY GETTIN' BLACKMAILED JUST LIKE YOU
 ARE IF YOU HAVE ANY INFLUENCE.*
 
-
-
+### [How Do We Fix the Damage Done By OPM?!](#how-do-we-fix-the-damage-done-by-opm)
 
 OK, well how do we fix this OPM nightmare? We need an Intelligence
 Services reset in America. We need to create a system of five or more
@@ -1526,7 +1525,7 @@ whose tendancy is to over-censor and clear everything to a singular
 meaning are more at risk when information omnipresence hits. They
 will be completely unable to respond.
 
-Sooooo CHINA, for example, is vulnerable for being inflexible at a
+Sooooo China, for example, is vulnerable for being inflexible at a
 time when there is no resource more valuable than informational
 chaos. Womp womp. North Korea, also, is at a disadvantage. Those
 organizations which compel pure unity of action, speech and mind are
@@ -1535,14 +1534,60 @@ This is where it helps to be a philosopher. Also, I never should have
 been tortured. Did I mention that part? Have I talked about
 that. *SHAME ON YOU "AMERICA" !!*
 
+We could never win a ground war with China, by the way. It just
+wouldn't be possible. It'd be lunacy! So, if conflict with China is
+inevitable, over national debt and systematic theft of gold from
+2008-2012 (remember all those gold commercials?) ... if this conflict
+is inevitable, then how do we win?
+
+Welllll China, why don't you come on in and overextend yourself
+logistically. You've been walled off for so long we don't understand
+you as well as we'd like, so we'd like to invite you into America
+firstoff, so we can see how you work. Take your shoes off please, we
+don't want this to get messy. This gives us a chance to study how you
+work and how you expect us to react. This also gives you what you
+wanted for so long, doesn't it? The eventual submission of America.
+
+It's too bad that so many paradigm shifts accompany the evolution of
+technology. There's the above espionage and informational paradigm
+shifts, but there's also an economic paradigm shift. Guess what? Who
+needs import/export when 3D printing & nano imply that anything can be
+assembled on location. That's called a paradigm shift. Protectionism
+makes a comeback. Sorry. I never took more than a week of micro or
+macro economics BUT YOU'LL NEED TO REWRITE THE TEXTBOOKS. Things are
+going to change. There's no helping it. Barring a complete reset for
+humanity, there's nothing you can do to stop it and, with a billion
+people on the planet and polluted resources WE CANNOT AFFORD A RESET.
+
+So, China's strategy correctly anticipated lots of things, but I'm not
+sure that they remember how crucial consumer demand from America and
+Europe were for helping China develop their economy. What form of
+government requires external economic stimulus to survive? Oh, that's
+right: COMMUNISM. Guess who helped funnel consumer demand to China:
+America and Europe. So yes, we're in debt.
+
+Oh and take a look at how China respects international institutions of
+law and intellectual property. Do they?! Nope. They
+don't. Sorry. That's not going to fly with America and Europe. We
+helped establish those international institutions for the good of
+everyone around the globe. You are not just going to flout
+international court decisions with impunity. Say, for example, the
+Hague's decision on dredging islands in the South Sea. Not gonna
+happen. You're not going to do that with impunity. And if you'll flout
+international order on environmental and trademark issues, then when
+China is the only superpower, do we really expect them to adhere to
+international agreements on patent and copyright law? I would not
+fucking bet on that shit. That's a losing bet. Sorry.
+
 <a name="every-single-one-of-our-bases" />
 
 ### [Every Single One of our Bases](#every-single-one-of-our-bases)
 
-Make no mistake: this is not an opportunity. THIS WAS AN ATTACK ON
-AMERICA. *THIS WAS A REAL ATTACK AND PEOPLE DIED BECAUSE OF THIS!*
-There were real consequences those consequences will continue to seep
-into the fabric between American sociopolitical institutions.
+Make no mistake: OPM was not intended to be an opportunity. THIS WAS
+AN ATTACK ON AMERICA. *THIS WAS A REAL ATTACK AND PEOPLE DIED BECAUSE
+OF THIS!* There were real consequences those consequences will
+continue to seep into the fabric between American sociopolitical
+institutions.
 
 How can these Bolo's do this in the Age of the Internet? Because they
 have total control of the communication infrastructure. They have
