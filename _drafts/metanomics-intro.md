@@ -16,9 +16,68 @@ excerpt: ""
   - for an esoteric topic lol
 - find articles & papers for P450 (inducers, stats, etc)
 
+
+
+- metanomic stochastic programming?
+  - actually, stochastic programming is more about optimization and
+    less about an evolving system whose dynamics vary based on state
+    and stochastics
+- [Probability Space](https://en.wikipedia.org/wiki/Probability_space)
+- [Stochastic Process](https://en.wikipedia.org/wiki/Stochastic_process)
+- [Stochastic Programming](https://en.wikipedia.org/wiki/Stochastic_programming)
 note that
 [article](https://www.quantamagazine.org/20160630-how-does-life-come-from-randomness/)
 about self-organizing entropy forming life
+
+# Mechanisms and Supporting Evidence for Spatially-Distributed State
+
+post-translational modifications, protein signaling and protein
+targeting are mechanisms essential for diversity of behavior in
+genetic programs.
+
+- post-translational modifications can act as a rate-limiting factors
+  or a means of conditionally modulating rate of a metanomic product
+  by require the presence of a (something that acts as a catalyst)
+- as genomics is based in a physical system, protein targeting allows
+  for logical management of spatially distributed state by encouraging
+  grouping/sorting of proteins
+  - these signaling peptides allow ribosomal products to be directed
+    to different places in the cell so that the production of genomic
+    products becomes sorted by function. this allows for clean
+    management of state in physical systems, which are usually
+    chaotic.
+
+### Post-Translational Modifications
+
+- [Lysine Acetylation: Codified Crosstalk with Other Posttranslational Modifications](http://www.cell.com/molecular-cell/abstract/S1097-2765(08)00457-7?_returnURL=http%3A%2F%2Flinkinghub.elsevier.com%2Fretrieve%2Fpii%2FS1097276508004577%3Fshowall%3Dtrue)
+  - mention the graphs of signaling pathways in this article, which
+    are usually inferred from accumulated experimental results
+  - one of the inspirations i have with this theory of metanomics (if
+    it's novel) is that, instead of a top-down approach of inferring
+    signaling pathways from experiments,
+    - there might be a bottom-up approach of inferring them from
+      molecular dynamics *or some significantly simplified simulation*
+    - molecular dynamics is depressingly inefficient (i think) because
+      otherwise protein folding should be fairly trivial
+  - there is a spatial component to signaling pathways
+    state transitions for
+
+### Targeting Proteins for intracellular delivery & extracellular secretion
+
+- [Protein Targeting](https://en.wikipedia.org/wiki/Protein_targeting)
+  - [Nuclear Export Signal](https://en.wikipedia.org/wiki/Nuclear_export_signal)
+  - [Nuclear Localization Sequence](https://en.wikipedia.org/wiki/Nuclear_localization_sequence)
+    - [Nuclear and nucleolar localization of Saccharomyces cerevisiae ribosomal proteins S22 and S25](http://onlinelibrary.wiley.com/doi/10.1016/S0014-5793(99)00669-9/full)
+- [Target Peptide](https://en.wikipedia.org/wiki/Target_peptide)
+  - [Examples of targets](https://en.wikipedia.org/wiki/Target_peptide#Examples_of_target_peptides)
+
+
+
+- [paper on targeting proteins for ER](http://www.molbiolcell.org/content/14/3/889.full.pdf+html)
+- [SPdb](http://bmcbioinformatics.biomedcentral.com/articles/10.1186/1471-2105-6-249)
+- [paper for the SPdb](http://download.springer.com/static/pdf/320/art%253A10.1186%252F1471-2105-6-249.pdf?originUrl=http%3A%2F%2Fbmcbioinformatics.biomedcentral.com%2Farticle%2F10.1186%2F1471-2105-6-249&token2=exp=1475585709~acl=%2Fstatic%2Fpdf%2F320%2Fart%25253A10.1186%25252F1471-2105-6-249.pdf*~hmac=e175bdb4a6e4c7b928a58e79e66caf69776aa79a572b9d06d7d306de1e07af38)
+- [Analysis and prediction of leucine-rich nuclear export signals](http://peds.oxfordjournals.org/content/17/6/527)
+
 
 ## Metanomics Intro
 

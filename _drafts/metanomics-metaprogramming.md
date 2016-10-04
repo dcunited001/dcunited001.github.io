@@ -144,6 +144,8 @@ excerpt: ""
     replicated over 800 years
 - but are there other Y chromosome variants from the last 5000 years
   which were more prevalent than Genghis Khans?
+- honestly, this is incredibly immature, but i can't help it
+  sometimes. that factoid about Genghis Khan is hilarious.
 
 ### Some cells modify their own genomes to augment behaviors
 
