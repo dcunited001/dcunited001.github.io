@@ -562,10 +562,26 @@ I mean, "America" ...
 
 # [Ohh, I Have An Idea!](#ohh-i-have-an-idea)
 
-Just invent a pattern language that maps to real current events. Like a
-disease or something. Oh, or Qg'daphie Duck! Yeh, whatever his fucking
-name is. Fuck that guy anyway! How's a major media organization like
-CNN or some shit supposed to keep that straight.
+Just invent a pattern language that maps to real current events. Like
+a disease or something. Oh, or just say Qg'daphie Duck did it! Yeh,
+whatever his fucking name is. Fuck that guy anyway! How's a major
+media organization like CNN or some shit supposed to keep that
+straight. 
+
+- TODO: add a picture of Q'g'daphne Duck, whoever TF that is
+
+- hey it's an arabic name. it's really hard OK?! Elmo says that "Q"
+  words have to have a "U" right after it or you go to jail. do not
+  collect $200 from oscar the grouch.
+    - (it's in the regulations)
+- seriously though, transliteration from arabic to english should be
+  standard for English. there are occasionally differences b/w
+  american english and uk english, but ask anyone at Oxford and Yale
+  who studies arabic and they'll tell you that, for however qaddafi
+  spells his name in arabic, THERE IS ONE ACCEPTABLE TRANSLITERATION.
+  - and the truth his name is Muammar Al-Qaddafi
+  
+  there IS 
 
 <a name="you-should-invent-a-disease-and-a-pattern-language" />
 
@@ -1990,6 +2006,63 @@ the authority in the War on Terror.
 
 - TODO: include info about ICD-9 & ICD-10?
 - TODO: include info about mTBI & blast-induced traumatic brain injury?
+
+
+## Institutional Review Boards
+
+### [BMC Medical Ethics](http://bmcmedethics.biomedcentral.com/articles/10.1186/s12910-016-0138-9)
+
+#### [Research involving adults lacking capacity to consent](http://bmcmedethics.biomedcentral.com/articles/10.1186/s12910-016-0138-9)
+
+i seriously want to cry right now. is this shit real?! and if i'm
+reading this right, then there are some legal loopholes that could
+lead an individual into to a perpetual state of unauthorized medical
+testing without their knowledge... things look fairly similar in the
+US and UK ... uhh WHAT THE !@#$
+
+for example, if you unknowingly yielded power-of-attorney or if you
+were declared a non-citizen, then you could become the perpetual
+subject of testing without your knowledge. one would hope that your
+"district" would have an IRB and labs who were keeping it legit, but
+holy fuck, why is the process abstracted from the person subjected
+to testing?
+
+#### [views about the purpose and composition of research ethics committees](http://bmcmedethics.biomedcentral.com/articles/10.1186/s12910-016-0133-1)
+
+I really, really don't think people are aware of #IRB's. i know
+they've existed for a long time. I only ever heard about them a few
+months ago. this journal's from the UK -- and i'm taking it a bit out
+of context -- but the way these processes are set up and the
+particular studies i'm seeing leads me to believe that all is not what
+it seems.
+
+they are codified through law and mostly **!! regulation !!** it looks
+like there's a whole bunch of process up front, but the impression i
+get is that shady stuff is running out back.  i know that i would
+never authorize medical testing, especially without my ability to
+intervene or -- !@#$ -- at least some mechanism of control.
+
+
+#### [](http://bmcmedethics.biomedcentral.com/articles/10.1186/s12910-016-0098-0)
+
+"Qualitative study on 'custodianship' of 'human biological material'
+and data stored in biobanks."
+
+the last chart is a bit depressing, if you think about it. what kind
+of human biological material are they talking about? why are the
+rights for #HBM limited to just the 'custodian' and the 'applicant' ?!
+what about the "human" to which the material originally belonged?
+
+silly humans, if you want it so bad, i will open source all of my
+biological materials. yes, even the gametes. open source all the
+things. be free, swim team. be free!
+
+seriously, WTF? i always thought that any "medical" "research"
+whatsoever was very tightly controlled. and now i get the impression
+that i have made less than $3,000 while some punk-ass teenager with
+bust of stalin buffed on the daily sits back and cashes checks while
+my body is liquidated and putrefied.  WTF?!!
+
 
 {% highlight "ruby" %}
 //
