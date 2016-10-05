@@ -2008,9 +2008,33 @@ the authority in the War on Terror.
 - TODO: include info about mTBI & blast-induced traumatic brain injury?
 
 
+## Evidence-based Medicine
+
+wtf? isn't all medicine evidence based. this duplicitous language is
+killing me on the insides, literally.
+
+- whats the doc with the class listings of evidence?
+  - class i evidence?
+  - who tf pays these people? how does that help our economy?
+
+[Class I Evidence — After Many Years — Confirms Benefit of Thymectomy for Myasthenia Gravis](http://journals.lww.com/neurotodayonline/Fulltext/2016/09080/Class_I_Evidence___After_Many_Years___Confirms.1.aspx)
+
 ## Institutional Review Boards
 
 ### [BMC Medical Ethics](http://bmcmedethics.biomedcentral.com/articles/10.1186/s12910-016-0138-9)
+
+[Dallas County Community College District](http://www.cedarvalleycollege.edu/uploads/images/ier/irb/irbsop.pdf)
+provides good documentation and insight into the practices of such
+review boards for a district
+
+- IRB applications
+  - http://www.graniteschools.org/researchevaluation/wp-content/uploads/sites/48/2014/08/Research-Application.pdf
+  - http://research.oregonstate.edu/irb/policies-and-guidance-investigators/guidance/research-public-schools
+  - http://www.sjeccd.edu/RIE/Documents/SJECCD%20IRB%20Procedures-%20External%20Requests.pdf
+  - http://www.cobbk12.org/centraloffice/adminrules/I/ICC-R.pdf
+  - https://www.dshs.wa.gov/sites/default/files/SESA/hrrs/documents/History%26ReviewPolicy.pdf
+
+
 
 #### [Research involving adults lacking capacity to consent](http://bmcmedethics.biomedcentral.com/articles/10.1186/s12910-016-0138-9)
 
@@ -2043,7 +2067,7 @@ never authorize medical testing, especially without my ability to
 intervene or -- !@#$ -- at least some mechanism of control.
 
 
-#### [](http://bmcmedethics.biomedcentral.com/articles/10.1186/s12910-016-0098-0)
+#### [Qualitative study on custodianship of human biological material and data stored in biobanks](http://bmcmedethics.biomedcentral.com/articles/10.1186/s12910-016-0098-0)
 
 "Qualitative study on 'custodianship' of 'human biological material'
 and data stored in biobanks."
@@ -2063,6 +2087,19 @@ that i have made less than $3,000 while some punk-ass teenager with
 bust of stalin buffed on the daily sits back and cashes checks while
 my body is liquidated and putrefied.  WTF?!!
 
+#### [The Emergency Research Waiver of Consent Rule: Is It Compatible with Catholic Teaching?](http://ir.stthomas.edu/cgi/viewcontent.cgi?article=1094&context=ustjlpp)
+
+oh ya this is a good one. dis a real good 'un
+
+#### More studies
+
+- http://download.springer.com/static/pdf/466/art%253A10.1186%252Fs12910-016-0111-7.pdf?originUrl=http%3A%2F%2Fbmcmedethics.biomedcentral.com%2Farticle%2F10.1186%2Fs12910-016-0111-7&token2=exp=1475655675~acl=%2Fstatic%2Fpdf%2F466%2Fart%25253A10.1186%25252Fs12910-016-0111-7.pdf*~hmac=503ab690a4945dfb9cf37f6922c62bf9178f7c6b24b8822a1210dbec38484252
+- http://download.springer.com/static/pdf/707/art%253A10.1186%252Fs12910-015-0063-3.pdf?originUrl=http%3A%2F%2Fbmcmedethics.biomedcentral.com%2Farticle%2F10.1186%2Fs12910-015-0063-3&token2=exp=1475655609~acl=%2Fstatic%2Fpdf%2F707%2Fart%25253A10.1186%25252Fs12910-015-0063-3.pdf*~hmac=c7e80319458e173823b73fed9d905801d91613826e0d4e0f8c851c62ca806f3e
+- http://download.springer.com/static/pdf/363/art%253A10.1186%252Fs12916-015-0436-y.pdf?originUrl=http%3A%2F%2Fbmcmedicine.biomedcentral.com%2Farticle%2F10.1186%2Fs12916-015-0436-y&token2=exp=1475655614~acl=%2Fstatic%2Fpdf%2F363%2Fart%25253A10.1186%25252Fs12916-015-0436-y.pdf*~hmac=b872508d3b8d004ecac78d66c4926b48157a9cf6e6bd6ec26b06c57e13754681
+- http://download.springer.com/static/pdf/591/art%253A10.1186%252Fs13063-015-0917-5.pdf?originUrl=http%3A%2F%2Ftrialsjournal.biomedcentral.com%2Farticle%2F10.1186%2Fs13063-015-0917-5&token2=exp=1475655622~acl=%2Fstatic%2Fpdf%2F591%2Fart%25253A10.1186%25252Fs13063-015-0917-5.pdf*~hmac=5af9d4eb7fb75c9bf7879240f0257525e453a854aeb9cbd8f83772e640c8e171
+- http://download.springer.com/static/pdf/323/art%253A10.1186%252Fs12916-015-0437-x.pdf?originUrl=http%3A%2F%2Fbmcmedicine.biomedcentral.com%2Farticle%2F10.1186%2Fs12916-015-0437-x&token2=exp=1475655632~acl=%2Fstatic%2Fpdf%2F323%2Fart%25253A10.1186%25252Fs12916-015-0437-x.pdf*~hmac=5456d6bf724a65efbb7c7c86d059d5cdf30f9a08c75d1c24370074188cedcf15
+- [The Censor's Hand](https://books.google.com/books?id=aNB7CAAAQBAJ&pg=PA213&lpg=PA213&dq=Research+without+Consent:+Exception+from+and+Waiver+of+Informed+Consent+in+Resuscitation+Research&source=bl&ots=J-6HwzAgPu&sig=kbpNHkK1iNlKtQ6YhmUCUzbKcKU&hl=en&sa=X&ved=0ahUKEwj8wveZr8PPAhUBZT4KHd6SCP84FBDoAQg_MAU#v=onepage&q=Research%20without%20Consent%3A%20Exception%20from%20and%20Waiver%20of%20Informed%20Consent%20in%20Resuscitation%20Research&f=false)
+- [COMBAT Research Study](http://www.denverhealth.org/Portals/0/For-Professionals/Trauma-Center/Documents/Research/COMBAT-QA-FINAL.pdf)
 
 {% highlight "ruby" %}
 //
