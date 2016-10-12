@@ -173,6 +173,10 @@ itself is cheap energy, it's not equivalent to cheap energy
 distribution or responsible energy utilization and requires massive
 infrastructure changes.
 
+#### Read, Follow or Get TF Out of the Way... J/K J/K
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/BRKSi6yO2wk" frameborder="0" allowfullscreen></iframe>
+
 # Past, Present and Futures
 
 Time, history and our understanding of past, present and future can be
@@ -217,6 +221,10 @@ contribute in a society that treats people as disposable units.
 > waiting to kick me in the face while I'm down and each one hopes
 > they have the chance to stab me in the back, like I'm some kind of
 > new age Julius Caesar.
+
+#### My life savings are invested in Quarters futures and Penny stocks.
+
+![I do it for the lülz](/img/posts/2016-10-12-cosmic-disruption-of-conflict-theory/all-my-monies.jpg)
 
 I certainly hope that I'm wrong about that, but if not, the world has
 some serious problems because it's beginning to do exactly what I'm
