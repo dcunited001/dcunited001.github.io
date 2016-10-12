@@ -212,11 +212,65 @@ be Eschatology and there's probably a name for this such study.
 # Examples of Systems of Symbols
 
 So when constructing myths, what are examples of systems of signs,
-symbols, etc?
+symbols, etc? Any set of signs common to a culture, nation or region
+can be mapped to multiple meanings. This is true of a signs to a
+varying degree of frequency.
 
 ### Astrology
 
-perhaps the most constant set of `signs` in the semiotic sense
+Perhaps the most constant set of `signs` in the semiotic sense, this
+was the only strata of phenomena which was completely constant to
+pre-historic man. The weather was seasonal and varied. Children were
+born young and died before old age. Previous generations left their
+mark, but it faded fast. Stories and myths could be lost. Even the
+earth changed from time to time, but the stars were the only thing
+that never, ever changed, though it would have been difficult to
+verify to any degree of certainty. The pursuit of understanding the
+inner workings of celestial bodies -- their usefulness in regard to
+navigation and determining geography and eventually in profiting from
+commerce -- doubtlessly inspired measurement, quantification, the
+transmission of knowledge, and its maintainance.  Around the time we
+began to explore more complicated verbal language, how would one
+explain to someone else the constant nature of stars? How would
+someone prove that? How can one prove something in the physical world
+is constant without measuring it? Those questions likely lead us to
+pursue monolithic works and eventually architecture. Anything which
+broke from the constant nature of the stars would have been perceived
+as incredibly important. e.g. planets and supernovae.
+
+Furthermore, as a set of signs, astrology is unique across the world
+.. to a degree. The northern and southern hemispheres experience
+things differently and different stars are visible at different points
+in the year.
+
+The developments of primordial astrology, commerce, agriculture and
+architecture were incredibly important to humanity's development from
+a phenomenological perspective. Each of these represent a paradigm
+shift in humanity's understanding of how we related to the
+world. Astrology represents our ability to make measurements. Commerce
+represents our ability to understand need and desire, to coordinate
+human activity and to intentionally precipitate social hierarchy, and
+to reward innovation. Agriculture represents a paradigm shift in how
+we could live and separated humanity from limiting its food source to
+that provided by nature and thus, eliminated many constraints on our
+suitable geographic environments.  Architecture represents a
+transformation in how humanity relates to our world: we began to see
+the effects or greatness of those who came before us; we developed an
+understanding of legacy and perhaps some kind of dominance over death;
+we understood that we could separate ourselves from the dangers of the
+natural world. After these four elements came the economic need for
+written language and law.
+
+### Math and Science
+
+Another set of fairly or very constant signs are mathematical and
+scientific truths and laws, though these didn't arise quite as early
+as those signs from astrology. These require a priori knowledge to
+have much significance or the capacity for transmission without
+communication. If you learn enough and look often enough, you'll find
+that everything is more than it seems at the surface. What lies
+beneath can be very useful, but is often confusing and more trouble
+than its worth.
 
 ### Architypical Events in Human History
 

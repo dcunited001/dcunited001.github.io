@@ -2,7 +2,7 @@
 title: "Cosmic Disruption of Conflict Theory"
 categories: blog
 tags: "psychology philosophy sociology leadership economics"
-headline: ""
+headline: "Now with 20% more space, lasers and nano!"
 author:
   name: "David Conner"
 excerpt: "
@@ -97,13 +97,13 @@ sow the seeds of further conflict.
 So what have you, in 2050, if you find yourself amoung the former
 population? War, destruction, tragedy and more of the same!
 Furthermore, you now have the shared archetype of technological
-disaster and ruinous war. What fosters and foments conflict more than
-fear? In the context of FDR's quote, we should propagate this
-horrendous vision of a bizarro future, so that our children can
+disaster and ruinous war. What fosters ignorance and foments conflict
+more than fear? In the context of FDR's quote, we should understand
+this horrendous vision of a bizarro future, so that our children can
 leverage it as indemnity and collateral on an investment of
 immeasurable return. Imagine the disposition of the former and latter
 populations: which one is better prepared to handle the future after
-2050? The one with the quasi-deluvian, Noahide archetype of global
+2050? The one with the quasi-diluvian, Noahide archetype of global
 disaster? Or the population who invested in life and infrastructure?
 
 As for this proposed era of peace stemming from the economic
@@ -126,10 +126,81 @@ shaped by the monetization of resources and the distributions of
 benefits whereof, then if humanity should shape its actions today upon
 the certainties of the near future, it may defuse certain tragedy that
 might prevent us from reaching the stars in the first place. There
-aren't many people, old or young, who would disagree with that. It's
-universally true that those who control the past control the future
-via the present. Further, it's also true that those who envision the
-future guide the present and therefore control the past. We should
-motivate ourselves with both positive and negative visions of the
-world, without letting ourselves forget the importance of
-individuality so avoid succumbing to nihilism.
+aren't many people, old or young, who would disagree with
+that. Further still, if your nation is planning on holding out on a
+stockpile of resources to monetize on scarcity between 2020 and 2050,
+you might find yourself surprised when long-held pricing patterns are
+broken for specific natural resources, especially rare-earth and other
+scarce ores. So if you want to adequately monetize those resources,
+you might was to do so now. That doesn't mean it'd be wise to squander
+them now either. And there seem to be many regions that are
+artificially limiting the monetization of such resources.
+
+On a global scale, it may be better if supply is generally increased
+until such a time when importation of space-based resources will
+definitely increase supply and reduce price, albeit in some unknowable
+way. Space-based resources are going to be huge, but it's difficult to
+ascertain exactly how until we can more easily quantify those
+resources. Fusion, whenever it so happens to arrive, will reduce the
+demand for fossil fuels, though not completely. Even though fusion
+itself is cheap energy, it's not equivalent to cheap energy
+distribution or responsible energy utilization and requires massive
+infrastructure changes.
+
+
+
+
+It's universally true that those who control the past control the
+future via the present. Further, it's also true that those who
+envision the future guide the present and therefore control the
+past. We should motivate ourselves with both positive and negative
+visions of the world, without letting ourselves forget the importance
+of individuality so avoid succumbing to nihilism.
+
+In order for a society to reenforce individuality, the individual must
+rewarded. otherwise, we risk succumbing to nihilism and a clockwork
+orange scenario ensues. It's urgent to recognize and preempt this
+philosophical problem in the face of our technological revolution, as
+more societal needs and demands are met by such means whereby the
+individual is completely excluded. It's tragic in itself, but hopeless
+nihilism unrestrained will probably lead to chaotic meaningless
+behavior from actors who refuse to acknowedge their individual
+capacity to contribute in a society that treats people as disposable
+units.
+
+> Basically what i'm saying is that I should probably have a job or at
+> least some money or something. Instead, I have $3.77. To me, that's
+> two coffees. Also, it would appear that there is a line of people
+> waiting to kick me in the face while I'm down and each one hopes
+> they have the chance to stab me in the back, like I'm some kind of
+> new age Julius Caesar.
+
+I certainly hope that I'm wrong about that, but if not, the world has
+some serious problems because it's beginning to do exactly what I'm
+warning about in the preceding paragraph. If so, I'm sorry, but I
+truly do not understand what I did to deserve this and if I'm wrong,
+why should someone who understands psychology, sociology and
+philosophy to the degree that I do and feel that the world treats him
+thusly? That, in itself, is a bit sad. Sorry to whine, but I need
+three things to improve my life situation: (1) Nutrition and medicine
+(2) Intellectual stimulation (3) Abundance and variety of social
+experiences.
+
+If a personal or familial treatment plan disregards my need for a
+little extra understanding while I pick up the pieces yet again, then
+is unreasonable, poorly thought out, IMO poorly assessed and possibly
+malicious. I might also require some extra space for the acquired and
+intentionally exacerbated attachment disorder. This is the fifth time
+in the past six years or so that I've had to do this and please excuse
+me, but I don't know anything else! So in the context of Asperger's,
+please afford me little extra space to be able to experience the
+things required for normal adult development.
+
+If you want to help me, then by all means, do so. If you want to get
+in my way or sow the seeds of conflict or smear my personal and/or
+professional reputation for whatever reason, then please immediately
+get the fuck out of my life. You're a horrible miserable excuse for a
+person because you can't possibly empathize with someone who truly
+wants to help others, as evidenced by the post you just read. GET THE
+!@#$ OUT OF MY LIFE.
+
