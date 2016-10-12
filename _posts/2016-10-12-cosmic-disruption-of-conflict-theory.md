@@ -177,6 +177,8 @@ infrastructure changes.
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/BRKSi6yO2wk" frameborder="0" allowfullscreen></iframe>
 
+#### No, I wasn't actually going for world conquest.
+
 # Past, Present and Futures
 
 Time, history and our understanding of past, present and future can be
@@ -222,7 +224,7 @@ contribute in a society that treats people as disposable units.
 > they have the chance to stab me in the back, like I'm some kind of
 > new age Julius Caesar.
 
-#### My life savings are invested in Quarters futures and Penny stocks.
+#### My life savings are invested in Quarters futures and Penny stocks. I diversified with two T-bonds.
 
 ![I do it for the lülz](/img/posts/2016-10-12-cosmic-disruption-of-conflict-theory/all-my-monies.jpg)
 
