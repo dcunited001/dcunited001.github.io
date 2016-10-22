@@ -12,6 +12,10 @@ excerpt: ""
 - part three covers 4,000 BC through 2,000 BC and then sums up the
   rest
 
+
+There aren't very many people quite yet. *Fuck!* (imperative joke)
+
+
 Lets be real: up to this point, humanity has been sticking to the
 rivers and lakes that it's used to.  But that's all about to change.
 Things are starting to heat up.  Literally.
@@ -23,21 +27,41 @@ historical facts.  It's titled "A Speculative History" for a reason.
 I hope to provide a good story and possibly spark your interest.  If I
 do, follow up with some research yourself.
 
+# [Pre-Historic Written Language](#prehistoric-written-language)
+
+### [Calamity Echoes Through Human Psyche](#calamity-echos-through-human-psyche)
+
+### [Wherefore Sees Rising](#wherefore-sees-rising)
+
+# [Innovate or Die](#innovate-or-die)
+
+### [The Origins of Conflict](#the-origins-of-conflict)
+
+### [Cooperation is Moreso Rewarding](#cooperation-is-moreso-rewarding)
+
+### [Swords to Plowshares](#swords-to-plowshares)
+
+### [Metallurgy ... Or How Hot Can We Make Fire?](#metallurgy-or-how-hot-can-we-make-fire)
+
+### [How Hot Can Ug Make Exothermic Combustion Reaction?](#how-hot-can-ug-make-exothermic-combustion-reaction)
+
+
+
 <a name="prehistoric-written-language" />
 
 # [Pre-Historic Written Language](#prehistoric-written-language)
 
 What I can state with confidence is that the story that we know is not
-the complete truth. There is a lot missing and I think various empires
-added in a lot of content through the ages. It does appear that there
-was no system of writing that emerged before Sumeria. If there was, it
-would show up across the world.  The invention of written language was
-viral because if it's economic implications and it's ability to
-systemitize belief systems. IMO, Vinča and ICV writing samples were
-ideographic proto-writing, which would be formative in establishing
-symbols to link concepts across tribally structured peoples. That is,
-it seems people discovered that they could establish symbols that
-would enable them to communicate across tribal boundaries.
+the complete truth. There is a lot missing and various empires added
+in a lot of content through the ages. It does appear that there was no
+system of writing that emerged before Sumeria. If there was, it would
+show up across the world.  The invention of written language was viral
+because if it's economic implications and it's ability to systemitize
+belief systems. IMO, Vinča and ICV writing samples were ideographic
+proto-writing, which would be formative in establishing symbols to
+link concepts across tribally structured peoples. That is, it seems
+people discovered that they could establish symbols that would enable
+them to communicate across tribal boundaries.
 
 A symbolicized phonetic written language just 14wouldn't seem natural
 for the people of 5,000 B.C or earlier. Written language only becomes
@@ -51,7 +75,7 @@ clay tablets clearly shows the exceptionally high rate of evolution of
 the language from the 4th millenia to the 3rd. This matches what I'd
 expect to see when written language is a novel concept.
 
-However, I am interested to learn more about Harappan and ICV culture
+To me, it's interesting to learn more about Harappan and ICV culture
 because it is clear that we've only scratched the surface. So I'm
 hopeful that we'll have the chance to study more of their
 establishments.
@@ -108,7 +132,7 @@ that knowledge or discern a method to predict when one would happen.
 ### [Wherefore Sees Rising](#wherefore-sees-rising)
 
 However, that's not to say that we didn't understand what was going on
-around us.  I believe that ancient humanity was well aware of rising
+around us.  In my opinion, ancient humanity was well aware of rising
 sea levels, since this is something they'd definitely be able to mark
 and measure over the course of three or so generations.  At times, the
 sea was rising at a rate of 10m every 300-500 years.  That's really
@@ -126,15 +150,27 @@ Boom. Seafare.
 
 # [Innovate or Die](#innovate-or-die)
 
-I really think that this ever-changing world created the conditions
-that required humanity to innovate or perish.  By developing crude
-seafare.  And, as sea levels rose and glaciers extent undulated across
-the continents, microsocieties were locked into various degrees of
-hierarchical isolation for periods of centuries or millinea.  This is
-the perfect means for separating and fermenting various combinations
-of ideas.  There really couldn't be a more well-designed accident as
-the conditions that preceded humanities emergence into cultural
-self-awareness.
+This ever-changing world -- did it create the conditions that required
+humanity to innovate? If not, would humanity have perished? How many
+others came before mankind, just on the cusp of intelligent life? This
+world was changing much faster than ours is today. This is how it's
+always been, but we are certainly accelerating it.
+
+But their world was full of dying glaciers. People in that time must
+have been able to see what was coming. And some of the became cut off
+from previous thoroughways like the Bering Strait or undeniably
+trapped on increasingly small islands. When would these changes stop?
+Would they ever? Would the whole world flood?! If so, how would they
+escape?
+
+By developing crude seafare. By learning to dominate their
+surroundings and environment. And, as sea levels rose and glaciers
+extent undulated across the continents, microsocieties were locked
+into various degrees of hierarchical isolation for periods of
+centuries or millinea. This is the perfect means for separating and
+fermenting various combinations of ideas.  There really couldn't be a
+more well-designed accident as the conditions that preceded humanities
+emergence into cultural self-awareness.
 
 So you see, this transition was destructive and creative at the same
 time, isolating groups of humans and psychologically imprinting us
@@ -232,35 +268,35 @@ give you a nice clean win and therefore, it's also hard to convince
 hundreds of others to go along with you.  This brings me to my next
 point.
 
-### (title)
+<a name="cooperation-is-moreso-rewarding" />
 
-There aren't very many people quite yet. *Fuck!* The world was harsh,
-unforgiving, but bountiful.  Therefore, cooperation was much more
-rewarding than warfare.  You could protect yourself from risk and
-harsh conditions by cooperating.  The benefits reaped from this
-cooperation for mutual benefit far outweighed those a group would
-receive by attacking another group.  And those benefits would be
-negligible - there were no resources worth accumulating.  Therefore,
-there were no resources accumulated.  Most food spoiled, agriculture
-was limited.  There was limited trade, except for leather and
-obsidian.  Beginning with the copper age, people began trading the
+### [Cooperation is Moreso Rewarding](#cooperation-is-moreso-rewarding)
+
+The world was harsh, unforgiving, but bountiful.  Therefore,
+cooperation was much more rewarding than warfare.  You could protect
+yourself from risk and harsh conditions by cooperating.  The benefits
+reaped from this cooperation for mutual benefit far outweighed those a
+group would receive by attacking another group.  And those benefits
+would be negligible - there were no resources worth accumulating.
+    Therefore, there were no resources accumulated.  Most food spoiled,
+agriculture was limited.  There was limited trade, except for leather
+and obsidian.  Beginning with the copper age, people began trading the
 eponymous copper, as it was malleable. But would any of this motivate
 conflict?  Hardly...
 
-Without accumulated resources and especially without money (read: gold
-and copper) there was no significant financial benefit for warfare.
-What are you going to do - murder Abel and take his sticks?  As
-technology proliferates, so do accumulated resources.  As small
-villages crop up, these advertise the location of accumulated
-resources.  Suddenly, the idea of someone having something worth
-taking steps into the forefront.  Meaning, if you were a hunter
-gatherer tribe facing a hard winter with no food in 20000 BC, you
-almost never would have encountered an opportunity to provide for
-yourself by stealing from another tribe.  Because people were
-migratory, with a few exceptions, it would be very difficult to
-determine their location.  When people build towns, they would be
-vulnerable to theft and raids, which may be one factor contributing to
-nomadic societies.
+Without accumulated resources and especially without money, there was
+no significant financial benefit for warfare.  What are you going to
+do -- murder Abel's cousin and take his sticks? As technology
+proliferates, so do accumulated resources.  As small villages crop up,
+these advertise the location of accumulated resources.  Suddenly, the
+idea of someone having something worth taking steps into the
+forefront.  Meaning, if you were a hunter gatherer tribe facing a hard
+winter with no food in 20000 BC, you almost never would have
+encountered an opportunity to provide for yourself by stealing from
+another tribe.  Because people were migratory, with a few exceptions,
+it would be very difficult to determine their location.  When people
+build towns, they would be vulnerable to theft and raids, which may be
+one factor contributing to nomadic societies.
 
 As for an abstracted medium of exchange, the concept of potent
 portables hadn't quite evolved, but increasing commerce would soon
@@ -360,6 +396,10 @@ sure. You never knew when it was going to happen. Like gambling. You
 never know when you'll hit the jackpot, but holy shit. When those
 bells and whistles start going off, you know you got something good.
 
+<a name="how-hot-can-ug-make-exothermic-combustion-reaction" />
+
+### [How Hot Can Ug Make Exothermic Combustion Reaction?](#how-hot-can-ug-make-exothermic-combustion-reaction)
+
 Perhaps more important than finding new things to burn was finding
 something which could burn hotter.  This opened new doors for
 metallurgy.  Some materials became standard candles for measure of
@@ -379,10 +419,12 @@ Because there was a economic incentive in converting raw ore to
 constituent materials, the development of new smelting techniques was
 sought after. They used water to cool rocks, weakening them so they
 could be easily smashed to obtain ore and developed many other
-interesting techniques to process materials.  People who were able to
+interesting techniques to process materials. People who were able to
 mine and process ore accumulated valuable materials for trade. Perhaps
 more valuable than the metals themselves was the financial incentive
-they gave humanity to discover more about our world.
+they gave humanity to discover more about our world. This knowledge
+was valuable. It's some of the first knowledge worth preserving in
+secret ... perhaps.
 
 Materials that burned hotter would be very interesting, perhaps even
 oil.  Though we didn't measure joules or calories, the things which
@@ -429,7 +471,7 @@ alchemic knowledge, nor the ability to know its global scarcity.
 > of it.
 
 The [Naphtha wikipedia entry](https://en.wikipedia.org/wiki/Naphtha)
-mentions some evidence for ancient knowledge of it, including
+mentions *some* evidence for ancient knowledge of it, including
 potential linguistic references, but it's all pretty flimsy.
 
 Mining and metallurgy was also important because they were
@@ -460,53 +502,47 @@ tablets were baked after discovery in 1961 to "preserve" them,
 preventing carbon dating. They easily could have kept samples for
 carbon dating.
 
-<a name="" />
+<a name="the-origin-of-religion" />
 
 # [The Origin of Religion](#the-origin-of-religion)
 
-#### (There is this mystical)
-
-...
-
-that
-there is this mystical ineffable force that pervades every fragment of
-the universe -- While I subscribe to my own beliefs that inform my
-actions and ethical code --
-
-Without widespread, organized religion, there were no other ideological
-causes for warfare at this point in history. Without the cultural
-infrastructure to spread religion or without the need for a
+Without widespread, organized religion, there were no other
+ideological causes for warfare at this point in history. Without the
+cultural infrastructure to spread religion or without the need for a
 specialized class of people who can afford to hang out and tend to
-religious affairs, religion had a tough time gaining a
-foothold. There's no mechanism for organized religion to spread and it
-offers no benefits in the late neolithic, nor was there any cultural
-apparatus to enforce religious beliefs.
+religious affairs, religion had a tough time gaining a foothold.
+There's no mechanism for organized religion to spread and it offers no
+benefits in the late neolithic, nor was there any cultural apparatus
+to enforce religious beliefs.
 
 At this point, religion was mostly limited to tribal belief systems
 that attempted to explain natural phenomena or preserve knowledge
-useful for survival.  Similar to the fluid nature of language
-discussed in part one, religious beliefs were also ephemeral.  That
-is, they came and went.  No one had a concept of a singular, universal
-god.  Instead, they sought to attribute natural phenomena to deities
-in an attempt to understand them.  Gods in ancient times were
-perceived so differently than they are now, that I would say we should
-use a different word to accurately describe the meaning.  They were
-moreso a means of organizing knowledge about the world when there were
-no other abstractions that could be used as touchstones. In contrast,
-in more recent times, we have personified gods and deities. Instead of
-being a lens through which to understand the world, they morphed into
-all-powerful beings who demand our obedience.  And why?  Because it's
-useful as a tool of leadership.
+useful for survival. Ideas become attached to commonly experienced
+phenomena, activities and signs via semiotics. Similar to the fluid
+nature of language discussed in part one, religious beliefs were also
+ephemeral.  That is, they came and went.  No one had a concept of a
+singular, universal god. That concept is something like the eventual
+zenith of religion. Instead, they sought to attribute natural
+phenomena to deities in an attempt to understand them.
+
+Gods in ancient times were perceived so differently than they are now,
+that I would say we should use a different word to accurately describe
+the meaning.  They were moreso a means of organizing knowledge about
+the world when there were no other abstractions that could be used as
+touchstones. In contrast, in more recent times, we have personified
+gods and deities. Instead of being a lens through which to understand
+the world, they morphed into all-powerful beings who demand our
+obedience.  And why?  Because it's useful as a tool of leadership.
 
 It was only when one belief system conferred significant evolutionary
-advantage, that a religion would take off and become widespread.  And
-I mean both cultural and informational evolutionary advantages, but
-not genetic.  This means that the belief system had significant growth
+advantage, that a religion would take off and become widespread. That
+requires both cultural and informational evolutionary advantages, but
+not genetic. This means that the belief system had significant growth
 vectors and more importantly, it offered some benefit to the
 society. There was some significant demonstrative or believable value
 in adhering to this system.
 
-But organized religion quickly enters the picture, as soon as there is
+Organized religion quickly enters the picture, as soon as there is
 enough of a stable, localized economy to warrant further social
 stratification, leaders begin creating belief systems as a means of
 socialization for new generations.  As people witness more and more
@@ -663,8 +699,6 @@ freshwater and seawater regions of the Black Sea.  One study, which
 I'll reference soon, compared deposits of cellular life near the mouth
 of the strait with those found on the seafloor.
 
-
-
 IMO, it'd be very hard for the water to naturally breach the Bosporus
 Strait when it was still an Isthmus. The Romans dug canals that were
 around a hundred miles long. Today the strait is only 17 miles
@@ -804,4 +838,4 @@ sumerian creation myth (1600 BC)
 
 
 development of mythology
-- gilgamesh
+    - gilgamesh
