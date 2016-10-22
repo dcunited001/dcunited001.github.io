@@ -65,7 +65,7 @@ whole, on a regional scale as well as global.
 
 #### With automated censorship, how do we manage the risk for unintended consequences? i.e. How do we minimize users not in violation that are affected & vice versa, when they are not prompted with any indication how/why they are in violation & there's no human element in the mix?
 
-# 21st Century Ethical Paradox
+# [21st Century Ethical Paradox](#21st-century-ethical-paradox)
 
 > Utilizing the internet's free access to the sum of information on
 > planet Earth implicitly allows service providers to index your mind,
@@ -156,9 +156,8 @@ paragraph)
 
 #### [ICN]()
 
-ultimately constructing a
-profile that can be used to psycholanalyze you, stalk you, blackmail
-you.
+ultimately constructing a profile that can be used to psycholanalyze
+you, stalk you, blackmail you.
 
 This is unavoidable via the accumulation, analysis, & shared records
 of your online behavior. In fact, hacked database tables from web
@@ -581,7 +580,14 @@ not be born in those conditions because it could not possibly be.
 
 categories of reasons & benefits/drawbacks of censorship
 
-# Censorship's Effect on Cultural Development
+
+
+TODO: split into a part 3 UGHHHHHHH
+
+
+<a name="censorships-effect-on-cultural-development" />
+
+# [Censorship's Effect on Cultural Development](#censorships-effect-on-cultural-development)
 
 What effect does censorship have on development of society, culture,
 technology and discourse? This can be demonstrated with many examples
@@ -615,15 +621,17 @@ transmission of information cannot be impeded, which is why, if there
 were to be a total collapse, it would occur now. As in right now. As
 in within the next few years. A decade at the most.
 
-### Thermopylae, Marathon and Kublai Khan
+<a name="thermopylae-marathon-and-kublai-khan" />
 
-How does cheap and free transmission affect us? How does it lead to
-progress? The power of a simple message unimpeded can change the
-course of civilizations. At Thermopolae, the brave acts of hundreds of
-Spartans struck fear into the heart of Persians and funneled vigor
-into the hearts of Greeks to rise up and resist the oncoming hordes.
-Would this envigorating effect have been possible if not for the
-story? What if it couldn't be told?
+### [Thermopylae, Marathon and Kublai Khan](#thermopylae-marathon-and-kublai-khan)
+
+What's the value of a message? How does cheap and free transmission
+affect us? How does it lead to progress? The power of a simple message
+unimpeded can change the course of civilizations. At Thermopolae, the
+brave acts of hundreds of Spartans struck fear into the heart of
+Persians and funneled vigor into the hearts of Greeks to rise up and
+resist the oncoming hordes.  Would this envigorating effect have been
+possible if not for the story? What if it couldn't be told?
 
 What about the Battle of Marathon?! Greeks defeated the Persians and
 news of this victory was so critical that Pheidippides ran over twenty
@@ -640,7 +648,9 @@ right information and the Mongol navy, mostly docked on the coast of
 Japan didn't. This may have been pure luck. It's certainly not widely
 known as anything else.
 
-### Who Loves Hip Hop?
+<a name="who-loves-hip-hop" />
+
+### [Who Loves Hip Hop?](#who-loves-hip-hop)
 
 *I do*. Hip Hop is a modern example of how the dissemination of
 information changed the lives of millions of people living in mostly
@@ -694,7 +704,7 @@ person would let specific practices continue if they really understood
 the effects? No. So if you can share information, you can put a stop
 to things!
 
-### What Created the Black Lives Matter Movement?
+### [What Created the Black Lives Matter Movement?](#what-created-the-black-lives-matter-movement)
 
 #### Digital Publication of Local Government Data
 
@@ -732,7 +742,7 @@ AMERICA*.  These algorithms are difficult to design, tweak and
 validate in the first place, but there are major problems here, as far
 as I can see.
 
-### Censorship on Expression: Flag Burning
+### [Censorship on Expression: Flag Burning](#censorship-on-expression-flag-burning)
 
 What do flag burning laws and citations give us as citizens? When we
 trade freedom for that particular expression, how does that effect
@@ -807,7 +817,11 @@ allowing this speech is a good way for private citizens to engage with
 people who self-identify as disrespectfully anti-American.
 
 
-# What Is *The Prophecy?*
+
+
+# [What Is *The Prophecy?*](#what-is-the-prophecy)
+
+TODO: rename this?
 
 Tight control over communication media and content stifles social
 change before it has a chance to grow. These policies are usually
@@ -817,7 +831,9 @@ cultural developments to take root and grow large enough to challenge
 those of the status quo. The next blues, rock or hiphop might simply
 never happen.
 
-### Networks Without Limitation Reality to Converge Towards the Metaphysical
+#### Given Network Growth Without Limitation
+
+### [Reality Converges Towards the Metaphysical](#reality-converges-towards-the-metaphysical)
 
 This starkly departs from some of my previous statements on
 culture. Basically, as communication infrastructure encourages the
@@ -853,7 +869,7 @@ metaphysical values such as uncertainty in science experiements or
 depth measurements or values tied to physical reality pulled into the
 metaphysical realm.
 
-### Ideas Acquire Life of Their Own
+### [Then, Ideas Acquire Life of Their Own](#then-ideas-acquire-a-life-of-their-own)
 
 Ideas begin to take a life of their own and their effects reach into
 reality at an ever-increasing pace. They acquire a life of their
@@ -865,7 +881,7 @@ pay more attention to them. Therefore, the surveillance and
 epidemiology of memes should be measured, quantified, analyzed,
 predicted and carefully controlled.
 
-### A Reevaluation of Life, Culture and Society in the Information Age
+### [Reevaluation of Life, Culture and Society in the Information Age](#reevaluation-of-life-culture-and-society-in-the-information-age)
 
 This was and is *"the prophecy"*, or at least part of it as a was in
 mid-May 2013... It's not so much of a religious thing as it is a
@@ -892,7 +908,7 @@ feared this since high school, at least. I could only predict and
 analyze NSA capabilities because of the effort I put into thinking
 about what they could do.
 
-### Our Rights Are Sacred and They Descend From God
+### [Our Rights Are Sacred and They Descend From God](#our-rights-are-sacred-and-they-descend-from-god)
 
 Our rights are sacred. They descend from God. They do not come from
 man. Man cannot give us our rights and man cannot take them away. Our
