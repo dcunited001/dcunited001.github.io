@@ -646,7 +646,8 @@ flood and to warfare.  The power to control history by dismantling
 other cultures or ideas would already be well experienced in various
 levels of society.
 
-- minor seismic events may have preceded previous events by weeks or months, if the flooding was glacial
+- minor seismic events may have preceded previous events by weeks or
+  months, if the flooding was glacial
 
 ### Doggerland
 
