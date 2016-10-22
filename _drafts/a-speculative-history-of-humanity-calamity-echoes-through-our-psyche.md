@@ -1,5 +1,5 @@
 ---
-title: "Speculative History: Calamity Echoes Through Human Psyche"
+title: "A Speculative History Of Humanity: Calamity Echoes Through Our Psyche"
 categories: blog
 tags: "anthropology"
 headline: ""
