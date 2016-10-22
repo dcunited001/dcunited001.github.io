@@ -10,6 +10,10 @@ excerpt: "
 "
 ---
 
+> "Because love grows by works of love, man thereby becomes
+> better. Man does not, however, become better by means of indulgences
+> but is merely freed from penalties." Martin Luther, Thesis 44
+
 This article is way too long. This is part three in a series of
 rambling topics that should have been a dozen different pieces. I'm
 real sorry about that, but it still contains the same quantity of gold
@@ -2099,7 +2103,6 @@ oh ya this is a good one. dis a real good 'un
 - http://download.springer.com/static/pdf/591/art%253A10.1186%252Fs13063-015-0917-5.pdf?originUrl=http%3A%2F%2Ftrialsjournal.biomedcentral.com%2Farticle%2F10.1186%2Fs13063-015-0917-5&token2=exp=1475655622~acl=%2Fstatic%2Fpdf%2F591%2Fart%25253A10.1186%25252Fs13063-015-0917-5.pdf*~hmac=5af9d4eb7fb75c9bf7879240f0257525e453a854aeb9cbd8f83772e640c8e171
 - http://download.springer.com/static/pdf/323/art%253A10.1186%252Fs12916-015-0437-x.pdf?originUrl=http%3A%2F%2Fbmcmedicine.biomedcentral.com%2Farticle%2F10.1186%2Fs12916-015-0437-x&token2=exp=1475655632~acl=%2Fstatic%2Fpdf%2F323%2Fart%25253A10.1186%25252Fs12916-015-0437-x.pdf*~hmac=5456d6bf724a65efbb7c7c86d059d5cdf30f9a08c75d1c24370074188cedcf15
 - [The Censor's Hand](https://books.google.com/books?id=aNB7CAAAQBAJ&pg=PA213&lpg=PA213&dq=Research+without+Consent:+Exception+from+and+Waiver+of+Informed+Consent+in+Resuscitation+Research&source=bl&ots=J-6HwzAgPu&sig=kbpNHkK1iNlKtQ6YhmUCUzbKcKU&hl=en&sa=X&ved=0ahUKEwj8wveZr8PPAhUBZT4KHd6SCP84FBDoAQg_MAU#v=onepage&q=Research%20without%20Consent%3A%20Exception%20from%20and%20Waiver%20of%20Informed%20Consent%20in%20Resuscitation%20Research&f=false)
-- [COMBAT Research Study](http://www.denverhealth.org/Portals/0/For-Professionals/Trauma-Center/Documents/Research/COMBAT-QA-FINAL.pdf)
 
 {% highlight "ruby" %}
 //

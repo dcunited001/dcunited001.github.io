@@ -244,6 +244,13 @@ back to harappa
 - proto-anthropology
   -
 
+
+In fact, a recently discovered
+[underwater site in Florida](http://phys.org/news/2016-05-evidence-humans-southeastern-earlier-previously.html)
+shows that pre-Clovis peoples certainly inhabited the Americas more
+than 14,500 years ago. This begs the question: did people of that time
+have access to seafaring technology?
+
 ### links
 
 https://en.wikipedia.org/wiki/Etana

@@ -12,7 +12,7 @@ excerpt: ""
 - part three covers 4,000 BC through 2,000 BC and then sums up the
   rest
 
-Lets be real, up to this point, humanity has been sticking to the
+Lets be real: up to this point, humanity has been sticking to the
 rivers and lakes that it's used to.  But that's all about to change.
 Things are starting to heat up.  Literally.
 
@@ -52,13 +52,13 @@ the language from the 4th millenia to the 3rd. This matches what I'd
 expect to see when written language is a novel concept.
 
 However, I am interested to learn more about Harappan and ICV culture
-because it is clear that we've only scratched the surface.  So I'm
+because it is clear that we've only scratched the surface. So I'm
 hopeful that we'll have the chance to study more of their
 establishments.
 
-<a name="" />
+<a name="calamity-echos-through-human-psyche" />
 
-# Calamity Echoes Through Human Psyche
+### [Calamity Echoes Through Human Psyche](#calamity-echos-through-human-psyche)
 
 The Neolithic was fraught with changing weather patterns and
 disaster. This continued through the late Neolithic, up through the
@@ -82,7 +82,7 @@ population, as do many other factors, such as regularly scheduled
 catastrophic flooding.
 
 Lack of settlement means trade is sporadic at best and both of these
-factors contribute to stifled cultural development.  Trade might be
+factors contribute to stifled cultural development. Trade might be
 the single most important factor incentivizing development of abstract
 written communication, so that's right out too.  When you trade, you
 have to count things, write them down and persist that information.
@@ -103,9 +103,9 @@ through myth.  It was difficult to understand the mechanism causing
 flooding and if some group did, then it was difficult to propagate
 that knowledge or discern a method to predict when one would happen.
 
-<a name="" />
+<a name="wherefore-sees-rising" />
 
-# (Innovate or Die?)
+### [Wherefore Sees Rising](#wherefore-sees-rising)
 
 However, that's not to say that we didn't understand what was going on
 around us.  I believe that ancient humanity was well aware of rising
@@ -122,15 +122,9 @@ fast, for some areas.  People would notice --
 
 Boom. Seafare.
 
-In fact, a recently discovered
-[underwater site in Florida](http://phys.org/news/2016-05-evidence-humans-southeastern-earlier-previously.html)
-shows that pre-Clovis peoples certainly inhabited the Americas more
-than 14,500 years ago. This begs the question: did people of that time
-have access to seafaring technology?
+<a name="innovate-or-die" />
 
-<a name="" />
-
-# Innovate or Die
+# [Innovate or Die](#innovate-or-die)
 
 I really think that this ever-changing world created the conditions
 that required humanity to innovate or perish.  By developing crude
@@ -152,14 +146,14 @@ intriguing for self-discovery, but now it was important for survival.
 
 We developed archeoastronomy, utilizing monoliths and smaller markers
 to measure the motion of the stars, perhaps the only thing that ever
-remained unquestionably constant..  As people had been migrating
+remained unquestionably constant... As people had been migrating
 throughout the ice age, the stars should have been well known for
-navigation.  This would only become more systematized. Through the
-Copper Age, it became apparent that understanding these phenomena
-granted power and influence over others.  At some point, we reached a
-critical mass of understanding, when cultural artifacts became more
-valuable and useful for survival than anything tangible could be, in
-itself.
+navigation. Yeh, it's kinda like Google Maps, but for caves. This
+would only become more systematized. Through the Copper Age, it became
+apparent that understanding these phenomena granted power and
+influence over others.  At some point, we reached a critical mass of
+understanding, when cultural artifacts became more valuable and useful
+for survival than anything tangible could be, in itself.
 
 This dynamic, deadly world of the Late Neolithic and Copper Age
 provided us with the impetus for humanity to culturally innovate.  We
@@ -178,7 +172,7 @@ ideas. For the intelligent, commerce also provided motivation to
 discover geography to locate the fastest and most trodden routes.
 Trade quickly drove us to abstract the notion of value into money to
 further accelerate commerce.  This was tightly related to metallurgy.
-What else could be so valuable to anyone except Gold or Copper:
+What else could be so valuable to anyone except gold or copper:
 materials which should be equally useful to anyone with a hammer.
 
 > It's shiny? I can bang it with a rock, loudly, till I get what ever
@@ -192,9 +186,9 @@ or will, even beyond death.  Systematized forms of writing beyond art
 were not developed until the end of Copper Age or the beginning of the
 Bronze Age.
 
-<a name="" />
+<a name="the-origins-of-conflict" />
 
-### The Origins of Conflict
+### [The Origins of Conflict](#the-origins-of-conflict)
 
 Human conflict doesn't seem common until the mid copper age, at least
 not on a scale pitting one society against another in an organized
@@ -206,9 +200,9 @@ small scale may have been somewhat common in the neolithic, as this
 discusses a 10,000 BP dig finding violence leaving dozens dead.
 Hardly warfare, IMO.
 
-First off, think about warfare in the late neolithic.  It's hard.
-Yeh, you've got arrows, but the range is only a hundred yards, maybe.
-That doesn't give you much of an advantage in time before the
+First off, think about warfare in the late neolithic. It's hard.  Yeh,
+you've got arrows, maybe ... but the range is only a hundred yards at
+best.  That doesn't give you much of an advantage in time before the
 otherside reaches you and then, the best weapons are spears and rocks.
 Also, not great weapons. I mean, if you want to disable someone with a
 spear, you've got to hit the guy a couple times and what if he just
@@ -223,13 +217,14 @@ rock?  Can you imagine how grotesque that would be?  If you have to
 kill someone with a gun, it's not very hard.  You can sort of look the
 other way and squeeze real hard and it's over.  You've done it, one
 quick action and you've completed your mistake and you can get on with
-guilt and whatnot.  But a rock?  You've just got to keep bashing and
-bashing and it's really just a more emotional experience.  And you
-can't convince dozens of people to fight each other with rocks.  Just
-not going to happen.
+guilt and whatnot. But a rock? You really gotta loathe somebody to do
+that. Cain't do much with just a rock. You've just got to keep bashing
+and bashing and it's really just a raw visceral emotional experience.
+It's gonna scar your psyche a bit. And you can't convince dozens of
+people to fight each other with rocks. Just not going to happen.
 
-So you see.  Warfare's just not a good idea right now.  It's hard to
-kill people.  And like other things at this point, people just aren't
+So you see. Warfare's just not a good idea right now. It's hard to
+kill people. And like other things at this point, people just aren't
 very good at it yet.  There's no armor or anything and there's no
 guarantee that you won't get killed yourself.  It's really a coin
 toss.  There's no reassuring feeling that your technology is going
@@ -237,7 +232,9 @@ give you a nice clean win and therefore, it's also hard to convince
 hundreds of others to go along with you.  This brings me to my next
 point.
 
-There aren't very many people at this point.  The world was harsh,
+### (title)
+
+There aren't very many people quite yet. *Fuck!* The world was harsh,
 unforgiving, but bountiful.  Therefore, cooperation was much more
 rewarding than warfare.  You could protect yourself from risk and
 harsh conditions by cooperating.  The benefits reaped from this
@@ -247,8 +244,8 @@ negligible - there were no resources worth accumulating.  Therefore,
 there were no resources accumulated.  Most food spoiled, agriculture
 was limited.  There was limited trade, except for leather and
 obsidian.  Beginning with the copper age, people began trading the
-eponymous copper, as it was malleable.  But would any of this motivate
-conflict?  Hardly.
+eponymous copper, as it was malleable. But would any of this motivate
+conflict?  Hardly...
 
 Without accumulated resources and especially without money (read: gold
 and copper) there was no significant financial benefit for warfare.
@@ -265,18 +262,24 @@ determine their location.  When people build towns, they would be
 vulnerable to theft and raids, which may be one factor contributing to
 nomadic societies.
 
-When I say money, at this point, I mean gold and copper.  Silver
-wasn't really a thing, as it had to be separated from lead.  Lead
-would be moderately useful, but needs to be headed to about 300&#176;C
-to separate it from it's constituent materials, commonly including
-silver.  Gold was exceedingly rare throughout the world, but copper
-deposits can be found all through out Anatolia and it's surrounding
-regions. Tin was very rare and European deposits were mostly located
-in Spain, preventing the discovery of bronze.
+As for an abstracted medium of exchange, the concept of potent
+portables hadn't quite evolved, but increasing commerce would soon
+demand a more lightweight store of value. Silver wasn't really a
+thing, as it had to be separated from lead. Lead would be moderately
+useful, but needs to be heated to about 300&#176;C to separate it from
+it's constituent materials, commonly including silver. Gold was
+exceedingly rare throughout the world, but copper deposits can be
+found all through out Anatolia and it's surrounding regions. Tin was
+very rare and European deposits were mostly located in Spain,
+preventing the discovery of bronze.
 
-> Swords to plowshares. Far from the intended meaning of the phrase,
-> it implies the double-edged nature of technology: the same
-> tech can be used for good or evil.
+<a name="swords-to-plowshares" />
+
+### [Swords to Plowshares](#swords-to-plowshares)
+
+It's not the intended meaning of the phrase, but 'swords to
+plowshares' implies the double-edged nature of technology: the same
+tech can be used for good or evil.
 
 Metallurgy means people can make more efficient weapons and
 agricultural tools. However, it is doubtful that, at least in the
@@ -292,11 +295,11 @@ needed it.
 Without accumulated resources, controlled trade and money, there is
 are no taxes either. Without taxes, there's no dedicated government of
 any respectable size.  With no taxes and no government, it's really
-hard to systematically coordinate people's lives.  And organizing a
-large population to start war?  Forget about it.  When hundreds of
+hard to systematically coordinate people's lives. And organizing a
+large population to start war? Forget about it. When hundreds of
 people start colocating in small towns, it's much easier to convince
 people to pay taxes and to find prospective soldiers for defense or
-war.  But without taxes, you're not going to convince anybody to risk
+war. But without taxes, you're not going to convince anybody to risk
 their life in your war, outside perhaps minor skirmishes over
 resources.  What's in it for them? Without societies of significant
 size, there's no abstraction or specialization of tasks.  War of any
@@ -304,30 +307,30 @@ scale means a significant portion of men leaving the fields.  This is
 a huge problem for societies with low population.
 
 And to sum up, I'm sure there was localized conflict up to 6,000 BC.
-But for the most part, it wasn't organized beyond perhaps a few dozen
-people.  The reason is just that the causes of human conflict aren't
-there yet.  There's no benefit to war and people just aren't capable
-of doing it without significant risk of mortal injury.  There is no
-resource over-consumption to drive conflict and population is
-constrained.
+But for the most part, it wasn't organized beyond perhaps a few dozens
+or hundreds people. The reason is just that the causes of human
+conflict aren't there yet.There's no benefit to war and people just
+aren't capable of doing it without significant risk of mortal injury.
+There is no resource over-consumption to drive conflict and population
+is constrained.
 
-<a name="" />
+<a name="metallurgy-or-how-hot-can-we-make-fire" />
 
-# Metallurgy or How Hot Can We Make Fire?
+### [Metallurgy ... Or How Hot Can We Make Fire?](#metallurgy-or-how-hot-can-we-make-fire)
 
 As I've already stated, metallurgy is perhaps the most important
-development for mankind, outside of written language.  It's important,
+development for mankind, outside of written language. It's important,
 as the availability of metals is perhaps the single most limiting
 factor for the proliferation of technology. Copper and Bronze Age
 civilizations grew and fell based on the geographic distribution of
-metal.  And so, here you can see the hands of fate.  These seemingly
+metal. And so, here you can see the hands of fate: these seemingly
 arbitrary factors that determine the course of history.
 
 More than just providing stabby things and protecting oneself from
 said stabby things, metal furthers the sense of self, as it provides a
-medium for the development of art with permanence.  Up to this point,
+medium for the development of art with permanence. Up to this point,
 humanity's been limited to carvings, which deteriorate fast, or
-painting with blood and pigments.  But metal, that lasts for
+painting with blood and pigments. But metal, that lasts for
 generations.  And copper is malleable.  It allows us to create art, to
 express and communicate ideas to others.  And because metal lasts,
 these ideas can be transferred between generations.
@@ -344,12 +347,18 @@ these ideas can be transferred between generations.
 
 Once people discovered that metal could melt through the application
 of heat, they probably tried burning lots of things.  As villages
-became bigger and trade routes extended further, people's interest in
-burning things remained steadfast.  They wanted to burn more things,
-exotic things they'd never seen before were best.
+became bigger and trade routes extended further, one thing remained
+constant: people's interest in burning things remained steadfast.
+They wanted to burn more things, exotic things they'd never seen
+before were best.
 
 > What would happen if we burned this new green rock?  Would that
-> melt?  Hopefully it didn't explode.
+> melt?
+
+Hopefully it didn't explode. That was always really cool though, for
+sure. You never knew when it was going to happen. Like gambling. You
+never know when you'll hit the jackpot, but holy shit. When those
+bells and whistles start going off, you know you got something good.
 
 Perhaps more important than finding new things to burn was finding
 something which could burn hotter.  This opened new doors for
@@ -357,15 +366,16 @@ metallurgy.  Some materials became standard candles for measure of
 heat and primarily: galena and copper. Galena contains silver and
 lead. It must be heated to ~300&#176;C to be separated.  Copper ores
 must be heated to around ~1100&#176;C to separate, but fortunately
-copper could be found on its own.  Materials like these who's melting
-points were commonly known were incredibly useful for identifying new
-techniques for burning things even hotter.  Of course, the melting
-points were not known, as there was no standardized means of measuring
-temperature.  However, it was known that one thing would consistently
-melt before another and that melting some materials required specific
-techniques.
+copper could be found on its own.  Materials like these, who's melting
+points became commonly known were incredibly useful for identifying
+new techniques for burning things even hotter.  Of course, the melting
+points were not known precisely, as there was no standardized means of
+measuring temperature.  However, it could be ascertained -- by
+trudging through bouts of pyromania and the occasional accidental cave
+arson -- that one thing would consistently melt before another and
+that melting some materials required specific techniques.
 
-Because there was a financial incentive in converting raw ore to
+Because there was a economic incentive in converting raw ore to
 constituent materials, the development of new smelting techniques was
 sought after. They used water to cool rocks, weakening them so they
 could be easily smashed to obtain ore and developed many other
@@ -374,30 +384,40 @@ mine and process ore accumulated valuable materials for trade. Perhaps
 more valuable than the metals themselves was the financial incentive
 they gave humanity to discover more about our world.
 
-Materials that burned hotter would be very interesting, especially
-oil.  While we would not understand the specific natural laws that
-determined chemical properties, some of us would understand that
-energy was naturally contained in various materials to varying
-degrees.  We would observe that different kinds of woods burned hotter
-and that fire burned hotter with increased airflow or when the air was
-concentrated and contained.  Therefore, similarly to ordering
-materials by their melting point, we would also similarly assess
-combustible materials by their energy density, without knowing what
-that concept is scientifically.
+Materials that burned hotter would be very interesting, perhaps even
+oil.  Though we didn't measure joules or calories, the things which
+produced heat seemed special. Why couldn't everything do that? While
+we would not understand the specific natural laws that determined
+chemical properties, some of us would understand that energy was
+naturally contained in various materials to varying degrees.  We would
+observe that different kinds of woods burned hotter and that fire
+burned hotter with increased airflow or when the air was concentrated
+and the heat contained.  Therefore, similarly to ordering materials by
+their melting point, we would also similarly assess combustible
+materials by their energy density, without knowing what that concept
+is scientifically.
+
+###
 
 And if cultures came into contact with significant amounts of oil,
 they would certainly recognize both its energy density and value.  Far
 and beyond most other natural materials, oil has an abundance of
 energy.  Unlike some other natural materials with high energy density,
-it is fairly accessible.  However, it's use would have been greatly
-restricted by availability and discoverability.  We just wouldn't be
-able to consistently find it.  Therefore, provided that both its
+it is fairly accessible.  If there was methane present from natural
+distillation, then the occasional explosion would make for a good
+campfire story. Remember that time Ugg exploded for no fucking reason?
+
+However, crude oil's use would have been greatly restricted by
+availability and discoverability. It *may have been* be fairly easy
+for alchemists from the middle ages to distill it into a few different
+forms, but industrial engineering is not my forté. We just wouldn't be
+able to consistently find it. Therefore, provided that both its
 scarcity and uniquely high energy density were knowable, I conclude
 that ancient alchemists would have considered it to be extremely
-valuable and chemically similar to other natural oils. If we did
-realize its value, we wouldn't have done so until the first or second
-millenia BC because we wouldn't have the alchemic knowledge, nor the
-ability to know it's global scarcity.
+valuable and chemically similar to other natural oils. YEH IT'S QUITE
+A STRETCH LOL. If we did realize its value, we wouldn't have done so
+until the first or second millenia BC because we wouldn't have the
+alchemic knowledge, nor the ability to know its global scarcity.
 
 > Oh, that oil stuff?  Yeh, we have a ton of it. What do you mean
 > you've never seen it before? The stuff burns hotter than anything
@@ -407,6 +427,10 @@ ability to know it's global scarcity.
 > never seen it before though? That shit burns in water! No, I'm not
 > lying. Yeh, in water, you know, the splashy stuff. Yeh, we got a ton
 > of it.
+
+The [Naphtha wikipedia entry](https://en.wikipedia.org/wiki/Naphtha)
+mentions some evidence for ancient knowledge of it, including
+potential linguistic references, but it's all pretty flimsy.
 
 Mining and metallurgy was also important because they were
 remunerative activities that required further development of
@@ -438,7 +462,7 @@ carbon dating.
 
 <a name="" />
 
-# [The Origin of Religion]()
+# [The Origin of Religion](#the-origin-of-religion)
 
 #### (There is this mystical)
 
@@ -538,9 +562,9 @@ nature, the more we were allured by the promise of completely escaping
 its harsh reality.  Yet, the more complicated our societies became,
 the more disparate the conditions were for various social strata.
 
-<a name="" />
+<a name="the-deluges" />
 
-### [The Deluge(s)]()
+### [The Deluge(s)](#the-deluges)
 
 Almost every culture has a story about a catastrophic flood that
 nearly destroyed humanity. Many of these also feature a Noah figure,

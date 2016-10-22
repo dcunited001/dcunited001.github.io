@@ -79,6 +79,22 @@ the opportunity, using it as an excuse to gain power.
 Centralizing and utilizing educational resources to accelerate K12
 education, while maintaining the ability to experiment
 
+
+### a few ideas from Prince Ea's video on Einstein's near fate as a fish
+
+how to encourage the flexibility/accessibility for:
+
+- curriculum (annual & long-term)
+- structure (organiziational & building)
+- format
+- an accurate vision of the workforce and economy 10-20 years from now
+  - which is a moving target
+- school choice
+- student in
+
+use Washington DC and a handful of others as cities geared for
+experimentation with education
+
 ### FB Comments on Diversity of Education
 
 IMO the lack of religion in this country has resulted in general
@@ -113,6 +129,32 @@ neighborhood early on. It sounds like a completely separate issue, but
 this may be a long term tactic for breaking the cycle of poverty and
 offering new options for parents who'd love nothing more than to help
 their children grow up without fearing specific influences.
+
+======
+
+## Social Security
+
+- raise the retirement age?
+  - makes sense because greater average age of americans
+  - tough sell bc who the hell wants a higher retirement age
+  - but, all in all, a year or two higher could make a big difference
+    in the cost of these programs.
+
+======
+
+## Minimum Wage
+
+- one flat minimum wage doesn't really make sense for the economy
+  - there should be a simple graded minimum wage
+    - this would enable small businesses to be more flexible and would
+      raise the minimum wage for those who are actually reliant on
+      such jobs to be more capable of paying bills
+    - it should be graded (in a very simple way) on industry and age
+- but is this fair, according to federal discrimination policies?
+
+- < 18
+- < 25
+- < 40
 
 ======
 

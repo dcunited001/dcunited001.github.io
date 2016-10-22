@@ -79,6 +79,41 @@ genetic programs.
 - [Analysis and prediction of leucine-rich nuclear export signals](http://peds.oxfordjournals.org/content/17/6/527)
 
 
+> Anaesthetically pleasing....
+
+
+
+
+
+### Probabilistic Programming
+
+[Posner Lecture: Probabilistic Machine Learning]
+
+- bayesian nonparametrics
+- probabilistic programming
+- bayesian optimization
+- probabilistic models for efficient data compression
+- the automatic statistician
+- rational allocation of computational resouces
+
+#### Bayesian Nonparametrics
+
+problem: we need flexible and realistic probabilistic modeles
+
+soluton: define infinite-dimensional probabilistic models using tools
+from stocahsic processes.
+
+examples: guassian processos, Dirichlet processes, infinite hidden
+markov models, chinese resaurant & indian buffet
+
+
+there are parametric & nonparametric forms of these problems:
+
+- guassian processos,
+- Dirichlet processes,
+- infinite hidden markov models,
+
+
 ## Metanomics Intro
 
 intro

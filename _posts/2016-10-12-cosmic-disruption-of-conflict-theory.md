@@ -16,7 +16,9 @@ for war were themselves scarce?"
 
 This is a solution to the problems posed by conflict theory and Karl
 Marx. It's actually my second post conclusively disproving Marx ... in
-a month! "That's pretty, Good! HAHA...."
+a month!
+
+> "That's pretty, Good! HAHA...." .... SMDH
 
 Human conflict is truly bourne from competition over resources. It is
 sometimes driven by ideological means, but when you dig deep enough,
