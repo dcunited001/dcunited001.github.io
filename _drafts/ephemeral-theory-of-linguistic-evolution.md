@@ -1,8 +1,8 @@
 ---
-title: "A Speculative History of 5,000 B.C. (Part Two)"
+title: "Ephemeral Theory of Linguistic Evolution"
 categories: blog
-tags: "anthropology"
-headline: "Calamity Echoes Through Human Psyche"
+tags: ""
+headline: "Like Snapchat (but for Language)"
 author:
   name: "David Conner"
 excerpt: ""
