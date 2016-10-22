@@ -11,6 +11,7 @@ excerpt: "Birth. Death. Sickness. Love. Fear. Friendship. Water. Light. Food.
   the web of individual psyche is weaved."
 redirect_from:
   - /posts/2016-02-03-a-speculative-history-of-five-thousand-bc
+  - /posts/2016-02-03-a-speculative-history-of-5000-bc
 ---
 
 So, I'm going to write this article a little earlier than I should
