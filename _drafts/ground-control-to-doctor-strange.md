@@ -1,5 +1,5 @@
 ---
-title: "Ground Control to Dr. Strange: Consciousness Crystallization"
+title: "Ground Control to Dr. Strange: "
 categories: blog
 tags: "anthropology"
 headline: "Calamity Echoes Through Human Psyche"
@@ -8,6 +8,9 @@ author:
 excerpt: ""
 ---
 
+- part one: Turtles All The Way
+- part two: Consciousness Crystallization
+
 mention the inspiration for this post?
 - some post in june. i wasn't sure i should post this at the
   time. shaken by the magnitude
@@ -15,25 +18,41 @@ mention the inspiration for this post?
 what is the metaverse?
 - how is that different from a multiverse?
 - how are these ideas different than the multiverse?
+- what kinds of questions should we ask about the metaverse, should
+  such a thing actually exist?
 
-- significantly influenced by an article I read,
-  - which discussed
+Way back in late 2007, I read an article which completely
+revolutionized how I interpreted the Universe to a degree rarely
+surpassed in my life. The article, which I can't find, considered
 [Teilhard de Chardin's](https://en.wikipedia.org/wiki/Pierre_Teilhard_de_Chardin)
-work
-  - [The Phenomenon of Man](https://en.wikipedia.org/wiki/The_Phenomenon_of_Man)
-  - in the context of the Singularity
+work the
+[The Phenomenon of Man](https://en.wikipedia.org/wiki/The_Phenomenon_of_Man),
+in context with the Singularity and the computational capacity of the
+universe. It's what eventually lead me to understand the material
+world's convergence towards the metaphysical. The artifacts of
+information that we've created: our myths and products and brands will
+begin to become more important than anything in the physical world as
+the metaphysical coalesces during our approach towards the
+Singularity. Whether it is the innate information at the root of our
+universe or artifical information created by mankind, these phenomenae
+begin to bend the physical world to themselves. No longer does the
+physical world dictate the information relevant to mankind. Instead,
+reality begins to coalesce around rules based on information that we
+have created.
 
-The article discussed several possible fates of the Universe. After
-reading it, for the first time in my life, I felt like I had a
-concrete understanding of the meaning of life, at least under a
-nominal set of conditions. One such condition is that the universe
-must eventually collapse. For if there is such a Big Crunch, that
-implies that the computational capacity of the universe will approach
-infinite as the universe collapses.  If the computational capacity for
-any region of the universe is sufficiently large, a number of virtual
-universes can be created within our own world, each as complex as the
-universe we live in. If you think about it, a system of particles can
-emulate several systems, each as complex as itself, within itself.
+The article, perhaps similar to
+[this one](http://jetpress.org/v20/steinhart.htm), discussed several
+possible fates of the Universe. After reading it, for the first time
+in my life, I felt like I had a concrete understanding of the meaning
+of life, at least under a nominal set of conditions. One such
+condition is that the universe eventually collapses into a physical
+singularity. For if there is such a Big Crunch, that implies that the
+computational capacity of the universe will approach infinite as the
+universe collapses.  If the computational capacity for any region of
+the universe is sufficiently large, a number of virtual universes can
+be created within our own world, each as complex as the universe we
+live in. If you think about it, a system of particles can emulate
+several systems, each as complex as itself, within itself.
 
 According to this analysis of the Phenomenon of Man in the context of
 the Singularity, during the Big Crunch, we could extend a simulation
@@ -57,9 +76,9 @@ like a computational node in a vastly disconnected, forever expanding
 tangle of galactic superclusters. Intelligent life the universe across
 can leverage such quantum entanglement to augment the computational
 capacity of the Universe such that it can support infinite simulations
-beneath. In fact, there could be an economy based on the ability of
-intellegent life to leverage their surroundings to contribute to the
-sum of computation available.
+beneath. In fact, there could be a cosmic economy based on the ability
+of intellegent life to leverage their surroundings to contribute to
+the sum of computation available.
 
 ###
 
@@ -73,7 +92,7 @@ from which everything emerges which can support logics which are
 illogical. So simulated universes can be created which are nothing
 like ours.
 
-###
+### Information Representation Efficiency
 
 Yet, this all begs the question: what's the next level? Our own
 material universe can emulate universes as complicated as itself
@@ -92,49 +111,12 @@ operated, where the RAM actualy resides in the human mind. So what's
 the difference between a quantum computer and a cosmic quantum
 computer? Nothing but scale.
 
-TODO: describe the several types of possibilities for metaversal
-flexibility here?
+- notes on information representation efficiency in both energy, time
+  and structure required. low-energy, low-time, low-complexity
+  structure is preferred.
 
-Yet, the thought that blew my mind: if it's turtles all the way down
-and our universe can extend into infinite universes below our own,
-then why would we assume that our universe is at the root of that
-tree? That's rather like geocentricism, isn't it?
-
-The reasoning here is: if it's turtles all the way down, then why not
-turtles all the way up?  Why would we assume that we're the turtle on
-top? And yet, it wouldn't just be turtles up and down, it's turtles
-branching outwards in every direction.
-
-> Ground Control to Dr. Strange!
-
-### If It's Turtles All the Way Down, Then Why Not Up?
-
-- (explain these ideas in more depth)
-- is it a hot end? much more interesting!
-  -
-- is it a cold end? more more boring
-
-but what if the physical doesn't matter as much as we think it does
-
-
-It's a vertical metaverse. It's possible this could permit parametric
-variation in any dimension, implying the potential simultaneous
-existence of all possible realities. Many of these could be
-transversible, assuming the universes were bridged in some way.
-
-- the metaverse as a spongelike mass of universes connected through
-  multiversal pathways
-  - anchor points that moor portholes as windows to other worlds
-    - can use the portholes to differentiate your current universe to
-      another within reach of a porthole's neighborhood (or ball)
-- this all implies that the metaverse has it's own metaphysical omneity
-  - a common form shared with all multiverses and universes
-  - a branching form merging with connected multiverses in some region
-  - a total form containing everything
-- what questions should we ask about the nature of the metaverse?
-  - what mechanisms
-
-### information representaion efficiency (in terms of energy/structure)
+TODO: describe the several types of possibilities for metaversal flexibility here?
+===========
 
 in other words, how much information can our physical universe
 represent and simulate. is there actually any limit?
@@ -158,7 +140,38 @@ the main question is:
     - and it implies that the metaverse is just the universe itself
       and all the limited simulated universes contained within it
 
-> Ground control to Doctor Strange.
+### If It's Turtles All the Way Down, Then Why Not Up?
+
+Yeh the thought that blew my mind: if it's turtles all the way down
+and our universe can extend into infinite universes below our own,
+then why would we assume that our universe is at the root of that
+tree? That's rather like geocentricism, isn't it?
+
+The reasoning here is: if it's turtles all the way down, then why not
+turtles all the way up?  Why would we assume that we're the turtle on
+top? And yet, it wouldn't just be turtles up and down, it's turtles
+branching outwards in every direction.
+
+> Ground Control to Dr. Strange!
+
+but what if the physical doesn't matter as much as we think it does
+
+It's a vertical metaverse. It's possible this could permit parametric
+variation in any dimension, implying the potential simultaneous
+existence of all possible realities. Many of these could be
+transversible, assuming the universes were bridged in some way.
+
+- the metaverse as a spongelike mass of universes connected through
+  multiversal pathways
+  - anchor points that moor portholes as windows to other worlds
+    - can use the portholes to differentiate your current universe to
+      another within reach of a porthole's neighborhood (or ball)
+- this all implies that the metaverse has it's own metaphysical omneity
+  - a common form shared with all multiverses and universes
+  - a branching form merging with connected multiverses in some region
+  - a total form containing everything
+- what questions should we ask about the nature of the metaverse?
+  - what mechanisms
 
 ### This was new to me
 
@@ -189,6 +202,10 @@ laws of nature hold.
   - then those laws must hold in each universe and there must be some
     laws of nature for the metaverse
 
+
+### Degree of information overlap?
+
+
 ### We'll Turn Inwards to Conquer Inner Space
 
 - eventually we run out of things to learn about nature & science
@@ -212,6 +229,12 @@ laws of nature hold.
     of the world.  which IMO is just incredibly depressing
 
 how does the assumption of quantum networking relate to how these
+
+
+
+
+
+
 
 
 ### forked consciousness
