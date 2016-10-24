@@ -1,7 +1,7 @@
 ---
-title: "Ground Control to Dr. Strange: "
+title: "Ground Control to Dr. Strange"
 categories: blog
-tags: "anthropology"
+tags: "philosophy"
 headline: "Calamity Echoes Through Human Psyche"
 author:
   name: "David Conner"
@@ -9,17 +9,29 @@ excerpt: ""
 ---
 
 - part one: Turtles All The Way
+  - TODO: tags
 - part two: Consciousness Crystallization
 
 mention the inspiration for this post?
 - some post in june. i wasn't sure i should post this at the
   time. shaken by the magnitude
 
-what is the metaverse?
-- how is that different from a multiverse?
-- how are these ideas different than the multiverse?
-- what kinds of questions should we ask about the metaverse, should
-  such a thing actually exist?
+We've all heard that the universe could be part of a series of
+interlinked worlds called the multiverse. This idea isn't complete:
+it's too linear and only links the universe along one dimension. Can
+we view existance through a more complete lens? This article explores
+something called the metaverse, which is similar to the concept of a
+multiverse but is far more expansive in surprising ways.
+
+What is the metaverse, besides
+[Facebook's AR/VR platform](https://techcrunch.com/2014/03/28/facebook-bought-oculus-vr-to-create-the-metaverse-or-why-angry-kickstarter-backers-need-to-chill/)?
+How is a metaverse different from a multiverse? How deep does this
+rabbit hole go? What kinds of questions should we ask about the
+metaverse, should the cosmos actually be contained within it? This
+ideas and more will be explored. Also: *HEADY CRYSTALS!!* Part
+two. Just trust me.
+
+# Enter The Noosphere
 
 Way back in late 2007, I read an article which completely
 revolutionized how I interpreted the Universe to a degree rarely
@@ -92,7 +104,7 @@ from which everything emerges which can support logics which are
 illogical. So simulated universes can be created which are nothing
 like ours.
 
-### Information Representation Efficiency
+###
 
 Yet, this all begs the question: what's the next level? Our own
 material universe can emulate universes as complicated as itself
@@ -104,24 +116,70 @@ The answer depends on the number of universes that a universe can
 simulate and how completely it can simulate them. Circuit complexity
 and the physical structure of circuitry is a fascinating
 subject. Circuits and processors are truly the physical
-manisfestations of logic and nothing more. The most efficient form of
-a circuit. Anything can be a computer. Babbage built computers in 19th
-century England. An abacus is a computer that is rather manually
-operated, where the RAM actualy resides in the human mind. So what's
-the difference between a quantum computer and a cosmic quantum
-computer? Nothing but scale.
+manisfestations of logic and nothing more. The physical form of the
+most efficient circuitry for logic becomes realized as you enumerate
+parameters and constraints. This material form of a CPU or GPU is a
+reflection of the metaphysical rules of logic that lie underneath.
+This form is one of many emanation of self-similarity in the
+universe. The metaphysical determines the physical and vice versa.
+
+Anything can be a computer. Babbage built computers in 19th century
+England. An abacus is a computer that is rather manually operated,
+where the RAM actualy resides in the human mind. So what's the
+difference between a quantum computer and a cosmic quantum computer?
+Nothing but scale.
+
+If there are no size constraints on a giant cosmic, quantum computer
+then any set of particles could represent information in a virtual
+world beneath our own. Again, anything can be a computer, perhaps even
+the core of a star. If life is composed of increasingly higher order
+forms of organization in matter, how can we say for sure that there
+are not similar strata of form in the core of a star where matter has
+billions of years and a variety of forces acting in unison? If
+information could be preserved in the core of a star, then information
+could evolve into higher-order forms, eventually coalescing into
+something which can comprehend its own existence. Just as man is a
+biological computer capable of self-reflection, it's fathomable that
+stellar computer could emerge within a star.
+
+A the physical form of a computer is simply a set of particles that
+preserves information, but what if intelligence designed some greater
+form of information preservation in order to simulate virtual
+universes within our own? Then the only limit to the number and scale
+of such virtual universes would be the types and computational
+capacities of computable manifolds that can be constructed from
+physical matter within our own our own universe. Studying the typology
+of computeable manifolds (i.e. forms of computers that can be
+constructed from patterns of matter and space) would give us more
+information about how much information our universe can contain.  The
+article at the top explored the information that could be encoded
+given simply the number of particles in the observable universe, but
+did not take into account encoding information in space and with
+entanglement.
+
+### Information Representation Efficiency
+
+Of great interest to myself is data capacity per universe and overlap
+of information shared between universes. What rules are there for such
+a cosmos that extends into a metaverse? If there is nothing of
+substance here, then it's at least an exercise in imagination.
+
+
+how much information can our physical universe
+represent and simulate. is there actually any limit?
+- can we can virtualize universes that can store more information than
+  it would take to represent them .... but how can this be possible?
+
 
 - notes on information representation efficiency in both energy, time
   and structure required. low-energy, low-time, low-complexity
   structure is preferred.
 
+
 TODO: describe the several types of possibilities for metaversal flexibility here?
 ===========
 
-in other words, how much information can our physical universe
-represent and simulate. is there actually any limit?
-- can we can virtualize universes that can store more information than
-  it would take to represent them.
+in other words,
 
 the main question is:
 - what is the ratio of information storage capacity of one universe as
@@ -170,12 +228,12 @@ transversible, assuming the universes were bridged in some way.
   - a common form shared with all multiverses and universes
   - a branching form merging with connected multiverses in some region
   - a total form containing everything
+
+
+
+
 - what questions should we ask about the nature of the metaverse?
   - what mechanisms
-
-### This was new to me
-
-(This is all completely new for me, by the way)
 
 - changing from a world determined by the material to one determined
   by the metaphysical
@@ -186,9 +244,7 @@ a physical manisfestation of the self-similar, physical embedding our
 image of the metaphysical and radiating its essence to us.
 - (...what exactly did i mean by this?)
 
-a physical manisfestation of the self-similar reflection of the
-metaphysical. (i.e. CPU's are basically a reflection of logic from
-metaphysical structures into physical)
+
 
 if there are ways of "traveling" between different universes in the
 metaverse, then how are they linked together such that the inviolable
@@ -204,6 +260,7 @@ laws of nature hold.
 
 
 ### Degree of information overlap?
+
 
 
 ### We'll Turn Inwards to Conquer Inner Space
@@ -230,12 +287,24 @@ laws of nature hold.
 
 how does the assumption of quantum networking relate to how these
 
+### Figurative and Literal explanations of ideas
+
+- the other curse of dimensionality: flatland is **boring**
+  - well, not exactly flatland. but a literal, material view of the
+    world is useful, but boring.
+    - why should all that we can see be all there can be?
+      boooorrrriiinngg
 
 
+part two:
 
 
+### re:zero first two episodes
 
-
+- explain how the main character is lacksidaisically the same,
+  regardless of what happens. she responds to similar situations,
+  regardles of who initiates them (or something .. i donno i really
+  need to watch it again)
 
 ### forked consciousness
 
@@ -269,12 +338,6 @@ the following ideas on consciousness crystalization (TODO: so i should
 maybe explain a little better than above)
 
 #### Consciousness Crystallization Across the Metaverse
-
-- re:zero first two episodes
-  - explain how the main character is lacksidaisically the same,
-    regardless of what happens. she responds to similar situations,
-    regardles of who initiates them (or something .. i donno i really
-    need to watch it again)
 
 if one's consciousness can be mapped to universes descending from ours
 - and if our universe projects those with mappings in itself,
@@ -479,7 +542,7 @@ they exist out of it (or within it or around it)
   subgraph is minimally connected to others which all share a common
   ancester: the cyclical
 
-#### metaverse Forms
+#### metaverse Forms & shapes
 
 - conic
   - graph model with a time/etc component that collapses near the
