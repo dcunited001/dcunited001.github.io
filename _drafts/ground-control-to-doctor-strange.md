@@ -1,5 +1,5 @@
 ---
-title: "Consciousness Crystallization: Ground Control to Dr. Strange"
+title: "Ground Control to Dr. Strange: Consciousness Crystallization"
 categories: blog
 tags: "anthropology"
 headline: "Calamity Echoes Through Human Psyche"
@@ -8,16 +8,114 @@ author:
 excerpt: ""
 ---
 
-mention teilhard de chardin and the fate of the universe
+mention the inspiration for this post?
+- some post in june. i wasn't sure i should post this at the
+  time. shaken by the magnitude
+
+what is the metaverse?
+- how is that different from a multiverse?
+- how are these ideas different than the multiverse?
+
+- significantly influenced by an article I read,
+  - which discussed
+[Teilhard de Chardin's](https://en.wikipedia.org/wiki/Pierre_Teilhard_de_Chardin)
+work
+  - [The Phenomenon of Man](https://en.wikipedia.org/wiki/The_Phenomenon_of_Man)
+  - in the context of the Singularity
+
+The article discussed several possible fates of the Universe. After
+reading it, for the first time in my life, I felt like I had a
+concrete understanding of the meaning of life, at least under a
+nominal set of conditions. One such condition is that the universe
+must eventually collapse. For if there is such a Big Crunch, that
+implies that the computational capacity of the universe will approach
+infinite as the universe collapses.  If the computational capacity for
+any region of the universe is sufficiently large, a number of virtual
+universes can be created within our own world, each as complex as the
+universe we live in. If you think about it, a system of particles can
+emulate several systems, each as complex as itself, within itself.
+
+According to this analysis of the Phenomenon of Man in the context of
+the Singularity, during the Big Crunch, we could extend a simulation
+of the universe within itself, but push time infinitely beyond the
+rate of time in the last few moments of the cosmic epoch that preceeds
+the Big Crunch. This means that in the simulated universe, time
+proceeds infinitely faster than that of time in our own universe. This
+implies the lifetime of our material universe is likely cyclical by
+nature: there is no beginning or end. It's all an eternal cycle of big
+crunch followed by big bang, but what if all the cycles are instead
+occuring simultaneously? .... An interesting thought to follow, for
+sure.
+
+However, if there is instead a Big Freeze and dark energy compels
+galaxies to drift aimlessly outwards, then the universe is fated to
+experience a cold, dark, boring death. It's a major bummer, but one
+that could be circumvented if quantum networking is a thing and
+there's a pre-existing fabric of entanglement that can be leveraged to
+communicate across vast distances. In that case, each galaxy becomes
+like a computational node in a vastly disconnected, forever expanding
+tangle of galactic superclusters. Intelligent life the universe across
+can leverage such quantum entanglement to augment the computational
+capacity of the Universe such that it can support infinite simulations
+beneath. In fact, there could be an economy based on the ability of
+intellegent life to leverage their surroundings to contribute to the
+sum of computation available.
+
+###
+
+What would these virtual universes be like? These could either be like
+our own universe or more like a video game. They could obey any set of
+rules we could imagine, but there is a most base set of laws, from
+which everything emerges and to which everything must adhere,
+regardless of whether those are the metaphysical rules that the
+simulated universe appears to support. That is the metaphysical logic
+from which everything emerges which can support logics which are
+illogical. So simulated universes can be created which are nothing
+like ours.
+
+###
+
+Yet, this all begs the question: what's the next level? Our own
+material universe can emulate universes as complicated as itself
+... so could those universes each emulate universes further beneath
+itself? Maybe. If so, it would appear that it truly is turtles all the
+way down! But how far does the rabbit hole go?
+
+The answer depends on the number of universes that a universe can
+simulate and how completely it can simulate them. Circuit complexity
+and the physical structure of circuitry is a fascinating
+subject. Circuits and processors are truly the physical
+manisfestations of logic and nothing more. The most efficient form of
+a circuit. Anything can be a computer. Babbage built computers in 19th
+century England. An abacus is a computer that is rather manually
+operated, where the RAM actualy resides in the human mind. So what's
+the difference between a quantum computer and a cosmic quantum
+computer? Nothing but scale.
+
+TODO: describe the several types of possibilities for metaversal
+flexibility here?
+
+Yet, the thought that blew my mind: if it's turtles all the way down
+and our universe can extend into infinite universes below our own,
+then why would we assume that our universe is at the root of that
+tree? That's rather like geocentricism, isn't it?
+
+The reasoning here is: if it's turtles all the way down, then why not
+turtles all the way up?  Why would we assume that we're the turtle on
+top? And yet, it wouldn't just be turtles up and down, it's turtles
+branching outwards in every direction.
+
+> Ground Control to Dr. Strange!
+
+### If It's Turtles All the Way Down, Then Why Not Up?
+
 - (explain these ideas in more depth)
 - is it a hot end? much more interesting!
-  - this means that the lifetime of a universe is likely cyclical by
-    nature. an eternal cycle of big crunch followed by big bang
+  -
 - is it a cold end? more more boring
 
 but what if the physical doesn't matter as much as we think it does
 
-- it's turtles all the way down (and up too)
 
 It's a vertical metaverse. It's possible this could permit parametric
 variation in any dimension, implying the potential simultaneous
@@ -59,11 +157,6 @@ the main question is:
     compare to the complexity of the host universe.
     - and it implies that the metaverse is just the universe itself
       and all the limited simulated universes contained within it
-
-The reasoning here is: if it's turtles all the way down, then why not
-turtles all the way up?  Why would we assume that we're the turtle on
-top? and yet, it's not just turtles up and down, it's turtles
-branching outwards in every direction.
 
 > Ground control to Doctor Strange.
 
@@ -121,7 +214,7 @@ laws of nature hold.
 how does the assumption of quantum networking relate to how these
 
 
-#### forked consciousness
+### forked consciousness
 
 - forked consciousness
   - analogy about 1,000,000 virtual universes below our own physical
@@ -130,14 +223,36 @@ how does the assumption of quantum networking relate to how these
   - then fork someone's consciousness and deploy into all of those
     situations simultaneously
 
-#### gravity crystals
+### gravity crystals
 
+- discussing & providing visualization for gravity crystals is
+  important for the average person to abstract the idea of a crystal
+  from matter to less physical things
+  - gravity crystals are impossible in a finite universe, AFAIK
+  - that's not what the paper says though, but gravity has a speed of
+    propagation and there is no finitely tiled "gravity crystal" that
+    wouldn't break down (AFAIK...)
 
+### "Mind Form"
 
-#### Metaverse Consciousness Crystallization
+If you could visualize someone's mind, what would it look like? How
+would you organize the information? How would it look when compared
+with another person's mind using the same strategy for visualization?
+If you were going to imagine applying this to small/large groups of
+people, how would you go about that?
+
+The idea of visualizing or modeling someone's mind is important for
+the following ideas on consciousness crystalization (TODO: so i should
+maybe explain a little better than above)
+
+#### Consciousness Crystallization Across the Metaverse
 
 - re:zero first two episodes
-  -
+  - explain how the main character is lacksidaisically the same,
+    regardless of what happens. she responds to similar situations,
+    regardles of who initiates them (or something .. i donno i really
+    need to watch it again)
+
 if one's consciousness can be mapped to universes descending from ours
 - and if our universe projects those with mappings in itself,
   - then those values our consciousness maps there
@@ -465,3 +580,10 @@ this shared degree of causality also implies shared information
 - or duplicated locatation of some information
 - ... i didn't explore how or the implications on causality of options
   for how information can be duplicated or shared
+
+### Zenith of Crystalization
+
+- is there some zenith of crystalization? is there some mind-form
+  which is perfectly synced across all possible worlds? across all
+  possible virtualizations above and below our own? What would that be
+  like?
