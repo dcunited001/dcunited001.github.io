@@ -104,13 +104,31 @@ from which everything emerges which can support logics which are
 illogical. So simulated universes can be created which are nothing
 like ours.
 
-###
-
 Yet, this all begs the question: what's the next level? Our own
 material universe can emulate universes as complicated as itself
 ... so could those universes each emulate universes further beneath
 itself? Maybe. If so, it would appear that it truly is turtles all the
-way down! But how far does the rabbit hole go?
+way down!
+
+### If It's Turtles All the Way Down...
+
+TODO: this conclusion needs to happen sooner
+
+Yeh the thought that blew my mind: if it's turtles all the way down
+and our universe can extend into infinite universes below our own,
+then why would we assume that our universe is at the root of that
+tree? That's rather like geocentricism, isn't it?
+
+The reasoning here is: if it's turtles all the way down, then why not
+turtles all the way up?  Why would we assume that we're the turtle on
+top? And yet, it wouldn't just be turtles up and down, it's turtles
+branching outwards in every direction.
+
+> Ground Control to Dr. Strange!
+
+But what if the physical doesn't matter as much as we think it does
+
+### But How Far Does This Rabbit Hole Go?
 
 The answer depends on the number of universes that a universe can
 simulate and how completely it can simulate them. Circuit complexity
@@ -165,21 +183,6 @@ a cosmos that extends into a metaverse? If there is nothing of
 substance here, then it's at least an exercise in imagination.
 
 
-how much information can our physical universe
-represent and simulate. is there actually any limit?
-- can we can virtualize universes that can store more information than
-  it would take to represent them .... but how can this be possible?
-
-
-- notes on information representation efficiency in both energy, time
-  and structure required. low-energy, low-time, low-complexity
-  structure is preferred.
-
-
-TODO: describe the several types of possibilities for metaversal flexibility here?
-===========
-
-in other words,
 
 the main question is:
 - what is the ratio of information storage capacity of one universe as
@@ -198,21 +201,15 @@ the main question is:
     - and it implies that the metaverse is just the universe itself
       and all the limited simulated universes contained within it
 
-### If It's Turtles All the Way Down, Then Why Not Up?
 
-Yeh the thought that blew my mind: if it's turtles all the way down
-and our universe can extend into infinite universes below our own,
-then why would we assume that our universe is at the root of that
-tree? That's rather like geocentricism, isn't it?
+How much information can our physical universe
+represent and simulate. is there actually any limit?
+- can we can virtualize universes that can store more information than
+  it would take to represent them .... but how can this be possible?
 
-The reasoning here is: if it's turtles all the way down, then why not
-turtles all the way up?  Why would we assume that we're the turtle on
-top? And yet, it wouldn't just be turtles up and down, it's turtles
-branching outwards in every direction.
-
-> Ground Control to Dr. Strange!
-
-but what if the physical doesn't matter as much as we think it does
+- notes on information representation efficiency in both energy, time
+  and structure required. low-energy, low-time, low-complexity
+  structure is preferred.
 
 It's a vertical metaverse. It's possible this could permit parametric
 variation in any dimension, implying the potential simultaneous
@@ -228,12 +225,6 @@ transversible, assuming the universes were bridged in some way.
   - a common form shared with all multiverses and universes
   - a branching form merging with connected multiverses in some region
   - a total form containing everything
-
-
-
-
-- what questions should we ask about the nature of the metaverse?
-  - what mechanisms
 
 - changing from a world determined by the material to one determined
   by the metaphysical
@@ -298,6 +289,20 @@ how does the assumption of quantum networking relate to how these
 
 part two:
 
+### "Mind Forms" (better term for this?)
+
+(open with this and ask reader to think about it, then progress
+towards explaining connection to Re:Zero)
+
+If you could visualize someone's mind, what would it look like? How
+would you organize the information? How would it look when compared
+with another person's mind using the same strategy for visualization?
+If you were going to imagine applying this to small/large groups of
+people, how would you go about that?
+
+The idea of visualizing or modeling someone's mind is important for
+the following ideas on consciousness crystalization (TODO: so i should
+maybe explain a little better than above)
 
 ### re:zero first two episodes
 
@@ -324,18 +329,6 @@ part two:
   - that's not what the paper says though, but gravity has a speed of
     propagation and there is no finitely tiled "gravity crystal" that
     wouldn't break down (AFAIK...)
-
-### "Mind Form"
-
-If you could visualize someone's mind, what would it look like? How
-would you organize the information? How would it look when compared
-with another person's mind using the same strategy for visualization?
-If you were going to imagine applying this to small/large groups of
-people, how would you go about that?
-
-The idea of visualizing or modeling someone's mind is important for
-the following ideas on consciousness crystalization (TODO: so i should
-maybe explain a little better than above)
 
 #### Consciousness Crystallization Across the Metaverse
 
@@ -450,8 +443,10 @@ and capable of moving around locally to some degree
 
 if you can actually identify the... ??
 
-could there be "beings" native moreso to the multiverse and some how
-they exist out of it (or within it or around it)
+could there be "beings" native moreso to the metaverse itself and some
+how they exist outside of any particular universe
+- (or within it or around it)
+
 - they could move around
 - what types of beings would there be
   - would there be architypical beings, capable of metaversal
@@ -557,6 +552,13 @@ they exist out of it (or within it or around it)
 - graph
 - circular
 
+### Ygdrasil
+
+- the archetypical "realms" available in every realm
+  - these are moreso "realms of information" than actual worlds you
+    can warp to
+  - but it's like a tree of information exposed to you in "places"
+    from any universe in the metaverse
 
 ### Consciousness Crystallization within a Single Universe
 

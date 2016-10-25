@@ -439,7 +439,9 @@ their melting point, we would also similarly assess combustible
 materials by their energy density, without knowing what that concept
 is scientifically.
 
-###
+<a name="ancient-knowledge-of-oil" />
+
+### [Ancient Knowledge of Oil](#ancient-knowledge-of-oil)
 
 And if cultures came into contact with significant amounts of oil,
 they would certainly recognize both its energy density and value.  Far
@@ -487,6 +489,10 @@ hoarded some critical knowledge for themselves, either about the
 processes the group required to create value or about their methods of
 leadership.
 
+<a name="emergence-of-copper-mining" />
+
+### [Emergence of Copper Mining](#emergence-of-copper-mining)
+
 The earliest evidence of copper mining is in Timna Valley, in southern
 Israel, dating back to 7,000 BC to 5,000 BC.  The
 [Vinča culture](https://en.wikipedia.org/wiki/Vin%C4%8Da_culture)
@@ -513,7 +519,11 @@ specialized class of people who can afford to hang out and tend to
 religious affairs, religion had a tough time gaining a foothold.
 There's no mechanism for organized religion to spread and it offers no
 benefits in the late neolithic, nor was there any cultural apparatus
-to enforce religious beliefs.
+to enforce religious belief.
+
+<a name="what-is-god-to-you" />
+
+### [What Is God, To You?](#what-is-god-to-you)
 
 At this point, religion was mostly limited to tribal belief systems
 that attempted to explain natural phenomena or preserve knowledge
@@ -533,6 +543,10 @@ touchstones. In contrast, in more recent times, we have personified
 gods and deities. Instead of being a lens through which to understand
 the world, they morphed into all-powerful beings who demand our
 obedience.  And why?  Because it's useful as a tool of leadership.
+
+<a name="religion-as-survival-of-the-most-empowering" />
+
+### [Religion as Survival of the Most Empowering](#religion-as-survival-of-the-most-empowering)
 
 It was only when one belief system conferred significant evolutionary
 advantage, that a religion would take off and become widespread. That
@@ -558,17 +572,22 @@ rest of society.
 
 This happens so often with religions, by the way. There are many cases
 of a religion preaching openness and offering to teach others how to
-access their divine spark.  The preach that through them, their
+access their divine spark.  They preach that, through them, their
 followers can come to understand the nature of the universe and come
 to know God. Then, typically after a one or two generations, the true
 knowledge of the religion is esoterically sealed away from the masses
 and only accessible after a lifetime of piety as a priest. The priest
 class uses their system of stratification to lock away the truth for
-themselves, typically to maintain or create power. In doing so, they
-prevent most common people from obtaining true spiritual freedom.
-Instead they create a mechanism whereby they sell access to a placebo
-for spirituality, acting as gatekeepers who prevent all but a few
-carefully filtered adherents from ever knowing the truth.
+themselves or for protection of some divine secrets, but typically to
+maintain or create power. In doing so, they prevent most common people
+from obtaining true spiritual freedom.  Instead they create a
+mechanism whereby they sell access to a placebo for spirituality,
+acting as gatekeepers who prevent all but a few carefully filtered
+adherents from ever knowing the truth.
+
+<a name="what-is-the-knowledge-of-good-and-evil" />
+
+### [What Is The Knowledge of Good and Evil?](#what-is-the-knowledge-of-good-and-evil)
 
 To me, the knowledge of good and evil is not simply the knowledge of
 the existence of good and the existence of evil. That is, this doesn't
@@ -577,30 +596,34 @@ loss of our innocence, per se. Instead, the knowledge of good and
 evil is the knowledge of _both_ *how to use* **good** and **how to
 use** *evil* in order to accomplish one's goals, and especially in the
 sense that one becomes aware of how others will perceive an
-action. The more abstract our knowledge of the world grew, the more
-that abstract knowledge could be used to confer an advantage over
-others for good or ill.  Fairly quickly, those with significant
-knowledge began to understand just how powerful both knowledge and
-information were.  So they learned to horde it because anything
-leaking from the priest or ruling class was incredibly dangerous to
-themselves.  So therefore, they designed a system to control the
-populace by controlling the perception of what was good and what was
-evil. These same people feared technological innovations because they
-understood how to maintain the status quo, but were afraid of what
-they didn't understand.  And once humanity had proverbially eaten of
-the fruit of the tree of knowledge, we learned how to control others.
-We developed an economy based on specialization and created layers of
-social stratification, but we inadvertently created a world that no
-longer offered abundance.  In essence, we built a house of cards that
-required that people to be imbued with desire for material to be
-compelled to contribute to the system.  The further we retreated from
-nature, the more we were allured by the promise of completely escaping
-its harsh reality.  Yet, the more complicated our societies became,
-the more disparate the conditions were for various social strata.
+action.
+
+The more abstract our knowledge of the world grew, the more that
+abstract knowledge could be used to confer an advantage over others
+for good or ill.  Fairly quickly, those with significant knowledge
+began to understand just how powerful both knowledge and information
+were.  So they learned to horde it because anything leaking from the
+priest or ruling class was incredibly dangerous to themselves.  So
+therefore, they designed a system to control the populace by
+controlling the perception of what was good and what was evil. These
+same people feared technological innovations because they understood
+how to maintain the status quo, but were afraid of what they didn't
+understand.
+
+And once humanity had proverbially eaten of the fruit of the tree of
+knowledge, we learned how to control others.  We developed an economy
+based on specialization and created layers of social stratification,
+but we inadvertently created a world that no longer offered abundance.
+In essence, we built a house of cards that required that people to be
+imbued with desire for material to be compelled to contribute to the
+system.  The further we retreated from nature, the more we were
+allured by the promise of completely escaping its harsh reality.  Yet,
+the more complicated our societies became, the more disparate the
+conditions were for various social strata.
 
 <a name="the-deluges" />
 
-### [The Deluge(s)](#the-deluges)
+# [The Deluge(s)](#the-deluges)
 
 Almost every culture has a story about a catastrophic flood that
 nearly destroyed humanity. Many of these also feature a Noah figure,
@@ -662,8 +685,10 @@ was violently flooded by a tsunami triggered by a massive glacial
 event called the Storegga Slide.
 
 - knocked out by tsunami (Storegga Slide around 6200 BC)
-  - this is probably not the only time a seaside glacier collapsed, triggering tsunami
-  - however, the rest of the developing world was geographically shielded from tsunami's
+  - this is probably not the only time a seaside glacier collapsed,
+    triggering tsunami
+  - however, the rest of the developing world was geographically
+    shielded from tsunami's
     - generated by glacial collapse
     - the Mediterranean, definitely not at risk
     - nor would southern india
