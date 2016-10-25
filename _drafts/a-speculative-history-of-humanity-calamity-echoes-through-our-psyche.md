@@ -290,7 +290,8 @@ yourself from risk and harsh conditions by cooperating.  The benefits
 reaped from this cooperation for mutual benefit far outweighed those a
 group would receive by attacking another group.  And those benefits
 would be negligible - there were no resources worth accumulating.
-    Therefore, there were no resources accumulated.  Most food spoiled,
+
+Therefore, there were no resources accumulated.  Most food spoiled,
 agriculture was limited.  There was limited trade, except for leather
 and obsidian.  Beginning with the copper age, people began trading the
 eponymous copper, as it was malleable. But would any of this motivate
@@ -664,6 +665,9 @@ widespread disaster.  The survivors of an event like this might not
 have been able to preserve what was lost, but they were well aware of
 the scope of what was lost.
 
+- maybe the story of Noah is a little more true than is comfortable
+  for scientific types
+
 <a name="monolithic-paroxysm-of-civilizational-collapse" />
 
 ### [Monolithic Paroxysm of Civilizational Collapse](#monolithic-paroxysm-of-civilizational-collapse)
@@ -697,7 +701,11 @@ society.
 - minor seismic events may have preceded previous events by weeks or
   months, if the flooding was glacial
 
-### Lake Agassiz
+### [Lake Agassiz and Glacial Outburst Flooding](#lake-agassiz-and-glacial-outburst-flooding)
+
+- was glacial outburst flooding somewhat predictable?
+  - could man speculate that within one or two generations that a
+    glacial outburst flood could occur?
 
 - spread across canada, much larger than all five great lakes combined
   - fed by melting lake water, but unstable
@@ -713,7 +721,56 @@ society.
     - such calamatous events would be rare, but wouldn't be soon
       forgotten
 
-### Black Sea Outburst Flood
+<a name="a-brief-foray-into-hypothetical-canadian-canal-projects"
+
+### [A Brief Foray into Hypothetical Canadian Canal Projects](#a-brief-foray-into-hypothetical-canadian-canal-projects)
+
+- briefly mention nouveau canal projects in Canada?
+  - to complete/shorten the northwestern passage
+    - The problem with long canals is that it's really hard to build
+      them deep enough. If you can't build them deep enough, it limits
+      the maximum barge size. Water displacement and what not. It's
+      complicated.
+  - global trade is going to completely shift, but it's very difficult
+    to predict precisely how.
+    - it really depends on how humanity shifts towards accumulating
+      resources
+  - the most valuable regions of geography are always centers of
+    trade. that's why isreal and the Middle East were always so
+    important throughout history. Control and tax trade through the
+    middle east and your civilization is set for life. The existence
+    and colonization of the New World changed all that. We're
+    approaching another similar shift. See? Read far enough into these
+    articles and you get a cookie!
+  - how is the global economy going to shift this time?
+    - incredibly difficult to predict. Two things are certain: global
+      economic shift will occur much, much faster than previously in
+      history. And secondly, barring civilizational collapse, humanity
+      will begin to pull in resources from space.
+    - at first, those resources will arrive from rockets and via
+      conventional space travel means. so this makes the equatorial
+      regions of the globe more convenient centres of trade, since
+      those will be the logistic centres, at least for sending
+      resources to space.
+    - yet, the Bering Strait is also incredibly strategic because, as
+      the ice melts, resources in Greenland become available. No, we
+      don't want to encourage this to happen faster, but it's pretty
+      much inevitable, even if the ice doesnt melt. And that's a lot
+      of freshwater, by the way. Greenland was formerly located
+      elsewhere and, AFAIK, the petrol reserves haven't been tapped,
+      unless maybe space lizards, but probably not. Further still,
+      there are several mountainous regions in Greenland, especially
+      right there at the top. Just trust me. Mountains sometimes means
+      heavy elements are pushed up from the Earth's core. Possibly
+      rare earth elements? Who knows. Boom. Cookies.
+    - What's certain is that the Northern sea routes do save distance
+      and fuel cost, so state and naval control over these routes will
+      be valuable. The question is how valuable. These arctic routes
+      could just be a Red Herring and completely worthless.
+
+<a name="the-hypothetical-black-sea-outburst-flood" />
+
+### [The Hypothetical Black Sea Outburst Flood](#the-hypothetical-black-sea-outburst-flood)
 
 There was possibly a major flood here in the 6th or 8th
 millenium. It's known that the Black Sea was very recently completely
@@ -806,49 +863,6 @@ using google maps, i can see the effect of erosion from an ancient danube riverb
       the area beyond Shatt-al-Arab river, the Ur-Schatt river basin
       in the ancient Persian Gulf
 
-- briefly mention nouveau canal projects in Canada?
-  - to complete/shorten the northwestern passage
-    - The problem with long canals is that it's really hard to build
-      them deep enough. If you can't build them deep enough, it limits
-      the maximum barge size. Water displacement and what not. It's
-      complicated.
-  - global trade is going to completely shift, but it's very difficult
-    to predict precisely how.
-    - it really depends on how humanity shifts towards accumulating
-      resources
-  - the most valuable regions of geography are always centers of
-    trade. that's why isreal and the Middle East were always so
-    important throughout history. Control and tax trade through the
-    middle east and your civilization is set for life. The existence
-    and colonization of the New World changed all that. We're
-    approaching another similar shift. See? Read far enough into these
-    articles and you get a cookie!
-  - how is the global economy going to shift this time?
-    - incredibly difficult to predict. Two things are certain: global
-      economic shift will occur much, much faster than previously in
-      history. And secondly, barring civilizational collapse, humanity
-      will begin to pull in resources from space.
-    - at first, those resources will arrive from rockets and via
-      conventional space travel means. so this makes the equatorial
-      regions of the globe more convenient centres of trade, since
-      those will be the logistic centres, at least for sending
-      resources to space.
-    - yet, the Bering Strait is also incredibly strategic because, as
-      the ice melts, resources in Greenland become available. No, we
-      don't want to encourage this to happen faster, but it's pretty
-      much inevitable, even if the ice doesnt melt. And that's a lot
-      of freshwater, by the way. Greenland was formerly located
-      elsewhere and, AFAIK, the petrol reserves haven't been tapped,
-      unless maybe space lizards, but probably not. Further still,
-      there are several mountainous regions in Greenland, especially
-      right there at the top. Just trust me. Mountains sometimes means
-      heavy elements are pushed up from the Earth's core. Possibly
-      rare earth elements? Who knows. Boom. Cookies.
-    - What's certain is that the Northern sea routes do save distance
-      and fuel cost, so state and naval control over these routes will
-      be valuable. The question is how valuable. These arctic routes
-      could just be a Red Herring and completely worthless.
-
 # Atlantis, Lemuria, Hyperborea
 
 Countless myths concern lost cities, once great, but now sunken into
@@ -880,39 +894,56 @@ called the Storegga Slide in 6,200 B.C.
 ### Dilmun and the Ancient Persian Gulf River Basin
 
 include pics from Kurt Lambeck paper (1995)
-- "Shoreline reconstructions for the Persian Gulf since the last glacial maximum"
+- "Shoreline reconstructions for the Persian Gulf since the last
+  glacial maximum"
 
 flooding of the Persian gulf during this time
 - probably happened at least once as an unexpected catastrophe
   - then again, periodically every few hundred years
-  - these repeated experiences would have been catastrophic to early civilization
-  - the pain of losing everything would have been seared into our psyche
+  - these repeated experiences would have been catastrophic to early
+    civilization
+  - the pain of losing everything would have been seared into our
+    psyche
     - IMO, this pain served as an impetus to build monolithic works
       - if the work was big enough it would not be lost to catastrophe
       - or disassembled by invaders
-    - by building these works, ancient leaders hoped that their culture
+    - by building these works, ancient leaders hoped that their
+      culture
       - would never again be completely lost
       - thus the origin behind the search for immortality by Egyptians
 - the response to flooding of the Persian gulf
-  - during this time, the Tigris & Euphrates would have flowed into Persian Gulf area
-    - possibly merging before/around reaching the area now known as Kuwait
-    - thus, the fertile crescent before 5,000 BC would have been nearly twice as large
-    - and the closest area to the Persian Gulf would have been the most attractive place to live, there
-      - this is because it becomes the most ideal port connecting the entire Fertile Cresent river basin
-  - people would have been split into at least three groups following the catastrophe(s)
-    - people would follow the region along the coast of Iran up towards the Indus Valley
-      - these people would eventually found Harrapa, the Indus Valley Civilization (ICV)
-    - another group of people would retreat, again and again, further up the Persian Gulf
+  - during this time, the Tigris & Euphrates would have flowed into
+    Persian Gulf area
+    - possibly merging before/around reaching the area now known as
+      Kuwait
+    - thus, the fertile crescent before 5,000 BC would have been
+      nearly twice as large
+    - and the closest area to the Persian Gulf would have been the
+      most attractive place to live, there
+      - this is because it becomes the most ideal port connecting the
+        entire Fertile Cresent river basin
+  - people would have been split into at least three groups following
+    the catastrophe(s)
+    - people would follow the region along the coast of Iran up
+      towards the Indus Valley
+      - these people would eventually found Harrapa, the Indus Valley
+        Civilization (ICV)
+    - another group of people would retreat, again and again, further
+      up the Persian Gulf
       - as water repeatedly destroyed coastal civilizations.
-      - the changing coastline would become noticeable and would visibly move
-        - these changes would occur over the course of two to three generations
-        - and measuring these changes would require marking the coastline
+      - the changing coastline would become noticeable and would
+        visibly move
+        - these changes would occur over the course of two to three
+          generations
+        - and measuring these changes would require marking the
+          coastline
           - likely using large stone objects
-          - these are also useful as constants for marking/measuring objects in the skyline
-    - this group of people would follow the changing Tigris/Euphrates delta
+          - these are also useful as constants for marking/measuring
+            objects in the skyline
+    - this group of people would follow the changing Tigris/Euphrates
+      delta
   - a third group would begin occupying higher and higher ground
     - along the coastline from Kuwait to Oman to Yemen
-
 
 ### notes about seafare and trade
 
@@ -928,8 +959,10 @@ The importance of geography in the early world.
 - surveying (especially elevation, during a chaotic time)
 - astrology as a coordinate system for locating oneself
 - mythology as a means of preserving knowledge
-  - but also for fostering a purpose in a violent world with lots of suffering
-  - and for cultivating trans-generational strategies for improving the human condition
+  - but also for fostering a purpose in a violent world with lots of
+    suffering
+  - and for cultivating trans-generational strategies for improving
+    the human condition
 
 sumerian creation myth (1600 BC)
 
