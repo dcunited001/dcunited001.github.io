@@ -691,13 +691,19 @@ warfare.  The power to control history by dismantling other cultures
 or ideas would already be well experienced in various levels of
 society.
 
-- mention discussion of architecture in part three and how that
-  changed man forever
-  - at no time have the things which are most important to our world
-    been most prevelant as the millenium during which architecture
-    develops. at the emergence of architecture, man becomes aware of
-    phenomenoma all but forever forgotten, once life becomes
-    significantly complicated.
+For developing mans understanding of higher-order phenomenona,
+architecture was relevatory. The third part of this series will
+discuss this in more detail, but before man could modify his
+surroundings, it's hard to say that death would have the same effect,
+in a psychological and sociological sense. Further, IMO, at no time
+have the things which are most important to our world been most
+prevelant as the millenium during which architecture develops, which
+varies from region to region. At the emergence of architecture, man
+becomes aware of phenomenoma all but forever forgotten, once life
+becomes significantly more sophisticated.
+
+
+
 - minor seismic events may have preceded previous events by weeks or
   months, if the flooding was glacial
 
@@ -872,6 +878,8 @@ the sea or otherwise forgotten.
 
 ### Doggerland
 
+TODO: map of Doggerland
+
 A developed culture, usually fairly advanced that lay in the far
 north.  The Greeks and Romans called called it Hyperborea. Or perhaps
 that was their name for Iceland and Greenland? Yet, Doggerland fits
@@ -892,6 +900,9 @@ called the Storegga Slide in 6,200 B.C.
 - original settlements in england/ireland?
 
 ### Dilmun and the Ancient Persian Gulf River Basin
+
+- lost city near Bahrain.
+  - mention the myth from Gilgamesh
 
 include pics from Kurt Lambeck paper (1995)
 - "Shoreline reconstructions for the Persian Gulf since the last
