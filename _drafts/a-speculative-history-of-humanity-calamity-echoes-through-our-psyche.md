@@ -57,6 +57,13 @@ do, follow up with some research yourself.
 
 # [The Deluge(s)](#the-deluges)
 
+### [Monolithic Paroxysm of Civilizational Collapse](#monolithic-paroxysm-of-civilizational-collapse)
+
+### [Glacial Outburst Flooding](#glacial-outburst-flooding)
+
+### [Lake Agassiz Glacial Outburst Flood](#lake-agassiz-glacial-outburst-flood)
+
+### [Global Warming is a Ten Thousand Year Trend](#global-warming-is-a-ten-thousand-year-trend)
 
 
 <a name="prehistoric-written-language" />
@@ -639,11 +646,11 @@ conditions were for various social strata.
 # [The Deluge(s)](#the-deluges)
 
 Almost every culture has a story about a catastrophic flood that
-nearly destroyed humanity. Many of these also feature a Noah figure,
-whom they divine had influenced to craft an ark and preserve animal
-life.  IMO, the animals moreso symbolize the preservation of culture
-and knowledge here, whereas the ark symbolizes the preparation of a
-small, but wise group of people.  In many of the stories, such as
+nearly destroyed humanity. Many of these also feature a Noah-like
+figure, whom the divine had influenced to craft an ark and preserve
+animal life. IMO, the animals moreso symbolize the preservation of
+culture and knowledge here, whereas the ark symbolizes the preparation
+of a small, but wise group of people.  In many of the stories, such as
 Gilgamesh and the Sumerian flood epic, the flood is presented as a
 conspiracy of the gods against humanity, who is only saved through the
 disobedience of one of those gods.  Obviously, the myth can't be
@@ -657,16 +664,15 @@ destroy most of the culture that had developed in a region and only
 the people far outside of irrigable land would survive.
 
 In this world, these flooding events were rare, especially
-regionally. But they were so destructive that no one would ever
-forget.  Any history was limited by the persistence of memory. The
-survivors developed these myths as a means to ensure that future
-generations would be prepared to preserve culture in case of another
-widespread disaster.  The survivors of an event like this might not
-have been able to preserve what was lost, but they were well aware of
-the scope of what was lost.
-
-- maybe the story of Noah is a little more true than is comfortable
-  for scientific types
+regionally. But they were so destructive that man would mythologize to
+ensure no one could ever forget. Any history was limited by the
+persistence of memory. The survivors developed these myths as a means
+to ensure that future generations would be prepared to preserve
+culture in case of another widespread disaster. The survivors of an
+event like this might not have been able to preserve what was lost,
+but they were well aware of the scope of what was lost. Perhaps the
+story of Noah is a little more true than is comfortable for scientific
+types.
 
 <a name="monolithic-paroxysm-of-civilizational-collapse" />
 
@@ -702,77 +708,172 @@ varies from region to region. At the emergence of architecture, man
 becomes aware of phenomenoma all but forever forgotten, once life
 becomes significantly more sophisticated.
 
+<a name="glacial-outburst-flooding" />
 
+### [Glacial Outburst Flooding](#glacial-outburst-flooding)
 
-- minor seismic events may have preceded previous events by weeks or
-  months, if the flooding was glacial
+Could man have predicted such events? Many of these major floods were
+not weather events, but geological events. There were many glacial
+outburst floods from 15,000 B.C. to 5,000 B.C., which will be
+described herein. Could these events be preceded by seismic activity
+which would displace otherwise stable glacial arrangements? If these
+events were common enough to be recognized and remembered as a type of
+event by man of that time, could he implement a prehistoric warning
+network for impending glacial outburst tumult. One must remember that
+the most attractive places to live would be the most dangerous in
+terms of these events. Seaside and riverside settlements would be the
+most endangered by bursts of flooding, but these are the exact
+settlements which led to sophistication for humanity. Therefore, a
+system for observing the status of glaciers would have been useful,
+but it's hard to imagine early man being capable of much in this
+regard. Could man have speculated that, within one or two generations
+that an outburst flood, large or small, might be imminent?
 
-### [Lake Agassiz and Glacial Outburst Flooding](#lake-agassiz-and-glacial-outburst-flooding)
+<a name="lake-agassiz-glacial-outburst-flood" />
 
-- was glacial outburst flooding somewhat predictable?
-  - could man speculate that within one or two generations that a
-    glacial outburst flood could occur?
+### [Lake Agassiz Glacial Outburst Flood](#lake-agassiz-glacial-outburst-flood)
 
-- spread across canada, much larger than all five great lakes combined
-  - fed by melting lake water, but unstable
-  - excess freshwater accumulation caused glacial outburst floods
-    - some of which refilled the great lakes
-    - these would typically cool the northern hemisphere,
-      - but increase the sea level
-  - around 12,000 BC, it would drain northward when the glacial lake burst
-  - started to drain southward when burst.
-- around 6,200 BC, it burst for the last time
-  - and sea levels may have risen dramatically in response
-    - so it seems the sea level rose in bursts
-    - such calamatous events would be rare, but wouldn't be soon
-      forgotten
+After the last glacial maximum, Lake Agassiz was a body of meltwater
+spread over Canada and was much larger than all five great lakes
+combined. It was massive. Bodies of water like this would build up
+over time and burst violently, as ice weakened and a frozen, natural
+dam burst. After the last ice age, this started happening around
+12,000 B.C. and it originally drained northward, but shifted to
+bursting southward millenia later. After bursting, the freshwater
+would form small lakes with high surface area, giving way to higher
+rates of evaporation, and thus, this would begin to cool the northern
+hemisphere, but increasing the sea level. Lake Agassiz burst for the
+last time around 6,200 B.C. and resulted in calamatous flooding west
+of the Appalachians. Such immediate bursts of flooding implies that
+the sea level occasionally rose in such a way that was viscerally
+noticeable to mankind. This was in addition to a steady constant
+increase in sea level. Again, such calamatous events would be rare,
+but wouldn't be soon forgotten. Similar events happened around the
+Caucasus and both north and south of the Himalayans as well.
+
+<a name="global-warming-is-a-ten-thousand-year-trend" />
+
+### [Global Warming is a Ten Thousand Year Trend](#global-warming-is-a-ten-thousand-year-trend)
+
+We no longer see events of this scale, nor have we in millenia, but
+it's part of a warming trend that continues today.  Science takes a
+preventative view on global warming because it can measure the change
+that it fears humanity is introducing. Business fears limiting the
+scale of industry, especially when game theory and economics imply
+that doing so might be futile. The burden of some limitation of
+industry globally to offset carbon dioxide might actually be good for
+the global economy as a means of stabalization, but pollution is a
+much greater problem. IMO, the rate of increase in average ocean
+temperature is merely an indication of pollution.
+
+Global warming and all the ecological changes it brings are natural.
+Yet, the other major danger is misallocation of agricultural resources
+in the face of significant long-term weather pattern changes. For
+example, if there wasn't enough water in the Ogalala aquifer, then
+we'll experience another drought and dustbowl. Grain and wheat are
+major American exports, but the greater risk is that massive changes
+to ocean currents would cause changes in distribution of rainfall and
+thus, the resulting misallocation of agricultural resources would
+result in famine and drought. This would occur at a time when tensions
+around the world are already high and would result in chaos. Fuck
+carbon levels. That's only an indication of the problem. The real
+problem is economic and political chaos as a result of mother nature
+spun out of control. Ever dealt with hungry people? Yeh, not
+fun. Hungry people are crazy.
+
+###
+
+Global warming isn't all bad. It brings significant economic
+opportunity in addition to all the projects needed to offset
+carbon. The Paris climate treaty, once ratified, offers countries
+incentives to offset carbon dioxide, which can bring economic
+opportunity to those countries which develop technology to dissipate
+CO2. This could equate to economic stabalization, which the global
+economy would be well-served to appreciate in the age of the
+Singularity.
+
+One economic opportunity is for in the shift of East-to-West global
+trade from proceeding through the Panama Canal to proceeding through
+the arctic. Global trade is going to completely shift, but it's very
+difficult to predict precisely how. It really depends on how humanity
+shifts towards accumulating resources.
+
+The most valuable regions of geography are always centers of
+trade. That's why isreal and the Middle East were always so important
+throughout history. Control and tax trade through the middle east and
+your civilization is set for life. The existence and colonization of
+the New World changed all that. We're approaching a similar, but
+larger global economic power shift. See? Read far enough into these
+articles and you get a cookie!
+
+How is the global economy going to shift this time? That's incredibly
+difficult to predict. Two things are certain: global economic shift
+will occur much, much faster than previously in history. And secondly,
+barring civilizational collapse, humanity will begin to pull in
+resources from space. At first, those resources will arrive from
+rockets and via conventional space travel means. So this makes the
+equatorial regions of the globe more convenient centres of trade,
+since those will be the logistic centres, at least for sending
+resources to space. Since the infrastructure will already be located
+towards the equatorial region, it's likely where space-based resources
+will enter the global economy.
+
+The Arctic and Bering Strait are also incredibly strategic because, as
+the ice melts, resources in Greenland become available. No, we don't
+want to encourage this to happen faster, but it's pretty much
+inevitable, even if the ice doesnt melt. And that's a lot of
+freshwater, by the way. Greenland was formerly located elsewhere and,
+AFAIK, the petrol reserves haven't been tapped, unless maybe space
+lizards, but probably not. Further still, there are several
+mountainous regions in Greenland, especially right there at the
+top. Just trust me. Mountains sometimes means heavy elements are
+pushed up from the Earth's core. Possibly rare earth elements? Who
+knows. Boom. Cookies.
+
+What's certain is that the Northern sea routes do save distance and
+fuel cost, so state and naval control over these routes will be
+valuable. The question is how valuable. These arctic routes could just
+be a Red Herring and completely worthless. It really depends on how
+trends unfold economically and geopolitically over the next decade and
+over the next century. What's crucial is for America to employ a smart
+strategy to retain and gain influence during this geopolitical and
+global economic shift over the next decade to prepare us for the rest
+of the 21st century. So America needs to wisely and intensely research
+these opportunities to best decide where to focus our energy.
 
 <a name="a-brief-foray-into-hypothetical-canadian-canal-projects"
 
 ### [A Brief Foray into Hypothetical Canadian Canal Projects](#a-brief-foray-into-hypothetical-canadian-canal-projects)
 
-- briefly mention nouveau canal projects in Canada?
-  - to complete/shorten the northwestern passage
-    - The problem with long canals is that it's really hard to build
-      them deep enough. If you can't build them deep enough, it limits
-      the maximum barge size. Water displacement and what not. It's
-      complicated.
-  - global trade is going to completely shift, but it's very difficult
-    to predict precisely how.
-    - it really depends on how humanity shifts towards accumulating
-      resources
-  - the most valuable regions of geography are always centers of
-    trade. that's why isreal and the Middle East were always so
-    important throughout history. Control and tax trade through the
-    middle east and your civilization is set for life. The existence
-    and colonization of the New World changed all that. We're
-    approaching another similar shift. See? Read far enough into these
-    articles and you get a cookie!
-  - how is the global economy going to shift this time?
-    - incredibly difficult to predict. Two things are certain: global
-      economic shift will occur much, much faster than previously in
-      history. And secondly, barring civilizational collapse, humanity
-      will begin to pull in resources from space.
-    - at first, those resources will arrive from rockets and via
-      conventional space travel means. so this makes the equatorial
-      regions of the globe more convenient centres of trade, since
-      those will be the logistic centres, at least for sending
-      resources to space.
-    - yet, the Bering Strait is also incredibly strategic because, as
-      the ice melts, resources in Greenland become available. No, we
-      don't want to encourage this to happen faster, but it's pretty
-      much inevitable, even if the ice doesnt melt. And that's a lot
-      of freshwater, by the way. Greenland was formerly located
-      elsewhere and, AFAIK, the petrol reserves haven't been tapped,
-      unless maybe space lizards, but probably not. Further still,
-      there are several mountainous regions in Greenland, especially
-      right there at the top. Just trust me. Mountains sometimes means
-      heavy elements are pushed up from the Earth's core. Possibly
-      rare earth elements? Who knows. Boom. Cookies.
-    - What's certain is that the Northern sea routes do save distance
-      and fuel cost, so state and naval control over these routes will
-      be valuable. The question is how valuable. These arctic routes
-      could just be a Red Herring and completely worthless.
+For example, one project could include Artic sea routes that are shown
+to save time and cost.  Several Canadian canals *could* improve this
+to complete or shorten the Northwestern Passage or entry into US via
+Lake Superior, but it's unlikely. The problem with long canals is that
+it's really hard to build them deep enough. If you can't build them
+deep enough, the maximum barge size becomes a logistic
+bottleneck. Water displacement and what not. It's complicated.
+
+Also, we could invest infrastructure in displacing melting freshwater
+before it needs to be desalinization, which is a major bottleneck for
+agriculture. Whether countries have large underground aquifers,
+dependable seasonal meltwater or other sources of freshwater
+determines how much local agriculture they will support. As
+Californians are well aware, there's a drought in Los Angelos, since
+the Lake supplying freshwater to LA has dried up. This is causing
+additional environmental damage as well, since the dry lakebed
+contains pesticides which are now being blown around as dust in the
+winds.
+
+Nature is complicated and a ounce of wisdom goes a long way. Those
+local economies like Los Angelos are therefore dependent on
+desalinization and imported food. Further, they can't really export
+food. Desalinization is expensive in terms of water. This isn't a huge
+problem for California, since it's part of America's robustly
+developed economy, but dependency on desalinization is an interesting
+dimension of the climate change debate, especially Carbon
+Tax. Freshwater and arable land become crucial resources in the 21st
+century. These have been mostly taken for granted in the latter part
+of the 20th century.
 
 <a name="the-hypothetical-black-sea-outburst-flood" />
 
@@ -875,6 +976,10 @@ Countless myths concern lost cities, once great, but now sunken into
 the sea or otherwise forgotten.
 
 - mention a connection to consistent Global Warming
+
+- vanished civilization as a fresh start for a humanity who would
+  otherwise be burdened by their own sinfulness
+  - where are my notes on this?
 
 ### Doggerland
 
