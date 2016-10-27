@@ -683,10 +683,66 @@ which wasn't only experienced through the wrath of God, but also
 commonly experienced through limited warfare.  Those who built
 something and accumulated resources worth envy would need to develop
 adequate defense against their society being dismantled, physically
-and metaphysically.  One of the tools against this dismantlement is
+and metaphysically. One of the tools against this dismantlement is
 the development of myth, which ensures that cultural archetypes and
 programs survive, even if the majority of your buildings and people
 don't.
+
+
+-  (move this elsewhere)
+- ![sea levels after last glacial maximum]()
+- ![NOAA Ocean Bathymetry Map]
+
+Starting around 10,000 B.C. and around the time that the Sahara was
+forcing outward migration by transforming into a desert, the Persian
+Gulf began flooding. This conclusion is based on NOAA's ocean
+bathymetry maps and sea levels before the Copper Age. There was
+likely at least one completely unexpected catastrophe, where low-lying
+regions below sea-level were flooded as a natural dam burst. Major
+flooding may have recurred cyclically after that, as the waterline
+ancient (proto-Euprates) river basin gradually consumed the Persian
+Gulf. The depth is greatest at the mouth of the Persian Gulf and
+lowest around Bahrain and at the western and southwestern
+coastline. The gulf was mostly filled in by 5,000 B.C.
+
+- as the Persian Gulf filled in, the (proto-Euphrates) delta was
+  marshy.
+  - the region between Kuwait and Bahrain would be where people would
+    settle, as the Gulf filled up. if there was small-scale irrigate
+    and agriculture at this time, it would have occured there.
+    - was there agriculture? did they have kilns, pottery and ceramics?
+    - there are likely many sites lost to humanity in this region,
+      though the saltwater would destroy mostly everything.
+  - as the Gulf completely filled up, the traditional Fertile Crescent
+    would become much more appealing, so the people in the former
+    Persian Gulf would begin migrating inwards towards Kuwait,
+    bringing their knowledge with them.
+  - at the same time, this more limited Fertile Crescent would provide
+    lesser space. therefore, the rate of idea exchange would increase,
+    as well as the rates of commerce and conflict. This is similar to
+    the inverse of a diaspora, where random ideas had developed and
+    this minor geographic shift would force the ideas to be brought
+    inwards.
+
+- myth of Gilgamesh & Dilmun
+  -
+
+flooding of the Persian gulf during this time
+- probably happened at least once as an unexpected catastrophe
+  - then again, periodically every few hundred years
+  - these repeated experiences would have been catastrophic to early
+    civilization
+  - the pain of losing everything would have been seared into our
+    psyche
+    - IMO, this pain served as an impetus to build monolithic works
+      - if the work was big enough it would not be lost to catastrophe
+      - or disassembled by invaders
+    - by building these works, ancient leaders hoped that their
+      culture
+      - would never again be completely lost
+      - thus the origin behind the search for immortality by Egyptians
+
+
 
 Another tool against this is simply building things so big, people
 couldn't tear them apart.  This is why Egyptians entombed their prized
@@ -707,6 +763,136 @@ prevelant as the millenium during which architecture develops, which
 varies from region to region. At the emergence of architecture, man
 becomes aware of phenomenoma all but forever forgotten, once life
 becomes significantly more sophisticated.
+
+- the idea that forgetting our sinful past via civilizational reset
+  may have been helpful for mankind in the longrun (i may have already
+  covered this)
+- vanished civilization as a fresh start for a humanity who would
+  otherwise be burdened by their own sinfulness
+  - where are my notes on this?
+
+<a name="the-hypothetical-black-sea-outburst-flood" />
+
+### [The Proposed Black Sea Outburst Flood](#the-hypothetical-black-sea-outburst-flood)
+
+There's a proposed major flood around the Black Sea between the the
+6th and 8th millenium. It's known that the Black Sea was very recently
+completely freshwater, with no connection through the Bosporus. When
+the Black Sea was blocked off from the Mediterranean, it was much
+lower than sea level. A breach of the isthmus near Istanbul would lead
+to catastrophic flooding. In Turkey, there are numerous 8th millenium
+settlements like
+[Çatalhöyük](https://en.wikipedia.org/wiki/%C3%87atalh%C3%B6y%C3%BCk),
+and I'm guessing that there were many human settlements on the coast
+of the Black Sea, especially near the Danube River and other inlet
+streams. There were many Copper Age settlements within 1,000 miles of
+this area, so a demonstrated lack of settlements identified around
+this Black Sea area would be very interesting. After all, freshwater
+means fish, thirsty wildlife and simple irrigation.
+
+- there's a site what may be river erosion present in the bathymetry
+  of the Black Sea, which may be a former Danube river delta.
+
+Another explanation is that 8th millinium glacial flooding near the
+Caspian diverted large amounts of freshwater into the Black Sea. The
+most telltale sign of flooding from the Sea of Marmara would be
+diluvium near the Bosporus, extending into and beyond the extent of
+the original freshwater Black Sea. Another key indicator could be
+variations in mineral concentrations between regions of the originally
+freshwater and seawater regions of the Black Sea. One study, which
+I'll reference soon, compared deposits of cellular life near the mouth
+of the strait with those found on the seafloor.
+
+TODO: reference this study
+
+IMO, it'd be very hard for the water to naturally breach the Bosporus
+Strait when it was still an Isthmus. The Romans dug canals that were
+around a hundred miles long. Today the strait is only 17 miles
+long. It averages 65m deep If this was a natural geological feature,
+it should have cyclically flooded and reconnected several times in the
+past million years. It is not likely that it would have only once
+occured naturally in recent geological history. And thus, the Bosporus
+Strait should exhibit evidence of a geological structure that has
+flooded multiple times. As thin as the Bosporus Isthmus would have
+been, it would be more likely to flood in multiple places if it
+flooded multiple times. This could be another indication of whether
+the even happened multiple times.
+
+Perhaps an earthquake in or around the Bosporus weakened the soil
+there, or created a tsunami that, either of which could create the
+opportunity for the isthmus to flood. The
+[North Anatolian fault](https://en.wikipedia.org/wiki/North_Anatolian_Fault)
+runs around that region, so it's possible.
+
+![North Anatolian Fault](/img/posts/2016-10-26-a-speculative-history-of-humanity-calamity-echoes-through-our-psyche)
+
+- earthquake in, near bosphorus?
+  - possible tsunami that weakened the soil there?
+  - sea of marmara was landlocked up to 4000 BC
+
+One last observation is the presence of an underwater brine river in
+the Black Sea, originating from the Bosporus Strait and flowing into
+the Black Sea, forming what would be the worlds 6th largest river by
+volume.  Looking at the depth maps of the Marmara Sea, the Bosporus
+and the Black Sea, this seems strange at first.  The Bosporus is 65m
+deep on average.  Why would cold water flow up to 65 meters from a
+depth of +1000m and into the Black Sea.  On further reading, there is
+a warm current flowing in the opposite direction from the Black Sea
+into the Marmara.  This current likely draws cold, salty water up
+by convection as it enters the Marmara.
+
+- another possible source for flow through the bosporus is the
+  difference in salinity
+  - more saline water is pulled in... maybe
+  - http://www.crpg.cnrs-nancy.fr/local/cache-vignettes/L500xH186/Capture_d_ecran_2012-08-27_a_16-32-58-a6eba.jpg
+  - https://clasticdetritus.files.wordpress.com/2010/08/bosphorous.jpg
+
+[Naratuk: warfare from 10,000 BC](https://www.theguardian.com/science/2016/jan/20/stone-age-massacre-offers-earliest-evidence-human-warfare-kenya)
+
+transition from outburst floods
+
+IMO, this one can't be conclusively shown to be true, from my amateur
+take after some reading. I want it to be true because it would explain
+a lot.  And there were definitely ancient peoples in the area,
+
+... rewrite that ^^^
+
+... and maybe get rid of this vvvv
+
+using google maps, i can see the effect of erosion from an ancient danube riverbed
+- there doesn't seem to be much undersea erosion around the rest of the black sea
+  - except for the area leading from the Bosporus strait
+- at least, i think.  i don't know what i'm looking for and the data is horribly blurred
+  - also, i should see this erosion closer to the source, the Bosporus
+  - however, i really think if there were a recent outburst flood,
+    - there should be diluvian erosion patterns here
+
+- this is definitely way on the pseudoscience end, but ...
+  - the Bosporus Strait is only 17 miles long and averages at 65m deep
+    - i'm not really sure what tools it would take to use.  this is the major issue.
+    - but if there were tools available, they could have started from them middle
+      - or really just dug outward
+  - would it be impossible for this to have been one of the first engineering projects?
+    - for comparison, the Suez canal is 120 miles long
+    - the Panama canal is 50 miles long
+  - there were even ancient canal projects:
+    - many roman canal projects were of similar depth and breadth
+    - canal of the pharoahs: over 50 miles long
+      - i'll admit, the wiki page is a bit questionable
+      - it doesn't really address whether or not the project was every completed
+  - and i can tell, i'm really just trying to make this work,
+    - although, turkey and the areas surrounding really was the center of civilization
+- but it also matches up with sections from the Gilgamesh and Sumerian flood myths,
+  - stating that the gods conspired to cause the flood
+  - however, these myths were definitely centered around the Persian Gulf
+    - and around Dilmun in particular, which seems to have occupied Bahrain and
+      the area beyond Shatt-al-Arab river, the Ur-Schatt river basin
+      in the ancient Persian Gulf
+
+- what are we not seeing? in observations of discovered settlements
+  from 10,000 - 5,000 B.C., what's missing, when viewed through a
+  statistical lens? Where should people have been, even though it
+  appears we haven't discovered evidence of it and why?
 
 <a name="glacial-outburst-flooding" />
 
@@ -875,124 +1061,23 @@ Tax. Freshwater and arable land become crucial resources in the 21st
 century. These have been mostly taken for granted in the latter part
 of the 20th century.
 
-<a name="the-hypothetical-black-sea-outburst-flood" />
-
-### [The Hypothetical Black Sea Outburst Flood](#the-hypothetical-black-sea-outburst-flood)
-
-There was possibly a major flood here in the 6th or 8th
-millenium. It's known that the Black Sea was very recently completely
-freshwater, with no connection through the Bosporus.  Another
-explanation is that 8th millinium glacial flooding near the Caspian
-diverted large amounts of freshwater into the Black Sea. The most
-telltale sign of flooding from the Sea of Marmara would be diluvium
-near the Bosporus, extending into and beyond the extent of the
-original freshwater Black Sea.  Another key indicator could be
-variations in mineral concentrations between regions of the originally
-freshwater and seawater regions of the Black Sea.  One study, which
-I'll reference soon, compared deposits of cellular life near the mouth
-of the strait with those found on the seafloor.
-
-IMO, it'd be very hard for the water to naturally breach the Bosporus
-Strait when it was still an Isthmus. The Romans dug canals that were
-around a hundred miles long. Today the strait is only 17 miles
-long. It averages 65m deep If this was a natural geological feature,
-it should have cyclically flooded and reconnected several times in the
-past million years.  It is not likely that it would have only once
-occured naturally in recent geological history.  And thus, the
-Bosporus Strait should exhibit evidence of a geological structure that
-has flooded multiple times.  As thin as the Bosporus Isthmus would
-have been, it would be more likely to flood in multiple places if it
-flooded multiple times.  This could be another indication of whether
-the even happened multiple times.
-
-Perhaps an earthquake in or around the Bosporus weakened the soil
-there or somehow otherwise opened.
-
-- earthquake in, near bosphorus? the marmara fault runs through it.
-  - possible tsunami that weakened the soil there?
-  - sea of marmara was landlocked up to 4000 BC
-
-One last observation is the presence of an underwater brine river in
-the Black Sea, originating from the Bosporus Strait and flowing into
-the Black Sea, forming what would be the worlds 6th largest river by
-volume.  Looking at the depth maps of the Marmara Sea, the Bosporus
-and the Black Sea, this seems strange at first.  The Bosporus is 65m
-deep on average.  Why would cold water flow up to 65 meters from a
-depth of +1000m and into the Black Sea.  On further reading, there is
-a warm current flowing in the opposite direction from the Black Sea
-into the Marmara.  This current likely draws cold, salty water up
-by convection as it enters the Marmara.
-
-- another possible source for flow through the bosporus is the difference in salinity
-  - more saline water is pulled in... maybe
-  - http://www.crpg.cnrs-nancy.fr/local/cache-vignettes/L500xH186/Capture_d_ecran_2012-08-27_a_16-32-58-a6eba.jpg
-  - https://clasticdetritus.files.wordpress.com/2010/08/bosphorous.jpg
-
-[Naratuk: warfare from 10,000 BC](https://www.theguardian.com/science/2016/jan/20/stone-age-massacre-offers-earliest-evidence-human-warfare-kenya)
-
-transition from outburst floods
-
-IMO, this one can't be conclusively shown to be, from my amateur take
-after some reading. I want it to be true because it might explain a lot.
-And there were definitely ancient peoples in the area,
-
-... rewrite that ^^^
-
-... and maybe get rid of this vvvv
-
-using google maps, i can see the effect of erosion from an ancient danube riverbed
-- there doesn't seem to be much undersea erosion around the rest of the black sea
-  - except for the area leading from the Bosporus strait
-- at least, i think.  i don't know what i'm looking for and the data is horribly blurred
-  - also, i should see this erosion closer to the source, the Bosporus
-  - however, i really think if there were a recent outburst flood,
-    - there should be diluvian erosion patterns here
-
-- this is definitely way on the pseudoscience end, but ...
-  - the Bosporus Strait is only 17 miles long and averages at 65m deep
-    - i'm not really sure what tools it would take to use.  this is the major issue.
-    - but if there were tools available, they could have started from them middle
-      - or really just dug outward
-  - would it be impossible for this to have been one of the first engineering projects?
-    - for comparison, the Suez canal is 120 miles long
-    - the Panama canal is 50 miles long
-  - there were even ancient canal projects:
-    - many roman canal projects were of similar depth and breadth
-    - canal of the pharoahs: over 50 miles long
-      - i'll admit, the wiki page is a bit questionable
-      - it doesn't really address whether or not the project was every completed
-  - and i can tell, i'm really just trying to make this work,
-    - although, turkey and the areas surrounding really was the center of civilization
-- but it also matches up with sections from the Gilgamesh and Sumerian flood myths,
-  - stating that the gods conspired to cause the flood
-  - however, these myths were definitely centered around the Persian Gulf
-    - and around Dilmun in particular, which seems to have occupied Bahrain and
-      the area beyond Shatt-al-Arab river, the Ur-Schatt river basin
-      in the ancient Persian Gulf
-
 # Atlantis, Lemuria, Hyperborea
 
 Countless myths concern lost cities, once great, but now sunken into
 the sea or otherwise forgotten.
 
-- mention a connection to consistent Global Warming
-
-- vanished civilization as a fresh start for a humanity who would
-  otherwise be burdened by their own sinfulness
-  - where are my notes on this?
-
 ### Doggerland
 
 TODO: map of Doggerland
 
-A developed culture, usually fairly advanced that lay in the far
+(legends of) A developed culture, usually fairly advanced that lay in the far
 north.  The Greeks and Romans called called it Hyperborea. Or perhaps
 that was their name for Iceland and Greenland? Yet, Doggerland fits
 many of the mythic descriptions of Hyperborea or Atlantis.  It was
 violently flooded by a tsunami triggered by a massive glacial event
 called the Storegga Slide in 6,200 B.C.
 
-- knocked out by tsunami (Storegga Slide around 6200 BC)
+- knocked out by tsunami (caused by the Storegga Slide around 6200 BC)
   - this is probably not the only time a seaside glacier collapsed,
     triggering tsunami wipingout swaths of seaside civilization
   - however, the rest of the developing world was geographically
@@ -1013,20 +1098,6 @@ include pics from Kurt Lambeck paper (1995)
 - "Shoreline reconstructions for the Persian Gulf since the last
   glacial maximum"
 
-flooding of the Persian gulf during this time
-- probably happened at least once as an unexpected catastrophe
-  - then again, periodically every few hundred years
-  - these repeated experiences would have been catastrophic to early
-    civilization
-  - the pain of losing everything would have been seared into our
-    psyche
-    - IMO, this pain served as an impetus to build monolithic works
-      - if the work was big enough it would not be lost to catastrophe
-      - or disassembled by invaders
-    - by building these works, ancient leaders hoped that their
-      culture
-      - would never again be completely lost
-      - thus the origin behind the search for immortality by Egyptians
 - the response to flooding of the Persian gulf
   - during this time, the Tigris & Euphrates would have flowed into
     Persian Gulf area
