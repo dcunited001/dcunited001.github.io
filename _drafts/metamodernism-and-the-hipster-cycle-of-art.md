@@ -8,36 +8,145 @@ author:
 excerpt: ""
 ---
 
-i'm an aesthitician (lulz)
+So, I'm an aesthitician. Sometimes I do nails and sometimes I do hair,
+but mostly I do art. Everyone has their interpretation of art, but do
+some of us have more acuity for seeing the beauty in art? If beauty is
+in the eye of the beholder, how do we develop that ability to see it?
+Is such beauty inherint in anything? If so, are there things better
+left unseen? What determines what our mind decides to focus on?
 
-retro-modernism as an artistic movement that counters postmodernism
-and the completion of modernism ... or maybe it could be...
-- but the idea is that there's these art pieces and artforms out there that stayed
-  beneath the radar.
-  - that because "the best artists fly under the radar" the best art
-    may have gone unnoticed.
-  - it seems the evolution of art has remained strictly controlled,
-    especially in the past 2 centuries.
-    - the reason is: art expands how we think and the most popular art
-      forms the edge of things we think about. so if you control
-      what's in art and media, you kinda control how people think, in
-      a way.
-    - it takes an ungodly amount of money and influence to control
-      this kind of stuff. art and truth have a tendency to slip out.
-  - but this explains some things, like the fact that Van Gogh was
-    mostly undiscovered until after his death.
-- and so, there should be a lot of art and music out there waiting to
-  be discovered
+If the conscious layer of the mind is like the surface of water and
+thoughts are like the bubbles the subconscious allows to rise to the
+surface, then what determines what arises fully to the conscious
+layer? This is just as important to the beholder as it is the artist,
+but the artist develops an awareness of how the beholder will see
+their work. Much of what lies in our subconscious isn't worth thinking
+about, but the best artists seem to be able to swim in the depths of
+their subconscious, retrieving jewels not shaped or constrained by
+effable thought. How does one tap into that?
 
-### the best artists fly under the radar
+### (Retromodernism)
 
-the best artists fly under the radar!! they have to shield their true
-understanding of the world around them because they can be serious
-threats to those in power! those who have considerable influence (the
-level of influence and money required to prune and shape art) are
-constantly trying to identify these people. if you get identified as
-someone who's a threat to these people, they don't play nice. YOU WILL
-NOT KNOW WHAT HIT YOU.
+Once technology has eliminated the constraints to artistic medium, it
+seems the near future might present us with an artistic movement that
+reenvisions and recombinates alternate progressions of technology in
+search of alternate mediums and formats, which might have been
+popular, in some alternate timeline or formulation of reality. What
+would art look like if industrialization emerged from India or
+elsewhere in the 18th century, finally spreading modernization to
+Europe? If modernization emerged and converged in some way that
+changed the order and regions in which technologies became available,
+how would that have changed the qualities of artistic mediums? E.G. if
+photoshop was available before and without radio, how would that
+affect the nature of print medium? The progression of art, mediums and
+techniques surely would shape it's prevelance and evolution, so what
+if that were different in some way? How would we think about the past
+today if some seemingly trivial aspects differed slightly?
+
+We may see an resurgance in interest in revisiting the 19th and
+especially 20th century tech and ideas to find hidden gems, rare art
+and recombinant forms of such. We already see this in steampunk and
+elsewhere, but for the purposes of this article, I'll refer to it as
+retromodernism. I apologize for inventing a word. While awareness of
+differentiation and quality of ideas is important, I'm not fond of
+arbitrary division and distinction between ideas, so who am I to
+create another? And really ... who am I to try to define a concept
+such retromodernism?
+
+Much of the art produced to reflect this idea would be encumbered by
+stilted constraints imposed by the artist, but if some retromodernism
+formulations seem natural enough to avoid lengthy explanation, we'd
+see some very interesting art indeed. Further, this would help us
+understand the general nature of alternate progressions of technology
+in the near future, as we approach the Singularity.
+
+### The Best Artists Fly Under the Radar!!
+
+Many artists remained unknown until their death, never tasting the
+fruits of success, recognition or fame. Van Gogh is a great
+example. Is this necessary to their faculties of vision and reflection
+as an artist? In many ways, it does reinforce this. It's ironic that
+success and fame might alter the potential of an artist, but it
+clearly has time and time again. Without awareness, it distorts the
+way they see things and grants them things which deprive them of the
+challenges that helped them originally develop their ability and
+vision.
+
+Success and fame cause us to become attached to them. We fear
+their loss and then choose to don restrictive social norms and
+conventions, which begins to couple us to those things which we
+originally distinguished ourselves from. IMO, it is what is unique
+which is beautiful and intriguing. When art makes us think, that
+forces us to invest time and energy in understanding it, which fosters
+appreciation for that work. An artist constrained by society will
+produce works that reflect that. Whether it's a painting or novel or
+film or video game, art that isn't distinguishable doesn't seem to
+require as much thought for us to understand.
+
+In many ways art represents the frontiers of inner space. Artists are
+like astronauts who explore their own subconscious depths as well as
+the expanse of cultural artifacts and ideas. The rich and powerful
+defend the status quo because it makes them comfortable. They also buy
+art. You aren't going to sell much art if you're trying to sell it at
+a shelther for the homeless. Art expands how we think and the most
+popular art forms the edge of things we think about. Still, art and
+truth have a tendency to slip out and have a powerful effect on how
+people think. This changes the status quo. And so, the progression of
+art is influenced by the idiosyncrasies in the market for art, whether
+it's visual art, corporate art, literary or cinematic art.
+
+### Oh Snap! We Got A Smart One Over Here!
+
+The best artists fly under the radar!! Quite often, they have to
+shield their true understanding of the world around them because they
+can be serious threats to those in power! That doesn't mean there are
+men in black out there snuffing starving artists. Instead, you'll find
+that the rich and powerful will tend to redirect your energy through
+allures of money and positions of influence. As someone who's
+struggling, it's hard for the artist and author to resist, but not
+everyone is Mozart. Those who have considerable influence and way too
+much of other people's time on their hands want to identify these
+people early on.
+
+The artists who are just lucky and don't fully understand their
+work won't feel as commited to forego selling out to protect the
+authenticity of their work. But the true genius will endure hard
+poverty for his work because he believes his message is worth the
+effort. This is true of many other facets of life. Great parents may
+forsake opportunities or distractions to ensure they devote themselves
+fully to their family because they embody a belief that nothing is
+more important than their family. So they instead seek humility and
+stability. Raising a family isn't easy, so I don't mean to cast
+judgement on anyone.
+
+Let me apologize in advance for the impending conspiratorial
+statements. The point is -- if you are an artist or philosopher who's
+ideas threaten the status quo, you'll find yourself on a relevatory
+path of suffering for truth, assaulted on all sides by distractions,
+frenemies poisoned against you and outright malevalent forces. If you
+make it too far, but refuse to give in, there may be powerful forces
+who seek to get you off that path by any means necessary. It is most
+effective to do so by offering you a career opportunity and
+essentially buying you off, but really they want to keep you busy and
+keep you close, while appearing to be your friend. They don't seek to
+become overt enemies and "they" aren't exactly evil, cigar-smoking,
+men in suits. But beware, if you are a true threat in any big way, the
+people on the top of that pyramid of power do not play nice. You will
+not know what hit you. Usually, they start with a metaphorical
+gift-basket though.
+
+###
+
+The tendency and perhaps necessity for great artists to remain unseen
+implies that there should be much undiscovered art. Somewhere out in
+that wide world, there lies a vast, hipster paradise, a veritable
+elephant graveyard where starving artists go to die in peace as
+stubborn, but joyful paupers. So, as technology expands our ability to
+create, while inevitably diminishing the space of the uncreated, we
+may become more interested in finding those pieces otherwise lost to
+the deafening roar of industrialization and consumerism.
+
+>
 
 - so the best artists have the technical capability to hide their true
   vision.

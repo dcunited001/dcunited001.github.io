@@ -22,7 +22,7 @@ As I stated in the last article, this writing represents my personal
 thoughts on human history from the Neolithic through the Bronze Age
 and it shouldn't be taken as fact or reflect my understanding of
 historical facts.  It's titled "A Speculative History" for a reason.
-I hope to provide a good story and possibly spark your interest.  If I
+I hope to provide a good story and possibly spark your interest. If I
 do, follow up with some research yourself.
 
 # [Pre-Historic Written Language](#prehistoric-written-language)
@@ -532,6 +532,9 @@ carbon dating.
 
 # [The Origin of Religion](#the-origin-of-religion)
 
+TODO: reference nature of god (mention that writing this post sparked
+me to write that one)
+
 Without widespread, organized religion, there were no other
 ideological causes for warfare at this point in history. Without the
 cultural infrastructure to spread religion or without the need for a
@@ -688,62 +691,6 @@ the development of myth, which ensures that cultural archetypes and
 programs survive, even if the majority of your buildings and people
 don't.
 
-
--  (move this elsewhere)
-- ![sea levels after last glacial maximum]()
-- ![NOAA Ocean Bathymetry Map]
-
-Starting around 10,000 B.C. and around the time that the Sahara was
-forcing outward migration by transforming into a desert, the Persian
-Gulf began flooding. This conclusion is based on NOAA's ocean
-bathymetry maps and sea levels before the Copper Age. There was
-likely at least one completely unexpected catastrophe, where low-lying
-regions below sea-level were flooded as a natural dam burst. Major
-flooding may have recurred cyclically after that, as the waterline
-ancient (proto-Euprates) river basin gradually consumed the Persian
-Gulf. The depth is greatest at the mouth of the Persian Gulf and
-lowest around Bahrain and at the western and southwestern
-coastline. The gulf was mostly filled in by 5,000 B.C.
-
-- as the Persian Gulf filled in, the (proto-Euphrates) delta was
-  marshy.
-  - the region between Kuwait and Bahrain would be where people would
-    settle, as the Gulf filled up. if there was small-scale irrigate
-    and agriculture at this time, it would have occured there.
-    - was there agriculture? did they have kilns, pottery and ceramics?
-    - there are likely many sites lost to humanity in this region,
-      though the saltwater would destroy mostly everything.
-  - as the Gulf completely filled up, the traditional Fertile Crescent
-    would become much more appealing, so the people in the former
-    Persian Gulf would begin migrating inwards towards Kuwait,
-    bringing their knowledge with them.
-  - at the same time, this more limited Fertile Crescent would provide
-    lesser space. therefore, the rate of idea exchange would increase,
-    as well as the rates of commerce and conflict. This is similar to
-    the inverse of a diaspora, where random ideas had developed and
-    this minor geographic shift would force the ideas to be brought
-    inwards.
-
-- myth of Gilgamesh & Dilmun
-  -
-
-flooding of the Persian gulf during this time
-- probably happened at least once as an unexpected catastrophe
-  - then again, periodically every few hundred years
-  - these repeated experiences would have been catastrophic to early
-    civilization
-  - the pain of losing everything would have been seared into our
-    psyche
-    - IMO, this pain served as an impetus to build monolithic works
-      - if the work was big enough it would not be lost to catastrophe
-      - or disassembled by invaders
-    - by building these works, ancient leaders hoped that their
-      culture
-      - would never again be completely lost
-      - thus the origin behind the search for immortality by Egyptians
-
-
-
 Another tool against this is simply building things so big, people
 couldn't tear them apart.  This is why Egyptians entombed their prized
 possessions and designed them to be hidden for millennia.  I believe
@@ -764,24 +711,90 @@ varies from region to region. At the emergence of architecture, man
 becomes aware of phenomenoma all but forever forgotten, once life
 becomes significantly more sophisticated.
 
+<a name="unbound-by-a-sinful-past-drowned-by-the-mists-of-time" />
+
+### [Unbound by a Sinful Past Drowned by the Mists of Time](#unbound-by-a-sinful-past-drowned-by-the-mists-of-time)
+
+An idea's been floating around in my mind as of late:
 - the idea that forgetting our sinful past via civilizational reset
   may have been helpful for mankind in the longrun (i may have already
   covered this)
 - vanished civilization as a fresh start for a humanity who would
   otherwise be burdened by their own sinfulness
   - where are my notes on this?
+  - note that in the myth of Gilgamesh, the gods conspired to create
+    the flood to destroy mankind. It was through the disobedience of
+    one god (who overheard?) that man was warned.
+
+- (move this elsewhere)
+- ![sea levels after last glacial maximum]()
+- ![NOAA Ocean Bathymetry Map]
+
+### Persian Gulf
+
+- myth of Gilgamesh & Dilmun
+
+Starting around 10,000 B.C. and around the time that the Sahara was
+forcing outward migration by transforming into a desert, the Persian
+Gulf began flooding and filling in. This conclusion is based on NOAA's
+ocean bathymetry maps and sea levels before the Copper Age. There was
+likely at least one completely unexpected catastrophe, where low-lying
+regions below sea-level were flooded as a natural dam burst. Major
+flooding may have recurred cyclically after that, as the waterline
+ancient (proto-Euprates) river basin gradually consumed the Persian
+Gulf. The depth is greatest at the mouth of the Persian Gulf and
+lowest around Bahrain and at the western and southwestern
+coastline. The gulf was mostly filled in by 5,000 B.C.
+
+- as the Persian Gulf filled in, the (proto-Euphrates) delta was still
+  marshy.
+  - the region between Kuwait and Bahrain would be where people would
+    settle, as the Gulf filled up. if there was small-scale irrigate
+    and agriculture at this time, it would have occured there.
+    - was there agriculture? did they have kilns, pottery and ceramics?
+    - there are likely many sites lost to humanity in this region,
+      though the saltwater would destroy mostly everything.
+  - as the Gulf completely filled up, the traditional Fertile Crescent
+    would become much more appealing, so the people in the former
+    Persian Gulf would begin migrating inwards towards Kuwait,
+    bringing their knowledge with them.
+  - at the same time, this more limited Fertile Crescent would provide
+    lesser space. therefore, the rate of idea exchange would increase,
+    as well as the rates of commerce and conflict. This is similar to
+    the inverse of a diaspora, where random ideas had developed and
+    this minor geographic shift would force the ideas to be brought
+    inwards.
+
+flooding of the Persian gulf during this time
+- probably happened at least once as an unexpected catastrophe
+  - then again, periodically every few hundred years
+  - these repeated experiences would have been catastrophic to early
+    civilization
+  - the pain of losing everything would have been seared into our
+    psyche
+    - IMO, this pain served as an impetus to build monolithic works
+      - if the work was big enough it would not be lost to catastrophe
+      - or disassembled by invaders
+    - by building these works, ancient leaders hoped that their
+      culture
+      - would never again be completely lost
+      - thus the origin behind the search for immortality by Egyptians
 
 <a name="the-hypothetical-black-sea-outburst-flood" />
 
 ### [The Proposed Black Sea Outburst Flood](#the-hypothetical-black-sea-outburst-flood)
 
 There's a proposed major flood around the Black Sea between the the
-6th and 8th millenium. It's known that the Black Sea was very recently
-completely freshwater, with no connection through the Bosporus. When
-the Black Sea was blocked off from the Mediterranean, it was much
-lower than sea level. A breach of the isthmus near Istanbul would lead
-to catastrophic flooding. In Turkey, there are numerous 8th millenium
-settlements like
+6th and 8th millenium, known as the
+[Black Sea Deluge Hypothesis](https://en.wikipedia.org/wiki/Black_Sea_deluge_hypothesis)
+Until recently, the Black Sea was mostly freshwater, with no
+connection through the Bosporus. It's likely this is a cyclical
+phenomenon. Over millenia with no connection to the Meditteranean
+during ice ages, the water level drops dramatically. The cyclical
+nature of this phenomenon makes it a bit hard to measure and predict
+exactly how the flooding occurs. A breach of the isthmus near Istanbul
+would lead to catastrophic flooding. In Turkey, there are numerous 8th
+millenium settlements like
 [Çatalhöyük](https://en.wikipedia.org/wiki/%C3%87atalh%C3%B6y%C3%BCk),
 and I'm guessing that there were many human settlements on the coast
 of the Black Sea, especially near the Danube River and other inlet
@@ -967,22 +980,56 @@ problem is economic and political chaos as a result of mother nature
 spun out of control. Ever dealt with hungry people? Yeh, not
 fun. Hungry people are crazy.
 
-###
+<a name="global-warming-yields-economic-opportunity" />
 
-Global warming isn't all bad. It brings significant economic
-opportunity in addition to all the projects needed to offset
-carbon. The Paris climate treaty, once ratified, offers countries
+### [Global Warming Yields Economic Opportunity](#global-warming-yields-economic-opportunity)
+
+Global warming isn't all bad. It may seem counterintuitive, but global
+warming brings significant economic opportunity in addition to all the
+projects needed to offset carbon and to clean up pollution. My
+personal problem with these projects is that they mostly only make
+sense if they are government-funded. It requires tax-funded government
+spending, which requires that industry offset the costs of such
+projects. Just because the government can fund it and it means jobs
+for people, doesn't mean it adds value to the economy in the same way
+as (TODO: authentic) industry.
+
+However, the Paris climate treaty, once ratified, offers countries
 incentives to offset carbon dioxide, which can bring economic
 opportunity to those countries which develop technology to dissipate
 CO2. This could equate to economic stabalization, which the global
 economy would be well-served to appreciate in the age of the
-Singularity.
+Singularity. Trust me, the idea of a carbon tax makes me a bit
+nauseous as a conservative. I have a lot of opinions to offer and
+there are a lot of opportunities for those in the know on climate
+change policy. We have to do something about climate change and there
+are pro's and con's for industry, even with a carbon tax.
 
-One economic opportunity is for in the shift of East-to-West global
-trade from proceeding through the Panama Canal to proceeding through
-the arctic. Global trade is going to completely shift, but it's very
-difficult to predict precisely how. It really depends on how humanity
-shifts towards accumulating resources.
+<a name="bracing-for-a-geoeconomic-power-shift" />
+
+### [Bracing for a Geoeconomic Power Shift](#bracing-for-a-geoeconomic-power-shift)
+
+There's an upcoming powershift. You can see the roots of change in the
+South China Sea. Why is this region so important? The South China Sea
+connects the Far East to the burgeoning economy of India, which is
+about to develop. IMO, India is different than China in that it's
+developing at a slightly different time and is less likely to lean on
+external demand for industry as it powers through it's next phase of
+industrialization. However, China's own economy is slowing down. Or at
+least its GDP growth rate is. It's hard to expect double digit GDP
+growth rates for four decades, so that's impressive enough as it is,
+but it means that China needs to find demand for its industry via
+external consumerism and trade will increase through the South China
+Sea around Malaysia and to India, which is why China is asserting that
+it has exclusive rights to the EEZ that the Hague ruled on for the
+Phillipines.
+
+There's an alternate scenario that might play out. Some of that
+East-to-West global trade proceeding through the Panama Canal could
+shift to proceed through Arctic sea lanes, which provide a much faster
+trek to Europe and some parts of Canada. Global trade is going to
+completely shift, but it's very difficult to predict precisely how. It
+really depends on how humanity shifts towards accumulating resources.
 
 The most valuable regions of geography are always centers of
 trade. That's why isreal and the Middle East were always so important
