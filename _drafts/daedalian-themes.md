@@ -1,3 +1,12 @@
+---
+title: "If I Had the Chops to Write My Daedalian Magnum Corpus: Themes"
+categories: "blog"
+tags: "philosophy literature"
+headline: ""
+author:
+  name: "David Conner"
+excerpt: ""
+---
 
 ghost in the shell style vid
 
@@ -444,7 +453,7 @@ you're S.O.L. cuz you don't have enough explosions.
   - prometheus, fire & immortality
   - the trickster tricks the devil
   - the archetypical mystic disguised as a beggar
-- the idiot savant whose battles are won through serendipity luck and purity
+- the idiot savant whose battles are won through serendipity, luck and purity
   - the nature of such serendipity
     - especially as contrasted with the sociopath's meticulous planning
       and strategic, obsequious behavior
@@ -525,7 +534,7 @@ you're S.O.L. cuz you don't have enough explosions.
   - especially when done so out of ignorance
   - when naivety elucidates innocence, revealing deception to all
     - socratic method
-- causality and guilt: if ignorance is blissm, how does knowledge
+- causality and guilt: if ignorance is bliss, how does knowledge
   affect our Karma (intent/knowledge/consequences)
 - justice dispensed secretly, through conspiracy.
   - i plead the 6th

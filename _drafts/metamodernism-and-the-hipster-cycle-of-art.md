@@ -233,20 +233,30 @@ vision. They have the acuity to develop a vision in the first place.
 And some of these people may have understood that, to truly push out
 their ideas, they may have needed to hide them in plain sight, within
 their work. Therefore, they must also understand how to encode these
-kinds of symbols and messages.
+kinds of symbols and messages. The person capable of the above: they
+are usually capable of success. If security and stability doesn't
+stray them from their path, then fame & fortune will tempt them. It
+tempted me, but I had experienced so much suffering and sacrifice to
+retain the freedom to speak freely that I wasn't willing to allow
+myself to be sold out. I suffered for the ability to speak my mind and
+to speak the truth as I saw it and only later realized the cause of my
+pain. I wasn't willing to sell out or become a mockery of what I
+suffered for.
 
-  - and, most of all, the person capable of those things above, they
-    are usually capable of success. fame & fortune will tempt them. it
-    tempted me, but i had experienced so much pain in my life, i
-    wasn't willing to allow myself to be "nerfed" or bought out.
-    - I SUFFERED FOR TRUTH. I DIDN'T SUFFER TO BECOME A MOCKERY OF THE
-      THINGS I SUFFERED FOR!
-  - ... anyways, these artists, the one's you're looking for, they
-    have to have the ability to obtain fame/fortune, but look past
-    it.
+
+These artists, the ones you're looking for, are able to withstand the
+initial temptation of fame & fortune. Often, they reach such heights
+only after it is inevitable that their work brings such attention, but
+they are less susceptible to being changed by it. That's difficult,
+especially since it changes those around you. And if you are in such a
+position, it stems from being yourself. You're marketing yourself and
+people want the authentic you, but it's incredibly hard to maintain
+that.
 
 Quite simply, the best artists value the truth and authenticity of
-their art more than anything else in the world!
+their art more than anything else in the world. They know what it is
+that they have and why people respond the way they do to their
+personality or work.
 
 ### technical prowess of artists compared to popularity
 
@@ -257,16 +267,17 @@ something if it becomes mainstream. Art and music risk losing some
 truth or aspect of themselves, once they extend beyond a circle of
 people who truly understand it.
 
-- music which can only be fully enjoyed by those with the right
-  headphones is less marketable. there are lots of songs out there,
-  for which you can only truly experience what the artist intended if
-  you have a high quality headphones
-  - this makes it inherently less marketable
-  - yet, at the same time, more artistic. if you're an artist and
-    you're making music with this in mind, then by embracing your
-    artform (creative, hard-to-pick-up music production techniques),
-    then you have to accept that you're probably not going to be
-    successful, since it's less marketable.
+(TODO: find examples of such music)
+
+Music which can only be fully enjoyed by those with the right
+headphones is less marketable. There are lots of songs out there, for
+which you can only truly experience what the artist intended if you
+have a high quality headphones. This makes it inherently less
+marketable. Still, at the same time, more artistic. If you're an
+artist and you're making music with this in mind, then by embracing
+your artform with creative, hard-to-hear music production techniques,
+you have to accept that you're probably not going to be successful,
+since it's less marketable.
 
 ### The best artists must choose b/w success and art
 
