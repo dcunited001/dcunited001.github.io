@@ -37,7 +37,8 @@ create my own work, how could I recreate that magical moment?
 Over time, your answers to questions like these will change as you
 learn more about life.  So if you do not capture your reactions
 authentically and as they happen, you're likely to lose touch with
-that part of yourself that you embodied at that time.
+that part of yourself that you embodied at that time. This and other
+sweet zens are sure to follow.
 
 ## What Is Your Message?
 
@@ -47,7 +48,7 @@ that if you didn't write something down, that it might be months or
 years before you have the same thought? That it might be some time
 before anyone else is viewing a subject through that particular
 perspective? Perhaps, months, years or maybe never? ... Though,
-obviously, not every thing I think of is revolutionary
+obviously, not every thing I think of is revolutionary.
 
 ### What Is Your Story & Why?
 
