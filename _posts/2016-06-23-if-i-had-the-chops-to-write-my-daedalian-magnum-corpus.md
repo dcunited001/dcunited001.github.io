@@ -56,9 +56,9 @@ that's meaningful to people from all walks of life?  How well do you
 really know people?  Are there really "types" of people or is each
 person their own brilliant, perfect self?  What makes them laugh, cry
 or come to understand something they couldn't before?  Better yet,
-what if your story allowed someone to understand things that, for the
-first time, they had been missing out on some crucial aspect of life?
-Or that perhaps everyone has.
+what if your story allowed someone to understand things for the first
+time, that they had otherwise been missing out on? Some crucial aspect
+of life? Or something that perhaps everyone has missed in life.
 
 ### Extrapolating and Intermeshing from Core Ideas
 
