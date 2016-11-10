@@ -60,7 +60,7 @@ see some very interesting art indeed. Further, this would help us
 understand the general nature of alternate progressions of technology
 in the near future, as we approach the Singularity.
 
-### The Best Artists Fly Under the Radar!!
+### The Best Artists Fly Under the Radar
 
 Many artists remained unknown until their death, never tasting the
 fruits of success, recognition or fame. Van Gogh is a great
@@ -108,6 +108,11 @@ everyone is Mozart. Those who have considerable influence and way too
 much of other people's time on their hands want to identify these
 people early on.
 
+> It is not the rich man you should properly call happy, but him who
+> knows how to use with wisdom the blessings of the gods, to endure
+> hard poverty, and who fears dishonor worse than death, and is not
+> afraid to die for cherished friends or fatherland.
+
 The artists who are just lucky and don't fully understand their
 work won't feel as commited to forego selling out to protect the
 authenticity of their work. But the true genius will endure hard
@@ -123,17 +128,94 @@ Let me apologize in advance for the impending conspiratorial
 statements. The point is -- if you are an artist or philosopher who's
 ideas threaten the status quo, you'll find yourself on a relevatory
 path of suffering for truth, assaulted on all sides by distractions,
-frenemies poisoned against you and outright malevalent forces. If you
-make it too far, but refuse to give in, there may be powerful forces
-who seek to get you off that path by any means necessary. It is most
-effective to do so by offering you a career opportunity and
+frenemies poisoned against you and outright malevalent forces.
+
+#### Oh Hey, Look! It's Mara! Do You Think She'd Like Some Tea?
+
+![Buddha and Mara](/img/posts/metamodernism-and-the-hipster-cycle-of-art/mara.jpg)
+
+If you make it too far, but refuse to give in, there may be powerful
+forces who seek to get you off that path by any means necessary. It is
+most effective to do so by offering you a career opportunity and
 essentially buying you off, but really they want to keep you busy and
 keep you close, while appearing to be your friend. They don't seek to
 become overt enemies and "they" aren't exactly evil, cigar-smoking,
 men in suits. But beware, if you are a true threat in any big way, the
 people on the top of that pyramid of power do not play nice. You will
 not know what hit you. Usually, they start with a metaphorical
-gift-basket though.
+gift-basket though. Hey, look! Wine and chocalates! If you're lucky,
+you'll have some mimosas. Perhaps some brunch and coffee.
+
+The very best artists know that they'll be presented with an assault
+of enticing distractions. They are well aware that great art is
+mystifying. Moreover, they have the capacity to develop a unique
+vision or message, but they are familiar enough with it and other
+ideas to understand that their ideas may be dangerous. For example,
+not to say I'm an example of this class of UG Artist, but I know that
+I can't post my blogs on Reddit or my account will be deleted. The
+[/r/philosophy](https://r/philosophy) and
+[/r/askphilosophy](https://reddit.com/r/askphilosophy) mods told me
+so. Yep, I can't even "AskPhilosophy" bro!
+
+This class of artist realizes that (1) the conventional critic or
+consumer isn't going to understand and (2) if someone doesn't
+understand, it may ultimately threaten the artist's quest for truth
+and realization of vision. Thus, to this end and in pursuit of
+mystification, the great artist learns to encode their work with a
+vaporous shroud of enigma. In this way, if the art truly merits
+criticism and study, then those who meditate on the piece long enough
+may unlock the truth.
+
+Sidenote: I wish I could do this with my own work, but I'm plagued by
+the sensation that I'm running out of time, which is a blessing and a
+curse. It doesn't help much when the people around me don't seem to
+care about my pursuits, writing or business. Also, I think it's
+interesting to expose my drafts on Github, as it exposes the thinking
+and writing process a bit. Typically, showing others unfinished work
+is a major mistake, but in my case, SOMETHING IS BETTER THAN NOTHING
+AND I HAVE ALOT TO OFFER! If I upload drafts of my work early on, then
+no one can steal my work while I'm in the process of writing with no
+means to sustain my work and constantly assaulted by efforts to
+distract me from ever becoming anything or ever accumulating a
+legacy. I'd prefer not to vanish without a trace...
+
+So, the great artist knows they might have to suffer for their work
+and they are more than willing to do so, not out of a sense that doing
+so might mean they become more successful, but because it is
+worthwhile. If the great artist had acuity for great art and thought
+there wasn't much value to their own work, they wouldn't be so eager
+to expend energy and endure hardship to pursue their work. On the
+other hand, they know that excessive success may change them or draw
+too much attention to early work, possibly forcing them to abstain
+from expressing ideas that threaten the status quo. It's de facto
+censorship. If you're too attached to wealth or fame, you'll censor
+yourself. If the great artist knows this and purposefully flies under
+the radar, then it gives him or her more time to produce more work,
+hoping it will be discovered later. Or perhaps the artist isn't
+attached to whether or not the work will become widely known after
+their death.
+
+As for me, I finally recognized that I had great ideas and just how
+different they were. By the time I did, I had already sought to
+suppress expression of everything I knew because I feared that hidden
+elements in the world would lash back at me. However, the world seems
+to have done just that and I when I began publishing, I never got a
+bigger rise out of people who wanted to shut me up. I'm not sure why,
+since I was writing treatises on the humanities: linguistics,
+philosophy, psychology and sociology. Maybe I got too close to some
+esoteric topics. Still, getting this mostly insinuated and passive
+aggressive reaction was as close as I came to satisfaction from a
+project and it was more accesible than apps and programming libs.
+
+I uploaded my drafts recently and now my updates are posted to cloud
+prematurely to ensure that I don't end up vanishing without a trace or
+legacy. Over the past decade, I might have been naive, boisterous, and
+ironically undereducated, but I learned a lot and while it seems that
+I produced little to nothing, I have spent so much time thinking and
+philosophizing. I've felt deprived of opportunities and perhaps
+tormented by a handful of people, which forced me into isolation,
+where I quietly build out magnificent edifaces in my mind. I don't
+want to be so attached to what I've created, but I've ..
 
 ###
 
@@ -143,19 +225,16 @@ that wide world, there lies a vast, hipster paradise, a veritable
 elephant graveyard where starving artists go to die in peace as
 stubborn, but joyful paupers. So, as technology expands our ability to
 create, while inevitably diminishing the space of the uncreated, we
-may become more interested in finding those pieces otherwise lost to
-the deafening roar of industrialization and consumerism.
+may become more interested in finding those pieces otherwise buried
+beneath the deafening roar of industrialization and consumerism.
 
->
+So, the best artists have the technical capability to hide their true
+vision. They have the acuity to develop a vision in the first place.
+And some of these people may have understood that, to truly push out
+their ideas, they may have needed to hide them in plain sight, within
+their work. Therefore, they must also understand how to encode these
+kinds of symbols and messages.
 
-- so the best artists have the technical capability to hide their true
-  vision.
-  - they have the acuity to develop a vision in the first place
-  - and some of these people may have understood that, to truly push
-    out their ideas, they may have needed to hide them in plain sight,
-    within their work.
-    - therefore, they must also understand how to encode these kinds
-      of symbols and messages.
   - and, most of all, the person capable of those things above, they
     are usually capable of success. fame & fortune will tempt them. it
     tempted me, but i had experienced so much pain in my life, i
@@ -166,17 +245,17 @@ the deafening roar of industrialization and consumerism.
     have to have the ability to obtain fame/fortune, but look past
     it.
 
-quite simply, the best artists value the truth and authenticity of
+Quite simply, the best artists value the truth and authenticity of
 their art more than anything else in the world!
 
 ### technical prowess of artists compared to popularity
 
-this is just some observations on music and art that led to some
-interesting insights. some music and art/artforms needs to stay
-underground. even if it wasn't made for mainstream appeal, it "loses"
-something if it becomes mainstream. or risks losing some truth or
-aspect of itself, if it extends beyond a circle of people who truly
-understand it.
+Here are some observations on music and art that may lead to
+interesting insights. Some music, art and artforms need to stay
+underground. Even if it wasn't made for mainstream appeal, it loses
+something if it becomes mainstream. Art and music risk losing some
+truth or aspect of themselves, once they extend beyond a circle of
+people who truly understand it.
 
 - music which can only be fully enjoyed by those with the right
   headphones is less marketable. there are lots of songs out there,

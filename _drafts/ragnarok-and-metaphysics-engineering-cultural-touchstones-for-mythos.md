@@ -209,6 +209,12 @@ I'm sure there are Theology PhD's all over the world that have written
 dissertations on this topic or similar ones. Studying Ragnarok would
 be Eschatology and there's probably a name for this such study.
 
+- signs & morphemes from zipf's distribution on language.
+  - and also signs
+- top 500 words/morphemes to learn in any new language are a great
+  start for enumerating a list of mappable symbols
+
+
 # Examples of Systems of Symbols
 
 So when constructing myths, what are examples of systems of signs,

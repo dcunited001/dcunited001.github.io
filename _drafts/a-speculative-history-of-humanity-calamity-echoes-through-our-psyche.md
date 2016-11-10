@@ -15,8 +15,8 @@ excerpt: ""
 There aren't very many people quite yet. *Fuck!* (imperative joke)
 
 Lets be real: up to this point, humanity has been sticking to the
-rivers and lakes that it's used to.  But that's all about to change.
-Things are starting to heat up.  Literally.
+rivers and lakes that it's used to. But that's all about to change.
+Things are starting to heat up. Literally.
 
 As I stated in the last article, this writing represents my personal
 thoughts on human history from the Neolithic through the Bronze Age
@@ -64,7 +64,6 @@ do, follow up with some research yourself.
 ### [Lake Agassiz Glacial Outburst Flood](#lake-agassiz-glacial-outburst-flood)
 
 ### [Global Warming is a Ten Thousand Year Trend](#global-warming-is-a-ten-thousand-year-trend)
-
 
 <a name="prehistoric-written-language" />
 
