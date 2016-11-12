@@ -147,9 +147,9 @@ going to drive the internal dialogue of your readers and hopefully any
 external discussion they have as well.  After all, art is much less so
 what it is in itself and more so the sum of what it inspires in us.
 There is no such thing as a "finished" work of art.  And thus, works
-that doesn't drive a dialogue, works that don't make us ask new
+that don't drive a dialogue and works that don't make us ask new
 questions or provide a new light with which to revisit old modes of
-thinking, these works just don't have as much depth.  They are flat.
+thinking: these works just don't have as much depth. They are flat.
 
 ### Timeless and Universal Themes
 

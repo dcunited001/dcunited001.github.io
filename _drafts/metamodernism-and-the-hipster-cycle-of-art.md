@@ -279,87 +279,140 @@ your artform with creative, hard-to-hear music production techniques,
 you have to accept that you're probably not going to be successful,
 since it's less marketable.
 
-### The best artists must choose b/w success and art
+### The Best Artists Must Choose Between Success and Art
 
-- in other words, sometimes the more proficient artists
-  necessarily must choose between success and art.
-  - therefore (& quite often) mainstream success is at odds with
-    artistic expression. this doesn't mean that mainstream artists
-    aren't good artists.
-- however, this implies that, over the 20th and 21st century, there
-  should be plenty of artists or artforms which completely avoided
-  mainstream notice.
-  - artforms based on transient technology should be especially
-    interesting. that is those artforms based on tech that was only
-    around for a few years or perhaps in some alternate universe
+In other words, because the better artist can encode their message
+utilizing more obscure and hard-to-ascertain means and because it's
+necessary for the best art to fly under the radar, then the more
+proficient artists must necessarily choose between success and
+art. Therefore, and quite often, mainstream success is at odds with
+artistic expression. This doesn't mean that mainstream artists aren't
+good artists. However, it implies that, over the 20th and 21st
+century, there should be plenty of artists or artforms which
+completely avoided mainstream notice. That is, some of the best art
+was a bit too camouflaged. It stayed hidden.
+
+These artforms based on technology that was only around for a few
+years or those formulations of art which would've only occured in some
+alternate universe: these should contain some hidden gems that have
+been otherwise completely missed. It's not too hard to imagine that in
+the age of modernization, amidst the roar of globalization's
+mainstream media, that some truth and beauty of our development lays
+still unnoticed, perhaps for eternity.
 
 ### Felling on Deaf Ears
 
-- (recap) there are so many audio engineering techniques that would be lost on
-  those not listening with a critical ear.
-  - to the same point, there are many creative techniques that enrich
-    audio or visual art that are totally lost to most, except
-    trained/experienced critics
-- therefore, in terms of becoming popular or achieving mainstream
-  success, none of those techniques are going to help you sell art,
-  but they require more effort: orders of magnitude more work
-  - and truly, the best artists produce work that's like an
-    onion. every time you experience you peel away what turns out to
-    be the surface of some amazing new layer you hadn't imagined
-- and so, the best art is necessarily underground and there's a group
-  of "hipster" critics who pride themselves on understanding those
-  sensory delicacies most often lost.
-  - these critics share their tastes with their friends and as they
-    do, that art grows slightly in popularity.
-    - and so does the general appreciation of what makes that art
-      "good" that can be recognized by listeners/people
-    - the selection of underground artforms & symbols recognized by
-      someone forms a kind of map that can speak volumes on who they
-      are. (esotericism) this applies especially when they are unaware
-      of the significance of some symbols
+Back to audio engineering, there are so many production techniques
+that would be lost on those not listening with a critical ear. To the
+same point, many creative techniques enrich audio or visual art which
+are totally lost to most, except to those who listen with a critical
+ear. Therefore, in terms of becoming popular or achieving mainstream
+success, none of those techniques are going to help you sell art, but
+they require more effort: sometimes orders of magnitude more time or
+cost.
+
+Truly, the best artists produce work that's like an onion. every time
+you experience you peel away what turns out to be the surface of some
+amazing new layer you hadn't imagined. Sometimes you cry. The best is
+when art hits you with a wave of truly unexpected emotion as a result
+of a revolution in how you see some aspect of their work's
+object. i.e. PS I Love You (just trust me) In that case and in others,
+the art led me to see something that I could have never expected
+myself. Perhaps I would have never experienced it .... Chick flicks,
+amiright?
+
+And so, the best art is necessarily underground. It's easy to
+miss. It's not popular. Sometimes it's downright subversive, which is
+why the artists painting with uncomfortable truth would prefer to
+remain hidden. It's because their truth might limit their capacity for
+telling the truth, unless for some reason, they happen to export
+enough of it while they can, hoping that at some point in the future,
+when society is a bit more understanding, life will acknowledge the
+artist as being truly ahead of his or her time. The artists that meet
+this criteria are few and far between. As society becomes more
+tolerant, the person who exemplifies the strength and virtue of this
+artist will become a jewel perhaps impossible to find.
+
+There's a group of hipster critics who pride themselves on
+understanding those sensory delicacies most often lost. These critics
+share their tastes with their friends and as they do, that art grows
+slightly in popularity. To a lesser degree, so does the general
+appreciation of what makes that art "good" that can be recognized by
+listeners and consumers.
+
+The selection of underground artforms and symbols recognized by
+someone forms a kind of map that can speak volumes on who they are and
+who their friends are. This especially applies when they are unaware
+of the significance of some symbols. This esoteric aspect of
+underground music and art only holds true as long as those works
+remain underground.
 
 ### Hipsters Drink from the Wellsprings of Art & Culture
 
-- anyways, when critics recognize underground art for some
-  minor qualities the remain missed by others, and then spread that
-  art & appreciation of its qualities to others, this forms a kind of
-  cycle.
-  - there's a wellspring of creativity at the center, surrounded by
-    hipsters and master artists.
-    - these "wellspring" have an intense effect on the evolution of
-      art. again, the evolution of art and music is an incredbily
-      powerful thing to control or influence.
-    - there are unseen forces that guard these wellsprings of
-      creativity, art and culture. to either control them for profit
-      or to protect them from tainted influence or ....
-- and from these wellsprings, artistic influence gradually spreads
-  outward to the mainstream consumers whos capacity 4
-  recognizing/appreciating "good" art expands.
-  - to truly appreciate art, one needs to capacity to understand and
-    they need to activate it.
-  - the significance/meaning of art is often encoded into the art in
-    such a way whereby the significance of symbols related to the
-    production of the art is important to understanding the true
-    meaning of it.
-    - this is because artists are most familiar with their tools.
-    - since these are the languages of symbols they understand most,
-      they provide the semiotic basis of "second language" for that
-      artist
-    - therefore, it's crucial to understand the production of art and
-      the techniques involved if you hope to understand an artist's
-      work
+When critics recognize underground art for some minor qualities that
+remain missed by others, and then spread that art & appreciation of
+its qualities to others, this forms a kind of cycle. There's a
+wellspring of creativity at the center, surrounded by hipsters and
+master artists. These "wellsprings" have an intense effect on the
+evolution of art.
+
+Again, the evolution of art and music is an incredbily powerful thing
+to control or influence. Control this and you control the map of ideas
+available to others, upon which all that they know and think is
+woven. There are unseen forces that guard these wellsprings of
+creativity, art and culture. To either control them for profit or to
+protect them from tainted influence is to guard the metaphysical realm
+for future generations. As the speed at which information and culture
+converge across the globe due to technology, the metaphysical realm
+begins to increasingly influence reality and begins to manifest
+itself.
+
+From these wellsprings, artistic influence gradually spreads outward
+to the mainstream consumers whose capacity for recognizing and
+appreciating "good" art expands.  These wellsprings are basically
+controlling the process of natural selection that selectively
+propagates some works of art over others. It's survival of the
+fittest. What's worth retransmitting and what maintains interest is
+propagated to other nodes in the graph. Those with the most eclective
+set of interests have the most unique positions in the graph. They are
+the "hipsters" who are most likely to have the most influence on the
+rest of the graph.
+
+### Semiotics of Medium
+
+To truly appreciate art, one needs the capacity to understand and they
+need to activate it. The significance and meaning of art is often
+encoded into the art, whereby the significance of symbols related to
+the production of the art is important to understanding the true
+meaning of it. This is because artists are most familiar with their
+tools. Since these are the languages of symbols they understand most,
+they provide the semiotic basis of "second language" for that
+artist. Therefore, it's crucial to understand the production of art
+and the techniques involved if you hope to understand an artist's
+work.
+
+New mediums, like those of technology, require a new set of
+afficianados, familiar enough with the medium to understand this
+semiotic language of signs based on the medium itself.
 
 ### On Art, Knowledge and Directive Cognitive Expansion
 
-- (see article "Directive Cognitive Expansion")
-  - (also, see "Consciousness is a Continuum" article)
-    - this briefly discusses the importance of semiotics in expanding
-      consciousness and developing our ability to abstract ideas
-  - so, if the degree of consciousness is measured by the expanse of
-    symbols a being can communicate with, both recgonizing and using,
-    and the degree to which they can express themselves and the
-    subtlety of situations...
-    - then it should stand to reason that our most learned citizens
-      are the most conscious and the best artists must be those of us
-      who are highly educated and retain a varied expanse of
-      experiences.
+In other essays, I have discussed the importance of semiotics in
+expanding consciousness as critical to developing our mind's ability
+to abstract ideas, generally. That is, IMO the degree of our
+consciousness is measured by the expanse of symbols a being can
+communicate with and by it's skill in reconstituting those signs and
+symbols into peer-to-peer micro-languages. That's what is meant by
+"having a connection" with someone. They understand you and your
+actions in a way that can be only established by contact, listening
+and a true emotional connection.
+
+If this is so and the degree of consciousness is measured by the
+expanse of symbols a being can communicate with, both those it
+recgonizes and uses, then it should stand to reason that our most
+learned citizens are the most conscious and the best artists must be
+those of us who are highly educated and retain a varied expanse of
+experiences.
+
+These are the most conscious. Those of us who know and understand and
+are capable of the most authentic empathy.
