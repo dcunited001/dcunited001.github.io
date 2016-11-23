@@ -478,6 +478,25 @@ A    d
     space to delay the propagation of energy.
   - i really can't even imagine what this thing would look like
 
+### Cosmic evolution
+
+- how has the apperance of the cosmos change over millions of years?
+  - how does the path of a ray of light change due to the effect of
+    gravity? how does gravity's affect aggrgate/accumulate over vast
+    distances and is its effect changed by the influence of curved
+    space?
+    - (OMFG I think i've added this same question fourteen times!)
+  - if so, how could such a force possibly respect the law of the
+    conservation of energy? there should be some characteristic
+    distortion in the dispersal of gravity's energy & effect on
+    spacetime curvature. it should differ from the idealized
+    distortion predicted by the standard model because gravity acts on
+    spacetime and spacetime influences movement of mass. but there
+    should be distortion in the dispersion of gravities energy in
+    order for it to adhere to the conservation of energy
+    - Noether's theorum & symmetries (and general th. relative)
+      - what was i thinking here?
+
 ### Ideas on gravity from imagining directional antennae attenuation
 
 (mostly pointless)
@@ -552,8 +571,6 @@ A    d
     numerics? or does resolving the speed of light require
     dependencies obtained from experimentation?
 
--
-
 =============
 
 Astronomy as a means for recognizing reincarnation ... somehow
@@ -607,3 +624,25 @@ a limited number of times
   through to travel between systems
   - this one's completely hypothetical and probably not true. mostly a
     scifi plot device
+
+### Misc ideas
+
+- periodic table as an emergent structure based on physics and math
+  - the parallels b/w this and the wierd quantum mechanics sums from
+    analytic combanatorics (taylor's ??? see depiction)
+  - are there parallels b/w the periodic table and polynomial
+    expansions or ... this is kind of a dumb idea
+
+```
+
+[]
+
+[]
+[] + [][]
+
+
+[]
+[]   []       []
+[] + [][] + [][] + [][][]
+
+```
