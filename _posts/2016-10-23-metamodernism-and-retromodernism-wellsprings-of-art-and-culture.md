@@ -5,7 +5,17 @@ tags: "sociology politics"
 headline: "A treatise on art as suffering for art's sake"
 author:
   name: "David Conner"
-excerpt: ""
+excerpt: "
+In other words, because the better artist can encode their message
+utilizing more obscure and hard-to-ascertain means and because it's
+necessary for the best art to lay low under the radar, then the more
+proficient artists must necessarily choose between success and
+art. Therefore, and quite often, mainstream success is at odds with
+artistic expression. This doesn't mean that mainstream artists aren't
+good artists. However, it implies that, over the 20th and 21st
+century, there should be plenty of artists or artforms which
+completely avoided mainstream notice. That is, some of the best art
+was a bit too camouflaged. It stayed hidden."
 ---
 
 Soo I'm an aesthitician. Sometimes I do nails ... but mostly I do
@@ -33,15 +43,39 @@ effable thought. How does one tap into that?
 
 # [Truth: An Artists' Perspective Contraposed with the Status Quo](#truth-an-artists-perspective-contraposed-with-the-status-quo)
 
+### [Distraction by Design](#distraction-by-design)
+
+### [S-Class Artist](#s-class-artist)
+
+### [Suffering for Art's Sake](#suffering-for-arts-sake)
+
+# [And Just Fade Into Nothingness?](#and-just-fade-into-nothingness)
+
+### [Hello? Is Anybody Out There?](#hello-is-anybody-out-there)
+
+# [Bound to Cover Just a Little More Ground](#bound-to-cover-just-a-little-more-ground)
+
+### [Never Change! Don't Ever Change!](#never-change-dont-ever-change)
+
+### [Shh! Can You Hear That?](#shh-can-you-hear-that)
+
+### [The Best Artists Must Choose Between Success and Art](#the-best-artists-must-choose-between-success-and-art)
+
+### [Falling on Deaf Ears](#felling-on-deaf-ears)
+
+# [The Best Art Stays Crypted](#the-best-art-stays-crypted)
+
 ### [Hipsters Drink from the Wellsprings of Art & Culture](#hipsters-drink-from-the-wellsprings-of-art-and-culture)
 
 ### [Semiotics of Medium](#semiotics-of-medium)
 
 ### [On Art, Knowledge and Directive Cognitive Expansion](#on-art-knowledge-and-directive-cognitive-expansion)
 
-<a name="what-is-retromodernism" />
+#### The Next Ghostbusters is *STEAMPUNK!*
 
-![Steampunk]()
+![Steampunk](/img/posts/metamodernism-and-the-hipster-cycle-of-art/steampunk-ghostbusters.jpg)
+
+<a name="what-is-retromodernism" />
 
 # [What is Retromodernism?](#what-is-retromodernism)
 
@@ -192,6 +226,10 @@ artist may seek to limit exposure to protect his/her voice.
 > not allowed to utilize online forums to interact with other
 > like-minded intellectual citizens.
 
+<a name="s-class-artist" />
+
+### [S-Class Artist](#s-class-artist)
+
 This class of artist realizes that (1) the conventional critic or
 consumer isn't going to understand and (2) if someone doesn't
 understand, it may ultimately threaten the artist's quest for truth
@@ -215,33 +253,73 @@ may unlock the truth.
 > ever accumulating a legacy. I'd prefer not to vanish without a
 > trace...
 
+<a name="suffering-for-arts-sake" />
+
+### [Suffering for Art's Sake](#suffering-for-arts-sake)
+
 So, the great artist knows they might have to suffer for their work
 and they are more than willing to do so, not out of a sense that doing
 so might mean they become more successful, but because it is
 worthwhile. If the great artist had acuity for great art and thought
 there wasn't much value to their own work, they wouldn't be so eager
-to expend energy and endure hardship to pursue their work. On the
-other hand, they know that excessive success may change them or draw
-too much attention to early work, possibly forcing them to abstain
-from expressing ideas that threaten the status quo. It's de facto
-censorship. If you're too attached to wealth or fame, you'll censor
-yourself. If the great artist knows this and purposefully flies under
-the radar, then it gives him or her more time to produce more work,
-hoping it will be discovered later. Or perhaps the artist isn't
+to expend energy and endure hardship in pursuit of the exhibition of
+truth. On the other hand, they know that excessive success may change
+them or draw too much attention to early work, possibly forcing them
+to abstain from expressing ideas that threaten the status quo. It's de
+facto censorship. If you're too attached to wealth or fame, you'll
+censor yourself. If the great artist knows this and purposefully flies
+under the radar, then it gives him or her more time to produce more
+work, hoping it will be discovered later. Or perhaps the artist isn't
 attached to whether or not the work will become widely known after
 their death.
 
-As for me, I finally recognized that I had great ideas and just how
-different they were. By the time I did, I had already sought to
-suppress expression of everything I knew because I feared that hidden
-elements in the world would lash back at me. However, the world seems
-to have done just that and I when I began publishing, I never got a
-bigger rise out of people who wanted to shut me up. I'm not sure why,
-since I was writing treatises on the humanities: linguistics,
-philosophy, psychology and sociology. Maybe I got too close to some
-esoteric topics. Still, getting this mostly insinuated and passive
-aggressive reaction was as close as I came to satisfaction from a
-project and it was more accesible than apps and programming libs.
+<a name="and-just-fade-into-nothingness" />
+
+# [And Just Fade Into Nothingness?](#and-just-fade-into-nothingness)
+
+I don't think so. I'm not sure what the deal is, but I haven't really
+had a life experience. I mean I have, but I haven't. I feel like I'm
+watching TV all the time. Like I can look, but I can't touch. Why
+can't I participate in life? Why have I been essentially blacklisted?
+The damage done to my life, my psychological development? It's unreal.
+I don't understand what curse lies upon my name, but holy shit people
+treat me like Voldemort and all I wanted was connection. Connection
+with likeminded intellectuals or beatniks or hippies or whoever. It
+really doesn't matter. Everyone has a story and I don't have the damn
+money or means to do anything. For all the restriction in my own life,
+I have accumulated a ton of experience and knowledge. I want to put
+that to use; to build something; to make something. Or !@#$, at least
+get laid.
+
+As for my own journey, I finally recognized that I had great ideas and
+just how different they were. By the time I did, I had already sought
+to suppress expression of everything I knew because I feared that
+hidden elements in the world would lash back at me. However, the world
+seems to have done just that and I when I began publishing, I never
+got a bigger rise out of people who wanted to shut me up. I'm not sure
+why, since I was writing treatises on the humanities: linguistics,
+philosophy, psychology and sociology. I didn't even know what a
+treatise was, but that's definitely what I write. Maybe I got too
+close to some esoteric topics. It's depressing to get so close to the
+truth and fear leaving nothing behind. Still, getting this mostly
+insinuated and passive aggressive reaction was as close as I came to
+satisfaction from a project and it was more accesible than apps and
+programming libs.
+
+<a name="hello-is-anybody-out-there" />
+
+### [Hello? Is Anybody Out There?](#hello-is-anybody-out-there)
+
+#### Is This Facebook Thing Even On?
+
+It's actually fun, at this point. If all I get is a rise from blogging
+about what's worth thinking about, it's totally worth it, even no one
+ever actually recognizes me. I have skills and knowledge and passion,
+but who cares? I've been mostly disconnected from my social graph and
+I have no social capital. If I'm lying about something, then by all
+means, call me out on it. I dare you. I've been shadow-banned from
+social media. They don't even let me have trolls down here because I'd
+game them right back for the social media newsfeed points.
 
 I uploaded my drafts recently and now my updates are posted to cloud
 prematurely to ensure that I don't end up vanishing without a trace or
@@ -251,9 +329,12 @@ I produced little to nothing, I have spent so much time thinking and
 philosophizing. I've felt deprived of opportunities and perhaps
 tormented by a handful of people, which forced me into isolation,
 where I quietly build out magnificent edifaces in my mind. I don't
-want to be so attached to what I've created, but I've ..
+want to be so attached to what I've created, but I've given too
+much. I've sacrificed too much for my mind.
 
-###
+<a name="bound-to-cover-just-a-little-more-ground" />
+
+# [Bound to Cover Just a Little More Ground](#bound-to-cover-just-a-little-more-ground)
 
 The tendency and perhaps necessity for great artists to remain unseen
 implies that there should be much undiscovered art. Somewhere out in
@@ -297,7 +378,9 @@ their art more than anything else in the world. They know what it is
 that they have and why people respond the way they do to their
 personality or work.
 
-# technical prowess of artists compared to popularity
+<a name="shh-can-you-hear-that" />
+
+### [Shh! Can You Hear That?](#shh-can-you-hear-that)
 
 Here are some observations on music and art that may lead to
 interesting insights. Some music, art and artforms need to stay
@@ -305,8 +388,6 @@ underground. Even if it wasn't made for mainstream appeal, it loses
 something if it becomes mainstream. Art and music risk losing some
 truth or aspect of themselves, once they extend beyond a circle of
 people who truly understand it.
-
-(TODO: find examples of such music)
 
 Music which can only be fully enjoyed by those with the right
 headphones is less marketable. There are lots of songs out there, for
@@ -324,7 +405,7 @@ since it's less marketable.
 
 In other words, because the better artist can encode their message
 utilizing more obscure and hard-to-ascertain means and because it's
-necessary for the best art to fly under the radar, then the more
+necessary for the best art to lay low under the radar, then the more
 proficient artists must necessarily choose between success and
 art. Therefore, and quite often, mainstream success is at odds with
 artistic expression. This doesn't mean that mainstream artists aren't
@@ -366,7 +447,9 @@ the art led me to see something that I could have never expected
 myself. Perhaps I would have never experienced it .... Chick flicks,
 amiright?
 
-#
+<a name="the-best-art-stays-crypted" />
+
+# [The Best Art Stays Crypted](#the-best-art-stays-crypted)
 
 And so, the best art is necessarily underground. It's easy to
 miss. It's not popular. Sometimes it's downright subversive, which is
@@ -462,7 +545,7 @@ and a true emotional connection.
 
 If this is so and the degree of consciousness is measured by the
 expanse of symbols a being can communicate with, both those it
-recgonizes and uses, then it should stand to reason that our most
+recognizes and uses, then it should stand to reason that our most
 learned citizens are the most conscious and the best artists must be
 those of us who are highly educated and retain a varied expanse of
 experiences.
