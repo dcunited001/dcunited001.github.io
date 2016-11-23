@@ -108,3 +108,12 @@ utility in the collective consciousness of early humanity
 
 would
 even dictate the functional
+
+
+### Misc Linguistic Ideas:
+
+- (?) Linguistic properties and characteristics that contribute to
+  psychology, qualities of communication, social phenomena and culture
+
+- linguistic analysis of english literature compared w/
+  accent. Evolution of lexicon evolution, compared with zipf profiles

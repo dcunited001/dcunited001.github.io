@@ -109,3 +109,15 @@ an app. especially when they're building a social media app.
 - the best product is most effective at garnering and retaining their
   users attention
   - facebook and twitter are particularly good for that
+
+### model of attention in a networked world
+
+(mostly in the context of VR & AR)
+
+- ultimately, people can only consume information one iota at a time,
+  via their experience
+  - can this be modified with nano/neuro augmentation?
+    - if so, it'd be difficult
+    - it may be possible to augment subconscious mind, but the
+      conscious experience seems to be the bottleneck (going on my
+      instinct)
