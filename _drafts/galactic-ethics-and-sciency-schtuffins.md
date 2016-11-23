@@ -157,7 +157,6 @@ also kind of leads the world through a difficult path.
 
 #### hawking radiation, virtual particles and desitter space
 
-
 - what is the state of matter in a singularity? is there any spatial
   distribution to the state(s) of matter? how could there not be?
   - that's counter intuitive, since it's a single point
@@ -191,6 +190,8 @@ also kind of leads the world through a difficult path.
     - one could map the surface of a liquid to the surface of the
       region of contact on the anti-bubble
     - this analogy could be extended to 3D
+
+### Arrangement of matter inside a singularity
 
 - what is the arrangement of matter "inside" the singularity
 - i need to know more about how the virtual particles emerge from a
@@ -278,6 +279,7 @@ also kind of leads the world through a difficult path.
 
 - [Schild's Ladder](https://en.wikipedia.org/wiki/Schild%27s_Ladder)
   - [Quantum Graph](https://en.wikipedia.org/wiki/Quantum_graph)
+
 =============
 
 # specifics of quantum entanglement based design
@@ -368,6 +370,93 @@ also kind of leads the world through a difficult path.
     effects that contrast relativity
     - does this say anything about the nature of space?
 
+### Dispersion of gravity waves
+
+- Dispersion of gravity waves compared to sound/light
+  - does dispersion of photons affect frequency & amplitude?
+    - a gravity wave must affect the momentum and positioning of
+      photons traveling along with a gravity wave.
+  - what does the amount of dispersion of photons tell us about the
+    quantum nature of gravity?
+    - or the structure of space?
+- the observed gravity wave(s) by LIGO ... do we really know where
+  they came from? bc I'm pretty sure we don't
+  - did we identify the binary blackhole source beforehand? or have we
+    identified it since?
+- can we observe experimental evidence of how the field of gravity
+  changes when dispersal is altered by velocity of a mass?
+  - (?) if you can model the changes in the field effect of gravity
+    due to velocity, it should be possible to derive the speed of
+    light
+  - if mass interferes with the flow of gravity waves, what does that
+    say about the nature of mass/energy/space?
+- what happens to the dispersion of a gravity wave that travels
+  through a large black hole?
+  - does it's effect/energy/quanta get dispersed or scattered
+    according to the curvature of space?
+- a more advanced LIGO experiment should be able to perform
+  hyperspectral analysis of a gravity wave and really understand the
+  effects mass would have on it's propagation
+  - MASS ABSOLUTELY MUST AFFECT A GRAVITY WAVE. IT MUST LOSE ENERGY
+  - however, because a gravity wave has so much energy, it must be
+    difficult to measure, but an advanced in-space LIGO experiment
+    should be able to detect some of this with hyperspectral analysis
+
+- for a gravity wave radiating away from A, what happens to the space
+  distortion in between B & C as D grows larger and larger?
+
+```
+     C
+    /|
+   / |
+  /  |
+ /   |
+A    d
+ \   |
+  \  |
+   \ |
+    \|
+     B
+
+```
+
+### Nature of Gravity (& Misc)
+
+- it seems that mass is the inversion of space and gravity is the
+  change in shape bc of its displacement. i've had this impression for
+  a long time (possibly already covered it in the gravity blog)
+  - there should be a triumverate of mass/space/energy
+    - there should be some relationship whereby each can be converted
+      to the other. (or at least, each can be defined in terms of the
+      other two)
+    - E=(mc^2) may have a spatial component
+  - but i have no fucking clue because i can't derive special
+    relativity or do reimann math or w/e...
+
+- a symmetric object of sufficient size would not necessarily appear
+  to be symmetric, especially with distorted space
+  - and especially if moving.
+
+- if space is a fluid, then the speed of light is like the terminal
+  velocity, but why? why is it so absolute?
+  - if it's caused by some mechanism, & that mechanism is physical,
+    that implies that:
+    - (1) the existence of a sub-medium (something below space)
+    - (2) and an altered speed of light is possible
+      - (?) yet the things that need to be altered should be similarly
+        distorted (wtf?)
+
+- (probably stupid) but it should be fairly simple to tell whether an
+  altered speed of light is possible because of interdependencies in
+  the Standard Model:
+  - if the speed of light can be numerically obtained, then it is not
+    possible to have an altered speed of light
+  - if the value for C (speed of light) can only be obtained after
+    experiementally observed values are obtained, then an altered
+    speed may be possible under different spatial constraints
+
+- does all matter/mass contributed to the curvature of space evenly?
+  - gravity as the effect of energy on space
 
 ### Gravity Crystal X Gomboc
 
@@ -388,6 +477,82 @@ also kind of leads the world through a difficult path.
   - possibily relying on the speed of gravity propagating through
     space to delay the propagation of energy.
   - i really can't even imagine what this thing would look like
+
+### Ideas on gravity from imagining directional antennae attenuation
+
+(mostly pointless)
+
+- is the energy emitted by a directional antennae proportional to or
+  dependent on the volume? (no it's not)
+  - for a pointlike directional antenna, it should radiate photons at
+    equivalent speeds, but emits more in some directions than others.
+  - i've already written about this
+- however, do large black holes have a similar effect seen in the
+  attenuation of gravity? (i don't think so)
+  - if so, how could we possibly measure that?
+
+### lots of questions on gravity
+
+- how could a singularity not have shape if mass can be added to it?
+  when mass is attached to the singularity, what is the shape/velocity
+  of the mass? (this is fairly well understood)
+  - how does a mass's effect on other masses change w/ velocity,
+    especially as it approaches a singularity
+
+- the reason that poisson's law applies to electromagnetism and
+  gravity is because they are both field-like (?)
+  - what similarities are shared and why does relativity cause gravity
+    to be expressed differently?
+    - that is, gravity is monopolar whereas electromagnetism is
+      bipolar
+- does the path of neutrinos curve? are there masses too small for
+  gravity to affect? (NO ... spacetime curves)
+
+- HOW DOES GRAVITY AFFECT THE TRAJECTORY OF HIGG'S BOSON?
+  - and if gravity affects the trajectory of higg's bosons, how does
+    that alter it's field affect
+    - and, in particular, how does that affect its change in field
+      "shape" over time
+      - especially in high energy displacements
+      - e.g. merging of two large masses
+        - 2 singularities
+        - 1 singularity and one large mass
+        - two large masses (no singularities)
+
+- for every point in spacetime, is the distortion simply the sum of
+  gravity from other masses? (i think i asked this in my blog on
+  gravity)
+  - if so, then an infinity gravitational crystal would experience no
+    net force from its nodes' masses, as long as those nodes remain
+    equidistant and in infinite repetition and space
+  - actually, i still can't conceptualize any perfectly stable gravity
+    crystals due to the propagation time of gravity. (for either
+    finite or infinite gravity crystals)
+- what gravity crystal shapes are possible? how do the nature of these
+  crystals differ from that of traditional crystals?
+  - specifically, how does time influence the possible crystal shapes?
+  - are there finitely many enumerable crystal families? (like there
+    are platonic solids)
+
+- 2 masses moving away from each other will eventually cease to affect
+  each other. the effect of gravity from the mass can't propagate in
+  time and eventually wanes faster than the distance squared.
+  - why is this?
+    - is the space between still affected?
+
+- if the unsolved problems of general relativity are mostly bc it's a
+  differential eq initial values problem:
+  - then is there some way to analytically train an algorithm to find
+    more acceptable or more natuaral initial values?
+
+- how do we measure the speed of light? and why is it so tightly
+  coupled to the laws of nature?
+  - is the value of the speed of light numerically defined in the
+    universe? that is, does the actual value of C arise purely from
+    numerics? or does resolving the speed of light require
+    dependencies obtained from experimentation?
+
+-
 
 =============
 
