@@ -1,19 +1,19 @@
 ---
-title: "Metamodernism, Retromodernism and the Hipsters Guarding our Wellspings"
+title: "Metamodernism & Retromodernism: Wellspings of Art & Culture"
 categories: "blog"
 tags: "sociology politics"
-headline: ""
+headline: "A treatise on art as suffering for art's sake"
 author:
   name: "David Conner"
 excerpt: ""
 ---
 
-So, I'm an aesthitician. Sometimes I do nails and sometimes I do hair,
-but mostly I do art. Everyone has their interpretation of art, but do
-some of us have more acuity for seeing the beauty in art? If beauty is
-in the eye of the beholder, how do we develop that ability to see it?
-Is such beauty inherint in anything? If so, are there things better
-left unseen? What determines what our mind decides to focus on?
+Soo I'm an aesthitician. Sometimes I do nails ... but mostly I do
+art. Everyone has their interpretation of art, but do some of us have
+more acuity for seeing the beauty in art? If beauty is in the eye of
+the beholder, how do we develop that ability to see it?  Is such
+beauty inherint in anything? If so, are there things better left
+unseen? What determines what our mind decides to focus on?
 
 If the conscious layer of the mind is like the surface of water and
 thoughts are like the bubbles the subconscious allows to rise to the
@@ -25,13 +25,31 @@ about, but the best artists seem to be able to swim in the depths of
 their subconscious, retrieving jewels not shaped or constrained by
 effable thought. How does one tap into that?
 
-### (Retromodernism)
+# [What is Retromodernism?](#what-is-retromodernism)
+
+### [The Best Artists Fly Under the Radar](#the-best-artists-fly-under-the-radar)
+
+### [Oh Snap! We Got A Smart One Over Here!](#oh-snap-we-got-a-smart-one-over-here)
+
+# [Truth: An Artists' Perspective Contraposed with the Status Quo](#truth-an-artists-perspective-contraposed-with-the-status-quo)
+
+### [Hipsters Drink from the Wellsprings of Art & Culture](#hipsters-drink-from-the-wellsprings-of-art-and-culture)
+
+### [Semiotics of Medium](#semiotics-of-medium)
+
+### [On Art, Knowledge and Directive Cognitive Expansion](#on-art-knowledge-and-directive-cognitive-expansion)
+
+<a name="what-is-retromodernism" />
+
+![Steampunk]()
+
+# [What is Retromodernism?](#what-is-retromodernism)
 
 Once technology has eliminated the constraints to artistic medium, it
 seems the near future might present us with an artistic movement that
 reenvisions and recombinates alternate progressions of technology in
 search of alternate mediums and formats, which might have been
-popular, in some alternate timeline or formulation of reality. What
+popular in some alternate timeline or formulation of reality. What
 would art look like if industrialization emerged from India or
 elsewhere in the 18th century, finally spreading modernization to
 Europe? If modernization emerged and converged in some way that
@@ -48,7 +66,7 @@ especially 20th century tech and ideas to find hidden gems, rare art
 and recombinant forms of such. We already see this in steampunk and
 elsewhere, but for the purposes of this article, I'll refer to it as
 retromodernism. I apologize for inventing a word. While awareness of
-differentiation and quality of ideas is important, I'm not fond of
+differentiation and distinction of ideas is important, I'm not fond of
 arbitrary division and distinction between ideas, so who am I to
 create another? And really ... who am I to try to define a concept
 such retromodernism?
@@ -60,7 +78,9 @@ see some very interesting art indeed. Further, this would help us
 understand the general nature of alternate progressions of technology
 in the near future, as we approach the Singularity.
 
-### The Best Artists Fly Under the Radar
+<a name="the-best-artists-fly-under-the-radar" />
+
+### [The Best Artists Fly Under the Radar](#the-best-artists-fly-under-the-radar)
 
 Many artists remained unknown until their death, never tasting the
 fruits of success, recognition or fame. Van Gogh is a great
@@ -83,19 +103,22 @@ produce works that reflect that. Whether it's a painting or novel or
 film or video game, art that isn't distinguishable doesn't seem to
 require as much thought for us to understand.
 
-In many ways art represents the frontiers of inner space. Artists are
-like astronauts who explore their own subconscious depths as well as
+In many ways, art represents the frontiers of inner space. Artists are
+like astronauts who explore their `own subconscious depths as well as
 the expanse of cultural artifacts and ideas. The rich and powerful
 defend the status quo because it makes them comfortable. They also buy
 art. You aren't going to sell much art if you're trying to sell it at
-a shelther for the homeless. Art expands how we think and the most
-popular art forms the edge of things we think about. Still, art and
-truth have a tendency to slip out and have a powerful effect on how
-people think. This changes the status quo. And so, the progression of
-art is influenced by the idiosyncrasies in the market for art, whether
-it's visual art, corporate art, literary or cinematic art.
+a shelther for the homeless. Your price point is determined by your
+audience or market. Art expands how we think and the most popular art
+forms the edge of things we think about. Still, art and truth have a
+tendency to slip out and have a powerful effect on how people
+think. This changes the status quo. And so, the progression of art is
+influenced by the idiosyncrasies in the market for art, whether it's
+visual art, corporate art, literary or cinematic art.
 
-### Oh Snap! We Got A Smart One Over Here!
+<a name="oh-snap-we-got-a-smart-one-over-here" />
+
+### [Oh Snap! We Got A Smart One Over Here!](#oh-snap-we-got-a-smart-one-over-here)
 
 The best artists fly under the radar!! Quite often, they have to
 shield their true understanding of the world around them because they
@@ -106,7 +129,7 @@ allures of money and positions of influence. As someone who's
 struggling, it's hard for the artist and author to resist, but not
 everyone is Mozart. Those who have considerable influence and way too
 much of other people's time on their hands want to identify these
-people early on.
+(possible threats) early on.
 
 > It is not the rich man you should properly call happy, but him who
 > knows how to use with wisdom the blessings of the gods, to endure
@@ -123,6 +146,10 @@ fully to their family because they embody a belief that nothing is
 more important than their family. So they instead seek humility and
 stability. Raising a family isn't easy, so I don't mean to cast
 judgement on anyone.
+
+<a name="truth-an-artists-perspective-contraposed-with-the-status-quo">
+
+# [Truth: An Artists' Perspective Contraposed with the Status Quo](#truth-an-artists-perspective-contraposed-with-the-status-quo)
 
 Let me apologize in advance for the impending conspiratorial
 statements. The point is -- if you are an artist or philosopher who's
@@ -146,16 +173,24 @@ not know what hit you. Usually, they start with a metaphorical
 gift-basket though. Hey, look! Wine and chocalates! If you're lucky,
 you'll have some mimosas. Perhaps some brunch and coffee.
 
+<a name="distraction-by-design" />
+
+### [Distraction by Design](#distraction-by-design)
+
 The very best artists know that they'll be presented with an assault
 of enticing distractions. They are well aware that great art is
 mystifying. Moreover, they have the capacity to develop a unique
 vision or message, but they are familiar enough with it and other
-ideas to understand that their ideas may be dangerous. For example,
-not to say I'm an example of this class of UG Artist, but I know that
-I can't post my blogs on Reddit or my account will be deleted. The
-[/r/philosophy](https://r/philosophy) and
-[/r/askphilosophy](https://reddit.com/r/askphilosophy) mods told me
-so. Yep, I can't even "AskPhilosophy" bro!
+ideas to understand that their ideas may be dangerous. Therefore, this
+artist may seek to limit exposure to protect his/her voice.
+
+> For example, not to say I'm an example of this class of UG Artist,
+> but I know that I can't post my blogs on Reddit or my account will
+> be deleted. The [/r/philosophy](https://r/philosophy) and
+> [/r/askphilosophy](https://reddit.com/r/askphilosophy) mods told me
+> so. Yep, I can't even "AskPhilosophy" bro! Typical, for me. No, I'm
+> not allowed to utilize online forums to interact with other
+> like-minded intellectual citizens.
 
 This class of artist realizes that (1) the conventional critic or
 consumer isn't going to understand and (2) if someone doesn't
@@ -166,18 +201,19 @@ vaporous shroud of enigma. In this way, if the art truly merits
 criticism and study, then those who meditate on the piece long enough
 may unlock the truth.
 
-Sidenote: I wish I could do this with my own work, but I'm plagued by
-the sensation that I'm running out of time, which is a blessing and a
-curse. It doesn't help much when the people around me don't seem to
-care about my pursuits, writing or business. Also, I think it's
-interesting to expose my drafts on Github, as it exposes the thinking
-and writing process a bit. Typically, showing others unfinished work
-is a major mistake, but in my case, SOMETHING IS BETTER THAN NOTHING
-AND I HAVE ALOT TO OFFER! If I upload drafts of my work early on, then
-no one can steal my work while I'm in the process of writing with no
-means to sustain my work and constantly assaulted by efforts to
-distract me from ever becoming anything or ever accumulating a
-legacy. I'd prefer not to vanish without a trace...
+> I wish I could do this with my own work, but I'm plagued by the
+> sensation that I'm running out of time, which is a blessing and a
+> curse. It doesn't help much when the people around me don't seem to
+> care about my pursuits, writing or business. Also, I think it's
+> interesting to expose my drafts on Github, as it exposes the
+> thinking and writing process a bit. Typically, showing others
+> unfinished work is a major mistake, but in my case, *something is
+> better than nothing and I have a lot to offer!* If I upload drafts
+> of my work early on, then no one can steal my work while I'm in the
+> process of writing with no means to sustain my work and constantly
+> assaulted by efforts to distract me from ever becoming anything or
+> ever accumulating a legacy. I'd prefer not to vanish without a
+> trace...
 
 So, the great artist knows they might have to suffer for their work
 and they are more than willing to do so, not out of a sense that doing
@@ -243,8 +279,11 @@ to speak the truth as I saw it and only later realized the cause of my
 pain. I wasn't willing to sell out or become a mockery of what I
 suffered for.
 
+<a name="never-change-dont-ever-change" />
 
-These artists, the ones you're looking for, are able to withstand the
+### [Never Change! Don't Ever Change!](#never-change-dont-ever-change)
+
+These artists, the remarkable ones, are able to withstand the
 initial temptation of fame & fortune. Often, they reach such heights
 only after it is inevitable that their work brings such attention, but
 they are less susceptible to being changed by it. That's difficult,
@@ -258,7 +297,7 @@ their art more than anything else in the world. They know what it is
 that they have and why people respond the way they do to their
 personality or work.
 
-### technical prowess of artists compared to popularity
+# technical prowess of artists compared to popularity
 
 Here are some observations on music and art that may lead to
 interesting insights. Some music, art and artforms need to stay
@@ -279,7 +318,9 @@ your artform with creative, hard-to-hear music production techniques,
 you have to accept that you're probably not going to be successful,
 since it's less marketable.
 
-### The Best Artists Must Choose Between Success and Art
+<a name="the-best-artists-must-choose-between-success-and-art" />
+
+### [The Best Artists Must Choose Between Success and Art](#the-best-artists-must-choose-between-success-and-art)
 
 In other words, because the better artist can encode their message
 utilizing more obscure and hard-to-ascertain means and because it's
@@ -300,7 +341,11 @@ the age of modernization, amidst the roar of globalization's
 mainstream media, that some truth and beauty of our development lays
 still unnoticed, perhaps for eternity.
 
-### Felling on Deaf Ears
+<a name="felling-on-deaf-ears" />
+
+### [Falling on Deaf Ears](#felling-on-deaf-ears)
+
+Why should one suffer for art, if it's to fall on deaf ears?
 
 Back to audio engineering, there are so many production techniques
 that would be lost on those not listening with a critical ear. To the
@@ -320,6 +365,8 @@ object. i.e. PS I Love You (just trust me) In that case and in others,
 the art led me to see something that I could have never expected
 myself. Perhaps I would have never experienced it .... Chick flicks,
 amiright?
+
+#
 
 And so, the best art is necessarily underground. It's easy to
 miss. It's not popular. Sometimes it's downright subversive, which is
@@ -347,7 +394,9 @@ of the significance of some symbols. This esoteric aspect of
 underground music and art only holds true as long as those works
 remain underground.
 
-### Hipsters Drink from the Wellsprings of Art & Culture
+<a name="hipsters-drink-from-the-wellsprings-of-art-and-culture" />
+
+### [Hipsters Drink from the Wellsprings of Art & Culture](#hipsters-drink-from-the-wellsprings-of-art-and-culture)
 
 When critics recognize underground art for some minor qualities that
 remain missed by others, and then spread that art & appreciation of
@@ -378,7 +427,9 @@ set of interests have the most unique positions in the graph. They are
 the "hipsters" who are most likely to have the most influence on the
 rest of the graph.
 
-### Semiotics of Medium
+<a name="semiotics-of-medium" />
+
+### [Semiotics of Medium](#semiotics-of-medium)
 
 To truly appreciate art, one needs the capacity to understand and they
 need to activate it. The significance and meaning of art is often
@@ -395,7 +446,9 @@ New mediums, like those of technology, require a new set of
 afficianados, familiar enough with the medium to understand this
 semiotic language of signs based on the medium itself.
 
-### On Art, Knowledge and Directive Cognitive Expansion
+<a name="on-art-knowledge-and-directive-cognitive-expansion" />
+
+### [On Art, Knowledge and Directive Cognitive Expansion](#on-art-knowledge-and-directive-cognitive-expansion)
 
 In other essays, I have discussed the importance of semiotics in
 expanding consciousness as critical to developing our mind's ability
@@ -415,4 +468,5 @@ those of us who are highly educated and retain a varied expanse of
 experiences.
 
 These are the most conscious. Those of us who know and understand and
-are capable of the most authentic empathy.
+are capable of the most authentic empathy. This is why I focus so much
+on learning new languages and forms of writing.

@@ -232,6 +232,8 @@ also kind of leads the world through a difficult path.
     - is there some way of quantizing this disparity? or some
       connection to the Fourier Transform?
 
+### Merger of Singularities
+
 - what happens to the singularities and the space b/w th two black
   holes as they merge together?
   - at some points, the event horizons could merge, like an electron
@@ -360,19 +362,45 @@ also kind of leads the world through a difficult path.
       determine how those large sets overlap? can we average things
       out?
 
-- impossible to discern the origin of the signal
+- impossible to discern the origin of the signal (?)
   - location undiscernable.
   - and time? simultaneous. this might produce wierd counter-intuitive
     effects that contrast relativity
     - does this say anything about the nature of space?
 
+
+### Gravity Crystal X Gomboc
+
+- gravity crystals X gomboc structure for a theoretical whitehole
+  - gomboc is a structure where, no matter how it is placed, it will
+    always eventually rest in the same position
+  - so there could be such a massive theoretical structure that, no
+    matter which direction something enters and regardless of its
+    momentum, it is always ejected at near light speed
+  - does such a structure exist? if so, it would almost certainly be a
+    structure that only temporarily satisfies such properties
+  - it would probably borrow heavily from the ideas of gravity
+    crystals in order to maintain such structure and properties
+  - such a structure may be required to be massive to harness gravity
+    waves in order to achieve it's properties ... somehow lulz
+- but basically, it's an arrangement of masses that are able to
+  sustain their structure while simulating a weak white hole.
+  - possibily relying on the speed of gravity propagating through
+    space to delay the propagation of energy.
+  - i really can't even imagine what this thing would look like
+
 =============
 
 Astronomy as a means for recognizing reincarnation ... somehow
 - but... how?
+- more of astrology for recognizing reincarnation: if someone is born
+  in the northern hemisphere and travels to the southern hemisphere
+  and already has knowledge of their myths/signs
+  - ... definitely not scientific
 
 =============
 
+### Answers to Fermi's Paradox
 
 So... There are many answers out there to Fermi’s paradox. One of
 those answers is that we’re looking for emission of radiation. It

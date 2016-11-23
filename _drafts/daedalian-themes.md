@@ -88,11 +88,13 @@ include subjects for theme ideas? how to format the list?
   presumptions
   - especially when such presumptions can't be refuted because you
     never have a chance to defend yourself for whatever reason
+
 - the importance of a variety of life experiences, especially early on
   - how a lack of certain kinds of early life experiences can lead to
     a lifetime of neuroses or sociopathic behavior
   - one could also be equipped with an improper lens for viewing an
     experience in relation to themselves
+
 - gauging someone's belief system & ethics by testing them
   - the importance of testing someone discreetly.  the wisdom in knowing that
     a test should be unknown to the person being tested. if they know
@@ -103,10 +105,14 @@ include subjects for theme ideas? how to format the list?
       to judge someone's character, ethics and virtues
     - in a more decentralized, anarchic system with lots of subcultures,
       very little cultural overlap and lots of variety, it becomes very
-      difficult to find someone you trust or to judge someone's character
+      difficult to find someone you trust or to judge someone's
+      character
+
 - the value of free information & knowledge, contrasted with the value of
   restrictions on the distribution of some kinds of knowledge
+
 - the definition and value of one's soul
+
 - conservative vs. progressive ideals
   - as they relate to the stability of a culture
 
@@ -161,12 +167,17 @@ include subjects for theme ideas? how to format the list?
 - automation bias, defined as the tendency to excessively depend on
   automated systems which can lead to erroneous automated information
   overriding correct decisions.
+- prejudice
+  - prejudice in reverse (assuming someone is prejudiced because of a
+    label they can't refute)
 
 ### paradox
 
 - list of paradoxes: pick one and write, it's easy
   - https://en.wikipedia.org/wiki/List_of_paradoxes
-- ship of theseus
+- [ship of theseus](https://en.wikipedia.org/wiki/Ship_of_Theseus)
+  - "whether an object that has had all of its components
+    replaced remains fundamentally the same object."
 
 ### art
 
@@ -181,7 +192,8 @@ include subjects for theme ideas? how to format the list?
 - the true causes of war are often obscured or enshrouded
   - the politics behind making war.
   - and the economics driving it.
-- staving off a war known by a select, powerful few to be inevitable
+- staving off a war
+  - especially when it is known by a select few to be inevitable
 - the value of unity in war.
   - unity in arms, unity in society, unity in support
   - the price of disorder in war

@@ -126,7 +126,7 @@ of social engineering projects.
       do we prevent gradual aversion of populace to education during
       our approach towards the singularity?
     - advances in education, coupled with changes to society, are the
-      primary reason i'm excited abou this
+      primary reason i'm excited about this
   - one major tool (which intertwines with education)
     - cognitive development via the arts.
       - (expand on cognitive/metacognitive devlepment)
@@ -217,6 +217,7 @@ Start with a brief discussion of Democracy vs Communism
             and wealth
             - but again, this system also has mechanisms in place to
               ensure that we have opportunities for all
+              - or it should, at least
           - the graph here would edges allowing influence to diffuse
             more freely across society,
             - however, because some groups accumulate significantly
@@ -225,6 +226,11 @@ Start with a brief discussion of Democracy vs Communism
               - but IMO property rights are crucial. if your system
                 doesn't protect property rights, it's not for me. it
                 might work in other places....
+                - i want to be motivated by what i can attain and i
+                  want others to have the same. however, i'm motivated
+                  by what i can attain to use for others' benefit.
+                  that is, ultimately. as of now, i don't have
+                  resources
 - hierarchical structures & specialzation role (wtf??)
   - ughhh this was a more complete idea....
 - anyways, the structures by which a society enables/controls the
@@ -252,7 +258,7 @@ Start with a brief discussion of Democracy vs Communism
     advantage to determine market behavior.
     - also, with much lower savings rates, it becomes harder to find
       buyers for large assets. again, fewer merchants on the market
-      means market favors the government every time, or any group
+      means a market favors the government every time, or any group
       exchanging with significant investment in those assets
   - regardless of whether you have true property rights and the
     ability to sell in a disadvantageous market,
@@ -269,7 +275,9 @@ Start with a brief discussion of Democracy vs Communism
     - democracy with capitalsm depend more on wealth to act as a store
       of value, but really as a medium of exchange for influence
       - btw: VOTE WITH YOUR DOLLAR!! you can vote with a buck every
-        day, do not empower those who you disagree with.
+        day. do not empower those who you strongly disagree with.
+        - this is the strongest means we have for changing behaviors
+          and preventing actions we don't agree with.
   - at the end of the day, we've exchanged diffusion of influence via
     $$$ for diffusion via hierarchical social institutions (kinda
     repeat of above)
@@ -322,7 +330,6 @@ designed to keep you captivated and distracted. yes, that's right: I
 just said conspiracy theories are conspiracy theories LMAO
 - usually there's some truth to each of these. if there wasn't, they'd
   fall apart pretty quickly.
-
 
 #### For Humanity's Survival in the 21st Century
 
@@ -411,15 +418,19 @@ is ready to face such struggles.
       prepared and compromised and sacrificed and worked together!!
   - btw, nanotech allows us to scalably expand to space, probably
     by 2030. there's your moonbase! lulz
-
+- and at this point, we can extend our life and reproductive cycle
+  with genetic engineering
 
 (more here?)
-
 
 basically, the question is:
 - do we want our children to depend on a population who just went
   through an event with population effects on the level of 15th
   century europe?
+  - this is a good parallel: how were the people of the 15th century
+    affected by the black plague, culturally?
+    - the point is to study this and make people aware of the costs of
+      such a tragedy, so that we can avoid the cost of it.
   - these ppl are going to have some issues..
     - if those issues include war, ethnic tension, etc. then that
       means we'll perpetuate that in a time of higher tensions bc of
