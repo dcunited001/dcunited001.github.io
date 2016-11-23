@@ -1,5 +1,5 @@
 ---
-title: "Ground Control to Dr. Strange"
+title: "Ground Control to Dr. Strange: Turtles All The Way"
 categories: blog
 tags: "philosophy"
 headline: "Calamity Echoes Through Human Psyche"
@@ -8,13 +8,13 @@ author:
 excerpt: ""
 ---
 
-- part one: Turtles All The Way
-  - TODO: tags
-- part two: Consciousness Crystallization
+- TODO: tags
+- part two:
 
 mention the inspiration for this post?
+
 - some post in june. i wasn't sure i should post this at the
-  time. shaken by the magnitude
+  time. shaken by the magnitude.
 
 We've all heard that the universe could be part of a series of
 interlinked worlds called the multiverse. This idea isn't complete:
@@ -112,7 +112,7 @@ way down!
 
 ### If It's Turtles All the Way Down...
 
-TODO: this conclusion needs to happen sooner
+TODO: this conclusion needs to happen sooner (or does it?)
 
 Yeh the thought that blew my mind: if it's turtles all the way down
 and our universe can extend into infinite universes below our own,
@@ -143,9 +143,9 @@ universe. The metaphysical determines the physical and vice versa.
 
 Anything can be a computer. Babbage built computers in 19th century
 England. An abacus is a computer that is rather manually operated,
-where the RAM actualy resides in the human mind. So what's the
+where the RAM actually resides in the human mind. So what's the
 difference between a quantum computer and a cosmic quantum computer?
-Nothing but scale.
+Nothing but scale, with a little imagination.
 
 If there are no size constraints on a giant cosmic, quantum computer
 then any set of particles could represent information in a virtual
@@ -159,6 +159,14 @@ could evolve into higher-order forms, eventually coalescing into
 something which can comprehend its own existence. Just as man is a
 biological computer capable of self-reflection, it's fathomable that
 stellar computer could emerge within a star.
+
+### What is Life, Really? Isn't It Everywhere?
+
+In the core of a star, perhaps each layer of nuclei of increasing size
+is a 2.5 dimensional world in itself, where information is encoded
+into self-replicating forms that ascend and descend between those
+layers, dancing in response to the inbound surges of magnetic
+force ... probably not though.
 
 A the physical form of a computer is simply a set of particles that
 preserves information, but what if intelligence designed some greater
@@ -235,8 +243,6 @@ a physical manisfestation of the self-similar, physical embedding our
 image of the metaphysical and radiating its essence to us.
 - (...what exactly did i mean by this?)
 
-
-
 if there are ways of "traveling" between different universes in the
 metaverse, then how are they linked together such that the inviolable
 laws of nature hold.
@@ -287,7 +293,20 @@ how does the assumption of quantum networking relate to how these
       boooorrrriiinngg
 
 
+
+
+---
+title: "Ground Control to Dr. Strange: Consciousness Crystallization"
+categories: "blog"
+tags: ""
+headline: ""
+author:
+  name: "David Conner"
+excerpt: ""
+---
+
 part two:
+================================
 
 ### "Mind Forms" (better term for this?)
 
