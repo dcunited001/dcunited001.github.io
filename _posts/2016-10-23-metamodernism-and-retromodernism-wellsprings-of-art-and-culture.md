@@ -1,7 +1,7 @@
 ---
 title: "Metamodernism & Retromodernism: Wellspings of Art & Culture"
 categories: "blog"
-tags: "sociology politics"
+tags: "art metamodernism philosophy postmodernism"
 headline: "A treatise on art as suffering for art's sake"
 author:
   name: "David Conner"
@@ -71,9 +71,9 @@ effable thought. How does one tap into that?
 
 ### [On Art, Knowledge and Directive Cognitive Expansion](#on-art-knowledge-and-directive-cognitive-expansion)
 
-#### The Next Ghostbusters is *STEAMPUNK!*
+#### The Next Ghostbusters is Steampunk
 
-![Steampunk](/img/posts/metamodernism-and-the-hipster-cycle-of-art/steampunk-ghostbusters.jpg)
+![Steampunk](/img/posts/metamodernism-and-the-hipster-cycle-of-art/steampunk-ghostbusters.jpeg)
 
 <a name="what-is-retromodernism" />
 
@@ -103,7 +103,7 @@ retromodernism. I apologize for inventing a word. While awareness of
 differentiation and distinction of ideas is important, I'm not fond of
 arbitrary division and distinction between ideas, so who am I to
 create another? And really ... who am I to try to define a concept
-such retromodernism?
+such as retromodernism?
 
 Much of the art produced to reflect this idea would be encumbered by
 stilted constraints imposed by the artist, but if some retromodernism
@@ -181,6 +181,10 @@ more important than their family. So they instead seek humility and
 stability. Raising a family isn't easy, so I don't mean to cast
 judgement on anyone.
 
+#### Oh Hey, Look! It's Mara! Do You Think She'd Like Some Tea?
+
+![Buddha and Mara](/img/posts/metamodernism-and-the-hipster-cycle-of-art/mara.jpg)
+
 <a name="truth-an-artists-perspective-contraposed-with-the-status-quo">
 
 # [Truth: An Artists' Perspective Contraposed with the Status Quo](#truth-an-artists-perspective-contraposed-with-the-status-quo)
@@ -190,10 +194,6 @@ statements. The point is -- if you are an artist or philosopher who's
 ideas threaten the status quo, you'll find yourself on a relevatory
 path of suffering for truth, assaulted on all sides by distractions,
 frenemies poisoned against you and outright malevalent forces.
-
-#### Oh Hey, Look! It's Mara! Do You Think She'd Like Some Tea?
-
-![Buddha and Mara](/img/posts/metamodernism-and-the-hipster-cycle-of-art/mara.jpg)
 
 If you make it too far, but refuse to give in, there may be powerful
 forces who seek to get you off that path by any means necessary. It is
