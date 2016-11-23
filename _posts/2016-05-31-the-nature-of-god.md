@@ -43,7 +43,7 @@ By seeking understanding of our world, our universe, we indirectly
 familiarize ourselves with aspects of this entity. From the study of
 philosophy and higher-order phenomena, one’s mind invariably converges
 towards this entity outside time and space. However it’s approached,
-as one navigates it’s myriad of infinitely complicated infinities,
+as one navigates its myriad of infinitely complicated infinities,
 more generalized tools of thought and reason become available. How one
 cultivates their own connection is almost irrelevant. Cognizance of
 this being empowers one to wield light against darkness and love to
@@ -76,11 +76,11 @@ vicissitude portends attendant metamorphosis, approaching allineation
 with this original image. This imbues them with an Achilles heel, a
 vulnerability to an immeasurably meager stone: their beloved
 anathema. Or anyone so ostracized from the world of Sin City who has
-rejected the engrained juxtaposition of good and evil so perfectly as
+rejected the engrained juxtaposition of good and evil, so perfect as
 to be nearly indistinguishable. Such a free radical could inspire an
 ecstatic chain reaction.
 
-Yet even when every single spore has been squelched, sporadic
+Yet even when every single spore has been squelched, spontaneous
 particulate oscillations defy the entropy of separation, realigning
 their nexus to the metastellar wind of cosmic fate. Purged of all
 memory of truth and encapsulated unaware within twisting circuitous

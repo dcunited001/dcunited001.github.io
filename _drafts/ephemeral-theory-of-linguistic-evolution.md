@@ -106,9 +106,7 @@ varying a phoneme/morpheme's
 degree of geographic/social distribution or specific functional
 utility in the collective consciousness of early humanity
 
-would
-even dictate the functional
-
+would even dictate the functional
 
 ### Misc Linguistic Ideas:
 
@@ -117,3 +115,17 @@ even dictate the functional
 
 - linguistic analysis of english literature compared w/
   accent. Evolution of lexicon evolution, compared with zipf profiles
+
+- search for coupled evolution of morphemes in languages
+  - there's a tree of coupled morphemes (this is how we can recognize
+    a possible proto-indo-european language)
+  - search for coupled evolution of morphemes and stabalization of
+    homonyms and partial/full word phonetic collisions
+    - this will "crack the code" .... LMFAO
+      - it's inevitable that this code will be discovered and it may
+        be known that it is inevitable
+    - also search for evidence of an accent's influence on the lexicon
+
+- (hmmm i should have some more ideas for data science on
+  language. it's just a damn shame that my life has been ruined (was
+  attempted to be ruined?) to make me an example)
