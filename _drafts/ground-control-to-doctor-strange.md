@@ -2,7 +2,7 @@
 title: "Ground Control to Dr. Strange: Turtles All The Way"
 categories: blog
 tags: "philosophy"
-headline: "Calamity Echoes Through Human Psyche"
+headline: ""
 author:
   name: "David Conner"
 excerpt: ""
