@@ -27,7 +27,7 @@ it's really easy to map identical spaces in VR
 
 #### transformations on identical spaces
 
-in local interactions in a virtual space, objects within that space
+In local interactions in a virtual space, objects within that space
 can be transformed to appear to each person to morph into a new
 object. so, you could transform a pencil into a blowgun and then the
 pencil adopts the functionality of that object. or you can turn a book
@@ -41,7 +41,7 @@ by each person. Or there could be slight variations in appearence
 depending on the current experience's rules.
 
 The objects can be read into a 3D mesh and tracked easily. Or the 3D
-mesh could already be known additionally, if the objects in them are
+mesh could already be known. Additionally, if the objects in them are
 mostly identical, then transformations can be applied to them.
 
 This involves a lot of category theory, which can be used to help
@@ -670,6 +670,7 @@ Post it notes (original post date?)
 - techniques similar to how the brain reconstructs its visual
   environment (texture/shape/memory sampling to prevent reevaluating
   all sensory data every time)
+  - separate blog: "the 'texture' of semantics"
 - model for predicting environment/object/body state changes within
   time t (based on models of understood behaviors and contextually
   inferred object type)

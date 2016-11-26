@@ -23,6 +23,12 @@ we view existance through a more complete lens? This article explores
 something called the metaverse, which is similar to the concept of a
 multiverse but is far more expansive in surprising ways.
 
+# [Enter The Noosphere](#enter-the-noosphere)
+
+### ...
+
+### []
+
 What is the metaverse, besides
 [Facebook's AR/VR platform](https://techcrunch.com/2014/03/28/facebook-bought-oculus-vr-to-create-the-metaverse-or-why-angry-kickstarter-backers-need-to-chill/)?
 How is a metaverse different from a multiverse? How deep does this
@@ -31,7 +37,9 @@ metaverse, should the cosmos actually be contained within it? This
 ideas and more will be explored. Also: *HEADY CRYSTALS!!* Part
 two. Just trust me.
 
-# Enter The Noosphere
+<a name="enter-the-noosphere" />
+
+# [Enter The Noosphere](#enter-the-noosphere)
 
 Way back in late 2007, I read an article which completely
 revolutionized how I interpreted the Universe to a degree rarely
@@ -110,7 +118,9 @@ material universe can emulate universes as complicated as itself
 itself? Maybe. If so, it would appear that it truly is turtles all the
 way down!
 
-### If It's Turtles All the Way Down...
+<a name="if-its-turtles-all-the-way-down" />
+
+### [If It's Turtles All the Way Down...](#if-its-turtles-all-the-way-down)
 
 TODO: this conclusion needs to happen sooner (or does it?)
 
@@ -128,7 +138,9 @@ branching outwards in every direction.
 
 But what if the physical doesn't matter as much as we think it does
 
-### But How Far Does This Rabbit Hole Go?
+<a name="but-how-far-does-this-rabbit-hole-go" />
+
+### [But How Far Does This Rabbit Hole Go?](#but-how-far-does-this-rabbit-hole-go)
 
 The answer depends on the number of universes that a universe can
 simulate and how completely it can simulate them. Circuit complexity
@@ -160,13 +172,17 @@ something which can comprehend its own existence. Just as man is a
 biological computer capable of self-reflection, it's fathomable that
 stellar computer could emerge within a star.
 
-### What is Life, Really? Isn't It Everywhere?
+<a name="what-is-life-really-isnt-it-everywhere" />
+
+### [What is Life, Really? Isn't It Everywhere?](#what-is-life-really-isnt-it-everywhere)
 
 In the core of a star, perhaps each layer of nuclei of increasing size
-is a 2.5 dimensional world in itself, where information is encoded
-into self-replicating forms that ascend and descend between those
-layers, dancing in response to the inbound surges of magnetic
-force ... probably not though.
+is a 2.5 dimensional world in itself, like a series of
+semi-flatlands. Isn't our own world like that? Where information
+encodes itself into increasingly higher-order self-replicating forms
+that ascend and descend between those layers, dancing in response to
+the inbound surges of metaphorically magnetic force. In the case of
+the sun ... probably not though, but maybe.
 
 A the physical form of a computer is simply a set of particles that
 preserves information, but what if intelligence designed some greater
@@ -183,7 +199,11 @@ given simply the number of particles in the observable universe, but
 did not take into account encoding information in space and with
 entanglement.
 
-### Information Representation Efficiency
+# (Structure of the Metaverse)
+
+<a name="information-representation-efficiency" />
+
+### [Information Representation Efficiency](#information-representation-efficiency)
 
 Of great interest to myself is data capacity per universe and overlap
 of information shared between universes. What rules are there for such
@@ -208,7 +228,6 @@ the main question is:
     compare to the complexity of the host universe.
     - and it implies that the metaverse is just the universe itself
       and all the limited simulated universes contained within it
-
 
 How much information can our physical universe
 represent and simulate. is there actually any limit?
@@ -255,20 +274,36 @@ laws of nature hold.
   - then those laws must hold in each universe and there must be some
     laws of nature for the metaverse
 
-
 ### Degree of information overlap?
 
+- the world's evolving into one and many at the same time
+  - expand on these thoughts
 
+### [We'll Turn Inwards to Conquer Inner Space](#well-turn-inwards-to-conquer-inner-space)
 
-### We'll Turn Inwards to Conquer Inner Space
+Eventually, mankind runs out of phenomena of nature & science to
+discover. As in, there is a point whereupon, there are simply no more
+new scientific laws or phenomena to discover. Any new discoveries may
+take place on a much greater timescale. The temporal and computational
+economics of such a scenario depend greatly on whether our universe is
+already prelinked by an exploitable quantum networking mechanism. This
+knowledge "endpoint" might be reached more quickly than we realize, so
+we should cherish the mystery and unknown while they exist.
 
-- eventually we run out of things to learn about nature & science
-  - as in, new scientific laws or phenomena to discover
-    - or additional discovery's may take place on a much, much greater
-      timescale
-  - this might happen more quickly than we realize
-  - there might never be another tesla or einstein
-  - or long, running, intense math proofs
+Further, there might never be another Einstein or Tesla. This is
+because of the nature of science, at present. There just isn't another
+purely theoretical opportunity to revolutionize science like those of
+the 20th century. Similarly, upcoming mathematics revelations will
+change the futurescape, but after that, its doubtful that the same
+will happen again. At least, it won't be so easy. Any major math proof
+discoveries would require long-running computer algebra programs,
+similar to the proof for
+[Pythagorean triples](https://cosmosmagazine.com/mathematics/computer-cracks-200-terabyte-maths-proof),
+which requires 200 TERABYTES of storage! And that's with information
+compression. It wasn't understood that it would even be possible to
+crack such a proof until just a few years ago. It would take [ten
+billion years](http://www.theaustralian.com.au/higher-education/boolean-pythagorean-triples-proof-would-take-10bn-years-to-read/news-story/ae95f6d38cb38f2261042a67a94e021c) for a human to read this proof, so it's only possible to
+prove using computer algebra techniques.
 
 - the only thing left would be insights based on convolutions of human
   data or social data, etc. etc.
@@ -291,9 +326,6 @@ how does the assumption of quantum networking relate to how these
     world is useful, but boring.
     - why should all that we can see be all there can be?
       boooorrrriiinngg
-
-
-
 
 ---
 title: "Ground Control to Dr. Strange: Consciousness Crystallization"
