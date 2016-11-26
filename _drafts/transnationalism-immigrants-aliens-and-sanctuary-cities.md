@@ -9,3 +9,4 @@ excerpt: ""
 ---
 
 - structure of entities/costs/markets in the medical industry
+  - this actually has nothing to do with transnationalism
