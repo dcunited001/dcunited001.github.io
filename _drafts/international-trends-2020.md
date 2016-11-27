@@ -69,6 +69,30 @@ excerpt: ""
 - strategic/military
 - and more, no doubt
 
+### NAFTA/TPP Chapter 11
+
+- how do the ISDS clauses differ? do they both cover non-state
+  individuals?
+  - what status do non-enemy combatants have?
+    - IMO, if you don't have the rights of a citizen, you are not a
+      citizen, but you should still fall under the authority of NAFTA
+    - and therefore, if THE GOVERNMENT PROVABLY DEPRIVED YOU of
+      opportunities by abusing law and skirting on human rights
+      issues, you should be able to SUE THE FUCK OUT OF THEM IN AN
+      INTERNATIONAL ARBITRATION SUIT
+    - particularly, if your business is owned by an individual who is
+      not a citizen and was intended to be used as a launching pad for
+      opportunities of which you were provably and forcibly deprived,
+      you should be able to SUE THE FUCK OUT OF THE AMERICAN
+      GOVERNMENT ... maybe
+      - obviously, you're going to need a really good lawyer. like a
+        dozen of them, which sucks, BECAUSE THE GOVERNMENT SUBJECTED
+        YOU TO PSYCHOLOGICAL TORTURE AND DEPRIVED YOU OF ECONOMIC
+        OPPORTUNITIES
+        - *so basically, your life better be a great goddamn charity
+          case, because otherwise you are shit out of luck.*
+
+
 # Transnationalism
 
 ### TransNatl: In the context of the Westphalian Paradigm
@@ -258,7 +282,6 @@ excerpt: ""
 
 ### access to space becomes critical to a renewables economy
 
-
 - at least, until humanity has access to space, capacity for energy
   production requires space. this is true, almost first and foremost.
   - i.e. if you don't have space (surface area on earth) you can't
@@ -310,8 +333,16 @@ excerpt: ""
 ### water, irrigation and desalinization
 
 
-
+# Misc
 
 ### fusion
 
 - "game-ending. if you get fusion, you win the game." 'nuff said
+
+### supply chain dimension
+
+- supply chain dimension of the American & Global Economies
+  - reference arguments from article on regulating conflict minerals
+    trade in african nations
+  - elaborate on mechanics/dynamics of shifting supply chains
+    - especially in the context of novel materials/fabrication tech

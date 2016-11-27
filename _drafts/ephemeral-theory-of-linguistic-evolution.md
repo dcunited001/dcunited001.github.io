@@ -125,7 +125,91 @@ would even dictate the functional
       - it's inevitable that this code will be discovered and it may
         be known that it is inevitable
     - also search for evidence of an accent's influence on the lexicon
+- etymological connections between synonyms and homonyms
+
+- morphomemetic symmetry: correlating morphemes and semantics in
+  linguistic evolution discover symmetries
+  - that is, for many languages, what are the central, most basic,
+    semantic concepts *defined first* and what common
+    patterns/symmetries/categories emerge when analyzing language in
+    isolation?
+    - and what patterns begin to emerge in pairs/groups of languages?
 
 - (hmmm i should have some more ideas for data science on
   language. it's just a damn shame that my life has been ruined (was
   attempted to be ruined?) to make me an example)
+
+- what do unused latin chars do on a JP keyboard?
+  - like on the hiragana/katakana keyboard
+    - this is pretty easy to answer actually, they mostly do nothing
+      - but the purpose of this question is trying to figure out what
+        those keys could do
+  - what are the alt-gr keys on russian keyboards?
+
+### Chinese/Japanese
+
+- to determine the meanings behind radicals and
+  [placements](https://kanjialive.com/214-traditional-kanji-radicals/),
+  find common placements b/w kanji (see a & b)
+  - that is, try to find common placements (there's a name for kanji
+    placements) where the same kanji is modified with:
+    - same placement, but using a different radical
+      - e.g. 一（ひとつ: one） is modified using placement A with 水
+        (みず: water) or 人（ひと: person) but both are modified using
+        a single kind of placement (kanmuri, ashi, etc)
+    - or different placement, where the same kanji is modified by the
+      same radical
+  - with this analysis, there should emerge some interesting patterns,
+    based purely on the graphical relationships in placement
+    - the placement types themselves should "mean" something, of which
+      i haven't been able to find much information on the internet
+
+```
+A: かんむり (kanmuri)
+
+|=======|
+|  top  |
+|-------|
+|       |
+|=======|
+
+B: あし (ashi)
+
+|=======|
+|   |   |
+| L |   |
+|   |   |
+|=======|
+```
+
+- there should be another interesting layer that shows up in both
+  chinese, japanese and korean, where there is a pattern of phonetic
+  "collisions" that overlays the writing systems of each spoken
+  language
+  - however, because these languages share the same writing system,
+    the mapping that is overlaid on top of said writing system is
+    unique for each language (and time period)
+  - most of the information here will be purely incidental, but there
+    should be some deeper significance discoverable from the homonyms
+    and other "phonetic collisions" in each language
+  - for an example, see below:
+
+
+```
+去る ＋ 皿 → 盍
+sa(ru) + sara → ??? !@#$ it, i forget
+```
+
+- i forget, but at the time i saw this, there seemed to be a deeper
+  connection here. it had something to do with "covering" ...
+  - but the verb is essentially transformed via radical into a rarely
+    used verb meaning the opposite of the original
+  - i can't remember how i came across this anyways.
+  - but it should be possible to develop an automated means of
+    discovering "collisions" like this (most of which are purely
+    incidental)
+
+[去: to leave or go away](https://en.wiktionary.org/wiki/%E5%8E%BB#Japanese)
+[皿: plate/dish](https://en.wiktionary.org/wiki/%E7%9A%BF)
+[盍: cover, come together, congregate, meet](https://en.wiktionary.org/wiki/%E7%9B%8D)
+[盍(jisho)](http://jisho.org/search/%E7%9B%8D%20%23kanji)
