@@ -17,7 +17,7 @@ actions."
 
 Communication is signaling and vice versa, but signaling is more
 indirect.  To me, signaling encompasses incidental communication of
-your organizations intentions through purchasing agreements, real
+your organization's intentions through purchasing agreements, real
 estate purchases, intellectual property registration and startup
 acquisitions.  It never ceases to amaze me the lengths that companies
 will go through to cover their tracks, sometimes.  Then there are
@@ -26,7 +26,31 @@ major investment of their resources and I wonder why they wanted to
 make that knowledge public. I wish I could be a part of those
 discussions because I'm sure they have good reasons.
 
-### Signaling in World War Two
+### [Signaling in World War Two](#signaling-in-world-war-two)
+
+# [Every Robust Strategy Accounts for Signaling](#every-robust-strategy-accounts-for-signaling)
+
+### [If Actions Speak Louder than Words...](#if-actions-speak-louder-than-words)
+
+### [Reading Corporate Action](#reading-corporate-action)
+
+### [Signaling for Founders](#signaling-for-founders)
+
+# [Coordinated Signaling](#coordinate-signaling)
+
+### [Great People with No Small Plans](#great-people-with-no-small-plans)
+
+### [Getting from A-to-B](#getting-from-a-to-b)
+
+### [... Yeh, My Attitude is Real Lame](#yeh-my-attitude-is-real-lame)
+
+### [When Will I Ever Learn?](#when-will-i-ever-learn)
+
+# [Deconstructing Information Retrieval](#deconstructing-information-retrieval)
+
+<a name="signaling-in-world-war-two" />
+
+### [Signaling in World War Two](#signaling-in-world-war-two)
 
 The best example of signaling I can think of is the great lengths that
 the US and UK undertook to surprise Germany with the invasion location
@@ -42,7 +66,9 @@ weren't for this tactical use of signaling, the UK and US would have
 suffered massively larger losses in DDay.  The story is even more
 fascinating when you hear all the details.  Definitely worth it.
 
-### Every Robust Strategy Accounts for Signaling
+<a name="every-robust-strategy-accounts-for-signaling" />
+
+# [Every Robust Strategy Accounts for Signaling](#every-robust-strategy-accounts-for-signaling)
 
 This story underscores the importance of understanding how your
 actions affect the behavior of others.  Any great strategy must take
@@ -54,7 +80,9 @@ wanted.  In order for it to be useful, you need to understand how your
 opponent plays the game, whether they understand a particular strategy
 and how they might react to such a strategy.
 
-### If Actions Speak Louder than Words...
+<a name="if-actions-speak-louder-than-words" />
+
+### [If Actions Speak Louder than Words...](#if-actions-speak-louder-than-words)
 
 #### Then Reactions are Crystal Clear
 
@@ -71,19 +99,21 @@ You can also gauge intent behind actions by attempting to place your
 opponent into a scenario where you hope their reaction will belie
 their tactics or overall strategy.  Mastery of this technique confers
 almost psychic ability. It can also turn you into someone who appears
-to be a controlling asshole, incapable of trust.  Yet, the unfortunate
-victim of success is often the potential for trust itself.  People in
-high-stakes scenarios can't leave them to fickle vulnerabilities like
-trust.  There are some scenarios where the only acceptable level of
-risk is zero.
+to be a controlling asshole, incapable of trust.  Yet, the potential
+for trust itself is often the unfortunate victim of success. People in
+high-stakes scenarios can't leave themselves to fickle vulnerabilities
+like trust.  There are some scenarios where the only acceptable level
+of risk is zero. Nothing is impossible.
 
-### Reading Corporate Action
+<a name="reading-corporate-action" />
+
+### [Reading Corporate Action](#reading-corporate-action)
 
 For the same reason that it's smart to employ a lawyer during trial,
 it's smart to shield your actions behind a corporation.  To the dismay
 of Bernie supporters everywhere, corporations have rights -- which is
 ironic because apparently you can't even read the Bill of Rights
-through all the shit that's smeared on it.
+through everything smeared on it.
 
 > Quick sidenote: I have tried so hard to escape the rhetorical dead
 > end of defending our rights, but honestly it seems that we have to
@@ -104,7 +134,9 @@ changes in their behavior. Public companies are at a much greater risk
 of being "read" because so much more information is either available
 publicly or to stockholders.
 
-### Signaling for Founders
+<a name="signaling-for-founders" />
+
+### [Signaling for Founders](#signaling-for-founders)
 
 As for founders and great leaders, they seem to prefer to not signal
 at all -- which would be boring in my opinion.  For founders of
@@ -159,10 +191,12 @@ someone else's behavior and character.
 > For those of you who want to be "discovered" -- it is paramount that
 > you not only stay true to yourself, but also be sure to develop into
 > a version of your true self who is approachable, ethical and
-> remarkable. How would someone describe you to your heroes? I have
+> *remarkable*. How would someone describe you to your heroes? I have
 > failed so many times here...
 
-### Coordinated Signaling
+<a name="coordinate-signaling" />
+
+# [Coordinated Signaling](#coordinate-signaling)
 
 Founders need to prevent people from resolving and deducing more
 information based on their reactions, especially if they're involved
@@ -185,10 +219,11 @@ that our energy can be combined and we can accelerate towards a
 destination that would otherwise be impossibly remote.  This is
 another phenomena where one must find the right balance.  It's also
 frustrating when group motivation to resist change derided as
-"outlandish" results in the dismantling of any dissenter. Sometimes,
-it takes balls to stand up. When you realize how much someone has to
-give up to do so, you should respect that person, in spite of whether
-you agree with what they stand for.  It's very hard to be that person.
+"outlandish" results in the dismantling of any dissenter. Standing up
+for what you believe in isn't easy, but it's worth it. When you
+realize how much someone has to give up to do so, you should respect
+that person, in spite of whether you agree with what they stand for.
+It's very hard to be that person.
 
 Keeping business partnerships in mind when talking about signaling
 from a organizational perspective is more complicated.  Agreements
@@ -204,7 +239,9 @@ their competitor's strategy.  While I specifically mentioned *solely*,
 this isn't true -- no strategy is employed for a single explicit
 purpose in business.
 
-### Great People with No Small Plans
+<a name="great-people-with-no-small-plans" />
+
+### [Great People with No Small Plans](#great-people-with-no-small-plans)
 
 Great people with no small plans have a clear distinction b/w what
 info can be shared and what should remain private. The understand what
@@ -223,7 +260,9 @@ They know what questions to ask and what not to ask and the
 implications of making particular statements.  They understand
 motivations behind their own actions and their colleagues actions.
 
-### Getting from A-to-B
+<a name="getting-from-a-to-b" />
+
+### [Getting from A-to-B](#getting-from-a-to-b)
 
 #### Signaling Overcomplicates Everything
 
@@ -261,7 +300,9 @@ cofound a company with me if I thought my skillset meshed up. That is
 what is so confusing: everyone around me acts as though my fate is a
 foregone conclusion, without ever discussing why ... and why is that?
 
-### ... Yeh, My Attitude is Real Lame.
+<a name="yeh-my-attitude-is-real-lame" />
+
+### [... Yeh, My Attitude is Real Lame](#yeh-my-attitude-is-real-lame)
 
 #### Trust me. I Know!
 
@@ -296,7 +337,9 @@ physically travel somewhere. And usually when I try to take advantage
 of these opportunities, I often have to involve one of those people
 for whom all roads lead to Rome.
 
-#### When Will I Ever Learn?
+<a name="when-will-i-ever-learn" />
+
+### [When Will I Ever Learn?](#when-will-i-ever-learn)
 
 When I have a cofounder or a team of three that works on a project
 with me from begining to miserable failure, then I will concede that I
@@ -311,7 +354,9 @@ shall we say, seem to preclude me from ever reaching success or
 renown. Really? David Conner can't gain notoriety or influence?
 Hmmm.... Rule #1: don't present me with a challenge.
 
-### Deconstructing Information Retrival
+<a name="deconstructing-information-retrieval" />
+
+# [Deconstructing Information Retrieval](#deconstructing-information-retrieval)
 
 They also understand how important it is to acquire information, even
 though directly asking the question would signal elements of their own
