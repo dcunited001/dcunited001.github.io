@@ -150,9 +150,21 @@ places.
 
 ## [Facets of Greatness](#facets-of-greatness)
 
-#### &#x2605; [Facets of Greatness: Intro](/posts/2016-05-12-facets-of-greatness-intro.html)
+#### &#x2605; [Intro](/posts/2016-05-12-facets-of-greatness-intro.html)
 
 #### &#x2605; [Monumental Accidents](/posts/2016-05-14-facets-of-greatness-the-unknown-monumental-accidents.html)
+
+#### &#x2605; [Maximizing Mutual Benefit](/posts/2016-05-14-facets-of-greatness-networking-maximizing-mutual-benefit.html)
+
+#### &#x2605; [Synoptic Epigrams](/posts/2016-05-13-facets-of-greatness-communication-synoptic-epigrams.html)
+
+#### &#x2605; [If Actions Speak Louder](/posts/2016-05-13-facets-of-greatness-signaling-if-actions-speak-louder.html)
+
+#### &#x2605; [Meta and Epi](http://localhost:4000/posts/2016-05-13-facets-of-greatness-knowledge-meta-and-epi.html)
+
+#### &#x2605; [Congressional Power Structures](/posts/2016-07-14-facets-of-greatness-congressional-power-structures.html)
+
+#### &#x2605; [Understanding the Political System](/posts/2016-07-16-facets-of-greatness-understanding-the-political-system.html)
 
 ## [Consciousness](#consciousness)
 
