@@ -25,7 +25,7 @@ excerpt: ""
     - but root as in uppermost in totality
 - reference harvord international law journal idea about
   transnationalism and the "multi-hub" architecture of overlapping
-  transational soveriegnty (i think)
+  transnational soveriegnty (i think)
   - but, with this perspective, then authority becomes shared/tiered
     and there are overlapping degrees (& tiers) of sovereignty
     - this is already happening by the way, but there are good and bad
@@ -97,8 +97,10 @@ excerpt: ""
 
 ### TransNatl: In the context of the Westphalian Paradigm
 
-- transition from the westphalian paradigm could end up being very
-  messy: politically, culturally, and economically.
+- transition from the
+  [westphalian paradigm](https://en.wikipedia.org/wiki/Westphalian_sovereignty)
+  could end up being very messy: politically, culturally, and
+  economically.
   - some of the people architecting this know it, to varying degrees
   - this takes place b/w 2015-2050
     - if approached in the right way (i.e. WITH *COMMUNICATION* and
@@ -286,7 +288,10 @@ excerpt: ""
   production requires space. this is true, almost first and foremost.
   - i.e. if you don't have space (surface area on earth) you can't
     produce large quantities of energy
-    - this is why island nations with large CZ & EEZ have both:
+    - this is why island nations with large
+      [CZ](http://www.gc.noaa.gov/gcil_maritime.html) &
+      [EEZ](https://en.wikipedia.org/wiki/Exclusive_economic_zone)
+      have both:
       - (1) capacity for wind (& solar? maybe ... dependends on
         engineering specifics i.e. durability)
       - (2) capacity for carbon cleanup by reducing quantities of
