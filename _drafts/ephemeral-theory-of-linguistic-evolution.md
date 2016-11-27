@@ -194,7 +194,6 @@ B: あし (ashi)
     and other "phonetic collisions" in each language
   - for an example, see below:
 
-
 ```
 去る ＋ 皿 → 盍
 sa(ru) + sara → ??? !@#$ it, i forget
@@ -212,4 +211,9 @@ sa(ru) + sara → ??? !@#$ it, i forget
 [去: to leave or go away](https://en.wiktionary.org/wiki/%E5%8E%BB#Japanese)
 [皿: plate/dish](https://en.wiktionary.org/wiki/%E7%9A%BF)
 [盍: cover, come together, congregate, meet](https://en.wiktionary.org/wiki/%E7%9B%8D)
-[盍(jisho)](http://jisho.org/search/%E7%9B%8D%20%23kanji)
+[盍(jisho): cover, meet](http://jisho.org/search/%E7%9B%8D%20%23kanji)
+
+- also, there's the graphic equivalent of a synonym that's only really
+  found in traditional chinese. there are thousands of rarely used
+  characters whose meanings differ only slightly from commonly used
+  characters
