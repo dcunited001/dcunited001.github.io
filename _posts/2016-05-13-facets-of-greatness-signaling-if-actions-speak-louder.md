@@ -26,25 +26,25 @@ major investment of their resources and I wonder why they wanted to
 make that knowledge public. I wish I could be a part of those
 discussions because I'm sure they have good reasons.
 
-### [Signaling in World War Two](#signaling-in-world-war-two)
+### &#x2605; [Signaling in World War Two](#signaling-in-world-war-two)
 
 # [Every Robust Strategy Accounts for Signaling](#every-robust-strategy-accounts-for-signaling)
 
-### [If Actions Speak Louder than Words...](#if-actions-speak-louder-than-words)
+### &#x2605; [If Actions Speak Louder than Words...](#if-actions-speak-louder-than-words)
 
-### [Reading Corporate Action](#reading-corporate-action)
+### &#x2605; [Reading Corporate Action](#reading-corporate-action)
 
-### [Signaling for Founders](#signaling-for-founders)
+### &#x2605; [Signaling for Founders](#signaling-for-founders)
 
 # [Coordinated Signaling](#coordinate-signaling)
 
-### [Great People with No Small Plans](#great-people-with-no-small-plans)
+### &#x2605; [Great People with No Small Plans](#great-people-with-no-small-plans)
 
-### [Getting from A-to-B](#getting-from-a-to-b)
+### &#x2605; [Getting from A-to-B](#getting-from-a-to-b)
 
-### [... Yeh, My Attitude is Real Lame](#yeh-my-attitude-is-real-lame)
+### &#x2605; [... Yeh, My Attitude is Real Lame](#yeh-my-attitude-is-real-lame)
 
-### [When Will I Ever Learn?](#when-will-i-ever-learn)
+### &#x2605; [When Will I Ever Learn?](#when-will-i-ever-learn)
 
 # [Deconstructing Information Retrieval](#deconstructing-information-retrieval)
 
