@@ -43,9 +43,9 @@ to quantify.  Unless you're familiar with the math that drives
 companies like Google, then communication is going to seem like a
 liberal art.  But great people learn how to systemize everything.
 It's difficult to truly excel at something without systemizing it.
-And they excel at both parsing the nuggets of gold from information
-received, as well as crafting their content to convey the intended
-message.
+And both Google and the truly great excel at both parsing the nuggets
+of gold from information received, as well as crafting their content
+to convey the intended message.
 
 <a name="crafting-a-succinct-message" />
 
@@ -92,11 +92,19 @@ network with customers, to learn from them, to understand how they
 think about your products and to observe the kinds of experiences your
 products create.  But social media also presents itself as a huge
 vulnerability to business strategy.  If you're not watching your
-message, you could be revealing a lot of information abou that
+message, you could be revealing a lot of information about that
 business strategy.  You could be projecting the wrong message and
 associations for your brand, confusing your customer's perception of
 brand identity or unintentionally diluting your brand's value.
-Branding is one of the most crucial aspects to tech products.
+Branding is one of the most crucial aspects to tech products,
+especially since tech products are informational by nature.
+
+Whereas a can of coke has a characteristic sound when you open it,
+technology products lack many of the physical phenomena that
+correspond to the reinforcement of brand. The types of experiences
+that generate your consumer's notion of brand identity are harder to
+singularize: they are more highly varied and differ in more
+virtualized ways that are difficult to quantify/control.
 
 <a name="a-wealth-of-experience-in-interviews" />
 
@@ -143,7 +151,7 @@ message today as compared to the past?  What are the obvious points
 they could be making, but haven't mentioned and why?  Do how they stay
 on message or circle back from a risky area?  Does it seem like the
 interviewer or this person veered off track and why?  What was the
-outcome of seemingly off the cuff statements and questions?  Good?
+outcome of seemingly off-the-cuff statements and questions?  Good?
 Bad?
 
 It's important to note that many, if not most, inferences you make
@@ -156,11 +164,14 @@ words & actions. So properly weighting the inferences you draw is key.
 
 #### And Know Your Audience
 
-It's crucial and difficult to understand how audience members are
-going to perceive your words and actions.  This varies from area to
-area.  Politics can be volatile and people will latch onto anything.
-Business, not so much, but it can be unpredictable.  But, it's
-definitely worth it to have someone else help you construct your
+There's so much you can garner from the audience's reaction. Have you
+ever thought about how it would be to perform as the rockstar on
+stage? There's a ton of information you're missing, as the audience
+member. It's crucial and difficult to understand how audience members
+are going to perceive your words and actions.  This varies from area
+to area.  Politics can be volatile and people will latch onto
+anything.  Business, not so much, but it can be unpredictable.  But,
+it's definitely worth it to have someone else help you construct your
 message here and to help you craft together content for a media
 appearance.
 
@@ -168,11 +179,11 @@ appearance.
 
 ### [Let's Talk About Me](#lets-talk-about-me)
 
-So I also like to think about the process behind an interview or media
-appearance.  How did they identify the questions being asked?  What
-was the process to set up the interview?  What's the message they're
-obstensibly trying to convey?  Why did they agree to this appearance?
-What are both parties getting out of it?
+Imagine the processes behind an interview or media appearance.  How
+did they identify the questions being asked?  What was the process to
+set up the interview?  What's the message they're obstensibly trying
+to convey?  Why did they agree to this appearance?  What are both
+parties getting out of it?
 
 <a name="why-those-questions" />
 
@@ -181,7 +192,7 @@ What are both parties getting out of it?
 #### And Why Those Answers?
 
 If they have someone managing PR, how did they work to posture content
-for the organization and/or it's projects for this interview?  What
+for the organization and/or its projects for this interview?  What
 would motivate them to do so?  How long ago does it seem like they
 structured their content and message?  Have current events affected
 their PR posturing in the week(s) leading up to the interview?  For
