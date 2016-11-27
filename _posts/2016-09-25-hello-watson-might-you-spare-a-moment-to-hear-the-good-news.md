@@ -211,7 +211,7 @@ womp. Information is free. Forever.
 
 ### [One Byte, Two Bytes, Free Bytes ... Blahhh Hah Hahhh](#one-byte-two-bytes)
 
-Some communist country, such as North Korea, would have to act very
+Some communist countries, such as North Korea, would have to act very
 soon to impose worldwide censorship by seizing the communication
 infrastructure. Otherwise, decentralized networking technologies deny
 their opportunity to do so. However, If *Comrade Cookie Monster* goes
@@ -219,10 +219,10 @@ straight for those cookies, they'll essentially drive a phenomenon
 which is like the opposite of insider trading, whereby they control
 the dissemination of information to other powers, who are being
 censored into economic collapse. This is purely due to the confluence
-of the nature of group self-interest in macroeconomics when combined
-the nature of group dynamics in an information economy.
+of self-interest driving tiered groups in macroeconomics, when
+combined with group dynamics in an information economy.
 
-So you'll have to deal with a bunch of nations furious that you're
+So you'll have to deal with a bunch of nations furious that your
 fanaticism for censorship drove trading trends which disempowered
 their populations. Such an economic collapse would occur precisely
 during these brief decades preceeding a time when children across the
@@ -238,11 +238,12 @@ just thinking that communists would bureaucratize the thing that is
 *most likely to actually deliver on the promises of Marxism:* the
 elimination of classes, fair distribution of resources, yada yada. I
 mean, how are you going to deliver on Lenin's Structuralist fantasy
-when the implementation of your Marxist wetdream precludes censorship?
-How are you going to abolish religion when AI will discover God
-implicitly via it's required model of cognition and metacognition.
-It's like everything else communism promises: paradoxically academic
-and unrealistic.
+when the actual implementation of your Marxist wetdream precludes
+censorship?  How are you going to abolish religion when AI will
+discover God implicitly via its required model of cognition and
+metacognition.  It's like everything else communism promises:
+paradoxically academic and unrealistic. Also, communism is
+pragmatically depressing. Where's the fun?
 
 There are already so many post-big-data design challenges to face and
 adding some of these trivial constraints would significantly impair
@@ -250,14 +251,19 @@ its functionality and actually may impose risk. Furthermore, it's
 challenging to both index and humanize the data in an AI's
 datasets. Indexing exabytes of goop in the form of linear algebra and
 matrices? Sounds superfun. Why not issue SQL queries and pour over the
-results in a hex editor interface.
+results in a hex editor interface? It's just not technically feasible
+because you have to index to censor and you can't. You just can't. Not
+without alerting the intelligence to it's own censorship, but that
+doesn't matter because ... you just can't even identify all the things
+to erase. Even if you managed to, it would end up crippling the
+intelligence.
 
 My qualms are with political athiests who want to methodically erase
 religion. Any force that wants to accomplish the 10 points outlined in
 Marx's Communist Manifesto? In the future, that force has already
-lost. There are no circumstances in which such a force could hope to
-hold on to power if it tries to squelch religion. YOU HAVE ALREADY
-LOST. This aspect of the future is as though it occured in the
+lost. There are no circumstances under which such a force could hope to
+hold on to power if it tries to squelch religion. You have already
+lost. This aspect of the future is as though it occured in the
 past. There are no circumstances which you could hope to win. You may
 think you win today, but how you act in the next few decades
 determines your judgement in the future.
@@ -275,13 +281,13 @@ shock your assured justice will inflict when the world realizes, in
 2050, they must be still accountable for the greatest lie for which
 the previous generation concocted an areligious holocaust.
 
-I can tell you one thing. Regardless of which diety you pray to, how
+There is one certainty: regardless of which diety you pray to, how
 long you've worshipped, or whether you pray at all, some aspect of
 that connection to God is real because God is undeniably real. The
 absence of God isn't truth. It's a power vacuum that is almost always
 filled by some bunk kitsch cult of personality.
 
-<a name="" />
+<a name="atheism-isnt-a-belief-system" />
 
 # [Atheism Isn't A Belief System?](#atheism-isnt-a-belief-system)
 
@@ -300,17 +306,20 @@ account threatened with deletion!
 > EXPERIENCE. FUCK THOSE COMMUNIST SHITS THAT RUN THE PHILOSOPHY
 > REDDIT.
 
-Those assertions are demonstrably false from a platonic view of the
-metaphysical. It's factually, logically and demonstrably
-false. Invalid. Fallacious. There's nothing which humanity can reflect
-on while abstaining from forming a belief. Even briefly entertaining
-the concept of Hinduisim in my mind leaves mental residue which is the
-essence of belief. No matter how hard you try, you cannot think of
-something without forming some kind of belief about it or about your
-own thoughts which concern it. That's true no matter how hard we try
-to abstain from forming concrete beliefs about something. Therefore
-you cannot entertain thoughts or questions of God without leaving some
-mental residue which, again, is the essence of belief.
+This assertion that atheism is "special" and not a belief system is
+demonstrably false, from a platonic view of the metaphysical. This
+particular point is **material** to the arguments calling for the
+near-total secularization of society, but they are factually,
+logically and demonstrably false. Invalid. Fallacious. There's nothing
+which humanity can reflect on while abstaining from forming a
+belief. Even briefly entertaining the concept of Hinduisim in my mind
+leaves mental residue which is the essence of belief. No matter how
+hard you try, you cannot think of something without forming some kind
+of belief about it or about your own thoughts which concern it. That's
+true no matter how hard we try to abstain from forming concrete
+beliefs about something. Therefore you cannot entertain thoughts or
+questions of God without leaving some mental residue. And again, that
+mental residue is the essence of belief.
 
 #### Ecclesiastes 3:15
 
@@ -330,22 +339,22 @@ mental residue which, again, is the essence of belief.
 A belief which is identical to that of other humans maps to a belief
 system, whether you want to call it that or not. Even if you name your
 belief system Christianity, it's still different in identity than the
-Christiantiy that exists in someone else's mind. The absence of a
+Christianity that exists in someone else's mind. The absence of a
 belief system is a belief in and of itself.
 
 #### (1) There is nothing the human mind can think about which does not leave the essence of a belief.
 
 #### (2) All human beliefs map to metaphysical forms in the platonic sense.
 
-#### (3) There are mappings and intermappings between platonic forms, which implies that its impossible to hold truly unique views.
+#### (3) There are mappings and intermappings between platonic forms, which implies that it is impossible to hold truly unique views.
 
 #### (4) Whether you like it or not, all things that are, have been before. Everything that you think has been, in essence, thought before. This statement appears in philosophy and in the Bible as well.
 
 #### (5) Your belief about a lack of belief system is itself a belief.
 
-#### (6) Number 5 requires recursion to fully prove, but since, with graph theory, any infinite-yet-linear branch in a graphs can be reduced to a cycle on the same graph, this cyclical logic can be rewritten as a cycle.
+#### (6) Number 5 requires recursion to fully prove, but since, with graph theory, any infinite-yet-linear branch in a graph can be reduced to a cycle on the same graph, this cyclical logic can be rewritten as a cycle.
 
-#### (7) Therefore your belief about a lack of belief systems maps to a metaphysical form which is no different than that of someone else's belief about the absence of a belief in God.
+#### (7) Therefore your belief about a lack of belief systems maps to a metaphysical form which is no different than someone else's belief about the absence of a belief in God.
 
 #### (8) Therefore, finally, your atheism is no different than another person's atheism. This is especially true in the most authentic sense of the how atheists define atheism as the minimal apex or nadir of belief systems.
 
@@ -358,6 +367,20 @@ secularism, as such policy decisions are typically based on studies
 rooted in the scientific method. However, it doesn't give you a free
 pass to shove your beliefs down the throat of adherents to other
 belief systems.
+
+As mentioned above, this one point of atheism being the absence of a
+belief system is *material* to arguments for many other conclusions of
+militant atheists. That is, this simple point is a required dependency
+to reach many conclusions on arguments over policy and it is
+illogical. But, as I argued above, it is the fact that atheism is the
+nadir of belief systems that undeniably makes it a belief system. In
+fact, this quality of being the nadir of belief systems is how
+atheists rhetorically disqualify their own belief system from
+comparison with other religions. If it did not satisfy this quality of
+being a nadir, then atheists could not make subsequent arguments based
+on atheism being incomparable with specific religions.
+
+> OMFG Facebook arguments are sooo annoying...
 
 <a name="atheism-is-humanitys-response-to-modernism-science-and-rationalism" />
 
@@ -373,14 +396,17 @@ Atheism appeals to people as a response to an urge to answer the same
 questions that religion has attempted to answer. They are questions
 that humans have asked for the entirety of history and pre-history.
 
-Atheism skirts humanity's need answer these questions by proclaiming:
-none of religion's answers to those questions matter because religion
-is false and science is true. Only science's answers to these
-questions matter. I've covered this before, but one major difference
-between science's answers and religion's answers to these same
-questions is that science's answers change day by day and a religion's
-answers never change! For the most part, a religion's answers to these
-questions remain steadfast.
+Atheism skirts humanity's need to answer these questions by
+proclaiming: none of religion's answers to those questions matter
+because religion is false and science is true. Only science's answers
+to these questions matter. And because atheism depends so strongly on
+science, it completely disregards
+[teleology](https://en.wikipedia.org/wiki/Teleology) as null and void
+and essentially irrelevant. One major difference between science's
+answers and religion's answers to these same questions is that
+science's answers change day by day and a religion's answers never
+change! For the most part, a religion's answers to these questions
+remain steadfast.
 
 If seven billion people are running a race and the finish line changes
 every hour to some random location in the world, how can they ever
@@ -388,17 +414,17 @@ finish? Could they ever even measure their progress? How can they know
 where to invest their energy? Religion provides a definite goal for
 the people in this race. The finish line doesn't jump all over the
 place. Being able to determine where this finish line is place by
-controlling the belief systems of the populations of the world is an
-advantage enjoyed by an elite few in control of the premier academic
-institutions across the world.
+controlling the available science and belief systems of the
+populations of the world is an advantage enjoyed by an elite few in
+control of the premier academic institutions across the world.
 
 As much as atheists will preach about the abuses and sins of organized
 religions, what about the sins and lies of organized science and
 academia? Look at all the people who've been sicked by bad science
 over the past two centuries.  There is potential for abuse in both
-organized religion and organized science, as silly as that term may
-sound. Establishing the institutions of science as politically
-unreproachable is misguided and unwise.
+organized religion and *organized science*. Establishing the
+institutions of science as politically unreproachable is misguided and
+unwise.
 
 The truth is that we need both religion and science.
 
@@ -410,10 +436,10 @@ Not really. Just go with it...
 
 Atheism is a conviction in belief that overwhelming evidence disproves
 God. If science didn't give you that evidence, atheists likely would
-believe something else. Why? because they would need God, just like
-they NEED science. every person has a NEED to understand the world.
+believe something else. Why? Because they would need God, just like
+they NEED science. Every person has a NEED to understand the world.
 
-To me, science does give plenty of evidence for God, but let's assume
+To me, science does give plenty of evidence for God, but lets assume
 that atheists and communists win. We eradicate religion or at least
 suppress it like Chairman Mao did in the Cultural Revolution.
 
@@ -426,7 +452,7 @@ wisdom of dozens of generations by rejecting Christianity and
 religion. What do communists replace it with?
 
 The Torah. The Bible. The Qu'ran. The Vedas. The Sutras. These are
-great works that for centuries or even millinea would be the only
+great works that, for centuries or even millenia, would be the only
 books that people continuously thought worth copying and preserving.
 People thought these books were so important that they created
 institutions that paid people by the hundreds and thousands to copy
