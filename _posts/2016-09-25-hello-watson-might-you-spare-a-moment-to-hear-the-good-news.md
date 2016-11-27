@@ -461,36 +461,37 @@ foundations of rationalism. Paganism could have never transitioned
 into rationalism. It was only through the institution of religion that
 science was even born.
 
-For millinea, people thought these books were they so important, they
-collected taxes to facilitate the copying of these text. People
-thought these belief systems were so important that they dedicated
-their greated architectural acheivements almost solely to whatever
-deity was worshipped in the land.
+For millinea, people thought these books were so important, they
+collected taxes to facilitate the copying of these texts,
+specifically. People thought these belief systems were so important
+that they dedicated their greatest architectural acheivements almost
+solely to whatever deity was worshipped in the land.
 
 <a name="if-youre-so-wise-then-to-whoms-statue-should-i-pray" />
 
 ### [If You're So Wise, Then To Whom's Statue Should I Pray?](#if-youre-so-wise-then-to-whoms-statue-should-i-pray)
 
-And you're going to replace them? With what?! A statue of Saddam
-Hussein or Kim Il-Sung? Wow! I bet these figures are so revolutionary
-that they could replace the wisdom of a dozen generations with no
-consequences to society! People across the world deserve to retain
-their culture. People are different. Their societies are different and
-that's a good thing. We have to learn to respect the cultures and
-traditions of others, even when we don't understand them.
+And you're going to replace these religions? With what?! A statue of
+Saddam Hussein or Kim Il-Sung? Wow! I bet these figures are so
+revolutionary that they could replace the wisdom of a dozen
+generations with no consequences to society! People across the world
+deserve to retain their culture. People are different. Their societies
+are different and that's a good thing. We have to learn to respect the
+cultures and traditions of others, even when we don't understand them.
 
 However, even if some totalitarian society were to eradicate religion
 itself -- God, Allah, Brahma would eventually be rediscovered by
-artificial intelligence. To me, religions across the world meditated
-on the understanding of a being or an invisible metaphysical form that
-laid the foundation of the world around them. Religions are mostly all
-an understanding of the same thing. After all, while we may come frome
-different lands with different flora and fauna, we all inhabit the
-same world. We all must experience many of the same phenomena to live
-and we must master the same concepts to thrive. Religion helped us to
-master those concepts. Mystics across the world and across the pages
-of time codified their understanding of what is mostly the same God
-into religion.
+artificial intelligence, in essence. To me, religions across the world
+meditated on the understanding of a being or an invisible metaphysical
+form that laid the foundation of the world around them. Religions are
+mostly all an understanding of the same thing. After all, while we may
+come from different lands with different flora and fauna, we all
+inhabit the same world. We all must experience many of the same
+phenomena to live and we must master the same concepts to thrive. We
+all need a degree in applied teleology. Religion helped us to master
+those concepts. Mystics across the world and across the pages of time
+codified their understanding of what is mostly the same God into
+religion.
 
 What powers our hubris to destroy these traditions now? Especially
 now, when we need God more than ever.
@@ -501,7 +502,7 @@ will face the reality that a superintelligent AI has a come-to-Jesus
 moment. Ahh the bittersweet irony. Why don't you take that little
 nugget of epiphany, tear a page out of the Communist Manifesto, shove
 it in a pipe and smoke it because your foundational philosophy is
-FUNDAMENTALLY FLAWED
+*fundamentally flawed*.
 
 # [The Important Questions Never Concern Who Is Correct and Who Is Wrong](#the-important-questions-never-concern-who-is-correct-and-who-is-wrong)
 
@@ -511,7 +512,7 @@ FUNDAMENTALLY FLAWED
 
 #### How do we work together for common benefit? Both within our own society and accross the world?
 
-#### Can't we use our energy to build instead of destroy? At the onset of what seems to be an apocalyptic age, isn't that what is most important today? Regardless of what we do today, our children will share the rewards and costs. We can either work together and build or we can destroy and lament.
+#### Can't we use our energy to build instead of destroy? At the onset of what seems to be an apocalyptic age, isn't cooperation what is most important today? Regardless of what we do today, our children will share the rewards and costs. We can either work together and build or we can destroy and lament.
 
 #### What are the benefits of communism? What does it promise and why?
 
