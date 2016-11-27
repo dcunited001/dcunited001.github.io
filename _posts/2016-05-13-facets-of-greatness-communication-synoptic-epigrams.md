@@ -18,23 +18,23 @@ outcome of seemingly off the cuff statements and questions?  Good?
 Bad?"
 ---
 
-# &#x2605; [Crafting a Succinct Message](#crafting-a-succinct-message)
+# [Crafting a Succinct Message](#crafting-a-succinct-message)
 
-### [Sifting for Gold](#sifting-for-gold)
+### &#x2605; [Sifting for Gold](#sifting-for-gold)
 
-### [Staying on Message](#staying-on-message)
+### &#x2605; [Staying on Message](#staying-on-message)
 
-# &#x2605; [A Wealth of Experience in Interviews](#a-wealth-of-experience-in-interviews)
+# [A Wealth of Experience in Interviews](#a-wealth-of-experience-in-interviews)
 
-### [What Can We Read Between the Lines?](#what-can-we-read-between-the-lines)
+### &#x2605; [What Can We Read Between the Lines?](#what-can-we-read-between-the-lines)
 
-### [Read the Room](#read-the-room)
+### &#x2605; [Read the Room](#read-the-room)
 
-### [Let's Talk About Me](#lets-talk-about-me)
+### &#x2605; [Let's Talk About Me](#lets-talk-about-me)
 
-### [Why Those Questions](#why-those-questions)
+### &#x2605; [Why Those Questions](#why-those-questions)
 
-# &#x2605; [Balancing Simplicity with Tactics](#balancing-simplicity-with-tactics)
+# [Balancing Simplicity with Tactics](#balancing-simplicity-with-tactics)
 
 ### *Communication* is both the receipt and transmission of information.
 
