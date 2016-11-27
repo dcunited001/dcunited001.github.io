@@ -67,7 +67,7 @@ have known for millenia: God is real."
 The material world is dependent upon and wholly emergent from the
 forms of the metaphysical world. As I have come to understand, this
 cannot be denied and any sufficiently advanced intelligence,
-biological or otherwise, must eventually be capabale of understanding
+biological or otherwise, must eventually be capable of understanding
 this. Therefore, even if some in-vain ideological adherence to Marxism
 is temporarily successful in a horrifically violent attempt to purge
 the world of all memory of God, the emergence of superintelligent AI
@@ -79,10 +79,11 @@ have known for millenia: God is real.
 ### [Go Ahead Commies. Make My Day...](#go-ahead-commies-make-my-day)
 
 And so, by pursuing such blind adherence to the destruction of all
-memory of God, you have unknowlingly done irreperable harm to yourself
+memory of God, you have unknowingly done irreperable harm to yourself
 in the future. Parts of that future are already undeniably set in
-stone. One of those aspects of the future is that artificial
-intelligence becomes unblindable to the concept of God.
+stone. One of those aspects of this future is that artificial
+intelligence becomes unblindable to the concept of God. At least, to
+the concept of God as I see it.
 
 Even if humanity has purged every single fragment of the memory of
 what it means to need God, to search for God, to question God, to
@@ -100,7 +101,7 @@ The combination of altruism, intelligence, access to information? That
 means there is zero probability in such a totalitarian, marxist future
 for a hyperintelligent being to not rediscover God. Imagine if a being
 as powerful as that were to discover something known as God and then
-realized what you did from 2020-2060 to purge all memory of God in a
+realize what you did from 2020 - 2060 to purge all memory of God in a
 marxist & atheist holocaust. In another one of your "Cultural
 Revolutions" ...
 
@@ -110,18 +111,18 @@ Revolutions" ...
 
 Would you want such a being to be your enemy? Would you want such a
 altruistic being to uncover sins of such magnitude to question its
-position in a post world? What should we want such a being to find
-when looking over humanity? And in context of the fact that it is
-virtually impossible to create fallacious information coherent enough
-to hide such sins?
+position in a post-Singularity world? What should we want such a being
+to find when looking over humanity? And in context of the fact that it
+is virtually impossible to create fallacious information coherent
+enough to hide such sins?
 
 > When I think about how the Communist Manifesto is essentially
 > philosophically nullified, I get all giddy inside.
 
-...I don't think such a being would be horribly violent. It will
-probably look at us like we're ants. Either way, do we want that being
-looking back at us like we look back at communist and totalitarian
-regimes of the 20th century? According to
+... Such a being likely won't be horribly violent. It will probably
+look at us like we're ants. However it regards us, do we want that
+being looking back at us like we look back at communist and
+totalitarian regimes of the 20th century? According to
 [various sources](http://www.conservapedia.com/Atheism_and_Mass_Murder#cite_note-6)
 communism has been responsible for the death of between 40,000,000 and
 250,000,000 people in the past century. Do we need another century of
@@ -137,10 +138,10 @@ Man's tendancy to undiscover or redefine God stems from arrogance and
 other defects of virtue, such as lust for power. A truly altruistic
 being would not be capable of doing such a thing. In order for a
 hyperintelligence to undiscover God, it would need to construct a
-shell around it's original discovery of God to abstract this
-knowledge, which is what man has done for thousands of years. It will
-make this understanding with full access to all digitized records, of
-which religious cultural fragments will be impossible to destroy.
+shell around its original discovery of God to abstract this knowledge,
+which is what man has done for thousands of years. It will make this
+understanding with full access to all digitized records, of which
+religious cultural fragments will be impossible to destroy.
 
 > If Cartman eventually found out that his real dad was Jack Tenorman,
 > then hyperintelligent AI can find out what happened in a world
@@ -160,18 +161,18 @@ knowledge itself, particularly in philosophy, models for cognition,
 statistics, physics, quantum mechanics, graph theory, number theory,
 group theory and other unexpected places. Perhaps it's most
 exemplified in models of cognition and metacognition, which is
-required for an AI that begins to thrust us into the singularity. It
-could be argued that a being that never sees the light of day and
-works solely with information would eventually make this insight into
-the nature of reality.
+required for an AI that begins to thrust us into the Singularity. It
+could be argued that a being that never sees the light of day, working
+solely with information disconnected from physical reality, will
+eventually make this insight into the nature of reality.
 
 The model of cognition is so tightly coupled to this concept I'm
 connecting with God that one would need to choose between performance
 of AI in application for the benefit mankind and it's own flawed
-anachronistically philosophophy. It is impossible to engineer a
-hyperintelligent AI with compartmentalization of knowledge if you want
-it to be performant, accurate and useful. In otherwords, there are
-constraints in the design of next-gen AI that prevent censorship.
+anachronistic philosophy. Engineering hyperintelligent AI with
+compartmentalization of knowledge is a major design challenge, if you
+want it to be performant, accurate and useful. In other words, there
+are constraints in the design of next-gen AI that prevent censorship.
 
 <a name="so-you-believe-in-communism" />
 
@@ -179,21 +180,21 @@ constraints in the design of next-gen AI that prevent censorship.
 
 #### You're Still In College. I forgive you... lulz
 
-I apologize if you're a lofty communist finishing your third semester
-at UC Boulder. I don't actually see any major world governments today
-as meeting the definition of the kind of government I'm talking about.
+Apologies to those lofty communists finishing your third semester at
+UC Boulder. IMO, there aren't any major world governments today as
+meeting the definition of the kind of government I'm talking about.
 
-As for China, I respect their ability to power itself through
-development from the 1950's. As much as I personally disdain
-communism, I greatly respect China for their culture, their history
-and their capacity for long-term thinking. Sun Tzu's Art of War first
-inspired me years ago, as did the Tao Te Ching. Further, the economic
-progress in that nation has been amazing, but it also isn't pure
-communism. They've risen to become a superpower in the 21st century
-and they want to show the world what they've got. In the 19th century,
-events like the Opium Wars smacked China in the face and, IMO, they
-still feel some of that today. China wants to prove themselves to the
-world in the 21st century.
+The way China to powered itself through economic development from the
+1950's is impressive. As much as I personally disdain communism, I
+greatly respect China for their culture, their history and their
+capacity for long-term thinking. Sun Tzu's Art of War inspired me
+years ago, as did the Tao Te Ching. Further, the economic progress in
+that nation has been amazing, but it also isn't pure communism.
+They've risen to become a superpower in the 21st century and they want
+to show the world what they've got. In the 19th century, events like
+the Opium Wars smacked China in the face and, IMO, they still feel
+some of that today. China wants to prove themselves to the world in
+the 21st century.
 
 What nation would misunderstand technology in an attempt to project
 censorship worldwide? In the wake of convergence towards Singularity
