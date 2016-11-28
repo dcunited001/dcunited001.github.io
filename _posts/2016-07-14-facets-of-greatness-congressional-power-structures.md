@@ -282,7 +282,7 @@ alot in social situations, it's incredibly frustrating to not
 intuitively understand how these things work. If you don't have a
 clear understanding of these networks or if you don't have good
 information, it's very easy to expend a ton of time/energy in the
-wrong place. You're basically spinning yqour wheels.
+wrong place. You're basically spinning your wheels.
 
 That said, it's one thing to notice how these things work and another
 to be capable of pulling off a coordinated strategy leveraging players
@@ -310,13 +310,13 @@ you're working towards their interests. Yet, if you know that the
 factors determining that need will change soon, then it could be a
 waste of energy pursuing that.
 
-Predicting and understanding is crucial. It means you aren't slogged
-down by unnecessary battles and that your effort today is worth at
-least as much as it is tomorrow. A corollary to this is that by
-introducing issues you can force the opposing party to divide their
+Predicting and understanding change is crucial. It means you aren't
+slogged down by unnecessary battles and that your effort today is
+worth at least as much as it is tomorrow. A corollary to this is that
+by introducing issues you can force the opposing party to divide their
 energy, or at least draw it towards a more limited range of their
-platform ... which can help you predict how they are priortizing their
-issues. These techniques really can't be understated.
+platform ... which can help you predict how they are prioritizing
+their issues. These techniques really can't be understated.
 
 Everyone wants to look like they're taking part in slaying whatever
 dragon is rearing it's head that day. Is it really worth the energy?
