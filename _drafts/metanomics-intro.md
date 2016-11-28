@@ -10,6 +10,8 @@ excerpt: ""
 
 ### TODO
 
+- rename ergodic => dynamical
+  - or something similar
 - split into separate files
 - organize the first article
 - find pictures. make content visual & relatable
@@ -18,7 +20,7 @@ excerpt: ""
 
 
 
-- metanomic stochastic programming?
+- metanomic stochastic programming? (it's a dynamical system)
   - actually, stochastic programming is more about optimization and
     less about an evolving system whose dynamics vary based on state
     and stochastics

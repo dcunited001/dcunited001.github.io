@@ -11,8 +11,6 @@ excerpt: ""
 
 
 
-
-
 # Part: Two
 
 can transition from talking about tissue networks
@@ -90,7 +88,6 @@ metanomics and probabilistic programming
     - the MRI images can be sewn together and with enough imaging
     - then a highly accurate model of the connectome for the brain and
       other organs can be constructed
-
 
 # Spatially distributed state on the Macro Scale
 
