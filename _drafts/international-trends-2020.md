@@ -10,127 +10,6 @@ excerpt: ""
 
 - structure of entities/costs/markets in the medical industry
 
-# International Law/Trends
-
-- international norms => policy on AI & usages & limitations
-  - analogy for cyber/infowar w/ epidemic
-
-### UN As "root" in the network of subgraphs of power structures
-
-- this is a perspective i'm using to feel out my own understanding of
-  international law & institutions
-  - UN as "root" in the network of subgraphs of power structures
-    - not that it's "root" in terms of authority
-      - a la linux ~~ super-user
-    - but root as in uppermost in totality
-- reference harvord international law journal idea about
-  transnationalism and the "multi-hub" architecture of overlapping
-  transnational soveriegnty (i think)
-  - but, with this perspective, then authority becomes shared/tiered
-    and there are overlapping degrees (& tiers) of sovereignty
-    - this is already happening by the way, but there are good and bad
-      ways to transition into such a state
-      - i.e. it may take centuries for this to occur "naturally"
-      - literally centuries
-
-### international trade agreements
-
-- the three T's trade agreements are an example of such an overlapping
-  structure of sovereignties, but i'm just not sure that's the right
-  idea
-  - there may be no greater power than the power to regulate trade
-    - EVERYTHING RELATES TO COMMERCE
-      - and possibly descends from commerce
-
-- 3 T's Trade agreements below the UN to establish dominance over
-  trade to stifle the pheonomenon of "plurality" and complexity begot
-  from plurality in series of Bilateral Trade Agreements
-  - this was just an idea i was feeling out by imagining UN as "root"
-    and these three tiered, overlapping degrees of sovereignty
-    descending from it (relating to the harvard ILJ multi-hub paper)
-    - however, i am not, in any way, saying this is the way it should
-      be or even trying to put this out there (though i am, i guess)
-      - i don't think we should go dissolving notions and
-        implementations of sovereignty
-      - like i said, these kinds of trends take centuries
-
-### examples of multi-hub (overlapping) international agreements
-
-- these kinds of agreements can act as subgraphs in a multi-hub
-  architecture of global institutions
-  - again, i'm not saying this is how it should be. i'm mostly trying
-    to explore these concepts, so i can more properly conceptualize
-    them
-
-- trade: NAFTA/TPP/TTIP
-  - eughh...
-- regional policy agreements (environmental/industrial/etc)
-- technology/IP agreements
-- strategic/military
-- and more, no doubt
-
-### NAFTA/TPP Chapter 11
-
-- how do the ISDS clauses differ? do they both cover non-state
-  individuals?
-  - what status do non-enemy combatants have?
-    - IMO, if you don't have the rights of a citizen, you are not a
-      citizen, but you should still fall under the authority of NAFTA
-    - and therefore, if THE GOVERNMENT PROVABLY DEPRIVED YOU of
-      opportunities by abusing law and skirting on human rights
-      issues, you should be able to SUE THE FUCK OUT OF THEM IN AN
-      INTERNATIONAL ARBITRATION SUIT
-    - particularly, if your business is owned by an individual who is
-      not a citizen and was intended to be used as a launching pad for
-      opportunities of which you were provably and forcibly deprived,
-      you should be able to SUE THE FUCK OUT OF THE AMERICAN
-      GOVERNMENT ... maybe
-      - obviously, you're going to need a really good lawyer. like a
-        dozen of them, which sucks, BECAUSE THE GOVERNMENT SUBJECTED
-        YOU TO PSYCHOLOGICAL TORTURE AND DEPRIVED YOU OF ECONOMIC
-        OPPORTUNITIES
-        - *so basically, your life better be a great goddamn charity
-          case, because otherwise you are shit out of luck.*
-
-
-# Transnationalism
-
-### TransNatl: In the context of the Westphalian Paradigm
-
-- transition from the
-  [westphalian paradigm](https://en.wikipedia.org/wiki/Westphalian_sovereignty)
-  could end up being very messy: politically, culturally, and
-  economically.
-  - some of the people architecting this know it, to varying degrees
-  - this takes place b/w 2015-2050
-    - if approached in the right way (i.e. WITH *COMMUNICATION* and
-      *TIME*) then it's probably not that bad
-
-### TransNatl: In the context of Trade/ISDS & Federal Law
-
-- ISDS
-  - US Code
-  - TPP/TKIP
-  - Saudi Law (the 9-11 bill)
-    - this law was written in a VERY dubious manner
-    - and passed like 97-1 !!!
-    - POSSIBLE MEDIA BAIT-AND-SWITCH ... IMO
-    - yeh, i'm not even !@#$'ing kidding read that bill
-  - National Security Laws
-  - trade & treaty agreements
-
-# South China Sea
-
-- china's motivations for action include expansion of geopolitical
-  boundaries to fuel several decades of conflict.
-  - this change with geopolitically destabalize the entire oceanic
-    region! and also, china, which for most of its history, has only
-    cared about china, geographically
-    - that's an oversimplification, but for a very long time, conflict
-      there has been contained to that region (AFAIK. i'm not a
-      scholar on asiatic history)
-- i can't really elaborate on this
-
 # 2020's: trends to anticipate
 
 - TODO: move to a draft
@@ -337,7 +216,6 @@ excerpt: ""
 
 ### water, irrigation and desalinization
 
-
 # Misc
 
 ### fusion
@@ -351,3 +229,124 @@ excerpt: ""
     trade in african nations
   - elaborate on mechanics/dynamics of shifting supply chains
     - especially in the context of novel materials/fabrication tech
+
+# International Law/Trends
+
+- international norms => policy on AI & usages & limitations
+  - analogy for cyber/infowar w/ epidemic
+
+### UN As "root" in the network of subgraphs of power structures
+
+- this is a perspective i'm using to feel out my own understanding of
+  international law & institutions
+  - UN as "root" in the network of subgraphs of power structures
+    - not that it's "root" in terms of authority
+      - a la linux ~~ super-user
+    - but root as in uppermost in totality
+- reference harvord international law journal idea about
+  transnationalism and the "multi-hub" architecture of overlapping
+  transnational soveriegnty (i think)
+  - but, with this perspective, then authority becomes shared/tiered
+    and there are overlapping degrees (& tiers) of sovereignty
+    - this is already happening by the way, but there are good and bad
+      ways to transition into such a state
+      - i.e. it may take centuries for this to occur "naturally"
+      - literally centuries
+
+### international trade agreements
+
+- the three T's trade agreements are an example of such an overlapping
+  structure of sovereignties, but i'm just not sure that's the right
+  idea
+  - there may be no greater power than the power to regulate trade
+    - EVERYTHING RELATES TO COMMERCE
+      - and possibly descends from commerce
+
+- 3 T's Trade agreements below the UN to establish dominance over
+  trade to stifle the pheonomenon of "plurality" and complexity begot
+  from plurality in series of Bilateral Trade Agreements
+  - this was just an idea i was feeling out by imagining UN as "root"
+    and these three tiered, overlapping degrees of sovereignty
+    descending from it (relating to the harvard ILJ multi-hub paper)
+    - however, i am not, in any way, saying this is the way it should
+      be or even trying to put this out there (though i am, i guess)
+      - i don't think we should go dissolving notions and
+        implementations of sovereignty
+      - like i said, these kinds of trends take centuries
+
+### examples of multi-hub (overlapping) international agreements
+
+- these kinds of agreements can act as subgraphs in a multi-hub
+  architecture of global institutions
+  - again, i'm not saying this is how it should be. i'm mostly trying
+    to explore these concepts, so i can more properly conceptualize
+    them
+
+- trade: NAFTA/TPP/TTIP
+  - eughh...
+- regional policy agreements (environmental/industrial/etc)
+- technology/IP agreements
+- strategic/military
+- and more, no doubt
+
+### NAFTA/TPP Chapter 11
+
+- how do the ISDS clauses differ? do they both cover non-state
+  individuals?
+  - what status do non-enemy combatants have?
+    - IMO, if you don't have the rights of a citizen, you are not a
+      citizen, but you should still fall under the authority of NAFTA
+    - and therefore, if THE GOVERNMENT PROVABLY DEPRIVED YOU of
+      opportunities by abusing law and skirting on human rights
+      issues, you should be able to SUE THE FUCK OUT OF THEM IN AN
+      INTERNATIONAL ARBITRATION SUIT
+    - particularly, if your business is owned by an individual who is
+      not a citizen and was intended to be used as a launching pad for
+      opportunities of which you were provably and forcibly deprived,
+      you should be able to SUE THE FUCK OUT OF THE AMERICAN
+      GOVERNMENT ... maybe
+      - obviously, you're going to need a really good lawyer. like a
+        dozen of them, which sucks, BECAUSE THE GOVERNMENT SUBJECTED
+        YOU TO PSYCHOLOGICAL TORTURE AND DEPRIVED YOU OF ECONOMIC
+        OPPORTUNITIES
+        - *so basically, your life better be a great goddamn charity
+          case, because otherwise you are shit out of luck.*
+
+
+# Transnationalism
+
+### TransNatl: In the context of the Westphalian Paradigm
+
+- transition from the
+  [westphalian paradigm](https://en.wikipedia.org/wiki/Westphalian_sovereignty)
+  could end up being very messy: politically, culturally, and
+  economically.
+  - some of the people architecting this know it, to varying degrees
+  - this takes place b/w 2015-2050
+    - if approached in the right way (i.e. WITH *COMMUNICATION* and
+      *TIME*) then it's probably not that bad
+
+### TransNatl: In the context of Trade/ISDS & Federal Law
+
+- ISDS
+  - US Code
+  - TPP/TKIP
+  - Saudi Law (the 9-11 bill)
+    - this law was written in a VERY dubious manner
+    - and passed like 97-1 !!!
+    - POSSIBLE MEDIA BAIT-AND-SWITCH ... IMO
+    - yeh, i'm not even !@#$'ing kidding read that bill
+  - National Security Laws
+  - trade & treaty agreements
+
+# South China Sea
+
+- china's motivations for action include expansion of geopolitical
+  boundaries to fuel several decades of conflict.
+  - this change with geopolitically destabalize the entire oceanic
+    region! and also, china, which for most of its history, has only
+    cared about china, geographically
+    - that's an oversimplification, but for a very long time, conflict
+      there has been contained to that region (AFAIK. i'm not a
+      scholar on asiatic history)
+- i can't really elaborate on this
