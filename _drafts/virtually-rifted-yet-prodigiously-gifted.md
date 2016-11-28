@@ -821,6 +821,40 @@ Post it notes (original post date?)
   - so, therefore, the rollout for each market will differ in major
     and minor ways.
 
+### Dynamics of VR Content Creation
+
+- (9/4/16) VR content cost balances out the tendency for content
+  creation to exponentiate
+  - the democratization of content creation tools and sharing
+    platforms has brought us to the era of youtube & facebook videos
+  - however, with VR/AR media, that trend reverses a bit
+    - which is a relief, because it allows for more control over
+      content distribution. this balances out the trend i talk about
+      in my "death of creativity" blog, where it becomes difficult to
+      market IP because of the over-supply powered by the
+      democratization of content creation
+- content creators will require more tools, more time, more people to
+  produce VR titles and new media works
+
+- VR Content growth factors
+  - number of content creators expands with population growth and
+    degree of penetration of regular internet usage
+  - amount of time (to consume media? not sure what i meant here)
+  - higher demand for media
+
+- VR Content counter-growth factors
+  - production hardware limitations
+    - 3D cameras are very expensive and so is the
+      gear/software/storage to work with the media
+  - hardware platform limitations
+    - people can only experience the content if there's a market of
+      people who've bought the equipment
+  - content provider budget
+    - it takes more time and more people to create content
+  - content supply & demand
+  - bandwidth (this is a trivial restraint, at least for at-home
+    usage of VR media)
+
 ### VR Apps
 
 - (#1) What is the protoypical app for VR/AR?
