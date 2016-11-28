@@ -119,7 +119,17 @@ of them. Some of them moved, predictably.
     that are codified in a religion
     - (ragnarok star: the semiotics of mythoology)
 
-========
+### misc reincarnation
+
+- in the future, will people be more or less likely to have
+  experiences that make them feel as though they've been reincarnated?
+  - that is, does modernization make it harder to identify
+    reincarnated souls?
+    - see below...
+    - it really depends on what people mean by reincarnation
+      - there are several ways it could work
+
+### fragmented language in relation to reincarnation
 
 this is about how ideas about fragmented language/culture in the
 series 5000bc relate to reincarnation.
@@ -138,7 +148,8 @@ series 5000bc relate to reincarnation.
     and then they were reborn in japan or china or oceana
     - AND they retained remnants of their experience that were more
       pronounced in childhood, then they would mistakenly find
-      themselves displaying specific errors of speech.
+      themselves displaying specific errors of speech (particularly
+      grammatical errors)
       - obviously stuff like this could be easily misinterpreted
       - and regardless of whether reincarnation is real, people have
         always been mapped to the same universal set of semantics &

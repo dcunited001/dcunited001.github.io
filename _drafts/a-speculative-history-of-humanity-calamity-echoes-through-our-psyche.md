@@ -1206,3 +1206,57 @@ sumerian creation myth (1600 BC)
 
 development of mythology
     - gilgamesh
+
+
+- could ancient people anticipate the water level *maximum* by looking
+  at erosion and understanding basic geology
+  - it would be fairly trivial (in some areas) to look and see that
+    water and erosion had once reached a specific maximum height
+  - so would they know where the water level rise was going to end or
+    not? (it would also be rising at a noticeable rate from 8,000 bc
+    to 6,000 bc. at least, noticeable over the course of 25-50 years)
+
+- is there a variant of hemophilia caused by the body's ability to
+  create omega-3's?
+  - is there an gene in mammals that does this?
+    - if there are any mammals whose bodies can create omega-3's, then
+      it's imaginable that this gene is turned off in most humans, but
+      some may have an epigenetic adaptation that turns it back on
+  - this should be a fairly straightforward question to answer, but i
+    have no idea
+    - if it is true, this would lead to some groups of humans having
+      much longer lives than others and being a bit smarter.
+      - in prehistory and early history, this would be a major
+        advantage over others because this group of humans would
+        usually have 2 - 3 generations of family alive simultaneously,
+      - whereas most other humans at the time would have only 1 - 1.5
+        generations
+      - also, this group would be a bit smarter
+  - this is a really dumb idea that is pure speculation..........
+    - but if there were any major adaptation that dependably extended
+      the lifetime of one group of people over another, this would
+      present a major evolutionary advantage in early history
+
+
+- equatorial regions valuable as ideal locations for both:
+  - geostationary space elevators
+  - space launch locations
+- and therefore, there is a gravitation towards the north/south
+  poles for resources, followed by a counter-trend of gravitation
+  towards the equator for both sending/receiving resources to/from
+  space
+- depending on the engineering specifics of space elevators, some
+  equatorial regions may be more or less valuable than others
+- there are also quasi-geostationary space elevators, augmented with
+  basic propulsion.
+  - these are easier to build because they don't require as much
+    nano-tech.
+    - i.e. solar sail + ion propulsion upwards, while dangling a
+      space-elevator downwards, so it's always falling but always
+      moving upwards.
+      - combine this with a means of getting stuff 20km into the air
+        and you have yourself a space elevator that doesn't need to
+        overcome the tension requirements that are prohibiting us from
+        obtaining one now
+    - this isn't exactly a new idea, but it is likely that something
+      like this will be the first kind of space elevator
