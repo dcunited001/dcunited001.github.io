@@ -839,7 +839,17 @@ Post it notes (original post date?)
 - VR Content growth factors
   - number of content creators expands with population growth and
     degree of penetration of regular internet usage
+    - number of content consumers also expands
+    - both of these numbers (producers/consumers) are dependent on the
+      max population of earth, which peaks at 10 - 15 billion
+      - most of the growth in content consumption in the next decade
+        actually comes from increased internet penetration, until that
+        is nearly 100% ... after that there's a stead rate
+        proportional to population growth
   - amount of time (to consume media? not sure what i meant here)
+    - time spent producing/consuming content increases
+      - this is because the segments of the economy based on
+        information are expanding
   - higher demand for media
 
 - VR Content counter-growth factors
