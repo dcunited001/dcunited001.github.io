@@ -24,6 +24,80 @@ thinking about how profoundly different works have affected me. And it
 seems that there's always something else to pick up when I take the
 time to reexplore them.
 
+# [What Is Your Message?](#what-is-your-message)
+
+### &#x2605; [What Is Your Story & Why?](#what-is-your-story-and-why)
+
+### &#x2605; [Extrapolating and Intermeshing Core Ideas](#extrapolating-and-intermeshing-core-ideas)
+
+### &#x2605; [Machinations Beneath The Surface](#machinations-beneath-the-surface)
+
+# [A Constructive Writing Process](#a-constructive-writing-process)
+
+## [Themes](#themes)
+
+### &#x2605; [Timeless and Universal Themes](#timeless-and-universal-themes)
+
+## [Form](#form)
+
+### &#x2605; [Setting and Breaking Expectations](#setting-and-breaking-expectations)
+
+### &#x2605; [Connecting the Dots](#connecting-the-dots)
+
+### &#x2605; [Sequels Break Coherence to Form](#sequels-break-coherence-to-form)
+
+### &#x2605; [Formlessness](#formlessness)
+
+## [Plot](#plot)
+
+### &#x2605; [The Intersection of Form and Plot](#the-intersection-of-form-and-plot)
+
+### &#x2605; [Tropes](#tropes)
+
+### &#x2605; [AI-driven Literature](#ai-driven-literature)
+
+## [Characters & Relationships](#characters)
+
+### &#x2605; [Three-Dimensional Characters](#three-dimensional-characters)
+
+### &#x2605; [Pullbacks and Character Development](#pullbacks-and-character-development)
+
+### &#x2605; [Anonymized Characters](#anonymized-characters)
+
+### &#x2605; [Character Archetypes](#character-archetypes)
+
+## [Style](#style)
+
+### &#x2605; [Literary Style](#literary-style)
+
+### &#x2605; [Temporality and Ordinality](#temporality-and-ordinality)
+
+### &#x2605; [Causality and Cardinality](#causality-and-cardinality)
+
+### &#x2605; [Differential Style and Orthogonality](#differential-style-and-orthogonality)
+
+### &#x2605; [Cohesive Style](#cohesive-style)
+
+# [When Style Fuels Artistry](#when-style-fuels-artistry)
+
+### &#x2605; [Birdman](#birdman)
+
+### &#x2605; [Jackie Brown](#jackie-brown)
+
+### &#x2605; [Infinite Jest](#infinite-jest)
+
+### &#x2605; [The Crying of Lot 49](#the-crying-of-lot-49)
+
+### &#x2605; [On the Road](#on-the-road)
+
+### &#x2605; [Canterbury Tales](#canterbury-tales)
+
+### &#x2605; [Ghost in the Shell](#ghost-in-the-shell)
+
+# [My Own Style](#my-own-style)
+
+### &#x2605; [Style Experimentation](#style-experimentation)
+
 Why was it that these works affected me so much at that point in my
 life and how would they have affected me later on?  When I first read
 that chapter or saw that scene, what was I thinking? What should I
@@ -40,7 +114,9 @@ authentically and as they happen, you're likely to lose touch with
 that part of yourself that you embodied at that time. This and other
 sweet zens are sure to follow.
 
-## What Is Your Message?
+<a name="what-is-your-message" />
+
+# [What Is Your Message?](#what-is-your-message)
 
 Do you ever feel like you're carrying a message that no one else has
 heard? Do you feel the weight of that on your shoulders? Do you feel
@@ -50,7 +126,9 @@ before anyone else is viewing a subject through that particular
 perspective? Perhaps, months, years or maybe never? ... Though,
 obviously, not every thing I think of is revolutionary.
 
-### What Is Your Story & Why?
+<a name="what-is-your-story-and-why" />
+
+### [What Is Your Story & Why?](#what-is-your-story-and-why)
 
 Do you feel that your experiences would allow you to craft a message
 that's meaningful to people from all walks of life?  How well do you
@@ -61,7 +139,9 @@ what if your story allowed someone to understand things for the first
 time, that they had otherwise been missing out on? Some crucial aspect
 of life? Or something that perhaps everyone has missed in life.
 
-### Extrapolating and Intermeshing from Core Ideas
+<a name="extrapolating-and-intermeshing-core-ideas" />
+
+### [Extrapolating and Intermeshing Core Ideas](#extrapolating-and-intermeshing-core-ideas)
 
 How do you take a core idea and extrapolate it into a novel or script?
 I've found that this would be very challenging and the resulting
@@ -81,7 +161,9 @@ I hope to describe how to use elements and methods of this creative
 process to facilitate the development of higher-quality, more
 meaningful writing in myself, as well as my readers.
 
-### Machinations Beneath The Surface
+<a name="machinations-beneath-the-surface" />
+
+### [Machinations Beneath The Surface](#machinations-beneath-the-surface)
 
 Most people view things through a common lens because they haven't
 dove in to explore their true nature. People who understand the inner
@@ -121,7 +203,9 @@ would be many roads never traveled. When I explored these roads, if I
 never wrote anything down, I'd never remember anything. And for the
 longest time, I didn't.
 
-## A Constructive Writing Process
+<a name="a-constructive-writing-process" />
+
+# [A Constructive Writing Process](#a-constructive-writing-process)
 {: center}
 
 ### &#x2605; [Themes](#themes) &#x2605; [Form](#form) &#x2605; [Plot](#plot) &#x2605; [Characters](#characters) &#x2605; [Style](#plot) &#x2605;
@@ -139,7 +223,7 @@ specific themes that interest me personally.
 
 <a name="themes"/>
 
-# &#x2605; Themes &#x2605;
+# &#x2605; [Themes](#themes) &#x2605;
 {: center}
 
 Of all the elements, the most important by far is theme.  This is
@@ -151,7 +235,9 @@ that don't drive a dialogue and works that don't make us ask new
 questions or provide a new light with which to revisit old modes of
 thinking: these works just don't have as much depth. They are flat.
 
-### Timeless and Universal Themes
+<a name="timeless-and-universal-themes" />
+
+### [Timeless and Universal Themes](#timeless-and-universal-themes)
 
 And for writing, the themes you choose and how you work with them,
 this determines the depth of your work.  Some themes are more relevant
@@ -178,7 +264,7 @@ two.
 
 <a name="form"/>
 
-# &#x2605; Form &#x2605;
+# &#x2605; [Form](#form) &#x2605;
 {: center}
 
 What's the overall form of the plot?  This is a major dependency of
@@ -203,7 +289,9 @@ find consumers want to re-experience your work, which is a far more
 accurate measure of validation and valuation than the score on their
 review, if they write one.
 
-### Setting and Breaking Expectations
+<a name="setting-and-breaking-expectations" />
+
+### [Setting and Breaking Expectations](#setting-and-breaking-expectations)
 
 Some plot elements can have a much more dramatic effect if some of the
 ending is revealed up to the reader up front -- think Star Wars. This
@@ -215,7 +303,9 @@ will cause someone to be more invested in your story because their
 mind is going to constantly reevaluate how the stories current
 elements must connect to some events in the future.
 
-### Connecting the Dots
+<a name="connecting-the-dots" />
+
+### [Connecting the Dots](#connecting-the-dots)
 
 And so, their mind is always trying to connect the dots. This is just
 generally true with the human mind: it speciallizes in this.  So give
@@ -233,7 +323,9 @@ trilogy, which is a ringed plot. It's a trilogy of trilogies, began
 in the middle of a ringed story. The "ringed" form is well known in
 literature and Star Wars is like a meta-form of that.
 
-### Sequels Break Coherence to Form
+<a name="sequels-break-coherence-to-form" />
+
+### [Sequels Break Coherence to Form](#sequels-break-coherence-to-form)
 
 Why is that that sequels don't usually stand up to the first works?
 Often, it's because the author didn't have another direction planned
@@ -285,7 +377,9 @@ them without abandon. If a show is going to be short, significant
 characters can die or whatever. There's less risk there and because of
 that, the stories can have more varied developments.
 
-### Formlessness
+<a name="formlessness" />
+
+### [Formlessness](#formlessness)
 
 [No Longer Human](https://en.wikipedia.org/wiki/No_Longer_Human)(1948)
 by Osamu Dazai is an excellent example of formlessness. I haven't read
@@ -323,13 +417,15 @@ and everything suddenly unfolds, leaving almost nothing remaining.
 
 <a name="plot"/>
 
-# &#x2605; Plot &#x2605;
+# &#x2605; [Plot](#plot) &#x2605;
 {: center}
 
 As you decide on major and minor themes, you should begin thinking of
 major and minor plot elements that would help you expose them.
 
-### The Intersection of Form and Plot
+<a name="the-intersection-of-form-and-plot" />
+
+### [The Intersection of Form and Plot](#the-intersection-of-form-and-plot)
 
 It's the intersection of form and plot that allows for plausible
 alternate explanations to a storyline.  Again, this is a priceless
@@ -344,7 +440,9 @@ plot that allow for plausible alternate explanations.  So writers need
 to be capable of identifying duplicitous scenarious or portraying
 scenarious in such a way that allows for duplicitous explanations.
 
-### Tropes
+<a name="tropes" />
+
+### [Tropes](#tropes)
 
 There are generic kinds of events and events that are genericizeable
 which can allow a writer to enumerate reusable scenarios for minor
@@ -366,7 +464,9 @@ events and types of events from real life and from other stories is
 the skill here. What types of events would be most interesting when
 applied to different characters and situations.
 
-### AI-driven Literature
+<a name="ai-driven-literature" />
+
+### [AI-driven Literature](#ai-driven-literature)
 
 In terms of getting an AI algorithm to write literature or movies, one
 challenge is managing the interweaved web of dependencies between
@@ -413,7 +513,7 @@ patch cords chaining various modules together.
 
 <a name="characters"/>
 
-# &#x2605; Characters & Relationships &#x2605;
+# &#x2605; [Characters & Relationships](#characters) &#x2605;
 {: center}
 
 Behind themes, your characters, their relationships and the
@@ -470,7 +570,9 @@ them to flesh it out. On the other hand, you need to give yourself
 room for flexibility: don't flesh out so many details if it's going to
 be a problem to be stuck with them.
 
-### Three-Dimensional Characters
+<a name="three-dimensional-characters" />
+
+### [Three-Dimensional Characters](#three-dimensional-characters)
 
 And so, to get "three-dimensional characters," I'll again return to
 category theory -- this time to **pullbacks**.  It's more useful to
@@ -496,7 +598,9 @@ change how you develop your characters so you can do it faster, unless
 your character is already fairly well known, like a comic book
 superhero or something.
 
-### Pullbacks and Character Development
+<a name="pullbacks-and-character-development" />
+
+### [Pullbacks and Character Development](#pullbacks-and-character-development)
 
 Try to refrain from techniques like expository dialogue, *especially
 if you're using it to expose emotional state!* LOL, definitely don't
@@ -551,21 +655,23 @@ art in the first place is because there is no "right" answer. Art that
 is so direct & obvious doesn't inspire enough discussion and
 investment of energy to last.
 
-### Anonimyzed Characters
+<a name="anonymized-characters" />
+
+### [Anonymized Characters](#anonymized-characters)
 
 There is a kind of merger of characters with the mathematic concept of
 type theory. Don't freak out! Type theory is basically Mad Libs.
 That's all. If you want to get fancy, think Mad Libs with tree-like
 data structures.
 
-Type theory sounds overly abstract, but it's applicable
-to writing and the creative process. Type theory can be applied to
-both the situations you're character will be in as well as to the
-characters themselves. It allows you to compare and specify parallels
-between the structures of data, in this case characters and events. In
-computer science, type theory very useful for functional programming
-and if you were to model literature you would find yourself finding a
-ton of connections to category theory, as we already have.
+Type theory sounds overly abstract, but it's applicable to writing and
+the creative process. Type theory can be applied to both the
+situations you're character will be in as well as to the characters
+themselves. It allows you to compare and specify parallels between the
+structures of data, in this case characters and events. In computer
+science, type theory is very useful for functional programming. If you
+were to model literature you would find yourself discovering a ton of
+connections to category theory, as we already have.
 
 For the situations you want to use to highlight your chosen themes,
 you're going to need characters to fill various roles. If your
@@ -601,7 +707,9 @@ other characters to some extent.  E.G. well for scene A, we need a
 heroic character that can rappel onto a balcony to save the day and
 that matches up with character B.
 
-### Character Archetypes
+<a name="character-archetypes" />
+
+### [Character Archetypes](#character-archetypes)
 
 Ahhh the tsundere. Who doesn't love a good tsundere? Anime shows often
 seem to have one. It's the character, usually a girl, who acts like
@@ -635,7 +743,7 @@ of the first and everything is based on them?
 
 <a name="style"/>
 
-# &#x2605; Style &#x2605;
+# &#x2605; [Style](#style) &#x2605;
 {: center}
 
 Cultures have evolved over time, as have people and the personality
@@ -667,15 +775,17 @@ publication.
 
 ![Chrono Trigger Campfire](/img/posts/2016-06-23-if-i-had-the-chops-to-write-my-daedalian-magnum-corpus/chrono-campfire.jpg)
 
-## Literary Style
+<a name="literary-style" />
+
+# [Literary Style](#literary-style)
 
 So what is literary style? Style seems to mesh together the other
 literary elements. Style evolves over time and follows trends. Style
 is how a writer chooses to tell a story. Experienced writers will
 consciously embed elements of style throughout their work's
 creation. They might have developed their own distinctive style, but
-they probably wouldn't tell you that. That would limit other people's
-scope of perspectives, when looking at their work.
+they wouldn't tell you that. That limits other people's scope of
+perspectives, when looking at their work.
 
 Literary style includes the language an author chose to use. That
 vocabulary includes cultural connections and evokes imagery, so style
@@ -693,23 +803,26 @@ other words, the form an author uses or the themes they explore are
 best highlighted when there is a connection between movements in
 character development.
 
-### Temporality and Ordinality
+<a name="temporality-and-ordinality" />
+
+### [Temporality and Ordinality](#temporality-and-ordinality)
 
 Some works employ a kind of temporal variation, a distortion of time
-in where events or their experience can shift with respect to time.
-Ordinal variation refers to variation in order itself. In fact, every
-book employs temporal and ordinal variation to some degree because
-there is no sense of time in words on paper. They are just words on
-paper, chapters in a book. There is no time there. The only sense of
-time arises from how a reader explores the pages in the book. The
-reader provides that sense of time by consuming the work. Authors need
-to be well aware of how it feels to read their own work and I'll
-discuss that in just a bit. Thinking about other people actually
-reading my writing has given me a bit of motivation to write
-differently.  I don't want to change my art for others, but it'd be a
-lot cooler if others enjoyed consuming it.
+in where events or the experience thereof can shift with respect to
+time.  Ordinal variation refers to variation in order itself. In fact,
+every book employs temporal and ordinal variation to some degree
+because there is no sense of time in words on paper. They are just
+words on paper, chapters in a book. There is no time there. The only
+sense of time arises from how a reader explores the pages in the
+book. The reader provides that sense of time by consuming the
+work. Authors need to be well aware of how it feels to read their own
+work. Thinking about other people actually reading your writing sparks
+motivation to write differently.  I don't want to change my art for
+others, but it'd be a lot cooler if others enjoyed consuming it.
 
-### Causality and Cardinality
+<a name="causality-and-cardinality" />
+
+### [Causality and Cardinality](#causality-and-cardinality)
 
 Another similar techniques employ variation in cardinality and
 causality. Distorting cardinality requires distorting how people
@@ -717,17 +830,17 @@ perceive a collection of literature or the ideas in a book by changing
 the sets of ideas that people group together. We see this a lot with
 reboots: people want the franchise to be rebooted, so they can relive
 the myths they love as though they were new again. *Just a little bit
-of this* is *great*. Just a little bit. Too much rockin of the
+of this* is *great*. Just a little bit. Too much rockin' of the
 foundations is a bad thing. This style of cardinal distortion can be
 contained to a single work.
 
-And by distorting causality, some seriously cool Dr. Strange ish is
-possible. In otherwords, by breaking logic or altering the structure
-of ideas brought to life by words, new possibilities are available.
-This is something that excites me about *Virtual Reality*. No, it is
-not the simulation of reality that stimulates my imagination. It is
-that the very foundations of reality can be broken and a coherent
-world can be made and consumed viscerally. The rules of physics can be
+And by distorting causality, some seriously cool Dr. Strange ish
+becomes possible. In other words, by breaking logic or altering the
+structure of ideas brought to life by words, new possibilities are
+available. This aspect of *Virtual Reality* excites me. No, it is not
+the simulation of reality that stimulates my imagination. It is that
+the very foundations of reality can be broken and a coherent world can
+be made and consumed viscerally. The rules of physics can be
 remade. And this can be done with fiction, writing and cinema as
 well. This is what frustrates me about first person shooters and other
 overly realistic video games. Why would you want to escape to a
@@ -751,7 +864,9 @@ specific elements are held to be the same, so it feels like the same
 myth. Sometimes the entire world is flooded, sometimes it's not. But
 there's always a master sword, a triforce and a hero of time.
 
-### Differential Style and Orthogonality
+<a name="differential-style-and-orthogonality" />
+
+### [Differential Style and Orthogonality](#differential-style-and-orthogonality)
 
 Speaking of breaking rank, this brings me to another point: how does
 an artist's work fit in with other art at the time? This matters more
@@ -773,17 +888,17 @@ So if you are always judging art by its relationship to other current
 pieces -- which is important, don't get me wrong -- then you are
 probably missing the point. There is no maximally best way of looking
 at art, of course. But you can usually identify a great piece of art
-by saying "wow, this is so different from everything else right now."
-Which is a bit self-contradictory because I've just said it's best to
-judge art for the piece of art itself, not the artist and not the art
-trend.  Yet, in order to really recognize how something is different
-from an artists work, you have to look at that artist's other pieces.
-To really recognize a piece of art that breaks trends or breaks some
-other deeply established concept, you have to know how that art
-differs from other pieces of art. So in that regard, to judge
-something for itself requires judging it in context of everything
-else. To some reasonable degree of course; the best way to look at art
-critically is to not look at it critically at all.
+when it prompts you to remark "wow, this is so different from
+everything else right now."  That's a bit self-contradictory because
+I've just said it's best to judge art for the piece of art itself, not
+the artist and not the art trend.  Still, in order to really recognize
+how something is different from an artists work, you have to look at
+that artist's other pieces.  To really recognize a piece of art that
+breaks trends or breaks some other deeply established concept, you
+have to know how that art differs from other pieces of art. So in that
+regard, to judge something for itself requires judging it in context
+of everything else. To some reasonable degree of course; the best way
+to look at art critically is to not look at it critically at all.
 
 #### [Gargantua and Pantagruel](https://en.wikipedia.org/wiki/Gargantua_and_Pantagruel)
 
@@ -793,7 +908,9 @@ But my point is: this concept of style where the artist or author
 stands against the flowing currents of recent trends, that is an
 element of style in itself. And often, it's a very brave one.
 
-### Cohesive Style
+<a name="cohesive-style" />
+
+### [Cohesive Style](#cohesive-style)
 
 When you apply style to a work, which kind you apply and how much
 should seem uniformly embedded in the work, instead of a late idea or
@@ -805,7 +922,9 @@ where that style permeates the work. And there are more "minor"
 applications of style, which might be more a result of the period of
 time the work was created than a result of the artist's intent.
 
-## When Style Fuels Artistry
+<a name="when-style-fuels-artistry" />
+
+# [When Style Fuels Artistry](#when-style-fuels-artistry)
 
 But the best kind of work: you'll notice something. The style the
 writer or director pursued feeds back into the work, somehow. Maybe it
@@ -815,7 +934,9 @@ is this more perfectly executed, I think, than in Birdman. In this
 movie, the style of filming is so perfectly reflected back into the
 nature of its artistic statements.
 
-### Birdman
+<a name="birdman" />
+
+### [Birdman](#birdman)
 
 The one-shot take in birdman isn't just an technological
 accomplishment. It's not just a novelty or gimmick for the film. This
@@ -896,7 +1017,9 @@ society. It's hard enough.
 
 ![Birdman Times Square](/img/posts/2016-06-23-if-i-had-the-chops-to-write-my-daedalian-magnum-corpus/birdman-running.jpg)
 
-### Jackie Brown
+<a name="jackie-brown" />
+
+### [Jackie Brown](#jackie-brown)
 
 This is another great movie and, even though it's one of his earlier
 films, I think exemplifies Quentin Tarantino's style. What I noticed
@@ -916,7 +1039,9 @@ a scene or character is going to make someone feel? If a viewer had
 one type of response, how would they feel about this plot/character
 development? Would that compel them to enjoy that moment?
 
-### Infinite Jest
+<a name="infinite-jest" />
+
+### [Infinite Jest](#infinite-jest)
 
 This is a book I barely started, so I can't say too much. I know that
 the book is written out of order, using the distorted ordinality I
@@ -934,7 +1059,9 @@ book I'd like to read, but I don't read as much as I should.
 On the Wikipedia page, it's noted that David Foster Wallace mentions
 that "the answers all [exist], but just past the last page."
 
-### The Crying of Lot 49
+<a name="the-crying-of-lot-49" />
+
+### [The Crying of Lot 49](#the-crying-of-lot-49)
 
 Another book I need to finish, but so far I've noticed that the use of
 language is remarkable, as are the allusions to other pieces of
@@ -942,7 +1069,9 @@ art. The novel's only some 150 pages long, but I feel like I need to
 research all the symbolism as I'm reading it or understanding the
 novel is hopeless.
 
-### On the Road
+<a name="on-the-road" />
+
+### [On the Road](#on-the-road)
 
 This novel set the tone for the sixties. One of my favorite books, it
 was written by Kerouac in the span of three weeks. On a road
@@ -966,7 +1095,9 @@ But again, On the Road? Artistic treasure. The style, the action of
 the writing, everything feeds into it's own message. And from it, the
 American legend of Neal Cassidy was born.
 
-### Canterbury Tales
+<a name="canterbury-tales" />
+
+### [Canterbury Tales](#canterbury-tales)
 
 This is a collection of stories from the 14th and 15th centuries from
 Geoffrey Chaucer. Each story is told by a pilgrim on their way to
@@ -983,7 +1114,9 @@ and weaves together a great story. The anime Death Parade also uses
 this technique to explore the lives of people in their most final
 moments.
 
-### Ghost in the Shell
+<a name="ghost-in-the-shell" />
+
+### [Ghost in the Shell](#ghost-in-the-shell)
 
 I recently watched a critique on Ghost in the Shell that discussed the
 importance of a few minutes of the film with wide shots from different
@@ -1015,7 +1148,9 @@ not nearly as meta as with Birdman.
 src="https://www.youtube.com/embed/gXTnl1FVFBw" frameborder="0"
 allowfullscreen></iframe>
 
-## My Own Style
+<a name="my-own-style" />
+
+# [My Own Style](#my-own-style)
 
 I haven't been writing for long. I have some great ideas. There's a
 ton of topics I could write on for non-fiction and I have a few good
@@ -1053,7 +1188,9 @@ content to be well organized and I want my message to be focused. Like
 I noted earlier, revisiting my own writing and imagining it through
 the eyes of someone else has motivated me to work on my style.
 
-## Style Experimentation
+<a name="style-experimentation" />
+
+### [Style Experimentation](#style-experimentation)
 
 So if style is so important for conveying a message and especially for
 making your work stand out, how do you improve it? Reading is a good
@@ -1090,7 +1227,7 @@ outsider, I have a completely different perspective on people. Being a
 perfectionist, I feel compelled to keep trying until I find the piece
 of knowledge I'm searching for.
 
-## Part Two - Specific Themes
+# Part Two - Specific Themes
 
 In the next part, I'm going to list some specific themes I'd like to
 write about. Some of these are quite depressing, but I feel like life

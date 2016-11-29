@@ -12,9 +12,37 @@ ghost in the shell style vid
 
 https://www.youtube.com/watch?v=gXTnl1FVFBw
 
+### betrayal
+### compassion
+### deception
+### fame
+### fate
+### biases
+### paradox
+### art
+### war
+### love
+### mortality
+### idealism
+### wisdom
+### memory
+### freedom/salvation
+### philosophy
+### history
+### self-discovery
+### myth
+### power
+### misunderstanding
+### temptation
+### fear
+### misc
+### leadership
+### sacrifice
+### trust
+### isolation
+### justice/karma
 
 brief discussion on searching for the right medium
-
 
 universal values
 - tales evolve as they spread
@@ -30,7 +58,6 @@ what does style include?
   approached
 
 - the style and form are affected by the medium of the work
-
 - &#x0F3A
 - &#x0F3B
 
@@ -497,7 +524,7 @@ you're S.O.L. cuz you don't have enough explosions.
     - or exploited by your enemies as examples of your inconsistency or immorality
 - law needs to be enforce rigidly
 
-### sacrifice:
+### sacrifice
 
 - muted martydom, where one makes some sacrifice, but can't tell anyone
   else about it
@@ -507,7 +534,7 @@ you're S.O.L. cuz you don't have enough explosions.
   - for a greater cause
   - or for the next generation
 
-### trust:
+### trust
 
 - a need for reliance on trusting those who could hurt you most
   - especially when you should not trust them (and possibly know this)
