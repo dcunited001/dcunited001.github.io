@@ -230,10 +230,124 @@ excerpt: ""
   - elaborate on mechanics/dynamics of shifting supply chains
     - especially in the context of novel materials/fabrication tech
 
+# Law and Rights of Individuals in Inter/National Law
+
+### At Birth, Every Individual has a Tabula Rasa of Legal Rights/Obligations
+
+- Every individual has a Nearly "tabula rasa" set of rights, at birth
+  - that is, there are some
+- As I understand an US Citizen or Individual's rights in
+
 # International Law/Trends
 
 - international norms => policy on AI & usages & limitations
   - analogy for cyber/infowar w/ epidemic
+
+### International Policy for IAC & NIAC, with respect to Transnationalism
+
+- The architects of international policy and law on human rights
+  missed a spot and it's a quite concerning...
+- according to Harvard ILJ and/or US Naval War College, there are
+  major differences in how sections of UN/Geneva policy apply to IAC's
+  & NIAC's
+  - i.e. IAC/NIAC: international & non-international armed conflicts
+  - the Geneva Convention and UN Charter only require adherence to
+    human rights norms for IAC's
+    - the implementation for the international basis of human rights
+      differs in IAC's vs. NIAC's
+    - NIAC's basically aren't covered (not by certain sections of the
+      geneva convention & UN charter that define the legal basis of
+      those norms)
+- this is why the concept of transnationalism is very scary
+  indeed. it's the breakdown of the westphalian paradigm, which has
+  held steadfast the notions themselves of statehood
+  - the westphalian paradigm is what is responsible for those lines on
+    a map that define a nation. as international law is concerned now,
+    the only confusion that arises over the distinction b/w nations is
+    when territory of a nation is disputed b/w nations.
+  - i.e. nations are defined geographically iff the westphalian
+    paradigm is accepted as a norm, but if/when it begins to break
+    down, then the idea itself of statehood becomes something which is
+    less clearly defined
+    - With the westphalian paradigm, nations are geographically bound.
+      you can be a Dutch citizen standing in the Netherlands and
+      you're clearly a Dutch citizen standing on Dutch soil, where
+      Dutch laws apply to you (local/provincial/federal)
+      - for this Dutch citizen, some international law applies as well
+      - but if this man travels to the UK, then clearly, the UK's laws
+        begin to apply (and in some circumstances, the man's
+        home-state's laws could also restrict his rights to some
+        degree, even in the UK)
+- the concept of transnationalism causes the westphalian paradigm to
+  begin to break down and (at least, to me) it is not very clear what
+  laws apply where.
+  - if you have your citizenship revoked as a US citizen, what laws
+    apply to you?
+    - if this is for national security purposes, then would you even
+      know whether your rights as a US Citizen have become forfeit?
+      - you answered "yes, of course!" didn't you
+      - are you sure? are you really sure that you would know your
+        rights had been restricted?
+  - according to some international law scholars (with whom i'm not
+    sure I agree in principle, etc.)
+    - transnationalism eventually evolves into postnationalism, which
+      is kind of a globalist wetdream, but may also just be where the
+      world has evolved by the 22nd century (or maybe the 23rd)
+    - transnationalism is an *unbelievably vague* concept that can
+      have very different meanings and legal implications, depending
+      on the context.
+  - as the westphalian paradigm begins to lose it's grip in the minds
+    of those who hold power in nations, then this vague notion of
+    transnationalism begins to manifest itself as an "in between
+    state" of "nation" and "non-nation"
+    - it becomes less clear what a nation "is" and especially so when
+      one realizes that almost every sane, well-learned person thinks
+      of the United States as a "place" and not as a "legal entity"
+      under the purview of some higher authority
+- what provoked my exploration of this? the concepts of authority and
+  legitimacy to international law/policy/institutions
+  - what authority does an international institution actually hold?
+    why? how can one compel such an institution to change its policies
+    or their implementation, if they are claimed to be unfair?
+    - there are tons of very good questions here, if you want to get
+      your feet wet, with regard to international law.
+    - i never expected myself to become interested in Military Law or
+      Maritime Law, but I've downloaded the UN Law of the Sea treaty
+      (unsigned by US) as well as the DoD's 1,200+ page review of US
+      Military Law, as the DoD has interpreted it.
+  - but once i dipped my toe into the waters of international law &
+    transnationalism, hundreds of questions flooded into my mind.
+    - suddenly, nothing was clear.
+
+### International Regulation of Supply Chains
+
+- There is a fantastic Harvard ILJ article on this specific issue,
+  which is absolutely fascinating. In terms of novel-information
+  density (i.e. the percentage of content new to me) this single
+  article may have accelerated my general level of knowledge more than
+  any other writing I've ever consumed.
+  - that is, this single article stimulated my own imagination more
+    than anything else I have ever read and did so in terms of each:
+    - number/kind of specific fields covered and the quantity/quality
+      of new information
+
+
+- that International Supply Chain article isn't the only such
+  article I've consumed in the past 3 months which has accelerated
+  my acquisition of knowledge to personally unknown levels
+  - step one: find the PDF's *gimme all your PDF's*
+  - step two: review the PDF's on disk
+  - step three: rename the files, so they're more easily identified
+    on my Kindle, which references the filename and has a limited UI
+    - but from the perspective of a reader, the Kindle DX is
+      amazing. the Firmware/OS is a bit old, but the battery lasts
+      nearly a month... yada yada.
+
+    - again, organizing these docs helps me prestructure the content,
+      so i know what kind of questions to task my subconscious
+      with. suddenly, my mind is racing with questions and sometimes
+      it's too much.
+
 
 ### UN As "root" in the network of subgraphs of power structures
 
