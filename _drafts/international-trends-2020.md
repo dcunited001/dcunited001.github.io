@@ -335,18 +335,6 @@ excerpt: ""
 - that International Supply Chain article isn't the only such
   article I've consumed in the past 3 months which has accelerated
   my acquisition of knowledge to personally unknown levels
-  - step one: find the PDF's *gimme all your PDF's*
-  - step two: review the PDF's on disk
-  - step three: rename the files, so they're more easily identified
-    on my Kindle, which references the filename and has a limited UI
-    - but from the perspective of a reader, the Kindle DX is
-      amazing. the Firmware/OS is a bit old, but the battery lasts
-      nearly a month... yada yada.
-
-    - again, organizing these docs helps me prestructure the content,
-      so i know what kind of questions to task my subconscious
-      with. suddenly, my mind is racing with questions and sometimes
-      it's too much.
 
 
 ### UN As "root" in the network of subgraphs of power structures

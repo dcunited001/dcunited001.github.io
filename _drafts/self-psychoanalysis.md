@@ -534,210 +534,212 @@ anyways"
 
 
 
-      - i'm glad i don't have the simple duplication of knowledge that
-        most people in life have, spoonfed to them by academic
-        institutions. the level of passion that i feel when i am
-        absorbing new knowledge could have only ever been sparked
-        through years of struggling with ignorance and imagination.
-        - i was scared when i realized i had no idea how to start a
-          business. i saw my level of ignorance of the legal,
-          logistic, social and administrative hurdles of doing so and
-          that's the seed that I planted in myself in 2007. the only
-          time I had thought about starting a business before that was
-          in 2005 when I read about George Soros and found myself a
-          bit jealous that it would be "easy" for him to affect policy
-          and politics. obviously, it's not actually "easy" for a
-          billionaire to make such changes.
-        - Since 2007, I have been driven by the prospect of being
-          rewarded by hard work. i knew it would be hard to start a
-          business, but when i failed so miserably in social life, i
-          eventually decided I didn't care. It wasn't worth my time
-          and I would sacrifice as much time previously invested in
-          social life as possible. so, yes, i see myself as having
-          made immense sacrifices for the kind of life that i wanted
-          to pursue and I'm very angry to see how people interfered
-          before 2013. i feel like i was kept purposefully ignorant of
-          many facets of life, so that i would remain at a
-          disadvantage. today, the possibility that someone in my
-          personal or professional life would try to shield me from
-          experience or knowledge infuriates me, though i acknowledge
-          that often i'm mistaken.
-          - however, i simply don't give a !@#$ if I'm wrong that
-            someone is purposefully shielding me from
-            experience/knowledge... why? BECAUSE THERE'S NOT A SINGLE
-            PERSON ENGAGING *ME* IN MY PERSONAL/PROFESSIONAL LIFE TO
-            ADDRESS A PERSONAL DEFICIT OF KNOWLEDGE, EXPERIENCE, or
-            SOCIAL INTERACTION/CONNECTION
-            - i.e. these are minimized in my life, as though someone
-              is using linear regression to find the optimal means of
-              passively surpressing me while acting like they had no
-              influence on my life.
+- i'm glad i don't have the simple duplication of knowledge that
+  most people in life have, spoonfed to them by academic
+  institutions. the level of passion that i feel when i am
+  absorbing new knowledge could have only ever been sparked
+  through years of struggling with ignorance and imagination.
+  - i was scared when i realized i had no idea how to start a
+    business. i saw my level of ignorance of the legal,
+    logistic, social and administrative hurdles of doing so and
+    that's the seed that I planted in myself in 2007. the only
+    time I had thought about starting a business before that was
+    in 2005 when I read about George Soros and found myself a
+    bit jealous that it would be "easy" for him to affect policy
+    and politics. obviously, it's not actually "easy" for a
+    billionaire to make such changes.
+  - Since 2007, I have been driven by the prospect of being
+    rewarded by hard work. i knew it would be hard to start a
+    business, but when i failed so miserably in social life, i
+    eventually decided I didn't care. It wasn't worth my time
+    and I would sacrifice as much time previously invested in
+    social life as possible. so, yes, i see myself as having
+    made immense sacrifices for the kind of life that i wanted
+    to pursue and I'm very angry to see how people interfered
+    before 2013. i feel like i was kept purposefully ignorant of
+    many facets of life, so that i would remain at a
+    disadvantage. today, the possibility that someone in my
+    personal or professional life would try to shield me from
+    experience or knowledge infuriates me, though i acknowledge
+    that often i'm mistaken.
+    - however, i simply don't give a !@#$ if I'm wrong that
+      someone is purposefully shielding me from
+      experience/knowledge... why? BECAUSE THERE'S NOT A SINGLE
+      PERSON ENGAGING *ME* IN MY PERSONAL/PROFESSIONAL LIFE TO
+      ADDRESS A PERSONAL DEFICIT OF KNOWLEDGE, EXPERIENCE, or
+      SOCIAL INTERACTION/CONNECTION
+      - i.e. these are minimized in my life, as though someone
+        is using linear regression to find the optimal means of
+        passively surpressing me while acting like they had no
+        influence on my life.
 
-    - I wanted sooo badly to understand business models, economics,
-      fluid dynamics, mathematics, philosophy, chaos theory, my
-      shortcomings with social life, haskell, how to write myself a
-      haskell, etc. etc.
-      - i can't !@#$'ing blow the leaves or mow the yard or pour sugar
-        into water without visualizing and becoming bewildered with
-        maths i don't understand.
-        - i look around and it seems that:
-          - (1) the smarter children a decade younger have an
-            insurmountable advantage from online education
-          - (2) the things i want to learn which are so trivial for me
-            to absorb seem to be very difficult for
-            others.
-            - i.e. others in life, others in my profession, my
-              teachers, people i look up to, etc.
-            - for them? these subjects/topics/questions are:
-              - completely unknown
-              - prohibitively difficult
-              - a worthwhile challenge
-              - something learned in college but forgot
-              - rarely something they picked up easily
-              - rarely something they want to explain
-              - something used for work and .... eugh it's work --
-                they just don't want to talk about it. they don't have
-                that same passion
-          - (3) and finally, it just seems that no one in my current
-            personal life gives a flying !@#$ about what i do with my
-            time.
-            - it's amazing. people will complain about how much money
-              i require, but never about how efficiently i spend my
-              time.
-            - worse, if *I, MYSELF*, feel that i've begun using
-              my time wisely and i'm efficiently making progress on
-              some subject or project -- THAT is precisely when my mom
-              interferes with a positive, productive pattern.
-              - this specific point: i keep stressing it. i feel
-                guilty for doing so, but i'll mention it to friends,
-                family, and whoever doesn't ignore me and the best
-                response i get is basically: `you're paranoid! I heard
-                about you. you're crazy. my friends say the doctors
-                say so. your own mother simply wouldn't sabotage you
-                or seek to distract you from being productive. that's
-                not what she said. she says she cares so much about
-                you and she just doesn't understand. you can't get mad
-                at her if she doesn't understand`
-              - honestly though: i simply do not give a !@#$ about
-                whether my mom thinks she is or is not sabotaging my
-                projects or learning in life. i just don't care if
-                that's what she intends or doesn't intend. in fact, if
-                that is so, it's morbidly depressing! that's not the
-                reality i want.
-                - quite simply: what I want? to have a COMMUNITY. Why?
-                  so that the single person with which i have 99% of
-                  conversations longer than 60 seconds is not my
-                  mother.
-                - the stats on social interactions and connections in
-                  my life (for someone who is often accused of having
-                  mental health issues) IS ALARMING.
-                  - it should alarm people that i have almost ZERO
-                    conversations with people for longer than 60
-                    seconds, but i am absolutely not exagerating when
-                    i say that one or two months passed in 2016 where
-                    I may not have spoken with more than 5 people for
-                    longer than 60s (in phone, online, in person,
-                    whatever)
-                  - people wonder why i vent on social media? because
-                    the fucking facebook and twitter textboxes can't
-                    ignore me. i detest being in situations where
-                    someone simply expects you to not say
-                    something. that's the trick of a con-artist.
-                    - "oh, it doesn't matter if you do X or cause Y or
-                      say Z to his face. don't worry about it. HE
-                      WON'T SAY SHIT"
-                    - i'm simply not going to let that happen. when i
-                      tweet controversial or depressing shit it's
-                      because it's a cry for help. it's because it
-                      feels like there is not a single person who
-                      *LISTENS* to what i say or what I write.
-                    - i'm not in danger of hurting myself, so it's not
-                      that kind of cry for help. instead, it's someone
-                      who knows exactly how other people are
-                      un/intentionally restricting his social
-                      life. this person understands that, to succeed,
-                      he needs to:
-                      - (1) talk to more people
-                      - (2) talk to people who share interests in:
-                        intellectual topics, startups, etc.
-                      - (3) be able to run small talk with other
-                        people (without going insane from isolation
-                        and never having an outlet for intellectual
-                        topics)
-                      - (4) make IRL social appearances at events,
-                        meetups, etc where like-minded people attend
-                      - (5) strengthen connections with both old and
-                        new friends
-                      - (6) generally increase quantity and quality of
-                        total connection
-                      - (7) demonstrate value and relevance after
-                        career assassination in a world that has
-                        derided this person as literally schizophrenic
-                        (falsely)
-                      - (8) increase the number of locations that i
-                        frequent (which is restrained by my TOTAL lack
-                        of income)
-                        - this makes me incredibly predictable (where
-                          am i today?! *i'm at the !@#$'ing coffee
-                          shop*! why? because i can focus there and it
-                          costs me two dollars to sit and eat walnuts)
-                          wants to ruin my life, then this is
-                          incredibly *convenient*. the targeted
-                          individual can be dependably restrained to a
-                          minimal number of locations (after being
-                          subjected to career assassination and
-                          deprived of income)
-                        - these gangstalkers don't need to guess where
-                          i'm going to be *because they already know
-                          that at ANY time of day, there is a 50%
-                          chance that I'm at the coffee shop in salem,
-                          va.
-                          - therefore, it's quantifyably simpler and
-                            statistically preferable for a group of
-                            gangstalkers who'd want to [1] show up in
-                            a place that person frequents or [2] staff
-                            individuals to scope those locations.
-                            - it's !@#$'ing *MATH*. once someone has
-                              been virtually blacklisted and their
-                              family is tired of feeling the
-                              thumbscrews, that person is deprived of
-                              income and has no where to
-                              go. quantifyably, they have both fewer
-                              locations available to frequent and
-                              fewer types of actions available to
-                              them.
-                      - (9) manage to dodge the people that
-                        un/intentionally do this person social harm
-                        - and i swear to God, there really is a group
-                          of people that is "out to get me" and i have
-                          no fucking clue who it is, but this group of
-                          people wants nothing other than to ensure
-                          that they *passive aggressively* ruin my
-                          life.
-                        - i don't really care who these people are and
-                          i'd prefer to ignore the thoughts that there
-                          are such groups of people. the harm that any
-                          group of people could do to an individual
-                          simply cannot outweigh the good that
-                          individual can do for him or her self, in
-                          life.
-                          - this is precisely why it is paramount that
-                            i prevent myself from being scrubbed out
-                            of life and all-but-socially erased.
-                - again, i don't actually care why i'm in this
-                  particular spot. but those nine or ten factors
-                  above? i realizes that if I manage to qualitatively
-                  improve *just one of them* that my life is
-                  better. only one of those points involves paranoid
-                  assumptions (#9) and I mentioned that i do not give
-                  a fuck about whether it's true
-                  - every other point above is simply something that
-                    quantitatively improves ANY INDIVIDUAL'S social
-                    life.
-      - my passion and ignorance have been at odds with my imagination
-        for well over a decade.
-  - step four: load them on my kindle and pretend like i might
-    actually read 200,000 pages of content someday
+- I wanted sooo badly to understand business models, economics,
+  fluid dynamics, mathematics, philosophy, chaos theory, my
+  shortcomings with social life, haskell, how to write myself a
+  haskell, etc. etc.
+  - i can't !@#$'ing blow the leaves or mow the yard or pour sugar
+    into water without visualizing and becoming bewildered with
+    maths i don't understand.
+    - i look around and it seems that:
+      - (1) the smarter children a decade younger have an
+        insurmountable advantage from online education
+      - (2) the things i want to learn which are so trivial for me
+        to absorb seem to be very difficult for
+        others.
+        - i.e. others in life, others in my profession, my
+          teachers, people i look up to, etc.
+        - for them? these subjects/topics/questions are:
+          - completely unknown
+          - prohibitively difficult
+          - a worthwhile challenge
+          - something learned in college but forgot
+          - rarely something they picked up easily
+          - rarely something they want to explain
+          - something used for work and .... eugh it's work --
+            they just don't want to talk about it. they don't have
+            that same passion
+      - (3) and finally, it just seems that no one in my current
+        personal life gives a flying !@#$ about what i do with my
+        time.
+        - it's amazing. people will complain about how much money
+          i require, but never about how efficiently i spend my
+          time.
+        - worse, if *I, MYSELF*, feel that i've begun using
+          my time wisely and i'm efficiently making progress on
+          some subject or project -- THAT is precisely when my mom
+          interferes with a positive, productive pattern.
+          - this specific point: i keep stressing it. i feel guilty
+            for doing so, but i'll mention it to friends, family, and
+            whoever doesn't ignore me and the best response i get is
+            basically: `you're paranoid! I heard about you. you're
+            crazy. my friends say the doctors say so. your own mother
+            simply wouldn't sabotage you or seek to distract you from
+            being productive. that's not what she said. she says she
+            cares so much about you and she just doesn't
+            understand. you can't get mad at her if she doesn't
+            understand` ~> not literal, but i get the feeling that's
+            the frame of almost any conversation where I braindump my
+            life on someone or ask for help
+          - honestly though: i simply do not give a !@#$ about
+            whether my mom thinks she is or is not sabotaging my
+            projects or learning in life. i just don't care if
+            that's what she intends or doesn't intend. in fact, if
+            that is so, it's morbidly depressing! that's not the
+            reality i want.
+            - quite simply: what I want? to have a COMMUNITY. Why?
+              so that the single person with which i have 99% of
+              conversations longer than 60 seconds is not my
+              mother.
+            - the stats on social interactions and connections in
+              my life (for someone who is often accused of having
+              mental health issues) IS ALARMING.
+              - it should alarm people that i have almost ZERO
+                conversations with people for longer than 60
+                seconds, but i am absolutely not exagerating when
+                i say that one or two months passed in 2016 where
+                I may not have spoken with more than 5 people for
+                longer than 60s (in phone, online, in person,
+                whatever)
+              - people wonder why i vent on social media? because
+                the fucking facebook and twitter textboxes can't
+                ignore me. i detest being in situations where
+                someone simply expects you to not say
+                something. that's the trick of a con-artist.
+                - "oh, it doesn't matter if you do X or cause Y or
+                  say Z to his face. don't worry about it. HE
+                  WON'T SAY SHIT"
+                - i'm simply not going to let that happen. when i
+                  tweet controversial or depressing shit it's
+                  because it's a cry for help. it's because it
+                  feels like there is not a single person who
+                  *LISTENS* to what i say or what I write.
+                - i'm not in danger of hurting myself, so it's not
+                  that kind of cry for help. instead, it's someone
+                  who knows exactly how other people are
+                  un/intentionally restricting his social
+                  life. this person understands that, to succeed,
+                  he needs to:
+                  - (1) talk to more people
+                  - (2) talk to people who share interests in:
+                    intellectual topics, startups, etc.
+                  - (3) be able to run small talk with other
+                    people (without going insane from isolation
+                    and never having an outlet for intellectual
+                    topics)
+                  - (4) make IRL social appearances at events,
+                    meetups, etc where like-minded people attend
+                  - (5) strengthen connections with both old and
+                    new friends
+                  - (6) generally increase quantity and quality of
+                    total connection
+                  - (7) demonstrate value and relevance after
+                    career assassination in a world that has
+                    derided this person as literally schizophrenic
+                    (falsely)
+                  - (8) increase the number of locations that i
+                    frequent (which is restrained by my TOTAL lack
+                    of income)
+                    - this makes me incredibly predictable (where
+                      am i today?! *i'm at the !@#$'ing coffee
+                      shop*! why? because i can focus there and it
+                      costs me two dollars to sit and eat walnuts)
+                      wants to ruin my life, then this is
+                      incredibly *convenient*. the targeted
+                      individual can be dependably restrained to a
+                      minimal number of locations (after being
+                      subjected to career assassination and
+                      deprived of income)
+                    - these gangstalkers don't need to guess where
+                      i'm going to be *because they already know
+                      that at ANY time of day, there is a 50%
+                      chance that I'm at the coffee shop in salem,
+                      va.
+                      - therefore, it's quantifyably simpler and
+                        statistically preferable for a group of
+                        gangstalkers who'd want to [1] show up in
+                        a place that person frequents or [2] staff
+                        individuals to scope those locations.
+                        - it's !@#$'ing *MATH*. once someone has
+                          been virtually blacklisted and their
+                          family is tired of feeling the
+                          thumbscrews, that person is deprived of
+                          income and has no where to
+                          go. quantifyably, they have both fewer
+                          locations available to frequent and
+                          fewer types of actions available to
+                          them.
+                  - (9) manage to dodge the people that
+                    un/intentionally do this person social harm
+                    - and i swear to God, there really is a group
+                      of people that is "out to get me" and i have
+                      no fucking clue who it is, but this group of
+                      people wants nothing other than to ensure
+                      that they *passive aggressively* ruin my
+                      life.
+                    - i don't really care who these people are and
+                      i'd prefer to ignore the thoughts that there
+                      are such groups of people. the harm that any
+                      group of people could do to an individual
+                      simply cannot outweigh the good that
+                      individual can do for him or her self, in
+                      life.
+                      - this is precisely why it is paramount that
+                        i prevent myself from being scrubbed out
+                        of life and all-but-socially erased.
+            - again, i don't actually care why i'm in this
+              particular spot. but those nine or ten factors
+              above? i realizes that if I manage to qualitatively
+              improve *just one of them* that my life is
+              better. only one of those points involves paranoid
+              assumptions (#9) and I mentioned that i do not give
+              a fuck about whether it's true
+              - every other point above is simply something that
+                quantitatively improves ANY INDIVIDUAL'S social
+                life.
+  - my passion and ignorance have been at odds with my imagination
+    for well over a decade.
+- step four: load them on my kindle and pretend like i might
+  actually read 200,000 pages of content someday
 
 - Step 3 seems slow and stupid, but actually initiates the
   process of internalizing the knowledge: i'm quickly reviewing
@@ -782,3 +784,223 @@ anyways"
           - worse still, in roanoke, it's my past that holds me back:
             80% of the shit i shovel in roanoke is (or at least, WAS)
             from people's pre-existing impression of me and my life.
+
+
+- i feel like i've learned more in each September, October and
+  November, than I have in the second half of 2016
+  - why? because I know I'm learning about topics which i have
+    mostly unexplored. many of them are intuitive for me, but
+    i'm beginning to realize that some personal beliefs of mine
+    have been:
+    - (1) factually incorrect at times (and laughably so --
+      which is how i begin to realize how EASY it would be for
+      people to inform me so)
+      - occasionally i can deduce that people either weren't or
+        aren't on my side because they couldn't be bothered to
+        call me out.
+        - often it's because they didn't have the time or energy
+        - or they didn't want to tell me i was wrong
+      - but god !@#$$# sometimes it's because they just wanted
+        me to remain disempowered or continue sounding stupid.
+        - the number of times this occured is fairly rare, but i
+          look back on the conversations i had and realize how
+          little anyone ever said to me.
+        - it's most obvious when it's trivial for someone to
+          correct you (e.g. white eggs are white because they've
+          been bleached. no! that's laughably wrong and requires
+          minimal investment to correct. i still laugh at this,
+          btw)
+
+- whatever people in my life throw my way when i begin visibly
+  demonstrating progress. seriously, it feels like at all times,
+  there is a handful of people with significant influence in my
+  life, whose *objective* is to prevent me from accomplishing
+  anything but homelessness in my life.
+  - it feels like this group of people has signed away some
+    plea-bargin whereby their testicles get squeezed out in a vice
+    grip if i'm not homeless/etc by 2030
+  - as in, straight up mafia tactics, but legal, encouraged and
+    *incredibly illegal to talk about without significant
+    ramifications*
+  - in late 2015 & in 2016, for the first time in my life, i saw
+    that people who i had known for months and years begin to
+    interact with me *fearfully*
+    - "there is nothing to fear but fear itself" and i saw it, in
+      their eyes. and i understood, perhaps incorrectly, that if i
+      connect to them or depend on them or engage with them, they
+      may end up paying a price for it...
+      - *that* is a really, really, shitty feeling, by the way.
+      - in the past few months, i don't often get this vibe from
+        friends/strangers old or new. it was the way they looked
+        at me. i don't know how to explain it and i couldn't
+        discern whether it was true or not, but it did not feel
+        very good.
+      - and because i felt that it was fear or nervousness
+        stemming from me, I felt guilty relying on these people,
+        opting instead to become more isolated, which has been
+        driving all of my problems.
+
+### tactics to distract
+
+- as much as others claim to help, 95% of what i'm asking for is
+  refused with tactics that control/derail the conversation
+  - e.g. make david angry about something. anything. it's easy.
+  - e.g. make david guilty about something. anything. it's easy.
+  - e.g. make david know that it's his fault. everything.
+  - e.g. generally prefer to avoid conversations with david, if at all
+    possible. (the flipside of this is that it limits my desire to
+    engage in conversations)
+  - e.g. do not budge on anything. the stakes are high (apparently)
+  - so, anytime i ask for something, there are about 6 tactics i find
+    employed against me, which strain the relationship and make me
+    feel like i should rather not ask for anything at all.
+    - this stands in contrast to the simplicity of many suggestions i
+      have described for:
+      - (1) improving my social life
+      - (2) improving the efficiency of processes related to a project
+      (app or startup)
+      - (3) helping me find other people who can help me on a project,
+        distract me from my pain, etc.
+- the people in my life are *so* good at this (i.e. *handling* me) IT
+  IS AS IF SOMEONE HAS *TRAINED* THEM TO DO SO. it's as if someone has
+  trained them to handle "difficult situations with david conner" with
+  words/actions/tactics that are designed to escalate any interaction
+  so that it *becomes* my fault.
+  - "no i can't give you that because look at how (pick one: angry,
+    ungrateful, guilty, burdensome, worthless, hopeless, etc.) you
+    are"
+    - it is as if someone has conditioned my mom, specifically, to
+    handle me in this way and convinced her that it is what is best
+    for me...
+- and all i can do is blame my mom... that is pathetic,
+  regardless. but my only choice is to give up on everything i've
+  dreamed & planned & struggled to do.
+  - the only answer seems to be that someone wants me to be a
+    loser. that someone has determined that, regardless of how it
+    happens, the conclusion is foregone and known to all:
+    - DAVID CONNER IS AND ALWAYS WILL BE *AND ALWAYS MUST BE A FAILURE,*
+      so that we can hold him up as an example to others.
+- it is incredibly fucked up
+
+### surreptitious medication
+
+- wasting time inspecting my food & eating utensils, trying to
+  avoid surreptitious medication. it's basically impossible, by
+  the way, unless you can lock your refridgerator
+  - it also helps to have your own refridgerator, which i recently
+    gave away.
+  - it sounds crazy, but i have absolutely been drugged w/o my
+    knowledge, at least a handful of times. it has happened and
+    it's terrifying to think about. no one should even have to
+    worry about that.
+    - there is "topical" haldol/valium/diphenhydramine paste,
+      which is highly potent, but which studies show to be
+      ineffective TOPICALLY. orally, however, it is potent enough
+      to smudge in someone's cup or on their food. haldol has a
+      very long halflife, so one dose lasts one to three days.
+    - there is literally no *practical* use case for this
+      medication, besides surreptitious medication. it is
+      ineffective, topically.
+    - search for surreptitious medication. you will find that it
+      has only been trending for the past decade and almost
+      unheard of before 2000. at the same time, most people are
+      completely unaware that such a practice is even possible or
+      legal. the haldol paste was developed by Braeburn
+      Pharmaceuticals (?) only a few years ago.
+      - furthermore, out-patient surreptitious medication implies
+        that someone close to that patient has:
+        - (1) knowledge of their *complete* medical history, since
+          the last thing such an adversary/nurse wants to do is
+          induce an overdose
+          - this is complicated by substance abuse, but presents
+            minimal problems for someone whose life is
+            micromanaged and who has no income
+        - (2) a trusting relationship with the patient
+        - (3) frequent contact with the patient, since to limit
+          possible exposure of the information, the person
+          supplying the medication must have common contact with
+          the patient and enough trust to put it in their food or
+          apply it topically.
+          - for such controversial treatments, if they are applied
+            out-patient, it is preferable to limit this to one
+            person.
+            - therefore, it should be a roommate, a family member,
+              a coworker or a really sheisty friend. keep in mind,
+              *private*, up-to-date medical information must be
+              sent & received. this person must (should) have
+              legal authority to have custody of their
+              information. or at least, there must be some legal
+              mechanism for shielding this person from questions
+              surrounding medication.
+            - that is, unless there is a government institution
+              that does it. interestingly, FDA code & regulations
+              do not prohibit this (AFAIK)
+              - FDA code, regulations, forms and documentation
+                prompted me with an endless amount of questions.
+          - i don't think this happens very often. if at all,
+            there are probably less than a thousand patients with
+            out-patient surreptitious medication. there's simply
+            too much risk in the processes and way too much red
+            tape if something goes wrong.
+        - (4) legal authority to medicate the patient
+          - there's a concept in medical administration which is
+            similar to "chain of custody" for evidence, but for
+            patients. at all times, in a hospital, each patient's
+            current care/responsibility must be known and
+            documented. each treatment that is applied must fall
+            through a chain of command and it must be known who is
+            responsible for each aspect of the patient's
+            treatment. this documented authority should apply
+            moreso if the patient is unaware of their medication.
+        - (5) approval and payment by the insurance company for
+          the medication. and for the services of a compounding
+          pharmacy, for which the FDA regulations changed less
+          than three years ago. Haldol paste is made by
+          compounding pharmacies.
+        - (6) the pharmacy & compounding pharmacy must have
+          approval of the DEA to possess medications for which
+          they do not have a prescription
+        - (7) knowledge of the pharmacist and whoever is involved
+          in (quietly!) transferring the prescription order to a
+          compounding pharmacy
+      - so, again, unless the surreptitious medication and action
+        of medication is ordered & processed by DHS/CIA/etc, then
+        it is simply not feasible enough to be a widespread
+        occurance.
+        - it simply involves:
+          - too many people
+          - too much risk of overdose & legal complications
+          - too much risk of information exposure
+          - too much risk of legal complications (malpractice, etc)
+          - too much work/process to convince people that it is
+            ethical and necessary.
+        - furthermore, there is no way to deliver the treatment in
+          a scientifically responsible manner. there is absolutely
+          no way to ensure that the patient's blood plasma
+          medication level does not fluctuate widely. therefore,
+          it's unethical because it is unscientific
+    - there is also a subcutaneous haldol implant. it's like a
+      birth control implant, but for people who are difficult to
+      manage. maybe they have DSM V's invented "BPD borderline
+      personality disorder" for people who are "too close to the
+      border"
+      - furthermore, few responsible psychiatrists would prescribe
+        a haldol implant. doing so would require at least 6 months
+        of psychiatric medication history. since difficult to
+        remove an implant, it's *irresponsibly* and *possibly
+        fatal* to prescribe/mandate such an implant if they have a
+        bad reaction to the medication.
+        - the implant is marketed on the plausible basis that "it's
+          easier for the patient to manage their medication" --
+          they can't forget to take it, which is true, but doesn't
+          outweigh the logistic difficulty of establishing patient
+          care long enough to trust the patient to not
+          accidentally induce an overdose, amoung other issues.
+          - schizophrenic patient drinks alcohol? i'm not a
+            psychiatrist, but sorry, they probably shouldn't have
+            the haldol implant, ever.
+            - furthermore, substance abuse is comorbid with
+              schizophrenia
+        - any responsible psychiatrist prescribing such treatment
+          would need at least 6 months of medication history with
+          that patient before allowing

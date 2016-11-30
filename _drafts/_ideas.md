@@ -314,7 +314,138 @@ the government will
 
 ===============
 
-### Hyperintelligence
+### Personal Learning Process
+
+- possibly blog about my own learning process
+- that International Supply Chain article isn't the only such
+  article I've consumed in the past 3 months which has accelerated
+  my acquisition of knowledge to personally unknown levels
+
+- step one: find the PDF's *gimme all your PDF's*
+- step two: review the PDF's on disk
+- step three: rename the files, so they're more easily identified
+  on my Kindle, which references the filename and has a limited UI
+  - but from the perspective of a reader, the Kindle DX is
+    amazing. the Firmware/OS is a bit old, but the battery lasts
+    nearly a month... yada yada.
+  - again, organizing these docs helps me prestructure the content,
+    so i know what kind of questions to task my subconscious
+    with. suddenly, my mind is racing with questions and sometimes
+    it's too much.
+- step four: load them on my kindle and pretend like i might
+  actually read 200,000 pages of content someday
+- step five: maintain an "on deck" list of 20 documents, with enough
+  variety to prevent myself from getting bored.
+- step six: pick an article on a topic i am minimally familiar with
+  (for as long as there are things I know almost nothing about)
+  - this ensures that i maximize my rate of learning by establishing
+    a habit of "jumping into the deep-end"
+- step seven: read about one topic until it feels like my brain is
+  running out of energy.
+  - take notes if necessary, but it's really slow.
+  - if it looks like i'm too far behind, maybe i should find a class
+    on coursera. or if it looks like i need to learn new math to
+    understand financial engineering, then do that.
+  - in the mean time, until i learn that particular math, then
+    high-level video lectures or conference talks will suffice.
+    - this is what i resort to when i don't understand enough
+      verbage in a paper. this is a really slow way to learn and it
+      really sucks when you can't skip the content you already know.
+- step eight: switch to another topic until i don't feel like
+   reading anymore
+- step nine: take a break or watch TV, while my subconscious is
+   updating itself.
+- step ten: wait for spontaneous ideas to emerge. get excited
+   and pretend that no one has thought about them before.
+   - remember, i don't communicate with other people. i'm socially
+     isolated, so i can't simply ask someone "is this true? is this
+     new? does this sound cool?"
+   - the only source i can ask is google, which isn't so bad, but much
+     slower than a friend with a master's degree in X,Y, or Z
+   - this has the unintended consequence of proving that most
+     everything I write down comes from within myself (though
+     admittedly, much of it is inspired by that one ars technica
+     article i read that one time)
+- step eleven: smoke weed and think deep thoughts. be the 'jack handy'
+  you were meant to be...
+  - i hate to mention this, but smoking weed once a month or once a
+    week actually helps tremendously, though it also hinders in many
+    ways.
+- step twelve: rinse, repeat & sleep
+  - try to avoid getting too distracted by:
+    - lack of income and funds
+    - lack of stimulation
+    - fatigue and brain fog from lack of nutrition
+    - depression
+    - impaired hippocampal functionality from protracted depression
+      (short-term memory and oher cognitive problems indicating
+      neurological changes induced by depression ... & perhaps
+      permanent)
+    - shiny, but completely irrelevant things
+      - a new project, idea, etc.
+    - ruminating on depressing factors in my life,
+    - feeling that i have been surreptitiously medicated
+      - which is very real, by the way, but usually happens only to
+        uncooperative patients refusing meds during in-patient care
+    - wasting time inspecting my food & eating utensils, trying to
+      avoid surreptitious medication. it's basically impossible, by
+      the way, unless you can lock your refridgerator. it's a
+      time-intensive, unrealistic fear.
+    - worrying whether my mom is sabotaging me, which might be more
+      depressing than anything else in my life, regardless of whether
+      it's true
+
+- that's pretty much it.
+  - the problem? it's a !@#$'ing terrible process. there is absolutely
+    nothing optimized with this process, except perhaps the immense
+    love for learning that it requires to continue, in spite of the
+    fact I made less than $2000 in 2015 and less than $500 in 2016
+    ... in America, land of opportunity
+  - it could be so much better if:
+    - (1) i had community
+    - (2) i engaged in regular dialogue with similarly passionate ppl
+    - (3) i could maintain nutrition/medication/energy
+    - (4) i had friends that were into the same things
+    - (5) i had other "normal" friends too
+- my complaint is that (even for someone self-diagnosed with
+  Asperger's) its !@#$'ing trivial to understand HOW to optimize my
+  life to both: 
+  - (1) maximize my rate of learning and 
+  - (2) improve my own social life.
+- yep, that's right. the guy that self-admittedly has a problem
+  understanding social life, perhaps more than any other personal
+  "deficit" can *quite simply* describe *how easy* it would be to
+  improve my life.
+  - why is it so hard? because i can't, in good conscience, sell
+    myself short. yeh, i could get a job at best buy or something
+    else simple.
+  - but couldn't someone like me do sooo much more? if i didn't know
+    that to be true, i would have given up on myself a long, long time
+    ago.
+- as much as others claim to help, 95% of what i'm asking for is
+  refused with tactics that control/derail the conversation
+  - e.g. make david angry about something. anything. it's easy.
+  - e.g. make david guilty about something. anything. it's easy.
+  - e.g. make david know that it's his fault. everything.
+  - e.g. generally prefer to avoid conversations with david, if at all
+    possible. (the flipside of this is that it limits my desire to
+    engage in conversations)
+  - e.g. do not budge on anything. the stakes are high (apparently)
+  - so, anytime i ask for something, there are about 6 tactics i find
+    employed against me, which strain the relationship and make me
+    feel like i should rather not ask for anything at all.
+    - this stands in contrast to the simplicity of many suggestions i
+      have described for:
+      - (1) improving my social life
+      - (2) improving the efficiency of processes related to a project
+      (app or startup)
+      - (3) helping me find other people who can help me on a project,
+        distract me from my pain, etc.
+
+
+===============
+
+### Hyperintelligence/Singularity
 
 sufficiently intelligent being should evolve into one of several
 *types*, given the proper experiences
