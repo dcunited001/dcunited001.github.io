@@ -530,3 +530,255 @@ anyways"
  mom does this intentionally.
 
 #### &#2605; There are active attempts to
+
+
+
+
+      - i'm glad i don't have the simple duplication of knowledge that
+        most people in life have, spoonfed to them by academic
+        institutions. the level of passion that i feel when i am
+        absorbing new knowledge could have only ever been sparked
+        through years of struggling with ignorance and imagination.
+        - i was scared when i realized i had no idea how to start a
+          business. i saw my level of ignorance of the legal,
+          logistic, social and administrative hurdles of doing so and
+          that's the seed that I planted in myself in 2007. the only
+          time I had thought about starting a business before that was
+          in 2005 when I read about George Soros and found myself a
+          bit jealous that it would be "easy" for him to affect policy
+          and politics. obviously, it's not actually "easy" for a
+          billionaire to make such changes.
+        - Since 2007, I have been driven by the prospect of being
+          rewarded by hard work. i knew it would be hard to start a
+          business, but when i failed so miserably in social life, i
+          eventually decided I didn't care. It wasn't worth my time
+          and I would sacrifice as much time previously invested in
+          social life as possible. so, yes, i see myself as having
+          made immense sacrifices for the kind of life that i wanted
+          to pursue and I'm very angry to see how people interfered
+          before 2013. i feel like i was kept purposefully ignorant of
+          many facets of life, so that i would remain at a
+          disadvantage. today, the possibility that someone in my
+          personal or professional life would try to shield me from
+          experience or knowledge infuriates me, though i acknowledge
+          that often i'm mistaken.
+          - however, i simply don't give a !@#$ if I'm wrong that
+            someone is purposefully shielding me from
+            experience/knowledge... why? BECAUSE THERE'S NOT A SINGLE
+            PERSON ENGAGING *ME* IN MY PERSONAL/PROFESSIONAL LIFE TO
+            ADDRESS A PERSONAL DEFICIT OF KNOWLEDGE, EXPERIENCE, or
+            SOCIAL INTERACTION/CONNECTION
+            - i.e. these are minimized in my life, as though someone
+              is using linear regression to find the optimal means of
+              passively surpressing me while acting like they had no
+              influence on my life.
+
+    - I wanted sooo badly to understand business models, economics,
+      fluid dynamics, mathematics, philosophy, chaos theory, my
+      shortcomings with social life, haskell, how to write myself a
+      haskell, etc. etc.
+      - i can't !@#$'ing blow the leaves or mow the yard or pour sugar
+        into water without visualizing and becoming bewildered with
+        maths i don't understand.
+        - i look around and it seems that:
+          - (1) the smarter children a decade younger have an
+            insurmountable advantage from online education
+          - (2) the things i want to learn which are so trivial for me
+            to absorb seem to be very difficult for
+            others.
+            - i.e. others in life, others in my profession, my
+              teachers, people i look up to, etc.
+            - for them? these subjects/topics/questions are:
+              - completely unknown
+              - prohibitively difficult
+              - a worthwhile challenge
+              - something learned in college but forgot
+              - rarely something they picked up easily
+              - rarely something they want to explain
+              - something used for work and .... eugh it's work --
+                they just don't want to talk about it. they don't have
+                that same passion
+          - (3) and finally, it just seems that no one in my current
+            personal life gives a flying !@#$ about what i do with my
+            time.
+            - it's amazing. people will complain about how much money
+              i require, but never about how efficiently i spend my
+              time.
+            - worse, if *I, MYSELF*, feel that i've begun using
+              my time wisely and i'm efficiently making progress on
+              some subject or project -- THAT is precisely when my mom
+              interferes with a positive, productive pattern.
+              - this specific point: i keep stressing it. i feel
+                guilty for doing so, but i'll mention it to friends,
+                family, and whoever doesn't ignore me and the best
+                response i get is basically: `you're paranoid! I heard
+                about you. you're crazy. my friends say the doctors
+                say so. your own mother simply wouldn't sabotage you
+                or seek to distract you from being productive. that's
+                not what she said. she says she cares so much about
+                you and she just doesn't understand. you can't get mad
+                at her if she doesn't understand`
+              - honestly though: i simply do not give a !@#$ about
+                whether my mom thinks she is or is not sabotaging my
+                projects or learning in life. i just don't care if
+                that's what she intends or doesn't intend. in fact, if
+                that is so, it's morbidly depressing! that's not the
+                reality i want.
+                - quite simply: what I want? to have a COMMUNITY. Why?
+                  so that the single person with which i have 99% of
+                  conversations longer than 60 seconds is not my
+                  mother.
+                - the stats on social interactions and connections in
+                  my life (for someone who is often accused of having
+                  mental health issues) IS ALARMING.
+                  - it should alarm people that i have almost ZERO
+                    conversations with people for longer than 60
+                    seconds, but i am absolutely not exagerating when
+                    i say that one or two months passed in 2016 where
+                    I may not have spoken with more than 5 people for
+                    longer than 60s (in phone, online, in person,
+                    whatever)
+                  - people wonder why i vent on social media? because
+                    the fucking facebook and twitter textboxes can't
+                    ignore me. i detest being in situations where
+                    someone simply expects you to not say
+                    something. that's the trick of a con-artist.
+                    - "oh, it doesn't matter if you do X or cause Y or
+                      say Z to his face. don't worry about it. HE
+                      WON'T SAY SHIT"
+                    - i'm simply not going to let that happen. when i
+                      tweet controversial or depressing shit it's
+                      because it's a cry for help. it's because it
+                      feels like there is not a single person who
+                      *LISTENS* to what i say or what I write.
+                    - i'm not in danger of hurting myself, so it's not
+                      that kind of cry for help. instead, it's someone
+                      who knows exactly how other people are
+                      un/intentionally restricting his social
+                      life. this person understands that, to succeed,
+                      he needs to:
+                      - (1) talk to more people
+                      - (2) talk to people who share interests in:
+                        intellectual topics, startups, etc.
+                      - (3) be able to run small talk with other
+                        people (without going insane from isolation
+                        and never having an outlet for intellectual
+                        topics)
+                      - (4) make IRL social appearances at events,
+                        meetups, etc where like-minded people attend
+                      - (5) strengthen connections with both old and
+                        new friends
+                      - (6) generally increase quantity and quality of
+                        total connection
+                      - (7) demonstrate value and relevance after
+                        career assassination in a world that has
+                        derided this person as literally schizophrenic
+                        (falsely)
+                      - (8) increase the number of locations that i
+                        frequent (which is restrained by my TOTAL lack
+                        of income)
+                        - this makes me incredibly predictable (where
+                          am i today?! *i'm at the !@#$'ing coffee
+                          shop*! why? because i can focus there and it
+                          costs me two dollars to sit and eat walnuts)
+                          wants to ruin my life, then this is
+                          incredibly *convenient*. the targeted
+                          individual can be dependably restrained to a
+                          minimal number of locations (after being
+                          subjected to career assassination and
+                          deprived of income)
+                        - these gangstalkers don't need to guess where
+                          i'm going to be *because they already know
+                          that at ANY time of day, there is a 50%
+                          chance that I'm at the coffee shop in salem,
+                          va.
+                          - therefore, it's quantifyably simpler and
+                            statistically preferable for a group of
+                            gangstalkers who'd want to [1] show up in
+                            a place that person frequents or [2] staff
+                            individuals to scope those locations.
+                            - it's !@#$'ing *MATH*. once someone has
+                              been virtually blacklisted and their
+                              family is tired of feeling the
+                              thumbscrews, that person is deprived of
+                              income and has no where to
+                              go. quantifyably, they have both fewer
+                              locations available to frequent and
+                              fewer types of actions available to
+                              them.
+                      - (9) manage to dodge the people that
+                        un/intentionally do this person social harm
+                        - and i swear to God, there really is a group
+                          of people that is "out to get me" and i have
+                          no fucking clue who it is, but this group of
+                          people wants nothing other than to ensure
+                          that they *passive aggressively* ruin my
+                          life.
+                        - i don't really care who these people are and
+                          i'd prefer to ignore the thoughts that there
+                          are such groups of people. the harm that any
+                          group of people could do to an individual
+                          simply cannot outweigh the good that
+                          individual can do for him or her self, in
+                          life.
+                          - this is precisely why it is paramount that
+                            i prevent myself from being scrubbed out
+                            of life and all-but-socially erased.
+                - again, i don't actually care why i'm in this
+                  particular spot. but those nine or ten factors
+                  above? i realizes that if I manage to qualitatively
+                  improve *just one of them* that my life is
+                  better. only one of those points involves paranoid
+                  assumptions (#9) and I mentioned that i do not give
+                  a fuck about whether it's true
+                  - every other point above is simply something that
+                    quantitatively improves ANY INDIVIDUAL'S social
+                    life.
+      - my passion and ignorance have been at odds with my imagination
+        for well over a decade.
+  - step four: load them on my kindle and pretend like i might
+    actually read 200,000 pages of content someday
+
+- Step 3 seems slow and stupid, but actually initiates the
+  process of internalizing the knowledge: i'm quickly reviewing
+  everything and it takes way longer than it should, but i'm
+  prestructuring the content in my head
+  - again, it's incredibly inefficient (then again no one
+    assists me learning at home or even encourages me, so it's
+    not like i have very many options as alternatives)
+    - this is good and bad. i would prefer a community i can
+      easily associate with me. most people would have given up
+      a long, long time ago...
+    - but the fact that there are ZERO people in my *personal*
+      life who seem concerned with *encouraging me*, it means
+      that the only way to avoid giving up on learning about all
+      these fascinating subjects is to adamantize my resolve and
+      refuse to give in to reality
+      - reality: i have made less than $400 this year
+      - also reality: i am an incredibly talented person who
+        deserves opportunity and for whom it would be tragic for
+        his talent for learning to remain untapped.
+        - there is a huge divide b/w the way society treats me
+          and my skillset and unquenchable passion for learning.
+        - I COULD DO SO MUCH MORE FOR SOCIETY IF I HAD
+          *COMMUNITY*. i am simply not connected to a community
+          of people who encourages me to develop, which is
+          partially my own social failure. it's incredibly sad,
+          but if it's not easy for me to tap into such a
+          community, i just don't. in roanoke, it is VERY
+          DIFFICULT for me to tap into such a community
+        - again, i know what it feels like to have a hackerspace
+          or coworking space right down the street (that is
+          simply not true for me, in roanoke)
+          - similarly, i know what it feels like to have to
+            choose between 2 or 3 technology, etc. meetups
+            *every single weekday*
+          - i know what that feels like *to actually have a
+            community* that drives me to learn, but I DO NOT
+            HAVE IT IN ROANOKE. if i had never left roanoke, i
+            might not know what that feels like or how "normal"
+            it feels to the programmers and academics who live
+            in those areas.
+          - worse still, in roanoke, it's my past that holds me back:
+            80% of the shit i shovel in roanoke is (or at least, WAS)
+            from people's pre-existing impression of me and my life.

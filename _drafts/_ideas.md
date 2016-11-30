@@ -117,6 +117,10 @@ definitely another real concept for this)
       - e.g. organic chemistry has to account for several
         conformations of glucose and does so via statistics, but this
         is a little more complicated than conformations
+- i think this is covered in [non-adiabatic chemistry](https://en.wikipedia.org/wiki/Quantum_chemistry#Non-adiabatic_chemical_dynamics)
+  - but there may be some optimizations to molecular dynamics software
+    based on the ideas described above, with which there are likely
+    crossovers with [vibrionic coupling (non-adiabatic bonding)](https://en.wikipedia.org/wiki/Vibronic_coupling)
 
 ### spectral dynamics
 
