@@ -78,6 +78,13 @@ defaults:
     values:
       layout: "tags"
       permalink: "/tags/:tag"
+  -
+    scope:
+      path: ""
+      type: "3D"
+    values:
+      layout: "3d"
+      permalink: "/3d/:year-:month-:day-:title.html"
 
 # Markdown Processors
 rdiscount:
