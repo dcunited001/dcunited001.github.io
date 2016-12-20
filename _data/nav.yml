@@ -1,6 +1,7 @@
 main:
-    - { url: '/about', text: 'About' }
+    - { url: '/3d', text: '3D' }
     - { url: '/writing', text: 'Writing' }
     - { url: '/projects', text: 'Projects' }
     - { url: '/quotes', text: 'Quotes' }
+    - { url: '/about', text: 'About' }
     - { url: '/tags', text: 'Tags' }

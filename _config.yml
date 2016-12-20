@@ -49,6 +49,8 @@ timezone:      null
 collections:
   projects:
     output: true
+  3d:
+    output: true
 
 quiet:    false
 defaults:
@@ -67,7 +69,7 @@ defaults:
   -
     scope:
       path: ""
-      type: "projects"
+      type: b"projects"
     values:
       layout: "project"
       permalink: "/projects/:title.html"
@@ -81,7 +83,7 @@ defaults:
   -
     scope:
       path: ""
-      type: "3D"
+      type: "3d"
     values:
       layout: "3d"
       permalink: "/3d/:year-:month-:day-:title.html"

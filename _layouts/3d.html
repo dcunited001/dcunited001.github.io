@@ -1,0 +1,28 @@
+{% include header.html %}
+
+<script src="js/three.min.js"></script>
+<script src="js/3d.js"></script>
+
+{% include title-group.html %}
+
+<div class="container">
+  <article>
+
+    <section class="article-content">
+
+      <div class="row">
+        <div class="col-md-10 col-md-offset-1">
+          {{ content }}
+        </div>
+      </div>
+
+    </section>
+
+    <section class="comments">
+      {% include disqus.html title=page.title url=page.url %}
+    </section>
+
+  </article>
+</div>
+
+{% include footer.html %}

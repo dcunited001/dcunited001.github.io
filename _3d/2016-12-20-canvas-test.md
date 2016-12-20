@@ -1,3 +1,15 @@
+---
+title: "Canvas Test"
+categories: "3d"
+tags: ""
+headline: ""
+author:
+  name: "David Conner"
+excerpt: ""
+---
+
+<script src="js/2016-12-21-canvas-test.js" />
+
 <!--
 - https://roman01la.github.io/threejs-cljs-playground/#/8962e543-f558-12d7-cb73-682985a679eb
 
@@ -13,3 +25,8 @@
 - https://threejs.org/examples/js/GPUParticleSystem.js
 
 -->
+
+
+<div id="canvas" />
+  <canvas id="main" />
+</div>
