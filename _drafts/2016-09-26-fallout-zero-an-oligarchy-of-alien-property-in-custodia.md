@@ -65,6 +65,8 @@ the past three centuries ... Ahem! I'm looking at you, Illuminati!
 
 # [How Could This Happen Here?](#how-could-this-happen-here)
 
+- TODO: remove notes about surreptitious medication
+
 Every day I think I've solved the puzzle to the American media circus,
 I find out there's more. I'm starting to feel tired and I don't really
 know why. I've felt like I've been surreptitiously medicated off and
@@ -570,7 +572,7 @@ Just invent a pattern language that maps to real current events. Like
 a disease or something. Oh, or just say Qg'daphie Duck did it! Yeh,
 whatever his fucking name is. Fuck that guy anyway! How's a major
 media organization like CNN or some shit supposed to keep that
-straight. 
+straight.
 
 - TODO: add a picture of Q'g'daphne Duck, whoever TF that is
 
@@ -584,8 +586,8 @@ straight.
   who studies arabic and they'll tell you that, for however qaddafi
   spells his name in arabic, THERE IS ONE ACCEPTABLE TRANSLITERATION.
   - and the truth his name is Muammar Al-Qaddafi
-  
-  there IS 
+
+  there IS
 
 <a name="you-should-invent-a-disease-and-a-pattern-language" />
 
@@ -1928,7 +1930,7 @@ the authority in the War on Terror.
 
 - SDN's and I-9 notifications to track individuals across the country
   - coverage of small business
-  - how this relates to 
+  - how this relates to
 
 - intellectual property theft via surveillance
   - if coordinated for political reasons could be incredibly powerful,

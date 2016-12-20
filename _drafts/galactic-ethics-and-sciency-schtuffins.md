@@ -8,7 +8,6 @@ author:
 excerpt: ""
 ---
 
-
 ===============
 
 ### galactic ethics
@@ -91,10 +90,12 @@ also kind of leads the world through a difficult path.
 
 ### Gravity Waves
 
-- is there gravitational wave radiation?
+- is there gravitational wave radiation? yes
 - gravity doesn't exert a spherical effect on spacetime (?)
-  - well need to put multiple gravity wave detection devices in
+  - we'll need to put multiple gravity wave detection devices in
     orbit around jupiter
+    - this is useful in understanding how distortions in spacetime
+      could.
   - ideally we'd have these devices in multiple galaxies and
     then we'd see that a gravitational wave does not appear to
     eminate from a single source because it's energy was
@@ -103,8 +104,7 @@ also kind of leads the world through a difficult path.
   - this might give us an idea of the viscosity of spacetime, if
     actually acts like fluid
     - THE ETHER IS REAL!
-- gravity is seen as the force between two or more
-  objects
+- gravity is seen as the force between two or more objects
 - but it's actually more indirect than that. it's the pull of
   those objects on space and the collective effect on the
   space between them.
@@ -126,13 +126,28 @@ also kind of leads the world through a difficult path.
   - the image is generated from a picture and isn't a real simulation
     of a black hole. definitely not a real picture because it's a
     black hole viewed head on.
-- a double black hole should still have a visible area of invisible
-  space inside the front image
+- a double black hole should still have a visibly discernable area of
+  invisible space inside the front image
 - this got me thinking about black hole binaries.
   - if viewing a pair of black holes of equal mass arranged
     equidistant to the viewer, then light would curve around the black
     holes, but also between them in a manner that sums the effects on
-    spacetime
+    spacetime (?)
+    - does the light passing through the exact center b/w `B1` and
+      `B2` curve as though the effects on curved spacetime are summed?
+      - assuming these black holes are unmoving, but fairly close, is
+        there a point of no curvature in the center between them?
+      - does the space between these black holes behave "differently"
+        or curve differently than space without the impact of nearby
+        mass?
+
+```
+ B1-d-B2
+ \     /
+  \   /
+   \ /
+    me
+```
 
 - what does matter and space look like and how does it behave:
   - before transition to blackhole
@@ -163,9 +178,9 @@ also kind of leads the world through a difficult path.
   - as a star collapses into a singularity, there's a point where
     atoms converge into a soup of neutrons and then smaller and
     smaller subatomic particles
-  - at some time, there as to be a spatial arrangement, then at a
-    later time, it's suddenly a singularity? that's a discontinuity
-    in space-time
+  - at some time, there as to be a spatial arrangement. then, at a
+    later time, it's suddenly a singularity? that's a discontinuity in
+    space-time.
   - what if the change in states of matter eventually leads to some
     kind of inversion of space (or space-time)
     - (?) as the mass approaches the state of pure energy, it becomes
@@ -191,6 +206,17 @@ also kind of leads the world through a difficult path.
       region of contact on the anti-bubble
     - this analogy could be extended to 3D
 
+### E=mc^2
+
+- is special relativity missing some aspect based on space?
+  - i.e. does E=mc^2 actually have a component of space that helps
+    account for how mass affects space?
+  - the virtual particles above demonstrate a long-term process that
+    causes the curviture of space to evaporate as mass radiates away
+    from a black hole as energy
+  - i'm pretty sure the virtual particles, if real, are coupled to the
+    structure/nature of space
+
 ### Arrangement of matter inside a singularity
 
 - what is the arrangement of matter "inside" the singularity
@@ -208,10 +234,9 @@ also kind of leads the world through a difficult path.
     emerge and the rates at which they collide?
     - how do these particles behave?
     - does this depend on the shape of the spacetime around it?
-    - i'd bet that it does & if so, it likely has something to do with
-      the reconcilliation of inconsistencies in the disparity of
-      spacetime
-      - reconcilliation, like a quantum gravity RAFT theorum
+    - i'd bet that it does & if so, it may be related to the
+      reconcilliation of inconsistencies in the disparity of spacetime
+      - reconcilliation, like a quantum gravity RAFT algorithm
         with virtual particles
   - this disparity in the view of spacetime emerges in models of
     relativity inspired by DeSitter space, which is difficult to

@@ -25,11 +25,15 @@ tractable via technology.
 
 ## Stability Is Vitality
 
+- TODO: using high-level concepts from FinancialEng, describe what
+  will promote and enhance resilience for economic stability from
+  high-level
+
 ### In the 21st Century
 
 Of course, this assumes some baseline of stability. As long as we
 maintain stability, then these problems can be resolved through the
-application of advanced technology. Yet, tech itself contributes to
+application of advanced teschnology. Yet, tech itself contributes to
 cultural and economic instability. So, the solution itself could
 exacerbate the conditions preventing maintainance of stability and
 prevent us from resolving disease and poverty.

@@ -217,3 +217,63 @@ sa(ru) + sara → ??? !@#$ it, i forget
   found in traditional chinese. there are thousands of rarely used
   characters whose meanings differ only slightly from commonly used
   characters
+
+# Study of Linguistics, Anatomy and Evolution
+
+The ability to use language seems to drive evolution towards
+intelligence by contributing towards the runaway development of
+certain mental, physical and behavioral changes. The evolutionary
+contributions from Voice & Language can be zero'd out by other
+factors, like genetic capacity for sufficient neurological
+developments or the size/shape of the skull and parts of the brain,
+
+- todo: there's probably a name for this subfield of linguistics
+  (anatomy, genetics & linguistics)
+
+### Concept of critical mass, as applied to anatomy/linguistics
+
+there should be some set of features and quantifyable attributes that,
+in the presence of sufficient genetic & neurological & social
+conditions, should further the development of the mind through
+consistent capability for overlapping sounds. These features,
+qualities and quantifiable attributes must have some minimum critical
+mass of each:
+
+- most importantly: the consistency of conserved phonemes available to
+  & stable between generations.
+  - phonetic possibilities in the context of anatomy is where the
+    concept of critical mass: what are the vowel/consonant phoneme
+    combinations available/practical for
+  - more important: these anatomic features must have a high degree of
+    species penetration and quality consistency and evolutionary
+    stability (breeds/etc)
+    - these factors, if not consistent to almost all members of a
+      species will act as multiplicative factors that can zero out the
+      possibility of adoption of language.
+- consistency/frequency of vocal usage amoung species members
+- social & environmental apsects (see below)
+
+- "speciesation" of the anatomic qualities
+
+# social aspects
+
+these aspects of a species will lead to the optimization of:
+- the frequency of verbal communication
+- language penetration
+- phonetic consistency
+- consistence life experience
+
+these specific aspects are desirable:
+- consistent stable environment
+  - relationships with predator/prey
+  - does voice/audio/sound reinforce survival?
+- fairly social intra-species usage,
+- sufficient population density,
+- "desirable" species behaviors
+- longer generation cycle and more simultaneous living generations
+- lower number of children per family & generation
+- longer time spent raising children
+
+
+
+### Possible experimentation

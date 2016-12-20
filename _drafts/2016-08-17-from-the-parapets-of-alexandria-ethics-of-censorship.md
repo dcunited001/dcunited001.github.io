@@ -252,6 +252,9 @@ never emerges. That is, the nature of the system right now may entice
 some set of tyrants to act now because later, they might not have the
 chance.
 
+
+
+
 ### Understanding Intent of Policy, Strategy & Goals
 
 - understanding the intent (ethics usually does revolve around

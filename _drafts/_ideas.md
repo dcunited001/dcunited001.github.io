@@ -409,8 +409,8 @@ the government will
     - (5) i had other "normal" friends too
 - my complaint is that (even for someone self-diagnosed with
   Asperger's) its !@#$'ing trivial to understand HOW to optimize my
-  life to both: 
-  - (1) maximize my rate of learning and 
+  life to both:
+  - (1) maximize my rate of learning and
   - (2) improve my own social life.
 - yep, that's right. the guy that self-admittedly has a problem
   understanding social life, perhaps more than any other personal

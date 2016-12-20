@@ -151,7 +151,7 @@ flaws from unfair press coverage.
 
 ================================
 
-CSPAN2 talk on presidential transitions:
+## CSPAN2 show on presidential transitions:
 
 on transitions & filling policy positions:
 
