@@ -8,8 +8,6 @@ author:
 excerpt: ""
 ---
 
-<script src="js/2016-12-21-canvas-test.js" />
-
 <!--
 - https://roman01la.github.io/threejs-cljs-playground/#/8962e543-f558-12d7-cb73-682985a679eb
 
@@ -27,6 +25,8 @@ excerpt: ""
 -->
 
 
-<div id="canvas" />
-  <canvas id="main" />
+<div id="main-canvas-container" />
+  <canvas id="main-canvas" />
 </div>
+
+<script src="/js/3d/2016-12-21-canvas-test.js" type="text/javascript" />
