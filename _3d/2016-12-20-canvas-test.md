@@ -24,8 +24,7 @@ excerpt: ""
 
 -->
 
-
-<div id="main-canvas-container" />
+<div id="main-canvas-container" >
   <canvas id="main-canvas" />
 </div>
 
