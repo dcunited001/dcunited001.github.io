@@ -119,6 +119,7 @@ this is wayyy more useful than anything so far
 
 misc advice(but powerful): if you're not asking me what i want, how do
 i know you're trying to help me?
+
 - the more important point is: these people should know what you want
   and they should be good at ascertaining what you want without asking
   you.
@@ -129,6 +130,7 @@ i know you're trying to help me?
   - but if you don't care about what i want or you don't care about my
     needs
     - EVEN IF I'M IGNORANT OF THEM AND **ESPECIALLY** IF I'M CLUELESS
+  - then you probably don't care as much as you should
 - this is important when you're dealing with people that tell you what
   you want to hear or what they think you need to hear
   - because it's a metric that allows you to discern:
@@ -147,6 +149,7 @@ i know you're trying to help me?
       - if this person is sheisty, then they might tug on the other
         end of that rope and, if you don't each need each other, then
         they might be able to throw you off balance a bit.
+
 - If you're not asking me about what I want, what I need,
   - and i usually keep that close to my chest
   - then how would you know what I want, if I haven't told you?
@@ -171,7 +174,7 @@ i know you're trying to help me?
         - that's bullshit
         - i don't actually want to think about it that hard
         - i just want to know
-    - if someone is fucking with you this and then bitches
+    - if someone is fucking with you this and then bitches about
       relationship problems, but consistent misleads you on what they
       want/need and their idea of what you want/need
       - THAT PERSON DOESN'T CARE!!
@@ -194,7 +197,7 @@ i know you're trying to help me?
     game theory
   - human and group interactions are all based on motivation, risk,
     reward, goals, feedback loops and communication.
-    - and a tiered, multidimension approach towards each of those
+    - and a tiered, multidimensional approach towards each of those
 
 - the number one thing we can do is make sure that group incentives
   line up. this single point of information alone might be the most
@@ -205,7 +208,7 @@ i know you're trying to help me?
     what you want is really the same thing
 
   - need to motivate the legal and illegal immigrant populations to
-    action
+    action (need to elaborate more here)
     - consequences for illegal immigrants to cooperate can't all be
       negative.
     - seriously, what incentive would an illegal immigrant have for
@@ -234,6 +237,9 @@ i know you're trying to help me?
   so that the face towards mostly the same direction.
   - when you sum them, you get a vector that's somewhere between
     10,000 and 1,000,000 times the magnitude of the original vector
+- explain the metaphor as the energy of individuals
+  - if it's all completely random, then it all basically cancels
+    itself out
 - we all agree that we need changes and we all recognize mostly the
   same set of serious problems in society. Where the left and right
   depart is on proposing solutions to those problems. What I want to
@@ -241,7 +247,8 @@ i know you're trying to help me?
   something great in America and in the world.
 
   - sometime soon, i'll write a post on the differences between the
-    freedom of the individual and the freedom of the community.
+    freedom of the individual and the freedom of the community. (move
+    this somewhere else)
     - particularly, i'll discuss that they are fundamentally at odds
       with each other. individuals should have the freedom to live the
       life they want, without judgement.
@@ -275,7 +282,7 @@ i know you're trying to help me?
 ### Equilibrium & Social Dynamics
 
 why "equilibrium" ?
-- it's a fancier more mathematic term that enables me to think about
+- it's a fancier, more mathematic term that enables me to think about
   this idea in a slightly more mechanical way
   - that is, everyone has un/concscious motivations and desires at any
     given moment ..
@@ -305,8 +312,9 @@ determining motivations in situations or relationships
   motivations/desires
   - but it's usually harder for someone to hide
   - because by reaching their equilibrium (if they're exhibiting
-    rational behavior) then they're moving towards their goals,
-    whether they've stated those goals to you or not
+    rational behavior) then they've moved towards their goals, whether
+    they've stated those goals to you or not
+
 - people will lie up and down about why they do the things they do
   - especially if their behavior is subversive and/or they are
     cooperating with others.
@@ -336,10 +344,9 @@ determining motivations in situations or relationships
             because it's fucking bullshit
           - why can't we all get along?
 
-if you are the sum of the five people you spend the most time with, as is so
-cleverly stated, then what happens when the five people you're age
-that you talk with are total dicks to you and leave you feeling
-visibly upset?!
+if you are the sum of the five people you spend the most time with, as
+is so cleverly stated, then what happens when the five people that you
+talk with are total dicks to you and leave you feeling visibly upset?!
 - and don't seem to care. and put you down when you come up with an
   idea "that oh yeh, someone already thought of that one time..."
 - what if you don't even talk to 5 people in a week? what if you there
@@ -387,7 +394,7 @@ given some constant set or sets of social situations
   - there are people who are chasing some idea of equilibrium that is
     unstable in some way
     - this is where messing with someone's social model is really
-      fucked up because you can delude or confuse someone into chasing
+      messed up because you can delude or confuse someone into chasing
       the wrong things.
       - and if they don't know any better or if no one tells them or
         if they don't actually ever see or talk to someone that would
@@ -403,12 +410,13 @@ given some constant set or sets of social situations
     - maybe the conditions that satisfy equilibrium for this person
       are chaotic and it quickly breaks down
       - honestly (IMO) the faster the better. fail fast!
-      - if something's going to break, i want to still be expecting it
-        to break. i don't want it to happen when i've settled down and
+      - if something's going to break, i want to be expecting it to
+        break. i don't want it to happen when i've settled down and
         feel safe.
   - there are plenty of people who have no idea what they're chasing
     - it might be subconscious, but there's a feeling deep down and it
       compels their behavior. it doesn't need to be rational
+
 - and there are people who don't stop once they've acheived
   equilibrium (with respect to a situation, relationship or goal)
   - good to test this in general. kinda like leaning in to something
@@ -458,10 +466,9 @@ given some constant set or sets of social situations
       social groups
       - which group or person's sense of equilibrium wins out over the
         rest and why?
-      - what determines this? (IMO, it's the most effective
-        communicators)
-        - it helps to communicate to indicate about what your
-          equilibria or motivations
+      - what determines this?
+        - IMO, it's the most effective communicators who most strongly
+          indicate their equilibria and/or motivations
   - and that's really waht I meant to cover here
     - if you have a relationship that needs work, what do you do to
       make sure it continues moving forward
@@ -475,7 +482,7 @@ system, then
   - all mapped as points(or something)
 - visualizing the specifics really aren't important here. it's the
   high level concepts
-  - and most of this, if processed by a person's mind is subconscious
+  - and most of this, if processed by a person's mind, is subconscious
     anyways. so it's not something most ppl understand, nor is it
     something we could consciously process
 - that person's state depends on all the other variables
@@ -488,17 +495,20 @@ system, then
   - those "regions" could be imagined as slices of space carved away
     by inequalities.
     - or ... ugh i don't know lol
+
+#### Generalized Social Mechanics Scenario
+
 - the point is, one can take into account the calculus of this
   situation. the rate at which other participants change or the rate
   of change of their personal state in this situation.
   - but it gets better.
-  - when the participants of a group are making decisions, the seek to
-    hide, omit, or manipulate information.
+  - when the participants of a group are making decisions, they seek
+    to hide, omit, or manipulate information.
     - at any time, regardless of the truth of their words/actions or
       the significance of their omissions, a person can imagine that
       these people specifically want to indicate that they are *going
-      toward* or *moving away* from that "thing" by manipulating
-      information
+      toward* or *moving away* from that "thing" they want by
+      manipulating information
     - THEREFORE, you can use the gradient in this hyperdimensional
       plane in various ways, inferring that someone's conscious
       actions or omitted actions indicate action towards/away from
@@ -508,6 +518,7 @@ system, then
       - there's a dozen red dots on it representing people that each
         want to go towards or away from blue dots plotted on the same
         coordinate system
+        - the blue dots are like the food in this 3d version of snake
       - there's a hundred blue dots and each person has a secret list
         of 20 blue points to obtain
         - each is variously weighted for each person. one dot could be
@@ -523,16 +534,19 @@ system, then
       - the point is: one of the most effective algorithms for
         determining the goal of other red dots is by observing the
         gradient of their actions.
-        - I.E. if one blue dot fakes by moving away from a point, but
-          doesn't do so *orthogonally*
+        - I.E. if one red dot fakes by moving away from a blue dot,
+          but doesn't do so *orthogonally*
           - and there's no other point which they are obviously moving
             towards
           - then one could assume that red point has behavior tightly
             coupled to that point they were either moving directly
             toward or directly away from
         - and the way to do this is by measuring the gradient of
-          several vars in this hyperdimensional plane, which each red
-          dot's algorithm would need to process differently
+          several vars in this hyperdimensional plane
+          - this plane could be constructed from the powerset of red
+            dots and their general directions
+          - this information is exposed to each red dot's algorithm
+            would need to process differently
           - in this case, the hyperdimensional plane is used to plot
             the features of an individual red dot's AI understanding
             of the system.
@@ -584,3 +598,5 @@ equilibriums:
   - "what A thinks that B thinks what A is thinking about what B is
     thinking .... etc"
   - "what A thinks that B thinks about what A thinks of C ..."
+
+TODO: notes on social behavior & game theory & laplacian?
