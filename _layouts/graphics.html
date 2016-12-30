@@ -6,10 +6,10 @@
   <div class="container">
     <div class="row">
       <div class="col-md-12">
-        {% assign projects = site.graphics | sort: 'display_order' %}
-        {% for gfx in graphics %}
+        {% assign graphics = site.graphics | sort: 'display_order' %}
+        {% for post in graphics %}
 
-        {% include tile.html %}
+        {% include graphics-tile.html %}
 
         {% endfor %}
       </div>
