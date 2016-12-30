@@ -5,11 +5,8 @@ var mouseX = 0, mouseY = 0;
 var windowHalfX = window.innerWidth / 2;
 var windowHalfY = window.innerHeight / 2;
 
-init();
-
-animate();
-
 function init() {
+  console.log('init()');
   container = document.getElementById( 'main-canvas-container' );
   camera = new THREE.PerspectiveCamera( 20, window.innerWidth / window.innerHeight, 1, 10000 );
   camera.position.z = 1800;
@@ -17,10 +14,12 @@ function init() {
   light = new THREE.DirectionalLight( 0xffffff );
   light.position.set( 0, 0, 1 );
   scene.add( light );
-  // shadow
+
+  // add shadow
   var canvas = document.getElementById( 'main-canvas' );
   canvas.width = 128;
   canvas.height = 128;
+
   var context = canvas.getContext( '2d' );
   var gradient = context.createRadialGradient( canvas.width / 2, canvas.height / 2, 0, canvas.width / 2, canvas.height / 2, canvas.width / 2 );
   gradient.addColorStop( 0.1, 'rgba(210,210,210,1)' );
@@ -98,7 +97,7 @@ function init() {
   renderer.setPixelRatio( window.devicePixelRatio );
   renderer.setSize( window.innerWidth, window.innerHeight );
 
-  container.appendChild( renderer.domElement );
+  container.replaceChild(renderer.domElement, canvas);
 
   document.addEventListener( 'mousemove', onDocumentMouseMove, false );
   window.addEventListener( 'resize', onWindowResize, false );
@@ -120,7 +119,6 @@ function onDocumentMouseMove( event ) {
 function animate() {
   requestAnimationFrame( animate );
   render();
-  stats.update();
 }
 
 function render() {
@@ -129,3 +127,7 @@ function render() {
   camera.lookAt( scene.position );
   renderer.render( scene, camera );
 }
+
+
+init();
+animate();
