@@ -18,8 +18,6 @@ excerpt: ""
   - for an esoteric topic lol
 - find articles & papers for P450 (inducers, stats, etc)
 
-
-
 - metanomic stochastic programming? (it's a dynamical system)
   - actually, stochastic programming is more about optimization and
     less about an evolving system whose dynamics vary based on state
@@ -73,19 +71,12 @@ genetic programs.
 - [Target Peptide](https://en.wikipedia.org/wiki/Target_peptide)
   - [Examples of targets](https://en.wikipedia.org/wiki/Target_peptide#Examples_of_target_peptides)
 
-
-
 - [paper on targeting proteins for ER](http://www.molbiolcell.org/content/14/3/889.full.pdf+html)
 - [SPdb](http://bmcbioinformatics.biomedcentral.com/articles/10.1186/1471-2105-6-249)
 - [paper for the SPdb](http://download.springer.com/static/pdf/320/art%253A10.1186%252F1471-2105-6-249.pdf?originUrl=http%3A%2F%2Fbmcbioinformatics.biomedcentral.com%2Farticle%2F10.1186%2F1471-2105-6-249&token2=exp=1475585709~acl=%2Fstatic%2Fpdf%2F320%2Fart%25253A10.1186%25252F1471-2105-6-249.pdf*~hmac=e175bdb4a6e4c7b928a58e79e66caf69776aa79a572b9d06d7d306de1e07af38)
 - [Analysis and prediction of leucine-rich nuclear export signals](http://peds.oxfordjournals.org/content/17/6/527)
 
-
 > Anaesthetically pleasing....
-
-
-
-
 
 ### Probabilistic Programming
 
@@ -115,8 +106,7 @@ there are parametric & nonparametric forms of these problems:
 - Dirichlet processes,
 - infinite hidden markov models,
 
-
-## Metanomics Intro
+# Metanomics Intro
 
 intro
 - explain higher level organization of *-nomics
@@ -137,6 +127,7 @@ intro
     - more efficient data storage/collection
 
 explain spatially distributed state at a high level
+
 - hierarchically distributed state
   - this enables execution of tree-like sets of behavior across cells
 - physical distribution of cells imparts some higher order
