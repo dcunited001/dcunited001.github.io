@@ -102,9 +102,9 @@ markov models, chinese resaurant & indian buffet
 
 there are parametric & nonparametric forms of these problems:
 
-- guassian processos,
-- Dirichlet processes,
-- infinite hidden markov models,
+- guassian processos
+- Dirichlet processes
+- infinite hidden markov models
 
 # Metanomics Intro
 
