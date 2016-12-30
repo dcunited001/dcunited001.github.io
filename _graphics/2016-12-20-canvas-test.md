@@ -24,8 +24,4 @@ excerpt: ""
 
 -->
 
-<div id="main-canvas-container" >
-  <canvas id="main-canvas" />
-</div>
-
 <script src="/js/3d/2016-12-21-canvas-test.js" type="text/javascript" />

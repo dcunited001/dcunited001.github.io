@@ -1,5 +1,5 @@
 var container;
-var camera, scene, renderer;
+var camera, originalCamZ, scene, renderer;
 var mesh, group1, group2, group3, light;
 var mouseX = 0, mouseY = 0;
 var windowHalfX = window.innerWidth / 2;
@@ -8,14 +8,14 @@ var windowHalfY = window.innerHeight / 2;
 function init() {
   console.log('init()');
   container = document.getElementById( 'main-canvas-container' );
-  camera = new THREE.PerspectiveCamera( 20, window.innerWidth / window.innerHeight, 1, 10000 );
-  camera.position.z = 1800;
+  camera = new THREE.PerspectiveCamera( 20, window.innerWidth / (window.innerHeight / 2), 1, 10000 );
+  originalCamZ = 1800;
+  camera.position.z = originalCamZ;
   scene = new THREE.Scene();
   light = new THREE.DirectionalLight( 0xffffff );
   light.position.set( 0, 0, 1 );
   scene.add( light );
 
-  // add shadow
   var canvas = document.getElementById( 'main-canvas' );
   canvas.width = 128;
   canvas.height = 128;
@@ -26,6 +26,10 @@ function init() {
   gradient.addColorStop( 1, 'rgba(255,255,255,1)' );
   context.fillStyle = gradient;
   context.fillRect( 0, 0, canvas.width, canvas.height );
+
+  // ========================
+  // add shadow
+  // ========================
   var shadowTexture = new THREE.Texture( canvas );
   shadowTexture.needsUpdate = true;
   var shadowMaterial = new THREE.MeshBasicMaterial( { map: shadowTexture } );
@@ -45,6 +49,9 @@ function init() {
   mesh.rotation.x = - Math.PI / 2;
   scene.add( mesh );
 
+  // ========================
+  // create geometries
+  // ========================
   var faceIndices = [ 'a', 'b', 'c' ];
   var color, f, f2, f3, p, vertexIndex,
       radius = 200,
@@ -72,6 +79,9 @@ function init() {
     }
   }
 
+  // ========================
+  // create materials for icosahedrons
+  // ========================
   var materials = [
     new THREE.MeshPhongMaterial( { color: 0xffffff, shading: THREE.FlatShading, vertexColors: THREE.VertexColors, shininess: 0 } ),
     new THREE.MeshBasicMaterial( { color: 0x000000, shading: THREE.FlatShading, wireframe: true, transparent: true } )
@@ -92,10 +102,13 @@ function init() {
   group3.rotation.x = 0;
   scene.add( group3 );
 
+  // ========================
+  // create renderer and replace canvas
+  // ========================
   renderer = new THREE.WebGLRenderer( { antialias: true } );
   renderer.setClearColor( 0xffffff );
   renderer.setPixelRatio( window.devicePixelRatio );
-  renderer.setSize( window.innerWidth, window.innerHeight );
+  renderer.setSize( window.innerWidth, (window.innerHeight / 2));
 
   container.replaceChild(renderer.domElement, canvas);
 
@@ -106,9 +119,9 @@ function init() {
 function onWindowResize() {
   windowHalfX = window.innerWidth / 2;
   windowHalfY = window.innerHeight / 2;
-  camera.aspect = window.innerWidth / window.innerHeight;
+  camera.aspect = window.innerWidth / (window.innerHeight / 2);
   camera.updateProjectionMatrix();
-  renderer.setSize( window.innerWidth, window.innerHeight );
+  renderer.setSize( window.innerWidth, (window.innerHeight / 2));
 }
 
 function onDocumentMouseMove( event ) {
@@ -121,13 +134,17 @@ function animate() {
   render();
 }
 
+function distanceToCenter() {
+  return Math.sqrt(Math.pow(mouseX,2) + Math.pow(mouseY,2));
+}
+
 function render() {
-  camera.position.x += ( mouseX - camera.position.x ) * 0.05;
-  camera.position.y += ( - mouseY - camera.position.y ) * 0.05;
+  camera.position.x += ( mouseX - camera.position.x ) * 0.25;
+  camera.position.y += ( - mouseY - camera.position.y ) * 0.25;
+  camera.position.z = originalCamZ + distanceToCenter()^2;
   camera.lookAt( scene.position );
   renderer.render( scene, camera );
 }
-
 
 init();
 animate();
