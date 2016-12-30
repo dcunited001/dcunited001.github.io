@@ -49,7 +49,7 @@ timezone:      null
 collections:
   projects:
     output: true
-  3d:
+  graphics:
     output: true
 
 quiet:    false
@@ -83,10 +83,10 @@ defaults:
   -
     scope:
       path: ""
-      type: "3d"
+      type: "graphics"
     values:
-      layout: "3d"
-      permalink: "/3d/:year-:month-:day-:title.html"
+      layout: "graphic"
+      permalink: "/graphics/:year-:month-:day-:title.html"
 
 # Markdown Processors
 rdiscount:
