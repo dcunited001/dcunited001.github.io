@@ -237,13 +237,15 @@ IVVMM::::.:.:. . ... .::II:.::..:.. .. .. . . .:.:::IHH:.:HHIIHIHH':-'
             <div id="navbar" class="navbar-collapse collapse">
                 <ul class="nav navbar-nav navbar-right">
                     
-                        <li><a href="/about">About</a></li>
+                        <li><a href="/graphics">3D</a></li>
                     
                         <li><a href="/writing">Writing</a></li>
                     
                         <li><a href="/projects">Projects</a></li>
                     
                         <li><a href="/quotes">Quotes</a></li>
+                    
+                        <li><a href="/about">About</a></li>
                     
                         <li><a href="/tags">Tags</a></li>
                     
@@ -302,6 +304,7 @@ IVVMM::::.:.:. . ... .::II:.::..:.. .. .. . . .:.:::IHH:.:HHIIHIHH':-'
         
     </ul>
 </nav>
+
       </div>
     </div>
   </div>
