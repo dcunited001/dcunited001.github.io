@@ -6,7 +6,6 @@ var windowHalfX = window.innerWidth / 2;
 var windowHalfY = window.innerHeight / 2;
 
 function init() {
-  console.log('init()');
   container = document.getElementById( 'main-canvas-container' );
   camera = new THREE.PerspectiveCamera( 20, window.innerWidth / (window.innerHeight / 2), 1, 10000 );
   originalCamZ = 1800;
