@@ -1,8 +1,8 @@
 var container;
 var cam, origCamZ;
 var scene, renderer;
-var mesh, cube, cubeMaterial, cubeGroup;
-var texRng, gpuCompute, randomVariable, randomUniforms;
+var mesh, cube, cubeGeo, cubeTexture, cubeMaterial;
+var texRng, gpuCompute, computeTexture, computeMaterial, randomVariable, randomUniforms;
 
 var WIDTH = 256, HEIGHT = 256;
 var mouseX = 0, mouseY = 0;
@@ -19,29 +19,71 @@ function init() {
   scene = new THREE.Scene();
 }
 
+//var cubeMaterialUniforms = {
+//  texture: texRng
+//};
+
+//computeMaterial = new THREE.ShaderMaterial({
+//  uniforms: cubeMaterialUniforms,
+//  vertexShader: document.getElementById('vertCube').textContent,
+//  fragmentShader: document.getElementById('fragCube').textContent
+//});
+//cubeMaterial = new THREE.MeshPhongMaterial({ color: 0xffffff, shading: THREE.FlatShading, vertexColors: THREE.VertexColors, shininess: 0 });
+//var cubeMaterial2 = new THREE.MeshBasicMaterial({ color: 0x000000, shading: THREE.FlatShading, wireframe: true, transparent: true });
+
 function createCube() {
-  var size = 100;
-  cube = new THREE.BoxGeometry(size, size, size, 10, 10, 10);
-  cubeMaterial = new THREE.ShaderMaterial(texRng);
-  //cubeMaterial = new THREE.MeshPhongMaterial({ color: 0xffffff, shading: THREE.FlatShading, vertexColors: THREE.VertexColors, shininess: 0 });
-  //var cubeMaterial2 = new THREE.MeshBasicMaterial({ color: 0x000000, shading: THREE.FlatShading, wireframe: true, transparent: true });
+  var size = 500;
+  cubeGeo = new THREE.BoxBufferGeometry(size, size, size, 10, 10, 10);
+  //cubeGeo = new THREE.BoxGeometry(size, size, size, 10, 10, 10);
 
-  cubeGroup = THREE.SceneUtils.createMultiMaterialObject(cube, [cubeMaterial]);
-  //cubeGroup = THREE.SceneUtils.createMultiMaterialObject(cube, [cubeMaterial, cubeMaterial2]);
-  cubeGroup.position.set(0,0,1);
-  scene.add(cubeGroup);
+  cubeTexture = new THREE.Texture(texRng.image);
+  cubeTexture.minFilter = THREE.LinearFilter;
+  cubeTexture.magFilter = THREE.LinearFilter;
 
-  console.log(texRng);
+  console.log(cubeTexture);
+
+  //cubeMaterial = new THREE.MeshBasicMaterial({
+  //  map: cubeTexture,
+  //  overdraw: true
+  //});
+
+  //cubeMaterial = new THREE.ShaderMaterial({
+  //  map: cubeTexture,
+  //  overdraw: true
+  //});
+
+  cubeMaterial = new THREE.ShaderMaterial({
+    uniforms: {
+      texture: cubeTexture
+    },
+    vertexShader: document.getElementById('vertCube').textContent,
+    fragmentShader: document.getElementById('fragCube').textContent
+  });
+
   console.log(cubeMaterial);
-  console.log("txtRng.needsUpdate", texRng.needsUpdate);
+
+  cube = new THREE.Mesh(cubeGeo, cubeMaterial);
+  cube.position.set(0,0,1);
+  scene.add(cube);
+
+  console.log(cubeTexture);
+
+  //cubeGroup = THREE.SceneUtils.createMultiMaterialObject(cube, [computeMaterial]);
+  //cubeGroup = THREE.SceneUtils.createMultiMaterialObject(cube, [computeMaterial, computeMaterial2]);
+  //cubeGroup.position.set(0,0,1);
+  //scene.add(cubeGroup);
+  //console.log(texRng);
+  //console.log(computeMaterial);
+  //console.log("texRng.needsUpdate", texRng.needsUpdate);
 }
 
 function createGPUCompute() {
   gpuCompute = new GPUComputationRenderer(WIDTH, HEIGHT, renderer);
   texRng = gpuCompute.createTexture();
+  console.log(texRng);
 
   fillTextureWithRandoms(texRng);
-  randomVariable = gpuCompute.addVariable("textureRandom", document.getElementById('computeShaderRandoms').textContent, texRng);
+  randomVariable = gpuCompute.addVariable("texRandom", document.getElementById('computeShaderRandoms').textContent, texRng);
   gpuCompute.setVariableDependencies(randomVariable, [randomVariable]);
   randomUniforms = randomVariable.material.uniforms;
 
@@ -61,7 +103,7 @@ function fillTextureWithRandoms(texRng) {
     texData[i] = Math.random();
     texData[i+1] = Math.random();
     texData[i+2] = Math.random();
-    texData[i+3] = Math.random();
+    texData[i+3] = 1;
     //texData[i] = i / 4;
     //texData[i+1] = i / 4;
     //texData[i+2] = i / 4;
@@ -111,6 +153,10 @@ function render() {
   var dist = distanceToCenter();
   cam.position.z = origCamZ + dist;
   cam.lookAt(scene.position);
+
+  //gpuCompute.compute();
+  //texRng.image.data = gpuCompute.getCurrentRenderTarget(randomVariable).texture;
+
   renderer.render(scene, cam);
 }
 
@@ -118,7 +164,21 @@ init();
 createRenderer();
 createGPUCompute();
 
-gpuCompute.compute();
+console.log("before compute");
+console.log(texRng);
+
+//gpuCompute.compute();
+//var tempTexture = gpuCompute.getCurrentRenderTarget(randomVariable).texture;
+console.log("before render");
+//console.log(tempTexture);
+//texRng = gpuCompute.getCurrentRenderTarget(randomVariable).texture;
+
+//gpuCompute.renderTexture(texRng, randomVariable.renderTargets[0]);
+console.log("after render");
+//console.log(tempTexture);
+console.log(texRng);
+
 createCube();
 configureCanvas();
+//computeMaterial.needsUpdate = true;
 animate();
