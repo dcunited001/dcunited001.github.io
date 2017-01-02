@@ -20,14 +20,15 @@ author:
 <script type="x-shader/x-fragment" id="fragCube">
   uniform sampler2D texture;
   void main() {
-    gl_FragColor = texture2D(texture, gl_PointCoord);
+    gl_FragColor = texture2D(texture, gl_FragCoord.xy);
   }
 </script>
 
-<script id="computeShaderRandoms" type="x-shader/x-fragment">
+<script type="x-shader/x-fragment" id="computeShaderRandoms">
   void main() {
     vec2 uv = gl_FragCoord.xy;
     gl_FragColor = texture2D(texRandom, uv);
+    //gl_FragColor = texture2D(texRandom, vec2(1,1) - uv);
   }
 </script>
 

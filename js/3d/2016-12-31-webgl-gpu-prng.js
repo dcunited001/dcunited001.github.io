@@ -4,6 +4,8 @@ var scene, renderer, texLoader;
 var mesh, cube, cubeGeo, cubeTexture, cubeMaterial;
 var texRng, gpuCompute, computeTexture, computeMaterial, randomVariable, randomUniforms;
 
+var texPoolRandom = [];
+
 var WIDTH = 256, HEIGHT = 256;
 var mouseX = 0, mouseY = 0;
 var windowHalfX = window.innerWidth / 2;
@@ -21,21 +23,10 @@ function init() {
   texLoader = new THREE.TextureLoader();
 }
 
-//var cubeMaterialUniforms = {
-//  texture: texRng
-//};
-
-//computeMaterial = new THREE.ShaderMaterial({
-//  uniforms: cubeMaterialUniforms,
-//  vertexShader: document.getElementById('vertCube').textContent,
-//  fragmentShader: document.getElementById('fragCube').textContent
-//});
-//cubeMaterial = new THREE.MeshPhongMaterial({ color: 0xffffff, shading: THREE.FlatShading, vertexColors: THREE.VertexColors, shininess: 0 });
-//var cubeMaterial2 = new THREE.MeshBasicMaterial({ color: 0x000000, shading: THREE.FlatShading, wireframe: true, transparent: true });
-
 function createCube() {
   var size = 500;
   cubeGeo = new THREE.BoxBufferGeometry(size, size, size, 1, 1, 1);
+  console.log(cubeGeo);
   //cubeGeo = new THREE.BoxBufferGeometry(size, size, size, 10, 10, 10);
   //cubeGeo = new THREE.BoxGeometry(size, size, size, 10, 10, 10);
 
@@ -86,11 +77,8 @@ function createCube() {
 function createGPUCompute() {
   gpuCompute = new GPUComputationRenderer(WIDTH, HEIGHT, renderer);
   texRng = gpuCompute.createTexture();
-  //texRng.minFilter = THREE.LinearFilter;
-  //texRng.magFilter = THREE.LinearFilter;
-  texRng.minFilter = THREE.NearestFilter;
-  texRng.magFilter = THREE.NearestFilter;
-
+  texRng.wrapS = THREE.RepeatWrapping;
+  texRng.wrapT = THREE.RepeatWrapping;
   console.log(texRng);
 
   fillTextureWithRandoms(texRng);
@@ -115,10 +103,10 @@ function fillTextureWithRandoms(texRng) {
     texData[i+1] = Math.random();
     texData[i+2] = Math.random();
     texData[i+3] = 1;
-    //texData[i] = i / 4;
-    //texData[i+1] = i / 4;
-    //texData[i+2] = i / 4;
-    //texData[i+3] = 127;
+    //texData[i] = 1 - (i / 4.0)/(256.0*256.0);
+    //texData[i+1] = Math.abs(0.25 - (i / 4.0)/(256.0*256.0));
+    //texData[i+2] = Math.abs(0.5 - (i / 4.0)/(256.0*256.0));
+    //texData[i+3] = 1; // - (i / 4.0)/(256.0*256.0);
   }
 }
 
@@ -168,17 +156,12 @@ function render() {
   cam.lookAt(scene.position);
 
   gpuCompute.compute();
-  texRng = gpuCompute.getCurrentRenderTarget(randomVariable).texture;
-  gpuCompute.renderTexture(texRng, randomVariable.renderTargets[0]);
-  cubeMaterial.needsUpdate = true;
-  //texRng.image.data = gpuCompute.getCurrentRenderTarget(randomVariable).texture;
-  if (foo === "foo") {
-    foo = "bar"
-    console.log("in render");
-    //console.log(gpuCompute.getCurrentRenderTarget(randomVariable).texture);
-    //console.log(gpuCompute.renderTexture(texRng, randomVariable.renderTargets[0]));
-  }
+  cubeMaterial.uniforms.texture.value = gpuCompute.getCurrentRenderTarget(randomVariable).texture;
 
+  //texRng = gpuCompute.getCurrentRenderTarget(randomVariable).texture;
+  //gpuCompute.renderTexture(texRng, randomVariable.renderTargets[0]);
+  //cubeMaterial.needsUpdate = true;
+  //texRng.image.data = gpuCompute.getCurrentRenderTarget(randomVariable).texture;
 
   renderer.render(scene, cam);
 }
