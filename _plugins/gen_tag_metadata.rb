@@ -1,7 +1,8 @@
 def get_unique_tags(posts)
 
   posts.reduce({}) do |memo, p|
-    p.tags.each do |t|
+
+    p.data['tags'].each do |t|
       slug = Jekyll::Utils.slugify(t)
       tag_name = t.split('-').map(&:capitalize).join(' ')
       memo[slug] = tag_name
