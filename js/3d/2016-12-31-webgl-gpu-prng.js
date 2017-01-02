@@ -36,26 +36,26 @@ function createCube() {
   //cubeTexture.minFilter = THREE.LinearFilter;
   //cubeTexture.magFilter = THREE.LinearFilter;
 
-  //cubeMaterial = new THREE.MeshBasicMaterial({
-  //  map: cubeTexture,
-  //  overdraw: true
-  //});
+  cubeMaterial = new THREE.MeshBasicMaterial({
+    map: texRng,
+    overdraw: true
+  });
 
   //cubeMaterial = new THREE.ShaderMaterial({
-  //  map: cubeTexture,
+  //  map: texRng,
   //  overdraw: true
   //});
 
   console.log(texRng);
 
-  cubeMaterial = new THREE.ShaderMaterial({
-    uniforms: {
-      //texture: { value: cubeTexture }
-      texture: { value: texRng }
-    },
-    vertexShader: document.getElementById('vertCube').textContent,
-    fragmentShader: document.getElementById('fragCube').textContent
-  });
+  //cubeMaterial = new THREE.ShaderMaterial({
+  //  uniforms: {
+  //    //texture: { value: cubeTexture }
+  //    texture: { value: texRng }
+  //  },
+  //  vertexShader: document.getElementById('vertCube').textContent,
+  //  fragmentShader: document.getElementById('fragCube').textContent
+  //});
 
   console.log(cubeMaterial);
 
@@ -79,6 +79,7 @@ function createGPUCompute() {
   texRng = gpuCompute.createTexture();
   texRng.wrapS = THREE.RepeatWrapping;
   texRng.wrapT = THREE.RepeatWrapping;
+
   console.log(texRng);
 
   fillTextureWithRandoms(texRng);
@@ -90,6 +91,10 @@ function createGPUCompute() {
   if ( error !== null ) {
     console.error( error );
   }
+
+  var alternateTexture = gpuCompute.getAlternateRenderTarget(randomVariable).texture;
+  alternateTexture.wrapS = THREE.RepeatWrapping;
+  alternateTexture.wrapT = THREE.RepeatWrapping;
 }
 
 /*
@@ -155,8 +160,10 @@ function render() {
   cam.position.z = origCamZ + dist;
   cam.lookAt(scene.position);
 
+  //cubeMaterial.uniforms.texture.value = gpuCompute.getCurrentRenderTarget(randomVariable).texture;
+  cubeMaterial.map = gpuCompute.getCurrentRenderTarget(randomVariable).texture;
   gpuCompute.compute();
-  cubeMaterial.uniforms.texture.value = gpuCompute.getCurrentRenderTarget(randomVariable).texture;
+  cubeMaterial.needsUpdate = true;
 
   //texRng = gpuCompute.getCurrentRenderTarget(randomVariable).texture;
   //gpuCompute.renderTexture(texRng, randomVariable.renderTargets[0]);

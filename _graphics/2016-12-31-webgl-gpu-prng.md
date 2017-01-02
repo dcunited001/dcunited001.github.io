@@ -10,19 +10,19 @@ author:
 
 # PRNG with WebGL
 
-<script type="x-shader/x-vertex" id="vertCube">
-  void main() {
-    vec4 mvPosition = modelViewMatrix * vec4(position, 1.0);
-    gl_Position = projectionMatrix * mvPosition;
-  }
-</script>
+<!--<script type="x-shader/x-vertex" id="vertCube">-->
+  <!--void main() {-->
+    <!--vec4 mvPosition = modelViewMatrix * vec4(position, 1.0);-->
+    <!--gl_Position = projectionMatrix * mvPosition;-->
+  <!--}-->
+<!--</script>-->
 
-<script type="x-shader/x-fragment" id="fragCube">
-  uniform sampler2D texture;
-  void main() {
-    gl_FragColor = texture2D(texture, gl_FragCoord.xy);
-  }
-</script>
+<!--<script type="x-shader/x-fragment" id="fragCube">-->
+  <!--uniform sampler2D texture;-->
+  <!--void main() {-->
+    <!--gl_FragColor = texture2D(texture, gl_FragCoord.xy);-->
+  <!--}-->
+<!--</script>-->
 
 <script type="x-shader/x-fragment" id="computeShaderRandoms">
   void main() {
