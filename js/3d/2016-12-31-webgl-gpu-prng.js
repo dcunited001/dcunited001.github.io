@@ -1,3 +1,5 @@
+// TODO: use perlin noise as seed?
+
 var container;
 var cam, origCamZ;
 var scene, renderer, texLoader;
@@ -59,6 +61,7 @@ function createCube() {
 
 function createGPUCompute() {
   gpuCompute = new GPUComputationRenderer(WIDTH, HEIGHT, renderer);
+
   texRng = gpuCompute.createTexture();
   texRng.wrapS = THREE.RepeatWrapping;
   texRng.wrapT = THREE.RepeatWrapping;
@@ -75,9 +78,9 @@ function createGPUCompute() {
     console.error( error );
   }
 
-  var alternateTexture = gpuCompute.getAlternateRenderTarget(randomVariable).texture;
-  alternateTexture.wrapS = THREE.RepeatWrapping;
-  alternateTexture.wrapT = THREE.RepeatWrapping;
+  //var alternateTexture = gpuCompute.getAlternateRenderTarget(randomVariable).texture;
+  //alternateTexture.wrapS = THREE.RepeatWrapping;
+  //alternateTexture.wrapT = THREE.RepeatWrapping;
 }
 
 /*
@@ -131,8 +134,8 @@ function distanceToCenter() {
 }
 
 function render() {
-  cam.position.x += (mouseX - cam.position.x) * 0.25;
-  cam.position.y += (mouseX - cam.position.y) * 0.25;
+  cam.position.x += (mouseX - cam.position.x);
+  cam.position.y += (mouseY - cam.position.y);
   var dist = distanceToCenter();
   cam.position.z = origCamZ + dist;
   cam.lookAt(scene.position);
