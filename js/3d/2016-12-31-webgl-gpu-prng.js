@@ -3,12 +3,14 @@
 var container;
 var cam, origCamZ;
 var scene, renderer, texLoader;
-var mesh, cube, cubeGeo, cubeTexture, cubeMaterial;
+var cube, cubeSize, cubeGeo, cubeTexture, cubeMaterial;
+var cubeRotationAxis = new THREE.Vector3(0.3,0.4,0.5), cubeRotationRate = Math.PI / 5;
 var texRng, gpuCompute, computeTexture, computeMaterial, randomVariable, randomUniforms;
+var startTime = new Date().getTime(), currentTime = startTime, elapsedTime = startTime - currentTime;
 
 var texPoolRandom = [];
 
-var WIDTH = 256, HEIGHT = 256;
+var WIDTH = 4096, HEIGHT = 4096;
 var mouseX = 0, mouseY = 0;
 var windowHalfX = window.innerWidth / 2;
 var windowHalfY = window.innerHeight / 2;
@@ -26,15 +28,14 @@ function init() {
 }
 
 function createCube() {
-  var size = 500;
-  cubeGeo = new THREE.BoxBufferGeometry(size, size, size, 10, 10, 10);
+  var cubeSize = 500;
+  cubeGeo = new THREE.BoxBufferGeometry(cubeSize, cubeSize, cubeSize, 10, 10, 10);
 
   cubeMaterial = new THREE.MeshBasicMaterial({
     map: texRng,
-    overdraw: true
+    overdraw: true,
+    transparent: true
   });
-
-  console.log(texRng);
 
   //cubeMaterial = new THREE.ShaderMaterial({
   //  uniforms: {
@@ -66,8 +67,6 @@ function createGPUCompute() {
   texRng.wrapS = THREE.RepeatWrapping;
   texRng.wrapT = THREE.RepeatWrapping;
 
-  console.log(texRng);
-
   fillTextureWithRandoms(texRng);
   randomVariable = gpuCompute.addVariable("texRandom", document.getElementById('computeShaderRandoms').textContent, texRng);
   gpuCompute.setVariableDependencies(randomVariable, [randomVariable]);
@@ -77,10 +76,6 @@ function createGPUCompute() {
   if ( error !== null ) {
     console.error( error );
   }
-
-  //var alternateTexture = gpuCompute.getAlternateRenderTarget(randomVariable).texture;
-  //alternateTexture.wrapS = THREE.RepeatWrapping;
-  //alternateTexture.wrapT = THREE.RepeatWrapping;
 }
 
 /*
@@ -93,7 +88,8 @@ function fillTextureWithRandoms(texRng) {
     texData[i] = Math.random();
     texData[i+1] = Math.random();
     texData[i+2] = Math.random();
-    texData[i+3] = Math.abs(Math.random() - 0.5);
+    //texData[i+3] = Math.abs(Math.random() - 0.75);
+    texData[i+3] = 1;
   }
 }
 
@@ -108,7 +104,7 @@ function configureCanvas() {
   var canvas = document.getElementById('main-canvas');
   container.replaceChild(renderer.domElement, canvas);
   document.addEventListener('mousemove', onDocMouseMove, false);
-  window.addEventListener('resize', onWindowResize, false);
+window.addEventListener('resize', onWindowResize, false);
 }
 
 function onWindowResize() {
@@ -126,11 +122,19 @@ function onDocMouseMove() {
 
 function animate() {
   requestAnimationFrame(animate);
+  update();
   render();
 }
 
 function distanceToCenter() {
   return Math.sqrt(Math.pow(mouseX,2) + Math.pow(mouseY,2));
+}
+
+function update() {
+  currentTime = new Date().getTime();
+  elapsedTime = currentTime - startTime;
+
+  cube.quaternion.setFromAxisAngle(cubeRotationAxis, cubeRotationRate * (elapsedTime / 1000.0));
 }
 
 function render() {
