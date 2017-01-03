@@ -26,9 +26,8 @@ author:
 
 <script type="x-shader/x-fragment" id="computeShaderRandoms">
   void main() {
-    vec2 uv = gl_FragCoord.xy;
+    vec2 uv = gl_FragCoord.xy/resolution.xy;
     gl_FragColor = texture2D(texRandom, uv);
-    //gl_FragColor = texture2D(texRandom, vec2(1,1) - uv);
   }
 </script>
 

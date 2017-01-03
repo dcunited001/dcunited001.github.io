@@ -25,26 +25,12 @@ function init() {
 
 function createCube() {
   var size = 500;
-  cubeGeo = new THREE.BoxBufferGeometry(size, size, size, 1, 1, 1);
-  console.log(cubeGeo);
-  //cubeGeo = new THREE.BoxBufferGeometry(size, size, size, 10, 10, 10);
-  //cubeGeo = new THREE.BoxGeometry(size, size, size, 10, 10, 10);
-
-  //cubeTexture = new THREE.Texture(texRng.image);
-  //cubeTexture = new THREE.DataTexture(texRng.image.data);
-  //cubeTexture = texLoader.load('/js/three/textures/perlin-512.png');
-  //cubeTexture.minFilter = THREE.LinearFilter;
-  //cubeTexture.magFilter = THREE.LinearFilter;
+  cubeGeo = new THREE.BoxBufferGeometry(size, size, size, 10, 10, 10);
 
   cubeMaterial = new THREE.MeshBasicMaterial({
     map: texRng,
     overdraw: true
   });
-
-  //cubeMaterial = new THREE.ShaderMaterial({
-  //  map: texRng,
-  //  overdraw: true
-  //});
 
   console.log(texRng);
 
@@ -69,9 +55,6 @@ function createCube() {
   //cubeGroup = THREE.SceneUtils.createMultiMaterialObject(cube, [computeMaterial, computeMaterial2]);
   //cubeGroup.position.set(0,0,1);
   //scene.add(cubeGroup);
-  //console.log(texRng);
-  //console.log(computeMaterial);
-  //console.log("texRng.needsUpdate", texRng.needsUpdate);
 }
 
 function createGPUCompute() {
@@ -107,11 +90,7 @@ function fillTextureWithRandoms(texRng) {
     texData[i] = Math.random();
     texData[i+1] = Math.random();
     texData[i+2] = Math.random();
-    texData[i+3] = 1;
-    //texData[i] = 1 - (i / 4.0)/(256.0*256.0);
-    //texData[i+1] = Math.abs(0.25 - (i / 4.0)/(256.0*256.0));
-    //texData[i+2] = Math.abs(0.5 - (i / 4.0)/(256.0*256.0));
-    //texData[i+3] = 1; // - (i / 4.0)/(256.0*256.0);
+    texData[i+3] = Math.abs(Math.random() - 0.5);
   }
 }
 
@@ -151,8 +130,6 @@ function distanceToCenter() {
   return Math.sqrt(Math.pow(mouseX,2) + Math.pow(mouseY,2));
 }
 
-foo = "foo"
-
 function render() {
   cam.position.x += (mouseX - cam.position.x) * 0.25;
   cam.position.y += (mouseX - cam.position.y) * 0.25;
@@ -190,7 +167,6 @@ console.log("before render");
 console.log(tempTexture);
 //texRng = gpuCompute.getCurrentRenderTarget(randomVariable).texture;
 
-//gpuCompute.renderTexture(texRng, randomVariable.renderTargets[0]);
 cubeMaterial.needsUpdate = true;
 console.log("after render");
 //console.log(tempTexture);
