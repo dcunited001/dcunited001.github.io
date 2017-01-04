@@ -1,5 +1,5 @@
 ---
-title: "A WebGL GPU PRNG"
+title: "A Terrible GPU RNG With WebGL"
 categories: "graphics"
 tags: ""
 headline: ""
@@ -119,7 +119,7 @@ I'll toss out floats that are exactly equal to one because IDGAF.
 <!--</script>-->
 
 <script src="/js/three/GPUComputeRenderer.js" type="text/javascript"></script>
-<script src="/js/3d/2016-12-31-webgl-gpu-prng.js" type="text/javascript"></script>
+<script src="/js/3d/2017-1-4-webgl-gpu-prng.js" type="text/javascript"></script>
 
 <script type="text/javascript">
   var codeComputeShaderRandoms = document.getElementById("computeShaderRandoms").textContent;
