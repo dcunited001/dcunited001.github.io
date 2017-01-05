@@ -6,7 +6,7 @@
   <div class="container">
     <div class="row">
       <div class="col-md-12">
-        {% assign graphics = site.graphics | sort: 'display_order' %}
+        {% assign graphics = site.graphics | sort: 'display_order' | reverse %}
         {% for post in graphics %}
 
         {% include graphics-tile.html %}
