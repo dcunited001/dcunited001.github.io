@@ -1,5 +1,5 @@
 main:
-    - { url: '/graphics', text: '3D' }
+    - { url: '/graphics', text: '3D & Math' }
     - { url: '/writing', text: 'Writing' }
     - { url: '/projects', text: 'Projects' }
     - { url: '/quotes', text: 'Quotes' }
