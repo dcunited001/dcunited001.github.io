@@ -116,6 +116,28 @@ without being bullied by the facility security officer (FSO
 ... required for DoD contracting) than HOLY SHIT I might be so
 distracted, I wouldn't even care.
 
+And that's why I read Joint military doctrine at night. It's not just
+to imagine how logistics are applied to manage thousands of people
+across a large organization. It's not just because I wanted to join
+the military. I read this stuff and other assorted government reports
+because I want to know these people's decision making processes so
+that when people lie to me, I know. You see, if you apply a
+Clausewitzian perspective to my life, you'll find that, no matter what
+happens, David Conner gets fucked in the butt. It doesn't matter how
+it happens, but that is what happens.
+
+That's Clauswitz for you. It's an effects-based paradigm for the
+philosophy of military tactics that is especially important for
+judging second-order and third-order effects from the application of
+ways and means. It's not how David Conner gets fucked in the butt
+that matters. It is that, in the end, David Conner gets a good poke
+in the butt.
+
+And I haven't even ventured into my understanding of the applictation
+of the Laplacian to information systems, coupled with an understanding
+of logistics, employee training and law, that basically means I'm
+borderline psychic.
+
 <script type="x-shader/x-fragment" id="computeShaderRandoms">
   void main() {
     vec2 uv = (gl_FragCoord.xy / resolution.xy);
