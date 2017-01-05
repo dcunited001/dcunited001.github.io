@@ -8,7 +8,32 @@ author:
   name: "David Conner"
 ---
 
-# PRNG with WebGL
+This is a basic parallelized random number generator written with
+WebGL and ThreeJS. It is, however, a terrible random number generator,
+although it could be improved. I've used ThreeJS, a javascript
+graphics engine built on top of Canvas and WebGL, to seed a texture
+from an array containing random floats.  The alpha channel of the
+texture is one. The PRNG simply adds the values sampled from texture
+for the current pixel to the pixels surrounding it with distance 1.
+Then, the PRNG runs `fract()` to get the fractional part of the float
+value for that pixels channels. Fract is explained below.
+
+I hope to add some code soon that will verify the uniformity and
+quality of PRNG distribution, along with allowing the user to modulate
+parameters for it.  I will write some better variations on PRNG's soon
+that are based on this concept, but this is a good enough "hello
+world" for GPU PRNG.
+
+The texture is simply 64x64, so the point can be more easily
+visualized, but scales to 4096x4096 with no problems at ~30
+fps. That's 30 x 4 x 4096 x 4096 random numbers per second.  Even
+though the quality is suspect, that's about 2 Gigarands per second.
+There is no delay from overhead related to WebGL calls and therefore,
+adding a bit more state and calculation to the shader should not cause
+delay.
+
+Here's the shader code for the PRNG. The ThreeJS code to set this up
+can be found [here](/js/3d/2017-01-04-webgl-gpu-prng.js).
 
 ### Fragment Shader: computeShaderRandoms
 
@@ -16,70 +41,18 @@ author:
   <figure class="highlight">
     <pre>
       <code id="codeComputeShaderRandoms" class="language-c" data-lang="c">
-      
+
       </code>
     </pre>
   </figure>
 </p>
-
-### Floats 0 to 1
-
-I need to identify the boundaries for floats, since colors are encoded from 
-one to zero... That way I can xor all the things to my hearts content. 
-
-I'll toss out floats that are exactly equal to one because IDGAF.
-
-#### + zero
-
-```
-0:00000000 :0000000 00000000 00000000
-```
-
-#### < one
-
-```
-0:01111110 :1111111 11111111 11111111
-```
-
-#### == one
-
-```
-0:01111111 :0000000 00000000 00000000
-```
-
-#### exclusion mask
-
-```
-1:10000001 :0000000 00000000 00000000
-```
-
-#### inclusion mask
-
-```
-0:01111110 :1111111 11111111 11111111
-```
-
-
-<!--<script type="x-shader/x-vertex" id="vertCube">-->
-  <!--void main() {-->
-    <!--vec4 mvPosition = modelViewMatrix * vec4(position, 1.0);-->
-    <!--gl_Position = projectionMatrix * mvPosition;-->
-  <!--}-->
-<!--</script>-->
-
-<!--<script type="x-shader/x-fragment" id="fragCube">-->
-  <!--uniform sampler2D texture;-->
-  <!--void main() {-->
-    <!--gl_FragColor = texture2D(texture, gl_FragCoord.xy);-->
-  <!--}-->
-<!--</script>-->
 
 <script type="x-shader/x-fragment" id="computeShaderRandoms">
   void main() {
     vec2 uv = (gl_FragCoord.xy / resolution.xy);
     vec4 texel = texture2D(texRandom, uv);
 
-    vec2 texelCoords[4]; 
+    vec2 texelCoords[4];
     texelCoords[0] = mod(gl_FragCoord.xy + vec2( 0.0, -1.0), resolution.xy) / resolution.xy;
     texelCoords[1] = mod(gl_FragCoord.xy + vec2( 1.0,  0.0), resolution.xy) / resolution.xy;
     texelCoords[2] = mod(gl_FragCoord.xy + vec2( 0.0,  1.0), resolution.xy) / resolution.xy;
@@ -114,17 +87,13 @@ I'll toss out floats that are exactly equal to one because IDGAF.
     gl_FragColor = abs(colorTransform - texture2D(texRandom, uv));
   }</script>
 
-<!--<script type="x-shader/x-vertex" id="hmmm">-->
-
-<!--</script>-->
-
 <script src="/js/three/GPUComputeRenderer.js" type="text/javascript"></script>
-<script src="/js/3d/2017-1-4-webgl-gpu-prng.js" type="text/javascript"></script>
+<script src="/js/3d/2017-01-04-webgl-gpu-prng.js" type="text/javascript"></script>
 
 <script type="text/javascript">
   var codeComputeShaderRandoms = document.getElementById("computeShaderRandoms").textContent;
-  codeComputeShaderRandoms = '<span class="p">' + 
-    codeComputeShaderRandoms.split('\n').join('</span>\n<span class="p">') + 
+  codeComputeShaderRandoms = '<span class="p">' +
+    codeComputeShaderRandoms.split('\n').join('</span>\n<span class="p">') +
     '</span>';
   document.getElementById("codeComputeShaderRandoms").innerHTML = codeComputeShaderRandoms;
 </script>

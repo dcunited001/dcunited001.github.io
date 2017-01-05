@@ -8,9 +8,7 @@ var cubeRotationAxis = new THREE.Vector3(0.3,0.4,0.5), cubeRotationRate = Math.P
 var texRng, gpuCompute, computeTexture, computeMaterial, randomVariable, randomUniforms;
 var startTime = new Date().getTime(), currentTime = startTime, elapsedTime = startTime - currentTime;
 
-var texPoolRandom = [];
-
-var WIDTH = 4096, HEIGHT = 4096;
+var WIDTH = 64, HEIGHT = 64;
 var mouseX = 0, mouseY = 0;
 var windowHalfX = window.innerWidth / 2;
 var windowHalfY = window.innerHeight / 2;
