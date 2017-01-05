@@ -105,8 +105,8 @@ interfering with my life.
 Anyways, here's proof that I'm at least somewhat technically
 competent. Oh an guess what? THIS WAS A "TDO" HEARING, WHICH
 APPARENTLY NOW SHOWS UP ON MY CRIMINAL RECORD, FOR WHICH I HAD NO
-RECOURSE, NO REPRESENTATION, INADEQUATE MEDICAL EVALUATION FOR TDO --
-AND IT SHOWS UP ON ANY FUCKING BACKGROUND CHECK.  Even one that a
+RECOURSE, NO REPRESENTATION, AND INADEQUATE MEDICAL EVALUATION FOR TDO
+-- AND IT SHOWS UP ON ANY FUCKING BACKGROUND CHECK.  Especially one a
 military recruiter runs. And honestly, that is the cheapest way to get
 a background check if you know why they ask the questions they do.
 
