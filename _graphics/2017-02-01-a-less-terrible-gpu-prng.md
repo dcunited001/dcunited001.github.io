@@ -1,5 +1,5 @@
 ---
-title: "A Less Terrible GPU RNG With WebGL"
+title: "A Less Terrible GPU PRNG With WebGL"
 categories: "graphics"
 tags: ""
 headline: ""

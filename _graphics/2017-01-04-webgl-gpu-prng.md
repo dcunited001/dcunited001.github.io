@@ -1,5 +1,5 @@
 ---
-title: "A Terrible GPU RNG With WebGL"
+title: "A Terrible GPU PRNG With WebGL"
 categories: "graphics"
 tags: ""
 headline: ""
@@ -136,7 +136,7 @@ in the butt.
 And I haven't even ventured into my understanding of the applictation
 of the Laplacian to information systems, coupled with an understanding
 of logistics, employee training and law, that basically means I'm
-borderline psychic.
+borderline psychic. And damaged goods, psychologically speaking.
 
 <script type="x-shader/x-fragment" id="computeShaderRandoms">
   void main() {
