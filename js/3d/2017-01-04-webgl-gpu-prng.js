@@ -2,12 +2,13 @@
 
 var container;
 var cam, origCamZ;
-var scene, renderer, texLoader;
+var scene, renderer;
 var cube, cubeSize, cubeGeo, cubeTexture, cubeMaterial;
 var cubeRotationAxis = new THREE.Vector3(0.3,0.4,0.5), cubeRotationRate = Math.PI / 5;
-var texRng, gpuCompute, computeTexture, computeMaterial, randomVariable, randomUniforms;
+var texRng, gpuCompute, randomVariable, randomUniforms;
 var startTime = new Date().getTime(), currentTime = startTime, elapsedTime = startTime - currentTime;
 
+cubeSize = 500;
 var WIDTH = 64, HEIGHT = 64;
 var mouseX = 0, mouseY = 0;
 var windowHalfX = window.innerWidth / 2;
@@ -21,12 +22,9 @@ function init() {
   cam.position.z = origCamZ;
 
   scene = new THREE.Scene();
-
-  texLoader = new THREE.TextureLoader();
 }
 
 function createCube() {
-  var cubeSize = 500;
   cubeGeo = new THREE.BoxBufferGeometry(cubeSize, cubeSize, cubeSize, 10, 10, 10);
 
   cubeMaterial = new THREE.MeshBasicMaterial({
@@ -44,18 +42,9 @@ function createCube() {
   //  fragmentShader: document.getElementById('fragCube').textContent
   //});
 
-  console.log(cubeMaterial);
-
   cube = new THREE.Mesh(cubeGeo, cubeMaterial);
   cube.position.set(0,0,1);
   scene.add(cube);
-
-  console.log(cubeTexture);
-
-  //cubeGroup = THREE.SceneUtils.createMultiMaterialObject(cube, [computeMaterial]);
-  //cubeGroup = THREE.SceneUtils.createMultiMaterialObject(cube, [computeMaterial, computeMaterial2]);
-  //cubeGroup.position.set(0,0,1);
-  //scene.add(cubeGroup);
 }
 
 function createGPUCompute() {
@@ -158,24 +147,6 @@ function render() {
 init();
 createRenderer();
 createGPUCompute();
-
 createCube();
 configureCanvas();
-
-console.log("before compute");
-console.log(texRng);
-
-gpuCompute.compute();
-cubeMaterial.needsUpdate = true;
-var tempTexture = gpuCompute.getCurrentRenderTarget(randomVariable).texture;
-console.log("before render");
-console.log(tempTexture);
-//texRng = gpuCompute.getCurrentRenderTarget(randomVariable).texture;
-
-cubeMaterial.needsUpdate = true;
-console.log("after render");
-//console.log(tempTexture);
-console.log(texRng);
-
-//computeMaterial.needsUpdate = true;
 animate();
