@@ -33,10 +33,12 @@ author:
   <div class="col-sm-3 col-xs-6"><input id="conway-color-16" class="jscolor" value="#FFFFFF" data-color-id="15" onchange="changeColorUniforms(this.attributes['data-color-id'].value, this.value);" /></div>
 </div>
 
+# Fragment Shader: shaderConway1
+
 <p>
   <figure class="highlight">
     <pre>
-      <code id="codeShaderConwayOne" class="language-c" data-lang="c">
+      <code id="codeShaderConway1" class="language-c" data-lang="c">
 
       </code>
     </pre>
@@ -44,16 +46,16 @@ author:
 </p>
 
 <script type="x-shader/x-fragment" id="shaderConway1">
-  uniform mat4 colorMap;
+  uniform vec4 colorMap[16];
 
   void main() {
 
     int populatedSolitude = 1;
-    int populatedOvercrowde = 4;
-    int unpopulatedCreate = 3;
+    int populatedOvercrowded = 4;
+    int unpopulatedCreate = 2;
 
     vec2 uv = (gl_FragCoord.xy / resolution.xy);
-    vec4 texel = texture2D(texRandom, uv);
+    vec4 texel = texture2D(texConway, uv);
 
     vec2 texelCoords[8];
     texelCoords[0] = mod(gl_FragCoord.xy + vec2( 0.0, -1.0), resolution.xy) / resolution.xy;
@@ -65,22 +67,120 @@ author:
     texelCoords[6] = mod(gl_FragCoord.xy + vec2(-1.0,  0.0), resolution.xy) / resolution.xy;
     texelCoords[7] = mod(gl_FragCoord.xy + vec2(-1.0, -1.0), resolution.xy) / resolution.xy;
 
+    vec4 texels[8];
+    int neighborCount = 0;
+    for (int i=0; i<8; i++) {
+      texels[i] = texture2D(texConway, texelCoords[i]);
 
+      // not sure how to avoid conditional/ternary here
+      // - but the GPU always has to execute both paths and cannot do so simultaneously
+      neighborCount += ((texels[i].x > 0.0) ? 1 : 0);
+    }
 
-    //TODO: color map
+    vec4 newFragColor = vec4(0.0, 0.0, 0.0, 1.0);
+    if (texel.x > 0.0) { // if populated
+      if (neighborCount > populatedSolitude && neighborCount < populatedOvercrowded) {
+        newFragColor.x = texel.x + 1.0; // cell ages
+        //newFragColor.x = 1.0;
+      } else { // cell dies
+        // TODO: implement "aging" rules
+        newFragColor.x = 0.0;
+      }
+    } else {
+      if (neighborCount == unpopulatedCreate) {
+        newFragColor.x = 1.0;
+      } else {
+        newFragColor.x = 0.0;
+      }
+    }
 
-
+    gl_FragColor = newFragColor;
 
   }</script>
 
+
+# Vertex Shader: vertCube
+
+Just a passthrough shader for vertex positions.
+
+<p>
+  <figure class="highlight">
+    <pre>
+      <code id="codeVertCube" class="language-c" data-lang="c">
+
+      </code>
+    </pre>
+  </figure>
+</p>
+
+<script type="x-shader/x-vertex" id="vertCube">
+  void main() {
+    vec4 mvPosition = modelViewMatrix * vec4(position, 1.0);
+    gl_Position = projectionMatrix * mvPosition;
+    //gl_Position = vec4( position, 1.0 );
+  }
+</script>
+
+# Fragment Shader: fragCube
+
+Having some problems getting `ShaderMaterial` to work with a
+`GPUComputeRenderer` at the moment. Doesn't seem to acknowledge that
+there are different texel `uv` coordinates.
+
+<p>
+  <figure class="highlight">
+    <pre>
+      <code id="codeFragCube" class="language-c" data-lang="c">
+
+      </code>
+    </pre>
+  </figure>
+</p>
+
+<script type="x-shader/x-fragment" id="fragCube">
+  uniform sampler2D texture;
+  uniform vec4 colorMap[16];
+
+  void main() {
+
+    int colorId = int(texture2D(texture, gl_FragCoord.xy / resolution.xy).x);
+    //int colorId = int(texture2D(texture, gl_FragCoord.xy).x);
+
+    // NOTE: fails because cannot access array without CONSTANT value
+    // gl_FragColor = colorMap[colorId];
+
+    gl_FragColor = colorMap[0];
+    for (int i=0; i<16; i++) {
+      // conditional statements like this are less than ideal...
+      if (colorId == i) {
+        gl_FragColor = colorMap[i];
+      }
+    }
+
+    //gl_FragColor = vec4(gl_PointCoord.xy / resolution.xy, 0.0, 1.0);
+    gl_FragColor = vec4(fract(gl_FragCoord.xy / resolution.xy), 0.0, 1.0);
+
+    //gl_FragColor = texture2D(texture, gl_FragCoord.xy / resolution.xy);
+    //vec4 texel = texture2D(texture, gl_FragCoord.xy / resolution.xy);
+    //gl_FragColor = colorMap[1];
+    //gl_FragColor = vec4(texel.x / 16.0, 0.5, 0.0, 1.0);
+
+  }</script>
 
 <script src="/js/three/GPUComputeRenderer.js" type="text/javascript"></script>
 <script src="/js/3d/2017-01-05-conways-game-of-parallel-life.js" type="text/javascript"></script>
 
 <script type="text/javascript">
-  var codeComputeShaderRandoms = document.getElementById("shaderConwayOne").textContent;
-  codeShaderConwayOne = '<span class="p">' +
-    codeComputeShaderRandoms.split('\n').join('</span>\n<span class="p">') +
-    '</span>';
-  document.getElementById("codeShaderConwayOne").innerHTML = codeShaderConwayOne;
+
+  function pasteShaderToCodeBlock(shaderId, codeBlockId) {
+    var shaderCode = document.getElementById(shaderId).textContent;
+    var processedCode = '<span class="p">' +
+        shaderCode .split('\n').join('</span>\n<span class="p">') +
+        '</span>';
+    document.getElementById(codeBlockId).innerHTML = processedCode;
+  }
+
+  pasteShaderToCodeBlock('shaderConway1', 'codeShaderConway1');
+  pasteShaderToCodeBlock('vertCube', 'codeVertCube');
+  pasteShaderToCodeBlock('fragCube', 'codeFragCube');
 </script>

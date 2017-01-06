@@ -7,6 +7,7 @@ var texGame, gpuCompute, gameVariable, gameUniforms, uiColorUniforms = new Array
 var startTime = new Date().getTime(), currentTime = startTime, elapsedTime = startTime - currentTime;
 
 var WIDTH = 64, HEIGHT = 64;
+var gameSize = new THREE.Vector2(WIDTH, HEIGHT);
 var mouseX = 0, mouseY = 0;
 var windowHalfX = window.innerWidth / 2;
 var windowHalfY = window.innerHeight / 2;
@@ -72,10 +73,24 @@ function createCube() {
   var cubeSize = 500;
   cubeGeo = new THREE.BoxBufferGeometry(cubeSize, cubeSize, cubeSize, 10, 10, 10);
 
-  cubeMaterial = new THREE.MeshBasicMaterial({
-    map: texRng,
+  //cubeMaterial = new THREE.MeshBasicMaterial({
+  //  map: texGame,
+  //  overdraw: true,
+  //  transparent: true
+  //});
+
+  cubeMaterial = new THREE.ShaderMaterial({
+    defines: {
+      resolution: 'vec2(' + gameSize.x.toFixed(1) + ', ' + gameSize.y.toFixed(1) + ')'
+    },
+    uniforms: {
+      texture: { value: texGame },
+      colorMap: { value: gameColorUniforms }
+    },
     overdraw: true,
-    transparent: true
+    //minFilter:
+    //vertexShader: document.getElementById('vertCube').textContent,
+    fragmentShader: document.getElementById('fragCube').textContent
   });
 
   cube = new THREE.Mesh(cubeGeo, cubeMaterial);
@@ -86,14 +101,14 @@ function createCube() {
 function createGPUCompute() {
   gpuCompute = new GPUComputationRenderer(WIDTH, HEIGHT, renderer);
 
-  texRng = gpuCompute.createTexture();
-  texRng.wrapS = THREE.RepeatWrapping;
-  texRng.wrapT = THREE.RepeatWrapping;
+  texGame = gpuCompute.createTexture();
+  texGame.wrapS = THREE.RepeatWrapping;
+  texGame.wrapT = THREE.RepeatWrapping;
 
-  fillTextureWithRandoms(texRng);
-  randomVariable = gpuCompute.addVariable("texRandom", document.getElementById('shaderConway1').textContent, texRng);
-  gpuCompute.setVariableDependencies(randomVariable, [randomVariable]);
-  randomUniforms = randomVariable.material.uniforms;
+  fillTextureWithRandomState(texGame);
+  gameVariable = gpuCompute.addVariable("texConway", document.getElementById('shaderConway1').textContent, texGame);
+  gpuCompute.setVariableDependencies(gameVariable, [gameVariable]);
+  gameUniforms = gameVariable.material.uniforms;
 
   var error = gpuCompute.init();
   if ( error !== null ) {
@@ -104,15 +119,17 @@ function createGPUCompute() {
 /*
  * seeds texture with initial random data
  */
-function fillTextureWithRandomState(texRng) {
-  var texData = texRng.image.data;
+function fillTextureWithRandomState(texGame) {
+  var texData = texGame.image.data;
 
   for (var i=0; i < texData.length; i += 4) {
-    texData[i] = (Math.floor(Math.random()*5) / 4) * 1.0; // 20% chance for 1.0
-    texData[i+1] = 1;
-    texData[i+2] = 1;
-    texData[i+3] = 1;
+    texData[i] = Math.floor(Math.floor(Math.random() * 5) / 4) * 1.0; // 20% chance for 1.0
+    texData[i + 1] = 0;
+    texData[i + 2] = 0;
+    texData[i + 3] = 1;
   }
+
+  console.log(texData);
 }
 
 function createRenderer() {
@@ -156,7 +173,7 @@ function update() {
   currentTime = new Date().getTime();
   elapsedTime = currentTime - startTime;
 
-  cube.quaternion.setFromAxisAngle(cubeRotationAxis, cubeRotationRate * (elapsedTime / 1000.0));
+  //cube.quaternion.setFromAxisAngle(cubeRotationAxis, cubeRotationRate * (elapsedTime / 1000.0));
 }
 
 function render() {
@@ -166,15 +183,12 @@ function render() {
   cam.position.z = origCamZ + dist;
   cam.lookAt(scene.position);
 
-  //cubeMaterial.uniforms.texture.value = gpuCompute.getCurrentRenderTarget(randomVariable).texture;
-  cubeMaterial.map = gpuCompute.getCurrentRenderTarget(randomVariable).texture;
+  gameColorUniforms = transformColorUniforms(uiColorUniforms);
+  cubeMaterial.uniforms.colorMap.value = gameColorUniforms;
+  cubeMaterial.uniforms.texture.value = gpuCompute.getCurrentRenderTarget(gameVariable).texture;
+  //cubeMaterial.map = gpuCompute.getCurrentRenderTarget(gameVariable).texture;
   gpuCompute.compute();
   cubeMaterial.needsUpdate = true;
-
-  //texRng = gpuCompute.getCurrentRenderTarget(randomVariable).texture;
-  //gpuCompute.renderTexture(texRng, randomVariable.renderTargets[0]);
-  //cubeMaterial.needsUpdate = true;
-  //texRng.image.data = gpuCompute.getCurrentRenderTarget(randomVariable).texture;
 
   renderer.render(scene, cam);
 }
@@ -182,24 +196,6 @@ function render() {
 init();
 createRenderer();
 createGPUCompute();
-
 createCube();
 configureCanvas();
-
-console.log("before compute");
-console.log(texRng);
-
-gpuCompute.compute();
-cubeMaterial.needsUpdate = true;
-var tempTexture = gpuCompute.getCurrentRenderTarget(randomVariable).texture;
-console.log("before render");
-console.log(tempTexture);
-//texRng = gpuCompute.getCurrentRenderTarget(randomVariable).texture;
-
-cubeMaterial.needsUpdate = true;
-console.log("after render");
-//console.log(tempTexture);
-console.log(texRng);
-
-//computeMaterial.needsUpdate = true;
 animate();
