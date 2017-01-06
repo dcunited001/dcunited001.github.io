@@ -28,19 +28,8 @@ function createCube() {
   cubeGeo = new THREE.BoxBufferGeometry(cubeSize, cubeSize, cubeSize, 10, 10, 10);
 
   cubeMaterial = new THREE.MeshBasicMaterial({
-    map: texRng,
-    overdraw: true,
-    transparent: true
+    map: texRng
   });
-
-  //cubeMaterial = new THREE.ShaderMaterial({
-  //  uniforms: {
-  //    //texture: { value: cubeTexture }
-  //    texture: { value: texRng }
-  //  },
-  //  vertexShader: document.getElementById('vertCube').textContent,
-  //  fragmentShader: document.getElementById('fragCube').textContent
-  //});
 
   cube = new THREE.Mesh(cubeGeo, cubeMaterial);
   cube.position.set(0,0,1);
@@ -75,8 +64,8 @@ function fillTextureWithRandoms(texRng) {
     texData[i] = Math.random();
     texData[i+1] = Math.random();
     texData[i+2] = Math.random();
-    //texData[i+3] = Math.abs(Math.random() - 0.75);
-    texData[i+3] = 1;
+    texData[i+3] = Math.abs(Math.random() - 0.75);
+    //texData[i+3] = 1;
   }
 }
 
@@ -139,15 +128,11 @@ function render() {
   if (!paused) {
     //cubeMaterial.uniforms.texture.value = gpuCompute.getCurrentRenderTarget(randomVariable).texture;
     cubeMaterial.map = gpuCompute.getCurrentRenderTarget(randomVariable).texture;
+    cubeMaterial.normalMap = gpuCompute.getCurrentRenderTarget(randomVariable).texture;
     gpuCompute.compute();
     cubeMaterial.needsUpdate = true;
-
-    //texRng = gpuCompute.getCurrentRenderTarget(randomVariable).texture;
-    //gpuCompute.renderTexture(texRng, randomVariable.renderTargets[0]);
-    //cubeMaterial.needsUpdate = true;
-    //texRng.image.data = gpuCompute.getCurrentRenderTarget(randomVariable).texture;
   }
-  
+
   renderer.render(scene, cam);
 }
 
