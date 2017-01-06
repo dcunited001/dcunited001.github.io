@@ -8,6 +8,10 @@ author:
   name: "David Conner"
 ---
 
+<div class="row">
+  <div class="col-sm-3 col-xs-6"><button id="btn-pause" class="btn btn-default" onclick="togglePause()">Pause</button></div>
+</div>
+
 ### Parallelized Random Number Generation in the Browser
 
 This is a basic parallelized random number generator written with

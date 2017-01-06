@@ -2,7 +2,7 @@
 
 var container;
 var cam, origCamZ;
-var scene, renderer;
+var scene, renderer, paused = false;
 var cube, cubeSize, cubeGeo, cubeTexture, cubeMaterial;
 var cubeRotationAxis = new THREE.Vector3(0.3,0.4,0.5), cubeRotationRate = Math.PI / 5;
 var texRng, gpuCompute, randomVariable, randomUniforms;
@@ -107,6 +107,11 @@ function onDocMouseMove() {
   mouseY = (event.clientY - windowHalfY);
 }
 
+function togglePause() {
+  paused = !paused;
+  document.getElementById('btn-pause').textContent = (paused ? "Play" : "Pause");
+}
+
 function animate() {
   requestAnimationFrame(animate);
   update();
@@ -131,16 +136,18 @@ function render() {
   cam.position.z = origCamZ + dist;
   cam.lookAt(scene.position);
 
-  //cubeMaterial.uniforms.texture.value = gpuCompute.getCurrentRenderTarget(randomVariable).texture;
-  cubeMaterial.map = gpuCompute.getCurrentRenderTarget(randomVariable).texture;
-  gpuCompute.compute();
-  cubeMaterial.needsUpdate = true;
+  if (!paused) {
+    //cubeMaterial.uniforms.texture.value = gpuCompute.getCurrentRenderTarget(randomVariable).texture;
+    cubeMaterial.map = gpuCompute.getCurrentRenderTarget(randomVariable).texture;
+    gpuCompute.compute();
+    cubeMaterial.needsUpdate = true;
 
-  //texRng = gpuCompute.getCurrentRenderTarget(randomVariable).texture;
-  //gpuCompute.renderTexture(texRng, randomVariable.renderTargets[0]);
-  //cubeMaterial.needsUpdate = true;
-  //texRng.image.data = gpuCompute.getCurrentRenderTarget(randomVariable).texture;
-
+    //texRng = gpuCompute.getCurrentRenderTarget(randomVariable).texture;
+    //gpuCompute.renderTexture(texRng, randomVariable.renderTargets[0]);
+    //cubeMaterial.needsUpdate = true;
+    //texRng.image.data = gpuCompute.getCurrentRenderTarget(randomVariable).texture;
+  }
+  
   renderer.render(scene, cam);
 }
 
