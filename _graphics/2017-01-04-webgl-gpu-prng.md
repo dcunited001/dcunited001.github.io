@@ -1,9 +1,9 @@
 ---
 title: "A Terrible GPU PRNG With WebGL"
 categories: "graphics"
-tags: ""
-headline: ""
-excerpt: "Exploration into Random Number Generation with WebGL and ThreeJS"
+tags: "crypto graphics computer-science math"
+headline: "Random Number Generation with WebGL and ThreeJS"
+excerpt: ""
 author:
   name: "David Conner"
 ---
@@ -26,7 +26,7 @@ parameters for it.  I will write some better variations on PRNG's soon
 that are based on this concept, but this is a good enough "hello
 world" for GPU PRNG.
 
-The texture is simply 64x64, so the point can be more easily
+The texture is simply 64x64 so the point can be more easily
 visualized, but scales to 4096x4096 with no problems at ~30
 fps. That's 30 x 4 x 4096 x 4096 random numbers per second.  Even
 though the quality is suspect, that's about 2 Gigarands per second.
