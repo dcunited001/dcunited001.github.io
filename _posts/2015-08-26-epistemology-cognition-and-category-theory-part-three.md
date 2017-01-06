@@ -482,13 +482,13 @@ these opportunities for challenge and self-expression.
 
 ### &#x2297; [Martial Arts](/posts/2015-08-26-epistemology-cognition-and-category-theory-part-three.html#martial-arts)
 
-Martial arts is probably one of the rewarding pursuits.  It interests
-me most because sparring requires the conditioned, subconscious
-application of physical strategy.  Similar to chess, it requires
-backwards induction and ideation of paths to reach a particular
-objective.  In contrast to chess, it's much more crucial to be capable
-of empathizing with your opponent in order to read their strategy.
-Development of such a strategy requires short-term memory.
+Martial arts might be one of the most rewarding pursuits.  It
+interests me most because sparring requires the conditioned,
+subconscious application of physical strategy.  Similar to chess, it
+requires backwards induction and ideation of paths to reach a
+particular objective.  In contrast to chess, it's much more crucial to
+be capable of empathizing with your opponent in order to read their
+strategy.  Development of such a strategy requires short-term memory.
 
 > “If you know the enemy and know yourself, you need not fear the
 > result of a hundred battles. If you know yourself but not the enemy,
@@ -650,13 +650,13 @@ we cast it in.
 But for those who have the determination and versatile perspective
 required for perseverence, a more expansive system of modeling can
 facilitate learning. You can choose to learn new activities, just to
-expand your cognitive skills.  The more often you do this, this
-repeated metacognition required for introspection becomes more
-natural.  As your conscious mind construct models per-category, the
-subconscious generalizes these models so they can be reused for other
-processes.  But if you have the powerful ability to construct models
-for any category, then you can use the conscious mind to deconstruct
-anything into a familiar model.
+expand your cognitive skills.  The repeated metacognition required for
+introspection becomes more natural the more often you do this.  As
+your conscious mind constructs models per-category, the subconscious
+generalizes these models so they can be reused for other processes.
+But if you have the powerful ability to construct models for any
+category, then you can use the conscious mind to deconstruct anything
+into a familiar model.
 
 It is extremely powerful to have the capability to see the
 similiarities in all things.  The more you understand how and why all
