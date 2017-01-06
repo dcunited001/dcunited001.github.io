@@ -1,6 +1,6 @@
 var container;
 var cam, origCamZ;
-var scene, renderer;
+var scene, renderer, paused = false;
 var cube, cubeSize, cubeGeo, cubeTexture, cubeMaterial;
 var cubeRotationAxis = new THREE.Vector3(0.3,0.4,0.5), cubeRotationRate = Math.PI / 5;
 var texGame, gpuCompute, gameVariable, gameUniforms, uiColorUniforms = new Array(16), gameColorUniforms = new Array(16);
@@ -34,9 +34,7 @@ function initColorUniforms() {
   }
   gameColorUniforms = transformColorUniforms(uiColorUniforms);
 }
-
 initColorUniforms();
-console.log(gameColorUniforms);
 
 /*
  * called when color inputs change
@@ -89,7 +87,7 @@ function createCube() {
     },
     overdraw: true,
     //minFilter:
-    //vertexShader: document.getElementById('vertCube').textContent,
+    vertexShader: document.getElementById('vertCube').textContent,
     fragmentShader: document.getElementById('fragCube').textContent
   });
 
@@ -119,17 +117,14 @@ function createGPUCompute() {
 /*
  * seeds texture with initial random data
  */
-function fillTextureWithRandomState(texGame) {
-  var texData = texGame.image.data;
-
-  for (var i=0; i < texData.length; i += 4) {
-    texData[i] = Math.floor(Math.floor(Math.random() * 5) / 4) * 1.0; // 20% chance for 1.0
-    texData[i + 1] = 0;
-    texData[i + 2] = 0;
-    texData[i + 3] = 1;
+function fillTextureWithRandomState(tex) {
+  var data = tex.image.data;
+  for (var i=0; i < data.length; i += 4) {
+    data[i] = Math.floor(Math.floor(Math.random() * 5) / 4) * 1.0; // 20% chance for 1.0
+    data[i+1] = 0;
+    data[i+2] = 0;
+    data[i+3] = 1;
   }
-
-  console.log(texData);
 }
 
 function createRenderer() {
@@ -143,7 +138,7 @@ function configureCanvas() {
   var canvas = document.getElementById('main-canvas');
   container.replaceChild(renderer.domElement, canvas);
   document.addEventListener('mousemove', onDocMouseMove, false);
-window.addEventListener('resize', onWindowResize, false);
+  window.addEventListener('resize', onWindowResize, false);
 }
 
 function onWindowResize() {
@@ -159,6 +154,18 @@ function onDocMouseMove() {
   mouseY = (event.clientY - windowHalfY);
 }
 
+function onClickRestart() {
+  var newTexture = texGame.clone();
+  fillTextureWithRandomState(newTexture);
+  texGame = newTexture;
+  console.log(texGame.image.data);
+}
+
+function togglePause() {
+  paused = !paused;
+  document.getElementById('btn-pause').textContent = (paused ? "Play" : "Pause");
+}
+
 function animate() {
   requestAnimationFrame(animate);
   update();
@@ -172,23 +179,24 @@ function distanceToCenter() {
 function update() {
   currentTime = new Date().getTime();
   elapsedTime = currentTime - startTime;
-
   //cube.quaternion.setFromAxisAngle(cubeRotationAxis, cubeRotationRate * (elapsedTime / 1000.0));
 }
 
 function render() {
-  cam.position.x += (mouseX - cam.position.x);
-  cam.position.y += (mouseY - cam.position.y);
-  var dist = distanceToCenter();
-  cam.position.z = origCamZ + dist;
+  //cam.position.x += (mouseX - cam.position.x);
+  //cam.position.y += (mouseY - cam.position.y);
+  //var dist = distanceToCenter();
+  //cam.position.z = origCamZ + dist;
   cam.lookAt(scene.position);
 
-  gameColorUniforms = transformColorUniforms(uiColorUniforms);
-  cubeMaterial.uniforms.colorMap.value = gameColorUniforms;
-  cubeMaterial.uniforms.texture.value = gpuCompute.getCurrentRenderTarget(gameVariable).texture;
-  //cubeMaterial.map = gpuCompute.getCurrentRenderTarget(gameVariable).texture;
-  gpuCompute.compute();
-  cubeMaterial.needsUpdate = true;
+  if (!paused) {
+    gameColorUniforms = transformColorUniforms(uiColorUniforms);
+    cubeMaterial.uniforms['colorMap'].value = gameColorUniforms;
+    cubeMaterial.uniforms['texture'].value = gpuCompute.getCurrentRenderTarget(gameVariable).texture;
+    //cubeMaterial.map = gpuCompute.getCurrentRenderTarget(gameVariable).texture;
+    gpuCompute.compute();
+    cubeMaterial.needsUpdate = true;
+  }
 
   renderer.render(scene, cam);
 }

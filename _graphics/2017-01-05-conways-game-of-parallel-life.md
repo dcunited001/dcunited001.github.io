@@ -9,6 +9,12 @@ author:
 ---
 
 <div class="row">
+  <div class="col-sm-3 col-xs-6"><button id="btn-restart" class="btn btn-default" onclick="onClickRestart()">Restart</button></div>
+  <div class="col-sm-3 col-xs-6"><button id="btn-pause" class="btn btn-default" onclick="togglePause()">Pause</button></div>
+  <!-- TODO: dropdown to seed with specific starting sets -->
+  <!-- TODO:  -->
+</div>
+<div class="row">
   <div class="col-sm-3 col-xs-6"><input id="conway-color-1"  class="jscolor" value="#000000" data-color-id="0"  onchange="changeColorUniforms(this.attributes['data-color-id'].value, this.value);" /></div>
   <div class="col-sm-3 col-xs-6"><input id="conway-color-2"  class="jscolor" value="#44891A" data-color-id="1"  onchange="changeColorUniforms(this.attributes['data-color-id'].value, this.value);" /></div>
   <div class="col-sm-3 col-xs-6"><input id="conway-color-3"  class="jscolor" value="#A3CE27" data-color-id="2"  onchange="changeColorUniforms(this.attributes['data-color-id'].value, this.value);" /></div>
@@ -52,7 +58,7 @@ author:
 
     int populatedSolitude = 1;
     int populatedOvercrowded = 4;
-    int unpopulatedCreate = 2;
+    int unpopulatedCreate = 3;
 
     vec2 uv = (gl_FragCoord.xy / resolution.xy);
     vec4 texel = texture2D(texConway, uv);
@@ -143,7 +149,10 @@ there are different texel `uv` coordinates.
 
   void main() {
 
-    int colorId = int(texture2D(texture, gl_FragCoord.xy / resolution.xy).x);
+    //TODO: WHY ISN'T THE GL_FRAGCOORD ISN'T ASSOCIATED WITH THE FRAGMENT?
+    int colorId = int(texture2D(texture, fract(gl_FragCoord.xy / resolution.xy / 4.0)).x);
+
+    //int colorId = int(texture2D(texture, gl_FragCoord.xy / resolution.xy).x);
     //int colorId = int(texture2D(texture, gl_FragCoord.xy).x);
 
     // NOTE: fails because cannot access array without CONSTANT value
@@ -158,7 +167,9 @@ there are different texel `uv` coordinates.
     }
 
     //gl_FragColor = vec4(gl_PointCoord.xy / resolution.xy, 0.0, 1.0);
-    gl_FragColor = vec4(fract(gl_FragCoord.xy / resolution.xy), 0.0, 1.0);
+    //gl_FragColor = vec4(gl_FragCoord.xy / resolution.xy, 0.0, 1.0);
+    //gl_FragColor = vec4(fract(gl_PointCoord.xy * resolution.xy), 0.0, 1.0);
+    //gl_FragColor = texture2D(texture, fract(gl_FragCoord.xy / resolution.xy));
 
     //gl_FragColor = texture2D(texture, gl_FragCoord.xy / resolution.xy);
     //vec4 texel = texture2D(texture, gl_FragCoord.xy / resolution.xy);
