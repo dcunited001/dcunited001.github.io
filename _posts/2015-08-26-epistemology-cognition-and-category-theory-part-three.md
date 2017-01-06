@@ -522,7 +522,7 @@ define patterns or strategies specifically to escape definition?
 
 But martial arts is physcial and requires muscle memory.  I posit that
 by entangling empathy, spatial awareness, strategy and muscle memory,
-that martial arts develops certain orchestrations of cognitive
+that martial arts develop certain orchestrations of cognitive
 functions that can be generalized in many other situations.  Martial
 arts requires spatial awareness of self, but also of your opponent.
 You need to be able to read your opponent to understand his or her
@@ -540,7 +540,7 @@ You must clearly see how your opponent sees.
 ### &#x2297; [Martial Arts with Weapons](/posts/2015-08-26-epistemology-cognition-and-category-theory-part-three.html#martial-arts-with-weapons)
 
 Like skateboarding, fencing and kendo also require spatial awareness
-generalized to an object.  Whereas with skateboarding, your learned
+generalized to an object.  Whereas, with skateboarding, your learned
 behaviors focus on a single object type, with weapon techniques, you
 tend to start generalizing the object itself.  As you examine
 different combinations of weapons, you'll learn about advantaged and
