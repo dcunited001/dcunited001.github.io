@@ -2,7 +2,7 @@
 
 var container;
 var cam, origCamZ;
-var scene, renderer, paused = false;
+var scene, renderer, paused = false, stepThrough = false;
 var cube, cubeSize, cubeGeo, cubeTexture, cubeMaterial;
 var cubeRotationAxis = new THREE.Vector3(0.3,0.4,0.5), cubeRotationRate = Math.PI / 5;
 var texRng, gpuCompute, randomVariable, randomUniforms;
@@ -79,8 +79,9 @@ function createRenderer() {
 function configureCanvas() {
   var canvas = document.getElementById('main-canvas');
   container.replaceChild(renderer.domElement, canvas);
+  container.addEventListener('click', randomStepThrough, false);
   document.addEventListener('mousemove', onDocMouseMove, false);
-window.addEventListener('resize', onWindowResize, false);
+  window.addEventListener('resize', onWindowResize, false);
 }
 
 function onWindowResize() {
@@ -99,6 +100,10 @@ function onDocMouseMove() {
 function togglePause() {
   paused = !paused;
   document.getElementById('btn-pause').textContent = (paused ? "Play" : "Pause");
+}
+
+function randomStepThrough() {
+  stepThrough = true;
 }
 
 function animate() {
@@ -125,12 +130,14 @@ function render() {
   cam.position.z = origCamZ + dist;
   cam.lookAt(scene.position);
 
-  if (!paused) {
+  if (!paused || stepThrough) {
     //cubeMaterial.uniforms.texture.value = gpuCompute.getCurrentRenderTarget(randomVariable).texture;
     cubeMaterial.map = gpuCompute.getCurrentRenderTarget(randomVariable).texture;
     cubeMaterial.normalMap = gpuCompute.getCurrentRenderTarget(randomVariable).texture;
     gpuCompute.compute();
     cubeMaterial.needsUpdate = true;
+
+    if (stepThrough) { stepThrough = false }
   }
 
   renderer.render(scene, cam);

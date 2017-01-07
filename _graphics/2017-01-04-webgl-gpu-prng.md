@@ -8,6 +8,8 @@ author:
   name: "David Conner"
 ---
 
+#### Click Canvas to Step Through When Paused
+
 <div class="row">
   <div class="col-sm-3 col-xs-6"><button id="btn-pause" class="btn btn-default" onclick="togglePause()">Pause</button></div>
 </div>
