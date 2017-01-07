@@ -1,18 +1,20 @@
 var container;
 var cam, origCamZ;
-var scene, renderer, paused = false, stepThrough = false;
+var gpuCompute, scene, renderer, paused = false, stepThrough = false;
 var cube, cubeSize, cubeGeo, cubeTexture, cubeMaterial;
 var cubeRotationAxis = new THREE.Vector3(0.3,0.4,0.5), cubeRotationRate = Math.PI / 5;
-var texGame, gpuCompute, gameVariable, gameUniforms, uiColorUniforms = new Array(16), gameColorUniforms = new Array(16);
+var texGame, texGameColor;
+var gameVariable, gameColorVariable;
+
+var uiColorUniforms = new Array(16), gameColorUniforms = new Array(16);
 var startTime = new Date().getTime(), currentTime = startTime, elapsedTime = startTime - currentTime;
 
-var WIDTH = 64, HEIGHT = 64;
+var WIDTH = 128, HEIGHT = 128;
 var gameSize = new THREE.Vector2(WIDTH, HEIGHT);
 var mouseX = 0, mouseY = 0;
 var windowHalfX = window.innerWidth / 2;
 var windowHalfY = window.innerHeight / 2;
 
-// TODO: uniforms for color palette
 // TODO: uniforms for rules
 // TODO: colors for "age"
 // TODO: rules for age?
@@ -71,22 +73,8 @@ function createCube() {
   var cubeSize = 500;
   cubeGeo = new THREE.BoxBufferGeometry(cubeSize, cubeSize, cubeSize, 10, 10, 10);
 
-  //cubeMaterial = new THREE.MeshBasicMaterial({
-  //  map: texGame,
-  //  overdraw: true,
-  //  transparent: true
-  //});
-
-  cubeMaterial = new THREE.ShaderMaterial({
-    defines: {
-      resolution: 'vec2(' + gameSize.x.toFixed(1) + ', ' + gameSize.y.toFixed(1) + ')'
-    },
-    uniforms: {
-      texture: { value: texGame },
-      colorMap: { value: gameColorUniforms }
-    },
-    vertexShader: document.getElementById('vertCube').textContent,
-    fragmentShader: document.getElementById('fragCube').textContent
+  cubeMaterial = new THREE.MeshBasicMaterial({
+    map: texGameColor
   });
 
   cube = new THREE.Mesh(cubeGeo, cubeMaterial);
@@ -98,13 +86,20 @@ function createGPUCompute() {
   gpuCompute = new GPUComputationRenderer(WIDTH, HEIGHT, renderer);
 
   texGame = gpuCompute.createTexture();
-  texGame.wrapS = THREE.RepeatWrapping;
-  texGame.wrapT = THREE.RepeatWrapping;
-
   fillTextureWithRandomState(texGame);
-  gameVariable = gpuCompute.addVariable("texConway", document.getElementById('shaderConway1').textContent, texGame);
+
+  texGameColor = gpuCompute.createTexture();
+
+  var shaderConway = document.getElementById('shaderConway1').textContent;
+  var shaderConwayColor = document.getElementById('shaderConwayColor').textContent;
+
+  gameVariable = gpuCompute.addVariable("game", shaderConway, texGame);
+  gameColorVariable = gpuCompute.addVariable("gameColor", shaderConwayColor, texGameColor);
+
   gpuCompute.setVariableDependencies(gameVariable, [gameVariable]);
-  gameUniforms = gameVariable.material.uniforms;
+  gpuCompute.setVariableDependencies(gameColorVariable, [gameVariable, gameColorVariable]);
+
+  gameColorVariable.material.uniforms.colorMap = { value: gameColorUniforms };
 
   var error = gpuCompute.init();
   if ( error !== null ) {
@@ -182,25 +177,23 @@ function distanceToCenter() {
 function update() {
   currentTime = new Date().getTime();
   elapsedTime = currentTime - startTime;
-  //cube.quaternion.setFromAxisAngle(cubeRotationAxis, cubeRotationRate * (elapsedTime / 1000.0));
 }
 
 function render() {
-  //cam.position.x += (mouseX - cam.position.x);
-  //cam.position.y += (mouseY - cam.position.y);
-  //var dist = distanceToCenter();
-  //cam.position.z = origCamZ + dist;
+  cam.position.x += (mouseX - cam.position.x);
+  cam.position.y += (mouseY - cam.position.y);
+  var dist = distanceToCenter();
+  cam.position.z = origCamZ + dist;
   cam.lookAt(scene.position);
 
   if (!paused || stepThrough) {
     gameColorUniforms = transformColorUniforms(uiColorUniforms);
-    cubeMaterial.uniforms['colorMap'].value = gameColorUniforms;
-    cubeMaterial.uniforms['texture'].value = gpuCompute.getCurrentRenderTarget(gameVariable).texture;
-
+    gameColorVariable.material.uniforms.colorMap.value = gameColorUniforms;
+    cubeMaterial.map = gpuCompute.getCurrentRenderTarget(gameColorVariable).texture;
     gpuCompute.compute();
     cubeMaterial.needsUpdate = true;
 
-    if (stepThrough) { stepThrough = false }
+    if (stepThrough) { stepThrough = false; }
   }
 
   renderer.render(scene, cam);
@@ -223,7 +216,7 @@ function applyColorProfile(profileName) {
 
   var colorProfile = colorProfiles[profileName];
   for (var i=0; i<16; i++) {
-    var color = colorProfile[i];
+    var color = colorProfile[i] || colorProfile[0] || "#FFFFFF";
     document.getElementById('conway-color-' + (i+1)).jscolor.fromString(color);
     uiColorUniforms[i] = color;
   }
@@ -238,7 +231,34 @@ var colorProfiles = {
   'monokai': [],
   'moe': [],
   'solarized': [],
-  'cyberpunk': [],
+  'cyberpunk': [
+    "#000000", // cyberpunk-bg,
+    "#FB1493", // cyberpunk-pink
+    "#DCA3A3", // cyberpunk-red+1
+    "#8B0000", // cyberpunk-red-2,
+    "#9C6363", // cyberpunk-red-3
+    "#00FF00", // cyberpunk-green,
+    "#FFA500", // cyberpunk-orange,
+    "#7B68EE", // cyberpunk-blue-1,
+    "#6A5ACD", // cyberpunk-blue-2,
+    "#ADD8E6", // cyberpunk-blue-3,
+    "#DC8CC3", // cyberpunk-magenta,
+    "#94BFF3", // cyberpunk-cyan,
+    "#DCDCCC"],// cyberpunk-fg,
   'sublime-text': [],
   'vibrant-ink': []
 };
+
+
+// (custom-theme-set-variables)
+// https://github.com/bbatsov/zenburn-emacs/blob/master/zenburn-theme.el
+// [,zenburn-bg ,zenburn-red ,zenburn-green ,zenburn-yellow,zenburn-blue ,zenburn-magenta ,zenburn-cyan ,zenburn-fg]
+
+
+
+
+
+
+
+
+

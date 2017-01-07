@@ -38,10 +38,7 @@ function createCube() {
 
 function createGPUCompute() {
   gpuCompute = new GPUComputationRenderer(WIDTH, HEIGHT, renderer);
-
   texRng = gpuCompute.createTexture();
-  texRng.wrapS = THREE.RepeatWrapping;
-  texRng.wrapT = THREE.RepeatWrapping;
 
   fillTextureWithRandoms(texRng);
   randomVariable = gpuCompute.addVariable("texRandom", document.getElementById('computeShaderRandoms').textContent, texRng);
@@ -64,8 +61,8 @@ function fillTextureWithRandoms(texRng) {
     texData[i] = Math.random();
     texData[i+1] = Math.random();
     texData[i+2] = Math.random();
-    texData[i+3] = Math.abs(Math.random() - 0.75);
-    //texData[i+3] = 1;
+    //texData[i+3] = Math.abs(Math.random() - 0.75);
+    texData[i+3] = 1;
   }
 }
 
@@ -131,9 +128,7 @@ function render() {
   cam.lookAt(scene.position);
 
   if (!paused || stepThrough) {
-    //cubeMaterial.uniforms.texture.value = gpuCompute.getCurrentRenderTarget(randomVariable).texture;
     cubeMaterial.map = gpuCompute.getCurrentRenderTarget(randomVariable).texture;
-    cubeMaterial.normalMap = gpuCompute.getCurrentRenderTarget(randomVariable).texture;
     gpuCompute.compute();
     cubeMaterial.needsUpdate = true;
 
