@@ -32,7 +32,7 @@ author:
 
   <div class="col-sm-3 col-xs-6">
     <div class="btn-group">
-      <button type="button" class="btn btn-default dropdown-toggle" data-toggle="dropdown">Initial Data<span class="caret"></span></button>
+      <button type="button" class="btn btn-default dropdown-toggle" data-toggle="dropdown" disabled>Initial Data<span class="caret"></span></button>
       <ul class="dropdown-menu">
         <li><a href="#">Random</a></li>
         <li><a href="#">X</a></li>
@@ -44,7 +44,7 @@ author:
   </div>
 
   <div class="col-sm-3 col-xs-6"><button id="btn-pause" class="btn btn-default" onclick="togglePause()">Pause</button></div>
-  <div class="col-sm-3 col-xs-6"><button id="btn-restart" class="btn btn-default" onclick="onClickRestart()">Restart</button></div>
+  <div class="col-sm-3 col-xs-6"><button id="btn-restart" class="btn btn-default" onclick="onClickRestart()" disabled>Restart</button></div>
 
   <!-- TODO: dropdown to seed with specific starting sets -->
   <!-- TODO:  -->
@@ -76,10 +76,10 @@ author:
 
 #### Click Canvas to Step Through When Paused
 
+- TODO: set up alternating render targets (so texture actually renders)
 - TODO: finish themes
 - TODO: fix restart button
 - TODO: implement starting data sets
-- TODO: fix texel (u,v) mapping for fragCube
 
 # Fragment Shader: shaderConway1
 
@@ -94,7 +94,7 @@ author:
 </p>
 
 <script type="x-shader/x-fragment" id="shaderConway1">
-  uniform vec4 colorMap[16];
+  uniform sampler2D texConway;
 
   void main() {
 
@@ -178,24 +178,22 @@ there are different texel `uv` coordinates.
 <p>
   <figure class="highlight">
     <pre>
-      <code id="codeFragCube" class="language-c" data-lang="c">
+      <code id="codeShaderConwayColor" class="language-c" data-lang="c">
 
       </code>
     </pre>
   </figure>
 </p>
 
-<script type="x-shader/x-fragment" id="fragCube">
-  uniform sampler2D texture;
+<script type="x-shader/x-fragment" id="shaderConwayColor">
+  uniform sampler2D texConwayColor;
   uniform vec4 colorMap[16];
 
   void main() {
+    int colorId = int(texture2D(texConwayColor, fract(gl_FragCoord.xy / resolution.xy)).x);
 
-    //TODO: WHY ISN'T THE GL_FRAGCOORD ISN'T ASSOCIATED WITH THE FRAGMENT?
-    int colorId = int(texture2D(texture, fract(gl_FragCoord.xy / resolution.xy / 4.0)).x);
-
-    //int colorId = int(texture2D(texture, gl_FragCoord.xy / resolution.xy).x);
-    //int colorId = int(texture2D(texture, gl_FragCoord.xy).x);
+    //int colorId = int(texture2D(texConwayColor, gl_FragCoord.xy / resolution.xy).x);
+    //int colorId = int(texture2D(texConwayColor, gl_FragCoord.xy).x);
 
     // NOTE: fails because cannot access array without CONSTANT value
     // gl_FragColor = colorMap[colorId];
@@ -211,14 +209,15 @@ there are different texel `uv` coordinates.
     //gl_FragColor = vec4(gl_PointCoord.xy / resolution.xy, 0.0, 1.0);
     //gl_FragColor = vec4(gl_FragCoord.xy / resolution.xy, 0.0, 1.0);
     //gl_FragColor = vec4(fract(gl_PointCoord.xy * resolution.xy), 0.0, 1.0);
-    //gl_FragColor = texture2D(texture, fract(gl_FragCoord.xy / resolution.xy));
+    //gl_FragColor = texture2D(texConwayColor, fract(gl_FragCoord.xy / resolution.xy));
 
-    //gl_FragColor = texture2D(texture, gl_FragCoord.xy / resolution.xy);
-    //vec4 texel = texture2D(texture, gl_FragCoord.xy / resolution.xy);
+    //gl_FragColor = texture2D(texConwayColor, gl_FragCoord.xy / resolution.xy);
+    //vec4 texel = texture2D(texConwayColor, gl_FragCoord.xy / resolution.xy);
     //gl_FragColor = colorMap[1];
     //gl_FragColor = vec4(texel.x / 16.0, 0.5, 0.0, 1.0);
 
   }</script>
+
 
 <script src="/js/three/GPUComputeRenderer.js" type="text/javascript"></script>
 <script src="/js/3d/2017-01-05-conways-game-of-parallel-life.js" type="text/javascript"></script>
@@ -235,7 +234,7 @@ there are different texel `uv` coordinates.
 
   pasteShaderToCodeBlock('shaderConway1', 'codeShaderConway1');
   pasteShaderToCodeBlock('vertCube', 'codeVertCube');
-  pasteShaderToCodeBlock('fragCube', 'codeFragCube');
+  pasteShaderToCodeBlock('shaderConwayColor', 'codeShaderConwayColor');
 </script>
 
 - [Garden of Eden](https://en.wikipedia.org/wiki/Garden_of_Eden_(cellular_automaton))

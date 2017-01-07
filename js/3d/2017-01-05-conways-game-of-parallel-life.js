@@ -1,9 +1,11 @@
 var container;
 var cam, origCamZ;
-var scene, renderer, paused = false, stepThrough = false;
+var gpuCompute, scene, renderer, paused = false, stepThrough = false;
 var cube, cubeSize, cubeGeo, cubeTexture, cubeMaterial;
 var cubeRotationAxis = new THREE.Vector3(0.3,0.4,0.5), cubeRotationRate = Math.PI / 5;
-var texGame, gpuCompute, gameVariable, gameUniforms, uiColorUniforms = new Array(16), gameColorUniforms = new Array(16);
+var texGame, texColor;
+var gameTarget, gameMaterial, gameColorTarget, gameColorMaterial;
+var uiColorUniforms = new Array(16), gameColorUniforms = new Array(16);
 var startTime = new Date().getTime(), currentTime = startTime, elapsedTime = startTime - currentTime;
 
 var WIDTH = 64, HEIGHT = 64;
@@ -71,23 +73,23 @@ function createCube() {
   var cubeSize = 500;
   cubeGeo = new THREE.BoxBufferGeometry(cubeSize, cubeSize, cubeSize, 10, 10, 10);
 
-  //cubeMaterial = new THREE.MeshBasicMaterial({
-  //  map: texGame,
-  //  overdraw: true,
-  //  transparent: true
-  //});
-
-  cubeMaterial = new THREE.ShaderMaterial({
-    defines: {
-      resolution: 'vec2(' + gameSize.x.toFixed(1) + ', ' + gameSize.y.toFixed(1) + ')'
-    },
-    uniforms: {
-      texture: { value: texGame },
-      colorMap: { value: gameColorUniforms }
-    },
-    vertexShader: document.getElementById('vertCube').textContent,
-    fragmentShader: document.getElementById('fragCube').textContent
+  cubeMaterial = new THREE.MeshBasicMaterial({
+    map: gameColorTarget.texture
   });
+
+  //cubeMaterial.uniforms.map = gameColorTarget.texture;
+
+  //cubeMaterial = new THREE.ShaderMaterial({
+  //  defines: {
+  //    resolution: 'vec2(' + gameSize.x.toFixed(1) + ', ' + gameSize.y.toFixed(1) + ')'
+  //  },
+  //  uniforms: {
+  //    texture: { value: texGame },
+  //    colorMap: { value: gameColorUniforms }
+  //  },
+  //  vertexShader: document.getElementById('vertCube').textContent,
+  //  fragmentShader: document.getElementById('fragCube').textContent
+  //});
 
   cube = new THREE.Mesh(cubeGeo, cubeMaterial);
   cube.position.set(0,0,1);
@@ -97,14 +99,31 @@ function createCube() {
 function createGPUCompute() {
   gpuCompute = new GPUComputationRenderer(WIDTH, HEIGHT, renderer);
 
-  texGame = gpuCompute.createTexture();
-  texGame.wrapS = THREE.RepeatWrapping;
-  texGame.wrapT = THREE.RepeatWrapping;
+  var shaderConway = document.getElementById('shaderConway1').textContent;
+  var shaderConwayColor = document.getElementById('shaderConwayColor').textContent;
 
+  gameMaterial = gpuCompute.createShaderMaterial(shaderConway, {
+    texConway: { value: null }
+  });
+
+  gameColorMaterial = gpuCompute.createShaderMaterial(shaderConwayColor, {
+    texConwayColor: { value: null },
+    colorMap: { value: gameColorUniforms }
+  });
+
+  texGame = gpuCompute.createTexture();
   fillTextureWithRandomState(texGame);
-  gameVariable = gpuCompute.addVariable("texConway", document.getElementById('shaderConway1').textContent, texGame);
-  gpuCompute.setVariableDependencies(gameVariable, [gameVariable]);
-  gameUniforms = gameVariable.material.uniforms;
+  gameMaterial.uniforms.texConway.value = texGame;
+
+  gameTarget = gpuCompute.createRenderTarget();
+  gameColorMaterial.uniforms.texConwayColor.value = gameTarget.texture;
+
+  gameColorTarget = gpuCompute.createRenderTarget();
+
+  //gameVariable = gpuCompute.addVariable("texConway", document.getElementById('shaderConway1').textContent, texGame);
+  //gameColorVariable = gpuCompute.addVariable("texConwayColor", document.getElementById('shaderConwayColor').textContent, texGame);
+  //gpuCompute.setVariableDependencies(gameVariable, [gameVariable]);
+  //gpuCompute.setVariableDependencies(gameColorVariable, [gameColorVariable]);
 
   var error = gpuCompute.init();
   if ( error !== null ) {
@@ -186,21 +205,27 @@ function update() {
 }
 
 function render() {
-  //cam.position.x += (mouseX - cam.position.x);
-  //cam.position.y += (mouseY - cam.position.y);
-  //var dist = distanceToCenter();
-  //cam.position.z = origCamZ + dist;
+  cam.position.x += (mouseX - cam.position.x);
+  cam.position.y += (mouseY - cam.position.y);
+  var dist = distanceToCenter();
+  cam.position.z = origCamZ + dist;
   cam.lookAt(scene.position);
 
   if (!paused || stepThrough) {
     gameColorUniforms = transformColorUniforms(uiColorUniforms);
-    cubeMaterial.uniforms['colorMap'].value = gameColorUniforms;
-    cubeMaterial.uniforms['texture'].value = gpuCompute.getCurrentRenderTarget(gameVariable).texture;
 
-    gpuCompute.compute();
+    //cubeMaterial.uniforms['colorMap'].value = gameColorUniforms;
+    //cubeMaterial.uniforms['texture'].value = gpuCompute.getCurrentRenderTarget(gameVariable).texture;
+    //cubeMaterial.uniforms.map.value = gpuCompute.getCurrentRenderTarget(gameVariable).texture;
+    //gpuCompute.compute();
+    gpuCompute.doRenderTarget(gameMaterial, gameTarget);
+    gpuCompute.doRenderTarget(gameColorMaterial, gameColorTarget);
+
+    //console.log(gameColorTarget.texture);
+    //cubeMaterial.uniforms.map = gameColorTarget.texture;
     cubeMaterial.needsUpdate = true;
 
-    if (stepThrough) { stepThrough = false }
+    if (stepThrough) { stepThrough = false; }
   }
 
   renderer.render(scene, cam);
