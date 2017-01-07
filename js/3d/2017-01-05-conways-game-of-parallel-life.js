@@ -4,7 +4,9 @@ var gpuCompute, scene, renderer, paused = false, stepThrough = false;
 var cube, cubeSize, cubeGeo, cubeTexture, cubeMaterial;
 var cubeRotationAxis = new THREE.Vector3(0.3,0.4,0.5), cubeRotationRate = Math.PI / 5;
 var texGame, texColor;
-var gameTarget, gameMaterial, gameColorTarget, gameColorMaterial;
+//var gameVariable, gameColorVariable
+
+var gameTargets, gameMaterial, gameColorTargets, gameColorMaterial, gameTargetIndex = 0;
 var uiColorUniforms = new Array(16), gameColorUniforms = new Array(16);
 var startTime = new Date().getTime(), currentTime = startTime, elapsedTime = startTime - currentTime;
 
@@ -74,7 +76,7 @@ function createCube() {
   cubeGeo = new THREE.BoxBufferGeometry(cubeSize, cubeSize, cubeSize, 10, 10, 10);
 
   cubeMaterial = new THREE.MeshBasicMaterial({
-    map: gameColorTarget.texture
+    map: gameColorTargets[0].texture
   });
 
   //cubeMaterial.uniforms.map = gameColorTarget.texture;
@@ -115,10 +117,9 @@ function createGPUCompute() {
   fillTextureWithRandomState(texGame);
   gameMaterial.uniforms.texConway.value = texGame;
 
-  gameTarget = gpuCompute.createRenderTarget();
-  gameColorMaterial.uniforms.texConwayColor.value = gameTarget.texture;
-
-  gameColorTarget = gpuCompute.createRenderTarget();
+  gameTargets = [gpuCompute.createRenderTarget(), gpuCompute.createRenderTarget()];
+  gameColorMaterial.uniforms.texConwayColor.value = gameTargets[0].texture;
+  gameColorTargets = [gpuCompute.createRenderTarget(), gpuCompute.createRenderTarget()];
 
   //gameVariable = gpuCompute.addVariable("texConway", document.getElementById('shaderConway1').textContent, texGame);
   //gameColorVariable = gpuCompute.addVariable("texConwayColor", document.getElementById('shaderConwayColor').textContent, texGame);
@@ -129,6 +130,12 @@ function createGPUCompute() {
   if ( error !== null ) {
     console.error( error );
   }
+}
+
+function swapRenderTargets() {
+  gameMaterial.uniforms.texConway.value = gameTargets[gameTargetIndex].texture;
+  gameColorMaterial.uniforms.texConwayColor.value = gameTargets[gameTargetIndex].texture;
+  gameTargetIndex = (gameTargetIndex == 0 ? 1 : 0);
 }
 
 /*
@@ -213,13 +220,15 @@ function render() {
 
   if (!paused || stepThrough) {
     gameColorUniforms = transformColorUniforms(uiColorUniforms);
+    gameColorMaterial.uniforms.colorMap.value = gameColorUniforms;
 
     //cubeMaterial.uniforms['colorMap'].value = gameColorUniforms;
     //cubeMaterial.uniforms['texture'].value = gpuCompute.getCurrentRenderTarget(gameVariable).texture;
     //cubeMaterial.uniforms.map.value = gpuCompute.getCurrentRenderTarget(gameVariable).texture;
     //gpuCompute.compute();
-    gpuCompute.doRenderTarget(gameMaterial, gameTarget);
-    gpuCompute.doRenderTarget(gameColorMaterial, gameColorTarget);
+    gpuCompute.doRenderTarget(gameMaterial, gameTargets[gameTargetIndex]);
+    gpuCompute.doRenderTarget(gameColorMaterial, gameColorTargets[gameTargetIndex]);
+    swapRenderTargets();
 
     //console.log(gameColorTarget.texture);
     //cubeMaterial.uniforms.map = gameColorTarget.texture;
@@ -265,10 +274,10 @@ var colorProfiles = {
   'solarized': [],
   'cyberpunk': [
     "#000000", // cyberpunk-bg,
-    "FFB1493", // cyberpunk-pink
+    "#FB1493", // cyberpunk-pink
     "#DCA3A3", // cyberpunk-red+1
     "#8B0000", // cyberpunk-red-2,
-    "#9c6363", // cyberpunk-red-3
+    "#9C6363", // cyberpunk-red-3
     "#00FF00", // cyberpunk-green,
     "#FFA500", // cyberpunk-orange,
     "#7B68EE", // cyberpunk-blue-1,
