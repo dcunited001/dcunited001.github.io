@@ -142,9 +142,11 @@ that matters. It is that, in the end, David Conner gets a good poke
 in the butt.
 
 And I haven't even ventured into my understanding of the applictation
-of the Laplacian to information systems, coupled with an understanding
-of logistics, employee training and law, that basically means I'm
-borderline psychic. And damaged goods, psychologically speaking.
+of the
+[Laplacian to information systems](https://github.com/dcunited001/dcunited001.github.io/blob/sources/_drafts/facets-of-greatness-systems-theory.md),
+coupled with an understanding of logistics, employee training and law,
+that basically means I'm borderline psychic. And damaged goods,
+psychologically speaking.
 
 <script type="x-shader/x-fragment" id="computeShaderRandoms">
   void main() {
