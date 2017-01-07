@@ -44,7 +44,7 @@ author:
   </div>
 
   <div class="col-sm-3 col-xs-6"><button id="btn-pause" class="btn btn-default" onclick="togglePause()">Pause</button></div>
-  <div class="col-sm-3 col-xs-6"><button id="btn-restart" class="btn btn-default" onclick="onClickRestart()" disabled>Restart</button></div>
+  <div class="col-sm-3 col-xs-6"><button id="btn-restart" class="btn btn-default" onclick="onClickRestart()">Restart</button></div>
 
   <!-- TODO: dropdown to seed with specific starting sets -->
   <!-- TODO:  -->
@@ -166,6 +166,10 @@ author:
   void main() {
     int colorId = int(texture2D(game, gl_FragCoord.xy / resolution.xy).x);
 
+    // NOTE: fails because cannot access array without CONSTANT value
+    // gl_FragColor = colorMap[colorId];
+
+    // therefore, this approach is required
     gl_FragColor = colorMap[0];
     for (int i=0; i<16; i++) {
       // conditional statements like this are less than ideal...
