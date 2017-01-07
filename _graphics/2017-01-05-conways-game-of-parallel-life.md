@@ -78,6 +78,8 @@ author:
 
 - TODO: set up alternating render targets (so texture actually renders)
 - TODO: finish themes
+- TODO: add randomized theme
+- TODO: add timed theme swapping behavior
 - TODO: fix restart button
 - TODO: implement starting data sets
 
@@ -190,13 +192,7 @@ there are different texel `uv` coordinates.
   uniform vec4 colorMap[16];
 
   void main() {
-    int colorId = int(texture2D(texConwayColor, fract(gl_FragCoord.xy / resolution.xy)).x);
-
-    //int colorId = int(texture2D(texConwayColor, gl_FragCoord.xy / resolution.xy).x);
-    //int colorId = int(texture2D(texConwayColor, gl_FragCoord.xy).x);
-
-    // NOTE: fails because cannot access array without CONSTANT value
-    // gl_FragColor = colorMap[colorId];
+    int colorId = int(texture2D(texConwayColor, gl_FragCoord.xy / resolution.xy).x);
 
     gl_FragColor = colorMap[0];
     for (int i=0; i<16; i++) {
@@ -205,17 +201,6 @@ there are different texel `uv` coordinates.
         gl_FragColor = colorMap[i];
       }
     }
-
-    //gl_FragColor = vec4(gl_PointCoord.xy / resolution.xy, 0.0, 1.0);
-    //gl_FragColor = vec4(gl_FragCoord.xy / resolution.xy, 0.0, 1.0);
-    //gl_FragColor = vec4(fract(gl_PointCoord.xy * resolution.xy), 0.0, 1.0);
-    //gl_FragColor = texture2D(texConwayColor, fract(gl_FragCoord.xy / resolution.xy));
-
-    //gl_FragColor = texture2D(texConwayColor, gl_FragCoord.xy / resolution.xy);
-    //vec4 texel = texture2D(texConwayColor, gl_FragCoord.xy / resolution.xy);
-    //gl_FragColor = colorMap[1];
-    //gl_FragColor = vec4(texel.x / 16.0, 0.5, 0.0, 1.0);
-
   }</script>
 
 
