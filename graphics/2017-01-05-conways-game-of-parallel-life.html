@@ -325,23 +325,23 @@ IVVMM::::.:.:. . ... .::II:.::..:.. .. .. . . .:.:::IHH:.:HHIIHIHH':-'
         <li><a onclick="onClickColorProfile(this.attributes['data-profile-name'].value)" data-profile-name="game">Game</a></li>
         <li><a onclick="onClickColorProfile(this.attributes['data-profile-name'].value)" data-profile-name="dos">DOS</a></li>
         <li><a onclick="onClickColorProfile(this.attributes['data-profile-name'].value)" data-profile-name="apple">Apple</a></li>
-        <li><a onclick="onClickColorProfile(this.attributes['data-profile-name'].value)" data-profile-name="zenburn">Zenburn</a></li>
-        <li><a onclick="onClickColorProfile(this.attributes['data-profile-name'].value)" data-profile-name="sanity-inc">Sanity Inc</a></li>
-        <li><a onclick="onClickColorProfile(this.attributes['data-profile-name'].value)" data-profile-name="monokai">Monokai</a></li>
-        <li><a onclick="onClickColorProfile(this.attributes['data-profile-name'].value)" data-profile-name="moe">Moe</a></li>
-        <li><a onclick="onClickColorProfile(this.attributes['data-profile-name'].value)" data-profile-name="solarized">Solarized</a></li>
+        <!--<li><a onclick="onClickColorProfile(this.attributes['data-profile-name'].value)" data-profile-name="zenburn">Zenburn</a></li>-->
+        <!--<li><a onclick="onClickColorProfile(this.attributes['data-profile-name'].value)" data-profile-name="sanity-inc">Sanity Inc</a></li>-->
+        <!--<li><a onclick="onClickColorProfile(this.attributes['data-profile-name'].value)" data-profile-name="monokai">Monokai</a></li>-->
+        <!--<li><a onclick="onClickColorProfile(this.attributes['data-profile-name'].value)" data-profile-name="moe">Moe</a></li>-->
+        <!--<li><a onclick="onClickColorProfile(this.attributes['data-profile-name'].value)" data-profile-name="solarized">Solarized</a></li>-->
         <li><a onclick="onClickColorProfile(this.attributes['data-profile-name'].value)" data-profile-name="cyberpunk">Cyberpunk</a></li>
-        <li><a onclick="onClickColorProfile(this.attributes['data-profile-name'].value)" data-profile-name="sublime-text">Cyberpunk</a></li>
-        <li><a onclick="onClickColorProfile(this.attributes['data-profile-name'].value)" data-profile-name="vibrant-ink">Cyberpunk</a></li>
+        <!--<li><a onclick="onClickColorProfile(this.attributes['data-profile-name'].value)" data-profile-name="sublime-text">Sublime Text</a></li>-->
+        <!--<li><a onclick="onClickColorProfile(this.attributes['data-profile-name'].value)" data-profile-name="vibrant-ink">Vibrant Ink</a></li>-->
         <li><a onclick="onClickColorProfile(this.attributes['data-profile-name'].value)" data-profile-name="random">Random</a></li>
-        <li><a onclick="onClickColorProfile(this.attributes['data-profile-name'].value)" data-profile-name="wink">;)</a></li>
+        <!--<li><a onclick="onClickColorProfile(this.attributes['data-profile-name'].value)" data-profile-name="wink">;)</a></li>-->
       </ul>
     </div>
   </div>
 
   <div class="col-sm-3 col-xs-6">
     <div class="btn-group">
-      <button type="button" class="btn btn-default dropdown-toggle" data-toggle="dropdown">Initial Data<span class="caret"></span></button>
+      <button type="button" class="btn btn-default dropdown-toggle" data-toggle="dropdown" disabled="">Initial Data<span class="caret"></span></button>
       <ul class="dropdown-menu">
         <li><a href="#">Random</a></li>
         <li><a href="#">X</a></li>
@@ -353,7 +353,7 @@ IVVMM::::.:.:. . ... .::II:.::..:.. .. .. . . .:.:::IHH:.:HHIIHIHH':-'
   </div>
 
   <div class="col-sm-3 col-xs-6"><button id="btn-pause" class="btn btn-default" onclick="togglePause()">Pause</button></div>
-  <div class="col-sm-3 col-xs-6"><button id="btn-restart" class="btn btn-default" onclick="onClickRestart()">Restart</button></div>
+  <div class="col-sm-3 col-xs-6"><button id="btn-restart" class="btn btn-default" onclick="onClickRestart()" disabled="">Restart</button></div>
 
   <!-- TODO: dropdown to seed with specific starting sets -->
   <!-- TODO:  -->
@@ -501,7 +501,40 @@ there are different texel <code>uv</code> coordinates.</p>
 
   void main() {
 
-    //TODO: WHY ISN'T THE GL_FRAGCOORD ISN'T ASSOCIATED WITH THE FRAGMENT?
+    //TODO: WHY ISN'T THE GL_FRAGCOORD NOT ASSOCIATED WITH THE FRAGMENT?
+    int colorId = int(texture2D(texture, fract(gl_FragCoord.xy / resolution.xy / 4.0)).x);
+
+    //int colorId = int(texture2D(texture, gl_FragCoord.xy / resolution.xy).x);
+    //int colorId = int(texture2D(texture, gl_FragCoord.xy).x);
+
+    // NOTE: fails because cannot access array without CONSTANT value
+    // gl_FragColor = colorMap[colorId];
+
+    gl_FragColor = colorMap[0];
+    for (int i=0; i<16; i++) {
+      // conditional statements like this are less than ideal...
+      if (colorId == i) {
+        gl_FragColor = colorMap[i];
+      }
+    }
+
+    //gl_FragColor = vec4(gl_PointCoord.xy / resolution.xy, 0.0, 1.0);
+    //gl_FragColor = vec4(gl_FragCoord.xy / resolution.xy, 0.0, 1.0);
+    //gl_FragColor = vec4(fract(gl_PointCoord.xy * resolution.xy), 0.0, 1.0);
+    //gl_FragColor = texture2D(texture, fract(gl_FragCoord.xy / resolution.xy));
+
+    //gl_FragColor = texture2D(texture, gl_FragCoord.xy / resolution.xy);
+    //vec4 texel = texture2D(texture, gl_FragCoord.xy / resolution.xy);
+    //gl_FragColor = colorMap[1];
+    //gl_FragColor = vec4(texel.x / 16.0, 0.5, 0.0, 1.0);
+
+  }</script>
+
+<script type="x-shader/x-fragment" id="shaderConwayColor">
+  uniform sampler2D texConwayColor;
+  uniform vec4 colorMap[16];
+
+  void main() {
     int colorId = int(texture2D(texture, fract(gl_FragCoord.xy / resolution.xy / 4.0)).x);
 
     //int colorId = int(texture2D(texture, gl_FragCoord.xy / resolution.xy).x);
@@ -549,6 +582,10 @@ there are different texel <code>uv</code> coordinates.</p>
   pasteShaderToCodeBlock('fragCube', 'codeFragCube');
 </script>
 
+<ul>
+  <li><a href="https://en.wikipedia.org/wiki/Garden_of_Eden_(cellular_automaton)">Garden of Eden</a></li>
+  <li><a href="http://gameoflife.samuellevy.com/">3D Game of Life</a></li>
+</ul>
 
         </div>
       </div>
