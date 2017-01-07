@@ -16,6 +16,8 @@ author:
 
 ### Parallelized Random Number Generation in the Browser
 
+#### Yes, the Prison of Zod Effect is Intentional...
+
 This is a basic parallelized random number generator written with
 WebGL and ThreeJS. It is, however, a terrible random number generator,
 although it could be improved. I've used ThreeJS, a javascript
