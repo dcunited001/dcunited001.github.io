@@ -1,6 +1,6 @@
 var container;
 var cam, origCamZ;
-var scene, renderer, paused = false;
+var scene, renderer, paused = false, stepThrough = false;
 var cube, cubeSize, cubeGeo, cubeTexture, cubeMaterial;
 var cubeRotationAxis = new THREE.Vector3(0.3,0.4,0.5), cubeRotationRate = Math.PI / 5;
 var texGame, gpuCompute, gameVariable, gameUniforms, uiColorUniforms = new Array(16), gameColorUniforms = new Array(16);
@@ -85,8 +85,6 @@ function createCube() {
       texture: { value: texGame },
       colorMap: { value: gameColorUniforms }
     },
-    overdraw: true,
-    //minFilter:
     vertexShader: document.getElementById('vertCube').textContent,
     fragmentShader: document.getElementById('fragCube').textContent
   });
@@ -137,6 +135,7 @@ function createRenderer() {
 function configureCanvas() {
   var canvas = document.getElementById('main-canvas');
   container.replaceChild(renderer.domElement, canvas);
+  container.addEventListener('click', gameStepThrough, false);
   document.addEventListener('mousemove', onDocMouseMove, false);
   window.addEventListener('resize', onWindowResize, false);
 }
@@ -166,6 +165,10 @@ function togglePause() {
   document.getElementById('btn-pause').textContent = (paused ? "Play" : "Pause");
 }
 
+function gameStepThrough() {
+  stepThrough = true;
+}
+
 function animate() {
   requestAnimationFrame(animate);
   update();
@@ -189,13 +192,15 @@ function render() {
   //cam.position.z = origCamZ + dist;
   cam.lookAt(scene.position);
 
-  if (!paused) {
+  if (!paused || stepThrough) {
     gameColorUniforms = transformColorUniforms(uiColorUniforms);
     cubeMaterial.uniforms['colorMap'].value = gameColorUniforms;
     cubeMaterial.uniforms['texture'].value = gpuCompute.getCurrentRenderTarget(gameVariable).texture;
-    //cubeMaterial.map = gpuCompute.getCurrentRenderTarget(gameVariable).texture;
+
     gpuCompute.compute();
     cubeMaterial.needsUpdate = true;
+
+    if (stepThrough) { stepThrough = false }
   }
 
   renderer.render(scene, cam);
@@ -207,3 +212,60 @@ createGPUCompute();
 createCube();
 configureCanvas();
 animate();
+
+function onClickColorProfile(profileName) {
+  applyColorProfile(profileName);
+}
+
+function applyColorProfile(profileName) {
+  // TODO: set up random profiles
+  // TODO: set up 'wink' profile to swap between random profiles
+
+  var colorProfile = colorProfiles[profileName];
+  for (var i=0; i<16; i++) {
+    var color = colorProfile[i] || colorProfile[0] || "#FFFFFF";
+    document.getElementById('conway-color-' + (i+1)).jscolor.fromString(color);
+    uiColorUniforms[i] = color;
+  }
+}
+
+var colorProfiles = {
+  'game': ['#000000', '#44891A', '#A3CE27', '#2F484E', '#005784', '#31A2F2', '#B2DCEF', '#E06F8B', '#BE2633', '#EB8931', '#F7E26B', '#A46422', '#493C2B', '#1B2632', '#9D9D9D', '#FFFFFF'],
+  'dos': ["#000000", "#800000", "#008000", "#808000", "#000080", "#800080", "#008080", "#C0C0C0", "#808080", "#FF0000", "#00FF00", "#FFFF00", "#0000FF", "#FF00FF", "#00FFFF", "#FFFFFF"],
+  'apple': ["#FFFFFF", "#FBF305", "#FF6403", "#DD0907", "#F20884", "#4700A5", "#0000D3", "#02ABEA", "#1FB714", "#562C05", "#006412", "#90713A", "#C0C0C0", "#808080", "#404040", "#000000"],
+  'zenburn': [],
+  'sanity-inc': [],
+  'monokai': [],
+  'moe': [],
+  'solarized': [],
+  'cyberpunk': [
+    "#000000", // cyberpunk-bg,
+    "FFB1493", // cyberpunk-pink
+    "#DCA3A3", // cyberpunk-red+1
+    "#8B0000", // cyberpunk-red-2,
+    "#9c6363", // cyberpunk-red-3
+    "#00FF00", // cyberpunk-green,
+    "#FFA500", // cyberpunk-orange,
+    "#7B68EE", // cyberpunk-blue-1,
+    "#6A5ACD", // cyberpunk-blue-2,
+    "#ADD8E6", // cyberpunk-blue-3,
+    "#DC8CC3", // cyberpunk-magenta,
+    "#94BFF3", // cyberpunk-cyan,
+    "#DCDCCC"],// cyberpunk-fg,
+  'sublime-text': [],
+  'vibrant-ink': []
+};
+
+
+// (custom-theme-set-variables)
+// https://github.com/bbatsov/zenburn-emacs/blob/master/zenburn-theme.el
+// [,zenburn-bg ,zenburn-red ,zenburn-green ,zenburn-yellow,zenburn-blue ,zenburn-magenta ,zenburn-cyan ,zenburn-fg]
+
+
+
+
+
+
+
+
+

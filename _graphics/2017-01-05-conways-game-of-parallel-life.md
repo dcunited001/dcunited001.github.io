@@ -9,8 +9,43 @@ author:
 ---
 
 <div class="row">
-  <div class="col-sm-3 col-xs-6"><button id="btn-restart" class="btn btn-default" onclick="onClickRestart()">Restart</button></div>
+  <div class="col-sm-3 col-xs-6">
+    <div class="btn-group">
+      <button type="button" class="btn btn-default dropdown-toggle" data-toggle="dropdown">Colors<span class="caret"></span></button>
+      <ul class="dropdown-menu">
+        <li><a onclick="onClickColorProfile(this.attributes['data-profile-name'].value)" data-profile-name="game">Game</a></li>
+        <li><a onclick="onClickColorProfile(this.attributes['data-profile-name'].value)" data-profile-name="dos">DOS</a></li>
+        <li><a onclick="onClickColorProfile(this.attributes['data-profile-name'].value)" data-profile-name="apple">Apple</a></li>
+        <!--<li><a onclick="onClickColorProfile(this.attributes['data-profile-name'].value)" data-profile-name="zenburn">Zenburn</a></li>-->
+        <!--<li><a onclick="onClickColorProfile(this.attributes['data-profile-name'].value)" data-profile-name="sanity-inc">Sanity Inc</a></li>-->
+        <!--<li><a onclick="onClickColorProfile(this.attributes['data-profile-name'].value)" data-profile-name="monokai">Monokai</a></li>-->
+        <!--<li><a onclick="onClickColorProfile(this.attributes['data-profile-name'].value)" data-profile-name="moe">Moe</a></li>-->
+        <!--<li><a onclick="onClickColorProfile(this.attributes['data-profile-name'].value)" data-profile-name="solarized">Solarized</a></li>-->
+        <li><a onclick="onClickColorProfile(this.attributes['data-profile-name'].value)" data-profile-name="cyberpunk">Cyberpunk</a></li>
+        <!--<li><a onclick="onClickColorProfile(this.attributes['data-profile-name'].value)" data-profile-name="sublime-text">Sublime Text</a></li>-->
+        <!--<li><a onclick="onClickColorProfile(this.attributes['data-profile-name'].value)" data-profile-name="vibrant-ink">Vibrant Ink</a></li>-->
+        <li><a onclick="onClickColorProfile(this.attributes['data-profile-name'].value)" data-profile-name="random">Random</a></li>
+        <!--<li><a onclick="onClickColorProfile(this.attributes['data-profile-name'].value)" data-profile-name="wink">;)</a></li>-->
+      </ul>
+    </div>
+  </div>
+
+  <div class="col-sm-3 col-xs-6">
+    <div class="btn-group">
+      <button type="button" class="btn btn-default dropdown-toggle" data-toggle="dropdown">Initial Data<span class="caret"></span></button>
+      <ul class="dropdown-menu">
+        <li><a href="#">Random</a></li>
+        <li><a href="#">X</a></li>
+        <li><a href="#">Y</a></li>
+        <li role="separator" class="divider"></li>
+        <li><a href="#">Z</a></li>
+      </ul>
+    </div>
+  </div>
+
   <div class="col-sm-3 col-xs-6"><button id="btn-pause" class="btn btn-default" onclick="togglePause()">Pause</button></div>
+  <div class="col-sm-3 col-xs-6"><button id="btn-restart" class="btn btn-default" onclick="onClickRestart()">Restart</button></div>
+
   <!-- TODO: dropdown to seed with specific starting sets -->
   <!-- TODO:  -->
 </div>
@@ -38,6 +73,13 @@ author:
   <div class="col-sm-3 col-xs-6"><input id="conway-color-15" class="jscolor" value="#9D9D9D" data-color-id="14" onchange="changeColorUniforms(this.attributes['data-color-id'].value, this.value);" /></div>
   <div class="col-sm-3 col-xs-6"><input id="conway-color-16" class="jscolor" value="#FFFFFF" data-color-id="15" onchange="changeColorUniforms(this.attributes['data-color-id'].value, this.value);" /></div>
 </div>
+
+#### Click Canvas to Step Through When Paused
+
+- TODO: finish themes
+- TODO: fix restart button
+- TODO: implement starting data sets
+- TODO: fix texel (u,v) mapping for fragCube
 
 # Fragment Shader: shaderConway1
 
@@ -195,3 +237,6 @@ there are different texel `uv` coordinates.
   pasteShaderToCodeBlock('vertCube', 'codeVertCube');
   pasteShaderToCodeBlock('fragCube', 'codeFragCube');
 </script>
+
+- [Garden of Eden](https://en.wikipedia.org/wiki/Garden_of_Eden_(cellular_automaton))
+- [3D Game of Life](http://gameoflife.samuellevy.com/)
