@@ -76,12 +76,14 @@ author:
 
 #### Click Canvas to Step Through When Paused
 
-- TODO: set up alternating render targets (so texture actually renders)
+- TODO: implement starting data sets
+- TODO: implement restart button
 - TODO: finish themes
 - TODO: add randomized theme
 - TODO: add timed theme swapping behavior
-- TODO: fix restart button
-- TODO: implement starting data sets
+- TODO: add uniforms to swap out shaders for rule sets
+- TODO: add UI sliders to change rule sets
+- TODO: Game of Life in 3D Tesselated Hexacgonal Cube Lattice ...
 
 # Fragment Shader: shaderConway1
 
@@ -96,8 +98,6 @@ author:
 </p>
 
 <script type="x-shader/x-fragment" id="shaderConway1">
-  uniform sampler2D texConway;
-
   void main() {
 
     int populatedSolitude = 1;
@@ -105,7 +105,7 @@ author:
     int unpopulatedCreate = 3;
 
     vec2 uv = (gl_FragCoord.xy / resolution.xy);
-    vec4 texel = texture2D(texConway, uv);
+    vec4 texel = texture2D(game, uv);
 
     vec2 texelCoords[8];
     texelCoords[0] = mod(gl_FragCoord.xy + vec2( 0.0, -1.0), resolution.xy) / resolution.xy;
@@ -120,7 +120,7 @@ author:
     vec4 texels[8];
     int neighborCount = 0;
     for (int i=0; i<8; i++) {
-      texels[i] = texture2D(texConway, texelCoords[i]);
+      texels[i] = texture2D(game, texelCoords[i]);
 
       // not sure how to avoid conditional/ternary here
       // - but the GPU always has to execute both paths and cannot do so simultaneously
@@ -148,34 +148,7 @@ author:
 
   }</script>
 
-
-# Vertex Shader: vertCube
-
-Just a passthrough shader for vertex positions.
-
-<p>
-  <figure class="highlight">
-    <pre>
-      <code id="codeVertCube" class="language-c" data-lang="c">
-
-      </code>
-    </pre>
-  </figure>
-</p>
-
-<script type="x-shader/x-vertex" id="vertCube">
-  void main() {
-    vec4 mvPosition = modelViewMatrix * vec4(position, 1.0);
-    gl_Position = projectionMatrix * mvPosition;
-    //gl_Position = vec4( position, 1.0 );
-  }
-</script>
-
 # Fragment Shader: fragCube
-
-Having some problems getting `ShaderMaterial` to work with a
-`GPUComputeRenderer` at the moment. Doesn't seem to acknowledge that
-there are different texel `uv` coordinates.
 
 <p>
   <figure class="highlight">
@@ -188,11 +161,10 @@ there are different texel `uv` coordinates.
 </p>
 
 <script type="x-shader/x-fragment" id="shaderConwayColor">
-  uniform sampler2D texConwayColor;
   uniform vec4 colorMap[16];
 
   void main() {
-    int colorId = int(texture2D(texConwayColor, gl_FragCoord.xy / resolution.xy).x);
+    int colorId = int(texture2D(game, gl_FragCoord.xy / resolution.xy).x);
 
     gl_FragColor = colorMap[0];
     for (int i=0; i<16; i++) {
@@ -218,9 +190,14 @@ there are different texel `uv` coordinates.
   }
 
   pasteShaderToCodeBlock('shaderConway1', 'codeShaderConway1');
-  pasteShaderToCodeBlock('vertCube', 'codeVertCube');
   pasteShaderToCodeBlock('shaderConwayColor', 'codeShaderConwayColor');
 </script>
 
 - [Garden of Eden](https://en.wikipedia.org/wiki/Garden_of_Eden_(cellular_automaton))
 - [3D Game of Life](http://gameoflife.samuellevy.com/)
+
+Interestingly, OSX notifies the browser to become active and process
+events when the miniturized preview is displayed during OS UI transitions.
+When you do the 'four-finger touch' to choose desktops, all browsers
+receive notifications to become active again, but otherwise remain
+paused. It's as if all desktops are visible.

@@ -3,20 +3,18 @@ var cam, origCamZ;
 var gpuCompute, scene, renderer, paused = false, stepThrough = false;
 var cube, cubeSize, cubeGeo, cubeTexture, cubeMaterial;
 var cubeRotationAxis = new THREE.Vector3(0.3,0.4,0.5), cubeRotationRate = Math.PI / 5;
-var texGame, texColor;
-//var gameVariable, gameColorVariable
+var texGame, texGameColor;
+var gameVariable, gameColorVariable;
 
-var gameTargets, gameMaterial, gameColorTargets, gameColorMaterial, gameTargetIndex = 0;
 var uiColorUniforms = new Array(16), gameColorUniforms = new Array(16);
 var startTime = new Date().getTime(), currentTime = startTime, elapsedTime = startTime - currentTime;
 
-var WIDTH = 64, HEIGHT = 64;
+var WIDTH = 128, HEIGHT = 128;
 var gameSize = new THREE.Vector2(WIDTH, HEIGHT);
 var mouseX = 0, mouseY = 0;
 var windowHalfX = window.innerWidth / 2;
 var windowHalfY = window.innerHeight / 2;
 
-// TODO: uniforms for color palette
 // TODO: uniforms for rules
 // TODO: colors for "age"
 // TODO: rules for age?
@@ -76,22 +74,8 @@ function createCube() {
   cubeGeo = new THREE.BoxBufferGeometry(cubeSize, cubeSize, cubeSize, 10, 10, 10);
 
   cubeMaterial = new THREE.MeshBasicMaterial({
-    map: gameColorTargets[0].texture
+    map: texGameColor
   });
-
-  //cubeMaterial.uniforms.map = gameColorTarget.texture;
-
-  //cubeMaterial = new THREE.ShaderMaterial({
-  //  defines: {
-  //    resolution: 'vec2(' + gameSize.x.toFixed(1) + ', ' + gameSize.y.toFixed(1) + ')'
-  //  },
-  //  uniforms: {
-  //    texture: { value: texGame },
-  //    colorMap: { value: gameColorUniforms }
-  //  },
-  //  vertexShader: document.getElementById('vertCube').textContent,
-  //  fragmentShader: document.getElementById('fragCube').textContent
-  //});
 
   cube = new THREE.Mesh(cubeGeo, cubeMaterial);
   cube.position.set(0,0,1);
@@ -101,41 +85,26 @@ function createCube() {
 function createGPUCompute() {
   gpuCompute = new GPUComputationRenderer(WIDTH, HEIGHT, renderer);
 
+  texGame = gpuCompute.createTexture();
+  fillTextureWithRandomState(texGame);
+
+  texGameColor = gpuCompute.createTexture();
+
   var shaderConway = document.getElementById('shaderConway1').textContent;
   var shaderConwayColor = document.getElementById('shaderConwayColor').textContent;
 
-  gameMaterial = gpuCompute.createShaderMaterial(shaderConway, {
-    texConway: { value: null }
-  });
+  gameVariable = gpuCompute.addVariable("game", shaderConway, texGame);
+  gameColorVariable = gpuCompute.addVariable("gameColor", shaderConwayColor, texGameColor);
 
-  gameColorMaterial = gpuCompute.createShaderMaterial(shaderConwayColor, {
-    texConwayColor: { value: null },
-    colorMap: { value: gameColorUniforms }
-  });
+  gpuCompute.setVariableDependencies(gameVariable, [gameVariable]);
+  gpuCompute.setVariableDependencies(gameColorVariable, [gameVariable, gameColorVariable]);
 
-  texGame = gpuCompute.createTexture();
-  fillTextureWithRandomState(texGame);
-  gameMaterial.uniforms.texConway.value = texGame;
-
-  gameTargets = [gpuCompute.createRenderTarget(), gpuCompute.createRenderTarget()];
-  gameColorMaterial.uniforms.texConwayColor.value = gameTargets[0].texture;
-  gameColorTargets = [gpuCompute.createRenderTarget(), gpuCompute.createRenderTarget()];
-
-  //gameVariable = gpuCompute.addVariable("texConway", document.getElementById('shaderConway1').textContent, texGame);
-  //gameColorVariable = gpuCompute.addVariable("texConwayColor", document.getElementById('shaderConwayColor').textContent, texGame);
-  //gpuCompute.setVariableDependencies(gameVariable, [gameVariable]);
-  //gpuCompute.setVariableDependencies(gameColorVariable, [gameColorVariable]);
+  gameColorVariable.material.uniforms.colorMap = { value: gameColorUniforms };
 
   var error = gpuCompute.init();
   if ( error !== null ) {
     console.error( error );
   }
-}
-
-function swapRenderTargets() {
-  gameMaterial.uniforms.texConway.value = gameTargets[gameTargetIndex].texture;
-  gameColorMaterial.uniforms.texConwayColor.value = gameTargets[gameTargetIndex].texture;
-  gameTargetIndex = (gameTargetIndex == 0 ? 1 : 0);
 }
 
 /*
@@ -208,7 +177,6 @@ function distanceToCenter() {
 function update() {
   currentTime = new Date().getTime();
   elapsedTime = currentTime - startTime;
-  //cube.quaternion.setFromAxisAngle(cubeRotationAxis, cubeRotationRate * (elapsedTime / 1000.0));
 }
 
 function render() {
@@ -220,18 +188,9 @@ function render() {
 
   if (!paused || stepThrough) {
     gameColorUniforms = transformColorUniforms(uiColorUniforms);
-    gameColorMaterial.uniforms.colorMap.value = gameColorUniforms;
-
-    //cubeMaterial.uniforms['colorMap'].value = gameColorUniforms;
-    //cubeMaterial.uniforms['texture'].value = gpuCompute.getCurrentRenderTarget(gameVariable).texture;
-    //cubeMaterial.uniforms.map.value = gpuCompute.getCurrentRenderTarget(gameVariable).texture;
-    //gpuCompute.compute();
-    gpuCompute.doRenderTarget(gameMaterial, gameTargets[gameTargetIndex]);
-    gpuCompute.doRenderTarget(gameColorMaterial, gameColorTargets[gameTargetIndex]);
-    swapRenderTargets();
-
-    //console.log(gameColorTarget.texture);
-    //cubeMaterial.uniforms.map = gameColorTarget.texture;
+    gameColorVariable.material.uniforms.colorMap.value = gameColorUniforms;
+    cubeMaterial.map = gpuCompute.getCurrentRenderTarget(gameColorVariable).texture;
+    gpuCompute.compute();
     cubeMaterial.needsUpdate = true;
 
     if (stepThrough) { stepThrough = false; }
