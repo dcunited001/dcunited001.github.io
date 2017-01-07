@@ -149,10 +149,12 @@ function onDocMouseMove() {
 }
 
 function onClickRestart() {
-  var newTexture = texGame.clone();
-  fillTextureWithRandomState(newTexture);
-  texGame = newTexture;
-  console.log(texGame.image.data);
+  fillTextureWithRandomState(texGame);
+
+  var error = gpuCompute.init();
+  if ( error !== null ) {
+    console.error( error );
+  }
 }
 
 function togglePause() {
