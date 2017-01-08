@@ -1,7 +1,7 @@
 var container;
 var cam, origCamZ;
 var gpuCompute, scene, renderer, paused = false, stepThrough = false;
-var cube, cubeSize, cubeGeo, cubeTexture, cubeMaterial;
+var cube, cubeSize, cubeGeo, cubeTexture;
 var cubeRotationAxis = new THREE.Vector3(0.3,0.4,0.5), cubeRotationRate = Math.PI / 5;
 var texGame, texGameColor;
 var gameVariable, gameColorVariable;
@@ -70,7 +70,7 @@ function init() {
 }
 
 function createCube() {
-  var cubeSize = 500;
+  cubeSize = 500;
   cubeGeo = new THREE.BoxBufferGeometry(cubeSize, cubeSize, cubeSize, 10, 10, 10);
 
   cubeMaterial = new THREE.MeshBasicMaterial({

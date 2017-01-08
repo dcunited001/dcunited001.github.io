@@ -78,11 +78,13 @@ author:
 
 - TODO: implement starting data sets
 - TODO: implement restart button
+- TODO: fix data randomization
 - TODO: finish themes
 - TODO: add randomized theme
 - TODO: add timed theme swapping behavior
 - TODO: add uniforms to swap out shaders for rule sets
 - TODO: add UI sliders to change rule sets
+- TODO: map screen space to cube face space to allow click & drag to create new cells
 - TODO: Game of Life in 3D Tesselated Hexacgonal Cube Lattice ...
 
 # Fragment Shader: shaderConway1
@@ -127,20 +129,24 @@ author:
       neighborCount += ((texels[i].x > 0.0) ? 1 : 0);
     }
 
-    vec4 newFragColor = vec4(0.0, 0.0, 0.0, 1.0);
+    vec4 newFragColor = vec4(0.0, texel.y, 0.0, 1.0);
     if (texel.x > 0.0) { // if populated
       if (neighborCount > populatedSolitude && neighborCount < populatedOvercrowded) {
         newFragColor.x = texel.x + 1.0; // cell ages
         //newFragColor.x = 1.0;
       } else { // cell dies
-        // TODO: implement "aging" rules
         newFragColor.x = 0.0;
+        newFragColor.y = 0.5;
       }
     } else {
       if (neighborCount == unpopulatedCreate) {
         newFragColor.x = 1.0;
+        newFragColor.y = 0.0;
       } else {
         newFragColor.x = 0.0;
+        if (newFragColor.y > 0.0) {
+          newFragColor.y = texel.y - 0.01;
+        }
       }
     }
 
@@ -164,7 +170,8 @@ author:
   uniform vec4 colorMap[16];
 
   void main() {
-    int colorId = int(texture2D(game, gl_FragCoord.xy / resolution.xy).x);
+    vec4 texel = texture2D(game, gl_FragCoord.xy / resolution.xy);
+    int colorId = int(texel.x);
 
     // NOTE: fails because cannot access array without CONSTANT value
     // gl_FragColor = colorMap[colorId];
@@ -176,6 +183,10 @@ author:
       if (colorId == i) {
         gl_FragColor = colorMap[i];
       }
+    }
+
+    if (texel.y > 0.0) {
+      gl_FragColor = mix(colorMap[0], colorMap[1], texel.y);
     }
   }</script>
 
