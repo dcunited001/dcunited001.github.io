@@ -388,6 +388,7 @@ IVVMM::::.:.:. . ... .::II:.::..:.. .. .. . . .:.:::IHH:.:HHIIHIHH':-'
 <ul>
   <li>TODO: implement starting data sets</li>
   <li>TODO: implement restart button</li>
+  <li>TODO: fix data randomization</li>
   <li>TODO: finish themes</li>
   <li>TODO: add randomized theme</li>
   <li>TODO: add timed theme swapping behavior</li>
@@ -439,20 +440,24 @@ IVVMM::::.:.:. . ... .::II:.::..:.. .. .. . . .:.:::IHH:.:HHIIHIHH':-'
       neighborCount += ((texels[i].x > 0.0) ? 1 : 0);
     }
 
-    vec4 newFragColor = vec4(0.0, 0.0, 0.0, 1.0);
+    vec4 newFragColor = vec4(0.0, texel.y, 0.0, 1.0);
     if (texel.x > 0.0) { // if populated
       if (neighborCount > populatedSolitude && neighborCount < populatedOvercrowded) {
         newFragColor.x = texel.x + 1.0; // cell ages
         //newFragColor.x = 1.0;
       } else { // cell dies
-        // TODO: implement "aging" rules
         newFragColor.x = 0.0;
+        newFragColor.y = 0.5;
       }
     } else {
       if (neighborCount == unpopulatedCreate) {
         newFragColor.x = 1.0;
+        newFragColor.y = 0.0;
       } else {
         newFragColor.x = 0.0;
+        if (newFragColor.y > 0.0) {
+          newFragColor.y = texel.y - 0.01;
+        }
       }
     }
 
@@ -476,7 +481,8 @@ IVVMM::::.:.:. . ... .::II:.::..:.. .. .. . . .:.:::IHH:.:HHIIHIHH':-'
   uniform vec4 colorMap[16];
 
   void main() {
-    int colorId = int(texture2D(game, gl_FragCoord.xy / resolution.xy).x);
+    vec4 texel = texture2D(game, gl_FragCoord.xy / resolution.xy);
+    int colorId = int(texel.x);
 
     // NOTE: fails because cannot access array without CONSTANT value
     // gl_FragColor = colorMap[colorId];
@@ -488,6 +494,10 @@ IVVMM::::.:.:. . ... .::II:.::..:.. .. .. . . .:.:::IHH:.:HHIIHIHH':-'
       if (colorId == i) {
         gl_FragColor = colorMap[i];
       }
+    }
+
+    if (texel.y > 0.0) {
+      gl_FragColor = mix(colorMap[0], colorMap[1], texel.y);
     }
   }</script>
 
