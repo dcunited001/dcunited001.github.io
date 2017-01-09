@@ -498,7 +498,7 @@ teacher, too.
 #### Have You Thought About Using Reddit?! (LMAO)
 
 ![Yeh, I did try Reddit once. What a
-wonderful community for targeted individuals!](/img/writing/reddit-trollz.png)
+wonderful community for targeted individuals!](/img/writing/reddit-trollz.jpg)
 
 This is a real good look for you all and for the current paradigm of
 discourse and censorship that that pervades Facebook and Reddit:
@@ -528,7 +528,7 @@ anyways, regardless of the merit of my work & thought.
 
 #### What 'Smatter? LuLz
 
-![I was encouraged to use social media and reddit specifically by those targeting me.](/img/writing/reddit-critiques.png)
+![I was encouraged to use social media and reddit specifically by those targeting me.](/img/writing/reddit-critiques.jpg)
 
 #### Actually, Ziusudra was pretty cool
 
