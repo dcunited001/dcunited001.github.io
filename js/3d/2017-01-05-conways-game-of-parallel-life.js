@@ -16,14 +16,13 @@ var windowHalfX = window.innerWidth / 2;
 var windowHalfY = window.innerHeight / 2;
 
 // TODO: uniforms for rules
-// TODO: colors for "age"
 // TODO: rules for age?
 
 // For a space that is 'populated':
 // - Each cell with one or no neighbors dies, as if by solitude.
 // - Each cell with four or more neighbors dies, as if by overpopulation.
 // - Each cell with two or three neighbors survives.
-//
+
 // For a space that is 'empty' or 'unpopulated':
 // - Each cell with three neighbors becomes populated.
 
@@ -124,6 +123,8 @@ function createRenderer() {
   renderer = new THREE.WebGLRenderer({ antialias: true });
   renderer.setClearColor(0xFFFFFF);
   renderer.setPixelRatio(window.devicePixelRatio);
+
+  //TODO: change to canvas size?
   renderer.setSize(window.innerWidth, (window.innerHeight/2));
 }
 
@@ -207,6 +208,7 @@ createGPUCompute();
 createCube();
 configureCanvas();
 animate();
+// initializeStartingSetTextures();
 
 function onClickColorProfile(profileName) {
   applyColorProfile(profileName);
@@ -251,16 +253,86 @@ var colorProfiles = {
   'vibrant-ink': []
 };
 
-
 // (custom-theme-set-variables)
 // https://github.com/bbatsov/zenburn-emacs/blob/master/zenburn-theme.el
 // [,zenburn-bg ,zenburn-red ,zenburn-green ,zenburn-yellow,zenburn-blue ,zenburn-magenta ,zenburn-cyan ,zenburn-fg]
 
+// from https://bitstorm.org/gameoflife/
+
+var glider = [
+  [0,1,0],
+  [0,0,1],
+  [1,1,1]
+];
+
+var smallExploder = [
+  [0,1,0],
+  [1,1,1],
+  [1,0,1],
+  [0,1,0]
+];
+
+var exploder = [
+  [1,0,1,0,1],
+  [1,0,0,0,1],
+  [1,0,0,0,1],
+  [1,0,0,0,1],
+  [1,0,1,0,1]
+];
+
+var tenCellRow = [
+  [1,1,1,1,1,1,1,1,1,1]
+];
+
+var lightweightSpaceship = [
+  [0,1,1,1,1],
+  [1,0,0,0,1],
+  [0,0,0,0,1],
+  [1,0,0,1,0]
+];
+
+var tumbler = [
+  [0,1,1,0,1,1,0],
+  [0,1,1,0,1,1,0],
+  [0,0,1,0,1,0,0]
+];
+
+// 38x14
+var gosperGliderGun = [
+  [0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,1,0,0,0,0,0,0,0,0,0,1,1,0,0],
+  [0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,1,0,0,0,0,0,0,0,0,0,1,1,0,0],
+  [1,1,0,0,0,0,0,0,0,1,1,0,0,0,0,0,0,0,0,0,0,0,1,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0],
+  [1,1,0,0,0,0,0,0,1,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0],
+  [0,0,0,0,0,0,0,0,1,1,0,0,0,0,0,0,1,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0],
+  [0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0],
+  [0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0],
+  [0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,1,0],
+  [0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,1],
+  [0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0],
+  [0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0],
+  [0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,1,1,0,0,0,0,0,0,0,0,0,0,0],
+  [0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0],
+  [0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0]
+];
+
+var startingSets = {
+  'glider': glider,
+  'small-exxploder': smallExploder,
+  'exploder': exploder,
+  'ten-cell-row': tenCellRow,
+  'lightweightSpaceship': lightweightSpaceship,
+  'tumbler': tumbler,
+  'gosper-glider-gun': gosperGliderGun
+};
+
+function initializeWithStartingSet(setName) {
+  var startingSet = startingSets[setName];
 
 
+}
 
-
-
-
-
-
+function initializeStartingSetTextures() {
+  // initialize starting sets while animation is being initially rendered
+  // - so the user doesn't notice the delay
+  // - so they're ready by the time the user is able to click the button
+}
