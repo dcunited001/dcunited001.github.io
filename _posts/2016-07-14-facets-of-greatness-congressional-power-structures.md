@@ -234,7 +234,7 @@ you find the stronger edges in that graph, this should generally
 indicate where the influence is. But it's a little more complicated
 than defining one edge type.
 
-![Graph Theory]
+![Graph Theory](/img/posts/2016-07-14-facets-of-greatness-congressional-power-structures/nauru-graph.gif)
 
 You can construct a network with each congressman's staff to identify
 strong connections between offices. This would help one understand
@@ -340,7 +340,7 @@ politics over the years in unusual places.
 If politicians are power brokers, what does this imply? What is a good
 politician? A proficient politician aquires and leverages advantage.
 There are different ways to do this. Some are great; some are good;
-some are bad. You can't forget that you're dealing with people and in
+some are bad. You can't forget that you're dealing with people and, in
 Washington, you're dealing with good people. Yes, even the politicians
 on the news for being in trouble are typically good people. They
 invested their lives in this. They have families. And they are
@@ -361,8 +361,8 @@ entertainment value of bboying. It used to be pretty rare to see. If
 it's completely common and for no reason, then it begins to lose it's
 excitement and novelty. Also, it attracts attention. The people who
 have experienced a lot of success in the entertainment industry don't
-like that attention. Getting attention kinda what they do for work and
-it can feel like work.
+like that attention. Getting attention is kinda what they do for work
+and it can feel like work.
 
 The point is, if you're diluting the value for yourself, that's your
 own problem. If you're diluting the value a group of people, that's
@@ -404,9 +404,9 @@ restrain you from communicating with other people.
 #### Watch How You Sell What You Sell
 
 However, you have to watch how you sell what you sell. You want the
-people you compromise with to feel like what they wanted today, next
-week and next year. If people are satisfied at first and later feel
-shortchanged, that will build up.
+people you compromise with to feel like they got what they wanted:
+today, next week and next year. If people are satisfied at first and
+later feel shortchanged, that will build up.
 
 This is especially true with politics when you're trying to establish
 a compromise with resources which are hard to pin a dollar amount
@@ -537,6 +537,8 @@ that you should remain ingratiated to ... lulz. Don't piss off those
 guys because in a few years, you're going to need to get some
 legislation through a committee and you want that wheel to stay
 greased. Ideally, you wouldn't worry about such things because ...
+
+#### Goshdarnit, people like you.
 
 ![Goshdarnit I'm good enough](/img/posts/2016-07-14-facets-of-greatness-congressional-power-structures/goshdarnit.jpg)
 

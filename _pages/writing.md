@@ -198,11 +198,6 @@ places.
 
 #### &#x2605; [Death of Creativity](/posts/2016-05-17-the-death-of-creativity.html)
 
-### Please Note
-
-I'm publishing this a bit early because I have to attend to some other
-writing and this is hanging me up. It's linked to by every page.
-
 # &#x16DD; [Oneiroism](#oneiroism) &#x16DD;
 
 When people no longer need to work and when computers are more capable
@@ -256,18 +251,18 @@ authors out there with whom this would really catch on.
 If you had asked me at age nineteen to pick a career path I'd never
 explore, I would have immediately and emphatically answered with
 "Writer." Recent exigent events seemed to have altered the course of
-my destiny. Such unquestionable axioms of reality, suddenly reek of
-fallibility, like "DC would never, under any circumstance, ever become
-a writer. You can count on that like the sun coming up." Apparently
-this is no longer true.
+my destiny. Such unquestionable axioms of reality suddenly reek of
+fallibility, e.g. "DC would never, under any circumstance, ever
+become a writer. You can count on that like the sun coming up."
+Apparently this is no longer true.
 
-In exploring the possibility of being a writer, I decided to explore.
-and articulate my own writing process. I decided to write an article
-about it. As a writer, it seems it'd be useful in finding an
-editor. The first thing I'd want to communicate to an editor is how I
-think about writing. I've enumerated the other elements of the writing
-process as Theme, Form, Plot, Characters and Style. As themes are the
-most important aspect of writing, IMO, I created a list of hundreds of
+In exploring the possibility of being a writer, I decided to explore
+and articulate my own writing process. I wrote an article about it. As
+a writer, it seems it'd be useful in finding an editor. The first
+thing I'd want to communicate to an editor is how I think about
+writing. I've enumerated the other elements of the writing process as
+Theme, Form, Plot, Characters and Style. As themes are the most
+important aspect of writing, IMO, I created a list of hundreds of
 themes, which I'll include in part two of Daedalian Magnum
 Corpus. Themes are the ideas behind your work that you want your
 readers to explore. Themes are why your work would be interesting or
@@ -289,24 +284,24 @@ writing a journal, this article is useful.
 American Eros is first a short-story about love at first sight,
 without sight. It's also a pitch for a revolutionary new concept that
 I'm calling an *episaga*, which is an open source myth. The idea is to
-tell a story describing how led the main character to develop exactly
-what they needed in order to have that perfect love experience the
-next morning, when they least expected it.
+tell a story describing how main characters were led to develop
+exactly what they needed in order to have that perfect love experience
+the next morning, when they least expected it.
 
 Yes, there have been open source and collaborative books before, but
 this is a new age reworking of myth and I hope to inspire others to
-return to the true human storytelling tradition. The idea is that
-storytellers will keep several fixpoints mostly constant, and these
-include a handful of plot-points, characters, themes, etc. The fewer
-and the more general, the better! Storytellers can fork off of other
-versions of the myth or collaborate. The self-imposed restrictions
-help foster creativity.
+return to the true human storytelling tradition. The distinguishing
+idea of the episaga is that storytellers will keep several fixpoints
+mostly constant, and these include a handful of plot-points,
+characters, themes, etc. The fewer and the more general, the better!
+Storytellers can fork off of other versions of the myth or
+collaborate. The self-imposed restrictions help foster creativity.
 
 To explain further here are several invariant plot points --
 *fixpoints* -- which should mostly stay the same. And other people
 would contribute towards them. The fixpoints should be as generic as
 possible and there should only be a handful. Ideally, for plotpoints,
-just one or two, to preserve variations in form.
+just one or two, to conserve types of variation in form.
 
 ### [Oneironautics: Questing for Lucidity](/posts/2016-05-14-oneironautics-questing-for-lucidity.html)
 
@@ -346,14 +341,13 @@ a time when the telecommunication system was still being developed
 there?
 
 What makes these people different? What are those subtle aspects of
-their craft they care so much about, yet everyone else managed to
-miss? There must be something that makes these people different in a
-way. What do they know that the rest of us are missing out on? Would
-the world be a better place if many of these ideas were common
-knowledge? Yes, with the exception of some ideas, I think it would be
-a much better place. I wholeheartedly believe that a world full of
-empowered, knowledgable, wise people would certainly be a more
-peaceful world.
+their craft that have thus far eluded us? There must be something that
+makes these people different in a way. What do they know that the rest
+of us are missing out on? Would the world be a better place if many of
+these ideas were common knowledge? Yes, with the exception of some
+ideas, I think it would be a much better place. I wholeheartedly
+believe that a world full of empowered, knowledgable, wise people
+would certainly be a more peaceful world.
 
 ### &#x2182; [Maximizing Mutual Benefit](/posts/2016-05-14-facets-of-greatness-networking-maximizing-mutual-benefit.html) &#x2182;
 
