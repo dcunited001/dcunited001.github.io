@@ -108,11 +108,11 @@ academic. Criticizing me for lack of sources? It's basically some tool
 too sharp for his/her own good asking me to do something they very
 well know burdens me with more time investment than the average
 academic. I'm writing posts about dozens of different fields without
-university education. That academic expression is what confers an
-understanding of what the groundbreaking studies are in your major or
-subject of expertise. Not only do I have nearly zero familiarity with
-the de facto, highly-cited papers in any single field, I'm often
-combining one to four fields.
+university education. That academic experience I don't have? The
+pragmatic value is the understanding required to navigate the
+groundbreaking studies in your major or subject of expertise. Not only
+do I have nearly zero familiarity with the de facto, highly-cited
+papers in any single field, I'm often combining one to four fields.
 
 Ain't nobody got time for that! That's where most of the work happens
 when you write a 10,000-40,000 word master's thesis. I'm not writing a
