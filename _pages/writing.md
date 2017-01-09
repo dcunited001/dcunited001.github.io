@@ -487,12 +487,24 @@ trying to establish credibility.
 
 It's pretty funny to watch people dismantle my work, but never
 actually mention any of the content. They usually go straight for the
-*ad hominem*, which is the debate equivalent of throwing your own poo
-at someone. It stinks and now you have poo on your hands. If you don't
-understand the language or whatever, that is fine. I'm more than happy
-to talk to you about it and I guarentee that within five to fifteen
-minutes, you will understand what it is I'm talking about, regardless
-of your education level. I guess that makes me a good teacher, too.
+*ad hominem*, which is the rhetorical equivalent of flinging your own
+poo at someone. It stinks and now you have poo on your hands. If you
+don't understand the language or whatever, that is fine. I'm more than
+happy to talk to you about it and I guarentee that within five to
+fifteen minutes, you will understand what it is I'm talking about,
+regardless of your education level. I guess that makes me a good
+teacher, too.
+
+#### Have You Thought About Using Reddit?! (LMAO)
+
+![Yeh, I did try Reddit once. What a
+wonderful community for targeted individuals!](/img/writing/reddit-trollz.png)
+
+This is a real good look for you all and for the current paradigm of
+discourse and censorship that that pervades Facebook and Reddit:
+"[Corralled](https://imgur.com/a/BVlWd)
+[Censorship](https://twitter.com/dcunit3d/status/818539783102300162) by
+[Veto](https://twitter.com/dcunit3d/status/756722195855007744)"
 
 I also don’t know why I have sixty cents to my name. Philosophy is
 spooky and dangerous!! Don’t think too hard about how you think!
@@ -514,14 +526,28 @@ reading right after the beginning. Either way, it’s like rhetorical
 jujitsu because some of my readers are going to respond in that manner
 anyways, regardless of the merit of my work & thought.
 
-And guess what? I was been attacked for just that! For using
-expressive language! I was told “the academic world doesn’t need
-people like that!” LMAO, seriously? WTF? The same user informed me
-that she created a Reddit account just to message me. I have no idea
-who it was, but I have some ideas … Ya, it's probably just someone
-else catfishing me. That's real funny! Well, it's not traditional
+#### What 'Smatter? LuLz
+
+![I was encouraged to use social media and reddit specifically by those targeting me.](/img/writing/reddit-critiques.png)
+
+#### Actually, Ziusudra was pretty cool
+
+And guess what? I was attacked for just that! For using expressive
+language! I was told “the academic world doesn’t need people like
+that!” LMAO, seriously? WTF? The same user informed me that she
+created a Reddit account just to message me. I have no idea who it
+was, but I have some ideas … Ya, it's probably just someone else
+catfishing me. That's real funny! Well, it's not traditional
 catfishing, but more like catfishing with carney tricks thrown in to
 really tug at the 'ole puppet strings.
+
+A single `r/philosophy` moderator vetoed my post. The first real post
+I made on Reddit and it generated 50 upvotes and 2,500 web sessions to
+[te.xel.io](http://te.xel.io) *IN LESS THAN SIX HOURS*. No subsequent
+post since then has generated any comparable levels. My capacity to
+direct web traffic to my site is so varied that it seems as though I
+am on rogue NSA Reddit/Facebook/Social servers running on a forked
+[splinternet](https://en.wikipedia.org/wiki/Splinternet).
 
 ### [I’m Not Religious, I’m Spiritual](/posts/2016-06-01-im-not-religious-im-spiritual-1-God-is-not-dead.html)
 
