@@ -1,11 +1,12 @@
 // TODO: use perlin noise as seed?
+// - with randomStartSeed, everything should transition towards more random
 
 var container;
 var cam, origCamZ;
 var scene, renderer, paused = false, stepThrough = false;
 var cube, cubeSize, cubeGeo, cubeTexture, cubeMaterial;
 var cubeRotationAxis = new THREE.Vector3(0.3,0.4,0.5), cubeRotationRate = Math.PI / 5;
-var texRng, gpuCompute, randomVariable, randomUniforms;
+var texRng, gpuCompute, randomVariable;
 var startTime = new Date().getTime(), currentTime = startTime, elapsedTime = startTime - currentTime;
 
 cubeSize = 500;
@@ -42,8 +43,8 @@ function createGPUCompute() {
 
   fillTextureWithRandoms(texRng);
   randomVariable = gpuCompute.addVariable("texRandom", document.getElementById('computeShaderRandoms').textContent, texRng);
+  randomVariable.material.uniforms.randomStepSeed = { value: Math.random() };
   gpuCompute.setVariableDependencies(randomVariable, [randomVariable]);
-  randomUniforms = randomVariable.material.uniforms;
 
   var error = gpuCompute.init();
   if ( error !== null ) {
@@ -128,6 +129,7 @@ function render() {
   cam.lookAt(scene.position);
 
   if (!paused || stepThrough) {
+    randomVariable.material.uniforms.randomStepSeed.value = Math.random();
     cubeMaterial.map = gpuCompute.getCurrentRenderTarget(randomVariable).texture;
     gpuCompute.compute();
     cubeMaterial.needsUpdate = true;

@@ -35,12 +35,11 @@ that are based on this concept, but this is a good enough "hello
 world" for GPU PRNG.
 
 The texture is simply 64x64 so the point can be more easily
-visualized, but scales to 4096x4096 with no problems at ~30
-fps. That's 30 x 4 x 4096 x 4096 random numbers per second.  Even
-though the quality is suspect, that's about 2 Gigarands per second.
-There is no delay from overhead related to WebGL calls and therefore,
-adding a bit more state and calculation to the shader should not cause
-delay.
+visualized, but scales to 4096x4096 with no problems at ~30 fps.
+That's 30 x 4 x 4096 x 4096 random numbers per second.  Even though
+the quality is suspect, that's about 2 Gigarands per second.  There is
+no delay from overhead related to WebGL calls and therefore, adding a
+bit more state and calculation to the shader should not cause delay.
 
 Here's the shader code for the PRNG. The ThreeJS code to set this up
 can be found [here](/js/3d/2017-01-04-webgl-gpu-prng.js).
@@ -118,11 +117,21 @@ RECOURSE, NO REPRESENTATION, AND INADEQUATE MEDICAL EVALUATION FOR TDO
 military recruiter runs. And honestly, that is the cheapest way to get
 a background check if you know why they ask the questions they do.
 
-CAN THE GOVERNMENT GET OUT OF MY LIFE? Stop pissing all over yourself
-just for me. It's not very becoming. And if I could ever get a job
-without being bullied by the facility security officer (FSO
-... required for DoD contracting) than HOLY SHIT I might be so
-distracted, I wouldn't even care.
+This is why I would make an excellent intellegence analyst. I knew
+what was wrong with my three minute conversation with the recruiter
+and I knew exactly what information he was seeing without needing him
+to tell me. There was nothing wrong with how the recruiter handled the
+situation: he was exposed to information on my criminal record for
+which he was trained to handle in a specific way. I'm pissed at the
+information now on my background check.
+
+### Can the Government Get the Fuck Out of My Life?!
+
+Stop pissing all over yourself just for me. It's not very becoming.
+And if I could ever get a job without being bullied by the facility
+security officer (FSO ... a role required by the FCL process DSS runs
+for DoD contracting) then HOLY SHIT I might be so distracted, I
+wouldn't even care.
 
 And that's why I read Joint military doctrine at night. It's not just
 to imagine how logistics are applied to manage thousands of people
@@ -145,10 +154,12 @@ And I haven't even ventured into my understanding of the applictation
 of the
 [Laplacian to information systems](https://github.com/dcunited001/dcunited001.github.io/blob/sources/_drafts/facets-of-greatness-systems-theory.md),
 coupled with an understanding of logistics, employee training and law,
-that basically means I'm borderline psychic. And damaged goods,
+which basically means I'm borderline psychic. And damaged goods,
 psychologically speaking.
 
 <script type="x-shader/x-fragment" id="computeShaderRandoms">
+  uniform float randomStepSeed;
+
   void main() {
     vec2 uv = (gl_FragCoord.xy / resolution.xy);
     vec4 texel = texture2D(texRandom, uv);
@@ -173,11 +184,13 @@ psychologically speaking.
     //   - the reasoning behind this is the same as why magnitude metrics (seismic, etc)
     //     are more likely to lead with a one or a lower digit than a higher digit.
     // - if i could xor, i wouldn't need this.
+
     vec4 newTexel = fract(3.0 * texel -
       fract(5.0  * texels[0]) +
       fract(7.0  * texels[1]) -
       fract(11.0 * texels[2]) +
-      fract(13.0 * texels[3]));
+      fract(13.0 * texels[3] * randomStepSeed));
+
     gl_FragColor = vec4(newTexel.x, newTexel.y, newTexel.z, 1.0);
   }</script>
 
