@@ -16,16 +16,16 @@ author:
         <li><a onclick="onClickColorProfile(this.attributes['data-profile-name'].value)" data-profile-name="game">Game</a></li>
         <li><a onclick="onClickColorProfile(this.attributes['data-profile-name'].value)" data-profile-name="dos">DOS</a></li>
         <li><a onclick="onClickColorProfile(this.attributes['data-profile-name'].value)" data-profile-name="apple">Apple</a></li>
-        <!--<li><a onclick="onClickColorProfile(this.attributes['data-profile-name'].value)" data-profile-name="zenburn">Zenburn</a></li>-->
-        <!--<li><a onclick="onClickColorProfile(this.attributes['data-profile-name'].value)" data-profile-name="sanity-inc">Sanity Inc</a></li>-->
-        <!--<li><a onclick="onClickColorProfile(this.attributes['data-profile-name'].value)" data-profile-name="monokai">Monokai</a></li>-->
-        <!--<li><a onclick="onClickColorProfile(this.attributes['data-profile-name'].value)" data-profile-name="moe">Moe</a></li>-->
-        <!--<li><a onclick="onClickColorProfile(this.attributes['data-profile-name'].value)" data-profile-name="solarized">Solarized</a></li>-->
+        <!-- <li><a onclick="onClickColorProfile(this.attributes['data-profile-name'].value)" data-profile-name="zenburn">Zenburn</a></li> -->
+        <!-- <li><a onclick="onClickColorProfile(this.attributes['data-profile-name'].value)" data-profile-name="sanity-inc">Sanity Inc</a></li> -->
+        <!-- <li><a onclick="onClickColorProfile(this.attributes['data-profile-name'].value)" data-profile-name="monokai">Monokai</a></li> -->
+        <!-- <li><a onclick="onClickColorProfile(this.attributes['data-profile-name'].value)" data-profile-name="moe">Moe</a></li> -->
+        <!-- <li><a onclick="onClickColorProfile(this.attributes['data-profile-name'].value)" data-profile-name="solarized">Solarized</a></li> -->
         <li><a onclick="onClickColorProfile(this.attributes['data-profile-name'].value)" data-profile-name="cyberpunk">Cyberpunk</a></li>
-        <!--<li><a onclick="onClickColorProfile(this.attributes['data-profile-name'].value)" data-profile-name="sublime-text">Sublime Text</a></li>-->
-        <!--<li><a onclick="onClickColorProfile(this.attributes['data-profile-name'].value)" data-profile-name="vibrant-ink">Vibrant Ink</a></li>-->
+        <!-- <li><a onclick="onClickColorProfile(this.attributes['data-profile-name'].value)" data-profile-name="sublime-text">Sublime Text</a></li> -->
+        <!-- <li><a onclick="onClickColorProfile(this.attributes['data-profile-name'].value)" data-profile-name="vibrant-ink">Vibrant Ink</a></li> -->
         <li><a onclick="onClickColorProfile(this.attributes['data-profile-name'].value)" data-profile-name="random">Random</a></li>
-        <!--<li><a onclick="onClickColorProfile(this.attributes['data-profile-name'].value)" data-profile-name="wink">;)</a></li>-->
+        <!-- <li><a onclick="onClickColorProfile(this.attributes['data-profile-name'].value)" data-profile-name="wink">;)</a></li> -->
       </ul>
     </div>
   </div>
@@ -38,7 +38,7 @@ author:
         <li><a href="#">X</a></li>
         <li><a href="#">Y</a></li>
         <li role="separator" class="divider"></li>
-        <li><a href="#">Z</a></li>
+        <li>From Bitstorm <a href="https://bitstorm.org/gameoflife/">Game of Life</a></li>
       </ul>
     </div>
   </div>
@@ -145,7 +145,7 @@ author:
       } else {
         newFragColor.x = 0.0;
         if (newFragColor.y > 0.0) {
-          newFragColor.y = texel.y - 0.01;
+          newFragColor.y = texel.y - 0.02;
         }
       }
     }
@@ -190,12 +190,10 @@ author:
     }
   }</script>
 
-
 <script src="/js/three/GPUComputeRenderer.js" type="text/javascript"></script>
 <script src="/js/3d/2017-01-05-conways-game-of-parallel-life.js" type="text/javascript"></script>
 
 <script type="text/javascript">
-
   function pasteShaderToCodeBlock(shaderId, codeBlockId) {
     var shaderCode = document.getElementById(shaderId).textContent;
     var processedCode = '<span class="p">' +

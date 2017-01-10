@@ -12,7 +12,13 @@ author:
 
 <div class="row">
   <div class="col-sm-3 col-xs-6"><button id="btn-pause" class="btn btn-default" onclick="togglePause()">Pause</button></div>
+  <div class="col-sm-3 col-xs-6"><button id="btn-pause" class="btn btn-default" onclick="toggleStats()">Stats</button></div>
 </div>
+
+- TODO: initialize with various seed values to demonstrate it's
+  tendency to converge towards uniformity (though with suspect
+  quality of randoms) This has applications for energy efficient
+  data science, math, finance & physics ... maybe.
 
 ### Parallelized Random Number Generation in the Browser
 
