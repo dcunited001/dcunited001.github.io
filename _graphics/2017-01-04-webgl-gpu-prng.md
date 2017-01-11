@@ -12,7 +12,8 @@ author:
 
 <div class="row">
   <div class="col-sm-3 col-xs-6"><button id="btn-pause" class="btn btn-default" onclick="togglePause()">Pause</button></div>
-  <div class="col-sm-3 col-xs-6"><button id="btn-pause" class="btn btn-default" onclick="toggleStats()">Stats</button></div>
+  <div class="col-sm-3 col-xs-6"><button id="btn-stats" class="btn btn-default" onclick="toggleStats()">Stats</button></div>
+
 </div>
 
 - TODO: initialize with various seed values to demonstrate it's
@@ -167,8 +168,8 @@ psychologically speaking.
   uniform float randomStepSeed;
 
   void main() {
-    vec2 uv = (gl_FragCoord.xy / resolution.xy);
-    vec4 texel = texture2D(texRandom, uv);
+    vec2 uv = gl_FragCoord.xy / resolution.xy;
+    vec4 texel = texture2D(varRandom, uv);
 
     vec2 texelCoords[4];
     texelCoords[0] = mod(gl_FragCoord.xy + vec2( 0.0, -1.0), resolution.xy) / resolution.xy;
@@ -177,10 +178,10 @@ psychologically speaking.
     texelCoords[3] = mod(gl_FragCoord.xy + vec2(-1.0,  1.0), resolution.xy) / resolution.xy;
 
     vec4 texels[4];
-    texels[0] = texture2D(texRandom, texelCoords[0]);
-    texels[1] = texture2D(texRandom, texelCoords[1]);
-    texels[2] = texture2D(texRandom, texelCoords[2]);
-    texels[3] = texture2D(texRandom, texelCoords[3]);
+    texels[0] = texture2D(varRandom, texelCoords[0]);
+    texels[1] = texture2D(varRandom, texelCoords[1]);
+    texels[2] = texture2D(varRandom, texelCoords[2]);
+    texels[3] = texture2D(varRandom, texelCoords[3]);
 
     // multiply by primes and add/subract to counter a binary-additive color-shift...
     // - binary addition is simply a recursive bitwise xor + bitshift, which means that
@@ -200,14 +201,41 @@ psychologically speaking.
     gl_FragColor = vec4(newTexel.x, newTexel.y, newTexel.z, 1.0);
   }</script>
 
+<script type="x-shader/x-fragment" id="shaderStats">
+  //uniform int neighborhoodSize;
+
+  void main() {
+    vec2 uv = gl_FragCoord.xy / resolution.xy;
+    vec4 texel = texture2D(varRandom, uv);
+
+    vec4 texels[ballArea];
+    vec4 texelSum = vec4(0.0, 0.0, 0.0, 0.0);
+
+    for (int i=0; i < ballSize; i++) {
+      for (int j=0; j < ballSize; j++) {
+        // a neighborhood w/ ball indexed down & right is mostly equivalent
+        vec2 texelCoords = fract((gl_FragCoord.xy + vec2(i,j)) /resolution.xy);
+        texels[i * ballSize + j] = texture2D(varRandom, texelCoords);
+
+        texelSum = texelSum + texels[i * ballSize + j];
+      }
+    }
+
+    gl_FragColor = texelSum / vec4(ballArea, ballArea, ballArea, ballArea);
+
+    gl_FragColor.y = gl_FragColor.x;
+    gl_FragColor.z = gl_FragColor.x;
+  }
+</script>
+
 <script type="x-shader/x-fragment" id="computeShaderRandomsNoMutate">
   void main() {
     vec2 uv = gl_FragCoord.xy / resolution.xy;
     float color = uv.x * uv.y / resolution.x * resolution.y;
     //gl_FragColor = vec4(color, 1.0 - color, 63, 1);
     vec4 colorTransform = vec4(color, 1.0 - color, 63, 0.75);
-    //gl_FragColor = abs(colorTransform - texture2D(texRandom, uv));
-    gl_FragColor = texture2D(texRandom, uv);
+    //gl_FragColor = abs(colorTransform - texture2D(varRandom, uv));
+    gl_FragColor = texture2D(varRandom, uv);
   }</script>
 
 <script type="x-shader/x-fragment" id="computeShaderRandomsStrobe">
@@ -216,7 +244,7 @@ psychologically speaking.
     float color = uv.x * uv.y / 256.0 * 256.0;
     //gl_FragColor = vec4(color, 1.0 - color, 63, 1);
     vec4 colorTransform = vec4(color, 1.0 - color, 63, 1);
-    gl_FragColor = abs(colorTransform - texture2D(texRandom, uv));
+    gl_FragColor = abs(colorTransform - texture2D(varRandom, uv));
   }</script>
 
 ### The Fract() Function: Floats Zero through One
