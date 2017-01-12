@@ -251,16 +251,86 @@ var colorProfiles = {
   'vibrant-ink': []
 };
 
-
 // (custom-theme-set-variables)
 // https://github.com/bbatsov/zenburn-emacs/blob/master/zenburn-theme.el
 // [,zenburn-bg ,zenburn-red ,zenburn-green ,zenburn-yellow,zenburn-blue ,zenburn-magenta ,zenburn-cyan ,zenburn-fg]
 
+// from https://bitstorm.org/gameoflife/
+
+var glider = [
+  [0,1,0],
+  [0,0,1],
+  [1,1,1]
+];
+
+var smallExploder = [
+  [0,1,0],
+  [1,1,1],
+  [1,0,1],
+  [0,1,0]
+];
+
+var exploder = [
+  [1,0,1,0,1],
+  [1,0,0,0,1],
+  [1,0,0,0,1],
+  [1,0,0,0,1],
+  [1,0,1,0,1]
+];
+
+var tenCellRow = [
+  [1,1,1,1,1,1,1,1,1,1]
+];
+
+var lightweightSpaceship = [
+  [0,1,1,1,1],
+  [1,0,0,0,1],
+  [0,0,0,0,1],
+  [1,0,0,1,0]
+];
+
+var tumbler = [
+  [0,1,1,0,1,1,0],
+  [0,1,1,0,1,1,0],
+  [0,0,1,0,1,0,0]
+];
+
+// 38x14
+var gosperGliderGun = [
+  [0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,1,0,0,0,0,0,0,0,0,0,1,1,0,0],
+  [0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,1,0,0,0,0,0,0,0,0,0,1,1,0,0],
+  [1,1,0,0,0,0,0,0,0,1,1,0,0,0,0,0,0,0,0,0,0,0,1,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0],
+  [1,1,0,0,0,0,0,0,1,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0],
+  [0,0,0,0,0,0,0,0,1,1,0,0,0,0,0,0,1,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0],
+  [0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0],
+  [0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0],
+  [0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,1,0],
+  [0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,1],
+  [0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0],
+  [0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0],
+  [0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,1,1,0,0,0,0,0,0,0,0,0,0,0],
+  [0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0],
+  [0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0]
+];
+
+var startingSets = {
+  'glider': glider,
+  'small-exxploder': smallExploder,
+  'exploder': exploder,
+  'ten-cell-row': tenCellRow,
+  'lightweightSpaceship': lightweightSpaceship,
+  'tumbler': tumbler,
+  'gosper-glider-gun': gosperGliderGun
+};
+
+function initializeWithStartingSet(setName) {
+  var startingSet = startingSets[setName];
 
 
+}
 
-
-
-
-
-
+function initializeStartingSetTextures() {
+  // initialize starting sets while animation is being initially rendered
+  // - so the user doesn't notice the delay
+  // - so they're ready by the time the user is able to click the button
+}

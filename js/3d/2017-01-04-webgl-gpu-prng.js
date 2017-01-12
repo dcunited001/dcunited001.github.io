@@ -15,7 +15,8 @@ var scene, renderer, paused = false, stepThrough = false, displayStats = true;
 //   - this can be done in series in each thread, so it doesn't present as many
 //     performance constraints
 
-var quadStats, geoStats, varStats, matStats, texStats, optStatsDisplayVars = 0;
+var optStatsDisplayVars = 30;
+var quadStats, geoStats, varStats, matStats, texStats;
 var quadDistro, geoDistro, varDistro, texDistro, matDistro;
 
 var cube, cubeSize, cubeGeo, cubeTexture, cubeMaterial;
@@ -49,23 +50,23 @@ function createCube(scn) {
   });
 
   cube = new THREE.Mesh(cubeGeo, cubeMaterial);
-  cube.position.set(0,0,1);
+  cube.position.set(-0.25 * cubeSize,0,1);
   scn.add(cube);
 }
 
 function createStatsQuad(scn) {
-  geoStats = new THREE.PlaneBufferGeometry(cubeSize, cubeSize, 4,4);
+  geoStats = new THREE.PlaneBufferGeometry(0.5 * cubeSize, 0.5 * cubeSize, 4,4);
 
   matStats = new THREE.MeshBasicMaterial({
     map: texStats
   });
 
   quadStats = new THREE.Mesh(geoStats, matStats);
-  quadStats.position.set(cubeSize * 1.25,0,1);
+  quadStats.position.set(0.75 * cubeSize, 0.3 * cubeSize,1);
   scn.add(quadStats);
 }
 
-function createDistroQuad(scn) {
+function createEntropyQuad(scn) {
   geoDistro = new THREE.PlaneBufferGeometry(cubeSize, cubeSize, 4, 4);
 
   matDistro = new THREE.MeshBasicMaterial({
@@ -92,6 +93,12 @@ function createGPUCompute() {
   randomVariable = gpuCompute.addVariable("varRandom", shaderRandoms, texRng);
   randomVariable.material.uniforms.randomStepSeed = { value: Math.random() };
   gpuCompute.setVariableDependencies(randomVariable, [randomVariable]);
+
+  // TODO: add another texture to display the random variables on the texture?
+  // - this way, i don't need to include the bitmask code in all of the stats shaders
+  // - however, i can't just zero out the X, Y or Z values because the texture is
+  //   used as input to the next step. at least, it can't be done while retaining
+  //   independence between random variables X, Y, and Z
 
   var entropyNeighborhoodSize = 5;
   varStats = gpuCompute.addVariable("varStats", shaderStats, texRng);
@@ -188,7 +195,7 @@ function toggleStats() {
   // move the cube a little to the left
 }
 
-function onChangeDisplayVars() {
+function changeStatsDisplayVars() {
   // set value to a product of primes from checkbox values
 
   // bitmask (additive) is a group parallel to n-coprimes (multiplicative)
@@ -196,19 +203,14 @@ function onChangeDisplayVars() {
   // - i explored this because i didn't understand how Assembler could process/encode
   //   values *and* instructions in total binary. this was before i had ever
   //   programmed.
-  var primes = [2,3,5];
-  var checkboxes = [];
-  var values = [];
-  var val = 1;
+  var primes = [2,3,5], val = 1, max = 1;
   for (var i=0; i < 3; i++) {
-    var checkbox = document.getElementById('chk-random-variable-x');
-    checkboxes.push(checkbox);
-    console.log(checkbox);
-    values.push(checkbox.value);
-    val *= primes[i];
+    var checkbox = document.getElementById('chk-random-variable-' + (i+1));
+    max *= primes[i];
+    if (checkbox.checked) { val *= primes[i] }
   }
 
-  optStatsDisplayVars = val;
+  optStatsDisplayVars = (val == 1 ? max : val);
 }
 
 function randomStepThrough() {
@@ -251,16 +253,26 @@ function render() {
     cubeMaterial.needsUpdate = true;
 
     if (stepThrough) { stepThrough = false }
+  } else {
+    // TODO: when paused, change display textures to alternate render target
+    // - to fix the problem where you have to step through twice to get the UI
+    //   changes to display
   }
 
   renderer.render(scene, cam);
 }
 
 init();
+changeStatsDisplayVars();
 createRenderer();
 createGPUCompute(scene);
 createCube(scene);
-//createDistroQuad(scene);
+//createEntropyQuad(scene);
 createStatsQuad(scene);
 configureCanvas();
 animate();
+
+// TODO: learn to measure entropy of "randomly" distributed floating point numbers
+// - https://stackoverflow.com/questions/34667932/minimum-floating-point-number-closest-to-zero
+//   - look into the disparity b/w 2^(-64) and the minimum distance b/w 2 floats
+// -

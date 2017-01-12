@@ -11,15 +11,35 @@ author:
 #### Click Canvas to Step Through When Paused
 
 <div class="row">
-  <div class="col-sm-3 col-xs-6"><button id="btn-pause" class="btn btn-default" onclick="togglePause()">Pause</button></div>
-  <div class="col-sm-3 col-xs-6"><button id="btn-stats" class="btn btn-default" onclick="toggleStats()">Stats</button></div>
+  <!--<form class="form-inline">-->
+    <div class="form-group">
+      <div class="col-sm-3 col-xs-6"><button id="btn-pause" class="btn btn-default" onclick="togglePause()">Pause</button></div>
+    </div>
+    <div class="form-group">
+      <div class="col-sm-3 col-xs-6"><button id="btn-stats" class="btn btn-default" onclick="toggleStats()">Stats</button></div>
+    </div>
 
+    <div class="form-group">
+      <label class="checkbox-inline">
+        <input type="checkbox" id="chk-random-variable-1" checked onclick="changeStatsDisplayVars()"> X
+      </label>
+      <label class="checkbox-inline">
+        <input type="checkbox" id="chk-random-variable-2" checked onclick="changeStatsDisplayVars()"> Y
+      </label>
+      <label class="checkbox-inline">
+        <input type="checkbox" id="chk-random-variable-3" checked onclick="changeStatsDisplayVars()"> Z
+      </label>
+    </div>
+  <!--</form>-->
 </div>
+
+<div class="row"></div>
+<div class="row"></div>
 
 - TODO: initialize with various seed values to demonstrate it's
   tendency to converge towards uniformity (though with suspect
-  quality of randoms) This has applications for energy efficient
-  data science, math, finance & physics ... maybe.
+  quality of randoms) A new PRNG has applications for energy efficient
+  data science, math, finance & physics ... This PRNG? Probably not...
 
 ### Parallelized Random Number Generation in the Browser
 
@@ -204,10 +224,10 @@ psychologically speaking.
 <script type="x-shader/x-fragment" id="shaderStats">
   //uniform int neighborhoodSize;
 
+  uniform float showVariables;
+
   void main() {
     vec2 uv = gl_FragCoord.xy / resolution.xy;
-    vec4 texel = texture2D(varRandom, uv);
-
     vec4 texels[ballArea];
     vec4 texelSum = vec4(0.0, 0.0, 0.0, 0.0);
 
@@ -221,10 +241,34 @@ psychologically speaking.
       }
     }
 
-    gl_FragColor = texelSum / vec4(ballArea, ballArea, ballArea, ballArea);
+    vec4 texel = texelSum / vec4(ballArea, ballArea, ballArea, ballArea);
+    bool showX = mod(showVariables, 2.0) < 1.0;
+    bool showY = mod(showVariables, 3.0) < 1.0;
+    bool showZ = mod(showVariables, 5.0) < 1.0;
 
-    gl_FragColor.y = gl_FragColor.x;
-    gl_FragColor.z = gl_FragColor.x;
+    //showX = true;
+    //showY = false;
+    //showZ = false;
+
+
+    gl_FragColor = vec4(0.0, 0.0, 0.0, 0.0);
+    if (showX) {
+      gl_FragColor.x = texel.x;
+    } else {
+      // TODO: mix texel value to appear more grey
+      //gl_FragColor.x = 0.5;
+    }
+    if (showY) {
+      gl_FragColor.y = texel.y;
+    } else {
+      //gl_FragColor.x = 0.5;
+    }
+    if (showZ) {
+      gl_FragColor.z = texel.z;
+    } else {
+      //gl_FragColor.x = 0.5;
+    }
+    gl_FragColor.w = texel.w;
   }
 </script>
 
