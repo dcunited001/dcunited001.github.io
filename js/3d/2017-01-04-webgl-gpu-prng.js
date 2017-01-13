@@ -17,7 +17,7 @@ var scene, renderer, paused = false, stepThrough = false, displayStats = true;
 
 var optStatsDisplayVars = 30;
 var quadStats, geoStats, varStats, matStats, texStats;
-var quadDistro, geoDistro, varDistro, texDistro, matDistro;
+var quadEntropy, geoEntropy, varEntropy, texEntropy, matEntropy;
 
 var cube, cubeSize, cubeGeo, cubeTexture, cubeMaterial;
 var cubeRotationAxis = new THREE.Vector3(0.3,0.4,0.5), cubeRotationRate = Math.PI / 5;
@@ -55,7 +55,7 @@ function createCube(scn) {
 }
 
 function createStatsQuad(scn) {
-  geoStats = new THREE.PlaneBufferGeometry(0.5 * cubeSize, 0.5 * cubeSize, 4,4);
+  geoStats = new THREE.PlaneBufferGeometry(0.5 * cubeSize, 0.5 * cubeSize, 4, 4);
 
   matStats = new THREE.MeshBasicMaterial({
     map: texStats
@@ -67,15 +67,15 @@ function createStatsQuad(scn) {
 }
 
 function createEntropyQuad(scn) {
-  geoDistro = new THREE.PlaneBufferGeometry(cubeSize, cubeSize, 4, 4);
+  geoEntropy = new THREE.PlaneBufferGeometry(cubeSize, cubeSize, 4, 4);
 
-  matDistro = new THREE.MeshBasicMaterial({
-    map: texDistro
+  matEntropy = new THREE.MeshBasicMaterial({
+    map: texEntropy
   });
 
-  quadDistro = new THREE.Mesh(geoDistro, matDistro);
-  quadDistro.position.set(0,0,1);
-  scn.add(quadDistro);
+  quadEntropy = new THREE.Mesh(geoEntropy, matEntropy);
+  quadEntropy.position.set(0,0,1);
+  scn.add(quadEntropy);
 }
 
 // TODO: update to allow for an array of callbacks, one for each variable
@@ -197,12 +197,6 @@ function toggleStats() {
 
 function changeStatsDisplayVars() {
   // set value to a product of primes from checkbox values
-
-  // bitmask (additive) is a group parallel to n-coprimes (multiplicative)
-  // - something i explored as a kid, encoding values with a kind of prime-binary
-  // - i explored this because i didn't understand how Assembler could process/encode
-  //   values *and* instructions in total binary. this was before i had ever
-  //   programmed.
   var primes = [2,3,5], val = 1, max = 1;
   for (var i=0; i < 3; i++) {
     var checkbox = document.getElementById('chk-random-variable-' + (i+1));

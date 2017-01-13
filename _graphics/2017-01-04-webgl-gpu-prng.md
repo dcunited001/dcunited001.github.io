@@ -83,6 +83,18 @@ can be found [here](/js/3d/2017-01-04-webgl-gpu-prng.js).
   </figure>
 </p>
 
+### Fragment Shader: shaderStats
+
+<p>
+  <figure class="highlight">
+    <pre>
+      <code id="codeShaderStats" class="language-c" data-lang="c">
+
+      </code>
+    </pre>
+  </figure>
+</p>
+
 ### Why Is This PRNG Terrible?
 
 Actually, it's not so bad. If there were major problems with the
@@ -250,27 +262,34 @@ psychologically speaking.
     //showY = false;
     //showZ = false;
 
-
+    // bitmask (additive) is a group parallel to n-coprimes (multiplicative)
+    // - something i explored as a kid, encoding values with a kind of prime-binary
+    // - i explored this because i didn't understand how Assembler could process/encode
+    //   values *and* instructions in total binary. this was before i had ever
+    //   programmed.
     gl_FragColor = vec4(0.0, 0.0, 0.0, 0.0);
+
     if (showX) {
       gl_FragColor.x = texel.x;
     } else {
       // TODO: mix texel value to appear more grey
       //gl_FragColor.x = 0.5;
     }
+
     if (showY) {
       gl_FragColor.y = texel.y;
     } else {
       //gl_FragColor.x = 0.5;
     }
+
     if (showZ) {
       gl_FragColor.z = texel.z;
     } else {
       //gl_FragColor.x = 0.5;
     }
+
     gl_FragColor.w = texel.w;
-  }
-</script>
+  }</script>
 
 <script type="x-shader/x-fragment" id="computeShaderRandomsNoMutate">
   void main() {
@@ -345,9 +364,14 @@ Here's some info on identifying floats from zero to one.
 <script src="/js/3d/2017-01-04-webgl-gpu-prng.js" type="text/javascript"></script>
 
 <script type="text/javascript">
-  var codeComputeShaderRandoms = document.getElementById("computeShaderRandoms").textContent;
-  codeComputeShaderRandoms = '<span class="p">' +
-    codeComputeShaderRandoms.split('\n').join('</span>\n<span class="p">') +
-    '</span>';
-  document.getElementById("codeComputeShaderRandoms").innerHTML = codeComputeShaderRandoms;
+  function pasteShaderToCodeBlock(shaderId, codeBlockId) {
+    var shaderCode = document.getElementById(shaderId).textContent;
+    var processedCode = '<span class="p">' +
+        shaderCode .split('\n').join('</span>\n<span class="p">') +
+        '</span>';
+    document.getElementById(codeBlockId).innerHTML = processedCode;
+  }
+
+  pasteShaderToCodeBlock('computeShaderRandoms', 'codeComputeShaderRandoms');
+  pasteShaderToCodeBlock('shaderStats', 'codeShaderStats');
 </script>
