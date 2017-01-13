@@ -223,6 +223,9 @@ psychologically speaking.
     //   - the reasoning behind this is the same as why magnitude metrics (seismic, etc)
     //     are more likely to lead with a one or a lower digit than a higher digit.
     // - if i could xor, i wouldn't need this.
+    // - also added a random seed,
+    //   - it's the same for each step. that's not idea, but with bitcrunching functions,
+    //     i can mix the numbers and seed(s) more randomly
 
     vec4 newTexel = fract(3.0 * texel -
       fract(5.0  * texels[0]) +
