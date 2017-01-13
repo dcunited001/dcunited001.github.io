@@ -1116,12 +1116,12 @@ the sea or otherwise forgotten.
 
 TODO: map of Doggerland
 
-(legends of) A developed culture, usually fairly advanced that lay in the far
-north.  The Greeks and Romans called called it Hyperborea. Or perhaps
-that was their name for Iceland and Greenland? Yet, Doggerland fits
-many of the mythic descriptions of Hyperborea or Atlantis.  It was
-violently flooded by a tsunami triggered by a massive glacial event
-called the Storegga Slide in 6,200 B.C.
+(legends of) A developed culture, usually fairly advanced that lay in
+the far north.  The Greeks and Romans called called it Hyperborea. Or
+perhaps that was their name for Iceland and Greenland? Yet, Doggerland
+fits many of the mythic descriptions of Hyperborea or Atlantis.  It
+was violently flooded by a tsunami triggered by a massive glacial
+event called the Storegga Slide in 6,200 B.C.
 
 - knocked out by tsunami (caused by the Storegga Slide around 6200 BC)
   - this is probably not the only time a seaside glacier collapsed,
