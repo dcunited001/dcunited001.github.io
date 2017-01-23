@@ -35,6 +35,10 @@ about, but the best artists seem to be able to swim in the depths of
 their subconscious, retrieving jewels not shaped or constrained by
 effable thought. How does one tap into that?
 
+#### Oh yeh, the joke. You'll need this definition to get the joke.
+
+![Aesthetician](/img/posts/2016-10-23-metamodernism-and-the-hipster-cycle-of-art/aesthetician.png)
+
 # [What is Retromodernism?](#what-is-retromodernism)
 
 ### [The Best Artists Fly Under the Radar](#the-best-artists-fly-under-the-radar)
@@ -73,7 +77,7 @@ effable thought. How does one tap into that?
 
 #### The Next Ghostbusters is Steampunk
 
-![Steampunk](/img/posts/metamodernism-and-the-hipster-cycle-of-art/steampunk-ghostbusters.jpeg)
+![Steampunk](/img/posts/2016-10-23-metamodernism-and-the-hipster-cycle-of-art/steampunk-ghostbusters.jpeg)
 
 <a name="what-is-retromodernism" />
 
@@ -183,7 +187,7 @@ judgement on anyone.
 
 #### Oh Hey, Look! It's Mara! Do You Think She'd Like Some Tea?
 
-![Buddha and Mara](/img/posts/metamodernism-and-the-hipster-cycle-of-art/mara.jpg)
+![Buddha and Mara](/img/posts/2016-10-23-metamodernism-and-the-hipster-cycle-of-art/mara.jpg)
 
 <a name="truth-an-artists-perspective-contraposed-with-the-status-quo">
 
