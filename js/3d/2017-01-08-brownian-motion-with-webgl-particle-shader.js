@@ -31,7 +31,7 @@ function createRenderer() {
   renderer.setPixelRatio(window.devicePixelRatio);
 
   //TODO: change to canvas size?
-  renderer.setSize(window.innerWidth, window.innerHeight/2);
+  renderer.setSize(window.innerWidth, window.innerHeight / 2);
 }
 
 function createCompute() {
@@ -43,7 +43,7 @@ function createCompute() {
   texVel = gpuCompute.createTexture(numParticles, 1);
 
   varVel = gpuCompute.addVariable('posVar', shaderPosition, texPos);
-  varPos = gpuCompute.addVariable('posVar', shaderPosition, texPos);
+  varPos = gpuCompute.addVariable('posPos', shaderPosition, texPos);
 
   gpuCompute.setVariableDependencies(varVel, [varVel]);
   gpuCompute.setVariableDependencies(varPos, [varVel, varPos]);

@@ -11,35 +11,33 @@ author:
 #### Click Canvas to Step Through When Paused
 
 <div class="row">
-  <!--<form class="form-inline">-->
-    <div class="form-group">
-      <div class="col-sm-3 col-xs-6"><button id="btn-pause" class="btn btn-default" onclick="togglePause()">Pause</button></div>
-    </div>
-    <div class="form-group">
-      <div class="col-sm-3 col-xs-6"><button id="btn-stats" class="btn btn-default" onclick="toggleStats()">Stats</button></div>
-    </div>
-
-    <div class="form-group">
-      <label class="checkbox-inline">
-        <input type="checkbox" id="chk-random-variable-1" checked onclick="changeStatsDisplayVars()"> X
-      </label>
-      <label class="checkbox-inline">
-        <input type="checkbox" id="chk-random-variable-2" checked onclick="changeStatsDisplayVars()"> Y
-      </label>
-      <label class="checkbox-inline">
-        <input type="checkbox" id="chk-random-variable-3" checked onclick="changeStatsDisplayVars()"> Z
-      </label>
-    </div>
-  <!--</form>-->
+  <div class="col-sm-3 col-xs-6">
+    <button id="btn-pause" class="btn btn-default" onclick="togglePause()">Pause</button>
+    <button id="btn-stats" class="btn btn-default" onclick="toggleStats()">Stats</button>
+  </div>
 </div>
 
-<div class="row"></div>
-<div class="row"></div>
+<div class="row">
+  <div class="col-sm-3 col-xs-6">
+    <label class="checkbox-inline">
+      <input type="checkbox" id="chk-random-variable-1" checked onclick="changeStatsDisplayVars()"> X
+    </label>
+    <label class="checkbox-inline">
+      <input type="checkbox" id="chk-random-variable-2" checked onclick="changeStatsDisplayVars()"> Y
+    </label>
+    <label class="checkbox-inline">
+      <input type="checkbox" id="chk-random-variable-3" checked onclick="changeStatsDisplayVars()"> Z
+    </label>
+  </div>
+</div>
 
-- TODO: initialize with various seed values to demonstrate it's
+- TODO: option to initialize with various seed values to demonstrate
   tendency to converge towards uniformity (though with suspect
   quality of randoms) A new PRNG has applications for energy efficient
   data science, math, finance & physics ... This PRNG? Probably not...
+- TODO: histogram to demostrate value distribution
+- TODO: GPU-friendly method of visualizing entropy and variance in
+
 
 ### Parallelized Random Number Generation in the Browser
 
@@ -102,6 +100,14 @@ calculation, there would be noticeible shifts in the output. While the
 problems with this approach are much more difficult to detect with the
 human eye, problems with PRNG's rendered to a texture could leave a
 discernible color shift.
+
+This PRNG doesn't provides neither **Backtracking Resistance** nor
+**Prediction Resistance**, so it's definitely not suitable for security
+applications. It's efficency implies it may be more appropriate for
+other applications dependent on large quantities of random numbers, such
+as physics, lighting, finance and algorithms using monte carlo. However,
+since it lacks prediction resistence, it would seem to have deficient
+quality in randomness. The quality would be greatly improved by
 
 However, this isn't really a PRNG, as it's randomness depends solely
 on the seeded randoms from javascript's `Math.random()` function,
@@ -237,8 +243,6 @@ psychologically speaking.
   }</script>
 
 <script type="x-shader/x-fragment" id="shaderStats">
-  //uniform int neighborhoodSize;
-
   uniform float showVariables;
 
   void main() {
@@ -251,7 +255,6 @@ psychologically speaking.
         // a neighborhood w/ ball indexed down & right is mostly equivalent
         vec2 texelCoords = fract((gl_FragCoord.xy + vec2(i,j)) /resolution.xy);
         texels[i * ballSize + j] = texture2D(varRandom, texelCoords);
-
         texelSum = texelSum + texels[i * ballSize + j];
       }
     }
@@ -270,6 +273,7 @@ psychologically speaking.
     // - i explored this because i didn't understand how Assembler could process/encode
     //   values *and* instructions in total binary. this was before i had ever
     //   programmed.
+    // - OMFG WHY ARE BITMASKING OPS NOT INCLUDED IN WEBGL?
     gl_FragColor = vec4(0.0, 0.0, 0.0, 0.0);
 
     if (showX) {
@@ -282,36 +286,62 @@ psychologically speaking.
     if (showY) {
       gl_FragColor.y = texel.y;
     } else {
-      //gl_FragColor.x = 0.5;
+      //gl_FragColor.y = 0.5;
     }
 
     if (showZ) {
       gl_FragColor.z = texel.z;
     } else {
-      //gl_FragColor.x = 0.5;
+      //gl_FragColor.z = 0.5;
     }
 
     gl_FragColor.w = texel.w;
   }</script>
 
-<script type="x-shader/x-fragment" id="computeShaderRandomsNoMutate">
+<script type="x-shader/x-fragment" id="shaderEntropyBool">
   void main() {
-    vec2 uv = gl_FragCoord.xy / resolution.xy;
-    float color = uv.x * uv.y / resolution.x * resolution.y;
-    //gl_FragColor = vec4(color, 1.0 - color, 63, 1);
-    vec4 colorTransform = vec4(color, 1.0 - color, 63, 0.75);
-    //gl_FragColor = abs(colorTransform - texture2D(varRandom, uv));
-    gl_FragColor = texture2D(varRandom, uv);
-  }</script>
+    // should return the 2d texture coord,
+    // - but scaled properly for the 3rd dimension
+    vec2 texelUV = gl_FragCoord.xy / resolution.xy;
+    vec4 texel = floor(texture2D(varRandom, texelUV) * entropyDistEventOutcomes);
 
-<script type="x-shader/x-fragment" id="computeShaderRandomsStrobe">
+    vec2 res = vec2(entropyDistEventOutcomes * resolution.x, resolution.y);
+    vec2 uv = gl_FragCoord.xy / res;
+    float xzOffset = fract(uv.x * entropyDistEventOutcomes);
+    //float xzOffset = float(int(u.x * entropyDistEventOutcomes) / int(entropyDistEventOutcomes)), entropyDistEventOutcomes);
+
+    // there should be one pixel set to 'true' per x-z segment
+    gl_FragColor.x = (xzOffset == texel.x ? 1.0 : 0.0);
+    gl_FragColor.y = (xzOffset == texel.y ? 1.0 : 0.0);
+    gl_FragColor.z = (xzOffset == texel.z ? 1.0 : 0.0);
+
+    //gl_FragColor.x = xzOffset;
+    gl_FragColor.w = 1.0;
+    //gl_FragColor = vec4(texel.xyz, 0.0);
+    //gl_FragColor = vec4(fract(uv), 0.0, 0.0);
+    //vec4 texels[];
+  }
+</script>
+
+
+<script type="x-shader/x-fragment" id="shaderEntropyDist">
   void main() {
-    vec2 uv = gl_FragCoord.xy / resolution.xy;
-    float color = uv.x * uv.y / 256.0 * 256.0;
-    //gl_FragColor = vec4(color, 1.0 - color, 63, 1);
-    vec4 colorTransform = vec4(color, 1.0 - color, 63, 1);
-    gl_FragColor = abs(colorTransform - texture2D(varRandom, uv));
-  }</script>
+    gl_FragColor = vec4(0.0, 0.0, 0.0, 0.0);
+  }
+</script>
+
+<script type="x-shader/x-fragment" id="shaderEntropy">
+  uniform float showVariables;
+
+  void main() {
+    vec2 res = vec2(entropyDistEventOutcomes * resolution.x, resolution.y);
+    vec2 uv = gl_FragCoord.xy / res;
+
+    gl_FragColor = vec4(uv, 0.0, 0.0);
+    //gl_FragColor = vec4(0.0, 0.0, 0.0, 0.0);
+  }
+</script>
+
 
 ### The Fract() Function: Floats Zero through One
 
