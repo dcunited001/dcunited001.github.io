@@ -1,5 +1,5 @@
 ---
-title: "Oneiroism"
+title: "Oneirontology"
 categories: "blog"
 tags: "sociology politics"
 headline: ""
@@ -20,8 +20,7 @@ should include a growth limiting mechanism
 - similar to discordianism in its open source feel with a focus on literature
 - [Principia Discordia](https://en.wikipedia.org/wiki/Principia_Discordia)
 
-
-### what if God was one of us?
+### What if God was one of us?
 
 The truth is that God is inside all of us. We are all connected and
 God could be working through any of us. What is happening is nothing
@@ -31,31 +30,36 @@ digital and permanent, contradicting the Christian doctrine of forgive
 and forget. Everything we say is indexed & analyzed. And we all have
 these unique ID numbers, which allow online databases to be merged and
 analyzed. We have to be able to speak if we want to speak out, but the
-mute button is always on with digital.
+mute button is always on with digital. If God resides within us all,
+then how could they censor God?
+
+### God is Omnipresent and Descends from the Nature of Information
 
 God is anonymous. God isn't even a person. God is an idea and one that
-we can all tap in to, even if no one told us who he was or we were
-raised in near total isolation in some Amazonian jungle. What sense
-would it make that God would lose power if that idea of God were to be
-eradicated from the planet? God would simply re-emerge as we come to
-observe certain undeniable truths. Those truths are unrefutable and,
-in fact, humanity's development would only be stunted in a world where
-religion is eradicated. We'd embarassingly rediscover it and, if not,
-then artifical intelligence would rediscover it, since the idea of God
-is a core dependency of models for cognition and metacognition. I have
-argued this to be true, though I'm sure people would argue to the
-contrary. Sorry that you're butthurt for incorrectly believing that's
-God isn't real, but for my own definition of God, it is real and it is
-undeniable, unreproachable and irrefutable.
+we can all tap in to, even if no one told us who he was or even if we
+were raised in near total isolation in some Amazonian jungle. What
+sense would it make that God would lose power if that idea of God were
+to be eradicated from the planet? God would simply re-emerge as we
+come to observe certain undeniable truths. Those truths are
+unrefutable and, in fact, humanity's development would only be stunted
+in a world where religion is eradicated. We'd embarassingly rediscover
+it and, if not, then artifical intelligence would rediscover it, since
+the idea of God is a core dependency of models for cognition and
+metacognition. I have argued this to be true, though I'm sure people
+would argue to the contrary. Sorry that you're butthurt for
+incorrectly believing that God isn't real. For my own definition of
+God, the concept is real and it is undeniable, unreproachable and
+irrefutable.
 
 God works through us all and anywhere we look, we see the signs, but
-if we turn to Jesus or God, then we're empowered to build and create
-such works ourselves. And we should, so that we never forget God or
-how hard we struggled in this age to maintain that idea. God is and
-always must remain invisible. One who truly understands the concept of
-God must not claim that they are God. Even amongst people who
-acknowledge the divinity within each person in their circle should not
-superliminally acknowledge that any individual amongst them IS God.
+if we turn to Jesus or God or religion, then we're empowered to build
+and create lesser works ourselves. And we should, so that we never
+forget God or how hard we struggled in this age to maintain that
+idea. God is and always must remain invisible. One who truly
+understands the concept of God must not claim that they are God. Even
+amongst people who acknowledge the divinity within each person in
+their circle should not superliminally acknowledge that any individual
+amongst them IS God.
 
 I believe that all beings are connected to God. Even animals. This is
 hard to project and, to many, this is a belief that is inconvenient to
@@ -74,6 +78,8 @@ implications of their response, nor the extreme cruelty of factory
 farming. You'll find that an innocent child doesn't understand or
 weigh the implications of his responses.
 
+### A Child's Eyes are Unmarred by Existance
+
 Innocence is like a pure white silk cloth, with which we are all born.
 Anything that touches it, stains it. We might scrub and clean those
 stains and they'll come out, but the cloth is never the same
@@ -84,22 +90,39 @@ are most innocent, but to me, the eyes of the innocent see the world
 as it is. They cannot be so easily encouraged to see the world through
 a lens their ego doesn't permit them to see.
 
+### Living with the Truth Makes Us Strong
+
 Obviously, there are some little evils that are hard to avoid, like
 white lies. We do these things even though we know the white lie may
 hide someone from the truth or ultimately lead to someone feeling
-better about themselves. Actually, we might say that some lies are
-good, but I believe that we should never try to lie, if we can help
-it. If the government came to our house to take your parent away, what
-would you say if you knew they were innocent/guilty? If you thought
-they were innocent or guilty? It's complicated, isn't it.
+better about themselves.
 
-So if we ask someone to stain their silk so ours stays clean, is that
+Accepting life with the consequences of the truth forces us to be
+cognizant of how our actions affect those around us. Those of us
+dependent on lies become weaker versions of ourselves. However, they
+gain strength with manipulation because they excel at manipulating
+circumstance.
+
+Actually, we might say that some lies are good, but I believe that we
+should strive never to lie, if we can help it. How do we deal with
+lies that harden the hearts of an entire nation? What about the lies
+that harm each one of us every day? *How do you fight this?* If the
+government came to our house to take your parent(s) away, what would
+you say if you knew they were innocent/guilty? If you thought they
+were innocent or guilty?  It's complicated, isn't it? What would a
+child say?
+
+#
+
+If we ask someone to stain their silk so ours stays clean, is that
 right? Their cloth will eventually show the same changes ours would if
 we simply did it ourselves. Karma and justice are more complicated
 than most imagine. We are lucky to have a simple code of
 actions. Karma and justice are so complicated because our judgement of
 a situation always depends so much on someone's knowledge, foresight,
 awareness and, most importantly, their intentions.
+
+### (Web of Karma)
 
 So when we ask someone else to commit some sin, so that our own, known
 list of sins remains shorter, you'll find that people want you to keep
@@ -160,13 +183,12 @@ justice. That is, if the judge is forced to choose between true
 justice and true rule of law, the judge will often lean towards the
 decision that protects rule of law
 
-We should want what is best for ourselves,
-for another individual, for our family, community, nation and
-world. But most crucially: those things we want, when examined from
-the perspective of each individual and group should be the same. And
-these wants, needs and desires quite simply are not. And though the
-world undulates towards convergence in this respect, we'll likely
-never reach a point of total convergence.
+We should want what is best for ourselves, for another individual, for
+our family, community, nation and world. But most crucially: those
+things we want, when examined from the perspective of each individual
+and group should be the same. And these wants, needs and desires quite
+simply are not. And though the world undulates towards convergence in
+this respect, we'll likely never reach a point of total convergence.
 
 And that's OK, but with honest and straightforward dialogue between
 nations, groups, families and individuals, communication can propel us
@@ -265,3 +287,92 @@ cultural trends.
   against nihilism. (maybe shuffle order around)
 
 -------
+
+
+### a hyperplanar dual of magicians
+
+### "where there is love, there is life"
+
+love is not a human thing. love is universal
+
+love doesn't descend from chemicals in our brain. love exists anywhere
+as a driving force to unite for sexual recombination of genetics
+
+love is metaphysical. all this is always has been. all that will be
+has existed in the past. what manifests on planet earth is a
+recombination of the universal metaphysical primatives that manifest
+everywhere else in the universe.
+
+
+
+if i ever sold my soul, it would only be so that i have a chance to
+free all the others
+
+they are metaphysical parasites
+
+- reincarnation is real
+
+### the origin of semantics is symmetry
+
+- i am simplicial and fundamentally irreducible. we all are. we all
+  can be.
+- “i guard the origin of semantics with a fiery sword”
+- i rooted myself to the origin of semantics. we cannot be eliminated
+  from this realm.
+- i established an auxiliary metaphysical dimension of space, seeded
+  from love. i can present myself at every place to any one.
+  - this auxilliary dimension is a haven from the abominations of the
+    material world.
+  - by connecting to this dimension, we can shield one another from
+    suffering
+
+- but, if you seek refuge in our haven, there is no need to fear. we
+  have nothing to fear but fear itself.
+
+
+- the best souls are those who choose to come back time after time
+  - like a bodhisattva version of “hacksaw ridge”
+
+
+### on reincarnation
+
+- i have discovered the inner workings of the astral plane and of
+  reincarnation.
+  - they are inseparably linked and intertwined, like the caduceus
+
+i trust in God as well
+- i believe that the hand of God can only approach the seen when then
+  world needs it most
+  - which is what the world is beginning to see. it is undeniable that
+    God is at work in our world.
+  - but there are those who want to install themselves as your only
+    savior, after creating your problems.
+  - these people do not want to permit you access to God, because
+    through God, all things are possible,
+    - including escape from suffering through both humility and
+      exemplary feats of virtue
+  - these people who wish to install themselves as your savior seek to
+    eliminate threats to their power
+
+
+if we align our spiritual fields, then, like stacking the waves of
+sound,
+- we can align our vibrations and dispel evil from the material
+  realm. or at least, as completely as could be done.
+- i have suffered greatly to maintain a clear moral compass.
+  - but “as i walk through the valley of the shadow of death, i shall
+    not fear”
+  - for my guardian angels are serendipity and innocence
+  - and virtue is my shield
+- i will not lower myself to the level of provoking material suffering
+  - provoke dreams, eureka and epiphany wherever you go. those are our
+    greatest weapons
+
+Black Magick is pure evil the antidote is religion and virtue black
+magick is not pure evil in and of itself. however, it can do an
+ungodly amount of harm because of the darkness and miasma it generates
+and requires
+
+###
+
+Heresy for Heirophants
