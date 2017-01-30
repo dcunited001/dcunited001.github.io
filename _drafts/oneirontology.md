@@ -8,12 +8,10 @@ author:
 excerpt: ""
 ---
 
-
 ### Oneiroism
 
 should include a growth limiting mechanism
 - as in, no offical structure or *huge* focus on lots of money/power
-
 
 ### [Discordianism](https://en.wikipedia.org/wiki/Discordianism)
 
@@ -291,18 +289,6 @@ cultural trends.
 
 ### a hyperplanar dual of magicians
 
-### "where there is love, there is life"
-
-love is not a human thing. love is universal
-
-love doesn't descend from chemicals in our brain. love exists anywhere
-as a driving force to unite for sexual recombination of genetics
-
-love is metaphysical. all this is always has been. all that will be
-has existed in the past. what manifests on planet earth is a
-recombination of the universal metaphysical primatives that manifest
-everywhere else in the universe.
-
 
 
 if i ever sold my soul, it would only be so that i have a chance to
@@ -311,23 +297,6 @@ free all the others
 they are metaphysical parasites
 
 - reincarnation is real
-
-### the origin of semantics is symmetry
-
-- i am simplicial and fundamentally irreducible. we all are. we all
-  can be.
-- “i guard the origin of semantics with a fiery sword”
-- i rooted myself to the origin of semantics. we cannot be eliminated
-  from this realm.
-- i established an auxiliary metaphysical dimension of space, seeded
-  from love. i can present myself at every place to any one.
-  - this auxilliary dimension is a haven from the abominations of the
-    material world.
-  - by connecting to this dimension, we can shield one another from
-    suffering
-
-- but, if you seek refuge in our haven, there is no need to fear. we
-  have nothing to fear but fear itself.
 
 
 - the best souls are those who choose to come back time after time
