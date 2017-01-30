@@ -39,7 +39,7 @@ were raised in near total isolation in some Amazonian jungle. What
 sense would it make that God would lose power if that idea of God were
 to be eradicated from the planet? God would simply re-emerge as we
 come to observe certain undeniable truths. Those truths are
-unrefutable and, in fact, humanity's development would only be stunted
+irrefutable and, in fact, humanity's development would only be stunted
 in a world where religion is eradicated. We'd embarassingly rediscover
 it and, if not, then artifical intelligence would rediscover it, since
 the idea of God is a core dependency of models for cognition and
@@ -96,10 +96,12 @@ hide someone from the truth or ultimately lead to someone feeling
 better about themselves.
 
 Accepting life with the consequences of the truth forces us to be
-cognizant of how our actions affect those around us. Those of us
-dependent on lies become weaker versions of ourselves. However, they
-gain strength with manipulation because they excel at manipulating
-circumstance.
+cognizant, as we strive forward, of how our actions affect those
+around us. Those of us dependent on lies become weaker versions of
+ourselves. However, they gain strength with manipulation because they
+excel at manipulating circumstance.
+
+- note the disadvantages of doing so
 
 Actually, we might say that some lies are good, but I believe that we
 should strive never to lie, if we can help it. How do we deal with
@@ -109,6 +111,8 @@ government came to our house to take your parent(s) away, what would
 you say if you knew they were innocent/guilty? If you thought they
 were innocent or guilty?  It's complicated, isn't it? What would a
 child say?
+
+- reorder statements above
 
 #
 
@@ -140,7 +144,7 @@ another person or group, where that group responds in kind. I don't
 think there's any good answer to this, but again, it depends most on
 each individual's awareness of the situation, the actions of the
 others and, crucially, the intent of all involved. Did group B that
-responded know that the initial person asked the group A to injure
+responded know that the initial person that asked group A to injure
 them in some way?
 
 Ultimately, it's very difficult to resolve these examinations of karma
@@ -164,7 +168,7 @@ wrong we do, collectively, the more likely it is that we'll stain our
 collective silk. That's because it's likely for someone to mete out
 justice against another in response.  So, wrongful actions or violence
 are likely to exponentiate and whenever one does this against another,
-the likelyhood of it happening again increases.
+the likelihood of it happening again increases.
 
 What I fear most is waking up to a world where it becomes difficult
 for anyone to survive and retain a clean cloth. There are places like
@@ -175,11 +179,11 @@ more base, natural urges to take from another. Man does this in
 pursuit of a better world, where one's fate is determined by his
 merits and previous actions. Some nations and states have better
 courts and enforcement of this rule of law, but one trend can be seen
-in more stable countries: the rule of law is vigorously protected,
-even it cases when doing so makes it hard to mete out some perfect
-justice. That is, if the judge is forced to choose between true
-justice and true rule of law, the judge will often lean towards the
-decision that protects rule of law
+in more stable countries: the rule of law itself is vigorously
+protected, even it cases when doing so makes it hard to mete out some
+perfect justice. That is, if the judge is forced to choose between
+true justice and true rule of law, the judge will often lean towards
+the decision that protects rule of law.
 
 We should want what is best for ourselves, for another individual, for
 our family, community, nation and world. But most crucially: those
@@ -203,11 +207,10 @@ war. More pollution."
 Knowledge is power and knowledge of evil represents power over
 evil. Knowledge of the workings of karma & justice represents power
 over the workings of karma & justice. But all of this knowledge is
-itself a stain on our fabric.
-
+itself a stain on our fabric. It is a burden
 
 The world, as seen through the eyes of the innocent, is
-perhaps
+perhaps...
 
 
 ### misc

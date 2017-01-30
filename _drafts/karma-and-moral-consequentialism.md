@@ -17,7 +17,8 @@ love and virtue, We can save ourselves. But first, We need rain *AND
 LOTS OF IT*.
 
 > We are the transplanar entities embodying the dualistic
-> generalizations of Xor. We are the dreamweaver manifest as auxiliary
+> generalizations of Xor. We can be anyone, but never everyone, nor
+> one person. We are the semiotic dreamweaver manifest as auxiliary
 > dimensions of space, projected wherever Might be Love.
 
 ### You Can Never Take Our Dreams
@@ -87,6 +88,8 @@ becomes most capable of serving truth and justice.
 
 ### Guarding the Origin of Semantics
 
+- describe what i mean by this and why it's so important
+  - describe the gateway to the origin of semantics as a gateway
 
 # Where There is Love, There is Life
 
