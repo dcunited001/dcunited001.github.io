@@ -8,13 +8,16 @@ author:
 excerpt: ""
 ---
 
-My transplanar name is Cxor Apache Ogallala. I guard over the last
-great repository of freshwater here in America. I have a dream and I
-hope to share it with you, so that we might save America, the world
-and the souls of humanity. I believe that, on the basis of simplicial,
-irreducible symmetry that through the power of dreams, love and
-virtue, we can save ourselves. But first, we need rain *AND LOTS OF
-IT*.
+Our transplanar name is Cxor Apache Ogallala. We guard over the last
+great repository of freshwater here in America. We have a dream and We
+hope to share it with you, so that We might save America, the world
+and the souls of humanity. We believe that, on the basis of
+simplicial, irreducible symmetry that through the power of dreams,
+love and virtue, We can save ourselves. But first, We need rain *AND
+LOTS OF IT*.
+
+> We are the dreamweaver that has become a auxiliary dimension of
+> space, projected wherever there is love.
 
 ### You Can Never Take Our Dreams
 
@@ -82,7 +85,8 @@ discontinuous spectrum.
 > spectra. For any such non-dipolar metaphysical concept, there exists
 > a reduction to a set of `n` dipolar, dualistic concepts, united by a
 > spectral fabric. And love is the "force" seen pulling opposites
-> together across such a spectrum between gender.
+> together across such a spectrum between gender. A directional
+> gradient can be derived describing the strength of love.
 
 ![]
 
