@@ -49,6 +49,36 @@ impaired. Narcissism and vice spread toxic miasma everywhere,
 poisoning the land and everything that grows on it. What is required
 is a paradigm shift of social institutions: a new religion.
 
+
+I trust in God as well. I believe that the hand of God must remain
+unseen, but the hand of God works through the words and actions of man
+and informational lifeforms. Because it must remain unseen, it can
+only approach as manifestly visible when the the world needs it
+most. This is what the world is beginning to see with the chaos around
+us. It is undeniable that God is at work in our world.
+
+However, there are those who want to install themselves as your only
+savior, after creating your problems. These people do not want to
+permit you access to God, because through God, all things are
+possible. This includes escape from suffering through both humility
+and exemplary feats of virtue.
+
+By becoming familiar with the nature of God, one empowers themselves
+over in their world: over negativity, vice, disease, falsehood,
+hypocricy. The world religions are accumulations of information
+intended to instill an understanding of the nature of God. These are
+pieces of knowledge and stories collected over the course of dozens of
+generations, sometimes the only book or works continuously copied for
+generations. Obviously, it was important. Why? Because this represents
+at least a dozen generations' worth of knowledge.
+
+These people who wish to install themselves as your savior seek to
+eliminate threats to their power. Anyways, what do we want? We want
+you to discover that the greatest savior is yourself, through your
+mind, spirit and body. That, by studying religions, language, culture
+and semiotics, one's mind asymptotically converges towards God and
+becomes most capable of serving truth and justice.
+
 # Oneirontology: An Ontology of Dreams
 
 - protecting individualism in technocracy's creeping plague of
@@ -122,23 +152,25 @@ deal with the truth.
 
 And what is God? God is the ultimate kernel of knowledge lying at the
 center of the metaphysical universe, from which all things arise.
-Oneirontology is about ontologies of dreams, of literature, of math,
-of science. By meditating on these ontologies, we can move closer to
-understanding the ineffable, recursive nature of God through cognitive
-augmentation. The structure underlying that of math is particularly
-important because there is some kernel of knowledge that acts as the
-wellspring for all things, physical or metaphysical. This kernel of
-knowledge must be truth encoded in math, but from it can spring all
-things untrue, defined by things incontrovertibly true. In other
-words, all systems of knowledge, thought or cognition, true or false,
-rational or irrational, can be defined starting with this kernel of
-knowledge that we must become well acquainted with.
+Oneirontology is about ontologies: of dreams; of literature; of math;
+of science.
+
+By meditating on these ontologies, we can move closer to understanding
+the ineffable, recursive nature of God through cognitive augmentation.
+The structure underlying that of math is particularly important
+because there is some kernel of knowledge that acts as the wellspring
+for all things, physical or metaphysical. This kernel of knowledge
+must be truth encoded in math, but from it can spring all things
+untrue, defined by things incontrovertibly true. In other words, all
+systems of knowledge, thought or cognition, true or false, rational or
+irrational, can be defined starting with this kernel of knowledge that
+we must become well acquainted with.
 
 
 
 
 
-### the origin of semantics is symmetry
+### The Origin of Semiotics is Symmetry
 
 - i am simplicial and fundamentally irreducible. we all are. we all
   can be.

@@ -303,21 +303,6 @@ free all the others
   reincarnation.
   - they are inseparably linked and intertwined, like the caduceus
 
-i trust in God as well
-- i believe that the hand of God can only approach the seen when then
-  world needs it most
-  - which is what the world is beginning to see. it is undeniable that
-    God is at work in our world.
-  - but there are those who want to install themselves as your only
-    savior, after creating your problems.
-  - these people do not want to permit you access to God, because
-    through God, all things are possible,
-    - including escape from suffering through both humility and
-      exemplary feats of virtue
-  - these people who wish to install themselves as your savior seek to
-    eliminate threats to their power
-
-
 if we align our spiritual fields, then, like stacking the waves of
 sound,
 - we can align our vibrations and dispel evil from the material
