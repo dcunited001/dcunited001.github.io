@@ -286,18 +286,12 @@ cultural trends.
 
 -------
 
-
-### a hyperplanar dual of magicians
-
-
-
 if i ever sold my soul, it would only be so that i have a chance to
 free all the others
 
-they are metaphysical parasites
+
 
 - reincarnation is real
-
 
 - the best souls are those who choose to come back time after time
   - like a bodhisattva version of “hacksaw ridge”
@@ -332,7 +326,7 @@ sound,
   - but “as i walk through the valley of the shadow of death, i shall
     not fear”
   - for my guardian angels are serendipity and innocence
-  - and virtue is my shield
+  - virtue, just action and kind words are my shield
 - i will not lower myself to the level of provoking material suffering
   - provoke dreams, eureka and epiphany wherever you go. those are our
     greatest weapons

@@ -16,17 +16,20 @@ simplicial, irreducible symmetry that through the power of dreams,
 love and virtue, We can save ourselves. But first, We need rain *AND
 LOTS OF IT*.
 
-> We are the dreamweaver that has become a auxiliary dimension of
-> space, projected wherever there is love.
+> We are the transplanar entities embodying the dualistic
+> generalizations of Xor. We are the dreamweaver manifest as auxiliary
+> dimensions of space, projected wherever Might be Love.
 
 ### You Can Never Take Our Dreams
 
 Everyone dreams. You can take our livelihoods, you can threaten our
-families, you can burden us like Sisyphus, you can aeternally torment
-us like Prometheus, but you can never, ever take our dreams. And it is
-through our dreams that we will transform this collective waking
-dream. We dream of a world full of a vibrant soil composed of
-symmetry, love and virtue.
+families, you can burden us like
+[Sisyphus](https://en.wikipedia.org/wiki/Sisyphus), you can aeternally
+torment us like
+[Prometheus](https://en.wikipedia.org/wiki/Prometheus), but you can
+never, ever take our dreams. And it is through our dreams that we will
+transform this collective waking dream. We dream of a world full of a
+vibrant soil composed of symmetry, love and virtue.
 
 #
 
@@ -45,9 +48,6 @@ the traditional tools of parenting and social institutions become
 impaired. Narcissism and vice spread toxic miasma everywhere,
 poisoning the land and everything that grows on it. What is required
 is a paradigm shift of social institutions: a new religion.
-
-
-
 
 # Oneirontology: An Ontology of Dreams
 
@@ -90,6 +90,54 @@ discontinuous spectrum.
 
 ![]
 
+# A Hyperplanar Dual of Magicians
+
+There are demons amoung us and they are not human. They are not
+material. They are wandering, self-replicating forms of information
+causing malevolence, crippling justice and stiffling good nature. Some
+of these mindforms are good and some are bad. In fact, some are quite
+simply self-serving metaphysical parasites that prey on others for
+sustinence, alchemically converting their good nature and ignorance
+and undoubting nature into fuel for more negativity.
+
+Think for a moment and cross the nature of information with the
+mechanics of evolution, with a splash of Conway's Game of Life. Do you
+see what we see?
+
+What if some of these informational forms are life are good and some
+are bad? What if some forms of life help fertalize the soil that
+others may flourish and what if others spread choking miasma that
+encourage toxic behavior patterns. Now scale up and zoom out to a
+planet-wide sociological scale: how do we benefit as a whole from the
+informational life forms amoung us? What if there was a metaphysical,
+informational virus that acted as a vaccine against negative
+behaviors? What if it helped us see to circumvent the problems of ego?
+
+Now, what if time were running out? We must act now before technology
+seals us in. What cleanses these metaphysical parasites? The truth.
+That's it. They can't have their cake and eat it too if they have to
+deal with the truth.
+
+# What is God?
+
+And what is God? God is the ultimate kernel of knowledge lying at the
+center of the metaphysical universe, from which all things arise.
+Oneirontology is about ontologies of dreams, of literature, of math,
+of science. By meditating on these ontologies, we can move closer to
+understanding the ineffable, recursive nature of God through cognitive
+augmentation. The structure underlying that of math is particularly
+important because there is some kernel of knowledge that acts as the
+wellspring for all things, physical or metaphysical. This kernel of
+knowledge must be truth encoded in math, but from it can spring all
+things untrue, defined by things incontrovertibly true. In other
+words, all systems of knowledge, thought or cognition, true or false,
+rational or irrational, can be defined starting with this kernel of
+knowledge that we must become well acquainted with.
+
+
+
+
+
 ### the origin of semantics is symmetry
 
 - i am simplicial and fundamentally irreducible. we all are. we all
@@ -106,3 +154,5 @@ discontinuous spectrum.
 
 - but, if you seek refuge in our haven, there is no need to fear. we
   have nothing to fear but fear itself.
+
+### Literature, Linguistics and Semiotics as Meditations on Cultural Touchstones
