@@ -13,34 +13,91 @@ ghost in the shell style vid
 https://www.youtube.com/watch?v=gXTnl1FVFBw
 
 ### betrayal
+
+
 ### compassion
+
+
 ### deception
+
+
 ### fame
+
+
 ### fate
+
+
 ### biases
+
+
 ### paradox
+
+
 ### art
+
+
 ### war
+
+
 ### love
+
+
 ### mortality
+
+
 ### idealism
+
+
 ### wisdom
+
+
 ### memory
+
+
 ### freedom/salvation
+
+
 ### philosophy
+
+
 ### history
+
+
 ### self-discovery
+
+
 ### myth
+
+
 ### power
+
+
 ### misunderstanding
+
+
 ### temptation
+
+
 ### fear
+
+
 ### misc
+
+
 ### leadership
+
+
 ### sacrifice
+
+
 ### trust
+
+
 ### isolation
+
+
 ### justice/karma
+
 
 brief discussion on searching for the right medium
 

@@ -427,3 +427,14 @@ SDNT
 SDNTK
 SDT
 TCO
+
+
+
+### Gangstalking
+
+Gangstalking is weaponized cognitive behavioral therapy, subsidized by
+obamacare & utilized to undermine life needs of political dissidents,
+disempowering them and creating occupational injustice.
+
+There is widespread #PsychologicalWarfare going on in America, RIGHT
+NOW... AGAINST OUR OWN CITIZENS!!!

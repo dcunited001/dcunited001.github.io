@@ -32,7 +32,7 @@ never, ever take our dreams. And it is through our dreams that we will
 transform this collective waking dream. We dream of a world full of a
 vibrant soil composed of symmetry, love and virtue.
 
-#
+# Humanity's Revolution of Empowerment
 
 In this world, we can all grow and our revolution is a revolution of
 empowerment.

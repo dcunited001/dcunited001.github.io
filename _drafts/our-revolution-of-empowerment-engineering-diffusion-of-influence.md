@@ -125,7 +125,7 @@ of social engineering projects.
     - how do we get people to embrace educational opportunities? how
       do we prevent gradual aversion of populace to education during
       our approach towards the singularity?
-    - advances in education, coupled with changes to society, are the
+    - advances in technology, coupled with changes to society, are the
       primary reason i'm excited about this
   - one major tool (which intertwines with education)
     - cognitive development via the arts.

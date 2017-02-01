@@ -274,7 +274,7 @@ companies like Facebook or Google.
 ### Comparison with Ghandi and Colonial India under Britain
 
 the forces that we're fighting are using the system against us. In
-India, Britain controlled the market for Salt. This was before
+India, Britain controlled the market for salt. This was before
 widespread refrigeration, even in the developed world.
 - britain had a monopoly on the Salt market in India
   - and there were high taxes on it
@@ -316,10 +316,11 @@ widespread refrigeration, even in the developed world.
     - those who marched 200+ miles with him would remember that for
       the rest of their life.
     - thousands of people marching together from various regions
-      allowed those people to form a network of people who would
+      allowed those people to form a network of dissenters who would
       communicate to aid the resistance
     - and it was so simple. how can one make the salt of the earth
-      illegal? how could that possibly be illegal
+      illegal? how could that possibly be illegal?
+
     - also, it wasn't really illegal until these people got to the
       Arabian Sea. That is, for the entire march, they were gaining
       momentum and it wasn't until they got there that they were
@@ -329,9 +330,17 @@ widespread refrigeration, even in the developed world.
   for a cause. somehow, he managed to build this network and it takes
   a very special kind of person to intuitively understand how this is
   done.
-  - and be sure: people around the world who help implement in
-    systemic suppression know this!!
+  - and be sure: people around the world who help implement systemic
+    suppression know this!! So the people trying to discourage dissent
+    tailor their tactics to sniff out organization and crush it before
+    it gains momentum. So the key is figuring out how to find a
+    message that resonates with peoples hearts and making it go viral
 
+I believe Ghandi was conscientious & self-aware of his manipulation of
+social networking. If I'm correct, then Ghandi would have started 200
+or so miles out from the Arabian Sea and, to maximize the effect of
+the salt march, he would have sent people north, northwest, south and
+southwest at the start of his march to gather as many people as possible.
 
 =============
 
