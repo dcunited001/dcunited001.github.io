@@ -198,7 +198,7 @@ places.
 
 #### &#x2605; [Death of Creativity](/posts/2016-05-17-the-death-of-creativity.html)
 
-# &#x16DD; [Oneiroism](#oneiroism) &#x16DD;
+# &#x16DD; [Oneirontology](#oneirontology) &#x16DD;
 
 When people no longer need to work and when computers are more capable
 of creation than people, the Singularity will threaten to destroy the
@@ -206,11 +206,11 @@ incentivization structure that motivates people towards action. This
 kind of techno-nihilism could end up being corrosive.
 
 To help counter this, I've been thinking about putting together a kind
-of quasi-religion.  It's called oneiroism from the wordstem *oneiro*,
-which implies dreaming. Perhaps I specify that Oneirism is something
-more along the lines of philosophy in practice than a religion.
-Another idea would be for augmented self-improvement through
-cognition, as I've outlined in my
+of quasi-religion.  It's called Oneirontology from the wordstem
+*Oneiro*, which implies dreaming. Perhaps I specify that Oneirism is
+something more along the lines of philosophy in practice than a
+religion.  Another idea would be for augmented self-improvement
+through cognition, as I've outlined in my
 [Directive Cognitive Expansion](/posts/2015-08-26-epistemology-cognition-and-category-theory-part-three.html)
 article. The idea there is to empower people by training them to use
 their minds through art, science and meditation.
