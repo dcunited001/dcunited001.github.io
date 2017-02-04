@@ -593,7 +593,7 @@ things harder for me. In other words, their cost function is not
 optimized on my success, BUT ON MY FAILURE! Both in the short-term and
 long-term!
 
-That sounds !@#$'ing crazy! But when, given hundreds of decision
+That sounds !@#$'ing crazy! But when, given hundreds of decisionx
 points, when I gauge the impact and intention behind their actions
 and, most crucially, the alternative available words/actions, it
 becomes clear: this person or this group does not care about me. Over

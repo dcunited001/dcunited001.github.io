@@ -600,3 +600,36 @@ equilibriums:
   - "what A thinks that B thinks about what A thinks of C ..."
 
 TODO: notes on social behavior & game theory & laplacian?
+
+
+### "Fighting Shadows" or Defending Against "Hall of Mirrors"
+
+- when a manipulative opponent has gained an advantageous foothold
+  around you, they want to ensure that your [group's] understanding of
+  the situation remains sufficiently dissociated from the truth.
+  - therefore they will lie, even when they do not need to, so that
+    you [and your group's] understanding of the situation retains a
+    shape that permits the adversary to understand how you will react
+    in situations with similar metatypes
+  - they want to know, from a perspective of type theory: in similar
+    types of situations, how will you respond
+  - the whole point in surrounding you with a "Hall of Mirrors" is to
+    surround you with threat-like scenarios, each presenting you with
+    choices to respond.
+    - the people orchestrating manipulation around you will seek to
+      keep you
+      - (1) predictable and
+      - (2) deceived
+        - by gluing (from a functional/compositional math perspective)
+          these perceived threats to fallacious causes that are
+          sufficiently explicable
+        - this way, the manipulative adversary can dupe you into
+          acting against a quantifyable number of threats that they
+          are testing you with
+          - connection to metatype: they will goad you into acting
+            against any perceived threat, so that they know how likely
+            you are to act against the true culprits if you begin to
+            understand the truth of the situation
+          - they do this to goad you into displaying a measureable
+            will to stand up for yourself, while convincing you to
+            waste time fighting shadows in a hall of mirrors.
