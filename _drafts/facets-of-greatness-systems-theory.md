@@ -633,3 +633,6 @@ TODO: notes on social behavior & game theory & laplacian?
           - they do this to goad you into displaying a measureable
             will to stand up for yourself, while convincing you to
             waste time fighting shadows in a hall of mirrors.
+
+- magick: the manifestly algorithmic use of deceit to quantify the
+  beliefs, behaviors, information-penetration and actions of others
