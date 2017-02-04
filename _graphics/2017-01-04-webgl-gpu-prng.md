@@ -300,25 +300,30 @@ psychologically speaking.
 
 <script type="x-shader/x-fragment" id="shaderEntropyBool">
   void main() {
+
     // should return the 2d texture coord,
     // - but scaled properly for the 3rd dimension
+    float numEvents = entropyDistEventOutcomes;
+    numEvents = 4.0;
+
     vec2 texelUV = gl_FragCoord.xy / resolution.xy;
-    vec4 texel = floor(texture2D(varRandom, texelUV) * entropyDistEventOutcomes);
+    vec4 texel = texture2D(varRandom, texelUV);
+    texel = vec4(floor(texel * numEvents).xyz, texel.w);
 
     vec2 res = vec2(entropyDistEventOutcomes * resolution.x, resolution.y);
     vec2 uv = gl_FragCoord.xy / res;
-    float xzOffset = fract(uv.x * entropyDistEventOutcomes);
-    //float xzOffset = float(int(u.x * entropyDistEventOutcomes) / int(entropyDistEventOutcomes)), entropyDistEventOutcomes);
+    //float xzOffset = fract(uv.x * numEvents);
+    float xzOffset = fract(uv.x * numEvents);
+
+    //float xzOffset = float(int(u.x * numEvents) / int(numEvents)), numEvents);
 
     // there should be one pixel set to 'true' per x-z segment
     gl_FragColor.x = (xzOffset == texel.x ? 1.0 : 0.0);
     gl_FragColor.y = (xzOffset == texel.y ? 1.0 : 0.0);
     gl_FragColor.z = (xzOffset == texel.z ? 1.0 : 0.0);
 
-    //gl_FragColor.x = xzOffset;
+    gl_FragColor.x = xzOffset;
     gl_FragColor.w = 1.0;
-    //gl_FragColor = vec4(texel.xyz, 0.0);
-    //gl_FragColor = vec4(fract(uv), 0.0, 0.0);
     //vec4 texels[];
   }
 </script>

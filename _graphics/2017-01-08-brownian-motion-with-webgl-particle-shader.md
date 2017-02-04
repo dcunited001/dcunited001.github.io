@@ -76,7 +76,11 @@ more flexibility later on.
   uniform float deltaT;
 
   void main() {
+    vec uv = (gl_FragCoord.xy / resolution.xy);
 
+
+
+    gl_FragColor
   }
 </script>
 
