@@ -16,6 +16,28 @@ everyone knows it, but ... it's OK?
 ---
 
 
+- There will never be another case that exhibits a stronger propensity
+  for calling the national security apparatus to account than my own
+  life.
+  - therefore, this sets a particular threshhold of urgency required
+    to force the national security apparatus to be publicly accountable
+    for its actions.
+    - if my case, whatever it is and however long it's be brewing, is
+      allowed to go through without forcing the national security
+      apparatus to be accountable for setting all this bullshit up,
+      then it sets an abysmal threshold: THE HOMESEC APPARATUS WILL IN
+      EFFECT, NEVER BE FORCED TO BE HELD ACCOUNTABLE IN THE FUTURE
+    - this is because you can guarantee that America will NEVER have
+      another case that so perfectly exemplifies the putrefying level
+      of bullshit kangaroo court antics that the national security
+      apparatus has exemplified with mine.
+- America, you should be pissed.
+
+
+==========
+
+In tragically sardonic tone....
+
 Hey what's your favorite #Genocide joke?
 
 Have you heard about the one where #HiliaryClinton, #DonaldTrump and
