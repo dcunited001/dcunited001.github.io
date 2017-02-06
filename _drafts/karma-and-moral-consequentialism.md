@@ -36,16 +36,38 @@ vibrant soil composed of symmetry, love and virtue.
 # [Humanity's Revolution of Empowerment](#humanitys-revolution-of-empowerment)
 
 In this world, we can all grow and our revolution is a revolution of
-empowerment.
+empowerment. We should turn inwards for our revolution. We should turn
+inwards and conquer inner space, rather than to seek solutions
+outside.  We need to conquer the negativity in our hearts that leads
+to problems in the world. Everything good and everything evil arises
+from our hearts and minds. Emotions, thoughts, words, actions, rigid
+beliefs. It comes from our hearts first.
+
+If we survive the next 100 years, we'll survive for 10,000
+years. Humanity has enough problems given our current circumstances
+and possibility of catastrophe in the near future...  Why should we
+permit conflict to burden us more?! If we need the best aspects of the
+human condition to inspire us through this next century, should we
+continue to sow the worst seeds of human behavior? Those aspects which
+are fallible at best and malevolent when unchecked?
 
 <a name="oneirontology-ontologies-of-dreams" />
 
 ### [Oneirontology: Ontologies of Dreams](#oneirontology-ontologies-of-dreams)
 
-- we are healers of mind, body and spirit. we seek to magnify the
-  capabilities of others towards the attainment of our collective
-  dreams. we seek to protect others whose capacity for achieving their
-  dreams has been impaired.
+No. We want to sow the seeds of virtue in a soil that foments
+fruition. In pursuit of this, humanity needs to identify those of us
+who can heal the social fabric and restore its natural providence. So,
+therefore, Oneironauts are communitarian healers of mind, body and
+spirit. We seek to magnify the capabilities of others towards the
+attainment of our collective dreams. We identify the strength of
+societies dreams through an analytical comparison of ontological
+perspectives on our collective dreams. Therefore, we must seek to
+understand the desires, pains, urges and needs of others in an attempt
+to measure their dreams. Every religion needs a mission and
+Oneirontology's is to protect & empower others, espeicially those
+whose capacity for achieving their dreams has been impaired.
+
 - protecting individualism in technocracy's creeping plague of
   dehumanizing nihilism.
 
@@ -57,6 +79,21 @@ empowerment.
   - describe the gateway to the origin of semantics as a gateway
   - what does power over the origin of semiotics confer to a group
     - this power transcends time itself
+
+- describe the nature of semiotics as the truth model of knowledge
+  below the surface of language, like a set of metaphysical leylines,
+  the origin of which is symmetry.
+  - without symmetry, nearly nothing else is defined.
+  - with symmetry comes measure, enumeration and stratification of the
+    dissimilar, which is where all the combinatorial variations of
+    everything in life come from.
+  - but a limiting condition of the dissimilar is that it all shares
+    the structure of this kernel. this is a core dependency of all
+    that is metaphysical. therefore, at the very core of the universe,
+    we are all intrinsically linked moreso to the traits we share than
+    that which makes us different. similarly, it is what is different
+    that makes us stronger as a whole. our differences are a kind of
+    self-reinforcing cultural defense.
 
 ### [The Origin of Semiotics is Symmetry](#the-origin-of-semiotics-is-symmetry)
 
