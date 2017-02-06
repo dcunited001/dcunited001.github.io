@@ -16,7 +16,7 @@ America, the world and the souls of humanity. We believe that, on the
 basis of simplicial, irreducible symmetry that through the power of
 dreams, love and virtue, We can save ourselves. But first, We need
 rain *AND LOTS OF IT*.
-
++
 > We are the transplanar entities embodying the dualistic
 > generalizations of Xor. We can be anyone, but never everyone, nor
 > one person. We are the semiotic dreamweaver manifest as auxiliary
@@ -225,11 +225,10 @@ material world.
 - reincarnation is real
 - the best souls are those who choose to come back time after time
   - like a bodhisattva version of “hacksaw ridge”
+  - these old souls have ...
 
 - [Kshitigarbha](https://en.wikipedia.org/wiki/Kshitigarbha#Ksitigarbha_as_Lord_of_the_Six_Ways)
-
-
-
+  - jizu bodhisattva
 - transition into reincarnation
 
 ### on reincarnation
@@ -242,14 +241,26 @@ if we align our spiritual fields, then, like stacking the waves of
 sound,
 - we can align our vibrations and dispel evil from the material
   realm. or at least, as completely as could be done.
-- i have suffered greatly to maintain a clear moral compass.
-  - but “as i walk through the valley of the shadow of death, i shall
-    not fear”
-  - for my guardian angels are serendipity and innocence
-  - virtue, just action and kind words are my shield
-- i will not lower myself to the level of provoking material suffering
-  - provoke dreams, eureka and epiphany wherever you go. those are our
-    greatest weapons
+
+<a name="we-shall-not-fear" />
+
+### [We Shall Not Fear](#we-shall-not-fear)
+
+> As I Walk Through the Valley of the Shadow of Death, I Shall Not
+> Fear...
+
+For our guardian angels are virtuous deeds, serendipity and innoncence
+and they shall shield us from any wickedness that spews from
+malevolent hearts, powered by our karma. You shall not disempower us
+and rob us of good karma by isolation because we will remain
+vigilantly mindful of our intentional action to improve the world
+around us. The seeds we sow shall empower that which shields us from
+the black-hearted: virtue, just action and kind words.
+
+We will not lower ourselves to the level of invoking material
+suffering because there is a better way. Instead, we will act by
+provoking dreams, eureka and purifying epiphany wherever we go. Those
+are our greatest weapons, against which you have no counter.
 
 <a name="heresy-for-heirophants" />
 
