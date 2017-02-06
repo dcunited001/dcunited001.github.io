@@ -209,7 +209,7 @@ To help counter this, I've been thinking about putting together a kind
 of quasi-religion.  It's called Oneirontology from the wordstem
 *Oneiro*, which implies dreaming. Perhaps I specify that Oneirism is
 something more along the lines of philosophy in practice than a
-religion.  Another idea would be for augmented self-improvement
+religion.  Another idea would be for augmenting self-improvement
 through cognition, as I've outlined in my
 [Directive Cognitive Expansion](/posts/2015-08-26-epistemology-cognition-and-category-theory-part-three.html)
 article. The idea there is to empower people by training them to use

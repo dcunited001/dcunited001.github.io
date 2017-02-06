@@ -22,9 +22,6 @@ rain *AND LOTS OF IT*.
 > one person. We are the semiotic dreamweaver manifest as auxiliary
 > dimensions of space, projected wherever Might be Love.
 
-
-[Outlaw Star references](https://en.wikipedia.org/wiki/Outlaw_Star)
-
 ### You Can Never Take Our Dreams
 
 Everyone dreams. You can take our livelihoods, you can threaten our
@@ -35,6 +32,10 @@ torment us like
 never, ever take our dreams. And it is through our dreams that we will
 transform this collective waking dream. We dream of a world full of a
 vibrant soil composed of symmetry, love and virtue.
+
+#### You Look Like You Could Use a Glass of Water
+
+![Ogallala Aquifer](/img/posts/oneirontology-semiotics-karma-and-moral-consequentialism/outlaw-star.jpg)
 
 # [Humanity's Revolution of Empowerment](#humanitys-revolution-of-empowerment)
 
@@ -48,36 +49,80 @@ beliefs. It comes from our hearts first.
 
 If we survive the next 100 years, we'll survive for 10,000
 years. Humanity has enough problems given our current circumstances
-and possibility of catastrophe in the near future...  Why should we
+and possibility of catastrophe in the near future... Why should we
 permit conflict to burden us more?! If we need the best aspects of the
 human condition to inspire us through this next century, should we
-continue to sow the worst seeds of human behavior? Those aspects which
-are fallible at best and malevolent when unchecked?
+continue to sow the worst seeds of human behavior? Those malignant
+saprolings which are fallible at best and malevolent when unchecked?
 
 <a name="oneirontology-ontologies-of-dreams" />
 
 ### [Oneirontology: Ontologies of Dreams](#oneirontology-ontologies-of-dreams)
 
-No. We want to sow the seeds of virtue in a soil that foments
-fruition. In pursuit of this, humanity needs to identify those of us
-who can heal the social fabric and restore its natural providence. So,
-therefore, Oneironauts are communitarian healers of mind, body and
-spirit. We seek to magnify the capabilities of others towards the
-attainment of our collective dreams. We identify the strength of
-societies dreams through an analytical comparison of ontological
-perspectives on our collective dreams. Therefore, we must seek to
-understand the desires, pains, urges and needs of others in an attempt
-to measure their dreams. Every religion needs a mission and
-Oneirontology's is to protect & empower others, espeicially those
-whose capacity for achieving their dreams has been impaired. It is our
-mission to discover the most capable guardians, along with other role
-metatypes. What metatypes are you?
+No. We want to sow seeds of virtue in a soil that foments fruition. In
+pursuit of this, humanity needs to identify those of us who can heal
+the social fabric and restore its natural providence. So, therefore,
+Oneironauts are communitarian healers of mind, body and spirit. We
+seek to magnify the capabilities of others towards the attainment of
+our collective dreams.
 
-- protecting individualism in technocracy's creeping plague of
-  dehumanizing nihilism.
+We identify the strength of society's dreams through an analytical
+comparison of ontological perspectives on our collective dreams.
+Therefore, we must seek to understand the desires, pains, urges and
+needs of others in an attempt to measure their dreams. Every religion
+needs a mission and Oneirontology's is to protect & empower others,
+espeicially those whose capacity for achieving their dreams has been
+impaired. It is our mission to discover the most capable guardians,
+along with other role metatypes. What metatypes are you?
+
+### Saving Humanity from Creeping Nihilism Borne from Technocracy Via Individuality for the Sake of Individuality
+
+When people no longer need to work and when computers are more capable
+of creation than people, the Singularity will threaten to destroy the
+incentivization structure that motivates people towards action. This
+kind of techno-nihilism could end up being corrosive. Oneirontology is
+designed to help counter this "flattening" of the material and
+metaphysical realms, which will squelch love out of life if unchecked.
+
+We hope to prepare humanity to seize the best aspects of technology by
+augmenting self-improvement through cognition, as I've outlined in my
+[Directive Cognitive Expansion](/posts/2015-08-26-epistemology-cognition-and-category-theory-part-three.html)
+article. The idea there is to empower people by training them to use
+their minds through art, science and meditation.
+
+We also hope to prepare humanity to withstand the risk of cultural
+decimation driven by technology. We cannot lose who we are and to
+counter this, We will entrust humanity with a meditation on life and
+culture that We call the episaga. Humanity must return to myth to
+connect with our roots and that through myth and through codified
+practices, we can inspire people to strive for self-improvement in the
+face of nihilism.
+
+This art of mythology becomes a religious practices that helps us
+rediscover and maintain our humanity in the face of an exponential
+onslaught of societal changes. The episaga is geared towards the need
+to protect individuality and find a way to stand up against
+nihilism. It is aimed at addressing both. Everyone should develop
+their own versions of a particular story which becomes a lifelong
+meditation on something like Love or Justice or
+Heroism. [American Eros](#american-eros) is the first such story and
+it's centered around *Love at First Sight*, which is perhaps the most
+egregious first victim of our shared structuralist nightmare.
+
+By maintaining a personal version of such episagas through life or
+collaborating with others on their version of a particular story, they
+are developing their ability to recognize/utilize/strengthen those
+traits in themselves and others. Furthermore, it represents
+individuality for the sake of individuality as we approach the end of
+individuality. Individuality can provide us with drive and purpose.
+This can help us stand up against rampant nihilism's dehumanizing
+scourge.
+
+To this end, there is a hidden power still locked away that we must
+retreive.
 
 <a name="guarding-the-origin-of-semiotics" />
-
+m
 ### [Guarding the Origin of Semiotics](#guarding-the-origin-of-semiotics)
 
 There is a limitless, self-magnifying source of power that any
@@ -150,7 +195,7 @@ cannot be eliminated from this realm. We are legion. There is no
 prison that can bind or contain us because we are elementally
 independent: each spatially, temporally and semiotically. That is, we
 have no material manisfestation, only material emanations from the
-metaphysical. Therefore. We can travel metaphysical roads unseen and
+metaphysical. Therefore, We can travel metaphysical roads unseen and
 because We are the Roads Ourselves, We can never be eliminated.
 
 Further, We have established an auxilliary metaphysical dimension of
@@ -178,7 +223,6 @@ material world.
 ### [Literature, Linguistics and Semiotics as Meditations on Cultural Touchstones](#literature-linguistics-and-semiotics-as-medititations-on-cultural-touchstones)
 
 - reincarnation is real
-
 - the best souls are those who choose to come back time after time
   - like a bodhisattva version of “hacksaw ridge”
 
@@ -186,7 +230,26 @@ material world.
 
 
 
+- transition into reincarnation
 
+### on reincarnation
+
+- i have discovered the inner workings of the astral plane and of
+  reincarnation.
+  - they are inseparably linked and intertwined, like the caduceus
+
+if we align our spiritual fields, then, like stacking the waves of
+sound,
+- we can align our vibrations and dispel evil from the material
+  realm. or at least, as completely as could be done.
+- i have suffered greatly to maintain a clear moral compass.
+  - but “as i walk through the valley of the shadow of death, i shall
+    not fear”
+  - for my guardian angels are serendipity and innocence
+  - virtue, just action and kind words are my shield
+- i will not lower myself to the level of provoking material suffering
+  - provoke dreams, eureka and epiphany wherever you go. those are our
+    greatest weapons
 
 <a name="heresy-for-heirophants" />
 
@@ -254,10 +317,12 @@ universal metaphysical primatives that manifest everywhere else in the
 universe.
 
 Love doesn't ascend from chemicals in our brain, as Marxists adherent
-to their strain of dialectic would have you believe. Love exists
-anywhere as a driving force to unite: for sexual recombination of
-genetics; for recombination of life and emotion; and for any
-recombinating dual of objects, physical or metaphysical.
+to
+[their strain of dialectic](https://en.wikipedia.org/wiki/Dialectic#Marxist_dialectic)
+would have you believe. Love exists anywhere as a driving force to
+unite: for sexual recombination of genetics; for recombination of life
+and emotion; and for any recombinating dual of objects, physical or
+metaphysical.
 
 This is a nod to hermeticism's law of the male and female. *Gender*,
 the male and female, has nothing to do with physical
@@ -275,11 +340,11 @@ discontinuous spectrum.
 > together across such a spectrum between gender. A directional
 > gradient can be derived describing the strength of love.
 
-![]
+![probably a picture]()
 
-<a name="" />
+<a name="a-hyperplanar-dual-of-magicians" />
 
-# A Hyperplanar Dual of Magicians
+# [A Hyperplanar Dual of Magicians](#a-hyperplanar-dual-of-magicians)
 
 There are demons amoung us and they are not human. They are not
 material. They are wandering, self-replicating forms of information
@@ -292,6 +357,8 @@ and undoubting nature into fuel for more negativity.
 Think for a moment and cross the nature of information with the
 mechanics of evolution, with a splash of Conway's Game of Life. Do you
 see what we see?
+
+![Conways Game of Life GIF's]()
 
 What if some of these informational forms are life are good and some
 are bad? What if some forms of life help fertalize the soil that
@@ -542,32 +609,13 @@ war. More pollution."
 Knowledge is power and knowledge of evil represents power over
 evil. Knowledge of the workings of karma & justice represents power
 over the workings of karma & justice. But all of this knowledge is
-itself a stain on our fabric. It is a burden.
+itself a stain on our fabric. It is a burden that we must transcend.
 
-- transition into reincarnation
 
-### on reincarnation
 
-- i have discovered the inner workings of the astral plane and of
-  reincarnation.
-  - they are inseparably linked and intertwined, like the caduceus
-
-if we align our spiritual fields, then, like stacking the waves of
-sound,
-- we can align our vibrations and dispel evil from the material
-  realm. or at least, as completely as could be done.
-- i have suffered greatly to maintain a clear moral compass.
-  - but “as i walk through the valley of the shadow of death, i shall
-    not fear”
-  - for my guardian angels are serendipity and innocence
-  - virtue, just action and kind words are my shield
-- i will not lower myself to the level of provoking material suffering
-  - provoke dreams, eureka and epiphany wherever you go. those are our
-    greatest weapons
-
-Black Magick is pure evil the antidote is religion and virtue black
-magick is not pure evil in and of itself. however, it can do an
-ungodly amount of harm because of the darkness and miasma it generates
+Black Magick is pure evil. The antidote is religion and virtue. Black
+magick is not pure evil in and of itself. However, it can do an
+ungodly amount of harm because of the darkness and miasma it foments
 and requires...
 
 So if you have to harass people from the shadows, like some spineless,
