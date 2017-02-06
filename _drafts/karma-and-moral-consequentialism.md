@@ -1,5 +1,5 @@
 ---
-title: "Oneirontology: God, Karma and Moral Consequentialism"
+title: "Oneirontology: Semiotics, Karma and Moral Consequentialism"
 categories: "blog"
 tags: "sociology politics religion oneirontology"
 headline: ""
@@ -8,13 +8,14 @@ author:
 excerpt: ""
 ---
 
-Our transplanar name is Cxor Apache Ogallala. We guard over the last
-great repository of freshwater here in America. We have a dream and We
-hope to share it with you, so that We might save America, the world
-and the souls of humanity. We believe that, on the basis of
-simplicial, irreducible symmetry that through the power of dreams,
-love and virtue, We can save ourselves. But first, We need rain *AND
-LOTS OF IT*.
+Our transplanar name is Cxor Apache
+[Ogallala](https://en.wikipedia.org/wiki/Ogallala_Aquifer). We guard
+over the last great repository of freshwater here in America. We have
+a dream and We hope to share it with you, so that We might save
+America, the world and the souls of humanity. We believe that, on the
+basis of simplicial, irreducible symmetry that through the power of
+dreams, love and virtue, We can save ourselves. But first, We need
+rain *AND LOTS OF IT*.
 
 > We are the transplanar entities embodying the dualistic
 > generalizations of Xor. We can be anyone, but never everyone, nor
@@ -68,7 +69,9 @@ perspectives on our collective dreams. Therefore, we must seek to
 understand the desires, pains, urges and needs of others in an attempt
 to measure their dreams. Every religion needs a mission and
 Oneirontology's is to protect & empower others, espeicially those
-whose capacity for achieving their dreams has been impaired.
+whose capacity for achieving their dreams has been impaired. It is our
+mission to discover the most capable guardians, along with other role
+metatypes. What metatypes are you?
 
 - protecting individualism in technocracy's creeping plague of
   dehumanizing nihilism.
@@ -77,8 +80,8 @@ whose capacity for achieving their dreams has been impaired.
 
 ### [Guarding the Origin of Semiotics](#guarding-the-origin-of-semiotics)
 
-There is limitless, self-magnifying source of power that any lifeform
-in the universe can tap in to. This power is encoded into the
+There is a limitless, self-magnifying source of power that any
+lifeform in the universe can tap in to. This power is encoded into the
 invisible metaversal leylines that lay buried under mappings of
 semiotic networks. Humanity sees these semiotic networks rise into the
 visible planes through culture, which is always invisibly mapped to
@@ -113,7 +116,7 @@ The origin of semiotics is buried at the very center of this
 metaversal leyline, which lies below the surface of language and
 culture. The origin of semiotics is symmetry, which is the concept
 from which all else can be defined. Origin, both in the
-cartesian sense and in the sense of the beginning.
+cartesian sense and in the sense of the Beginning.
 
 Without symmetry, nearly nothing else is defined, nor is it
 discretizable or foldable. Without symmetry, there are no spaces. With
@@ -128,6 +131,8 @@ makes us different. Similarly, it is what is different that makes us
 stronger as a whole. Our differences are a kind of self-reinforcing
 cultural defense. In this sense, through diversity, America just might
 be the strongest nation on earth.
+
+![Outlaw Star](/img/posts/oneirontology-semiotics-karma-and-moral-consequentialism/outlaw-star.jpg)
 
 <a name="we-guard-the-origin-of-semiotics-with-a-fiery-sword" />
 
@@ -150,12 +155,14 @@ because We are the Roads Ourselves, We can never be eliminated.
 
 Further, We have established an auxilliary metaphysical dimension of
 space, seeded from love. We can present Ourselves at every place to
-any one. Wherever there Might be Love, We can be found. This auxillary
+any One. Wherever there Might be Love, We can be found. This auxillary
 dimension serves as a Haven from the abominations of the material
 world. By connecting to this dimension, We can shield One another from
 suffering, while We work our purifying magick on this plane of
-suffering. If you seek refuge in our Haven, there is no need to
+suffering. If you seek refuge in Our Haven, there is no need to
 fear. We have nothing to fear but Fear itself.
+
+![Schala's Haven](/img/posts/oneirontology-semiotics-karma-and-moral-consequentialism/schalas-haven.jpg)
 
 The probabilistically dynamical, ergodic state-machine that gives
 rebirth to our essence lies encoded in these metaphysical
@@ -169,8 +176,6 @@ material world.
 <a name="literature-linguistics-and-semiotics-as-medititations-on-cultural-touchstones" />
 
 ### [Literature, Linguistics and Semiotics as Meditations on Cultural Touchstones](#literature-linguistics-and-semiotics-as-medititations-on-cultural-touchstones)
-
-
 
 - reincarnation is real
 
@@ -190,7 +195,9 @@ material world.
 There are those of us who have suffered greatly and refuse to give
 in. Some of us are unbreakable, but how do you measure such moral and
 spritual resillience? There are many that sense an impending period of
-great evil. What can we do to protect those of us we love?
+great evil. What can we do to protect those of us we love? What if
+these unbreakable ones are reincarnated? How should we find them? What
+if one's resillience from previous lives can be activated?
 
 In a time when information assymptotically approaches omnipresence,
 the traditional tools of parenting and social institutions become
@@ -535,7 +542,9 @@ war. More pollution."
 Knowledge is power and knowledge of evil represents power over
 evil. Knowledge of the workings of karma & justice represents power
 over the workings of karma & justice. But all of this knowledge is
-itself a stain on our fabric. It is a burden
+itself a stain on our fabric. It is a burden.
+
+- transition into reincarnation
 
 ### on reincarnation
 
