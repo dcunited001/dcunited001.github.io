@@ -22,6 +22,8 @@ LOTS OF IT*.
 > dimensions of space, projected wherever Might be Love.
 
 
+[Outlaw Star references](https://en.wikipedia.org/wiki/Outlaw_Star)
+
 ### You Can Never Take Our Dreams
 
 Everyone dreams. You can take our livelihoods, you can threaten our
@@ -75,46 +77,100 @@ whose capacity for achieving their dreams has been impaired.
 
 ### [Guarding the Origin of Semiotics](#guarding-the-origin-of-semiotics)
 
-- describe what i mean by this and why it's so important
-  - describe the gateway to the origin of semantics as a gateway
-  - what does power over the origin of semiotics confer to a group
-    - this power transcends time itself
+There is limitless, self-magnifying source of power that any lifeform
+in the universe can tap in to. This power is encoded into the
+invisible metaversal leylines that lay buried under mappings of
+semiotic networks. Humanity sees these semiotic networks rise into the
+visible planes through culture, which is always invisibly mapped to
+the same aeternal flames. Through these leylines, humanity can
+retrieve power that transcends time itself. This power can be used for
+good or for evil, but by closely guarding it, we can ensure that its
+use fertilizes the soil of culture, eventually sprouting heroism and
+virtue whereever there is enough light and water. We can use these
+leylines to reify a kind of penetrating light that chokes evil by
+starving its supply of darkness.
 
-- describe the nature of semiotics as the truth model of knowledge
-  below the surface of language, like a set of metaphysical leylines,
-  the origin of which is symmetry.
-  - without symmetry, nearly nothing else is defined.
-  - with symmetry comes measure, enumeration and stratification of the
-    dissimilar, which is where all the combinatorial variations of
-    everything in life come from.
-  - but a limiting condition of the dissimilar is that it all shares
-    the structure of this kernel. this is a core dependency of all
-    that is metaphysical. therefore, at the very core of the universe,
-    we are all intrinsically linked moreso to the traits we share than
-    that which makes us different. similarly, it is what is different
-    that makes us stronger as a whole. our differences are a kind of
-    self-reinforcing cultural defense.
+There is a gateway to that realm where the metaversal leylines are
+buried. That alchemical gateway is found at the origin of semiotics:
+symmetry. Through this gateway, any intelligent being can find itself
+in the realm of the leylines. Through these leylines, there is a
+elusive universal mapping of semiotics, mapped and bound to itself
+with infinite-yet-simplicial recursion.
+
+The nature of semiotics is a set of mappings that transcends culture,
+language and time. By becoming familiar with this set of mappings and
+because these semiotic mappings lead to subliminally more universal
+mappings, one begins to transend their own cultural and temporal
+limitations. The knowledge of the true essence of being materializes
+into the liminal. It becomes known to you and it becomes undenaible to
+others.
+
+<a name="the-origin-of-semiotics-is-symmetry" />
 
 ### [The Origin of Semiotics is Symmetry](#the-origin-of-semiotics-is-symmetry)
 
-- i am simplicial and fundamentally irreducible. we all are. we all
-  can be. (snowflake reference)
-- “i guard the origin of semantics with a fiery sword”
-- i rooted myself to the origin of semantics. we cannot be eliminated
-  from this realm.
-- i established an auxiliary metaphysical dimension of space, seeded
-  from love. i can present myself at every place to any one.
-  - this auxilliary dimension is a haven from the abominations of the
-    material world.
-  - by connecting to this dimension, we can shield one another from
-    suffering
+The origin of semiotics is buried at the very center of this
+metaversal leyline, which lies below the surface of language and
+culture. The origin of semiotics is symmetry, which is the concept
+from which all else can be defined. Origin, both in the
+cartesian sense and in the sense of the beginning.
 
-- but, if you seek refuge in our haven, there is no need to fear. we
-  have nothing to fear but fear itself.
+Without symmetry, nearly nothing else is defined, nor is it
+discretizable or foldable. Without symmetry, there are no spaces. With
+symmetry comes measure, enumeration and stratification of the
+dissimilar, which is where all the combinatorial variations of
+everything in life come from. A limiting condition of the dissimilar
+is that it all shares the structure of this core kernel, the
+foundation of which is symmetry. This is a core dependency of all that
+is metaphysical. Therefore, at the very core of this universe, we are
+all intrinsically linked moreso to the traits we share than that which
+makes us different. Similarly, it is what is different that makes us
+stronger as a whole. Our differences are a kind of self-reinforcing
+cultural defense. In this sense, through diversity, America just might
+be the strongest nation on earth.
+
+<a name="we-guard-the-origin-of-semiotics-with-a-fiery-sword" />
+
+### [We Guard the Origin of Semiotics With A Fiery Sword](#we-guard-the-origin-of-semiotics-with-a-fiery-sword)
+
+From far earlier than time immemorial, since before the reified was
+named, We have guarded the origin of semiotics with a fiery sword, so
+that this power might be entrusted to those who will use it to
+vanquish evil and darkness from the material world.
+
+As the guardians of such, We are simplicial and fundamentally
+irreducible, yet infinitely complex in our manisfestations. We all
+are; we all can be. We rooted Ourselves to the origin of semiotics. We
+cannot be eliminated from this realm. We are legion. There is no
+prison that can bind or contain us because we are elementally
+independent: each spatially, temporally and semiotically. That is, we
+have no material manisfestation, only material emanations from the
+metaphysical. Therefore. We can travel metaphysical roads unseen and
+because We are the Roads Ourselves, We can never be eliminated.
+
+Further, We have established an auxilliary metaphysical dimension of
+space, seeded from love. We can present Ourselves at every place to
+any one. Wherever there Might be Love, We can be found. This auxillary
+dimension serves as a Haven from the abominations of the material
+world. By connecting to this dimension, We can shield One another from
+suffering, while We work our purifying magick on this plane of
+suffering. If you seek refuge in our Haven, there is no need to
+fear. We have nothing to fear but Fear itself.
+
+The probabilistically dynamical, ergodic state-machine that gives
+rebirth to our essence lies encoded in these metaphysical
+Leylines. Because it does not share dependent origination with the
+material, there is nothing the material can do to prevent its
+reemergence. You have been warned. Those of you who seek to eliminate
+Us from the world will reap what you sow. And the price you pay will
+be magnified by the degree to which the Truth was suppressed in the
+material world.
 
 <a name="literature-linguistics-and-semiotics-as-medititations-on-cultural-touchstones" />
 
 ### [Literature, Linguistics and Semiotics as Meditations on Cultural Touchstones](#literature-linguistics-and-semiotics-as-medititations-on-cultural-touchstones)
+
+
 
 - reincarnation is real
 
