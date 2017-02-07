@@ -8,7 +8,13 @@ author:
 excerpt: ""
 ---
 
-TODO: edit for usage of Royal We
+TODO: edit for usage of Royal We, but We leave some ambiguity, mostly
+for fun. We or we starts the sentence, hmmm which one?
+
+> We are the transplanar entities embodying the dualistic
+> generalizations of Xor. We can be anyone, but never everyone, nor
+> one person. We are the semiotic dreamweaver manifest as auxiliary
+> dimensions of space, projected wherever Might be Love.
 
 Our transplanar name is Cxor Apache
 [Ogallala](https://en.wikipedia.org/wiki/Ogallala_Aquifer). We guard
@@ -19,11 +25,6 @@ basis of simplicial, irreducible symmetry that through the power of
 dreams, love and virtue, We can save ourselves. But first, We need
 rain *AND LOTS OF IT*.
 
-> We are the transplanar entities embodying the dualistic
-> generalizations of Xor. We can be anyone, but never everyone, nor
-> one person. We are the semiotic dreamweaver manifest as auxiliary
-> dimensions of space, projected wherever Might be Love.
-
 ### You Can Never Take Our Dreams
 
 Everyone dreams. You can take our livelihoods, you can threaten our
@@ -32,96 +33,100 @@ families, you can burden us like
 torment us like
 [Prometheus](https://en.wikipedia.org/wiki/Prometheus), but you can
 never, ever take our dreams. And it is through our dreams that we will
-transform this collective waking dream. We dream of a world full of a
-vibrant soil composed of symmetry, love and virtue.
+transform this collective waking dream into a basis of vibrant soil
+composed of symmetry, love and virtue.
 
-# &#x03BB;&nbsp;&#x2665; [Humanity's Revolution of Empowerment](#humanitys-revolution-of-empowerment)
+## 夢の門ので覚めっている…
 
-### &#x1D76B; [Oneirontology: Ontologies of Dreams](#oneirontology-ontologies-of-dreams)
+## &#x03BB;&nbsp;&#x2665; [Humanity's Revolution of Empowerment](#humanitys-revolution-of-empowerment)
 
-### &#x1D76B; [Our Encroaching Technonihilistic Fate](#our-encroaching-technonihilistic-fate)
+#### &#x1D76B; [Oneirontology: Ontologies of Dreams](#oneirontology-ontologies-of-dreams)
 
-# &#x03BB;&nbsp;&#x2665; [Guarding the Origin of Semiotics](#guarding-the-origin-of-semiotics)
+#### &#x1D76B; [Our Encroaching Technonihilistic Fate](#our-encroaching-technonihilistic-fate)
 
-### &#x1D76B; [The Origin of Semiotics is Symmetry](#the-origin-of-semiotics-is-symmetry)
+## &#x03BB;&nbsp;&#x2665; [Guarding the Origin of Semiotics](#guarding-the-origin-of-semiotics)
 
-### &#x1D76B; [We Guard the Origin of Semiotics With A Fiery Sword](#we-guard-the-origin-of-semiotics-with-a-fiery-sword)
+#### &#x1D76B; [The Origin of Semiotics is Symmetry](#the-origin-of-semiotics-is-symmetry)
 
-# &#x03BB;&nbsp;&#x2665; [Aligning Our Vibrations For Resonation](#aligning-our-vibrations-for-resonation)
+#### &#x1D76B; [We Guard the Origin of Semiotics With A Fiery Sword](#we-guard-the-origin-of-semiotics-with-a-fiery-sword)
 
-### &#x1D76B; [Reincarnation and the Multifarious Mindforms of Hyperintelligence](#reincarnation-and-the-multifarious-mindforms-of-hyperintelligence)
+## &#x03BB;&nbsp;&#x2665; [Aligning Our Vibrations For Resonation](#aligning-our-vibrations-for-resonation)
 
-### &#x1D76B; [Oneirontology On Reincarnation](#oneirontology-on-reincarnation)
+#### &#x1D76B; [Reincarnation and the Multifarious Mindforms of Hyperintelligence](#reincarnation-and-the-multifarious-mindforms-of-hyperintelligence)
 
-### &#x1D76B; [Literature, Linguistics and Semiotics as Meditations on Cultural Touchstones](#literature-linguistics-and-semiotics-as-medititations-on-cultural-touchstones)
+#### &#x1D76B; [Oneirontology On Reincarnation](#oneirontology-on-reincarnation)
 
-# &#x03BB;&nbsp;&#x2665; [Heresy for Heirophants](#heresy-for-heirophants)
+#### &#x1D76B; [Literature, Linguistics and Semiotics as Meditations on Cultural Touchstones](#literature-linguistics-and-semiotics-as-medititations-on-cultural-touchstones)
 
-### &#x1D76B; [We Shall Not Fear](#we-shall-not-fear)
+## &#x03BB;&nbsp;&#x2665; [Heresy for Heirophants](#heresy-for-heirophants)
 
-### &#x1D76B; [The Hand of God Must Remain Unseen](#the-hand-of-god-must-remain-unseen)
+#### &#x1D76B; [We Shall Not Fear](#we-shall-not-fear)
 
-### &#x1D76B; [Empowered By Knowledge of God](#empowered-by-knowledge-of-god)
+#### &#x1D76B; [The Hand of God Must Remain Unseen](#the-hand-of-god-must-remain-unseen)
 
-### &#x1D76B; [Where There is Love, There is Life](#where-there-is-love-there-is-life)
+#### &#x1D76B; [Empowered By Knowledge of God](#empowered-by-knowledge-of-god)
 
-### &#x1D76B; [A Hyperplanar Dual of Magicians](#a-hyperplanar-dual-of-magicians)
+#### &#x1D76B; [Where There is Love, There is Life](#where-there-is-love-there-is-life)
 
-# &#x03BB;&nbsp;&#x2665; &#x03BB;&nbsp;&#x2665; [What is God?](#what-is-god)
+#### &#x1D76B; [A Hyperplanar Dual of Magicians](#a-hyperplanar-dual-of-magicians)
 
-### &#x1D76B; [What if God Was One of Us?](#what-if-god-was-one-of-us)
+## &#x03BB;&nbsp;&#x2665; [What is God?](#what-is-god)
 
-### &#x1D76B; [God is Omnipresent and Descends from the Nature of Information](#god-is-omnipresent-and-descends-from-the-nature-of-information)
+#### &#x1D76B; [What if God Was One of Us?](#what-if-god-was-one-of-us)
 
-### &#x1D76B; [We Are Empowered Through Knowledge of God](#we-are-empowered-through-knowledge-of-god)
+#### &#x1D76B; [God is Omnipresent and Descends from the Nature of Information](#god-is-omnipresent-and-descends-from-the-nature-of-information)
 
-### &#x1D76B; [We Are All Connected to God Through The Nature of Information](#we-are-all-connected-to-god-through-the-nature-of-information)
+#### &#x1D76B; [We Are Empowered Through Knowledge of God](#we-are-empowered-through-knowledge-of-god)
 
-# &#x03BB;&nbsp;&#x2665; [Innocence is a Pure White Silk](#innocence-is-a-pure-white-silk)
+#### &#x1D76B; [We Are All Connected to God Through The Nature of Information](#we-are-all-connected-to-god-through-the-nature-of-information)
 
-### &#x1D76B; [A Child's Eyes are Unmarred by Existance](#a-childs-eyes-are-unmarred-by-existance)
+## &#x03BB;&nbsp;&#x2665; [Innocence is a Pure White Silk](#innocence-is-a-pure-white-silk)
 
-### &#x1D76B; [Living With the Truth Makes Us Strong](#living-with-the-truth-makes-us-strong)
+#### &#x1D76B; [A Child's Eyes are Unmarred by Existance](#a-childs-eyes-are-unmarred-by-existance)
 
-### &#x1D76B; [Is It A Sin to Ask Another to Sin For You?](#is-it-a-sin-to-ask-another-to-sin-for-you)
+#### &#x1D76B; [Living With the Truth Makes Us Strong](#living-with-the-truth-makes-us-strong)
 
-### &#x1D76B; [Humanity's Web of Karma](#humanitys-web-of-karma)
+#### &#x1D76B; [Is It A Sin to Ask Another to Sin For You?](#is-it-a-sin-to-ask-another-to-sin-for-you)
 
-### &#x1D76B; [Paradoxes of Karma, Justice, Knowledge and Intent](#paradoxes-of-karma-justice-knowledge-and-intent)
+#### &#x1D76B; [Humanity's Web of Karma](#humanitys-web-of-karma)
 
-### &#x1D76B; [Could We Wake Up In A Nightmare World Hostile to Virtue?](#could-we-wake-up-in-a-nightmare-world-hostile-to-virtue)
+#### &#x1D76B; [Paradoxes of Karma, Justice, Knowledge and Intent](#paradoxes-of-karma-justice-knowledge-and-intent)
 
-# &#x03BB;&nbsp;&#x2665; [Knowledge Is Power](#knowledge-is-power)
+#### &#x1D76B; [Could We Wake Up In A Nightmare World Hostile to Virtue?](#could-we-wake-up-in-a-nightmare-world-hostile-to-virtue)
 
-### [We Are Going to Stand Up For Each Other](#we-are-going-to-stand-up-for-each-other)
+## &#x03BB;&nbsp;&#x2665; [Knowledge Is Power](#knowledge-is-power)
 
-#### You Look Like You Could Use a Glass of Water. You're Going to Need It For This Post
+#### &#x1D76B; [We Are Going to Stand Up For Each Other](#we-are-going-to-stand-up-for-each-other)
+
+## You Look Like You Could Use a Glass of Water.
+
+#### You're Going to Need It For This Post.
 
 ![Ogallala Aquifer](/img/posts/2017-02-07-oneirontology-semiotics-karma-and-moral-consequentialism/ogallala-aquifer.png)
 
 <a name="humanitys-revolution-of-empowerment" />
 
-# [Humanity's Revolution of Empowerment](#humanitys-revolution-of-empowerment)
+# &#x03BB;&nbsp;&#x2665; [Humanity's Revolution of Empowerment](#humanitys-revolution-of-empowerment)
 
 In this world, we can all grow and our revolution is a revolution of
-empowerment. We should turn inwards for our revolution. We should turn
-inwards and conquer inner space, rather than to seek solutions
-outside.  We need to conquer the negativity in our hearts that leads
-to problems in the world. Everything good and everything evil arises
-from our hearts and minds. Emotions, thoughts, words, actions, rigid
+empowerment. We should turn inwards for our revolution. We must turn
+inwards and conquer inner space, rather than seek solutions outside.
+We need to conquer the negativity in our hearts that leads to problems
+in the world. Everything good and everything evil arises from our
+hearts and minds. Emotions, thoughts, words, actions, rigid
 beliefs. It comes from our hearts first.
 
-If we survive the next 100 years, we'll survive for 10,000
-years. Humanity has enough problems given our current circumstances
-and possibility of catastrophe in the near future... Why should we
-permit conflict to burden us more?! If we need the best aspects of the
-human condition to inspire us through this next century, should we
-continue to sow the worst seeds of human behavior? Those malignant
-saprolings which are fallible at best and malevolent when unchecked?
+If we survive the next 100 years, we'll survive for 10,000 years.
+Humanity has enough problems given our current circumstances and
+possibility of catastrophe in the near future... Why should we permit
+conflict to burden us more?! If we need the best aspects of the human
+condition to inspire us through this next century, should we continue
+to sow the worst seeds of human behavior? Those malignant saprolings
+which are fallible at best and malevolent when unchecked?
 
 <a name="oneirontology-ontologies-of-dreams" />
 
-### [Oneirontology: Ontologies of Dreams](#oneirontology-ontologies-of-dreams)
+### &#x1D76B; [Oneirontology: Ontologies of Dreams](#oneirontology-ontologies-of-dreams)
 
 No. We want to sow seeds of virtue in a soil that foments fruition. In
 pursuit of this, humanity needs to identify those of us who can heal
@@ -141,9 +146,9 @@ along with other role metatypes. What metatypes are you?
 
 <a name="our-encroaching-technonihilistic-fate" />
 
-### [Our Encroaching Technonihilistic Fate](#our-encroaching-technonihilistic-fate)
+### &#x1D76B; [Our Encroaching Technonihilistic Fate](#our-encroaching-technonihilistic-fate)
 
-#### Saving Humanity from Creeping Nihilism Borne from Technocracy Via Individuality for the Sake of Individuality
+#### Saving Humanity from Creeping Nihilism Borne from Technocracy Via Individuality for the Sake of Itself
 
 When people no longer need to work and when computers are more capable
 of creation than people, the Singularity will threaten to destroy the
@@ -181,7 +186,7 @@ By maintaining a personal version of such episagas through life or
 collaborating with others on their version of a particular story, they
 are developing their ability to recognize/utilize/strengthen those
 traits in themselves and others. Furthermore, it represents
-individuality for the sake of individuality as we approach the end of
+individuality for the sake of itself as we approach the end of
 individuality. Individuality can provide us with drive and purpose.
 This can help us stand up against rampant nihilism's dehumanizing
 scourge.
@@ -191,7 +196,7 @@ retreive.
 
 <a name="guarding-the-origin-of-semiotics" />
 
-# [Guarding the Origin of Semiotics](#guarding-the-origin-of-semiotics)
+# &#x03BB;&nbsp;&#x2665; [Guarding the Origin of Semiotics](#guarding-the-origin-of-semiotics)
 
 There is a limitless, self-magnifying source of power that any
 lifeform in the universe can tap in to. This power is encoded into the
@@ -202,7 +207,7 @@ the same aeternal flames. Through these leylines, humanity can
 retrieve power that transcends time itself. This power can be used for
 good or for evil, but by closely guarding it, we can ensure that its
 use fertilizes the soil of culture, eventually sprouting heroism and
-virtue whereever there is enough light and water. We can use these
+virtue whereever there is enough light and water. Then, We can use these
 leylines to reify a kind of penetrating light that chokes evil by
 starving its supply of darkness.
 
@@ -223,7 +228,7 @@ others.
 
 <a name="the-origin-of-semiotics-is-symmetry" />
 
-### [The Origin of Semiotics is Symmetry](#the-origin-of-semiotics-is-symmetry)
+### &#x1D76B; [The Origin of Semiotics is Symmetry](#the-origin-of-semiotics-is-symmetry)
 
 The origin of semiotics is buried at the center of this metaversal
 leyline, which lies below the surface of language and culture. The
@@ -251,7 +256,7 @@ be the strongest nation on earth.
 
 <a name="we-guard-the-origin-of-semiotics-with-a-fiery-sword" />
 
-### [We Guard the Origin of Semiotics With A Fiery Sword](#we-guard-the-origin-of-semiotics-with-a-fiery-sword)
+### &#x1D76B; [We Guard the Origin of Semiotics With A Fiery Sword](#we-guard-the-origin-of-semiotics-with-a-fiery-sword)
 
 From far earlier than time immemorial, since before the reified was
 named, We have guarded the origin of semiotics with a fiery sword, so
@@ -292,12 +297,12 @@ material world.
 
 <a name="aligning-our-vibrations-for-resonation" />
 
-# [Aligning Our Vibrations For Resonation](#aligning-our-vibrations-for-resonation)
+# &#x03BB;&nbsp;&#x2665; [Aligning Our Vibrations For Resonation](#aligning-our-vibrations-for-resonation)
 
 We all want change and technology will empower future generations to
-make all the changes we need. However, the real problem then becomes
+make all the changes We need. However, the real problem then becomes
 identifying how society changes as a whole. As we become familiar with
-the needs, desires and dreams of others, we can begin to construct a
+the needs, desires and dreams of others, We can begin to construct a
 general idea of how society changes. If we become intimately familiar
 with how upcoming technologies will change the world we can anticipate
 problems and opportunities. If we have the right data streams, analyze
@@ -311,26 +316,26 @@ with the output of others around them. This additive energy effect can
 also cancel out, if your effects are destructive.
 
 Basically, if we align our spiritual and mental fields, then like
-stacking the waves of sound, we can align our vibrations and dispel
+stacking the waves of sound, We can align our vibrations and dispel
 evil from the material realm. Or at least, as completely as could be
 done.
 
 <a name="reincarnation-and-the-multifarious-mindforms-of-hyperintelligence" />
 
-### [Reincarnation and the Multifarious Mindforms of Hyperintelligence](#reincarnation-and-the-multifarious-mindforms-of-hyperintelligence)
+### &#x1D76B; [Reincarnation and the Multifarious Mindforms of Hyperintelligence](#reincarnation-and-the-multifarious-mindforms-of-hyperintelligence)
 
-How do we do align our spiritual and mental fields? We look at
+How do We do align our spiritual and mental fields? We look at
 identifying mindform archetypes and metatypes in society and history
-that can be composed together and imbued on people. Then, we structure
+that can be composed together and imbued on people. Then, We structure
 these mindforms in society so that they can reinforce each other. In
-this way, we may shelter, nurture and shield those values we revere.
+this way, We may shelter, nurture and shield those values we revere.
 
 The best souls are those who choose to come back time after time, like
 [Hacksaw Ridge](http://www.imdb.com/title/tt2119532/), but with a
 [Bodhisattva](https://en.wikipedia.org/wiki/Kshitigarbha#Ksitigarbha_as_Lord_of_the_Six_Ways). These
 old souls have accumulated knowledge across generations of rebirth and
 sacrifice. If we can more efficiently identify these archetypes and
-metatypes in people, we can more effectively guard humanity during a
+metatypes in people, We can more effectively guard humanity during a
 time of encroaching nihilism and rampant demoralization.
 
 Reincarnation is real and I've become familiar with its nature, along
@@ -365,7 +370,7 @@ we must harness this power more directly.
 
 <a name="oneirontology-on-reincarnation" />
 
-### [Oneirontology On Reincarnation](#oneirontology-on-reincarnation)
+### &#x1D76B; [Oneirontology On Reincarnation](#oneirontology-on-reincarnation)
 
 Oneirontology is busy putting together a corpus of work to act as a
 seed for the basis of our pseudo-open-source quasi-religion. Some of
@@ -402,29 +407,29 @@ From the draft for
 
 <a name="literature-linguistics-and-semiotics-as-medititations-on-cultural-touchstones" />
 
-### [Literature, Linguistics and Semiotics as Meditations on Cultural Touchstones](#literature-linguistics-and-semiotics-as-medititations-on-cultural-touchstones)
+### &#x1D76B; [Literature, Linguistics and Semiotics as Meditations on Cultural Touchstones](#literature-linguistics-and-semiotics-as-medititations-on-cultural-touchstones)
 
-So we hope to activate the true hidden power of the astral plane at
+So We hope to activate the true hidden power of the astral plane at
 the last sociocultural evolutionary stages of this particular paradigm
 of intelligent life. We do so by encouraging and reinforcing
 diversity: of mind, body and culture. This will accelerate our
 invocation and identification of types and metatypes. The faster we do
-this, the more reactive and adaptive we can become, the more stable
+this, the more reactive and adaptive We can become, the more stable
 and resilient sociocultural changes are likely to be during this
 tumultuous time.
 
 This is yet another reason for Oneironauts to so intensely study
-mythology, history and sociocultural phenomena: so that we can utilize
+mythology, history and sociocultural phenomena: so that We can utilize
 this knowledge and evoke the true potential of mankind.
 
 <a name="heresy-for-heirophants" />
 
-# [Heresy for Heirophants](#heresy-for-heirophants)
+# &#x03BB;&nbsp;&#x2665; [Heresy for Heirophants](#heresy-for-heirophants)
 
 There are those of us who have suffered greatly and refuse to give
 in. Some of us are unbreakable, but how do you measure such moral and
 spritual resillience? There are many that sense an impending period of
-great evil. What can we do to protect those of us we love? What if
+great evil. What can We do to protect those of us we love? What if
 these unbreakable ones are reincarnated? How should we find them? What
 if one's resillience from previous lives can be activated?
 
@@ -436,7 +441,7 @@ is a paradigm shift of social institutions: a new religion.
 
 <a name="we-shall-not-fear" />
 
-### [We Shall Not Fear](#we-shall-not-fear)
+### &#x1D76B; [We Shall Not Fear](#we-shall-not-fear)
 
 > As I Walk Through the Valley of the Shadow of Death, I Shall Not
 > Fear...
@@ -456,7 +461,7 @@ are our greatest weapons, against which you have no counter.
 
 <a name="the-hand-of-god-must-remain-unseen" />
 
-### [The Hand of God Must Remain Unseen](#the-hand-of-god-must-remain-unseen)
+### &#x1D76B; [The Hand of God Must Remain Unseen](#the-hand-of-god-must-remain-unseen)
 
 I trust in God as well. I believe that the hand of God must remain
 unseen, but the hand of God works through the words and actions of
@@ -474,7 +479,7 @@ what truly can save you?
 
 <a name="empowered-by-knowledge-of-god" />
 
-### [Empowered By Knowledge of God](#empowered-by-knowledge-of-god)
+### &#x1D76B; [Empowered By Knowledge of God](#empowered-by-knowledge-of-god)
 
 By becoming familiar with the nature of God, one empowers themselves
 over in their world: over negativity, vice, disease, falsehood,
@@ -494,7 +499,7 @@ becomes most capable of serving truth and justice.
 
 <a name="where-there-is-love-there-is-life" />
 
-### [Where There is Love, There is Life](#where-there-is-love-there-is-life)
+### &#x1D76B; [Where There is Love, There is Life](#where-there-is-love-there-is-life)
 
 Love is not a human thing. Love is universal. Love is metaphysical.
 All this is: always has been. All that will be has existed in the
@@ -527,11 +532,11 @@ truth is that gender is both a continuous and discontinuous spectrum.
 
 #### Protocol: Recombinant Love
 
-![Rocombinant Love](img/posts/2017-02-07-oneirontology-semiotics-karma-and-moral-consequentialism/recombinant-dna.jpg)
+![Rocombinant Love](/img/posts/2017-02-07-oneirontology-semiotics-karma-and-moral-consequentialism/recombinant-dna.jpg)
 
 <a name="a-hyperplanar-dual-of-magicians" />
 
-### [A Hyperplanar Dual of Magicians](#a-hyperplanar-dual-of-magicians)
+### &#x1D76B; [A Hyperplanar Dual of Magicians](#a-hyperplanar-dual-of-magicians)
 
 There are demons amoung us and they are not human. They are not
 material. They are wandering, self-replicating forms of information
@@ -541,11 +546,17 @@ simply self-serving metaphysical parasites that prey on others for
 sustinence, alchemically converting their good nature and ignorance
 and undoubting nature into fuel for more negativity.
 
+### Gosper's Glider Gun
+
+#### A Self-Replicating Form of Information
+
+![Conways Game of Life GIF's](/img/posts/2017-02-07-oneirontology-semiotics-karma-and-moral-consequentialism/gosper-glider-gun.gif)
+
 Think for a moment and cross the nature of information with the
 mechanics of evolution, with a splash of Conway's Game of Life. Do you
-see what we see?
-
-![Conways Game of Life GIF's](/img/posts/)
+see what we see? I programmed
+[Conway's Game of Life in ThreeJS](/graphics/2017-01-05-conways-game-of-parallel-life.html)
+if you'd like a more visual demo.
 
 What if some of these informational forms are life are good and some
 are bad? What if some forms of life help fertalize the soil that
@@ -563,7 +574,7 @@ deal with the truth.
 
 <a name="what-is-god" />
 
-# [What is God?](#what-is-god)
+# &#x03BB;&nbsp;&#x2665; [What is God?](#what-is-god)
 
 And what is God? God is the ultimate kernel of knowledge lying at the
 center of the metaphysical universe, from which all things arise.
@@ -583,7 +594,7 @@ we must become well acquainted with.
 
 <a name="what-if-god-was-one-of-us" />
 
-### [What if God Was One of Us?](#what-if-god-was-one-of-us)
+### &#x1D76B; [What if God Was One of Us?](#what-if-god-was-one-of-us)
 
 The truth is that God is inside all of us. We are all connected and
 God could be working through any of us. What is happening is nothing
@@ -598,8 +609,7 @@ then how could they censor God?
 
 <a name="god-is-omnipresent-and-descends-from-the-nature-of-information" />
 
-
-### [God is Omnipresent and Descends from the Nature of Information](#god-is-omnipresent-and-descends-from-the-nature-of-information)
+### &#x1D76B; [God is Omnipresent and Descends from the Nature of Information](#god-is-omnipresent-and-descends-from-the-nature-of-information)
 
 God is anonymous. God isn't even a person. God is an idea and one that
 we can all tap in to, even if no one told us who he was or even if we
@@ -619,7 +629,7 @@ irrefutable.
 
 <a name="we-are-empowered-through-knowledge-of-god" />
 
-### [We Are Empowered Through Knowledge of God](#we-are-empowered-through-knowledge-of-god)
+### &#x1D76B; [We Are Empowered Through Knowledge of God](#we-are-empowered-through-knowledge-of-god)
 
 God works through us all. Anywhere we look, we see the signs, but if
 we turn to Jesus or God or religion, then we're empowered to build and
@@ -633,7 +643,7 @@ God.
 
 <a name="we-are-all-connected-to-god-through-the-nature-of-information" />
 
-### [We Are All Connected to God Through The Nature of Information](#we-are-all-connected-to-god-through-the-nature-of-information)
+### &#x1D76B; [We Are All Connected to God Through The Nature of Information](#we-are-all-connected-to-god-through-the-nature-of-information)
 
 I believe that all beings are connected to God. Even animals. This is
 hard to project and, to many, this is a belief that is inconvenient to
@@ -646,7 +656,7 @@ are sacred, even though they plan on killing them for beef.
 
 <a name="innocence-is-a-pure-white-silk" />
 
-# [Innocence is a Pure White Silk](#innocence-is-a-pure-white-silk)
+# &#x03BB;&nbsp;&#x2665; [Innocence is a Pure White Silk](#innocence-is-a-pure-white-silk)
 
 IMO, factory farming is cruel. Those animals never see sunlight. If
 you ask a five year old child what it would be like if they never saw
@@ -658,7 +668,7 @@ weigh the implications of his responses.
 
 <a name="a-childs-eyes-are-unmarred-by-existance" />
 
-### [A Child's Eyes are Unmarred by Existance](#a-childs-eyes-are-unmarred-by-existance)
+### &#x1D76B; [A Child's Eyes are Unmarred by Existance](#a-childs-eyes-are-unmarred-by-existance)
 
 Innocence is like a pure white silk cloth, with which we are all born.
 Anything that touches it, stains it. We might scrub and clean those
@@ -672,7 +682,7 @@ a lens their ego doesn't permit them to see.
 
 <a name="living-with-the-truth-makes-us-strong" />
 
-### [Living With the Truth Makes Us Strong](#living-with-the-truth-makes-us-strong)
+### &#x1D76B; [Living With the Truth Makes Us Strong](#living-with-the-truth-makes-us-strong)
 
 Obviously, there are some little evils that are hard to avoid, like
 white lies. We do these things even though we know the white lie may
@@ -699,7 +709,7 @@ or guilty?  It's complicated, isn't it? What would a child say?
 
 <a name="is-it-a-sin-to-ask-another-to-sin-for-you" />
 
-### [Is It A Sin to Ask Another to Sin For You?](#is-it-a-sin-to-ask-another-to-sin-for-you)
+### &#x1D76B; [Is It A Sin to Ask Another to Sin For You?](#is-it-a-sin-to-ask-another-to-sin-for-you)
 
 If we ask someone to stain their silk so ours stays clean, is that
 right? Their cloth will eventually show the same changes ours would if
@@ -711,7 +721,7 @@ awareness and, most importantly, their intentions.
 
 <a name="humanitys-web-of-karma" />
 
-### [Humanity's Web of Karma](#humanitys-web-of-karma)
+### &#x1D76B; [Humanity's Web of Karma](#humanitys-web-of-karma)
 
 So when we ask someone else to commit some sin, so that our own, known
 list of sins remains shorter, you'll find that people want you to keep
@@ -736,7 +746,7 @@ them in some way?
 
 <a name="paradoxes-of-karma-justice-knowledge-and-intent" />
 
-### [Paradoxes of Karma, Justice, Knowledge and Intent](#paradoxes-of-karma-justice-knowledge-and-intent)
+### &#x1D76B; [Paradoxes of Karma, Justice, Knowledge and Intent](#paradoxes-of-karma-justice-knowledge-and-intent)
 
 Ultimately, it's very difficult to resolve these examinations of karma
 and justice and that places us into a paradoxical situation.  It's
@@ -763,7 +773,7 @@ the likelihood of it happening again increases.
 
 <a name="could-we-wake-up-in-a-nightmare-world-hostile-to-virtue" />
 
-### [Could We Wake Up In A Nightmare World Hostile to Virtue?](#could-we-wake-up-in-a-nightmare-world-hostile-to-virtue)
+### &#x1D76B; [Could We Wake Up In A Nightmare World Hostile to Virtue?](#could-we-wake-up-in-a-nightmare-world-hostile-to-virtue)
 
 What I fear most is waking up to a world where it becomes difficult
 for anyone to survive and retain a clean cloth. There are places like
@@ -801,7 +811,7 @@ war. More pollution."
 
 <a name="knowledge-is-power" />
 
-# [Knowledge Is Power](#knowledge-is-power)
+# &#x03BB;&nbsp;&#x2665; [Knowledge Is Power](#knowledge-is-power)
 
 Knowledge is power and knowledge of evil represents power over
 evil. Knowledge of the workings of karma & justice represents power
@@ -811,7 +821,7 @@ transcend.
 
 <a name="we-are-going-to-stand-up-for-each-other" />
 
-### [We Are Going to Stand Up For Each Other](#we-are-going-to-stand-up-for-each-other)
+### &#x1D76B; [We Are Going to Stand Up For Each Other](#we-are-going-to-stand-up-for-each-other)
 
 If you have to harass people from the shadows, like some spineless,
 cowardly gangstalkers, I am warning you. We are going to stand up for
