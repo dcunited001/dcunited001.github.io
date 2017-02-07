@@ -157,16 +157,16 @@ others.
 
 ### [The Origin of Semiotics is Symmetry](#the-origin-of-semiotics-is-symmetry)
 
-The origin of semiotics is buried at the very center of this
-metaversal leyline, which lies below the surface of language and
-culture. The origin of semiotics is symmetry, which is the concept
-from which all else can be defined. Origin, both in the
-cartesian sense and in the sense of the Beginning.
+The origin of semiotics is buried at the center of this metaversal
+leyline, which lies below the surface of language and culture. The
+origin of semiotics is symmetry, which is the concept from which all
+else can be defined. Origin, both in the cartesian sense and in the
+sense of the Beginning.
 
 Without symmetry, nearly nothing else is defined, nor is it
-discretizable or foldable. Without symmetry, there are no spaces. With
-symmetry comes measure, enumeration and stratification of the
-dissimilar, which is where all the combinatorial variations of
+discretizable or foldable or decomposable. Without symmetry, there are
+no spaces. With symmetry comes measure, enumeration and stratification
+of the dissimilar, which is where all the combinatorial variations of
 everything in life come from. A limiting condition of the dissimilar
 is that it all shares the structure of this core kernel, the
 foundation of which is symmetry. This is a core dependency of all that
@@ -280,7 +280,6 @@ poisoning the land and everything that grows on it. What is required
 is a paradigm shift of social institutions: a new religion.
 
 <a name="" />
-
 
 ### [The Hand of God Must Remain Unseen](#the-hand-of-god-must-remain-unseen)
 
