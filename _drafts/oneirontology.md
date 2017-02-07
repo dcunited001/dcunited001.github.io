@@ -105,3 +105,11 @@ free all the others
 ###
 
 Heresy for Heirophants
+
+
+
+Black Magick is pure evil. The antidote is religion and virtue. Magick
+is not pure evil in and of itself. It is a tool and one that magnifies
+the intent of the user. However, black magick in particular can do an
+ungodly amount of harm because of the darkness and miasma it foments
+and requires.

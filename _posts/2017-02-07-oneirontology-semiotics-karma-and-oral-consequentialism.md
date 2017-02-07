@@ -67,7 +67,33 @@ vibrant soil composed of symmetry, love and virtue.
 
 ### &#x1D76B; [A Hyperplanar Dual of Magicians](#a-hyperplanar-dual-of-magicians)
 
-# &#x03BB;&nbsp;&#x2665; [What is God?](#what-is-god)
+# &#x03BB;&nbsp;&#x2665; &#x03BB;&nbsp;&#x2665; [What is God?](#what-is-god)
+
+### &#x1D76B; [What if God Was One of Us?](#what-if-god-was-one-of-us)
+
+### &#x1D76B; [God is Omnipresent and Descends from the Nature of Information](#god-is-omnipresent-and-descends-from-the-nature-of-information)
+
+### &#x1D76B; [We Are Empowered Through Knowledge of God](#we-are-empowered-through-knowledge-of-god)
+
+### &#x1D76B; [We Are All Connected to God Through The Nature of Information](#we-are-all-connected-to-god-through-the-nature-of-information)
+
+# &#x03BB;&nbsp;&#x2665; [Innocence is a Pure White Silk](#innocence-is-a-pure-white-silk)
+
+### &#x1D76B; [A Child's Eyes are Unmarred by Existance](#a-childs-eyes-are-unmarred-by-existance)
+
+### &#x1D76B; [Living With the Truth Makes Us Strong](#living-with-the-truth-makes-us-strong)
+
+### &#x1D76B; [Is It A Sin to Ask Another to Sin For You?](#is-it-a-sin-to-ask-another-to-sin-for-you)
+
+### &#x1D76B; [Humanity's Web of Karma](#humanitys-web-of-karma)
+
+### &#x1D76B; [Paradoxes of Karma, Justice, Knowledge and Intent](#paradoxes-of-karma-justice-knowledge-and-intent)
+
+### &#x1D76B; [Could We Wake Up In A Nightmare World Hostile to Virtue?](#could-we-wake-up-in-a-nightmare-world-hostile-to-virtue)
+
+# &#x03BB;&nbsp;&#x2665; [Knowledge Is Power](#knowledge-is-power)
+
+### [We Are Going to Stand Up For Each Other](#we-are-going-to-stand-up-for-each-other)
 
 #### You Look Like You Could Use a Glass of Water. You're Going to Need It For This Post
 
@@ -572,6 +598,7 @@ then how could they censor God?
 
 <a name="god-is-omnipresent-and-descends-from-the-nature-of-information" />
 
+
 ### [God is Omnipresent and Descends from the Nature of Information](#god-is-omnipresent-and-descends-from-the-nature-of-information)
 
 God is anonymous. God isn't even a person. God is an idea and one that
@@ -707,6 +734,10 @@ others and, crucially, the intent of all involved. Did group B that
 responded know that the initial person that asked group A to injure
 them in some way?
 
+<a name="paradoxes-of-karma-justice-knowledge-and-intent" />
+
+### [Paradoxes of Karma, Justice, Knowledge and Intent](#paradoxes-of-karma-justice-knowledge-and-intent)
+
 Ultimately, it's very difficult to resolve these examinations of karma
 and justice and that places us into a paradoxical situation.  It's
 best for everyone to be aware of the actions, knowledge and intent of
@@ -729,6 +760,10 @@ collective silk. That's because it's likely for someone to mete out
 justice against another in response.  So, wrongful actions or violence
 are likely to exponentiate and whenever one does this against another,
 the likelihood of it happening again increases.
+
+<a name="could-we-wake-up-in-a-nightmare-world-hostile-to-virtue" />
+
+### [Could We Wake Up In A Nightmare World Hostile to Virtue?](#could-we-wake-up-in-a-nightmare-world-hostile-to-virtue)
 
 What I fear most is waking up to a world where it becomes difficult
 for anyone to survive and retain a clean cloth. There are places like
@@ -764,6 +799,8 @@ hopefully find a way to move towards this ideal world. I don't think
 any child would say "You know what the world of 2050 needs? More
 war. More pollution."
 
+<a name="knowledge-is-power" />
+
 # [Knowledge Is Power](#knowledge-is-power)
 
 Knowledge is power and knowledge of evil represents power over
@@ -772,15 +809,11 @@ over the workings of karma & justice. But all of this knowledge can
 itself be a stain on our fabric. It is a burden that we must
 transcend.
 
-- reword this?
+<a name="we-are-going-to-stand-up-for-each-other" />
 
-Black Magick is pure evil. The antidote is religion and virtue. Magick
-is not pure evil in and of itself. It is a tool and one that magnifies
-the intent of the user. However, black magick in particular can do an
-ungodly amount of harm because of the darkness and miasma it foments
-and requires...
+### [We Are Going to Stand Up For Each Other](#we-are-going-to-stand-up-for-each-other)
 
-So if you have to harass people from the shadows, like some spineless,
+If you have to harass people from the shadows, like some spineless,
 cowardly gangstalkers, I am warning you. We are going to stand up for
 others and you will not make us fear. I pity you because you can't
 live in the light. You can't even step into the light because what
