@@ -25,6 +25,25 @@ Ancient Proto Harrapan
     cultural fragments that would be distributed across the world and
     into the astral plane to be reunited at a later time
 
+So they had to disappear, but they knew if we could find our history,
+we would stop looking. They had achieved something great & powerful &
+learned all languages. They had created some impressive-yet-basic
+technology. Still, they projected it to be too early for humanity to
+begin to chase the stars and, wisely, decided to tend to the fire of
+knowledge. Overpopulation crises are doomed when the world is
+controlled by monoculture. Thus, these ancients knew that they had to
+split the knowledge they'd acquired into pieces and dissapear.
+
+From this paradoxical vantange, they were moreso capable of ensuring a
+stable rollout of industrialization & modernization. They became the
+first civilization to disappear and di so intentionally, with the idea
+that they were retreating into cultural fragments that would be
+distributed across the world. These fragments would interweave in
+spiral fashion across the astral plane to be reunited at a later
+time. Until then, this entwined and threaded astral tapestry would
+become the basis for identifying reincarnations and incarnation
+metatypes in other cultures.
+
 "premodernism" where the set of ideas is so generally limited, that
 almost any development is new to any society.
 - it's like a state of postmodernism to modernism but occuring before

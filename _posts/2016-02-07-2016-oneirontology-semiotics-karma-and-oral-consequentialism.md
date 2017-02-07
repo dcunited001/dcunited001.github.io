@@ -222,12 +222,28 @@ material world.
 
 # [Aligning Our Vibrations For Resonation](#aligning-our-vibrations-for-resonation)
 
-If we align our spiritual fields, then, like stacking the waves of
-sound,
-- we can align our vibrations and dispel evil from the material
-  realm. or at least, as completely as could be done.
+We all want change and technology will empower future generations to
+make all the changes we need. However, the real problem then becomes
+identifying how society changes as a whole. As we become familiar with
+the needs, desires and dreams of others, we can begin to construct a
+general idea of how society changes. If we become intimately familiar
+with how upcoming technologies will change the world we can anticipate
+problems and opportunities. If we have the right data streams, analyze
+them properly and push out changes in a methodic way, we can all make
+more use of our individual capacity for change.
 
-- how do we best do that?
+This innate capacity of humans to change their surroundings stems from
+a kind of energy potential that they could also use for other
+things. Further, this energy can be amplified by aligning one's energy
+with the output of others around them. This additive energy effect can
+also cancel out, if your effects are destructive.
+
+Basically, if we align our spiritual and mental fields, then like
+stacking the waves of sound, we can align our vibrations and dispel
+evil from the material realm. Or at least, as completely as could be
+done. How do we do that? We look at identifying mindform archetypes
+and metatypes in society and history that can be composed together and
+imbued on people.
 
 <a name="literature-linguistics-and-semiotics-as-medititations-on-cultural-touchstones" />
 
@@ -248,6 +264,29 @@ sound,
   reincarnation.
   - they are inseparably linked and intertwined, like the caduceus (?)
 
+
+From the draft for
+[Reincarnation on the Astral Plane Empowered by the Collectively Conscious](https://github.com/dcunited001/dcunited001.github.io/blob/sources/_drafts/5000bc-reincarnation.md):
+
+> So they had to disappear, but they knew if we could find our
+> history, we would stop looking. They had achieved something great &
+> powerful & learned all languages. They had created some
+> impressive-yet-basic technology. Still, they projected it to be too
+> early for humanity to begin to chase the stars and, wisely, decided
+> to tend to the fire of knowledge. Overpopulation crises are doomed
+> when the world is controlled by monoculture. Thus, these ancients
+> knew that they had to split the knowledge they'd acquired into
+> pieces and dissapear.
+>
+> From this paradoxical vantange, they were moreso capable of ensuring
+> a stable rollout of industrialization & modernization. They became
+> the first civilization to disappear and di so intentionally, with
+> the idea that they were retreating into cultural fragments that
+> would be distributed across the world. These fragments would
+> interweave in spiral fashion across the astral plane to be reunited
+> at a later time. Until then, this entwined and threaded astral
+> tapestry would become the basis for identifying reincarnations and
+> incarnation metatypes in other cultures.
 
 <a name="we-shall-not-fear" />
 
