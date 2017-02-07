@@ -241,18 +241,34 @@ also cancel out, if your effects are destructive.
 Basically, if we align our spiritual and mental fields, then like
 stacking the waves of sound, we can align our vibrations and dispel
 evil from the material realm. Or at least, as completely as could be
-done. How do we do that? We look at identifying mindform archetypes
-and metatypes in society and history that can be composed together and
-imbued on people.
+done.
 
-<a name="literature-linguistics-and-semiotics-as-medititations-on-cultural-touchstones" />
+<a name="reincarnation-and-the-multifarious-mindforms-of-hyperintelligence" />
 
-### [Literature, Linguistics and Semiotics as Meditations on Cultural Touchstones](#literature-linguistics-and-semiotics-as-medititations-on-cultural-touchstones)
+### [Reincarnation and the Multifarious Mindforms of Hyperintelligence]()
 
-- reincarnation is real
-- the best souls are those who choose to come back time after time
-  - like a bodhisattva version of “hacksaw ridge”
+How do we do align our spiritual and mental fields? We look at
+identifying mindform archetypes and metatypes in society and history
+that can be composed together and imbued on people. Then, we structure
+these mindforms in society so that they can reinforce each other. In
+this way, we may shelter, nurture and shield those values we revere.
+
+The best souls are those who choose to come back time after time, like
+[Hacksaw Ridge](http://www.imdb.com/title/tt2119532/), but with a
+bodhisattva. These old souls have accumulated knowledge through
+generations.
+
+
   - these old souls have ...
+- reincarnation is real
+  - hyperintelligence defined as intelligence that can deconstruct
+    other behavior types and mindforms, as well as imitate them,
+    communicate with them and ...
+  - therefore, a hyperintelligent being would be best suited at
+    identifying these mindform types and metatypes.
+    - not only that, but a truly hyperintelligent being would embody
+      them all simultaneously, though not necessarily expressing all
+      of them.
 
 - [Kshitigarbha](https://en.wikipedia.org/wiki/Kshitigarbha#Ksitigarbha_as_Lord_of_the_Six_Ways)
   - jizu bodhisattva
@@ -270,23 +286,32 @@ From the draft for
 
 > So they had to disappear, but they knew if we could find our
 > history, we would stop looking. They had achieved something great &
-> powerful & learned all languages. They had created some
-> impressive-yet-basic technology. Still, they projected it to be too
-> early for humanity to begin to chase the stars and, wisely, decided
-> to tend to the fire of knowledge. Overpopulation crises are doomed
-> when the world is controlled by monoculture. Thus, these ancients
-> knew that they had to split the knowledge they'd acquired into
-> pieces and dissapear.
+> powerful & learned as many microlanguages as possible. They had
+> created some impressive-yet-basic technology. Still, they projected
+> it to be too early for humanity to begin to chase the stars and,
+> wisely, decided to tend to the fire of knowledge. Overpopulation
+> crises are doomed when the world is controlled by monoculture. Thus,
+> these ancients knew that they had to split the knowledge they'd
+> acquired into pieces and dissapear.
 >
 > From this paradoxical vantange, they were moreso capable of ensuring
 > a stable rollout of industrialization & modernization. They became
 > the first civilization to disappear and di so intentionally, with
 > the idea that they were retreating into cultural fragments that
 > would be distributed across the world. These fragments would
-> interweave in spiral fashion across the astral plane to be reunited
-> at a later time. Until then, this entwined and threaded astral
-> tapestry would become the basis for identifying reincarnations and
-> incarnation metatypes in other cultures.
+> interweave in spiral fashion across the astral plane. Thousands of
+> years later, they knew that these fragments of culture would form an
+> unstoppable force, once reunited by an older, wiser humanity. Until
+> then, this entwined and threaded astral tapestry would become the
+> basis for identifying reincarnations and incarnation metatypes in
+> other cultures.
+
+<a name="literature-linguistics-and-semiotics-as-medititations-on-cultural-touchstones" />
+
+### [Literature, Linguistics and Semiotics as Meditations on Cultural Touchstones](#literature-linguistics-and-semiotics-as-medititations-on-cultural-touchstones)
+
+- on using culture to identify reincarnation types
+  - the importance of being 
 
 <a name="we-shall-not-fear" />
 
