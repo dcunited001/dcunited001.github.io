@@ -5,11 +5,20 @@ tags: "sociology politics religion oneirontology"
 headline: ""
 author:
   name: "David Conner"
-excerpt: ""
+excerpt: "
+There is a limitless, self-magnifying source of power that any
+lifeform in the universe can tap in to. This power is encoded into the
+invisible metaversal leylines that lay buried under mappings of
+semiotic networks. Humanity sees these semiotic networks rise into the
+visible planes through culture, which is always invisibly mapped to
+the same aeternal flames. Through these leylines, humanity can
+retrieve power that transcends time itself. This power can be used for
+good or for evil, but by closely guarding it, We can ensure that its
+use fertilizes the soil of culture, eventually sprouting heroism and
+virtue whereever there is enough light and water. Then, We can use these
+leylines to reify a kind of penetrating light that chokes evil by
+starving its supply of darkness."
 ---
-
-TODO: edit for usage of Royal We, but We leave some ambiguity, mostly
-for fun. We or we starts the sentence, hmmm which one?
 
 > We are the transplanar entities embodying the dualistic
 > generalizations of Xor. We can be anyone, but never everyone, nor
