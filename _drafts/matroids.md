@@ -1,5 +1,5 @@
 
-# Matroids & Illegal Math
+# Matroids
 
 - what happens with an infinite number of paths? nodes?
   - with infinite nodes are there necessarily infinite paths?
@@ -19,6 +19,8 @@
 - combine matroids components with the null set in various ways
 - can infinite matroids be reduced to finite matroids?
   - "sparse" matroids? crossed with lattice?
+
+
 
 ### FFT & Noise
 

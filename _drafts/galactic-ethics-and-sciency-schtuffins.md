@@ -118,6 +118,23 @@ also kind of leads the world through a difficult path.
 
 ### More gravity stuff
 
+- there should be some connection b/w polarization in space and
+  polarization in gravity.
+  - this connection should reveal information about fluid behavior of
+    spacetime. this could determine slightly aberrant
+    astrological/physical activity that introduces some error into
+    systems in space that we observe
+  - if this is true, then there should be some level of
+    "behavioral noise" that varies somewhat, but mostly is observed
+    in the same proportion across the universe and depends on memory
+    of the components of spacetime (that is, it's parametric)
+    - this is noise in the observed error for a local ball across the
+    space of the universe
+    - resolving these problems may require laplacian (or just
+      gradient) with entropy describing variation in expected
+      behavior, where expected behavior has a somewhat recursive
+      definition)
+
 #### from the Blind Spot picture
 
 - it looks like a double black hole viewed head on,
