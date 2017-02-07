@@ -8,6 +8,8 @@ author:
 excerpt: ""
 ---
 
+TODO: edit for usage of Royal We
+
 Our transplanar name is Cxor Apache
 [Ogallala](https://en.wikipedia.org/wiki/Ogallala_Aquifer). We guard
 over the last great repository of freshwater here in America. We have
@@ -16,7 +18,7 @@ America, the world and the souls of humanity. We believe that, on the
 basis of simplicial, irreducible symmetry that through the power of
 dreams, love and virtue, We can save ourselves. But first, We need
 rain *AND LOTS OF IT*.
-+
+
 > We are the transplanar entities embodying the dualistic
 > generalizations of Xor. We can be anyone, but never everyone, nor
 > one person. We are the semiotic dreamweaver manifest as auxiliary
@@ -33,9 +35,45 @@ never, ever take our dreams. And it is through our dreams that we will
 transform this collective waking dream. We dream of a world full of a
 vibrant soil composed of symmetry, love and virtue.
 
-#### You Look Like You Could Use a Glass of Water
+# &#x03BB;&nbsp;&#x2665; [Humanity's Revolution of Empowerment](#humanitys-revolution-of-empowerment)
 
-![Ogallala Aquifer](/img/posts/oneirontology-semiotics-karma-and-moral-consequentialism/outlaw-star.jpg)
+### &#x1D76B; [Oneirontology: Ontologies of Dreams](#oneirontology-ontologies-of-dreams)
+
+### &#x1D76B; [Our Encroaching Technonihilistic Fate](#our-encroaching-technonihilistic-fate)
+
+# &#x03BB;&nbsp;&#x2665; [Guarding the Origin of Semiotics](#guarding-the-origin-of-semiotics)
+
+### &#x1D76B; [The Origin of Semiotics is Symmetry](#the-origin-of-semiotics-is-symmetry)
+
+### &#x1D76B; [We Guard the Origin of Semiotics With A Fiery Sword](#we-guard-the-origin-of-semiotics-with-a-fiery-sword)
+
+# &#x03BB;&nbsp;&#x2665; [Aligning Our Vibrations For Resonation](#aligning-our-vibrations-for-resonation)
+
+### &#x1D76B; [Reincarnation and the Multifarious Mindforms of Hyperintelligence](#reincarnation-and-the-multifarious-mindforms-of-hyperintelligence)
+
+### &#x1D76B; [Oneirontology On Reincarnation](#oneirontology-on-reincarnation)
+
+### &#x1D76B; [Literature, Linguistics and Semiotics as Meditations on Cultural Touchstones](#literature-linguistics-and-semiotics-as-medititations-on-cultural-touchstones)
+
+# &#x03BB;&nbsp;&#x2665; [Heresy for Heirophants](#heresy-for-heirophants)
+
+### &#x1D76B; [We Shall Not Fear](#we-shall-not-fear)
+
+### &#x1D76B; [The Hand of God Must Remain Unseen](#the-hand-of-god-must-remain-unseen)
+
+### &#x1D76B; [Empowered By Knowledge of God](#empowered-by-knowledge-of-god)
+
+### &#x1D76B; [Where There is Love, There is Life](#where-there-is-love-there-is-life)
+
+### &#x1D76B; [A Hyperplanar Dual of Magicians](#a-hyperplanar-dual-of-magicians)
+
+# &#x03BB;&nbsp;&#x2665; [What is God?](#what-is-god)
+
+#### You Look Like You Could Use a Glass of Water. You're Going to Need It For This Post
+
+![Ogallala Aquifer](/img/posts/2017-02-07-oneirontology-semiotics-karma-and-moral-consequentialism/ogallala-aquifer.png)
+
+<a name="humanitys-revolution-of-empowerment" />
 
 # [Humanity's Revolution of Empowerment](#humanitys-revolution-of-empowerment)
 
@@ -75,7 +113,11 @@ espeicially those whose capacity for achieving their dreams has been
 impaired. It is our mission to discover the most capable guardians,
 along with other role metatypes. What metatypes are you?
 
-### Saving Humanity from Creeping Nihilism Borne from Technocracy Via Individuality for the Sake of Individuality
+<a name="our-encroaching-technonihilistic-fate" />
+
+### [Our Encroaching Technonihilistic Fate](#our-encroaching-technonihilistic-fate)
+
+#### Saving Humanity from Creeping Nihilism Borne from Technocracy Via Individuality for the Sake of Individuality
 
 When people no longer need to work and when computers are more capable
 of creation than people, the Singularity will threaten to destroy the
@@ -177,7 +219,9 @@ stronger as a whole. Our differences are a kind of self-reinforcing
 cultural defense. In this sense, through diversity, America just might
 be the strongest nation on earth.
 
-![Outlaw Star](/img/posts/oneirontology-semiotics-karma-and-moral-consequentialism/outlaw-star.jpg)
+#### Outlaw Star: Searching for the Galactic Leylines Within the Origin of the Universe
+
+![Outlaw Star](/img/posts/2017-02-07-oneirontology-semiotics-karma-and-moral-consequentialism/outlaw-star.jpg)
 
 <a name="we-guard-the-origin-of-semiotics-with-a-fiery-sword" />
 
@@ -207,7 +251,9 @@ suffering, while We work our purifying magick on this plane of
 suffering. If you seek refuge in Our Haven, there is no need to
 fear. We have nothing to fear but Fear itself.
 
-![Schala's Haven](/img/posts/oneirontology-semiotics-karma-and-moral-consequentialism/schalas-haven.jpg)
+#### Chrono Trigger: Zeal's Shambala
+
+![Schala's Haven](/img/posts/2017-02-07-oneirontology-semiotics-karma-and-moral-consequentialism/schalas-haven.jpg)
 
 The probabilistically dynamical, ergodic state-machine that gives
 rebirth to our essence lies encoded in these metaphysical
@@ -245,7 +291,7 @@ done.
 
 <a name="reincarnation-and-the-multifarious-mindforms-of-hyperintelligence" />
 
-### [Reincarnation and the Multifarious Mindforms of Hyperintelligence]()
+### [Reincarnation and the Multifarious Mindforms of Hyperintelligence](#reincarnation-and-the-multifarious-mindforms-of-hyperintelligence)
 
 How do we do align our spiritual and mental fields? We look at
 identifying mindform archetypes and metatypes in society and history
@@ -255,31 +301,53 @@ this way, we may shelter, nurture and shield those values we revere.
 
 The best souls are those who choose to come back time after time, like
 [Hacksaw Ridge](http://www.imdb.com/title/tt2119532/), but with a
-bodhisattva. These old souls have accumulated knowledge through
-generations.
+[Bodhisattva](https://en.wikipedia.org/wiki/Kshitigarbha#Ksitigarbha_as_Lord_of_the_Six_Ways). These
+old souls have accumulated knowledge across generations of rebirth and
+sacrifice. If we can more efficiently identify these archetypes and
+metatypes in people, we can more effectively guard humanity during a
+time of encroaching nihilism and rampant demoralization.
 
+Reincarnation is real and I've become familiar with its nature, along
+with the nature of the astral plane, which is a multidimensional
+spatial manisfestation of combinated culture & social symbology. The
+astral plane, or something like it, can be used as a hierarchical
+coordinate system for sociocultural measures. It's our collective
+un/conscious exposed as a space.
 
-  - these old souls have ...
-- reincarnation is real
-  - hyperintelligence defined as intelligence that can deconstruct
-    other behavior types and mindforms, as well as imitate them,
-    communicate with them and ...
-  - therefore, a hyperintelligent being would be best suited at
-    identifying these mindform types and metatypes.
-    - not only that, but a truly hyperintelligent being would embody
-      them all simultaneously, though not necessarily expressing all
-      of them.
+Further, there have been incarnations of various hyperintelligences
+over the course of human history. Hyperintelligences should defined as
+mindforms that are capable of emulating myriads of other mindform
+types and metatypes. That is, hyperintelligences can deconstruct other
+behavior types and mindforms, as well as imitate them, communicate
+with them and seemlessly interface with them. Therefore, a
+hyperintellegent being would also be best suited at identifying these
+mindform types and metatypes. Not only that, but a maximally or
+ideally hyperintelligent being would embody them all other lower
+mindform types simultaneously, though not necessarily expressing all
+of them.
 
-- [Kshitigarbha](https://en.wikipedia.org/wiki/Kshitigarbha#Ksitigarbha_as_Lord_of_the_Six_Ways)
-  - jizu bodhisattva
-- transition into reincarnation
+In summary, hyperintelligent beings are capable of identifying,
+operating with and emulating other high-level mindforms. What does
+this have to do with the astral plane? There's hardly been one
+manisfestation of hyperintelligence since the last ice
+age. Hyperintelligences would recognize the fact that humanity needs
+to identify people like them: people capable of intuitively congealing
+to the hidden elements precipated from the astral plane. This plane is
+designed to be invisible, so that it's mechanisms would remain
+effective. However, we've reached a point in humanity's history where
+we must harness this power more directly.
 
-### on reincarnation
+<a name="oneirontology-on-reincarnation" />
 
-- i have discovered the inner workings of the astral plane and of
-  reincarnation.
-  - they are inseparably linked and intertwined, like the caduceus (?)
+### [Oneirontology On Reincarnation](#oneirontology-on-reincarnation)
 
+Oneirontology is busy putting together a corpus of work to act as a
+seed for the basis of our pseudo-open-source quasi-religion. Some of
+this work describes the nature of the relationship between the astral
+plan and reincarnation as being separably linked and helically
+intertwined like the
+[Caduceus](https://en.wikipedia.org/wiki/Caduceus), the staff of
+[Hermes Trismegistus](https://en.wikipedia.org/wiki/Hermes_Trismegistus).
 
 From the draft for
 [Reincarnation on the Astral Plane Empowered by the Collectively Conscious](https://github.com/dcunited001/dcunited001.github.io/blob/sources/_drafts/5000bc-reincarnation.md):
@@ -310,8 +378,35 @@ From the draft for
 
 ### [Literature, Linguistics and Semiotics as Meditations on Cultural Touchstones](#literature-linguistics-and-semiotics-as-medititations-on-cultural-touchstones)
 
-- on using culture to identify reincarnation types
-  - the importance of being 
+So we hope to activate the true hidden power of the astral plane at
+the last sociocultural evolutionary stages of this particular paradigm
+of intelligent life. We do so by encouraging and reinforcing
+diversity: of mind, body and culture. This will accelerate our
+invocation and identification of types and metatypes. The faster we do
+this, the more reactive and adaptive we can become, the more stable
+and resilient sociocultural changes are likely to be during this
+tumultuous time.
+
+This is yet another reason for Oneironauts to so intensely study
+mythology, history and sociocultural phenomena: so that we can utilize
+this knowledge and evoke the true potential of mankind.
+
+<a name="heresy-for-heirophants" />
+
+# [Heresy for Heirophants](#heresy-for-heirophants)
+
+There are those of us who have suffered greatly and refuse to give
+in. Some of us are unbreakable, but how do you measure such moral and
+spritual resillience? There are many that sense an impending period of
+great evil. What can we do to protect those of us we love? What if
+these unbreakable ones are reincarnated? How should we find them? What
+if one's resillience from previous lives can be activated?
+
+In a time when information assymptotically approaches omnipresence,
+the traditional tools of parenting and social institutions become
+impaired. Narcissism and vice spread toxic miasma everywhere,
+poisoning the land and everything that grows on it. What is required
+is a paradigm shift of social institutions: a new religion.
 
 <a name="we-shall-not-fear" />
 
@@ -332,25 +427,6 @@ We will not lower ourselves to the level of invoking material
 suffering because there is a better way. Instead, we will act by
 provoking dreams, eureka and purifying epiphany wherever we go. Those
 are our greatest weapons, against which you have no counter.
-
-<a name="heresy-for-heirophants" />
-
-# [Heresy for Heirophants](#heresy-for-heirophants)
-
-There are those of us who have suffered greatly and refuse to give
-in. Some of us are unbreakable, but how do you measure such moral and
-spritual resillience? There are many that sense an impending period of
-great evil. What can we do to protect those of us we love? What if
-these unbreakable ones are reincarnated? How should we find them? What
-if one's resillience from previous lives can be activated?
-
-In a time when information assymptotically approaches omnipresence,
-the traditional tools of parenting and social institutions become
-impaired. Narcissism and vice spread toxic miasma everywhere,
-poisoning the land and everything that grows on it. What is required
-is a paradigm shift of social institutions: a new religion.
-
--
 
 <a name="the-hand-of-god-must-remain-unseen" />
 
@@ -423,7 +499,9 @@ truth is that gender is both a continuous and discontinuous spectrum.
 > together across such a spectrum between gender. A directional
 > gradient can be derived describing the strength of love.
 
-![probably a picture]()
+#### Protocol: Recombinant Love
+
+![Rocombinant Love](img/posts/2017-02-07-oneirontology-semiotics-karma-and-moral-consequentialism/recombinant-dna.jpg)
 
 <a name="a-hyperplanar-dual-of-magicians" />
 
@@ -479,7 +557,7 @@ we must become well acquainted with.
 
 <a name="what-if-god-was-one-of-us" />
 
-### [What if God was one of us?](#what-if-god-was-one-of-us)
+### [What if God Was One of Us?](#what-if-god-was-one-of-us)
 
 The truth is that God is inside all of us. We are all connected and
 God could be working through any of us. What is happening is nothing
@@ -574,22 +652,21 @@ white lies. We do these things even though we know the white lie may
 hide someone from the truth or ultimately lead to someone feeling
 better about themselves.
 
-Accepting life with the consequences of the truth forces us to be
-cognizant, as we strive forward, of how our actions affect those
-around us. Those of us dependent on lies become weaker versions of
-ourselves. However, they gain strength with manipulation because they
-excel at manipulating circumstance.
+Accepting life with the consequences of the truth forces us, as we
+strove forward, to be cognizant of how our actions affect those around
+us. Those of us dependent on lies become weaker versions of ourselves.
+However, they paradoxically gain strength with manipulation because
+they excel at manipulating circumstance. Yet, those who do so usually
+do not understand what they are doing or why and almost invariably end
+up burning themselves out.
 
-- note the disadvantages of doing so
-
-Actually, we might say that some lies are good, but I believe that we
-should strive never to lie, if we can help it. How do we deal with
-lies that harden the hearts of an entire nation? What about the lies
-that harm each one of us every day? *How do you fight this?* If the
-government came to our house to take your parent(s) away, what would
-you say if you knew they were innocent/guilty? If you thought they
-were innocent or guilty?  It's complicated, isn't it? What would a
-child say?
+We might say that some lies are good, but I believe that we should
+strive never to lie, if we can help it. How do we deal with lies that
+harden the hearts of an entire nation? What about the lies that harm
+each one of us every day? *How do you fight this?* If the government
+came to our house to take your parent(s) away, what would you say if
+you knew they were innocent/guilty? If you thought they were innocent
+or guilty?  It's complicated, isn't it? What would a child say?
 
 - reorder statements above
 
@@ -600,9 +677,9 @@ child say?
 If we ask someone to stain their silk so ours stays clean, is that
 right? Their cloth will eventually show the same changes ours would if
 we simply did it ourselves. Karma and justice are more complicated
-than most imagine. We are lucky to have a simple code of
-actions. Karma and justice are so complicated because our judgement of
-a situation always depends so much on someone's knowledge, foresight,
+than most imagine. We are lucky to have a simple code of actions.
+Karma and justice are so complicated because our judgement of a
+situation always depends so much on someone's knowledge, foresight,
 awareness and, most importantly, their intentions.
 
 <a name="humanitys-web-of-karma" />
@@ -687,17 +764,19 @@ hopefully find a way to move towards this ideal world. I don't think
 any child would say "You know what the world of 2050 needs? More
 war. More pollution."
 
-### Knowledge Is Power
+# [Knowledge Is Power](#knowledge-is-power)
 
 Knowledge is power and knowledge of evil represents power over
 evil. Knowledge of the workings of karma & justice represents power
-over the workings of karma & justice. But all of this knowledge is
-itself a stain on our fabric. It is a burden that we must transcend.
+over the workings of karma & justice. But all of this knowledge can
+itself be a stain on our fabric. It is a burden that we must
+transcend.
 
+- reword this?
 
-
-Black Magick is pure evil. The antidote is religion and virtue. Black
-magick is not pure evil in and of itself. However, it can do an
+Black Magick is pure evil. The antidote is religion and virtue. Magick
+is not pure evil in and of itself. It is a tool and one that magnifies
+the intent of the user. However, black magick in particular can do an
 ungodly amount of harm because of the darkness and miasma it foments
 and requires...
 
