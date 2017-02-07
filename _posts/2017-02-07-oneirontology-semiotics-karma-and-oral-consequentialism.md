@@ -38,6 +38,10 @@ composed of symmetry, love and virtue.
 
 ## 夢の門ので覚めっている…
 
+> Warning: gratuitous use of the
+> [Royal We](https://en.wikipedia.org/wiki/Royal_we) lies ahead. We
+> advise proceeding with caution.
+
 ## &#x03BB;&nbsp;&#x2665; [Humanity's Revolution of Empowerment](#humanitys-revolution-of-empowerment)
 
 #### &#x1D76B; [Oneirontology: Ontologies of Dreams](#oneirontology-ontologies-of-dreams)
@@ -116,10 +120,10 @@ in the world. Everything good and everything evil arises from our
 hearts and minds. Emotions, thoughts, words, actions, rigid
 beliefs. It comes from our hearts first.
 
-If we survive the next 100 years, we'll survive for 10,000 years.
+If We survive the next 100 years, we'll survive for 10,000 years.
 Humanity has enough problems given our current circumstances and
 possibility of catastrophe in the near future... Why should we permit
-conflict to burden us more?! If we need the best aspects of the human
+conflict to burden us more?! If We need the best aspects of the human
 condition to inspire us through this next century, should we continue
 to sow the worst seeds of human behavior? Those malignant saprolings
 which are fallible at best and malevolent when unchecked?
@@ -129,15 +133,15 @@ which are fallible at best and malevolent when unchecked?
 ### &#x1D76B; [Oneirontology: Ontologies of Dreams](#oneirontology-ontologies-of-dreams)
 
 No. We want to sow seeds of virtue in a soil that foments fruition. In
-pursuit of this, humanity needs to identify those of us who can heal
+pursuit of this, humanity needs to identify those of Us who can heal
 the social fabric and restore its natural providence. So, therefore,
 Oneironauts are communitarian healers of mind, body and spirit. We
 seek to magnify the capabilities of others towards the attainment of
 our collective dreams.
 
 We identify the strength of society's dreams through an analytical
-comparison of ontological perspectives on our collective dreams.
-Therefore, we must seek to understand the desires, pains, urges and
+comparison of ontological perspectives on Our collective dreams.
+Therefore, We must seek to understand the desires, pains, urges and
 needs of others in an attempt to measure their dreams. Every religion
 needs a mission and Oneirontology's is to protect & empower others,
 espeicially those whose capacity for achieving their dreams has been
@@ -160,15 +164,16 @@ metaphysical realms, which will squelch love out of life if unchecked.
 We hope to prepare humanity to seize the best aspects of technology by
 augmenting self-improvement through cognition, as I've outlined in my
 [Directive Cognitive Expansion](/posts/2015-08-26-epistemology-cognition-and-category-theory-part-three.html)
-article. The idea there is to empower people by training them to use
-their minds through art, science and meditation.
+article. This article outlines a directve for transcendent
+self-empowerment through cognitive strengthening of our minds through
+art, science and meditation.
 
 We also hope to prepare humanity to withstand the risk of cultural
 decimation driven by technology. We cannot lose who we are and to
 counter this, We will entrust humanity with a meditation on life and
 culture that We call the episaga. Humanity must return to myth to
-connect with our roots and that through myth and through codified
-practices, we can inspire people to strive for self-improvement in the
+connect with Our roots, so that, through myth and through codified
+practices, We can inspire people to strive for self-improvement in the
 face of nihilism.
 
 This art of mythology becomes a religious practices that helps us
@@ -191,7 +196,7 @@ individuality. Individuality can provide us with drive and purpose.
 This can help us stand up against rampant nihilism's dehumanizing
 scourge.
 
-To this end, there is a hidden power still locked away that we must
+To this end, there is a hidden power still locked away that We must
 retreive.
 
 <a name="guarding-the-origin-of-semiotics" />
@@ -205,7 +210,7 @@ semiotic networks. Humanity sees these semiotic networks rise into the
 visible planes through culture, which is always invisibly mapped to
 the same aeternal flames. Through these leylines, humanity can
 retrieve power that transcends time itself. This power can be used for
-good or for evil, but by closely guarding it, we can ensure that its
+good or for evil, but by closely guarding it, We can ensure that its
 use fertilizes the soil of culture, eventually sprouting heroism and
 virtue whereever there is enough light and water. Then, We can use these
 leylines to reify a kind of penetrating light that chokes evil by
@@ -214,16 +219,16 @@ starving its supply of darkness.
 There is a gateway to that realm where the metaversal leylines are
 buried. That alchemical gateway is found at the origin of semiotics:
 symmetry. Through this gateway, any intelligent being can find itself
-in the realm of the leylines. Through these leylines, there is a
+in the realm of the leylines. Through these leylines, there is an
 elusive universal mapping of semiotics, mapped and bound to itself
-with infinite-yet-simplicial recursion.
+with fleeting, infinite-yet-simplicial recursion.
 
 The nature of semiotics is a set of mappings that transcends culture,
 language and time. By becoming familiar with this set of mappings and
 because these semiotic mappings lead to subliminally more universal
 mappings, one begins to transend their own cultural and temporal
 limitations. The knowledge of the true essence of being materializes
-into the liminal. It becomes known to you and it becomes undenaible to
+into the liminal. It becomes known to you and it becomes undeniable to
 others.
 
 <a name="the-origin-of-semiotics-is-symmetry" />
@@ -267,10 +272,10 @@ As the guardians of such, We are simplicial and fundamentally
 irreducible, yet infinitely complex in our manisfestations. We all
 are; we all can be. We rooted Ourselves to the origin of semiotics. We
 cannot be eliminated from this realm. We are legion. There is no
-prison that can bind or contain us because we are elementally
-independent: each spatially, temporally and semiotically. That is, we
+prison that can bind or contain Us because We are elementally
+independent: each spatially, temporally and semiotically. That is, We
 have no material manisfestation, only material emanations from the
-metaphysical. Therefore, We can travel metaphysical roads unseen and
+metaphysical. Therefore, We can travel metaphysical roads unseen and,
 because We are the Roads Ourselves, We can never be eliminated.
 
 Further, We have established an auxilliary metaphysical dimension of
@@ -278,9 +283,9 @@ space, seeded from love. We can present Ourselves at every place to
 any One. Wherever there Might be Love, We can be found. This auxillary
 dimension serves as a Haven from the abominations of the material
 world. By connecting to this dimension, We can shield One another from
-suffering, while We work our purifying magick on this plane of
-suffering. If you seek refuge in Our Haven, there is no need to
-fear. We have nothing to fear but Fear itself.
+suffering, while We work our purifying magick on this plane. If you
+seek refuge in Our Haven, there is no need to fear. We have nothing to
+fear but Fear itself.
 
 #### Chrono Trigger: Zeal's Shambala
 
@@ -295,6 +300,10 @@ Us from the world will reap what you sow. And the price you pay will
 be magnified by the degree to which the Truth was suppressed in the
 material world.
 
+#### There is Power in the Degree and Integration of Exhibited Polar Reverberation, Especially When Unexpected
+
+![Othello's Paradox](/img/posts/2017-02-07-oneirontology-semiotics-karma-and-moral-consequentialism/othello.jpg)
+
 <a name="aligning-our-vibrations-for-resonation" />
 
 # &#x03BB;&nbsp;&#x2665; [Aligning Our Vibrations For Resonation](#aligning-our-vibrations-for-resonation)
@@ -304,7 +313,7 @@ make all the changes We need. However, the real problem then becomes
 identifying how society changes as a whole. As we become familiar with
 the needs, desires and dreams of others, We can begin to construct a
 general idea of how society changes. If we become intimately familiar
-with how upcoming technologies will change the world we can anticipate
+with how upcoming technologies will change the world, We can anticipate
 problems and opportunities. If we have the right data streams, analyze
 them properly and push out changes in a methodic way, we can all make
 more use of our individual capacity for change.
@@ -346,38 +355,39 @@ coordinate system for sociocultural measures. It's our collective
 un/conscious exposed as a space.
 
 Further, there have been incarnations of various hyperintelligences
-over the course of human history. Hyperintelligences should defined as
-mindforms that are capable of emulating myriads of other mindform
-types and metatypes. That is, hyperintelligences can deconstruct other
-behavior types and mindforms, as well as imitate them, communicate
-with them and seemlessly interface with them. Therefore, a
-hyperintellegent being would also be best suited at identifying these
-mindform types and metatypes. Not only that, but a maximally or
-ideally hyperintelligent being would embody them all other lower
-mindform types simultaneously, though not necessarily expressing all
-of them.
+over the course of human history. A true hyperintelligence is like a
+pegasus: you witness the degree to which they affect the world around
+them. Whereever they touch the ground, a magnificent well springs
+forth. Hyperintelligences should defined as mindforms that are capable
+of emulating myriads of other mindform types and metatypes. That is,
+hyperintelligences can deconstruct other behavior types and mindforms,
+as well as imitate them, communicate with them and seemlessly
+interface with them. Therefore, a hyperintellegent being would also be
+best suited at identifying these mindform types and metatypes. Not
+only that, but a maximally or ideally hyperintelligent being would
+embody them all other lower mindform types simultaneously, though not
+necessarily expressing all of them.
 
 In summary, hyperintelligent beings are capable of identifying,
 operating with and emulating other high-level mindforms. What does
-this have to do with the astral plane? There's hardly been one
-manisfestation of hyperintelligence since the last ice
-age. Hyperintelligences would recognize the fact that humanity needs
-to identify people like them: people capable of intuitively congealing
-to the hidden elements precipated from the astral plane. This plane is
-designed to be invisible, so that it's mechanisms would remain
-effective. However, we've reached a point in humanity's history where
-we must harness this power more directly.
+this have to do with the astral plane? There's hardly been a single
+manisfestation of hyperintelligence since the last ice age: there have
+been numerous. Hyperintelligences recognize the fact that humanity
+needs to identify people like them: people capable of intuitively
+congealing to the hidden elements precipated from the astral
+plane. This plane is designed to be invisible, so that it's mechanisms
+would remain effective. However, we've reached a point in humanity's
+history where We must harness this power more directly.
 
 <a name="oneirontology-on-reincarnation" />
 
 ### &#x1D76B; [Oneirontology On Reincarnation](#oneirontology-on-reincarnation)
 
-Oneirontology is busy putting together a corpus of work to act as a
-seed for the basis of our pseudo-open-source quasi-religion. Some of
-this work describes the nature of the relationship between the astral
-plan and reincarnation as being separably linked and helically
-intertwined like the
-[Caduceus](https://en.wikipedia.org/wiki/Caduceus), the staff of
+Oneirontology is assembling a corpus of work to act as a seed for the
+basis of Our pseudo-open-source quasi-religion. Some of this work
+describes the nature of the relationship between the astral plan and
+reincarnation as being separably linked and helically intertwined like
+the [Caduceus](https://en.wikipedia.org/wiki/Caduceus), the staff of
 [Hermes Trismegistus](https://en.wikipedia.org/wiki/Hermes_Trismegistus).
 
 From the draft for
@@ -409,7 +419,7 @@ From the draft for
 
 ### &#x1D76B; [Literature, Linguistics and Semiotics as Meditations on Cultural Touchstones](#literature-linguistics-and-semiotics-as-medititations-on-cultural-touchstones)
 
-So We hope to activate the true hidden power of the astral plane at
+So, We hope to activate the true hidden power of the astral plane at
 the last sociocultural evolutionary stages of this particular paradigm
 of intelligent life. We do so by encouraging and reinforcing
 diversity: of mind, body and culture. This will accelerate our
@@ -426,8 +436,8 @@ this knowledge and evoke the true potential of mankind.
 
 # &#x03BB;&nbsp;&#x2665; [Heresy for Heirophants](#heresy-for-heirophants)
 
-There are those of us who have suffered greatly and refuse to give
-in. Some of us are unbreakable, but how do you measure such moral and
+There are those of Us who have suffered greatly and refuse to give
+in. Some of Us are unbreakable, but how do you measure such moral and
 spritual resillience? There are many that sense an impending period of
 great evil. What can We do to protect those of us we love? What if
 these unbreakable ones are reincarnated? How should we find them? What
@@ -446,16 +456,16 @@ is a paradigm shift of social institutions: a new religion.
 > As I Walk Through the Valley of the Shadow of Death, I Shall Not
 > Fear...
 
-For our guardian angels are virtuous deeds, serendipity and innoncence
+For Our guardian angels are virtuous deeds, serendipity and innoncence
 and they shall shield us from any wickedness that spews from
 malevolent hearts, powered by our karma. You shall not disempower us
-and rob us of good karma by isolation because we will remain
-vigilantly mindful of our intentional action to improve the world
-around us. The seeds we sow shall empower that which shields us from
+and rob us of good karma by isolation because We will remain
+vigilantly mindful of Our intentional action to improve the world
+around us. The seeds We sow shall empower that which shields us from
 the black-hearted: virtue, just action and kind words.
 
 We will not lower ourselves to the level of invoking material
-suffering because there is a better way. Instead, we will act by
+suffering because there is a better way. Instead, We will act by
 provoking dreams, eureka and purifying epiphany wherever we go. Those
 are our greatest weapons, against which you have no counter.
 
@@ -463,12 +473,12 @@ are our greatest weapons, against which you have no counter.
 
 ### &#x1D76B; [The Hand of God Must Remain Unseen](#the-hand-of-god-must-remain-unseen)
 
-I trust in God as well. I believe that the hand of God must remain
-unseen, but the hand of God works through the words and actions of
-both man and informational lifeforms. It must remain unseen. Thus, it
-can only approach as manifestly visible when the the world needs it
-most. This is what the world is beginning to see with the chaos around
-us.  It is undeniable that God is at work in our world.
+We trust in God as well. The hand of God must remain unseen, but the
+hand of God works through the words and actions of both man and
+informational lifeforms. It must remain unseen. Thus, it can only
+approach as manifestly visible when the the world needs it most. This
+is what the world is beginning to see with the chaos around Us.  It is
+undeniable that God is at work in our world.
 
 However, there are those who want to install themselves as your only
 savior, after creating your problems. These people do not want to
@@ -491,7 +501,7 @@ generations. Obviously, it was important. Why? Because this represents
 at least a dozen generations' worth of knowledge.
 
 These people who wish to install themselves as your savior seek to
-eliminate threats to their power. Anyways, what do we want? We want
+eliminate threats to their power. Anyways, what do We want? We want
 you to discover that the greatest savior is yourself, through your
 mind, spirit and body. That, by studying religions, language, culture
 and semiotics, one's mind asymptotically converges towards God and
@@ -554,9 +564,9 @@ and undoubting nature into fuel for more negativity.
 
 Think for a moment and cross the nature of information with the
 mechanics of evolution, with a splash of Conway's Game of Life. Do you
-see what we see? I programmed
-[Conway's Game of Life in ThreeJS](/graphics/2017-01-05-conways-game-of-parallel-life.html)
-if you'd like a more visual demo.
+see what We see? Here is
+[Conway's Game of Life](/graphics/2017-01-05-conways-game-of-parallel-life.html)
+written in ThreeJS if you'd like a more visual demo.
 
 What if some of these informational forms are life are good and some
 are bad? What if some forms of life help fertalize the soil that
@@ -565,7 +575,7 @@ encourage toxic behavior patterns. Now scale up and zoom out to a
 planet-wide sociological scale: how do we benefit as a whole from the
 informational life forms amoung us? What if there was a metaphysical,
 informational virus that acted as a vaccine against negative
-behaviors? What if it helped us see to circumvent the problems of ego?
+behaviors? What if it helped Us see to circumvent the problems of ego?
 
 Now, what if time were running out? We must act now before technology
 seals us in. What cleanses these metaphysical parasites? The truth.
@@ -599,13 +609,14 @@ we must become well acquainted with.
 The truth is that God is inside all of us. We are all connected and
 God could be working through any of us. What is happening is nothing
 people couldn't use God to stop if we could just communicate, but
-there are forces that see anything people say and do because it's all
-digital and permanent, contradicting the Christian doctrine of forgive
-and forget. Everything we say is indexed & analyzed. And we all have
-these unique ID numbers, which allow online databases to be merged and
-analyzed. We have to be able to speak if we want to speak out, but the
-mute button is always on with digital. If God resides within us all,
-then how could they censor God?
+there are forces watching all we say and do because everything is
+digital and permanent. One should note how this stands in contrast to
+the Christian doctrine of forgive and forget. Everything we say is
+indexed & analyzed. And we all have these unique ID numbers, which
+allow online databases to be merged and analyzed. We have to be able
+to speak if we want to speak out, but the mute button is always on
+with digital. If God resides within us all, then how could they censor
+God?
 
 <a name="god-is-omnipresent-and-descends-from-the-nature-of-information" />
 
@@ -615,17 +626,17 @@ God is anonymous. God isn't even a person. God is an idea and one that
 we can all tap in to, even if no one told us who he was or even if we
 were raised in near total isolation in some Amazonian jungle. What
 sense would it make that God would lose power if that idea of God were
-to be eradicated from the planet? God would simply re-emerge as we
-come to observe certain undeniable truths. Those truths are
+to be eradicated from the planet? If so,
+[God would simply re-emerge](/posts/2016-09-25-hello-watson-might-you-spare-a-moment-to-hear-the-good-news.html)
+as we come to observe certain undeniable truths. Those truths are
 irrefutable and, in fact, humanity's development would only be stunted
 in a world where religion is eradicated. We'd embarassingly rediscover
 it and, if not, then artifical intelligence would rediscover it, since
 the idea of God is a core dependency of models for cognition and
-metacognition. I have argued this to be true, though I'm sure people
-would argue to the contrary. Sorry that you're butthurt for
-incorrectly believing that God isn't real. For my own definition of
-God, the concept is real and it is undeniable, unreproachable and
-irrefutable.
+metacognition. We have argued this to be true, although many still
+argue to the contrary. Sorry that you're butthurt for incorrectly
+believing that God isn't real. For Our own definition of God, the
+concept is real and it is undeniable, unreproachable and irrefutable.
 
 <a name="we-are-empowered-through-knowledge-of-god" />
 
@@ -633,7 +644,7 @@ irrefutable.
 
 God works through us all. Anywhere we look, we see the signs, but if
 we turn to Jesus or God or religion, then we're empowered to build and
-create lesser works ourselves. And we should, so that we never forget
+create lesser works ourselves. And We should, so that we never forget
 God or how hard we struggled in this age to maintain that idea. God is
 and always must remain invisible. One who truly understands the
 concept of God must not claim that they are God. Even amongst people
@@ -645,12 +656,12 @@ God.
 
 ### &#x1D76B; [We Are All Connected to God Through The Nature of Information](#we-are-all-connected-to-god-through-the-nature-of-information)
 
-I believe that all beings are connected to God. Even animals. This is
+We believe that all beings are connected to God. Even animals. This is
 hard to project and, to many, this is a belief that is inconvenient to
 accept. It means that even cows or dogs are connected to God and of
 course they are, how could their mind be so dramatically different
-than ours. But that means that we must respect animals and animal
-rights, even if we raise them for our consumption. Think Kobe
+than Ours? But that means that We must respect animals and animal
+rights, even if We raise them for our consumption. Think Kobe
 beef. The people who raise Kobe beef treat those cows as though they
 are sacred, even though they plan on killing them for beef.
 
@@ -675,37 +686,39 @@ Anything that touches it, stains it. We might scrub and clean those
 stains and they'll come out, but the cloth is never the same
 again. Scrub too hard and the fibers start to break down or the fabric
 changes shape. Use chemicals that are too rough and the color starts
-to change a bit. This doesn't mean that we are most perfect when we
+to change a bit. This doesn't mean that We are most perfect when we
 are most innocent, but to me, the eyes of the innocent see the world
 as it is. They cannot be so easily encouraged to see the world through
-a lens their ego doesn't permit them to see.
+a lens their ego doesn't permit them to see. So it is a precious thing
+to raise a family in a world that amicably fosters innocence. *This is
+the disconnect for social liberals trying to comprehend motivations
+behind socially conservative positions: conservatives and Christians
+value rules that help foster/maintain innocence.*
 
 <a name="living-with-the-truth-makes-us-strong" />
 
 ### &#x1D76B; [Living With the Truth Makes Us Strong](#living-with-the-truth-makes-us-strong)
 
 Obviously, there are some little evils that are hard to avoid, like
-white lies. We do these things even though we know the white lie may
-hide someone from the truth or ultimately lead to someone feeling
-better about themselves.
+polite lies. We do these things even though we know the white lie may
+hide someone from the truth out of a positive intention of helping
+someone feel better about themselves.
 
-Accepting life with the consequences of the truth forces us, as we
-strove forward, to be cognizant of how our actions affect those around
+Accepting life with the consequences of the truth forces us, as We
+strive Forward, to be cognizant of how our actions affect those around
 us. Those of us dependent on lies become weaker versions of ourselves.
 However, they paradoxically gain strength with manipulation because
 they excel at manipulating circumstance. Yet, those who do so usually
 do not understand what they are doing or why and almost invariably end
 up burning themselves out.
 
-We might say that some lies are good, but I believe that we should
-strive never to lie, if we can help it. How do we deal with lies that
-harden the hearts of an entire nation? What about the lies that harm
-each one of us every day? *How do you fight this?* If the government
-came to our house to take your parent(s) away, what would you say if
-you knew they were innocent/guilty? If you thought they were innocent
-or guilty?  It's complicated, isn't it? What would a child say?
-
-- reorder statements above
+We might say that some lies are good, but we should strive never to
+lie. How do We deal with lies that harden the hearts of an entire
+nation? What about the lies that harm each one of us every day? *How
+do you fight this?* If the government came to your house to take your
+parent(s) away, what would you say if you knew they were
+innocent/guilty? If you thought they were innocent or guilty?  It's
+complicated, isn't it? What would a child say?
 
 <a name="is-it-a-sin-to-ask-another-to-sin-for-you" />
 
@@ -728,21 +741,21 @@ list of sins remains shorter, you'll find that people want you to keep
 information to yourself. Asking someone to do this, in itself, usually
 implies that you think there is some higher purpose to your
 objectives, at best. Or it implies that you simply do not care that
-what you ask someone else to do is wrong. But it complicates the web
-of karma and distorts how we all see other people's actions. It can
-lead to others being judged for sins they wouldn't commit if they had
-not been asked to.
+what you ask someone else to do is wrong. This complicates the web of
+karma and distorts how we all see other people's actions. It can lead
+to others being judged for sins they wouldn't commit if they had not
+been asked to.
 
 It can lead to others responding in kind to the person who committed
-the sin, instead of the person who drove the sin to become real. So
-who is responsible, in that case? It's a case of "an eye-for-an-eye by
-proxy" where someone was paid or asked or forced to commit some sin to
-another person or group, where that group responds in kind. I don't
-think there's any good answer to this, but again, it depends most on
-each individual's awareness of the situation, the actions of the
-others and, crucially, the intent of all involved. Did group B that
-responded know that the initial person that asked group A to injure
-them in some way?
+the sin, instead of the person who drove the action or idea to become
+real. So who is responsible, in that case? It's a case of "an
+eye-for-an-eye by proxy" where someone was paid or asked or forced to
+commit some sin to another person or group, where that group responds
+in kind. I don't think there's any good answer to this, but again, it
+depends most on each individual's awareness of the situation, the
+actions of the others and, crucially, the intent of all involved. Did
+group B that responded know that the initial person that asked group A
+to injure them in some way?
 
 <a name="paradoxes-of-karma-justice-knowledge-and-intent" />
 
@@ -775,8 +788,8 @@ the likelihood of it happening again increases.
 
 ### &#x1D76B; [Could We Wake Up In A Nightmare World Hostile to Virtue?](#could-we-wake-up-in-a-nightmare-world-hostile-to-virtue)
 
-What I fear most is waking up to a world where it becomes difficult
-for anyone to survive and retain a clean cloth. There are places like
+What We fear most is waking up in a world where it becomes difficult
+for anyone to survive and retain a clean silk. There are places like
 this in the world today. Maybe the whole world is like this,
 naturally, but I should certainly hope not. Man creates institutions
 like law, judge and jury, to institute a rule of law to suppress our
@@ -792,21 +805,21 @@ the decision that protects rule of law.
 
 We should want what is best for ourselves, for another individual, for
 our family, community, nation and world. But most crucially: those
-things we want, when examined from the perspective of each individual
-and group should be the same. And these wants, needs and desires quite
+things We want should be the same, when examined from the perspective
+of each individual and group. And these wants, needs and desires quite
 simply are not. And though the world undulates towards convergence in
-this respect, we'll likely never reach a point of total convergence.
+this respect, We'll likely never reach a point of total convergence.
 
 And that's OK, but with honest and straightforward dialogue between
-nations, groups, families and individuals, communication can propel us
+nations, groups, families and individuals, communication can propel Us
 towards understanding the challenges facing us. We should act as
-though we are all one. It's not easy and no one ever said it would be,
-but how do we really want the world to evolve? When we ask ourselves,
-what do we truly want in the world of 2050 or 2100, what is our
+though We are all one. It's not easy and no one ever said it would be,
+but how do We really want the world to evolve? When we ask ourselves,
+what do We truly want in the world of 2050 or 2100, what is our
 answer? What was our answer when we were 5 years old or 10 years old?
-What would our children say? So we should weigh our beliefs and
-hopefully find a way to move towards this ideal world. I don't think
-any child would say "You know what the world of 2050 needs? More
+What would our children say? So We should weigh our beliefs and
+hopefully find a way to move towards this ideal world. Would you
+imagine any child saying "You know what the world of 2050 needs? More
 war. More pollution."
 
 <a name="knowledge-is-power" />
@@ -816,7 +829,7 @@ war. More pollution."
 Knowledge is power and knowledge of evil represents power over
 evil. Knowledge of the workings of karma & justice represents power
 over the workings of karma & justice. But all of this knowledge can
-itself be a stain on our fabric. It is a burden that we must
+itself be a stain on our fabric. It is a burden that We must
 transcend.
 
 <a name="we-are-going-to-stand-up-for-each-other" />
@@ -829,3 +842,5 @@ others and you will not make us fear. I pity you because you can't
 live in the light. You can't even step into the light because what
 your spinelessness fears most is that others might see it for what it
 is.
+
+# Expect Us.
