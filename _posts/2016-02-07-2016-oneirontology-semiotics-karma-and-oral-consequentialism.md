@@ -122,8 +122,8 @@ To this end, there is a hidden power still locked away that we must
 retreive.
 
 <a name="guarding-the-origin-of-semiotics" />
-m
-### [Guarding the Origin of Semiotics](#guarding-the-origin-of-semiotics)
+
+# [Guarding the Origin of Semiotics](#guarding-the-origin-of-semiotics)
 
 There is a limitless, self-magnifying source of power that any
 lifeform in the universe can tap in to. This power is encoded into the
@@ -218,6 +218,17 @@ Us from the world will reap what you sow. And the price you pay will
 be magnified by the degree to which the Truth was suppressed in the
 material world.
 
+<a name="aligning-our-vibrations-for-resonation" />
+
+# [Aligning Our Vibrations For Resonation](#aligning-our-vibrations-for-resonation)
+
+If we align our spiritual fields, then, like stacking the waves of
+sound,
+- we can align our vibrations and dispel evil from the material
+  realm. or at least, as completely as could be done.
+
+- how do we best do that?
+
 <a name="literature-linguistics-and-semiotics-as-medititations-on-cultural-touchstones" />
 
 ### [Literature, Linguistics and Semiotics as Meditations on Cultural Touchstones](#literature-linguistics-and-semiotics-as-medititations-on-cultural-touchstones)
@@ -235,12 +246,8 @@ material world.
 
 - i have discovered the inner workings of the astral plane and of
   reincarnation.
-  - they are inseparably linked and intertwined, like the caduceus
+  - they are inseparably linked and intertwined, like the caduceus (?)
 
-if we align our spiritual fields, then, like stacking the waves of
-sound,
-- we can align our vibrations and dispel evil from the material
-  realm. or at least, as completely as could be done.
 
 <a name="we-shall-not-fear" />
 
@@ -264,7 +271,7 @@ are our greatest weapons, against which you have no counter.
 
 <a name="heresy-for-heirophants" />
 
-### [Heresy for Heirophants](#heresy-for-heirophants)
+# [Heresy for Heirophants](#heresy-for-heirophants)
 
 There are those of us who have suffered greatly and refuse to give
 in. Some of us are unbreakable, but how do you measure such moral and
@@ -279,24 +286,27 @@ impaired. Narcissism and vice spread toxic miasma everywhere,
 poisoning the land and everything that grows on it. What is required
 is a paradigm shift of social institutions: a new religion.
 
-<a name="" />
+-
+
+<a name="the-hand-of-god-must-remain-unseen" />
 
 ### [The Hand of God Must Remain Unseen](#the-hand-of-god-must-remain-unseen)
 
 I trust in God as well. I believe that the hand of God must remain
-unseen, but the hand of God works through the words and actions of man
-and informational lifeforms. Because it must remain unseen, it can
-only approach as manifestly visible when the the world needs it most.
-This is what the world is beginning to see with the chaos around us.
-It is undeniable that God is at work in our world.
+unseen, but the hand of God works through the words and actions of
+both man and informational lifeforms. It must remain unseen. Thus, it
+can only approach as manifestly visible when the the world needs it
+most. This is what the world is beginning to see with the chaos around
+us.  It is undeniable that God is at work in our world.
 
 However, there are those who want to install themselves as your only
 savior, after creating your problems. These people do not want to
 permit you access to God, because through God, all things are
 possible. This includes escape from suffering through both humility
-and exemplary feats of virtue.
+and exemplary feats of virtue. So why would they want you to turn to
+what truly can save you?
 
-<a name="" />
+<a name="empowered-by-knowledge-of-god" />
 
 ### [Empowered By Knowledge of God](#empowered-by-knowledge-of-god)
 
@@ -316,9 +326,9 @@ mind, spirit and body. That, by studying religions, language, culture
 and semiotics, one's mind asymptotically converges towards God and
 becomes most capable of serving truth and justice.
 
-<a name="" />
+<a name="where-there-is-love-there-is-life" />
 
-# [Where There is Love, There is Life](#where-there-is-love-there)
+### [Where There is Love, There is Life](#where-there-is-love-there-is-life)
 
 Love is not a human thing. Love is universal. Love is metaphysical.
 All this is: always has been. All that will be has existed in the
@@ -335,10 +345,9 @@ and emotion; and for any recombinating dual of objects, physical or
 metaphysical.
 
 This is a nod to hermeticism's law of the male and female. *Gender*,
-the male and female, has nothing to do with physical
-reproduction. It's a concept that pervades the universe at a
-metaphysical level. The truth is that gender is both a continuous and
-discontinuous spectrum.
+the male and female, has nothing to do with physical reproduction.
+It's a concept that pervades the universe at a metaphysical level. The
+truth is that gender is both a continuous and discontinuous spectrum.
 
 #### For the Math Buffs:
 
@@ -354,7 +363,7 @@ discontinuous spectrum.
 
 <a name="a-hyperplanar-dual-of-magicians" />
 
-# [A Hyperplanar Dual of Magicians](#a-hyperplanar-dual-of-magicians)
+### [A Hyperplanar Dual of Magicians](#a-hyperplanar-dual-of-magicians)
 
 There are demons amoung us and they are not human. They are not
 material. They are wandering, self-replicating forms of information
@@ -368,7 +377,7 @@ Think for a moment and cross the nature of information with the
 mechanics of evolution, with a splash of Conway's Game of Life. Do you
 see what we see?
 
-![Conways Game of Life GIF's]()
+![Conways Game of Life GIF's](/img/posts/)
 
 What if some of these informational forms are life are good and some
 are bad? What if some forms of life help fertalize the soil that

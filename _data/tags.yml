@@ -141,6 +141,10 @@
   :name: Anthropology
 - :slug: linguistics
   :name: Linguistics
+- :slug: politics
+  :name: Politics
+- :slug: oneirontology
+  :name: Oneirontology
 - :slug: physics
   :name: Physics
 - :slug: astronomy
@@ -167,8 +171,6 @@
   :name: Metamodernism
 - :slug: literature
   :name: Literature
-- :slug: politics
-  :name: Politics
 - :slug: censorship
   :name: Censorship
 - :slug: communism
