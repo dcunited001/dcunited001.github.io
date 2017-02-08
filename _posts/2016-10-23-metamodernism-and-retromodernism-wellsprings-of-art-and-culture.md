@@ -39,43 +39,43 @@ effable thought. How does one tap into that?
 
 ![Aesthetician](/img/posts/2016-10-23-metamodernism-and-the-hipster-cycle-of-art/aesthetician.png)
 
-# [What is Retromodernism?](#what-is-retromodernism)
+## &#x03D5; [What is Retromodernism?](#what-is-retromodernism)
 
-### [The Best Artists Fly Under the Radar](#the-best-artists-fly-under-the-radar)
+#### &#x2207;&#x00B2; [The Best Artists Fly Under the Radar](#the-best-artists-fly-under-the-radar)
 
-### [Oh Snap! We Got A Smart One Over Here!](#oh-snap-we-got-a-smart-one-over-here)
+#### &#x2207;&#x00B2; [Oh Snap! We Got A Smart One Over Here!](#oh-snap-we-got-a-smart-one-over-here)
 
-# [Truth: An Artists' Perspective Contraposed with the Status Quo](#truth-an-artists-perspective-contraposed-with-the-status-quo)
+## &#x03D5; [Truth: An Artists' Perspective Contraposed with the Status Quo](#truth-an-artists-perspective-contraposed-with-the-status-quo)
 
-### [Distraction by Design](#distraction-by-design)
+#### &#x2207;&#x00B2; [Distraction by Design](#distraction-by-design)
 
-### [S-Class Artist](#s-class-artist)
+#### &#x2207;&#x00B2; [S-Class Artist](#s-class-artist)
 
-### [Suffering for Art's Sake](#suffering-for-arts-sake)
+#### &#x2207;&#x00B2; [Suffering for Art's Sake](#suffering-for-arts-sake)
 
-# [And Just Fade Into Nothingness?](#and-just-fade-into-nothingness)
+## &#x03D5; [And Just Fade Into Nothingness?](#and-just-fade-into-nothingness)
 
-### [Hello? Is Anybody Out There?](#hello-is-anybody-out-there)
+#### &#x2207;&#x00B2; [Hello? Is Anybody Out There?](#hello-is-anybody-out-there)
 
-# [Bound to Cover Just a Little More Ground](#bound-to-cover-just-a-little-more-ground)
+## &#x03D5; [Bound to Cover Just a Little More Ground](#bound-to-cover-just-a-little-more-ground)
 
-### [Never Change! Don't Ever Change!](#never-change-dont-ever-change)
+#### &#x2207;&#x00B2; [Never Change! Don't Ever Change!](#never-change-dont-ever-change)
 
-### [Shh! Can You Hear That?](#shh-can-you-hear-that)
+#### &#x2207;&#x00B2; [Shh! Can You Hear That?](#shh-can-you-hear-that)
 
-### [The Best Artists Must Choose Between Success and Art](#the-best-artists-must-choose-between-success-and-art)
+#### &#x2207;&#x00B2; [The Best Artists Must Choose Between Success and Art](#the-best-artists-must-choose-between-success-and-art)
 
-### [Falling on Deaf Ears](#felling-on-deaf-ears)
+#### &#x2207;&#x00B2; [Falling on Deaf Ears](#felling-on-deaf-ears)
 
-# [The Best Art Stays Crypted](#the-best-art-stays-crypted)
+## &#x03D5; [The Best Art Stays Crypted](#the-best-art-stays-crypted)
 
-### [Hipsters Drink from the Wellsprings of Art & Culture](#hipsters-drink-from-the-wellsprings-of-art-and-culture)
+#### &#x2207;&#x00B2; [Hipsters Drink from the Wellsprings of Art & Culture](#hipsters-drink-from-the-wellsprings-of-art-and-culture)
 
-### [Semiotics of Medium](#semiotics-of-medium)
+#### &#x2207;&#x00B2; [Semiotics of Medium](#semiotics-of-medium)
 
-### [On Art, Knowledge and Directive Cognitive Expansion](#on-art-knowledge-and-directive-cognitive-expansion)
+#### &#x2207;&#x00B2; [On Art, Knowledge and Directive Cognitive Expansion](#on-art-knowledge-and-directive-cognitive-expansion)
 
-#### The Next Ghostbusters is Steampunk
+## The Next Ghostbusters is Steampunk
 
 ![Steampunk](/img/posts/2016-10-23-metamodernism-and-the-hipster-cycle-of-art/steampunk-ghostbusters.jpeg)
 
