@@ -1,5 +1,5 @@
 ---
-title: "Ragnarok & Metaphysics: Engineering Cultural Touchstones for Mythos"
+title: "Ragnarok & Semiotics: Engineering Cultural Touchstones for Mythos"
 categories: "blog"
 tags: "sociology politics"
 headline: ""
@@ -8,8 +8,8 @@ author:
 excerpt: ""
 ---
 
-Heads up: this article contains hot fire. Ne Touchez Pas! if
-Prometheus' fate disturbs you. Don't play with fire, don't play in the
+Heads up: this article contains hot fire. Ne Touchez Pas! If
+Prometheus' fate disturbs you: don't play with fire, don't play in the
 street and don't touch Dimension W.
 
 ### Design of Knowledge Systems for Robustness of Culture, Preservation of Authenticity, etc
@@ -18,7 +18,9 @@ Some knowledge and information is less likely to degrade over time.
 - Cultures often rely on myths during time of turmoil to preserve
 information in an encoded form
   - one could argue that Ragnarok symbolizes the end of the world as
-    we know it, due to overpopulation.
+    we know it. Like most other apocalypse myths from the age of
+    Pisces, the end of the world symbolizes the changes introduced
+    from exponential population growth.
     - the scenario is the end of the world, when the Gods return one
       final time.
     - the "end of the world" due to overpopulation has been known
