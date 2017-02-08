@@ -8,15 +8,98 @@ author:
 excerpt: ""
 ---
 
-Heads up: this article contains hot fire. Ne Touchez Pas! If
-Prometheus' fate disturbs you: don't play with fire, don't play in the
-street and don't touch Dimension W.
+> Heads up: this article contains hot fire. Ne Touchez Pas! If
+> Prometheus' fate disturbs you: don't play with fire, don't play in
+> the street and don't touch Dimension W.
 
-### Design of Knowledge Systems for Robustness of Culture, Preservation of Authenticity, etc
+Remember Prometheus? Cursed to being a liver-packed bento-box meal for
+an Eagle. All day, every day, for eternity. Sounds super fun, right?
+Who wouldn't love that?
 
-Some knowledge and information is less likely to degrade over time.
-- Cultures often rely on myths during time of turmoil to preserve
-information in an encoded form
+This article discusses how to apply the principles of architecture to
+semiotics and mythology to create worldview-evoking belief systems
+robust enough to stand the test of time. Usually, such rare knowledge
+requires generations of distillation, like a priceless bottle of wine.
+After investing ten minutes in this article, you too can craft your
+own belief system that will stand the test of time.
+
+Or at least understand how "they" did it... It all has to do with
+semiotics. This is
+
+# Design of Knowledge Systems
+
+### Robustness of Culture, Preservation of Authenticity, etc
+
+All knowledge and information is will degrade over time. Most worldly
+knowledge is nothing without a mind to host it. Therefore, if the
+system of developing/spreading knowledge doesn't include a system of
+perpetuating its distribution, then it will be impermanent. In
+particular, if the system doesn't have some means of handling times of
+poor distribution/dispersability of knowledge, then it will almost
+certainly fail. This is because it can't handle the inevitable event
+where it's nearly eliminated.
+
+On the other hand, one can design knowledge systems whose operation
+excels only when there is poor distribution/dispersibility. These
+systems are very difficult to root out, because like the Furians of
+Riddick, those who have the knowledge gain power upon its near
+demise. Therefore the economics of these systems create incentives to
+perpetuate the system when it's on its last legs.
+
+How does one become familiar with different systems of knowledge and
+culture perpetuation? Like Merlin and the druids of Celt, one accrues
+this knowledge over time, by learning to weave ideas and their
+semiotic pointers. Is this a skill? Is this a kind of knowledge in
+itself? And if so, what is the basis of this skill of knowledge
+perpetuation? What are the peculiarities of such skills and systems of
+knowledge? How much of history are we missing, if there have always
+been massive incentives to keep secret the inner workings of science
+and world politics?
+
+IMO, the best place to learn about this is from cultures who went
+underground by necessity.  The Celts, the Nords and the Goths are all
+perfect examples of cultures who's elements and mythologies were
+forced underground as Christianity swept over America. Specifically,
+the Nords developed Ragnarok, which is one of many apocalypse myths of
+world culture.
+
+IMO: the Nords along with the rest of Europe compromised and agreed to
+surpress their pagan history for a united, geopolitically defensible
+Europe. But what Ragnarok represents is a literal return of the pagan
+gods at the antipated culmination of human history thus far:
+overpopulation. Here, the Nords may have intentionally created this
+myth as an amalgamtion of other myths in an attempt to conserve what
+is essentially a ZIP file of their culture. *The Nords intended their
+mythos to be unpacked and their Gods again reified at a critical time
+in history.*
+
+Information compression mostly works the same, whether you are
+compressing text encoded into tries or compressing hashmaps of some
+representation of data, semantic and/or semiotic. You're basically
+trying to find a "folding" pattern for the data that makes it small
+and compressible.
+
+When applied to cultural mythos, this compression is advantageous:
+tightly-packed ideas inspire thought and study to decompress
+them. This thought reinforces their longevity within the minds that
+host them. Compression also serves as a kind of camoflauge that
+protects these ideas and their functioning from competing belief
+systems. Compression of these myths makes them more viral, more viable
+and more likely to survive knowledge extinction events.
+
+So, cultures like the Norse often rely on myths during time of turmoil
+to preserve information in an encoded form. In terms of geopolitics,
+they could see which way the wind was blowing in Europe: either Europe
+united through Christianity as a cultural basis or Europe would be
+economically and geopolitically subservient to the Middle East. They
+codified these myths in such a way as to ostensibly retain their
+cultural identity while putting together a set of behaviors encoded in
+myth, whose execution would begin upon apocalyptic events. Ragnarok is
+perhaps the best example of a subversive attempt to use information
+compression for cultural preservation.
+
+
+
   - one could argue that Ragnarok symbolizes the end of the world as
     we know it. Like most other apocalypse myths from the age of
     Pisces, the end of the world symbolizes the changes introduced

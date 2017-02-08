@@ -1207,7 +1207,6 @@ sumerian creation myth (1600 BC)
 development of mythology
     - gilgamesh
 
-
 - could ancient people anticipate the water level *maximum* by looking
   at erosion and understanding basic geology
   - it would be fairly trivial (in some areas) to look and see that
@@ -1236,7 +1235,6 @@ development of mythology
     - but if there were any major adaptation that dependably extended
       the lifetime of one group of people over another, this would
       present a major evolutionary advantage in early history
-
 
 - equatorial regions valuable as ideal locations for both:
   - geostationary space elevators
