@@ -145,15 +145,17 @@ before this is all finished, the rest of the Illuminati's secrets will
 be revealed. And no, this ain't no !@#$'ing Youtube documentary. And
 the Illuminati always knew that the time would could when all their
 sins throughout history would be out in open air in front of
-everyone. It's not like they didn't see it coming.
+everyone. It's not like they didn't see it coming. And it's not like
+they can't justify their dirty laundry: they all know it and they hate
+themselves. It's a dirty job, but someone's gotta do it.
 
-      - There are 3 monsters: a land, sea and air monster (sound
-        familiar?)
-        - the sea monster is Jormungand, the snake
-        - the land monster is Fenrir, the wolf
-        - third monster (maybe i'm off on this?)
-      - Thor is poisoned by jormungand's bite, but successfully
-        destroys him
+- There are 3 monsters: a land, sea and air monster (sound
+  familiar?)
+  - the sea monster is Jormungand, the snake
+  - the land monster is Fenrir, the wolf
+  - third monster (maybe i'm off on this?)
+- Thor is poisoned by jormungand's bite, but successfully
+    destroys him
 
 ### Ragnarok was pre-literary futurism
 

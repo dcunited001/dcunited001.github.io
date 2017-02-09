@@ -291,7 +291,7 @@ the government will
 
 ===============
 
-### politics
+## politics
 
 - how to properly monitor US elections
 
@@ -299,6 +299,28 @@ the government will
   - stanford/etc studies about how bernie sanders had the election
     stolen from him
   - voting machines can be rigged in seven minutes or less
+
+
+#### how liberals are abusing mob tactics to stifle discussion online
+
+- put this in parapets?
+
+Yeh, they are taking an organized approach to policing online debate
+and systematically pushing out conservative moderators from FB Groups
+and Reddit
+
+So they get every welfare check cashing one of em to stifle the
+opinions of hardworking conservative thinkers
+
+Liberals abused the NSA to censor topics, politically, so they could
+swing the vote come election time. They use demagoguery to corral
+discussion of conservative-friendly topics to FB Groups and/or
+Reddit. Then they "stock the pond" of Reddit and FB Group moderators
+so these fucking bolsheviks can censor by veto. And don't forget,
+liberals fucking run silicon valley and they've been systemically
+pushing out conservatives for at least a decade, so those on he right
+would be so culturally out of touch, they couldn't figure out what was
+happening to stop it.
 
 ===============
 
@@ -589,5 +611,3 @@ this is based on a math paper i read a few years back
 - the authors of the math paper were only aware of
 
 =============
-
-

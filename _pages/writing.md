@@ -627,7 +627,6 @@ contained within it.
 
 #### &#x2605; [Directive Cognitive Expansion](/posts/2015-08-26-epistemology-cognition-and-category-theory-part-three.html)
 
-
 This is an unfinished series on the mind and its connections to the
 nature of knowledge and cognition. These articles tie together of
 neurology, psychology, cognition, metacognition, philosophy, category
