@@ -137,9 +137,15 @@ Because the West didn't want the rest of the world to know that North
 America was ripe for the picking. Again, why? Because western maritime
 navigability was inferior until the era before the Renaissance.
 
-So... Columbus is a lie. Do you feel any better? What about the rest
-of history? How many teachers in America will look you in the eye and
-tell you the story of Columbus?
+So... Columbus is a lie, partly to cover genocide. *WOOPS WE DIDN'T
+MEAN TO!!* ... It was an "accident" and nothing more. Do you feel any
+better? What about the rest of history? How many teachers in America
+will look you in the eye and tell you the story of Columbus? So,
+before this is all finished, the rest of the Illuminati's secrets will
+be revealed. And no, this ain't no !@#$'ing Youtube documentary. And
+the Illuminati always knew that the time would could when all their
+sins throughout history would be out in open air in front of
+everyone. It's not like they didn't see it coming.
 
       - There are 3 monsters: a land, sea and air monster (sound
         familiar?)
