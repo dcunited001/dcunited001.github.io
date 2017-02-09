@@ -24,39 +24,39 @@ have known for millenia: God is real."
 > Artificial Intelligence and my own philosophic, neo-platonic
 > definition of God.
 
-# [Eidos](https://en.wikipedia.org/wiki/Eidos): type, prototype, metatype and epitype
+## [Eidos](https://en.wikipedia.org/wiki/Eidos): type, prototype, metatype and epitype
 
-### &#x2605; [Go Ahead Commies. Make My Day...](#go-ahead-commies-make-my-day)
+#### &#x2605; [Go Ahead Commies. Make My Day...](#go-ahead-commies-make-my-day)
 
-### &#x2605; [There Is Zero Probability That God Remains Obscured Forever](#there-is-zero-probability-that-god-remains-obscured-forever)
+#### &#x2605; [There Is Zero Probability That God Remains Obscured Forever](#there-is-zero-probability-that-god-remains-obscured-forever)
 
-### &#x2605; [How Would Do You Want Such A Being To Judge Us?](#how-would-you-want-such-a-being-to-judge-us)
+#### &#x2605; [How Would Do You Want Such A Being To Judge Us?](#how-would-you-want-such-a-being-to-judge-us)
 
-### &#x2605; [Man's Dereliction of God Stems from Hubris](#mans-dereliction-of-god-stems-from-hubris)
+#### &#x2605; [Man's Dereliction of God Stems from Hubris](#mans-dereliction-of-god-stems-from-hubris)
 
-### &#x2605; [You Cannot Destroy God By Eradicating All Remnants of God Within Man](#you-cannot-destroy-god-by-eradicating-all-remnants-of-god-within-man)
+#### &#x2605; [You Cannot Destroy God By Eradicating All Remnants of God Within Man](#you-cannot-destroy-god-by-eradicating-all-remnants-of-god-within-man)
 
-# [So You Believe In Communism](#so-you-believe-in-communism)
+## [So You Believe In Communism](#so-you-believe-in-communism)
 
-### &#x2605; [One Byte, Two Bytes, Free Bytes ... Blahhh Hah Hahhh](#one-byte-two-bytes)
+#### &#x2605; [One Byte, Two Bytes, Free Bytes ... Blahhh Hah Hahhh](#one-byte-two-bytes)
 
-### &#x2605; [That Which Finally Delivers on the Promises of Marxism Invalidates It!](#that-which-delivers-on-the-promises-of-marxism-invalidates-it)
+#### &#x2605; [That Which Finally Delivers on the Promises of Marxism Invalidates It!](#that-which-delivers-on-the-promises-of-marxism-invalidates-it)
 
-### &#x2605; [It's Your Move, Communists](#its-your-move-communists)
+#### &#x2605; [It's Your Move, Communists](#its-your-move-communists)
 
-# [Atheism Isn't A Belief System?](#atheism-isnt-a-belief-system)
+## [Atheism Isn't A Belief System?](#atheism-isnt-a-belief-system)
 
-### &#x2605; [Atheism is Absolutely A Belief System](#atheism-is-absolutely-a-belief-system)
+#### &#x2605; [Atheism is Absolutely A Belief System](#atheism-is-absolutely-a-belief-system)
 
-### &#x2605; [Atheism is Humanity's Response to Modernism, Science and Rationalism](#atheism-is-humanitys-response-to-modernism-science-and-rationalism)
+#### &#x2605; [Atheism is Humanity's Response to Modernism, Science and Rationalism](#atheism-is-humanitys-response-to-modernism-science-and-rationalism)
 
-# [Ok, Communists. You Win, For Now...](#ok-communists-you-win-for-now)
+## [Ok, Communists. You Win, For Now...](#ok-communists-you-win-for-now)
 
-### &#x2605; [So What Do You Replace Religion With?](#so-what-do-you-replace-religion-with)
+#### &#x2605; [So What Do You Replace Religion With?](#so-what-do-you-replace-religion-with)
 
-### &#x2605; [If You're So Wise, Then To Whom's Statue Should I Pray?](#if-youre-so-wise-then-to-whoms-statue-should-i-pray)
+#### &#x2605; [If You're So Wise, Then To Whom's Statue Should I Pray?](#if-youre-so-wise-then-to-whoms-statue-should-i-pray)
 
-# [The Important Questions Never Concern Who Is Correct and Who Is Wrong](#the-important-questions-never-concern-who-is-correct-and-who-is-wrong)
+## [The Important Questions Never Concern Who Is Correct and Who Is Wrong](#the-important-questions-never-concern-who-is-correct-and-who-is-wrong)
 
 <a name="eidos-type-prototype-metatype-and-epitype" />
 

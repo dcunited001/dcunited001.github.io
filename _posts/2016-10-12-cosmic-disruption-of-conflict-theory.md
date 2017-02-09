@@ -23,7 +23,7 @@ a month!
 Human conflict is truly bourne from competition over resources. It is
 sometimes driven by ideological means, but when you dig deep enough,
 usually you find that ideology is reinforced and propelled as a means
-of obscuring the true causes of conflict, often incovenient. This is
+of obscuring the true causes of conflict, often inconvenient. This is
 not to say that your chosen religion is an invention inspired by
 control of humanity. Regardless, ideologies are often used centuries
 after their invention as a means to unify regional populations for
