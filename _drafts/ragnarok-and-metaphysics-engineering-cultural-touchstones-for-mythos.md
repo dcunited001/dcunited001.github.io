@@ -104,27 +104,43 @@ Ragnarok symbolizes the end of the world as we know it. Like most
 other apocalypse myths from the age of Pisces, the end of the world
 symbolizes the changes introduced from exponential population growth.
 
-The Norse Gods return one final time. The end of
+During Ragnarok, the Norse Gods return one final time. In this myth,
+Thor struggles against Jormungand, a snake streching around the
+world. This snake is an Ouroborosian symbol, which is critical in
+composing an interpretation of what Jormungand represents. Ouroboros
+is a snake that grasps its own tail. It's a symbol found in many
+esoteric traditions and one that represents a group dynamic where the
+strong devour the weak for sustenance and to cleanse the group of
+weakness. It's pretty evil.
 
-The scenario: the end of the world, when
+However, theres another meaning to Jormungand, which lies closer to
+another interpretation of Ouroboros: the global economy. But first, if
+the snake has curled around the world, then it would be impossible for
+the Nords to be unaware of the spherical shape of the world. And, as
+the stewards of Thule and Hyperboria, the Nords were perhaps the
+people *most* aware of the spherical shape of the world. The Nords
+were well-versed in navigation and travelled from close to the Arctic
+Circle to close the the equator. **It would be impossible for the
+Nords to navigate their corner of earth while being unaware of the
+spherical shape of the Earth**.
 
-    - the "end of the world" due to overpopulation has been known
-      since time immemorial
-      - in Ragnarok, Thor fights Jormungad, a snake streching around
-        the world. in this snake, we find ouroborosian symbology,
-        which IMO is critical in composing an interpretation of what
-        Jormungand represents
-        - according to wikipedia, the snake grasps its own tail
-      - if the snake has curled around the world, then it would be
-        impossible for Nordic people to be unaware of the spherical
-        shape of the world
-        - furthermore, Nords were well-versed in navigation and
-          travelled from close the the Arctic Circle to close to the
-          equator in the 2nd Crusade.
-        - THEREFORE IT WOULD BE IMPOSSIBLE FOR THEM TO BE UNAWARE OF
-          THE SPHERICAL SHAPE OF THE WORLD...
-          - (the ignorance of columbus is perhaps the greatest lie of
-            western "history")
+The previous sentence should be read as: if you know anything about
+navigating with 15th century technology, Columbus was a cover story
+for incidental genocide. The ignorance of Columbus is the greatest lie
+of Western history. The degree to which this lie has been spread
+through Western history tells you a lot about the quality and
+trustworthiness of historical records themselves: they don't account
+for secret and top secret information. Why would the West lie about
+America and keep it secret from the time of
+[St. Brendan the Navigator](https://en.wikipedia.org/wiki/Brendan)?
+Because the West didn't want the rest of the world to know that North
+America was ripe for the picking. Again, why? Because western maritime
+navigability was inferior until the era before the Renaissance.
+
+So... Columbus is a lie. Do you feel any better? What about the rest
+of history? How many teachers in America will look you in the eye and
+tell you the story of Columbus?
+
       - There are 3 monsters: a land, sea and air monster (sound
         familiar?)
         - the sea monster is Jormungand, the snake
