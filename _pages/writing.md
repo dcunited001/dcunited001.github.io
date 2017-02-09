@@ -182,6 +182,8 @@ places.
 
 #### &#x2605; [I’m Not Religious, I’m Spiritual: A Lighthouse in a Storm](/posts/2016-07-01-im-not-religious-im-spiritual-3-a-lighthouse-in-a-storm.html)
 
+#### &#x2605; [Hello Watson, Might You Spare a Moment to Hear the Good News](/posts/2016-09-25-hello-watson-might-you-spare-a-moment-to-hear-the-good-news.html)
+
 ## [Epistemology](#epistemology)
 
 #### &#x2605; [From the Parapets of Alexandria](2016-08-01-from-the-parapets-of-alexandria-knowledge-extinction-events.html)
@@ -194,9 +196,15 @@ places.
 
 ## [Postmodernism and Metamodernism](#postmodernism-and-metamodernism)
 
+#### &#x2605; [Metamodernism & Retromodernism: Wellspings of Art & Culture](/posts/2016-10-23-metamodernism-and-retromodernism-wellsprings-of-art-and-culture.html)
+
 #### &#x2605; [Paradox of Creativity](/posts/2016-05-16-the-paradox-of-creativity.html)
 
 #### &#x2605; [Death of Creativity](/posts/2016-05-17-the-death-of-creativity.html)
+
+## [Refuting Marxism](#refuting-marxism)
+
+#### &#x2605; [Cosmic Disruption of Conflict Theory](/posts/2016-10-12-cosmic-disruption-of-conflict-theory.html)
 
 # &#x16DD; [Oneirontology](#oneirontology) &#x16DD;
 
@@ -593,12 +601,14 @@ things harder for me. In other words, their cost function is not
 optimized on my success, BUT ON MY FAILURE! Both in the short-term and
 long-term!
 
-That sounds !@#$'ing crazy! But when, given hundreds of decisionx
+That sounds !@#$'ing crazy! But when, given hundreds of decision
 points, when I gauge the impact and intention behind their actions
 and, most crucially, the alternative available words/actions, it
 becomes clear: this person or this group does not care about me. Over
 the course of hundreds of interactions, it becomes clear: they always
 go with what is negative for me, especially in the long term.
+
+### [Hello Watson, Might You Spare a Moment to Hear the Good News](/posts/2016-09-25-hello-watson-might-you-spare-a-moment-to-hear-the-good-news.html)
 
 <a name="epistemology" />
 
@@ -674,6 +684,11 @@ visited my site in six hours. When I saw that number, I thought there
 must be something wrong! NOPE!
 
 ### [Death of Creativity](/posts/2016-05-17-the-death-of-creativity.html)
+
+# &#x16DD; [Refuting Marxism](#refuting-marxism) &#x16DD;
+
+### [Cosmic Disruption of Conflict Theory](/posts/2016-10-12-cosmic-disruption-of-conflict-theory.html)
+
 
 <a name="physical-sciences" />
 

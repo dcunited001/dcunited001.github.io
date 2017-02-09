@@ -24,7 +24,7 @@ After investing ten minutes in this article, you too can craft your
 own belief system that will stand the test of time.
 
 Or at least understand how "they" did it... It all has to do with
-semiotics. This is
+semiotics. This is...
 
 # Design of Knowledge Systems
 
@@ -98,14 +98,16 @@ myth, whose execution would begin upon apocalyptic events. Ragnarok is
 perhaps the best example of a subversive attempt to use information
 compression for cultural preservation.
 
+Still, Ragnarok is more than this. It is pre-literary futurism. It
+shows that the ancients knew far more than they are given credit.
+Ragnarok symbolizes the end of the world as we know it. Like most
+other apocalypse myths from the age of Pisces, the end of the world
+symbolizes the changes introduced from exponential population growth.
 
+The Norse Gods return one final time. The end of
 
-  - one could argue that Ragnarok symbolizes the end of the world as
-    we know it. Like most other apocalypse myths from the age of
-    Pisces, the end of the world symbolizes the changes introduced
-    from exponential population growth.
-    - the scenario is the end of the world, when the Gods return one
-      final time.
+The scenario: the end of the world, when
+
     - the "end of the world" due to overpopulation has been known
       since time immemorial
       - in Ragnarok, Thor fights Jormungad, a snake streching around
@@ -172,20 +174,20 @@ compression for cultural preservation.
     - as long as Europe and the Middle East remained geographically
       and politically independent, that trade fostered prosperity in
       both Europe and the Middle East
-         - but if either Europe or the Middle East were to obtain
-                complete dominance over the region, that balanced &
-                well-intentioned prosperity would give way to a system
-                whereby either:
-                - Europe becomes isolated & impovershed or the Middle
-                  East loses the ability to profit from Silk Road
-                  trade in its region
-              - the entireity of 5,000 years of history can be
-                accurately summarized by simply looking at the Silk
-                Road, the economics of each region trading on it, and
-                the politics of whoever controlled specific regions of
-                it
+      - but if either Europe or the Middle East were to obtain
+        complete dominance over the region, that balanced &
+        well-intentioned prosperity would give way to a system whereby
+        either:
+      - Europe becomes isolated & impovershed or the Middle East loses
+        the ability to profit from Silk Road trade in its region
+        - the entireity of 5,000 years of history can be accurately
+          summarized by simply looking at the Silk Road, the economics
+          of each region trading on it, and the politics of whoever
+          controlled specific regions of it
 
 ### Neo-Ragnarok
+
+### And Cultural Engineering
 
 - ugh, major sidetrack... again, back to Ragnarok. IMO, with little
   substantial evidence, I think the Nordic religions wanted to unite
