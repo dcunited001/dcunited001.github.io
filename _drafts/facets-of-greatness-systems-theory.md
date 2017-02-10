@@ -636,3 +636,53 @@ TODO: notes on social behavior & game theory & laplacian?
 
 - magick: the manifestly algorithmic use of deceit to quantify the
   beliefs, behaviors, information-penetration and actions of others
+
+### Simple Distinguishing Factor Underlying Human Behavior
+
+- simple: is someone truly acting of their own volition or is someone
+  acting on another's behalf
+  - answering this question and the process of answering this question
+    speaks volumes about someone's psychology and thought process
+
+- someone acting on another's behalf: hired, contracted, financially
+  rewarded, or otherwise incentivized
+  - this person will always have boundaries placed on their behavior
+  - the boundaries depends on their role. certain role types have
+    different kinds of boundaries that you can sense
+  - often, bad and extremely good situations involve interacting with
+    someone who's contracted and obligated to someone else's interests
+    who'd rather remain anonymous.
+    - so if you can sniff this out early, you can clue yourself
+      in. usually, the person who's trying to hide their true
+      obligations from you doesn't have your best interests at heart,
+      but this is not always the case.
+
+- someone acting on their own volition:
+  - can leave at any time
+  - will immediately pursue better opportunities when presented
+  - is executing their own program or their own set of behaviors that
+    they've learned through life
+    - but the important distinction is that they are not usually
+      holding themselves bound to the obligations of their career bc
+      they are not at work
+      - though some careers require behavior that extends outside the
+        workplace
+  - is always, *always*, **always** looking for something
+    - this "something" can sometimes be more abstract, but they are
+      always trying to find something
+    - the person looking for nothing is usually crazy or spiritual
+      - but even people who state/appear to be looking for nothing are
+        just masking their intent.
+      - people who mask their intent acting on their own volition
+        ... are often ppl to be wary of
+        - or they are just people who like privacy ...
+
+- interesting deductions can be made about someone's psychology by
+  reasoning about why and how they are adhering to someone's elses
+  obligations or interests
+  - i.e. they have a job/role & you know what that role is. you know
+    what processes/logistics/decisions it entails. now you can make
+    interesting deductions about their psychology by looking at how
+    they are fulfilling their obligations or process requirements.
+    - this is especially interesting when you know they are required
+      to mask certain pieces of information from you.
