@@ -33,18 +33,29 @@ semiotics. This is...
 All knowledge and information is will degrade over time. Most worldly
 knowledge is nothing without a mind to host it. Therefore, if the
 system of developing/spreading knowledge doesn't include a system of
-perpetuating its distribution, then it will be impermanent. In
-particular, if the system doesn't have some means of handling times of
-poor distribution/dispersability of knowledge, then it will almost
-certainly fail. This is because it can't handle the inevitable event
-where it's nearly eliminated.
+perpetuating its distribution, then it will be impermanent. The system
+becomes particularly vulnerable when it doesn't recovery mechanisms
+for handling distribution, dispersion, and reconstruction of
+knowledge. When the system can't handle inevitable events where it's
+nearly eliminated, it will almost certainly be overtaken by another
+belief system at some point.
+
+Regardless of whether the belief system is religious or secular,
+people need them. People prefer belief systems that accompany social
+institutions that exhibit strong influences on their surroundings.
+When a belief system retracts into fewer people, possibly due to
+persecution, followers are less likely to benefit from the social
+institutions. This not only tests your followers' devotion, but also
+tests the value that your belief system has to offer if it manages to
+sustain itself through times like these.
 
 On the other hand, one can design knowledge systems whose operation
-excels only when there is poor distribution/dispersibility. These
-systems are very difficult to root out, because like the Furians of
-Riddick, those who have the knowledge gain power upon its near
-demise. Therefore the economics of these systems create incentives to
-perpetuate the system when it's on its last legs.
+excels when or only when there is poor distribution and dispersion.
+These systems are very difficult to root out, because like the Furians
+of Riddick, those who have the knowledge gain power upon its near
+demise. Therefore the information economics of these systems can
+create incentives to perpetuate the system when it's on its last
+legs.
 
 How does one become familiar with different systems of knowledge and
 culture perpetuation? Like Merlin and the druids of Celt, one accrues
@@ -96,133 +107,62 @@ codified these myths in such a way as to ostensibly retain their
 cultural identity while putting together a set of behaviors encoded in
 myth, whose execution would begin upon apocalyptic events. Ragnarok is
 perhaps the best example of a subversive attempt to use information
-compression for cultural preservation.
+compression for cultural preservation. It's event-driven eschatology,
+to be invoked upon apocalypse, whence the Gods return.
 
-Still, Ragnarok is more than this. It is pre-literary futurism. It
-shows that the ancients knew far more than they are given credit.
-Ragnarok symbolizes the end of the world as we know it. Like most
-other apocalypse myths from the age of Pisces, the end of the world
-symbolizes the changes introduced from exponential population growth.
+###
 
-During Ragnarok, the Norse Gods return one final time. In this myth,
-Thor struggles against Jormungand, a snake streching around the
-world. This snake is an Ouroborosian symbol, which is critical in
-composing an interpretation of what Jormungand represents. Ouroboros
-is a snake that grasps its own tail. It's a symbol found in many
-esoteric traditions and one that represents a group dynamic where the
-strong devour the weak for sustenance and to cleanse the group of
-weakness. It's pretty evil.
+If one were to design such a system today, and especially in the face
+of likely persecution of believers, what would we choose to preserve?
+Which animals would we put on the Ark? How would we determine what
+cultural elements remain truly immutable and hold true, regardless of
+social upheaval that acommpanies the Singularity? If you took a look
+at the creek that became the Grand Canyon, how would you survey the
+land to determine the rock formations that stand the test of time,
+regardless of storm surge? The structure of the Grand Canyon depends
+little on the specifics of the events and moreso on the nature,
+sequence and timing of those events. Do you have X-Ray vision for
+fate?
 
-However, theres another meaning to Jormungand, which lies closer to
-another interpretation of Ouroboros: the global economy. But first, if
-the snake has curled around the world, then it would be impossible for
-the Nords to be unaware of the spherical shape of the world. And, as
-the stewards of Thule and Hyperboria, the Nords were perhaps the
-people *most* aware of the spherical shape of the world. The Nords
-were well-versed in navigation and travelled from close to the Arctic
-Circle to close the the equator. **It would be impossible for the
-Nords to navigate their corner of earth while being unaware of the
-spherical shape of the Earth**.
+### (authenticity/versatility)
 
-The previous sentence should be read as: if you know anything about
-navigating with 15th century technology, Columbus was a cover story
-for incidental genocide. The ignorance of Columbus is the greatest lie
-of Western history. The degree to which this lie has been spread
-through Western history tells you a lot about the quality and
-trustworthiness of historical records themselves: they don't account
-for secret and top secret information. Why would the West lie about
-America and keep it secret from the time of
-[St. Brendan the Navigator](https://en.wikipedia.org/wiki/Brendan)?
-Because the West didn't want the rest of the world to know that North
-America was ripe for the picking. Again, why? Because western maritime
-navigability was inferior until the era before the Renaissance.
+How do the authors of myth abstract and obfuscate, so that the core
+ideas maintain authenticity? The belief system must be resillient to
+external subversion, manipulation and persecution. It also must
+maintain a degree of pliability. Because belief systems require
+believers to achieve significance, then flexibility is an important
+early factor, but this needs to be balanced with the system's need for
+consistence and permanence.
 
-So... Columbus is a lie, partly to cover genocide. *WOOPS WE DIDN'T
-MEAN TO!!* ... It was an "accident" and nothing more. Do you feel any
-better? What about the rest of history? How many teachers in America
-will look you in the eye and tell you the story of Columbus? So,
-before this is all finished, the rest of the Illuminati's secrets will
-be revealed. And no, this ain't no !@#$'ing Youtube documentary. And
-the Illuminati always knew that the time would could when all their
-sins throughout history would be out in open air in front of
-everyone. It's not like they didn't see it coming. And it's not like
-they can't justify their dirty laundry: they all know it and they hate
-themselves. It's a dirty job, but someone's gotta do it.
+Religions develop versatility and (usefulness) as they accumulate
+additional generations of knowledge. How do you anticipate when a
+belief system will need to change three generations from now? This is
+a paradox in context of many religions' reliance on steadfastness as
+justification for validity of their belief system. It's not like Jesus
+pitched an amendment mechanism for Christianity. How do modernization
+and the Singularity affect the peculiarities of religious evolution?
+After the Singularity, many anticipate technological stagnation, but
+increasing pace of change is definitely a problem beforehand.
 
-- There are 3 monsters: a land, sea and air monster (sound
-  familiar?)
-  - the sea monster is Jormungand, the snake
-  - the land monster is Fenrir, the wolf
-  - third monster (maybe i'm off on this?)
-- Thor is poisoned by jormungand's bite, but successfully
-    destroys him
 
-### Ragnarok was pre-literary futurism
 
-- Back to the point at hand: IMO Jormungand symbolizes global trade
-  and Ragnarok occurs at a time when trade is global and when
-  modernism threatens to homogenize all culture.
-  - the authors of Ragnarok finally wrote it down (in the Poetic
-    Edda?) during a time of cultural turmoil
-  - in other words, they knew their culture would disappear and that
-    the Christian persecutions of western Europe would spread
-    northward.
-    - to some degree the most influential Nords may have been in
-      agreement with utilizing Christianity to solidify Europe against
-      Islam and any other major cultural movements from the Middle
-      East.
-    - these people were aware of Islam (again, they fought in the
-      greatest road trip of the middle ages: the 2nd Crusades, circa
-      end of 11th century)
-      - they even brought back islamic jewelry from the middle east,
-        which apparently baffled archaeologists for some time. there
-        was a ring with arabic inscriptions found at a nordic burial
-        site or something.
+Too much flexibility and offshoot organizations will reduce the
+capacity for the religion's social institutions to benefit society.
+There is more risk when movements branch outwards before there is
+enough precipitation of identity and shared culture.
 
-### Europe has always been obsessed with geopolitical cultural unity
+And this is all before you reach the pragmatic traps of founding a
+religion. People forget that even the most devout worshippers are
+human. Institutions of man are often more fallible than man
+itself. Pondering the pragmatic issues of founding a religion, and
+especially the ways that the seven deadly sins affect viable/robust
+logistic structures of institions. Dealing with human nature
+necessitates changes to the belief systems themselves and not just the
+structures and processes of the institutions. The institutions must
+exemplify the beliefs and practices of the religion and if the
+followers cannot build robust institutions, then they will fall apart.
 
-- amoung others with political influence at the time -- think
-  pre-Charlemagne Gaul (~7th century) through Medici Italy
-  (15th century)
-  - they would have been aware that, as long as Europe remained
-    culturally united on the basis of Christianity, it would be much
-    more capable of handling external threats, regardless of the
-    consequences of internal conflict.
-  - but the second that Islam crept in the back door (via
-    people's minds, etc) and gained significant geopolitical
-    foothold from within Europe, this would be a major
-    problem.
-    - this is because of the geopolitical and economic situation
-      during the dark/middle ages: Europe's imports/exports were
-      tightly coupled to trade in the middle east.
-    - as long as Europe and the Middle East remained geographically
-      and politically independent, that trade fostered prosperity in
-      both Europe and the Middle East
-      - but if either Europe or the Middle East were to obtain
-        complete dominance over the region, that balanced &
-        well-intentioned prosperity would give way to a system whereby
-        either:
-      - Europe becomes isolated & impovershed or the Middle East loses
-        the ability to profit from Silk Road trade in its region
-        - the entireity of 5,000 years of history can be accurately
-          summarized by simply looking at the Silk Road, the economics
-          of each region trading on it, and the politics of whoever
-          controlled specific regions of it
-
-### Neo-Ragnarok
-
-### And Cultural Engineering
-
-- ugh, major sidetrack... again, back to Ragnarok. IMO, with little
-  substantial evidence, I think the Nordic religions wanted to unite
-  and preserve cultural elements and predictions of the far future in
-  their mythos via a written version of the Poetic Edda & Ragnarok
-  - but if one were to do this today -- and especially in the face of
-    likely persecution of believers:
-  - what would we choose to preserve?
-- how would we abstract/obfuscate that so that it maintains
-  authenticity, resillience to external
-  subversion/manipulation/persecution, etc?
+- TODO: what to do with this
 - and, if we can foresee events in the future for which our
   descendents may lose the knowledge/tools to comprehend,
   then how do we preserve the authenticity of that
@@ -230,9 +170,10 @@ themselves. It's a dirty job, but someone's gotta do it.
   - especially when it needs to be obscured to protect the
     interests of the people preserving the message in the face
     of persecution
-    - but they...
 
-### The Shepherd as a Universal Symbol
+# The Shepherd as a Universal Symbol
+
+
 
 a well-recognized symbol for religions is that of the shepherd. Jesus
 was a shepherd, which was well known through out the middle east and
@@ -276,7 +217,7 @@ other adjacent areas.
 - but the symbol of the shepherd is one that appears in four or five
   major religions. it has universal appeal, understanding, etc.
 
-### Semiotics of Mythology
+# Semiotics of Mythology
 
 If you're using semiotics to encode meaning in mythology by mapping
 universally relevant symbols to meanings then:
@@ -325,8 +266,7 @@ be Eschatology and there's probably a name for this such study.
 - top 500 words/morphemes to learn in any new language are a great
   start for enumerating a list of mappable symbols
 
-
-# Examples of Systems of Symbols
+### Semiotic Mappings Across Human Culture
 
 So when constructing myths, what are examples of systems of signs,
 symbols, etc? Any set of signs common to a culture, nation or region
@@ -494,3 +434,134 @@ than its worth.
 ### Misc Phenomena
 
 ... Everybody Poops
+
+
+
+
+# Ragnarok
+
+Still, Ragnarok is more than this (TODO: edit to update
+connective). It is pre-literary futurism. It shows that the ancients
+knew far more than they are given credit.  Ragnarok symbolizes the end
+of the world as we know it. Like most other apocalypse myths from the
+age of Pisces, the end of the world symbolizes the changes introduced
+from exponential population growth.
+
+During Ragnarok, the Norse Gods return one final time. In this myth,
+Thor struggles against Jormungand, a snake streching around the
+world. This snake is an Ouroborosian symbol, which is critical in
+composing an interpretation of what Jormungand represents. Ouroboros
+is a snake that grasps its own tail. It's a symbol found in many
+esoteric traditions and one that represents a group dynamic where the
+strong devour the weak for sustenance and to cleanse the group of
+weakness. It's pretty evil.
+
+###
+
+However, theres another meaning to Jormungand, which lies closer to
+another interpretation of Ouroboros: the global economy. But first, if
+the snake has curled around the world, then it would be impossible for
+the Nords to be unaware of the spherical shape of the world or at
+least the possibility. And, as the stewards of Thule and Hyperboria,
+*constantly moving in and out of the Arctic Circle* the Nords were
+perhaps the people *most* aware of the spherical shape of the
+world. The Nords were *well-versed in navigation* and *travel from
+close to the Arctic Circle to close the the equator. **It would be
+impossible for the Nords to navigate their corner of earth while being
+unaware of the spherical shape of the Earth**.
+
+###
+
+The previous sentence should be read as: if you know anything about
+navigating with 15th century technology, Columbus was a cover story
+for incidental genocide. The ignorance of Columbus is the greatest lie
+of Western history. The degree to which this lie has been spread
+through Western history tells you a lot about the quality and
+trustworthiness of historical records themselves: they don't account
+for secret and top secret information. Why would the West lie about
+America and keep it secret from the time of
+[St. Brendan the Navigator](https://en.wikipedia.org/wiki/Brendan)?
+Because the West didn't want the rest of the world to know that North
+America was ripe for the picking. Again, why? Because western maritime
+navigability was inferior until the era before the Renaissance.
+
+###
+
+So... Columbus is a lie, partly to cover genocide. *WOOPS WE DIDN'T
+MEAN TO!!* ... It was an "accident" and nothing more. Do you feel any
+better? What about the rest of history? How many teachers in America
+will look you in the eye and tell you the story of Columbus? So,
+before this is all finished, the rest of the Illuminati's secrets will
+be revealed. And no, this ain't no !@#$'ing Youtube documentary. And
+the Illuminati always knew that the time would could when all their
+sins throughout history would be out in open air in front of
+everyone. It's not like they didn't see it coming. And it's not like
+they can't justify their dirty laundry: they all know what they've
+done and they hate themselves. It's a dirty job, but someone's gotta
+do it.
+
+### Ragnarok Was Pre-Literary Futurism
+
+- TODO: some of this is necessary as an example of well-architected
+  cultural compression/archival through myth
+  - but these ideas are terribly organized
+
+The goal of Ragnarok was to preserve culture so that it could be
+triggered later in an event-driven manner. The story is
+
+IMO, when modernization threatens to homogenize all culture and
+Jormungand symbolizes global trade. As Jormungand stretches across the
+world, this represents fully globalized trade routes and the liquidity
+that ebbing around the world.
+
+A time when trade becomes global and when modernism threatens to
+homogenize all culture.
+
+  - the authors of Ragnarok wrote it down (in the Poetic Edda?) during
+    a time of cultural turmoil
+  - in other words, they knew their culture would disappear and that
+    the Christian persecutions of western Europe would spread
+    northward.
+    - to some degree the most influential Nords may have been in
+      agreement with utilizing Christianity to solidify Europe against
+      Islam and any other major cultural movements from the Middle
+      East.
+    - these people were aware of Islam (again, they fought in the
+      greatest road trip of the middle ages: the 2nd Crusades, circa
+      end of 11th century)
+      - they even brought back islamic jewelry from the middle east,
+        which apparently baffled archaeologists for some time. there
+        was a ring with arabic inscriptions found at a nordic burial
+        site or something.
+
+### Europe has always been obsessed with geopolitical cultural unity
+
+- amoung others with political influence at the time -- think
+  pre-Charlemagne Gaul (~7th century) through Medici Italy
+  (15th century)
+  - they would have been aware that, as long as Europe remained
+    culturally united on the basis of Christianity, it would be much
+    more capable of handling external threats, regardless of the
+    consequences of internal conflict.
+  - but the second that Islam crept in the back door (via
+    people's minds, etc) and gained significant geopolitical
+    foothold from within Europe, this would be a major
+    problem.
+    - this is because of the geopolitical and economic situation
+      during the dark/middle ages: Europe's imports/exports were
+      tightly coupled to trade in the middle east.
+    - as long as Europe and the Middle East remained geographically
+      and politically independent, that trade fostered prosperity in
+      both Europe and the Middle East
+      - but if either Europe or the Middle East were to obtain
+        complete dominance over the region, that balanced &
+        well-intentioned prosperity would give way to a system whereby
+        either:
+      - Europe becomes isolated & impovershed or the Middle East loses
+        the ability to profit from Silk Road trade in its region
+        - the entireity of 5,000 years of history can be accurately
+          summarized by simply looking at the Silk Road, the economics
+          of each region trading on it, and the politics of whoever
+          controlled specific regions of it
+
+### Neo-Ragnarok
