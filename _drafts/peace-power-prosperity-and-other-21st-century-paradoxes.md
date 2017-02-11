@@ -83,6 +83,13 @@ the opportunity, using it as an excuse to gain power.
 Centralizing and utilizing educational resources to accelerate K12
 education, while maintaining the ability to experiment
 
+- a la "Lean Startup"
+- THE GOAL IS CONTINUOUS INTEGRATION FOR EDUCATION PROCESSES
+  - with a focus on the appropriate organizational structure for
+    flexibility in logistics
+  - a more decentralized approach is needed
+
+
 
 ### a few ideas from Prince Ea's video on Einstein's near fate as a fish
 

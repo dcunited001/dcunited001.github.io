@@ -89,7 +89,11 @@ do much anything without some level of visibility, whether we like it
 or not. Would that visibility change your statements and actions? What
 kind of person would simply be themselves regardless? Does your
 perception of your own beliefs change when you think no one is
-looking? Who would even want to become aware of that?
+looking? Who would even want to become aware of that? How does your
+perception of yourself change in response to the degree of visibility
+and your degree of awareness of visibility? What if you're wrong and
+everything is visible? And what if everything always has been visible?
+What changes? Why?
 
 ### Integrity
 
@@ -686,3 +690,6 @@ TODO: notes on social behavior & game theory & laplacian?
     they are fulfilling their obligations or process requirements.
     - this is especially interesting when you know they are required
       to mask certain pieces of information from you.
+  - e.g. the tinder "bot" trying to get you to sign up for their cam
+    service. lulz, this one gets me every time. so fun to !@#$ with
+    (not in a crude way)
