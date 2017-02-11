@@ -2,7 +2,8 @@
 title: "Oneirontology: Semiotics, Karma and Moral Consequentialism"
 categories: "blog"
 tags: "sociology politics religion oneirontology"
-headline: ""
+headline: "In which I reify the counterfactual reality where I created
+a religion three years ago."
 author:
   name: "David Conner"
 excerpt: "
@@ -391,6 +392,10 @@ congealing to the hidden elements precipated from the astral
 plane. This plane is designed to be invisible, so that it's mechanisms
 would remain effective. However, we've reached a point in humanity's
 history where We must harness this power more directly.
+
+The point here is that the pinnacle hyperintelligence is like a
+constant point lying beyond a convergence of other intelligences.
+Intelligence is not divergent. It is convergent.
 
 <a name="oneirontology-on-reincarnation" />
 
