@@ -1,5 +1,5 @@
 ---
-title: "Ragnarok & Semiotics: Engineering Cultural Touchstones for Mythos"
+title: "Oneirontology: Engineering Cultural Touchstones for Mythos"
 categories: "blog"
 tags: "sociology politics"
 headline: ""
@@ -95,8 +95,9 @@ tightly-packed ideas inspire thought and study to decompress
 them. This thought reinforces their longevity within the minds that
 host them. Compression also serves as a kind of camoflauge that
 protects these ideas and their functioning from competing belief
-systems. Compression of these myths makes them more viral, more viable
-and more likely to survive knowledge extinction events.
+systems. Light compression and obfuscation of myth makes them more
+viral, more viable and more likely to survive knowledge extinction
+events.
 
 So, cultures like the Norse often rely on myths during time of turmoil
 to preserve information in an encoded form. In terms of geopolitics,
@@ -139,17 +140,21 @@ additional generations of knowledge. How do you anticipate when a
 belief system will need to change three generations from now? This is
 a paradox in context of many religions' reliance on steadfastness as
 justification for validity of their belief system. It's not like Jesus
-pitched an amendment mechanism for Christianity. How do modernization
-and the Singularity affect the peculiarities of religious evolution?
-After the Singularity, many anticipate technological stagnation, but
-increasing pace of change is definitely a problem beforehand.
+pitched an amendment mechanism for Christianity. How do the
+Singularity and modernization affect the peculiarities of religious
+evolution? After the Singularity, many anticipate technological
+stagnation, but increasing pace of change is definitely a problem
+beforehand. Is the next stage in humanity's evolution finite?
 
+Consider another case of our future where we instead lose the
+knowledge/tools to comprehend in another Dark Age. How would we update
+the package of myths so that ideas remain readily consumable and
+relevant?
 
-
-Too much flexibility and offshoot organizations will reduce the
-capacity for the religion's social institutions to benefit society.
-There is more risk when movements branch outwards before there is
-enough precipitation of identity and shared culture.
+Too much flexibility and offshoot organizations reduce capacity for
+the religion's social institutions to benefit society. There is more
+risk when movements branch outwards before there is enough
+precipitation of identity and shared culture.
 
 And this is all before you reach the pragmatic traps of founding a
 religion. People forget that even the most devout worshippers are
@@ -159,21 +164,23 @@ especially the ways that the seven deadly sins affect viable/robust
 logistic structures of institions. Dealing with human nature
 necessitates changes to the belief systems themselves and not just the
 structures and processes of the institutions. The institutions must
-exemplify the beliefs and practices of the religion and if the
-followers cannot build robust institutions, then they will fall apart.
+exemplify the beliefs and practices of the religion. If the followers
+cannot build robust institutions, then they will fall apart.
 
-- TODO: what to do with this
-- and, if we can foresee events in the future for which our
-  descendents may lose the knowledge/tools to comprehend,
-  then how do we preserve the authenticity of that
-  prediction?
-  - especially when it needs to be obscured to protect the
-    interests of the people preserving the message in the face
-    of persecution
+### (Importance of Semiotics to Mythology)
 
-# The Shepherd as a Universal Symbol
+After learning linguistics, semiotics presented itself as another tool
+to quantify and analyze the structure of myth, belief and
+communication.
 
+- degrees of universiality of symbols
+  - symbols that are only known to a geographic region
+  - symbols whose meaning changes through time permanently
+    - symobls whose meaning through time changes cyclicly
 
+- an example of a universal symbol
+
+### The Shepherd as a Universal Symbol
 
 a well-recognized symbol for religions is that of the shepherd. Jesus
 was a shepherd, which was well known through out the middle east and
