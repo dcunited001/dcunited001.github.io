@@ -256,3 +256,22 @@ ability to influence their society, their environment and their
 personal circumstances.
 
 - https://github.com/dcunited001/dcunited001.github.io/blob/sources/_drafts/our-revolution-of-empowerment-engineering-diffusion-of-influence.md
+
+
+### More misc
+
+If the international leftist order ever gets control of information
+across the globe (e.g. ICANN/DNS or similar institutions) they will
+use them for economic warfare via information warfare. What will
+happen is a slow collapse of the American economy into
+subservience. They will bait American economic players into making bad
+decisions by controlling the information we are exposed to. So, for
+example, if China ever develops an ungodly amount of influence in
+American politics, they will use it to micromanage sectors/players in
+the American economy, forcing us to misallocate resources and
+preparing us for our new communist overlords.
+
+Americans, who have been in control of the global reserve currency for
+nearly four generations have **no idea** what it will feel like to be
+subservient to foreign economic interests. As a nation who's mostly
+tapped her natural resources, *we will be fucking screwed**
