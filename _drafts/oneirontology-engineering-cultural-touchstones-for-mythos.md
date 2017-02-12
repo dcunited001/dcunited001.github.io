@@ -185,6 +185,8 @@ thus, utility depends on its universiality and invariance,
 geographically and temporally, allows one to understand the
 risk/payoff for investing energy in remapping symbols.
 
+### Temporally Invariant Signs
+
 There are temporally invariant symbols that are mostly permanent
 fixtures of the human condition. These symbols are signs whose
 signifier or signified concept can morph over time even though the
@@ -195,7 +197,20 @@ almost always geographically invariant as well: they are recognized
 the world over with some variance in the mapping of signifier and
 signified.
 
-Temporal variance in semiotic mappings can have both
+Temporal variance in semiotic mappings can have each linear, cyclical,
+generational and developmental dynamics associated with
+them. Especially in the context of modernization and globaliztion,
+signs across the world are undergoing constant flux in how they are
+mapped and in their degree of penetration. There are signs which only
+develop or change in significance once someone reaches a certain age
+and has been through specific experiences. There are signs which
+develop specific intergenerational dynamics. **The relationships
+between these signs and their penetration into geographically
+dispersed populations offers *unparalleled insight* into psychosocial
+cultural dynamics.** It begins to confer what can be perceived as
+God-like wisdom and intuiton.
+
+### Geographically Invariant Signs
 
 Geographically invariant symbols are also special, but can change over
 time, gaining or losing significance and affluence. Signs whose
@@ -207,6 +222,8 @@ If your religion or belief system is heavily invested in mapping
 geographically variant signs, a central authority will lose power over
 them as their meaning and mapping evolves over time and space.
 
+### (scarcity)
+
 There are signs whose power derives from scarcity: sexual images,
 money or rare experiences. The influence derived from signs who's
 power is derived from scarcity is magical. By limiting the prevelence
@@ -217,6 +234,8 @@ signifier. This is the power of the occult: it is power derived from
 the unseen. This power allows you strongly and deftfully cultivate the
 semiotic mappings in the mind.
 
+### (branding)
+
 Signs can be used to brand an experience or brand a memory. Semiotics
 is incredibly powerful for branding or marketing agencies to
 understand, especially when these agencies understand or can
@@ -225,18 +244,40 @@ markets they develop advertisements for. Ultimately, advertising is
 simply paying others to influence informational mappings in the minds
 of consumers and it's expensive.
 
-- degrees of universiality of symbols
-  - symbols that are only known to a geographic region
-  - symbols whose meaning changes through time permanently
-    - symobls whose meaning through time changes cyclicly
+### (in context of probablistic, ergodic programs)
 
-- an example of a universal symbol
+I've been working on a theory of metanomics, which describes any
+genomic system in terms of a probabilistically dynamical state-machine
+which transitions between various metastates with ergodic
+stablization. The true power of this paradigm for genomics is that it
+extends to the human mind. It is incredibly useful for artificial
+intelligence, but also for modeling, quantifying and predicting
+psychosocial cultural dynamics. In magnitude, it is the equivalent to
+Einstein's insights into relativity, but for genomics, cognition and
+the human mind ... *not that anyone will ever give me a fuck'n
+opportunity in this world.*
 
-- Reestablish the definition of the Origin of Semiotics.
-  - is there some "most powerful" sign in semiotics?
-  - It's not the instantiation of a sign. It is higher-order
-    metasign. The Origin of Semiotics is symmetry. Again, this implies
-    origin in the cartesian sense as well Beginning.
+The insights garnered from this perspective are beautiful. The inner
+workings of Genomics and the human mind begin to come into focus and
+everything makes sense. You develop a greater appreciation for God's
+work in the world. These dynamical state-machines can be designed like
+programs and they operate autonomously. It is a completely novel
+paradigm for programming, as far as I can see. In genomics, much work
+as been done to put forth to develop models which stand alongside this
+paradigm, but none are completely able capture the behavior of all
+units and subunits of the system. No paradigm of genomic programming
+that I've heard of accounts for the importance of spatially
+distributed state.
+
+### (the most universal symbol)
+
+Is there a most powerful sign in semiotics, as mapped within humanity?
+Yes, but it's not the instantiation of a sign. It is a higher-order
+metasign. It is symmetry and this is the Origin of Semiotics. Again,
+this implies origin in the cartesian sense as well Beginning. This
+origin in the "space" of semiotics also has connections to abstract
+algebra, number theory, galois theory, category theory and it is the
+unifying center of everything.
 
 ### The Shepherd as a Universal Symbol
 
