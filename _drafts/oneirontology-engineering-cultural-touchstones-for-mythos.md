@@ -171,7 +171,12 @@ cannot build robust institutions, then they will fall apart.
 
 After learning linguistics, semiotics presented itself as another tool
 to quantify and analyze the structure of myth, belief and
-communication.
+communication. As linguistics sheds its relationship to language, what
+remains is essentially connected to semiotics. Therefore, semioitics
+is more useful than linguistics for approaching the nature of
+information and belief.
+
+There are several degrees
 
 - degrees of universiality of symbols
   - symbols that are only known to a geographic region
