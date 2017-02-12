@@ -1,7 +1,7 @@
 ---
 title: "Oneirontology: Engineering Cultural Touchstones for Mythos"
 categories: "blog"
-tags: "sociology politics"
+tags: "oneirontology religion semiotics linguistics"
 headline: ""
 author:
   name: "David Conner"
@@ -195,17 +195,35 @@ almost always geographically invariant as well: they are recognized
 the world over with some variance in the mapping of signifier and
 signified.
 
+Temporal variance in semiotic mappings can have both
+
 Geographically invariant symbols are also special, but can change over
 time, gaining or losing significance and affluence. Signs whose
 signifier depends heavily on the traits of local regions have a high
 degree of propensity for semiotic permutation, transformation and
 evolution as they migrate from one area to another. They are less than
 ideal, though useful for establishing and developing local identity.
+If your religion or belief system is heavily invested in mapping
+geographically variant signs, a central authority will lose power over
+them as their meaning and mapping evolves over time and space.
 
-. There are symbols
+There are signs whose power derives from scarcity: sexual images,
+money or rare experiences. The influence derived from signs who's
+power is derived from scarcity is magical. By limiting the prevelence
+of the signifier, you tightly control the circumstances by which the
+sign becomes defined in the minds of men. Therefore, you can constrain
+the typology of mindforms that result from exposure to the
+signifier. This is the power of the occult: it is power derived from
+the unseen. This power allows you strongly and deftfully cultivate the
+semiotic mappings in the mind.
 
-- symbols whose power derives from scarcity.
-  - sex, money, etc
+Signs can be used to brand an experience or brand a memory. Semiotics
+is incredibly powerful for branding or marketing agencies to
+understand, especially when these agencies understand or can
+manipulate/coordinate the dynamics/evolution of semiotics in the
+markets they develop advertisements for. Ultimately, advertising is
+simply paying others to influence informational mappings in the minds
+of consumers and it's expensive.
 
 - degrees of universiality of symbols
   - symbols that are only known to a geographic region
@@ -215,6 +233,10 @@ ideal, though useful for establishing and developing local identity.
 - an example of a universal symbol
 
 - Reestablish the definition of the Origin of Semiotics.
+  - is there some "most powerful" sign in semiotics?
+  - It's not the instantiation of a sign. It is higher-order
+    metasign. The Origin of Semiotics is symmetry. Again, this implies
+    origin in the cartesian sense as well Beginning.
 
 ### The Shepherd as a Universal Symbol
 
