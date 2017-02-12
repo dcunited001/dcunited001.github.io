@@ -275,3 +275,65 @@ Americans, who have been in control of the global reserve currency for
 nearly four generations have **no idea** what it will feel like to be
 subservient to foreign economic interests. As a nation who's mostly
 tapped her natural resources, *we will be fucking screwed**
+
+
+### Response
+
+#### Derek W
+
+> I research artificial intelligence at Indiana University. Its coming
+> faster than anyone can imagine and we need to be prepared. That
+> financial engineering shit can suck my asshole because there isn't a
+> system known to man that will be able to help us adapt economically
+> to not having a labor force. Humans have basic needs and we live in
+> a world of excess with a pre-existing central government ready to
+> drop in UBI. I'm a humanitarian first; my push for anything
+> resembling socialism is purely on the grounds of not losing human
+> lives to something as petty as capitalist ideals.
+
+the ideals that you're supporting as politicians and leftists support
+them require a transfer of ownership to a globalist system with UBI,
+which is expensive and unnecessary. you're on the wrong side and such
+a revolution transfer towards socialist ideas at this time would be
+disastrous for american interests.
+
+Our basic needs will become cheaper and cheaper. However, the
+inevitable final transition of the global economy during the
+Singularity is to a system of serfs with a tiny slice of power players
+enjoying all ownership of intellectual property, real estate and
+production.
+
+Who do you want to be in charge, the people who laid the basis of
+rationalism and accumulated dozens of generations of wisdom to
+architect a system that enabled economic expansion and scientific
+discovery? Or do you want to support a last minute revolution to
+entrust power into the hands of people with less than a single
+generation of experience?
+
+Because regardless of whether we go left or right, WE WILL ALL BECOME
+SERFS WITH NO MEANS OF RISING ABOVE ANY OTHER PERSON. There is no
+other endgame scenario except global collapse. So, at this point, the
+argument is about WHO is in control, as we launch towards the
+Singularity. Because transition to such a system is inevitable.
+
+*if I have to make a choice*, I would strongly prefer fascism over
+communism because it doesn't require change of ownership across the
+board via forced revolution -- which is expensive in terms of
+opportunity cost on the global stage, economically and
+politically. Also, fascism, because it allows a person access to BOTH
+financial and social influence mechanism, is much more likely than
+communism to revert to normalcy, if there is such a hope...
+
+We have a decision as Americans: make a hard left or a hard right. AND
+IF WE MAKE A HARD LEFT, AMERICAN INTERESTS ARE DAMNED.
+
+The idea you're talking about is like global economic convergence and
+it's unstoppable, absent some climate/nuclear catastrophe. Regardless
+of how it happens, there will be a very small set of people with real
+power and everyone else will be mostly serfs. We will be well-pampered
+serfs with higher quality of life than any other serfs in history, but
+we'll be serfs with no real hope of advancement.
+
+People don't understand that *this idea* is why i have worked so hard
+to "break through" with a startup ... BECAUSE I'LL BE DAMNED IF I
+DIDN'T WORK HARD ENOUGH TO AVOID ENDING A SERF.

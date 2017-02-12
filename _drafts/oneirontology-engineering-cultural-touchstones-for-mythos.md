@@ -169,14 +169,43 @@ cannot build robust institutions, then they will fall apart.
 
 ### (Importance of Semiotics to Mythology)
 
-After learning linguistics, semiotics presented itself as another tool
+After learning linguistics, semiotics presents itself as another tool
 to quantify and analyze the structure of myth, belief and
 communication. As linguistics sheds its relationship to language, what
 remains is essentially connected to semiotics. Therefore, semioitics
 is more useful than linguistics for approaching the nature of
 information and belief.
 
-There are several degrees
+Semiotics involves signs composed of signifier and signified. The
+universiality of symbols can be observed, measured and
+stratified. Symbols have various degrees of universiality and whose
+traits vary along linguistic, semiotic, psychological and sociological
+dimensions. Understanding how a symbol's "market" penetration and,
+thus, utility depends on its universiality and invariance,
+geographically and temporally, allows one to understand the
+risk/payoff for investing energy in remapping symbols.
+
+There are temporally invariant symbols that are mostly permanent
+fixtures of the human condition. These symbols are signs whose
+signifier or signified concept can morph over time even though the
+pairing is mostly retained as commonly understood. Or these temporally
+universal symbols can be signs whose significance and meaning remains
+steadfast regardless of the era or age. Temporally fixed symbols are
+almost always geographically invariant as well: they are recognized
+the world over with some variance in the mapping of signifier and
+signified.
+
+Geographically invariant symbols are also special, but can change over
+time, gaining or losing significance and affluence. Signs whose
+signifier depends heavily on the traits of local regions have a high
+degree of propensity for semiotic permutation, transformation and
+evolution as they migrate from one area to another. They are less than
+ideal, though useful for establishing and developing local identity.
+
+. There are symbols
+
+- symbols whose power derives from scarcity.
+  - sex, money, etc
 
 - degrees of universiality of symbols
   - symbols that are only known to a geographic region
@@ -185,9 +214,11 @@ There are several degrees
 
 - an example of a universal symbol
 
+- Reestablish the definition of the Origin of Semiotics.
+
 ### The Shepherd as a Universal Symbol
 
-a well-recognized symbol for religions is that of the shepherd. Jesus
+A well-recognized symbol for religions is that of the shepherd. Jesus
 was a shepherd, which was well known through out the middle east and
 other adjacent areas.
 - it was a humble role in society, where one person was entrusted with
