@@ -364,7 +364,9 @@ Zoroastrianism. Why? Because all religions have, intentionally or not,
 piggybacked on these semiotic mappings to increase the penertrability
 and relevance of their content to potential followers.
 
-### The Shepherd Bodhisattva in Mahayana Buddhism
+<a name="the-shepherd-bodhisattva-in-mahayana-buddhism" />
+
+### [The Shepherd Bodhisattva in Mahayana Buddhism](#the-shepherd-bodhisattva-in-mahayana-buddhism)
 
 In Mahayana Buddhism, there are three degrees of
 [bodhisattva](https://en.wikipedia.org/wiki/Bodhisattva), depending on
@@ -375,17 +377,14 @@ for buddhahood, along with other sentient beings. The boatman helps
 watch over and guide their shared voyage, ensure that his fellow
 beings reach the other side. There is the shepherd, who strives for
 buddhahood, but only after all other sentient beings have acheived
-buddhahood first. The shepherd returns to the battlefield, lifetime
-after lifetime, forgoing escape from the mortal coil
-
+buddhahood first. The shepherd returns to the battlefield to find a
+new flock, lifetime after lifetime, all-but-permanently forgoing
+escape from the cycle of rebirth.
 
 The shepherd is the "highest" bodhisattva, who has vowed remain behind
-for the longest time and make the greatest personal sacrifices.
-
-- one might say this is the greatest sacrifice, as one must
-  acknowledge the all-but-ensured lack of personal attainment of
-  Buddhahood, since it would be a pipe-dream to think all sentient
-  lifeforms could become Buddha.
+for the longest time and make the greatest personal sacrifices.  The
+shepherd bodhisattva essentially sacrifices their own personal
+attainment of buddhahood through countless lives of reincarnation.
 
 The symbol of the shepherd is one that appears in at least four major
 religions. It's not a coincidence. The sign of the shepherd is used as
@@ -396,24 +395,96 @@ appeal and consistent semiotic mapping.
 
 # [Semiotics of Mythology](#semiotics-of-mythology)
 
-If you're using semiotics to encode meaning in mythology by mapping
-universally relevant symbols to meanings then:
+If you plan on architecting mythology for your own megalomaniacal
+attempt at birthing a religious movement, then dissecting the
+semiotics of the human condition is invaluable. Only if you truly
+understand semiotics *before* you attempt to create a religion does it
+ever have the hope of transcending the test of time. It is only by
+overlaying your belief system on top of a collection of signs
+temporally and geographically invariant to the human condition that it
+will ever stand a chance. You must architect your myths by
+interleaving them with this most foundational map of semiotics: the
+astral plane.
 
-- How do you know which symbols to choose?
-  - generally universal recognition trumps everything else, but
-    there's lots of stuff that's universally relevant:
-    - water, food, sleep, hunger, greed, money, etc
-    - how do you map this stuff and what's the best way to map it?
-    - there is even a list of about 100 universally shared traits,
-      which are common even to Amazonian cultures which are completely
-      isolated
-    - there is a varied degree of universal recognition. to some
-      degree, you want those symbols to be more relevant to your
-      culture.
-      - universally relevant symbols are useful in that they are
-        marketable and brandable, but that trade-off is balanced
-        because they also provide additional surface area for
-        cultural subversion.
+<a name="tilings-on-the-astral-plane" />
+
+### [Tilings on the Astral Plane](#tilings-on-the-astral-plane)
+
+How do you know what symbols to choose? Generally, universal
+recognition trumps everything else, but there are many universally
+relevant signs to weave into. Some examples:
+
+#### &#x2065; Water
+
+#### &#x2065; Food
+
+#### &#x2065; Sleep
+
+#### &#x2065; Hunger
+
+#### &#x2065; Greed
+
+What are the best ways to tile these ideas in people's heads? Is it
+advantageous want a consistent typology in your followers' forms of
+belief? Or do you want the prevelance of belief-forms to varied and
+sporadic? What signs and phrases key are indicative of belief-forms?
+How does one structure religious writings and practices to (reinforce)
+specific types of belief-forms?
+
+- allusion to braidings and knots
+
+####
+
+> As the deer pants for the water brooks, so pants my soul for You, O
+> God. My soul thirsts for God, for the living God.
+
+When Christianty and Judaism blur the spiritual and physical
+definitions of hunger, this is an excellent example of semiotic
+remapping of universal concepts. Christianity gained significant
+popularity at a time when poverty, hunger and the like were rampant,
+especially among outcasts and pariahs. When missionaries brought
+Christianity to a new land, the people most interested were outcasts
+and pariahs. The downtrodden see something in Christianity that
+resonates with them.
+
+This is a great example of semiotic remapping and one that enabled the
+outcast Christians of the Early Church to swell with pride at the
+sacrifices they made for their belief system. Replacing physical
+hunger for spiritual hunger piggybacks on the universally relevant
+condition of hunger. It made the early church more likely to tolerate
+the hard times. Instead of being disrupted by group suffering, they
+used it as a means to become close.  Therefore, the information that
+underlies the belief system must alter the believer's understanding of
+signs such that negativity is transmuted into positivity.
+
+
+
+It is unfortunate that novel religious movements are tempered by
+suffering. One might consider widespread suffering amongst early
+believers as an injudiciously necessary alchemical cost to congealing
+a religion and tempering its steel. I am so worried about the people
+who may follow me down this path. It is what drives me to move
+forward, so that, in case I may be incapacitated in some way, I have
+left something behind that ameliorates their suffering by giving them
+power through knowledge. I do not know anyone else who could ever
+attain the position in life that I have and though people may accuse
+me of selfishly squandering what was given to me, no one can say that
+I did not try to stand up for those who do not enjoy this
+posturing. There are those in situations like mine who will *never*
+have the capacity to stand up and I want to ensure that I exact
+justice such that no one will ever fucking think twice about doing
+this again. I will do so peacefully and I do not care what it costs.
+
+
+- How do you map this stuff and what's the best way to map it?
+- There is even a list of about 100 universally shared traits, which
+  are common even to Amazonian cultures which are completely isolated
+  - there is a varied degree of universal recognition. to some degree,
+    you want those symbols to be more relevant to your culture.
+  - universally relevant symbols are useful in that they are
+    marketable and brandable, but that trade-off is balanced because
+    they also provide additional surface area for cultural subversion.
+
 - Which symbols will most resist semiotic change (change in meaning or
   signs) over time. Why?
   - how is this so completely different in our digital world.
@@ -427,6 +498,9 @@ universally relevant symbols to meanings then:
   - this event, if possible or if certain, could be transforming
     culture and human behavior now.  Similar to the Roko Basilisk, the
     idea itself has immense power.
+
+
+
 
 - and if almost every human need/desire/norm will change during the
   next few decades, how do we decide what to preserve?
