@@ -11,14 +11,54 @@ individuality, outnumbered, faces sublimation and creativity wilts in
 terra cocta."
 ---
 
+<a name="the-evolution-of-information-distribution" />
+
+# [The Evolution of Information Distribution](#the-evolution-of-information-distribution)
+
 A myriad of psychological and sociological challenges face us
 tomorrow, born out of a world where novelty is scarce, the prospect of
 individuality, outnumbered, faces sublimation and creativity wilts in
 terra cocta.
 
-## The Evolution of Information Distribution
+# [The Evolution of Information Distribution](#the-evolution-of-information-distribution)
 
-#### The Inversion of Mass Communication
+### [The Inversion of Mass Communication](#the-inversion-of-mass-communication)
+
+### [Whose Dictionary?](#whose-dictionary)
+
+### [Check Yo Bubble](#check-yo-bubble)
+
+# [Make It New!](#make-it-new)
+
+### [Primordial Ooze of the Noosphere](#primordial-ooze-of-the-noosphere)
+
+### [My Electro Glitch Hip Crunk Future Trap Jazz Band](#my-electro-glitch-hip-crunk-future-trap-jazz-band)
+
+### [How Many Hipsters?](#how-many-hipsters)
+
+# [Memetics and Epimemetics](#memetics-and-epimemetics)
+
+### [Everything Old Is New Again](#everything-old-is-new-again)
+
+### [White Noise, Pink Noise](#white-noise-pink-noise)
+
+# [Who Knows What You Know?](#who-knows-what-you-know)
+
+### [The Unknown Philosopher](#the-unknown-philosopher)
+
+### [Avert Your Eyes](#avert-your-eyes)
+
+# [The Death of Creativity](#the-death-of-creativity)
+
+### [I'm 100% Free Range A Postieri...](#im-100-percent-free-range-a-postieri)
+
+### [Move On and Shine Brighter](#move-on-and-shine-brighter)
+
+### [Shade This!](#shade-this)
+
+<a name="the-inversion-of-mass-communication" />
+
+### [The Inversion of Mass Communication](#the-inversion-of-mass-communication)
 
 We've seen the evolution of the distribution of mass communication
 from four channels to dozens to the internet. The internet is
@@ -38,7 +78,9 @@ we are lacking those cultural touchstones, the propensity for
 misinformation to alter our course of action skyrockets.  Our beloved
 21st century Library of Alexandria becomes it's antithesis.
 
-#### Who's Dictionary?
+<a name="whose-dictionary" />
+
+### [Whose Dictionary?](#whose-dictionary)
 
 The Urban Dictionary is a loosely controlled collection of idioms and
 expression, but who controls what gets on there or not? Are there
@@ -47,7 +89,9 @@ idioms and expressive language from experiences in our lives, then if
 we all have completely different experiences, can we communicate with
 idioms?
 
-#### Check Yo Bubble
+<a name="check-yo-bubble" />
+
+### [Check Yo Bubble](#check-yo-bubble)
 
 The newsfeed filter bubble is incredibly powerful, though
 incomprehensibly complex.  How often do you check your friends
@@ -55,7 +99,9 @@ facebook or twitter feed?  How do you know what a consistent
 experience is if the sum of our experiences suffers from maximal
 differentiation?
 
-## Make It New!
+<a name="make-it-new" />
+
+# [Make It New!](#make-it-new)
 
 Individuality is derived from how we and others present or perceive
 ourselves to differ in relation to some universal constants.
@@ -71,7 +117,9 @@ For what are we, if we lack these unifying cultural elements that we
 use to define ourselves? How can one compare themselves to someone
 else if we don't all share some common experiences?
 
-#### Primordial Ooze of the Noosphere
+<a name="primordial-ooze-of-the-noosphere" />
+
+### [Primordial Ooze of the Noosphere](#primordial-ooze-of-the-noosphere)
 
 Decades ago, everyone was exposed to common cultural factors.  Now, we
 have been thrust far into the noosphere, which is like the biosphere,
@@ -83,7 +131,9 @@ there, but I think it's clear that as the population grows, so do the
 cultural artifacts.  In the past two decades, these artifacts have
 been piling up and who is to say which are relevant and which are not?
 
-#### My Electro Glitch Hip Crunk Future Trap Jazz Hop Band
+<a name="my-electro-glitch-hip-crunk-future-trap-jazz-band" />
+
+### [My Electro Glitch Hip Crunk Future Trap Jazz Band](#my-electro-glitch-hip-crunk-future-trap-jazz-band)
 
 We have more genre's of music every year because everyone struggles to
 sound different. Preexisting genre's are combinated to create new
@@ -93,7 +143,9 @@ any degree of significance. Not only is there so much variation in
 content, there is equally as much variation in patterns of content
 consumption behaviors.
 
-#### How Many Hipsters?
+<a name="how-many-hipsters" />
+
+### [How Many Hipsters?](#how-many-hipsters)
 
 How many hipsters does it take to change a lightbulb? Well, if you
 have more than one, they'll never be able to decide on the lighting
@@ -104,7 +156,9 @@ are economic consequences as well. Cost to advertise skyrockets and
 then there's so much noise noone wants to pay attention to your
 marketing message.
 
-## Memetics and Epimemetics
+<a name="memetics-and-epimemetics" />
+
+# [Memetics and Epimemetics](#memetics-and-epimemetics)
 
 Genres of music and art forms inspire subcultures to arise and
 diversify. Then, our culture becomes more fragmented, psychologically
@@ -119,7 +173,9 @@ part, with increased number and decreased viability, it's challenging
 for any memes to rise to the top to become a touchstone. And there
 would be very few touchstones universally pervading society.
 
-#### Everything Old Is New Again
+<a name="everything-old-is-new-again" />
+
+### [Everything Old Is New Again](#everything-old-is-new-again)
 
 Today, everything that has been done as been done before. We've all
 heard that before. It's even in Ecclesiastes:
@@ -136,7 +192,9 @@ writing and production in entertainment today. But there's so much
 content on Hulu and Netflix that it becomes hard to experience it
 all.
 
-#### White Noise, Pink Noise
+<a name="white-noise-pink-noise" />
+
+### [White Noise, Pink Noise](#white-noise-pink-noise)
 
 For art and life in general, everything starts to blur together.
 Nothing is pure and nothing is original.  When a work of art is
@@ -157,7 +215,9 @@ need to be able to predict and coordinate behavior through
 socialogical and psychological structures.  And so, if nothing rises
 above the noise, we'll have problems.
 
-## Who Knows What You Know?
+<a name="who-knows-what-you-know" />
+
+# [Who Knows What You Know?](#who-knows-what-you-know)
 
 This takes on an interesting dimension when it's now possible to know
 the information that a person may know or have seen.  While for most
@@ -168,7 +228,9 @@ sets of information that we have consumed and our behaviors.
 Obviously, such a capability isn't available to all of us, just those
 who happen to have a surveillance apparatus on hand.
 
-#### The Unknown Philosopher
+<a name="the-unknown-philosopher" />
+
+### [The Unknown Philosopher](#the-unknown-philosopher)
 
 There was a 19th or 20th century French philosophy that, for the life
 of me, I can't find.  I think he was a contemporary of Heidegger, but
@@ -179,7 +241,9 @@ wasn't hugely popular, that really resonated with me. It's more
 relevant now than ever, with information consumption primarily
 funneled through ISP's and the internet.
 
-#### Avert Your Eyes
+<a name="avert-your-eyes" />
+
+### [Avert Your Eyes](#avert-your-eyes)
 
 There are some links that you could click on and you do not want to
 click on them ... an extreme example, there is a horrible, terrible,
@@ -189,7 +253,9 @@ capabilities for classifying and categorizing people based on what
 they are known to know.  And while you will never have this power,
 *they* will.
 
-## The Death of Creativity
+<a name="the-death-of-creativity" />
+
+# [The Death of Creativity](#the-death-of-creativity)
 
 So as the semiotic noise increases, what happens as our cultural
 artifacts become less pure and more diluted?  What happens as our
@@ -200,7 +266,7 @@ to push the boundaries in most fields, what does that imply about the
 people in that society? What are their lives like?  What do they feel?
 Where do they find happiness?
 
-## I Want To Know...
+# I Want To Know...
 
 #### I Really Wanted To Know... Don't You?
 
@@ -208,7 +274,9 @@ Where do they find happiness?
 src="https://www.youtube.com/embed/vCZ1YteCv5M" frameborder="0"
 allowfullscreen></iframe>
 
-## I'm 100% Free Range A Postieri...
+<a name="im-100-percent-free-range-a-postieri" />
+
+### [I'm 100% Free Range A Postieri...](#im-100-percent-free-range-a-postieri)
 
 #### For the most part....
 
@@ -228,7 +296,9 @@ creativity. I always enjoy watching the end of Bones Brigade.  The
 last part of the interview with Rodney Mullen never ceases to blow me
 away. His understanding of philosophy is on mystic guru level.
 
-## Move On and Shine Brighter
+<a name="move-on-and-shine-brighter" />
+
+### [Move On and Shine Brighter](#move-on-and-shine-brighter)
 
 #### A Brief Treatise on Lampshade Warfare
 
@@ -251,7 +321,9 @@ would eventually make damn sure that I was remembered. And all those
 people that would hold me at arms length wouldn't be able to hold me
 back elsewhere.
 
-## Shade This!
+<a name="shade-this" />
+
+### [Shade This!](#shade-this)
 
 #### [Points at Genitals]
 
