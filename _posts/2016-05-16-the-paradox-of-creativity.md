@@ -30,6 +30,56 @@ discovery is mostly diminished, as the effort required to identify and
 demonstrate novelty intensifies. Yet, novelty's increasing scarcity
 will augment the rewards for a select few.
 
+## &#x03BB;&nbsp;&#x2665; [Originality and Precipitation of True Novelty](#originality-and-precipitation-of-true-novelty)
+
+#### &#x03D5; [Life is Miracle Grow for Creatives](#life-is-miracle-grow-for-creatives)
+
+#### &#x03D5; [Windmills on Broadband](#windmills-on-broadband)
+
+#### &#x03D5; [Harnessing Isolation](#harnessing-isolation)
+
+## &#x03BB;&nbsp;&#x2665; [Metamodernism](#metamodernism)
+
+#### &#x03D5; [Exercising Our Creative Muscles](#exercising-our-creative-muscles)
+
+## &#x03BB;&nbsp;&#x2665; [The Paradox of Creativity](#the-paradox-of-creativity)
+
+#### &#x03D5; [The Curse of Reality Porn](#the-curse-of-reality-porn)
+
+#### &#x03D5; [The Power of the Unknown](#the-power-of-the-unknown)
+
+#### &#x03D5; [Cyberspace Wanderlust](#cyberspace-wanderlust)
+
+#### &#x03D5; [Mastery Over Mystery Means Mystery Over Mastery](#mastery-over-mystery-means-mystery-over-mastery)
+
+## &#x03BB;&nbsp;&#x2665; [Paraparadox](#paraparadox)
+
+#### &#x03D5; [Two Paradoxes Paired to Form a Third](#two-paradoxes-paired-to-form-a-third)
+
+#### &#x03D5; [無 de nada](#zen-de-nada)
+
+#### &#x03D5; [From Whence We Came?](#from-whence-we-came)
+
+#### &#x03D5; [Metaphysical Cross-Pollination](#metaphysical-cross-pollination)×
+
+#### &#x03D5; [The What, The How and The Why](#the-what-the-how-and-the-why)
+
+#### &#x03D5; [It's the Food and How We Cook It](its-the-food-and-how-we-cook-it)
+
+#### &#x03D5; [Generation Rift](#generation-rift)
+
+#### &#x03D5; [Tempered from Experience](#tempered-from-experience)
+
+## &#x03BB;&nbsp;&#x2665; [Líf and Lífþrasir](#lif-and-lifthrasir)
+
+#### &#x03D5; [Winning!](#winning)
+
+#### &#x03D5; [Never Forget 天命](#never-forget-tenmei)
+
+<a name="originality-and-precipitation-of-true-novelty" />
+
+# &#x03BB;&nbsp;&#x2665; [Originality and Precipitation of True Novelty](#originality-and-precipitation-of-true-novelty)
+
 In a world where almost everything has been discovered, how does one
 cultivate creativity? There is a skill of creating something without
 knowing about it.  Some ideas are just natural extensions of others;
@@ -46,7 +96,9 @@ creativity is an exceedingly rare skill! Some have a talent for it,
 but it can also be practiced, improved and understood. It is not some
 mysticism only possible for eccentrics.
 
-### Life is Miracle Grow for Creatives
+<a name="life-is-miracle-grow-for-creatives" />
+
+### [Life is Miracle Grow for Creatives](#life-is-miracle-grow-for-creatives)
 
 Some artists seem to have personalities that naturally enable them to
 be more creative.  It can be some strength of character that the have,
@@ -60,7 +112,9 @@ consumes them.  They articulate this understanding by filling their
 works with vividly distinguished statements demonstrating depth of
 knowledge about those domains.
 
-### Windmills on Broadband
+<a name="windmills-on-broadband" />
+
+### [Windmills on Broadband](#windmills-on-broadband)
 
 Limitations to communication and cultural transmission have been
 evaporating since the introduction of broadband and pervasion of
@@ -88,16 +142,18 @@ facilitating the recombination of those subcultures into new
 artforms.  Broadband was the equivalent of strapping a jet turbine to
 modernization.
 
-![Pinto](/img/posts/2016-05-16-the-paradox-of-creativity/pinto.jpg)
-
 #### How Fast You Gotta Go to Get to Orbit in That Bad Boy?
+
+![Pinto](/img/posts/2016-05-16-the-paradox-of-creativity/pinto.jpg)
 
 The speed at which data could barrel through Al Gore's series of tubes
 no longer held us back. The next major growth restraints were average
 time spent online, communication response time and service
 availability, which were eliminated by iPhone and smartphones by 2010.
 
-### Harnessing Isolation
+<a name="harnessing-isolation" />
+
+### [Harnessing Isolation](#harnessing-isolation)
 
 When I first started jamskating, from about 2003 until early 2005, I
 only had one person to practice with. Youtube wasn't available, I had
@@ -116,7 +172,9 @@ best?  LMAO.  Fuck it, take what they will, I will always know...
 
 ... Moving on
 
-### Metamodernism
+<a name="metamodernism" />
+
+# &#x03BB;&nbsp;&#x2665; [Metamodernism](#metamodernism)
 
 Metamodernism looks at cycles that transition between
 the modern and postmodern trends.  These cycles are like waves that
@@ -139,7 +197,9 @@ Read this fantastic article to learn more: [[Re]construction:
 Metamodern ‘Transcendence’ and the Return of
 Myth](http://www.metamodernism.com/2015/10/21/reconstruction-metamodern-transcendence-and-the-return-of-myth/)
 
-### Exercising Our Creative Muscles
+<a name="exercising-our-creative-muscles" />
+
+### [Exercising Our Creative Muscles](#exercising-our-creative-muscles)
 
 However, in a world standing on the shoulders of giants -- who are, in
 turn, standing on giants all the way down -- several things become
@@ -166,7 +226,9 @@ of our mind than ever before. But you can't so easily teach someone to
 be as creative as the people who struggled to innovate in the first
 place.
 
-## The Paradox of Creativity
+<a name="the-paradox-of-creativity" />
+
+# &#x03BB;&nbsp;&#x2665; [The Paradox of Creativity](#the-paradox-of-creativity)
 
 For people to profit from discoveries in society, there are more
 efficient ways to teach skills and subjects, but it's one that may or
@@ -177,6 +239,10 @@ college and school. Yet, this is orthogonal to the knowledge required
 for creative process.  And I would say that there is no set of
 knowledge which could completely replace the experience and passion
 that drives the creative process.
+
+<a name="the-curse-of-reality-porn" />
+
+### [The Curse of Reality Porn](#the-curse-of-reality-porn)
 
 Speaking firsthand, in a world where anyone can conjure up youtube
 videos of any fantastic combination of keywords, I've found myself
@@ -192,7 +258,9 @@ before. This led me to avoid learning some skills altogether, had I
 just been willing to work very hard to experience something without
 feeling a need for that project to be something *new*.
 
-### The Power of the Unknown
+<a name="the-power-of-the-unknown" />
+
+### [The Power of the Unknown](#the-power-of-the-unknown)
 
 In my head, a reel is playing my 2004 image of an amazing bboy hitting
 the most insane powermoves.  The windmill sensei that brought me up in
@@ -212,7 +280,9 @@ felt it. That is the power of mystery in life and it's dying. There is
 power in seeing something, which your mind struggled to assess, model,
 measure and compare. That moment is what life is about, to me.
 
-### Cyberspace Wanderlust
+<a name="cyberspace-wanderlust" />
+
+### [Cyberspace Wanderlust](#cyberspace-wanderlust)
 
 We rob ourselves of the power of these experiences as we sift through
 videos, tweets and shares to immediately satisfy our craving for
@@ -234,7 +304,9 @@ Structures in society tend to extinquish this, except in a few cases,
 particularly for artists. If your livelihood demands strengthening
 your inner child, I hope you realize how lucky you are.
 
-### Mastery Over Mystery Means Mystery Over Mastery
+<a name="mastery-over-mystery-means-mystery-over-mastery" />
+
+### [Mastery Over Mystery Means Mystery Over Mastery](#mastery-over-mystery-means-mystery-over-mastery)
 
 To tap into the power of the unknown, we have to develop the intuition
 to evaluate the true value of unknown experiences, as well as their
@@ -246,7 +318,9 @@ yes, one can argue that there are never two experiences or two things
 exactly alike. And yet, the only way we can develop this intuition is
 through experiences and by living life.
 
-## Paraparadox
+<a name="paraparadox" />
+
+# &#x03BB;&nbsp;&#x2665; [Paraparadox](#paraparadox)
 
 When I meet someone, I always try to remember how it happened. I'm not
 good at this, but I try. Some people's creativity derives from their
@@ -259,7 +333,9 @@ is happening around you, you are more aware of the present and you're
 more likely to remember the little things about the first time you met
 someone, which IMO is irreplaceable.
 
-### Two Paradoxes Paired to Form a Third
+<a name="two-paradoxes-paired-to-form-a-third" />
+
+### [Two Paradoxes Paired to Form a Third](#two-paradoxes-paired-to-form-a-third)
 
 A corollary to this is to actually restrict the number of times you
 might meet someone new or experience something completely new, since
@@ -273,13 +349,17 @@ and social structures based on five or more generations of life
 experience, so how would someone know when it is worthwhile to seek
 their own understanding?
 
-### 無 de nada
+<a name="zen-de-nada" />
+
+### [無 de nada](#zen-de-nada)
 
 As for becoming a master of the present moment, I'm sure there are
 plenty of other exercises to strengthen your awareness, as well as
 tactics for knowing how to apply your learnings.
 
-## From Whence We Came?
+<a name="from-whence-we-came" />
+
+### [From Whence We Came?](#from-whence-we-came)
 
 Multitudes of people who are incredibly smart, but less creative,
 especially in a world where anyone can instantly know nearly anything,
@@ -292,7 +372,9 @@ paradox of creativity, we may accelerate our implementation of science
 and technology, but then stagnate our progression of it, eventually,
 as we separate ourselves from our past.
 
-### Metaphysical Cross-Pollination
+<a name="metaphysical-cross-pollination" />
+
+### [Metaphysical Cross-Pollination](#metaphysical-cross-pollination)
 
 Obviously, we must move forward; our economy demands it. Yet, we need
 to keep a close eye on our trajectory.  Total loss of the factors
@@ -310,7 +392,9 @@ and creation, that could easily be forgotten. Or perhaps it is fated,
 in which case, it is all the more vital for us to retain the memory of
 this future moving forward.
 
-### The What, The How and The Why
+<a name="the-what-the-how-and-the-why" />
+
+### [The What, The How and The Why](#the-what-the-how-and-the-why)
 
 This has happened time and time again in history: people understand
 the "what" of their history, they may even remember the "how" of the
@@ -333,7 +417,9 @@ overstimulation.  And it's become common to philosophize and
 "discover" some mode of thinking or phenomenon that everyone used to
 be familiar with.
 
-### It's the Food and How We Cook It
+<a name="its-the-food-and-how-we-cook-it" />
+
+### [It's the Food and How We Cook It](#its-the-food-and-how-we-cook-it)
 
 You can already see how this has effected us by contrasting eating
 habits now, compared to 100 to 500 years ago. Of course, there wasn't
@@ -343,21 +429,24 @@ conventional wisdom about what were healty eating habits then and
 correlate it to the beliefs of an average 14 year old, you might be
 shocked.  In the past five years, our habits have changed and America
 seems much healthier, but 25 years ago, someone thought it'd be a good
-idea to load food with transfats.  And this is one example where our
-minds, overstimulated with data and the latest scientific
-understanding, thought it'd be a great idea to completely reject 5
-centuries of conventional nutritional and medical understanding.  No,
-those people had no fucking clue "how" their traditions worked, but
-they did understand "what" seemed to work.  It has always been
-valuable to draw generalizations across generations of observed
-patterns in eating and living habits.
+idea to load food with transfats.
+
+And this is one example where our modern minds, overstimulated with
+data and the latest scientific understanding, thought it'd be a great
+idea to completely reject five centuries of conventional nutritional
+and medical understanding.  No, those people had no fucking clue "how"
+their traditions worked, but they did understand "what" seemed to
+work.  It has always been valuable to draw generalizations across
+generations of observed patterns in eating and living habits.
 
 Science seems smart, but often lacks wisdom.  It appears to explain,
 yet often lacks the "why." Science without religion is blind; religion
 without science is lame.  Ahhh, sometimes lines from TV shows can be
 brilliant eh?
 
-### Generation Rift
+<a name="generation-rift" />
+
+### [Generation Rift](#generation-rift)
 
 The skills and hard work that we gave up in the name of convenience
 also endowed us with invaluable knowledge.  Usually this we absorbed
@@ -373,7 +462,9 @@ sharing our experiences. And in a major revolution, the seniors and
 elderly often find themselves targeted in the following years, as
 their experience threatens the young power.
 
-### Tempered from Experience
+<a name="tempered-from-experience" />
+
+### [Tempered from Experience](#tempered-from-experience)
 
 And for those skills which seemed outdated, the youth tends to believe
 them to be a complete encumbrance.  We totally overlook how replacing
@@ -402,7 +493,9 @@ farming techniques.
 > prices and profits shared amoung more people. Good luck with that
 > one though.
 
-## Líf and Lífþrasir
+<a name="lif-and-lifthrasir" />
+
+# &#x03BB;&nbsp;&#x2665; [Líf and Lífþrasir](#lif-and-lifthrasir)
 
 ### In a Hollow Tree
 
@@ -427,7 +520,9 @@ strengthens the spectre of nihilism. The more we eliminate disease and
 poverty, the more certain we are to struggle against widespread
 nihilism.
 
-### Winning!
+<a name="winning" />
+
+### [Winning!](#winning)
 
 Imagine that. The more we win, the more certain we are to lose.  To
 lose hope. To lose progress. To lose understanding. The seeds of our
@@ -442,7 +537,9 @@ information, we will be forever cursed to being pulled back. When that
 happens, we may have forgotten where we came from, so how can we know
 where to go?
 
-### Never Forget 天命
+<a name="never-forget-tenmei" />
+
+### [Never Forget 天命](#never-forget-tenmei)
 
 So I hope we never forget the value of being creative.  It won't be
 something that we realize we miss once it's gone because even if we

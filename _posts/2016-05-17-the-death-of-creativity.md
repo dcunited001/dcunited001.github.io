@@ -13,48 +13,48 @@ terra cocta."
 
 <a name="the-evolution-of-information-distribution" />
 
-# [The Evolution of Information Distribution](#the-evolution-of-information-distribution)
+# &#x03BB;&nbsp;&#x2665; [The Evolution of Information Distribution](#the-evolution-of-information-distribution)
 
 A myriad of psychological and sociological challenges face us
 tomorrow, born out of a world where novelty is scarce, the prospect of
 individuality, outnumbered, faces sublimation and creativity wilts in
 terra cocta.
 
-# [The Evolution of Information Distribution](#the-evolution-of-information-distribution)
+## &#x03BB;&nbsp;&#x2665; [The Evolution of Information Distribution](#the-evolution-of-information-distribution)
 
-### [The Inversion of Mass Communication](#the-inversion-of-mass-communication)
+#### &#x03D5; [The Inversion of Mass Communication](#the-inversion-of-mass-communication)
 
-### [Whose Dictionary?](#whose-dictionary)
+#### &#x03D5; [Whose Dictionary?](#whose-dictionary)
 
-### [Check Yo Bubble](#check-yo-bubble)
+#### &#x03D5; [Check Yo Bubble](#check-yo-bubble)
 
-# [Make It New!](#make-it-new)
+## &#x03BB;&nbsp;&#x2665; [Make It New!](#make-it-new)
 
-### [Primordial Ooze of the Noosphere](#primordial-ooze-of-the-noosphere)
+#### &#x03D5; [Primordial Ooze of the Noosphere](#primordial-ooze-of-the-noosphere)
 
-### [My Electro Glitch Hip Crunk Future Trap Jazz Band](#my-electro-glitch-hip-crunk-future-trap-jazz-band)
+#### &#x03D5; [My Electro Glitch Hip Crunk Future Trap Jazz Band](#my-electro-glitch-hip-crunk-future-trap-jazz-band)
 
-### [How Many Hipsters?](#how-many-hipsters)
+#### &#x03D5; [How Many Hipsters?](#how-many-hipsters)
 
-# [Memetics and Epimemetics](#memetics-and-epimemetics)
+## &#x03BB;&nbsp;&#x2665; [Memetics and Epimemetics](#memetics-and-epimemetics)
 
-### [Everything Old Is New Again](#everything-old-is-new-again)
+#### &#x03D5; [Everything Old Is New Again](#everything-old-is-new-again)
 
-### [White Noise, Pink Noise](#white-noise-pink-noise)
+#### &#x03D5; [White Noise, Pink Noise](#white-noise-pink-noise)
 
-# [Who Knows What You Know?](#who-knows-what-you-know)
+## &#x03BB;&nbsp;&#x2665; [Who Knows What You Know?](#who-knows-what-you-know)
 
-### [The Unknown Philosopher](#the-unknown-philosopher)
+#### &#x03D5; [The Unknown Philosopher](#the-unknown-philosopher)
 
-### [Avert Your Eyes](#avert-your-eyes)
+#### &#x03D5; [Avert Your Eyes](#avert-your-eyes)
 
-# [The Death of Creativity](#the-death-of-creativity)
+## &#x03BB;&nbsp;&#x2665; [The Death of Creativity](#the-death-of-creativity)
 
-### [I'm 100% Free Range A Postieri...](#im-100-percent-free-range-a-postieri)
+#### &#x03D5; [I'm 100% Free Range A Postieri...](#im-100-percent-free-range-a-postieri)
 
-### [Move On and Shine Brighter](#move-on-and-shine-brighter)
+#### &#x03D5; [Move On and Shine Brighter](#move-on-and-shine-brighter)
 
-### [Shade This!](#shade-this)
+#### &#x03D5; [Shade This!](#shade-this)
 
 <a name="the-inversion-of-mass-communication" />
 
@@ -101,7 +101,7 @@ differentiation?
 
 <a name="make-it-new" />
 
-# [Make It New!](#make-it-new)
+# &#x03BB;&nbsp;&#x2665; [Make It New!](#make-it-new)
 
 Individuality is derived from how we and others present or perceive
 ourselves to differ in relation to some universal constants.
@@ -158,7 +158,7 @@ marketing message.
 
 <a name="memetics-and-epimemetics" />
 
-# [Memetics and Epimemetics](#memetics-and-epimemetics)
+# &#x03BB;&nbsp;&#x2665; [Memetics and Epimemetics](#memetics-and-epimemetics)
 
 Genres of music and art forms inspire subcultures to arise and
 diversify. Then, our culture becomes more fragmented, psychologically
@@ -217,7 +217,7 @@ above the noise, we'll have problems.
 
 <a name="who-knows-what-you-know" />
 
-# [Who Knows What You Know?](#who-knows-what-you-know)
+# &#x03BB;&nbsp;&#x2665; [Who Knows What You Know?](#who-knows-what-you-know)
 
 This takes on an interesting dimension when it's now possible to know
 the information that a person may know or have seen.  While for most
@@ -255,7 +255,7 @@ they are known to know.  And while you will never have this power,
 
 <a name="the-death-of-creativity" />
 
-# [The Death of Creativity](#the-death-of-creativity)
+# &#x03BB;&nbsp;&#x2665; [The Death of Creativity](#the-death-of-creativity)
 
 So as the semiotic noise increases, what happens as our cultural
 artifacts become less pure and more diluted?  What happens as our
@@ -266,7 +266,7 @@ to push the boundaries in most fields, what does that imply about the
 people in that society? What are their lives like?  What do they feel?
 Where do they find happiness?
 
-# I Want To Know...
+### I Want To Know...
 
 #### I Really Wanted To Know... Don't You?
 
