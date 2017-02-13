@@ -457,26 +457,33 @@ used it as a means to become close.  Therefore, the information that
 underlies the belief system must alter the believer's understanding of
 signs such that negativity is transmuted into positivity.
 
-
-
-It is unfortunate that novel religious movements are tempered by
-suffering. One might consider widespread suffering amongst early
+It is unfortunate that nascent religious movements are always tempered
+by suffering. One might consider widespread suffering amongst early
 believers as an injudiciously necessary alchemical cost to congealing
-a religion and tempering its steel. I am so worried about the people
-who may follow me down this path. It is what drives me to move
-forward, so that, in case I may be incapacitated in some way, I have
-left something behind that ameliorates their suffering by giving them
-power through knowledge. I do not know anyone else who could ever
-attain the position in life that I have and though people may accuse
-me of selfishly squandering what was given to me, no one can say that
-I did not try to stand up for those who do not enjoy this
-posturing. There are those in situations like mine who will *never*
-have the capacity to stand up and I want to ensure that I exact
-justice such that no one will ever fucking think twice about doing
-this again. I will do so peacefully and I do not care what it costs.
+a religion and tempering its steel.
 
+I am so worried about the people who may follow me down this path. It
+is what drives me to move forward, so that, in case I may be
+incapacitated in some way, I have left something behind that
+ameliorates their suffering by giving them power through knowledge. I
+do not know anyone else who could ever attain the position in life
+that I have and though people may accuse me of selfishly squandering
+what was given to me, no one can say that I did not try to stand up
+for those who do not enjoy this posturing. There are those in
+situations like mine who will *never* have the capacity to stand up
+and I want to ensure that I exact justice such that no one will ever
+fucking think twice about doing this again. I will do so peacefully
+and I do not care what it costs. As far as I can see, God is at my
+side, along with the entire world, because I cannot comprehend how I
+am capable of this.
 
-- How do you map this stuff and what's the best way to map it?
+> A warning: there is much harm that can be done through semiotic
+> remapping. Since it is so unpredictable and the requisite experience
+> is almost always insufficient, great harm often accompanies the most
+> beneficent intentions.
+
+###
+
 - There is even a list of about 100 universally shared traits, which
   are common even to Amazonian cultures which are completely isolated
   - there is a varied degree of universal recognition. to some degree,
