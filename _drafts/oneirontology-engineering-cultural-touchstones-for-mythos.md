@@ -26,9 +26,15 @@ own belief system that will stand the test of time.
 Or at least understand how "they" did it... It all has to do with
 semiotics. This is...
 
-# Design of Knowledge Systems
+## [Design of Knowledge Systems](#design-of-knowledge-systems)
 
-### Robustness of Culture, Preservation of Authenticity, etc
+
+
+<a name="design-of-knowledge-systems" />
+
+# [Design of Knowledge Systems](#design-of-knoweldge-systems)
+
+### (Robustness of Culture, Preservation of Authenticity, etc)
 
 All knowledge and information is will degrade over time. Most worldly
 knowledge is nothing without a mind to host it. Therefore, if the
@@ -113,8 +119,8 @@ to be invoked upon apocalypse, whence the Gods return.
 
 ###
 
-If one were to design such a system today, and especially in the face
-of likely persecution of believers, what would we choose to preserve?
+If one were to design such a system today, one that should withstand
+likely persecution of believers, what would one choose to preserve?
 Which animals would we put on the Ark? How would we determine what
 cultural elements remain truly immutable and hold true, regardless of
 social upheaval that acommpanies the Singularity? If you took a look
@@ -167,7 +173,9 @@ structures and processes of the institutions. The institutions must
 exemplify the beliefs and practices of the religion. If the followers
 cannot build robust institutions, then they will fall apart.
 
-### (Importance of Semiotics to Mythology)
+<a name="significance-of-semiotics-to-mythology" />
+
+### [Significance of Semiotics to Mythology](#significance-of-semiotics-to-mythology)
 
 After learning linguistics, semiotics presents itself as another tool
 to quantify and analyze the structure of myth, belief and
@@ -185,7 +193,9 @@ thus, utility depends on its universiality and invariance,
 geographically and temporally, allows one to understand the
 risk/payoff for investing energy in remapping symbols.
 
-### Temporally Invariant Signs
+<a name="temporally-invariant-signs" />
+
+### [Temporally Invariant Signs](#temporally-invariant-signs)
 
 There are temporally invariant symbols that are mostly permanent
 fixtures of the human condition. These symbols are signs whose
@@ -210,7 +220,9 @@ dispersed populations offers *unparalleled insight* into psychosocial
 cultural dynamics.** It begins to confer what can be perceived as
 God-like wisdom and intuiton.
 
-### Geographically Invariant Signs
+<a name="geographically-invariant-signs" />
+
+### [Geographically Invariant Signs](#geographically-invariant-signs)
 
 Geographically invariant symbols are also special, but can change over
 time, gaining or losing significance and affluence. Signs whose
@@ -222,19 +234,23 @@ If your religion or belief system is heavily invested in mapping
 geographically variant signs, a central authority will lose power over
 them as their meaning and mapping evolves over time and space.
 
-### (scarcity)
+<a name="" />
+
+### [Signs Whose Power is Derived from Scarcity]
 
 There are signs whose power derives from scarcity: sexual images,
-money or rare experiences. The influence derived from signs who's
-power is derived from scarcity is magical. By limiting the prevelence
-of the signifier, you tightly control the circumstances by which the
-sign becomes defined in the minds of men. Therefore, you can constrain
-the typology of mindforms that result from exposure to the
+money or rare experiences. The influence derived from signs whose
+power is derived from a lacuna of paucity is magical. By limiting the
+prevelence of the signifier, you tightly control the circumstances by
+which the sign becomes defined in the minds of men. Therefore, you can
+constrain the typology of mindforms that result from exposure to the
 signifier. This is the power of the occult: it is power derived from
 the unseen. This power allows you strongly and deftfully cultivate the
 semiotic mappings in the mind.
 
-### (branding)
+<a name="semiotics-in-branding-and-marketing" />
+
+### [Semiotics in Branding and Marketing](#semiotics-in-branding-and-marketing)
 
 Signs can be used to brand an experience or brand a memory. Semiotics
 is incredibly powerful for branding or marketing agencies to
@@ -244,7 +260,11 @@ markets they develop advertisements for. Ultimately, advertising is
 simply paying others to influence informational mappings in the minds
 of consumers and it's expensive.
 
-### (in context of probablistic, ergodic programs)
+<a name="probabilistically-dynamical-state-machines-with-ergodic-stabalization-of-metastates" />
+
+### [Probabilistically Dynamical State Machines with Ergodic Stabalization of Metastates](#probabilistically-dynamical-state-machines-with-ergodic-stabalization-of-metastates)
+
+(in context of probablistic, ergodic programs)
 
 I've been working on a theory of metanomics, which describes any
 genomic system in terms of a probabilistically dynamical state-machine
@@ -269,7 +289,9 @@ units and subunits of the system. No paradigm of genomic programming
 that I've heard of accounts for the importance of spatially
 distributed state.
 
-### (the most universal symbol)
+<a name="the-metasign-symmetry-is-the-most-universal-sign" />
+
+### [The Metasign Symmetry is the Most Universal Sign](#the-metasign-symmetry-is-the-most-universal-sign)
 
 Is there a most powerful sign in semiotics, as mapped within humanity?
 Yes, but it's not the instantiation of a sign. It is a higher-order
@@ -279,51 +301,100 @@ origin in the "space" of semiotics also has connections to abstract
 algebra, number theory, galois theory, category theory and it is the
 unifying center of everything.
 
-### The Shepherd as a Universal Symbol
+I'm studying some of the following video. I hope it will demonstrate a
+strong connection between the concept of origin in Number Theory,
+symmetry and analytic combinatorics. The video is from the
+[Institute for Advanced Study](https://www.youtube.com/channel/UC8aRaZ6_0weiS50pvCmo0pw)
+[The Symmetry and Simplicity of the Laws of Nature and the Higgs Boson](https://www.youtube.com/watch?v=OQF7kkWjVWM).If
+you're into watching endless lectures on advanced mathematics as
+applied, then the
+[Simons Institute](https://www.youtube.com/user/SimonsInstitute) is an
+unparalleled resource. I haven't found a better mathematics
+self-education resource online.
 
-A well-recognized symbol for religions is that of the shepherd. Jesus
-was a shepherd, which was well known through out the middle east and
-other adjacent areas.
-- it was a humble role in society, where one person was entrusted with
-  ensuring the safety and vitality of a flock. I imagine that, in many
-  cases, this livestock was an asset that belonged to someone else in
-  most cases.
-  - but this symbol of the shepherd was universally recognized. a
-    shepherd might operate differently in various regions, but there
-    are some aspects of his duties and responsibilities that were
-    shared by all cultures with agriculture & livestock
-    - a shepherd tends to animals & livestock
-    - a shepherd must fend off threats to the livestock
-    - a shepherd can manage his flock to feed it well or feed it
-      poorly. in the longterm, this can lead to a healthy flock or one
-      that is malnourished.
-    - the shepherd might herd animals specific to a region, but there
-      are common pieces of information shared across all of those
-      regions.
-  - the shepherd is also a well known symbol in several major world
-    religions. it's present in Judaism, in Christianity, in Buddhism,
-    in Islam, and to a limited degree in Zoroastrianism.
+<a name="the-shepherd-a-universal-sign" />
 
-- in Mahayana Buddhism, there are 3 degrees of bodhisattva, depending
-  on how their words/actions express their beliefs:
-  - the King: who strives for Buddhahood as soon as possible as a
-    means of self-empowerment to help others
-  - the Boatman or Ferryman: who strives for Buddhahood along with
-    other sentient beings (to ensure they reach the other side)
-  - the Shepherd: who strives for Buddhahood, but only under the
-      condition that all other sentient beings have achieved
-      Buddhahood.
-    - The shepherd is the "highest" bodhisattva, who has vowed remain
-      behind for the longest time and make the greatest personal
-      sacrifices.
-    - one might say this is the greatest sacrifice, as one must
-      acknowledge the all-but-ensured lack of personal attainment of
-      Buddhahood, since it would be a pipe-dream to think all sentient
-      lifeforms could become Buddha.
-- but the symbol of the shepherd is one that appears in four or five
-  major religions. it has universal appeal, understanding, etc.
+# [The Shepherd, a Universal Sign](#the-shepherd-a-universal-sign)
 
-# Semiotics of Mythology
+One thing that oneironauts must respect are other shepherds and their
+flocks, within and outside of oneirontology. We must respect other
+traditions, being especially careful not to pull their sheep away. We
+are a tradition whose missions include restoring general religious
+faith in humanity. It will not help us to pull others away from
+another tradition. It will only hurt us. We want to work to restore
+the perceived value of religion in humanity and doing so does not
+require evangelism. We are non-evangelistic and this tradition will
+not work for many people.
+
+###
+
+The shepherd is sign recognized by many religions. Jesus was a
+shepherd and a carpenter. The shepherd was a well known through out
+the middle east and other adjacent areas. It forms the basis of a
+partial pattern language, whereby the shepherd and the sheep in his
+flock become signs that can be used to figuratively convey meaning
+that simple words cannot.
+
+The symbol of the shepherd is one that was universally recognized by
+everyone during the time of the Buddha and Jesus. As a sign with wide
+penetration, it is one which whose....
+
+The shepherd was a humble role in society, where one
+person was entrusted with ensuring the safety and vitality of a
+flock. I imagine that, in most cases, this livestock was an asset that
+belonged to someone else. (TODO: ???)
+
+A shepherd might operate differently in various regions, but many
+aspects of their responsibilities and livelihood that were shared by
+all cultures with agriculture & livestock. These include nearly all
+cultures across the globe. Therefore, by piggybacking on this sign and
+employing teachings to develop a specific understanding of the
+semiotics of a shepherd in the mind of followers, one guarentees their
+movement further means of universal appeal.
+
+Regardless of the region, there are many shared traits of character
+and common facets to their experience. A shepherd tends to animals &
+livestock. A shepherd must fend off threats to the livestock. A
+shepherd can manage his flock to feed it well or feed it poorly. In
+the longterm, this can lead to a healthy flock or one that is
+malnourished. Today, the shepherd is also a well known symbol in
+several major world religions. it's present in Judaism, in
+Christianity, in Buddhism, in Islam, and to a limited degree in
+Zoroastrianism. Why? Because all religions have, intentionally or not,
+piggybacked on these semiotic mappings to increase the penertrability
+and relevance of their content to potential followers.
+
+### The Shepherd Bodhisattva in Mahayana Buddhism
+
+In Mahayana Buddhism, there are three degrees of
+[bodhisattva](https://en.wikipedia.org/wiki/Bodhisattva), depending on
+how their actions express their beliefs. There is the king, who
+strives for buddhahood as soon as possible as a means of
+self-empowerment to help others. There is the ferryman, who strives
+for buddhahood, along with other sentient beings. The boatman helps
+watch over and guide their shared voyage, ensure that his fellow
+beings reach the other side. There is the shepherd, who strives for
+buddhahood, but only after all other sentient beings have acheived
+buddhahood first. The shepherd returns to the battlefield, lifetime
+after lifetime, forgoing escape from the mortal coil
+
+
+The shepherd is the "highest" bodhisattva, who has vowed remain behind
+for the longest time and make the greatest personal sacrifices.
+
+- one might say this is the greatest sacrifice, as one must
+  acknowledge the all-but-ensured lack of personal attainment of
+  Buddhahood, since it would be a pipe-dream to think all sentient
+  lifeforms could become Buddha.
+
+The symbol of the shepherd is one that appears in at least four major
+religions. It's not a coincidence. The sign of the shepherd is used as
+a basis for pattern languages, which is fueled by its universival
+appeal and consistent semiotic mapping.
+
+<a name="semiotics-of-mythology" />
+
+# [Semiotics of Mythology](#semiotics-of-mythology)
 
 If you're using semiotics to encode meaning in mythology by mapping
 universally relevant symbols to meanings then:
@@ -541,6 +612,21 @@ than its worth.
 
 ... Everybody Poops
 
+
+
+### ???
+
+Human civilization is currently undergoing a paradigm shift of
+cultural flux, precipitated by modernization, globalization and the
+Singularity. Does this shift imply an opportunity for the next major
+belief system to establish the semiotic foundation of human thought
+for the next astrological age? Yes, it does. However, this is not an
+opportunity. It's a necessicity and something that must be handled
+with care and unparalleled foresight. We must revise semiotic
+frameworks used by humanity (...)
+
+How do we adapt our culture to the (fundamentally different cultural
+paradigm created by modernization)
 
 
 

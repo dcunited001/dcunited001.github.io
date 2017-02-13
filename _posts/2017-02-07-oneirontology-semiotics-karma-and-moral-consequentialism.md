@@ -158,7 +158,7 @@ comparison of ontological perspectives on Our collective dreams.
 Therefore, We must seek to understand the desires, pains, urges and
 needs of others in an attempt to measure their dreams. Every religion
 needs a mission and Oneirontology's is to protect & empower others,
-espeicially those whose capacity for achieving their dreams has been
+especially those whose capacity for achieving their dreams has been
 impaired. It is our mission to discover the most capable guardians,
 along with other role metatypes. What metatypes are you?
 
