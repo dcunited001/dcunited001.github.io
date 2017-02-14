@@ -584,15 +584,14 @@ How do we decide what to preserve? How do we preserve it in such a way
 that is robust and resists the potential for abuse of religion? In
 alignment with the values of humanism?
 
-There are Theology PhD's all over the world that have written
-dissertations on this topic or similar ones. Studying apocalyptic myth
-like Ragnarok is Eschatology, but there's probably a more specific
-label for this specific study of design principles in eschatology and
-religion. What interests me most is the precise information
-compression in eschatological works. How did these people know to lay
-down their words in such a manner that would encode the set of beliefs
-to be reactivated, while enabling the belief system to persist until
-then?
+Theology PhD's have written dissertations on this and similar
+topics. Studying apocalyptic myth like Ragnarok is Eschatology, but
+there's probably a more specific label for this specific study of
+design principles in eschatology and religion. What interests me most
+is the precise information compression in eschatological works. How
+did these people know to lay down their words in such a manner that
+would encode the set of beliefs to be reactivated, while enabling the
+belief system to persist until then?
 
 # (specific semiotic binding points)
 
@@ -601,17 +600,62 @@ symbols, etc? Any set of signs common to a culture, nation or region
 can be mapped to multiple meanings. This is true of a signs to a
 varying degree of frequency. Of particular interest is the propensity
 over generations for gradual meditation on such semiotic signs to
-produce strikingly similar maps. This is yet another reason world
-religions share so many common traits.
+produce strikingly similar maps. Still another reason world religions
+share so many common traits.
 
 ### [Quantification of Semiotics for Statistical Methods](#quantification-of-semiotics-for-statistical-methods)
 
-As one begins to 
+Semiotic graphs can emerge from linguistic analysis of communication,
+(though to hope to reach any real graph, one needs to analyze more
+than text because many concepts are hidden from the purely
+literate. This simplifies one's life and thought processes greatly)
+
+- Semiotics and Semantics as the Universal loom upon which all
+  thoughts and ideas are interleaved.
 
 - signs & morphemes from zipf's distribution on language.
   - and also signs
 - top 500 words/morphemes to learn in any new language are a great
   start for enumerating a list of mappable symbols
+
+
+#### Semantic Dissonance between English and Chinese
+
+![Semantic Dissonance between English and Chinese](/img/posts/2017-02-14-oneirontology-engineering-cultural-touchstones-for-mythos/semantics-graph.png)
+
+The graph above shows dissonance between semantic concepts in English
+and Chinese. As your analysis accomodates more languages, there should
+be nested graphs that emerge via recursive convergence. These should
+allow you to approach the (infinitely distant) foundational graph for
+humanity's semiotic mappings.
+
+Humanity's semiotic graph can not account for all concepts, as many
+are still undeveloped. Therefore we should have a partial graph which
+can be mapped to the universe's own foundational semiotic map. This
+convergence towards a *universal* semiotic graph is described in April
+2016's Polymath Post of the Year That No One Fuck'n Read:
+[The Nature of Space, Time and Information Implies Universal Language](/posts/2016-04-12-the-nature-of-space-time-and-information-implies-universal-language.html). This
+post pitches slightly less than novel idea for a universal language
+that maps this universal semiotic network to mathematic primitives
+form graph theory and category, forming the basis for a language
+undoubted used by space aliens to communicate over vast distances
+without the need for a protocol to define semantics. The semantics
+would instead be implicit in mathematic primitives. (I also made less
+than $400 in 2016, so go figure.)
+
+> *AMERICA!* Round Robin, heart disease and NASCAR! Fuck 'em free
+> thinkin' frilly philosopher types.
+
+(I remember being threatened by being sent to a mental institution the
+morning I tried to publish. It's a common theme in my life, along with
+constant disruption of productivity via COINTELPRO. That's real cool,
+y'all. I've learned to publish early and publish often. I have
+uploaded nearly everything I have written to Github, just in case.)
+
+> "America! Got a friend that thinks too hard?! Neurologically castrate
+> them. Don't talk to them. Knowledge is contagious. It's a disease
+> and you could get sick!" - The paradigm that powers American-led
+> innovation in the 21st century economy....
 
 ### [Astrology](#astrology)
 
