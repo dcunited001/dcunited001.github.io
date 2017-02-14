@@ -755,6 +755,7 @@ than its worth.
 
 - emotions, emotional progressions
 - eating, sex, things that every person must do
+- passage of time: "Day"
 
 ### Misc Phenomena
 
@@ -851,8 +852,10 @@ will be terrified.
 
 You can't learn about linguistics and semiotics without learning what
 they have done with human culture, but you will never really know who
-they are because they are everywhere. They are obsessed with knowing
-who is getting close to being capable of learning. They watch certain
+they are because they are everywhere. To most people, their level of
+control over culture is unfathomable and appears supernatural. It is
+not. The Illuminati are obsessed with knowing who is getting close to
+being capable of learning or being dangerous. They watch certain
 fields of knowledge. If you get close, they will insert themselves
 into your life and co-opt your soul. They will choke you off first,
 then try to buy you off, then try to destroy anything and everything
