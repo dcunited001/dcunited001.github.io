@@ -449,11 +449,12 @@ relevant signs to weave into. Some examples:
 #### &#x2065; Greed
 
 What are the best ways to tile these ideas in people's heads? Is it
-advantageous want a consistent typology in your followers' forms of
-belief? Or do you want the prevelance of belief-forms to varied and
-sporadic? What signs and phrases key are indicative of belief-forms?
-How does one structure religious writings and practices to (reinforce)
-specific types of belief-forms?
+advantageous to desire a consistent typology in your followers' forms
+of belief? Or do you want the prevelance of belief-forms to varied and
+sporadic? There is a continuum between both. What signs and phrases
+key are indicative of specific belief-forms? How does one structure
+religious writings and practices to (reinforce) specific types of
+belief-forms?
 
 - allusion to braidings and knots
 
@@ -650,6 +651,7 @@ than its worth.
 
 - scientology's use of an ontological perspective based on science as
   a pattern language
+  - ![picture of gene ontology]()
 
 ### [Architypical Events in Human History](#architypical-events-in-human-history)
 
@@ -748,6 +750,7 @@ than its worth.
 ### Health/Disease/Anatomy
 
 
+
 ### Human Behavior
 
 - emotions, emotional progressions
@@ -756,8 +759,6 @@ than its worth.
 ### Misc Phenomena
 
 ... Everybody Poops
-
-
 
 ### ???
 
@@ -800,9 +801,9 @@ another interpretation of Ouroboros: the global economy. But first, if
 the snake has curled around the world, then it would be impossible for
 the Nords to be unaware of the spherical shape of the world or at
 least the possibility. And, as the stewards of Thule and Hyperboria,
-*constantly moving in and out of the Arctic Circle* the Nords were
-perhaps the people *most* aware of the spherical shape of the
-world. The Nords were *well-versed in navigation* and *travel from
+*constantly travelling in and out of the Arctic Circle*, the Nords
+were perhaps the people *most* aware of the spherical shape of the
+world. The Nords were *well-versed in navigation* and *travelled from
 close to the Arctic Circle to close the the equator. **It would be
 impossible for the Nords to navigate their corner of earth while being
 unaware of the spherical shape of the Earth**.
@@ -829,13 +830,33 @@ MEAN TO!!* ... It was an "accident" and nothing more. Do you feel any
 better? What about the rest of history? How many teachers in America
 will look you in the eye and tell you the story of Columbus? So,
 before this is all finished, the rest of the Illuminati's secrets will
-be revealed. And no, this ain't no !@#$'ing Youtube documentary. And
-the Illuminati always knew that the time would could when all their
-sins throughout history would be out in open air in front of
-everyone. It's not like they didn't see it coming. And it's not like
-they can't justify their dirty laundry: they all know what they've
-done and they hate themselves. It's a dirty job, but someone's gotta
-do it.
+be revealed. And no, this ain't no !@#$'ing Youtube documentary.
+
+Talking about the Illuminati is a great way to immediately discredit
+yourself, especially if you are correct. The "Illuminati" always knew
+that the time would could when all their sins throughout history would
+be out in open air in front of everyone. It's not like they didn't see
+it coming. And it's not like they can't justify their dirty laundry:
+they all know what they've done and they hate themselves for it. It's
+a dirty job, but someone's gotta do it.
+
+Just to be clear: the Illuminati's guilt is an unfortunate dependency
+of the stability of society. The only way for their sins to remain
+undiscovered in a time of unprecedented free information exchange is
+if they burn the whole system down, hording technology for themselves
+for total dominance over mankind ad infinitum. Self-restraint is
+appropriate when discussing the Illuminati because when you finally
+realize how they work and how prevelant they are through society, you
+will be terrified.
+
+You can't learn about linguistics and semiotics without learning what
+they have done with human culture, but you will never really know who
+they are because they are everywhere. They are obsessed with knowing
+who is getting close to being capable of learning. They watch certain
+fields of knowledge. If you get close, they will insert themselves
+into your life and co-opt your soul. They will choke you off first,
+then try to buy you off, then try to destroy anything and everything
+around you if you do not cooperate.
 
 ### Ragnarok Was Pre-Literary Futurism
 
