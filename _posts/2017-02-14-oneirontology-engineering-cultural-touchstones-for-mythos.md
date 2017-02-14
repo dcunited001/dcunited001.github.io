@@ -536,23 +536,28 @@ social engineering?
 
 The nature of the Singularity's changes are particularly important: is
 humanity embarking on a final transformation or is this a final
-transformation into a state of neverending change? The answer to this
-question is particularly important for designing a belief system. If
-the answer is the latter option, it will prove an unfathomablely
-complex challenge. In this case, it's even moreso important to nail
-down the points which never change and measure their degree of
-unwaveringness. Only then could one hope to design a belief system to
-last a millenia after a transition into the perfect storm of cultural
-flux.
+transformation into a state of neverending exponential change? The
+answer to this question is particularly important for designing a
+belief system. If the answer is the latter option, it will prove an
+unfathomablely complex challenge. In this case, it's even moreso
+important to nail down the points which never change and measure their
+degree of unwaveringness. Only then could one hope to design a belief
+system to last a millenia after a transition into the perfect storm of
+cultural flux.
+
+What systems of symbols will resist change in this final season of
+constant change? What notions of identity are constant in a world
+where the notion of hivemind becomes reality? What belief system gives
+people hope when privacy becomes a fantasy? The Singularity, the idea,
+is a powerful motivating force. A la
+[Roko's Basilisk](http://rationalwiki.org/wiki/Roko's_basilisk), it is
+the idea whence power is derived.
+
+In pursuit of understanding how humanity must prepare for the
+Singularity, Ragnarok presents itself as perhaps the greatest example
+of cultural preservation. (blurb on the wisdom of ancients)
 
 
-
-  - how is this so completely different in our digital world.
-    - and how to harness this?
-- What systems of symbols will resist change in the face of constantly
-  changing culture?
-  - In the face of cultural turmoil before, during and after
-    modernism/globalism?
 - And in the face of some possibly permanent, transformative event,
   such as the Singularity?
   - this event, if possible or if certain, could be transforming
@@ -565,7 +570,7 @@ flux.
   - in such a way that resists the potential for abuse of religion?
   - in alignment with the values of humanism?
 
-I'm sure there are Theology PhD's all over the world that have written
+There are Theology PhD's all over the world that have written
 dissertations on this topic or similar ones. Studying Ragnarok would
 be Eschatology and there's probably a name for this such study (the
 precise information compression in eschatological works)
