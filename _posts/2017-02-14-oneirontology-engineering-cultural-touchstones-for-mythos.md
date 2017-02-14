@@ -10,19 +10,24 @@ excerpt: ""
 
 > Heads up: this article contains hot fire. Ne Touchez Pas! If
 > Prometheus' fate disturbs you: don't play with fire, don't play in
-> the street and don't touch Dimension W.
+> the street and don't touch [Dimension W](https://en.wikipedia.org/wiki/Dimension_W).
 
 Remember Prometheus? Cursed to being a liver-packed bento-box meal for
 an Eagle. All day, every day, for eternity. Sounds super fun, right?
 Who wouldn't love that?
 
-![Jormungand](/img/posts//jormungand.jpg)
+#### Dimension W ... Don't Touch It!
 
-This article discusses how to apply the principles of architecture to
-semiotics and mythology to create worldview-evoking belief systems
-robust enough to stand the test of time. Usually, like a priceless
-bottle of wine, such rare knowledge requires generations of
-distillation.  After investing ten minutes in this article, you too
+![Dimension W](/img/posts/2017-02-14-oneirontology-engineering-cultural-touchstones-for-mythos/dimension-w.jpg)
+
+### Warning ... Up Up Down Down Left Right Left Right B A
+
+If you'd like to solve the mysteries of the universe yourself, don't
+read this post. It discusses the principles of architecture and design
+as applied to semiotics and mythology to create worldview-evoking
+belief systems robust enough to stand the test of time. Usually, like
+a priceless bottle of wine, such rare knowledge requires generations
+of distillation. After investing ten minutes in this article, you too
 can craft your own belief system that will stand the test of time.
 
 Or at least understand how "they" did it... It all has to do with
@@ -31,6 +36,8 @@ semiotics. This is...
 ## [Design of Knowledge Systems](#design-of-knowledge-systems)
 
 <a name="design-of-knowledge-systems" />
+
+![Jormungand](/img/posts/2017-02-14-oneirontology-engineering-cultural-touchstones-for-mythos//jormungand.jpg)
 
 # [Design of Knowledge Systems](#design-of-knoweldge-systems)
 
@@ -101,18 +108,19 @@ tightly-packed ideas inspire thought and study to decompress
 them. This thought reinforces their longevity within the minds that
 host them. Compression also serves as a kind of camoflauge that
 protects these ideas and their functioning from competing belief
-systems. Light compression and obfuscation of myth makes them more
-viral, more viable and more likely to survive knowledge extinction
-events.
+systems who will assuredly attempt eradication. Light compression and
+obfuscation of myth also makes them more viral, more viable and more
+likely to survive [knowledge extinction events]().
 
 So, cultures like the Norse often rely on myths during time of turmoil
 to preserve information in an encoded form. In terms of geopolitics,
 they could see which way the wind was blowing in Europe: either Europe
-united through Christianity as a cultural basis or Europe would be
+would be united through Christianity as a cultural basis or become
 economically and geopolitically subservient to the Middle East. They
 codified these myths in such a way as to ostensibly retain their
-cultural identity while putting together a set of behaviors encoded in
-myth, whose execution would begin upon apocalyptic events. Ragnarok is
+cultural identity while compressing a set of behaviors encoded in
+myth, whose execution would begin upon apocalyptic events. Humanity's
+forefathers deserve much more credit than we give them. Ragnarok is
 perhaps the best example of a subversive attempt to use information
 compression for cultural preservation. It's event-driven eschatology,
 to be invoked upon apocalypse, whence the Gods return.
@@ -123,28 +131,28 @@ If one were to design such a system today, one that should withstand
 likely persecution of believers, what would one choose to preserve?
 Which animals would we put on the Ark? How would we determine what
 cultural elements remain truly immutable and hold true, regardless of
-social upheaval that acommpanies the Singularity? If you took a look
-at the creek that became the Grand Canyon, how would you survey the
-land to determine the rock formations that stand the test of time,
-regardless of storm surge? The structure of the Grand Canyon depends
+social upheaval that acompanies the Singularity? If you took a look at
+the creek that became the Grand Canyon, how would you survey the land
+to determine the rock formations that stand the test of time,
+regardless of storm surge? The structure of the Grand Canyon depended
 little on the specifics of the events and moreso on the nature,
-sequence and timing of those events. Do you have X-Ray vision for
-fate?
+sequence and timing of those events.
 
+Do you have X-Ray vision for fate?
 
 ### Semiotic Mapping
 
-In regard to references of remapping semiotic, imagine something along
+In regard to references of remapped semiotics, imagine something along
 the lines of this picture, but with a splash of infinity. This picture
 distinguishes between functions that satisfy various mapping
 properties, such as surjectivity and bijectivity. The whole of
 mathematics, even functions with continuous domains and ranges, are
 simply mappings
 
-![All Functions are Mappings](/img/posts//mappable-functions.jpg)
+![All Functions are Mappings](/img/posts/2017-02-14-oneirontology-engineering-cultural-touchstones-for-mythos/mappable-functions.jpg)
 
 This, and other things which only seem like beautiful epiphanies to
-those in love with mathematics, lay in waiting before you.
+those in love with mathematics, lay in wait before you.
 
 ### (authenticity/versatility)
 
@@ -282,18 +290,19 @@ of consumers and it's expensive.
 (in context of probablistic, ergodic programs)
 
 I've been working on a theory of metanomics, which describes any
-genomic system in terms of a probabilistically dynamical state-machine
-which transitions between various metastates with ergodic
-stablization. The true power of this paradigm for genomics is that it
-extends to the human mind. It is incredibly useful for artificial
-intelligence, but also for modeling, quantifying and predicting
-psychosocial cultural dynamics. In magnitude, it is the equivalent to
-Einstein's insights into relativity, but for genomics, cognition and
-the human mind ... *not that anyone will ever give me a fuck'n
-opportunity in this world.*
+genomic system in terms of a probabilistically
+[dynamical](https://en.wikipedia.org/wiki/Dynamical_system)
+state-machine which transitions between various metastates with
+ergodic stablization. The true power of this paradigm for genomics is
+that it extends to the human mind. It is incredibly useful for
+artificial intelligence, but also for modeling, quantifying and
+predicting psychosocial cultural dynamics. In magnitude, it is the
+equivalent to Einstein's insights into relativity, but for genomics,
+cognition and the human mind ... *not that anyone will ever give me a
+fuck'n opportunity in this world.*
 
 The insights garnered from this perspective are beautiful. The inner
-workings of Genomics and the human mind begin to come into focus and
+workings of genomics and the human mind begin to come into focus and
 everything makes sense. You develop a greater appreciation for God's
 work in the world. These dynamical state-machines can be designed like
 programs and they operate autonomously. It is a completely novel
@@ -448,7 +457,7 @@ specific types of belief-forms?
 
 - allusion to braidings and knots
 
-####
+#### [Psalm 42:1](http://biblehub.com/psalms/42-1.htm)
 
 > As the deer pants for the water brooks, so pants my soul for You, O
 > God. My soul thirsts for God, for the living God.
@@ -497,7 +506,7 @@ am capable of this.
 > is almost always insufficient, great harm often accompanies the most
 > beneficent intentions.
 
-# Semiotic Binding Points in the Human Condition
+# [Semiotic Binding Points in the Human Condition](#semiotic-binding-points-in-the-human-condition)
 
 There is a list of about one hundred universally shared traits. These
 [cultural universals](https://en.wikipedia.org/wiki/Cultural_universal)
@@ -515,9 +524,9 @@ surface area for cultural subversion.
 
 #### Shakespeare Wrote a Play About My Life, But I Didn't Like The Ending
 
-![Yes, another picture of Othello](/img/posts//othello.jpg)
+![Yes, another picture of Othello](/img/posts/2017-02-14-oneirontology-engineering-cultural-touchstones-for-mythos/othello.jpg)
 
-###  (╯&deg;□&deg;）╯︵ ┻━┻)
+### (╯&deg;□&deg;）╯︵ ┻━┻)
 
 Which symbols will most resist semiotic change over time? That is, for
 both change in signifier and the mapped signified concept. These are
@@ -583,7 +592,7 @@ symbols, etc? Any set of signs common to a culture, nation or region
 can be mapped to multiple meanings. This is true of a signs to a
 varying degree of frequency.
 
-### Astrology
+### [Astrology](#astrology)
 
 Perhaps the most constant set of `signs` in the semiotic sense, this
 was the only strata of phenomena which was completely constant to
@@ -628,7 +637,7 @@ we understood that we could separate ourselves from the dangers of the
 natural world. After these four elements came the economic need for
 written language and law.
 
-### Math and Science
+### [Math and Science](#math-and-science)
 
 Another set of fairly or very constant signs are mathematical and
 scientific truths and laws, though these didn't arise quite as early
@@ -639,7 +648,10 @@ that everything is more than it seems at the surface. What lies
 beneath can be very useful, but is often confusing and more trouble
 than its worth.
 
-### Architypical Events in Human History
+- scientology's use of an ontological perspective based on science as
+  a pattern language
+
+### [Architypical Events in Human History](#architypical-events-in-human-history)
 
 - the creation of the world
   - and the proposed solution to the problem of evil
