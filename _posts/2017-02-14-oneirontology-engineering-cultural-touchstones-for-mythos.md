@@ -20,10 +20,10 @@ Who wouldn't love that?
 
 This article discusses how to apply the principles of architecture to
 semiotics and mythology to create worldview-evoking belief systems
-robust enough to stand the test of time. Usually, such rare knowledge
-requires generations of distillation, like a priceless bottle of wine.
-After investing ten minutes in this article, you too can craft your
-own belief system that will stand the test of time.
+robust enough to stand the test of time. Usually, like a priceless
+bottle of wine, such rare knowledge requires generations of
+distillation.  After investing ten minutes in this article, you too
+can craft your own belief system that will stand the test of time.
 
 Or at least understand how "they" did it... It all has to do with
 semiotics. This is...
@@ -40,15 +40,15 @@ All knowledge and information is will degrade over time. Most worldly
 knowledge is nothing without a mind to host it. Therefore, if the
 system of developing/spreading knowledge doesn't include a system of
 perpetuating its distribution, then it will be impermanent. The system
-becomes particularly vulnerable when it doesn't recovery mechanisms
-for handling distribution, dispersion, and reconstruction of
-knowledge. When the system can't handle inevitable events where it's
-nearly eliminated, it will almost certainly be overtaken by another
-belief system at some point.
+becomes particularly vulnerable when it doesn't include recovery
+mechanisms for handling distribution, dispersion, and reconstruction
+of knowledge. When the system can't handle inevitable events where
+it's nearly eliminated, it will almost certainly be overtaken by
+another belief system at some point.
 
 Regardless of whether the belief system is religious or secular,
 people need them. People prefer belief systems that accompany social
-institutions that exhibit strong influences on their surroundings.
+institutions which exhibit strong influences on their surroundings.
 When a belief system retracts into fewer people, possibly due to
 persecution, followers are less likely to benefit from the social
 institutions. This not only tests your followers' devotion, but also
@@ -249,9 +249,9 @@ If your religion or belief system is heavily invested in mapping
 geographically variant signs, a central authority will lose power over
 them as their meaning and mapping evolves over time and space.
 
-<a name="" />
+<a name="zero-point-energy-from-lacuna-dynamo" />
 
-### [Signs Whose Power is Derived from Scarcity]
+### [Zero Point Energy from Lacuna Dynamo](#zero-point-energy-from-lacuna-dynamo)
 
 There are signs whose power derives from scarcity: sexual images,
 money or rare experiences. The influence derived from signs whose
@@ -522,13 +522,13 @@ surface area for cultural subversion.
 Which symbols will most resist semiotic change over time? That is, for
 both change in signifier and the mapped signified concept. These are
 the semiotic mappings that you can count on remaining consistent for
-hundreds or thousands of years. This is especially interesting, in
-context of the Singularity. It's a paradigm shift unlike any other
-that blurs even the most constant ideals of the human condition:
-identity, time, knowledge itself, and our collective identity in the
-face of transhumanism. It is this cultural precipice that necessitates
-a new belief system. Who can be trusted with this monumental task of
-social engineering?
+hundreds or thousands of years. This is especially interesting, in the
+wake of the Singularity. It's a paradigm shift unlike any other that
+blurs even the most constant ideals of the human condition: identity,
+time, knowledge itself, and our collective identity in the face of
+transhumanism. It is this cultural precipice that necessitates a new
+belief system. Who can be trusted with this monumental task of social
+engineering?
 
 #### Careful. Do You Really Want to Grasp Onto This?
 
@@ -554,17 +554,15 @@ is a powerful motivating force. A la
 the idea whence power is derived.
 
 In pursuit of understanding how humanity must prepare for the
-Singularity, Ragnarok presents itself as perhaps the greatest example
-of cultural preservation. (blurb on the wisdom of ancients)
+Singularity, Ragnarok presents itself as a steller example of cultural
+bundling and compression. Ancient people were hardly as ignorant as
+Westerners and atheists are lead to believe early in life. Being
+imbued with the perception that all who came before us were helplessly
+ignorant is by design. This is so that society moves unquestioningly
+forwards and never apologizes for the past: they were ignorant. Who
+knew?
 
-
-- And in the face of some possibly permanent, transformative event,
-  such as the Singularity?
-  - this event, if possible or if certain, could be transforming
-    culture and human behavior now.  Similar to the Roko Basilisk, the
-    idea itself has immense power.
-
-- and if almost every human need/desire/norm will change during the
+- And if almost every human need/desire/norm will change during the
   next few decades, how do we decide what to preserve?
   - how do we preserve it in such a way that is robust?
   - in such a way that resists the potential for abuse of religion?
@@ -573,13 +571,12 @@ of cultural preservation. (blurb on the wisdom of ancients)
 There are Theology PhD's all over the world that have written
 dissertations on this topic or similar ones. Studying Ragnarok would
 be Eschatology and there's probably a name for this such study (the
-precise information compression in eschatological works)
+precise information compression in eschatological works) ...
 
 - signs & morphemes from zipf's distribution on language.
   - and also signs
 - top 500 words/morphemes to learn in any new language are a great
   start for enumerating a list of mappable symbols
-
 
 So when constructing myths, what are examples of systems of signs,
 symbols, etc? Any set of signs common to a culture, nation or region
