@@ -430,6 +430,11 @@ will ever stand a chance. You must architect your myths by
 interleaving them with this most foundational map of semiotics: the
 astral plane.
 
+Check out
+[this draft](https://github.com/dcunited001/dcunited001.github.io/blob/sources/_drafts/5000bc-reincarnation.md)
+on reincarnation and the astral plane if you want to know more about
+Oneirontology's understanding of reincarnation.
+
 <a name="tilings-on-the-astral-plane" />
 
 ### [Tilings on the Astral Plane](#tilings-on-the-astral-plane)
@@ -572,26 +577,41 @@ ignorant is by design. This is so that society moves unquestioningly
 forwards and never apologizes for the past: they were ignorant. Who
 knew?
 
-- And if almost every human need/desire/norm will change during the
-  next few decades, how do we decide what to preserve?
-  - how do we preserve it in such a way that is robust?
-  - in such a way that resists the potential for abuse of religion?
-  - in alignment with the values of humanism?
+Almost every human need, desire, norm and the perception of thus will
+change unrecognizably in forthcoming decades. These will diversify
+exponentially more than they have via modernism and post-modernism.
+How do we decide what to preserve? How do we preserve it in such a way
+that is robust and resists the potential for abuse of religion? In
+alignment with the values of humanism?
 
 There are Theology PhD's all over the world that have written
-dissertations on this topic or similar ones. Studying Ragnarok would
-be Eschatology and there's probably a name for this such study (the
-precise information compression in eschatological works) ...
+dissertations on this topic or similar ones. Studying apocalyptic myth
+like Ragnarok is Eschatology, but there's probably a more specific
+label for this specific study of design principles in eschatology and
+religion. What interests me most is the precise information
+compression in eschatological works. How did these people know to lay
+down their words in such a manner that would encode the set of beliefs
+to be reactivated, while enabling the belief system to persist until
+then?
+
+# (specific semiotic binding points)
+
+So when constructing myths, what are examples of systems of signs,
+symbols, etc? Any set of signs common to a culture, nation or region
+can be mapped to multiple meanings. This is true of a signs to a
+varying degree of frequency. Of particular interest is the propensity
+over generations for gradual meditation on such semiotic signs to
+produce strikingly similar maps. This is yet another reason world
+religions share so many common traits.
+
+### [Quantification of Semiotics for Statistical Methods](#quantification-of-semiotics-for-statistical-methods)
+
+As one begins to 
 
 - signs & morphemes from zipf's distribution on language.
   - and also signs
 - top 500 words/morphemes to learn in any new language are a great
   start for enumerating a list of mappable symbols
-
-So when constructing myths, what are examples of systems of signs,
-symbols, etc? Any set of signs common to a culture, nation or region
-can be mapped to multiple meanings. This is true of a signs to a
-varying degree of frequency.
 
 ### [Astrology](#astrology)
 
