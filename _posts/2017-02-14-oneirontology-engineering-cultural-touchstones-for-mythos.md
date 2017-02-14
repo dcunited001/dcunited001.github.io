@@ -16,6 +16,8 @@ Remember Prometheus? Cursed to being a liver-packed bento-box meal for
 an Eagle. All day, every day, for eternity. Sounds super fun, right?
 Who wouldn't love that?
 
+![Jormungand](/img/posts//jormungand.jpg)
+
 This article discusses how to apply the principles of architecture to
 semiotics and mythology to create worldview-evoking belief systems
 robust enough to stand the test of time. Usually, such rare knowledge
@@ -27,8 +29,6 @@ Or at least understand how "they" did it... It all has to do with
 semiotics. This is...
 
 ## [Design of Knowledge Systems](#design-of-knowledge-systems)
-
-
 
 <a name="design-of-knowledge-systems" />
 
@@ -130,6 +130,21 @@ regardless of storm surge? The structure of the Grand Canyon depends
 little on the specifics of the events and moreso on the nature,
 sequence and timing of those events. Do you have X-Ray vision for
 fate?
+
+
+### Semiotic Mapping
+
+In regard to references of remapping semiotic, imagine something along
+the lines of this picture, but with a splash of infinity. This picture
+distinguishes between functions that satisfy various mapping
+properties, such as surjectivity and bijectivity. The whole of
+mathematics, even functions with continuous domains and ranges, are
+simply mappings
+
+![All Functions are Mappings](/img/posts//mappable-functions.jpg)
+
+This, and other things which only seem like beautiful epiphanies to
+those in love with mathematics, lay in waiting before you.
 
 ### (authenticity/versatility)
 
@@ -482,18 +497,56 @@ am capable of this.
 > is almost always insufficient, great harm often accompanies the most
 > beneficent intentions.
 
-###
+# Semiotic Binding Points in the Human Condition
 
-- There is even a list of about 100 universally shared traits, which
-  are common even to Amazonian cultures which are completely isolated
-  - there is a varied degree of universal recognition. to some degree,
-    you want those symbols to be more relevant to your culture.
-  - universally relevant symbols are useful in that they are
-    marketable and brandable, but that trade-off is balanced because
-    they also provide additional surface area for cultural subversion.
+There is a list of about one hundred universally shared traits. These
+[cultural universals](https://en.wikipedia.org/wiki/Cultural_universal)
+are traits constantly available across the human condition. Though
+their specific mappings are not geographically invariant, their
+availability as mappable signifiers is universal.
 
-- Which symbols will most resist semiotic change (change in meaning or
-  signs) over time. Why?
+There is a varied degree of universal recognition. To some degree, you
+want those symbols to be more relevant to your own culture than to
+others. That is, this game is a bit like Othello, where you may find
+your pieces turned against you if you are not careful. Universally
+relevant symbols are useful in that they are marketable and brandable,
+but that trade-off is balanced because they also provide additional
+surface area for cultural subversion.
+
+#### Shakespeare Wrote a Play About My Life, But I Didn't Like The Ending
+
+![Yes, another picture of Othello](/img/posts//othello.jpg)
+
+###  (╯&deg;□&deg;）╯︵ ┻━┻)
+
+Which symbols will most resist semiotic change over time? That is, for
+both change in signifier and the mapped signified concept. These are
+the semiotic mappings that you can count on remaining consistent for
+hundreds or thousands of years. This is especially interesting, in
+context of the Singularity. It's a paradigm shift unlike any other
+that blurs even the most constant ideals of the human condition:
+identity, time, knowledge itself, and our collective identity in the
+face of transhumanism. It is this cultural precipice that necessitates
+a new belief system. Who can be trusted with this monumental task of
+social engineering?
+
+#### Careful. Do You Really Want to Grasp Onto This?
+
+![Frozen Flame](/img/posts/2017-02-14-oneirontology-engineering-cultural-touchstones-for-mythos/frozen-flame.png)
+
+The nature of the Singularity's changes are particularly important: is
+humanity embarking on a final transformation or is this a final
+transformation into a state of neverending change? The answer to this
+question is particularly important for designing a belief system. If
+the answer is the latter option, it will prove an unfathomablely
+complex challenge. In this case, it's even moreso important to nail
+down the points which never change and measure their degree of
+unwaveringness. Only then could one hope to design a belief system to
+last a millenia after a transition into the perfect storm of cultural
+flux.
+
+
+
   - how is this so completely different in our digital world.
     - and how to harness this?
 - What systems of symbols will resist change in the face of constantly
@@ -506,9 +559,6 @@ am capable of this.
     culture and human behavior now.  Similar to the Roko Basilisk, the
     idea itself has immense power.
 
-
-
-
 - and if almost every human need/desire/norm will change during the
   next few decades, how do we decide what to preserve?
   - how do we preserve it in such a way that is robust?
@@ -517,14 +567,14 @@ am capable of this.
 
 I'm sure there are Theology PhD's all over the world that have written
 dissertations on this topic or similar ones. Studying Ragnarok would
-be Eschatology and there's probably a name for this such study.
+be Eschatology and there's probably a name for this such study (the
+precise information compression in eschatological works)
 
 - signs & morphemes from zipf's distribution on language.
   - and also signs
 - top 500 words/morphemes to learn in any new language are a great
   start for enumerating a list of mappable symbols
 
-### Semiotic Mappings Across Human Culture
 
 So when constructing myths, what are examples of systems of signs,
 symbols, etc? Any set of signs common to a culture, nation or region
