@@ -43,7 +43,7 @@ semiotics. This is...
 
 ### (Robustness of Culture, Preservation of Authenticity, etc)
 
-All knowledge and information is will degrade over time. Most worldly
+All knowledge and information will degrade over time. Most worldly
 knowledge is nothing without a mind to host it. Therefore, if the
 system of developing/spreading knowledge doesn't include a system of
 perpetuating its distribution, then it will be impermanent. The system
@@ -83,7 +83,7 @@ and world politics?
 IMO, the best place to learn about this is from cultures who went
 underground by necessity.  The Celts, the Nords and the Goths are all
 perfect examples of cultures who's elements and mythologies were
-forced underground as Christianity swept over America. Specifically,
+forced underground as Christianity swept over Europe. Specifically,
 the Nords developed Ragnarok, which is one of many apocalypse myths of
 world culture.
 
@@ -112,18 +112,18 @@ systems who will assuredly attempt eradication. Light compression and
 obfuscation of myth also makes them more viral, more viable and more
 likely to survive [knowledge extinction events]().
 
-So, cultures like the Norse often rely on myths during time of turmoil
-to preserve information in an encoded form. In terms of geopolitics,
-they could see which way the wind was blowing in Europe: either Europe
-would be united through Christianity as a cultural basis or become
-economically and geopolitically subservient to the Middle East. They
-codified these myths in such a way as to ostensibly retain their
-cultural identity while compressing a set of behaviors encoded in
-myth, whose execution would begin upon apocalyptic events. Humanity's
-forefathers deserve much more credit than we give them. Ragnarok is
-perhaps the best example of a subversive attempt to use information
-compression for cultural preservation. It's event-driven eschatology,
-to be invoked upon apocalypse, whence the Gods return.
+So, cultures like the Norse often rely on myths during times of
+turmoil to preserve information in an encoded form. In terms of
+geopolitics, they could see which way the wind was blowing in Europe:
+either Europe would be united through Christianity as a cultural basis
+or become economically and geopolitically subservient to the Middle
+East. They codified these myths in such a way as to ostensibly retain
+their cultural identity while compressing a set of behaviors encoded
+in myth, whose execution would begin upon apocalyptic events.
+Humanity's forefathers deserve much more credit than we give them.
+Ragnarok is perhaps the best example of a subversive attempt to use
+information compression for cultural preservation. It's event-driven
+eschatology, to be invoked upon apocalypse, whence the Gods return.
 
 ###
 
@@ -544,8 +544,6 @@ time, knowledge itself, and our collective identity in the face of
 transhumanism. It is this cultural precipice that necessitates a new
 belief system. Who can be trusted with this monumental task of social
 engineering?
-
-#### Careful. Do You Really Want to Grasp Onto This?
 
 ![Frozen Flame](/img/posts/2017-02-14-oneirontology-engineering-cultural-touchstones-for-mythos/frozen-flame.png)
 
