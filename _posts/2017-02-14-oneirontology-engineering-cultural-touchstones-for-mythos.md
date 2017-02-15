@@ -78,13 +78,15 @@ philosopher and merely dictated the answers to Soviet philosophers
 because someone told him it'd be a convenient foundation for power and
 control?* You're a Marxist and I feel sorry for you, especially if
 you've given yourself over to that abusive belief system concocted by
-would-be tyrants. Marxism is like the emotionally violent, drunken
-step-father of structuralism. Or maybe it's the real father and the
-academically entangled authors of Marxism foresaw the inevitable,
-depressing arrival of structuralism and concocted a system of
-philosophy to abuse it for total state control. If you don't know,
-structuralism sums up why you should fear the NSA and its panopticon
-shaped like a beast with a thousand eyes and ears.
+would-be tyrants.
+
+Marxism is like the emotionally violent, drunken step-father of
+structuralism. Or maybe it's the real father and the academically
+entangled authors of Marxism foresaw the inevitable, depressing
+arrival of structuralism and concocted a system of philosophy to abuse
+it for total state control. If you don't know, structuralism sums up
+why you should fear the NSA and its panopticon shaped like a beast
+with a thousand eyes and ears.
 
 As I see it, the truth is that neither the physical or metaphysical
 can exist independently and are cyclically dependent for whatever
@@ -678,31 +680,63 @@ did these people know to lay down their words in such a manner that
 would encode the set of beliefs to be reactivated, while enabling the
 belief system to persist until then?
 
-# (specific semiotic binding points)
+<a name="metrics-of-semiotics" />
 
-So when constructing myths, what are examples of systems of signs,
-symbols, etc? Any set of signs common to a culture, nation or region
-can be mapped to multiple meanings. This is true of a signs to a
-varying degree of frequency. Of particular interest is the propensity
-over generations for gradual meditation on such semiotic signs to
-produce strikingly similar maps. Still another reason world religions
-share so many common traits.
+# [Metrics of Semiotics](#metrics-of-semiotics)
 
-### [Quantification of Semiotics for Statistical Methods](#quantification-of-semiotics-for-statistical-methods)
+Semiotics and semantics form the basis of a Universal loom upon which
+all thoughts and ideas are interleaved. Semiotic graphs can emerge
+from linguistic analysis of communication. To hope to reach any
+authentic insights, one needs to analyze more than text because many
+concepts are hidden from purely literate communication.
 
-Semiotic graphs can emerge from linguistic analysis of communication,
-(though to hope to reach any real graph, one needs to analyze more
-than text because many concepts are hidden from the purely
-literate. This simplifies one's life and thought processes greatly)
-
-- Semiotics and Semantics as the Universal loom upon which all
-  thoughts and ideas are interleaved.
-
-- signs & morphemes from zipf's distribution on language.
-  - and also signs
 - top 500 words/morphemes to learn in any new language are a great
   start for enumerating a list of mappable symbols
 
+### [Quantification of Semiotics for Statistical Methods](#quantification-of-semiotics-for-statistical-methods)
+
+There's a law of statistics that shows up everywhere: linguistics, the
+size of population, network theory, etc. Distributions in nature tend
+to adapt themselves to this ideal Zipf distribution. Like phi and the
+golden ratio, it's not entirely magic, but the distribution emerges in
+many circumstances because of something inplicit in their
+behavior. Another interesting question relating to Zipf and
+linguistics is how grammatical structures and availability of function
+words changes the sequence and emergence of morphemes in each
+language's Zipf's distribution. For example, Japanese lacks plurals
+and many function words, the necessity of which is unquestionable in
+English. So, how does this affect the emergence of morphemes in Zipf's
+distribution. This is the stuff that humanities grant applications and
+PhD theses are made of.
+
+> "But I have less than $2 to my name. What do I know?" - David
+> Conner, the almost-homeless-but-not-quite philosopher
+
+#### Zipf's Distribution for Specific Word Usage on Wikipedia
+
+![Zipf's Distribution](/img/posts/2017-02-14-oneirontology-engineering-cultural-touchstones-for-mythos/zipf-wiki.png)
+
+As one recursively iterates through the infinite process of
+discovering more a foundational universal graphs of semiotics,
+understanding how and why Zipf's law emerges should help constrain and
+predict the actual structure. For example, if there are missing nodes
+for aspects of culture humanity is too young to have discovered, their
+absence should be inferrable from analysis based on Zipf's
+distribution. This recursive process itself has a representable
+structure and it should emerge within this "graph of everything." If
+so, it's location in the graph of everything should be particularly
+important.
+
+#### Ummm, What Is "Representation Theory" ...? I Wish I Knew Who To Ask
+
+![Representation Theory](img/posts/2017-02-14-oneirontology-engineering-cultural-touchstones-for-mythos/representation-theory.jpg)
+
+Of particular interest to myself is understanding representation of
+random graphs on some universal basis. These aren't the ideas that
+people without college degrees usually stumble on, *especially in
+tightly controlled isolation*. For an example of
+a study in this domain, see
+[Hierarchical random graph representation of handwritten characters and its application to Hangul recognition](http://dx.doi.org/10.1016/S0031-3203(99)00222-8)
 
 #### Semantic Dissonance between English and Chinese
 
@@ -731,16 +765,37 @@ salary in 2016: $400 ... go figure.
 > *AMERICA!* Red Robin, heart disease and NASCAR! Fuck 'em free
 > thinkin' frilly philosopher types.
 
-(I remember being threatened by being sent to a mental institution the
-morning I tried to publish. It's a common theme in my life, along with
-constant disruption of productivity via COINTELPRO. That's real cool,
-y'all. I've learned to publish early and publish often. I have
-uploaded nearly everything I have written to Github, just in case.)
+#### Under Constant Threat of Asylum (and not the kind for political refugees)
+
+> I remember being threatened by being sent to a mental institution the
+> morning I tried to publish. It's a common theme in my life, along with
+> constant disruption of productivity via good ole' fashioned NSA
+> surveillance and an NSA-augmented
+> [*COINTELPRO*](https://en.wikipedia.org/wiki/COINTELPRO#See_also) on
+> steroids.
+>
+> That's real cool, y'all. In response, I've learned to publish early
+> and publish often. I have uploaded nearly everything I have written
+> to Github, just in case. You have no idea how much satisfaction it
+> brings me to write because I noticed that I finally got under
+> *Their* skin, whoever *They* are.
+
+#### *AMERICA FIRST?* Wut Economics
 
 > "America! Got a friend that thinks too hard?! Neurologically castrate
 > them. Don't talk to them. Knowledge is contagious. It's a disease
 > and you could get sick!" - The paradigm that powers American-led
 > innovation in the 21st century economy....
+
+# (specific semiotic binding points)
+
+So when constructing myths, what are examples of systems of signs,
+symbols, etc? Any set of signs common to a culture, nation or region
+can be mapped to multiple meanings. This is true of a signs to a
+varying degree of frequency. Of particular interest is the propensity
+over generations for gradual meditation on such semiotic signs to
+produce strikingly similar maps. Still another reason world religions
+share so many common traits.
 
 ### [Astrology, Commerce, Agriculture and Architecture](#astrology-commerce-agriculture-and-architecture)
 
