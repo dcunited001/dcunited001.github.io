@@ -97,11 +97,17 @@ is essentially a ZIP file of their culture. *The Nords intended their
 mythos to be unpacked and their Gods again reified at a critical time
 in history.*
 
+### [Information Compression in Mythos](#information-compression-in-mythos)
+
 Information compression mostly works the same, whether you are
 compressing text encoded into tries or compressing hashmaps of some
 representation of data, semantic and/or semiotic. You're basically
 trying to find a "folding" pattern for the data that makes it small
 and compressible.
+
+#### Trie Data Structure For Zipping Data and Fitting Genomic Data Into RAM
+
+![Trie Data Structure](/img/posts/2017-02-14-oneirontology-engineering-cultural-touchstones-for-mythos/trie-data-structure.png)
 
 When applied to cultural mythos, this compression is advantageous:
 tightly-packed ideas inspire thought and study to decompress
@@ -114,16 +120,16 @@ likely to survive [knowledge extinction events]().
 
 So, cultures like the Norse often rely on myths during times of
 turmoil to preserve information in an encoded form. In terms of
-geopolitics, they could see which way the wind was blowing in Europe:
+European geopolitics, they could see which way the wind was blowing:
 either Europe would be united through Christianity as a cultural basis
-or become economically and geopolitically subservient to the Middle
-East. They codified these myths in such a way as to ostensibly retain
-their cultural identity while compressing a set of behaviors encoded
-in myth, whose execution would begin upon apocalyptic events.
-Humanity's forefathers deserve much more credit than we give them.
-Ragnarok is perhaps the best example of a subversive attempt to use
-information compression for cultural preservation. It's event-driven
-eschatology, to be invoked upon apocalypse, whence the Gods return.
+or become economically subservient to the Middle East. They codified
+these myths in such a way as to ostensibly retain their cultural
+identity while compressing a set of behaviors encoded in myth, whose
+execution would begin upon apocalyptic events.  Humanity's forefathers
+deserve much more credit than we give them.  Ragnarok is perhaps the
+best example of a subversive attempt to use information compression
+for cultural preservation. It's event-driven eschatology to be
+invoked upon apocalypse, whence the Gods return.
 
 ###
 
@@ -140,7 +146,7 @@ sequence and timing of those events.
 
 Do you have X-Ray vision for fate?
 
-### Semiotic Mapping
+# [Semiotic Mapping](#semioitic-mapping)
 
 In regard to references of remapped semiotics, imagine something along
 the lines of this picture, but with a splash of infinity. This picture
@@ -176,9 +182,9 @@ stagnation, but increasing pace of change is definitely a problem
 beforehand. Is the next stage in humanity's evolution finite?
 
 Consider another case of our future where we instead lose the
-knowledge/tools to comprehend in another Dark Age. How would we update
-the package of myths so that ideas remain readily consumable and
-relevant?
+knowledge & tools to comprehend in another Dark Age. How would we
+update the package of myths today so that ideas remain readily
+consumable and relevant no matter what happens tomorrow?
 
 Too much flexibility and offshoot organizations reduce capacity for
 the religion's social institutions to benefit society. There is more
@@ -490,27 +496,30 @@ signs such that negativity is transmuted into positivity.
 It is unfortunate that nascent religious movements are always tempered
 by suffering. One might consider widespread suffering amongst early
 believers as an injudiciously necessary alchemical cost to congealing
-a religion and tempering its steel.
+a religion and tempering its steel. The movements that manage to
+survive this galvanization process will certainly stand the test of
+time for centuries.
 
 I am so worried about the people who may follow me down this path. It
 is what drives me to move forward, so that, in case I may be
 incapacitated in some way, I have left something behind that
 ameliorates their suffering by giving them power through knowledge. I
 do not know anyone else who could ever attain the position in life
-that I have and though people may accuse me of selfishly squandering
-what was given to me, no one can say that I did not try to stand up
-for those who do not enjoy this posturing. There are those in
-situations like mine who will *never* have the capacity to stand up
-and I want to ensure that I exact justice such that no one will ever
-fucking think twice about doing this again. I will do so peacefully
-and I do not care what it costs. As far as I can see, God is at my
-side, along with the entire world, because I cannot comprehend how I
-am capable of this.
+that I have. Though people may accuse me of selfishly squandering what
+was given to me, no one can say that I did not try to stand up for
+those not fortified by this posturing. There are those in situations
+like mine who will *never* have the capacity to stand up and I want to
+ensure that I exact justice such that no one will ever fucking think
+twice about doing this again. I will do so peacefully and I do not
+care what it costs. As far as I can see, God is at my side, along with
+the entire world, because I cannot comprehend how I am capable of
+this.
 
 > A warning: there is much harm that can be done through semiotic
 > remapping. Since it is so unpredictable and the requisite experience
-> is almost always insufficient, great harm often accompanies the most
-> beneficent intentions.
+> is almost always insufficient, great harm often accompanies even the
+> most beneficent intentions. This is a curse of both knowledge and
+> the illusion of control.
 
 # [Semiotic Binding Points in the Human Condition](#semiotic-binding-points-in-the-human-condition)
 
@@ -525,7 +534,7 @@ want those symbols to be more relevant to your own culture than to
 others. That is, this game is a bit like Othello, where you may find
 your pieces turned against you if you are not careful. Universally
 relevant symbols are useful in that they are marketable and brandable,
-but that trade-off is balanced because they also provide additional
+but that trade-off is balanced by incidentally acting as additional
 surface area for cultural subversion.
 
 #### Shakespeare Wrote a Play About My Life, But I Didn't Like The Ending
@@ -542,8 +551,9 @@ wake of the Singularity. It's a paradigm shift unlike any other that
 blurs even the most constant ideals of the human condition: identity,
 time, knowledge itself, and our collective identity in the face of
 transhumanism. It is this cultural precipice that necessitates a new
-belief system. Who can be trusted with this monumental task of social
-engineering?
+belief system. Who can be trusted with this most monumental task of
+social engineering? Does every sufficiently advanced civilization
+discover what is essentially the same solution to the singularity?
 
 ![Frozen Flame](/img/posts/2017-02-14-oneirontology-engineering-cultural-touchstones-for-mythos/frozen-flame.png)
 
@@ -561,8 +571,8 @@ cultural flux.
 What systems of symbols will resist change in this final season of
 constant change? What notions of identity are constant in a world
 where the notion of hivemind becomes reality? What belief system gives
-people hope when privacy becomes a fantasy? The Singularity, the idea,
-is a powerful motivating force. A la
+people hope when privacy becomes a fantasy? The Singularity, the idea
+itself, is a powerful motivating force. A la
 [Roko's Basilisk](http://rationalwiki.org/wiki/Roko's_basilisk), it is
 the idea whence power is derived.
 
@@ -571,9 +581,29 @@ Singularity, Ragnarok presents itself as a steller example of cultural
 bundling and compression. Ancient people were hardly as ignorant as
 Westerners and atheists are lead to believe early in life. Being
 imbued with the perception that all who came before us were helplessly
-ignorant is by design. This is so that society moves unquestioningly
-forwards and never apologizes for the past: they were ignorant. Who
-knew?
+ignorant is by design. This is so that society swells with pride at
+present accomplishments, moves unquestioningly forwards and never
+apologizes for the past: they were ignorant. Who knew?
+
+Our forefathers understood that once the majority of the world were
+literate, history would become set in stone in an unprecedented
+way. The understood how to operate in aeternal shadow without written
+language, something the far majority of people cannot comprehend
+today. But, because of the nature of information in the ancient world,
+our progenitors were very familiar with networking problems like the
+Byzantine Generals, though not in name. The solutions this problem are
+[Paxos](https://en.wikipedia.org/wiki/Paxos_(computer_science) and
+[RAFT](https://raft.github.io/). The
+[Byzantine Generals](https://en.wikipedia.org/wiki/Byzantine_fault_tolerance#Byzantine_failures)
+problem is from the 20th century, but despite the name, the qualities
+of this and other networking solutions would be moreso valuable for
+societies that did not enjoy high-bandwidth communications. Therefore,
+they would be more familiar with architecting communication protocols
+and imbuing knowledge of directive-oriented solutions into their myth
+and magick. Being able to relieve oneself and one's mind of the
+constraints of their present epoch provides invaluable insight into
+the nature of reality and history, especially when such has been
+shielded from view.
 
 Almost every human need, desire, norm and the perception of thus will
 change unrecognizably in forthcoming decades. These will diversify
