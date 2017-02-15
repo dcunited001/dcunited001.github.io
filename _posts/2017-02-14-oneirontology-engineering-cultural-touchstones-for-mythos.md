@@ -700,17 +700,25 @@ size of population, network theory, etc. Distributions in nature tend
 to adapt themselves to this ideal Zipf distribution. Like phi and the
 golden ratio, it's not entirely magic, but the distribution emerges in
 many circumstances because of something inplicit in their
-behavior. Another interesting question relating to Zipf and
-linguistics is how grammatical structures and availability of function
-words changes the sequence and emergence of morphemes in each
-language's Zipf's distribution. For example, Japanese lacks plurals
-and many function words, the necessity of which is unquestionable in
-English. So, how does this affect the emergence of morphemes in Zipf's
+behavior.
+
+Another interesting question relating to Zipf and linguistics is how
+grammatical structures and availability of function words changes the
+sequence and emergence of morphemes in each language's Zipf's
+distribution. For example, Japanese lacks plurals and many function
+words, the necessity of which is unquestionable in English. So, how
+does this affect the emergence of morphemes in Zipf's
 distribution. This is the stuff that humanities grant applications and
 PhD theses are made of.
 
 > "But I have less than $2 to my name. What do I know?" - David
 > Conner, the almost-homeless-but-not-quite philosopher
+
+An underlying question pitched in this article: what can be crossed
+over from Zipf's Distribution to the study of semiotics and cultural
+universals? Specifically, if such a tool exists, what is it's utility
+for creating a religion? How would Oneirontology use it? Is there a
+single optimal way to use it?
 
 #### Zipf's Distribution for Specific Word Usage on Wikipedia
 
@@ -787,7 +795,7 @@ salary in 2016: $400 ... go figure.
 > and you could get sick!" - The paradigm that powers American-led
 > innovation in the 21st century economy....
 
-# (specific semiotic binding points)
+# [Examples of Semiotic Binding Points](#examples-of-semiotic-binding-points)
 
 So when constructing myths, what are examples of systems of signs,
 symbols, etc? Any set of signs common to a culture, nation or region
