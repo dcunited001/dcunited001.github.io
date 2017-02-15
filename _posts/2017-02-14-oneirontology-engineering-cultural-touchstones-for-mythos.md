@@ -41,6 +41,55 @@ semiotics. This is...
 
 # [Design of Knowledge Systems](#design-of-knoweldge-systems)
 
+The argument over the Hegelian and Marxist Dialectics presents itself
+at the center of the struggle over the metaphysical. Marxists seem to
+regard the metaphysical as a convenient tool, though mostly an
+inconvenience. That it is something to be used and tightly controlled
+because if people wake up to the Hegelian Dialectic, it essentially
+undermines atheism, which empowers institutions other than the
+state. Marxists have a clever joke when explaining the difference
+between dialectics to the uninitiated.
+
+> The Hegelian Dialetic? That's like a form of argument where you
+> start out trying to prove something and end up proving yourself
+> wrong but you just keep going.
+
+Then they show you
+[the letter Stalin wrote in 1938](https://www.marxists.org/reference/archive/stalin/works/1938/09.htm),
+where he essentially dictated the Marxist dialectic to the USSR and
+acted like he was a philosopher.
+
+The struggle over the dialectic and it's implications for philosophy,
+atheism and the meaning behind life is why studying semiotics and
+linguistics is so important. Signs and language are like reified
+metaphysical concepts that managed to pierce through the
+[Veil of Isis](https://en.wikipedia.org/wiki/Veil_of_Isis).
+
+The struggle over the Hegelian and Marxist dialectic determines what
+came first: physics or metaphysics. What is the true origination of
+phenomena in our world? Does the metaphysical arise outside and
+independent of the physical? Yes? You're a Hegelian. Is there simply
+not enough evidence to show otherwise? You're probably an atheist,
+which is amusing because you worship science and no where is it more
+clear that phenomena arising from number theory determines the inner
+workings of nature in quantum mechanics. Does it feel threatening to
+you to find out you might be wrong and that, NO, *Stalin was not a
+philosopher and merely dictated the answers to Soviet philosophers
+because someone told him it'd be a convenient foundation for power and
+control?* You're a Marxist and I feel sorry for you, especially if
+you've given yourself over to that abusive belief system concocted by
+would-be tyrants. Marxism is like the emotionally violent, drunken
+step-father of structuralism. Or maybe it's the real father and the
+academically entangled authors of Marxism foresaw the inevitable,
+depressing arrival of structuralism and concocted a system of
+philosophy to abuse it for total state control. If you don't know,
+structuralism sums up why you should fear the NSA and its panopticon
+shaped like a beast with a thousand eyes and ears.
+
+As I see it, the truth is that neither the physical or metaphysical
+can exist independently and are cyclically dependent for whatever
+reason.
+
 ### (Robustness of Culture, Preservation of Authenticity, etc)
 
 All knowledge and information will degrade over time. Most worldly
@@ -693,7 +742,7 @@ uploaded nearly everything I have written to Github, just in case.)
 > and you could get sick!" - The paradigm that powers American-led
 > innovation in the 21st century economy....
 
-### [Astrology](#astrology)
+### [Astrology, Commerce, Agriculture and Architecture](#astrology-commerce-agriculture-and-architecture)
 
 Perhaps the most constant set of `signs` in the semiotic sense, this
 was the only strata of phenomena which was completely constant to
@@ -757,7 +806,8 @@ than its worth.
 ![A Visualized Genetic Ontology](/img/posts/2017-02-14-oneirontology-engineering-cultural-touchstones-for-mythos/gene-ontology.jpg)
 
 - scientology's use of an ontological perspective based on science as
-  a pattern language
+  a pattern language.
+  - they're like the fucking Mensa Mafia.
 
 ### [Architypical Events in Human History](#architypical-events-in-human-history)
 
@@ -823,7 +873,11 @@ than its worth.
 
 ### Animals & Animal Behavior
 
-### Plant Life
+- local fauna
+
+### Plant Life And Medicene
+
+- local flora
 
 #### Medical Uses, Geographic Distribution, Cultural Significance and Plant Interaction
 
