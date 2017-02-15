@@ -27,19 +27,21 @@ read this post. It discusses the principles of architecture and design
 as applied to semiotics and mythology to create worldview-evoking
 belief systems robust enough to stand the test of time. Usually, like
 a priceless bottle of wine, such rare knowledge requires generations
-of distillation. After investing ten minutes in this article, you too
-can craft your own belief system that will stand the test of time.
+of distillation. Within this article are buried a hundred various PhD
+theses. Like Pokemon, can you catch them all? If you get just one of
+them you can take that grant application to the bank. Just send a
+thank you card or something.
 
-Or at least understand how "they" did it... It all has to do with
-semiotics. This is...
+After investing ten minutes in this article, you too can craft your
+own belief system that will stand the test of time. Or at least
+understand how "they" did it... It all has to do with semiotics. This
+is...
 
 ## [Design of Knowledge Systems](#design-of-knowledge-systems)
 
 <a name="design-of-knowledge-systems" />
 
 ![Jormungand](/img/posts/2017-02-14-oneirontology-engineering-cultural-touchstones-for-mythos//jormungand.jpg)
-
-# [Design of Knowledge Systems](#design-of-knoweldge-systems)
 
 The argument over the Hegelian and Marxist Dialectics presents itself
 at the center of the struggle over the metaphysical. Marxists seem to
@@ -87,6 +89,8 @@ arrival of structuralism and concocted a system of philosophy to abuse
 it for total state control. If you don't know, structuralism sums up
 why you should fear the NSA and its panopticon shaped like a beast
 with a thousand eyes and ears.
+
+# [Design of Knowledge Systems](#design-of-knoweldge-systems)
 
 As I see it, the truth is that neither the physical or metaphysical
 can exist independently and are cyclically dependent for whatever
@@ -363,12 +367,12 @@ workings of genomics and the human mind begin to come into focus and
 everything makes sense. You develop a greater appreciation for God's
 work in the world. These dynamical state-machines can be designed like
 programs and they operate autonomously. It is a completely novel
-paradigm for programming, as far as I can see. In genomics, much work
-as been done to put forth to develop models which stand alongside this
-paradigm, but none are completely able capture the behavior of all
-units and subunits of the system. No paradigm of genomic programming
-that I've heard of accounts for the importance of spatially
-distributed state.
+paradigm for programming. In genomics, much work as been done to put
+forth to develop models which stand alongside this paradigm, but none
+are completely able capture the behavior of all units and subunits of
+the system. No paradigm of genomic programming accounts for the
+importance of containerized, spatially-distributed state and the
+emergence of metastates in an autonomous, probabilistic system.
 
 <a name="the-metasign-symmetry-is-the-most-universal-sign" />
 
@@ -515,10 +519,12 @@ advantageous to desire a consistent typology in your followers' forms
 of belief? Or do you want the prevelance of belief-forms to varied and
 sporadic? There is a continuum between both. What signs and phrases
 key are indicative of specific belief-forms? How does one structure
-religious writings and practices to (reinforce) specific types of
-belief-forms?
+religious writings and practices to evoke and reinforce specific types
+of belief-forms? This problem is important because viable belief
+systems require degrees of heterogeneity in belief-forms. A completely
+homogenous distribution of belief-forms within followers would fail.
 
-- allusion to braidings and knots
+###
 
 #### [Psalm 42:1](http://biblehub.com/psalms/42-1.htm)
 
@@ -551,20 +557,20 @@ a religion and tempering its steel. The movements that manage to
 survive this galvanization process will certainly stand the test of
 time for centuries.
 
-I am so worried about the people who may follow me down this path. It
-is what drives me to move forward, so that, in case I may be
-incapacitated in some way, I have left something behind that
-ameliorates their suffering by giving them power through knowledge. I
-do not know anyone else who could ever attain the position in life
-that I have. Though people may accuse me of selfishly squandering what
-was given to me, no one can say that I did not try to stand up for
-those not fortified by this posturing. There are those in situations
-like mine who will *never* have the capacity to stand up and I want to
-ensure that I exact justice such that no one will ever fucking think
-twice about doing this again. I will do so peacefully and I do not
-care what it costs. As far as I can see, God is at my side, along with
-the entire world, because I cannot comprehend how I am capable of
-this.
+I am so worried about the people who may follow me down this
+path. What drives me to move forward is that, in case I may be
+incapacitated in some way, my followers or humanity itself may have
+something left behind that ameliorates their suffering by giving them
+power through knowledge. I do not know anyone else who could ever
+attain the position in life that I have. Though people may accuse me
+of selfishly squandering what was given to me, no one can say that I
+did not try to stand up for those not fortified by posturing through
+circumstance. There are those in situations like mine who will *never*
+have the capacity to stand up and I want to ensure that I exact
+justice such that no one will ever fucking think twice about doing
+this again. I will do so peacefully and I do not care what it
+costs. As far as I can see, God is at my side, along with the entire
+world, because I cannot comprehend how I am capable of this.
 
 > A warning: there is much harm that can be done through semiotic
 > remapping. Since it is so unpredictable and the requisite experience
@@ -572,7 +578,9 @@ this.
 > most beneficent intentions. This is a curse of both knowledge and
 > the illusion of control.
 
-# [Semiotic Binding Points in the Human Condition](#semiotic-binding-points-in-the-human-condition)
+<a name="cultural-universals-are-semiotic-binding-points" />
+
+# [Cultural Universals Are Semiotic Binding Points](#semiotic-binding-points-in-the-human-condition)
 
 There is a list of about one hundred universally shared traits. These
 [cultural universals](https://en.wikipedia.org/wiki/Cultural_universal)
@@ -580,7 +588,7 @@ are traits constantly available across the human condition. Though
 their specific mappings are not geographically invariant, their
 availability as mappable signifiers is universal.
 
-There is a varied degree of universal recognition. To some degree, you
+There is varied degree to universal recognition. To some extent, you
 want those symbols to be more relevant to your own culture than to
 others. That is, this game is a bit like Othello, where you may find
 your pieces turned against you if you are not careful. Universally
@@ -601,10 +609,21 @@ hundreds or thousands of years. This is especially interesting, in the
 wake of the Singularity. It's a paradigm shift unlike any other that
 blurs even the most constant ideals of the human condition: identity,
 time, knowledge itself, and our collective identity in the face of
-transhumanism. It is this cultural precipice that necessitates a new
-belief system. Who can be trusted with this most monumental task of
-social engineering? Does every sufficiently advanced civilization
-discover what is essentially the same solution to the singularity?
+transhumanism. It is this precarious cultural precipice that
+necessitates a new belief system.
+
+Who can be trusted with this most monumental task of social
+engineering? Does every sufficiently advanced civilization discover
+what is essentially the same solution to the singularity?
+
+The gusts at this stormy pinnacle of human civilization will render
+humanity in need of a belief system to grapple onto for hope. Our fate
+is uncertain like the solution to Fermi's paradox. I believe that
+there are multiple answers to the paradox, but that the positive
+solution to the paradox involves "dark" technology. That is, every
+civilization that successfully ascends does so with only a brief,
+centuries-long flash of electromagnetic radiation. Still, the dangers
+of technological ascent are real.
 
 ![Frozen Flame](/img/posts/2017-02-14-oneirontology-engineering-cultural-touchstones-for-mythos/frozen-flame.png)
 
@@ -692,6 +711,8 @@ concepts are hidden from purely literate communication.
 
 - top 500 words/morphemes to learn in any new language are a great
   start for enumerating a list of mappable symbols
+
+
 
 ### [Quantification of Semiotics for Statistical Methods](#quantification-of-semiotics-for-statistical-methods)
 
@@ -795,7 +816,9 @@ salary in 2016: $400 ... go figure.
 > and you could get sick!" - The paradigm that powers American-led
 > innovation in the 21st century economy....
 
-# [Examples of Semiotic Binding Points](#examples-of-semiotic-binding-points)
+<a name="semiotic-binding-points-in-the-human-condition" />
+
+# [Semiotic Binding Points in the Human Condition](#semiotic-binding-points-in-the-human-condition)
 
 So when constructing myths, what are examples of systems of signs,
 symbols, etc? Any set of signs common to a culture, nation or region
@@ -804,6 +827,8 @@ varying degree of frequency. Of particular interest is the propensity
 over generations for gradual meditation on such semiotic signs to
 produce strikingly similar maps. Still another reason world religions
 share so many common traits.
+
+<a name="astrology-commerce-agriculture-and-architecture" />
 
 ### [Astrology, Commerce, Agriculture and Architecture](#astrology-commerce-agriculture-and-architecture)
 
@@ -850,6 +875,8 @@ we understood that we could separate ourselves from the dangers of the
 natural world. After these four elements came the economic need for
 written language and law.
 
+<a name="math-and-science" />
+
 ### [Math and Science](#math-and-science)
 
 Another set of fairly or very constant signs are mathematical and
@@ -871,6 +898,8 @@ than its worth.
 - scientology's use of an ontological perspective based on science as
   a pattern language.
   - they're like the fucking Mensa Mafia.
+
+<a name="architypical-events-in-human-history" />
 
 ### [Architypical Events in Human History](#architypical-events-in-human-history)
 
