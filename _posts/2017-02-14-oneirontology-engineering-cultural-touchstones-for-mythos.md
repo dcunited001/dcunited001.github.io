@@ -579,8 +579,8 @@ the idea whence power is derived.
 In pursuit of understanding how humanity must prepare for the
 Singularity, Ragnarok presents itself as a steller example of cultural
 bundling and compression. Ancient people were hardly as ignorant as
-Westerners and atheists are lead to believe early in life. Being
-imbued with the perception that all who came before us were helplessly
+Westerners and atheists are led to believe early in life. Being imbued
+with the perception that all who came before us were helplessly
 ignorant is by design. This is so that society swells with pride at
 present accomplishments, moves unquestioningly forwards and never
 apologizes for the past: they were ignorant. Who knew?
@@ -591,19 +591,27 @@ way. The understood how to operate in aeternal shadow without written
 language, something the far majority of people cannot comprehend
 today. But, because of the nature of information in the ancient world,
 our progenitors were very familiar with networking problems like the
-Byzantine Generals, though not in name. The solutions this problem are
+Byzantine Generals, though not in name. These problems are all about
+logistics, cost-savings in absence of information, and the minimizing
+the costs of failure when they are expensive. The solutions this
+problem are
 [Paxos](https://en.wikipedia.org/wiki/Paxos_(computer_science) and
-[RAFT](https://raft.github.io/). The
+[RAFT](https://raft.github.io/).
+
+The
 [Byzantine Generals](https://en.wikipedia.org/wiki/Byzantine_fault_tolerance#Byzantine_failures)
 problem is from the 20th century, but despite the name, the qualities
 of this and other networking solutions would be moreso valuable for
 societies that did not enjoy high-bandwidth communications. Therefore,
 they would be more familiar with architecting communication protocols
 and imbuing knowledge of directive-oriented solutions into their myth
-and magick. Being able to relieve oneself and one's mind of the
-constraints of their present epoch provides invaluable insight into
-the nature of reality and history, especially when such has been
-shielded from view.
+and magick, so that these tools would be hidden, but could be
+retrieved by subsequent generations. Therefore, distancing oneself
+from religion on the basis of rationalism and religions' logical
+fallibility is disempowering. You are being deceived. Being able to
+relieve oneself and one's mind of the constraints of their present
+epoch provides invaluable insight into the nature of reality and
+history, especially when such has been shielded from view.
 
 Almost every human need, desire, norm and the perception of thus will
 change unrecognizably in forthcoming decades. These will diversify
@@ -668,10 +676,10 @@ that maps this universal semiotic network to mathematic primitives
 form graph theory and category, forming the basis for a language
 undoubted used by space aliens to communicate over vast distances
 without the need for a protocol to define semantics. The semantics
-would instead be implicit in mathematic primitives. (I also made less
-than $400 in 2016, so go figure.)
+would instead be implicit in mathematic primitives. My total annual
+salary in 2016: $400 ... go figure.
 
-> *AMERICA!* Round Robin, heart disease and NASCAR! Fuck 'em free
+> *AMERICA!* Red Robin, heart disease and NASCAR! Fuck 'em free
 > thinkin' frilly philosopher types.
 
 (I remember being threatened by being sent to a mental institution the
@@ -741,9 +749,15 @@ that everything is more than it seems at the surface. What lies
 beneath can be very useful, but is often confusing and more trouble
 than its worth.
 
+> _Ontology_: a set of concepts and categories in a subject area or
+> domain that shows their properties and the relations between them.
+
+#### [Gene Ontology](http://www.geneontology.org/), powering bioinformatics and oncological data science
+
+![A Visualized Genetic Ontology](/img/posts/2017-02-14-oneirontology-engineering-cultural-touchstones-for-mythos/gene-ontology.jpg)
+
 - scientology's use of an ontological perspective based on science as
   a pattern language
-  - ![picture of gene ontology]()
 
 ### [Architypical Events in Human History](#architypical-events-in-human-history)
 
