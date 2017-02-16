@@ -47,6 +47,29 @@ is...
 
 ### [Information Compression in Mythos](#information-compression-in-mythos)
 
+# [Semiotic Mapping](#semioitic-mapping)
+
+### [Accumulating Utility, While Conserving Authenticity](#accumulating-utility-while-conserving-authenticity)
+
+### [Survival of the Fittest](#survival-of-the-fittest)
+
+### [The Pragmatic Traps of Church Founding and Dragon Slaying](#the-pragmatic-traps-of-church-founding-and-dragon-slaying)
+
+### [Significance of Semiotics to Mythology](#significance-of-semiotics-to-mythology)
+
+### [Temporally Invariant Signs](#temporally-invariant-signs)
+
+### [Geographically Invariant Signs](#geographically-invariant-signs)
+
+### [Zero Point Energy from Lacuna Dynamo](#zero-point-energy-from-lacuna-dynamo)
+
+### [Semiotics in Branding and Marketing](#semiotics-in-branding-and-marketing)
+
+### [Probabilistically Dynamical State Machines with Ergodic Stabalization of Metastates](#probabilistically-dynamical-state-machines-with-ergodic-stabalization-of-metastates)
+
+### [The Metasign Symmetry is the Most Universal Sign](#the-metasign-symmetry-is-the-most-universal-sign)
+
+# [The Shepherd, a Universal Sign](#the-shepherd-a-universal-sign)
 
 ![Jormungand](/img/posts/2017-02-14-oneirontology-engineering-cultural-touchstones-for-mythos//jormungand.jpg)
 
@@ -162,7 +185,7 @@ forced underground as Christianity swept over Europe. Specifically,
 the Nords developed Ragnarok, which is one of many apocalypse myths of
 world culture.
 
-IMO: the Nords along with the rest of Europe compromised and agreed to
+The Nords along with the rest of Europe compromised and agreed to
 surpress their pagan history for a united, geopolitically defensible
 Europe. But what Ragnarok represents is a literal return of the pagan
 gods at the antipated culmination of human history thus far:
@@ -182,7 +205,7 @@ representation of data, semantic and/or semiotic. You're basically
 trying to find a "folding" pattern for the data that makes it small
 and compressible.
 
-#### Trie Data Structure For Zipping Data and Fitting Genomic Data Into RAM
+#### The Trie Data Structure For Zipping Data and Fitting Genomic Data Into RAM
 
 ![Trie Data Structure](/img/posts/2017-02-14-oneirontology-engineering-cultural-touchstones-for-mythos/trie-data-structure.png)
 
@@ -209,6 +232,8 @@ these myths in such a way as to ostensibly retain their cultural
 identity while compressing a set of behaviors encoded in myth, whose
 execution would begin upon apocalyptic events.  Humanity's forefathers
 deserve much more credit than we give them.
+
+#### Mr Paperclip is trying to help. Can you say no to that face?
 
 ![Mr Paperclip](/img/posts/2017-02-14-oneirontology-engineering-cultural-touchstones-for-mythos/mr-paperclip.jpg)
 
@@ -241,11 +266,11 @@ Do you have X-Ray vision for fate?
 # [Semiotic Mapping](#semioitic-mapping)
 
 In regard to references of remapped semiotics, imagine something along
-the lines of this picture, but with a splash of infinity. This picture
-distinguishes between functions that satisfy various mapping
-properties, such as surjectivity and bijectivity. The whole of
-mathematics, even functions with continuous domains and ranges, are
-simply mappings
+the lines of the following picture, but with a splash of
+infinity. This picture distinguishes between functions that satisfy
+various mapping properties, such as surjectivity and bijectivity. The
+whole of mathematics, even functions with continuous domains and
+ranges, are simply mappings.
 
 ![All Functions are Mappings](/img/posts/2017-02-14-oneirontology-engineering-cultural-touchstones-for-mythos/mappable-functions.jpg)
 
@@ -275,26 +300,36 @@ the Singularity, many anticipate technological stagnation, but
 increasing pace of change is definitely a problem beforehand. Is the
 next stage in humanity's evolution finite?
 
+<a name="survival-of-the-fittest" />
+
+### [Survival of the Fittest](#survival-of-the-fittest)
+
 Consider another case of our future where we instead lose the
 knowledge & tools to comprehend in another Dark Age. How would we
 update the package of myths today so that ideas remain readily
 consumable and relevant no matter what happens tomorrow?
 
-Too much flexibility and offshoot organizations reduce capacity for
-the religion's social institutions to benefit society. There is more
-risk when movements branch outwards before there is enough
-precipitation of identity and shared culture.
+Too much flexibility and you end up with offshoot organizations. While
+these allow the religion to more flexibility and freedom, these
+ultimately reduce capacity for the religion's social institutions to
+benefit society. There is more risk when movements branch outwards
+before there is enough precipitation of identity and shared culture.
 
-And this is all before you reach the pragmatic traps of founding a
-religion. People forget that even the most devout worshippers are
-human. Institutions of man are often more fallible than man
-itself. Pondering the pragmatic issues of founding a religion, and
-especially the ways that the seven deadly sins affect viable/robust
-logistic structures of institions. Dealing with human nature
-necessitates changes to the belief systems themselves and not just the
-structures and processes of the institutions. The institutions must
-exemplify the beliefs and practices of the religion. If the followers
-cannot build robust institutions, then they will fall apart.
+<a name="the-pragmatic-traps-of-church-founding-and-dragon-slaying" />
+
+### [The Pragmatic Traps of Church Founding and Dragon Slaying](#the-pragmatic-traps-of-church-founding-and-dragon-slaying)
+
+Establishing this comes before you reach the pragmatic traps of
+founding a religion. People forget that even the most devout
+worshippers are human. Institutions of man are often more fallible
+than man itself. Pondering the pragmatic issues of founding a
+religion, and especially the ways that the seven deadly sins affect
+viable/robust logistic structures of institions. Dealing with human
+nature necessitates changes to the belief systems themselves and not
+just the structures and processes of the institutions. The
+institutions must exemplify the beliefs and practices of the
+religion. If the followers cannot build robust institutions, then they
+will fall apart.
 
 <a name="significance-of-semiotics-to-mythology" />
 
@@ -429,7 +464,7 @@ I'm studying some of the following video. I hope it will demonstrate a
 strong connection between the concept of origin in Number Theory,
 symmetry and analytic combinatorics. The video is from the
 [Institute for Advanced Study](https://www.youtube.com/channel/UC8aRaZ6_0weiS50pvCmo0pw)
-[The Symmetry and Simplicity of the Laws of Nature and the Higgs Boson](https://www.youtube.com/watch?v=OQF7kkWjVWM).If
+[The Symmetry and Simplicity of the Laws of Nature and the Higgs Boson](https://www.youtube.com/watch?v=OQF7kkWjVWM). If
 you're into watching endless lectures on advanced mathematics as
 applied, then the
 [Simons Institute](https://www.youtube.com/user/SimonsInstitute) is an
@@ -450,14 +485,19 @@ the perceived value of religion in humanity and doing so does not
 require evangelism. We are non-evangelistic and this tradition will
 not work for many people.
 
-###
+<a name="jesus-was-a-shepherd-of-men" />
+
+### [Jesus Was a Shepherd of Men](#jesus-was-a-shepherd-of-men)
 
 The shepherd is sign recognized by many religions. Jesus was a
-shepherd and a carpenter. The shepherd was a well known through out
-the middle east and other adjacent areas. It forms the basis of a
-partial pattern language, whereby the shepherd and the sheep in his
-flock become signs that can be used to figuratively convey meaning
-that simple words cannot.
+carpenter, but also a shepherd of men. The shepherd was a well known
+through out the middle east and other adjacent areas. Especially in
+Judeo-Christian traditions, the shepherd forms the basis of a partial
+pattern language, whereby the shepherd and the sheep in his flock
+become signs that can be used to figuratively convey meaning that
+simple words cannot. Using metaphor enables the belief system to
+tightly couple itself to the core of the minds of followers in a way
+that pure rationalism and logic cannot.
 
 The symbol of the shepherd is one that was universally recognized by
 everyone during the time of the Buddha and Jesus. As a sign with wide
@@ -630,16 +670,21 @@ availability as mappable signifiers is universal.
 There is varied degree to universal recognition. To some extent, you
 want those symbols to be more relevant to your own culture than to
 others. That is, this game is a bit like Othello, where you may find
-your pieces turned against you if you are not careful. Universally
-relevant symbols are useful in that they are marketable and brandable,
-but that trade-off is balanced by incidentally acting as additional
-surface area for cultural subversion.
+your pieces turned against you if you are not careful. We essentially
+all share the same set of pieces. Universally relevant symbols are
+useful in that they are marketable and brandable, but that trade-off
+is balanced by incidentally acting as additional surface area for
+cultural subversion.
 
-#### Shakespeare Wrote a Play About My Life, But I Didn't Like The Ending
+#### Shakespeare Wrote a Play About My Life...
 
 ![Yes, another picture of Othello](/img/posts/2017-02-14-oneirontology-engineering-cultural-touchstones-for-mythos/othello.jpg)
 
-### (╯&deg;□&deg;）╯︵ ┻━┻)
+#### But I Didn't Like The Ending (╯&deg;□&deg;）╯︵ ┻━┻) ... I kid, I kid
+
+<a name="this-most-monumental-task-of-social-engineering" />
+
+### [This Most Monumental Task of Social Engineering](#this-most-monumental-task-of-social-engineering)
 
 Which symbols will most resist semiotic change over time? That is, for
 both change in signifier and the mapped signified concept. These are
@@ -651,7 +696,7 @@ time, knowledge itself, and our collective identity in the face of
 transhumanism. It is this precarious cultural precipice that
 necessitates a new belief system.
 
-####
+#### Do You Really Want This Power? Does Anyone?
 
 ![Frozen Flame](/img/posts/2017-02-14-oneirontology-engineering-cultural-touchstones-for-mythos/frozen-flame.png)
 
@@ -659,18 +704,24 @@ Who can be trusted with this most monumental task of social
 engineering? Does every sufficiently advanced civilization discover
 what is essentially the same solution to the singularity?
 
-###
+<a name="almos-everes-but-never-high-enough" />
 
-The gusts at this stormy pinnacle of human civilization will render
-humanity in need of a belief system to grapple onto for hope. Our fate
-is uncertain like the solution to Fermi's paradox. I believe that
-there are multiple answers to the paradox, but that the positive
-solution to the paradox involves "dark" technology. That is, every
-civilization that successfully ascends does so with only a brief,
-centuries-long flash of electromagnetic radiation. Still, the dangers
-of technological ascent are real.
+### [Almos' Everes' But Never High Enough](#almos-everes-but-never-high-enough)
 
-###
+Knowledge is power, but the gusts at this stormy pinnacle of human
+civilization will render us flailing in need of a belief system to
+grapple onto hope. Our fate is uncertain like the solution to Fermi's
+paradox. I believe that there are multiple answers to the paradox, but
+that the positive solution to the paradox involves "dark"
+technology. That is, every civilization that successfully ascends does
+so with only a brief, centuries-long flash of electromagnetic
+radiation. Still, the dangers of technological ascent are real.
+
+<a name="you-havent-even-seen-our-final-form" />
+
+### [You Haven't Even Seen Our Final Form](#you-havent-even-seen-our-final-form)
+
+![Castle of Ahhhhhhhh](/img/posts/2017-02-14-oneirontology-engineering-cultural-touchstones-for-mythos/the-castle-of-ahhhhhhhh.png)
 
 The nature of the Singularity's changes are particularly important: is
 humanity embarking on a final transformation or is this a final
@@ -701,6 +752,12 @@ with the perception that all who came before us were helplessly
 ignorant is by design. This is so that society swells with pride at
 present accomplishments, moves unquestioningly forwards and never
 apologizes for the past: they were ignorant. Who knew?
+
+#### "Oh look, there's some lovely dirt over here..."
+
+![Absolutely Marvelous Dirt](/img/posts/2017-02-14-oneirontology-engineering-cultural-touchstones-for-mythos/monty-python-lovely-dirt.jpg)
+
+> General warning in life => everyone is smart in their own way...
 
 Our forefathers understood that once the majority of the world were
 literate, history would become set in stone in an unprecedented
