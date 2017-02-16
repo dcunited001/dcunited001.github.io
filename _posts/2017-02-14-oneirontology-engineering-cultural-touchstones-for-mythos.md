@@ -174,13 +174,21 @@ with a thousand eyes and ears.
 
 The truth is that neither the physical or metaphysical can exist
 independently and are cyclically interdependent for whatever
-reason. If one is forced to pick one that is "higher" in the
-dependency graph of physical or metaphysical, the answer is that the
-physical and all of the metaphysical emerges from the
-[kernel](https://en.wikipedia.org/wiki/Kernel_(linear_algebra) of the
-metaphysical that Oneirontology calls the Origin of Semiotics. That
-is, the whole of the universe and all the metaphysical layered on top
-of it emerges from math itself.
+reason. If one is forced to choose which is "higher" in the dependency
+graph of physical or metaphysical, the answer is that the physical and
+all of the metaphysical emerges from the cyclicly recursive
+[kernel](https://en.wikipedia.org/wiki/Kernel_(linear_algebra)) of the
+metaphysical.
+
+That is, the whole of the universe and all the metaphysical layered on
+top of it emerge from math itself. If you represent this dependency
+graph, then you can truncate the infinite recursion with a cycle, but
+you you may need infinite cycles. Yes, it's cyclical logic. Do you
+really care? There is no other correct answer. By
+[Gödel's logic](https://plato.stanford.edu/entries/goedel-incompleteness/),
+it is so decreed.
+
+#### Gee, I really hope I'm not wrong about this math stuff because then I'll just have to edit my religion
 
 ![Jormungand](/img/posts/2017-02-14-oneirontology-engineering-cultural-touchstones-for-mythos//jormungand.jpg)
 
@@ -198,6 +206,9 @@ of knowledge. When the system can't handle inevitable events where
 it's nearly eliminated, it will almost certainly be overtaken by
 another belief system at some point.
 
+> i.e. if you're one of the three little piggies, you need to build a
+> brick house and one that can withstand anything that comes its way.
+
 Regardless of whether the belief system is religious or secular,
 people need them. People prefer belief systems that accompany social
 institutions which exhibit strong influences on their surroundings.
@@ -209,11 +220,11 @@ sustain itself through times like these.
 
 On the other hand, one can design knowledge systems whose operation
 excels when or only when there is poor distribution and dispersion.
-These systems are very difficult to root out, because like the Furians
-of Riddick, those who have the knowledge gain power upon its near
-demise. Therefore the information economics of these systems can
-create incentives to perpetuate the system when it's on its last
-legs.
+These systems are very difficult to root out, because like the
+[Furyans of Riddick](http://riddick.wikia.com/wiki/Furyans), those who
+have the knowledge gain power upon its near demise. Therefore the
+information economics of these systems can create incentives to
+perpetuate the system when it's on its last legs.
 
 <a name="weaving-on-the-universal-loom-of-semiotics" />
 
