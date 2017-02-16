@@ -973,15 +973,15 @@ a study in this domain, see
 
 <a name="interlingual-semantic-dissonances" />
 
-![Semantic Dissonance between English and Chinese](/img/posts/2017-02-14-oneirontology-engineering-cultural-touchstones-for-mythos/semantics-graph.png)
-
 ### [Interlingual Semantic Dissonance](#interlingual-semantic-dissonances)
 
-The graph above shows dissonance between semantic concepts in English
+The graph below shows dissonance between semantic concepts in English
 and Chinese. As your analysis accomodates more languages, there should
 be nested graphs that emerge via recursive convergence. These should
 allow you to approach the asymptotically distant, foundational graph for
 humanity's semiotic mappings.
+
+![Semantic Dissonance between English and Chinese](/img/posts/2017-02-14-oneirontology-engineering-cultural-touchstones-for-mythos/semantics-graph.png)
 
 <a name="humanitys-semiotic-graph-converges-towards-the-universal-semiotic-graph" />
 
