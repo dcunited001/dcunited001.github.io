@@ -24,15 +24,14 @@ Who wouldn't love that?
 
 ### Warning: if you'd like to solve the mysteries of the universe yourself...
 
-If you'd like to solve the mysteries of the universe yourself, don't
-read this post. It discusses the principles of architecture and design
-as applied to semiotics and mythology to create worldview-evoking
-belief systems robust enough to stand the test of time. Usually, like
-a priceless bottle of wine, such rare knowledge requires generations
-of distillation. Within this article are buried a hundred various PhD
-theses. Like Pokemon, can you catch them all? If you get just one of
-them you can take that grant application to the bank. Just send a
-thank you card or something.
+... then don't read this post. It discusses the principles of
+architecture and design as applied to semiotics and mythology to
+create worldview-evoking belief systems robust enough to stand the
+test of time. Usually, like a priceless bottle of wine, such rare
+knowledge requires generations of distillation. Within this article
+are buried a hundred various PhD theses. Like Pokemon, can you catch
+them all? If you get just one of them you can take that grant
+application to the bank. Just send a thank you card or something.
 
 After investing ten minutes in this article, you too can craft your
 own belief system that will stand the test of time. Or at least
@@ -71,6 +70,44 @@ is...
 
 # [The Shepherd, a Universal Sign](#the-shepherd-a-universal-sign)
 
+
+
+
+
+# [Cultural Universals Are Semiotic Binding Points](#semiotic-binding-points-in-the-human-condition)
+
+### [This Most Monumental Task of Social Engineering](#this-most-monumental-task-of-social-engineering)
+
+### [Almos' Everes' But Never High Enough](#almos-everes-but-never-high-enough)
+
+### [You Haven't Even Seen Our Final Form](#you-havent-even-seen-our-final-form)
+
+
+
+
+
+### [A Stellar Tale of Might and Magic](#a-stellar-tale-of-might-and-magic)
+
+### [Ancient Communication Protocols and Autonomous Directives](#ancient-communication-protocols-and-autonomous-directives)
+
+# [Metrics of Semiotics](#metrics-of-semiotics)
+
+### [The Mind Has Its Own Curse of Dimensionality: Language](#the-mind-has-its-own-curse-of-dimensionality-language)
+
+### [Quantification of Semiotics for Statistical Methods](#quantification-of-semiotics-for-statistical-methods)
+
+### [Zipf's Distribution And Semiotics](#zipfs-distribution-and-semiotics)
+
+### [Interlingual Semantic Dissonance](#interlingual-semantic-dissonances)
+
+### [Humanity's Semiotic Graph Converges Towards the Universal Semiotic Graph](#humanitys-semiotic-graph-converges-towards-the-universal-semiotic-graph)
+
+### [Quantification of Semiotics for Statistical Methods](#quantification-of-semiotics-for-statistical-methods)
+
+### [The Mind Has Its Own Curse of Dimensionality: Language](#the-mind-has-its-own-curse-of-dimensionality-language)
+
+### [Quantification of Semiotics for Statistical Methods](#quantification-of-semiotics-for-statistical-methods)
+
 ![Jormungand](/img/posts/2017-02-14-oneirontology-engineering-cultural-touchstones-for-mythos//jormungand.jpg)
 
 The argument over the Hegelian and Marxist Dialectics presents itself
@@ -106,12 +143,12 @@ came first: physics or metaphysics. What is the true origination of
 phenomena in our world? Does the metaphysical arise outside and
 independent of the physical? Yes? You're a Hegelian. Is there simply
 not enough evidence to show otherwise? You're probably an atheist,
-which is amusing because you worship science and no where is it more
-clear that phenomena arising from number theory determines the inner
+which is amusing because you worship science and nowhere is it more
+clear that phenomena arising from number theory determine the inner
 workings of nature in quantum mechanics. Does it feel threatening to
 you to find out you might be wrong and that, NO, *Stalin was not a
-philosopher and merely dictated the answers to Soviet philosophers
-because someone told him it'd be a convenient foundation for power and
+philosopher and merely dictated answers to Soviet philosophers because
+someone told him it'd be a convenient foundation for power and
 control?* You're a Marxist and I feel sorry for you, especially if
 you've given yourself over to that abusive belief system concocted by
 would-be tyrants.
@@ -121,7 +158,7 @@ structuralism. Or maybe it's the real father and the academically
 entangled authors of Marxism foresaw the inevitable, depressing
 arrival of structuralism and concocted a system of philosophy to abuse
 it for total state control. If you don't know, structuralism sums up
-why you should fear the NSA and its panopticon shaped like a beast
+why you should fear the NSA and its panopticon, shaped like a beast
 with a thousand eyes and ears.
 
 <a name="design-of-knowledge-systems" />
@@ -129,7 +166,7 @@ with a thousand eyes and ears.
 # [Design of Knowledge Systems](#design-of-knoweldge-systems)
 
 As I see it, the truth is that neither the physical or metaphysical
-can exist independently and are cyclically dependent for whatever
+can exist independently and are cyclically interdependent for whatever
 reason.
 
 <a name="galvanization-of-indurated-belief-systems" />
@@ -182,8 +219,8 @@ The best place to learn about this is from cultures who went
 underground by necessity. The Celts, the Nords and the Goths are all
 perfect examples of cultures whose elements and mythologies were
 forced underground as Christianity swept over Europe. Specifically,
-the Nords developed Ragnarok, which is one of many apocalypse myths of
-world culture.
+the Nords developed Ragnarok, one of many apocalypse myths of world
+culture.
 
 The Nords along with the rest of Europe compromised and agreed to
 surpress their pagan history for a united, geopolitically defensible
@@ -219,9 +256,9 @@ obfuscation of myth also makes them more viral, more viable and more
 likely to survive
 [knowledge extinction events](/posts/2016-08-01-from-the-parapets-of-alexandria-knowledge-extinction-events.html).
 
-<a name="" />
+<a name="cultural-dessication" />
 
-### 
+### [Cultural Desiccation](#cultural-desiccation)
 
 Cultures like the Norse often rely on myths during times of turmoil to
 preserve information in an encoded form. In terms of European
@@ -233,9 +270,11 @@ identity while compressing a set of behaviors encoded in myth, whose
 execution would begin upon apocalyptic events.  Humanity's forefathers
 deserve much more credit than we give them.
 
-#### Mr Paperclip is trying to help. Can you say no to that face?
+#### Mr Paperclip is trying to help.
 
 ![Mr Paperclip](/img/posts/2017-02-14-oneirontology-engineering-cultural-touchstones-for-mythos/mr-paperclip.jpg)
+
+#### How can you say no to that face?
 
 Ragnarok is perhaps the best example of a subversive attempt to use
 information compression for cultural preservation. It's event-driven
@@ -420,7 +459,7 @@ of consumers and it's expensive.
 
 <a name="probabilistically-dynamical-state-machines-with-ergodic-stabalization-of-metastates" />
 
-### [Probabilistically Dynamical State Machines with Ergodic Stabalization of Metastates](#probabilistically-dynamical-state-machines-with-ergodic-stabalization-of-metastates)
+### [Dynamical State Machines with Ergodic Stabalization of Metastates](#dynamical-state-machines-with-ergodic-stabalization-of-metastates)
 
 (in context of probablistic, ergodic programs)
 
@@ -742,7 +781,9 @@ itself, is a powerful motivating force. A la
 [Roko's Basilisk](http://rationalwiki.org/wiki/Roko's_basilisk), it is
 the idea whence power is derived.
 
-###
+<a name="a-stellar-tale-of-might-and-magic" />
+
+### [A Stellar Tale of Might and Magic](#a-stellar-tale-of-might-and-magic)
 
 In pursuit of understanding how humanity must prepare for the
 Singularity, Ragnarok presents itself as a steller example of cultural
@@ -772,7 +813,9 @@ problem are
 [Paxos](https://en.wikipedia.org/wiki/Paxos_(computer_science) and
 [RAFT](https://raft.github.io/).
 
-### (ancient communication protocols and autonomous directives)
+<a name="ancient-communication-protocols-and-autonomous-directives" />
+
+### [Ancient Communication Protocols and Autonomous Directives](#ancient-communication-protocols-and-autonomous-directives)
 
 The
 [Byzantine Generals](https://en.wikipedia.org/wiki/Byzantine_fault_tolerance#Byzantine_failures)
@@ -815,7 +858,9 @@ from linguistic analysis of communication. To hope to reach any
 authentic insights, one needs to analyze more than text because many
 concepts are hidden from purely literate communication.
 
-### (Escaping the mind's binding to language)
+<a name="the-mind-has-its-own-curse-of-dimensionality-language" />
+
+### [The Mind Has Its Own Curse of Dimensionality: Language](#the-mind-has-its-own-curse-of-dimensionality-language)
 
 To enumerate a list of mappable morphemes and underlying signifiers, a
 great start is the top 500 words to learn first in any language.
@@ -827,7 +872,16 @@ new language. This forces the mind to wedge an abstraction between
 language and cognition. Just sign the morphemes along with
 verbalization of the words as you're learning. It's difficult to
 quantify, but if you can do this and you speak three languages, your
-IQ just jumped 20 points.
+IQ just jumped 20 points. Some of the most interesting tangents in
+linguistics involve sign language.
+
+#### HIS POWER LEVEL IS OVER 200!!! (not...)
+
+What is the solution to the
+[Curse of Dimensionality](https://en.wikipedia.org/wiki/Curse_of_dimensionality)?
+Does it have something to do with parameterization?
+
+<a name="quantification-of-semiotics-for-statistical-methods" />
 
 ### [Quantification of Semiotics for Statistical Methods](#quantification-of-semiotics-for-statistical-methods)
 
@@ -856,9 +910,9 @@ universals? Specifically, if such a tool exists, what is it's utility
 for creating a religion? How would Oneirontology use it? Is there a
 single optimal way to use it?
 
-<a name="zipfs-distribution-and-semiotics" />
-
 #### Zipf's Distribution on Wikipedia Articles Written in English
+
+<a name="zipfs-distribution-and-semiotics" />
 
 ![Zipf's Distribution](/img/posts/2017-02-14-oneirontology-engineering-cultural-touchstones-for-mythos/zipf-wiki.png)
 
@@ -877,7 +931,7 @@ important.
 
 #### Ummm, What Is "Representation Theory" ...? I Wish I Knew Who To Ask
 
-![Representation Theory](img/posts/2017-02-14-oneirontology-engineering-cultural-touchstones-for-mythos/representation-theory.jpg)
+![Representation Theory](/img/posts/2017-02-14-oneirontology-engineering-cultural-touchstones-for-mythos/representation-theory.jpg)
 
 Of particular interest to myself is understanding representation of
 random graphs on some universal basis. These aren't the ideas that
@@ -921,13 +975,14 @@ salary in 2016: $400 ... go figure.
 
 #### Under Constant Threat of Asylum (and not the kind for political refugees)
 
-> I remember being threatened by being sent to a mental institution the
-> morning I tried to publish. It's a common theme in my life, along with
-> constant disruption of productivity via good ole' fashioned NSA
-> surveillance and an NSA-augmented
+> I remember being threatened by being sent to a mental institution
+> the morning I tried to publish the article on universal
+> language. It's a common theme in my life, along with constant
+> disruption of productivity via good ole' fashioned NSA surveillance
+> and an NSA-augmented
 > [*COINTELPRO*](https://en.wikipedia.org/wiki/COINTELPRO#See_also) on
 > steroids.
->
+
 > That's real cool, y'all. In response, I've learned to publish early
 > and publish often. I have uploaded nearly everything I have written
 > to Github, just in case. You have no idea how much satisfaction it
