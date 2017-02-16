@@ -20,7 +20,9 @@ Who wouldn't love that?
 
 ![Dimension W](/img/posts/2017-02-14-oneirontology-engineering-cultural-touchstones-for-mythos/dimension-w.jpg)
 
-### Warning ... Up Up Down Down Left Right Left Right B A
+![Up Up Down Down Left Right Left Right B A](/img/posts/2017-02-14-oneirontology-engineering-cultural-touchstones-for-mythos/konami-code.png)
+
+### Warning: if you'd like to solve the mysteries of the universe yourself...
 
 If you'd like to solve the mysteries of the universe yourself, don't
 read this post. It discusses the principles of architecture and design
@@ -39,7 +41,12 @@ is...
 
 ## [Design of Knowledge Systems](#design-of-knowledge-systems)
 
-<a name="design-of-knowledge-systems" />
+### [Galvanization of Indurated Belief Systems](#galvanization-of-indurated-belief-systems)
+
+### [Weaving on the Universal Loom of Semiotics](#weaving-on-the-universal-loom-of-semiotics)
+
+### [Information Compression in Mythos](#information-compression-in-mythos)
+
 
 ![Jormungand](/img/posts/2017-02-14-oneirontology-engineering-cultural-touchstones-for-mythos//jormungand.jpg)
 
@@ -67,6 +74,10 @@ linguistics is so important. Signs and language are like reified
 metaphysical concepts that managed to pierce through the
 [Veil of Isis](https://en.wikipedia.org/wiki/Veil_of_Isis).
 
+<a name="the-struggle-is-real" />
+
+### [The Struggle is Real](#the-struggle-is-real)
+
 The struggle over the Hegelian and Marxist dialectic determines what
 came first: physics or metaphysics. What is the true origination of
 phenomena in our world? Does the metaphysical arise outside and
@@ -90,13 +101,17 @@ it for total state control. If you don't know, structuralism sums up
 why you should fear the NSA and its panopticon shaped like a beast
 with a thousand eyes and ears.
 
+<a name="design-of-knowledge-systems" />
+
 # [Design of Knowledge Systems](#design-of-knoweldge-systems)
 
 As I see it, the truth is that neither the physical or metaphysical
 can exist independently and are cyclically dependent for whatever
 reason.
 
-### (Robustness of Culture, Preservation of Authenticity, etc)
+<a name="galvanization-of-indurated-belief-systems" />
+
+### [Galvanization of Indurated Belief Systems](#galvanization-of-indurated-belief-systems)
 
 All knowledge and information will degrade over time. Most worldly
 knowledge is nothing without a mind to host it. Therefore, if the
@@ -125,19 +140,24 @@ demise. Therefore the information economics of these systems can
 create incentives to perpetuate the system when it's on its last
 legs.
 
+<a name="weaving-on-the-universal-loom-of-semiotics" />
+
+### [Weaving on the Universal Loom of Semiotics](#weaving-on-the-universal-loom-of-semiotics)
+
 How does one become familiar with different systems of knowledge and
 culture perpetuation? Like Merlin and the druids of Celt, one accrues
 this knowledge over time, by learning to weave ideas and their
-semiotic pointers. Is this a skill? Is this a kind of knowledge in
-itself? And if so, what is the basis of this skill of knowledge
-perpetuation? What are the peculiarities of such skills and systems of
-knowledge? How much of history are we missing, if there have always
-been massive incentives to keep secret the inner workings of science
-and world politics?
+semiotic pointers.
 
-IMO, the best place to learn about this is from cultures who went
-underground by necessity.  The Celts, the Nords and the Goths are all
-perfect examples of cultures who's elements and mythologies were
+Is this a skill? Is this a kind of knowledge in itself? And if so,
+what is the basis of this skill of knowledge perpetuation? What are
+the peculiarities of such skills and systems of knowledge? How much of
+history are we missing, if there have always been massive incentives
+to keep secret the inner workings of science and world politics?
+
+The best place to learn about this is from cultures who went
+underground by necessity. The Celts, the Nords and the Goths are all
+perfect examples of cultures whose elements and mythologies were
 forced underground as Christianity swept over Europe. Specifically,
 the Nords developed Ragnarok, which is one of many apocalypse myths of
 world culture.
@@ -151,6 +171,8 @@ myth as an amalgamtion of other myths in an attempt to conserve what
 is essentially a ZIP file of their culture. *The Nords intended their
 mythos to be unpacked and their Gods again reified at a critical time
 in history.*
+
+<a name="information-compression-in-mythos" />
 
 ### [Information Compression in Mythos](#information-compression-in-mythos)
 
@@ -171,22 +193,35 @@ host them. Compression also serves as a kind of camoflauge that
 protects these ideas and their functioning from competing belief
 systems who will assuredly attempt eradication. Light compression and
 obfuscation of myth also makes them more viral, more viable and more
-likely to survive [knowledge extinction events]().
+likely to survive
+[knowledge extinction events](/posts/2016-08-01-from-the-parapets-of-alexandria-knowledge-extinction-events.html).
 
-So, cultures like the Norse often rely on myths during times of
-turmoil to preserve information in an encoded form. In terms of
-European geopolitics, they could see which way the wind was blowing:
-either Europe would be united through Christianity as a cultural basis
-or become economically subservient to the Middle East. They codified
+<a name="" />
+
+### 
+
+Cultures like the Norse often rely on myths during times of turmoil to
+preserve information in an encoded form. In terms of European
+geopolitics, they could see which way the wind was blowing: either
+Europe would be united through Christianity as a cultural basis or
+become economically subservient to the Middle East. They codified
 these myths in such a way as to ostensibly retain their cultural
 identity while compressing a set of behaviors encoded in myth, whose
 execution would begin upon apocalyptic events.  Humanity's forefathers
-deserve much more credit than we give them.  Ragnarok is perhaps the
-best example of a subversive attempt to use information compression
-for cultural preservation. It's event-driven eschatology to be
-invoked upon apocalypse, whence the Gods return.
+deserve much more credit than we give them.
 
-###
+![Mr Paperclip](/img/posts/2017-02-14-oneirontology-engineering-cultural-touchstones-for-mythos/mr-paperclip.jpg)
+
+Ragnarok is perhaps the best example of a subversive attempt to use
+information compression for cultural preservation. It's event-driven
+eschatology to be invoked upon apocalypse, whence the Gods return. The
+Norse priests all but disappeared, yet so long as that myth was
+preserved, it contained everything that would be needed to ensure the
+Gods return for one last battle.
+
+<a name="i-bet-superman-could-do-it" />
+
+### [I Bet Superman Could Do It](#i-bet-superman-could-do-it)
 
 If one were to design such a system today, one that should withstand
 likely persecution of believers, what would one choose to preserve?
@@ -200,6 +235,8 @@ little on the specifics of the events and moreso on the nature,
 sequence and timing of those events.
 
 Do you have X-Ray vision for fate?
+
+<a name="semiotic-mapping" />
 
 # [Semiotic Mapping](#semioitic-mapping)
 
@@ -215,7 +252,9 @@ simply mappings
 This, and other things which only seem like beautiful epiphanies to
 those in love with mathematics, lay in wait before you.
 
-### (authenticity/versatility)
+<a name="accumulating-utility-while-conserving-authenticity" />
+
+### [Accumulating Utility, While Conserving Authenticity](#accumulating-utility-while-conserving-authenticity)
 
 How do the authors of myth abstract and obfuscate, so that the core
 ideas maintain authenticity? The belief system must be resillient to
@@ -225,16 +264,16 @@ believers to achieve significance, then flexibility is an important
 early factor, but this needs to be balanced with the system's need for
 consistence and permanence.
 
-Religions develop versatility and (usefulness) as they accumulate
-additional generations of knowledge. How do you anticipate when a
-belief system will need to change three generations from now? This is
-a paradox in context of many religions' reliance on steadfastness as
-justification for validity of their belief system. It's not like Jesus
-pitched an amendment mechanism for Christianity. How do the
-Singularity and modernization affect the peculiarities of religious
-evolution? After the Singularity, many anticipate technological
-stagnation, but increasing pace of change is definitely a problem
-beforehand. Is the next stage in humanity's evolution finite?
+Religions develop versatility of utility as they accumulate
+generations of knowledge. How do you anticipate when a belief system
+will need to change three generations from now? This is a paradox in
+context of many religions' reliance on steadfastness as justification
+for validity of their belief system. It's not like Jesus pitched an
+amendment mechanism for Christianity. How do the Singularity and
+modernization affect the peculiarities of religious evolution? After
+the Singularity, many anticipate technological stagnation, but
+increasing pace of change is definitely a problem beforehand. Is the
+next stage in humanity's evolution finite?
 
 Consider another case of our future where we instead lose the
 knowledge & tools to comprehend in another Dark Age. How would we
@@ -760,9 +799,13 @@ universals? Specifically, if such a tool exists, what is it's utility
 for creating a religion? How would Oneirontology use it? Is there a
 single optimal way to use it?
 
-#### Zipf's Distribution for Specific Word Usage on Wikipedia
+<a name="zipfs-distribution-and-semiotics" />
+
+#### Zipf's Distribution on Wikipedia Articles Written in English
 
 ![Zipf's Distribution](/img/posts/2017-02-14-oneirontology-engineering-cultural-touchstones-for-mythos/zipf-wiki.png)
+
+### [Zipf's Distribution And Semiotics](#zipfs-distribution-and-semiotics)
 
 As one recursively iterates through the infinite process of
 discovering more a foundational universal graphs of semiotics,
@@ -786,15 +829,21 @@ tightly controlled isolation*. For an example of
 a study in this domain, see
 [Hierarchical random graph representation of handwritten characters and its application to Hangul recognition](http://dx.doi.org/10.1016/S0031-3203(99)00222-8)
 
-#### Semantic Dissonance between English and Chinese
+<a name="interlingual-semantic-dissonances" />
 
 ![Semantic Dissonance between English and Chinese](/img/posts/2017-02-14-oneirontology-engineering-cultural-touchstones-for-mythos/semantics-graph.png)
+
+### [Interlingual Semantic Dissonance](#interlingual-semantic-dissonances)
 
 The graph above shows dissonance between semantic concepts in English
 and Chinese. As your analysis accomodates more languages, there should
 be nested graphs that emerge via recursive convergence. These should
-allow you to approach the (infinitely distant) foundational graph for
+allow you to approach the asymptotically distant, foundational graph for
 humanity's semiotic mappings.
+
+<a name="humanitys-semiotic-graph-converges-towards-the-universal-semiotic-graph" />
+
+### [Humanity's Semiotic Graph Converges Towards the Universal Semiotic Graph](#humanitys-semiotic-graph-converges-towards-the-universal-semiotic-graph)
 
 Humanity's semiotic graph can not account for all concepts, as many
 are still undeveloped. Therefore we should have a partial graph which
@@ -810,8 +859,8 @@ without the need for a protocol to define semantics. The semantics
 would instead be implicit in mathematic primitives. My total annual
 salary in 2016: $400 ... go figure.
 
-> *AMERICA!* Red Robin, heart disease and NASCAR! Fuck 'em free
-> thinkin' frilly philosopher types.
+> "*AMERICA!* Red Robin, heart disease and NASCAR! Fuck 'em free
+> thinkin' frilly philosopher types."
 
 #### Under Constant Threat of Asylum (and not the kind for political refugees)
 
@@ -833,4 +882,9 @@ salary in 2016: $400 ... go figure.
 > "America! Got a friend that thinks too hard?! Neurologically castrate
 > them. Don't talk to them. Knowledge is contagious. It's a disease
 > and you could get sick!" - The paradigm that powers American-led
-> innovation in the 21st century economy....
+> innovation in the 21st century economy.... or a subversive
+> neo-Bolshevik attempt to sabotage the American economy.
+
+That's all for now. The third section of Oneirontology's unveiling
+discusses specific cultural universals' utility for the architecture
+of mythos.

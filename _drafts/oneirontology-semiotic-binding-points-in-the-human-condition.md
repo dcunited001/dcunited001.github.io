@@ -1,5 +1,5 @@
 ---
-title: "Oneirontology: Engineering Cultural Touchstones for Mythos"
+title: "Oneirontology: Semiotic Binding Points in the Human Condition"
 categories: "blog"
 tags: "oneirontology religion semiotics linguistics"
 headline: ""
