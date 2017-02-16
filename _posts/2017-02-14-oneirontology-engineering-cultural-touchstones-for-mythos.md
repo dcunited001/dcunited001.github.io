@@ -20,8 +20,6 @@ Who wouldn't love that?
 
 ![Dimension W](/img/posts/2017-02-14-oneirontology-engineering-cultural-touchstones-for-mythos/dimension-w.jpg)
 
-![Up Up Down Down Left Right Left Right B A](/img/posts/2017-02-14-oneirontology-engineering-cultural-touchstones-for-mythos/konami-code.png)
-
 ### Warning: if you'd like to solve the mysteries of the universe yourself...
 
 ... then don't read this post. It discusses the principles of
@@ -32,6 +30,8 @@ knowledge requires generations of distillation. Within this article
 are buried a hundred various PhD theses. Like Pokemon, can you catch
 them all? If you get just one of them you can take that grant
 application to the bank. Just send a thank you card or something.
+
+![Up Up Down Down Left Right Left Right B A](/img/posts/2017-02-14-oneirontology-engineering-cultural-touchstones-for-mythos/konami-code.png)
 
 After investing ten minutes in this article, you too can craft your
 own belief system that will stand the test of time. Or at least
@@ -64,7 +64,7 @@ is...
 
 ### [Semiotics in Branding and Marketing](#semiotics-in-branding-and-marketing)
 
-### [Probabilistically Dynamical State Machines with Ergodic Stabalization of Metastates](#probabilistically-dynamical-state-machines-with-ergodic-stabalization-of-metastates)
+### [Dynamical State Machines with Ergodic Stabilization of Metastates](#dynamical-state-machines-with-ergodic-stabilization-of-metastates)
 
 ### [The Metasign Symmetry is the Most Universal Sign](#the-metasign-symmetry-is-the-most-universal-sign)
 
@@ -209,6 +209,10 @@ culture perpetuation? Like Merlin and the druids of Celt, one accrues
 this knowledge over time, by learning to weave ideas and their
 semiotic pointers.
 
+#### Hello. There are some who call me Tim. I'm not sure why. That's not actually my name.
+
+![There are some who call me Tim](/img/posts/2017-02-14-oneirontology-engineering-cultural-touchstones-for-mythos/there-are-some-who-call-me-tim.jpg)
+
 Is this a skill? Is this a kind of knowledge in itself? And if so,
 what is the basis of this skill of knowledge perpetuation? What are
 the peculiarities of such skills and systems of knowledge? How much of
@@ -270,7 +274,7 @@ identity while compressing a set of behaviors encoded in myth, whose
 execution would begin upon apocalyptic events.  Humanity's forefathers
 deserve much more credit than we give them.
 
-#### Mr Paperclip is trying to help.
+#### Mr. Paperclip is trying to help.
 
 ![Mr Paperclip](/img/posts/2017-02-14-oneirontology-engineering-cultural-touchstones-for-mythos/mr-paperclip.jpg)
 
@@ -457,23 +461,25 @@ markets they develop advertisements for. Ultimately, advertising is
 simply paying others to influence informational mappings in the minds
 of consumers and it's expensive.
 
-<a name="probabilistically-dynamical-state-machines-with-ergodic-stabalization-of-metastates" />
+<a name="dynamical-state-machines-with-ergodic-stabilization-of-metastates" />
 
-### [Dynamical State Machines with Ergodic Stabalization of Metastates](#dynamical-state-machines-with-ergodic-stabalization-of-metastates)
-
-(in context of probablistic, ergodic programs)
+### [Dynamical State Machines with Ergodic Stabilization of Metastates](#dynamical-state-machines-with-ergodic-stabilization-of-metastates)
 
 I've been working on a theory of metanomics, which describes any
 genomic system in terms of a probabilistically
 [dynamical](https://en.wikipedia.org/wiki/Dynamical_system)
 state-machine which transitions between various metastates with
-ergodic stablization. The true power of this paradigm for genomics is
+[ergodic](#) stablization. The true power of this paradigm for genomics is
 that it extends to the human mind. It is incredibly useful for
 artificial intelligence, but also for modeling, quantifying and
 predicting psychosocial cultural dynamics. In magnitude, it is the
 equivalent to Einstein's insights into relativity, but for genomics,
 cognition and the human mind ... *not that anyone will ever give me a
 fuck'n opportunity in this world.*
+
+#### Imagine a dynamical system like this, but one capable of evolving to different metastates based on system behavior and containerizing subsystems and state changes within regular structures like cells or nuclei.
+
+![Ergodic Stabalization](/img/posts/2017-02-14-oneirontology-engineering-cultural-touchstones-for-mythos/ergodic-system.gif)
 
 The insights garnered from this perspective are beautiful. The inner
 workings of genomics and the human mind begin to come into focus and
