@@ -35,78 +35,87 @@ application to the bank. Just send a thank you card or something.
 
 After investing ten minutes in this article, you too can craft your
 own belief system that will stand the test of time. Or at least
-understand how "they" did it... It all has to do with semiotics. This
-is...
+understand how "they" did it... It all has to do with semiotics.
 
-## [Design of Knowledge Systems](#design-of-knowledge-systems)
+#### This is...
 
-### [Galvanization of Indurated Belief Systems](#galvanization-of-indurated-belief-systems)
+## &#x03BB;&nbsp;&#x2665;&nbsp;([Design of Knowledge Systems](#design-of-knowledge-systems))
 
-### [Weaving on the Universal Loom of Semiotics](#weaving-on-the-universal-loom-of-semiotics)
+#### [Galvanization of Indurated Belief Systems](#galvanization-of-indurated-belief-systems)
 
-### [Information Compression in Mythos](#information-compression-in-mythos)
+#### [Weaving on the Universal Loom of Semiotics](#weaving-on-the-universal-loom-of-semiotics)
 
-# [Semiotic Mapping](#semioitic-mapping)
+#### [Information Compression in Mythos](#information-compression-in-mythos)
 
-### [Accumulating Utility, While Conserving Authenticity](#accumulating-utility-while-conserving-authenticity)
+## &#x03BB;&nbsp;&#x2665;&nbsp;([Semiotic Mapping](#semioitic-mapping))
 
-### [Survival of the Fittest](#survival-of-the-fittest)
+#### [Accumulating Utility, While Conserving Authenticity](#accumulating-utility-while-conserving-authenticity)
 
-### [The Pragmatic Traps of Church Founding and Dragon Slaying](#the-pragmatic-traps-of-church-founding-and-dragon-slaying)
+#### [Survival of the Fittest](#survival-of-the-fittest)
 
-### [Significance of Semiotics to Mythology](#significance-of-semiotics-to-mythology)
+#### [The Pragmatic Traps of Church Founding and Dragon Slaying](#the-pragmatic-traps-of-church-founding-and-dragon-slaying)
 
-### [Temporally Invariant Signs](#temporally-invariant-signs)
+#### [Significance of Semiotics to Mythology](#significance-of-semiotics-to-mythology)
 
-### [Geographically Invariant Signs](#geographically-invariant-signs)
+#### [Temporally Invariant Signs](#temporally-invariant-signs)
 
-### [Zero Point Energy from Lacuna Dynamo](#zero-point-energy-from-lacuna-dynamo)
+#### [Geographically Invariant Signs](#geographically-invariant-signs)
 
-### [Semiotics in Branding and Marketing](#semiotics-in-branding-and-marketing)
+#### [Zero Point Energy from Lacuna Dynamo](#zero-point-energy-from-lacuna-dynamo)
 
-### [Dynamical State Machines with Ergodic Stabilization of Metastates](#dynamical-state-machines-with-ergodic-stabilization-of-metastates)
+#### [Semiotics in Branding and Marketing](#semiotics-in-branding-and-marketing)
 
-### [The Metasign Symmetry is the Most Universal Sign](#the-metasign-symmetry-is-the-most-universal-sign)
+#### [Dynamical State Machines with Ergodic Stabilization of Metastates](#dynamical-state-machines-with-ergodic-stabilization-of-metastates)
 
-# [The Shepherd, a Universal Sign](#the-shepherd-a-universal-sign)
+#### [The Metasign Symmetry is the Most Universal Sign](#the-metasign-symmetry-is-the-most-universal-sign)
 
+## &#x03BB;&nbsp;&#x2665;&nbsp;([The Shepherd, a Universal Sign](#the-shepherd-a-universal-sign))
 
+#### [Jesus Was a Shepherd of Men](#jesus-was-a-shepherd-of-men)
 
+#### [The Shepherd Bodhisattva in Mahayana Buddhism](#the-shepherd-bodhisattva-in-mahayana-buddhism)
 
+## &#x03BB;&nbsp;&#x2665;&nbsp;([Semiotics of Mythology](#semiotics-of-mythology))
 
-# [Cultural Universals Are Semiotic Binding Points](#semiotic-binding-points-in-the-human-condition)
+#### [Tilings on the Astral Plane](#tilings-on-the-astral-plane)
 
-### [This Most Monumental Task of Social Engineering](#this-most-monumental-task-of-social-engineering)
+#### [And Then Jesus Turned the Water into Wine...](#and-then-jesus-turned-the-water-into-wine)
 
-### [Almos' Everes' But Never High Enough](#almos-everes-but-never-high-enough)
+## &#x03BB;&nbsp;&#x2665;&nbsp;([Cultural Universals Are Semiotic Binding Points](#semiotic-binding-points-in-the-human-condition))
 
-### [You Haven't Even Seen Our Final Form](#you-havent-even-seen-our-final-form)
+#### [This Most Monumental Task of Social Engineering](#this-most-monumental-task-of-social-engineering)
 
+#### [Almos' Everes' But Never High Enough](#almos-everes-but-never-high-enough)
 
+#### [You Haven't Even Seen Our Final Form](#you-havent-even-seen-our-final-form)
 
+#### [A Stellar Tale of Might and Magic](#a-stellar-tale-of-might-and-magic)
 
+#### [Ancient Communication Protocols and Autonomous Directives](#ancient-communication-protocols-and-autonomous-directives)
 
-### [A Stellar Tale of Might and Magic](#a-stellar-tale-of-might-and-magic)
+## &#x03BB;&nbsp;&#x2665;&nbsp;([Metrics of Semiotics](#metrics-of-semiotics))
 
-### [Ancient Communication Protocols and Autonomous Directives](#ancient-communication-protocols-and-autonomous-directives)
+#### [The Mind Has Its Own Curse of Dimensionality: Language](#the-mind-has-its-own-curse-of-dimensionality-language)
 
-# [Metrics of Semiotics](#metrics-of-semiotics)
+#### [Quantification of Semiotics for Statistical Methods](#quantification-of-semiotics-for-statistical-methods)
 
-### [The Mind Has Its Own Curse of Dimensionality: Language](#the-mind-has-its-own-curse-of-dimensionality-language)
+#### [Zipf's Distribution And Semiotics](#zipfs-distribution-and-semiotics)
 
-### [Quantification of Semiotics for Statistical Methods](#quantification-of-semiotics-for-statistical-methods)
+#### [Interlingual Semantic Dissonance](#interlingual-semantic-dissonances)
+
+#### [Humanity's Semiotic Graph Converges Towards the Universal Semiotic Graph](#humanitys-semiotic-graph-converges-towards-the-universal-semiotic-graph)
+
+#### [Quantification of Semiotics for Statistical Methods](#quantification-of-semiotics-for-statistical-methods)
+
+#### [The Mind Has Its Own Curse of Dimensionality: Language](#the-mind-has-its-own-curse-of-dimensionality-language)
+
+#### [Quantification of Semiotics for Statistical Methods](#quantification-of-semiotics-for-statistical-methods)
 
 ### [Zipf's Distribution And Semiotics](#zipfs-distribution-and-semiotics)
 
 ### [Interlingual Semantic Dissonance](#interlingual-semantic-dissonances)
 
 ### [Humanity's Semiotic Graph Converges Towards the Universal Semiotic Graph](#humanitys-semiotic-graph-converges-towards-the-universal-semiotic-graph)
-
-### [Quantification of Semiotics for Statistical Methods](#quantification-of-semiotics-for-statistical-methods)
-
-### [The Mind Has Its Own Curse of Dimensionality: Language](#the-mind-has-its-own-curse-of-dimensionality-language)
-
-### [Quantification of Semiotics for Statistical Methods](#quantification-of-semiotics-for-statistical-methods)
 
 ![Jormungand](/img/posts/2017-02-14-oneirontology-engineering-cultural-touchstones-for-mythos//jormungand.jpg)
 
@@ -626,17 +635,9 @@ Oneirontology's understanding of reincarnation.
 
 How do you know what symbols to choose? Generally, universal
 recognition trumps everything else, but there are many universally
-relevant signs to weave into. Some examples:
+relevant signs to weave into. 
 
-#### &#x2065; Water
-
-#### &#x2065; Food
-
-#### &#x2065; Sleep
-
-#### &#x2065; Hunger
-
-#### &#x2065; Greed
+#### Some Examples: Water, Food, Sleep, Hunger, Greed
 
 What are the best ways to tile these ideas in people's heads? Is it
 advantageous to desire a consistent typology in your followers' forms
@@ -648,7 +649,14 @@ of belief-forms? This problem is important because viable belief
 systems require degrees of heterogeneity in belief-forms. A completely
 homogenous distribution of belief-forms within followers would fail.
 
-###
+<a name="and-then-jesus-turned-the-water-into-wine" />
+
+### [And Then Jesus Turned the Water into Wine...](#and-then-jesus-turned-the-water-into-wine)
+
+My apologies for the religious quote out of context, but there is
+great power in religion's ability to shape the minds of believers and
+to disregard this is to disempower oneself while disregarding
+psychology and sociology.
 
 #### [Psalm 42:1](http://biblehub.com/psalms/42-1.htm)
 
