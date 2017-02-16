@@ -12,7 +12,7 @@ excerpt: ""
 
 # [Semiotic Binding Points in the Human Condition](#semiotic-binding-points-in-the-human-condition)
 
-So when constructing myths, what are examples of systems of signs,
+When constructing myths, what are examples of systems of signs,
 symbols, etc? Any set of signs common to a culture, nation or region
 can be mapped to multiple meanings. This is true of a signs to a
 varying degree of frequency. Of particular interest is the propensity

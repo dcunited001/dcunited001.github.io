@@ -111,13 +111,11 @@ understand how "they" did it... It all has to do with semiotics.
 
 #### [Quantification of Semiotics for Statistical Methods](#quantification-of-semiotics-for-statistical-methods)
 
-### [Zipf's Distribution And Semiotics](#zipfs-distribution-and-semiotics)
+#### [Zipf's Distribution And Semiotics](#zipfs-distribution-and-semiotics)
 
-### [Interlingual Semantic Dissonance](#interlingual-semantic-dissonances)
+#### [Interlingual Semantic Dissonance](#interlingual-semantic-dissonances)
 
-### [Humanity's Semiotic Graph Converges Towards the Universal Semiotic Graph](#humanitys-semiotic-graph-converges-towards-the-universal-semiotic-graph)
-
-![Jormungand](/img/posts/2017-02-14-oneirontology-engineering-cultural-touchstones-for-mythos//jormungand.jpg)
+#### [Humanity's Semiotic Graph Converges Towards the Universal Semiotic Graph](#humanitys-semiotic-graph-converges-towards-the-universal-semiotic-graph)
 
 The argument over the Hegelian and Marxist Dialectics presents itself
 at the center of the struggle over the metaphysical. Marxists seem to
@@ -137,15 +135,15 @@ Then they show you
 where he essentially dictated the Marxist dialectic to the USSR and
 acted like he was a philosopher.
 
-The struggle over the dialectic and it's implications for philosophy,
-atheism and the meaning behind life is why studying semiotics and
-linguistics is so important. Signs and language are like reified
-metaphysical concepts that managed to pierce through the
-[Veil of Isis](https://en.wikipedia.org/wiki/Veil_of_Isis).
-
 <a name="the-struggle-is-real" />
 
 ### [The Struggle is Real](#the-struggle-is-real)
+
+The struggle over the dialectic and it's implications for philosophy,
+atheism and the meaning behind life is why studying semiotics and
+linguistics is so important. Signs and language are like reified
+metaphysical concepts that have managed to pierce through the
+[Veil of Isis](https://en.wikipedia.org/wiki/Veil_of_Isis).
 
 The struggle over the Hegelian and Marxist dialectic determines what
 came first: physics or metaphysics. What is the true origination of
@@ -174,9 +172,17 @@ with a thousand eyes and ears.
 
 # [Design of Knowledge Systems](#design-of-knoweldge-systems)
 
-As I see it, the truth is that neither the physical or metaphysical
-can exist independently and are cyclically interdependent for whatever
-reason.
+The truth is that neither the physical or metaphysical can exist
+independently and are cyclically interdependent for whatever
+reason. If one is forced to pick one that is "higher" in the
+dependency graph of physical or metaphysical, the answer is that the
+physical and all of the metaphysical emerges from the
+[kernel](https://en.wikipedia.org/wiki/Kernel_(linear_algebra) of the
+metaphysical that Oneirontology calls the Origin of Semiotics. That
+is, the whole of the universe and all the metaphysical layered on top
+of it emerges from math itself.
+
+![Jormungand](/img/posts/2017-02-14-oneirontology-engineering-cultural-touchstones-for-mythos//jormungand.jpg)
 
 <a name="galvanization-of-indurated-belief-systems" />
 
@@ -220,7 +226,7 @@ semiotic pointers.
 
 #### Hello. There are some who call me Tim. I'm not sure why. That's not actually my name.
 
-![There are some who call me Tim](/img/posts/2017-02-14-oneirontology-engineering-cultural-touchstones-for-mythos/there-are-some-who-call-me-tim.jpg)
+![There are some who call me Tim](/img/posts/2017-02-14-oneirontology-engineering-cultural-touchstones-for-mythos/there-are-some-who-call-me-tim.png)
 
 Is this a skill? Is this a kind of knowledge in itself? And if so,
 what is the basis of this skill of knowledge perpetuation? What are
