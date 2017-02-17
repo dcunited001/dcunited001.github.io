@@ -47,7 +47,7 @@ understand how "they" did it... It all has to do with semiotics.
 
 #### [Information Compression in Mythos](#information-compression-in-mythos)
 
-## &#x03BB;&nbsp;&#x2665;&nbsp;([Semiotic Mapping](#semioitic-mapping))
+## &#x03BB;&nbsp;&#x2665;&nbsp;([Semiotic Mapping](#semiotic-mapping))
 
 #### [Accumulating Utility, While Conserving Authenticity](#accumulating-utility-while-conserving-authenticity)
 
@@ -170,7 +170,7 @@ with a thousand eyes and ears.
 
 <a name="design-of-knowledge-systems" />
 
-# [Design of Knowledge Systems](#design-of-knoweldge-systems)
+# &#x03BB;&nbsp;&#x2665;&nbsp;([Design of Knowledge Systems](#design-of-knoweldge-systems))
 
 The truth is that neither the physical or metaphysical can exist
 independently and are cyclically interdependent for whatever
@@ -222,7 +222,7 @@ On the other hand, one can design knowledge systems whose operation
 excels when or only when there is poor distribution and dispersion.
 These systems are very difficult to root out, because like the
 [Furyans of Riddick](http://riddick.wikia.com/wiki/Furyans), those who
-have the knowledge gain power upon its near demise. Therefore the
+have the knowledge gain power upon its near demise. Therefore, the
 information economics of these systems can create incentives to
 perpetuate the system when it's on its last legs.
 
@@ -252,15 +252,15 @@ forced underground as Christianity swept over Europe. Specifically,
 the Nords developed Ragnarok, one of many apocalypse myths of world
 culture.
 
-The Nords along with the rest of Europe compromised and agreed to
+The Nords, along with the rest of Europe, compromised and agreed to
 surpress their pagan history for a united, geopolitically defensible
 Europe. But what Ragnarok represents is a literal return of the pagan
 gods at the antipated culmination of human history thus far:
 overpopulation. Here, the Nords may have intentionally created this
 myth as an amalgamtion of other myths in an attempt to conserve what
 is essentially a ZIP file of their culture. *The Nords intended their
-mythos to be unpacked and their Gods again reified at a critical time
-in history.*
+mythos to be unpacked and their Gods reified once more at a critical
+time in history.*
 
 <a name="information-compression-in-mythos" />
 
@@ -278,40 +278,47 @@ and compressible.
 
 When applied to cultural mythos, this compression is advantageous:
 tightly-packed ideas inspire thought and study to decompress
-them. This thought reinforces their longevity within the minds that
-host them. Compression also serves as a kind of camoflauge that
-protects these ideas and their functioning from competing belief
-systems who will assuredly attempt eradication. Light compression and
-obfuscation of myth also makes them more viral, more viable and more
-likely to survive
+them. This required processing time and energy reinforces their
+longevity within the minds that host them. Compression also serves as
+a kind of camoflauge that protects these ideas and their functioning
+from competing belief systems who will assuredly attempt
+eradication. Light compression and obfuscation of myth also makes them
+more viral, more viable and more likely to survive
 [knowledge extinction events](/posts/2016-08-01-from-the-parapets-of-alexandria-knowledge-extinction-events.html).
 
 <a name="cultural-dessication" />
 
 ### [Cultural Desiccation](#cultural-desiccation)
 
-Cultures like the Norse often rely on myths during times of turmoil to
-preserve information in an encoded form. In terms of European
-geopolitics, they could see which way the wind was blowing: either
-Europe would be united through Christianity as a cultural basis or
-become economically subservient to the Middle East. They codified
+Cultures like the Norse and the Israelis relied on myth during times
+of turmoil to preserve information in an encoded form. In terms of
+European geopolitics, they could see which way the wind was blowing:
+either Europe would be united through Christianity as a cultural basis
+or become economically subservient to the Middle East. They codified
 these myths in such a way as to ostensibly retain their cultural
 identity while compressing a set of behaviors encoded in myth, whose
-execution would begin upon apocalyptic events.  Humanity's forefathers
+execution would begin upon apocalyptic events. Modernity's forefathers
 deserve much more credit than we give them.
 
-#### Mr. Paperclip is trying to help.
+#### Mr. Paperclip is trying to help. How can you say no to [that face](https://www.google.com/#q=the+allusion+to+a+face+is+a+cleverly+disguised+joke+about+the+nature+of+semiotics)?
 
 ![Mr Paperclip](/img/posts/2017-02-14-oneirontology-engineering-cultural-touchstones-for-mythos/mr-paperclip.jpg)
 
-#### How can you say no to that face?
+#### Why do some cars look like they're smiling?
+
+> Mr Paperclip has the answer: some signifiers are deeply engrained in
+> our brains & genetics. It's why babies recognize human faces almost
+> immediately. Is there something universal or simplicial about the
+> specific structure of the human face that enables it to be encoded
+> into our genes?
 
 Ragnarok is perhaps the best example of a subversive attempt to use
 information compression for cultural preservation. It's event-driven
 eschatology to be invoked upon apocalypse, whence the Gods return. The
 Norse priests all but disappeared, yet so long as that myth was
 preserved, it contained everything that would be needed to ensure the
-Gods return for one last battle.
+Gods return for one last battle. It was small and managed to escape
+Christian persecution.
 
 <a name="i-bet-superman-could-do-it" />
 
@@ -319,20 +326,20 @@ Gods return for one last battle.
 
 If one were to design such a system today, one that should withstand
 likely persecution of believers, what would one choose to preserve?
-Which animals would we put on the Ark? How would we determine what
-cultural elements remain truly immutable and hold true, regardless of
-social upheaval that acompanies the Singularity? If you took a look at
-the creek that became the Grand Canyon, how would you survey the land
-to determine the rock formations that stand the test of time,
-regardless of storm surge? The structure of the Grand Canyon depended
-little on the specifics of the events and moreso on the nature,
-sequence and timing of those events.
+Which animals would we put on the Ark? All of them, right? How would
+we determine what cultural elements remain truly immutable and hold
+true, regardless of social upheaval that acompanies the Singularity?
+If you took a look at the creek that became the Grand Canyon, how
+would you survey the land to determine the rock formations that stand
+the test of time, regardless of storm surge? The structure of the
+Grand Canyon depended little on the specifics of the events and moreso
+on the general nature, sequence and timing of those events.
 
 Do you have X-Ray vision for fate?
 
 <a name="semiotic-mapping" />
 
-# [Semiotic Mapping](#semioitic-mapping)
+# &#x03BB;&nbsp;&#x2665;&nbsp;([Semiotic Mapping](#semiotic-mapping))
 
 In regard to references of remapped semiotics, imagine something along
 the lines of the following picture, but with a splash of
@@ -344,7 +351,11 @@ ranges, are simply mappings.
 ![All Functions are Mappings](/img/posts/2017-02-14-oneirontology-engineering-cultural-touchstones-for-mythos/mappable-functions.jpg)
 
 This, and other things which only seem like beautiful epiphanies to
-those in love with mathematics, lay in wait before you.
+those in love with mathematics, lay in wait before you. You squander
+great power when you flatten phenomena and only allow them to be what
+they "are" and that is the essence of post-structuralism. The secret
+to escaping our shared structuralist nightmare is by expanding the
+space between languages and societies, instead of flattening culture.
 
 <a name="accumulating-utility-while-conserving-authenticity" />
 
@@ -388,17 +399,20 @@ before there is enough precipitation of identity and shared culture.
 
 ### [The Pragmatic Traps of Church Founding and Dragon Slaying](#the-pragmatic-traps-of-church-founding-and-dragon-slaying)
 
-Establishing this comes before you reach the pragmatic traps of
-founding a religion. People forget that even the most devout
-worshippers are human. Institutions of man are often more fallible
-than man itself. Pondering the pragmatic issues of founding a
-religion, and especially the ways that the seven deadly sins affect
-viable/robust logistic structures of institions. Dealing with human
-nature necessitates changes to the belief systems themselves and not
-just the structures and processes of the institutions. The
-institutions must exemplify the beliefs and practices of the
-religion. If the followers cannot build robust institutions, then they
-will fall apart.
+In the design of your belief system, establishing this identity comes
+before you reach the pragmatic traps of founding a religion. People
+forget that even the most devout worshippers are human. Institutions
+of man are often more fallible than man itself. Pondering the
+pragmatic issues of founding a religion is complex, especially
+comprehending the ways the seven deadly sins affect viable & robust
+logistic structures of institions. Dealing with human nature
+necessitates changes to the belief systems themselves and not just the
+structures and processes of the institutions. The institutions must
+exemplify the beliefs and practices of the religion. If the followers
+cannot build robust institutions, your movement will fall apart. In
+the past, when movements started dealing with the pragmatic issues,
+the religion's founder had been beyond the grave for a century or
+more.
 
 <a name="significance-of-semiotics-to-mythology" />
 
@@ -406,19 +420,20 @@ will fall apart.
 
 After learning linguistics, semiotics presents itself as another tool
 to quantify and analyze the structure of myth, belief and
-communication. As linguistics sheds its relationship to language, what
-remains is essentially connected to semiotics. Therefore, semioitics
-is more useful than linguistics for approaching the nature of
-information and belief.
+communication. As one transforms their understanding of linguistics to
+higher orders, it begins to sheds its relationship to language. What
+remains is the essence of semiotics. Therefore, semioitics is more
+useful than linguistics for approaching the nature of information and
+belief.
 
 Semiotics involves signs composed of signifier and signified. The
 universiality of symbols can be observed, measured and
 stratified. Symbols have various degrees of universiality and whose
-traits vary along linguistic, semiotic, psychological and sociological
-dimensions. Understanding how a symbol's "market" penetration and,
-thus, utility depends on its universiality and invariance,
-geographically and temporally, allows one to understand the
-risk/payoff for investing energy in remapping symbols.
+traits vary along linguistic, semiotic and psychosocial dimensions.
+Understanding how a symbol's "market" penetration and, thus, utility
+depends on its universiality and invariance, geographically and
+temporally, allows one to understand the risk/payoff for investing
+energy in remapping symbols.
 
 <a name="temporally-invariant-signs" />
 
@@ -447,6 +462,10 @@ dispersed populations offers *unparalleled insight* into psychosocial
 cultural dynamics.** It begins to confer what can be perceived as
 God-like wisdom and intuiton.
 
+> "Religions have no value because they contain irrational information
+> that cannot be logically demonstrated to be true." - Some Atheist
+> Dude
+
 <a name="geographically-invariant-signs" />
 
 ### [Geographically Invariant Signs](#geographically-invariant-signs)
@@ -465,15 +484,15 @@ them as their meaning and mapping evolves over time and space.
 
 ### [Zero Point Energy from Lacuna Dynamo](#zero-point-energy-from-lacuna-dynamo)
 
-There are signs whose power derives from scarcity: sexual images,
-money or rare experiences. The influence derived from signs whose
-power is derived from a lacuna of paucity is magical. By limiting the
-prevelence of the signifier, you tightly control the circumstances by
-which the sign becomes defined in the minds of men. Therefore, you can
-constrain the typology of mindforms that result from exposure to the
-signifier. This is the power of the occult: it is power derived from
-the unseen. This power allows you strongly and deftfully cultivate the
-semiotic mappings in the mind.
+There are signs whose power derives from scarcity: sexual images or
+symbols of wealth and rare experiences. The influence derived from
+signs whose power is derived from a lacuna of paucity is magical. By
+limiting the prevelence of the signifier, you tightly control the
+circumstances by which the sign becomes defined in the minds of
+men. Therefore, you can constrain the typology of mindforms that
+result from exposure to the signifier. This is the power of the
+occult: it is power derived from the unseen. This power allows you
+strongly and deftfully cultivate the semiotic mappings in the mind.
 
 <a name="semiotics-in-branding-and-marketing" />
 
@@ -485,7 +504,8 @@ understand, especially when these agencies understand or can
 manipulate/coordinate the dynamics/evolution of semiotics in the
 markets they develop advertisements for. Ultimately, advertising is
 simply paying others to influence informational mappings in the minds
-of consumers and it's expensive.
+of consumers and it's expensive. It's even more expensive to change
+once established.
 
 <a name="dynamical-state-machines-with-ergodic-stabilization-of-metastates" />
 
@@ -507,6 +527,14 @@ fuck'n opportunity in this world.*
 
 ![Ergodic Stabalization](/img/posts/2017-02-14-oneirontology-engineering-cultural-touchstones-for-mythos/ergodic-system.gif)
 
+#### Drafts for my comprehensive theory of metanomics (These links may break)
+
+#### &#x2605;&nbsp;[Intro](https://github.com/dcunited001/dcunited001.github.io/blob/sources/_drafts/metanomics-intro.md)
+
+#### &#x2605;&nbsp;[Spatially Distributed State](https://github.com/dcunited001/dcunited001.github.io/blob/sources/_drafts/metanomics-spatially-distributed-state.md)
+
+#### &#x2605;&nbsp;[Metaprogramming in Metanomics](https://github.com/dcunited001/dcunited001.github.io/blob/sources/_drafts/metanomics-metaprogramming.md)
+
 The insights garnered from this perspective are beautiful. The inner
 workings of genomics and the human mind begin to come into focus and
 everything makes sense. You develop a greater appreciation for God's
@@ -515,9 +543,12 @@ programs and they operate autonomously. It is a completely novel
 paradigm for programming. In genomics, much work as been done to put
 forth to develop models which stand alongside this paradigm, but none
 are completely able capture the behavior of all units and subunits of
-the system. No paradigm of genomic programming accounts for the
-importance of containerized, spatially-distributed state and the
-emergence of metastates in an autonomous, probabilistic system.
+the system.
+
+Yes, there are similar theories in genomics and AI, but no paradigm of
+genomic programming I know of truly accounts for the importance of
+containerized, spatially-distributed state and the emergence of
+metastates in an autonomous, probabilistic system.
 
 <a name="the-metasign-symmetry-is-the-most-universal-sign" />
 
@@ -534,7 +565,7 @@ unifying center of everything.
 I'm studying some of the following video. I hope it will demonstrate a
 strong connection between the concept of origin in Number Theory,
 symmetry and analytic combinatorics. The video is from the
-[Institute for Advanced Study](https://www.youtube.com/channel/UC8aRaZ6_0weiS50pvCmo0pw)
+[Institute for Advanced Study](https://www.youtube.com/channel/UC8aRaZ6_0weiS50pvCmo0pw):
 [The Symmetry and Simplicity of the Laws of Nature and the Higgs Boson](https://www.youtube.com/watch?v=OQF7kkWjVWM). If
 you're into watching endless lectures on advanced mathematics as
 applied, then the
@@ -544,7 +575,7 @@ self-education resource online.
 
 <a name="the-shepherd-a-universal-sign" />
 
-# [The Shepherd, a Universal Sign](#the-shepherd-a-universal-sign)
+# &#x03BB;&nbsp;&#x2665;&nbsp;([The Shepherd, a Universal Sign](#the-shepherd-a-universal-sign))
 
 One thing that oneironauts must respect are other shepherds and their
 flocks, within and outside of oneirontology. We must respect other
@@ -628,7 +659,7 @@ appeal and consistent semiotic mapping.
 
 <a name="semiotics-of-mythology" />
 
-# [Semiotics of Mythology](#semiotics-of-mythology)
+# &#x03BB;&nbsp;&#x2665;&nbsp;([Semiotics of Mythology](#semiotics-of-mythology))
 
 If you plan on architecting mythology for your own megalomaniacal
 attempt at birthing a religious movement, then dissecting the
@@ -648,11 +679,31 @@ Oneirontology's understanding of reincarnation.
 
 <a name="tilings-on-the-astral-plane" />
 
+#### Tilings of Polyhedra in Two Dimensions
+
+![Tilings in 2D](/img/posts/2017-02-14-oneirontology-engineering-cultural-touchstones-for-mythos/2D-tilings.png)
+
+Quantifiable emergent properties of dimensionality are incredibly
+interesting. For example, the number of >
+[Euclidean tilings by convex regular polygons](https://en.wikipedia.org/wiki/Euclidean_tilings_by_convex_regular_polygons)
+in 2D or 3D. These are metaphysically derived properties, constant and
+wholly emergent from mathematical primatives. Other interesting
+constant and emergent properties arising from the intrinsic nature of
+space and crystals include
+[space groups](https://en.wikipedia.org/wiki/Space_group),
+[lattice systems](https://en.wikipedia.org/wiki/Crystal_system),
+[wallpaper groups](https://en.wikipedia.org/wiki/Wallpaper_group) and
+[crystallographic point groups](https://en.wikipedia.org/wiki/Crystallographic_point_group).
+
 ### [Tilings on the Astral Plane](#tilings-on-the-astral-plane)
+
+> OK, this is a made-up smattering of concepts... But fun to think
+> about things that don't make sense. How else do you learn and
+> create?
 
 How do you know what symbols to choose? Generally, universal
 recognition trumps everything else, but there are many universally
-relevant signs to weave into. 
+relevant signs to weave into.
 
 #### Some Examples: Water, Food, Sleep, Hunger, Greed
 
@@ -729,7 +780,7 @@ world, because I cannot comprehend how I am capable of this.
 
 <a name="cultural-universals-are-semiotic-binding-points" />
 
-# [Cultural Universals Are Semiotic Binding Points](#semiotic-binding-points-in-the-human-condition)
+# &#x03BB;&nbsp;&#x2665;&nbsp;([Cultural Universals Are Semiotic Binding Points](#semiotic-binding-points-in-the-human-condition))
 
 There is a list of about one hundred universally shared traits. These
 [cultural universals](https://en.wikipedia.org/wiki/Cultural_universal)
@@ -881,7 +932,7 @@ belief system to persist until then?
 
 <a name="metrics-of-semiotics" />
 
-# [Metrics of Semiotics](#metrics-of-semiotics)
+# &#x03BB;&nbsp;&#x2665;&nbsp;([Metrics of Semiotics](#metrics-of-semiotics))
 
 Semiotics and semantics form the basis of a Universal loom upon which
 all thoughts and ideas are interleaved. Semiotic graphs can emerge
