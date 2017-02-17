@@ -5,7 +5,11 @@ tags: "oneirontology religion semiotics linguistics"
 headline: ""
 author:
   name: "David Conner"
-excerpt: ""
+excerpt: "
+How does one become familiar with different systems of knowledge and
+culture perpetuation? Like Merlin and the druids of Celt, one accrues
+this knowledge over time, by learning to weave ideas and their
+semiotic pointers."
 ---
 
 > Heads up: this article contains hot fire. Ne Touchez Pas! If
