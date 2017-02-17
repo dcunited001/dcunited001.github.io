@@ -390,7 +390,7 @@ update the package of myths today so that ideas remain readily
 consumable and relevant no matter what happens tomorrow?
 
 Too much flexibility and you end up with offshoot organizations. While
-these allow the religion to more flexibility and freedom, these
+these allow the religion more flexibility and freedom, these
 ultimately reduce capacity for the religion's social institutions to
 benefit society. There is more risk when movements branch outwards
 before there is enough precipitation of identity and shared culture.
@@ -430,7 +430,7 @@ Semiotics involves signs composed of signifier and signified. The
 universiality of symbols can be observed, measured and
 stratified. Symbols have various degrees of universiality and whose
 traits vary along linguistic, semiotic and psychosocial dimensions.
-Understanding how a symbol's "market" penetration and, thus, utility
+Understanding how a symbol's "market" penetration, and thus utility,
 depends on its universiality and invariance, geographically and
 temporally, allows one to understand the risk/payoff for investing
 energy in remapping symbols.
@@ -451,7 +451,7 @@ signified.
 
 Temporal variance in semiotic mappings can have each linear, cyclical,
 generational and developmental dynamics associated with
-them. Especially in the context of modernization and globaliztion,
+them. Especially in the context of modernization and globalization,
 signs across the world are undergoing constant flux in how they are
 mapped and in their degree of penetration. There are signs which only
 develop or change in significance once someone reaches a certain age
@@ -523,7 +523,7 @@ equivalent to Einstein's insights into relativity, but for genomics,
 cognition and the human mind ... *not that anyone will ever give me a
 fuck'n opportunity in this world.*
 
-#### Imagine a dynamical system like this, but one capable of evolving to different metastates based on system behavior and containerizing subsystems and state changes within regular structures like cells or nuclei.
+#### Imagine a dynamical system like this, but one capable of evolving to different metastates based on system behavior and capable of containerizing subsystems and state changes within regular structures like cells or nuclei.
 
 ![Ergodic Stabalization](/img/posts/2017-02-14-oneirontology-engineering-cultural-touchstones-for-mythos/ergodic-system.gif)
 
@@ -545,8 +545,8 @@ forth to develop models which stand alongside this paradigm, but none
 are completely able capture the behavior of all units and subunits of
 the system.
 
-Yes, there are similar theories in genomics and AI, but no paradigm of
-genomic programming I know of truly accounts for the importance of
+Yes, there are similar theories in genomics and AI, but AFAIK no
+paradigm of genomic programming truly accounts for the importance of
 containerized, spatially-distributed state and the emergence of
 metastates in an autonomous, probabilistic system.
 
@@ -581,11 +581,11 @@ One thing that oneironauts must respect are other shepherds and their
 flocks, within and outside of oneirontology. We must respect other
 traditions, being especially careful not to pull their sheep away. We
 are a tradition whose missions include restoring general religious
-faith in humanity. It will not help us to pull others away from
-another tradition. It will only hurt us. We want to work to restore
-the perceived value of religion in humanity and doing so does not
-require evangelism. We are non-evangelistic and this tradition will
-not work for many people.
+faith in humanity. It will not help us to pull others away from other
+traditions. It will only hurt us. We want to work to restore the
+perceived value of religion and doing so does not require evangelism.
+We are non-evangelistic and this tradition will not work for many
+people.
 
 <a name="jesus-was-a-shepherd-of-men" />
 
@@ -596,19 +596,17 @@ carpenter, but also a shepherd of men. The shepherd was a well known
 through out the middle east and other adjacent areas. Especially in
 Judeo-Christian traditions, the shepherd forms the basis of a partial
 pattern language, whereby the shepherd and the sheep in his flock
-become signs that can be used to figuratively convey meaning that
-simple words cannot. Using metaphor enables the belief system to
-tightly couple itself to the core of the minds of followers in a way
-that pure rationalism and logic cannot.
+become signs used to figuratively convey meaning that simple words
+cannot. Using metaphor enables the belief system to tightly couple
+itself to the core of the minds of followers in a way that pure
+rationalism and logic cannot.
 
 The symbol of the shepherd is one that was universally recognized by
-everyone during the time of the Buddha and Jesus. As a sign with wide
-penetration, it is one which whose....
-
-The shepherd was a humble role in society, where one
-person was entrusted with ensuring the safety and vitality of a
-flock. I imagine that, in most cases, this livestock was an asset that
-belonged to someone else. (TODO: ???)
+everyone during the time of the Buddha and Jesus. As a
+widely-recognized sign, the shepherd was a humble role in society,
+where one person was entrusted with ensuring the safety and vitality
+of a flock. I imagine that, in most cases, this livestock was an asset
+that belonged to someone else.
 
 A shepherd might operate differently in various regions, but many
 aspects of their responsibilities and livelihood that were shared by
@@ -624,7 +622,7 @@ livestock. A shepherd must fend off threats to the livestock. A
 shepherd can manage his flock to feed it well or feed it poorly. In
 the longterm, this can lead to a healthy flock or one that is
 malnourished. Today, the shepherd is also a well known symbol in
-several major world religions. it's present in Judaism, in
+several major world religions. It's present in Judaism, in
 Christianity, in Buddhism, in Islam, and to a limited degree in
 Zoroastrianism. Why? Because all religions have, intentionally or not,
 piggybacked on these semiotic mappings to increase the penertrability
@@ -654,8 +652,8 @@ attainment of buddhahood through countless lives of reincarnation.
 
 The symbol of the shepherd is one that appears in at least four major
 religions. It's not a coincidence. The sign of the shepherd is used as
-a basis for pattern languages, which is fueled by its universival
-appeal and consistent semiotic mapping.
+a basis for pattern languages, which is fueled by its universal appeal
+and consistent semiotic mapping.
 
 <a name="semiotics-of-mythology" />
 
@@ -672,19 +670,32 @@ will ever stand a chance. You must architect your myths by
 interleaving them with this most foundational map of semiotics: the
 astral plane.
 
-Check out
-[this draft](https://github.com/dcunited001/dcunited001.github.io/blob/sources/_drafts/5000bc-reincarnation.md)
-on reincarnation and the astral plane if you want to know more about
-Oneirontology's understanding of reincarnation.
+> Check out
+> [this draft](https://github.com/dcunited001/dcunited001.github.io/blob/sources/_drafts/5000bc-reincarnation.md)
+> on reincarnation and the astral plane if you want to know more about
+> Oneirontology's understanding of reincarnation.
 
 <a name="tilings-on-the-astral-plane" />
+
+### [Tilings on the Astral Plane](#tilings-on-the-astral-plane)
+
+How do you know what symbols to choose? Generally, universal
+recognition trumps everything else, but there are many universally
+relevant signs to weave into.
+
+#### Some Examples: Water, Food, Sleep, Hunger, Greed
+
+Emergent properties from Oneirontology's definition of the Astral
+Plane should lead to antipatterns and design patterns for belief
+systems. Oneirontology is searching for highly resonoant consciousness
+crystallization.
 
 #### Tilings of Polyhedra in Two Dimensions
 
 ![Tilings in 2D](/img/posts/2017-02-14-oneirontology-engineering-cultural-touchstones-for-mythos/2D-tilings.png)
 
 Quantifiable emergent properties of dimensionality are incredibly
-interesting. For example, the number of >
+interesting. For example, the number of
 [Euclidean tilings by convex regular polygons](https://en.wikipedia.org/wiki/Euclidean_tilings_by_convex_regular_polygons)
 in 2D or 3D. These are metaphysically derived properties, constant and
 wholly emergent from mathematical primatives. Other interesting
@@ -694,18 +705,6 @@ space and crystals include
 [lattice systems](https://en.wikipedia.org/wiki/Crystal_system),
 [wallpaper groups](https://en.wikipedia.org/wiki/Wallpaper_group) and
 [crystallographic point groups](https://en.wikipedia.org/wiki/Crystallographic_point_group).
-
-### [Tilings on the Astral Plane](#tilings-on-the-astral-plane)
-
-> OK, this is a made-up smattering of concepts... But fun to think
-> about things that don't make sense. How else do you learn and
-> create?
-
-How do you know what symbols to choose? Generally, universal
-recognition trumps everything else, but there are many universally
-relevant signs to weave into.
-
-#### Some Examples: Water, Food, Sleep, Hunger, Greed
 
 What are the best ways to tile these ideas in people's heads? Is it
 advantageous to desire a consistent typology in your followers' forms
@@ -741,10 +740,10 @@ and pariahs. The downtrodden see something in Christianity that
 resonates with them.
 
 This is a great example of semiotic remapping and one that enabled the
-outcast Christians of the Early Church to swell with pride at the
+outcast Christians of the early Church to swell with pride at the
 sacrifices they made for their belief system. Replacing physical
 hunger for spiritual hunger piggybacks on the universally relevant
-condition of hunger. It made the early church more likely to tolerate
+condition of hunger. It made the early Church more likely to tolerate
 the hard times. Instead of being disrupted by group suffering, they
 used it as a means to become close.  Therefore, the information that
 underlies the belief system must alter the believer's understanding of
@@ -752,31 +751,32 @@ signs such that negativity is transmuted into positivity.
 
 It is unfortunate that nascent religious movements are always tempered
 by suffering. One might consider widespread suffering amongst early
-believers as an injudiciously necessary alchemical cost to congealing
-a religion and tempering its steel. The movements that manage to
-survive this galvanization process will certainly stand the test of
-time for centuries.
+believers an injudiciously necessary alchemical cost to congealing a
+religion and tempering its steel. The movements that manage to survive
+this galvanization process will certainly stand the test of time for
+centuries.
 
-I am so worried about the people who may follow me down this
-path. What drives me to move forward is that, in case I may be
-incapacitated in some way, my followers or humanity itself may have
-something left behind that ameliorates their suffering by giving them
-power through knowledge. I do not know anyone else who could ever
-attain the position in life that I have. Though people may accuse me
-of selfishly squandering what was given to me, no one can say that I
-did not try to stand up for those not fortified by posturing through
-circumstance. There are those in situations like mine who will *never*
-have the capacity to stand up and I want to ensure that I exact
-justice such that no one will ever fucking think twice about doing
-this again. I will do so peacefully and I do not care what it
-costs. As far as I can see, God is at my side, along with the entire
-world, because I cannot comprehend how I am capable of this.
+> I am so worried about the people who may follow me down this
+> path. What drives me to move forward is that, in case I may be
+> incapacitated in some way, my followers or humanity itself may have
+> something left behind that ameliorates their suffering by giving
+> them power through knowledge. I do not know anyone else who could
+> ever attain the position in life that I have. Though people may
+> accuse me of selfishly squandering what was given to me, no one can
+> say that I did not try to stand up for those not fortified by
+> posturing through circumstance. There are those in situations like
+> mine who will *never* have the capacity to stand up and I want to
+> ensure that I exact justice such that no one will ever fucking think
+> twice about doing this again. I will do so peacefully and I do not
+> care what it costs. As far as I can see, God is at my side, along
+> with the entire world, because I cannot comprehend how I am capable
+> of this.
 
-> A warning: there is much harm that can be done through semiotic
-> remapping. Since it is so unpredictable and the requisite experience
-> is almost always insufficient, great harm often accompanies even the
-> most beneficent intentions. This is a curse of both knowledge and
-> the illusion of control.
+A warning: there is much harm that can be done through semiotic
+remapping. Since it is so unpredictable and the requisite experience
+is almost always insufficient, great harm often accompanies even the
+most beneficent intentions. This is a curse of both knowledge and the
+illusion of control.
 
 <a name="cultural-universals-are-semiotic-binding-points" />
 
@@ -801,7 +801,7 @@ cultural subversion.
 
 ![Yes, another picture of Othello](/img/posts/2017-02-14-oneirontology-engineering-cultural-touchstones-for-mythos/othello.jpg)
 
-#### But I Didn't Like The Ending (╯&deg;□&deg;）╯︵ ┻━┻) ... I kid, I kid
+#### But I Didn't Like The Ending (╯&deg;□&deg;)╯︵ ┻━┻) ... I kid, I kid
 
 <a name="this-most-monumental-task-of-social-engineering" />
 
@@ -850,7 +850,7 @@ transformation into a state of neverending exponential change? The
 answer to this question is particularly important for designing a
 belief system. If the answer is the latter option, it will prove an
 unfathomablely complex challenge. In this case, it's even moreso
-important to nail down the points which never change and measure their
+important to nail down the points which never change, measuring their
 degree of unwaveringness. Only then could one hope to design a belief
 system to last a millenia after a transition into the perfect storm of
 cultural flux.
@@ -880,7 +880,7 @@ apologizes for the past: they were ignorant. Who knew?
 
 ![Absolutely Marvelous Dirt](/img/posts/2017-02-14-oneirontology-engineering-cultural-touchstones-for-mythos/monty-python-lovely-dirt.jpg)
 
-> General warning in life => everyone is smart in their own way...
+#### General warning in life => everyone is smart in their own way...
 
 Our forefathers understood that once the majority of the world were
 literate, history would become set in stone in an unprecedented
@@ -892,7 +892,7 @@ Byzantine Generals, though not in name. These problems are all about
 logistics, cost-savings in absence of information, and the minimizing
 the costs of failure when they are expensive. The solutions this
 problem are
-[Paxos](https://en.wikipedia.org/wiki/Paxos_(computer_science) and
+[Paxos](https://en.wikipedia.org/wiki/Paxos_(computer_science)) and
 [RAFT](https://raft.github.io/).
 
 <a name="ancient-communication-protocols-and-autonomous-directives" />
@@ -922,7 +922,7 @@ that is robust and resists the potential for abuse of religion? In
 alignment with the values of humanism?
 
 Theology PhD's have written dissertations on this and similar
-topics. Studying apocalyptic myth like Ragnarok is Eschatology, but
+topics. Studying apocalyptic myth like Ragnarok is eschatology, but
 there's probably a more specific label for this specific study of
 design principles in eschatology and religion. What interests me most
 is the precise information compression in eschatological works. How
@@ -946,16 +946,18 @@ concepts are hidden from purely literate communication.
 
 To enumerate a list of mappable morphemes and underlying signifiers, a
 great start is the top 500 words to learn first in any language.
-Nearly everone's mind is tightly coupled to language because we all
-think in the language we were raised with. To become familiar with
-this list of concepts and, to force your mind to escape its binding to
-language, one can study sign language while simultaneously learning a
-new language. This forces the mind to wedge an abstraction between
-language and cognition. Just sign the morphemes along with
-verbalization of the words as you're learning. It's difficult to
-quantify, but if you can do this and you speak three languages, your
-IQ just jumped 20 points. Some of the most interesting tangents in
-linguistics involve sign language.
+Nearly everone's mind is tightly coupled to language because most of
+us never break the mold of thinking in the language we were raised
+with. It's fascinating to think that we're all trapped in our minds
+and bodies, but most of us never truly learn to use them. To become
+familiar with this list of 500 concepts and, to force your mind to
+escape its binding to language, one can study sign language while
+simultaneously learning a new language. This forces the mind to wedge
+an abstraction between language and cognition. Just sign the morphemes
+along with verbalization of the words as you're learning. It's
+difficult to quantify, but if you can do this and you speak three
+languages, your IQ just jumped 20 points. Some of the most interesting
+tangents in linguistics involve sign language.
 
 #### HIS POWER LEVEL IS OVER 200!!! (not...)
 
