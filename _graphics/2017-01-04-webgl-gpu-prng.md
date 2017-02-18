@@ -38,7 +38,6 @@ author:
 - TODO: histogram to demostrate value distribution
 - TODO: GPU-friendly method of visualizing entropy and variance in
 
-
 ### Parallelized Random Number Generation in the Browser
 
 #### Yes, the Prison of Zod Effect is Intentional...
