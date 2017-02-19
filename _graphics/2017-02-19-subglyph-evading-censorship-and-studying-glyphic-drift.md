@@ -3,9 +3,14 @@ title: "Subglyph: Evading Censorship And Studying Glyphic Drift"
 categories: "graphics"
 tags: "graphics linguistics"
 headline: "Subglyph It For Great Good"
-excerpt: ""
 author:
-name: "David Conner"
+  name: "David Conner"
+excerpt: "
+As society gravitates towards virtualized communication tools, we
+asymptotically approach 100% of surveillable, indexable conversations.
+The difference between a surveillable conversation and an indexable
+converstaion is that indexing is cheap and can be automated, whereas
+surveilling conversations requires human intelligence."
 ---
 
 Subglyph is basically a one-way substitution cipher, with a twist:
@@ -43,9 +48,9 @@ ways in which they drifted across regions.
 
 ### [Communication Is Corralled Into Surveillable & Indexable Media](#communication-is-corralled-into-surveillable-and-indexable-media)
 
-As society gravitates towards virtualized communication tools, the
-closer we get to 100% of surveillable, indexable conversations. The
-difference between a surveillable conversation and an indexable
+As society gravitates towards virtualized communication tools, we
+asymptotically approach 100% of surveillable, indexable conversations.
+The difference between a surveillable conversation and an indexable
 converstaion is that indexing is cheap and can be automated, whereas
 surveilling conversations requires human intelligence.
 
@@ -69,9 +74,8 @@ serious mental health issues.
 
 No, Subglyph is not a tool one would hope to use for perfect secrecy,
 but one that provides a mask from indexing to prevent automated
-newsfeed-based censorship. That is if enough people used
-it. Otherwise, it becomes filterable in its similarity to spammy
-emails.
+newsfeed-based censorship. That is if enough people used it.
+Otherwise, it becomes filterable in its similarity to spammy emails.
 
 > Full Disclaimer: I am not a spam lord, nor do I ever plan to be. I
 > am, however, passionate in all things linguistic.
@@ -137,10 +141,12 @@ If one wanted to save their religious texts from deletion from the
 Internet Archive, they could use Subglyph to encode them before
 overlaying them on meme images and, finally, storing them on the
 archive. This ensures that the problem of data discovery is
-sufficiently hard and not too hard as with cryptography.
+sufficiently hard, but not too hard, as cryptography requires
+preservation of a key to reconstitute and can't be serendipitously
+rediscovered.
 
 > Another great idea for preserving crucial data: put a USB stick on a
-> fucking comet and let it sail out of the Oort Cloud. It would need a
+> fucking comet and let it sail out to the Oort Cloud. It would need a
 > basic solar-powered faraday cage for protection against ionizing
 > radiation.
 
