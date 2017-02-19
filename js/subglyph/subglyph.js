@@ -10,6 +10,7 @@ Subglyph = function(options) {
   this.glyphIt = function(el, options) {
     var html = el.innerHTML;
     var insideTag = false;
+    var insideEncoding = false;
 
     // memoize htmlTree into shadowDom
     // - notate status of memoization in data-subglyph of tag
@@ -19,17 +20,20 @@ Subglyph = function(options) {
       var charIsAlphanum = /[a-zA-Z0-9]/.test(char);
       var newChar = char;
 
-      if (char == '<') {
-        insideTag = true;
-      } else if (char == '>') {
-        insideTag = false;
-      } else if (charIsAlphanum) {
-        if (!insideTag) {
-          //TODO: fix to sample from dictionary by key
-          var dict = Object.keys(sg.dictionary[char]);
-          var dictIndex = Math.floor(Math.random() * dict.length);
-          newChar = dict[dictIndex];
-        }
+      switch (char) {
+        case '<': insideTag = true; break;
+        case '>': insideTag = false; break;
+        case '&': insideEncoding = true; break;
+        case ';': insideEncoding = false; break;
+        default:
+          if (charIsAlphanum) {
+            if (!(insideTag || insideEncoding)) {
+              //TODO: fix to sample from dictionary by key
+              var dict = Object.keys(sg.dictionary[char]);
+              var dictIndex = Math.floor(Math.random() * dict.length);
+              newChar = dict[dictIndex];
+            }
+          }
       }
 
       return memo + newChar;
