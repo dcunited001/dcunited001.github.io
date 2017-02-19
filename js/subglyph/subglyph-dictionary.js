@@ -472,16 +472,11 @@ var SUBGLYPH_DEFAULTS = {
   }
 };
 
-SG.defaults = SUBGLYPH_DEFAULTS;
-
 // Woops, i guess i haven't talked to a
 //   real javascript programmer in the 3 years
 //   i've lived in Roanoke MY BAD. I also haven't
 //   talked to a single person that uses Emacs.
 //module.exports.Subglyph = SG;
-
-Subglyph = SG;
-
 
 //Ǆ: 9,
 //ǅ: 9,

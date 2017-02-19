@@ -2,7 +2,6 @@
 // - otherwise it will be messy to customize with various properties
 // - transitions between can be handled with functions passed in
 
-
 function GPUComputeVar(variableName, computeFragmentShader, sizeX, sizeY, initialValueTexture, options) {
   // set size, value type (int/float), etc
   // attach callbacks with constructor?
@@ -58,7 +57,7 @@ function GPUCompute(sizeX, sizeY, renderer) {
 
   };
 
-  this.compute() = function {
+  this.compute = function() {
 
   };
 
@@ -89,14 +88,14 @@ function GPUCompute(sizeX, sizeY, renderer) {
 
   this.doRenderTarget = function(material, output) {
 
-  }
+  };
 
   function getPassThroughVertexShader() {
     return "foo";
-  }
+  };
 
   function getPassThroughFragmentShader() {
     return "bar";
-  }
+  };
 
 }
