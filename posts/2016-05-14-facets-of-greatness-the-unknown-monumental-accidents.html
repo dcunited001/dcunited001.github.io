@@ -177,8 +177,6 @@ IVVMM::::.:.:. . ... .::II:.::..:.. .. .. . . .:.:::IHH:.:HHIIHIHH':-'
     <!-- Fonts -->
     <link rel="stylesheet" href="//fonts.googleapis.com/css?family=Roboto+Condensed:300,300italic,400,400italic,700,700italic|Oswald:300,400,700">
     <link rel="stylesheet" href="//maxcdn.bootstrapcdn.com/font-awesome/4.4.0/css/font-awesome.min.css">
-    <script src="http://cdn.mathjax.org/mathjax/latest/MathJax.js?config=TeX-AMS-MML_HTMLorMML" type="text/javascript"></script>
-    <script src="/js/subglyph/subglyph.js" type="text/javascript" charset="UTF-16"></script>
 
     <!-- Styles -->
     <link rel="stylesheet" href="/css/style.css">
@@ -267,8 +265,6 @@ IVVMM::::.:.:. . ... .::II:.::..:.. .. .. . . .:.:::IHH:.:HHIIHIHH':-'
 
 
 
-
-
 <div class="title-group">
   
   <aside>What Bonsai Teaches Us About Life</aside>
@@ -295,12 +291,11 @@ IVVMM::::.:.:. . ... .::II:.::..:.. .. .. . . .:.:::IHH:.:HHIIHIHH':-'
   </aside>
   
 
-  <p class="lead">
-    
-    
-    
+  <p>
+    λ&nbsp;<i class="fa fa-heart"></i>&nbsp;(&nbsp;
+    <a href="#" id="btn-subglyph" onclick="toggleSubglyph()" data-toggle="tooltip" title="Click Me To Escape Index-Based Censorship">§µßƍŁ¥þĦ ԠƎ</a>
+    &nbsp;)
   </p>
-
 </div>
 
 
@@ -738,7 +733,6 @@ person to make a Steve jobs joke, I fucking dare you.</p>
 
 </div>
 
-
     <footer class="site-footer">
         <div class="container">
             <div class="row">
@@ -758,9 +752,30 @@ person to make a Steve jobs joke, I fucking dare you.</p>
     <script src="//maxcdn.bootstrapcdn.com/bootstrap/3.3.5/js/bootstrap.min.js"></script>
     <script src="/js/power.js"></script>
     <script src="/js/tagcanvas.min.js" type="text/javascript"></script>
+    <script src="/js/underscore.js"></script>
 
     
 
+    <script src="http://cdn.mathjax.org/mathjax/latest/MathJax.js?config=TeX-AMS-MML_HTMLorMML" type="text/javascript"></script>
+    <script src="/js/subglyph/subglyph.js" type="text/javascript"></script>
+
+    <!-- load remotely -->
+    <script src="http://te.xel.io/js/subglyph/subglyph-dictionary.js" type="text/javascript" charset="UTF-16"></script>
+
+    <script>
+      var btnSubglyph = $('#btn-subglyph');
+      btnSubglyph.tooltip();
+
+      subglyph = new Subglyph({
+        dictionary: SUBGLYPH_DEFAULTS
+      });
+
+      toggleSubglyph = function() {
+        var article = document.getElementsByTagName('article')[0];
+        var newArticleHTML = subglyph.glyphIt(article);
+        article.innerHTML = newArticleHTML;
+      }
+    </script>
     </body>
 </html>
 

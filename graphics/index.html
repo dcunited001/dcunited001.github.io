@@ -177,7 +177,6 @@ IVVMM::::.:.:. . ... .::II:.::..:.. .. .. . . .:.:::IHH:.:HHIIHIHH':-'
     <!-- Fonts -->
     <link rel="stylesheet" href="//fonts.googleapis.com/css?family=Roboto+Condensed:300,300italic,400,400italic,700,700italic|Oswald:300,400,700">
     <link rel="stylesheet" href="//maxcdn.bootstrapcdn.com/font-awesome/4.4.0/css/font-awesome.min.css">
-    <script src="http://cdn.mathjax.org/mathjax/latest/MathJax.js?config=TeX-AMS-MML_HTMLorMML" type="text/javascript"></script>
 
     <!-- Styles -->
     <link rel="stylesheet" href="/css/style.css">
@@ -266,8 +265,6 @@ IVVMM::::.:.:. . ... .::II:.::..:.. .. .. . . .:.:::IHH:.:HHIIHIHH':-'
 
 
 
-
-
 <div class="title-group">
   
 
@@ -280,12 +277,11 @@ IVVMM::::.:.:. . ... .::II:.::..:.. .. .. . . .:.:::IHH:.:HHIIHIHH':-'
   </h1>
   
 
-  <p class="lead">
-    
-    
-    
+  <p>
+    λ&nbsp;<i class="fa fa-heart"></i>&nbsp;(&nbsp;
+    <a href="#" id="btn-subglyph" onclick="toggleSubglyph()" data-toggle="tooltip" title="Click Me To Escape Index-Based Censorship">§µßƍŁ¥þĦ ԠƎ</a>
+    &nbsp;)
   </p>
-
 </div>
 
 
@@ -294,6 +290,60 @@ IVVMM::::.:.:. . ... .::II:.::..:.. .. .. . . .:.:::IHH:.:HHIIHIHH':-'
     <div class="row">
       <div class="col-md-12">
         
+        
+
+        <div class="tile">
+  
+  <div class="inner-guts">
+    <aside>
+      02.01.17
+
+      
+      
+      &middot;&nbsp;<span>Graphics</span>
+      
+      
+
+      
+      &middot;&nbsp;<span class="headline"></span>
+      
+    </aside>
+    <h2><a href="/graphics/2017-02-01-a-less-terrible-gpu-prng.html">A Less Terrible GPU PRNG With WebGL</a></h2>
+
+    <div class="excerpt">Exploration into Random Number Generation with WebGL and ThreeJS</div>
+    <a href="/graphics/2017-02-01-a-less-terrible-gpu-prng.html" class="read-more btn btn-info btn-lg">Read More <i class="fa fa-angle-right"></i></a>
+    
+  </div>
+</div>
+
+
+        
+
+        <div class="tile">
+  
+  <div class="inner-guts">
+    <aside>
+      01.08.17
+
+      
+      
+      &middot;&nbsp;<span>Graphics</span>
+      
+      
+
+      
+      &middot;&nbsp;<span class="headline"></span>
+      
+    </aside>
+    <h2><a href="/graphics/2017-01-08-brownian-motion-with-webgl-particle-shader.html">Brownian Motion with WebGL Particle Shader</a></h2>
+
+    <div class="excerpt">Exploration into Random Number Generation with WebGL and ThreeJS</div>
+    <a href="/graphics/2017-01-08-brownian-motion-with-webgl-particle-shader.html" class="read-more btn btn-info btn-lg">Read More <i class="fa fa-angle-right"></i></a>
+    
+  </div>
+</div>
+
+
         
 
         <div class="tile">
@@ -449,7 +499,6 @@ IVVMM::::.:.:. . ... .::II:.::..:.. .. .. . . .:.:::IHH:.:HHIIHIHH':-'
   </div>
 </main>
 
-
     <footer class="site-footer">
         <div class="container">
             <div class="row">
@@ -469,9 +518,30 @@ IVVMM::::.:.:. . ... .::II:.::..:.. .. .. . . .:.:::IHH:.:HHIIHIHH':-'
     <script src="//maxcdn.bootstrapcdn.com/bootstrap/3.3.5/js/bootstrap.min.js"></script>
     <script src="/js/power.js"></script>
     <script src="/js/tagcanvas.min.js" type="text/javascript"></script>
+    <script src="/js/underscore.js"></script>
 
     
 
+    <script src="http://cdn.mathjax.org/mathjax/latest/MathJax.js?config=TeX-AMS-MML_HTMLorMML" type="text/javascript"></script>
+    <script src="/js/subglyph/subglyph.js" type="text/javascript"></script>
+
+    <!-- load remotely -->
+    <script src="http://te.xel.io/js/subglyph/subglyph-dictionary.js" type="text/javascript" charset="UTF-16"></script>
+
+    <script>
+      var btnSubglyph = $('#btn-subglyph');
+      btnSubglyph.tooltip();
+
+      subglyph = new Subglyph({
+        dictionary: SUBGLYPH_DEFAULTS
+      });
+
+      toggleSubglyph = function() {
+        var article = document.getElementsByTagName('article')[0];
+        var newArticleHTML = subglyph.glyphIt(article);
+        article.innerHTML = newArticleHTML;
+      }
+    </script>
     </body>
 </html>
 

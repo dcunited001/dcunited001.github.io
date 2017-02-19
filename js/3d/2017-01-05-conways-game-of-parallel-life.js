@@ -192,8 +192,9 @@ function render() {
   if (!paused || stepThrough) {
     gameColorUniforms = transformColorUniforms(uiColorUniforms);
     gameColorVariable.material.uniforms.colorMap.value = gameColorUniforms;
-    cubeMaterial.map = gpuCompute.getCurrentRenderTarget(gameColorVariable).texture;
     gpuCompute.compute();
+
+    cubeMaterial.map = gpuCompute.getCurrentRenderTarget(gameColorVariable).texture;
     cubeMaterial.needsUpdate = true;
 
     if (stepThrough) { stepThrough = false; }

@@ -4,6 +4,8 @@ var container;
 var cam, origCamZ;
 var scene, renderer, paused = false, stepThrough = false, displayStats = true;
 
+// paused = true;
+
 // stats:
 // - visual distribution: need algorithm to sum a count over a discretized space
 //   - assuming that there is enough "space" in the target texture,
@@ -17,7 +19,13 @@ var scene, renderer, paused = false, stepThrough = false, displayStats = true;
 
 var optStatsDisplayVars = 30;
 var quadStats, geoStats, varStats, matStats, texStats;
-var quadEntropy, geoEntropy, varEntropy, texEntropy, matEntropy;
+
+var entropyDistEventOutcomes = 16.0;
+var texEntropyBool, texEntropyDist, texEntropy;
+var varEntropyBool, varEntropyDist;
+var quadEntropy, geoEntropy, varEntropy, matEntropy;
+
+var matEntropyBool;
 
 var cube, cubeSize, cubeGeo, cubeTexture, cubeMaterial;
 var cubeRotationAxis = new THREE.Vector3(0.3,0.4,0.5), cubeRotationRate = Math.PI / 5;
@@ -28,7 +36,8 @@ var startTime = new Date().getTime(),
   elapsedTime = startTime - currentTime;
 
 cubeSize = 500;
-var WIDTH = 64, HEIGHT = 64;
+//var WIDTH = 128, HEIGHT = 128;
+var WIDTH = 32, HEIGHT = 32;
 var mouseX = 0, mouseY = 0;
 var windowHalfX = window.innerWidth / 2, windowHalfY = window.innerHeight / 2;
 
@@ -62,19 +71,24 @@ function createStatsQuad(scn) {
   });
 
   quadStats = new THREE.Mesh(geoStats, matStats);
-  quadStats.position.set(0.75 * cubeSize, 0.3 * cubeSize,1);
+  quadStats.position.set(0.75 * cubeSize, 0.25 * cubeSize, 1);
   scn.add(quadStats);
 }
 
 function createEntropyQuad(scn) {
-  geoEntropy = new THREE.PlaneBufferGeometry(cubeSize, cubeSize, 4, 4);
+  geoEntropy = new THREE.PlaneBufferGeometry(0.5 * cubeSize, 0.5 * cubeSize, 4, 4);
 
   matEntropy = new THREE.MeshBasicMaterial({
-    map: texEntropy
+    //map: texEntropy
+    map: texEntropyBool
+  });
+
+  matEntropyBool = new THREE.MeshBasicMaterial({
+    map: texEntropyBool
   });
 
   quadEntropy = new THREE.Mesh(geoEntropy, matEntropy);
-  quadEntropy.position.set(0,0,1);
+  quadEntropy.position.set(0.75 * cubeSize, -0.25 * cubeSize, 1);
   scn.add(quadEntropy);
 }
 
@@ -83,12 +97,18 @@ function createGPUCompute() {
   gpuCompute = new GPUComputationRenderer(WIDTH, HEIGHT, renderer);
   texRng = gpuCompute.createTexture();
   texStats = gpuCompute.createTexture();
+  texEntropyBool = gpuCompute.createTexture(WIDTH * entropyDistEventOutcomes, HEIGHT);
+  texEntropyDist = gpuCompute.createTexture(WIDTH * entropyDistEventOutcomes, HEIGHT);
+  texEntropy = gpuCompute.createTexture();
 
   fillTextureWithRandoms(texRng);
-  fillStatsTexture(texStats);
+  //fillStatsTexture(texStats);
 
   var shaderRandoms = document.getElementById('computeShaderRandoms').textContent;
   var shaderStats = document.getElementById('shaderStats').textContent;
+  var shaderEntropyBool = document.getElementById('shaderEntropyBool').textContent;
+  var shaderEntropyDist = document.getElementById('shaderEntropyDist').textContent;
+  var shaderEntropy = document.getElementById('shaderEntropy').textContent;
 
   randomVariable = gpuCompute.addVariable("varRandom", shaderRandoms, texRng);
   randomVariable.material.uniforms.randomStepSeed = { value: Math.random() };
@@ -100,13 +120,31 @@ function createGPUCompute() {
   //   used as input to the next step. at least, it can't be done while retaining
   //   independence between random variables X, Y, and Z
 
-  var entropyNeighborhoodSize = 5;
+  var statsBallSize = 5;
   varStats = gpuCompute.addVariable("varStats", shaderStats, texRng);
   varStats.material.uniforms.showVariables = { value: 0 };
   varStats.material.uniforms.neighborhoodSize = { value: 10 };
-  varStats.material.defines.ballSize = "int(" + entropyNeighborhoodSize + ")";
-  varStats.material.defines.ballArea = "int(" + Math.pow(entropyNeighborhoodSize, 2) + ")";
+  varStats.material.defines.ballSize = "int(" + statsBallSize + ")";
+  varStats.material.defines.ballArea = "int(" + Math.pow(statsBallSize, 2) + ")";
   gpuCompute.setVariableDependencies(varStats, [randomVariable, varStats]);
+
+  varEntropyBool = gpuCompute.addVariable("varEntropyBool", shaderEntropyBool);
+  varEntropyBool.material.defines.entropyDistEventOutcomes = "float(" + entropyDistEventOutcomes + ")";
+  gpuCompute.setVariableDependencies(varEntropyBool, [randomVariable]);
+
+  varEntropyDist = gpuCompute.addVariable("varEntropyDist", shaderEntropyDist);
+  varEntropyDist.material.defines.entropyDistEventOutcomes = "float(" + entropyDistEventOutcomes + ")";
+  varEntropyDist.material.defines.ballSize = "int(" + statsBallSize + ")";
+  varEntropyDist.material.defines.ballArea = "int(" + Math.pow(statsBallSize, 2) + ")";
+  gpuCompute.setVariableDependencies(varEntropyDist, [randomVariable, varEntropyBool]);
+
+  varEntropy = gpuCompute.addVariable("varEntropy", shaderEntropy);
+  varEntropy.material.defines.entropyDistEventOutcomes = "float(" + entropyDistEventOutcomes + ")";
+  varEntropy.material.uniforms.showVariables = { value: 0 };
+  gpuCompute.setVariableDependencies(varEntropy, [randomVariable, varEntropyBool, varEntropyDist]);
+
+  //var entropyBallSize = 5;
+  //varEntropy = gpuCompute.addVariable("varEntropy", shaderEntropy)
 
   var error = gpuCompute.init();
   if ( error !== null ) {
@@ -114,16 +152,16 @@ function createGPUCompute() {
   }
 }
 
-function fillStatsTexture(tex) {
-  var texData = tex.image.data;
-
-  for (var i=0; i < texData.length; i += 4) {
-    texData[i] = 0;
-    texData[i+1] = 0;
-    texData[i+2] = 0;
-    texData[i+3] = 1;
-  }
-}
+//function fillStatsTexture(tex) {
+//  var texData = tex.image.data;
+//
+//  for (var i=0; i < texData.length; i += 4) {
+//    texData[i] = 0;
+//    texData[i+1] = 0;
+//    texData[i+2] = 0;
+//    texData[i+3] = 1;
+//  }
+//}
 
 /*
  * seeds texture with initial random data
@@ -236,14 +274,20 @@ function render() {
   cam.lookAt(scene.position);
 
   if (!paused || stepThrough) {
-    // prepare to generate randoms
     randomVariable.material.uniforms.randomStepSeed.value = Math.random();
-    cubeMaterial.map = gpuCompute.getCurrentRenderTarget(randomVariable).texture;
-
-    // prepare to generate stats
     varStats.material.uniforms.showVariables.value = optStatsDisplayVars;
-    matStats.map = gpuCompute.getCurrentRenderTarget(varStats).texture;
+    varEntropy.material.uniforms.showVariables.value = optStatsDisplayVars;
+
     gpuCompute.compute();
+
+    cubeMaterial.map = gpuCompute.getCurrentRenderTarget(randomVariable).texture;
+    matStats.map = gpuCompute.getCurrentRenderTarget(varStats).texture;
+    matEntropy.map = gpuCompute.getCurrentRenderTarget(varEntropyBool).texture;
+
+
+    // (for testing) prepare to update matEntropyBool/Dist material
+    matEntropyBool.map = gpuCompute.getCurrentRenderTarget(varEntropyBool).texture;
+
     cubeMaterial.needsUpdate = true;
 
     if (stepThrough) { stepThrough = false }
@@ -261,8 +305,8 @@ changeStatsDisplayVars();
 createRenderer();
 createGPUCompute(scene);
 createCube(scene);
-//createEntropyQuad(scene);
 createStatsQuad(scene);
+createEntropyQuad(scene);
 configureCanvas();
 animate();
 
