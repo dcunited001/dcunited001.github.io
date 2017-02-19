@@ -483,19 +483,6 @@ furthur furthermore, #EEG could be attached to an Oculus for more
 quantization ... brooooooo!!!  (EEG should probably be ... not
 included in VR eughhh)
 
-... yep, it's me and i'm at it again with my "crazy" and "delusional"
-and "totally schizophrenic mind" with all my crazy talk of ""quality
-of life improving 「ideas」i'm such an asshole, right?
-
-"fucking don't let *that guy* talk ... THAT GUY?! fuck that guy. he's
-on a list... probably all of them. always thinking all the time? what
-a fucking douchebag. that guy should be #GangsTalk3d with
-#StreetTh3ater amirite? People should be payed to positioned
-themselves around him in public to inject themselves in his social
-space to snip those possible connections..."
-
-Right? people should cash checks for doin' that to US citizens, right?
-
 ### Social Aspects
 
 - how does VR/AR change the social aspect of
