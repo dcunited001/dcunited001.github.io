@@ -1,5 +1,449 @@
+Post it notes (original post date?)
+
+### VR UI
+
+- multiple UI overlays (accessibility & help)
+  - e.g. use mostly icons for a browser-like interface, then enable a
+    "help overlay" with information and tooltips
+  - a laptop with a "mushy" 2D keyboard just feels like you are typing
+    and the keyboard interface is entirely virtualized
+    - that's a good one, it's new. i just came up with that lulz
+- virtualized UI devices w/ AR drawn on top of desk, alongside
+  physical hardware (justin mentioned an arduino w/ a keyboard and
+  touchscreen alongside hardware)
+  - true "desktop virtualization" lulz
+  - how does this affect the economics and desirable aspects of
+    furnature? j/k ... sorta
+
+- index time spent in a space at a point in virtual space
+  - or time spent where users are focused on a particular
+    object/image/brand
+    - USE FOR POWERING THE ECONOMICS OF VR/AR!!
+    - this is how one derives value from VR/AR experiences
+  - this is both applicable to: User Interface and Business
+
+- using a checkerboard as a standard surface for apps
+  - also, pocket change be used as a standard metric for
+    translating and sizing surfaces to be shared amoungst participants
+    in so-called "popup" apps (see the similarly titled section)
+
+### VR UX
+
+- 3D camera voxelized model for approximization of surroundings
+  - preprocessed in hardware and exposed to GPU as a data stream
+  - this voxelized video stream should be context aware (in hardware)
+    so that it retains data of surroundings
+    - if so, then it can patch together the experience using data
+      pieces from street view, etc
+
+- Access UI/UX w/ combinations of getsutres controlling virtualized...
+
+### VR Social
+
+- what is different here? Enough for post?
+  - read facial expressions and play games together
+  - there is more of a authentic social dimension to VR apps
+
+- VR Experiences have a stunted Social Media Network Effect
+  - **this is important for app growth aspects of social VR app**
+
+### VR Misc
+
+- Niantic is SOOOO ahead of the game when it comes to the business
+  aspects of VR/AR that it's not even funny.
+  - the business models of AR especially are built on offering data as
+    a service/convenience for other apps. **IT IS ALL WEB 3.0** (or
+    3.5)
+
+### VR/AR changes needed for Software/Hardware
+
+- (#1) really, what is needed is a wireless protocol that exposes GPU
+  and compute resources as though they were on the BUS. WE NEED
+  WIRELESS BUS SPEEDS!
+
+- GPU/Compute becomes crucial for non-graphical tasks.
+  - and must be coordinated, distributed and load-balanced across
+    disparate systems
+  - while accounting for faults, delays, prioritization
+  - THIS DRIVES DEMAIND 4 specific compute architectures
+    - which changes market dynamics for tech giants & data-driven
+      services (wut economics)
+
+- NDN + MGRS + P2P becomes very useful
+  - again, this changes market dynamics for tech giants & data-driven
+      services (wut economics)
+
+- For Some ops, 3D objects should be treated as point clouds, AND NOT
+  TRIANGLES
+- Metal/Vulkan become very useful (WHICH MOST 3D DEV'S DONT UNDERSTAND
+  AFAI CAN SEE !@#$ !$#@! $#@! $#@!)
+  - so does functional programming because it is more adaptive
+
+- Advanced geometry and pure math becomes a requisite for nearly every
+  user application!! (most people do not understand this at all)
+  - this causes VR/AR software (and particularly UI/UX) to become
+    inaccessible to people with IQ's below 150
+- OS & User Interfaces acquire a 3rd dimension
+  - and radically depart from existing form and expectation
+  - is there a 2.5D user interface paradigm?
+    - like a CSS between the 2nd and 3rd dimension
+    - this would be much less complicated than a full 3D UI/UX styling
+      language
+- Huge need for streaming 3D Node Data and optimizing: Bandwidth,
+  Time, redundancy
+- Radical changes in storage format for 3D nodes in memory
+  - memory as in each: RAM, GPU RAM, and permanent storage (network
+    accessible, tierably cached)
+
+- After 3D recognition, object data should be caced and locally
+  available (this alters the object life cycle for application
+  development and there's a huge need for a ton of software
+  development around this)
+  - system state changes should be predictably anticipated and only
+    objects dependent on observed state changes should consume
+    resources
+    - seemingly minor things like this become crucial to making AR/VR
+      humanly accessible and economically viable
+    - but these are major software development challenges
+  - internal/external "boundaries" of the system should be observed
+    - a la thermodynamics: all internal "actors" can be known and the
+      set of possible actions minimized
+      - what did i mean by this? i think it has something do do with
+        application security
+
+- everything that I've written from these post-it notes is at odds
+  with secure application development (i think)
+  - there are major trade-off's between asymtotically perfect security
+    and each of: economic viability, human accessibility,
+    configurability, reliability, portability, etc, etc, etc
+    - this is a major pain in the ass, especially because of the
+      economic viability constraints
+    - the economics of any new technology determines how that
+      technology unfolds and whether it's truly a next big thing or
+      the next big fad
+    - the expense of VR/AR hardware is going to be high and consumers
+      will get sick of such unnecessary expenses
+      - WE ABSOLUTELY DO NOT WANT VR HARDWARE TO SCALE INTO LANDFILLS
+        LIKE E.T. CARTRIDGES
+
+### VR/AR Graphics Technology
+
+- VR & AI are intrinsically linked and circularly dependendent for
+  development of practical application of either
+
+- e.g. there's a need to infer geometry from streaming video and
+  TRANSFORM. to do so in a computationally reasonable manner requires
+  contextually-aware & trained AI to recognize objects
+- game/etc use case: transform arbitrary 3D space to a specific style
+  - transform my house into a medieval castle
+  - this requires tons of category theory
+    - see notes from the videos i made
+- another game/etc idea: object recognition and transformation to
+  similary object types via dimensions of
+  shape/size/function/handlability
+- techniques similar to how the brain reconstructs its visual
+  environment (texture/shape/memory sampling to prevent reevaluating
+  all sensory data every time)
+  - separate blog: "the 'texture' of semantics"
+- model for predicting environment/object/body state changes within
+  time t (based on models of understood behaviors and contextually
+  inferred object type)
+- prediction of visemes from audio for chat avatars (see disney
+  patents and research)
+- scale-invariant transform for 3D object recogntion
+  - while this seems more complicated, actually more dimensions here
+    means less total complexity!!
+- contact lenses and projection (???)
+
+### VR/AR Hardware
+
+- (#1) HOW TO MAKE AR PORTABLE?!
+  - this includes power constraints, which limit almost every IRL
+    HUMAN use-case
+
+- compute/geometry/etc is power/compute intensive (doblet startup)
+  - how would such a system be architected to minimize constraints?
+  - how to culturally shift to the right solution?
+    - how to convince people that carrying a product such as a
+      hackpack/batteries is culturally "cool" or at least necessary?
+      - can you convince men to carry a purse? why or why not? a
+        hackpack is basically a giant purse LMAO
+    - how to convince businesses that investing in AR infrastructure
+      is valuable?
+
+- in Portable AR, where should the burden of compute lay?
+  - on the consumer end? then battery life, cost, convenience
+    negatively affects the service usage, adoption, dependability
+  - on the service provider? consumer still has a high cost
+  - IMO, some of the compute burden should lay with the location the
+    consumer is visiting, who provides the apps they use.
+    - but this is hard to finance for small businesses & businesses
+      outside of culturally advanced areas (san francisco)
+
+- VR/AR Hardware needs to optimize on:
+  - MAXIMIZING: modularity, operation time, compute capability
+  - MINIMIZING: xmission signal, configuration, compute dependency
+
+### VR/AR Networking & Platform Technology
+
+- AR capable mobile devices need:
+  - 2+ cams (on each side! or reversable camera)
+  - 2+ mics which are integrated in hardware for positionality
+    - but, for which, each microphone can be exposed through OS API's
+      individually, if necessary
+      - apps that depend on individual mics would then need to be able
+        to expect a customary hardware formfactor
+    - the emphasis here is on spatial reconstruction and detection of
+      directionality
+  - also, the devices need 2 OR MORE WIFI DEVICES!
+    - why? for genericized peer-to-peer behavior
+    - wifi actually isn't the proper hardware protocol for this, since
+      such peer-to-peer networks can only be on channels 1,6, or 11
+      and too susceptible to interference
+    - but the point is to have network channels for peer-to-peer
+      behavior and for traditional WAN access
+      - the ad-hoc, generalized peer-to-peer is crucial for
+        introducing data streams for context-sharing, etc between end
+        users
+
+- NDN & P2P ad-hoc networking + MGRS (GPS)
+  - to provide tech basis for apps present with no configuration
+  - that is, MGRS provides indexing for GPS-specific applications that
+    "live" in specific areas
+
+- protocols to stream and configure streams to multiplex
+  - sensory/graphics data becomes distributed, as needed
+    - major software challenges here
+  - merge sensory data from multiple systems to make inferences from
+    shared environment
+  - heterogenous distribution of compute (& the applicable generic
+    software interface)
+    - this heterogenous distribution of compute should be for physics,
+      graphics, and geometry tasks
+- dynamic def/composition of graphics/physics/compute/geometry
+  pipelines
+  - THIS IS WHY THE IDEAS FOR SPECTRA IS IMPORTANT
+    - spectra is the functional graphics library for iOS/Metal
+  - what are the ideal protocols and network architectures to
+    distribute?
+- interfaces for hardware/system/platform interoperability
+
+- protocol to stream sensory data in a unified way
+  - a 3D streaming format that combines input from various devices
+    (IR, UV, Vis3D Camera, Ultrasound)
+  - differential, like MPEG
+    - but dimensionally so?
+    - does information compression become more or less complex as the
+      number of dimensions increases?
+      - less complex and more effective, right?
+      - OOPS THAT'S PATENTABLE (?)
+
+### VR/AR Business
+
+- (#1) where is the VALUE for consumers and service providers
+  - and how should that value be marketed?
+  - and, in the actual realistic progression of technology, how does
+    the value reach the consumer? like what value opportunities become
+    actualized as the technology progresses
+- (#2) how should AR be architected to
+  - MAXIMIZE: satisfaction, reliability, modularity, economic
+    viability, and service utilization?
+  - while MINIMIZING: obsolescence, obtrusive
+    configuration/interfaces, time-to-market, configuration overhead,
+    proprietary constraints and points/risk of failure?
+
+- again, with even more emphasis on these attributes: how can VR/AR be
+  strategically planned to:
+  - MAXIMIZE: rate of adoption, consumer satisfaction, usefulness,
+    reliability, modularity, value, modularity (again), platform
+    interoperability, simplicity (for consumer & app developers)
+  - MINIMIZE: obsolescence, configuration overhead, leaerning curve,
+    COST, consumer interface complexity, proprietary constraints,
+    number of points of failure, turbulence in market & platform dynamics
+- potential for obsolence and turbulent dynamics (for market &
+  platform) ... both of these will lead to major consumer/business
+  frustration/confusion
+- how can these factors be optimized FOR THE CONSUMER?
+  - and secondarily: for the developers of economic opportunities
+    based on VR/AR, so that the economic opportunities pursued are
+    stable and provide real, well distributed economic value
+  - how will these factors change during AR rollout and platform
+    maturation? how do they affect consumer/business satisfaction
+  - how will web 2.0/2.5 startups/businesses adapt to these new
+    platforms?
+
+- what are the legal implications (for privacy/security)
+- what are the economics of 3D video?
+  - how long until it's truly in the hands of consumers?
+  - cost per feature?
+  - market mechanics of quality and content distribution?
+  - constraints for space (GB) and bandwidth and compression?
+  - processing/software?
+  - adaptation of existing content to platform specifics?
+
+- since many(i.e. MOST) AR/VR apps are built on existing IP (patents)
+  then there is a much higher demand for IP knowledge and
+  credentialled representation
+  - i.e. everyone is going to need to pay out more for IP-protection,
+    licensing and representation
+
+- what are the specific economic dynamics for each geographic market
+  for VR/AR development
+  - that is, the viable platforms and viable economic opportunities
+    for each market will be different based on the purchasing power,
+    existing hardware portfolios, etc. of consumers in that market
+  - so, therefore, the rollout for each market will differ in major
+    and minor ways.
+
+### Dynamics of VR Content Creation
+
+- (9/4/16) VR content cost balances out the tendency for content
+  creation to exponentiate
+  - the democratization of content creation tools and sharing
+    platforms has brought us to the era of youtube & facebook videos
+  - however, with VR/AR media, that trend reverses a bit
+    - which is a relief, because it allows for more control over
+      content distribution. this balances out the trend i talk about
+      in my "death of creativity" blog, where it becomes difficult to
+      market IP because of the over-supply powered by the
+      democratization of content creation
+- content creators will require more tools, more time, more people to
+  produce VR titles and new media works
+
+- VR Content growth factors
+  - number of content creators expands with population growth and
+    degree of penetration of regular internet usage
+    - number of content consumers also expands
+    - both of these numbers (producers/consumers) are dependent on the
+      max population of earth, which peaks at 10 - 15 billion
+      - most of the growth in content consumption in the next decade
+        actually comes from increased internet penetration, until that
+        is nearly 100% ... after that there's a stead rate
+        proportional to population growth
+  - amount of time (to consume media? not sure what i meant here)
+    - time spent producing/consuming content increases
+      - this is because the segments of the economy based on
+        information are expanding
+  - higher demand for media
+
+- VR Content counter-growth factors
+  - production hardware limitations
+    - 3D cameras are very expensive and so is the
+      gear/software/storage to work with the media
+  - hardware platform limitations
+    - people can only experience the content if there's a market of
+      people who've bought the equipment
+  - content provider budget
+    - it takes more time and more people to create content
+  - content supply & demand
+  - bandwidth (this is a trivial restraint, at least for at-home
+    usage of VR media)
+
+### VR Apps
+
+- (#1) What is the protoypical app for VR/AR?
+  - i.e. what is the Twitter or Super Mario Brothers of VR/AR?
+  - how do these prototypical applications change at each stage of
+    platform/hardware evolution?
+  - prototypical app ~~ "Killer App"
+
+- (#2) Where is the money in VR/AR?
+  - what is profitable?
+  - what is monetizeable?
+  - where is the perceived value for consumers?
+  - how does hardware compatibility affect this?
+    - service reliability? cost?
+    - there are SO MANY ZERO-MULTIPLYING FACTORS
+      - i.e. there are so many factors in the VR/AR economics that can
+        nearly zero out the value for consumers
+      - where v(...) is consumer value:
+        - v(a,b,c,...) = (a x b + c x d x e) x (a x b x c)
+  - how do operating systems affect the ecosystems?
+    - what are the VR/AR hardware "ecosystem" equivalents of an
+      operating system?
+    - how would API's be developed on top of these "platform systems"
+
+- VR Hair Style Preview
+- VR/AR Photo Booth app
+  - THIS IS A KILLER APP
+  - and it has a well-monetizable business model too
+  - think new-era instagram/snapchat
+- 3D-camera based filters for snapchat
+- VR/AR MUD (multi user dungeon)
+  - a la text-based, but with 3D space
+- VR/AR DnD
+  - object recognition for the basics
+  - transform room geometry
+  - avatars replace players
+  - AR Gameboard
+  - I'm sure hundreds have thought of this, but it seems to have
+    infinite potential for VR/AR.
+    - this might even be one of those prototypical apps
+- VR/AR chat apps (with avatars)
+- VR/AR live theater 3D video broadcasts
+  - twitch or youtube are perfectly positioned to monetize on things
+    like this (eventually)
+- VR/AR Magic: The Gathering & card games & board games
+  - how to "platform-genericize" such games
+    - so that board games can be sold in brick-and-mortar stores,
+      without burdening the consumer with needing to understand the
+      details of hardware/software/OS requirements
+- one-on-one instruction (piano lessons, tutoring)
+- web 3.0/3.5 apps (data-driven business models)
+  - the viability/demand that powers the microeconomics of these
+    fluctuates
+- AR Mirroring App (faceswapping)
+- Speechcraft & simulation apps
+- VR/AR out-of-body experiences
+- virtual movie theaters (with a social component)
+- speechcraft simulation app
+  - give a speech in front of a simulated audience
+    - with simulated reactions based on your performance
+- teleprompter app
+- VR/AR medical imagery app
+  - doctor views the simulated/replicated imagery on top of patient
+- 3D printed "avatars" for AR Apps
+
+- VR/AR smartwatch
+- "virtuo-somatic" apps
+  - these involve your body (like a virtual smartwatch)
+
+- AR kindle app
+  - share the cover for the book you are reading on a kindle to other
+    people in a coffee shop who are on the same VR/AR platform as you
+
+### VR "Popup Games"
+
+- these "are" played on a generic table-like surface
+  - in the future, that is...
+
+- the surface needs to be metrically translated amoung participants
+  - so this can be marked with a checkerboard or with pocketchange
+  - doing so requires sharing data amounc participants and portable AR
+    hardware
+
+- 3D Zelda-like AR Dungeon Crawler, inlaid into a surface
+  - the "killer-app" here isn't an app: it's the platform for
+    games/apps based on this table-top app popup paradigm
+
+- 2.5D Super-Mario maker
+  - with either a Super Mario RPG set up
+    - or a 2.5D or 3D mario game setup
+- Popup card games
+  - with possibly augmented rulesets
+    - rules specific to capabilities provided by AR
+  - think about playing "asshole" with friends using AR-specific
+    rulesets
+
+- 4D game (braid?) w/ AR/VR
+  - can be popup or not
+  - these kind of experiences are my fave
+
+- focus on the multiplayer experience
 
 
+Misc Notes
+================
 
 #### mapping identical spaces
 
@@ -505,451 +949,3 @@ included in VR eughhh)
 
 
 ==================================================
-
-
-Post it notes (original post date?)
-
-- I may have already posted some of this above, but this is directly
-  from drafts on post-it notes (of which i snapped pics and shared
-  like 6 months ago)
-
-### VR UI
-
-- multiple UI overlays (accessibility & help)
-  - e.g. use mostly icons for a browser-like interface, then enable a
-    "help overlay" with information and tooltips
-  - a laptop with a "mushy" 2D keyboard just feels like you are typing
-    and the keyboard interface is entirely virtualized
-    - that's a good one, it's new. i just came up with that lulz
-- virtualized UI devices w/ AR drawn on top of desk, alongside
-  physical hardware (justin mentioned an arduino w/ a keyboard and
-  touchscreen alongside hardware)
-  - true "desktop virtualization" lulz
-  - how does this affect the economics and desirable aspects of
-    furnature? j/k ... sorta
-
-- index time spent in a space at a point in virtual space
-  - or time spent where users are focused on a particular
-    object/image/brand
-    - USE FOR POWERING THE ECONOMICS OF VR/AR!!
-    - this is how one derives value from VR/AR experiences
-  - this is both applicable to: User Interface and Business
-
-- using a checkerboard as a standard surface for apps
-  - also, pocket change be used as a standard metric for
-    translating and sizing surfaces to be shared amoungst participants
-    in so-called "popup" apps (see the similarly titled section)
-
-### VR UX
-
-- 3D camera voxelized model for approximization of surroundings
-  - preprocessed in hardware and exposed to GPU as a data stream
-  - this voxelized video stream should be context aware (in hardware)
-    so that it retains data of surroundings
-    - if so, then it can patch together the experience using data
-      pieces from street view, etc
-
-- Access UI/UX w/ combinations of getsutres controlling virtualized...
-
-### VR Social
-
-- what is different here? Enough for post?
-  - read facial expressions and play games together
-  - there is more of a authentic social dimension to VR apps
-
-- VR Experiences have a stunted Social Media Network Effect
-  - **this is important for app growth aspects of social VR app**
-
-### VR Misc
-
-- Niantic is SOOOO ahead of the game when it comes to the business
-  aspects of VR/AR that it's not even funny.
-  - the business models of AR especially are built on offering data as
-    a service/convenience for other apps. **IT IS ALL WEB 3.0** (or
-    3.5)
-
-### VR/AR changes needed for Software/Hardware
-
-- (#1) really, what is needed is a wireless protocol that exposes GPU
-  and compute resources as though they were on the BUS. WE NEED
-  WIRELESS BUS SPEEDS!
-
-- GPU/Compute becomes crucial for non-graphical tasks.
-  - and must be coordinated, distributed and load-balanced across
-    disparate systems
-  - while accounting for faults, delays, prioritization
-  - THIS DRIVES DEMAIND 4 specific compute architectures
-    - which changes market dynamics for tech giants & data-driven
-      services (wut economics)
-
-- NDN + MGRS + P2P becomes very useful
-  - again, this changes market dynamics for tech giants & data-driven
-      services (wut economics)
-
-- For Some ops, 3D objects should be treated as point clouds, AND NOT
-  TRIANGLES
-- Metal/Vulkan become very useful (WHICH MOST 3D DEV'S DONT UNDERSTAND
-  AFAI CAN SEE !@#$ !$#@! $#@! $#@!)
-  - so does functional programming because it is more adaptive
-
-- Advanced geometry and pure math becomes a requisite for nearly every
-  user application!! (most people do not understand this at all)
-  - this causes VR/AR software (and particularly UI/UX) to become
-    inaccessible to people with IQ's below 150
-- OS & User Interfaces acquire a 3rd dimension
-  - and radically depart from existing form and expectation
-  - is there a 2.5D user interface paradigm?
-    - like a CSS between the 2nd and 3rd dimension
-    - this would be much less complicated than a full 3D UI/UX styling
-      language
-- Huge need for streaming 3D Node Data and optimizing: Bandwidth,
-  Time, redundancy
-- Radical changes in storage format for 3D nodes in memory
-  - memory as in each: RAM, GPU RAM, and permanent storage (network
-    accessible, tierably cached)
-
-- After 3D recognition, object data should be caced and locally
-  available (this alters the object life cycle for application
-  development and there's a huge need for a ton of software
-  development around this)
-  - system state changes should be predictably anticipated and only
-    objects dependent on observed state changes should consume
-    resources
-    - seemingly minor things like this become crucial to making AR/VR
-      humanly accessible and economically viable
-    - but these are major software development challenges
-  - internal/external "boundaries" of the system should be observed
-    - a la thermodynamics: all internal "actors" can be known and the
-      set of possible actions minimized
-      - what did i mean by this? i think it has something do do with
-        application security
-
-- everything that I've written from these post-it notes is at odds
-  with secure application development (i think)
-  - there are major trade-off's between asymtotically perfect security
-    and each of: economic viability, human accessibility,
-    configurability, reliability, portability, etc, etc, etc
-    - this is a major pain in the ass, especially because of the
-      economic viability constraints
-    - the economics of any new technology determines how that
-      technology unfolds and whether it's truly a next big thing or
-      the next big fad
-    - the expense of VR/AR hardware is going to be high and consumers
-      will get sick of such unnecessary expenses
-      - WE ABSOLUTELY DO NOT WANT VR HARDWARE TO SCALE INTO LANDFILLS
-        LIKE E.T. CARTRIDGES
-
-### VR/AR Graphics Technology
-
-- VR & AI are intrinsically linked and circularly dependendent for
-  development of practical application of either
-
-- e.g. there's a need to infer geometry from streaming video and
-  TRANSFORM. to do so in a computationally reasonable manner requires
-  contextually-aware & trained AI to recognize objects
-- game/etc use case: transform arbitrary 3D space to a specific style
-  - transform my house into a medieval castle
-  - this requires tons of category theory
-    - see notes from the videos i made
-- another game/etc idea: object recognition and transformation to
-  similary object types via dimensions of
-  shape/size/function/handlability
-- techniques similar to how the brain reconstructs its visual
-  environment (texture/shape/memory sampling to prevent reevaluating
-  all sensory data every time)
-  - separate blog: "the 'texture' of semantics"
-- model for predicting environment/object/body state changes within
-  time t (based on models of understood behaviors and contextually
-  inferred object type)
-- prediction of visemes from audio for chat avatars (see disney
-  patents and research)
-- scale-invariant transform for 3D object recogntion
-  - while this seems more complicated, actually more dimensions here
-    means less total complexity!!
-- contact lenses and projection (???)
-
-### VR/AR Hardware
-
-- (#1) HOW TO MAKE AR PORTABLE?!
-  - this includes power constraints, which limit almost every IRL
-    HUMAN use-case
-
-- compute/geometry/etc is power/compute intensive (doblet startup)
-  - how would such a system be architected to minimize constraints?
-  - how to culturally shift to the right solution?
-    - how to convince people that carrying a product such as a
-      hackpack/batteries is culturally "cool" or at least necessary?
-      - can you convince men to carry a purse? why or why not? a
-        hackpack is basically a giant purse LMAO
-    - how to convince businesses that investing in AR infrastructure
-      is valuable?
-
-- in Portable AR, where should the burden of compute lay?
-  - on the consumer end? then battery life, cost, convenience
-    negatively affects the service usage, adoption, dependability
-  - on the service provider? consumer still has a high cost
-  - IMO, some of the compute burden should lay with the location the
-    consumer is visiting, who provides the apps they use.
-    - but this is hard to finance for small businesses & businesses
-      outside of culturally advanced areas (san francisco)
-
-- VR/AR Hardware needs to optimize on:
-  - MAXIMIZING: modularity, operation time, compute capability
-  - MINIMIZING: xmission signal, configuration, compute dependency
-
-### VR/AR Networking & Platform Technology
-
-- AR capable mobile devices need:
-  - 2+ cams (on each side! or reversable camera)
-  - 2+ mics which are integrated in hardware for positionality
-    - but, for which, each microphone can be exposed through OS API's
-      individually, if necessary
-      - apps that depend on individual mics would then need to be able
-        to expect a customary hardware formfactor
-    - the emphasis here is on spatial reconstruction and detection of
-      directionality
-  - also, the devices need 2 OR MORE WIFI DEVICES!
-    - why? for genericized peer-to-peer behavior
-    - wifi actually isn't the proper hardware protocol for this, since
-      such peer-to-peer networks can only be on channels 1,6, or 11
-      and too susceptible to interference
-    - but the point is to have network channels for peer-to-peer
-      behavior and for traditional WAN access
-      - the ad-hoc, generalized peer-to-peer is crucial for
-        introducing data streams for context-sharing, etc between end
-        users
-
-- NDN & P2P ad-hoc networking + MGRS (GPS)
-  - to provide tech basis for apps present with no configuration
-  - that is, MGRS provides indexing for GPS-specific applications that
-    "live" in specific areas
-
-- protocols to stream and configure streams to multiplex
-  - sensory/graphics data becomes distributed, as needed
-    - major software challenges here
-  - merge sensory data from multiple systems to make inferences from
-    shared environment
-  - heterogenous distribution of compute (& the applicable generic
-    software interface)
-    - this heterogenous distribution of compute should be for physics,
-      graphics, and geometry tasks
-- dynamic def/composition of graphics/physics/compute/geometry
-  pipelines
-  - THIS IS WHY THE IDEAS FOR SPECTRA IS IMPORTANT
-    - spectra is the functional graphics library for iOS/Metal
-  - what are the ideal protocols and network architectures to
-    distribute?
-- interfaces for hardware/system/platform interoperability
-
-- protocol to stream sensory data in a unified way
-  - a 3D streaming format that combines input from various devices
-    (IR, UV, Vis3D Camera, Ultrasound)
-  - differential, like MPEG
-    - but dimensionally so?
-    - does information compression become more or less complex as the
-      number of dimensions increases?
-      - less complex and more effective, right?
-      - OOPS THAT'S PATENTABLE (?)
-
-### VR/AR Business
-
-- (#1) where is the VALUE for consumers and service providers
-  - and how should that value be marketed?
-  - and, in the actual realistic progression of technology, how does
-    the value reach the consumer? like what value opportunities become
-    actualized as the technology progresses
-- (#2) how should AR be architected to
-  - MAXIMIZE: satisfaction, reliability, modularity, economic
-    viability, and service utilization?
-  - while MINIMIZING: obsolescence, obtrusive
-    configuration/interfaces, time-to-market, configuration overhead,
-    proprietary constraints and points/risk of failure?
-
-- again, with even more emphasis on these attributes: how can VR/AR be
-  strategically planned to:
-  - MAXIMIZE: rate of adoption, consumer satisfaction, usefulness,
-    reliability, modularity, value, modularity (again), platform
-    interoperability, simplicity (for consumer & app developers)
-  - MINIMIZE: obsolescence, configuration overhead, leaerning curve,
-    COST, consumer interface complexity, proprietary constraints,
-    number of points of failure, turbulence in market & platform dynamics
-- potential for obsolence and turbulent dynamics (for market &
-  platform) ... both of these will lead to major consumer/business
-  frustration/confusion
-- how can these factors be optimized FOR THE CONSUMER?
-  - and secondarily: for the developers of economic opportunities
-    based on VR/AR, so that the economic opportunities pursued are
-    stable and provide real, well distributed economic value
-  - how will these factors change during AR rollout and platform
-    maturation? how do they affect consumer/business satisfaction
-  - how will web 2.0/2.5 startups/businesses adapt to these new
-    platforms?
-
-- what are the legal implications (for privacy/security)
-- what are the economics of 3D video?
-  - how long until it's truly in the hands of consumers?
-  - cost per feature?
-  - market mechanics of quality and content distribution?
-  - constraints for space (GB) and bandwidth and compression?
-  - processing/software?
-  - adaptation of existing content to platform specifics?
-
-- since many(i.e. MOST) AR/VR apps are built on existing IP (patents)
-  then there is a much higher demand for IP knowledge and
-  credentialled representation
-  - i.e. everyone is going to need to pay out more for IP-protection,
-    licensing and representation
-
-- what are the specific economic dynamics for each geographic market
-  for VR/AR development
-  - that is, the viable platforms and viable economic opportunities
-    for each market will be different based on the purchasing power,
-    existing hardware portfolios, etc. of consumers in that market
-  - so, therefore, the rollout for each market will differ in major
-    and minor ways.
-
-### Dynamics of VR Content Creation
-
-- (9/4/16) VR content cost balances out the tendency for content
-  creation to exponentiate
-  - the democratization of content creation tools and sharing
-    platforms has brought us to the era of youtube & facebook videos
-  - however, with VR/AR media, that trend reverses a bit
-    - which is a relief, because it allows for more control over
-      content distribution. this balances out the trend i talk about
-      in my "death of creativity" blog, where it becomes difficult to
-      market IP because of the over-supply powered by the
-      democratization of content creation
-- content creators will require more tools, more time, more people to
-  produce VR titles and new media works
-
-- VR Content growth factors
-  - number of content creators expands with population growth and
-    degree of penetration of regular internet usage
-    - number of content consumers also expands
-    - both of these numbers (producers/consumers) are dependent on the
-      max population of earth, which peaks at 10 - 15 billion
-      - most of the growth in content consumption in the next decade
-        actually comes from increased internet penetration, until that
-        is nearly 100% ... after that there's a stead rate
-        proportional to population growth
-  - amount of time (to consume media? not sure what i meant here)
-    - time spent producing/consuming content increases
-      - this is because the segments of the economy based on
-        information are expanding
-  - higher demand for media
-
-- VR Content counter-growth factors
-  - production hardware limitations
-    - 3D cameras are very expensive and so is the
-      gear/software/storage to work with the media
-  - hardware platform limitations
-    - people can only experience the content if there's a market of
-      people who've bought the equipment
-  - content provider budget
-    - it takes more time and more people to create content
-  - content supply & demand
-  - bandwidth (this is a trivial restraint, at least for at-home
-    usage of VR media)
-
-### VR Apps
-
-- (#1) What is the protoypical app for VR/AR?
-  - i.e. what is the Twitter or Super Mario Brothers of VR/AR?
-  - how do these prototypical applications change at each stage of
-    platform/hardware evolution?
-  - prototypical app ~~ "Killer App"
-
-- (#2) Where is the money in VR/AR?
-  - what is profitable?
-  - what is monetizeable?
-  - where is the perceived value for consumers?
-  - how does hardware compatibility affect this?
-    - service reliability? cost?
-    - there are SO MANY ZERO-MULTIPLYING FACTORS
-      - i.e. there are so many factors in the VR/AR economics that can
-        nearly zero out the value for consumers
-      - where v(...) is consumer value:
-        - v(a,b,c,...) = (a x b + c x d x e) x (a x b x c)
-  - how do operating systems affect the ecosystems?
-    - what are the VR/AR hardware "ecosystem" equivalents of an
-      operating system?
-    - how would API's be developed on top of these "platform systems"
-
-- VR Hair Style Preview
-- VR/AR Photo Booth app
-  - THIS IS A KILLER APP
-  - and it has a well-monetizable business model too
-  - think new-era instagram/snapchat
-- 3D-camera based filters for snapchat
-- VR/AR MUD (multi user dungeon)
-  - a la text-based, but with 3D space
-- VR/AR DnD
-  - object recognition for the basics
-  - transform room geometry
-  - avatars replace players
-  - AR Gameboard
-  - I'm sure hundreds have thought of this, but it seems to have
-    infinite potential for VR/AR.
-    - this might even be one of those prototypical apps
-- VR/AR chat apps (with avatars)
-- VR/AR live theater 3D video broadcasts
-  - twitch or youtube are perfectly positioned to monetize on things
-    like this (eventually)
-- VR/AR Magic: The Gathering & card games & board games
-  - how to "platform-genericize" such games
-    - so that board games can be sold in brick-and-mortar stores,
-      without burdening the consumer with needing to understand the
-      details of hardware/software/OS requirements
-- one-on-one instruction (piano lessons, tutoring)
-- web 3.0/3.5 apps (data-driven business models)
-  - the viability/demand that powers the microeconomics of these
-    fluctuates
-- AR Mirroring App (faceswapping)
-- Speechcraft & simulation apps
-- VR/AR out-of-body experiences
-- virtual movie theaters (with a social component)
-- speechcraft simulation app
-  - give a speech in front of a simulated audience
-    - with simulated reactions based on your performance
-- teleprompter app
-- VR/AR medical imagery app
-  - doctor views the simulated/replicated imagery on top of patient
-- 3D printed "avatars" for AR Apps
-
-- VR/AR smartwatch
-- "virtuo-somatic" apps
-  - these involve your body (like a virtual smartwatch)
-
-- AR kindle app
-  - share the cover for the book you are reading on a kindle to other
-    people in a coffee shop who are on the same VR/AR platform as you
-
-### VR "Popup Games"
-
-- these "are" played on a generic table-like surface
-  - in the future, that is...
-
-- the surface needs to be metrically translated amoung participants
-  - so this can be marked with a checkerboard or with pocketchange
-  - doing so requires sharing data amounc participants and portable AR
-    hardware
-
-- 3D Zelda-like AR Dungeon Crawler, inlaid into a surface
-  - the "killer-app" here isn't an app: it's the platform for
-    games/apps based on this table-top app popup paradigm
-
-- 2.5D Super-Mario maker
-  - with either a Super Mario RPG set up
-    - or a 2.5D or 3D mario game setup
-- Popup card games
-  - with possibly augmented rulesets
-    - rules specific to capabilities provided by AR
-  - think about playing "asshole" with friends using AR-specific
-    rulesets
-
-- 4D game (braid?) w/ AR/VR
-  - can be popup or not
-  - these kind of experiences are my fave
-
-- focus on the multiplayer experience
