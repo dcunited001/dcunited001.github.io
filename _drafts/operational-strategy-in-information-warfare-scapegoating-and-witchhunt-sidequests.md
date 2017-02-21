@@ -36,13 +36,11 @@ philosophy, linguistics, semiotics and countless other subjects. But
 in an economy where a myriad of skills fuel your capacity for
 employment, I still can't find a job.
 
-# References for Legal Ideas Discussed  (at the top)
+# [References for Legal Ideas Discussed](#references-for-legal-ideas-discussed)
 
 - milligan ex parte case
 - us naval international research journal articles
 - harvard international law article(s)
-- DSS training manual for cleanup operations involving leaked
-  information
 
 <a name="unprecedented-dynamics-of-information-flux" />
 
@@ -159,21 +157,37 @@ cold, efficiency of a heartless psychopath.
 
 - Millagan - Supreme Court ex parte precedent in US
 
-### [Group Sociopathy](#the-ways-means-and-tactics-invite-hivemind-sociopath)
+### [Inviting Group Sociopathy](#-invite-hivemind-sociopath)
 
-Sociopathy is employed in groups: workplace mobbing, campaigns to
-discredit carniverous social dynamics and meticulously planned
-witchhunt sidequests. In the context of a recession, workplace mobbing
-is trivial to evoke against political dissidents, which furthers the
-goal of marginalizing them with [occupational injustice](). Mental
-Health efforts, rebranded as [Occupational Therapy]() as cover for
-negative processing of psychology, seems to be employed. This seems to
-be a crossover between medicine, mental health, surveillance and OT. OT
-could be masked under the cover of academic studies, crossed with
-national security, which increases the rationalization of total
-secrecy with retribution.
+The ways and means of psychological warfare mean that (unless i'm
+getting this wrong) sociopathy is employed in groups with behavior
+coordinated along information from streams of signals of surveillence,
+social media and other quantified metrics of behavior. This augments
+workplace mobbing, campaigns to discredit, carniverous social dynamics
+and meticulously planned witchhunt sidequests.
 
-# [A Cover AND A Growth Hack]()
+<a name="mobbing-negative-processing-via-psychological-ot-and-occupational-injustice" />
+
+### [Mobbing, Negative Processing via Psychological OT and Occupational Injustice](#mobbing-negative-processing-via-psychological-ot-and-occupational-injustice)
+
+#### &#x2605;&nbsp;[Mobbing](https://en.wikipedia.org/wiki/Mobbing)
+
+#### &#x2605;&nbsp;Negative Processing via [Psychological OT](https://en.wikipedia.org/wiki/Occupational_therapy)
+
+#### &#x2605;&nbsp;[Occupational Injustice](https://en.wikipedia.org/wiki/Occupational_injustice)
+
+In the context of a recession, workplace mobbing is trivial to evoke
+against political dissidents, which furthers the goal of marginalizing
+them with [occupational injustice](). Mental Health efforts, rebranded
+as [Occupational Therapy]() as cover for negative processing of
+psychology, seems to be employed. This seems to be a crossover between
+medicine, mental health, surveillance and OT.  OT could be masked
+under the cover of academic studies, crossed with national security,
+which increases the rationalization of total secrecy with retribution.
+
+<a name="a-cover-and-a-growth-hack" />
+
+# [A Cover AND A Growth Hack](#a-cover-and-a-growth-hack)
 
 If your goals include expanding government provided healthcare with
 socialism, this helps logistically overcome growing pains for both
@@ -181,7 +195,9 @@ types of organizations. So you can force government provided health
 care on people *while* lashing out against political dissidents with
 coercion and systematic disenfranchisement. Oops.
 
-### [Organized Crime Could Become Comorbid](#organinized-crime-could-become-comorbid)
+<a name="organized-crime-becomes-comorbid" />
+
+### [Organized Crime Becomes Comorbid](#organinized-crime-could-become-comorbid)
 
 Meanwhile, organized crime gets in while the getting's good and it's
 way better because now they can do what they were going to do anyways,
@@ -199,6 +215,8 @@ a massive mistake, the temptation will be to keep it a secret to
 prevent anyone from finding out, while flooding people's minds with
 misinformation, without the knowledge of the target.
 
+<a name="marginalization-by-silo-for-protection-of-national-security" />
+
 ### [Marginalization By Silo For Protection of "National Security"](#marginalization-by-silo-for-protection-of-national-security)
 
 More to the point, if your strategy includes marginalization, then
@@ -211,6 +229,8 @@ and employ career assassination for psyshcosocial manipulation.
 Participation in such means you are complicit in enabling war crimes,
 if these tactics are used against the wrong person.
 
+<a name="unchecked-corruption-becomes-metastatic" />
+
 ### [Unchecked Corruption Becomes Metastatic](#unchecked-corruption-becomes-metastatic)
 
 "National Security" is in quotes above because it appears to have been
@@ -220,6 +240,8 @@ people caught in it, bribes are just about only comorbidity that has
 pleasant qualities. Quite often, especially when systemic, corruption
 never really comes to light. When it does, what comes to light is just
 a portion of what lurks beneath.
+
+<a name="self-incrimination-reinforces-collusive-patterns-of-behavior-under-cover" />
 
 ### Self-Incrimination Reinforces Collusive Patterns of Behavior Under Cover](#self-incrimination-reinforces-collusive-patterns-of-behavior-under-cover)
 
@@ -232,6 +254,8 @@ employed at such scale since the FBI's actions against civil rights
 activists in the 1960's. The FBI famously sent MLK Jr. a letter which
 harnessed suggestion in an admitted attempt to push him to suicide.
 
+<a name="surveillance-powered-harassment" />
+
 ### [Surveillance-Powered Harassment](#surveillance-powered-harassment)
 
 In the 21st century, Cointelpro disruption is executed with
@@ -242,6 +266,8 @@ despair of the captains of 21st century industry.  Their interests
 interests align with the people and we all lose when America loses,
 which undermines the American economy, the foundation of prosperity
 and security in America.
+
+<a name="logistics-and-anticipated-homesic-growing-pains" />
 
 ### [Logistics and Anticipated HomeSic Growing Pains](#logistics-and-anticipated-homesic-growing-pains)
 
@@ -260,12 +286,20 @@ fell with no one around.
 
 ![Michael Jackson Popcorn]()
 
-###
+# [NSA Surveillance and Streamed Data Signals Enable Horrifying Abuses](nsa-surveillance-and-streamed-data-signals-enable-horrifying-abuses)
 
 Surveillance makes gaslighting operations cheaper and easier than
 ever. so, if you have a psychopath in charge of your tactics, they can
 operate with renowned, cold efficiency and the smugness of a
 narcissist.
+
+<a name="greater-prevalence-of-psychological-tactics" />
+
+> When we build drones, we end up using them more frequently. When we
+> research psychological torture, we end up using psychological
+> torture. Do you really want this to be commonplace?
+
+### [Greater Prevalence of Psychological Tactics](#greater-prevalence-of-psychological-tactics)
 
 Greater appeal of psychological tactics in psychological warfare leads
 to higher precedence, which leads to confidence, the sharing of
@@ -274,12 +308,16 @@ obscured. Further, gaslighting requires information handoff between
 tight connections/relationships that are usually hidden from the
 target and people around him/her.
 
-Since gaslighting and harassment becomes more effective
-and easier to hide, each becomes a more appealing tactics for handling
-problems. Just put people behind a brickwall of their own
+Since gaslighting and harassment becomes more effective and easier to
+hide, these kinds of tactic for handling problems become more
+appealing. Just put people behind a brick wall of their own
 delusions. There is no door.
 
-###
+<a name="insufficient-records-of-activity-employing-psychological-and-medical-means" />
+
+### [Insufficient Records of Activity Employing Psychological and Medical Means](#insufficient-records-of-activity-employing-psychological-and-medical-means)
+
+> This is a very bad sign.
 
 The nature of record collection as a liability is a weakness and one
 well known to the people cooperating. As long as psychological torture
@@ -307,7 +345,9 @@ the frame by which certain international treaty provisions are
 examined. Particular types of arguments will render the applicability
 of various provisions which protect the sacred nature of human rights.
 To a degree, a failure of superpower nations to respond to this is
-terrifying.
+terrifying and portending.
+
+![picture of super saiyan]()
 
 The capacity by which international institutions evolve becomes
 limited once they are set in stone. Therefore a time of great
@@ -319,10 +359,10 @@ stifle innovation by threat and little debated coercion.
 ### [Systematic Harassment Campaigns Utilizing Psychological Torture: Warcrimes](#systematic-harassment-campaigns-utilizing-psychological-torture-warcrimes)
 
 By the way, there is a legal argument that psychological torture
-against a former US citizen, one labelled under the NDAA as a
-non-enemy combatant and/or targeted individuals, opening up the perps
-to legal vulnerability. I might only know enough about international
-law to be dangerous, but this argument deserves further
+against a former US citizen opens up the perps to legal vulnerability.
+This applies when one is labelled under the NDAA as a non-enemy
+combatant and/or targeted individuals. I might only know enough about
+international law to be dangerous, but this argument deserves further
 inspection. The same argument is discussed in the international law
 article referenced above (oh hey, imagine that!) but it apparently
 applies to another situation. This argument is compelling enough to at
@@ -393,7 +433,9 @@ other people like me, but apparently having unapproved friends is a
 national security threat, especially friends who might understand what
 i'm talking about or empathize with me.
 
-### N-Polynomial Expansion Provides A Parameterizeable Analytic Solution for Approximating Any Problem
+<a name="n-polynomial-expansion-provides-a-parameterizeable-analytical-solution-for-approximating-any-problem" />
+
+### [N-Polynomial Expansion Provides A Parameterizeable Analytical Solution for Approximating Any Problem](#n-polynomial-expansion-provides-a-parameterizeable-analytical-solution-for-approximating-any-problem)
 
 From a time-series perspective, when more birds are hit with the same
 stone, the probability of a coincidence of low probability events
@@ -401,35 +443,54 @@ becomes much less and factors in a polynomial expansion of
 combinatorial products of probability. This expansion of products and
 sums can almost be expected to behave paradoxically because of the
 nature of interdependency. No, really, it's statistics: there's
-functional coupling between events, so they're not independent.
+functional coupling between events, so they're not independent. It's
+an understanding of social physics and the nature of these statistical
+polynomial expansions representing a graph translated to a new
+group. This informs my personal calculus because nature of the true
+cause of comorbid occurances of similar metatypes/epitypes of events
+clues me into discerning connections in life.
+
+<a name="how-you-like-them-apples" />
+
+![HOW YOU LIKE THEM APPLES?]()
+
+### [How You Like Them Apples?!](#how-you-like-them-apples)
 
 It ain't easy, but that's how you know. There's a point beyond which
 low probability events can be assumed to require more information to
 explain: that is, they can't be explained by coincidence unless they
 occur in isolation. Thus, they become paradoxically more likely to
 require additional inspection for understanding and discernment of
-cause. I was actually under the assumption that the burden of proof
-falls on the state. This should be much easier for me, but is this
-America? Or do I live in some kind of arbitary wormhole legal system?
+cause. I think Americans actually under the assumption that both the
+burden of proof falls on the state and one cannot, in ignorance, be
+compelled to testify against oneself. It should be much easier for
+people to defend themselves, but is this America? Or do I live in some
+kind of arbitary wormhole legal system?
 
 > I'm also isolated, having minimal contact with people capable of
 > holding conversations with me involving my own interests, even if a
 > person wanted to discuss them for more than 60 seconds. Such events
 > rarely occur, like once a season or once a year for some
-> subjects. My isolation stagnates my development in psychosocial and
+> subjects. In spite of this isolation, I seem to maintain intelligent,
+> diverse ideation, which actually lends itself to my credit.
+>
+> My isolation stagnates my development in psychosocial and
 > educational ways. If I didn't have the internet, Wikipedia, Coursera
 > and Simons Institute, I'm not sure what I'd do. If I didn't begin
 > understand social physics, I would have surely developed Stockholm
 > Syndrome, which today is at the root of a "terror attack in Sweden"
 > ... not very truly though. They're referring to someone held against
 > their will in a prison of their mind, who's supposed to develop
-> Stockholm Syndrome in a gaslighting operation, but didn't. Oops. If
-> I didn't reappropriate situations around me, certain topics would
+> Stockholm Syndrome in a gaslighting operation, but didn't. Oops.
+>
+> If I didn't reappropriate situations around me, certain topics would
 > just never come up. This is by design: chatter leaves evidence and
 > provides fodder for the discernment of a situation. Further, Someone
 > silo'd in stasis and isolation statis is at the mercy of the few
 > social signals they are permitted. That is the purpose of
 > disconnection and it makes someone more susceptible to gaslighting.
+
+[Stephen Colbert: Never Fjorget What Happened in Sweden]()
 
 #### TODO: Youtube link
 
@@ -452,7 +513,7 @@ religion to found institutions in pursuit of the codification of this
 ideal set of laws. IMO, people today have no idea what the concept of
 God actually is.
 
-### "The Emperor Wears No Clothes"×
+### ["The Emperor Wears No Clothes"](#the-emperor-wears-no-clothes)
 
 In this story, a child is moved to action because the corners we all
 cut in adult life haven't yet marred the lens that the naive and
@@ -467,34 +528,48 @@ tactics don't work, but we need to understand which aspects of the
 system need to be dismantled so that civil disobedience remains
 effective.
 
-An age of both apathy and virtualized life begins to annul the
-capacity for growing a movement. If someone at the center of a
-controversy isn't permitted to have an open movement of sympathizers
-or supporters, there is zero chance this person would have a fair
-trial. If the details of such a national security case were known to
-be required to remain secret or the outcome of the case was
-essentially implicit, being ex parte, then there would also be
-near-zero chance for actual justice or fair trial. Further, the
-likelihood of someone in such a case ever finding out is limited.
+<a name="apathy-and-virtualized-life-begin-to-annul-the-precipitation-of-a-movement" />
 
-### Comparison with Ghandi and Colonial India under Britain
+### [Apathy and Virtualized Life Begin to Annul The Precipitation of a Movement]
+
+The confluence of factors seems intentional.  An age of both apathy
+and virtualized life begins to annul the capacity for growing a
+movement. If someone at the center of a controversy isn't permitted to
+have an open movement of sympathizers or supporters, there is zero
+chance this person would have a fair trial. If the details of such a
+national security case were known to be required to remain secret or
+the outcome of the case was essentially implicit, being ex parte, then
+there would also be near-zero chance for actual justice or fair
+trial. Further, the likelihood of someone in such a case ever finding
+out is limited.
+
+<a name="find-your-salt-march" />
+
+# ["Find Your Salt March"](#find-your-salt-march)
 
 The forces that we're fighting are using the system against us. In
 India, Britain controlled the market for salt. This was before
 widespread refrigeration, even in the developed world.
 
-- britain had a monopoly on the Salt market in India
-  - and there were high taxes on it
-  - it was so tightly controlled that it was illegal for Indians to
-    produce their own salt.
-- this was an incredibly effective mechanism of control because
-  Indians couldn't withstand going without salt for very long because
-  of how tightly coupled salt was to food.
-  - that is, they were reliant on the British for food.
-- any time there was local protest in India, the british could play
-  the indian people against each other. controlling the salt and
-  indirectly controlling the food in an area allowed them to reinforce
-  control and monitor where the resistence was coming from
+### [Britain Controlled India By Leveraging Salt to Control the Food Supply]()
+
+Britain had a monopoly on the Salt market in India. High taxes
+restricted its supply and provided funding to Britain in proportion to
+the appetite of the population of India. The world is a different
+place now, but in early 20th century India, salt was so tightly
+controlled that it was illegal for Indians to produce their own
+supply.
+
+This was an incredibly effective mechanism of control because Indians
+couldn't withstand going without salt for more than a few weeks, since
+salt was still tightly coupled to food. That is, Indians were
+compelled to be dependent on their obedience to the British for food.
+
+Any time there was local protest in India, the british could play the
+indian people against each other. Controlling the salt and indirectly
+controlling the food in an area allowed them to reinforce control and
+monitor where the resistance was coming from
+
   - they could switch things up to favor those Indians who would break
     rank and stifle any protests.
   - until this was corrected, protests almost served as a means of
@@ -552,8 +627,9 @@ salt march, he would have sent people north, northwest, south and
 southwest at the start of his march to gather as many people as
 possible.
 
+<a name="is-this-a-muted-conflict-waged-against-our-own-citizens" />
 
-#
+# [Is This A Muted Conflict Waged Against Our Own Citizens?](#is-this-a-muted-conflict-waged-against-our-own-citizens)
 
 Are we engaged in psychological warfare against our own citizens?  Is
 there widespread information warfare? People deserve a right to know
@@ -572,7 +648,3 @@ the time.
 
 So you see, it doesn't actually matter what you *think* because I
 *know*.
-
-[HOW YOU LIKE THEM APPLES?]()
-
-- picture of super saiyan

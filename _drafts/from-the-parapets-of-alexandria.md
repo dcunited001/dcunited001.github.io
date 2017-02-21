@@ -271,6 +271,8 @@ companies like Facebook or Google.
 
 =============
 
+#### reference [operational strategy]() article)
+
 =============
 
 describe how political movements can encourage its members to take
