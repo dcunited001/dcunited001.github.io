@@ -1,25 +1,29 @@
 ---
 title: "Civil Disobedience and the Operational Level of Information Warfare"
 categories: "graphics"
-tags: "'operational strategy' military 'information warfare'"
-headline: "Subglyph It For Great Good"
+tags: "operational-strategy military information-warfare civil-disobedience"
+headline: ""
 author:
   name: "David Conner"
 excerpt: "
-As society gravitates towards virtualized communication tools, we
-asymptotically approach 100% of surveillable, indexable conversations.
-The difference between a surveillable conversation and an indexable
-converstaion is that indexing is cheap and can be automated, whereas
-surveilling conversations requires human intelligence."
+Today, we are approaching a world with unprecedented sociocultural
+dynamics that have never been part of the paradigm of secrecy in every
+era until now. Since the epoch before commerce and discovery of
+metallurgy, the incentive to keep information secret has pervaded
+culture, even resulting in cultural movements such as
+esotericism. That prevailing paradigm of secrecy, often relegated to
+the background of human culture, has in recent years eluded the need
+for close inspection."
 ---
 
-Today, we are approaching a world with the interesting sociocultural
-dynamic the escapes the paradigm of secrecy in every era until
-now. Since the epoch before commerce and discovery of metallurgy, the
-incentive to keep information secret has pervaded culture, even
-resulting in cultural movements such as esotericism. That paradigm in
-the background of human culture itself has eluded the need for close
-inspection.
+Today, we are approaching a world with unprecedented sociocultural
+dynamics that have never been part of the paradigm of secrecy in every
+era until now. Since the epoch before commerce and discovery of
+metallurgy, the incentive to keep information secret has pervaded
+culture, even resulting in cultural movements such as
+esotericism. That prevailing paradigm of secrecy, often relegated to
+the background of human culture, has in recent years eluded the need
+for close inspection.
 
 > "Remember, I'm writing this article with less than $20 to my name
 > and less than $400 in annual income from 2016. I have never taken
@@ -36,13 +40,16 @@ philosophy, linguistics, semiotics and countless other subjects. But
 in an economy where a myriad of skills fuel your capacity for
 employment, I still can't find a job.
 
-![Coursera Pic](/img/posts/civil-disobedience-and-operational-strategy-in-information-warfare/coursera-grades.png)
+![Coursera Pic](/img/posts/2017-02-21-civil-disobedience-and-operational-strategy-in-information-warfare/coursera-grades.png)
+
+#### I Also Took Crypto I, But Skipped the Final
 
 # [References for Legal Ideas Discussed](#references-for-legal-ideas-discussed)
 
 - milligan ex parte case
 - us naval international research journal articles
 - harvard international law article(s)
+- TODO: link to these
 
 ## [Unprecedented Dynamics of Information Flux](#a-new-social-paradigm-powered-by-unprecedented-dynamics-of-information-flux)
 
@@ -108,21 +115,21 @@ employment, I still can't find a job.
 
 ## ["Find Your Salt March"](#find-your-salt-march)
 
-### [Britain Controlled India By Leveraging Salt to Control the Food Supply](#britain-controlled-india-by-leveraging-salt-to-control-the-food-supply)
+#### [Britain Controlled India By Leveraging Salt to Control the Food Supply](#britain-controlled-india-by-leveraging-salt-to-control-the-food-supply)
 
-### [Can't Win? Play Another Game](#cant-win-play-another-game)
+#### [Can't Win? Play Another Game](#cant-win-play-another-game)
 
-### [Ghandi's Salt March Harnessed the Social Network ... in 1930!!](#ghandis-salt-march-harnessed-the-social-network-in-1930)
+#### [Ghandi's Salt March Harnessed the Social Network ... in 1930!!](#ghandis-salt-march-harnessed-the-social-network-in-1930)
 
-### [The Power of The Salt March Drew From Its Simplicity and Intrisic Relatability](#the-power-of-the-salt-march-drew-from-its-simplicity-and-intrinsic-relatability)
+#### [The Power of The Salt March Drew From Its Simplicity and Intrisic Relatability](#the-power-of-the-salt-march-drew-from-its-simplicity-and-intrinsic-relatability)
 
-### [Only *Some* of the Protestors Would Become Direct Targets of Oppressive Tactics](#only-some-of-the-protestors-would-become-direct-targets-of-oppressive-tactics)
+#### [Only *Some* of the Protestors Would Become Direct Targets of Oppressive Tactics](#only-some-of-the-protestors-would-become-direct-targets-of-oppressive-tactics)
 
-# [Cognizance of the Effects of Tactics Countering Civil Disobedience](#cognizance-of-the-effects-of-tactics-countering-civil-disobedience)
+## [Cognizance of the Effects of Tactics Countering Civil Disobedience](#cognizance-of-the-effects-of-tactics-countering-civil-disobedience)
 
-### [Cognizance of Social Physics](#cognizance-of-social-physics)
+#### [Cognizance of Social Physics](#cognizance-of-social-physics)
 
-# [Is This A Muted Conflict Waged Against Our Own Citizens?](#is-this-a-muted-conflict-waged-against-our-own-citizens)
+## [Is This A Muted Conflict Waged Against Our Own Citizens?](#is-this-a-muted-conflict-waged-against-our-own-citizens)
 
 <a name="unprecedented-dynamics-of-information-flux" />
 
@@ -172,7 +179,7 @@ fiction, you could have memories implanted as a political dissident to
 be made an example and unjustly humiliated in front of the entire
 nation.
 
-![Lapis-Lazuli](/img/posts/civil-disobedience-and-operational-strategy-in-information-warfarec/hecatia-lapislazuli.jpg)
+![Lapis-Lazuli](/img/posts/2017-02-21-civil-disobedience-and-operational-strategy-in-information-warfare/hecatia-lapislazuli.jpg)
 
 > And it's just business, nothing personal... Welcome to Hell, baby
 > snowflake. You'll be here for a little while, but not for long. Ford
@@ -401,7 +408,7 @@ fell with no one around.
 > back, but it's kinda funny when they squirm, ain't it?" -- America,
 > if I'm getting this right.
 
-![Michael Jackson Popcorn](/img/posts/civil-disobedience-and-operational-strategy-in-information-warfare/mj-popcorn.jpg)
+![Michael Jackson Popcorn](/img/posts/2017-02-21-civil-disobedience-and-operational-strategy-in-information-warfare/mj-popcorn.jpg)
 
 # [NSA Surveillance and Streamed Data Signals Enable Horrifying Abuses](nsa-surveillance-and-streamed-data-signals-enable-horrifying-abuses)
 
@@ -464,7 +471,7 @@ of various provisions which protect the sacred nature of human rights.
 To a degree, a failure of superpower nations to respond to this is
 terrifying and portending.
 
-![Super saiyan](/img/posts/civil-disobedience-and-operational-strategy-in-information-warfare/goku-super-saiyan.png)
+![Super saiyan](/img/posts/2017-02-21-civil-disobedience-and-operational-strategy-in-information-warfare/goku-super-saiyan.png)
 
 The capacity by which international institutions evolve becomes
 limited once they are set in stone. Therefore a time of great
@@ -486,6 +493,17 @@ applies to another situation. This argument is compelling enough to at
 least warrant public hearing. This reasoning is that those labelled as
 non-enemy combatant targets are no longer US Citizens and these are
 thus transnational conflicts.
+
+Oh, and if you attempt to run, certain international legal protections
+are activated when one attempts to stop refugees from leaving their
+country. Those same legal protections should probably apply in
+transnational conflicts, especially when the tendency is to keep
+victims in the dark and depriving them of financial resources and a a
+career, so they have or use the option to run. Again, intentionally so
+that these protection aren't activated. It's criminal and implies
+legal research, the efforts of which are in themselves a warcrime.
+That's right, it's a warcrime to provide legal advice on how to get
+away with a warcrime.
 
 <a name="an-international-quasi-armed-conflict-fought-with-psychological-warfare" />
 
@@ -569,7 +587,7 @@ clues me into discerning connections in life.
 
 <a name="how-you-like-them-apples" />
 
-![HOW YOU LIKE THEM APPLES?](/img/posts/civil-disobedience-and-operational-strategy-in-information-warfare/how-you-like-them-apples.gif)
+![HOW YOU LIKE THEM APPLES?](/img/posts/2017-02-21-civil-disobedience-and-operational-strategy-in-information-warfare/how-you-like-them-apples.gif)
 
 ### [How You Like Them Apples?!](#how-you-like-them-apples)
 
