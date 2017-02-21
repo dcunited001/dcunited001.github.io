@@ -8,41 +8,62 @@ author:
 excerpt: ""
 ---
 
+Human civilization is currently undergoing a paradigm shift of
+cultural flux, precipitated by modernization, globalization and the
+Singularity. Does this shift imply an opportunity for the next major
+belief system to establish the semiotic foundation of human thought
+for the next astrological age? Yes, it does. However, this is not an
+opportunity. It's a necessicity and something that must be handled
+with care and unparalleled foresight. We must revise semiotic
+frameworks used by humanity (...)
+
+How do we adapt our culture to the (fundamentally different cultural
+paradigm created by modernization)
+
+- This post covers specific systems of signs and symbols often used as
+  semoitic binding points for myths.
+
 <a name="semiotic-binding-points-in-the-human-condition" />
 
 # [Semiotic Binding Points in the Human Condition](#semiotic-binding-points-in-the-human-condition)
 
-When constructing myths, what are examples of systems of signs,
-symbols, etc? Any set of signs common to a culture, nation or region
-can be mapped to multiple meanings. This is true of a signs to a
-varying degree of frequency. Of particular interest is the propensity
-over generations for gradual meditation on such semiotic signs to
-produce strikingly similar maps. Still another reason world religions
-share so many common traits.
+Any set of signs common to a culture, nation or region can be
+overlayed and mapped with multiple meanings.
+
+- This is true of signs to a varying degree of frequency... wtf?
+- Of particular interest:
+  - the propensity for similar maps to arise between geographically
+    distinct cultures to produce similar maps
+  - also, are there roles that need to be satisfied or are often
+    satisfied between different cultures.
+  - these two phenomena combined are another reason that world
+    religions share so many common traits.
+    - ... my brain.. .wtf
 
 <a name="astrology-commerce-agriculture-and-architecture" />
 
 ### [Astrology, Commerce, Agriculture and Architecture](#astrology-commerce-agriculture-and-architecture)
 
-Perhaps the most constant set of `signs` in the semiotic sense, this
-was the only strata of phenomena which was completely constant to
-pre-historic man. The weather was seasonal and varied. Children were
-born young and died before old age. Previous generations left their
-mark, but it faded fast. Stories and myths could be lost. Even the
-earth changed from time to time, but the stars were the only thing
-that never, ever changed, though it would have been difficult to
-verify to any degree of certainty. The pursuit of understanding the
-inner workings of celestial bodies -- their usefulness in regard to
-navigation and determining geography and eventually in profiting from
-commerce -- doubtlessly inspired measurement, quantification, the
-transmission of knowledge, and its maintainance.  Around the time we
-began to explore more complicated verbal language, how would one
-explain to someone else the constant nature of stars? How would
-someone prove that? How can one prove something in the physical world
-is constant without measuring it? Those questions likely lead us to
-pursue monolithic works and eventually architecture. Anything which
-broke from the constant nature of the stars would have been perceived
-as incredibly important. e.g. planets and supernovae.
+Perhaps the most constant set of signs in the semiotic sense,
+astrology was the only strata of phenomena found to be completely
+constant to pre-historic man. The weather was seasonal and
+varied. Children were born young and died before old age. Previous
+generations left their mark, but it faded fast. Stories and myths
+could be lost. Even the earth changed from time to time, but the stars
+were the only thing that never, ever changed, though it would have
+been difficult to verify to any degree of certainty. The pursuit of
+understanding the inner workings of celestial bodies -- their
+usefulness in regard to navigation and determining geography and
+eventually in profiting from commerce -- doubtlessly inspired
+measurement, quantification, the transmission of knowledge, and its
+maintainance.  Around the time we began to explore more complicated
+verbal language, how would one explain to someone else the constant
+nature of stars? How would someone prove that? How can one prove
+something in the physical world is constant without measuring it?
+Those questions likely lead us to pursue monolithic works and
+eventually architecture. Anything which broke from the constant nature
+of the stars would have been perceived as incredibly important.
+e.g. planets and supernovae.
 
 Furthermore, as a set of signs, astrology is unique across the world
 .. to a degree. The northern and southern hemispheres experience
@@ -52,8 +73,8 @@ in the year.
 The developments of primordial astrology, commerce, agriculture and
 architecture were incredibly important to humanity's development from
 a phenomenological perspective. Each of these represent a paradigm
-shift in humanity's understanding of how we related to the
-world. Astrology represents our ability to make measurements. Commerce
+shift in humanity's understanding of how we related to the world.
+Astrology represents our ability to make measurements. Commerce
 represents our ability to understand need and desire, to coordinate
 human activity and to intentionally precipitate social hierarchy, and
 to reward innovation. Agriculture represents a paradigm shift in how
@@ -204,21 +225,6 @@ than its worth.
 ### Misc Phenomena
 
 ... Everybody Poops
-
-### ???
-
-Human civilization is currently undergoing a paradigm shift of
-cultural flux, precipitated by modernization, globalization and the
-Singularity. Does this shift imply an opportunity for the next major
-belief system to establish the semiotic foundation of human thought
-for the next astrological age? Yes, it does. However, this is not an
-opportunity. It's a necessicity and something that must be handled
-with care and unparalleled foresight. We must revise semiotic
-frameworks used by humanity (...)
-
-How do we adapt our culture to the (fundamentally different cultural
-paradigm created by modernization)
-
 
 
 # Ragnarok

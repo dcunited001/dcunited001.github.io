@@ -293,7 +293,9 @@ these organizations publicly accountable any way. Once corruption gets
 bad enough it's self-reinforcing because everyone's on the take and,
 for an operation, everyone is culpable.
 
-# Ramifications to evolution of international law
+<a name="ramifications-to-international-law-evolutionary-dynamics" />
+
+# [Ramifications to International Law Evolutionary Dynamics](#ramifications-to-international-law-evolutionary-dynamics)
 
 The foundations of international law that protect individuals,
 unquestionable in the 20th century, find themselves undermined in
@@ -308,7 +310,14 @@ of various provisions which protect the sacred nature of human rights.
 To a degree, a failure of superpower nations to respond to this is
 terrifying.
 
-### [Systematic Harassment Campaigns, Including Psychological Torture, May Be Warcrimes]()
+The capacity by which international institutions evolve becomes
+limited once they are set in stone. Therefore a time of great
+sociological and phenomenological change may be the wrong time to
+stifle innovation by threat and little debated coercion.
+
+<a name="systematic-harassment-campaigns-utilizing-psychological-torture-warcrimes" />
+
+### [Systematic Harassment Campaigns Utilizing Psychological Torture: Warcrimes](#systematic-harassment-campaigns-utilizing-psychological-torture-warcrimes)
 
 By the way, there is a legal argument that psychological torture
 against a former US citizen, one labelled under the NDAA as a
@@ -322,7 +331,9 @@ least warrant public hearing. This reasoning is that those labelled as
 non-enemy combatant targets are no longer US Citizens and these are
 thus transnational conflicts.
 
-### An International Quasi-Armed Conflict Fought With Psychological Warfare
+<a name="an-international-quasi-armed-conflict-fought-with-psychological-warfare" />
+
+### [An International Quasi-Armed Conflict Fought With Psychological Warfare](#an-international-quasi-armed-conflict-fought-with-psychological-warfare)
 
 In turn, these transnational conflicts should then qualify as
 international quasi-armed conflicts fought with psychological warfare,
@@ -334,6 +345,8 @@ heath. If the sections of the Geneva Convention covering psychological
 torture actually apply to this kind of situation, that means these are
 war crimes. Oops, I guess the architects of this system missed
 something.
+
+<a name="no-what-is-transnationalism-is-not-actually-a-valid-response-to-trebek" />
 
 ### [No, "What is Transnationalism?" Is Not Actually a Valid Response to Trebek.](no-what-is-transnationalism-is-not-actually-a-valid-response-to-trebek)
 
@@ -349,6 +362,8 @@ foundation of paradigm of geographically defined nation
 states. Transnationalism is like the kryptonite to the permanence of
 western institutions that upheld the international framework of global
 governance in recent centuries.
+
+<a name="transnationalism-is-not-solid-material" />
 
 ### [Transnationalism Is Not Solid Material](#transnationalism-is-not-solid-material)
 
@@ -367,7 +382,7 @@ argument.
 What results? The desired endstate of postnationalism which, if
 reified, pervades at least until we colonize space.
 
-### [I Might Be An Idiot Savant, But I'd Rather Just Be A Savant]()
+# [I Might Be An Idiot Savant, But I'd Rather Just Be A Savant](#i-might-be-an-idiot-savant-but-id-rather-just-be-a-savant)
 
 These are like the things I talk about where the common person just
 tells me I'm crazy. Because I'm on another spectrum: our wavelengths
@@ -428,19 +443,96 @@ disobedience in the movements of MLK Jr. and Ghandi. Civil
 disobedience is markedly less effective in a society that censors
 information and distracts with meticulously manufactured red herrings.
 It doesn't mean these tactics don't work, but we need to understand
-which aspects of the system need to be dismantled so that they are
-effective.
+which aspects of the system need to be dismantled so that civil
+disobedience remains effective.
 
-- but an age of both apathy and virtualized life begins to annul the
-  capacity for growing a movement. if someone isn't permitted to have
-  a movement or sympathizers who is at the center of a controversy,
-  there is zero chance this person would have a fair trial. If the
-  details of such a national security case were known to be required
-  to remain secret or the outcome of the case was essentially
-  implicit, being ex parte, then there would also be near-zero chance
-  for actual justice or fair trial.
+An age of both apathy and virtualized life begins to annul the
+capacity for growing a movement. If someone at the center of a
+controversy isn't permitted to have an open movement of sympathizers
+or supporters, there is zero chance this person would have a fair
+trial. If the details of such a national security case were known to
+be required to remain secret or the outcome of the case was
+essentially implicit, being ex parte, then there would also be
+near-zero chance for actual justice or fair trial. Further, the
+likelihood of someone in such a case ever finding out is limited.
 
-- notes on how ghandi grew his movement with IRL social networking,
+### Comparison with Ghandi and Colonial India under Britain
+
+The forces that we're fighting are using the system against us. In
+India, Britain controlled the market for salt. This was before
+widespread refrigeration, even in the developed world.
+
+- britain had a monopoly on the Salt market in India
+  - and there were high taxes on it
+  - it was so tightly controlled that it was illegal for Indians to
+    produce their own salt.
+- this was an incredibly effective mechanism of control because
+  Indians couldn't withstand going without salt for very long because
+  of how tightly coupled salt was to food.
+  - that is, they were reliant on the British for food.
+- any time there was local protest in India, the british could play
+  the indian people against each other. controlling the salt and
+  indirectly controlling the food in an area allowed them to reinforce
+  control and monitor where the resistence was coming from
+  - they could switch things up to favor those Indians who would break
+    rank and stifle any protests.
+  - until this was corrected, protests almost served as a means of
+    identifying the structure of dissent, which gave british forces
+    a list of people to work against in a local region.
+    - protesting British control seemed counter-effective! it just
+      served as a means to become identified. these people would have
+      their neighbors and friends played against them.
+    - that is how it works folks. most of this is speculation on how
+      the british controlled india, by the way. so I might be omitting
+      information that would change how this is viewed.
+    - but basically, who ever was caught providing the means for
+      people to resist (extra salt, storing large amounts of food,
+      passing messages) they would be singled out if they helped
+      organize anything!
+
+### Ghandi's Salt March Built a Social Network ... in 1930!!
+
+- in 1930, Ghandi organized a protest, where he simply started walking
+  240 miles to a place in the arabian sea, where he could pick up the
+  salt of the earth.
+  - by the time he got there, there were thousands of people following
+    him. his protest was effective because of how simple it was. he
+    had a bit of notoriety beforehand, but this was a movement that
+    encouraged others to become involved.
+    - those who marched 200+ miles with him would remember that for
+      the rest of their life.
+    - thousands of people marching together from various regions
+      allowed those people to form a network of dissenters who would
+      communicate to aid the resistance
+    - and it was so simple. how can one make the salt of the earth
+      illegal? how could that possibly be illegal?
+
+    - also, it wasn't really illegal until these people got to the
+      Arabian Sea. That is, for the entire march, they were gaining
+      momentum and it wasn't until they got there that they were
+      "committing" a "crime" for which the enemy might arrest them!
+- Ghandi got people involved. he leveraged a powerful network of
+  people who were willing to stand alongside him and make sacrifices
+  for a cause. somehow, he managed to build this network and it takes
+  a very special kind of person to intuitively understand how this is
+  done.
+  - and be sure: people around the world who help implement systemic
+    suppression know this!! So the people trying to discourage dissent
+    tailor their tactics to sniff out organization and crush it before
+    it gains momentum. So the key is figuring out how to find a
+    message that resonates with peoples hearts and making it go viral
+
+###
+
+Ghandi was conscientious & self-aware of his manipulation of social
+networking. If this is correct, then Ghandi would have started 200 or
+so miles out from the Arabian Sea and, to maximize the effect of the
+salt march, he would have sent people north, northwest, south and
+southwest at the start of his march to gather as many people as
+possible.
+
+
+#
 
 Are we engaged in psychological warfare against our own citizens?  Is
 there widespread information warfare? People deserve a right to know
