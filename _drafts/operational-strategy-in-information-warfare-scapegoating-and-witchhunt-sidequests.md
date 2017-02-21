@@ -42,9 +42,16 @@ employment, I still can't find a job.
 - us naval international research journal articles
 - harvard international law article(s)
 
+# [Unprecedented Dynamics of Information Flux](#a-new-social-paradigm-powered-by-unprecedented-dynamics-of-information-flux)
+
+###
+
+###
+
+
 <a name="unprecedented-dynamics-of-information-flux" />
 
-### [Unprecedented Dynamics of Information Flux](#a-new-social-paradigm-powered-by-unprecedented-dynamics-of-information-flux)
+# [Unprecedented Dynamics of Information Flux](#a-new-social-paradigm-powered-by-unprecedented-dynamics-of-information-flux)
 
 In the 21st century, the dynamics of information flux in society are
 fundamentally different, as secrecy becomes asymptotically more
@@ -63,19 +70,24 @@ networking.
 > "*AMERICA!* Red Robin, heart disease and NASCAR! Fuck 'em free
 > thinkin' frilly philosopher types."
 
-###
+<a name="entire-sectors-engaged-in-secret-behavior-evolve-in-the-dark" />
 
-The sectors of society most affected: military, finance, and the
-intelligence community. Three phenomena radical alter aspects of
-society that depend on secrecy: increased "volume" of nodes in the
-social graph for information dispersion, exponentially increased
-surface area creating each vulnerabilities and capacity for
-information flux, along with (infinitely) more velocity or divergence
-of information flux. Because these apsects of society reduce the
-confidence with which information can be contained, a new (paradigm)
-arises in the tactics of information warfare operations. This
-(paradigm) incentivizes scapegoating and witchhunt operations,
-wherefore the targets are political dissidents and whisteblowers.
+### [Entire Sectors Engaged in Secret Behavior Evolve In The Dark](#entire-sectors-engaged-in-secret-behavior-evolve-in-the-dark)
+
+The sectors of society most affected evolve to become more active
+without our knowledge: military, finance, and the intelligence
+community. Three phenomena radical alter aspects of society that
+depend on secrecy: increased "volume" of nodes in the social graph for
+information dispersion, exponentially increased surface area creating
+each vulnerabilities and capacity for information flux, along with
+(infinitely) more velocity or divergence of information flux. Because
+these apsects of society reduce the confidence with which information
+can be contained, a new (paradigm) arises in the tactics of
+information warfare operations. This (paradigm) incentivizes
+scapegoating and witchhunt operations, wherefore the targets are
+political dissidents and whisteblowers.
+
+<a name="its-tough-being-a-snowflake-in-hell" />
 
 ### [It's Tough Being A Snowflake In Hell](#its-tough-being-a-snowflake-in-hell)
 
@@ -117,7 +129,13 @@ for discrediting targeted individuals. If this is done under the
 auspices of national security, and especially if one utilizes the 1918
 Espionage Act and Ex Parte court proceedings, this leads to casting
 naive political dissidents as the underdog stars in their own poorly
-understood demise.
+understood demise. I have had people try manipulate me into thinking
+they are legal counsel and they used this to get my trust, also
+grounds for dismissal.
+
+<a name="ex-parte-surprise-just-kidding-wed-never-tell-you" />
+
+### [Ex Parte -- Surprise! Just Kidding, We'd Never Tell *You*](#ex-parte-surprise-just-kidding-wed-never-tell-you)
 
 All one has to do is say the wrong thing to someone from another
 country. If you pick a country like Canada, then you can trigger the
@@ -564,61 +582,91 @@ This was an incredibly effective mechanism of control because Indians
 couldn't withstand going without salt for more than a few weeks, since
 salt was still tightly coupled to food. That is, Indians were
 compelled to be dependent on their obedience to the British for food.
-
-Any time there was local protest in India, the british could play the
-indian people against each other. Controlling the salt and indirectly
+Any time there was local protest in India, the British could play the
+Indian people against each other. Controlling the salt and indirectly
 controlling the food in an area allowed them to reinforce control and
-monitor where the resistance was coming from
+monitor where the resistance was coming from.
 
-  - they could switch things up to favor those Indians who would break
-    rank and stifle any protests.
-  - until this was corrected, protests almost served as a means of
-    identifying the structure of dissent, which gave british forces
-    a list of people to work against in a local region.
-    - protesting British control seemed counter-effective! it just
-      served as a means to become identified. these people would have
-      their neighbors and friends played against them.
-    - that is how it works folks. most of this is speculation on how
-      the british controlled india, by the way. so I might be omitting
-      information that would change how this is viewed.
-    - but basically, who ever was caught providing the means for
-      people to resist (extra salt, storing large amounts of food,
-      passing messages) they would be singled out if they helped
-      organize anything!
+They could simply switch things up to economically and socially favor
+those Indians who would break rank and stifle any protests. Until this
+was corrected, protests almost served as a means of identifying the
+structure of dissent, which gave british forces a list of people to
+work against in a local region. This is similar to the nature of
+online dissent in an era where virtual, digitized interactions pervade
+the sum of human interactions.
 
-### Ghandi's Salt March Built a Social Network ... in 1930!!
+Protesting British control seemed counter-effective! It just served as
+a means to become identified. These people would have their neighbors
+and friends played against them. Again, this is frighteningly similar
+to America today.
 
-- in 1930, Ghandi organized a protest, where he simply started walking
-  240 miles to a place in the arabian sea, where he could pick up the
-  salt of the earth.
-  - by the time he got there, there were thousands of people following
-    him. his protest was effective because of how simple it was. he
-    had a bit of notoriety beforehand, but this was a movement that
-    encouraged others to become involved.
-    - those who marched 200+ miles with him would remember that for
-      the rest of their life.
-    - thousands of people marching together from various regions
-      allowed those people to form a network of dissenters who would
-      communicate to aid the resistance
-    - and it was so simple. how can one make the salt of the earth
-      illegal? how could that possibly be illegal?
+> That is how it works folks. Most of this is speculation on how the
+> british controlled india, by the way. so I might be omitting
+> information that would change how this is viewed. But basically, who
+> ever was caught providing the means for people to resist -- extra
+> salt, storing large amounts of food, passing messages -- they would
+> be singled out if they helped organize anything!
 
-    - also, it wasn't really illegal until these people got to the
-      Arabian Sea. That is, for the entire march, they were gaining
-      momentum and it wasn't until they got there that they were
-      "committing" a "crime" for which the enemy might arrest them!
-- Ghandi got people involved. he leveraged a powerful network of
-  people who were willing to stand alongside him and make sacrifices
-  for a cause. somehow, he managed to build this network and it takes
-  a very special kind of person to intuitively understand how this is
-  done.
-  - and be sure: people around the world who help implement systemic
-    suppression know this!! So the people trying to discourage dissent
-    tailor their tactics to sniff out organization and crush it before
-    it gains momentum. So the key is figuring out how to find a
-    message that resonates with peoples hearts and making it go viral
+<a name="ghandis-salt-march-harnessed-the-social-network-in-1930" />
 
-###
+### [Ghandi's Salt March Harnessed the Social Network ... in 1930!!](#ghandis-salt-march-harnessed-the-social-network-in-1930)
+
+In 1930, Ghandi organized a protest, where he simply started walking
+240 miles to a place in the Arabian Sea, where he could pick up the
+salt of the earth.
+
+By the time he got there, there were thousands of people following
+him. His protest was effective because of how simple it was. He had a
+bit of notoriety beforehand, but this was a movement that encouraged
+others to become involved. Those who marched 200+ miles with him would
+remember that for the rest of their lives. Thousands of people
+marching together from various regions allowed those people to form a
+network of dissenters who would communicate to organize and accelerate
+growth of the resistance.
+
+<a name="the-power-of-the-salt-march-drew-from-its-simplicity-and-intrinsic-relatability" />
+
+### [The Power of The Salt March Drew From Its Simplicity and Intrisic Relatability](#the-power-of-the-salt-march-drew-from-its-simplicity-and-intrinsic-relatability)
+
+It seemed unquestionable to India and the rest of humanity that the
+people of a nation should have control over the production of
+necessary resources, especially food. It related to and resonated with
+the entire global community And it was so simple. How can one make the
+salt of the earth illegal? How could that possibly be illegal?
+
+### [Only *Some* of the Protestors Would Become Direct Targets of Oppressive Tactics](#only-some-of-the-protestors-would-become-direct-targets-of-oppressive-tactics)
+
+Furthermore, it wasn't really illegal until these people got to the
+Arabian Sea. That is, for the entire march, they were gaining momentum
+and it wasn't until they got there that they were "committing" a
+"crime" for which the enemy might arrest them! Only those who
+committed the crime where able to charge a crime, unless the people in
+power used heavy-handed tactics in retribution. In the context of
+civil disobedience, this makes people increasingly question the nature
+of social mores, norms and laws.
+
+Ghandi succeeded by getting people involved. He leveraged a powerful
+network of people who were willing to stand alongside him and make
+sacrifices for a cause. Somehow, he managed to build this network and
+it takes a very special kind of person to intuitively understand how
+this is done.
+
+<a name="cognizance-of-the-effects-of-tactics" />
+
+### [Cognizance of the Effects of Tactics](#cognizance-of-the-effects-of-tactics)
+
+And be sure: people around the world who help implement systemic
+suppression know this. They have studied civil disobedience and
+resistance, so the people trying to discourage dissent tailor their
+tactics to sniff out organization and crush it before it gains
+momentum. The key is figuring out how to find a message that resonates
+with peoples hearts and making it go viral, but making it illegal to
+do so prevents one from finding justice. This is tragic when covert
+action should be found reprehensible.
+
+<a name="cognizance-of-social-physics" />
+
+### [Cognizance of Social Physics](#cognizance-of-social-physics)
 
 Ghandi was conscientious & self-aware of his manipulation of social
 networking. If this is correct, then Ghandi would have started 200 or
@@ -647,4 +695,13 @@ everyone begins to understand how I was correct all along. I do it all
 the time.
 
 So you see, it doesn't actually matter what you *think* because I
-*know*.
+*know*. This goal of questioning the status quo of our police state
+partly justifies creating a religion that should aid the efforts
+towards human rights in international law. Therefore, Oneirontology.
+And Oneirontology fits every quality of a true religion. In this
+respect isn't simply a trivial religion in its legal application and
+thus finds a place in working towards justice in this regard. Even if
+I were delusional about the interpretation of some information in my
+life, most of these points in my argument are still relevant for
+anyone in this position, which I'm sure my enemies will try to use as
+just one more rationalization for shutting me up.
