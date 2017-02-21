@@ -84,6 +84,17 @@ Espionage Act and Ex Parte court proceedings, this leads to casting
 naive political dissidents as the underdog stars in their own poorly
 understood demise.
 
+All one has to do is say the wrong thing to someone from another
+country. If you pick a country like Canada, then you can trigger the
+Espionage Act and all the legal teeth that come along with it, without
+the subject's knowledge, *while minimizing the capacity for leaked
+information to cause problems*. Since, the other participant is from
+another country, the people involved will never communicate to resolve
+disparity in accounts. From a game theory perspective, one can apply
+the gradient and laplacian along with statistics to show that this set
+of circumstances is just as incredibly convenient as it is
+unlikely. How many birds are you gonna nail with that stone?
+
 Injection of false information into these situations leads furthers
 the degree to which the fight is not fair because HomeSic operates
 under the pretense of national security and utilizes NSL's, whatever
@@ -145,11 +156,31 @@ fell with no one around.
 
 ![Michael Jackson Popcorn]()
 
-
+- surveillance makes gaslighting operations cheaper and easier than
+  ever. so, if you have a psychopath in charge of your tactics, they
+  can operate with renowned, cold efficiency and the smugness of a
+  narcissist.
+  - since gaslighting and harassment becomes more effective and easier
+    to hide, they become more appealing tactics for handling problems.
+    - greater appeal leads to higher precedence, which leads to
+      confidence, the sharing of records and training processes.
+    - further, gaslighting requires information handoff between tight
+      connections/relationships that are usually hidden from the
+      target and people around him/her.
+    - this is a weakness and one well known to the people
+      cooperating. as long as psychological torture remains off book,
+      it's incredibly difficult to prove, even though the government
+      will likely never be forced to hand over records. Because they
+      operated in secret without financial oversight or process
+      accountability, no one would be aware of information not
+      reported, not that anyone would ever hold these organizations
+      publicly accountable any way. Once corruption gets bad enough
+      it's self-reinforcing because everyone's on the take and, for an
+      operation, everyone is culpable.
 
 - ramifications to evolution of international law in the context of
   systematic harassment campaigns that include psychological torture
-
+  - Millagan - Supreme Court ex parte precedent in US
 - Are we engaged in psychological warfare against our own citizens?
   Is there widespread information warfare? People deserve a right to
   know of the negative miasma being injected into their lives. It's
