@@ -179,9 +179,41 @@ fell with no one around.
       operation, everyone is culpable.
 
 - ramifications to evolution of international law in the context of
-  systematic harassment campaigns that include psychological torture
+  systematic harassment campaigns that include psychological torture?
+  - the foundations of international law that protect individuals
+    which were unquestionable in the 20th century find themselves
+    undermined in secret.
+    - I could be wrong about this, but is the US Naval War College
+      paper searching for loopholes and especially for psychological
+      torture and surveillance feuled harassment? transnationalism
+      expands the frame by which certain international treaty
+      provisions are examined, rendering them useless in an attempt to
+      protect the sacred nature of human rights. What is
+      transnationalism? Nobody fucking knows. Since transationalism
+      acquires various labels and varied handling in different studies
+      of humanities, it's true nature remains highly elusive to me.
+      - but it's utility in smashing the Treaty of Westphalia and its
+        international legal paradigm of geographically bound nations
+        is palpable, if rarely examined.
+      - transnationalism is like the kryptonite to the permanence of
+        western institutions that upheld the international framework
+        of global governance in recent centuries.
+      - for example, the concept of a transnational corporation is
+        completely different than a transnational conflict. But, a
+        transnational NIAC is not bound by the provisions of the
+        Geneva Convention which bar the use of psychological
+        torture. Transnationalism in its legal sense threatens to
+        undermine certain long held constants of interational law.
   - Millagan - Supreme Court ex parte precedent in US
 - Are we engaged in psychological warfare against our own citizens?
   Is there widespread information warfare? People deserve a right to
   know of the negative miasma being injected into their lives. It's
   cowardly to shoot someone in the back.
+
+- But here's what i love about the combinatorial process by which one
+  enumerates over sociocultural phenomina to discover (exigent)
+  finalities: I'm right and you're wrong. There are no circumstances
+  that would allow this ignorant, corrupt behavior to continue
+  indefinitely. The phenomena mutate until they reach those (exigent)
+  finalities and then everyone begins to understand how I was correct
+  all along. I do it all the time.
