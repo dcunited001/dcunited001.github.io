@@ -88,10 +88,49 @@ Injection of false information into these situations leads furthers
 the degree to which the fight is not fair because HomeSic operates
 under the pretense of national security and utilizes NSL's, whatever
 they are. That's a misnomer because these assholes don't operate on
-paper.
+paper and, especially if they did, there's no way people wouldn't help
+me if they truly knew what was going on. The nature of my own
+situation remains a mystery to me, which leads me to persistant
+inquisition. I guess I could be crazy, but that would suck if my own
+testimony was disqualified or generally manipulated against in my own
+unknown Ex Parte proceedings, *without my knowledge of testimonies.*
+Because in an Ex Parte hearing, *you often don't attend.* Testimony
+could theoretically proceed via wiretap, with the cold, efficiency of
+a heartless psychopath.
 
+> "No one will find out? Even if they do, no one will really care
+> because we made sure he stayed a pariah?
+>
+> NO CONSEQUENCES?! *PERFECT!*
+>
+> -- Every sociopath ever
 
-to witchhunt sidequests to publicly humiliate scapegoated individuals,
+The ways, means and tactics invite group sociopathy, workplace mobbing
+(especially in the context of a recession), carniverous social
+dynamics and meticulously planned witchhunt sidequests. In the context
+of a recession, workplace mobbing is trivial to evoke against
+political dissidents, which furthers the goal of marginalizing them
+with [occupational injustice](). For the people at the heart of this,
+national security is a tempting explanation for their actions because
+they need the concept national security in the calculus of the common
+person's decision making. So, they'll do it and they'll publicly use
+it as rational, unless it's a specific case, where they'll secretly
+use it for rationalization while strong-arming people who can't
+legally make a sound. If they ever make a massive mistake, the
+temptation will be to keep it a secret to prevent anyone from finding
+out, while flooding people's minds with misinformation, without the
+knowledge of the target.
+
+More to the point, if your strategy includes marginalization, then
+you've ensured that the option of striking while no one's connected to
+this person optimizes its secrecy, makes its timing more flexible,
+increases the range of available options and increases the amount of
+time that one has to run operations while no one's looking. To be
+straight, I'm saying these people would intentionally isolate
+individuals and employ career assassination for psyshcosocial
+manipulation.
+
+...  witchhunt sidequests to publicly humiliate scapegoated individuals,
 which offers the convenient opportunity to tackle the logistic growing
 pains of the national security industry. Just make sure you pick
 someone vulnerable whom you've ensured is socially isolated through a
