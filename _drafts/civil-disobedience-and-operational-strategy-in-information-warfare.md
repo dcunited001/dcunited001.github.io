@@ -36,7 +36,7 @@ philosophy, linguistics, semiotics and countless other subjects. But
 in an economy where a myriad of skills fuel your capacity for
 employment, I still can't find a job.
 
-![Coursera Pic](/img/posts)
+![Coursera Pic](/img/posts/civil-disobedience-and-operational-strategy-in-information-warfare/coursera-grades.png)
 
 # [References for Legal Ideas Discussed](#references-for-legal-ideas-discussed)
 
@@ -172,7 +172,7 @@ fiction, you could have memories implanted as a political dissident to
 be made an example and unjustly humiliated in front of the entire
 nation.
 
-![Hecatia Lapis-Lazuli]()
+![Lapis-Lazuli](/img/posts/civil-disobedience-and-operational-strategy-in-information-warfarec/hecatia-lapislazuli.jpg)
 
 > And it's just business, nothing personal... Welcome to Hell, baby
 > snowflake. You'll be here for a little while, but not for long. Ford
@@ -401,7 +401,7 @@ fell with no one around.
 > back, but it's kinda funny when they squirm, ain't it?" -- America,
 > if I'm getting this right.
 
-![Michael Jackson Popcorn]()
+![Michael Jackson Popcorn](/img/posts/civil-disobedience-and-operational-strategy-in-information-warfare/mj-popcorn.jpg)
 
 # [NSA Surveillance and Streamed Data Signals Enable Horrifying Abuses](nsa-surveillance-and-streamed-data-signals-enable-horrifying-abuses)
 
@@ -464,7 +464,7 @@ of various provisions which protect the sacred nature of human rights.
 To a degree, a failure of superpower nations to respond to this is
 terrifying and portending.
 
-![picture of super saiyan]()
+![Super saiyan](/img/posts/civil-disobedience-and-operational-strategy-in-information-warfare/goku-super-saiyan.png)
 
 The capacity by which international institutions evolve becomes
 limited once they are set in stone. Therefore a time of great
@@ -569,7 +569,7 @@ clues me into discerning connections in life.
 
 <a name="how-you-like-them-apples" />
 
-![HOW YOU LIKE THEM APPLES?]()
+![HOW YOU LIKE THEM APPLES?](/img/posts/civil-disobedience-and-operational-strategy-in-information-warfare/how-you-like-them-apples.gif)
 
 ### [How You Like Them Apples?!](#how-you-like-them-apples)
 
@@ -607,13 +607,15 @@ kind of arbitary wormhole legal system?
 > social signals they are permitted. That is the purpose of
 > disconnection and it makes someone more susceptible to gaslighting.
 
-[Stephen Colbert: Never Fjorget What Happened in Sweden]()
+#### Stephen Colbert: Never Fjorget What Happened in Sweden
 
-#### TODO: Youtube link
-
-![Ming+FS - The Human Condition]()
+<iframe width="560" height="315" src="https://www.youtube.com/embed/QbN4QGhrkxg" frameborder="0" allowfullscreen></iframe>
 
 <a name="natural-justice-and-the-human-condition" />
+
+#### Ming+FS - The Human Condition
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/qMfbR-u-1FM" frameborder="0" allowfullscreen></iframe>
 
 # [Natural Justice and the Human Condition](#natural-justice-and-the-human-condition)
 
@@ -629,6 +631,8 @@ search for understanding God as a judge seems to have inspired
 religion to found institutions in pursuit of the codification of this
 ideal set of laws. IMO, people today have no idea what the concept of
 God actually is.
+
+<a name="the-emperor-wears-no-clothes" />
 
 ### ["The Emperor Wears No Clothes"](#the-emperor-wears-no-clothes)
 
