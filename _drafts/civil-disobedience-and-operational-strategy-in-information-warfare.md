@@ -1,5 +1,5 @@
 ---
-title: "The Operational Level of Information Warfare: Scapegoating and Witchhunt Sidequests"
+title: "Civil Disobedience and the Operational Level of Information Warfare"
 categories: "graphics"
 tags: "'operational strategy' military 'information warfare'"
 headline: "Subglyph It For Great Good"
@@ -18,8 +18,8 @@ dynamic the escapes the paradigm of secrecy in every era until
 now. Since the epoch before commerce and discovery of metallurgy, the
 incentive to keep information secret has pervaded culture, even
 resulting in cultural movements such as esotericism. That paradigm in
-the background of human culture itself has eluded the need for
-(inspection).
+the background of human culture itself has eluded the need for close
+inspection.
 
 > "Remember, I'm writing this article with less than $20 to my name
 > and less than $400 in annual income from 2016. I have never taken
@@ -35,6 +35,8 @@ capital, finance, accounting, pure math, programming, pharmacology,
 philosophy, linguistics, semiotics and countless other subjects. But
 in an economy where a myriad of skills fuel your capacity for
 employment, I still can't find a job.
+
+![Coursera Pic](/img/posts)
 
 # [References for Legal Ideas Discussed](#references-for-legal-ideas-discussed)
 
@@ -106,7 +108,21 @@ employment, I still can't find a job.
 
 ## ["Find Your Salt March"](#find-your-salt-march)
 
+### [Britain Controlled India By Leveraging Salt to Control the Food Supply](#britain-controlled-india-by-leveraging-salt-to-control-the-food-supply)
 
+### [Can't Win? Play Another Game](#cant-win-play-another-game)
+
+### [Ghandi's Salt March Harnessed the Social Network ... in 1930!!](#ghandis-salt-march-harnessed-the-social-network-in-1930)
+
+### [The Power of The Salt March Drew From Its Simplicity and Intrisic Relatability](#the-power-of-the-salt-march-drew-from-its-simplicity-and-intrinsic-relatability)
+
+### [Only *Some* of the Protestors Would Become Direct Targets of Oppressive Tactics](#only-some-of-the-protestors-would-become-direct-targets-of-oppressive-tactics)
+
+# [Cognizance of the Effects of Tactics Countering Civil Disobedience](#cognizance-of-the-effects-of-tactics-countering-civil-disobedience)
+
+### [Cognizance of Social Physics](#cognizance-of-social-physics)
+
+# [Is This A Muted Conflict Waged Against Our Own Citizens?](#is-this-a-muted-conflict-waged-against-our-own-citizens)
 
 <a name="unprecedented-dynamics-of-information-flux" />
 
@@ -652,7 +668,20 @@ The forces that we're fighting are using the system against us. In
 India, Britain controlled the market for salt. This was before
 widespread refrigeration, even in the developed world.
 
-### [Britain Controlled India By Leveraging Salt to Control the Food Supply]()
+When I got sent to the ER and institutionalized into a mental health
+facility, what was I doing? Sitting in front of the statue of Martin
+Luther on the Roanoke College campus, reading Romans 7/8 and telling
+people to "find their salt march." Apparently, non sequitors,
+covert-yet-plainview protest and performance art are indications of
+mental illness in 21st century society. So, like Martin Luther, I
+faced retribution for an unwelcome message that wasn't well
+understood. Oh and now I can't join the military because the people
+who indicated surveillance couldn't be seen to have tortured a
+patriot, so they interfered.
+
+<a name="britain-controlled-india-by-leveraging-salt-to-control-the-food-supply" />
+
+### [Britain Controlled India By Leveraging Salt to Control the Food Supply](#britain-controlled-india-by-leveraging-salt-to-control-the-food-supply)
 
 Britain had a monopoly on the Salt market in India. High taxes
 restricted its supply and provided funding to Britain in proportion to
@@ -677,6 +706,10 @@ structure of dissent, which gave british forces a list of people to
 work against in a local region. This is similar to the nature of
 online dissent in an era where virtual, digitized interactions pervade
 the sum of human interactions.
+
+<a name="cant-win-play-another-game" />
+
+### [Can't Win? Play Another Game](#cant-win-play-another-game)
 
 Protesting British control seemed counter-effective! It just served as
 a means to become identified. These people would have their neighbors
@@ -717,6 +750,8 @@ necessary resources, especially food. It related to and resonated with
 the entire global community And it was so simple. How can one make the
 salt of the earth illegal? How could that possibly be illegal?
 
+<a name="only-some-of-the-protestors-would-become-direct-targets-of-oppressive-tactics" />
+
 ### [Only *Some* of the Protestors Would Become Direct Targets of Oppressive Tactics](#only-some-of-the-protestors-would-become-direct-targets-of-oppressive-tactics)
 
 Furthermore, it wasn't really illegal until these people got to the
@@ -734,9 +769,9 @@ sacrifices for a cause. Somehow, he managed to build this network and
 it takes a very special kind of person to intuitively understand how
 this is done.
 
-<a name="cognizance-of-the-effects-of-tactics" />
+<a name="cognizance-of-the-effects-of-tactics-countering-civil-disobedience" />
 
-### [Cognizance of the Effects of Tactics](#cognizance-of-the-effects-of-tactics)
+# [Cognizance of the Effects of Tactics Countering Civil Disobedience](#cognizance-of-the-effects-of-tactics-countering-civil-disobedience)
 
 And be sure: people around the world who help implement systemic
 suppression know this. They have studied civil disobedience and
