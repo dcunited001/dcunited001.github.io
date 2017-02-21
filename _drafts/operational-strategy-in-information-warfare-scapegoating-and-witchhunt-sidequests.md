@@ -289,6 +289,24 @@ for an operation, everyone is culpable.
   (exigent) finalities and then everyone begins to understand how I
   was correct all along. I do it all the time.
 
+- I believe in natural justice
+  - spiel on natural justice
+  - MLK Jr. and Ghandi's movements were fueled by social dynamics
+    created because, in response to tragedy and clear wrong doing,
+    yearning for natural justice moves people to action.
+  - in "The Emperor Wears No Clothes" a child is moved to action
+    because the corners we all cut in adult life haven't yet marred
+    the lens that the naive and innocent use to see life.
+  - the human condition pushes us to want and act for change when we
+    allow ourselves to see what is intolerable in life
+  - This is what powered civil disobedience in the movements of MLK
+    Jr. and Ghandi. Civil disobedience is markedly less effective in a
+    society that censors information and distracts with meticulously
+    manufactured red herrings.
+  - it doesn't mean these tactics don't work, but we need to
+    understand which aspects of the system need to be dismantled so
+    that they are effective.
+
 - Are we engaged in psychological warfare against our own citizens?
   Is there widespread information warfare? People deserve a right to
   know of the negative miasma being injected into their lives. It's
