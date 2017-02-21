@@ -42,11 +42,70 @@ employment, I still can't find a job.
 - us naval international research journal articles
 - harvard international law article(s)
 
-# [Unprecedented Dynamics of Information Flux](#a-new-social-paradigm-powered-by-unprecedented-dynamics-of-information-flux)
+## [Unprecedented Dynamics of Information Flux](#a-new-social-paradigm-powered-by-unprecedented-dynamics-of-information-flux)
 
-###
+#### [Entire Sectors Engaged in Secret Behavior Evolve In The Dark](#entire-sectors-engaged-in-secret-behavior-evolve-in-the-dark)
 
-###
+#### [It's Tough Being A Snowflake In Hell](#its-tough-being-a-snowflake-in-hell)
+
+#### [Automatic Generation of Disinformation By Algorithmic Extrapolation](#algorithmic-generation-of-disinformation-by-algorithmic-extrapolation)
+
+## [Human Rights and Rigorous Utilitarian Efficiency](#human-rights-and-rigorous-utilitarian-efficiency)
+
+#### [Ex Parte -- Surprise! Just Kidding, We'd Never Tell *You*](#ex-parte-surprise-just-kidding-wed-never-tell-you)
+
+#### [The Nature of My Persistant Inquisition Remains A Mystery](#the-nature-of-my-persistant-inquisition-remains-a-mystery)
+
+#### [The Documented IC Drone Strike Process Is Terrifyingly Similar to Ex Parte Cases](#the-documented-ic-drone-strike-process-is-terrifyingly-similar-to-the-ex-parte-cases)
+
+#### [Inviting Group Sociopathy](#-invite-hivemind-sociopath)
+
+#### [Mobbing, Negative Processing via Psychological OT and Occupational Injustice](#mobbing-negative-processing-via-psychological-ot-and-occupational-injustice)
+
+## [A Cover AND A Growth Hack](#a-cover-and-a-growth-hack)
+
+#### [Organized Crime Becomes Comorbid](#organinized-crime-could-become-comorbid)
+
+#### [Marginalization By Silo For Protection of "National Security"](#marginalization-by-silo-for-protection-of-national-security)
+
+#### [Unchecked Corruption Becomes Metastatic](#unchecked-corruption-becomes-metastatic)
+
+#### Self-Incrimination Reinforces Collusive Patterns of Behavior Under Cover](#self-incrimination-reinforces-collusive-patterns-of-behavior-under-cover)
+
+#### [Surveillance-Powered Harassment](#surveillance-powered-harassment)
+
+#### [Logistics and Anticipated HomeSic Growing Pains](#logistics-and-anticipated-homesic-growing-pains)
+
+## [NSA Surveillance and Streamed Data Signals Enable Horrifying Abuses](nsa-surveillance-and-streamed-data-signals-enable-horrifying-abuses)
+
+#### [Greater Prevalence of Psychological Tactics](#greater-prevalence-of-psychological-tactics)
+
+#### [Insufficient Records of Activity Employing Psychological and Medical Means](#insufficient-records-of-activity-employing-psychological-and-medical-means)
+
+## [Ramifications to International Law Evolutionary Dynamics](#ramifications-to-international-law-evolutionary-dynamics)
+
+#### [Systematic Harassment Campaigns Utilizing Psychological Torture: Warcrimes](#systematic-harassment-campaigns-utilizing-psychological-torture-warcrimes)
+
+#### [An International Quasi-Armed Conflict Fought With Psychological Warfare](#an-international-quasi-armed-conflict-fought-with-psychological-warfare)
+
+#### [No, "What is Transnationalism?" Is Not Actually a Valid Response to Trebek.](no-what-is-transnationalism-is-not-actually-a-valid-response-to-trebek)
+
+#### [Transnationalism Is Not Solid Material](#transnationalism-is-not-solid-material)
+
+## [I Might Be An Idiot Savant, But I'd Rather Just Be A Savant](#i-might-be-an-idiot-savant-but-id-rather-just-be-a-savant)
+
+#### [N-Polynomial Expansion Provides A Parameterizeable Analytical Solution for Approximating Any Problem](#n-polynomial-expansion-provides-a-parameterizeable-analytical-solution-for-approximating-any-problem)
+
+#### [How You Like Them Apples?!](#how-you-like-them-apples)
+
+## [Natural Justice and the Human Condition](#natural-justice-and-the-human-condition)
+
+#### ["The Emperor Wears No Clothes"](#the-emperor-wears-no-clothes)
+
+#### [Apathy and Virtualized Life Begin to Annul The Precipitation of a Movement]
+
+## ["Find Your Salt March"](#find-your-salt-march)
+
 
 
 <a name="unprecedented-dynamics-of-information-flux" />
@@ -105,6 +164,8 @@ nation.
 > speech as long as you acknowledge your limitations, tremoring in
 > fear. Hey, at least there's still freedom of religion, right?
 
+<a name="algorithmic-generation-of-disinformation-by-algorithmic-extrapolation" />
+
 ### [Automatic Generation of Disinformation By Algorithmic Extrapolation](#algorithmic-generation-of-disinformation-by-algorithmic-extrapolation)
 
 The tendancy of convergence towards information omnipresence leads to
@@ -117,7 +178,9 @@ and third order effects in our shared virtual theatre of information
 warfare, which preciptates deceptive tactics to deal with what are
 acknowledged by all as inevitable information leaks.
 
-###
+<a name="human-rights-and-rigorous-utilitarian-efficiency" />
+
+# [Human Rights and Rigorous Utilitarian Efficiency](#human-rights-and-rigorous-utilitarian-efficiency)
 
 From a mindset of rigorous utilitarian efficiency not limited by the
 burdens of "human rights" and civilian welfare, one should just
@@ -157,12 +220,16 @@ help me if they truly knew what was going on. The lack of records
 increases the degree by which their actions can be construed as
 indicative of cognizance.
 
+<a name="the-nature-of-my-persistant-inquisition-remains-a-mystery" />
+
+### [The Nature of My Persistant Inquisition Remains A Mystery](#the-nature-of-my-persistant-inquisition-remains-a-mystery)
+
 The nature of my own situation remains a mystery to me, which leads me
 to persistant inquisition. I guess I could be crazy, but that would
 suck if someone's own testimony was disqualified or generally
 manipulated against them in their own unknown Ex Parte
 proceedings. This can feasibly operated *without their knowledge of
-giving testimony.* Because in an Ex Parte hearing, *you usually don't
+giving testimony.* In Ex Parte hearings, *the defendents usually don't
 attend.* Testimony could theoretically proceed via wiretap, with the
 cold, efficiency of a heartless psychopath.
 
@@ -172,6 +239,22 @@ cold, efficiency of a heartless psychopath.
 > NO CONSEQUENCES?! *PERFECT!*
 >
 > -- Every sociopath ever
+
+<a name="the-documented-ic-drone-strike-process-is-terrifyingly-similar-to-the-ex-parte-cases" />
+
+### [The Documented IC Drone Strike Process Is Terrifyingly Similar to Ex Parte Cases](#the-documented-ic-drone-strike-process-is-terrifyingly-similar-to-the-ex-parte-cases)
+
+#### TODO: link resource of documentation
+
+Ex Parte and Espionage Act trials are similar to the legal process
+used when the intelligence communities debate the necessity and
+implementation of "drone" strikes, the documentation for which
+actually specifies processes for deciding method of delivery. The
+government in ex parte cases and drone strikes has essentially decided
+the party's guilt in secret -- or quickly does in absence of the
+defendents, a tragically ironic term because they aren't actually
+allowed to defend themselves. The discussions instead center more on
+the specifics of dispensing retribution, apparently...
 
 - Millagan - Supreme Court ex parte precedent in US
 
