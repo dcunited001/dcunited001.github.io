@@ -130,10 +130,11 @@ straight, I'm saying these people would intentionally isolate
 individuals and employ career assassination for psyshcosocial
 manipulation.
 
-...  witchhunt sidequests to publicly humiliate scapegoated individuals,
-which offers the convenient opportunity to tackle the logistic growing
-pains of the national security industry. Just make sure you pick
-someone vulnerable whom you've ensured is socially isolated through a
+Witchhunt sidequests to publicly humiliate scapegoated individuals are
+cleverly disguised initiatives for organizational expansion. They
+offer the convenient opportunity to tackle the logistic growing pains
+of the national security industry. Just make sure you pick someone
+vulnerable whom you've ensured is socially isolated through a
 decade-long campaign of misinformation. He's vulnerable and
 practically a pariah?  *PERFECT!* No one will miss him as the tree who
 fell with no one around.
@@ -143,6 +144,8 @@ fell with no one around.
 > if I'm getting this right.
 
 ![Michael Jackson Popcorn]()
+
+
 
 - ramifications to evolution of international law in the context of
   systematic harassment campaigns that include psychological torture
