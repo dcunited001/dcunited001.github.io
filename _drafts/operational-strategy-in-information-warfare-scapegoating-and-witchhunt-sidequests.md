@@ -1,6 +1,5 @@
 ---
-title: "The Operational Level of Information Warfare: Scapegoating and
-Witchhunt Sidequests"
+title: "The Operational Level of Information Warfare: Scapegoating and Witchhunt Sidequests"
 categories: "graphics"
 tags: "'operational strategy' military 'information warfare'"
 headline: "Subglyph It For Great Good"
@@ -382,6 +381,8 @@ argument.
 What results? The desired endstate of postnationalism which, if
 reified, pervades at least until we colonize space.
 
+<a name="i-might-be-an-idiot-savant-but-id-rather-just-be-a-savant" />
+
 # [I Might Be An Idiot Savant, But I'd Rather Just Be A Savant](#i-might-be-an-idiot-savant-but-id-rather-just-be-a-savant)
 
 These are like the things I talk about where the common person just
@@ -392,16 +393,24 @@ other people like me, but apparently having unapproved friends is a
 national security threat, especially friends who might understand what
 i'm talking about or empathize with me.
 
-When more birds are hit with the same stone, the probability of a
-coincidence becomes much less likely. No, really, it's statistics:
-there's functional coupling between events, so they're not
-independent. It ain't easy, but that's how you know. There's a point
-beyond which low probability events can be assumed to require more
-information to explain: that is, they can't be explained by
-coincidence unless they occur in isolation. I was actually under the
-assumption that the burden of proof falls on the state. This should be
-much easier for me, but is this America? Or do I live in some kind of
-arbitary wormhole legal system?
+### N-Polynomial Expansion Provides A Parameterizeable Analytic Solution for Approximating Any Problem
+
+From a time-series perspective, when more birds are hit with the same
+stone, the probability of a coincidence of low probability events
+becomes much less and factors in a polynomial expansion of
+combinatorial products of probability. This expansion of products and
+sums can almost be expected to behave paradoxically because of the
+nature of interdependency. No, really, it's statistics: there's
+functional coupling between events, so they're not independent.
+
+It ain't easy, but that's how you know. There's a point beyond which
+low probability events can be assumed to require more information to
+explain: that is, they can't be explained by coincidence unless they
+occur in isolation. Thus, they become paradoxically more likely to
+require additional inspection for understanding and discernment of
+cause. I was actually under the assumption that the burden of proof
+falls on the state. This should be much easier for me, but is this
+America? Or do I live in some kind of arbitary wormhole legal system?
 
 > I'm also isolated, having minimal contact with people capable of
 > holding conversations with me involving my own interests, even if a
@@ -422,29 +431,41 @@ arbitary wormhole legal system?
 > social signals they are permitted. That is the purpose of
 > disconnection and it makes someone more susceptible to gaslighting.
 
-### (spiel on natural justice)
+#### TODO: Youtube link
+
+![Ming+FS - The Human Condition]()
+
+<a name="natural-justice-and-the-human-condition" />
+
+# [Natural Justice and the Human Condition](#natural-justice-and-the-human-condition)
+
+Natural justice coalesces from the shared, common nature of the human
+condition.
 
 MLK Jr. and Ghandi's movements were fueled by social dynamics created
-and are depending on sociocultural response to tragedy and overtly
-clear wrong doing. Yearning for natural justice moves poeple to
-action.  In my opinion, this concept is similar to God's justice or
-the "perfect justice" of which only God is capable of dispensing.  The
-search for understanding God as a judge inspired religion to found
-institutions in pursuit of the codification of the ideal set of laws,
-but IMO people today have no idea what the concept of God actually is.
+and are dependent on sociocultural response to tragedy and overtly
+clear wrong doing. Yearning for natural justice moves people to
+action. In my opinion, this concept is similar to God's justice or the
+"perfect justice" of which only God is capable of dispensing. The
+search for understanding God as a judge seems to have inspired
+religion to found institutions in pursuit of the codification of this
+ideal set of laws. IMO, people today have no idea what the concept of
+God actually is.
 
-In "The Emperor Wears No Clothes" a child is moved to action because
-the corners we all cut in adult life haven't yet marred the lens that
-the naive and innocent use to see life. The human condition pushes us
-to want and act for change when we allow ourselves to see what is
-intolerable in life. This shared experience that informs us of an
-intuitive understanding of right and wrong is what powered civil
-disobedience in the movements of MLK Jr. and Ghandi. Civil
-disobedience is markedly less effective in a society that censors
-information and distracts with meticulously manufactured red herrings.
-It doesn't mean these tactics don't work, but we need to understand
-which aspects of the system need to be dismantled so that civil
-disobedience remains effective.
+### "The Emperor Wears No Clothes"×
+
+In this story, a child is moved to action because the corners we all
+cut in adult life haven't yet marred the lens that the naive and
+innocent use to see life. The human condition pushes us to want and
+act for change when we allow ourselves to see what is intolerable in
+life. This shared experience that informs us of an intuitive
+understanding of right and wrong is what powered civil disobedience in
+the movements of MLK Jr. and Ghandi. Civil disobedience is markedly
+less effective in a society that censors information and distracts
+with meticulously manufactured red herrings.  It doesn't mean these
+tactics don't work, but we need to understand which aspects of the
+system need to be dismantled so that civil disobedience remains
+effective.
 
 An age of both apathy and virtualized life begins to annul the
 capacity for growing a movement. If someone at the center of a
