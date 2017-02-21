@@ -1,5 +1,6 @@
 ---
-title: "Subglyph: Evading Censorship And Studying Glyphic Drift"
+title: "The Operational Level of Information Warfare: Scapegoating and
+Witchhunt Sidequests"
 categories: "graphics"
 tags: "'operational strategy' military 'information warfare'"
 headline: "Subglyph It For Great Good"
@@ -21,10 +22,20 @@ resulting in cultural movements such as esotericism. That paradigm in
 the background of human culture itself has eluded the need for
 (inspection).
 
-> Remember, I'm writing this article with less than $20 to my name and
-> less than $400 in annual income from 2016. I have never taken money
-> from the US Federal Government, except two years of income tax
-> refunds.
+> "Remember, I'm writing this article with less than $20 to my name
+> and less than $400 in annual income from 2016. I have never taken
+> money from the US Federal Government, except two years of income tax
+> refunds." -- Me, the victim, which crucial to remember when dealing
+> with overwhelming blame-the-victim tactics.
+
+Here's my snapshot of my grades on my Coursera profile. I'm a lifelong
+learner who has dabbled and/or has a basic working-knowledge of
+bioinformatics, epigenetics, chemistry, physics, law, international
+law, maritime law, military doctrine, logistics, business, venture
+capital, finance, accounting, pure math, programming, pharmacology,
+philosophy, linguistics, semiotics and countless other subjects. But
+in an economy where a myriad of skills fuel your capacity for
+employment, I still can't find a job.
 
 # References for Legal Ideas Discussed  (at the top)
 
@@ -34,20 +45,28 @@ the background of human culture itself has eluded the need for
 - DSS training manual for cleanup operations involving leaked
   information
 
-### [A New Social Paradigm Powered By Unprecedented Dynamics of Information Flux](#a-new-social-paradigm-powered-by-unprecedented-dynamics-of-information-flux)
+<a name="unprecedented-dynamics-of-information-flux" />
 
-In the 21st century, the dynamics of information in society are
-fundamentally different because secrecy is asymptotically more
-difficult to maintain and to do so in confidence of its permanence. In
-context of modernization, globalization and the internet, (the spread
-of "fluxable" "space") over which information can quickly spread is
-much larger and nearly complete for the first time in history. It will
-remain "complete" with regard to human culture until we reach space,
-which may create a new paradigm change in human culture, depending on
-the viability and specifics of quantum networking.
+### [Unprecedented Dynamics of Information Flux](#a-new-social-paradigm-powered-by-unprecedented-dynamics-of-information-flux)
+
+In the 21st century, the dynamics of information flux in society are
+fundamentally different, as secrecy becomes asymptotically more
+difficult to maintain, as does retention of secret information in
+confidence of its permanence. This leads to interesting and
+occasionally depressing patterns in system dynamics.
+
+In context of modernization, globalization and the internet, (the
+spread of "fluxable" "space") over which information can quickly
+spread is much larger and nearly complete for the first time in
+history. It will remain "complete" with regard to human culture until
+we reach space, which may create a new paradigm change in human
+culture, depending on the viability and specifics of quantum
+networking.
 
 > "*AMERICA!* Red Robin, heart disease and NASCAR! Fuck 'em free
 > thinkin' frilly philosopher types."
+
+###
 
 The sectors of society most affected: military, finance, and the
 intelligence community. Three phenomena radical alter aspects of
@@ -61,7 +80,7 @@ arises in the tactics of information warfare operations. This
 (paradigm) incentivizes scapegoating and witchhunt operations,
 wherefore the targets are political dissidents and whisteblowers.
 
-### It's Tough Being A Snowflake In Hell
+### [It's Tough Being A Snowflake In Hell](#its-tough-being-a-snowflake-in-hell)
 
 This is terrifying, in context of novel neuroscience technologies and
 the already blurred notion of identity. Once the domain of science
@@ -77,15 +96,19 @@ nation.
 > speech as long as you acknowledge your limitations, tremoring in
 > fear. Hey, at least there's still freedom of religion, right?
 
+### [Automatic Generation of Disinformation By Algorithmic Extrapolation](#algorithmic-generation-of-disinformation-by-algorithmic-extrapolation)
+
 The tendancy of convergence towards information omnipresence leads to
 tactics to handle the second and third order effects. From the lens of
-functional analysis and taking a mathematic approach to information,
-one should use a "metric" to quantify a neighborhood of "adjacent"
+functional analysis and a mathematic approach to information, one
+should use a "metric" to quantify a neighborhood of "adjacent"
 information, which allows the automated enumeration of misleading
 disinformation. This isn't such a bad tactic. There are more second
 and third order effects in our shared virtual theatre of information
 warfare, which preciptates deceptive tactics to deal with what are
 acknowledged by all as inevitable information leaks.
+
+###
 
 From a mindset of rigorous utilitarian efficiency not limited by the
 burdens of "human rights" and civilian welfare, one should just
@@ -151,7 +174,9 @@ could be masked under the cover of academic studies, crossed with
 national security, which increases the rationalization of total
 secrecy with retribution.
 
-If you're goals include expanding government provided healthcare with
+# [A Cover AND A Growth Hack]()
+
+If your goals include expanding government provided healthcare with
 socialism, this helps logistically overcome growing pains for both
 types of organizations. So you can force government provided health
 care on people *while* lashing out against political dissidents with
@@ -164,8 +189,6 @@ way better because now they can do what they were going to do anyways,
 but it's legal, so they minimize surface area of their operatives'
 legal vulnerability. So ... the government *literally* turns into the
 Mafia, not just apparently.
-
-### [A Cover AND A Growth Hack]()
 
 For the people at the heart of this, national security is a tempting
 explanation for their actions because they need the concept national
@@ -189,14 +212,17 @@ and employ career assassination for psyshcosocial manipulation.
 Participation in such means you are complicit in enabling war crimes,
 if these tactics are used against the wrong person.
 
-"National security" is in quotes because it would appear to be a
-convenient cover for systemic corruption. What people don't understand
-about corruption is that, to people caught in it, bribes are just
-about only comorbidity that has pleasant qualities. Quite often,
-especially when systemic, corruption never really comes to light. When
-it does, what comes to light is just a portion of what lurks beneath.
+### [Unchecked Corruption Becomes Metastatic](#unchecked-corruption-becomes-metastatic)
 
-###
+"National Security" is in quotes above because it appears to have been
+at least occasionally abused as a convenient cover for systemic
+corruption. What people don't understand about corruption is that, to
+people caught in it, bribes are just about only comorbidity that has
+pleasant qualities. Quite often, especially when systemic, corruption
+never really comes to light. When it does, what comes to light is just
+a portion of what lurks beneath.
+
+### Self-Incrimination Reinforces Collusive Patterns of Behavior Under Cover](#self-incrimination-reinforces-collusive-patterns-of-behavior-under-cover)
 
 As long as they convince you to get your hands dirty, everyone loses
 when HomeSic loses, therefore a sociological group dynamic
@@ -267,23 +293,54 @@ these organizations publicly accountable any way. Once corruption gets
 bad enough it's self-reinforcing because everyone's on the take and,
 for an operation, everyone is culpable.
 
-###
+# Ramifications to evolution of international law
 
-- ramifications to evolution of international law in the context of
-  systematic harassment campaigns that include psychological torture?
-  - the foundations of international law that protect individuals
-    which were unquestionable in the 20th century find themselves
-    undermined in secret.
+the foundations of international law that protect individuals which
+were unquestionable in the 20th century find themselves undermined in
+secret.
     - I could be wrong about this, but is the US Naval War College
       paper searching for loopholes and especially for psychological
       torture and surveillance feuled harassment? transnationalism
       expands the frame by which certain international treaty
       provisions are examined, rendering them useless in an attempt to
-      protect the sacred nature of human rights. What is
-      transnationalism? Nobody fucking knows. Since transationalism
-      acquires various labels and varied handling in different studies
-      of humanities, it's true nature remains highly elusive to me.
-      - but it's utility in smashing the Treaty of Westphalia and its
+      protect the sacred nature of human rights.
+
+### [Systematic Harassment Campaigns, Including Psychological Torture, May Be Warcrimes]()
+
+By the way, there is a legal argument that psychological torture
+against a former US citizen, one labelled under the NDAA as a
+non-enemy combatant and/or targeted individuals, opening up the perps
+to legal vulnerability. I might only know enough about international
+law to be dangerous, but this argument deserves further
+inspection. The same argument is discussed in the international law
+article referenced above (oh hey, imagine that!) but it apparently
+applies to another situation. This argument is compelling enough to at
+least warrant public hearing. This reasoning is that those labelled as
+non-enemy combatant targets are no longer US Citizens and these are
+thus transnational conflicts.
+
+### An International Quasi-Armed Conflict Fought With Psychological Warfare
+
+In turn, these transnational conflicts should then qualify as
+international quasi-armed conflicts fought with psychological warfare,
+where psychology and sociology have been weaponized against people. If
+this sounds liberally defined, it's not. The effects of this kind of
+psychological warfare behind the backs of our citizens have been
+disastrous in the scope of costs to society and fiscal costs of mental
+heath. If the sections of the Geneva Convention covering psychological
+torture actually apply to this kind of situation, that means these are
+war crimes. Oops, I guess the architects of this system missed
+something.
+
+### [No, "What is Transnationalism?" Is Not Actually a Valid Response to Trebek.](no-what-is-transnationalism-is-not-actually-a-valid-response-to-trebek)
+
+Almost no one can claim to be correct if their explaination references
+transnationalism in an unqualified with a proposition. Why? What is
+transnationalism? Nobody fucking knows. Since transationalism acquires
+various labels and varied handling in different studies of humanities,
+it's true nature remains highly elusive to me.
+
+It's utility in smashing the Treaty of Westphalia and its
         international legal paradigm of geographically bound nations
         is palpable, if rarely examined.
       - transnationalism is like the kryptonite to the permanence of
@@ -361,6 +418,17 @@ information and distracts with meticulously manufactured red herrings.
 It doesn't mean these tactics don't work, but we need to understand
 which aspects of the system need to be dismantled so that they are
 effective.
+
+- but an age of both apathy and virtualized life begins to annul the
+  capacity for growing a movement. if someone isn't permitted to have
+  a movement or sympathizers who is at the center of a controversy,
+  there is zero chance this person would have a fair trial. If the
+  details of such a national security case were known to be required
+  to remain secret or the outcome of the case was essentially
+  implicit, being ex parte, then there would also be near-zero chance
+  for actual justice or fair trial.
+
+- notes on how ghandi grew his movement with IRL social networking,
 
 Are we engaged in psychological warfare against our own citizens?  Is
 there widespread information warfare? People deserve a right to know
