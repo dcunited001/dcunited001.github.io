@@ -21,7 +21,20 @@ resulting in cultural movements such as esotericism. That paradigm in
 the background of human culture itself has eluded the need for
 (inspection).
 
-### A New Paradigm Powered By Dynamics of Information Flux
+> Remember, I'm writing this article with less than $20 to my name and
+> less than $400 in annual income from 2016. I have never taken money
+> from the US Federal Government, except two years of income tax
+> refunds.
+
+# References for Legal Ideas Discussed  (at the top)
+
+- milligan ex parte case
+- us naval international research journal articles
+- harvard international law article(s)
+- DSS training manual for cleanup operations involving leaked
+  information
+
+### [A New Social Paradigm Powered By Unprecedented Dynamics of Information Flux](#a-new-social-paradigm-powered-by-unprecedented-dynamics-of-information-flux)
 
 In the 21st century, the dynamics of information in society are
 fundamentally different because secrecy is asymptotically more
