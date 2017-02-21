@@ -113,16 +113,20 @@ unlikely. How many birds are you gonna nail with that stone?
 Injection of false information into these situations leads furthers
 the degree to which the fight is not fair because HomeSic operates
 under the pretense of national security and utilizes NSL's, whatever
-they are. That's a misnomer because these assholes don't operate on
-paper and, especially if they did, there's no way people wouldn't help
-me if they truly knew what was going on. The nature of my own
-situation remains a mystery to me, which leads me to persistant
-inquisition. I guess I could be crazy, but that would suck if my own
-testimony was disqualified or generally manipulated against in my own
-unknown Ex Parte proceedings, *without my knowledge of testimonies.*
-Because in an Ex Parte hearing, *you often don't attend.* Testimony
-could theoretically proceed via wiretap, with the cold, efficiency of
-a heartless psychopath.
+they are. NSL is often a misnomer because these assholes don't operate
+on paper and, especially if they did, there's no way people wouldn't
+help me if they truly knew what was going on. The lack of records
+increases the degree by which their actions can be construed as
+indicative of cognizance.
+
+The nature of my own situation remains a mystery to me, which leads me
+to persistant inquisition. I guess I could be crazy, but that would
+suck if someone's own testimony was disqualified or generally
+manipulated against them in their own unknown Ex Parte
+proceedings. This can feasibly operated *without their knowledge of
+giving testimony.* Because in an Ex Parte hearing, *you usually don't
+attend.* Testimony could theoretically proceed via wiretap, with the
+cold, efficiency of a heartless psychopath.
 
 > "No one will find out? Even if they do, no one will really care
 > because we made sure he stayed a pariah?
@@ -133,21 +137,45 @@ a heartless psychopath.
 
 - Millagan - Supreme Court ex parte precedent in US
 
-The ways, means and tactics invite group sociopathy, workplace mobbing
-(especially in the context of a recession), carniverous social
-dynamics and meticulously planned witchhunt sidequests. In the context
-of a recession, workplace mobbing is trivial to evoke against
-political dissidents, which furthers the goal of marginalizing them
-with [occupational injustice](). For the people at the heart of this,
-national security is a tempting explanation for their actions because
-they need the concept national security in the calculus of the common
-person's decision making. So, they'll do it and they'll publicly use
-it as rational, unless it's a specific case, where they'll secretly
-use it for rationalization while strong-arming people who can't
-legally make a sound. If they ever make a massive mistake, the
-temptation will be to keep it a secret to prevent anyone from finding
-out, while flooding people's minds with misinformation, without the
-knowledge of the target.
+### [Group Sociopathy](#the-ways-means-and-tactics-invite-hivemind-sociopath)
+
+Sociopathy is employed in groups: workplace mobbing, campaigns to
+discredit carniverous social dynamics and meticulously planned
+witchhunt sidequests. In the context of a recession, workplace mobbing
+is trivial to evoke against political dissidents, which furthers the
+goal of marginalizing them with [occupational injustice](). Mental
+Health efforts, rebranded as [Occupational Therapy]() as cover for
+negative processing of psychology, seems to be employed. This seems to
+be a crossover between medicine, mental health, surveillance and OT. OT
+could be masked under the cover of academic studies, crossed with
+national security, which increases the rationalization of total
+secrecy with retribution.
+
+If you're goals include expanding government provided healthcare with
+socialism, this helps logistically overcome growing pains for both
+types of organizations. So you can force government provided health
+care on people *while* lashing out against political dissidents with
+coercion and systematic disenfranchisement. Oops.
+
+### [Organized Crime Could Become Comorbid](#organinized-crime-could-become-comorbid)
+
+Meanwhile, organized crime gets in while the getting's good and it's
+way better because now they can do what they were going to do anyways,
+but it's legal, so they minimize surface area of their operatives'
+legal vulnerability. So ... the government *literally* turns into the
+Mafia, not just apparently.
+
+### [A Cover AND A Growth Hack]()
+
+For the people at the heart of this, national security is a tempting
+explanation for their actions because they need the concept national
+security in the calculus of the common person's decision making. So,
+they'll do it and they'll publicly use it as rational, unless it's a
+specific case, where they'll secretly use it for rationalization while
+strong-arming people who can't legally make a sound. If they ever make
+a massive mistake, the temptation will be to keep it a secret to
+prevent anyone from finding out, while flooding people's minds with
+misinformation, without the knowledge of the target.
 
 ### [Marginalization By Silo For Protection of "National Security"](#marginalization-by-silo-for-protection-of-national-security)
 
@@ -269,24 +297,31 @@ for an operation, everyone is culpable.
         undermine certain long held constants of interational law.
       - What results? The desired endstate of postnationalism which,
         if reified, pervades at least until we colonize space.
-  - These are like the things I talk about where the common person
-    just tells me I'm crazy. Because I'm on another spectrum: our
-    wavelengths aren't really comparable means of comparison.
-    - These aren't statements made as an attempt to sound smart. They
-      come from a desire to find other people like me, but apparently
-      having unapproved friends is a national security threat,
-      especially friends who might understand what i'm talking about
-      or empathize with me. When more birds are hit with the same
-      stone, the probability of a coincidence becomes much less
-      likely. No, really, it's statistics: there's functional coupling
-      between events, so they're not independent. It ain't easy, but
-      that's how you know. But I was under the assumption that the
-      burden of proof falls on the state. This should be much easier
-      for me.
 
-> I'm also isolated with minimal contact with people capable of
-> holding conversations with me involving my own interests, even they
-> even want to discuss them for more than 60 seconds. Such events
+### [I Might Be An Idiot Savant, But I'd Rather Just Be A Savant]()
+
+These are like the things I talk about where the common person just
+tells me I'm crazy. Because I'm on another spectrum: our wavelengths
+aren't really comparable means of comparison.  These aren't statements
+made as an attempt to sound smart. They come from a desire to find
+other people like me, but apparently having unapproved friends is a
+national security threat, especially friends who might understand what
+i'm talking about or empathize with me.
+
+When more birds are hit with the same stone, the probability of a
+coincidence becomes much less likely. No, really, it's statistics:
+there's functional coupling between events, so they're not
+independent. It ain't easy, but that's how you know. There's a point
+beyond which low probability events can be assumed to require more
+information to explain: that is, they can't be explained by
+coincidence unless they occur in isolation. I was actually under the
+assumption that the burden of proof falls on the state. This should be
+much easier for me, but is this America? Or do I live in some kind of
+arbitary wormhole legal system?
+
+> I'm also isolated, having minimal contact with people capable of
+> holding conversations with me involving my own interests, even if a
+> person wanted to discuss them for more than 60 seconds. Such events
 > rarely occur, like once a season or once a year for some
 > subjects. My isolation stagnates my development in psychosocial and
 > educational ways. If I didn't have the internet, Wikipedia, Coursera
@@ -344,3 +379,5 @@ the time.
 
 So you see, it doesn't actually matter what you *think* because I
 *know*.
+
+[HOW YOU LIKE THEM APPLES?]()
