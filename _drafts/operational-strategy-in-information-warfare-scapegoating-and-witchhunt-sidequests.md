@@ -45,3 +45,9 @@ confidence with which information can be contained, a new (paradigm)
 arises in the tactics of information warfare operations. This
 (paradigm) incentivizes scapegoating and witchhunt operations,
 wherefore the targets are political dissidents and whisteblowers.
+
+This is terrifying, in context of novel neuroscience technologies and
+the already blurred notion of identity. Once the domain of science
+fiction, you could have memories implanted as a political dissident to
+be made an example and unjustly humiliated in front of the entire
+nation.
