@@ -295,15 +295,18 @@ for an operation, everyone is culpable.
 
 # Ramifications to evolution of international law
 
-the foundations of international law that protect individuals which
-were unquestionable in the 20th century find themselves undermined in
-secret.
-    - I could be wrong about this, but is the US Naval War College
-      paper searching for loopholes and especially for psychological
-      torture and surveillance feuled harassment? transnationalism
-      expands the frame by which certain international treaty
-      provisions are examined, rendering them useless in an attempt to
-      protect the sacred nature of human rights.
+The foundations of international law that protect individuals,
+unquestionable in the 20th century, find themselves undermined in
+secret. A possible explanation for the US Naval War College's paper
+searching for loopholes is that they are searching for loopholes for
+transnational conflicts elsewhere. This could therefore apply to
+psychological torture and surveillance-feuled harassment.  In this
+paper, part of the discussion centers on how Transnationalism expands
+the frame by which certain international treaty provisions are
+examined. Particular types of arguments will render the applicability
+of various provisions which protect the sacred nature of human rights.
+To a degree, a failure of superpower nations to respond to this is
+terrifying.
 
 ### [Systematic Harassment Campaigns, Including Psychological Torture, May Be Warcrimes]()
 
@@ -340,20 +343,29 @@ transnationalism? Nobody fucking knows. Since transationalism acquires
 various labels and varied handling in different studies of humanities,
 it's true nature remains highly elusive to me.
 
-It's utility in smashing the Treaty of Westphalia and its
-        international legal paradigm of geographically bound nations
-        is palpable, if rarely examined.
-      - transnationalism is like the kryptonite to the permanence of
-        western institutions that upheld the international framework
-        of global governance in recent centuries.
-      - for example, the concept of a transnational corporation is
-        completely different than a transnational conflict. But, a
-        transnational NIAC is not bound by the provisions of the
-        Geneva Convention which bar the use of psychological
-        torture. Transnationalism in its legal sense threatens to
-        undermine certain long held constants of interational law.
-      - What results? The desired endstate of postnationalism which,
-        if reified, pervades at least until we colonize space.
+It's utility in profoundly known capacity for smashing the Treaty of
+Westphalia is palpable, if rarely examined. The treaty established the
+foundation of paradigm of geographically defined nation
+states. Transnationalism is like the kryptonite to the permanence of
+western institutions that upheld the international framework of global
+governance in recent centuries.
+
+### [Transnationalism Is Not Solid Material](#transnationalism-is-not-solid-material)
+
+Transnationalism is a little-known and thus a poorly defined, mutable
+concept. For example, the concept of a transnational corporation is
+completely different than a transnational conflict. But, a
+transnational NIAC is not bound by the provisions of the Geneva
+Convention which bar the use of psychological
+torture. Transnationalism in its legal sense threatens to undermine
+certain long held constants of interational law. The fluid nature of
+transnationalism tends torwards flexibility for legal applications,
+but also contributes to risk of redefinition and and, thus,
+reinspection of decisions where transnationalism was material to an
+argument.
+
+What results? The desired endstate of postnationalism which, if
+reified, pervades at least until we colonize space.
 
 ### [I Might Be An Idiot Savant, But I'd Rather Just Be A Savant]()
 
@@ -449,3 +461,5 @@ So you see, it doesn't actually matter what you *think* because I
 *know*.
 
 [HOW YOU LIKE THEM APPLES?]()
+
+- picture of super saiyan
