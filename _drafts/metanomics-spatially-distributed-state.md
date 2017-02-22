@@ -175,3 +175,25 @@ with lipids that have a known varying isotopic ratio?
   - again, the goal is to introduce controlled, known noise during MRI
     - this will help greatly in mapping out micro/macro structures in
       the brain
+
+
+### Chemotherapy
+
+- chemotherapy is chemical research into chemicals which activate
+  certain gene networks by up/down regulating upstream promoters with
+  specific chemical triggers
+  - therefore, knowledge & research for chemotherapy can be used to
+    trigger cancer by developing knowledge/research of chemicals which
+    upregulate tumor promotors and downregulate tumor suppressors
+    - these are the opposite effects that cancer research is searching
+      to discover.
+    - however, cancer research DOES discover in the process of its
+      research because it's attempting to quantify metrics that are
+      oblique (non-orthogonal) to the same kind of data used to prove
+      that a cancer drug is safe and effective.
+  - these are the perfect slow poisons. they can be used to
+    intentionally upregulate certain genetic behaviors, perhaps
+    permanently if they trigger specific genetic processes.
+  - chemotheraphy agents are system-wide up/down activators of genetic
+    programming. therefore, across the overall system, they easily
+    influence the dynamics higher-order system behavior.

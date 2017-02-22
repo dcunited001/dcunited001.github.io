@@ -28,7 +28,7 @@ for close inspection.
 > "Remember, I'm writing this article with less than $20 to my name
 > and less than $400 in annual income from 2016. I have never taken
 > money from the US Federal Government, except two years of income tax
-> refunds." -- Me, the victim, which crucial to remember when dealing
+> refunds." -- Me, the victim, which is crucial to remember when dealing
 > with overwhelming blame-the-victim tactics.
 
 Here's my snapshot of my grades on my Coursera profile. I'm a lifelong
