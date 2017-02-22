@@ -170,13 +170,13 @@ difficult to maintain, as does retention of secret information in
 confidence of its permanence. This leads to interesting and
 occasionally depressing patterns in system dynamics.
 
-In context of modernization, globalization and the internet, (the
-spread of "fluxable" "space") over which information can quickly
-spread is much larger and nearly complete for the first time in
-history. It will remain "complete" with regard to human culture until
-we reach space, which may create a new paradigm change in human
-culture, depending on the viability and specifics of quantum
-networking.
+In context of modernization, globalization and the internet, the
+exponential growth over which information can quickly flood is nearly
+complete for the social graph of humanity for the first time in
+history, resulting in this paradigm change in information dynamics. It
+will remain "complete" with regard to human culture at least until we
+reach space, which may create a new paradigm change in human culture,
+depending on the viability and specifics of quantum networking.
 
 > "*AMERICA!* Red Robin, heart disease and NASCAR! Fuck 'em free
 > thinkin' frilly philosopher types."
@@ -193,10 +193,10 @@ information dispersion, exponentially increased surface area creating
 each vulnerabilities and capacity for information flux, along with
 (infinitely) more velocity or divergence of information flux. Because
 these apsects of society reduce the confidence with which information
-can be contained, a new (paradigm) arises in the tactics of
-information warfare operations. This (paradigm) incentivizes
-scapegoating and witchhunt operations, wherefore the targets are
-political dissidents and whisteblowers.
+can be contained, a new paradigm arises in the tactics of information
+warfare operations. This paradigm incentivizes scapegoating and
+witchhunt operations, wherefore the targets are political dissidents
+and whisteblowers.
 
 <a name="its-tough-being-a-snowflake-in-hell" />
 
