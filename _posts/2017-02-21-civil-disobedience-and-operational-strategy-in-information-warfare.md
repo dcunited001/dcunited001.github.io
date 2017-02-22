@@ -309,8 +309,6 @@ defendents, a tragically ironic term because they aren't actually
 allowed to defend themselves. The discussions instead center more on
 the specifics of dispensing retribution, apparently...
 
-- Millagan - Supreme Court ex parte precedent in US
-
 ### [Inviting Group Sociopathy](#-invite-hivemind-sociopath)
 
 The ways and means of psychological warfare mean that (unless i'm
@@ -334,13 +332,13 @@ In the context of a recession, workplace mobbing is trivial to evoke
 against political dissidents, which furthers the goal of marginalizing
 them with
 [occupational injustice](https://en.wikipedia.org/wiki/Occupational_injustice). Mental
-Health efforts, rebranded as
-[Occupational Therapy](https://en.wikipedia.org/wiki/Occupational_therapy)
-as cover for negative processing of psychology, seems to be
-employed. This seems to be a crossover between medicine, mental
-health, surveillance and OT.  OT could be masked under the cover of
-academic studies, crossed with national security, which increases the
-rationalization of total secrecy with retribution.
+health efforts, rebranded as
+[occupational therapy](https://en.wikipedia.org/wiki/Occupational_therapy),
+used cover for negative processing of psychology, seems to be employed
+across the nation. This seems to be a crossover between medicine,
+mental health, surveillance and OT.  OT could be masked under the
+cover of academic studies, crossed with national security, which
+increases the rationalization of total secrecy with retribution.
 
 <a name="a-cover-and-a-growth-hack" />
 
