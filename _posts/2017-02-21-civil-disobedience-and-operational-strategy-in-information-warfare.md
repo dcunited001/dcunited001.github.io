@@ -657,7 +657,11 @@ manipulate the independence polynomials of
 graphs. [Independence polynomials](http://mathworld.wolfram.com/IndependencePolynomial.html)
 are, in turn, used to measure the independence number of a
 graph. These factors arise in algebraic graph theory and are a metric
-of interdependency, which is what is discussed above.
+of interdependency, which is what is discussed above. My point is
+that, combinatorially enumerating graph structures for introspection
+using polynomials gives rise to incredibly useful insights into the
+nature and degree of correlation of events, indicating when one should
+proactively assert more information to be disclosed reactively.
 
 > [Independence Number](http://mathworld.wolfram.com/IndependenceNumber.html) -
 > the cardinality of the largest independent vertex set, i.e., the
