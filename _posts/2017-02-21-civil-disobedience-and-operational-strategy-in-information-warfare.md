@@ -280,10 +280,11 @@ The nature of my own situation remains a mystery to me, which leads me
 to persistant inquisition. I guess I could be crazy, but that would
 suck if someone's own testimony was disqualified or generally
 manipulated against them in their own unknown Ex Parte
-proceedings. This can feasibly operated *without their knowledge of
-giving testimony.* In Ex Parte hearings, *the defendents usually don't
-attend.* Testimony could theoretically proceed via wiretap, with the
-cold, efficiency of a heartless psychopath.
+proceedings. Such proceedings cane feasibly operate *without the
+defendent's knowledge of giving testimony or charges.* In Ex Parte
+hearings, *the defendents usually don't attend.* Testimony could
+theoretically proceed via wiretap, with the cold, efficiency of a
+heartless psychopath.
 
 > "No one will find out? Even if they do, no one will really care
 > because we made sure he stayed a pariah?
