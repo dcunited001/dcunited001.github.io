@@ -33,6 +33,9 @@ excerpt: ""
   - these are the perfect slow poisons. they can be used to
     intentionally upregulate certain genetic behaviors, perhaps
     permanently if they trigger specific genetic processes.
+  - chemotheraphy agents are system-wide up/down activators of genetic
+    programming. therefore, across the overall system, they easily
+    influence the dynamics higher-order system behavior.
 
 - metanomic stochastic programming? (it's a dynamical system)
   - actually, stochastic programming is more about optimization and

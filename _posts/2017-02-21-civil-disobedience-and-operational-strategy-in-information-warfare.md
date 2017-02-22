@@ -46,10 +46,27 @@ employment, I still can't find a job.
 
 # [References for Legal Ideas Discussed](#references-for-legal-ideas-discussed)
 
-- milligan ex parte case
-- US naval international research journal articles
-- harvard international law article(s)
-- TODO: link to these
+## [US Naval War College International Law Review](http://stockton.usnwc.edu/ils/)
+
+#### (2015) **[Is There a Way Out of the Non-(International Armed Conflict) Detention Dilemma?](http://stockton.usnwc.edu/ils/vol91/iss1/3/)**
+
+#### (2016) [Arbitrary Withholding of Consent to Humanitarian Relief Operations in Armed Conflict](http://stockton.usnwc.edu/ils/vol92/iss1/15/)
+
+#### (2015) [Authorization versus Regulation of Detention in Non-International Armed Conflicts](http://stockton.usnwc.edu/ils/vol91/iss1/5/)
+
+#### (2015) [Targeting and Detention in Non-(International Armed Conflict)](http://stockton.usnwc.edu/ils/vol91/iss1/2/)
+
+## [Harvard International Law Journal](http://www.harvardilj.org/)
+
+#### (2016) [International Law Constraints as Executive Power](http://www.harvardilj.org/2016/04/volume-57-issue-1/) (Discussion of legal basis for drone strikes via executive process)
+
+#### (2016) [Human Rights Treaties and Foreign Surveillance: Privacy in the Digital Age](http://www.harvardilj.org/2015/09/volume-56-issue-1/)
+
+#### (2016) [Channeling Unilateralism](http://www.harvardilj.org/2015/09/volume-56-issue-2/) (transnational crime and sanctions)
+
+## Ex Parte Case Law
+
+#### (1866) [Ex Parte Milligan](https://en.wikipedia.org/wiki/Ex_parte_Milligan)
 
 ## [Unprecedented Dynamics of Information Flux](#a-new-social-paradigm-powered-by-unprecedented-dynamics-of-information-flux)
 
