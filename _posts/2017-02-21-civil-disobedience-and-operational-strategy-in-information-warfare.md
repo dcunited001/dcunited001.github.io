@@ -646,6 +646,23 @@ graphs show a high degree of independence. I'm not sure if there's a
 name for a paradox that emerges from Simpson's Paradox, as used to
 discover degree of correlation between events in a time series.
 
+This is on the right track. In
+[Algebraic Graph Theory](https://en.wikipedia.org/wiki/Algebraic_graph_theory),
+one can transform graphs to systems of polynomials like
+[Tutte Polynomials](https://en.wikipedia.org/wiki/Tutte_polynomial).
+Peter, in his PhD thesis
+[Graph Polynomials and Graph Transformations in Algebraic Graph Theory](https://www.cs.elte.hu/math/phd_th/csiki.v2.pdf),
+talks about Kelman's Transformation, which seems to be used to
+manipulate the independence polynomials of
+graphs. [Independence polynomials](http://mathworld.wolfram.com/IndependencePolynomial.html)
+are, in turn, used to measure the independence number of a
+graph. These factors arise in algebraic graph theory and are a metric
+of interdependency, which is what is discussed above.
+
+> [Independence Number](http://mathworld.wolfram.com/IndependenceNumber.html) -
+> the cardinality of the largest independent vertex set, i.e., the
+> size of a maximum independent vertex set.
+
 <a name="how-you-like-them-apples" />
 
 ![HOW YOU LIKE THEM APPLES?](/img/posts/2017-02-21-civil-disobedience-and-operational-strategy-in-information-warfare/how-you-like-them-apples.gif)
