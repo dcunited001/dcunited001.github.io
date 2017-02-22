@@ -64,9 +64,14 @@ employment, I still can't find a job.
 
 #### (2016) [Channeling Unilateralism](http://www.harvardilj.org/2015/09/volume-56-issue-2/) (transnational crime and sanctions)
 
+## Statistics Paradoxes in Psychology
+
+#### (2013) [Simpson's paradox in psychological science: a practical guide](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC3740239/)
+
 ## Ex Parte Case Law
 
 #### (1866) [Ex Parte Milligan](https://en.wikipedia.org/wiki/Ex_parte_Milligan)
+
 
 ## [Unprecedented Dynamics of Information Flux](#a-new-social-paradigm-powered-by-unprecedented-dynamics-of-information-flux)
 
@@ -319,12 +324,15 @@ and meticulously planned witchhunt sidequests.
 
 In the context of a recession, workplace mobbing is trivial to evoke
 against political dissidents, which furthers the goal of marginalizing
-them with [occupational injustice](). Mental Health efforts, rebranded
-as [Occupational Therapy]() as cover for negative processing of
-psychology, seems to be employed. This seems to be a crossover between
-medicine, mental health, surveillance and OT.  OT could be masked
-under the cover of academic studies, crossed with national security,
-which increases the rationalization of total secrecy with retribution.
+them with
+[occupational injustice](https://en.wikipedia.org/wiki/Occupational_injustice). Mental
+Health efforts, rebranded as
+[Occupational Therapy](https://en.wikipedia.org/wiki/Occupational_therapy)
+as cover for negative processing of psychology, seems to be
+employed. This seems to be a crossover between medicine, mental
+health, surveillance and OT.  OT could be masked under the cover of
+academic studies, crossed with national security, which increases the
+rationalization of total secrecy with retribution.
 
 <a name="a-cover-and-a-growth-hack" />
 
@@ -600,6 +608,28 @@ polynomial expansions representing a graph translated to a new
 group. This informs my personal calculus because nature of the true
 cause of comorbid occurances of similar metatypes/epitypes of events
 clues me into discerning connections in life.
+
+This descends from
+as applied to the saying "hitting X birds with one stone" because it
+deals with groupings of events, the birds getting hit. These groupings
+are possibly correlated events to a stone being thrown, which can be
+viewed as several interdependent events grouped into a single driving
+event. The dependency graphs for various groupings of interelated
+events can be enumerated. Each of these enumerable graph structures
+can be transformed into another group of equations based on
+polynomials. If the events are natural, then natural patterns of
+weights will emerge. If the events are artificial, then signficant
+patterns will emerge in the system(s) of polynomials that match the
+correct dependency graph(s). Therefore, this paradox can be used in
+this case to determine when more information is needed to explain
+events.
+
+[This study](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC3740239/)
+discusses another application of Simpson's Paradox to psychology, but
+isn't referring to mathematically discovering which groupings of
+events display correlation, which can signal that more information is
+needed to explain events.
+
 
 <a name="how-you-like-them-apples" />
 
