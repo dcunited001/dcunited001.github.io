@@ -47,87 +47,87 @@ employment, I still can't find a job.
 # [References for Legal Ideas Discussed](#references-for-legal-ideas-discussed)
 
 - milligan ex parte case
-- us naval international research journal articles
+- US naval international research journal articles
 - harvard international law article(s)
 - TODO: link to these
 
 ## [Unprecedented Dynamics of Information Flux](#a-new-social-paradigm-powered-by-unprecedented-dynamics-of-information-flux)
 
-#### [Entire Sectors Engaged in Secret Behavior Evolve In The Dark](#entire-sectors-engaged-in-secret-behavior-evolve-in-the-dark)
+#### &#x0298; [Entire Sectors Engaged in Secret Behavior Evolve In The Dark](#entire-sectors-engaged-in-secret-behavior-evolve-in-the-dark)
 
-#### [It's Tough Being A Snowflake In Hell](#its-tough-being-a-snowflake-in-hell)
+#### &#x0298; [It's Tough Being A Snowflake In Hell](#its-tough-being-a-snowflake-in-hell)
 
-#### [Automatic Generation of Disinformation By Algorithmic Extrapolation](#algorithmic-generation-of-disinformation-by-algorithmic-extrapolation)
+#### &#x0298; [Automatic Generation of Disinformation By Algorithmic Extrapolation](#algorithmic-generation-of-disinformation-by-algorithmic-extrapolation)
 
 ## [Human Rights and Rigorous Utilitarian Efficiency](#human-rights-and-rigorous-utilitarian-efficiency)
 
-#### [Ex Parte -- Surprise! Just Kidding, We'd Never Tell *You*](#ex-parte-surprise-just-kidding-wed-never-tell-you)
+#### &#x0298; [Ex Parte -- Surprise! Just Kidding, We'd Never Tell *You*](#ex-parte-surprise-just-kidding-wed-never-tell-you)
 
-#### [The Nature of My Persistant Inquisition Remains A Mystery](#the-nature-of-my-persistant-inquisition-remains-a-mystery)
+#### &#x0298; [The Nature of My Persistant Inquisition Remains A Mystery](#the-nature-of-my-persistant-inquisition-remains-a-mystery)
 
-#### [The Documented IC Drone Strike Process Is Terrifyingly Similar to Ex Parte Cases](#the-documented-ic-drone-strike-process-is-terrifyingly-similar-to-the-ex-parte-cases)
+#### &#x0298; [The Documented IC Drone Strike Process Is Terrifyingly Similar to Ex Parte Cases](#the-documented-ic-drone-strike-process-is-terrifyingly-similar-to-the-ex-parte-cases)
 
-#### [Inviting Group Sociopathy](#-invite-hivemind-sociopath)
+#### &#x0298; [Inviting Group Sociopathy](#-invite-hivemind-sociopath)
 
-#### [Mobbing, Negative Processing via Psychological OT and Occupational Injustice](#mobbing-negative-processing-via-psychological-ot-and-occupational-injustice)
+#### &#x0298; [Mobbing, Negative Processing via Psychological OT and Occupational Injustice](#mobbing-negative-processing-via-psychological-ot-and-occupational-injustice)
 
 ## [A Cover AND A Growth Hack](#a-cover-and-a-growth-hack)
 
-#### [Organized Crime Becomes Comorbid](#organinized-crime-could-become-comorbid)
+#### &#x0298; [Organized Crime Becomes Comorbid](#organinized-crime-could-become-comorbid)
 
-#### [Marginalization By Silo For Protection of "National Security"](#marginalization-by-silo-for-protection-of-national-security)
+#### &#x0298; [Marginalization By Silo For Protection of "National Security"](#marginalization-by-silo-for-protection-of-national-security)
 
-#### [Unchecked Corruption Becomes Metastatic](#unchecked-corruption-becomes-metastatic)
+#### &#x0298; [Unchecked Corruption Becomes Metastatic](#unchecked-corruption-becomes-metastatic)
 
-#### Self-Incrimination Reinforces Collusive Patterns of Behavior Under Cover](#self-incrimination-reinforces-collusive-patterns-of-behavior-under-cover)
+#### &#x0298; [Self-Incrimination Reinforces Collusive Patterns of Behavior Under Cover](#self-incrimination-reinforces-collusive-patterns-of-behavior-under-cover)
 
-#### [Surveillance-Powered Harassment](#surveillance-powered-harassment)
+#### &#x0298; [Surveillance-Powered Harassment](#surveillance-powered-harassment)
 
-#### [Logistics and Anticipated HomeSic Growing Pains](#logistics-and-anticipated-homesic-growing-pains)
+#### &#x0298; [Logistics and Anticipated HomeSic Growing Pains](#logistics-and-anticipated-homesic-growing-pains)
 
 ## [NSA Surveillance and Streamed Data Signals Enable Horrifying Abuses](nsa-surveillance-and-streamed-data-signals-enable-horrifying-abuses)
 
-#### [Greater Prevalence of Psychological Tactics](#greater-prevalence-of-psychological-tactics)
+#### &#x0298; [Greater Prevalence of Psychological Tactics](#greater-prevalence-of-psychological-tactics)
 
-#### [Insufficient Records of Activity Employing Psychological and Medical Means](#insufficient-records-of-activity-employing-psychological-and-medical-means)
+#### &#x0298; [Insufficient Records of Activity Employing Psychological and Medical Means](#insufficient-records-of-activity-employing-psychological-and-medical-means)
 
 ## [Ramifications to International Law Evolutionary Dynamics](#ramifications-to-international-law-evolutionary-dynamics)
 
-#### [Systematic Harassment Campaigns Utilizing Psychological Torture: Warcrimes](#systematic-harassment-campaigns-utilizing-psychological-torture-warcrimes)
+#### &#x0298; [Systematic Harassment Campaigns Utilizing Psychological Torture: Warcrimes](#systematic-harassment-campaigns-utilizing-psychological-torture-warcrimes)
 
-#### [An International Quasi-Armed Conflict Fought With Psychological Warfare](#an-international-quasi-armed-conflict-fought-with-psychological-warfare)
+#### &#x0298; [An International Quasi-Armed Conflict Fought With Psychological Warfare](#an-international-quasi-armed-conflict-fought-with-psychological-warfare)
 
-#### [No, "What is Transnationalism?" Is Not Actually a Valid Response to Trebek.](no-what-is-transnationalism-is-not-actually-a-valid-response-to-trebek)
+#### &#x0298; [No, "What is Transnationalism?" Is Not Actually a Valid Response to Trebek.](no-what-is-transnationalism-is-not-actually-a-valid-response-to-trebek)
 
-#### [Transnationalism Is Not Solid Material](#transnationalism-is-not-solid-material)
+#### &#x0298; [Transnationalism Is Not Solid Material](#transnationalism-is-not-solid-material)
 
 ## [I Might Be An Idiot Savant, But I'd Rather Just Be A Savant](#i-might-be-an-idiot-savant-but-id-rather-just-be-a-savant)
 
-#### [N-Polynomial Expansion Provides A Parameterizeable Analytical Solution for Approximating Any Problem](#n-polynomial-expansion-provides-a-parameterizeable-analytical-solution-for-approximating-any-problem)
+#### &#x0298; [N-Polynomial Expansion Provides A Parameterizeable Analytical Solution for Approximating Any Problem](#n-polynomial-expansion-provides-a-parameterizeable-analytical-solution-for-approximating-any-problem)
 
-#### [How You Like Them Apples?!](#how-you-like-them-apples)
+#### &#x0298; [How You Like Them Apples?!](#how-you-like-them-apples)
 
 ## [Natural Justice and the Human Condition](#natural-justice-and-the-human-condition)
 
-#### ["The Emperor Wears No Clothes"](#the-emperor-wears-no-clothes)
+#### &#x0298; ["The Emperor Wears No Clothes"](#the-emperor-wears-no-clothes)
 
-#### [Apathy and Virtualized Life Begin to Annul The Precipitation of a Movement]
+#### &#x0298; [Apathy and Virtualized Life Begin to Annul The Precipitation of a Movement]()
 
 ## ["Find Your Salt March"](#find-your-salt-march)
 
-#### [Britain Controlled India By Leveraging Salt to Control the Food Supply](#britain-controlled-india-by-leveraging-salt-to-control-the-food-supply)
+#### &#x0298; [Britain Controlled India By Leveraging Salt to Control the Food Supply](#britain-controlled-india-by-leveraging-salt-to-control-the-food-supply)
 
-#### [Can't Win? Play Another Game](#cant-win-play-another-game)
+#### &#x0298; [Can't Win? Play Another Game](#cant-win-play-another-game)
 
-#### [Ghandi's Salt March Harnessed the Social Network ... in 1930!!](#ghandis-salt-march-harnessed-the-social-network-in-1930)
+#### &#x0298; [Ghandi's Salt March Harnessed the Social Network ... in 1930!!](#ghandis-salt-march-harnessed-the-social-network-in-1930)
 
-#### [The Power of The Salt March Drew From Its Simplicity and Intrisic Relatability](#the-power-of-the-salt-march-drew-from-its-simplicity-and-intrinsic-relatability)
+#### &#x0298; [The Power of The Salt March Drew From Its Simplicity and Intrisic Relatability](#the-power-of-the-salt-march-drew-from-its-simplicity-and-intrinsic-relatability)
 
-#### [Only *Some* of the Protestors Would Become Direct Targets of Oppressive Tactics](#only-some-of-the-protestors-would-become-direct-targets-of-oppressive-tactics)
+#### &#x0298; [Only *Some* of the Protestors Would Become Direct Targets of Oppressive Tactics](#only-some-of-the-protestors-would-become-direct-targets-of-oppressive-tactics)
 
 ## [Cognizance of the Effects of Tactics Countering Civil Disobedience](#cognizance-of-the-effects-of-tactics-countering-civil-disobedience)
 
-#### [Cognizance of Social Physics](#cognizance-of-social-physics)
+#### &#x0298; [Cognizance of Social Physics](#cognizance-of-social-physics)
 
 ## [Is This A Muted Conflict Waged Against Our Own Citizens?](#is-this-a-muted-conflict-waged-against-our-own-citizens)
 
@@ -545,13 +545,12 @@ Transnationalism is a little-known and thus a poorly defined, mutable
 concept. For example, the concept of a transnational corporation is
 completely different than a transnational conflict. But, a
 transnational NIAC is not bound by the provisions of the Geneva
-Convention which bar the use of psychological
-torture. Transnationalism in its legal sense threatens to undermine
-certain long held constants of interational law. The fluid nature of
+Convention which bar the use of psychological torture.
+Transnationalism in its legal sense threatens to undermine certain
+long held constants of interational law. The fluid nature of
 transnationalism tends torwards flexibility for legal applications,
-but also contributes to risk of redefinition and and, thus,
-reinspection of decisions where transnationalism was material to an
-argument.
+but also contributes to risk of redefinition. Thus, reinspection of
+decisions where transnationalism was material to an argument.
 
 What results? The desired endstate of postnationalism which, if
 reified, pervades at least until we colonize space.
@@ -669,7 +668,7 @@ effective.
 
 <a name="apathy-and-virtualized-life-begin-to-annul-the-precipitation-of-a-movement" />
 
-### [Apathy and Virtualized Life Begin to Annul The Precipitation of a Movement]
+### [Apathy and Virtualized Life Begin to Annul The Precipitation of a Movement](#apathy-and-virtualized-life-begin-to-annul-the-precipitation-of-a-movement)
 
 The confluence of factors seems intentional.  An age of both apathy
 and virtualized life begins to annul the capacity for growing a
