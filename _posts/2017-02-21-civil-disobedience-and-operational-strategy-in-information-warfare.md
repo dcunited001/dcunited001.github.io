@@ -600,7 +600,7 @@ i'm talking about or empathize with me.
 
 From a time-series perspective, when more birds are hit with the same
 stone, the probability of a coincidence of low probability events
-becomes much less and factors in a polynomial expansion of
+becomes much less, when factored into a polynomial expansion of
 combinatorial products of probability. This expansion of products and
 sums can almost be expected to behave paradoxically because of the
 nature of interdependency. No, really, it's statistics: there's
@@ -615,19 +615,19 @@ clues me into discerning connections in life.
 
 ### [Simpson's Paradox, As Applied to The Discovery of Correlated Time Series Events](#simpsons-paradox-as-applied-to-the-discovery-of-correlated-time-series-events)
 
-This descends from as applied to the saying "hitting X birds with one
-stone" because it deals with groupings of events, the birds getting
-hit. These groupings are possibly correlated events to a stone being
-thrown, which can be viewed as several interdependent events grouped
-into a single driving event. The dependency graphs for various
-groupings of interelated events can be enumerated. Each of these
-enumerable graph structures can be transformed into another group of
-equations based on polynomials. If the events are natural, then
-natural patterns of weights will emerge. If the events are artificial,
-then signficant patterns will emerge in the system(s) of polynomials
-that match the correct dependency graph(s). Therefore, this paradox
-can be used in this case to determine when more information is needed
-to explain events.
+This applies to the saying "hitting X birds with one stone" because it
+deals with groupings of a set of events, each bird getting hit. These
+groupings are possibly correlated events to a stone being thrown,
+which can be viewed as several interdependent events grouped into a
+single driving event. The dependency graphs for various groupings of
+interelated events can be enumerated. Each of these enumerable graph
+structures can be transformed into another group of equations based on
+polynomials. If the events are natural, then natural patterns of
+weights will emerge. If the events are artificial, then signficant
+patterns will emerge in the system(s) of polynomials that match the
+correct dependency graph(s). Therefore, this paradox can be used in
+this case to determine when more information is needed to explain
+events.
 
 #### A More Gentle Version of Simpson's Paradox Without Nested Groupings or Abstract Algebra
 
@@ -643,7 +643,7 @@ complete set of analytic solutions for the graphs. These analytic
 solutions are polynomials and infinitisemal values arise exhibiting
 specific patterns if they are natural and thus, the correct dependency
 graphs show a high degree of independence. I'm not sure if there's a
-name for a paradox that emerges from Simpson's Paradox, used to
+name for a paradox that emerges from Simpson's Paradox, as used to
 discover degree of correlation between events in a time series.
 
 <a name="how-you-like-them-apples" />
