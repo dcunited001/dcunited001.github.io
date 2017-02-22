@@ -40,11 +40,11 @@ philosophy, linguistics, semiotics and countless other subjects. But
 in an economy where a myriad of skills fuel your capacity for
 employment, I still can't find a job.
 
-![Coursera Pic](/img/posts/2017-02-21-civil-disobedience-and-operational-strategy-in-information-warfare/coursera-grades.png)
-
 #### I Also Took Crypto I, But Skipped the Final
 
-# [References for Legal Ideas Discussed](#references-for-legal-ideas-discussed)
+![Coursera Pic](/img/posts/2017-02-21-civil-disobedience-and-operational-strategy-in-information-warfare/coursera-grades.png)
+
+#### References for Legal Ideas Discussed
 
 ## [US Naval War College International Law Review](http://stockton.usnwc.edu/ils/)
 
@@ -75,6 +75,8 @@ employment, I still can't find a job.
 ## Ex Parte Case Law
 
 #### (1866) [Ex Parte Milligan](https://en.wikipedia.org/wiki/Ex_parte_Milligan)
+
+# Table of Contents
 
 ## [Unprecedented Dynamics of Information Flux](#a-new-social-paradigm-powered-by-unprecedented-dynamics-of-information-flux)
 
