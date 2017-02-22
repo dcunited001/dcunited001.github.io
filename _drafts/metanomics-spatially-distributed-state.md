@@ -176,7 +176,6 @@ with lipids that have a known varying isotopic ratio?
     - this will help greatly in mapping out micro/macro structures in
       the brain
 
-
 ### Chemotherapy
 
 - chemotherapy is chemical research into chemicals which activate

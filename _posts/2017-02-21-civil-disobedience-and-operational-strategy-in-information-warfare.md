@@ -68,10 +68,13 @@ employment, I still can't find a job.
 
 #### (2013) [Simpson's paradox in psychological science: a practical guide](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC3740239/)
 
+#### [Algebraic Graph Theory](https://en.wikipedia.org/wiki/Algebraic_graph_theory)
+
+#### [Graph Polynomials and Graph Transformations in Algebraic Graph Theory](https://www.cs.elte.hu/math/phd_th/csiki.v2.pdf)
+
 ## Ex Parte Case Law
 
 #### (1866) [Ex Parte Milligan](https://en.wikipedia.org/wiki/Ex_parte_Milligan)
-
 
 ## [Unprecedented Dynamics of Information Flux](#a-new-social-paradigm-powered-by-unprecedented-dynamics-of-information-flux)
 
