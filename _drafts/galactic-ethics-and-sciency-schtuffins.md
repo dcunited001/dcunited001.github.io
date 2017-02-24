@@ -8,8 +8,6 @@ author:
 excerpt: ""
 ---
 
-===============
-
 ### galactic ethics
 
 - how to determine whether a planet is ever going to host life in the

@@ -8,26 +8,77 @@ author:
 excerpt: ""
 ---
 
-- structure of entities/costs/markets in the medical industry
+> "There are people who might say I lack a plan. I wonder what they'd
+> say after they reading this because it's not like mainstream media
+> talks about content like this. If you look in the right places, you
+> can see through everything, but that's terrifying because it means
+> that not much was ever real in the first place, not that mainstream
+> American life is really bad. It's actually pretty amazing that
+> people retain such perspectives in spite of everything that truly
+> transpires around around them." -- David Conner
+
+(^^^ ok maybe delete that)
 
 # 2020's: trends to anticipate
 
-- TODO: move to a draft
-- possibly it's own blog post
-- increased demand for smart grid in developed states
-  - but also developing states, since they are either upgrading older
-    gear and/or installing fresh electric grid gear
+### Climate Change
 
-- changes to real estate (predictable) based on:
-  - (1) renewables & specifics of real-estate
-  - (2) potential of real-estate to be upgraded w/ smart grid tech
-    - the specific rollout dynamics of such technology
-  - (3) the upper bound on renewables wattage for a building
-    - e.g. urban buildings have almost no capacity for wind (on top)
-      and less capacity for solar, but still have capacity for
-      biological-based renewables (though these often require
-      sunlight/external energy)
-  - (4) capacity for urban food production
+- drives economic trends in the world, but its (a bit scary) for true
+  conservatives as this is economic supply/demand that is *based* on
+  government policy, Since it is based on the collective delusion,
+  however helpful or well-intended, that these activities will
+  continue to provide value, a true cynic will recognize this as
+  unwise. As soon as the collective delusion ends, so does the actual
+  value of renewables. Suddenly, all of those products -- that people
+  make to meet a need that was only ever a need to meet some parameter
+  of an international treaty on climate change -- dramatically
+  readjust in perceived value.
+  - This makes me a bit nervous because it's essentially a bubble in
+    renewables that continues insofar as the delusion induced by
+    international policy continues. Delusion is a bad word because
+    these are policies that are created with the best intention. The
+    great thing about these policies is that they lead to economic
+    opportunity, but entreprenuers should approach these opportunities
+    under the assumption that their value may be erratically dependent
+    on some arbitrary mechanism of international law, over which their
+    business entity, city or nation state may have no control.
+  - this is very dangerous, as some internationalist global cabal
+    could use it to influence dynamics of the global economy towards
+    the application of some large-scale strategy.
+
+### Smart Grid and Intrinsic Analytics
+
+- analytics on human behavior such as quantifiable behaviorables,
+  quantified clusterings of behavior types, the psychology behind
+  those behavior types, and resource consumption will become not just
+  possible, but norms.
+  - this degree of quantifiable behavior and, in particular, the
+    nature of its pervasion throughout life, creates a paradigm shift
+    that is like a nightmare scenario for the SEC. We might actually
+    be able to "wrap-around" from analytics on human behavior to
+    finanacial indicators to reach a point where no stock price is
+    unpredictable because the problem essentially becomes "flattened."
+
+### Space and Conflict Theory
+
+
+
+### International Law
+
+
+
+
+### Transnationalism
+
+
+
+### Global Military Analysis
+
+> "Hey, it's me." -- David Conner, the guy without enough money to
+> open a bank account who made less than $400 in 2016 and $1717
+> in 2015.  The guy without enough skill to be employable in America
+> or, at least, to break through being virtually blacklisted by
+> negative career experience.
 
 # climate change
 
@@ -63,7 +114,7 @@ effects on hierarchical, interdependent biological systems.
   economic growth the world over
   - BUT WE ABSOLUTELY CANNOT AFFORD A CRASH RIGHT NOW
 
-### The Smart Grid and the Importance of Stability in Developing Nations
+### The Smart Grid and the Importance of Stability in Developing Nations to Interdependent Economic Sectors
 
   - some-thing like pulse-width shift between digital/analog
   - the AC/DC divide pushes from consumer electronics to homes, cars
@@ -224,6 +275,41 @@ effects on hierarchical, interdependent biological systems.
       - to me, it's incredibly more complex than that. it's a matter
         of ethical risk and sovereignty
 
+### Interactions b/w the Smart Grid and Real Estate Prices
+
+- increased demand for smart grid in developed states
+  - but also developing states, since they are either upgrading older
+    gear and/or installing fresh electric grid gear
+
+- changes to real estate (predictable) based on:
+  - (1) renewables & specifics of real-estate
+  - (2) potential of real-estate to be upgraded w/ smart grid tech
+    - the specific rollout dynamics of such technology
+  - (3) the upper bound on renewables wattage for a building
+    - e.g. urban buildings have almost no capacity for wind (on top)
+      and less capacity for solar, but still have capacity for
+      biological-based renewables (though these often require
+      sunlight/external energy)
+  - (4) capacity for urban food production
+
+- someone can create an event-driven purchasing strategy to profit in
+  the billions from predictable changes in real-estate strategy
+  - if you can influence policy as it crucially relates to
+    real-estate, you can easily profit in the billions
+  - but, someone making the wrong moves here could cost america
+    trillions. this, however, does not mean that the selfish decisions
+    here would necessary contradict america's own interests and
+    incentives.
+
+
+### water, irrigation and desalinization
+
+# Space
+
+- mention the conflict theory article.
+  - identify why space may lead to a post-post-westphalian transition
+    -
+
 ### access to space becomes critical to a renewables economy
 
 - at least, until humanity has access to space, capacity for energy
@@ -270,6 +356,33 @@ effects on hierarchical, interdependent biological systems.
           interfering with the environment, which is at least one
           reason why we should wait.
 
+### Commercialized Space Travel's Influence on Large Scale Real-Estate Trends
+
+- (from speculative history article)
+- equatorial regions valuable as ideal locations for both:
+  - geostationary space elevators
+  - space launch locations
+- and therefore, there is a gravitation towards the north/south
+  poles for resources, followed by a counter-trend of gravitation
+  towards the equator for both sending/receiving resources to/from
+  space
+- depending on the engineering specifics of space elevators, some
+  equatorial regions may be more or less valuable than others
+- there are also quasi-geostationary space elevators, augmented with
+  basic propulsion.
+  - these are easier to build because they don't require as much
+    nano-tech.
+    - i.e. solar sail + ion propulsion upwards, while dangling a
+      space-elevator downwards, so it's always falling but always
+      moving upwards.
+      - combine this with a means of getting stuff 20km into the air
+        and you have yourself a space elevator that doesn't need to
+        overcome the tension requirements that are prohibiting us from
+        obtaining one now
+    - this isn't exactly a new idea, but it is likely that something
+      like this will be the first kind of space elevator
+
+
 ### space-faring institutions establish sovereignty using transnationalism
 
 - more on this....
@@ -280,22 +393,6 @@ effects on hierarchical, interdependent biological systems.
     because of their massive cost structures and their need to
     flexibly reposition themselves in anticipation of unpredictable
     global economic trends
-
-### water, irrigation and desalinization
-
-# Misc
-
-### fusion
-
-- "game-ending. if you get fusion, you win the game." 'nuff said
-
-### supply chain "dimension"
-
-- supply chain dimension of the American & Global Economies
-  - reference arguments from article on regulating conflict minerals
-    trade in african nations
-  - elaborate on mechanics/dynamics of shifting supply chains
-    - especially in the context of novel materials/fabrication tech
 
 # Law and Rights of Individuals in Inter/National Law
 
@@ -509,7 +606,9 @@ effects on hierarchical, interdependent biological systems.
         - *so basically, your life better be a great goddamn charity
           case, because otherwise you are shit out of luck.*
 
-# South China Sea
+# Geopolitical Military Analysis
+
+### South China Sea
 
 - china's motivations for action include expansion of geopolitical
   boundaries to fuel several decades of conflict.
@@ -520,3 +619,60 @@ effects on hierarchical, interdependent biological systems.
       there has been contained to that region (AFAIK. i'm not a
       scholar on asiatic history)
 - i can't really elaborate on this
+
+### Russia/Ukraine
+
+
+### Middle East
+
+### Balancing It Out
+
+Because opportunities are not being so stagnated in South America and
+Africa, we should be establishing strong ties in these places. China
+is. We can't let China outpace our diplomacy in Africa because Africa,
+as made obvious above, is a major source large-scale demand for
+investment and infrastructure products. Therefore, Africa is going to
+increase sharply in significance from 2020 through 2050, economically
+and politically. Africa is going to remember who helps them out
+through this time when they start investing in infrastructure like
+never before.
+
+India is also incredibly important in the global economy because they
+are a nation of one billion powering itself through an industrial
+transformation. The dynamics of this transformation differ greatly
+from that of China's industrial transformation because India can
+supply both ends of the supply/demand equation and is much more likely
+to be able to help themselves through this. China fueled it's decade
+long stint of double digit GDP growth with American consumerism and
+American debt. India doesn't need to do that, but needs access to
+Asian markets through the South Sea. This global shift in the economy
+is going to make Singapore much more relevant, although the benefits
+of this may fall moreso to China if they pull off this South Sea
+bullshit.
+
+# Misc
+
+### fusion
+
+- "game-ending. if you get fusion, you win the game." 'nuff said
+
+### supply chain "dimension"
+
+- supply chain dimension of the American & Global Economies
+  - reference arguments from article on regulating conflict minerals
+    trade in african nations
+  - elaborate on mechanics/dynamics of shifting supply chains
+    - especially in the context of novel materials/fabrication tech
+
+- structure of entities/costs/markets in the medical industry
+  - in context of research, change in regulation to facilitate faster
+    research and faster time-to-market
+  - in the context of miracle treatments, turning formerly untreatable
+    illnesses into trivially treated ones. Or rendering prohibitively
+    expensive treatments into worthlessly broken profit machines.
+  - it makes a big difference on the size of health care in proportion
+    to other units in the American and global economies.
+- the tale of asclepius, who almost cured every disease and was thus
+  struck down my zeus, who feared the immortality of man.
+  - people have been aware of the problems inherent in the economics
+    of medicine for a long, long time.

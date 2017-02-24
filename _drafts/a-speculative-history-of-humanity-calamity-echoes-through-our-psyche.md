@@ -1235,26 +1235,3 @@ development of mythology
     - but if there were any major adaptation that dependably extended
       the lifetime of one group of people over another, this would
       present a major evolutionary advantage in early history
-
-- equatorial regions valuable as ideal locations for both:
-  - geostationary space elevators
-  - space launch locations
-- and therefore, there is a gravitation towards the north/south
-  poles for resources, followed by a counter-trend of gravitation
-  towards the equator for both sending/receiving resources to/from
-  space
-- depending on the engineering specifics of space elevators, some
-  equatorial regions may be more or less valuable than others
-- there are also quasi-geostationary space elevators, augmented with
-  basic propulsion.
-  - these are easier to build because they don't require as much
-    nano-tech.
-    - i.e. solar sail + ion propulsion upwards, while dangling a
-      space-elevator downwards, so it's always falling but always
-      moving upwards.
-      - combine this with a means of getting stuff 20km into the air
-        and you have yourself a space elevator that doesn't need to
-        overcome the tension requirements that are prohibiting us from
-        obtaining one now
-    - this isn't exactly a new idea, but it is likely that something
-      like this will be the first kind of space elevator
