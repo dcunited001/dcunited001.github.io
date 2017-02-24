@@ -50,14 +50,6 @@ effects on hierarchical, interdependent biological systems.
 - smart grid tech provides fabric of metrics to measure
   usage/purpose and is essential for accurate assessment of carbon
   tax offsets
-  - some-thing like pulse-width shift between digital/analog
-  - the AC/DC divide pushes from consumer electronics to homes, cars
-    and higher order containments of DC electronics systems with
-    capacity for dynamic power managment where current carries power
-    AND data.
-    - this shift creates trillions in demand for replacement of
-      electric grid infrastructure *worldwide* gradually across three
-      decades
 - states with space and capability, but no industry leverage
   carbon offsets(?)
   - with paris accord
@@ -70,6 +62,46 @@ effects on hierarchical, interdependent biological systems.
 - developing states begin to develop faster, which should fuel
   economic growth the world over
   - BUT WE ABSOLUTELY CANNOT AFFORD A CRASH RIGHT NOW
+
+### The Smart Grid and the Importance of Stability in Developing Nations
+
+  - some-thing like pulse-width shift between digital/analog
+  - the AC/DC divide pushes from consumer electronics to homes, cars
+    and higher order containments of DC electronics systems with
+    capacity for dynamic power managment where current carries power
+    AND data.
+    - this shift creates trillions in demand for replacement of
+      electric grid infrastructure *worldwide* gradually across three
+      decades
+    - the mechanics of this flux of demand rippling through the global
+      economie affect industrialized nations differently than
+      developing nations with less infrastructure
+      - the nations with more infrastructure to replace do it more
+        slowly, which creates a need to gradually shift to new
+        infrastructure, requiring backwards compatability.
+        - this requirement for backwards compatibility limits the
+          payoffs to infrastructure updates, which could mean that
+          undeveloped nations are more likely to benefit more quickly
+        - in the end, we all end up with mostly the same set of
+          capabilities from upgraded smart grid infrastructure, but
+          less developed nations are better positioned to receive
+          these benefits faster with less cost and less design
+          constraints.
+        - therefore, the flux of demand will tend to strongly impact
+          developing nations, as they get higher payoffs for cheaper,
+          as long as there is some threshold of stability.
+        - therefore, if the united states can leverage its authority
+          as an international power player to compel others to help
+          foment stability in these nations, then we can
+          simultaneously position ourselves to help supply that
+          demand. The demand is a product of the expectation of
+          permanent stablity in these nations.
+        - therefore, the US helps provide stability and profits from
+          the export of electric grid technology, while retaining the
+          benefits it receives from the analytics based on smart grid
+          consumption analytics and uses this data to stay ahead AND
+          help promote the level of stability that makes it all
+          possible.
 
 ### Carbon Tax redistributes (some) wealth, but on a fair basis
 
