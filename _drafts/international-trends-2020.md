@@ -8,18 +8,43 @@ author:
 excerpt: ""
 ---
 
-> "There are people who might say I lack a plan. I wonder what they'd
-> say after they reading this because it's not like mainstream media
-> talks about content like this. If you look in the right places, you
-> can see through everything, but that's terrifying because it means
-> that not much was ever real in the first place, not that mainstream
-> American life is really bad. It's actually pretty amazing that
-> people retain such perspectives in spite of everything that truly
-> transpires around around them." -- David Conner
-
 # 2020's: trends to anticipate
 
+## Climate Change, The Smart Grid, Intrinsic Analytics and Economic Dynamics
+
+unpredictable because the problem essentially becomes "flattened."
+
+## Space and Conflict Theory
+
+- connection to conflict theory article
+  - resources inbound from space
+
+## International Law
+
+
+## Transnationalism
+
+
+## Global Geopolitical Analysis
+
+
+
+> "Hey, it's me." -- David Conner, the guy without enough money to
+> open a bank account who made less than $400 in 2016 and $1717
+> in 2015.  The guy without enough skill to be employable in America
+> or, at least, to break through being virtually blacklisted by
+> negative career experience.
+
+# climate change
+
 ### Climate Change, The Smart Grid, Intrinsic Analytics and Economic Dynamics
+
+### Personal thoughts on climate change
+
+Carbon dioxide is mostly meaningless in itself. It's a red herring and
+a kind of a straw man. Pollution is the real problem, with downstream
+effects on hierarchical, interdependent biological systems.
+
 
 - drives economic trends in the world, but its (a bit scary) for true
   conservatives as this is economic supply/demand that is *based* on
@@ -31,6 +56,8 @@ excerpt: ""
   people make to meet a need that was only ever a need to meet some
   parameter of an international treaty on climate change --
   *dramatically readjust in perceived value*.
+
+- TODO: change usage of the word delusion
 
   - This makes me a bit nervous because it's essentially a bubble in
     renewables that continues insofar as the delusion induced by
@@ -55,37 +82,6 @@ excerpt: ""
     that is like a nightmare scenario for the SEC. We might actually
     be able to "wrap-around" from analytics on human behavior to
     finanacial indicators to reach a point where no stock price is
-    unpredictable because the problem essentially becomes "flattened."
-
-### Space and Conflict Theory
-
-- connection to conflict theory article
-  - resources inbound from space
-
-### International Law
-
-
-### Transnationalism
-
-
-
-### Global Military Analysis
-
-
-
-> "Hey, it's me." -- David Conner, the guy without enough money to
-> open a bank account who made less than $400 in 2016 and $1717
-> in 2015.  The guy without enough skill to be employable in America
-> or, at least, to break through being virtually blacklisted by
-> negative career experience.
-
-# climate change
-
-### Personal thoughts on climate change
-
-Carbon dioxide is mostly meaningless in itself. It's a red herring and
-a kind of a straw man. Pollution is the real problem, with downstream
-effects on hierarchical, interdependent biological systems.
 
 - TODO: others misc thoughts?
 
@@ -445,9 +441,10 @@ effects on hierarchical, interdependent biological systems.
         begin to apply (and in some circumstances, the man's
         home-state's laws could also restrict his rights to some
         degree, even in the UK)
+
 - the concept of transnationalism causes the westphalian paradigm to
-  begin to break down and (at least, to me) it is not very clear what
-  laws apply where.
+  begin to break down. transnationalism makes it less clear how laws
+  and treaty provisions apply.
   - if you have your citizenship revoked as a US citizen, what laws
     apply to you?
     - if this is for national security purposes, then would you even
@@ -497,11 +494,13 @@ effects on hierarchical, interdependent biological systems.
     than anything else I have ever read and did so in terms of each:
     - number/kind of specific fields covered and the quantity/quality
       of new information
-
-
-- that International Supply Chain article isn't the only such
-  article I've consumed in the past 3 months which has accelerated
-  my acquisition of knowledge to personally unknown levels
+  - that International Supply Chain article isn't the only such
+    article I've consumed in the past 3 months which has accelerated
+    my acquisition of knowledge to personally unknown levels.
+- TODO: what about it?
+  - how is it difficult? how does international supply chain
+    regulation affect cost structures and the incentivization of
+    corporate behavior?
 
 # Transnationalism
 
@@ -608,7 +607,7 @@ effects on hierarchical, interdependent biological systems.
         - *so basically, your life better be a great goddamn charity
           case, because otherwise you are shit out of luck.*
 
-# Geopolitical Military Analysis
+# Global Geopolitical Analysis
 
 ### South China Sea
 
@@ -624,6 +623,7 @@ effects on hierarchical, interdependent biological systems.
 
 ### Russia/Ukraine
 
+- reference articles on russia
 
 ### Middle East
 
