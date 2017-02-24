@@ -17,11 +17,9 @@ excerpt: ""
 > people retain such perspectives in spite of everything that truly
 > transpires around around them." -- David Conner
 
-(^^^ ok maybe delete that)
-
 # 2020's: trends to anticipate
 
-### Climate Change
+### Climate Change, The Smart Grid, Intrinsic Analytics and Economic Dynamics
 
 - drives economic trends in the world, but its (a bit scary) for true
   conservatives as this is economic supply/demand that is *based* on
@@ -29,10 +27,11 @@ excerpt: ""
   however helpful or well-intended, that these activities will
   continue to provide value, a true cynic will recognize this as
   unwise. As soon as the collective delusion ends, so does the actual
-  value of renewables. Suddenly, all of those products -- that people
-  make to meet a need that was only ever a need to meet some parameter
-  of an international treaty on climate change -- dramatically
-  readjust in perceived value.
+  value of *some* renewables. Suddenly, *all of those products* -- that
+  people make to meet a need that was only ever a need to meet some
+  parameter of an international treaty on climate change --
+  *dramatically readjust in perceived value*.
+
   - This makes me a bit nervous because it's essentially a bubble in
     renewables that continues insofar as the delusion induced by
     international policy continues. Delusion is a bad word because
@@ -41,12 +40,11 @@ excerpt: ""
     opportunity, but entreprenuers should approach these opportunities
     under the assumption that their value may be erratically dependent
     on some arbitrary mechanism of international law, over which their
-    business entity, city or nation state may have no control.
-  - this is very dangerous, as some internationalist global cabal
-    could use it to influence dynamics of the global economy towards
-    the application of some large-scale strategy.
-
-### Smart Grid and Intrinsic Analytics
+    business entity, city or nation state may have little control.
+  - this involves risk that with few options for mitigation, as some
+    internationalist global cabal could use it to influence dynamics
+    of the global economy towards the application of some large-scale
+    strategy.
 
 - analytics on human behavior such as quantifiable behaviorables,
   quantified clusterings of behavior types, the psychology behind
@@ -61,11 +59,10 @@ excerpt: ""
 
 ### Space and Conflict Theory
 
-
+- connection to conflict theory article
+  - resources inbound from space
 
 ### International Law
-
-
 
 
 ### Transnationalism
@@ -73,6 +70,8 @@ excerpt: ""
 
 
 ### Global Military Analysis
+
+
 
 > "Hey, it's me." -- David Conner, the guy without enough money to
 > open a bank account who made less than $400 in 2016 and $1717
@@ -88,6 +87,8 @@ Carbon dioxide is mostly meaningless in itself. It's a red herring and
 a kind of a straw man. Pollution is the real problem, with downstream
 effects on hierarchical, interdependent biological systems.
 
+- TODO: others misc thoughts?
+
 ### danger of tax-funded monetization of pollution cleanup when the beneficiaries are those who caused the problems
 
 - those who profited off the creation of these problems should not be
@@ -102,7 +103,7 @@ effects on hierarchical, interdependent biological systems.
   usage/purpose and is essential for accurate assessment of carbon
   tax offsets
 - states with space and capability, but no industry leverage
-  carbon offsets(?)
+  could instead leverage carbon offsets(?)
   - with paris accord
   - therefore, island nations with large swaths of shallow/placid
     CZ(contiguous zone) and EEZ(Extended Economic Zones) can use the
@@ -116,7 +117,7 @@ effects on hierarchical, interdependent biological systems.
 
 ### The Smart Grid and the Importance of Stability in Developing Nations to Interdependent Economic Sectors
 
-  - some-thing like pulse-width shift between digital/analog
+  - something like pulse-width shift between digital/analog
   - the AC/DC divide pushes from consumer electronics to homes, cars
     and higher order containments of DC electronics systems with
     capacity for dynamic power managment where current carries power
@@ -301,8 +302,9 @@ effects on hierarchical, interdependent biological systems.
     here would necessary contradict america's own interests and
     incentives.
 
-
 ### water, irrigation and desalinization
+
+- smartgrid/renewables become essential for agriculture and desalinization
 
 # Space
 
