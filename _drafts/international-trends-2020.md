@@ -29,7 +29,20 @@ excerpt: ""
       sunlight/external energy)
   - (4) capacity for urban food production
 
-### climate change influences policy around the world
+# climate change
+
+### Personal thoughts on climate change
+
+Carbon dioxide is mostly meaningless in itself. It's a red herring and
+a kind of a straw man. Pollution is the real problem, with downstream
+effects on hierarchical, interdependent biological systems.
+
+### danger of tax-funded monetization of pollution cleanup when the beneficiaries are those who caused the problems
+
+- those who profited off the creation of these problems should not be
+  the ones draining the tax coffers getting rich cleaning them up.
+
+### Climate Change influences policy around the world
 
 - developed states adapt first and export new tech to developing
   states (incentivized by demand for data(!) and demand for
