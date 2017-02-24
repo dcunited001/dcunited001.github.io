@@ -17,6 +17,10 @@ opportunity. It's a necessicity and something that must be handled
 with care and unparalleled foresight. We must revise semiotic
 frameworks used by humanity (...)
 
+- trying to design teleological connections by weaving semiotics
+  together
+  - TODO: more about teleology
+
 How do we adapt our culture to the (fundamentally different cultural
 paradigm created by modernization)
 

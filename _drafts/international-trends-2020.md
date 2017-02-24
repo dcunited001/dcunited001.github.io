@@ -8,26 +8,19 @@ author:
 excerpt: ""
 ---
 
-# 2020's: trends to anticipate
 
-## Climate Change, The Smart Grid, Intrinsic Analytics and Economic Dynamics
+- unpredictable because the problem essentially becomes "flattened."
+  (climate change?)
 
-unpredictable because the problem essentially becomes "flattened."
+## [Climate Change: The Smart Grid, Intrinsic Analytics and Economic Dynamics](#climite-change)
 
-## Space and Conflict Theory
+## [Space: Economics and Evolution of Governance Mechanisms](#space-economics-and-evolution-of-governance-mechanisms)
 
-- connection to conflict theory article
-  - resources inbound from space
+## [International Law](#international-law)
 
-## International Law
+## [Transnationalism](#transnationalism)
 
-
-## Transnationalism
-
-
-## Global Geopolitical Analysis
-
-
+## [Global Geopolitical Analysis](#global-geopolitical-analysis)
 
 > "Hey, it's me." -- David Conner, the guy without enough money to
 > open a bank account who made less than $400 in 2016 and $1717
@@ -35,43 +28,51 @@ unpredictable because the problem essentially becomes "flattened."
 > or, at least, to break through being virtually blacklisted by
 > negative career experience.
 
-# climate change
-
-### Climate Change, The Smart Grid, Intrinsic Analytics and Economic Dynamics
-
-### Personal thoughts on climate change
+# [Climate Change: The Smart Grid, Intrinsic Analytics and Economic Dynamics](#climite-change)
 
 Carbon dioxide is mostly meaningless in itself. It's a red herring and
 a kind of a straw man. Pollution is the real problem, with downstream
-effects on hierarchical, interdependent biological systems.
-
+effects on hierarchical, interdependent biological systems, which will
+have a huge impact on global agriculture markets.
 
 - drives economic trends in the world, but its (a bit scary) for true
   conservatives as this is economic supply/demand that is *based* on
-  government policy, Since it is based on the collective delusion,
-  however helpful or well-intended, that these activities will
+  government policy. Since it is based on the collective agreement
+  that, however helpful or well-intended, that these activities will
   continue to provide value, a true cynic will recognize this as
-  unwise. As soon as the collective delusion ends, so does the actual
-  value of *some* renewables. Suddenly, *all of those products* -- that
-  people make to meet a need that was only ever a need to meet some
-  parameter of an international treaty on climate change --
-  *dramatically readjust in perceived value*.
+  unwise or at least precarious. As soon as the (collective agreement)
+  ends, so does the actual value of *some* renewables. Suddenly, *all
+  of those products* -- that people make to meet a need that was only
+  ever a need to meet some parameter of an international treaty on
+  climate change -- *dramatically readjust in perceived value*.
 
 - TODO: change usage of the word delusion
 
   - This makes me a bit nervous because it's essentially a bubble in
-    renewables that continues insofar as the delusion induced by
-    international policy continues. Delusion is a bad word because
-    these are policies that are created with the best intention. The
-    great thing about these policies is that they lead to economic
-    opportunity, but entreprenuers should approach these opportunities
-    under the assumption that their value may be erratically dependent
-    on some arbitrary mechanism of international law, over which their
-    business entity, city or nation state may have little control.
-  - this involves risk that with few options for mitigation, as some
-    internationalist global cabal could use it to influence dynamics
-    of the global economy towards the application of some large-scale
-    strategy.
+    renewables that continues insofar as specific apprehensions are
+    maintained by international policy. These are policies that are
+    created with the best intention. A great benefit to these policies
+    is that they lead to economic opportunity, but entreprenuers
+    should approach them under the assumption that their value may be
+    erratically dependent on some arbitrary mechanism of international
+    law. Therefore an entrepreneur should be wary, as their their
+    business entity, city or nation state have little control over
+    these dynamics depending on international policy whims. Since
+    there is undeniable momentum towards renewables and green
+    practices across the world, this will inevitably happen, but the
+    way it is approached by policy-makers will dramatically affect the
+    order and quality of trends that emerge.
+
+- this involves the risk that, with few options for mitigation
+  available to entrepreneurs, internationalist global cabals could use
+  it to influence dynamics of the global economy towards the
+  application of some large-scale strategy. That is, There is money,
+  and lots of it, to be had if some group can steer global climate
+  policy.
+
+<a name="smart-grid-analytics-to-power-global-business-intelligence" />
+
+### [Smart Grid Analytics to Power Global Business Intelligence](#smart-grid-analytics-to-power-global-business-intelligence)
 
 - analytics on human behavior such as quantifiable behaviorables,
   quantified clusterings of behavior types, the psychology behind
@@ -85,8 +86,14 @@ effects on hierarchical, interdependent biological systems.
 
 - TODO: others misc thoughts?
 
-### danger of tax-funded monetization of pollution cleanup when the beneficiaries are those who caused the problems
+### [On Tax-Funded Pollution Cleanup](#on-tax-funded-pollution-cleanup)
 
+- (when the beneficiaries are those who caused the problems)
+  - there should be lots of opportunity for business here.
+    unfortunately, there aren't many ways to naturally incentivize
+    pollution cleanup. it must be financed through government
+    programs, but in such, is dependent on growth elsewhere in the
+    economy.
 - those who profited off the creation of these problems should not be
   the ones draining the tax coffers getting rich cleaning them up.
 
@@ -300,9 +307,25 @@ effects on hierarchical, interdependent biological systems.
 
 ### water, irrigation and desalinization
 
-- smartgrid/renewables become essential for agriculture and desalinization
+- smartgrid/renewables become essential for agriculture and
+  desalinization
+  - many settled areas around the world are running out of water and
+    will need to offset their lack of fresh water with desalinized
+    water, but there just aren't cheap & efficient ways to do that
+    without large amounts of renewable energy, like solar.
+    - therefore, if you look at the differential in water consumption
+      as a proportion of underground freshwater reserves remaining,
+      you'll identify markets who will need renewable-powered
+      desalinization in order to produce local food, etc.
+  - opportunity for state-funded geoengineering projects, which will
+    include those regions mentioned above.
+  - an incredibly useful product would be one to consume energy &
+    produce water for irrigation.
+- desalinization will tend to lower sea-levels, which *raises* the
+  proportion of pollutants to sea water, but may not be enough to
+  counter polar ice melting.
 
-# Space
+# [Space: Economics and Evolution of Governance Mechanisms](#space-economics-and-evolution-of-governance-mechanisms)
 
 - mention the conflict theory article.
   - identify why space may lead to a post-post-westphalian transition

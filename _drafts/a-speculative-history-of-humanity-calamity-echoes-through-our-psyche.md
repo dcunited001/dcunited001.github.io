@@ -1235,3 +1235,4 @@ development of mythology
     - but if there were any major adaptation that dependably extended
       the lifetime of one group of people over another, this would
       present a major evolutionary advantage in early history
+-
