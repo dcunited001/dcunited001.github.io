@@ -1,7 +1,7 @@
 ---
 title: "International Trends 2020"
 categories: blog
-tags: "genomics epigenetics"
+tags: ""
 headline: ""
 author:
   name: "David Conner"
@@ -37,6 +37,14 @@ excerpt: ""
 - smart grid tech provides fabric of metrics to measure
   usage/purpose and is essential for accurate assessment of carbon
   tax offsets
+  - some-thing like pulse-width shift between digital/analog
+  - the AC/DC divide pushes from consumer electronics to homes, cars
+    and higher order containments of DC electronics systems with
+    capacity for dynamic power managment where current carries power
+    AND data.
+    - this shift creates trillions in demand for replacement of
+      electric grid infrastructure *worldwide* gradually across three
+      decades
 - states with space and capability, but no industry leverage
   carbon offsets(?)
   - with paris accord
@@ -114,6 +122,16 @@ excerpt: ""
       - which is what i mean by a purely artificial mechanism
       - this is not necessarily bad, but something people need to
         understand so everyone is on the same page.
+
+- TODO: include thoughts on bill gate's idea to tax some form of
+  automation
+  - it's a good idea to promote economic stability in the context of
+    the changed that the 21st century economy will undergo via 3D
+    printing, etc.
+  - however, the challenge is codifying it into law in a way that is
+    fair, simple and not government micromanagement of the economy.
+    - that's not to say it's impossible or impractical, just that it's
+      a challenge
 
 ### carbon tax provides insights into global economic trends
 
@@ -207,12 +225,16 @@ excerpt: ""
           interfering with the environment, which is at least one
           reason why we should wait.
 
-### space-faring institutions establish sovereignty as transnationals
+### space-faring institutions establish sovereignty using transnationalism
 
 - more on this....
 - transnationalism is one of the most important concepts we can be
   feeling out right now. because it was new as hell to me (and a bit
   scary, actually!!!)
+  - they need to be declared as transnational entities, politically,
+    because of their massive cost structures and their need to
+    flexibly reposition themselves in anticipation of unpredictable
+    global economic trends
 
 ### water, irrigation and desalinization
 
@@ -222,7 +244,7 @@ excerpt: ""
 
 - "game-ending. if you get fusion, you win the game." 'nuff said
 
-### supply chain dimension
+### supply chain "dimension"
 
 - supply chain dimension of the American & Global Economies
   - reference arguments from article on regulating conflict minerals
@@ -237,8 +259,9 @@ excerpt: ""
 - Every individual has a Nearly "tabula rasa" set of rights, at birth
   - that is, there are some
 - As I understand an US Citizen or Individual's rights in
+- arguments from the information warfare articles:
 
-# International Law/Trends
+# Trends in International Law are Gaining Momentum
 
 - international norms => policy on AI & usages & limitations
   - analogy for cyber/infowar w/ epidemic
@@ -336,6 +359,19 @@ excerpt: ""
   article I've consumed in the past 3 months which has accelerated
   my acquisition of knowledge to personally unknown levels
 
+# Transnationalism
+
+### TransNatl: In the context of the Westphalian Paradigm
+
+- transition from the
+  [westphalian paradigm](https://en.wikipedia.org/wiki/Westphalian_sovereignty)
+  could end up being very messy: politically, culturally, and
+  economically.
+  - some of the people architecting this know it, to varying degrees
+  - this takes place b/w 2015-2050
+    - if approached in the right way (i.e. WITH *COMMUNICATION* and
+      *TIME*) then it's probably not that bad
+
 
 ### UN As "root" in the network of subgraphs of power structures
 
@@ -376,6 +412,20 @@ excerpt: ""
         implementations of sovereignty
       - like i said, these kinds of trends take centuries
 
+
+### TransNatl: In the context of Trade/ISDS & Federal Law
+
+- ISDS
+  - US Code
+  - TPP/TKIP
+  - Saudi Law (the 9-11 bill)
+    - this law was written in a VERY dubious manner
+    - and passed like 97-1 !!!
+    - POSSIBLE MEDIA BAIT-AND-SWITCH ... IMO
+    - yeh, i'm not even !@#$'ing kidding read that bill
+  - National Security Laws
+  - trade & treaty agreements
+
 ### examples of multi-hub (overlapping) international agreements
 
 - these kinds of agreements can act as subgraphs in a multi-hub
@@ -413,33 +463,6 @@ excerpt: ""
         OPPORTUNITIES
         - *so basically, your life better be a great goddamn charity
           case, because otherwise you are shit out of luck.*
-
-
-# Transnationalism
-
-### TransNatl: In the context of the Westphalian Paradigm
-
-- transition from the
-  [westphalian paradigm](https://en.wikipedia.org/wiki/Westphalian_sovereignty)
-  could end up being very messy: politically, culturally, and
-  economically.
-  - some of the people architecting this know it, to varying degrees
-  - this takes place b/w 2015-2050
-    - if approached in the right way (i.e. WITH *COMMUNICATION* and
-      *TIME*) then it's probably not that bad
-
-### TransNatl: In the context of Trade/ISDS & Federal Law
-
-- ISDS
-  - US Code
-  - TPP/TKIP
-  - Saudi Law (the 9-11 bill)
-    - this law was written in a VERY dubious manner
-    - and passed like 97-1 !!!
-    - POSSIBLE MEDIA BAIT-AND-SWITCH ... IMO
-    - yeh, i'm not even !@#$'ing kidding read that bill
-  - National Security Laws
-  - trade & treaty agreements
 
 # South China Sea
 
