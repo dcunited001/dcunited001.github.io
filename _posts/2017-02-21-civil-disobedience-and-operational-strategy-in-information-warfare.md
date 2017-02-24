@@ -132,7 +132,7 @@ employment, I still can't find a job.
 
 #### &#x0298; [N-Polynomial Expansion Provides A Parameterizeable Analytical Solution for Approximating Any Problem](#n-polynomial-expansion-provides-a-parameterizeable-analytical-solution-for-approximating-any-problem)
 
-#### [Simpson's Paradox, As Applied to The Discovery of Correlated Time Series Events](#simpsons-paradox-as-applied-to-the-discovery-of-correlated-time-series-events)
+#### &#x0298; [Simpson's Paradox, As Applied to The Discovery of Correlated Time Series Events](#simpsons-paradox-as-applied-to-the-discovery-of-correlated-time-series-events)
 
 #### &#x0298; [How You Like Them Apples?!](#how-you-like-them-apples)
 
