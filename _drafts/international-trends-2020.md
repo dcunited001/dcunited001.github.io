@@ -30,8 +30,12 @@ excerpt: ""
 
 Carbon dioxide is mostly meaningless in itself. It's a red herring and
 a kind of a straw man. Pollution is the real problem, with downstream
-effects on hierarchical, interdependent biological systems, which will
-have a huge impact on global agriculture markets.
+effects on biological systems, which are hierarchical, interdependent
+and incredibly fragile. As such, pollition will exhibit strong
+second-order and third-order impacts on global agriculture
+markets. Carbon dioxide, however, serves as a vital ecological metric
+informing us on the general degree of pollution. (mention ocean
+acidification and other types of cleanup needed)
 
 Climate change and especially its international policy implementations
 will drive economic trends in the world. It's nerve-racking for true
@@ -60,11 +64,11 @@ and green practices across the world, this will inevitably happen, but
 its handling by policy-makers dramatically affects the order and
 quality of trends that emerge.
 
-This involves the risk that, with few options for mitigation available
-to entrepreneurs, internationalist global cabals could use it to
-influence dynamics of the global economy towards the application of
-some large-scale strategy. That is, There is money, and lots of it, to
-be had if some group can steer global climate policy.
+With few options for risk-mitigation available to entrepreneurs,
+international globalist cabals can use green policy to influence
+dynamics of the global economy towards the application of some
+large-scale strategy. That is: there is money and lots of it to be had
+if some group can steer global climate policy.
 
 <a name="smart-grid-analytics-to-power-global-business-intelligence" />
 
@@ -90,7 +94,7 @@ up. Those who profited off the creation of these problems should not
 be the ones draining the tax coffers getting rich cleaning them up.
 There should be lots of opportunity for business here. Unfortunately,
 there aren't many ways to naturally incentivize pollution cleanup. It
-must be financed through government programs, but in such, is
+must be financed through government programs, but as such, it is
 dependent on growth elsewhere in the economy. Therefore, pollution
 cleanup is always a net drain on the economy.
 
@@ -98,24 +102,54 @@ cleanup is always a net drain on the economy.
 
 ### [Climate Change Encourages Cooperation](#climate-change-encourages-cooperation)
 
-- how does this all encourage cooperation?
-  - contributes to better economic planning
-  - development of nations connects them into global markets and
-    increases their contribution to demand for high-tech products
-  - each party benefits economically which creates incentivization
-    for mutally beneficial behavior, economically & politically
-  - incentivizes peace and stability, which may counterbalance and
-    ameliorate other stress points around the world by providing
-    economic rewarding cooperation & stability more than conflict
+In which ways does climate change contributed towards cooperation and
+thus stability? It contributes to better economic planning and
+anticipation of demand through faster/immediate feedback loops and
+high quality data on patterns of consumption, especially energy
+consumption. Developed states can market their products to contribute
+to development of nations, connecting them to global markets. At this
+point, a global framework begins to coalesce, which provides resource
+consumption analytics. This framework layered on top of smart-grid
+consumption data provides a fabric of metrics to measure usage/purpose
+and is essential for accurate assessment of carbon tax offsets.
+Demand from developing and recently developed nations increases the
+aggregate demand for high-tech products towards its maximum, where the
+aggregate demand for these products is highest when penetration of
+development of nations is complete. Conversely, need/risk for
+destablization of populations becomes balanced with the an economic
+need for stability.
 
-- developed states adapt first and export new tech to developing
-  states
-  - developed states drive demand for analytics/data from smart grid
-    in developing states
-  - developing states drive demand for hardware to build
-    infrastructure.
-  - smart grid tech provides fabric of metrics to measure usage/purpose
-    and is essential for accurate assessment of carbon tax offsets
+Through balanced trade, the parties tend to stabalize each other via a
+economic & political framework for incentivization and mutually
+beneficial partnership. This economically incentivizes peace and
+stability, which provides counterbalance to other stress points around
+the world. This ameliorates potential issues through cooperation and
+deincentivizes conflict by providing the entire system with net gain
+through stability and deviation from maximum economic utility during
+times of conflict.
+
+### [Warning About Finance and International Climate Change Policy](#warning-about-finance-and-international-climate-change-policy)
+
+Conservatives are rightfully skeptical of manmade institutions created
+to strongly dictate international norms for the purpose of some
+abstract ideals. This generally confers the power to determine global
+economic trends related to mission of the institution. in many cases,
+this delegates US authority to some institution outside US control. In
+the specific case of climate change, nowhere is there more capacity
+for second and third order effects to commerce and society than
+climate and energy policy. Therefore: step one, control the policy;
+step two, anticipate resulting trends and place bets; step three,
+profit.
+
+<a name="carbon-tax-augments-the-global-economys-mechanisms-for-stabilization" />
+
+### [Carbon Tax Augments the Global Economy's Mechanisms for Stabilization](#carbon-tax-augments-the-global-economys-mechanisms-for-stabilization)
+
+
+(delete?) Carbon Tax Can Augment Stability in the Global Economy
+but on a fair basis (focus on the additional avenues for economies to
+participate on a global basis)
+
 
 - states with space and capability, but no industry leverage
   could instead leverage carbon offsets(?)
@@ -130,11 +164,6 @@ cleanup is always a net drain on the economy.
   economic growth the world over
   - BUT WE ABSOLUTELY CANNOT AFFORD A CRASH RIGHT NOW
 
-#### Carbon Tax redistributes (some) wealth, but on a fair basis (focus on the additional avenues for economies to participate on a global basis)
-
-- as much as i am inherently suspicious of the idea of an artificial
-  institution, whereby actions only have value if they reflect
-  international norms...
   - this provides the global economy with a mechanism for liquidity
     displacement and therefore stability
     - i was thinking about this last night, the integral of liquidity
@@ -154,8 +183,6 @@ cleanup is always a net drain on the economy.
       ~absolute~value~ of liquidity movements between major nodes in
       the graph of economic players)
       - lulz ... math
-
-### Carbon Tax Augments the Global Economy's Mechanisms for Stabilization
 
   - (circuits that establish *natural* balance-restoring feedback
     loops in global economic liquidity/wealth transfers)
@@ -205,6 +232,7 @@ cleanup is always a net drain on the economy.
     fair, simple and not government micromanagement of the economy.
     - that's not to say it's impossible or impractical, just that it's
       a challenge
+
 
 ### carbon regulation provides insights into global economic trends
 
