@@ -8,19 +8,17 @@ author:
 excerpt: ""
 ---
 
-
-- unpredictable because the problem essentially becomes "flattened."
-  (climate change?)
-
 ## [Climate Change: The Smart Grid, Intrinsic Analytics and Economic Dynamics](#climite-change)
 
 ## [Space: Economics and Evolution of Governance Mechanisms](#space-economics-and-evolution-of-governance-mechanisms)
 
-## [International Law](#international-law)
+## [Trends in International Law are Gaining Momentum](#trends-in-international-law-are-gaining-momentum)
 
-## [Transnationalism](#transnationalism)
+## [Transnationalism and the Post-Westphalian Era](#transnationalism-and-the-post-westphalian-era)
 
 ## [Global Geopolitical Analysis](#global-geopolitical-analysis)
+
+
 
 > "Hey, it's me." -- David Conner, the guy without enough money to
 > open a bank account who made less than $400 in 2016 and $1717
@@ -35,76 +33,90 @@ a kind of a straw man. Pollution is the real problem, with downstream
 effects on hierarchical, interdependent biological systems, which will
 have a huge impact on global agriculture markets.
 
-- drives economic trends in the world, but its (a bit scary) for true
-  conservatives as this is economic supply/demand that is *based* on
-  government policy. Since it is based on the collective agreement
-  that, however helpful or well-intended, that these activities will
-  continue to provide value, a true cynic will recognize this as
-  unwise or at least precarious. As soon as the (collective agreement)
-  ends, so does the actual value of *some* renewables. Suddenly, *all
-  of those products* -- that people make to meet a need that was only
-  ever a need to meet some parameter of an international treaty on
-  climate change -- *dramatically readjust in perceived value*.
+Climate change and especially its international policy implementations
+will drive economic trends in the world. It's nerve-racking for true
+conservatives, as these supply & demand dynamics that is *based* on
+government policy and bureaucracy. It's based on the collective
+agreement that, however helpful or well-intended, that these
+activities will continue to provide economic value to industry, thus
+the cynical recognize this as unwise or at least precarious. As the
+collective policy consensus wavers, so does the actual value of
+specific renewables and the incentivization factors driving supply &
+demand. Suddenly, *all of those products* -- that people make to meet
+a need that was only ever a need to meet some parameter of an
+international treaty on climate change -- *dramatically readjust in
+perceived value*.
 
-- TODO: change usage of the word delusion
+This is essentially a bubble in renewables that continues insofar as
+specific apprehensions are maintained by international policy, created
+with the best intentions. These policies contribute greatly to
+economic opportunity, but entreprenuers should approach them under the
+assumption that their value may be erratically dependent on some
+arbitrary mechanism of international law. Therefore an entrepreneur
+should be wary, as their their business entity, city or nation state
+have little control over these dynamics depending on international
+policy whims. Since there is undeniable momentum towards renewables
+and green practices across the world, this will inevitably happen, but
+its handling by policy-makers dramatically affects the order and
+quality of trends that emerge.
 
-  - This makes me a bit nervous because it's essentially a bubble in
-    renewables that continues insofar as specific apprehensions are
-    maintained by international policy. These are policies that are
-    created with the best intention. A great benefit to these policies
-    is that they lead to economic opportunity, but entreprenuers
-    should approach them under the assumption that their value may be
-    erratically dependent on some arbitrary mechanism of international
-    law. Therefore an entrepreneur should be wary, as their their
-    business entity, city or nation state have little control over
-    these dynamics depending on international policy whims. Since
-    there is undeniable momentum towards renewables and green
-    practices across the world, this will inevitably happen, but the
-    way it is approached by policy-makers will dramatically affect the
-    order and quality of trends that emerge.
-
-- this involves the risk that, with few options for mitigation
-  available to entrepreneurs, internationalist global cabals could use
-  it to influence dynamics of the global economy towards the
-  application of some large-scale strategy. That is, There is money,
-  and lots of it, to be had if some group can steer global climate
-  policy.
+This involves the risk that, with few options for mitigation available
+to entrepreneurs, internationalist global cabals could use it to
+influence dynamics of the global economy towards the application of
+some large-scale strategy. That is, There is money, and lots of it, to
+be had if some group can steer global climate policy.
 
 <a name="smart-grid-analytics-to-power-global-business-intelligence" />
 
 ### [Smart Grid Analytics to Power Global Business Intelligence](#smart-grid-analytics-to-power-global-business-intelligence)
 
-- analytics on human behavior such as quantifiable behaviorables,
-  quantified clusterings of behavior types, the psychology behind
-  those behavior types, and resource consumption will become not just
-  possible, but norms.
-  - this degree of quantifiable behavior and, in particular, the
-    nature of its pervasion throughout life, creates a paradigm shift
-    that is like a nightmare scenario for the SEC. We might actually
-    be able to "wrap-around" from analytics on human behavior to
-    finanacial indicators to reach a point where no stock price is
+Analytics on human behavior such as quantifiable behaviors, quantified
+clusterings of behavior types, automated psychosocial analyses behind
+those behavior types, and resource consumption will become not just
+possible, but norms. This degree of quantifiable behavior and its
+level of pervasion throughout life creates a paradigm shift that is
+like a nightmare scenario for the SEC. We might actually be able to
+"wrap-around" from automated signals on human behavior to finanacial
+indicators to reach a point where no stock price is unpredictable
+beyond a threshold.
 
-- TODO: others misc thoughts?
+<a name="on-tax-funded-pollution-cleanup" />
 
 ### [On Tax-Funded Pollution Cleanup](#on-tax-funded-pollution-cleanup)
 
-- (when the beneficiaries are those who caused the problems)
-  - there should be lots of opportunity for business here.
-    unfortunately, there aren't many ways to naturally incentivize
-    pollution cleanup. it must be financed through government
-    programs, but in such, is dependent on growth elsewhere in the
-    economy.
-- those who profited off the creation of these problems should not be
-  the ones draining the tax coffers getting rich cleaning them up.
+There's an opportunity for monetization of pollution cleanup that many
+of the same corporations who contributed to pollution to clean it
+up. Those who profited off the creation of these problems should not
+be the ones draining the tax coffers getting rich cleaning them up.
+There should be lots of opportunity for business here. Unfortunately,
+there aren't many ways to naturally incentivize pollution cleanup. It
+must be financed through government programs, but in such, is
+dependent on growth elsewhere in the economy. Therefore, pollution
+cleanup is always a net drain on the economy.
 
-### Climate Change influences policy around the world
+<a name="climate-change-encourages-cooperation" />
+
+### [Climate Change Encourages Cooperation](#climate-change-encourages-cooperation)
+
+- how does this all encourage cooperation?
+  - contributes to better economic planning
+  - development of nations connects them into global markets and
+    increases their contribution to demand for high-tech products
+  - each party benefits economically which creates incentivization
+    for mutally beneficial behavior, economically & politically
+  - incentivizes peace and stability, which may counterbalance and
+    ameliorate other stress points around the world by providing
+    economic rewarding cooperation & stability more than conflict
 
 - developed states adapt first and export new tech to developing
-  states (incentivized by demand for data(!) and demand for
-  development of these states)
-- smart grid tech provides fabric of metrics to measure
-  usage/purpose and is essential for accurate assessment of carbon
-  tax offsets
+  states
+  - developed states drive demand for analytics/data from smart grid
+    in developing states
+  - developing states drive demand for hardware to build
+    infrastructure.
+  - smart grid tech provides fabric of metrics to measure usage/purpose
+    and is essential for accurate assessment of carbon tax offsets
+
 - states with space and capability, but no industry leverage
   could instead leverage carbon offsets(?)
   - with paris accord
@@ -118,47 +130,7 @@ have a huge impact on global agriculture markets.
   economic growth the world over
   - BUT WE ABSOLUTELY CANNOT AFFORD A CRASH RIGHT NOW
 
-### The Smart Grid and the Importance of Stability in Developing Nations to Interdependent Economic Sectors
-
-  - something like pulse-width shift between digital/analog
-  - the AC/DC divide pushes from consumer electronics to homes, cars
-    and higher order containments of DC electronics systems with
-    capacity for dynamic power managment where current carries power
-    AND data.
-    - this shift creates trillions in demand for replacement of
-      electric grid infrastructure *worldwide* gradually across three
-      decades
-    - the mechanics of this flux of demand rippling through the global
-      economie affect industrialized nations differently than
-      developing nations with less infrastructure
-      - the nations with more infrastructure to replace do it more
-        slowly, which creates a need to gradually shift to new
-        infrastructure, requiring backwards compatability.
-        - this requirement for backwards compatibility limits the
-          payoffs to infrastructure updates, which could mean that
-          undeveloped nations are more likely to benefit more quickly
-        - in the end, we all end up with mostly the same set of
-          capabilities from upgraded smart grid infrastructure, but
-          less developed nations are better positioned to receive
-          these benefits faster with less cost and less design
-          constraints.
-        - therefore, the flux of demand will tend to strongly impact
-          developing nations, as they get higher payoffs for cheaper,
-          as long as there is some threshold of stability.
-        - therefore, if the united states can leverage its authority
-          as an international power player to compel others to help
-          foment stability in these nations, then we can
-          simultaneously position ourselves to help supply that
-          demand. The demand is a product of the expectation of
-          permanent stablity in these nations.
-        - therefore, the US helps provide stability and profits from
-          the export of electric grid technology, while retaining the
-          benefits it receives from the analytics based on smart grid
-          consumption analytics and uses this data to stay ahead AND
-          help promote the level of stability that makes it all
-          possible.
-
-### Carbon Tax redistributes (some) wealth, but on a fair basis
+#### Carbon Tax redistributes (some) wealth, but on a fair basis (focus on the additional avenues for economies to participate on a global basis)
 
 - as much as i am inherently suspicious of the idea of an artificial
   institution, whereby actions only have value if they reflect
@@ -183,16 +155,17 @@ have a huge impact on global agriculture markets.
       the graph of economic players)
       - lulz ... math
 
-### mechanisms for economic stabalization
+### Carbon Tax Augments the Global Economy's Mechanisms for Stabilization
 
   - (circuits that establish *natural* balance-restoring feedback
     loops in global economic liquidity/wealth transfers)
     - THIS IS SO INCREDIBLY IMPORTANT FOR RESPONSIBLY APPROACHING THE
       DRAMATIC TECHNOLOGY SHIFTS (i.e. SINGULARITY)
-  - my point is that providing circuits in the global economy whereby
-    (some) of the major liquidity redistributions can be diverted back
-    into the hands of PEOPLE and to add value to people's lives is
-    incredibly important for global economic stability
+  - providing circuits in the global economy whereby (some) of the
+    major liquidity redistributions can be diverted back into the
+    hands of PEOPLE and to add value to people's lives is incredibly
+    important for global economic stability
+
     - the point is not to forcibly redistribute wealth
     - the point is to architect systems whereby everyone shares wealth
       because all people, or at least ~representatives~ of people
@@ -233,7 +206,7 @@ have a huge impact on global agriculture markets.
     - that's not to say it's impossible or impractical, just that it's
       a challenge
 
-### carbon tax provides insights into global economic trends
+### carbon regulation provides insights into global economic trends
 
 - carbon tax provides insights into global economic trends, by
   leveraging the smart grid to help humanity understand how people
@@ -256,7 +229,7 @@ have a huge impact on global agriculture markets.
     information exchange begins to exceed that added by oil (or
     capacity and efficiency of product exchange)
 
-### carbon tax institution w/ some mechanisms for taxation/oversight
+### [An International Institution with Authority to Tax and Regulate](#an-international-institution-with-authority-to-tax-and-regulate)
 
 - another thing that makes my libertarian side a bit nervous is the
   authority that is delegated to such an international institution.
@@ -278,6 +251,51 @@ have a huge impact on global agriculture markets.
         environment or the economy.
       - to me, it's incredibly more complex than that. it's a matter
         of ethical risk and sovereignty
+
+
+### [Fundamental Advancements Towards Tomorrow's Smartgrid](#fundamental-advancements-towards-tomorrows-smartgrid)
+
+
+
+### The Smart Grid and the Importance of Stability in Developing Nations to Interdependent Economic Sectors
+
+  - something like pulse-width shift between digital/analog
+  - the AC/DC divide pushes from consumer electronics to homes, cars
+    and higher order containments of DC electronics systems with
+    capacity for dynamic power managment where current carries power
+    AND data.
+    - this shift creates trillions in demand for replacement of
+      electric grid infrastructure *worldwide* gradually across three
+      decades
+    - the mechanics of this flux of demand rippling through the global
+      economie affect industrialized nations differently than
+      developing nations with less infrastructure
+      - the nations with more infrastructure to replace do it more
+        slowly, which creates a need to gradually shift to new
+        infrastructure, requiring backwards compatability.
+        - this requirement for backwards compatibility limits the
+          payoffs to infrastructure updates, which could mean that
+          undeveloped nations are more likely to benefit more quickly
+        - in the end, we all end up with mostly the same set of
+          capabilities from upgraded smart grid infrastructure, but
+          less developed nations are better positioned to receive
+          these benefits faster with less cost and less design
+          constraints.
+        - therefore, the flux of demand will tend to strongly impact
+          developing nations, as they get higher payoffs for cheaper,
+          as long as there is some threshold of stability.
+        - therefore, if the united states can leverage its authority
+          as an international power player to compel others to help
+          foment stability in these nations, then we can
+          simultaneously position ourselves to help supply that
+          demand. The demand is a product of the expectation of
+          permanent stablity in these nations.
+        - therefore, the US helps provide stability and profits from
+          the export of electric grid technology, while retaining the
+          benefits it receives from the analytics based on smart grid
+          consumption analytics and uses this data to stay ahead AND
+          help promote the level of stability that makes it all
+          possible.
 
 ### Interactions b/w the Smart Grid and Real Estate Prices
 
@@ -415,7 +433,10 @@ have a huge impact on global agriculture markets.
     flexibly reposition themselves in anticipation of unpredictable
     global economic trends
 
-# Law and Rights of Individuals in Inter/National Law
+# [Trends in International Law are Gaining Momentum](#trends-in-international-law-are-gaining-momentum)
+
+- international norms => policy on AI & usages & limitations
+  - analogy for cyber/infowar w/ epidemic
 
 ### At Birth, Every Individual has a Tabula Rasa of Legal Rights/Obligations
 
@@ -424,10 +445,12 @@ have a huge impact on global agriculture markets.
 - As I understand an US Citizen or Individual's rights in
 - arguments from the information warfare articles:
 
-# Trends in International Law are Gaining Momentum
+### Transnationals Should Always At Least Have Human Rights
 
-- international norms => policy on AI & usages & limitations
-  - analogy for cyber/infowar w/ epidemic
+- it seems it's possible for people to declared to have no rights,
+  secretly. These people should always have some inalienable human
+  rights.
+-
 
 ### International Policy for IAC & NIAC, with respect to Transnationalism
 

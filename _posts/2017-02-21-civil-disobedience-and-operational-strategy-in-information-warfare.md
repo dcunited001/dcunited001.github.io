@@ -7,8 +7,8 @@ author:
   name: "David Conner"
 excerpt: "
 Today, we are approaching a world with unprecedented sociocultural
-dynamics that have never been part of the paradigm of secrecy in every
-era until now. Since the epoch before commerce and discovery of
+dynamics that have never been part of the paradigm of secrecy in any
+era until tomorrow's. Since the epoch before commerce and discovery of
 metallurgy, the incentive to keep information secret has pervaded
 culture, even resulting in cultural movements such as
 esotericism. That prevailing paradigm of secrecy, often relegated to
@@ -17,8 +17,8 @@ for close inspection."
 ---
 
 Today, we are approaching a world with unprecedented sociocultural
-dynamics that have never been part of the paradigm of secrecy in every
-era until now. Since the epoch before commerce and discovery of
+dynamics that have never been part of the paradigm of secrecy in any
+era until tomorrow's. Since the epoch before commerce and discovery of
 metallurgy, the incentive to keep information secret has pervaded
 culture, even resulting in cultural movements such as
 esotericism. That prevailing paradigm of secrecy, often relegated to
