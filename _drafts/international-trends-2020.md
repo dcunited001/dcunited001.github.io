@@ -189,10 +189,17 @@ of liquidity from major liquidity displacements. i.e. It's all based
 on observing the integral of the of liquidity movements between major
 nodes in the graph of economic players and various aggregates of this.
 
-  - (circuits that establish *natural* balance-restoring feedback
-    loops in global economic liquidity/wealth transfers)
-    - THIS IS SO INCREDIBLY IMPORTANT FOR RESPONSIBLY APPROACHING THE
-      DRAMATIC TECHNOLOGY SHIFTS (i.e. SINGULARITY)
+From a systems theory approach, these potential connections for
+capital exchange are like circuits, through which is established
+natural, balance-restoring feedback loops via potential global
+economic liquidity/wealth transfers. Neighborhoods of the global
+economy with low capital flux are at higher risk of economic issues
+and would benefit more from additional mechanisms for capital flux. In
+context of taking care to provide economic stability during dramatic
+technology shifts, this is incredibly important for a responsible
+approach.
+
+Further,
   - providing circuits in the global economy whereby (some) of the
     major liquidity redistributions can be diverted back into the
     hands of PEOPLE and to add value to people's lives is incredibly
