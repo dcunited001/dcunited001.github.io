@@ -145,6 +145,14 @@ For every change in capital for some stock, commodity or derivative,
 there are ideal trading tactics. The capacity for profit increases
 with the size of the changes.
 
+- however, as a libertarian, i am just all-in-all distrustful of
+  such artificial international institutions
+  - this is partially bc such rules and such mechanisms add value
+    only through mechanisms WHICH DEPEND SOLELY ON PEOPLE'S BELIEFS
+    - which is what i mean by a purely artificial mechanism
+    - this is not necessarily bad, but something people need to
+        understand so everyone is on the same page.
+
 <a name="carbon-tax-augments-the-global-economys-mechanisms-for-stabilization" />
 
 ### [Carbon Tax Augments the Global Economy's Mechanisms for Stabilization](#carbon-tax-augments-the-global-economys-mechanisms-for-stabilization)
@@ -176,6 +184,10 @@ artificial and dependent on trends in international policy. In
 consideration of tendency of policy changes to create displacement of
 capital, ...
 
+### [Circuits for Liquidity Flux in the Global Economy](#circuits-for-liquidity-flux-in-the-global-economy)
+
+> TODO: equation?
+
 In global finance, the integral of liquidity displacement over time
 for corporations and states is an incredibly important measure of the
 total displacement and movement of capital. Therefore, if one wants
@@ -189,7 +201,9 @@ of liquidity from major liquidity displacements. i.e. It's all based
 on observing the integral of the of liquidity movements between major
 nodes in the graph of economic players and various aggregates of this.
 
-From a systems theory approach, these potential connections for
+
+
+Taking a systems theory approach, these potential connections for
 capital exchange are like circuits, through which is established
 natural, balance-restoring feedback loops via potential global
 economic liquidity/wealth transfers. Neighborhoods of the global
@@ -199,72 +213,55 @@ context of taking care to provide economic stability during dramatic
 technology shifts, this is incredibly important for a responsible
 approach.
 
-Further,
-  - providing circuits in the global economy whereby (some) of the
-    major liquidity redistributions can be diverted back into the
-    hands of PEOPLE and to add value to people's lives is incredibly
-    important for global economic stability
+For neighborhoods in the global economy with low capital flux, in
+addition to increasing capacity/propensity for capital flux, we should
+focus on moving capital into the hands of more people. Incredibly
+important for global economic stability, more circuits whereby
+liquidity redistributions can rediverted capital back into the hands
+of people. If one pictures a liquidity flux or capital displacement in
+the global economy as wealth shifting from one group to another, then
+one can zoom out and picture higher-order liquidity flux from groups
+of nodes to others.
 
-    - the point is not to forcibly redistribute wealth
-    - the point is to architect systems whereby everyone shares wealth
-      because all people, or at least ~representatives~ of people
-      around the world) are essentially equivalently invested in the
-      global economy
-    - so, if one pictures a major liquidity displacement or value
-      displacement in the global economy as a shifting of wealth from
-      one group to another, then it helps if there are "circuits" that
-      ensure when this happens, some of that wealth (naturally NOT
-      forcibly) flows back into the hands of the people
-      - or at least back into the hands of people who will trustibly
-        provide value for others, so that no one is left behind
-   - and the carbon tax, when implemented in the right way, provides
-     an appropriate mechanism for this because adopting these values
-     as international norms fuels demand for technology that moves the
-     world in the right direction IMO
-     - WHILE *naturally* redistributing the wealth into the hands of
-       PEOPLE and NATIONS around the world
-     - those who traditionally can't participate on the global
-       economic stage because they lack the space or resources (or
-       etc.) to fuel an industrial revolution can now participate in a
-       different way that still adds value to the world
-  - however, as a libertarian, i am just all-in-all distrustful of
-    such artificial international institutions
-    - this is partially bc such rules and such mechanisms add value
-      only through mechanisms WHICH DEPEND SOLELY ON PEOPLE'S BELIEFS
-      - which is what i mean by a purely artificial mechanism
-      - this is not necessarily bad, but something people need to
-        understand so everyone is on the same page.
+One can use data science to obtain metrics from an economies tendency
+to fairly redistribute wealth into the hands of many. These metrics
+could be used to inform investment behavior changes that help fairly
+redistribute wealth in a natural way that doesn't involve government
+regulation and bureaucracy. This is because, now, we can get much
+better feedback through data science on how the economy benefits the
+common person. And if it doesn't, we know that something has to change
+and it becomes trivial to demonstrate this.
 
-- TODO: include thoughts on bill gate's idea to tax some form of
-  automation
-  - it's a good idea to promote economic stability in the context of
-    the changed that the 21st century economy will undergo via 3D
-    printing, etc.
-  - however, the challenge is codifying it into law in a way that is
-    fair, simple and not government micromanagement of the economy.
-    - that's not to say it's impossible or impractical, just that it's
-      a challenge
+The point is not to forcibly redistribute wealth. Instead, it is to
+architect systems whereby everyone shares wealth and ideally that
+global population is essentially equivalently invested in the global
+economy.
+
+### [Unparalleled Insight Into International Economic Trends](#unparalleled-insight-into-international-economic-trends)
+
+Carbon tax provides insights into global economic trends, by
+leveraging the smart grid to help humanity understand how people
+consume resources, qualitatively and quantitatively. Everyone across
+the globe should be on the same page with this, so we can all empower
+ourselves with this insight.
+
+Further, this is where the money is in the smart grid and in green
+tech. These metrics all depend on the features and level of data,
+integration and global product penetration. Therefore, policy should
+universalize the framework for smart-grid appliance & infrastructure
+metrics, so that everyone benefits.  The higher various qualities are
+optimized for metrics, the greater the degree of value that is added
+to society as a whole, but this value is maximized when everyone is on
+the same page. Business is about having a set of assumptions about the
+world that can deliver profit if one acts on them. If policy
+determines a consistent framework, then other products can more easily
+add value on top of that framework, but those products depend on the
+assumption that the framework supports the product. Therefore, an
+inconsistent framework leads to consistent churn in the
+competitiveness of viable products.
 
 
-### carbon regulation provides insights into global economic trends
 
-- carbon tax provides insights into global economic trends, by
-  leveraging the smart grid to help humanity understand how people
-  consume resources, qualitatively and quantitatively
-  - this is also something everyone needs to understand so we're all
-    on the same page
-  - this is where the money is, *BY THE WAY*
-    - and i'm going to continue publicizing all that i can until
-      someone helps me build something
-      - because apparently i haven't demonstrated enough value to
-        prove myself worthy of praise and respect and opportunity.
-      - ahem, sorry, not sorry
-- these metrics depend on the features and level of data, integration
-  and global product penetration.
-  - the higher these qualities are optimized, the greater the degree
-    of value that is added to society
-- it could be that the degree of value added to society by metrics
-  begins to surpass the value of oil.
   - that is, the value-added by the capacity and quality of
     information exchange begins to exceed that added by oil (or
     capacity and efficiency of product exchange)
@@ -385,9 +382,16 @@ Further,
 
 # [Space: Economics and Evolution of Governance Mechanisms](#space-economics-and-evolution-of-governance-mechanisms)
 
+Eventually, value added to society by smart-grid and consumer behavior
+metrics may begin to surpass the value of oil, especially in an
+economy with a altered set of fundamentals. 3D printing and nano
+create radically a different economic situation. At first, the
+economic response to commercialized space is strongly affected by
+proximity to resources inbound from space and terrestrial pricing of
+equivalent resources.
+
 - mention the conflict theory article.
   - identify why space may lead to a post-post-westphalian transition
-    -
 
 ### access to space becomes critical to a renewables economy
 
@@ -764,3 +768,13 @@ bullshit.
   struck down my zeus, who feared the immortality of man.
   - people have been aware of the problems inherent in the economics
     of medicine for a long, long time.
+
+- TODO: include thoughts on bill gate's idea to tax some form of
+  automation
+  - it's a good idea to promote economic stability in the context of
+    the changed that the 21st century economy will undergo via 3D
+    printing, etc.
+  - however, the challenge is codifying it into law in a way that is
+    fair, simple and not government micromanagement of the economy.
+    - that's not to say it's impossible or impractical, just that it's
+      a challenge
