@@ -10,6 +10,23 @@ excerpt: ""
 
 ## [Climate Change: The Smart Grid, Intrinsic Analytics and Economic Dynamics](#climite-change)
 
+#### [Smart Grid Analytics to Power Global Business Intelligence](#smart-grid-analytics-to-power-global-business-intelligence)
+
+#### [On Tax-Funded Pollution Cleanup](#on-tax-funded-pollution-cleanup)
+
+#### [Climate Change Encourages Cooperation](#climate-change-encourages-cooperation)
+
+#### [Warning About Finance and International Climate Change Policy](#warning-about-finance-and-international-climate-change-policy)
+
+#### [Carbon Tax Augments the Global Economy's Mechanisms for Stabilization](#carbon-tax-augments-the-global-economys-mechanisms-for-stabilization)
+
+#### [Circuits for Liquidity Flux in the Global Economy](#circuits-for-liquidity-flux-in-the-global-economy)
+
+#### [Leveraging Data Science to Measure How The Economy Serves the People](#leveraging-data-science-to-measure-how-the-economy-serves-the-people)
+
+#### [Unparalleled Insight Into International Economic Trends](#unparalleled-insight-into-international-economic-trends)
+
+
 ## [Space: Economics and Evolution of Governance Mechanisms](#space-economics-and-evolution-of-governance-mechanisms)
 
 ## [Trends in International Law are Gaining Momentum](#trends-in-international-law-are-gaining-momentum)
@@ -128,6 +145,8 @@ deincentivizes conflict by providing the entire system with net gain
 through stability and deviation from maximum economic utility during
 times of conflict.
 
+<a name="warning-about-finance-and-international-climate-change-policy" />
+
 ### [Warning About Finance and International Climate Change Policy](#warning-about-finance-and-international-climate-change-policy)
 
 Conservatives are rightfully skeptical of manmade institutions created
@@ -184,6 +203,8 @@ artificial and dependent on trends in international policy. In
 consideration of tendency of policy changes to create displacement of
 capital, ...
 
+<a name="circuits-for-liquidity-flux-in-the-global-economy" />
+
 ### [Circuits for Liquidity Flux in the Global Economy](#circuits-for-liquidity-flux-in-the-global-economy)
 
 > TODO: equation?
@@ -200,8 +221,6 @@ with the right amounts of money.  It's all based on accumulated strips
 of liquidity from major liquidity displacements. i.e. It's all based
 on observing the integral of the of liquidity movements between major
 nodes in the graph of economic players and various aggregates of this.
-
-
 
 Taking a systems theory approach, these potential connections for
 capital exchange are like circuits, through which is established
@@ -223,6 +242,10 @@ the global economy as wealth shifting from one group to another, then
 one can zoom out and picture higher-order liquidity flux from groups
 of nodes to others.
 
+<a name="leveraging-data-science-to-measure-how-the-economy-serves-the-people" />
+
+### [Leveraging Data Science to Measure How The Economy Serves the People](#leveraging-data-science-to-measure-how-the-economy-serves-the-people)
+
 One can use data science to obtain metrics from an economies tendency
 to fairly redistribute wealth into the hands of many. These metrics
 could be used to inform investment behavior changes that help fairly
@@ -236,6 +259,8 @@ The point is not to forcibly redistribute wealth. Instead, it is to
 architect systems whereby everyone shares wealth and ideally that
 global population is essentially equivalently invested in the global
 economy.
+
+<a name="unparalleled-insight-into-international-economic-trends" />
 
 ### [Unparalleled Insight Into International Economic Trends](#unparalleled-insight-into-international-economic-trends)
 
@@ -259,12 +284,6 @@ add value on top of that framework, but those products depend on the
 assumption that the framework supports the product. Therefore, an
 inconsistent framework leads to consistent churn in the
 competitiveness of viable products.
-
-
-
-  - that is, the value-added by the capacity and quality of
-    information exchange begins to exceed that added by oil (or
-    capacity and efficiency of product exchange)
 
 ### [An International Institution with Authority to Tax and Regulate](#an-international-institution-with-authority-to-tax-and-regulate)
 
@@ -292,7 +311,7 @@ competitiveness of viable products.
 
 ### [Fundamental Advancements Towards Tomorrow's Smartgrid](#fundamental-advancements-towards-tomorrows-smartgrid)
 
-
+- TODO: notes
 
 ### The Smart Grid and the Importance of Stability in Developing Nations to Interdependent Economic Sectors
 
@@ -384,11 +403,16 @@ competitiveness of viable products.
 
 Eventually, value added to society by smart-grid and consumer behavior
 metrics may begin to surpass the value of oil, especially in an
-economy with a altered set of fundamentals. 3D printing and nano
-create radically a different economic situation. At first, the
-economic response to commercialized space is strongly affected by
-proximity to resources inbound from space and terrestrial pricing of
-equivalent resources.
+economy with a altered set of fundamentals. What lubricates both
+capacity and efficiency of product exchange? Oil. However, in an
+information economy, there are more virtual products and information
+is leveraged to make purchasing decisions.
+
+3D printing and nano create radically a different economic situation.
+At first, the economic response to commercialized space is strongly
+affected by proximity to resources inbound from space and terrestrial
+pricing of equivalent resources.
+
 
 - mention the conflict theory article.
   - identify why space may lead to a post-post-westphalian transition
