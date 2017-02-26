@@ -152,42 +152,42 @@ with the size of the changes.
 Carbon policy augments the avenues for stability and capital flux in
 the global economy, but isn't the only policy needed to help ensure
 consistent opportunities for commerce and finance across the globe.
+Via mechanisms enumerated in the Paris Accord, states with space, but
+insufficient industry, could instead leverage carbon offsets as a
+means for producton in economies where other options aren't present.
 
-Via mechanisms enumerated in the Paris Accord, states with space and
-capability, but no industry leverage could instead leverage carbon
-offsets as a means for producton in economies where other options
-aren't present.
+For example, island nations with large swaths of shallow/placid
+CZ(Contiguous Zone) and EEZ(Extended Economic Zone) can use the space
+to produce energy or reduce carbon. As will be shown in further in the
+article, some of these states are ideal for facilitating space
+commerce. If the world decides to set up such an artificial
+international institution to regulate carbon, developing states begin
+to develop faster and this will generally drive demand for tech
+products, which should fuel economic growth the world over. The
+economics of renewables and smart-grid products are interdependent, as
+each establishes a platform that adds value to other. After a
+threshold of infrastructure, there is an added network effect that
+accelerates demand for both renewables and smart-grid products.
 
-- therefore, island nations with large swaths of shallow/placid
-  CZ(contiguous zone) and EEZ(Extended Economic Zones) can use the
-  space to produce energy or generally reduce carbon for "production"
-  that is essentially valuable to the world
-    - if the world decides to set up such an artificial
-      international institution to reflect this as a norm
-- developing states begin to develop faster, which should fuel
-  economic growth the world over
-  - BUT WE ABSOLUTELY CANNOT AFFORD A CRASH RIGHT NOW
+These mechanisms like those of the Paris Accord augment the global
+economy with a mechanism for liquidity displacement and therefore
+augment stability. However, these mechanisms for commerce are
+artificial and dependent on trends in international policy. In
+consideration of tendency of policy changes to create displacement of
+capital, ...
 
-
-  - this provides the global economy with a mechanism for liquidity
-    displacement and therefore stability
-    - i was thinking about this last night, the integral of liquidity
-      displacement in global finance is incredibly important as a
-      measure of the total displacements and movements of wealth.
-      - therefore, if one wants to make money, one must observe global
-        economic trends to identify/predict major liquidity movements
-        and take slices of such movements (for fun AND profit)
-      - i.e. every time major amounts of money exchanges hands, one
-        can take a percentage of those transactions by:
-        - being in the right place,
-        - at the right time,
-        - with the right ideas
-        - and the right amount of money
-    - but it's all based on strips of liquidity from major liquidity
-      displacements (i.e. all based on observing the integral of the
-      ~absolute~value~ of liquidity movements between major nodes in
-      the graph of economic players)
-      - lulz ... math
+In global finance, the integral of liquidity displacement over time
+for corporations and states is an incredibly important measure of the
+total displacement and movement of capital. Therefore, if one wants
+to make money, one must observe global economic trends to identify and
+predict major liquidity displacements, tending to accumulate slices of
+profit from each such movement.  That is, every time a large sum of
+captial changes hands, one can take a percentage of those transactions
+by: being in the right place, at the right time, with the right ideas,
+with the right amounts of money.  It's all based on accumulated strips
+of liquidity from major liquidity displacements. i.e. It's all based
+on observing the integral of the of liquidity movements between major
+nodes in the graph of economic players and various aggregates of this.
 
   - (circuits that establish *natural* balance-restoring feedback
     loops in global economic liquidity/wealth transfers)
