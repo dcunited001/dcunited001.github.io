@@ -141,28 +141,33 @@ climate and energy policy. Therefore: step one, control the policy;
 step two, anticipate resulting trends and place bets; step three,
 profit.
 
+For every change in capital for some stock, commodity or derivative,
+there are ideal trading tactics. The capacity for profit increases
+with the size of the changes.
+
 <a name="carbon-tax-augments-the-global-economys-mechanisms-for-stabilization" />
 
 ### [Carbon Tax Augments the Global Economy's Mechanisms for Stabilization](#carbon-tax-augments-the-global-economys-mechanisms-for-stabilization)
 
+Carbon policy augments the avenues for stability and capital flux in
+the global economy, but isn't the only policy needed to help ensure
+consistent opportunities for commerce and finance across the globe.
 
-(delete?) Carbon Tax Can Augment Stability in the Global Economy
-but on a fair basis (focus on the additional avenues for economies to
-participate on a global basis)
+Via mechanisms enumerated in the Paris Accord, states with space and
+capability, but no industry leverage could instead leverage carbon
+offsets as a means for producton in economies where other options
+aren't present.
 
-
-- states with space and capability, but no industry leverage
-  could instead leverage carbon offsets(?)
-  - with paris accord
-  - therefore, island nations with large swaths of shallow/placid
-    CZ(contiguous zone) and EEZ(Extended Economic Zones) can use the
-    space to produce energy or generally reduce carbon for
-    "production" that is essentially valuable to the world
+- therefore, island nations with large swaths of shallow/placid
+  CZ(contiguous zone) and EEZ(Extended Economic Zones) can use the
+  space to produce energy or generally reduce carbon for "production"
+  that is essentially valuable to the world
     - if the world decides to set up such an artificial
       international institution to reflect this as a norm
 - developing states begin to develop faster, which should fuel
   economic growth the world over
   - BUT WE ABSOLUTELY CANNOT AFFORD A CRASH RIGHT NOW
+
 
   - this provides the global economy with a mechanism for liquidity
     displacement and therefore stability
