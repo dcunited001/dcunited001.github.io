@@ -94,12 +94,12 @@ the arts can be used as treatments and I explored this idea in my
 article
 [Language Therapy For Autism and Traumatic Brain Injury](http://te.xel.io/posts/2015-01-28-language-therapy-for-asd-and-tbi.html).
 Part three of this series on cognition is a kind of generalization of
-that article.  Ideas like this are often applied in cognitive
-behavioral treatments to present a patient with situations that force
-them to think differently or to develop new skills.  However, the
-pursuit of these activites typically requires the patient to focus on
-activities they don't inherently excel at.  And so, we need to
-approach this in such a way as to avoid needless frustration for
+that article.  Cognitive Behavioral Therapy applies ideas like this to
+present a patient with situations compelling them to think and react
+differently, to force development of new skills and thought patterns.
+However, the pursuit of these activites typically requires the patient
+to focus on activities they don't inherently excel at. And so, we need
+to approach this in such a way as to avoid needless frustration for
 someone.
 
 However, it is a virtue to enjoy the pursuit of that which is
