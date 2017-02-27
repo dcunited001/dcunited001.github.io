@@ -9,8 +9,7 @@ excerpt: ""
 ---
 
 > "Coming to you from the 9th level of Dante's Inferno, reserved for
-> traitors and from which only the falsely crucified may emerge." -
-> Dante
+> traitors and whence only the falsely crucified may emerge." - Dante
 
 ## [Climate Change: The Smart Grid, Intrinsic Analytics and Economic Dynamics](#climite-change)
 
@@ -29,6 +28,8 @@ excerpt: ""
 #### [Leveraging Data Science to Measure How The Economy Serves the People](#leveraging-data-science-to-measure-how-the-economy-serves-the-people)
 
 #### [Unparalleled Insight Into International Economic Trends](#unparalleled-insight-into-international-economic-trends)
+
+## [Fundamental Advancements Towards Tomorrow's Smartgrid](#fundamental-advancements-towards-tomorrows-smartgrid)
 
 ## [Space: Economics and Evolution of Governance Mechanisms](#space-economics-and-evolution-of-governance-mechanisms)
 
@@ -168,15 +169,13 @@ with the size of the changes. The timing of these large liquidity
 fluxes can be controlled by restraining, accelerating and anticipating
 climate policy changes.
 
-- TODO: underscore the risk for massive green insider trading schemes
-
-- however, as a libertarian, i am just all-in-all distrustful of
-  such artificial international institutions
-  - this is partially bc such rules and such mechanisms add value
-    only through mechanisms WHICH DEPEND SOLELY ON PEOPLE'S BELIEFS
-    - which is what i mean by a purely artificial mechanism
-    - this is not necessarily bad, but something people need to
-        understand so everyone is on the same page.
+Libertarians are distrustful of such artificial international
+institutions. Such policy enacts mechanisms expending real resources
+as costs, but add value according only to transient, manipulable
+beliefs. This is similar to how people's belief systems can be
+manipulated to perceive wealth in the midst of what is only a credit
+bubble. However, in the case of green climate regulation, the bubble
+extends to influence all aspects of production and consumption.
 
 <a name="carbon-tax-augments-the-global-economys-mechanisms-for-stabilization" />
 
@@ -189,8 +188,8 @@ Via mechanisms enumerated in the Paris Accord, states with space, but
 insufficient industry, could instead leverage carbon offsets as a
 means for producton in economies where other options aren't present.
 
-For example, island nations with large swaths of shallow/placid
-CZ(Contiguous Zone) and EEZ(Extended Economic Zone) can use the space
+For example, island nations with large swaths of shallow/placid CZ
+(Contiguous Zone) and EEZ (Extended Economic Zone) can use the space
 to produce energy or reduce carbon. As will be shown in further in the
 article, some of these states are ideal for facilitating space
 commerce. If the world decides to set up such an artificial
@@ -212,8 +211,6 @@ capital, ...
 <a name="circuits-for-liquidity-flux-in-the-global-economy" />
 
 ### [Circuits for Liquidity Flux in the Global Economy](#circuits-for-liquidity-flux-in-the-global-economy)
-
-> TODO: equation?
 
 In global finance, the integral of liquidity displacement over time
 for corporations and states is an incredibly important measure of the
@@ -238,15 +235,15 @@ context of taking care to provide economic stability during dramatic
 technology shifts, this is incredibly important for a responsible
 approach.
 
-For neighborhoods in the global economy with low capital flux, in
-addition to increasing capacity/propensity for capital flux, we should
-focus on moving capital into the hands of more people. Incredibly
-important for global economic stability, more circuits whereby
-liquidity redistributions can rediverted capital back into the hands
-of people. If one pictures a liquidity flux or capital displacement in
-the global economy as wealth shifting from one group to another, then
-one can zoom out and picture higher-order liquidity flux from groups
-of nodes to others.
+For neighborhoods in the graph of the global economy with low capital
+flux, in addition to increasing capacity/propensity for capital flux,
+we should focus on moving capital into the hands of more
+people. Incredibly important for global economic stability, more
+circuits whereby liquidity redistributions can rediverted capital back
+into the hands of people. If one pictures a liquidity flux or capital
+displacement in the global economy as wealth shifting from one group
+to another, then one can zoom out and picture higher-order liquidity
+flux from groups of nodes to others.
 
 <a name="leveraging-data-science-to-measure-how-the-economy-serves-the-people" />
 
@@ -367,14 +364,97 @@ trends. It's impossible for people on the left and right to not have
 considered this, but it seems to be left out of the mainstream
 discussion. This is a matter of enormous ethical risk and sovereignty.
 
-# Smart Grid
+# [Fundamental Advancements Towards Tomorrow's Smartgrid](#fundamental-advancements-towards-tomorrows-smartgrid)
 
-### [Fundamental Advancements Towards Tomorrow's Smartgrid](#fundamental-advancements-towards-tomorrows-smartgrid)
+Alternating Current (AC) and Direct Current (DC) have different
+qualities making them useful in consumer electronics. Our electric
+grid utilizes AC to transmit power long distances because it's more
+efficient than DC. Thanks to Tesla, we didn't have to deal with GE's
+plan for local DC switching facilities in a pure DC electric
+grid. Incidentally, the power grid of the 21st century looks a lot
+more like GE's plan.
 
-- mention how the divide b/w AC and DC gets pushed further back and
-  demand for in-home and in-building DC-switching becomes the norm
-- power packet routing (cite the Kyoto paper and others)
-  - TDMA-like witching for units of power with both signaling metadata
+The divide between AC and DC moves from the endpoint of consumer
+technology to the consumer's house or building. This bridges the gap
+for renewables to connect into a consumer's home and is required for
+the creation of a viable product platform for renewables. Renewables
+require a change in the consumer electric grid -- large changes in the
+electric framework running through their home and office. Otherwise,
+renewables simply can't be marketed to customers.
+
+For example, the Tesla battery can be easily connected to renewables
+such as solar, but isn't so simply and efficiently integrated into a
+consumer's home AC circuits. However, if a consumer's home is fully
+DC, everything connects quite simply -- the Tesla storage battery and
+any renewables that charge it. Therefore there's going to be a huge
+technological shift in the parts of the electric grid connect to your
+home and office. The divide between AC & DC will be pushed further
+out. Until the actual electric grid infrastructure can be replaced, DC
+networks will be pushed from the consumer side to the POD (Point of
+Demarcation). In countries which are already developed, the evolution
+of the smart-grid will be ironically slower, as there will be major
+headaches in replacing the infrastructure.
+
+However, to ensure that American interests become leaders in the
+manufacture, design and marketing of smart-grid technology, this means
+that we need to ensure that there are plenty of stable markets in
+developing nations.
+
+### Packet Switching for the Smart Grid
+
+Researchers across the world are revitalizing their interests in power
+grid technology and solving many electrical engineering problems that
+otherwise lay dormant for decades. To Cisco certified networking
+enthusiasts such as myself, one particularly interesting area of smart
+grid research is power packet routing. To the layman, this essentially
+combines the internet and electric power distribution, so your devices
+can be connected to the internet by simply being plugged in. This
+helps IoT (internet of things) devices quite a bit.
+
+#### [Power Packet Routing](http://repository.kulib.kyoto-u.ac.jp/dspace/handle/2433/197379)
+
+![Power Packet Routing](/img/posts/2017-02-27-international-trends-2020/power-packet-routing.png)
+
+Depending on the rollout of other technologies and relevant consumer
+behavior, some aspects of smart grid technology may not become
+anything more than a good idea. The correct answer here is simplicity
+and the problem is designing the next generation of consumer
+electronics. Design iteration on these consumer electronics is
+incredibly expensive, almost as expensive as maintaining backwards
+compatibility. Whether the benefits of new infrastructure outweigh the
+costs of implementation in developed countries will determine whether
+these technologies will become mainstream.
+
+Power packet switching requires layers of gear similar to Cisco
+routers and switches. Furthermore, TDMA-like protocols can send data
+and power over the same channel. Enabling this to work with various
+voltages, amperages and wattages requires *either* incredibly
+complicated component design or standardization of consumer
+electronics. The problems that electrical engineers are solving to
+create tomorrow's smart-grid are incredibly complicated and just as
+urgent for American industry to succeed in the global economy from
+2020 through 2040. It is critical to get this right and there quite
+likely is a "correct answer" for overarching design problems
+here. Whether that correct answer meshes well with the economics of
+both smart-grid rollout and renewables is an enigma to me. Green
+issues and climate change policy will have a huge effect on the
+apparent solutions in the smart-grid infrastructure discussion.
+
+To get an idea of the research being conducted in this field, check
+out this IEEE publication:
+[IEEE Transactions on Power Systems](http://ieeexplore.ieee.org/xpl/RecentIssue.jsp?punumber=59). Most
+of those studies require payment to access, but that's where you can
+find all the critical research being done.
+
+Here is a good introduction into some of the high-level design
+concepts used to determine viable smart-grid topologies:
+[A Review of Architectures and Concepts for Intelligence in Future Electric Energy Systems](http://ieeexplore.ieee.org/document/6915899/). To
+understand more about shifting the divide between AC and DC, read this
+IEEE publication:
+[DC Local Power Distribution: Technology, Deployment, and Pathways to Success](http://ieeexplore.ieee.org/document/7480941/).
+
+
+- TDMA-like switching for units of power with both signaling metadata
     and data sharing the same channel.
   - mention the standard power cable specification being developed
     just for this (380V power cable)
@@ -384,6 +464,7 @@ discussion. This is a matter of enormous ethical risk and sovereignty.
   - something like pulse-width shift between digital/analog, where the
     components of electronics time the switching of circuits to route
     temporary power or encoded data
+
 - is there a protocol for encoding Q/FFT (?) transactions in a
   universal way?
 
@@ -430,7 +511,7 @@ discussion. This is a matter of enormous ethical risk and sovereignty.
 
 - teleological consequences to the transformation of the electric grid
 
-### The Smart Grid and the Importance of Stability in Developing Nations to Interdependent Economic Sectors
+### The Smart Grid and the Importance of Stability in Developing Nations
 
   - the AC/DC divide pushes from consumer electronics to homes, cars
     and higher order containments of DC electronics systems with
