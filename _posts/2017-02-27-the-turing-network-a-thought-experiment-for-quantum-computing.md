@@ -144,6 +144,12 @@ quantum computing. Thinking about his makes me appreciate how powerful
 technology is and makes me wonder where all the hyperintelligent
 people are in my life.
 
+#### Wherefore [Erdős Number](https://en.wikipedia.org/wiki/Erd%C5%91s_number)? There for nothing?
+
 > "Before, when I looked at a piece of blank paper my mind was filled
 > with ideas. Now all I see is a blank piece of paper..."
 > [Paul Erdős](https://www.quora.com/Was-Paul-Erdos-addicted-to-amphetamines)
+
+What am I here for, anyways? Why am I tormented for the gifts of
+creativity, intelligence and perseverence? Why does it appear that I'm
+fated for oblivion?
