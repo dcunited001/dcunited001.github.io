@@ -294,10 +294,10 @@ competitiveness of viable products.
 
 By donning a perspective enhanced by game theory, one can see that
 climate change is an issue that can only be solved by getting all
-nations on board. The larger the nation, the more important it is that
-they are on board and remain committed to restraining elements of
-their economy for environmental conservation. The two most important
-nations are the US and China, upon which consensus can be built.
+nations on board. The larger the nation, the more important it is they
+be on board and remain committed to restraining elements of their
+economy for environmental conservation. The two most important nations
+are the US and China, upon which consensus can be built.
 
 Knowing that green policies acting to restrain Climate Change require
 the entire world on board to be successful makes the power conferred
