@@ -261,7 +261,7 @@ from drumset to dancing and vice versa.
 ### &#x2297; [Writing](/posts/2015-08-26-epistemology-cognition-and-category-theory-part-three.html#writing)
 
 Writers have to understand how to portray various situations in order
-to cultivate the reader's thoughts towards specific means. Writers
+to cultivate the reader's thoughts towards specific avenues. Writers
 need to intensely understand psychology, not just of the situations
 they present in their works, but also of the various categories of
 readers, who will interpret the work differently. The best writers can

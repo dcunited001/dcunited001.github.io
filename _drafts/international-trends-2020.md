@@ -156,13 +156,18 @@ economic trends related to mission of the institution. in many cases,
 this delegates US authority to some institution outside US control. In
 the specific case of climate change, nowhere is there more capacity
 for second and third order effects to commerce and society than
-climate and energy policy. Therefore: step one, control the policy;
-step two, anticipate resulting trends and place bets; step three,
-profit.
+climate and energy policy.
+
+> Therefore: step one, control the policy; step two, anticipate
+> resulting trends and place bets; step three, profit.
 
 For every change in capital for some stock, commodity or derivative,
 there are ideal trading tactics. The capacity for profit increases
-with the size of the changes.
+with the size of the changes. The timing of these large liquidity
+fluxes can be controlled by restraining, accelerating and anticipating
+climate policy changes.
+
+- TODO: underscore the risk for massive green insider trading schemes
 
 - however, as a libertarian, i am just all-in-all distrustful of
   such artificial international institutions
@@ -287,8 +292,70 @@ competitiveness of viable products.
 
 ### [An International Institution with Authority to Tax and Regulate](#an-international-institution-with-authority-to-tax-and-regulate)
 
-- another thing that makes my libertarian side a bit nervous is the
-  authority that is delegated to such an international institution.
+By donning a perspective enhanced by game theory, one can see that
+climate change is an issue that can only be solved by getting all
+nations on board. The larger the nation, the more important it is that
+they are on board and remain committed to restraining elements of
+their economy for environmental conservation. The two most important
+nations are the US and China, upon which consensus can be built.
+
+Knowing that green policies acting to restrain Climate Change require
+the entire world on board to be successful makes the power conferred
+to these international institutions all the more precarious. With the
+whole world's weight behind an international institution equipped with
+what is essentially the power to tax, survey and regulate
+international commerce, libertarians and true conservatives know to
+fear this all the more. Commerce is everything and the power to
+control commerce is the power to control everything. Extend this power
+worldwide and you'll begin to understand why conservatives might be
+nervous: they hold American sovereignty higher than any international
+institution.
+
+Combined with the ability to conduct climate-policy-fueled insider
+trading, it's no wonder that conservatives are hesitant to move
+forward. Globally moving forward on this policy confers the
+international leftist order the ability to micromanage economies from
+the comfort of obscure international institutions. Enable this and
+watch in wonderment as western economies collapse in controlled
+demolitions. Just watch and remind yourself that you "saved the
+planet" every time you see another economic crisis like Athens,
+Greece.
+
+> "With our powers combined, we summoned a controlled demolition of
+> western economies. Ironically, we're now living in third-world
+> nation status and hating every minute of it. But hey, we saved the
+> planet, didn't we?" -- Liberals in 2030
+
+Perhaps greater than the power to influence economies through
+international climate policy is the power to compel nations to
+disclose information about their economic activities. Yes, the Paris
+Agreement is implemented as a protocol, which means that member
+nations simply need to conform to specific reporting requirements
+without necessarily exposing their internal specifics via a global
+reporting mechanism. However, this means that each member nation's
+independence and competitiveness becomes limited. To understand the
+specific mechanics of the Paris Agreement, it's crucial to actually
+read it, regardless of your leanings on the issue of climate. The
+Paris Agreement or something like it is inevitable, but actual
+discussion of the specifics is crucial, as something like Paris cannot
+so easily be undone. Shoving your head in the ground like an ostritch
+isn't going to help anyone, which is a warning that applies equally to
+the right and the left.
+
+Further, this international autherity for taxation, quantification and
+regulation of commerce represents the possibility of transition
+towards a centerpiece for true global one-world government. As such,
+it should thoroughly scrutinized by everyone. As a potential mechanism
+for transition to one-world government, it is lunacy for conservatives
+to remain uninvolved. Imagine if it actually an intermediate step in
+transition towards one-world government and conservatives remained
+completely uninvolved...
+
+> By the way, I'd like to mention that have the ability to unite both
+> the left and right to a degree exhibited and unseen by anyone else
+> on the planet. I imagine a better world, where Americans on the left
+> and right cooperate to make America great again.
+
   - the international authority to measure correlates with the
     collection high-value data
     - this, amoung other things, requires a huge amount of trust
@@ -307,7 +374,6 @@ competitiveness of viable products.
         environment or the economy.
       - to me, it's incredibly more complex than that. it's a matter
         of ethical risk and sovereignty
-
 
 ### [Fundamental Advancements Towards Tomorrow's Smartgrid](#fundamental-advancements-towards-tomorrows-smartgrid)
 
