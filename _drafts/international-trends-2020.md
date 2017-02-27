@@ -8,6 +8,10 @@ author:
 excerpt: ""
 ---
 
+> "Coming to you from the 9th level of Dante's Inferno, reserved for
+> traitors and from which only the falsely crucified may emerge." -
+> Dante
+
 ## [Climate Change: The Smart Grid, Intrinsic Analytics and Economic Dynamics](#climite-change)
 
 #### [Smart Grid Analytics to Power Global Business Intelligence](#smart-grid-analytics-to-power-global-business-intelligence)
@@ -26,7 +30,6 @@ excerpt: ""
 
 #### [Unparalleled Insight Into International Economic Trends](#unparalleled-insight-into-international-economic-trends)
 
-
 ## [Space: Economics and Evolution of Governance Mechanisms](#space-economics-and-evolution-of-governance-mechanisms)
 
 ## [Trends in International Law are Gaining Momentum](#trends-in-international-law-are-gaining-momentum)
@@ -34,8 +37,6 @@ excerpt: ""
 ## [Transnationalism and the Post-Westphalian Era](#transnationalism-and-the-post-westphalian-era)
 
 ## [Global Geopolitical Analysis](#global-geopolitical-analysis)
-
-
 
 > "Hey, it's me." -- David Conner, the guy without enough money to
 > open a bank account who made less than $400 in 2016 and $1717
@@ -290,6 +291,8 @@ assumption that the framework supports the product. Therefore, an
 inconsistent framework leads to consistent churn in the
 competitiveness of viable products.
 
+<a name="an-international-institution-with-authority-to-tax-and-regulate" />
+
 ### [An International Institution with Authority to Tax and Regulate](#an-international-institution-with-authority-to-tax-and-regulate)
 
 By donning a perspective enhanced by game theory, one can see that
@@ -323,10 +326,10 @@ Greece.
 
 ![Captain Planet]()
 
-> "With our powers combined, we summoned a controlled demolition of
+> "With our powers combined ... we summoned a controlled demolition of
 > western economies. Ironically, we're now living in third-world
 > nation status and hating every minute of it. But hey, we saved the
-> planet, didn't we?" -- Liberals in 2030
+> planet, didn't we? ..." -- Liberals in 2030
 
 Perhaps greater than the power to influence economies through
 international climate policy is the power to compel nations to
@@ -356,31 +359,17 @@ completely uninvolved...
 > By the way, I'd like to mention that have the ability to unite both
 > the left and right to a degree exhibited and unseen by anyone else
 > on the planet. I imagine a better world, where Americans on the left
-> and right cooperate to make America great again.
+> and right cooperate to make America great not.
 
-  - the international authority to measure correlates with the
-    collection high-value data
-    - this, amoung other things, requires a huge amount of trust
-  - this institution represents the ability to transition authority
-    for a means of taxation to an international institution
-    - at least, to a degree never before see
-    - to me, unless most properly implemented, this represents a
-      threat to sovereignty not just to america, but to every nation
-      on earth
-      - it actually scares me a bit
-  - not only is the data on resource utilization/demand dangerous, but
-    so is the capacity for macro & micro economic shenanigans
-    - i don't think very many on the left or right have thought about
-      this issue in this way, actually
-      - to many, it's a matter of right and wrong, with respect to the
-        environment or the economy.
-      - to me, it's incredibly more complex than that. it's a matter
-        of ethical risk and sovereignty
+The potential for abuse is unreal. The data on resource utilization
+and demand is incredibly valuable for both reading and driving
+trends. It's impossible for people on the left and right to not have
+considered this, but it seems to be left out of the mainstream
+discussion. This is a matter of enormous ethical risk and sovereignty.
 
 # Smart Grid
 
 ### [Fundamental Advancements Towards Tomorrow's Smartgrid](#fundamental-advancements-towards-tomorrows-smartgrid)
-
 
 - mention how the divide b/w AC and DC gets pushed further back and
   demand for in-home and in-building DC-switching becomes the norm
@@ -398,39 +387,9 @@ completely uninvolved...
 - is there a protocol for encoding Q/FFT (?) transactions in a
   universal way?
 
-
-- sidetrek: Turing Machine using waveform as data/memory in a turing
-  network of electronic devices.
-  - in other words, you have a network of variously connected devices
-    sharing the distribution of a waveform between electric
-    channels. and the "tape" in this Turing Machine is the waveform,
-    which the nodes of the network are programmed to modify.
-    - the "programs" in this case are the behaviors of each node in
-      response to inbound data from a waveform, which modify it and
-      retransmit it along outbound edges to other nodes. the
-      timing/positioning of the nodes on the electric network matters.
-    - like any Turing program, the values encoded onto the tape depend
-      on how the program processes values previously read into the
-      program
-    - the traits distinguishing this hypothetical programming problem
-      from a simple Turing Machine are that (1) there is a network of
-      devices; a Turing Network (2) they are connected together using
-      only electronic waveforms, so the speed of transfer of
-      information is optionally relevant (3) the components used are
-      optionally relevant, but should only be considered relevant by
-      masochists. (4) optionally add to each node a digital networking
-      connection that surpasses the speed of light and you begin to
-      appreciate how quantum networking simplifies this problem.
-  - the question posed for such a setup is: how hard is it to get the
-    assumptions from Turing Machines to hold for a Turing Network?
-- i think, generally, this Turing Network problem is mostly
-  irrelevant, but an incredibly useful thought experiement for people
-  who want to work on the Smart Grid
-  - this is because the smart grid requires distributing state across
-    millions of devices to coordinate concerted network behavior to
-    distribute power and accurately collect analytics.
-
 - what routing protocols begin to emerge for DC-power-switching?
+
+### Quantum Networking
 
 - quantum netwokring for wireless/powerless metadata communication 4
   smartgrid
@@ -440,15 +399,36 @@ completely uninvolved...
     smart-grid, this matters. further, quantum networking is rarely
     thought about by the common person who does understand the
     rigidity imposed by Special Relativity.
-  - its difficult to understand the downstream consequences to
-    computing caused by a means of communication like the Ansible.
-    - but for massive, geo-distributed projects like GPS and the
-      Smart-Grid, a technological breakthrough here is huge.
   - cite papers about machine learning and smart grid infrastructure
     switching
+
+- the specifics of quantum networking, particularly whether it's
+  convenient, cheap and portable, strongly determines how technology
+  will unfold and determines which industries thrive and survive as
+  other dependent tech finds its way into the hands of consumers.
+  - in other words, quantum networking and its specifics is a huge
+    unknown with massive implications on how technology will unfold
+  - quantum networking using entangled pairs of particles facilitates
+    faster than light communication.
+    - its effects on other technology are at first esoteric, hard to
+      understand and highly technical
+    - at first, it's only beneficial for for massive,
+      geo-distributed projects like GPS or the Smart-Grid. whether it
+      is useful at all depends on whether the payoffs transcend the
+      barriers of its technological implementations, which may include
+      superconduction or special cooling requirements.
+      - technological breakthroughs here are huge, but very
+        unpredictable. therefore, from an investment standpoint, it's
+        crucial to maintain flexibility and maintain signals that
+        inform you of technological developmetns.
+      - certain technological breakthroughs could have vast,
+        unpredictable effects on the implementation of technology for
+        consumers, for infrastructure and for any interconnected
+        software & hardware
+  - its difficult to understand the downstream consequences to
+    computing caused by a means of communication like the Ansible.
+
 - teleological consequences to the transformation of the electric grid
-
-
 
 ### The Smart Grid and the Importance of Stability in Developing Nations to Interdependent Economic Sectors
 

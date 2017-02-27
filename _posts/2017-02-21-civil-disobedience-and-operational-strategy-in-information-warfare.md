@@ -1,6 +1,6 @@
 ---
 title: "Civil Disobedience and the Operational Level of Information Warfare"
-categories: "graphics"
+categories: "blog"
 tags: "operational-strategy military information-warfare civil-disobedience"
 headline: ""
 author:
@@ -39,8 +39,6 @@ capital, finance, accounting, pure math, programming, pharmacology,
 philosophy, linguistics, semiotics and countless other subjects. But
 in an economy where a myriad of skills fuel your capacity for
 employment, I still can't find a job.
-
-#### I Also Took Crypto I, But Skipped the Final
 
 ![Coursera Pic](/img/posts/2017-02-21-civil-disobedience-and-operational-strategy-in-information-warfare/coursera-grades.png)
 
