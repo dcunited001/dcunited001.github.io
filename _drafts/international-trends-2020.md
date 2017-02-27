@@ -321,6 +321,8 @@ demolitions. Just watch and remind yourself that you "saved the
 planet" every time you see another economic crisis like Athens,
 Greece.
 
+![Captain Planet]()
+
 > "With our powers combined, we summoned a controlled demolition of
 > western economies. Ironically, we're now living in third-world
 > nation status and hating every minute of it. But hey, we saved the
@@ -375,13 +377,81 @@ completely uninvolved...
       - to me, it's incredibly more complex than that. it's a matter
         of ethical risk and sovereignty
 
+# Smart Grid
+
 ### [Fundamental Advancements Towards Tomorrow's Smartgrid](#fundamental-advancements-towards-tomorrows-smartgrid)
 
-- TODO: notes
+
+- mention how the divide b/w AC and DC gets pushed further back and
+  demand for in-home and in-building DC-switching becomes the norm
+- power packet routing (cite the Kyoto paper and others)
+  - TDMA-like witching for units of power with both signaling metadata
+    and data sharing the same channel.
+  - mention the standard power cable specification being developed
+    just for this (380V power cable)
+  - analog signal 4 power packets to provide data + power addressed in
+    hardware apps w/ power and data transmitted using a TDMA-like
+    protocol
+  - something like pulse-width shift between digital/analog, where the
+    components of electronics time the switching of circuits to route
+    temporary power or encoded data
+- is there a protocol for encoding Q/FFT (?) transactions in a
+  universal way?
+
+
+- sidetrek: Turing Machine using waveform as data/memory in a turing
+  network of electronic devices.
+  - in other words, you have a network of variously connected devices
+    sharing the distribution of a waveform between electric
+    channels. and the "tape" in this Turing Machine is the waveform,
+    which the nodes of the network are programmed to modify.
+    - the "programs" in this case are the behaviors of each node in
+      response to inbound data from a waveform, which modify it and
+      retransmit it along outbound edges to other nodes. the
+      timing/positioning of the nodes on the electric network matters.
+    - like any Turing program, the values encoded onto the tape depend
+      on how the program processes values previously read into the
+      program
+    - the traits distinguishing this hypothetical programming problem
+      from a simple Turing Machine are that (1) there is a network of
+      devices; a Turing Network (2) they are connected together using
+      only electronic waveforms, so the speed of transfer of
+      information is optionally relevant (3) the components used are
+      optionally relevant, but should only be considered relevant by
+      masochists. (4) optionally add to each node a digital networking
+      connection that surpasses the speed of light and you begin to
+      appreciate how quantum networking simplifies this problem.
+  - the question posed for such a setup is: how hard is it to get the
+    assumptions from Turing Machines to hold for a Turing Network?
+- i think, generally, this Turing Network problem is mostly
+  irrelevant, but an incredibly useful thought experiement for people
+  who want to work on the Smart Grid
+  - this is because the smart grid requires distributing state across
+    millions of devices to coordinate concerted network behavior to
+    distribute power and accurately collect analytics.
+
+- what routing protocols begin to emerge for DC-power-switching?
+
+- quantum netwokring for wireless/powerless metadata communication 4
+  smartgrid
+  - this allows machine-learning algorithms to be more efficent when
+    managing the distribution of power. the speed of light is not a
+    limiting factor and for geographically system as large as the
+    smart-grid, this matters. further, quantum networking is rarely
+    thought about by the common person who does understand the
+    rigidity imposed by Special Relativity.
+  - its difficult to understand the downstream consequences to
+    computing caused by a means of communication like the Ansible.
+    - but for massive, geo-distributed projects like GPS and the
+      Smart-Grid, a technological breakthrough here is huge.
+  - cite papers about machine learning and smart grid infrastructure
+    switching
+- teleological consequences to the transformation of the electric grid
+
+
 
 ### The Smart Grid and the Importance of Stability in Developing Nations to Interdependent Economic Sectors
 
-  - something like pulse-width shift between digital/analog
   - the AC/DC divide pushes from consumer electronics to homes, cars
     and higher order containments of DC electronics systems with
     capacity for dynamic power managment where current carries power
@@ -420,6 +490,26 @@ completely uninvolved...
           possible.
 
 ### Interactions b/w the Smart Grid and Real Estate Prices
+
+- there are predictable dynamics in real-estate that result from the
+  availability and qualities of smart-grid infrastructure as well as
+  incentivizations inherent in the economics of infrastructure
+  installation.
+  - these are especially present in urban and high rise residential
+    areas. Changes in infrastructure here have long-lasting
+    consequences, so we're going to want to do this right, so the
+    smart-grid platform empowers american industry across the world.
+- a building's capacity for renewable energy production is correlated
+  to surface area, so as the proportion of volume to surface area
+  increases, the likelihood of balanced energy utilization drops
+  rapidly.
+  - whether this matters depends on whether fusion or alternatives
+    like them become available. fusion will become the dominant form
+    of energy production later in the 21st century, but the version
+    and quality of smart-grid infrastructure for buildings will begin
+    to matter regardless, especially if we expect incentivization from
+    climate change policies like the Paris Agreement to actually make
+    a difference.
 
 - increased demand for smart grid in developed states
   - but also developing states, since they are either upgrading older
