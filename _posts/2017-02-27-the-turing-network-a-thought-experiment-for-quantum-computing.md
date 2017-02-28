@@ -144,6 +144,13 @@ quantum computing. Thinking about his makes me appreciate how powerful
 technology is and makes me wonder where all the hyperintelligent
 people are in my life.
 
+### TODO:
+
+- turing network used by neurons to communicate data encoded into
+  spectral components of neural spikes?
+- 
+
+
 #### Wherefore [Erdős Number](https://en.wikipedia.org/wiki/Erd%C5%91s_number)? There for nothing?
 
 > "Before, when I looked at a piece of blank paper my mind was filled
@@ -153,3 +160,5 @@ people are in my life.
 What am I here for, anyways? Why am I tormented for the gifts of
 creativity, intelligence and perseverence? Why does it appear that I'm
 fated for oblivion?
+
+
