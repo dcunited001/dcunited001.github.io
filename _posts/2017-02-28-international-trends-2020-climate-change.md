@@ -332,10 +332,12 @@ Greece.
 
 ![Captain Planet](/img/posts/2017-02-28-international-trends-2020-climate-change/captain-planet.jpg)
 
-> "With our powers combined ... we summoned a slow, painful demolition
+#### A Warning to Liberals, Inspired By Pragmatism
+
+> With our powers combined ... we summoned a slow, painful demolition
 > of western economies. Ironically, we're now living in third-world
 > nation status and hating every minute of it. But hey, we saved the
-> planet, didn't we? ..." -- Liberals in 2030
+> planet, didn't we? ...
 
 Perhaps greater than the power to influence economies through
 international climate policy is the power to compel nations to

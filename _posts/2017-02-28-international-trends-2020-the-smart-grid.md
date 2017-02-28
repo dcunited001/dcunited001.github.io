@@ -160,7 +160,7 @@ some of this equipment and in America, it will undergo several ...
 
 #### [Power Packet Routing](http://repository.kulib.kyoto-u.ac.jp/dspace/handle/2433/197379)
 
-![Power Packet Routing](/img/posts/2017-02-27-international-trends-2020/power-packet-routing.png)
+![Power Packet Routing](/img/posts/2017-02-28-international-trends-2020-the-smart-grid/power-packet-routing.png)
 
 Depending on the rollout of other technologies and relevant consumer
 behavior, some aspects of smart grid technology may not become
