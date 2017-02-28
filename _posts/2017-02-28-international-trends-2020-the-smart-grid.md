@@ -85,11 +85,12 @@ in developing nations.
 ### [Smart Grid Analytics and Surveillance](#smart-grid-analytics-and-surveillance)
 
 The smart grid enables centralized analysis of resource consumption
-and other IoT signals. This enables amazing features such as fairly
-pricing electricity fed back into the grid. However, spectral analysis
-and pattern mining on these signals leads surveillance to apporach a
-state of completeness in its degree to map out individuals
-lives.
+and other IoT signals. Just like with the internet, the money is in
+mining the data produced by users. This enables amazing features such
+as fairly pricing electricity fed back into the grid. However,
+spectral analysis and pattern mining on these signals leads
+surveillance to apporach a state of completeness in its degree to map
+out individuals lives.
 
 Using spectral analysis techniques, you can process the power
 utilization patterns at the consumer's central connection to the
