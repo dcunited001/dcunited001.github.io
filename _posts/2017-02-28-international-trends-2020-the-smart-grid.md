@@ -219,12 +219,12 @@ smart cars, when overcoming the speed of light matters. It's use as a
 clock-synching mechanism would be ubiquitous, if technical limitations
 could be transcended.
 
-QN will allow for the instantaneous desemination of
-power grid state. Machine-learning algorithms can be more efficient
-when managing the distribution of power because they never have to
-query distant systems for status or wait for state to be synced before
-making a decision. Quantum networking could be used in cubesats for
-the activation of networked resillience to EMP. As soon as one cubesat
+QN will allow for the instantaneous desemination of power grid
+state. Machine-learning algorithms can be more efficient when managing
+the distribution of power because they never have to query distant
+systems for status or wait for state to be synced before making a
+decision. Quantum networking could be used in cubesats for the
+activation of networked resillience to EMP. As soon as one cubesat
 experiences EMP, it broadcasts a warning to other satellites networked
 in the same quantum networking channel. These satellites can
 immediately activate a cheap, as-needed faraday cage, retaining
@@ -238,6 +238,8 @@ networking should be possible with a stochastic communication protocol
 and enough spliced pairs of particles, whose entanglement is somehow
 maintained. If there is such a thing as cyclical entanglement, it
 would be incredibly useful.
+
+#### QN, the Answer to Fermi's Paradox?
 
 > IMO, SETI has failed to find advanced civilizations sprawling the
 > galaxy because they only use quantum networking. If there is some
@@ -404,26 +406,51 @@ real-estate. The effect should is more prominent if we expect
 incentivization from climate change policies like the Paris Agreement
 to actually make a difference.
 
-Increased demand for smart grid in developed states
-- but also developing states, since they are either upgrading older
-  gear and/or installing fresh electric grid gear
+Smart grid trends in scale from micro to macro predictably influence
+real-estate. These are exhibited over varying time scales from years
+to decades. Most are similar to real-estate trends involving 20th
+century technology.
 
-- changes to real estate (predictable) based on:
-  - (1) renewables & specifics of real-estate
-  - (2) potential of real-estate to be upgraded w/ smart grid tech
-    - the specific rollout dynamics of such technology
-  - (3) the upper bound on renewables wattage for a building
-    - e.g. urban buildings have almost no capacity for wind (on top)
-      and less capacity for solar, but still have capacity for
-      biological-based renewables (though these often require
-      sunlight/external energy)
-  - (4) capacity for urban food production
+#### These real-estate trends include:
 
-- someone can create an event-driven purchasing strategy to profit in
-  the billions from predictable changes in real-estate strategy
-  - if you can influence policy as it crucially relates to
-    real-estate, you can easily profit in the billions
-  - but, someone making the wrong moves here could cost america
-    trillions. this, however, does not mean that the selfish decisions
-    here would necessary contradict america's own interests and
-    incentives.
+#### (1) The properties existing interoperability with renewables.
+
+#### (2) The potential of properties to be upgraded with smart grid tech
+
+#### (3) The dynamics of infrastructure rollout for a specific technology
+
+#### (4) The upper bound on renewable wattage for a building
+
+#### (5) Capicity for urban food production
+
+#### (6) Regional dynamics in these trends, such as oversupply of renewable electricity
+
+If one learns the sequencing of and trends surrounding the rollout of
+smartgrid technology and maintains visibility into the geographic
+distribution of its adoption, real-estate moguls can set up an
+event-driven purchasing strategy to profit in the billions. Such a
+strategy has incredible synergy with smart-grid infrastructure and
+services. With enough capital, you can purchase, upgrade and flip
+properties and, with properly allocated investments, you can profit at
+every step.
+
+It's like being Jay-Z, listening to the raps you produced in a club you
+own and shelling out for a round of chapaign for some VIP's. Champaign
+that you own, you manufactured and you distributed.
+
+So if you can influence policy as it crucially relates to real-estate,
+you can further massage your profits.  However, someone making the
+wrong moves here could cost America trillions. It's actually best to
+have someone leading whose incentives strongly align with our options
+for economic growth.
+
+# Part Three
+
+The third part in this series is my fave. It covers the transition to
+space, the accompanying economic shifts and the evolution of
+governence mechanisms. As we approach the apex of globalization, we
+reach the end of the Westphalian era. We find that transnationalism
+wedges itself in the frame of international law and is used to contort
+precedent. Then, as we begin to colonize space, humanity again
+rearchitects our outermost paradigms of governance, leading to a
+transition away from the brief post-Westphalian period.

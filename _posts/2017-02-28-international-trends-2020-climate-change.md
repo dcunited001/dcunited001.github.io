@@ -404,7 +404,7 @@ specific areas because of changes in freshwater requirements.
 Therefore, you can anticipate this component's magnitude in relation
 to real estate price changes over time for specific areas.
 
-# Part Two:
+# Part Two
 
 The next part of International Trends 2020 concerns the smartgrid.
 

@@ -8,7 +8,8 @@ author:
 excerpt: ""
 ---
 
-[Part One](/posts/2017-02-28-international-trends-2020-climate-change.html)
+- [Part One](/posts/2017-02-28-international-trends-2020-climate-change.html)
+- [Part Two](/posts/2017-02-28-international-trends-2020-the-smart-grid.html)
 
 > "Hey, it's me." -- David Conner, the guy without enough money to
 > open a bank account who made less than $400 in 2016 and $1717
@@ -35,10 +36,10 @@ capacity and efficiency of product exchange? Oil. However, in an
 information economy, there are more virtual products and information
 is leveraged to make purchasing decisions.
 
-3D printing and nano create radically a different economic situation.
-At first, the economic response to commercialized space is strongly
-affected by proximity to resources inbound from space and terrestrial
-pricing of equivalent resources.
+3D printing and nano create radically a different economic situation,
+which isn't covered in these posts.  At first, the economic response
+to commercialized space is strongly affected by proximity to resources
+inbound from space and terrestrial pricing of equivalent resources.
 
 - mention the conflict theory article.
   - identify why space may lead to a post-post-westphalian transition
