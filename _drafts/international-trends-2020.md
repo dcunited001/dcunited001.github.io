@@ -200,17 +200,17 @@ IEEE publication:
 
 ### [Quantum Networking For Instantaneous Transmission of Grid State](#quantum-networking-for-instantaneous-transmission-of-grid-state)
 
-Quantum networking is like the Ansible from Ender's Game. Quantum
-networking has incredibly niche applications. It's penetration into
-hardware will be determined by its cost and technical requirements,
-like superconduction. However, it can cause radically differently
-hardware and software design patterns to emerge. It is especially
-useful in geographically distributed systems such as GPS, the smart
-grid or smart cars, when overcoming the speed of light matters. It's
-use as a clock-synching mechanism would be ubiquitous, if technical
-limitations could be transcended.
+Quantum networking (QN) is like the Ansible from Ender's Game. QN has
+incredibly niche applications. It's penetration into hardware will be
+determined by its cost and technical requirements, like
+superconduction. However, it can cause radically differently hardware
+and software design patterns to emerge. It is especially useful in
+geographically distributed systems such as GPS, the smart grid or
+smart cars, when overcoming the speed of light matters. It's use as a
+clock-synching mechanism would be ubiquitous, if technical limitations
+could be transcended.
 
-Quantum networking will allow for the instantaneous desemination of
+QN will allow for the instantaneous desemination of
 power grid state. Machine-learning algorithms can be more efficient
 when managing the distribution of power because they never have to
 query distant systems for status or wait for state to be synced before
@@ -241,33 +241,58 @@ The specifics of quantum networking, particularly whether it's
 convenient, cheap and portable, strongly determines how the technology
 unfolds. These qualities determine which industries thrive and survive
 as other tech that can be dependent on quantum networking
-unpredictably changes. Quantum networking, its technical limitations
+unpredictably changes. QN, its technical limitations
 and its evolution represents a huge unknown with massive implications
 on how technology will unfold until 2050.
 
+<a name="quantum-networking-telecom-and-fintech" />
 
+### [Quantum Networking, Telecom and FinTech](#quantum-networking-telecom-and-fintech)
 
-  - uantum networking using entangled pairs of particles facilitates
-    faster than light communication.
-    - its effects on other technology are at first esoteric, hard to
-      understand and highly technical
-    - at first, it's only beneficial for for massive,
-      geo-distributed projects like GPS or the Smart-Grid. whether it
-      is useful at all depends on whether the payoffs transcend the
-      barriers of its technological implementations, which may include
-      superconduction or special cooling requirements.
-      - technological breakthroughs here are huge, but very
-        unpredictable. therefore, from an investment standpoint, it's
-        crucial to maintain flexibility and maintain signals that
-        inform you of technological developmetns.
-      - certain technological breakthroughs could have vast,
-        unpredictable effects on the implementation of technology for
-        consumers, for infrastructure and for any interconnected
-        software & hardware
-  - its difficult to understand the downstream consequences to
-    computing caused by a means of communication like the Ansible.
+> Wonder why I'm busting out billions in valuable business strategy
+> and economic analysis? Just remember how the world demanded that
+> morally-reprehensible asshole-that-makes-you-think, David Conner,
+> was never to be allowed to build a single project. Ever.
 
-- teleological consequences to the transformation of the electric grid
+QN can break both telecom and fintech. Fintech applications already
+benefit greatly from tiny optimizations. For example, the investment
+for transcontinental fiber solely for fintech applications makes
+business sense. Apparently, milliseconds shaved and dedicated
+communication infrastructure pays off. OK, assume QN is real,
+bandwidth is not a bottleneck and transmission time is zero. Then,
+after transending contraints of spacetime with QN, fintech simply
+becomes a game determined by speed of processing data.
+
+However, QN's potential to completely disrupt telecom is much greater.
+QN has the potential to create perfect and low energy communication
+with high bandwidth. It is completely decentralized and disruptive to
+both society and the business model of telecom. There is a complete
+loss of regulation over information transfer via control of
+infrastructure. Loss of ability to control/monitor information
+transmission threatens the business model of telecom and of services
+built on top of telecom products. Therefore, telecom could foreseeably
+collapse by 2050, depending on the specifics of QN.
+
+> It's this decentralized communicaiton and loss of control in
+> particular that terrifies the shadowy cigar-smoking Wizard of Oz
+> types that secretly control the world, who aren't afraid to burn it
+> to the ground to hang on to power.
+
+QN transforms computing power into something non-locational that
+transcends the limitations of spacetime. The CPU processing can occur
+anywhere and you can take it everywhere. Processing becomes dirt cheap
+and all data processing operations can be communicated over low power
+channels. Because energy isn't needed for communcation, consumer
+electronics, such as AR headsets become mostly dumb terminals, that
+function to display rendered frames of video and coordinate UI
+interactions.
+
+The degree of penetration into consumer electronics depends on the
+specifics of QN. Will it be cheap? Portable? Low power? Or is QN even
+possible? More crucially, what are the teleological consequences to
+various combinations of feature sets for QN? How do our lives change
+as a result? Can we ever return to a 1950's golden era where privacy
+is more than an idea?
 
 ### The Smart Grid and the Importance of Stability in Developing Nations
 
