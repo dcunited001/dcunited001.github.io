@@ -5,7 +5,15 @@ tags: ""
 headline: ""
 author:
   name: "David Conner"
-excerpt: ""
+excerpt: "
+Researchers across the world are revitalizing their interests in power
+grid technology and solving many electrical engineering problems that
+otherwise lay dormant for decades. To Cisco certified networking
+enthusiasts such as myself, one particularly interesting area of smart
+grid research is power packet routing. To the layman, this essentially
+combines the internet and electric power distribution, so your devices
+can be connected to the internet by simply being plugged in. This
+helps IoT devices quite a bit."
 ---
 
 > "Hey, it's me." -- David Conner, the guy without enough money to
