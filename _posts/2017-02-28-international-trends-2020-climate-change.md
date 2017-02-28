@@ -5,7 +5,13 @@ tags: ""
 headline: ""
 author:
   name: "David Conner"
-excerpt: ""
+excerpt: "
+Our world does not need to deal with billions of hungry people.
+Instead humanity needs to ensure every last person on the planet is
+fully enabled to contribute their maximum potential because we need
+every one. With optimal contribution of net human potential,
+overpopulation doesn't burden us. It instead empowers us to reach our
+full potential."
 ---
 
 ## [Climate Change: The Smart Grid, Intrinsic Analytics and Economic Dynamics](#climite-change-the-smart-grid-intrinsic-analytics-and-economic-dynamics)
@@ -31,12 +37,6 @@ excerpt: ""
 #### [An International Institution with Authority to Tax and Regulate](#an-international-institution-with-authority-to-tax-and-regulate)
 
 #### [Water, Irrigation and Desalinization](#water-irrigation-and-desalinization)
-
-> "Hey, it's me." -- David Conner, the guy without enough money to
-> open a bank account who made less than $400 in 2016 and $1717
-> in 2015.  The guy without enough skill to be employable in America
-> or, at least, to break through being virtually blacklisted by
-> negative career experience.
 
 <a name="climite-change-the-smart-grid-intrinsic-analytics-and-economic-dynamics" />
 
