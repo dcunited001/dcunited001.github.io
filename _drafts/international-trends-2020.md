@@ -23,6 +23,8 @@ excerpt: ""
 
 ## [Global Geopolitical Analysis](#global-geopolitical-analysis)
 
+<a name="fundamental-advancements-towards-tomorrows-smartgrid" />
+
 # [Fundamental Advancements Towards Tomorrow's Smartgrid](#fundamental-advancements-towards-tomorrows-smartgrid)
 
 Alternating Current (AC) and Direct Current (DC) have different
@@ -41,25 +43,94 @@ require a change in the consumer electric grid -- large changes in the
 electric framework running through their home and office. Otherwise,
 renewables simply can't be marketed to customers.
 
-For example, the Tesla battery can be easily connected to renewables
-such as solar, but isn't so simply and efficiently integrated into a
-consumer's home AC circuits. However, if a consumer's home is fully
-DC, everything connects quite simply -- the Tesla storage battery and
-any renewables that charge it. Therefore there's going to be a huge
-technological shift in the parts of the electric grid connect to your
-home and office. The divide between AC & DC will be pushed further
-out. Until the actual electric grid infrastructure can be replaced, DC
-networks will be pushed from the consumer side to the POD (Point of
-Demarcation). In countries which are already developed, the evolution
-of the smart-grid will be ironically slower, as there will be major
-headaches in replacing the infrastructure.
+For example, the [Tesla Powerwall](https://www.tesla.com/powerwall)
+can be easily connected to renewables such as solar, but isn't so
+simply and efficiently integrated into a consumer's home AC
+circuits. However, if a consumer's home is fully DC, everything
+connects quite simply -- the Tesla storage battery and any renewables
+that charge it. Therefore there's going to be a huge technological
+shift in the parts of the electric grid connect to your home and
+office. The divide between AC & DC will be pushed further out. Until
+the actual electric grid infrastructure can be replaced, DC networks
+will be pushed from the consumer side to the POD (Point of
+Demarcation).
 
-However, to ensure that American interests become leaders in the
-manufacture, design and marketing of smart-grid technology, this means
-that we need to ensure that there are plenty of stable markets in
-developing nations.
+All this in-home and in-office infrastructure change is exorbitant.
+How do we know that the trend in consumer adoption will resist price
+pressure if prices are so high? It's a tough barrier and will take
+decades to overcome, but is not prohibitive. To most efficiently use
+power from renewables and products like the Tesla Powerwall or to sell
+it back to the electric grid, one needs to replace their in-home
+circuitry to handle DC power. DC power is more efficiently distributed
+locally and the infrastructure is more modular with DC power routing
+in place. The higher the price of energy, the higher the incentive for
+accelerating this change in infrastructure on the consumer side.
 
-### Packet Switching for the Smart Grid
+In countries which are already developed, the evolution of the
+smart-grid will be ironically slower, as there will be major headaches
+in replacing the infrastructure. To ensure that American interests
+become leaders in the manufacture, design and marketing of smart-grid
+technology, we need to ensure that there are plenty of stable markets
+in developing nations.
+
+<a name="smart-grid-analytics-and-surveillance" />
+
+### [Smart Grid Analytics and Surveillance](#smart-grid-analytics-and-surveillance)
+
+The smart grid enables centralized analysis of resource consumption
+and other IoT signals. This enables amazing features such as fairly
+pricing electricity fed back into the grid. However, spectral analysis
+and pattern mining on these signals leads surveillance to apporach a
+state of completeness in its degree to map out individuals
+lives.
+
+Using spectral analysis techniques, you can process the power
+utilization patterns at the consumer's central connection to the
+[POD](https://en.wikipedia.org/wiki/Demarcation_point) to identify
+activities in their home. This is especially true if you have explicit
+power utilization metadata is relayed through the DC switching fabric
+back to a central point. Again, even if the metadata isn't explicit,
+many of the same metrics can be inferred by tapping into the signal on
+the line. These metrics produce more characteristically identifiable
+signals on DC than on AC, I think. These signals can be matched to
+some finite list of consumer electronics signal patterns.
+
+With power utilization signals and IoT devices, every time you
+microwave a hot pocket or flush the toilet, these events are emitted
+in signals, then processed and analyzed by a multitude of
+internet-connected services. Sorry, at this point, you can't even take
+a poop without the government knowing how much water was displaced.
+
+There is a major difference in qualitative magnitude between this and
+prior major technological advancements. Signals-based analysis on IoT
+data and the surveillance based on it plateau into a degree of
+completeness surpassing everything thus far. That is, until we have a
+working brain-computer interface, which requires nanotechnology. The
+smart grid lands us at a point of diminishing returns in the ratio of
+qualitative analytical insight and the quantity/types of data signals
+produced.
+
+Before we advance further, society needs to have a real discussion on
+the sociocultural impact of technology and surveillance. 2015 and 2016
+were abysmal in terms of the quality of discussion on this issue. Our
+society simply hasn't deliberated enough on the qualititaive effects
+on life. Surveillance and technology have been rammed down our throats
+under the pretense of national security, which preemptively
+short-circuits any real discussion with fear-mongering and propaganda
+tactics. Everything is unnecessarily secret with zero indication that
+your life is being affected when it is. I did not anticipate
+surveillance's ability to enable & augment systematic harassment and
+gaslighting. How can we say we know how surveillance affects our life
+when citizens are never notified when it's used to harass, intimidate
+and extort them?
+
+Why are we normalizing this again? It's not necessary to record
+Americans jacking off without their knowledge to catch Bin Laden. Wow
+Homeland ... In what country is the war on terror being fought?
+
+<a name="packet-switching-for-the-smart-grid" />
+
+### [Packet Switching for the Smart Grid](#packet-switching-for-the-smart-grid)
 
 Researchers across the world are revitalizing their interests in power
 grid technology and solving many electrical engineering problems that
@@ -68,16 +139,16 @@ enthusiasts such as myself, one particularly interesting area of smart
 grid research is power packet routing. To the layman, this essentially
 combines the internet and electric power distribution, so your devices
 can be connected to the internet by simply being plugged in. This
-helps IoT (internet of things) devices quite a bit.
+helps IoT devices quite a bit.
 
-There will be major economic opportunities in the switching hardware
-used for Smart Grid Packet Switching, if this is the direction
-infrastructure evolution takes. The hardware, software and business
-models would strongly mirror developments in telecom. This will
-essentially be the third generation of telecom switching, where the
-first was telecom/PBX and the second was internet route/switch
+There will be major economic opportunities in the route/switch
+hardware used for Smart Grid Packet Switching, if this is the
+direction infrastructure evolution takes. The hardware, software and
+business models would strongly mirror developments in telecom. This
+will essentially be the third generation of telecom switching, where
+the first was telecom/PBX and the second was internet route/switch
 gear. Every home or office that wants to tap into renewables will need
-some of this equipment and in America, it will undergo several
+some of this equipment and in America, it will undergo several ...
 
 #### [Power Packet Routing](http://repository.kulib.kyoto-u.ac.jp/dspace/handle/2433/197379)
 
@@ -94,22 +165,28 @@ costs of implementation in developed countries will determine whether
 these technologies will become mainstream.
 
 Power packet switching requires layers of gear similar to Cisco
-routers and switches. Furthermore, TDMA-like protocols can send data
-and power over the same channel. Enabling this to work with various
-voltages, amperages and wattages requires *either* incredibly
-complicated component design or standardization of consumer
-electronics. The problems that electrical engineers are solving to
-create tomorrow's smart-grid are incredibly complicated and just as
-urgent for American industry to succeed in the global economy from
-2020 through 2040. It is critical to get this right and there quite
-likely is a "correct answer" for overarching design problems
-here. Whether that correct answer meshes well with the economics of
-both smart-grid rollout and renewables is an enigma to me. Green
-issues and climate change policy will have a huge effect on the
-apparent solutions in the smart-grid infrastructure discussion.
+routers and switches. Furthermore, TDMA-like protocols can send power
+and digitized data over the same channel by using something like an
+ethernet frame that accompanies a pulse-width regulated burst of
+power. Enabling this to work with various voltages, amperages and
+wattages requires *either* incredibly complicated component design or
+standardization of power distribution components and interfaces for
+consumer electronics. What would routing protocols look like for DC
+networks in an office? This paper from Kyoto in 2015 explores further:
+[Router for Power Packet Distribution Network: Design and Experimental Verification](http://ieeexplore.ieee.org/document/7010949/).
 
-To get an idea of the research being conducted in this field, check
-out this IEEE publication:
+The problems that electrical engineers are solving to create
+tomorrow's smart-grid are incredibly complicated and just as urgent
+for American industry to succeed in the global economy from 2020
+through 2040. It is critical to get this right and there quite likely
+are singularly correct answers to overarching design patterns
+here. Whether the correct answers mesh well with the economics of both
+smart-grid rollout and renewables is an enigma. Green issues and
+climate change policy will have a huge effect on the apparent
+solutions in the smart-grid infrastructure discussion.
+
+For more detail on research conducted in this field, check out this
+IEEE publication:
 [IEEE Transactions on Power Systems](http://ieeexplore.ieee.org/xpl/RecentIssue.jsp?punumber=59). Most
 of those studies require payment to access, but that's where you can
 find all the critical research being done.
@@ -121,43 +198,56 @@ understand more about shifting the divide between AC and DC, read this
 IEEE publication:
 [DC Local Power Distribution: Technology, Deployment, and Pathways to Success](http://ieeexplore.ieee.org/document/7480941/).
 
+### [Quantum Networking For Instantaneous Transmission of Grid State](#quantum-networking-for-instantaneous-transmission-of-grid-state)
 
-- TDMA-like switching for units of power with both signaling metadata
-    and data sharing the same channel.
-  - mention the standard power cable specification being developed
-    just for this (380V power cable)
-  - analog signal 4 power packets to provide data + power addressed in
-    hardware apps w/ power and data transmitted using a TDMA-like
-    protocol
-  - something like pulse-width shift between digital/analog, where the
-    components of electronics time the switching of circuits to route
-    temporary power or encoded data
+Quantum networking is like the Ansible from Ender's Game. Quantum
+networking has incredibly niche applications. It's penetration into
+hardware will be determined by its cost and technical requirements,
+like superconduction. However, it can cause radically differently
+hardware and software design patterns to emerge. It is especially
+useful in geographically distributed systems such as GPS, the smart
+grid or smart cars, when overcoming the speed of light matters. It's
+use as a clock-synching mechanism would be ubiquitous, if technical
+limitations could be transcended.
 
-- is there a protocol for encoding Q/FFT (?) transactions in a
-  universal way?
+Quantum networking will allow for the instantaneous desemination of
+power grid state. Machine-learning algorithms can be more efficient
+when managing the distribution of power because they never have to
+query distant systems for status or wait for state to be synced before
+making a decision. Quantum networking could be used in cubesats for
+the activation of networked resillience to EMP. As soon as one cubesat
+experiences EMP, it broadcasts a warning to other satellites networked
+in the same quantum networking channel. These satellites can
+immediately activate a cheap, as-needed faraday cage, retaining
+operational capability through an EMP blast.
 
-- what routing protocols begin to emerge for DC-power-switching?
+Those who don't understand the engineering limitations imposed by
+special relativity or assume quantum networking ot be impossible
+wouldn't think about how transcending the FTL barrier with information
+transmission radically changes hardware and software. Quantum
+networking should be possible with a stochastic communication protocol
+and enough spliced pairs of particles, whose entanglement is somehow
+maintained. If there is such a thing as cyclical entanglement, it
+would be incredibly useful.
 
-### Quantum Networking
+> IMO, SETI has failed to find advanced civilizations sprawling the
+> galaxy because they only use quantum networking. If there is some
+> stochastic communication protocol that allows entangled particles to
+> transcend space and enable instantanious communication, that's way
+> better than communication via EMR. Once your civ goes black, you
+> never go back.
 
-- quantum netwokring for wireless/powerless metadata communication 4
-  smartgrid
-  - this allows machine-learning algorithms to be more efficent when
-    managing the distribution of power. the speed of light is not a
-    limiting factor and for geographically system as large as the
-    smart-grid, this matters. further, quantum networking is rarely
-    thought about by the common person who does understand the
-    rigidity imposed by Special Relativity.
-  - cite papers about machine learning and smart grid infrastructure
-    switching
+The specifics of quantum networking, particularly whether it's
+convenient, cheap and portable, strongly determines how the technology
+unfolds. These qualities determine which industries thrive and survive
+as other tech that can be dependent on quantum networking
+unpredictably changes. Quantum networking, its technical limitations
+and its evolution represents a huge unknown with massive implications
+on how technology will unfold until 2050.
 
-- the specifics of quantum networking, particularly whether it's
-  convenient, cheap and portable, strongly determines how technology
-  will unfold and determines which industries thrive and survive as
-  other dependent tech finds its way into the hands of consumers.
-  - in other words, quantum networking and its specifics is a huge
-    unknown with massive implications on how technology will unfold
-  - quantum networking using entangled pairs of particles facilitates
+
+
+  - uantum networking using entangled pairs of particles facilitates
     faster than light communication.
     - its effects on other technology are at first esoteric, hard to
       understand and highly technical
@@ -264,25 +354,6 @@ IEEE publication:
     here would necessary contradict america's own interests and
     incentives.
 
-### water, irrigation and desalinization
-
-- smartgrid/renewables become essential for agriculture and
-  desalinization
-  - many settled areas around the world are running out of water and
-    will need to offset their lack of fresh water with desalinized
-    water, but there just aren't cheap & efficient ways to do that
-    without large amounts of renewable energy, like solar.
-    - therefore, if you look at the differential in water consumption
-      as a proportion of underground freshwater reserves remaining,
-      you'll identify markets who will need renewable-powered
-      desalinization in order to produce local food, etc.
-  - opportunity for state-funded geoengineering projects, which will
-    include those regions mentioned above.
-  - an incredibly useful product would be one to consume energy &
-    produce water for irrigation.
-- desalinization will tend to lower sea-levels, which *raises* the
-  proportion of pollutants to sea water, but may not be enough to
-  counter polar ice melting.
 
 # [Space: Economics and Evolution of Governance Mechanisms](#space-economics-and-evolution-of-governance-mechanisms)
 
@@ -297,7 +368,6 @@ is leveraged to make purchasing decisions.
 At first, the economic response to commercialized space is strongly
 affected by proximity to resources inbound from space and terrestrial
 pricing of equivalent resources.
-
 
 - mention the conflict theory article.
   - identify why space may lead to a post-post-westphalian transition
@@ -403,7 +473,6 @@ pricing of equivalent resources.
 - it seems it's possible for people to declared to have no rights,
   secretly. These people should always have some inalienable human
   rights.
--
 
 ### International Policy for IAC & NIAC, with respect to Transnationalism
 

@@ -1,5 +1,5 @@
 ---
-title: "International Trends 2020: Climate Change"
+title: "International Trends 2020: Climate Change and the Smart Grid"
 categories: blog
 tags: ""
 headline: ""
@@ -71,17 +71,19 @@ international treaty on climate change -- *dramatically readjust in
 perceived value*.
 
 This is essentially a bubble in renewables that continues insofar as
-specific apprehensions are maintained by international policy, created
-with the best intentions. These policies contribute greatly to
-economic opportunity, but entreprenuers should approach them under the
-assumption that their value may be erratically dependent on some
-arbitrary mechanism of international law. Therefore an entrepreneur
-should be wary, as their their business entity, city or nation state
-have little control over these dynamics depending on international
-policy whims. Since there is undeniable momentum towards renewables
-and green practices across the world, this will inevitably happen, but
-its handling by policy-makers dramatically affects the order and
-quality of trends that emerge.
+certain apprehensions are maintained by international policy. These
+suppositions of how policy should be implemented originate with the
+best intentions, but are sometimes misguided and can't be known to be
+permanent, looking forward. These policies contribute greatly to
+economic opportunity -- they are beneficial in many ways -- but
+entreprenuers should approach them under the assumption that their
+value may be erratically dependent on some arbitrary mechanism of
+international law. Therefore, an entrepreneur should be wary, as their
+their business entity, city or nation state have little control over
+these dynamics depending on international policy whims. Since there is
+undeniable momentum towards renewables and green practices across the
+world, this will inevitably happen, but its handling by policy-makers
+dramatically affects the order and quality of trends that emerge.
 
 With few options for risk-mitigation available to entrepreneurs,
 international globalist cabals can use green policy to influence
@@ -277,7 +279,7 @@ Further, this is where the money is in the smart grid and in green
 tech. These metrics all depend on the features and level of data,
 integration and global product penetration. Therefore, policy should
 universalize the framework for smart-grid appliance & infrastructure
-metrics, so that everyone benefits.  The higher various qualities are
+metrics, so that everyone benefits.  The more various qualities are
 optimized for metrics, the greater the degree of value that is added
 to society as a whole, but this value is maximized when everyone is on
 the same page. Business is about having a set of assumptions about the
@@ -321,10 +323,10 @@ demolitions. Just watch and remind yourself that you "saved the
 planet" every time you see another economic crisis like Athens,
 Greece.
 
-![Captain Planet]()
+![Captain Planet](/img/posts/2017-02-28-international-trends-2020-climate-change/captain-planet.jpg)
 
-> "With our powers combined ... we summoned a controlled demolition of
-> western economies. Ironically, we're now living in third-world
+> "With our powers combined ... we summoned a slow, painful demolition
+> of western economies. Ironically, we're now living in third-world
 > nation status and hating every minute of it. But hey, we saved the
 > planet, didn't we? ..." -- Liberals in 2030
 
@@ -361,5 +363,28 @@ completely uninvolved...
 The potential for abuse is unreal. The data on resource utilization
 and demand is incredibly valuable for both reading and driving
 trends. It's impossible for people on the left and right to not have
-considered this, but it seems to be left out of the mainstream
+considered this. Still, it seems to be left out of the mainstream
 discussion. This is a matter of enormous ethical risk and sovereignty.
+
+
+
+### water, irrigation and desalinization
+
+- (move?)
+- smartgrid/renewables become essential for agriculture and
+  desalinization
+  - many settled areas around the world are running out of water and
+    will need to offset their lack of fresh water with desalinized
+    water, but there just aren't cheap & efficient ways to do that
+    without large amounts of renewable energy, like solar.
+    - therefore, if you look at the differential in water consumption
+      as a proportion of underground freshwater reserves remaining,
+      you'll identify markets who will need renewable-powered
+      desalinization in order to produce local food, etc.
+  - opportunity for state-funded geoengineering projects, which will
+    include those regions mentioned above.
+  - an incredibly useful product would be one to consume energy &
+    produce water for irrigation.
+- desalinization will tend to lower sea-levels, which *raises* the
+  proportion of pollutants to sea water, but may not be enough to
+  counter polar ice melting.
