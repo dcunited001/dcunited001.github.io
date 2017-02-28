@@ -18,9 +18,9 @@ it's based on homoglyphic similarity and allows one to copy and paste
 text that is legible by humans, but unindexible by computers without
 preprocessing. This is problematic for text-based data-science. The
 ideas behind the as-yet-incomplete machine learning component of
-Subglyph could be used to measure linguistic and glyphic "drift"
-whereby one could study the components of written languages and the
-ways in which they drifted across regions.
+Subglyph could be used to measure linguistic and glyphic drift. This
+could be used to understand how the the components of written
+languages and drifted across regions.
 
 ## Subglyph for Great Good, Free Beer and Free Internets
 
