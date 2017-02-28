@@ -8,10 +8,9 @@ author:
 excerpt: ""
 ---
 
-> "Coming to you from the 9th level of Dante's Inferno, reserved for
-> traitors and whence only the falsely crucified may emerge." - Dante
-
 [Part One](/posts/2017-02-28-international-trends-2020-climate-change.html)
+
+
 
 ## [Fundamental Advancements Towards Tomorrow's Smartgrid](#fundamental-advancements-towards-tomorrows-smartgrid)
 
@@ -294,46 +293,52 @@ various combinations of feature sets for QN? How do our lives change
 as a result? Can we ever return to a 1950's golden era where privacy
 is more than an idea?
 
-### The Smart Grid and the Importance of Stability in Developing Nations
+<a name="to-supplement-american-exports-stability-in-developing-nations-is-crucial" />
 
-  - the AC/DC divide pushes from consumer electronics to homes, cars
-    and higher order containments of DC electronics systems with
-    capacity for dynamic power managment where current carries power
-    AND data.
-    - this shift creates trillions in demand for replacement of
-      electric grid infrastructure *worldwide* gradually across three
-      decades
-    - the mechanics of this flux of demand rippling through the global
-      economie affect industrialized nations differently than
-      developing nations with less infrastructure
-      - the nations with more infrastructure to replace do it more
-        slowly, which creates a need to gradually shift to new
-        infrastructure, requiring backwards compatability.
-        - this requirement for backwards compatibility limits the
-          payoffs to infrastructure updates, which could mean that
-          undeveloped nations are more likely to benefit more quickly
-        - in the end, we all end up with mostly the same set of
-          capabilities from upgraded smart grid infrastructure, but
-          less developed nations are better positioned to receive
-          these benefits faster with less cost and less design
-          constraints.
-        - therefore, the flux of demand will tend to strongly impact
-          developing nations, as they get higher payoffs for cheaper,
-          as long as there is some threshold of stability.
-        - therefore, if the united states can leverage its authority
-          as an international power player to compel others to help
-          foment stability in these nations, then we can
-          simultaneously position ourselves to help supply that
-          demand. The demand is a product of the expectation of
-          permanent stablity in these nations.
-        - therefore, the US helps provide stability and profits from
-          the export of electric grid technology, while retaining the
-          benefits it receives from the analytics based on smart grid
-          consumption analytics and uses this data to stay ahead AND
-          help promote the level of stability that makes it all
-          possible.
+### [To Supplement American Exports, Stability in Developing Nations is Crucial](#to-supplement-american-exports-stability-in-developing-nations-is-crucial)
 
-### Interactions b/w the Smart Grid and Real Estate Prices
+The AC/DC divide pushes itself from consumer electronics to homes and
+gradually expansive groupings of DC electronics systems. As this
+transformation ripples across the globe, various viable design
+patterns emerge which themselves necessitate hardware products with
+increasingly complicated feature sets. This shift creates trillions in
+demand for replacement of electric grid infrastructure
+*worldwide*. This occurs gradually across three decades.
+
+The mechanics of this flux of demand rippling through the global
+economy affect industrialized nations differently than developing
+nations with less infrastructure.
+
+The nations with more infrastructure to replace do it more slowly,
+which creates a need to gradually shift to new infrastructure. Most of
+this requires backwards compatability, complicating design. This
+requirement for backwards compatibility limits the payoffs to
+infrastructure updates. This might imply that undeveloped nations
+benefit with less investment than developed nations.
+
+In the end, we all end up with mostly the same set of capabilities
+from upgraded smart grid infrastructure, but less developed nations
+are better positioned to receive these benefits faster with less cost
+and less design constraints. Therefore, the flux of demand will tend
+to strongly impact developing nations, as they get higher payoffs for
+cheaper, as long as there is some threshold of stability.
+
+If the US leverages its authority as an international power player to
+compel others to help foster stability in these nations, then we can
+accordingly position ourselves to help supply that demand. The demand
+is a product of the expectation of permanent stablity in these
+nations. That is an absolute dependency to expect demand from these
+nations. Therefore, the US helps provide stability and profits from
+the export of electric grid technology, while retaining the benefits
+it receives from the analytics based on smart grid consumption
+analytics and uses this data to stay ahead AND help promote the level
+of stability that makes it all possible.
+
+- Paper & FB blurbs on upgrading nigerian power grid
+
+<a name="the-smart-grid-affects-real-estate-trends" />
+
+### [The Smart Grid Affects Real Estate Trends](#the-smart-grid-affects-real-estate-trends)
 
 - there are predictable dynamics in real-estate that result from the
   availability and qualities of smart-grid infrastructure as well as

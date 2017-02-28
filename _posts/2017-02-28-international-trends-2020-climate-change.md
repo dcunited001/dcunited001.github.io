@@ -1,5 +1,5 @@
 ---
-title: "International Trends 2020: Climate Change and the Smart Grid"
+title: "International Trends 2020: Climate Change"
 categories: blog
 tags: ""
 headline: ""
@@ -8,10 +8,9 @@ author:
 excerpt: ""
 ---
 
-> "Coming to you from the 9th level of Dante's Inferno, reserved for
-> traitors and whence only the falsely crucified may emerge." - Dante
+## [Climate Change: The Smart Grid, Intrinsic Analytics and Economic Dynamics](#climite-change-the-smart-grid-intrinsic-analytics-and-economic-dynamics)
 
-## [Climate Change: The Smart Grid, Intrinsic Analytics and Economic Dynamics](#climite-change)
+#### [Climate Change Policy Drives Global Economic Trends](#climate-change-policy-drives-global-economic-trends)
 
 #### [Smart Grid Analytics to Power Global Business Intelligence](#smart-grid-analytics-to-power-global-business-intelligence)
 
@@ -29,13 +28,19 @@ excerpt: ""
 
 #### [Unparalleled Insight Into International Economic Trends](#unparalleled-insight-into-international-economic-trends)
 
+#### [An International Institution with Authority to Tax and Regulate](#an-international-institution-with-authority-to-tax-and-regulate)
+
+#### [Water, Irrigation and Desalinization](#water-irrigation-and-desalinization)
+
 > "Hey, it's me." -- David Conner, the guy without enough money to
 > open a bank account who made less than $400 in 2016 and $1717
 > in 2015.  The guy without enough skill to be employable in America
 > or, at least, to break through being virtually blacklisted by
 > negative career experience.
 
-# [Climate Change: The Smart Grid, Intrinsic Analytics and Economic Dynamics](#climite-change)
+<a name="climite-change-the-smart-grid-intrinsic-analytics-and-economic-dynamics" />
+
+# [Climate Change: The Smart Grid, Intrinsic Analytics and Economic Dynamics](#climite-change-the-smart-grid-intrinsic-analytics-and-economic-dynamics)
 
 Carbon dioxide is mostly meaningless in itself. Carbon dioxide,
 however, does serve as vital ecological metric informing us on the
@@ -44,7 +49,10 @@ man. Pollution is the real problem, with downstream effects on
 biological systems, which are hierarchical, interdependent and
 incredibly fragile. As such, pollition will exhibit strong
 second-order and third-order impacts on global agriculture markets
-already strained by overpopulation.
+already strained by overpopulation. For example, ocean acidification
+strongly influences the amount of food that can be harvested from the
+oceans. There is a point-of-no-return for ocean acidification, beyond
+which it may be impossible for nature to recover.
 
 Our world does not need to deal with billions of hungry people,
 i.e. agricultural collapse. Instead humanity needs to ensure every
@@ -53,8 +61,9 @@ potential because we need every one. With optimal contribution of net
 human potential, overpopulation doesn't burden us. It instead empowers
 us to reach our full potential.
 
-- other specific climate challenges
-- (mention ocean acidification and other types of cleanup needed)
+<a name="climate-change-policy-drives-global-economic-trends" />
+
+### [Climate Change Policy Drives Global Economic Trends](#climate-change-policy-drives-global-economic-trends)
 
 Climate change and especially its international policy implementations
 will drive economic trends in the world. It's nerve-racking for true
@@ -206,18 +215,16 @@ accelerates demand for both renewables and smart-grid products.
 These mechanisms like those of the Paris Accord augment the global
 economy with a mechanism for liquidity displacement and therefore
 augment stability. However, these mechanisms for commerce are
-artificial and dependent on trends in international policy. In
-consideration of tendency of policy changes to create displacement of
-capital, ...
+artificial and dependent on trends in international policy.
 
 <a name="circuits-for-liquidity-flux-in-the-global-economy" />
 
 ### [Circuits for Liquidity Flux in the Global Economy](#circuits-for-liquidity-flux-in-the-global-economy)
 
-In global finance, the integral of liquidity displacement over time
-for corporations and states is an incredibly important measure of the
-total displacement and movement of capital. Therefore, if one wants
-to make money, one must observe global economic trends to identify and
+In finance and macroeconomics, the integral of liquidity displacement
+over time for corporations and states is an important measure of the
+total displacement and movement of capital. Therefore, if one wants to
+make money, one must observe global economic trends to identify and
 predict major liquidity displacements, tending to accumulate slices of
 profit from each such movement.  That is, every time a large sum of
 captial changes hands, one can take a percentage of those transactions
@@ -366,25 +373,41 @@ trends. It's impossible for people on the left and right to not have
 considered this. Still, it seems to be left out of the mainstream
 discussion. This is a matter of enormous ethical risk and sovereignty.
 
+<a name="water-irrigation-and-desalinization" />
 
+### [Water, Irrigation and Desalinization](#water-irrigation-and-desalinization)
 
-### water, irrigation and desalinization
+Massive engineering efforts to terraform land will become necessary to
+support the population of earth. Water will become the new oil and
+there isn't nearly enough of it. Aquifers around the world are already
+strained and we'll need massive engineering projects to provide fresh
+water for crops and settlements. LA is running out of freshwater.
 
-- (move?)
-- smartgrid/renewables become essential for agriculture and
-  desalinization
-  - many settled areas around the world are running out of water and
-    will need to offset their lack of fresh water with desalinized
-    water, but there just aren't cheap & efficient ways to do that
-    without large amounts of renewable energy, like solar.
-    - therefore, if you look at the differential in water consumption
-      as a proportion of underground freshwater reserves remaining,
-      you'll identify markets who will need renewable-powered
-      desalinization in order to produce local food, etc.
-  - opportunity for state-funded geoengineering projects, which will
-    include those regions mentioned above.
-  - an incredibly useful product would be one to consume energy &
-    produce water for irrigation.
-- desalinization will tend to lower sea-levels, which *raises* the
-  proportion of pollutants to sea water, but may not be enough to
-  counter polar ice melting.
+Fresh water requires irrigation, which comes from meltwater,
+groundwater and rain: there is a finite amount of this, actually.
+Seawater must be desalinized first, otherwise it can render land
+inarable, so that constrains valid designs for terraforming projects.
+As large centralized drains on energy, desalinization projects will
+tend to be powered with renewables. Desalinization will tend to lower
+sea levels, which *could raise* the proportion of pollutants to sea
+water, unless its not enough to counter the increase from melting
+polar ice.
+
+Interestingly, one can map the anticipated effect of freshwater
+availability. If you look at the differential in water consumption as
+a proportion of underground freshwater reserves remaining, you'll
+identify markets who will need renewable-powered desalinization in
+order to produce local food, etc. So you can anticipate where these
+projects will be needed, how badly they'll need them and when. One can
+anticipate slight increases in aggregate to the cost of living in
+specific areas because of changes in freshwater requirements.
+Therefore, you can anticipate this component's magnitude in relation
+to real estate price changes over time for specific areas.
+
+# Part Two:
+
+The next part of International Trends 2020 concerns the smartgrid.
+
+> "This is all Coming to you from the 9th level of Dante's Inferno,
+> reserved for traitors and whence only the falsely crucified may
+> emerge." - Dante
