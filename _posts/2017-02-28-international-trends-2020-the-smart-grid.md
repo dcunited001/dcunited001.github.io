@@ -293,7 +293,7 @@ transmission threatens the business model of telecom and of services
 built on top of telecom products. Therefore, telecom could foreseeably
 collapse by 2050, depending on the specifics of QN.
 
-> It's this decentralized communicaiton and loss of control in
+> It's this decentralized communication and loss of control in
 > particular that terrifies the shadowy cigar-smoking Wizard of Oz
 > types that secretly control the world, who aren't afraid to burn it
 > to the ground to hang on to power.

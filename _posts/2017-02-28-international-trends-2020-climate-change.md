@@ -42,17 +42,17 @@ full potential."
 
 # [Climate Change: The Smart Grid, Intrinsic Analytics and Economic Dynamics](#climite-change-the-smart-grid-intrinsic-analytics-and-economic-dynamics)
 
-Carbon dioxide is mostly meaningless in itself. Carbon dioxide,
-however, does serve as vital ecological metric informing us on the
-general degree of pollution. It's a red herring and a kind of a straw
-man. Pollution is the real problem, with downstream effects on
-biological systems, which are hierarchical, interdependent and
-incredibly fragile. As such, pollition will exhibit strong
-second-order and third-order impacts on global agriculture markets
-already strained by overpopulation. For example, ocean acidification
-strongly influences the amount of food that can be harvested from the
-oceans. There is a point-of-no-return for ocean acidification, beyond
-which it may be impossible for nature to recover.
+Carbon dioxide is mostly meaningless in itself. However, CO2 does
+serve as vital ecological metric informing us on the general degree of
+pollution. It's a red herring and a kind of a straw man. Pollution is
+the real problem, with downstream effects on biological systems, which
+are hierarchical, interdependent and incredibly fragile. As such,
+pollition will exhibit strong second-order and third-order impacts on
+global agriculture markets already strained by overpopulation. For
+example, ocean acidification strongly influences the amount of food
+that can be harvested from the oceans. There is a point-of-no-return
+for ocean acidification, beyond which it may be impossible for nature
+to recover.
 
 Our world does not need to deal with billions of hungry people,
 i.e. agricultural collapse. Instead humanity needs to ensure every
@@ -364,16 +364,16 @@ to remain uninvolved. Imagine if it actually an intermediate step in
 transition towards one-world government and conservatives remained
 completely uninvolved...
 
-> By the way, I'd like to mention that have the ability to unite both
-> the left and right to a degree exhibited and unseen by anyone else
-> on the planet. I imagine a better world, where Americans on the left
-> and right cooperate to make America great not.
+> By the way, I'd like to mention that I have the ability to unite
+> both the left and right to a degree exhibited and unseen by anyone
+> else on the planet. I imagine a better world, where Americans on the
+> left and right cooperate to make America great not.
 
 The potential for abuse is unreal. The data on resource utilization
 and demand is incredibly valuable for both reading and driving
 trends. It's impossible for people on the left and right to not have
 considered this. Still, it seems to be left out of the mainstream
-discussion. This is a matter of enormous ethical risk and sovereignty.
+discussion. This is a matter of sovereignty and enormous ethical risk.
 
 <a name="water-irrigation-and-desalinization" />
 
