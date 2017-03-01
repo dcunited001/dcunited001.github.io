@@ -108,8 +108,9 @@ behind those behavior types will become not just possible, but
 norms. This degree of quantifiable behavior and its level of pervasion
 throughout life creates a paradigm shift that is like a nightmare
 scenario for the SEC. We might actually be able to "wrap-around" from
-automated signals on human behavior to finanacial indicators to reach
-a point where no stock price is unpredictable beyond a threshold.
+automated signals on human behavior all the way to finanacial
+indicators to reach a point where no stock price is unpredictable
+beyond a tiny threshold of uncertainty.
 
 <a name="on-tax-funded-pollution-cleanup" />
 
