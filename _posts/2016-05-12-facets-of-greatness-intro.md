@@ -27,67 +27,67 @@ qualities and behaviors? Why are these attributes important?
 
 ## [How to Steve Jobs](#how-to-steve-jobs)
 
-### &#x03A6; [What Do We Need to Know to be Great?](#what-do-we-need-to-know-to-be-great)
+#### &#x03A6; [What Do We Need to Know to be Great?](#what-do-we-need-to-know-to-be-great)
 
-### &#x03A6; [Where Do We Learn to be Great?](#where-do-we-learn-to-be-great)
+#### &#x03A6; [Where Do We Learn to be Great?](#where-do-we-learn-to-be-great)
 
-### &#x03A6; [A Reflection of My Life Experience](#a-reflection-of-my-life-experience)
+#### &#x03A6; [A Reflection of My Life Experience](#a-reflection-of-my-life-experience)
 
 ## [Aristotelian Ethics: A Brief Interlude](#aristotelian-ethics-a-brief-interlude)
 
-### &#x03A6; [Magnanimity](#magnanimity)
+#### &#x03A6; [Magnanimity](#magnanimity)
 
-### &#x03A6; [Extrapolating Global Trends](#extrapolating-global-trends)
+#### &#x03A6; [Extrapolating Global Trends](#extrapolating-global-trends)
 
-### &#x03A6; [You're Not Born with Virtue or Magnanimity](#youre-not-born-with-virtue-or-magnanimity)
+#### &#x03A6; [You're Not Born with Virtue or Magnanimity](#youre-not-born-with-virtue-or-magnanimity)
 
 ## [An Aristotelian Lens for Global Trends](#an-aristotelian-lens-for-global-trends)
 
-### &#x03A6; [Democracy Encourages Personal Investment](#democracy-encourages-personal-investment)
+#### &#x03A6; [Democracy Encourages Personal Investment](#democracy-encourages-personal-investment)
 
-### &#x03A6; [Why Power Should Gravitate Towards Seniority](#why-power-should-gravitate-towards-seniority)
+#### &#x03A6; [Why Power Should Gravitate Towards Seniority](#why-power-should-gravitate-towards-seniority)
 
-### &#x03A6; [Wisdom Comes from Experience](#wisdom-comes-from-experience)
+#### &#x03A6; [Wisdom Comes from Experience](#wisdom-comes-from-experience)
 
-### &#x03A6; [Reward Risk for Pursuit of What is Right](#reward-risk-for-pursuit-of-what-is-right)
+#### &#x03A6; [Reward Risk for Pursuit of What is Right](#reward-risk-for-pursuit-of-what-is-right)
 
-### &#x03A6; [Poverty Is Corrosive](#poverty-is-corrosive)
+#### &#x03A6; [Poverty Is Corrosive](#poverty-is-corrosive)
 
-### &#x03A6; [Technology is a Double-Edged Sword](#technology-is-a-double-edged-sword)
+#### &#x03A6; [Technology is a Double-Edged Sword](#technology-is-a-double-edged-sword)
 
-### &#x03A6; [The World Cannot Afford Major War](#the-world-cannot-afford-major-war)
+#### &#x03A6; [The World Cannot Afford Major War](#the-world-cannot-afford-major-war)
 
-### &#x03A6; [Global Collapse Precludes Viability of Virtue](#global-collapse-precludes-viability-of-virtue)
+#### &#x03A6; [Global Collapse Precludes Viability of Virtue](#global-collapse-precludes-viability-of-virtue)
 
 ## [Tools for a New Generation of Cooperation](#tools-for-a-new-generation-of-cooperation)
 
-### &#x03A6; [With No Small Plans](#with-no-small-plans)
+#### &#x03A6; [With No Small Plans](#with-no-small-plans)
 
 !["Stay Hungry. Stay Foolish." - Steve Jobs](/img/posts/2016-05-12-facets-of-greatness-intro/steve-jobs-stay-hungry-stay-foolish.jpg)
 
 # [The Facets of Greatness](#facets-of-greatness)
 
-### &#x1f48e; [Quantification](#quantification)
+#### &#x1f48e; [Quantification](#quantification)
 
-### &#x1f48e; [Networking](#networking)
+#### &#x1f48e; [Networking](#networking)
 
-### &#x1f48e; [Communication](#communication)
+#### &#x1f48e; [Communication](#communication)
 
-### &#x1f48e; [Signaling](#signaling)
+#### &#x1f48e; [Signaling](#signaling)
 
-### &#x1f48e; [Vision](#vision)
+#### &#x1f48e; [Vision](#vision)
 
-### &#x1f48e; [Story](#story)
+#### &#x1f48e; [Story](#story)
 
-### &#x1f48e; [Identity](#identity)
+#### &#x1f48e; [Identity](#identity)
 
-### &#x1f48e; [Orchestration](#orchestration)
+#### &#x1f48e; [Orchestration](#orchestration)
 
-### &#x1f48e; [The System](#the-system)
+#### &#x1f48e; [The System](#the-system)
 
-### &#x1f48e; [Strategy](#strategy)
+#### &#x1f48e; [Strategy](#strategy)
 
-### &#x1f48e; [???](#unknown)
+#### &#x1f48e; [???](#unknown)
 
 <a name="what-do-we-need-to-know-to-be-great" />
 
@@ -212,15 +212,15 @@ circumstances and their behavior is dictated by their ideals.  And
 yet, they can deftly respond to ethical transgressions towards
 themselves with graceful, agile, creative responses to negative
 situations. A person like this must retain awareness of their
-environment and capable of vetting those they will work with. They
-must observe and identify the context in which their actions will be
-read without utilizing such means as to alter the context. At the same
-time, it is helpful to retain control over the context of such
-situations, but most of us lack the resources or time to do
-so. Magnanimity is a higher-level virtue, exemplified by threading and
-layering practice of the other virtues.  It is cultivated over the
-course of one's lifetime and sometimes over the course of
-generations. You can read more about
+environment and must be capable of vetting those they will work
+with. They must observe and identify the context in which their
+actions will be read without utilizing such means as to alter the
+context. At the same time, it is helpful to retain control over the
+context of such situations, but most of us lack the resources or time
+to do so. Magnanimity is a higher-level virtue, exemplified by
+threading and layering practice of the other virtues.  It is
+cultivated over the course of one's lifetime and sometimes over the
+course of generations. You can read more about
 [magnanimity](https://en.wikipedia.org/wiki/Magnanimity) on wikipedia.
 
 <a name="youre-not-born-with-virtue-or-magnanimity" />

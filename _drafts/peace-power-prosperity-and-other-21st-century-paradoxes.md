@@ -83,12 +83,22 @@ the opportunity, using it as an excuse to gain power.
 Centralizing and utilizing educational resources to accelerate K12
 education, while maintaining the ability to experiment
 
-- a la "Lean Startup"
-- THE GOAL IS CONTINUOUS INTEGRATION FOR EDUCATION PROCESSES
-  - with a focus on the appropriate organizational structure for
-    flexibility in logistics
-  - a more decentralized approach is needed
+We should be focusing on centralizing and utilizing educational
+resources to accelerate K12 education, while maintaining the ability
+to experiment. The complete top-down Common Core system in the
+department of education is preventing us from experimenting with
+technology in education.
 
+The goal should be continuous integration (should it really though?)
+for educational processes/logistics, so we need to focus on the
+appropriate organizational structure for flexibility in logistics. We
+need to have leaner education organizations that can respond faster to
+cultural changes.
+
+http://theleanstartup.com/
+- connections b/w fast-food franchise experimentation (bad parallel?)
+  - there are regions of stores and these franchises are pros at
+    experimenting with their product/processes
 
 
 ### a few ideas from Prince Ea's video on Einstein's near fate as a fish
@@ -140,6 +150,11 @@ neighborhood early on. It sounds like a completely separate issue, but
 this may be a long term tactic for breaking the cycle of poverty and
 offering new options for parents who'd love nothing more than to help
 their children grow up without fearing specific influences.
+
+Education has become more about culturally programming children than
+about educating them, which is sad. Parents should have more choice in
+education. We need to counteract demoralization and the left is on the
+wrong side of this issue. It shows in the moral fabric of our society.
 
 ======
 
