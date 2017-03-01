@@ -74,10 +74,8 @@ activities will continue to provide economic value to industry, thus
 the cynical recognize this as unwise or at least precarious. As the
 collective policy consensus wavers, so does the actual value of
 specific renewables and the incentivization factors driving supply &
-demand. Suddenly, *all of those products* -- that people make to meet
-a need that was only ever a need to meet some parameter of an
-international treaty on climate change -- *dramatically readjust in
-perceived value*.
+demand. As that consensus waivers, all of those products dramatically
+readjust in perceived value.
 
 This is essentially a bubble in renewables that continues insofar as
 certain apprehensions are maintained by international policy. These
