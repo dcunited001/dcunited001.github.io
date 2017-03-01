@@ -67,30 +67,33 @@ us to reach our full potential.
 
 Climate change and especially its international policy implementations
 will drive economic trends in the world. It's nerve-racking for true
-conservatives, as these supply & demand dynamics that is *based* on
-government policy and bureaucracy. It's based on the collective
-agreement that, however helpful or well-intended, that these
-activities will continue to provide economic value to industry, thus
-the cynical recognize this as unwise or at least precarious. As the
-collective policy consensus wavers, so does the actual value of
-specific renewables and the incentivization factors driving supply &
-demand. As that consensus waivers, all of those products dramatically
-readjust in perceived value.
+conservatives, as these are supply & demand dynamics *based* on
+government policy and bureaucracy. The resulting dynamics are based on
+the collective agreement that, however helpful or well-intended, that
+these activities will continue to provide economic value to
+industry. Thus, the cynical recognize this as unwise or at least
+precarious. As the collective policy consensus wavers, so do the
+actual/expected value and investment returns of specific
+renewables. This consensus strongly influences the incentivization
+factors driving supply & demand. As that consensus waivers, all of
+those products dramatically readjust in perceived value.
 
-This is essentially a bubble in renewables that continues insofar as
-certain apprehensions are maintained by international policy. These
-suppositions of how policy should be implemented originate with the
-best intentions, but are sometimes misguided and can't be known to be
-permanent, looking forward. These policies contribute greatly to
-economic opportunity -- they are beneficial in many ways -- but
-entreprenuers should approach them under the assumption that their
-value may be erratically dependent on some arbitrary mechanism of
-international law. Therefore, an entrepreneur should be wary, as their
-their business entity, city or nation state have little control over
-these dynamics depending on international policy whims. Since there is
-undeniable momentum towards renewables and green practices across the
-world, this will inevitably happen, but its handling by policy-makers
-dramatically affects the order and quality of trends that emerge.
+This is a bubble in renewables, albeit not in the traditional
+sense. These dynamics drive investment bubbles and the dissonance
+between real/actual value is retained insofar as certain apprehensions
+are maintained by international policy. These suppositions of how
+policy should be implemented originate with the best intentions, but
+are sometimes misguided and can't be known to be permanent, looking
+forward. These policies contribute greatly to economic opportunity --
+they are beneficial in many ways -- but entreprenuers should approach
+them under the assumption that their value may be erratically
+dependent on some arbitrary mechanism of international law. Therefore,
+an entrepreneur should be wary, as their their business entity, city
+or nation state have little control over these dynamics depending on
+international policy whims. Since there is undeniable momentum towards
+renewables and green practices across the world, this will inevitably
+happen, but its handling by policy-makers dramatically affects the
+order and quality of trends that emerge.
 
 With few options for risk-mitigation available to entrepreneurs,
 international globalist cabals can use green policy to influence
