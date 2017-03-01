@@ -204,35 +204,42 @@ and society than climate change and energy policy.
 > Therefore: step one, control the policy; step two, anticipate
 > resulting trends and place bets; step three, profit.
 
-For every change in capital for some stock, commodity or derivative,
-there are ideal trading tactics. The capacity for profit increases
-with the size of the changes. The timing of these large liquidity
-fluxes can be controlled by restraining, accelerating and anticipating
-climate policy changes.
+For every sufficiently large financial change to some stock, commodity
+or derivative, there are ideal trading tactics. The capacity for
+profit increases with the size of the asset change. The timing of
+these large liquidity fluxes can be influenced by restraining,
+accelerating and anticipating climate policy changes both large and
+small.
 
-Libertarians are distrustful of such artificial international
-institutions. Such policy enacts mechanisms expending real resources
-as costs, but add value according only to transient, manipulable
-beliefs. This is similar to how people's belief systems can be
-manipulated to perceive wealth in the midst of what is only a credit
-bubble. However, in the case of green climate regulation, the bubble
-extends to influence all aspects of production and consumption.
+Libertarians are distrustful of such artificial and inessential
+international institutions. Such policy enacts mechanisms expending
+real resources as costs, but add value according only to transient,
+manipulable beliefs. This is similar to how people's belief systems
+can be manipulated to perceive wealth in the midst of what is only a
+credit bubble. However, in the case of green climate regulation, the
+bubble extends to influence all aspects of production and consumption,
+instead of simply the macroeconomic mechanisms used to accelerate
+finance of industry.
 
 <a name="carbon-tax-augments-the-global-economys-mechanisms-for-stabilization" />
 
 ### [Carbon Tax Augments the Global Economy's Mechanisms for Stabilization](#carbon-tax-augments-the-global-economys-mechanisms-for-stabilization)
 
-Carbon policy augments the avenues for stability and capital flux in
-the global economy, but isn't the only policy needed to help ensure
-consistent opportunities for commerce and finance across the globe.
-Via mechanisms enumerated in the Paris Accord, states with space, but
-insufficient industry, could instead leverage carbon offsets as a
-means for producton in economies where other options aren't present.
+Carbon policy augments the avenues for stability and circuits for
+capital flux in the global economy. Yet, it's not the only policy
+needed to help ensure consistent opportunities for commerce and
+finance across the globe. Via mechanisms enumerated in the Paris
+Accord, states with space, but insufficient industry, could instead
+leverage carbon offsets as a means for producton in economies where
+other options aren't present.
+
+> Yes, I'm a conservative who believes climate change policy isn't all
+> that bad for the global economy.
 
 For example, island nations with large swaths of shallow/placid CZ
 (Contiguous Zone) and EEZ (Extended Economic Zone) can use the space
-to produce energy or reduce carbon. As will be shown in further in the
-article, some of these states are ideal for facilitating space
+to produce energy or reduce carbon. As will be shown in further in
+this series, some of these states are ideal for facilitating space
 commerce. If the world decides to set up such an artificial
 international institution to regulate carbon, developing states begin
 to develop faster and this will generally drive demand for tech
