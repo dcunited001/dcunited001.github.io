@@ -166,17 +166,6 @@ vulnerabilities makes us weaker as a whole.
 
 # [Aristotelian Ethics: A Brief Interlude](#aristotelian-ethics-a-brief-interlude)
 
-Also, this article isn't meant to be a consummate dissertation on the
-topics contained herein.  These ideas aren't really "pure" and need to
-be distilled if a system based on these ideas were to be pure.  That
-is, many of these facets overlap and I don't believe this is the ideal
-way to structure this content.  Some may be missing and others could
-be reorganized into more fitting categories. Perhaps if I didn't miss
-out on a college education (and the college experience) then I'd be
-more capable of doing this justice. Two other systems which are much
-more complete include Benjamin Franklin's system of 13 virtues found
-in his autobiography, which is frustratingly incomplete.
-
 Aristotle's Ethics includes a system of virtues, which is highly
 regarded.  It's lasted over 2,000 years, so someone thought it was
 important. Aristotle emphasizes the notion that the ideal practice of
