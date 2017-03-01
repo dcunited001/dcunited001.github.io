@@ -344,15 +344,15 @@ naturally redistributes itself. Ideally this will result in an global
 population is essentially equivalently invested in the global
 economy. We all must be equivalently invested in technology.
 
-Ultimately, what people want to know is: am I going to have a future,
-how is my pension going to cover my retirement, what are my options in
-the pursuit of happiness and will my family feed and shelter my
-children tomorrow? This is what qualitatively matters to people and,
-in the context of the economy, they might not understand, but that's
-what they care about. Start taking these things from people or
-undermining their expectation of them and people get angry fast. And
-rightfully so. Responsible stewardship of wealth is incredibly
-important.
+**Ultimately, what people want to know is: am I going to have a
+future, how is my pension going to cover my retirement, what are my
+options in the pursuit of happiness and will my family feed and
+shelter my children tomorrow?** This is what qualitatively matters to
+people and, in the context of the economy, they might not understand,
+but that's what they care about. Start taking these things from people
+or undermining their expectation of them and people get angry
+fast. And rightfully so. Responsible stewardship of wealth is
+incredibly important.
 
 <a name="unparalleled-insight-into-international-economic-trends" />
 
@@ -377,7 +377,8 @@ determines a consistent framework, then other products can more easily
 add value on top of that framework, but those products depend on the
 assumption that the framework supports the product. Therefore, an
 inconsistent framework leads to consistent churn in the
-competitiveness of viable products.
+competitiveness of viable products, undermining those assumptions that
+are so valuable to entrepreneurs.
 
 <a name="an-international-institution-with-authority-to-tax-and-regulate" />
 
@@ -387,10 +388,11 @@ By donning a perspective enhanced by game theory, one can see that
 climate change is an issue that can only be solved by getting all
 nations on board. The larger the nation, the more important it is they
 be on board and remain committed to restraining elements of their
-economy for environmental conservation. The two most important nations
-are the US and China, upon which consensus can be built.
+economy for environmental conservation. For developing climate change
+policy, the most important nations today are the US, China, India and
+Germany, upon which consensus can be built.
 
-Knowing that green policies acting to restrain Climate Change require
+Knowing that green policies acting to restrain climate change require
 the entire world on board to be successful makes the power conferred
 to these international institutions all the more precarious. With the
 whole world's weight behind an international institution equipped with
@@ -399,8 +401,8 @@ international commerce, libertarians and true conservatives know to
 fear this all the more. Commerce is everything and the power to
 control commerce is the power to control everything. Extend this power
 worldwide and you'll begin to understand why conservatives might be
-nervous: they hold American sovereignty higher than any international
-institution.
+nervous: they traditionally hold American sovereignty higher than any
+international institution.
 
 Combined with the ability to conduct climate-policy-fueled insider
 trading, it's no wonder that conservatives are hesitant to move
@@ -419,7 +421,7 @@ Greece.
 > With our powers combined ... we summoned a slow, painful demolition
 > of western economies. Ironically, we're now living in third-world
 > nation status and hating every minute of it. But hey, we saved the
-> planet, didn't we? ...
+> planet, didn't we? Or did we...?
 
 Perhaps greater than the power to influence economies through
 international climate policy is the power to compel nations to
@@ -432,24 +434,25 @@ independence and competitiveness becomes limited. To understand the
 specific mechanics of the Paris Agreement, it's crucial to actually
 read it, regardless of your leanings on the issue of climate. The
 Paris Agreement or something like it is inevitable, but actual
-discussion of the specifics is crucial, as something like Paris cannot
-so easily be undone. Shoving your head in the ground like an ostritch
-isn't going to help anyone, which is a warning that applies equally to
-the right and the left.
+discussion of the specifics is crucial, as a framework established by
+the likes of Paris cannot so easily be undone once it gains
+momentum. Shoving our heads in the ground like ostritches isn't going
+to help anyone. That's a warning that applies equally to the right and
+the left.
 
 Further, this international autherity for taxation, quantification and
 regulation of commerce represents the possibility of transition
 towards a centerpiece for true global one-world government. As such,
 it should thoroughly scrutinized by everyone. As a potential mechanism
 for transition to one-world government, it is lunacy for conservatives
-to remain uninvolved. Imagine if it actually an intermediate step in
+to remain uninvolved. Imagine if it's actually an intermediate step in
 transition towards one-world government and conservatives remained
 completely uninvolved...
 
 > By the way, I'd like to mention that I have the ability to unite
 > both the left and right to a degree exhibited and unseen by anyone
 > else on the planet. I imagine a better world, where Americans on the
-> left and right cooperate to make America great not.
+> left and right cooperate to make America great again.
 
 The potential for abuse is unreal. The data on resource utilization
 and demand is incredibly valuable for both reading and driving
@@ -490,7 +493,9 @@ to real estate price changes over time for specific areas.
 
 # Part Two
 
-The next part of International Trends 2020 concerns the smartgrid.
+The
+[next section](/posts/2017-02-28-international-trends-2020-the-smart-grid.html)
+of International Trends 2020 concerns the smartgrid.
 
 > "This is all Coming to you from the 9th level of Dante's Inferno,
 > reserved for traitors and whence only the falsely crucified may
