@@ -179,9 +179,9 @@ h1.special {
 .tile {
     position: relative;
     box-shadow: 0 0.15em 0.35em 0 rgba(0, 0, 0, 0.135);
-    margin-bottom: 125px;
+    margin-bottom: 25px;
 
-    .inner-guts { padding: 20px; }
+    .inner-guts { padding: 10px; }
 
     h2 {
         margin: 0;;
@@ -256,10 +256,8 @@ h1.special {
     }
 
     .tags {
-        position: absolute;
         left: 0;
         top: 100%;
-        margin-top: 15px;
 
         span {
             padding: 1px 5px;
