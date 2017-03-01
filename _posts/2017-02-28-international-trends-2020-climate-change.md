@@ -246,13 +246,15 @@ to develop faster and this will generally drive demand for tech
 products, which should fuel economic growth the world over. The
 economics of renewables and smart-grid products are interdependent, as
 each establishes a platform that adds value to other. After a
-threshold of infrastructure, there is an added network effect that
-accelerates demand for both renewables and smart-grid products.
+threshold of infrastructure, a network-effect accelerates demand for
+both renewables and smart-grid products, rapidly increasing consumer
+adoption rates.
 
 These mechanisms like those of the Paris Accord augment the global
 economy with a mechanism for liquidity displacement and therefore
 augment stability. However, these mechanisms for commerce are
-artificial and dependent on trends in international policy.
+precariously artificial and highly dependent on trends and specific
+events in the realm of international policy.
 
 <a name="circuits-for-liquidity-flux-in-the-global-economy" />
 
@@ -262,24 +264,40 @@ In finance and macroeconomics, the integral of liquidity displacement
 over time for corporations and states is an important measure of the
 total displacement and movement of capital. Therefore, if one wants to
 make money, one must observe global economic trends to identify and
-predict major liquidity displacements, tending to accumulate slices of
-profit from each such movement.  That is, every time a large sum of
-captial changes hands, one can take a percentage of those transactions
-by: being in the right place, at the right time, with the right ideas,
-with the right amounts of money.  It's all based on accumulated strips
-of liquidity from major liquidity displacements. i.e. It's all based
-on observing the integral of the of liquidity movements between major
-nodes in the graph of economic players and various aggregates of this.
+predict major liquidity displacements. Smart short-term investments
+will tend to accumulate slices of profit from each such movement.
+That is, every time a large sum of captial changes hands, one can
+alter their asset purchasing tactics to slowly appreciate small slices
+of those transactions.
+
+#### How do you do it? By being:
+
+#### &#x2605; In the right place
+
+#### &#x2605; At the right time
+
+#### &#x2605; With the right ideas
+
+#### &#x2605; With the right money
+
+It's all about accumulating strips of liquidity from major liquidity
+displacements. Simply observe the integral of liquidity movements
+between major nodes in the graph of economic players and various
+aggregates of this: boom, money, and lots of it.
 
 Taking a systems theory approach, these potential connections for
 capital exchange are like circuits, through which is established
 natural, balance-restoring feedback loops via potential global
 economic liquidity/wealth transfers. Neighborhoods of the global
-economy with low capital flux are at higher risk of economic issues
-and would benefit more from additional mechanisms for capital flux. In
-context of taking care to provide economic stability during dramatic
-technology shifts, this is incredibly important for a responsible
-approach.
+economy with low capital flux are at higher risk of precipitating
+negative economic status, with fewer options for amelioration. These
+neighborhoods, localities in the geographic sense and in the sense of
+graph theory, would benefit more from additional mechanisms for
+capital flux than regions already sufficiently *connected*. In context
+of taking care to provide economic stability during dramatic
+technology shifts, quantifying the connectedness of small
+neighborhoods across the global economy is incredibly important for a
+responsible approach to economic policy.
 
 For neighborhoods in the graph of the global economy with low capital
 flux, in addition to increasing capacity/propensity for capital flux,
@@ -291,6 +309,20 @@ displacement in the global economy as wealth shifting from one group
 to another, then one can zoom out and picture higher-order liquidity
 flux from groups of nodes to others.
 
+In a healthy economy, the rate of capital flux is high, but these
+transactions don't leave nodes with low capitalization. However, an
+economy with a significant amount of wealth in a small group of people
+can respond in more agile ways to economic crisis, whereas the wealth
+would tend to be squandered in the same crisis if it were distributed
+too evently. Socialists, especially in America, tend to forget that no
+economy is an island and leverage the negative aspects of democracy to
+unwisely short-circuit economy policy in the pursuit of making things
+"feel" better. It's a trap that has played out countless times in
+history: the people sieze power, but don't understand the trials and
+lessons of their purged leaders with generations of experience. Thus,
+what results is leadership woefully unprepared for the harsh reality
+of a global economy.
+
 <a name="leveraging-data-science-to-measure-how-the-economy-serves-the-people" />
 
 ### [Leveraging Data Science to Measure How The Economy Serves the People](#leveraging-data-science-to-measure-how-the-economy-serves-the-people)
@@ -299,15 +331,28 @@ One can use data science to obtain metrics from an economies tendency
 to fairly redistribute wealth into the hands of many. These metrics
 could be used to inform investment behavior changes that help fairly
 redistribute wealth in a natural way that doesn't involve government
-regulation and bureaucracy. This is because, now, we can get much
-better feedback through data science on how the economy benefits the
-common person. And if it doesn't, we know that something has to change
-and it becomes trivial to demonstrate this.
+regulation and bureaucracy. It would instead inform investors in how
+money should be invested to help create an economy that fosters
+prosperity for everyone. This is because, now, we can get much better
+feedback through data science on how the economy benefits the common
+person. And if it doesn't, we know that something has to change and it
+becomes trivial to demonstrate this.
 
-The point is not to forcibly redistribute wealth. Instead, it is to
-architect systems whereby everyone shares wealth and ideally that
-global population is essentially equivalently invested in the global
-economy.
+The point is to avoid forcible redistribution of wealth. Instead, we
+should architect systems whereby everyone is empowered and wealth
+naturally redistributes itself. Ideally this will result in an global
+population is essentially equivalently invested in the global
+economy. We all must be equivalently invested in technology.
+
+Ultimately, what people want to know is: am I going to have a future,
+how is my pension going to cover my retirement, what are my options in
+the pursuit of happiness and will my family feed and shelter my
+children tomorrow? This is what qualitatively matters to people and,
+in the context of the economy, they might not understand, but that's
+what they care about. Start taking these things from people or
+undermining their expectation of them and people get angry fast. And
+rightfully so. Responsible stewardship of wealth is incredibly
+important.
 
 <a name="unparalleled-insight-into-international-economic-trends" />
 
