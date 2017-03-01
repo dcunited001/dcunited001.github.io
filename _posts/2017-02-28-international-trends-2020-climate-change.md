@@ -79,41 +79,51 @@ factors driving supply & demand. As that consensus waivers, all of
 those products dramatically readjust in perceived value.
 
 This is a bubble in renewables, albeit not in the traditional
-sense. These dynamics drive investment bubbles and the dissonance
-between real/actual value is retained insofar as certain apprehensions
-are maintained by international policy. These suppositions of how
-policy should be implemented originate with the best intentions, but
-are sometimes misguided and can't be known to be permanent, looking
-forward. These policies contribute greatly to economic opportunity --
-they are beneficial in many ways -- but entreprenuers should approach
-them under the assumption that their value may be erratically
-dependent on some arbitrary mechanism of international law. Therefore,
-an entrepreneur should be wary, as their their business entity, city
-or nation state have little control over these dynamics depending on
-international policy whims. Since there is undeniable momentum towards
-renewables and green practices across the world, this will inevitably
-happen, but its handling by policy-makers dramatically affects the
-order and quality of trends that emerge.
+sense. These dynamics drive a dissonance between real/actual value for
+markets connected to climate change. This dissonance is retained
+insofar as certain apprehensions are maintained by international
+policy. These suppositions of how policy should be implemented
+originate with the best intentions, but are sometimes misguided and
+can't be known to be permanent, looking forward. These policies
+contribute greatly to economic opportunity -- they are beneficial in
+many ways -- but entreprenuers should approach them under the
+assumption that their value may be erratically dependent on some
+arbitrary mechanism of international law. Therefore, any entrepreneur
+should be wary, as their their business entity, city or nation state
+have little control over these dynamics depending on international
+policy whims. Since there is undeniable momentum towards renewables
+and green practices across the world, this will inevitably happen, but
+its handling by policy-makers dramatically affects the order and
+quality of trends that emerge.
 
-With few options for risk-mitigation available to entrepreneurs,
-international globalist cabals can use green policy to influence
-dynamics of the global economy towards the application of some
-large-scale strategy. That is: there is money and lots of it to be had
-if some group can steer global climate policy.
+With few options for efficient risk assessment and effective risk
+mitigation available to entrepreneurs, international globalist cabals
+can use green policy to influence dynamics of the global economy
+towards the application of some large-scale strategy. That is: there
+is money and lots of it to be had if some group can steer global
+climate policy. However, the main driving forces behind climate change
+are not financial, but global industry leaders need to be roped into
+conversations on climate change policy because without them, nothing
+will realistically improve and there is significantly greater risk of
+detrimental economic effects.
 
 <a name="smart-grid-analytics-to-power-global-business-intelligence" />
 
 ### [Smart Grid Analytics to Power Global Business Intelligence](#smart-grid-analytics-to-power-global-business-intelligence)
 
-Analytics on human behavior such as quantifiable behaviors, quantified
+Resource consumption analytics powered by the smart grid empower
+insights including quantified sociocultural behaviors, quantified
 clusterings of behavior types, and automated psychosocial analyses
-behind those behavior types will become not just possible, but
-norms. This degree of quantifiable behavior and its level of pervasion
-throughout life creates a paradigm shift that is like a nightmare
-scenario for the SEC. We might actually be able to "wrap-around" from
-automated signals on human behavior all the way to finanacial
-indicators to reach a point where no stock price is unpredictable
-beyond a tiny threshold of uncertainty.
+behind those behavior types. These data-powered insights will become
+not just possible, but norms. This degree of quantifiable behavior and
+its level of pervasion throughout life creates a paradigm shift that
+is like a nightmare scenario for the SEC. We might actually be able to
+"wrap-around" from automated signals on human behavior all the way to
+finanacial indicators to reach a point where no stock price is
+unpredictable beyond a tiny threshold of uncertainty. These financial
+indicaters include such as stock price or anticipated trade
+volume. Data empowered by smart grid analytics will offer insight into
+financial trends unparalleled by social media signals.
 
 <a name="on-tax-funded-pollution-cleanup" />
 
