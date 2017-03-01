@@ -129,26 +129,46 @@ financial trends unparalleled by social media signals.
 
 ### [On Tax-Funded Pollution Cleanup](#on-tax-funded-pollution-cleanup)
 
-There's an opportunity for monetization of pollution cleanup that many
-of the same corporations who contributed to pollution to clean it
-up. Those who profited off the creation of these problems should not
-be the ones draining the tax coffers getting rich cleaning them up.
+There's an opportunity for monetization of pollution cleanup to which
+the same corporations who profited off pollution are advantageously
+postured to profit from the clean up. Those who profited off the
+creation of these problems should not be the ones draining the tax
+coffers getting rich cleaning them up. A framework for producing data
+feeds on global pollution signals from sensors sounds like a great
+startup idea.
+
 There should be lots of opportunity for business here. Unfortunately,
 there aren't many ways to naturally incentivize pollution cleanup. It
 must be financed through government programs, but as such, it is
 dependent on growth elsewhere in the economy. Therefore, pollution
 cleanup is always a net drain on the economy.
 
+Honestly, it doesn't matter who profits, as long as metrics on
+pollution continually improve *and we stop contributing to it*. So if
+the allure of tax dollars entices corporations to action, this is
+invaluable in the quest of justice for Mother Nature.
+
+From a pragmatists perspective that exerts sway over industry leaders
+and conservatives, pollution is ultimately a problem because of the
+unpredictable response of nature that tends to exacerbate comorbid
+economic problems. If there's one thing that business leaders love,
+it's being able to count tomorrow's money today and beyond an
+acceptable threshold, unpredictability causes more headaches and
+misappropriated investment then the pennies shaved contributing to
+pollution. These leaders speak the language of finance, economics and
+ethical stewardship of their investments. If you authentically frame
+the debate around those aspects of climate change, you win.
+
 <a name="climate-change-encourages-cooperation" />
 
 ### [Climate Change Encourages Cooperation](#climate-change-encourages-cooperation)
 
-In which ways does climate change contributed towards cooperation and
-thus stability? It contributes to better economic planning and
-anticipation of demand through faster/immediate feedback loops and
-high quality data on patterns of consumption, especially energy
-consumption. Developed states can market their products to contribute
-to development of nations, connecting them to global markets. At this
+In which ways does climate change contribute towards cooperation and
+thus stability? It contributes to economic planning and anticipation
+of demand through faster/immediate feedback loops and high quality
+data on patterns of consumption, especially energy consumption.
+Developed states can market their products to contribute to
+development of nations, connecting them to global markets. At this
 point, a global framework begins to coalesce, which provides resource
 consumption analytics. This framework layered on top of smart-grid
 consumption data provides a fabric of metrics to measure usage/purpose
@@ -160,7 +180,7 @@ development of nations is complete. Conversely, need/risk for
 destablization of populations becomes balanced with the an economic
 need for stability.
 
-Through balanced trade, the parties tend to stabalize each other via a
+Through balanced trade, parties tend to stabalize each other via a
 economic & political framework for incentivization and mutually
 beneficial partnership. This economically incentivizes peace and
 stability, which provides counterbalance to other stress points around
@@ -176,11 +196,10 @@ times of conflict.
 Conservatives are rightfully skeptical of manmade institutions created
 to strongly dictate international norms for the purpose of some
 abstract ideals. This generally confers the power to determine global
-economic trends related to mission of the institution. in many cases,
-this delegates US authority to some institution outside US control. In
-the specific case of climate change, nowhere is there more capacity
-for second and third order effects to commerce and society than
-climate and energy policy.
+economic trends related to mission of the institution. Often, this
+delegates US authority to some institution outside US control. Nowhere
+is there more capacity for second and third order effects to commerce
+and society than climate change and energy policy.
 
 > Therefore: step one, control the policy; step two, anticipate
 > resulting trends and place bets; step three, profit.
