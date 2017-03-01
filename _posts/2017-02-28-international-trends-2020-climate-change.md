@@ -103,14 +103,13 @@ if some group can steer global climate policy.
 ### [Smart Grid Analytics to Power Global Business Intelligence](#smart-grid-analytics-to-power-global-business-intelligence)
 
 Analytics on human behavior such as quantifiable behaviors, quantified
-clusterings of behavior types, automated psychosocial analyses behind
-those behavior types, and resource consumption will become not just
-possible, but norms. This degree of quantifiable behavior and its
-level of pervasion throughout life creates a paradigm shift that is
-like a nightmare scenario for the SEC. We might actually be able to
-"wrap-around" from automated signals on human behavior to finanacial
-indicators to reach a point where no stock price is unpredictable
-beyond a threshold.
+clusterings of behavior types, and automated psychosocial analyses
+behind those behavior types will become not just possible, but
+norms. This degree of quantifiable behavior and its level of pervasion
+throughout life creates a paradigm shift that is like a nightmare
+scenario for the SEC. We might actually be able to "wrap-around" from
+automated signals on human behavior to finanacial indicators to reach
+a point where no stock price is unpredictable beyond a threshold.
 
 <a name="on-tax-funded-pollution-cleanup" />
 
