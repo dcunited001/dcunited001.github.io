@@ -6069,12 +6069,12 @@ h1.special {
 .tile {
   position: relative;
   box-shadow: 0 0.15em 0.35em 0 rgba(0, 0, 0, 0.135);
-  margin-bottom: 125px; }
+  margin-bottom: 25px; }
   .tile .inner-guts {
-    padding: 20px; }
+    padding: 10px; }
   .tile h2 {
     margin: 0;
-    font-size: 60px;
+    font-size: 40px;
     font-weight: 400;
     letter-spacing: -0.05em; }
   .tile .featurette {
@@ -6120,17 +6120,12 @@ h1.special {
       .tile .featurette:hover .img:before {
         opacity: 0.2; }
   .tile .excerpt {
-    font-size: 35px;
-    font-weight: 300;
-    line-height: 49px;
     color: #484848; }
     .tile .excerpt p {
       margin: 0; }
   .tile .tags {
-    position: absolute;
     left: 0;
-    top: 100%;
-    margin-top: 15px; }
+    top: 100%; }
     .tile .tags span {
       padding: 1px 5px;
       font-size: 12px;
@@ -6208,5 +6203,5 @@ pre {
     padding: 15px 25px; }
 
   .tile .excerpt {
-    font-size: 22px;
-    line-height: 35px; } }
+    font-size: 18px;
+    line-height: 27px; } }
