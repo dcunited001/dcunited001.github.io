@@ -406,9 +406,9 @@ accordingly position ourselves to help supply that demand. The demand
 is a product of the expectation of permanent stablity in these
 nations. That is an absolute dependency to expect demand from these
 nations. Therefore, the US helps provide stability and profits from
-the export of electric grid technology, while retaining the benefits
-it receives from the analytics based on smart grid consumption
-analytics and uses this data to stay ahead. We do this while helping
+the export of electric grid technology, while sharing the benefits
+received from smart grid consumption analytics. We share the
+advantages in using this data to stay ahead. We do this while helping
 to promote the level of stability and nation development that makes it
 all possible and we do so with free market principles.
 
@@ -438,10 +438,10 @@ Nigeria can access the latest status updates from his friends.
 More seriously, communication helps reduce friction in regional
 economies, which translates into commerce which benefits the
 people. Most interesting to Facebook data scientists will be how
-people with limited exposure to modernization and the global community
-initially react. Donning my anthropoligist hat, we need to proactively
-understand how to rollout technology to preserve cultures before they
-are all assimilated into the Borg.
+people with limited exposure to modernization initially react. Donning
+my anthropoligist hat, we need to proactively understand how to
+rollout technology to preserve cultures before they are all
+assimilated into the Borg.
 
 To understand the
 implementation details and economic opportunities, see this paper:
@@ -457,7 +457,7 @@ incentivizations inherent in the economics of infrastructure
 installation. These are especially present in urban and high-rise
 residential areas. Changes in infrastructure here have long-lasting
 consequences, so we're going to want to do this right, so the
-smart-grid platform empowers american industry across the world.
+smart-grid platform empowers American industry across the world.
 
 A building's capacity for renewable energy production is correlated to
 surface area, so as the proportion of volume to surface area
@@ -467,15 +467,14 @@ become available. Fusion will become the dominant form of energy
 production later in the 21st century.
 
 The version and specific features of smart-grid infrastructure for
-buildings strongly affects the value, price and marketability of
-real-estate. The effect should is more prominent if we expect
-incentivization from climate change policies like the Paris Agreement
-to actually make a difference.
+buildings strongly affect the value, price and marketability of
+real-estate and moreso as time moves on. The effect should is more
+prominent if we expect incentivization from climate change policies
+like the Paris Agreement to actually make a difference.
 
-Smart grid trends in scale from micro to macro predictably influence
-real-estate. These are exhibited over varying time scales from years
-to decades. Most are similar to real-estate trends involving 20th
-century technology.
+Smart grid real-estate trends scale from micro to macro. These are
+exhibited over varying time scales from years to decades. Most are
+similar to real-estate trends involving 20th century technology.
 
 #### These real-estate trends include:
 
@@ -497,7 +496,7 @@ distribution of its adoption, real-estate moguls can set up an
 event-driven purchasing strategy to profit in the billions. Such a
 strategy has incredible synergy with smart-grid infrastructure and
 services. With enough capital, you can purchase, upgrade and flip
-properties and, with properly allocated investments, you can profit at
+properties. With properly allocated investments, you can profit at
 every step.
 
 It's like being Jay-Z, listening to the raps you produced in a club you
@@ -510,14 +509,15 @@ wrong moves here could cost America trillions. It's actually best to
 have someone leading whose incentives strongly align with our options
 for economic growth.
 
-> But, as you can clearly see, *I FUCKING KNOW HOW TO INVEST
-> MONEY*. So nope, sorry, I am a little more than butthurt for not
-> making my first million before thirty. All these "entrepreneurs" and
-> haters who couldn't dissect a business model or identify the
-> difference between a sideshow and a unicorn:
+> But, as you can clearly see, *I fucking know how to invest money*,
+> So nope, sorry, I am a little more than butthurt for not making my
+> first million before thirty. All these "entrepreneurs" and haters
+> who couldn't dissect a business model or identify the difference
+> between a sideshow and a unicorn:
 > [you need to pick another lane](https://www.youtube.com/watch?v=SxOfcEnEg-g)
-> because you are holding me back with your petty bullshit. Yeh, I'm
-> an asshole and I'm over it.
+> because you are holding me back with your petty bullshit.
+>
+> Yeh, I'm an asshole and I'm over it.
 
 # Part Three
 
