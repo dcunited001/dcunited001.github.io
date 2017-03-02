@@ -10,7 +10,7 @@ excerpt: ""
 
 (the only college political science class I took was on Latin American
 Politics .... so I'm probably not gonna get this one "word cleared"
-for the appropriate academic vocab)
+for appropriate academic vocabulary)
 
 #### Examine/Contrast incentivation/influence/values/ethics in democracy and communism
 

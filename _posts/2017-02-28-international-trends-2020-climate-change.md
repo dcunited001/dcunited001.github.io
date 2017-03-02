@@ -497,6 +497,6 @@ The
 [next section](/posts/2017-02-28-international-trends-2020-the-smart-grid.html)
 of International Trends 2020 concerns the smartgrid.
 
-> "This is all Coming to you from the 9th level of Dante's Inferno,
+> "This is all coming to you from the 9th level of Dante's Inferno,
 > reserved for traitors and whence only the falsely crucified may
-> emerge." - Dante
+> emerge." -- Dante
