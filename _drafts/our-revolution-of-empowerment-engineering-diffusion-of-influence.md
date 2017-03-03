@@ -8,15 +8,91 @@ author:
 excerpt: ""
 ---
 
-(the only college political science class I took was on Latin American
-Politics .... so I'm probably not gonna get this one "word cleared"
-for appropriate academic vocabulary)
+> The only college political science class I took was Latin American
+> Politics, in which I wrote one paper vigorously deconstructed the
+> Washington Consensus.... So I'm probably not gonna get this one
+> "word 'cleared'" for appropriate academic vocabulary.
+
+
+Power and the circuits by which influence is transferred in society
+operate in completely different manners in various governmental
+systems. Communism minimizes wealth as a store of social influence by
+design. To the detriment of America, most socialists and marxists do
+not *truly* understand this or its consequences. They make a bargain
+to improve their situation and harness demagoguery to get what they
+want without understanding how it cripples evolutionary mechanisms,
+the quality of life and degrees of freedom in society. Ultimately,
+Bolsheviks are deceived into becoming serfs for another master, with
+fewer options for transcending societal limitations.
+
+- (the intro should be a little more appealing to leftists to make the
+  most important points before they close the tab when i rip into
+  stalin)
+
+###
+
+Most of the left that hasn't studied political science, economics or
+philosophy doesn't truly understand the post-revolution mechanics of
+influence in communist and far-left societies. The left claims the
+implementations of marxist and socialist ideas will reprieve the
+burdens of the poverty unto which they were cursed by birth.
+
+There are various strata of leftists, which determines their beliefs
+and course of actions. Some are well-educated and some are
+unfortunately not. Still, socialism and communism appeals to those
+suffering in poverty and looking for someone to help them out. Some on
+the far left very clearly do understand what they are doing to America
+and the world, as obseqious as their tactics might be.
+
+A pure marxist implementation of communism doesn't allow for wealth as
+a means of influence whatsoever. Interest rates are simply too high
+because of the macroeconomic policies used for centrally-planned
+economies, so savings can't be accumulated without tremendous
+sacrifice. This is by design and anyone saving too much is targeted as
+a threat or expected to adhere to the interests of the
+Party. Otherwise, poverty experienced in the developed world can be
+transcended through hard work, virtuous behavior, avoidance of
+destructive behavior, accumulation of savings and education.
+
+###
+
+Communism robs people of the ability to use capital and savings for
+social influence. Just ask anyone who couldn't escape a Soviet
+satellite state. Many people end up in such poverty that they couldn't
+leave if they wanted to: *you cannot save money*. That is not to say
+that free-market democratic societies are perfect. However, if we make
+a hard left, we *will* find ourselves in a hole that is much deeper
+and much harder to climb out.  Communist and far-left nations target
+dissenting citizens to cull threats early and monopolize social
+influence by compelling anyone with power to be "connected" to the
+Party.
+
+The only way to raise yourself in society is through compliance with
+the Party, which installs a cult of personality in lieu of
+religion. Institutions then encourage clever hacks of social mechanics
+as common cultural practices to effectively short-circuit any possible
+resistence, identifying and sorting the most vocal/passitionate
+support. By encouraging carniverous behavior, one disempowers
+resistence, motivates through fear, filters influential positions for
+loyalty and encourages logistic turnover in organizations, which
+ensures no one has a foothold long enough to gain their bearing to
+manifest as a threat to power. It's like musical chairs.
+
+Why did Stalin push for world revolution? Because the economics of
+communism are only sustainable via empire and that's what it is: serfs
+changing one master for another. An advance through Poland and into
+Europe was planned before WW2 because the architects of Soviet
+communism needed to power the services Bolsheviks promised with
+economic expansion. Stalin anticipated resistence from the traditional
+European powers.
+
+
+> “Education is a weapon, whose effect depends on who holds it in his
+> hands and at whom it is aimed.” -- Stalin, on self-empowerment and
+> trancendant enlightenment of former serfs
 
 #### Examine/Contrast incentivation/influence/values/ethics in democracy and communism
 
-This article (or series ... bleh!) will first examine and contrast how
-influence, power, etc are managed in both democracy (w/ capitalism)
-and communism (or socialism w/ authoritarian economics).
 - Then, I'll discuss how individuals can "create" influence
   themselves. Similarly, I'll discuss how families, small groups and
   communities can work together to do the same
@@ -444,3 +520,81 @@ basically, the question is:
   apart with war and spent their resources applying that higher
   population's energy towards building solutions to prepare humanity
   for the 22nd century?
+
+###
+
+- a paradox of aristocracy (subsequent generations gradually lose the
+  traits that allowed them to achieve their position in society)
+- a paradox of social circumstances: today people are pushed towards
+  the left in response to poverty, but never in human history have we
+  had more tools at their fingertips for self-empowerment
+  - when was the last time you bought an encyclopedia? seriously?
+  - simultaneously, tech ventures model their business models around
+    pushing content and monetizing our attention. but Americans need
+    to look at poverty realistically. this will be easier if we have
+    metrics on time utilization that correlates circumstance with
+    behavior. the true causes of poverty are sobering. we often have
+    more control over it than we realize or want to admit.
+    - I've never received a dollar from the federal government, so I
+      can say whatever the fuck I want here.
+
+### why does it matter today?
+
+- (separate article?)
+- (more about these infuriating, manipulative tactics)
+  - abusing social institutions and social mechanics
+  - online discussions are coopted by trolls and a distict flavor of
+    hiveminded ignorance, ...
+  - effective censorship by newsfeed, especially for specific topics
+    - this corrals discussion into controlled groups with limited
+      exposure, with moderator censorship by veto.
+      - only one moderator needs to disagree with your content for
+        whatever reason for it to be effectively censored without
+        explanation. it's quite often suppressed anonymously, though
+        perhaps without malicious intent
+    - ![In Space, No One Can Hear You Scream]
+    - how does this change the 22nd century's perception of events
+      today, if almost everything was suppressed and unindexable?
+      content is unindexable when it can't be accessed by search
+      engines. AFAIK, this includes almost all of facebook, except
+      public posts. facebook benefits from having exclusive control
+      over copyrighted content, so this is their motivation for
+      excluding google/etc by default. facebook does archive their own
+      data, but when this archived data is mostly exclusive, it makes
+      the data statistically easier to manipulate in a cohesive way.
+      - when people look back on history a century from now, what they
+        will see is everything broadcast on TV and a deluge of
+        information from *some* social media.
+  - NSA utilizes social media manipulation to effectively mute
+    dissenters online.
+    - these tools in the wrong hands could empower a dictator
+    - we built the machinery a totatitarian government could only
+      dream of. we did it in secret, without discussion.
+- there is a major push to socially encourage self-censorship
+  - "oh, don't post things like that publicly. it will hurt your
+    chances of getting a job... blah, blah, blah"
+  - sociocultural incentives like this compel the far majority of
+    people into self-censorship.
+- the NSA has its tendrils in practically every technology company, so
+  if you're restricted from speaking via NDA's with Google, Facebook
+  or whoever, that means you can't speak out ... or your career is
+  over.
+  - the only people that can speak out are the extremely intelligent
+    people who slipped under the radar who, for whatever reason, gave
+    up the pursuit of a Silicon Valley career and just didn't give a
+    fuck about everything else that might be taken away from them if
+    they spoke out.
+  - this is rare, because if you are intelligent in America, you are
+    identified early on and they get your blinders on by undergrad at
+    the latest. that is, you are encouraged to focus intently on
+    specific problems *and nothing else*. the college system
+    encourages the development of highly specific sets of knowledge
+    - then you are burdened with a student loan and most people have
+      no choice but to get straight to work.
+    - you are controlled by debt and that's how debt works. it limits
+      your choices in life.
+  - as for me, I spoke out, but I never realized what was happening to
+    me or how it was affecting my life. I didn't understand that
+    people had methodically dissected my psychology and were
+    surreptitiously distorting my social environments to push others
+    away.
