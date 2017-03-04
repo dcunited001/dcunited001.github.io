@@ -27,6 +27,24 @@ paradigm created by modernization)
 - This post covers specific systems of signs and symbols often used as
   semoitic binding points for myths.
 
+- "the prophecy"
+  - grab content from 'parapets of alexandria'
+  - materialization of the metaphysical emerges in the physical at an
+    exponential rate because of the convergence of information via the
+    internet, the degree of interconnectedness in the 21st century and
+    the speed at which an idea travels.
+  - that is, the degree of influence that a simple idea has is
+    unmeasureably greater now than it was a century ago. this
+    phenomenon will only become more prominent.
+- this is why we must become more familiar with the nature of ideas,
+  the phenomenon of an
+  [egregore](https://en.wikipedia.org/wiki/Egregore) and recognize how
+  the quickening manifestation of ideas influences reality.
+- this phenomenon has existed from time immemorial, but today
+  influences the world in a fundamentally different way, which
+  necessitates handling information and ideas in an (equally different
+  way.)
+
 <a name="semiotic-binding-points-in-the-human-condition" />
 
 # [Semiotic Binding Points in the Human Condition](#semiotic-binding-points-in-the-human-condition)

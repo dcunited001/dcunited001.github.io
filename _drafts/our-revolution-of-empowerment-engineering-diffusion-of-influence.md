@@ -13,6 +13,112 @@ excerpt: ""
 > Washington Consensus.... So I'm probably not gonna get this one
 > "word 'cleared'" for appropriate academic vocabulary.
 
+We need a revolution, not just in America, but across the world. There
+isn't a better time for it than now.  However, revolutions can be
+violent or involve large transfers of assets. We don't need any of
+that. War is expensive, in terms of human and financial capital. For
+assets in our economy, both the subversive transition of control and
+the forcible transfer of ownership are expensive. They are morally
+wrong, and a major drain on the economy at a time when we need America
+to be as competitive as possible.
+
+# Our Revolution of Empowerment
+
+Imagine a revolution of empowerment. It starts with the individual, so
+that we can transform the world from the ground up. This builds on the
+ideas in this series: engineering the creation and diffusion of
+influence in a society, but approaching this in a simple, common-sense
+manner. With all the knowledge in the world, we delude ourselves into
+forcing artificial changes, but when we grasp onto things tightly, we
+always get it wrong and what we're left with isn't what we wanted at
+all. Instead we should ensure that societal ills become more visible,
+metrics are analyzed to ensure our tactics actually improve conditions
+of poverty, and the solutions we implement naturally and actually
+produce positive changes.
+
+This doesn't start with waiting for someone to get in power. It
+doesn't start with the perfect ism or the perfect social institutions
+with the perfect doctrine and the perfect set of people. It starts
+with the individual, who once empowered, can transform the world
+around themselves. This requires education. Never in human history
+have we had more tools at their fingertips for our collective
+self-empowerment than we do now.
+
+Today, every person is empowered to learn at minimal cost with minimal
+investment. Knowledge is power & let's harness that. To manifest this
+and accelerate our transformation, we'll need to utilize a bit of
+social engineering. Instead of
+
+- math for 'scoring' the health of a persons social graph, in an
+  anonymous way
+
+- For america, we need democracy and capitalism. **America needs
+  democracy because of the general protections on an individual's
+  rights**: *speech, religion, property, life, liberty, ... pursuit of
+  happiness and whatnot!*
+  - however, because of how technology nature changes information &
+    communication, it makes democracy less efficient & less likely to
+    represent individuals
+  - that doesn't mean it can't work or the people can't have power, it
+    just means that our system needs to adapt to how information flows
+    and how fast it spreads through a system.
+
+#### N.A.S.A. Gifted ft. Kanye
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/WZB7yswo6a0" frameborder="0" allowfullscreen></iframe>
+
+### [Turn Inwards And Conquer Inner Space](#turn-inwards-and-conquer-inner-space)
+
+Instead, we will turn inwards for our revolution. We will conquer
+inner space, rather than to seek solutions outside. We need to conquer
+the negativity in our hearts that leads to problems in the world.
+Everything good and everything evil arises from our hearts and
+minds. Emotions, thoughts, words, actions, rigid beliefs. It comes
+from our hearts first.
+
+If we survive the next 100 years, we'll survive for 10,000 years.
+Humanity has enough problems given our current circumstances and
+possibility of catastrophe in the near future.  Why should we permit
+conflict to burden us more?! If we need the best aspects of the human
+condition to inspire us through this next century, should we continue
+to sow the worst seeds of human behavior, fallible at best and
+malevolent when unchecked?
+
+### [A Philosophical Battle](#a-philosophical-battle)
+
+The major battle facing humanity today is philosophical. It may seem
+technological, but it's not. It may seem the most urgent battle is
+with nature or for resources, but it's not! The most crucial battle we
+face in this decade and the next is philosophical: we must conquer
+ourselves. We have to be intimately familiar with understand how
+forces we can't imagine will change our lives. Known unknowns, unknown
+knowns, and most importantly unknown unknowns. Humanity's
+metamorphosis here won't be efficient, so how can we prepare the
+cultures of 2030 to count on the fluid nature of information to stay
+lean and stay agile? Again, this stands in stark contrast to the
+typically slow pace of social engineering projects.
+
+### [A Cultural Revolution *And* A Cognitive Revolution](#a-cultural-revolution-and-a-cognitive-revolution)
+
+no... not that kind of cultural revolution
+
+- expand on how education empowers individuals and how we can use
+  technology to develop our minds.
+  - We can transform our society through cognitive expansion.
+  - [links to article on directive cognitive expansion]
+- why does this help lift individuals out of poverty/etc?
+  - from a philosophical standpoint, the body is simply a vehicle for
+    the mind.
+    - "equation" for life: spirit*(mind/body) ... i think that was it
+      - to maximize their output from life, one must train the mind to
+        harness their spirit, transcending the limitations imposed by
+        their body. we all share physical limitations, btw (cut?)
+
+- (the intro should be a little more appealing to leftists to make the
+  most important points before they close the tab when i rip into
+  stalin)
+
+###
 
 Power and the circuits by which influence is transferred in society
 operate in completely different manners in various governmental
@@ -21,13 +127,9 @@ design. To the detriment of America, most socialists and marxists do
 not *truly* understand this or its consequences. They make a bargain
 to improve their situation and harness demagoguery to get what they
 want without understanding how it cripples evolutionary mechanisms,
-the quality of life and degrees of freedom in society. Ultimately,
-Bolsheviks are deceived into becoming serfs for another master, with
-fewer options for transcending societal limitations.
-
-- (the intro should be a little more appealing to leftists to make the
-  most important points before they close the tab when i rip into
-  stalin)
+the quality of life and degrees of freedom in society. *Ultimately,
+Bolsheviks were deceived into becoming serfs for another master,
+**with fewer options for transcending societal limitations**.*
 
 ###
 
@@ -86,7 +188,6 @@ communism needed to power the services Bolsheviks promised with
 economic expansion. Stalin anticipated resistence from the traditional
 European powers.
 
-
 > “Education is a weapon, whose effect depends on who holds it in his
 > hands and at whom it is aimed.” -- Stalin, on self-empowerment and
 > trancendant enlightenment of former serfs
@@ -104,71 +205,7 @@ influence in society, I'll detail how individuals in most every
 society can empower themselves by strengthening those influence
 creation mechanisms => *particularly, education!*
 
-#### Our Revolution of Empowerment
-
-We need a revolution, not just in America, but across the world.
-However, revolutions can be violent or involve large transfers of
-assets. We don't need that.
-
-- what I'm imagining is a revolution of empowerment
-  - so that, starting with the individual, we can transform the world
-    from the ground up.
-  - this builds on the ideas in this series: creation/diffusion of
-    influence in a society
-    - but instead of simply going with democracy or communism
-      - either essentially means leaning more heavily towards one
-        currency for change: either money($$$) or affluence in social
-        institutions)
-      - obviously, we gotta pick one or the other. different systems
-        work for different areas. For america, we need democracy and
-        capitalism. **American needs democracy because of the general
-        protections on an individual's rights**: *speech, religion,
-        property, life, liberty, ... pursuit of happiness and
-        whatnot!*
-        - however, because of how technology nature changes
-          information & communication, it makes democracy less
-          efficient & less likely to represent individuals
-        - that doesn't mean it can't work or the people can't have
-          power, it just means that our system needs to adapt to how
-          information flows and how fast it spreads through a system.
-
-  - so, what are our options?
-
-### (Turn inwards and conquer inner space)
-
-Maybe instead, we should turn inwards for our revolution. We should
-turn inwards and conquer inner space, rather than to seek solutions
-outside. We need to conquer the negativity in our hearts that leads to
-problems in the world. Everything good and everything evil arises from
-our hearts and minds. Emotions, thoughts, words, actions, rigid
-beliefs. It comes from our hearts first.
-
-If we survive the next 100 years, we'll survive for 10,000
-years. Humanity has enough problems given our current circumstances
-and possibility of catastrophe in the near future...  Why should we
-permit conflict to burden us more?! If we need the best aspects of the
-human condition to inspire us through this next century, should
-we continue to sow the worst seeds of human behavior, fallible at best
-and malevolent when unchecked?
-
-### (the most important battle is philosophic)
-
-The major battle facing humanity today is philosophical. It may seem
-technological, but it's not. It may seem the most urgent battle is
-with nature or for resources, but it's not! The most crucial battle we
-face in this decade and the next is philosophical: we must conquer
-ourselves. We have to be intimately familiar with understand how
-forces we can't imagine will change our lives. Known unknowns, unknown
-knowns, and most importantly unknown unknowns. Humanity's
-metamorphosis here won't be efficient, so how can we prepare the
-cultures of 2030 to count on the fluid nature of information to stay
-lean and stay agile? Again, this is in stark contrast to the slow pace
-of social engineering projects.
-
-### We need both a *cultural* revolution and a *cognitive* revolution
-
-
-### Influence Flow on the Micro Scale
+### Study the Flux of Influence on the Macro and Micro Scales
 
 - how else does influence flow in the micro scale?
   - what do we use it one? we need things (favors, jobs, etc) from
@@ -223,18 +260,20 @@ of social engineering projects.
 (after completing the main thoughts here, summary above should be a
 bit more brief)
 
-## A Revolution of Empowerment for the 21st Century
+# (new title) A Revolution of Empowerment for the 21st Century
 
 Start with a brief discussion of Democracy vs Communism
 - particularly the values/ethics systems of both
 
-- in a communist or democratic society, what motivates people to work
-  hard?
+- In societies with different governmental structures, what motivates
+  people to work hard?
+  - in a communist or democratic society, how does this differ?
+  - in a free-market democratic system
+    - it's a mix of financial and sociocultural incentivization
   - in a communist system
-    - it's cultural. it's social engineering that creates these
-      values/ethics structures?
-  - in a democratic & capitalist system
-    - it's
+    - it's only sociocultural. Through social engineering, the Party
+      creates these values/ethics structures.
+
 - as currency and wealth are really medium of exchange for what
   conveys a liquidity of influence,
   - (need to move the content in this section around. cover basics
@@ -307,8 +346,10 @@ Start with a brief discussion of Democracy vs Communism
                   by what i can attain to use for others' benefit.
                   that is, ultimately. as of now, i don't have
                   resources
+
 - hierarchical structures & specialzation role (wtf??)
   - ughhh this was a more complete idea....
+
 - anyways, the structures by which a society enables/controls the
   diffusion of influence lay the foundation for incentivization in
   society
@@ -325,6 +366,7 @@ Start with a brief discussion of Democracy vs Communism
     - patriotism
       - this includes goals and dreams like those sold to us in
         advertising and via culture
+
 - even though communism often lacks true property rights and thus,
   it can be hard to truly own something and control it completely or
   sell it
@@ -342,6 +384,7 @@ Start with a brief discussion of Democracy vs Communism
       and how. individuals associated with owners or government
       institutions decide how people use property of the state (and
       property "owned" by individuals)
+
 - but the point is, the main incentivization structures for communism
   and democracy basically just replace $$$ for affluence.
   - it's really one for another. both systems require the diffusion of
@@ -401,7 +444,7 @@ Start with a brief discussion of Democracy vs Communism
   involving viruses, war, etc. but most of this stuff is more about
   brainstorming potential disasters than planned massive depopulation.
 
-forget the hypotheical conspiracy theories, which are often moreso
+forget the hypothetical conspiracy theories, which are often moreso
 designed to keep you captivated and distracted. yes, that's right: I
 just said conspiracy theories are conspiracy theories LMAO
 - usually there's some truth to each of these. if there wasn't, they'd

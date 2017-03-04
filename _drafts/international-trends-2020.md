@@ -396,6 +396,21 @@ bullshit.
 
 # Misc
 
+### Universal Real ID Measures Render Cover Identities Nearly Impossible
+
+- once countries stabalize systems like Real-ID, this manufactuing
+  cover identities that other countries can't validate nearly
+  impossible
+  - further, social media data can be sifted to identify false
+    identities because every forged identity will have an inconsistent
+    level or quality of data associated with it
+  - it becomes very difficult to create this data without your
+    opponents being able to identify possible spies
+    - which is why sociocultural pushes for people to restrict usage
+      of social media has been important thus far.
+      - enough low-data social media accounts increases implicit cover
+        for actual spies
+
 ### fusion
 
 - "game-ending. if you get fusion, you win the game." 'nuff said

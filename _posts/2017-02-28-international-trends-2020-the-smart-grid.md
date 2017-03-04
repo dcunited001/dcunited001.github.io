@@ -327,6 +327,10 @@ trading tactic, this causes major headaches around 2030 because of
 processing overhead and the speed at which transactions can be
 processed becomes energy-bound.
 
+#### Anime's About Hypothetical Economic Systems Are My Favorite
+
+![Shangri La - Carbon Credit Trading](/img/posts/2017-02-28-international-trends-2020-the-smart-grid/shangri-la-2.jpg)
+
 In the context of financial engineering, utilizing a distributed
 ledger while gaming trading tactics, imagine solving the stochastic
 programming for anticipating pricing trends in fluctuating energy
@@ -419,6 +423,8 @@ all possible and we do so with free market principles.
 Hybrid power grids are a great intermediate step for building out
 infrastructure in rural areas of developing nations. Again, stability
 is paramount before taking the first steps.
+
+![Shangri La](/img/posts/2017-02-28-international-trends-2020-the-smart-grid/shangri-la.jpg)
 
 Islands of isolated power grids can be built out so reachargeable
 devices can become a norm in developing nations, especially in rural
