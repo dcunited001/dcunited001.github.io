@@ -11,12 +11,6 @@ excerpt: ""
 - [Part One](/posts/2017-02-28-international-trends-2020-climate-change.html)
 - [Part Two](/posts/2017-02-28-international-trends-2020-the-smart-grid.html)
 
-> "Hey, it's me." -- David Conner, the guy without enough money to
-> open a bank account who made less than $400 in 2016 and $1717
-> in 2015.  The guy without enough skill to be employable in America
-> or, at least, to break through being virtually blacklisted by
-> negative career experience.
-
 ## [Space: Economics and Evolution of Governance Mechanisms](#space-economics-and-evolution-of-governance-mechanisms)
 
 ## [Trends in International Law are Gaining Momentum](#trends-in-international-law-are-gaining-momentum)
@@ -26,6 +20,8 @@ excerpt: ""
 ## [Global Geopolitical Analysis](#global-geopolitical-analysis)
 
 <a name="fundamental-advancements-towards-tomorrows-smartgrid" />
+
+- update with info from [Ars Article](https://arstechnica.com/science/2017/03/the-trump-administration-has-unleashed-a-lunar-gold-rush/)
 
 # [Space: Economics and Evolution of Governance Mechanisms](#space-economics-and-evolution-of-governance-mechanisms)
 
@@ -72,7 +68,7 @@ inbound from space and terrestrial pricing of equivalent resources.
 
 - therefore, access to space becomes critical in an economy which is
   increasingly driven by resource availability and price
-  - to this end, nano-based waste reclaimation becomes enticing 4
+  - to this end, nano-based waste reclamation becomes enticing 4
     countries w/ landfills
   - whether/when space elevator tech becomes available, then this
     real-estate becomes valuable

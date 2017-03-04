@@ -8,7 +8,7 @@ author:
 excerpt: ""
 ---
 
-Human civilization is currently undergoing a paradigm shift of
+Human civilization is currently undergoing (a paradigm shift) of
 cultural flux, precipitated by modernization, globalization and the
 Singularity. Does this shift imply an opportunity for the next major
 belief system to establish the semiotic foundation of human thought
@@ -45,6 +45,7 @@ paradigm created by modernization)
   necessitates handling information and ideas in an (equally different
   way.)
 
+
 <a name="semiotic-binding-points-in-the-human-condition" />
 
 # [Semiotic Binding Points in the Human Condition](#semiotic-binding-points-in-the-human-condition)
@@ -67,7 +68,7 @@ overlayed and mapped with multiple meanings.
 ### [Astrology, Commerce, Agriculture and Architecture](#astrology-commerce-agriculture-and-architecture)
 
 Perhaps the most constant set of signs in the semiotic sense,
-astrology was the only strata of phenomena found to be completely
+astrology was the only (stratum) of phenomena found to be completely
 constant to pre-historic man. The weather was seasonal and
 varied. Children were born young and died before old age. Previous
 generations left their mark, but it faded fast. Stories and myths
