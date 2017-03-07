@@ -38,56 +38,47 @@ metrics are analyzed to ensure our tactics actually improve conditions
 of poverty, and the solutions we implement naturally and actually
 produce positive changes.
 
-This doesn't start with waiting for someone to get in power. It
-doesn't start with the perfect ism or the perfect social institutions
-with the perfect doctrine and the perfect set of people. It starts
-with the individual, who once empowered, can transform the world
-around themselves. This requires education. Never in human history
-have we had more tools at their fingertips for our collective
-self-empowerment than we do now.
+This doesn't start with waiting for someone to get in power. Our
+revolution transcends identity. It doesn't start with the perfect ism
+or the perfect social institutions operating with the perfect doctrine
+and the perfect set of people. Instead, our movement assumes that
+nothing is or can become perfect and entails constant
+self-realization, not just of the individual, but of strata of
+society. It starts with the individual, who once empowered and
+relieved of restraint, can transform the world around themselves.
 
-Today, every person is empowered to learn at minimal cost with minimal
-investment. Knowledge is power & let's harness that. To manifest this
-and accelerate our transformation, we'll need to utilize a bit of
-social engineering. Instead of
-
-- more on harnessing education
-
-- math for 'scoring' the health of a person's local social graph and
-  local financial graph. is it possible to do this in an anonymous
-  way?
-
-- For america, we need democracy and capitalism. **America needs
-  democracy because of the general protections on an individual's
-  rights**: *speech, religion, property, life, liberty, ... pursuit of
-  happiness and whatnot!*
-  - however, because of how technology nature changes information &
-    communication, it makes democracy less efficient & less likely to
-    represent individuals
-  - that doesn't mean it can't work or the people can't have power, it
-    just means that our system needs to adapt to how information flows
-    and how fast it spreads through a system.
+This self-realization requires education. Never in human history have
+we had more tools at their fingertips for our collective
+self-empowerment than we do now. Today, every person is empowered to
+learn at minimal cost with minimal investment. Knowledge is power &
+let's harness that. To manifest this and accelerate our
+transformation, we'll need to utilize a bit of social engineering.
 
 #### N.A.S.A. Gifted ft. Kanye
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/WZB7yswo6a0" frameborder="0" allowfullscreen></iframe>
 
+<a name="turn-inwards-and-conquer-inner-space" />
+
 ### [Turn Inwards And Conquer Inner Space](#turn-inwards-and-conquer-inner-space)
 
-Instead, we will turn inwards for our revolution. We will conquer
-inner space, rather than to seek solutions outside. We need to conquer
-the negativity in our hearts that leads to problems in the world.
-Everything good and everything evil arises from our hearts and
-minds. Emotions, thoughts, words, actions, rigid beliefs. It comes
-from our hearts first.
+Instead of adopting the ideals of some ism or blaming our problems on
+something external, we will turn inwards for our revolution. We will
+conquer inner space, starting from the individual, rather than to seek
+solutions outside. We need to conquer the negativity in our hearts
+that leads to problems in the world. Everything good and everything
+evil arises from our hearts and minds. Emotions, thoughts, words,
+actions, rigid beliefs. It comes from our hearts first.
 
 If we survive the next 100 years, we'll survive for 10,000 years.
 Humanity has enough problems given our current circumstances and
-possibility of catastrophe in the near future.  Why should we permit
+possibility of catastrophe in the near future. Why should we permit
 conflict to burden us more?! If we need the best aspects of the human
 condition to inspire us through this next century, should we continue
 to sow the worst seeds of human behavior, fallible at best and
 malevolent when unchecked?
+
+<a name="a-philosophical-battle" />
 
 ### [A Philosophical Battle](#a-philosophical-battle)
 
@@ -102,6 +93,46 @@ metamorphosis here won't be efficient, so how can we prepare the
 cultures of 2030 to count on the fluid nature of information to stay
 lean and stay agile? Again, this stands in stark contrast to the
 typically slow pace of social engineering projects.
+
+<a name="its-not-my-world-im-just-living-in-it" />
+
+### [It's Not My World. I'm Just Living In It](#its-not-my-world-im-just-living-in-it)
+
+Throughout the ages, people have burdened by artificial limitations
+imposed by their belief systems, which are crafted to unify the
+actions of the masses to some end. Walls are imposed and blocks are
+placed in front of people to compel them towards cooperation towards
+goals, many of which were in place before these individuals were born.
+In most cases, the individual is compelled to choose between
+struggling for their own dreams or giving those up and contributing
+towards some
+[Great](https://en.wikipedia.org/wiki/Magnum_opus_(alchemy))
+[Work](https://en.wikipedia.org/wiki/Great_Work).
+
+This is the struggle between pre-determinism and free will, reified
+into life through esoteric orders who, perhaps selfishly, use
+individuals' lives towards their own ends. To these people, you're a
+pawn in someone else's game, just like everyone else.
+
+![Adjustment Bureau]()
+
+Unless their own dreams mesh with this pre-existing grand plan and they
+receive the blessings of the people around them, then any effort
+towards their own ends is squandered. This is because, if you piss off
+the wrong people, they will place wall after wall in front of you for
+the rest of your life and then laugh at the way you squirm when you
+don't understand why your life is a failure. They will orchestrate
+this by interacting with you like a ship in a bottle and they will
+never admit your strengths or victories and draw attention to your
+failures and there is nothing you can do about it.
+
+In the 21st century, this ends because of the tendancy towards
+omnipresence of information. That is, belief systems themselves will
+tend to decohere, then recongeal into a either a unified belief system
+or a set of belief systems. This doesn't mean older belief systems
+will fade away.
+
+<a name="a-cultural-revolution-and-a-cognitive-revolution" />
 
 ### [A Cultural Revolution *And* A Cognitive Revolution](#a-cultural-revolution-and-a-cognitive-revolution)
 
@@ -119,9 +150,6 @@ no... not that kind of cultural revolution
         harness their spirit, transcending the limitations imposed by
         their body. we all share physical limitations, btw (cut?)
 
-- (the intro should be a little more appealing to leftists to make the
-  most important points before they close the tab when i rip into
-  stalin)
 
 ###
 
@@ -651,3 +679,33 @@ basically, the question is:
     people had methodically dissected my psychology and were
     surreptitiously distorting my social environments to push others
     away.
+
+- math for scoring the 'health' of a person's local social graph and
+  local financial graph.
+  - is it possible to do this in an anonymous way?
+  - observing that strong gradients in wealth and social influence
+    gradually disperse
+  - these metrics and methods for understanding/quantifying social
+    influence need to be strongly and openly critiqued to ensure the
+    model is accurate
+    - it's easy to be deluded by the results of an invalid model and
+      become overly confident in statistical analysis
+    - these statistical models are structuralist and this is what the
+      soviets thought could provide the perfect administration of
+      society
+      - these models are inherently fallible, but tempting for both
+        those who would use them righteously and those who would use
+        exploit them for power
+    - however, statistical models powered by social media metrics can
+      provide unprecedented insight into society.
+
+- For america, we need democracy and capitalism. **America needs
+  democracy because of the general protections on an individual's
+  rights**: *speech, religion, property, life, liberty, ... pursuit of
+  happiness and whatnot!*
+  - however, because of how technology nature changes information &
+    communication, it makes democracy less efficient & less likely to
+    represent individuals
+  - that doesn't mean it can't work or the people can't have power, it
+    just means that our system needs to adapt to how information flows
+    and how fast it spreads through a system.

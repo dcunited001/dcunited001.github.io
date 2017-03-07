@@ -35,8 +35,8 @@ a lust for knowledge and self-actualization.
   of new money? Ethics aside, that would be an effective tactic from a
   heartlessly utilitarian standpoint. It'd be effective unless you got
   caught doing it, of course.
-  - If Tat and I actually talked, I have memories about this exact
-    topic, which I suggested as a kind of ethical test.
+  - (remove) If Tat and I actually talked, I have memories about this
+    exact topic, which I suggested as a kind of ethical test.
     - I told her ensuring control/oversight over innovation of Silicon
       Valley would be an effective means of ensuring your side has
       more resources later, essentially.
@@ -60,7 +60,7 @@ advantage. While I trust some groups in the Western world with such
 responsibility, I'm not so sure that some groups in the global economy
 would execute that duty altruistically.
 
-### [What Makes a Good Steward of Future Intellectual Property Holdings?](what-makes-a-good-steward-of-future-intellectual-property-holdings)
+### [What Makes a Good Steward of Future Intellectual Property Holdings?](#what-makes-a-good-steward-of-future-intellectual-property-holdings)
 
 And its not a joke: we're getting close to a world that might be
 controlled by esoteric groups of corporate conglomerates who act as
