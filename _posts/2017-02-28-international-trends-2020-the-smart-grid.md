@@ -1,7 +1,7 @@
 ---
 title: "International Trends 2020: The Smart Grid"
 categories: blog
-tags: ""
+tags: "environment science economics singularity saving-the-world futurism"
 headline: ""
 author:
   name: "David Conner"

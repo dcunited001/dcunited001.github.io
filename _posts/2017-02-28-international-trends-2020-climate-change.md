@@ -1,7 +1,7 @@
 ---
 title: "International Trends 2020: Climate Change"
 categories: blog
-tags: ""
+tags: "environment science economics singularity saving-the-world"
 headline: ""
 author:
   name: "David Conner"

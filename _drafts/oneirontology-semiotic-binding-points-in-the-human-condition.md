@@ -43,6 +43,8 @@ frameworks used by humanity (...)
       one gets a wider lens of applicable situations for a given
       element of the text
 
+- the evolutionary dynamics of mythos
+
 How do we adapt our culture to the (fundamentally different cultural
 paradigm created by modernization)
 

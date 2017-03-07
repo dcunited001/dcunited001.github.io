@@ -1,7 +1,7 @@
 ---
 title: "Facets of Greatness: Congressional Power Structures"
 categories: "blog facets-of-greatness"
-tags: "business psychology leadership sociology savingtheworld
+tags: "business psychology leadership sociology saving-the-world
 philosophy politics"
 headline: "Your definitive guide to working the system and looking good while you
 do it"

@@ -1,8 +1,7 @@
 ---
 title: "American Eros: Or How to Fell A Souley"
 categories: blog
-tags: "creativity writing sci-fi language linguistics dreams
-literature metamodernism savingtheworld philosophy"
+tags: "creativity writing sci-fi language linguistics dreams literature metamodernism saving-the-world philosophy"
 headline: "I had a sudden inspiration to write down the perfect love scene."
 author:
   name: "David Conner"

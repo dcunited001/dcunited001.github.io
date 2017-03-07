@@ -1,7 +1,7 @@
 ---
 title: "Facets of Greatness: Understanding the Political System"
 categories: "blog facets-of-greatness"
-tags: "business psychology leadership sociology savingtheworld
+tags: "business psychology leadership sociology saving-the-world
 philosophy politics"
 headline: ""
 author:

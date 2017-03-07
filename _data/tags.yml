@@ -13,8 +13,8 @@
   :name: Bioinformatics
 - :slug: biology
   :name: Biology
-- :slug: savingtheworld
-  :name: Savingtheworld
+- :slug: saving-the-world
+  :name: Saving The World
 - :slug: chemistry
   :name: Chemistry
 - :slug: keyboard
@@ -187,3 +187,7 @@
   :name: Information Warfare
 - :slug: civil-disobedience
   :name: Civil Disobedience
+- :slug: environment
+  :name: Environment
+- :slug: futurism
+  :name: Futurism
