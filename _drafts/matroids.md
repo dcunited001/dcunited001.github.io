@@ -57,7 +57,7 @@
 
 ### Social Mechanics
 
--  mathematically accounting for the psychosocial dynamic of "opposites
+- mathematically accounting for the psychosocial dynamic of "opposites
   attract" for basic/sophisticated personality types
   - if connections and interactions b/w people are facilitated
     alleviating the gradient of disparity of knowledge/information,
@@ -78,6 +78,8 @@
   - "if you're the smartest person in the room, find another room."
 - typologies of variation in psycho/socio/cultural dimensions,
   quantified with social media data.
+- exploiting social media filter bubbles to create false consensus
+  effect in targets, which can contribute to gaslighting campaigns
 
 ### FFT & Noise
 
