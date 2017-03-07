@@ -14,7 +14,7 @@ Singularity. Does this shift imply an opportunity for the next major
 belief system to establish the semiotic foundation of human thought
 for the next astrological age? Yes, it does. However, this is not an
 opportunity. It's a necessicity and something that must be handled
-with care and unparalleled foresight. We must revise semiotic
+with care (and) unparalleled foresight. We must revise semiotic
 frameworks used by humanity (...)
 
 - trying to design teleological connections by weaving semiotics
@@ -25,6 +25,23 @@ frameworks used by humanity (...)
     difficult as cultural change accelerates, which is why studying
     cultural universals and the ways in which our life adapts to
     technology is (crucial). (reword this?)
+
+- the paradigm of probabilistic computing when applied to mythos as
+  compressed semiotic information.
+  - the mythos gives us a large collection of ideas and beliefs that
+    can be applied in various ways, each creating impressions in
+    believers and tending to evoke imitation from believers
+    - it's no different than how a genomic program is probabilistic
+      computation: each imitated belief can be randomly executed,
+      altering the environment to change the distributions determining
+      the rates of execution of each (idea or idea-type) encoded into
+      the religion or belief system
+      - idea/belief/practice/custom
+  - type theory so that the semiotic elements comprising a compressed
+    mythos are applicable to many more situations
+    - that is, with a more liberal interpretation of religious text,
+      one gets a wider lens of applicable situations for a given
+      element of the text
 
 How do we adapt our culture to the (fundamentally different cultural
 paradigm created by modernization)
