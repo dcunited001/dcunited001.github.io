@@ -14,6 +14,8 @@ overpopulation doesn't burden us. It instead empowers us to reach our
 full potential."
 ---
 
+#### &#x2605; Climate Change &#x2605; [The Smart Grid](/posts/2017-02-28-international-trends-2020-the-smart-grid.html) &#x2605;
+
 ## [Climate Change: The Smart Grid, Intrinsic Analytics and Economic Dynamics](#climite-change-the-smart-grid-intrinsic-analytics-and-economic-dynamics)
 
 #### [Climate Change Policy Drives Global Economic Trends](#climate-change-policy-drives-global-economic-trends)

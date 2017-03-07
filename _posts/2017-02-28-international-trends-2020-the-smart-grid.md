@@ -16,6 +16,8 @@ can be connected to the internet by simply being plugged in. This
 helps IoT devices quite a bit."
 ---
 
+#### &#x2605; [Climate Change](/posts/2017-02-28-international-trends-2020-climate-change.html) &#x2605; The Smart Grid &#x2605;
+
 ## [Fundamental Advancements Towards Tomorrow's Smartgrid](#fundamental-advancements-towards-tomorrows-smartgrid)
 
 #### [Smart Grid Analytics and Surveillance](#smart-grid-analytics-and-surveillance)
