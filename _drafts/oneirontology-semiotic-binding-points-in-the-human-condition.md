@@ -20,6 +20,11 @@ frameworks used by humanity (...)
 - trying to design teleological connections by weaving semiotics
   together
   - TODO: more about teleology
+  - the idea of engineering semiotics and semiotic mappings to produce
+    particular teleological qualtiies in the world. this becomes more
+    difficult as cultural change accelerates, which is why studying
+    cultural universals and the ways in which our life adapts to
+    technology is (crucial). (reword this?)
 
 How do we adapt our culture to the (fundamentally different cultural
 paradigm created by modernization)

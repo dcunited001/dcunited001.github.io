@@ -49,8 +49,9 @@ investment. Knowledge is power & let's harness that. To manifest this
 and accelerate our transformation, we'll need to utilize a bit of
 social engineering. Instead of
 
-- math for 'scoring' the health of a persons social graph, in an
-  anonymous way
+- math for 'scoring' the health of a person's local social graph and
+  local financial graph. is it possible to do this in an anonymous
+  way?
 
 - For america, we need democracy and capitalism. **America needs
   democracy because of the general protections on an individual's
@@ -117,6 +118,10 @@ no... not that kind of cultural revolution
 - (the intro should be a little more appealing to leftists to make the
   most important points before they close the tab when i rip into
   stalin)
+
+
+
+
 
 ###
 
@@ -280,9 +285,10 @@ Start with a brief discussion of Democracy vs Communism
     first, then lead into a new section to distinguish between more
     specific examples of moving wealth around)
   - then ultimately the question comes down to how does each system of
-    governance structure it's mechanisms for diffusion of influence
+    governance and each society structure its mechanisms for
+    diffusion of influence
     - basically, how does one acquire or dispense or accumulate
-      influence
+      influence in a particular society or type of government
       - this ends up being very different in each kind of system
       - easier to accumulate influence in capitalist societies because
         you can accumulate physical wealth converring influence
@@ -370,8 +376,8 @@ Start with a brief discussion of Democracy vs Communism
 - even though communism often lacks true property rights and thus,
   it can be hard to truly own something and control it completely or
   sell it
-  - further, if you are permitted to sell real-estate/etc assets on
-    their more controlled market, then, since the gov't controls
+  - further, if you are permitted to sell real-estate and other assets
+    on their more controlled market, then, since the gov't controls
     exchange of most assets on the market, they really have the
     advantage to determine market behavior.
     - also, with much lower savings rates, it becomes harder to find
@@ -386,7 +392,8 @@ Start with a brief discussion of Democracy vs Communism
       property "owned" by individuals)
 
 - but the point is, the main incentivization structures for communism
-  and democracy basically just replace $$$ for affluence.
+  and democracy basically just exchanges $$$ for affluence with
+  government institutions.
   - it's really one for another. both systems require the diffusion of
     influence through currency and social institutions.
     - communism and socialism with controlled economies depend more on
@@ -397,6 +404,9 @@ Start with a brief discussion of Democracy vs Communism
         day. do not empower those who you strongly disagree with.
         - this is the strongest means we have for changing behaviors
           and preventing actions we don't agree with.
+        - you can't really "vote with your dollar" in a communist
+          system. this yet another reason its citizens are left *more
+          disempowered* than in free market systems
   - at the end of the day, we've exchanged diffusion of influence via
     $$$ for diffusion via hierarchical social institutions (kinda
     repeat of above)
@@ -570,7 +580,7 @@ basically, the question is:
   traits that allowed them to achieve their position in society)
 - a paradox of social circumstances: today people are pushed towards
   the left in response to poverty, but never in human history have we
-  had more tools at their fingertips for self-empowerment
+  had more tools at our fingertips for self-empowerment
   - when was the last time you bought an encyclopedia? seriously?
   - simultaneously, tech ventures model their business models around
     pushing content and monetizing our attention. but Americans need

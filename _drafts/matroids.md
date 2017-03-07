@@ -1,5 +1,5 @@
 
-# Matroids
+### Matroids
 
 - what happens with an infinite number of paths? nodes?
   - with infinite nodes are there necessarily infinite paths?
@@ -20,7 +20,64 @@
 - can infinite matroids be reduced to finite matroids?
   - "sparse" matroids? crossed with lattice?
 
+### Theoretical Computer Science
 
+- num of edges maximum, forcing networking maximums for computers
+  - Probably related to
+    [Ramsey Theory](https://en.wikipedia.org/wiki/Ramsey_theory)
+
+- probabilistic computing and probabilistic turing machines
+  effectively describe the dynamical state machine programming idea
+  described in my article
+  - this form of programming might be most useful for programming
+    quantum computers
+
+### Prime Numbers
+
+- there are increasingly complicated series of functions for
+  predicting series of primes. Terrance Tao has done work on
+  discovering relationships between these functions.
+  - is there some graph that can relate these functions with a graph
+    representing prime numbers?
+  - if so, one can anticipate efficient search candidates to identify
+    the prime numbers that aren't covered by these functions
+
+### Graph Theory
+
+- what is a mathematic way of describing the most efficient means of
+  adding to a graph that has a shared global spatial component
+  - e.g. adding water treatment plants to a graph of connected plants
+    when one must minimize various costs: initial cost of
+    infrastructure, energy/financial cost in function/upgrades
+    - the most efficient solution here needs to account for total cost
+      in system function
+  - there should be some solution for evaluating new nodes added to
+    the graph that involves partial overlays of subgraphs on top of
+    the graph
+
+### Social Mechanics
+
+-  mathematically accounting for the psychosocial dynamic of "opposites
+  attract" for basic/sophisticated personality types
+  - if connections and interactions b/w people are facilitated
+    alleviating the gradient of disparity of knowledge/information,
+    then what does this say generally about people who are basic and
+    people who are well-educated
+    - what are the psychosocial dynamics that emerge between
+      combinated pairings/groupings of people
+      - how do these dynamics change when people have various ranges
+        of aggregate knowledge levels or various ranges of knowledge
+        levels in specific fields
+  - this becomes more complicated when considering the same problem
+    for various types of knowledge (i.e. level of sophistication in
+    various fields)
+  - but, generally, people who have a higher disparity in
+    knowledge/information from different fields will have more to talk
+    about or more value to offer each other in terms of the knowledge
+    they have to share.
+  - "if you're the smartest person in the room, find another room."
+- typologies of variation in psycho/socio/cultural dimensions,
+  quantified with social media data.
 
 ### FFT & Noise
 

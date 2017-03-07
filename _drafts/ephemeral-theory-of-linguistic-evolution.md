@@ -110,11 +110,21 @@ would even dictate the functional
 
 ### Misc Linguistic Ideas:
 
+- what does the difference b/w zipf's distribution for english words &
+  japanese loan words from english tell us?
+  - japanese loan words are always written in katakana, so they are
+    easily distinguished between loanwords by people inside and
+    outside of the culture
+    - also, this would tend to lessen external influence to some
+      aspects of the japenese language
+  - this also works for other languages, but it's harder to delineate
+    evolution of internal and external aspects of the language
+
 - (?) Linguistic properties and characteristics that contribute to
   psychology, qualities of communication, social phenomena and culture
 
-- linguistic analysis of english literature compared w/
-  accent. Evolution of lexicon evolution, compared with zipf profiles
+- linguistic analysis of english literature compared w/ accent.
+  Evolution of lexicon evolution, compared with zipf profiles
 
 - search for coupled evolution of morphemes in languages
   - there's a tree of coupled morphemes (this is how we can recognize
@@ -273,7 +283,5 @@ these specific aspects are desirable:
 - longer generation cycle and more simultaneous living generations
 - lower number of children per family & generation
 - longer time spent raising children
-
-
 
 ### Possible experimentation
