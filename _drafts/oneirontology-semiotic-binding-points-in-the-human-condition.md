@@ -44,9 +44,13 @@ frameworks used by humanity (...)
       element of the text
 
 - the evolutionary dynamics of mythos
+  - look over
+    [Evolutionary Dynamics](https://en.wikipedia.org/wiki/Evolutionary_dynamics)
+    for inspiration
 
-How do we adapt our culture to the (fundamentally different cultural
-paradigm created by modernization)
+How do we adapt our culture to the (fundamentally distinct cultural
+paradigm created by transcendence from modernization beyond the
+singularity)
 
 - This post covers specific systems of signs and symbols often used as
   semoitic binding points for myths.

@@ -1,24 +1,64 @@
-
+---
+title: "Merits and Faults of Intellectual Property Endgame Scenarios"
+categories: "blog"
+tags: ""
+headline: ""
+author:
+  name: "David Conner"
+excerpt: ""
+---
 
 - link to
   [American Limits on Freedom of Speech Include Intelligence](http://te.xel.io/posts/2016-08-22-american-limits-on-freedom-of-speech-include-intelligence.html)
+  - where to link to this?
 
 - need to explore more about the merits/faults of final distributions
-  of intellectual property holdings
+  of intellectual property holdings.
+  - this is the interesting idea here, but
 
-What our government is mercilessly squashing in America is curiosity
-and innovation driven by a lust for knowledge and self-actualization.
-And if so, then what the fuck are we doing to our economy as we step
-foot into a 21st century!? I cannot appropriately emphasize how the
-21st century economy will be based on intellectual property and that,
-while it might be unfair for a segment of the global economy to have
-an insurmountable advantage there, I'd rather it be us if it's going
-to be anyone. That's because I know that someone truly worthy of being
-a steward of IP like that would be willing to share it with all others
-instead of using it to their own advantage. While I trust some groups
-in the Western world with such responsibility, I'm not so sure that
-some groups in the global economy would execute that duty
-altruistically.
+In the years preceeding 2017, what our government seems to have
+mercilessly squashed in America is curiosity and innovation driven by
+a lust for knowledge and self-actualization.
+
+- That is, unless you found
+  yourself blessed by the government to proceed with some innovative
+  idea without a COINTELPRO-style disruption campaign, powered by
+  surveillance.
+  - (blurb about unquestioning obedience, self-censorship, complicitness
+    with NSA surveillance, etc)
+- If you're the target of such an operation involving surveillance,
+  you'd be lucky to avoid having every ounce of innovation extracted
+  by the people watching you.
+- Apparently, our government has been pruning undesireable
+  entrepreneurs and micromanaging technological innovation, but to
+  what ends? Is it to ensure that liberals and leftists are in control
+  of new money? Ethics aside, that would be an effective tactic from a
+  heartlessly utilitarian standpoint. It'd be effective unless you got
+  caught doing it, of course.
+  - If Tat and I actually talked, I have memories about this exact
+    topic, which I suggested as a kind of ethical test.
+    - I told her ensuring control/oversight over innovation of Silicon
+      Valley would be an effective means of ensuring your side has
+      more resources later, essentially.
+    - I was trying to test my hypothesis: was the left methodically
+      pushing conservatives out of work and depriving them of
+      resources. This is basically what was happening with the IRS and
+      Lois Lerner and what I had felt happened in my own life.
+    - yeh, it's chicanery. who the fuck cares. look at what these
+      people were doing. i wanted to prove it without a doubt, in case
+      I was in the middle of getting fucked in the ass.
+
+... (fix transition) And if so, then what are we doing to our economy
+as we step foot into a 21st century!?  (I) cannot appropriately
+emphasize how the 21st century economy will be based on intellectual
+property and that, while it might be unfair for a segment of the
+global economy to have an insurmountable advantage there, I'd rather
+it be us if it's going to be anyone. That's because I know that
+someone truly worthy of being a steward of IP like that would be
+willing to share it with all others instead of using it to their own
+advantage. While I trust some groups in the Western world with such
+responsibility, I'm not so sure that some groups in the global economy
+would execute that duty altruistically.
 
 ### [What Makes a Good Steward of Future Intellectual Property Holdings?](what-makes-a-good-steward-of-future-intellectual-property-holdings)
 
@@ -31,15 +71,15 @@ world could be better off for it or certainly doomed, were greedy
 self-interest to delude whoever holds the keys to genomic science or
 nano science.
 
-This isn't actually a novel idea. Nope, it's a novel idea! Literally:
-in William Gibson's brilliant Neuromancer -- one of the best books
-I've ever read whence the Matrix was a major departure -- the
-Tessier-Ashpool family maintains a monopoly over intellectual property
-related to artifical intelligence. I don't think I'm throwing out
-spoilers here. This family has mostly withdrawn from society and their
-duty is an unwavering, merciless suppression of any possibility rogue
-AI tech might emerge and take root in the world. That's a nightmare
-scenerio in many sci-fi books.
+This isn't actually a novel idea. Nope, it's a *novel* idea!
+Literally. As in William Gibson's brilliant Neuromancer -- one of the
+best books I've ever read whence the Matrix was a major departure --
+the Tessier-Ashpool family maintains a monopoly over intellectual
+property related to artifical intelligence. I don't think I'm throwing
+out spoilers here. This family has mostly withdrawn from society and
+their duty is an unwavering, merciless suppression of any possibility
+rogue AI tech might emerge and take root in the world. That's a
+nightmare scenerio in many sci-fi books.
 
 This family runs the "Turing Registry" which has it's own secret
 police, kinda. Think Rothschilds, but for AI instead of banking. In
@@ -57,7 +97,7 @@ Hollywood.  Don't worry, don't call us, we'll call you. The end.
 
 <a name="" />
 
-### [Weighing Pros and Cons of IP Distribution Endgame Scenarios](weighing-pros-and-cons-of-ip-distribution-endgame-scenarios)
+### [Weighing Pros and Cons of IP Distribution Endgame Scenarios](#weighing-pros-and-cons-of-ip-distribution-endgame-scenarios)
 
 It's very possible that similar families or multinational holdings
 companies might emerge to run things in the pre-Singularity economy of

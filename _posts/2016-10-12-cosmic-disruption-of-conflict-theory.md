@@ -1,7 +1,7 @@
 ---
 title: "Cosmic Disruption of Conflict Theory"
 categories: blog
-tags: "psychology philosophy sociology leadership economics"
+tags: "philosophy sociology leadership economics"
 headline: "Now with 20% more space, lasers and nano!"
 author:
   name: "David Conner"

@@ -22,7 +22,9 @@ the forcible transfer of ownership are expensive. They are morally
 wrong, and a major drain on the economy at a time when we need America
 to be as competitive as possible.
 
-# Our Revolution of Empowerment
+<a name="our-revolution-of-empowerment" />
+
+# [Our Revolution of Empowerment](#our-revolution-of-empowerment)
 
 Imagine a revolution of empowerment. It starts with the individual, so
 that we can transform the world from the ground up. This builds on the
@@ -48,6 +50,8 @@ Today, every person is empowered to learn at minimal cost with minimal
 investment. Knowledge is power & let's harness that. To manifest this
 and accelerate our transformation, we'll need to utilize a bit of
 social engineering. Instead of
+
+- more on harnessing education
 
 - math for 'scoring' the health of a person's local social graph and
   local financial graph. is it possible to do this in an anonymous
@@ -118,10 +122,6 @@ no... not that kind of cultural revolution
 - (the intro should be a little more appealing to leftists to make the
   most important points before they close the tab when i rip into
   stalin)
-
-
-
-
 
 ###
 
