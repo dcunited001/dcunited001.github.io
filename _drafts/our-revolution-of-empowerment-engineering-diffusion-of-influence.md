@@ -132,6 +132,39 @@ tend to decohere, then recongeal into a either a unified belief system
 or a set of belief systems. This doesn't mean older belief systems
 will fade away.
 
+- in aggregate, these artificial walls and blocking mechanisms are
+  incredibly harmful to people and to society.
+  - more about this
+
+# [A Joyful Revolution]
+
+(The primary thesis:) in societies with different governmental
+structures, what motivates people to work hard? In communist societies
+and democratic, free-market societies, how does this differ? This
+question is of utmost importance. In a free-market, democratic system,
+it is a mix of financial and sociocultural incentivization that pushes
+people to acheive more, for themselves and for society. In a communist
+system, its primarily sociocultural. People are motivated through
+social engineering, by which the Party creates values systems that are
+designed to push people towards striving for some collective
+end. These systems created by social engineering are far from perfect,
+vulnerable to subversion and usually idealized by academics blinded by
+their own righteousness.
+
+- They believe that through their knowledge, they have all the
+  answers, but are blind to the truly limited scope of their
+  (knowledge).
+
+
+
+
+
+
+
+
+
+
+
 <a name="a-cultural-revolution-and-a-cognitive-revolution" />
 
 ### [A Cultural Revolution *And* A Cognitive Revolution](#a-cultural-revolution-and-a-cognitive-revolution)
@@ -292,20 +325,6 @@ creation mechanisms => *particularly, education!*
 
 (after completing the main thoughts here, summary above should be a
 bit more brief)
-
-# (new title) A Revolution of Empowerment for the 21st Century
-
-Start with a brief discussion of Democracy vs Communism
-- particularly the values/ethics systems of both
-
-- In societies with different governmental structures, what motivates
-  people to work hard?
-  - in a communist or democratic society, how does this differ?
-  - in a free-market democratic system
-    - it's a mix of financial and sociocultural incentivization
-  - in a communist system
-    - it's only sociocultural. Through social engineering, the Party
-      creates these values/ethics structures.
 
 - as currency and wealth are really medium of exchange for what
   conveys a liquidity of influence,
@@ -709,3 +728,33 @@ basically, the question is:
   - that doesn't mean it can't work or the people can't have power, it
     just means that our system needs to adapt to how information flows
     and how fast it spreads through a system.
+
+
+=========
+
+- the commonality of the human condition drives humanity's desire to improve it (rewrite)
+  - that is, because we all understand the effects of negative/positive events in our own life
+    - as well as their effects on the lives of those around us
+    - we become conditioned with the desire to overcome it
+  - when people witness or become aware of extremely unfair events
+    - the human condition drives our desire to correct them
+    - if someone has utilized unfair tactics to target someone's friends
+      - then if those people become aware of these injustice's
+      - they will be capable of empathizing with the strife and they will strive for justice
+      - even if this means taking on some pain themselves
+  - this can be harnessed to correct social injustice on a large scale
+    - through non-violent intervention, such as that employed by Ghandi and Dr. King
+    - at first, people like Ghandi and Dr. King were begged by their friends to just fall in line
+      - to accept that which was unfair because it was "good enough" or "it could be worse"
+    - but by getting attention with the right means
+      - and drawing the people around them into the fight
+        - who must be willing to accept pain in striving towards a better condition for everyone
+      - these hero's were able to draw even more attention to injustices
+    - and this is because, when people are presented with the right information from the right perspective,
+      - they will almost always make the right decision
+      - they will struggle for justice or change, even to their own detriment
+  - this insurmountable desire for equinimity, justice and truth often lays dormant
+    - but it can be tapped through the just the right push
+    - and it is driven by the human condition
+      - that is, the common experiences that we all face throughout our lives
+      -
