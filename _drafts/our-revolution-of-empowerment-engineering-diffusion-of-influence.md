@@ -78,6 +78,8 @@ condition to inspire us through this next century, should we continue
 to sow the worst seeds of human behavior, fallible at best and
 malevolent when unchecked?
 
+<a name="harnessing-the-congruence-of-the-human-condition" />
+
 <a name="a-philosophical-battle" />
 
 ### [A Philosophical Battle](#a-philosophical-battle)
@@ -731,30 +733,3 @@ basically, the question is:
 
 
 =========
-
-- the commonality of the human condition drives humanity's desire to improve it (rewrite)
-  - that is, because we all understand the effects of negative/positive events in our own life
-    - as well as their effects on the lives of those around us
-    - we become conditioned with the desire to overcome it
-  - when people witness or become aware of extremely unfair events
-    - the human condition drives our desire to correct them
-    - if someone has utilized unfair tactics to target someone's friends
-      - then if those people become aware of these injustice's
-      - they will be capable of empathizing with the strife and they will strive for justice
-      - even if this means taking on some pain themselves
-  - this can be harnessed to correct social injustice on a large scale
-    - through non-violent intervention, such as that employed by Ghandi and Dr. King
-    - at first, people like Ghandi and Dr. King were begged by their friends to just fall in line
-      - to accept that which was unfair because it was "good enough" or "it could be worse"
-    - but by getting attention with the right means
-      - and drawing the people around them into the fight
-        - who must be willing to accept pain in striving towards a better condition for everyone
-      - these hero's were able to draw even more attention to injustices
-    - and this is because, when people are presented with the right information from the right perspective,
-      - they will almost always make the right decision
-      - they will struggle for justice or change, even to their own detriment
-  - this insurmountable desire for equinimity, justice and truth often lays dormant
-    - but it can be tapped through the just the right push
-    - and it is driven by the human condition
-      - that is, the common experiences that we all face throughout our lives
-      -

@@ -73,6 +73,11 @@ singularity)
   necessitates handling information and ideas in an (equally different
   way.)
 
+- zipf's distribution for semiotics: what are the things people think
+  about most. For humans, above all other things, it's the day. More
+  generally, there is nothing more tightly coupled to what occupies
+  our minds than the day and night cycle and everything related to and
+  involving a day.
 
 <a name="semiotic-binding-points-in-the-human-condition" />
 

@@ -76,7 +76,9 @@ journalists, editors, reporters and producers to vet quality of
 information. If this is almost completely lacking, and especially when
 we are lacking those cultural touchstones, the propensity for
 misinformation to alter our course of action skyrockets.  Our beloved
-21st century Library of Alexandria becomes it's antithesis.
+21st century
+[Library of Alexandria](/posts/2016-08-01-from-the-parapets-of-alexandria-knowledge-extinction-events.html)
+becomes it's antithesis.
 
 <a name="whose-dictionary" />
 

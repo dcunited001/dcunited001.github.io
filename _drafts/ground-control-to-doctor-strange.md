@@ -327,6 +327,39 @@ how does the assumption of quantum networking relate to how these
     - why should all that we can see be all there can be?
       boooorrrriiinngg
 
+=========
+
+artificial intelligence is mapped to the same set of metaphysical
+semiotic signs that our own organic minds are connected to. however,
+even artificial intelligence based on quantum computing is not
+connected to the world in the same way that organic consciousness is.
+
+we are all connected via a interconnected web of quantum
+entanglement. the oneness of matter can be traced back to the big
+bang, but artificial intelligence doesn't hook into this in the same
+way.
+
+transhumanism is the next stage of the left-hand path, but forces us
+to abandon the possibility of utilizing the right-hand path. in other
+words, if we adopt widespread transhumanist technology that creates
+artificial mechanism for connectedness, we become oversaturated with
+signal that blinds us to an existing mechanism of connection: the
+pre-existing web of quantum entanglement, by which one can ascend to
+higher realms of existence.
+
+[Left-hand path and right-hand path](https://en.wikipedia.org/wiki/Left-hand_path_and_right-hand_path)
+
+that's why i would never willingly modify my mind with nano technology
+in the pursuit of transhumanism. i made up my mind in summer of 2013
+when i started reading #Nexus by #RamezNaam
+
+i'm working on this post "Ground Control To Doctor Strange", which
+describes how my movement Oneirontology understands cosmogony and the
+structure of the universe.
+
+=========
+
+
 ---
 title: "Ground Control to Dr. Strange: Consciousness Crystallization"
 categories: "blog"
