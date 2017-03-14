@@ -1,4 +1,3 @@
-
 ### Matroids
 
 - what happens with an infinite number of paths? nodes?
@@ -31,6 +30,12 @@
   described in my article
   - this form of programming might be most useful for programming
     quantum computers
+
+#### TCS x Neurology
+
+- piece together more accurate models of neurological functions based
+  on estimated required computing power for each function and
+  computation for networking each module together
 
 ### Prime Numbers
 

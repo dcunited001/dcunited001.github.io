@@ -53,7 +53,7 @@ together, then the restraints of injustice become like gossamer chains
 and are only as strong as the remnants of collective delusion
 ... *STAY WOKE!*
 
-Instead, with the proper metaphysical ju-jitsu, we can harness this
+Instead, with the proper metaphysical jujutsu, we can harness this
 injustice and collectively transform it into willpower to overcome our
 societal restraints. Little by little, every bit of injustice
 witnessed furthers our collective conditioning to overcome it, as long
@@ -78,6 +78,10 @@ from social physics, the nature of information and our collective
 response to the human condition. This ability to correct artificial,
 man-made injustice becomes stronger as population grows.
 
+#### This definition of God is like Leonardo's Vitruvian Man applied to society to create an ideal of justice
+
+![Leonardo's Vitruvian Man](/img/posts/2017-03-10-harnessing-the-congruence-of-the-human-condition-for-natural-justice/vitruvian-man.jpg)
+
 Secret courts are the worst: how can anyone say justice has been
 served in secret? True justice cannot be hidden. If it is in harmony
 with truth and natural justice, then if it is made public, you will
@@ -89,19 +93,18 @@ against disclosure.
 > Whether the 3rd amendment or the 6th amendment is more important
 > will be an argument for subsequent generations to decide, but today,
 > Americans effectively have neither. The NSA's and the CIA's is in
-> all your TV's and they'd mic your butthole if they could.
+> all your smart TV's and they'd mic your butthole if they could.
 
 The human condition can be harnessed to correct social injustice on a
 large scale, via non-violent tactics for intervention, such as those
 employed by Ghandi and Dr. King. At first, people like Ghandi and
 Dr. King were begged by their friends to just fall in line. Other
 victims of the injustices they fought against begged people who would
-stand up against these crimes to accept societal injustice because "it
-was good enough" or "it could be worse" or "it's always been like
-this, deal with it." Yet, by getting attention with the right means
-and finding supporters who would crystallize around them, they drew
-enough people into the fight whose interests aligned to make a
-difference.
+stand up to accept societal injustice because "it was good enough" or
+"it could be worse" or "it's always been like this, deal with it."
+Yet, by getting attention with the right means and finding supporters
+who would crystallize around them, they drew enough people into the
+fight whose interests aligned to make a difference.
 
 There is a critical mass of support that a group needs to sustain in
 order to make a difference and, without it, people will become weary
@@ -120,10 +123,11 @@ imposed filter bubbles, people just don't see the most egregious
 violations. At the same time, people are willingly and unwillingly
 roped into unpaid schemes to anonymously disempower people they don't
 know. Not me. Do I look stupid to you? By the way, depending on the
-specifics, that's border-line slavery. Oh, but you can't communicate
-about it because it's "secret" and disclosure results in significant
-penalty, cost to personal influence, or cost to personal assets, like
-a family business.
+specifics, [that](https://www.reddit.com/r/Gangstalking/) is
+border-line slavery. Oh, but you can't communicate about it because
+it's "secret" and disclosure results in significant penalty, cost to
+personal influence, or cost to personal assets, like a family
+business.
 
 When people are presented with the right information from the right
 perspective, they will almost always make the right decision, at least
@@ -131,7 +135,7 @@ collectively. They will struggle for justice or change, even to their
 own detriment, but such a cost should never be taken lightly or go
 unrewarded. Who is willing to struggle the hardest? Who ideally
 embodies the ideals of virtues which permit us to live in a society
-which strongly coheres its justice to that of natural justice? What
+that strongly coheres its justice to that of natural justice? What
 makes people struggle? What do people have to learn in order to be
 willing to struggle? If children, the naive and the innocent naturally
 adhere to a sense of natural justice, then what is it that people
