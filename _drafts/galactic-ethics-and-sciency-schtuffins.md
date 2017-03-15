@@ -568,9 +568,21 @@ A    d
 
 ### Gomboc & EMP dispersion
 
+- Gomboc concept applied to an EMField with magnets/electromagnets
+  where the field is shaped so that electrons entering the field are
+  redirected to specific positions circuits
+  - i.e. no matter what direction EMP radiation enters the Gomboc
+    field, it will always be pushed towards circuits with adequate
+    voltage regulation, so that there is never a risk of overloaded
+    circuitry
+- the question here is: are there such shapes to EM fields that can
+  enable this special functionality or sufficiently approximate it to
+  guarantee EMP survival of cubesats or other satellites in space
 
 
 ### Gravity Crystal X Gomboc
+
+- [Time Crystals](https://arstechnica.com/science/2017/03/researchers-present-time-crystals-made-of-quantum-mechanical-oscillations/)
 
 - gravity crystals X gomboc structure for a theoretical whitehole
   - gomboc is a structure where, no matter how it is placed, it will

@@ -187,3 +187,72 @@ science.
 
 AND HOW THE FUCK IS THAT WORKING OUT FOR YOU? Let me out of my goddamn
 cage you sick fucks. And stop trying to induce mTBI by blasting me.
+
+
+### Application of Category Theory to Planning/Producing Reality TV
+
+- imagine a reality TV show that's a cross b/w *Punked* and *Choose
+  Your Own Adventure*
+- produce TV shows w/ enough alternate bridged content pathways
+  coupled with enough abstracted deconstructed-but-reconstitutable
+  content snippets
+  - basically the show can be produced to "punk" someone because
+    his/her reactions determine the content pathway choices through
+    scenes that are braided together via Category Theory
+  - e.g. there's always enough filler space (< 5 mins per episode) so
+    that the rest of the content can be coherently braided together
+    - this filler space in each episode can be filmed pretty late in
+      the production process, or even produced by artificial
+      intelligence
+- producing the destructured alternate content encourages the actors
+  to strengthen character development
+- Some EEG technology could be used to gauge the Punked viewer's
+  emotional response to the produced content to swap out content weeks
+  before or in real-time
+  - this is basically a sci-fi scenario where artificial intelligence
+    create custom-tailored content and tweaks the content in real-time
+    as it's delivered to the viewer based on their emotional reaction
+  - but the reality TV show aspect of it is that the TV show is
+    inverted: while the target watches TV shows tailored to his tastes
+    and reactions, the rest of the nation watches his reactions
+    unbenknownst to him/her
+
+### Category Theory & Real-Time Video Stream Mutation
+
+- in the era of netflix & VR, most people consume video content alone
+  - this is a bit antisocial, but it also means that streamed video
+    content can be subtly altered to some degree without an individual
+    knowing it
+    - this is because there is no guarenteed final form (VHS/DVD) of
+      streamed video content
+  - in particular, audio is more susceptible to mutation than video:
+    it's easier to mutate without arousing the suspicion of the viewer
+    - but there are also means of updating both video & audio in real
+      time, provided that the AV mutations consume the same amount of
+      time.
+  - this [Video](https://www.youtube.com/watch?v=ladqJQLR2bA)
+    describes a
+    [study by University of Washington](https://homes.cs.washington.edu/~supasorn/0550.pdf)
+    that does exactly that, although it requires quite a bit of
+    preprocessing
+    - the point is, with some imagination and a massive supercomputer,
+      it is theoretically to update video and especially audio streams
+      of targeted viewers in real-time,
+      - even though it's in no way technically feasible or practical,
+        this *could* be used for gaslighting operations
+    - there are a fairly limited number of personalities on TV, which
+      makes enumerating each personality's gesture/voice profile a bit
+      more tractible
+      - the transformations b/w these personality profiles should be
+        enumerable and precomputable via combination
+  - furthermore, at least recent contracts with said personalities
+    should negotiate for their likenesses, which should permit
+    networks to compel the personalities to allow the use of their
+    likeness in this manner
+    - for flexibility with pretty standard VR/AR features, contract
+      negotiations for content should include the ability to use
+      modified versions of the likeness of personalities
+- however, getting this to work both in-real-time and with zero
+  noticeable flaws would be impossible
+  - further, the amount of computing power required means targets
+    would be limited
