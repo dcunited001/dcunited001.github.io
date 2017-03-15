@@ -157,16 +157,6 @@ their own righteousness.
   answers, but are blind to the truly limited scope of their
   (knowledge).
 
-
-
-
-
-
-
-
-
-
-
 <a name="a-cultural-revolution-and-a-cognitive-revolution" />
 
 ### [A Cultural Revolution *And* A Cognitive Revolution](#a-cultural-revolution-and-a-cognitive-revolution)
@@ -623,6 +613,21 @@ basically, the question is:
   population's energy towards building solutions to prepare humanity
   for the 22nd century?
 
+
+
+### quantifying social mobility
+
+analyze linkedin/career/financial data science
+- quantify vocality of political affiliation in archived social media
+  data. same for other indicators: religion, ethnicity, etc
+- by meshing this data, we should be able to develop an approximate
+  measure of social motility and average social progress per political
+  group. can also measure along other lines, but not kosher.
+  - bc i think what we'll see is that conservative americans have been
+    effectively marginalized from society by design. and this can be
+    measured with analytics and social media data analysis.
+  - name of factor being measured? ~social mobility?~
+
 ###
 
 - a paradox of aristocracy (subsequent generations gradually lose the
@@ -733,3 +738,17 @@ basically, the question is:
 
 
 =========
+
+#### How the government systematically disempowers people
+
+Surprise! When the government has collected a wide swath of
+information secretly, your communications render your psychology an
+open book. Worse, like a bad shrink, you can never validate what’s
+been written down about you. So, if the gov’t is killing you softly,
+you’d never know. And worse, if the national security apparatus
+mistreated you, it will continue to justify it’s previous actions
+post-facto with more bad information in the secret file you can’t
+verify .... until you “go away.” So you will continue to be
+psychologically harassed by strangers programmed with that bad intel
+who push people away to ensure that no one gets close enough to their
+mistake to ever verify the truth, basically until you commit suicide.

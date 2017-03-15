@@ -45,6 +45,7 @@ excerpt: ""
         - this could be engineered
 
 
+
 ===============
 
 ### semi-dystopian sci-fi time travel idea
@@ -83,6 +84,54 @@ also kind of leads the world through a difficult path.
       how it connects for each planet that satisfies those conditions
 - that is, of course, assuming that this form of time travel is
   possible, but it's sci-fi...
+
+### The Epimemetics of Malleable Memory
+
+- as one scales the perspective that an individual's memory is
+  malleable from the individual to sociological, how can malleable
+  memory affect society?
+  - how far back in time can an individual's capacity for changing
+    malleable memories provide collectively significant changes?
+  - can this be quantified, measured, studied and predicted?
+    - reference ideas from Isis Unveiled
+  - Can groups' capacity for unintentionally molding memory be
+    predicted with respect to an idea or story? Can this be harnessed?
+    - i think it can and only moreso with instantaneous communication,
+      social media, and data science on analytics that provide
+      psychosocial insights
+      - i.e. our structuralist nightmare
+
+- the concept of a nano-drug that enables timetravel through a
+  specific spear-of-destiny protocol
+  - in other words, specific memories can be maintained as unresolved
+    for the duration of a specific event, so long as they are
+    unmanifested
+    - then quantum entanglement would enable the resolution of
+      specific neural networks to manifest the memories into reality
+      at a later time
+    - the content of the memories would need to relate to a specific
+      experience in which the drug was embibed, but the content of the
+      memories could be controlled in order to manifest implanted
+      memories in the mind of someone, years after the event had
+      occured.
+  - this may just be an interesting sci-fi concept, but whether it's
+    possible depends on the neurological specifics of memory storage
+    on the smallest scale
+    - and whether a nano drug can wire up entanglement as a resource
+      in the human brain that can be resolved at a later time
+- so, assuming this is correct, then how can this nano-drug mechanism
+  affect the epimemetics of malleable memory above?
+
+=============
+
+### designer genomics x semiotics
+
+- in other words, how will people actually choose to modify their
+  genetics?
+- what symbology makes sense to embody with modified genomics?
+  - do people simply want a different hair color or skin color?
+- how would technical limitations change the progression in designer
+  evolution?
 
 =============
 
@@ -410,6 +459,24 @@ also kind of leads the world through a difficult path.
     effects that contrast relativity
     - does this say anything about the nature of space?
 
+### Establishment of Quantum Links in the Minds of People
+
+- is there a protocol for establishing a quantum connection b/w human
+  minds through a shared experience? i.e. shared imagery/video
+  - this idea assumes that what we see produces data images within our
+    minds, where the data images share similar signals
+    - so, if web of quantum entanglement interconnects all
+      consciousnesss on earth, then if a similar enough signal emerges
+      in two minds simultaneously, can this be used to establish some
+      kind of quantum connection?
+    - and what if this was a visual image cast into two people
+      simultaneously using split photons, could the data of the mental
+      image be guaranteed to share similar enough form to
+- if not for the establishment of a link via quantum entanglement,
+  could a similar process be used for the establishment of various
+  information processing patterns in the minds of initiates
+  - this is similar to various occult techniques
+
 ### Dispersion of gravity waves
 
 - Dispersion of gravity waves compared to sound/light
@@ -497,6 +564,11 @@ A    d
 
 - does all matter/mass contributed to the curvature of space evenly?
   - gravity as the effect of energy on space
+
+
+### Gomboc & EMP dispersion
+
+
 
 ### Gravity Crystal X Gomboc
 
@@ -673,8 +745,8 @@ a limited number of times
   - are there parallels b/w the periodic table and polynomial
     expansions or ... this is kind of a dumb idea
 
-```
 
+```
 []
 
 []

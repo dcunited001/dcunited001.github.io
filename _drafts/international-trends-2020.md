@@ -70,6 +70,8 @@ inbound from space and terrestrial pricing of equivalent resources.
   increasingly driven by resource availability and price
   - to this end, nano-based waste reclamation becomes enticing 4
     countries w/ landfills
+  - there's a procession of real-estate trends that emerge as various
+    space technologies become viable
   - whether/when space elevator tech becomes available, then this
     real-estate becomes valuable
     - this tech is dependent on carbon nano-fibers
@@ -143,6 +145,23 @@ inbound from space and terrestrial pricing of equivalent resources.
 - it seems it's possible for people to declared to have no rights,
   secretly. These people should always have some inalienable human
   rights.
+  - they do: refugee rights
+
+#### Circumvention of Genevaless NEC status via an annex-by-proxy
+
+- here is presented a hypothetical international law framework for
+  circumventing blacked-out, memory-holed status of non-enemy
+  combatants through an annex-by-proxy process
+  - are there more notes to this? the point to this idea was to create
+    a means by which allys of the US could help NEC's in the US
+    while technically not aggressing against the US
+    - but without more notes, i can't remember what the rest of this
+      was. ahh adderal...
+  - a federated non-nation would be created internationally that would
+    enable people to petition to declare some land annexed by this
+    non-nation
+    - this is a non-traditionally defined nation: basically a
+      federation of loosely affiliated exclaves
 
 ### International Policy for IAC & NIAC, with respect to Transnationalism
 
@@ -293,6 +312,14 @@ inbound from space and terrestrial pricing of equivalent resources.
         implementations of sovereignty
       - like i said, these kinds of trends take centuries
 
+- complexity of bilateral trade agreements leading to a "deadlock" in
+  ISDS settlements and reduced flexibility in policy.
+  - this leads to a situation similar to early 20th century Europe,
+    where secret agreements between nations led to poorly informed
+    policy decisions
+  - ISDS is complex and leads to a degridation of sovereignty by
+    locking out legislature-directed policy in lieu of policy directed
+    by interests of foreign investors and multinations
 
 ### TransNatl: In the context of Trade/ISDS & Federal Law
 

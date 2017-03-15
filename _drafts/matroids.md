@@ -19,6 +19,15 @@
 - can infinite matroids be reduced to finite matroids?
   - "sparse" matroids? crossed with lattice?
 
+### Dimensionality
+
+- enumeration of simple machines in more than 3 dimensions
+  - i.e. what kinds of simple machines exist in 4D/5D/etc?
+    - there should be more means of transferring/transmuting energy
+      that arise in more complicated spaces
+  - do special & general relativity permit additional types of
+    machines that doen't normally exist in 3D?
+
 ### Theoretical Computer Science
 
 - num of edges maximum, forcing networking maximums for computers
@@ -36,6 +45,13 @@
 - piece together more accurate models of neurological functions based
   on estimated required computing power for each function and
   computation for networking each module together
+- perhaps combine MRI's (SCION, SPECT & fMRI) from millions of people
+  to generalize human problem solving processes
+- and to create a human-derived superintelligence that emerges from
+  the combination of information derived from this MRI technique
+  - i.e. would it be possible to generate AI with fairly advanced
+    cognition by deriving information from the structure of neurons &
+    neural networks
 
 ### Prime Numbers
 

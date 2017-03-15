@@ -263,7 +263,33 @@ mass of each:
 - consistency/frequency of vocal usage amoung species members
 - social & environmental apsects (see below)
 
-- "speciesation" of the anatomic qualities
+- consider the speciation of the anatomic qualities giving rise to
+  particular phonemes.
+  - which phonemes are guaranteed to be "locked in"
+- can the anato-linguistic characteristics of specific species be
+  identified?
+  - compare with a measure of recorded sounds to construct a map
+    dilineating the typology of sounds, 1-grams, 2-grams and n-grams
+  - compute the possibilities of unrealized phonemes per a species
+    anatomy.
+  - compute prospective anaotomical changes with respect to
+    combinations of features altered via genetic mutation
+
+- at what point are the genetic aspects of phonemes preserved?
+  - wouldn't this occur once a species needs to use the phoneme for
+    conveying a particular idea?
+  - applying the inverse of occam's razor, wouldn't the phonemes with
+    the least number of dependencies be the most preservable?
+    - then wouldn't these be the first to achieve the socio-genetic
+      dynamic described above?
+
+- if an existing species is hybridized or genetically
+  engineered to produce an anatomy with a larger, more consistent
+  enumeration of phonemes, will this spark a evolutionary revolution
+  in the minds of members of this species?
+  - if so, parrots seem like a counterpoint to this idea
+
+- rats of nimh...
 
 # social aspects
 

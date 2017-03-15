@@ -29,6 +29,8 @@ note that
 [article](https://www.quantamagazine.org/20160630-how-does-life-come-from-randomness/)
 about self-organizing entropy forming life
 
+- [First 3D image of DNA Packing](https://arstechnica.com/science/2017/03/heres-the-first-3d-glimpse-of-how-dna-is-packaged-up-in-a-single-cell/)
+
 # Mechanisms and Supporting Evidence for Spatially-Distributed State
 
 post-translational modifications, protein signaling and protein
