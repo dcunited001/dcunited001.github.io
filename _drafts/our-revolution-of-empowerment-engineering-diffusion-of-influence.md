@@ -91,9 +91,7 @@ utilitarian, materialistic ideals.
 
 > That's not in the Communist Manifesto or on the
 > [Communism](https://en.wikipedia.org/wiki/Communism) wikipedia page,
-> but it probably should be. Because there'd be fewer leftists coming
-> out of UC Boulder chasing ironically misguided utopion ideals and
-> the world would be better off for it.
+> but it probably should be.
 
 #### N.A.S.A. Gifted ft. Kanye
 
