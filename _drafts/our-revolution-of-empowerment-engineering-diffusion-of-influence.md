@@ -54,6 +54,47 @@ learn at minimal cost with minimal investment. Knowledge is power &
 let's harness that. To manifest this and accelerate our
 transformation, we'll need to utilize a bit of social engineering.
 
+###
+
+Power and the circuits by which influence is transferred in society
+operate in completely different manners in various governmental
+systems. These circuits are like channels over which social and
+financial capital can flow. There are various types of channels and
+types of influence, the accumulation of which is either social or
+financial capital. These circuits of influence can be wisely or poorly
+architected, forming systems of incentivization and motivation for
+citizenry. Hence, they can be designed as sociocultural underpinnings
+to evoke specific virtues, ideals and behaviors within people. Within
+different political and cultural environments, these channels are
+structured and arranged to behave in various ways and can be blocked
+or unavailable, resulting in less than desirable social mobility.
+
+Communism minimizes wealth as a store of social influence by
+design. To the detriment of America, most socialists and marxists do
+not *truly* understand this or its consequences. They make a bargain
+to improve their situation and harness demagoguery to get what they
+want without understanding how it cripples evolutionary mechanisms,
+the quality of life and degrees of freedom in society.
+
+Communism, lacking financial channels for incentivization is thus,
+less equipped for motivating citizenry. Because its mechanics and
+implementation force the supression of competing means of social
+influence (i.e. suppression of religion) it yields a populus less
+capable of fending for itself out of a void of intergenerational
+experience. For communism, the lack of financially incentivized
+behavior magnifies the already burdensom costs of expensive social
+programs. It's full of wishful thinking: that people can be motivated
+through patriotism and Party loyalty alone, especially when those
+ideals are suspect and citizens understand they are swimming in a
+toxic ideology which breeds sociopathic behavior and blindly chases
+utilitarian, materialistic ideals.
+
+> That's not in the Communist Manifesto or on the
+> [Communism](https://en.wikipedia.org/wiki/Communism) wikipedia page,
+> but it probably should be. Because there'd be fewer leftists coming
+> out of UC Boulder chasing ironically misguided utopion ideals and
+> the world would be better off for it.
+
 #### N.A.S.A. Gifted ft. Kanye
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/WZB7yswo6a0" frameborder="0" allowfullscreen></iframe>
@@ -77,178 +118,6 @@ conflict to burden us more?! If we need the best aspects of the human
 condition to inspire us through this next century, should we continue
 to sow the worst seeds of human behavior, fallible at best and
 malevolent when unchecked?
-
-<a name="harnessing-the-congruence-of-the-human-condition" />
-
-<a name="a-philosophical-battle" />
-
-### [A Philosophical Battle](#a-philosophical-battle)
-
-The major battle facing humanity today is philosophical. It may seem
-technological, but it's not. It may seem the most urgent battle is
-with nature or for resources, but it's not! The most crucial battle we
-face in this decade and the next is philosophical: we must conquer
-ourselves. We have to be intimately familiar with understand how
-forces we can't imagine will change our lives. Known unknowns, unknown
-knowns, and most importantly unknown unknowns. Humanity's
-metamorphosis here won't be efficient, so how can we prepare the
-cultures of 2030 to count on the fluid nature of information to stay
-lean and stay agile? Again, this stands in stark contrast to the
-typically slow pace of social engineering projects.
-
-<a name="its-not-my-world-im-just-living-in-it" />
-
-### [It's Not My World. I'm Just Living In It](#its-not-my-world-im-just-living-in-it)
-
-Throughout the ages, people have burdened by artificial limitations
-imposed by their belief systems, which are crafted to unify the
-actions of the masses to some end. Walls are imposed and blocks are
-placed in front of people to compel them towards cooperation towards
-goals, many of which were in place before these individuals were born.
-In most cases, the individual is compelled to choose between
-struggling for their own dreams or giving those up and contributing
-towards some
-[Great](https://en.wikipedia.org/wiki/Magnum_opus_(alchemy))
-[Work](https://en.wikipedia.org/wiki/Great_Work).
-
-This is the struggle between pre-determinism and free will, reified
-into life through esoteric orders who, perhaps selfishly, use
-individuals' lives towards their own ends. To these people, you're a
-pawn in someone else's game, just like everyone else.
-
-![Adjustment Bureau]()
-
-Unless their own dreams mesh with this pre-existing grand plan and they
-receive the blessings of the people around them, then any effort
-towards their own ends is squandered. This is because, if you piss off
-the wrong people, they will place wall after wall in front of you for
-the rest of your life and then laugh at the way you squirm when you
-don't understand why your life is a failure. They will orchestrate
-this by interacting with you like a ship in a bottle and they will
-never admit your strengths or victories and draw attention to your
-failures and there is nothing you can do about it.
-
-In the 21st century, this ends because of the tendancy towards
-omnipresence of information. That is, belief systems themselves will
-tend to decohere, then recongeal into a either a unified belief system
-or a set of belief systems. This doesn't mean older belief systems
-will fade away.
-
-- in aggregate, these artificial walls and blocking mechanisms are
-  incredibly harmful to people and to society.
-  - more about this
-
-# [A Joyful Revolution]
-
-(The primary thesis:) in societies with different governmental
-structures, what motivates people to work hard? In communist societies
-and democratic, free-market societies, how does this differ? This
-question is of utmost importance. In a free-market, democratic system,
-it is a mix of financial and sociocultural incentivization that pushes
-people to acheive more, for themselves and for society. In a communist
-system, its primarily sociocultural. People are motivated through
-social engineering, by which the Party creates values systems that are
-designed to push people towards striving for some collective
-end. These systems created by social engineering are far from perfect,
-vulnerable to subversion and usually idealized by academics blinded by
-their own righteousness.
-
-- They believe that through their knowledge, they have all the
-  answers, but are blind to the truly limited scope of their
-  (knowledge).
-
-<a name="a-cultural-revolution-and-a-cognitive-revolution" />
-
-### [A Cultural Revolution *And* A Cognitive Revolution](#a-cultural-revolution-and-a-cognitive-revolution)
-
-no... not that kind of cultural revolution
-
-- expand on how education empowers individuals and how we can use
-  technology to develop our minds.
-  - We can transform our society through cognitive expansion.
-  - [links to article on directive cognitive expansion]
-- why does this help lift individuals out of poverty/etc?
-  - from a philosophical standpoint, the body is simply a vehicle for
-    the mind.
-    - "equation" for life: spirit*(mind/body) ... i think that was it
-      - to maximize their output from life, one must train the mind to
-        harness their spirit, transcending the limitations imposed by
-        their body. we all share physical limitations, btw (cut?)
-
-
-###
-
-Power and the circuits by which influence is transferred in society
-operate in completely different manners in various governmental
-systems. Communism minimizes wealth as a store of social influence by
-design. To the detriment of America, most socialists and marxists do
-not *truly* understand this or its consequences. They make a bargain
-to improve their situation and harness demagoguery to get what they
-want without understanding how it cripples evolutionary mechanisms,
-the quality of life and degrees of freedom in society. *Ultimately,
-Bolsheviks were deceived into becoming serfs for another master,
-**with fewer options for transcending societal limitations**.*
-
-###
-
-Most of the left that hasn't studied political science, economics or
-philosophy doesn't truly understand the post-revolution mechanics of
-influence in communist and far-left societies. The left claims the
-implementations of marxist and socialist ideas will reprieve the
-burdens of the poverty unto which they were cursed by birth.
-
-There are various strata of leftists, which determines their beliefs
-and course of actions. Some are well-educated and some are
-unfortunately not. Still, socialism and communism appeals to those
-suffering in poverty and looking for someone to help them out. Some on
-the far left very clearly do understand what they are doing to America
-and the world, as obseqious as their tactics might be.
-
-A pure marxist implementation of communism doesn't allow for wealth as
-a means of influence whatsoever. Interest rates are simply too high
-because of the macroeconomic policies used for centrally-planned
-economies, so savings can't be accumulated without tremendous
-sacrifice. This is by design and anyone saving too much is targeted as
-a threat or expected to adhere to the interests of the
-Party. Otherwise, poverty experienced in the developed world can be
-transcended through hard work, virtuous behavior, avoidance of
-destructive behavior, accumulation of savings and education.
-
-###
-
-Communism robs people of the ability to use capital and savings for
-social influence. Just ask anyone who couldn't escape a Soviet
-satellite state. Many people end up in such poverty that they couldn't
-leave if they wanted to: *you cannot save money*. That is not to say
-that free-market democratic societies are perfect. However, if we make
-a hard left, we *will* find ourselves in a hole that is much deeper
-and much harder to climb out.  Communist and far-left nations target
-dissenting citizens to cull threats early and monopolize social
-influence by compelling anyone with power to be "connected" to the
-Party.
-
-The only way to raise yourself in society is through compliance with
-the Party, which installs a cult of personality in lieu of
-religion. Institutions then encourage clever hacks of social mechanics
-as common cultural practices to effectively short-circuit any possible
-resistence, identifying and sorting the most vocal/passitionate
-support. By encouraging carniverous behavior, one disempowers
-resistence, motivates through fear, filters influential positions for
-loyalty and encourages logistic turnover in organizations, which
-ensures no one has a foothold long enough to gain their bearing to
-manifest as a threat to power. It's like musical chairs.
-
-Why did Stalin push for world revolution? Because the economics of
-communism are only sustainable via empire and that's what it is: serfs
-changing one master for another. An advance through Poland and into
-Europe was planned before WW2 because the architects of Soviet
-communism needed to power the services Bolsheviks promised with
-economic expansion. Stalin anticipated resistence from the traditional
-European powers.
-
-> “Education is a weapon, whose effect depends on who holds it in his
-> hands and at whom it is aimed.” -- Stalin, on self-empowerment and
-> trancendant enlightenment of former serfs
 
 #### Examine/Contrast incentivation/influence/values/ethics in democracy and communism
 
@@ -471,6 +340,167 @@ bit more brief)
     individuals in society. therefore, if we can create social
     institutions which enable us to quickly more efficiently educate
     people, then we should
+
+- transition into discussing why this implies our main struggle is
+  philosophical
+
+<a name="a-philosophical-battle" />
+
+### [A Philosophical Battle](#a-philosophical-battle)
+
+The major battle facing humanity today is philosophical. It may seem
+technological, but it's not. It may seem the most urgent battle is
+with nature or for resources, but it's not! The most crucial battle we
+face in this decade and the next is philosophical: we must conquer
+ourselves. We have to be intimately familiar with understand how
+forces we can't imagine will change our lives. Known unknowns, unknown
+knowns, and most importantly unknown unknowns. Humanity's
+metamorphosis here won't be efficient, so how can we prepare the
+cultures of 2030 to count on the fluid nature of information to stay
+lean and stay agile? Again, this stands in stark contrast to the
+typically slow pace of social engineering projects.
+
+<a name="its-not-my-world-im-just-living-in-it" />
+
+### [It's Not My World. I'm Just Living In It](#its-not-my-world-im-just-living-in-it)
+
+Throughout the ages, people have burdened by artificial limitations
+imposed by their belief systems, which are crafted to unify the
+actions of the masses to some end. Walls are imposed and blocks are
+placed in front of people to compel them towards cooperation towards
+goals, many of which were in place before these individuals were born.
+In most cases, the individual is compelled to choose between
+struggling for their own dreams or giving those up and contributing
+towards some
+[Great](https://en.wikipedia.org/wiki/Magnum_opus_(alchemy))
+[Work](https://en.wikipedia.org/wiki/Great_Work).
+
+This is the struggle between pre-determinism and free will, reified
+into life through esoteric orders who, perhaps selfishly, use
+individuals' lives towards their own ends. To these people, you're a
+pawn in someone else's game, just like everyone else.
+
+![Adjustment Bureau]()
+
+Unless their own dreams mesh with this pre-existing grand plan and they
+receive the blessings of the people around them, then any effort
+towards their own ends is squandered. This is because, if you piss off
+the wrong people, they will place wall after wall in front of you for
+the rest of your life and then laugh at the way you squirm when you
+don't understand why your life is a failure. They will orchestrate
+this by interacting with you like a ship in a bottle and they will
+never admit your strengths or victories and draw attention to your
+failures and there is nothing you can do about it.
+
+In the 21st century, this ends because of the tendancy towards
+omnipresence of information. That is, belief systems themselves will
+tend to decohere, then recongeal into a either a unified belief system
+or a set of belief systems. This doesn't mean older belief systems
+will fade away.
+
+- in aggregate, these artificial walls and blocking mechanisms are
+  incredibly harmful to people and to society.
+  - more about this
+
+# [A Joyful Revolution]
+
+(The primary thesis:) in societies with different governmental
+structures, what motivates people to work hard? In communist societies
+and democratic, free-market societies, how does this differ? This
+question is of utmost importance. In a free-market, democratic system,
+it is a mix of financial and sociocultural incentivization that pushes
+people to acheive more, for themselves and for society. In a communist
+system, its primarily sociocultural. People are motivated through
+social engineering, by which the Party creates values systems that are
+designed to push people towards striving for some collective
+end. These systems created by social engineering are far from perfect,
+vulnerable to subversion and usually idealized by academics blinded by
+their own righteousness.
+
+- They believe that through their knowledge, they have all the
+  answers, but are blind to the truly limited scope of their
+  (knowledge).
+
+<a name="a-cultural-revolution-and-a-cognitive-revolution" />
+
+### [A Cultural Revolution *And* A Cognitive Revolution](#a-cultural-revolution-and-a-cognitive-revolution)
+
+no... not that kind of cultural revolution
+
+- expand on how education empowers individuals and how we can use
+  technology to develop our minds.
+  - We can transform our society through cognitive expansion.
+  - [links to article on directive cognitive expansion]
+- why does this help lift individuals out of poverty/etc?
+  - from a philosophical standpoint, the body is simply a vehicle for
+    the mind.
+    - "equation" for life: spirit*(mind/body) ... i think that was it
+      - to maximize their output from life, one must train the mind to
+        harness their spirit, transcending the limitations imposed by
+        their body. we all share physical limitations, btw (cut?)
+
+###
+
+*Ultimately, Bolsheviks were deceived into becoming serfs for another
+master, **with fewer options for transcending societal limitations**.*
+Most of the left that hasn't studied political science, economics or
+philosophy doesn't truly understand the post-revolution mechanics of
+influence in communist and far-left societies. The left claims the
+implementations of marxist and socialist ideas will reprieve the
+burdens of the poverty unto which they were cursed by birth.
+
+There are various strata of leftists, which determines their beliefs
+and course of actions. Some are well-educated and some are
+unfortunately not. Still, socialism and communism appeals to those
+suffering in poverty and looking for someone to help them out. Some on
+the far left very clearly do understand what they are doing to America
+and the world, as obseqious as their tactics might be.
+
+A pure marxist implementation of communism doesn't allow for wealth as
+a means of influence whatsoever. Interest rates are simply too high
+because of the macroeconomic policies used for centrally-planned
+economies, so savings can't be accumulated without tremendous
+sacrifice. This is by design and anyone saving too much is targeted as
+a threat or expected to adhere to the interests of the
+Party. Otherwise, poverty experienced in the developed world can be
+transcended through hard work, virtuous behavior, avoidance of
+destructive behavior, accumulation of savings and education.
+
+###
+
+Communism robs people of the ability to use capital and savings for
+social influence. Just ask anyone who couldn't escape a Soviet
+satellite state. Many people end up in such poverty that they couldn't
+leave if they wanted to: *you cannot save money*. That is not to say
+that free-market democratic societies are perfect. However, if we make
+a hard left, we *will* find ourselves in a hole that is much deeper
+and much harder to climb out.  Communist and far-left nations target
+dissenting citizens to cull threats early and monopolize social
+influence by compelling anyone with power to be "connected" to the
+Party.
+
+The only way to raise yourself in society is through compliance with
+the Party, which installs a cult of personality in lieu of
+religion. Institutions then encourage clever hacks of social mechanics
+as common cultural practices to effectively short-circuit any possible
+resistence, identifying and sorting the most vocal/passitionate
+support. By encouraging carniverous behavior, one disempowers
+resistence, motivates through fear, filters influential positions for
+loyalty and encourages logistic turnover in organizations, which
+ensures no one has a foothold long enough to gain their bearing to
+manifest as a threat to power. It's like musical chairs.
+
+Why did Stalin push for world revolution? Because the economics of
+communism are only sustainable via empire and that's what it is: serfs
+changing one master for another. An advance through Poland and into
+Europe was planned before WW2 because the architects of Soviet
+communism needed to power the services Bolsheviks promised with
+economic expansion. Stalin anticipated resistence from the traditional
+European powers.
+
+> “Education is a weapon, whose effect depends on who holds it in his
+> hands and at whom it is aimed.” -- Stalin, on self-empowerment and
+> trancendant enlightenment of former serfs
 
 ### Addressing Depopulation Conspiracy Theories
 
