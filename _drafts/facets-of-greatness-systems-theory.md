@@ -1,5 +1,5 @@
 ---
-title: "Facets of Greatness: Systems Theory, Incentives and ... Feedback Loops"
+title: "Facets of Greatness: Systems Theory, Incentivizations and Feedback Loops"
 categories: "blog"
 tags: "sociology politics"
 headline: "What kind of person are you? what primarily motivates you?"
@@ -7,17 +7,17 @@ author:
   name: "David Conner"
 excerpt: ""
 ---
-
 Systems Theory is all about feedback loops. It's a powerful, but
 simple science of modeling processes with feedback loops... basically.
 If you know a lot about Systems theory... (you'll know i have almost
 zero knowledge in this subject)
-
 ...
 
 to model processes In business, you'll need to know a bit
 of systems theory to design logistics, reporting, robust inventory and
 processes. Thanks PersonalMBA... That's if you are
+
+- the ability to create the truth moving forward confers great power
 
 
 The measure of a good man is what he decides to do when a friend needs

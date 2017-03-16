@@ -927,7 +927,7 @@ their play style.
 
 The section on Strategy will cover much more, including why you should
 be wary of making your objectives known and how to detect your
-opponents strategies.  For example, in addition to looking at your
+opponents' strategies.  For example, in addition to looking at your
 opponent's actions, it can often prove more useful to look at what
 they are *not* doing.  Specifically, when your opponent is
 intentionally obscuring their intentions, reflecting on the actions

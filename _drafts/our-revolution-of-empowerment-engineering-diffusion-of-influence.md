@@ -13,14 +13,31 @@ excerpt: ""
 > Washington Consensus.... So I'm probably not gonna get this one
 > "word 'cleared'" for appropriate academic vocabulary.
 
+In societies with different governmental structures, what motivates
+people to work hard? In communist societies and democratic,
+free-market societies, how does this differ? This question is of
+utmost importance. In a free-market, democratic system, it is a mix of
+financial and sociocultural incentivization that pushes people to
+acheive more, for themselves and for society. In a communist system,
+its primarily sociocultural. People are motivated through social
+engineering, by which the Party creates values systems that are
+designed to push people towards striving for some collective end.
+These systems created by social engineering are far from perfect,
+vulnerable to subversion and usually idealized by academics blinded by
+their own righteousness. When all you have is a hammer, everthing
+looks like a nail. Social engineers believe that through academic
+ideas, they have all the answers, but are often blind to the truly
+limited scope of their knowledge.
+
 We need a revolution, not just in America, but across the world. There
-isn't a better time for it than now.  However, revolutions can be
+isn't a better time for it than now. However, revolutions can be
 violent or involve large transfers of assets. We don't need any of
 that. War is expensive, in terms of human and financial capital. For
 assets in our economy, both the subversive transition of control and
-the forcible transfer of ownership are expensive. They are morally
-wrong, and a major drain on the economy at a time when we need America
-to be as competitive as possible.
+the forcible transfer of ownership take a toll on productivity and
+economic resilience. They are morally wrong, and a major drain on the
+economy at a time when we need America to be as competitive as
+possible.
 
 <a name="our-revolution-of-empowerment" />
 
@@ -54,6 +71,8 @@ learn at minimal cost with minimal investment. Knowledge is power &
 let's harness that. To manifest this and accelerate our
 transformation, we'll need to utilize a bit of social engineering.
 
+![Populous](/img/posts/revolution-of-empowerment/populous.jpg)
+
 ###
 
 Power and the circuits by which influence is transferred in society
@@ -69,12 +88,15 @@ different political and cultural environments, these channels are
 structured and arranged to behave in various ways and can be blocked
 or unavailable, resulting in less than desirable social mobility.
 
-Communism minimizes wealth as a store of social influence by
-design. To the detriment of America, most socialists and marxists do
-not *truly* understand this or its consequences. They make a bargain
-to improve their situation and harness demagoguery to get what they
-want without understanding how it cripples evolutionary mechanisms,
-the quality of life and degrees of freedom in society.
+Communism minimizes wealth as a store of social influence by design.
+To the detriment of America, most socialists and marxists do not
+*truly* understand this or its consequences. They make a bargain to
+improve their situation and harness demagoguery to get what they want
+in the short-term. They do that without understanding how it cripples
+evolutionary mechanisms for aspects of society, reducing the rate of
+meaningful change and the degrees of freedom in society. It powers its
+services with central banking that inevitably fails, while undermining
+fundamental factors that lead to prosperity.
 
 Communism, lacking financial channels for incentivization is thus,
 less equipped for motivating citizenry. Because its mechanics and
@@ -117,25 +139,29 @@ condition to inspire us through this next century, should we continue
 to sow the worst seeds of human behavior, fallible at best and
 malevolent when unchecked?
 
-#### Examine/Contrast incentivation/influence/values/ethics in democracy and communism
+<a name="contrasting-systems-of-incentivization-and-influence-dispersion" />
 
-- Then, I'll discuss how individuals can "create" influence
-  themselves. Similarly, I'll discuss how families, small groups and
-  communities can work together to do the same
+# [Contrasting Systems of Incentivization and Influence Dispersion](#contrasting-systems-of-incentivization-and-influence-dispersion)
 
-#### creation/diffusion of influence in society (from the bottom up)
+A political ideology's framework or a society's platform for
+incentivization should be paramount in any evaluation of that
+collection of institutions capacity to serve the people. Its ability
+to compel morality, strong character, beneficence and a resilient
+culture are crucial metrics in deciding whether change is needed. The
+framework or platform must serve the people in the short term and the
+long term. If it doesn't compel and incentivize beneficent development
+of the people as strong, vigilant and capable of handling any
+situation, it leaves them vulnerable in the long term.
 
-After comparing those mechanisms for the "creation" and diffusion of
-influence in society, I'll detail how individuals in most every
-society can empower themselves by strengthening those influence
-creation mechanisms => *particularly, education!*
+<a name="the-micro-and-macro-of-influence-dispersion" />
 
-### Study the Flux of Influence on the Macro and Micro Scales
+### [The Micro and Macro of Influence Dispersion](#the-micro-and-macro-of-influence-dispersion)
 
 - how else does influence flow in the micro scale?
   - what do we use it one? we need things (favors, jobs, etc) from
     each other on a small scale.
     - this can be explained in a kind of anarcho-capitalist way
+    - voting with your dollar
   - typically anyone who's building their life upwards is gaining
       influence and power over their circumstances
     - but there are people who squander their money/etc through poor
@@ -143,47 +169,52 @@ creation mechanisms => *particularly, education!*
     - and those who lose their money/influence because of conditions
       outside of their control
 
-### Why are so many people encumbered with problems outside of their control?
+People can influence others in many ways: via direct communication,
+media, creation of ideas, commerce, law, etc. However, the capacity
+for these transactions of influence to take place emerges from the
+structure of the social graph.  The more connected people are the more
+advantaged in this situation. So the size of an individual's 2&#x00B0;
+and 3&#x00B0; neighborhoods in the social graph, their capacity to
+leverage that set of nodes and those nodes' level of influence
+themselves form the basis of valuable metrics of social and financial
+affluence. If we measure this today, we will find that there are many
+people like myself who are socially and financially disempowered. This
+is intentionally so and methodically achieved.
 
-- the question then becomes: why do so many people end up living in
-  situations which are outside of their control or which they believe
-  are outside of their control? *and then: how do we minimize these
-  things?*
-  - what is it that burdens us with problems that require expenditure
-    or time or some other form of influence?
-  - and how can we minimize such things at a micro-scale, so that it
-    makes a difference on a larger scale
+### [The Financial Graph Inherits the Form of the Social Graph](#the-financial-graph-inherits-the-form-of-the-social-graph)
 
-### Applying some of these ideas towards poverty
+To understand how social and financial influence spreads through a
+society, we'll need to be familiar with the structure of the graph
+over which people form connections. The financial graph emerges from
+the social graph, but also compels form to emerge in the social
+graph. There is dualistic interplay determining the base structure in
+both the social and financial graphs. This cyclic interplay resulting
+in emergent form weaves additional channels for influence dispersion
+from sources of financial capital into social capital and vice versa,
+which better serves people who have little of either than a
+party-defined, purely social graph. So, the benefits of free market
+capitalism include variation in the structure of the social graph that
+thus encourages dispersion of capital over channels that wouldn't
+exist in a command driven, communist economy.
 
-- and particularly I'm talking about poverty: how can we focus on
-  cleaning up the kinds of problems which keep people encumbered with
-  poverty?
-  - our most valuable tool here is education.
-    - how do we get people to embrace educational opportunities? how
-      do we prevent gradual aversion of populace to education during
-      our approach towards the singularity?
-    - advances in technology, coupled with changes to society, are the
-      primary reason i'm excited about this
-  - one major tool (which intertwines with education)
-    - cognitive development via the arts.
-      - (expand on cognitive/metacognitive devlepment)
-  - other tools include:
-    - social engineering
-      - institutions, subcultures, common practices, and (?) to focus
-        on building sociological/psychological elements that push
-        towards a common goals of:
-        - interdependence
-        - opportunity
-        - influence creation/diffusion for society on the micro scale:
-          individual/family/local/community
-          - there are many initiatives for doing a lot of this
-      - (e.g. app idea) identify citizens on social media or IRL who are
-        isolated and find out why!
-    - hmmm... others?
+That's one reason communism is its own antithesis: it is an ideology
+that mathematically leaves people less equipped for upwards mobility
+in society. That's not to say that free market capitalism is perfect,
+but social metrics should give us better insight on how to make the
+economy work for the common person again. To start, we can use data
+science to optimize people's accessibility to interacitons with nodes
+on the social graph.
 
-(after completing the main thoughts here, summary above should be a
-bit more brief)
+#### creation/diffusion of influence in society (from the bottom up)
+
+How individuals can generate influence? How can families, small groups
+and communities can connect to benefit from the same.
+
+After comparing those mechanisms for the "creation" and diffusion of
+influence in society, I'll detail how individuals in most every
+society can empower themselves by strengthening those influence
+creation mechanisms => *particularly, education!*
+
 
 - as currency and wealth are really medium of exchange for what
   conveys a liquidity of influence,
@@ -400,24 +431,49 @@ will fade away.
   incredibly harmful to people and to society.
   - more about this
 
-# [A Joyful Revolution]
 
-(The primary thesis:) in societies with different governmental
-structures, what motivates people to work hard? In communist societies
-and democratic, free-market societies, how does this differ? This
-question is of utmost importance. In a free-market, democratic system,
-it is a mix of financial and sociocultural incentivization that pushes
-people to acheive more, for themselves and for society. In a communist
-system, its primarily sociocultural. People are motivated through
-social engineering, by which the Party creates values systems that are
-designed to push people towards striving for some collective
-end. These systems created by social engineering are far from perfect,
-vulnerable to subversion and usually idealized by academics blinded by
-their own righteousness.
+### Why are so many people encumbered with problems outside of their control?
 
-- They believe that through their knowledge, they have all the
-  answers, but are blind to the truly limited scope of their
-  (knowledge).
+- the question then becomes: why do so many people end up living in
+  situations which are outside of their control or which they believe
+  are outside of their control? *and then: how do we minimize these
+  things?*
+  - what is it that burdens us with problems that require expenditure
+    or time or some other form of influence?
+  - and how can we minimize such things at a micro-scale, so that it
+    makes a difference on a larger scale
+
+### Applying some of these ideas towards poverty
+
+- and particularly I'm talking about poverty: how can we focus on
+  cleaning up the kinds of problems which keep people encumbered with
+  poverty?
+  - our most valuable tool here is education.
+    - how do we get people to embrace educational opportunities? how
+      do we prevent gradual aversion of populace to education during
+      our approach towards the singularity?
+    - advances in technology, coupled with changes to society, are the
+      primary reason i'm excited about this
+  - one major tool (which intertwines with education)
+    - cognitive development via the arts.
+      - (expand on cognitive/metacognitive devlepment)
+  - other tools include:
+    - social engineering
+      - institutions, subcultures, common practices, and (?) to focus
+        on building sociological/psychological elements that push
+        towards a common goals of:
+        - interdependence
+        - opportunity
+        - influence creation/diffusion for society on the micro scale:
+          individual/family/local/community
+          - there are many initiatives for doing a lot of this
+      - (e.g. app idea) identify citizens on social media or IRL who are
+        isolated and find out why!
+    - hmmm... others?
+
+(after completing the main thoughts here, summary above should be a
+bit more brief)
+
 
 <a name="a-cultural-revolution-and-a-cognitive-revolution" />
 
