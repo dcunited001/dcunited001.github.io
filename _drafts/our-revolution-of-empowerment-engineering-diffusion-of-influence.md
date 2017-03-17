@@ -57,14 +57,17 @@ metrics are analyzed to ensure our tactics actually improve conditions
 of poverty, and the solutions we implement naturally and actually
 produce positive changes.
 
+### []()
+
 This doesn't start with waiting for someone to get in power. Our
-revolution transcends identity. It doesn't start with the perfect ism
-or the perfect social institutions operating with the perfect doctrine
-and the perfect set of people. Instead, our movement assumes that
-nothing is or can become perfect and entails constant
-self-realization, not just of the individual, but of strata of
-society. It starts with the individual, who once empowered and
-relieved of restraint, can transform the world around themselves.
+revolution transcends identity and we can instead empower ourselves.
+It doesn't start with the perfect ism or the perfect social
+institutions operating with the perfect doctrine and the perfect set
+of people. Instead, our movement assumes that nothing is or can become
+perfect and entails constant self-realization, not just of the
+individual, but of strata of society. It starts with the individual,
+who once empowered and relieved of restraint, can transform the world
+around themselves.
 
 This self-realization requires education. Never in human history have
 we had more tools at their fingertips for our collective
@@ -75,7 +78,7 @@ transformation, we'll need to utilize a bit of social engineering.
 
 ![Populous](/img/posts/revolution-of-empowerment/populous.jpg)
 
-###
+### []()
 
 Power and the circuits by which influence is transferred in society
 operate in completely different manners in various governmental
@@ -90,6 +93,10 @@ different political and cultural environments, these channels are
 structured and arranged to behave in various ways and can be blocked
 or unavailable, resulting in less than desirable social mobility.
 
+<a name="communism-restricts-social-mobility" />
+
+### [Communism Restricts Social Mobility](#communism-restricts-social-mobility)
+
 Communism minimizes wealth as a store of social influence by design.
 To the detriment of America, most socialists and marxists do not
 *truly* understand this or its consequences. They make a bargain to
@@ -99,6 +106,10 @@ evolutionary mechanisms for aspects of society, reducing the rate of
 meaningful change and the degrees of freedom in society. It powers its
 services with central banking that inevitably fails, while undermining
 fundamental factors that lead to prosperity.
+
+<a name="communism-is-less-equiped-to-incentivize-behavior" />
+
+### [Communism is Less Equiped to Incentivize Behavior](#communism-is-less-equiped-to-incentivize-behavior)
 
 Communism, lacking financial channels for incentivization is thus,
 less equipped for motivating citizenry. Because its mechanics and
@@ -191,6 +202,8 @@ affluence. If we measure this today, we will find that there are many
 people like myself who are socially and financially disempowered. This
 is intentionally so and methodically achieved.
 
+<a name="the-financial-graph-inherits-the-form-of-the-social-graph" />
+
 ### [The Financial Graph Inherits the Form of the Social Graph](#the-financial-graph-inherits-the-form-of-the-social-graph)
 
 To understand how social and financial influence spreads through a
@@ -215,13 +228,30 @@ itself is dependent on party ideals, this leaves the people less
 socially free in addition to being economically restricted by low
 savings rates and unpredictable macroeconomic conditions.
 
+<a name="trends-that-strongly-mutate-the-social-graph-can-last-for-generations" />
+
+### [Trends That Strongly Mutate the Social Graph Can Last For Generations](#trends-that-strongly-mutate-the-social-graph-can-last-for-generations)
+
+During traditional revolution, because of transfer of assets,
+disruption and coercive dynamics, the flow, channels and gradient of
+influence become disrupted and trends against the status quo. Once new
+structures congeal in the social and financial graphs, they become
+difficult to reset without unprecendented dynamics and nearly
+impossible to restore. The Party that seizes power will
+surreptitiously employ tactics to disempower opponents and stifle
+reactionary sentiment. They always do so before achieving nominal
+power because the seeds of such political transformations require
+generations.
+
 That's not to say that free market capitalism is perfect,
 but social metrics should give us better insight on how to make the
 economy work for the common person again. To start, we can use data
 science to optimize people's accessibility to interacitons with nodes
 on the social graph.
 
-###
+<a name="the-sociocultural-implementation-of-mathematical-optimization" />
+
+### [The Sociocultural Implementation of Mathematical Optimization](#the-sociocultural-implementation-of-mathematical-optimization)
 
 Free-market capitalist practices are basically the sociocultural
 implementation of mathematical optimization of price, value,
@@ -233,7 +263,10 @@ large region because they will always yield better information than
 the politburo. Both the politburo and the free market have the
 capacity to be abused.
 
-###
+<a
+name="the-graphs-of-command-economies-are-inherently-more-vulnerable" />
+
+### [The Graphs of Command Economies Are Inherently More Vulnerable](#the-graphs-of-command-economies-are-inherently-more-vulnerable)
 
 Aspects of command economies make them inherently supsect,
 economically. The graph structure is less robust and less tested
@@ -255,14 +288,11 @@ aspects of policy and governance are paramount. Information warfare
 tactics are great counters to economic warfare, because they disrupt
 belief, prices and expectations.
 
-  - (need to move the content in this section around. cover basics
-    first, then lead into a new section to distinguish between more
-    specific examples of moving wealth around)
-
 # Liquidity and Flux of Influence of Society
 
 - link to the text book on economic physics
-  - economic analogy to turbulence
+  - economic analogy to physical concept of turbulence
+
 
 - as currency and wealth are really medium of exchange for what
   conveys a liquidity of influence,
