@@ -18,16 +18,19 @@ people to work hard? In communist societies and democratic,
 free-market societies, how does this differ? This question is of
 utmost importance. In a free-market, democratic system, it is a mix of
 financial and sociocultural incentivization that pushes people to
-acheive more, for themselves and for society. In a communist system,
-its primarily sociocultural. People are motivated through social
-engineering, by which the Party creates values systems that are
-designed to push people towards striving for some collective end.
-These systems created by social engineering are far from perfect,
-vulnerable to subversion and usually idealized by academics blinded by
-their own righteousness. When all you have is a hammer, everthing
-looks like a nail. Social engineers believe that through academic
-ideas, they have all the answers, but are often blind to the truly
-limited scope of their knowledge.
+acheive more, for themselves and for society.
+
+In a communist system, the incentivization is primarily
+sociocultural, acheived through social engineering, which exists to a
+lesser extent
+which the Party creates values systems that are designed to push
+people towards striving for some collective end. These systems created
+by social engineering are far from perfect, vulnerable to subversion
+and usually idealized by academics blinded by their own righteousness.
+When all you have is a hammer, everthing looks like a nail. Social
+engineers believe that through academic ideas, they have all the
+answers, but are often blind to the truly limited scope of their
+knowledge.
 
 We need a revolution, not just in America, but across the world. There
 isn't a better time for it than now. However, revolutions can be
@@ -205,7 +208,20 @@ economy work for the common person again. To start, we can use data
 science to optimize people's accessibility to interacitons with nodes
 on the social graph.
 
-#### creation/diffusion of influence in society (from the bottom up)
+Free-market capitalist practices are basically the sociocultural
+implementation of mathematical optimization of price, value,
+geographic dispersion of resources and other factors.
+
+Aspects of command economies make them inherently less economically
+capable. The graph structure is less robust and less tested against
+real economic problems. This later aspect is further exacerbated since
+command economies depend on external stimulation to succeed and the
+global market is [mostly] a free market. Thus, it cannot be so
+predicted and your metrics for anticipation of global economic trends
+are themselves less robust and a vulnerability in the case of economic
+warfare.
+
+### creation/diffusion of influence in society (from the bottom up)
 
 How individuals can generate influence? How can families, small groups
 and communities can connect to benefit from the same.
