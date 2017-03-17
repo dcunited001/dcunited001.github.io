@@ -148,8 +148,10 @@ people are in my life.
 
 - turing network used by neurons to communicate data encoded into
   spectral components of neural spikes?
-- 
-
+- can any program be converted into a probabilistic program that
+  approximates the program?
+- can any combinations of particles in space be represented as a
+  special type of graph?
 
 #### Wherefore [Erdős Number](https://en.wikipedia.org/wiki/Erd%C5%91s_number)? There for nothing?
 
@@ -160,5 +162,3 @@ people are in my life.
 What am I here for, anyways? Why am I tormented for the gifts of
 creativity, intelligence and perseverence? Why does it appear that I'm
 fated for oblivion?
-
-

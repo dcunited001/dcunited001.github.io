@@ -201,7 +201,7 @@ creation mechanisms => *particularly, education!*
 People can influence others in many ways: via direct communication,
 media, creation of ideas, commerce, law, etc. However, the capacity
 for these transactions of influence to take place emerges from the
-structure of the social graph.  The more connected people are the more
+structure of the social graph. The more connected people are the more
 advantaged in this situation. So the size of an individual's 2&#x00B0;
 and 3&#x00B0; neighborhoods in the social graph, their capacity to
 leverage that set of nodes and those nodes' level of influence
@@ -242,10 +242,10 @@ savings rates and unpredictable macroeconomic conditions.
 
 During traditional revolution, because of transfer of assets,
 disruption and coercive dynamics, the flow, channels and gradient of
-influence become disrupted and trends against the status quo. Once new
-structures congeal in the social and financial graphs, they become
-difficult to reset without unprecendented dynamics and nearly
-impossible to restore. The Party that seizes power will
+influence become disrupted. This confluence always trends against the
+status quo. Once new structures congeal in the social and financial
+graphs, they become difficult to reset without unprecendented dynamics
+and nearly impossible to restore. The Party that seizes power will
 surreptitiously employ tactics to disempower opponents and stifle
 reactionary sentiment. They always do so before achieving nominal
 power because the seeds of such political transformations require
@@ -265,12 +265,11 @@ Free-market capitalist practices are basically the sociocultural
 implementation of mathematical optimization of price, value,
 geographic dispersion of resources and other factors. Free market
 economics provide more efficient groupings of resources and people
-that enables more accurate optimization, a result of
-competition. Machine learning algorithms are essentially competition
-between various groupings of analytical solutions to a problem. Each
-economic entity's product is like it's version of a solution for
-demand which competes against other products and processes to optimize
-price.
+that enables more accurate optimization, a result of competition.
+Machine learning algorithms are essentially competition between
+various groupings of analytical solutions to a problem. Each economic
+entity's product is like it's version of a solution for demand which
+competes against other products and processes to optimize price.
 
 These capitalist practices can be abused, which also disrupts the
 capacity of the social graph for dispersion of wealth and
@@ -283,8 +282,7 @@ power finds itself in the hands of fewer people.
 
 <a name="the-graphs-of-command-economies-are-inherently-more-vulnerable" />
 
-### [The Graphs of Command Economies Are Inherently More Vulnerable](#the-graphs-of-command-economies-are-inherently-more-vulnerable)
-
+### [The Graphs of Command Economies Are Inherently More Vulnerable](#the-graphs-of-command-economies-are-inherently-more-
 Aspects of command economies make them inherently supsect,
 economically. The graph structure is less robust and less tested
 against real economic problems. This later aspect is further
@@ -332,7 +330,7 @@ person's wages than in capitalist systems that preserve the middle
 class. If wealth drives influence in capitalist systems, then
 restriction of wealth to a small segment of communist society means
 that region's citizens likely have less influence over their
-circumstances. This leads
+circumstances. This leads... (to wot?)
 
 Diffusion of influence is more tightly constrained in communist or
 socialist societies by design. This is required for social engineering
@@ -351,59 +349,65 @@ for private individuals to confer influence. By design, this tight
 constraint on influence diffusion keeps people in line, magnified by
 the groupthink results from tightly controlled social hierarchies. The
 groupthink and us-versus-everyone-else mentality tends towards pushing
-out minority opinions and ethnic groups, instead of including
-them. They are instead used as a tool to further the agenda of the
-movement, but because communism always results in strong, central
-authority, social and ethnic minority groups suffer in the end.
+out minority opinions and ethnic groups, instead of including them.
+They are instead used as a tool to further the agenda of the movement,
+but because communism always results in strong, central authority,
+social and ethnic minority groups suffer in the end.
 
+- if influence exchanges (via wealth, role, or otherwise) could
+  be mapped out in a graph for democratic and communist systems
+  - for both, are the nodes in the graph would be defined by the
+    hierarchical organizations of business, government, party and
+    family/social institutions
+    - the ways in which influence is exchanged in communist countries
+      more closely aligns with the hierarchical structures of nodes in
+      the social graph.
+      - influence is more likely to be exchanged with local nodes
+        in the hierarchy
+        - there would less edges connecting nodes across hierarchies
+          for organizations and especially moving upwards in society.
+      - this means it's harder for someone to work their way up in a
+          country like this.
+        - obviously one of the main ideas of communism is to
+          empower the poor and the hardest working..
+        - *but i'd love to talk with someone who's studied this
+          precise topic in political theory: how easy is it to
+          move upwards in society and how does that differ in
+          implementations of these two systems*
 
+- in democratic countries, because people are more free to design
+  their own hierarchical structures, intermix b/w them, communicate
+  freely, etc
+  - then upward motion in society here is very much dependent on
+    starting conditions, especially with regard to education and
+    wealth
+    - but again, this system also has mechanisms in place to
+      ensure that we have opportunities for all
+      - or it should, at least
+      - the graph here would edges allowing influence to diffuse
+        more freely across society,
+        - however, because some groups accumulate significantly
+          more wealth than others, this allows people to exert
+          more control on the system as a whole
+          - but IMO property rights are crucial. if your system
+            doesn't protect property rights, it's not for me. it
+            might work in other places....
+            - i want to be motivated by what i can attain and i
+              want others to have the same. however, i'm motivated
+              by what i can attain to use for others' benefit.
+              that is, ultimately. as of now, i don't have
+              resources
 
-      - if influence exchanges (via wealth, role, or otherwise) could
-        be mapped out in a graph for democratic and communist systems
-        - for both, are the nodes in the graph would be defined by the
-            hierarchical organizations of business, government, party
-            and family/social institutions
-        - the ways in which influence is exchanged in communist
-          countries more closely aligns with the hierarchical
-          structures of nodes.
-          - influence is more likely to be exchanged with local nodes
-            in the hierarchy
-          - there would less edges connecting nodes across hierarchies
-            for organizations and especially moving upwards in
-            society.
-            - this should mean it can be a bit harder for someone to
-              work their way up in a country like this.
-              - obviously one of the main ideas of communism is to
-                empower the poor and the hardest working..
-                - *but i'd love to talk with someone who's studied this
-                  precise topic in political theory: how easy is it to
-                  move upwards in society and how does that differ in
-                  implementations of these two systems*
-        - in democratic countries, because people are more free to
-          design their own hierarchical structures, intermix b/w
-          them, communicate freely, etc
-          - then upward motion in society here is very much dependent on
-            starting conditions, especially with regard to education
-            and wealth
-            - but again, this system also has mechanisms in place to
-              ensure that we have opportunities for all
-              - or it should, at least
-          - the graph here would edges allowing influence to diffuse
-            more freely across society,
-            - however, because some groups accumulate significantly
-              more wealth than others, this allows people to exert
-              more control on the system as a whole
-              - but IMO property rights are crucial. if your system
-                doesn't protect property rights, it's not for me. it
-                might work in other places....
-                - i want to be motivated by what i can attain and i
-                  want others to have the same. however, i'm motivated
-                  by what i can attain to use for others' benefit.
-                  that is, ultimately. as of now, i don't have
-                  resources
+- local/global phase transitions and eigenstates in a social or
+  financial graph.
+  - this results in hyperdymensional emergent phenomena
+    - including social ills and mental illness
 
 - hierarchical structures & specialzation role (wtf??)
   - ughhh this was a more complete idea....
+
+- rewite section on speciation of roles
+  - where did this section go?
 
 - anyways, the structures by which a society enables/controls the
   diffusion of influence lay the foundation for incentivization in
@@ -422,9 +426,29 @@ authority, social and ethnic minority groups suffer in the end.
       - this includes goals and dreams like those sold to us in
         advertising and via culture
 
-- even though communism often lacks true property rights and thus,
-  it can be hard to truly own something and control it completely or
-  sell it
+In democracy and free market systems, social networks are free to form
+around issues in society and pragmattically around the solutions to
+them. This phenomenon, the tendancy of the social graph to be formed
+in line with ideals varies along a continuum stretches from democracy,
+socialism, communism and authoritariansm. In authoritarian and
+communist systems, the social graph mirrors some ideals that are
+forced on people. Socialism requires less government mediated
+structure and graph influence than communism, but more than
+free-market systems.
+
+There's another side to this continuum along the level of the
+government influence in and on the social graph, the extremes of which
+would include anarchism. However, almost any government interference
+affects the quality of economic/financial signal coming from
+markets. Additional influence on the social graph and its behavior
+will further tend to mask true trends in price, value and
+demand. Particularly interesting is the effect of belief of
+participants in shifting the social fabric.
+
+
+
+- communism often lacks true property rights and thus, it can be hard
+  to truly own something and control it completely or sell it
   - further, if you are permitted to sell real-estate and other assets
     on their more controlled market, then, since the gov't controls
     exchange of most assets on the market, they really have the
@@ -456,6 +480,7 @@ authority, social and ethnic minority groups suffer in the end.
         - you can't really "vote with your dollar" in a communist
           system. this yet another reason its citizens are left *more
           disempowered* than in free market systems
+
   - at the end of the day, we've exchanged diffusion of influence via
     $$$ for diffusion via hierarchical social institutions (kinda
     repeat of above)
@@ -675,7 +700,7 @@ European powers.
 > hands and at whom it is aimed.” -- Stalin, on self-empowerment and
 > trancendant enlightenment of former serfs
 
-### Addressing Depopulation Conspiracy Theories
+### (Addressing Depopulation Conspiracy Theories)
 
 (Or... why this is really dumb, yet actually kind of a real thing)
 - (hmmm i should just skip the discussion and get straight ot the
@@ -815,8 +840,6 @@ basically, the question is:
   apart with war and spent their resources applying that higher
   population's energy towards building solutions to prepare humanity
   for the 22nd century?
-
-
 
 ### quantifying social mobility
 
