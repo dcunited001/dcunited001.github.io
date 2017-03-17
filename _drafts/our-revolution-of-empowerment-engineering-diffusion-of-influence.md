@@ -57,7 +57,9 @@ metrics are analyzed to ensure our tactics actually improve conditions
 of poverty, and the solutions we implement naturally and actually
 produce positive changes.
 
-### []()
+<a name="why-wait-for-someone-to-get-in-power-when-change-emerges-from-the-individual" />
+
+### [Why Wait For Someone To Get In Power When Change Emerges from the Individual?](#why-wait-for-someone-to-get-in-power-when-change-emerges-from-the-individual)
 
 This doesn't start with waiting for someone to get in power. Our
 revolution transcends identity and we can instead empower ourselves.
@@ -78,20 +80,24 @@ transformation, we'll need to utilize a bit of social engineering.
 
 ![Populous](/img/posts/revolution-of-empowerment/populous.jpg)
 
-### []()
+<a name="social-and-financial-connections-are-circuits-of-influence" />
+
+### [Social and Financial Connections Form Circuits Of Influence](#social-and-financial-connections-form-circuits-of-influence)
 
 Power and the circuits by which influence is transferred in society
 operate in completely different manners in various governmental
 systems. These circuits are like channels over which social and
 financial capital can flow. There are various types of channels and
 types of influence, the accumulation of which is either social or
-financial capital. These circuits of influence can be wisely or poorly
-architected, forming systems of incentivization and motivation for
-citizenry. Hence, they can be designed as sociocultural underpinnings
-to evoke specific virtues, ideals and behaviors within people. Within
-different political and cultural environments, these channels are
-structured and arranged to behave in various ways and can be blocked
-or unavailable, resulting in less than desirable social mobility.
+financial capital.
+
+These circuits of influence can be wisely or poorly architected,
+forming systems of incentivization and motivation for citizenry.
+Hence, they can be designed as sociocultural underpinnings to evoke
+specific virtues, ideals and behaviors within people. Within different
+political and cultural environments, these channels are structured and
+arranged to behave in various ways and can be blocked or unavailable,
+resulting in less than desirable social mobility.
 
 <a name="communism-restricts-social-mobility" />
 
@@ -136,7 +142,7 @@ utilitarian, materialistic ideals.
 
 ### [Turn Inwards And Conquer Inner Space](#turn-inwards-and-conquer-inner-space)
 
-Instead of adopting the ideals of some ism or blaming our problems on
+Instead of adopting the ideals of some 'ism or blaming our problems on
 something external, we will turn inwards for our revolution. We will
 conquer inner space, starting from the individual, rather than to seek
 solutions outside. We need to conquer the negativity in our hearts
@@ -170,8 +176,10 @@ situation, it leaves them vulnerable in the long term.
 
 ### [The Micro and Macro of Influence Dispersion](#the-micro-and-macro-of-influence-dispersion)
 
-How individuals can generate influence? How can families, small groups
-and communities can connect to benefit from the same.
+How individuals can generate influence?
+
+- How can families, small groups and communities can connect to
+  benefit from the same.
 
 After comparing those mechanisms for the "creation" and diffusion of
 influence in society, I'll detail how individuals in most every
@@ -255,16 +263,25 @@ on the social graph.
 
 Free-market capitalist practices are basically the sociocultural
 implementation of mathematical optimization of price, value,
-geographic dispersion of resources and other factors. These capitalist
-practices can be abused, which also disrupts the capacity of the
-social graph for dispersion of wealth and influence. However, they are
-useful as a natural tool for optimizing the economics of a small or
-large region because they will always yield better information than
-the politburo. Both the politburo and the free market have the
-capacity to be abused.
+geographic dispersion of resources and other factors. Free market
+economics provide more efficient groupings of resources and people
+that enables more accurate optimization, a result of
+competition. Machine learning algorithms are essentially competition
+between various groupings of analytical solutions to a problem. Each
+economic entity's product is like it's version of a solution for
+demand which competes against other products and processes to optimize
+price.
 
-<a
-name="the-graphs-of-command-economies-are-inherently-more-vulnerable" />
+These capitalist practices can be abused, which also disrupts the
+capacity of the social graph for dispersion of wealth and
+influence. However, they are useful as a natural tool for optimizing
+the economics of a small or large region because they will always
+yield better information than the politburo. Both the politburo and
+the free market have the capacity to be abused, but eliminating the
+use of the market in pricing goods results in economic harm. More
+power finds itself in the hands of fewer people.
+
+<a name="the-graphs-of-command-economies-are-inherently-more-vulnerable" />
 
 ### [The Graphs of Command Economies Are Inherently More Vulnerable](#the-graphs-of-command-economies-are-inherently-more-vulnerable)
 
@@ -288,42 +305,58 @@ aspects of policy and governance are paramount. Information warfare
 tactics are great counters to economic warfare, because they disrupt
 belief, prices and expectations.
 
-# Liquidity and Flux of Influence of Society
+<a name="liquidity-and-flux-of-influence-in-society" />
+
+# [Liquidity and Flux of Influence In Society](#liquidity-and-flux-of-influence-in-society)
 
 - link to the text book on economic physics
   - economic analogy to physical concept of turbulence
 
+The financial equivalents of social influence, currency and wealth are
+really a medium of exchange for what conveys liquidity of influence.
+And so, ultimately, the question comes down to how does each system of
+governance and each society structure its mechanisms for diffusion of
+influence, both social and finacial, and how do those systems of
+influence dispersion interact?
 
-- as currency and wealth are really medium of exchange for what
-  conveys a liquidity of influence,
-  - then ultimately the question comes down to how does each system of
-    governance and each society structure its mechanisms for
-    diffusion of influence
-    - basically, how does one acquire or dispense or accumulate
-      influence in a particular society or type of government
-      - this ends up being very different in each kind of system
-      - easier to accumulate influence in capitalist societies because
-        you can accumulate physical wealth converring influence
-        - in communist command economies, it's difficult for one to
-          accumulate wealth because taxes are very high,
-          - private savings rates would usually be low (i think?)
-            - expenses should usually be a higher proportion of
-              someone's wages than in capitalist systems.
-              - this isn't true when we lose the middle class
-            - if wealth drives influence in capitalist systems, then
-              restriction of wealth to a small segment of society
-              means that region's citizens likely have less influence
-              than they should
+For a particular society or type of government, how does one acquire,
+dispense, or accumulate influence? This ends up being very different
+in each kind of system, but it's easier to accumulate influence in
+capitalist societies because you can accumulate physical wealth
+conferring a store of generalized influence.
 
-      - diffusion of influence is more tightly constrained in
-        communist or socialist societies
-        - this is restricted by rigid hierachies and party dominance
-        - communication can be more heavily restricted. it's the norm
-          instead of the exception, especially higher up the hierarchy
-        - therefore it's more difficult for private individuals to
-          confer influence
-        - By design, this tight constraint on influence diffusion
-          keeps people in line
+In communist command economies, it's difficult for one to accumulate
+wealth because taxes are very high, tending towards very low private
+savings rates. Expenses are then a higher proportion of the average
+person's wages than in capitalist systems that preserve the middle
+class. If wealth drives influence in capitalist systems, then
+restriction of wealth to a small segment of communist society means
+that region's citizens likely have less influence over their
+circumstances. This leads
+
+Diffusion of influence is more tightly constrained in communist or
+socialist societies by design. This is required for social engineering
+to affect behavior. The people can only influence their local
+cirumstances through social means and because influence diffusion is
+restricted to rigid hierachies, the people's only means of
+accumulating power is itself also more restricted. Further, under
+party dominance, communication over any channel is more heavily
+restricted. It's the norm instead of the exception, especially higher
+up the hierarchy where people are entrusted with power. If you don't
+conform, then the system strongly prefers you to be
+disempowered.
+
+These factors increase societal friction and reduce social mobility
+for private individuals to confer influence. By design, this tight
+constraint on influence diffusion keeps people in line, magnified by
+the groupthink results from tightly controlled social hierarchies. The
+groupthink and us-versus-everyone-else mentality tends towards pushing
+out minority opinions and ethnic groups, instead of including
+them. They are instead used as a tool to further the agenda of the
+movement, but because communism always results in strong, central
+authority, social and ethnic minority groups suffer in the end.
+
+
 
       - if influence exchanges (via wealth, role, or otherwise) could
         be mapped out in a graph for democratic and communist systems
@@ -448,6 +481,13 @@ belief, prices and expectations.
     individuals in society. therefore, if we can create social
     institutions which enable us to quickly more efficiently educate
     people, then we should
+
+- and if influence emerges from the bottom up, then it's advantageous
+  to leverage and exclusivize influence over subgroups of people.
+  - we all have people who influence us. Those who are subject to
+    larger, more dispersed networks are subject to more
+    influences. There is disparity in the level of influence from
+    specific nodes to subgroups and individuals.
 
 - transition into discussing why this implies our main struggle is
   philosophical
