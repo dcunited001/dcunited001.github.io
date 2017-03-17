@@ -20,9 +20,8 @@ utmost importance. In a free-market, democratic system, it is a mix of
 financial and sociocultural incentivization that pushes people to
 acheive more, for themselves and for society.
 
-In a communist system, the incentivization is primarily
-sociocultural, acheived through social engineering, which exists to a
-lesser extent
+In a communist system, the incentivization is primarily sociocultural,
+acheived through social engineering, which exists to a lesser extent
 which the Party creates values systems that are designed to push
 people towards striving for some collective end. These systems created
 by social engineering are far from perfect, vulnerable to subversion
@@ -160,6 +159,14 @@ situation, it leaves them vulnerable in the long term.
 
 ### [The Micro and Macro of Influence Dispersion](#the-micro-and-macro-of-influence-dispersion)
 
+How individuals can generate influence? How can families, small groups
+and communities can connect to benefit from the same.
+
+After comparing those mechanisms for the "creation" and diffusion of
+influence in society, I'll detail how individuals in most every
+society can empower themselves by strengthening those influence
+creation mechanisms => *particularly, education!*
+
 - how else does influence flow in the micro scale?
   - what do we use it one? we need things (favors, jobs, etc) from
     each other on a small scale.
@@ -202,41 +209,63 @@ exist in a command driven, communist economy.
 
 That's one reason communism is its own antithesis: it is an ideology
 that mathematically leaves people less equipped for upwards mobility
-in society. That's not to say that free market capitalism is perfect,
+in society. Also, both communism's social and financial graph
+structures converge towards party ideals. Because the social graph
+itself is dependent on party ideals, this leaves the people less
+socially free in addition to being economically restricted by low
+savings rates and unpredictable macroeconomic conditions.
+
+That's not to say that free market capitalism is perfect,
 but social metrics should give us better insight on how to make the
 economy work for the common person again. To start, we can use data
 science to optimize people's accessibility to interacitons with nodes
 on the social graph.
 
+###
+
 Free-market capitalist practices are basically the sociocultural
 implementation of mathematical optimization of price, value,
-geographic dispersion of resources and other factors.
+geographic dispersion of resources and other factors. These capitalist
+practices can be abused, which also disrupts the capacity of the
+social graph for dispersion of wealth and influence. However, they are
+useful as a natural tool for optimizing the economics of a small or
+large region because they will always yield better information than
+the politburo. Both the politburo and the free market have the
+capacity to be abused.
 
-Aspects of command economies make them inherently less economically
-capable. The graph structure is less robust and less tested against
-real economic problems. This later aspect is further exacerbated since
-command economies depend on external stimulation to succeed and the
-global market is [mostly] a free market. Thus, it cannot be so
-predicted and your metrics for anticipation of global economic trends
-are themselves less robust and a vulnerability in the case of economic
-warfare.
+###
 
-### creation/diffusion of influence in society (from the bottom up)
+Aspects of command economies make them inherently supsect,
+economically. The graph structure is less robust and less tested
+against real economic problems. This later aspect is further
+exacerbated since command economies depend on external stimulation to
+succeed and the global market is [mostly] a free market. Thus, it
+cannot be so predicted. The tightly structured economic graph with
+fewer nodes mitigites meaningful signal from the economy and its own
+markets are thus inherently less capable of pricing goods
+accurately. Metrics for anticipation of global economic trends are
+themselves less robust and so are a vulnerability in the case of
+economic warfare. Because of their susceptibility to global economics
+and because their internal economics are not-optimally valued, then
+pure command economies and restricted or poorly structured markets
+fail.
 
-How individuals can generate influence? How can families, small groups
-and communities can connect to benefit from the same.
+Today in the age of economic and information warfare, the economic
+aspects of policy and governance are paramount. Information warfare
+tactics are great counters to economic warfare, because they disrupt
+belief, prices and expectations.
 
-After comparing those mechanisms for the "creation" and diffusion of
-influence in society, I'll detail how individuals in most every
-society can empower themselves by strengthening those influence
-creation mechanisms => *particularly, education!*
-
-
-- as currency and wealth are really medium of exchange for what
-  conveys a liquidity of influence,
   - (need to move the content in this section around. cover basics
     first, then lead into a new section to distinguish between more
     specific examples of moving wealth around)
+
+# Liquidity and Flux of Influence of Society
+
+- link to the text book on economic physics
+  - economic analogy to turbulence
+
+- as currency and wealth are really medium of exchange for what
+  conveys a liquidity of influence,
   - then ultimately the question comes down to how does each system of
     governance and each society structure its mechanisms for
     diffusion of influence
@@ -255,6 +284,7 @@ creation mechanisms => *particularly, education!*
               restriction of wealth to a small segment of society
               means that region's citizens likely have less influence
               than they should
+
       - diffusion of influence is more tightly constrained in
         communist or socialist societies
         - this is restricted by rigid hierachies and party dominance
@@ -262,6 +292,9 @@ creation mechanisms => *particularly, education!*
           instead of the exception, especially higher up the hierarchy
         - therefore it's more difficult for private individuals to
           confer influence
+        - By design, this tight constraint on influence diffusion
+          keeps people in line
+
       - if influence exchanges (via wealth, role, or otherwise) could
         be mapped out in a graph for democratic and communist systems
         - for both, are the nodes in the graph would be defined by the
