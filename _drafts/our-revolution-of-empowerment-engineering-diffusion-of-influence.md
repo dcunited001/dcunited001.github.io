@@ -182,7 +182,9 @@ How individuals can generate influence?
   benefit from the same.
 
 After comparing those mechanisms for the "creation" and diffusion of
-influence in society, I'll detail how individuals in most every
+influence in society, I'll
+
+- detail how individuals in most every
 society can empower themselves by strengthening those influence
 creation mechanisms => *particularly, education!*
 
@@ -382,10 +384,7 @@ graph theory.
 
 <a name="liquidity-and-flux-of-influence-in-society" />
 
-# [Liquidity and Flux of Influence In Society](#liquidity-and-flux-of-influence-in-society)
-
-- link to the text book on economic physics
-  - economic analogy to physical concept of turbulence
+# [Liquidity and Flux of Influence In Societies](#liquidity-and-flux-of-influence-in-societies)
 
 The financial equivalents of social influence, currency and wealth are
 really a medium of exchange for what conveys liquidity of influence.
@@ -394,11 +393,17 @@ governance and each society structure its mechanisms for diffusion of
 influence, both social and finacial, and how do those systems of
 influence dispersion interact?
 
+### [Influence Behaves Very Differently In Various Societies](#influence-behaves-very-differently-in-various-societies)
+
 For a particular society or type of government, how does one acquire,
 dispense, or accumulate influence? This ends up being very different
 in each kind of system, but it's easier to accumulate influence in
 capitalist societies because you can accumulate physical wealth
 conferring a store of generalized influence.
+
+<a name="low-savings-rates-strongly-constrain-diffusion-of-influence-to-the-people" />
+
+### [Low Savings Rates Strongly Constrain Diffusion of Influence to the People](low-savings-rates-strongly-constrain-diffusion-of-influence-to-the-people)
 
 In communist command economies, it's difficult for one to accumulate
 wealth because taxes are very high, tending towards very low private
@@ -409,6 +414,10 @@ restriction of wealth to a small segment of communist society means
 that region's citizens likely have less influence over their
 circumstances. This leads... (to wot?)
 
+<a name="the-use-of-social-engineering-in-command-economies-constrains-influence-to-ideals" />
+
+### [The Use of Social Engineering in Command Economies Constraints Influence to Ideals](#the-use-of-social-engineering-in-command-economies-constrains-influence-to-ideals)
+
 Diffusion of influence is more tightly constrained in communist or
 socialist societies by design. This is required for social engineering
 to affect behavior. The people can only influence their local
@@ -418,8 +427,13 @@ accumulating power is itself also more restricted. Further, under
 party dominance, communication over any channel is more heavily
 restricted. It's the norm instead of the exception, especially higher
 up the hierarchy where people are entrusted with power. If you don't
-conform, then the system strongly prefers you to be
-disempowered.
+conform, then the system strongly prefers you to be disempowered, if
+not for the system's self-preservation then at least for advancement
+of its goals.
+
+<a name="constraints-to-influence-diffusion-are-further-constrained-by-groupthink" />
+
+### [Constraints to Influence Diffusion are Further Contrained by Groupthink](#constraints-to-influence-diffusion-are-further-constrained-by-groupthink)
 
 These factors increase societal friction and reduce social mobility
 for private individuals to confer influence. By design, this tight
