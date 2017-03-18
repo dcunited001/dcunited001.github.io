@@ -236,6 +236,31 @@ itself is dependent on party ideals, this leaves the people less
 socially free in addition to being economically restricted by low
 savings rates and unpredictable macroeconomic conditions.
 
+<a name=in-the-free-market-entities-coalesce-around-efficient-and-value-creating-solutions" />
+
+### [In the Free Market, Entities Coalesce Around Efficient And Value-Creating Solutions](#in-the-free-market-entities-coalesce-around-efficient-and-value-creating-solutions)
+
+In democracy and free market systems, social networks are free to form
+around issues in society, and end up more pragmattically shaped around
+the solutions to them. This general phenomenon, the tendancy of the
+social graph to be formed in line with ideals varies along a continuum
+stretches from democracy, socialism, communism and authoritariansm. In
+authoritarian and communist systems, the social graph mirrors some
+ideals that are forced on people. Socialism requires less government
+mediated structure and graph influence than communism, but more than
+free-market systems. Once the social graph and especially the
+financial graph incur significant changes, this is incredibly hard to
+undo.
+
+The other side to this continuum along the level of the government
+influence in and on the social graph, the extremes of which would
+include anarchism. However, almost any government interference affects
+the quality of economic/financial signal coming from
+markets. Additional influence on the social graph and its behavior
+will further tend to mask true trends in price, value and
+demand. Particularly interesting is the effect of belief of
+participants in shifting the social fabric.
+
 <a name="trends-that-strongly-mutate-the-social-graph-can-last-for-generations" />
 
 ### [Trends That Strongly Mutate the Social Graph Can Last For Generations](#trends-that-strongly-mutate-the-social-graph-can-last-for-generations)
@@ -282,7 +307,8 @@ power finds itself in the hands of fewer people.
 
 <a name="the-graphs-of-command-economies-are-inherently-more-vulnerable" />
 
-### [The Graphs of Command Economies Are Inherently More Vulnerable](#the-graphs-of-command-economies-are-inherently-more-
+### [The Graphs of Command Economies Are Inherently More Vulnerable](#the-graphs-of-command-economies-are-inherently-more-vulnerable)
+
 Aspects of command economies make them inherently supsect,
 economically. The graph structure is less robust and less tested
 against real economic problems. This later aspect is further
@@ -302,6 +328,57 @@ Today in the age of economic and information warfare, the economic
 aspects of policy and governance are paramount. Information warfare
 tactics are great counters to economic warfare, because they disrupt
 belief, prices and expectations.
+
+<a name="free-market-systems-are-lean-with-flexible-evolutionary-dynamics" />
+
+### [Free Market Systems Are Lean With Flexible Evolutionary Dynamics](#free-market-systems-are-lean-with-flexible-evolutionary-dynamics)
+
+Because the graphs of free-market systems have forms dependent on
+pragmatism and are motivated by winning through market competion, this
+augments your system's ability to quickly adapt to shifts, both
+microeconomic and macroeconomic. This is because entities acting
+across the financial graph are free to reshape them as necessity and
+trends dictate. They are not limited in form by tight coupling to
+ideology. Therefore, businesses, consumers and etc are free to reshape
+themselves as they need, resulting in type-speciation of roles and
+behaviors in each businesses and consumers. This type-speciation is
+what tends towards quick and dynamic evolution to capture global
+economic demand early.
+
+<a name="when-hyper-connected-the-metaphysical-becomes-increasingly-relevant" />
+
+### [When Hyper-Connected, the Metaphysical Becomes Increasingly Relevant](#when-hyper-connected-the-metaphysical-becomes-increasingly-relevant)
+
+Technology and hyper-connectedness trend towards accelerating
+manisfestation of the metaphysical in the physical world. Therefore,
+our world is more likely to become shaped by beliefs, belief systems
+and epimemetic systems faster because of its hyperconnected nature and
+the exponential rates of information transfer, accumulation and
+dispersion.
+
+<a name="inherently-predispositioned-to-developing-weak-economic-fundamentals" />
+
+### [Inherently Predispositioned to Developing Weak Economic Fundamenals](#inherently-predispositioned-to-developing-weak-economic-fundamentals)
+
+Socialism and particularly communism lead to dramatic shifts in the
+social and financial graphs that undermine the fundamentals of
+prosperity. This flaw to shift towards a fundamentally weaker system
+is inherent in the ideology. Therefore, those who adapt to this are
+hurting American economic interests at the most critical time of
+innovation in history. These weaker system also accumulates wasted
+economic output over time. Many of this ideas are difficult to
+understand or completely missed without a perspective augmented by
+graph theory.
+
+#### Economic Turbulence, a Low-Dimensional Metaphor for Wasted Economic Energy
+
+![Economic Turbulence](/img/posts/revolution-of-empowerment/turbulence.jpg)
+
+#### Econophysics Resources:
+
+#### &#x2605; [A Guided Walk Down Wall Street: an Introduction to Econophysics](https://arxiv.org/abs/cond-mat/0408143)
+
+#### &#x2605; [An Introduction to Econophysics: Correlations and Complexity in Finance](http://dx.doi.org/10.1063/1.1341926)
 
 <a name="liquidity-and-flux-of-influence-in-society" />
 
@@ -406,9 +483,6 @@ social and ethnic minority groups suffer in the end.
 - hierarchical structures & specialzation role (wtf??)
   - ughhh this was a more complete idea....
 
-- rewite section on speciation of roles
-  - where did this section go?
-
 - anyways, the structures by which a society enables/controls the
   diffusion of influence lay the foundation for incentivization in
   society
@@ -426,26 +500,8 @@ social and ethnic minority groups suffer in the end.
       - this includes goals and dreams like those sold to us in
         advertising and via culture
 
-In democracy and free market systems, social networks are free to form
-around issues in society and pragmattically around the solutions to
-them. This phenomenon, the tendancy of the social graph to be formed
-in line with ideals varies along a continuum stretches from democracy,
-socialism, communism and authoritariansm. In authoritarian and
-communist systems, the social graph mirrors some ideals that are
-forced on people. Socialism requires less government mediated
-structure and graph influence than communism, but more than
-free-market systems.
 
-There's another side to this continuum along the level of the
-government influence in and on the social graph, the extremes of which
-would include anarchism. However, almost any government interference
-affects the quality of economic/financial signal coming from
-markets. Additional influence on the social graph and its behavior
-will further tend to mask true trends in price, value and
-demand. Particularly interesting is the effect of belief of
-participants in shifting the social fabric.
-
-
+### (Property Rights)
 
 - communism often lacks true property rights and thus, it can be hard
   to truly own something and control it completely or sell it
@@ -457,6 +513,7 @@ participants in shifting the social fabric.
       buyers for large assets. again, fewer merchants on the market
       means a market favors the government every time, or any group
       exchanging with significant investment in those assets
+
   - regardless of whether you have true property rights and the
     ability to sell in a disadvantageous market,
     - someone still needs to control who uses those asset resources
@@ -496,6 +553,7 @@ participants in shifting the social fabric.
           spend their time thinking about, their long term goals, what
           discussions the start around the water cooler at
           work... yotta yotta
+
 - IMO, regardless of the system
 
 - here's an idea though: why shouldn't that "creation" of influence
