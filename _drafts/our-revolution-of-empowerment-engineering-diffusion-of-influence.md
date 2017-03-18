@@ -184,9 +184,11 @@ How individuals can generate influence?
 After comparing those mechanisms for the "creation" and diffusion of
 influence in society, I'll
 
-- detail how individuals in most every
-society can empower themselves by strengthening those influence
-creation mechanisms => *particularly, education!*
+- detail how individuals in most every society can harness influence
+  creation and diffusion empower themselves
+  - education can be used to strengthen or weaken those influence
+    creation mechanisms and so is an incredibly important vehicle for
+    affecting change.
 
 - how else does influence flow in the micro scale?
   - what do we use it one? we need things (favors, jobs, etc) from
@@ -211,6 +213,32 @@ themselves form the basis of valuable metrics of social and financial
 affluence. If we measure this today, we will find that there are many
 people like myself who are socially and financially disempowered. This
 is intentionally so and methodically achieved.
+
+- anyways, the structures by which a society enables/controls the
+  diffusion of influence lay the foundation for incentivization in
+  society
+  - this idea breaks down a bit in the face of a generally demoralized
+    society that doesn't identify opportunities or completely lacks
+    true opportunity for self-empowerment
+  - these mechanisms of incentivizations include:
+    - desire for a specific role
+    - desire for power in hierarchy or local power/influence
+    - desire to accumulate wealth
+    - religion
+    - education & culture
+    - assets (both systems transfer influence via assets)
+    - patriotism
+      - this includes goals and dreams like those sold to us in
+        advertising and via culture
+
+
+- local/global phase transitions and eigenstates in a social or
+  financial graph.
+  - this results in hyperdymensional emergent phenomena
+    - including social ills and mental illness
+
+
+# (Form of the Social and Financial Graphs)
 
 <a name="the-financial-graph-inherits-the-form-of-the-social-graph" />
 
@@ -356,7 +384,11 @@ manisfestation of the metaphysical in the physical world. Therefore,
 our world is more likely to become shaped by beliefs, belief systems
 and epimemetic systems faster because of its hyperconnected nature and
 the exponential rates of information transfer, accumulation and
-dispersion.
+dispersion. Hyperconnectedness also impacts the visibility of certain
+timeless truths that seem to disappear or become masked by louder
+phenomena and seem to disappear into adumbration, but are more
+relevant than ever. In this way, people become in some ways less
+capable of navigating aspects of social networks than before.
 
 <a name="inherently-predispositioned-to-developing-weak-economic-fundamentals" />
 
@@ -445,6 +477,19 @@ They are instead used as a tool to further the agenda of the movement,
 but because communism always results in strong, central authority,
 social and ethnic minority groups suffer in the end.
 
+<a name="constraint-of-belief-systems-leading-to-monopolization-of-thought-and-behavior" />
+
+### [Constraint of Belief Systems Leading to Monopolization of Thought and Behavior](#constraint-of-belief-systems-leading-to-monopolization-of-thought-and-behavior)
+
+- describe the aims behind elimination of religion and why it's moreso
+  a monopolization of belief systems that strips people and communities
+  of right to belief.
+  - in this way, a communist Party is essentially setting itself up as
+    God by abusing cult of personality, even at the same time as
+    selling itself as atheist and impartial.
+
+###
+
 - if influence exchanges (via wealth, role, or otherwise) could
   be mapped out in a graph for democratic and communist systems
   - for both, are the nodes in the graph would be defined by the
@@ -489,31 +534,6 @@ social and ethnic minority groups suffer in the end.
               that is, ultimately. as of now, i don't have
               resources
 
-- local/global phase transitions and eigenstates in a social or
-  financial graph.
-  - this results in hyperdymensional emergent phenomena
-    - including social ills and mental illness
-
-- hierarchical structures & specialzation role (wtf??)
-  - ughhh this was a more complete idea....
-
-- anyways, the structures by which a society enables/controls the
-  diffusion of influence lay the foundation for incentivization in
-  society
-  - this idea breaks down a bit in the face of a generally demoralized
-    society that doesn't identify opportunities or completely lacks
-    true opportunity for self-empowerment
-  - these mechanisms of incentivizations include:
-    - desire for a specific role
-    - desire for power in hierarchy or local power/influence
-    - desire to accumulate wealth
-    - religion
-    - education & culture
-    - assets (both systems transfer influence via assets)
-    - patriotism
-      - this includes goals and dreams like those sold to us in
-        advertising and via culture
-
 
 ### (Property Rights)
 
@@ -534,8 +554,13 @@ social and ethnic minority groups suffer in the end.
       and how. individuals associated with owners or government
       institutions decide how people use property of the state (and
       property "owned" by individuals)
+    - therefore property is moreso controlled rather than owned.
+      - zooming out to a wider scope, this leaves individuals
+        disempowered and unable to deviate from state policy.
 
-- but the point is, the main incentivization structures for communism
+###
+
+- (but the point is:) the main incentivization structures for communism
   and democracy basically just exchanges $$$ for affluence with
   government institutions.
   - it's really one for another. both systems require the diffusion of
@@ -591,19 +616,23 @@ social and ethnic minority groups suffer in the end.
 
 <a name="a-philosophical-battle" />
 
-### [A Philosophical Battle](#a-philosophical-battle)
+# [A Philosophical Battle](#a-philosophical-battle)
 
 The major battle facing humanity today is philosophical. It may seem
 technological, but it's not. It may seem the most urgent battle is
 with nature or for resources, but it's not! The most crucial battle we
 face in this decade and the next is philosophical: we must conquer
-ourselves. We have to be intimately familiar with understand how
-forces we can't imagine will change our lives. Known unknowns, unknown
-knowns, and most importantly unknown unknowns. Humanity's
-metamorphosis here won't be efficient, so how can we prepare the
-cultures of 2030 to count on the fluid nature of information to stay
-lean and stay agile? Again, this stands in stark contrast to the
-typically slow pace of social engineering projects.
+ourselves. Previous centuries have been defined by a clash of ideas
+that emerge into the world as social instituions and because of our
+hyperconnected society, this is exhibited moreso and faster.
+
+We have to be intimately familiar with understand how forces we can't
+imagine will change our lives. Known unknowns, unknown knowns, and
+most importantly unknown unknowns. Humanity's metamorphosis here won't
+be efficient, so how can we prepare the cultures of 2030 to count on
+the fluid nature of information to stay lean and stay agile? Again,
+this stands in stark contrast to the typically slow pace of social
+engineering projects.
 
 <a name="its-not-my-world-im-just-living-in-it" />
 
