@@ -25,6 +25,8 @@ frameworks used by humanity (...)
     difficult as cultural change accelerates, which is why studying
     cultural universals and the ways in which our life adapts to
     technology is (crucial). (reword this?)
+  - what options are there for architecting the teleology of phenomena
+    and experience in the 21st century?
 
 - the paradigm of probabilistic computing when applied to mythos as
   compressed semiotic information.

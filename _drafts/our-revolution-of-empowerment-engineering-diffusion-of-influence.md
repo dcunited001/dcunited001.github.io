@@ -129,7 +129,6 @@ political and cultural environments, these channels are structured and
 arranged to behave in various ways and can be blocked or unavailable,
 resulting in less than desirable social mobility.
 
-
 ### [Communism Restricts Social Mobility and Undermines Prosperity]()
 
 Communism minimizes wealth as a store of social influence by design.
@@ -516,12 +515,15 @@ graph theory.
 
 ![Economic Turbulence](/img/posts/revolution-of-empowerment/turbulence.jpg)
 
+- More about econophysics here:
+  - particularly, the generalized notion of "energy", diffusion and
+    optimization of energy utilization, as applied to physical systems
+
 #### Econophysics Resources:
 
 #### &#x2605; [A Guided Walk Down Wall Street: an Introduction to Econophysics](https://arxiv.org/abs/cond-mat/0408143)
 
 #### &#x2605; [An Introduction to Econophysics: Correlations and Complexity in Finance](http://dx.doi.org/10.1063/1.1341926)
-
 
 <a name="contrasting-systems-of-incentivization-and-influence-dispersion" />
 

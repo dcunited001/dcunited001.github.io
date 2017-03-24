@@ -423,7 +423,7 @@ From the draft for
 >
 > From this paradoxical vantange, they were moreso capable of ensuring
 > a stable rollout of industrialization & modernization. They became
-> the first civilization to disappear and di so intentionally, with
+> the first civilization to disappear and did so intentionally, with
 > the idea that they were retreating into cultural fragments that
 > would be distributed across the world. These fragments would
 > interweave in spiral fashion across the astral plane. Thousands of
@@ -469,10 +469,10 @@ is a paradigm shift of social institutions: a new religion.
 
 <a name="we-shall-not-fear" />
 
-### [We Shall Not Fear](#we-shall-not-fear)
-
 > As I Walk Through the Valley of the Shadow of Death, I Shall Not
 > Fear...
+
+### [We Shall Not Fear](#we-shall-not-fear)
 
 For Our guardian angels are virtuous deeds, serendipity and innoncence
 and they shall shield us from any wickedness that spews from
