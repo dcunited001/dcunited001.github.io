@@ -44,8 +44,6 @@ excerpt: ""
           which cause some terraforming effect
         - this could be engineered
 
-
-
 ===============
 
 ### semi-dystopian sci-fi time travel idea
@@ -67,6 +65,7 @@ also kind of leads the world through a difficult path.
     the time loop because that would be impossible. therefore such
     things either can't happen or are guaranteed to preserve some
     continuity
+
 - when the loop asymptotically converges to the same cyclic
   progression of time completely, then it completely stabilizes & thus
   reduces to a linear progression.
@@ -181,6 +180,10 @@ also kind of leads the world through a difficult path.
       gradient) with entropy describing variation in expected
       behavior, where expected behavior has a somewhat recursive
       definition)
+  - the wavefronts of EMR should begin to diffuse & scatter. for the
+    EMR radiation travelling along with the gravitational wave, this
+    should cause dissonance in the distribution of EMR energy over
+    time
 
 #### from the Blind Spot picture
 
@@ -364,6 +367,7 @@ also kind of leads the world through a difficult path.
 - [see DeSitter Universe](https://en.wikipedia.org/wiki/De_Sitter_universe)
   - [False Vacuum](https://en.wikipedia.org/wiki/False_vacuum)
     - how well does this apply to gravity
+    - does it correlate to a dirac sea
   - [Virtual Particle](https://en.wikipedia.org/wiki/Virtual_particle#Pair_production)
 
 - [Schild's Ladder](https://en.wikipedia.org/wiki/Schild%27s_Ladder)
@@ -393,10 +397,11 @@ also kind of leads the world through a difficult path.
         a star.
 
 - it would be like two civilizations simultaneously developing *basic*
-  radio technology 1000-4000 years ago
-  - in otherwords, they had prehistoric ham radios
+  radio technology 4000 years ago
+  - in otherwords, they simultaneously developed prehistoric ham radios
   - they could come online and they share a common communication
-    medium. bc of universal language
+    medium bc of universal language, even though the technology was
+    developed in two separate places
 
 - this is a fascinating idea about the radios, but i'm pretty sure it
   never happened ... just to clarify
@@ -408,11 +413,6 @@ also kind of leads the world through a difficult path.
   - more to the point, if this did happen, it would show up in the
     evolution of language and culture.
   - but... if it did happen... that'd be cool.
-    - one civilization could equip others with tech to quickly
-      broadcast tech
-    - it would probably explain how there's a mummy in egypt that
-      tested positive for cocaine residue. we can finally lay that
-      mystery to rest.
 
 - protocol would reflect of apex of quantum-entanglement based
   communication.
@@ -565,7 +565,6 @@ A    d
 - does all matter/mass contributed to the curvature of space evenly?
   - gravity as the effect of energy on space
 
-
 ### Gomboc & EMP dispersion
 
 - Gomboc concept applied to an EMField with magnets/electromagnets
@@ -578,7 +577,6 @@ A    d
 - the question here is: are there such shapes to EM fields that can
   enable this special functionality or sufficiently approximate it to
   guarantee EMP survival of cubesats or other satellites in space
-
 
 ### Gravity Crystal X Gomboc
 

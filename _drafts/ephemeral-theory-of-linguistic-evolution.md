@@ -311,3 +311,10 @@ these specific aspects are desirable:
 - longer time spent raising children
 
 ### Possible experimentation
+
+
+### relationship between volume & information processing capacity of matter
+
+- is there some minimum brain size required for intelligent life that
+  dictates the minimum scale of organic, intelligent life?
+  - it would be related to the general information processing capacity

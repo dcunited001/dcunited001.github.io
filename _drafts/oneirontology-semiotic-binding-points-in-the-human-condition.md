@@ -43,6 +43,14 @@ frameworks used by humanity (...)
       one gets a wider lens of applicable situations for a given
       element of the text
 
+- religious texts in this way are like zip files of accumulated
+  stories that serve as a vector for the internalization of beliefs
+  and the instantiation of behavior patterns that emerge from them.
+  - david foster wallace's Infinite Jest is put together in this
+    way. stories are anachronistic and the more information you
+    internalize, the more that reflection on information internalized
+    before brings out a richness of understanding
+
 - the evolutionary dynamics of mythos
   - look over
     [Evolutionary Dynamics](https://en.wikipedia.org/wiki/Evolutionary_dynamics)
