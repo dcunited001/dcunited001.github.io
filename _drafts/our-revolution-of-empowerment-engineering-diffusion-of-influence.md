@@ -8,6 +8,9 @@ author:
 excerpt: ""
 ---
 
+- pitch as a revolution powered by a framework for understanding how
+  to maximize human potential and satisfaction
+
 In societies with different governmental structures, what motivates
 people to work hard? In communist societies and democratic,
 free-market societies, how does this differ? This question is of
@@ -278,11 +281,64 @@ is intentionally so and methodically achieved.
         advertising and via culture
 
 
+- this social graph lays a foundation for an extremely
+  high-dimensional space
 - local/global phase transitions and eigenstates in a social or
   financial graph.
   - this results in hyperdymensional emergent phenomena
     - including social ills and mental illness
+- phase transitions and other emergent phenomena are coupled to the
+  sparseness of the graph data.
+  - for this and other reasons, the nature of the system is completely
+    different in a hyperconnected world.
+    - in a sparse social graph, emergent phenomena are shorter lived
+      and less likely to affect large regions of the graph
+    - in a hyperconnected social graph, higher order phenomena are
+      more likely to emerge, will exhibit greater effect on larger
 
+- in sparse social graphs, the number of connections to each person is
+  closer to
+  [dunbar's number](https://en.wikipedia.org/wiki/Dunbar's_number)
+  - this rule of 150 connections still applies in the hyperconnected
+    world, but is moreso related to the number of high-quality
+    relationships that a person has the mental energy, cognitive
+    capacity and time to cultivate.
+  - the social graph can be visualized with a spatial component, where
+    connections have a physical distance associated with them that
+    affects how the nodes interact. in today's hyperconnected social
+    graph, the connections that form do so over much greater distances
+    and therefore, the constraints associated with time and space
+    gradually disintegrate.
+    - in the social graph of centuries past, these spatial constraints
+      on information exchange would limit the speed at which ideas
+      travel, but today are non-existant.
+    - constraints on information spread are now much more logical
+      instead of physical.
+
+- in a social graph sparsely connected via lack of technology, this
+  forces people to build rigidly maintained social hierarchies to
+  offset the informational disadvantages of a sparsely connected
+  social graph. in the past, people were forced to be incredibly
+  creative in building these stratifying hierarchies in order to
+  remain apprised of relevant information.
+  - this paradigm is upset and even inverted in a hyperconnected
+    world. the challenge is no longer overcoming the limitations of
+    time and space in order to filter important and relevant
+    information up the hierarchy. instead, in addition to dealing with
+    the quantity of social media data streaming from all over the
+    world, the challenge is to overcome the structural changes that
+    obliterate these rigidly maintained hierarchies.
+    - the phenomena of hierarchical structures arising in the social
+      graph representing society is no longer required for the system
+      to filtrate information and to inform itself of critical events.
+      - is there another way to word this? examples?
+      - hierarchical structures still emerge within the system, but
+        they are more likely to be interconnected, whereas before
+        instantaneous communication, those that emerged more much more
+        centralized and singular
+- (the main point here is that a hyperconnected system forms
+  connections & hierarchies in fundamentally different ways and for
+  different reasons)
 
 # (Form of the Social and Financial Graphs)
 
@@ -435,6 +491,12 @@ timeless truths that seem to disappear or become masked by louder
 phenomena and seem to disappear into adumbration, but are more
 relevant than ever. In this way, people become in some ways less
 capable of navigating aspects of social networks than before.
+
+- how can we recognize this accelerated manifestation of the
+  metaphysical and harness it for our betterment instead of our
+  detriment?
+  - what options are there for architecting the teleology of phenomena
+    and experience in the 21st century?
 
 <a name="inherently-predispositioned-to-developing-weak-economic-fundamentals" />
 
@@ -658,6 +720,8 @@ social and ethnic minority groups suffer in the end.
     influences. There is disparity in the level of influence from
     specific nodes to subgroups and individuals.
 
+
+
 - transition into discussing why this implies our main struggle is
   philosophical
 
@@ -766,6 +830,8 @@ will fade away.
 (after completing the main thoughts here, summary above should be a
 bit more brief)
 
+
+
 <a name="a-cultural-revolution-and-a-cognitive-revolution" />
 
 ### [A Cultural Revolution *And* A Cognitive Revolution](#a-cultural-revolution-and-a-cognitive-revolution)
@@ -859,6 +925,17 @@ analyze linkedin/career/financial data science
     effectively marginalized from society by design. and this can be
     measured with analytics and social media data analysis.
   - name of factor being measured? ~social mobility?~
+
+###
+
+- Social programs should be structured around a framework and platform
+  that encourages competition over funding.
+  - this framework should facilitate understanding of ROI for social
+    programs, particularly in how the funding affects the social
+    and financial graphs.
+  - it's not enough to give money away. it doesn't actually help
+    people in the long run.
+
 
 ### why does it matter today?
 
