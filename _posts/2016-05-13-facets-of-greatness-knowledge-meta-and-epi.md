@@ -229,7 +229,7 @@ in knowing when a factor will determine a system's behavior and you
 understand how this affects people's actions, then you can profit.
 
 > A general example: Factor A is usually a good indicator of demand
-> for Product X from Industry Y.  It's commonly accepted knowledge for
+> for Product X from Industry Y. It's commonly accepted knowledge for
 > stock brokers.  Maybe it's a dip in price for a particular
 > commodity.  But your model says: this is true, except when Factor B
 > and C supercede A.  In which case, it's actually an indication of
@@ -240,12 +240,15 @@ understand how this affects people's actions, then you can profit.
 > for the inevitable drop in price that your model predicts.  Boom.
 > Purchase more shares.  Make more money.  Simple as that (not really)
 
-All of this "factor" and "model" bs is very generic, i know.  But it's
-very usefull in more than just the stock market.  Everyone wants to
-participate in Activity X or Trade Y wants to build a mental model of
-how it works, especially if they want to participate competitively.
-Some of these models are good and some are bad.  And some people just
-exhibit irratic behavior.  But:
+The references to "factor" and "model" are generic, I know. But it's
+very useful in more than just the stock market. Everyone who wants to
+participate in Activity X or Trade Y will build a mental model of how
+it works, especially if they want to participate competitively.  Some
+of these models are good and some are bad. And some people just
+exhibit irratic behavior.
+
+Still, these are crucial to identifying opportunity and mitigating
+risk in nearly any market, any subject, any skill, any activity:
 
 #### &#x2605; Understanding what people believe
 
@@ -258,9 +261,6 @@ exhibit irratic behavior.  But:
 #### &#x2605; Comparing and contrasting them
 
 #### &#x2605; And understanding how that affects actions and results
-
-These are crucial to identifying opportunity and mitigating risk in
-nearly any market, any subject, any skill, any activity.
 
 Furthermore, the effect these factors and models have grows and wanes.
 People who are successful understand why Factor A seems dominant now,
