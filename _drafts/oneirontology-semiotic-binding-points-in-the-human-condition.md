@@ -17,6 +17,9 @@ opportunity. It's a necessicity and something that must be handled
 with care (and) unparalleled foresight. We must revise semiotic
 frameworks used by humanity (...)
 
+- yggdrasil as a metaphor for traveling between planes
+  - each world is its own plane
+
 - trying to design teleological connections by weaving semiotics
   together
   - TODO: more about teleology

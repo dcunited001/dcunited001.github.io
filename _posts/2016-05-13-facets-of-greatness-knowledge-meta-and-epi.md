@@ -289,7 +289,7 @@ startups is going to rise slowly over the next decade.
 #### They Straight Up Baller Blockin'
 
 And it's crucial to diversify your portfolio when market conditions
-seem likely to change.  There's an important conflict of interest here
+seem likely to change. There's an important conflict of interest here
 that many larger entities have: usually they don't want to compete
 with themselves.  Why would they develop Product B which would return
 20% the profits now when they could just shove their heads in the
