@@ -21,7 +21,6 @@ should include a growth limiting mechanism
 The world, as seen through the eyes of the innocent, is
 perhaps...
 
-
 ### misc
 
 (include)

@@ -8,9 +8,6 @@ author:
 excerpt: ""
 ---
 
-- pitch as a revolution powered by a framework for understanding how
-  to maximize human potential and satisfaction
-
 In societies with different governmental structures, what motivates
 people to work hard? In communist societies and democratic,
 free-market societies, how does this differ? This question is of
@@ -22,7 +19,15 @@ achieve more, for themselves and for society.
 
 ### [Why Wait For Someone To Get In Power When Change Emerges from the Individual?](#why-wait-for-someone-to-get-in-power-when-change-emerges-from-the-individual)
 
-### [Social and Financial Connections Form Circuits Of Influence](#social-and-financial-connections-form-circuits-of-influence)
+### [A Paradox of Aristocracy](#a-paradox-of-aristocracy)
+
+### [A Paradox of Modernity](#a-paradox-of-modernity)
+
+### [Utopia's Fountainhead](#utopias-fountainhead)
+
+
+
+# [Social and Financial Connections Form Circuits Of Influence](#social-and-financial-connections-form-circuits-of-influence)
 
 In a communist system, the incentivization is primarily sociocultural,
 achieved through social engineering, which exists to a lesser extent
@@ -92,27 +97,126 @@ fields. At no time in mankind's history have we experienced more
 structural change to our shared social, financial and informational
 graphs.
 
-### (Two Paradoxes that are interesting in context with these ideas)
+<a name="a-paradox-of-aristocracy" />
 
-- keep this here?
-- a paradox of aristocracy (subsequent generations gradually lose the
-  traits that allowed them to achieve their position in society)
-  - Plato covers these idea's in Republic
+### [A Paradox of Aristocracy](#a-paradox-of-aristocracy)
 
-- a paradox of social circumstances: today people are pushed towards
-  the left in response to poverty, but never in human history have we
-  had more tools at our fingertips for self-empowerment.
-  - why would people feel less empowered or in more vulnerable
-    economic positions?
-    - why would they feel less empowered today when we have so many
-      more tools at our disposal
-  - i believe we need to upgrade our sociocultural operating system
-    - the underpinnings of our worldview frameworks need to be shifted
-      in response to technology
+In Republic, Plato covers intergenerational dynamics that lead to a
+corrosion of values that foment prosperity. This is an interesting
+paradox, that the conditions which create prosperity eventually wane
+because of it. It seems to be that those who are born into an era of
+prosperity are less likely to understand the work ethic that leads to
+sustainence of wealth. They are inherently less capable of sustaining
+the hard work that leads to it because they themselves did not suffer
+and travail to achieve it.
+
+This is a problem that social engineering can help address. Social
+institutions can program our youth to short-circuit this paradox.
+Far-left movements such as socialism and communism critique the social
+institution of religion, which was society's answer to this paradox in
+the past. These movements are inherently incapable of delivering what
+they promise because they dismantle the institutions that provide the
+social programming that counters the ironic corrosion of virtues that
+accompany prosperity. Socialism is only capable of providing services
+when there is prosperity because these services depend on taxes which
+evaporate without a competitive economy. Therefore, as socialism and
+communism are typically packaged, they are doomed to fail. This is the
+precise progression that Plato acknowledges in the Republic.
+
+<a name="a-paradox-of-modernity" />
+
+### [A Paradox of Modernity](#a-paradox-of-modernity)
+
+There is a paradox of social circumstances that accompanies
+modernity. It is exacerbated by novel channels of communication and
+economic circumstance. As we develop more technology, especially the
+capacity to educate people faster, we should see a dramatic shift in
+the quality of life that lifts everyone up. This is true: technology
+means the ability to provide higher quality of life is cheaper. In
+developed nations, metrics for quality of life are higher than ever,
+but leftists are louder than ever.
+
+This is partly because of the ability for people to have their message
+heard on communication platforms such as social media, but also
+because of the exigent economic dependencies, the fulfillment of which
+allowed modernization and technology to foment in the first place.
+Coupled with overpopulation, these economic dependencies become more
+and more difficult to maintain.
+
+The the paradox is clear: today, people are pushed to the left in
+response to poverty, but never in human history have we had more tools
+at our fingertips for self-empowerment. How is this possible? Why
+would people feel less empowered or in more vulnerable economic
+position. People face a myriad of financial challenges, of course.
+However, it should be apparent: people today are paradoxically weaker
+versions of themselves because of their dependency on technology and
+because of our lack of cultural propagation mechanisms. That's not the
+answer a politician would give you, but there it is.
+
+<a name="utopias-fountainhead" />
+
+### [Utopia's Fountainhead](#utopias-fountainhead)
+
+We must to upgrade our sociocultural operating system. This isn't
+saying we need a single religion to unite us. However, the
+underpinnings we use to architect our individual worldviews must to
+adapt in response to technology and the resulting sociocultural
+shifts. Otherwise, this corrosion of character will continue and our
+society will be unable to sustain itself.
+
+It would seem that without the appropriate means of understanding
+life, that utopia itself is a paradox, doomed to gradual erosion. What
+powers our pseudo-utopia and why? This is an insight lost to most
+Americans today. They simply do not understand what generates the
+fertile soil of prosperity that we share. People today are
+fickle. They do not have values and they are easily led to what seem
+to be greener pastures without understanding what they have now.
+
+The answer to our problems is not some ism. The answer is to look
+inwards and to be honest with ourselves. We need to remain capable of
+transforming ourselves, in spite of an environment that tells us we
+don't need change and in spite of a media that tells us our problems
+are our leaders. In today's environment, prevailing attitudes make
+this very difficult, especially in void of sociocultural institutions
+designed to provide a constant measure. Religions are a traditional
+means of providing this unwavering measure to society. Today's liberal
+attitudes enable anyone to decouple from the evolutionary sieving
+mechanisms that filtered strong men and women in the past. It's very
+easy to survive without adapting yourself to any ideals. As we zoom
+out from individuals to the level of society, this void makes us all
+weaker. It doesn't really matter what belief system we adhere to that
+provides us with impossible ideals to measure up to, but we need one
+or we are lost.
+
+###
+
+By architecting the proper social institutions and laying the
+groundwork for changes leading to an ideal social graph, humanity can
+ensure that through the sum of individual actions, a gradual
+dispersion of social and financial capital ameliorates issues such as
+poverty and lack of control over one's circumstances. Ideally, we
+shall maximize human potential, understanding and virtue. Given social
+and financial graphs that are (ideal), the individual should be able
+to lift themselves up.
+
+That is, problems in society like poverty stem ultimately from the
+social graph. They cannot be resolved by forcibly taking wealth from
+one group and giving it to another. These problems can only be
+resolved by architecting changes in the social and financial graphs
+that enable proper dispersion of social and financial influence. Given
+that and free of encumbrances, the individual and groups in society
+should be able to (lift themselves out of these problems.)
+
+This has always been true, but until now, it has been difficult to
+measure the social graph to any degree of confidence. But today, we
+should be able to leverage technology to identify the true source of
+problems, which are in the structure of the social and financial
+graph. From these insights, we can make meaningful changes that enable
+the individual to solve their own problems.
 
 <a name="social-and-financial-connections-are-circuits-of-influence" />
 
-### [Social and Financial Connections Form Circuits Of Influence](#social-and-financial-connections-form-circuits-of-influence)
+# [Social and Financial Connections Form Circuits Of Influence](#social-and-financial-connections-form-circuits-of-influence)
 
 Power and the circuits by which influence is transferred in society
 operate in completely different manners in various governmental
@@ -229,11 +333,8 @@ How individuals can generate influence?
 - How can families, small groups and communities can connect to
   benefit from the same.
 
-After comparing those mechanisms for the "creation" and diffusion of
-influence in society, I'll
-
-- detail how individuals in most every society can harness influence
-  creation and diffusion empower themselves
+  - individuals can harness influence creation and diffusion empower
+    themselves
   - education can be used to strengthen or weaken those influence
     creation mechanisms and so is an incredibly important vehicle for
     affecting change.
@@ -260,11 +361,16 @@ leverage that set of nodes and those nodes' level of influence
 themselves form the basis of valuable metrics of social and financial
 affluence. If we measure this today, we will find that there are many
 people like myself who are socially and financially disempowered. This
-is intentionally so and methodically achieved.
+can intentionally methodically leveraged as a method of
+control. People who are disconnected from the social graph with little
+social or financial capital are especially vulnerable.
 
-- anyways, the structures by which a society enables/controls the
-  diffusion of influence lay the foundation for incentivization in
-  society
+#### In Space, No One Can Hear You Scream
+
+![In Space, No One Can Hear You Scream]()
+
+- the structures by which a society enables/controls the diffusion of
+  influence lay the foundation for incentivization in society
   - this idea breaks down a bit in the face of a generally demoralized
     society that doesn't identify opportunities or completely lacks
     true opportunity for self-empowerment
@@ -279,6 +385,7 @@ is intentionally so and methodically achieved.
       - this includes goals and dreams like those sold to us in
         advertising and via culture
 
+### The Mechanics of the Social Graph's Space
 
 - this social graph lays a foundation for an extremely
   high-dimensional space
@@ -491,15 +598,14 @@ phenomena and seem to disappear into adumbration, but are more
 relevant than ever. In this way, people become in some ways less
 capable of navigating aspects of social networks than before.
 
-- how can we recognize this accelerated manifestation of the
-  metaphysical and harness it for our betterment instead of our
-  detriment?
-  - what options are there for architecting the teleology of phenomena
-    and experience in the 21st century?
+How can we recognize this accelerated manifestation of the
+metaphysical and harness it for our betterment instead of our
+detriment? What options are there for architecting the teleology of
+phenomena and experience in the 21st century?
 
 <a name="inherently-predispositioned-to-developing-weak-economic-fundamentals" />
 
-### [Inherently Predispositioned to Developing Weak Economic Fundamenals](#inherently-predispositioned-to-developing-weak-economic-fundamentals)
+### [Inherently Predispositioned to Developing Weak Economic Fundamentals](#inherently-predispositioned-to-developing-weak-economic-fundamentals)
 
 Socialism and particularly communism lead to dramatic shifts in the
 social and financial graphs that undermine the fundamentals of

@@ -8,21 +8,61 @@ author:
 excerpt: ""
 ---
 
-Human civilization is currently undergoing (a paradigm shift) of
-cultural flux, precipitated by modernization, globalization and the
-Singularity. Does this shift imply an opportunity for the next major
-belief system to establish the semiotic foundation of human thought
-for the next astrological age? Yes, it does. However, this is not an
-opportunity. It's a necessicity and something that must be handled
-with care (and) unparalleled foresight. We must revise semiotic
-frameworks used by humanity (...)
+Human civilization is embarking on a paradigm shift of cultural flux,
+precipitated by modernization, globalization and the Singularity. Does
+this shift imply an opportunity for the next major belief system to
+establish the semiotic foundation of human thought for the next
+astrological age? Yes, it does. However, this is not an opportunity.
+It's a necessity and something that must be handled with care (and)
+unparalleled foresight. We must revise semiotic frameworks used by
+humanity to engineer the emergent of beneficent teleological
+phenomena.
 
-- yggdrasil as a metaphor for traveling between planes
-  - each world is its own plane
+# The Intersection of Semiotics and Phenomenology
 
-- trying to design teleological connections by weaving semiotics
-  together
-  - TODO: more about teleology
+Teleology coalesces as the intersection of semiotics and
+phenomonology, as they relate to the common sociocultural experience.
+People map phenomena to semiotic signs and develop an ontologically
+oriented perspective on how they interrelate. Because a specific
+teleological perspective of phenomena describes the purpose that they
+serve in the world, then these ideas must at a minimum be modeled as
+the relationship between at least a pair of semiotic signs, though
+these could be identical signs. Graph theory presents a basis for
+modelling teleology, but doesn't capture the categorical nature of an
+ontology.
+
+### Teleology is Usually Incidental, But Indispensable
+
+Most teleological perspectives of phenomena precipitate within
+cultures incidentally. It simply became more useful for us (to do so)
+as human life become increasingly sophisticated and complex. As our
+roles became more diverse and specialized, there were increasingly
+many concepts, processes and phenomena to navigate. The need arose for
+people ignorant of material cause of phenomena to discern the
+functional relationships between them. Material cause isn't necessary
+for us to leverage these phenomena. Further, many of these phenomena
+lack root in the material. Observing and abstracting the teleological
+structure of phenomena in human life was a first step to packing up
+beliefs and knowledge crucial for survival for propagation to
+subsequent generations.
+
+The pace of sociocultural change rapidly increases as we approach the
+Singularity. If we aren't focused on identifying dynamics and trends
+in our collective ontological perspective of teleology, then our
+culture will begin to disintegrate, as well as our ability to
+propagate knowledge of how to operate these phenomena to fulfill the
+needs humans share in life. Again, as we become increasingly
+specialized, the sociocultural facets of life become increasingly
+convoluted. At no time in history does our life become more complex
+faster than it does today, as we approach the s-curve of the
+Singularity.
+
+With enough resources dedicated to understanding this upcoming change,
+we can harness teleological engineering to establish the underpinnings
+of the next sociocultural operating system.
+
+- To design the components and interactions of the 21st century
+  teleological ...
   - the idea of engineering semiotics and semiotic mappings to produce
     particular teleological qualtiies in the world. this becomes more
     difficult as cultural change accelerates, which is why studying
@@ -48,9 +88,27 @@ frameworks used by humanity (...)
       one gets a wider lens of applicable situations for a given
       element of the text
 
-- religious texts in this way are like zip files of accumulated
-  stories that serve as a vector for the internalization of beliefs
-  and the instantiation of behavior patterns that emerge from them.
+- (boltzman machine, helmholtz machine?) framework for an individuals cognitive
+  patterns used to navigate life.
+  - We experience life as a stream of information, from which our
+    shifting focus collects information from sense, memory and
+    reflection into a context. Every individuals contexts have a
+    different structures and these contexts have varying time
+    scales. The widest context for an individual might be their
+    long-term memory. When we determine our behaviors, there is some
+    random element to selection, which is why the notion of dynamical
+    state machine programming and (reverse boltzman machines)
+    apply. We internalize reflections of our life experience into our
+    mind and construct libraries of behaviors parameterized with
+    convoluted contextual information.
+
+- There are more efficient means of propagating useful culture to
+  subsequent generations.
+  - "the fool learns from experience" quote.
+  - religious texts in this way are like zip files of accumulated
+    stories that serve as a vector for the internalization of beliefs
+    and the instantiation of behavior patterns that emerge from them.
+  - religions have accumulated the
   - david foster wallace's Infinite Jest is put together in this
     way. stories are anachronistic and the more information you
     internalize, the more that reflection on information internalized
@@ -70,21 +128,22 @@ singularity)
 
 - "the prophecy"
   - grab content from 'parapets of alexandria'
-  - materialization of the metaphysical emerges in the physical at an
+  - Materialization of the metaphysical emerges in the physical at an
     exponential rate because of the convergence of information via the
     internet, the degree of interconnectedness in the 21st century and
     the speed at which an idea travels.
-  - that is, the degree of influence that a simple idea has is
-    unmeasureably greater now than it was a century ago. this
-    phenomenon will only become more prominent.
-- this is why we must become more familiar with the nature of ideas,
-  the phenomenon of an
+  - That is, the degree of influence that a simple idea has is
+    unmeasureably greater now than it was a century ago. This and the
+    diversity of ideas only become more prominent from here on out.
+
+- this understanding sociocultural expansion is why we must become
+  more familiar with the nature of ideas, the phenomenon of an
   [egregore](https://en.wikipedia.org/wiki/Egregore) and recognize how
   the quickening manifestation of ideas influences reality.
-- this phenomenon has existed from time immemorial, but today
-  influences the world in a fundamentally different way, which
-  necessitates handling information and ideas in an (equally different
-  way.)
+  - this phenomenon has existed from time immemorial, but today
+    influences the world in a fundamentally different way, which
+    necessitates handling information and ideas in an (equally
+    different way.)
 
 - zipf's distribution for semiotics: what are the things people think
   about most. For humans, above all other things, it's the day. More
@@ -247,13 +306,17 @@ than its worth.
 
 ### Animals & Animal Behavior
 
-- local fauna
+- local fauna & their behaviors
+  - global fauna
 
 ### Plant Life And Medicene
 
 - local flora
+  - global flora
 
 #### Medical Uses, Geographic Distribution, Cultural Significance and Plant Interaction
+
+
 
 #### Agriculture
 
@@ -281,9 +344,10 @@ than its worth.
         less equipped to deal with life, people, cultures and events
         (common & rare)
 
-### Health/Disease/Anatomy
+### Medicine/Health/Disease/Anatomy
 
-
+- disease is a cultural universal and beyond a threshold of
+  intelligence, animals that must familiarize themselves with medicine
 
 ### Human Behavior
 
@@ -294,7 +358,6 @@ than its worth.
 ### Misc Phenomena
 
 ... Everybody Poops
-
 
 # Ragnarok
 
@@ -445,3 +508,7 @@ homogenize all culture.
           controlled specific regions of it
 
 ### Neo-Ragnarok
+
+
+- yggdrasil as a metaphor for traveling between planes
+  - each world is its own plane
