@@ -61,15 +61,60 @@ With enough resources dedicated to understanding this upcoming change,
 we can harness teleological engineering to establish the underpinnings
 of the next sociocultural operating system.
 
-- To design the components and interactions of the 21st century
-  teleological ...
-  - the idea of engineering semiotics and semiotic mappings to produce
-    particular teleological qualtiies in the world. this becomes more
-    difficult as cultural change accelerates, which is why studying
-    cultural universals and the ways in which our life adapts to
-    technology is (crucial). (reword this?)
-  - what options are there for architecting the teleology of phenomena
-    and experience in the 21st century?
+#
+
+The question of what man will do once the artificial intelligence
+revolution sweeps over our culture, leaving us idle in paradise is not
+so complicated: we will maintain our cultural artifacts. In fact, we
+must do so, otherwise we will succumb to cultural chaos.
+
+To design the components and interactions of the 21st century
+teleology is part of Oneirontology's mission. It is a powerful idea
+that humanity might engineer semiotics and semiotic mappings to evoke
+particular teleological teleological relations in the common
+individual's experience. This idea is particularly relevant to an
+increasingly virtual world built upon interactions with wholly
+artifical faculties. If we interact in virtual spaces, then we have
+ulimate power over the design of user interface components that people
+interact with. Therefore, whereas the incidental teleological
+interactions that emerged from our natural world must have been
+designed by God, those that will emerge from 21st century technology
+have the potential to be wholly designed by man.
+
+(reword this?)
+- what options are there for architecting the teleology of phenomena
+  and experience in the 21st century?
+
+This becomes more difficult to manage as cultural change accelerates,
+which is why studying cultural universals and the ways in which our
+life adapts to technology is crucial. In studying semiotics and
+teleogical relationships, cultural universals form the most
+fundamental map of symbols, a most universal basis upon which all
+ideas emerge as intermeshed mappings.
+
+- The range of thoughts that people can have are mapped to a countably
+  infinite enumeration of trees of semiotic signs, though as they are
+  re these representable in a more infinte manner.
+
+One can aggregate across the thoughts, words, statements of others and
+find that some cultural universals are more prevalent in the human
+experience than others: food, water, shelter. From a high-level
+perspective We all think of food about three times a day, at
+least. What is the most prevalent sign? Whereas the origin of
+semiotics is Symmetry, a metasign, the most prevalent individual sign
+of natural human existance is the Day, which includes the day/night
+cycle. It is impossible to make meaningful short-term or long-term
+behavioral changes without thinking about daily habits.
+
+- day/night cycle
+  - day as the identity, night as the inverse.
+
+> This is why I briefly experimented with nicknaming myself Day. At
+> first it seemed stupid, but then I decided I wanted to see the
+> effect of remapping this in the minds of others. I knew that some
+> people would ridicule this, which would allow the idea to
+> propagate. If I was right about semiotics, then there would
+> certainly be wierd effects on the thoughts of others.
 
 - the paradigm of probabilistic computing when applied to mythos as
   compressed semiotic information.
@@ -88,8 +133,8 @@ of the next sociocultural operating system.
       one gets a wider lens of applicable situations for a given
       element of the text
 
-- (boltzman machine, helmholtz machine?) framework for an individuals cognitive
-  patterns used to navigate life.
+- (boltzman machine, helmholtz machine?) framework for an individuals
+  cognitive patterns used to navigate life.
   - We experience life as a stream of information, from which our
     shifting focus collects information from sense, memory and
     reflection into a context. Every individuals contexts have a
@@ -97,10 +142,10 @@ of the next sociocultural operating system.
     scales. The widest context for an individual might be their
     long-term memory. When we determine our behaviors, there is some
     random element to selection, which is why the notion of dynamical
-    state machine programming and (reverse boltzman machines)
-    apply. We internalize reflections of our life experience into our
-    mind and construct libraries of behaviors parameterized with
-    convoluted contextual information.
+    state machine programming and (boltzman machines) apply. We
+    internalize reflections of our life experience into our mind and
+    construct libraries of behaviors parameterized with convoluted
+    contextual information.
 
 - There are more efficient means of propagating useful culture to
   subsequent generations.

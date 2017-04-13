@@ -26,7 +26,6 @@ achieve more, for themselves and for society.
 ### [Utopia's Fountainhead](#utopias-fountainhead)
 
 
-
 # [Social and Financial Connections Form Circuits Of Influence](#social-and-financial-connections-form-circuits-of-influence)
 
 In a communist system, the incentivization is primarily sociocultural,
@@ -328,16 +327,11 @@ frameworks of governance.
 
 ### [The Micro and Macro of Influence Dispersion](#the-micro-and-macro-of-influence-dispersion)
 
-How individuals can generate influence?
-
-- How can families, small groups and communities can connect to
-  benefit from the same.
-
-  - individuals can harness influence creation and diffusion empower
-    themselves
-  - education can be used to strengthen or weaken those influence
-    creation mechanisms and so is an incredibly important vehicle for
-    affecting change.
+Individuals and groups can harness influence creation and diffusion
+empower themselves. How individuals can generate social and financial
+influence? How do groups of various sizes aggregate and manage
+influence? How do families, small groups and communities connect to
+transfer and manage influence?
 
 - how else does influence flow in the micro scale?
   - what do we use it one? we need things (favors, jobs, etc) from
@@ -350,6 +344,10 @@ How individuals can generate influence?
       decisions or destructive lifestyles
     - and those who lose their money/influence because of conditions
       outside of their control
+
+Education can be used to strengthen or weaken those influence creation
+mechanisms and so is an incredibly important vehicle for affecting
+change.
 
 People can influence others in many ways: via direct communication,
 media, creation of ideas, commerce, law, etc. However, the capacity
@@ -450,6 +448,20 @@ social or financial capital are especially vulnerable.
 
 <a name="the-financial-graph-inherits-the-form-of-the-social-graph" />
 
+- leveraging financial aid and foreign direct investment as a means of
+  establishing a platform for potential projection of soft power
+  - this catalyses the development of options/opportunities that may
+    remain mostly unused until they are needed.
+  - furthermore, (to cultivate their viability), these options should be
+    regularly exercised (more here)
+- from a social graph perspective, this effect can be
+  optimized for flexibility and expediency of action in the future by
+  quantifying the dynamics in social graph changes over time
+  - the analysis of social graph data science can be used as a source
+    of intelligence to inform actions, expand flexibility of options
+    and maximize utility of those options
+- therefore ... () ... expands efficiency, expediency, etc.
+
 ### [The Financial Graph Inherits the Form of the Social Graph](#the-financial-graph-inherits-the-form-of-the-social-graph)
 
 To understand how social and financial influence spreads through a
@@ -479,16 +491,16 @@ savings rates and unpredictable macroeconomic conditions.
 ### [In the Free Market, Entities Coalesce Around Efficient And Value-Creating Solutions](#in-the-free-market-entities-coalesce-around-efficient-and-value-creating-solutions)
 
 In democracy and free market systems, social networks are free to form
-around issues in society, and end up more pragmattically shaped around
+around issues in society, and end up more pragmatically shaped around
 the solutions to them. This general phenomenon, the tendancy of the
-social graph to be formed in line with ideals varies along a continuum
-stretches from democracy, socialism, communism and authoritariansm. In
-authoritarian and communist systems, the social graph mirrors some
-ideals that are forced on people. Socialism requires less government
-mediated structure and graph influence than communism, but more than
-free-market systems. Once the social graph and especially the
-financial graph incur significant changes, this is incredibly hard to
-undo.
+social graph to be formed in line with ideals, varies along a
+continuum stretches from democracy, socialism, communism and
+authoritariansm. In authoritarian and communist systems, the social
+graph mirrors some ideals that are forced on people. Socialism adopts
+less government mediated structure and graph influence than communism,
+but more than free-market systems. Once the social graph and
+especially the financial graph incur significant changes, this is
+incredibly hard to undo.
 
 The other side to this continuum along the level of the government
 influence in and on the social graph, the extremes of which would
@@ -523,6 +535,8 @@ on the social graph.
 <a name="the-sociocultural-implementation-of-mathematical-optimization" />
 
 ### [The Sociocultural Implementation of Mathematical Optimization](#the-sociocultural-implementation-of-mathematical-optimization)
+
+- mention the invisible hand
 
 Free-market capitalist practices are basically the sociocultural
 implementation of mathematical optimization of price, value,
@@ -895,7 +909,6 @@ will fade away.
   incredibly harmful to people and to society.
   - more about this
 
-
 ### Why are so many people encumbered with problems outside of their control?
 
 - the question then becomes: why do so many people end up living in
@@ -906,6 +919,85 @@ will fade away.
     or time or some other form of influence?
   - and how can we minimize such things at a micro-scale, so that it
     makes a difference on a larger scale
+
+###
+
+- A myriad of factors contribute to conditions precipitating
+  poverty. no two regions, cities, neighborhoods or families are
+  affected by these factors in exactly the same way.
+- data science can be leveraged to counter instances of these factors
+  in the social and financial graphs.
+  - as goals, expectations and success of programs like these are
+    already evaluated to encourage competition over funding, data
+    science can further augment our capacity to predict and evaluate
+    the expected impact of social programs.
+
+- leveraging ideas from economics as metaphors for a framework to
+  counter poverty by retooling our approach to funding these programs
+  with a focus on encouraging competition.
+  - this is a set of concepts that preserve some meaningful
+    relationships to the matching set of concepts of economic theory,
+    which can derive insights from signals emerging from the financial
+    graph.
+  - this is instead focused on signals emerging from a social graph,
+    and identifying dynamics resembling those such as supply and
+    demand.
+    - signals emerging from the social graph might indicate the need
+      to scale up efforts to mitigate instances of factors
+      contributing to poverty.
+- Supply and demand are essentually dynamics in an economic system
+  arising from gradients on various metrics of the system. There are
+  similar dynamics found in systems based on the social graph, as well
+  as in the system itself. The dynamics emerging from social systems
+  strongly influence the behavior of the system. Whereas the metrics
+  emerging from the structure of the social graph are not dynamics,
+  per se, they can form the basis of measures applicable to scopes and
+  contexts of structures in the graph.
+  - These form gradient-like objects that give way to higher order
+    dynamics in the system, complicated by the roles of belief and
+    information and their prevalence in the system, real or perceived.
+  - These metrics are aggregate functions that operate on the local
+    graph structure surrounding an individual's node, e.g. producing a
+    count of the individual's connections within n-degrees of
+    separation. They can be differentiated in various ways across the
+    graph, enabling set operations on nodes that can be used to
+    determine the set of mutual friends, for example. Because of the
+
+
+- a basic example: if there are high rates of unemployment in an area,
+  then economic theory would probably identify an increased demand for
+  employment there.
+  - for a factor contributing to (example)
+    - (i'm having a hard time thinking of a good example of a problem
+      that can be meaningfully responded to in the short term.)
+
+- Many social problems correlate strongly to metrics based on an
+  individuals one-degree and two-degree connections. These metrics
+  include number of connections, qualities of connections, number of
+  interactions, qualities of interactions, and many other. There are
+  some social graph metrics which may not seem to be direct drivers
+  for specific kinds of problems. However, simple metrics such as
+  number of connections, frequency of interaction and number of
+  interactions can be powerful indicators of developing and existing
+  problems or pronounced vulnerability to them. Elderly people
+  sometimes become isolated late in life, which exacerbates problems
+  or reduces the scope of options available.
+  - Developing confidence in data science on social phenomena is
+    difficult, but many of these metrics are straightforward: number
+    of friends increases, number of interactions increases, etc.
+
+- The point is to develop a consistent social graph
+
+  When
+  people are isolated, this can result in susceptibility to specific
+  problems or exacerbating their consequences. If you
+
+> It's expensive to be poor.
+
+- problems include:
+  - it is difficult to quantify the true value(s) of social programs,
+    especially second and third order effects.
+
 
 ### Applying some of these ideas towards poverty
 
@@ -934,10 +1026,6 @@ will fade away.
       - (e.g. app idea) identify citizens on social media or IRL who are
         isolated and find out why!
     - hmmm... others?
-
-(after completing the main thoughts here, summary above should be a
-bit more brief)
-
 
 
 <a name="a-cultural-revolution-and-a-cognitive-revolution" />
