@@ -11,7 +11,8 @@ excerpt: ""
 In societies with different governmental structures, what motivates
 people to work hard? In communist societies and democratic,
 free-market societies, how does this differ? This question is of
-utmost importance. In a free-market, democratic system, it is a mix of
+utmost importance: to defend any specific system and to understand
+society itself. In a free-market, democratic system, it is a mix of
 financial and sociocultural incentivization that pushes people to
 achieve more, for themselves and for society.
 
@@ -24,7 +25,6 @@ achieve more, for themselves and for society.
 ### [A Paradox of Modernity](#a-paradox-of-modernity)
 
 ### [Utopia's Fountainhead](#utopias-fountainhead)
-
 
 # [Social and Financial Connections Form Circuits Of Influence](#social-and-financial-connections-form-circuits-of-influence)
 
@@ -190,8 +190,8 @@ or we are lost.
 ###
 
 By architecting the proper social institutions and laying the
-groundwork for changes leading to an ideal social graph, humanity can
-ensure that through the sum of individual actions, a gradual
+groundwork for changes leading to an ideal social graph, humanity
+ensures that, through the sum of individual actions, a gradual
 dispersion of social and financial capital ameliorates issues such as
 poverty and lack of control over one's circumstances. Ideally, we
 shall maximize human potential, understanding and virtue. Given social
@@ -334,7 +334,7 @@ influence? How do families, small groups and communities connect to
 transfer and manage influence?
 
 - how else does influence flow in the micro scale?
-  - what do we use it one? we need things (favors, jobs, etc) from
+  - what do we use it on? we need things (favors, jobs, etc) from
     each other on a small scale.
     - this can be explained in a kind of anarcho-capitalist way
     - voting with your dollar
@@ -843,10 +843,6 @@ social and ethnic minority groups suffer in the end.
     specific nodes to subgroups and individuals.
 
 
-
-- transition into discussing why this implies our main struggle is
-  philosophical
-
 <a name="a-philosophical-battle" />
 
 # [A Philosophical Battle](#a-philosophical-battle)
@@ -871,43 +867,46 @@ engineering projects.
 
 ### [It's Not My World. I'm Just Living In It](#its-not-my-world-im-just-living-in-it)
 
+- in aggregate, these artificial walls and blocking mechanisms are
+  incredibly harmful to people and to society.
+  - more about this
+
 Throughout the ages, people have burdened by artificial limitations
 imposed by their belief systems, which are crafted to unify the
 actions of the masses to some end. Walls are imposed and blocks are
 placed in front of people to compel them towards cooperation towards
-goals, many of which were in place before these individuals were born.
-In most cases, the individual is compelled to choose between
-struggling for their own dreams or giving those up and contributing
-towards some
+goals, many of which were in place before birth.  In most cases, the
+individual is compelled to choose between struggling for their own
+dreams or giving those up and contributing towards some
 [Great](https://en.wikipedia.org/wiki/Magnum_opus_(alchemy))
 [Work](https://en.wikipedia.org/wiki/Great_Work).
 
-This is the struggle between pre-determinism and free will, reified
-into life through esoteric orders who, perhaps selfishly, use
-individuals' lives towards their own ends. To these people, you're a
-pawn in someone else's game, just like everyone else.
+The individual expends energy to change his local social environment,
+which consists of other individuals, connected by social state
+manifest as information and beliefs. In such an understanding of the
+social graph, an individual can leverage his spirit, or capacity to
+conduct energy, to alter his surroundings by influencing either the
+beliefs of individuals or by changing the belief systems themselves.
+These belief systems are essentially programs built on the platform of
+the social graph and deployed to the infrastructure of individuals and
+social institutions with varying degrees of penetration.
 
-![Adjustment Bureau]()
+Here, there is a struggle between pre-determinism and free will. How
+much of life is the result of pure spirit, lensed by the mind to
+transcend the preexisting state one is born into?
 
-Unless their own dreams mesh with this pre-existing grand plan and they
-receive the blessings of the people around them, then any effort
-towards their own ends is squandered. This is because, if you piss off
-the wrong people, they will place wall after wall in front of you for
-the rest of your life and then laugh at the way you squirm when you
-don't understand why your life is a failure. They will orchestrate
-this by interacting with you like a ship in a bottle and they will
-never admit your strengths or victories and draw attention to your
-failures and there is nothing you can do about it.
+(more here...)
 
-In the 21st century, this ends because of the tendancy towards
-omnipresence of information. That is, belief systems themselves will
-tend to decohere, then recongeal into a either a unified belief system
-or a set of belief systems. This doesn't mean older belief systems
-will fade away.
+In the 21st century, our tendency to succumb to
 
-- in aggregate, these artificial walls and blocking mechanisms are
-  incredibly harmful to people and to society.
-  - more about this
+- preexisting state
+- and the effect of belief systems
+
+... ends because of the tendancy towards omnipresence of
+information. That is, belief systems themselves will tend to decohere,
+then recongeal into a either a unified belief system or set of belief
+systems. This doesn't mean older belief systems will fade away
+entirely, but ...
 
 ### Why are so many people encumbered with problems outside of their control?
 
@@ -987,17 +986,14 @@ will fade away.
     of friends increases, number of interactions increases, etc.
 
 - The point is to develop a consistent social graph
-
-  When
-  people are isolated, this can result in susceptibility to specific
-  problems or exacerbating their consequences. If you
+  - When people are isolated, this can result in susceptibility to
+    specific problems or exacerbating their consequences. If you
 
 > It's expensive to be poor.
 
 - problems include:
   - it is difficult to quantify the true value(s) of social programs,
     especially second and third order effects.
-
 
 ### Applying some of these ideas towards poverty
 
