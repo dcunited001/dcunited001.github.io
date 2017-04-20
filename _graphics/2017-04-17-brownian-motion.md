@@ -12,7 +12,7 @@ name: "David Conner"
 
 <script type="x-shader/x-vertex" id="vertexPassthrough">#version 300 es
 #define POSITION_LOCATION 0
-#define TEXCOORD_LOCATION 1
+#define TEXCOORD_LOCATION 4
 
 layout(location = POSITION_LOCATION) in vec3 a_position;
 layout(location = TEXCOORD_LOCATION) in vec2 a_texcoord;
@@ -21,8 +21,9 @@ out vec2 v_st;
 out vec3 v_position;
 
 void main() {
-  v_position = vec3(position);
-  gl_Position = vec4(position, 1.0);
+  v_st = a_texcoord;
+  v_position = a_position;
+  gl_Position = vec4(a_position, 1.0);
 }
 </script>
 
@@ -39,7 +40,7 @@ void main() {
 <script type="x-shader/x-fragment" id="shaderRandoms">#version 300 es
 precision highp float;
 precision highp int;
-precision highp usampler2D;
+precision lowp usampler2D;
 
 uniform vec2 resolution;
 uniform uvec4 randomStepSeed;
@@ -47,7 +48,7 @@ uniform usampler2D texRandom;
 
 in vec2 v_st;
 in vec3 v_position;
-out uvec4 color;
+out uvec4 randomColor;
 
 void main() {
   //vec2 uv = gl_FragCoord.xy / resolution.xy;
@@ -66,9 +67,8 @@ void main() {
   texels[2] = texture(texRandom, texelCoords[2]);
   texels[3] = texture(texRandom, texelCoords[3]);
 
-  uvec4 newTexel = randomStepSeed ^ texel ^ texels[0] ^ texels[1] ^ texels[2] ^ texels[3];
-
-  color = uvec4(newTexel.x, newTexel.y, newTexel.z, 255); // TODO: fix alpha to max for integers
+  uvec4 newTexel = (randomStepSeed ^ texel ^ texels[0] ^ texels[1] ^ texels[2] ^ texels[3]);
+  randomColor = uvec4(newTexel.x, newTexel.y, newTexel.z, 255); // TODO: fix alpha to max for integers
 }
 </script>
 
@@ -86,24 +86,24 @@ void main() {
 
 <script type="x-shader/x-vertex" id="shaderVertex">#version 300 es
 #define POSITION_LOCATION 0
-#define TEXCOORD_LOCATION 1
+#define TEXCOORD_LOCATION 4
 
 precision highp float;
 precision highp int;
 uniform mat4 mvMatrix;
 uniform mat4 pMatrix;
-uniform sampler2D displacementMap;
+uniform sampler2D particlePositions;
 
-layout(location = POSITION_LOCATION) in vec3 position;
-layout(location = TEXCOORD_LOCATION) in vec2 texcoord;
+layout(location = POSITION_LOCATION) in vec3 a_position;
+layout(location = TEXCOORD_LOCATION) in vec2 a_texcoord;
 
 out vec2 v_st;
 out vec3 v_position;
 void main()
 {
-    v_st = texcoord;
-    float height = texture(displacementMap, texcoord).b;
-    vec4 displacedPosition = vec4(position, 1.0) + vec4(normal * height, 0.0);
+    v_st = a_texcoord;
+    float height = texture(displacementMap, a_texcoord).b;
+    vec4 displacedPosition = vec4(a_position, 1.0) + vec4(normal * height, 0.0);
     v_position = vec3(mvMatrix * displacedPosition);
     gl_Position = pMatrix * mvMatrix * displacedPosition;
 }
@@ -153,7 +153,25 @@ void main()
     vec3 N = normalize(cross(fdx, fdy));
     color = mix(color, vec4(N, 1.0), 0.5);
 }
+</script>
 
+
+<script type="x-shader/x-fragment" id="shaderTest">#version 300 es
+
+precision highp float;
+precision highp int;
+
+in vec2 v_st;
+in vec3 v_position;
+out vec4 color;
+
+void main()
+{
+    vec3 fdx = dFdx(v_position);
+    vec3 fdy = dFdy(v_position);
+    color = vec4(vec2(1.0, 1.0) - v_st, 0.0, 1.0);
+    color = mix(color, vec4(N, 1.0), 0.5);
+}
 </script>
 
 <script type="text/javascript" src="/js/gl-matrix.min.js"></script>
