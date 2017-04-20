@@ -198,12 +198,12 @@ function generateUInt32Randoms(h,w,n) {
 // final quad geometry
 // =======================================
 var quadPositions = new Float32Array([
-  -1.0, -1.0, 1.0,
-  1.0, -1.0, 1.0,
-  1.0,  1.0, 1.0,
-  1.0,  1.0, 1.0,
-  -1.0,  1.0, 1.0,
-  -1.0, -1.0, 1.0
+  -1.0, -1.0, 0.0,
+  1.0, -1.0, 0.0,
+  1.0,  1.0, 0.0,
+  1.0,  1.0, 0.0,
+  -1.0,  1.0, 0.0,
+  -1.0, -1.0, 0.0
 ]);
 
 var quadVertexPosBuffer = gl.createBuffer();
@@ -433,35 +433,35 @@ class RenderPassConfig {
 
     // for each key in uniforms, encode value into the specific location
     if (ops.beforeEncode !== undefined) {
-      ops.beforeEncode(uniforms, ops);
+      ops.beforeEncode(this.context, uniforms, ops);
     }
 
     this.selectProgram();
 
     if (ops.encodeUniforms !== undefined) {
-      ops.encodeUniforms(uniforms, ops);
+      ops.encodeUniforms(this.context, uniforms, ops);
     } else {
-      this.encodeUniforms(uniforms, ops);
+      this.encodeUniforms(this.context, uniforms, ops);
     }
 
     if (ops.encodeDraw !== undefined) {
-      ops.encodeDraw(uniforms, ops);
+      ops.encodeDraw(this.context, uniforms, ops);
     } else {
-      this.encodeDraw(uniforms, ops);
+      this.encodeDraw(this.context, uniforms, ops);
     }
 
     if (ops.afterEncode !== undefined) {
-      ops.afterEncode(uniforms, ops);
+      ops.afterEncode(this.context, uniforms, ops);
     }
 
     this.cleanupEncode();
   }
 
-  encodeUniforms(uniforgms, options = {}) {
+  encodeUniforms(c, uniforms, options = {}) {
     console.error("RenderPassConfig: override encodeUniforms() or pass 'encodeUniforms'")
   }
 
-  encodeDraw(uniforms, options = {}) {
+  encodeDraw(c, uniforms, options = {}) {
     console.error("RenderPassConfig: override encodeDraw() or pass 'encodeDraw'")
   }
 
@@ -474,46 +474,47 @@ var offscreenFramebuffer = new FramebufferConfig(gl, gl.createFramebuffer());
 var onscreenFramebuffer = new FramebufferConfig(gl, null);
 
 var renderPassRandoms = new RenderPassConfig(gl, programRandomTexture, {
-  encodeUniforms: (uniforms, options) => {
+  encodeUniforms: (context, uniforms, options) => {
     //TODO: set uniforms
     // this._context.uniform1i(options., 0);
 
     //var drawUniformColor1Location = gl.getUniformLocation(drawProgram, 'color1Map');
     //var drawUniformColor2Location = gl.getUniformLocation(drawProgram, 'color2Map');
   },
-  encodeDraw: (uniforms, options) => {
+  encodeDraw: (context, uniforms, options) => {
     // draw quad
-    gl.bindVertexArray(quadVertexArray);
-    gl.drawArrays(gl.TRIANGLES, 0, 6);
+    context.bindVertexArray(quadVertexArray);
+    context.drawArrays(context.TRIANGLES, 0, 6);
   }
 });
 
 var renderPassGradient = new RenderPassConfig(gl, programParticleGradient, {
-  encodeUniforms: (uniforms, options) => {
+  encodeUniforms: (context, uniforms, options) => {
     //TODO: set uniforms
     //TODO: set texture for vertex positions
   },
-  encodeDraw: (uniforms, options) => {
+  encodeDraw: (context, uniforms, options) => {
     // draw quad
-    gl.bindVertexArray(quadVertexArray);
-    gl.drawArrays(gl.TRIANGLES, 0, 6);
+    context.bindVertexArray(quadVertexArray);
+    context.drawArrays(context.TRIANGLES, 0, 6);
   }
 });
 
 // TODO: change to programRenderFinal
 var finalRenderPass = new RenderPassConfig(gl, programTest, {
-  beforeEncode: (uniforms, options) => {
-    gl.clearColor(0.0, 0.0, 0.0, 1.0);
-    gl.clear(gl.COLOR_BUFFER_BIT | gl.DEPTH_BUFFER_BIT);
+  beforeEncode: (context, uniforms, options) => {
+    context.clearColor(0.0, 0.0, 0.0, 1.0);
+    context.clear(context.COLOR_BUFFER_BIT | context.DEPTH_BUFFER_BIT);
   },
-  encodeUniforms: (uniforms, options) => {
+  encodeUniforms: (context, uniforms, options) => {
     //TODO: set uniforms
     //TODO: set texture from gradient pass
   },
-  encodeDraw: (uniforms, options) => {
+  encodeDraw: (context, uniforms, options) => {
     // draw quad
-    gl.bindVertexArray(quadVertexArray);
-    gl.drawArrays(gl.TRIANGLES, 0, 6);
+    console.log(quadVertexArray);
+    context.bindVertexArray(quadVertexArray);
+    context.drawArrays(context.TRIANGLES, 0, 6);
   }
 });
 

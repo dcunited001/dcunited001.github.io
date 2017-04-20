@@ -179,7 +179,8 @@ void main()
 {
     vec3 fdx = dFdx(v_position);
     vec3 fdy = dFdy(v_position);
-    color = vec4(vec2(1.0, 1.0) - v_st, fract(fdx.x), 1.0);
+    //color = vec4(vec2(1.0, 1.0) - v_st, fract(fdx.x), 1.0);
+    color = vec4(v_st,0.5,1.0);
     //color = mix(color, vec4(N, 1.0), 0.5);
 }
 </script>
