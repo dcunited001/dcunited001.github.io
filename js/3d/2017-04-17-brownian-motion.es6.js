@@ -1,5 +1,8 @@
 'use strict';
 
+//TODO: setup gradient to extend 16 directions outward
+
+
 function createShader(gl, source, type) {
   var shader = gl.createShader(type);
   gl.shaderSource(shader, source);
@@ -7,10 +10,10 @@ function createShader(gl, source, type) {
   return shader;
 }
 
-window.createProgram = function(gl, vertexShaderSource, fragmentShaderSource) {
+window.createProgram = function(gl, vertexShaderSource, fragmentShaderSource, defines = {}) {
   var program = gl.createProgram();
-  var vshader = createShader(gl, vertexShaderSource, gl.VERTEX_SHADER);
-  var fshader = createShader(gl, fragmentShaderSource, gl.FRAGMENT_SHADER);
+  var vshader = createDefines(defines) + createShader(gl, vertexShaderSource, gl.VERTEX_SHADER);
+  var fshader = createDefines(defines) + createShader(gl, fragmentShaderSource, gl.FRAGMENT_SHADER);
   gl.attachShader(program, vshader);
   gl.deleteShader(vshader);
   gl.attachShader(program, fshader);
@@ -33,6 +36,11 @@ window.createProgram = function(gl, vertexShaderSource, fragmentShaderSource) {
   }
 
   return program;
+};
+
+window.createDefines = function(defines) {
+  // if empty, return empty string
+  // otherwise iterate through and generate string to prepend
 };
 
 window.loadImage = function(url, onload) {
@@ -131,10 +139,14 @@ var windowSize = {
 var shaderVertexPassthrough = document.getElementById('vertexPassthrough').textContent,
   shaderRandoms = document.getElementById('shaderRandoms').textContent,
   shaderVertex = document.getElementById('shaderVertex').textContent,
-  shaderFragment = document.getElementById('shaderFragment').textContent;
+  shaderFragment = document.getElementById('shaderFragment').textContent,
+  shaderTest = document.getElementById('shaderTest').textContent;
 
+var shaderDefines = {};
 var programRandomTexture = createProgram(gl, shaderVertexPassthrough, shaderRandoms);
 var program = createProgram(gl, shaderVertex, shaderFragment);
+
+var programTest = createProgram(gl, shaderVertexPassthrough, shaderTest);
 
 // =======================================
 // GLSL options
@@ -152,6 +164,25 @@ gl.blendFunc(gl.SRC_ALPHA, gl.ONE);
 
 var PARTICLE_TEXTURE_HEIGHT = 100;
 var PARTICLE_TEXTURE_WIDTH = 4;
+
+// TODO: generate initial texture to use for particle positions
+// TODO: generate initial texture to use for randoms
+
+function generateRandoms(w,h,n) {
+  var randoms = new Float32Array(w*h*n);
+  for (i=0; i<(w*h*n); i++) {
+    randoms[i] = Math.random();
+  }
+  return randoms
+}
+
+function generateUIntRandoms(w,h,n) {
+  var randoms = new Uint32Array(w*h*n);
+  for (i=0; i<(w*h*n); i++) {
+    randoms[i] = Math.floor(Math.random() * 255);
+  }
+  return randoms
+}
 
 // =======================================
 // final quad geometry
@@ -210,15 +241,17 @@ gl.bindVertexArray(null);
 // color attachments for render pipeline
 // =======================================
 
-var attachment0, attachment1;
+var attachment0, // stores field and gradient to modify vertex behavior
+  attachment1, // stores randoms for brownian motion
+  attachment2; // stores core vertex data
 
 gl.activeTexture(gl.TEXTURE0);
 attachment0 = gl.createTexture();
 gl.bindTexture(gl.TEXTURE_2D, attachment0);
 gl.texParameteri(gl.TEXTURE_2D, gl.TEXTURE_WRAP_S, gl.CLAMP_TO_EDGE);
 gl.texParameteri(gl.TEXTURE_2D, gl.TEXTURE_WRAP_T, gl.CLAMP_TO_EDGE);
-gl.texParameteri(gl.TEXTURE_2D, gl.TEXTURE_MIN_FILTER, gl.NEAREST);
-gl.texParameteri(gl.TEXTURE_2D, gl.TEXTURE_MAG_FILTER, gl.NEAREST);
+gl.texParameteri(gl.TEXTURE_2D, gl.TEXTURE_MIN_FILTER, gl.LINEAR);
+gl.texParameteri(gl.TEXTURE_2D, gl.TEXTURE_MAG_FILTER, gl.LINEAR);
 
 gl.texImage2D(gl.TEXTURE_2D,
   0,
@@ -227,8 +260,8 @@ gl.texImage2D(gl.TEXTURE_2D,
   windowSize.y,
   0,
   gl.RGBA,
-  gl.UNSIGNED_BYTE,
-  null);
+  gl.FLOAT,
+  new Float32Array(windowSize.x * windowSize.y * 4));
 
 gl.activeTexture(gl.TEXTURE1);
 attachment1 = gl.createTexture();
@@ -238,15 +271,17 @@ gl.texParameteri(gl.TEXTURE_2D, gl.TEXTURE_WRAP_T, gl.CLAMP_TO_EDGE);
 gl.texParameteri(gl.TEXTURE_2D, gl.TEXTURE_MIN_FILTER, gl.NEAREST);
 gl.texParameteri(gl.TEXTURE_2D, gl.TEXTURE_MAG_FILTER, gl.NEAREST);
 
+var attach1Data = generateUIntRandoms(PARTICLE_TEXTURE_WIDTH, PARTICLE_TEXTURE_HEIGHT, 4);
+
 gl.texImage2D(gl.TEXTURE_2D,
   0,
-  gl.RGBA,
+  gl.RGBA32UI,
   PARTICLE_TEXTURE_HEIGHT,
-  PARTICLE_TEXTURE_WIDTH,
+  PARTICLE_TEXTURE_WIDTH * 2, // TODO: reuse same texture between frames
   0,
   gl.RGBA,
-  gl.UNSIGNED_BYTE,
-  null);
+  gl.UNSIGNED_INT, // TODO: change to UInt32
+  attach1data);
 
 // -- initialize frame buffer
 var frameBuffer = gl.createFramebuffer();
@@ -271,9 +306,6 @@ var pMatrixLocation = gl.getUniformLocation(program, 'pMatrix');
 var diffuseLocation = gl.getUniformLocation(program, 'diffuse');
 var displacementMapLocation = gl.getUniformLocation(program, 'displacementMap');
 
-gl.useProgram(program);
-gl.uniform1i(diffuseLocation, 0);
-gl.uniform1i(displacementMapLocation, 0);
 
 // -- Initialize render variables
 var orientation = [0.0, 0.0, 0.0];
@@ -294,10 +326,205 @@ mat4.multiply(mvMatrix, viewMatrix, modelMatrix);
 var perspectiveMatrix = mat4.create();
 mat4.perspective(perspectiveMatrix, 0.785, 1, 1, 1000);
 
+// =======================================
+// FramebufferConfig
+// =======================================
+
+class FramebufferConfig {
+  constructor (context, framebuffer) {
+    this._context = context;
+    this._framebuffer = framebuffer
+    this._attachments = {};
+  }
+
+  get attachments () { return this._attachments; }
+  set attachments (attachments) { this._attachments = attachments; }
+  get framebuffer () { return this.framebuffer; }
+  set framebuffer (fb) { this._framebuffer = fb; }
+
+  selectFramebuffer() {
+    context().bindFramebuffer(gl.DRAW_FRAMEBUFFER, this._framebuffer);
+
+    for (var i in this._attachments.keys) {
+      var texTarget = this._attachments[i].texTarget;
+      var texture = this._attachments[i].texture;
+      var mipmapLevel = this._attachments[i].mipmapLevel || 0;
+      context().framebufferTexture2D(this._context.DRAW_FRAMEBUFFER, i, texTarget, texture, mipmapLevel);
+    }
+
+    // TODO: check for empty attachments?
+    var contextAttachmentIds = this.attachments.keys;
+    if (!contextAttachmentIds.empty()) {
+      context.drawBuffers(contextAttachmentIds);
+    }
+  }
+
+  config() {
+    selectFramebuffer();
+    cleanupConfig();
+  }
+
+  cleanupConfig() {
+    gl.bindFramebuffer(gl.DRAW_FRAMEBUFFER, null);
+  }
+
+  encode(encodeBlock) {
+    selectFramebuffer();
+
+    if (encodeBlock === undefined) {
+      console.error("no encode block")
+    } else {
+      encodeBlock()
+    }
+
+    cleanupEncode();
+  }
+
+  cleanupEncode() {
+    gl.bindFramebuffer(gl.DRAW_FRAMEBUFFER, null);
+  }
+}
+
+// =======================================
+// RenderPassConfig
+// =======================================
+
+class RenderPassConfig {
+
+  constructor (context, program, options = { uniformLocations: {} }) {
+    this._program = program;
+    this._context = context;
+    this._uniformLocations = options.uniformLocations || {};
+  }
+
+  get program () { return this._program }
+  set program (program) {
+    setUniformLocations();
+    this._program = program;
+  }
+
+  get context() { return this._context; }
+  set context(context) { this._context = context; }
+  get uniformLocations() { return this._uniformLocations; }
+  set uniformLocations(uniformLocations) { this._uniformLocations = uniformLocations; }
+
+  setUniformLocations() {
+    // TODO: store uniform locations
+  }
+
+  selectProgram() {
+    context.useProgram(program())
+  }
+
+  encode(uniforms, options = {}) {
+    // for each key in uniforms, encode value into the specific location
+    if (options.beforeEncode !== undefined) {
+      options.beforeEncode(uniforms, options);
+    }
+
+    selectProgram();
+
+    if (options.encodeUniforms !== undefined) {
+      options.encodeUniforms(uniforms, options);
+    } else {
+      this.encodeUniforms(uniforms, options);
+    }
+
+    if (options.encodeDraw !== undefined) {
+      options.encodeDraw(uniforms, options);
+    } else {
+      this.encodeDraw(uniforms, options);
+    }
+
+    if (options.afterEncode !== undefined) {
+      options.afterEncode(uniforms, options);
+    }
+
+    cleanupEncode();
+  }
+
+  encodeUniforms(uniforgms, options = {}) {
+    console.error("RenderPassConfig: override encodeUniforms() or pass 'encodeUniforms'")
+  }
+
+  encodeDraw(uniforms, options = {}) {
+    console.error("RenderPassConfig: override encodeDraw() or pass 'encodeDraw'")
+  }
+
+  cleanupEncode() {
+    this._context.useProgram(null)
+  }
+}
+
+var offscreenFramebuffer = new FramebufferConfig(context, gl.createFramebuffer());
+var onscreenFramebuffer = new FramebufferConfig(context, null);
+
+var renderPassRandoms = new RenderPassConfig(gl, programRandomTexture, {
+  encodeUniforms: (uniforms, options) => {
+    //TODO: set uniforms
+    // this._context.uniform1i(options., 0);
+
+    //var drawUniformColor1Location = gl.getUniformLocation(drawProgram, 'color1Map');
+    //var drawUniformColor2Location = gl.getUniformLocation(drawProgram, 'color2Map');
+  },
+  encodeDraw: (uniforms, options) => {
+    // draw quad
+    gl.bindVertexArray(quadVertexArray);
+    gl.drawArrays(gl.TRIANGLES, 0, 6);
+  }
+});
+
+var renderPassGradient = new RenderPassConfig(gl, programParticleGradient, {
+  encodeUniforms: (uniforms, options) => {
+    //TODO: set uniforms
+    //TODO: set texture for vertex positions
+  },
+  encodeDraw: (uniforms, options) => {
+    // draw quad
+    gl.bindVertexArray(quadVertexArray);
+    gl.drawArrays(gl.TRIANGLES, 0, 6);
+  }
+});
+
+var finalRenderPass = new RenderPassConfig(gl, program, {
+  beforeEncode: (uniforms, options) => {
+    gl.clearColor(0.0, 0.0, 0.0, 1.0);
+    gl.clear(gl.COLOR_BUFFER_BIT | gl.DEPTH_BUFFER_BIT);
+  },
+  encodeUniforms: (uniforms, options) => {
+    //TODO: set uniforms
+    //TODO: set texture from gradient pass
+  },
+  encodeDraw: (uniforms, options) => {
+    // draw quad
+    gl.bindVertexArray(quadVertexArray);
+    gl.drawArrays(gl.TRIANGLES, 0, 6);
+  }
+});
+
+// TODO: where to check the framebuffer status?
+// var status = gl.checkFramebufferStatus(gl.DRAW_FRAMEBUFFER);
+// if (status != gl.FRAMEBUFFER_COMPLETE) {
+//   console.log('fb status: ' + status.toString(16));
+//   return;
+// }
 
 function render() {
-  gl.clearColor(0.0, 0.0, 0.0, 1.0);
-  gl.clear(gl.COLOR_BUFFER_BIT | gl.DEPTH_BUFFER_BIT);
+
+  // TODO: decide which framebuffers need a clear?
+  //gl.clearColor(0.0, 0.0, 0.0, 1.0);
+  //gl.clear(gl.COLOR_BUFFER_BIT | gl.DEPTH_BUFFER_BIT);
+
+  // -- pass 1: render randoms
+  offscreenFramebuffer.encode(() => renderPassRandoms.encode(uniforms, options));
+
+  // -- Pass 2: render gradient from particle location
+  // -  (and new particle locations in vertex shader?)
+
+  renderPassGradient.encode(uniforms, options);
+
+  // -- Final Pass: render image
+  finalRenderPass.encode(uniforms, options);
 
   //orientation[0] = 0.00020; // yaw
   //orientation[1] = 0.00010; // pitch
@@ -308,4 +535,8 @@ function render() {
   //mat4.rotateZ(mvMatrix, mvMatrix, orientation[2] * Math.PI);
 
   requestAnimationFrame(render);
+}
+
+function cleanup() {
+
 }
