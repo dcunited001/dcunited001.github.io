@@ -2,7 +2,6 @@
 
 //TODO: setup gradient to extend 16 directions outward
 
-
 function createShader(gl, source, type) {
   var shader = gl.createShader(type);
   gl.shaderSource(shader, source);
@@ -12,8 +11,11 @@ function createShader(gl, source, type) {
 
 window.createProgram = function(gl, vertexShaderSource, fragmentShaderSource, defines = {}) {
   var program = gl.createProgram();
-  var vshader = createDefines(defines) + createShader(gl, vertexShaderSource, gl.VERTEX_SHADER);
-  var fshader = createDefines(defines) + createShader(gl, fragmentShaderSource, gl.FRAGMENT_SHADER);
+  vertexShaderSource = "#version 300 es\n" + expandDefines(defines) + vertexShaderSource;
+  fragmentShaderSource = "#version 300 es\n" + expandDefines(defines) + fragmentShaderSource;
+
+  var vshader = createShader(gl, vertexShaderSource, gl.VERTEX_SHADER);
+  var fshader = createShader(gl, fragmentShaderSource, gl.FRAGMENT_SHADER);
   gl.attachShader(program, vshader);
   gl.deleteShader(vshader);
   gl.attachShader(program, fshader);
@@ -38,9 +40,16 @@ window.createProgram = function(gl, vertexShaderSource, fragmentShaderSource, de
   return program;
 };
 
-window.createDefines = function(defines) {
+window.expandDefines = function(defines = {}) {
   // if empty, return empty string
   // otherwise iterate through and generate string to prepend
+
+  var defineStrings = "";
+  for (var k in defines.keys) {
+    defineStrings += `#define ${k} ${defines[k]}\n`;
+  }
+
+  return defineStrings;
 };
 
 window.loadImage = function(url, onload) {
@@ -119,7 +128,7 @@ canvas.onmousemove = function(event) {
 // Canvas & WebGL
 // =======================================
 
-var gl = canvas.getContext( 'webgl2', { antialias: false } );
+var gl = canvas.getContext( 'webgl2', { antialias: true } );
 var isWebGL2 = !!gl;
 if(!isWebGL2) {
   document.getElementById('info').innerHTML = 'WebGL 2 is not available.  See <a href="https://www.khronos.org/webgl/wiki/Getting_a_WebGL_Implementation">How to get a WebGL 2 implementation</a>';
@@ -144,7 +153,8 @@ var shaderVertexPassthrough = document.getElementById('vertexPassthrough').textC
 
 var shaderDefines = {};
 var programRandomTexture = createProgram(gl, shaderVertexPassthrough, shaderRandoms);
-var program = createProgram(gl, shaderVertex, shaderFragment);
+var programParticleGradient = createProgram(gl, shaderVertexPassthrough, shaderTest);
+var programFinal = createProgram(gl, shaderVertex, shaderTest);
 
 var programTest = createProgram(gl, shaderVertexPassthrough, shaderTest);
 
@@ -168,18 +178,18 @@ var PARTICLE_TEXTURE_WIDTH = 4;
 // TODO: generate initial texture to use for particle positions
 // TODO: generate initial texture to use for randoms
 
-function generateRandoms(w,h,n) {
+function generateRandoms(h,w,n) {
   var randoms = new Float32Array(w*h*n);
-  for (i=0; i<(w*h*n); i++) {
+  for (var i=0; i<(w*h*n); i++) {
     randoms[i] = Math.random();
   }
   return randoms
 }
 
-function generateUIntRandoms(w,h,n) {
+function generateUInt32Randoms(h,w,n) {
   var randoms = new Uint32Array(w*h*n);
-  for (i=0; i<(w*h*n); i++) {
-    randoms[i] = Math.floor(Math.random() * 255);
+  for (var i=0; i<(w*h*n); i++) {
+    randoms[i] = Math.trunc(Math.random() * 255);
   }
   return randoms
 }
@@ -225,13 +235,13 @@ gl.bindVertexArray(quadVertexArray);
 
 var quadVertexPosIndex = 0;
 gl.bindBuffer(gl.ARRAY_BUFFER, quadVertexPosBuffer);
-gl.vertexAttributePointer(quadVertexPosIndex, 3, gl.FLOAT, false, 0, 0);
+gl.vertexAttribPointer(quadVertexPosIndex, 3, gl.FLOAT, false, 0, 0);
 gl.enableVertexAttribArray(quadVertexPosIndex);
 gl.bindBuffer(gl.ARRAY_BUFFER, null);
 
 var quadVertexTexIndex = 4;
 gl.bindBuffer(gl.ARRAY_BUFFER, quadVertexPosBuffer);
-gl.vertexAttributePointer(quadVertexTexIndex, 2, gl.FLOAT, false, 0, 0);
+gl.vertexAttribPointer(quadVertexTexIndex, 2, gl.FLOAT, false, 0, 0);
 gl.enableVertexAttribArray(quadVertexTexIndex);
 gl.bindBuffer(gl.ARRAY_BUFFER, null);
 
@@ -248,30 +258,27 @@ var attachment0, // stores field and gradient to modify vertex behavior
 gl.activeTexture(gl.TEXTURE0);
 attachment0 = gl.createTexture();
 gl.bindTexture(gl.TEXTURE_2D, attachment0);
+
+gl.texImage2D(gl.TEXTURE_2D,
+  0,
+  gl.RGBA32F,
+  windowSize.x,
+  windowSize.y,
+  0,
+  gl.RGBA32F,
+  gl.FLOAT,
+  new Float32Array(windowSize.x * windowSize.y * 4));
+
 gl.texParameteri(gl.TEXTURE_2D, gl.TEXTURE_WRAP_S, gl.CLAMP_TO_EDGE);
 gl.texParameteri(gl.TEXTURE_2D, gl.TEXTURE_WRAP_T, gl.CLAMP_TO_EDGE);
 gl.texParameteri(gl.TEXTURE_2D, gl.TEXTURE_MIN_FILTER, gl.LINEAR);
 gl.texParameteri(gl.TEXTURE_2D, gl.TEXTURE_MAG_FILTER, gl.LINEAR);
 
-gl.texImage2D(gl.TEXTURE_2D,
-  0,
-  gl.RGBA,
-  windowSize.x,
-  windowSize.y,
-  0,
-  gl.RGBA,
-  gl.FLOAT,
-  new Float32Array(windowSize.x * windowSize.y * 4));
-
 gl.activeTexture(gl.TEXTURE1);
 attachment1 = gl.createTexture();
 gl.bindTexture(gl.TEXTURE_2D, attachment1);
-gl.texParameteri(gl.TEXTURE_2D, gl.TEXTURE_WRAP_S, gl.CLAMP_TO_EDGE);
-gl.texParameteri(gl.TEXTURE_2D, gl.TEXTURE_WRAP_T, gl.CLAMP_TO_EDGE);
-gl.texParameteri(gl.TEXTURE_2D, gl.TEXTURE_MIN_FILTER, gl.NEAREST);
-gl.texParameteri(gl.TEXTURE_2D, gl.TEXTURE_MAG_FILTER, gl.NEAREST);
 
-var attach1Data = generateUIntRandoms(PARTICLE_TEXTURE_WIDTH, PARTICLE_TEXTURE_HEIGHT, 4);
+var attach1data = generateUInt32Randoms(PARTICLE_TEXTURE_HEIGHT, PARTICLE_TEXTURE_WIDTH * 2, 4);
 
 gl.texImage2D(gl.TEXTURE_2D,
   0,
@@ -279,27 +286,14 @@ gl.texImage2D(gl.TEXTURE_2D,
   PARTICLE_TEXTURE_HEIGHT,
   PARTICLE_TEXTURE_WIDTH * 2, // TODO: reuse same texture between frames
   0,
-  gl.RGBA,
+  gl.RGBA32UI,
   gl.UNSIGNED_INT, // TODO: change to UInt32
   attach1data);
 
-// -- initialize frame buffer
-var frameBuffer = gl.createFramebuffer();
-gl.bindFramebuffer(gl.DRAW_FRAMEBUFFER, frameBuffer);
-gl.framebufferTexture2D(gl.DRAW_FRAMEBUFFER, gl.COLOR_ATTACHMENT0, gl.TEXTURE_2D, color1Texture, 0);
-gl.framebufferTexture2D(gl.DRAW_FRAMEBUFFER, gl.COLOR_ATTACHMENT1, gl.TEXTURE_2D, color2Texture, 0);
-
-gl.drawBuffers([
-  gl.COLOR_ATTACHMENT0,
-  gl.COLOR_ATTACHMENT1
-]);
-
-var status = gl.checkFramebufferStatus(gl.DRAW_FRAMEBUFFER);
-if (status != gl.FRAMEBUFFER_COMPLETE) {
-  console.log('fb status: ' + status.toString(16));
-}
-
-gl.bindFramebuffer(gl.DRAW_FRAMEBUFFER, null);
+gl.texParameteri(gl.TEXTURE_2D, gl.TEXTURE_WRAP_S, gl.CLAMP_TO_EDGE);
+gl.texParameteri(gl.TEXTURE_2D, gl.TEXTURE_WRAP_T, gl.CLAMP_TO_EDGE);
+gl.texParameteri(gl.TEXTURE_2D, gl.TEXTURE_MIN_FILTER, gl.NEAREST);
+gl.texParameteri(gl.TEXTURE_2D, gl.TEXTURE_MAG_FILTER, gl.NEAREST);
 
 // -- Initialize render variables
 var orientation = [0.0, 0.0, 0.0];
@@ -339,14 +333,14 @@ class FramebufferConfig {
   set framebuffer (fb) { this._framebuffer = fb; }
 
   selectFramebuffer() {
-    context().bindFramebuffer(gl.DRAW_FRAMEBUFFER, this._framebuffer);
+    this.context.bindFramebuffer(gl.DRAW_FRAMEBUFFER, this._framebuffer);
   }
 
   configAttachments() {
     for (var i in this._attachments.keys) {
       var att = attachments()[i];
       if (att !== undefined) {
-        context().framebufferTexture2D(this._context.DRAW_FRAMEBUFFER, i, att.texTarget, att.texture, att.mipmapLevel || 0);
+        this.context.framebufferTexture2D(this._context.DRAW_FRAMEBUFFER, i, att.texTarget, att.texture, att.mipmapLevel || 0);
       } else {
         console.error("FramebufferConfig: undefined attachment")
       }
@@ -354,32 +348,32 @@ class FramebufferConfig {
   }
 
   setDrawBuffers(keys) {
-    if (keys !== undefined && !keys.empty()) {
-      context().drawBuffers(keys);
+    if (keys !== undefined && keys && !keys.empty()) {
+      this.context.drawBuffers(keys);
     }
   }
 
   checkStatus() {
-    var status = context().checkFramebufferStatus(gl.DRAW_FRAMEBUFFER);
+    var status = this.context.checkFramebufferStatus(gl.DRAW_FRAMEBUFFER);
     if (status != gl.FRAMEBUFFER_COMPLETE) {
       console.error('FramebufferConfig: status - ' + status.toString(16));
     }
   }
 
   config() {
-    selectFramebuffer();
-    configAttachments();
-    checkStatus();
-    cleanupConfig();
+    this.selectFramebuffer();
+    this.configAttachments();
+    this.checkStatus();
+    this.cleanupConfig();
   }
 
   cleanupConfig() {
-    gl.bindFramebuffer(gl.DRAW_FRAMEBUFFER, null);
+    this.context.bindFramebuffer(gl.DRAW_FRAMEBUFFER, null);
   }
 
   encode(attachmentKeys = [], encodeBlock) {
-    selectFramebuffer();
-    setDrawBuffers(attachmentKeys);
+    this.selectFramebuffer();
+    this.setDrawBuffers(attachmentKeys);
 
     if (encodeBlock === undefined) {
       console.error("FramebufferConfig: no encode block");
@@ -387,7 +381,7 @@ class FramebufferConfig {
       encodeBlock();
     }
 
-    cleanupEncode();
+    this.cleanupEncode();
   }
 
   cleanupEncode() {
@@ -405,6 +399,8 @@ class RenderPassConfig {
     this._program = program;
     this._context = context;
     this._uniformLocations = options.uniformLocations || {};
+    delete options.uniformLocations;
+    this._options = options;
   }
 
   get program () { return this._program }
@@ -415,6 +411,8 @@ class RenderPassConfig {
 
   get context() { return this._context; }
   set context(context) { this._context = context; }
+  get options() { return this._options; }
+  set options(options) { this._options = options; }
   get uniformLocations() { return this._uniformLocations; }
   set uniformLocations(uniformLocations) { this._uniformLocations = uniformLocations; }
 
@@ -423,34 +421,40 @@ class RenderPassConfig {
   }
 
   selectProgram() {
-    context.useProgram(program())
+    this.context.useProgram(this.program)
+  }
+
+  config() {
+    // set uniform locations, etc
   }
 
   encode(uniforms, options = {}) {
+    var ops = Object.assign({}, this.options, options);
+
     // for each key in uniforms, encode value into the specific location
-    if (options.beforeEncode !== undefined) {
-      options.beforeEncode(uniforms, options);
+    if (ops.beforeEncode !== undefined) {
+      ops.beforeEncode(uniforms, ops);
     }
 
-    selectProgram();
+    this.selectProgram();
 
-    if (options.encodeUniforms !== undefined) {
-      options.encodeUniforms(uniforms, options);
+    if (ops.encodeUniforms !== undefined) {
+      ops.encodeUniforms(uniforms, ops);
     } else {
-      this.encodeUniforms(uniforms, options);
+      this.encodeUniforms(uniforms, ops);
     }
 
-    if (options.encodeDraw !== undefined) {
-      options.encodeDraw(uniforms, options);
+    if (ops.encodeDraw !== undefined) {
+      ops.encodeDraw(uniforms, ops);
     } else {
-      this.encodeDraw(uniforms, options);
+      this.encodeDraw(uniforms, ops);
     }
 
-    if (options.afterEncode !== undefined) {
-      options.afterEncode(uniforms, options);
+    if (ops.afterEncode !== undefined) {
+      ops.afterEncode(uniforms, ops);
     }
 
-    cleanupEncode();
+    this.cleanupEncode();
   }
 
   encodeUniforms(uniforgms, options = {}) {
@@ -466,8 +470,8 @@ class RenderPassConfig {
   }
 }
 
-var offscreenFramebuffer = new FramebufferConfig(context, gl.createFramebuffer());
-var onscreenFramebuffer = new FramebufferConfig(context, null);
+var offscreenFramebuffer = new FramebufferConfig(gl, gl.createFramebuffer());
+var onscreenFramebuffer = new FramebufferConfig(gl, null);
 
 var renderPassRandoms = new RenderPassConfig(gl, programRandomTexture, {
   encodeUniforms: (uniforms, options) => {
@@ -496,7 +500,8 @@ var renderPassGradient = new RenderPassConfig(gl, programParticleGradient, {
   }
 });
 
-var finalRenderPass = new RenderPassConfig(gl, program, {
+// TODO: change to programRenderFinal
+var finalRenderPass = new RenderPassConfig(gl, programTest, {
   beforeEncode: (uniforms, options) => {
     gl.clearColor(0.0, 0.0, 0.0, 1.0);
     gl.clear(gl.COLOR_BUFFER_BIT | gl.DEPTH_BUFFER_BIT);
@@ -512,7 +517,14 @@ var finalRenderPass = new RenderPassConfig(gl, program, {
   }
 });
 
+//renderPassRandoms.config();
+//renderPassGradient.config();
+finalRenderPass.config();
+
+render();
+
 function render() {
+  console.log('frame');
   // TODO: decide which framebuffers need a clear?
   //gl.clearColor(0.0, 0.0, 0.0, 1.0);
   //gl.clear(gl.COLOR_BUFFER_BIT | gl.DEPTH_BUFFER_BIT);
@@ -527,7 +539,7 @@ function render() {
   //offscreenFramebuffer.cleanupEncode();
 
   // -- Final Pass: render image
-  onscreenFramebuffer.encode(null, finalRenderPass.encode(uniforms, options));
+  onscreenFramebuffer.encode(null, () => finalRenderPass.encode({}));
   offscreenFramebuffer.cleanupEncode();
 
   //orientation[0] = 0.00020; // yaw

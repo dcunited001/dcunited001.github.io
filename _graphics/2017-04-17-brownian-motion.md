@@ -10,7 +10,7 @@ name: "David Conner"
 
 ## Requires ES6 & WebGL2
 
-<script type="x-shader/x-vertex" id="vertexPassthrough">#version 300 es
+<script type="x-shader/x-vertex" id="vertexPassthrough">
 #define POSITION_LOCATION 0
 #define TEXCOORD_LOCATION 4
 
@@ -37,7 +37,7 @@ void main() {
   </figure>
 </p>
 
-<script type="x-shader/x-fragment" id="shaderRandoms">#version 300 es
+<script type="x-shader/x-fragment" id="shaderRandoms">
 precision highp float;
 precision highp int;
 precision lowp usampler2D;
@@ -84,18 +84,29 @@ void main() {
   </figure>
 </p>
 
-<script type="x-shader/x-vertex" id="shaderVertex">#version 300 es
+<script type="x-shader/x-vertex" id="shaderVertex">
+
 #define POSITION_LOCATION 0
-#define TEXCOORD_LOCATION 4
+#define NORMAL_LOCATION 4
+#define TEXCOORD_LOCATION 1
+
+//#define POSITION_LOCATION 0
+//#define TEXCOORD_LOCATION 4
 
 precision highp float;
 precision highp int;
+
 uniform mat4 mvMatrix;
 uniform mat4 pMatrix;
-uniform sampler2D particlePositions;
+//uniform sampler2D particlePositions;
+uniform sampler2D displacementMap;
 
 layout(location = POSITION_LOCATION) in vec3 a_position;
+layout(location = NORMAL_LOCATION) in vec3 a_normal;
 layout(location = TEXCOORD_LOCATION) in vec2 a_texcoord;
+
+//layout(location = POSITION_LOCATION) in vec3 a_position;
+//layout(location = TEXCOORD_LOCATION) in vec2 a_texcoord;
 
 out vec2 v_st;
 out vec3 v_position;
@@ -103,7 +114,7 @@ void main()
 {
     v_st = a_texcoord;
     float height = texture(displacementMap, a_texcoord).b;
-    vec4 displacedPosition = vec4(a_position, 1.0) + vec4(normal * height, 0.0);
+    vec4 displacedPosition = vec4(a_position, 1.0) + vec4(a_normal * height, 0.0);
     v_position = vec3(mvMatrix * displacedPosition);
     gl_Position = pMatrix * mvMatrix * displacedPosition;
 }
@@ -120,8 +131,7 @@ void main()
   </figure>
 </p>
 
-<script type="x-shader/x-fragment" id="shaderFragment">#version 300 es
-
+<script type="x-shader/x-fragment" id="shaderFragment">
 precision highp float;
 precision highp int;
 precision highp sampler2D;
@@ -150,14 +160,14 @@ void main()
     // Compute flat normal using gradient
     vec3 fdx = dFdx(v_position);
     vec3 fdy = dFdy(v_position);
+
     vec3 N = normalize(cross(fdx, fdy));
     color = mix(color, vec4(N, 1.0), 0.5);
 }
 </script>
 
 
-<script type="x-shader/x-fragment" id="shaderTest">#version 300 es
-
+<script type="x-shader/x-fragment" id="shaderTest">
 precision highp float;
 precision highp int;
 
@@ -169,8 +179,8 @@ void main()
 {
     vec3 fdx = dFdx(v_position);
     vec3 fdy = dFdy(v_position);
-    color = vec4(vec2(1.0, 1.0) - v_st, 0.0, 1.0);
-    color = mix(color, vec4(N, 1.0), 0.5);
+    color = vec4(vec2(1.0, 1.0) - v_st, fract(fdx.x), 1.0);
+    //color = mix(color, vec4(N, 1.0), 0.5);
 }
 </script>
 
