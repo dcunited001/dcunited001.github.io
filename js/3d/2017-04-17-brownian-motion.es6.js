@@ -301,12 +301,6 @@ if (status != gl.FRAMEBUFFER_COMPLETE) {
 
 gl.bindFramebuffer(gl.DRAW_FRAMEBUFFER, null);
 
-var mvMatrixLocation = gl.getUniformLocation(program, 'mvMatrix');
-var pMatrixLocation = gl.getUniformLocation(program, 'pMatrix');
-var diffuseLocation = gl.getUniformLocation(program, 'diffuse');
-var displacementMapLocation = gl.getUniformLocation(program, 'displacementMap');
-
-
 // -- Initialize render variables
 var orientation = [0.0, 0.0, 0.0];
 var tempMat4 = mat4.create();
@@ -333,10 +327,12 @@ mat4.perspective(perspectiveMatrix, 0.785, 1, 1, 1000);
 class FramebufferConfig {
   constructor (context, framebuffer) {
     this._context = context;
-    this._framebuffer = framebuffer
+    this._framebuffer = framebuffer;
     this._attachments = {};
   }
 
+  get context() { return this._context; }
+  set context(context) { this._context = context; }
   get attachments () { return this._attachments; }
   set attachments (attachments) { this._attachments = attachments; }
   get framebuffer () { return this.framebuffer; }
@@ -344,23 +340,36 @@ class FramebufferConfig {
 
   selectFramebuffer() {
     context().bindFramebuffer(gl.DRAW_FRAMEBUFFER, this._framebuffer);
+  }
 
+  configAttachments() {
     for (var i in this._attachments.keys) {
-      var texTarget = this._attachments[i].texTarget;
-      var texture = this._attachments[i].texture;
-      var mipmapLevel = this._attachments[i].mipmapLevel || 0;
-      context().framebufferTexture2D(this._context.DRAW_FRAMEBUFFER, i, texTarget, texture, mipmapLevel);
+      var att = attachments()[i];
+      if (att !== undefined) {
+        context().framebufferTexture2D(this._context.DRAW_FRAMEBUFFER, i, att.texTarget, att.texture, att.mipmapLevel || 0);
+      } else {
+        console.error("FramebufferConfig: undefined attachment")
+      }
     }
+  }
 
-    // TODO: check for empty attachments?
-    var contextAttachmentIds = this.attachments.keys;
-    if (!contextAttachmentIds.empty()) {
-      context.drawBuffers(contextAttachmentIds);
+  setDrawBuffers(keys) {
+    if (keys !== undefined && !keys.empty()) {
+      context().drawBuffers(keys);
+    }
+  }
+
+  checkStatus() {
+    var status = context().checkFramebufferStatus(gl.DRAW_FRAMEBUFFER);
+    if (status != gl.FRAMEBUFFER_COMPLETE) {
+      console.error('FramebufferConfig: status - ' + status.toString(16));
     }
   }
 
   config() {
     selectFramebuffer();
+    configAttachments();
+    checkStatus();
     cleanupConfig();
   }
 
@@ -368,13 +377,14 @@ class FramebufferConfig {
     gl.bindFramebuffer(gl.DRAW_FRAMEBUFFER, null);
   }
 
-  encode(encodeBlock) {
+  encode(attachmentKeys = [], encodeBlock) {
     selectFramebuffer();
+    setDrawBuffers(attachmentKeys);
 
     if (encodeBlock === undefined) {
-      console.error("no encode block")
+      console.error("FramebufferConfig: no encode block");
     } else {
-      encodeBlock()
+      encodeBlock();
     }
 
     cleanupEncode();
@@ -502,29 +512,23 @@ var finalRenderPass = new RenderPassConfig(gl, program, {
   }
 });
 
-// TODO: where to check the framebuffer status?
-// var status = gl.checkFramebufferStatus(gl.DRAW_FRAMEBUFFER);
-// if (status != gl.FRAMEBUFFER_COMPLETE) {
-//   console.log('fb status: ' + status.toString(16));
-//   return;
-// }
-
 function render() {
-
   // TODO: decide which framebuffers need a clear?
   //gl.clearColor(0.0, 0.0, 0.0, 1.0);
   //gl.clear(gl.COLOR_BUFFER_BIT | gl.DEPTH_BUFFER_BIT);
 
   // -- pass 1: render randoms
-  offscreenFramebuffer.encode(() => renderPassRandoms.encode(uniforms, options));
+  //offscreenFramebuffer.encode(attachmentKeys, () => renderPassRandoms.encode(uniforms, options));
+  //offscreenFramebuffer.cleanupEncode();
 
   // -- Pass 2: render gradient from particle location
   // -  (and new particle locations in vertex shader?)
-
-  renderPassGradient.encode(uniforms, options);
+  //offscreenFramebuffer.encode(attachmentKeys, () => renderPassGradient.encode(uniforms, options));
+  //offscreenFramebuffer.cleanupEncode();
 
   // -- Final Pass: render image
-  finalRenderPass.encode(uniforms, options);
+  onscreenFramebuffer.encode(null, finalRenderPass.encode(uniforms, options));
+  offscreenFramebuffer.cleanupEncode();
 
   //orientation[0] = 0.00020; // yaw
   //orientation[1] = 0.00010; // pitch
