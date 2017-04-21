@@ -2,6 +2,20 @@
 
 //TODO: setup gradient to extend 16 directions outward
 
+//TODO: emoji texture atlas for particles
+// - set particle to render as emoji
+// - emoji based state machines emerge with id's for states
+// - exchange states with neighbors
+
+// TODO: basic implementation of emoji-based probabilistic turing machine
+// - particles retain state history
+
+// TODO: textures for hard effects on the field the gradients share
+// - also can randomly initialize some constraints (pic of labyrinth, etc)
+
+// - add noise to final color mapping as an effect
+//   - the mapping can be made to distorct shadows
+
 function createShader(gl, source, type) {
   var shader = gl.createShader(type);
   gl.shaderSource(shader, source);
