@@ -102,6 +102,33 @@ window.loadObj = function(url, onload) {
 };
 
 
+// TODO: refactor some of the code above into classes
+// - bc i want to be able to query uniform locations from an obj representing the program
+//   - instead of the render pass
+//class WebGL2Program {
+//  constructor(context) {
+//
+//  }
+//
+//  get vertexSource () { return this._vertexSource; }
+//  set vertexSource (vertexSource) { this._vertexSource = vertexSource; }
+//  get fragmentSource () { return this._fragmentSource; }
+//  set fragmentSource (fragmentSource) { this._fragmentSource = fragmentSource; }
+//
+//  get vertexShader () { return this._vertexShader; }
+//  set vertexShader (vertexShader) { this._vertexShader = vertexShader; }
+//  get fragmentShader () { return this._fragmentShader; }
+//  set fragmentShader (fragmentShader) { this._fragmentShader = fragmentShader; }
+//
+//  get program () { return this._program; }
+//  set program (program) { this._program = program; }
+//
+//  createProgram () {
+//
+//  }
+//
+//}
+
 class Quad {
   constructor(context) {
     this._pos = this.getQuadPositions();
