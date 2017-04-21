@@ -236,10 +236,12 @@ if(!isWebGL2) {
   console.error('WebGL 2 is not available.')
 }
 
-var windowSize = {
-  x: gl.drawingBufferWidth,
-  y: gl.drawingBufferHeight
-};
+var WIN_X = gl.drawingBufferWidth;
+var WIN_Y = gl.drawingBufferHeight;
+
+var PARTICLE_TEXTURE_HEIGHT = 100;
+var PARTICLE_TEXTURE_WIDTH = 4;
+var PARTICLE_ATTR_SIZE = 4;
 
 // =======================================
 // GLSL Programs
@@ -371,15 +373,20 @@ gl.activeTexture(gl.TEXTURE0);
 attachment0 = gl.createTexture();
 gl.bindTexture(gl.TEXTURE_2D, attachment0);
 
-gl.texImage2D(gl.TEXTURE_2D,
+// Initialize a texture twice the window width,
+// - so i can alternatively use difference slices of the texture
+// - (eventually set to 3x to avoid writing on regions of the texture used to render?)
+gl.texStorage2D(gl.TEXTURE_2D, 1, gl.RGBA32F, WIN_X * 2, WIN_Y);
+//(target, level, xoffset, yoffset, width, height, format, type, ImageData source);
+gl.texSubImage2D(gl.TEXTURE_2D,
   0,
-  gl.RGBA32F,
-  windowSize.x,
-  windowSize.y,
   0,
+  0,
+  WIN_X,
+  WIN_Y,
   gl.RGBA32F,
   gl.FLOAT,
-  new Float32Array(windowSize.x * windowSize.y * 4));
+  new Float32Array(WIN_X * WIN_Y * 4));
 
 gl.texParameteri(gl.TEXTURE_2D, gl.TEXTURE_WRAP_S, gl.CLAMP_TO_EDGE);
 gl.texParameteri(gl.TEXTURE_2D, gl.TEXTURE_WRAP_T, gl.CLAMP_TO_EDGE);
@@ -390,16 +397,21 @@ gl.activeTexture(gl.TEXTURE1);
 attachment1 = gl.createTexture();
 gl.bindTexture(gl.TEXTURE_2D, attachment1);
 
-var attach1data = generateUInt32Randoms(PARTICLE_TEXTURE_HEIGHT, PARTICLE_TEXTURE_WIDTH * 2, 4);
+var attach1data = generateUInt32Randoms(PARTICLE_TEXTURE_HEIGHT, PARTICLE_TEXTURE_WIDTH, 4);
 
-gl.texImage2D(gl.TEXTURE_2D,
+// Initialize a texture twice the window width,
+// - so i can alternatively use difference slices of the texture
+// - (eventually set to 3x to avoid writing on regions of the texture used to render?)
+gl.texStorage2D(gl.TEXTURE_2D, 1, gl.RGBA32UI, PARTICLE_TEXTURE_WIDTH * PARTICLE_ATTR_SIZE * 2, PARTICLE_TEXTURE_HEIGHT);
+//void gl.texSubImage2D(target, level, xoffset, yoffset, width, height, format, type, ImageData source);
+gl.texSubImage2D(gl.TEXTURE_2D,
   0,
-  gl.RGBA32UI,
+  0, // x offset
+  0, // y offset
   PARTICLE_TEXTURE_HEIGHT,
-  PARTICLE_TEXTURE_WIDTH * 2, // TODO: reuse same texture between frames
-  0,
+  PARTICLE_TEXTURE_WIDTH, // TODO: reuse same texture between frames
   gl.RGBA32UI,
-  gl.UNSIGNED_INT, // TODO: change to UInt32
+  gl.UNSIGNED_INT,
   attach1data);
 
 gl.texParameteri(gl.TEXTURE_2D, gl.TEXTURE_WRAP_S, gl.CLAMP_TO_EDGE);
@@ -460,7 +472,7 @@ class FramebufferConfig {
   }
 
   setDrawBuffers(keys) {
-    if (keys !== undefined && keys && !keys.empty()) {
+    if (keys !== undefined && keys && !(keys.length == 0)) {
       this.context.drawBuffers(keys);
     }
   }
@@ -595,7 +607,7 @@ var renderPassRandoms = new RenderPassConfig(gl, programRandomTexture, {
   },
   encodeDraw: (context, uniforms, options) => {
     // draw quad
-    context.bindVertexArray(quadVertexArray);
+    context.bindVertexArray(finalQuad.vertexArray);
     context.drawArrays(context.TRIANGLES, 0, 6);
   }
 });
@@ -607,7 +619,7 @@ var renderPassGradient = new RenderPassConfig(gl, programParticleGradient, {
   },
   encodeDraw: (context, uniforms, options) => {
     // draw quad
-    context.bindVertexArray(quadVertexArray);
+    context.bindVertexArray(finalQuad.vertexArray);
     context.drawArrays(context.TRIANGLES, 0, 6);
   }
 });
@@ -624,8 +636,7 @@ var finalRenderPass = new RenderPassConfig(gl, programTest, {
   },
   encodeDraw: (context, uniforms, options) => {
     // draw quad
-    console.log(quadVertexArray);
-    context.bindVertexArray(quadVertexArray);
+    context.bindVertexArray(finalQuad.vertexArray);
     context.drawArrays(context.TRIANGLES, 0, 6);
   }
 });
@@ -647,8 +658,9 @@ function render() {
 
   // -- Pass 2: render gradient from particle location
   // -  (and new particle locations in vertex shader?)
-  //offscreenFramebuffer.encode(attachmentKeys, () => renderPassGradient.encode(uniforms, options));
-  //offscreenFramebuffer.cleanupEncode();
+  // TODO: set uniforms and options
+  offscreenFramebuffer.encode([gl.COLOR_ATTACHMENT0], () => renderPassGradient.encode(uniforms, options));
+  offscreenFramebuffer.cleanupEncode();
 
   // -- Final Pass: render image
   onscreenFramebuffer.encode(null, () => finalRenderPass.encode({}));
