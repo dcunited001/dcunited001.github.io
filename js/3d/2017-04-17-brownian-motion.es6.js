@@ -101,6 +101,93 @@ window.loadObj = function(url, onload) {
   xhr.send();
 };
 
+
+class Quad {
+  constructor(context) {
+    this._pos = this.getQuadPositions();
+    this._tex = this.getQuadTexCoords();
+
+    this._buffers = this.prepareBuffers(context, this._pos, this._tex);
+    this._vertexArray = this.prepareVertexArray(context, this._buffers);
+  }
+
+  get pos () { return this._pos; }
+  set pos (pos) { this._pos = pos }
+
+  get tex () { return this._tex; }
+  set tex (tex) { this._tex = tex; }
+
+  get buffers () { return this._buffer; }
+  set buffers (buffer) { this._buffer = buffer; }
+
+  get vertexArray () { return this._vertexArray; }
+  set vertexArray (vertexArray) { this._vertexArray = vertexArray; }
+
+  prepareBuffers(context, pos, tex) {
+    var vertexPosBuffer = context.createBuffer();
+    context.bindBuffer(context.ARRAY_BUFFER, vertexPosBuffer);
+    context.bufferData(context.ARRAY_BUFFER, pos, context.STATIC_DRAW);
+    context.bindBuffer(context.ARRAY_BUFFER, null);
+
+    var vertexTexBuffer = context.createBuffer();
+    context.bindBuffer(context.ARRAY_BUFFER, vertexTexBuffer);
+    context.bufferData(context.ARRAY_BUFFER, tex, context.STATIC_DRAW);
+    context.bindBuffer(context.ARRAY_BUFFER, null);
+
+    return {
+      pos: vertexPosBuffer,
+      tex: vertexTexBuffer
+    }
+  }
+
+  prepareVertexArray(context, buffers) {
+    var vertexArray = context.createVertexArray();
+    context.bindVertexArray(vertexArray);
+
+    var vertexPosIdx = 0;
+    context.bindBuffer(context.ARRAY_BUFFER, buffers.pos);
+    context.vertexAttribPointer(vertexPosIdx, 4, context.FLOAT, false, 0, 0);
+    context.enableVertexAttribArray(vertexPosIdx);
+    context.bindBuffer(context.ARRAY_BUFFER, null);
+
+    var vertextexIdx = 4;
+    context.bindBuffer(context.ARRAY_BUFFER, buffers.tex);
+    context.vertexAttribPointer(vertextexIdx, 2, context.FLOAT, false, 0,0);
+    context.enableVertexAttribArray(vertextexIdx);
+    context.bindBuffer(context.ARRAY_BUFFER, null);
+
+    context.bindVertexArray(null);
+
+    return vertexArray;
+  }
+
+  createVertexLayout() {
+    // TODO: given a hash config, return new vertex layout using these buffers
+  }
+
+  getQuadPositions() {
+    return new Float32Array([
+      -1.0, -1.0, 0.0, 1.0,
+      1.0, -1.0, 0.0, 1.0,
+      1.0,  1.0, 0.0, 1.0,
+      1.0,  1.0, 0.0, 1.0,
+      -1.0,  1.0, 0.0, 1.0,
+      -1.0, -1.0, 0.0, 1.0
+    ])
+  }
+
+  getQuadTexCoords() {
+    return new Float32Array([
+      0.0, 0.0,
+      1.0, 0.0,
+      1.0, 1.0,
+      1.0, 1.0,
+      0.0, 1.0,
+      0.0, 0.0
+    ])
+  }
+}
+
 var canvas = document.getElementById('main-canvas');
 canvas.style.width = '100%';
 canvas.height = 500;
@@ -186,13 +273,10 @@ gl.blendFunc(gl.SRC_ALPHA, gl.ONE);
 // particles
 // =======================================
 
-var PARTICLE_TEXTURE_HEIGHT = 100;
-var PARTICLE_TEXTURE_WIDTH = 4;
-
 // TODO: generate initial texture to use for particle positions
 // TODO: generate initial texture to use for randoms
 
-function generateRandoms(h,w,n) {
+function generateFloat32Randoms(h,w,n) {
   var randoms = new Float32Array(w*h*n);
   for (var i=0; i<(w*h*n); i++) {
     randoms[i] = Math.random();
@@ -208,58 +292,72 @@ function generateUInt32Randoms(h,w,n) {
   return randoms
 }
 
-// =======================================
-// final quad geometry
-// =======================================
-var quadPositions = new Float32Array([
-  -1.0, -1.0, 0.0,
-  1.0, -1.0, 0.0,
-  1.0,  1.0, 0.0,
-  1.0,  1.0, 0.0,
-  -1.0,  1.0, 0.0,
-  -1.0, -1.0, 0.0
-]);
+// var particleIndices = new
 
-var quadVertexPosBuffer = gl.createBuffer();
-gl.bindBuffer(gl.ARRAY_BUFFER, quadVertexPosBuffer);
-gl.bufferData(gl.ARRAY_BUFFER, quadPositions, gl.STATIC_DRAW);
+// attributes
+// particle_index
+// particle_x
+// particle_y
+// particle_frequency
+// particle_amplitude
+// particle_radian
+
+// =======================================
+// particle buffers
+// =======================================
+
+// buffer structure:
+// - particle index
+// - particle X
+// - particle Y
+
+function generateParticleIndices(h,w) {
+  var indices = new Uint32Array(h*w);
+  for (var i=0; i<(h*w); i++){
+    indices[i] = i;
+  }
+  return indices;
+}
+
+var particlePos = generateFloat32Randoms(PARTICLE_TEXTURE_HEIGHT, PARTICLE_TEXTURE_WIDTH, 2);
+var particleIdx = generateParticleIndices(PARTICLE_TEXTURE_HEIGHT, PARTICLE_TEXTURE_WIDTH);
+
+var particlePosBuffer = gl.createBuffer();
+gl.bindBuffer(gl.ARRAY_BUFFER, particlePosBuffer);
+gl.bufferData(gl.ARRAY_BUFFER, particlePos, gl.STATIC_DRAW);
 gl.bindBuffer(gl.ARRAY_BUFFER, null);
 
-var quadTexcoords = new Float32Array([
-  0.0, 0.0,
-  1.0, 0.0,
-  1.0, 1.0,
-  1.0, 1.0,
-  0.0, 1.0,
-  0.0, 0.0
-]);
-
-var quadVertexTexBuffer = gl.createBuffer();
-gl.bindBuffer(gl.ARRAY_BUFFER, quadVertexTexBuffer);
-gl.bufferData(gl.ARRAY_BUFFER, quadTexcoords, gl.STATIC_DRAW);
+var particleIdxBuffer = gl.createBuffer();
+gl.bindBuffer(gl.ARRAY_BUFFER, particleIdxBuffer);
+gl.bufferData(gl.ARRAY_BUFFER, particleIdx, gl.STATIC_DRAW);
 gl.bindBuffer(gl.ARRAY_BUFFER, null);
 
 // =======================================
-// quad vertex layout
+// particle vertex layout
 // =======================================
-// - reuse as default vertex layout?
 
-var quadVertexArray = gl.createVertexArray();
-gl.bindVertexArray(quadVertexArray);
+var particleVertexArray = gl.createVertexArray();
+gl.bindVertexArray(particleVertexArray);
 
-var quadVertexPosIndex = 0;
-gl.bindBuffer(gl.ARRAY_BUFFER, quadVertexPosBuffer);
-gl.vertexAttribPointer(quadVertexPosIndex, 3, gl.FLOAT, false, 0, 0);
-gl.enableVertexAttribArray(quadVertexPosIndex);
+var particleVertexPosIndex = 0;
+gl.bindBuffer(gl.ARRAY_BUFFER, particlePosBuffer);
+gl.vertexAttribPointer(particleVertexPosIndex, 2, gl.FLOAT, false, 0, 0);
+gl.enableVertexAttribArray(particleVertexPosIndex);
 gl.bindBuffer(gl.ARRAY_BUFFER, null);
 
-var quadVertexTexIndex = 4;
-gl.bindBuffer(gl.ARRAY_BUFFER, quadVertexPosBuffer);
-gl.vertexAttribPointer(quadVertexTexIndex, 2, gl.FLOAT, false, 0, 0);
-gl.enableVertexAttribArray(quadVertexTexIndex);
+var particleIdxIndex = 2;
+gl.bindBuffer(gl.ARRAY_BUFFER, particleIdxBuffer);
+gl.vertexAttribPointer(particleIdxIndex, 1, gl.UNSIGNED_INT, false, 0,0);
+gl.enableVertexAttribArray(particleVertexPosIndex);
 gl.bindBuffer(gl.ARRAY_BUFFER, null);
 
 gl.bindVertexArray(null);
+
+// =======================================
+// final quad geometry
+// =======================================
+
+var finalQuad = new Quad(gl);
 
 // =======================================
 // color attachments for render pipeline
@@ -539,7 +637,6 @@ finalRenderPass.config();
 render();
 
 function render() {
-  console.log('frame');
   // TODO: decide which framebuffers need a clear?
   //gl.clearColor(0.0, 0.0, 0.0, 1.0);
   //gl.clear(gl.COLOR_BUFFER_BIT | gl.DEPTH_BUFFER_BIT);
