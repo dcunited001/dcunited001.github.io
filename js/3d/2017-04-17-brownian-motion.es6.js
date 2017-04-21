@@ -58,9 +58,12 @@ window.expandDefines = function(defines = {}) {
   // if empty, return empty string
   // otherwise iterate through and generate string to prepend
 
+  // TODO: fix this?
   var defineStrings = "";
-  for (var k in defines.keys) {
-    defineStrings += `#define ${k} ${defines[k]}\n`;
+  if (defines.keys !== undefined) {
+    for (var k in Object.keys(defines)) {
+      defineStrings += `#define ${k} ${defines[k]}\n`;
+    }
   }
 
   return defineStrings;
@@ -266,6 +269,8 @@ if(!isWebGL2) {
 var WIN_X = gl.drawingBufferWidth;
 var WIN_Y = gl.drawingBufferHeight;
 
+var UINT32_MAX = 2 ** 32 - 1;
+
 var PARTICLE_TEXTURE_HEIGHT = 100;
 var PARTICLE_TEXTURE_WIDTH = 4;
 var PARTICLE_ATTR_SIZE = 4;
@@ -389,12 +394,25 @@ gl.bindVertexArray(null);
 var finalQuad = new Quad(gl);
 
 // =======================================
-// color attachments for render pipeline
+// Particle Framebuffer Color Attachments
+// =======================================
+
+var particleAttachment0, // stores randoms
+  particleAttachment1; // renders updated particle positions
+
+
+
+// =======================================
+// Color Attachments
 // =======================================
 
 var attachment0, // stores field and gradient to modify vertex behavior
   attachment1, // stores randoms for brownian motion
-  attachment2; // stores core vertex data
+  attachment2; // stores additional vertex data
+
+// =======================================
+// Color Attachment 0: Final Field Shared By Particles
+// =======================================
 
 gl.activeTexture(gl.TEXTURE0);
 attachment0 = gl.createTexture();
@@ -403,8 +421,7 @@ gl.bindTexture(gl.TEXTURE_2D, attachment0);
 // Initialize a texture twice the window width,
 // - so i can alternatively use difference slices of the texture
 // - (eventually set to 3x to avoid writing on regions of the texture used to render?)
-gl.texStorage2D(gl.TEXTURE_2D, 1, gl.RGBA32F, WIN_X * 2, WIN_Y);
-//(target, level, xoffset, yoffset, width, height, format, type, ImageData source);
+gl.texStorage2D(gl.TEXTURE_2D, 1, gl.RGBA32F, WIN_X * 3, WIN_Y);
 gl.texSubImage2D(gl.TEXTURE_2D,
   0,
   0,
@@ -420,6 +437,10 @@ gl.texParameteri(gl.TEXTURE_2D, gl.TEXTURE_WRAP_T, gl.CLAMP_TO_EDGE);
 gl.texParameteri(gl.TEXTURE_2D, gl.TEXTURE_MIN_FILTER, gl.LINEAR);
 gl.texParameteri(gl.TEXTURE_2D, gl.TEXTURE_MAG_FILTER, gl.LINEAR);
 
+// =======================================
+// Color Attachment 1: Random Source
+// =======================================
+
 gl.activeTexture(gl.TEXTURE1);
 attachment1 = gl.createTexture();
 gl.bindTexture(gl.TEXTURE_2D, attachment1);
@@ -429,8 +450,7 @@ var attach1data = generateUInt32Randoms(PARTICLE_TEXTURE_HEIGHT, PARTICLE_TEXTUR
 // Initialize a texture twice the window width,
 // - so i can alternatively use difference slices of the texture
 // - (eventually set to 3x to avoid writing on regions of the texture used to render?)
-gl.texStorage2D(gl.TEXTURE_2D, 1, gl.RGBA32UI, PARTICLE_TEXTURE_WIDTH * PARTICLE_ATTR_SIZE * 2, PARTICLE_TEXTURE_HEIGHT);
-//void gl.texSubImage2D(target, level, xoffset, yoffset, width, height, format, type, ImageData source);
+gl.texStorage2D(gl.TEXTURE_2D, 1, gl.RGBA32UI, PARTICLE_TEXTURE_WIDTH * 3, PARTICLE_TEXTURE_HEIGHT);
 gl.texSubImage2D(gl.TEXTURE_2D,
   0,
   0, // x offset
@@ -446,7 +466,42 @@ gl.texParameteri(gl.TEXTURE_2D, gl.TEXTURE_WRAP_T, gl.CLAMP_TO_EDGE);
 gl.texParameteri(gl.TEXTURE_2D, gl.TEXTURE_MIN_FILTER, gl.NEAREST);
 gl.texParameteri(gl.TEXTURE_2D, gl.TEXTURE_MAG_FILTER, gl.NEAREST);
 
-// -- Initialize render variables
+// =======================================
+// Color Attachment 2: Particle Attributes
+// =======================================
+
+// TODO: change to use float attributes?
+// - or add a float attributes texture .......
+
+gl.activeTexture(gl.TEXTURE2);
+attachment2 = gl.createTexture();
+gl.bindTexture(gl.TEXTURE_2D, attachment2);
+
+// TODO: add generate() function to initialize particle attributes
+var attach2data = generateUInt32Randoms(PARTICLE_TEXTURE_HEIGHT, PARTICLE_TEXTURE_WIDTH, 4);
+
+// Initialize a texture twice the window width,
+// - so i can alternatively use difference slices of the texture
+// - (eventually set to 3x to avoid writing on regions of the texture used to render?)
+gl.texStorage2D(gl.TEXTURE_2D, 1, gl.RGBA32UI, PARTICLE_TEXTURE_WIDTH * PARTICLE_ATTR_SIZE * 3, PARTICLE_TEXTURE_HEIGHT);
+gl.texSubImage2D(gl.TEXTURE_2D,
+  0,
+  0, // x offset
+  0, // y offset
+  PARTICLE_TEXTURE_HEIGHT,
+  PARTICLE_TEXTURE_WIDTH, // TODO: reuse same texture between frames
+  gl.RGBA32UI,
+  gl.UNSIGNED_INT,
+  attach2data);
+
+gl.texParameteri(gl.TEXTURE_2D, gl.TEXTURE_WRAP_S, gl.CLAMP_TO_EDGE);
+gl.texParameteri(gl.TEXTURE_2D, gl.TEXTURE_WRAP_T, gl.CLAMP_TO_EDGE);
+gl.texParameteri(gl.TEXTURE_2D, gl.TEXTURE_MIN_FILTER, gl.NEAREST);
+gl.texParameteri(gl.TEXTURE_2D, gl.TEXTURE_MAG_FILTER, gl.NEAREST);
+
+// =======================================
+// Initialize render variables
+// =======================================
 var orientation = [0.0, 0.0, 0.0];
 var tempMat4 = mat4.create();
 var modelMatrix = mat4.create();
@@ -488,10 +543,14 @@ class FramebufferConfig {
   }
 
   configAttachments() {
-    for (var i in this._attachments.keys) {
-      var att = attachments()[i];
+    //console.log(this.attachments);
+    //console.log(Object.keys(this.attachments));
+    for (var k of Object.keys(this.attachments)) {
+      var attKey = parseInt(k);
+      var att = this.attachments[attKey];
+      console.log(attKey,att);
       if (att !== undefined) {
-        this.context.framebufferTexture2D(this._context.DRAW_FRAMEBUFFER, i, att.texTarget, att.texture, att.mipmapLevel || 0);
+        this.context.framebufferTexture2D(this._context.DRAW_FRAMEBUFFER, k, att.texTarget, att.texture, att.mipmapLevel || 0);
       } else {
         console.error("FramebufferConfig: undefined attachment")
       }
@@ -567,8 +626,20 @@ class RenderPassConfig {
   get uniformLocations() { return this._uniformLocations; }
   set uniformLocations(uniformLocations) { this._uniformLocations = uniformLocations; }
 
+  initUniformLocations(keys) {
+    // initialize the keys for uniform locations
+    var locations = {};
+    for (var k of keys) {
+      locations[k] = null;
+    }
+    this._uniformLocations = locations;
+  }
+
   setUniformLocations() {
-    // TODO: store uniform locations
+    var keys = Object.keys(this.uniformLocations);
+    for (var k of keys) {
+      this.uniformLocations[k] = this.context.getUniformLocation(this.program, k);
+    }
   }
 
   selectProgram() {
@@ -576,7 +647,7 @@ class RenderPassConfig {
   }
 
   config() {
-    // set uniform locations, etc
+    //
   }
 
   encode(uniforms, options = {}) {
@@ -621,8 +692,36 @@ class RenderPassConfig {
   }
 }
 
+// =======================================
+// configure framebuffers
+// =======================================
+
+var particleFramebuffer = new FramebufferConfig(gl, gl.createFramebuffer());
+
 var offscreenFramebuffer = new FramebufferConfig(gl, gl.createFramebuffer());
+
+offscreenFramebuffer.attachments[gl.COLOR_ATTACHMENT0] = {
+  texTarget: gl.TEXTURE_2D,
+  texture: attachment0
+};
+offscreenFramebuffer.attachments[gl.COLOR_ATTACHMENT1] = {
+  texTarget: gl.TEXTURE_2D,
+  texture: attachment1
+};
+offscreenFramebuffer.attachments[gl.COLOR_ATTACHMENT2] = {
+  texTarget: gl.TEXTURE_2D,
+  texture: attachment2
+};
+
+offscreenFramebuffer.config();
+
 var onscreenFramebuffer = new FramebufferConfig(gl, null);
+// TODO: set any offscreen color attachments
+onscreenFramebuffer.config();
+
+// =======================================
+// configure renderpasses
+// =======================================
 
 var renderPassRandoms = new RenderPassConfig(gl, programRandomTexture, {
   encodeUniforms: (context, uniforms, options) => {
@@ -639,6 +738,15 @@ var renderPassRandoms = new RenderPassConfig(gl, programRandomTexture, {
   }
 });
 
+renderPassRandoms.initUniformLocations([
+  'resolution',
+  'randomStepSeed',
+  'resourcePoolId',
+  'texRandom'
+]);
+
+renderPassRandoms.setUniformLocations();
+
 var renderPassGradient = new RenderPassConfig(gl, programParticleGradient, {
   encodeUniforms: (context, uniforms, options) => {
     //TODO: set uniforms
@@ -650,6 +758,15 @@ var renderPassGradient = new RenderPassConfig(gl, programParticleGradient, {
     context.drawArrays(context.TRIANGLES, 0, 6);
   }
 });
+
+renderPassGradient.initUniformLocations([
+  'resolution',
+  'randomStepSeed',
+  'resourcePoolId',
+  'texRandom'
+]);
+
+renderPassGradient.setUniformLocations();
 
 // TODO: change to programRenderFinal
 var finalRenderPass = new RenderPassConfig(gl, programTest, {
@@ -668,26 +785,70 @@ var finalRenderPass = new RenderPassConfig(gl, programTest, {
   }
 });
 
+finalRenderPass.initUniformLocations([
+  'resolution',
+  'resourcePoolId'
+]);
+
+finalRenderPass.setUniformLocations();
+
+var resourcePoolId = 0;
+
+function updateResourcePoolId() {
+  if (resourcePoolId == 2) {
+    resourcePoolId = 0
+  } else {
+    resourcePoolId++;
+  }
+}
+
+
 //renderPassRandoms.config();
 //renderPassGradient.config();
 finalRenderPass.config();
-
 render();
+
+function getRandomStepSeed() {
+  return [
+    Math.trunc(Math.random() * UINT32_MAX),
+    Math.trunc(Math.random() * UINT32_MAX),
+    Math.trunc(Math.random() * UINT32_MAX),
+    Math.trunc(Math.random() * UINT32_MAX)
+  ];
+}
+
+var drawToAttachments;
 
 function render() {
   // TODO: decide which framebuffers need a clear?
-  //gl.clearColor(0.0, 0.0, 0.0, 1.0);
-  //gl.clear(gl.COLOR_BUFFER_BIT | gl.DEPTH_BUFFER_BIT);
+  drawToAttachments = [
+    gl.NONE,
+    gl.COLOR_ATTACHMENT1
+  ];
 
   // -- pass 1: render randoms
-  //offscreenFramebuffer.encode(attachmentKeys, () => renderPassRandoms.encode(uniforms, options));
-  //offscreenFramebuffer.cleanupEncode();
+  var randomUniforms = {
+    resolution: vec2.create(WIN_X, WIN_Y),
+    randomStepSeed: getRandomStepSeed(),
+    resourcePoolId: resourcePoolId,
+    texRandom: renderPassRandoms.uniformLocations['texRandom']
+  };
+
+  drawToAttachments = [
+    gl.NONE,
+    gl.COLOR_ATTACHMENT1,
+    gl.NONE
+  ];
+
+  //console.log(randomUniforms);
+  offscreenFramebuffer.encode(drawToAttachments, () => renderPassRandoms.encode(randomUniforms));
+  offscreenFramebuffer.cleanupEncode();
 
   // -- Pass 2: render gradient from particle location
   // -  (and new particle locations in vertex shader?)
   // TODO: set uniforms and options
-  offscreenFramebuffer.encode([gl.COLOR_ATTACHMENT0], () => renderPassGradient.encode(uniforms, options));
-  offscreenFramebuffer.cleanupEncode();
+  //offscreenFramebuffer.encode([gl.COLOR_ATTACHMENT0], () => renderPassGradient.encode(uniforms, options));
+  //offscreenFramebuffer.cleanupEncode();
 
   // -- Final Pass: render image
   onscreenFramebuffer.encode(null, () => finalRenderPass.encode({}));
@@ -701,6 +862,7 @@ function render() {
   //mat4.rotateY(mvMatrix, mvMatrix, orientation[1] * Math.PI);
   //mat4.rotateZ(mvMatrix, mvMatrix, orientation[2] * Math.PI);
 
+  updateResourcePoolId();
   requestAnimationFrame(render);
 }
 

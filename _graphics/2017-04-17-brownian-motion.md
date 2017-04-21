@@ -42,6 +42,7 @@ precision highp float;
 precision highp int;
 precision lowp usampler2D;
 
+uniform uint resourcePoolId;
 uniform vec2 resolution;
 uniform uvec4 randomStepSeed;
 uniform usampler2D texRandom;
@@ -165,8 +166,6 @@ void main()
     color = mix(color, vec4(N, 1.0), 0.5);
 }
 </script>
-
-TODO: write shaderFinal
 
 <script type="x-shader/x-fragment" id="shaderTest">
 precision highp float;
