@@ -8,7 +8,9 @@ author:
 name: "David Conner"
 ---
 
-## Requires ES6 & WebGL2
+## Theoretical Computer Science & Probabilistic State Machines
+
+### Requires ES6 & WebGL2
 
 <script type="x-shader/x-vertex" id="vertexPassthrough">
 #define POSITION_LOCATION 0
