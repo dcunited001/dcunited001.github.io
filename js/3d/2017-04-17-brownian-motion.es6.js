@@ -149,7 +149,6 @@ window.loadObj = function(url, onload) {
   xhr.send();
 };
 
-
 // TODO: refactor some of the code above into classes
 // - bc i want to be able to query uniform locations from an obj representing the program
 //   - instead of the render pass
@@ -263,6 +262,64 @@ class Quad {
   }
 }
 
+class ResourceProvider {
+  // i need the triple buffering pattern from iOS/OSX Metal semaphore
+  // - this is because i'm rendering updated particle positons to a texture
+  //   - this in turn renders a gradient that's used in the next frame
+  // - double buffering may be enough, but ideally the data should remain written to buffer for as long as it's needed to render
+
+  // TODO: resource registration (do i need this?)
+  // - register resources with this object to have their reading/writing resources swapped out
+  //
+
+  // resource attacher map (key) => ((fb, texture) => success)
+  // - wires together textures for a given framebuffer & color attachment for this frame
+  //   - i need to instantiate all the textures up front and repoint them as needed
+
+  getCurrentId() {
+    return this._current;
+  }
+
+  getNextId() {
+    if (this._current == 2) {
+      return 0;
+    } else {
+      return this._current + 1;
+    }
+  }
+
+  increment() {
+    if (this._current == 2) {
+      this._current = 0;
+    } else {
+      this._current++;
+    }
+  }
+}
+
+function triplicateResource(f) {
+  // run function 3 times
+  return [0,1,2].map(f)
+}
+
+//class TexturePool {
+//  constructor () {
+//    this._textures = {};
+//    this._current = 0;
+//  }
+//
+//  getTexture(key, i) {
+//    this._textures[key][i];
+//  }
+//  setTexture(key, i, texture) {
+//    this._textures[key][i] = texture;
+//  }
+//
+//  increment() {
+//    this._current++;
+//  }
+//}
+
 var canvas = document.getElementById('main-canvas');
 canvas.style.width = '100%';
 canvas.height = 500;
@@ -371,7 +428,15 @@ function generateUInt32Randoms(h,w,n) {
   return randoms
 }
 
-// var particleIndices = new
+class Particle {
+  //TODO: texture map for integer values and float values
+
+  constructor (x,y,idx) {
+    this.x = x;
+    this.y = y;
+    this.idx = idx; // 1-D integer position in the N-D texture
+  }
+}
 
 // attributes
 // particle_index
@@ -398,13 +463,17 @@ function generateParticleIndices(h,w) {
   return indices;
 }
 
-var particlePos = generateFloat32Randoms(PARTICLE_TEXTURE_HEIGHT, PARTICLE_TEXTURE_WIDTH, 2);
+// TODO: clean up particle position
+// - if anything but static params are in a buffer, it will slow down the particle shader
+//   - this is because the framebuffer can write these to texture, but not to buffers
+
+//var particlePos = generateFloat32Randoms(PARTICLE_TEXTURE_HEIGHT, PARTICLE_TEXTURE_WIDTH, 2);
 var particleIdx = generateParticleIndices(PARTICLE_TEXTURE_HEIGHT, PARTICLE_TEXTURE_WIDTH);
 
-var particlePosBuffer = gl.createBuffer();
-gl.bindBuffer(gl.ARRAY_BUFFER, particlePosBuffer);
-gl.bufferData(gl.ARRAY_BUFFER, particlePos, gl.STATIC_DRAW);
-gl.bindBuffer(gl.ARRAY_BUFFER, null);
+//var particlePosBuffer = gl.createBuffer();
+//gl.bindBuffer(gl.ARRAY_BUFFER, particlePosBuffer);
+//gl.bufferData(gl.ARRAY_BUFFER, particlePos, gl.STATIC_DRAW);
+//gl.bindBuffer(gl.ARRAY_BUFFER, null);
 
 var particleIdxBuffer = gl.createBuffer();
 gl.bindBuffer(gl.ARRAY_BUFFER, particleIdxBuffer);
@@ -418,16 +487,16 @@ gl.bindBuffer(gl.ARRAY_BUFFER, null);
 var particleVertexArray = gl.createVertexArray();
 gl.bindVertexArray(particleVertexArray);
 
-var particleVertexPosIndex = 0;
-gl.bindBuffer(gl.ARRAY_BUFFER, particlePosBuffer);
-gl.vertexAttribPointer(particleVertexPosIndex, 2, gl.FLOAT, false, 0, 0);
-gl.enableVertexAttribArray(particleVertexPosIndex);
-gl.bindBuffer(gl.ARRAY_BUFFER, null);
+//var particleVertexPosIndex = 0;
+//gl.bindBuffer(gl.ARRAY_BUFFER, particlePosBuffer);
+//gl.vertexAttribPointer(particleVertexPosIndex, 2, gl.FLOAT, false, 0, 0);
+//gl.enableVertexAttribArray(particleVertexPosIndex);
+//gl.bindBuffer(gl.ARRAY_BUFFER, null);
 
 var particleIdxIndex = 2;
 gl.bindBuffer(gl.ARRAY_BUFFER, particleIdxBuffer);
 gl.vertexAttribPointer(particleIdxIndex, 1, gl.UNSIGNED_INT, false, 0,0);
-gl.enableVertexAttribArray(particleVertexPosIndex);
+gl.enableVertexAttribArray(particleVertexIdxIndex);
 gl.bindBuffer(gl.ARRAY_BUFFER, null);
 
 gl.bindVertexArray(null);
@@ -439,11 +508,40 @@ gl.bindVertexArray(null);
 var finalQuad = new Quad(gl);
 
 // =======================================
-// Particle Framebuffer Color Attachments
+// Particle Framebuffer: Color Attachments
 // =======================================
+
+var PARTICLE_FB_HEIGHT = 100;
+var PARTICLE_FB_WIDTH = 32;
 
 var particleAttachment0, // stores randoms
   particleAttachment1; // renders updated particle positions
+
+gl.activeTexture(gl.TEXTURE1);
+particleAttachment0 = gl.createTexture();
+gl.bindTexture(gl.TEXTURE_2D, particleAttachment0);
+
+var randomInitData = generateUInt32Randoms(PARTICLE_TEXTURE_HEIGHT, PARTICLE_TEXTURE_WIDTH, 4);
+
+gl.texStorage2D(gl.TEXTURE_2D, 1, gl.RGBA32UI, PARTICLE_TEXTURE_WIDTH, PARTICLE_TEXTURE_HEIGHT);
+gl.texSubImage2D(gl.TEXTURE_2D,
+  0,
+  0, // x offset
+  0, // y offset
+  PARTICLE_TEXTURE_HEIGHT,
+  PARTICLE_TEXTURE_WIDTH, // TODO: reuse same texture between frames
+  gl.RGBA32UI,
+  gl.UNSIGNED_INT,
+  randomInitData);
+
+gl.texParameteri(gl.TEXTURE_2D, gl.TEXTURE_WRAP_S, gl.CLAMP_TO_EDGE);
+gl.texParameteri(gl.TEXTURE_2D, gl.TEXTURE_WRAP_T, gl.CLAMP_TO_EDGE);
+gl.texParameteri(gl.TEXTURE_2D, gl.TEXTURE_MIN_FILTER, gl.NEAREST);
+gl.texParameteri(gl.TEXTURE_2D, gl.TEXTURE_MAG_FILTER, gl.NEAREST);
+
+// =======================================
+// Gradient Framebuffer: Color Attachments
+// =======================================
 
 
 
@@ -481,35 +579,6 @@ gl.texParameteri(gl.TEXTURE_2D, gl.TEXTURE_WRAP_S, gl.CLAMP_TO_EDGE);
 gl.texParameteri(gl.TEXTURE_2D, gl.TEXTURE_WRAP_T, gl.CLAMP_TO_EDGE);
 gl.texParameteri(gl.TEXTURE_2D, gl.TEXTURE_MIN_FILTER, gl.LINEAR);
 gl.texParameteri(gl.TEXTURE_2D, gl.TEXTURE_MAG_FILTER, gl.LINEAR);
-
-// =======================================
-// Color Attachment 1: Random Source
-// =======================================
-
-gl.activeTexture(gl.TEXTURE1);
-attachment1 = gl.createTexture();
-gl.bindTexture(gl.TEXTURE_2D, attachment1);
-
-var attach1data = generateUInt32Randoms(PARTICLE_TEXTURE_HEIGHT, PARTICLE_TEXTURE_WIDTH, 4);
-
-// Initialize a texture twice the window width,
-// - so i can alternatively use difference slices of the texture
-// - (eventually set to 3x to avoid writing on regions of the texture used to render?)
-gl.texStorage2D(gl.TEXTURE_2D, 1, gl.RGBA32UI, PARTICLE_TEXTURE_WIDTH * 3, PARTICLE_TEXTURE_HEIGHT);
-gl.texSubImage2D(gl.TEXTURE_2D,
-  0,
-  0, // x offset
-  0, // y offset
-  PARTICLE_TEXTURE_HEIGHT,
-  PARTICLE_TEXTURE_WIDTH, // TODO: reuse same texture between frames
-  gl.RGBA32UI,
-  gl.UNSIGNED_INT,
-  attach1data);
-
-gl.texParameteri(gl.TEXTURE_2D, gl.TEXTURE_WRAP_S, gl.CLAMP_TO_EDGE);
-gl.texParameteri(gl.TEXTURE_2D, gl.TEXTURE_WRAP_T, gl.CLAMP_TO_EDGE);
-gl.texParameteri(gl.TEXTURE_2D, gl.TEXTURE_MIN_FILTER, gl.NEAREST);
-gl.texParameteri(gl.TEXTURE_2D, gl.TEXTURE_MAG_FILTER, gl.NEAREST);
 
 // =======================================
 // Color Attachment 2: Particle Attributes
@@ -737,11 +806,22 @@ class RenderPassConfig {
   }
 }
 
+function makeBlitter () {
+  // TODO: return a object with functions to glue two framebuffers together
+  // - and specifies how they should blit
+  // - it represents the transition b/w fb1.attachment to the input of fb2
+  // - it configures the READ_FRAMEBUFFER & DRAW_FRAMEBUFFER
+}
+
 // =======================================
 // configure framebuffers
 // =======================================
 
 var particleFramebuffer = new FramebufferConfig(gl, gl.createFramebuffer());
+particleFramebuffer.attachments[gl.COLOR_ATTACHMENT0] = {
+  texTarget: gl.TEXTURE_2D,
+  texture: particleAttachment0
+};
 
 var offscreenFramebuffer = new FramebufferConfig(gl, gl.createFramebuffer());
 
@@ -847,7 +927,6 @@ function updateResourcePoolId() {
   }
 }
 
-
 //renderPassRandoms.config();
 //renderPassGradient.config();
 finalRenderPass.config();
@@ -865,6 +944,7 @@ function getRandomStepSeed() {
 var drawToAttachments;
 
 function render() {
+
   // TODO: decide which framebuffers need a clear?
   drawToAttachments = [
     gl.NONE,
