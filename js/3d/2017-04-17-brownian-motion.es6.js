@@ -302,6 +302,20 @@ function triplicateResource(f) {
   return [0,1,2].map(f)
 }
 
+function updateTexture(f) {
+  //return a function that's enveloped in the correct access calls to update before render or b/w draw calls
+  return function(context, triple, i) {
+    var thisTexture = triple[i];
+
+    context.activeTexture(context.TEXTURE0);
+    context.bindTexture(gl.TEXTURE_2D, triple[i]);
+
+    f(context, thisTexture);
+
+    context.bindTexture(gl.TEXTURE_2D, null);
+  }
+}
+
 //class TexturePool {
 //  constructor () {
 //    this._textures = {};
@@ -373,10 +387,6 @@ var WIN_Y = gl.drawingBufferHeight;
 
 var UINT32_MAX = 2 ** 32 - 1;
 
-var PARTICLE_TEXTURE_HEIGHT = 100;
-var PARTICLE_TEXTURE_WIDTH = 4;
-var PARTICLE_ATTR_SIZE = 4;
-
 // =======================================
 // GLSL Programs
 // =======================================
@@ -428,16 +438,6 @@ function generateUInt32Randoms(h,w,n) {
   return randoms
 }
 
-class Particle {
-  //TODO: texture map for integer values and float values
-
-  constructor (x,y,idx) {
-    this.x = x;
-    this.y = y;
-    this.idx = idx; // 1-D integer position in the N-D texture
-  }
-}
-
 // attributes
 // particle_index
 // particle_x
@@ -450,11 +450,6 @@ class Particle {
 // particle buffers
 // =======================================
 
-// buffer structure:
-// - particle index
-// - particle X
-// - particle Y
-
 function generateParticleIndices(h,w) {
   var indices = new Uint32Array(h*w);
   for (var i=0; i<(h*w); i++){
@@ -463,40 +458,20 @@ function generateParticleIndices(h,w) {
   return indices;
 }
 
-// TODO: clean up particle position
-// - if anything but static params are in a buffer, it will slow down the particle shader
-//   - this is because the framebuffer can write these to texture, but not to buffers
-
-//var particlePos = generateFloat32Randoms(PARTICLE_TEXTURE_HEIGHT, PARTICLE_TEXTURE_WIDTH, 2);
-var particleIdx = generateParticleIndices(PARTICLE_TEXTURE_HEIGHT, PARTICLE_TEXTURE_WIDTH);
-
-//var particlePosBuffer = gl.createBuffer();
-//gl.bindBuffer(gl.ARRAY_BUFFER, particlePosBuffer);
-//gl.bufferData(gl.ARRAY_BUFFER, particlePos, gl.STATIC_DRAW);
-//gl.bindBuffer(gl.ARRAY_BUFFER, null);
+var particleIdx = generateParticleIndices(PARTICLE_FB_HEIGHT, PARTICLE_FB_WIDTH);
 
 var particleIdxBuffer = gl.createBuffer();
 gl.bindBuffer(gl.ARRAY_BUFFER, particleIdxBuffer);
 gl.bufferData(gl.ARRAY_BUFFER, particleIdx, gl.STATIC_DRAW);
 gl.bindBuffer(gl.ARRAY_BUFFER, null);
 
-// =======================================
-// particle vertex layout
-// =======================================
-
 var particleVertexArray = gl.createVertexArray();
 gl.bindVertexArray(particleVertexArray);
 
-//var particleVertexPosIndex = 0;
-//gl.bindBuffer(gl.ARRAY_BUFFER, particlePosBuffer);
-//gl.vertexAttribPointer(particleVertexPosIndex, 2, gl.FLOAT, false, 0, 0);
-//gl.enableVertexAttribArray(particleVertexPosIndex);
-//gl.bindBuffer(gl.ARRAY_BUFFER, null);
-
-var particleIdxIndex = 2;
+var particleIdxIndex = 0;
 gl.bindBuffer(gl.ARRAY_BUFFER, particleIdxBuffer);
 gl.vertexAttribPointer(particleIdxIndex, 1, gl.UNSIGNED_INT, false, 0,0);
-gl.enableVertexAttribArray(particleVertexIdxIndex);
+gl.enableVertexAttribArray(particleIdxIndex);
 gl.bindBuffer(gl.ARRAY_BUFFER, null);
 
 gl.bindVertexArray(null);
@@ -508,110 +483,141 @@ gl.bindVertexArray(null);
 var finalQuad = new Quad(gl);
 
 // =======================================
-// Particle Framebuffer: Color Attachments
+// Particle Framebuffer: Create Color Attachments
 // =======================================
 
 var PARTICLE_FB_HEIGHT = 100;
 var PARTICLE_FB_WIDTH = 32;
 
-var particleAttachment0, // stores randoms
-  particleAttachment1; // renders updated particle positions
+// four attributes can be stores per texture (x,y,z,w)
+var particleRandomsAttachments, // stores random seed data (unfortunately integers)
+  particleBasicsAttachments,   // stores particle basics (floats)
+  particleIntsAttachments;     // stores more attributes (ints)
 
-gl.activeTexture(gl.TEXTURE1);
-particleAttachment0 = gl.createTexture();
-gl.bindTexture(gl.TEXTURE_2D, particleAttachment0);
+var randomIntData = generateUInt32Randoms(PARTICLE_FB_HEIGHT, PARTICLE_FB_WIDTH, 4);
+var randomFloatData = generateFloat32Randoms(PARTICLE_FB_HEIGHT, PARTICLE_FB_WIDTH, 4);
 
-var randomInitData = generateUInt32Randoms(PARTICLE_TEXTURE_HEIGHT, PARTICLE_TEXTURE_WIDTH, 4);
+var particleRandomsAttachments = triplicateResource((f) => {
+  gl.activeTexture(gl.TEXTURE0);
+  var tex = gl.createTexture();
+  gl.bindTexture(gl.TEXTURE_2D, tex);
 
-gl.texStorage2D(gl.TEXTURE_2D, 1, gl.RGBA32UI, PARTICLE_TEXTURE_WIDTH, PARTICLE_TEXTURE_HEIGHT);
-gl.texSubImage2D(gl.TEXTURE_2D,
-  0,
-  0, // x offset
-  0, // y offset
-  PARTICLE_TEXTURE_HEIGHT,
-  PARTICLE_TEXTURE_WIDTH, // TODO: reuse same texture between frames
-  gl.RGBA32UI,
-  gl.UNSIGNED_INT,
-  randomInitData);
+  gl.texStorage2D(gl.TEXTURE_2D, 1, gl.RGBA32UI, PARTICLE_FB_WIDTH, PARTICLE_FB_HEIGHT);
 
-gl.texParameteri(gl.TEXTURE_2D, gl.TEXTURE_WRAP_S, gl.CLAMP_TO_EDGE);
-gl.texParameteri(gl.TEXTURE_2D, gl.TEXTURE_WRAP_T, gl.CLAMP_TO_EDGE);
-gl.texParameteri(gl.TEXTURE_2D, gl.TEXTURE_MIN_FILTER, gl.NEAREST);
-gl.texParameteri(gl.TEXTURE_2D, gl.TEXTURE_MAG_FILTER, gl.NEAREST);
+  gl.texParameteri(gl.TEXTURE_2D, gl.TEXTURE_WRAP_S, gl.CLAMP_TO_EDGE);
+  gl.texParameteri(gl.TEXTURE_2D, gl.TEXTURE_WRAP_T, gl.CLAMP_TO_EDGE);
+  gl.texParameteri(gl.TEXTURE_2D, gl.TEXTURE_MIN_FILTER, gl.NEAREST);
+  gl.texParameteri(gl.TEXTURE_2D, gl.TEXTURE_MAG_FILTER, gl.NEAREST);
 
-// =======================================
-// Gradient Framebuffer: Color Attachments
-// =======================================
+  return tex;
+});
 
+var particleBasicsAttachments = triplicateResource(() => {
+  gl.activeTexture(gl.TEXTURE0);
+  var tex = gl.createTexture();
+  gl.bindTexture(gl.TEXTURE_2D, tex);
 
+  gl.texStorage2D(gl.TEXTURE_2D, 1, gl.RGBA32F, PARTICLE_FB_HEIGHT, PARTICLE_FB_WIDTH);
 
-// =======================================
-// Color Attachments
-// =======================================
+  gl.texParameteri(gl.TEXTURE_2D, gl.TEXTURE_WRAP_S, gl.CLAMP_TO_EDGE);
+  gl.texParameteri(gl.TEXTURE_2D, gl.TEXTURE_WRAP_T, gl.CLAMP_TO_EDGE);
+  gl.texParameteri(gl.TEXTURE_2D, gl.TEXTURE_MIN_FILTER, gl.NEAREST);
+  gl.texParameteri(gl.TEXTURE_2D, gl.TEXTURE_MAG_FILTER, gl.NEAREST);
 
-var attachment0, // stores field and gradient to modify vertex behavior
-  attachment1, // stores randoms for brownian motion
-  attachment2; // stores additional vertex data
+  return tex;
+});
 
-// =======================================
-// Color Attachment 0: Final Field Shared By Particles
-// =======================================
+var particleIntsAttachments = triplicateResource(() => {
+  gl.activeTexture(gl.TEXTURE0);
+  var tex = gl.createTexture();
+  gl.bindTexture(gl.TEXTURE_2D, tex);
 
-gl.activeTexture(gl.TEXTURE0);
-attachment0 = gl.createTexture();
-gl.bindTexture(gl.TEXTURE_2D, attachment0);
+  gl.texStorage2D(gl.TEXTURE_2D, 1, gl.RGBA32UI, PARTICLE_FB_WIDTH, PARTICLE_FB_HEIGHT);
 
-// Initialize a texture twice the window width,
-// - so i can alternatively use difference slices of the texture
-// - (eventually set to 3x to avoid writing on regions of the texture used to render?)
-gl.texStorage2D(gl.TEXTURE_2D, 1, gl.RGBA32F, WIN_X * 3, WIN_Y);
-gl.texSubImage2D(gl.TEXTURE_2D,
-  0,
-  0,
-  0,
-  WIN_X,
-  WIN_Y,
-  gl.RGBA32F,
-  gl.FLOAT,
-  new Float32Array(WIN_X * WIN_Y * 4));
+  gl.texParameteri(gl.TEXTURE_2D, gl.TEXTURE_WRAP_S, gl.CLAMP_TO_EDGE);
+  gl.texParameteri(gl.TEXTURE_2D, gl.TEXTURE_WRAP_T, gl.CLAMP_TO_EDGE);
+  gl.texParameteri(gl.TEXTURE_2D, gl.TEXTURE_MIN_FILTER, gl.NEAREST);
+  gl.texParameteri(gl.TEXTURE_2D, gl.TEXTURE_MAG_FILTER, gl.NEAREST);
 
-gl.texParameteri(gl.TEXTURE_2D, gl.TEXTURE_WRAP_S, gl.CLAMP_TO_EDGE);
-gl.texParameteri(gl.TEXTURE_2D, gl.TEXTURE_WRAP_T, gl.CLAMP_TO_EDGE);
-gl.texParameteri(gl.TEXTURE_2D, gl.TEXTURE_MIN_FILTER, gl.LINEAR);
-gl.texParameteri(gl.TEXTURE_2D, gl.TEXTURE_MAG_FILTER, gl.LINEAR);
+  return tex;
+});
 
 // =======================================
-// Color Attachment 2: Particle Attributes
+// Particle Framebuffer: Set initial data for color attachments
 // =======================================
 
-// TODO: change to use float attributes?
-// - or add a float attributes texture .......
+// initialize random seeds
+updateTexture((context, texture) => {
 
-gl.activeTexture(gl.TEXTURE2);
-attachment2 = gl.createTexture();
-gl.bindTexture(gl.TEXTURE_2D, attachment2);
+  context.texSubImage2D(gl.TEXTURE_2D,
+    0,
+    0, // x offset
+    0, // y offset
+    PARTICLE_FB_HEIGHT,
+    PARTICLE_FB_WIDTH,
+    gl.RGBA32UI,
+    gl.UNSIGNED_INT,
+    randomIntData);
 
-// TODO: add generate() function to initialize particle attributes
-var attach2data = generateUInt32Randoms(PARTICLE_TEXTURE_HEIGHT, PARTICLE_TEXTURE_WIDTH, 4);
+})(gl, particleRandomsAttachments, 0);
 
-// Initialize a texture twice the window width,
-// - so i can alternatively use difference slices of the texture
-// - (eventually set to 3x to avoid writing on regions of the texture used to render?)
-gl.texStorage2D(gl.TEXTURE_2D, 1, gl.RGBA32UI, PARTICLE_TEXTURE_WIDTH * PARTICLE_ATTR_SIZE * 3, PARTICLE_TEXTURE_HEIGHT);
-gl.texSubImage2D(gl.TEXTURE_2D,
-  0,
-  0, // x offset
-  0, // y offset
-  PARTICLE_TEXTURE_HEIGHT,
-  PARTICLE_TEXTURE_WIDTH, // TODO: reuse same texture between frames
-  gl.RGBA32UI,
-  gl.UNSIGNED_INT,
-  attach2data);
+// init particle positions
+updateTexture((context, texture) => {
 
-gl.texParameteri(gl.TEXTURE_2D, gl.TEXTURE_WRAP_S, gl.CLAMP_TO_EDGE);
-gl.texParameteri(gl.TEXTURE_2D, gl.TEXTURE_WRAP_T, gl.CLAMP_TO_EDGE);
-gl.texParameteri(gl.TEXTURE_2D, gl.TEXTURE_MIN_FILTER, gl.NEAREST);
-gl.texParameteri(gl.TEXTURE_2D, gl.TEXTURE_MAG_FILTER, gl.NEAREST);
+  context.texSubImage2D(gl.TEXTURE_2D,
+    0,
+    0, // x offset
+    0, // y offset
+    PARTICLE_FB_HEIGHT,
+    PARTICLE_FB_WIDTH,
+    gl.RGBA32F,
+    gl.FLOAT,
+    randomFloatData);
+
+})(gl, particleBasicsAttachments, 0);
+
+// TODO: initial values for particle integer data
+//updateTexture((context, texture) => {
+//  gl.texSubImage2D(gl.TEXTURE_2D,
+//    0,
+//    0, // x offset
+//    0, // y offset
+//    PARTICLE_FB_HEIGHT,
+//    PARTICLE_FB_WIDTH,
+//    gl.RGBA32UI,
+//    gl.UNSIGNED_INT,
+//    null);
+//});
+
+// =======================================
+// Field Framebuffer: Color Attachments
+// =======================================
+
+var fieldAttachments, // stores a shared field based on rendered & current particle positions
+  fieldGradientAttachments; // stores data about gradients in the fields
+
+var particleRandomsAttachments = triplicateResource((f) => {
+  gl.activeTexture(gl.TEXTURE0);
+  var texture = gl.createTexture();
+  gl.bindTexture(gl.TEXTURE_2D, texture);
+  gl.texStorage2D(gl.TEXTURE_2D, 1, GL.RGBA32F, WIN_X, WIN_Y);
+
+  // TODO: remove? i just need zeros (IVP isn't a problem...)
+  //gl.texSubImage2D(gl.TEXTURE_2D,
+  //  0,
+  //  0,
+  //  0,
+  //  WIN_X,
+  //  WIN_Y,
+  //  gl.RGBA32F,
+  //  gl.FLOAT,
+  //  null);
+
+  gl.texParameteri(gl.TEXTURE_2D, gl.TEXTURE_WRAP_S, gl.CLAMP_TO_EDGE);
+  gl.texParameteri(gl.TEXTURE_2D, gl.TEXTURE_WRAP_T, gl.CLAMP_TO_EDGE);
+  gl.texParameteri(gl.TEXTURE_2D, gl.TEXTURE_MIN_FILTER, gl.LINEAR);
+  gl.texParameteri(gl.TEXTURE_2D, gl.TEXTURE_MAG_FILTER, gl.LINEAR);
+});
 
 // =======================================
 // Initialize render variables
