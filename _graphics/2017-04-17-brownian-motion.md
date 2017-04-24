@@ -44,7 +44,6 @@ precision highp float;
 precision highp int;
 precision lowp usampler2D;
 
-uniform uint resourcePoolId;
 uniform vec2 resolution;
 uniform uvec4 randomStepSeed;
 uniform usampler2D texRandom;
