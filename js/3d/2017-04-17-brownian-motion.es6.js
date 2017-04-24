@@ -61,93 +61,95 @@
 // - add noise to final color mapping as an effect
 //   - the mapping can be made to distorct shadows
 
-function createShader(gl, source, type) {
-  var shader = gl.createShader(type);
-  gl.shaderSource(shader, source);
-  gl.compileShader(shader);
-  return shader;
-}
+(() => {
 
-window.createProgram = function(gl, vertexShaderSource, fragmentShaderSource, defines = {}) {
-  var program = gl.createProgram();
-  vertexShaderSource = "#version 300 es\n" + expandDefines(defines) + vertexShaderSource;
-  fragmentShaderSource = "#version 300 es\n" + expandDefines(defines) + fragmentShaderSource;
-
-  var vshader = createShader(gl, vertexShaderSource, gl.VERTEX_SHADER);
-  var fshader = createShader(gl, fragmentShaderSource, gl.FRAGMENT_SHADER);
-  gl.attachShader(program, vshader);
-  gl.deleteShader(vshader);
-  gl.attachShader(program, fshader);
-  gl.deleteShader(fshader);
-  gl.linkProgram(program);
-
-  var log = gl.getProgramInfoLog(program);
-  if (log) {
-    console.log(log);
+  function createShader(gl, source, type) {
+    var shader = gl.createShader(type);
+    gl.shaderSource(shader, source);
+    gl.compileShader(shader);
+    return shader;
   }
 
-  log = gl.getShaderInfoLog(vshader);
-  if (log) {
-    console.log(log);
-  }
+  window.createProgram = function (gl, vertexShaderSource, fragmentShaderSource, defines = {}) {
+    var program = gl.createProgram();
+    vertexShaderSource = "#version 300 es\n" + expandDefines(defines) + vertexShaderSource;
+    fragmentShaderSource = "#version 300 es\n" + expandDefines(defines) + fragmentShaderSource;
 
-  log = gl.getShaderInfoLog(fshader);
-  if (log) {
-    console.log(log);
-  }
+    var vshader = createShader(gl, vertexShaderSource, gl.VERTEX_SHADER);
+    var fshader = createShader(gl, fragmentShaderSource, gl.FRAGMENT_SHADER);
+    gl.attachShader(program, vshader);
+    gl.deleteShader(vshader);
+    gl.attachShader(program, fshader);
+    gl.deleteShader(fshader);
+    gl.linkProgram(program);
 
-  return program;
-};
-
-window.expandDefines = function(defines = {}) {
-  // if empty, return empty string
-  // otherwise iterate through and generate string to prepend
-
-  // TODO: fix this?
-  var defineStrings = "";
-  if (defines.keys !== undefined) {
-    for (var k in Object.keys(defines)) {
-      defineStrings += `#define ${k} ${defines[k]}\n`;
+    var log = gl.getProgramInfoLog(program);
+    if (log) {
+      console.log(log);
     }
-  }
 
-  return defineStrings;
-};
-
-window.loadImage = function(url, onload) {
-  var img = new Image();
-  img.src = url;
-  img.onload = function() {
-    onload(img);
-  };
-  return img;
-};
-
-window.loadImages = function(urls, onload) {
-  var imgs = [];
-  var imgsToLoad = urls.length;
-
-  function onImgLoad() {
-    if (--imgsToLoad <= 0) {
-      onload(imgs);
+    log = gl.getShaderInfoLog(vshader);
+    if (log) {
+      console.log(log);
     }
-  }
 
-  for (var i = 0; i < imgsToLoad; ++i) {
-    imgs.push(loadImage(urls[i], onImgLoad));
-  }
-};
+    log = gl.getShaderInfoLog(fshader);
+    if (log) {
+      console.log(log);
+    }
 
-window.loadObj = function(url, onload) {
-  var xhr = new XMLHttpRequest();
-  xhr.open('GET', url, true);
-  xhr.responseType = 'text';
-  xhr.onload = function(e) {
-    var mesh = new OBJ.Mesh(this.response);
-    onload(mesh);
+    return program;
   };
-  xhr.send();
-};
+
+  window.expandDefines = function (defines = {}) {
+    // if empty, return empty string
+    // otherwise iterate through and generate string to prepend
+
+    // TODO: fix this?
+    var defineStrings = "";
+    if (defines.keys !== undefined) {
+      for (var k in Object.keys(defines)) {
+        defineStrings += `#define ${k} ${defines[k]}\n`;
+      }
+    }
+
+    return defineStrings;
+  };
+
+  window.loadImage = function (url, onload) {
+    var img = new Image();
+    img.src = url;
+    img.onload = function () {
+      onload(img);
+    };
+    return img;
+  };
+
+  window.loadImages = function (urls, onload) {
+    var imgs = [];
+    var imgsToLoad = urls.length;
+
+    function onImgLoad() {
+      if (--imgsToLoad <= 0) {
+        onload(imgs);
+      }
+    }
+
+    for (var i = 0; i < imgsToLoad; ++i) {
+      imgs.push(loadImage(urls[i], onImgLoad));
+    }
+  };
+
+  window.loadObj = function (url, onload) {
+    var xhr = new XMLHttpRequest();
+    xhr.open('GET', url, true);
+    xhr.responseType = 'text';
+    xhr.onload = function (e) {
+      var mesh = new OBJ.Mesh(this.response);
+      onload(mesh);
+    };
+    xhr.send();
+  };
 
 // TODO: refactor some of the code above into classes
 // - bc i want to be able to query uniform locations from an obj representing the program
@@ -176,263 +178,283 @@ window.loadObj = function(url, onload) {
 //
 //}
 
-class Quad {
-  constructor(context) {
-    this._pos = this.getQuadPositions();
-    this._tex = this.getQuadTexCoords();
+  class Quad {
+    constructor(context) {
+      this._pos = this.getQuadPositions();
+      this._tex = this.getQuadTexCoords();
 
-    this._buffers = this.prepareBuffers(context, this._pos, this._tex);
-    this._vertexArray = this.prepareVertexArray(context, this._buffers);
-  }
+      this._buffers = this.prepareBuffers(context, this._pos, this._tex);
+      this._vertexArray = this.prepareVertexArray(context, this._buffers);
+    }
 
-  get pos () { return this._pos; }
-  set pos (pos) { this._pos = pos }
+    get pos() {
+      return this._pos;
+    }
 
-  get tex () { return this._tex; }
-  set tex (tex) { this._tex = tex; }
+    set pos(pos) {
+      this._pos = pos
+    }
 
-  get buffers () { return this._buffer; }
-  set buffers (buffer) { this._buffer = buffer; }
+    get tex() {
+      return this._tex;
+    }
 
-  get vertexArray () { return this._vertexArray; }
-  set vertexArray (vertexArray) { this._vertexArray = vertexArray; }
+    set tex(tex) {
+      this._tex = tex;
+    }
 
-  prepareBuffers(context, pos, tex) {
-    var vertexPosBuffer = context.createBuffer();
-    context.bindBuffer(context.ARRAY_BUFFER, vertexPosBuffer);
-    context.bufferData(context.ARRAY_BUFFER, pos, context.STATIC_DRAW);
-    context.bindBuffer(context.ARRAY_BUFFER, null);
+    get buffers() {
+      return this._buffer;
+    }
 
-    var vertexTexBuffer = context.createBuffer();
-    context.bindBuffer(context.ARRAY_BUFFER, vertexTexBuffer);
-    context.bufferData(context.ARRAY_BUFFER, tex, context.STATIC_DRAW);
-    context.bindBuffer(context.ARRAY_BUFFER, null);
+    set buffers(buffer) {
+      this._buffer = buffer;
+    }
 
-    return {
-      pos: vertexPosBuffer,
-      tex: vertexTexBuffer
+    get vertexArray() {
+      return this._vertexArray;
+    }
+
+    set vertexArray(vertexArray) {
+      this._vertexArray = vertexArray;
+    }
+
+    prepareBuffers(context, pos, tex) {
+      var vertexPosBuffer = context.createBuffer();
+      context.bindBuffer(context.ARRAY_BUFFER, vertexPosBuffer);
+      context.bufferData(context.ARRAY_BUFFER, pos, context.STATIC_DRAW);
+      context.bindBuffer(context.ARRAY_BUFFER, null);
+
+      var vertexTexBuffer = context.createBuffer();
+      context.bindBuffer(context.ARRAY_BUFFER, vertexTexBuffer);
+      context.bufferData(context.ARRAY_BUFFER, tex, context.STATIC_DRAW);
+      context.bindBuffer(context.ARRAY_BUFFER, null);
+
+      return {
+        pos: vertexPosBuffer,
+        tex: vertexTexBuffer
+      }
+    }
+
+    prepareVertexArray(context, buffers) {
+      var vertexArray = context.createVertexArray();
+      context.bindVertexArray(vertexArray);
+
+      var vertexPosIdx = 0;
+      context.bindBuffer(context.ARRAY_BUFFER, buffers.pos);
+      context.vertexAttribPointer(vertexPosIdx, 4, context.FLOAT, false, 0, 0);
+      context.enableVertexAttribArray(vertexPosIdx);
+      context.bindBuffer(context.ARRAY_BUFFER, null);
+
+      var vertextexIdx = 4;
+      context.bindBuffer(context.ARRAY_BUFFER, buffers.tex);
+      context.vertexAttribPointer(vertextexIdx, 2, context.FLOAT, false, 0, 0);
+      context.enableVertexAttribArray(vertextexIdx);
+      context.bindBuffer(context.ARRAY_BUFFER, null);
+
+      context.bindVertexArray(null);
+
+      return vertexArray;
+    }
+
+    createVertexLayout() {
+      // TODO: given a hash config, return new vertex layout using these buffers
+    }
+
+    getQuadPositions() {
+      return new Float32Array([
+        -1.0, -1.0, 0.0, 1.0,
+        1.0, -1.0, 0.0, 1.0,
+        1.0, 1.0, 0.0, 1.0,
+        1.0, 1.0, 0.0, 1.0,
+        -1.0, 1.0, 0.0, 1.0,
+        -1.0, -1.0, 0.0, 1.0
+      ])
+    }
+
+    getQuadTexCoords() {
+      return new Float32Array([
+        0.0, 0.0,
+        1.0, 0.0,
+        1.0, 1.0,
+        1.0, 1.0,
+        0.0, 1.0,
+        0.0, 0.0
+      ])
     }
   }
 
-  prepareVertexArray(context, buffers) {
-    var vertexArray = context.createVertexArray();
-    context.bindVertexArray(vertexArray);
+  class ResourceProvider {
+    // i need the triple buffering pattern from iOS/OSX Metal semaphore
+    // - this is because i'm rendering updated particle positons to a texture
+    //   - this in turn renders a gradient that's used in the next frame
+    // - double buffering may be enough, but ideally the data should remain written to buffer for as long as it's needed to render
 
-    var vertexPosIdx = 0;
-    context.bindBuffer(context.ARRAY_BUFFER, buffers.pos);
-    context.vertexAttribPointer(vertexPosIdx, 4, context.FLOAT, false, 0, 0);
-    context.enableVertexAttribArray(vertexPosIdx);
-    context.bindBuffer(context.ARRAY_BUFFER, null);
+    // TODO: resource attacher: nice idea, but probably not necessary
+    // resource attacher map (key) => ((fb, texture) => success)
+    // - wires together textures for a given framebuffer & color attachment for this frame
+    //   - i need to instantiate all the textures up front and repoint them as needed
 
-    var vertextexIdx = 4;
-    context.bindBuffer(context.ARRAY_BUFFER, buffers.tex);
-    context.vertexAttribPointer(vertextexIdx, 2, context.FLOAT, false, 0,0);
-    context.enableVertexAttribArray(vertextexIdx);
-    context.bindBuffer(context.ARRAY_BUFFER, null);
-
-    context.bindVertexArray(null);
-
-    return vertexArray;
-  }
-
-  createVertexLayout() {
-    // TODO: given a hash config, return new vertex layout using these buffers
-  }
-
-  getQuadPositions() {
-    return new Float32Array([
-      -1.0, -1.0, 0.0, 1.0,
-      1.0, -1.0, 0.0, 1.0,
-      1.0,  1.0, 0.0, 1.0,
-      1.0,  1.0, 0.0, 1.0,
-      -1.0,  1.0, 0.0, 1.0,
-      -1.0, -1.0, 0.0, 1.0
-    ])
-  }
-
-  getQuadTexCoords() {
-    return new Float32Array([
-      0.0, 0.0,
-      1.0, 0.0,
-      1.0, 1.0,
-      1.0, 1.0,
-      0.0, 1.0,
-      0.0, 0.0
-    ])
-  }
-}
-
-class ResourceProvider {
-  // i need the triple buffering pattern from iOS/OSX Metal semaphore
-  // - this is because i'm rendering updated particle positons to a texture
-  //   - this in turn renders a gradient that's used in the next frame
-  // - double buffering may be enough, but ideally the data should remain written to buffer for as long as it's needed to render
-
-  // TODO: resource registration (do i need this?)
-  // - register resources with this object to have their reading/writing resources swapped out
-  //
-
-  // resource attacher map (key) => ((fb, texture) => success)
-  // - wires together textures for a given framebuffer & color attachment for this frame
-  //   - i need to instantiate all the textures up front and repoint them as needed
-
-  constructor() {
-    this._textures = {}
-    this._attachers = {} // attach/config the texture to the proper resources in the frame
-  }
-
-  registerTextures(k, textures) {
-    this._textures[k] = textures;
-  }
-
-  registerAttacher(k, f) {
-    this._attachers[k] = f;
-  }
-
-  getAttacher(k) {
-    return _attachers[k];
-  }
-
-  getCurrent(k) {
-    return textures[k][this.getCurrentId()];
-  }
-
-  getNext(k) {
-    return textures[k][this.getNext()];
-  }
-
-  getPrev(k) {
-    return textures[k][this.getPrev()];
-  }
-
-  getCurrentId() {
-    return this._current;
-  }
-
-  getNextId() {
-    if (this._current == 2) {
-      return 0;
-    } else {
-      return this._current + 1;
-    }
-  }
-
-  getPrevId() {
-    if (this._current == 0) {
-      return 2;
-    } else {
-      return this._current - 1;
-    }
-  }
-
-  increment() {
-    if (this._current == 2) {
+    constructor() {
       this._current = 0;
-    } else {
-      this._current++;
+      this._textures = {};
+      this._attachers = {}; // attach/config the texture to the proper resources in the frame
+    }
+
+    registerTextures(k, textures) {
+      this._textures[k] = textures;
+    }
+
+    registerAttacher(k, f) {
+      this._attachers[k] = f;
+    }
+
+    getAttacher(k) {
+      return _attachers[k];
+    }
+
+    getCurrent(k) {
+      return this._textures[k][this.getCurrentId()];
+    }
+
+    getNext(k) {
+      return this._textures[k][this.getNextId()];
+    }
+
+    getPrev(k) {
+      return this._textures[k][this.getPrevId()];
+    }
+
+    getCurrentId() {
+      return this._current;
+    }
+
+    getNextId() {
+      if (this._current == 2) {
+        return 0;
+      } else {
+        return this._current + 1;
+      }
+    }
+
+    getPrevId() {
+      if (this._current == 0) {
+        return 2;
+      } else {
+        return this._current - 1;
+      }
+    }
+
+    increment() {
+      if (this._current == 2) {
+        this._current = 0;
+      } else {
+        this._current++;
+      }
     }
   }
-}
 
-function triplicateResource(f) {
-  // run function 3 times
-  return [0,1,2].map(f)
-}
-
-function updateTexture(f) {
-  //return a function that's enveloped in the correct access calls to update before render or b/w draw calls
-  return function(context, triple, i) {
-    var thisTexture = triple[i];
-
-    context.activeTexture(context.TEXTURE0);
-    context.bindTexture(gl.TEXTURE_2D, triple[i]);
-
-    f(context, thisTexture);
-
-    context.bindTexture(gl.TEXTURE_2D, null);
+  function triplicateResource(f) {
+    // run function 3 times
+    return [0, 1, 2].map(f)
   }
-}
 
-var canvas = document.getElementById('main-canvas');
-canvas.style.width = '100%';
-canvas.height = 500;
-canvas.width = canvas.offsetWidth;
+  function updateTexture(f) {
+    //return a function that's enveloped in the correct access calls to update before render or b/w draw calls
+    return function (context, triple, i) {
+      var thisTexture = triple[i];
+
+      context.activeTexture(context.TEXTURE0);
+      context.bindTexture(gl.TEXTURE_2D, triple[i]);
+
+      f(context, thisTexture);
+
+      context.bindTexture(gl.TEXTURE_2D, null);
+    }
+  }
+
+  var canvas = document.getElementById('main-canvas');
+  canvas.style.width = '100%';
+  canvas.height = 500;
+  canvas.width = canvas.offsetWidth;
 
 // =======================================
 // UI events
 // =======================================
 
-var mouseDown = false;
-var lastMouseX = 0;
-var lastMouseY = 0;
+  var mouseDown = false;
+  var lastMouseX = 0;
+  var lastMouseY = 0;
 
-canvas.onmousedown = function(event) {
-  mouseDown = true;
-  lastMouseX = event.clientX;
-  lastMouseY = event.clientY;
-};
+  canvas.onmousedown = function (event) {
+    mouseDown = true;
+    lastMouseX = event.clientX;
+    lastMouseY = event.clientY;
+  };
 
-canvas.onmouseup = function(event) {
-  mouseDown = false;
-};
+  canvas.onmouseup = function (event) {
+    mouseDown = false;
+  };
 
-canvas.onmousemove = function(event) {
-  var newX = event.clientX;
-  var newY = event.clientY;
-  var deltaX = newX - lastMouseX;
-  var deltaY = newY - lastMouseY;
-  var m = mat4.create();
-  mat4.rotateX(m, m, deltaX / 100.0);
-  mat4.rotateY(m, m, deltaY / 100.0);
-  mat4.multiply(tempMat4, mvMatrix, m);
-  mat4.copy(mvMatrix, tempMat4);
-  lastMouseX = newX;
-  lastMouseY = newY;
-};
+  canvas.onmousemove = function (event) {
+    var newX = event.clientX;
+    var newY = event.clientY;
+    var deltaX = newX - lastMouseX;
+    var deltaY = newY - lastMouseY;
+    var m = mat4.create();
+    mat4.rotateX(m, m, deltaX / 100.0);
+    mat4.rotateY(m, m, deltaY / 100.0);
+    mat4.multiply(tempMat4, mvMatrix, m);
+    mat4.copy(mvMatrix, tempMat4);
+    lastMouseX = newX;
+    lastMouseY = newY;
+  };
 
 // =======================================
 // Canvas & WebGL
 // =======================================
 
-var gl = canvas.getContext( 'webgl2', { antialias: true } );
-var isWebGL2 = !!gl;
-if(!isWebGL2) {
-  document.getElementById('info').innerHTML = 'WebGL 2 is not available.  See <a href="https://www.khronos.org/webgl/wiki/Getting_a_WebGL_Implementation">How to get a WebGL 2 implementation</a>';
-  console.error('WebGL 2 is not available.')
-}
+  var gl = canvas.getContext('webgl2', {antialias: true});
+  var isWebGL2 = !!gl;
+  if (!isWebGL2) {
+    document.getElementById('info').innerHTML = 'WebGL 2 is not available.  See <a href="https://www.khronos.org/webgl/wiki/Getting_a_WebGL_Implementation">How to get a WebGL 2 implementation</a>';
+    console.error('WebGL 2 is not available.')
+  }
 
-var WIN_X = gl.drawingBufferWidth;
-var WIN_Y = gl.drawingBufferHeight;
+  var WIN_X = gl.drawingBufferWidth;
+  var WIN_Y = gl.drawingBufferHeight;
 
-var UINT32_MAX = 2 ** 32 - 1;
+  var UINT32_MAX = 2 ** 32 - 1;
 
 // =======================================
 // GLSL Programs
 // =======================================
 
 // -- initialize glsl programs
-var shaderVertexPassthrough = document.getElementById('vertexPassthrough').textContent,
-  shaderRandoms = document.getElementById('shaderRandoms').textContent,
-  shaderVertex = document.getElementById('shaderVertex').textContent,
-  shaderFragment = document.getElementById('shaderFragment').textContent,
-  shaderTest = document.getElementById('shaderTest').textContent;
+  var shaderVertexPassthrough = document.getElementById('vertexPassthrough').textContent,
+    shaderParticleRandoms = document.getElementById('shaderParticleRandoms').textContent,
+    shaderParticleUpdate = document.getElementById('shaderParticleUpdate').textContent,
+    shaderFieldVertex = document.getElementById('shaderFieldVertex').textContent,
+    shaderFieldFragment = document.getElementById('shaderFieldFragment').textContent,
+    shaderTest = document.getElementById('shaderTest').textContent;
 
-var shaderDefines = {};
-var programRandomTexture = createProgram(gl, shaderVertexPassthrough, shaderRandoms);
-var programParticleGradient = createProgram(gl, shaderVertexPassthrough, shaderTest);
-var programFinal = createProgram(gl, shaderVertex, shaderTest);
+  var shaderDefines = {};
+  var programRandomTexture = createProgram(gl, shaderVertexPassthrough, shaderParticleRandoms);
+  var programParticleGradient = createProgram(gl, shaderVertexPassthrough, shaderTest);
+  var programParticleUpdate = createProgram(gl, shaderVertexPassthrough, shaderParticleUpdate);
+  var programFinal = createProgram(gl, shaderFieldVertex, shaderFieldFragment);
 
-var programTest = createProgram(gl, shaderVertexPassthrough, shaderTest);
+//var programTest = createProgram(gl, shaderVertexPassthrough, shaderTest);
 
 // =======================================
 // GLSL options
 // =======================================
 
-gl.enable(gl.DEPTH_TEST);
-gl.depthFunc(gl.LESS);
+  gl.enable(gl.DEPTH_TEST);
+  gl.depthFunc(gl.LESS);
 
-gl.enable(gl.BLEND);
-gl.blendFunc(gl.SRC_ALPHA, gl.ONE);
+  gl.enable(gl.BLEND);
+  gl.blendFunc(gl.SRC_ALPHA, gl.ONE);
 
 // =======================================
 // particles
@@ -441,21 +463,21 @@ gl.blendFunc(gl.SRC_ALPHA, gl.ONE);
 // TODO: generate initial texture to use for particle positions
 // TODO: generate initial texture to use for randoms
 
-function generateFloat32Randoms(h,w,n) {
-  var randoms = new Float32Array(w*h*n);
-  for (var i=0; i<(w*h*n); i++) {
-    randoms[i] = Math.random();
+  function generateFloat32Randoms(h, w, n) {
+    var randoms = new Float32Array(w * h * n);
+    for (var i = 0; i < (w * h * n); i++) {
+      randoms[i] = Math.random();
+    }
+    return randoms
   }
-  return randoms
-}
 
-function generateUInt32Randoms(h,w,n) {
-  var randoms = new Uint32Array(w*h*n);
-  for (var i=0; i<(w*h*n); i++) {
-    randoms[i] = Math.trunc(Math.random() * 255);
+  function generateUInt32Randoms(h, w, n) {
+    var randoms = new Uint32Array(w * h * n);
+    for (var i = 0; i < (w * h * n); i++) {
+      randoms[i] = Math.trunc(Math.random() * 255);
+    }
+    return randoms
   }
-  return randoms
-}
 
 // attributes
 // particle_index
@@ -469,131 +491,131 @@ function generateUInt32Randoms(h,w,n) {
 // particle buffers
 // =======================================
 
-function generateParticleIndices(h,w) {
-  var indices = new Uint32Array(h*w);
-  for (var i=0; i<(h*w); i++){
-    indices[i] = i;
+  function generateParticleIndices(h, w) {
+    var indices = new Uint32Array(h * w);
+    for (var i = 0; i < (h * w); i++) {
+      indices[i] = i;
+    }
+    return indices;
   }
-  return indices;
-}
 
-var particleIdx = generateParticleIndices(PARTICLE_FB_HEIGHT, PARTICLE_FB_WIDTH);
+  var particleIdx = generateParticleIndices(PARTICLE_FB_HEIGHT, PARTICLE_FB_WIDTH);
 
-var particleIdxBuffer = gl.createBuffer();
-gl.bindBuffer(gl.ARRAY_BUFFER, particleIdxBuffer);
-gl.bufferData(gl.ARRAY_BUFFER, particleIdx, gl.STATIC_DRAW);
-gl.bindBuffer(gl.ARRAY_BUFFER, null);
+  var particleIdxBuffer = gl.createBuffer();
+  gl.bindBuffer(gl.ARRAY_BUFFER, particleIdxBuffer);
+  gl.bufferData(gl.ARRAY_BUFFER, particleIdx, gl.STATIC_DRAW);
+  gl.bindBuffer(gl.ARRAY_BUFFER, null);
 
-var particleVertexArray = gl.createVertexArray();
-gl.bindVertexArray(particleVertexArray);
+  var particleVertexArray = gl.createVertexArray();
+  gl.bindVertexArray(particleVertexArray);
 
-var particleIdxIndex = 0;
-gl.bindBuffer(gl.ARRAY_BUFFER, particleIdxBuffer);
-gl.vertexAttribPointer(particleIdxIndex, 1, gl.UNSIGNED_INT, false, 0,0);
-gl.enableVertexAttribArray(particleIdxIndex);
-gl.bindBuffer(gl.ARRAY_BUFFER, null);
+  var particleIdxIndex = 0;
+  gl.bindBuffer(gl.ARRAY_BUFFER, particleIdxBuffer);
+  gl.vertexAttribPointer(particleIdxIndex, 1, gl.UNSIGNED_INT, false, 0, 0);
+  gl.enableVertexAttribArray(particleIdxIndex);
+  gl.bindBuffer(gl.ARRAY_BUFFER, null);
 
-gl.bindVertexArray(null);
+  gl.bindVertexArray(null);
 
 // =======================================
 // final quad geometry
 // =======================================
 
-var finalQuad = new Quad(gl);
+  var finalQuad = new Quad(gl);
 
 // =======================================
 // Particle Framebuffer: Create Color Attachments
 // =======================================
 
-var PARTICLE_FB_HEIGHT = 100;
-var PARTICLE_FB_WIDTH = 32;
+  var PARTICLE_FB_HEIGHT = 100;
+  var PARTICLE_FB_WIDTH = 32;
 
 // four attributes can be stores per texture (x,y,z,w)
-var particleRandomsAttachments, // stores random seed data (unfortunately integers)
-  particleBasicsAttachments,   // stores particle basics (floats)
-  particleIntsAttachments;     // stores more attributes (ints)
+  var particleRandomsAttachments, // stores random seed data (unfortunately integers)
+    particleBasicsAttachments,   // stores particle basics (floats)
+    particleIntsAttachments;     // stores more attributes (ints)
 
-var randomIntData = generateUInt32Randoms(PARTICLE_FB_HEIGHT, PARTICLE_FB_WIDTH, 4);
-var randomFloatData = generateFloat32Randoms(PARTICLE_FB_HEIGHT, PARTICLE_FB_WIDTH, 4);
+  var randomIntData = generateUInt32Randoms(PARTICLE_FB_HEIGHT, PARTICLE_FB_WIDTH, 4);
+  var randomFloatData = generateFloat32Randoms(PARTICLE_FB_HEIGHT, PARTICLE_FB_WIDTH, 4);
 
-var particleRandomsAttachments = triplicateResource((f) => {
-  gl.activeTexture(gl.TEXTURE0);
-  var tex = gl.createTexture();
-  gl.bindTexture(gl.TEXTURE_2D, tex);
+  var particleRandomsAttachments = triplicateResource((f) => {
+    gl.activeTexture(gl.TEXTURE0);
+    var tex = gl.createTexture();
+    gl.bindTexture(gl.TEXTURE_2D, tex);
 
-  gl.texStorage2D(gl.TEXTURE_2D, 1, gl.RGBA32UI, PARTICLE_FB_WIDTH, PARTICLE_FB_HEIGHT);
+    gl.texStorage2D(gl.TEXTURE_2D, 1, gl.RGBA32UI, PARTICLE_FB_WIDTH, PARTICLE_FB_HEIGHT);
 
-  gl.texParameteri(gl.TEXTURE_2D, gl.TEXTURE_WRAP_S, gl.CLAMP_TO_EDGE);
-  gl.texParameteri(gl.TEXTURE_2D, gl.TEXTURE_WRAP_T, gl.CLAMP_TO_EDGE);
-  gl.texParameteri(gl.TEXTURE_2D, gl.TEXTURE_MIN_FILTER, gl.NEAREST);
-  gl.texParameteri(gl.TEXTURE_2D, gl.TEXTURE_MAG_FILTER, gl.NEAREST);
+    gl.texParameteri(gl.TEXTURE_2D, gl.TEXTURE_WRAP_S, gl.CLAMP_TO_EDGE);
+    gl.texParameteri(gl.TEXTURE_2D, gl.TEXTURE_WRAP_T, gl.CLAMP_TO_EDGE);
+    gl.texParameteri(gl.TEXTURE_2D, gl.TEXTURE_MIN_FILTER, gl.NEAREST);
+    gl.texParameteri(gl.TEXTURE_2D, gl.TEXTURE_MAG_FILTER, gl.NEAREST);
 
-  return tex;
-});
+    return tex;
+  });
 
-var particleBasicsAttachments = triplicateResource(() => {
-  gl.activeTexture(gl.TEXTURE0);
-  var tex = gl.createTexture();
-  gl.bindTexture(gl.TEXTURE_2D, tex);
+  var particleBasicsAttachments = triplicateResource(() => {
+    gl.activeTexture(gl.TEXTURE0);
+    var tex = gl.createTexture();
+    gl.bindTexture(gl.TEXTURE_2D, tex);
 
-  gl.texStorage2D(gl.TEXTURE_2D, 1, gl.RGBA32F, PARTICLE_FB_HEIGHT, PARTICLE_FB_WIDTH);
+    gl.texStorage2D(gl.TEXTURE_2D, 1, gl.RGBA32F, PARTICLE_FB_HEIGHT, PARTICLE_FB_WIDTH);
 
-  gl.texParameteri(gl.TEXTURE_2D, gl.TEXTURE_WRAP_S, gl.CLAMP_TO_EDGE);
-  gl.texParameteri(gl.TEXTURE_2D, gl.TEXTURE_WRAP_T, gl.CLAMP_TO_EDGE);
-  gl.texParameteri(gl.TEXTURE_2D, gl.TEXTURE_MIN_FILTER, gl.NEAREST);
-  gl.texParameteri(gl.TEXTURE_2D, gl.TEXTURE_MAG_FILTER, gl.NEAREST);
+    gl.texParameteri(gl.TEXTURE_2D, gl.TEXTURE_WRAP_S, gl.CLAMP_TO_EDGE);
+    gl.texParameteri(gl.TEXTURE_2D, gl.TEXTURE_WRAP_T, gl.CLAMP_TO_EDGE);
+    gl.texParameteri(gl.TEXTURE_2D, gl.TEXTURE_MIN_FILTER, gl.NEAREST);
+    gl.texParameteri(gl.TEXTURE_2D, gl.TEXTURE_MAG_FILTER, gl.NEAREST);
 
-  return tex;
-});
+    return tex;
+  });
 
-var particleIntsAttachments = triplicateResource(() => {
-  gl.activeTexture(gl.TEXTURE0);
-  var tex = gl.createTexture();
-  gl.bindTexture(gl.TEXTURE_2D, tex);
+  var particleIntsAttachments = triplicateResource(() => {
+    gl.activeTexture(gl.TEXTURE0);
+    var tex = gl.createTexture();
+    gl.bindTexture(gl.TEXTURE_2D, tex);
 
-  gl.texStorage2D(gl.TEXTURE_2D, 1, gl.RGBA32UI, PARTICLE_FB_WIDTH, PARTICLE_FB_HEIGHT);
+    gl.texStorage2D(gl.TEXTURE_2D, 1, gl.RGBA32UI, PARTICLE_FB_WIDTH, PARTICLE_FB_HEIGHT);
 
-  gl.texParameteri(gl.TEXTURE_2D, gl.TEXTURE_WRAP_S, gl.CLAMP_TO_EDGE);
-  gl.texParameteri(gl.TEXTURE_2D, gl.TEXTURE_WRAP_T, gl.CLAMP_TO_EDGE);
-  gl.texParameteri(gl.TEXTURE_2D, gl.TEXTURE_MIN_FILTER, gl.NEAREST);
-  gl.texParameteri(gl.TEXTURE_2D, gl.TEXTURE_MAG_FILTER, gl.NEAREST);
+    gl.texParameteri(gl.TEXTURE_2D, gl.TEXTURE_WRAP_S, gl.CLAMP_TO_EDGE);
+    gl.texParameteri(gl.TEXTURE_2D, gl.TEXTURE_WRAP_T, gl.CLAMP_TO_EDGE);
+    gl.texParameteri(gl.TEXTURE_2D, gl.TEXTURE_MIN_FILTER, gl.NEAREST);
+    gl.texParameteri(gl.TEXTURE_2D, gl.TEXTURE_MAG_FILTER, gl.NEAREST);
 
-  return tex;
-});
+    return tex;
+  });
 
 // =======================================
 // Particle Framebuffer: Set initial data for color attachments
 // =======================================
 
-// initialize random seeds
-updateTexture((context, texture) => {
-
-  context.texSubImage2D(gl.TEXTURE_2D,
-    0,
-    0, // x offset
-    0, // y offset
-    PARTICLE_FB_HEIGHT,
-    PARTICLE_FB_WIDTH,
-    gl.RGBA32UI,
-    gl.UNSIGNED_INT,
-    randomIntData);
-
-})(gl, particleRandomsAttachments, 0);
-
-// init particle positions
-updateTexture((context, texture) => {
-
-  context.texSubImage2D(gl.TEXTURE_2D,
-    0,
-    0, // x offset
-    0, // y offset
-    PARTICLE_FB_HEIGHT,
-    PARTICLE_FB_WIDTH,
-    gl.RGBA32F,
-    gl.FLOAT,
-    randomFloatData);
-
-})(gl, particleBasicsAttachments, 0);
+//// initialize random seeds
+//  updateTexture((context, texture) => {
+//
+//    context.texSubImage2D(gl.TEXTURE_2D,
+//      0,
+//      0, // x offset
+//      0, // y offset
+//      PARTICLE_FB_HEIGHT,
+//      PARTICLE_FB_WIDTH,
+//      gl.RGBA32UI,
+//      gl.UNSIGNED_INT,
+//      randomIntData);
+//
+//  })(gl, particleRandomsAttachments, 0);
+//
+//// init particle positions
+//  updateTexture((context, texture) => {
+//
+//    context.texSubImage2D(gl.TEXTURE_2D,
+//      0,
+//      0, // x offset
+//      0, // y offset
+//      PARTICLE_FB_HEIGHT,
+//      PARTICLE_FB_WIDTH,
+//      gl.RGBA32F,
+//      gl.FLOAT,
+//      randomFloatData);
+//
+//  })(gl, particleBasicsAttachments, 0);
 
 // TODO: initial values for particle integer data
 //updateTexture((context, texture) => {
@@ -612,315 +634,383 @@ updateTexture((context, texture) => {
 // Field Framebuffer: Color Attachments
 // =======================================
 
-var fieldAttachments, // stores a shared field based on rendered & current particle positions
-  fieldGradientAttachments; // stores data about gradients in the fields
+  var fieldAttachments, // stores a shared field based on rendered & current particle positions
+    fieldGradientAttachments; // stores data about gradients in the fields
 
-var fieldAttachments = triplicateResource((f) => {
-  gl.activeTexture(gl.TEXTURE0);
-  var texture = gl.createTexture();
-  gl.bindTexture(gl.TEXTURE_2D, texture);
-  gl.texStorage2D(gl.TEXTURE_2D, 1, gl.RGBA32F, WIN_X, WIN_Y);
+  var fieldAttachments = triplicateResource((f) => {
+    gl.activeTexture(gl.TEXTURE0);
+    var texture = gl.createTexture();
+    gl.bindTexture(gl.TEXTURE_2D, texture);
+    gl.texStorage2D(gl.TEXTURE_2D, 1, gl.RGBA32F, WIN_X, WIN_Y);
 
-  // TODO: remove? i just need zeros (IVP isn't a problem...)
-  //gl.texSubImage2D(gl.TEXTURE_2D,
-  //  0,
-  //  0,
-  //  0,
-  //  WIN_X,
-  //  WIN_Y,
-  //  gl.RGBA32F,
-  //  gl.FLOAT,
-  //  null);
+    // TODO: remove? i just need zeros (IVP isn't a problem...)
+    //gl.texSubImage2D(gl.TEXTURE_2D,
+    //  0,
+    //  0,
+    //  0,
+    //  WIN_X,
+    //  WIN_Y,
+    //  gl.RGBA32F,
+    //  gl.FLOAT,
+    //  null);
 
-  gl.texParameteri(gl.TEXTURE_2D, gl.TEXTURE_WRAP_S, gl.CLAMP_TO_EDGE);
-  gl.texParameteri(gl.TEXTURE_2D, gl.TEXTURE_WRAP_T, gl.CLAMP_TO_EDGE);
-  gl.texParameteri(gl.TEXTURE_2D, gl.TEXTURE_MIN_FILTER, gl.LINEAR);
-  gl.texParameteri(gl.TEXTURE_2D, gl.TEXTURE_MAG_FILTER, gl.LINEAR);
-});
+    gl.texParameteri(gl.TEXTURE_2D, gl.TEXTURE_WRAP_S, gl.CLAMP_TO_EDGE);
+    gl.texParameteri(gl.TEXTURE_2D, gl.TEXTURE_WRAP_T, gl.CLAMP_TO_EDGE);
+    gl.texParameteri(gl.TEXTURE_2D, gl.TEXTURE_MIN_FILTER, gl.LINEAR);
+    gl.texParameteri(gl.TEXTURE_2D, gl.TEXTURE_MAG_FILTER, gl.LINEAR);
+  });
 
-var fieldGradientAttachments = triplicateResource((f) => {
-  gl.activeTexture(gl.TEXTURE0);
-  var texture = gl.createTexture();
+  var fieldGradientAttachments = triplicateResource((f) => {
+    gl.activeTexture(gl.TEXTURE0);
+    var texture = gl.createTexture();
 
-  gl.bindTexture(gl.TEXTURE_2D, texture);
-  gl.texStorage2D(gl.TEXTURE_2D, 1, gl.RGBA32F, WIN_X, WIN_Y);
+    gl.bindTexture(gl.TEXTURE_2D, texture);
+    gl.texStorage2D(gl.TEXTURE_2D, 1, gl.RGBA32F, WIN_X, WIN_Y);
 
-  gl.texParameteri(gl.TEXTURE_2D, gl.TEXTURE_WRAP_S, gl.CLAMP_TO_EDGE);
-  gl.texParameteri(gl.TEXTURE_2D, gl.TEXTURE_WRAP_T, gl.CLAMP_TO_EDGE);
-  gl.texParameteri(gl.TEXTURE_2D, gl.TEXTURE_MIN_FILTER, gl.LINEAR);
-  gl.texParameteri(gl.TEXTURE_2D, gl.TEXTURE_MAG_FILTER, gl.LINEAR);
-});
+    gl.texParameteri(gl.TEXTURE_2D, gl.TEXTURE_WRAP_S, gl.CLAMP_TO_EDGE);
+    gl.texParameteri(gl.TEXTURE_2D, gl.TEXTURE_WRAP_T, gl.CLAMP_TO_EDGE);
+    gl.texParameteri(gl.TEXTURE_2D, gl.TEXTURE_MIN_FILTER, gl.LINEAR);
+    gl.texParameteri(gl.TEXTURE_2D, gl.TEXTURE_MAG_FILTER, gl.LINEAR);
+  });
 
 // =======================================
 // Initialize render variables
 // =======================================
-var orientation = [0.0, 0.0, 0.0];
-var tempMat4 = mat4.create();
-var modelMatrix = mat4.create();
+  var orientation = [0.0, 0.0, 0.0];
+  var tempMat4 = mat4.create();
+  var modelMatrix = mat4.create();
 
-var eyeVec3 = vec3.create();
-vec3.set(eyeVec3, 4, 3, 1);
-var centerVec3 = vec3.create();
-vec3.set(centerVec3, 0, 0.5, 0);
-var upVec3 = vec3.create();
-vec3.set(upVec3, 0, 1, 0);
+  var eyeVec3 = vec3.create();
+  vec3.set(eyeVec3, 4, 3, 1);
+  var centerVec3 = vec3.create();
+  vec3.set(centerVec3, 0, 0.5, 0);
+  var upVec3 = vec3.create();
+  vec3.set(upVec3, 0, 1, 0);
 
-var viewMatrix = mat4.create();
-mat4.lookAt(viewMatrix, eyeVec3, centerVec3, upVec3);
-var mvMatrix = mat4.create();
-mat4.multiply(mvMatrix, viewMatrix, modelMatrix);
-var perspectiveMatrix = mat4.create();
-mat4.perspective(perspectiveMatrix, 0.785, 1, 1, 1000);
+  var viewMatrix = mat4.create();
+  mat4.lookAt(viewMatrix, eyeVec3, centerVec3, upVec3);
+  var mvMatrix = mat4.create();
+  mat4.multiply(mvMatrix, viewMatrix, modelMatrix);
+  var perspectiveMatrix = mat4.create();
+  mat4.perspective(perspectiveMatrix, 0.785, 1, 1, 1000);
 
 // =======================================
 // RenderPassConfig
 // =======================================
 
-class RenderPassConfig {
+  class RenderPassConfig {
 
-  constructor (context, program, options = { uniformLocations: {} }) {
-    this._program = program;
-    this._context = context;
-    this._uniformLocations = options.uniformLocations || {};
-    delete options.uniformLocations;
-    this._options = options;
-  }
-
-  get program () { return this._program }
-  set program (program) {
-    setUniformLocations();
-    this._program = program;
-  }
-
-  get context() { return this._context; }
-  set context(context) { this._context = context; }
-  get options() { return this._options; }
-  set options(options) { this._options = options; }
-  get uniformLocations() { return this._uniformLocations; }
-  set uniformLocations(uniformLocations) { this._uniformLocations = uniformLocations; }
-
-  initUniformLocations(keys) {
-    // initialize the keys for uniform locations
-    var locations = {};
-    for (var k of keys) {
-      locations[k] = null;
-    }
-    this._uniformLocations = locations;
-  }
-
-  setUniformLocations() {
-    var keys = Object.keys(this.uniformLocations);
-    for (var k of keys) {
-      this.uniformLocations[k] = this.context.getUniformLocation(this.program, k);
-    }
-  }
-
-  selectProgram() {
-    this.context.useProgram(this.program)
-  }
-
-  encode(uniforms, options = {}) {
-    var ops = Object.assign({}, this.options, options);
-
-    // for each key in uniforms, encode value into the specific location
-    if (ops.beforeEncode !== undefined) {
-      ops.beforeEncode(this.context, uniforms, ops);
+    constructor(context, program, options = {uniformLocations: {}}) {
+      this._program = program;
+      this._context = context;
+      this._uniformLocations = options.uniformLocations || {};
+      delete options.uniformLocations;
+      this._options = options;
     }
 
-    this.selectProgram();
-
-    if (ops.encodeUniforms !== undefined) {
-      ops.encodeUniforms(this.context, uniforms, ops);
-    } else {
-      this.encodeUniforms(this.context, uniforms, ops);
+    get program() {
+      return this._program
     }
 
-    if (ops.encodeDraw !== undefined) {
-      ops.encodeDraw(this.context, uniforms, ops);
-    } else {
-      this.encodeDraw(this.context, uniforms, ops);
+    set program(program) {
+      this._program = program;
     }
 
-    if (ops.afterEncode !== undefined) {
-      ops.afterEncode(this.context, uniforms, ops);
+    get context() {
+      return this._context;
     }
 
-    this.cleanupEncode();
-  }
+    set context(context) {
+      this._context = context;
+    }
 
-  encodeUniforms(c, uniforms, options = {}) {
-    console.error("RenderPassConfig: override encodeUniforms() or pass 'encodeUniforms'")
-  }
+    get options() {
+      return this._options;
+    }
 
-  encodeDraw(c, uniforms, options = {}) {
-    console.error("RenderPassConfig: override encodeDraw() or pass 'encodeDraw'")
-  }
+    set options(options) {
+      this._options = options;
+    }
 
-  cleanupEncode() {
-    this._context.useProgram(null)
+    get uniformLocations() {
+      return this._uniformLocations;
+    }
+
+    set uniformLocations(uniformLocations) {
+      this._uniformLocations = uniformLocations;
+    }
+
+    initUniformLocations(keys) {
+      // initialize the keys for uniform locations
+      var locations = {};
+      for (var k of keys) {
+        locations[k] = null;
+      }
+      this._uniformLocations = locations;
+    }
+
+    setUniformLocations() {
+      var keys = Object.keys(this.uniformLocations);
+      for (var k of keys) {
+        this.uniformLocations[k] = this.context.getUniformLocation(this.program, k);
+      }
+    }
+
+    selectProgram() {
+      this.context.useProgram(this.program)
+    }
+
+    encode(uniforms, options = {}) {
+      var ops = Object.assign({}, this.options, options);
+
+      // for each key in uniforms, encode value into the specific location
+      if (ops.beforeEncode !== undefined) {
+        ops.beforeEncode(this.context, uniforms, ops);
+      }
+
+      this.selectProgram();
+
+      if (ops.encodeUniforms !== undefined) {
+        ops.encodeUniforms(this.context, uniforms, ops);
+      } else {
+        this.encodeUniforms(this.context, uniforms, ops);
+      }
+
+      if (ops.encodeDraw !== undefined) {
+        ops.encodeDraw(this.context, uniforms, ops);
+      } else {
+        this.encodeDraw(this.context, uniforms, ops);
+      }
+
+      if (ops.afterEncode !== undefined) {
+        ops.afterEncode(this.context, uniforms, ops);
+      }
+
+      this.cleanupEncode();
+    }
+
+    encodeUniforms(c, uniforms, options = {}) {
+      console.error("RenderPassConfig: override encodeUniforms() or pass 'encodeUniforms'")
+    }
+
+    encodeDraw(c, uniforms, options = {}) {
+      console.error("RenderPassConfig: override encodeDraw() or pass 'encodeDraw'")
+    }
+
+    cleanupEncode() {
+      this._context.useProgram(null)
+    }
   }
-}
 
 // =======================================
 // configure framebuffers
 // =======================================
 
-var particleFb = gl.createFramebuffer();
-var fieldFb = gl.createFramebuffer();
+  var particleFb = gl.createFramebuffer();
+  var fieldFb = gl.createFramebuffer();
 
 // =======================================
 // configure renderpasses
 // =======================================
 
-var anyQuad = new Quad();
+  var anyQuad = new Quad(gl);
 
-var renderPassRandoms = new RenderPassConfig(gl, programRandomTexture, {
-  encodeUniforms: (context, uniforms, options) => {
-    //TODO: set uniforms
-    // this._context.uniform1i(options., 0);
+  var renderPassRandoms = new RenderPassConfig(gl, programRandomTexture, {
+    encodeUniforms: (context, uniforms, options) => {
+      context.uniform2fv(renderPassRandoms.uniformLocations.resolution, uniforms.resolution);
+      context.uniform4fv(renderPassRandoms.uniformLocations.randomStepSeed, uniforms.randomStepSeed);
+      context.uniform1i(renderPassRandoms.uniformLocations.particleRandoms, uniforms.particleRandomsLocation);
 
-    //var drawUniformColor1Location = gl.getUniformLocation(drawProgram, 'color1Map');
-    //var drawUniformColor2Location = gl.getUniformLocation(drawProgram, 'color2Map');
-  },
-  encodeDraw: (context, uniforms, options) => {
-    // draw quad
-    context.bindVertexArray(anyQuad.vertexArray);
-    context.drawArrays(context.TRIANGLES, 0, 6);
-  }
-});
+      context.activeTexture(gl.TEXTURE0);
+      context.bindTexture(gl.TEXTURE_2D, options['particleRandoms']);
+    },
+    encodeDraw: (context, uniforms, options) => {
+      context.bindVertexArray(anyQuad.vertexArray);
+      context.drawArrays(context.TRIANGLES, 0, 6);
+    }
+  });
 
-renderPassRandoms.initUniformLocations([
-  'resolution',
-  'randomStepSeed',
-  'resourcePoolId',
-  'texRandom'
-]);
+  renderPassRandoms.initUniformLocations([
+    'resolution',
+    'randomStepSeed',
+    'particleRandoms'
+  ]);
 
-renderPassRandoms.setUniformLocations();
+  renderPassRandoms.setUniformLocations();
 
-var renderPassGradient = new RenderPassConfig(gl, programParticleGradient, {
-  encodeUniforms: (context, uniforms, options) => {
-    //TODO: set uniforms
-    //TODO: set texture for vertex positions
-  },
-  encodeDraw: (context, uniforms, options) => {
-    // draw quad
-    context.bindVertexArray(anyQuad.vertexArray);
-    context.drawArrays(context.TRIANGLES, 0, 6);
-  }
-});
+  var renderPassParticles = new RenderPassConfig(gl, programParticleUpdate, {
+    encodeUniforms: function (context, uniforms, options) {
+      context.uniform2fv(renderPassParticles.resolution, uniforms.resolution);
+      context.uniform1i(renderPassParticles.particleRandoms, uniforms.particleRandomsLocation);
 
-renderPassGradient.initUniformLocations([
-  'resolution',
-  'randomStepSeed',
-  'resourcePoolId',
-  'texRandom'
-]);
+      context.activeTexture(gl.TEXTURE0);
+      context.bindTexture(gl.TEXTURE_2D, options['particleRandoms']);
 
-renderPassGradient.setUniformLocations();
+      context.activeTexture(gl.TEXTURE1);
+      context.bindTexture(gl.TEXTURE_2D, options['particleBasics']);
+
+    },
+    encodeDraw: function (context, uniforms, options) {
+      context.bindVertexArray(anyQuad.vertexArray);
+      context.drawArrays(context.TRIANGLES, 0, 6);
+    }
+  });
+
+  renderPassParticles.initUniformLocations([
+    'resolution',
+    'deltaTime',
+    'particleRandoms',
+    'particleBasics'
+  ]);
+
+  renderPassParticles.setUniformLocations();
 
 // TODO: change to programRenderFinal
-var finalRenderPass = new RenderPassConfig(gl, programTest, {
-  beforeEncode: (context, uniforms, options) => {
-    context.clearColor(0.0, 0.0, 0.0, 1.0);
-    context.clear(context.COLOR_BUFFER_BIT | context.DEPTH_BUFFER_BIT);
-  },
-  encodeUniforms: (context, uniforms, options) => {
-    //TODO: set uniforms
-    //TODO: set texture from gradient pass
-  },
-  encodeDraw: (context, uniforms, options) => {
-    // draw quad
-    context.bindVertexArray(finalQuad.vertexArray);
-    context.drawArrays(context.TRIANGLES, 0, 6);
+  var finalRenderPass = new RenderPassConfig(gl, programFinal, {
+    beforeEncode: (context, uniforms, options) => {
+      context.clearColor(0.0, 0.0, 0.0, 1.0);
+      context.clear(context.COLOR_BUFFER_BIT | context.DEPTH_BUFFER_BIT);
+    },
+    encodeUniforms: (context, uniforms, options) => {
+      context.uniform1i(renderPassParticles.particleBasics, uniforms.particleBasicsLocation);
+
+      context.activeTexture(gl.TEXTURE0);
+      context.bindTexture(gl.TEXTURE_2D, options['particleBasics']);
+    },
+    encodeDraw: (context, uniforms, options) => {
+      // draw quad
+      context.bindVertexArray(finalQuad.vertexArray);
+      context.drawArrays(context.TRIANGLES, 0, 6);
+    }
+  });
+
+  finalRenderPass.initUniformLocations([
+    'resolution'
+  ]);
+
+  finalRenderPass.setUniformLocations();
+
+  function makeRandomStepSeed() {
+    return vec4.fromValues(
+      Math.trunc(Math.random() * UINT32_MAX),
+      Math.trunc(Math.random() * UINT32_MAX),
+      Math.trunc(Math.random() * UINT32_MAX),
+      Math.trunc(Math.random() * UINT32_MAX)
+    );
   }
-});
 
-finalRenderPass.initUniformLocations([
-  'resolution',
-  'resourcePoolId'
-]);
+  var startTime = Date.now(),
+    currentTime = startTime,
+    elapsedTime = currentTime - startTime,
+    lastFrameStart = currentTime,
+    lastFrameTime = currentTime - lastFrameStart;
 
-finalRenderPass.setUniformLocations();
+// deltaT stores the last four frame times
+  var deltaT = vec4.fromValues(0.0, 0.0, 0.0, 0.0);
+  var framecount = 0;
 
-var resourcePoolId = 0;
-
-function updateResourcePoolId() {
-  if (resourcePoolId == 2) {
-    resourcePoolId = 0
-  } else {
-    resourcePoolId++;
+  function updateTime() {
+    lastFrameStart = currentTime;
+    currentTime = Date.now();
+    elapsedTime = currentTime - startTime;
+    lastFrameTime = currentTime - lastFrameStart;
   }
-}
 
-render();
+  function updateDeltaT(dt, newDeltaT) {
+    return vec4.fromValues(newDeltaT, dt[0], dt[1], dt[2]);
+  }
 
-function makeRandomStepSeed() {
-  return [
-    Math.trunc(Math.random() * UINT32_MAX),
-    Math.trunc(Math.random() * UINT32_MAX),
-    Math.trunc(Math.random() * UINT32_MAX),
-    Math.trunc(Math.random() * UINT32_MAX)
-  ];
-}
+  var drawToAttachments;
+  var rp = new ResourceProvider();
 
-var drawToAttachments;
+  rp.registerTextures('particleRandoms', particleRandomsAttachments);
+  rp.registerTextures('particleBasics', particleBasicsAttachments);
+  rp.registerTextures('particleInts', particleIntsAttachments);
 
-var resourceProvider = new ResourceProvider();
+  rp.registerTextures('field', fieldAttachments);
+  rp.registerTextures('fieldGradient', fieldGradientAttachments);
 
-resourceProvider.registerTextures('particleRandoms', particleRandomsAttachments);
-resourceProvider.registerTextures('particleBasics', particleBasicsAttachments);
-resourceProvider.registerTextures('particleInts', particleIntsAttachments);
+  function checkFbStatus() {
+    var status = gl.checkFramebufferStatus(gl.DRAW_FRAMEBUFFER);
+    if (status != gl.FRAMEBUFFER_COMPLETE) {
+      console.error('fb status: ' + status.toString(10));
+      return;
+    }
+  }
 
-resourceProvider.registerTextures('field', fieldAttachments);
-resourceProvider.registerTextures('fieldGradient', fieldGradientAttachments);
 
-function render() {
+  function render() {
+    framecount++;
+    updateTime();
+    deltaT = updateDeltaT(deltaT, lastFrameTime);
 
-  drawToAttachments = [
-    gl.NONE,
-    gl.COLOR_ATTACHMENT1
-  ];
+    gl.bindFramebuffer(gl.DRAW_FRAMEBUFFER, particleFb);
+    gl.framebufferTexture2D(gl.DRAW_FRAMEBUFFER, gl.COLOR_ATTACHMENT0, gl.TEXTURE_2D, rp.getNext('particleRandoms'), 0);
+    gl.framebufferTexture2D(gl.DRAW_FRAMEBUFFER, gl.COLOR_ATTACHMENT1, gl.TEXTURE_2D, rp.getNext('particleBasics'), 0);
 
-  // -- pass 1: render randoms
-  var randomUniforms = {
-    resolution: vec2.create(PARTICLE_FB_HEIGHT, PARTICLE_FB_WIDTH),
-    randomStepSeed: makeRandomStepSeed(),
-    texRandom: renderPassRandoms.uniformLocations['texRandom']
-  };
+    console.log(rp.getNext('particleRandoms'));
+    console.log(rp.getNext('particleBasics'));
 
-  drawToAttachments = [
-    gl.NONE,
-    gl.COLOR_ATTACHMENT1,
-    gl.NONE
-  ];
+    checkFbStatus();
 
-  //console.log(randomUniforms);
-  offscreenFramebuffer.encode(drawToAttachments, () => renderPassRandoms.encode(randomUniforms));
-  offscreenFramebuffer.cleanupEncode();
+    var particleResolution = vec2.fromValues(PARTICLE_FB_HEIGHT, PARTICLE_FB_WIDTH);
+    var renderResolution = vec2.fromValues(WIN_X, WIN_Y);
 
-  // -- Pass 2: render gradient from particle location
-  // -  (and new particle locations in vertex shader?)
-  // TODO: set uniforms and options
-  //offscreenFramebuffer.encode([gl.COLOR_ATTACHMENT0], () => renderPassGradient.encode(uniforms, options));
-  //offscreenFramebuffer.cleanupEncode();
+    // -- pass 1: render new randoms
 
-  // -- Final Pass: render image
-  onscreenFramebuffer.encode(null, () => finalRenderPass.encode({}));
-  offscreenFramebuffer.cleanupEncode();
+    var randomUniforms = {
+      resolution: particleResolution,
+      randomStepSeed: makeRandomStepSeed(),
+      particleRandomsLocation: 0 // TEXTURE0
+    };
 
-  //orientation[0] = 0.00020; // yaw
-  //orientation[1] = 0.00010; // pitch
-  //orientation[2] = 0.00005; // roll
+    gl.drawBuffers([
+      gl.COLOR_ATTACHMENT0,
+      gl.NONE
+    ]);
 
-  //mat4.rotateX(mvMatrix, mvMatrix, orientation[0] * Math.PI);
-  //mat4.rotateY(mvMatrix, mvMatrix, orientation[1] * Math.PI);
-  //mat4.rotateZ(mvMatrix, mvMatrix, orientation[2] * Math.PI);
+    renderPassRandoms.encode(randomUniforms, {
+      particleRandoms: rp.getCurrent('particleRandoms')
+    });
 
-  updateResourcePoolId();
-  requestAnimationFrame(render);
-}
+    // -- pass 2: render update particle positions
 
-function cleanup() {
+    var updateParticleUniforms = {
+      resolution: particleResolution,
+      particleRandomsLocation: 0,
+      particleBasicsLocation: 1
+    };
 
-}
+    gl.drawBuffers([
+      gl.NONE,
+      gl.COLOR_ATTACHMENT1
+    ]);
+
+    renderPassParticles.encode(updateParticleUniforms, {
+      particleRandoms: rp.getNext('particleRandoms'),
+      particleBasics: rp.getCurrent('particleBasics')
+    });
+
+    gl.bindFramebuffer(gl.DRAW_FRAMEBUFFER, null);
+    gl.clearColor(0.0, 0.0, 0.0, 1.0);
+    gl.clear(gl.COLOR_BUFFER_BIT);
+
+    var finalUniforms = {
+      particleBasicsLocation: 0
+    };
+
+    finalRenderPass.encode(finalUniforms, {
+      particleBasics: rp.getNext('particleBasics')
+    });
+
+    rp.increment();
+    requestAnimationFrame(render);
+  }
+
+  function cleanup() {
+
+  }
+
+  render();
+
+})();

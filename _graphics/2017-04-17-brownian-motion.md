@@ -29,33 +29,23 @@ void main() {
 }
 </script>
 
-<p>
-  <figure class="highlight">
-    <pre>
-      <code id="codeRandoms" class="language-c" data-lang="c">
-
-      </code>
-    </pre>
-  </figure>
-</p>
-
-<script type="x-shader/x-fragment" id="shaderRandoms">
+<script type="x-shader/x-fragment" id="shaderParticleRandoms">
 precision highp float;
 precision highp int;
-precision lowp usampler2D;
+precision highp usampler2D;
 
 uniform vec2 resolution;
 uniform uvec4 randomStepSeed;
-uniform usampler2D texRandom;
+uniform usampler2D particleRandoms;
 
 in vec2 v_st;
 in vec3 v_position;
 out uvec4 randomColor;
 
 void main() {
-  //vec2 uv = gl_FragCoord.xy / resolution.xy;
-  vec2 uv = vec2(0.0,0.0);
-  uvec4 texel = texture(texRandom, uv);
+  vec2 uv = gl_FragCoord.xy / resolution.xy;
+  //vec2 uv = vec2(0.0,0.0);
+  uvec4 texel = texture(particleRandoms, uv);
 
   vec2 texelCoords[4];
   texelCoords[0] = mod(gl_FragCoord.xy + vec2( 0.0, -1.0), resolution.xy) / resolution.xy;
@@ -64,108 +54,79 @@ void main() {
   texelCoords[3] = mod(gl_FragCoord.xy + vec2(-1.0,  1.0), resolution.xy) / resolution.xy;
 
   uvec4 texels[4];
-  texels[0] = texture(texRandom, texelCoords[0]);
-  texels[1] = texture(texRandom, texelCoords[1]);
-  texels[2] = texture(texRandom, texelCoords[2]);
-  texels[3] = texture(texRandom, texelCoords[3]);
+  texels[0] = texture(particleRandoms, texelCoords[0]);
+  texels[1] = texture(particleRandoms, texelCoords[1]);
+  texels[2] = texture(particleRandoms, texelCoords[2]);
+  texels[3] = texture(particleRandoms, texelCoords[3]);
 
   uvec4 newTexel = (randomStepSeed ^ texel ^ texels[0] ^ texels[1] ^ texels[2] ^ texels[3]);
   randomColor = uvec4(newTexel.x, newTexel.y, newTexel.z, 255); // TODO: fix alpha to max for integers
 }
 </script>
 
+<script type="x-shader/x-fragment" id="shaderParticleUpdate">
+  precision highp float;
+  precision highp int;
+  precision highp usampler2D;
+  precision highp sampler2D;
 
+  uniform vec2 resolution;
+  uniform vec4 deltaTime;
+  uniform usampler2D particleRandoms;
+  uniform sampler2D particleBasics;
 
-<p>
-  <figure class="highlight">
-    <pre>
-      <code id="codeVertex" class="language-c" data-lang="c">
+  in vec2 v_st;
+  in vec3 v_position;
+  out vec4 particleUpdate;
 
-      </code>
-    </pre>
-  </figure>
-</p>
+  void main() {
+    vec2 uv = gl_FragCoord.xy / resolution.xy;
+    uvec4 pRandoms = texture(particleRandoms, uv);
+    vec4 pBasics = texture(particleBasics, uv);
 
-<script type="x-shader/x-vertex" id="shaderVertex">
+    particleUpdate = vec4(0.0,0.0,0.0,1.0);
+  }
 
-#define POSITION_LOCATION 0
-#define NORMAL_LOCATION 4
-#define TEXCOORD_LOCATION 1
-
-//#define POSITION_LOCATION 0
-//#define TEXCOORD_LOCATION 4
-
-precision highp float;
-precision highp int;
-
-uniform mat4 mvMatrix;
-uniform mat4 pMatrix;
-//uniform sampler2D particlePositions;
-uniform sampler2D displacementMap;
-
-layout(location = POSITION_LOCATION) in vec3 a_position;
-layout(location = NORMAL_LOCATION) in vec3 a_normal;
-layout(location = TEXCOORD_LOCATION) in vec2 a_texcoord;
-
-//layout(location = POSITION_LOCATION) in vec3 a_position;
-//layout(location = TEXCOORD_LOCATION) in vec2 a_texcoord;
-
-out vec2 v_st;
-out vec3 v_position;
-void main()
-{
-    v_st = a_texcoord;
-    float height = texture(displacementMap, a_texcoord).b;
-    vec4 displacedPosition = vec4(a_position, 1.0) + vec4(a_normal * height, 0.0);
-    v_position = vec3(mvMatrix * displacedPosition);
-    gl_Position = pMatrix * mvMatrix * displacedPosition;
-}
 </script>
 
+<script type="x-shader/x-vertex" id="shaderFieldVertex">
 
-<p>
-  <figure class="highlight">
-    <pre>
-      <code id="codeFragment" class="language-c" data-lang="c">
+#define IDX_LOCATION 0
 
-      </code>
-    </pre>
-  </figure>
-</p>
-
-<script type="x-shader/x-fragment" id="shaderFragment">
 precision highp float;
 precision highp int;
 precision highp sampler2D;
-uniform sampler2D diffuse;
 
-in vec2 v_st;
-in vec3 v_position;
-out vec4 color;
+uniform sampler2D particleBasics;
 
-float textureLevel(in sampler2D sampler, in vec2 v_st)
-{
-    vec2 size = vec2(textureSize(sampler, 0));
-    float levelCount = max(log2(size.x), log2(size.y));
-    vec2 dx = dFdx(v_st * size);
-    vec2 dy = dFdy(v_st * size);
-    float d = max(dot(dx, dx), dot(dy, dy));
-    d = clamp(d, 1.0, pow(2.0, (levelCount - 1.0) * 2.0));
-    return 0.5 * log2(d);
-}
+layout(location = IDX_LOCATION) in int a_index;
+
 void main()
 {
-    vec2 sampleCoord = fract(v_st.xy);
-    float level = textureLevel(diffuse, v_st);
-    // Compute LOD using gradient
-    color = textureLod(diffuse, v_st, level);
-    // Compute flat normal using gradient
-    vec3 fdx = dFdx(v_position);
-    vec3 fdy = dFdy(v_position);
+  ivec2 texSize = textureSize(particleBasics, 0);
 
-    vec3 N = normalize(cross(fdx, fdy));
-    color = mix(color, vec4(N, 1.0), 0.5);
+  ivec2 texel = ivec2(a_index % texSize.x, a_index / texSize.x);
+  vec4 pBasics = texelFetch(particleBasics, texel, 0);
+
+  gl_Position = vec4(pBasics.x, pBasics.y, 0.0, 1.0);
+  gl_PointSize = 10.0;
 }
+</script>
+
+<script type="x-shader/x-fragment" id="shaderFieldFragment">
+precision highp float;
+precision highp int;
+precision highp sampler2D;
+
+//uniform vec2 resolution;
+
+out vec4 color;
+
+void main()
+{
+  color = vec4(gl_FragCoord.x, gl_FragCoord.y, 0.3, 0.2);
+}
+
 </script>
 
 <script type="x-shader/x-fragment" id="shaderTest">
