@@ -276,6 +276,35 @@ class ResourceProvider {
   // - wires together textures for a given framebuffer & color attachment for this frame
   //   - i need to instantiate all the textures up front and repoint them as needed
 
+  constructor() {
+    this._textures = {}
+    this._attachers = {} // attach/config the texture to the proper resources in the frame
+  }
+
+  registerTextures(k, textures) {
+    this._textures[k] = textures;
+  }
+
+  registerAttacher(k, f) {
+    this._attachers[k] = f;
+  }
+
+  getAttacher(k) {
+    return _attachers[k];
+  }
+
+  getCurrent(k) {
+    return textures[k][this.getCurrentId()];
+  }
+
+  getNext(k) {
+    return textures[k][this.getNext()];
+  }
+
+  getPrev(k) {
+    return textures[k][this.getPrev()];
+  }
+
   getCurrentId() {
     return this._current;
   }
@@ -285,6 +314,14 @@ class ResourceProvider {
       return 0;
     } else {
       return this._current + 1;
+    }
+  }
+
+  getPrevId() {
+    if (this._current == 0) {
+      return 2;
+    } else {
+      return this._current - 1;
     }
   }
 
@@ -578,11 +615,11 @@ updateTexture((context, texture) => {
 var fieldAttachments, // stores a shared field based on rendered & current particle positions
   fieldGradientAttachments; // stores data about gradients in the fields
 
-var particleRandomsAttachments = triplicateResource((f) => {
+var fieldAttachments = triplicateResource((f) => {
   gl.activeTexture(gl.TEXTURE0);
   var texture = gl.createTexture();
   gl.bindTexture(gl.TEXTURE_2D, texture);
-  gl.texStorage2D(gl.TEXTURE_2D, 1, GL.RGBA32F, WIN_X, WIN_Y);
+  gl.texStorage2D(gl.TEXTURE_2D, 1, gl.RGBA32F, WIN_X, WIN_Y);
 
   // TODO: remove? i just need zeros (IVP isn't a problem...)
   //gl.texSubImage2D(gl.TEXTURE_2D,
@@ -734,7 +771,7 @@ var renderPassRandoms = new RenderPassConfig(gl, programRandomTexture, {
   },
   encodeDraw: (context, uniforms, options) => {
     // draw quad
-    context.bindVertexArray(finalQuad.vertexArray);
+    context.bindVertexArray(anyQuad.vertexArray);
     context.drawArrays(context.TRIANGLES, 0, 6);
   }
 });
@@ -755,7 +792,7 @@ var renderPassGradient = new RenderPassConfig(gl, programParticleGradient, {
   },
   encodeDraw: (context, uniforms, options) => {
     // draw quad
-    context.bindVertexArray(finalQuad.vertexArray);
+    context.bindVertexArray(anyQuad.vertexArray);
     context.drawArrays(context.TRIANGLES, 0, 6);
   }
 });
@@ -803,12 +840,9 @@ function updateResourcePoolId() {
   }
 }
 
-//renderPassRandoms.config();
-//renderPassGradient.config();
-finalRenderPass.config();
 render();
 
-function getRandomStepSeed() {
+function makeRandomStepSeed() {
   return [
     Math.trunc(Math.random() * UINT32_MAX),
     Math.trunc(Math.random() * UINT32_MAX),
@@ -819,9 +853,17 @@ function getRandomStepSeed() {
 
 var drawToAttachments;
 
+var resourceProvider = new ResourceProvider();
+
+resourceProvider.registerTextures('particleRandoms', particleRandomsAttachments);
+resourceProvider.registerTextures('particleBasics', particleBasicsAttachments);
+resourceProvider.registerTextures('particleInts', particleIntsAttachments);
+
+resourceProvider.registerTextures('field', fieldAttachments);
+resourceProvider.registerTextures('fieldGradient', fieldGradientAttachments);
+
 function render() {
 
-  // TODO: decide which framebuffers need a clear?
   drawToAttachments = [
     gl.NONE,
     gl.COLOR_ATTACHMENT1
@@ -829,9 +871,8 @@ function render() {
 
   // -- pass 1: render randoms
   var randomUniforms = {
-    resolution: vec2.create(WIN_X, WIN_Y),
-    randomStepSeed: getRandomStepSeed(),
-    resourcePoolId: resourcePoolId,
+    resolution: vec2.create(PARTICLE_FB_HEIGHT, PARTICLE_FB_WIDTH),
+    randomStepSeed: makeRandomStepSeed(),
     texRandom: renderPassRandoms.uniformLocations['texRandom']
   };
 
