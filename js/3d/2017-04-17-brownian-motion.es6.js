@@ -316,24 +316,6 @@ function updateTexture(f) {
   }
 }
 
-//class TexturePool {
-//  constructor () {
-//    this._textures = {};
-//    this._current = 0;
-//  }
-//
-//  getTexture(key, i) {
-//    this._textures[key][i];
-//  }
-//  setTexture(key, i, texture) {
-//    this._textures[key][i] = texture;
-//  }
-//
-//  increment() {
-//    this._current++;
-//  }
-//}
-
 var canvas = document.getElementById('main-canvas');
 canvas.style.width = '100%';
 canvas.height = 500;
@@ -641,85 +623,6 @@ var perspectiveMatrix = mat4.create();
 mat4.perspective(perspectiveMatrix, 0.785, 1, 1, 1000);
 
 // =======================================
-// FramebufferConfig
-// =======================================
-
-class FramebufferConfig {
-  constructor (context, framebuffer) {
-    this._context = context;
-    this._framebuffer = framebuffer;
-    this._attachments = {};
-  }
-
-  get context() { return this._context; }
-  set context(context) { this._context = context; }
-  get attachments () { return this._attachments; }
-  set attachments (attachments) { this._attachments = attachments; }
-  get framebuffer () { return this.framebuffer; }
-  set framebuffer (fb) { this._framebuffer = fb; }
-
-  selectFramebuffer() {
-    this.context.bindFramebuffer(gl.DRAW_FRAMEBUFFER, this._framebuffer);
-  }
-
-  configAttachments() {
-    //console.log(this.attachments);
-    //console.log(Object.keys(this.attachments));
-    for (var k of Object.keys(this.attachments)) {
-      var attKey = parseInt(k);
-      var att = this.attachments[attKey];
-      console.log(attKey,att);
-      if (att !== undefined) {
-        this.context.framebufferTexture2D(this._context.DRAW_FRAMEBUFFER, k, att.texTarget, att.texture, att.mipmapLevel || 0);
-      } else {
-        console.error("FramebufferConfig: undefined attachment")
-      }
-    }
-  }
-
-  setDrawBuffers(keys) {
-    if (keys !== undefined && keys && !(keys.length == 0)) {
-      this.context.drawBuffers(keys);
-    }
-  }
-
-  checkStatus() {
-    var status = this.context.checkFramebufferStatus(gl.DRAW_FRAMEBUFFER);
-    if (status != gl.FRAMEBUFFER_COMPLETE) {
-      console.error('FramebufferConfig: status - ' + status.toString(16));
-    }
-  }
-
-  config() {
-    this.selectFramebuffer();
-    this.configAttachments();
-    this.checkStatus();
-    this.cleanupConfig();
-  }
-
-  cleanupConfig() {
-    this.context.bindFramebuffer(gl.DRAW_FRAMEBUFFER, null);
-  }
-
-  encode(attachmentKeys = [], encodeBlock) {
-    this.selectFramebuffer();
-    this.setDrawBuffers(attachmentKeys);
-
-    if (encodeBlock === undefined) {
-      console.error("FramebufferConfig: no encode block");
-    } else {
-      encodeBlock();
-    }
-
-    this.cleanupEncode();
-  }
-
-  cleanupEncode() {
-    gl.bindFramebuffer(gl.DRAW_FRAMEBUFFER, null);
-  }
-}
-
-// =======================================
 // RenderPassConfig
 // =======================================
 
@@ -766,10 +669,6 @@ class RenderPassConfig {
     this.context.useProgram(this.program)
   }
 
-  config() {
-    //
-  }
-
   encode(uniforms, options = {}) {
     var ops = Object.assign({}, this.options, options);
 
@@ -812,47 +711,18 @@ class RenderPassConfig {
   }
 }
 
-function makeBlitter () {
-  // TODO: return a object with functions to glue two framebuffers together
-  // - and specifies how they should blit
-  // - it represents the transition b/w fb1.attachment to the input of fb2
-  // - it configures the READ_FRAMEBUFFER & DRAW_FRAMEBUFFER
-}
-
 // =======================================
 // configure framebuffers
 // =======================================
 
-var particleFramebuffer = new FramebufferConfig(gl, gl.createFramebuffer());
-particleFramebuffer.attachments[gl.COLOR_ATTACHMENT0] = {
-  texTarget: gl.TEXTURE_2D,
-  texture: particleAttachment0
-};
-
-var offscreenFramebuffer = new FramebufferConfig(gl, gl.createFramebuffer());
-
-offscreenFramebuffer.attachments[gl.COLOR_ATTACHMENT0] = {
-  texTarget: gl.TEXTURE_2D,
-  texture: attachment0
-};
-offscreenFramebuffer.attachments[gl.COLOR_ATTACHMENT1] = {
-  texTarget: gl.TEXTURE_2D,
-  texture: attachment1
-};
-offscreenFramebuffer.attachments[gl.COLOR_ATTACHMENT2] = {
-  texTarget: gl.TEXTURE_2D,
-  texture: attachment2
-};
-
-offscreenFramebuffer.config();
-
-var onscreenFramebuffer = new FramebufferConfig(gl, null);
-// TODO: set any offscreen color attachments
-onscreenFramebuffer.config();
+var particleFb = gl.createFramebuffer();
+var fieldFb = gl.createFramebuffer();
 
 // =======================================
 // configure renderpasses
 // =======================================
+
+var anyQuad = new Quad();
 
 var renderPassRandoms = new RenderPassConfig(gl, programRandomTexture, {
   encodeUniforms: (context, uniforms, options) => {
