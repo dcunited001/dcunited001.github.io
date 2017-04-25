@@ -40,7 +40,8 @@ uniform usampler2D particleRandoms;
 
 in vec2 v_st;
 in vec3 v_position;
-out uvec4 randomColor;
+
+layout(location = 0) out uvec4 randomColor;
 
 void main() {
   vec2 uv = gl_FragCoord.xy / resolution.xy;
@@ -77,7 +78,8 @@ void main() {
 
   in vec2 v_st;
   in vec3 v_position;
-  out vec4 particleUpdate;
+
+  layout(location = 1) out vec4 particleUpdate;
 
   void main() {
     vec2 uv = gl_FragCoord.xy / resolution.xy;
@@ -90,19 +92,17 @@ void main() {
 </script>
 
 <script type="x-shader/x-vertex" id="shaderFieldVertex">
-
-#define IDX_LOCATION 0
-
 precision highp float;
 precision highp int;
 precision highp sampler2D;
 
 uniform sampler2D particleBasics;
 
-layout(location = IDX_LOCATION) in int a_index;
+layout(location = 0) in int a_index;
 
 void main()
 {
+  // textureSize must return ivec & texelFetch must accept ivec
   ivec2 texSize = textureSize(particleBasics, 0);
 
   ivec2 texel = ivec2(a_index % texSize.x, a_index / texSize.x);
@@ -117,8 +117,6 @@ void main()
 precision highp float;
 precision highp int;
 precision highp sampler2D;
-
-//uniform vec2 resolution;
 
 out vec4 color;
 

@@ -71,9 +71,12 @@
   }
 
   window.createProgram = function (gl, vertexShaderSource, fragmentShaderSource, defines = {}) {
+    var shaderPrefix = "#version 300 es\n";
+    //shaderPrefix += "#extension EXT_color_buffer_float : enable\n"; // not supported in chrome
+
     var program = gl.createProgram();
-    vertexShaderSource = "#version 300 es\n" + expandDefines(defines) + vertexShaderSource;
-    fragmentShaderSource = "#version 300 es\n" + expandDefines(defines) + fragmentShaderSource;
+    vertexShaderSource = shaderPrefix + expandDefines(defines) + vertexShaderSource;
+    fragmentShaderSource = shaderPrefix + expandDefines(defines) + fragmentShaderSource;
 
     var vshader = createShader(gl, vertexShaderSource, gl.VERTEX_SHADER);
     var fshader = createShader(gl, fragmentShaderSource, gl.FRAGMENT_SHADER);
@@ -246,10 +249,10 @@
       context.enableVertexAttribArray(vertexPosIdx);
       context.bindBuffer(context.ARRAY_BUFFER, null);
 
-      var vertextexIdx = 4;
+      var vertexTexIdx = 4;
       context.bindBuffer(context.ARRAY_BUFFER, buffers.tex);
-      context.vertexAttribPointer(vertextexIdx, 2, context.FLOAT, false, 0, 0);
-      context.enableVertexAttribArray(vertextexIdx);
+      context.vertexAttribPointer(vertexTexIdx, 2, context.FLOAT, false, 0, 0);
+      context.enableVertexAttribArray(vertexTexIdx);
       context.bindBuffer(context.ARRAY_BUFFER, null);
 
       context.bindVertexArray(null);
@@ -424,7 +427,7 @@
   var WIN_X = gl.drawingBufferWidth;
   var WIN_Y = gl.drawingBufferHeight;
 
-  var UINT32_MAX = 2 ** 32 - 1;
+  var UINT32_MAX = (2 ** 32) - 1;
 
 // =======================================
 // GLSL Programs
@@ -474,7 +477,7 @@
   function generateUInt32Randoms(h, w, n) {
     var randoms = new Uint32Array(w * h * n);
     for (var i = 0; i < (w * h * n); i++) {
-      randoms[i] = Math.trunc(Math.random() * 255);
+      randoms[i] = Math.trunc(Math.random() * UINT32_MAX);
     }
     return randoms
   }
@@ -492,12 +495,16 @@
 // =======================================
 
   function generateParticleIndices(h, w) {
-    var indices = new Uint32Array(h * w);
+    var indices = new Int32Array(h * w);
     for (var i = 0; i < (h * w); i++) {
       indices[i] = i;
     }
     return indices;
   }
+
+  var PARTICLE_FB_HEIGHT = 100;
+  var PARTICLE_FB_WIDTH = 32;
+  var PARTICLE_COUNT = PARTICLE_FB_HEIGHT*PARTICLE_FB_WIDTH;
 
   var particleIdx = generateParticleIndices(PARTICLE_FB_HEIGHT, PARTICLE_FB_WIDTH);
 
@@ -511,7 +518,7 @@
 
   var particleIdxIndex = 0;
   gl.bindBuffer(gl.ARRAY_BUFFER, particleIdxBuffer);
-  gl.vertexAttribPointer(particleIdxIndex, 1, gl.UNSIGNED_INT, false, 0, 0);
+  gl.vertexAttribPointer(particleIdxIndex, 1, gl.BYTE, false, 0, 0);
   gl.enableVertexAttribArray(particleIdxIndex);
   gl.bindBuffer(gl.ARRAY_BUFFER, null);
 
@@ -526,9 +533,6 @@
 // =======================================
 // Particle Framebuffer: Create Color Attachments
 // =======================================
-
-  var PARTICLE_FB_HEIGHT = 100;
-  var PARTICLE_FB_WIDTH = 32;
 
 // four attributes can be stores per texture (x,y,z,w)
   var particleRandomsAttachments, // stores random seed data (unfortunately integers)
@@ -558,7 +562,7 @@
     var tex = gl.createTexture();
     gl.bindTexture(gl.TEXTURE_2D, tex);
 
-    gl.texStorage2D(gl.TEXTURE_2D, 1, gl.RGBA32F, PARTICLE_FB_HEIGHT, PARTICLE_FB_WIDTH);
+    gl.texStorage2D(gl.TEXTURE_2D, 1, gl.RGBA16F, PARTICLE_FB_HEIGHT, PARTICLE_FB_WIDTH);
 
     gl.texParameteri(gl.TEXTURE_2D, gl.TEXTURE_WRAP_S, gl.CLAMP_TO_EDGE);
     gl.texParameteri(gl.TEXTURE_2D, gl.TEXTURE_WRAP_T, gl.CLAMP_TO_EDGE);
@@ -568,54 +572,54 @@
     return tex;
   });
 
-  var particleIntsAttachments = triplicateResource(() => {
-    gl.activeTexture(gl.TEXTURE0);
-    var tex = gl.createTexture();
-    gl.bindTexture(gl.TEXTURE_2D, tex);
-
-    gl.texStorage2D(gl.TEXTURE_2D, 1, gl.RGBA32UI, PARTICLE_FB_WIDTH, PARTICLE_FB_HEIGHT);
-
-    gl.texParameteri(gl.TEXTURE_2D, gl.TEXTURE_WRAP_S, gl.CLAMP_TO_EDGE);
-    gl.texParameteri(gl.TEXTURE_2D, gl.TEXTURE_WRAP_T, gl.CLAMP_TO_EDGE);
-    gl.texParameteri(gl.TEXTURE_2D, gl.TEXTURE_MIN_FILTER, gl.NEAREST);
-    gl.texParameteri(gl.TEXTURE_2D, gl.TEXTURE_MAG_FILTER, gl.NEAREST);
-
-    return tex;
-  });
+  //var particleIntsAttachments = triplicateResource(() => {
+  //  gl.activeTexture(gl.TEXTURE0);
+  //  var tex = gl.createTexture();
+  //  gl.bindTexture(gl.TEXTURE_2D, tex);
+  //
+  //  gl.texStorage2D(gl.TEXTURE_2D, 1, gl.RGBA32UI, PARTICLE_FB_WIDTH, PARTICLE_FB_HEIGHT);
+  //
+  //  gl.texParameteri(gl.TEXTURE_2D, gl.TEXTURE_WRAP_S, gl.CLAMP_TO_EDGE);
+  //  gl.texParameteri(gl.TEXTURE_2D, gl.TEXTURE_WRAP_T, gl.CLAMP_TO_EDGE);
+  //  gl.texParameteri(gl.TEXTURE_2D, gl.TEXTURE_MIN_FILTER, gl.NEAREST);
+  //  gl.texParameteri(gl.TEXTURE_2D, gl.TEXTURE_MAG_FILTER, gl.NEAREST);
+  //
+  //  return tex;
+  //});
 
 // =======================================
 // Particle Framebuffer: Set initial data for color attachments
 // =======================================
 
-//// initialize random seeds
-//  updateTexture((context, texture) => {
-//
-//    context.texSubImage2D(gl.TEXTURE_2D,
-//      0,
-//      0, // x offset
-//      0, // y offset
-//      PARTICLE_FB_HEIGHT,
-//      PARTICLE_FB_WIDTH,
-//      gl.RGBA32UI,
-//      gl.UNSIGNED_INT,
-//      randomIntData);
-//
-//  })(gl, particleRandomsAttachments, 0);
-//
-//// init particle positions
-//  updateTexture((context, texture) => {
-//
-//    context.texSubImage2D(gl.TEXTURE_2D,
-//      0,
-//      0, // x offset
-//      0, // y offset
-//      PARTICLE_FB_HEIGHT,
-//      PARTICLE_FB_WIDTH,
-//      gl.RGBA32F,
-//      gl.FLOAT,
-//      randomFloatData);
-//
-//  })(gl, particleBasicsAttachments, 0);
+// initialize random seeds
+  updateTexture((context, texture) => {
+
+    context.texSubImage2D(gl.TEXTURE_2D,
+      0,
+      0, // x offset
+      0, // y offset
+      PARTICLE_FB_HEIGHT,
+      PARTICLE_FB_WIDTH,
+      gl.RGBA_INTEGER,
+      gl.UNSIGNED_INT,
+      randomIntData);
+
+  })(gl, particleRandomsAttachments, 0);
+
+// init particle positions
+  updateTexture((context, texture) => {
+
+    context.texSubImage2D(gl.TEXTURE_2D,
+      0,
+      0, // x offset
+      0, // y offset
+      PARTICLE_FB_HEIGHT,
+      PARTICLE_FB_WIDTH,
+      gl.RGBA,
+      gl.FLOAT,
+      randomFloatData);
+
+  })(gl, particleBasicsAttachments, 0);
 
 // TODO: initial values for particle integer data
 //updateTexture((context, texture) => {
@@ -641,7 +645,7 @@
     gl.activeTexture(gl.TEXTURE0);
     var texture = gl.createTexture();
     gl.bindTexture(gl.TEXTURE_2D, texture);
-    gl.texStorage2D(gl.TEXTURE_2D, 1, gl.RGBA32F, WIN_X, WIN_Y);
+    gl.texStorage2D(gl.TEXTURE_2D, 1, gl.RGBA16F, WIN_X, WIN_Y);
 
     // TODO: remove? i just need zeros (IVP isn't a problem...)
     //gl.texSubImage2D(gl.TEXTURE_2D,
@@ -665,7 +669,7 @@
     var texture = gl.createTexture();
 
     gl.bindTexture(gl.TEXTURE_2D, texture);
-    gl.texStorage2D(gl.TEXTURE_2D, 1, gl.RGBA32F, WIN_X, WIN_Y);
+    gl.texStorage2D(gl.TEXTURE_2D, 1, gl.RGBA16F, WIN_X, WIN_Y);
 
     gl.texParameteri(gl.TEXTURE_2D, gl.TEXTURE_WRAP_S, gl.CLAMP_TO_EDGE);
     gl.texParameteri(gl.TEXTURE_2D, gl.TEXTURE_WRAP_T, gl.CLAMP_TO_EDGE);
@@ -798,7 +802,9 @@
     }
 
     cleanupEncode() {
-      this._context.useProgram(null)
+      this._context.bindBuffer(this._context.ARRAY_BUFFER, null);
+      this._context.bindVertexArray(null);
+      this._context.useProgram(null);
     }
   }
 
@@ -818,7 +824,7 @@
   var renderPassRandoms = new RenderPassConfig(gl, programRandomTexture, {
     encodeUniforms: (context, uniforms, options) => {
       context.uniform2fv(renderPassRandoms.uniformLocations.resolution, uniforms.resolution);
-      context.uniform4fv(renderPassRandoms.uniformLocations.randomStepSeed, uniforms.randomStepSeed);
+      context.uniform4uiv(renderPassRandoms.uniformLocations.randomStepSeed, uniforms.randomStepSeed);
       context.uniform1i(renderPassRandoms.uniformLocations.particleRandoms, uniforms.particleRandomsLocation);
 
       context.activeTexture(gl.TEXTURE0);
@@ -878,9 +884,8 @@
       context.bindTexture(gl.TEXTURE_2D, options['particleBasics']);
     },
     encodeDraw: (context, uniforms, options) => {
-      // draw quad
-      context.bindVertexArray(finalQuad.vertexArray);
-      context.drawArrays(context.TRIANGLES, 0, 6);
+      context.bindVertexArray(particleVertexArray);
+      context.drawArrays(context.POINTS, 0, PARTICLE_COUNT);
     }
   });
 
@@ -891,12 +896,12 @@
   finalRenderPass.setUniformLocations();
 
   function makeRandomStepSeed() {
-    return vec4.fromValues(
+    return [
       Math.trunc(Math.random() * UINT32_MAX),
       Math.trunc(Math.random() * UINT32_MAX),
       Math.trunc(Math.random() * UINT32_MAX),
       Math.trunc(Math.random() * UINT32_MAX)
-    );
+    ];
   }
 
   var startTime = Date.now(),
@@ -925,7 +930,7 @@
 
   rp.registerTextures('particleRandoms', particleRandomsAttachments);
   rp.registerTextures('particleBasics', particleBasicsAttachments);
-  rp.registerTextures('particleInts', particleIntsAttachments);
+  //rp.registerTextures('particleInts', particleIntsAttachments);
 
   rp.registerTextures('field', fieldAttachments);
   rp.registerTextures('fieldGradient', fieldGradientAttachments);
@@ -992,8 +997,10 @@
     });
 
     gl.bindFramebuffer(gl.DRAW_FRAMEBUFFER, null);
-    gl.clearColor(0.0, 0.0, 0.0, 1.0);
-    gl.clear(gl.COLOR_BUFFER_BIT);
+    gl.drawBuffers([gl.NONE]);
+
+    //gl.clearColor(0.0, 0.0, 0.0, 1.0);
+    //gl.clear(gl.COLOR_BUFFER_BIT);
 
     var finalUniforms = {
       particleBasicsLocation: 0
