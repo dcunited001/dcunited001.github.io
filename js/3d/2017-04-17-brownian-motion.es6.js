@@ -72,7 +72,7 @@
 
   window.createProgram = function (gl, vertexShaderSource, fragmentShaderSource, defines = {}) {
     var shaderPrefix = "#version 300 es\n";
-    //shaderPrefix += "#extension EXT_color_buffer_float : enable\n"; // not supported in chrome
+    shaderPrefix += "#extension EXT_color_buffer_float : enable\n"; // not supported in chrome
 
     var program = gl.createProgram();
     vertexShaderSource = shaderPrefix + expandDefines(defines) + vertexShaderSource;
@@ -245,13 +245,13 @@
 
       var vertexPosIdx = 0;
       context.bindBuffer(context.ARRAY_BUFFER, buffers.pos);
-      context.vertexAttribPointer(vertexPosIdx, 4, context.FLOAT, false, 0, 0);
+      context.vertexAttribPointer(vertexPosIdx, 4, context.FLOAT, false, 24, 0);
       context.enableVertexAttribArray(vertexPosIdx);
       context.bindBuffer(context.ARRAY_BUFFER, null);
 
       var vertexTexIdx = 4;
       context.bindBuffer(context.ARRAY_BUFFER, buffers.tex);
-      context.vertexAttribPointer(vertexTexIdx, 2, context.FLOAT, false, 0, 0);
+      context.vertexAttribPointer(vertexTexIdx, 2, context.FLOAT, false, 24, 16);
       context.enableVertexAttribArray(vertexTexIdx);
       context.bindBuffer(context.ARRAY_BUFFER, null);
 
@@ -418,6 +418,8 @@
 // =======================================
 
   var gl = canvas.getContext('webgl2', {antialias: true});
+  var colorBufferFloatExt = gl.getExtension('EXT_color_buffer_float');
+
   var isWebGL2 = !!gl;
   if (!isWebGL2) {
     document.getElementById('info').innerHTML = 'WebGL 2 is not available.  See <a href="https://www.khronos.org/webgl/wiki/Getting_a_WebGL_Implementation">How to get a WebGL 2 implementation</a>';
@@ -518,7 +520,7 @@
 
   var particleIdxIndex = 0;
   gl.bindBuffer(gl.ARRAY_BUFFER, particleIdxBuffer);
-  gl.vertexAttribPointer(particleIdxIndex, 1, gl.BYTE, false, 0, 0);
+  gl.vertexAttribIPointer(particleIdxIndex, 1, gl.UNSIGNED_INT, false, 4, 0);
   gl.enableVertexAttribArray(particleIdxIndex);
   gl.bindBuffer(gl.ARRAY_BUFFER, null);
 
@@ -547,7 +549,7 @@
     var tex = gl.createTexture();
     gl.bindTexture(gl.TEXTURE_2D, tex);
 
-    gl.texStorage2D(gl.TEXTURE_2D, 1, gl.RGBA32UI, PARTICLE_FB_WIDTH, PARTICLE_FB_HEIGHT);
+    gl.texStorage2D(gl.TEXTURE_2D, 1, gl.RGBA32UI, PARTICLE_FB_HEIGHT, PARTICLE_FB_WIDTH);
 
     gl.texParameteri(gl.TEXTURE_2D, gl.TEXTURE_WRAP_S, gl.CLAMP_TO_EDGE);
     gl.texParameteri(gl.TEXTURE_2D, gl.TEXTURE_WRAP_T, gl.CLAMP_TO_EDGE);
@@ -562,7 +564,7 @@
     var tex = gl.createTexture();
     gl.bindTexture(gl.TEXTURE_2D, tex);
 
-    gl.texStorage2D(gl.TEXTURE_2D, 1, gl.RGBA16F, PARTICLE_FB_HEIGHT, PARTICLE_FB_WIDTH);
+    gl.texStorage2D(gl.TEXTURE_2D, 1, gl.RGBA32F, PARTICLE_FB_HEIGHT, PARTICLE_FB_WIDTH);
 
     gl.texParameteri(gl.TEXTURE_2D, gl.TEXTURE_WRAP_S, gl.CLAMP_TO_EDGE);
     gl.texParameteri(gl.TEXTURE_2D, gl.TEXTURE_WRAP_T, gl.CLAMP_TO_EDGE);
@@ -645,7 +647,7 @@
     gl.activeTexture(gl.TEXTURE0);
     var texture = gl.createTexture();
     gl.bindTexture(gl.TEXTURE_2D, texture);
-    gl.texStorage2D(gl.TEXTURE_2D, 1, gl.RGBA16F, WIN_X, WIN_Y);
+    gl.texStorage2D(gl.TEXTURE_2D, 1, gl.RGBA32F, WIN_X, WIN_Y);
 
     // TODO: remove? i just need zeros (IVP isn't a problem...)
     //gl.texSubImage2D(gl.TEXTURE_2D,
@@ -669,7 +671,7 @@
     var texture = gl.createTexture();
 
     gl.bindTexture(gl.TEXTURE_2D, texture);
-    gl.texStorage2D(gl.TEXTURE_2D, 1, gl.RGBA16F, WIN_X, WIN_Y);
+    gl.texStorage2D(gl.TEXTURE_2D, 1, gl.RGBA32F, WIN_X, WIN_Y);
 
     gl.texParameteri(gl.TEXTURE_2D, gl.TEXTURE_WRAP_S, gl.CLAMP_TO_EDGE);
     gl.texParameteri(gl.TEXTURE_2D, gl.TEXTURE_WRAP_T, gl.CLAMP_TO_EDGE);
@@ -939,10 +941,8 @@
     var status = gl.checkFramebufferStatus(gl.DRAW_FRAMEBUFFER);
     if (status != gl.FRAMEBUFFER_COMPLETE) {
       console.error('fb status: ' + status.toString(10));
-      return;
     }
   }
-
 
   function render() {
     framecount++;
@@ -953,8 +953,8 @@
     gl.framebufferTexture2D(gl.DRAW_FRAMEBUFFER, gl.COLOR_ATTACHMENT0, gl.TEXTURE_2D, rp.getNext('particleRandoms'), 0);
     gl.framebufferTexture2D(gl.DRAW_FRAMEBUFFER, gl.COLOR_ATTACHMENT1, gl.TEXTURE_2D, rp.getNext('particleBasics'), 0);
 
-    console.log(rp.getNext('particleRandoms'));
-    console.log(rp.getNext('particleBasics'));
+    //console.log(rp.getNext('particleRandoms'));
+    //console.log(rp.getNext('particleBasics'));
 
     checkFbStatus();
 
