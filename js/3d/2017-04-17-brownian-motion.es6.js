@@ -520,7 +520,7 @@
 
   var particleIdxIndex = 0;
   gl.bindBuffer(gl.ARRAY_BUFFER, particleIdxBuffer);
-  gl.vertexAttribIPointer(particleIdxIndex, 1, gl.UNSIGNED_INT, false, 4, 0);
+  gl.vertexAttribIPointer(particleIdxIndex, 1, gl.INT, false, 4, 0);
   gl.enableVertexAttribArray(particleIdxIndex);
   gl.bindBuffer(gl.ARRAY_BUFFER, null);
 
