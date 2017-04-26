@@ -13,11 +13,8 @@ name: "David Conner"
 ### Requires ES6 & WebGL2
 
 <script type="x-shader/x-vertex" id="vertexPassthrough">
-#define POSITION_LOCATION 0
-#define TEXCOORD_LOCATION 4
-
-layout(location = POSITION_LOCATION) in vec3 a_position;
-layout(location = TEXCOORD_LOCATION) in vec2 a_texcoord;
+layout(location = 0) in vec3 a_position;
+layout(location = 1) in vec2 a_texcoord;
 
 out vec2 v_st;
 out vec3 v_position;
@@ -82,11 +79,18 @@ void main() {
   layout(location = 1) out vec4 particleUpdate;
 
   void main() {
+    float globalSpeed = 32.0;
+    float maxUint = 4294967295.0;
+
     vec2 uv = gl_FragCoord.xy / resolution.xy;
-    uvec4 pRandoms = texture(particleRandoms, uv);
+    vec4 pRandoms = fract(uintBitsToFloat(texture(particleRandoms, uv)));
     vec4 pBasics = texture(particleBasics, uv);
 
     particleUpdate = vec4(0.0,0.0,0.0,1.0);
+    particleUpdate.x = pBasics.x + (globalSpeed * pRandoms.x * deltaTime.x);
+    particleUpdate.y = pBasics.y + (globalSpeed * pRandoms.y * deltaTime.x);
+
+    //particleUpdate.xy = pRandoms.xy;
   }
 
 </script>
@@ -100,6 +104,9 @@ uniform sampler2D particleBasics;
 
 layout(location = 0) in int a_index;
 
+out float v_pointSize;
+out vec4 v_position;
+
 void main()
 {
   // textureSize must return ivec & texelFetch must accept ivec
@@ -108,8 +115,10 @@ void main()
   ivec2 texel = ivec2(a_index % texSize.x, a_index / texSize.x);
   vec4 pBasics = texelFetch(particleBasics, texel, 0);
 
-  gl_Position = vec4(pBasics.x, pBasics.y, 0.0, 1.0);
-  gl_PointSize = 10.0;
+  v_position = vec4(pBasics.x, pBasics.y, 0.0, 1.0);
+  v_pointSize = 10.0;
+  gl_Position = v_position;
+  gl_PointSize = v_pointSize;
 }
 </script>
 
@@ -118,11 +127,19 @@ precision highp float;
 precision highp int;
 precision highp sampler2D;
 
+in vec4 v_position;
+in float v_pointSize;
+
 out vec4 color;
 
 void main()
 {
-  color = vec4(gl_FragCoord.x, gl_FragCoord.y, 0.3, 0.2);
+  float distToCenter = distance(gl_PointCoord.xy, vec2(0.5,0.5));
+  float fading = 1.0 - 2.0 * distToCenter;
+
+  if (fading < 0.0) { fading = 0.0; }
+
+  color = vec4(1.0, 0.0, 0.0, fading);
 }
 
 </script>

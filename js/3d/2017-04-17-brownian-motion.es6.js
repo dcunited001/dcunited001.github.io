@@ -245,13 +245,13 @@
 
       var vertexPosIdx = 0;
       context.bindBuffer(context.ARRAY_BUFFER, buffers.pos);
-      context.vertexAttribPointer(vertexPosIdx, 4, context.FLOAT, false, 24, 0);
+      context.vertexAttribPointer(vertexPosIdx, 4, context.FLOAT, false, 0, 0);
       context.enableVertexAttribArray(vertexPosIdx);
       context.bindBuffer(context.ARRAY_BUFFER, null);
 
-      var vertexTexIdx = 4;
+      var vertexTexIdx = 1;
       context.bindBuffer(context.ARRAY_BUFFER, buffers.tex);
-      context.vertexAttribPointer(vertexTexIdx, 2, context.FLOAT, false, 24, 16);
+      context.vertexAttribPointer(vertexTexIdx, 2, context.FLOAT, false, 0, 0);
       context.enableVertexAttribArray(vertexTexIdx);
       context.bindBuffer(context.ARRAY_BUFFER, null);
 
@@ -459,7 +459,7 @@
   gl.depthFunc(gl.LESS);
 
   gl.enable(gl.BLEND);
-  gl.blendFunc(gl.SRC_ALPHA, gl.ONE);
+  gl.blendFunc(gl.SRC_ALPHA, gl.ONE_MINUS_SRC_ALPHA);
 
 // =======================================
 // particles
@@ -509,6 +509,7 @@
   var PARTICLE_COUNT = PARTICLE_FB_HEIGHT*PARTICLE_FB_WIDTH;
 
   var particleIdx = generateParticleIndices(PARTICLE_FB_HEIGHT, PARTICLE_FB_WIDTH);
+  console.log(particleIdx);
 
   var particleIdxBuffer = gl.createBuffer();
   gl.bindBuffer(gl.ARRAY_BUFFER, particleIdxBuffer);
@@ -520,7 +521,7 @@
 
   var particleIdxIndex = 0;
   gl.bindBuffer(gl.ARRAY_BUFFER, particleIdxBuffer);
-  gl.vertexAttribIPointer(particleIdxIndex, 1, gl.INT, false, 4, 0);
+  gl.vertexAttribIPointer(particleIdxIndex, 1, gl.INT, false, 0, 0);
   gl.enableVertexAttribArray(particleIdxIndex);
   gl.bindBuffer(gl.ARRAY_BUFFER, null);
 
@@ -953,9 +954,6 @@
     gl.framebufferTexture2D(gl.DRAW_FRAMEBUFFER, gl.COLOR_ATTACHMENT0, gl.TEXTURE_2D, rp.getNext('particleRandoms'), 0);
     gl.framebufferTexture2D(gl.DRAW_FRAMEBUFFER, gl.COLOR_ATTACHMENT1, gl.TEXTURE_2D, rp.getNext('particleBasics'), 0);
 
-    //console.log(rp.getNext('particleRandoms'));
-    //console.log(rp.getNext('particleBasics'));
-
     checkFbStatus();
 
     var particleResolution = vec2.fromValues(PARTICLE_FB_HEIGHT, PARTICLE_FB_WIDTH);
@@ -997,7 +995,7 @@
     });
 
     gl.bindFramebuffer(gl.DRAW_FRAMEBUFFER, null);
-    gl.drawBuffers([gl.NONE]);
+    //gl.drawBuffers([gl.NONE]);
 
     //gl.clearColor(0.0, 0.0, 0.0, 1.0);
     //gl.clear(gl.COLOR_BUFFER_BIT);
