@@ -450,7 +450,7 @@
     fsFieldPoints = document.getElementById('fsFieldPoints').textContent,
     //vsField = document.getElementById('vsField').textContent,
     fsField = document.getElementById('fsField').textContent,
-    shaderTest = document.getElementById('shaderTest').textContent;
+    fsTest = document.getElementById('fsTest').textContent;
 
   var shaderDefines = {};
   var programRandomTexture = createProgram(gl, vsPass, shaderParticleRandoms);
@@ -1059,7 +1059,9 @@
     var rpFieldPointsUniforms = {
       resolution: renderResolution,
       particleBasicsLocation: 0,
-      ballSize: 12
+      ballSize: 20,
+      repelMag: 10,
+      attractMag: 10
     };
 
     rpFieldPoints.encode(rpFieldPointsUniforms, {

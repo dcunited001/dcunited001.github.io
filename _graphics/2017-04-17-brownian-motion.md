@@ -92,6 +92,7 @@ uniform vec2 resolution;
 
 layout(location = 0) in int a_index;
 
+out int v_particleId;
 out float v_pointSize;
 out vec4 v_position;
 
@@ -105,6 +106,7 @@ void main()
 
   v_position = vec4(pBasics.x, pBasics.y, 0.0, 1.0);
   v_pointSize = 1.0;
+
   gl_Position = v_position;
   gl_PointSize = v_pointSize;
 }
@@ -113,6 +115,7 @@ void main()
 <script type="x-shader/x-fragment" id="fsFieldPoints">
 uniform vec2 resolution;
 
+in int v_particleId;
 in vec4 v_position;
 in float v_pointSize;
 
@@ -120,32 +123,67 @@ out vec4 color;
 
 void main()
 {
-  float distToCenter = distance(gl_PointCoord.xy, vec2(0.5,0.5));
-  float fading = 1.0 - 2.0 * distToCenter;
-
-  if (fading < 0.0) { fading = 0.0; }
-
-  //color = vec4(fading, 0.0, 0.0, 1.0);
-  color = vec4(1.0, 0.0, 0.0, 1.0);
+  color = vec4(intBitsToFloat(v_particleId), 0.0, 0.0, 1.0);
 }
 
 </script>
 
-<script type="x-shader/x-fragment" id="shaderTest">
-precision highp float;
-precision highp int;
+<script type="x-shader/x-fragment" id="fsField">
+uniform vec2 resolution;
+uniform int ballSize;
+uniform float repelMag;
+uniform float attractMag;
 
-in vec2 v_st;
-in vec3 v_position;
+uniform sampler2D fieldPoints;
+uniform usampler2D particleBasics;
+
 out vec4 color;
 
-void main()
-{
-    vec3 fdx = dFdx(v_position);
-    vec3 fdy = dFdy(v_position);
-    color = vec4(vec2(1.0, 1.0) - v_st, fract(fdx.x), 1.0);
-    //color = vec4(v_st,0.5,1.0);
-    //color = mix(color, vec4(N, 1.0), 0.5);
+void main() {
+  vec2 uv = gl_FragCoord.xy / resolution.xy;
+
+  float attract = 0.0;
+  float repel = 0.0;
+
+  int ballSizeOffset = - ballSize / 2;
+
+  ivec2 pBasicsSize = textureSize(particleBasics, 0);
+
+  for (int i = ballSizeOffset; i < ballSizeOffset + ballSize; i++) {
+    for (int j = ballSizeOffset; j < ballSizeOffset + ballSize; j++) {
+      vec2 texelCoords = mod(gl_FragCoord.xy + vec2(float(i), float(j)), resolution.xy) / resolution.xy;
+      vec4 point = texture(fieldPoints, texelCoords);
+
+      // TODO: verify that binary representation of point.x has not been clamped
+      int pBasicIdx = floatBitsToInt(point.x);
+
+      ivec2 pBasicTexel = ivec2(pBasicIdx % pBasicsSize.x, pBasicIdx / pBasicsSize.x);
+      vec4 pBasic = texelFetch(particleBasics, pBasicTexel, 0);
+
+      float d = distance(pBasic.xy, texelCoords) + 0.0001;
+
+      float rForce = repelMag / d^2;
+      float aForce = attactMag / d;
+
+      // TODO: calculate aForce, given the directional component of the particle
+
+      repel += rForce;
+      attact += aForce;
+    }
+  }
+
+  color = vec4(attract, repel, 0.5, 1.0);
+}
+</script>
+
+<script type="x-shader/x-fragment" id="fsTest">
+uniform sampler2D field;
+uniform sampler2D fieldPoints;
+
+out vec4 color;
+
+void main() {
+
 }
 </script>
 
