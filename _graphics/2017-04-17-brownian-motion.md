@@ -134,8 +134,8 @@ uniform int ballSize;
 uniform float repelMag;
 uniform float attractMag;
 
-uniform sampler2D fieldPoints;
 uniform usampler2D particleBasics;
+uniform sampler2D fieldPoints;
 
 out vec4 color;
 
@@ -172,18 +172,21 @@ void main() {
     }
   }
 
-  color = vec4(attract, repel, 0.5, 1.0);
+  color = vec4(attract, repel, 0.0, 1.0);
 }
 </script>
 
 <script type="x-shader/x-fragment" id="fsTest">
-uniform sampler2D field;
 uniform sampler2D fieldPoints;
+uniform sampler2D field;
 
 out vec4 color;
 
 void main() {
+  vec4 pointColor = texture(fieldPoints, gl_fragCoord.xy);
+  vec4 fieldColor = texture(field, gl_fragCoord.xy);
 
+  color = vec4(fieldColor.xy, pointColor.w, 1.0);
 }
 </script>
 
