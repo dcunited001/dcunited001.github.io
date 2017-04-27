@@ -74,9 +74,16 @@
     var shaderPrefix = "#version 300 es\n";
     shaderPrefix += "#extension EXT_color_buffer_float : enable\n"; // not supported in chrome
 
+    var precisionPrefix = `
+      precision highp float;
+      precision highp int;
+      precision highp sampler2D;
+      precision highp usampler2D;
+      `;
+
     var program = gl.createProgram();
-    vertexShaderSource = shaderPrefix + expandDefines(defines) + vertexShaderSource;
-    fragmentShaderSource = shaderPrefix + expandDefines(defines) + fragmentShaderSource;
+    vertexShaderSource = shaderPrefix + expandDefines(defines) + precisionPrefix + vertexShaderSource;
+    fragmentShaderSource = shaderPrefix + expandDefines(defines) + precisionPrefix + fragmentShaderSource;
 
     var vshader = createShader(gl, vertexShaderSource, gl.VERTEX_SHADER);
     var fshader = createShader(gl, fragmentShaderSource, gl.FRAGMENT_SHADER);
@@ -436,20 +443,23 @@
 // =======================================
 
 // -- initialize glsl programs
-  var shaderVertexPassthrough = document.getElementById('vertexPassthrough').textContent,
+  var vsPass = document.getElementById('vsPass').textContent,
     shaderParticleRandoms = document.getElementById('shaderParticleRandoms').textContent,
     shaderParticleUpdate = document.getElementById('shaderParticleUpdate').textContent,
-    shaderFieldVertex = document.getElementById('shaderFieldVertex').textContent,
-    shaderFieldFragment = document.getElementById('shaderFieldFragment').textContent,
+    vsFieldPoints = document.getElementById('vsFieldPoints').textContent,
+    fsFieldPoints = document.getElementById('fsFieldPoints').textContent,
+    //vsField = document.getElementById('vsField').textContent,
+    fsField = document.getElementById('fsField').textContent,
     shaderTest = document.getElementById('shaderTest').textContent;
 
   var shaderDefines = {};
-  var programRandomTexture = createProgram(gl, shaderVertexPassthrough, shaderParticleRandoms);
-  var programParticleGradient = createProgram(gl, shaderVertexPassthrough, shaderTest);
-  var programParticleUpdate = createProgram(gl, shaderVertexPassthrough, shaderParticleUpdate);
+  var programRandomTexture = createProgram(gl, vsPass, shaderParticleRandoms);
+  var programParticleGradient = createProgram(gl, vsPass, shaderTest);
+  var programParticleUpdate = createProgram(gl, vsPass, shaderParticleUpdate);
+  var programFieldPoints = createProgram(gl, vsFieldPoints, fsFieldPoints);
+  var programField = createProgram(gl, vsPass, fsField);
+  // TODO: programFieldGradient (may need another size of texture)
   var programFinal = createProgram(gl, shaderFieldVertex, shaderFieldFragment);
-
-//var programTest = createProgram(gl, shaderVertexPassthrough, shaderTest);
 
 // =======================================
 // GLSL options
@@ -471,7 +481,7 @@
   function generateFloat32Randoms(h, w, n) {
     var randoms = new Float32Array(w * h * n);
     for (var i = 0; i < (w * h * n); i++) {
-      randoms[i] = Math.random();
+      randoms[i] = Math.random() - 0.5;
     }
     return randoms
   }
@@ -643,6 +653,17 @@
 
   var fieldAttachments, // stores a shared field based on rendered & current particle positions
     fieldGradientAttachments; // stores data about gradients in the fields
+
+  var fieldPointsAttachments = triplicateResource((f) => {
+    gl.activeTexture(gl.TEXTURE0);
+    var texture = gl.createTexture();
+    gl.bindTexture(gl.TEXTURE_2D, texture);
+    gl.texStorage2D(gl.TEXTURE_2D, 1, gl.RGBA32F, WIN_X, WIN_Y);
+    gl.texParameteri(gl.TEXTURE_2D, gl.TEXTURE_WRAP_S, gl.CLAMP_TO_EDGE);
+    gl.texParameteri(gl.TEXTURE_2D, gl.TEXTURE_WRAP_T, gl.CLAMP_TO_EDGE);
+    gl.texParameteri(gl.TEXTURE_2D, gl.TEXTURE_MIN_FILTER, gl.LINEAR);
+    gl.texParameteri(gl.TEXTURE_2D, gl.TEXTURE_MAG_FILTER, gl.LINEAR);
+  });
 
   var fieldAttachments = triplicateResource((f) => {
     gl.activeTexture(gl.TEXTURE0);
@@ -874,6 +895,32 @@
 
   renderPassParticles.setUniformLocations();
 
+  var rpFieldPoints = new RenderPassConfig(gl, programFieldPoints, {
+    beforeEncode: (context, uniforms, options) => {
+      context.clearColor(0.0, 0.0, 0.0, 1.0);
+      context.clear(context.COLOR_BUFFER_BIT | context.DEPTH_BUFFER_BIT);
+    },
+    encodeUniforms: (context, uniforms, options) => {
+      context.uniform1i(rpFieldPoints.particleBasics, uniforms.particleBasicsLocation);
+      context.uniform2fv(rpFieldPoints.resolution, uniforms.resolution);
+      context.uniform1i(rpFieldPoints.ballSize, uniforms.ballSize);
+
+      context.activeTexture(gl.TEXTURE0);
+      context.bindTexture(gl.TEXTURE_2D, options['particleBasics']);
+    },
+    encodeDraw: (context, uniforms, options) => {
+      context.drawArrays(context.POINTS, i, PARTICLE_COUNT);
+    }
+  });
+
+  rpFieldPoints.initUniformLocations([
+    'resolution',
+    'ballSize',
+    'particleBasics'
+  ]);
+
+  rpFieldPoints.setUniformLocations();
+
 // TODO: change to programRenderFinal
   var finalRenderPass = new RenderPassConfig(gl, programFinal, {
     beforeEncode: (context, uniforms, options) => {
@@ -888,12 +935,17 @@
     },
     encodeDraw: (context, uniforms, options) => {
       context.bindVertexArray(particleVertexArray);
-      context.drawArrays(context.POINTS, 0, PARTICLE_COUNT);
+
+      var batchCount = 1;
+      for (var i = 0; i < PARTICLE_COUNT; i = i + batchCount) {
+        context.drawArrays(context.POINTS, i, batchCount);
+      }
     }
   });
 
   finalRenderPass.initUniformLocations([
-    'resolution'
+    'resolution',
+    'fieldPoints'
   ]);
 
   finalRenderPass.setUniformLocations();
@@ -950,6 +1002,10 @@
     updateTime();
     deltaT = updateDeltaT(deltaT, lastFrameTime);
 
+    // =======================================
+    // particle frame buffer
+    // =======================================
+
     gl.bindFramebuffer(gl.DRAW_FRAMEBUFFER, particleFb);
     gl.framebufferTexture2D(gl.DRAW_FRAMEBUFFER, gl.COLOR_ATTACHMENT0, gl.TEXTURE_2D, rp.getNext('particleRandoms'), 0);
     gl.framebufferTexture2D(gl.DRAW_FRAMEBUFFER, gl.COLOR_ATTACHMENT1, gl.TEXTURE_2D, rp.getNext('particleBasics'), 0);
@@ -994,18 +1050,36 @@
       particleBasics: rp.getCurrent('particleBasics')
     });
 
-    gl.bindFramebuffer(gl.DRAW_FRAMEBUFFER, null);
-    //gl.drawBuffers([gl.NONE]);
+    // =======================================
+    // field frame buffer
+    // =======================================
 
-    //gl.clearColor(0.0, 0.0, 0.0, 1.0);
-    //gl.clear(gl.COLOR_BUFFER_BIT);
+    // -- pass 3: render points of particles onto textures
+
+    var rpFieldPointsUniforms = {
+      resolution: renderResolution,
+      particleBasicsLocation: 0,
+      ballSize: 12
+    };
+
+    rpFieldPoints.encode(rpFieldPointsUniforms, {
+      particleBasics: rp.getNext('particleBasics')
+    });
+
+    // -- pass 4: render the field,
+
+    // - for each point on the texture, aggregate contributions from surrounding pixels
+
+    gl.bindFramebuffer(gl.DRAW_FRAMEBUFFER, null);
+    gl.clearColor(0.0, 0.0, 0.0, 1.0);
+    gl.clear(gl.COLOR_BUFFER_BIT);
 
     var finalUniforms = {
-      particleBasicsLocation: 0
+      fieldPointsLocation: 0
     };
 
     finalRenderPass.encode(finalUniforms, {
-      particleBasics: rp.getNext('particleBasics')
+      fieldPoints: rp.getNext('fieldPoints')
     });
 
     rp.increment();
