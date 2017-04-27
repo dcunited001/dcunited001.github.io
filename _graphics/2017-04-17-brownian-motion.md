@@ -12,7 +12,7 @@ name: "David Conner"
 
 ### Requires ES6 & WebGL2
 
-<script type="x-shader/x-vertex" id="vertexPassthrough">
+<script type="x-shader/x-vertex" id="vsPass">
 layout(location = 0) in vec3 a_position;
 layout(location = 1) in vec2 a_texcoord;
 
@@ -27,10 +27,6 @@ void main() {
 </script>
 
 <script type="x-shader/x-fragment" id="shaderParticleRandoms">
-precision highp float;
-precision highp int;
-precision highp usampler2D;
-
 uniform vec2 resolution;
 uniform uvec4 randomStepSeed;
 uniform usampler2D particleRandoms;
@@ -63,11 +59,6 @@ void main() {
 </script>
 
 <script type="x-shader/x-fragment" id="shaderParticleUpdate">
-  precision highp float;
-  precision highp int;
-  precision highp usampler2D;
-  precision highp sampler2D;
-
   uniform vec2 resolution;
   uniform vec4 deltaTime;
   uniform usampler2D particleRandoms;
@@ -95,12 +86,9 @@ void main() {
 
 </script>
 
-<script type="x-shader/x-vertex" id="shaderFieldVertex">
-precision highp float;
-precision highp int;
-precision highp sampler2D;
-
+<script type="x-shader/x-vertex" id="vsFieldPoints">
 uniform sampler2D particleBasics;
+uniform vec2 resolution;
 
 layout(location = 0) in int a_index;
 
@@ -116,16 +104,14 @@ void main()
   vec4 pBasics = texelFetch(particleBasics, texel, 0);
 
   v_position = vec4(pBasics.x, pBasics.y, 0.0, 1.0);
-  v_pointSize = 10.0;
+  v_pointSize = 1.0;
   gl_Position = v_position;
   gl_PointSize = v_pointSize;
 }
 </script>
 
-<script type="x-shader/x-fragment" id="shaderFieldFragment">
-precision highp float;
-precision highp int;
-precision highp sampler2D;
+<script type="x-shader/x-fragment" id="fsFieldPoints">
+uniform vec2 resolution;
 
 in vec4 v_position;
 in float v_pointSize;
@@ -139,7 +125,8 @@ void main()
 
   if (fading < 0.0) { fading = 0.0; }
 
-  color = vec4(1.0, 0.0, 0.0, fading);
+  //color = vec4(fading, 0.0, 0.0, 1.0);
+  color = vec4(1.0, 0.0, 0.0, 1.0);
 }
 
 </script>
