@@ -519,7 +519,6 @@
   var PARTICLE_COUNT = PARTICLE_FB_HEIGHT*PARTICLE_FB_WIDTH;
 
   var particleIdx = generateParticleIndices(PARTICLE_FB_HEIGHT, PARTICLE_FB_WIDTH);
-  console.log(particleIdx);
 
   var particleIdxBuffer = gl.createBuffer();
   gl.bindBuffer(gl.ARRAY_BUFFER, particleIdxBuffer);
@@ -555,7 +554,7 @@
   var randomIntData = generateUInt32Randoms(PARTICLE_FB_HEIGHT, PARTICLE_FB_WIDTH, 4);
   var randomFloatData = generateFloat32Randoms(PARTICLE_FB_HEIGHT, PARTICLE_FB_WIDTH, 4);
 
-  var particleRandomsAttachments = triplicateResource((f) => {
+  particleRandomsAttachments = triplicateResource((f) => {
     gl.activeTexture(gl.TEXTURE0);
     var tex = gl.createTexture();
     gl.bindTexture(gl.TEXTURE_2D, tex);
@@ -570,7 +569,7 @@
     return tex;
   });
 
-  var particleBasicsAttachments = triplicateResource(() => {
+  particleBasicsAttachments = triplicateResource(() => {
     gl.activeTexture(gl.TEXTURE0);
     var tex = gl.createTexture();
     gl.bindTexture(gl.TEXTURE_2D, tex);
@@ -623,54 +622,65 @@
 // Field Framebuffer: Color Attachments
 // =======================================
 
-  var fieldAttachments, // stores a shared field based on rendered & current particle positions
+  var fieldPointsAttachments, // stores the id's of rendered points (up to one point per pixel, ...)
+    repelFieldAttachments, // stores a shared field based on rendered & current particle positions
+    attractFieldAttachments,
     fieldGradientAttachments; // stores data about gradients in the fields
 
-  var fieldPointsAttachments = triplicateResource((f) => {
+  fieldPointsAttachments = triplicateResource((f) => {
     gl.activeTexture(gl.TEXTURE0);
-    var texture = gl.createTexture();
-    gl.bindTexture(gl.TEXTURE_2D, texture);
+    var tex = gl.createTexture();
+    gl.bindTexture(gl.TEXTURE_2D, tex);
     gl.texStorage2D(gl.TEXTURE_2D, 1, gl.RGBA32F, WIN_X, WIN_Y);
     gl.texParameteri(gl.TEXTURE_2D, gl.TEXTURE_WRAP_S, gl.CLAMP_TO_EDGE);
     gl.texParameteri(gl.TEXTURE_2D, gl.TEXTURE_WRAP_T, gl.CLAMP_TO_EDGE);
-    gl.texParameteri(gl.TEXTURE_2D, gl.TEXTURE_MIN_FILTER, gl.LINEAR);
-    gl.texParameteri(gl.TEXTURE_2D, gl.TEXTURE_MAG_FILTER, gl.LINEAR);
+    gl.texParameteri(gl.TEXTURE_2D, gl.TEXTURE_MIN_FILTER, gl.NEAREST);
+    gl.texParameteri(gl.TEXTURE_2D, gl.TEXTURE_MAG_FILTER, gl.NEAREST);
+
+    return tex;
   });
 
-  var fieldAttachments = triplicateResource((f) => {
+  repelFieldAttachments = triplicateResource((f) => {
     gl.activeTexture(gl.TEXTURE0);
-    var texture = gl.createTexture();
-    gl.bindTexture(gl.TEXTURE_2D, texture);
+    var tex = gl.createTexture();
+    gl.bindTexture(gl.TEXTURE_2D, tex);
     gl.texStorage2D(gl.TEXTURE_2D, 1, gl.RGBA32F, WIN_X, WIN_Y);
-
-    // TODO: remove? i just need zeros (IVP isn't a problem...)
-    //gl.texSubImage2D(gl.TEXTURE_2D,
-    //  0,
-    //  0,
-    //  0,
-    //  WIN_X,
-    //  WIN_Y,
-    //  gl.RGBA32F,
-    //  gl.FLOAT,
-    //  null);
 
     gl.texParameteri(gl.TEXTURE_2D, gl.TEXTURE_WRAP_S, gl.CLAMP_TO_EDGE);
     gl.texParameteri(gl.TEXTURE_2D, gl.TEXTURE_WRAP_T, gl.CLAMP_TO_EDGE);
     gl.texParameteri(gl.TEXTURE_2D, gl.TEXTURE_MIN_FILTER, gl.LINEAR);
     gl.texParameteri(gl.TEXTURE_2D, gl.TEXTURE_MAG_FILTER, gl.LINEAR);
+
+    return tex;
   });
 
-  var fieldGradientAttachments = triplicateResource((f) => {
+  attractFieldAttachments = triplicateResource((f) => {
     gl.activeTexture(gl.TEXTURE0);
-    var texture = gl.createTexture();
-
-    gl.bindTexture(gl.TEXTURE_2D, texture);
+    var tex = gl.createTexture();
+    gl.bindTexture(gl.TEXTURE_2D, tex);
     gl.texStorage2D(gl.TEXTURE_2D, 1, gl.RGBA32F, WIN_X, WIN_Y);
 
     gl.texParameteri(gl.TEXTURE_2D, gl.TEXTURE_WRAP_S, gl.CLAMP_TO_EDGE);
     gl.texParameteri(gl.TEXTURE_2D, gl.TEXTURE_WRAP_T, gl.CLAMP_TO_EDGE);
     gl.texParameteri(gl.TEXTURE_2D, gl.TEXTURE_MIN_FILTER, gl.LINEAR);
     gl.texParameteri(gl.TEXTURE_2D, gl.TEXTURE_MAG_FILTER, gl.LINEAR);
+
+    return tex;
+  });
+
+  fieldGradientAttachments = triplicateResource((f) => {
+    gl.activeTexture(gl.TEXTURE0);
+    var tex = gl.createTexture();
+
+    gl.bindTexture(gl.TEXTURE_2D, tex);
+    gl.texStorage2D(gl.TEXTURE_2D, 1, gl.RGBA32F, WIN_X, WIN_Y);
+
+    gl.texParameteri(gl.TEXTURE_2D, gl.TEXTURE_WRAP_S, gl.CLAMP_TO_EDGE);
+    gl.texParameteri(gl.TEXTURE_2D, gl.TEXTURE_WRAP_T, gl.CLAMP_TO_EDGE);
+    gl.texParameteri(gl.TEXTURE_2D, gl.TEXTURE_MIN_FILTER, gl.LINEAR);
+    gl.texParameteri(gl.TEXTURE_2D, gl.TEXTURE_MAG_FILTER, gl.LINEAR);
+
+    return tex;
   });
 
 // =======================================
@@ -881,13 +891,12 @@
     },
     encodeDraw: (context, uniforms, options) => {
       context.bindVertexArray(particleVertexArray);
-      context.drawArrays(context.POINTS, i, PARTICLE_COUNT);
+      context.drawArrays(context.POINTS, 0, PARTICLE_COUNT);
     }
   });
 
   rpFieldPoints.initUniformLocations([
     'resolution',
-    'ballSize',
     'particleBasics'
   ]);
 
@@ -918,6 +927,17 @@
     }
   });
 
+  rpField.initUniformLocations([
+    'resolution',
+    'ballSize',
+    'repelMag',
+    'attractMag',
+    'particleBasics',
+    'fieldPoints'
+  ]);
+
+  rpField.setUniformLocations();
+
 // TODO: change to programRenderFinal
   var finalRenderPass = new RenderPassConfig(gl, programFinal, {
     beforeEncode: (context, uniforms, options) => {
@@ -925,14 +945,19 @@
       context.clear(context.COLOR_BUFFER_BIT | context.DEPTH_BUFFER_BIT);
     },
     encodeUniforms: (context, uniforms, options) => {
-      context.uniform1i(renderPassParticles.fieldPoints, uniforms.fieldPointsLocation);
-      context.uniform1i(renderPassParticles.field, uniforms.fieldLocation);
+      context.uniform2fv(finalRenderPass.resolution, uniforms.resolution);
+      context.uniform1i(finalRenderPass.fieldPoints, uniforms.fieldPointsLocation);
+      context.uniform1i(finalRenderPass.repelField, uniforms.repelFieldLocation);
+      context.uniform1i(finalRenderPass.attractField, uniforms.attractFieldLocation);
 
       context.activeTexture(gl.TEXTURE0);
       context.bindTexture(gl.TEXTURE_2D, options['fieldPoints']);
 
       context.activeTexture(gl.TEXTURE1);
-      context.bindTexture(gl.TEXTURE_2D, options['field']);
+      context.bindTexture(gl.TEXTURE_2D, options['repelField']);
+
+      context.activeTexture(gl.TEXTURE2);
+      context.bindTexture(gl.TEXTURE_2D, options['attractField']);
     },
     encodeDraw: (context, uniforms, options) => {
       context.bindVertexArray(anyQuad.vertexArray);
@@ -941,8 +966,9 @@
   });
 
   finalRenderPass.initUniformLocations([
-    'resolution',
-    'fieldPoints'
+    'fieldPoints',
+    'repelField',
+    'attractField'
   ]);
 
   finalRenderPass.setUniformLocations();
@@ -982,7 +1008,8 @@
   rp.registerTextures('particleRandoms', particleRandomsAttachments);
   rp.registerTextures('particleBasics', particleBasicsAttachments);
 
-  rp.registerTextures('field', fieldAttachments);
+  rp.registerTextures('repelField', repelFieldAttachments);
+  rp.registerTextures('attractField', attractFieldAttachments);
   rp.registerTextures('fieldPoints', fieldPointsAttachments);
   rp.registerTextures('fieldGradient', fieldGradientAttachments);
 
@@ -1052,7 +1079,8 @@
 
     gl.bindFramebuffer(gl.DRAW_FRAMEBUFFER, fieldFb);
     gl.framebufferTexture2D(gl.DRAW_FRAMEBUFFER, gl.COLOR_ATTACHMENT0, gl.TEXTURE_2D, rp.getNext('fieldPoints'), 0);
-    gl.framebufferTexture2D(gl.DRAW_FRAMEBUFFER, gl.COLOR_ATTACHMENT1, gl.TEXTURE_2D, rp.getNext('field'), 0);
+    gl.framebufferTexture2D(gl.DRAW_FRAMEBUFFER, gl.COLOR_ATTACHMENT1, gl.TEXTURE_2D, rp.getNext('repelField'), 0);
+    gl.framebufferTexture2D(gl.DRAW_FRAMEBUFFER, gl.COLOR_ATTACHMENT2, gl.TEXTURE_2D, rp.getNext('attractField'), 0);
 
     // -- pass 3: render points of particles onto textures
 
@@ -1078,13 +1106,14 @@
       particleBasicsLocation: 0,
       fieldPointsLocation: 1,
       ballSize: 20,
-      repelMag: 10,
-      attractMag: 10
+      repelMag: 100,
+      attractMag: 100
     };
 
     gl.drawBuffers([
       gl.NONE,
-      gl.COLOR_ATTACHMENT1
+      gl.COLOR_ATTACHMENT1,
+      gl.COLOR_ATTACHMENT2
     ]);
 
     rpField.encode(rpFieldUniforms, {
@@ -1099,17 +1128,21 @@
     gl.clear(gl.COLOR_BUFFER_BIT);
 
     var finalUniforms = {
-      fieldLocation: 0,
-      fieldPointsLocation: 1
+      resolution: renderResolution,
+      fieldPointsLocation: 0,
+      repelFieldLocation: 1,
+      attractFieldLocation: 2
     };
 
     finalRenderPass.encode(finalUniforms, {
       fieldPoints: rp.getNext('fieldPoints'),
-      field: rp.getNext('field')
+      repelField: rp.getNext('repelField'),
+      attractField: rp.getNext('attractField')
     });
 
     rp.increment();
     requestAnimationFrame(render);
+
   }
 
   function cleanup() {

@@ -92,7 +92,7 @@ uniform vec2 resolution;
 
 layout(location = 0) in int a_index;
 
-out int v_particleId;
+flat out int v_particleId;
 out float v_pointSize;
 out vec4 v_position;
 
@@ -104,8 +104,9 @@ void main()
   ivec2 texel = ivec2(a_index % texSize.x, a_index / texSize.x);
   vec4 pBasics = texelFetch(particleBasics, texel, 0);
 
+  v_particleId = a_index;
   v_position = vec4(pBasics.x, pBasics.y, 0.0, 1.0);
-  v_pointSize = 1.0;
+  v_pointSize = 10.0;
 
   gl_Position = v_position;
   gl_PointSize = v_pointSize;
@@ -115,7 +116,7 @@ void main()
 <script type="x-shader/x-fragment" id="fsFieldPoints">
 uniform vec2 resolution;
 
-in int v_particleId;
+flat in int v_particleId;
 in vec4 v_position;
 in float v_pointSize;
 
@@ -134,10 +135,19 @@ uniform int ballSize;
 uniform float repelMag;
 uniform float attractMag;
 
-uniform usampler2D particleBasics;
+uniform sampler2D particleBasics;
 uniform sampler2D fieldPoints;
 
-out vec4 color;
+layout(location = 0) out vec4 repelField;
+layout(location = 1) out vec4 attractField;
+
+vec2 calcRForce(vec2 texelCoords, vec2 particleCoords, float mag) {
+  return vec2(0.0, 0.0);
+}
+
+vec2 calcAForce() {
+  return vec2(0.0, 0.0);
+}
 
 void main() {
   vec2 uv = gl_FragCoord.xy / resolution.xy;
@@ -152,6 +162,8 @@ void main() {
   for (int i = ballSizeOffset; i < ballSizeOffset + ballSize; i++) {
     for (int j = ballSizeOffset; j < ballSizeOffset + ballSize; j++) {
       vec2 texelCoords = mod(gl_FragCoord.xy + vec2(float(i), float(j)), resolution.xy) / resolution.xy;
+      vec2 texelCoordsNoMod = gl_FragCoord.xy + vec2(float(i), float(j)) / resolution.xy;
+
       vec4 point = texture(fieldPoints, texelCoords);
 
       // TODO: verify that binary representation of point.x has not been clamped
@@ -160,34 +172,49 @@ void main() {
       ivec2 pBasicTexel = ivec2(pBasicIdx % pBasicsSize.x, pBasicIdx / pBasicsSize.x);
       vec4 pBasic = texelFetch(particleBasics, pBasicTexel, 0);
 
-      float d = distance(pBasic.xy, texelCoords) + 0.0001;
+      float d = distance(pBasic.xy, texelCoordsNoMod) + 0.0001;
 
-      float rForce = repelMag / d^2;
-      float aForce = attactMag / d;
+      float rForce = repelMag / (d*d);
+      float aForce = attractMag / d;
 
+      // TODO: calculate vec2's for rForce & aForce
       // TODO: calculate aForce, given the directional component of the particle
 
       repel += rForce;
-      attact += aForce;
+      attract += aForce;
     }
   }
 
-  color = vec4(attract, repel, 0.0, 1.0);
+  repelField = vec4(repel, 0.0, 0.0, 1.0);
+  attractField = vec4(attract, 0.0, 0.0, 1.0);
+
 }
 </script>
 
 <script type="x-shader/x-fragment" id="fsTest">
+uniform vec2 resolution;
 uniform sampler2D fieldPoints;
-uniform sampler2D field;
+uniform sampler2D repelField;
+uniform sampler2D attractField;
 
 out vec4 color;
 
 void main() {
-  vec4 pointColor = texture(fieldPoints, gl_fragCoord.xy);
-  vec4 fieldColor = texture(field, gl_fragCoord.xy);
+  vec2 uv = gl_FragCoord.xy / resolution.xy;
 
-  color = vec4(fieldColor.xy, pointColor.w, 1.0);
+  vec4 pointColor = texture(fieldPoints, uv);
+  vec4 repelFieldColor = texture(repelField, uv);
+  vec4 attractFieldColor = texture(attractField, uv);
+
+  vec4 debugColor = vec4(0.5,0.5,0.5,1.0);
+  if (pointColor.x != 0.0) {
+    debugColor.x = 1.0;
+  }
+
+  color = vec4(fract(repelFieldColor.x), fract(attractFieldColor.x), pointColor.w, 1.0);
+  //color = debugColor;
 }
+
 </script>
 
 <script type="text/javascript" src="/js/gl-matrix.min.js"></script>
