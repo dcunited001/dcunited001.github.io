@@ -61,336 +61,401 @@
 // - add noise to final color mapping as an effect
 //   - the mapping can be made to distorct shadows
 
-(() => {
+function createShader(gl, source, type) {
+  var shader = gl.createShader(type);
+  gl.shaderSource(shader, source);
+  gl.compileShader(shader);
+  return shader;
+}
 
-  function createShader(gl, source, type) {
-    var shader = gl.createShader(type);
-    gl.shaderSource(shader, source);
-    gl.compileShader(shader);
-    return shader;
+window.createProgram = function (gl, vertexShaderSource, fragmentShaderSource, defines = {}) {
+  var shaderPrefix = "#version 300 es\n";
+  shaderPrefix += "#extension EXT_color_buffer_float : enable\n"; // not supported in chrome
+
+  var precisionPrefix = `
+    precision highp float;
+    precision highp int;
+    precision highp sampler2D;
+    precision highp usampler2D;
+    `;
+
+  var program = gl.createProgram();
+  vertexShaderSource = shaderPrefix + expandDefines(defines) + precisionPrefix + vertexShaderSource;
+  fragmentShaderSource = shaderPrefix + expandDefines(defines) + precisionPrefix + fragmentShaderSource;
+
+  var vshader = createShader(gl, vertexShaderSource, gl.VERTEX_SHADER);
+  var fshader = createShader(gl, fragmentShaderSource, gl.FRAGMENT_SHADER);
+  gl.attachShader(program, vshader);
+  gl.deleteShader(vshader);
+  gl.attachShader(program, fshader);
+  gl.deleteShader(fshader);
+  gl.linkProgram(program);
+
+  var log = gl.getProgramInfoLog(program);
+  if (log) {
+    console.log(log);
   }
 
-  window.createProgram = function (gl, vertexShaderSource, fragmentShaderSource, defines = {}) {
-    var shaderPrefix = "#version 300 es\n";
-    shaderPrefix += "#extension EXT_color_buffer_float : enable\n"; // not supported in chrome
+  log = gl.getShaderInfoLog(vshader);
+  if (log) {
+    console.log(log);
+  }
 
-    var precisionPrefix = `
-      precision highp float;
-      precision highp int;
-      precision highp sampler2D;
-      precision highp usampler2D;
-      `;
+  log = gl.getShaderInfoLog(fshader);
+  if (log) {
+    console.log(log);
+  }
 
-    var program = gl.createProgram();
-    vertexShaderSource = shaderPrefix + expandDefines(defines) + precisionPrefix + vertexShaderSource;
-    fragmentShaderSource = shaderPrefix + expandDefines(defines) + precisionPrefix + fragmentShaderSource;
+  return program;
+};
 
-    var vshader = createShader(gl, vertexShaderSource, gl.VERTEX_SHADER);
-    var fshader = createShader(gl, fragmentShaderSource, gl.FRAGMENT_SHADER);
-    gl.attachShader(program, vshader);
-    gl.deleteShader(vshader);
-    gl.attachShader(program, fshader);
-    gl.deleteShader(fshader);
-    gl.linkProgram(program);
+window.expandDefines = function (defines = {}) {
+  // if empty, return empty string
+  // otherwise iterate through and generate string to prepend
 
-    var log = gl.getProgramInfoLog(program);
-    if (log) {
-      console.log(log);
-    }
-
-    log = gl.getShaderInfoLog(vshader);
-    if (log) {
-      console.log(log);
-    }
-
-    log = gl.getShaderInfoLog(fshader);
-    if (log) {
-      console.log(log);
-    }
-
-    return program;
-  };
-
-  window.expandDefines = function (defines = {}) {
-    // if empty, return empty string
-    // otherwise iterate through and generate string to prepend
-
-    // TODO: fix this?
-    var defineStrings = "";
-    if (defines.keys !== undefined) {
-      for (var k in Object.keys(defines)) {
-        defineStrings += `#define ${k} ${defines[k]}\n`;
-      }
-    }
-
-    return defineStrings;
-  };
-
-  window.loadImage = function (url, onload) {
-    var img = new Image();
-    img.src = url;
-    img.onload = function () {
-      onload(img);
-    };
-    return img;
-  };
-
-  window.loadImages = function (urls, onload) {
-    var imgs = [];
-    var imgsToLoad = urls.length;
-
-    function onImgLoad() {
-      if (--imgsToLoad <= 0) {
-        onload(imgs);
-      }
-    }
-
-    for (var i = 0; i < imgsToLoad; ++i) {
-      imgs.push(loadImage(urls[i], onImgLoad));
-    }
-  };
-
-  window.loadObj = function (url, onload) {
-    var xhr = new XMLHttpRequest();
-    xhr.open('GET', url, true);
-    xhr.responseType = 'text';
-    xhr.onload = function (e) {
-      var mesh = new OBJ.Mesh(this.response);
-      onload(mesh);
-    };
-    xhr.send();
-  };
-
-// TODO: refactor some of the code above into classes
-// - bc i want to be able to query uniform locations from an obj representing the program
-//   - instead of the render pass
-//class WebGL2Program {
-//  constructor(context) {
-//
-//  }
-//
-//  get vertexSource () { return this._vertexSource; }
-//  set vertexSource (vertexSource) { this._vertexSource = vertexSource; }
-//  get fragmentSource () { return this._fragmentSource; }
-//  set fragmentSource (fragmentSource) { this._fragmentSource = fragmentSource; }
-//
-//  get vertexShader () { return this._vertexShader; }
-//  set vertexShader (vertexShader) { this._vertexShader = vertexShader; }
-//  get fragmentShader () { return this._fragmentShader; }
-//  set fragmentShader (fragmentShader) { this._fragmentShader = fragmentShader; }
-//
-//  get program () { return this._program; }
-//  set program (program) { this._program = program; }
-//
-//  createProgram () {
-//
-//  }
-//
-//}
-
-  class Quad {
-    constructor(context) {
-      this._pos = this.getQuadPositions();
-      this._tex = this.getQuadTexCoords();
-
-      this._buffers = this.prepareBuffers(context, this._pos, this._tex);
-      this._vertexArray = this.prepareVertexArray(context, this._buffers);
-    }
-
-    get pos() {
-      return this._pos;
-    }
-
-    set pos(pos) {
-      this._pos = pos
-    }
-
-    get tex() {
-      return this._tex;
-    }
-
-    set tex(tex) {
-      this._tex = tex;
-    }
-
-    get buffers() {
-      return this._buffer;
-    }
-
-    set buffers(buffer) {
-      this._buffer = buffer;
-    }
-
-    get vertexArray() {
-      return this._vertexArray;
-    }
-
-    set vertexArray(vertexArray) {
-      this._vertexArray = vertexArray;
-    }
-
-    prepareBuffers(context, pos, tex) {
-      var vertexPosBuffer = context.createBuffer();
-      context.bindBuffer(context.ARRAY_BUFFER, vertexPosBuffer);
-      context.bufferData(context.ARRAY_BUFFER, pos, context.STATIC_DRAW);
-      context.bindBuffer(context.ARRAY_BUFFER, null);
-
-      var vertexTexBuffer = context.createBuffer();
-      context.bindBuffer(context.ARRAY_BUFFER, vertexTexBuffer);
-      context.bufferData(context.ARRAY_BUFFER, tex, context.STATIC_DRAW);
-      context.bindBuffer(context.ARRAY_BUFFER, null);
-
-      return {
-        pos: vertexPosBuffer,
-        tex: vertexTexBuffer
-      }
-    }
-
-    prepareVertexArray(context, buffers) {
-      var vertexArray = context.createVertexArray();
-      context.bindVertexArray(vertexArray);
-
-      var vertexPosIdx = 0;
-      context.bindBuffer(context.ARRAY_BUFFER, buffers.pos);
-      context.vertexAttribPointer(vertexPosIdx, 4, context.FLOAT, false, 0, 0);
-      context.enableVertexAttribArray(vertexPosIdx);
-      context.bindBuffer(context.ARRAY_BUFFER, null);
-
-      var vertexTexIdx = 1;
-      context.bindBuffer(context.ARRAY_BUFFER, buffers.tex);
-      context.vertexAttribPointer(vertexTexIdx, 2, context.FLOAT, false, 0, 0);
-      context.enableVertexAttribArray(vertexTexIdx);
-      context.bindBuffer(context.ARRAY_BUFFER, null);
-
-      context.bindVertexArray(null);
-
-      return vertexArray;
-    }
-
-    createVertexLayout() {
-      // TODO: given a hash config, return new vertex layout using these buffers
-    }
-
-    getQuadPositions() {
-      return new Float32Array([
-        -1.0, -1.0, 0.0, 1.0,
-        1.0, -1.0, 0.0, 1.0,
-        1.0, 1.0, 0.0, 1.0,
-        1.0, 1.0, 0.0, 1.0,
-        -1.0, 1.0, 0.0, 1.0,
-        -1.0, -1.0, 0.0, 1.0
-      ])
-    }
-
-    getQuadTexCoords() {
-      return new Float32Array([
-        0.0, 0.0,
-        1.0, 0.0,
-        1.0, 1.0,
-        1.0, 1.0,
-        0.0, 1.0,
-        0.0, 0.0
-      ])
+  // TODO: fix this?
+  var defineStrings = "";
+  if (defines.keys !== undefined) {
+    for (var k in Object.keys(defines)) {
+      defineStrings += `#define ${k} ${defines[k]}\n`;
     }
   }
 
-  class ResourceProvider {
-    // i need the triple buffering pattern from iOS/OSX Metal semaphore
-    // - this is because i'm rendering updated particle positons to a texture
-    //   - this in turn renders a gradient that's used in the next frame
-    // - double buffering may be enough, but ideally the data should remain written to buffer for as long as it's needed to render
+  return defineStrings;
+};
 
-    // TODO: resource attacher: nice idea, but probably not necessary
-    // resource attacher map (key) => ((fb, texture) => success)
-    // - wires together textures for a given framebuffer & color attachment for this frame
-    //   - i need to instantiate all the textures up front and repoint them as needed
+window.loadImage = function (url, onload) {
+  var img = new Image();
+  img.src = url;
+  img.onload = function () {
+    onload(img);
+  };
+  return img;
+};
 
-    constructor() {
+window.loadImages = function (urls, onload) {
+  var imgs = [];
+  var imgsToLoad = urls.length;
+
+  function onImgLoad() {
+    if (--imgsToLoad <= 0) {
+      onload(imgs);
+    }
+  }
+
+  for (var i = 0; i < imgsToLoad; ++i) {
+    imgs.push(loadImage(urls[i], onImgLoad));
+  }
+};
+
+window.loadObj = function (url, onload) {
+  var xhr = new XMLHttpRequest();
+  xhr.open('GET', url, true);
+  xhr.responseType = 'text';
+  xhr.onload = function (e) {
+    var mesh = new OBJ.Mesh(this.response);
+    onload(mesh);
+  };
+  xhr.send();
+};
+
+class Quad {
+  constructor(context) {
+    this._pos = this.getQuadPositions();
+    this._tex = this.getQuadTexCoords();
+
+    this._buffers = this.prepareBuffers(context, this._pos, this._tex);
+    this._vertexArray = this.prepareVertexArray(context, this._buffers);
+  }
+
+  get pos() {
+    return this._pos;
+  }
+
+  set pos(pos) {
+    this._pos = pos
+  }
+
+  get tex() {
+    return this._tex;
+  }
+
+  set tex(tex) {
+    this._tex = tex;
+  }
+
+  get buffers() {
+    return this._buffer;
+  }
+
+  set buffers(buffer) {
+    this._buffer = buffer;
+  }
+
+  get vertexArray() {
+    return this._vertexArray;
+  }
+
+  set vertexArray(vertexArray) {
+    this._vertexArray = vertexArray;
+  }
+
+  prepareBuffers(context, pos, tex) {
+    var vertexPosBuffer = context.createBuffer();
+    context.bindBuffer(context.ARRAY_BUFFER, vertexPosBuffer);
+    context.bufferData(context.ARRAY_BUFFER, pos, context.STATIC_DRAW);
+    context.bindBuffer(context.ARRAY_BUFFER, null);
+
+    var vertexTexBuffer = context.createBuffer();
+    context.bindBuffer(context.ARRAY_BUFFER, vertexTexBuffer);
+    context.bufferData(context.ARRAY_BUFFER, tex, context.STATIC_DRAW);
+    context.bindBuffer(context.ARRAY_BUFFER, null);
+
+    return {
+      pos: vertexPosBuffer,
+      tex: vertexTexBuffer
+    }
+  }
+
+  prepareVertexArray(context, buffers) {
+    var vertexArray = context.createVertexArray();
+    context.bindVertexArray(vertexArray);
+
+    var vertexPosIdx = 0;
+    context.bindBuffer(context.ARRAY_BUFFER, buffers.pos);
+    context.vertexAttribPointer(vertexPosIdx, 4, context.FLOAT, false, 0, 0);
+    context.enableVertexAttribArray(vertexPosIdx);
+    context.bindBuffer(context.ARRAY_BUFFER, null);
+
+    var vertexTexIdx = 1;
+    context.bindBuffer(context.ARRAY_BUFFER, buffers.tex);
+    context.vertexAttribPointer(vertexTexIdx, 2, context.FLOAT, false, 0, 0);
+    context.enableVertexAttribArray(vertexTexIdx);
+    context.bindBuffer(context.ARRAY_BUFFER, null);
+
+    context.bindVertexArray(null);
+
+    return vertexArray;
+  }
+
+  createVertexLayout() {
+    // TODO: given a hash config, return new vertex layout using these buffers
+  }
+
+  getQuadPositions() {
+    return new Float32Array([
+      -1.0, -1.0, 0.0, 1.0,
+      1.0, -1.0, 0.0, 1.0,
+      1.0, 1.0, 0.0, 1.0,
+      1.0, 1.0, 0.0, 1.0,
+      -1.0, 1.0, 0.0, 1.0,
+      -1.0, -1.0, 0.0, 1.0
+    ])
+  }
+
+  getQuadTexCoords() {
+    return new Float32Array([
+      0.0, 0.0,
+      1.0, 0.0,
+      1.0, 1.0,
+      1.0, 1.0,
+      0.0, 1.0,
+      0.0, 0.0
+    ])
+  }
+}
+
+class RenderPassConfig {
+
+  constructor(context, program, options = {uniformLocations: {}}) {
+    this._program = program;
+    this._context = context;
+    this._uniformLocations = options.uniformLocations || {};
+    delete options.uniformLocations;
+    this._options = options;
+  }
+
+  get program() {
+    return this._program
+  }
+
+  set program(program) {
+    this._program = program;
+  }
+
+  get context() {
+    return this._context;
+  }
+
+  set context(context) {
+    this._context = context;
+  }
+
+  get options() {
+    return this._options;
+  }
+
+  set options(options) {
+    this._options = options;
+  }
+
+  get uniformLocations() {
+    return this._uniformLocations;
+  }
+
+  set uniformLocations(uniformLocations) {
+    this._uniformLocations = uniformLocations;
+  }
+
+  initUniformLocations(keys) {
+    // initialize the keys for uniform locations
+    var locations = {};
+    for (var k of keys) {
+      locations[k] = null;
+    }
+    this._uniformLocations = locations;
+  }
+
+  setUniformLocations() {
+    var keys = Object.keys(this.uniformLocations);
+    for (var k of keys) {
+      this.uniformLocations[k] = this.context.getUniformLocation(this.program, k);
+    }
+  }
+
+  selectProgram() {
+    this.context.useProgram(this.program)
+  }
+
+  encode(uniforms, options = {}) {
+    var ops = Object.assign({}, this.options, options);
+
+    // for each key in uniforms, encode value into the specific location
+    if (ops.beforeEncode !== undefined) {
+      ops.beforeEncode(this.context, uniforms, ops);
+    }
+
+    this.selectProgram();
+
+    if (ops.encodeUniforms !== undefined) {
+      ops.encodeUniforms(this.context, uniforms, ops);
+    } else {
+      this.encodeUniforms(this.context, uniforms, ops);
+    }
+
+    if (ops.encodeDraw !== undefined) {
+      ops.encodeDraw(this.context, uniforms, ops);
+    } else {
+      this.encodeDraw(this.context, uniforms, ops);
+    }
+
+    if (ops.afterEncode !== undefined) {
+      ops.afterEncode(this.context, uniforms, ops);
+    }
+
+    this.cleanupEncode();
+  }
+
+  encodeUniforms(c, uniforms, options = {}) {
+    console.error("RenderPassConfig: override encodeUniforms() or pass 'encodeUniforms'")
+  }
+
+  encodeDraw(c, uniforms, options = {}) {
+    console.error("RenderPassConfig: override encodeDraw() or pass 'encodeDraw'")
+  }
+
+  cleanupEncode() {
+    this._context.bindBuffer(this._context.ARRAY_BUFFER, null);
+    this._context.bindVertexArray(null);
+    this._context.useProgram(null);
+  }
+}
+
+class ResourceProvider {
+  // i need the triple buffering pattern from iOS/OSX Metal semaphore
+  // - this is because i'm rendering updated particle positons to a texture
+  //   - this in turn renders a gradient that's used in the next frame
+  // - double buffering may be enough, but ideally the data should remain written to buffer for as long as it's needed to render
+
+  constructor() {
+    this._current = 0;
+    this._textures = {};
+  }
+
+  registerTextures(k, textures) {
+    this._textures[k] = textures;
+  }
+
+  getCurrent(k) {
+    return this._textures[k][this.getCurrentId()];
+  }
+
+  getNext(k) {
+    return this._textures[k][this.getNextId()];
+  }
+
+  getPrev(k) {
+    return this._textures[k][this.getPrevId()];
+  }
+
+  getCurrentId() {
+    return this._current;
+  }
+
+  getNextId() {
+    if (this._current == 2) {
+      return 0;
+    } else {
+      return this._current + 1;
+    }
+  }
+
+  getPrevId() {
+    if (this._current == 0) {
+      return 2;
+    } else {
+      return this._current - 1;
+    }
+  }
+
+  increment() {
+    if (this._current == 2) {
       this._current = 0;
-      this._textures = {};
-      this._attachers = {}; // attach/config the texture to the proper resources in the frame
-    }
-
-    registerTextures(k, textures) {
-      this._textures[k] = textures;
-    }
-
-    registerAttacher(k, f) {
-      this._attachers[k] = f;
-    }
-
-    getAttacher(k) {
-      return _attachers[k];
-    }
-
-    getCurrent(k) {
-      return this._textures[k][this.getCurrentId()];
-    }
-
-    getNext(k) {
-      return this._textures[k][this.getNextId()];
-    }
-
-    getPrev(k) {
-      return this._textures[k][this.getPrevId()];
-    }
-
-    getCurrentId() {
-      return this._current;
-    }
-
-    getNextId() {
-      if (this._current == 2) {
-        return 0;
-      } else {
-        return this._current + 1;
-      }
-    }
-
-    getPrevId() {
-      if (this._current == 0) {
-        return 2;
-      } else {
-        return this._current - 1;
-      }
-    }
-
-    increment() {
-      if (this._current == 2) {
-        this._current = 0;
-      } else {
-        this._current++;
-      }
+    } else {
+      this._current++;
     }
   }
+}
 
-  function triplicateResource(f) {
-    // run function 3 times
-    return [0, 1, 2].map(f)
+function triplicateResource(f) {
+  // run function 3 times
+  return [0, 1, 2].map(f)
+}
+
+function updateTexture(f) {
+  //return a function that's enveloped in the correct access calls to update before render or b/w draw calls
+  return function (context, triple, i) {
+    var thisTexture = triple[i];
+
+    context.activeTexture(context.TEXTURE0);
+    context.bindTexture(context.TEXTURE_2D, triple[i]);
+
+    f(context, thisTexture);
+
+    context.bindTexture(context.TEXTURE_2D, null);
   }
+}
 
-  function updateTexture(f) {
-    //return a function that's enveloped in the correct access calls to update before render or b/w draw calls
-    return function (context, triple, i) {
-      var thisTexture = triple[i];
-
-      context.activeTexture(context.TEXTURE0);
-      context.bindTexture(gl.TEXTURE_2D, triple[i]);
-
-      f(context, thisTexture);
-
-      context.bindTexture(gl.TEXTURE_2D, null);
-    }
-  }
+function runWebGL() {
 
   var canvas = document.getElementById('main-canvas');
   canvas.style.width = '100%';
   canvas.height = 500;
   canvas.width = canvas.offsetWidth;
 
-// =======================================
-// UI events
-// =======================================
+  // =======================================
+  // UI events
+  // =======================================
 
   var mouseDown = false;
   var lastMouseX = 0;
@@ -420,12 +485,17 @@
     lastMouseY = newY;
   };
 
-// =======================================
-// Canvas & WebGL
-// =======================================
+  // =======================================
+  // Canvas & WebGL
+  // =======================================
 
   var gl = canvas.getContext('webgl2', {antialias: true});
   var colorBufferFloatExt = gl.getExtension('EXT_color_buffer_float');
+
+  console.log(gl.FRAMEBUFFER_COMPLETE, 'FRAMEBUFFER_COMPLETE');
+  console.log(gl.FRAMEBUFFER_INCOMPLETE_ATTACHMENT, 'FRAMEBUFFER_INCOMPLETE_ATTACHMENT');
+  console.log(gl.FRAMEBUFFER_INCOMPLETE_MISSING_ATTACHMENT, 'FRAMEBUFFER_INCOMPLETE_MISSING_ATTACHMENT');
+  console.log(gl.FRAMEBUFFER_INCOMPLETE_DIMENSIONS, 'FRAMEBUFFER_INCOMPLETE_DIMENSIONS');
 
   var isWebGL2 = !!gl;
   if (!isWebGL2) {
@@ -438,32 +508,34 @@
 
   var UINT32_MAX = (2 ** 32) - 1;
 
-// =======================================
-// GLSL Programs
-// =======================================
+  // =======================================
+  // GLSL Programs
+  // =======================================
 
-// -- initialize glsl programs
+  // -- initialize glsl programs
   var vsPass = document.getElementById('vsPass').textContent,
-    shaderParticleRandoms = document.getElementById('shaderParticleRandoms').textContent,
-    shaderParticleUpdate = document.getElementById('shaderParticleUpdate').textContent,
+    fsParticleRandoms = document.getElementById('fsParticleRandoms').textContent,
+    fsParticleUpdate = document.getElementById('fsParticleUpdate').textContent,
     vsFieldPoints = document.getElementById('vsFieldPoints').textContent,
     fsFieldPoints = document.getElementById('fsFieldPoints').textContent,
     //vsField = document.getElementById('vsField').textContent,
     fsField = document.getElementById('fsField').textContent,
-    fsTest = document.getElementById('fsTest').textContent;
+    fsTest = document.getElementById('fsTest').textContent,
+    fsTestFieldPoints = document.getElementById('fsTestFieldPoints').textContent;
 
   var shaderDefines = {};
-  var programRandomTexture = createProgram(gl, vsPass, shaderParticleRandoms);
+  var programRandomTexture = createProgram(gl, vsPass, fsParticleRandoms);
   //var programParticleGradient = createProgram(gl, vsPass, shaderTest);
-  var programParticleUpdate = createProgram(gl, vsPass, shaderParticleUpdate);
+  var programParticleUpdate = createProgram(gl, vsPass, fsParticleUpdate);
   var programFieldPoints = createProgram(gl, vsFieldPoints, fsFieldPoints);
   var programField = createProgram(gl, vsPass, fsField);
   // TODO: programFieldGradient (may need another size of texture)
   var programFinal = createProgram(gl, vsPass, fsTest);
+  var programTest = createProgram(gl, vsPass, fsTestFieldPoints);
 
-// =======================================
-// GLSL options
-// =======================================
+  // =======================================
+  // GLSL options
+  // =======================================
 
   gl.enable(gl.DEPTH_TEST);
   gl.depthFunc(gl.LESS);
@@ -471,12 +543,12 @@
   gl.enable(gl.BLEND);
   gl.blendFunc(gl.SRC_ALPHA, gl.ONE_MINUS_SRC_ALPHA);
 
-// =======================================
-// particles
-// =======================================
+  // =======================================
+  // particles
+  // =======================================
 
-// TODO: generate initial texture to use for particle positions
-// TODO: generate initial texture to use for randoms
+  // TODO: generate initial texture to use for particle positions
+  // TODO: generate initial texture to use for randoms
 
   function generateFloat32Randoms(h, w, n) {
     var randoms = new Float32Array(w * h * n);
@@ -494,17 +566,17 @@
     return randoms
   }
 
-// attributes
-// particle_index
-// particle_x
-// particle_y
-// particle_frequency
-// particle_amplitude
-// particle_radian
+  // attributes
+  // particle_index
+  // particle_x
+  // particle_y
+  // particle_frequency
+  // particle_amplitude
+  // particle_radian
 
-// =======================================
-// particle buffers
-// =======================================
+  // =======================================
+  // particle buffers
+  // =======================================
 
   function generateParticleIndices(h, w) {
     var indices = new Int32Array(h * w);
@@ -536,17 +608,17 @@
 
   gl.bindVertexArray(null);
 
-// =======================================
-// final quad geometry
-// =======================================
+  // =======================================
+  // final quad geometry
+  // =======================================
 
   var finalQuad = new Quad(gl);
 
-// =======================================
-// Particle Framebuffer: Create Color Attachments
-// =======================================
+  // =======================================
+  // Particle Framebuffer: Create Color Attachments
+  // =======================================
 
-// four attributes can be stores per texture (x,y,z,w)
+  // four attributes can be stores per texture (x,y,z,w)
   var particleRandomsAttachments, // stores random seed data (unfortunately integers)
     particleBasicsAttachments,   // stores particle basics (floats)
     particleIntsAttachments;     // stores more attributes (ints)
@@ -584,43 +656,9 @@
     return tex;
   });
 
-// =======================================
-// Particle Framebuffer: Set initial data for color attachments
-// =======================================
-
-// initialize random seeds
-  updateTexture((context, texture) => {
-
-    context.texSubImage2D(gl.TEXTURE_2D,
-      0,
-      0, // x offset
-      0, // y offset
-      PARTICLE_FB_HEIGHT,
-      PARTICLE_FB_WIDTH,
-      gl.RGBA_INTEGER,
-      gl.UNSIGNED_INT,
-      randomIntData);
-
-  })(gl, particleRandomsAttachments, 0);
-
-// init particle positions
-  updateTexture((context, texture) => {
-
-    context.texSubImage2D(gl.TEXTURE_2D,
-      0,
-      0, // x offset
-      0, // y offset
-      PARTICLE_FB_HEIGHT,
-      PARTICLE_FB_WIDTH,
-      gl.RGBA,
-      gl.FLOAT,
-      randomFloatData);
-
-  })(gl, particleBasicsAttachments, 0);
-
-// =======================================
-// Field Framebuffer: Color Attachments
-// =======================================
+  // =======================================
+  // Field Framebuffer: Color Attachments
+  // =======================================
 
   var fieldPointsAttachments, // stores the id's of rendered points (up to one point per pixel, ...)
     repelFieldAttachments, // stores a shared field based on rendered & current particle positions
@@ -683,9 +721,47 @@
     return tex;
   });
 
-// =======================================
-// Initialize render variables
-// =======================================
+  // =======================================
+  // Initialize texture data
+  // =======================================
+
+  for (var i = 0; i < 2; i++) {
+
+    // initialize random seeds
+    updateTexture((context, texture) => {
+
+      context.texSubImage2D(context.TEXTURE_2D,
+        0,
+        0, // x offset
+        0, // y offset
+        PARTICLE_FB_HEIGHT,
+        PARTICLE_FB_WIDTH,
+        context.RGBA_INTEGER,
+        context.UNSIGNED_INT,
+        randomIntData);
+
+    })(gl, particleRandomsAttachments, i);
+
+    // init particle positions
+    updateTexture((context, texture) => {
+
+      context.texSubImage2D(context.TEXTURE_2D,
+        0,
+        0, // x offset
+        0, // y offset
+        PARTICLE_FB_HEIGHT,
+        PARTICLE_FB_WIDTH,
+        context.RGBA,
+        context.FLOAT,
+        randomFloatData);
+
+    })(gl, particleBasicsAttachments, i);
+
+  }
+
+  // =======================================
+  // Initialize render variables
+  // =======================================
   var orientation = [0.0, 0.0, 0.0];
   var tempMat4 = mat4.create();
   var modelMatrix = mat4.create();
@@ -704,126 +780,20 @@
   var perspectiveMatrix = mat4.create();
   mat4.perspective(perspectiveMatrix, 0.785, 1, 1, 1000);
 
-// =======================================
-// RenderPassConfig
-// =======================================
+  // =======================================
+  // RenderPassConfig
+  // =======================================
 
-  class RenderPassConfig {
-
-    constructor(context, program, options = {uniformLocations: {}}) {
-      this._program = program;
-      this._context = context;
-      this._uniformLocations = options.uniformLocations || {};
-      delete options.uniformLocations;
-      this._options = options;
-    }
-
-    get program() {
-      return this._program
-    }
-
-    set program(program) {
-      this._program = program;
-    }
-
-    get context() {
-      return this._context;
-    }
-
-    set context(context) {
-      this._context = context;
-    }
-
-    get options() {
-      return this._options;
-    }
-
-    set options(options) {
-      this._options = options;
-    }
-
-    get uniformLocations() {
-      return this._uniformLocations;
-    }
-
-    set uniformLocations(uniformLocations) {
-      this._uniformLocations = uniformLocations;
-    }
-
-    initUniformLocations(keys) {
-      // initialize the keys for uniform locations
-      var locations = {};
-      for (var k of keys) {
-        locations[k] = null;
-      }
-      this._uniformLocations = locations;
-    }
-
-    setUniformLocations() {
-      var keys = Object.keys(this.uniformLocations);
-      for (var k of keys) {
-        this.uniformLocations[k] = this.context.getUniformLocation(this.program, k);
-      }
-    }
-
-    selectProgram() {
-      this.context.useProgram(this.program)
-    }
-
-    encode(uniforms, options = {}) {
-      var ops = Object.assign({}, this.options, options);
-
-      // for each key in uniforms, encode value into the specific location
-      if (ops.beforeEncode !== undefined) {
-        ops.beforeEncode(this.context, uniforms, ops);
-      }
-
-      this.selectProgram();
-
-      if (ops.encodeUniforms !== undefined) {
-        ops.encodeUniforms(this.context, uniforms, ops);
-      } else {
-        this.encodeUniforms(this.context, uniforms, ops);
-      }
-
-      if (ops.encodeDraw !== undefined) {
-        ops.encodeDraw(this.context, uniforms, ops);
-      } else {
-        this.encodeDraw(this.context, uniforms, ops);
-      }
-
-      if (ops.afterEncode !== undefined) {
-        ops.afterEncode(this.context, uniforms, ops);
-      }
-
-      this.cleanupEncode();
-    }
-
-    encodeUniforms(c, uniforms, options = {}) {
-      console.error("RenderPassConfig: override encodeUniforms() or pass 'encodeUniforms'")
-    }
-
-    encodeDraw(c, uniforms, options = {}) {
-      console.error("RenderPassConfig: override encodeDraw() or pass 'encodeDraw'")
-    }
-
-    cleanupEncode() {
-      this._context.bindBuffer(this._context.ARRAY_BUFFER, null);
-      this._context.bindVertexArray(null);
-      this._context.useProgram(null);
-    }
-  }
-
-// =======================================
-// configure framebuffers
-// =======================================
+  // =======================================
+  // configure framebuffers
+  // =======================================
 
   var particleFb = gl.createFramebuffer();
   var fieldFb = gl.createFramebuffer();
 
-// =======================================
-// configure renderpasses
-// =======================================
+  // =======================================
+  // configure renderpasses
+  // =======================================
 
   var anyQuad = new Quad(gl);
 
@@ -854,13 +824,13 @@
     encodeUniforms: function (context, uniforms, options) {
       context.uniform2fv(renderPassParticles.resolution, uniforms.resolution);
       context.uniform1i(renderPassParticles.particleRandoms, uniforms.particleRandomsLocation);
+      context.uniform1i(renderPassParticles.particleBasics, uniforms.particleBasicsLocation);
 
       context.activeTexture(gl.TEXTURE0);
       context.bindTexture(gl.TEXTURE_2D, options['particleRandoms']);
 
       context.activeTexture(gl.TEXTURE1);
       context.bindTexture(gl.TEXTURE_2D, options['particleBasics']);
-
     },
     encodeDraw: function (context, uniforms, options) {
       context.bindVertexArray(anyQuad.vertexArray);
@@ -938,7 +908,7 @@
 
   rpField.setUniformLocations();
 
-// TODO: change to programRenderFinal
+  // TODO: change to programRenderFinal
   var finalRenderPass = new RenderPassConfig(gl, programFinal, {
     beforeEncode: (context, uniforms, options) => {
       context.clearColor(0.0, 0.0, 0.0, 1.0);
@@ -973,6 +943,31 @@
 
   finalRenderPass.setUniformLocations();
 
+
+  var rpTest = new RenderPassConfig(gl, programTest, {
+    beforeEncode: (context, uniforms, options) => {
+      context.clearColor(0.0, 0.0, 0.0, 1.0);
+      context.clear(context.COLOR_BUFFER_BIT | context.DEPTH_BUFFER_BIT);
+    },
+    encodeUniforms: (context, uniforms, options) => {
+      context.uniform2fv(rpTest.resolution, uniforms.resolution);
+      context.uniform1i(rpTest.fieldPoints, uniforms.fieldPointsLocation);
+
+      context.activeTexture(gl.TEXTURE0);
+      context.bindTexture(gl.TEXTURE_2D, options['fieldPoints']);
+    },
+    encodeDraw: (context, uniforms, options) => {
+      context.bindVertexArray(anyQuad.vertexArray);
+      context.drawArrays(context.TRIANGLES, 0, 6);
+    }
+  });
+
+  rpTest.initUniformLocations([
+    'fieldPoints'
+  ]);
+
+  rpTest.setUniformLocations();
+
   function makeRandomStepSeed() {
     return [
       Math.trunc(Math.random() * UINT32_MAX),
@@ -988,7 +983,7 @@
     lastFrameStart = currentTime,
     lastFrameTime = currentTime - lastFrameStart;
 
-// deltaT stores the last four frame times
+  // deltaT stores the last four frame times
   var deltaT = vec4.fromValues(0.0, 0.0, 0.0, 0.0);
   var framecount = 0;
 
@@ -1059,6 +1054,7 @@
 
     var updateParticleUniforms = {
       resolution: particleResolution,
+      deltaTime: deltaT,
       particleRandomsLocation: 0,
       particleBasicsLocation: 1
     };
@@ -1073,76 +1069,91 @@
       particleBasics: rp.getCurrent('particleBasics')
     });
 
-    // =======================================
-    // field frame buffer
-    // =======================================
+    gl.bindFramebuffer(gl.DRAW_FRAMEBUFFER, null);
+    gl.clearColor(0.0, 0.0, 0.0, 1.0);
+    gl.clear(gl.COLOR_BUFFER_BIT);
 
-    gl.bindFramebuffer(gl.DRAW_FRAMEBUFFER, fieldFb);
-    gl.framebufferTexture2D(gl.DRAW_FRAMEBUFFER, gl.COLOR_ATTACHMENT0, gl.TEXTURE_2D, rp.getNext('fieldPoints'), 0);
-    gl.framebufferTexture2D(gl.DRAW_FRAMEBUFFER, gl.COLOR_ATTACHMENT1, gl.TEXTURE_2D, rp.getNext('repelField'), 0);
-    gl.framebufferTexture2D(gl.DRAW_FRAMEBUFFER, gl.COLOR_ATTACHMENT2, gl.TEXTURE_2D, rp.getNext('attractField'), 0);
-
-    // -- pass 3: render points of particles onto textures
+    //// =======================================
+    //// field frame buffer
+    //// =======================================
+    //
+    //gl.bindFramebuffer(gl.DRAW_FRAMEBUFFER, fieldFb);
+    //gl.framebufferTexture2D(gl.DRAW_FRAMEBUFFER, gl.COLOR_ATTACHMENT0, gl.TEXTURE_2D, rp.getNext('fieldPoints'), 0);
+    //gl.framebufferTexture2D(gl.DRAW_FRAMEBUFFER, gl.COLOR_ATTACHMENT1, gl.TEXTURE_2D, rp.getNext('repelField'), 0);
+    //gl.framebufferTexture2D(gl.DRAW_FRAMEBUFFER, gl.COLOR_ATTACHMENT2, gl.TEXTURE_2D, rp.getNext('attractField'), 0);
+    //
+    // checkFbStatus();
+    //
+    //// -- pass 3: render points of particles onto textures
 
     var rpFieldPointsUniforms = {
       resolution: renderResolution,
       particleBasicsLocation: 0
     };
 
-    gl.drawBuffers([
-      gl.COLOR_ATTACHMENT0,
-      gl.NONE
-    ]);
+    //gl.drawBuffers([
+    //  gl.COLOR_ATTACHMENT0,
+    //  gl.NONE,
+    //  gl.NONE
+    //]);
 
     rpFieldPoints.encode(rpFieldPointsUniforms, {
       particleBasics: rp.getNext('particleBasics')
     });
-
-    // -- pass 4: render the field,
-    // - for each point on the texture, aggregate contributions from surrounding pixels
-
-    var rpFieldUniforms = {
-      resolution: renderResolution,
-      particleBasicsLocation: 0,
-      fieldPointsLocation: 1,
-      ballSize: 20,
-      repelMag: 100,
-      attractMag: 100
-    };
-
-    gl.drawBuffers([
-      gl.NONE,
-      gl.COLOR_ATTACHMENT1,
-      gl.COLOR_ATTACHMENT2
-    ]);
-
-    rpField.encode(rpFieldUniforms, {
-      particleBasics: rp.getNext('particleBasics'),
-      fieldPoints: rp.getNext('fieldPoints')
-    });
-
-    // -- pass 5: calculate gradients across field (may require another texture size & framebuffer)
-
-    gl.bindFramebuffer(gl.DRAW_FRAMEBUFFER, null);
-    gl.clearColor(0.0, 0.0, 0.0, 1.0);
-    gl.clear(gl.COLOR_BUFFER_BIT);
-
-    var finalUniforms = {
-      resolution: renderResolution,
-      fieldPointsLocation: 0,
-      repelFieldLocation: 1,
-      attractFieldLocation: 2
-    };
-
-    finalRenderPass.encode(finalUniforms, {
-      fieldPoints: rp.getNext('fieldPoints'),
-      repelField: rp.getNext('repelField'),
-      attractField: rp.getNext('attractField')
-    });
+    //
+    //// -- pass 4: render the field,
+    //// - for each point on the texture, aggregate contributions from surrounding pixels
+    //
+    //var rpFieldUniforms = {
+    //  resolution: renderResolution,
+    //  particleBasicsLocation: 0,
+    //  fieldPointsLocation: 1,
+    //  ballSize: 20,
+    //  repelMag: 100,
+    //  attractMag: 100
+    //};
+    //
+    //gl.drawBuffers([
+    //  gl.NONE,
+    //  gl.COLOR_ATTACHMENT1,
+    //  gl.COLOR_ATTACHMENT2
+    //]);
+    //
+    //rpField.encode(rpFieldUniforms, {
+    //  particleBasics: rp.getNext('particleBasics'),
+    //  fieldPoints: rp.getNext('fieldPoints')
+    //});
+    //
+    //// -- pass 5: calculate gradients across field (may require another texture size & framebuffer)
+    //
+    //gl.bindFramebuffer(gl.DRAW_FRAMEBUFFER, null);
+    //gl.clearColor(0.0, 0.0, 0.0, 1.0);
+    //gl.clear(gl.COLOR_BUFFER_BIT);
+    //
+    ////var finalUniforms = {
+    ////  resolution: renderResolution,
+    ////  fieldPointsLocation: 0,
+    ////  repelFieldLocation: 1,
+    ////  attractFieldLocation: 2
+    ////};
+    ////
+    ////finalRenderPass.encode(finalUniforms, {
+    ////  fieldPoints: rp.getNext('fieldPoints'),
+    ////  repelField: rp.getNext('repelField'),
+    ////  attractField: rp.getNext('attractField')
+    ////});
+    //
+    //var testUniforms = {
+    //  resolution: renderResolution,
+    //  fieldPointsLocation: 0
+    //};
+    //
+    //rpTest.encode(testUniforms, {
+    //  fieldPoints: rp.getNext('fieldPoints')
+    //});
 
     rp.increment();
     requestAnimationFrame(render);
-
   }
 
   function cleanup() {
@@ -1150,5 +1161,10 @@
   }
 
   render();
+}
 
-})();
+window.onload = function() {
+  runWebGL();
+};
+
+//window.addEventListener('gliready', runWebGL);

@@ -1,4 +1,9 @@
 <!doctype html>
+{% if jekyll.environment == "development" %}
+<script type="text/javascript">gliEmbedDebug = true;</script>
+<script type="text/javascript" src="/js/webgl-inspector/core/embed.js"></script>
+{% endif %}
+
 <!--[if lt IE 7 ]><html itemscope itemtype="http://schema.org/{% if page.id or post.id %}Article{% else %}Organization{% endif %}" id="ie6" class="ie ie-old" lang="en-US"><![endif]-->
 <!--[if IE 7 ]>   <html itemscope itemtype="http://schema.org/{% if page.id or post.id %}Article{% else %}Organization{% endif %}" id="ie7" class="ie ie-old" lang="en-US"><![endif]-->
 <!--[if IE 8 ]>   <html itemscope itemtype="http://schema.org/{% if page.id or post.id %}Article{% else %}Organization{% endif %}" id="ie8" class="ie ie-old" lang="en-US"><![endif]-->

@@ -8,8 +8,6 @@ author:
 name: "David Conner"
 ---
 
-## Theoretical Computer Science & Probabilistic State Machines
-
 ### Requires ES6 & WebGL2
 
 <script type="x-shader/x-vertex" id="vsPass">
@@ -26,7 +24,7 @@ void main() {
 }
 </script>
 
-<script type="x-shader/x-fragment" id="shaderParticleRandoms">
+<script type="x-shader/x-fragment" id="fsParticleRandoms">
 uniform vec2 resolution;
 uniform uvec4 randomStepSeed;
 uniform usampler2D particleRandoms;
@@ -58,7 +56,7 @@ void main() {
 }
 </script>
 
-<script type="x-shader/x-fragment" id="shaderParticleUpdate">
+<script type="x-shader/x-fragment" id="fsParticleUpdate">
   uniform vec2 resolution;
   uniform vec4 deltaTime;
   uniform usampler2D particleRandoms;
@@ -71,19 +69,17 @@ void main() {
 
   void main() {
     float globalSpeed = 32.0;
-    float maxUint = 4294967295.0;
 
     vec2 uv = gl_FragCoord.xy / resolution.xy;
     vec4 pRandoms = fract(uintBitsToFloat(texture(particleRandoms, uv)));
     vec4 pBasics = texture(particleBasics, uv);
 
     particleUpdate = vec4(0.0,0.0,0.0,1.0);
-    particleUpdate.x = pBasics.x + (globalSpeed * pRandoms.x * deltaTime.x);
-    particleUpdate.y = pBasics.y + (globalSpeed * pRandoms.y * deltaTime.x);
+    //particleUpdate.x = pBasics.x + (globalSpeed * pRandoms.x * deltaTime.x / 1000.0);
+    //particleUpdate.y = pBasics.y + (globalSpeed * pRandoms.y * deltaTime.x / 1000.0);
 
-    //particleUpdate.xy = pRandoms.xy;
+    particleUpdate.xy = pRandoms.xy;
   }
-
 </script>
 
 <script type="x-shader/x-vertex" id="vsFieldPoints">
@@ -106,7 +102,7 @@ void main()
 
   v_particleId = a_index;
   v_position = vec4(pBasics.x, pBasics.y, 0.0, 1.0);
-  v_pointSize = 10.0;
+  v_pointSize = 5.0;
 
   gl_Position = v_position;
   gl_PointSize = v_pointSize;
@@ -124,7 +120,8 @@ out vec4 color;
 
 void main()
 {
-  color = vec4(intBitsToFloat(v_particleId), 0.0, 0.0, 1.0);
+  color = vec4(1.0,0.0,0.0,1.0);
+  //color = vec4(intBitsToFloat(v_particleId), 0.0, 0.0, 1.0);
 }
 
 </script>
@@ -214,9 +211,26 @@ void main() {
   color = vec4(fract(repelFieldColor.x), fract(attractFieldColor.x), pointColor.w, 1.0);
   //color = debugColor;
 }
-
 </script>
 
-<script type="text/javascript" src="/js/gl-matrix.min.js"></script>
-<script type="text/javascript" src="/js/gltf-loader.js"></script>
+<script type="x-shader/x-fragment" id="fsTestFieldPoints">
+uniform vec2 resolution;
+uniform sampler2D fieldPoints;
+
+out vec4 color;
+
+void main() {
+  vec2 uv = gl_FragCoord.xy / resolution.xy;
+
+  vec4 pointColor = texture(fieldPoints, uv);
+
+  vec4 debugColor = vec4(0.5,0.5,0.5,1.0);
+  if (pointColor.x != 0.0) {
+    debugColor.x = 1.0;
+  }
+
+  color = pointColor;
+}
+</script>
+
 <script type="text/javascript" src="/js/3d/2017-04-17-brownian-motion.es6.js"></script>
