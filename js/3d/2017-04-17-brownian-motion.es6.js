@@ -265,6 +265,10 @@ class Quad {
   }
 }
 
+// =======================================
+// RenderPassConfig
+// =======================================
+
 class RenderPassConfig {
 
   constructor(context, program, options = {uniformLocations: {}}) {
@@ -377,9 +381,10 @@ class ResourceProvider {
   //   - this in turn renders a gradient that's used in the next frame
   // - double buffering may be enough, but ideally the data should remain written to buffer for as long as it's needed to render
 
-  constructor() {
+  constructor(options = {}) {
     this._current = 0;
     this._textures = {};
+    this._max = options.max || 3
   }
 
   registerTextures(k, textures) {
@@ -403,7 +408,7 @@ class ResourceProvider {
   }
 
   getNextId() {
-    if (this._current == 2) {
+    if (this._current == this._max - 1) {
       return 0;
     } else {
       return this._current + 1;
@@ -412,14 +417,14 @@ class ResourceProvider {
 
   getPrevId() {
     if (this._current == 0) {
-      return 2;
+      return this._max - 1;
     } else {
       return this._current - 1;
     }
   }
 
   increment() {
-    if (this._current == 2) {
+    if (this._current == this._max - 1) {
       this._current = 0;
     } else {
       this._current++;
@@ -725,7 +730,7 @@ function runWebGL() {
   // Initialize texture data
   // =======================================
 
-  for (var i = 0; i < 2; i++) {
+  for (var i = 0; i <= 2; i++) {
 
     // initialize random seeds
     updateTexture((context, texture) => {
@@ -781,13 +786,10 @@ function runWebGL() {
   mat4.perspective(perspectiveMatrix, 0.785, 1, 1, 1000);
 
   // =======================================
-  // RenderPassConfig
-  // =======================================
-
-  // =======================================
   // configure framebuffers
   // =======================================
 
+  var randomFb = gl.createFramebuffer();
   var particleFb = gl.createFramebuffer();
   var fieldFb = gl.createFramebuffer();
 
@@ -798,17 +800,33 @@ function runWebGL() {
   var anyQuad = new Quad(gl);
 
   var renderPassRandoms = new RenderPassConfig(gl, programRandomTexture, {
+    framebuffer: randomFb,
+    beforeEncode: (context, uniforms, options) => {
+      context.bindFramebuffer(context.DRAW_FRAMEBUFFER, options.framebuffer);
+    },
     encodeUniforms: (context, uniforms, options) => {
       context.uniform2fv(renderPassRandoms.uniformLocations.resolution, uniforms.resolution);
       context.uniform4uiv(renderPassRandoms.uniformLocations.randomStepSeed, uniforms.randomStepSeed);
       context.uniform1i(renderPassRandoms.uniformLocations.particleRandoms, uniforms.particleRandomsLocation);
 
-      context.activeTexture(gl.TEXTURE0);
-      context.bindTexture(gl.TEXTURE_2D, options['particleRandoms']);
+      context.activeTexture(context.TEXTURE0);
+      context.bindTexture(context.TEXTURE_2D, options.particleRandoms);
     },
     encodeDraw: (context, uniforms, options) => {
+      context.framebufferTexture2D(context.DRAW_FRAMEBUFFER, context.COLOR_ATTACHMENT0, context.TEXTURE_2D, options.particleRandomsNext, 0);
+
+      context.drawBuffers([
+        context.COLOR_ATTACHMENT0
+      ]);
+
+      checkFbStatus();
+
       context.bindVertexArray(anyQuad.vertexArray);
       context.drawArrays(context.TRIANGLES, 0, 6);
+    },
+    afterEncode: (context, uniforms, options) => {
+      //context.invalidateFramebuffer(context.DRAW_FRAMEBUFFER, [context.COLOR_ATTACHMENT1, context.COLOR_ATTACHMENT2]);
+      context.bindFramebuffer(context.DRAW_FRAMEBUFFER, null);
     }
   });
 
@@ -816,25 +834,40 @@ function runWebGL() {
     'resolution',
     'randomStepSeed',
     'particleRandoms'
-  ]);
+]);
 
   renderPassRandoms.setUniformLocations();
 
   var renderPassParticles = new RenderPassConfig(gl, programParticleUpdate, {
+    framebuffer: particleFb,
+    beforeEncode: (context, uniforms, options) => {
+      context.bindFramebuffer(context.DRAW_FRAMEBUFFER, options.framebuffer);
+    },
     encodeUniforms: function (context, uniforms, options) {
       context.uniform2fv(renderPassParticles.resolution, uniforms.resolution);
       context.uniform1i(renderPassParticles.particleRandoms, uniforms.particleRandomsLocation);
       context.uniform1i(renderPassParticles.particleBasics, uniforms.particleBasicsLocation);
 
-      context.activeTexture(gl.TEXTURE0);
-      context.bindTexture(gl.TEXTURE_2D, options['particleRandoms']);
+      context.activeTexture(context.TEXTURE0);
+      context.bindTexture(context.TEXTURE_2D, options.particleRandoms);
 
-      context.activeTexture(gl.TEXTURE1);
-      context.bindTexture(gl.TEXTURE_2D, options['particleBasics']);
+      context.activeTexture(context.TEXTURE1);
+      context.bindTexture(context.TEXTURE_2D, options.particleBasics);
     },
     encodeDraw: function (context, uniforms, options) {
+      context.framebufferTexture2D(context.DRAW_FRAMEBUFFER, context.COLOR_ATTACHMENT0, context.TEXTURE_2D, options.particleBasicsNext, 0);
+
+      context.drawBuffers([
+        context.COLOR_ATTACHMENT0
+      ]);
+
+      checkFbStatus();
+
       context.bindVertexArray(anyQuad.vertexArray);
       context.drawArrays(context.TRIANGLES, 0, 6);
+    },
+    afterEncode: (context, uniforms, options) => {
+      context.bindFramebuffer(context.DRAW_FRAMEBUFFER, null);
     }
   });
 
@@ -856,8 +889,8 @@ function runWebGL() {
       context.uniform1i(rpFieldPoints.particleBasics, uniforms.particleBasicsLocation);
       context.uniform2fv(rpFieldPoints.resolution, uniforms.resolution);
 
-      context.activeTexture(gl.TEXTURE0);
-      context.bindTexture(gl.TEXTURE_2D, options['particleBasics']);
+      context.activeTexture(context.TEXTURE0);
+      context.bindTexture(context.TEXTURE_2D, options['particleBasics']);
     },
     encodeDraw: (context, uniforms, options) => {
       context.bindVertexArray(particleVertexArray);
@@ -885,11 +918,11 @@ function runWebGL() {
       context.uniform1f(rpFieldPoints.repelMag, uniforms.repelMag);
       context.uniform1f(rpFieldPoints.attractMag, uniforms.attractMag);
 
-      context.activeTexture(gl.TEXTURE0);
-      context.bindTexture(gl.TEXTURE_2D, options['particleBasics']);
+      context.activeTexture(context.TEXTURE0);
+      context.bindTexture(context.TEXTURE_2D, options['particleBasics']);
 
-      context.activeTexture(gl.TEXTURE1);
-      context.bindTexture(gl.TEXTURE_2D, options['fieldPoints']);
+      context.activeTexture(context.TEXTURE1);
+      context.bindTexture(context.TEXTURE_2D, options['fieldPoints']);
     },
     encodeDraw: (context, uniforms, options) => {
       context.bindVertexArray(anyQuad.vertexArray);
@@ -920,14 +953,14 @@ function runWebGL() {
       context.uniform1i(finalRenderPass.repelField, uniforms.repelFieldLocation);
       context.uniform1i(finalRenderPass.attractField, uniforms.attractFieldLocation);
 
-      context.activeTexture(gl.TEXTURE0);
-      context.bindTexture(gl.TEXTURE_2D, options['fieldPoints']);
+      context.activeTexture(context.TEXTURE0);
+      context.bindTexture(context.TEXTURE_2D, options['fieldPoints']);
 
-      context.activeTexture(gl.TEXTURE1);
-      context.bindTexture(gl.TEXTURE_2D, options['repelField']);
+      context.activeTexture(context.TEXTURE1);
+      context.bindTexture(context.TEXTURE_2D, options['repelField']);
 
-      context.activeTexture(gl.TEXTURE2);
-      context.bindTexture(gl.TEXTURE_2D, options['attractField']);
+      context.activeTexture(context.TEXTURE2);
+      context.bindTexture(context.TEXTURE_2D, options['attractField']);
     },
     encodeDraw: (context, uniforms, options) => {
       context.bindVertexArray(anyQuad.vertexArray);
@@ -943,7 +976,6 @@ function runWebGL() {
 
   finalRenderPass.setUniformLocations();
 
-
   var rpTest = new RenderPassConfig(gl, programTest, {
     beforeEncode: (context, uniforms, options) => {
       context.clearColor(0.0, 0.0, 0.0, 1.0);
@@ -953,8 +985,8 @@ function runWebGL() {
       context.uniform2fv(rpTest.resolution, uniforms.resolution);
       context.uniform1i(rpTest.fieldPoints, uniforms.fieldPointsLocation);
 
-      context.activeTexture(gl.TEXTURE0);
-      context.bindTexture(gl.TEXTURE_2D, options['fieldPoints']);
+      context.activeTexture(context.TEXTURE0);
+      context.bindTexture(context.TEXTURE_2D, options['fieldPoints']);
     },
     encodeDraw: (context, uniforms, options) => {
       context.bindVertexArray(anyQuad.vertexArray);
@@ -987,6 +1019,9 @@ function runWebGL() {
   var deltaT = vec4.fromValues(0.0, 0.0, 0.0, 0.0);
   var framecount = 0;
 
+  var frameMax;
+  //frameMax = 4;
+
   function updateTime() {
     lastFrameStart = currentTime;
     currentTime = Date.now();
@@ -998,9 +1033,10 @@ function runWebGL() {
     return vec4.fromValues(newDeltaT, dt[0], dt[1], dt[2]);
   }
 
-  var rp = new ResourceProvider();
+  var rp = new ResourceProvider(),
+    randomsRp = new ResourceProvider();
 
-  rp.registerTextures('particleRandoms', particleRandomsAttachments);
+  randomsRp.registerTextures('particleRandoms', particleRandomsAttachments);
   rp.registerTextures('particleBasics', particleBasicsAttachments);
 
   rp.registerTextures('repelField', repelFieldAttachments);
@@ -1015,23 +1051,16 @@ function runWebGL() {
     }
   }
 
+  var particleResolution = vec2.fromValues(PARTICLE_FB_HEIGHT, PARTICLE_FB_WIDTH);
+  var renderResolution = vec2.fromValues(WIN_X, WIN_Y);
+
   function render() {
-    framecount++;
     updateTime();
     deltaT = updateDeltaT(deltaT, lastFrameTime);
 
     // =======================================
     // particle frame buffer
     // =======================================
-
-    gl.bindFramebuffer(gl.DRAW_FRAMEBUFFER, particleFb);
-    gl.framebufferTexture2D(gl.DRAW_FRAMEBUFFER, gl.COLOR_ATTACHMENT0, gl.TEXTURE_2D, rp.getNext('particleRandoms'), 0);
-    gl.framebufferTexture2D(gl.DRAW_FRAMEBUFFER, gl.COLOR_ATTACHMENT1, gl.TEXTURE_2D, rp.getNext('particleBasics'), 0);
-
-    checkFbStatus();
-
-    var particleResolution = vec2.fromValues(PARTICLE_FB_HEIGHT, PARTICLE_FB_WIDTH);
-    var renderResolution = vec2.fromValues(WIN_X, WIN_Y);
 
     // -- pass 1: render new randoms
 
@@ -1041,14 +1070,13 @@ function runWebGL() {
       particleRandomsLocation: 0 // TEXTURE0
     };
 
-    gl.drawBuffers([
-      gl.COLOR_ATTACHMENT0,
-      gl.NONE
-    ]);
-
     renderPassRandoms.encode(randomUniforms, {
-      particleRandoms: rp.getCurrent('particleRandoms')
+      particleRandoms: randomsRp.getCurrent('particleRandoms'),
+      particleRandomsNext: randomsRp.getNext('particleRandoms'),
+      particleBasicsNext: rp.getNext('particleBasics')
     });
+
+    randomsRp.increment();
 
     // -- pass 2: render update particle positions
 
@@ -1059,14 +1087,11 @@ function runWebGL() {
       particleBasicsLocation: 1
     };
 
-    gl.drawBuffers([
-      gl.NONE,
-      gl.COLOR_ATTACHMENT1
-    ]);
-
     renderPassParticles.encode(updateParticleUniforms, {
-      particleRandoms: rp.getNext('particleRandoms'),
-      particleBasics: rp.getCurrent('particleBasics')
+      particleRandoms: randomsRp.getCurrent('particleRandoms'),
+      particleRandomsNext: randomsRp.getNext('particleRandoms'),
+      particleBasics: rp.getCurrent('particleBasics'),
+      particleBasicsNext: rp.getNext('particleBasics')
     });
 
     gl.bindFramebuffer(gl.DRAW_FRAMEBUFFER, null);
@@ -1097,8 +1122,11 @@ function runWebGL() {
     //  gl.NONE
     //]);
 
+    rp.increment();
+
     rpFieldPoints.encode(rpFieldPointsUniforms, {
-      particleBasics: rp.getNext('particleBasics')
+      particleBasics: randomsRp.getNext('particleRandoms')
+      //particleBasics: rp.getCurrent('particleBasics')
     });
     //
     //// -- pass 4: render the field,
@@ -1152,8 +1180,12 @@ function runWebGL() {
     //  fieldPoints: rp.getNext('fieldPoints')
     //});
 
-    rp.increment();
-    requestAnimationFrame(render);
+    framecount++;
+
+    //if (frameMax !== undefined && framecount < frameMax) {
+    //requestAnimationFrame(render);
+    setTimeout(function() { requestAnimationFrame(render); }, 100);
+    //}
   }
 
   function cleanup() {

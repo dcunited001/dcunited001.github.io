@@ -36,7 +36,6 @@ layout(location = 0) out uvec4 randomColor;
 
 void main() {
   vec2 uv = gl_FragCoord.xy / resolution.xy;
-  //vec2 uv = vec2(0.0,0.0);
   uvec4 texel = texture(particleRandoms, uv);
 
   vec2 texelCoords[4];
@@ -51,8 +50,9 @@ void main() {
   texels[2] = texture(particleRandoms, texelCoords[2]);
   texels[3] = texture(particleRandoms, texelCoords[3]);
 
+
   uvec4 newTexel = (randomStepSeed ^ texel ^ texels[0] ^ texels[1] ^ texels[2] ^ texels[3]);
-  randomColor = uvec4(newTexel.x, newTexel.y, newTexel.z, 255); // TODO: fix alpha to max for integers
+  randomColor = uvec4(newTexel.x, newTexel.y, newTexel.z, newTexel.w); // TODO: fix alpha to max for integers
 }
 </script>
 
@@ -65,26 +65,28 @@ void main() {
   in vec2 v_st;
   in vec3 v_position;
 
-  layout(location = 1) out vec4 particleUpdate;
+  layout(location = 0) out vec4 particleUpdate;
 
   void main() {
     float globalSpeed = 32.0;
+    float maxUint = 4294967295.0;
 
     vec2 uv = gl_FragCoord.xy / resolution.xy;
-    vec4 pRandoms = fract(uintBitsToFloat(texture(particleRandoms, uv)));
+    vec4 pRandoms = fract(vec4(texture(particleRandoms, uv)) / maxUint);
     vec4 pBasics = texture(particleBasics, uv);
 
     particleUpdate = vec4(0.0,0.0,0.0,1.0);
     //particleUpdate.x = pBasics.x + (globalSpeed * pRandoms.x * deltaTime.x / 1000.0);
     //particleUpdate.y = pBasics.y + (globalSpeed * pRandoms.y * deltaTime.x / 1000.0);
+    //particleUpdate.x = pBasics.x + pRandoms.x;
+    //particleUpdate.y = pBasics.y + pRandoms.y;
 
-    particleUpdate.xy = pRandoms.xy;
+    //particleUpdate.xy = pRandoms.xy;
   }
 </script>
 
 <script type="x-shader/x-vertex" id="vsFieldPoints">
 uniform sampler2D particleBasics;
-uniform vec2 resolution;
 
 layout(location = 0) in int a_index;
 
@@ -98,7 +100,8 @@ void main()
   ivec2 texSize = textureSize(particleBasics, 0);
 
   ivec2 texel = ivec2(a_index % texSize.x, a_index / texSize.x);
-  vec4 pBasics = texelFetch(particleBasics, texel, 0);
+  //vec4 pBasics = texelFetch(particleBasics, texel, 0);
+  vec4 pBasics = clamp(texelFetch(particleBasics, texel, 0), -0.9, 0.9);
 
   v_particleId = a_index;
   v_position = vec4(pBasics.x, pBasics.y, 0.0, 1.0);
