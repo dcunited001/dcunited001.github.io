@@ -32,9 +32,11 @@ uniform usampler2D particleRandoms;
 in vec2 v_st;
 in vec3 v_position;
 
-layout(location = 0) out uvec4 randomColor;
+out uvec4 randomColor;
 
 void main() {
+  // TODO: change to use floats instead of integers
+
   vec2 uv = gl_FragCoord.xy / resolution.xy;
   uvec4 texel = texture(particleRandoms, uv);
 
@@ -50,7 +52,6 @@ void main() {
   texels[2] = texture(particleRandoms, texelCoords[2]);
   texels[3] = texture(particleRandoms, texelCoords[3]);
 
-
   uvec4 newTexel = (randomStepSeed ^ texel ^ texels[0] ^ texels[1] ^ texels[2] ^ texels[3]);
   randomColor = uvec4(newTexel.x, newTexel.y, newTexel.z, newTexel.w); // TODO: fix alpha to max for integers
 }
@@ -59,29 +60,35 @@ void main() {
 <script type="x-shader/x-fragment" id="fsParticleUpdate">
   uniform vec2 resolution;
   uniform vec4 deltaTime;
-  uniform usampler2D particleRandoms;
+  uniform sampler2D particleRandoms;
   uniform sampler2D particleBasics;
 
   in vec2 v_st;
   in vec3 v_position;
 
-  layout(location = 0) out vec4 particleUpdate;
+  out vec4 particleUpdate;
 
   void main() {
     float globalSpeed = 32.0;
     float maxUint = 4294967295.0;
 
     vec2 uv = gl_FragCoord.xy / resolution.xy;
-    vec4 pRandoms = fract(vec4(texture(particleRandoms, uv)) / maxUint);
+
+    // TODO: figure out why sampling this texture throws an invalid operation
+    //uvec4 randoms = texture(particleRandoms, uv);
+    //vec4 pRandoms = vec4(float(randoms.x), float(randoms.y), float(randoms.z), float(randoms.w));
+    vec4 randoms = texture(particleRandoms, uv);
     vec4 pBasics = texture(particleBasics, uv);
 
     particleUpdate = vec4(0.0,0.0,0.0,1.0);
+    //particleUpdate = pBasics;
+    //particleUpdate.x += 0.001;
     //particleUpdate.x = pBasics.x + (globalSpeed * pRandoms.x * deltaTime.x / 1000.0);
     //particleUpdate.y = pBasics.y + (globalSpeed * pRandoms.y * deltaTime.x / 1000.0);
     //particleUpdate.x = pBasics.x + pRandoms.x;
     //particleUpdate.y = pBasics.y + pRandoms.y;
 
-    //particleUpdate.xy = pRandoms.xy;
+    particleUpdate.xy = randoms.xy;
   }
 </script>
 
@@ -100,8 +107,8 @@ void main()
   ivec2 texSize = textureSize(particleBasics, 0);
 
   ivec2 texel = ivec2(a_index % texSize.x, a_index / texSize.x);
-  //vec4 pBasics = texelFetch(particleBasics, texel, 0);
-  vec4 pBasics = clamp(texelFetch(particleBasics, texel, 0), -0.9, 0.9);
+  vec4 pBasics = texelFetch(particleBasics, texel, 0);
+  //vec4 pBasics = clamp(texelFetch(particleBasics, texel, 0), -0.9, 0.9);
 
   v_particleId = a_index;
   v_position = vec4(pBasics.x, pBasics.y, 0.0, 1.0);
