@@ -25,20 +25,24 @@ void main() {
 </script>
 
 <script type="x-shader/x-fragment" id="fsParticleRandoms">
+uniform vec4 randomStepSeed;
 uniform vec2 resolution;
-uniform uvec4 randomStepSeed;
-uniform usampler2D particleRandoms;
+uniform sampler2D particleRandoms;
 
 in vec2 v_st;
 in vec3 v_position;
 
-out uvec4 randomColor;
+out vec4 randomColor;
 
 void main() {
-  // TODO: change to use floats instead of integers
-
   vec2 uv = gl_FragCoord.xy / resolution.xy;
-  uvec4 texel = texture(particleRandoms, uv);
+
+  // TODO: change to use floats instead of integers
+  //vec4 texel2 = texture(particleRandoms, uv);
+  //randomColor = texel2;
+
+  ivec4 texel = floatBitsToInt(texture(particleRandoms, uv));
+  randomColor = intBitsToFloat(texel);
 
   vec2 texelCoords[4];
   texelCoords[0] = mod(gl_FragCoord.xy + vec2( 0.0, -1.0), resolution.xy) / resolution.xy;
@@ -46,14 +50,16 @@ void main() {
   texelCoords[2] = mod(gl_FragCoord.xy + vec2( 0.0,  1.0), resolution.xy) / resolution.xy;
   texelCoords[3] = mod(gl_FragCoord.xy + vec2(-1.0,  1.0), resolution.xy) / resolution.xy;
 
-  uvec4 texels[4];
-  texels[0] = texture(particleRandoms, texelCoords[0]);
-  texels[1] = texture(particleRandoms, texelCoords[1]);
-  texels[2] = texture(particleRandoms, texelCoords[2]);
-  texels[3] = texture(particleRandoms, texelCoords[3]);
+  ivec4 texels[4];
+  texels[0] = floatBitsToInt(texture(particleRandoms, texelCoords[0]));
+  texels[1] = floatBitsToInt(texture(particleRandoms, texelCoords[1]));
+  texels[2] = floatBitsToInt(texture(particleRandoms, texelCoords[2]));
+  texels[3] = floatBitsToInt(texture(particleRandoms, texelCoords[3]));
 
-  uvec4 newTexel = (randomStepSeed ^ texel ^ texels[0] ^ texels[1] ^ texels[2] ^ texels[3]);
-  randomColor = uvec4(newTexel.x, newTexel.y, newTexel.z, newTexel.w); // TODO: fix alpha to max for integers
+  ivec4 intSeed = floatBitsToInt(randomStepSeed);
+  ivec4 newTexel = (intSeed ^ texel ^ texels[0] ^ texels[1] ^ texels[2] ^ texels[3]);
+  randomColor = fract(intBitsToFloat(newTexel));
+  //randomColor = uvec4(newTexel.x, newTexel.y, newTexel.z, newTexel.w); // TODO: fix alpha to max for integers
 }
 </script>
 
@@ -81,14 +87,14 @@ void main() {
     vec4 pBasics = texture(particleBasics, uv);
 
     particleUpdate = vec4(0.0,0.0,0.0,1.0);
-    //particleUpdate = pBasics;
-    //particleUpdate.x += 0.001;
+    //particleUpdate.xy = randoms.xy;
+    //particleUpdate.x = 1 - particleUpdate.x;
     //particleUpdate.x = pBasics.x + (globalSpeed * pRandoms.x * deltaTime.x / 1000.0);
     //particleUpdate.y = pBasics.y + (globalSpeed * pRandoms.y * deltaTime.x / 1000.0);
     //particleUpdate.x = pBasics.x + pRandoms.x;
     //particleUpdate.y = pBasics.y + pRandoms.y;
 
-    particleUpdate.xy = randoms.xy;
+
   }
 </script>
 
@@ -195,6 +201,18 @@ void main() {
   repelField = vec4(repel, 0.0, 0.0, 1.0);
   attractField = vec4(attract, 0.0, 0.0, 1.0);
 
+}
+</script>
+
+<script type="x-shader/x-fragment" id="fsTestRandoms">
+uniform vec2 resolution;
+uniform sampler2D particleBasics;
+
+out vec4 color;
+
+void main() {
+  vec2 uv = gl_FragCoord.xy / resolution.xy;
+  color = texture(particleBasics, uv);
 }
 </script>
 
