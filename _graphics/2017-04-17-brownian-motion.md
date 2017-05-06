@@ -24,49 +24,6 @@ void main() {
 }
 </script>
 
-<script type="x-shader/x-fragment" id="fsParticleRandoms">
-uniform vec4 randomSeed;
-uniform vec2 randomRange;
-uniform vec2 resolution;
-uniform sampler2D particleRandoms;
-
-in vec2 v_st;
-in vec3 v_position;
-
-out vec4 random;
-
-void main() {
-   // TODO: invert & re-transform: newTexel * range + min;
-
-  float min = randomRange.x;
-  float max = randomRange.y;
-
-  vec2 uv = gl_FragCoord.xy / resolution.xy;
-  vec4 texel = texture(particleRandoms, uv);
-
-  vec2 texelCoords[4];
-  texelCoords[0] = mod(gl_FragCoord.xy + vec2( 0.0, -1.0), resolution.xy) / resolution.xy;
-  texelCoords[1] = mod(gl_FragCoord.xy + vec2( 1.0,  0.0), resolution.xy) / resolution.xy;
-  texelCoords[2] = mod(gl_FragCoord.xy + vec2( 0.0,  1.0), resolution.xy) / resolution.xy;
-  texelCoords[3] = mod(gl_FragCoord.xy + vec2(-1.0,  1.0), resolution.xy) / resolution.xy;
-
-  vec4 texels[4];
-  texels[0] = texture(particleRandoms, texelCoords[0]);
-  texels[1] = texture(particleRandoms, texelCoords[1]);
-  texels[2] = texture(particleRandoms, texelCoords[2]);
-  texels[3] = texture(particleRandoms, texelCoords[3]);
-
-  vec4 newTexel = fract(3.0 * texel -
-    fract(5.0  * texels[0]) +
-    fract(7.0  * texels[1]) -
-    fract(11.0 * texels[2]) +
-    fract(13.0 * texels[3] * randomSeed));
-
-  // output is shifted towards zero... benford's paradox?
-  random = newTexel;
-}
-</script>
-
 <script type="x-shader/x-fragment" id="fsParticleIntRandoms">
 uniform ivec4 randomSeed;
 uniform vec2 resolution;
@@ -103,7 +60,7 @@ void main() {
   uniform vec2 resolution;
   uniform vec4 deltaTime;
   uniform sampler2D particleRandoms;
-  uniform sampler2D particleBasics;
+  uniform sampler2D particles;
 
   in vec2 v_st;
   in vec3 v_position;
@@ -120,7 +77,7 @@ void main() {
     //uvec4 randoms = texture(particleRandoms, uv);
     //vec4 pRandoms = vec4(float(randoms.x), float(randoms.y), float(randoms.z), float(randoms.w));
     vec4 randoms = texture(particleRandoms, uv);
-    vec4 pBasics = texture(particleBasics, uv);
+    vec4 pBasics = texture(particles, uv);
 
     particleUpdate = vec4(0.0,0.0,0.0,1.0);
     //particleUpdate.xy = randoms.xy;
@@ -134,8 +91,8 @@ void main() {
 </script>
 
 <script type="x-shader/x-vertex" id="vsFieldPoints">
-//uniform sampler2D particleBasics;
-uniform isampler2D particleBasics;
+//uniform sampler2D particles;
+uniform isampler2D particles;
 
 layout(location = 0) in int a_index;
 
@@ -148,10 +105,10 @@ void main()
   float maxInt = 2147483647.0;
 
   // textureSize must return ivec & texelFetch must accept ivec
-  ivec2 texSize = textureSize(particleBasics, 0);
+  ivec2 texSize = textureSize(particles, 0);
 
   ivec2 texel = ivec2(a_index % texSize.x, a_index / texSize.x);
-  vec4 pBasics = vec4(texelFetch(particleBasics, texel, 0)) / maxInt;
+  vec4 pBasics = vec4(texelFetch(particles, texel, 0)) / maxInt;
 
   v_particleId = a_index;
   v_position = vec4(pBasics.x, pBasics.y, 0.0, 1.0);
@@ -185,7 +142,7 @@ uniform int ballSize;
 uniform float repelMag;
 uniform float attractMag;
 
-uniform sampler2D particleBasics;
+uniform sampler2D particles;
 uniform sampler2D fieldPoints;
 
 layout(location = 0) out vec4 repelField;
@@ -207,7 +164,7 @@ void main() {
 
   int ballSizeOffset = - ballSize / 2;
 
-  ivec2 pBasicsSize = textureSize(particleBasics, 0);
+  ivec2 pBasicsSize = textureSize(particles, 0);
 
   for (int i = ballSizeOffset; i < ballSizeOffset + ballSize; i++) {
     for (int j = ballSizeOffset; j < ballSizeOffset + ballSize; j++) {
@@ -220,7 +177,7 @@ void main() {
       int pBasicIdx = floatBitsToInt(point.x);
 
       ivec2 pBasicTexel = ivec2(pBasicIdx % pBasicsSize.x, pBasicIdx / pBasicsSize.x);
-      vec4 pBasic = texelFetch(particleBasics, pBasicTexel, 0);
+      vec4 pBasic = texelFetch(particles, pBasicTexel, 0);
 
       float d = distance(pBasic.xy, texelCoordsNoMod) + 0.0001;
 
@@ -243,13 +200,13 @@ void main() {
 
 <script type="x-shader/x-fragment" id="fsTestRandoms">
 uniform vec2 resolution;
-uniform sampler2D particleBasics;
+uniform sampler2D particles;
 
 out vec4 color;
 
 void main() {
   vec2 uv = gl_FragCoord.xy / resolution.xy;
-  color = texture(particleBasics, uv);
+  color = texture(particles, uv);
 }
 </script>
 
