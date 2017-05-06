@@ -25,7 +25,8 @@ void main() {
 </script>
 
 <script type="x-shader/x-fragment" id="fsParticleRandoms">
-uniform vec4 randomStepSeed;
+uniform vec4 randomSeed;
+uniform vec2 randomRange;
 uniform vec2 resolution;
 uniform sampler2D particleRandoms;
 
@@ -36,13 +37,7 @@ out vec4 randomColor;
 
 void main() {
   vec2 uv = gl_FragCoord.xy / resolution.xy;
-
-  // TODO: change to use floats instead of integers
-  //vec4 texel2 = texture(particleRandoms, uv);
-  //randomColor = texel2;
-
-  ivec4 texel = floatBitsToInt(texture(particleRandoms, uv));
-  randomColor = intBitsToFloat(texel);
+  vec4 texel = texture(particleRandoms, uv);
 
   vec2 texelCoords[4];
   texelCoords[0] = mod(gl_FragCoord.xy + vec2( 0.0, -1.0), resolution.xy) / resolution.xy;
@@ -50,16 +45,19 @@ void main() {
   texelCoords[2] = mod(gl_FragCoord.xy + vec2( 0.0,  1.0), resolution.xy) / resolution.xy;
   texelCoords[3] = mod(gl_FragCoord.xy + vec2(-1.0,  1.0), resolution.xy) / resolution.xy;
 
-  ivec4 texels[4];
-  texels[0] = floatBitsToInt(texture(particleRandoms, texelCoords[0]));
-  texels[1] = floatBitsToInt(texture(particleRandoms, texelCoords[1]));
-  texels[2] = floatBitsToInt(texture(particleRandoms, texelCoords[2]));
-  texels[3] = floatBitsToInt(texture(particleRandoms, texelCoords[3]));
+  vec4 texels[4];
+  texels[0] = texture(particleRandoms, texelCoords[0]);
+  texels[1] = texture(particleRandoms, texelCoords[1]);
+  texels[2] = texture(particleRandoms, texelCoords[2]);
+  texels[3] = texture(particleRandoms, texelCoords[3]);
 
-  ivec4 intSeed = floatBitsToInt(randomStepSeed);
-  ivec4 newTexel = (intSeed ^ texel ^ texels[0] ^ texels[1] ^ texels[2] ^ texels[3]);
-  randomColor = fract(intBitsToFloat(newTexel));
-  //randomColor = uvec4(newTexel.x, newTexel.y, newTexel.z, newTexel.w); // TODO: fix alpha to max for integers
+  vec4 newTexel = fract(3.0 * texel -
+    fract(5.0  * texels[0]) +
+    fract(7.0  * texels[1]) -
+    fract(11.0 * texels[2]) +
+    fract(13.0 * texels[3] * randomSeed));
+
+  randomColor = newTexel;
 }
 </script>
 
@@ -118,7 +116,7 @@ void main()
 
   v_particleId = a_index;
   v_position = vec4(pBasics.x, pBasics.y, 0.0, 1.0);
-  v_pointSize = 5.0;
+  v_pointSize = 3.0;
 
   gl_Position = v_position;
   gl_PointSize = v_pointSize;
