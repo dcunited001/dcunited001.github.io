@@ -627,7 +627,7 @@ function runWebGL() {
     return indices;
   }
 
-  var PARTICLE_FB_HEIGHT = 100;
+  var PARTICLE_FB_HEIGHT = 32;
   var PARTICLE_FB_WIDTH = 32;
   var PARTICLE_COUNT = PARTICLE_FB_HEIGHT * PARTICLE_FB_WIDTH;
 
@@ -674,7 +674,6 @@ function runWebGL() {
     gl.bindTexture(gl.TEXTURE_2D, tex);
 
     gl.texStorage2D(gl.TEXTURE_2D, 1, gl.RGBA32F, PARTICLE_FB_WIDTH, PARTICLE_FB_HEIGHT);
-
     gl.texParameteri(gl.TEXTURE_2D, gl.TEXTURE_WRAP_S, gl.CLAMP_TO_EDGE);
     gl.texParameteri(gl.TEXTURE_2D, gl.TEXTURE_WRAP_T, gl.CLAMP_TO_EDGE);
     gl.texParameteri(gl.TEXTURE_2D, gl.TEXTURE_MIN_FILTER, gl.NEAREST);
@@ -740,7 +739,6 @@ function runWebGL() {
     var tex = gl.createTexture();
     gl.bindTexture(gl.TEXTURE_2D, tex);
     gl.texStorage2D(gl.TEXTURE_2D, 1, gl.RGBA32F, WIN_X, WIN_Y);
-
     gl.texParameteri(gl.TEXTURE_2D, gl.TEXTURE_WRAP_S, gl.CLAMP_TO_EDGE);
     gl.texParameteri(gl.TEXTURE_2D, gl.TEXTURE_WRAP_T, gl.CLAMP_TO_EDGE);
     gl.texParameteri(gl.TEXTURE_2D, gl.TEXTURE_MIN_FILTER, gl.LINEAR);
@@ -754,7 +752,6 @@ function runWebGL() {
     var tex = gl.createTexture();
     gl.bindTexture(gl.TEXTURE_2D, tex);
     gl.texStorage2D(gl.TEXTURE_2D, 1, gl.RGBA32F, WIN_X, WIN_Y);
-
     gl.texParameteri(gl.TEXTURE_2D, gl.TEXTURE_WRAP_S, gl.CLAMP_TO_EDGE);
     gl.texParameteri(gl.TEXTURE_2D, gl.TEXTURE_WRAP_T, gl.CLAMP_TO_EDGE);
     gl.texParameteri(gl.TEXTURE_2D, gl.TEXTURE_MIN_FILTER, gl.LINEAR);
@@ -769,7 +766,6 @@ function runWebGL() {
 
     gl.bindTexture(gl.TEXTURE_2D, tex);
     gl.texStorage2D(gl.TEXTURE_2D, 1, gl.RGBA32F, WIN_X, WIN_Y);
-
     gl.texParameteri(gl.TEXTURE_2D, gl.TEXTURE_WRAP_S, gl.CLAMP_TO_EDGE);
     gl.texParameteri(gl.TEXTURE_2D, gl.TEXTURE_WRAP_T, gl.CLAMP_TO_EDGE);
     gl.texParameteri(gl.TEXTURE_2D, gl.TEXTURE_MIN_FILTER, gl.LINEAR);
@@ -856,16 +852,15 @@ function runWebGL() {
   // configure framebuffers
   // =======================================
 
-  var randomFb = [0,1,2].map((i) => {
+  var particleFb = [0,1,2].map((i) => {
     var fb = gl.createFramebuffer();
     gl.bindFramebuffer(gl.DRAW_FRAMEBUFFER, fb);
-    //gl.framebufferTexture2D(gl.DRAW_FRAMEBUFFER, gl.COLOR_ATTACHMENT0, gl.TEXTURE_2D, particleRandomsAttachments[i], 0);
     gl.framebufferTexture2D(gl.DRAW_FRAMEBUFFER, gl.COLOR_ATTACHMENT0, gl.TEXTURE_2D, particleIntRandomsAttachments[i], 0);
+    //gl.framebufferTexture2D(gl.DRAW_FRAMEBUFFER, gl.COLOR_ATTACHMENT0, gl.TEXTURE_2D, particleBasicsAttachments[i], 0);
     gl.bindFramebuffer(gl.DRAW_FRAMEBUFFER, null);
     return fb;
   });
 
-  var particleFb = gl.createFramebuffer();
   var fieldFb = gl.createFramebuffer();
 
   // =======================================
@@ -878,8 +873,8 @@ function runWebGL() {
     beforeEncode: (context, uniforms, options) => {
       context.bindFramebuffer(context.DRAW_FRAMEBUFFER, options.framebuffer);
       context.viewport(0,0,uniforms.resolution[0], uniforms.resolution[1]);
-      context.clearColor(0, 0, 0, 0);
-      context.clear(context.COLOR_BUFFER_BIT);
+      context.clearBufferiv(context.COLOR, 0, new Int32Array([0,0,0,0]));
+      context.clearBufferiv(context.COLOR, 1, new Float32Array([0.0,0.0,0.0,0.0]));
     },
     encodeUniforms: (context, uniforms, options) => {
       context.uniform2fv(renderPassRandoms.uniformLocations.resolution, uniforms.resolution);
@@ -1162,7 +1157,7 @@ function runWebGL() {
     };
 
     renderPassRandoms.encode(randomUniforms, {
-      framebuffer: randomFb[randomsRp.getNextId()],
+      framebuffer: particleFb[randomsRp.getNextId()],
       particleRandoms: randomsRp.getCurrent('particleIntRandoms'),
       //particleRandomsNext: randomsRp.getNext('particleRandoms')
     });
