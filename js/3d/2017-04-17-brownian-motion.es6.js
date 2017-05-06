@@ -666,14 +666,12 @@ function runWebGL() {
     gl.activeTexture(gl.TEXTURE0);
     var tex = gl.createTexture();
     gl.bindTexture(gl.TEXTURE_2D, tex);
-
     gl.texStorage2D(gl.TEXTURE_2D, 1, gl.RGBA32I, PARTICLE_FB_WIDTH, PARTICLE_FB_HEIGHT);
-
     gl.texParameteri(gl.TEXTURE_2D, gl.TEXTURE_WRAP_S, gl.CLAMP_TO_EDGE);
     gl.texParameteri(gl.TEXTURE_2D, gl.TEXTURE_WRAP_T, gl.CLAMP_TO_EDGE);
     gl.texParameteri(gl.TEXTURE_2D, gl.TEXTURE_MIN_FILTER, gl.NEAREST);
     gl.texParameteri(gl.TEXTURE_2D, gl.TEXTURE_MAG_FILTER, gl.NEAREST);
-
+    gl.bindTexture(gl.TEXTURE_2D, null);
     return tex;
   });
 
@@ -688,12 +686,28 @@ function runWebGL() {
     gl.texParameteri(gl.TEXTURE_2D, gl.TEXTURE_WRAP_T, gl.CLAMP_TO_EDGE);
     gl.texParameteri(gl.TEXTURE_2D, gl.TEXTURE_MIN_FILTER, gl.NEAREST);
     gl.texParameteri(gl.TEXTURE_2D, gl.TEXTURE_MAG_FILTER, gl.NEAREST);
-
+    gl.bindTexture(gl.TEXTURE_2D, null);
     return tex;
   });
 
-  gl.activeTexture(gl.T)
-  particleAttributes =
+  gl.activeTexture(gl.TEXTURE0);
+  var particleAttributes = gl.createTexture();
+  gl.bindTexture(gl.TEXTURE_2D, particleAttributes);
+  gl.texStorage2D(gl.TEXTURE_2D, 1, gl.RGBA32F, PARTICLE_FB_WIDTH, PARTICLE_FB_HEIGHT);
+  gl.texParameteri(gl.TEXTURE_2D, gl.TEXTURE_WRAP_S, gl.CLAMP_TO_EDGE);
+  gl.texParameteri(gl.TEXTURE_2D, gl.TEXTURE_WRAP_T, gl.CLAMP_TO_EDGE);
+  gl.texParameteri(gl.TEXTURE_2D, gl.TEXTURE_MIN_FILTER, gl.NEAREST);
+  gl.texParameteri(gl.TEXTURE_2D, gl.TEXTURE_MAG_FILTER, gl.NEAREST);
+  gl.texSubImage2D(gl.TEXTURE_2D,
+    0,
+    0, // x offset
+    0, // y offset
+    PARTICLE_FB_WIDTH,
+    PARTICLE_FB_HEIGHT,
+    gl.RGBA,
+    gl.FLOAT,
+    generateFloat32Randoms(PARTICLE_FB_WIDTH, PARTICLE_FB_HEIGHT, 4, 0.5, 1.0));
+  gl.bindTexture(gl.TEXTURE_2D, null);
 
   // =======================================
   // Field Framebuffer: Color Attachments
@@ -834,7 +848,6 @@ function runWebGL() {
 
   particlesRp.registerTextures('particleRandoms', particleRandomsAttachments);
   particlesRp.registerTextures('particles', particleAttachments);
-  particlesRp.registerTextures('particleAttributes', particleAttributeAttachments);
 
   rp.registerTextures('repelField', repelFieldAttachments);
   rp.registerTextures('attractField', attractFieldAttachments);
@@ -873,8 +886,6 @@ function runWebGL() {
 
       context.activeTexture(context.TEXTURE1);
       context.bindTexture(context.TEXTURE_2D, options.particles);
-
-
     },
     encodeDraw: (context, uniforms, options) => {
 
@@ -904,10 +915,14 @@ function runWebGL() {
     },
     encodeUniforms: (context, uniforms, options) => {
       context.uniform1i(rpFieldPoints.uniformLocations.particles, uniforms.particlesLocation);
+      context.uniform1i(rpFieldPoints.uniformLocations.particleAttributes, uniforms.particleAttributesLocation);
       context.uniform2fv(rpFieldPoints.uniformLocations.resolution, uniforms.resolution);
 
       context.activeTexture(context.TEXTURE0);
       context.bindTexture(context.TEXTURE_2D, options.particles);
+
+      context.activeTexture(context.TEXTURE1);
+      context.bindTexture(context.TEXTURE_2D, options.particleAttributes);
     },
     encodeDraw: (context, uniforms, options) => {
       context.bindVertexArray(particleVertexArray);
@@ -917,7 +932,8 @@ function runWebGL() {
 
   rpFieldPoints.initUniformLocations([
     'resolution',
-    'particles'
+    'particles',
+    'particleAttributes'
   ]);
 
   rpFieldPoints.setUniformLocations();
@@ -1116,7 +1132,8 @@ function runWebGL() {
 
     var rpFieldPointsUniforms = {
       resolution: renderResolution,
-      particlesLocation: 0
+      particlesLocation: 0,
+      particleAttributesLocation: 1
     };
 
     //gl.drawBuffers([
@@ -1127,7 +1144,8 @@ function runWebGL() {
 
     rpFieldPoints.encode(rpFieldPointsUniforms, {
       //particles: particlesRp.getCurrent('particleRandoms')
-      particles: particlesRp.getCurrent('particles')
+      particles: particlesRp.getCurrent('particles'),
+      particleAttributes: particleAttributes
       //particles: rp.getNext('particles')
       //particles: rp.getNext('particles')
     });
