@@ -33,9 +33,14 @@ uniform sampler2D particleRandoms;
 in vec2 v_st;
 in vec3 v_position;
 
-out vec4 randomColor;
+out vec4 random;
 
 void main() {
+   // TODO: invert & re-transform: newTexel * range + min;
+
+  float min = randomRange.x;
+  float max = randomRange.y;
+
   vec2 uv = gl_FragCoord.xy / resolution.xy;
   vec4 texel = texture(particleRandoms, uv);
 
@@ -57,7 +62,40 @@ void main() {
     fract(11.0 * texels[2]) +
     fract(13.0 * texels[3] * randomSeed));
 
-  randomColor = newTexel;
+  // output is shifted towards zero... benford's paradox?
+  random = newTexel;
+}
+</script>
+
+<script type="x-shader/x-fragment" id="fsParticleIntRandoms">
+uniform ivec4 randomSeed;
+uniform vec2 resolution;
+uniform isampler2D particleRandoms;
+
+in vec2 v_st;
+in vec3 v_position;
+
+out ivec4 random;
+
+void main() {
+  vec2 uv = gl_FragCoord.xy / resolution.xy;
+  ivec4 texel = texture(particleRandoms, uv);
+
+  vec2 texelCoords[4];
+  texelCoords[0] = mod(gl_FragCoord.xy + vec2( 0.0, -1.0), resolution.xy) / resolution.xy;
+  texelCoords[1] = mod(gl_FragCoord.xy + vec2( 1.0,  0.0), resolution.xy) / resolution.xy;
+  texelCoords[2] = mod(gl_FragCoord.xy + vec2( 0.0,  1.0), resolution.xy) / resolution.xy;
+  texelCoords[3] = mod(gl_FragCoord.xy + vec2(-1.0,  1.0), resolution.xy) / resolution.xy;
+
+  ivec4 texels[4];
+  texels[0] = texture(particleRandoms, texelCoords[0]);
+  texels[1] = texture(particleRandoms, texelCoords[1]);
+  texels[2] = texture(particleRandoms, texelCoords[2]);
+  texels[3] = texture(particleRandoms, texelCoords[3]);
+
+  ivec4 newTexel = randomSeed ^ texel ^ texel[0] ^ texel[1] ^ texel[2] ^ texel[3];
+
+  random = newTexel;
 }
 </script>
 
@@ -92,12 +130,12 @@ void main() {
     //particleUpdate.x = pBasics.x + pRandoms.x;
     //particleUpdate.y = pBasics.y + pRandoms.y;
 
-
   }
 </script>
 
 <script type="x-shader/x-vertex" id="vsFieldPoints">
-uniform sampler2D particleBasics;
+//uniform sampler2D particleBasics;
+uniform isampler2D particleBasics;
 
 layout(location = 0) in int a_index;
 
@@ -107,12 +145,13 @@ out vec4 v_position;
 
 void main()
 {
+  float maxInt = 2147483647.0;
+
   // textureSize must return ivec & texelFetch must accept ivec
   ivec2 texSize = textureSize(particleBasics, 0);
 
   ivec2 texel = ivec2(a_index % texSize.x, a_index / texSize.x);
-  vec4 pBasics = texelFetch(particleBasics, texel, 0);
-  //vec4 pBasics = clamp(texelFetch(particleBasics, texel, 0), -0.9, 0.9);
+  vec4 pBasics = vec4(texelFetch(particleBasics, texel, 0)) / maxInt;
 
   v_particleId = a_index;
   v_position = vec4(pBasics.x, pBasics.y, 0.0, 1.0);
