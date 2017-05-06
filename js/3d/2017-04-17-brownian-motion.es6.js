@@ -551,8 +551,8 @@ function runWebGL() {
   var programRandomTexture = createProgram(gl, vsPass, fsParticleRandoms);
   //var programParticleGradient = createProgram(gl, vsPass, shaderTest);
   var programParticleUpdate = createProgram(gl, vsPass, fsParticleUpdate);
-  var programFieldPoints = createProgram(gl, vsPass, fsTestRandoms);
-  //var programFieldPoints = createProgram(gl, vsFieldPoints, fsFieldPoints);
+  //var programFieldPoints = createProgram(gl, vsPass, fsTestRandoms);
+  var programFieldPoints = createProgram(gl, vsFieldPoints, fsFieldPoints);
   var programField = createProgram(gl, vsPass, fsField);
   // TODO: programFieldGradient (may need another size of texture)
   var programFinal = createProgram(gl, vsPass, fsTest);
@@ -575,15 +575,18 @@ function runWebGL() {
   // TODO: generate initial texture to use for particle positions
   // TODO: generate initial texture to use for randoms
 
-  function generateFloat32Randoms(w, h, n) {
+  function generateFloat32Randoms(w, h, n, max = 1, min = 0) {
     var randoms = new Float32Array(w * h * n);
+    var range = max - min;
+    var mid = min + range/2;
     for (var i = 0; i < (w * h * n); i++) {
-      randoms[i] = Math.random() - 0.5;
+      randoms[i] = Math.random() * range + min;
     }
     return randoms
   }
 
   function generateUInt32Randoms(w, h, n) {
+    // TODO: generate with min/max
     var randoms = new Uint32Array(w * h * n);
     for (var i = 0; i < (w * h * n); i++) {
       randoms[i] = Math.trunc(Math.random() * UINT32_MAX);
@@ -835,15 +838,14 @@ function runWebGL() {
     },
     encodeUniforms: (context, uniforms, options) => {
       context.uniform2fv(renderPassRandoms.uniformLocations.resolution, uniforms.resolution);
-      context.uniform4fv(renderPassRandoms.uniformLocations.randomStepSeed, uniforms.randomStepSeed);
+      context.uniform4fv(renderPassRandoms.uniformLocations.randomSeed, uniforms.randomSeed);
+      //context.uniform2fv(renderPassRandoms.uniformLocations.randomRange, uniforms.randomRange);
       context.uniform1i(renderPassRandoms.uniformLocations.particleRandoms, uniforms.particleRandomsLocation);
 
       context.activeTexture(context.TEXTURE0);
       context.bindTexture(context.TEXTURE_2D, options.particleRandoms);
     },
     encodeDraw: (context, uniforms, options) => {
-      //context.framebufferTexture2D(context.DRAW_FRAMEBUFFER, context.COLOR_ATTACHMENT0, context.TEXTURE_2D, options.particleRandomsNext, 0);
-
       context.drawBuffers([
         context.COLOR_ATTACHMENT0
       ]);
@@ -854,14 +856,14 @@ function runWebGL() {
       context.drawArrays(context.TRIANGLES, 0, 6);
     },
     afterEncode: (context, uniforms, options) => {
-      //context.invalidateFramebuffer(context.DRAW_FRAMEBUFFER, [context.COLOR_ATTACHMENT1, context.COLOR_ATTACHMENT2]);
       context.bindFramebuffer(context.DRAW_FRAMEBUFFER, null);
     }
   });
 
   renderPassRandoms.initUniformLocations([
     'resolution',
-    'randomStepSeed',
+    'randomSeed',
+    'randomRange',
     'particleRandoms'
   ]);
 
@@ -925,11 +927,8 @@ function runWebGL() {
       context.bindTexture(context.TEXTURE_2D, options.particleBasics);
     },
     encodeDraw: (context, uniforms, options) => {
-      //context.bindVertexArray(particleVertexArray);
-      //context.drawArrays(context.POINTS, 0, PARTICLE_COUNT);
-
-      context.bindVertexArray(anyQuad.vertexArray);
-      context.drawArrays(context.TRIANGLES, 0, 6);
+      context.bindVertexArray(particleVertexArray);
+      context.drawArrays(context.POINTS, 0, PARTICLE_COUNT);
     }
   });
 
@@ -1036,7 +1035,7 @@ function runWebGL() {
   rpTest.setUniformLocations();
 
   function makeRandomUniforms() {
-    return Float32Array([
+    return new Float32Array([
       Math.random(),
       Math.random(),
       Math.random(),
@@ -1101,7 +1100,7 @@ function runWebGL() {
 
     var randomUniforms = {
       resolution: particleResolution,
-      randomStepSeed: makeRandomUniforms(),
+      randomSeed: makeRandomUniforms(),
       particleRandomsLocation: 0 // TEXTURE0
     };
 
@@ -1165,7 +1164,6 @@ function runWebGL() {
 
     rp.increment();
 
-    //
     //// -- pass 4: render the field,
     //// - for each point on the texture, aggregate contributions from surrounding pixels
     //
@@ -1220,8 +1218,8 @@ function runWebGL() {
     framecount++;
 
     //if (frameMax !== undefined && framecount < frameMax) {
-    //requestAnimationFrame(render);
-    setTimeout(function() { requestAnimationFrame(render); }, 500);
+    requestAnimationFrame(render);
+    //setTimeout(function() { requestAnimationFrame(render); }, 500);
     //}
   }
 
