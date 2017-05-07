@@ -39,8 +39,9 @@ in vec3 v_position;
 layout(location = 0) out ivec4 random;
 layout(location = 1) out vec4 particle;
 
+const float maxInt = 2147483647.0;
+
 void main() {
-  float maxInt = 2147483647.0;
   vec2 uv = gl_FragCoord.xy / resolution.xy;
 
   // =======================================
@@ -50,7 +51,7 @@ void main() {
   ivec4 randomTexel = texture(particleRandoms, uv);
 
   vec2 texelCoords[4];
-  texelCoords[0] = mod(gl_FragCoord.xy + vec2( 0.0, -1.0), resolution.xy) / resolution.xy;
+  texelCoords[0] = mod(gl_FragCoord.xy + vec2( 0.0, -2.0), resolution.xy) / resolution.xy;
   texelCoords[1] = mod(gl_FragCoord.xy + vec2( 1.0,  0.0), resolution.xy) / resolution.xy;
   texelCoords[2] = mod(gl_FragCoord.xy + vec2( 0.0,  1.0), resolution.xy) / resolution.xy;
   texelCoords[3] = mod(gl_FragCoord.xy + vec2(-1.0,  1.0), resolution.xy) / resolution.xy;
@@ -68,7 +69,7 @@ void main() {
   // Update Particles
   // =======================================
 
-  vec4 newRandomFloat = vec4(newRandom) / maxInt;
+  vec4 newRandomFloat = fract(vec4(newRandom) / maxInt + 0.5) - 0.5 ;
   particle = texture(particles, uv);
   particle.x += (globalSpeed * newRandomFloat.x * deltaTime.x / 1000.0);
   particle.y += (globalSpeed * newRandomFloat.y * deltaTime.x / 1000.0);
@@ -110,7 +111,6 @@ void main() {
 </script>
 
 <script type="x-shader/x-vertex" id="vsFieldPoints">
-//uniform sampler2D particles;
 uniform sampler2D particles;
 
 layout(location = 0) in int a_index;
@@ -119,15 +119,14 @@ flat out int v_particleId;
 out float v_pointSize;
 out vec4 v_position;
 
+const float maxInt = 2147483647.0;
+
 void main()
 {
-  float maxInt = 2147483647.0;
-
   // textureSize must return ivec & texelFetch must accept ivec
   ivec2 texSize = textureSize(particles, 0);
 
   ivec2 texel = ivec2(a_index % texSize.x, a_index / texSize.x);
-  //vec4 pBasics = vec4(texelFetch(particles, texel, 0)) / maxInt;
   vec4 pBasics = texelFetch(particles, texel, 0);
 
   v_particleId = a_index;
