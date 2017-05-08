@@ -722,6 +722,7 @@ function runWebGL() {
 
   var renderPassRandoms = new RenderPassConfig(gl, programIntRandomTexture, {
     beforeEncode: (context, uniforms, options) => {
+      context.blendFunc(gl.ONE, gl.ZERO);
       context.bindFramebuffer(context.DRAW_FRAMEBUFFER, options.framebuffer);
       context.viewport(0,0,uniforms.resolution[0], uniforms.resolution[1]);
       context.drawBuffers([
@@ -730,8 +731,6 @@ function runWebGL() {
       ]);
 
       checkFbStatus();
-      //context.clearBufferiv(context.COLOR, 0, new Int32Array([0,0,0,0]));
-      //context.clearBufferfv(context.COLOR, 1, [0.0,0.0,0.0,0.0]);
     },
     encodeUniforms: (context, uniforms, options) => {
       context.uniform2fv(renderPassRandoms.uniformLocations.resolution, uniforms.resolution);
@@ -770,6 +769,7 @@ function runWebGL() {
 
   var rpFieldPoints = new RenderPassConfig(gl, programFieldPoints, {
     beforeEncode: (context, uniforms, options) => {
+      context.blendFunc(gl.SRC_ALPHA, gl.ONE_MINUS_SRC_ALPHA);
       context.clearColor(0.0, 0.0, 0.0, 1.0);
       context.clear(context.COLOR_BUFFER_BIT | context.DEPTH_BUFFER_BIT);
     },
