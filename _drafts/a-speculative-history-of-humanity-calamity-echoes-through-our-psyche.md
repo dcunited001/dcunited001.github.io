@@ -1236,3 +1236,13 @@ development of mythology
       the lifetime of one group of people over another, this would
       present a major evolutionary advantage in early history
 -
+
+
+- some ancient species evolved until they reached the singularity,
+  erasing all traces of their existence using nanobots.
+  - then they terraformed the earth and laid the seeds of apocalypse
+    underneath the last ice they knew would melt once the next
+    intelligent species reached an industrial age and technological
+    maturity...
+  - then they peaced out, embarking on an astral journey to smoke weed
+    amongst the stars
