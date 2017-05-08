@@ -634,7 +634,7 @@ function runWebGL() {
     PARTICLE_FB_HEIGHT,
     gl.RGBA,
     gl.FLOAT,
-    generateFloat32Randoms(PARTICLE_FB_WIDTH, PARTICLE_FB_HEIGHT, 4, 0.5, 1.0));
+    generateFloat32Randoms(PARTICLE_FB_WIDTH, PARTICLE_FB_HEIGHT, 4, 0.25, 0.75));
   gl.bindTexture(gl.TEXTURE_2D, null);
 
   // =======================================
@@ -669,7 +669,7 @@ function runWebGL() {
         PARTICLE_FB_HEIGHT,
         context.RGBA,
         context.FLOAT,
-        generateFloat32Randoms(PARTICLE_FB_WIDTH, PARTICLE_FB_HEIGHT, 4, -1.0, 1.0));
+        generateFloat32Randoms(PARTICLE_FB_WIDTH, PARTICLE_FB_HEIGHT, 4, -0.5, 0.5));
 
     })(gl, particleAttachments, i);
 
@@ -735,7 +735,7 @@ function runWebGL() {
     encodeUniforms: (context, uniforms, options) => {
       context.uniform2fv(renderPassRandoms.uniformLocations.resolution, uniforms.resolution);
       context.uniform4iv(renderPassRandoms.uniformLocations.randomSeed, uniforms.randomSeed);
-      context.uniform1f(renderPassRandoms.uniformLocations.globalSpeed, uniforms.globalSpeed);
+      context.uniform1f(renderPassRandoms.uniformLocations.particleSpeed, uniforms.particleSpeed);
       context.uniform4fv(renderPassRandoms.uniformLocations.deltaTime, uniforms.deltaTime);
       context.uniform1i(renderPassRandoms.uniformLocations.particleRandoms, uniforms.particleRandomsLocation);
       context.uniform1i(renderPassRandoms.uniformLocations.particles, uniforms.particlesLocation);
@@ -759,7 +759,7 @@ function runWebGL() {
   renderPassRandoms.initUniformLocations([
     'resolution',
     'randomSeed',
-    'globalSpeed',
+    'particleSpeed',
     'deltaTime',
     'particleRandoms',
     'particles'
@@ -775,6 +775,7 @@ function runWebGL() {
     },
     encodeUniforms: (context, uniforms, options) => {
       context.uniform1i(rpFieldPoints.uniformLocations.particles, uniforms.particlesLocation);
+      context.uniform1f(rpFieldPoints.uniformLocations.particleSize, uniforms.particleSize);
       context.uniform1i(rpFieldPoints.uniformLocations.particleAttributes, uniforms.particleAttributesLocation);
       context.uniform2fv(rpFieldPoints.uniformLocations.resolution, uniforms.resolution);
 
@@ -786,13 +787,14 @@ function runWebGL() {
     },
     encodeDraw: (context, uniforms, options) => {
       context.bindVertexArray(particleVertexArray);
-      context.drawArrays(context.POINTS, 0, PARTICLE_COUNT);
+      context.drawArrays(context.POINTS, 0, options.particleCount);
     }
   });
 
   rpFieldPoints.initUniformLocations([
     'resolution',
     'particles',
+    'particleSize',
     'particleAttributes'
   ]);
 
@@ -855,9 +857,19 @@ function runWebGL() {
   gl.clearColor(0.0, 0.0, 0.0, 1.0);
   gl.clear(gl.COLOR_BUFFER_BIT);
 
+  var particleSpeed, particleCount, particleSize;
+
   function render() {
     updateTime();
     deltaT = updateDeltaT(deltaT, lastFrameTime);
+
+    // =======================================
+    // grab UI values
+    // =======================================
+
+    particleSpeed = document.getElementById('particle-speed').value;
+    particleCount = document.getElementById('particle-count').value;
+    particleSize = document.getElementById('particle-size').value;
 
     // =======================================
     // particle framebuffer
@@ -868,7 +880,7 @@ function runWebGL() {
     var randomUniforms = {
       resolution: particleResolution,
       randomSeed: makeIntRandomUniforms(),
-      globalSpeed: 1,
+      particleSpeed: particleSpeed,
       deltaTime: deltaT,
       particleRandomsLocation: 0,
       particlesLocation: 1
@@ -896,11 +908,13 @@ function runWebGL() {
     var rpFieldPointsUniforms = {
       resolution: renderResolution,
       particlesLocation: 0,
+      particleSize: particleSize,
       particleAttributesLocation: 1
     };
 
     rpFieldPoints.encode(rpFieldPointsUniforms, {
       particles: particlesRp.getCurrent('particles'),
+      particleCount: particleCount,
       particleAttributes: particleAttributes
     });
 
@@ -918,6 +932,7 @@ function runWebGL() {
 
   render();
 }
+
 
 window.onload = function() {
   runWebGL();
