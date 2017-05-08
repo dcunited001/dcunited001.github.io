@@ -562,8 +562,8 @@ function runWebGL() {
     return indices;
   }
 
-  var PARTICLE_FB_HEIGHT = 32;
-  var PARTICLE_FB_WIDTH = 32;
+  var PARTICLE_FB_HEIGHT = 1024;
+  var PARTICLE_FB_WIDTH = 1024;
   var PARTICLE_COUNT = PARTICLE_FB_HEIGHT * PARTICLE_FB_WIDTH;
 
   var particleIdx = generateParticleIndices(PARTICLE_FB_HEIGHT, PARTICLE_FB_WIDTH);
