@@ -1,5 +1,5 @@
 ---
-title: "Social Physics As Particle Systems"
+title: "Brownian Motion: One Million Wiener Processes"
 categories: "graphics"
 tags: "graphics computer-science"
 headline: ""
@@ -8,7 +8,22 @@ author:
 name: "David Conner"
 ---
 
-### Requires ES6 & WebGL2
+####  Requires ES6 & WebGL 2.0 &#x2605; Runs Best In Firefox (and Chrome) &#x2605; Does Not Run On Mobile
+
+<div class="row">
+  <div class="col-sm-4">
+    <label for="particle-count">Particle Count:</label>
+    <input id="particle-count" type="range" min="1024" max="1048576" step="1024" value="1024"/>
+  </div>
+  <div class="col-sm-4">
+    <label for="particle-speed">Particle Speed:</label>
+    <input id="particle-speed" type="range" min="0.025" max="10.0" step="0.025" value="1.0"/>
+  </div>
+  <div class="col-sm-4">
+    <label for="particle-size">Particle Size:</label>
+    <input id="particle-size" type="range" min="1.0" max="5.0" step="1.0" value="1.0"/>
+  </div>
+</div>
 
 <script type="x-shader/x-vertex" id="vsPass">
 layout(location = 0) in vec3 a_position;
@@ -27,7 +42,7 @@ void main() {
 <script type="x-shader/x-fragment" id="fsParticleIntRandoms">
 uniform vec2 resolution;
 uniform ivec4 randomSeed;
-uniform float globalSpeed;
+uniform float particleSpeed;
 uniform vec4 deltaTime;
 
 uniform isampler2D particleRandoms;
@@ -71,8 +86,8 @@ void main() {
 
   vec4 newRandomFloat = fract(vec4(newRandom) / maxInt + 0.5) - 0.5 ;
   particle = texture(particles, uv);
-  particle.x += (globalSpeed * newRandomFloat.x * deltaTime.x / 1000.0);
-  particle.y += (globalSpeed * newRandomFloat.y * deltaTime.x / 1000.0);
+  particle.x += (particleSpeed * newRandomFloat.x * deltaTime.x / 1000.0);
+  particle.y += (particleSpeed * newRandomFloat.y * deltaTime.x / 1000.0);
 }
 </script>
 
@@ -88,7 +103,7 @@ void main() {
   out vec4 particleUpdate;
 
   void main() {
-    float globalSpeed = 32.0;
+    float particleSpeed = 32.0;
     float maxUint = 4294967295.0;
 
     vec2 uv = gl_FragCoord.xy / resolution.xy;
@@ -102,8 +117,8 @@ void main() {
     particleUpdate = vec4(0.0,0.0,0.0,1.0);
     //particleUpdate.xy = randoms.xy;
     //particleUpdate.x = 1 - particleUpdate.x;
-    //particleUpdate.x = pBasics.x + (globalSpeed * pRandoms.x * deltaTime.x / 1000.0);
-    //particleUpdate.y = pBasics.y + (globalSpeed * pRandoms.y * deltaTime.x / 1000.0);
+    //particleUpdate.x = pBasics.x + (particleSpeed * pRandoms.x * deltaTime.x / 1000.0);
+    //particleUpdate.y = pBasics.y + (particleSpeed * pRandoms.y * deltaTime.x / 1000.0);
     //particleUpdate.x = pBasics.x + pRandoms.x;
     //particleUpdate.y = pBasics.y + pRandoms.y;
 
@@ -112,6 +127,7 @@ void main() {
 
 <script type="x-shader/x-vertex" id="vsFieldPoints">
 uniform sampler2D particles;
+//uniform float particleSize;
 
 layout(location = 0) in int a_index;
 
@@ -131,7 +147,8 @@ void main()
 
   v_particleId = a_index;
   v_position = vec4(pBasics.x, pBasics.y, 0.0, 1.0);
-  v_pointSize = 3.0;
+  //v_pointSize = particleSize;
+  v_pointSize = 1.0;
 
   gl_Position = v_position;
   gl_PointSize = v_pointSize;
