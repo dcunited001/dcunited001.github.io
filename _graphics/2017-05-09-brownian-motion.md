@@ -1,5 +1,5 @@
 ---
-title: "Brownian Motion: One Million Wiener Processes"
+title: "Brownian Motion"
 categories: "graphics"
 tags: "graphics computer-science"
 headline: ""
@@ -8,12 +8,14 @@ author:
 name: "David Conner"
 ---
 
+### One Million [Wiener Processes](https://en.wikipedia.org/wiki/Wiener_process)
+
 ####  Requires ES6 & WebGL 2.0 &#x2605; Runs Best In Firefox (and Chrome) &#x2605; Does Not Run On Mobile
 
 <div class="row">
   <div class="col-sm-4">
     <label for="particle-count">Particle Count:</label>
-    <input id="particle-count" type="range" min="1024" max="1048576" step="1024" value="1024"/>
+    <input id="particle-count" type="range" min="1024" max="1048576" step="128" value="1024"/>
   </div>
   <div class="col-sm-4">
     <label for="particle-speed">Particle Speed:</label>
@@ -24,6 +26,42 @@ name: "David Conner"
     <input id="particle-size" type="range" min="1.0" max="5.0" step="0.025" value="1.0"/>
   </div>
 </div>
+
+### Fragment Shader: fsUpdateParticles
+
+<p>
+  <figure class="highlight">
+    <pre>
+      <code id="codeFsUpdateParticles" class="language-c" data-lang="c">
+
+      </code>
+    </pre>
+  </figure>
+</p>
+
+### Vertex Shader: vsParticles
+
+<p>
+  <figure class="highlight">
+    <pre>
+      <code id="codeVsParticles" class="language-c" data-lang="c">
+
+      </code>
+    </pre>
+  </figure>
+</p>
+
+### Fragment Shader: fsParticles
+
+<p>
+  <figure class="highlight">
+    <pre>
+      <code id="codeFsParticles" class="language-c" data-lang="c">
+
+      </code>
+    </pre>
+  </figure>
+</p>
 
 <script type="x-shader/x-vertex" id="vsPass">
 layout(location = 0) in vec3 a_position;
@@ -39,7 +77,7 @@ void main() {
 }
 </script>
 
-<script type="x-shader/x-fragment" id="fsParticleIntRandoms">
+<script type="x-shader/x-fragment" id="fsUpdateParticles">
 uniform vec2 resolution;
 uniform ivec4 randomSeed;
 uniform float particleSpeed;
@@ -91,7 +129,7 @@ void main() {
 }
 </script>
 
-<script type="x-shader/x-vertex" id="vsFieldPoints">
+<script type="x-shader/x-vertex" id="vsParticles">
 uniform sampler2D particles;
 uniform float particleSize;
 
@@ -120,7 +158,7 @@ void main()
 }
 </script>
 
-<script type="x-shader/x-fragment" id="fsFieldPoints">
+<script type="x-shader/x-fragment" id="fsParticles">
 uniform vec2 resolution;
 uniform sampler2D particleAttributes;
 
@@ -135,13 +173,22 @@ void main()
   ivec2 texSize = textureSize(particleAttributes, 0);
   ivec2 texel = ivec2(v_particleId % texSize.x, v_particleId / texSize.x);
   vec4 pAttr = texelFetch(particleAttributes, texel, 0);
-
-  // TODO: blend linearly with distance(gl_FragCoord.xy, gl_PointCoord);
-
   color = vec4(pAttr.r, pAttr.g, pAttr.b, 1.0);
-  //color = vec4(intBitsToFloat(v_particleId), 0.0, 0.0, 1.0);
 }
-
 </script>
 
-<script type="text/javascript" src="/js/3d/2017-05-08-brownian-motion-one-million-wiener-processes.es6.js"></script>
+<script type="text/javascript" src="/js/3d/2017-05-09-brownian-motion.es6.js"></script>
+
+<script type="text/javascript">
+  function pasteShaderToCodeBlock(shaderId, codeBlockId) {
+    var shaderCode = document.getElementById(shaderId).textContent;
+    var processedCode = '<span class="p">' +
+        shaderCode .split('\n').join('</span>\n<span class="p">') +
+        '</span>';
+    document.getElementById(codeBlockId).innerHTML = processedCode;
+  }
+
+  pasteShaderToCodeBlock('fsUpdateParticles', 'codeFsUpdateParticles');
+  pasteShaderToCodeBlock('vsParticles', 'codeVsParticles');
+  pasteShaderToCodeBlock('fsParticles', 'codeFsParticles');
+</script>
