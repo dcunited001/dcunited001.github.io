@@ -284,7 +284,6 @@ function render() {
     matStats.map = gpuCompute.getCurrentRenderTarget(varStats).texture;
     matEntropy.map = gpuCompute.getCurrentRenderTarget(varEntropyBool).texture;
 
-
     // (for testing) prepare to update matEntropyBool/Dist material
     matEntropyBool.map = gpuCompute.getCurrentRenderTarget(varEntropyBool).texture;
 
