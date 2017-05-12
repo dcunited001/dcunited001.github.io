@@ -6186,6 +6186,13 @@ aside {
 pre {
   margin: 15px -100px; }
 
+pre.highlight {
+  padding: 0px; }
+
+pre.highlight code {
+  white-space: pre;
+  overflow-x: auto; }
+
 @media only screen and (max-width: 991px) {
   pre {
     margin-left: 0;

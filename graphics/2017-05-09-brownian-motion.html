@@ -271,6 +271,8 @@ IVVMM::::.:.:. . ... .::II:.::..:.. .. .. . . .:.:::IHH:.:HHIIHIHH':-'
 <script type="text/javascript" src="/js/jscolor.js"></script>
 <script type="text/javascript" src="/js/gl-matrix.min.js"></script>
 <script type="text/javascript" src="/js/gltf-loader.js"></script>
+<script type="text/javascript" src="/js/highlight/highlight.pack.js"></script>
+<link rel="stylesheet" href="/js/highlight/styles/zenburn.css"/>
 
 
 
@@ -337,44 +339,11 @@ IVVMM::::.:.:. . ... .::II:.::..:.. .. .. . . .:.:::IHH:.:HHIIHIHH':-'
   </div>
 </div>
 
-<h3 id="fragment-shader-fsupdateparticles">Fragment Shader: fsUpdateParticles</h3>
+<pre class="highlight">Fragment Shader: fsUpdateParticles<code id="codeFsUpdateParticles"></code></pre>
+<pre class="highlight">Vertex Shader: vsParticles<code id="codeVsParticles"></code></pre>
+<pre class="highlight">Fragment Shader: fsParticles<code id="codeFsParticles"></code></pre>
 
-<p>
-  <figure class="highlight">
-    <pre>
-      <code id="codeFsUpdateParticles" class="language-c" data-lang="c">
-
-      </code>
-    </pre>
-  </figure>
-</p>
-
-<h3 id="vertex-shader-vsparticles">Vertex Shader: vsParticles</h3>
-
-<p>
-  <figure class="highlight">
-    <pre>
-      <code id="codeVsParticles" class="language-c" data-lang="c">
-
-      </code>
-    </pre>
-  </figure>
-</p>
-
-<h3 id="fragment-shader-fsparticles">Fragment Shader: fsParticles</h3>
-
-<p>
-  <figure class="highlight">
-    <pre>
-      <code id="codeFsParticles" class="language-c" data-lang="c">
-
-      </code>
-    </pre>
-  </figure>
-</p>
-
-<script type="x-shader/x-vertex" id="vsPass">
-layout(location = 0) in vec3 a_position;
+<script type="x-shader/x-vertex" id="vsPass">layout(location = 0) in vec3 a_position;
 layout(location = 1) in vec2 a_texcoord;
 
 out vec2 v_st;
@@ -387,8 +356,7 @@ void main() {
 }
 </script>
 
-<script type="x-shader/x-fragment" id="fsUpdateParticles">
-uniform vec2 resolution;
+<script type="x-shader/x-fragment" id="fsUpdateParticles">uniform vec2 resolution;
 uniform ivec4 randomSeed;
 uniform float particleSpeed;
 uniform vec4 deltaTime;
@@ -439,8 +407,7 @@ void main() {
 }
 </script>
 
-<script type="x-shader/x-vertex" id="vsParticles">
-uniform sampler2D particles;
+<script type="x-shader/x-vertex" id="vsParticles">uniform sampler2D particles;
 uniform float particleSize;
 
 layout(location = 0) in int a_index;
@@ -468,8 +435,7 @@ void main()
 }
 </script>
 
-<script type="x-shader/x-fragment" id="fsParticles">
-uniform vec2 resolution;
+<script type="x-shader/x-fragment" id="fsParticles">uniform vec2 resolution;
 uniform sampler2D particleAttributes;
 
 flat in int v_particleId;
@@ -492,10 +458,9 @@ void main()
 <script type="text/javascript">
   function pasteShaderToCodeBlock(shaderId, codeBlockId) {
     var shaderCode = document.getElementById(shaderId).textContent;
-    var processedCode = '<span class="p">' +
-        shaderCode .split('\n').join('</span>\n<span class="p">') +
-        '</span>';
-    document.getElementById(codeBlockId).innerHTML = processedCode;
+    var codeBlock = document.getElementById(codeBlockId);
+    codeBlock.innerHTML = shaderCode;
+    hljs.highlightBlock(codeBlock);
   }
 
   pasteShaderToCodeBlock('fsUpdateParticles', 'codeFsUpdateParticles');
