@@ -810,10 +810,6 @@ function runWebGL() {
     requestAnimationFrame(render);
   }
 
-  function cleanup() {
-
-  }
-
   render();
 }
 
