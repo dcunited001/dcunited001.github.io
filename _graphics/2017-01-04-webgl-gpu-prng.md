@@ -68,29 +68,8 @@ bit more state and calculation to the shader should not cause delay.
 Here's the shader code for the PRNG. The ThreeJS code to set this up
 can be found [here](/js/3d/2017-01-04-webgl-gpu-prng.js).
 
-### Fragment Shader: computeShaderRandoms
-
-<p>
-  <figure class="highlight">
-    <pre>
-      <code id="codeComputeShaderRandoms" class="language-c" data-lang="c">
-
-      </code>
-    </pre>
-  </figure>
-</p>
-
-### Fragment Shader: shaderStats
-
-<p>
-  <figure class="highlight">
-    <pre>
-      <code id="codeShaderStats" class="language-c" data-lang="c">
-
-      </code>
-    </pre>
-  </figure>
-</p>
+<pre class="highlight">Fragment Shader: computeShaderRandoms<code id="codeComputeShaderRandoms"></code></pre>
+<pre class="highlight">Fragment Shader: shaderStats<code id="codeShaderStats"></code></pre>
 
 ### Why Is This PRNG Terrible?
 
@@ -403,10 +382,9 @@ Here's some info on identifying floats from zero to one.
 <script type="text/javascript">
   function pasteShaderToCodeBlock(shaderId, codeBlockId) {
     var shaderCode = document.getElementById(shaderId).textContent;
-    var processedCode = '<span class="p">' +
-        shaderCode .split('\n').join('</span>\n<span class="p">') +
-        '</span>';
-    document.getElementById(codeBlockId).innerHTML = processedCode;
+    var codeBlock = document.getElementById(codeBlockId);
+    codeBlock.innerHTML = shaderCode;
+    hljs.highlightBlock(codeBlock);
   }
 
   pasteShaderToCodeBlock('computeShaderRandoms', 'codeComputeShaderRandoms');

@@ -87,21 +87,10 @@ author:
 - TODO: map screen space to cube face space to allow click & drag to create new cells
 - TODO: Game of Life in 3D Tesselated Hexacgonal Cube Lattice ...
 
-# Fragment Shader: shaderConway1
+<pre class="highlight">Fragment Shader: shaderConway1<code id="codeShaderConway1"></code></pre>
+<pre class="highlight">Fragment Shader: fragCube<code id="codeShaderConwayColor"></code></pre>
 
-<p>
-  <figure class="highlight">
-    <pre>
-      <code id="codeShaderConway1" class="language-c" data-lang="c">
-
-      </code>
-    </pre>
-  </figure>
-</p>
-
-<script type="x-shader/x-fragment" id="shaderConway1">
-  void main() {
-
+<script type="x-shader/x-fragment" id="shaderConway1">void main() {
     int populatedSolitude = 1;
     int populatedOvercrowded = 4;
     int unpopulatedCreate = 3;
@@ -152,22 +141,10 @@ author:
 
     gl_FragColor = newFragColor;
 
-  }</script>
+  }
+</script>
 
-# Fragment Shader: fragCube
-
-<p>
-  <figure class="highlight">
-    <pre>
-      <code id="codeShaderConwayColor" class="language-c" data-lang="c">
-
-      </code>
-    </pre>
-  </figure>
-</p>
-
-<script type="x-shader/x-fragment" id="shaderConwayColor">
-  uniform vec4 colorMap[16];
+<script type="x-shader/x-fragment" id="shaderConwayColor">uniform vec4 colorMap[16];
 
   void main() {
     vec4 texel = texture2D(game, gl_FragCoord.xy / resolution.xy);
@@ -188,7 +165,8 @@ author:
     if (texel.y > 0.0) {
       gl_FragColor = mix(colorMap[0], colorMap[1], texel.y);
     }
-  }</script>
+  }
+</script>
 
 <script src="/js/three/GPUComputeRenderer.js" type="text/javascript"></script>
 <script src="/js/3d/2017-01-05-conways-game-of-parallel-life.js" type="text/javascript"></script>
@@ -196,10 +174,9 @@ author:
 <script type="text/javascript">
   function pasteShaderToCodeBlock(shaderId, codeBlockId) {
     var shaderCode = document.getElementById(shaderId).textContent;
-    var processedCode = '<span class="p">' +
-        shaderCode .split('\n').join('</span>\n<span class="p">') +
-        '</span>';
-    document.getElementById(codeBlockId).innerHTML = processedCode;
+    var codeBlock = document.getElementById(codeBlockId);
+    codeBlock.innerHTML = shaderCode;
+    hljs.highlightBlock(codeBlock);
   }
 
   pasteShaderToCodeBlock('shaderConway1', 'codeShaderConway1');

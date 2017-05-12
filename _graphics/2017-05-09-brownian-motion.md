@@ -27,44 +27,11 @@ name: "David Conner"
   </div>
 </div>
 
-### Fragment Shader: fsUpdateParticles
+<pre class="highlight">Fragment Shader: fsUpdateParticles<code id="codeFsUpdateParticles"></code></pre>
+<pre class="highlight">Vertex Shader: vsParticles<code id="codeVsParticles"></code></pre>
+<pre class="highlight">Fragment Shader: fsParticles<code id="codeFsParticles"></code></pre>
 
-<p>
-  <figure class="highlight">
-    <pre>
-      <code id="codeFsUpdateParticles" class="language-c" data-lang="c">
-
-      </code>
-    </pre>
-  </figure>
-</p>
-
-### Vertex Shader: vsParticles
-
-<p>
-  <figure class="highlight">
-    <pre>
-      <code id="codeVsParticles" class="language-c" data-lang="c">
-
-      </code>
-    </pre>
-  </figure>
-</p>
-
-### Fragment Shader: fsParticles
-
-<p>
-  <figure class="highlight">
-    <pre>
-      <code id="codeFsParticles" class="language-c" data-lang="c">
-
-      </code>
-    </pre>
-  </figure>
-</p>
-
-<script type="x-shader/x-vertex" id="vsPass">
-layout(location = 0) in vec3 a_position;
+<script type="x-shader/x-vertex" id="vsPass">layout(location = 0) in vec3 a_position;
 layout(location = 1) in vec2 a_texcoord;
 
 out vec2 v_st;
@@ -77,8 +44,7 @@ void main() {
 }
 </script>
 
-<script type="x-shader/x-fragment" id="fsUpdateParticles">
-uniform vec2 resolution;
+<script type="x-shader/x-fragment" id="fsUpdateParticles">uniform vec2 resolution;
 uniform ivec4 randomSeed;
 uniform float particleSpeed;
 uniform vec4 deltaTime;
@@ -129,8 +95,7 @@ void main() {
 }
 </script>
 
-<script type="x-shader/x-vertex" id="vsParticles">
-uniform sampler2D particles;
+<script type="x-shader/x-vertex" id="vsParticles">uniform sampler2D particles;
 uniform float particleSize;
 
 layout(location = 0) in int a_index;
@@ -158,8 +123,7 @@ void main()
 }
 </script>
 
-<script type="x-shader/x-fragment" id="fsParticles">
-uniform vec2 resolution;
+<script type="x-shader/x-fragment" id="fsParticles">uniform vec2 resolution;
 uniform sampler2D particleAttributes;
 
 flat in int v_particleId;
@@ -182,10 +146,9 @@ void main()
 <script type="text/javascript">
   function pasteShaderToCodeBlock(shaderId, codeBlockId) {
     var shaderCode = document.getElementById(shaderId).textContent;
-    var processedCode = '<span class="p">' +
-        shaderCode .split('\n').join('</span>\n<span class="p">') +
-        '</span>';
-    document.getElementById(codeBlockId).innerHTML = processedCode;
+    var codeBlock = document.getElementById(codeBlockId);
+    codeBlock.innerHTML = shaderCode;
+    hljs.highlightBlock(codeBlock);
   }
 
   pasteShaderToCodeBlock('fsUpdateParticles', 'codeFsUpdateParticles');
