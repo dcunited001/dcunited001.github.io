@@ -393,38 +393,6 @@ function runWebGL() {
   canvas.width = canvas.offsetWidth;
 
   // =======================================
-  // UI events
-  // =======================================
-
-  var mouseDown = false;
-  var lastMouseX = 0;
-  var lastMouseY = 0;
-
-  canvas.onmousedown = function (event) {
-    mouseDown = true;
-    lastMouseX = event.clientX;
-    lastMouseY = event.clientY;
-  };
-
-  canvas.onmouseup = function (event) {
-    mouseDown = false;
-  };
-
-  canvas.onmousemove = function (event) {
-    var newX = event.clientX;
-    var newY = event.clientY;
-    var deltaX = newX - lastMouseX;
-    var deltaY = newY - lastMouseY;
-    var m = mat4.create();
-    mat4.rotateX(m, m, deltaX / 100.0);
-    mat4.rotateY(m, m, deltaY / 100.0);
-    mat4.multiply(tempMat4, mvMatrix, m);
-    mat4.copy(mvMatrix, tempMat4);
-    lastMouseX = newX;
-    lastMouseY = newY;
-  };
-
-  // =======================================
   // Canvas & WebGL
   // =======================================
 
@@ -614,32 +582,6 @@ function runWebGL() {
 
     })(gl, particleAttachments, i);
   }
-
-  // =======================================
-  // Initialize render variables
-  // =======================================
-
-  // =======================================
-  // Initialize render variables
-  // =======================================
-
-  var orientation = [0.0, 0.0, 0.0];
-  var tempMat4 = mat4.create();
-  var modelMatrix = mat4.create();
-
-  var eyeVec3 = vec3.create();
-  vec3.set(eyeVec3, 4, 3, 1);
-  var centerVec3 = vec3.create();
-  vec3.set(centerVec3, 0, 0.5, 0);
-  var upVec3 = vec3.create();
-  vec3.set(upVec3, 0, 1, 0);
-
-  var viewMatrix = mat4.create();
-  mat4.lookAt(viewMatrix, eyeVec3, centerVec3, upVec3);
-  var mvMatrix = mat4.create();
-  mat4.multiply(mvMatrix, viewMatrix, modelMatrix);
-  var perspectiveMatrix = mat4.create();
-  mat4.perspective(perspectiveMatrix, 0.785, 1, 1, 1000);
 
   // =======================================
   // configure framebuffers
