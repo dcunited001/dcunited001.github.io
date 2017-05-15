@@ -756,6 +756,12 @@ for (var i in fieldPonger._framebuffers) {
   gl.bindFramebuffer(gl.DRAW_FRAMEBUFFER, null);
 };
 
+gl.activeTexture(gl.TEXTURE0);
+var fieldDebugTexture = gl.createTexture();
+gl.bindTexture(gl.TEXTURE_2D, fieldDebugTexture);
+gl.texStorage2D(gl.TEXTURE_2D, 1, gl.RGBA32F, renderResolution[0], renderResolution[1]);
+gl.bindTexture(gl.TEXTURE_2D, null);
+
 // TODO: clear framebuffer attachments
 // - these have to be clear once I'm updating particle positions with them
 
@@ -911,7 +917,7 @@ var rpFields = new RenderPass(programFields, {
   }
 });
 
-rpParticleIds.setUniformLocations(gl, [
+rpFields.setUniformLocations(gl, [
   'u_resolution',
   'u_ballSize',
   'u_rCoefficient',
@@ -1074,7 +1080,7 @@ gl.clear(gl.COLOR_BUFFER_BIT);
 //var texContainer = new Int32Array(renderResolution[0] * renderResolution[1] * 4);
 //texContainer.reduce((a,v,i) => { if (v != 0 && v != 2147483647) { a.push([i,v]); } return a}, [])
 
-var texContainer = new Float32Array(particleResolution[0] * particleResolution[1] * 4);
+var texContainer = new Float32Array(renderResolution[0] * renderResolution[1] * 4);
 
 var framecount = 0;
 
@@ -1141,13 +1147,25 @@ function render() {
     particleIds: particleIdsTexture
   });
 
-  if (framecount < 10) {
+
+  if (framecount % 30 == 0) {
     console.log(deltaT);
-    gl.bindFramebuffer(gl.READ_FRAMEBUFFER, fieldPonger.getCurrentFbo());
-    gl.readBuffer(gl.COLOR_ATTACHMENT0);
-    gl.readPixels(0, renderResolution[1]/2, particleResolution[0], particleResolution[1], gl.RGBA, gl.FLOAT, texContainer);
-    console.log(texContainer);
-    gl.bindFramebuffer(gl.READ_FRAMEBUFFER, null);
+  }
+
+  if (framecount < 10) {
+    //console.log(deltaT);
+    //gl.bindFramebuffer(gl.READ_FRAMEBUFFER, fieldPonger.getCurrentFbo());
+    //gl.readBuffer(gl.COLOR_ATTACHMENT0);
+    //gl.readPixels(0, 0, renderResolution[0], renderResolution[1], gl.RGBA, gl.FLOAT, texContainer);
+    //console.log(texContainer);
+    //gl.activeTexture(gl.TEXTURE0);
+
+    //var texDebug = gl.createTexture();
+    //gl.bindTexture(gl.TEXTURE_2D, texDebug);
+    //gl.texImage2D(gl.TEXTURE_2D, 0, gl.RGBA32F, renderResolution[0], renderResolution[1], 0, gl.RGBA, gl.FLOAT, texContainer);
+    //gl.bindTexture(gl.TEXTURE_2D, null);
+    //gl.bindFramebuffer(gl.READ_FRAMEBUFFER, null);
+
   }
 
   fieldPonger.increment();

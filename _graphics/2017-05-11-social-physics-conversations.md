@@ -218,7 +218,7 @@ void main() {
         vec2 rForce = vec2(cos(rad), sin(rad)) / d;
 
         repelField.xy += u_rCoefficient * rForce;
-        repelComp.x += distance(vec2(0.0,0.0), rForce);
+        repelComp.x += distance(vec2(0.0,0.0), u_rCoefficient * rForce);
       } else {
         // ¯\_(ツ)_/¯
       }
@@ -260,9 +260,9 @@ void main() {
   ivec4 particleId = texture(s_particleIds, uv);
 
   color = vec4(
-    fract(distance(vec2(0.0,0.0), rForce.xy)),
-    float(particleId.x % 256) / 256.0,
-    fract(rComp.x),
+    distance(vec2(0.0,0.0), rForce.xy),
+    float(particleId.x % 8) / 8.0,
+    rComp.x,
     1.0);
 }
 </script>
