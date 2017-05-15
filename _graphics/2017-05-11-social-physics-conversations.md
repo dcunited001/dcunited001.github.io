@@ -19,6 +19,10 @@ name: "David Conner"
     <input id="particle-speed" type="range" min="0.025" max="10.0" step="0.025" value="0.050"/>
   </div>
   <div class="col-sm-3">
+    <label for="rotation-speed">Rotation Speed:</label>
+    <input id="rotation-speed" type="range" min="0.025" max="2.0" step="0.025" value="0.5"/>
+  </div>
+  <div class="col-sm-3">
     <label class="checkbox-inline">
       <input type="checkbox" id="chk-render-fields" checked>Render Fields
     </label>
@@ -58,6 +62,8 @@ name: "David Conner"
 </div>
 
 
+- https://gamedevelopment.tutsplus.com/tutorials/understanding-goal-based-vector-field-pathfinding--gamedev-9007
+
 ### Challenges:
 
 - forcing rasterization of only one pixel in vsParticleId/fsParticleId shaders
@@ -84,6 +90,7 @@ void main() {
 uniform vec2 u_resolution;
 uniform ivec4 u_randomSeed;
 uniform float u_particleSpeed;
+uniform float u_rotationSpeed;
 uniform vec4 u_deltaTime;
 
 uniform isampler2D s_particleRandoms;
@@ -125,11 +132,15 @@ void main() {
   // Update Particles
   // =======================================
 
-  vec4 newRandomFloat = fract(vec4(newRandom) / maxIntFloat + 0.5) - 0.5;
+  vec4 newRandom = fract(vec4(newRandom) / maxIntFloat + 0.5) - 0.5;
   particle = texture(s_particles, uv);
 
-  particle.x += (u_particleSpeed * newRandomFloat.x * u_deltaTime.x / 1000.0);
-  particle.y += (u_particleSpeed * newRandomFloat.y * u_deltaTime.x / 1000.0);
+  particle.z += newRandom.z
+
+  particle.x += (u_particleSpeed * newRandom.x * u_deltaTime.x / 1000.0);
+  particle.y += (u_particleSpeed * newRandom.y * u_deltaTime.x / 1000.0);
+
+
   // TODO: particle.z for angle ...
 }
 </script>

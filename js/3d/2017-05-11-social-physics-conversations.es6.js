@@ -531,7 +531,6 @@ gl.blendFunc(gl.SRC_ALPHA, gl.ONE_MINUS_SRC_ALPHA);
 gl.enable(gl.DEPTH_TEST);
 gl.depthFunc(gl.LESS);
 
-var renderResolution = vec2.fromValues(gl.drawingBufferWidth, gl.drawingBufferHeight);
 
 var UINT32_MAX = (2 ** 32) - 1;
 var INT32_MAX = (2 ** 31) - 1;
@@ -563,6 +562,8 @@ var programDebugParticleIds = createProgram(gl,
 var PARTICLE_MAX = parseInt(document.getElementById('particle-count').max);
 var PARTICLE_WIDTH = 1024;
 var particleResolution = vec2.fromValues(PARTICLE_WIDTH, PARTICLE_MAX/PARTICLE_WIDTH);
+var renderResolution = vec2.fromValues(gl.drawingBufferWidth, gl.drawingBufferHeight);
+var fieldResolution = vec2.fromValues(renderResolution[0] / 2, renderResolution[1] / 2);
 
 var particleIdx = generateParticleIndices(particleResolution[0], particleResolution[1]);
 
@@ -671,16 +672,16 @@ particlePonger.initFramebuffers(gl, particleFboConfig);
 gl.activeTexture(gl.TEXTURE0);
 var particleIdsTexture = gl.createTexture();
 gl.bindTexture(gl.TEXTURE_2D, particleIdsTexture);
-gl.texStorage2D(gl.TEXTURE_2D, 1, gl.RGBA32I, renderResolution[0], renderResolution[1]);
+gl.texStorage2D(gl.TEXTURE_2D, 1, gl.RGBA32I, fieldResolution[0], fieldResolution[1]);
 gl.texSubImage2D(gl.TEXTURE_2D,
   0,
   0,
   0,
-  renderResolution[0],
-  renderResolution[1],
+  fieldResolution[0],
+  fieldResolution[1],
   gl.RGBA_INTEGER,
   gl.INT,
-  new Int32Array(renderResolution[0] * renderResolution[1] * 4));
+  new Int32Array(fieldResolution[0] * fieldResolution[1] * 4));
 gl.bindTexture(gl.TEXTURE_2D, null);
 
 var fboParticleIds = gl.createFramebuffer();
@@ -704,7 +705,7 @@ fieldRForceAttachments = [0,1,2].map((i) => {
   gl.activeTexture(gl.TEXTURE0);
   var tex = gl.createTexture();
   gl.bindTexture(gl.TEXTURE_2D, tex);
-  gl.texStorage2D(gl.TEXTURE_2D, 1, gl.RGBA32F, renderResolution[0], renderResolution[1]);
+  gl.texStorage2D(gl.TEXTURE_2D, 1, gl.RGBA32F, fieldResolution[0], fieldResolution[1]);
   gl.bindTexture(gl.TEXTURE_2D, null);
   return tex;
 });
@@ -713,7 +714,7 @@ fieldRCompAttachments = [0,1,2].map((i) => {
   gl.activeTexture(gl.TEXTURE0);
   var tex = gl.createTexture();
   gl.bindTexture(gl.TEXTURE_2D, tex);
-  gl.texStorage2D(gl.TEXTURE_2D, 1, gl.RGBA32F, renderResolution[0], renderResolution[1]);
+  gl.texStorage2D(gl.TEXTURE_2D, 1, gl.RGBA32F, fieldResolution[0], fieldResolution[1]);
   gl.bindTexture(gl.TEXTURE_2D, null);
   return tex;
 });
@@ -722,7 +723,7 @@ fieldAForceAttachments = [0,1,2].map((i) => {
   gl.activeTexture(gl.TEXTURE0);
   var tex = gl.createTexture();
   gl.bindTexture(gl.TEXTURE_2D, tex);
-  gl.texStorage2D(gl.TEXTURE_2D, 1, gl.RGBA32F, renderResolution[0], renderResolution[1]);
+  gl.texStorage2D(gl.TEXTURE_2D, 1, gl.RGBA32F, fieldResolution[0], fieldResolution[1]);
   gl.bindTexture(gl.TEXTURE_2D, null);
   return tex;
 });
@@ -731,7 +732,7 @@ fieldACompAttachments = [0,1,2].map((i) => {
   gl.activeTexture(gl.TEXTURE0);
   var tex = gl.createTexture();
   gl.bindTexture(gl.TEXTURE_2D, tex);
-  gl.texStorage2D(gl.TEXTURE_2D, 1, gl.RGBA32F, renderResolution[0], renderResolution[1]);
+  gl.texStorage2D(gl.TEXTURE_2D, 1, gl.RGBA32F, fieldResolution[0], fieldResolution[1]);
   gl.bindTexture(gl.TEXTURE_2D, null);
   return tex;
 });
@@ -759,7 +760,7 @@ for (var i in fieldPonger._framebuffers) {
 gl.activeTexture(gl.TEXTURE0);
 var fieldDebugTexture = gl.createTexture();
 gl.bindTexture(gl.TEXTURE_2D, fieldDebugTexture);
-gl.texStorage2D(gl.TEXTURE_2D, 1, gl.RGBA32F, renderResolution[0], renderResolution[1]);
+gl.texStorage2D(gl.TEXTURE_2D, 1, gl.RGBA32F, fieldResolution[0], fieldResolution[1]);
 gl.bindTexture(gl.TEXTURE_2D, null);
 
 // TODO: clear framebuffer attachments
@@ -805,6 +806,7 @@ var rpParticles = new RenderPass(programParticles, {
     context.uniform2fv(rpParticles.uniformLocations.u_resolution, uniforms.resolution);
     context.uniform4iv(rpParticles.uniformLocations.u_randomSeed, uniforms.randomSeed);
     context.uniform1f(rpParticles.uniformLocations.u_particleSpeed, uniforms.particleSpeed);
+    context.uniform1f(rpParticles.uniformLocations.u_rotationSpeed, uniforms.rotationSpeed);
     context.uniform4fv(rpParticles.uniformLocations.u_deltaTime, uniforms.deltaTime);
     context.uniform1i(rpParticles.uniformLocations.s_particleRandoms, 0);
     context.uniform1i(rpParticles.uniformLocations.s_particles, 1);
@@ -833,6 +835,7 @@ rpParticles.setUniformLocations(gl, [
   'u_resolution',
   'u_randomSeed',
   'u_particleSpeed',
+  'u_rotationSpeed',
   'u_deltaTime',
   's_particleRandoms',
   's_particles'
@@ -1044,11 +1047,12 @@ rpDebugParticleIds.setUniformLocations(gl, [
 // =======================================
 // UI Controls
 // =======================================
-var particleSpeed, particleCount, renderFields;
+var particleSpeed, rotationSpeed, particleCount, renderFields;
 var rCoefficient, aCoefficient, rForceEnabled, rCompEnabled, aForceEnabled, aCompEnabled;
 
 function uiControlUpdate() {
   particleSpeed = document.getElementById('particle-speed').value;
+  rotationSpeed = document.getElementById('rotation-speed').value;
   particleCount = document.getElementById('particle-count').value;
   renderFields = document.getElementById('chk-render-fields').value;
   rCoefficient = document.getElementById('r-coefficient').value;
@@ -1062,7 +1066,7 @@ function uiControlUpdate() {
 var anyQuad = new Quad(gl);
 
 gl.bindFramebuffer(gl.DRAW_FRAMEBUFFER, null);
-gl.viewport(0, 0, renderResolution[0], renderResolution[1]);
+gl.viewport(0, 0, fieldResolution[0], fieldResolution[1]);
 gl.clearColor(0.0, 0.0, 0.0, 1.0);
 gl.clear(gl.COLOR_BUFFER_BIT);
 
@@ -1077,10 +1081,10 @@ gl.clear(gl.COLOR_BUFFER_BIT);
 //var texContainer = new Int32Array(particleResolution[0] * particleResolution[1] * 4),
 //  texContainer2 = new Float32Array(particleResolution[0] * particleResolution[1] * 4);
 
-//var texContainer = new Int32Array(renderResolution[0] * renderResolution[1] * 4);
+//var texContainer = new Int32Array(fieldResolution[0] * fieldResolution[1] * 4);
 //texContainer.reduce((a,v,i) => { if (v != 0 && v != 2147483647) { a.push([i,v]); } return a}, [])
 
-var texContainer = new Float32Array(renderResolution[0] * renderResolution[1] * 4);
+var texContainer = new Float32Array(fieldResolution[0] * fieldResolution[1] * 4);
 
 var framecount = 0;
 
@@ -1104,6 +1108,7 @@ function render() {
     resolution: particleResolution,
     randomSeed: makeIntRandomUniforms(),
     particleSpeed: particleSpeed,
+    rotationSpeed: rotationSpeed,
     deltaTime: deltaT
   };
 
@@ -1116,7 +1121,7 @@ function render() {
   particlePonger.increment();
 
   var particleIdsUniforms = {
-    resolution: renderResolution
+    resolution: fieldResolution
   };
 
   rpParticleIds.encode(gl, particleIdsUniforms, {
@@ -1126,7 +1131,7 @@ function render() {
   });
 
   //var debugParticleIdsUniforms = {
-  //  resolution: renderResolution
+  //  resolution: fieldResolution
   //};
   //
   //rpDebugParticleIds.encode(gl, debugParticleIdsUniforms, {
@@ -1135,7 +1140,7 @@ function render() {
   //});
 
   var fieldsUniforms = {
-    resolution: renderResolution,
+    resolution: fieldResolution,
     ballSize: ballSize,
     rCoefficient: rCoefficient,
     aCoefficient: aCoefficient
@@ -1147,26 +1152,26 @@ function render() {
     particleIds: particleIdsTexture
   });
 
-
   if (framecount % 30 == 0) {
     console.log(deltaT);
   }
 
-  if (framecount < 10) {
-    //console.log(deltaT);
-    //gl.bindFramebuffer(gl.READ_FRAMEBUFFER, fieldPonger.getCurrentFbo());
-    //gl.readBuffer(gl.COLOR_ATTACHMENT0);
-    //gl.readPixels(0, 0, renderResolution[0], renderResolution[1], gl.RGBA, gl.FLOAT, texContainer);
-    //console.log(texContainer);
-    //gl.activeTexture(gl.TEXTURE0);
-
-    //var texDebug = gl.createTexture();
-    //gl.bindTexture(gl.TEXTURE_2D, texDebug);
-    //gl.texImage2D(gl.TEXTURE_2D, 0, gl.RGBA32F, renderResolution[0], renderResolution[1], 0, gl.RGBA, gl.FLOAT, texContainer);
-    //gl.bindTexture(gl.TEXTURE_2D, null);
-    //gl.bindFramebuffer(gl.READ_FRAMEBUFFER, null);
-
-  }
+  //if (debugSnapshot) {
+  //  console.log(deltaT);
+  //  gl.bindFramebuffer(gl.READ_FRAMEBUFFER, fieldPonger.getCurrentFbo());
+  //  gl.readBuffer(gl.COLOR_ATTACHMENT0);
+  //  gl.readPixels(0, 0, fieldResolution[0], fieldResolution[1], gl.RGBA, gl.FLOAT, texContainer);
+  //  console.log(texContainer);
+  //  gl.activeTexture(gl.TEXTURE0);
+  //
+  //  var texDebug = gl.createTexture();
+  //  gl.bindTexture(gl.TEXTURE_2D, texDebug);
+  //  gl.texImage2D(gl.TEXTURE_2D, 0, gl.RGBA32F, fieldResolution[0], fieldResolution[1], 0, gl.RGBA, gl.FLOAT, texContainer);
+  //  gl.bindTexture(gl.TEXTURE_2D, null);
+  //  gl.bindFramebuffer(gl.READ_FRAMEBUFFER, null);
+  //
+  //  debugSnapshot = false;
+  //}
 
   fieldPonger.increment();
 
@@ -1186,7 +1191,6 @@ function render() {
       particleIds: particleIdsTexture
     });
 
-
   } else {
     //var renderUniforms = {
     //
@@ -1196,7 +1200,6 @@ function render() {
     //
     //})
   }
-
 
   requestAnimationFrame(render);
 }
@@ -1208,6 +1211,8 @@ function render() {
 //};
 
 }
+
+var debugSnapshot = false;
 
 window.onload = function() {
   runWebGL();
