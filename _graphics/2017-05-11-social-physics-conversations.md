@@ -16,13 +16,23 @@ name: "David Conner"
   </div>
   <div class="col-sm-3">
     <label for="particle-speed">Particle Speed:</label>
-    <input id="particle-speed" type="range" min="0.025" max="10.0" step="0.025" value="1.0"/>
+    <input id="particle-speed" type="range" min="0.025" max="10.0" step="0.025" value="0.050"/>
   </div>
   <div class="col-sm-3">
+    <label class="checkbox-inline">
+      <input type="checkbox" id="chk-render-fields" checked>Render Fields
+    </label>
+  </div>
+</div>
+
+
+<div class="row">
+  <div class="col-sm-6">
     <label for="r-coefficient">R-Force Coefficient:</label>
     <input id="r-coefficient" type="range" min="0.025" max="10.0" step="0.025" value="1.0"/>
   </div>
-  <div class="col-sm-3">
+
+  <div class="col-sm-6">
     <label for="a-coefficient">A-Force Coefficient</label>
     <input id="a-coefficient" type="range" min="0.025" max="10.0" step="0.025" value="1.0"/>
   </div>
@@ -31,21 +41,30 @@ name: "David Conner"
 <div class="row">
   <div class="col-sm-6">
     <label class="checkbox-inline">
-      <input type="checkbox" id="chk-r-force" checked onclick="changeStatsDisplayVars()">R-Force
+      <input type="checkbox" id="chk-r-force" checked>R-Force
     </label>
     <label class="checkbox-inline">
-      <input type="checkbox" id="chk-r-components" checked onclick="changeStatsDisplayVars()">∑ R-Components
+      <input type="checkbox" id="chk-r-components" checked>∑ R-Components
     </label>
   </div>
   <div class="col-sm-6">
     <label class="checkbox-inline">
-      <input type="checkbox" id="chk-a-force" checked onclick="changeStatsDisplayVars()">A-Force
+      <input type="checkbox" id="chk-a-force" checked>A-Force
     </label>
     <label class="checkbox-inline">
-      <input type="checkbox" id="chk-a-components" checked onclick="changeStatsDisplayVars()">∑ A-Components
+      <input type="checkbox" id="chk-a-components" checked>∑ A-Components
     </label>
   </div>
 </div>
+
+
+### Challenges:
+
+- forcing rasterization of only one pixel in vsParticleId/fsParticleId shaders
+  - check with `var reducted = texContainer.reduce((a,v,i) => { if (v != 0 && v != 2147483647) { a.push([i,v]); } return a}, []);`
+  - and with `var counts = reducted.reduce((a,v) => { a[v[1]] = (a[v[1]] || 0) + 1 ; return a }, {});`
+  - counts should only be one and should sum up to slightly less than 1024,
+    - accounting for the case where two particles occupy the same pixel
 
 <script type="x-shader/x-vertex" id="vsPass">
 layout(location = 0) in vec3 a_position;
@@ -76,10 +95,10 @@ in vec3 v_position;
 layout(location = 0) out ivec4 random;
 layout(location = 1) out vec4 particle;
 
-const float maxInt = 2147483647.0;
+const float maxIntFloat = 2147483647.0;
 
 void main() {
-  vec2 uv = gl_FragCoord.xy / resolution.xy;
+  vec2 uv = gl_FragCoord.xy / u_resolution.xy;
 
   // =======================================
   // Update Randoms
@@ -88,10 +107,10 @@ void main() {
   ivec4 randomTexel = texture(s_particleRandoms, uv);
 
   vec2 texelCoords[4];
-  texelCoords[0] = mod(gl_FragCoord.xy + vec2( 0.0, -2.0), resolution.xy) / resolution.xy;
-  texelCoords[1] = mod(gl_FragCoord.xy + vec2( 1.0,  0.0), resolution.xy) / resolution.xy;
-  texelCoords[2] = mod(gl_FragCoord.xy + vec2( 0.0,  1.0), resolution.xy) / resolution.xy;
-  texelCoords[3] = mod(gl_FragCoord.xy + vec2(-1.0,  1.0), resolution.xy) / resolution.xy;
+  texelCoords[0] = mod(gl_FragCoord.xy + vec2( 0.0, -2.0), u_resolution.xy) / u_resolution.xy;
+  texelCoords[1] = mod(gl_FragCoord.xy + vec2( 1.0,  0.0), u_resolution.xy) / u_resolution.xy;
+  texelCoords[2] = mod(gl_FragCoord.xy + vec2( 0.0,  1.0), u_resolution.xy) / u_resolution.xy;
+  texelCoords[3] = mod(gl_FragCoord.xy + vec2(-1.0,  1.0), u_resolution.xy) / u_resolution.xy;
 
   ivec4 texels[4];
   texels[0] = texture(s_particleRandoms, texelCoords[0]);
@@ -99,17 +118,18 @@ void main() {
   texels[2] = texture(s_particleRandoms, texelCoords[2]);
   texels[3] = texture(s_particleRandoms, texelCoords[3]);
 
-  ivec4 newRandom = randomSeed ^ randomTexel ^ texels[0] ^ texels[1] ^ texels[2] ^ texels[3];
+  ivec4 newRandom = u_randomSeed ^ randomTexel ^ texels[0] ^ texels[1] ^ texels[2] ^ texels[3];
   random = newRandom;
 
   // =======================================
   // Update Particles
   // =======================================
 
-  vec4 newRandomFloat = fract(vec4(newRandom) / maxInt + 0.5) - 0.5 ;
+  vec4 newRandomFloat = fract(vec4(newRandom) / maxIntFloat + 0.5) - 0.5;
   particle = texture(s_particles, uv);
-  particle.x += (particleSpeed * newRandomFloat.x * deltaTime.x / 1000.0);
-  particle.y += (particleSpeed * newRandomFloat.y * deltaTime.x / 1000.0);
+
+  particle.x += (u_particleSpeed * newRandomFloat.x * u_deltaTime.x / 1000.0);
+  particle.y += (u_particleSpeed * newRandomFloat.y * u_deltaTime.x / 1000.0);
   // TODO: particle.z for angle ...
 }
 </script>
@@ -124,19 +144,19 @@ flat out int v_particleId;
 out float v_pointSize;
 out vec4 v_position;
 
-const float maxInt = 2147483647.0;
+const float maxIntFloat = 2147483647.0;
 
 void main()
 {
   // textureSize must return ivec & texelFetch must accept ivec
   ivec2 texSize = textureSize(s_particles, 0);
-
   ivec2 texel = ivec2(a_index % texSize.x, a_index / texSize.x);
   vec4 particle = texelFetch(s_particles, texel, 0);
 
   // This needs to write to exactly one pixel (otherwise FML)
-  particle.x = trunc(particle.x * u_resolution.x) / u_resolution.x;
-  particle.y = trunc(particle.y * u_resolution.y) / u_resolution.y;
+  // - it appears to rasterize only one pixel with/without the 0.5 constant
+  particle.x = (trunc(particle.x * u_resolution.x) + 0.5) / u_resolution.x;
+  particle.y = (trunc(particle.y * u_resolution.y) + 0.5) / u_resolution.y;
 
   v_particleId = a_index;
   v_position = vec4(particle.x, particle.y, 0.0, 1.0);
@@ -152,79 +172,58 @@ in vec4 v_position;
 
 out ivec4 color;
 
+const int maxInt = 2147483647;
+
 void main() {
-  color = ivec4(v_particleId, 0, 0, 1);
+  color = ivec4(v_particleId, 0, 1, maxInt);
 }
 </script>
 
-<script type="x-shader/x-fragment" id="fsField">
-layout(location = 0) out vec4 repelField;
-layout(location = 1) out vec4 attentionField;
-
-void main() {
-  repelField = vec4(0.0, 0.0, 0.0, 1.0);
-  attentionField = vec4(0.0, 0.0, 0.0, 1.0);
-}
-</script>
-
-<script type="x-shader/x-fragment" id="fsFieldOld">
+<script type="x-shader/x-fragment" id="fsFields">
 uniform vec2 u_resolution;
 uniform int u_ballSize;
-uniform float u_repelMag;
-uniform float u_attentionMag;
+uniform float u_rCoefficient;
+uniform float u_aCoefficient;
 
 uniform sampler2D s_particles;
-uniform sampler2D s_fieldPoints;
+uniform isampler2D s_particleIds;
 
 layout(location = 0) out vec4 repelField;
-layout(location = 1) out vec4 attentionField;
-
-vec2 calcRForce(vec2 texelCoords, vec2 particleCoords, float mag) {
-  return vec2(0.0, 0.0);
-}
-
-vec2 calcAForce() {
-  return vec2(0.0, 0.0);
-}
+layout(location = 1) out vec4 repelComp;
+layout(location = 2) out vec4 attentionField;
+layout(location = 3) out vec4 attentionComp;
 
 void main() {
   vec2 uv = gl_FragCoord.xy / u_resolution.xy;
-
-  float attract = 0.0;
-  float repel = 0.0;
-
   int ballSizeOffset = - u_ballSize / 2;
+  ivec2 particlesSize = textureSize(s_particles, 0);
 
-  ivec2 pBasicsSize = textureSize(s_particles, 0);
+  repelField = vec4(0.0, 0.0, 0.0, 1.0);
+  repelComp = vec4(0.0, 0.0, 0.0, 1.0);
+  attentionField = vec4(0.0, 0.0, 0.0, 1.0);
+  attentionComp = vec4(0.0, 0.0, 0.0, 1.0);
 
-  for (int i = ballSizeOffset; i < ballSizeOffset + u_ballSize; i++) {
-    for (int j = ballSizeOffset; j < ballSizeOffset + u_ballSize; j++) {
+  for (int i = ballSizeOffset; i <= ballSizeOffset + u_ballSize; i++) {
+    for (int j = ballSizeOffset; j <= ballSizeOffset + u_ballSize; j++) {
       vec2 texelCoords = mod(gl_FragCoord.xy + vec2(float(i), float(j)), u_resolution.xy) / u_resolution.xy;
-      vec2 texelCoordsNoMod = gl_FragCoord.xy + vec2(float(i), float(j)) / u_resolution.xy;
+      ivec4 particleId = texture(s_particleIds, texelCoords);
 
-      vec4 point = texture(s_particleIds, texelCoords);
+      if (particleId.z == 1) { // if particleId is defined
+        ivec2 particleUV = ivec2(particleId.x % particlesSize.x, particleId.x / particlesSize.x);
+        vec4 particle = texelFetch(s_particles, particleUV, 0);
 
-      // TODO: verify that binary representation of point.x has not been clamped
-      int pBasicIdx = floatBitsToInt(point.x);
+        float d = distance(particle.xy, uv) * distance(vec2(0.0, 0.0), u_resolution.xy);
+        vec2 particleToUV = particle.xy - uv;
+        float rad = atan(particleToUV.y, particleToUV.x);
+        vec2 rForce = vec2(cos(rad), sin(rad)) / d;
 
-      ivec2 pBasicTexel = ivec2(pBasicIdx % pBasicsSize.x, pBasicIdx / pBasicsSize.x);
-      vec4 pBasic = texelFetch(s_particles, pBasicTexel, 0);
-
-      float d = distance(pBasic.xy, texelCoordsNoMod) + 0.0001;
-
-      float rForce = u_repelMag / (d*d);
-      float aForce = u_attentionMag / d;
-
-      // TODO: calculate vec2's for rForce & aForce
-      // TODO: calculate aForce, given the directional component of the particle
-
-      repel += rForce;
-      attract += aForce;
+        repelField.xy += u_rCoefficient * rForce;
+        repelComp.x += distance(vec2(0.0,0.0), rForce);
+      } else {
+        // ¯\_(ツ)_/¯
+      }
     }
   }
-
-  repelField = vec4(repel, 0.0, 0.0, 1.0);
-  attractField = vec4(attract, 0.0, 0.0, 1.0);
 }
 </script>
 
@@ -234,9 +233,56 @@ void main() {
 }
 </script>
 
-<script type="x-shader/x-fragment" id="fsRenderDebug">
-void main() {
+<script type="x-shader/x-fragment" id="fsRenderFields">
+uniform vec2 u_resolution;
+uniform float u_rCoefficient;
+uniform float u_aCoefficient;
 
+uniform sampler2D s_repelField;
+uniform sampler2D s_repelComp;
+uniform sampler2D s_attentionField;
+uniform sampler2D s_attentionComp;
+
+uniform isampler2D s_particleIds;
+
+out vec4 color;
+
+const float maxIntFloat = 2147483647.0;
+
+void main() {
+  vec2 uv = gl_FragCoord.xy / u_resolution.xy;
+
+  vec4 rForce = texture(s_repelField, uv);
+  vec4 rComp = texture(s_repelComp, uv);
+  vec4 aForce = texture(s_attentionField, uv);
+  vec4 aComp = texture(s_attentionComp, uv);
+
+  ivec4 particleId = texture(s_particleIds, uv);
+
+  color = vec4(
+    fract(distance(vec2(0.0,0.0), rForce.xy)),
+    float(particleId.x % 256) / 256.0,
+    fract(rComp.x),
+    1.0);
+}
+</script>
+
+<script type="x-shader/x-fragment" id="fsDebugParticleIds">
+uniform vec2 u_resolution;
+uniform isampler2D s_particleIds;
+
+out vec4 color;
+
+const float maxIntFloat = 2147483647.0;
+
+void main() {
+  vec2 uv = gl_FragCoord.xy / u_resolution.xy;
+  ivec4 particleInt = texture(s_particleIds, uv);
+  //vec4 particle = fract(vec4(particleInt) / 128.0);
+  vec4 particle = vec4(particleInt) / maxIntFloat;
+
+  //color = vec4(1.0, 1.0, 0.0, 1.0);
+  color = vec4(particle.rgb, 1.0);
 }
 </script>
 

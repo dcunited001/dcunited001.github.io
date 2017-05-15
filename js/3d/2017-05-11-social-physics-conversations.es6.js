@@ -158,15 +158,7 @@ window.loadObj = function (url, onload) {
   xhr.send();
 };
 
-function startTiming() {
-  var startTime = Date.now(),
-    currentTime = startTime,
-    elapsedTime = currentTime - startTime,
-    lastFrameStart = currentTime,
-    lastFrameTime = currentTime - lastFrameStart;
-
-  return startTime, currentTime, elapsedTime, lastFrameStart, lastFrameTime;
-}
+function runWebGL() {
 
 function updateTime() {
   lastFrameStart = currentTime;
@@ -328,8 +320,6 @@ class Quad {
   }
 }
 
-// TODO: use samplers
-
 class RenderPass {
 
   constructor(program, options = {}) {
@@ -356,7 +346,7 @@ class RenderPass {
     for (var k of keys) {
       uniformLocations[k] = context.getUniformLocation(this.program, k);
     }
-    return uniformLocations
+    this._uniformLocations = uniformLocations;
   }
 
   encode(context, uniforms, options = {}) {
@@ -383,7 +373,7 @@ class RenderPass {
       ops.encodeClear(context, uniforms, ops);
     }
 
-    checkFbStatus(context);
+    this.checkFboStatus(context);
 
     if (ops.encodeDraw !== undefined) {
       ops.encodeDraw(context, uniforms, ops);
@@ -413,7 +403,7 @@ class RenderPass {
     context.bindFramebuffer(context.DRAW_FRAMEBUFFER, null);
   }
 
-  checkFbStatus(context) {
+  checkFboStatus(context) {
     var status = context.checkFramebufferStatus(context.DRAW_FRAMEBUFFER);
     if (status != context.FRAMEBUFFER_COMPLETE) {
       console.error('fb status: ' + status.toString(10));
@@ -435,13 +425,14 @@ class PingPongProvider {
 
   initFramebuffers(context, fboConfig) {
     for (var i = 0; i < this._max; i++) {
-      var fbo = context.createFramebuffer();
-      context.bindFramebuffer(context.DRAW_FRAMEBUFFER, fbo);
-      for (var k in Object.keys(fboConfig)) {
-        context.framebufferTexture2D(context.DRAW_FRAMEBUFFER, fboConfig.colorAttachment, context.TEXTURE_2D, this.getPrev(k), 0);
+      var newFbo = context.createFramebuffer();
+      context.bindFramebuffer(context.DRAW_FRAMEBUFFER, newFbo);
+      for (var k in fboConfig) {
+        context.framebufferTexture2D(context.DRAW_FRAMEBUFFER, fboConfig[k].colorAttachment, context.TEXTURE_2D, this.getNext(k), 0);
       }
       context.bindFramebuffer(context.DRAW_FRAMEBUFFER, null);
       this._framebuffers.push(newFbo);
+      this.increment();
     }
   }
 
@@ -451,33 +442,36 @@ class PingPongProvider {
 
   getTexture(k, i, ...args) {
     var textures = this._textures[k];
-    if (textures !== undefined) {
+    if (textures === undefined) {
       console.error(`PingPongProvider: key ${k} is undefined`);
     } else {
       if (textures instanceof Array) {
         return textures[i];
       } else {
-        return textures(this, i, ...args);
+        // TODO: decide whether to pass `this`
+        // return textures(this, i, ...args);
+        return textures(...args);
       }
     }
   }
 
   getCurrent(k, ...args) {
-    var id = getCurrentId();
-    return getTexture(k, id, ...args);
+    var id = this.getCurrentId();
+    return this.getTexture(k, id, ...args);
   }
 
   getNext(k,  ...args) {
-    var id = getNextId();
-    return getTexture(k, id, ...args);
+    var id = this.getNextId();
+    return this.getTexture(k, id, ...args);
   }
 
   getPrev(k, ...args) {
-    var id = getPrevId();
-    return getTexture(k, id, ...args);
+    var id = this.getPrevId();
+    return this.getTexture(k, id, ...args);
   }
 
   getCurrentFbo() {
+    // TODO: may need to fix the id...
     return this._framebuffers[this.getCurrentId()];
   }
 
@@ -532,6 +526,8 @@ if (!isWebGL2) {
 }
 
 gl.enable(gl.BLEND);
+gl.blendFunc(gl.SRC_ALPHA, gl.ONE_MINUS_SRC_ALPHA);
+
 gl.enable(gl.DEPTH_TEST);
 gl.depthFunc(gl.LESS);
 
@@ -548,20 +544,25 @@ var programParticles = createProgram(gl,
   document.getElementById('vsPass').textContent,
   document.getElementById('fsParticle').textContent);
 
-var programParticleId = createProgram(gl,
+var programParticleIds = createProgram(gl,
   document.getElementById('vsParticleId').textContent,
   document.getElementById('fsParticleId').textContent);
 
-//var programField = createProgram(gl, document.getElementById('vsPass').textContent, document.getElementById('fsParticleId').textContent);
+var programFields = createProgram(gl, document.getElementById('vsPass').textContent, document.getElementById('fsFields').textContent);
 //var programRender = createProgram(gl, document.getElementById('vsPass').textContent, document.getElementById('fsRender').textContent);
-//var programRenderDebug = createProgram(gl.document.getElementById('vsPass').textContent, document.getElementById('fsRenderDebug').textContent);
+var programRenderFields = createProgram(gl, document.getElementById('vsPass').textContent, document.getElementById('fsRenderFields').textContent);
+
+var programDebugParticleIds = createProgram(gl,
+  document.getElementById('vsPass').textContent,
+  document.getElementById('fsDebugParticleIds').textContent);
 
 // =======================================
 // Particles
 // =======================================
 
 var PARTICLE_MAX = parseInt(document.getElementById('particle-count').max);
-var particleResolution = vec2(PARTICLE_WIDTH, PARTICLE_MAX/PARTICLE_WIDTH);
+var PARTICLE_WIDTH = 1024;
+var particleResolution = vec2.fromValues(PARTICLE_WIDTH, PARTICLE_MAX/PARTICLE_WIDTH);
 
 var particleIdx = generateParticleIndices(particleResolution[0], particleResolution[1]);
 
@@ -592,15 +593,15 @@ particleRandomsAttachments = [0,1,2].map((f) => {
   var tex = gl.createTexture();
   gl.bindTexture(gl.TEXTURE_2D, tex);
   gl.texStorage2D(gl.TEXTURE_2D, 1, gl.RGBA32I, particleResolution[0], particleResolution[1]);
-  gl.texSubImage2D(context.TEXTURE_2D,
+  gl.texSubImage2D(gl.TEXTURE_2D,
     0,
     0, // x offset
     0, // y offset
     particleResolution[0],
     particleResolution[1],
-    context.RGBA_INTEGER,
-    context.INT,
-    generateInt32Randoms(particleResolution[0], particleResolution[1]));
+    gl.RGBA_INTEGER,
+    gl.INT,
+    generateInt32Randoms(particleResolution[0], particleResolution[1], 4));
 
   // TODO: load random seeds from image
   gl.bindTexture(gl.TEXTURE_2D, null);
@@ -618,8 +619,8 @@ particleAttachments = [0,1,2].map((f) => {
     0, // y offset
     particleResolution[0],
     particleResolution[1],
-    context.RGBA,
-    context.FLOAT,
+    gl.RGBA,
+    gl.FLOAT,
     generateFloat32Randoms(particleResolution[0], particleResolution[1], 4, -0.5, 0.5));
 
   gl.bindTexture(gl.TEXTURE_2D, null);
@@ -636,17 +637,23 @@ gl.texSubImage2D(gl.TEXTURE_2D,
   0, // y offset
   particleResolution[0],
   particleResolution[1],
-  context.RGBA,
-  context.FLOAT,
+  gl.RGBA,
+  gl.FLOAT,
   generateFloat32Randoms(particleResolution[0], particleResolution[1], 4, 0.25, 0.75));
+gl.bindTexture(gl.TEXTURE_2D, null);
 
 particlePonger.registerTextures('particleRandoms', particleRandomsAttachments);
 particlePonger.registerTextures('particles', particleAttachments);
 // TODO: setup framebuffers
 
+var fboTest = gl.createFramebuffer();
+gl.bindFramebuffer(gl.DRAW_FRAMEBUFFER, fboTest);
+gl.framebufferTexture2D(gl.DRAW_FRAMEBUFFER, gl.COLOR_ATTACHMENT0, gl.TEXTURE_2D, particleAttachments[0], 0);
+gl.bindFramebuffer(gl.DRAW_FRAMEBUFFER, null);
+
 var particleFboConfig = {
   particleRandoms: {
-    colorAttachment: gl.COLOR_ATTACHMENT0,
+    colorAttachment: gl.COLOR_ATTACHMENT0
   },
   particles: {
     colorAttachment: gl.COLOR_ATTACHMENT1
@@ -662,15 +669,24 @@ particlePonger.initFramebuffers(gl, particleFboConfig);
 // hashtag #RelationalAlgebra
 
 gl.activeTexture(gl.TEXTURE0);
-var particleIdTexture = gl.createTexture();
-gl.bindTexture(gl.TEXTURE_2D, particleIdTexture);
+var particleIdsTexture = gl.createTexture();
+gl.bindTexture(gl.TEXTURE_2D, particleIdsTexture);
 gl.texStorage2D(gl.TEXTURE_2D, 1, gl.RGBA32I, renderResolution[0], renderResolution[1]);
+gl.texSubImage2D(gl.TEXTURE_2D,
+  0,
+  0,
+  0,
+  renderResolution[0],
+  renderResolution[1],
+  gl.RGBA_INTEGER,
+  gl.INT,
+  new Int32Array(renderResolution[0] * renderResolution[1] * 4));
 gl.bindTexture(gl.TEXTURE_2D, null);
 
 var fboParticleIds = gl.createFramebuffer();
 gl.bindFramebuffer(gl.DRAW_FRAMEBUFFER, fboParticleIds);
-gl.framebufferTexture2D(gl.DRAW_FRAMEBUFFER, gl.COLOR_ATTACHMENT0, gl.TEXTURE_2D, particleIdTexture, 0);
-gl.clearBufferiv(gl.COLOR, 0, new Int32Array([0,0,0,0]));
+gl.framebufferTexture2D(gl.DRAW_FRAMEBUFFER, gl.COLOR_ATTACHMENT0, gl.TEXTURE_2D, particleIdsTexture, 0);
+gl.clearBufferiv(gl.COLOR, 0, new Int32Array([0,0,0,INT32_MAX]));
 gl.bindFramebuffer(gl.DRAW_FRAMEBUFFER, null);
 
 // =======================================
@@ -720,19 +736,25 @@ fieldACompAttachments = [0,1,2].map((i) => {
   return tex;
 });
 
-fieldPonger.registerTextures('rForce', fieldRForceAttachments);
-fieldPonger.registerTextures('rComp', fieldRCompAttachments);
-fieldPonger.registerTextures('aForce', fieldAForceAttachments);
-fieldPonger.registerTextures('aComp', fieldACompAttachments);
+fieldPonger.registerTextures('repelField', fieldRForceAttachments);
+fieldPonger.registerTextures('repelComp', fieldRCompAttachments);
+fieldPonger.registerTextures('attentionField', fieldAForceAttachments);
+fieldPonger.registerTextures('attentionComp', fieldACompAttachments);
 
 var fieldPongerFboConfig = {
-  rForce: { colorAttachment: gl.COLOR_ATTACHMENT0 },
-  rComp: { colorAttachment: gl.COLOR_ATTACHMENT1 },
-  aForce: { colorAttachment: gl.COLOR_ATTACHMENT2 },
-  aComp: { colorAttachment: gl.COLOR_ATTACHMENT3 }
+  repelField: { colorAttachment: gl.COLOR_ATTACHMENT0 },
+  repelComp: { colorAttachment: gl.COLOR_ATTACHMENT1 },
+  attentionField: { colorAttachment: gl.COLOR_ATTACHMENT2 },
+  attentionComp: { colorAttachment: gl.COLOR_ATTACHMENT3 }
 };
 
 fieldPonger.initFramebuffers(gl, fieldPongerFboConfig);
+for (var i in fieldPonger._framebuffers) {
+  gl.bindFramebuffer(gl.DRAW_FRAMEBUFFER, fieldPonger._framebuffers[i]);
+  gl.clearColor(0.0, 0.0, 0.0, 1.0);
+  gl.clear(gl.COLOR_BUFFER_BIT);
+  gl.bindFramebuffer(gl.DRAW_FRAMEBUFFER, null);
+};
 
 // TODO: clear framebuffer attachments
 // - these have to be clear once I'm updating particle positions with them
@@ -751,17 +773,17 @@ fieldPonger.initFramebuffers(gl, fieldPongerFboConfig);
 
 // TODO: attach samplers to render pass object
 
-var nearestSampler = gl.createSampler();
-gl.samplerParameteri(nearestSampler, gl.TEXTURE_MIN_FILTER, gl.NEAREST);
-gl.samplerParameteri(nearestSampler, gl.TEXTURE_MAG_FILTER, gl.NEAREST);
-gl.samplerParameteri(nearestSampler, gl.TEXTURE_WRAP_S, gl.CLAMP_TO_EDGE);
-gl.samplerParameteri(nearestSampler, gl.TEXTURE_WRAP_T, gl.CLAMP_TO_EDGE);
+var samplerNearest = gl.createSampler();
+gl.samplerParameteri(samplerNearest, gl.TEXTURE_MIN_FILTER, gl.NEAREST);
+gl.samplerParameteri(samplerNearest, gl.TEXTURE_MAG_FILTER, gl.NEAREST);
+gl.samplerParameteri(samplerNearest, gl.TEXTURE_WRAP_S, gl.CLAMP_TO_EDGE);
+gl.samplerParameteri(samplerNearest, gl.TEXTURE_WRAP_T, gl.CLAMP_TO_EDGE);
 
-var linearSampler = gl.createSampler();
-gl.samplerParameteri(linearSampler, gl.TEXTURE_MIN_FILTER, gl.LINEAR);
-gl.samplerParameteri(linearSampler, gl.TEXTURE_MAG_FILTER, gl.LINEAR);
-gl.samplerParameteri(linearSampler, gl.TEXTURE_WRAP_S, gl.CLAMP_TO_EDGE);
-gl.samplerParameteri(linearSampler, gl.TEXTURE_WRAP_T, gl.CLAMP_TO_EDGE);
+var samplerLinear = gl.createSampler();
+gl.samplerParameteri(samplerLinear, gl.TEXTURE_MIN_FILTER, gl.LINEAR);
+gl.samplerParameteri(samplerLinear, gl.TEXTURE_MAG_FILTER, gl.LINEAR);
+gl.samplerParameteri(samplerLinear, gl.TEXTURE_WRAP_S, gl.CLAMP_TO_EDGE);
+gl.samplerParameteri(samplerLinear, gl.TEXTURE_WRAP_T, gl.CLAMP_TO_EDGE);
 
 // =======================================
 // Render Pass: Particles
@@ -769,8 +791,8 @@ gl.samplerParameteri(linearSampler, gl.TEXTURE_WRAP_T, gl.CLAMP_TO_EDGE);
 
 var rpParticles = new RenderPass(programParticles, {
   beforeEncode: (context, uniforms, ops) => {
-    context.blendFunc(gl.ONE, gl.ZERO);
     context.bindFramebuffer(context.DRAW_FRAMEBUFFER, ops.framebuffer);
+    context.blendFunc(context.ONE, context.ZERO);
     context.viewport(0, 0, uniforms.resolution[0], uniforms.resolution[1]);
   },
   encodeUniforms: (context, uniforms, ops) => {
@@ -784,11 +806,11 @@ var rpParticles = new RenderPass(programParticles, {
   encodeTextures: (context, uniforms, ops) => {
     context.activeTexture(context.TEXTURE0);
     context.bindTexture(context.TEXTURE_2D, ops.particleRandoms);
-    context.bindSampler(0, nearestSampler);
+    context.bindSampler(0, samplerNearest);
 
     context.activeTexture(context.TEXTURE1);
     context.bindTexture(context.TEXTURE_2D, ops.particles);
-    context.bindSampler(1, nearestSampler);
+    context.bindSampler(1, samplerNearest);
   },
   encodeDraw: (context, uniforms, ops) => {
     context.drawBuffers([
@@ -814,11 +836,12 @@ rpParticles.setUniformLocations(gl, [
 // Render Pass: Particle ID's
 // =======================================
 
-var rpParticleIds = new RenderPass(programParticleId, {
+var rpParticleIds = new RenderPass(programParticleIds, {
   beforeEncode: (context, uniforms, ops) => {
-    context.blendFunc(gl.ONE, gl.ZERO);
     context.bindFramebuffer(context.DRAW_FRAMEBUFFER, ops.framebuffer);
+    context.blendFunc(context.ONE, context.ZERO);
     context.viewport(0, 0, uniforms.resolution[0], uniforms.resolution[1]);
+    context.clearBufferiv(context.COLOR, 0, new Int32Array([0,0,0,INT32_MAX]));
   },
   encodeUniforms: (context, uniforms, ops) => {
     context.uniform2fv(rpParticleIds.uniformLocations.u_resolution, uniforms.resolution);
@@ -827,15 +850,15 @@ var rpParticleIds = new RenderPass(programParticleId, {
   encodeTextures: (context, uniforms, ops) => {
     context.activeTexture(context.TEXTURE0);
     context.bindTexture(context.TEXTURE_2D, ops.particles);
-    context.bindSampler(0, nearestSampler);
+    context.bindSampler(0, samplerNearest);
   },
   encodeDraw: (context, uniforms, ops) => {
     context.drawBuffers([
       context.COLOR_ATTACHMENT0
     ]);
 
-    gl.bindVertexArray(particleVertexArray);
-    gl.drawArrays(gl.POINTS, 0, options.particleCount);
+    context.bindVertexArray(particleVertexArray);
+    context.drawArrays(context.POINTS, 0, ops.particleCount);
   }
 });
 
@@ -848,6 +871,54 @@ rpParticleIds.setUniformLocations(gl, [
 // Render Pass: Fields
 // =======================================
 
+var rpFields = new RenderPass(programFields, {
+  beforeEncode: (context, uniforms, ops) => {
+    context.bindFramebuffer(context.DRAW_FRAMEBUFFER, ops.framebuffer);
+    context.blendFunc(context.ONE, context.ZERO);
+    context.viewport(0, 0, uniforms.resolution[0], uniforms.resolution[1]);
+  },
+  encodeClear: (context, uniforms, ops) => {
+    context.clearColor(0.0, 0.0, 0.0, 1.0);
+    context.clear(context.COLOR_BUFFER_BIT);
+  },
+  encodeUniforms: (context, uniforms, ops) => {
+    context.uniform2fv(rpFields.uniformLocations.u_resolution, uniforms.resolution);
+    context.uniform1i(rpFields.uniformLocations.u_ballSize, uniforms.ballSize);
+    context.uniform1f(rpFields.uniformLocations.u_rCoefficient, uniforms.rCoefficient);
+    context.uniform1f(rpFields.uniformLocations.u_aCoefficient, uniforms.aCoefficient);
+    context.uniform1i(rpFields.uniformLocations.s_particles, 0);
+    context.uniform1i(rpFields.uniformLocations.s_particleIds, 1);
+  },
+  encodeTextures: (context, uniforms, ops) => {
+    context.activeTexture(context.TEXTURE0);
+    context.bindTexture(context.TEXTURE_2D, ops.particles);
+    context.bindSampler(0, samplerNearest);
+
+    context.activeTexture(context.TEXTURE1);
+    context.bindTexture(context.TEXTURE_2D, ops.particleIds);
+    context.bindSampler(1, samplerNearest);
+  },
+  encodeDraw: (context, uniforms, ops) => {
+    context.drawBuffers([
+      context.COLOR_ATTACHMENT0,
+      context.COLOR_ATTACHMENT1,
+      context.COLOR_ATTACHMENT2,
+      context.COLOR_ATTACHMENT3
+    ]);
+
+    context.bindVertexArray(anyQuad.vertexArray);
+    context.drawArrays(context.TRIANGLES, 0, 6);
+  }
+});
+
+rpParticleIds.setUniformLocations(gl, [
+  'u_resolution',
+  'u_ballSize',
+  'u_rCoefficient',
+  'u_aCoefficient',
+  's_particles',
+  's_particleIds'
+]);
 
 // =======================================
 // Render Pass: Gradient
@@ -858,7 +929,7 @@ rpParticleIds.setUniformLocations(gl, [
 // Render Pass: Final
 // =======================================
 
-//var rpRender = new RenderPass(programParticleId, {
+//var rpRender = new RenderPass(programParticleIds, {
 //  beforeEncode: (context, uniforms, ops) => {
 //
 //  },
@@ -876,21 +947,106 @@ rpParticleIds.setUniformLocations(gl, [
 //  }
 //});
 
-// TODO: rpRenderDebug
+// =======================================
+// Render Pass: Debug
+// =======================================
+
+var rpRenderFields = new RenderPass(programRenderFields, {
+  beforeEncode: (context, uniforms, ops) => {
+    context.bindFramebuffer(context.DRAW_FRAMEBUFFER, ops.framebuffer);
+    context.blendFunc(context.ONE, context.ZERO);
+    context.viewport(0, 0, uniforms.resolution[0], uniforms.resolution[1]);
+    context.clearColor(0.0, 0.0, 0.0, 1.0);
+    context.clear(context.COLOR_BUFFER_BIT);
+  },
+  encodeUniforms: (context, uniforms, ops) => {
+    context.uniform2fv(rpRenderFields.uniformLocations.u_resolution, uniforms.resolution);
+    context.uniform1f(rpRenderFields.uniformLocations.u_rCoefficient, uniforms.rCoefficient);
+    context.uniform1f(rpRenderFields.uniformLocations.u_aCoefficient, uniforms.aCoefficient);
+    context.uniform1i(rpRenderFields.uniformLocations.s_repelField, 0);
+    context.uniform1i(rpRenderFields.uniformLocations.s_repelComp, 1);
+    context.uniform1i(rpRenderFields.uniformLocations.s_attentionField, 2);
+    context.uniform1i(rpRenderFields.uniformLocations.s_attentionComp, 3);
+    context.uniform1i(rpRenderFields.uniformLocations.s_particleIds, 4);
+  },
+  encodeTextures: (context, uniforms, ops) => {
+    context.activeTexture(context.TEXTURE0);
+    context.bindTexture(context.TEXTURE_2D, ops.repelField);
+    context.bindSampler(0, samplerNearest);
+
+    context.activeTexture(context.TEXTURE1);
+    context.bindTexture(context.TEXTURE_2D, ops.repelComp);
+    context.bindSampler(1, samplerNearest);
+
+    context.activeTexture(context.TEXTURE2);
+    context.bindTexture(context.TEXTURE_2D, ops.attentionField);
+    context.bindSampler(2, samplerNearest);
+
+    context.activeTexture(context.TEXTURE3);
+    context.bindTexture(context.TEXTURE_2D, ops.attentionComp);
+    context.bindSampler(3, samplerNearest);
+
+    context.activeTexture(context.TEXTURE4);
+    context.bindTexture(context.TEXTURE_2D, ops.particleIds);
+    context.bindSampler(4, samplerNearest);
+  },
+  encodeDraw: (context, uniforms, ops) => {
+    context.bindVertexArray(anyQuad.vertexArray);
+    context.drawArrays(context.TRIANGLES, 0, 6);
+  }
+});
+
+rpRenderFields.setUniformLocations(gl, [
+  'u_resolution',
+  'u_rCoefficient',
+  'u_aCoefficient',
+  's_repelField',
+  's_repelComp',
+  's_attentionField',
+  's_attentionComp',
+  's_particleIds'
+]);
 
 var rpDebugParticleIds = new RenderPass(programDebugParticleIds, {
-
+  beforeEncode: (context, uniforms, ops) => {
+    context.bindFramebuffer(context.DRAW_FRAMEBUFFER, ops.framebuffer);
+    context.blendFunc(context.ONE, context.ZERO);
+    context.viewport(0, 0, uniforms.resolution[0], uniforms.resolution[1]);
+    context.clearColor(0.0,0.0,0.0,1.0);
+    context.clear(context.COLOR_BUFFER_BIT);
+  },
+  encodeUniforms: (context, uniforms, ops) => {
+    context.uniform2fv(rpDebugParticleIds.uniformLocations.u_resolution, uniforms.resolution);
+    context.uniform1i(rpDebugParticleIds.uniformLocations.s_particleIds, 0);
+  },
+  encodeTextures: (context, uniforms, ops) => {
+    context.activeTexture(context.TEXTURE0);
+    context.bindTexture(context.TEXTURE_2D, ops.particleIds);
+    context.bindSampler(0, samplerNearest);
+  },
+  encodeDraw: (context, uniforms, ops) => {
+    context.bindVertexArray(anyQuad.vertexArray);
+    context.drawArrays(context.TRIANGLES, 0, 6);
+  }
 });
+
+rpDebugParticleIds.setUniformLocations(gl, [
+  'u_resolution',
+  's_particleIds'
+]);
 
 // =======================================
 // UI Controls
 // =======================================
-var particleSpeed, particleCount;
-var rForceEnabled, rCompEnabled, aForceEnabled, aCompEnabled;
+var particleSpeed, particleCount, renderFields;
+var rCoefficient, aCoefficient, rForceEnabled, rCompEnabled, aForceEnabled, aCompEnabled;
 
 function uiControlUpdate() {
   particleSpeed = document.getElementById('particle-speed').value;
   particleCount = document.getElementById('particle-count').value;
+  renderFields = document.getElementById('chk-render-fields').value;
+  rCoefficient = document.getElementById('r-coefficient').value;
+  aCoefficient = document.getElementById('a-coefficient').value;
   rForceEnabled = document.getElementById('chk-r-force').value;
   rCompEnabled = document.getElementById('chk-r-components').value;
   aForceEnabled = document.getElementById('chk-a-force').value;
@@ -898,10 +1054,6 @@ function uiControlUpdate() {
 }
 
 var anyQuad = new Quad(gl);
-
-// TODO: initialize samplers
-
-var startTime, currentTime, elapsedTime, lastFrameStart, lastFrameTime, deltaT;
 
 gl.bindFramebuffer(gl.DRAW_FRAMEBUFFER, null);
 gl.viewport(0, 0, renderResolution[0], renderResolution[1]);
@@ -916,9 +1068,31 @@ gl.clear(gl.COLOR_BUFFER_BIT);
 // (6) balance constants
 // (7) focus on animation (emoji texture-atlas)
 
+//var texContainer = new Int32Array(particleResolution[0] * particleResolution[1] * 4),
+//  texContainer2 = new Float32Array(particleResolution[0] * particleResolution[1] * 4);
+
+//var texContainer = new Int32Array(renderResolution[0] * renderResolution[1] * 4);
+//texContainer.reduce((a,v,i) => { if (v != 0 && v != 2147483647) { a.push([i,v]); } return a}, [])
+
+var texContainer = new Float32Array(particleResolution[0] * particleResolution[1] * 4);
+
+var framecount = 0;
+
+var startTime = Date.now(),
+  currentTime = startTime,
+  elapsedTime = currentTime - startTime,
+  lastFrameStart = currentTime,
+  lastFrameTime = currentTime - lastFrameStart;
+
+var deltaT = vec4.fromValues(0.0,0.0,0.0,0.0);
+
 function render() {
+  framecount++;
   updateTime();
   deltaT = updateDeltaT(deltaT, lastFrameTime);
+
+  uiControlUpdate();
+  var ballSize = 21;
 
   var particleUniforms = {
     resolution: particleResolution,
@@ -941,15 +1115,82 @@ function render() {
 
   rpParticleIds.encode(gl, particleIdsUniforms, {
     framebuffer: fboParticleIds,
-    particles: particlePonger.getCurrent('particles')
+    particles: particlePonger.getCurrent('particles'),
+    particleCount: particleCount
   });
+
+  //var debugParticleIdsUniforms = {
+  //  resolution: renderResolution
+  //};
+  //
+  //rpDebugParticleIds.encode(gl, debugParticleIdsUniforms, {
+  //  framebuffer: null,
+  //  particleIds: particleIdsTexture
+  //});
+
+  var fieldsUniforms = {
+    resolution: renderResolution,
+    ballSize: ballSize,
+    rCoefficient: rCoefficient,
+    aCoefficient: aCoefficient
+  };
+
+  rpFields.encode(gl, fieldsUniforms, {
+    framebuffer: fieldPonger.getCurrentFbo(),
+    particles: particlePonger.getCurrent('particles'),
+    particleIds: particleIdsTexture
+  });
+
+  if (framecount < 10) {
+    console.log(deltaT);
+    gl.bindFramebuffer(gl.READ_FRAMEBUFFER, fieldPonger.getCurrentFbo());
+    gl.readBuffer(gl.COLOR_ATTACHMENT0);
+    gl.readPixels(0, renderResolution[1]/2, particleResolution[0], particleResolution[1], gl.RGBA, gl.FLOAT, texContainer);
+    console.log(texContainer);
+    gl.bindFramebuffer(gl.READ_FRAMEBUFFER, null);
+  }
+
+  fieldPonger.increment();
+
+  if (renderFields) {
+    var renderFieldsUniforms = {
+      resolution: renderResolution,
+      rCoefficient: rCoefficient,
+      aCoefficient: aCoefficient
+    };
+
+    rpRenderFields.encode(gl, renderFieldsUniforms, {
+      framebuffer: null,
+      repelField: fieldPonger.getCurrent('repelField'),
+      repelComp: fieldPonger.getCurrent('repelComp'),
+      attentionField: fieldPonger.getCurrent('attentionField'),
+      attentionComp: fieldPonger.getCurrent('attentionComp'),
+      particleIds: particleIdsTexture
+    });
+
+
+  } else {
+    //var renderUniforms = {
+    //
+    //}
+    //
+    //rpRender.encode(gl, renderUniforms, {
+    //
+    //})
+  }
+
 
   requestAnimationFrame(render);
 }
 
-window.onload = function() {
-  startTime, currentTime, elapsedTime, lastFrameStart, lastFrameTime = startTiming();
-  deltaT = vec4.fromValues(0.0,0.0,0.0,0.0);
+
+//window.onload = function() {
 
   render();
-};
+//};
+
+}
+
+window.onload = function() {
+  runWebGL();
+}
