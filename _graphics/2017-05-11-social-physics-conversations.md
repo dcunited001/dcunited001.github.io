@@ -132,16 +132,14 @@ void main() {
   // Update Particles
   // =======================================
 
-  vec4 newRandom = fract(vec4(newRandom) / maxIntFloat + 0.5) - 0.5;
+  vec4 newRandomFloat = fract(vec4(newRandom) / maxIntFloat + 0.5) - 0.5;
   particle = texture(s_particles, uv);
 
-  particle.z += newRandom.z
+  particle.z += newRandomFloat.z * u_rotationSpeed * u_deltaTime.x / 1000.0;
+  float stepLength = (newRandomFloat.w + 0.5) * u_particleSpeed * u_deltaTime.x / 1000.0;
 
-  particle.x += (u_particleSpeed * newRandom.x * u_deltaTime.x / 1000.0);
-  particle.y += (u_particleSpeed * newRandom.y * u_deltaTime.x / 1000.0);
-
-
-  // TODO: particle.z for angle ...
+  particle.x += cos(particle.z) * stepLength;
+  particle.y += sin(particle.z) * stepLength;
 }
 </script>
 
