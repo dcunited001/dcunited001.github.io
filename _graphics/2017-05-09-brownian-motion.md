@@ -27,6 +27,11 @@ name: "David Conner"
   </div>
 </div>
 
+### Challenges:
+
+- a 'true PRNG' for the GPU
+- texture ping-ponging
+
 <pre class="highlight">Fragment Shader: fsUpdateParticles<code id="codeFsUpdateParticles"></code></pre>
 <pre class="highlight">Vertex Shader: vsParticles<code id="codeVsParticles"></code></pre>
 <pre class="highlight">Fragment Shader: fsParticles<code id="codeFsParticles"></code></pre>

@@ -1,5 +1,5 @@
 ---
-title: "Social Physics: Conversations"
+title: "Neural Vector Fields"
 categories: "graphics"
 tags: "graphics computer-science"
 headline: ""
@@ -7,7 +7,6 @@ excerpt: ""
 author:
 name: "David Conner"
 ---
-
 
 <div class="row">
   <div class="col-sm-3">
@@ -20,7 +19,7 @@ name: "David Conner"
   </div>
   <div class="col-sm-3">
     <label for="rotation-speed">Rotation Speed:</label>
-    <input id="rotation-speed" type="range" min="0.025" max="2.0" step="0.025" value="0.5"/>
+    <input id="rotation-speed" type="range" min="0.025" max=".0" step="0.025" value="0.5"/>
   </div>
   <div class="col-sm-3">
     <label class="checkbox-inline">
@@ -28,7 +27,6 @@ name: "David Conner"
     </label>
   </div>
 </div>
-
 
 <div class="row">
   <div class="col-sm-6">
@@ -61,16 +59,13 @@ name: "David Conner"
   </div>
 </div>
 
-
-- https://gamedevelopment.tutsplus.com/tutorials/understanding-goal-based-vector-field-pathfinding--gamedev-9007
-
 ### Challenges:
 
 - forcing rasterization of only one pixel in vsParticleId/fsParticleId shaders
-  - check with `var reducted = texContainer.reduce((a,v,i) => { if (v != 0 && v != 2147483647) { a.push([i,v]); } return a}, []);`
-  - and with `var counts = reducted.reduce((a,v) => { a[v[1]] = (a[v[1]] || 0) + 1 ; return a }, {});`
-  - counts should only be one and should sum up to slightly less than 1024,
-    - accounting for the case where two particles occupy the same pixel
+- check with `var reducted = texContainer.reduce((a,v,i) => { if (v != 0 && v != 2147483647) { a.push([i,v]); } return a}, []);`
+- and with `var counts = reducted.reduce((a,v) => { a[v[1]] = (a[v[1]] || 0) + 1 ; return a }, {});`
+- counts should only be one and should sum up to slightly less than 1024,
+- accounting for the case where two particles occupy the same pixel
 
 <script type="x-shader/x-vertex" id="vsPass">
 layout(location = 0) in vec3 a_position;
@@ -140,6 +135,22 @@ void main() {
 
   particle.x += cos(particle.z) * stepLength;
   particle.y += sin(particle.z) * stepLength;
+
+  if (particle.x >= 1.0) {
+    particle.x -= 2.0;
+  }
+
+  if (particle.x < -1.0) {
+    particle.x += 2.0;
+  }
+
+  if (particle.y >= 1.0) {
+    particle.y -= 2.0;
+  }
+
+  if (particle.y < -1.0) {
+    particle.y += 2.0;
+  }
 }
 </script>
 
@@ -217,13 +228,15 @@ void main() {
       vec2 texelCoords = mod(gl_FragCoord.xy + vec2(float(i), float(j)), u_resolution.xy) / u_resolution.xy;
       ivec4 particleId = texture(s_particleIds, texelCoords);
 
+      // TODO: translate uv-coordinates to screen space particle coordinates
       if (particleId.z == 1) { // if particleId is defined
         ivec2 particleUV = ivec2(particleId.x % particlesSize.x, particleId.x / particlesSize.x);
         vec4 particle = texelFetch(s_particles, particleUV, 0);
 
-        float d = distance(particle.xy, uv) * distance(vec2(0.0, 0.0), u_resolution.xy);
-        vec2 particleToUV = particle.xy - uv;
-        float rad = atan(particleToUV.y, particleToUV.x);
+        vec2 uvScreenSpace = 2.0 * (uv - vec2(0.5,0.5));
+        float d = distance(particle.xy, uvScreenSpace) * distance(vec2(0.0, 0.0), u_resolution.xy);
+        vec2 particleToUV = particle.xy - uvScreenSpace;
+        float rad = atan(particleToUV.y / particleToUV.x);
         vec2 rForce = vec2(cos(rad), sin(rad)) / d;
 
         repelField.xy += u_rCoefficient * rForce;
@@ -268,11 +281,19 @@ void main() {
 
   ivec4 particleId = texture(s_particleIds, uv);
 
+  // neural vector fields
   color = vec4(
     distance(vec2(0.0,0.0), rForce.xy),
     float(particleId.x % 8) / 8.0,
     rComp.x,
     1.0);
+
+  // pillars of creation
+  //color = vec4(
+    //10.0 * rForce.x,
+    //10.0 * rForce.y,
+    //rComp.x,
+    //1.0);
 }
 </script>
 
