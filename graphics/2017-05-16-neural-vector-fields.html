@@ -148,7 +148,7 @@ IVVMM::::.:.:. . ... .::II:.::..:.. .. .. . . .:.:::IHH:.:HHIIHIHH':-'
             (her name's roxanne)
 
            -->
-    <title>Canvas Fu ♥ te.xel.io</title>
+    <title>Neural Vector Fields ♥ te.xel.io</title>
     <meta http-equiv="X-UA-Compatible" content="IE=edge,chrome=1">
     <meta name="viewport" content="width=device-width, initial-scale=1.0, maximum-scale=1.0">
     <meta content="yes" name="apple-mobile-web-app-capable">
@@ -278,19 +278,19 @@ IVVMM::::.:.:. . ... .::II:.::..:.. .. .. . . .:.:::IHH:.:HHIIHIHH':-'
 
 <div class="title-group">
   
-  <aside>My first interactive post on 3D graphics with WebGL & ThreeJS</aside>
+  <aside></aside>
   
 
   <h1 class="special">
     <span>
       
-      Canvas Fu
+      Neural Vector Fields
       
     </span>
   </h1>
   
   <aside>
-    12.30.16
+    05.16.17
     
     &middot;
     
@@ -320,74 +320,369 @@ IVVMM::::.:.:. . ... .::II:.::..:.. .. .. . . .:.:::IHH:.:HHIIHIHH':-'
 
       <div class="row">
         <div class="col-md-10 col-md-offset-1">
-          <h1 id="ye-olde-webgl-canvas-with-threejs">Ye Olde WebGL Canvas with ThreeJS</h1>
+          <h4 id="requires-es6--webgl-20-x2605-runs-best-in-firefox-and-chrome-x2605-does-not-run-on-mobile">Requires ES6 &amp; WebGL 2.0 ★ Runs Best In Firefox (and Chrome) ★ Does Not Run On Mobile</h4>
 
-<p>This is my first post on 3D graphics with WebGL &amp; Three.js. I set up a
-section of my blog with an interactive template, so I can easily
-create more of these.  This demo was ripped out of the Three.js
-examples by the way. It’s slightly modified to move the camera in the
-z-axis according to the mouse’s distance from the center of the
-browswer window. I need to figure out how to read touch input for
-mobile browsers, but for now</p>
+<div class="row">
+  <div class="col-sm-3">
+    <label for="particle-count">Particle Count:</label>
+    <input id="particle-count" type="range" min="128" max="10240" step="128" value="1024" />
+  </div>
+  <div class="col-sm-3">
+    <label for="particle-speed">Particle Speed:</label>
+    <input id="particle-speed" type="range" min="0.025" max="10.0" step="0.025" value="0.050" />
+  </div>
+  <div class="col-sm-3">
+    <label for="rotation-speed">Rotation Speed:</label>
+    <input id="rotation-speed" type="range" min="0.0" max="20.0" step="0.25" value="0.5" />
+  </div>
+  <div class="col-sm-3">
+    <label for="r-coefficient">R-Force Coefficient:</label>
+    <input id="r-coefficient" type="range" min="0.025" max="10.0" step="0.025" value="1.0" />
+  </div>
+</div>
 
-<h3 id="social-mechanics">Social Mechanics</h3>
+<!-- TODO: enable/disable display of particle colors -->
 
-<p>I hope to use these to demonstrate what I’ve been learning with
-math. I’m excited to work on social mechanics and social physics and
-doing so requires a bit of brownian motion and eigenfunctions.  I
-independently stumbled upon this once I realized I could create a
-particle shader that <em>proves</em> many of the depressing social mechanics
-that get under my skin. I could do so visually in a way that’s much
-more difficult to argue with and feign ignorance. It’s similar to
-statistical mechanics and quantum mechanics. I hope to implement this
-stuff using compute shaders and textures in WebGL.</p>
+<!--<div class="row">-->
+<p><!--<label><input type="radio" id="radio-effect" onchange="loadEffect('neural-vector-fields')" checked>Neural Vector Fields</label>-->
+  <!--<label><input type="radio" id="radio-effect" onchange="loadEffect('pillars-of-creation')">Pillars of Creation</label>-->
+<!--</div>--></p>
 
-<h3 id="its-all-about-the-gigarands-baby">It’s All About The Gigarands, Baby</h3>
+<h1 id="overview">Overview</h1>
 
-<p>My next task is to create a few random number generators and write to
-textures with them. I’m going to use a simple Linear Congruential
-Method, but with UI and controls to modulate the parameters. I may
-also include multiple types of random generators. My first approach to
-a GPU PRNG was to intuitively mimic the Wallace Transform. At least, I
-think that’s the approach I was taking. I downloaded a bunch of GPU
-PRNG papers. It’s not anything like the Merseinne prime twister. It’s
-quite a bit more complicated than LCM and LFSR. IMO, that’s impressive
-for someone who doesn’t have a college degree.</p>
+<p>This is a particle shader where the particles exhibit a force on a
+field, which is rendered to a texture.  It’s kind of a hello world for
+molecular dynamics. In this simulation, the field does not change the
+movement of particles. That involves gradient descent, which I will
+focus on next. In this animation, the motion of particles is similar
+to the <a href="/graphics/">Brownian Motion</a> shader I just wrote. Here it’s
+like a polar version of Brownian Motion, where the random numbers that
+are generated alter the forward motion of the particles and the
+rotation of each.  In this way, the particles have a rotational
+orientation, which is important later on and in particular for the
+implementation of gradient descent that I will use. This kind of
+gradient descent is quite a bit more difficult than normal.</p>
 
-<h3 id="porting-code-from-spectraprojectsspectrahtml">Porting Code from <a href="/projects/spectra.html">Spectra</a></h3>
+<p>The long term goal of this series on graphics simulations is a social
+physics simulation, where the particles exhibit a non-directional
+repulsive force and a directional attractive force. This force is
+calculated on two shared fields and balanced to produce equilibrium,
+so that the particles form molecule-like “conversations.” Then,
+“programs” can be written “within” the simulation, which are
+essentially probabilistic state machines. These allow the exchange of
+information and the difference in behavior of various particles types
+to be observed. Utilizing Delauney Triangulation and Quad Trees, the
+ways in which particles are able to exchange can be greatly expanded.</p>
 
-<p>Also, I’ve written some geometry code in Swift with Metal for Spectra,
-so I hope to port some of that to WebGL, since it’s a bit hard to
-demonstrate in XCode. With the Three.js compute shader code, I can
-port my lattice generation code to WebGL.  One project I want to work
-on is a 3D version of Conway’s Game of Life using a 3D lattice and
-computing state changes with compute shaders.</p>
+<h1 id="challenges">Challenges</h1>
 
-<h3 id="so-yeh--i-should-probably-have-a-job-lmao">So yeh … I should probably have a job LMAO</h3>
+<h3 id="avoiding-use-of-blending">Avoiding Use of Blending</h3>
 
-<script src="/js/3d/2016-12-30-canvas-fu.js" type="text/javascript"></script>
+<p>The correct way to render the field textures is by using blending,
+which I tried to use on the brownian motion shader. Configuring
+blending with transparent particles is a bit tricky in 2D, since in 3D
+the particle can be sorted and drawn back to front. I ran into
+problems doing this and decided to implement it in a different way,
+which is much less performant, but still creative.</p>
 
-<!--
-- https://roman01la.github.io/threejs-cljs-playground/#/8962e543-f558-12d7-cb73-682985a679eb
+<h3 id="rendering-particleid-and-joining-textures">Rendering ParticleId and Joining Textures</h3>
 
-- Hachisuka Toshiya 2015: https://arxiv.org/pdf/1505.06022.pdf
-- http://nullprogram.com/blog/2014/06/29/
-- http://nullprogram.com/webgl-particles/
-- https://github.com/soulwire/Coffee-Physics
-- https://soulwire.co.uk/webgl-gpu-particles/
-- https://github.com/soulwire/WebGL-GPU-Particles
-- https://www.ibiblio.org/e-notes/webgl/gpu/contents.htm
-- https://thebookofshaders.com/10/
-- https://aerotwist.com/tutorials/an-introduction-to-shaders-part-1/
-- https://threejs.org/examples/js/GPUParticleSystem.js
+<p>To avoid blending, I employed a bit of relational algebra and took a
+page from SQL. I rendered the particles first, writing the
+<code>particleId</code> to just one pixel each. This is rendered to a texture
+after the particles have their position updated. Then, in the
+<code>fsFields</code> shader, I join the <code>particles</code> and <code>particleIds</code> texture.</p>
 
-general graphics samples
-- https://docs.nvidia.com/gameworks/content/gameworkslibrary/graphicssamples/opengl_samples/gl-samples.htm
+<p>There is a drawback, which is that occasionally two particles can
+overlap, leading to an inaccurately generated field. However, for the
+purpose of calculating a shared field used to update the particle
+positions, this is fine: with properly tuned parameters, equilibria is
+produced, the particles repel and no two particles should ever occupy
+the same pixel. If they do, then the particles are still update as
+though they are in slightly separate positions, so no two particles
+would ever get “stuck” together in the same pixel.</p>
 
-other algs/ideas:
-- https://gamedevelopment.tutsplus.com/tutorials/understanding-goal-based-vector-field-pathfinding--gamedev-9007
+<h3 id="improving-the-speed">Improving the Speed</h3>
 
--->
+<p>The problem with this implementation is that it’s slow. This is
+because of the for loop in the <code>fsFields</code> shader. I expected there to
+be large performance hits. To avoid these, I need to properly
+configure blending to minimize the number of pixels rastered. This
+will be much better and much simpler in the end.  With a <code>ballSize</code> of
+21, there is a loop of 445 iterations on every pixel drawn in
+<code>fsFields</code>.</p>
+
+<h3 id="checking-rasterization-of-particleid">Checking Rasterization of ParticleId</h3>
+
+<p>To get the <code>particleId</code> joining solution working, this required
+forcing rasterization of only one pixel in vsParticleId &amp; fsParticleId
+shaders. This the motivation behind the following lines:</p>
+
+<figure class="highlight"><pre><code class="language-js" data-lang="js"><span class="nx">particle</span><span class="p">.</span><span class="nx">x</span> <span class="o">=</span> <span class="p">(</span><span class="nx">trunc</span><span class="p">(</span><span class="nx">particle</span><span class="p">.</span><span class="nx">x</span> <span class="o">*</span> <span class="nx">u_resolution</span><span class="p">.</span><span class="nx">x</span><span class="p">)</span> <span class="o">+</span> <span class="mf">0.5</span><span class="p">)</span> <span class="o">/</span> <span class="nx">u_resolution</span><span class="p">.</span><span class="nx">x</span><span class="p">;</span>
+<span class="nx">particle</span><span class="p">.</span><span class="nx">y</span> <span class="o">=</span> <span class="p">(</span><span class="nx">trunc</span><span class="p">(</span><span class="nx">particle</span><span class="p">.</span><span class="nx">y</span> <span class="o">*</span> <span class="nx">u_resolution</span><span class="p">.</span><span class="nx">y</span><span class="p">)</span> <span class="o">+</span> <span class="mf">0.5</span><span class="p">)</span> <span class="o">/</span> <span class="nx">u_resolution</span><span class="p">.</span><span class="nx">y</span><span class="p">;</span></code></pre></figure>
+
+<p>Ensuring that each particle only resulting in one pixel draw is
+absolutely essential for an accurate field being drawn. I wanted to
+minimize debugging math errors in runtime, so to check the output of
+the <code>fsParticleId</code> shaders, I debugged it with the following lines of
+code:</p>
+
+<figure class="highlight"><pre><code class="language-js" data-lang="js"><span class="c1">// after using readPixels() to copy pixels from the particleId framebuffer</span>
+<span class="kd">var</span> <span class="nx">maxIntFloat</span> <span class="o">=</span> <span class="mi">2147483647</span><span class="p">;</span>
+<span class="kd">var</span> <span class="nx">renderedPixels</span> <span class="o">=</span> <span class="nx">texContainer</span><span class="p">.</span><span class="nx">reduce</span><span class="p">((</span><span class="nx">a</span><span class="p">,</span><span class="nx">v</span><span class="p">,</span><span class="nx">i</span><span class="p">)</span> <span class="o">=&gt;</span> <span class="p">{</span> <span class="k">if</span> <span class="p">(</span><span class="nx">v</span> <span class="o">!=</span> <span class="mi">0</span> <span class="o">&amp;&amp;</span> <span class="nx">v</span> <span class="o">!=</span> <span class="mi">2147483647</span><span class="p">)</span> <span class="p">{</span> <span class="nx">a</span><span class="p">.</span><span class="nx">push</span><span class="p">([</span><span class="nx">i</span><span class="p">,</span><span class="nx">v</span><span class="p">]);</span> <span class="p">}</span> <span class="k">return</span> <span class="nx">a</span><span class="p">},</span> <span class="p">[]);</span>
+<span class="kd">var</span> <span class="nx">particleIdCounts</span> <span class="o">=</span> <span class="nx">renderedPixels</span><span class="p">.</span><span class="nx">reduce</span><span class="p">((</span><span class="nx">a</span><span class="p">,</span><span class="nx">v</span><span class="p">)</span> <span class="o">=&gt;</span> <span class="p">{</span> <span class="nx">a</span><span class="p">[</span><span class="nx">v</span><span class="p">[</span><span class="mi">1</span><span class="p">]]</span> <span class="o">=</span> <span class="p">(</span><span class="nx">a</span><span class="p">[</span><span class="nx">v</span><span class="p">[</span><span class="mi">1</span><span class="p">]]</span> <span class="o">||</span> <span class="mi">0</span><span class="p">)</span> <span class="o">+</span> <span class="mi">1</span> <span class="p">;</span> <span class="k">return</span> <span class="nx">a</span> <span class="p">},</span> <span class="p">{});</span></code></pre></figure>
+
+<p>With this code, I was able to check that there were slightly less than
+1024 counts, where the sum in the hash <code>particleIdCounts</code> was exactly
+one for every pixel. There would be slightly less than 1024 counts for
+1024 pixels because of the chance that two particles could be rendered
+to the same pixel and overwritten. This is fine, but I needed to
+ensure that no single particle would result in the rasterization of
+more than one pixel. This is a creative approach to solving the
+problem, but ended up being less performant than necessary.</p>
+
+<pre class="highlight">Fragment Shader: fsParticle<code id="codeFsParticle"></code></pre>
+<pre class="highlight">Vertex Shader: vsParticleId<code id="codeVsParticleId"></code></pre>
+<pre class="highlight">Fragment Shader: fsParticleId<code id="codeFsParticleId"></code></pre>
+<pre class="highlight">Fragment Shader: fsFields<code id="codeFsFields"></code></pre>
+<pre class="highlight">Fragment Shader: fsRenderFields<code id="codeFsRenderFields"></code></pre>
+
+<script type="x-shader/x-vertex" id="vsPass">
+layout(location = 0) in vec3 a_position;
+layout(location = 1) in vec2 a_texcoord;
+
+out vec2 v_st;
+out vec3 v_position;
+
+void main() {
+  v_st = a_texcoord;
+  v_position = a_position;
+  gl_Position = vec4(a_position, 1.0);
+}
+</script>
+
+<script type="x-shader/x-fragment" id="fsParticle">
+uniform vec2 u_resolution;
+uniform ivec4 u_randomSeed;
+uniform float u_particleSpeed;
+uniform float u_rotationSpeed;
+uniform vec4 u_deltaTime;
+
+uniform isampler2D s_particleRandoms;
+uniform sampler2D s_particles;
+
+in vec2 v_st;
+in vec3 v_position;
+
+layout(location = 0) out ivec4 random;
+layout(location = 1) out vec4 particle;
+
+const float maxIntFloat = 2147483647.0;
+
+void main() {
+  vec2 uv = gl_FragCoord.xy / u_resolution.xy;
+
+  // =======================================
+  // Update Randoms
+  // =======================================
+
+  ivec4 randomTexel = texture(s_particleRandoms, uv);
+
+  vec2 texelCoords[4];
+  texelCoords[0] = mod(gl_FragCoord.xy + vec2( 0.0, -2.0), u_resolution.xy) / u_resolution.xy;
+  texelCoords[1] = mod(gl_FragCoord.xy + vec2( 1.0,  0.0), u_resolution.xy) / u_resolution.xy;
+  texelCoords[2] = mod(gl_FragCoord.xy + vec2( 0.0,  1.0), u_resolution.xy) / u_resolution.xy;
+  texelCoords[3] = mod(gl_FragCoord.xy + vec2(-1.0,  1.0), u_resolution.xy) / u_resolution.xy;
+
+  ivec4 texels[4];
+  texels[0] = texture(s_particleRandoms, texelCoords[0]);
+  texels[1] = texture(s_particleRandoms, texelCoords[1]);
+  texels[2] = texture(s_particleRandoms, texelCoords[2]);
+  texels[3] = texture(s_particleRandoms, texelCoords[3]);
+
+  ivec4 newRandom = u_randomSeed ^ randomTexel ^ texels[0] ^ texels[1] ^ texels[2] ^ texels[3];
+  random = newRandom;
+
+  // =======================================
+  // Update Particles
+  // =======================================
+
+  vec4 newRandomFloat = fract(vec4(newRandom) / maxIntFloat + 0.5) - 0.5;
+  particle = texture(s_particles, uv);
+
+  particle.z += newRandomFloat.z * u_rotationSpeed * u_deltaTime.x / 1000.0;
+  float stepLength = (newRandomFloat.w + 0.5) * u_particleSpeed * u_deltaTime.x / 1000.0;
+
+  particle.x += cos(particle.z) * stepLength;
+  particle.y += sin(particle.z) * stepLength;
+
+  particle.x = mod(particle.x + 1.0, 2.0) - 1.0;
+  particle.y = mod(particle.y + 1.0, 2.0) - 1.0;
+}
+</script>
+
+<script type="x-shader/x-fragment" id="vsParticleId">
+uniform vec2 u_resolution;
+uniform sampler2D s_particles;
+
+layout(location = 0) in int a_index;
+
+flat out int v_particleId;
+out float v_pointSize;
+out vec4 v_position;
+
+const float maxIntFloat = 2147483647.0;
+
+void main()
+{
+  // textureSize must return ivec & texelFetch must accept ivec
+  ivec2 texSize = textureSize(s_particles, 0);
+  ivec2 texel = ivec2(a_index % texSize.x, a_index / texSize.x);
+  vec4 particle = texelFetch(s_particles, texel, 0);
+
+  // This needs to write to exactly one pixel (otherwise FML)
+  // - it appears to rasterize only one pixel with/without the 0.5 constant
+  particle.x = (trunc(particle.x * u_resolution.x) + 0.5) / u_resolution.x;
+  particle.y = (trunc(particle.y * u_resolution.y) + 0.5) / u_resolution.y;
+
+  v_particleId = a_index;
+  v_position = vec4(particle.x, particle.y, 0.0, 1.0);
+
+  gl_Position = v_position;
+  gl_PointSize = 1.0;
+}
+</script>
+
+<script type="x-shader/x-fragment" id="fsParticleId">
+flat in int v_particleId;
+in vec4 v_position;
+
+out ivec4 color;
+
+const int maxInt = 2147483647;
+
+void main() {
+  color = ivec4(v_particleId, 0, 1, maxInt);
+}
+</script>
+
+<script type="x-shader/x-fragment" id="fsFields">
+uniform vec2 u_resolution;
+uniform int u_ballSize;
+uniform float u_rCoefficient;
+
+uniform sampler2D s_particles;
+uniform isampler2D s_particleIds;
+
+layout(location = 0) out vec4 repelField;
+layout(location = 1) out vec4 repelComp;
+
+void main() {
+  vec2 uv = gl_FragCoord.xy / u_resolution.xy;
+  int ballSizeOffset = - u_ballSize / 2;
+  ivec2 particlesSize = textureSize(s_particles, 0);
+
+  repelField = vec4(0.0, 0.0, 0.0, 1.0);
+  repelComp = vec4(0.0, 0.0, 0.0, 1.0);
+
+  for (int i = ballSizeOffset; i <= ballSizeOffset + u_ballSize; i++) {
+    for (int j = ballSizeOffset; j <= ballSizeOffset + u_ballSize; j++) {
+      vec2 texelCoords = mod(gl_FragCoord.xy + vec2(float(i), float(j)), u_resolution.xy) / u_resolution.xy;
+      ivec4 particleId = texture(s_particleIds, texelCoords);
+
+      if (particleId.z == 1) { // if particleId is defined
+        ivec2 particleUV = ivec2(particleId.x % particlesSize.x, particleId.x / particlesSize.x);
+        vec4 particle = texelFetch(s_particles, particleUV, 0);
+
+        vec2 uvScreenSpace = 2.0 * (uv - vec2(0.5,0.5));
+        float d = distance(particle.xy, uvScreenSpace) * distance(vec2(0.0, 0.0), u_resolution.xy);
+        vec2 particleToUV = particle.xy - uvScreenSpace;
+        float rad = atan(particleToUV.y / particleToUV.x);
+        vec2 rForce = vec2(cos(rad), sin(rad)) / d;
+
+        repelField.xy += u_rCoefficient * rForce;
+        repelComp.x += distance(vec2(0.0,0.0), u_rCoefficient * rForce);
+      } else {
+        // ¯\_(ツ)_/¯ wut warps
+      }
+    }
+  }
+}
+</script>
+
+<script type="x-shader/x-fragment" id="fsRenderFields">
+uniform vec2 u_resolution;
+uniform float u_rCoefficient;
+
+uniform sampler2D s_repelField;
+uniform sampler2D s_repelComp;
+
+uniform isampler2D s_particleIds;
+
+out vec4 color;
+
+const float maxIntFloat = 2147483647.0;
+
+void main() {
+  vec2 uv = gl_FragCoord.xy / u_resolution.xy;
+
+  vec4 rForce = texture(s_repelField, uv);
+  vec4 rComp = texture(s_repelComp, uv);
+
+  ivec4 particleId = texture(s_particleIds, uv);
+
+  // "neural vector fields"
+  color = vec4(
+    distance(vec2(0.0,0.0), rForce.xy),
+    float(particleId.x % 8) / 8.0,
+    rComp.x,
+    1.0);
+
+  // "pillars of creation"
+  //color = vec4(
+    //10.0 * rForce.x,
+    //10.0 * rForce.y,
+    //rComp.x,
+    //1.0);
+}
+</script>
+
+<script type="x-shader/x-fragment" id="fsDebugParticleIds">
+uniform vec2 u_resolution;
+uniform isampler2D s_particleIds;
+
+out vec4 color;
+
+const float maxIntFloat = 2147483647.0;
+
+void main() {
+  vec2 uv = gl_FragCoord.xy / u_resolution.xy;
+  ivec4 particleInt = texture(s_particleIds, uv);
+  //vec4 particle = fract(vec4(particleInt) / 128.0);
+  vec4 particle = vec4(particleInt) / maxIntFloat;
+
+  //color = vec4(1.0, 1.0, 0.0, 1.0);
+  color = vec4(particle.rgb, 1.0);
+}
+</script>
+
+<script type="text/javascript" src="/js/3d/2017-05-15-neural-vector-fields.js"></script>
+
+<script type="text/javascript">
+  function pasteShaderToCodeBlock(shaderId, codeBlockId) {
+    var shaderCode = document.getElementById(shaderId).textContent;
+    var codeBlock = document.getElementById(codeBlockId);
+    codeBlock.innerHTML = shaderCode;
+    hljs.highlightBlock(codeBlock);
+  }
+
+  pasteShaderToCodeBlock('fsParticle','codeFsParticle');
+  pasteShaderToCodeBlock('vsParticleId','codeVsParticleId');
+  pasteShaderToCodeBlock('fsParticleId','codeFsParticleId');
+  pasteShaderToCodeBlock('fsFields','codeFsFields');
+  pasteShaderToCodeBlock('fsRenderFields','codeFsRenderFields');
+</script>
+
 
         </div>
       </div>
@@ -399,8 +694,8 @@ other algs/ideas:
 <div id="disqus_thread"></div>
 <script type="text/javascript">
   window.disqus_identifier="";
-  window.disqus_url="https://te.xel.io//graphics/2016-12-30-canvas-fu.html";
-  window.disqus_title="Canvas Fu";
+  window.disqus_url="https://te.xel.io//graphics/2017-05-16-neural-vector-fields.html";
+  window.disqus_title="Neural Vector Fields";
 </script>
 <script type="text/javascript" src="https://disqus.com/forums/te-xel-io/embed.js"></script>
 <noscript><a href="https://te-xel-io.disqus.com/?url=ref">View the discussion thread.</a></noscript>
