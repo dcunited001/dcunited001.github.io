@@ -1,3 +1,4 @@
+"use strict";
 
 function createShader(gl, source, type) {
   var shader = gl.createShader(type);
@@ -489,7 +490,6 @@ function runWebGL() {
   gl.enable(gl.DEPTH_TEST);
   gl.depthFunc(gl.LESS);
 
-
   var UINT32_MAX = (2 ** 32) - 1;
   var INT32_MAX = (2 ** 31) - 1;
 
@@ -852,7 +852,6 @@ function runWebGL() {
     encodeUniforms: (context, uniforms, ops) => {
       context.uniform2fv(rpRenderFields.uniformLocations.u_resolution, uniforms.resolution);
       context.uniform1f(rpRenderFields.uniformLocations.u_rCoefficient, uniforms.rCoefficient);
-      context.uniform1f(rpRenderFields.uniformLocations.u_aCoefficient, uniforms.aCoefficient);
       context.uniform1i(rpRenderFields.uniformLocations.s_repelField, 0);
       context.uniform1i(rpRenderFields.uniformLocations.s_repelComp, 1);
       context.uniform1i(rpRenderFields.uniformLocations.s_particleIds, 3);
@@ -916,7 +915,7 @@ function runWebGL() {
 // UI Controls
 // =======================================
   var particleSpeed, rotationSpeed, particleCount, renderFields;
-  var rCoefficient, aCoefficient, rForceEnabled, rCompEnabled, aForceEnabled, aCompEnabled;
+  var rCoefficient, rForceEnabled, rCompEnabled;
 
   function uiControlUpdate() {
     particleSpeed = document.getElementById('particle-speed').value;
@@ -941,6 +940,10 @@ function runWebGL() {
     lastFrameTime = currentTime - lastFrameStart;
 
   var deltaT = vec4.fromValues(0.0,0.0,0.0,0.0);
+
+// =======================================
+// Render Loop
+// =======================================
 
   function render() {
     framecount++;
@@ -979,8 +982,7 @@ function runWebGL() {
     var fieldsUniforms = {
       resolution: fieldResolution,
       ballSize: ballSize,
-      rCoefficient: rCoefficient,
-      aCoefficient: aCoefficient
+      rCoefficient: rCoefficient
     };
 
     rpFields.encode(gl, fieldsUniforms, {
@@ -997,8 +999,7 @@ function runWebGL() {
 
     var renderFieldsUniforms = {
       resolution: renderResolution,
-      rCoefficient: rCoefficient,
-      aCoefficient: aCoefficient
+      rCoefficient: rCoefficient
     };
 
     rpRenderFields.encode(gl, renderFieldsUniforms, {

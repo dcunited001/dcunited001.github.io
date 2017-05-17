@@ -137,11 +137,11 @@ ensure that no single particle would result in the rasterization of
 more than one pixel. This is a creative approach to solving the
 problem, but ended up being less performant than necessary.
 
-<pre class="highlight">Fragment Shader: fsParticles<code id="codeFsParticles"></code></pre>
+<pre class="highlight">Fragment Shader: fsParticle<code id="codeFsParticle"></code></pre>
 <pre class="highlight">Vertex Shader: vsParticleId<code id="codeVsParticleId"></code></pre>
-<pre class="highlight">Fragment Shader: fsParticleId<code id="codeFsParticles"></code></pre>
-<pre class="highlight">Fragment Shader: fsFields<code id="fsFields"></code></pre>
-<pre class="highlight">Fragment Shader: fsRenderFields<code id="fsRenderFields"></code></pre>
+<pre class="highlight">Fragment Shader: fsParticleId<code id="codeFsParticleId"></code></pre>
+<pre class="highlight">Fragment Shader: fsFields<code id="codeFsFields"></code></pre>
+<pre class="highlight">Fragment Shader: fsRenderFields<code id="codeFsRenderFields"></code></pre>
 
 <script type="x-shader/x-vertex" id="vsPass">
 layout(location = 0) in vec3 a_position;
@@ -324,8 +324,6 @@ void main() {
 
   vec4 rForce = texture(s_repelField, uv);
   vec4 rComp = texture(s_repelComp, uv);
-  vec4 aForce = texture(s_attentionField, uv);
-  vec4 aComp = texture(s_attentionComp, uv);
 
   ivec4 particleId = texture(s_particleIds, uv);
 
@@ -374,7 +372,7 @@ void main() {
     hljs.highlightBlock(codeBlock);
   }
 
-  pasteShaderToCodeBlock('fsParticles','codeFsParticles');
+  pasteShaderToCodeBlock('fsParticle','codeFsParticle');
   pasteShaderToCodeBlock('vsParticleId','codeVsParticleId');
   pasteShaderToCodeBlock('fsParticleId','codeFsParticleId');
   pasteShaderToCodeBlock('fsFields','codeFsFields');

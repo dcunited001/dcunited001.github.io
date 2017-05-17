@@ -1203,7 +1203,6 @@ sumerian creation myth (1600 BC)
   - http://arstechnica.com/science/2016/01/babylonians-tracked-jupiter-with-sophisticated-geometrical-math/
   - Used geometry that hints at calculus 1,500 years before Europeans.
 
-
 development of mythology
     - gilgamesh
 
