@@ -727,10 +727,10 @@ function runWebGL() {
       // - or should i add a frequency that the particles' fields resonate at?
     },
     encodeDraw: (context, uniforms, ops) => {
-      //context.drawBuffers([
-      //  context.COLOR_ATTACHMENT0,
-      //  context.COLOR_ATTACHMENT1
-      //]);
+      context.drawBuffers([
+        context.COLOR_ATTACHMENT0,
+        context.COLOR_ATTACHMENT1
+      ]);
 
       context.bindVertexArray(particleVertexArray);
       context.drawArrays(context.POINTS, 0, ops.particleCount);

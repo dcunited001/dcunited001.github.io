@@ -13,7 +13,7 @@ name: "David Conner"
 <div class="row">
   <div class="col-sm-3">
     <label for="particle-count">Particle Count:</label>
-    <input id="particle-count" type="range" min="1024" max="1048576" step="128" value="1024"/>
+    <input id="particle-count" type="range" min="128" max="20480" step="32" value="1024"/>
   </div>
   <div class="col-sm-3">
     <label for="particle-speed">Particle Speed:</label>
@@ -21,7 +21,7 @@ name: "David Conner"
   </div>
   <div class="col-sm-3">
     <label for="field-size">Field Size:</label>
-    <input id="field-size" type="range" min="1.0" max="35.0" step="1.0" value="1.0"/>
+    <input id="field-size" type="range" min="1.0" max="50.0" step="1.0" value="1.0"/>
   </div>
   <div class="col-sm-3">
     <label for="r-coefficient">R-Force Coefficient:</label>
@@ -29,12 +29,33 @@ name: "David Conner"
   </div>
 </div>
 
+### TODO:
+
+- fix rForce calculation
+  - check rComp calculation (not really necessary for this)
+- add UI options for rendering the field & its gradients in various ways
+  - automatically scale values from rForce texture based on particle density and expected range of values
+  - the rForce texture values (correctly) are not 0.0 to 1.0. they are the sum of components from particles.
+- eventually remove brownian motion component from particle behavior
+  - in the social physics simulation, i want to scale between brownian & gradient motion
+  - but that will throw off the thermal velocity calculation
+  - and brownian motion should emerge in the system anyways.
+
+### Overview
+
+### Challenges
+
+- using mipmap for aggregate calculations
+  - refer to paper that demonstrates algorithm for flock behavior
+- calculating the thermal velocity from partilce velocities
+
 <pre class="highlight">Fragment Shader: fsUpdateParticles<code id="codeFsUpdateParticles"></code></pre>
 <pre class="highlight">Vertex Shader: vsFields<code id="codeVsFields"></code></pre>
 <pre class="highlight">Fragment Shader: fsFields<code id="codeFsFields"></code></pre>
 <pre class="highlight">Fragment Shader: fsRenderFields<code id="codeFsRenderFields"></code></pre>
 
-<script type="x-shader/x-vertex" id="vsPass">layout(location = 0) in vec3 a_position;
+<script type="x-shader/x-vertex" id="vsPass">
+layout(location = 0) in vec3 a_position;
 layout(location = 1) in vec2 a_texcoord;
 
 out vec2 v_st;
@@ -99,6 +120,9 @@ void main() {
   particle = texture(s_particles, uv);
   particle.x += (u_particleSpeed * newRandomFloat.x * u_deltaTime.x / 1000.0);
   particle.y += (u_particleSpeed * newRandomFloat.y * u_deltaTime.x / 1000.0);
+
+  particle.x = mod(particle.x + 1.0, 2.0) - 1.0;
+  particle.y = mod(particle.y + 1.0, 2.0) - 1.0;
 }
 </script>
 
@@ -133,6 +157,7 @@ void main()
 
 <script type="x-shader/x-fragment" id="fsFields">
 uniform vec2 u_resolution;
+uniform float u_rCoefficient;
 uniform sampler2D s_particleAttributes;
 
 //in vec4 v_position; // not linkable to fsFields ?
@@ -149,16 +174,13 @@ void main()
   //vec4 pAttr = texelFetch(s_particleAttributes, texel, 0);
   //vec4 particleColor = vec4(pAttr.r, pAttr.g, pAttr.b, 1.0);
 
-  float distToParticle = distance(gl_PointCoord.xy, vec2(0.5,0.5));
-  float fading = 1.0 - 2.0 * distToParticle;
+  vec2 pointOffset = gl_PointCoord.xy - vec2(0.5, 0.5);
+  float d = distance(gl_PointCoord.xy, vec2(0.5,0.5));
+  float rad = atan(pointOffset.y, pointOffset.x);
+  vec2 rForce = u_rCoefficient * vec2(cos(rad), sin(rad)) / d;
 
-  if (fading < 0.0) { fading = 0.0; }
-
-  // TODO: set x/y components in repel force, scaled for distToParticle
-  repelForce = vec4(fading, 0.0, 0.0, 1.0);
-
-  // TODO: set repelComp to the aggregate of individual particle influences on that space
-  repelComp = vec4(fading, 0.0, 0.0, 1.0);
+  repelForce = vec4(rForce.xy, 0.0, 1.0);
+  repelComp = vec4(distance(rForce, vec2(0.0,0.0)), 0.0, 0.0, 1.0);
 }
 </script>
 
@@ -179,10 +201,15 @@ void main() {
   vec4 rForce = texture(s_repelField, uv);
   vec4 rComp = texture(s_repelComp, uv);
 
-  // "neural vector fields"
+  //color = vec4(
+  //  distance(vec2(0.0,0.0), rForce.xy),
+  //  0.0,
+  //  rComp.x,
+  //  1.0);
+
   color = vec4(
-    distance(vec2(0.0,0.0), rForce.xy),
-    0.0,
+    rForce.x,
+    rForce.y,
     rComp.x,
     1.0);
 }
