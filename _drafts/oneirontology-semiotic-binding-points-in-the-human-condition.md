@@ -557,3 +557,61 @@ homogenize all culture.
 
 - yggdrasil as a metaphor for traveling between planes
   - each world is its own plane
+
+
+
+# Personal Understanding of Judeochristian Religions
+
+(different title)
+
+- literal/symbolic interpretations of bible
+
+### Moses leading a slave revolt in Egypt
+
+
+### Wandering in the desert
+
+- galvanization of passionate, devoted followers
+- crossovers to social physics & demographics
+
+### Why The Hebrew Belief System Was So Different Than Others at the Time
+
+
+### Why Monotheism Was Predestined, Given Only A Human Need for Religion To Explain The Unknowable
+
+- monotheism was preordained by the complexity of information and the
+  nature of how people internalize and process information
+  - if you want something to be marketable, you make it simple
+  - that makes any monotheistic religion fit tightly around the zenith
+    of minimal complexity
+    - everyone knows what the deity is
+      - there is a clear single (albeit invisible) source of authority
+      - no competition b/w temples
+    - less for people to remember (at first)
+    - faster to learn
+    - simple creation myth (there was only one thing and everything
+      came from that one thing)
+      - a more predictable, more easily handled set of arguments to
+        criticize it.
+        - rebuttals to these arguments are easy to teach
+        - these arguments/rebuttals are (nearly) completely enumerable
+    - minimal amount of information for people to learn if they want
+      to know who to love, fear, and obey
+
+
+- belief systems are about evolutionary dynamics
+  - but it's about propagating the
+  - all of the above factors make monotheistic religions nearly
+    inevitable, given a primordial soup of prehistoric religions
+    - these spontaneously birthed traditions inculcated the tools of
+      survival in children and adults from the moment that we knew to
+      ask:
+      - what is your name?
+      - why is the sky blue?
+      - where do the stars go and why does everything else change?
+      - what is my purpose?
+      - why doesn't Ug wake up?
+    - a collection of information whose propagation was fueled by
+      authority made apparent through implicit
+
+    about phenomena
