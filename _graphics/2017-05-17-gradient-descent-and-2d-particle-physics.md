@@ -20,19 +20,22 @@ name: "David Conner"
     <input id="particle-speed" type="range" min="0.025" max="10.0" step="0.025" value="1.0"/>
   </div>
   <div class="col-sm-3">
+    <label for="particle-speed">Particle Mass:</label>
+    <input id="particle-mass" type="range" min="0.025" max="10.0" step="0.025" value="1.0"/>
+  </div>
+  <div class="col-sm-3">
     <label for="field-size">Field Size:</label>
     <input id="field-size" type="range" min="1.0" max="50.0" step="1.0" value="1.0"/>
   </div>
   <div class="col-sm-3">
     <label for="r-coefficient">R-Force Coefficient:</label>
-    <input id="r-coefficient" type="range" min="0.025" max="10.0" step="0.025" value="1.0"/>
+    <input id="r-coefficient" type="range" min="0.0125" max="2.0" step="0.0125" value="1.0"/>
   </div>
 </div>
 
 ### TODO:
 
-- fix rForce calculation
-  - check rComp calculation (not really necessary for this)
+- replace particle-speed slider with particle-mass
 - add UI options for rendering the field & its gradients in various ways
   - automatically scale values from rForce texture based on particle density and expected range of values
   - the rForce texture values (correctly) are not 0.0 to 1.0. they are the sum of components from particles.
@@ -40,6 +43,10 @@ name: "David Conner"
   - in the social physics simulation, i want to scale between brownian & gradient motion
   - but that will throw off the thermal velocity calculation
   - and brownian motion should emerge in the system anyways.
+- option to display texture representing particle paths
+  - write lines to another texture. use vertex transformation.
+  - each particle has a color and leaves a trail representing it's path
+  - when its motion is dependent on the gradient of the field
 
 ### Overview
 
@@ -49,9 +56,18 @@ name: "David Conner"
   - refer to paper that demonstrates algorithm for flock behavior
 - calculating the thermal velocity from partilce velocities
 
+- resolving discontinuity problem in gradients
+  - resulted in discontinuities bc of the field size
+  - blurred field image to remove discontinuities before gradients
+  - this sacrifices accuracy of result, but improves accuracy of physics calculations
+- ... nevermind, the blur won't help very much and will reduce accuracy too much
+- the other algorithm results in less discontinuities,
+  - especially where it matters for calculating forces: in high-density regions
+
 <pre class="highlight">Fragment Shader: fsUpdateParticles<code id="codeFsUpdateParticles"></code></pre>
 <pre class="highlight">Vertex Shader: vsFields<code id="codeVsFields"></code></pre>
 <pre class="highlight">Fragment Shader: fsFields<code id="codeFsFields"></code></pre>
+<pre class="highlight">Fragment Shader: fsGradients<code id="codeFsGradients"></code></pre>
 <pre class="highlight">Fragment Shader: fsRenderFields<code id="codeFsRenderFields"></code></pre>
 
 <script type="x-shader/x-vertex" id="vsPass">
@@ -113,16 +129,27 @@ void main() {
   random = newRandom;
 
   // =======================================
-  // Update Particles
+  // Calculate Brownian Component
   // =======================================
 
   vec4 newRandomFloat = fract(vec4(newRandom) / maxInt + 0.5) - 0.5 ;
-  particle = texture(s_particles, uv);
-  particle.x += (u_particleSpeed * newRandomFloat.x * u_deltaTime.x / 1000.0);
-  particle.y += (u_particleSpeed * newRandomFloat.y * u_deltaTime.x / 1000.0);
+  vec2 brownian = vec2(
+    (u_particleSpeed * newRandomFloat.x * u_deltaTime.x / 1000.0),
+    (u_particleSpeed * newRandomFloat.y * u_deltaTime.x / 1000.0));
 
-  particle.x = mod(particle.x + 1.0, 2.0) - 1.0;
-  particle.y = mod(particle.y + 1.0, 2.0) - 1.0;
+  // =======================================
+  // Calculate Gradient Component
+  // =======================================
+
+
+
+  // =======================================
+  // Update Particles
+  // =======================================
+
+  particle = texture(s_particles, uv);
+  particle.x = mod(particle.x + brownian.x + 1.0, 2.0) - 1.0;
+  particle.y = mod(particle.y + brownian.y + 1.0, 2.0) - 1.0;
 }
 </script>
 
@@ -167,6 +194,13 @@ flat in int v_particleId;
 layout(location = 0) out vec4 repelForce;
 layout(location = 1) out vec4 repelComp;
 
+vec2 calculateRForce(vec2 point, vec2 center) {
+  vec2 pointOffset = point.xy - center;
+  float d = distance(point.xy, center);
+  float rad = atan(pointOffset.y, pointOffset.x);
+  return vec2(cos(rad), sin(rad)) / d;
+}
+
 void main()
 {
   //ivec2 texSize = textureSize(s_particleAttributes, 0);
@@ -174,13 +208,48 @@ void main()
   //vec4 pAttr = texelFetch(s_particleAttributes, texel, 0);
   //vec4 particleColor = vec4(pAttr.r, pAttr.g, pAttr.b, 1.0);
 
-  vec2 pointOffset = gl_PointCoord.xy - vec2(0.5, 0.5);
-  float d = distance(gl_PointCoord.xy, vec2(0.5,0.5));
-  float rad = atan(pointOffset.y, pointOffset.x);
-  vec2 rForce = u_rCoefficient * vec2(cos(rad), sin(rad)) / d;
-
+  vec2 rForce = u_rCoefficient * calculateRForce(gl_PointCoord.xy, vec2(0.5, 0.5));
   repelForce = vec4(rForce.xy, 0.0, 1.0);
   repelComp = vec4(distance(rForce, vec2(0.0,0.0)), 0.0, 0.0, 1.0);
+}
+</script>
+
+<script type="x-shader/x-fragment" id="fsGradients">
+uniform vec2 u_resolution;
+uniform sampler2D s_repelField;
+uniform sampler2D s_repelComp;
+
+// R: (df1/dx)
+// G: (df1/dy)
+// B: (df2/dx)
+// A: (df2/dy)
+layout(location = 0) out vec4 repelFieldGradient;
+
+// R: (ds/dx)
+// G: (ds/dy)
+layout(location = 1) out vec4 repelCompGradient;
+
+void main() {
+  vec2 uv = gl_FragCoord.xy / u_resolution.xy;
+  vec2 delta = vec2(1.0, 1.0);
+  vec2 uv2 = mod(gl_FragCoord.xy + delta, u_resolution.xy) / u_resolution.xy;
+
+  vec4 df = texture(s_repelField, uv2) - texture(s_repelField, uv);
+  vec4 ds = texture(s_repelComp, uv2) - texture(s_repelComp, uv);
+
+  // gradient of a vector field
+  repelFieldGradient = vec4(
+    df.x / delta.x,
+    df.x / delta.y,
+    df.y / delta.x,
+    df.y / delta.y);
+
+  // gradient of a scalar field
+  repelCompGradient = vec4(
+    ds.x / delta.x,
+    ds.x / delta.y,
+    0.0,
+    0.0);
 }
 </script>
 
@@ -210,7 +279,7 @@ void main() {
   color = vec4(
     rForce.x,
     rForce.y,
-    rComp.x,
+    rForce.z, //0.0, //rComp.x,
     1.0);
 }
 </script>
@@ -228,5 +297,6 @@ void main() {
   pasteShaderToCodeBlock('fsUpdateParticles', 'codeFsUpdateParticles');
   pasteShaderToCodeBlock('vsFields', 'codeVsFields');
   pasteShaderToCodeBlock('fsFields', 'codeFsFields');
+  pasteShaderToCodeBlock('fsGradients', 'codeFsGradients');
   pasteShaderToCodeBlock('fsRenderFields', 'codeFsRenderFields');
 </script>
