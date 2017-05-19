@@ -90,10 +90,10 @@ excerpt: ""
     - this independence can be measured in graph theory with
       kelman's transformation
     - see spectral graph theory
-      [here](http://www.cs.elte.hu/~csiki/application_Kelmans.pdf)
-      and [here](http://www.math.ucsd.edu/~mtait/k-independent.pdf)
-      -
-
+      [here](http://www.cs.elte.hu/~csiki/application_Kelmans.pdf),
+      [here](http://www.math.ucsd.edu/~mtait/k-independent.pdf)
+      - and [here](https://www.cs.elte.hu/math/phd_th/csiki.v2.pdf)
+      - the details of this math is over my head btw
 
 - this, of course, assumes the person is a "normal" facebook user,
   where the relevant 1-degree and 2-degree connections in the friend
