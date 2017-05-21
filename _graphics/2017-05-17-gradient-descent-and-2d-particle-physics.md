@@ -35,14 +35,21 @@ name: "David Conner"
 
 ### TODO:
 
+- fix edge values in gradient field by transforming the space with a parameterized sigmoid s-curve
+  - [Sigmoid curve](https://en.wikipedia.org/wiki/Logistic_function)
+  - can this or its derivative be parameterized to skew the numbers right
 - replace particle-speed slider with particle-mass
+  - figure out mass/energy/momentum/speed, the order of each calculation, etc
+
 - add UI options for rendering the field & its gradients in various ways
   - automatically scale values from rForce texture based on particle density and expected range of values
   - the rForce texture values (correctly) are not 0.0 to 1.0. they are the sum of components from particles.
+
 - eventually remove brownian motion component from particle behavior
   - in the social physics simulation, i want to scale between brownian & gradient motion
   - but that will throw off the thermal velocity calculation
   - and brownian motion should emerge in the system anyways.
+
 - option to display texture representing particle paths
   - write lines to another texture. use vertex transformation.
   - each particle has a color and leaves a trail representing it's path
@@ -50,11 +57,22 @@ name: "David Conner"
 
 ### Overview
 
-### Challenges
+# Challenges
 
-- using mipmap for aggregate calculations
+### Aggregate Calculation of Particle Attributes with Mipmaps
   - refer to paper that demonstrates algorithm for flock behavior
-- calculating the thermal velocity from partilce velocities
+
+### Calculating the thermal velocity from partilce velocities
+
+- describe physics calculations
+  - mass/energy/momentum/speed
+  - why mass becomes implicitly required for force/momentum, even if all particle masses are all the same
+    - while this seems obvious, ....
+- coordinate systems considered/used
+
+### Resolving Discontinuity Problem in Gradients
+
+![screenshot]()
 
 - resolving discontinuity problem in gradients
   - resulted in discontinuities bc of the field size
@@ -63,6 +81,24 @@ name: "David Conner"
 - ... nevermind, the blur won't help very much and will reduce accuracy too much
 - the other algorithm results in less discontinuities,
   - especially where it matters for calculating forces: in high-density regions
+  - nevermind.. does it? there is still effectively an (n x n) ball around each particle
+- one option is to transform the values so they taper off to zero
+  - but how to stretch the domain/range of the ball around each particle
+  - you can force much cleaner values this way,
+  - but it's the infinitissimal-to-zero transition of values that's the problem
+- another way may be to add a fine amount of noise to the field
+  - but this also doesn't help
+
+- bottlenecks and options to increase performance
+  - transparency is for all meshes rendered, so the number of rasterized pixels is the main bottleneck
+    - therefore, the greatest payoff for performance if more particles are needed is speeding up the
+      fairly simple fsFields shader
+    - this can be done by utilizing a texture and avoiding unnecessary instructions
+    - the payoff is completely linear, proportional to the number of instructions shaved by fetching
+      precomputed gradients from textures instead of calculating them
+    - minor performance increases, but the method is a bit less flexible
+      - however, texture atlas techniques like this are required if you want to render more
+        complicated electron density clouds
 
 <pre class="highlight">Fragment Shader: fsUpdateParticles<code id="codeFsUpdateParticles"></code></pre>
 <pre class="highlight">Vertex Shader: vsFields<code id="codeVsFields"></code></pre>

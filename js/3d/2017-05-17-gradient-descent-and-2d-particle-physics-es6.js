@@ -524,7 +524,7 @@ function runWebGL() {
     particleAttachments,
     particleColors;
 
-  particleRandomsAttachments = [0,1,2].map((f) => {
+  particleRandomsAttachments = j.[0,1,2].map((f) => {
     gl.activeTexture(gl.TEXTURE0);
     var tex = gl.createTexture();
     gl.bindTexture(gl.TEXTURE_2D, tex);

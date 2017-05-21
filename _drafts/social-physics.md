@@ -107,6 +107,88 @@ excerpt: ""
       of users which fit some basis with quantifyable variation and
       some metric of confidence
 
+# A System With Near-Total Lack of Privacy
+
+- (none of this means technology or social media or IoT is inherently
+  bad by the way, just that our world is evolving towards a
+  fundamentally different one and this evolution is inevitable)
+  - so we have to understand it because the following philosophical,
+    psychological, and sociocultural changes are fundamentally
+    different in a way that is very difficult to understand
+  - the most important: in a post-convergence world, causality itself
+    operates in a fundamentally different way, which can be
+    anticipated by observing the evolution of various graphs
+
+- social media, data science, internet of things, etc are part of a
+  continuing trend of technology and quantification of human behavior
+  that has been eroding privacy for decades.
+  - this causes a fundamental shift in the way people interact
+
+  - information can now spread through the social graph in
+    fundamentally different ways.
+    - the social graph has always existed, but until the 19th century
+      was almost entirely limited to communication via edges which
+      were physical in some way)
+    - instead of a world where every person has six degrees of
+      separation, we are gradually converging towards a social
+      paradigm where "degrees of separation" is mostly meaningless, in
+      and of itself.
+      - it's because the graph that represents all the paths that
+        information can take to reach some other human node is
+        converging towards the complete graph
+        - albeit a complete graph where nearly all edges would be
+          removed upon sparsification, but the phenomenon of
+          near-completeness is there
+    - at the same time, we are producing and processing data at an
+      exponential rate.
+      - there are finitely many human behaviors that can be quantified
+
+
+- there is a paradigm shift in the phenomenon of causality, as it
+    applies to human behavior and psychosocial dynamics,
+    - causality, in this sense, stems from exchange of information,
+      completeness of information, awareness of information,
+      dissemination of information, etc.
+      - there are many other important factors that help define how
+        humans perceive causation in their behavioral interactions,
+        whether those are individuals or groups of people
+      - however, causality and the way humans utilize their
+        understanding of it to construct a of beliefs/knowledge about
+        the world is in a very big way parameterized by the paradigm
+        of information exchange/retention/diffusion/etc
+    - therefore, in an increasingly connected world, there is a major
+      shift in how narratives are constructed and propagated.
+  - this paradigm shift for causality affects any information
+    processing entity, including both people and computers
+    - this shift affects these groups in different ways
+    - people store & process & propagate information
+      differently than computers
+      - i.e. they tend to be arbitrary and "imperfect" in how they
+        handle information
+      - the conclusions that can be reached by understanding the shift
+        in causality very greatly depending on the specifics, so
+        assertions based on generalities may do more harm than good
+        (e.g. this explanation itself of the shift in causality is
+        overly general)
+
+- the concept of privacy is one of the most important ways this shift
+  in causality will affect human interactions and their understanding
+  of the world from what they infer to be cause & effect in events
+  - individuality will be blurred, people may adopt more
+    groupthink-motivated behaviors. these two things are fairly simple
+    to understand as our privacy is eroded
+  - if or when we reach a society with a near-total lack of privacy,
+    information propagates with a degree of completeness that implies
+    people are significantly impaired in their ability to reason about
+    the nature of cause and effect
+    - this is because every exchange in units of information
+      essentially initiates its own new chain of cause/effect and
+      because of the total-convergence of the systems used to exchange
+      information/data, ...
+    - for example, making conclusions about the disemination of pieces of
+      information (how one piece of information spreads amoungst
+      people)
+
 
 # Simulation Ideas
 
