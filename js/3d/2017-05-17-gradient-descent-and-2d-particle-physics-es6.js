@@ -289,7 +289,7 @@ function runWebGL() {
     encode(context, uniforms, options = {}) {
       var ops = Object.assign({}, this.options, options);
 
-      context.useProgram(this.program);
+      context.useProgram(ops.program || this.program);
 
       // for each key in uniforms, encode value into the specific location
       if (ops.beforeEncode !== undefined) {
@@ -593,11 +593,11 @@ function runWebGL() {
   particlePonger.initFramebuffers(gl, particleFboConfig);
 
 // =======================================
-// Fields
+// Fields & Gradients
 // =======================================
 
   var fieldPonger = new PingPongProvider({max: 3});
-  var fieldRForceAttachments;
+  var fieldRForceAttachments, fieldRForceGradientAttachments;
 
   fieldRForceAttachments = [0,1,2].map((i) => {
     gl.activeTexture(gl.TEXTURE0);
@@ -608,8 +608,17 @@ function runWebGL() {
     return tex;
   });
 
+  fieldRForceGradientAttachments = [0,1,2].map((i) => {
+    gl.activeTexture(gl.TEXTURE0);
+    var tex = gl.createTexture();
+    gl.bindTexture(gl.TEXTURE_2D, tex);
+    gl.texStorage2D(gl.TEXTURE_2D, 1, gl.RGBA32F, renderResolution[0], renderResolution[1]);
+    gl.bindTexture(gl.TEXTURE_2D, null);
+    return tex;
+  });
+
   fieldPonger.registerTextures('repelField', fieldRForceAttachments);
-  fieldPonger.registerTextures('repelFieldGradient', fieldRForceAttachments);
+  fieldPonger.registerTextures('repelFieldGradient', fieldRForceGradientAttachments);
 
   var fieldPongerFboConfig = {
     repelField: { colorAttachment: gl.COLOR_ATTACHMENT0 },
@@ -729,6 +738,7 @@ function runWebGL() {
       context.uniform2fv(rpFields.uniformLocations.u_resolution, uniforms.resolution);
       context.uniform1f(rpFields.uniformLocations.u_fieldSize, uniforms.fieldSize);
       context.uniform1f(rpFields.uniformLocations.u_rCoefficient, uniforms.rCoefficient);
+      context.uniform1i(rpFields.uniformLocations.u_deferGradientCalc, (uniforms.deferGradientCalc ? 1 : 0));
       context.uniform1i(rpFields.uniformLocations.s_particles, 0);
     },
     encodeTextures: (context, uniforms, ops) => {
@@ -754,13 +764,9 @@ function runWebGL() {
     'u_resolution',
     'u_fieldSize',
     'u_rCoefficient',
-    's_particles'
+    's_particles',
+    'u_deferGradientCalc'
   ]);
-
-// =======================================
-// Render Pass: Blur
-// =======================================
-
 
 // =======================================
 // Render Pass: Gradients
@@ -787,8 +793,7 @@ function runWebGL() {
     },
     encodeDraw: (context, uniforms, ops) => {
       context.drawBuffers([
-        context.COLOR_ATTACHMENT0,
-        context.COLOR_ATTACHMENT1
+        context.COLOR_ATTACHMENT0
       ]);
 
       context.bindVertexArray(anyQuad.vertexArray);
@@ -816,11 +821,19 @@ function runWebGL() {
     encodeUniforms: (context, uniforms, ops) => {
       context.uniform2fv(rpRenderFields.uniformLocations.u_resolution, uniforms.resolution);
       context.uniform1f(rpRenderFields.uniformLocations.u_rCoefficient, uniforms.rCoefficient);
+      context.uniform1i(rpRenderFields.uniformLocations.u_fractRenderValues, (uniforms.fractRenderValues ? 1 : 0));
+      context.uniform1i(rpRenderFields.uniformLocations.u_renderMagnitude, (uniforms.renderMagnitude ? 1 : 0));
+      context.uniform1i(rpRenderFields.uniformLocations.u_renderTexture, uniforms.renderTexture);
       context.uniform1i(rpRenderFields.uniformLocations.s_repelField, 0);
+      context.uniform1i(rpRenderFields.uniformLocations.s_repelFieldGradient, 1);
     },
     encodeTextures: (context, uniforms, ops) => {
       context.activeTexture(context.TEXTURE0);
       context.bindTexture(context.TEXTURE_2D, ops.repelField);
+      context.bindSampler(0, samplerNearest);
+
+      context.activeTexture(context.TEXTURE1);
+      context.bindTexture(context.TEXTURE_2D, ops.repelFieldGradient);
       context.bindSampler(0, samplerNearest);
     },
     encodeDraw: (context, uniforms, ops) => {
@@ -832,19 +845,20 @@ function runWebGL() {
   rpRenderFields.setUniformLocations(gl, [
     'u_resolution',
     'u_rCoefficient',
-    's_repelField'
+    'u_renderTexture',
+    'u_fractRenderValues',
+    'u_renderMagnitude',
+    's_repelField',
+    's_repelFieldGradient'
   ]);
-
-// =======================================
-// Render Pass: Render Gradients
-// =======================================
 
 // =======================================
 // UI Controls
 // =======================================
 
-  var particleCount, particleSpeed, particleMass, fieldSize, rCoefficient;
-  //var rCoefficient, rForceEnabled, rCompEnabled;
+  var particleCount, particleSpeed, particleMass;
+  var fieldSize, rCoefficient;
+  var deferGradientCalc, fractRenderValues, renderMagnitude, renderTexture;
 
   function uiControlUpdate() {
     particleCount = document.getElementById('particle-count').value;
@@ -852,7 +866,12 @@ function runWebGL() {
     particleMass = document.getElementById('particle-mass').value;
     fieldSize = document.getElementById('field-size').value;
     rCoefficient = document.getElementById('r-coefficient').value;
-    deferredGradientCalculation = document.getElementById('')
+    deferGradientCalc = document.getElementById('defer-gradient-calc').checked;
+    fractRenderValues = document.getElementById('fract-render-values').checked;
+    renderMagnitude = document.getElementById('render-magnitude').checked;
+
+    var renderTextureRadios = document.getElementsByName('render-texture');
+    renderTexture = renderTextureRadios[0].checked ? 0 : 1;
   }
 
   var anyQuad = new Quad(gl);
@@ -872,7 +891,32 @@ function runWebGL() {
 
   var deltaT = vec4.fromValues(0.0,0.0,0.0,0.0);
 
-  var debugPixels = new Float32Array(renderResolution[0] * renderResolution[1] * 4);
+// =======================================
+// Debug Code
+// =======================================
+
+var debugPixels = new Float32Array(renderResolution[0] * renderResolution[1] * 4);
+
+function renderDebugTexture(pixels) {
+
+  gl.activeTexture(gl.TEXTURE0);
+  var debugTexture = gl.createTexture();
+  gl.bindTexture(gl.TEXTURE_2D, debugTexture);
+
+  gl.texStorage2D(gl.TEXTURE_2D, 1, gl.RGBA32F, renderResolution[0], renderResolution[1]);
+  gl.texSubImage2D(gl.TEXTURE_2D,
+    0,
+    0, // x offset
+    0, // y offset
+    renderResolution[0],
+    renderResolution[1],
+    gl.RGBA,
+    gl.FLOAT,
+    pixels);
+  gl.bindTexture(gl.TEXTURE_2D, null);
+
+  createDebugTexture = false;
+}
 
 // =======================================
 // Render Loop
@@ -906,7 +950,8 @@ function runWebGL() {
     var fieldsUniforms = {
       resolution: renderResolution,
       fieldSize: fieldSize,
-      rCoefficient: rCoefficient
+      rCoefficient: rCoefficient,
+      deferGradientCalc: deferGradientCalc
     };
 
     rpFields.encode(gl, fieldsUniforms, {
@@ -917,62 +962,45 @@ function runWebGL() {
 
     fieldPonger.increment();
 
+    var gradientTexture;
+    if (deferGradientCalc) {
+      var gradientsUniforms = {
+        resolution: renderResolution
+      };
 
+      rpGradients.encode(gl, gradientsUniforms, {
+        framebuffer: gradientPonger.getCurrentFbo(),
+        repelField: fieldPonger.getCurrent('repelField')
+      });
 
-    var gradientsUniforms = {
-      resolution: renderResolution
-    };
-
-    rpGradients.encode(gl, gradientsUniforms, {
-      framebuffer: gradientPonger.getCurrentFbo(),
-      repelField: fieldPonger.getCurrent('repelField')
-    });
-
-    if (createDebugTexture) {
-      gl.bindFramebuffer(gl.READ_FRAMEBUFFER, gradientPonger.getCurrentFbo());
-      gl.readBuffer(gl.COLOR_ATTACHMENT0);
-      gl.readPixels(0, 0, renderResolution[0], renderResolution[1], gl.RGBA, gl.FLOAT, debugPixels);
-
-      gl.activeTexture(gl.TEXTURE0);
-      var debugTexture = gl.createTexture();
-      gl.bindTexture(gl.TEXTURE_2D, debugTexture);
-      //gl.texImage2D(gl.TEXTURE_2D,
-      //  0,
-      //  gl.RGBA32F,
-      //  particleResolution[0],
-      //  particleResolution[1],
-      //  gl.RGBA,
-      //  gl.FLOAT,
-      //  debugPixels);
-      //gl.bindTexture(gl.TEXTURE_2D, null);
-
-      gl.texStorage2D(gl.TEXTURE_2D, 1, gl.RGBA32F, renderResolution[0], renderResolution[1]);
-      gl.texSubImage2D(gl.TEXTURE_2D,
-        0,
-        0, // x offset
-        0, // y offset
-        renderResolution[0],
-        renderResolution[1],
-        gl.RGBA,
-        gl.FLOAT,
-        debugPixels);
-      gl.bindTexture(gl.TEXTURE_2D, null);
-
-      createDebugTexture = false;
+      gradientTexture = gradientPonger.getNext('repelFieldGradient');
+    } else {
+      gradientTexture = fieldPonger.getCurrent('repelFieldGradient');
     }
-
     gradientPonger.increment();
+
+    //if (createDebugTexture) {
+    //  gl.bindFramebuffer(gl.READ_FRAMEBUFFER, fieldPonger.getCurrentFbo());
+    //  gl.readBuffer(gl.COLOR_ATTACHMENT0);
+    //  gl.readPixels(0, 0, renderResolution[0], renderResolution[1], gl.RGBA, gl.FLOAT, debugPixels);
+    //  renderDebugTexture(debugPixels);
+    //}
 
     var renderFieldsUniforms = {
       resolution: renderResolution,
-      rCoefficient: rCoefficient
+      rCoefficient: rCoefficient,
+      fractRenderValues: fractRenderValues,
+      renderMagnitude: renderMagnitude,
+      renderTexture: renderTexture
     };
 
-    rpRenderFields.encode(gl, renderFieldsUniforms, {
+    var renderFieldsOptions = {
       framebuffer: null,
-      //repelField: fieldPonger.getCurrent('repelField'),
-      repelField: gradientPonger.getCurrent('repelFieldGradient'),
-    });
+      repelField: fieldPonger.getCurrent('repelField'),
+      repelFieldGradient: gradientTexture
+    };
+
+    rpRenderFields.encode(gl, renderFieldsUniforms, renderFieldsOptions);
 
     // TODO: mipmap aggregate on particle texture:
     // - sum aggregate instantaneous velocities to measure a 'temperature'
@@ -982,11 +1010,14 @@ function runWebGL() {
     requestAnimationFrame(render);
   }
 
+
+
   render();
 
 }
 
 var createDebugTexture = false;
+
 
 window.onload = function() {
   runWebGL();

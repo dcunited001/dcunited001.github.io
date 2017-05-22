@@ -13,7 +13,7 @@ name: "David Conner"
 <div class="row">
   <div class="col-sm-4">
     <label for="particle-count">Particle Count:</label>
-    <input id="particle-count" type="range" min="128" max="20480" step="32" value="1024"/>
+    <input id="particle-count" type="range" min="128" max="10240" step="32" value="1024"/>
   </div>
   <div class="col-sm-4">
     <label for="particle-speed">Particle Speed:</label>
@@ -21,7 +21,7 @@ name: "David Conner"
   </div>
   <div class="col-sm-4">
     <label for="particle-speed">Particle Mass:</label>
-    <input id="particle-mass" type="range" min="0.025" max="10.0" step="0.025" value="1.0"/>
+    <input id="particle-mass" type="range" min="0.00625" max="2.0" step="0.00625" value="1.0"/>
   </div>
 </div>
 <div class="row">
@@ -31,14 +31,39 @@ name: "David Conner"
   </div>
   <div class="col-sm-4">
     <label for="r-coefficient">R-Force Coefficient:</label>
-    <input id="r-coefficient" type="range" min="0.00625" max="2.0" step="0.00625" value="1.0"/>
+    <input id="r-coefficient" type="range" min="0.0625" max="2.0" step="0.0625" value="0.125"/>
+  </div>
+</div>
+
+
+<div class="row">
+  <div class="col-sm-6">
+    <label>Render: </label>
+    <input type="radio" name="render-texture" value="0" checked/>&nbsp;Field
+    <input type="radio" name="render-texture" value="1"/>&nbsp;Gradient
   </div>
 </div>
 
 <div class="row">
   <div class="col-sm-6">
     <label class="checkbox-inline">
-      <input id="deferred-gradient-calcuation" type="checkbox"/>Deferred Gradient Calculation
+      <input id="fract-render-values" type="checkbox"/>Fract Render Values
+    </label>
+  </div>
+</div>
+
+<div class="row">
+  <div class="col-sm-6">
+    <label class="checkbox-inline">
+      <input id="render-magnitude" type="checkbox"/>Render Magnitude
+    </label>
+  </div>
+</div>
+
+<div class="row">
+  <div class="col-sm-6">
+    <label class="checkbox-inline">
+      <input id="defer-gradient-calc" type="checkbox"/>Defer Gradient Calculation
     </label>
   </div>
 </div>
@@ -93,7 +118,7 @@ name: "David Conner"
 
 - resolving discontinuity problem in gradients
   - resulted in discontinuities bc of the field size
-  - blurred field image to remove discontinuities before gradients
+  - blurred field image to remove discontinuities before gradients`
   - this sacrifices accuracy of result, but improves accuracy of physics calculations
 - ... nevermind, the blur won't help very much and will reduce accuracy too much
 - the other algorithm results in less discontinuities,
@@ -239,6 +264,7 @@ void main()
 uniform vec2 u_resolution;
 uniform float u_rCoefficient;
 uniform sampler2D s_particleAttributes;
+uniform bool u_deferGradientCalc;
 
 //in vec4 v_position; // not linkable to fsFields ?
 in float v_pointSize;
@@ -256,12 +282,22 @@ vec2 calculateRForce(vec2 point, vec2 center) {
 
 void main()
 {
-  vec2 rForce = u_rCoefficient * calculateRForce(gl_PointCoord.xy, vec2(0.5, 0.5));
+  vec2 particleCenter = vec2(0.5, 0.5);
+  vec2 rForce = u_rCoefficient * calculateRForce(gl_PointCoord.xy, particleCenter);
   repelForce = vec4(rForce.xy, 0.0, 1.0);
 
-  // and calculate gradient simultaneously to remove blur
-  vec2 rForce2 =
+  if (!u_deferGradientCalc) {
+    vec2 delta = vec2(1.0, 1.0);
+    vec2 point2 = gl_PointCoord + delta / v_pointSize;
 
+    vec2 df = u_rCoefficient * calculateRForce(point2.xy, particleCenter) - rForce;
+
+    repelFieldGradient = vec4(
+      df.x / delta.x,
+      df.x / delta.y,
+      df.y / delta.x,
+      df.y / delta.y);
+  }
 }
 </script>
 
@@ -276,17 +312,12 @@ uniform sampler2D s_repelComp;
 // A: (df2/dy)
 layout(location = 0) out vec4 repelFieldGradient;
 
-// R: (ds/dx)
-// G: (ds/dy)
-layout(location = 1) out vec4 repelCompGradient;
-
 void main() {
   vec2 uv = gl_FragCoord.xy / u_resolution.xy;
   vec2 delta = vec2(1.0, 1.0);
-  vec2 uv2 = mod(gl_FragCoord.xy + delta, u_resolution.xy) / u_resolution.xy;
 
+  vec2 uv2 = mod(gl_FragCoord.xy + delta, u_resolution.xy) / u_resolution.xy;
   vec4 df = texture(s_repelField, uv2) - texture(s_repelField, uv);
-  vec4 ds = texture(s_repelComp, uv2) - texture(s_repelComp, uv);
 
   // gradient of a vector field
   repelFieldGradient = vec4(
@@ -294,22 +325,21 @@ void main() {
     df.x / delta.y,
     df.y / delta.x,
     df.y / delta.y);
-
-  // gradient of a scalar field
-  repelCompGradient = vec4(
-    ds.x / delta.x,
-    ds.x / delta.y,
-    0.0,
-    0.0);
 }
 </script>
 
 <script type="x-shader/x-fragment" id="fsRenderFields">
 uniform vec2 u_resolution;
 uniform float u_rCoefficient;
+uniform bool u_fractRenderValues;
+uniform bool u_renderMagnitude;
+uniform int u_renderTexture;
 
 uniform sampler2D s_repelField;
-uniform sampler2D s_repelComp;
+uniform sampler2D s_repelFieldGradient;
+
+#define renderTextureField 0
+#define renderTextureGradient 1
 
 out vec4 color;
 
@@ -319,19 +349,44 @@ void main() {
   vec2 uv = gl_FragCoord.xy / u_resolution.xy;
 
   vec4 rForce = texture(s_repelField, uv);
-  vec4 rComp = texture(s_repelComp, uv);
+  vec4 rGradient = texture(s_repelFieldGradient, uv);
 
-  color = vec4(
-    distance(vec4(0.0,0.0), rForce.xy),
-    0.0,
-    0.0, //distance(vec2(0.0,0.0), rForce.zw),
-    1.0);
+  switch (u_renderTexture) {
+    case renderTextureField:
+      if (u_renderMagnitude) {
+        color = vec4(
+          distance(vec2(0.0,0.0), rForce.xy),
+          0.0,
+          0.0,
+          1.0);
+      } else {
+        color = vec4(
+          rForce.x,
+          rForce.y,
+          0.0,
+          1.0);
+      }
+      break;
+    case renderTextureGradient:
+      if (u_renderMagnitude) {
+        color = vec4(
+          4.0 * distance(vec2(0.0,0.0), rGradient.xz),
+          4.0 * distance(vec2(0.0,0.0), rGradient.yw),
+          0.0,
+          1.0);
+      } else {
+        color = vec4(
+          4.0 * rGradient.x,
+          4.0 * rGradient.y,
+          4.0 * rGradient.z,
+          1.0);
+      }
+      break;
+  }
 
-  //color = vec4(
-    //fract(rForce.x),
-    //fract(rForce.y),
-    //fract(rForce.z),
-    //1.0);
+  if (u_fractRenderValues) {
+    color = vec4(fract(vec3(color)), 1.0);
+  }
 }
 </script>
 
