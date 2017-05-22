@@ -44,13 +44,13 @@ name: "David Conner"
     <label>Render: </label>
     <input type="radio" name="render-texture" value="0" checked/>&nbsp;Field
     <input type="radio" name="render-texture" value="1"/>&nbsp;Gradient
-    <input type="radio" name="render-texture" value="2"/>&nbsp;Gradient 4-Channel
+    <input type="radio" name="render-texture" value="2"/>&nbsp;4-Channel
   </div>
   <div class="col-sm-6">
     <label>Physics: </label>
     <input type="radio" name="physics-method" value="0" checked/>&nbsp;Brownian
+    <input type="radio" name="physics-method" value="2"/>&nbsp;Splatting
     <input type="radio" name="physics-method" value="1"/>&nbsp;Gradient
-    <input type="radio" name="physics-method" value="2"/>&nbsp;Composite
   </div>
 </div>
 
@@ -104,7 +104,14 @@ name: "David Conner"
 
 ### TODO:
 
-- fix flipped axes with
+- add button to reset data
+- balance rCoefficient with particle count
+  - either this or add correction for thermal velocity
+    - when thermal velocity is too high, set uniform to scale down particleAttributes values
+
+- add parameter presets
+
+- how to fix problems introduced by particles wrapping to the other side
 
 - replace particle-speed slider with particle-mass
   - figure out mass/energy/momentum/speed, the order of each calculation, etc
@@ -238,21 +245,57 @@ void main() {
 }
 </script>
 
+<script type="x-shader/x-vertex" id="fsForceSplat">
+uniform vec2 u_resolution;
+uniform ivec2 u_particleUv;
+uniform float u_rCoefficient;
+
+uniform sampler2D s_particles;
+
+layout(location = 0) out vec4 particleUpdates;
+
+vec2 calcForce(vec2 r, vec2 r2) {
+  vec2 dr = r - r2;
+  float d = distance(r, r2);
+  float rad = atan(dr.y, dr.x);
+  return vec2(cos(rad), sin(rad)) / d;
+}
+
+void main() {
+  ivec2 uv = ivec2(trunc(gl_FragCoord));
+  if (uv == u_particleUv) { discard; }
+
+  vec4 accumulatorParticle = texelFetch(s_particles, uv, 0);
+  vec4 particle = texelFetch(s_particles, u_particleUv, 0);
+
+  particleUpdates.xy = u_rCoefficient * calcForce(accumulatorParticle.xy, particle.xy);
+}
+</script>
+
 <script type="x-shader/x-fragment" id="fsUpdateParticles">
 uniform vec2 u_resolution;
 uniform ivec4 u_randomSeed;
 uniform float u_particleSpeed;
 uniform vec4 u_deltaTime;
+uniform int u_physicsMethod;
 
 uniform isampler2D s_particleRandoms;
 uniform sampler2D s_particles;
+uniform sampler2D s_particleAttributes;
+uniform sampler2D s_particleForces;
+
 //uniform sampler2D s_repelFieldGradient
+
+#define physicsMethodBrownian 0
+#define physicsMethodSplat 1
+#define physicsMethodGradient 2
 
 in vec2 v_st;
 in vec3 v_position;
 
 layout(location = 0) out ivec4 random;
 layout(location = 1) out vec4 particle;
+layout(location = 2) out vec4 particleAttributes;
 
 // TODO: temperature: update another texture with particle velocities
 // layout(location = 2) out vec4 particleVelocities
@@ -283,28 +326,44 @@ void main() {
   ivec4 newRandom = u_randomSeed ^ randomTexel ^ texels[0] ^ texels[1] ^ texels[2] ^ texels[3];
   random = newRandom;
 
-  // =======================================
-  // Calculate Brownian Component
-  // =======================================
+  particleAttributes = texture(s_particleAttributes, uv);
+  vec2 netForce = vec2(0.0, 0.0);
 
-  vec4 newRandomFloat = fract(vec4(newRandom) / maxInt + 0.5) - 0.5 ;
-  vec2 brownian = vec2(
-    (u_particleSpeed * newRandomFloat.x * u_deltaTime.x / 1000.0),
-    (u_particleSpeed * newRandomFloat.y * u_deltaTime.x / 1000.0));
+  switch (u_physicsMethod) {
 
-  // =======================================
-  // Calculate Gradient Component
-  // =======================================
+    case physicsMethodBrownian:
+      if (u_physicsMethod == physicsMethodBrownian) {
+        vec4 newRandomFloat = fract(vec4(newRandom) / maxInt + 0.5) - 0.5 ;
+        netForce = newRandomFloat.xy;
+      }
+      break;
 
+    case physicsMethodSplat:
+      if (u_physicsMethod == physicsMethodSplat) {
+        netForce = texture(s_particleForces, uv).xy;
+      }
+      break;
 
+    case physicsMethodGradient:
+      if (u_physicsMethod == physicsMethodGradient) {
+        // TODO: update from gradient
+      }
+      break;
+
+  }
 
   // =======================================
   // Update Particles
   // =======================================
-
   particle = texture(s_particles, uv);
-  particle.x = mod(particle.x + brownian.x + 1.0, 2.0) - 1.0;
-  particle.y = mod(particle.y + brownian.y + 1.0, 2.0) - 1.0;
+
+  // TODO: adjust units for u_particleSpeed (and fix in netForce calcs above)
+
+  particleAttributes.xy += netForce * u_deltaTime.x / 1000.0;
+  vec2 particleUpdate = particleAttributes.xy * u_deltaTime.x / 1000.0;
+
+  particle.x = mod(particle.x + particleUpdate.x + 1.0, 2.0) - 1.0;
+  particle.y = mod(particle.y + particleUpdate.y + 1.0, 2.0) - 1.0;
 }
 </script>
 

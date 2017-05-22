@@ -479,6 +479,11 @@ function runWebGL() {
     document.getElementById('vsPass').textContent,
     document.getElementById('fsUpdateParticles').textContent);
 
+
+  var programForceSplat = createProgram(gl,
+    document.getElementById('vsPass').textContent,
+    document.getElementById('fsForceSplat').textContent);
+
   var programFields = createProgram(gl,
     document.getElementById('vsFields').textContent,
     document.getElementById('fsFields').textContent);
@@ -522,7 +527,7 @@ function runWebGL() {
 
   var particleRandomsAttachments,
     particleAttachments,
-    particleColors;
+    particleAttributes;
 
   particleRandomsAttachments = [0,1,2].map((f) => {
     gl.activeTexture(gl.TEXTURE0);
@@ -563,23 +568,28 @@ function runWebGL() {
     return tex;
   });
 
-  gl.activeTexture(gl.TEXTURE0);
-  particleColors = gl.createTexture();
-  gl.bindTexture(gl.TEXTURE_2D, particleColors);
-  gl.texStorage2D(gl.TEXTURE_2D, 1, gl.RGBA32F, particleResolution[0], particleResolution[1]);
-  gl.texSubImage2D(gl.TEXTURE_2D,
-    0,
-    0, // x offset
-    0, // y offset
-    particleResolution[0],
-    particleResolution[1],
-    gl.RGBA,
-    gl.FLOAT,
-    generateFloat32Randoms(particleResolution[0], particleResolution[1], 4, 0.25, 0.75));
-  gl.bindTexture(gl.TEXTURE_2D, null);
+  particleAttributes = [0,1,2].map((f) => {
+    gl.activeTexture(gl.TEXTURE0);
+    var tex = gl.createTexture();
+    gl.bindTexture(gl.TEXTURE_2D, tex);
+    gl.texStorage2D(gl.TEXTURE_2D, 1, gl.RGBA32F, particleResolution[0], particleResolution[1]);
+    gl.texSubImage2D(gl.TEXTURE_2D,
+      0,
+      0, // x offset
+      0, // y offset
+      particleResolution[0],
+      particleResolution[1],
+      gl.RGBA,
+      gl.FLOAT,
+      generateFloat32Randoms(particleResolution[0], particleResolution[1], 4, 0.01, 0.10));
+
+    gl.bindTexture(gl.TEXTURE_2D, null);
+    return tex;
+  });
 
   particlePonger.registerTextures('particleRandoms', particleRandomsAttachments);
   particlePonger.registerTextures('particles', particleAttachments);
+  particlePonger.registerTextures('particleAttributes', particleAttributes);
 
   var particleFboConfig = {
     particleRandoms: {
@@ -587,10 +597,30 @@ function runWebGL() {
     },
     particles: {
       colorAttachment: gl.COLOR_ATTACHMENT1
+    },
+    particleAttributes: {
+      colorAttachment: gl.COLOR_ATTACHMENT2
     }
   };
 
   particlePonger.initFramebuffers(gl, particleFboConfig);
+
+// =======================================
+// Force Splatting Texture
+// =======================================
+
+  gl.activeTexture(gl.TEXTURE0);
+  var forceSplatTexture = gl.createTexture();
+  gl.bindTexture(gl.TEXTURE_2D, forceSplatTexture);
+  gl.texStorage2D(gl.TEXTURE_2D, 1, gl.RGBA32F, particleResolution[0], particleResolution[1]);
+  gl.bindTexture(gl.TEXTURE_2D, null);
+
+  var forceSplatFbo = gl.createFramebuffer();
+  gl.bindFramebuffer(gl.DRAW_FRAMEBUFFER, forceSplatFbo);
+  gl.framebufferTexture2D(gl.DRAW_FRAMEBUFFER, gl.COLOR_ATTACHMENT0, gl.TEXTURE_2D, forceSplatTexture, 0);
+  gl.clearColor(0.0,0.0,0.0,0.0);
+  gl.clear(gl.COLOR_BUFFER_BIT);
+  gl.bindFramebuffer(gl.DRAW_FRAMEBUFFER, null);
 
 // =======================================
 // Fields & Gradients
@@ -688,8 +718,11 @@ function runWebGL() {
       context.uniform4iv(rpParticles.uniformLocations.u_randomSeed, uniforms.randomSeed);
       context.uniform1f(rpParticles.uniformLocations.u_particleSpeed, uniforms.particleSpeed);
       context.uniform4fv(rpParticles.uniformLocations.u_deltaTime, uniforms.deltaTime);
+      context.uniform1i(rpParticles.uniformLocations.u_physicsMethod, uniforms.physicsMethod);
       context.uniform1i(rpParticles.uniformLocations.s_particleRandoms, 0);
       context.uniform1i(rpParticles.uniformLocations.s_particles, 1);
+      context.uniform1i(rpParticles.uniformLocations.s_particleAttributes, 2);
+      context.uniform1i(rpParticles.uniformLocations.s_particleForces, 3);
     },
     encodeTextures: (context, uniforms, ops) => {
       context.activeTexture(context.TEXTURE0);
@@ -699,11 +732,20 @@ function runWebGL() {
       context.activeTexture(context.TEXTURE1);
       context.bindTexture(context.TEXTURE_2D, ops.particles);
       context.bindSampler(1, samplerNearest);
+
+      context.activeTexture(context.TEXTURE2);
+      context.bindTexture(context.TEXTURE_2D, ops.particleAttributes);
+      context.bindSampler(2, samplerNearest);
+
+      context.activeTexture(context.TEXTURE3);
+      context.bindTexture(context.TEXTURE_2D, ops.particleForces);
+      context.bindSampler(3, samplerNearest);
     },
     encodeDraw: (context, uniforms, ops) => {
       context.drawBuffers([
         context.COLOR_ATTACHMENT0,
-        context.COLOR_ATTACHMENT1
+        context.COLOR_ATTACHMENT1,
+        context.COLOR_ATTACHMENT2
       ]);
 
       context.bindVertexArray(anyQuad.vertexArray);
@@ -716,7 +758,53 @@ function runWebGL() {
     'u_randomSeed',
     'u_particleSpeed',
     'u_deltaTime',
+    'u_physicsMethod',
     's_particleRandoms',
+    's_particles',
+    's_particleAttributes',
+    's_particleForces'
+  ]);
+
+// =======================================
+// Render Pass: Force Splatting
+// =======================================
+
+  var rpForceSplat = new RenderPass(programForceSplat, {
+    beforeEncode: (context, uniforms, ops) => {
+      context.bindFramebuffer(context.DRAW_FRAMEBUFFER, ops.framebuffer);
+      context.blendFunc(context.ONE, context.ONE);
+      context.viewport(0, 0, uniforms.resolution[0], uniforms.resolution[1]);
+      context.clearColor(0.0,0.0,0.0,0.0);
+      context.clear(gl.COLOR_BUFFER_BIT);
+    },
+    encodeUniforms: (context, uniforms, ops) => {
+      context.uniform2fv(rpForceSplat.uniformLocations.u_resolution, uniforms.resolution);
+      context.uniform1f(rpForceSplat.uniformLocations.u_rCoefficient, uniforms.rCoefficient);
+      context.uniform1i(rpForceSplat.uniformLocations.s_particles, 0);
+    },
+    encodeTextures: (context, uniforms, ops) => {
+      context.activeTexture(context.TEXTURE0);
+      context.bindTexture(context.TEXTURE_2D, ops.particles);
+      context.bindSampler(0, samplerNearest);
+    },
+    encodeDraw: (context, uniforms, ops) => {
+      context.drawBuffers([
+        context.COLOR_ATTACHMENT0
+      ]);
+
+      for (var i = 0; i < ops.particleCount; i++) {
+        var particleUv = [i % particleResolution[0], Math.trunc(i / particleResolution[1])];
+        context.uniform2iv(rpForceSplat.uniformLocations.u_particleUv, particleUv);
+        context.bindVertexArray(anyQuad.vertexArray);
+        context.drawArrays(context.TRIANGLES, 0, 6);
+      }
+    }
+  });
+
+  rpForceSplat.setUniformLocations(gl, [
+    'u_resolution',
+    'u_particleUv',
+    'u_rCoefficient',
     's_particles'
   ]);
 
@@ -840,7 +928,7 @@ function runWebGL() {
 
       context.activeTexture(context.TEXTURE1);
       context.bindTexture(context.TEXTURE_2D, ops.repelFieldGradient);
-      context.bindSampler(0, samplerNearest);
+      context.bindSampler(1, samplerNearest);
     },
     encodeDraw: (context, uniforms, ops) => {
       context.bindVertexArray(anyQuad.vertexArray);
@@ -866,7 +954,7 @@ function runWebGL() {
 
   var particleCount, particleSpeed, particleMass;
   var fieldSize, rCoefficient, maxFieldLines;
-  var renderTexture, physicsMethod;
+  var renderTexture, physicsMethod, physicsMethods;
   var deferGradientCalc, fractRenderValues, renderMagnitude, circularFieldEffect, forceCalcInGlPointSpace, scaleRenderValues;
 
   function uiControlUpdate() {
@@ -893,6 +981,11 @@ function runWebGL() {
 
     var physicsMethodRadios = document.getElementsByName('physics-method');
     physicsMethod = [0,1,2].reduce((a,i) => physicsMethodRadios[i].checked ? i : a, 0);
+    physicsMethods = {
+      brownian: 0,
+      splat: 1,
+      gradient: 2
+    }
   }
 
   var anyQuad = new Quad(gl);
@@ -953,17 +1046,33 @@ function renderDebugTexture(pixels) {
       console.log(deltaT);
     }
 
+    if (physicsMethod == physicsMethods.splat) {
+      var forceSplatUniforms = {
+        resolution: particleResolution,
+        rCoefficient: rCoefficient
+      };
+
+      rpForceSplat.encode(gl, forceSplatUniforms, {
+        framebuffer: forceSplatFbo,
+        particles: particlePonger.getCurrent('particles'),
+        particleCount: particleCount
+      });
+    }
+
     var particleUniforms = {
       resolution: particleResolution,
       randomSeed: makeIntRandomUniforms(),
       particleSpeed: particleSpeed,
-      deltaTime: deltaT
+      deltaTime: deltaT,
+      physicsMethod: physicsMethod
     };
 
     rpParticles.encode(gl, particleUniforms, {
       framebuffer: particlePonger.getCurrentFbo(),
       particleRandoms: particlePonger.getCurrent('particleRandoms'),
-      particles: particlePonger.getCurrent('particles')
+      particles: particlePonger.getCurrent('particles'),
+      particleAttributes: particlePonger.getCurrent('particleAttributes'),
+      particleForces: forceSplatTexture
     });
 
     particlePonger.increment();
@@ -1034,8 +1143,6 @@ function renderDebugTexture(pixels) {
 
     requestAnimationFrame(render);
   }
-
-
 
   render();
 
