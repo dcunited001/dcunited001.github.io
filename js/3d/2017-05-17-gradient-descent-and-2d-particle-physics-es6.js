@@ -740,6 +740,7 @@ function runWebGL() {
       context.uniform1f(rpFields.uniformLocations.u_rCoefficient, uniforms.rCoefficient);
       context.uniform1i(rpFields.uniformLocations.u_deferGradientCalc, (uniforms.deferGradientCalc ? 1 : 0));
       context.uniform1i(rpFields.uniformLocations.u_circularFieldEffect, (uniforms.circularFieldEffect ? 1 : 0));
+      context.uniform1i(rpFields.uniformLocations.u_forceCalcInGlPointSpace, (uniforms.forceCalcInGlPointSpace ? 1 : 0));
       context.uniform1i(rpFields.uniformLocations.s_particles, 0);
     },
     encodeTextures: (context, uniforms, ops) => {
@@ -767,7 +768,8 @@ function runWebGL() {
     'u_rCoefficient',
     's_particles',
     'u_deferGradientCalc',
-    'u_circularFieldEffect'
+    'u_circularFieldEffect',
+    'u_forceCalcInGlPointSpace'
   ]);
 
 // =======================================
@@ -825,6 +827,7 @@ function runWebGL() {
       context.uniform1f(rpRenderFields.uniformLocations.u_rCoefficient, uniforms.rCoefficient);
       context.uniform1i(rpRenderFields.uniformLocations.u_fractRenderValues, (uniforms.fractRenderValues ? 1 : 0));
       context.uniform1i(rpRenderFields.uniformLocations.u_renderMagnitude, (uniforms.renderMagnitude ? 1 : 0));
+      context.uniform1i(rpRenderFields.uniformLocations.u_scaleRenderValues, (uniforms.scaleRenderValues ? 1 : 0));
       context.uniform1f(rpRenderFields.uniformLocations.u_maxFieldLines, uniforms.maxFieldLines);
       context.uniform1i(rpRenderFields.uniformLocations.u_renderTexture, uniforms.renderTexture);
       context.uniform1i(rpRenderFields.uniformLocations.s_repelField, 0);
@@ -852,6 +855,7 @@ function runWebGL() {
     'u_fractRenderValues',
     'u_maxFieldLines',
     'u_renderMagnitude',
+    'u_scaleRenderValues',
     's_repelField',
     's_repelFieldGradient'
   ]);
@@ -862,7 +866,8 @@ function runWebGL() {
 
   var particleCount, particleSpeed, particleMass;
   var fieldSize, rCoefficient, maxFieldLines;
-  var deferGradientCalc, fractRenderValues, renderMagnitude, renderTexture, circularFieldEffect;
+  var renderTexture, physicsMethod;
+  var deferGradientCalc, fractRenderValues, renderMagnitude, circularFieldEffect, forceCalcInGlPointSpace, scaleRenderValues;
 
   function uiControlUpdate() {
     particleCount = document.getElementById('particle-count').value;
@@ -871,13 +876,23 @@ function runWebGL() {
     rCoefficient = document.getElementById('r-coefficient').value;
     fieldSize = document.getElementById('field-size').value;
     maxFieldLines = document.getElementById('max-field-lines').value;
+
     deferGradientCalc = document.getElementById('defer-gradient-calc').checked;
     fractRenderValues = document.getElementById('fract-render-values').checked;
+    scaleRenderValues = document.getElementById('scale-render-values').checked;
     renderMagnitude = document.getElementById('render-magnitude').checked;
     circularFieldEffect = document.getElementById('circular-field-effect').checked;
 
+    forceCalcInGlPointSpace = document.getElementById('calc-force-in-glpoint-space').checked;
+    if (forceCalcInGlPointSpace) {
+      rCoefficient /= 10;
+    }
+
     var renderTextureRadios = document.getElementsByName('render-texture');
-    renderTexture = renderTextureRadios[0].checked ? 0 : 1;
+    renderTexture = [0,1,2].reduce((a,i) => renderTextureRadios[i].checked ? i : a, 0);
+
+    var physicsMethodRadios = document.getElementsByName('physics-method');
+    physicsMethod = [0,1,2].reduce((a,i) => physicsMethodRadios[i].checked ? i : a, 0);
   }
 
   var anyQuad = new Quad(gl);
@@ -958,7 +973,8 @@ function renderDebugTexture(pixels) {
       fieldSize: fieldSize,
       rCoefficient: rCoefficient,
       deferGradientCalc: deferGradientCalc,
-      circularFieldEffect: circularFieldEffect
+      circularFieldEffect: circularFieldEffect,
+      forceCalcInGlPointSpace: forceCalcInGlPointSpace
     };
 
     rpFields.encode(gl, fieldsUniforms, {
@@ -997,6 +1013,7 @@ function renderDebugTexture(pixels) {
       resolution: renderResolution,
       rCoefficient: rCoefficient,
       fractRenderValues: fractRenderValues,
+      scaleRenderValues: scaleRenderValues,
       renderMagnitude: renderMagnitude,
       maxFieldLines: maxFieldLines,
       renderTexture: renderTexture

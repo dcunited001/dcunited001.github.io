@@ -13,11 +13,11 @@ name: "David Conner"
 <div class="row">
   <div class="col-sm-4">
     <label for="particle-count">Particle Count:</label>
-    <input id="particle-count" type="range" min="128" max="10240" step="32" value="1024"/>
+    <input id="particle-count" type="range" min="128" max="5120" step="16" value="1024"/>
   </div>
   <div class="col-sm-4">
     <label for="particle-speed">Particle Speed:</label>
-    <input id="particle-speed" type="range" min="0.025" max="10.0" step="0.025" value="1.0"/>
+    <input id="particle-speed" type="range" min="0.0125" max="10.0" step="0.0125" value="0.05"/>
   </div>
   <div class="col-sm-4">
     <label for="particle-speed">Particle Mass:</label>
@@ -27,11 +27,11 @@ name: "David Conner"
 <div class="row">
   <div class="col-sm-4">
     <label for="r-coefficient">R-Force Coefficient:</label>
-    <input id="r-coefficient" type="range" min="0.0625" max="2.0" step="0.0625" value="0.125"/>
+    <input id="r-coefficient" type="range" min="0.0625" max="4.0" step="0.0625" value="1.0"/>
   </div>
   <div class="col-sm-4">
     <label for="field-size">Field Size:</label>
-    <input id="field-size" type="range" min="1.0" max="300.0" step="1.0" value="1.0"/>
+    <input id="field-size" type="range" min="1.0" max="300.0" step="1.0" value="50.0"/>
   </div>
   <div class="col-sm-4">
     <label for="max-field-lines">Max Field Lines:</label>
@@ -39,20 +39,18 @@ name: "David Conner"
   </div>
 </div>
 
-
 <div class="row">
   <div class="col-sm-6">
     <label>Render: </label>
     <input type="radio" name="render-texture" value="0" checked/>&nbsp;Field
     <input type="radio" name="render-texture" value="1"/>&nbsp;Gradient
+    <input type="radio" name="render-texture" value="2"/>&nbsp;Gradient 4-Channel
   </div>
-</div>
-
-<div class="row">
   <div class="col-sm-6">
-    <label class="checkbox-inline">
-      <input id="circular-field-effect" type="checkbox" checked/>Circular Field Effect
-    </label>
+    <label>Physics: </label>
+    <input type="radio" name="physics-method" value="0" checked/>&nbsp;Brownian
+    <input type="radio" name="physics-method" value="1"/>&nbsp;Gradient
+    <input type="radio" name="physics-method" value="2"/>&nbsp;Composite
   </div>
 </div>
 
@@ -60,6 +58,30 @@ name: "David Conner"
   <div class="col-sm-6">
     <label class="checkbox-inline">
       <input id="fract-render-values" type="checkbox"/>Fract Render Values
+    </label>
+  </div>
+</div>
+
+<div class="row">
+  <div class="col-sm-6">
+    <label class="checkbox-inline">
+      <input id="scale-render-values" type="checkbox"/>Scale Render Values
+    </label>
+  </div>
+</div>
+
+<div class="row">
+  <div class="col-sm-6">
+    <label class="checkbox-inline">
+      <input id="calc-force-in-glpoint-space" type="checkbox"/>Calc Force in GL Point Space
+    </label>
+  </div>
+</div>
+
+<div class="row">
+  <div class="col-sm-6">
+    <label class="checkbox-inline">
+      <input id="circular-field-effect" type="checkbox" checked/>Circular Field Effect
     </label>
   </div>
 </div>
@@ -82,10 +104,6 @@ name: "David Conner"
 
 ### TODO:
 
-- force produced by fsFields should be invariant for v_pointSize
-  - when the field size is increased, the total force exerted on the surrounding area
-    also increases
-  - gl_PointCoord needs to be translated to the renderResolution space
 - fix flipped axes with
 
 - replace particle-speed slider with particle-mass
@@ -162,6 +180,7 @@ name: "David Conner"
 - is it possible to utilize force splatting to average attributes of particles (v & ∂v)
   over various levels of space to correct for the inability to calculate gradients with a large
   field size for each particle?
+  - e.g. increase/decrease field effect size for local particle density
 - force splatting could also be useful in combination with stochastic programming to dynamically
   allocate greater GPU power to regions of space with more intricate particle positions
   and attributes
@@ -180,7 +199,6 @@ name: "David Conner"
     - but more importantly, the lines at each value in the field begin to curve more smoothly until
       they reach the ideal field
     - in the ideal field, the field lines for each axis for the will always intersect at right angles
-      -
 
 - there should be a method of constructing the field/gradient for an arrangement of particles
   using geometry. there may be at least two geometric methods for doing so:
@@ -325,6 +343,7 @@ uniform float u_rCoefficient;
 uniform sampler2D s_particleAttributes;
 uniform bool u_deferGradientCalc;
 uniform bool u_circularFieldEffect;
+uniform bool u_forceCalcInGlPointSpace;
 
 //in vec4 v_position; // not linkable to fsFields ?
 in float v_pointSize;
@@ -342,16 +361,25 @@ vec2 calculateRForce(vec2 point, vec2 center) {
 
 void main()
 {
+  if (u_circularFieldEffect && distance(gl_PointCoord.xy, vec2(0.5,0.5)) > 0.5) { discard; }
+
   vec2 particleCenter = vec2(0.5, 0.5);
-  if (u_circularFieldEffect && distance(gl_PointCoord.xy, particleCenter) > 0.5) { discard; }
-  vec2 rForce = u_rCoefficient * calculateRForce(gl_PointCoord.xy, particleCenter);
+  vec2 fieldPoint = gl_PointCoord.xy;
+  vec2 delta = vec2(1.0, 1.0);
+
+  if (!u_forceCalcInGlPointSpace) {
+     particleCenter *= v_pointSize;
+     fieldPoint *= v_pointSize;
+  } else {
+    // incorrect but causes the shape of the field space to be emphasized
+    delta /= v_pointSize;
+  }
+  vec2 rForce = u_rCoefficient * calculateRForce(fieldPoint, particleCenter);
   repelForce = vec4(rForce.xy, 0.0, 1.0);
 
   if (!u_deferGradientCalc) {
-    vec2 delta = vec2(1.0, 1.0);
-    vec2 point2 = gl_PointCoord + delta / v_pointSize;
-
-    vec2 df = u_rCoefficient * calculateRForce(point2.xy, particleCenter) - rForce;
+    vec2 fieldPoint2 = fieldPoint + delta;
+    vec2 df = u_rCoefficient * calculateRForce(fieldPoint2.xy, particleCenter) - rForce;
 
     repelFieldGradient = vec4(
       df.x / delta.x,
@@ -366,6 +394,7 @@ void main()
 uniform vec2 u_resolution;
 uniform sampler2D s_repelField;
 uniform sampler2D s_repelComp;
+uniform bool u_forceCalcInGlPointSpace;
 
 // R: (df1/dx)
 // G: (df1/dy)
@@ -394,6 +423,7 @@ uniform vec2 u_resolution;
 uniform float u_rCoefficient;
 uniform bool u_fractRenderValues;
 uniform bool u_renderMagnitude;
+uniform bool u_scaleRenderValues;
 uniform int u_renderTexture;
 uniform float u_maxFieldLines;
 
@@ -402,6 +432,7 @@ uniform sampler2D s_repelFieldGradient;
 
 #define renderTextureField 0
 #define renderTextureGradient 1
+#define renderTexture4Channel 2
 
 out vec4 color;
 
@@ -432,8 +463,8 @@ void main() {
     case renderTextureGradient:
       if (u_renderMagnitude) {
         color = vec4(
-          4.0 * distance(vec2(0.0,0.0), rGradient.xz),
-          4.0 * distance(vec2(0.0,0.0), rGradient.yw),
+          4.0 * distance(rGradient.xz, vec2(0.0,0.0)),
+          4.0 * distance(rGradient.yw, vec2(0.0,0.0)),
           0.0,
           1.0);
       } else {
@@ -444,6 +475,26 @@ void main() {
           1.0);
       }
       break;
+    case renderTexture4Channel:
+      if (u_renderMagnitude) {
+        color = vec4(
+          4.0 * distance(rGradient.x, 0.0),
+          4.0 * distance(rGradient.z, 0.0),
+          4.0 * (distance(rGradient.y, 0.0) * distance(rGradient.w, 0.0)),
+          1.0);
+      } else {
+        color = vec4(
+          4.0 * rGradient.x * rGradient.z,
+          4.0 * rGradient.z * rGradient.w,
+          4.0 * (rGradient.y * rGradient.w),
+          1.0);
+      }
+      break;
+  }
+
+  if (u_scaleRenderValues) {
+      vec3 scaled = 1.0/(1.0 + exp(-color.xyz));
+      color = 10.0 * vec4(scaled - 0.5, 1.0);
   }
 
   if (u_fractRenderValues) {
@@ -467,7 +518,7 @@ void main() {
         color.z = -u_maxFieldLines;
       }
     }
-    color = vec4(fract(vec3(color)), 1.0);
+    color = vec4(fract(color.xyz), 1.0);
   }
 }
 </script>
