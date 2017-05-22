@@ -26,12 +26,16 @@ name: "David Conner"
 </div>
 <div class="row">
   <div class="col-sm-4">
-    <label for="field-size">Field Size:</label>
-    <input id="field-size" type="range" min="1.0" max="100.0" step="1.0" value="1.0"/>
-  </div>
-  <div class="col-sm-4">
     <label for="r-coefficient">R-Force Coefficient:</label>
     <input id="r-coefficient" type="range" min="0.0625" max="2.0" step="0.0625" value="0.125"/>
+  </div>
+  <div class="col-sm-4">
+    <label for="field-size">Field Size:</label>
+    <input id="field-size" type="range" min="1.0" max="300.0" step="1.0" value="1.0"/>
+  </div>
+  <div class="col-sm-4">
+    <label for="max-field-lines">Max Field Lines:</label>
+    <input id="max-field-lines" type="range" min="0.0" max="10.0" step="1.0" value="1.0"/>
   </div>
 </div>
 
@@ -41,6 +45,14 @@ name: "David Conner"
     <label>Render: </label>
     <input type="radio" name="render-texture" value="0" checked/>&nbsp;Field
     <input type="radio" name="render-texture" value="1"/>&nbsp;Gradient
+  </div>
+</div>
+
+<div class="row">
+  <div class="col-sm-6">
+    <label class="checkbox-inline">
+      <input id="circular-field-effect" type="checkbox" checked/>Circular Field Effect
+    </label>
   </div>
 </div>
 
@@ -70,9 +82,12 @@ name: "David Conner"
 
 ### TODO:
 
-- fix edge values in gradient field by transforming the space with a parameterized sigmoid s-curve
-  - [Sigmoid curve](https://en.wikipedia.org/wiki/Logistic_function)
-  - can this or its derivative be parameterized to skew the numbers right
+- force produced by fsFields should be invariant for v_pointSize
+  - when the field size is increased, the total force exerted on the surrounding area
+    also increases
+  - gl_PointCoord needs to be translated to the renderResolution space
+- fix flipped axes with
+
 - replace particle-speed slider with particle-mass
   - figure out mass/energy/momentum/speed, the order of each calculation, etc
 
@@ -142,6 +157,49 @@ name: "David Conner"
       - however, texture atlas techniques like this are required if you want to render more
         complicated electron density clouds
 
+### Questions
+
+- is it possible to utilize force splatting to average attributes of particles (v & ∂v)
+  over various levels of space to correct for the inability to calculate gradients with a large
+  field size for each particle?
+- force splatting could also be useful in combination with stochastic programming to dynamically
+  allocate greater GPU power to regions of space with more intricate particle positions
+  and attributes
+  - there's an interesting effect produced when viewing the fracted values of the
+    field/gradient
+    - it begins to take on curved forms that connected from particle to particle, except
+      around the edge of the calculated effect on the field for each particle
+    - that is, at the edge of the particle field, there is a sharp break in values added
+      that produces jagged curves that would be otherwise smooth if there were no
+      limits on the computational power
+  - so, is there any way to generate the ideal field by progressively converging towards something
+    like a topographical map for a curved space, where the lines represent the locations for
+    particular values
+    - as the computed space approaches the ideal space, the curves (values) begin to change less
+      and less for paricle systems that have spherical forces
+    - but more importantly, the lines at each value in the field begin to curve more smoothly until
+      they reach the ideal field
+    - in the ideal field, the field lines for each axis for the will always intersect at right angles
+      -
+
+- there should be a method of constructing the field/gradient for an arrangement of particles
+  using geometry. there may be at least two geometric methods for doing so:
+  - (1) given a delauney triangulation mesh of the particles, one expands on the graph/geometry to
+    produce a mesh which is close enough to match the field
+  - (2) or via a kind of stochastic programming where ideal points in the space are sampled for
+    values and the field is interpolated afterwards
+  - both of these methods can be improved by attaching normals to the vertices to assist in making
+    the curves more accurate.
+    - but it's the perculiar nature of the curves that makes it possible for an algorithm to sift
+      towards their ideal shape
+  - for either algorithm, but particularly the first, neural networks can assist in identifying
+    similarity between local subgraphs of the delauney triangulation and the output of the field
+  - both of these algorithms are likely rendered intractible by variation in particle type &
+    attributes. for systems with identical particles spread across the system, then similarity
+    between system arrangments can be more easily identified and harnessed to interpolate the
+    system
+
+
 <pre class="highlight">Fragment Shader: fsUpdateParticles<code id="codeFsUpdateParticles"></code></pre>
 <pre class="highlight">Vertex Shader: vsFields<code id="codeVsFields"></code></pre>
 <pre class="highlight">Fragment Shader: fsFields<code id="codeFsFields"></code></pre>
@@ -170,6 +228,7 @@ uniform vec4 u_deltaTime;
 
 uniform isampler2D s_particleRandoms;
 uniform sampler2D s_particles;
+//uniform sampler2D s_repelFieldGradient
 
 in vec2 v_st;
 in vec3 v_position;
@@ -265,6 +324,7 @@ uniform vec2 u_resolution;
 uniform float u_rCoefficient;
 uniform sampler2D s_particleAttributes;
 uniform bool u_deferGradientCalc;
+uniform bool u_circularFieldEffect;
 
 //in vec4 v_position; // not linkable to fsFields ?
 in float v_pointSize;
@@ -283,6 +343,7 @@ vec2 calculateRForce(vec2 point, vec2 center) {
 void main()
 {
   vec2 particleCenter = vec2(0.5, 0.5);
+  if (u_circularFieldEffect && distance(gl_PointCoord.xy, particleCenter) > 0.5) { discard; }
   vec2 rForce = u_rCoefficient * calculateRForce(gl_PointCoord.xy, particleCenter);
   repelForce = vec4(rForce.xy, 0.0, 1.0);
 
@@ -334,6 +395,7 @@ uniform float u_rCoefficient;
 uniform bool u_fractRenderValues;
 uniform bool u_renderMagnitude;
 uniform int u_renderTexture;
+uniform float u_maxFieldLines;
 
 uniform sampler2D s_repelField;
 uniform sampler2D s_repelFieldGradient;
@@ -385,6 +447,26 @@ void main() {
   }
 
   if (u_fractRenderValues) {
+    if (u_maxFieldLines > 0.0) {
+      if (color.x > u_maxFieldLines) {
+        color.x = u_maxFieldLines;
+      }
+      if (color.y > u_maxFieldLines) {
+        color.y = u_maxFieldLines;
+      }
+      if (color.z > u_maxFieldLines) {
+        color.z = u_maxFieldLines;
+      }
+      if (color.x < -u_maxFieldLines) {
+        color.x = -u_maxFieldLines;
+      }
+      if (color.y < -u_maxFieldLines) {
+        color.y = -u_maxFieldLines;
+      }
+      if (color.z < -u_maxFieldLines) {
+        color.z = -u_maxFieldLines;
+      }
+    }
     color = vec4(fract(vec3(color)), 1.0);
   }
 }

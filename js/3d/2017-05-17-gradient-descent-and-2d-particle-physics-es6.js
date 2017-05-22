@@ -739,6 +739,7 @@ function runWebGL() {
       context.uniform1f(rpFields.uniformLocations.u_fieldSize, uniforms.fieldSize);
       context.uniform1f(rpFields.uniformLocations.u_rCoefficient, uniforms.rCoefficient);
       context.uniform1i(rpFields.uniformLocations.u_deferGradientCalc, (uniforms.deferGradientCalc ? 1 : 0));
+      context.uniform1i(rpFields.uniformLocations.u_circularFieldEffect, (uniforms.circularFieldEffect ? 1 : 0));
       context.uniform1i(rpFields.uniformLocations.s_particles, 0);
     },
     encodeTextures: (context, uniforms, ops) => {
@@ -765,7 +766,8 @@ function runWebGL() {
     'u_fieldSize',
     'u_rCoefficient',
     's_particles',
-    'u_deferGradientCalc'
+    'u_deferGradientCalc',
+    'u_circularFieldEffect'
   ]);
 
 // =======================================
@@ -823,6 +825,7 @@ function runWebGL() {
       context.uniform1f(rpRenderFields.uniformLocations.u_rCoefficient, uniforms.rCoefficient);
       context.uniform1i(rpRenderFields.uniformLocations.u_fractRenderValues, (uniforms.fractRenderValues ? 1 : 0));
       context.uniform1i(rpRenderFields.uniformLocations.u_renderMagnitude, (uniforms.renderMagnitude ? 1 : 0));
+      context.uniform1f(rpRenderFields.uniformLocations.u_maxFieldLines, uniforms.maxFieldLines);
       context.uniform1i(rpRenderFields.uniformLocations.u_renderTexture, uniforms.renderTexture);
       context.uniform1i(rpRenderFields.uniformLocations.s_repelField, 0);
       context.uniform1i(rpRenderFields.uniformLocations.s_repelFieldGradient, 1);
@@ -847,6 +850,7 @@ function runWebGL() {
     'u_rCoefficient',
     'u_renderTexture',
     'u_fractRenderValues',
+    'u_maxFieldLines',
     'u_renderMagnitude',
     's_repelField',
     's_repelFieldGradient'
@@ -857,18 +861,20 @@ function runWebGL() {
 // =======================================
 
   var particleCount, particleSpeed, particleMass;
-  var fieldSize, rCoefficient;
-  var deferGradientCalc, fractRenderValues, renderMagnitude, renderTexture;
+  var fieldSize, rCoefficient, maxFieldLines;
+  var deferGradientCalc, fractRenderValues, renderMagnitude, renderTexture, circularFieldEffect;
 
   function uiControlUpdate() {
     particleCount = document.getElementById('particle-count').value;
     particleSpeed = document.getElementById('particle-speed').value;
     particleMass = document.getElementById('particle-mass').value;
-    fieldSize = document.getElementById('field-size').value;
     rCoefficient = document.getElementById('r-coefficient').value;
+    fieldSize = document.getElementById('field-size').value;
+    maxFieldLines = document.getElementById('max-field-lines').value;
     deferGradientCalc = document.getElementById('defer-gradient-calc').checked;
     fractRenderValues = document.getElementById('fract-render-values').checked;
     renderMagnitude = document.getElementById('render-magnitude').checked;
+    circularFieldEffect = document.getElementById('circular-field-effect').checked;
 
     var renderTextureRadios = document.getElementsByName('render-texture');
     renderTexture = renderTextureRadios[0].checked ? 0 : 1;
@@ -951,7 +957,8 @@ function renderDebugTexture(pixels) {
       resolution: renderResolution,
       fieldSize: fieldSize,
       rCoefficient: rCoefficient,
-      deferGradientCalc: deferGradientCalc
+      deferGradientCalc: deferGradientCalc,
+      circularFieldEffect: circularFieldEffect
     };
 
     rpFields.encode(gl, fieldsUniforms, {
@@ -991,6 +998,7 @@ function renderDebugTexture(pixels) {
       rCoefficient: rCoefficient,
       fractRenderValues: fractRenderValues,
       renderMagnitude: renderMagnitude,
+      maxFieldLines: maxFieldLines,
       renderTexture: renderTexture
     };
 
