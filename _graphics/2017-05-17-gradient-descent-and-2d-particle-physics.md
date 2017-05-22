@@ -11,25 +11,35 @@ name: "David Conner"
 ####  Requires ES6 & WebGL 2.0 &#x2605; Runs Best In Firefox (and Chrome) &#x2605; Does Not Run On Mobile
 
 <div class="row">
-  <div class="col-sm-3">
+  <div class="col-sm-4">
     <label for="particle-count">Particle Count:</label>
     <input id="particle-count" type="range" min="128" max="20480" step="32" value="1024"/>
   </div>
-  <div class="col-sm-3">
+  <div class="col-sm-4">
     <label for="particle-speed">Particle Speed:</label>
     <input id="particle-speed" type="range" min="0.025" max="10.0" step="0.025" value="1.0"/>
   </div>
-  <div class="col-sm-3">
+  <div class="col-sm-4">
     <label for="particle-speed">Particle Mass:</label>
     <input id="particle-mass" type="range" min="0.025" max="10.0" step="0.025" value="1.0"/>
   </div>
-  <div class="col-sm-3">
+</div>
+<div class="row">
+  <div class="col-sm-4">
     <label for="field-size">Field Size:</label>
-    <input id="field-size" type="range" min="1.0" max="50.0" step="1.0" value="1.0"/>
+    <input id="field-size" type="range" min="1.0" max="100.0" step="1.0" value="1.0"/>
   </div>
-  <div class="col-sm-3">
+  <div class="col-sm-4">
     <label for="r-coefficient">R-Force Coefficient:</label>
-    <input id="r-coefficient" type="range" min="0.0125" max="2.0" step="0.0125" value="1.0"/>
+    <input id="r-coefficient" type="range" min="0.00625" max="2.0" step="0.00625" value="1.0"/>
+  </div>
+</div>
+
+<div class="row">
+  <div class="col-sm-6">
+    <label class="checkbox-inline">
+      <input id="deferred-gradient-calcuation" type="checkbox"/>Deferred Gradient Calculation
+    </label>
   </div>
 </div>
 
@@ -71,6 +81,13 @@ name: "David Conner"
 - coordinate systems considered/used
 
 ### Resolving Discontinuity Problem in Gradients
+
+- added checkbox for deferred calculation
+  - holla holla chain rule
+    - yes, that's a calculus joke
+  - (the derivative of the gradient when using deferred calculation is equivalent to
+    the sum of the derivatives of the component particles for that pixel, where blending
+    is essentially a sum)
 
 ![screenshot]()
 
@@ -228,7 +245,7 @@ in float v_pointSize;
 flat in int v_particleId;
 
 layout(location = 0) out vec4 repelForce;
-layout(location = 1) out vec4 repelComp;
+layout(location = 1) out vec4 repelFieldGradient;
 
 vec2 calculateRForce(vec2 point, vec2 center) {
   vec2 pointOffset = point.xy - center;
@@ -239,14 +256,12 @@ vec2 calculateRForce(vec2 point, vec2 center) {
 
 void main()
 {
-  //ivec2 texSize = textureSize(s_particleAttributes, 0);
-  //ivec2 texel = ivec2(v_particleId % texSize.x, v_particleId / texSize.x);
-  //vec4 pAttr = texelFetch(s_particleAttributes, texel, 0);
-  //vec4 particleColor = vec4(pAttr.r, pAttr.g, pAttr.b, 1.0);
-
   vec2 rForce = u_rCoefficient * calculateRForce(gl_PointCoord.xy, vec2(0.5, 0.5));
   repelForce = vec4(rForce.xy, 0.0, 1.0);
-  repelComp = vec4(distance(rForce, vec2(0.0,0.0)), 0.0, 0.0, 1.0);
+
+  // and calculate gradient simultaneously to remove blur
+  vec2 rForce2 =
+
 }
 </script>
 
@@ -306,17 +321,17 @@ void main() {
   vec4 rForce = texture(s_repelField, uv);
   vec4 rComp = texture(s_repelComp, uv);
 
-  //color = vec4(
-  //  distance(vec2(0.0,0.0), rForce.xy),
-  //  0.0,
-  //  rComp.x,
-  //  1.0);
-
   color = vec4(
-    rForce.x,
-    rForce.y,
-    rForce.z, //0.0, //rComp.x,
+    distance(vec4(0.0,0.0), rForce.xy),
+    0.0,
+    0.0, //distance(vec2(0.0,0.0), rForce.zw),
     1.0);
+
+  //color = vec4(
+    //fract(rForce.x),
+    //fract(rForce.y),
+    //fract(rForce.z),
+    //1.0);
 }
 </script>
 

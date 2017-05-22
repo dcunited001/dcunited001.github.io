@@ -524,7 +524,7 @@ function runWebGL() {
     particleAttachments,
     particleColors;
 
-  particleRandomsAttachments = j.[0,1,2].map((f) => {
+  particleRandomsAttachments = [0,1,2].map((f) => {
     gl.activeTexture(gl.TEXTURE0);
     var tex = gl.createTexture();
     gl.bindTexture(gl.TEXTURE_2D, tex);
@@ -597,7 +597,7 @@ function runWebGL() {
 // =======================================
 
   var fieldPonger = new PingPongProvider({max: 3});
-  var fieldRForceAttachments, fieldRCompAttachments;
+  var fieldRForceAttachments;
 
   fieldRForceAttachments = [0,1,2].map((i) => {
     gl.activeTexture(gl.TEXTURE0);
@@ -608,21 +608,12 @@ function runWebGL() {
     return tex;
   });
 
-  fieldRCompAttachments = [0,1,2].map((i) => {
-    gl.activeTexture(gl.TEXTURE0);
-    var tex = gl.createTexture();
-    gl.bindTexture(gl.TEXTURE_2D, tex);
-    gl.texStorage2D(gl.TEXTURE_2D, 1, gl.RGBA32F, renderResolution[0], renderResolution[1]);
-    gl.bindTexture(gl.TEXTURE_2D, null);
-    return tex;
-  });
-
   fieldPonger.registerTextures('repelField', fieldRForceAttachments);
-  fieldPonger.registerTextures('repelComp', fieldRCompAttachments);
+  fieldPonger.registerTextures('repelFieldGradient', fieldRForceAttachments);
 
   var fieldPongerFboConfig = {
     repelField: { colorAttachment: gl.COLOR_ATTACHMENT0 },
-    repelComp: { colorAttachment: gl.COLOR_ATTACHMENT1 }
+    repelFieldGradient: { colorAttachment: gl.COLOR_ATTACHMENT1 }
   };
 
   fieldPonger.initFramebuffers(gl, fieldPongerFboConfig);
@@ -638,7 +629,7 @@ function runWebGL() {
 // =======================================
 
   var gradientPonger = new PingPongProvider({max: 3});
-  var gradientRForceAttachments, gradientRCompAttachments;
+  var gradientRForceAttachments;
 
   gradientRForceAttachments = [0,1,2].map((i) => {
     gl.activeTexture(gl.TEXTURE0);
@@ -649,21 +640,10 @@ function runWebGL() {
     return tex;
   });
 
-  gradientRCompAttachments = [0,1,2].map((i) => {
-    gl.activeTexture(gl.TEXTURE0);
-    var tex = gl.createTexture();
-    gl.bindTexture(gl.TEXTURE_2D, tex);
-    gl.texStorage2D(gl.TEXTURE_2D, 1, gl.RGBA32F, renderResolution[0], renderResolution[1]);
-    gl.bindTexture(gl.TEXTURE_2D, null);
-    return tex;
-  });
-
   gradientPonger.registerTextures('repelFieldGradient', gradientRForceAttachments);
-  gradientPonger.registerTextures('repelCompGradient', gradientRCompAttachments);
 
   var gradientPongerFboConfig = {
-    repelFieldGradient: { colorAttachment: gl.COLOR_ATTACHMENT0 },
-    repelCompGradient: { colorAttachment: gl.COLOR_ATTACHMENT1 }
+    repelFieldGradient: { colorAttachment: gl.COLOR_ATTACHMENT0 }
   };
 
   gradientPonger.initFramebuffers(gl, gradientPongerFboConfig);
@@ -799,16 +779,11 @@ function runWebGL() {
     encodeUniforms: (context, uniforms, ops) => {
       context.uniform2fv(rpGradients.uniformLocations.u_resolution, uniforms.resolution);
       context.uniform1i(rpGradients.uniformLocations.s_repelField, 0);
-      context.uniform1i(rpGradients.uniformLocations.s_repelComp, 1);
     },
     encodeTextures: (context, uniforms, ops) => {
       context.activeTexture(context.TEXTURE0);
       context.bindTexture(context.TEXTURE_2D, ops.repelField);
       context.bindSampler(0, samplerNearest);
-
-      context.activeTexture(context.TEXTURE1);
-      context.bindTexture(context.TEXTURE_2D, ops.repelComp);
-      context.bindSampler(1, samplerNearest);
     },
     encodeDraw: (context, uniforms, ops) => {
       context.drawBuffers([
@@ -823,8 +798,7 @@ function runWebGL() {
 
   rpGradients.setUniformLocations(gl, [
     'u_resolution',
-    's_repelField',
-    's_repelComp'
+    's_repelField'
   ]);
 
 // =======================================
@@ -843,16 +817,11 @@ function runWebGL() {
       context.uniform2fv(rpRenderFields.uniformLocations.u_resolution, uniforms.resolution);
       context.uniform1f(rpRenderFields.uniformLocations.u_rCoefficient, uniforms.rCoefficient);
       context.uniform1i(rpRenderFields.uniformLocations.s_repelField, 0);
-      context.uniform1i(rpRenderFields.uniformLocations.s_repelComp, 1);
     },
     encodeTextures: (context, uniforms, ops) => {
       context.activeTexture(context.TEXTURE0);
       context.bindTexture(context.TEXTURE_2D, ops.repelField);
       context.bindSampler(0, samplerNearest);
-
-      context.activeTexture(context.TEXTURE1);
-      context.bindTexture(context.TEXTURE_2D, ops.repelComp);
-      context.bindSampler(1, samplerNearest);
     },
     encodeDraw: (context, uniforms, ops) => {
       context.bindVertexArray(anyQuad.vertexArray);
@@ -863,8 +832,7 @@ function runWebGL() {
   rpRenderFields.setUniformLocations(gl, [
     'u_resolution',
     'u_rCoefficient',
-    's_repelField',
-    's_repelComp'
+    's_repelField'
   ]);
 
 // =======================================
@@ -875,14 +843,16 @@ function runWebGL() {
 // UI Controls
 // =======================================
 
-  var particleCount, particleSpeed, fieldSize, rCoefficient;
+  var particleCount, particleSpeed, particleMass, fieldSize, rCoefficient;
   //var rCoefficient, rForceEnabled, rCompEnabled;
 
   function uiControlUpdate() {
     particleCount = document.getElementById('particle-count').value;
     particleSpeed = document.getElementById('particle-speed').value;
+    particleMass = document.getElementById('particle-mass').value;
     fieldSize = document.getElementById('field-size').value;
     rCoefficient = document.getElementById('r-coefficient').value;
+    deferredGradientCalculation = document.getElementById('')
   }
 
   var anyQuad = new Quad(gl);
@@ -955,8 +925,7 @@ function runWebGL() {
 
     rpGradients.encode(gl, gradientsUniforms, {
       framebuffer: gradientPonger.getCurrentFbo(),
-      repelField: fieldPonger.getCurrent('repelField'),
-      repelComp: fieldPonger.getCurrent('repelComp')
+      repelField: fieldPonger.getCurrent('repelField')
     });
 
     if (createDebugTexture) {
@@ -1002,9 +971,7 @@ function runWebGL() {
     rpRenderFields.encode(gl, renderFieldsUniforms, {
       framebuffer: null,
       //repelField: fieldPonger.getCurrent('repelField'),
-      //repelComp: fieldPonger.getCurrent('repelComp')
       repelField: gradientPonger.getCurrent('repelFieldGradient'),
-      repelComp: gradientPonger.getCurrent('repelCompGradient')
     });
 
     // TODO: mipmap aggregate on particle texture:
