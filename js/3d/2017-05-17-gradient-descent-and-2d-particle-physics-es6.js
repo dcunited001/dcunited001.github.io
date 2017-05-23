@@ -258,6 +258,67 @@ function runWebGL() {
     }
   }
 
+  class LinePlot {
+    constructor(context, size, width, height, options = {}) {
+      this._width = width;
+      this._height = height;
+      this._size = size;
+      this._rolling = options.rolling ? true : false;
+      this._startIndex = 0;
+      this._lineColor = options.color || vec4.fromValues(1.0, 1.0, 1.0, 1.0);
+      this._lineWidth = options.lineWidth || 5;
+      this._pos = new Float32Array(size * 2);
+
+      this._buffers = this.prepareBuffers(context, this._pos);
+      this._vertexArray = this.prepareVertexArray(context, this._buffers);
+    }
+
+    get pos() { return this._pos; }
+    set pos(pos) { this._pos = pos; }
+    get buffers() { return this._buffers; }
+    set buffers(buffers) { this._buffers = buffers; }
+    get vertexArray() { return this._vertexArray; }
+    set vertexArray(vertexArray) { this._vertexArray = vertexArray; }
+
+    encode(context) {
+      // u_startIndex
+      // u_lineColor
+      // u_rolling
+      // u_lineWidth
+
+    }
+
+    increment() {
+      this._startIndex++;
+    }
+    
+    prepareBuffers(context, pos) {
+      var vertexPosBuffer = context.createBuffer();
+      context.bindBuffer(context.ARRAY_BUFFER, vertexPosBuffer);
+      context.bufferData(context.ARRAY_BUFFER, pos, context.STATIC_DRAW);
+      context.bindBuffer(context.ARRAY_BUFFER, null);
+      
+      return {
+        pos: vertexPosBuffer
+      };
+    }
+
+    prepareVertexArray(context, buffers) {
+      var vertexArray = context.createVertexArray();
+      context.bindVertexArray(vertexArray);
+
+      var vertexPosIdx = 0;
+      context.bindBuffer(context.ARRAY_BUFFER, buffers.pos);
+      context.vertexAttribPointer(vertexPosIdx, 2, context.FLOAT, false, 0, 0);
+      context.enableVertexAttribArray(vertexPosIdx);
+      context.bindBuffer(context.ARRAY_BUFFER, null);
+
+      context.bindVertexArray(null);
+      return vertexArray;
+    }
+    
+  }
+  
   class RenderPass {
     constructor(program, options = {}) {
       this._program = program;
@@ -478,7 +539,6 @@ function runWebGL() {
   var programParticles = createProgram(gl,
     document.getElementById('vsPass').textContent,
     document.getElementById('fsUpdateParticles').textContent);
-
 
   var programForceSplat = createProgram(gl,
     document.getElementById('vsPass').textContent,
@@ -899,7 +959,7 @@ function runWebGL() {
   ]);
 
 // =======================================
-// Render Pass: Final
+// Render Pass: Fields
 // =======================================
 
   var rpRenderFields = new RenderPass(programRenderFields, {
@@ -918,6 +978,8 @@ function runWebGL() {
       context.uniform1i(rpRenderFields.uniformLocations.u_scaleRenderValues, (uniforms.scaleRenderValues ? 1 : 0));
       context.uniform1f(rpRenderFields.uniformLocations.u_maxFieldLines, uniforms.maxFieldLines);
       context.uniform1i(rpRenderFields.uniformLocations.u_renderTexture, uniforms.renderTexture);
+      context.uniform1i(rpRenderFields.uniformLocations.u_audioColorShiftEnabled, uniforms.audioColorShiftEnabled);
+      context.uniform3fv(rpRenderFields.uniformLocations.u_audioColorShift, uniforms.audioColorShift);
       context.uniform1i(rpRenderFields.uniformLocations.s_repelField, 0);
       context.uniform1i(rpRenderFields.uniformLocations.s_repelFieldGradient, 1);
     },
@@ -944,9 +1006,114 @@ function runWebGL() {
     'u_maxFieldLines',
     'u_renderMagnitude',
     'u_scaleRenderValues',
+    'u_audioColorShift',
+    'u_audioColorShiftEnabled',
     's_repelField',
     's_repelFieldGradient'
   ]);
+
+// =======================================
+// Render Pass: Line Plots
+// =======================================
+
+  // TODO: enable UI interaction that allows the graphs to fade in and out by dragging the mouse ?
+
+
+// =======================================
+// D3
+// =======================================
+
+// total # of particles
+// density
+// average velocity & thermal velocity
+
+//var d3Data = {
+//  t:
+//}
+
+// =======================================
+// Web Audio
+// =======================================
+
+  class MicrophoneInput {
+    constructor() {
+      this._loaded = false;
+      this._sampleRate = 512;
+      this._isLive = false;
+      this._waveformSum = 0;
+      this._waveformSumMax = 4096 * 10;
+    }
+
+    initMic(audioContext, cb) {
+      this._context = audioContext;
+      navigator.mediaDevices.getUserMedia({audio: true})
+        .then(cb)
+        .catch(this.initMicError);
+    }
+
+    initMicGraph(stream) {
+      var micInput = this._context.createMediaStreamSource(stream);
+      // TODO: create context.createAnalyser() node if FFT is needed
+      var scriptProcessor = this._context.createScriptProcessor(this._sampleRate, 1, 1);
+
+      var thisMic = this;
+      scriptProcessor.onaudioprocess = function(event) {
+        var inputData = event.inputBuffer.getChannelData(0); // mono :(
+        var waveformSum = 0;
+        for (i=0; i++; i < thisMic._sampleRate) {
+          waveformSum += Math.abs(inputData[i]);
+        }
+        thisMic.updateMicUniform(waveformSum);
+      };
+
+      micInput.connect(scriptProcessor);
+      scriptProcessor.connect(this._context.destination);
+      this._loaded = true;
+    }
+
+    initMicError(e) {
+      console.error('Error initializing microphone', e);
+    }
+
+    updateMicUniform(waveformSum) {
+      this._waveformSum += waveformSum % this._waveformSumMax;
+    }
+
+    getColorShift(rPeriod,gPeriod,bPeriod) {
+      // r g b: the frequencies to modulate
+      return vec3.fromValues(
+        (this._waveformSum % rPeriod) / rPeriod,
+        (this._waveformSum % gPeriod) / gPeriod,
+        (this._waveformSum % bPeriod) / bPeriod);
+    }
+
+    enableControls() {
+      var enabledCheckbox = document.getElementById('audio-color-shift-enabled');
+      enabledCheckbox.checked = true;
+      enabledCheckbox.enabled = true;
+    }
+  }
+
+  var audioContext = new window.AudioContext();
+  var mic = new MicrophoneInput();
+
+  window.activateMic = function() {
+    setTimeout(function() {
+      //in Chrome v43 only, i'm getting a MEDIA_DEVICE_FAILED_DUE_TO_SHUTDOWN
+      // thrown when rendering after user clicks pushstate link
+      // ideally, this getUserMedia request should only be executed once per visit.
+
+      mic.initMic(audioContext, function (stream) {
+        mic.enableControls();
+        mic.initMicGraph(stream);
+      });
+    }, 250);
+
+    console.log(mic.getColorShift(
+      document.getElementById('audio-color-shift-r').value,
+      document.getElementById('audio-color-shift-g').value,
+      document.getElementById('audio-color-shift-b').value))
+  };
 
 // =======================================
 // UI Controls
@@ -956,6 +1123,7 @@ function runWebGL() {
   var fieldSize, rCoefficient, maxFieldLines;
   var renderTexture, physicsMethod, physicsMethods;
   var deferGradientCalc, fractRenderValues, renderMagnitude, circularFieldEffect, forceCalcInGlPointSpace, scaleRenderValues;
+  var audioColorShift = vec3.fromValues(0.0, 0.0, 0.0), audioColorShiftEnabled = false;
 
   function uiControlUpdate() {
     particleCount = document.getElementById('particle-count').value;
@@ -975,6 +1143,14 @@ function runWebGL() {
     if (forceCalcInGlPointSpace) {
       rCoefficient /= 10;
     }
+
+    audioColorShiftEnabled = document.getElementById('audio-color-shift-enabled').checked;
+    audioColorShift = mic.getColorShift(
+      document.getElementById('audio-color-shift-r').value,
+      document.getElementById('audio-color-shift-g').value,
+      document.getElementById('audio-color-shift-b').value);
+
+
 
     var renderTextureRadios = document.getElementsByName('render-texture');
     renderTexture = [0,1,2].reduce((a,i) => renderTextureRadios[i].checked ? i : a, 0);
@@ -1043,7 +1219,7 @@ function renderDebugTexture(pixels) {
     uiControlUpdate();
 
     if (framecount % 30 == 0) {
-      console.log(deltaT);
+      //console.log(deltaT);
     }
 
     if (physicsMethod == physicsMethods.splat) {
@@ -1125,7 +1301,9 @@ function renderDebugTexture(pixels) {
       scaleRenderValues: scaleRenderValues,
       renderMagnitude: renderMagnitude,
       maxFieldLines: maxFieldLines,
-      renderTexture: renderTexture
+      renderTexture: renderTexture,
+      audioColorShiftEnabled: audioColorShiftEnabled,
+      audioColorShift: audioColorShift
     };
 
     var renderFieldsOptions = {

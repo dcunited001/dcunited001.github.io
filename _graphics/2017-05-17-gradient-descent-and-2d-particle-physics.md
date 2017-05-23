@@ -16,7 +16,7 @@ name: "David Conner"
     <input id="particle-count" type="range" min="128" max="5120" step="16" value="1024"/>
   </div>
   <div class="col-sm-4">
-    <label for="particle-speed">Particle Speed:</label>
+    <label for="particle-speed">Particle Speed Factor:</label>
     <input id="particle-speed" type="range" min="0.0125" max="10.0" step="0.0125" value="0.05"/>
   </div>
   <div class="col-sm-4">
@@ -30,11 +30,11 @@ name: "David Conner"
     <input id="r-coefficient" type="range" min="0.0625" max="4.0" step="0.0625" value="1.0"/>
   </div>
   <div class="col-sm-4">
-    <label for="field-size">Field Size:</label>
+    <label for="field-size">Field Effect Size:</label>
     <input id="field-size" type="range" min="1.0" max="300.0" step="1.0" value="50.0"/>
   </div>
   <div class="col-sm-4">
-    <label for="max-field-lines">Max Field Lines:</label>
+    <label for="max-field-lines">Clamp Field Lines:</label>
     <input id="max-field-lines" type="range" min="0.0" max="10.0" step="1.0" value="1.0"/>
   </div>
 </div>
@@ -56,49 +56,25 @@ name: "David Conner"
 
 <div class="row">
   <div class="col-sm-6">
-    <label class="checkbox-inline">
-      <input id="fract-render-values" type="checkbox"/>Fract Render Values
-    </label>
+    <div><input id="fract-render-values" type="checkbox" onclick=""/>&nbsp;Fract Render Values</div>
+    <div><input id="scale-render-values" type="checkbox"/>&nbsp;Scale Render Values</div>
+    <div><input id="calc-force-in-glpoint-space" type="checkbox"/>&nbsp;Calc Force in GL Point Space</div>
+    <div><input id="circular-field-effect" type="checkbox" checked/>&nbsp;Circular Field Effect</div>
+    <div><input id="render-magnitude" type="checkbox"/>&nbsp;Render Magnitude</div>
+    <div><input id="defer-gradient-calc" type="checkbox"/>&nbsp;Defer Gradient Calculation</div>
   </div>
-</div>
-
-<div class="row">
   <div class="col-sm-6">
-    <label class="checkbox-inline">
-      <input id="scale-render-values" type="checkbox"/>Scale Render Values
-    </label>
-  </div>
-</div>
+    <button id="btn-activate-mic" type="button" onclick="activateMic()">Activate Mic (Requires HTTPS)</button>
+    <div><input id="audio-color-shift-enabled" type="checkbox"/>&nbsp;Enable Audio Color Shift</div>
 
-<div class="row">
-  <div class="col-sm-6">
-    <label class="checkbox-inline">
-      <input id="calc-force-in-glpoint-space" type="checkbox"/>Calc Force in GL Point Space
-    </label>
-  </div>
-</div>
+    <label for="audio-color-shift-r">R-Period</label>
+    <input id="audio-color-shift-r" type="range" min="200" max="20000" step="1" value="2345"/>
 
-<div class="row">
-  <div class="col-sm-6">
-    <label class="checkbox-inline">
-      <input id="circular-field-effect" type="checkbox" checked/>Circular Field Effect
-    </label>
-  </div>
-</div>
+    <label for="audio-color-shift-g">G-Period</label>
+    <input id="audio-color-shift-g" type="range" min="200" max="20000" step="1" value="5432"/>
 
-<div class="row">
-  <div class="col-sm-6">
-    <label class="checkbox-inline">
-      <input id="render-magnitude" type="checkbox"/>Render Magnitude
-    </label>
-  </div>
-</div>
-
-<div class="row">
-  <div class="col-sm-6">
-    <label class="checkbox-inline">
-      <input id="defer-gradient-calc" type="checkbox"/>Defer Gradient Calculation
-    </label>
+    <label for="audio-color-shift-b">B-Period</label>
+    <input id="audio-color-shift-b" type="range" min="200" max="20000" step="1" value="7564"/>
   </div>
 </div>
 
@@ -360,7 +336,7 @@ void main() {
   // TODO: adjust units for u_particleSpeed (and fix in netForce calcs above)
 
   particleAttributes.xy += netForce * u_deltaTime.x / 1000.0;
-  vec2 particleUpdate = particleAttributes.xy * u_deltaTime.x / 1000.0;
+  vec2 particleUpdate = u_particleSpeed * particleAttributes.xy * u_deltaTime.x / 1000.0;
 
   particle.x = mod(particle.x + particleUpdate.x + 1.0, 2.0) - 1.0;
   particle.y = mod(particle.y + particleUpdate.y + 1.0, 2.0) - 1.0;
@@ -486,6 +462,9 @@ uniform bool u_scaleRenderValues;
 uniform int u_renderTexture;
 uniform float u_maxFieldLines;
 
+uniform bool u_audioColorShiftEnabled;
+uniform vec3 u_audioColorShift;
+
 uniform sampler2D s_repelField;
 uniform sampler2D s_repelFieldGradient;
 
@@ -556,6 +535,10 @@ void main() {
       color = 10.0 * vec4(scaled - 0.5, 1.0);
   }
 
+  if (u_audioColorShiftEnabled) {
+    color = vec4(color.rgb + u_audioColorShift.rgb, 1.0);
+  }
+
   if (u_fractRenderValues) {
     if (u_maxFieldLines > 0.0) {
       if (color.x > u_maxFieldLines) {
@@ -582,6 +565,25 @@ void main() {
 }
 </script>
 
+<script type="x-shader/x-fragment" id="vsLinePlot">
+uniform float u_lineWidth;
+uniform bool u_rolling;
+uniform int u_startIndex;
+
+void main() {
+
+}
+</script>
+
+<script type="x-shader/x-fragment" id="fsLinePlot">
+uniform vec4 u_lineColor;
+
+void main() {
+
+}
+</script>
+
+<script type="text/javascript" src="https://cdnjs.cloudflare.com/ajax/libs/d3/4.9.1/d3.js"></script>
 <script type="text/javascript" src="/js/3d/2017-05-17-gradient-descent-and-2d-particle-physics-es6.js"></script>
 
 <script type="text/javascript">
