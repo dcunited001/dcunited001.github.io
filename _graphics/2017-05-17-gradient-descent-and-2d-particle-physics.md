@@ -49,8 +49,8 @@ name: "David Conner"
   <div class="col-sm-6">
     <label>Physics: </label>
     <input type="radio" name="physics-method" value="0" checked/>&nbsp;Brownian
-    <input type="radio" name="physics-method" value="2"/>&nbsp;Splatting
-    <input type="radio" name="physics-method" value="1"/>&nbsp;Gradient
+    <input type="radio" name="physics-method" value="1"/>&nbsp;Splatting
+    <input type="radio" name="physics-method" value="2"/>&nbsp;Gradient
   </div>
 </div>
 
@@ -209,6 +209,7 @@ name: "David Conner"
 <pre class="highlight">Fragment Shader: fsFields<code id="codeFsFields"></code></pre>
 <pre class="highlight">Fragment Shader: fsGradients<code id="codeFsGradients"></code></pre>
 <pre class="highlight">Fragment Shader: fsRenderFields<code id="codeFsRenderFields"></code></pre>
+<pre class="highlight">Fragment Shader: fsForceSplat<code id="codeFsForceSplat"></code></pre>
 
 <script type="x-shader/x-vertex" id="vsPass">
 layout(location = 0) in vec3 a_position;

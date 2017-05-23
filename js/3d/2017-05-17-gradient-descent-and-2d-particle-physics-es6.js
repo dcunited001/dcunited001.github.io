@@ -1221,7 +1221,7 @@ function renderDebugTexture(pixels) {
     uiControlUpdate();
 
     if (framecount % 30 == 0) {
-      console.log(deltaT, audioColorShift);
+      console.log(deltaT);
     }
 
     if (physicsMethod == physicsMethods.splat) {
