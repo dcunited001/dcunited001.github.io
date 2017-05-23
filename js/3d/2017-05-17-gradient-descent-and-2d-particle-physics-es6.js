@@ -1042,6 +1042,7 @@ function runWebGL() {
       this._isLive = false;
       this._waveformSum = 0;
       this._waveformSumMax = 4096 * 10;
+      this._gain = 1.0; // technically logarithmic ¯\_(ツ)_/¯
     }
 
     initMic(audioContext, cb) {
@@ -1060,8 +1061,8 @@ function runWebGL() {
       scriptProcessor.onaudioprocess = function(event) {
         var inputData = event.inputBuffer.getChannelData(0); // mono :(
         var waveformSum = 0;
-        for (i=0; i++; i < thisMic._sampleRate) {
-          waveformSum += Math.abs(inputData[i]);
+        for (i=0; i < thisMic._sampleRate; i++) {
+          waveformSum += thisMic._gain * Math.abs(inputData[i]);
         }
         thisMic.updateMicUniform(waveformSum);
       };
@@ -1123,7 +1124,9 @@ function runWebGL() {
   var fieldSize, rCoefficient, maxFieldLines;
   var renderTexture, physicsMethod, physicsMethods;
   var deferGradientCalc, fractRenderValues, renderMagnitude, circularFieldEffect, forceCalcInGlPointSpace, scaleRenderValues;
-  var audioColorShift = vec3.fromValues(0.0, 0.0, 0.0), audioColorShiftEnabled = false;
+  var audioColorShift = vec3.fromValues(0.0, 0.0, 0.0),
+    audioColorShiftGain = 1.0,
+    audioColorShiftEnabled = false;
 
   function uiControlUpdate() {
     particleCount = document.getElementById('particle-count').value;
@@ -1145,12 +1148,11 @@ function runWebGL() {
     }
 
     audioColorShiftEnabled = document.getElementById('audio-color-shift-enabled').checked;
+    audioColorShiftGain = document.getElementById('audio-color-shift-gain').value;
     audioColorShift = mic.getColorShift(
       document.getElementById('audio-color-shift-r').value,
       document.getElementById('audio-color-shift-g').value,
       document.getElementById('audio-color-shift-b').value);
-
-
 
     var renderTextureRadios = document.getElementsByName('render-texture');
     renderTexture = [0,1,2].reduce((a,i) => renderTextureRadios[i].checked ? i : a, 0);
@@ -1219,7 +1221,7 @@ function renderDebugTexture(pixels) {
     uiControlUpdate();
 
     if (framecount % 30 == 0) {
-      //console.log(deltaT);
+      console.log(deltaT, audioColorShift);
     }
 
     if (physicsMethod == physicsMethods.splat) {

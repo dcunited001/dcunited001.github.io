@@ -64,17 +64,20 @@ name: "David Conner"
     <div><input id="defer-gradient-calc" type="checkbox"/>&nbsp;Defer Gradient Calculation</div>
   </div>
   <div class="col-sm-6">
-    <button id="btn-activate-mic" type="button" onclick="activateMic()">Activate Mic (Requires HTTPS)</button>
-    <div><input id="audio-color-shift-enabled" type="checkbox"/>&nbsp;Enable Audio Color Shift</div>
+    <label for="audio-color-shift-gain">Gain</label>
+    <input id="audio-color-shift-gain" type="range" min="0.25" max="5.0" step="0.01" value="1.0"/>
 
     <label for="audio-color-shift-r">R-Period</label>
-    <input id="audio-color-shift-r" type="range" min="200" max="20000" step="1" value="2345"/>
+    <input id="audio-color-shift-r" type="range" min="200" max="2500" step="1" value="456"/>
 
     <label for="audio-color-shift-g">G-Period</label>
-    <input id="audio-color-shift-g" type="range" min="200" max="20000" step="1" value="5432"/>
+    <input id="audio-color-shift-g" type="range" min="200" max="2500" step="1" value="765"/>
 
     <label for="audio-color-shift-b">B-Period</label>
-    <input id="audio-color-shift-b" type="range" min="200" max="20000" step="1" value="7564"/>
+    <input id="audio-color-shift-b" type="range" min="200" max="2500" step="1" value="374"/>
+
+    <button id="btn-activate-mic" type="button" onclick="activateMic()">Activate Mic (Requires HTTPS)</button>
+    <div><input id="audio-color-shift-enabled" type="checkbox"/>&nbsp;Enable Audio Color Shift</div>
   </div>
 </div>
 
