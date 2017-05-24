@@ -7,7 +7,9 @@ function createShader(gl, source, type) {
   return shader;
 }
 
-window.createProgram = function (gl, vertexShaderSource, fragmentShaderSource, defines = {}) {
+window.createProgram = function (gl, vertexShaderSource, fragmentShaderSource, options = {}) {
+  var defines = options.defines || {};
+
   var shaderPrefix = "#version 300 es\n";
   shaderPrefix += "#extension EXT_color_buffer_float : enable\n"; // not supported in chrome
 
@@ -29,6 +31,11 @@ window.createProgram = function (gl, vertexShaderSource, fragmentShaderSource, d
   gl.deleteShader(vshader);
   gl.attachShader(program, fshader);
   gl.deleteShader(fshader);
+
+  if (options.beforeLink) {
+    options.beforeLink(gl, program);
+  }
+
   gl.linkProgram(program);
 
   var log = gl.getProgramInfoLog(program);
@@ -152,173 +159,6 @@ function runWebGL() {
 // Geometry
 // =======================================
 
-  class Quad {
-    constructor(context) {
-      this._pos = this.getQuadPositions();
-      this._tex = this.getQuadTexCoords();
-
-      this._buffers = this.prepareBuffers(context, this._pos, this._tex);
-      this._vertexArray = this.prepareVertexArray(context, this._buffers);
-    }
-
-    get pos() {
-      return this._pos;
-    }
-
-    set pos(pos) {
-      this._pos = pos
-    }
-
-    get tex() {
-      return this._tex;
-    }
-
-    set tex(tex) {
-      this._tex = tex;
-    }
-
-    get buffers() {
-      return this._buffer;
-    }
-
-    set buffers(buffer) {
-      this._buffer = buffer;
-    }
-
-    get vertexArray() {
-      return this._vertexArray;
-    }
-
-    set vertexArray(vertexArray) {
-      this._vertexArray = vertexArray;
-    }
-
-    prepareBuffers(context, pos, tex) {
-      var vertexPosBuffer = context.createBuffer();
-      context.bindBuffer(context.ARRAY_BUFFER, vertexPosBuffer);
-      context.bufferData(context.ARRAY_BUFFER, pos, context.STATIC_DRAW);
-      context.bindBuffer(context.ARRAY_BUFFER, null);
-
-      var vertexTexBuffer = context.createBuffer();
-      context.bindBuffer(context.ARRAY_BUFFER, vertexTexBuffer);
-      context.bufferData(context.ARRAY_BUFFER, tex, context.STATIC_DRAW);
-      context.bindBuffer(context.ARRAY_BUFFER, null);
-
-      return {
-        pos: vertexPosBuffer,
-        tex: vertexTexBuffer
-      }
-    }
-
-    prepareVertexArray(context, buffers) {
-      var vertexArray = context.createVertexArray();
-      context.bindVertexArray(vertexArray);
-
-      var vertexPosIdx = 0;
-      context.bindBuffer(context.ARRAY_BUFFER, buffers.pos);
-      context.vertexAttribPointer(vertexPosIdx, 4, context.FLOAT, false, 0, 0);
-      context.enableVertexAttribArray(vertexPosIdx);
-      context.bindBuffer(context.ARRAY_BUFFER, null);
-
-      var vertexTexIdx = 1;
-      context.bindBuffer(context.ARRAY_BUFFER, buffers.tex);
-      context.vertexAttribPointer(vertexTexIdx, 2, context.FLOAT, false, 0, 0);
-      context.enableVertexAttribArray(vertexTexIdx);
-      context.bindBuffer(context.ARRAY_BUFFER, null);
-
-      context.bindVertexArray(null);
-
-      return vertexArray;
-    }
-
-    createVertexLayout() {
-      // TODO: given a hash config, return new vertex layout using these buffers
-    }
-
-    getQuadPositions() {
-      return new Float32Array([
-        -1.0, -1.0, 0.0, 1.0,
-        1.0, -1.0, 0.0, 1.0,
-        1.0, 1.0, 0.0, 1.0,
-        1.0, 1.0, 0.0, 1.0,
-        -1.0, 1.0, 0.0, 1.0,
-        -1.0, -1.0, 0.0, 1.0
-      ])
-    }
-
-    getQuadTexCoords() {
-      return new Float32Array([
-        0.0, 0.0,
-        1.0, 0.0,
-        1.0, 1.0,
-        1.0, 1.0,
-        0.0, 1.0,
-        0.0, 0.0
-      ])
-    }
-  }
-
-  class LinePlot {
-    constructor(context, size, width, height, options = {}) {
-      this._width = width;
-      this._height = height;
-      this._size = size;
-      this._rolling = options.rolling ? true : false;
-      this._startIndex = 0;
-      this._lineColor = options.color || vec4.fromValues(1.0, 1.0, 1.0, 1.0);
-      this._lineWidth = options.lineWidth || 5;
-      this._pos = new Float32Array(size * 2);
-
-      this._buffers = this.prepareBuffers(context, this._pos);
-      this._vertexArray = this.prepareVertexArray(context, this._buffers);
-    }
-
-    get pos() { return this._pos; }
-    set pos(pos) { this._pos = pos; }
-    get buffers() { return this._buffers; }
-    set buffers(buffers) { this._buffers = buffers; }
-    get vertexArray() { return this._vertexArray; }
-    set vertexArray(vertexArray) { this._vertexArray = vertexArray; }
-
-    encode(context) {
-      // u_startIndex
-      // u_lineColor
-      // u_rolling
-      // u_lineWidth
-
-    }
-
-    increment() {
-      this._startIndex++;
-    }
-    
-    prepareBuffers(context, pos) {
-      var vertexPosBuffer = context.createBuffer();
-      context.bindBuffer(context.ARRAY_BUFFER, vertexPosBuffer);
-      context.bufferData(context.ARRAY_BUFFER, pos, context.STATIC_DRAW);
-      context.bindBuffer(context.ARRAY_BUFFER, null);
-      
-      return {
-        pos: vertexPosBuffer
-      };
-    }
-
-    prepareVertexArray(context, buffers) {
-      var vertexArray = context.createVertexArray();
-      context.bindVertexArray(vertexArray);
-
-      var vertexPosIdx = 0;
-      context.bindBuffer(context.ARRAY_BUFFER, buffers.pos);
-      context.vertexAttribPointer(vertexPosIdx, 2, context.FLOAT, false, 0, 0);
-      context.enableVertexAttribArray(vertexPosIdx);
-      context.bindBuffer(context.ARRAY_BUFFER, null);
-
-      context.bindVertexArray(null);
-      return vertexArray;
-    }
-    
-  }
-  
   class RenderPass {
     constructor(program, options = {}) {
       this._program = program;
@@ -555,6 +395,16 @@ function runWebGL() {
   var programRenderFields = createProgram(gl,
     document.getElementById('vsPass').textContent,
     document.getElementById('fsRenderFields').textContent);
+
+  var programLinePlotTransform = createProgram(gl,
+    document.getElementById('vsLinePlotTransform').textContent,
+    document.getElementById('fsNull').textContent,
+    {
+      beforeLink: (context, program) => {
+        var varyings = ['v_positionA', 'v_positionB'];
+        context.transformFeedbackVaryings(program, varyings, context.INTERLEAVED_ATTRIBS);
+      }
+    });
 
 // =======================================
 // Particles
@@ -1017,7 +867,6 @@ function runWebGL() {
 // =======================================
 
   // TODO: enable UI interaction that allows the graphs to fade in and out by dragging the mouse ?
-
 
 // =======================================
 // D3

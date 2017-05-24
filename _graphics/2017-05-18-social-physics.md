@@ -249,12 +249,6 @@ void main() {
 }
 </script>
 
-<script type="x-shader/x-fragment" id="fsRender">
-void main() {
-
-}
-</script>
-
 <script type="x-shader/x-fragment" id="fsRenderFields">
 uniform vec2 u_resolution;
 uniform float u_rCoefficient;

@@ -1,5 +1,5 @@
 ---
-title: "Gradient Descent and 2D Particle Physics"
+title: "Particles In 2D With Vector Calculus"
 categories: "graphics"
 tags: "graphics computer-science"
 headline: ""
@@ -55,6 +55,13 @@ name: "David Conner"
 </div>
 
 <div class="row">
+  <div class="col-sm-3">
+    <button id="btn-reset-particles" onclick="clickedResetParticles()" disabled>Reset Particles</button>
+    <!-- TODO: select box to reset particles with specific properties -->
+  </div>
+</div>
+
+<div class="row">
   <div class="col-sm-6">
     <div><input id="fract-render-values" type="checkbox" onclick=""/>&nbsp;Fract Render Values</div>
     <div><input id="scale-render-values" type="checkbox"/>&nbsp;Scale Render Values</div>
@@ -76,7 +83,7 @@ name: "David Conner"
     <label for="audio-color-shift-b">B-Period</label>
     <input id="audio-color-shift-b" type="range" min="200" max="2500" step="1" value="374"/>
 
-    <button id="btn-activate-mic" type="button" onclick="activateMic()">Activate Mic (Requires HTTPS)</button>
+    <button id="btn-activate-mic" onclick="activateMic()">Activate Mic (Requires HTTPS)</button>
     <div><input id="audio-color-shift-enabled" type="checkbox"/>&nbsp;Enable Audio Color Shift</div>
   </div>
 </div>
@@ -84,6 +91,8 @@ name: "David Conner"
 ### TODO:
 
 - add button to reset data
+- add sliders to allow particles to move offscreen (which won't work with gradient physics)
+
 - balance rCoefficient with particle count
   - either this or add correction for thermal velocity
     - when thermal velocity is too high, set uniform to scale down particleAttributes values
@@ -99,11 +108,6 @@ name: "David Conner"
   - automatically scale values from rForce texture based on particle density and expected range of values
   - the rForce texture values (correctly) are not 0.0 to 1.0. they are the sum of components from particles.
 
-- eventually remove brownian motion component from particle behavior
-  - in the social physics simulation, i want to scale between brownian & gradient motion
-  - but that will throw off the thermal velocity calculation
-  - and brownian motion should emerge in the system anyways.
-
 - option to display texture representing particle paths
   - write lines to another texture. use vertex transformation.
   - each particle has a color and leaves a trail representing it's path
@@ -112,6 +116,33 @@ name: "David Conner"
 ### Overview
 
 # Challenges
+
+### storing aggregate data for simple line graphs
+
+(the vertex transform may be better of as a separate blog post)
+
+- used a circular buffer to retain a history of the scalar aggregate values for the line plot
+  - this results in minimal writes and efficient performance
+- i wanted a rolling graph which would update on the fly, where the user could intuitively understand the values
+  by the color of the line without any need for axes
+  - i wanted to render axes and would have used D3, but i couldn't place it anywhere at the top of the page
+    without having the user scroll up and down, which defeats the purpose of instantly/intuitively tracking
+    values from the simulation
+  - so bc of UI constraints, i rolled my own solution. i could have also used D3 to render to an offscreen canvas
+    and then pasted the canvas texture transparently on top of the simulation
+    - however, since it's already maxing out my GPU, I didn't want expensive copy/write operations.
+    - if I roll my own, i can minimize the performance impact of adding simple line graphs
+      - in this way, a minimal amount of pixels are rasterized (just the line and no copy operations and no 2D texture fetch)
+
+### using WebGL transform feedback to translate vertices for the line plot
+
+- in order for the line to be drawn with width, it has to be expanded into points, triangles, triangle strips or quads
+- needed to interleave the vertex data from one buffer to another so that it would be intuitive & quick to insert
+  new data points into the circular buffers
+  - in this case, avoiding the vertex transform is pretty simple, but i wanted to learn to use it
+  - i needed to transform a vec2 into two vec2's per data point
+- from here i would have a triangle strip to render as a line
+- pretty simple but it required a lot of code
 
 ### Aggregate Calculation of Particle Attributes with Mipmaps
   - refer to paper that demonstrates algorithm for flock behavior
@@ -210,6 +241,7 @@ name: "David Conner"
 <pre class="highlight">Fragment Shader: fsGradients<code id="codeFsGradients"></code></pre>
 <pre class="highlight">Fragment Shader: fsRenderFields<code id="codeFsRenderFields"></code></pre>
 <pre class="highlight">Fragment Shader: fsForceSplat<code id="codeFsForceSplat"></code></pre>
+<pre class="highlight">Vertex Shader: vsLinePlotTransform<code id="vsLinePlotTransform"></code></pre>
 
 <script type="x-shader/x-vertex" id="vsPass">
 layout(location = 0) in vec3 a_position;
@@ -545,50 +577,78 @@ void main() {
 
   if (u_fractRenderValues) {
     if (u_maxFieldLines > 0.0) {
-      if (color.x > u_maxFieldLines) {
-        color.x = u_maxFieldLines;
-      }
-      if (color.y > u_maxFieldLines) {
-        color.y = u_maxFieldLines;
-      }
-      if (color.z > u_maxFieldLines) {
-        color.z = u_maxFieldLines;
-      }
-      if (color.x < -u_maxFieldLines) {
-        color.x = -u_maxFieldLines;
-      }
-      if (color.y < -u_maxFieldLines) {
-        color.y = -u_maxFieldLines;
-      }
-      if (color.z < -u_maxFieldLines) {
-        color.z = -u_maxFieldLines;
-      }
+      color.xyz = clamp(color.xyz, -u_maxFieldLines, u_maxFieldLines);
     }
     color = vec4(fract(color.xyz), 1.0);
   }
 }
 </script>
 
-<script type="x-shader/x-fragment" id="vsLinePlot">
+<script type="x-shader/x-vertex" id="vsLinePlotTransform">
+uniform matrix4x4 u_projection;
 uniform float u_lineWidth;
-uniform bool u_rolling;
-uniform int u_startIndex;
+
+layout(location = 0) in vec2 a_position;
+
+out vec4 v_positionA;
+out vec4 v_positionB;
 
 void main() {
+  pointA = u_projection * vec4(a_position, 0.0, 1.0);
+  pointB = u_projection * vec4(a_position, 0.0, 1.0);
 
+  pointA.y += u_lineWidth;
+  pointB.y += u_lineWidth;
+}
+</script>
+
+<script type="x-shader/x-fragment" id="vsLinePlot">
+layout(location = 0) in vec4 a_position;
+
+out vec3 v_position;
+
+void main() {
+  gl_Position = a_position;
 }
 </script>
 
 <script type="x-shader/x-fragment" id="fsLinePlot">
 uniform vec4 u_lineColor;
 
+out vec4 color;
+
+void main() {
+  color = u_lineColor;
+}
+</script>
+
+<script type="x-shader/x-vertex" id="fsNull">
+out vec4 color;
+
 void main() {
 
 }
 </script>
 
+<script type="x-shader/x-vertex" id="vsPass">
+layout(location = 0) in vec3 a_position;
+layout(location = 1) in vec2 a_texcoord;
+
+out vec4 quadB;
+out vec4 quadC;
+out vec4 quadD;
+
+void main() {
+  v_st = a_texcoord;
+  v_position = a_position;
+  gl_Position = vec4(a_position, 1.0);
+}
+</script>
+
 <script type="text/javascript" src="https://cdnjs.cloudflare.com/ajax/libs/d3/4.9.1/d3.js"></script>
-<script type="text/javascript" src="/js/3d/2017-05-17-gradient-descent-and-2d-particle-physics-es6.js"></script>
+<script type="text/javascript" src="/js/3d/quad.js"></script>
+<script type="text/javascript" src="/js/3d/line_width.js"></script>
+<script type="text/javascript" src="/js/3d/2017-05-23-particles-in-2d-with-vector-calculus.es6.js"></script>
 
 <script type="text/javascript">
   function pasteShaderToCodeBlock(shaderId, codeBlockId) {
