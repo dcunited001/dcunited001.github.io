@@ -5,27 +5,13 @@ tags: "graphics computer-science"
 headline: ""
 excerpt: ""
 author:
-name: "David Conner"
+  name: "David Conner"
+graphics_ui_layout: "graphics/2017-05-09-brownian-motion.html"
 ---
-
-### One Million [Wiener Processes](https://en.wikipedia.org/wiki/Wiener_process)
 
 ####  Requires ES6 & WebGL 2.0 &#x2605; Runs Best In Firefox (and Chrome) &#x2605; Does Not Run On Mobile
 
-<div class="row">
-  <div class="col-sm-4">
-    <label for="particle-count">Particle Count:</label>
-    <input id="particle-count" type="range" min="1024" max="1048576" step="128" value="1024"/>
-  </div>
-  <div class="col-sm-4">
-    <label for="particle-speed">Particle Speed:</label>
-    <input id="particle-speed" type="range" min="0.025" max="10.0" step="0.025" value="1.0"/>
-  </div>
-  <div class="col-sm-4">
-    <label for="particle-size">Particle Size:</label>
-    <input id="particle-size" type="range" min="1.0" max="5.0" step="0.025" value="1.0"/>
-  </div>
-</div>
+### One Million [Wiener Processes](https://en.wikipedia.org/wiki/Wiener_process)
 
 ### Challenges:
 

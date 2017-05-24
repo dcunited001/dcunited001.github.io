@@ -1,0 +1,24 @@
+{% include graphics/canvas.html %}
+
+<div class="container">
+  <div class="row">
+    <div class="col-sm-3 col-xs-6">
+      <button id="btn-pause" class="btn btn-default" onclick="togglePause()">Pause</button>
+      <button id="btn-stats" class="btn btn-default" onclick="toggleStats()">Stats</button>
+    </div>
+  </div>
+
+  <div class="row">
+    <div class="col-sm-3 col-xs-6">
+      <label class="checkbox-inline">
+        <input type="checkbox" id="chk-random-variable-1" checked onclick="changeStatsDisplayVars()"> X
+      </label>
+      <label class="checkbox-inline">
+        <input type="checkbox" id="chk-random-variable-2" checked onclick="changeStatsDisplayVars()"> Y
+      </label>
+      <label class="checkbox-inline">
+        <input type="checkbox" id="chk-random-variable-3" checked onclick="changeStatsDisplayVars()"> Z
+      </label>
+    </div>
+  </div>
+</div>

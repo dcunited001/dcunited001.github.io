@@ -6,73 +6,17 @@ headline: "In which Conway lives multiple lives in parallel"
 excerpt: ""
 author:
   name: "David Conner"
+graphics_ui_layout: "graphics/2017-01-05-conways-game-of-parallel-life.html"
 ---
 
-<div class="row">
-  <div class="col-sm-3 col-xs-6">
-    <div class="btn-group">
-      <button type="button" class="btn btn-default dropdown-toggle" data-toggle="dropdown">Colors<span class="caret"></span></button>
-      <ul class="dropdown-menu">
-        <li><a onclick="onClickColorProfile(this.attributes['data-profile-name'].value)" data-profile-name="game">Game</a></li>
-        <li><a onclick="onClickColorProfile(this.attributes['data-profile-name'].value)" data-profile-name="dos">DOS</a></li>
-        <li><a onclick="onClickColorProfile(this.attributes['data-profile-name'].value)" data-profile-name="apple">Apple</a></li>
-        <!-- <li><a onclick="onClickColorProfile(this.attributes['data-profile-name'].value)" data-profile-name="zenburn">Zenburn</a></li> -->
-        <!-- <li><a onclick="onClickColorProfile(this.attributes['data-profile-name'].value)" data-profile-name="sanity-inc">Sanity Inc</a></li> -->
-        <!-- <li><a onclick="onClickColorProfile(this.attributes['data-profile-name'].value)" data-profile-name="monokai">Monokai</a></li> -->
-        <!-- <li><a onclick="onClickColorProfile(this.attributes['data-profile-name'].value)" data-profile-name="moe">Moe</a></li> -->
-        <!-- <li><a onclick="onClickColorProfile(this.attributes['data-profile-name'].value)" data-profile-name="solarized">Solarized</a></li> -->
-        <li><a onclick="onClickColorProfile(this.attributes['data-profile-name'].value)" data-profile-name="cyberpunk">Cyberpunk</a></li>
-        <!-- <li><a onclick="onClickColorProfile(this.attributes['data-profile-name'].value)" data-profile-name="sublime-text">Sublime Text</a></li> -->
-        <!-- <li><a onclick="onClickColorProfile(this.attributes['data-profile-name'].value)" data-profile-name="vibrant-ink">Vibrant Ink</a></li> -->
-        <li><a onclick="onClickColorProfile(this.attributes['data-profile-name'].value)" data-profile-name="random">Random</a></li>
-        <!-- <li><a onclick="onClickColorProfile(this.attributes['data-profile-name'].value)" data-profile-name="wink">;)</a></li> -->
-      </ul>
-    </div>
-  </div>
+- [Garden of Eden](https://en.wikipedia.org/wiki/Garden_of_Eden_(cellular_automaton))
+- [3D Game of Life](http://gameoflife.samuellevy.com/)
 
-  <div class="col-sm-3 col-xs-6">
-    <div class="btn-group">
-      <button type="button" class="btn btn-default dropdown-toggle" data-toggle="dropdown" disabled>Initial Data<span class="caret"></span></button>
-      <ul class="dropdown-menu">
-        <li><a href="#">Random</a></li>
-        <li><a href="#">X</a></li>
-        <li><a href="#">Y</a></li>
-        <li role="separator" class="divider"></li>
-        <li>From Bitstorm <a href="https://bitstorm.org/gameoflife/">Game of Life</a></li>
-      </ul>
-    </div>
-  </div>
-
-  <div class="col-sm-3 col-xs-6"><button id="btn-pause" class="btn btn-default" onclick="togglePause()">Pause</button></div>
-  <div class="col-sm-3 col-xs-6"><button id="btn-restart" class="btn btn-default" onclick="onClickRestart()">Restart</button></div>
-
-  <!-- TODO: dropdown to seed with specific starting sets -->
-  <!-- TODO:  -->
-</div>
-<div class="row">
-  <div class="col-sm-3 col-xs-6"><input id="conway-color-1"  class="jscolor" value="#000000" data-color-id="0"  onchange="changeColorUniforms(this.attributes['data-color-id'].value, this.value);" /></div>
-  <div class="col-sm-3 col-xs-6"><input id="conway-color-2"  class="jscolor" value="#44891A" data-color-id="1"  onchange="changeColorUniforms(this.attributes['data-color-id'].value, this.value);" /></div>
-  <div class="col-sm-3 col-xs-6"><input id="conway-color-3"  class="jscolor" value="#A3CE27" data-color-id="2"  onchange="changeColorUniforms(this.attributes['data-color-id'].value, this.value);" /></div>
-  <div class="col-sm-3 col-xs-6"><input id="conway-color-4"  class="jscolor" value="#2F484E" data-color-id="3"  onchange="changeColorUniforms(this.attributes['data-color-id'].value, this.value);" /></div>
-</div>
-<div class="row">
-  <div class="col-sm-3 col-xs-6"><input id="conway-color-5"  class="jscolor" value="#005784" data-color-id="4"  onchange="changeColorUniforms(this.attributes['data-color-id'].value, this.value);" /></div>
-  <div class="col-sm-3 col-xs-6"><input id="conway-color-6"  class="jscolor" value="#31A2F2" data-color-id="5"  onchange="changeColorUniforms(this.attributes['data-color-id'].value, this.value);" /></div>
-  <div class="col-sm-3 col-xs-6"><input id="conway-color-7"  class="jscolor" value="#B2DCEF" data-color-id="6"  onchange="changeColorUniforms(this.attributes['data-color-id'].value, this.value);" /></div>
-  <div class="col-sm-3 col-xs-6"><input id="conway-color-8"  class="jscolor" value="#E06F8B" data-color-id="7"  onchange="changeColorUniforms(this.attributes['data-color-id'].value, this.value);" /></div>
-</div>
-<div class="row">
-  <div class="col-sm-3 col-xs-6"><input id="conway-color-9"  class="jscolor" value="#BE2633" data-color-id="8"  onchange="changeColorUniforms(this.attributes['data-color-id'].value, this.value);" /></div>
-  <div class="col-sm-3 col-xs-6"><input id="conway-color-10" class="jscolor" value="#EB8931" data-color-id="9"  onchange="changeColorUniforms(this.attributes['data-color-id'].value, this.value);" /></div>
-  <div class="col-sm-3 col-xs-6"><input id="conway-color-11" class="jscolor" value="#F7E26B" data-color-id="10" onchange="changeColorUniforms(this.attributes['data-color-id'].value, this.value);" /></div>
-  <div class="col-sm-3 col-xs-6"><input id="conway-color-12" class="jscolor" value="#A46422" data-color-id="11" onchange="changeColorUniforms(this.attributes['data-color-id'].value, this.value);" /></div>
-</div>
-<div class="row">
-  <div class="col-sm-3 col-xs-6"><input id="conway-color-13" class="jscolor" value="#493C2B" data-color-id="12" onchange="changeColorUniforms(this.attributes['data-color-id'].value, this.value);" /></div>
-  <div class="col-sm-3 col-xs-6"><input id="conway-color-14" class="jscolor" value="#1B2632" data-color-id="13" onchange="changeColorUniforms(this.attributes['data-color-id'].value, this.value);" /></div>
-  <div class="col-sm-3 col-xs-6"><input id="conway-color-15" class="jscolor" value="#9D9D9D" data-color-id="14" onchange="changeColorUniforms(this.attributes['data-color-id'].value, this.value);" /></div>
-  <div class="col-sm-3 col-xs-6"><input id="conway-color-16" class="jscolor" value="#FFFFFF" data-color-id="15" onchange="changeColorUniforms(this.attributes['data-color-id'].value, this.value);" /></div>
-</div>
+Interestingly, OSX notifies the browser to become active and process
+events when the miniturized preview is displayed during OS UI transitions.
+When you do the 'four-finger touch' to choose desktops, all browsers
+receive notifications to become active again, but otherwise remain
+paused. It's as if all desktops are visible.
 
 #### Click Canvas to Step Through When Paused
 
@@ -182,12 +126,3 @@ author:
   pasteShaderToCodeBlock('shaderConway1', 'codeShaderConway1');
   pasteShaderToCodeBlock('shaderConwayColor', 'codeShaderConwayColor');
 </script>
-
-- [Garden of Eden](https://en.wikipedia.org/wiki/Garden_of_Eden_(cellular_automaton))
-- [3D Game of Life](http://gameoflife.samuellevy.com/)
-
-Interestingly, OSX notifies the browser to become active and process
-events when the miniturized preview is displayed during OS UI transitions.
-When you do the 'four-finger touch' to choose desktops, all browsers
-receive notifications to become active again, but otherwise remain
-paused. It's as if all desktops are visible.

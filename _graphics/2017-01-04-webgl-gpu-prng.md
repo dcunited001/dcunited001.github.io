@@ -6,30 +6,10 @@ headline: "Random Number Generation with WebGL and ThreeJS"
 excerpt: ""
 author:
   name: "David Conner"
+graphics_ui_layout: "graphics/2017-01-04-webgl-gpu-prng.html"
 ---
 
 #### Click Canvas to Step Through When Paused
-
-<div class="row">
-  <div class="col-sm-3 col-xs-6">
-    <button id="btn-pause" class="btn btn-default" onclick="togglePause()">Pause</button>
-    <button id="btn-stats" class="btn btn-default" onclick="toggleStats()">Stats</button>
-  </div>
-</div>
-
-<div class="row">
-  <div class="col-sm-3 col-xs-6">
-    <label class="checkbox-inline">
-      <input type="checkbox" id="chk-random-variable-1" checked onclick="changeStatsDisplayVars()"> X
-    </label>
-    <label class="checkbox-inline">
-      <input type="checkbox" id="chk-random-variable-2" checked onclick="changeStatsDisplayVars()"> Y
-    </label>
-    <label class="checkbox-inline">
-      <input type="checkbox" id="chk-random-variable-3" checked onclick="changeStatsDisplayVars()"> Z
-    </label>
-  </div>
-</div>
 
 - TODO: option to initialize with various seed values to demonstrate
   tendency to converge towards uniformity (though with suspect

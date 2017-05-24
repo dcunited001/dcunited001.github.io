@@ -11,26 +11,23 @@
 
 {% include title-group.html %}
 
-{% include graphics-canvas.html %}
+<article>
+  {% if page.graphics_ui_layout }} %}
+    {% include {{ page.graphics_ui_layout }} %}
+  {% endif %}
 
-<div class="container">
-  <article>
-
+  <div class="container">
     <section class="article-content">
-
-      <div class="row">
-        <div class="col-md-10 col-md-offset-1">
-          {{ content }}
-        </div>
-      </div>
-
+      {{ content }}
     </section>
+  </div>
 
+  <div class="container">
     <section class="comments">
       {% include disqus.html title=page.title url=page.url %}
     </section>
+  </div>
 
-  </article>
-</div>
+</article>
 
 {% include footer.html %}
