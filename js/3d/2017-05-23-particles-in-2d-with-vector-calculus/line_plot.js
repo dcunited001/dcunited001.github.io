@@ -21,52 +21,9 @@ class LinePlot {
 
     this._transformFeedback = context.createTransformFeedback();
     this._transformVertexArray = prepareTransformVertexArray();
+
     this._transformUniformLocations = {};
     this._uniformLocations = {};
-  }
-
-  get program() { return this._program; }
-  set program(program) { this._program = program; }
-  get transformProgram() { return this._transformProgram; }
-  set transformProgram(transformProgram) { this._transformProgram = transformProgram; }
-
-  setUniformLocations(context) {
-    this._uniformLocations = {
-      u_lineColor: context.getUniformLocation(this._program, 'u_lineColor'),
-    }
-  }
-
-  setTransformUniformLocations(context) {
-    this._transformUniformLocations = {
-      u_lineWidth: context.getUniformLocation(this._transformProgram, 'u_lineWidth'),
-      u_projection: context.getUniformLocation(this._transformProgram, 'u_projection')
-    }
-  }
-
-  getTransformationMatrix() {
-    var xmin = this.getDataPoint(this._currentIndex)[0];
-    var xmax = this.getDataPoint((this._currentIndex + 1) % this._size)[0];
-    var xrange = xmax - xmin;
-
-    var ymin = this._min.value;
-    var ymax = this._max.value;
-    var yrange = ymax - ymin;
-
-    var translate = matrix4x4.fromValues(
-      1, 0, 0, -xmin,
-      0, 1, 0, -ymin,
-      0, 0, 1, 0,
-      0, 0, 0, 1
-    );
-
-    var scale = matrix4x4.fromValues(
-      1/xrange, 0, 0, 0,
-      0, 1/yrange, 0, 0,
-      0, 0, 1, 0,
-      0, 0, 0, 1
-    );
-
-    return translate.multiply(scale);
   }
 
   getDataPoint(n) {
@@ -88,12 +45,36 @@ class LinePlot {
   get vertexArray() { return this._vertexArray; }
   set vertexArray(vertexArray) { this._vertexArray = vertexArray; }
 
+  get program() { return this._program; }
+  set program(program) { this._program = program; }
+  get transformProgram() { return this._transformProgram; }
+  set transformProgram(transformProgram) { this._transformProgram = transformProgram; }
+
+  get uniformLocations() { return this._uniformLocations; }
+  get transformUniformLocations() { return this._transformUniformLocations; }
+
+  setUniformLocations(context) {
+    this._uniformLocations = {
+      u_lineColor: context.getUniformLocation(this._program, 'u_lineColor')
+    }
+  }
+
+  setTransformUniformLocations(context) {
+    this._transformUniformLocations = {
+      u_lineWidth: context.getUniformLocation(this._transformProgram, 'u_lineWidth'),
+      u_projection: context.getUniformLocation(this._transformProgram, 'u_projection')
+    }
+  }
+
   encodeTransform(context, program) {
     context.useProgram(this._transformProgram);
     context.enable(context.RASTERIZER_DISCARD);
     context.bindTransformFeedback(context.TRANSFORM_FEEDBACK, this._transformFeedback);
     context.bindBufferBase(context.TRANSFORM_FEEDBACK_BUFFER, 0, this.buffers.posTransformed);
     context.bindVertexArray(this._transformVertexArray);
+
+    context.uniform1i(this._uniformLocations.u_lineWidth, this._lineWidth);
+    context.uniformMatrix4fv(this._uniformLocations.u_projection, getTransformationMatrix());
 
     context.beginTransformFeedback(context.POINTS);
     context.drawArrays(context.POINTS, 0, this._size);
@@ -108,9 +89,7 @@ class LinePlot {
   encode(context) {
     // TODO: vertex shader to transform x/y from that function's space to the screen space
 
-    context.uniform1i(this._uniformLocations.u_lineWidth, this._lineWidth);
     context.uniform4fv(this._uniformLocations.u_lineColor, this._lineColor);
-    context.uniformMatrix4fv(this._uniformLocations.u_projection, getTransformationMatrix());
 
     // if (rolling)
     // draw calls for (0 .. current index)
@@ -252,5 +231,31 @@ class LinePlot {
 
     context.bindVertexArray(null);
     return vertexArray;
+  }
+
+  getTransformationMatrix() {
+    var xmin = this.getDataPoint(this._currentIndex)[0];
+    var xmax = this.getDataPoint((this._currentIndex + 1) % this._size)[0];
+    var xrange = xmax - xmin;
+
+    var ymin = this._min.value;
+    var ymax = this._max.value;
+    var yrange = ymax - ymin;
+
+    var translate = matrix4x4.fromValues(
+      1, 0, 0, -xmin,
+      0, 1, 0, -ymin,
+      0, 0, 1, 0,
+      0, 0, 0, 1
+    );
+
+    var scale = matrix4x4.fromValues(
+      1/xrange, 0, 0, 0,
+      0, 1/yrange, 0, 0,
+      0, 0, 1, 0,
+      0, 0, 0, 1
+    );
+
+    return translate.multiply(scale);
   }
 }
