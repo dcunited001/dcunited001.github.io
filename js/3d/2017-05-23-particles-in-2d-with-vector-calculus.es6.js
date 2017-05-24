@@ -966,6 +966,44 @@ function runWebGL() {
   };
 
 // =======================================
+// Plot Scalar Values
+// =======================================
+
+  var linePlots = {
+    velocity: {
+      enabled: false,
+      buttonClass: 'btn btn-info',
+    },
+    force: {
+      enabled: false,
+      buttonClass: 'btn btn-success',
+    },
+    density: {
+      enabled: false,
+      buttonClass: 'btn btn-primary',
+    },
+    entropy: {
+      enabled: false,
+      buttonClass: 'btn btn-warning',
+    },
+    thermal: {
+      enabled: false,
+      buttonClass: 'btn btn-danger',
+    }
+  };
+
+  window.togglePlot = function(key) {
+    linePlots[key].enabled = !linePlots[key].enabled;
+    var button = document.getElementById(`toggle-plot-${key}`);
+
+    if (linePlots[key].enabled) {
+      button.className = linePlots[key].buttonClass;
+    } else {
+      button.className = 'btn';
+    }
+  };
+
+// =======================================
 // UI Controls
 // =======================================
 
@@ -991,7 +1029,7 @@ function runWebGL() {
     renderMagnitude = document.getElementById('render-magnitude').checked;
     circularFieldEffect = document.getElementById('circular-field-effect').checked;
 
-    forceCalcInGlPointSpace = document.getElementById('calc-force-in-glpoint-space').checked;
+    forceCalcInGlPointSpace = !document.getElementById('scale-force-to-space').checked;
     if (forceCalcInGlPointSpace) {
       rCoefficient /= 10;
     }
