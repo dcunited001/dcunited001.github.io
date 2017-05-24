@@ -1,73 +1,65 @@
 <h4>Requires ES6 & WebGL 2.0 &#x2605; Runs Best In Firefox (and Chrome) &#x2605; Does Not Run On Mobile</h4>
 
 
-<div id="main-canvas-container" class="canvas-container">
-  <canvas id="main-canvas" class="wide-canvas" height="500"></canvas>
+<div id="canvas-ui-bar-top" class="navbar navbar-inverse navbar-graphics navbar-graphics-top">
+  <div class="container-fluid">
+    <!--<div class="navbar-header"></div>-->
 
-  <!-- TODO: add a navbar -->
+    <div class="btn-group navbar-left">
+      <button id="btn-play-pause" class="btn btn-primary navbar-btn" onclick="togglePause()"><i class="fa fa-lg fa-play"></i></button>
+      <button id="btn-reset" class="btn btn-primary navbar-btn" onclick="clickedResetParticles()" disabled><i class="fa fa-lg fa-refresh"></i></button>
+      <button id="btn-activate-mic" class="btn btn-primary navbar-btn" onclick="activateMic()"><i class="fa fa-lg fa-microphone"></i></button>
+    </div>
 
-  <div class="row">
-    <div class="col-sm-12">
-      <div  class="btn-group btn-group-lg pull-left">
-        <button class="btn btn-primary" onclick="clickedResetParticles()" disabled>Refresh</button>
-        <button id="btn-activate-mic" class="btn btn-primary" onclick="activateMic()">Activate Mic</button>
-      </div>
-
-      <div class="pull-right">
-        <div class="btn-group btn-group-lg">
-          <span class="btn btn-primary btn-group-label"><i class="fa fa-lg fa-line-chart"></i></span>
-          &nbsp;
-          <button class="btn" id="toggle-plot-velocity" onclick="togglePlot('velocity')">Velocity</button>
-          <button class="btn" id="toggle-plot-force" onclick="togglePlot('force')">Force</button>
-          <button class="btn" id="toggle-plot-density" onclick="togglePlot('density')">Density</button>
-          <button class="btn" id="toggle-plot-entropy" onclick="togglePlot('entropy')">Entropy</button>
-          <button class="btn" id="toggle-plot-thermal"  onclick="togglePlot('thermal')">Thermal</button>
-        </div>
+    <div class="navbar-right">
+      <div class="btn-group">
+        <span class="btn btn-primary btn-group-label navbar-btn"><i class="fa fa-lg fa-line-chart"></i></span>
+        <button class="btn navbar-btn" id="toggle-plot-velocity" onclick="togglePlot('velocity')">Velocity</button>
+        <button class="btn navbar-btn" id="toggle-plot-force" onclick="togglePlot('force')">Force</button>
+        <button class="btn navbar-btn" id="toggle-plot-density" onclick="togglePlot('density')">Density</button>
+        <button class="btn navbar-btn" id="toggle-plot-entropy" onclick="togglePlot('entropy')">Entropy</button>
+        <button class="btn navbar-btn" id="toggle-plot-thermal"  onclick="togglePlot('thermal')">Thermal</button>
       </div>
     </div>
   </div>
 </div>
 
-<div class="container">
-  <div class="row">
-    <div class="col-sm-3">
-      <div class="panel panel-default">
-        <div class="panel-heading">Render</div>
-        <div class="panel-body">
-          <div><input type="radio" name="render-texture" value="0" checked/>&nbsp;Field</div>
-          <div><input type="radio" name="render-texture" value="1"/>&nbsp;Gradient</div>
-          <div><input type="radio" name="render-texture" value="2"/>&nbsp;4-Channel</div>
-        </div>
+<div id="main-canvas-container" class="canvas-container">
+  <canvas id="main-canvas" class="wide-canvas" height="500"></canvas>
+</div>
+
+<div id="canvas-ui-bar-bottom" class="navbar navbar-inverse navbar-graphics navbar-graphics-bottom">
+  <div class="container-fluid">
+
+    <div class="navbar-left">
+      <div class="btn-group" data-toggle="buttons">
+        <span class="btn btn-primary btn-group-label navbar-btn"><i class="fa fa-map"></i></span>
+        <label class="btn btn-default navbar-btn active"><input type="radio" name="render-texture" value="0" checked/>&nbsp;Field</label>
+        <label class="btn btn-default navbar-btn"><input type="radio" name="render-texture" value="1"/>&nbsp;Gradient</label>
+        <label class="btn btn-default navbar-btn"><input type="radio" name="render-texture" value="2"/>&nbsp;???</label>
+      </div>
+
+      <div class="btn-group" data-toggle="buttons">
+        <span class="btn btn-primary btn-group-label navbar-btn"><i class="fa fa-calculator"></i></span>
+        <label class="btn btn-default navbar-btn"><input id="fract-render-values" type="checkbox"/>&nbsp;Fract</label>
+        <label class="btn btn-default navbar-btn"><input id="scale-render-values" type="checkbox"/>&nbsp;Scale</label>
+        <label class="btn btn-default navbar-btn"><input id="render-magnitude" type="checkbox"/>&nbsp;Magnitude</label>
       </div>
     </div>
 
-    <div class="col-sm-3">
-      <div class="panel panel-default">
-        <div class="panel-heading">Render Values</div>
-        <div class="panel-body">
-          <div><input id="fract-render-values" type="checkbox" onclick=""/>&nbsp;Fract</div>
-          <div><input id="scale-render-values" type="checkbox"/>&nbsp;Scale</div>
-          <div><input id="render-magnitude" type="checkbox"/>&nbsp;Magnitude</div>
-        </div>
+    <div class="navbar-right">
+      <div class="btn-group" data-toggle="buttons">
+        <span class="btn btn-primary btn-group-label navbar-btn"><i class="fa fa-paper-plane-o"></i></span>
+        <label class="btn btn-default navbar-btn active"><input type="radio" name="physics-method" value="0" checked/>&nbsp;Brownian</label>
+        <label class="btn btn-default navbar-btn"><input type="radio" name="physics-method" value="1"/>&nbsp;Splat</label>
+        <label class="btn btn-default navbar-btn"><input type="radio" name="physics-method" value="2"/>&nbsp;Gradient</label>
       </div>
     </div>
 
-    <div class="col-sm-3">
-      <div class="panel panel-default">
-        <div class="panel-heading">Physics</div>
-        <div class="panel-body">
-          <div><input type="radio" name="physics-method" value="0" checked/>&nbsp;Brownian</div>
-          <div><input type="radio" name="physics-method" value="1"/>&nbsp;Splatting</div>
-          <div><input type="radio" name="physics-method" value="2"/>&nbsp;Gradient</div>
-        </div>
-      </div>
-    </div>
-
-    <div class="col-sm-3">
-
-    </div>
   </div>
+</div>
 
+<div class="container-fluid">
   <input id="scale-force-to-space" type="checkbox" class="checkbox-inline" checked/>&nbsp;Scale Force to Space
   <input id="circular-field-effect" type="checkbox" class="checkbox-inline" checked/>&nbsp;Circular Field
   <input id="defer-gradient-calc" type="checkbox" class="checkbox-inline"/>&nbsp;Defer Gradient Calculation
@@ -84,7 +76,7 @@
       <input id="particle-mass" type="range" min="0.00625" max="2.0" step="0.00625" value="1.0"/>
 
       <label for="r-coefficient">R-Force Coefficient:</label>
-      <input id="r-coefficient" type="range" min="0.0625" max="4.0" step="0.0625" value="1.0"/>
+      <input id="r-coefficient" type="range" min="0.001" max="10.0" step="0.001" value="1.0"/>
 
       <label for="field-size">Field Effect Size:</label>
       <input id="field-size" type="range" min="1.0" max="300.0" step="1.0" value="50.0"/>

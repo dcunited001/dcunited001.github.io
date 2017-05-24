@@ -44,7 +44,7 @@ article iframe {
     max-width: 100%;
 }
 
-/* Bootstrap
+/* Graphics posts
  --------------------------------------------------
  */
 
@@ -55,6 +55,19 @@ article iframe {
 .wide-canvas {
     width: 100%;
 }
+
+.navbar-graphics {
+    border-radius: 0px;
+}
+
+.navbar-graphics-top {
+    margin: 0px auto;
+}
+
+/* Bootstrap
+ --------------------------------------------------
+ */
+
 
 .btn-group-label {
     pointer-events: none;

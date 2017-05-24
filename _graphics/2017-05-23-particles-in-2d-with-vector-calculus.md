@@ -11,7 +11,7 @@ graphics_ui_layout: "graphics/2017-05-23-particles-in-2d-with-vector-calculus.ht
 
 ### TODO:
 
-- implement button to reset data
+- Reset Button & Defaults Button
 - add sliders to allow particles to move offscreen (which won't work with gradient physics)
   - option to sync these sliders to audio
 

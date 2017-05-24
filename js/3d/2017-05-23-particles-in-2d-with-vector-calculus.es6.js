@@ -958,11 +958,6 @@ function runWebGL() {
         mic.initMicGraph(stream);
       });
     }, 250);
-
-    console.log(mic.getColorShift(
-      document.getElementById('audio-color-shift-r').value,
-      document.getElementById('audio-color-shift-g').value,
-      document.getElementById('audio-color-shift-b').value))
   };
 
 // =======================================
@@ -972,23 +967,23 @@ function runWebGL() {
   var linePlots = {
     velocity: {
       enabled: false,
-      buttonClass: 'btn btn-info',
+      buttonClass: 'btn btn-info navbar-btn',
     },
     force: {
       enabled: false,
-      buttonClass: 'btn btn-success',
+      buttonClass: 'btn btn-success navbar-btn',
     },
     density: {
       enabled: false,
-      buttonClass: 'btn btn-primary',
+      buttonClass: 'btn btn-primary navbar-btn',
     },
     entropy: {
       enabled: false,
-      buttonClass: 'btn btn-warning',
+      buttonClass: 'btn btn-warning navbar-btn',
     },
     thermal: {
       enabled: false,
-      buttonClass: 'btn btn-danger',
+      buttonClass: 'btn btn-danger navbar-btn',
     }
   };
 
@@ -999,7 +994,7 @@ function runWebGL() {
     if (linePlots[key].enabled) {
       button.className = linePlots[key].buttonClass;
     } else {
-      button.className = 'btn';
+      button.className = 'btn navbar-btn';
     }
   };
 
@@ -1009,8 +1004,17 @@ function runWebGL() {
 
   var particleCount, particleSpeed, particleMass;
   var fieldSize, rCoefficient, maxFieldLines;
-  var renderTexture, physicsMethod, physicsMethods;
+  var renderTexture, physicsMethod;
+  var paused = false;
+
+  var physicsMethods ={
+    brownian: 0,
+    splat: 1,
+    gradient: 2
+  };
+
   var deferGradientCalc, fractRenderValues, renderMagnitude, circularFieldEffect, forceCalcInGlPointSpace, scaleRenderValues;
+
   var audioColorShift = vec3.fromValues(0.0, 0.0, 0.0),
     audioColorShiftGain = 1.0,
     audioColorShiftEnabled = false;
@@ -1041,17 +1045,25 @@ function runWebGL() {
       document.getElementById('audio-color-shift-g').value,
       document.getElementById('audio-color-shift-b').value);
 
+    // TODO: update for buttons
+
     var renderTextureRadios = document.getElementsByName('render-texture');
     renderTexture = [0,1,2].reduce((a,i) => renderTextureRadios[i].checked ? i : a, 0);
 
     var physicsMethodRadios = document.getElementsByName('physics-method');
     physicsMethod = [0,1,2].reduce((a,i) => physicsMethodRadios[i].checked ? i : a, 0);
-    physicsMethods = {
-      brownian: 0,
-      splat: 1,
-      gradient: 2
-    }
   }
+
+  window.togglePause = function() {
+    paused = !paused;
+    var pauseButton = document.getElementById('btn-play-pause');
+
+    if (paused) {
+      pauseButton.innerHTML = '<i class="fa fa-lg fa-pause">'
+    } else {
+      pauseButton.innerHTML = '<i class="fa fa-lg fa-play">'
+    }
+  };
 
   var anyQuad = new Quad(gl);
 
@@ -1111,36 +1123,40 @@ function renderDebugTexture(pixels) {
       console.log(deltaT);
     }
 
-    if (physicsMethod == physicsMethods.splat) {
-      var forceSplatUniforms = {
+    if (!paused) {
+
+      if (physicsMethod == physicsMethods.splat) {
+        var forceSplatUniforms = {
+          resolution: particleResolution,
+          rCoefficient: rCoefficient
+        };
+
+        rpForceSplat.encode(gl, forceSplatUniforms, {
+          framebuffer: forceSplatFbo,
+          particles: particlePonger.getCurrent('particles'),
+          particleCount: particleCount
+        });
+      }
+
+      var particleUniforms = {
         resolution: particleResolution,
-        rCoefficient: rCoefficient
+        randomSeed: makeIntRandomUniforms(),
+        particleSpeed: particleSpeed,
+        deltaTime: deltaT,
+        physicsMethod: physicsMethod
       };
 
-      rpForceSplat.encode(gl, forceSplatUniforms, {
-        framebuffer: forceSplatFbo,
+      rpParticles.encode(gl, particleUniforms, {
+        framebuffer: particlePonger.getCurrentFbo(),
+        particleRandoms: particlePonger.getCurrent('particleRandoms'),
         particles: particlePonger.getCurrent('particles'),
-        particleCount: particleCount
+        particleAttributes: particlePonger.getCurrent('particleAttributes'),
+        particleForces: forceSplatTexture
       });
+
+      particlePonger.increment();
+
     }
-
-    var particleUniforms = {
-      resolution: particleResolution,
-      randomSeed: makeIntRandomUniforms(),
-      particleSpeed: particleSpeed,
-      deltaTime: deltaT,
-      physicsMethod: physicsMethod
-    };
-
-    rpParticles.encode(gl, particleUniforms, {
-      framebuffer: particlePonger.getCurrentFbo(),
-      particleRandoms: particlePonger.getCurrent('particleRandoms'),
-      particles: particlePonger.getCurrent('particles'),
-      particleAttributes: particlePonger.getCurrent('particleAttributes'),
-      particleForces: forceSplatTexture
-    });
-
-    particlePonger.increment();
 
     var fieldsUniforms = {
       resolution: renderResolution,
@@ -1217,8 +1233,25 @@ function renderDebugTexture(pixels) {
 
 var createDebugTexture = false;
 
+function fixCanvasUIBar() {
+  // this might be a bug in the browser, but it's happening in both Firefox & Chrome
+
+  var uiBar = document.getElementById('canvas-ui-bar-bottom');
+  var canvasHeight = window.getComputedStyle(document.getElementById('main-canvas')).height;
+  var containerHeight = window.getComputedStyle(document.getElementById('main-canvas-container')).height;
+
+  canvasHeight = parseFloat(canvasHeight.substr(0, canvasHeight.length - 2));
+  containerHeight = parseFloat(containerHeight.substr(0, containerHeight.length - 2));
+
+  var shadowPaddingHeight = canvasHeight - containerHeight;
+  if (shadowPaddingHeight < 0) {
+    uiBar.style.marginTop = `${shadowPaddingHeight}px`
+  }
+}
 
 window.onload = function() {
+
+  fixCanvasUIBar();
   runWebGL();
 
 };
