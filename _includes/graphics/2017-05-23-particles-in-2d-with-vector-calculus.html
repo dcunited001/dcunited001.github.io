@@ -6,19 +6,19 @@
     <!--<div class="navbar-header"></div>-->
 
     <div class="btn-group navbar-left">
-      <button id="btn-play-pause" class="btn btn-primary navbar-btn" onclick="togglePause()"><i class="fa fa-lg fa-play"></i></button>
+      <button id="btn-play-pause" class="btn btn-primary navbar-btn" onclick="togglePause()"><i class="fa fa-lg fa-pause"></i></button>
       <button id="btn-reset" class="btn btn-primary navbar-btn" onclick="clickedResetParticles()" disabled><i class="fa fa-lg fa-refresh"></i></button>
       <button id="btn-activate-mic" class="btn btn-primary navbar-btn" onclick="activateMic()"><i class="fa fa-lg fa-microphone"></i></button>
     </div>
 
     <div class="navbar-right">
-      <div class="btn-group">
+      <div class="btn-group" data-toggle="buttons">
         <span class="btn btn-primary btn-group-label navbar-btn"><i class="fa fa-lg fa-line-chart"></i></span>
-        <button class="btn navbar-btn" id="toggle-plot-velocity" onclick="togglePlot('velocity')">Velocity</button>
-        <button class="btn navbar-btn" id="toggle-plot-force" onclick="togglePlot('force')">Force</button>
-        <button class="btn navbar-btn" id="toggle-plot-density" onclick="togglePlot('density')">Density</button>
-        <button class="btn navbar-btn" id="toggle-plot-entropy" onclick="togglePlot('entropy')">Entropy</button>
-        <button class="btn navbar-btn" id="toggle-plot-thermal"  onclick="togglePlot('thermal')">Thermal</button>
+        <label class="btn btn-lit btn-lit-primary navbar-btn"><input id="toggle-plot-velocity" type="checkbox" autocomplete="off" onclick="togglePlot('velocity')"/>Velocity</label>
+        <label class="btn btn-lit btn-lit-success navbar-btn"><input id="toggle-plot-force" type="checkbox" autocomplete="off" onclick="togglePlot('force')"/>Force</label>
+        <label class="btn btn-lit btn-lit-info navbar-btn"><input id="toggle-plot-density" type="checkbox" autocomplete="off" onclick="togglePlot('density')"/>Density</label>
+        <label class="btn btn-lit btn-lit-warning navbar-btn"><input id="toggle-plot-entropy" type="checkbox" autocomplete="off" onclick="togglePlot('entropy')"/>Entropy</label>
+        <label class="btn btn-lit btn-lit-danger navbar-btn"><input id="toggle-plot-thermal" type="checkbox" autocomplete="off" onclick="togglePlot('thermal')"/>Thermal</label>
       </div>
     </div>
   </div>
@@ -33,29 +33,28 @@
 
     <div class="navbar-left">
       <div class="btn-group" data-toggle="buttons">
-        <span class="btn btn-primary btn-group-label navbar-btn"><i class="fa fa-map"></i></span>
-        <label class="btn btn-default navbar-btn active"><input type="radio" name="render-texture" value="0" checked/>&nbsp;Field</label>
-        <label class="btn btn-default navbar-btn"><input type="radio" name="render-texture" value="1"/>&nbsp;Gradient</label>
-        <label class="btn btn-default navbar-btn"><input type="radio" name="render-texture" value="2"/>&nbsp;???</label>
+        <span class="btn btn-primary btn-group-label navbar-btn"><i class="fa fa-map-o"></i></span>
+        <label class="btn btn-lit-info btn-lit navbar-btn active"><input type="radio" name="render-texture" value="0" checked/>Field</label>
+        <label class="btn btn-lit-info btn-lit navbar-btn"><input type="radio" name="render-texture" value="1"/>Gradient</label>
+        <label class="btn btn-lit-info btn-lit navbar-btn"><input type="radio" name="render-texture" value="2"/>RGBX</label>
       </div>
 
       <div class="btn-group" data-toggle="buttons">
         <span class="btn btn-primary btn-group-label navbar-btn"><i class="fa fa-calculator"></i></span>
-        <label class="btn btn-default navbar-btn"><input id="fract-render-values" type="checkbox"/>&nbsp;Fract</label>
-        <label class="btn btn-default navbar-btn"><input id="scale-render-values" type="checkbox"/>&nbsp;Scale</label>
-        <label class="btn btn-default navbar-btn"><input id="render-magnitude" type="checkbox"/>&nbsp;Magnitude</label>
+        <label class="btn btn-lit-info btn-lit navbar-btn"><input id="fract-render-values" type="checkbox"/>Fract</label>
+        <label class="btn btn-lit-info btn-lit navbar-btn active"><input id="scale-render-values" type="checkbox" checked/>Sigmoid</label>
+        <label class="btn btn-lit-info btn-lit navbar-btn"><input id="render-magnitude" type="checkbox"/>Norm</label>
       </div>
     </div>
 
     <div class="navbar-right">
       <div class="btn-group" data-toggle="buttons">
         <span class="btn btn-primary btn-group-label navbar-btn"><i class="fa fa-paper-plane-o"></i></span>
-        <label class="btn btn-default navbar-btn active"><input type="radio" name="physics-method" value="0" checked/>&nbsp;Brownian</label>
-        <label class="btn btn-default navbar-btn"><input type="radio" name="physics-method" value="1"/>&nbsp;Splat</label>
-        <label class="btn btn-default navbar-btn"><input type="radio" name="physics-method" value="2"/>&nbsp;Gradient</label>
+        <label class="btn btn-lit-info btn-lit navbar-btn"><input type="radio" name="physics-method" value="0"/>Brownian</label>
+        <label class="btn btn-lit-info btn-lit navbar-btn active"><input type="radio" name="physics-method" value="1" checked/>Splat</label>
+        <label class="btn btn-lit-info btn-lit navbar-btn"><input type="radio" name="physics-method" value="2"/>Gradient</label>
       </div>
     </div>
-
   </div>
 </div>
 

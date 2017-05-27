@@ -54,3 +54,57 @@
 // Utility classes
 @import "bootstrap/utilities";
 @import "bootstrap/responsive-utilities";
+
+
+.btn {
+    &:active,
+    &.active {
+        @include box-shadow(inset 0 4px 6px rgba(0,0,0,.50));
+    }
+}
+
+.btn-lit {
+
+    color: $btn-default-color;
+    border-color: $btn-default-border;
+    background-color: $btn-default-bg;
+
+    &:active,
+    &.active {
+
+        @include box-shadow(inset 0 4px 6px rgba(255,255,255,.50));
+
+        color: $btn-primary-color;
+
+        &.btn-lit-default {
+            background-color: $btn-default-bg;
+            border-color: $btn-default-border;
+        }
+
+        &.btn-lit-primary {
+            background-color: $btn-primary-bg;
+            border-color: $btn-primary-border;
+        }
+
+        &.btn-lit-success {
+            background-color: $btn-success-bg;
+            border-color: $btn-success-border;
+        }
+
+        &.btn-lit-info {
+            background-color: $btn-info-bg;
+            border-color: $btn-info-border;
+        }
+
+        &.btn-lit-warning {
+            background-color: $btn-warning-bg;
+            border-color: $btn-warning-border;
+        }
+
+        &.btn-lit-danger {
+            background-color: $btn-danger-bg;
+            border-color: $btn-danger-border;
+        }
+    }
+}
+
