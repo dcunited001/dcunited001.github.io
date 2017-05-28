@@ -15,9 +15,21 @@ graphics_ui_layout: "graphics/2017-05-23-particles-in-2d-with-vector-calculus.ht
 - add sliders to allow particles to move offscreen (which won't work with gradient physics)
   - option to sync these sliders to audio
 
+- aggregate for momentum (p & ∂p)
+- aggregate for force (F & ∂F)
+
+- update getTransformationMatrix() to be more fluid
+
+- change force splatting to use drawArraysInstanced
+  - i need to figure out how to get the particle id in without having to set a uniform
+
+- fix break in the lineplot
+  - this happens when _currentIndex=0
+  - hard to fix this while drawing triangle strips
+
 - balance rCoefficient with particle count
 - either this or add correction for thermal velocity
-- when thermal velocity is too high, set uniform to scale down particleAttributes values
+- when thermal velocity is too high, set uniform to scale down particleMomentums values
 
 - add parameter presets
 
@@ -214,7 +226,7 @@ uniform int u_physicsMethod;
 
 uniform isampler2D s_particleRandoms;
 uniform sampler2D s_particles;
-uniform sampler2D s_particleAttributes;
+uniform sampler2D s_particleMomentums;
 uniform sampler2D s_particleForces;
 
 //uniform sampler2D s_repelFieldGradient
@@ -228,7 +240,7 @@ in vec3 v_position;
 
 layout(location = 0) out ivec4 random;
 layout(location = 1) out vec4 particle;
-layout(location = 2) out vec4 particleAttributes;
+layout(location = 2) out vec4 particleMomentums;
 
 // TODO: temperature: update another texture with particle velocities
 // layout(location = 2) out vec4 particleVelocities
@@ -259,7 +271,7 @@ void main() {
   ivec4 newRandom = u_randomSeed ^ randomTexel ^ texels[0] ^ texels[1] ^ texels[2] ^ texels[3];
   random = newRandom;
 
-  particleAttributes = texture(s_particleAttributes, uv);
+  particleMomentums = texture(s_particleMomentums, uv);
   vec2 netForce = vec2(0.0, 0.0);
 
   switch (u_physicsMethod) {
@@ -292,8 +304,8 @@ void main() {
 
   // TODO: adjust units for u_particleSpeed (and fix in netForce calcs above)
 
-  particleAttributes.xy += netForce * u_deltaTime.x / 1000.0;
-  vec2 particleUpdate = u_particleSpeed * particleAttributes.xy * u_deltaTime.x / 1000.0;
+  particleMomentums.xy += netForce * u_deltaTime.x / 1000.0;
+  vec2 particleUpdate = u_particleSpeed * particleMomentums.xy * u_deltaTime.x / 1000.0;
 
   particle.x = mod(particle.x + particleUpdate.x + 1.0, 2.0) - 1.0;
   particle.y = mod(particle.y + particleUpdate.y + 1.0, 2.0) - 1.0;
@@ -332,7 +344,7 @@ void main()
 <script type="x-shader/x-fragment" id="fsFields">
 uniform vec2 u_resolution;
 uniform float u_rCoefficient;
-uniform sampler2D s_particleAttributes;
+uniform sampler2D s_particleMomentums;
 uniform bool u_deferGradientCalc;
 uniform bool u_circularFieldEffect;
 uniform bool u_forceCalcInGlPointSpace;
@@ -505,8 +517,24 @@ void main() {
 }
 </script>
 
+<script type="x-shader/x-fragment" id="fsMipmapAggregate">
+uniform vec2 resolution;
+
+
+
+out vec4 particleMomentum;
+out vec4 particleMomentumStats;
+
+out vec4 particleForce;
+out vec4 particleForceStats;
+
+void main() {
+
+}
+</script>
+
 <script type="x-shader/x-vertex" id="vsLinePlotTransform">
-uniform matrix4x4 u_projection;
+uniform mat4x4 u_projection;
 uniform float u_lineWidth;
 
 layout(location = 0) in vec2 a_position;
@@ -515,11 +543,26 @@ out vec4 v_positionA;
 out vec4 v_positionB;
 
 void main() {
-  pointA = u_projection * vec4(a_position, 0.0, 1.0);
-  pointB = u_projection * vec4(a_position, 0.0, 1.0);
+  //v_positionA = vec4(a_position, 0.0, 1.0);
+  //v_positionB = vec4(a_position, 0.0, 1.0) + 1.0;
 
-  pointA.y += u_lineWidth;
-  pointB.y += u_lineWidth;
+  v_positionA = u_projection * vec4(a_position.x, a_position.y, 0.0, 1.0);
+  v_positionB = u_projection * vec4(a_position.x, a_position.y, 0.0, 1.0);
+
+  v_positionA.y += u_lineWidth;
+  v_positionB.y -= u_lineWidth;
+
+  // TODO: make sure u_lineWidth is adjusted for the space
+
+  gl_Position = v_positionA;
+}
+</script>
+
+<script type="x-shader/x-vertex" id="fsNull">
+out vec4 color;
+
+void main() {
+
 }
 </script>
 
@@ -543,32 +586,8 @@ void main() {
 }
 </script>
 
-<script type="x-shader/x-vertex" id="fsNull">
-out vec4 color;
-
-void main() {
-
-}
-</script>
-
-<script type="x-shader/x-vertex" id="vsPass">
-layout(location = 0) in vec3 a_position;
-layout(location = 1) in vec2 a_texcoord;
-
-out vec4 quadB;
-out vec4 quadC;
-out vec4 quadD;
-
-void main() {
-  v_st = a_texcoord;
-  v_position = a_position;
-  gl_Position = vec4(a_position, 1.0);
-}
-</script>
-
-<script type="text/javascript" src="https://cdnjs.cloudflare.com/ajax/libs/d3/4.9.1/d3.js"></script>
 <script type="text/javascript" src="/js/3d/utils/quad.js"></script>
-<script type="text/javascript" src="/js/3d/line_plot.js"></script>
+<script type="text/javascript" src="/js/3d/utils/line_plot.js"></script>
 <script type="text/javascript" src="/js/3d/2017-05-23-particles-in-2d-with-vector-calculus.es6.js"></script>
 
 <script type="text/javascript">

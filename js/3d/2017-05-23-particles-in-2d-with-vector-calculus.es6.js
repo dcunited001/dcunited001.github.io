@@ -109,6 +109,7 @@ function runWebGL() {
     lastFrameStart = currentTime;
     currentTime = Date.now();
     elapsedTime = currentTime - startTime;
+    simulationTime += (paused ? 0 : elapsedTime);
     lastFrameTime = currentTime - lastFrameStart;
   }
 
@@ -406,12 +407,16 @@ function runWebGL() {
       }
     });
 
+  var programLinePlot = createProgram(gl,
+    document.getElementById('vsLinePlot').textContent,
+    document.getElementById('fsLinePlot').textContent);
+
 // =======================================
 // Particles
 // =======================================
 
   var PARTICLE_MAX = parseInt(document.getElementById('particle-count').max);
-  var PARTICLE_WIDTH = 1024;
+  var PARTICLE_WIDTH = 32;
   var particleResolution = vec2.fromValues(PARTICLE_WIDTH, PARTICLE_MAX/PARTICLE_WIDTH);
   var renderResolution = vec2.fromValues(gl.drawingBufferWidth, gl.drawingBufferHeight);
 
@@ -437,7 +442,7 @@ function runWebGL() {
 
   var particleRandomsAttachments,
     particleAttachments,
-    particleAttributes;
+    particleMomentums;
 
   particleRandomsAttachments = [0,1,2].map((f) => {
     gl.activeTexture(gl.TEXTURE0);
@@ -478,7 +483,7 @@ function runWebGL() {
     return tex;
   });
 
-  particleAttributes = [0,1,2].map((f) => {
+  particleMomentums = [0,1,2].map((f) => {
     gl.activeTexture(gl.TEXTURE0);
     var tex = gl.createTexture();
     gl.bindTexture(gl.TEXTURE_2D, tex);
@@ -499,7 +504,7 @@ function runWebGL() {
 
   particlePonger.registerTextures('particleRandoms', particleRandomsAttachments);
   particlePonger.registerTextures('particles', particleAttachments);
-  particlePonger.registerTextures('particleAttributes', particleAttributes);
+  particlePonger.registerTextures('particleMomentums', particleMomentums);
 
   var particleFboConfig = {
     particleRandoms: {
@@ -508,7 +513,7 @@ function runWebGL() {
     particles: {
       colorAttachment: gl.COLOR_ATTACHMENT1
     },
-    particleAttributes: {
+    particleMomentums: {
       colorAttachment: gl.COLOR_ATTACHMENT2
     }
   };
@@ -631,7 +636,7 @@ function runWebGL() {
       context.uniform1i(rpParticles.uniformLocations.u_physicsMethod, uniforms.physicsMethod);
       context.uniform1i(rpParticles.uniformLocations.s_particleRandoms, 0);
       context.uniform1i(rpParticles.uniformLocations.s_particles, 1);
-      context.uniform1i(rpParticles.uniformLocations.s_particleAttributes, 2);
+      context.uniform1i(rpParticles.uniformLocations.s_particleMomentums, 2);
       context.uniform1i(rpParticles.uniformLocations.s_particleForces, 3);
     },
     encodeTextures: (context, uniforms, ops) => {
@@ -644,7 +649,7 @@ function runWebGL() {
       context.bindSampler(1, samplerNearest);
 
       context.activeTexture(context.TEXTURE2);
-      context.bindTexture(context.TEXTURE_2D, ops.particleAttributes);
+      context.bindTexture(context.TEXTURE_2D, ops.particleMomentums);
       context.bindSampler(2, samplerNearest);
 
       context.activeTexture(context.TEXTURE3);
@@ -671,7 +676,7 @@ function runWebGL() {
     'u_physicsMethod',
     's_particleRandoms',
     's_particles',
-    's_particleAttributes',
+    's_particleMomentums',
     's_particleForces'
   ]);
 
@@ -746,7 +751,7 @@ function runWebGL() {
       context.bindTexture(context.TEXTURE_2D, ops.particles);
       context.bindSampler(0, samplerNearest);
 
-      // TODO: add particleAttributes texture (any need for color here?)
+      // TODO: add particleMomentums texture (any need for color here?)
       // - or should i add a frequency that the particles' fields resonate at?
     },
     encodeDraw: (context, uniforms, ops) => {
@@ -868,17 +873,6 @@ function runWebGL() {
 
   // TODO: enable UI interaction that allows the graphs to fade in and out by dragging the mouse ?
 
-// =======================================
-// D3
-// =======================================
-
-// total # of particles
-// density
-// average velocity & thermal velocity
-
-//var d3Data = {
-//  t:
-//}
 
 // =======================================
 // Web Audio
@@ -956,6 +950,8 @@ function runWebGL() {
       mic.initMic(audioContext, function (stream) {
         mic.enableControls();
         mic.initMicGraph(stream);
+        mic.isLive = true;
+        document.getElementById('btn-activate-mic').className = "btn btn-danger navbar-btn";
       });
     }, 250);
   };
@@ -964,37 +960,83 @@ function runWebGL() {
 // Plot Scalar Values
 // =======================================
 
+  var numDataPoints = 50;
+
+  function hexColorToVec4(hex) {
+    return vec4.fromValues(
+      parseInt(hex.substr(0,2), 16) / 255,
+      parseInt(hex.substr(2,2), 16) / 255,
+      parseInt(hex.substr(4,2), 16) / 255,
+      1.0
+    );
+  }
+
+  var bsPrimary = hexColorToVec4("337ab7"),
+    bsSuccess = hexColorToVec4("5cb85c"),
+    bsInfo = hexColorToVec4("5bc0de"),
+    bsWarning = hexColorToVec4("f0ad4e"),
+    bsDanger = hexColorToVec4("d9534f");
+
   var linePlots = {
-    velocity: {
+    momentum: {
+      plot: new LinePlot(gl, numDataPoints, {
+        program: programLinePlot,
+        transformProgram: programLinePlotTransform,
+        lineColor: bsInfo,
+        lineWidth: 10,
+        max: { value: 1, dynamic: true },
+        min: { value: 0, dynamic: true }
+      }),
       enabled: false,
       buttonClass: 'btn btn-info navbar-btn',
     },
     force: {
+      plot: new LinePlot(gl, numDataPoints, {
+        program: programLinePlot,
+        transformProgram: programLinePlotTransform,
+        lineColor: bsSuccess,
+        lineWidth: 10,
+        max: { value: 1, dynamic: true },
+        min: { value: 0, dynamic: true }
+      }),
       enabled: false,
       buttonClass: 'btn btn-success navbar-btn',
     },
     density: {
+      plot: new LinePlot(gl, numDataPoints, {
+        program: programLinePlot,
+        transformProgram: programLinePlotTransform,
+        lineColor: bsPrimary,
+        lineWidth: 10,
+        max: { value: 1, dynamic: true },
+        min: { value: 0, dynamic: true }
+      }),
       enabled: false,
       buttonClass: 'btn btn-primary navbar-btn',
     },
     entropy: {
+      plot: new LinePlot(gl, numDataPoints, {
+        program: programLinePlot,
+        transformProgram: programLinePlotTransform,
+        lineColor: bsWarning,
+        lineWidth: 10,
+        max: { value: 1, dynamic: true },
+        min: { value: 0, dynamic: true }
+      }),
       enabled: false,
       buttonClass: 'btn btn-warning navbar-btn',
     },
-    thermal: {
+    stats: {
+      plot: new LinePlot(gl, numDataPoints, {
+        program: programLinePlot,
+        transformProgram: programLinePlotTransform,
+        lineColor: bsDanger,
+        lineWidth: 10,
+        max: { value: 1, dynamic: true },
+        min: { value: 0, dynamic: true }
+      }),
       enabled: false,
       buttonClass: 'btn btn-danger navbar-btn',
-    }
-  };
-
-  window.togglePlot = function(key) {
-    linePlots[key].enabled = !linePlots[key].enabled;
-    var button = document.getElementById(`toggle-plot-${key}`);
-
-    if (linePlots[key].enabled) {
-      button.className = linePlots[key].buttonClass;
-    } else {
-      button.className = 'btn navbar-btn';
     }
   };
 
@@ -1045,13 +1087,15 @@ function runWebGL() {
       document.getElementById('audio-color-shift-g').value,
       document.getElementById('audio-color-shift-b').value);
 
-    // TODO: update for buttons
-
     var renderTextureRadios = document.getElementsByName('render-texture');
     renderTexture = [0,1,2].reduce((a,i) => renderTextureRadios[i].checked ? i : a, 0);
 
     var physicsMethodRadios = document.getElementsByName('physics-method');
     physicsMethod = [0,1,2].reduce((a,i) => physicsMethodRadios[i].checked ? i : a, 0);
+
+    for (var k of Object.keys(linePlots)) {
+      linePlots[k].enabled = document.getElementById(`toggle-plot-${k}`).checked;
+    }
   }
 
   window.togglePause = function() {
@@ -1059,9 +1103,9 @@ function runWebGL() {
     var pauseButton = document.getElementById('btn-play-pause');
 
     if (paused) {
-      pauseButton.innerHTML = '<i class="fa fa-lg fa-pause">'
-    } else {
       pauseButton.innerHTML = '<i class="fa fa-lg fa-play">'
+    } else {
+      pauseButton.innerHTML = '<i class="fa fa-lg fa-pause">'
     }
   };
 
@@ -1072,11 +1116,50 @@ function runWebGL() {
   gl.clearColor(0.0, 0.0, 0.0, 1.0);
   gl.clear(gl.COLOR_BUFFER_BIT);
 
-  var framecount = 0;
+  var framecount = 0, lastFps = 1;
+
+  class FrameCounter {
+    constructor(framesPerRecord, maxRecords, starttime) {
+      this._data = [[starttime, 0]];
+      this._maxRecords = maxRecords;
+      this._framecount = 0;
+      this._framesPerRecord = framesPerRecord;
+      this._current = 0;
+    }
+    currentRecord() {
+      return this._data[this._current];
+    }
+    pushTime(t, dt, fcount) {
+      this.increment();
+      if (this._data.length < this._maxRecords) {
+        this._data.push([t, dt]);
+      } else {
+        this._data[this._current] = [t, dt];
+      }
+      this._framecount = fcount;
+    }
+    increment() {
+      this._current = (this._current + 1) % this._maxRecords;
+    }
+    getFps(timeNow, nframes) {
+      var lastT = this._data[this._current][0];
+      var sumTime = this._data.reduce((acc, ft) => acc + ft[1], 0)/1000;
+      var timeSince = (timeNow - lastT)/1000;
+      var totalFrames = (this._framesPerRecord * this._data.length) + (nframes - this._framecount);
+
+      var timePerFrame = (sumTime + timeSince) / totalFrames;
+      return 1 / timePerFrame;
+    }
+    canCalcFps() {
+      return (this._data.length > 0)
+    }
+  }
 
   var startTime = Date.now(),
     currentTime = startTime,
     elapsedTime = currentTime - startTime,
+    simulationTime = elapsedTime,
+    lastAggregateTime = simulationTime,
     lastFrameStart = currentTime,
     lastFrameTime = currentTime - lastFrameStart;
 
@@ -1113,15 +1196,19 @@ function renderDebugTexture(pixels) {
 // Render Loop
 // =======================================
 
+  var frameCounter = new FrameCounter(10, 4, currentTime);
+
   function render() {
     framecount++;
     updateTime();
+
+    if (framecount % frameCounter._framesPerRecord) {
+      var lastRecord = frameCounter.currentRecord();
+      frameCounter.pushTime(currentTime, currentTime - lastRecord[0], framecount);
+    }
+
     deltaT = updateDeltaT(deltaT, lastFrameTime);
     uiControlUpdate();
-
-    if (framecount % 30 == 0) {
-      console.log(deltaT);
-    }
 
     if (!paused) {
 
@@ -1150,7 +1237,7 @@ function renderDebugTexture(pixels) {
         framebuffer: particlePonger.getCurrentFbo(),
         particleRandoms: particlePonger.getCurrent('particleRandoms'),
         particles: particlePonger.getCurrent('particles'),
-        particleAttributes: particlePonger.getCurrent('particleAttributes'),
+        particleMomentums: particlePonger.getCurrent('particleMomentums'),
         particleForces: forceSplatTexture
       });
 
@@ -1219,10 +1306,42 @@ function renderDebugTexture(pixels) {
 
     rpRenderFields.encode(gl, renderFieldsUniforms, renderFieldsOptions);
 
-    // TODO: mipmap aggregate on particle texture:
-    // - sum aggregate instantaneous velocities to measure a 'temperature'
-    // - https://en.wikipedia.org/wiki/Thermal_velocity
-    // - then plot the scalar thermal velocity value from the simulation into a D3 chart
+    // update aggregate values & line plots
+    if (!paused) {
+      if (simulationTime - lastAggregateTime > 100) {
+
+        // TODO: mipmap aggregate on particle texture:
+        // - sum aggregate instantaneous velocities to measure a 'temperature'
+        // - https://en.wikipedia.org/wiki/Thermal_velocity
+        // - then plot the scalar thermal velocity value from the simulation into a D3 chart
+
+        var estimatedFps = frameCounter.canCalcFps()
+          ? frameCounter.getFps(currentTime, framecount)
+          : (framecount / (simulationTime / 1000));
+
+        linePlots['momentum'].plot.push([simulationTime, Math.random()/2]);
+        linePlots['force'].plot.push([simulationTime, Math.random()/2]);
+        linePlots['stats'].plot.push([simulationTime, estimatedFps]);
+      }
+    }
+
+    for (var k of Object.keys(linePlots)) {
+      if (linePlots[k].enabled) {
+        linePlots[k].plot.encodeTransform(gl, {
+          resolution: renderResolution
+        });
+        linePlots[k].plot.encode(gl, {
+          resolution: renderResolution,
+          beforeEncode: (context, plot) => {
+            context.bindFramebuffer(context.DRAW_FRAMEBUFFER, null);
+            context.blendFunc(context.ONE, context.ONE);
+          },
+          afterEncode: (context, plot) => {
+
+          }
+        })
+      }
+    }
 
     requestAnimationFrame(render);
   }
@@ -1250,8 +1369,7 @@ function fixCanvasUIBar() {
 }
 
 window.onload = function() {
-
   fixCanvasUIBar();
-  runWebGL();
-
 };
+
+//window.addEventListener('gliready', runWebGL());

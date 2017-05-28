@@ -4,14 +4,14 @@ class LinePlot {
   constructor(context, size, options = {}) {
     this._size = size;
     this._rolling = options.rolling ? true : false;
-    this._currentIndex = size;
+    this._currentIndex = size - 1;
 
-    this._lineColor = options.color || vec4.fromValues(1.0, 1.0, 1.0, 1.0);
-    this._lineWidth = options.lineWidth || 5;
+    this._lineColor = options.lineColor || vec4.fromValues(1.0, 1.0, 1.0, 1.0);
+    this._lineWidth = options.lineWidth || 10;
 
     this._pos = new Float32Array(size * 2);
-    this._max = { value: 1, dynamic: false } || options.max;
-    this._min = { value: 0, dynamic: false } || options.min;
+    this._max = options.max || { value: 1, dynamic: false };
+    this._min = options.min || { value: 0, dynamic: false };
 
     if (this._max.dynamic) { this._max.index = 0; this._max.age = 0; }
     if (this._min.dynamic) { this._min.index = 0; this._min.age = 0; }
@@ -19,11 +19,16 @@ class LinePlot {
     this._buffers = this.prepareBuffers(context, this._pos);
     this._vertexArray = this.prepareVertexArray(context, this._buffers);
 
-    this._transformFeedback = context.createTransformFeedback();
-    this._transformVertexArray = prepareTransformVertexArray();
+    this._program = options.program;
+    this.setUniformLocations(context);
 
+    this._transformProgram = options.transformProgram;
+    this._transformFeedback = context.createTransformFeedback();
+    this._transformVertexArray = this.prepareTransformVertexArray(context, this._buffers);
     this._transformUniformLocations = {};
-    this._uniformLocations = {};
+    this.setTransformUniformLocations(context);
+
+    this._drawVertexArray = this.prepareDrawVertexArray(context, this._buffers);
   }
 
   getDataPoint(n) {
@@ -66,18 +71,22 @@ class LinePlot {
     }
   }
 
-  encodeTransform(context, program) {
-    context.useProgram(this._transformProgram);
+  encodeTransform(context, options = {}) {
+    // update data in buffers
+    this.writeBuffers(context);
+
     context.enable(context.RASTERIZER_DISCARD);
     context.bindTransformFeedback(context.TRANSFORM_FEEDBACK, this._transformFeedback);
-    context.bindBufferBase(context.TRANSFORM_FEEDBACK_BUFFER, 0, this.buffers.posTransformed);
-    context.bindVertexArray(this._transformVertexArray);
+    context.useProgram(this._transformProgram);
+    context.bindBufferBase(context.TRANSFORM_FEEDBACK_BUFFER, 0, this._buffers.posTransformed);
+    context.bindVertexArray(this._vertexArray);
 
-    context.uniform1i(this._uniformLocations.u_lineWidth, this._lineWidth);
-    context.uniformMatrix4fv(this._uniformLocations.u_projection, getTransformationMatrix());
+    var scaledWidth = this._lineWidth / options.resolution[1];
+    context.uniform1f(this._transformUniformLocations.u_lineWidth, scaledWidth); // scale for resolution
+    context.uniformMatrix4fv(this._transformUniformLocations.u_projection, true, this.getTransformationMatrix());
 
     context.beginTransformFeedback(context.POINTS);
-    context.drawArrays(context.POINTS, 0, this._size);
+    context.drawArraysInstanced(context.POINTS, 0, this._size, 1);
     context.endTransformFeedback();
     context.disable(context.RASTERIZER_DISCARD);
 
@@ -86,18 +95,41 @@ class LinePlot {
     context.useProgram(null);
   }
 
-  encode(context) {
+  encode(context, options = {}) {
     // TODO: vertex shader to transform x/y from that function's space to the screen space
 
+    context.useProgram(this._program);
+
+    context.viewport(0.0, 0.0, options.resolution[0], options.resolution[1]);
+
+    if (options.beforeEncode) {
+      options.beforeEncode(context, this);
+    }
+
+    if (options.encodeClear) {
+      options.encodeClear(context, this);
+    }
+
     context.uniform4fv(this._uniformLocations.u_lineColor, this._lineColor);
+    context.bindVertexArray(this._drawVertexArray);
 
-    // if (rolling)
-    // draw calls for (0 .. current index)
-    // draw calls for (current index .. size)
+    if (options.encodeDraw) {
+      options.encodeDraw(context,this);
+    } else {
+      //if (this._rolling || this._currentIndex == 0) {
+        context.drawArrays(context.TRIANGLE_STRIP, 0, this._currentIndex * 2);
 
-    // else
-    // TODO: later
+         //vvv "Bound vertex attribute buffers do not have sufficient size for given first and count."
+        context.drawArrays(context.TRIANGLE_STRIP, (this._currentIndex + 1) * 2, (this._size - this._currentIndex - 1) * 2);
+      //} else {
+      //  context.drawArrays(context.TRIANGLE_STRIP, 0, this.size * 2);
+      //}
+      //context.drawArraysInstanced(context.TRIANGLE_STRIP, 0, this._size * 2, 1);
+    }
 
+    if (options.afterEncode) {
+      options.afterEncode(context, this);
+    }
   }
 
   increment() {
@@ -106,10 +138,10 @@ class LinePlot {
 
   push(data) {
     this.increment();
-    setDataPoint(this._currentIndex, data);
+    this.setDataPoint(this._currentIndex, data);
 
-    updateMax();
-    updateMin();
+    this.updateMax();
+    this.updateMin();
   }
 
   updateMax(value) {
@@ -146,7 +178,7 @@ class LinePlot {
         }
       }
     } else {
-      this._max.value = (value > this._max ? value : this._max);
+      this._max.value = (value > this._max ? value : this._max.value);
     }
   }
 
@@ -184,8 +216,14 @@ class LinePlot {
         }
       }
     } else {
-      this._min.value = (value < this._min ? value : this._min);
+      this._min.value = (value < this._min ? value : this._min.value);
     }
+  }
+
+  writeBuffers(context) {
+    context.bindBuffer(context.ARRAY_BUFFER, this._buffers.pos);
+    context.bufferData(context.ARRAY_BUFFER, this._pos, context.STATIC_DRAW);
+    context.bindBuffer(context.ARRAY_BUFFER, null);
   }
 
   prepareBuffers(context, pos) {
@@ -195,13 +233,13 @@ class LinePlot {
     context.bindBuffer(context.ARRAY_BUFFER, null);
 
     var vertexPosTransformedBuffer = context.createBuffer();
-    context.bindBuffer(context.ARRAY_BUFFER, vertexPosBuffer);
-    context.bufferData(context.ARRAY_BUFFER, new Float32Array(this._size * 2), context.STATIC_COPY);
+    context.bindBuffer(context.ARRAY_BUFFER, vertexPosTransformedBuffer);
+    context.bufferData(context.ARRAY_BUFFER, this._size * 8 * Float32Array.BYTES_PER_ELEMENT, context.STREAM_COPY);
     context.bindBuffer(context.ARRAY_BUFFER, null);
 
     return {
       pos: vertexPosBuffer,
-      posTransformed: vertexPosTransformedBuffer
+      posTransformed: vertexPosTransformedBuffer,
     };
   }
 
@@ -213,9 +251,10 @@ class LinePlot {
     context.bindBuffer(context.ARRAY_BUFFER, buffers.pos);
     context.vertexAttribPointer(vertexPosIdx, 2, context.FLOAT, false, 0, 0);
     context.enableVertexAttribArray(vertexPosIdx);
-    context.bindBuffer(context.ARRAY_BUFFER, null);
 
+    context.bindBuffer(context.ARRAY_BUFFER, null);
     context.bindVertexArray(null);
+
     return vertexArray;
   }
 
@@ -225,37 +264,53 @@ class LinePlot {
 
     var vertexPosIdx = 0;
     context.bindBuffer(context.ARRAY_BUFFER, buffers.posTransformed);
-    context.vertexAttribPointer(vertexPosIdx, 8, context.FLOAT, false, 0, 0);
+    context.vertexAttribPointer(vertexPosIdx, 4, context.FLOAT, false, 32, 0);
     context.enableVertexAttribArray(vertexPosIdx);
-    context.bindBuffer(context.ARRAY_BUFFER, null);
 
+    var vertexPosIdx2 = 1;
+    context.vertexAttribPointer(vertexPosIdx2, 4, context.FLOAT, false, 32, 16);
+    context.enableVertexAttribArray(vertexPosIdx2);
+
+    context.bindBuffer(context.ARRAY_BUFFER, null);
     context.bindVertexArray(null);
+
+    return vertexArray;
+  }
+
+  prepareDrawVertexArray(context, buffers) {
+    var vertexArray = context.createVertexArray();
+    context.bindVertexArray(vertexArray);
+
+    var vertexPosIdx = 0;
+    context.bindBuffer(context.ARRAY_BUFFER, buffers.posTransformed);
+    context.vertexAttribPointer(vertexPosIdx, 4, context.FLOAT, false, 0, 0);
+    context.enableVertexAttribArray(vertexPosIdx);
+
+    context.bindBuffer(context.ARRAY_BUFFER, null);
+    context.bindVertexArray(null);
+
     return vertexArray;
   }
 
   getTransformationMatrix() {
-    var xmin = this.getDataPoint(this._currentIndex)[0];
-    var xmax = this.getDataPoint((this._currentIndex + 1) % this._size)[0];
-    var xrange = xmax - xmin;
+    // TODO: update to draw a scanning graph
 
-    var ymin = this._min.value;
-    var ymax = this._max.value;
-    var yrange = ymax - ymin;
+    var tCurrent = this.getDataPoint(this._currentIndex)[0];
+    var tEarliest = this.getDataPoint((this._currentIndex + 1) % this._size)[0];
+    var tRange = tCurrent - tEarliest;
+    var tMid = tEarliest + tRange/2;
 
-    var translate = matrix4x4.fromValues(
-      1, 0, 0, -xmin,
-      0, 1, 0, -ymin,
-      0, 0, 1, 0,
+    var yMin = this._min.value;
+    var yMax = this._max.value;
+    var yRange = yMax - yMin;
+
+    var translate = mat4.fromValues(
+      2/tRange, 0, 0, 2*(-tEarliest - tRange/2)/tRange,
+      0, 2/yRange, 0, 2*(-yMin - yRange/2)/yRange,
+      0, 0, 1, -0.0001,
       0, 0, 0, 1
     );
 
-    var scale = matrix4x4.fromValues(
-      1/xrange, 0, 0, 0,
-      0, 1/yrange, 0, 0,
-      0, 0, 1, 0,
-      0, 0, 0, 1
-    );
-
-    return translate.multiply(scale);
+    return translate;
   }
 }
