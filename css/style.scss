@@ -64,6 +64,14 @@ article iframe {
     margin: 0px auto;
 }
 
+.navbar-label {
+    position: relative;
+    display: block;
+    padding: 15px 15px;
+    line-height: 20px;
+    color: $navbar-inverse-brand-color;
+}
+
 /* Bootstrap
  --------------------------------------------------
  */

@@ -496,7 +496,10 @@ function runWebGL() {
       particleResolution[1],
       gl.RGBA,
       gl.FLOAT,
-      generateFloat32Randoms(particleResolution[0], particleResolution[1], 4, 0.01, 0.10));
+      //generateFloat32Randoms(particleResolution[0], particleResolution[1], 4, 0.01, 0.10)
+
+      generateFloat32Randoms(particleResolution[0], particleResolution[1], 4, -0.00, 0.00)
+    );
 
     gl.bindTexture(gl.TEXTURE_2D, null);
     return tex;
@@ -695,6 +698,7 @@ function runWebGL() {
     encodeUniforms: (context, uniforms, ops) => {
       context.uniform2fv(rpForceSplat.uniformLocations.u_resolution, uniforms.resolution);
       context.uniform1f(rpForceSplat.uniformLocations.u_rCoefficient, uniforms.rCoefficient);
+      context.uniform1i(rpForceSplat.uniformLocations.u_particleIdLimit, uniforms.particleIdLimit);
       context.uniform1i(rpForceSplat.uniformLocations.s_particles, 0);
     },
     encodeTextures: (context, uniforms, ops) => {
@@ -720,6 +724,7 @@ function runWebGL() {
     'u_resolution',
     'u_particleUv',
     'u_rCoefficient',
+    'u_particleIdLimit',
     's_particles'
   ]);
 
@@ -868,13 +873,6 @@ function runWebGL() {
   ]);
 
 // =======================================
-// Render Pass: Line Plots
-// =======================================
-
-  // TODO: enable UI interaction that allows the graphs to fade in and out by dragging the mouse ?
-
-
-// =======================================
 // Web Audio
 // =======================================
 
@@ -943,10 +941,6 @@ function runWebGL() {
 
   window.activateMic = function() {
     setTimeout(function() {
-      //in Chrome v43 only, i'm getting a MEDIA_DEVICE_FAILED_DUE_TO_SHUTDOWN
-      // thrown when rendering after user clicks pushstate link
-      // ideally, this getUserMedia request should only be executed once per visit.
-
       mic.initMic(audioContext, function (stream) {
         mic.enableControls();
         mic.initMicGraph(stream);
@@ -982,7 +976,7 @@ function runWebGL() {
       plot: new LinePlot(gl, numDataPoints, {
         program: programLinePlot,
         transformProgram: programLinePlotTransform,
-        lineColor: bsInfo,
+        lineColor: bsPrimary,
         lineWidth: 10,
         max: { value: 1, dynamic: true },
         min: { value: 0, dynamic: true }
@@ -1002,31 +996,7 @@ function runWebGL() {
       enabled: false,
       buttonClass: 'btn btn-success navbar-btn',
     },
-    density: {
-      plot: new LinePlot(gl, numDataPoints, {
-        program: programLinePlot,
-        transformProgram: programLinePlotTransform,
-        lineColor: bsPrimary,
-        lineWidth: 10,
-        max: { value: 1, dynamic: true },
-        min: { value: 0, dynamic: true }
-      }),
-      enabled: false,
-      buttonClass: 'btn btn-primary navbar-btn',
-    },
-    entropy: {
-      plot: new LinePlot(gl, numDataPoints, {
-        program: programLinePlot,
-        transformProgram: programLinePlotTransform,
-        lineColor: bsWarning,
-        lineWidth: 10,
-        max: { value: 1, dynamic: true },
-        min: { value: 0, dynamic: true }
-      }),
-      enabled: false,
-      buttonClass: 'btn btn-warning navbar-btn',
-    },
-    stats: {
+    fps: {
       plot: new LinePlot(gl, numDataPoints, {
         program: programLinePlot,
         transformProgram: programLinePlotTransform,
@@ -1215,7 +1185,8 @@ function renderDebugTexture(pixels) {
       if (physicsMethod == physicsMethods.splat) {
         var forceSplatUniforms = {
           resolution: particleResolution,
-          rCoefficient: rCoefficient
+          rCoefficient: rCoefficient,
+          particleIdLimit: particleCount
         };
 
         rpForceSplat.encode(gl, forceSplatUniforms, {
@@ -1319,9 +1290,11 @@ function renderDebugTexture(pixels) {
           ? frameCounter.getFps(currentTime, framecount)
           : (framecount / (simulationTime / 1000));
 
+        document.getElementById('stats-fps-label').innerText = `${estimatedFps.toFixed(2)} FPS`;
+
         linePlots['momentum'].plot.push([simulationTime, Math.random()/2]);
         linePlots['force'].plot.push([simulationTime, Math.random()/2]);
-        linePlots['stats'].plot.push([simulationTime, estimatedFps]);
+        linePlots['fps'].plot.push([simulationTime, estimatedFps]);
       }
     }
 
@@ -1334,10 +1307,7 @@ function renderDebugTexture(pixels) {
           resolution: renderResolution,
           beforeEncode: (context, plot) => {
             context.bindFramebuffer(context.DRAW_FRAMEBUFFER, null);
-            context.blendFunc(context.ONE, context.ONE);
-          },
-          afterEncode: (context, plot) => {
-
+            context.blendFunc(context.ONE, context.ZERO);
           }
         })
       }
@@ -1370,6 +1340,7 @@ function fixCanvasUIBar() {
 
 window.onload = function() {
   fixCanvasUIBar();
+  runWebGL();
 };
 
 //window.addEventListener('gliready', runWebGL());

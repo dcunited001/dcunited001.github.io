@@ -1,27 +1,22 @@
-<h4>Requires ES6 & WebGL 2.0 &#x2605; Runs Best In Firefox (and Chrome) &#x2605; Does Not Run On Mobile</h4>
+<div class="container">
+  <h4>Requires ES6 & WebGL 2.0 &#x2605; Runs Best In Firefox (and Chrome) &#x2605; Does Not Run On Mobile</h4>
+</div>
 
 <div id="canvas-ui-bar-top" class="navbar navbar-inverse navbar-graphics navbar-graphics-top">
-  <div class="container-fluid">
-    <div class="btn-group navbar-left">
-      <button id="btn-play-pause" class="btn btn-primary navbar-btn" onclick="togglePause()"><i class="fa fa-lg fa-pause"></i></button>
-      <button id="btn-reset" class="btn btn-primary navbar-btn" onclick="clickedResetParticles()" disabled><i class="fa fa-lg fa-refresh"></i></button>
-      <button id="btn-activate-mic" class="btn btn-primary navbar-btn" onclick="activateMic()"><i class="fa fa-lg fa-microphone"></i></button>
+  <div class="container">
+    <ul class="nav navbar-nav navbar-left">
+      <li><span class="navbar-label"><i class="fa fa-lg fa-line-chart"></i></span></li>
+    </ul>
+
+    <div class="btn-group" data-toggle="buttons">
+      <label class="btn btn-lit btn-lit-primary navbar-btn"><input id="toggle-plot-momentum" type="checkbox" autocomplete="off" onclick="togglePlot('momentum')"/>Momentum</label>
+      <label class="btn btn-lit btn-lit-success navbar-btn"><input id="toggle-plot-force" type="checkbox" autocomplete="off" onclick="togglePlot('force')"/>Force</label>
+      <label class="btn btn-lit btn-lit-danger navbar-btn"><input id="toggle-plot-fps" type="checkbox" autocomplete="off" onclick="togglePlot('fps')"/>FPS</label>
     </div>
 
-    <div class="btn-group navbar-left">
-      <button id="btn-start" class="btn btn-danger navbar-btn" onclick="runWebGL()">Run WebGL (Debug)</button>
-    </div>
-
-    <div class="navbar-right">
-      <div class="btn-group" data-toggle="buttons">
-        <span class="btn btn-primary btn-group-label navbar-btn"><i class="fa fa-lg fa-line-chart"></i></span>
-        <label class="btn btn-lit btn-lit-primary navbar-btn"><input id="toggle-plot-momentum" type="checkbox" autocomplete="off" onclick="togglePlot('momentum')"/>Momentum</label>
-        <label class="btn btn-lit btn-lit-success navbar-btn"><input id="toggle-plot-force" type="checkbox" autocomplete="off" onclick="togglePlot('force')"/>Force</label>
-        <label class="btn btn-lit btn-lit-info navbar-btn"><input id="toggle-plot-density" type="checkbox" autocomplete="off" onclick="togglePlot('density')"/>Density</label>
-        <label class="btn btn-lit btn-lit-warning navbar-btn"><input id="toggle-plot-entropy" type="checkbox" autocomplete="off" onclick="togglePlot('entropy')"/>Entropy</label>
-        <label class="btn btn-lit btn-lit-danger navbar-btn"><input id="toggle-plot-stats" type="checkbox" autocomplete="off" onclick="togglePlot('stats')"/>Framerate</label>
-      </div>
-    </div>
+    <ul class="nav navbar-nav navbar-right">
+      <li><span id="stats-fps-label" class="btn btn-danger btn-group-label navbar-btn">0.00 FPS</span></li>
+    </ul>
   </div>
 </div>
 
@@ -30,40 +25,46 @@
 </div>
 
 <div id="canvas-ui-bar-bottom" class="navbar navbar-inverse navbar-graphics navbar-graphics-bottom">
-  <div class="container-fluid">
+  <div class="container">
+    <ul class="nav navbar-nav navbar-left">
+      <li><span class="navbar-label"><i class="fa fa-lg fa-paper-plane-o"></i></span></li>
+    </ul>
 
-    <div class="navbar-left">
-      <div class="btn-group" data-toggle="buttons">
-        <span class="btn btn-primary btn-group-label navbar-btn"><i class="fa fa-map-o"></i></span>
-        <label class="btn btn-lit-info btn-lit navbar-btn active"><input type="radio" name="render-texture" value="0" checked/>Field</label>
-        <label class="btn btn-lit-info btn-lit navbar-btn"><input type="radio" name="render-texture" value="1"/>Gradient</label>
-        <label class="btn btn-lit-info btn-lit navbar-btn"><input type="radio" name="render-texture" value="2"/>RGBX</label>
-      </div>
-
-      <div class="btn-group" data-toggle="buttons">
-        <span class="btn btn-primary btn-group-label navbar-btn"><i class="fa fa-calculator"></i></span>
-        <label class="btn btn-lit-info btn-lit navbar-btn"><input id="fract-render-values" type="checkbox"/>Fract</label>
-        <label class="btn btn-lit-info btn-lit navbar-btn active"><input id="scale-render-values" type="checkbox" checked/>Sigmoid</label>
-        <label class="btn btn-lit-info btn-lit navbar-btn"><input id="render-magnitude" type="checkbox"/>Norm</label>
-      </div>
+    <div class="btn-group navbar-left" data-toggle="buttons">
+      <label class="btn btn-lit-info btn-lit navbar-btn"><input type="radio" name="physics-method" value="0"/>Brownian</label>
+      <label class="btn btn-lit-info btn-lit navbar-btn active"><input type="radio" name="physics-method" value="1" checked/>Splat</label>
+      <label class="btn btn-lit-info btn-lit navbar-btn"><input type="radio" name="physics-method" value="2"/>Gradient</label>
     </div>
 
-    <div class="navbar-right">
-      <div class="btn-group" data-toggle="buttons">
-        <span class="btn btn-primary btn-group-label navbar-btn"><i class="fa fa-paper-plane-o"></i></span>
-        <label class="btn btn-lit-info btn-lit navbar-btn"><input type="radio" name="physics-method" value="0"/>Brownian</label>
-        <label class="btn btn-lit-info btn-lit navbar-btn active"><input type="radio" name="physics-method" value="1" checked/>Splat</label>
-        <label class="btn btn-lit-info btn-lit navbar-btn"><input type="radio" name="physics-method" value="2"/>Gradient</label>
-      </div>
+    <ul class="nav navbar-nav navbar-left">
+      <li><span class="navbar-label"><i class="fa fa-lg fa-map"></i></span></li>
+    </ul>
+
+    <div class="btn-group navbar-left" data-toggle="buttons">
+      <label class="btn btn-lit-info btn-lit navbar-btn active"><input type="radio" name="render-texture" value="0" checked/>Field</label>
+      <label class="btn btn-lit-info btn-lit navbar-btn"><input type="radio" name="render-texture" value="1"/>Gradient</label>
+      <label class="btn btn-lit-info btn-lit navbar-btn"><input type="radio" name="render-texture" value="2"/>RGBX</label>
+    </div>
+
+    <ul class="nav navbar-nav navbar-left">
+      <li><span class="navbar-label"><i class="fa fa-lg fa-calculator"></i></span></li>
+    </ul>
+
+    <div class="btn-group navbar-left" data-toggle="buttons">
+      <label class="btn btn-lit-info btn-lit navbar-btn"><input id="fract-render-values" type="checkbox"/>Fract</label>
+      <label class="btn btn-lit-info btn-lit navbar-btn active"><input id="scale-render-values" type="checkbox" checked/>Sigmoid</label>
+      <label class="btn btn-lit-info btn-lit navbar-btn"><input id="render-magnitude" type="checkbox"/>Norm</label>
+    </div>
+
+    <div class="btn-group navbar-right">
+      <button id="btn-play-pause" class="btn btn-primary navbar-btn" onclick="togglePause()"><i class="fa fa-lg fa-pause"></i></button>
+      <button id="btn-reset" class="btn btn-primary navbar-btn" onclick="clickedResetParticles()" disabled><i class="fa fa-lg fa-refresh"></i></button>
+      <button id="btn-activate-mic" class="btn btn-primary navbar-btn" onclick="activateMic()"><i class="fa fa-lg fa-microphone"></i></button>
     </div>
   </div>
 </div>
 
-<div class="container-fluid">
-  <input id="scale-force-to-space" type="checkbox" class="checkbox-inline"/>&nbsp;Scale Force to Space
-  <input id="circular-field-effect" type="checkbox" class="checkbox-inline" checked/>&nbsp;Circular Field
-  <input id="defer-gradient-calc" type="checkbox" class="checkbox-inline"/>&nbsp;Defer Gradient Calculation
-
+<div class="container">
   <div class="row">
     <div class="col-sm-6">
       <label for="particle-count">Particle Count:</label>
@@ -83,13 +84,17 @@
 
       <label for="max-field-lines">Clamp Field Lines:</label>
       <input id="max-field-lines" type="range" min="0.0" max="10.0" step="1.0" value="1.0"/>
+
+      <input id="scale-force-to-space" type="checkbox" class="checkbox-inline"/>&nbsp;Scale Force to Space
+      <input id="circular-field-effect" type="checkbox" class="checkbox-inline" checked/>&nbsp;Circular Field
+      <input id="defer-gradient-calc" type="checkbox" class="checkbox-inline"/>&nbsp;Defer Gradient Calculation
     </div>
 
     <div class="col-sm-6">
       <div class="panel panel-default">
         <div class="panel-body">
           <label for="audio-color-shift-gain">Gain</label>
-          <input id="audio-color-shift-gain" type="range" min="0.25" max="5.0" step="0.01" value="1.0"/>
+          <input id="audio-color-shift-gain" type="range" min="0.01" max="5.0" step="0.01" value="1.0"/>
 
           <div><input id="audio-color-shift-enabled" type="checkbox"/>&nbsp;Enable Audio Color Shift</div>
 

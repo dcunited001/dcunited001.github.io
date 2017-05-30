@@ -11,9 +11,14 @@ graphics_ui_layout: "graphics/2017-05-23-particles-in-2d-with-vector-calculus.ht
 
 ### TODO:
 
+- correct FPS
 - Reset Button & Defaults Button
 - add sliders to allow particles to move offscreen (which won't work with gradient physics)
   - option to sync these sliders to audio
+
+- correct force splatting (only n particles are rendered, but they each calculate forces with all
+  particles regardless of whether they're rendered)
+  - https://www.khronos.org/opengl/wiki/Uniform_Buffer_Object
 
 - aggregate for momentum (p & ∂p)
 - aggregate for force (F & ∂F)
@@ -38,7 +43,6 @@ graphics_ui_layout: "graphics/2017-05-23-particles-in-2d-with-vector-calculus.ht
 - replace particle-speed slider with particle-mass
 - figure out mass/energy/momentum/speed, the order of each calculation, etc
 
-- add UI options for rendering the field & its gradients in various ways
 - automatically scale values from rForce texture based on particle density and expected range of values
 - the rForce texture values (correctly) are not 0.0 to 1.0. they are the sum of components from particles.
 
@@ -194,6 +198,7 @@ void main() {
 uniform vec2 u_resolution;
 uniform ivec2 u_particleUv;
 uniform float u_rCoefficient;
+uniform int u_particleIdLimit;
 
 uniform sampler2D s_particles;
 
@@ -208,6 +213,10 @@ vec2 calcForce(vec2 r, vec2 r2) {
 
 void main() {
   ivec2 uv = ivec2(trunc(gl_FragCoord));
+
+  // TODO: fix indexing
+  //if (uv.v * uv.u + uv.u > u_particleIdLimit) { discard; }
+  if (uv.x * uv.y + uv.x > u_particleIdLimit) { discard; }
   if (uv == u_particleUv) { discard; }
 
   vec4 accumulatorParticle = texelFetch(s_particles, uv, 0);
