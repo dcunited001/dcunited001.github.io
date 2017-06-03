@@ -876,60 +876,43 @@ function runWebGL() {
     's_repelFieldGradient'
   ]);
 
+  var mipReducerMomentumSum = new MipReducerAttachment({
+    id: 'MomentumSum',
+    defaultValue: vec4.fromValues(0.0,0.0,0.0,0.0),
+    internalFormat: gl.RGBA32F,
+    init:
+    "${texels}[0].z = distance(${texels}[0].xy, vec2(0.0,0.0));\n" +
+    "${texels}[1].z = distance(${texels}[1].xy, vec2(0.0,0.0));\n" +
+    "${texels}[2].z = distance(${texels}[2].xy, vec2(0.0,0.0));\n" +
+    "${texels}[3].z = distance(${texels}[3].xy, vec2(0.0,0.0));\n",
+    calc:
+    "vec2 momentumSum = vec2(${texels}[0].xy + ${texels}[1].xy + ${texels}[2].xy + ${texels}[3].xy);\n" +
+    "float momentumNormSum = ${texels}[0].z + ${texels}[1].z + ${texels}[2].z + ${texels}[3].z; \n",
+    write: "vec4(momentumSum.xy, momentumNormSum, 0.0);"
+  });
+
+  var mipReducerMomentumMinMax = new MipReducerAttachment({
+    id: 'MomentumMinMax',
+    defaultValue: vec4.fromValues(Number.MAX_VALUE, Number.MIN_VALUE, 0.0, 0.0),
+    internalFormat: gl.RGBA32F,
+    init:
+    "${texels}[0].xy = vec2(distance(${texels}[0].xy, vec2(0.0,0.0)), distance(${texels}[0].xy, vec2(0.0,0.0)));\n" +
+    "${texels}[1].xy = vec2(distance(${texels}[1].xy, vec2(0.0,0.0)), distance(${texels}[1].xy, vec2(0.0,0.0)));\n" +
+    "${texels}[2].xy = vec2(distance(${texels}[2].xy, vec2(0.0,0.0)), distance(${texels}[2].xy, vec2(0.0,0.0)));\n" +
+    "${texels}[3].xy = vec2(distance(${texels}[3].xy, vec2(0.0,0.0)), distance(${texels}[3].xy, vec2(0.0,0.0)));\n",
+    write: "vec4(min(min(min(${texels}[0].x,${texels}[1].x),${texels}[2].x),${texels}[3].x), \n" +
+    "max(max(max(${texels}[0].y,${texels}[1].y),${texels}[2].y),${texels}[3].y), \n" +
+    "0.0,0.0);"
+  });
+
   var mipReducer = new MipReducer(particleResolution, [
-    {
-      id: 'MomentumSum',
-      defaultValue: vec4.fromValues(0.0,0.0,0.0,0.0),
-      internalFormat: gl.RGBA32F,
-      calc: "vec2 momentumSum = vec2(${texels}[0].xy + ${texels}[1].xy + ${texels}[2].xy + ${texels}[3].xy);\n" +
-        "float momentumNormSum = \n" +
-        "distance(${texels}[0].xy, vec2(0.0,0.0)) + \n" +
-        "distance(${texels}[1].xy, vec2(0.0,0.0)) + \n" +
-        "distance(${texels}[2].xy, vec2(0.0,0.0)) + \n" +
-        "distance(${texels}[3].xy, vec2(0.0,0.0));",
-      write: "vec4(momentumSum.xy, momentumNormSum, 0.0);"
-    },
-    {
-      id: 'MomentumMinMax',
-      defaultValue: vec4.fromValues(Number.NEGATIVE_INFINITY, Number.POSITIVE_INFINITY, 0.0, 0.0),
-      internalFormat: gl.RGBA32F,
-      calc: "if (u_mipmapLevel == 0) {" +
-        "${texels}[0].xy = vec2(distance(${texels}[0].xy, vec2(0.0,0.0)), distance(${texels}[0].xy, vec2(0.0,0.0)));" +
-        "${texels}[1].xy = vec2(distance(${texels}[1].xy, vec2(0.0,0.0)), distance(${texels}[1].xy, vec2(0.0,0.0)));" +
-        "${texels}[2].xy = vec2(distance(${texels}[2].xy, vec2(0.0,0.0)), distance(${texels}[2].xy, vec2(0.0,0.0)));" +
-        "${texels}[3].xy = vec2(distance(${texels}[3].xy, vec2(0.0,0.0)), distance(${texels}[3].xy, vec2(0.0,0.0)));" +
-      "}",
-      write: "vec4(min(min(min(${texels}[0].x,${texels}[1].x),${texels}[2].x),${texels}[3].x), \n" +
-      "min(min(min(${texels}[0].y,${texels}[1].y),${texels}[2].y),${texels}[3].y), \n" +
-      "0.0,0.0);"
-    }//,
-    //{
-    //  id: 'ForceSum',
-    //  defaultValue: vec4.fromValues(0.0,0.0,0.0,0.0),
-    //  internalFormat: gl.RGBA32F,
-    //  calc: "vec2 forceSum = vec2(${texels}[0].xy + ${texels}[1].xy + ${texels}[2].xy + ${texels}[3].xy);\n" +
-    //  "float forceNormSum = \n" +
-    //  "distance(${texels}[0].xy, vec2(0.0,0.0)) + \n" +
-    //  "distance(${texels}[1].xy, vec2(0.0,0.0)) + \n" +
-    //  "distance(${texels}[2].xy, vec2(0.0,0.0)) + \n" +
-    //  "distance(${texels}[3].xy, vec2(0.0,0.0));",
-    //  write: "vec4(forceSum.xy, forceNormSum, 0.0);"
-    //},
-    //{
-    //  id: 'ForceMinMax',
-    //  defaultValue: vec4.fromValues(Number.NEGATIVE_INFINITY, Number.POSITIVE_INFINITY, 0.0, 0.0),
-    //  internalFormat: gl.RGBA32F,
-    //  calc: "if (u_mipmapLevel == 0) {" +
-    //  "${texels}[0].xy = vec2(distance(${texels}[0].xy, vec2(0.0,0.0)), distance(${texels}[0].xy, vec2(0.0,0.0)));" +
-    //  "${texels}[1].xy = vec2(distance(${texels}[1].xy, vec2(0.0,0.0)), distance(${texels}[1].xy, vec2(0.0,0.0)));" +
-    //  "${texels}[2].xy = vec2(distance(${texels}[2].xy, vec2(0.0,0.0)), distance(${texels}[2].xy, vec2(0.0,0.0)));" +
-    //  "${texels}[3].xy = vec2(distance(${texels}[3].xy, vec2(0.0,0.0)), distance(${texels}[3].xy, vec2(0.0,0.0)));" +
-    //  "}",
-    //  write: "vec4(min(min(min(${texels}[0].x,${texels}[1].x),${texels}[2].x),${texels}[3].x), \n" +
-    //  "min(min(min(${texels}[0].y,${texels}[1].y),${texels}[2].y),${texels}[3].y), \n" +
-    //  "0.0,0.0);"
-    //}
-  ]);
+    mipReducerMomentumSum,
+    mipReducerMomentumMinMax //,
+  ], {
+    uniforms: {
+      'u_particleCount': 'int'
+    }
+  });
 
   mipReducer.configure(gl, {});
 
@@ -1039,8 +1022,8 @@ function runWebGL() {
         transformProgram: programLinePlotTransform,
         lineColor: bsPrimary,
         lineWidth: 10,
-        max: { value: 1, dynamic: true },
-        min: { value: 0, dynamic: true }
+        max: { value: 1, dynamic: true, expiresAfter: 500 },
+        min: { value: 0, dynamic: true, expiresAfter: 500 }
       }),
       enabled: false,
       buttonClass: 'btn btn-info navbar-btn',
@@ -1051,8 +1034,8 @@ function runWebGL() {
         transformProgram: programLinePlotTransform,
         lineColor: bsSuccess,
         lineWidth: 10,
-        max: { value: 1, dynamic: true },
-        min: { value: 0, dynamic: true }
+        max: { value: 1, dynamic: true, expiresAfter: 500 },
+        min: { value: 0, dynamic: true, expiresAfter: 500 }
       }),
       enabled: false,
       buttonClass: 'btn btn-success navbar-btn',
@@ -1063,8 +1046,8 @@ function runWebGL() {
         transformProgram: programLinePlotTransform,
         lineColor: bsDanger,
         lineWidth: 10,
-        max: { value: 1, dynamic: true },
-        min: { value: 0, dynamic: true }
+        max: { value: 1, dynamic: true, expiresAfter: 500 },
+        min: { value: 0, dynamic: false, expiresAfter: 500 }
       }),
       enabled: false,
       buttonClass: 'btn btn-danger navbar-btn',
@@ -1311,13 +1294,6 @@ function renderDebugTexture(pixels) {
     }
     gradientPonger.increment();
 
-    //if (createDebugTexture) {
-    //  gl.bindFramebuffer(gl.READ_FRAMEBUFFER, fieldPonger.getCurrentFbo());
-    //  gl.readBuffer(gl.COLOR_ATTACHMENT0);
-    //  gl.readPixels(0, 0, renderResolution[0], renderResolution[1], gl.RGBA, gl.FLOAT, debugPixels);
-    //  renderDebugTexture(debugPixels);
-    //}
-
     var renderFieldsUniforms = {
       resolution: renderResolution,
       rCoefficient: rCoefficient,
@@ -1347,11 +1323,13 @@ function renderDebugTexture(pixels) {
         // - https://en.wikipedia.org/wiki/Thermal_velocity
         // - then plot the scalar thermal velocity value from the simulation into a D3 chart
 
-        mipReducer.reduce(gl, {}, {
+        var reducedAggregates = mipReducer.reduce(gl, {}, {
           MomentumSum: particlePonger.getCurrent('particles'),
           MomentumMinMax: particlePonger.getCurrent('particles'),
           quad: anyQuad
         });
+
+        var averageMomentum = reducedAggregates['MomentumSum'][2];
 
         var estimatedFps = frameCounter.canCalcFps()
           ? frameCounter.getFps(currentTime, framecount)
@@ -1359,7 +1337,7 @@ function renderDebugTexture(pixels) {
 
         document.getElementById('stats-fps-label').innerText = `${estimatedFps.toFixed(2)} FPS`;
 
-        linePlots['momentum'].plot.push([simulationTime, Math.random()/2]);
+        linePlots['momentum'].plot.push([simulationTime, averageMomentum]);
         linePlots['force'].plot.push([simulationTime, Math.random()/2]);
         linePlots['fps'].plot.push([simulationTime, estimatedFps]);
       }
@@ -1384,7 +1362,6 @@ function renderDebugTexture(pixels) {
   }
 
   render();
-
 }
 
 var createDebugTexture = false;
