@@ -641,6 +641,7 @@ function runWebGL() {
       context.uniform1f(rpParticles.uniformLocations.u_particleSpeed, uniforms.particleSpeed);
       context.uniform4fv(rpParticles.uniformLocations.u_deltaTime, uniforms.deltaTime);
       context.uniform1i(rpParticles.uniformLocations.u_physicsMethod, uniforms.physicsMethod);
+      context.uniform1i(rpParticles.uniformLocations.u_spaceType, uniforms.spaceType);
       context.uniform1i(rpParticles.uniformLocations.s_particleRandoms, 0);
       context.uniform1i(rpParticles.uniformLocations.s_particles, 1);
       context.uniform1i(rpParticles.uniformLocations.s_particleMomentums, 2);
@@ -681,6 +682,7 @@ function runWebGL() {
     'u_particleSpeed',
     'u_deltaTime',
     'u_physicsMethod',
+    'u_spaceType',
     's_particleRandoms',
     's_particles',
     's_particleMomentums',
@@ -1063,10 +1065,16 @@ function runWebGL() {
   var renderTexture, physicsMethod;
   var paused = false;
 
-  var physicsMethods ={
+  var physicsMethods = {
     brownian: 0,
     splat: 1,
     gradient: 2
+  };
+
+  var spaceType = 0;
+  var spaceTypes = {
+    wrapped: 0,
+    infinite: 1
   };
 
   var deferGradientCalc, fractRenderValues, renderMagnitude, circularFieldEffect, forceCalcInGlPointSpace, scaleRenderValues;
@@ -1107,6 +1115,8 @@ function runWebGL() {
     var physicsMethodRadios = document.getElementsByName('physics-method');
     physicsMethod = [0,1,2].reduce((a,i) => physicsMethodRadios[i].checked ? i : a, 0);
 
+    spaceType = document.getElementById('space-type').checked ? spaceTypes.infinite : spaceTypes.wrapped;
+
     for (var k of Object.keys(linePlots)) {
       linePlots[k].enabled = document.getElementById(`toggle-plot-${k}`).checked;
     }
@@ -1130,44 +1140,7 @@ function runWebGL() {
   gl.clearColor(0.0, 0.0, 0.0, 1.0);
   gl.clear(gl.COLOR_BUFFER_BIT);
 
-  var framecount = 0, lastFps = 1;
-
-  class FrameCounter {
-    constructor(framesPerRecord, maxRecords, starttime) {
-      this._data = [[starttime, 0]];
-      this._maxRecords = maxRecords;
-      this._framecount = 0;
-      this._framesPerRecord = framesPerRecord;
-      this._current = 0;
-    }
-    currentRecord() {
-      return this._data[this._current];
-    }
-    pushTime(t, dt, fcount) {
-      this.increment();
-      if (this._data.length < this._maxRecords) {
-        this._data.push([t, dt]);
-      } else {
-        this._data[this._current] = [t, dt];
-      }
-      this._framecount = fcount;
-    }
-    increment() {
-      this._current = (this._current + 1) % this._maxRecords;
-    }
-    getFps(timeNow, nframes) {
-      var lastT = this._data[this._current][0];
-      var sumTime = this._data.reduce((acc, ft) => acc + ft[1], 0)/1000;
-      var timeSince = (timeNow - lastT)/1000;
-      var totalFrames = (this._framesPerRecord * this._data.length) + (nframes - this._framecount);
-
-      var timePerFrame = (sumTime + timeSince) / totalFrames;
-      return 1 / timePerFrame;
-    }
-    canCalcFps() {
-      return (this._data.length > 0)
-    }
-  }
+  var framecount = 0;
 
   var startTime = Date.now(),
     currentTime = startTime,
@@ -1210,16 +1183,9 @@ function renderDebugTexture(pixels) {
 // Render Loop
 // =======================================
 
-  var frameCounter = new FrameCounter(10, 4, currentTime);
-
   function render() {
     framecount++;
     updateTime();
-
-    if (framecount % frameCounter._framesPerRecord) {
-      var lastRecord = frameCounter.currentRecord();
-      frameCounter.pushTime(currentTime, currentTime - lastRecord[0], framecount);
-    }
 
     deltaT = updateDeltaT(deltaT, lastFrameTime);
     uiControlUpdate();
@@ -1245,7 +1211,8 @@ function renderDebugTexture(pixels) {
         randomSeed: makeIntRandomUniforms(),
         particleSpeed: particleSpeed,
         deltaTime: deltaT,
-        physicsMethod: physicsMethod
+        physicsMethod: physicsMethod,
+        spaceType: spaceType
       };
 
       rpParticles.encode(gl, particleUniforms, {
@@ -1318,28 +1285,20 @@ function renderDebugTexture(pixels) {
     if (!paused) {
       if (simulationTime - lastAggregateTime > 100) {
 
-        // TODO: mipmap aggregate on particle texture:
-        // - sum aggregate instantaneous velocities to measure a 'temperature'
-        // - https://en.wikipedia.org/wiki/Thermal_velocity
-        // - then plot the scalar thermal velocity value from the simulation into a D3 chart
-
         var reducedAggregates = mipReducer.reduce(gl, {}, {
           MomentumSum: particlePonger.getCurrent('particles'),
           MomentumMinMax: particlePonger.getCurrent('particles'),
           quad: anyQuad
         });
 
+        var instantaneousFps = 1000 / deltaT[0];
         var averageMomentum = reducedAggregates['MomentumSum'][2];
 
-        var estimatedFps = frameCounter.canCalcFps()
-          ? frameCounter.getFps(currentTime, framecount)
-          : (framecount / (simulationTime / 1000));
-
-        document.getElementById('stats-fps-label').innerText = `${estimatedFps.toFixed(2)} FPS`;
+        document.getElementById('stats-fps-label').innerText = `${instantaneousFps.toFixed(2)} FPS`;
 
         linePlots['momentum'].plot.push([simulationTime, averageMomentum]);
         linePlots['force'].plot.push([simulationTime, Math.random()/2]);
-        linePlots['fps'].plot.push([simulationTime, estimatedFps]);
+        linePlots['fps'].plot.push([simulationTime, instantaneousFps]);
       }
     }
 

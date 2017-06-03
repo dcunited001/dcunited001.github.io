@@ -11,7 +11,6 @@ graphics_ui_layout: "graphics/2017-05-23-particles-in-2d-with-vector-calculus.ht
 
 ### TODO:
 
-- correct FPS
 - Reset Button & Defaults Button
 - add sliders to allow particles to move offscreen (which won't work with gradient physics)
   - option to sync these sliders to audio
@@ -28,16 +27,6 @@ graphics_ui_layout: "graphics/2017-05-23-particles-in-2d-with-vector-calculus.ht
 
 - change force splatting to use drawArraysInstanced
   - i need to figure out how to get the particle id in without having to set a uniform
-
-- fix break in the lineplot
-  - this happens when _currentIndex=0
-  - hard to fix this while drawing triangle strips
-
-- balance rCoefficient with particle count
-- either this or add correction for thermal velocity
-- when thermal velocity is too high, set uniform to scale down particleMomentums values
-
-- add parameter presets
 
 - how to fix problems introduced by particles wrapping to the other side
 
@@ -232,6 +221,7 @@ uniform vec2 u_resolution;
 uniform ivec4 u_randomSeed;
 uniform float u_particleSpeed;
 uniform vec4 u_deltaTime;
+uniform int u_spaceType;
 uniform int u_physicsMethod;
 
 uniform isampler2D s_particleRandoms;
@@ -244,6 +234,9 @@ uniform sampler2D s_particleForces;
 #define physicsMethodBrownian 0
 #define physicsMethodSplat 1
 #define physicsMethodGradient 2
+
+#define spaceTypeWrapped 0
+#define spaceTypeInfinite 1
 
 in vec2 v_st;
 in vec3 v_position;
@@ -317,8 +310,16 @@ void main() {
   particleMomentums.xy += netForce * u_deltaTime.x / 1000.0;
   vec2 particleUpdate = u_particleSpeed * particleMomentums.xy * u_deltaTime.x / 1000.0;
 
-  particle.x = mod(particle.x + particleUpdate.x + 1.0, 2.0) - 1.0;
-  particle.y = mod(particle.y + particleUpdate.y + 1.0, 2.0) - 1.0;
+  switch (u_spaceType) {
+    case spaceTypeWrapped:
+      particle.x = mod(particle.x + particleUpdate.x + 1.0, 2.0) - 1.0;
+      particle.y = mod(particle.y + particleUpdate.y + 1.0, 2.0) - 1.0;
+      break;
+    case spaceTypeInfinite:
+      particle.x = particle.x + particleUpdate.x;
+      particle.x = particle.x + particleUpdate.x;
+      break;
+  }
 }
 </script>
 

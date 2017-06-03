@@ -353,15 +353,22 @@ class MipReducer {
     context.blendFunc(context.ONE, context.ZERO);
 
     context.uniform1i(this._uniformLocations.u_iteration, iteration);
+    var readOffset, readSize;
     if (iteration == -1) {
-      context.uniform2iv(this._uniformLocations.u_readOffset, vec2.fromValues(0,0));
-      context.uniform2iv(this._uniformLocations.u_readSize, this._resolution);
+      readOffset = [0,0];
+      readSize = [this._resolution[0], this._resolution[1]];
     } else {
-      context.uniform2iv(this._uniformLocations.u_readOffset, this._mipmaps[iteration].pos);
-      context.uniform2iv(this._uniformLocations.u_readSize, this._mipmaps[iteration].res);
+      readOffset = [this._mipmaps[iteration].pos[0], this._mipmaps[iteration].pos[1]];
+      readSize = [this._mipmaps[iteration].res[0], this._mipmaps[iteration].res[1]];
     }
-    context.uniform2iv(this._uniformLocations.u_writeOffset, this._mipmaps[iteration+1].pos);
-    context.uniform2iv(this._uniformLocations.u_writeSize, this._mipmaps[iteration+1].res);
+    // chrome doesn't allow uniform2iv to be submitted with Float32Array =/
+    context.uniform2iv(this._uniformLocations.u_readOffset, readOffset);
+    context.uniform2iv(this._uniformLocations.u_readSize, readSize);
+
+    var writeOffset = [this._mipmaps[iteration+1].pos[0],  this._mipmaps[iteration+1].pos[1]];
+    var writeSize = [this._mipmaps[iteration+1].res[0],  this._mipmaps[iteration+1].res[1]];
+    context.uniform2iv(this._uniformLocations.u_writeOffset, writeOffset);
+    context.uniform2iv(this._uniformLocations.u_writeSize, writeSize);
 
     context.viewport(
       this._mipmaps[iteration+1].pos[0],

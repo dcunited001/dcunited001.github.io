@@ -124,15 +124,7 @@ class LinePlot {
     if (options.encodeDraw) {
       options.encodeDraw(context,this);
     } else {
-      //if (this._rolling || this._currentIndex == 0) {
-        context.drawArrays(context.TRIANGLE_STRIP, 0, this._currentIndex * 2);
-
-         //vvv "Bound vertex attribute buffers do not have sufficient size for given first and count."
-        context.drawArrays(context.TRIANGLE_STRIP, (this._currentIndex + 1) * 2, (this._size - this._currentIndex - 1) * 2);
-      //} else {
-      //  context.drawArrays(context.TRIANGLE_STRIP, 0, this.size * 2);
-      //}
-      //context.drawArraysInstanced(context.TRIANGLE_STRIP, 0, this._size * 2, 1);
+      context.drawArrays(context.TRIANGLE_STRIP, 0, this._size * 2);
     }
 
     if (options.afterEncode) {
@@ -224,7 +216,13 @@ class LinePlot {
 
   writeBuffers(context) {
     context.bindBuffer(context.ARRAY_BUFFER, this._buffers.pos);
-    context.bufferData(context.ARRAY_BUFFER, this._pos, context.STATIC_DRAW);
+
+    // rearrange the circular buffer so it can be drawn with triangle strips
+    var posCopy = new Float32Array(this._size * 2);
+    posCopy.set(this._pos.subarray((this._currentIndex + 1) * 2, this._size * 2), 0);
+    posCopy.set(this._pos.subarray(0, (this._currentIndex + 1) * 2), (this._size - this._currentIndex - 1) * 2);
+    context.bufferData(context.ARRAY_BUFFER, posCopy, context.STATIC_DRAW);
+
     context.bindBuffer(context.ARRAY_BUFFER, null);
   }
 
