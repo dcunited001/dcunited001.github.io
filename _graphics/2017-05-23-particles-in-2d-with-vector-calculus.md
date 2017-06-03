@@ -15,6 +15,7 @@ graphics_ui_layout: "graphics/2017-05-23-particles-in-2d-with-vector-calculus.ht
 - Reset Button & Defaults Button
 - add sliders to allow particles to move offscreen (which won't work with gradient physics)
   - option to sync these sliders to audio
+- option to correct force splatting calculation for the wrapped space
 
 - correct force splatting (only n particles are rendered, but they each calculate forces with all
   particles regardless of whether they're rendered)
@@ -597,6 +598,7 @@ void main() {
 
 <script type="text/javascript" src="/js/3d/utils/quad.js"></script>
 <script type="text/javascript" src="/js/3d/utils/line_plot.js"></script>
+<script type="text/javascript" src="/js/3d/utils/mip-reducer.js"></script>
 <script type="text/javascript" src="/js/3d/2017-05-23-particles-in-2d-with-vector-calculus.es6.js"></script>
 
 <script type="text/javascript">

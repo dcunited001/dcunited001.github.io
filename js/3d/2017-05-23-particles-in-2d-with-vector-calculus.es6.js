@@ -508,6 +508,7 @@ function runWebGL() {
   particlePonger.registerTextures('particleRandoms', particleRandomsAttachments);
   particlePonger.registerTextures('particles', particleAttachments);
   particlePonger.registerTextures('particleMomentums', particleMomentums);
+  //particlePonger.registerTextures('particleForces', particleForces);
 
   var particleFboConfig = {
     particleRandoms: {
@@ -518,7 +519,10 @@ function runWebGL() {
     },
     particleMomentums: {
       colorAttachment: gl.COLOR_ATTACHMENT2
-    }
+    } //,
+    //particleForces: {
+    //  colorAttachment: gl.COLOR_ATTACHMENT3
+    //}
   };
 
   particlePonger.initFramebuffers(gl, particleFboConfig);
@@ -871,6 +875,63 @@ function runWebGL() {
     's_repelField',
     's_repelFieldGradient'
   ]);
+
+  var mipReducer = new MipReducer(particleResolution, [
+    {
+      id: 'MomentumSum',
+      defaultValue: vec4.fromValues(0.0,0.0,0.0,0.0),
+      internalFormat: gl.RGBA32F,
+      calc: "vec2 momentumSum = vec2(${texels}[0].xy + ${texels}[1].xy + ${texels}[2].xy + ${texels}[3].xy);\n" +
+        "float momentumNormSum = \n" +
+        "distance(${texels}[0].xy, vec2(0.0,0.0)) + \n" +
+        "distance(${texels}[1].xy, vec2(0.0,0.0)) + \n" +
+        "distance(${texels}[2].xy, vec2(0.0,0.0)) + \n" +
+        "distance(${texels}[3].xy, vec2(0.0,0.0));",
+      write: "vec4(momentumSum.xy, momentumNormSum, 0.0);"
+    },
+    {
+      id: 'MomentumMinMax',
+      defaultValue: vec4.fromValues(Number.NEGATIVE_INFINITY, Number.POSITIVE_INFINITY, 0.0, 0.0),
+      internalFormat: gl.RGBA32F,
+      calc: "if (u_mipmapLevel == 0) {" +
+        "${texels}[0].xy = vec2(distance(${texels}[0].xy, vec2(0.0,0.0)), distance(${texels}[0].xy, vec2(0.0,0.0)));" +
+        "${texels}[1].xy = vec2(distance(${texels}[1].xy, vec2(0.0,0.0)), distance(${texels}[1].xy, vec2(0.0,0.0)));" +
+        "${texels}[2].xy = vec2(distance(${texels}[2].xy, vec2(0.0,0.0)), distance(${texels}[2].xy, vec2(0.0,0.0)));" +
+        "${texels}[3].xy = vec2(distance(${texels}[3].xy, vec2(0.0,0.0)), distance(${texels}[3].xy, vec2(0.0,0.0)));" +
+      "}",
+      write: "vec4(min(min(min(${texels}[0].x,${texels}[1].x),${texels}[2].x),${texels}[3].x), \n" +
+      "min(min(min(${texels}[0].y,${texels}[1].y),${texels}[2].y),${texels}[3].y), \n" +
+      "0.0,0.0);"
+    }//,
+    //{
+    //  id: 'ForceSum',
+    //  defaultValue: vec4.fromValues(0.0,0.0,0.0,0.0),
+    //  internalFormat: gl.RGBA32F,
+    //  calc: "vec2 forceSum = vec2(${texels}[0].xy + ${texels}[1].xy + ${texels}[2].xy + ${texels}[3].xy);\n" +
+    //  "float forceNormSum = \n" +
+    //  "distance(${texels}[0].xy, vec2(0.0,0.0)) + \n" +
+    //  "distance(${texels}[1].xy, vec2(0.0,0.0)) + \n" +
+    //  "distance(${texels}[2].xy, vec2(0.0,0.0)) + \n" +
+    //  "distance(${texels}[3].xy, vec2(0.0,0.0));",
+    //  write: "vec4(forceSum.xy, forceNormSum, 0.0);"
+    //},
+    //{
+    //  id: 'ForceMinMax',
+    //  defaultValue: vec4.fromValues(Number.NEGATIVE_INFINITY, Number.POSITIVE_INFINITY, 0.0, 0.0),
+    //  internalFormat: gl.RGBA32F,
+    //  calc: "if (u_mipmapLevel == 0) {" +
+    //  "${texels}[0].xy = vec2(distance(${texels}[0].xy, vec2(0.0,0.0)), distance(${texels}[0].xy, vec2(0.0,0.0)));" +
+    //  "${texels}[1].xy = vec2(distance(${texels}[1].xy, vec2(0.0,0.0)), distance(${texels}[1].xy, vec2(0.0,0.0)));" +
+    //  "${texels}[2].xy = vec2(distance(${texels}[2].xy, vec2(0.0,0.0)), distance(${texels}[2].xy, vec2(0.0,0.0)));" +
+    //  "${texels}[3].xy = vec2(distance(${texels}[3].xy, vec2(0.0,0.0)), distance(${texels}[3].xy, vec2(0.0,0.0)));" +
+    //  "}",
+    //  write: "vec4(min(min(min(${texels}[0].x,${texels}[1].x),${texels}[2].x),${texels}[3].x), \n" +
+    //  "min(min(min(${texels}[0].y,${texels}[1].y),${texels}[2].y),${texels}[3].y), \n" +
+    //  "0.0,0.0);"
+    //}
+  ]);
+
+  mipReducer.configure(gl, {});
 
 // =======================================
 // Web Audio
@@ -1286,6 +1347,12 @@ function renderDebugTexture(pixels) {
         // - https://en.wikipedia.org/wiki/Thermal_velocity
         // - then plot the scalar thermal velocity value from the simulation into a D3 chart
 
+        mipReducer.reduce(gl, {}, {
+          MomentumSum: particlePonger.getCurrent('particles'),
+          MomentumMinMax: particlePonger.getCurrent('particles'),
+          quad: anyQuad
+        });
+
         var estimatedFps = frameCounter.canCalcFps()
           ? frameCounter.getFps(currentTime, framecount)
           : (framecount / (simulationTime / 1000));
@@ -1340,7 +1407,7 @@ function fixCanvasUIBar() {
 
 window.onload = function() {
   fixCanvasUIBar();
-  runWebGL();
+  //runWebGL();
 };
 
 //window.addEventListener('gliready', runWebGL());
