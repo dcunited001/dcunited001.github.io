@@ -13,8 +13,16 @@ class LinePlot {
     this._max = options.max || { value: 1, dynamic: false };
     this._min = options.min || { value: 0, dynamic: false };
 
-    if (this._max.dynamic) { this._max.index = 0; this._max.age = 0; }
-    if (this._min.dynamic) { this._min.index = 0; this._min.age = 0; }
+    if (this._max.dynamic) {
+      this._max.index = 0;
+      this._max.age = 0;
+      this._max.expiresAfter = options.max.expiresAfter || this._size;
+    }
+    if (this._min.dynamic) {
+      this._min.index = 0;
+      this._min.age = 0;
+      this._min.expiresAfter = options.min.expiresAfter || this._size;
+    }
 
     this._buffers = this.prepareBuffers(context, this._pos);
     this._vertexArray = this.prepareVertexArray(context, this._buffers);
@@ -140,8 +148,8 @@ class LinePlot {
     this.increment();
     this.setDataPoint(this._currentIndex, data);
 
-    this.updateMax();
-    this.updateMin();
+    this.updateMax(data[1]);
+    this.updateMin(data[1]);
   }
 
   updateMax(value) {
@@ -151,7 +159,7 @@ class LinePlot {
         this._max.index = this._currentIndex;
         this._max.age = 0;
       } else {
-        if (this._max.age > this._size) {
+        if (this._max.age > this._max.expiresAfter) {
           // find the new max & index
           var newMax = Number.NEGATIVE_INFINITY;
           var newAge = 0;
@@ -167,12 +175,9 @@ class LinePlot {
             }
           }
 
-          this._max = {
-            value: newMax,
-            age: newAge,
-            index: newIndex
-          }
-
+          this._max.value = newMax;
+          this._max.age = newAge;
+          this._max.index = newIndex;
         } else {
           this._max.age++;
         }
@@ -189,7 +194,7 @@ class LinePlot {
         this._min.index = this._currentIndex;
         this._min.age = 0;
       } else {
-        if (this._min.age > this._size) {
+        if (this._min.age > this._min.expiresAfter) {
           // find the new min & index
           var newMin = Number.POSITIVE_INFINITY;
           var newAge = 0;
@@ -205,12 +210,9 @@ class LinePlot {
             }
           }
 
-          this._min = {
-            value: newMin,
-            age: newAge,
-            index: newIndex
-          }
-
+          this._min.value = newMin;
+          this._min.age = newAge;
+          this._min.index = newIndex;
         } else {
           this._min.age++;
         }
