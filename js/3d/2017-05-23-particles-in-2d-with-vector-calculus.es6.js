@@ -1073,8 +1073,9 @@ function runWebGL() {
 
   var spaceType = 0;
   var spaceTypes = {
-    wrapped: 0,
-    infinite: 1
+    finite: 0,
+    wrapped: 1,
+    infinite: 2
   };
 
   var deferGradientCalc, fractRenderValues, renderMagnitude, circularFieldEffect, forceCalcInGlPointSpace, scaleRenderValues;
@@ -1115,7 +1116,8 @@ function runWebGL() {
     var physicsMethodRadios = document.getElementsByName('physics-method');
     physicsMethod = [0,1,2].reduce((a,i) => physicsMethodRadios[i].checked ? i : a, 0);
 
-    spaceType = document.getElementById('space-type').checked ? spaceTypes.infinite : spaceTypes.wrapped;
+    var spaceTypeRadios = document.getElementsByName('space-type');
+    spaceType = [0,1,2].reduce((a,i) => spaceTypeRadios[i].checked ? i : a, 0);
 
     for (var k of Object.keys(linePlots)) {
       linePlots[k].enabled = document.getElementById(`toggle-plot-${k}`).checked;
@@ -1131,6 +1133,18 @@ function runWebGL() {
     } else {
       pauseButton.innerHTML = '<i class="fa fa-lg fa-pause">'
     }
+  };
+
+  var configProfiles = [function() {
+    //
+  }, function() {
+    // Norm / Fract
+  }, function() {
+    // RGBX / Fract
+  }];
+
+  window.activateProfile = function(i) {
+    configProfiles[i]()
   };
 
   var anyQuad = new Quad(gl);
@@ -1294,7 +1308,7 @@ function renderDebugTexture(pixels) {
         var instantaneousFps = 1000 / deltaT[0];
         var averageMomentum = reducedAggregates['MomentumSum'][2];
 
-        document.getElementById('stats-fps-label').innerText = `${instantaneousFps.toFixed(2)} FPS`;
+        document.getElementById('stats-fps-label').innerText = `${Math.trunc(instantaneousFps)} FPS`;
 
         linePlots['momentum'].plot.push([simulationTime, averageMomentum]);
         linePlots['force'].plot.push([simulationTime, Math.random()/2]);

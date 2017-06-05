@@ -12,34 +12,17 @@ graphics_ui_layout: "graphics/2017-05-23-particles-in-2d-with-vector-calculus.ht
 ### TODO:
 
 - Reset Button & Defaults Button
-- add sliders to allow particles to move offscreen (which won't work with gradient physics)
-  - option to sync these sliders to audio
-- option to correct force splatting calculation for the wrapped space
-
-- correct force splatting (only n particles are rendered, but they each calculate forces with all
-  particles regardless of whether they're rendered)
-  - https://www.khronos.org/opengl/wiki/Uniform_Buffer_Object
+- fix finite space type
 
 - aggregate for momentum (p & ∂p)
 - aggregate for force (F & ∂F)
 
-- update getTransformationMatrix() to be more fluid
-
 - change force splatting to use drawArraysInstanced
   - i need to figure out how to get the particle id in without having to set a uniform
 
-- how to fix problems introduced by particles wrapping to the other side
-
 - replace particle-speed slider with particle-mass
-- figure out mass/energy/momentum/speed, the order of each calculation, etc
 
-- automatically scale values from rForce texture based on particle density and expected range of values
-- the rForce texture values (correctly) are not 0.0 to 1.0. they are the sum of components from particles.
 
-- option to display texture representing particle paths
-- write lines to another texture. use vertex transformation.
-- each particle has a color and leaves a trail representing it's path
-- when its motion is dependent on the gradient of the field
 
 ### Overview
 
@@ -235,8 +218,9 @@ uniform sampler2D s_particleForces;
 #define physicsMethodSplat 1
 #define physicsMethodGradient 2
 
-#define spaceTypeWrapped 0
-#define spaceTypeInfinite 1
+#define spaceTypeFinite 0
+#define spaceTypeWrapped 1
+#define spaceTypeInfinite 2
 
 in vec2 v_st;
 in vec3 v_position;
@@ -297,7 +281,6 @@ void main() {
         // TODO: update from gradient
       }
       break;
-
   }
 
   // =======================================
@@ -311,13 +294,17 @@ void main() {
   vec2 particleUpdate = u_particleSpeed * particleMomentums.xy * u_deltaTime.x / 1000.0;
 
   switch (u_spaceType) {
+    case spaceTypeFinite:
+      particle.x = particle.x + particleUpdate.x;
+      particle.y = particle.y + particleUpdate.y;
+      break;
     case spaceTypeWrapped:
       particle.x = mod(particle.x + particleUpdate.x + 1.0, 2.0) - 1.0;
       particle.y = mod(particle.y + particleUpdate.y + 1.0, 2.0) - 1.0;
       break;
     case spaceTypeInfinite:
       particle.x = particle.x + particleUpdate.x;
-      particle.x = particle.x + particleUpdate.x;
+      particle.y = particle.y + particleUpdate.y;
       break;
   }
 }
