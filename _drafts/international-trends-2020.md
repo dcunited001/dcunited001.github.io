@@ -468,3 +468,168 @@ bullshit.
     fair, simple and not government micromanagement of the economy.
     - that's not to say it's impossible or impractical, just that it's
       a challenge
+
+
+# Universal Basic Income
+
+> I'm not trying to win a popularity contest here.
+
+UBI is attractive because it appears to meet certain inevitable needs.
+Automation will eventually create sky-high unemployment rates, thereby
+triggering social unrest. However, the second and third order effects
+of UBI's implementation are catastrophic, so it is incredibly unwise
+to assume UBI to be an inevitable economic development. It is not the
+need for UBI that is exigent, but the need to handle unavoidably high
+rates of unemployment.
+
+
+Why do you hear so much from Silicon Valley entrepreneurs about UBI?
+Because they recognize the effects their products will unavoidably
+have on labor markets and are wise enough to position themselves in
+anticipation. Computational complexity of specific problems determines
+the degree to which automation affects the economy, as well as this
+trend's timing, pacing and completeness. Additionally, the
+availability and applicability of quantum computing causes a second
+major wave in the trend of automation.
+
+### The Employer of Last Resort
+
+The correct answer is an option for universal service. That is, the
+government becomes the employer of last resort. This solution avoids
+product-classification, artificial regulation of markets, the
+complexity of dual currency and all the resulting economic distortion.
+
+...
+
+
+### Product Classifications and Restriction of UBI Expenditures
+
+UBI turns into a big-government nightmare. It just doesn't work
+without classifying products as approved or restricted for UBI
+purchases. It also requires infrastructure for monitoring purchases
+and reprimanding abuses of UBI income. Without restricting UBI
+expenditures, there will be individuals and groups who will siphon
+away the liquidity.
+
+...
+
+### The Lobbyists Win
+
+What results? A massive incentive for government lobbying to
+reclassify products.
+
+### Regulation and the Vulnerability of Democracy to Subversion
+
+- regulatory frameworks can be manipulated via suggestion or outright
+  subversion, amplifying inefficiencies in tightly regulated markets
+- this leads to a less competitive domestic economy, compared to other
+  players in the global economy.
+  - manipulating regulatory rules and the institutions that create
+    them is a weapon in economic warfare. this weapon becomes more
+    powerful as the degree of amplification that second and third
+    order effects via regulatory rules have on markets.
+  - additionally, the number of regulatory rules needed in a UBI
+    system grows as the system evolves.
+
+### Pseudo-Barter Systems
+
+Because the range of products that can be purchased with UBI is vastly
+greater than with food stamps, an incentive for virtualize bartering
+emerges, where one trades approved products for unapproved products.
+
+### UBI, as it is implemented, is like a Dual Currency
+
+The system of product classifications essentially creates
+an economic system with two currencies. Instead of a simple dollar
+*for all debts, public and private*,
+
+# UBI is Catastrophic to Capitalism
+
+Capitalism essentially harnesses the same math behind machine learning
+to create evolutionary dynamics. These "reified maths" form the
+invisible hand that confers advantage to the best marketed, best
+formulated or best packaged products. Free market systems reduce
+inefficiencies in an economy, delivering more value to citizens
+domestically and making the economy more competitive globally.
+
+A poor implementation of UBI will trigger a collapse of capitalism.
+Captilism isn't capitalism at all when an authority artificially and
+severely restricts choice. This places enormous power in the hands of
+regulators in Washington and the lobbyists who court them. The
+regulators decide who wins and who loses in a market and they are
+inept at doing so. The scale of inefficiency increases which causes an
+aggregate increase in prices across all types of products, since any
+product on the economy has a list of component products. So, price
+increases are higher for the consumer because those products are
+higher up the food chain, so to speak.
+
+This dynamic creates a feedback loop between the mechanisms for
+estimating the amount of UBI required and the amplification that UBI
+regulation has on both product prices and market efficiency.
+
+
+
+### How Automation Affects the Labor Markets
+
+The perceived and actual ROI of employment roles depends on the degree
+to which each role's tasks can be automated. For roles involving a
+more complicated arrangement of tasks, the ability to completely
+automate that role is inherently diminished. The structuring of roles
+to task types changes as the labor markets evolve. Generally, if an
+employment role involves a simpler set of task types, that role can be
+automated away more quickly. If the set of task types is more complex,
+there is a greater need for General AI (AGI). For each task type, the
+complexity of the solutions nearly completely determines its potential
+to be automated.
+
+- 
+
+It's a common assumption, but mental labor is not safe. In fact, these
+are some of the easiest and most effective roles to automate. For
+roles involving mental labor, a trend will be to automate stages in
+the role's decision making process, exposing vital data points in a
+user interface. From there it's mostly thumbs up or thumbs down: the
+employee in the mental labor role makes decisions as data is presented
+to them. This essentially harnesses as
+[dimensionality reduction](https://en.wikipedia.org/wiki/Dimensionality_reduction),
+which is required for mitigating computational complexity in machine
+learning.
+
+With respect to dimensionality reduction, the curse of dimensionality
+is not kind to humanity in the age of automation, where it before
+allowed us to solve problems which would otherwise be intractible. For
+almost any task type, if the most complete analytical solution is
+intractible, there is almost certainly an efficient formulation
+involving clustering and dimensionality reduction. This forms the
+basis of a tractible analytical approximation to the original
+solution.
+
+> Groundhog Day: on February 2nd, a computer can either completely
+> process all the differential equations to predict the weather, or it
+> can watch and see whether Punxsutawney Phil returns to his hole.
+
+Of course, there is no actual connection between the two. But without
+needing to understanding the connection, a computer can identify
+seemingly uncorrelated variables which can be use to construct an
+approximate solution. The more data, the more accurately its
+construction of approximated solutions can be leveraged.
+
+What that common assumption fails to grasp is the computational
+capacity of the human brain, which still outpaces the sum of
+computational capacity from all supercomputers on Earth. While user
+interface for the human brain is weak and requires years of
+conditioning, someone in a mental labor is essentially performing many
+of the same tasks that computers would. The human brain is
+particularly good at identifying and correlating arbitrary data, which
+provide data-processing shortcuts to some solution.
+
+A task type that forms a major dependency of AI-driven businesses is
+in the data itself: data science, data processing infrastructure and
+user interface. In this way, task types like these will be needed at
+ever-increasing rates, but eventually, software, data-science and
+infrastructure can all be automated. If someone lacks the equivalent
+of a master's degree in either math or a field where math is strongly
+applied, they are unlikely to be useful for data-science.
+
+- The labor markets favor those with highly varied skill sets
+
