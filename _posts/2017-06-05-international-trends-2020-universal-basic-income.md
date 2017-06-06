@@ -18,24 +18,47 @@ to assume UBI to be an inevitable economic development. It is not the
 need for UBI that is exigent, but the need to handle unavoidably high
 rates of unemployment.
 
+### [Why Does Silicon Valley Care So Much?]()
+
 Why do you hear so much from Silicon Valley entrepreneurs about UBI?
 Because they recognize the effects their products will unavoidably
 have on labor markets and are wise enough to position themselves in
-anticipation. Computational complexity of specific problems determines
+anticipation. As more products are virtualized and more nodes in the
+economy are singularized into Silicon Valley's products, where do the
+jobs go and what happens as currency flows into the hands of fewer and
+fewer? So if UBI dispenses tons of artificial liquidity into the
+economy, who do you think will benefit most as products are
+virtualized?
+
+Silicon Valley's desire to posture themselves to handle unemployment
+is not selfishly motivated. They know it's real and genuinely want
+handle this, but the people affected will look for people in power who
+profited from business and policy.
+
+### [Predicting the Progression of Unemployment]()
+
+Computational complexity of specific problems determines
 the degree to which automation affects the economy, as well as this
 trend's timing, pacing and completeness. Additionally, the quantum
 computing's availability and applicability of causes a second major
 wave in the trend of automation.
 
-- bitter medicine
-
-### The Employer of Last Resort
+### [The Employer of Last Resort]()
 
 The correct answer is an option for universal service. That is, the
 government becomes the employer of last resort. This solution avoids
 product-classification, artificial regulation of markets, the
-complexity of what is effectively a dual currency system and all the
-resulting economic distortion.
+complexity of a possible dual currency system and all the resulting
+economic distortion. However, this solution does not avoid the need
+for the government to finance this labor. National service also
+requires that we establish logistics and operations mobilize between
+20 and 100 million Americans. This must be done five to ten years
+ahead of time.
+
+### [What We Build Ends Up Building Us]()
+
+The main advantage to National Service over UBI is that what we build
+ends up building us. We need to rebuild infrastructure anyways.
 
 # The Pragmatic Implementation of UBI
 
@@ -46,8 +69,10 @@ regulated, it still results in economic distortion and disruption of
 incentivation structures. In the long-term it is economically
 unsustainable, but the problems it addresses are unavoidable.
 
-... Most of the following criticisms below only apply to UBI when its
-usage is regulated.
+UBI where expenses are controlled ends up being a transition into a
+command economy. Several of the following criticisms below only apply
+to UBI when its usage is regulated, but can still be extended to be a
+criticism of tightly regulated economies in general.
 
 ### Product Classifications and Restriction of UBI Expenditures
 
@@ -200,8 +225,35 @@ amplification of UBI-driven effects in the economy like price
 stability and market efficiency. The effects are more strongly
 pronounced when UBI transactions are regulated.
 
-...
+The price inflation above is related to the relative value and demand
+of goods. It may occur alongside currency inflation, which is all but
+certain because the tax volume cannot be established through
+*competitive and profitable corporate enterprise*, which means
+government expenditures must be financed through credit via central
+banks. From a systems theory perspective, the price inflation and
+currency inflation effects do not add, they multiply. And, given the
+strong need to finance with credit, the dependency on central banking
+then strongly influences international currency markets and foreign
+currency reserves. The question is not whether expenditures and credit
+of this magnitiude it will influence currency markets and reserves,
+but how.
 
+###
+
+Economics without mathematics modeled on graph theory is dangerously
+oversimplified. Linear and non-linear systems modeled on top of graphs
+can be understood at a high level through analysis of feedback loops
+and systems theory. Economic manipulation and micromanagement
+inevitably results in unintendend amplification to these feedback
+loops, which results in general instability, poorly priced assets,
+market inefficiency, misguided behavior patterns, misallocation of
+wealth, and wholly artificial trends driven by small groups of
+elitists with the right connections and influence. Generally speaking,
+the combinations of positive and negative feedback loops in such a
+system compose to amplify with magnitude of *products* of individual
+effects and not *sums*. Such systems function healthiest and can be
+most reliably predicted when left to function for themselves and when
+artificial manipulation is restricted or at least transparent.
 
 # The Progression of Automation in Labor Markets
 
@@ -399,7 +451,32 @@ permeation of information through social networks.
   underdeveloped economies, which provides a framework for economic
   growth in the 21st century
 
+### National Service is more expensive than it's worth on the surface
 
+- this will make UBI seem more worthwhile ... it's not
+
+###
+
+- since a goal should be to increase the variety and quantity of skills
+  available in the labor force
+  - then knowledge should be mapped out and an education system revamped
+    for adults
+  - the idea is to quantify & measure the skills available and to partially
+    leverage national service to develop those skills in the workforce
+  - so, after we spend a fuckton of money, we at least have, in the end,
+    an incredibly capable citizenry
+- how to explain this idea so it sounds different than "community
+  college for adults"
+  - because i mean for it to be a means of building knowledge/skills
+    through experinece in national service,
+
+### what do you do with 20 - 100 million adults?
+
+  - that leaves our labor force competitive and our citizenry capable
+  - that build out economic opportunities and options for projection
+    of soft power
+  - and how do you prepare to train and mobilize this many people without
+    significant disruption to the domestic economy
 
 ### UBI or National Service Must Be Economically Sustainable
 
