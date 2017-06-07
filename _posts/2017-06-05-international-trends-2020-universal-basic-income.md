@@ -2,10 +2,21 @@
 title: "International Trends 2020: Universal Basic Income"
 categories: blog
 tags: ""
-headline: ""
+headline: "You want to light the economy on fire?"
 author:
   name: "David Conner"
-excerpt: ""
+excerpt: "
+Economic growth ultimately stems from the net contributions of
+individuals. It's built from the ground up. We know that we are going
+to have dozens of millions of unemployed between ages 20 and 60 by the
+2030's. The point is to invest that human potential and manpower to
+get the greatest return possible in anticipation of greater future
+threats to human existance. More challenging than the operational
+aspects is convincing Americans that this is not only necessary, but
+should be enthusiastically embraced when technology seems to remove
+most constraints. To do this we need a cultural transformation to
+produce a society built on values and character with a strong sense of
+identity and duty."
 ---
 
 #### &#x2605; [Climate Change](/posts/2017-02-28-international-trends-2020-climate-change.html) &#x2605; [The Smart Grid](/posts/2017-02-28-international-trends-2020-the-smart-grid.html) &#x2605; Universal Basic Income &#x2605;
