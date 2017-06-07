@@ -10,9 +10,95 @@ excerpt: ""
 
 #### &#x2605; [Climate Change](/posts/2017-02-28-international-trends-2020-climate-change.html) &#x2605; [The Smart Grid](/posts/2017-02-28-international-trends-2020-the-smart-grid.html) &#x2605; Universal Basic Income &#x2605;
 
+## [UBI Is Not Inevitable](#ubi-is-not-inevitable)
 
+#### [Why Does Silicon Valley Care So Much?](#why-does-silicon-valley-care-so-much)
 
-> I'm not trying to win a popularity contest here.
+#### [Complexity Theory Partially Determines the Progression of Unemployment](#complexity-theory-partially-determines-the-progression-of-unemployment)
+
+#### [The Employer of Last Resort](#the-employer-of-last-resort)
+
+#### [What We Build Ends Up Building Us](#what-we-build-ends-up-building-us)
+
+## [The Pragmatic Implementation of UBI](#the-pragmatic-implementation-of-ubi)
+
+#### [Product Classifications and Restriction of UBI Expenditures](#product-classifications-and-restriction-of-ubi-expenditures)
+
+#### [Regulated UBI is a Pseudo Currency](#regulated-ubi-is-a-pseudo-currency)
+
+#### [Product Classification Determines Marketability](#product-classification-determines-marketability)
+
+#### [Regulated UBI is a Big Government Nightmare](#regulated-ubi-is-a-big-government-nightmare)
+
+#### [The Lobbyists Win](#the-lobbyists-win)
+
+#### [Regulation and the Vulnerability of Democracy to Subversion](#regulation-and-the-vulnerability-of-democracy-to-subversion)
+
+#### [Studies Need to Focus on Systemic Effects of UBI](#studies-need-to-focus-on-systemic-effects-of-ubi)
+
+#### [UBI Must Account for Geoeconomic Variation](#ubi-must-account-for-geoeconomic-variation)
+
+#### [Overregulation Decentivizes and Stagnates Innovation](#overregulation-decentivizes-and-stagnates-innovation)
+
+## [Business is About Making Assumptions](#business-is-about-making-assumptions)
+
+#### [Inductive Modeling and Risk Appetite](#inductive-modeling-and-risk-appetite)
+
+#### [Combinatorics, Category Theory, Induction and Higher-Order Logic](#combinatorics-category-theory-induction-and-higher-order-logic)
+
+## [Regulation and Artifical Economic Dynamics](#regulation-and-artificial-economic-dynamics)
+
+#### [Price Instability Cascades Through Product Dependency Trees](#price-instability-cascades-through-product-dependency-trees)
+
+#### [Positive Feedback Loops in Price Inflation and Currency Inflation](#positive-feedback-loops-in-price-inflation-and-currency-inflation)
+
+#### [Oh You Cited A Potential GDP Increase & GDP is Good](#oh-you-cited-a-potential-gdp-increase-gdp-is-good)
+
+## [The Progression of Automation in Labor Markets](#the-progression-of-automation-in-labor-markets)
+
+#### [Uber and Gradual Automation of Employment Roles](#uber-and-gradual-automation-of-employment-roles)
+
+#### [Total Automation Cripples the Human Network Effect](#total-automation-cripples-the-human-network-effect)
+
+#### [Mental Labor Will Often Be The First to Go](#mental-labor-will-often-be-the-first-to-go)
+
+#### [Clustering, Dimensionality Reduction and Groundhog Day](#clustering-dimensionality-reduction-and-groundhog-day)
+
+#### [There's Always Money In The Banana Stand](#theres-always-money-in-the-banana-stand)
+
+#### [Intergenerational Dynamics of Technology Driven Unemployment](#intergenerational-dynamics-of-technology-driven-unemployment)
+
+#### [A Sociocultural Paradox of Technology and Automation](#a-sociocultural-paradox-of-technology-and-automation)
+
+#### [Utopia's Song](#utopias-song)
+
+## [The Employer of Last Resort](#the-employer-of-last-resort)
+
+#### [National Service Catalyzes Sociocultural Transformation](#national-service-catalyzes-sociocultural-transformation)
+
+#### [Imprinting Universal Experiences](#imprinting-universal-experiences)
+
+#### [National Service Drives Social Flux and Tightens the Social Graph](#national-service-drives-social-flux-and-tightens-the-social-graph)
+
+#### [National Citizen Service for Young Adults](#national-citizen-service-for-young-adults)
+
+#### [What To Do With 20 to 100 Million Unemployed?](#what-to-do-with-20-to-100-million-unemployed)
+
+#### [The Upcoming Soft-Power Showdown With China](#the-upcoming-soft-power-showdown-with-china)
+
+#### [Cost And Benefits of National Service](#cost-and-benefits-of-national-service)
+
+#### [More Intergenerational and Geoeconomic Dynamics](#more-intergenerational-and-geoeconomic-dynamics)
+
+## [Economic Sustainability](#economic-sustainability)
+
+#### [I Hope All That Money Is Well Invested](#i-hope-all-that-money-is-well-invested)
+
+## [We Are the Sum of Humanity's Realized Potential](#we-are-the-sum-of-humanitys-realized-potential)
+
+<a name="ubi-is-not-inevitable" />
+
+# [UBI Is Not Inevitable](#ubi-is-not-inevitable)
 
 UBI is attractive because it appears to meet certain inevitable needs.
 Automation will eventually create sky-high unemployment rates, thereby
@@ -22,7 +108,11 @@ to assume UBI to be an inevitable economic development. It is not the
 need for UBI that is exigent, but the need to handle unavoidably high
 rates of unemployment.
 
-### [Why Does Silicon Valley Care So Much?]()
+> But, I'm not trying to win a popularity contest here.
+
+<a name="why-does-silicon-valley-care-so-much" />
+
+### [Why Does Silicon Valley Care So Much?](#why-does-silicon-valley-care-so-much)
 
 Why do you hear so much from Silicon Valley entrepreneurs about UBI?
 Because they recognize the effects their products will unavoidably
@@ -39,7 +129,9 @@ is not selfishly motivated. They know it's real and genuinely want
 handle this, but the people affected will look for people in power who
 profited from business and policy.
 
-### [Predicting the Progression of Unemployment]()
+<a name="complexity-theory-partially-determines-the-progression-of-unemployment" />
+
+### [Complexity Theory Partially Determines the Progression of Unemployment](#complexity-theory-partially-determines-the-progression-of-unemployment)
 
 Computational complexity of specific problems determines
 the degree to which automation affects the economy, as well as this
@@ -47,7 +139,9 @@ trend's timing, pacing and completeness. Additionally, the quantum
 computing's availability and applicability of causes a second major
 wave in the trend of automation.
 
-### [The Employer of Last Resort]()
+<a name="the-employer-of-last-resort" />
+
+### [The Employer of Last Resort](#the-employer-of-last-resort)
 
 The correct answer is an option for universal service. That is, the
 government becomes the employer of last resort. This solution avoids
@@ -59,14 +153,18 @@ requires that we establish logistics and operations mobilize between
 20 and 100 million Americans. This must be done five to ten years
 ahead of time.
 
-### [What We Build Ends Up Building Us]()
+<a name="what-we-build-ends-up-building-us" />
+
+### [What We Build Ends Up Building Us](#what-we-build-ends-up-building-us)
 
 The main advantage to National Service over UBI is that what we build
 ends up building us. We need to rebuild infrastructure anyways.
 
 ![Eden of the East](/img/posts/2017-06-06-international-trends-2020-universal-basic-income/eden-of-the-east.jpeg)
 
-# The Pragmatic Implementation of UBI
+<a name="the-pragmatic-implementation-of-ubi" />
+
+# [The Pragmatic Implementation of UBI](#the-pragmatic-implementation-of-ubi)
 
 UBI can be packaged in various forms, including tax credits and other
 systems of wealth redistribution. The pragmatic implementation of UBI
@@ -80,7 +178,9 @@ command economy. Several of the following criticisms below only apply
 to UBI when its usage is regulated, but can still be extended to be a
 criticism of tightly regulated economies in general.
 
-### [Product Classifications and Restriction of UBI Expenditures]()
+<a name="product-classifications-and-restriction-of-ubi-expenditures" />
+
+### [Product Classifications and Restriction of UBI Expenditures](#product-classifications-and-restriction-of-ubi-expenditures)
 
 UBI just will not work without mechanisms in place to ensure that
 people spend UBI on actual living expenses. It requires infrastructure
@@ -90,7 +190,9 @@ groups who will siphon away the government liquidity injected into
 society. Those groups include your friendly neighborhood drug dealer
 as well as corporations like Starbucks selling lattes for $5.
 
-### [Regulated UBI is a Pseudo Currency]()
+<a name="#regulated-ubi-is-a-pseudo-currency" />
+
+### [Regulated UBI is a Pseudo Currency](#regulated-ubi-is-a-pseudo-currency)
 
 The system of product classifications essentially creates an economic
 system with two currencies. Instead of a simple dollar *for all debts,
@@ -103,20 +205,24 @@ that are valid living expenses. This essentially turns the government
 into your mom, who might give you money as long as it is spent on
 something she knows you really, really need.
 
-### [Product Classification Determines Marketability]()
+<a name="#product-classification-determines-marketability" />
+
+### [Product Classification Determines Marketability](#product-classification-determines-marketability)
 
 Think about the implications of this in context with the UBI's raison
 d'etre. Our country would only ever consider UBI because we need to
-mitigate the effects of unemployment rates ranging from 10 - 50%.
+mitigate the effects of unemployment rates ranging from 15-50%.
 Without some policy in place to handle the second and third order
 effects of automation, unemployment rates such as these are realistic
 for the 2030's. If UBI is the policy utilized to ameliorate this, then
-for 10 - 50% of the population without full-time employment, their
+for 15-50% of the population without full-time employment, their
 income is almost completely in UBI pseudo-dollars.  The set of
 products a UBI-dependent person can purchase is almost totally limited
 to government-approved products.
 
-### [Regulated UBI is a Big Government Nightmare]()
+<a name="regulated-ubi-is-a-big-government-nightmare" />
+
+### [Regulated UBI is a Big Government Nightmare](#regulated-ubi-is-a-big-government-nightmare)
 
 If the government restricts the purchasing power of a major segment of
 population, this means that only UBI-approved products are viable in
@@ -127,7 +233,9 @@ a very simple way, gives the government an unimaginable amount of
 power and sets up the government to be used as a tool to achieve
 economic ends. So, what happens?
 
-### [The Lobbyists Win]()
+<a name="the-lobbyists-win" />
+
+### [The Lobbyists Win](#the-lobbyists-win)
 
 What results? A massive incentive to lobby for the reclassification of
 products and to enact major changes in UBI policy implementation. In a
@@ -141,7 +249,9 @@ a dual-currency system where nothing is marketable unless lobbied to
 regulators Washington places power in the hands of regulators and
 causes economic turbulence.
 
-### [Regulation and the Vulnerability of Democracy to Subversion]()
+<a name="regulation-and-the-vulnerability-of-democracy-to-subversion" />
+
+### [Regulation and the Vulnerability of Democracy to Subversion](#regulation-and-the-vulnerability-of-democracy-to-subversion)
 
 Regulatory frameworks can be manipulated via suggestion or outright
 subversion, amplifying inefficiencies in tightly regulated markets.
@@ -159,7 +269,9 @@ perform its responsibilities. This leads to inefficient markets,
 fluctuating prices for both products and financial assets, and general
 price increases for products across the economy.
 
-### [Studies Need to Focus on Systemic Effects of UBI]()
+<a name="studies-need-to-focus-on-systemic-effects-of-ubi" />
+
+### [Studies Need to Focus on Systemic Effects of UBI](#studies-need-to-focus-on-systemic-effects-of-ubi)
 
 Most studies will focus on first or second order effects of UBI, but
 they will do so in isolation. Even when UBI is provided to entire
@@ -169,7 +281,9 @@ UBI studies will primarily identify positive results. This will result
 in cognitive bias, where myopic studies crowd out common sense and
 dialogue about systemic response to UBI.
 
-### [UBI Needs to Account for Geoeconomic Variation]()
+<a name="ubi-must-account-for-geoeconomic-variation" />
+
+### [UBI Must Account for Geoeconomic Variation](#ubi-must-account-for-geoeconomic-variation)
 
 The cost of living varies dramatically from place to place. As climate
 change alters weather patterns, agricultural infrastructure will need
@@ -187,7 +301,9 @@ Wealth distribution is essentally theft. It is difficult to ethically
 or morally justify redistribution of wealth, especially since we are
 *incapable* of doing so fairly.
 
-### [Overregulation Decentivizes and Stagnates Innovation](#)
+<a name="overregulation-decentivizes-and-stagnates-innovation" />
+
+### [Overregulation Decentivizes and Stagnates Innovation](#overregulation-decentivizes-and-stagnates-innovation)
 
 Disappointing NEET's and basement dwellers nationwide, the pragmatic
 implementation of UBI creates economic turbulence and renders the
@@ -195,7 +311,9 @@ domestic economy vulnerable to global competition. The regulation
 deincentivizes innovation and stagnates the process by which
 innovative new products can become marketable.
 
-# [Business is About Making Assumptions]()
+<a name="business-is-about-making-assumptions" />
+
+# [Business is About Making Assumptions](#business-is-about-making-assumptions)
 
 Business is about developing assumptions in contrast to the prevailing
 understanding that enables someone to posture their product or service
@@ -209,7 +327,9 @@ model will mostly refrain from investing. There's no point in
 financing a business whose model is invalidated by policy changes,
 potential or inevitable.
 
-### [Inductive Modeling and Risk Appetite]()
+<a name="inductive-modeling-and-risk-appetite" />
+
+### [Inductive Modeling and Risk Appetite](#inductive-modeling-and-risk-appetite)
 
 Generally, any detraction from the ability to make valid predictive
 assumptions that hold true over time impairs the identification and
@@ -221,7 +341,9 @@ to higher growth amid stable policy conditions. Heavily regulated
 environments with high policy turnover, high barrier to entry and an
 inherently limited market do not promote innovation.
 
-### [Combinatorics, Category Theory, Induction and Higher Order Logic]()
+<a name="combinatorics-category-theory-induction-and-higher-order-logic" />
+
+### [Combinatorics, Category Theory, Induction and Higher-Order Logic](#combinatorics-category-theory-induction-and-higher-order-logic)
 
 These generalizations about business are related to
 [induction puzzles](https://en.wikipedia.org/wiki/Induction_puzzles),
@@ -230,10 +352,13 @@ to carve away at the problem space. One uses induction to
 combinatorially evaluate valid configurations of the system. If
 induction is required, then the difficulty of the problem is
 exponentially more complex. Potential policy changes essentially add
-variables to be combinated with induction. That's why you should
-diversify your asset portfolio.
+variables to be combinated with induction and evaluated for
+optimization and/or maximization. That's why you should diversify your
+asset portfolio.
 
-# [Regulation and Artifical Economic Dynamics]()
+<a name="regulation-and-artificial-economic-dynamics" />
+
+# [Regulation and Artifical Economic Dynamics](#regulation-and-artificial-economic-dynamics)
 
 Capitalism essentially harnesses the same math behind machine learning
 to create evolutionary dynamics. These "reified maths" form the
@@ -249,7 +374,9 @@ regulators in Washington and the lobbyists who court them. The
 regulators decide who wins and who loses in a market and they are
 inept at doing so.
 
-### [Price Instability Cascades Through a Product's Dependency Tree]()
+<a name="price-instability-cascades-through-a-products" />
+
+### [Price Instability Cascades Through Product Dependency Trees](#price-instability-cascades-through-product-dependency-trees)
 
 The scale of market inefficiency increases by triggering a cascading
 increase in prices across all types of products, since any product or
@@ -263,7 +390,9 @@ amplification of UBI-driven effects in the economy like price
 stability and market efficiency. The effects are more strongly
 pronounced when UBI transactions are regulated.
 
-### [Positive Feedback Loops in Price Inflation and Currency Inflation]()
+<a name="positive-feedback-loops-in-price-inflation-and-currency-inflation" />
+
+### [Positive Feedback Loops in Price Inflation and Currency Inflation](#positive-feedback-loops-in-price-inflation-and-currency-inflation)
 
 The price inflation above is related to the relative value and demand
 of goods. It may occur alongside currency inflation, which is all but
@@ -278,7 +407,9 @@ currency reserves. The question is not whether expenditures and credit
 of this magnitiude it will influence currency markets and reserves,
 but how.
 
-### [Oh You Cited A Potential GDP Increase. GDP is Good.]()
+<a name="oh-you-cited-a-potential-gdp-increase-gdp-is-good" />
+
+### [Oh You Cited A Potential GDP Increase & GDP is Good](#oh-you-cited-a-potential-gdp-increase-gdp-is-good)
 
 Economics without mathematics modeled on graph theory is dangerously
 oversimplified. Linear and non-linear systems modeled on top of graphs
@@ -295,7 +426,9 @@ effects and not *sums*. Such systems function healthiest and can be
 most reliably predicted when left to function for themselves and when
 artificial manipulation is restricted or at least transparent.
 
-# [The Progression of Automation in Labor Markets]()
+<a name="the-progression-of-automation-in-labor-markets" />
+
+# [The Progression of Automation in Labor Markets](#the-progression-of-automation-in-labor-markets)
 
 The perceived and actual ROI of employment roles depends on the degree
 to which each role's tasks can be automated. For roles involving a
@@ -308,7 +441,9 @@ there is a greater need for generalized AI. For each task type, the
 complexity of the solutions nearly completely determines its potential
 to be automated.
 
-### Uber and Gradual Automation of Employment Roles
+<a name="uber-and-gradual-automation-of-employment-roles" />
+
+### [Uber and Gradual Automation of Employment Roles](#uber-and-gradual-automation-of-employment-roles)
 
 Uber is a perfect example of how automation gradually overtakes
 employment roles within a business or industry. Uber essentially
@@ -322,17 +457,21 @@ drivers, Uber has a platform composed of people invested in Uber's
 success. These drivers also act as vectors for propagating dynamics
 through social networks (i.e. marketing).
 
-### 
+<a name="total-automation-cripples-the-human-network-effect" />
 
-The point is, there are roles which can be automated, where automation
-appears to pay off on the surface. Yet, in the long term, automation
-may instead strongly detract from certain aspects of your business and
-product, especially the customer experience.  Total automation removes
-human social dimensions from your product. Factors like these were
-ubiquitous before the 21st century, so effects from their presence or
-absence in a product is not well understood.
+### [Total Automation Cripples the Human Network Effect](#total-automation-cripples-the-human-network-effect)
 
-### [Mental Labor Will Be The First to Go]
+There are roles where automation appears to pay off on the surface, but
+may not be. In the long term, automation may instead strongly detract
+from certain aspects of your business and product, especially the
+customer experience.  Total automation removes human social dimensions
+from your product. Factors like these were ubiquitous before the 21st
+century, so effects from their presence or absence in a product is not
+well understood.
+
+<a name="mental-labor-will-often-be-the-first-to-go" />
+
+### [Mental Labor Will Often Be The First to Go](#mental-labor-will-often-be-the-first-to-go)
 
 It's a common assumption, but mental labor is not safe. In fact, these
 are some of the easiest and most effective roles to automate. For
@@ -345,7 +484,9 @@ to them. This essentially harnesses as
 which is required for mitigating computational complexity in machine
 learning.
 
-### [Clustering, Dimensionality Reduction and Groundhog Day]()
+<a name="clustering-dimensionality-reduction-and-groundhog-day" />
+
+### [Clustering, Dimensionality Reduction and Groundhog Day](#clustering-dimensionality-reduction-and-groundhog-day)
 
 With respect to dimensionality reduction, the curse of dimensionality
 is not kind to humanity in the age of automation, where it before
@@ -363,8 +504,9 @@ tractible analytical approximation to the original solution.
 Of course, there is no actual connection between the two. But without
 needing to understanding the connection, a computer can identify
 seemingly uncorrelated variables which can be use to construct an
-approximate solution. The more data, the more accurately its
-construction of approximated solutions can be leveraged.
+approximate solution. The more data and the more proficient the
+training, the more accurately its construction of approximated
+solutions can be leveraged.
 
 What that common assumption fails to grasp is the similarity of mental
 labor to computation and the computational capacity of the human
@@ -375,7 +517,9 @@ of the same tasks that computers would. The human brain is
 particularly good at identifying and correlating arbitrary data, which
 provide data-processing shortcuts to some solution.
 
-### [There's Always Money In The Banana Stand]()
+<a name="theres-always-money-in-the-banana-stand" />
+
+### [There's Always Money In The Banana Stand](#theres-always-money-in-the-banana-stand)
 
 A task type that forms a major dependency of AI-driven businesses is
 in the data itself: data science, data processing infrastructure and
@@ -385,7 +529,9 @@ infrastructure can all be automated. If someone lacks the equivalent
 of a master's degree in either math or a field where math is strongly
 applied, they are unlikely to be useful for data-science.
 
-### [Intergenerational Dynamics of Technology Driven Unemployment]()
+<a name="intergenerational-dynamics-of-technology-driven-unemployment" />
+
+### [Intergenerational Dynamics of Technology Driven Unemployment](#intergenerational-dynamics-of-technology-driven-unemployment)
 
 Over the next two decades, older members of the workforce will be hit
 harder than younger members. This is because the demand for skills is
@@ -393,7 +539,9 @@ shifting and our education's capacity to imbue these skills is
 accelerating. Double down on your IRA and keep an eye on your pension
 fund.
 
-### [A Sociocultural Paradox of Technology and Automation]()
+<a name="a-sociocultural-paradox-of-technology-and-automation" />
+
+### [A Sociocultural Paradox of Technology and Automation](#a-sociocultural-paradox-of-technology-and-automation)
 
 All in all, the labor markets will favor those with highly varied
 skill sets, which results in a paradox. Whereas automation leaves many
@@ -417,21 +565,25 @@ skills they mostly lack. They lack these skills because, while they
 were in school, education didn't offer children a significant
 perceived benefit, at least economically. In turn, these cultural
 trends could render the domestic economy vulnerable to global
-competition. Also, there are interesting intergenerational dynamics
-that could eventually emerge, where the oldest generation has the
-widest variety of skills, which are mostly not propagated to
+competition. Also, there are further interesting intergenerational
+dynamics that could eventually emerge, where the oldest generation has
+the widest variety of skills, which are mostly not propagated to
 subsequent generations. Many of these assumptions depend on the
 particular capabilities, practicality and limitations of neural
 interfaces.
 
-### [Utopia's Song]()
+<a name="utopias-song" />
+
+### [Utopia's Song](#utopias-song)
 
 And this all occurs during the same period of time when generalized AI
 may develop into a threat. When that time comes, shouldn't humanity be
 as capable as possible? What we have to do is strive against this
 paradox and resist being lulled into complacency by utopia.
 
-# [The Employer of Last Resort]()
+<a name="the-employer-of-last-resort" />
+
+# [The Employer of Last Resort](#the-employer-of-last-resort)
 
 So we know that high unemployment rates are inevitable, given the
 trajectory of technology and its impact on labor markets. We also know
@@ -458,7 +610,9 @@ one finds that National Service is far preferable. Many of the
 advantages of UBI, like opportunity for innovation and
 experimentation, can be realized through much smaller grant programs.
 
-### [National Service Catalyzes Sociocultural Transformation]()
+<a name="national-service-catalyzes-sociocultural-transformation" />
+
+### [National Service Catalyzes Sociocultural Transformation](#national-service-catalyzes-sociocultural-transformation)
 
 Generally, we find that many of these domestic issues and their root
 causes could be avoided or prevented outright, if only people were
@@ -476,7 +630,9 @@ through cultural transformation. Without such a transformation,
 America is sure to succumb to domestic problems, like unrest, poverty,
 economic turbulence and unemployment.
 
-### [Imprinting Universal Experiences]()
+<a name="imprinting-universal-experiences" />
+
+### [Imprinting Universal Experiences](#imprinting-universal-experiences)
 
 National citizen service can be harnessed to imprint a near-universal
 experience or widely-shared types of experiences. If these experiences
@@ -489,7 +645,9 @@ an opportunity for personal development instead of hedonism or
 netflix), then national service results in much preferable outcomes,
 socioculturally. IMO, this altruistic best case would be rare.
 
-### National Service Drives Social Flux and Tightens the Social Graph
+<a name="national-service-drives-social-flux-and-tightens-the-social-graph" />
+
+### [National Service Drives Social Flux and Tightens the Social Graph](#national-service-drives-social-flux-and-tightens-the-social-graph)
 
 The development of connections in the social graph is driven through
 interpersonal experiences. Many domestic issues in America are caused
@@ -518,7 +676,9 @@ evolutionary dynamics to religions and belief systems. There are real
 benefits to their practices. The religions that managed to hold on to
 believers were able to convey and provide value.
 
-### [National Citizen Service for Young Adults]()
+<a name="national-citizen-service-for-young-adults" />
+
+### [National Citizen Service for Young Adults](#national-citizen-service-for-young-adults)
 
 Korea and Isreal are both countries which require mandatory military
 service for young adults. Such mandatory service can be leveraged to
@@ -532,43 +692,96 @@ capital to help build the foundations of underdeveloped economies,
 which provides a framework for economic growth in the 21st century.
 Such internation
 
-### [What Do You Do With 20 - 100 Million Unemployed?]()
+<a name="what-to-do-with-20-to-100-million-unemployed" />
 
-  - that leaves our labor force competitive and our citizenry capable
-  - that build out economic opportunities and options for projection
-    of soft power
-  - and how do you prepare to train and mobilize this many people without
-    significant disruption to the domestic economy
+### [What To Do With 20 to 100 Million Unemployed?](#what-to-do-with-20-to-100-million-unemployed)
+
+#### So it's 2036...
+
+There's an oversaturated labor market where low demand and high
+specificity in requirements for job roles renders several dozen
+American adults unemployed. A higher proportion of the US government
+budget is dedicated to expansive entitlement programs with less
+leftover for the discretionary budget.
+
+#### What do you do?
+
+You fucking hope you played your cards right because it's going to be
+tough no matter what you do. Large amounts of unemployed people
+typically leads to unrest. It's better for people to be busy or at
+least have their net human potential coordinated in some positive
+way. Throughout history, we've been able to depend on economics and
+self-interest to motivate people to work. Yet, at this point,
+economics leads us to a place where that doesn't naturally happen.
 
 ![Eden of the East - Washington DC](/img/posts/2017-06-06-international-trends-2020-universal-basic-income/eden-of-the-east-washington-dc.gif)
 
-### Cost And Benefits of National Service
+#### We leverage our human capital to posture ourselves for maximal growth
 
-- this will make UBI seem more worthwhile ... it's not
+Whatever we do to address the economic turbulence, we need to develop
+a highly skilled labor force. If we're going to have to spend the
+money, it should render our citizenry capable. So, to posture for
+growth, we can rebuild infrastructure in America and build out
+economic opportunities through cooperation with underdeveloped
+economies.
 
-###
+<a name="the-upcoming-soft-power-showdown-with-china" />
 
-- since a goal should be to increase the variety and quantity of skills
-  available in the labor force
-  - then knowledge should be mapped out and an education system revamped
-    for adults
-  - the idea is to quantify & measure the skills available and to partially
-    leverage national service to develop those skills in the workforce
-  - so, after we spend a fuckton of money, we at least have, in the end,
-    an incredibly capable citizenry
+### [The Upcoming Soft-Power Showdown With China](#the-upcoming-soft-power-showdown-with-china)
 
-- how to explain this idea so it sounds different than "community
-  college for adults"
-  - because i mean for it to be a means of building knowledge/skills
-    through experinece in national service,
+Furthermore, there is an upcoming soft-power showdown with China.  Two
+decades of monopolar Western hegemony has yielded a naive generation
+of Americans. We need to focus significant effort on building ties and
+options for soft power and economic growth. China is mobilizing
+quickly on projects in Pakistan and Africa. In order for China to
+sustain GDP growth, they must expand. America, being multicultural,
+has innately greater capacity to build bridges with the rest of
+the world. In the long-term, these relationships are much more likely
+to be seen as authentic and reciprocal.
 
-- The intergenerational dynamics of the progression of unemployment
-must be a major consideration when architecting the operational and
-logistical aspects of a national service program.
+<a name="cost-and-benefits-of-national-service" />
 
-# [Economic Sustainability]()
+### [Cost And Benefits of National Service](#cost-and-benefits-of-national-service)
 
-When the government is paying the living expenses of 15 - 50% of the
+The operational and logistical overhead in utilizing the government as
+an employer of last resort sadly makes UBI seem more worthwhile. With
+UBI, you simply deposit money in bank accounts and maybe mail some
+checks. There's no real operational overhead or complex
+logistics.
+
+With national service, there is still significant disruption to the
+domestic economy. How do you train and mobilize this many people while
+minimizing disruption to private enterprises which can't easily
+finance the labor?
+
+Yet, if one is compelled to make a decision between UBI and an
+employer of last resort, the capacity to seize on the latter to hit
+fifty birds with one stone is undeniably more advantageous. It also
+reduces the risk of large swaths of population being either idle or
+feeling like their work and self-investment is rewarded
+disproportionately. The 21st century is one of the great filters of
+Fermi's paradox and we want to piss away all our money? If we go for
+UBI, we will see revolution and transformation into something
+requiring national service anyways.
+
+<a name="more-intergenerational-and-geoeconomic-dynamics" />
+
+### [More Intergenerational and Geoeconomic Dynamics](#more-intergenerational-and-geoeconomic-dynamics)
+
+There are again intergenerational and geoeconomic dynamics of the
+progression of unemployment via automation. These must be major
+considerations when architecting the operational and logistical
+aspects of a national service program. It's important to understand
+that America isn't the only country facing this socioeconomic
+transformation. The whole world must undergo this transition, but,
+like modernization and industrialization, it will not unfold
+simultaneously.
+
+<a name="economic-sustainability" />
+
+# [Economic Sustainability](#economic-sustainability)
+
+When the government is paying the living expenses of 15-50% of the
 population, it's hard to imagine this being economically
 sustainable. Financing this requires that the government expend either
 taxes or credit. If there is correlation between tax volume and
@@ -582,30 +795,38 @@ Yet, a long-term result of automation is unemployment that
 necessitates higher government expenditures, increasing the tax burden
 on corporations.
 
-One sensible policy option to placate economic turbulence is to tax
-the usage of automation, but this paradoxically makes these businesses
-less able to compete with those from nations that don't tax
-automation. How did globalization affect domenstic manufacturing and
-why? Corporations moved overseas because they harnessed the cheapest
-source of labor available. That's economics at work and similar
-dynamics will be in play if automation is taxed.
+Taxing automation is one sensible policy option to placate economic
+turbulence, but this paradoxically makes these businesses less able to
+compete with those from nations that don't tax automation. How did
+globalization affect domenstic manufacturing and why? Corporations
+moved overseas because they harnessed the cheapest source of labor
+available. That's economics at work and similar dynamics will be in
+play if automation is taxed.
+
+<a name="i-hope-all-that-money-is-well-invested" />
+
+### [I Hope All That Money Is Well Invested](#i-hope-all-that-money-is-well-invested)
 
 If the policy response results in increased economic opportunity,
 while enabling American enterprises to remain competitive, then it
 will sustainable in the short-term. If it's not sustainable in the
 long-term, then hopefully we got something good with all that
-money. Ultimately, that will be what we are left with. For example, if
-we utilize National Service to rebuild America's infrastructure, then
-we have infrastructure. If we utilize National Service to invest in
-underdeveloped economies, then American business can leverage those
-global markets as a framework for further growth. And, in case of
-robot apocalypse, our population has a highly-developed skill set as a
-result. But, if we write $30,000 annual checks so that 15 - 50% of our
-citizens can watch two-thirds of the Netflix catalog, then we're left
-with a population who communicates poorly using sitcom references, but
-isn't employable or able to contribute to society.
+money. Ultimately, that will be what we are left with.
 
-###
+For example, if we utilize National Service to rebuild America's
+infrastructure, then we have infrastructure. If we utilize National
+Service to invest in underdeveloped economies, then American business
+can leverage those global markets as a framework for further
+growth. And, in case of robot apocalypse, our population has a
+highly-developed skill set as a result. But, if we write $30,000
+annual checks so that 15-50% of our citizens can watch two-thirds of
+the Netflix catalog, then we're left with a population who
+communicates poorly using sitcom references, but isn't employable or
+able to contribute to society.
+
+<a name="we-are-the-sum-of-humanitys-realized-potential" />
+
+# [We Are the Sum of Humanity's Realized Potential](#we-are-the-sum-of-humanitys-realized-potential)
 
 Economic growth ultimately stems from the net contributions of
 individuals. It's built from the ground up. We know that we are going
@@ -618,6 +839,19 @@ should be enthusiastically embraced when technology seems to remove
 most constraints. To do this we need a cultural transformation to
 produce a society built on values and character with a strong sense of
 identity and duty.
+
+# Part Four:
+
+#### Governance in Space and the Post-Westphalian Era
+
+The fourth part in this series is my fave. It covers the transition to
+space, the accompanying economic shifts and the evolution of
+governence mechanisms. As we approach the apex of globalization, we
+reach the end of the Westphalian era. We find that transnationalism
+wedges itself in the frame of international law and is used to contort
+precedent. Then, as we begin to colonize space, humanity again
+rearchitects our outermost paradigms of governance, leading to a
+transition away from the brief post-Westphalian period.
 
 
 

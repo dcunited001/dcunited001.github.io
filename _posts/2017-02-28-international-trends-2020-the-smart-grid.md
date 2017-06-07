@@ -529,11 +529,7 @@ for economic growth.
 
 # Part Three
 
-The third part in this series is my fave. It covers the transition to
-space, the accompanying economic shifts and the evolution of
-governence mechanisms. As we approach the apex of globalization, we
-reach the end of the Westphalian era. We find that transnationalism
-wedges itself in the frame of international law and is used to contort
-precedent. Then, as we begin to colonize space, humanity again
-rearchitects our outermost paradigms of governance, leading to a
-transition away from the brief post-Westphalian period.
+#### Universal Basic Income
+
+Part three describes the motivations behind Universal Basic Income and
+alternative policy.
