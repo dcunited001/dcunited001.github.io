@@ -119,11 +119,11 @@ to assume UBI to be an inevitable economic development. It is not the
 need for UBI that is exigent, but the need to handle unavoidably high
 rates of unemployment.
 
-> But, I'm not trying to win a popularity contest here.
-
 <a name="why-does-silicon-valley-care-so-much" />
 
 ### [Why Does Silicon Valley Care So Much?](#why-does-silicon-valley-care-so-much)
+
+> I'm not trying to win a popularity contest here.
 
 Why do you hear so much from Silicon Valley entrepreneurs about UBI?
 Because they recognize the effects their products will unavoidably
@@ -144,11 +144,11 @@ profited from business and policy.
 
 ### [Complexity Theory Partially Determines the Progression of Unemployment](#complexity-theory-partially-determines-the-progression-of-unemployment)
 
-Computational complexity of specific problems determines
-the degree to which automation affects the economy, as well as this
-trend's timing, pacing and completeness. Additionally, the quantum
-computing's availability and applicability of causes a second major
-wave in the trend of automation.
+Computational complexity of specific problems determines the degree to
+which automation affects the economy, as well as this trend's timing,
+pacing and completeness. Additionally, quantum computing's
+availability and applicability of causes a second major wave in the
+trend of automation.
 
 <a name="the-employer-of-last-resort" />
 
@@ -160,9 +160,9 @@ product-classification, artificial regulation of markets, the
 complexity of a possible dual currency system and all the resulting
 economic distortion. However, this solution does not avoid the need
 for the government to finance this labor. National service also
-requires that we establish logistics and operations mobilize between
-20 and 100 million Americans. This must be done five to ten years
-ahead of time.
+requires that we establish logistics and operations to mobilize
+between 20 and 100 million Americans. This must be done five to ten
+years ahead of time.
 
 <a name="what-we-build-ends-up-building-us" />
 
@@ -181,12 +181,12 @@ UBI can be packaged in various forms, including tax credits and other
 systems of wealth redistribution. The pragmatic implementation of UBI
 is disappointing and even when expenditures of UBI cash aren't
 regulated, it still results in economic distortion and disruption of
-incentivation structures. In the long-term it is economically
+incentivation structures. In the long-term, it is economically
 unsustainable, but the problems it addresses are unavoidable.
 
 UBI where expenses are controlled ends up being a transition into a
 command economy. Several of the following criticisms below only apply
-to UBI when its usage is regulated, but can still be extended to be a
+to UBI when its usage is regulated, but can still be extended to be
 criticism of tightly regulated economies in general.
 
 <a name="product-classifications-and-restriction-of-ubi-expenditures" />
@@ -240,7 +240,7 @@ population, this means that only UBI-approved products are viable in
 the marketplace. To increase the marketability of products in a UBI
 system, then lobbying to have it approved can make or break your
 business model. This inserts bureaucracy into every facet of life. In
-a very simple way, gives the government an unimaginable amount of
+a very simple way, it gives the government an unimaginable amount of
 power and sets up the government to be used as a tool to achieve
 economic ends. So, what happens?
 
@@ -248,17 +248,17 @@ economic ends. So, what happens?
 
 ### [The Lobbyists Win](#the-lobbyists-win)
 
-What results? A massive incentive to lobby for the reclassification of
+A massive incentive results to lobby for the reclassification of
 products and to enact major changes in UBI policy implementation. In a
-UBI system, what's worth lobbying for? Increased marketability. Yet,
-restricting the purchasing power of UBI via product classification is
-the only way the government can fairly dispense cash to the
-chronically unemployed without having the liquidity spent on Starbucks
-lattes and other vices. If the corporate lobbyists win and everything
-is classified as a UBI product, it doesn't work. And on the flip side,
-a dual-currency system where nothing is marketable unless lobbied to
-regulators Washington places power in the hands of regulators and
-causes economic turbulence.
+regulated UBI system, what's worth lobbying for? Increased
+marketability. Yet, restricting the purchasing power of UBI via
+product classification is the only way the government can fairly
+dispense cash to the chronically unemployed without having the
+liquidity spent on Starbucks lattes and other vices. If the corporate
+lobbyists win and everything is classified as a UBI product, it
+doesn't work. And on the flip side, a dual-currency system where
+nothing is marketable unless lobbied to regulators Washington places
+power in the hands of regulators and causes economic turbulence.
 
 <a name="regulation-and-the-vulnerability-of-democracy-to-subversion" />
 
@@ -288,9 +288,10 @@ Most studies will focus on first or second order effects of UBI, but
 they will do so in isolation. Even when UBI is provided to entire
 communities or villages, it is fundamentally different than when
 provided to an entire region, state or nation. And in this way, the
-UBI studies will primarily identify positive results. This will result
-in cognitive bias, where myopic studies crowd out common sense and
-dialogue about systemic response to UBI.
+UBI studies will primarily identify positive results and neglect the
+systemic macroeconomic effects. This will result in cognitive bias,
+where myopic studies crowd out common sense and dialogue about
+systemic response to UBI.
 
 <a name="ubi-must-account-for-geoeconomic-variation" />
 
@@ -298,19 +299,22 @@ dialogue about systemic response to UBI.
 
 The cost of living varies dramatically from place to place. As climate
 change alters weather patterns, agricultural infrastructure will need
-to be repositioned. The price and availability of water will, in
-particular, have a dramatic affect on the cost of living and the cost
-of food. Real estate prices will fluctuate and most of this
-geoeconomic variation over time will be unpredictable. This means we
-need to invest our resources wisely and be prepared to refinance new
+to be repositioned. In particular, the price and availability of water
+will soon have a dramatic affect on the cost of living and the cost of
+food. Real estate prices will fluctuate and most of this geoeconomic
+variation over time will be unpredictable. This means we need to
+invest our resources wisely and be prepared to refinance new
 infrastructure. Strong dynamics in geoeconomic variation will make it
 difficult to fairly distribute UBI and to do so such that areas
 hard-hit by geoeconomic variation will have received a fair sum of
-money.
+money over longer periods of time. The more the sum received deviates
+from what is fair increases with higher geoeconomic variation over
+time, which is unpredictable and results from climate change, among
+other causes.
 
-Wealth distribution is essentally theft. It is difficult to ethically
-or morally justify redistribution of wealth, especially since we are
-*incapable* of doing so fairly.
+Wealth redistribution is essentally theft. It is difficult to
+ethically or morally justify redistribution of wealth, especially
+since we are *incapable* of doing so fairly.
 
 <a name="overregulation-decentivizes-and-stagnates-innovation" />
 
@@ -319,8 +323,13 @@ or morally justify redistribution of wealth, especially since we are
 Disappointing NEET's and basement dwellers nationwide, the pragmatic
 implementation of UBI creates economic turbulence and renders the
 domestic economy vulnerable to global competition. The regulation
-deincentivizes innovation and stagnates the process by which
-innovative new products can become marketable.
+stagnates the process by which new products can become marketable.
+Dismantled incentivization structures stifle innovation. The
+inescapable economic trends essentiall render each of us into a serf.
+
+> This is why I cared so much about launching a startup product from
+> 2012 through 2016. Understanding the inherently finite nature of
+> innovation, I didn't want to be a serf.
 
 <a name="business-is-about-making-assumptions" />
 
@@ -330,13 +339,13 @@ Business is about developing assumptions in contrast to the prevailing
 understanding that enables someone to posture their product or service
 in anticipation of changing trends. This aspect of business is
 fundamental. The shifting long-term objectives and confusing
-implementation details of UBI policy, as they are commonly understood
-by the public, lead to an inability to make lasting assumptions about
-economic trends. In anticipation of shifting policy that invalidates
-these assumptions, investors and entrepreneurs evaluating a business
-model will mostly refrain from investing. There's no point in
-financing a business whose model is invalidated by policy changes,
-potential or inevitable.
+implementation details of regulatory policy, as they are commonly
+understood by the public, lead to an inability to make lasting
+assumptions about economic trends. In anticipation of shifting policy
+that invalidates these assumptions, investors and entrepreneurs
+evaluating a business model will mostly refrain from
+investing. There's no point in financing a business whose model is
+invalidated by policy changes, potential or inevitable.
 
 <a name="inductive-modeling-and-risk-appetite" />
 
@@ -346,7 +355,7 @@ Generally, any detraction from the ability to make valid predictive
 assumptions that hold true over time impairs the identification and
 execution of economically viable opportunities. Cost and risk become
 difficult to measure or are measured using a model invalidated by
-future policy changes. If one can assume that there are no policy
+future policy changes. If one can assume that there are few policy
 changes, then investors have a much larger risk appetite, which leads
 to higher growth amid stable policy conditions. Heavily regulated
 environments with high policy turnover, high barrier to entry and an
@@ -360,7 +369,7 @@ These generalizations about business are related to
 [induction puzzles](https://en.wikipedia.org/wiki/Induction_puzzles),
 where the ability to make assumptions via inductive logic allows one
 to carve away at the problem space. One uses induction to
-combinatorially evaluate valid configurations of the system. If
+combinatorially evaluate valid configurations of the system. If more
 induction is required, then the difficulty of the problem is
 exponentially more complex. Potential policy changes essentially add
 variables to be combinated with induction and evaluated for
@@ -374,7 +383,8 @@ asset portfolio.
 Capitalism essentially harnesses the same math behind machine learning
 to create evolutionary dynamics. These "reified maths" form the
 invisible hand that confers advantage to the best marketed, best
-formulated or best packaged products. Free market systems reduce
+formulated or best packaged products. *It is quite literally the very
+same maths behind machine learning.* Free market systems reduce
 inefficiencies in an economy, delivering more value to citizens
 domestically and making the economy more competitive globally.
 
@@ -415,8 +425,8 @@ currency inflation effects do not add, they multiply. And, given the
 strong need to finance with credit, the dependency on central banking
 then strongly influences international currency markets and foreign
 currency reserves. The question is not whether expenditures and credit
-of this magnitiude it will influence currency markets and reserves,
-but how.
+of this magnitiude will influence currency markets and reserves, but
+how.
 
 <a name="oh-you-cited-a-potential-gdp-increase-gdp-is-good" />
 
@@ -426,16 +436,27 @@ Economics without mathematics modeled on graph theory is dangerously
 oversimplified. Linear and non-linear systems modeled on top of graphs
 can be understood at a high level through analysis of feedback loops
 and systems theory. Economic manipulation and micromanagement
-inevitably results in unintendend amplification to these feedback
-loops, which results in general instability, poorly priced assets,
-market inefficiency, misguided behavior patterns, misallocation of
-wealth, and wholly artificial trends driven by small groups of
-elitists with the right connections and influence. Generally speaking,
-the combinations of positive and negative feedback loops in such a
-system compose to amplify with magnitude of *products* of individual
-effects and not *sums*. Such systems function healthiest and can be
-most reliably predicted when left to function for themselves and when
-artificial manipulation is restricted or at least transparent.
+inevitably results in unintended amplification to these feedback
+loops, which results:
+
+#### &#x2065; General instability
+
+#### &#x2065; Poorly priced assets
+
+#### &#x2065; Market inefficiency
+
+#### &#x2065; Misguided behavior patterns
+
+#### &#x2065; Misallocation of wealth
+
+#### &#x2065; And wholly artificial trends driven by small groups of elitists with the right connections and influence.
+
+Generally speaking, the combinations of positive and negative feedback
+loops in such a system compose to amplify with magnitude of *products*
+of individual effects and not *sums*. Such systems function healthiest
+and can be most reliably predicted when left to function for
+themselves and when artificial manipulation is restricted or at least
+transparent.
 
 <a name="the-progression-of-automation-in-labor-markets" />
 
@@ -514,7 +535,7 @@ tractible analytical approximation to the original solution.
 
 Of course, there is no actual connection between the two. But without
 needing to understanding the connection, a computer can identify
-seemingly uncorrelated variables which can be use to construct an
+seemingly uncorrelated variables which can be used to construct an
 approximate solution. The more data and the more proficient the
 training, the more accurately its construction of approximated
 solutions can be leveraged.
@@ -523,8 +544,8 @@ What that common assumption fails to grasp is the similarity of mental
 labor to computation and the computational capacity of the human
 brain, which still outpaces the sum of all supercomputers on Earth.
 While user interface for the human brain is weak and requires years of
-conditioning, someone in a mental labor is essentially performing many
-of the same tasks that computers would. The human brain is
+conditioning, someone in a mental labor role is essentially performing
+many of the same tasks that computers would. The human brain is
 particularly good at identifying and correlating arbitrary data, which
 provide data-processing shortcuts to some solution.
 
@@ -649,7 +670,7 @@ National citizen service can be harnessed to imprint a near-universal
 experience or widely-shared types of experiences. If these experiences
 are common, they form the basis of pattern languages that help us
 communicate and diagnose domestic issues. UBI does not provide this
-opportunity for cultural transmission or the imprinting of types of
+opportunity for cultural transformation or the imprinting of types of
 experiences. Unless one assumes the best case to represent the
 majority (e.g. that people will react by altruistically using UBI as
 an opportunity for personal development instead of hedonism or
@@ -681,7 +702,7 @@ people to come together.
 In the past, religion has been used to imprint experience types and to
 encourage social flux, which induces transmission of information and
 beliefs amoung its participants. Religious customs that are social,
-like regular attendance of church, drive social flux that trigger
+like regular attendance of church, drive social flux that triggers
 permeation of information through social networks. There are
 evolutionary dynamics to religions and belief systems. There are real
 benefits to their practices. The religions that managed to hold on to
@@ -701,7 +722,6 @@ welcomed for international development of infrastructure. We'll need
 to expand a force like Americorps or create new institutions. Human
 capital to help build the foundations of underdeveloped economies,
 which provides a framework for economic growth in the 21st century.
-Such internation
 
 <a name="what-to-do-with-20-to-100-million-unemployed" />
 
@@ -711,9 +731,9 @@ Such internation
 
 There's an oversaturated labor market where low demand and high
 specificity in requirements for job roles renders several dozen
-American adults unemployed. A higher proportion of the US government
-budget is dedicated to expansive entitlement programs with less
-leftover for the discretionary budget.
+million American adults unemployed. A higher proportion of the US
+government budget is dedicated to expansive entitlement programs with
+less leftover for the discretionary budget.
 
 #### What do you do?
 
@@ -724,6 +744,8 @@ least have their net human potential coordinated in some positive
 way. Throughout history, we've been able to depend on economics and
 self-interest to motivate people to work. Yet, at this point,
 economics leads us to a place where that doesn't naturally happen.
+
+#### Eden of the East - Opening Scene in Washington, DC
 
 ![Eden of the East - Washington DC](/img/posts/2017-06-06-international-trends-2020-universal-basic-income/eden-of-the-east-washington-dc.gif)
 
