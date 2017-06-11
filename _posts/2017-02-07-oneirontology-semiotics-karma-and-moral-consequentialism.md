@@ -21,6 +21,8 @@ leylines to reify a kind of penetrating light that chokes evil by
 starving its supply of darkness."
 ---
 
+#### &#x2605; Semiotics, Karma and Moral Consequentialism &#x2605; [Engineering Cultural Touchstones for Mythos](/posts/2017-02-14-oneirontology-engineering-cultural-touchstones-for-mythos.html) &#x2605;
+
 ## 夢の門ので覚めっている…
 
 > We are the transplanar entities embodying the dualistic

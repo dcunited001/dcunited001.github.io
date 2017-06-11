@@ -12,9 +12,7 @@ this knowledge over time, by learning to weave ideas and their
 semiotic pointers."
 ---
 
-#### &#x2605;
-[Climate Change](/posts/2017-02-14-oneirontology-engineering-cultural-touchstones-for-mythos)
-&#x2605; Engineering Cultural Touchstones for Mythos &#x2605;
+#### &#x2605; [Semiotics, Karma and Moral Consequentialism](/posts/2017-02-07-oneirontology-semiotics-karma-and-moral-consequentialism.html) &#x2605; Engineering Cultural Touchstones for Mythos &#x2605;
 
 
 > Heads up: this article contains hot fire. Ne Touchez Pas! If
