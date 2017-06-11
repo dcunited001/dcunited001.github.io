@@ -14,35 +14,17 @@ semiotic pointers."
 
 #### &#x2605; [Semiotics, Karma and Moral Consequentialism](/posts/2017-02-07-oneirontology-semiotics-karma-and-moral-consequentialism.html) &#x2605; Engineering Cultural Touchstones for Mythos &#x2605;
 
-
-> Heads up: this article contains hot fire. Ne Touchez Pas! If
-> Prometheus' fate disturbs you: don't play with fire, don't play in
-> the street and don't touch [Dimension W](https://en.wikipedia.org/wiki/Dimension_W).
-
-Remember Prometheus? Cursed to being a liver-packed bento-box meal for
-an Eagle. All day, every day, for eternity. Sounds super fun, right?
-Who wouldn't love that?
-
-#### Dimension W ... Don't Touch It!
-
-![Dimension W](/img/posts/2017-02-14-oneirontology-engineering-cultural-touchstones-for-mythos/dimension-w.jpg)
-
-### Warning: if you'd like to solve the mysteries of the universe yourself...
-
-... then don't read this post. It discusses the principles of
-architecture and design as applied to semiotics and mythology to
-create worldview-evoking belief systems robust enough to stand the
-test of time. Usually, like a priceless bottle of wine, such rare
-knowledge requires generations of distillation. Within this article
-are buried a hundred various PhD theses. Like Pokemon, can you catch
-them all? If you get just one of them you can take that grant
-application to the bank. Just send a thank you card or something.
-
 ![Up Up Down Down Left Right Left Right B A](/img/posts/2017-02-14-oneirontology-engineering-cultural-touchstones-for-mythos/konami-code.png)
 
 After investing ten minutes in this article, you too can craft your
 own belief system that will stand the test of time. Or at least
 understand how "they" did it... It all has to do with semiotics.
+
+This post discusses the principles of architecture and design as
+applied to semiotics and mythology to create worldview-evoking belief
+systems robust enough to stand the test of time. Usually, like a
+priceless bottle of wine, such rare knowledge requires generations of
+distillation.
 
 #### This is...
 
@@ -123,6 +105,18 @@ understand how "they" did it... It all has to do with semiotics.
 #### &#x03D5; [Interlingual Semantic Dissonance](#interlingual-semantic-dissonances)
 
 #### &#x03D5; [Humanity's Semiotic Graph Converges Towards the Universal Semiotic Graph](#humanitys-semiotic-graph-converges-towards-the-universal-semiotic-graph)
+
+Remember Prometheus? Cursed to being a liver-packed bento-box meal for
+an Eagle. All day, every day, for eternity. Sounds super fun, right?
+Who wouldn't love that?
+
+![Dimension W](/img/posts/2017-02-14-oneirontology-engineering-cultural-touchstones-for-mythos/dimension-w.jpg)
+
+Heads up: this article contains fire and lots of it. If Prometheus'
+fate disturbs you: don't play with fire, don't play in the street and
+don't touch [Dimension W](https://en.wikipedia.org/wiki/Dimension_W).
+
+# [The Hegelian Dialectic Wins](#the-hegelian-dialectic-wins)
 
 The argument over the Hegelian and Marxist Dialectics presents itself
 at the center of the struggle over the metaphysical. Marxists seem to
