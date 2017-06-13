@@ -10,31 +10,67 @@ excerpt: ""
 
 # The Automation Crisis
 
-- This is an overview of eight major factors that act as components to
-  the development and outcome of the crisis. These factors are not
-  listed in order of significance because the system is non-linear and
-  these factors effects, dynamics and magnitudes are thus
-  interdependent.
+There is an economic crisis brewing. As automation drives
+unemployment, governments will be forced to respond with policy:
+either UBI or Employer of Last Resort. Regardless of
+[the economic and sociocultural merits of UBI versus ELR](/posts/2017-06-05-international-trends-2020-universal-basic-income.html),
+neither policy is sufficient to stave off unemployment's effects on
+revenue streams to banks. In turn, this triggers several downstream
+effects: a major slowdown in lending, major reduction in liquidity
+available to banks and (...).
 
-- The upcoming crisis is unlike any before. Even though it shares many
-  of the same components, it is fundamentally different in ways that
-  will elude many economists. I do not have the data or the expertise
-  to predict how this will unfold, nor does anyone.
-  - It is not necessarily disastrous for America or the global
-    economy, but there is significant potential for disruption.
-  - It's critical to keep in mind that America has the status quo
-    now. All other powers have a greater incentive to disrupt the
-    economic status quo than we do in maintaining it.
+To cope with the economic turbulence, governments are compelled to
+lend money to prop up the economy. The greater the scope of
+entitlement programs, the more the currency must be diluted in
+response. With numbers pulled directly out of my ass, by 2030, we
+could reach 20-100% annual growth of the national debt. Imagine the
+effect that would have on currency markets, economic development and
+lending institutions.
 
-- (basic overview of the crisis)
-  - a mixture of depression, inflationary measures, or war
+The upcoming crisis is unlike any before. Even though it shares many
+of the same components, it is fundamentally different in ways that
+will elude many economists. I do not have the data or the expertise to
+predict how this will unfold, nor does anyone. It is not necessarily
+disastrous for America or the global economy, but there is significant
+potential for disruption. Again, it's not necessarily worse, but the
+acceleration in economic trends along with qualitative aspects of the
+crisis will cause it to elude understanding.
 
-- (why it's different than previous crisis)
-  - the global economy converges towards a final state
+It's critical to keep in mind that America has the status quo now. All
+other powers have a greater incentive to disrupt the economic status
+quo than we do in maintaining it.
+
+### [Why Is This Crisis Different?]()
+
+Because there isn't enough liquidity and wealth distribution for
+people to keep up with their debt, it's a deflationary depression
+where inflationary measures are appealing to inject liquidity into the
+economy. In doing so, the finance of budget deficits via credit drives
+inflation, which contributes to systemic instability in global
+currency markets. But unlike most depressions, various means of
+production should remain elevated through the use of
+technology. Because of automation's inversion of labor markets, this
+furthers income distribution disparity. The liquidity to invest in
+smart-grid infrastructure and the development of emerging markets will
+be restricted. Further complicating matters, nations often respond to
+depressionary crises with warefare to artificially stimulate of
+economic activity and facilitate expansion. This creates geopolitical
+instability at the same time as global economic crisis.
+
+The Singularity's technology trends drive the global economy to
+converge towards a more final state. This crisis represents a
+tumultuous transition towards economic convergence, but may spiral out
+of control.
 
 # Eight Major Factors
 
-# (1) [Geoeconomic Dynamics of Automation and Unemployment](#geoeconomic-dynamics-of-automation-and-unemployment)
+This is an overview of eight major factors that act as components to
+the development and outcome of the crisis. These factors are not
+listed in order of significance because the system is non-linear and
+these factors effects, dynamics and magnitudes are thus
+interdependent.
+
+## (1) [Geoeconomic Dynamics of Automation and Unemployment](#geoeconomic-dynamics-of-automation-and-unemployment)
 
 ## (2) Policy Response: Strategy, Perception, Timing and Pacing
 
@@ -49,8 +85,6 @@ excerpt: ""
 ## (7) Distribution of Debt
 
 ## (8) Population Flux, Entitlements and Median Income
-
-
 
 # [Geoeconomic Dynamics of Automation and Unemployment](#geoeconomic-dynamics-of-automation-and-unemployment)
 
@@ -75,16 +109,26 @@ excerpt: ""
 
 # [Policy Response: Strategy, Perception, Timing and Pacing]()
 
+- questions to answer:
+  - what policy responses are available? UBI and national service
+  - what policy responses are appealing?
+  - delineate the explanation along economic, sociocultural and
+    geopolitical dimensions
+    - which options are appealing for developed/underdeveloped
+      economies?
+    - how does the economic state of a nation and its citizens
+      affect the policy?
+
 - (every major government's need for a policy response)
 - the choice between UBI and national service
   - the costs/benefits of each will differ depending on how
     developed the nation's economy is.
     - highly developed with lots of cash: UBI will seem more appealing
-    -
+    - 
   - the governmental structure will partially determine policy
     - authoritarian governments can more easily compel people to
       conform to the policy response
-  
+
   - in a democracy, the people's attitudes to being compelled to work
     - highly liberal? the inverse of kennedy's maxim prevails
       - ask what the government can do to fix your problems or bitch
@@ -121,6 +165,7 @@ excerpt: ""
 - The majority of uncapitalized opportunity in the next few decades
   centers around materials science and the resulting intellectual
   property.
+  -
 
 # [Distribution and Control of Foreign Direct Investment]()
 
@@ -258,7 +303,7 @@ excerpt: ""
 
 ### Management of existing debt needs to be flexible
 
-- neither strategy accounts for consumers' need to maintain existing
+- neither UBI/ELR accounts for consumers' need to maintain existing
   cash flows
   - therefore, consumers with jobs in those industries that are
     automated can no longer pay their mortgages, etc
@@ -296,10 +341,6 @@ excerpt: ""
     pay even the interest on their debts.
 - the people examining UBI closely enough to spend millions on studies
   could not possibly be totally ignorant of this.
-
-### Transitioning to UBI is problematic
-
--
 
 ### Even With Inflationary Measures, There is Still Systemic Collapse
 
