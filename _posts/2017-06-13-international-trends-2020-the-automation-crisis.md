@@ -12,15 +12,19 @@ excerpt: ""
 
 There is an economic crisis brewing. As automation drives
 unemployment, governments will be forced to respond with policy:
-either UBI or Employer of Last Resort. Regardless of
+either Universal Basic Income or Employer of Last Resort. Regardless
+of
 [the economic and sociocultural merits of UBI versus ELR](/posts/2017-06-05-international-trends-2020-universal-basic-income.html),
 neither policy is sufficient to stave off unemployment's effects on
 revenue streams to banks. In turn, this triggers several downstream
-effects: a major slowdown in lending, major reduction in liquidity
-available to banks and (...).
+effects:
+
+- a major slowdown in lending,
+- major reduction in liquidity available to banks
+- and (...).
 
 To cope with the economic turbulence, governments are compelled to
-lend money to prop up the economy. The greater the scope of
+borrow money to prop up the economy. The greater the scope of
 entitlement programs, the more the currency must be diluted in
 response. With numbers pulled directly out of my ass, by 2030, we
 could reach 20-100% annual growth of the national debt. Imagine the
@@ -36,21 +40,35 @@ potential for disruption. Again, it's not necessarily worse, but the
 acceleration in economic trends along with qualitative aspects of the
 crisis will cause it to elude understanding.
 
-It's critical to keep in mind that America has the status quo now. All
-other powers have a greater incentive to disrupt the economic status
-quo than we do in maintaining it.
+It's critical to keep in mind that America dominates the economic
+status quo now. Therefore, all other powers have a greater incentive
+to disrupt the status quo than we do in maintaining it. For them, it
+is easier to disrupt than it is for us to maintain. Foreign interests
+and information warfare have subverted American leftists into
+attacking the fundamentals American prosperity. They don't realize
+that it is American prosperity that provides the possibility of
+expansive social programs. Without these economic interests intact,
+the question is no longer whether we should finance entitlement
+programs, but whether we can at all.
 
 ### [Why Is This Crisis Different?]()
 
 Because there isn't enough liquidity and wealth distribution for
 people to keep up with their debt, it's a deflationary depression
 where inflationary measures are appealing to inject liquidity into the
-economy. In doing so, the finance of budget deficits via credit drives
-inflation, which contributes to systemic instability in global
-currency markets. But unlike most depressions, various means of
-production should remain elevated through the use of
-technology. Because of automation's inversion of labor markets, this
-furthers income distribution disparity. The liquidity to invest in
+economy. Such inflationary measures include UBI and ELR. In doing so,
+the finance of budget deficits via credit drives inflation, which
+contributes to systemic instability in global currency markets. But
+unlike most depressions, various means of production should remain
+elevated through the use of technology. Because of automation's
+inversion of labor markets, this furthers income distribution
+disparity, since the profites fall into singularly fewer hands. The
+21st century economy rapidly converges into the control of fewer and
+fewer because of the nature of information and intellectual property.
+
+The outlook on economic expansion is bleak, so it cannot be assumed
+that increased profites will lead to increased tax volume to finance
+the governmental policy response. The liquidity to invest in
 smart-grid infrastructure and the development of emerging markets will
 be restricted. Further complicating matters, nations often respond to
 depressionary crises with warefare to artificially stimulate of
@@ -60,7 +78,7 @@ instability at the same time as global economic crisis.
 The Singularity's technology trends drive the global economy to
 converge towards a more final state. This crisis represents a
 tumultuous transition towards economic convergence, but may spiral out
-of control.
+of control, especially without cooperation.
 
 # Eight Major Factors
 
@@ -124,7 +142,7 @@ interdependent.
   - the costs/benefits of each will differ depending on how
     developed the nation's economy is.
     - highly developed with lots of cash: UBI will seem more appealing
-    - 
+    -
   - the governmental structure will partially determine policy
     - authoritarian governments can more easily compel people to
       conform to the policy response
@@ -174,12 +192,12 @@ interdependent.
     benefits the economy of the consumer while retaining competitive
     advantage and control over intellectual property related to
     industrial processes.
-  - this could drive a minor modality that leads to divestment of
+  - This could drive a minor modality that leads to divestment of
     foreign direct investment, but it's one of many dynamics.
 
 #### supply chain "dimension"
 
-- Thee effect on supply chain dimension of the American & Global
+- The effect on supply chain dimension of the American & Global
   Economies
   - reference arguments from article on regulating conflict minerals
     trade in african nations
@@ -217,16 +235,17 @@ interdependent.
 
 # [Distribution of Debt]()
 
-- What happened during the 2008 housing crisis? The subprime housing
-  markets crashed and the lost revenue streams thereof triggered
-  cascading effects through the global banking system. But how did the
-  subprime housing markets crash? An economic downturn that impacted
-  the riskiest mortgage assets first.
-  - Quite simply, there were people with mortgages who couldn't pay
-    their bills. This require shifts in allocation of liquidity to
-    cover the lost revenue streams, which triggered recession and
-    thereby increased unemployment, leading to more lost revenue
-    streams in the housing sector.
+What happened during the 2008 housing crisis? The subprime housing
+markets crashed and the lost revenue streams thereof triggered
+cascading effects through the global banking system. But how did the
+subprime housing markets crash? An economic downturn that impacted the
+riskiest mortgage assets first.
+
+Quite simply, there were people with mortgages who couldn't pay their
+bills. This require shifts in allocation of liquidity to cover the
+lost revenue streams, which triggered recession and thereby increased
+unemployment, leading to more lost revenue streams in the housing
+sector.
 
 - The distribution of debt among consumers and businesses in America
   is critical. The greater the unmet debt burden, the greater the
@@ -282,7 +301,7 @@ interdependent.
   the faster these macroeconomic dynamics become toxic.
 
 - There are major differences in how this kind of credit-driven policy
-  affects the currency and the behavioral economic dynamics.
+  affects the currency and behavioral economic dynamics.
   - In the nineties and the aughts, the credit stimulated the economy
     through the housing markets, which is a necessary means towards
     promoting home ownership. Therefore, if one manipulates housing
@@ -296,8 +315,6 @@ interdependent.
       similar, but this latter method is unsustainable. At this point,
       you are about as close to literally printing money as you can
       get if you're in charge of the world's reserve currency.
-
-
 
 ## (misc)
 
