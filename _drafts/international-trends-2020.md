@@ -10,6 +10,191 @@ excerpt: ""
 
 - [Part One](/posts/2017-02-28-international-trends-2020-climate-change.html)
 - [Part Two](/posts/2017-02-28-international-trends-2020-the-smart-grid.html)
+- [Part Three](/posts/2017-06-05-international-trends-2020-universal-basic-income.html)
+
+# The Automation Crisis
+
+- This is an overview of eight major factors that act as components to
+  the development and outcome of the crisis.
+- The upcoming crisis is unlike any before. Even though it shares many
+  of the same components, it is fundamentally different in ways that
+  will elude many economists. I do not have the data or the expertise
+  to predict how this will unfold, nor does anyone. 
+  - It is not necessarily disastrous for America or the global
+    economy, but there is significant potential for disruption.
+  - It's critical to keep in mind that America has the status quo
+    now. All other powers have a greater incentive to disrupt the
+    economic status quo than we do in maintaining it.
+
+## Eight Major Factors
+
+### (1) Geoeconomic Progression of Unemployment
+
+- this factor drives the common person's response, their change in
+  economic circumstance and their overall perception of the crisis
+  - from the perspective of a behavioral economist, this factor is the
+    most important in predicting the common person's response and
+    needs at the time the crisis begins unfolding in their nation or
+    region.
+
+### (2) Policy Response: Strategy, Perception, Timing and Pacing
+
+
+
+### (3) Commodity Markets and Resource Distribution
+
+- 
+
+
+### (4) Technology's Effect on Resource Demand/Supply
+
+- e.g. a gradual shift away from fossil fuels and towards renewables
+
+### (5) Distribution and Control of Foreign Direct Investment
+
+
+
+### (6) Forex Dynamics and Foreign Currency Reserve Distribution
+
+
+
+### (7) Distribution of Debt
+
+
+
+### (8) Population Flux, Entitlements and Median Income
+
+- What is the government obligated to provide to each citizen?
+  - What is the government obligated to provide for non-citizens and
+    illegal immigrants?
+  - Did the government enact amnesty programs for illegal immigrants?
+    Did it do so because a certain political party wanted to use the
+    votes to stay in power?
+- How much do people contribute to their regional or national economy
+  in return?
+  - How much can citizens who were formerly illegal immigrants be
+    expected to contribute to GDP and tax volume? So what is their net
+    contribution to the deficit? It should be expected to be higher
+    than that of legitimate citizens, though at most amnestees would
+    account for 5% of the population.
+  - But, at some point, we have to decide who is American and who is
+    not. Who is our responsibility and who is not?
+  - This is a global crisis (expand...)
+
+- Because the crisis inevitably results in inflation, this last factor
+  determines the severity of a currency's contribution to disruption
+  to forex markets.
+  - in turn, this determines risk appetite and drives dynamics in
+    deciding where to allocate foreign direct investment.
+- Because the economic crisis cannot be lessened except through credit
+  directly added to government balance sheets, the more spending that
+  is required, the more credit a government will require.
+  - Therefore, the more a government or party obligates itself to do
+    and the more citizens it is obligated to provide for, the less it
+    can do with the same amount of deficit.
+- When this deficit is financed through credit, this furthers
+  inflation. So therefore, the more people and the more entitlements,
+  the faster these macroeconomic dynamics become toxic.
+
+- There are major differences in how this kind of credit-driven policy
+  affects the currency and the behavioral economic dynamics.
+  - In the nineties and the aughts, the credit stimulated the economy
+    through the housing markets, which is a necessary means towards
+    promoting home ownership. Therefore, if one manipulates housing
+    prices and other aspects of the real-estate market, one can
+    increase GDP and tax volume artificially through credit, when the
+    credit is seen as necessary and sustainable.
+  - When one begins to infuse a deficit ridden government with cash,
+    it is not seen in the same light by creditors, investors and other
+    backing nations.
+    - The effects in floating your economy are, on the surface,
+      similar, but this latter method is unsustainable. At this point,
+      you are about as close to literally printing money as you can
+      get if you're in charge of the world's reserve currency.
+
+
+
+## (misc)
+
+### Management of existing debt needs to be flexible
+
+- neither strategy accounts for consumers' need to maintain existing
+  cash flows
+  - therefore, consumers with jobs in those industries that are
+    automated can no longer pay their mortgages, etc
+  - this is another source of potential systemtic economic collapse,
+    given high consumer debt appetite and poorly managed credit
+  - make the home & garden channel illegal
+  - encourage higher payment of existing debt, while the economy
+    permits (except this is terrible in a consumer driven economy)
+
+### Sorry Ms. Swift, We Are Not Out of the Woods Yet
+
+  - we need to avoid the tendancy to hack the economy. the factors
+    that drove the housing crisis were essentially an attempt to hack
+    macroeconomic indicators to drive consumerism and maintain GDP
+    growth
+    - the flood of cheap credit into domestic industries such as
+      construction floated these industries and kept a healthy flux of
+      liquidity flowing through the economy. this artificially
+      increased employment, etc.
+    - but if we are "banking" on these same strategies to float
+      macroeconomics via injection of liquidity/credit, the more we
+      depend on them, the greater this future crisis will be
+
+### Enslavement by Debt and Desire
+
+- this all leads to a massive depression.
+  - this is unlike any depression in history because, for those at the
+    top, there is high growth and economic opportunity is plentiful.
+  - but, for everyone else, there is no economic opportunity, except
+    as artificially provided by the government or those with liquidity
+    and a penchant for unnecessary spending.
+  - in this depresson, people owe massive sums of debt that the
+    economy (does not allow) them to pay. so, our credit institutions
+    systemically stagnate. in severe cases, the borrower is unable to
+    pay even the interest on their debts.
+- the people examining UBI closely enough to spend millions on studies
+  could not possibly be totally ignorant of this.
+
+### Transitioning to UBI is problematic
+
+-
+
+### Even With Inflationary Measures, There is Still System Collapse
+
+- The easy way out is by financing government policy, either UBI or
+  some national service, using central banking.
+  - Doing so causes inflation and lessens the magnitude of the
+    depression.
+    - This is because existing debts are easier to pay in the midst of
+      inflation.
+    - Think this strategy is popular with the financial elite or with
+      countries who hold large quantities of dollars in reserve?
+      - yeh ok. it's not. so think again, liberals. and maybe shut the
+        hell up online while you're at it.
+  - ultimately either strategy requires financing via debt through the
+    Fed. However, the injection of liquidity is neither.
+
+- because the only way to lessen the magnitude of the crisis is via
+  inflation, investment in gold/silver is a good bet.
+  - As this approaches, I'd recommend 1% of investment in gold/silver
+    per 1% in unemployment.
+
+### Without Inflation, Student Loan Reform is Reasonable
+
+- The actual value of college education is much lower than the price.
+  Especially looking forward, one can see that there is less incentive
+  to become indebted for a college degree.
+
+  - it is impossible to avoid a convergent economy, where the wealth
+    converges into an asymptotically smaller number of hands
+  - garbage in, garbage out
+    - if computers augment our ability to think, achieve and function,
+      then we need ...
+
+
+===============
 
 ## [Space: Economics and Evolution of Governance Mechanisms](#space-economics-and-evolution-of-governance-mechanisms)
 

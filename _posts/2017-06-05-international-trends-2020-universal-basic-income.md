@@ -135,10 +135,15 @@ fewer? So if UBI dispenses tons of artificial liquidity into the
 economy, who do you think will benefit most as products are
 virtualized?
 
-Silicon Valley's desire to posture themselves to handle unemployment
-is not selfishly motivated. They know it's real and genuinely want
-handle this, but the people affected will look for people in power who
-profited from business and policy.
+What do Silicon Valley apps and all virtualized products monetize?
+Essentially, your time and attention.  This is especially true of
+social media products. Media should not advocate for UBI because the
+have they most to gain from consumers' collective idle time.
+
+Still, Silicon Valley's desire to posture themselves to handle
+unemployment is not selfishly motivated. They know it's real and
+genuinely want handle this, but the people affected will look for
+people in power who profited from business and policy.
 
 <a name="complexity-theory-partially-determines-the-progression-of-unemployment" />
 
@@ -733,7 +738,7 @@ There's an oversaturated labor market where low demand and high
 specificity in requirements for job roles renders several dozen
 million American adults unemployed. A higher proportion of the US
 government budget is dedicated to expansive entitlement programs with
-less leftover for the discretionary budget.
+less left over for the discretionary budget.
 
 #### What do you do?
 
@@ -741,9 +746,12 @@ You fucking hope you played your cards right because it's going to be
 tough no matter what you do. Large amounts of unemployed people
 typically leads to unrest. It's better for people to be busy or at
 least have their net human potential coordinated in some positive
-way. Throughout history, we've been able to depend on economics and
-self-interest to motivate people to work. Yet, at this point,
-economics leads us to a place where that doesn't naturally happen.
+way. Throughout history, we've been able to depend on economic
+structures and self-interest to motivate people to cooperate and
+build. Yet, at this point, economics leads us to a place where that
+doesn't naturally happen.  Our incentivization structures break down,
+but we still need to remain competitive because the world hasn't quite
+congealed into one.
 
 #### Eden of the East - Opening Scene in Washington, DC
 
@@ -792,10 +800,13 @@ employer of last resort, the capacity to seize on the latter to hit
 fifty birds with one stone is undeniably more advantageous. It also
 reduces the risk of large swaths of population being either idle or
 feeling like their work and self-investment is rewarded
-disproportionately. The 21st century is one of the great filters of
-Fermi's paradox and we want to piss away all our money? If we go for
-UBI, we will see revolution and transformation into something
-requiring national service anyways.
+disproportionately. The 21st century yields one of the great filters
+of Fermi's paradox and we want to piss away all our money?
+
+If we do nothing or choose UBI, we *will* see revolution and
+transformation into something requiring national service
+anyways. After any revolution, you have to placate the masses and
+continue to suppress dissent. How do you think that would happen?
 
 <a name="more-intergenerational-and-geoeconomic-dynamics" />
 
@@ -834,7 +845,7 @@ compete with those from nations that don't tax automation. How did
 globalization affect domenstic manufacturing and why? Corporations
 moved overseas because they harnessed the cheapest source of labor
 available. That's economics at work and similar dynamics will be in
-play if automation is taxed.
+play if automation is taxed, though in some form it is a good idea.
 
 <a name="i-hope-all-that-money-is-well-invested" />
 
@@ -885,6 +896,3 @@ wedges itself in the frame of international law and is used to contort
 precedent. Then, as we begin to colonize space, humanity again
 rearchitects our outermost paradigms of governance, leading to a
 transition away from the brief post-Westphalian period.
-
-
-
