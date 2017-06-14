@@ -51,7 +51,7 @@ expansive social programs. Without these economic interests intact,
 the question is no longer whether we should finance entitlement
 programs, but whether we can at all.
 
-### [Why Is This Crisis Different?]()
+### [Why Is This Crisis Different?](#why-is-this-crisis-different)
 
 Because there isn't enough liquidity and wealth distribution for
 people to keep up with their debt, it's a deflationary depression
@@ -66,14 +66,16 @@ disparity, since the profites fall into singularly fewer hands. The
 21st century economy rapidly converges into the control of fewer and
 fewer because of the nature of information and intellectual property.
 
-The outlook on economic expansion is bleak, so it cannot be assumed
-that increased profites will lead to increased tax volume to finance
-the governmental policy response. The liquidity to invest in
-smart-grid infrastructure and the development of emerging markets will
-be restricted. Further complicating matters, nations often respond to
-depressionary crises with warefare to artificially stimulate of
-economic activity and facilitate expansion. This creates geopolitical
-instability at the same time as global economic crisis.
+If we don't play our cards right, the outlook on economic expansion is
+bleak, so it cannot be assumed that increased profits will lead to
+increased tax volume to finance the governmental policy response. In
+this case, increased tax rates will also be insufficient. The
+liquidity to invest in smart-grid infrastructure and the development
+of emerging markets will be restricted. Further complicating matters,
+nations often respond to depressionary crises with warefare to
+artificially stimulate of economic activity and facilitate
+expansion. This creates geopolitical instability at the same time as
+global economic crisis.
 
 The Singularity's technology trends drive the global economy to
 converge towards a more final state. This crisis represents a
@@ -122,7 +124,7 @@ interdependent.
     phenomenological limits of artificial intelligence, 3D printing
     and nano-technology.
 
-- how does this impact the developed world?
+- how does this impact developing nations?
   - what does it mean for a rising china?
   - what does it mean for America and the EU?
 
@@ -350,18 +352,67 @@ policy is not reactive, it is proactive. It must drive trends and
 mitigate uncertainty, while being strongly defined by exigent trends
 and the Singularity's assymptotic finality of economic convergence.
 
+### Policy Must Account For Domestic and Foreign Political Reaction
+
 Policy must also expect the domestic and foreign political reaction,
 as well as the tendency of the masses to be completey unaware of the
 economic reasoning behind policy. Policy must also attempt to
 construct the proper narrative moving forward, so that citizenry
-living in democracy actively support it. We must keep in mind the
-shifting nature of information amid social media, as well as the
-difficulty in avoiding complete communist revolution. Far left
-radicals will encourage the pursuit of poorly thought out policy that
-causes the bottom to fall out and they will harness the political
-momentum that results from economic chaos. They will distract the
-masses from understanding the true causes of the economic crisis,
-favoring to ideologically place the blame on capitalism.
+living in democracy actively support it.
+
+
+
+
+### Policy Must Account for Disinformation in the Age of Social Media
+
+We must keep in mind the shifting nature of information amid social
+media, as well as the difficulty in avoiding complete communist
+revolution. Hyperconnectedness and the light-speed velocity at which
+ideas travel on the internet disrupt our ability to discern
+causality. That is, no one can determine cause and effect in political
+or sociocultural affairs. Therefore, it's anyone's game when
+constructing a narrative.
+
+Far left radicals will encourage the pursuit of poorly thought out
+policy that causes the bottom to fall out and they will harness the
+political momentum that results from economic chaos. They will
+distract the masses from understanding the true causes of the economic
+crisis, favoring to ideologically place the blame on capitalism. While
+it may be a herculean task, I recommend scorching each neck of that
+hydra with a blazing firebrand. The more radical leftists will not
+hesitate to use each economic setback as a means to gain ground while
+setting us back further. It will distract us from executing a coherent
+strategy.
+
+### Revolution is Expensive and the Opportunity Cost is Unacceptable
+
+Groups planning to capitalizing on the economic chaos by rewriting the
+narrative to undermine the American economic system are leading us
+right off a cliff. Revolution involves transfer of power and of
+assets, either legally, nomininally or just functionally. That's how
+Marxist revolution works.
+
+It's not a matter of opinion. There will be economic crisis and any
+friction or disunity in America's reaction is unacceptable. America
+must unite and we cannot tolerate dissension or we will end up ceding
+our own economic interests to our enemies at the culmination of human
+history. America underneath the foot of our enemies will be
+unrecognizable. You will not receive the social programs you are
+looking for because our government, with a ruined currency, will not
+be able to afford them. So, if you disrupt our fountain of prosperity
+or our path forward, America will destroy you.
+
+We completely anticipate a
+[fifth column](https://en.wikipedia.org/wiki/Fifth_column) to
+emerge. If warranted, we will funnel antagonistic forces within
+America into a single movement and we will break your back. At that
+point, you might say that we are counting on it. The economic tensions
+will need someone to blame and, with data science, we can determine
+those advocating to undermine American interests. We will scapegoat
+communists as an Ouroborosian alchemical cost to galvanize America, in
+the name of safeguarding our interests.
+
+### (Hacking the Economics)
 
 - We need to avoid the tendancy to hack the economy using Keynesian
   economics.
@@ -396,10 +447,28 @@ favoring to ideologically place the blame on capitalism.
         identify and compete over economic opportunity abroad.
   - (explain how this correlates to proper allocation of capital)
 
-### Raising Interest Rate
+### Adjusting Interest Rates
 
-- explain how a slowdown in lending may be beneficial in extending
-  this liquidity launchpad later on
+Interest rates will affect lending behavior, which can increase or
+reduce the total consumer and corporate debt. When unemployment spikes
+as a result of automation, these revenue streams must be accounted for
+by diverting liquidity. So, if the total amount of debt that must be
+accounted for is lower after a decade of lower interest rates, this
+means less liquidity will need to be diverted later on.
+
+It's not that a slowdown in lending via lower interest rates will be
+necessary. It's that we need to make wiser investment decisions that
+weigh the long-term economic consequences much more heavily than the
+short-term. Lending institutions cannot simply conduct themselves with
+the next quarter's results in mind.
+
+### International Economic Development
+
+In terms of maximizing profits, American and multinational banks will
+almost certainly tend to avoid developing markets because of the
+higher risk and lower returns, but if they do so, this doesn't
+establish an economic platform that America can use to replace
+liquidity in the 2030's.
 
 ### Limiting Effects on Employment and Median Income
 
