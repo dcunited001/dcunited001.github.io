@@ -1,5 +1,5 @@
 ---
-title: "International Trends 2020"
+title: "International Trends 2020: The Automation Crisis"
 categories: blog
 tags: ""
 headline: ""
@@ -19,9 +19,9 @@ neither policy is sufficient to stave off unemployment's effects on
 revenue streams to banks. In turn, this triggers several downstream
 effects:
 
-- a major slowdown in lending,
-- major reduction in liquidity available to banks
-- and (...).
+- a major reduction in liquidity available to banks
+- a major slowdown in consumer and corporate lending
+- 
 
 To cope with the economic turbulence, governments are compelled to
 borrow money to prop up the economy. The greater the scope of
@@ -109,9 +109,10 @@ interdependent.
 - this factor drives the common person's response, their change in
   economic circumstance and their overall perception of the crisis
   - from the perspective of a behavioral economist, this factor is the
-    most important in predicting the common person's response and
-    needs at the time the crisis begins unfolding in their nation or
-    region.
+    most important in predicting the common person's response, both
+    financially and politically, as well as their needs at the time
+    the crisis begins unfolding in their nation or region.
+
 - this contributes towards dynamics which invert globalization's
   impact on regional manufactoring, while decimating labor markets.
   - That is, American manufacturing is more likely to move home, but
@@ -195,7 +196,7 @@ interdependent.
   - This could drive a minor modality that leads to divestment of
     foreign direct investment, but it's one of many dynamics.
 
-#### supply chain "dimension"
+#### International Regulation of Supply Chains
 
 - The effect on supply chain dimension of the American & Global
   Economies
@@ -204,10 +205,10 @@ interdependent.
   - elaborate on mechanics/dynamics of shifting supply chains
     - especially in the context of novel materials/fabrication tech
 
-#### International Regulation of Supply Chains
-
-- The interantional regulation of supply chains strongly constrains
+- The interantional regulation of supply chains will constrain
   investment behavior... (include this here?)
+- Conflict minerals help finance destabilization and prevent economic
+  development
 
 - There is a fantastic Harvard ILJ article on this specific issue,
   which is absolutely fascinating. In terms of novel-information
@@ -223,14 +224,31 @@ interdependent.
     my acquisition of knowledge to personally unknown levels.
 - TODO: what about it?
   - how is it difficult? how does international supply chain
-    regulation affect cost structures and the incentivization of
-    corporate behavior?
+    regulation affect cost structures, the incentivization of
+    corporate behavior and foreign direct investment?
 
 # [Forex Dynamics and Foreign Currency Reserve Distribution]()
 
-- effects of inflation
-- willingness of institutions to lend
-- effects on lending
+- I need to know more about forex trading and foriegn currency
+  dynamics to understand how this factor plays into the crisis.
+  - However, I do know that there will be strong political influences
+    that emerge as a result of forex markets, foreign currency reserve
+    distribution and foreign debt holdings.
+  - I also know that the Dollar's status as the world's reserve
+    currency will critically cause the emergent political influences
+    to be stronger and different in quality than for other currencies
+
+- effects of inflation on currency markets and the behavioral dynamics
+  of groups with significant currency reserves and debt holdings.
+  - groups with significant US debt holdings or US currency reserves
+    will attempt to influence American policy to suit their interests.
+    - we should be willing to cooperate, but prioritize our own
+      interests first through forward-thinking economic policy.
+
+- effects on lending: willingness of institutions to lend
+  - why would institutions lend with low-interest if they are
+    expecting inflation or significant forex value fluctuations?
+
 - sustainability of credit-driven policy
 
 # [Distribution of Debt]()
@@ -266,23 +284,30 @@ sector.
   - Are you a leftist who rails against American imperialism?
   - ...
 
-# [Population Flux, Entitlements and Median Income]()
+# [Entitlements, Median Income and Population Flux]()
 
-- What is the government obligated to provide to each citizen?
-  - What is the government obligated to provide for non-citizens and
-    illegal immigrants?
-  - Did the government enact amnesty programs for illegal immigrants?
-    Did it do so because a certain political party wanted to use the
-    votes to stay in power?
-- How much do people contribute to their regional or national economy
-  in return?
-  - How much can citizens who were formerly illegal immigrants be
-    expected to contribute to GDP and tax volume? So what is their net
-    contribution to the deficit? It should be expected to be higher
-    than that of legitimate citizens, though at most amnestees would
-    account for 5% of the population.
-  - But, at some point, we have to decide who is American and who is
-    not. Who is our responsibility and who is not?
+> "Ask not what your government can do for you, but what you can do
+> for your government."
+
+What is the government obligated to provide to each citizen? What is
+the government obligated to provide for non-citizens and illegal
+immigrants? Did the government enact amnesty programs for illegal
+immigrants? Did it do so because of a certain political party's
+long-term strategy to use the votes to stay in power?
+
+How much do people contribute to their regional or national economy in
+return? How much can citizens who were formerly illegal immigrants be
+expected to contribute to GDP and tax volume? So what is their net
+contribution to the deficit? It should be expected to be higher than
+that of legitimate citizens, though at most amnestees would account
+for 5% of the population.
+
+- But, at some point, we have to decide who is American and who is
+  not. Who is our responsibility and who is not?
+  - This is not in any way a distinction to be made on a racial or
+    ethnic basis. Yet, we must decide who receives the benefits of
+    American citizenship and who does not.
+    - If the benefits are attractive, (describe people's response...)
   - This is a global crisis (expand...)
 
 - Because the crisis inevitably results in inflation, this last factor
@@ -316,9 +341,72 @@ sector.
       you are about as close to literally printing money as you can
       get if you're in charge of the world's reserve currency.
 
-## (misc)
+# Sorry Ms. Swift, We Are Not Out of the Woods Yet
 
-### Management of existing debt needs to be flexible
+We need forward-looking economic policy determined by where the global
+economy is heading. Amid the uncertainty imposed by these eight
+factors, each strongly defining how the crisis unfolds, the successful
+policy is not reactive, it is proactive. It must drive trends and
+mitigate uncertainty, while being strongly defined by exigent trends
+and the Singularity's assymptotic finality of economic convergence.
+
+Policy must also expect the domestic and foreign political reaction,
+as well as the tendency of the masses to be completey unaware of the
+economic reasoning behind policy. Policy must also attempt to
+construct the proper narrative moving forward, so that citizenry
+living in democracy actively support it. We must keep in mind the
+shifting nature of information amid social media, as well as the
+difficulty in avoiding complete communist revolution. Far left
+radicals will encourage the pursuit of poorly thought out policy that
+causes the bottom to fall out and they will harness the political
+momentum that results from economic chaos. They will distract the
+masses from understanding the true causes of the economic crisis,
+favoring to ideologically place the blame on capitalism.
+
+- We need to avoid the tendancy to hack the economy using Keynesian
+  economics.
+  - For example, the factors that led to the housing crisis were
+    essentially an attempt to hack macroeconomic indicators to drive
+    consumerism, maintain GDP growth and promote an artificial sense
+    of prosperity that would lead to high spending.
+    - the flood of cheap credit into domestic industries such as
+      construction floated these industries and kept a healthy flux of
+      liquidity flowing through the economy. this artificially
+      increased employment, etc.
+    - but if we are "banking" on these same strategies to float
+      macroeconomics via injection of liquidity/credit, the more we
+      depend on them, the greater this future crisis will be
+
+### Strategic Allocation of Liquidity While Its Available
+
+- When we hack the economy to optimize macroeconomic indicators, we
+  often delude ourselves into believing optimal indicators imply
+  optimal allocation of wealth.
+  - This is a dangerous assumption to make, especially with regard to
+    this upcoming crisis.
+  - We must assume that we have a finite amount of liquidity flux to
+    invest in a platform for economic development.
+    - We need an economic engine that harnesses the differential in
+      geoeconomic distribution of unemployment.
+      - This sounds complicated but simply means that automation
+        occurs in developed economies first, where the economic
+        platform exists, but there is economic opportunity in
+        developing that platform elsewhere.
+      - So we can assume that developed economies will have a need to
+        identify and compete over economic opportunity abroad.
+  - (explain how this correlates to proper allocation of capital)
+
+### Raising Interest Rate
+
+- explain how a slowdown in lending may be beneficial in extending
+  this liquidity launchpad later on
+
+### Limiting Effects on Employment and Median Income
+
+- (maximization of launchpad time)
+  - by taxing automation, we can limit the
+
+### Flexible Management of Existing Debt
 
 - neither UBI/ELR accounts for consumers' need to maintain existing
   cash flows
@@ -329,20 +417,6 @@ sector.
   - make the home & garden channel illegal
   - encourage higher payment of existing debt, while the economy
     permits (except this is terrible in a consumer driven economy)
-
-### Sorry Ms. Swift, We Are Not Out of the Woods Yet
-
-  - we need to avoid the tendancy to hack the economy. the factors
-    that drove the housing crisis were essentially an attempt to hack
-    macroeconomic indicators to drive consumerism and maintain GDP
-    growth
-    - the flood of cheap credit into domestic industries such as
-      construction floated these industries and kept a healthy flux of
-      liquidity flowing through the economy. this artificially
-      increased employment, etc.
-    - but if we are "banking" on these same strategies to float
-      macroeconomics via injection of liquidity/credit, the more we
-      depend on them, the greater this future crisis will be
 
 ### Enslavement by Debt and Desire
 
@@ -379,7 +453,7 @@ sector.
   - As this approaches, I'd recommend 1% of investment in gold/silver
     per 1% in unemployment.
 
-### Without Inflation, Student Loan Reform is Reasonable
+### Student Loan Reform is Reasonable
 
 - The actual value of college education is much lower than the price.
   Especially looking forward, one can see that there is less incentive
@@ -390,3 +464,7 @@ sector.
   - garbage in, garbage out
     - if computers augment our ability to think, achieve and function,
       then we need ...
+
+### Reform of Higher Education is Preferable
+
+
