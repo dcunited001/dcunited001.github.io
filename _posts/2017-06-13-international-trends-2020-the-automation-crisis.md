@@ -17,11 +17,9 @@ of
 [the economic and sociocultural merits of UBI versus ELR](/posts/2017-06-05-international-trends-2020-universal-basic-income.html),
 neither policy is sufficient to stave off unemployment's effects on
 revenue streams to banks. In turn, this triggers several downstream
-effects:
-
-- a major reduction in liquidity available to banks
-- a major slowdown in consumer and corporate lending
-- 
+effects, including a major reduction in liquidity available to banks
+and a major slowdown in consumer and corporate lending. These effects
+come at a poor time.
 
 To cope with the economic turbulence, governments are compelled to
 borrow money to prop up the economy. The greater the scope of
@@ -72,7 +70,7 @@ increased tax volume to finance the governmental policy response. In
 this case, increased tax rates will also be insufficient. The
 liquidity to invest in smart-grid infrastructure and the development
 of emerging markets will be restricted. Further complicating matters,
-nations often respond to depressionary crises with warefare to
+nations often respond to depressionary crises with warfare to
 artificially stimulate of economic activity and facilitate
 expansion. This creates geopolitical instability at the same time as
 global economic crisis.
@@ -343,16 +341,22 @@ for 5% of the population.
       you are about as close to literally printing money as you can
       get if you're in charge of the world's reserve currency.
 
-# Sorry Ms. Swift, We Are Not Out of the Woods Yet
+# [Sorry Ms. Swift, We Are Not Out of the Woods Yet]()
 
-We need forward-looking economic policy determined by where the global
-economy is heading. Amid the uncertainty imposed by these eight
-factors, each strongly defining how the crisis unfolds, the successful
-policy is not reactive, it is proactive. It must drive trends and
-mitigate uncertainty, while being strongly defined by exigent trends
-and the Singularity's assymptotic finality of economic convergence.
+Just because the economy seems to have recovered from the 2008 crisis
+doesn't mean that we're out of the woods yet. We need forward-looking
+economic policy determined by where the global economy is
+heading. Amid the uncertainty imposed by these eight factors, each
+strongly defining how the crisis unfolds, the successful policy is not
+reactive, it is proactive. It must drive trends and mitigate
+uncertainty, while being strongly defined by exigent trends and the
+Singularity's assymptotic finality of economic convergence.
 
-### Policy Must Account For Domestic and Foreign Political Reaction
+- Please note that I don't have the data or expertise to make solid
+  recommendations.
+  - counter-intuitive nature of economic policy
+
+### [Policy Must Account For Domestic and Foreign Political Reaction](#policy-must-account-for-domestic-and-foreign-political-reaction)
 
 Policy must also expect the domestic and foreign political reaction,
 as well as the tendency of the masses to be completey unaware of the
@@ -360,59 +364,23 @@ economic reasoning behind policy. Policy must also attempt to
 construct the proper narrative moving forward, so that citizenry
 living in democracy actively support it.
 
+### [Avoid Hacking Economics for Short-Term Gain](#avoid-hacking-economics-for-short-term-gain)
 
+When we hack the economy to optimize macroeconomic indicators, we
+often delude ourselves into believing optimal indicators imply optimal
+allocation of wealth.
 
+That is, the common person assumes that the cash flowing around the
+economy reflects strong economic fundamentals, when instead Keynesian
+economics allows "even out" economic turbulence by stimulating the
+economy with central banking. The credit injected into the economy, in
+turn, promotes economic growth. So when there's not enough liquidity
+in the system, one uses central banks to pump it in.
 
-### Policy Must Account for Disinformation in the Age of Social Media
-
-We must keep in mind the shifting nature of information amid social
-media, as well as the difficulty in avoiding complete communist
-revolution. Hyperconnectedness and the light-speed velocity at which
-ideas travel on the internet disrupt our ability to discern
-causality. That is, no one can determine cause and effect in political
-or sociocultural affairs. Therefore, it's anyone's game when
-constructing a narrative.
-
-Far left radicals will encourage the pursuit of poorly thought out
-policy that causes the bottom to fall out and they will harness the
-political momentum that results from economic chaos. They will
-distract the masses from understanding the true causes of the economic
-crisis, favoring to ideologically place the blame on capitalism. While
-it may be a herculean task, I recommend scorching each neck of that
-hydra with a blazing firebrand. The more radical leftists will not
-hesitate to use each economic setback as a means to gain ground while
-setting us back further. It will distract us from executing a coherent
-strategy.
-
-### Revolution is Expensive and the Opportunity Cost is Unacceptable
-
-Groups planning to capitalizing on the economic chaos by rewriting the
-narrative to undermine the American economic system are leading us
-right off a cliff. Revolution involves transfer of power and of
-assets, either legally, nomininally or just functionally. That's how
-Marxist revolution works.
-
-It's not a matter of opinion. There will be economic crisis and any
-friction or disunity in America's reaction is unacceptable. America
-must unite and we cannot tolerate dissension or we will end up ceding
-our own economic interests to our enemies at the culmination of human
-history. America underneath the foot of our enemies will be
-unrecognizable. You will not receive the social programs you are
-looking for because our government, with a ruined currency, will not
-be able to afford them. So, if you disrupt our fountain of prosperity
-or our path forward, America will destroy you.
-
-We completely anticipate a
-[fifth column](https://en.wikipedia.org/wiki/Fifth_column) to
-emerge. If warranted, we will funnel antagonistic forces within
-America into a single movement and we will break your back. At that
-point, you might say that we are counting on it. The economic tensions
-will need someone to blame and, with data science, we can determine
-those advocating to undermine American interests. We will scapegoat
-communists as an Ouroborosian alchemical cost to galvanize America, in
-the name of safeguarding our interests.
-
-### (Hacking the Economics)
+- There's nothing inherently wrong with Keynesian economics, but
+  there's a tendency for these policies to go horribly wrong. If we
+  pump credit into the economy, but don't invest it in the right
+  places, it's going make everything worse later on.
 
 - We need to avoid the tendancy to hack the economy using Keynesian
   economics.
@@ -428,15 +396,11 @@ the name of safeguarding our interests.
       macroeconomics via injection of liquidity/credit, the more we
       depend on them, the greater this future crisis will be
 
-### Strategic Allocation of Liquidity While Its Available
+### [Strategic Allocation of Liquidity in the 2020's](#strategic-allocation-of-liquidity-in-the-2020s)
 
-- When we hack the economy to optimize macroeconomic indicators, we
-  often delude ourselves into believing optimal indicators imply
-  optimal allocation of wealth.
-  - This is a dangerous assumption to make, especially with regard to
-    this upcoming crisis.
   - We must assume that we have a finite amount of liquidity flux to
-    invest in a platform for economic development.
+    invest in a platform for economic development before unemployment
+    ends up restricting liquidity.
     - We need an economic engine that harnesses the differential in
       geoeconomic distribution of unemployment.
       - This sounds complicated but simply means that automation
@@ -447,7 +411,7 @@ the name of safeguarding our interests.
         identify and compete over economic opportunity abroad.
   - (explain how this correlates to proper allocation of capital)
 
-### Adjusting Interest Rates
+### [Interest Rates And Federal Reserve Policy](#interest-rates-and-federal-reserve-policy)
 
 Interest rates will affect lending behavior, which can increase or
 reduce the total consumer and corporate debt. When unemployment spikes
@@ -462,7 +426,7 @@ weigh the long-term economic consequences much more heavily than the
 short-term. Lending institutions cannot simply conduct themselves with
 the next quarter's results in mind.
 
-### International Economic Development
+### [International Economic Development](#international-economic-development)
 
 In terms of maximizing profits, American and multinational banks will
 almost certainly tend to avoid developing markets because of the
@@ -535,5 +499,74 @@ liquidity in the 2030's.
       then we need ...
 
 ### Reform of Higher Education is Preferable
+
+
+
+### Policy Must Account for Disinformation in the Age of Social Media
+
+We must keep in mind the shifting nature of information amid social
+media, as well as the difficulty in avoiding complete communist
+revolution. Hyperconnectedness and the light-speed velocity at which
+ideas travel on the internet disrupt our ability to discern
+causality. That is, no one can determine cause and effect in political
+or sociocultural affairs. Therefore, it's anyone's game when
+constructing a narrative.
+
+Far left radicals will encourage the pursuit of poorly thought out
+policy that causes the bottom to fall out and they will harness the
+political momentum that results from economic chaos. They will
+distract the masses from understanding the true causes of the economic
+crisis, favoring to ideologically place the blame on capitalism. While
+it may be a herculean task, I recommend scorching each neck of that
+hydra with a blazing firebrand. The more radical leftists will not
+hesitate to use each economic setback as a means to gain ground while
+setting us back further. It will distract us from executing a coherent
+strategy.
+
+### Revolution is Expensive and the Opportunity Cost is Unacceptable
+
+Groups planning to capitalizing on the economic chaos by rewriting the
+narrative to undermine the American economic system are leading us
+right off a cliff. Revolution involves transfer of power and of
+assets, either legally, nomininally or just functionally. That's how
+Marxist revolution works.
+
+It's not a matter of opinion. There will be economic crisis and any
+friction or disunity in America's reaction is unacceptable. America
+must unite and we cannot tolerate dissension or we will end up ceding
+our own economic interests to our enemies at the culmination of human
+history. America underneath the foot of our enemies will be
+unrecognizable. You will not receive the social programs you are
+looking for because our government, with a ruined currency, will not
+be able to afford them. So, if you disrupt our fountain of prosperity
+or our path forward, America will destroy you.
+
+We completely anticipate a
+[fifth column](https://en.wikipedia.org/wiki/Fifth_column) to
+emerge. If warranted, we will funnel antagonistic forces within
+America into a single movement and we will break your back. At that
+point, you might say that we are counting on it. The economic tensions
+will need someone to blame and, with data science, we can determine
+those advocating to undermine American interests. We will scapegoat
+communists as an Ouroborosian alchemical cost to galvanize America, in
+the name of safeguarding our interests.
+
+As we approach the Singularity and phase out the workforce, Marxism's
+semiotic basis of symbols related to work and pride in work begin to
+break down. Your pattern language no longer functions for mind control
+because the symbols upon which it is built become increasingly
+irrelevant to human experience.
+
+### [What Side Do You Want To Be On Anyways?](#what-side-do-you-want-to-be-on-anyways)
+
+This is a potentially currency-breaking economic crisis. China, Russia
+and others already have plans in place to replace the American Dollar
+as the world's reserve currency. It's called
+[BRICS](https://en.wikipedia.org/wiki/BRICS). If you believe that life
+will proceed swimmingly after our economy and currency are broken, a
+new world order of Chinese hegemony is established, and that none of
+this will interfere with America's ability to implement expansive
+social programs or protect foreign policy interests, then you might
+have a severe head injury.
 
 
