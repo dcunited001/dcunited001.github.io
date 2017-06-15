@@ -87,13 +87,37 @@ converge towards a more final state. This crisis represents a
 tumultuous transition towards economic convergence, but may spiral out
 of control, especially without cooperation.
 
-# Eight Major Factors
+# (Nine) Major Factors
 
 This is an overview of eight major factors that act as components to
 the development and outcome of the crisis. These factors are not
 listed in order of significance because the system is non-linear and
 these factors effects, dynamics and magnitudes are thus
 interdependent.
+
+- explain how everything is linked, but distinguish what drives the
+  initiation of the crisis
+
+
+- strongest system-wide dynamics:
+  - artificial intelligence and technology drive unemployment
+    - high rates of unemployment drastically lower median income in developed nations
+  - reduced median income (esp via higher income levels) leads to
+    stagnant comsumer debt and thereby limited liquidity
+  - limited liquidity and new investment lead to limited economic
+    opportunities
+  - unemployment and idle workforce leads to massive unrest
+  - commodity markets, debt, demand for resources, foreign direct
+    investment, currency/forex dynamics strongly shape world politices
+    - all of these factors can lead to war, but currency dynamics in
+      particular
+  - war & unrest leads to more of both and destroy's the climate
+  - impacts to climate lead to more debt, unpredictable economic
+    dynamics, and need for health care
+    - unpredictability in itself leads to behavior to anticipate/mitigate unpredictability
+    - addressing climate change requires limiting economic development
+      (i.e. diversion of liquidity and the aversion of its
+      accumulation) and government spending
 
 ## (1) [Geoeconomic Dynamics of Automation and Unemployment](#geoeconomic-dynamics-of-automation-and-unemployment)
 
@@ -111,7 +135,7 @@ interdependent.
 
 ## (8) [Entitlements, Median Income and Population Flux](#entitlements-median-income-and-population-flux)
 
-
+## (9) [Unpredictable Geoeconomic Trends Via Climate Change](#unpredictable-geoeconomic-trends-via-climate-change)
 
 # [Geoeconomic Dynamics of Automation and Unemployment](#geoeconomic-dynamics-of-automation-and-unemployment)
 
@@ -133,9 +157,14 @@ labor markets.
     phenomenological limits of artificial intelligence, 3D printing
     and nano-technology.
 
+- how does this impact various regions of the US?
+  - can the progression of unemployment be predicted domestically?
+
 - how does this impact developing nations?
   - what does it mean for a rising china?
   - what does it mean for America and the EU?
+
+![Pic/Link of Automatable Jobs Per Industry]()
 
 # [Policy Response: Strategy, Perception, Timing and Pacing]()
 
@@ -190,19 +219,23 @@ will always be required and probably most efficient closest to the
 source. Fabrication's greatest impact is on the middle tiers of supply
 chains.
 
+Fabrication results in simplified logistics that result in dynamically
+allocatable resources. You simply ship the raw or ready-to-fab
+resources and then dynamically allocate them as goods when need. It's
+like a cross between logistics and lazy evaluation a la functional
+programming. Dynamically processible, ready-to-fab materials are more
+useful.
+
 - these trends in commodity markets contribute to dynamics in demand
   - what technology is capable of delivering determines what resources
     nations need and thereby determines demand.
   - (conflict theory)
 
-- e.g. a gradual shift away from fossil fuels and towards renewables
-
+# [Technology's Impact on Commodity Markets]()
 
 - The majority of uncapitalized opportunity in the next few decades
   centers around materials science and the resulting intellectual
   property.
-
-# [Technology's Impact on Commodity Markets]()
 
 Once fabrication achieves specific technological functionality
 milestones, it always becomes more efficient to manufacture closer to
@@ -212,14 +245,14 @@ are and who controls the IP and production capacity when each
 milestone is reached.
 
 With a bit of phenomonological calculus applied to technology (i.e.
-reflecting upon fabrication's *phenomological ideal*), one assumes you
+reflecting upon fabrication's *phenomological ideals*), one assumes you
 feed raw materials and time to developed industrial capacity in order
 to receive finished product. The philosophic result is that the limits
 imposed by space begin to dissolve as the initial distribution of
 minerals accross the earth become paradoxically increasingly more and
 less determinant of economic trends.
 
-That is all philosophical, of which the ideal is meaningless without
+That is all philosophical, of which (the ideal) is meaningless without
 knowledge of chemistry, physics and engineering. In order to make any
 rational predictions about the nature of fabrication technology
 requires an intimate knowledge of materials science, computational
@@ -241,6 +274,9 @@ Higher commodity prices lead to development of resources from the
 arctic, the seafloor and space. Greenland and Antarctica are
 incredibly mountainous and their minerals are [probably] untouched.
 
+- reclamation of materials in landfills
+- e.g. a gradual shift away from fossil fuels and towards renewables
+
 # [Distribution and Control of Foreign Direct Investment]()
 
 - technology's impact on globally allocated capital
@@ -250,6 +286,9 @@ incredibly mountainous and their minerals are [probably] untouched.
     industrial processes.
   - This could drive a minor modality that leads to divestment of
     foreign direct investment, but it's one of many dynamics.
+
+- nationalization of FDI in national emergencies
+  - or sale/redistribution of FDI assets after currency crash.
 
 #### International Regulation of Supply Chains
 
@@ -304,7 +343,14 @@ incredibly mountainous and their minerals are [probably] untouched.
   - why would institutions lend with low-interest if they are
     expecting inflation or significant forex value fluctuations?
 
-- sustainability of credit-driven policy
+- positive feedback loops in the turbulence of forex markets, in the
+  worst case, leads to runaway evaporation of wealth in entire nations
+  - normally, perturbations in forex markets are limited in effect,
+    but in this case, all developed nations will eventually need to
+    finance the living expenses of unemployed citizenry with
+    government spending.
+
+- sustainability of nations' credit-driven policies
 
 # [Distribution of Debt]()
 
@@ -339,7 +385,7 @@ sector.
   - Are you a leftist who rails against American imperialism?
   - ...
 
-# [Entitlements, Median Income and Population Flux]()
+# [Entitlements, Median Income and Population Flux](#entitlements-median-income-and-population-flux)
 
 > "Ask not what your government can do for you, but what you can do
 > for your government."
@@ -395,6 +441,13 @@ for 5% of the population.
       similar, but this latter method is unsustainable. At this point,
       you are about as close to literally printing money as you can
       get if you're in charge of the world's reserve currency.
+
+# [Unpredictable Geoeconomic Trends Via Climate Change](#unpredictable-geoeconomic-trends-via-climate-change)
+
+- war can cause massive amounts of pollution
+  - wide scale war with new technologies in the age of climate change
+    can lead to debt and more war in some circumstances.
+
 
 # [Sorry Ms. Swift, We Are Not Out of the Woods Yet]()
 
@@ -489,12 +542,36 @@ higher risk and lower returns, but if they do so, this doesn't
 establish an economic platform that America can use to replace
 liquidity in the 2030's.
 
-### Limiting Effects on Employment and Median Income
 
+### Global Stores of Commodities & Foreign Reserves as Currency Market Stabalizers
+
+There's a strong need to artificially stabalize the currency markets
+if we know there are to be problems in the future. After the crisis
+begins, it is unlikely that we can coordinate nations to come together
+and cooperate towards this end. They will be acting in their own self
+interest under rapidly changing conditions.
+
+- what can be used as force for forex market stabalization or correction
+  - so that positibe feedback loops don't lead to problems
+
+- international agreements for redirectable labor/development funds
+  - to recorrect liquidity flows (so that some economies do not face
+    the most severe effects of becoming liquidity bound)
+  - how can a system like this be architected specifically to offset
+    major forex turbidity?
+
+- water and gold as two possible commodities (? meh...)
+  - explain why...
+
+### [Limiting Effects on Employment and Median Income](#limiting-effects-on-employment-and-median-income)
+
+- move up?
 - (maximization of launchpad time)
   - by taxing automation, we can limit the
 
-### Flexible Management of Existing Debt
+### [Agility and Variety in the Labor Market]()
+
+### [Flexible Management of Existing Debt](#flexible-management-of-existing-debt)
 
 - neither UBI/ELR accounts for consumers' need to maintain existing
   cash flows
