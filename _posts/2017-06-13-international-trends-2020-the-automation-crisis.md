@@ -8,7 +8,7 @@ author:
 excerpt: ""
 ---
 
-# The Automation Crisis
+# Inevitable Unemployment and the Resulting Liquidity Crunch
 
 There is an economic crisis brewing. As automation drives
 unemployment, governments will be forced to respond with policy:
@@ -21,13 +21,16 @@ effects, including a major reduction in liquidity available to banks
 and a major slowdown in consumer and corporate lending. These effects
 come at a poor time.
 
-To cope with the economic turbulence, governments are compelled to
-borrow money to prop up the economy. The greater the scope of
-entitlement programs, the more the currency must be diluted in
-response. With numbers pulled directly out of my ass, by 2030, we
-could reach 20-100% annual growth of the national debt. Imagine the
-effect that would have on currency markets, economic development and
-lending institutions.
+To cope with the unemployment and economic turbulence, developed
+nations are compelled to borrow money to prop up the economy. The
+greater the scope of entitlement programs, the more the currency must
+be diluted in response. With numbers pulled directly out of my ass, by
+2030, America could reach 20-100% annual growth of the national debt,
+dependent on rates of unemployment and tax volume. Imagine the effect
+that would have on currency markets, economic development and lending
+institutions.
+
+###
 
 The upcoming crisis is unlike any before. Even though it shares many
 of the same components, it is fundamentally different in ways that
@@ -37,6 +40,8 @@ disastrous for America or the global economy, but there is significant
 potential for disruption. Again, it's not necessarily worse, but the
 acceleration in economic trends along with qualitative aspects of the
 crisis will cause it to elude understanding.
+
+###
 
 It's critical to keep in mind that America dominates the economic
 status quo now. Therefore, all other powers have a greater incentive
@@ -90,11 +95,11 @@ interdependent.
 
 ## (1) [Geoeconomic Dynamics of Automation and Unemployment](#geoeconomic-dynamics-of-automation-and-unemployment)
 
-## (2) Policy Response: Strategy, Perception, Timing and Pacing
+## (2) [Policy Response: Strategy, Perception, Timing and Pacing]()
 
-## (3) Commodity Markets and Resource Distribution
+## (3) Technology's Impact on Commodity Markets
 
-## (4) Technology's Impact on Commodity Markets
+## (4) Commodity Markets and Resource Distribution
 
 ## (5) Distribution and Control of Foreign Direct Investment
 
@@ -130,6 +135,8 @@ interdependent.
 
 - questions to answer:
   - what policy responses are available? UBI and national service
+    - when considering policy response, what is the proper timing?
+      what are the opportunity costs?
   - what policy responses are appealing?
   - delineate the explanation along economic, sociocultural and
     geopolitical dimensions
@@ -160,31 +167,74 @@ interdependent.
 
 # [Commodity Markets and Resource Distribution]()
 
-- the global economy becomes resource-bound.
-  - this defining trait becomes more pronounced as we approach the
-    singularity and the next technology plateau.
-    - (fabrication technology's impact on supply chains)
-    - this moves manufacturing closer to the consumer.
-  - more proficient fabrication leads to more self-reliant economies,
-    assuming they have the intellectual property and ability to build
-    out industrial capacity
+The global economy becomes resource-bound. This defining trait becomes
+more pronounced as we approach the singularity and the next technology
+plateau. It's propensity to define dynamics in commodity markets
+depends on the functional limits of fabrication technology. What is
+clear is that more proficient fabrication leads to more self-reliant
+economies, assuming they have the intellectual property and ability to
+build out industrial capacity. Energy is required to offset entropy of
+starting materials and industrial capacity is required to offset the
+production time required for fabrication. (i.e. 3D printing and
+nanotech are slow, therefore more industrial capacity is required to
+offset time)
 
-- higher commodity prices (lead to resources from space)
-  - resources from the arctic, seafloor and space.
+Supply chains then become more compact. Supply of ore and smelting
+will always be required and probably most efficient closest to the
+source. Fabrication's greatest impact is on the middle tiers of supply
+chains.
 
 - these trends in commodity markets contribute to dynamics in demand
   - what technology is capable of delivering determines what resources
     nations need and thereby determines demand.
   - (conflict theory)
 
-# [Technology's Impact on Commodity Markets]()
-
 - e.g. a gradual shift away from fossil fuels and towards renewables
+
 
 - The majority of uncapitalized opportunity in the next few decades
   centers around materials science and the resulting intellectual
   property.
-  -
+
+# [Technology's Impact on Commodity Markets]()
+
+Once fabrication achieves specific technological functionality
+milestones, it always becomes more efficient to manufacture closer to
+the consumer. The greatest questions are simply when fabrication hits
+these milestones, what the phenomonological results of each milestone
+are and who controls the IP and production capacity when each
+milestone is reached.
+
+With a bit of phenomonological calculus applied to technology (i.e.
+reflecting upon fabrication's *phenomological ideal*), one assumes you
+feed raw materials and time to developed industrial capacity in order
+to receive finished product. The philosophic result is that the limits
+imposed by space begin to dissolve as the initial distribution of
+minerals accross the earth become paradoxically increasingly more and
+less determinant of economic trends.
+
+That is all philosophical, of which the ideal is meaningless without
+knowledge of chemistry, physics and engineering. In order to make any
+rational predictions about the nature of fabrication technology
+requires an intimate knowledge of materials science, computational
+chemistry and many other fields.
+
+What can be known simplty is that there are physical limits imposed by
+counteracting entropy to transform materials. These fundamental limits
+cannot be surpassed and bound any solution. There are technological
+limits imposed by the transient capabilities of fabrication. There are
+computational limits of the fabrication processes. There are economic
+limits, resulting from the distribution of resources. In terms of
+economic trends leading up to 2050, the distribution of resources
+bounds, predicts and determines human economic behavior. If it weren't
+for the possibility of resources in space, the system would be
+completely closed. Still, who controls the production and distribution
+of materials from space?
+
+Higher commodity prices lead to development of resources from the
+arctic, the seafloor and space. Greenland and Antarctica are
+incredibly mountainous and their minerals are [probably] untouched.
+
 
 # [Distribution and Control of Foreign Direct Investment]()
 
