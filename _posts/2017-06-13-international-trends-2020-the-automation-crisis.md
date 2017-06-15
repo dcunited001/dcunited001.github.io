@@ -8,7 +8,7 @@ author:
 excerpt: ""
 ---
 
-# Inevitable Unemployment and the Resulting Liquidity Crunch
+# [Inevitable Unemployment and the Resulting Liquidity Crunch](#inevitable-unemployment-and-the-resulting-liquidity-crunch)
 
 There is an economic crisis brewing. As automation drives
 unemployment, governments will be forced to respond with policy:
@@ -37,9 +37,10 @@ of the same components, it is fundamentally different in ways that
 will elude many economists. I do not have the data or the expertise to
 predict how this will unfold, nor does anyone. It is not necessarily
 disastrous for America or the global economy, but there is significant
-potential for disruption. Again, it's not necessarily worse, but the
-acceleration in economic trends along with qualitative aspects of the
-crisis will cause it to elude understanding.
+potential for disruption. Again, it is not necessarily the magnitude
+of the crisis which is worrying, but the acceleration in economic
+trends along with qualitative aspects of the crisis will cause it to
+elude understanding, triggering poor reaction among nations.
 
 ###
 
@@ -56,29 +57,30 @@ programs, but whether we can at all.
 
 ### [Why Is This Crisis Different?](#why-is-this-crisis-different)
 
-Because there isn't enough liquidity and wealth distribution for
-people to keep up with their debt, it's a deflationary depression
+There isn't enough liquidity and wealth distribution for people to
+keep up with their debt. Therefore, this is a deflationary depression
 where inflationary measures are appealing to inject liquidity into the
-economy. Such inflationary measures include UBI and ELR. In doing so,
-the finance of budget deficits via credit drives inflation, which
-contributes to systemic instability in global currency markets. But
-unlike most depressions, various means of production should remain
-elevated through the use of technology. Because of automation's
-inversion of labor markets, this furthers income distribution
-disparity, since the profites fall into singularly fewer hands. The
-21st century economy rapidly converges into the control of fewer and
-fewer because of the nature of information and intellectual property.
+economy and relieve unemployment. Such inflationary measures include
+UBI and ELR. In doing so, the finance of budget deficits via credit
+drives inflation, which contributes to systemic instability in global
+currency markets. But unlike most depressions, various means of
+production should remain elevated through the use of
+technology. Because of automation's inversion of labor markets, this
+furthers income distribution disparity, since the profits fall into
+singularly fewer hands. The 21st century economy rapidly converges
+into the control of fewer because of the nature of information and
+intellectual property.
 
-If we don't play our cards right, the outlook on economic expansion is
-bleak, so it cannot be assumed that increased profits will lead to
-increased tax volume to finance the governmental policy response. In
-this case, increased tax rates will also be insufficient. The
-liquidity to invest in smart-grid infrastructure and the development
-of emerging markets will be restricted. Further complicating matters,
-nations often respond to depressionary crises with warfare to
-artificially stimulate of economic activity and facilitate
-expansion. This creates geopolitical instability at the same time as
-global economic crisis.
+If we don't play our cards right, constricted liquidity implies that
+the outlook on economic expansion is bleak, so it cannot be assumed
+that increased profits will lead to increased tax volume to finance
+the governmental policy response. In this case, increased tax rates
+will also be insufficient. The liquidity to invest in smart-grid
+infrastructure and the development of emerging markets will be
+restricted. Further complicating matters, nations often respond to
+depressionary crises with warfare to artificially stimulate of
+economic activity and facilitate expansion. This creates geopolitical
+instability at the same time as global economic crisis.
 
 The Singularity's technology trends drive the global economy to
 converge towards a more final state. This crisis represents a
@@ -95,34 +97,38 @@ interdependent.
 
 ## (1) [Geoeconomic Dynamics of Automation and Unemployment](#geoeconomic-dynamics-of-automation-and-unemployment)
 
-## (2) [Policy Response: Strategy, Perception, Timing and Pacing]()
+## (2) [Policy Response: Strategy, Perception, Timing and Pacing](#policy-response-strategy-perception-timing-and-pacing)
 
-## (3) Technology's Impact on Commodity Markets
+## (3) [Technology's Impact on Commodity Markets](#technologys-impact-on-commodity-markets)
 
-## (4) Commodity Markets and Resource Distribution
+## (4) [Commodity Markets and Resource Distribution](commodity-markets-and-resource-distribution)
 
-## (5) Distribution and Control of Foreign Direct Investment
+## (5) [Distribution and Control of Foreign Direct Investment](#distribution-and-control-of-foreign-direct-investment)
 
-## (6) Forex Dynamics and Foreign Currency Reserve Distribution
+## (6) [Forex Dynamics and Foreign Currency Reserve Distribution](#forex-dynamics-and-foreign-currency-reserve-distribution)
 
-## (7) Distribution of Debt
+## (7) [Distribution of Debt](#distribution-of-debt)
 
-## (8) Population Flux, Entitlements and Median Income
+## (8) [Entitlements, Median Income and Population Flux](#entitlements-median-income-and-population-flux)
+
+
 
 # [Geoeconomic Dynamics of Automation and Unemployment](#geoeconomic-dynamics-of-automation-and-unemployment)
 
-- this factor drives the common person's response, their change in
-  economic circumstance and their overall perception of the crisis
-  - from the perspective of a behavioral economist, this factor is the
-    most important in predicting the common person's response, both
-    financially and politically, as well as their needs at the time
-    the crisis begins unfolding in their nation or region.
+From the perspective of a behavioral economist, this factor is the
+most important in predicting the common person's response, both
+financially and politically, as well as their needs at the time the
+crisis begins unfolding in their nation and region. The geoeconomic
+dynamics drives their change in economic circumstance, their overall
+perception of the crisis and thus their political reaction to it.
 
-- this contributes towards dynamics which invert globalization's
-  impact on regional manufactoring, while decimating labor markets.
-  - That is, American manufacturing is more likely to move home, but
-    that doesn't restore lost jobs or the disrupted wealth
-    distribution that accompanied globalization.
+The geoeconomic dynamics contribute towards dynamics which invert
+globalization's impact on regional manufactoring, while decimating
+labor markets.
+
+- That is, American manufacturing is more likely to move home, but
+  that doesn't restore lost jobs or the disrupted wealth distribution
+  that accompanied globalization.
   - The impact on manufacturing, in particular, is constrained to the
     phenomenological limits of artificial intelligence, 3D printing
     and nano-technology.
@@ -219,7 +225,7 @@ rational predictions about the nature of fabrication technology
 requires an intimate knowledge of materials science, computational
 chemistry and many other fields.
 
-What can be known simplty is that there are physical limits imposed by
+What can be known simply is that there are physical limits imposed by
 counteracting entropy to transform materials. These fundamental limits
 cannot be surpassed and bound any solution. There are technological
 limits imposed by the transient capabilities of fabrication. There are
@@ -234,7 +240,6 @@ of materials from space?
 Higher commodity prices lead to development of resources from the
 arctic, the seafloor and space. Greenland and Antarctica are
 incredibly mountainous and their minerals are [probably] untouched.
-
 
 # [Distribution and Control of Foreign Direct Investment]()
 
