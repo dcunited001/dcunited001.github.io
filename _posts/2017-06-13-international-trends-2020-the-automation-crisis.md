@@ -8,6 +8,8 @@ author:
 excerpt: ""
 ---
 
+#### &#x2605; [Climate Change](/posts/2017-02-28-international-trends-2020-climate-change.html) &#x2605; [The Smart Grid](/posts/2017-02-28-international-trends-2020-the-smart-grid.html) &#x2605; [Universal Basic Income](/posts/2017-06-05-international-trends-2020-universal-basic-income.html) &#x2605; The Automation Crisis &#x2605;
+
 # [Inevitable Unemployment and the Resulting Liquidity Crunch](#inevitable-unemployment-and-the-resulting-liquidity-crunch)
 
 There is an economic crisis brewing. As automation drives

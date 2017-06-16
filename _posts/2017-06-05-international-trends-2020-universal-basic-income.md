@@ -19,7 +19,7 @@ produce a society built on values and character with a strong sense of
 identity and duty."
 ---
 
-#### &#x2605; [Climate Change](/posts/2017-02-28-international-trends-2020-climate-change.html) &#x2605; [The Smart Grid](/posts/2017-02-28-international-trends-2020-the-smart-grid.html) &#x2605; Universal Basic Income &#x2605;
+#### &#x2605; [Climate Change](/posts/2017-02-28-international-trends-2020-climate-change.html) &#x2605; [The Smart Grid](/posts/2017-02-28-international-trends-2020-the-smart-grid.html) &#x2605; Universal Basic Income &#x2605; [The Automation Crisis](/posts/2017-06-16-international-trends-2020-the-automation-crisis.html) &#x2605;
 
 ## [UBI Is Not Inevitable](#ubi-is-not-inevitable)
 

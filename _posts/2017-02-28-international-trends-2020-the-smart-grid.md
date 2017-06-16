@@ -16,7 +16,7 @@ can be connected to the internet by simply being plugged in. This
 helps IoT devices quite a bit."
 ---
 
-#### &#x2605; [Climate Change](/posts/2017-02-28-international-trends-2020-climate-change.html) &#x2605; The Smart Grid &#x2605; [Universal Basic Income](/posts/2017-06-06-international-trends-2020-universal-basic-income.html) &#x2605;
+#### &#x2605; [Climate Change](/posts/2017-02-28-international-trends-2020-climate-change.html) &#x2605; The Smart Grid &#x2605; [Universal Basic Income](/posts/2017-06-06-international-trends-2020-universal-basic-income.html) &#x2605; [The Automation Crisis](/posts/2017-06-16-international-trends-2020-the-automation-crisis.html) &#x2605;
 
 ## [Fundamental Advancements Towards Tomorrow's Smartgrid](#fundamental-advancements-towards-tomorrows-smartgrid)
 
