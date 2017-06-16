@@ -41,8 +41,8 @@ predict how this will unfold, nor does anyone. It is not necessarily
 disastrous for America or the global economy, but there is significant
 potential for disruption. Again, it is not necessarily the magnitude
 of the crisis which is worrying, but the acceleration in economic
-trends along with qualitative aspects of the crisis will cause it to
-elude understanding, triggering poor reaction among nations.
+trends along with qualitative aspects of the crisis that will cause itq
+to elude understanding, triggering poor reaction among nations.
 
 ###
 
@@ -56,6 +56,8 @@ that it is American prosperity that provides the possibility of
 expansive social programs. Without these economic interests intact,
 the question is no longer whether we should finance entitlement
 programs, but whether we can at all.
+
+<a name="why-is-this-crisis-different" />
 
 ### [Why Is This Crisis Different?](#why-is-this-crisis-different)
 
@@ -89,33 +91,58 @@ converge towards a more final state. This crisis represents a
 tumultuous transition towards economic convergence, but may spiral out
 of control, especially without cooperation.
 
-# Strongest System-Wide Dynamics
+<a name="the-strongest-system-wide-dynamics" />
 
-- explain how everything is linked, but distinguish what drives the
-  initiation of the crisis
+### [The Strongest System-Wide Dynamics](#the-strongest-system-wide-dynamics)
 
-- strongest system-wide dynamics:
-  - artificial intelligence, fabriction and other technology drive
-    unemployment
-    - high rates of unemployment drastically lower median income in developed nations
-  - reduced median income (esp via higher income levels) leads to
-    stagnant comsumer debt and thereby limited liquidity
-  - limited liquidity and new investment lead to limited economic
-    opportunities
-  - unemployment and idle workforce leads to massive unrest
-  - commodity markets, debt, demand for resources, foreign direct
-    investment, currency/forex dynamics strongly shape world politices
-    - all of these factors can lead to war, but currency dynamics in
-      particular
-  - war & unrest leads to more of both and destroy's the climate
-  - impacts to climate lead to more debt, unpredictable economic
-    dynamics, and need for health care
-    - unpredictability in itself leads to behavior to anticipate/mitigate unpredictability
-    - addressing climate change requires limiting economic development
-      (i.e. diversion of liquidity and the aversion of its
-      accumulation) and government spending
+Artificial intelligence, fabriction and other technology drive
+unemployment. High rates of unemployment drastically lower median
+income in developed nations. These economies have higher debt
+saturation on consumers, which ostensibly enables faster growth, but
+this dependency on already established revenue streams leads to
+greater surface area for systemic risk. These higher levels of debt
+saturation lead to more severely constricted liquidity in situations
+of lowered employment. The lost liquidity leads to fewer new
+investments and less capability to develop economies opportunities to
+rise oneself out of crisis.
 
-# (Nine) Major Factors
+As opposed to other crises, restoring income distribution cannot be
+assumed to be possible through new employment opportunities. The
+employment will never be restored. Therefore, social programs must be
+sustained through high tax volume via highly profitable private &
+state enterprise. That which cannot be supported through enterprise
+must be borrowed or even literally printed by the government. However
+it can be provided, the people will be asking for it and
+expecting. High levels of unemployment lead to lots of idle people
+who take to the internet and demand more expansive programs.
+
+The dependency on expansive social programs, debt-backed or not, leads
+to currency stability issues. In the past, currency dynamics were
+mostly restricted to a small number of currencies at the same time in
+the global system. Yet, here, you have these disruptive dynamics
+occuring system-wide. Because of that, there is a high likelihood of
+several simultaneous positive feedback loops in forex markets that
+multiplies turbulence and cause massive amounts of wealth to
+evaporate. These forex dynamics and massively redistributed wealth
+will strongly shape world politics.
+
+All of these factors can lead to war, but the unpredictable, global
+currency dynamics in particular. War & unrest lead to more of
+both. These negatively impact the climate, fueling unpredictable
+changes in agriculture and water availability, thereby influencing
+real estate markets. Unpredictability in itself leads to behavior to
+anticipate & mitigate unpredictability. Addressing climate change
+requires limiting economic development through government spending and diversion of liquidity.
+
+Technology changes commodity markets and demand for resources. Those
+with broader portfolios can spead out their risk amoung more foreign
+direct investments, currency holdings and asset holdings. High
+utilization rates on capital available to investors could limit
+exposure to systemic problems in the currency markets.
+
+<a name="nine-major-factors" />
+
+# [Nine Major Factors](#nine-major-factors)
 
 This is an overview of nine major factors that act as components to
 the development and outcome of the crisis. These factors are not
@@ -123,23 +150,25 @@ listed in order of significance because the system is non-linear and
 these factors effects, dynamics and magnitudes are thus
 interdependent.
 
-## (1) [Geoeconomic Dynamics of Automation and Unemployment](#geoeconomic-dynamics-of-automation-and-unemployment)
+#### (1) [Geoeconomic Dynamics of Automation and Unemployment](#geoeconomic-dynamics-of-automation-and-unemployment)
 
-## (2) [Policy Response: Strategy, Perception, Timing and Pacing](#policy-response-strategy-perception-timing-and-pacing)
+#### (2) [Policy Response: Strategy, Perception, Timing and Pacing](#policy-response-strategy-perception-timing-and-pacing)
 
-## (3) [Technology's Impact on Commodity Markets](#technologys-impact-on-commodity-markets)
+#### (3) [Commodity Markets and Resource Distribution](#commodity-markets-and-resource-distribution)
 
-## (4) [Commodity Markets and Resource Distribution](commodity-markets-and-resource-distribution)
+#### (4) [Technology's Impact on Commodity Markets](#technologys-impact-on-commodity-markets)
 
-## (5) [Distribution and Control of Foreign Direct Investment](#distribution-and-control-of-foreign-direct-investment)
+#### (5) [Distribution and Control of Foreign Direct Investment](#distribution-and-control-of-foreign-direct-investment)
 
-## (6) [Forex Dynamics and Foreign Currency Reserve Distribution](#forex-dynamics-and-foreign-currency-reserve-distribution)
+#### (6) [Forex Dynamics and Foreign Currency Reserve Distribution](#forex-dynamics-and-foreign-currency-reserve-distribution)
 
-## (7) [Distribution of Debt](#distribution-of-debt)
+#### (7) [Distribution of Debt](#distribution-of-debt)
 
-## (8) [Entitlements, Median Income and Population Flux](#entitlements-median-income-and-population-flux)
+#### (8) [Entitlements, Median Income and Population Flux](#entitlements-median-income-and-population-flux)
 
-## (9) [Unpredictable Geoeconomic Trends Via Climate Change](#unpredictable-geoeconomic-trends-via-climate-change)
+#### (9) [Unpredictable Geoeconomic Trends Via Climate Change](#unpredictable-geoeconomic-trends-via-climate-change)
+
+<a name="geoeconomic-dynamics-of-automation-and-unemployment" />
 
 # [Geoeconomic Dynamics of Automation and Unemployment](#geoeconomic-dynamics-of-automation-and-unemployment)
 
@@ -170,7 +199,9 @@ labor markets.
 
 ![Pic/Link of Automatable Jobs Per Industry]()
 
-# [Policy Response: Strategy, Perception, Timing and Pacing]()
+<a name="policy-response-strategy-perception-timing-and-pacing" />
+
+# [Policy Response: Strategy, Perception, Timing and Pacing](#policy-response-strategy-perception-timing-and-pacing)
 
 - questions to answer:
   - what policy responses are available? UBI and national service
@@ -204,7 +235,9 @@ labor markets.
   - additionally, the people are easily subverted against themselves
     by foreign powers.
 
-# [Commodity Markets and Resource Distribution]()
+<a name="commodity-markets-and-resource-distribution" />
+
+# [Commodity Markets and Resource Distribution](#commodity-markets-and-resource-distribution)
 
 The global economy becomes resource-bound. This defining trait becomes
 more pronounced as we approach the singularity and the next technology
@@ -235,7 +268,9 @@ useful.
     nations need and thereby determines demand.
   - (conflict theory)
 
-# [Technology's Impact on Commodity Markets]()
+<a name="technologys-impact-on-commodity-markets" />
+
+# [Technology's Impact on Commodity Markets](#technologys-impact-on-commodity-markets)
 
 - The majority of uncapitalized opportunity in the next few decades
   centers around materials science and the resulting intellectual
@@ -281,7 +316,9 @@ incredibly mountainous and their minerals are [probably] untouched.
 - reclamation of materials in landfills
 - e.g. a gradual shift away from fossil fuels and towards renewables
 
-# [Distribution and Control of Foreign Direct Investment]()
+<a name="distribution-and-control-of-foreign-direct-investment" />
+
+# [Distribution and Control of Foreign Direct Investment](#distribution-and-control-of-foreign-direct-investment)
 
 - technology's impact on globally allocated capital
   - It's cheaper to manufacture closer to the consumer. Doing so
@@ -325,7 +362,9 @@ incredibly mountainous and their minerals are [probably] untouched.
     regulation affect cost structures, the incentivization of
     corporate behavior and foreign direct investment?
 
-# [Forex Dynamics and Foreign Currency Reserve Distribution]()
+<a name="" />
+
+# [Forex Dynamics and Foreign Currency Reserve Distribution](#forex-dynamics-and-foreign-currency-reserve-distribution)
 
 - I need to know more about forex trading and foriegn currency
   dynamics to understand how this factor plays into the crisis.
@@ -356,7 +395,9 @@ incredibly mountainous and their minerals are [probably] untouched.
 
 - sustainability of nations' credit-driven policies
 
-# [Distribution of Debt]()
+<a name="" />
+
+# [Distribution of Debt](#distribution-of-debt)
 
 What happened during the 2008 housing crisis? The subprime housing
 markets crashed and the lost revenue streams thereof triggered
@@ -388,6 +429,8 @@ sector.
   drive this median income up.
   - Are you a leftist who rails against American imperialism?
   - ...
+
+<a name="entitlements-median-income-and-population-flux" />
 
 # [Entitlements, Median Income and Population Flux](#entitlements-median-income-and-population-flux)
 
@@ -462,14 +505,17 @@ preservation of real value outside currency, so we need to invest in
 global real estate, commodity, production via FDI, etc.  in this way,
 we can weather the forex dynamics.
 
+<a name="unpredictable-geoeconomic-trends-via-climate-change" />
+
 # [Unpredictable Geoeconomic Trends Via Climate Change](#unpredictable-geoeconomic-trends-via-climate-change)
 
 - war can cause massive amounts of pollution
   - wide scale war with new technologies in the age of climate change
     can lead to debt and more war in some circumstances.
 
+<a name="we-are-not-out-of-the-woods-yet" />
 
-# [Sorry Ms. Swift, We Are Not Out of the Woods Yet]()
+# [We Are Not Out of the Woods Yet](#we-are-not-out-of-the-woods-yet)
 
 Just because the economy seems to have recovered from the 2008 crisis
 doesn't mean that we're out of the woods yet. We need forward-looking
@@ -484,6 +530,8 @@ Singularity's assymptotic finality of economic convergence.
   recommendations.
   - counter-intuitive nature of economic policy
 
+<a name="policy-must-account-for-domestic-and-foreign-political-reaction" />
+
 ### [Policy Must Account For Domestic and Foreign Political Reaction](#policy-must-account-for-domestic-and-foreign-political-reaction)
 
 Policy must also expect the domestic and foreign political reaction,
@@ -491,6 +539,8 @@ as well as the tendency of the masses to be completey unaware of the
 economic reasoning behind policy. Policy must also attempt to
 construct the proper narrative moving forward, so that citizenry
 living in democracy actively support it.
+
+<a name="avoid-hacking-economics-for-short-term-gain" />
 
 ### [Avoid Hacking Economics for Short-Term Gain](#avoid-hacking-economics-for-short-term-gain)
 
@@ -524,6 +574,8 @@ in the system, one uses central banks to pump it in.
       macroeconomics via injection of liquidity/credit, the more we
       depend on them, the greater this future crisis will be
 
+<a name="strategic-allocation-of-liquidity-in-the-2020s" />
+
 ### [Strategic Allocation of Liquidity in the 2020's](#strategic-allocation-of-liquidity-in-the-2020s)
 
   - We must assume that we have a finite amount of liquidity flux to
@@ -538,6 +590,8 @@ in the system, one uses central banks to pump it in.
       - So we can assume that developed economies will have a need to
         identify and compete over economic opportunity abroad.
   - (explain how this correlates to proper allocation of capital)
+
+<a name="interest-rates-and-federal-reserve-policy" />
 
 ### [Interest Rates And Federal Reserve Policy](#interest-rates-and-federal-reserve-policy)
 
@@ -554,6 +608,8 @@ weigh the long-term economic consequences much more heavily than the
 short-term. Lending institutions cannot simply conduct themselves with
 the next quarter's results in mind.
 
+<a name="international-economic-development" />
+
 ### [International Economic Development](#international-economic-development)
 
 In terms of maximizing profits, American and multinational banks will
@@ -562,8 +618,11 @@ higher risk and lower returns, but if they do so, this doesn't
 establish an economic platform that America can use to replace
 liquidity in the 2030's.
 
+(... more)
 
-### Global Stores of Commodities & Foreign Reserves as Currency Market Stabalizers
+<a name="currency-market-stabalization" />
+
+### [Currency Market Stabalization](#currency-market-stabalization)
 
 There's a strong need to artificially stabalize the currency markets
 if we know there are to be problems in the future. After the crisis
