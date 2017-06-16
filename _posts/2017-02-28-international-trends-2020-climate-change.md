@@ -18,27 +18,27 @@ full potential."
 
 ## [Climate Change: The Smart Grid, Intrinsic Analytics and Economic Dynamics](#climite-change-the-smart-grid-intrinsic-analytics-and-economic-dynamics)
 
-#### [Climate Change Policy Drives Global Economic Trends](#climate-change-policy-drives-global-economic-trends)
+#### &#x03D5; [Climate Change Policy Drives Global Economic Trends](#climate-change-policy-drives-global-economic-trends)
 
-#### [Smart Grid Analytics to Power Global Business Intelligence](#smart-grid-analytics-to-power-global-business-intelligence)
+#### &#x03D5; [Smart Grid Analytics to Power Global Business Intelligence](#smart-grid-analytics-to-power-global-business-intelligence)
 
-#### [On Tax-Funded Pollution Cleanup](#on-tax-funded-pollution-cleanup)
+#### &#x03D5; [On Tax-Funded Pollution Cleanup](#on-tax-funded-pollution-cleanup)
 
-#### [Climate Change Encourages Cooperation](#climate-change-encourages-cooperation)
+#### &#x03D5; [Climate Change Encourages Cooperation](#climate-change-encourages-cooperation)
 
-#### [Warning About Finance and International Climate Change Policy](#warning-about-finance-and-international-climate-change-policy)
+#### &#x03D5; [Warning About Finance and International Climate Change Policy](#warning-about-finance-and-international-climate-change-policy)
 
-#### [Carbon Tax Augments the Global Economy's Mechanisms for Stabilization](#carbon-tax-augments-the-global-economys-mechanisms-for-stabilization)
+#### &#x03D5; [Carbon Tax Augments the Global Economy's Mechanisms for Stabilization](#carbon-tax-augments-the-global-economys-mechanisms-for-stabilization)
 
-#### [Circuits for Liquidity Flux in the Global Economy](#circuits-for-liquidity-flux-in-the-global-economy)
+#### &#x03D5; [Circuits for Liquidity Flux in the Global Economy](#circuits-for-liquidity-flux-in-the-global-economy)
 
-#### [Leveraging Data Science to Measure How The Economy Serves the People](#leveraging-data-science-to-measure-how-the-economy-serves-the-people)
+#### &#x03D5; [Leveraging Data Science to Measure How The Economy Serves the People](#leveraging-data-science-to-measure-how-the-economy-serves-the-people)
 
-#### [Unparalleled Insight Into International Economic Trends](#unparalleled-insight-into-international-economic-trends)
+#### &#x03D5; [Unparalleled Insight Into International Economic Trends](#unparalleled-insight-into-international-economic-trends)
 
-#### [An International Institution with Authority to Tax and Regulate](#an-international-institution-with-authority-to-tax-and-regulate)
+#### &#x03D5; [An International Institution with Authority to Tax and Regulate](#an-international-institution-with-authority-to-tax-and-regulate)
 
-#### [Water, Irrigation and Desalinization](#water-irrigation-and-desalinization)
+#### &#x03D5; [Water, Irrigation and Desalinization](#water-irrigation-and-desalinization)
 
 <a name="climite-change-the-smart-grid-intrinsic-analytics-and-economic-dynamics" />
 

@@ -20,21 +20,21 @@ helps IoT devices quite a bit."
 
 ## [Fundamental Advancements Towards Tomorrow's Smartgrid](#fundamental-advancements-towards-tomorrows-smartgrid)
 
-#### [Smart Grid Analytics and Surveillance](#smart-grid-analytics-and-surveillance)
+#### &#x03D5; [Smart Grid Analytics and Surveillance](#smart-grid-analytics-and-surveillance)
 
-#### [Packet Switching for the Smart Grid](#packet-switching-for-the-smart-grid)
+#### &#x03D5; [Packet Switching for the Smart Grid](#packet-switching-for-the-smart-grid)
 
-#### [Quantum Networking For Instantaneous Transmission of Grid State](#quantum-networking-for-instantaneous-transmission-of-grid-state)
+#### &#x03D5; [Quantum Networking For Instantaneous Transmission of Grid State](#quantum-networking-for-instantaneous-transmission-of-grid-state)
 
-#### [Quantum Networking and FinTech](#quantum-networking-and-fintech)
+#### &#x03D5; [Quantum Networking and FinTech](#quantum-networking-and-fintech)
 
-#### [Quantum Networking and Telecom](#quantum-networking-and-telecom)
+#### &#x03D5; [Quantum Networking and Telecom](#quantum-networking-and-telecom)
 
-#### [To Supplement American Exports, Stability in Developing Nations is Crucial](#to-supplement-american-exports-stability-in-developing-nations-is-crucial)
+#### &#x03D5; [To Supplement American Exports, Stability in Developing Nations is Crucial](#to-supplement-american-exports-stability-in-developing-nations-is-crucial)
 
-#### [Hybrid Power Grids Offer Economically Practical Infrastructure Rollout to Developing Nations](#hybrid-power-grids-offer-economically-practical-infrastructure-rollout-to-developing-nations)
+#### &#x03D5; [Hybrid Power Grids Offer Economically Practical Infrastructure Rollout to Developing Nations](#hybrid-power-grids-offer-economically-practical-infrastructure-rollout-to-developing-nations)
 
-#### [The Smart Grid Affects Real Estate Trends](#the-smart-grid-affects-real-estate-trends)
+#### &#x03D5; [The Smart Grid Affects Real Estate Trends](#the-smart-grid-affects-real-estate-trends)
 
 > "Hey, it's me." -- David Conner, the guy without enough money to
 > open a bank account who made less than $400 in 2016 and $1717

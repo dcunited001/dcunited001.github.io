@@ -23,87 +23,87 @@ identity and duty."
 
 ## [UBI Is Not Inevitable](#ubi-is-not-inevitable)
 
-#### [Why Does Silicon Valley Care So Much?](#why-does-silicon-valley-care-so-much)
+#### &#x03D5; [Why Does Silicon Valley Care So Much?](#why-does-silicon-valley-care-so-much)
 
-#### [Complexity Theory Partially Determines the Progression of Unemployment](#complexity-theory-partially-determines-the-progression-of-unemployment)
+#### &#x03D5; [Complexity Theory Partially Determines the Progression of Unemployment](#complexity-theory-partially-determines-the-progression-of-unemployment)
 
-#### [The Employer of Last Resort](#the-employer-of-last-resort)
+#### &#x03D5; [The Employer of Last Resort](#the-employer-of-last-resort)
 
-#### [What We Build Ends Up Building Us](#what-we-build-ends-up-building-us)
+#### &#x03D5; [What We Build Ends Up Building Us](#what-we-build-ends-up-building-us)
 
 ## [The Pragmatic Implementation of UBI](#the-pragmatic-implementation-of-ubi)
 
-#### [Product Classifications and Restriction of UBI Expenditures](#product-classifications-and-restriction-of-ubi-expenditures)
+#### &#x03D5; [Product Classifications and Restriction of UBI Expenditures](#product-classifications-and-restriction-of-ubi-expenditures)
 
-#### [Regulated UBI is a Pseudo Currency](#regulated-ubi-is-a-pseudo-currency)
+#### &#x03D5; [Regulated UBI is a Pseudo Currency](#regulated-ubi-is-a-pseudo-currency)
 
-#### [Product Classification Determines Marketability](#product-classification-determines-marketability)
+#### &#x03D5; [Product Classification Determines Marketability](#product-classification-determines-marketability)
 
-#### [Regulated UBI is a Big Government Nightmare](#regulated-ubi-is-a-big-government-nightmare)
+#### &#x03D5; [Regulated UBI is a Big Government Nightmare](#regulated-ubi-is-a-big-government-nightmare)
 
-#### [The Lobbyists Win](#the-lobbyists-win)
+#### &#x03D5; [The Lobbyists Win](#the-lobbyists-win)
 
-#### [Regulation and the Vulnerability of Democracy to Subversion](#regulation-and-the-vulnerability-of-democracy-to-subversion)
+#### &#x03D5; [Regulation and the Vulnerability of Democracy to Subversion](#regulation-and-the-vulnerability-of-democracy-to-subversion)
 
-#### [Studies Need to Focus on Systemic Effects of UBI](#studies-need-to-focus-on-systemic-effects-of-ubi)
+#### &#x03D5; [Studies Need to Focus on Systemic Effects of UBI](#studies-need-to-focus-on-systemic-effects-of-ubi)
 
-#### [UBI Must Account for Geoeconomic Variation](#ubi-must-account-for-geoeconomic-variation)
+#### &#x03D5; [UBI Must Account for Geoeconomic Variation](#ubi-must-account-for-geoeconomic-variation)
 
-#### [Overregulation Decentivizes and Stagnates Innovation](#overregulation-decentivizes-and-stagnates-innovation)
+#### &#x03D5; [Overregulation Decentivizes and Stagnates Innovation](#overregulation-decentivizes-and-stagnates-innovation)
 
 ## [Business is About Making Assumptions](#business-is-about-making-assumptions)
 
-#### [Inductive Modeling and Risk Appetite](#inductive-modeling-and-risk-appetite)
+#### &#x03D5; [Inductive Modeling and Risk Appetite](#inductive-modeling-and-risk-appetite)
 
-#### [Combinatorics, Category Theory, Induction and Higher-Order Logic](#combinatorics-category-theory-induction-and-higher-order-logic)
+#### &#x03D5; [Combinatorics, Category Theory, Induction and Higher-Order Logic](#combinatorics-category-theory-induction-and-higher-order-logic)
 
 ## [Regulation and Artifical Economic Dynamics](#regulation-and-artificial-economic-dynamics)
 
-#### [Price Instability Cascades Through Product Dependency Trees](#price-instability-cascades-through-product-dependency-trees)
+#### &#x03D5; [Price Instability Cascades Through Product Dependency Trees](#price-instability-cascades-through-product-dependency-trees)
 
-#### [Positive Feedback Loops in Price Inflation and Currency Inflation](#positive-feedback-loops-in-price-inflation-and-currency-inflation)
+#### &#x03D5; [Positive Feedback Loops in Price Inflation and Currency Inflation](#positive-feedback-loops-in-price-inflation-and-currency-inflation)
 
-#### [Oh You Cited A Potential GDP Increase & GDP is Good](#oh-you-cited-a-potential-gdp-increase-gdp-is-good)
+#### &#x03D5; [Oh You Cited A Potential GDP Increase & GDP is Good](#oh-you-cited-a-potential-gdp-increase-gdp-is-good)
 
 ## [The Progression of Automation in Labor Markets](#the-progression-of-automation-in-labor-markets)
 
-#### [Uber and Gradual Automation of Employment Roles](#uber-and-gradual-automation-of-employment-roles)
+#### &#x03D5; [Uber and Gradual Automation of Employment Roles](#uber-and-gradual-automation-of-employment-roles)
 
-#### [Total Automation Cripples the Human Network Effect](#total-automation-cripples-the-human-network-effect)
+#### &#x03D5; [Total Automation Cripples the Human Network Effect](#total-automation-cripples-the-human-network-effect)
 
-#### [Mental Labor Will Often Be The First to Go](#mental-labor-will-often-be-the-first-to-go)
+#### &#x03D5; [Mental Labor Will Often Be The First to Go](#mental-labor-will-often-be-the-first-to-go)
 
-#### [Clustering, Dimensionality Reduction and Groundhog Day](#clustering-dimensionality-reduction-and-groundhog-day)
+#### &#x03D5; [Clustering, Dimensionality Reduction and Groundhog Day](#clustering-dimensionality-reduction-and-groundhog-day)
 
-#### [There's Always Money In The Banana Stand](#theres-always-money-in-the-banana-stand)
+#### &#x03D5; [There's Always Money In The Banana Stand](#theres-always-money-in-the-banana-stand)
 
-#### [Intergenerational Dynamics of Technology Driven Unemployment](#intergenerational-dynamics-of-technology-driven-unemployment)
+#### &#x03D5; [Intergenerational Dynamics of Technology Driven Unemployment](#intergenerational-dynamics-of-technology-driven-unemployment)
 
-#### [A Sociocultural Paradox of Technology and Automation](#a-sociocultural-paradox-of-technology-and-automation)
+#### &#x03D5; [A Sociocultural Paradox of Technology and Automation](#a-sociocultural-paradox-of-technology-and-automation)
 
-#### [Utopia's Song](#utopias-song)
+#### &#x03D5; [Utopia's Song](#utopias-song)
 
 ## [The Employer of Last Resort](#the-employer-of-last-resort)
 
-#### [National Service Catalyzes Sociocultural Transformation](#national-service-catalyzes-sociocultural-transformation)
+#### &#x03D5; [National Service Catalyzes Sociocultural Transformation](#national-service-catalyzes-sociocultural-transformation)
 
-#### [Imprinting Universal Experiences](#imprinting-universal-experiences)
+#### &#x03D5; [Imprinting Universal Experiences](#imprinting-universal-experiences)
 
-#### [National Service Drives Social Flux and Tightens the Social Graph](#national-service-drives-social-flux-and-tightens-the-social-graph)
+#### &#x03D5; [National Service Drives Social Flux and Tightens the Social Graph](#national-service-drives-social-flux-and-tightens-the-social-graph)
 
-#### [National Citizen Service for Young Adults](#national-citizen-service-for-young-adults)
+#### &#x03D5; [National Citizen Service for Young Adults](#national-citizen-service-for-young-adults)
 
-#### [What To Do With 20 to 100 Million Unemployed?](#what-to-do-with-20-to-100-million-unemployed)
+#### &#x03D5; [What To Do With 20 to 100 Million Unemployed?](#what-to-do-with-20-to-100-million-unemployed)
 
-#### [The Upcoming Soft-Power Showdown With China](#the-upcoming-soft-power-showdown-with-china)
+#### &#x03D5; [The Upcoming Soft-Power Showdown With China](#the-upcoming-soft-power-showdown-with-china)
 
-#### [Cost And Benefits of National Service](#cost-and-benefits-of-national-service)
+#### &#x03D5; [Cost And Benefits of National Service](#cost-and-benefits-of-national-service)
 
-#### [More Intergenerational and Geoeconomic Dynamics](#more-intergenerational-and-geoeconomic-dynamics)
+#### &#x03D5; [More Intergenerational and Geoeconomic Dynamics](#more-intergenerational-and-geoeconomic-dynamics)
 
 ## [Economic Sustainability](#economic-sustainability)
 
-#### [I Hope All That Money Is Well Invested](#i-hope-all-that-money-is-well-invested)
+#### &#x03D5; [I Hope All That Money Is Well Invested](#i-hope-all-that-money-is-well-invested)
 
 ## [We Are the Sum of Humanity's Realized Potential](#we-are-the-sum-of-humanitys-realized-potential)
 
