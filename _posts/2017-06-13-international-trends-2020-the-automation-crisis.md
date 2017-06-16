@@ -49,7 +49,7 @@ status quo now. Therefore, all other powers have a greater incentive
 to disrupt the status quo than we do in maintaining it. For them, it
 is easier to disrupt than it is for us to maintain. Foreign interests
 and information warfare have subverted American leftists into
-attacking the fundamentals American prosperity. They don't realize
+attacking the fundamentals of American prosperity. They don't realize
 that it is American prosperity that provides the possibility of
 expansive social programs. Without these economic interests intact,
 the question is no longer whether we should finance entitlement
@@ -87,20 +87,14 @@ converge towards a more final state. This crisis represents a
 tumultuous transition towards economic convergence, but may spiral out
 of control, especially without cooperation.
 
-# (Nine) Major Factors
-
-This is an overview of eight major factors that act as components to
-the development and outcome of the crisis. These factors are not
-listed in order of significance because the system is non-linear and
-these factors effects, dynamics and magnitudes are thus
-interdependent.
+# Strongest System-Wide Dynamics
 
 - explain how everything is linked, but distinguish what drives the
   initiation of the crisis
 
-
 - strongest system-wide dynamics:
-  - artificial intelligence and technology drive unemployment
+  - artificial intelligence, fabriction and other technology drive
+    unemployment
     - high rates of unemployment drastically lower median income in developed nations
   - reduced median income (esp via higher income levels) leads to
     stagnant comsumer debt and thereby limited liquidity
@@ -118,6 +112,14 @@ interdependent.
     - addressing climate change requires limiting economic development
       (i.e. diversion of liquidity and the aversion of its
       accumulation) and government spending
+
+# (Nine) Major Factors
+
+This is an overview of nine major factors that act as components to
+the development and outcome of the crisis. These factors are not
+listed in order of significance because the system is non-linear and
+these factors effects, dynamics and magnitudes are thus
+interdependent.
 
 ## (1) [Geoeconomic Dynamics of Automation and Unemployment](#geoeconomic-dynamics-of-automation-and-unemployment)
 
@@ -387,6 +389,12 @@ sector.
 
 # [Entitlements, Median Income and Population Flux](#entitlements-median-income-and-population-flux)
 
+- How fast do disruption to income distribution and median income occur?
+  - which segments of median income are disrupted first? (upper or lower)
+  - which segments of the income distribution most severely disrupt
+    revenue streams to banks?
+
+
 > "Ask not what your government can do for you, but what you can do
 > for your government."
 
@@ -411,9 +419,9 @@ for 5% of the population.
     - If the benefits are attractive, (describe people's response...)
   - This is a global crisis (expand...)
 
-- Because the crisis inevitably results in inflation, this last factor
+- Because the crisis inevitably results in inflation, (population flux)
   determines the severity of a currency's contribution to disruption
-  to forex markets.
+  to forex markets. (fix this statement)
   - in turn, this determines risk appetite and drives dynamics in
     deciding where to allocate foreign direct investment.
 - Because the economic crisis cannot be lessened except through credit
@@ -442,6 +450,16 @@ for 5% of the population.
       you are about as close to literally printing money as you can
       get if you're in charge of the world's reserve currency.
 
+(rewrite) ultimately, if you want to reduce the severity of the
+crisis, you have to reduce spending while there's plenty of
+liquidity. that means we need to divert from spending in
+general. again, that's so that we can invest in other things *while*
+we have the liquidity because once unemployment hits critical levels,
+we won't be able to do anything but print money.  what matters is
+preservation of real value outside currency, so we need to invest in
+global real estate, commodity, production via FDI, etc.  in this way,
+we can weather the forex dynamics.
+
 # [Unpredictable Geoeconomic Trends Via Climate Change](#unpredictable-geoeconomic-trends-via-climate-change)
 
 - war can cause massive amounts of pollution
@@ -454,7 +472,7 @@ for 5% of the population.
 Just because the economy seems to have recovered from the 2008 crisis
 doesn't mean that we're out of the woods yet. We need forward-looking
 economic policy determined by where the global economy is
-heading. Amid the uncertainty imposed by these eight factors, each
+heading. Amid the uncertainty imposed by these nine factors, each
 strongly defining how the crisis unfolds, the successful policy is not
 reactive, it is proactive. It must drive trends and mitigate
 uncertainty, while being strongly defined by exigent trends and the
@@ -562,6 +580,11 @@ interest under rapidly changing conditions.
 
 - water and gold as two possible commodities (? meh...)
   - explain why...
+
+- or a single currency shared across the world
+  - but transitioning to this in time will be impossible to do safely
+  - the transition to the system would add too much instability and
+    even the ideal single-currency system might not work
 
 ### [Limiting Effects on Employment and Median Income](#limiting-effects-on-employment-and-median-income)
 
