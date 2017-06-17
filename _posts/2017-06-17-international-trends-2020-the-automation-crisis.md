@@ -40,7 +40,7 @@ excerpt: ""
 
 #### &#x03D5; [Unpredictable Geoeconomic Trends Via Climate Change](#unpredictable-geoeconomic-trends-via-climate-change)
 
-
+# [We Are Not Out of the Woods Yet](#we-are-not-out-of-the-woods-yet)
 
 
 # [Inevitable Unemployment and the Resulting Liquidity Crunch](#inevitable-unemployment-and-the-resulting-liquidity-crunch)
@@ -190,7 +190,7 @@ interdependent.
 
 <a name="geoeconomic-dynamics-of-automation-and-unemployment" />
 
-# [Geoeconomic Dynamics of Automation and Unemployment](#geoeconomic-dynamics-of-automation-and-unemployment)
+### [Geoeconomic Dynamics of Automation and Unemployment](#geoeconomic-dynamics-of-automation-and-unemployment)
 
 From the perspective of a behavioral economist, this factor is the
 most important in predicting the common person's response, both
@@ -217,16 +217,20 @@ labor markets. (explain...)
   - what does it mean for a rising china?
   - what does it mean for America and the EU?
 
-![Pic/Link of Automatable Jobs Per Industry]()
+![Pic/Link of Automatable Jobs Per Industry](/img/posts/2017-06-17-international-trends-2020-the-automation-crisis/automation-and-unemployment.jpg)
+
+#### [@hnrklndbrg](https://twitter.com/hnrklndbrg)'s Graph Estimating the [Likelihood a Job Will Be Automated](http://www.marketwatch.com/story/this-chart-spells-out-in-black-and-white-just-how-many-jobs-will-be-lost-to-robots-2017-05-31)
 
 <a name="policy-response-strategy-perception-timing-and-pacing" />
 
-# [Policy Response: Strategy, Perception, Timing and Pacing](#policy-response-strategy-perception-timing-and-pacing)
+### [Policy Response: Strategy, Perception, Timing and Pacing](#policy-response-strategy-perception-timing-and-pacing)
 
 - questions to answer:
   - what policy responses are available? UBI and national service
     - when considering policy response, what is the proper timing?
-      what are the opportunity costs?
+      what are the opportunity costs? How do we transition into policy
+      implementation?
+
   - what policy responses are appealing?
   - delineate the explanation along economic, sociocultural and
     geopolitical dimensions
@@ -264,7 +268,7 @@ labor markets. (explain...)
 
 <a name="commodity-markets-and-resource-distribution" />
 
-# [Commodity Markets and Resource Distribution](#commodity-markets-and-resource-distribution)
+### [Commodity Markets and Resource Distribution](#commodity-markets-and-resource-distribution)
 
 The global economy becomes resource-bound. This defining trait becomes
 more pronounced as we approach the singularity and the next technology
@@ -297,11 +301,12 @@ useful.
 
 <a name="technologys-impact-on-commodity-markets" />
 
-# [Technology's Impact on Commodity Markets](#technologys-impact-on-commodity-markets)
+### [Technology's Impact on Commodity Markets](#technologys-impact-on-commodity-markets)
 
-- The majority of uncapitalized opportunity in the next few decades
-  centers around materials science and the resulting intellectual
-  property.
+The majority of uncapitalized opportunity in the next few decades
+centers around materials science and the resulting intellectual
+property. Both the import of resources from space and these new
+fabrication technologies will strongly disrupt commodity markets.
 
 Once fabrication achieves specific technological functionality
 milestones, it always becomes more efficient to manufacture closer to
@@ -338,14 +343,16 @@ of materials from space?
 
 Higher commodity prices lead to development of resources from the
 arctic, the seafloor and space. Greenland and Antarctica are
-incredibly mountainous and their minerals are [probably] untouched.
-
-- reclamation of materials in landfills
-- e.g. a gradual shift away from fossil fuels and towards renewables
+incredibly mountainous and their minerals are [probably]
+untouched. Furthermore, proficient fabrication technology will lead to
+a renaissance in garbage. All those landfills in third world countries
+become like gold mines ... maybe. Of course, we'll also see the
+obligatory gradual shift away from fossil fuels and towards
+renewables, as nations posture themselves for energy independence.
 
 <a name="distribution-and-control-of-foreign-direct-investment" />
 
-# [Distribution and Control of Foreign Direct Investment](#distribution-and-control-of-foreign-direct-investment)
+### [Distribution and Control of Foreign Direct Investment](#distribution-and-control-of-foreign-direct-investment)
 
 - technology's impact on globally allocated capital
   - It's cheaper to manufacture closer to the consumer. Doing so
@@ -391,7 +398,7 @@ incredibly mountainous and their minerals are [probably] untouched.
 
 <a name="forex-dynamics-and-foreign-currency-reserve-distribution" />
 
-# [Forex Dynamics and Foreign Currency Reserve Distribution](#forex-dynamics-and-foreign-currency-reserve-distribution)
+### [Forex Dynamics and Foreign Currency Reserve Distribution](#forex-dynamics-and-foreign-currency-reserve-distribution)
 
 - I need to know more about forex trading and foriegn currency
   dynamics to understand how this factor plays into the crisis.
@@ -424,7 +431,7 @@ incredibly mountainous and their minerals are [probably] untouched.
 
 <a name="distribution-of-debt" />
 
-# [Distribution of Debt](#distribution-of-debt)
+### [Distribution of Debt](#distribution-of-debt)
 
 What happened during the 2008 housing crisis? The subprime housing
 markets crashed and the lost revenue streams thereof triggered
@@ -459,7 +466,7 @@ sector.
 
 <a name="entitlements-median-income-and-population-flux" />
 
-# [Entitlements, Median Income and Population Flux](#entitlements-median-income-and-population-flux)
+### [Entitlements, Median Income and Population Flux](#entitlements-median-income-and-population-flux)
 
 - How fast do disruption to income distribution and median income occur?
   - which segments of median income are disrupted first? (upper or lower)
@@ -467,7 +474,6 @@ sector.
     revenue streams to banks?
 - multiple measure of income distrubution: with and without government
   assistance
-  - 
 
 > "Ask not what your government can do for you, but what you can do
 > for your government."
@@ -536,7 +542,7 @@ we can weather the forex dynamics.
 
 <a name="unpredictable-geoeconomic-trends-via-climate-change" />
 
-# [Unpredictable Geoeconomic Trends Via Climate Change](#unpredictable-geoeconomic-trends-via-climate-change)
+### [Unpredictable Geoeconomic Trends Via Climate Change](#unpredictable-geoeconomic-trends-via-climate-change)
 
 - war can cause massive amounts of pollution
   - wide scale war with new technologies in the age of climate change
