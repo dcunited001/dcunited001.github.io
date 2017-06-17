@@ -1107,6 +1107,16 @@ Tax. Freshwater and arable land become crucial resources in the 21st
 century. These have been mostly taken for granted in the latter part
 of the 20th century.
 
+# The Book of Enoch
+
+- describes Noah as an Albino
+- the parts the describe the world before noah describe a massive
+  change in bodies of water, that seemed to lead to the destruction of
+  "kings" who did not anticipate the event.
+  - the calamity involves large amounts of water and ~molten fire~ and
+    a characteristic smell of sulphur
+
+
 # Atlantis, Lemuria, Hyperborea
 
 Countless myths concern lost cities, once great, but now sunken into

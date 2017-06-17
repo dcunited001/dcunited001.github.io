@@ -10,6 +10,39 @@ excerpt: ""
 
 #### &#x2605; [Climate Change](/posts/2017-02-28-international-trends-2020-climate-change.html) &#x2605; [The Smart Grid](/posts/2017-02-28-international-trends-2020-the-smart-grid.html) &#x2605; [Universal Basic Income](/posts/2017-06-05-international-trends-2020-universal-basic-income.html) &#x2605; The Automation Crisis &#x2605;
 
+## [Inevitable Unemployment and the Resulting Liquidity Crunch](#inevitable-unemployment-and-the-resulting-liquidity-crunch)
+
+#### &#x03D5; [The Capacity of the Crisis to Elude Understanding](#the-capacity-of-the-crisis-to-elude-understanding)
+
+#### &#x03D5; [America Must Guard the Economic Status Quo](#america-must-guard-the-economic-status-quo)
+
+#### &#x03D5; [Why Is This Crisis Different?](#why-is-this-crisis-different)
+
+#### &#x03D5; [The Strongest System-Wide Dynamics in this Crisis](#the-strongest-system-wide-dynamics-in-this-crisis)
+
+## [Nine Major Factors](#nine-major-factors)
+
+#### &#x03D5; [Geoeconomic Dynamics of Automation and Unemployment](#geoeconomic-dynamics-of-automation-and-unemployment)
+
+#### &#x03D5; [Policy Response: Strategy, Perception, Timing and Pacing](#policy-response-strategy-perception-timing-and-pacing)
+
+#### &#x03D5; [Commodity Markets and Resource Distribution](#commodity-markets-and-resource-distribution)
+
+#### &#x03D5; [Technology's Impact on Commodity Markets](#technologys-impact-on-commodity-markets)
+
+#### &#x03D5; [Distribution and Control of Foreign Direct Investment](#distribution-and-control-of-foreign-direct-investment)
+
+#### &#x03D5; [Forex Dynamics and Foreign Currency Reserve Distribution](#forex-dynamics-and-foreign-currency-reserve-distribution)
+
+#### &#x03D5; [Distribution of Debt](#distribution-of-debt)
+
+#### &#x03D5; [Entitlements, Median Income and Population Flux](#entitlements-median-income-and-population-flux)
+
+#### &#x03D5; [Unpredictable Geoeconomic Trends Via Climate Change](#unpredictable-geoeconomic-trends-via-climate-change)
+
+
+
+
 # [Inevitable Unemployment and the Resulting Liquidity Crunch](#inevitable-unemployment-and-the-resulting-liquidity-crunch)
 
 There is an economic crisis brewing. As automation drives
@@ -32,7 +65,9 @@ dependent on rates of unemployment and tax volume. Imagine the effect
 that would have on currency markets, economic development and lending
 institutions.
 
-###
+<a name="the-capacity-of-the-crisis-to-elude-understanding" />
+
+### [The Capacity of the Crisis to Elude Understanding](#the-capacity-of-the-crisis-to-elude-understanding)
 
 The upcoming crisis is unlike any before. Even though it shares many
 of the same components, it is fundamentally different in ways that
@@ -44,7 +79,9 @@ of the crisis which is worrying, but the acceleration in economic
 trends along with qualitative aspects of the crisis that will cause itq
 to elude understanding, triggering poor reaction among nations.
 
-###
+<a name="america-must-guard-the-economic-status-quo" />
+
+### [America Must Guard the Economic Status Quo](#america-must-guard-the-economic-status-quo)
 
 It's critical to keep in mind that America dominates the economic
 status quo now. Therefore, all other powers have a greater incentive
@@ -93,7 +130,7 @@ of control, especially without cooperation.
 
 <a name="the-strongest-system-wide-dynamics" />
 
-### [The Strongest System-Wide Dynamics](#the-strongest-system-wide-dynamics)
+### [The Strongest System-Wide Dynamics](#the-strongest-system-wide-dynamics-in-this-crisis)
 
 Artificial intelligence, fabriction and other technology drive
 unemployment. High rates of unemployment drastically lower median
@@ -150,24 +187,6 @@ the development and outcome of the crisis. These factors are not
 listed in order of significance because the system is non-linear and
 these factors effects, dynamics and magnitudes are thus
 interdependent.
-
-#### (1) [Geoeconomic Dynamics of Automation and Unemployment](#geoeconomic-dynamics-of-automation-and-unemployment)
-
-#### (2) [Policy Response: Strategy, Perception, Timing and Pacing](#policy-response-strategy-perception-timing-and-pacing)
-
-#### (3) [Commodity Markets and Resource Distribution](#commodity-markets-and-resource-distribution)
-
-#### (4) [Technology's Impact on Commodity Markets](#technologys-impact-on-commodity-markets)
-
-#### (5) [Distribution and Control of Foreign Direct Investment](#distribution-and-control-of-foreign-direct-investment)
-
-#### (6) [Forex Dynamics and Foreign Currency Reserve Distribution](#forex-dynamics-and-foreign-currency-reserve-distribution)
-
-#### (7) [Distribution of Debt](#distribution-of-debt)
-
-#### (8) [Entitlements, Median Income and Population Flux](#entitlements-median-income-and-population-flux)
-
-#### (9) [Unpredictable Geoeconomic Trends Via Climate Change](#unpredictable-geoeconomic-trends-via-climate-change)
 
 <a name="geoeconomic-dynamics-of-automation-and-unemployment" />
 
@@ -242,7 +261,7 @@ labor markets. (explain...)
     response
   - this is why authoritarian countries are at an advantage here. They
     can leverage information to mitigate the range negative impact 
-  
+
 <a name="commodity-markets-and-resource-distribution" />
 
 # [Commodity Markets and Resource Distribution](#commodity-markets-and-resource-distribution)
@@ -370,7 +389,7 @@ incredibly mountainous and their minerals are [probably] untouched.
     regulation affect cost structures, the incentivization of
     corporate behavior and foreign direct investment?
 
-<a name="" />
+<a name="forex-dynamics-and-foreign-currency-reserve-distribution" />
 
 # [Forex Dynamics and Foreign Currency Reserve Distribution](#forex-dynamics-and-foreign-currency-reserve-distribution)
 
@@ -403,7 +422,7 @@ incredibly mountainous and their minerals are [probably] untouched.
 
 - sustainability of nations' credit-driven policies
 
-<a name="" />
+<a name="distribution-of-debt" />
 
 # [Distribution of Debt](#distribution-of-debt)
 
@@ -629,6 +648,8 @@ establish an economic platform that America can use to replace
 liquidity in the 2030's.
 
 (... more)
+- cite USAID & other organizations that can push economic development
+
 
 <a name="currency-market-stabalization" />
 
