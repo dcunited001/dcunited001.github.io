@@ -132,7 +132,8 @@ both. These negatively impact the climate, fueling unpredictable
 changes in agriculture and water availability, thereby influencing
 real estate markets. Unpredictability in itself leads to behavior to
 anticipate & mitigate unpredictability. Addressing climate change
-requires limiting economic development through government spending and diversion of liquidity.
+requires limiting economic development through government spending and
+diversion of liquidity.
 
 Technology changes commodity markets and demand for resources. Those
 with broader portfolios can spead out their risk amoung more foreign
@@ -181,7 +182,7 @@ perception of the crisis and thus their political reaction to it.
 
 The geoeconomic dynamics contribute towards dynamics which invert
 globalization's impact on regional manufactoring, while decimating
-labor markets.
+labor markets. (explain...)
 
 - That is, American manufacturing is more likely to move home, but
   that doesn't restore lost jobs or the disrupted wealth distribution
@@ -215,6 +216,7 @@ labor markets.
     - how does the economic state of a nation and its citizens
       affect the policy?
 
+
 - (every major government's need for a policy response)
 - the choice between UBI and national service
   - the costs/benefits of each will differ depending on how
@@ -235,6 +237,12 @@ labor markets.
   - additionally, the people are easily subverted against themselves
     by foreign powers.
 
+- controlling the narrative
+  - tighter control of information in general, especially of the
+    response
+  - this is why authoritarian countries are at an advantage here. They
+    can leverage information to mitigate the range negative impact 
+  
 <a name="commodity-markets-and-resource-distribution" />
 
 # [Commodity Markets and Resource Distribution](#commodity-markets-and-resource-distribution)
@@ -438,7 +446,9 @@ sector.
   - which segments of median income are disrupted first? (upper or lower)
   - which segments of the income distribution most severely disrupt
     revenue streams to banks?
-
+- multiple measure of income distrubution: with and without government
+  assistance
+  - 
 
 > "Ask not what your government can do for you, but what you can do
 > for your government."
