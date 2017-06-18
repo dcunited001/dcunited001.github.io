@@ -102,10 +102,10 @@ There isn't enough liquidity and wealth distribution for people to
 keep up with their debt. Therefore, this is a deflationary depression
 where inflationary measures are appealing to inject liquidity into the
 economy and relieve unemployment. Such inflationary measures include
-UBI and ELR. In doing so, the finance of budget deficits via credit
-drives inflation, which contributes to systemic instability in global
-currency markets. But unlike most depressions, various means of
-production should remain elevated through the use of
+UBI and ELR. In doing so, the finance of budget deficits both with and
+without credit drives inflation. These contribute to systemic
+instability in global currency markets. But unlike most depressions,
+various means of production should remain elevated through the use of
 technology. Because of automation's inversion of labor markets, this
 furthers income distribution disparity, since the profits fall into
 singularly fewer hands. The 21st century economy rapidly converges
@@ -120,8 +120,8 @@ will also be insufficient. The liquidity to invest in smart-grid
 infrastructure and the development of emerging markets will be
 restricted. Further complicating matters, nations often respond to
 depressionary crises with warfare to artificially stimulate of
-economic activity and facilitate expansion. This creates geopolitical
-instability at the same time as global economic crisis.
+economic activity and expansion. This creates geopolitical instability
+at the same time as global economic crisis.
 
 The Singularity's technology trends drive the global economy to
 converge towards a more final state. This crisis represents a
@@ -140,7 +140,7 @@ this dependency on already established revenue streams leads to
 greater surface area for systemic risk. These higher levels of debt
 saturation lead to more severely constricted liquidity in situations
 of lowered employment. The lost liquidity leads to fewer new
-investments and less capability to develop economies opportunities to
+investments and less capability to develop economic opportunities to
 rise oneself out of crisis.
 
 As opposed to other crises, restoring income distribution cannot be
@@ -149,19 +149,22 @@ employment will never be restored. Therefore, social programs must be
 sustained through high tax volume via highly profitable private &
 state enterprise. That which cannot be supported through enterprise
 must be borrowed or even literally printed by the government. However
-it can be provided, the people will be asking for it and
-expecting. High levels of unemployment lead to lots of idle people
-who take to the internet and demand more expansive programs.
+it can be provided, the people will be asking for it and expecting
+more of it. High levels of unemployment lead to lots of idle people
+who vent their unrest on the internet and demand more expansive
+programs.
 
 The dependency on expansive social programs, debt-backed or not, leads
-to currency stability issues. In the past, currency dynamics were
-mostly restricted to a small number of currencies at the same time in
-the global system. Yet, here, you have these disruptive dynamics
-occuring system-wide. Because of that, there is a high likelihood of
-several simultaneous positive feedback loops in forex markets that
-multiplies turbulence and cause massive amounts of wealth to
-evaporate. These forex dynamics and massively redistributed wealth
-will strongly shape world politics.
+to currency stability issues. This resulting inflation leads to poor
+performance in bond markets, which impedes debt security options for
+central banking. In the past, currency dynamics were mostly restricted
+to a small number of currencies at the same time in the global
+system. Yet, here, you have these disruptive dynamics occuring
+system-wide. Because of that, there is a high likelihood of several
+simultaneous positive feedback loops in forex markets. These multiply
+turbulence and cause massive amounts of wealth to evaporate. These
+forex dynamics and massive redistributions of wealth will strongly
+shape world politics.
 
 All of these factors can lead to war, but the unpredictable, global
 currency dynamics in particular. War & unrest lead to more of
@@ -201,17 +204,21 @@ perception of the crisis and thus their political reaction to it.
 
 The geoeconomic dynamics contribute towards dynamics which invert
 globalization's impact on regional manufactoring, while decimating
-labor markets. (explain...)
+labor markets. That is, American manufacturing is more likely to move
+home, but that doesn't restore lost jobs or the disrupted wealth
+distribution that accompanied globalization. (explain "inversion of
+globalization"...)
 
-- That is, American manufacturing is more likely to move home, but
-  that doesn't restore lost jobs or the disrupted wealth distribution
-  that accompanied globalization.
-  - The impact on manufacturing, in particular, is constrained to the
-    phenomenological limits of artificial intelligence, 3D printing
-    and nano-technology.
+How does the gradual impact to income distribution progress over
+various regions of the US? Can the progression of unemployment be
+accurately anticipated?
 
-- how does this impact various regions of the US?
-  - can the progression of unemployment be predicted domestically?
+The impact on manufacturing, in particular, is constrained to the
+phenomenological limits of artificial intelligence, 3D printing and
+nano-technology. These are bounded by complexity theory and methods of
+fabrication. For example, the nano-revolution is impossible when
+materials like graphene and buckyballs can only be produced in
+laboratory quantities.
 
 - how does this impact developing nations?
   - what does it mean for a rising china?
@@ -239,7 +246,6 @@ labor markets. (explain...)
     - how does the economic state of a nation and its citizens
       affect the policy?
 
-
 - (every major government's need for a policy response)
 - the choice between UBI and national service
   - the costs/benefits of each will differ depending on how
@@ -264,7 +270,9 @@ labor markets. (explain...)
   - tighter control of information in general, especially of the
     response
   - this is why authoritarian countries are at an advantage here. They
-    can leverage information to mitigate the range negative impact 
+    can leverage information to mitigate the range negative impact
+  - unraveling net neutrality may be helpful in this regard, though
+    ...
 
 <a name="commodity-markets-and-resource-distribution" />
 
@@ -429,6 +437,47 @@ renewables, as nations posture themselves for energy independence.
 
 - sustainability of nations' credit-driven policies
 
+
+- money supply (m2 is at ~ $13 Trillion)
+  - [Y charts money supply](https://ycharts.com/indicators/categories/monetary)
+
+
+### Bond Markets
+
+
+- bond markets
+  - how do bond markets respond in the 20's & 30's, before potential
+    war?
+  - need to answer: how bonds and bond products are bundled/traded
+  - unemployment pressures bond markets to respond lower yields.
+    - http://www.investopedia.com/terms/b/bond-yield.asp?lgl=myfinance-layout-no-ads
+  - "inflation is a bond's worst enemy"
+    - http://www.investopedia.com/articles/bonds/09/bond-market-interest-rates.asp?lgl=myfinance-layout-no-ads
+
+- [Ten Year T-Bond and why it's important](https://www.thebalance.com/10-year-treasury-note-3305795)
+
+- the Fed buys bonds to inject liquidity into the economy, expecting
+  to receive payment from bond issuers over the course of 10 or 30
+  years.
+  - the bond market responds poorly to inflation. This is bond
+    investors receive less return on investment after bond yields are
+    adjusted for inflation.
+    - this means that the Fed is less able to leverage bond purchases
+      to inject liquidity into the economy through the banking sector.
+    - it can still do so, but can expect the bonds to perform poorly
+      and thus is a bad decision
+    - this feedback loop that inflation to limit liquidity via
+      the bond markets.
+      - additionally, this is happening at the same time that poorly
+        serviced debt via unemployment restricts liquidity through
+        constriction of bank reserves.
+
+- [jeffrey gundlach](https://en.wikipedia.org/wiki/Jeffrey_Gundlach)
+  - [Bond market talk](https://www.youtube.com/watch?v=qt535kgQKno)
+
+- TODO: liquidity measures (market depth, etc)
+- TODO: how do macroprudential policies affect the crisis
+
 <a name="distribution-of-debt" />
 
 ### [Distribution of Debt](#distribution-of-debt)
@@ -474,6 +523,13 @@ sector.
     revenue streams to banks?
 - multiple measure of income distrubution: with and without government
   assistance
+  
+- (move?) the rate at which federal deficits expand will determine how reliant
+  the government is on central banking, bonds, etc.
+  - inflationary financial policy like this, driven at high rates in
+    the 2020's, may increase the CPI faster than the monetary supply
+  - this is because of cascading effects in how businesss price their
+    products
 
 > "Ask not what your government can do for you, but what you can do
 > for your government."
@@ -544,9 +600,28 @@ we can weather the forex dynamics.
 
 ### [Unpredictable Geoeconomic Trends Via Climate Change](#unpredictable-geoeconomic-trends-via-climate-change)
 
+- smart grid as economic platform (link to part 1 & part 2)
+  - this helps quantify/anticipate trends in demand for commodities,
+    which can help mitigate a lot of the uncertainty in the late 20's
+    and 30's
+    - useful for derivatives on commodities (options/futures)
+  - if you control/own the hardware, you have more control over the
+    applications developed on top of platform's like GE's Predix
+  - when combined with financial applications, this
+    energy/resource/appliance utilization data is (... incredibly
+    useful)
+
 - war can cause massive amounts of pollution
   - wide scale war with new technologies in the age of climate change
     can lead to debt and more war in some circumstances.
+
+- (move) financing war in the middle of an economic or currency crisis
+  - it's very difficult, but hey, maybe we can find Lincoln's buried
+    gold..
+  - how does war impact bond markets?
+
+- derivatives?
+  - the bond guy says
 
 <a name="we-are-not-out-of-the-woods-yet" />
 
@@ -564,6 +639,7 @@ Singularity's assymptotic finality of economic convergence.
 - Please note that I don't have the data or expertise to make solid
   recommendations.
   - counter-intuitive nature of economic policy
+  - shouldn't be taken as investment advice
 
 <a name="policy-must-account-for-domestic-and-foreign-political-reaction" />
 
@@ -584,7 +660,7 @@ often delude ourselves into believing optimal indicators imply optimal
 allocation of wealth.
 
 That is, the common person assumes that the cash flowing around the
-economy reflects strong economic fundamentals, when instead Keynesian
+economy reflects strong economic fundamentals when instead Keynesian
 economics allows "even out" economic turbulence by stimulating the
 economy with central banking. The credit injected into the economy, in
 turn, promotes economic growth. So when there's not enough liquidity
@@ -654,7 +730,9 @@ establish an economic platform that America can use to replace
 liquidity in the 2030's.
 
 (... more)
-- cite USAID & other organizations that can push economic development
+- cite OPIC, USAID(?) & other organizations that can push economic
+  development
+  - CSIS videos on Federal international development institutions
 
 
 <a name="currency-market-stabalization" />
@@ -739,7 +817,7 @@ interest under rapidly changing conditions.
   - As this approaches, I'd recommend 1% of investment in gold/silver
     per 1% in unemployment.
 
-### Student Loan Reform is Reasonable
+### Student Loan Reform is Reasonable, Innovation in Higher Education is Preferable
 
 - The actual value of college education is much lower than the price.
   Especially looking forward, one can see that there is less incentive
@@ -750,9 +828,6 @@ interest under rapidly changing conditions.
   - garbage in, garbage out
     - if computers augment our ability to think, achieve and function,
       then we need ...
-
-### Reform of Higher Education is Preferable
-
 
 
 ### Policy Must Account for Disinformation in the Age of Social Media
@@ -785,7 +860,7 @@ assets, either legally, nomininally or just functionally. That's how
 Marxist revolution works.
 
 It's not a matter of opinion. There will be economic crisis and any
-friction or disunity in America's reaction is unacceptable. America
+friction or discord in America's reaction is unacceptable. America
 must unite and we cannot tolerate dissension or we will end up ceding
 our own economic interests to our enemies at the culmination of human
 history. America underneath the foot of our enemies will be
@@ -809,6 +884,8 @@ semiotic basis of symbols related to work and pride in work begin to
 break down. Your pattern language no longer functions for mind control
 because the symbols upon which it is built become increasingly
 irrelevant to human experience.
+
+<a name="what-side-do-you-want-to-be-on-anyways" />
 
 ### [What Side Do You Want To Be On Anyways?](#what-side-do-you-want-to-be-on-anyways)
 
