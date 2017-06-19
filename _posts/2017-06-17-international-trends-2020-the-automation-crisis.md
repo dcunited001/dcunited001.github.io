@@ -256,27 +256,74 @@ off, therefore, less direct and middle-management are required.
 
 ### [Policy Response: Strategy, Perception, Timing and Pacing](#policy-response-strategy-perception-timing-and-pacing)
 
-- questions to answer:
-  - what policy responses are available? UBI and Employer of Last
-    Resort
-    - when considering policy response, what is the proper timing?
-      what are the opportunity costs? How do we transition into policy
-      implementation?
+What policy responses are available? Mostly UBI and Employer of Last
+Resort. When considering a policy response, the most important factor
+is the path to transitioning into the policy. What transition paths
+are available from where we are? What is the proper timing? How is the
+policy legally formulated to offer malleability and redundancy in
+timing the implementation? What are the opportunity costs?
+
+What policy responses are appealing? The available and appealing
+responses for major players should be delineated and evaluated upon
+economic, sociocultural and geopolitical dimensions. In general, which
+options are available for developed or underdeveloped economies? How
+are failed states going to respond in their region? Will this force a
+general contraction of soft/hard power via strong, developed states?
+Or will the forced reliance on economic opportunitiy force states into
+responding by projecting soft power? How does a rising China respond?
+with the Belt and Road strategy for soft power?
+
+
+
+- the UBI proponents seem to think that everything will be fine if, in
+  a fundamentally different economy, enough factors of their choosing
+  remain stable, while other factors that lend credit to their ideas
+  are adopted in mass.
+  - this contradicts occam's razor. you're assuming that random chance
+    will land in your favor every single time for dozens of different
+    factors
+    - maybe we should pray that the economy doesn't crash?
+
+Dear God, please don't let the liberal economy policy fail
+catastrophically.
+
+- A critical measure for domestic policy is the size of monetary
+  supply in relation to annual federal deficits.
+  - Inflation-driven economic policy is highly unsustainable and will
+    tank the credit ratings of nations.
+
+- money supply (m2 is at ~ $13 Trillion)
+  - [Y charts money supply](https://ycharts.com/indicators/categories/monetary)
+- size of annual deficit & national debt.
+
+
+- tax policy
+  - [](http://www.taxpolicycenter.org/statistics/amount-revenue-source)
+  - About 50% of the budget comes from individual income taxes
+    - [2015 United States Budget](http://federal-budget.insidegov.com/l/118/2015#revenues&s=1cNiL&st=0RnKTf)
+    - these individual revenue streams will mostly be replaced on par
+      with unemployment and require major tax policy changes
+    - with UBI, each of these revenue streams is offset with the cost
+      of providing a citizen UBI
+    - with 300 million citizens, that would be an extra $3.0T to the
+      budget for a $10,000 UBI payment. So, not only has the
+      government lost ~30% of the individual income tax revenue
+      streams, but it must provide a service that costs 2 times as
+      much as citizens paid in taxes in 2015.
+      - AND to cover the difference, corporations would need to pay 6
+        times as much in total tax volume.
 
 - taxing automation:
   - how do we fairly determine what is taxably automated labor?
   - can we ever assume that enough tax volume would be produced to
     cover other domestic policy responses, like UBI or ELR? (no)
 
-  - what policy responses are appealing?
-  - delineate the explanation along economic, sociocultural and
-    geopolitical dimensions
-    - which options are appealing for developed/underdeveloped
-      economies?
-    - how does the economic state of a nation and its citizens
-      affect the policy?
+Every major government needs a policy response. The more highly
+developed the economy, the sooner the resulting unemployment and the
+higher consumer and corporate debt holdings are, typically. Poor
+central banking policy across the globe, in aggregate, will disrupt
+currency markets further.
 
-- (every major government's need for a policy response)
 - the choice between UBI and national service
   - the costs/benefits of each will differ depending on how
     developed the nation's economy is.
@@ -304,16 +351,6 @@ off, therefore, less direct and middle-management are required.
   - unraveling net neutrality may be helpful in this regard, though
     ...
 
-- A critical measure for domestic policy is the size of monetary
-  supply in relation to annual federal deficits.
-  - Inflation-driven economic policy is highly unsustainable and will
-    tank the credit ratings of nations.
-
-- money supply (m2 is at ~ $13 Trillion)
-  - [Y charts money supply](https://ycharts.com/indicators/categories/monetary)
-- size of annual deficit & national debt.
-
-
 When debate over domestic policy is decided upon primarily emotional
 arguments citing anecdotal needs to help the poor, how do we assess
 sustainability of a developed nations' credit-driven policies?
@@ -326,17 +363,28 @@ another's lost opportunities to do the same.
 
 ### [Commodity Markets and Resource Distribution](#commodity-markets-and-resource-distribution)
 
-The global economy becomes resource-bound. This defining trait becomes
-more pronounced as we approach the singularity and the next technology
-plateau. It's propensity to define dynamics in commodity markets
-depends on the functional limits of fabrication technology. What is
-clear is that more proficient fabrication leads to more self-reliant
-economies, assuming they have the intellectual property and ability to
-build out industrial capacity. Energy is required to offset entropy of
-starting materials and industrial capacity is required to offset the
-production time required for fabrication. (i.e. 3D printing and
-nanotech are slow, therefore more industrial capacity is required to
-offset time)
+How does geographic distribution of resources precipitate conflict or
+commerce and how does it alter the fortunes of nations? How do
+resources from space alter the equation? And if the primary tier of
+resource streams from space are controlled by private entities, how
+does this change resource distribution, its pricing and
+intergovernmental dynamics? Some space-commerce corporations will form
+transnational entities which parallel governments. This should provide
+them with the option to selectively influence commodity price dynamics
+in sufficient quantities. This ability will be mitigated without a
+monopoly on the business platform for operation in space.
+
+The global economy, which would otherwise be energy-bound becomes
+resource-bound. This defining trait becomes more pronounced as we
+approach the singularity and the next technology plateau. It's
+propensity to define dynamics in commodity markets depends on the
+functional limits of fabrication technology. What is clear is that
+more proficient fabrication leads to more self-reliant economies,
+assuming they have the intellectual property and ability to build out
+industrial capacity. Energy is required to offset entropy of starting
+materials and industrial capacity is required to offset the production
+time required for fabrication. (i.e. 3D printing and nanotech are
+slow, therefore more industrial capacity is required to offset time)
 
 Supply chains then become more compact. Supply of ore and smelting
 will always be required and probably most efficient closest to the
@@ -354,6 +402,8 @@ useful.
   - what technology is capable of delivering determines what resources
     nations need and thereby determines demand.
   - (conflict theory)
+
+- commodities and bond markets
 
 <a name="technologys-impact-on-commodity-markets" />
 
@@ -410,44 +460,56 @@ renewables, as nations posture themselves for energy independence.
 
 ### [Distribution and Control of Foreign Direct Investment](#distribution-and-control-of-foreign-direct-investment)
 
-- technology's impact on globally allocated capital
+- Technology's impact on globally allocated capital
   - It's cheaper to manufacture closer to the consumer. Doing so
     benefits the economy of the consumer while retaining competitive
     advantage and control over intellectual property related to
     industrial processes.
-  - This could drive a minor modality that leads to divestment of
-    foreign direct investment, but it's one of many dynamics.
+    - After a critical mass of fabrication development, suddenly the
+      cost savings of centralized manufacturing are available
+      everywhere that the resources are.
+  - This could drive a minor modality that leads to
+    investment/divestment of capital in FDI, but it's one of many
+    dynamics.
 
-- nationalization of FDI in national emergencies
-  - or sale/redistribution of FDI assets after currency crash.
+In national emergencies, nationalization of FDI can result from
+political unrest, but this usually doesn't happen in developed
+economies with strong rule of law and property rights. In response to
+international events or a currency crisis, there may be sale &
+redistribution of FDI assets to mitigate & relieve some impact to
+investment portfolios.
 
 #### International Regulation of Supply Chains
 
-- The effect on supply chain dimension of the American & Global
-  Economies
-  - reference arguments from article on regulating conflict minerals
-    trade in african nations
-  - elaborate on mechanics/dynamics of shifting supply chains
-    - especially in the context of novel materials/fabrication tech
+The effect on how supply chains interact with the American and global
+economies. The scope and flux of changes to supply chains will be
+dependent on how quickly the intermediate links can retool their
+industry for changes in technology. The intermediate and higher nodes
+have the most agility to respond with more efficient business
+processes, whereas the process flexibility of the lower nodes is
+constrained to extraction & transformation of raw materials. The
+processes of these nodes are more geographically bound. The import of
+processed resources from space will not be so geographically bound,
+but it will remain terrestrially expensive until we have space
+elevators. New manufacturing techniques are enabled, required and
+sometimes rendered inaccessible in space.
 
-- The interantional regulation of supply chains will constrain
-  investment behavior... (include this here?)
-- Conflict minerals help finance destabilization and prevent economic
-  development
+Conflict minerals help finance destabilization and prevent economic
+development. Analytic data enables efficient reporting that enables
+greater and more complete visibility into supply chains. The
+interantional regulation of supply chains will constrain investment
+behavior. This
 
-- There is a fantastic Harvard ILJ article on this specific issue,
-  which is absolutely fascinating. In terms of novel-information
-  density (i.e. the percentage of content new to me) this single
-  article may have accelerated my general level of knowledge more than
-  any other writing I've ever consumed.
-  - that is, this single article stimulated my own imagination more
+
+- absolutely fascinating Harvard ILJ article. In terms of
+  novel-information density (i.e. the percentage of content new to me)
+  this single article may have accelerated my general level of
+  knowledge more than any other writing I've ever consumed.
+
+- that is, this single article stimulated my own imagination more
     than anything else I have ever read and did so in terms of each:
     - number/kind of specific fields covered and the quantity/quality
       of new information
-  - that International Supply Chain article isn't the only such
-    article I've consumed in the past 3 months which has accelerated
-    my acquisition of knowledge to personally unknown levels.
-- TODO: what about it?
   - how is it difficult? how does international supply chain
     regulation affect cost structures, the incentivization of
     corporate behavior and foreign direct investment?
@@ -498,37 +560,32 @@ and banks to loan with low-interest, if they are expecting inflation
 and/or significant forex fluctuations? High inflation negatively
 affects the bond market because the yields are depreciated by it.
 
-- bond markets
-  - how do bond markets respond in the 20's & 30's, before potential
-    war?
-  - need to answer: how bonds and bond products are bundled/traded
-  - unemployment pressures bond markets to respond lower yields.
-    - http://www.investopedia.com/terms/b/bond-yield.asp?lgl=myfinance-layout-no-ads
-  - "inflation is a bond's worst enemy"
-    - http://www.investopedia.com/articles/bonds/09/bond-market-interest-rates.asp?lgl=myfinance-layout-no-ads
+How do bond markets respond in the 20's & 30's?  Unemployment
+pressures bond markets to respond with
+[lower yields](http://www.investopedia.com/terms/b/bond-yield.asp?lgl=myfinance-layout-no-ads).
+
+- "inflation is a bond's worst enemy"
+  - http://www.investopedia.com/articles/bonds/09/bond-market-interest-rates.asp?lgl=myfinance-layout-no-ads
 
 - [Ten Year T-Bond and why it's important](https://www.thebalance.com/10-year-treasury-note-3305795)
 
-- the Fed buys bonds to inject liquidity into the economy, expecting
-  to receive payment from bond issuers over the course of 10 or 30
-  years.
-  - the bond market responds poorly to inflation. This is bond
-    investors receive less return on investment after bond yields are
-    adjusted for inflation.
-    - this means that the Fed is less able to leverage bond purchases
-      to inject liquidity into the economy through the banking sector.
-    - it can still do so, but can expect the bonds to perform poorly
-      and thus is a bad decision
-    - this feedback loop that inflation to limit liquidity via
-      the bond markets.
-      - additionally, this is happening at the same time that poorly
-        serviced debt via unemployment restricts liquidity through
-        constriction of bank reserves.
+The Fed buys bonds to inject liquidity into the economy, expecting to
+receive payment from bond issuers over the course of 10 or 30 years.
+Since bond investors receive less return on investment after bond
+yields are adjusted for inflation, the bond market responds poorly to
+inflation.
+
+This means that the Fed is less able to leverage bond purchases to
+inject liquidity into the economy through the banking sector.  It can
+still do so, but can expect the bonds to perform poorly and thus is a
+bad decision. High inflation will place downward pressure on liquidity
+via the bond markets. Furthermore, this happens while another feedback
+loop of poorly serviced debt via unemployment restricts liquidity
+through constriction of bank reserves.
 
 - [jeffrey gundlach](https://en.wikipedia.org/wiki/Jeffrey_Gundlach)
   - [Bond market talk](https://www.youtube.com/watch?v=qt535kgQKno)
 
-- TODO: liquidity measures (market depth, etc)
 - TODO: how do macroprudential policies affect the crisis
 
 <a name="distribution-of-debt" />
@@ -547,42 +604,46 @@ lost revenue streams, which triggered recession and thereby increased
 unemployment, leading to more lost revenue streams in the housing
 sector.
 
-- The distribution of debt among consumers and businesses in America
-  is critical. The greater the unmet debt burden, the greater the
-  effects of such a crisis are to be when they emerge.
-  - So, even if there is some policy like UBI that provides the
-    *median income*, there will still be many people unemployed above
-    the median income who are unable to pay their mortgages and debts.
-  - As it intersects with the income distribution of the newly
-    unemployed, this distribution of real asset debt (houses and
-    cars), then triggers an impulse to sell amoung owners and mortgage
-    holders. If you don't know what happens next, I'm not sure why
-    you're still reading and I would guess that you're a liberal who
-    decides their vote presented only with emotional arguments.
+In addition to income distribution, the distribution of debt among
+consumers and businesses in America is critical. The greater the unmet
+debt burden, the greater the effects of such a crisis are to be when
+they emerge. So, even if there is some policy like UBI that provides
+the *median income*, there will still be many people unemployed above
+the median income who are unable to pay their mortgages and debts.
 
-- Remember, in the best case, the government can maintain the median
-  income, but without empire, it's impossible for the government to
-  drive this median income up.
-  - Are you a leftist who rails against American imperialism?
-  - ...
+As it intersects with the income distribution of the newly unemployed,
+this distribution of real asset debt like house and car loans, then
+triggers an impulse to sell amoung owners and mortgage holders. This
+results in downward pressure on home prices. If you don't know what
+happens next, I'm not sure why you're still reading and I would guess
+that you're a liberal who decides their vote presented solely with
+emotional arguments.
+
+Remember, in the best case, the government can maintain the median
+income, but without empire, it's impossible for the government to
+drive this median income up. Are you a leftist who rails against
+American imperialism or American capitalism?
 
 <a name="entitlements-median-income-and-population-flux" />
 
 ### [Entitlements, Median Income and Population Flux](#entitlements-median-income-and-population-flux)
 
-- How fast do disruption to income distribution and median income occur?
-  - which segments of median income are disrupted first? (upper or lower)
-  - which segments of the income distribution most severely disrupt
-    revenue streams to banks?
-- multiple measure of income distrubution: with and without government
-  assistance
-  
-- (move?) the rate at which federal deficits expand will determine how reliant
-  the government is on central banking, bonds, etc.
-  - inflationary financial policy like this, driven at high rates in
-    the 2020's, may increase the CPI faster than the monetary supply
-  - this is because of cascading effects in how businesss price their
-    products
+How fast do disruption occur in income distribution and median income?
+Which segments of median income are disrupted first? At what rates can
+we expect disruption to progress in each income segment? At what rate
+can federal deficits be expected to expand? This will determine how
+reliant the government is on central banking, bonds, and more
+inflationary measures. Which segments of income distribution most
+severely affect aggregate revenue streams to banks from personal and
+corporate debt? Lower through upper middle class.
+
+Inflationary financial policy like this, driven at high rates in the
+2020's, may increase the CPI at a rate faster or slower than the
+monetary supply. The fed tracks inflation with CPI. For example, the
+CPI may eventually begin to increase faster because of cascading
+effects in cost structure or pricing strategy.  Businesses expecting
+inflation will respond by rising their prices to target future
+economic conditions.
 
 > "Ask not what your government can do for you, but what you can do
 > for your government."
@@ -787,7 +848,6 @@ liquidity in the 2030's.
   development
   - CSIS videos on Federal international development institutions
 
-
 <a name="currency-market-stabalization" />
 
 ### [Currency Market Stabalization](#currency-market-stabalization)
@@ -877,16 +937,17 @@ interest under rapidly changing conditions.
 
 ### Student Loan Reform is Reasonable, Innovation in Higher Education is Preferable
 
-- The actual value of college education is much lower than the price.
-  Especially looking forward, one can see that there is less incentive
-  to become indebted for a college degree.
+- College education is becoming much less affordable and looking
+  forward, one can see that there is less incentive to become indebted
+  for a college degree.
+
+### (misc)
 
   - it is impossible to avoid a convergent economy, where the wealth
     converges into an asymptotically smaller number of hands
   - garbage in, garbage out
     - if computers augment our ability to think, achieve and function,
       then we need ...
-
 
 ### Policy Must Account for Disinformation in the Age of Social Media
 
