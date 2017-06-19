@@ -34,6 +34,8 @@ excerpt: ""
 
 #### &#x03D5; [Forex Dynamics and Foreign Currency Reserve Distribution](#forex-dynamics-and-foreign-currency-reserve-distribution)
 
+#### &#x03D5; [Bond Markets React Poorly to Inflation](#bond-markets-react-poorly-to-inflation)
+
 #### &#x03D5; [Distribution of Debt](#distribution-of-debt)
 
 #### &#x03D5; [Entitlements, Median Income and Population Flux](#entitlements-median-income-and-population-flux)
@@ -202,12 +204,15 @@ crisis begins unfolding in their nation and region. The geoeconomic
 dynamics drives their change in economic circumstance, their overall
 perception of the crisis and thus their political reaction to it.
 
+How do the trends in employment differ for developed and developing
+economies? What does it mean for a rising China and its economic
+competition with the West? What does it mean for America and the EU?
+
 The geoeconomic dynamics contribute towards dynamics which invert
-globalization's impact on regional manufactoring, while decimating
+globalization's impact on manufactoring, without restoring American
 labor markets. That is, American manufacturing is more likely to move
 home, but that doesn't restore lost jobs or the disrupted wealth
-distribution that accompanied globalization. (explain "inversion of
-globalization"...)
+distribution that accompanied globalization.
 
 How does the gradual impact to income distribution progress over
 various regions of the US? Can the progression of unemployment be
@@ -220,23 +225,48 @@ fabrication. For example, the nano-revolution is impossible when
 materials like graphene and buckyballs can only be produced in
 laboratory quantities.
 
-- how does this impact developing nations?
-  - what does it mean for a rising china?
-  - what does it mean for America and the EU?
+There are many business innovation opportunities that become available
+once vehicles and transportation is automated. Once the policy
+groundwork has been laid for automated driving, products like Otto can
+overtake product delivery both near and far. Automated driving will
+disrupt retail as well as delivery services like Instacart, but there
+is a several-year lag in between the federal policy implementation and
+the development of innovation based on it. As soon as this is policy
+is determined and implemented, corporations will begin to restructure
+themselves around it. Food can almost be automated from farm to table
+and the existing grocery store retail space will almost entirely
+become warehouse space for local distribution. The higher wages are,
+the greater the incentive is for corporations to react faster. So,
+after 2020, higher wage actually cause unemployment in low income
+segments to accelerate.
 
 ![Pic/Link of Automatable Jobs Per Industry](/img/posts/2017-06-17-international-trends-2020-the-automation-crisis/automation-and-unemployment.jpg)
 
 #### [@hnrklndbrg](https://twitter.com/hnrklndbrg)'s Graph Estimating the [Likelihood a Job Will Be Automated](http://www.marketwatch.com/story/this-chart-spells-out-in-black-and-white-just-how-many-jobs-will-be-lost-to-robots-2017-05-31)
+
+The impact on white-collar jobs is dependent on the range and
+complexity of tasks involved in each job type. Henrik Lindberg's chart
+above predicts that many of these will be automated. Particularly
+interesting are the management segments of the labor market, whose
+demand will suffer upon logistic restructuring of the consumer-facing
+segments of corporations. That is, retail employees are mostly laid
+off, therefore, less direct and middle-management are required.
 
 <a name="policy-response-strategy-perception-timing-and-pacing" />
 
 ### [Policy Response: Strategy, Perception, Timing and Pacing](#policy-response-strategy-perception-timing-and-pacing)
 
 - questions to answer:
-  - what policy responses are available? UBI and national service
+  - what policy responses are available? UBI and Employer of Last
+    Resort
     - when considering policy response, what is the proper timing?
       what are the opportunity costs? How do we transition into policy
       implementation?
+
+- taxing automation:
+  - how do we fairly determine what is taxably automated labor?
+  - can we ever assume that enough tax volume would be produced to
+    cover other domestic policy responses, like UBI or ELR? (no)
 
   - what policy responses are appealing?
   - delineate the explanation along economic, sociocultural and
@@ -278,6 +308,11 @@ laboratory quantities.
   supply in relation to annual federal deficits.
   - Inflation-driven economic policy is highly unsustainable and will
     tank the credit ratings of nations.
+
+- money supply (m2 is at ~ $13 Trillion)
+  - [Y charts money supply](https://ycharts.com/indicators/categories/monetary)
+- size of annual deficit & national debt.
+
 
 When debate over domestic policy is decided upon primarily emotional
 arguments citing anecdotal needs to help the poor, how do we assess
@@ -453,10 +488,9 @@ Normally, perturbations in forex markets are limited in effect, but in
 this case, all developed nations will eventually need to finance the
 living expenses of unemployed citizenry with government spending.
 
-- money supply (m2 is at ~ $13 Trillion)
-  - [Y charts money supply](https://ycharts.com/indicators/categories/monetary)
+<a name="bond-markets-react-poorly-to-inflation" />
 
-### [Bond Markets](#bond-markets)
+#### &#x03D5; [Bond Markets React Poorly to Inflation](#bond-markets-react-poorly-to-inflation)
 
 The Federal Reserve influences credit markets through the sale of debt
 securities. How does high inflation affect the willingness of the Fed
@@ -780,6 +814,11 @@ interest under rapidly changing conditions.
   - but transitioning to this in time will be impossible to do safely
   - the transition to the system would add too much instability and
     even the ideal single-currency system might not work
+
+- explore Ethereum (without trying to endorse a gimmick) as a possible
+  means of fitting this international need
+  - does it actually fit this need? (i.e. international agreements for
+    redirectable labor/development funds)
 
 ### [Limiting Effects on Employment and Median Income](#limiting-effects-on-employment-and-median-income)
 
