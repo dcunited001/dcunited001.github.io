@@ -316,12 +316,12 @@ policy is highly unsustainable and will tank the credit ratings of
 nations. Since 2006, the Fed has ceased publishing the M3 money supply
 numbers.
 
-#### The [M2 money supply](https://ycharts.com/indicators/categories/monetary) measure is at approximately $13 Trillion
+#### The [M2 money supply](https://ycharts.com/indicators/categories/monetary) measure is at approximately $13.5 Trillion
 
-![M2 Money Supply]()
+![M2 Money Supply](/img/posts/2017-06-17-international-trends-2020-the-automation-crisis/m2-money-supply.png)
 
 Please tell me more about how inflation is not a concern when poor
-bond markets reduce the Fed's capacity to influence debt markets? This
+bond markets reduce the Fed's capacity to influence debt markets. This
 occurs at the same time that we'll need to depend on foreign debt to
 maintain large deficits, since the effects will ripple back through
 the Fed into the US Treasury bond markets. Because the national debt
@@ -330,39 +330,50 @@ have more influence than ever over US policy.
 
 #### Tax Policy
 
-- tax policy
-  - [](http://www.taxpolicycenter.org/statistics/amount-revenue-source)
-  - About 50% of the budget comes from individual income taxes
-    - [2015 United States Budget](http://federal-budget.insidegov.com/l/118/2015#revenues&s=1cNiL&st=0RnKTf)
-    - these individual revenue streams will mostly be replaced on par
-      with unemployment and require major tax policy changes
-    - with UBI, each of these revenue streams is offset with the cost
-      of providing a citizen UBI
-    - with 300 million citizens, that would be an extra $3.0T to the
-      budget for a $10,000 UBI payment. So, not only has the
-      government lost ~30% of the individual income tax revenue
-      streams, but it must provide a service that costs 2 times as
-      much as citizens paid in taxes in 2015.
-      - AND to cover the difference, corporations would need to pay 6
-        times as much in total tax volume.
+Drastic changes in tax policy are required, both to finance a policy
+we can't afford and to offset the loss of personal income taxes via
+unemployment. About 50% of the budget comes from individual income
+taxes.
+
+#### [2015 United States Budget](http://federal-budget.insidegov.com/l/118/2015#revenues&s=1cNiL&st=0RnKTf)
+
+![2015 US Tax Revenues](/img/posts/2017-06-17-international-trends-2020-the-automation-crisis/federal-tax-revenues.png)
+
+These revenue streams via personal income tax will mostly be replaced
+on par with unemployment. In and of itself, that require major tax
+policy changes, just to sustain current federal spending levels.  with
+UBI, each of these revenue streams is offset with the cost of
+providing a citizen UBI. With 250 million adult citizens, that would
+be an extra $2.5T to the budget for a $10,000 UBI payment. So, given
+30% unemployment, not only would the government lose ~30% of the
+individual income tax revenue streams, but it must provide a service
+that costs 2 times as much as citizens paid in taxes in 2015.
+Further, to cover the difference, corporations would need to pay six
+times as much in total tax volume.
+
+> GLHF
 
 #### Automation Tax Policy
 
-- taxing automation:
-  - how do we fairly determine what is taxably automated labor?
-  - can we ever assume that enough tax volume would be produced to
-    cover other domestic policy responses, like UBI or ELR? (no)
+Taxing automation is a good update to policy, but how do we fairly
+determine what is taxably automated labor? How do we do so without
+overly burdening tax policy and the resulting bureaucratic
+death-by-legalism? Does it require many difficult-to-understand,
+ever-shifting, impossible-to-anticipate changes in regulation? I
+admit, taxing automation is a good idea because simply raising tax
+rates would destroy small businesses.
+
+Can we ever assume that enough tax volume would be produced to cover
+other domestic policy responses, like UBI or ELR? I don't think so,
+but I'd love to evaluate ideas for doing so.
 
 #### Popular Response to Policy
 
-  - in a democracy, the people's attitudes to being compelled to work
-    - highly liberal? the inverse of kennedy's maxim prevails
-      - ask what the government can do to fix your problems or bitch
-        about it
-
-  - the governmental structure will partially determine policy
-    - authoritarian governments can more easily compel people to
-      conform to the policy response
+America is a democracy with a developed economy and decades of
+prosperity. What are the people's attitudes to being compelled to work
+harder for less? What triggered globalization to shift labor overseas?
+Highly liberal? The inverse of Kennedy's maxim prevails: ask what the
+government can do to fix your problems or protest.
 
 #### Compelling Popular Response to Policy and Coordinating a Well-Executed Strategy
 
