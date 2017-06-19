@@ -20,7 +20,7 @@ excerpt: ""
 
 #### &#x03D5; [The Strongest System-Wide Dynamics in this Crisis](#the-strongest-system-wide-dynamics-in-this-crisis)
 
-## [Nine Major Factors](#nine-major-factors)
+## [Ten Major Factors](#ten-major-factors)
 
 #### &#x03D5; [Geoeconomic Dynamics of Automation and Unemployment](#geoeconomic-dynamics-of-automation-and-unemployment)
 
@@ -181,11 +181,11 @@ direct investments, currency holdings and asset holdings. High
 utilization rates on capital available to investors could limit
 exposure to systemic problems in the currency markets.
 
-<a name="nine-major-factors" />
+<a name="ten-major-factors" />
 
-# [Nine Major Factors](#nine-major-factors)
+# [Ten Major Factors](#ten-major-factors)
 
-This is an overview of nine major factors that act as components to
+This is an overview of ten major factors that act as components to
 the development and outcome of the crisis. These factors are not
 listed in order of significance because the system is non-linear and
 these factors effects, dynamics and magnitudes are thus
@@ -273,6 +273,19 @@ laboratory quantities.
     can leverage information to mitigate the range negative impact
   - unraveling net neutrality may be helpful in this regard, though
     ...
+
+- A critical measure for domestic policy is the size of monetary
+  supply in relation to annual federal deficits.
+  - Inflation-driven economic policy is highly unsustainable and will
+    tank the credit ratings of nations.
+
+When debate over domestic policy is decided upon primarily emotional
+arguments citing anecdotal needs to help the poor, how do we assess
+sustainability of a developed nations' credit-driven policies?
+Reliance on inflation-driven policy can be mitigated through higher
+tax volume obtained through highly competitive enterprise. Still, in a
+closed system, one nation's economic expansion comes at the cost of
+another's lost opportunities to do the same.
 
 <a name="commodity-markets-and-resource-distribution" />
 
@@ -408,42 +421,48 @@ renewables, as nations posture themselves for energy independence.
 
 ### [Forex Dynamics and Foreign Currency Reserve Distribution](#forex-dynamics-and-foreign-currency-reserve-distribution)
 
-- I need to know more about forex trading and foriegn currency
-  dynamics to understand how this factor plays into the crisis.
-  - However, I do know that there will be strong political influences
-    that emerge as a result of forex markets, foreign currency reserve
-    distribution and foreign debt holdings.
-  - I also know that the Dollar's status as the world's reserve
-    currency will critically cause the emergent political influences
-    to be stronger and different in quality than for other currencies
+Amidst the automation crisis, where most developed economies must
+finance expansive entitlement spending with credit and printed
+currency, this leads to turbulent and unpredictable forex
+dynamics. These will be similar to those experienced around WW1 and
+WW2. Strong political influences that emerge as a result of forex
+markets, foreign currency reserve distribution and foreign debt
+holdings.
 
-- effects of inflation on currency markets and the behavioral dynamics
-  of groups with significant currency reserves and debt holdings.
-  - groups with significant US debt holdings or US currency reserves
-    will attempt to influence American policy to suit their interests.
-    - we should be willing to cooperate, but prioritize our own
-      interests first through forward-thinking economic policy.
+The Dollar's status as the world's reserve currency will critically
+cause the emergent political influences to be stronger and different
+in quality than for other currencies. Groups with significant US debt
+holdings or US currency reserves will attempt to influence American
+policy to suit their interests. We should be willing to cooperate, but
+prioritize our own interests first through forward-thinking economic
+policy.
 
-- effects on lending: willingness of institutions to lend
-  - why would institutions lend with low-interest if they are
-    expecting inflation or significant forex value fluctuations?
+The effects of inflation on many currencies simulataneously will
+result in stronger behavioral dynamics of groups with significant
+currency reserves and debt holdings. High annual rates of inflation,
+as measured by CPI or monetary supply, *will* result in unpredicable
+turbulence in forex and debt markets. Depending on the policy
+responses to high unemployment, the inflation trends in various
+currencies and CPI's will occur at varying rates, which opens up
+opportunity for speculation. Speculation on currencies will add to
+the turbulence. Positive feedback loops in the turbulence of forex
+markets, in the worst case, leads to runaway evaporation of wealth in
+entire nations.
 
-- positive feedback loops in the turbulence of forex markets, in the
-  worst case, leads to runaway evaporation of wealth in entire nations
-  - normally, perturbations in forex markets are limited in effect,
-    but in this case, all developed nations will eventually need to
-    finance the living expenses of unemployed citizenry with
-    government spending.
-
-- sustainability of nations' credit-driven policies
-
+Normally, perturbations in forex markets are limited in effect, but in
+this case, all developed nations will eventually need to finance the
+living expenses of unemployed citizenry with government spending.
 
 - money supply (m2 is at ~ $13 Trillion)
   - [Y charts money supply](https://ycharts.com/indicators/categories/monetary)
 
+### [Bond Markets](#bond-markets)
 
-### Bond Markets
-
+The Federal Reserve influences credit markets through the sale of debt
+securities. How does high inflation affect the willingness of the Fed
+and banks to loan with low-interest, if they are expecting inflation
+and/or significant forex fluctuations? High inflation negatively
+affects the bond market because the yields are depreciated by it.
 
 - bond markets
   - how do bond markets respond in the 20's & 30's, before potential
@@ -630,7 +649,7 @@ we can weather the forex dynamics.
 Just because the economy seems to have recovered from the 2008 crisis
 doesn't mean that we're out of the woods yet. We need forward-looking
 economic policy determined by where the global economy is
-heading. Amid the uncertainty imposed by these nine factors, each
+heading. Amid the uncertainty imposed by these ten factors, each
 strongly defining how the crisis unfolds, the successful policy is not
 reactive, it is proactive. It must drive trends and mitigate
 uncertainty, while being strongly defined by exigent trends and the
