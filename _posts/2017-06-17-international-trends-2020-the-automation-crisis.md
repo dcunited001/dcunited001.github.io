@@ -273,29 +273,62 @@ Or will the forced reliance on economic opportunitiy force states into
 responding by projecting soft power? How does a rising China respond?
 with the Belt and Road strategy for soft power?
 
+Every government in a developed economy needs a policy response. The
+more highly developed the economy, The sooner the resulting
+unemployment and the higher that consumer and corporate debt holdings
+will typically become. In its aggregate, poor central banking policy
+across the globe will disrupt currency markets.
 
+I've already written at length about the choice between UBI and
+ELR. The latter represents a job guarantee and, depending on what that
+entails and how it's implemented can lead to cost savings, where
+people share resources. However, both represent a massive strain on
+the federal government and result in strong new dynamics affecting
+domestic economic behavior.
 
-- the UBI proponents seem to think that everything will be fine if, in
-  a fundamentally different economy, enough factors of their choosing
-  remain stable, while other factors that lend credit to their ideas
-  are adopted in mass.
-  - this contradicts occam's razor. you're assuming that random chance
-    will land in your favor every single time for dozens of different
-    factors
-    - maybe we should pray that the economy doesn't crash?
+The costs and benefits of each will differ depending on how developed
+the nation's economy is. Highly developed with lots of cash: UBI will
+seem more appealing. Highly developed economies with corporations that
+don't remain globally competitive results in a strong downward
+pressure on tax volume.
 
-Dear God, please don't let the liberal economy policy fail
+The UBI proponents seem to think that everything will be fine if
+enough factors of their choosing remain stable, while other factors
+that lend credit to their ideas are adopted in mass. In a
+fundamentally different economy that behaves in unexpected ways, how
+can we be sure that we can influence or mitigate unwanted dynamics. we
+cannot leave this up to chance. Ihis contradicts occam's razor. you're
+assuming that random chance will land in your favor every single time
+for dozens of different factors, the effect of which cannot be
+predicted.
+
+Maybe we should pray that economy selectively mitigates all the
+negative sources of change while millions of people volutarily change
+their behavior posivitly without compelling incentivization to do so:
+dear God, please protect us from liberal economy policy when it fails
 catastrophically.
 
-- A critical measure for domestic policy is the size of monetary
-  supply in relation to annual federal deficits.
-  - Inflation-driven economic policy is highly unsustainable and will
-    tank the credit ratings of nations.
+#### Monetary Policy
 
-- money supply (m2 is at ~ $13 Trillion)
-  - [Y charts money supply](https://ycharts.com/indicators/categories/monetary)
-- size of annual deficit & national debt.
+A critical measure for domestic policy is the size of monetary supply
+in relation to annual federal deficits. Inflation-driven economic
+policy is highly unsustainable and will tank the credit ratings of
+nations. Since 2006, the Fed has ceased publishing the M3 money supply
+numbers.
 
+#### The [M2 money supply](https://ycharts.com/indicators/categories/monetary) measure is at approximately $13 Trillion
+
+![M2 Money Supply]()
+
+Please tell me more about how inflation is not a concern when poor
+bond markets reduce the Fed's capacity to influence debt markets? This
+occurs at the same time that we'll need to depend on foreign debt to
+maintain large deficits, since the effects will ripple back through
+the Fed into the US Treasury bond markets. Because the national debt
+is high and it's likely to continue growing, this means foreign powers
+have more influence than ever over US policy.
+
+#### Tax Policy
 
 - tax policy
   - [](http://www.taxpolicycenter.org/statistics/amount-revenue-source)
@@ -313,43 +346,60 @@ catastrophically.
       - AND to cover the difference, corporations would need to pay 6
         times as much in total tax volume.
 
+#### Automation Tax Policy
+
 - taxing automation:
   - how do we fairly determine what is taxably automated labor?
   - can we ever assume that enough tax volume would be produced to
     cover other domestic policy responses, like UBI or ELR? (no)
 
-Every major government needs a policy response. The more highly
-developed the economy, the sooner the resulting unemployment and the
-higher consumer and corporate debt holdings are, typically. Poor
-central banking policy across the globe, in aggregate, will disrupt
-currency markets further.
-
-- the choice between UBI and national service
-  - the costs/benefits of each will differ depending on how
-    developed the nation's economy is.
-    - highly developed with lots of cash: UBI will seem more appealing
-    -
-  - the governmental structure will partially determine policy
-    - authoritarian governments can more easily compel people to
-      conform to the policy response
+#### Popular Response to Policy
 
   - in a democracy, the people's attitudes to being compelled to work
     - highly liberal? the inverse of kennedy's maxim prevails
       - ask what the government can do to fix your problems or bitch
         about it
 
-- democracy's are highly disadvantaged because they cannot compel
-  people to contribute to concerted economic strategy
-  - additionally, the people are easily subverted against themselves
-    by foreign powers.
+  - the governmental structure will partially determine policy
+    - authoritarian governments can more easily compel people to
+      conform to the policy response
 
-- controlling the narrative
-  - tighter control of information in general, especially of the
-    response
-  - this is why authoritarian countries are at an advantage here. They
-    can leverage information to mitigate the range negative impact
-  - unraveling net neutrality may be helpful in this regard, though
-    ...
+#### Compelling Popular Response to Policy and Coordinating a Well-Executed Strategy
+
+Democracies are highly disadvantaged in this regard because they
+cannot compel people to contribute to concerted economic
+strategy. Additionally, the people are easily subverted against
+themselves by foreign powers. Thus, economic and information warfare
+become increasingly appealing to adversaries.
+
+Democracies with decentralized communication will find it much tougher
+to control narrative. They will be less able to ensure that the
+population responds with an aggregate force of unity instead of mostly
+cancelled-out net potential for change. The slower parliamentary and
+procedural processes in democracies will become more vulnerable to
+external subversion as well. We just experienced this with potential
+Russian interference in the election.
+
+Regardless of whether we need authoritarian measures to get it, we
+need tighter control of information in general. Hopefully we don't
+need to resort to such measures, but encouraging popular action via
+patriotism is the only such mechanism I can think of to compensate for
+the lack of centralized agency determining action. That is, to compel
+the coordination required in a well-executed strategy, this requires
+more constricted agency determining action throughout the political or
+economic system. A smaller set of nodes making a more expansive set of
+decisions is needed, while the other nodes willingly cooperate and
+anticipate shifting intent. As the American and European systems are
+currently operating *no action results* because all change is
+effectively cancelled out by the stagnant momentum of conflicting
+interests and intention.
+
+This is why authoritarian countries are at an advantage here. They can
+leverage control over information to mitigate the range of negative
+impact resulting from mixed messaging and foreign
+influence. Unraveling parts net neutrality may be helpful in this
+regard, though I'm not sure it counters other negative consequences of
+doing so.
 
 When debate over domestic policy is decided upon primarily emotional
 arguments citing anecdotal needs to help the poor, how do we assess
@@ -388,8 +438,8 @@ slow, therefore more industrial capacity is required to offset time)
 
 Supply chains then become more compact. Supply of ore and smelting
 will always be required and probably most efficient closest to the
-source. Fabrication's greatest impact is on the middle tiers of supply
-chains.
+source. Fabrication most strongly impacts the intermediate tiers of
+supply chains.
 
 Fabrication results in simplified logistics that result in dynamically
 allocatable resources. You simply ship the raw or ready-to-fab
@@ -404,6 +454,7 @@ useful.
   - (conflict theory)
 
 - commodities and bond markets
+
 
 <a name="technologys-impact-on-commodity-markets" />
 
@@ -583,10 +634,20 @@ via the bond markets. Furthermore, this happens while another feedback
 loop of poorly serviced debt via unemployment restricts liquidity
 through constriction of bank reserves.
 
-- [jeffrey gundlach](https://en.wikipedia.org/wiki/Jeffrey_Gundlach)
-  - [Bond market talk](https://www.youtube.com/watch?v=qt535kgQKno)
+- TODO: embed
+  [jeffrey gundlach](https://en.wikipedia.org/wiki/Jeffrey_Gundlach)
+  [Bond market talk](https://www.youtube.com/watch?v=qt535kgQKno)
 
-- TODO: how do macroprudential policies affect the crisis
+Unpredictable changes and shifting industrial dependencies in the
+commodity markets will alter composite measures which are used to
+predict trends. For example, for at least the past several decades,
+the price of oil and other commodities serves as an indicator of
+unfolding inflation in the CPI. Thus, it has served as an important
+metric for bond investors. Yet, oil's capacity to indicate short-term
+inflation will break down or, at least, the relationship will
+change. Because investors will continue to use these correlative
+composite metrics without reassessing their assumptions in doing so,
+they will tend to misallocate capital.
 
 <a name="distribution-of-debt" />
 
@@ -768,6 +829,8 @@ living in democracy actively support it.
 <a name="avoid-hacking-economics-for-short-term-gain" />
 
 ### [Avoid Hacking Economics for Short-Term Gain](#avoid-hacking-economics-for-short-term-gain)
+
+- TODO: how do macroprudential policies affect the crisis?
 
 When we hack the economy to optimize macroeconomic indicators, we
 often delude ourselves into believing optimal indicators imply optimal
