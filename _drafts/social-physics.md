@@ -143,7 +143,6 @@ excerpt: ""
       exponential rate.
       - there are finitely many human behaviors that can be quantified
 
-
 - there is a paradigm shift in the phenomenon of causality, as it
     applies to human behavior and psychosocial dynamics,
     - causality, in this sense, stems from exchange of information,
@@ -188,6 +187,20 @@ excerpt: ""
     - for example, making conclusions about the disemination of pieces of
       information (how one piece of information spreads amoungst
       people)
+
+- so the convergence of individual belief systems accelerates and the
+  more strongly convergent metaphyiscal ideas begin manifesting in the
+  physical aspects of social interactions.
+  - so, if instead of mass communication channels being completely
+    decentralized, the information diseminated was harmonized, then
+    the more unitary, regular and pronounced these metaphysical
+    manisfestations will become.
+  - so, in terms of social physics, there are stronger physical
+    effects that emerge from the metaphysical than ever before. This
+    is true even in the discord of decentralized high bandwidth
+    digital communication. Because of the evolutionary dynamics of
+    ideas and memes, the strongest earn extremely high rates of
+    propagation.
 
 
 # Simulation Ideas
