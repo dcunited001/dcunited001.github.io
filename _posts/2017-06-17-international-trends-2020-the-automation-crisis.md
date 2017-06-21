@@ -50,6 +50,30 @@ excerpt: ""
 
 #### &#x03D5; [Avoid Hacking Economics for Short-Term Gain](#avoid-hacking-economics-for-short-term-gain)
 
+#### &#x03D5; [Strategic Allocation of Liquidity in the 2020's](#strategic-allocation-of-liquidity-in-the-2020s)
+
+#### &#x03D5; [Interest Rates And Federal Reserve Policy](#interest-rates-and-federal-reserve-policy)
+
+### [International Economic Development](#international-economic-development)
+
+### [International Economic Development](#international-economic-development)
+
+### [Flexible Management of Existing Debt](#flexible-management-of-existing-debt)
+
+### [Enslavement by Debt and Desire](#enslavement-by-debt-and-desire)
+
+### [Student Load Reform and Innovation in Higher Education](#student-loan-reform-and-innovation-in-higher-edcation)
+
+### [Even With Inflationary Measures, There is Still Systemic Collapse](#even-with-inflationary-measures-there-is-still-systemic-collapse)
+
+### [Gold and Silver](#gold-and-silver)
+
+### [Policy Must Account for Disinformation in the Age of Social Media](#policy-must-account-for-disinformation-in-the-age-of-social-media)
+
+### [Revolution is Expensive and the Opportunity Cost is Unacceptable](#revolution-is-expensive-and-the-opportunity-cost-in-unacceptable)
+
+### [What Side Do You Want To Be On Anyways?](#what-side-do-you-want-to-be-on-anyways)
+
 > None of this should be taken as investment advice, of course. Any
 > assertions I make should be backed up by data and further analysis.
 > I have more questions than answers, but the more I look into this,
@@ -1006,9 +1030,15 @@ flux is not properly allocated in the initial stages leading up to the
 automation crises, these opportunities in developing countries will
 begin to ripen when liquidity is restricted via unemployment.
 
-- move up?
-- (maximization of launchpad time)
-  - by taxing automation, we can limit the
+We need to maximize our launchpad time and try to stave off
+unemployment because the entitlement programs and lost tax revenue
+streams cause the greatest change in monetary policy. We need to be
+creative in searching for solution and try to articially replace the
+sociocultural evolutionary dynamics that we lose from automation. The
+next generation must always be stronger. The best usage of our
+launchpad time can be guaranteed through appropriate investment of
+liquidity while we have it, before it becomes constricted through
+macroeconomic, bond market and forex market response to policy.
 
 <a name="interest-rates-and-federal-reserve-policy" />
 
@@ -1037,10 +1067,19 @@ higher risk and lower returns, but if they do so, this doesn't
 establish an economic platform that America can use to replace
 liquidity in the 2030's.
 
-(... more)
-- cite OPIC, USAID(?) & other organizations that can push economic
-  development
-  - CSIS videos on Federal international development institutions
+OPIC is an international development organization which would truly
+help. It's a rare breed among government institutions and actually
+turns a profit. Something or some mechanism like it is needed to help
+facilitate investment while we have launchpad time. However, the Trump
+administration recently put OPIC on the chopping block.
+
+#### CSIS Discussion on OPIC's Role in Emerging Markets
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/DXIkxSHdcIY" frameborder="0" allowfullscreen></iframe>
+
+We must have something like it that prepares us for expansion into
+foreign markets. We must decimate the chaotic forces that prevent
+economic development in third-world countries.
 
 <a name="currency-market-stabalization" />
 
@@ -1052,8 +1091,9 @@ begins, it is unlikely that we can coordinate nations to come together
 and cooperate towards this end. They will be acting in their own self
 interest under rapidly changing conditions.
 
-- what can be used as force for forex market stabalization or correction
-  - so that positibe feedback loops don't lead to problems
+What can be used as force for forex market stabalization or
+correction? How can we identify these potential feedback loops, while
+anticipating the response of financial markets?
 
 - international agreements for redirectable labor/development funds
   - to recorrect liquidity flows (so that some economies do not face
@@ -1074,69 +1114,114 @@ interest under rapidly changing conditions.
   - does it actually fit this need? (i.e. international agreements for
     redirectable labor/development funds)
 
+<a name="flexible-management-of-existing-debt" />
+
 ### [Flexible Management of Existing Debt](#flexible-management-of-existing-debt)
 
-- neither UBI/ELR accounts for consumers' need to maintain existing
-  cash flows
-  - therefore, consumers with jobs in those industries that are
-    automated can no longer pay their mortgages, etc
-  - this is another source of potential systemtic economic collapse,
-    given high consumer debt appetite and poorly managed credit
-  - make the home & garden channel illegal
-  - encourage higher payment of existing debt, while the economy
-    permits (except this is terrible in a consumer driven economy)
+Neither UBI/ELR accounts for consumers' need to maintain existing cash
+flows to service debt. This is a major problem for sustaining
+liquidity via central banking and the banking sector. Consumers with
+jobs in automatable roles can no longer pay their mortgages. This is
+another feedback loop that generates problems system-wide. The higher
+consumer debt appetite are the greater the disruption will be to banks
+sources of revenue in the future. Poorly managed credit practices will
+lead to a greater scale of liquidity problems in the 2030's.
 
-### Enslavement by Debt and Desire
+We should probably make the home & garden channel illegal, as well as
+pay-day loans and commercials advertising predatory lending
+practices. That statement is facetious, of course.  We should
+encourage higher payments of existing debt while the economy
+permits. That, however, doesn't work well for our ironic
+consumer-driven economy.
 
-- this all leads to a massive depression.
-  - this is unlike any depression in history because, for those at the
-    top, there is high growth and economic opportunity is plentiful.
-  - but, for everyone else, there is no economic opportunity, except
-    as artificially provided by the government or those with liquidity
-    and a penchant for unnecessary spending.
-  - in this depresson, people owe massive sums of debt that the
-    economy (does not allow) them to pay. so, our credit institutions
-    systemically stagnate. in severe cases, the borrower is unable to
-    pay even the interest on their debts.
-- the people examining UBI closely enough to spend millions on studies
-  could not possibly be totally ignorant of this.
+<a name="enslavement-by-debt-and-desire" />
 
-### Even With Inflationary Measures, There is Still Systemic Collapse
+### [Enslavement by Debt and Desire](#enslavement-by-debt-and-desire)
 
-- The easy way out is by financing government policy, either UBI or
-  some national service, using central banking.
-  - Doing so causes inflation and lessens the magnitude of the
-    depression.
-    - This is because existing debts are easier to pay in the midst of
-      inflation.
-    - Think this strategy is popular with the financial elite or with
-      countries who hold large quantities of dollars in reserve?
-      - yeh ok. it's not. so think again, liberals. and maybe shut the
-        hell up online while you're at it.
-  - ultimately either strategy requires financing via debt through the
-    Fed. However, the injection of liquidity is neither.
+In a society where most people receive universal $10,000/year UBI
+payments, how does the person who formerly made $200,000/year pay
+their debt? Can they ever? Or, when the crisis hits, is each person
+forever enslaved by their debt to the degree that their desire for
+material comfort expanded their debt appetite? Does this mean the
+person with zero debt is best prepared for the upcoming crisis?
 
-- because the only way to lessen the magnitude of the crisis is via
-  inflation, investment in gold/silver is a good bet.
-  - As this approaches, I'd recommend 1% of investment in gold/silver
-    per 1% in unemployment.
+This is unlike any depression in history because, for those at the
+top, there is high growth and economic opportunity is plentiful. Yet,
+for everyone else, there is little to no economic opportunity, except
+as artificially provided by the government or those with liquidity and
+a penchant for unnecessary spending.  In this depresson, people may
+owe large sums of debt that the economy does not help them to
+repay. In severe cases, the borrower is unable to pay even the
+interest on their debts. So, how do society and government respond to
+enable these debts to be paid?
 
-### Student Load Reform and Innovation in Higher Education
+<a name="student-loan-reform-and-innovation-in-higher-edcation" />
 
-- Student Loan Reform is Reasonable, Innovation in Higher Education is Preferable
-- College education is becoming much less affordable and looking
-  forward, one can see that there is less incentive to become indebted
-  for a college degree.
+### [Student Load Reform and Innovation in Higher Education](#student-loan-reform-and-innovation-in-higher-edcation)
 
-### (misc)
+Student load reform in the short-term is reasonable, although
+innovation in higher education is preferable. We do not want our
+children to be forced to indebt themselves with massive sums of money
+if the economy isn't even going to allow them to repay it. At the same
+time, we do not want to remove the incentivization for education.
 
-  - it is impossible to avoid a convergent economy, where the wealth
-    converges into an asymptotically smaller number of hands
-  - garbage in, garbage out
-    - if computers augment our ability to think, achieve and function,
-      then we need ...
+We know that technology *should* revolutionize education in
+general. To me, the greatest value to higher education, as its
+currently formulated, are the social networks formed by someone's
+years in college. This is what online education can never replace.
 
-### Policy Must Account for Disinformation in the Age of Social Media
+If a college degree's value diminishes over time and student debt
+becomes unnecessarily high, we will see many people begin to withdraw
+from higher education. We need education. If there's one thing that
+should be covered by national service, it is education, though perhaps
+not initially. Technology will replace people's desire and instinct to
+learn, especially if it is not rewarded economically.
+
+<a name="even-with-inflationary-measures-there-is-still-systemic-collapse" />
+
+### [Even With Inflationary Measures, There is Still Systemic Collapse](#even-with-inflationary-measures-there-is-still-systemic-collapse)
+
+The easy way out of a deflationary crisis is to coordinate government
+policy to create higher monetary inflation. Here, we have a problem:
+we need CPI and monetary inflation to be paradoxically low and
+high. There are many such paradoxical factors that I have discussed in
+this article. We cannot simply hope for everything to land in our
+favor and we certainly cannot have both outcomes of such paradoxical
+factors. i.e. both low and high monetary inflation or both low and
+high perceived inflation via CPI.
+
+It may be tempting to leverage inflation to lessen the magnitude of
+consumer and corporate debt, but financial institutions will strongly
+oppose this. The people, however, will push for whatever they believe
+will ameliorate their suffering in the short-term, without regard for
+the long-term. In the above situation, people are pitted against the
+financial institutions at a time of unrest. The people will not care
+to understand and will look to people who tell them what they want to
+hear. Inflationary policy on a global scale is what causes the forex
+problems and it is what will cause large sums of wealth to evaporate
+in a forex crisis. That is the last thing banks or governments want.
+
+<a name="gold-and-silver" />
+
+### [Gold and Silver](#gold-and-silver)
+
+Because the only way to lessen the magnitude of the crisis is via
+inflation, investment in gold/silver are good bets. For smalller
+investors, as this approaches, I'd recommend up to 1% investment in
+gold/silver per 1% in unemployment. The problem with this is, if
+everyone does it, it reduces the liquidity available even further. So,
+you have your money in gold and silver, but it's not liquid and can't
+finance anything.
+
+Exacerbating problems, banks can only lend in proportion to their
+reserves accumulated partially from savings. A contraction in reverves
+through annhilated savings means another source of contraction in
+liquidity. Inflation is the devil. And especially high monetary
+inflation.
+
+<a name="policy-must-account-for-disinformation-in-the-age-of-social-media" />
+
+### [Policy Must Account for Disinformation in the Age of Social Media](#policy-must-account-for-disinformation-in-the-age-of-social-media)
 
 We must keep in mind the shifting nature of information amid social
 media, as well as the difficulty in avoiding complete communist
@@ -1157,7 +1242,9 @@ hesitate to use each economic setback as a means to gain ground while
 setting us back further. It will distract us from executing a coherent
 strategy.
 
-### Revolution is Expensive and the Opportunity Cost is Unacceptable
+<a name="revolution-is-expensive-and-the-opportunity-cost-in-unacceptable" />
+
+### [Revolution is Expensive and the Opportunity Cost is Unacceptable](#revolution-is-expensive-and-the-opportunity-cost-in-unacceptable)
 
 Groups planning to capitalizing on the economic chaos by rewriting the
 narrative to undermine the American economic system are leading us
@@ -1204,5 +1291,3 @@ new world order of Chinese hegemony is established, and that none of
 this will interfere with America's ability to implement expansive
 social programs or protect foreign policy interests, then you might
 have a severe head injury.
-
-
