@@ -92,3 +92,11 @@ describe math behind poplocking
 * how negatively-intended cognitive behavior therapy unnecessarily:
   burdens our society and benefits liberals who are using it for
   harassment and mind control.
+
+
+### Misc
+
+- fighting style in martial arts, as it relates to the minimization of
+  energy.
+  - when and how does the aesthetic of the minimization of energy
+    present itself in a fighting style?

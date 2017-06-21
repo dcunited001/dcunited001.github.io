@@ -171,24 +171,6 @@ as integers and rational numbers.
     ideas which are not dangerous, but would provide me with some
     credibility. HOW'S THAT WORKING OUT FOR YOU?
 
-# WHAT NUCLEAR MATHS?!
-
-until someone tells me to stop writing and tells me why and accounts
-for the psychological torture i went through, i'm absolutely not going
-to stop writing. i feel like people are just screwing with me to
-prevent me from ever answering these questions for myself.
-
-How the fuck am i supposed to know? I've been barred from having any
-kind of communication with people who undrestand math and computer
-science.
-
-> The CIA recommends Craycray Zoo Bae Bae remain in ISOLATION for the
-> REMAINDER OF HIS LIFE
-
-AND HOW THE FUCK IS THAT WORKING OUT FOR YOU? Let me out of my goddamn
-cage you sick fucks. And stop trying to induce mTBI by blasting me.
-
-
 ### Application of Category Theory to Planning/Producing Reality TV
 
 - imagine a reality TV show that's a cross b/w *Punked* and *Choose
@@ -256,3 +238,17 @@ cage you sick fucks. And stop trying to induce mTBI by blasting me.
   noticeable flaws would be impossible
   - further, the amount of computing power required means targets
     would be limited
+
+# GPU Ideas
+
+- GPU algorithm to utilize lighting/spectra/raytracing in a
+  hyperdimensional way to enable enhanced indexing and isomorphic
+  functional composition
+  - (1) broadcast primative or conjugate id's of functional composition to
+    an initial surface/texture
+    - these are broadcast in a statisical way through some spatial
+      system (in a system with physical lighting, this is a linear 3D
+      spatial system, but the space does not need to be cartesian)
+  - (2) spectral and statistical sampling methods used to recompose fn
+    calls
+
