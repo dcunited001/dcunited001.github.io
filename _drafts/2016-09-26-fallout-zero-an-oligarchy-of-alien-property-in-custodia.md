@@ -10,6 +10,14 @@ excerpt: "
 "
 ---
 
+- the operational security and logistic requirements of targeted,
+  real-time surveillance ops produce surface area for vulnerability
+  that introduces unacceptable process overhead for small
+  organizations
+  - therefore, the police state selectively rewards larger
+    organizations, as smaller businesses and institutions simply can't
+    keep up
+
 > "Because love grows by works of love, man thereby becomes
 > better. Man does not, however, become better by means of indulgences
 > but is merely freed from penalties." Martin Luther, Thesis 44
@@ -1872,6 +1880,9 @@ the authority in the War on Terror.
       harassment, don't people usually seek to intervene? afterwards,
       depending on the severity and the certainty, don't people
       usually step in to help?
+
+
+# 
 
 
 # Medical Experimentation

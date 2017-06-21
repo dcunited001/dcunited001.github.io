@@ -615,3 +615,45 @@ homogenize all culture.
       authority made apparent through implicit
 
     about phenomena
+
+
+
+### Creation is inperfectable and as such is perfect
+
+- on the surface, it is imperfect and inherently flawed
+- but, in this way, our creator has given us a world that requires us
+  to struggle hard in striving to improve this imperfectable creation
+- we should be happy to believe in an all powerful creator and a
+  perfect creation, but it is not so
+  - however, in this way, we must evolve to become the strongest, most
+    capable versions of ourselves
+  - with the clearest vision of virtue, justice and creation
+
+### Spear of Destiny
+
+- spear of destiny as a metaphor for an alchemic process involving
+  concentrated blame on one person as a scapegoated martyr who is
+  punished
+  - society is then able to opearte decoupled form guilt & un/knowingly
+    free to continue utilizing unethical tactics to advance their cause
+  - the person who compels their martyrdom wields the spear of destiny
+- in doing so, they create a vortex-like torrent of karmic discord
+
+### Splicing Families
+
+- instead of viewing families as composed of ascending/descending
+  trees of related individuals,
+  - they can be viewed as intertwining trees forming an unevenly
+    interwoven fabric where the individuals are like threads crossing
+    over one another
+  - or perhaps the families are threads & individuals are
+    interconnected strands
+- these threads can be woven together and spliced, which is rightfully
+  frowned upon because it overall reduces the strength of the fabric
+  - it is clear to see that cultural practices which are healthy
+    encourage the strength of this fabric and the strength of the
+    immediate family in relation to the individual
+    - these cultural practices have an evolutionary dynamic that is
+      sustainable and produces stronger people over time
+
+

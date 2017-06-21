@@ -252,3 +252,10 @@ as integers and rational numbers.
   - (2) spectral and statistical sampling methods used to recompose fn
     calls
 
+
+# AI Ideas
+
+- AI algorithm that searches Hubble/etc for pictures of galaxies, etc
+  that resemble artifical objects
+- an AI based on distributed software-defined-networking (this will
+  probably take over the world)
