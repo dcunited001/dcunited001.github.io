@@ -252,10 +252,19 @@ as integers and rational numbers.
   - (2) spectral and statistical sampling methods used to recompose fn
     calls
 
+- factoring masks for stencil operations
+  - only write to the pixel if it is evenly divisible by some
+    prime/coprime
 
 # AI Ideas
 
 - AI algorithm that searches Hubble/etc for pictures of galaxies, etc
   that resemble artifical objects
+
 - an AI based on distributed software-defined-networking (this will
   probably take over the world)
+
+- train watson to trade commodities and forex based on real-time
+  streams of geolocated facts about industries/areas affected by events
+  - cross with are of publication exposure
+  - obviously someone already has this running
