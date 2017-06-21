@@ -8,6 +8,9 @@ author:
 excerpt: ""
 ---
 
+when i look at this writing without being on an amphetamine, it feels
+like I'm reading something a fucking alien wrote.
+
 # Blog Ideas:
 
 ## The Basics & Why It's Personally Relevant
