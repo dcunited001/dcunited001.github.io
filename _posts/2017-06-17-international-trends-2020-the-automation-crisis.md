@@ -2,10 +2,20 @@
 title: "International Trends 2020: The Automation Crisis"
 categories: blog
 tags: ""
-headline: ""
+headline: "Dear God, Please Protect Us From Liberal Economic Policy"
 author:
   name: "David Conner"
-excerpt: ""
+excerpt: "
+Artificial intelligence, fabriction and other technology drive
+unemployment. High rates of unemployment drastically lower median
+income in developed nations. These economies have higher debt
+saturation on consumers, which ostensibly enables faster growth, but
+this dependency on already established revenue streams leads to
+greater surface area for systemic risk. These higher levels of debt
+saturation lead to more severely constricted liquidity in situations
+of lowered employment. The lost liquidity leads to fewer new
+investments and less capability to develop economic opportunities to
+rise oneself out of crisis."
 ---
 
 #### &#x2605; [Climate Change](/posts/2017-02-28-international-trends-2020-climate-change.html) &#x2605; [The Smart Grid](/posts/2017-02-28-international-trends-2020-the-smart-grid.html) &#x2605; [Universal Basic Income](/posts/2017-06-05-international-trends-2020-universal-basic-income.html) &#x2605; The Automation Crisis &#x2605;
@@ -54,25 +64,27 @@ excerpt: ""
 
 #### &#x03D5; [Interest Rates And Federal Reserve Policy](#interest-rates-and-federal-reserve-policy)
 
-### [International Economic Development](#international-economic-development)
+#### &#x03D5; [International Economic Development](#international-economic-development)
 
-### [International Economic Development](#international-economic-development)
+#### &#x03D5; [Currency Market Stabalization](#currency-market-stabalization)
 
-### [Flexible Management of Existing Debt](#flexible-management-of-existing-debt)
+#### &#x03D5; ['Ethereum for IRL Labor' as a Currency Stabilization Mechanism](#ethereum-for-irl-labor-as-a-currency-stabilization-mechanism)
 
-### [Enslavement by Debt and Desire](#enslavement-by-debt-and-desire)
+#### &#x03D5; [Flexible Management of Existing Debt](#flexible-management-of-existing-debt)
 
-### [Student Load Reform and Innovation in Higher Education](#student-loan-reform-and-innovation-in-higher-edcation)
+#### &#x03D5; [Enslavement by Debt and Desire](#enslavement-by-debt-and-desire)
 
-### [Even With Inflationary Measures, There is Still Systemic Collapse](#even-with-inflationary-measures-there-is-still-systemic-collapse)
+#### &#x03D5; [Student Load Reform and Innovation in Higher Education](#student-loan-reform-and-innovation-in-higher-edcation)
 
-### [Gold and Silver](#gold-and-silver)
+#### &#x03D5; [Even With Inflationary Measures, There is Still Systemic Collapse](#even-with-inflationary-measures-there-is-still-systemic-collapse)
 
-### [Policy Must Account for Disinformation in the Age of Social Media](#policy-must-account-for-disinformation-in-the-age-of-social-media)
+#### &#x03D5; [Gold and Silver](#gold-and-silver)
 
-### [Revolution is Expensive and the Opportunity Cost is Unacceptable](#revolution-is-expensive-and-the-opportunity-cost-in-unacceptable)
+#### &#x03D5; [Policy Must Account for Disinformation in the Age of Social Media](#policy-must-account-for-disinformation-in-the-age-of-social-media)
 
-### [What Side Do You Want To Be On Anyways?](#what-side-do-you-want-to-be-on-anyways)
+#### &#x03D5; [Revolution is Expensive and the Opportunity Cost is Unacceptable](#revolution-is-expensive-and-the-opportunity-cost-in-unacceptable)
+
+#### &#x03D5; [What Side Do You Want To Be On Anyways?](#what-side-do-you-want-to-be-on-anyways)
 
 > None of this should be taken as investment advice, of course. Any
 > assertions I make should be backed up by data and further analysis.
@@ -874,9 +886,9 @@ dynamics.
 ### [Unpredictable Geoeconomic Trends Via Climate Change](#unpredictable-geoeconomic-trends-via-climate-change)
 
 In
-[part one](http://te.xel.io/posts/2017-02-28-international-trends-2020-climate-change.html)
+[part one](/posts/2017-02-28-international-trends-2020-climate-change.html)
 and
-[part two](http://te.xel.io/posts/2017-02-28-international-trends-2020-the-smart-grid.html)
+[part two](/posts/2017-02-28-international-trends-2020-the-smart-grid.html)
 of this series, I discuss leveraging the smart grid as an economic
 platform.  Such a platform helps quantify/anticipate trends in demand
 for commodities, which can help mitigate a lot of the uncertainty in
@@ -1095,24 +1107,34 @@ What can be used as force for forex market stabalization or
 correction? How can we identify these potential feedback loops, while
 anticipating the response of financial markets?
 
-- international agreements for redirectable labor/development funds
-  - to recorrect liquidity flows (so that some economies do not face
-    the most severe effects of becoming liquidity bound)
-  - how can a system like this be architected specifically to offset
-    major forex turbidity?
+Could there be a system of international agreements for redirectable
+labor/development funds that isn't locked to a major currency? This
+could be used to recorrect the value of liquidity for significant
+short-term changes to currency value, so that investments and economic
+development projects can continue over the course of months or years
+without stalling out. How can such an international system be
+architected to offset significant forex turbidity?
 
-- water and gold as two possible commodities (? meh...)
-  - explain why...
+<a name="ethereum-for-irl-labor-as-a-currency-stabilization-mechanism" />
 
-- or a single currency shared across the world
-  - but transitioning to this in time will be impossible to do safely
-  - the transition to the system would add too much instability and
-    even the ideal single-currency system might not work
-  - A currency doesn't fit the bill for what I'm thinking about. (ethereum)
-- explore Ethereum (without trying to endorse a gimmick) as a possible
-  means of fitting this international need
-  - does it actually fit this need? (i.e. international agreements for
-    redirectable labor/development funds)
+### ['Ethereum for IRL Labor' as a Currency Stabilization Mechanism](#ethereum-for-irl-labor-as-a-currency-stabalization-mechanism)
+
+Another option is a single currency shared across the world. However,
+this will never happen in time as there is no reasonable transition
+path towards this system. Doing so is impossible to do safely. The
+transition to the system would cause too much socioeconomic
+instability. And that's without considering that an unproven, ideal
+single-currency system might not work.
+
+Yet, a currency doesn't quite fit the bill for what I'm thinking
+about. The concept of Ethereum as applied to IRL labor and industry is
+more along the idea of an international mechanism for offsetting major
+liquidity and forex fluctuation problems. I don't know what would
+work, but it is clear there is a problem and a major need to solve
+that problem. Now, if we could just find some Harvard-educated
+international law practitioners with strong skills in
+financial/monetary policy to follow that pipedream down the
+interdimensional rabbit hole...
 
 <a name="flexible-management-of-existing-debt" />
 
