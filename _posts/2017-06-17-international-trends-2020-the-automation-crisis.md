@@ -1150,7 +1150,16 @@ interdimensional rabbit hole...
 **Update:**
 [SDR](https://www.imf.org/en/About/Factsheets/Sheets/2016/08/01/14/51/Special-Drawing-Right-SDR)
 is a mechanism in place for balancing turbulence in international
-currency markets.
+currency markets. The IMF has an SDR backed by a basket of five
+currencies. The IMF also plans on replacing the dollar as the world's
+reserve currency with the SDR, which would decouple the petro-dollar.
+In order to expedite this transition, the IMF would likely react to an
+international debt crisis. The video below contains more information
+on the SDR as it relates to monetary policy.
+
+#### Chicago Economics Society - IMF SDR: An Emerging Global Currency?
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/rm4lPx0QTyE" frameborder="0" allowfullscreen></iframe>
 
 <a name="flexible-management-of-existing-debt" />
 
