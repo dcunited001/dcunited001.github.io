@@ -350,8 +350,8 @@ assuming that random chance will land in your favor every single time
 for dozens of different factors, the effect of which cannot be
 predicted.
 
-Maybe we should pray that economy selectively mitigates all the
-negative sources of change while millions of people volutarily change
+Maybe we should pray that the economy selectively mitigates all the
+negative sources of change while millions of people voluntarily change
 their behavior posivitly without compelling incentivization to do so:
 dear God, please protect us from liberal economy policy when it fails
 catastrophically.
@@ -414,6 +414,17 @@ rates would destroy small businesses.
 Can we ever assume that enough tax volume would be produced to cover
 other domestic policy responses, like UBI or ELR? I don't think so,
 but I'd love to evaluate ideas for doing so.
+
+**Update:**
+[Should Robots Pay Taxes? Tax Policy in the Age of Automation](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=2932483)
+is a great article from the Harvard Law & Policy Review that explores
+the complexities of this issue. A fair & balanced approach to taxing
+corporations must be properly structured legally. The updated policy
+must be at least revenue neutral if we are to have any hope of
+sustaining current government expenditures. Many suggestions I have
+seen are either overbearing, requiring too many details, or would not
+work in practice because the taxation would simply be evaded. The
+challenge in identifying a fair and practical tax policy is immense.
 
 #### Popular Response to Policy
 
@@ -929,7 +940,7 @@ inflationary monetary policy in a time of crisis.
 
 #### That one thing you were counting on that your opponent knew you would reach for...
 
-![Doctor Strange with Weapon Out of Reach]()
+![Doctor Strange Axe Out of Reach](/img/post/2017-06-17-international-trends-2020-the-automation-crisis/dr-strange-axe.png)
 
 How does war impact bond markets? Limited savings rates prevent
 private citizens from investing in wartime bonds. Gradually limited
@@ -1135,6 +1146,11 @@ that problem. Now, if we could just find some Harvard-educated
 international law practitioners with strong skills in
 financial/monetary policy to follow that pipedream down the
 interdimensional rabbit hole...
+
+**Update:**
+[SDR](https://www.imf.org/en/About/Factsheets/Sheets/2016/08/01/14/51/Special-Drawing-Right-SDR)
+is a mechanism in place for balancing turbulence in international
+currency markets.
 
 <a name="flexible-management-of-existing-debt" />
 
