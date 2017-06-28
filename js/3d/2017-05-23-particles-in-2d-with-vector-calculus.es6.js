@@ -496,9 +496,7 @@ function runWebGL() {
       particleResolution[1],
       gl.RGBA,
       gl.FLOAT,
-      //generateFloat32Randoms(particleResolution[0], particleResolution[1], 4, 0.01, 0.10)
-
-      generateFloat32Randoms(particleResolution[0], particleResolution[1], 4, -0.00, 0.00)
+      generateFloat32Randoms(particleResolution[0], particleResolution[1], 4, -0.05, 0.05)
     );
 
     gl.bindTexture(gl.TEXTURE_2D, null);
@@ -543,6 +541,21 @@ function runWebGL() {
   gl.clearColor(0.0,0.0,0.0,0.0);
   gl.clear(gl.COLOR_BUFFER_BIT);
   gl.bindFramebuffer(gl.DRAW_FRAMEBUFFER, null);
+
+// =======================================
+// Aggregate Filter Textures
+// =======================================
+
+// TODO: limit particles for aggregate calculations to particleCount
+//gl.activeTexture(gl.TEXTURE0);
+//var aggregateTextures = ['momentum', 'deltaMomentum', 'force', 'deltaForce'].reduce((acc, k) => {
+//  var tex = gl.createTexture();
+//  gl.bindTexture(gl.TEXTURE_2D, tex);
+//  aggregateTextures.texStorage2D(gl.TEXTURE_2D, 1, gl.RGBA32F, particleResolution[0], particleResolution[1]);
+//  acc[k] = tex;
+//  return acc
+//});
+//gl.bindTexture(gl.TEXTURE_2D, null);
 
 // =======================================
 // Fields & Gradients
@@ -919,6 +932,10 @@ function runWebGL() {
   mipReducer.configure(gl, {});
 
 // =======================================
+// Render Pass: Aggregate Filters
+// =======================================
+
+// =======================================
 // Web Audio
 // =======================================
 
@@ -1028,7 +1045,7 @@ function runWebGL() {
         min: { value: 0, dynamic: true, expiresAfter: 500 }
       }),
       enabled: false,
-      buttonClass: 'btn btn-info navbar-btn',
+      buttonClass: 'btn btn-info navbar-btn'
     },
     force: {
       plot: new LinePlot(gl, numDataPoints, {
@@ -1040,7 +1057,7 @@ function runWebGL() {
         min: { value: 0, dynamic: true, expiresAfter: 500 }
       }),
       enabled: false,
-      buttonClass: 'btn btn-success navbar-btn',
+      buttonClass: 'btn btn-success navbar-btn'
     },
     fps: {
       plot: new LinePlot(gl, numDataPoints, {
@@ -1052,7 +1069,7 @@ function runWebGL() {
         min: { value: 0, dynamic: false, expiresAfter: 500 }
       }),
       enabled: false,
-      buttonClass: 'btn btn-danger navbar-btn',
+      buttonClass: 'btn btn-danger navbar-btn'
     }
   };
 
@@ -1060,7 +1077,7 @@ function runWebGL() {
 // UI Controls
 // =======================================
 
-  var particleCount, particleSpeed, particleMass;
+  var particleCount, particleSpeed;
   var fieldSize, rCoefficient, maxFieldLines;
   var renderTexture, physicsMethod;
   var paused = false;
@@ -1080,47 +1097,119 @@ function runWebGL() {
 
   var deferGradientCalc, fractRenderValues, renderMagnitude, circularFieldEffect, forceCalcInGlPointSpace, scaleRenderValues;
 
+  var resetParticles = false, resetParticlesWith = 'random';
+
+  window.setResetParticles = function() {
+    resetParticles = true;
+  };
+
+  window.setResetParticlesWith = function(k) {
+    resetParticlesWith = k;
+  };
+
+  var particleResetVectorFields = {
+    random: function(x,y) {
+      return new Float32Array([2 * Math.random() - 1.0, 2 * Math.random() - 1.0, 0, 0]);
+    },
+    outward: function(x,y) {
+      return new Float32Array([x, y, 0, 0]);
+    },
+    inward: function(x,y) {
+      return new Float32Array([-x, -y, 0, 0]);
+    },
+    'right-vortex': function(x,y) {
+      return new Float32Array([y, -x, 0, 0]);
+    },
+    'left-vortex': function(x,y) {
+      return new Float32Array([-y, x, 0, 0]);
+    },
+    'merger': function(x,y) {
+      return new Float32Array([-y, -x, 0, 0]);
+    },
+    'vector-field-xy-x': function(x,y) {
+      return new Float32Array([x * y, -x, 0, 0]);
+    },
+    'vector-field-y-xy': function(x,y) {
+      return new Float32Array([y * x, y, 0, 0]);
+    }
+  };
+
   var audioColorShift = vec3.fromValues(0.0, 0.0, 0.0),
     audioColorShiftGain = 1.0,
     audioColorShiftEnabled = false;
 
-  function uiControlUpdate() {
-    particleCount = document.getElementById('particle-count').value;
-    particleSpeed = document.getElementById('particle-speed').value;
-    particleMass = document.getElementById('particle-mass').value;
-    rCoefficient = document.getElementById('r-coefficient').value;
-    fieldSize = document.getElementById('field-size').value;
-    maxFieldLines = document.getElementById('max-field-lines').value;
+  function getUIElemements() {
+    var ui = {
+      particleCount: document.getElementById('particle-count'),
+      particleSpeed: document.getElementById('particle-speed'),
+      rCoefficient: document.getElementById('r-coefficient'),
+      fieldSize: document.getElementById('field-size'),
+      maxFieldLines: document.getElementById('max-field-lines'),
 
-    deferGradientCalc = document.getElementById('defer-gradient-calc').checked;
-    fractRenderValues = document.getElementById('fract-render-values').checked;
-    scaleRenderValues = document.getElementById('scale-render-values').checked;
-    renderMagnitude = document.getElementById('render-magnitude').checked;
-    circularFieldEffect = document.getElementById('circular-field-effect').checked;
+      scaleForceToSpace: document.getElementById('scale-force-to-space'),
+      circularFieldEffect: document.getElementById('circular-field-effect'),
+      deferGradientCalc: document.getElementById('defer-gradient-calc'),
 
-    forceCalcInGlPointSpace = !document.getElementById('scale-force-to-space').checked;
+      fractRenderValues: document.getElementById('fract-render-values'),
+      scaleRenderValues: document.getElementById('scale-render-values'),
+      renderMagnitude: document.getElementById('render-magnitude'),
+
+      audioColorShift: {
+        gain: document.getElementById('audio-color-shift-gain'),
+        enabled: document.getElementById('audio-color-shift-enabled'),
+        r: document.getElementById('audio-color-shift-r'),
+        g: document.getElementById('audio-color-shift-g'),
+        b: document.getElementById('audio-color-shift-b')
+      },
+      spaceType: document.getElementsByName('space-type'),
+      renderTexture: document.getElementsByName('render-texture'),
+      physicsMethod: document.getElementsByName('physics-method'),
+      togglePlot: {
+        momentum: document.getElementById('toggle-plot-momentum'),
+        force: document.getElementById('toggle-plot-force'),
+        fps: document.getElementById('toggle-plot-fps')
+      }
+    };
+
+  return ui;
+}
+
+  function uiControlUpdate(ui = {}) {
+    particleCount = ui.particleCount.value;
+    particleSpeed = ui.particleSpeed.value;
+    rCoefficient = ui.rCoefficient.value;
+    fieldSize = ui.fieldSize.value;
+    maxFieldLines = ui.maxFieldLines.value;
+
+    deferGradientCalc = ui.deferGradientCalc.checked;
+    fractRenderValues = ui.fractRenderValues.checked;
+    scaleRenderValues = ui.scaleRenderValues.checked;
+    renderMagnitude = ui.renderMagnitude.checked;
+    circularFieldEffect = ui.circularFieldEffect.checked;
+
+    forceCalcInGlPointSpace = !ui.scaleForceToSpace.checked;
     if (forceCalcInGlPointSpace) {
       rCoefficient /= 10;
     }
 
-    audioColorShiftEnabled = document.getElementById('audio-color-shift-enabled').checked;
-    audioColorShiftGain = document.getElementById('audio-color-shift-gain').value;
+    audioColorShiftEnabled = ui.audioColorShift.enabled.checked;
+    audioColorShiftGain = ui.audioColorShift.gain.value;
     audioColorShift = mic.getColorShift(
-      document.getElementById('audio-color-shift-r').value,
-      document.getElementById('audio-color-shift-g').value,
-      document.getElementById('audio-color-shift-b').value);
+      ui.audioColorShift.r.value,
+      ui.audioColorShift.g.value,
+      ui.audioColorShift.b.value);
 
-    var renderTextureRadios = document.getElementsByName('render-texture');
+    var renderTextureRadios = ui.renderTexture;
     renderTexture = [0,1,2].reduce((a,i) => renderTextureRadios[i].checked ? i : a, 0);
 
-    var physicsMethodRadios = document.getElementsByName('physics-method');
+    var physicsMethodRadios = ui.physicsMethod;
     physicsMethod = [0,1,2].reduce((a,i) => physicsMethodRadios[i].checked ? i : a, 0);
 
-    var spaceTypeRadios = document.getElementsByName('space-type');
+    var spaceTypeRadios = ui.spaceType;
     spaceType = [0,1,2].reduce((a,i) => spaceTypeRadios[i].checked ? i : a, 0);
 
     for (var k of Object.keys(linePlots)) {
-      linePlots[k].enabled = document.getElementById(`toggle-plot-${k}`).checked;
+      linePlots[k].enabled = ui.togglePlot[k].checked;
     }
   }
 
@@ -1135,16 +1224,101 @@ function runWebGL() {
     }
   };
 
-  var configProfiles = [function() {
-    //
-  }, function() {
-    // Norm / Fract
-  }, function() {
-    // RGBX / Fract
-  }];
+  // Yes, it's the worst two-way databinding ever
+  var configProfiles = {
+    defaults: function(ui = {}) {
+      ui.particleCount.value = 512;
+      ui.particleSpeed.value = 0.05;
+      ui.rCoefficient.value = 0.1;
+      ui.fieldSize.value = 75.0;
+      ui.maxFieldLines.value = 1.0;
 
-  window.activateProfile = function(i) {
-    configProfiles[i]()
+      ui.scaleForceToSpace.checked = false;
+      ui.circularFieldEffect.checked = true;
+      ui.deferGradientCalc.checked = false;
+
+      ui.fractRenderValues.checked = false;
+      ui.scaleRenderValues.checked = false;
+      ui.renderMagnitude.checked = false;
+
+      ui.spaceType.forEach((el, i) => {
+        el.checked = (i == 1);
+        if (el.checked) {
+          el.parentElement.classList.add('active');
+        } else {
+          el.parentElement.classList.remove('active');
+        }
+      });
+
+      ui.renderTexture.forEach((el, i) => {
+        el.checked = (i == 0);
+        if (el.checked) {
+          el.parentElement.classList.add('active');
+        } else {
+          el.parentElement.classList.remove('active');
+        }
+      });
+
+      ui.physicsMethod.forEach((el, i) => {
+        el.checked = (i == 0);
+        if (el.checked) {
+          el.parentElement.classList.add('active');
+        } else {
+          el.parentElement.classList.remove('active');
+        }
+      });
+    },
+
+    gradientFractNorm: function(ui = {}) {
+      // Norm / Fract / Gradient / Brownian
+
+      ui.grad
+    },
+    random: function(ui = {}) {
+      var randomFactor = function(range) {
+        return 1 + (range * Math.random() - range / 2.0);
+      };
+
+      var randomBoolean = function(chance = 0.5) {
+        return (Math.random() > chance);
+      };
+
+      var randomDataToggle = function(elemSet, pSet) {
+        var rand = Math.random();
+        for (var i = 0; i < elemSet.length; i++) {
+          elemSet[i].checked = (rand >= pSet[i] && rand < pSet[i+1]);
+          if (elemSet[i].checked) {
+            elemSet[i].parentElement.classList.add('active');
+          } else {
+            elemSet[i].parentElement.classList.remove('active');
+          }
+        }
+      };
+
+      ui.deferGradientCalc = false;
+      ui.rCoefficient.value = ui.rCoefficient.value * randomFactor(0.125);
+      ui.fieldSize.value = ui.fieldSize.value * randomFactor(0.125);
+
+      ui.circularFieldEffect.checked = randomBoolean(0.1);
+      ui.fractRenderValues.checked = randomBoolean(0.25);
+      ui.scaleRenderValues.checked = randomBoolean(0.1);
+      ui.renderMagnitude.checked = randomBoolean(0.1);
+
+      if (ui.fractRenderValues.checked) {
+        ui.maxFieldLines.value = Math.trunc(ui.maxFieldLines.max/2 * Math.random());
+      }
+
+      randomDataToggle(ui.renderTexture, [0.0, 0.15, 0.5, 1.0]);
+      randomDataToggle(ui.physicsMethod, [0.0, 0.45, 0.5, 1.0]);
+    },
+    rgbxFract: function(ui = {}) {
+      // RGBX / Fract
+    }
+  };
+
+  window.activateProfile = function(k) {
+    var uiElements = getUIElemements();
+    configProfiles[k](uiElements);
   };
 
   var anyQuad = new Quad(gl);
@@ -1202,7 +1376,43 @@ function renderDebugTexture(pixels) {
     updateTime();
 
     deltaT = updateDeltaT(deltaT, lastFrameTime);
-    uiControlUpdate();
+    var uiElements = getUIElemements();
+    uiControlUpdate(uiElements);
+
+    if (resetParticles) {
+      var newPositions = generateFloat32Randoms(particleResolution[0], particleResolution[1], 4, -0.5, 0.5);
+
+      gl.activeTexture(gl.TEXTURE0);
+      gl.bindTexture(gl.TEXTURE_2D, particlePonger.getCurrent('particles'));
+      gl.texSubImage2D(gl.TEXTURE_2D,
+        0,
+        0, // x offset
+        0, // y offset
+        particleResolution[0],
+        particleResolution[1],
+        gl.RGBA,
+        gl.FLOAT,
+        newPositions);
+
+      var newParticleMomentums = new Float32Array(particleResolution[0] * particleResolution [1] * 4);
+      for (var i = 0; i < newParticleMomentums.length; i += 4) {
+        newParticleMomentums.set(particleResetVectorFields[resetParticlesWith](newPositions[i], newPositions[i+1]), i);
+      }
+
+      gl.bindTexture(gl.TEXTURE_2D, particlePonger.getCurrent('particleMomentums'));
+      gl.texSubImage2D(gl.TEXTURE_2D,
+        0,
+        0, // x offset
+        0, // y offset
+        particleResolution[0],
+        particleResolution[1],
+        gl.RGBA,
+        gl.FLOAT,
+        newParticleMomentums);
+      gl.bindTexture(gl.TEXTURE_2D, null);
+
+      resetParticles = false;
+    }
 
     if (!paused) {
 
@@ -1357,7 +1567,7 @@ function fixCanvasUIBar() {
 
 window.onload = function() {
   fixCanvasUIBar();
-  //runWebGL();
+  runWebGL();
 };
 
 //window.addEventListener('gliready', runWebGL());

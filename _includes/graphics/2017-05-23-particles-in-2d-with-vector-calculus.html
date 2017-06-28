@@ -6,8 +6,22 @@
   <div class="container">
     <div class="btn-group navbar-left">
       <button id="btn-play-pause" class="btn btn-primary navbar-btn" onclick="togglePause()"><i class="fa fa-lg fa-pause"></i></button>
-      <button id="btn-reset" class="btn btn-primary navbar-btn" onclick="clickedResetParticles()" disabled><i class="fa fa-lg fa-refresh"></i></button>
       <button id="btn-activate-mic" class="btn btn-primary navbar-btn" onclick="activateMic()"><i class="fa fa-lg fa-microphone"></i></button>
+      <button id="btn-reset" class="btn btn-primary navbar-btn" onclick="setResetParticles()"><i class="fa fa-lg fa-refresh"></i></button>
+      <button type="button" class="btn btn-primary navbar-btn dropdown-toggle" data-toggle="dropdown">
+        <span class="caret"></span>
+        <span class="sr-only">Toggle Dropdown</span>
+      </button>
+      <ul class="dropdown-menu">
+        <li><a href="#" onclick="setResetParticlesWith('random')">Random Momentums</a></li>
+        <li><a href="#" onclick="setResetParticlesWith('outward')">Outward: (x,y)</a></li>
+        <li><a href="#" onclick="setResetParticlesWith('inward')">Inward: (-x,-y)</a></li>
+        <li><a href="#" onclick="setResetParticlesWith('right-vortex')">Right Vortex: (y,-x)</a></li>
+        <li><a href="#" onclick="setResetParticlesWith('left-vortex')">Left Vortex: (-y,x)</a></li>
+        <li><a href="#" onclick="setResetParticlesWith('merger')">Merger: (-y,-x)</a></li>
+        <li><a href="#" onclick="setResetParticlesWith('vector-field-xy-x')">p(x,y) = (xy,-x)</a></li>
+        <li><a href="#" onclick="setResetParticlesWith('vector-field-y-xy')">p(x,y) = (y,xy)</a></li>
+      </ul>
     </div>
 
     <ul class="nav navbar-nav navbar-left">
@@ -15,15 +29,16 @@
     </ul>
 
     <div class="btn-group navbar-left">
-      <button id="btn-activate-profile-1" class="btn btn-warning navbar-btn" onclick="activateProfile(1)"><i class="fa fa-lg fa-star-o"></i></button>
-      <button id="btn-activate-profile-2" class="btn btn-warning navbar-btn" onclick="activateProfile(2)"><i class="fa fa-lg fa-bolt"></i></button>
-      <button id="btn-activate-profile-3" class="btn btn-warning navbar-btn" onclick="activateProfile(3)"><i class="fa fa-lg fa-star"></i></button>
+      <button id="btn-activate-profile-1" class="btn btn-warning navbar-btn" onclick="activateProfile('gradientFractNorm')"><i class="fa fa-lg fa-star-o"></i></button>
+      <button id="btn-activate-profile-2" class="btn btn-warning navbar-btn" onclick="activateProfile('random')"><i class="fa fa-lg fa-bolt"></i></button>
+      <button id="btn-activate-profile-3" class="btn btn-warning navbar-btn" onclick="activateProfile('rgbxFract')"><i class="fa fa-lg fa-star"></i></button>
+      <button id="btn-activate-profile-4" class="btn btn-warning navbar-btn" onclick="activateProfile('defaults')"><i class="fa fa-lg fa-refresh"></i></button>
     </div>
 
     <div class="btn-group navbar-right" data-toggle="buttons">
-      <label class="btn btn-lit btn-lit-primary navbar-btn"><input id="toggle-plot-momentum" type="checkbox" autocomplete="off" onclick="togglePlot('momentum')"/>Momentum</label>
-      <label class="btn btn-lit btn-lit-success navbar-btn"><input id="toggle-plot-force" type="checkbox" autocomplete="off" onclick="togglePlot('force')"/>Force</label>
-      <label class="btn btn-lit btn-lit-danger navbar-btn"><input id="toggle-plot-fps" type="checkbox" autocomplete="off" onclick="togglePlot('fps')"/>FPS</label>
+      <label class="btn btn-lit btn-lit-primary navbar-btn"><input id="toggle-plot-momentum" type="checkbox" autocomplete="off"/>Momentum</label>
+      <label class="btn btn-lit btn-lit-success navbar-btn"><input id="toggle-plot-force" type="checkbox" autocomplete="off"/>Force</label>
+      <label class="btn btn-lit btn-lit-danger navbar-btn"><input id="toggle-plot-fps" type="checkbox" autocomplete="off"/>FPS</label>
     </div>
 
     <ul class="nav navbar-nav navbar-right">
@@ -93,11 +108,11 @@
       <label for="particle-speed">Particle Speed Factor:</label>
       <input id="particle-speed" type="range" min="0.00625" max="2.0" step="0.00625" value="0.05"/>
 
-      <label for="particle-speed">Particle Mass:</label>
-      <input id="particle-mass" type="range" min="0.00625" max="2.0" step="0.00625" value="1.0"/>
+      <!--<label for="particle-mass">Particle Mass:</label>-->
+      <!--<input id="particle-mass" type="range" min="0.00625" max="2.0" step="0.00625" value="1.0"/>-->
 
       <label for="r-coefficient">R-Force Coefficient:</label>
-      <input id="r-coefficient" type="range" min="0.001" max="10.0" step="0.001" value="0.1"/>
+      <input id="r-coefficient" type="range" min="0.001" max="10.0" step="0.0001" value="0.1"/>
 
       <label for="field-size">Field Effect Size:</label>
       <input id="field-size" type="range" min="1.0" max="300.0" step="1.0" value="75.0"/>
@@ -105,10 +120,9 @@
       <label for="max-field-lines">Clamp Field Lines:</label>
       <input id="max-field-lines" type="range" min="0.0" max="10.0" step="1.0" value="1.0"/>
 
-      <input id="space-type" type="checkbox" class="checkbox-inline"/>&nbsp;Infinite Space
-      <input id="scale-force-to-space" type="checkbox" class="checkbox-inline"/>&nbsp;Scale Force to Space
-      <input id="circular-field-effect" type="checkbox" class="checkbox-inline" checked/>&nbsp;Circular Field
-      <input id="defer-gradient-calc" type="checkbox" class="checkbox-inline"/>&nbsp;Defer Gradient Calculation
+      <div><input id="scale-force-to-space" type="checkbox" class="checkbox-inline"/>&nbsp;Scale Force to Space</div>
+      <div><input id="circular-field-effect" type="checkbox" class="checkbox-inline" checked/>&nbsp;Circular Field</div>
+      <div><input id="defer-gradient-calc" type="checkbox" class="checkbox-inline"/>&nbsp;Defer Gradient Calculation</div>
     </div>
 
     <div class="col-sm-6">
@@ -120,16 +134,13 @@
           <div><input id="audio-color-shift-enabled" type="checkbox"/>&nbsp;Enable Audio Color Shift</div>
 
           <label for="audio-color-shift-r">R-Period</label>
-          <input id="audio-color-shift-r" type="range" min="200" max="2500" step="1" value="456"/>
+          <input id="audio-color-shift-r" type="range" min="200" max="2500" step="1" value="1257"/>
 
           <label for="audio-color-shift-g">G-Period</label>
-          <input id="audio-color-shift-g" type="range" min="200" max="2500" step="1" value="765"/>
+          <input id="audio-color-shift-g" type="range" min="200" max="2500" step="1" value="1153"/>
 
           <label for="audio-color-shift-b">B-Period</label>
-          <input id="audio-color-shift-b" type="range" min="200" max="2500" step="1" value="374"/>
-
-          <label for="fdsa">Texture Blending</label>
-          <label for="asdf">Texture Anisotropy</label>
+          <input id="audio-color-shift-b" type="range" min="200" max="2500" step="1" value="1297"/>
         </div>
       </div>
     </div>
