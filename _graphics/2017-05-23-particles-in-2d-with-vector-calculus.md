@@ -11,7 +11,7 @@ graphics_ui_layout: "graphics/2017-05-23-particles-in-2d-with-vector-calculus.ht
 
 ### TODO:
 
-- Reset Button & Defaults Button
+- aggregates
 - fix finite space type
 
 - aggregate for momentum (p & ∂p)
@@ -19,9 +19,9 @@ graphics_ui_layout: "graphics/2017-05-23-particles-in-2d-with-vector-calculus.ht
 
 - change force splatting to use drawArraysInstanced
   - i need to figure out how to get the particle id in without having to set a uniform
+  -
 
 - replace particle-speed slider with particle-mass
-
 
 
 ### Overview
@@ -187,8 +187,6 @@ vec2 calcForce(vec2 r, vec2 r2) {
 void main() {
   ivec2 uv = ivec2(trunc(gl_FragCoord));
 
-  // TODO: fix indexing
-  //if (uv.v * uv.u + uv.u > u_particleIdLimit) { discard; }
   if (uv.x * uv.y + uv.x > u_particleIdLimit) { discard; }
   if (uv == u_particleUv) { discard; }
 
@@ -518,8 +516,6 @@ void main() {
 <script type="x-shader/x-fragment" id="fsMipmapAggregate">
 uniform vec2 resolution;
 
-
-
 out vec4 particleMomentum;
 out vec4 particleMomentumStats;
 
@@ -541,16 +537,11 @@ out vec4 v_positionA;
 out vec4 v_positionB;
 
 void main() {
-  //v_positionA = vec4(a_position, 0.0, 1.0);
-  //v_positionB = vec4(a_position, 0.0, 1.0) + 1.0;
-
   v_positionA = u_projection * vec4(a_position.x, a_position.y, 0.0, 1.0);
   v_positionB = u_projection * vec4(a_position.x, a_position.y, 0.0, 1.0);
 
   v_positionA.y += u_lineWidth;
   v_positionB.y -= u_lineWidth;
-
-  // TODO: make sure u_lineWidth is adjusted for the space
 
   gl_Position = v_positionA;
 }
@@ -584,9 +575,45 @@ void main() {
 }
 </script>
 
+<script type="x-shader/x-fragment" id="fsParticleAggregatesFilter">
+uniform vec4 ;
+
+uniform vec2 u_resolution;
+uniform ivec2 u_particleUv;
+uniform int u_particleIdLimit;
+
+uniform sampler2D s_momentums;
+uniform sampler2D s_forces;
+uniform sampler2D s_deltaForces;
+
+layout(location = 0) out vec4 momentum;
+layout(location = 1) out vec4 deltaMomentum;
+layout(location = 2) out vec4 force;
+layout(location = 3) out vec4 deltaForce;
+
+// TODO: implement a filter for aggregates
+
+void main() {
+  ivec2 uv = ivec2(trunc(gl_FragCoord));
+
+  if (uv.x * uv.y + uv.x > u_particleIdLimit) {
+    // TODO: replace with 'null' value
+    momentum = vec4(0.0, 0.0, 0.0, 0.0);
+    deltaMomentum = vec4(0.0, 0.0, 0.0, 0.0);
+    force = vec4(0.0, 0.0, 0.0, 0.0);
+    deltaForce = vec4(0.0, 0.0, 0.0, 0.0);
+  } else {
+    momentum = vec4(texelFetch(s_momentums, uv, 0).xy, 0.0, 0.0);
+    deltaMomentum = vec4(texelFetch(s_momentums, uv, 0).zw, 0.0, 0.0);
+    force = vec4(texelFetch(s_forces, uv, 0));
+    deltaForce = vec4(texelFetch(s_deltaForces, uv, 0));
+  }
+}
+</script>
+
 <script type="text/javascript" src="/js/3d/utils/quad.js"></script>
 <script type="text/javascript" src="/js/3d/utils/line_plot.js"></script>
-<script type="text/javascript" src="/js/3d/utils/mip-reducer.js"></script>
+<script type="text/javascript" src="/js/3d/utils/mip_reducer.js"></script>
 <script type="text/javascript" src="/js/3d/2017-05-23-particles-in-2d-with-vector-calculus.es6.js"></script>
 
 <script type="text/javascript">
