@@ -132,87 +132,87 @@ this is sincere concern that we may find ourselves unprepared for the
 future, regardless of which class, ethnicity or religion we are part
 of.
 
-# &#x0B87;&#x0BD0;&#x0E5B;
+## &#x0B87;&#x0BD0;&#x0E5B;
 
-### &#x13EB; [The Golden Rule](#the-golden-rule)
+#### &#x13EB; [The Golden Rule](#the-golden-rule)
 
-### &#x13EB; [We Are All One](#we-are-all-one)
+#### &#x13EB; [We Are All One](#we-are-all-one)
 
-### &#x13EB; [Negative & Neutral & Positive](#negative-neutral-positive)
+#### &#x13EB; [Negative & Neutral & Positive](#negative-neutral-positive)
 
-### &#x13EB; [The Unknown](#the-unknown)
+#### &#x13EB; [The Unknown](#the-unknown)
 
-### &#x13EB; [The Intangible](#the-intangible)
+#### &#x13EB; [The Intangible](#the-intangible)
 
-### &#x13EB; [Find Your Genius](#find-your-genius)
+#### &#x13EB; [Find Your Genius](#find-your-genius)
 
-### &#x13EB; [Timelessness](#timelessness)
+#### &#x13EB; [Timelessness](#timelessness)
 
-### &#x13EB; [Emphasizing Potential](#emphasizing-potential)
+#### &#x13EB; [Emphasizing Potential](#emphasizing-potential)
 
-### &#x13EB; [Help Others Grow](#help-others-grow)
+#### &#x13EB; [Help Others Grow](#help-others-grow)
 
-### &#x13EB; [Light & Dark, Good & Evil](#light-dark-good-evil)
+#### &#x13EB; [Light & Dark, Good & Evil](#light-dark-good-evil)
 
-### &#x13EB; [Awareness of Evil](#awareness-of-evil)
+#### &#x13EB; [Awareness of Evil](#awareness-of-evil)
 
-### &#x13EB; [Everything Has a Purpose](#everything-has-a-purpose)
+#### &#x13EB; [Everything Has a Purpose](#everything-has-a-purpose)
 
-### &#x13EB; [Relative & Absolute](#relative-and-absolute)
+#### &#x13EB; [Relative & Absolute](#relative-and-absolute)
 
-### &#x13EB; [The Empty Mind](#the-empty-mind)
+#### &#x13EB; [The Empty Mind](#the-empty-mind)
 
-### &#x13EB; [Willpower & Self-Mastery](#willpower-and-self-mastery)
+#### &#x13EB; [Willpower & Self-Mastery](#willpower-and-self-mastery)
 
-### &#x13EB; [Know What You Want](#know-what-you-want)
+#### &#x13EB; [Know What You Want](#know-what-you-want)
 
-### &#x13EB; [Keep Your Eye on the Ball](#keep-your-eye-on-the-ball)
+#### &#x13EB; [Keep Your Eye on the Ball](#keep-your-eye-on-the-ball)
 
-### &#x13EB; [Nature of Mind](#nature-of-mind)
+#### &#x13EB; [Nature of Mind](#nature-of-mind)
 
-### &#x13EB; [Neurological Empathy](#neurological-empathy)
+#### &#x13EB; [Neurological Empathy](#neurological-empathy)
 
-### &#x13EB; [Meditation](#meditation)
+#### &#x13EB; [Meditation](#meditation)
 
-### &#x13EB; [Always Keep Searching](#always-keep-searching)
+#### &#x13EB; [Always Keep Searching](#always-keep-searching)
 
-### &#x13EB; [Never Stop Stopping](#never-stop-stopping)
+#### &#x13EB; [Never Stop Stopping](#never-stop-stopping)
 
-### &#x13EB; [Independence](#independence)
+#### &#x13EB; [Independence](#independence)
 
-### &#x13EB; [Knowledge of Self](#knowledge-of-self)
+#### &#x13EB; [Knowledge of Self](#knowledge-of-self)
 
-### &#x13EB; [Karma](#karma)
+#### &#x13EB; [Karma](#karma)
 
-### &#x13EB; [Devine Connection](#devine-connection)
+#### &#x13EB; [Devine Connection](#devine-connection)
 
-### &#x13EB; [Wisdom of All](#wisdom-of-all)
+#### &#x13EB; [Wisdom of All](#wisdom-of-all)
 
-### &#x13EB; [Prismatic Perspective](#prismatic-perspective)
+#### &#x13EB; [Prismatic Perspective](#prismatic-perspective)
 
-### &#x13EB; [Judgement & Forgiveness](#judgement-and-forgiveness)
+#### &#x13EB; [Judgement & Forgiveness](#judgement-and-forgiveness)
 
-### &#x13EB; [Providing Purpose](#providing-purpose)
+#### &#x13EB; [Providing Purpose](#providing-purpose)
 
-### &#x13EB; [Believe in Yourself](#believe-in-yourself)
+#### &#x13EB; [Believe in Yourself](#believe-in-yourself)
 
-### &#x13EB; [Metapersona &#x1F52D;&#x1F3AD;&#x1F50D;](#metapersona)
+#### &#x13EB; [Metapersona &#x1F52D;&#x1F3AD;&#x1F50D;](#metapersona)
 
-### &#x13EB; [You're the Hero](#youre-the-hero)
+#### &#x13EB; [You're the Hero](#youre-the-hero)
 
-### &#x13EB; [Circumstance](#circumstance)
+#### &#x13EB; [Circumstance](#circumstance)
 
-### &#x13EB; [Environment](#environment)
+#### &#x13EB; [Environment](#environment)
 
-### &#x13EB; [Axiomatic Waypoints](#axiomatic-waypoints)
+#### &#x13EB; [Axiomatic Waypoints](#axiomatic-waypoints)
 
-### &#x13EB; [Asymptotic Evaluation](#asymptotic-evaluation)
+#### &#x13EB; [Asymptotic Evaluation](#asymptotic-evaluation)
 
-### &#x13EB; [Moving the Lampposts](#moving-the-lampposts)
+#### &#x13EB; [Moving the Lampposts](#moving-the-lampposts)
 
-### &#x13EB; [Self-Similarity](#self-similarity)
+#### &#x13EB; [Self-Similarity](#self-similarity)
 
-### &#x13EB; [Humility](#humility)
+#### &#x13EB; [Humility](#humility)
 
 Just wanted to summarize over those, although that list is by no means
 complete. And please let me emphasize: I in no way intend or intended

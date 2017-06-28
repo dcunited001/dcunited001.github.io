@@ -14,7 +14,7 @@ overpopulation doesn't burden us. It instead empowers us to reach our
 full potential."
 ---
 
-#### &#x2605; Climate Change &#x2605; [The Smart Grid](/posts/2017-02-28-international-trends-2020-the-smart-grid.html) &#x2605; [Universal Basic Income](/posts/2017-06-06-international-trends-2020-universal-basic-income.html) &#x2605; [The Automation Crisis](/posts/2017-06-16-international-trends-2020-the-automation-crisis.html) &#x2605;
+#### &#x2605; Climate Change &#x2605; [The Smart Grid](/posts/2017-02-28-international-trends-2020-the-smart-grid.html) &#x2605; [Universal Basic Income](/posts/2017-06-05-international-trends-2020-universal-basic-income.html) &#x2605; [The Automation Crisis](/posts/2017-06-17-international-trends-2020-the-automation-crisis.html) &#x2605;
 
 ## [Climate Change: The Smart Grid, Intrinsic Analytics and Economic Dynamics](#climite-change-the-smart-grid-intrinsic-analytics-and-economic-dynamics)
 

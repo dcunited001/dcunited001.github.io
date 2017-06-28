@@ -21,6 +21,11 @@ excerpt: ""
 
 ## [Global Geopolitical Analysis](#global-geopolitical-analysis)
 
+
+- a 500m asteroid can contain up to 175 times the earths annual output
+  in platinum. (is the ratio simply high because of low outputs on
+  earth?)
+
 <a name="fundamental-advancements-towards-tomorrows-smartgrid" />
 
 - update with info from [Ars Article](https://arstechnica.com/science/2017/03/the-trump-administration-has-unleashed-a-lunar-gold-rush/)
