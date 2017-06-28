@@ -21,14 +21,33 @@ excerpt: ""
 
 ## [Global Geopolitical Analysis](#global-geopolitical-analysis)
 
-
-- a 500m asteroid can contain up to 175 times the earths annual output
-  in platinum. (is the ratio simply high because of low outputs on
-  earth?)
-
 <a name="fundamental-advancements-towards-tomorrows-smartgrid" />
 
 - update with info from [Ars Article](https://arstechnica.com/science/2017/03/the-trump-administration-has-unleashed-a-lunar-gold-rush/)
+
+- need to focus on how/why transnationalism & post-westphalian
+  governance structures are applicable to the issues discussed in this
+  series thus far
+  - how can international law be leveraged strategically to account
+    for various outcomes of the international economic system?
+  - how do all these pieces fit together?
+  - why is it relevant now?
+    - current developments in (economics, human evolution, technology,
+      etc.) will create the opportunity for major changes on the
+      international stage
+    - space, in particular, will require major changes to the
+      international framework
+    - conflict will necessitate changes
+
+- diatribe on energy and entropy
+  - argument for an energy tax as the end state for tax policy
+  - explain why entropy is bad...
+    - only energy can mitigate it & energy is expensive
+    - (desire and myopic behavior promote bad decisions), creating entropy
+  - explain physical entropy and other kinds of entropy (social, informational)
+  - any kind of industrial or economic process is counteracting entropy
+    - pollution is essentially entropy
+- how this plays into international law
 
 # [Space: Economics and Evolution of Governance Mechanisms](#space-economics-and-evolution-of-governance-mechanisms)
 
@@ -39,18 +58,23 @@ capacity and efficiency of product exchange? Oil. However, in an
 information economy, there are more virtual products and information
 is leveraged to make purchasing decisions.
 
-3D printing and nano create radically a different economic situation,
-which isn't covered in these posts.  At first, the economic response
-to commercialized space is strongly affected by proximity to resources
-inbound from space and terrestrial pricing of equivalent resources.
+At first, the economic response to commercialized space is strongly
+affected by proximity to resources inbound from space and terrestrial
+pricing of equivalent resources. (more about this)
 
 - mention the conflict theory article.
   - identify why space may lead to a post-post-westphalian transition
 
+### resources harvested from space first impact economic development in space
+
+- the first resources harvested from space circumvent launch costs for
+  sending materials to space
+  - (ugh ... need dopamine badly!!!!!!!!!!!!!!!!!!!!!!!!)
+
 ### access to space becomes critical to a renewables economy
 
 - at least, until humanity has access to space, capacity for energy
-  production requires space. this is true, almost first and foremost.
+  production requires space. (this is true, almost first and foremost.)
   - i.e. if you don't have space (surface area on earth) you can't
     produce large quantities of energy
     - this is why island nations with large
@@ -75,10 +99,8 @@ inbound from space and terrestrial pricing of equivalent resources.
 
 - therefore, access to space becomes critical in an economy which is
   increasingly driven by resource availability and price
-  - to this end, nano-based waste reclamation becomes enticing 4
-    countries w/ landfills
   - there's a procession of real-estate trends that emerge as various
-    space technologies become viable
+    space technologies become viable (move to next section?)
   - whether/when space elevator tech becomes available, then this
     real-estate becomes valuable
     - this tech is dependent on carbon nano-fibers
@@ -121,29 +143,32 @@ inbound from space and terrestrial pricing of equivalent resources.
     - this isn't exactly a new idea, but it is likely that something
       like this will be the first kind of space elevator
 
+- tracking objects in orbit requires international cooperation that
+  maintains secrecy
+
 ### space-faring institutions establish sovereignty using transnationalism
 
-- more on this....
-- transnationalism is one of the most important concepts we can be
-  feeling out right now. because it was new as hell to me (and a bit
-  scary, actually!!!)
-  - they need to be declared as transnational entities, politically,
+- they need to be declared as transnational entities, politically,
     because of their massive cost structures and their need to
     flexibly reposition themselves in anticipation of unpredictable
     global economic trends
 
-
+- (move this) transnationalism is one of the most important concepts we can be
+  feeling out right now. because it was new as hell to me (and a bit
+  scary, actually!!!)
 
 # [Trends in International Law are Gaining Momentum](#trends-in-international-law-are-gaining-momentum)
 
 - international norms => policy on AI & usages & limitations
   - analogy for cyber/infowar w/ epidemic
 
-### At Birth, Every Individual has a Tabula Rasa of Legal Rights/Obligations
+### At Birth, Every Individual Should Have A Tabula Rasa of Legal Rights/Obligations
 
 - Every individual has a Nearly "tabula rasa" set of rights, at birth
-  - that is, there are some
-- As I understand an US Citizen or Individual's rights in
+  - that is, there are some (???)
+  - explore why the initial (& final) legal status of a person is
+    incredibly important
+- As I understand an US Citizen or Individual's rights in (???)
 - arguments from the information warfare articles:
 
 ### Transnationals Should Always At Least Have Human Rights
@@ -154,6 +179,11 @@ inbound from space and terrestrial pricing of equivalent resources.
   - they do: refugee rights
 
 #### Circumvention of Genevaless NEC status via an annex-by-proxy
+
+(this is cray cray, but also pretty funny. it's mostly important as a
+thought experiment for international law. it encourages thinking about
+the mechanisms that could make this happen, while emphasizing why it
+never would)
 
 - here is presented a hypothetical international law framework for
   circumventing blacked-out, memory-holed status of non-enemy
@@ -246,8 +276,9 @@ inbound from space and terrestrial pricing of equivalent resources.
     transnationalism, hundreds of questions flooded into my mind.
     - suddenly, nothing was clear.
 
-
 # Transnationalism
+
+(this section needs a lot more content)
 
 ### TransNatl: In the context of the Westphalian Paradigm
 
@@ -269,7 +300,7 @@ inbound from space and terrestrial pricing of equivalent resources.
     - not that it's "root" in terms of authority
       - a la linux ~~ super-user
     - but root as in uppermost in totality
-- reference harvord international law journal idea about
+- reference harvard international law journal idea about
   transnationalism and the "multi-hub" architecture of overlapping
   transnational soveriegnty (i think)
   - but, with this perspective, then authority becomes shared/tiered
@@ -278,6 +309,7 @@ inbound from space and terrestrial pricing of equivalent resources.
       ways to transition into such a state
       - i.e. it may take centuries for this to occur "naturally"
       - literally centuries
+  - this only pertains to non-corporate transnational entities
 
 ### international trade agreements
 
@@ -361,6 +393,9 @@ inbound from space and terrestrial pricing of equivalent resources.
           case, because otherwise you are shit out of luck.*
 
 # Global Geopolitical Analysis
+
+(probably remove this section. i've already covered most of this in
+this series)
 
 ### South China Sea
 
