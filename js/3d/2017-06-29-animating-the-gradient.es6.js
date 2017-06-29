@@ -517,10 +517,7 @@ function runWebGL() {
     },
     particleMomentums: {
       colorAttachment: gl.COLOR_ATTACHMENT2
-    } //,
-    //particleForces: {
-    //  colorAttachment: gl.COLOR_ATTACHMENT3
-    //}
+    }
   };
 
   particlePonger.initFramebuffers(gl, particleFboConfig);
@@ -659,6 +656,7 @@ function runWebGL() {
       context.uniform1i(rpParticles.uniformLocations.s_particles, 1);
       context.uniform1i(rpParticles.uniformLocations.s_particleMomentums, 2);
       context.uniform1i(rpParticles.uniformLocations.s_particleForces, 3);
+      context.uniform1i(rpParticles.uniformLocations.s_repelFieldGradient, 4);
     },
     encodeTextures: (context, uniforms, ops) => {
       context.activeTexture(context.TEXTURE0);
@@ -676,6 +674,10 @@ function runWebGL() {
       context.activeTexture(context.TEXTURE3);
       context.bindTexture(context.TEXTURE_2D, ops.particleForces);
       context.bindSampler(3, samplerNearest);
+
+      context.activeTexture(context.TEXTURE4);
+      context.bindTexture(context.TEXTURE_2D, ops.repelFieldGradient);
+      context.bindSampler(4, samplerNearest);
     },
     encodeDraw: (context, uniforms, ops) => {
       context.drawBuffers([
@@ -1208,7 +1210,7 @@ function runWebGL() {
     var spaceTypeRadios = ui.spaceType;
     spaceType = [0,1,2].reduce((a,i) => spaceTypeRadios[i].checked ? i : a, 0);
 
-    for (var k of Object.keys(linePlots)) {
+    for (var k of ['momentum', 'fps']) {
       linePlots[k].enabled = ui.togglePlot[k].checked;
     }
   }
@@ -1237,9 +1239,10 @@ function runWebGL() {
       ui.circularFieldEffect.checked = true;
       ui.deferGradientCalc.checked = false;
 
-      ui.fractRenderValues.checked = false;
-      ui.scaleRenderValues.checked = false;
-      ui.renderMagnitude.checked = false;
+      [ui.fractRenderValues, ui.scaleRenderValues, ui.renderMagnitude].forEach((el, i) => {
+        el.checked = false;
+        el.parentElement.classList.remove('active');
+      });
 
       ui.spaceType.forEach((el, i) => {
         el.checked = (i == 1);
@@ -1269,11 +1272,6 @@ function runWebGL() {
       });
     },
 
-    gradientFractNorm: function(ui = {}) {
-      // Norm / Fract / Gradient / Brownian
-
-      ui.grad
-    },
     random: function(ui = {}) {
       var randomFactor = function(range) {
         return 1 + (range * Math.random() - range / 2.0);
@@ -1299,20 +1297,31 @@ function runWebGL() {
       ui.rCoefficient.value = ui.rCoefficient.value * randomFactor(0.125);
       ui.fieldSize.value = ui.fieldSize.value * randomFactor(0.125);
 
+      ui.scaleRenderValues.checked = randomBoolean(0.1);
       ui.circularFieldEffect.checked = randomBoolean(0.1);
       ui.fractRenderValues.checked = randomBoolean(0.25);
-      ui.scaleRenderValues.checked = randomBoolean(0.1);
       ui.renderMagnitude.checked = randomBoolean(0.1);
 
+      [ui.fractRenderValues, ui.scaleRenderValues, ui.renderMagnitude].forEach((el, i) => {
+        if (el.checked) {
+          el.parentElement.classList.add('active');
+        } else {
+          el.parentElement.classList.remove('active');
+        }
+      });
+
+      if (ui.renderMagnitude.checked) {
+        ui.renderMagnitude.parentElement.classList.add('active');
+      } else {
+        ui.renderMagnitude.parentElement.classList.remove('active');
+      }
+
       if (ui.fractRenderValues.checked) {
-        ui.maxFieldLines.value = Math.trunc(ui.maxFieldLines.max/2 * Math.random());
+        ui.maxFieldLines.value = Math.trunc((2/3)*ui.maxFieldLines.max * Math.random());
       }
 
       randomDataToggle(ui.renderTexture, [0.0, 0.15, 0.5, 1.0]);
       randomDataToggle(ui.physicsMethod, [0.0, 0.45, 0.5, 1.0]);
-    },
-    rgbxFract: function(ui = {}) {
-      // RGBX / Fract
     }
   };
 
@@ -1444,7 +1453,8 @@ function renderDebugTexture(pixels) {
         particleRandoms: particlePonger.getCurrent('particleRandoms'),
         particles: particlePonger.getCurrent('particles'),
         particleMomentums: particlePonger.getCurrent('particleMomentums'),
-        particleForces: forceSplatTexture
+        particleForces: forceSplatTexture,
+        repelFieldGradient: fieldPonger.getCurrent('repelFieldGradient')
       });
 
       particlePonger.increment();
@@ -1521,7 +1531,7 @@ function renderDebugTexture(pixels) {
         document.getElementById('stats-fps-label').innerText = `${Math.trunc(instantaneousFps)} FPS`;
 
         linePlots['momentum'].plot.push([simulationTime, averageMomentum]);
-        linePlots['force'].plot.push([simulationTime, Math.random()/2]);
+        //linePlots['force'].plot.push([simulationTime, Math.random()/2]);
         linePlots['fps'].plot.push([simulationTime, instantaneousFps]);
       }
     }
