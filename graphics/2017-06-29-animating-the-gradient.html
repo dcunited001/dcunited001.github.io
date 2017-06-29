@@ -1,0 +1,886 @@
+<!doctype html>
+
+
+<!--[if lt IE 7 ]><html itemscope itemtype="http://schema.org/Article" id="ie6" class="ie ie-old" lang="en-US"><![endif]-->
+<!--[if IE 7 ]>   <html itemscope itemtype="http://schema.org/Article" id="ie7" class="ie ie-old" lang="en-US"><![endif]-->
+<!--[if IE 8 ]>   <html itemscope itemtype="http://schema.org/Article" id="ie8" class="ie ie-old" lang="en-US"><![endif]-->
+<!--[if IE 9 ]>   <html itemscope itemtype="http://schema.org/Article" id="ie9" class="ie" lang="en-US"><![endif]-->
+<!--[if gt IE 9]><!--><html itemscope itemtype="http://schema.org/Article" lang="en-US"><!--<![endif]-->
+<head>
+
+
+
+    <!-- Meta -->
+    <meta charset="utf-8">
+
+    <title>Animating The Gradient ♥ te.xel.io</title>
+    <meta http-equiv="X-UA-Compatible" content="IE=edge,chrome=1">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0, maximum-scale=1.0">
+    <meta content="yes" name="apple-mobile-web-app-capable">
+    <meta name="apple-mobile-web-app-status-bar-style" content="black-translucent">
+
+    <!-- RSS -->
+    <link rel="alternate" type="application/rss+xml" title="te.xel.io ♥ " href="/feed.xml">
+    <link rel="alternate" type="application/atom+xml" title="te.xel.io ♥ " href="/atom.xml">
+
+    <!-- Favicons -->
+    <link rel="shortcut icon" sizes="16x16 24x24 32x32 48x48 64x64 96x96" href="/favicon.ico">
+    <link rel="apple-touch-icon" sizes="57x57" href="/img/favicons/favicon-57.png">
+    <link rel="apple-touch-icon-precomposed" sizes="57x57" href="/img/favicons/favicon-57.png">
+    <link rel="apple-touch-icon" sizes="60x60" href="/img/favicons/favicon-60.png">
+    <link rel="apple-touch-icon" sizes="72x72" href="/img/favicons/favicon-72.png">
+    <link rel="apple-touch-icon" sizes="76x76" href="/img/favicons/favicon-76.png">
+    <link rel="apple-touch-icon" sizes="96x96" href="/img/favicons/favicon-96.png">
+    <link rel="apple-touch-icon" sizes="114x114" href="/img/favicons/favicon-114.png">
+    <link rel="apple-touch-icon" sizes="120x120" href="/img/favicons/favicon-120.png">
+    <link rel="apple-touch-icon" sizes="144x144" href="/img/favicons/favicon-144.png">
+    <link rel="apple-touch-icon" sizes="152x152" href="/img/favicons/favicon-152.png">
+    <link rel="apple-touch-icon" sizes="180x180" href="/img/favicons/favicon-180.png">
+    <link rel="apple-touch-icon" sizes="192x192" href="/img/favicons/favicon-192.png">
+    <meta name="application-name" content="te.xel.io ♥ ">
+    <meta name="msapplication-TileImage" content="/img/favicons/favicon-144.png">
+    <meta name="msapplication-TileColor" content="#ffffff">
+
+    <!-- Fonts -->
+    <link rel="stylesheet" href="//fonts.googleapis.com/css?family=Roboto+Condensed:300,300italic,400,400italic,700,700italic|Oswald:300,400,700">
+    <link rel="stylesheet" href="//maxcdn.bootstrapcdn.com/font-awesome/4.4.0/css/font-awesome.min.css">
+
+    <!-- Styles -->
+    <link rel="stylesheet" href="/css/style.css">
+    <!--[if lt IE 9]>
+        <script src="//cdnjs.cloudflare.com/ajax/libs/html5shiv/3.7.2/html5shiv.min.js"></script>
+        <script src="/js/respond.min.js"></script>
+    <![endif]-->
+</head>
+  <body class="">
+
+    <!-- ganalytics -->
+    <script>
+      (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
+      (i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
+      m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
+      })(window,document,'script','//www.google-analytics.com/analytics.js','ga');
+
+      ga('create', 'UA-49910074-1', 'xel.io');
+      ga('send', 'pageview');
+
+      var scrollDepthConfig = {}
+      ga('require', 'scrollDepthTracker', '/js/scroll-depth-tracker.js', scrollDepthConfig);
+
+      /* scrollDepthTracker defaults
+      action : 'Pageview End',
+      beacon : true,
+      category : 'Page',
+      debug : false,
+      delay : true,
+      labelNoScroll : 'Did Not Scroll',
+      labelScroll : 'Did Scroll',
+      sampleRate : 100,
+      scrollThreshold : 10,
+      setPage : true,
+      timeout : 300,
+      timeThreshold : 15,
+      metric : null,
+      maxTimeOnPage : 30
+      */
+    </script>
+
+    <nav class="navbar navbar-inverse navbar-fixed-top">
+        <div class="container-fluid">
+            <div class="navbar-header">
+                <button type="button" class="navbar-toggle collapsed" data-toggle="collapse" data-target="#navbar" aria-expanded="false" aria-controls="navbar">
+                    <span class="sr-only">Toggle navigation</span>
+                    <span class="icon-bar"></span>
+                    <span class="icon-bar"></span>
+                    <span class="icon-bar"></span>
+                </button>
+                <a class="navbar-brand" href="/">
+                  <span class="navbar-lambda">λ</span>&nbsp;
+                  <i class="fa fa-heart"></i>&nbsp;
+                  te.xel.io
+                </a>
+            </div>
+            <div id="navbar" class="navbar-collapse collapse">
+                <ul class="nav navbar-nav navbar-right">
+                    
+                        <li><a href="/graphics">3D & Math</a></li>
+                    
+                        <li><a href="/writing">Writing</a></li>
+                    
+                        <li><a href="/projects">Projects</a></li>
+                    
+                        <li><a href="/quotes">Quotes</a></li>
+                    
+                        <li><a href="/about">About</a></li>
+                    
+                        <li><a href="/tags">Tags</a></li>
+                    
+                    <li class="navbar-social">
+                      <a href="https://github.com/dcunited001"><i class="fa fa-lg fa-github"></i></a>
+                      <a href="https://twitch.tv/dcunit3d"><i class="fa fa-lg fa-twitch"></i></a>
+                      <a href="https://youtube.com/dcunited001"><i class="fa fa-lg fa-youtube"></i></a>
+                      <a href="https://twitter.com/dcunit3d"><i class="fa fa-lg fa-twitter"></i></a>
+                      <a href="https://linkedin.com/in/dcunit3d"><i class="fa fa-lg fa-linkedin"></i></a>
+                      <a href="https://angel.co/dcunit3d"><i class="fa fa-lg fa-angellist"></i></a>
+                      <a href="https://livecoding.tv/dcunit3d"><i class="fa fa-lg fa-code"></i></a>
+                    </li>
+                </ul>
+            </div>
+        </div>
+    </nav>
+
+
+<script type="text/javascript" src="/js/three.js"></script>
+<script type="text/javascript" src="/js/three/stats.js"></script>
+<script type="text/javascript" src="/js/3d.js"></script>
+<script type="text/javascript" src="/js/jscolor.js"></script>
+<script type="text/javascript" src="/js/gl-matrix.min.js"></script>
+<script type="text/javascript" src="/js/gltf-loader.js"></script>
+<script type="text/javascript" src="/js/highlight/highlight.pack.js"></script>
+<link rel="stylesheet" href="/js/highlight/styles/zenburn.css"/>
+
+
+
+<div class="title-group">
+  
+  <aside></aside>
+  
+
+  <h1 class="special">
+    <span>
+      
+      Animating The Gradient
+      
+    </span>
+  </h1>
+  
+  <aside>
+    06.29.17
+    
+    &middot;
+    
+    <span>Graphics</span>
+    
+    
+  </aside>
+  
+
+  <p>
+    λ&nbsp;<i class="fa fa-heart"></i>&nbsp;(&nbsp;
+    <a href="#" id="btn-subglyph" onclick="toggleSubglyph()" data-toggle="tooltip" title="Click Me To Escape Index-Based Censorship">§µßƍŁ¥þĦ ԠƎ</a>
+    &nbsp;)
+  </p>
+</div>
+
+
+<article>
+  
+    <div class="container">
+  <h4>Requires ES6 & WebGL 2.0 &#x2605; Runs Best In Firefox (and Chrome) &#x2605; Does Not Run On Mobile</h4>
+</div>
+
+<div id="canvas-ui-bar-top" class="navbar navbar-inverse navbar-graphics navbar-graphics-top">
+  <div class="container">
+    <div class="btn-group navbar-left">
+      <button id="btn-play-pause" class="btn btn-primary navbar-btn" onclick="togglePause()"><i class="fa fa-lg fa-pause"></i></button>
+      <button id="btn-activate-mic" class="btn btn-primary navbar-btn" onclick="activateMic()"><i class="fa fa-lg fa-microphone"></i></button>
+      <button id="btn-reset" class="btn btn-primary navbar-btn" onclick="setResetParticles()"><i class="fa fa-lg fa-refresh"></i></button>
+      <button type="button" class="btn btn-primary navbar-btn dropdown-toggle" data-toggle="dropdown">
+        <span class="caret"></span>
+        <span class="sr-only">Toggle Dropdown</span>
+      </button>
+      <ul class="dropdown-menu">
+        <li><a href="#" onclick="setResetParticlesWith('random')">Random Momentums</a></li>
+        <li><a href="#" onclick="setResetParticlesWith('outward')">Outward: (x,y)</a></li>
+        <li><a href="#" onclick="setResetParticlesWith('inward')">Inward: (-x,-y)</a></li>
+        <li><a href="#" onclick="setResetParticlesWith('right-vortex')">Right Vortex: (y,-x)</a></li>
+        <li><a href="#" onclick="setResetParticlesWith('left-vortex')">Left Vortex: (-y,x)</a></li>
+        <li><a href="#" onclick="setResetParticlesWith('merger')">Merger: (-y,-x)</a></li>
+        <li><a href="#" onclick="setResetParticlesWith('vector-field-xy-x')">p(x,y) = (xy,-x)</a></li>
+        <li><a href="#" onclick="setResetParticlesWith('vector-field-y-xy')">p(x,y) = (y,xy)</a></li>
+      </ul>
+    </div>
+
+    <ul class="nav navbar-nav navbar-left">
+      <li><span class="navbar-label"></span></li>
+    </ul>
+
+    <div class="btn-group navbar-left">
+      <button id="btn-activate-profile-2" class="btn btn-warning navbar-btn" onclick="activateProfile('random')"><i class="fa fa-lg fa-bolt"></i></button>
+      <button id="btn-activate-profile-4" class="btn btn-warning navbar-btn" onclick="activateProfile('defaults')"><i class="fa fa-lg fa-refresh"></i></button>
+    </div>
+
+    <div class="btn-group navbar-right" data-toggle="buttons">
+      <label class="btn btn-lit btn-lit-primary navbar-btn"><input id="toggle-plot-momentum" type="checkbox" autocomplete="off"/>Momentum</label>
+      <!--<label class="btn btn-lit btn-lit-success navbar-btn"><input id="toggle-plot-force" type="checkbox" autocomplete="off"/>Force</label>-->
+      <label class="btn btn-lit btn-lit-danger navbar-btn"><input id="toggle-plot-fps" type="checkbox" autocomplete="off"/>FPS</label>
+    </div>
+
+    <ul class="nav navbar-nav navbar-right">
+      <li><span class="navbar-label"><i class="fa fa-lg fa-line-chart"></i></span></li>
+    </ul>
+  </div>
+</div>
+
+<div id="main-canvas-container" class="canvas-container">
+  <canvas id="main-canvas" class="wide-canvas" height="500"></canvas>
+</div>
+
+<div id="canvas-ui-bar-bottom" class="navbar navbar-inverse navbar-graphics navbar-graphics-bottom">
+  <div class="container">
+    <ul class="nav navbar-nav navbar-left">
+      <li><span class="navbar-label"><i class="fa fa-lg fa-paper-plane-o"></i></span></li>
+    </ul>
+
+    <div class="btn-group navbar-left" data-toggle="buttons">
+      <label class="btn btn-lit-info btn-lit navbar-btn"><input type="radio" name="physics-method" value="0"/>Brownian</label>
+      <label class="btn btn-lit-info btn-lit navbar-btn active"><input type="radio" name="physics-method" value="1" checked/>Splat</label>
+      <label class="btn btn-lit-info btn-lit navbar-btn"><input type="radio" name="physics-method" value="2"/>Gradient</label>
+    </div>
+
+    <ul class="nav navbar-nav navbar-left">
+      <li><span class="navbar-label"><i class="fa fa-lg fa-map"></i></span></li>
+    </ul>
+
+    <div class="btn-group navbar-left" data-toggle="buttons">
+      <label class="btn btn-lit-info btn-lit navbar-btn active"><input type="radio" name="render-texture" value="0" checked/>Field</label>
+      <label class="btn btn-lit-info btn-lit navbar-btn"><input type="radio" name="render-texture" value="1"/>Gradient</label>
+      <label class="btn btn-lit-info btn-lit navbar-btn"><input type="radio" name="render-texture" value="2"/>RGBX</label>
+    </div>
+
+    <ul class="nav navbar-nav navbar-left">
+      <li><span class="navbar-label"><i class="fa fa-lg fa-calculator"></i></span></li>
+    </ul>
+
+    <div class="btn-group navbar-left" data-toggle="buttons">
+      <label class="btn btn-lit-info btn-lit navbar-btn"><input id="fract-render-values" type="checkbox"/>Fract</label>
+      <label class="btn btn-lit-info btn-lit navbar-btn active"><input id="scale-render-values" type="checkbox" checked/>Sigmoid</label>
+      <label class="btn btn-lit-info btn-lit navbar-btn"><input id="render-magnitude" type="checkbox"/>Norm</label>
+    </div>
+
+    <ul class="nav navbar-nav navbar-left">
+      <li><span class="navbar-label"><i class="fa fa-lg fa-map"></i></span></li>
+    </ul>
+
+    <div class="btn-group navbar-left" data-toggle="buttons">
+      <label class="btn btn-lit-info btn-lit navbar-btn active"><input type="radio" name="space-type" value="0"/>Finite</label>
+      <label class="btn btn-lit-info btn-lit navbar-btn"><input type="radio" name="space-type" value="1" checked/>Wrapped</label>
+      <label class="btn btn-lit-info btn-lit navbar-btn"><input type="radio" name="space-type" value="2"/>Infinite</label>
+    </div>
+
+    <ul class="nav navbar-nav navbar-right">
+      <li><span id="stats-fps-label" class="btn btn-danger btn-group-label navbar-btn">0.00 FPS</span></li>
+    </ul>
+  </div>
+</div>
+
+<div class="container">
+  <div class="row">
+    <div class="col-sm-6">
+      <label for="particle-count">Particle Count:</label>
+      <input id="particle-count" type="range" min="16" max="5120" step="16" value="512"/>
+
+      <label for="particle-speed">Particle Speed Factor:</label>
+      <input id="particle-speed" type="range" min="0.00625" max="2.0" step="0.00625" value="0.05"/>
+
+      <!--<label for="particle-mass">Particle Mass:</label>-->
+      <!--<input id="particle-mass" type="range" min="0.00625" max="2.0" step="0.00625" value="1.0"/>-->
+
+      <label for="r-coefficient">R-Force Coefficient:</label>
+      <input id="r-coefficient" type="range" min="0.001" max="10.0" step="0.0001" value="0.1"/>
+
+      <label for="field-size">Field Effect Size:</label>
+      <input id="field-size" type="range" min="1.0" max="300.0" step="1.0" value="75.0"/>
+
+      <label for="max-field-lines">Clamp Field Lines:</label>
+      <input id="max-field-lines" type="range" min="0.0" max="10.0" step="1.0" value="1.0"/>
+
+      <div><input id="scale-force-to-space" type="checkbox" class="checkbox-inline"/>&nbsp;Scale Force to Space</div>
+      <div><input id="circular-field-effect" type="checkbox" class="checkbox-inline" checked/>&nbsp;Circular Field</div>
+      <div><input id="defer-gradient-calc" type="checkbox" class="checkbox-inline"/>&nbsp;Defer Gradient Calculation</div>
+    </div>
+
+    <div class="col-sm-6">
+      <div class="panel panel-default">
+        <div class="panel-body">
+          <label for="audio-color-shift-gain">Gain</label>
+          <input id="audio-color-shift-gain" type="range" min="0.01" max="5.0" step="0.01" value="1.0"/>
+
+          <div><input id="audio-color-shift-enabled" type="checkbox"/>&nbsp;Enable Audio Color Shift</div>
+
+          <label for="audio-color-shift-r">R-Period</label>
+          <input id="audio-color-shift-r" type="range" min="200" max="2500" step="1" value="1257"/>
+
+          <label for="audio-color-shift-g">G-Period</label>
+          <input id="audio-color-shift-g" type="range" min="200" max="2500" step="1" value="1153"/>
+
+          <label for="audio-color-shift-b">B-Period</label>
+          <input id="audio-color-shift-b" type="range" min="200" max="2500" step="1" value="1297"/>
+        </div>
+      </div>
+    </div>
+  </div>
+</div>
+
+  
+
+  <div class="container">
+    <section class="article-content">
+      <pre class="highlight">Fragment Shader: fsUpdateParticles<code id="codeFsUpdateParticles"></code></pre>
+<pre class="highlight">Vertex Shader: vsFields<code id="codeVsFields"></code></pre>
+<pre class="highlight">Fragment Shader: fsFields<code id="codeFsFields"></code></pre>
+<pre class="highlight">Fragment Shader: fsGradients<code id="codeFsGradients"></code></pre>
+<pre class="highlight">Fragment Shader: fsRenderFields<code id="codeFsRenderFields"></code></pre>
+<pre class="highlight">Fragment Shader: fsForceSplat<code id="codeFsForceSplat"></code></pre>
+<pre class="highlight">Vertex Shader: vsLinePlotTransform<code id="codeVsLinePlotTransform"></code></pre>
+
+<script type="x-shader/x-vertex" id="vsPass">
+layout(location = 0) in vec3 a_position;
+layout(location = 1) in vec2 a_texcoord;
+
+out vec2 v_st;
+out vec3 v_position;
+
+void main() {
+  v_st = a_texcoord;
+  v_position = a_position;
+  gl_Position = vec4(a_position, 1.0);
+}
+</script>
+
+<script type="x-shader/x-vertex" id="fsForceSplat">
+uniform vec2 u_resolution;
+uniform ivec2 u_particleUv;
+uniform float u_rCoefficient;
+uniform int u_particleIdLimit;
+
+uniform sampler2D s_particles;
+
+layout(location = 0) out vec4 particleUpdates;
+
+vec2 calcForce(vec2 r, vec2 r2) {
+  vec2 dr = r - r2;
+  float d = distance(r, r2);
+  float rad = atan(dr.y, dr.x);
+  return vec2(cos(rad), sin(rad)) / d;
+}
+
+void main() {
+  ivec2 uv = ivec2(trunc(gl_FragCoord));
+
+  if (uv.x * uv.y + uv.x > u_particleIdLimit) { discard; }
+  if (uv == u_particleUv) { discard; }
+
+  vec4 accumulatorParticle = texelFetch(s_particles, uv, 0);
+  vec4 particle = texelFetch(s_particles, u_particleUv, 0);
+
+  particleUpdates.xy = u_rCoefficient * calcForce(accumulatorParticle.xy, particle.xy);
+}
+</script>
+
+<script type="x-shader/x-fragment" id="fsUpdateParticles">
+uniform vec2 u_resolution;
+uniform ivec4 u_randomSeed;
+uniform float u_particleSpeed;
+uniform vec4 u_deltaTime;
+uniform int u_spaceType;
+uniform int u_physicsMethod;
+
+uniform isampler2D s_particleRandoms;
+uniform sampler2D s_particles;
+uniform sampler2D s_particleMomentums;
+uniform sampler2D s_particleForces;
+
+//uniform sampler2D s_repelFieldGradient
+
+#define physicsMethodBrownian 0
+#define physicsMethodSplat 1
+#define physicsMethodGradient 2
+
+#define spaceTypeFinite 0
+#define spaceTypeWrapped 1
+#define spaceTypeInfinite 2
+
+in vec2 v_st;
+in vec3 v_position;
+
+layout(location = 0) out ivec4 random;
+layout(location = 1) out vec4 particle;
+layout(location = 2) out vec4 particleMomentums;
+
+// TODO: temperature: update another texture with particle velocities
+// layout(location = 2) out vec4 particleVelocities
+
+const float maxInt = 2147483647.0;
+
+void main() {
+  vec2 uv = gl_FragCoord.xy / u_resolution.xy;
+
+  // =======================================
+  // Update Randoms
+  // =======================================
+
+  ivec4 randomTexel = texture(s_particleRandoms, uv);
+
+  vec2 texelCoords[4];
+  texelCoords[0] = mod(gl_FragCoord.xy + vec2( 0.0, -2.0), u_resolution.xy) / u_resolution.xy;
+  texelCoords[1] = mod(gl_FragCoord.xy + vec2( 1.0,  0.0), u_resolution.xy) / u_resolution.xy;
+  texelCoords[2] = mod(gl_FragCoord.xy + vec2( 0.0,  1.0), u_resolution.xy) / u_resolution.xy;
+  texelCoords[3] = mod(gl_FragCoord.xy + vec2(-1.0,  1.0), u_resolution.xy) / u_resolution.xy;
+
+  ivec4 texels[4];
+  texels[0] = texture(s_particleRandoms, texelCoords[0]);
+  texels[1] = texture(s_particleRandoms, texelCoords[1]);
+  texels[2] = texture(s_particleRandoms, texelCoords[2]);
+  texels[3] = texture(s_particleRandoms, texelCoords[3]);
+
+  ivec4 newRandom = u_randomSeed ^ randomTexel ^ texels[0] ^ texels[1] ^ texels[2] ^ texels[3];
+  random = newRandom;
+
+  particleMomentums = texture(s_particleMomentums, uv);
+  vec2 netForce = vec2(0.0, 0.0);
+
+  switch (u_physicsMethod) {
+
+    case physicsMethodBrownian:
+      if (u_physicsMethod == physicsMethodBrownian) {
+        vec4 newRandomFloat = fract(vec4(newRandom) / maxInt + 0.5) - 0.5 ;
+        netForce = newRandomFloat.xy;
+      }
+      break;
+
+    case physicsMethodSplat:
+      if (u_physicsMethod == physicsMethodSplat) {
+        netForce = texture(s_particleForces, uv).xy;
+      }
+      break;
+
+    case physicsMethodGradient:
+      if (u_physicsMethod == physicsMethodGradient) {
+
+
+        // TODO: update from gradient
+      }
+      break;
+  }
+
+  // =======================================
+  // Update Particles
+  // =======================================
+  particle = texture(s_particles, uv);
+
+  // TODO: adjust units for u_particleSpeed (and fix in netForce calcs above)
+
+  particleMomentums.xy += netForce * u_deltaTime.x / 1000.0;
+  vec2 particleUpdate = u_particleSpeed * particleMomentums.xy * u_deltaTime.x / 1000.0;
+
+  switch (u_spaceType) {
+    case spaceTypeFinite:
+      particle.x = particle.x + particleUpdate.x;
+      particle.y = particle.y + particleUpdate.y;
+      break;
+    case spaceTypeWrapped:
+      particle.x = mod(particle.x + particleUpdate.x + 1.0, 2.0) - 1.0;
+      particle.y = mod(particle.y + particleUpdate.y + 1.0, 2.0) - 1.0;
+      break;
+    case spaceTypeInfinite:
+      particle.x = particle.x + particleUpdate.x;
+      particle.y = particle.y + particleUpdate.y;
+      break;
+  }
+}
+</script>
+
+<script type="x-shader/x-vertex" id="vsFields">
+uniform float u_fieldSize;
+uniform float u_rCoefficient;
+uniform sampler2D s_particles;
+
+layout(location = 0) in int a_index;
+
+flat out int v_particleId;
+out float v_pointSize;
+//out vec4 v_position; // not linkable to fsFields ?
+
+const float maxInt = 2147483647.0;
+
+void main()
+{
+  // textureSize must return ivec & texelFetch must accept ivec
+  ivec2 texSize = textureSize(s_particles, 0);
+
+  ivec2 texel = ivec2(a_index % texSize.x, a_index / texSize.x);
+  vec4 particle = texelFetch(s_particles, texel, 0);
+
+  v_particleId = a_index;
+  v_pointSize = u_fieldSize;
+
+  gl_Position = vec4(particle.x, particle.y, 0.0, 1.0);;
+  gl_PointSize = v_pointSize;
+}
+</script>
+
+<script type="x-shader/x-fragment" id="fsFields">
+uniform vec2 u_resolution;
+uniform float u_rCoefficient;
+uniform sampler2D s_particleMomentums;
+uniform bool u_deferGradientCalc;
+uniform bool u_circularFieldEffect;
+uniform bool u_forceCalcInGlPointSpace;
+
+//in vec4 v_position; // not linkable to fsFields ?
+in float v_pointSize;
+flat in int v_particleId;
+
+layout(location = 0) out vec4 repelForce;
+layout(location = 1) out vec4 repelFieldGradient;
+
+vec2 calculateRForce(vec2 point, vec2 center) {
+  vec2 pointOffset = point.xy - center;
+  float d = distance(point.xy, center);
+  float rad = atan(pointOffset.y, pointOffset.x);
+  return vec2(cos(rad), sin(rad)) / d;
+}
+
+void main()
+{
+  if (u_circularFieldEffect && distance(gl_PointCoord.xy, vec2(0.5,0.5)) > 0.5) { discard; }
+
+  vec2 particleCenter = vec2(0.5, 0.5);
+  vec2 fieldPoint = gl_PointCoord.xy;
+  vec2 delta = vec2(1.0, 1.0);
+
+  if (!u_forceCalcInGlPointSpace) {
+     particleCenter *= v_pointSize;
+     fieldPoint *= v_pointSize;
+  } else {
+    // incorrect but causes the shape of the field space to be emphasized
+    delta /= v_pointSize;
+  }
+  vec2 rForce = u_rCoefficient * calculateRForce(fieldPoint, particleCenter);
+  repelForce = vec4(rForce.xy, 0.0, 1.0);
+
+  if (!u_deferGradientCalc) {
+    vec2 fieldPoint2 = fieldPoint + delta;
+    vec2 df = u_rCoefficient * calculateRForce(fieldPoint2.xy, particleCenter) - rForce;
+
+    // jacobian of the vector field
+    repelFieldGradient = vec4(
+      df.x / delta.x, df.x / delta.y,
+      df.y / delta.x, df.y / delta.y);
+  }
+}
+</script>
+
+<script type="x-shader/x-fragment" id="fsGradients">
+uniform vec2 u_resolution;
+uniform sampler2D s_repelField;
+uniform sampler2D s_repelComp;
+uniform bool u_forceCalcInGlPointSpace;
+
+// R: (df1/dx)
+// G: (df1/dy)
+// B: (df2/dx)
+// A: (df2/dy)
+layout(location = 0) out vec4 repelFieldGradient;
+
+void main() {
+  vec2 uv = gl_FragCoord.xy / u_resolution.xy;
+  vec2 delta = vec2(1.0, 1.0);
+
+  vec2 uv2 = mod(gl_FragCoord.xy + delta, u_resolution.xy) / u_resolution.xy;
+  vec4 df = texture(s_repelField, uv2) - texture(s_repelField, uv);
+
+  // gradient of a vector field (jacobian)
+  repelFieldGradient = vec4(
+    df.x / delta.x, df.x / delta.y,
+    df.y / delta.x, df.y / delta.y);
+}
+</script>
+
+<script type="x-shader/x-fragment" id="fsRenderFields">
+uniform vec2 u_resolution;
+uniform float u_rCoefficient;
+uniform bool u_fractRenderValues;
+uniform bool u_renderMagnitude;
+uniform bool u_scaleRenderValues;
+uniform int u_renderTexture;
+uniform float u_maxFieldLines;
+
+uniform bool u_audioColorShiftEnabled;
+uniform vec3 u_audioColorShift;
+
+uniform sampler2D s_repelField;
+uniform sampler2D s_repelFieldGradient;
+
+#define renderTextureField 0
+#define renderTextureGradient 1
+#define renderTexture4Channel 2
+
+out vec4 color;
+
+const float maxIntFloat = 2147483647.0;
+
+void main() {
+  vec2 uv = gl_FragCoord.xy / u_resolution.xy;
+
+  vec4 rForce = texture(s_repelField, uv);
+  vec4 rGradient = texture(s_repelFieldGradient, uv);
+
+  switch (u_renderTexture) {
+    case renderTextureField:
+      if (u_renderMagnitude) {
+        color = vec4(
+          distance(vec2(0.0,0.0), rForce.xy),
+          0.0,
+          0.0,
+          1.0);
+      } else {
+        color = vec4(
+          rForce.x,
+          rForce.y,
+          0.0,
+          1.0);
+      }
+      break;
+    case renderTextureGradient:
+      if (u_renderMagnitude) {
+        color = vec4(
+          4.0 * distance(rGradient.xz, vec2(0.0,0.0)),
+          4.0 * distance(rGradient.yw, vec2(0.0,0.0)),
+          0.0,
+          1.0);
+      } else {
+        color = vec4(
+          4.0 * rGradient.x,
+          4.0 * rGradient.y,
+          4.0 * rGradient.z,
+          1.0);
+      }
+      break;
+    case renderTexture4Channel:
+      if (u_renderMagnitude) {
+        color = vec4(
+          4.0 * distance(rGradient.x, 0.0),
+          4.0 * distance(rGradient.z, 0.0),
+          4.0 * (distance(rGradient.y, 0.0) * distance(rGradient.w, 0.0)),
+          1.0);
+      } else {
+        color = vec4(
+          4.0 * rGradient.x * rGradient.z,
+          4.0 * rGradient.z * rGradient.w,
+          4.0 * (rGradient.y * rGradient.w),
+          1.0);
+      }
+      break;
+  }
+
+  if (u_scaleRenderValues) {
+      vec3 scaled = 1.0/(1.0 + exp(-color.xyz));
+      color = 10.0 * vec4(scaled - 0.5, 1.0);
+  }
+
+  if (u_audioColorShiftEnabled) {
+    color = vec4(color.rgb + u_audioColorShift.rgb, 1.0);
+  }
+
+  if (u_fractRenderValues) {
+    if (u_maxFieldLines > 0.0) {
+      color.xyz = clamp(color.xyz, -u_maxFieldLines, u_maxFieldLines);
+    }
+    color = vec4(fract(color.xyz), 1.0);
+  }
+}
+</script>
+
+<script type="x-shader/x-fragment" id="fsMipmapAggregate">
+uniform vec2 resolution;
+
+out vec4 particleMomentum;
+out vec4 particleMomentumStats;
+
+out vec4 particleForce;
+out vec4 particleForceStats;
+
+void main() {
+
+}
+</script>
+
+<script type="x-shader/x-vertex" id="vsLinePlotTransform">
+uniform mat4x4 u_projection;
+uniform float u_lineWidth;
+
+layout(location = 0) in vec2 a_position;
+
+out vec4 v_positionA;
+out vec4 v_positionB;
+
+void main() {
+  v_positionA = u_projection * vec4(a_position.x, a_position.y, 0.0, 1.0);
+  v_positionB = u_projection * vec4(a_position.x, a_position.y, 0.0, 1.0);
+
+  v_positionA.y += u_lineWidth;
+  v_positionB.y -= u_lineWidth;
+
+  gl_Position = v_positionA;
+}
+</script>
+
+<script type="x-shader/x-vertex" id="fsNull">
+out vec4 color;
+
+void main() {
+
+}
+</script>
+
+<script type="x-shader/x-fragment" id="vsLinePlot">
+layout(location = 0) in vec4 a_position;
+
+out vec3 v_position;
+
+void main() {
+  gl_Position = a_position;
+}
+</script>
+
+<script type="x-shader/x-fragment" id="fsLinePlot">
+uniform vec4 u_lineColor;
+
+out vec4 color;
+
+void main() {
+  color = u_lineColor;
+}
+</script>
+
+<script type="x-shader/x-fragment" id="fsParticleAggregatesFilter">
+// TODO: add filters for particle aggregates
+uniform vec4 ;
+
+uniform vec2 u_resolution;
+uniform ivec2 u_particleUv;
+uniform int u_particleIdLimit;
+
+uniform sampler2D s_momentums;
+uniform sampler2D s_forces;
+uniform sampler2D s_deltaForces;
+
+layout(location = 0) out vec4 momentum;
+layout(location = 1) out vec4 deltaMomentum;
+layout(location = 2) out vec4 force;
+layout(location = 3) out vec4 deltaForce;
+
+// TODO: implement a filter for aggregates
+
+void main() {
+  ivec2 uv = ivec2(trunc(gl_FragCoord));
+
+  if (uv.x * uv.y + uv.x > u_particleIdLimit) {
+    // TODO: replace with 'null' value
+    momentum = vec4(0.0, 0.0, 0.0, 0.0);
+    deltaMomentum = vec4(0.0, 0.0, 0.0, 0.0);
+    force = vec4(0.0, 0.0, 0.0, 0.0);
+    deltaForce = vec4(0.0, 0.0, 0.0, 0.0);
+  } else {
+    momentum = vec4(texelFetch(s_momentums, uv, 0).xy, 0.0, 0.0);
+    deltaMomentum = vec4(texelFetch(s_momentums, uv, 0).zw, 0.0, 0.0);
+    force = vec4(texelFetch(s_forces, uv, 0));
+    deltaForce = vec4(texelFetch(s_deltaForces, uv, 0));
+  }
+}
+</script>
+
+<script type="text/javascript" src="/js/3d/utils/quad.js"></script>
+
+<script type="text/javascript" src="/js/3d/utils/line_plot.js"></script>
+
+<script type="text/javascript" src="/js/3d/utils/mip_reducer.js"></script>
+
+<script type="text/javascript" src="/js/3d/2017-06-29-animating-the-gradient.es6.js"></script>
+
+<script type="text/javascript">
+  function pasteShaderToCodeBlock(shaderId, codeBlockId) {
+    var shaderCode = document.getElementById(shaderId).textContent;
+    var codeBlock = document.getElementById(codeBlockId);
+    codeBlock.innerHTML = shaderCode;
+    hljs.highlightBlock(codeBlock);
+  }
+
+  pasteShaderToCodeBlock('fsUpdateParticles', 'codeFsUpdateParticles');
+  pasteShaderToCodeBlock('vsFields', 'codeVsFields');
+  pasteShaderToCodeBlock('fsFields', 'codeFsFields');
+  pasteShaderToCodeBlock('fsGradients', 'codeFsGradients');
+  pasteShaderToCodeBlock('fsRenderFields', 'codeFsRenderFields');
+  pasteShaderToCodeBlock('fsForceSplat', 'codeFsForceSplat');
+  pasteShaderToCodeBlock('vsLinePlotTransform', 'codeVsLinePlotTransform');
+</script>
+
+
+    </section>
+  </div>
+
+  <div class="container">
+    <section class="comments">
+      
+<div id="disqus_thread"></div>
+<script type="text/javascript">
+  window.disqus_identifier="";
+  window.disqus_url="https://te.xel.io//graphics/2017-06-29-animating-the-gradient.html";
+  window.disqus_title="Animating The Gradient";
+</script>
+<script type="text/javascript" src="https://disqus.com/forums/te-xel-io/embed.js"></script>
+<noscript><a href="https://te-xel-io.disqus.com/?url=ref">View the discussion thread.</a></noscript>
+
+
+    </section>
+  </div>
+
+</article>
+
+    <footer class="site-footer">
+        <div class="container">
+            <div class="row">
+                <div class="col-md-12">
+                  <p class="text-muted">
+                    dconner.pro@gmail.com&nbsp; &copy; 2017
+                    &nbsp;<a href="/feed.xml"><i class="fa fa-rss-square"></i></a>
+                    &nbsp;<a href="/atom.xml"><i class="fa fa-rss"></i></a>
+                  </p>
+                </div>
+            </div>
+        </div>
+    </footer>
+
+    <!-- JavaScript -->
+    <script src="//ajax.googleapis.com/ajax/libs/jquery/1.9.1/jquery.min.js"></script>
+    <script src="//maxcdn.bootstrapcdn.com/bootstrap/3.3.5/js/bootstrap.min.js"></script>
+    <script src="/js/tagcanvas.min.js" type="text/javascript"></script>
+    <script src="/js/underscore.js"></script>
+
+    
+
+    <script src="http://cdn.mathjax.org/mathjax/latest/MathJax.js?config=TeX-AMS-MML_HTMLorMML" type="text/javascript"></script>
+    <script src="/js/subglyph/subglyph.js" type="text/javascript"></script>
+
+    <!-- load remotely -->
+    <script src="http://te.xel.io/js/subglyph/subglyph-dictionary.js" type="text/javascript" charset="UTF-16"></script>
+
+    <script>
+      var btnSubglyph = $('#btn-subglyph');
+      btnSubglyph.tooltip();
+
+      subglyph = new Subglyph({
+        dictionary: SUBGLYPH_DEFAULTS
+      });
+
+      toggleSubglyph = function() {
+        var article = document.getElementsByTagName('article')[0];
+        var newArticleHTML = subglyph.glyphIt(article);
+        article.innerHTML = newArticleHTML;
+      }
+    </script>
+    </body>
+</html>
+
