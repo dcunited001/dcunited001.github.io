@@ -553,7 +553,7 @@ imposed by space begin to dissolve as the initial distribution of
 minerals accross the earth become paradoxically increasingly more and
 less determinant of economic trends.
 
-That is all philosophical, of which (the ideal) is meaningless without
+That is all philosophical, of which the ideals are meaningless without
 knowledge of chemistry, physics and engineering. In order to make any
 rational predictions about the nature of fabrication technology
 requires an intimate knowledge of materials science, computational
@@ -1297,7 +1297,8 @@ Groups planning to capitalizing on the economic chaos by rewriting the
 narrative to undermine the American economic system are leading us
 right off a cliff. Revolution involves transfer of power and of
 assets, either legally, nomininally or just functionally. That's how
-Marxist revolution works.
+Marxist revolution works. That transfer is incredibly expensive and
+wasteful.
 
 It's not a matter of opinion. There will be economic crisis and any
 friction or discord in America's reaction is unacceptable. America
