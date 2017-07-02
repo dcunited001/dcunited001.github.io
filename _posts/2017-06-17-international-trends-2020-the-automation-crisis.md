@@ -178,6 +178,10 @@ converge towards a more final state. This crisis represents a
 tumultuous transition towards economic convergence, but may spiral out
 of control, especially without cooperation.
 
+#### Dali's Work on Service-Oriented Economies
+
+![Dali's Work on Service-Oriented Economies](/img/posts/2017-06-17-international-trends-2020-the-automation-crisis/dali-service-oriented-economy.jpg)
+
 <a name="the-strongest-system-wide-dynamics" />
 
 ### [The Strongest System-Wide Dynamics](#the-strongest-system-wide-dynamics-in-this-crisis)
