@@ -285,6 +285,8 @@ than its worth.
   a pattern language.
   - they're like the fucking Mensa Mafia.
 
+### Merlin, Arthur and the Sword in the Stone as a Test for Intelligence
+
 <a name="architypical-events-in-human-history" />
 
 ### [Architypical Events in Human History](#architypical-events-in-human-history)

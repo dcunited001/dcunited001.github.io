@@ -184,7 +184,7 @@ of.
 
 #### &#x13EB; [Karma](#karma)
 
-#### &#x13EB; [Devine Connection](#devine-connection)
+#### &#x13EB; [Divine Connection](#divine-connection)
 
 #### &#x13EB; [Wisdom of All](#wisdom-of-all)
 
@@ -422,16 +422,16 @@ tremendous value in developing our own thoughts. Yet, because it's so
 difficult to do so once we're exposed to superior means of framing
 philosophical questions, we never have that chance.
 
-And we perceive these ancient people to be ignorant because they lacked
-technology when actually our way of life almost completely clouds our
-vision and our minds.  We deal with so much irrelevant information and
-non-sense. Our lives are structured so that we cannot see beyond
-our blinders. In some cases, it is impossible to reach many of the
-same insights, which ancient people might consider common sense.
+And we perceive these ancient people to be ignorant because they
+lacked technology when actually our way of life almost completely
+clouds our vision and our minds.  We deal with so much irrelevant
+information and non-sense. Our lives are structured so that we cannot
+see beyond our blinders. In some cases, it is impossible to reach many
+of the same insights that ancient people might consider common sense.
 
-In fact, this is one idea behind the area of Buddhist eschatology
-dealing with Maitreya.  Maitreya will appear in the future when most
-people are disconnected with the dharma and he will achieve
+This is one perspective I entertained when examining Buddhist
+eschatology dealing with Maitreya.  Maitreya will appear in the future
+when most people are disconnected with the dharma and he will achieve
 enlightenment. After a certain point, people will lead incredibly long
 lives and they will completely lose the ability to become enlightened
 for a very long time. I want to refrain from making too many
@@ -467,21 +467,20 @@ label you, the louder and more vocal they are, and the more uniform
 their assertions, the easier it becomes to give in.
 
 Too often, I have allowed my silence and inaction to lead me to
-becoming defined by others, and honestly, I am so fucking tired of
-that.  Do not try to label me or define me or tell me what I believe
-or explain to others what I think. I define myself. I have my own
-beliefs. I think my own thoughts. And no one should assume they have
-the right to ANY of that.
+becoming defined by others, and honestly, I am so tired of that.  Do
+not try to label me or define me or tell me what I believe or explain
+to others what I think. I define myself. I have my own beliefs. I
+think my own thoughts. And no one should assume they have the right to
+ANY of that.
 
 I have sacrificed so much in order to never give in, in order to
-openly support drug legalization, so I will be damned if I let someone
-else define me or speak for me. Though, honestly, letting someone else
-speak for me probably wouldn't be too bad. However, I have been
+openly support controversial causes like drug legalization. I will be
+damned if I let someone else define me or speak for me. I have been
 victimized in the workplace by a handful of people and I just sat idly
 by, not wanting to say anything wrong or worried that I'd sink to
 their level. And I just sat there, while they made my life miserable;
 they ruined my life and I just sat there!  They obliterated any
-confidence anyone had in my in my workplace and they did so in a
+confidence anyone had in me at my workplace and they did so in a
 calculated, strategic manner.
 
 And so my point is: do not find yourself in this position.  Define
@@ -490,19 +489,19 @@ others and especially to understand how they see you.
 
 Conversely and by corrolary, make it easier for others to define
 themselves, authentically.  You can do this by providing better
-information to them about how you perceive them, though not
-necessarily in a direct manner. You can give them the space and
-autonomy to grow. You can share anecdotes and experience that might
-end up being important to how they see themselves or what they decide
-to do with their career.
+information to them about how you perceive them. It may not be tactful
+to do in a direct manner and it may be more effective to do this
+indirectly. You can give them the space and autonomy to grow. You can
+share anecdotes and experience that might end up being important to
+how they see themselves or what they decide to do with their career.
 
-But always be aware of the lens you're using to view them: is this a
+Always be aware of the lens you're using to view them: is this a
 perspective you've constructed independently? Is it honest? Is it
 helpful? If this person needs change, do they want to change? Is that
-desire to change just verbal or at the conscious level? Or does it
-appear that the desire for change motives a few actions or does it
-permeate their actions? It's important to be realistic and keep your
-goals in mind.
+desire to change just verbal or is it conscious? Or does it appear
+that the desire for change motives a few actions or does it permeate
+their thoughts and actions? It's important to be realistic and keep
+your goals in mind.
 
 There was a Rick and Morty episode about this concept of envisioning
 someone in terms of their potential instead of their flaws. To
@@ -543,18 +542,19 @@ many opportunities for growth, resulting from partly my own failure to
 recognize this, paired with the fact that many of the people around me
 wanted me to ultimately fail. A decade later, I found myself asking
 "Why the fuck did they not suggest X or advise me about Y?" The reason
-is because many of the people around me never wanted me to succeed,
+is because a few people around me didn't actually want me to succeed,
 but they also did not want to appear to interfere. Why? Drug
-legalization. It was because I supported legalization.
+legalization. It was because I supported legalization and other
+controversial causes.
 
 Actively or passively preventing someone from giving back to others
-and being a positive influence in their live is the equivalent to
+and being a positive influence in their life is the equivalent to
 topping a tree. Their social network will be so stunted later in their
 life and they probably won't know what happened. Again, there's much I
 could have done and it's hard to argue that this was intentional.
 Maybe they were justified. Maybe they never thought to do that and
-it's just a coincidence that my only protege stabbed me in the back
-more times than I can count.
+it's just a coincidence that my people stabbed me in the back more
+times than I can count.
 
 <a name="light-dark-good-evil"/>
 
@@ -594,8 +594,8 @@ certain facts. And you'll find that manipulative or abusive people
 will try to threaten you into not making information known. And
 perpetrators of specific crimes, especially experienced repeat
 offenders will try to ascertain specific peices of information to
-gauge the likelihood of problems. If you provide them specific answers
-that indicate vulnerability, they might take action.
+gauge the likelihood of success or problems. If you provide them
+specific answers that indicate vulnerability, they might take action.
 
 If they're clever, they won't indicate or alarm you when they're
 searching for this information. *THIS ITSELF IS THE BIGGEST RED FLAG.*
@@ -609,12 +609,12 @@ the order in which they attempt to acquire information, it obscures
 cause and effect and becomes harder to detect that someone is going to
 pull one over on you.
 
-So, in order to recognize these situations, you really have to become
-aware of the kinds of crimes or ethical omissions that people might
-want to commit. You need to know what would motivate someone towards
-that end or in what ways someone could be compelled to commit a
-crime. Understanding the process, time and materials required for such
-actions is also important in understand what information someone
+In order to recognize these situations, you have to become aware of
+the kinds of crimes or ethical omissions that people might want to
+commit. You need to know what would motivate someone towards that end
+or in what ways someone could be compelled to commit a crime.
+Understanding the process, time and materials required for such
+actions is also important in determining what information someone
 requires. The more time they have, the more they can obfuscate their
 actions to avoid detection.  The more resources they have, the more
 likely they can involve other people, meaning that now, you not only
@@ -622,11 +622,11 @@ have to worry about the information you've given to one person, but
 the information that you've given to several people and you need to
 know how they're connected. If you're up against a well lubricated
 machine that facilitates undercover activity, then the connections
-will difficult to perceive.  If you're fighting a surveillance
+will be difficult to perceive.  If you're fighting a surveillance
 apparatus, then you may need to be aware that they have information
 you never disclosed to anyone.  If someone has information that you
 have never disclosed to anyone or they have information that you only
-ever disclosed to one person, that's a major red flag.
+ever disclosed to one person, that's a red flag.
 
 <a name="everything-has-a-purpose"/>
 
@@ -646,7 +646,7 @@ reminding yourself that there is a purpose and reason for everything.
 If you get fired, maybe you belong in another company or industry or
 career path.
 
-My personal favorite is, when you can predict someone's sequence of
+My personal favorite? When you can predict someone's sequence of
 actions under various circumstances, you understand that they might
 fulfill a particular purpose. It can be a bit screwed up to think of
 people in this way.  It's another reason why, even though one might
@@ -662,7 +662,8 @@ The relative and absolute can be applied to morality, but can also be
 generalized to almost anything.  Moreover, there is a continuum
 between the two and neither can be completely reached.  It's best to
 attune your actions to both, when possible.  It should always be
-possible, but that doesn't mean it's easy.
+possible, but that doesn't mean it's easy. Intelligence and creativity
+help immensely.
 
 Cohering to the relevant means you consider your relationship to your
 local surroundings first, whether or not that means local in the
@@ -704,7 +705,7 @@ is calm and focused on just the right aspects of a situation works
 best.
 
 But how do you know how to embrace the emptiness of your mind if
-knowing to appreciated an empty mind requires at least that knowledge
+knowing to appreciate an empty mind requires at least that knowledge
 itself? What is the bare set of knowledge that one must have to
 appreciate nothingness? Or to appreciate life? What set of knowledge
 is necessary to most effectively utilize one's own mind? If we can
@@ -723,19 +724,19 @@ Perhaps, the answer is ... . .
 ## [&#x2182; Willpower & Self-Mastery](#willpower-and-self-mastery)
 
 We must comprehend what motivates others and what motivates
-ourselves. When we develop awareness the long-term goals of others, we
-can see how they might fit into our life and we can draw on our own
+ourselves. When we develop awareness of the long-term goals of others,
+we can see how they might fit into our life and we can draw on our own
 network to help them. When we ascertain their short-term motivations,
 we can more effectively predict their actions. When we develop a model
 for their behavior and their propensity to stick to a goal or follow
 short-term desire, we gain a much better understanding of their
 character.
 
-True self-mastery is the ability to want to do the things you won't
+True self-mastery is the ability to want to do the things you don't
 want to have to do. In other words, to trick your mind into enjoying
 experiences which are otherwise unpleasant by abstracting yourself
-from the more base cognitive patterns that arise from negative
-or unwanted experiences, when it's something that contributes to a
+from the more base cognitive patterns that arise from negative or
+unwanted experiences, when it's something that contributes to a
 goal. Aristotle wrote about this in Ethics.
 
 The brain and mind are peculiar. They are kind of like biological
@@ -766,16 +767,16 @@ Everyone wants something in life. It's very rare to find individuals
 who don't want much of anything. Almost every time, inability to
 manage one's desires is a bad thing and leads to tumultuous
 behavior. The exception is the hermit or the devout religious
-adherent: they don't desire much, but it's positive. Everyone else?
-They want something from life. And you'll find, the more they want it,
-the harder they're going to work to get it.  And if more people want
-some specific thing, the more competition there's going to be for it.
-In almost every industry or hobby, if you get close to the top, people
-are different.  They try harder and some play dirty. But the trick to
-winning, every time, is maintaining your own desire for your goals and
-your dreams. You have to want it more. And you have to develop a
-strong motivation to do what you need to do, but what you don't want
-to do.
+adherent: they don't desire much or have a limited, rigorously
+justified set of desires. Everyone else?  They want something from
+life. And you'll find, the more they want it, the harder they're going
+to work to get it.  And if more people want some specific thing, the
+more competition there's going to be for it.  In almost every industry
+or hobby, if you get close to the top, people are different.  They try
+harder and some play dirty. But the trick to winning, every time, is
+maintaining your own desire for your goals and your dreams. You have
+to want it more. And you have to develop a strong motivation to do
+what you need to do, but especially to do what you don't want to do.
 
 The people that work hardest and work smartest will win. The people
 who want it most will keep striving to work harder and smarter. You
@@ -785,22 +786,23 @@ can't crush the human spirit.
 
 ## [&#x2182; Keep Your Eye on the Ball](#keep-your-eye-on-the-ball)
 
-And it follows that one of the most effective tactics you'll find used
+It follows that one of the most effective tactics you'll find used
 against you is to distract you from your goals. Or to convince you
 that you want something else. This is one reason you have to decide
 what you want. What's your passion? What matters to you? When you know
 this, you can fight for it and you can do so without distraction or
 demoralization.
 
-If you don't people will play you against your ambivalence you'll find
-yourself as the starving donkey stuck between two bales of hay, always
-headed to a new goal, but never quite getting there. It's better not
-to have a particular tendency for a desire than to have developed a
-fortitude against that tendency. However, that willpower and fortitude
-to resist desire generally is indispensible. And generally, because
-those things we need to do, but don't want to do are so important to
-anyone's long-term success in life, then developing a strong capacity
-here is one of the most important things you can do.
+If you don't, people will play you against your ambivalence. You'll
+find yourself as the starving donkey stuck between two bales of hay,
+always headed to a new goal, but never quite getting there. It's
+better not to have a particular tendency for a desire than to have
+developed a fortitude against that tendency. However, that willpower
+and fortitude to resist desire generally is indispensible. And
+generally, because those things we need to do, but don't want to do
+are so important to anyone's long-term success in life, then
+developing a strong capacity here is one of the most important
+attributes you can develop.
 
 <a name="nature-of-mind"/>
 
@@ -824,20 +826,21 @@ personal and professional lives: the *Task Positive Network* and the
 *Social Network*.  The Task Positive network is activated when given
 some analytic tasks, like programming, financial number crunching,
 math or physics. It's part of our executive function. When it's
-activated, it also blocks our other possibilities.
+activated, it suppresses other aspects of our mind.
 
 In particular, its activation suppresses the Social Network, which is
 a component of the *Default Mode Network*. The Social Network helps
 you deal with social & emotional issues. Recent studies have shown
 that the TPN and the SN are almost completely independent and have
-very little neural overlap. Furthermore, they suppress each other.  So
-if you're focused on analytical tasks, then you are less proficient at
-processing social and emotional issues, until you switch gears.
-Further still, I hypothesize that is likely not efficient for your
-brain to do that. And so, when you have someone at your workplace who
-doesn't have to focus analytically (or effectively doesn't!) and they
-spread toxic social/emotional issues, then how do you think that
-contributes to the overall functioning of your teams?
+very little neural overlap. Again, it has been demonstrated that they
+suppress each other.  So if you're focused on analytical tasks, then
+you are less proficient at processing social and emotional issues,
+until you switch gears.  Further still, I hypothesize switching gears
+itself likely is inefficient for your brain to do. And so, when you
+have someone at your workplace who doesn't have to focus analytically
+(or effectively doesn't!) and they spread toxic social/emotional
+issues, then how do you think that contributes to the overall
+functioning of your teams?
 
 And perhaps just targeting one person, who isn't very good at
 social/emotional issues in the first place -- I.E. *ME* -- then guess
@@ -856,10 +859,10 @@ psychologically torment people on a government list would affect the
 economy, on a local, regional and national level? Do you think that
 would benefit a struggling economy or would it be detrimental? How do
 you think such regulation would affect small business? .... What
-happens when small business struggles on national scale?  Isn't small
-business crucial for the middle class? Isn't the middle class vital
-for the prosperity of common Americans? If you support something like
-this, *THEN WHO AND WHAT DO YOU STAND FOR?* If not the american
+happens when small business struggles on a national scale?  Isn't
+small business crucial for the middle class? Isn't the middle class
+vital for the prosperity of common Americans? If you support something
+like this, *THEN WHO AND WHAT DO YOU STAND FOR?* If not the American
 economy, *THEN WHO OR WHAT DO YOU REPRESENT?*
 
 > If you'd like to read more about what I've personally experienced in
@@ -869,15 +872,15 @@ economy, *THEN WHO OR WHAT DO YOU REPRESENT?*
 > with [workplace](2015-02-25-workplace-bullying-part-three.html)
 > [bullying](2015-02-26-workplace-bullying-part-four.html).
 
-Basically, resources like nutrition, ATP for energy, and preproduced
-protein products are localized throughout the brain. Overexertion of
-specific brain circuits will exhaust those resources. This may be
-partially responsible for the effect where you can spend hours and
-hours on a problem and make no progress, but take a short break or
-relax with friends and suddenly you have a burst of creativy insight
-because you've given those neural circuits a chance to replentish
-their resources.  If we understand the causes behind effects like
-these, we can engage the peculiarities of our mind for our benefit.
+Resources like nutrition, ATP for energy, and preproduced protein
+products are localized throughout the brain. Overexertion of specific
+brain circuits will exhaust those resources. This may be partially
+responsible for the effect where you can spend hours and hours on a
+problem and make no progress, but take a short break or relax with
+friends and suddenly you have a burst of creativy insight because
+you've given those neural circuits a chance to replentish their
+resources.  If we understand the causes behind effects like these, we
+can engage the peculiarities of our mind for our benefit.
 
 Another incredibly important aspect to mental functioning is blood
 flow. This is why exercise is so important. Cardio increases your
@@ -921,8 +924,8 @@ when they're angry or distraught in a situation, when we simulated via
 MNN that they would be happy or content. In this case, the HN lets us
 observe their externalized expression of their feelings. If we get a
 mismatch here, then this should indicate that we need to step back and
-observe the situation from another angle. That is the Hemodynamic
-Network is indicating something different from the Mirror Neuron
+observe the situation from another angle. That is, the Hemodynamic
+Network contrasts the feedback we receive from the Mirror Neuron
 Networks and this should invite us to investigate why.
 
 <a name="meditation"/>
@@ -990,9 +993,9 @@ spilling a single drop. It it is incredibly difficult to avoid
 interfering with causality in another person's life.
 
 But they'll learn more from it. They'll grow more from it. And, with
-skill, you can learn how to kinda pay it forward, so to speak, without
-interfering with causality. So it's best for us to give without being
-seen giving and those who do should be rewarded.
+skill, you can learn how to pay it forward, so to speak, while
+minimizing interference with causality. So it's best for us to give
+without being seen giving and those who do should be rewarded.
 
 <a name="knowledge-of-self"/>
 
@@ -1032,18 +1035,17 @@ thing you know, Dorothy's on a transformative journey down the yellow
 brick road with three unworthy companions and a chorus full of little
 people.
 
-Studying karma is a study of causality -- I think! though I've never
-studied it in an official capacity. It seems that you must understand
-yourself and others and each person's current place in the world.
-There's always a myriad of details that follow each action. It may
-seem that there is no other way, but there is always another way.
+Studying karma is a study of causality. It seems that you must
+understand yourself and others and each person's current place in the
+world.  There's always a myriad of details that follow each action. It
+may seem that there is no other way, but there is always another way.
 There is always a better way. If it seems that one situation requires
 a course of action that is too difficult, then we are not yet skilled
 enough.  We need to observe more and reflect more before we act.
 
-<a name="devine-connection"/>
+<a name="divine-connection"/>
 
-## [&#x2182; Devine Connection](#devine-connection)
+## [&#x2182; Divine Connection](#divine-connection)
 
 We each have a connection to the divine. This is a concept from
 gnosticism. Whether this connection is viewed as ordinary or
@@ -1052,11 +1054,10 @@ than others. It's something we can exercise through reflection and
 medititation.
 
 It is a divine spark that can be ignited by others. It is an eternal
-flame that can be that can be suppressed by others, perhaps completely
-squelched. Because this divine spark emerges from universal,
-metaphysical aspects of life, it is always destined to be
-rediscovered, even were it to seemingly perish. For dramatic and vivid
-imagery, read
+flame that can be suppressed by others, perhaps completely squelched.
+Because this divine spark emerges from universal, metaphysical aspects
+of life, it is always destined to be rediscovered, even were it to
+seemingly perish. For a dramatic explanation with vivid imagery, read
 [The Nature of God](/posts/2016-05-31-the-nature-of-god.html).
 
 <a name="wisdom-of-all"/>
@@ -1064,11 +1065,11 @@ imagery, read
 ## [&#x2182; Wisdom of All](#wisdom-of-all)
 
 Whether or not you believe the words of a religious text, there is
-value there. The bible does not *need* to be true to add value to your
+value there. The Bible does not *need* to be true to add value to your
 life or the lives of others. Religions are established and retain
 prominence based on their ability to be valuable to people and
-society. And they can only do so when they embody certain truths which
-we all hold to be self-evident.
+society.  And they can only do so when they embody certain truths
+which we all hold to be self-evident.
 
 If a religion differs so starkly with reality, it will not last. This
 is why state worship, the de facto religion of many regimes, does not
@@ -1166,7 +1167,8 @@ we impart a more rational approach and go with what is safe? One thing
 is certain: you don't want to regret the decisions you make, so when
 you come to a fork in the road, make a decision and stick it
 out. Don't be afraid to admit you've been wrong, but at the same time,
-it's better to avoid finding yourself in that position.
+it's better to avoid finding yourself in a position where you're
+constantly questioning past decisions and circumstances.
 
 <a name="believe-in-yourself"/>
 
@@ -1176,45 +1178,46 @@ The number one factor I've noticed in people who've gone too far down
 the wrong path? They don't have that driven, focused energy provided
 by a sense of purpose.
 
-And why is haven't they found their purpose or passion? They don't
+And why haven't they found their purpose or passion? They don't
 believe in themselves. Or they don't maintain that belief and keep
 their eye on the ball. Or they misunderstand their circumstances and
 they develop a false sense of confidence. Or they didn't believe in
-themselves a specific key points in their adolescence, so they didn't
+themselves at specific key points in their adolescence, so they didn't
 explore enough of life to discover what would drive them.
 
 We need more mentors in the world to be role models for kids. We need
 to be exposed to more skills and activities, so we can grow up to be
 well-rounded and capable. There are systemic sociological problems in
-our society and they are being caused by a dozen different things. And
-we're stalling out whenever anyone tries to address them.
+our society and they are being caused by a myriad of different
+forces. It seems whenever anyone tries to address them, we stall out
+because many of those forces keep progress in check.
 
 The internet is a majestic platform for reaching out and teaching
 people. We hear it constantly: the 1% has never been richer! OK,
 yes. That is true, but at the same time, *at no point in human history
 has the average person had more opportunities!* In history!! You are
-standing on the shoulders of giants and every single person has
+standing on the shoulders of giants and every single person today has
 unimaginable power that people just 100 years ago couldn't even dream
 of. No, not everyone is in the position to take advantage of that.
 
-And the internet provides us with the informational infrastructure to
+The internet provides us with the informational infrastructure to
 reach out and figure out how to get people to believe in themselves
 again. Interactions will soon be higher-bandwidth and more human than
 ever. Because of this and other factors, the capacity for online
-influence will become more decentralized. This depends on how the web
-is regulated and to what degree people want to interact with virtual
-personas.
+influence will again become more decentralized. This depends on how
+the web is regulated and to what degree people want to interact with
+virtual personas.
 
 <a name="metapersona"/>
 
 ## [&#x2182; Metapersona &#x1F52D;&#x1F3AD;&#x1F50D;](#metapersona)
 
 There's a great quote and I can't find it -- if anyone knows, plz let
-me know, I can't find shit except Deadline articles LMAO -- so I'll
-paraphrase:
+me know, I can't find anything except Deadline articles LMAO -- so
+I'll paraphrase:
 
-> In improv, people learn more about themselves and each other's true
-> selves when they're acting and wearing masks.
+> In improv, people learn more about their true selves when they're
+> acting and wearing masks.
 
 Why is this? It's because the truth is that we are *always* wearing a
 mask. Everyone does to some degree. And sometimes we project
@@ -1225,22 +1228,25 @@ no longer attached to our identity, per se. And so, if we orient our
 mind appropriately, we realize that we communicate in ways that might
 otherwise be stymied by anxiety or fear.
 
-The face of the internet will change with VR and technology
-will become more human. High-bandwidth *human* interactions will begin
-to replace textual interactions. This means VR will be a platform for
+The face of the internet will change with VR and technology will
+become more human. High-bandwidth *human* interactions will begin to
+replace textual interactions. This means VR will be a platform for
 real communication. It's similar to the difference between Radio and
 TV: the power shifts away from the faceless voice. More natural, more
 limited social networks will return. It won't be so easy to sway
 1,000,000 followers because if you don't have real, in-depth
 interactions with someone, the connection won't be strong enough. To
-some degree, we'll retain hyperconnectedness and.
+some degree, we'll retain hyperconnectedness, but the individual
+interactions of the common person will be more meaningful to those
+involved.
 
 My point in mentioning this is that one-on-one interactions will
 replace the irrelevant noise of comment threads, where half the
-participants are trolls with a few bots. At the same time, people are
-interacting in novel ways, but in a high bandwidth manner that causes
-people to focus on personal one-on-one connections. There are positive
-and negative aspects to this, but I think it's overwhelmingly
+participants are trolls with a few meme bots here and there. At the
+same time, people will begin interacting in novel ways, but in a high
+bandwidth manner that causes people to focus on personal one-on-one
+connections. There are positive and negative aspects to these new
+social VR media interactions, but I think it's overwhelmingly
 positive, with the right safeguards in place.
 
 Furthermore, VR allows people to easily to don another personality. We
@@ -1248,20 +1254,23 @@ can do this on the internet as is, but not to the same degree. This,
 combined with the stronger connections, means that people are more
 able to understand life from another perspective. But this ability to
 experience different "virtual realities" is actually a means of
-masking ourselves with a "virtual identity." I would argue that to be in
-a virtual reality actually requires that someone have some degree of
-identity obfuscation. A kind of mask or virtual identity. There's
-risks here, but there's a huge benefit in that we'll learn more about
-ourselves and each other, if we can learn to distinguish the confirmation
-bias that results from incorrectly associating a virtual reality
-experience to a real one. There's some danger here that people will
-prefer their virtual identity, their persona, more than their own
-identity, but this also contributes to a wider array of experiences.
+masking ourselves with a "virtual identity." I would argue that to be
+in a virtual reality actually requires that someone have some degree
+of identity obfuscation. The initial interations in a VR system
+necessitate a kind of mask or virtual representation that is
+obfuscated from personal identity. There's risks here, but there's a
+huge benefit in that we'll learn more about ourselves and each other,
+if we can learn to distinguish the confirmation bias that results from
+incorrectly associating a virtual reality experience to a real
+one. There's some danger here that people will prefer their virtual
+identity, their persona, more than their own identity, but this also
+contributes to a wider array of experiences.
 
 One problem in VR, and we're already seeing this to some degree, is
-that societal norms and roles will blur together. This isn't really a
-problem, per se, as it is something to keep in mind. As I've argued,
-our society's evolution will accelerate and there's going to be some
+that societal norms and roles will both blur together. Norms will
+become less pronounced, as will roles. This isn't really a problem,
+per se, as it is something to keep in mind. As I've argued, our
+society's evolution will accelerate and there's going to be some
 turbulence. People are going to want to find something constant to
 hang onto. They're going to need that and want that.
 
@@ -1294,9 +1303,9 @@ outsmarts his opponents by being cunning and courageous.
 We are born without any understanding of our world.  We should develop
 understanding of our circumstances before deciding they should be
 changed or pursuing action. It's a bit ironic that I'd feel strongly
-about this, since in my college years, I expended a ton of energy
-pushing as hard as I could for just that. Yet, perhaps that's exactly
-what qualifies my feelings: I worked hard to change things I didn't
+about this. In my college years, I expended a ton of energy pushing as
+hard as I could for just that. Yet, perhaps that's exactly what
+qualifies my feelings: I worked hard to change things I didn't
 completely understand and misappropriated time & energy doing so.  I
 would have been much better served had I reflected on my conditions
 and learned a lot more about the world before taking action.
@@ -1319,25 +1328,27 @@ state. The feedback loops that preserve balance are robust, but
 delicate. If enough of them are altered or removed, the consequences
 will be irreparably expensive, far outweighing any benefit from
 cutting corners. Rather, we're just hoarding the profits for ourselves
-and pushing the costs to another generation.
+and pushing the costs to another generation. In the not-to-distant
+future, energy is currency and therefore correcting the entropy of
+pollution is intrinsically expensive.
 
 Good news! It looks like there was great progress towards
 environmental agreements at Paris. But we have to encourage global
 cooperation towards this goal, while accepting the risk that comes
 with being the first to act, as such policies imply impaired capacity
-for competition. Good news! It looks like there was great progress
-towards environmental agreements at Paris. The greatest challenge is
-to balance the interests of nature and mankind with global economic
-pressures and game theory -- we basically have to convince industry
-leaders around the world that they should curtail their profits, while
-leaving themselves open for other nations to capitalize on the
-opportunity -- so I completely understand how we got to this
-situation, but I don't understand why we let those factors persist.
+for competition. The greatest challenge is to balance the interests of
+nature and mankind with global economic pressures and game theory --
+we basically have to convince industry leaders around the world that
+they should curtail their profits, while leaving themselves open for
+other nations to capitalize on the opportunity -- so I completely
+understand how we got to this situation, but I don't understand why we
+let those factors persist.
 
 Actually, there are massive profits for those innovators who develop
-solutions to help clean up what has been damaged! If environmental
-cleanup is viewed in the right way, this is actually an opportunity
-for industry. However, the problem is: who's going to pay for it? The
+solutions to help clean up what has been damaged! Yet, in the context
+of energy/entropy, this is a net economic drain. If environmental
+cleanup is viewed in the right way, this is an opportunity for
+industry. However, the problem is: who's going to pay for it? The
 government. The citizens, via taxes. I think by structuring this
 challenge creatively, we can create opportunity for ventures funded by
 the private-sector to succeed. And there is a long-term, hidden cost
@@ -1360,9 +1371,9 @@ financially.
 ## [&#x2182; Axiomatic Waypoints](#axiomatic-waypoints)
 
 Technology is rapidly changing our life and culture. In this turbulent
-period, what can we know to be unequivocally constant? What can we
-identify and use as fixed reference points if the basis for our
-culture and social structures is constantly shifting beneath our feet.
+period, what can we know to be unequivocally constant? If the basis
+for our culture and social structures is constantly shifting beneath
+our feet, what can we identify and use as fixed reference points?
 
 This is one reason why religion will be relevant through these next
 few decades. The philosophical and ideological conclusions one reaches
@@ -1377,24 +1388,24 @@ atheism is short-sighted. Or so I believe.
 
 ## [&#x2182; Asymptotic Evaluation](#asymptotic-evaluation)
 
-This is more of a tool I use to evaluate new ideas in the concept of
-trends, regardless of whether it's a past, present and future.
-Basically, I ask myself, what happens if I take that to infinity? Or
-zero? What is the likelihood of such a limit and the timescale for
-it's occurance?
+This phenomonological calculus is more of a tool I use to evaluate new
+ideas in the concept of trends, regardless of whether it's a past,
+present and future.  Basically, I ask myself, what happens if I take
+that to infinity? Or zero? What is the likelihood of such a limit and
+the timescale for it's occurance?
 
-Examples: what if there was no cost or energy required
-for communication? Or what if the maximum theoretical energy density
-for batteries changes dramatically? What's the realistic range to
-expect that maximum to change to?  What if all information was
-available everywhere?  Or what would it be like if we approached a
-world where information was instantly available everywhere?  What if
-the speed of light was not a limitation?
+Examples: what if there was no cost or energy required for
+communication? Or what if the maximum theoretical energy density for
+batteries changes dramatically? What's the realistic range to expect
+that maximum to change to?  What if all information was available
+everywhere?  Or what would it be like if we approached a world where
+information was instantly available everywhere?  What if the speed of
+light was not a limitation?
 
-So this "asymptotic evaluation" is a tool that I use to augment my
-powers as a futurist. But developing a better understanding of what
-this transitionary period will be like is vital if we survive the next
-filter in Fermi's Paradox.
+So this "asymptotic evaluation" or "phenomonological calculus" is a
+tool that I use to augment my powers as a futurist. But developing a
+better understanding of what this transitionary period will be like is
+vital if we survive the next filter in Fermi's Paradox.
 
 <a name="moving-the-lampposts"/>
 
@@ -1402,7 +1413,7 @@ filter in Fermi's Paradox.
 
 Another tool that I use to examine problems. Science is constantly
 developing better tools to measure phenomena. One of the best examples
-is X-Ray crystallography, for which like 50 Nobel Prizes have been
+is X-Ray crystallography, for which over 50 Nobel Prizes have been
 awarded. If it weren't for this one technique, steampunk would still
 be in-vogue and not because it's some kind of chic, hipster style.
 
@@ -1410,15 +1421,17 @@ So
 [moving the lamposts](http://movingthelamppost.com/blog/html/index.html)
 isn't exactly my idea or expression, but I seem to be fairly
 proficient with it.  Basically, if we're having a hard time seeing
-where we are, what if we had a better, brighter flashlight? If we had
-an innovative means of measuring some phenomenon, wouldn't we make new
-advancements at what would seem to be warp speed?
+where we are, what if we had a better, brighter flashlight? What if we
+had more proficient experimental methodologies? If we had an
+innovative means of measuring some phenomenon, wouldn't we make new
+advancements at what would seem to be warp speed? Isn't that the most
+important progress to make?
 
 <a name="self-similarity"/>
 
 ## [&#x2182; Self-Similarity](#self-similarity)
 
-
+See above.
 
 <a name="humility"/>
 
@@ -1444,7 +1457,7 @@ Competition is no good when each team member is tripping up someone
 else to appear better by comparison. What good does that do? A good
 team extracts value from the network: if a team is a graph where each
 member is a node, then a good team has a high, well distributed value
-received from each edge between the team members. That is, the team
+received from each edge between the team members.
 
 And I've found that time after time, I've missed out on opportunities
 to connect and learn from others around me because my words and
@@ -1458,7 +1471,8 @@ dealt an unimaginable amount of damage to my career because of this.
 E.G. all this technology? I can't afford it. An oculus rift? NEVER
 EVEN TOUCHED ONE. My connections to others in technology are
 specifically targeted. Apparently, it's ideal if my contact to people
-in math, science and technology is minimized.
+in math, science and technology is minimized, which leaves me with
+nearly zero intellectual stimulation.
 
 Over the years, people I looked up to in school and work and life have
 piqued my interest in just the right way.  I can't tell you how many
@@ -1549,8 +1563,6 @@ want those problems to become worse.
 > "Live as if you were to die tomorrow. Learn as if you were to live
 > forever." - Mahatma Ghandi
 
-[maybe rewrite the following:]
-
 I hope that I've demonstrated that the concept of God is more relevant
 than ever as people back towards the institutions of religion to help
 them make sense of cultural turbulence. The 20th century may seem to
@@ -1569,7 +1581,7 @@ foundation in an unpredictable time.
 
 The pillar of faith is no longer *required* to support the
 institutions of religion or belief in God, since the entity born from
-hyperintelligent AI will develop to assymbptotically approach the
+hyperintelligent AI will develop to assymptotically approach the
 metaphysical reflection of God. As we approach this *singular fate* of
 a world that could not possibly develop towards anything else, absent
 catastrophic reset, the presence and development of this form which
@@ -1578,22 +1590,24 @@ sufficiently intelligent being should develop towards such a state as
 to be able to emulate the intelligence of other beings. Therefore, a
 maximally hyperintelligent being should develop which could embody the
 metaphysical form of anything and everything else. Or it would at
-least approach such a state.
+least approach and attempt to approach such a state.
 
-The particular maximums of technology and how they enable the
-capabilities, functionalities and limits of such a system are very
-important. And especially, the computational capacity of the universe
-and the computational capacity of a machine which could reasonably be
-developed by a force of intelligent life in any given galaxy.  This is
-relevant because if the computational capacity of any hyperintellent
-being exceeds that required to simulate a universe approaching the
-scale of our own, then it's turtles all the way down: we can simulate
-a universe that simulates a universe that ... et cetera. There's a bit
-more to this argument...
+The particular nadirs and zeniths of technology and how those will
+enable the capabilities, functionalities and limits of such a system
+are very important. Especially critical are the computational capacity
+of the universe and the computational capacity of a machine which
+could reasonably be developed by a force of intelligent life in any
+given galaxy. This is relevant because if the computational capacity
+of any hyperintellent being exceeds that required to simulate a
+universe approaching the scale of our own, then it's turtles all the
+way down: we can simulate a universe that simulates a universe that
+... et cetera. There's a bit more to this argument, but understanding
+the phenomenological limits of computation determines what we will
+believe our ultimate purpose to be.
 
-However, a believe system that doesn't require faith has its own
+However, a belief system that doesn't require faith has its own
 qualities, peculiarities, benefits and drawbacks. Further still, it
-doesn't resolve the problem of nihilism, which Nietzsche feared.
+doesn't resolve the problem of nihilism that Nietzsche feared.
 
 ### Every Man is Born as ...
 {:center}
@@ -1603,13 +1617,13 @@ doesn't resolve the problem of nihilism, which Nietzsche feared.
 
 The argument I made to refute Nietzsche in part one actually alters
 the nature of propositions leading to Heidegger's statement above.
-Every man is born with just as much potential, but merges into the
-entity representing the sum of human information, the entity that
-attempts to reflect the omneity of the metaphysical world.  So we
-never truly die, and we merge our consciousness into this entity in
-order to become every man. And because everyone born after a certain
-point is doomed to the same fate, one might say we have no choice in
-this regard.
+Every man is born with just as much potential for divergence, but
+merges into the entity representing the sum of human information, the
+entity that attempts to reflect the omneity of the metaphysical world.
+So we never truly die, and we merge our consciousness into this entity
+in order to become every man. And because everyone born after a
+certain point is doomed to the same fate, one might say we have no
+choice in this regard.
 
 The conclusions here depend on the specific capabilities of technology
 at the point and of the final capabilities of such technology,
@@ -1617,18 +1631,21 @@ particularly whether we can virtualize, fork, transfer or merge
 consciousness and whether such capabilities are complete or
 approximated.
 
-But, instead, I'll just leave it as "Every man is born as many men and
-becomes every man." Ramifications of the arguments I've put forth are
-numerous and significant to how we see ourselves and our relationship
-to the universe. I've only tried to clearly state thoughts which I
-never wrote down. I don't mean to say that because of these beliefs
-that nothing else is possible. I could be wrong about a lot of it and
-much of it (maybe most of it) is not actually novel. People have been
-talking about the singularity for a very long time.
+> "Every man is born as many men and dies not, but becomes every man."
 
-It's crucial for people to mill over these issues, as we
-are approaching developments which lead to a fundamental restructuring
-of the world.
+Instead, I'll just leave it that. Ramifications of the arguments I've
+put forth are numerous and significant to how we see ourselves and our
+relationship to the universe. I've only tried to clearly state
+thoughts which I never wrote down, until at least 2015. I don't mean
+to say that, because of these beliefs, nothing else is possible. I
+could be wrong about a lot of it, perhaps most of it. Much is not
+actually novel. People have been talking about the singularity for a
+very long time, but I think I have some novel ideas on the nature of
+information and the qualities of a hyperintelligent being.
+
+It's crucial for people to mill over these issues, as we are
+approaching developments which lead to a fundamental restructuring of
+the world.
 
 ## The Persistence of Memory
 {:center}
@@ -1639,11 +1656,12 @@ of the world.
 Even if someone manages to purge all memory of an individual, you will
 never manage to purge all reflections of that person which are alive
 inside all of us. Those fragments don't need to be linked by name to
-survive -- in fact anonymity is a crucial element, as the love and
-oneness we strive for would lose power and relevance if it were
-named. And the most important fragments, in fact, would only be
-rediscovered, as they are pieces of universal truths. What has begun
-and what was set in motion cannot be stopped, nor should it be.
+survive -- in emphasis, anonymity may be a crucial element, as the
+love and oneness we strive for would lose power and relevance if it
+were named. And the most important fragments would necessarily be
+rediscovered, as they are simply convolutions on pieces of universal
+truth. What has begun and what was set in motion cannot be stopped,
+nor should it be.
 
 #&#x300C;&#x25CA;&#x203D;&#x03BB;&#x2207;&#x03A6;&#x300D;
 {:center}
