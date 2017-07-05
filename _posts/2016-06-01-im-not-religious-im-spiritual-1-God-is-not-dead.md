@@ -27,9 +27,27 @@ for much of the demoralization we see today. It seems there are too
 many people out there who hold nothing sacred, except perhaps their
 own reflection or accumulated material wealth.
 
-### The News of God's Death
+## [The News of God's Death Has Been Greatly Exaggerated](#the-news-of-gods-death-has-been-greatly-exaggerated)
 
-#### Has Been Greatly Exaggerated
+#### [Exponential Progress of Science](#exponential-progress-of-science)
+
+#### [Science Can Be Manipulated to Control Policy, Too](#science-can-be-manipulated-to-control-policy-too)
+
+#### [Benefits of Social Institutions](#benefits-of-social-institutions)
+
+#### [Our Irreplaceable Golden Dies](#our-irreplaceable-golden-dies)
+
+#### [Politically Motivated Atheism...](#politically-motivated-atheism)
+
+#### [Foundations for Belief Systems](#foundations-for-belief-systems)
+
+#### [Atheism Is An Ideology](#atheism-is-an-ideology)
+
+#### &#x2140; [From Deconstruction to Demoralization](#from-deconstruction-to-demoralization)
+
+<a name="the-news-of-gods-death-has-been-greatly-exaggerated" />
+
+# [The News of God's Death Has Been Greatly Exaggerated](the-news-of-gods-death-has-been-greatly-exaggerated)
 
 This is the first of a three part series, in which I hope to convince
 you that religion is more relevant than ever in the 21st century. Its
@@ -88,7 +106,9 @@ Please, tell me how my skills and muse deserve to be so poorly
 positioned. The truth is, the more life sought my diminishment, the
 hotter my passion burned to share my creativity.
 
-### Exponential Progress of Science
+<a name="exponential-progress-of-science" />
+
+### [Exponential Progress of Science](#exponential-progress-of-science)
 
 As I will continue to demonstrate in this article, there are a
 plethora of more appealing arguments indicating that religion will
@@ -109,7 +129,9 @@ We cannot count on the government first to fulfill these needs for us.
 There's been a ton of progress on the social front in the past few
 years.
 
-### Science Can Be Manipulated to Control Policy, Too
+<a name="science-can-be-manipulated-to-control-policy-too" />
+
+### [Science Can Be Manipulated to Control Policy, Too](#science-can-be-manipulated-to-control-policy-too)
 
 Science is just as vulnerable to manipulation as any human
 institution, perhaps moreso because it doesn't have a permanent
@@ -134,7 +156,9 @@ metaphysical ideas above.
 
 #### [Epistemology, Category Theory and Cognition](/posts/2015-08-23-epistemology-cognition-and-category-theory-part-one.html)
 
-### Benefits of Social Institutions
+<a name="benefits-of-social-institutions" />
+
+### [Benefits of Social Institutions](#benefits-of-social-institutions)
 
 In this part, I make an argument for religion's value and ask how
 aetheism fulfills its roles. I understand that it is possible, but
@@ -168,7 +192,9 @@ argument to make with religion, since to be most effective it needs to
 be taken as truth, especially by those who are too young to understand
 these concepts.
 
-### Our Irreplaceable Golden Dies
+<a name="our-irreplaceable-golden-dies" />
+
+### [Our Irreplaceable Golden Dies](#our-irreplaceable-golden-dies)
 
 Myth and religion have irrefutable value as tools which act as a
 cultural loom, with which we can weave accumulated knowledge to shape
@@ -213,7 +239,9 @@ dozens of generations.
 > suggest? How many generations of knowledge have been embedded in the
 > content and culture surrounding it?
 
-### Politically Motivated Atheism...
+<a name="politically-motivated-atheism" />
+
+### [Politically Motivated Atheism...](#politically-motivated-atheism)
 
 It's horrifying to see a concerted effort to discredit religion and
 its institutions over the course of several generations. This is an
@@ -237,7 +265,9 @@ abuse. No, religious institutions are not perfect, but neither could
 be anything created by man. To their credit, the propensity for
 benefit is immeasureable to acclaimed problems.
 
-### Foundations for Belief Systems
+<a name="foundations-for-belief-systems" />
+
+### [Foundations for Belief Systems](#foundations-for-belief-systems)
 
 While atheism is not science and vice versa, we all have a need to
 explain the world around us.  And I'm going to assume that, if atheism
@@ -294,7 +324,9 @@ as well, where people try to acquire power.  Both science and religion
 can be misused, yet I think science has the propensity for being
 misused in subtle, hard to control ways.
 
-### Atheism Is An Ideology
+<a name="atheism-is-an-ideology" />
+
+### [Atheism Is An Ideology](#atheism-is-an-ideology)
 
 Atheism has a myriad of philosophic consequences for ethics, morality
 and public policy. The conclusions stemming from atheism include that
@@ -318,7 +350,9 @@ religions, while maintaining rhetorical invulnerability through
 statements like "atheism is not a religion," "atheism is not an
 ideology," and "atheism is not a belief system."
 
-### &#x2140; From Deconstruction to Demoralization
+<a name="from-deconstruction-to-demoralization" />
+
+### &#x2140; [From Deconstruction to Demoralization](#from-deconstruction-to-demoralization)
 
 And after zealot-level atheists have dismantled other religions, they
 do not replace it with anything, for they do not and cannot understand
