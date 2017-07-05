@@ -103,8 +103,8 @@ There are specific technologies which magnify the rate at which new
 discoveries occur: this is the nature of the singularity.  On the
 other hand, many of these technologies are incredibly dangerous and,
 thus, the desire to wall these techs off is justified.  It is because
-of this that the likelihood that a small faction of people would abuse
-the differential singularity is all the more probable: because if they
+of this that the likelihood is all the more probably that a small
+faction of people would abuse the differential singularity. If they
 did, they could justify it to those around them while keeping it
 secret from most of us.
 
@@ -224,12 +224,13 @@ embarrassed to say I'm a complete novice.
 And I'm ashamed to associate with any religion at this point,
 honestly. I couldn't hope to touch something pure without getting it
 dirty, whether it's Buddhism or Christianity or whatever. And while I
-clearly see the value of religion and hold it's waning influence
+clearly see the value of religion yet hold it's waning influence
 partially responsible for many of the problems we have in the world
-today, I find it difficult to defend because I haven't strongly
-embraced any religion. I can't exactly use my interpretation of bible
-verses as rhetorical defense because who am I to interpret something
-like that, if I don't claim strong personal belief.
+today, I find it difficult to defend the need for such a vehicle since
+I haven't strongly embraced any religion. I can't exactly use my
+interpretation of bible verses as rhetorical defense because who am I
+to interpret something like that, if I don't claim strong personal
+belief.
 
 <a name="the-golden-rule"/>
 
@@ -256,19 +257,19 @@ their eyes. This and the Golden Rule are the most important aspects --
 and I'm not sure that these are two separate things.  Almost
 everything else could be dropped or redefined.
 
-At that point, one needs to decide on relative or absolute morality:
-relativism vs. moral universalism of Kant.  This requires
-universalizability, which dictates that for an action to be
+From here, one must decide on relative or absolute morality: either
+moral relativism or the moral universalism of Kant.  This requires
+universalizability, which dictates that, for an action to be
 permissable, it must apply equally to every situation and every
 person.  It is nearly impossible, but incredibly admirable to adhere
 to Kant's philosophy, as it almost entirely nullifies your space of
 potential actions and makes you more predictable.
 
 Also, it is incredibly hard to practice empathetic behavior if people
-warp the perception of you, so that you're a pariah. It's not an
-excuse to limit one's interactions with others or restrict empathy,
-but it is really hard to practice compassion or provide values to
-others when one has no income and practically nothing to give.
+warp the perception of you, rendering you a pariah. It's not an excuse
+to limit one's interactions with others or restrict empathy, but it is
+really hard to practice compassion or provide value to others when one
+has no income and practically nothing to give.
 
 Furthermore it's incredibly hard to see the world through someone's
 eyes when they see you as a miserable useless piece of shit and they
@@ -320,9 +321,9 @@ Some of these will never change -- and it could be argued that any
 which are not perminant can be summarily & totally defined in terms of
 those that are permanent. Math is such a universal, metaphysical
 object, which cannot ever change by its nature and from which all
-other things can be defined.  Therefore, they are timeless. Our
-inescapable fates are defined in terms of the intangible and nothing
-can escape it's reach.
+other things can be defined.  Therefore, these objects that cannot be
+changed are timeless. Our inescapable fates are defined in terms of
+the intangible and nothing can escape it's reach.
 
 Unfortunately, many scientists, despite their intelligence or intent
 to search for truth, completely disregard the metaphysical, as their
@@ -343,10 +344,10 @@ idealized selves than from within the confines of our present
 situation.
 
 > If I were already the person I wanted to be, how would I handle this
-> situation differently. That person that built my dreams, what would
+> situation differently? That person that built my dreams, what would
 > he or she have done to get there?
 
-The Romans had their own concept of genius, which was like the design
+The Romans had their own concept of genius, which was like the divine
 essence that lay beyond our psyche: it was like our individual star in
 the metaphysical sky. It resembles this concept of the idealized
 self. When we are young, we should develop that kernel of knowledge
@@ -354,7 +355,7 @@ that allows us to best decide what we want to do with our lives and
 helps us identify the pieces of knowledge which are most useful. It
 helps if our parents can be very involved in our lives or that we at
 least have some mentor who can fuel this development.  Our minds are
-most pliable then and we have the most opportunity for them most
+most pliable then and we have the most opportunity for the most
 growth. Yet, it is unfortunate our time spent at the height of our
 potential is precisely when we have a minimal understanding of the
 world, preventing us from best planning how to invest that potential.
