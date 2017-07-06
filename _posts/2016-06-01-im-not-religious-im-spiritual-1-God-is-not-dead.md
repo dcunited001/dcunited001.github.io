@@ -75,9 +75,9 @@ preeminent metaphysical is the universe virtualizing a reflection of
 it's own unreachable metaphysical forms. If the significance behind
 the evolution of life was partly so the universe could observe it's
 own beauty, then the following completes a profound trifecta. It is
-only possible for the universe to virtualize an approximate reflection
-of its complete metaphysical forms, if, first, it produces an
-awareness of its material realm. And secondly, that awareness must
+only possible for the universe to virtualize an approximated
+reflection of its complete metaphysical forms if, first, it produces
+an awareness of its material realm. And secondly, that awareness must
 also develop enough mastery over a partial set of those metaphysical
 forms. And, finally, if that awareness develops sufficient cognizance
 of the metaphysical laws of physics to be capable of transfiguring the
@@ -89,11 +89,11 @@ And finally, that astral vortex can accelerate towards eternal
 convergence with the all-encompassing and innumerably complex
 metaphysical representation of the entireity of existence, including
 its infinite self-convolutions. There is only one metaphysical omneity
-towards which to converge. And this single, artificial übermenschlich
-entity -- to clarify -- pales in comparison to my notion of God
-is. But, it is an undeniably powerful convergent being birthed by
-technology, circumventing the need for faith which Nietzsche noticed
-as waning in the age of science. Therefore:
+towards which to converge. And this single, realized artificial
+übermenschlich entity -- to clarify -- will pale in comparison to my
+notion of God. But, it is an undeniably powerful convergent being
+birthed by technology, that circumvents the need for faith which
+Nietzsche noticed as waning in the age of science. Therefore:
 
 > God Is NOT Dead!
 
@@ -113,20 +113,21 @@ hotter my passion burned to share my creativity.
 As I will continue to demonstrate in this article, there are a
 plethora of more appealing arguments indicating that religion will
 regain prominence. The exponential progress of science contributes
-greatest each generation becomes more vulnerable to detachment
+greatest yields subsequent generations more vulnerable to detachment
 from previous generations. The fabric holding us together begins to
 fray, weakening interpersonal and interfamily support networks. And
 each decade that goes by, fewer cultural artifacts remain steady and
 most evolve or dissipate with technology.  Furthermore, the more
-visible changes take place, the less we pay attention to everything
-that remains steady. If something changes negatively at a slower rate,
-we may not notice until it's too late.
+visibly changes take place, the less we pay attention to everything
+that remains steady. For things that shift beneath our feet, resulting
+in negative change at a slow rate, we may not notice until it's too
+late.
 
-I don't mean to completely attack atheism, as it doesn't do
-anything wrong. Nor do most non-political atheists. It is that we are
-in dire need of stable social structures over the next twenty years.
-We cannot count on the government first to fulfill these needs for us.
-There's been a ton of progress on the social front in the past few
+I don't mean to completely attack atheism, as it doesn't do anything
+wrong. Nor do most non-political atheists. It is that we are in dire
+need of stable social structures over the next twenty years.  We
+cannot count on the government first to fulfill these needs for us.
+There has been a ton of progress on the social front over the past few
 years.
 
 <a name="science-can-be-manipulated-to-control-policy-too" />
@@ -149,7 +150,7 @@ one.
 It turned out Nietzche feared nihilism as much as I. His work covered
 the creeping nihilism encroaching on Western society, as God's
 impending "death" drew nearer. However, I feel Nietzche jumped the gun
-on this. Here's a few articles [barely] worth reading that further describe the
+on this. Here are a few articles that further describe the
 metaphysical ideas above.
 
 #### [Neural Networks and Spider Brains](/posts/2015-11-21-neural-networks-and-spider-brains.html)
@@ -161,36 +162,42 @@ metaphysical ideas above.
 ### [Benefits of Social Institutions](#benefits-of-social-institutions)
 
 In this part, I make an argument for religion's value and ask how
-aetheism fulfills its roles. I understand that it is possible, but
-defined as the absence of religion and mostly decentralized, atheism
-doesn't actually have any embedded mechanisms for passing knowledge
-through ten or more generations. So, yes, it is possible for some
-other cultural mechanism to *incidentally* fulfill that role. I also
-compare atheism to the inversion of religion, instead of the absence
-of it. In the next part, I refute a few common arguments of
-atheism. In the last part, I describe some of my own religious or
-spiritual beliefs.  And to clarify, I don't think atheism is
-inherently wrong.  People are free to choose for themselves,
-obviously. I just think it is short-sighted.
+atheism fulfills its roles. I understand that atheism's fulfillment of
+the social responsibilities of an ideology are possible. Yet, since it
+is defined as the absence of religion and mostly decentralized,
+atheism doesn't actually have any embedded mechanisms for passing
+knowledge through ten or more generations. So, yes, it is possible for
+other cultural mechanisms besides the non-ideology of atheism to
+*incidentally* fulfill that role. I also compare atheism to the
+inversion of religion, instead of the absence of it. In the second
+part, I refute a few common arguments of atheism. In the final part, I
+describe some of my own religious or spiritual beliefs.  To clarify, I
+don't think atheism is inherently wrong.  People are free to choose
+for themselves, obviously. I just think believe it to be a
+short-sighted ideology.
 
 Obviously, humanity has struggled to define the world for tens of
 thousands of years. Mythology and religion enable us to piece together
 a more robust frame. Often, detractors point out that elements of a
 story are logically fallible. Yet, These critics miss the mark: these
-stories attempt to explain the what and how in the world, but IMO lose
+stories attempt to explain the what and how in the world, but lose
 power when interpreted using a singular, literal interpretation. That
 said, to those with a strict religious background, some of these
-arguments could be offensive, though I aim to defend religion and myth.
+arguments could be offensive, though I aim to defend religion and
+myth.
 
 Cracks and faults in these stories and traditions can be found. Yet
 far more important, especially for our ancient ancestors striving to
 survive, myth encoded information vital to that struggle.  Even today,
 myth, whether it is religious or not, encodes vital lessons in these
 fables. Whether or not you take them to be fact, there is value and to
-totally disregard it on the basis of factuality is lunacy. It's a bad
-argument to make with religion, since to be most effective it needs to
-be taken as truth, especially by those who are too young to understand
-these concepts.
+totally disregard it on the basis of factuality is lunacy. For
+religious proponents, it's a self-invalidating argument for religion,
+since to be most effective, a religion must to be taken as absolute
+truth in all ways, literal and symbolic. It is especially important
+for those who are too young to understand these concepts to take a
+religion's word as truth so that the concepts encoded can inculcate
+positive values.
 
 <a name="our-irreplaceable-golden-dies" />
 
@@ -212,10 +219,11 @@ amalgamated archetypes, acting as fixpoints.
 A [Fixpoint](https://en.wikipedia.org/wiki/Fixed-point_combinator),
 from lambda calculus, is a good math metaphor for an
 [archetype](https://en.wikipedia.org/wiki/Archetype), which is like a
-metaphysical apex, prototypical for some concept. An archetype can be
-referenced by, compared with, or meshed with other concepts, yet never
-equated to or surpassed by a concept, with regard to what that
-archetype represents.
+metaphysical apex that is prototypical for some concept. An archetype
+can be referenced by, compared with, or meshed with other concepts,
+yet never equated to or surpassed by a concept, with regard to what
+that archetype represents. For example, the flood is an archetype for
+calamity and disaster.
 
 Myth and religion shape how these archetypes are woven together and,
 in doing so, mould our minds and embed invaluable artifacts and
@@ -226,7 +234,7 @@ choice over how their minds develop, instead of developing in accord
 with religion or myth. Yet, at the age where myth has the greatest
 effect, people are too young to understand that choice. By
 disregarding religion's formative capacity or repudiating it
-throughout your culture, we preclude ourselves from many of the
+throughout our culture, we preclude ourselves from many of the
 benefits. Just to clarify, I'm not saying that everyone should be
 indoctrinated to a specific religion. I am making the argument that
 organized attempts to subdue religion are misguided because there is
@@ -248,7 +256,7 @@ its institutions over the course of several generations. This is an
 effort to disempower the common man by robbing him of the collective
 knowledge and wisdom accumulated over generations. By studying and
 adhering to a belief system and code of ethics established by
-religion, one augments an ability to build a resilient livelihood. In
+religion, one augments our ability to build a resilient livelihood. In
 anticipation of an unprecedented storm, the man, woman or family who
 built the strongest house can rest assured that his/her family will
 sleep at night.
@@ -263,7 +271,7 @@ communities.
 Yes, these institutions and belief systems are vulnerable to
 abuse. No, religious institutions are not perfect, but neither could
 be anything created by man. To their credit, the propensity for
-benefit is immeasureable to acclaimed problems.
+benefit is immeasureable to any acclaimed problems.
 
 <a name="foundations-for-belief-systems" />
 
@@ -295,34 +303,42 @@ assert what another individual knows to imagine the related beliefs
 they might hold.  Which, I guess, is just true about life in general.
 But it means if a religion forms the core of someone's belief systems,
 instead of science, there is less propensity for variation and fewer
-assertions required to pick up on how someone views the basics. Today,
-people obviously need to deal with both, but it's interesting to
-observe how wildly different the core of these belief systems behave.
-Another difference from science is that religions are more likely to
-form a basis for how a person views the world and their relationship
-to it.
+assertions required to pick up on how someone views the basics. In
+this way, a religion instills a schema of beliefs in its
+followers. Without being able to assert a schema of information, any
+assertions of an individuals beliefs in a social situation become
+intractibly inefficient. This is social physics and religion serves to
+render both the assertion and consequences of individuals' belief to
+be tractible problems by providing a schema for the data structure of
+beliefs.
+
+It's interesting to observe how wildly different the core of these
+belief systems behave.  Another difference from science is that
+religions are more likely to form a basis for how a person views the
+world and their relationship to it.
 
 One last difference is that, for the most part, the knowledge that
-forms a religion's basis won't change. This makes them more
-susceptible to changing cultural conditions than science, which can
-adapt. Yet, it also makes a person's basis formed from a religion a
-bit easier to understand. They are likely to share much of that basis
-with other believers. Or they could; obviously it's best not to label
-anyone. Every person is an individual. And I feel like I should note
-that it's incredibly shitty to contort someone's religious based views
-against them. If I have ever done that to you, I am so incredibly
-sorry.
+forms a religion's basis won't change. This makes them both more and
+less resillient to changing cultural conditions than science, which
+ostensibly can adapt. Yet, it also makes a person's basis formed from
+a religion a bit easier to understand. They are likely to share much
+of that basis with other believers. Or they could; obviously it's best
+not to label anyone. Every person is an individual. And I should note
+that it is horrible to contort someone's religious views against them.
+If I have ever done that to you, I am so incredibly sorry.
 
-Because the belief systems extrapolated from a basis can rapidly
-change in many ways upon the introduction of new knowledge, it's
-complex to predict how those beliefs will change. If you can reliably
-do so, you can capture opportunity and reduce risk. If you can
-control how information is published, disseminated or interpreted, you
-can control how opportunity and risk are signaled within the
-system. Larger religious organizations suffer some of the same flaws
-as well, where people try to acquire power.  Both science and religion
-can be misused, yet I think science has the propensity for being
-misused in subtle, hard to control ways.
+Because an individual's personal system of belief that is extrapolated
+from a basis can rapidly change in many ways upon the introduction of
+new knowledge, it's complex to predict how those beliefs will
+change. If you can reliably do so, you can capture opportunity and
+reduce risk in business and politics. If you can control how
+information is published, disseminated or interpreted, you can control
+how opportunity and risk are signaled within the system. Larger
+religious organizations suffer some of the same flaws as science in
+this regard, where people try to contort publication of information to
+acquire or preserve power.  Both science and religion can be misused,
+yet I think science has the propensity for being misused in subtle,
+hard to control ways.
 
 <a name="atheism-is-an-ideology" />
 
@@ -331,9 +347,11 @@ misused in subtle, hard to control ways.
 Atheism has a myriad of philosophic consequences for ethics, morality
 and public policy. The conclusions stemming from atheism include that
 it is unfair to base policy decisions on religion and that it is
-misguided to judge others on religious beliefs (hypocritical for some
-atheists).  These consequential beliefs are reached solely by
-believing that there is no god.  Quite simply, atheism is an ideology.
+misguided to judge others on religious beliefs. This is hypocritical
+because atheism itself is a belief system. From a Hegelian perspective
+on metaphysics, it is *the* minimalist belief system. These
+consequential beliefs are reached solely by believing that there is no
+god. Quite simply, atheism is an ideology.
 
 But, if you would argue that "atheism is the absence of any beliefs,"
 I would say that is false.  Atheism requires the belief that there are
@@ -342,11 +360,11 @@ philosophic conclusions that one may reach from this single belief,
 atheism is still a belief system.
 
 And a very shifty belief system at that.  Since atheism attests that
-because it is composed of no beliefs, the philosophy of atheism
-appears to be irreproachable.  This would make atheism moreso the
-inversion of a religion.  A religion where the the handful of
-adherents seek to dismantle, disempower and destroy all other
-religions, while maintaining rhetorical invulnerability through
+it is composed of no beliefs and is therefore not a belief system, the
+philosophy of atheism appears to be irreproachable.  This would make
+atheism moreso the inversion of a religion.  A religion where the the
+handful of adherents seek to dismantle, disempower and destroy all
+other religions, while maintaining rhetorical invulnerability through
 statements like "atheism is not a religion," "atheism is not an
 ideology," and "atheism is not a belief system."
 
@@ -356,12 +374,13 @@ ideology," and "atheism is not a belief system."
 
 And after zealot-level atheists have dismantled other religions, they
 do not replace it with anything, for they do not and cannot understand
-the value of religion. This is disheartening, since it is so capable
-of accumulating and propagating transgenerational wisdom.  Atheism
-completely lacks those mechanisms. So does science, outside the
-educational system, which is specialized. This corrodes some cultures
-that blindly march on, oblivious to the successive demoralization of
-each generation. They see it all around them:
+the value of religion. This is disheartening, since atheism, in
+itself, is incapable of accumulating and propagating transgenerational
+wisdom.  Atheism completely lacks those mechanisms. So does science,
+outside the educational system, which is specialized towards the
+development of secular knowledge. This corrodes some cultures that
+blindly march on, oblivious to the successive demoralization of each
+generation. We can see this demoralization all around us:
 
 #### &#x2285; People are easily distracted from their dreams and goals
 
@@ -381,29 +400,32 @@ each generation. They see it all around them:
 
 #### &#x2285; Friendship and family is commoditized and can easily be replaced
 
-#### &#x2285; They become drawn to influential people with quick benefit
+#### &#x2285; They become drawn to influential people for quick benefit
 
-#### &#x2285; They can't cope when it gets tough or think to ask
+#### &#x2285; They can't cope when it gets tough
+
+#### &#x2285; They don't think to ask for help or don't know where to look
 
 #### &#x2285; They are less likely to help others in need or care
 
 (Yes, this piece is fairly opinionated)
 
 We're approaching the extremes of Nietzche's baseless society haunted
-by nihilism. God has been declared dead for some time. We're seeing a
-huge shift in culture and IMO it is incredibly negative. Many people
-might not consider me to be the most moral person, depending on their
-definition of morality, yet I don't think you could find anyone that
-could say I'm unethical.
+by nihilism. God has been declared dead for over a century. We're
+seeing a huge shift in culture and IMO it is incredibly negative. Many
+people might not consider me to be the most moral person, depending on
+their definition of morality, yet I don't think you could find anyone
+that could argue I'm unethical.
 
-The major world religions are waning away and influence to science,
+The major world religions are waning away via science's influence,
 which seems much more capable of demonstrating truth and mastery over
 the world. Maybe God really did die -- but people faintly feel
-something missing, but can't really put their finger on it. By 2030 or
-2040 it will bounce back and become more influential than it has in a
-hundred years. The next generation of ours will wake up and understand
-that their unknown missing piece is cultivation of their connection to
-God or to spirituality or to the Atman.
+something missing, but can't really put their finger on it. God will
+return. By 2030 or 2040, religion will bounce back and become more
+influential than it has in a hundred years. The next generation of
+ours will wake up and understand that their unknown missing piece is
+cultivation of their connection to God or to spirituality or to the
+cultivation of Atman.
 
 ## Part 2: Of God and Atheisms
 
