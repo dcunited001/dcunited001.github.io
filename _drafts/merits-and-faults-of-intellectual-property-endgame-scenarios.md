@@ -10,7 +10,6 @@ excerpt: ""
 
 - need to explore more about the merits/faults of final distributions
   of intellectual property holdings.
-  - how to state this in a thesis?
   - this is the interesting idea here, but
 
 The capacity of the human mind seems infinite. The capacity for our
@@ -21,7 +20,8 @@ of actual progress, such cyclic dynamics are inefficient and wasteful.
 
 - examples of cyclic dynamics
 
-    - There are finitely many ideas to be discovered
+The economic distruption we see today is not.
+- There are finitely many ideas to be discovered
     - while one can alter the sequence in which ideas are developed to
       increase the amount of flux in liquidity that results to
       optimize the economics of innovation, there is a final endgame
@@ -139,7 +139,9 @@ imagination, but they're not exactly evil for it. They don't care if
 you didn't mean to and it ain't personal, but it gets personal. This
 family of characters simply does not want the wrong things to happen
 with regard to AI & if you get close to that, they'll find you. Like
-Hollywood.  Don't worry, don't call us, we'll call you. The end.
+Hollywood:
+
+> Don't worry, don't call us, we'll call you. The end.
 
 <a name="" />
 
@@ -185,6 +187,176 @@ islands and disposable helicopters.  Actually, today, all of that
 materialistic stuff represents a waste of thought, time and energy. I
 don't want it.
 
+==========
+
+# [Economic Opportunity in the 2020's]()
+
+A depressing, but fundamental difference between this decade's novel
+economic opportunities and those of the 2020's is that they are
+profoundly less accessible for the common person. This is an emergent
+aspect of today's economic reality that I have been well aware of
+since 2013. I realized that the wave of startups was a gold rush, but
+essentially a fad. It is a gold rush where the gold is intellectual
+property and cultivated market share, but once the IP is gone, it's
+gone! When considering the nature of economic opportunities over the
+next few decades, once these new innovative companies have established
+dominant market share, it will be nearly impossible to disrupt.
+
+So, yes, I really was willing to risk it all, knowing that I would
+likely make almost nothing if I failed because I understood that the
+risk vs. payoff and barriers to entry for new businesses in the 2010's
+profoundly departs from that of the 2020's. So then, accepting the
+opportunity cost of doing nothing was unacceptable to me, even if it
+cost me everything. There are still economic opportunities of course,
+but they are exponentially less accessible to the common person. The
+exceptions to this will be few and far between, but the barriers to
+entry are technically and financially prohibitive for most people. You
+will either need millions in VC funding to invest or an IQ of 150 or
+above and rigorous academic performance to stay on top.
+
+The unicorns are dying, folks. Keep your fingers crossed, but Facebook
+was a fluke.
+
+<a name="machine-learning-for-x" />
+
+### [Machine Learning for X](#machine-learning-for-x)
+
+Disrupting industry X with some new machine learning technology became
+available in the late 2010's primarily because of three factors.
+
+#### The Availability and Computational Capacity of the Cloud
+
+#### The ability for businesses to interconnect data streams over the well-established architecture of the internet
+
+#### Awareness & Understanding of Machine Learning Techniques
+
+  - by the time we reach the 2020's, nearly all of the machine
+    learning opportunities will be gone.
+  - What happens to most machine learning startups?
+    - Acquisition for intellectual property.
+    - I knew this in 2013 and it should be obvious to pretty much
+      everyone.
+  -
+
+#### Why is this Less Accessible?
+
+It requires a profound understanding of statistical methods, as well
+as the computational limits to their application. New opportunites
+will emerge upon the introduction of novel computing fabric.
+i.e. quantum computing, application-specific processor architecture,
+methods of shared memory for CPU/GPU, etc.
+
+To capture these opportunites you have to know everything about
+everything: statistical methods, the specific application, the
+applicability & availability of upcoming innovative architectures,
+market viability and competition, competing business models, the state
+of intellectual property distribution, etc. It requires mastery of
+advanced mathematics on top of a rigorous understanding of the
+specific machine learning application, in combination with business,
+legal, networking and financial skills.
+
+That's just the technical baseline for opportunities machine learning.
+All of that applies, and more, for the opportunities in finance,
+materials science and biotech. Further, there is more risk on average,
+with assuredly less payoff.
+
+<a name="vr-for-x" />
+
+### [VR for X](#vr-for-x)
+
+Of course, there's always VR and AR, right? Isn't VR just another UI
+platform where Snapchats and Facebooks of yesteryear will be reborn
+again? Nope. What's more valuable:
+
+#### Facebook's technology or Facebook's Content Distribution Platform?
+
+#### Facebook's Content Delivery or Facebook's Existing Social Media Market Share?
+
+Why is facebook's market share so valuable? Because *people* have to
+*learn* to use technology. They have to adapt to it. They are going to
+gravitate towards what *feels* similar. Further, the market
+penetration requirements for VR are depressing. It takes time for that
+hardware to be pushed out, therefore Facebook is far more likely to
+extend it's current content distribution platform than another
+sudden-but-extremely-innovative product is to disrupt it. 
+
+For VR and VR Apps, *timing*, hardware market share, and OS
+universiality are everything. Opportunities for innovation are stifled
+because society will take longer to grow comfortable with innovative
+UI possibilities and because OS universiality is a major software
+challenge for both platform & software developers. What is OS
+universiality? It is the ability for any VR OS/software to trivially
+extend itself with almost any hardware, without overly restrictive
+configuration.
+
+There are major business challenges inherent in VR/AR, which I discuss
+at length in
+[this video series from 2015](https://www.youtube.com/watch?v=hBAINyOzXVY&index=5&list=PLEJEA9mYfeKjEbBxmiHEHpLcqnx5DIrYr).
+If software developers must choose between one VR platform or another,
+they will choose neither and look for the minimally viable platform:
+mobile. If software developers must choose between developing for
+hardware extensions, like IR/UV sensors, and growing their software's
+marketability, they will choose the minimally viable platform. The
+only way to solve this is to develop a framework for VR operating
+system extensions that enables the extension of types of hardware
+devices *seemlessly*, so that application developers can augment their
+apps with hardware, if it's available. This technical challenge is
+almost insurmountable.
+
+- if consumers become frustrated with constantly shifting hardware
+  without engaging software, they will begin to perceive the whole
+  thing as a fad.
+  
+  - [Nintendo License Seal]()
+
+
+
+These tech giants already exist. They're going to compel you to
+integrate their API's anyways. They already have a head start. Because
+of the slow evolution in user behavior, the raw expense of VR hardware
+and low hardware penetration rates, tech giants will retain
+control. Agility and innovation only get you so far and, here, the
+cost and risk to compete are prohibitive.
+
+
+### [Content for VR](#content-for-vr)
+
+  - marketing expenditures
+  - market saturation
+
+
+#### Why is this Less Accessible?
+
+- technical challenges (geometry, etc) and the overall level of work
+- content, content, content and more content
+  - about anything you can develop requires just as much art and
+    content as any video game
+
+<a name="financial-applications" />
+
+### Financial Applications
+
+- trading algorithms
+  - also similarly expanded by novel developments in computing.
+  - it would seem generally true -- and should be just as obvious as
+    it has been for decades -- that all major advances in technology
+    begin with advances in computation.
+
+- why isn't this accesible for the common person?
+  - complexity in regulation
+
+#### Why is this Less Accessible?
+
+
+### Materials Science Fabrication
+
+- why isn't this accesible for the common person?
+
+#### Why is this Less Accessible?
+
+### Biotech Revolution
+
+#### Why is this Less Accessible?
 
 ==========
 
