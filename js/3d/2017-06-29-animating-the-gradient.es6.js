@@ -11,7 +11,8 @@ window.createProgram = function (gl, vertexShaderSource, fragmentShaderSource, o
   var defines = options.defines || {};
 
   var shaderPrefix = "#version 300 es\n";
-  shaderPrefix += "#extension EXT_color_buffer_float : enable\n"; // not supported in chrome
+  shaderPrefix += "#extension EXT_color_buffer_float : enable\n";
+  shaderPrefix += "#extension OES_texture_float_linear: enable\n";
 
   var precisionPrefix = `
     precision highp float;
@@ -442,7 +443,8 @@ function runWebGL() {
 
   var particleRandomsAttachments,
     particleAttachments,
-    particleMomentums;
+    particleMomentums,
+    particleForces;
 
   particleRandomsAttachments = [0,1,2].map((f) => {
     gl.activeTexture(gl.TEXTURE0);
@@ -503,10 +505,30 @@ function runWebGL() {
     return tex;
   });
 
+  particleForces = [0,1,2].map((f) => {
+    gl.activeTexture(gl.TEXTURE0);
+    var tex = gl.createTexture();
+    gl.bindTexture(gl.TEXTURE_2D, tex);
+    gl.texStorage2D(gl.TEXTURE_2D, 1, gl.RGBA32F, particleResolution[0], particleResolution[1]);
+    gl.texSubImage2D(gl.TEXTURE_2D,
+      0,
+      0, // x offset
+      0, // y offset
+      particleResolution[0],
+      particleResolution[1],
+      gl.RGBA,
+      gl.FLOAT,
+      new Float32Array(particleResolution[0] * particleResolution[1] * 4)
+    );
+
+    gl.bindTexture(gl.TEXTURE_2D, null);
+    return tex;
+  });
+
   particlePonger.registerTextures('particleRandoms', particleRandomsAttachments);
   particlePonger.registerTextures('particles', particleAttachments);
   particlePonger.registerTextures('particleMomentums', particleMomentums);
-  //particlePonger.registerTextures('particleForces', particleForces);
+  particlePonger.registerTextures('particleForces', particleForces);
 
   var particleFboConfig = {
     particleRandoms: {
@@ -517,6 +539,9 @@ function runWebGL() {
     },
     particleMomentums: {
       colorAttachment: gl.COLOR_ATTACHMENT2
+    },
+    particleForces: {
+      colorAttachment: gl.COLOR_ATTACHMENT3
     }
   };
 
@@ -635,6 +660,12 @@ function runWebGL() {
   gl.samplerParameteri(samplerNearest, gl.TEXTURE_WRAP_S, gl.CLAMP_TO_EDGE);
   gl.samplerParameteri(samplerNearest, gl.TEXTURE_WRAP_T, gl.CLAMP_TO_EDGE);
 
+  var samplerLinear = gl.createSampler();
+  gl.samplerParameteri(samplerLinear, gl.TEXTURE_MIN_FILTER, gl.LINEAR); //_MIPMAP_NEAREST);
+  gl.samplerParameteri(samplerLinear, gl.TEXTURE_MAG_FILTER, gl.NEAREST);
+  gl.samplerParameteri(samplerLinear, gl.TEXTURE_WRAP_S, gl.REPEAT);
+  gl.samplerParameteri(samplerLinear, gl.TEXTURE_WRAP_T, gl.REPEAT);
+
 // =======================================
 // Render Pass: Particles
 // =======================================
@@ -647,16 +678,18 @@ function runWebGL() {
     },
     encodeUniforms: (context, uniforms, ops) => {
       context.uniform2fv(rpParticles.uniformLocations.u_resolution, uniforms.resolution);
+      context.uniform2fv(rpParticles.uniformLocations.u_fieldResolution, uniforms.fieldResolution);
       context.uniform4iv(rpParticles.uniformLocations.u_randomSeed, uniforms.randomSeed);
       context.uniform1f(rpParticles.uniformLocations.u_particleSpeed, uniforms.particleSpeed);
       context.uniform4fv(rpParticles.uniformLocations.u_deltaTime, uniforms.deltaTime);
       context.uniform1i(rpParticles.uniformLocations.u_physicsMethod, uniforms.physicsMethod);
       context.uniform1i(rpParticles.uniformLocations.u_spaceType, uniforms.spaceType);
+      context.uniform1i(rpParticles.uniformLocations.u_bilinearInterpolation, uniforms.bilinearInterpolation);
       context.uniform1i(rpParticles.uniformLocations.s_particleRandoms, 0);
       context.uniform1i(rpParticles.uniformLocations.s_particles, 1);
       context.uniform1i(rpParticles.uniformLocations.s_particleMomentums, 2);
-      context.uniform1i(rpParticles.uniformLocations.s_particleForces, 3);
-      context.uniform1i(rpParticles.uniformLocations.s_repelFieldGradient, 4);
+      context.uniform1i(rpParticles.uniformLocations.s_particleForceSplat, 3);
+      context.uniform1i(rpParticles.uniformLocations.s_repelField, 4);
     },
     encodeTextures: (context, uniforms, ops) => {
       context.activeTexture(context.TEXTURE0);
@@ -672,18 +705,19 @@ function runWebGL() {
       context.bindSampler(2, samplerNearest);
 
       context.activeTexture(context.TEXTURE3);
-      context.bindTexture(context.TEXTURE_2D, ops.particleForces);
+      context.bindTexture(context.TEXTURE_2D, ops.particleForceSplat);
       context.bindSampler(3, samplerNearest);
 
       context.activeTexture(context.TEXTURE4);
-      context.bindTexture(context.TEXTURE_2D, ops.repelFieldGradient);
+      context.bindTexture(context.TEXTURE_2D, ops.repelField);
       context.bindSampler(4, samplerNearest);
     },
     encodeDraw: (context, uniforms, ops) => {
       context.drawBuffers([
         context.COLOR_ATTACHMENT0,
         context.COLOR_ATTACHMENT1,
-        context.COLOR_ATTACHMENT2
+        context.COLOR_ATTACHMENT2,
+        context.COLOR_ATTACHMENT3
       ]);
 
       context.bindVertexArray(anyQuad.vertexArray);
@@ -693,15 +727,18 @@ function runWebGL() {
 
   rpParticles.setUniformLocations(gl, [
     'u_resolution',
+    'u_fieldResolution',
     'u_randomSeed',
     'u_particleSpeed',
     'u_deltaTime',
     'u_physicsMethod',
     'u_spaceType',
+    'u_bilinearInterpolation',
     's_particleRandoms',
     's_particles',
     's_particleMomentums',
-    's_particleForces'
+    's_particleForceSplat',
+    's_repelField'
   ]);
 
 // =======================================
@@ -1087,7 +1124,7 @@ function runWebGL() {
   var physicsMethods = {
     brownian: 0,
     splat: 1,
-    gradient: 2
+    field: 2
   };
 
   var spaceType = 0;
@@ -1097,8 +1134,9 @@ function runWebGL() {
     infinite: 2
   };
 
-  var deferGradientCalc, fractRenderValues, renderMagnitude, circularFieldEffect, forceCalcInGlPointSpace, scaleRenderValues;
+  var fractRenderValues, renderMagnitude, forceCalcInGlPointSpace;
 
+  var scaleRenderValues, circularFieldEffect, deferGradientCalc, bilinearInterpolation;
   var resetParticles = false, resetParticlesWith = 'random';
 
   window.setResetParticles = function() {
@@ -1112,6 +1150,9 @@ function runWebGL() {
   var particleResetVectorFields = {
     random: function(x,y) {
       return new Float32Array([2 * Math.random() - 1.0, 2 * Math.random() - 1.0, 0, 0]);
+    },
+    zero: function(x,y) {
+      return new Float32Array([0,0,0,0]);
     },
     outward: function(x,y) {
       return new Float32Array([x, y, 0, 0]);
@@ -1151,6 +1192,7 @@ function runWebGL() {
       scaleForceToSpace: document.getElementById('scale-force-to-space'),
       circularFieldEffect: document.getElementById('circular-field-effect'),
       deferGradientCalc: document.getElementById('defer-gradient-calc'),
+      bilinearInterpolation: document.getElementById('bilinear-interpolation'),
 
       fractRenderValues: document.getElementById('fract-render-values'),
       scaleRenderValues: document.getElementById('scale-render-values'),
@@ -1188,6 +1230,7 @@ function runWebGL() {
     scaleRenderValues = ui.scaleRenderValues.checked;
     renderMagnitude = ui.renderMagnitude.checked;
     circularFieldEffect = ui.circularFieldEffect.checked;
+    bilinearInterpolation = ui.bilinearInterpolation.checked;
 
     forceCalcInGlPointSpace = !ui.scaleForceToSpace.checked;
     if (forceCalcInGlPointSpace) {
@@ -1213,6 +1256,9 @@ function runWebGL() {
     for (var k of ['momentum', 'fps']) {
       linePlots[k].enabled = ui.togglePlot[k].checked;
     }
+
+    // disable bilinear checkbox unless
+    ui.bilinearInterpolation.disabled = !(physicsMethod == 2);
   }
 
   window.togglePause = function() {
@@ -1376,6 +1422,30 @@ function renderDebugTexture(pixels) {
   createDebugTexture = false;
 }
 
+var debugParticlePixels = new Float32Array(particleResolution[0] * particleResolution[1] * 4);
+
+function renderDebugParticleTexture(pixels) {
+
+  gl.activeTexture(gl.TEXTURE0);
+  var debugTexture = gl.createTexture();
+  gl.bindTexture(gl.TEXTURE_2D, debugTexture);
+
+  gl.texStorage2D(gl.TEXTURE_2D, 1, gl.RGBA32F, particleResolution[0], particleResolution[1]);
+  gl.texSubImage2D(gl.TEXTURE_2D,
+    0,
+    0, // x offset
+    0, // y offset
+    particleResolution[0],
+    particleResolution[1],
+    gl.RGBA,
+    gl.FLOAT,
+    pixels);
+  gl.bindTexture(gl.TEXTURE_2D, null);
+
+  createDebugTexture = false;
+}
+
+
 // =======================================
 // Render Loop
 // =======================================
@@ -1441,11 +1511,13 @@ function renderDebugTexture(pixels) {
 
       var particleUniforms = {
         resolution: particleResolution,
+        fieldResolution: renderResolution,
         randomSeed: makeIntRandomUniforms(),
         particleSpeed: particleSpeed,
         deltaTime: deltaT,
         physicsMethod: physicsMethod,
-        spaceType: spaceType
+        spaceType: spaceType,
+        bilinearInterpolation: bilinearInterpolation
       };
 
       rpParticles.encode(gl, particleUniforms, {
@@ -1453,12 +1525,21 @@ function renderDebugTexture(pixels) {
         particleRandoms: particlePonger.getCurrent('particleRandoms'),
         particles: particlePonger.getCurrent('particles'),
         particleMomentums: particlePonger.getCurrent('particleMomentums'),
-        particleForces: forceSplatTexture,
-        repelFieldGradient: fieldPonger.getCurrent('repelFieldGradient')
+        particleForceSplat: forceSplatTexture,
+        repelField: fieldPonger.getCurrent('repelField')
       });
 
-      particlePonger.increment();
+      if (createDebugTexture) {
+        gl.bindFramebuffer(gl.DRAW_FRAMEBUFFER, null);
+        gl.bindFramebuffer(gl.READ_FRAMEBUFFER, particlePonger.getCurrentFbo());
+        gl.readBuffer(gl.COLOR_ATTACHMENT1);
+        var debugParticlePixels = new Float32Array(particleResolution[0] * particleResolution[1] * 4);
+        gl.readPixels(0, 0, particleResolution[0], particleResolution[1], gl.RGBA, gl.FLOAT, debugParticlePixels);
+        renderDebugParticleTexture(debugParticlePixels);
+        console.log(debugParticlePixels);
+      }
 
+      particlePonger.increment();
     }
 
     var fieldsUniforms = {
@@ -1494,6 +1575,11 @@ function renderDebugTexture(pixels) {
       gradientTexture = fieldPonger.getCurrent('repelFieldGradient');
     }
     gradientPonger.increment();
+
+    //gl.activeTexture(gl.TEXTURE0);
+    //gl.bindTexture(gl.TEXTURE_2D, gradientTexture);
+    //gl.generateMipmap(gl.TEXTURE_2D);
+    //gl.bindTexture(gl.TEXTURE_2D, null);
 
     var renderFieldsUniforms = {
       resolution: renderResolution,
