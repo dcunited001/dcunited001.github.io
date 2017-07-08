@@ -232,8 +232,8 @@ diversion of liquidity.
 Technology changes commodity markets and demand for resources. Those
 with broader portfolios can spead out their risk amoung more foreign
 direct investments, currency holdings and asset holdings. High
-utilization rates on capital available to investors could limit
-exposure to systemic problems in the currency markets.
+leverage on capital available to investors could limit exposure to
+systemic problems in the currency markets.
 
 <a name="ten-major-factors" />
 

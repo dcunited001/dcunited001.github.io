@@ -1,7 +1,7 @@
 ---
 title: "Money: It's Never Going Away"
 categories: "blog"
-tags: "oneirontology religion semiotics linguistics"
+tags: ""
 headline: ""
 author:
   name: "David Conner"

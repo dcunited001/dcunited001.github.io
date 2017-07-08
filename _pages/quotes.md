@@ -21,3 +21,5 @@ permalink: /quotes/
 > the energy stemming from your mind and heart. Those poor in spirit
 > can't hope but find themselves simply controlled and merely
 > predicted.
+
+> Every man is born as many men and dies not, but becomes every man.

@@ -10,7 +10,7 @@ excerpt: ""
 
 - need to explore more about the merits/faults of final distributions
   of intellectual property holdings.
-  - this is the interesting idea here, but
+- this is the interesting idea here, but
 
 The capacity of the human mind seems infinite. The capacity for our
 culture and our economy to be improved by innovation is ultimately a
@@ -70,7 +70,9 @@ economic system can evolve towards one which is fair and beneficial or
 one where greed and lust for power overtake such fragile notions of
 peace and equitable prosperity.
 
-### Potential Politicization of Intellectual Property
+
+
+### [Politicization of IP](#politicization-of-ip)
 
 - this section underscores the problem with disruption tactics applied
   politically towards innovation: one side assumes protracted
@@ -106,7 +108,9 @@ advantage. While I trust some groups in the Western world with such
 responsibility, I'm not so sure that some groups in the global economy
 would execute that duty altruistically.
 
-### [What Makes a Good Steward of Future Intellectual Property Holdings?](#what-makes-a-good-steward-of-future-intellectual-property-holdings)
+<a name="stewardship-of-future-ip-holdings" />
+
+### [Stewardship of Future IP Holdings](#stewardship-of-future-ip-holdings)
 
 And its not a joke: we're getting close to a world that might be
 controlled by esoteric groups of corporate conglomerates who act as
@@ -117,8 +121,8 @@ world could be better off for it or certainly doomed, were greedy
 self-interest to delude whoever holds the keys to genomic science or
 nano science.
 
-This isn't actually a novel idea. Nope, it's a *novel* idea!
-Literally. As in William Gibson's brilliant Neuromancer -- one of the
+This isn't actually a novel idea. Nope, it's a *novel* idea.
+Literally, as in William Gibson's brilliant Neuromancer -- one of the
 best books I've ever read whence the Matrix was a major departure --
 the Tessier-Ashpool family maintains a monopoly over intellectual
 property related to artifical intelligence. I don't think I'm throwing
@@ -187,9 +191,9 @@ islands and disposable helicopters.  Actually, today, all of that
 materialistic stuff represents a waste of thought, time and energy. I
 don't want it.
 
-==========
+<a name="economic-opportunity-in-the-2020s" />
 
-# [Economic Opportunity in the 2020's]()
+# [Economic Opportunity in the 2020's](#economic-opportunity-in-the-2020s)
 
 A depressing, but fundamental difference between this decade's novel
 economic opportunities and those of the 2020's is that they are
@@ -278,7 +282,7 @@ gravitate towards what *feels* similar. Further, the market
 penetration requirements for VR are depressing. It takes time for that
 hardware to be pushed out, therefore Facebook is far more likely to
 extend it's current content distribution platform than another
-sudden-but-extremely-innovative product is to disrupt it. 
+sudden-but-extremely-innovative product is to disrupt it.
 
 For VR and VR Apps, *timing*, hardware market share, and OS
 universiality are everything. Opportunities for innovation are stifled
@@ -305,7 +309,8 @@ almost insurmountable.
 
 - if consumers become frustrated with constantly shifting hardware
   without engaging software, they will begin to perceive the whole
-  thing as a fad.
+  thing as a fad. If Nietzsche were writing this, he'd probably call
+  this VR's "Danger of Dangers."
   
   - [Nintendo License Seal]()
 
@@ -342,21 +347,26 @@ cost and risk to compete are prohibitive.
     it has been for decades -- that all major advances in technology
     begin with advances in computation.
 
-- why isn't this accesible for the common person?
-  - complexity in regulation
-
 #### Why is this Less Accessible?
 
+  - complexity in regulation
 
 ### Materials Science Fabrication
 
 - why isn't this accesible for the common person?
 
-#### Why is this Less Accessible?
-
-### Biotech Revolution
 
 #### Why is this Less Accessible?
+
+- requires combinations of IP to be licensed
+
+### Biotech & Medical
+
+#### Why is this Less Accessible?
+
+- academic institutions control development of IP
+
+- overregulation of medical processes and devices
 
 ==========
 

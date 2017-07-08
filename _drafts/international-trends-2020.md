@@ -38,6 +38,7 @@ excerpt: ""
     - space, in particular, will require major changes to the
       international framework
     - conflict will necessitate changes
+    - there will be a disruption to continuity in consensus
 
 - diatribe on energy and entropy
   - argument for an energy tax as the end state for tax policy
@@ -391,6 +392,12 @@ never would)
         OPPORTUNITIES
         - *so basically, your life better be a great goddamn charity
           case, because otherwise you are shit out of luck.*
+
+### Notes on ISDS from other drafts
+
+- trade agreements, ISDS courts and sovereignty
+- complexity of ISDS agreements and the similarity to secret pre-WW1
+  treaties amoung european nations
 
 # Global Geopolitical Analysis
 

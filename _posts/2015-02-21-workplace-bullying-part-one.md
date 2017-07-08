@@ -18,17 +18,6 @@ redirect_from:
 
 #### &#x2605; Overview &#x2605; [General Strategies](/posts/2015-02-24-workplace-bullying-part-two.html) &#x2605; [Specific Tactics](/posts/2015-02-25-workplace-bullying-part-three.html) &#x2605; [Tools Against Bullying](/posts/2015-02-26-workplace-bullying-part-four.html)
 
-# Update (9/4/2016)
-
-### "Workplace Bullying" is now "Defense Against the Dark Arts"
-
-I recently rewrote this article after discovering the "T4rG3ted
-1ndiv1dual" Community. While alot of that stuff is batshit insane, I
-have experienced a decade of this. I am a TI in pain and have been
-since at least 2010. So I recently renamed my workplace bullying
-survival guide to: **Defense Against the Dark Arts**. Here's the
-[new summary post]().
-
 ### No person should ever be miserable at their place of work.
 
 > You should do what you love and love what you do.

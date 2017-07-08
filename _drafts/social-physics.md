@@ -18,6 +18,7 @@ like I'm reading something a fucking alien wrote.
 - particle physics crossed with graph theory
   - with biophysics-like state-machines, with idealized particles and
     less-complex physical state
+- social physics is like a (macrocosm) of biophysics
 
 ## A Typology of Occupations
 
@@ -109,7 +110,10 @@ like I'm reading something a fucking alien wrote.
     specific or general behavior and you cannot expect to extrapolate
 - this leads into a discussion of schematic complexity
 
-## Discussion of Schematic Complexity
+- a second critical factor is the lack of multitasking:
+  - particles can only really do one thing & can only think one thing
+    at a time, which bounds how quickly state changes can occur ##
+    Discussion of Schematic Complexity
 
 - complexity of information crossed with type theory
 - social physics simulations are rooted in particle physics w/ shared
@@ -333,6 +337,8 @@ their own subjective demise is perhaps the greatest power.
   changes
 
 # Social Physics Simulation Ideas
+
+[for a 2-force simulation, where one force operates with orientation](https://peeterjoot.wordpress.com/2009/12/08/jacobians-and-spherical-polar-gradient/)
 
 #### cocktail party simulation
 
