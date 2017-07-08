@@ -21,6 +21,7 @@
         <li><a href="#" onclick="setResetParticlesWith('merger')">Merger: (-y,-x)</a></li>
         <li><a href="#" onclick="setResetParticlesWith('vector-field-xy-x')">p(x,y) = (xy,-x)</a></li>
         <li><a href="#" onclick="setResetParticlesWith('vector-field-y-xy')">p(x,y) = (y,xy)</a></li>
+        <li><a href="#" onclick="setResetParticlesWith('zero')">Zero: (0,0)</a></li>
       </ul>
     </div>
 
@@ -58,7 +59,7 @@
     <div class="btn-group navbar-left" data-toggle="buttons">
       <label class="btn btn-lit-info btn-lit navbar-btn"><input type="radio" name="physics-method" value="0"/>Brownian</label>
       <label class="btn btn-lit-info btn-lit navbar-btn active"><input type="radio" name="physics-method" value="1" checked/>Splat</label>
-      <label class="btn btn-lit-info btn-lit navbar-btn"><input type="radio" name="physics-method" value="2"/>Gradient</label>
+      <label class="btn btn-lit-info btn-lit navbar-btn"><input type="radio" name="physics-method" value="2"/>Field</label>
     </div>
 
     <ul class="nav navbar-nav navbar-left">
@@ -86,8 +87,8 @@
     </ul>
 
     <div class="btn-group navbar-left" data-toggle="buttons">
-      <label class="btn btn-lit-info btn-lit navbar-btn active"><input type="radio" name="space-type" value="0"/>Finite</label>
-      <label class="btn btn-lit-info btn-lit navbar-btn"><input type="radio" name="space-type" value="1" checked/>Wrapped</label>
+      <label class="btn btn-lit-info btn-lit navbar-btn"><input type="radio" name="space-type" value="0"/>Finite</label>
+      <label class="btn btn-lit-info btn-lit navbar-btn active"><input type="radio" name="space-type" value="1" checked/>Wrapped</label>
       <label class="btn btn-lit-info btn-lit navbar-btn"><input type="radio" name="space-type" value="2"/>Infinite</label>
     </div>
 
@@ -114,6 +115,10 @@
 
       <label for="field-size">Field Effect Size:</label>
       <input id="field-size" type="range" min="1.0" max="300.0" step="1.0" value="75.0"/>
+
+      <label for="field-min-factor">Field Min Distance:</label>
+      <!--<input id="field-min-factor" type="range" min="0.1" max="20.0" step="0.1" value="1.0"/>-->
+      <input id="field-min-factor" type="range" min="2.0" max="16.0" step="0.1" value="8.0"/>
 
       <label for="max-field-lines">Clamp Field Lines:</label>
       <input id="max-field-lines" type="range" min="0.0" max="10.0" step="1.0" value="1.0"/>

@@ -11,7 +11,8 @@ window.createProgram = function (gl, vertexShaderSource, fragmentShaderSource, o
   var defines = options.defines || {};
 
   var shaderPrefix = "#version 300 es\n";
-  shaderPrefix += "#extension EXT_color_buffer_float : enable\n"; // not supported in chrome
+  shaderPrefix += "#extension EXT_color_buffer_float : enable\n";
+  shaderPrefix += "#extension OES_texture_float_linear: enable\n";
 
   var precisionPrefix = `
     precision highp float;
@@ -442,7 +443,8 @@ function runWebGL() {
 
   var particleRandomsAttachments,
     particleAttachments,
-    particleMomentums;
+    particleMomentums,
+    particleForces;
 
   particleRandomsAttachments = [0,1,2].map((f) => {
     gl.activeTexture(gl.TEXTURE0);
@@ -503,10 +505,30 @@ function runWebGL() {
     return tex;
   });
 
+  particleForces = [0,1,2].map((f) => {
+    gl.activeTexture(gl.TEXTURE0);
+    var tex = gl.createTexture();
+    gl.bindTexture(gl.TEXTURE_2D, tex);
+    gl.texStorage2D(gl.TEXTURE_2D, 1, gl.RGBA32F, particleResolution[0], particleResolution[1]);
+    gl.texSubImage2D(gl.TEXTURE_2D,
+      0,
+      0, // x offset
+      0, // y offset
+      particleResolution[0],
+      particleResolution[1],
+      gl.RGBA,
+      gl.FLOAT,
+      new Float32Array(particleResolution[0] * particleResolution[1] * 4)
+    );
+
+    gl.bindTexture(gl.TEXTURE_2D, null);
+    return tex;
+  });
+
   particlePonger.registerTextures('particleRandoms', particleRandomsAttachments);
   particlePonger.registerTextures('particles', particleAttachments);
   particlePonger.registerTextures('particleMomentums', particleMomentums);
-  //particlePonger.registerTextures('particleForces', particleForces);
+  particlePonger.registerTextures('particleForces', particleForces);
 
   var particleFboConfig = {
     particleRandoms: {
@@ -517,6 +539,9 @@ function runWebGL() {
     },
     particleMomentums: {
       colorAttachment: gl.COLOR_ATTACHMENT2
+    },
+    particleForces: {
+      colorAttachment: gl.COLOR_ATTACHMENT3
     }
   };
 
@@ -647,6 +672,7 @@ function runWebGL() {
     },
     encodeUniforms: (context, uniforms, ops) => {
       context.uniform2fv(rpParticles.uniformLocations.u_resolution, uniforms.resolution);
+      context.uniform2fv(rpParticles.uniformLocations.u_fieldResolution, uniforms.fieldResolution);
       context.uniform4iv(rpParticles.uniformLocations.u_randomSeed, uniforms.randomSeed);
       context.uniform1f(rpParticles.uniformLocations.u_particleSpeed, uniforms.particleSpeed);
       context.uniform4fv(rpParticles.uniformLocations.u_deltaTime, uniforms.deltaTime);
@@ -655,8 +681,8 @@ function runWebGL() {
       context.uniform1i(rpParticles.uniformLocations.s_particleRandoms, 0);
       context.uniform1i(rpParticles.uniformLocations.s_particles, 1);
       context.uniform1i(rpParticles.uniformLocations.s_particleMomentums, 2);
-      context.uniform1i(rpParticles.uniformLocations.s_particleForces, 3);
-      context.uniform1i(rpParticles.uniformLocations.s_repelFieldGradient, 4);
+      context.uniform1i(rpParticles.uniformLocations.s_particleForceSplat, 3);
+      context.uniform1i(rpParticles.uniformLocations.s_repelField, 4);
     },
     encodeTextures: (context, uniforms, ops) => {
       context.activeTexture(context.TEXTURE0);
@@ -672,18 +698,19 @@ function runWebGL() {
       context.bindSampler(2, samplerNearest);
 
       context.activeTexture(context.TEXTURE3);
-      context.bindTexture(context.TEXTURE_2D, ops.particleForces);
+      context.bindTexture(context.TEXTURE_2D, ops.particleForceSplat);
       context.bindSampler(3, samplerNearest);
 
       context.activeTexture(context.TEXTURE4);
-      context.bindTexture(context.TEXTURE_2D, ops.repelFieldGradient);
+      context.bindTexture(context.TEXTURE_2D, ops.repelField);
       context.bindSampler(4, samplerNearest);
     },
     encodeDraw: (context, uniforms, ops) => {
       context.drawBuffers([
         context.COLOR_ATTACHMENT0,
         context.COLOR_ATTACHMENT1,
-        context.COLOR_ATTACHMENT2
+        context.COLOR_ATTACHMENT2,
+        context.COLOR_ATTACHMENT3
       ]);
 
       context.bindVertexArray(anyQuad.vertexArray);
@@ -693,6 +720,7 @@ function runWebGL() {
 
   rpParticles.setUniformLocations(gl, [
     'u_resolution',
+    'u_fieldResolution',
     'u_randomSeed',
     'u_particleSpeed',
     'u_deltaTime',
@@ -701,7 +729,8 @@ function runWebGL() {
     's_particleRandoms',
     's_particles',
     's_particleMomentums',
-    's_particleForces'
+    's_particleForceSplat',
+    's_repelField'
   ]);
 
 // =======================================
@@ -767,6 +796,7 @@ function runWebGL() {
       context.uniform2fv(rpFields.uniformLocations.u_resolution, uniforms.resolution);
       context.uniform1f(rpFields.uniformLocations.u_fieldSize, uniforms.fieldSize);
       context.uniform1f(rpFields.uniformLocations.u_rCoefficient, uniforms.rCoefficient);
+      context.uniform1f(rpFields.uniformLocations.u_fieldMinFactor, uniforms.fieldMinFactor);
       context.uniform1i(rpFields.uniformLocations.u_deferGradientCalc, (uniforms.deferGradientCalc ? 1 : 0));
       context.uniform1i(rpFields.uniformLocations.u_circularFieldEffect, (uniforms.circularFieldEffect ? 1 : 0));
       context.uniform1i(rpFields.uniformLocations.u_forceCalcInGlPointSpace, (uniforms.forceCalcInGlPointSpace ? 1 : 0));
@@ -795,6 +825,7 @@ function runWebGL() {
     'u_resolution',
     'u_fieldSize',
     'u_rCoefficient',
+    'u_fieldMinFactor',
     's_particles',
     'u_deferGradientCalc',
     'u_circularFieldEffect',
@@ -1080,14 +1111,14 @@ function runWebGL() {
 // =======================================
 
   var particleCount, particleSpeed;
-  var fieldSize, rCoefficient, maxFieldLines;
+  var fieldSize, fieldMinFactor, rCoefficient, maxFieldLines;
   var renderTexture, physicsMethod;
   var paused = false;
 
   var physicsMethods = {
     brownian: 0,
     splat: 1,
-    gradient: 2
+    field: 2
   };
 
   var spaceType = 0;
@@ -1097,8 +1128,9 @@ function runWebGL() {
     infinite: 2
   };
 
-  var deferGradientCalc, fractRenderValues, renderMagnitude, circularFieldEffect, forceCalcInGlPointSpace, scaleRenderValues;
+  var fractRenderValues, renderMagnitude, forceCalcInGlPointSpace;
 
+  var scaleRenderValues, circularFieldEffect, deferGradientCalc;
   var resetParticles = false, resetParticlesWith = 'random';
 
   window.setResetParticles = function() {
@@ -1112,6 +1144,9 @@ function runWebGL() {
   var particleResetVectorFields = {
     random: function(x,y) {
       return new Float32Array([2 * Math.random() - 1.0, 2 * Math.random() - 1.0, 0, 0]);
+    },
+    zero: function(x,y) {
+      return new Float32Array([0,0,0,0]);
     },
     outward: function(x,y) {
       return new Float32Array([x, y, 0, 0]);
@@ -1146,6 +1181,7 @@ function runWebGL() {
       particleSpeed: document.getElementById('particle-speed'),
       rCoefficient: document.getElementById('r-coefficient'),
       fieldSize: document.getElementById('field-size'),
+      fieldMinFactor: document.getElementById('field-min-factor'),
       maxFieldLines: document.getElementById('max-field-lines'),
 
       scaleForceToSpace: document.getElementById('scale-force-to-space'),
@@ -1181,6 +1217,7 @@ function runWebGL() {
     particleSpeed = ui.particleSpeed.value;
     rCoefficient = ui.rCoefficient.value;
     fieldSize = ui.fieldSize.value;
+    fieldMinFactor = ui.fieldMinFactor.value;
     maxFieldLines = ui.maxFieldLines.value;
 
     deferGradientCalc = ui.deferGradientCalc.checked;
@@ -1233,6 +1270,7 @@ function runWebGL() {
       ui.particleSpeed.value = 0.05;
       ui.rCoefficient.value = 0.1;
       ui.fieldSize.value = 75.0;
+      ui.fieldMinFactor = 3.0;
       ui.maxFieldLines.value = 1.0;
 
       ui.scaleForceToSpace.checked = false;
@@ -1441,6 +1479,7 @@ function renderDebugTexture(pixels) {
 
       var particleUniforms = {
         resolution: particleResolution,
+        fieldResolution: renderResolution,
         randomSeed: makeIntRandomUniforms(),
         particleSpeed: particleSpeed,
         deltaTime: deltaT,
@@ -1453,8 +1492,8 @@ function renderDebugTexture(pixels) {
         particleRandoms: particlePonger.getCurrent('particleRandoms'),
         particles: particlePonger.getCurrent('particles'),
         particleMomentums: particlePonger.getCurrent('particleMomentums'),
-        particleForces: forceSplatTexture,
-        repelFieldGradient: fieldPonger.getCurrent('repelFieldGradient')
+        particleForceSplat: forceSplatTexture,
+        repelField: fieldPonger.getCurrent('repelField')
       });
 
       particlePonger.increment();
@@ -1467,7 +1506,8 @@ function renderDebugTexture(pixels) {
       rCoefficient: rCoefficient,
       deferGradientCalc: deferGradientCalc,
       circularFieldEffect: circularFieldEffect,
-      forceCalcInGlPointSpace: forceCalcInGlPointSpace
+      forceCalcInGlPointSpace: forceCalcInGlPointSpace,
+      fieldMinFactor: fieldMinFactor
     };
 
     rpFields.encode(gl, fieldsUniforms, {

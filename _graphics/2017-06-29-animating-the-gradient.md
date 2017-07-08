@@ -245,6 +245,7 @@ uniform sampler2D s_particleMomentums;
 uniform bool u_deferGradientCalc;
 uniform bool u_circularFieldEffect;
 uniform bool u_forceCalcInGlPointSpace;
+uniform float u_fieldMinFactor;
 
 //in vec4 v_position; // not linkable to fsFields ?
 in float v_pointSize;
@@ -279,7 +280,7 @@ void main()
     delta /= v_pointSize;
   }
 
-  float dMin = 1.0 / 10.0 * v_pointSize;
+  float dMin = (1.0 / exp(u_fieldMinFactor)) * v_pointSize;
 
   vec2 rForce = u_rCoefficient * calculateRForce(fieldPoint, particleCenter, dMin);
   repelForce = vec4(rForce.xy, 0.0, 1.0);
