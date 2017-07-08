@@ -2,7 +2,7 @@
 title: "Animating The Gradient"
 categories: "graphics"
 tags: "graphics computer-science"
-headline: ""
+headline: "2D Particle Simulation"
 excerpt: ""
 author:
   name: "David Conner"
@@ -63,22 +63,23 @@ void main() {
 
 <script type="x-shader/x-fragment" id="fsUpdateParticles">
 uniform vec2 u_resolution;
+uniform vec2 u_fieldResolution;
 uniform ivec4 u_randomSeed;
 uniform float u_particleSpeed;
 uniform vec4 u_deltaTime;
 uniform int u_spaceType;
 uniform int u_physicsMethod;
+uniform bool u_bilinearInterpolation;
 
 uniform isampler2D s_particleRandoms;
 uniform sampler2D s_particles;
 uniform sampler2D s_particleMomentums;
-uniform sampler2D s_particleForces;
-
-//uniform sampler2D s_repelFieldGradient
+uniform sampler2D s_particleForceSplat;
+uniform sampler2D s_repelField;
 
 #define physicsMethodBrownian 0
 #define physicsMethodSplat 1
-#define physicsMethodGradient 2
+#define physicsMethodField 2
 
 #define spaceTypeFinite 0
 #define spaceTypeWrapped 1
@@ -90,11 +91,46 @@ in vec3 v_position;
 layout(location = 0) out ivec4 random;
 layout(location = 1) out vec4 particle;
 layout(location = 2) out vec4 particleMomentums;
+layout(location = 3) out vec4 particleForces;
 
 // TODO: temperature: update another texture with particle velocities
 // layout(location = 2) out vec4 particleVelocities
 
 const float maxInt = 2147483647.0;
+
+// because float textures are not texture-filterable in webgl
+vec4 bilinearInterpolation(sampler2D s, vec2 rs) {
+  vec2 rsOffset = fract(rs);
+  vec2 baseCoords = trunc(rs) + vec2(
+    rsOffset.x >= 0.5 ? 0.5 : -0.5,
+    rsOffset.y >= 0.5 ? 0.5 : -0.5);
+
+  vec2 coords[4];
+  coords[0] = baseCoords;
+  coords[1] = baseCoords + vec2(1.0, 0.0);
+  coords[2] = baseCoords + vec2(0.0, 1.0);
+  coords[3] = baseCoords + vec2(1.0, 1.0);
+
+  vec4 texels[4];
+  texels[0] = texelFetch(s, ivec2(trunc(coords[0])), 0);
+  texels[1] = texelFetch(s, ivec2(trunc(coords[1])), 0);
+  texels[2] = texelFetch(s, ivec2(trunc(coords[2])), 0);
+  texels[3] = texelFetch(s, ivec2(trunc(coords[3])), 0);
+
+  vec4 color = vec4(0.0, 0.0, 0.0, 0.0);
+  for (int i = 0; i < 4; i++) {
+    coords[i] = coords[i] - rs;
+    float area = abs(coords[i].x * coords[i].y);
+    color += area * texels[i];
+
+    //color += texels[i] / 4.0;
+    //color += vec4(coords[i] / 4.0, 0.0,0.0);
+  }
+
+  // it's returning 0,0,0,1 because the coordinates are off the screen
+  // but if that's the case, area should not sum to one and it does
+  return color;
+}
 
 void main() {
   vec2 uv = gl_FragCoord.xy / u_resolution.xy;
@@ -106,7 +142,7 @@ void main() {
   ivec4 randomTexel = texture(s_particleRandoms, uv);
 
   vec2 texelCoords[4];
-  texelCoords[0] = mod(gl_FragCoord.xy + vec2( 0.0, -2.0), u_resolution.xy) / u_resolution.xy;
+  texelCoords[0] = mod(gl_FragCoord.xy + vec2( 0.0, -1.0), u_resolution.xy) / u_resolution.xy;
   texelCoords[1] = mod(gl_FragCoord.xy + vec2( 1.0,  0.0), u_resolution.xy) / u_resolution.xy;
   texelCoords[2] = mod(gl_FragCoord.xy + vec2( 0.0,  1.0), u_resolution.xy) / u_resolution.xy;
   texelCoords[3] = mod(gl_FragCoord.xy + vec2(-1.0,  1.0), u_resolution.xy) / u_resolution.xy;
@@ -120,40 +156,73 @@ void main() {
   ivec4 newRandom = u_randomSeed ^ randomTexel ^ texels[0] ^ texels[1] ^ texels[2] ^ texels[3];
   random = newRandom;
 
+  // =======================================
+  // Update Physics
+  // =======================================
+
+  particle = texture(s_particles, uv);
   particleMomentums = texture(s_particleMomentums, uv);
   vec2 netForce = vec2(0.0, 0.0);
 
   switch (u_physicsMethod) {
 
     case physicsMethodBrownian:
-      if (u_physicsMethod == physicsMethodBrownian) {
-        vec4 newRandomFloat = fract(vec4(newRandom) / maxInt + 0.5) - 0.5 ;
-        netForce = newRandomFloat.xy;
-      }
+      vec4 newRandomFloat = fract(vec4(newRandom) / maxInt + 0.5) - 0.5 ;
+      netForce = newRandomFloat.xy;
       break;
 
     case physicsMethodSplat:
-      if (u_physicsMethod == physicsMethodSplat) {
-        netForce = texture(s_particleForces, uv).xy;
-      }
+      netForce = texture(s_particleForceSplat, uv).xy;
       break;
 
-    case physicsMethodGradient:
-      if (u_physicsMethod == physicsMethodGradient) {
+    case physicsMethodField:
+      //vec4 field = bilinearInterpolation(s_repelField, particleToFieldSpace);
+      //vec4 field = texture(s_repelField, (particle.xy + 1.0) / 2.0);
 
+      vec4 field = vec4(0.0, 0.0, 0.0, 0.0);
+      vec2 coordOffsets[8];
+      coordOffsets[0] = vec2(-1.0, -1.0);
+      coordOffsets[1] = vec2(0.0, -1.0);
+      coordOffsets[2] = vec2(1.0, -1.0);
+      coordOffsets[3] = vec2(-1.0, 0.0);
+      // skip the center pixel because values are too high
+      coordOffsets[4] = vec2(1.0, 0.0);
+      coordOffsets[5] = vec2(-1.0, 1.0);
+      coordOffsets[6] = vec2(0.0, 1.0);
+      coordOffsets[7] = vec2(1.0, 1.0);
+      //coordOffsets[8] = vec2(0.0, 0.0);
 
-        // TODO: update from gradient
+      for (int i = 0; i <= 8; i++) {
+        if (u_bilinearInterpolation) {
+          vec2 particleToFieldSpace = ((particle.xy + 1.0) / 2.0) * u_fieldResolution.xy;
+          vec2 coords = particleToFieldSpace.xy + coordOffsets[i];
+          field += bilinearInterpolation(s_repelField, coords.xy);
+        } else {
+          vec2 coords = ((particle.xy + 1.0) / 2.0) + (coordOffsets[i] / u_fieldResolution.xy);
+          field += texture(s_repelField, coords);
+        }
       }
+      field /= 8.0;
+
+      //if (u_bilinearInterpolation) {
+      //  vec2 particleToFieldSpace = ((particle.xy + 1.0) / 2.0) * u_fieldResolution.xy;
+      //  vec2 coords = particleToFieldSpace.xy;
+      //  field += bilinearInterpolation(s_repelField, coords.xy);
+      //} else {
+      //  vec2 coords = ((particle.xy + 1.0) / 2.0);
+      //  field += texture(s_repelField, coords);
+      //}
+
+      netForce = vec2(field.x, -field.y);
       break;
   }
 
   // =======================================
   // Update Particles
   // =======================================
-  particle = texture(s_particles, uv);
-
   // TODO: adjust units for u_particleSpeed (and fix in netForce calcs above)
 
+  particleForces = vec4(netForce.xy, 0.0, 0.0);
   particleMomentums.xy += netForce * u_deltaTime.x / 1000.0;
   vec2 particleUpdate = u_particleSpeed * particleMomentums.xy * u_deltaTime.x / 1000.0;
 
@@ -336,8 +405,8 @@ void main() {
       } else {
         color = vec4(
           4.0 * rGradient.x,
-          4.0 * rGradient.y,
           4.0 * rGradient.z,
+          4.0 * rGradient.y,
           1.0);
       }
       break;
@@ -479,6 +548,7 @@ void main() {
 <script type="text/javascript" src="/js/3d/utils/line_plot.js"></script>
 <script type="text/javascript" src="/js/3d/utils/mip_reducer.js"></script>
 <script type="text/javascript" src="/js/3d/2017-06-29-animating-the-gradient.es6.js"></script>
+
 
 <script type="text/javascript">
   function pasteShaderToCodeBlock(shaderId, codeBlockId) {
