@@ -179,7 +179,7 @@ void main() {
       }
       field /= 9.0;
 
-      netForce = vec2(field.x, -field.y);
+      netForce = vec2(field.x, field.y);
       break;
   }
 
@@ -253,11 +253,14 @@ flat in int v_particleId;
 layout(location = 0) out vec4 repelForce;
 layout(location = 1) out vec4 repelFieldGradient;
 
-vec2 calculateRForce(vec2 point, vec2 center) {
+vec2 calculateRForce(vec2 point, vec2 center, float dMin) {
   vec2 pointOffset = point.xy - center;
   float d = distance(point.xy, center);
+
+  // set a lower bound on the distance, to prevent astronomical values
+  d = (d < dMin ? dMin : d);
   float rad = atan(pointOffset.y, pointOffset.x);
-  return vec2(cos(rad), sin(rad)) / d;
+  return vec2(cos(rad), -sin(rad)) / d;
 }
 
 void main()
@@ -275,12 +278,15 @@ void main()
     // incorrect but causes the shape of the field space to be emphasized
     delta /= v_pointSize;
   }
-  vec2 rForce = u_rCoefficient * calculateRForce(fieldPoint, particleCenter);
+
+  float dMin = 1.0 / 10.0 * v_pointSize;
+
+  vec2 rForce = u_rCoefficient * calculateRForce(fieldPoint, particleCenter, dMin);
   repelForce = vec4(rForce.xy, 0.0, 1.0);
 
   if (!u_deferGradientCalc) {
     vec2 fieldPoint2 = fieldPoint + delta;
-    vec2 df = u_rCoefficient * calculateRForce(fieldPoint2.xy, particleCenter) - rForce;
+    vec2 df = u_rCoefficient * calculateRForce(fieldPoint2.xy, particleCenter, dMin) - rForce;
 
     // jacobian of the vector field
     repelFieldGradient = vec4(
