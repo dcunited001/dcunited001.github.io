@@ -660,12 +660,6 @@ function runWebGL() {
   gl.samplerParameteri(samplerNearest, gl.TEXTURE_WRAP_S, gl.CLAMP_TO_EDGE);
   gl.samplerParameteri(samplerNearest, gl.TEXTURE_WRAP_T, gl.CLAMP_TO_EDGE);
 
-  var samplerLinear = gl.createSampler();
-  gl.samplerParameteri(samplerLinear, gl.TEXTURE_MIN_FILTER, gl.LINEAR); //_MIPMAP_NEAREST);
-  gl.samplerParameteri(samplerLinear, gl.TEXTURE_MAG_FILTER, gl.NEAREST);
-  gl.samplerParameteri(samplerLinear, gl.TEXTURE_WRAP_S, gl.REPEAT);
-  gl.samplerParameteri(samplerLinear, gl.TEXTURE_WRAP_T, gl.REPEAT);
-
 // =======================================
 // Render Pass: Particles
 // =======================================
@@ -684,7 +678,6 @@ function runWebGL() {
       context.uniform4fv(rpParticles.uniformLocations.u_deltaTime, uniforms.deltaTime);
       context.uniform1i(rpParticles.uniformLocations.u_physicsMethod, uniforms.physicsMethod);
       context.uniform1i(rpParticles.uniformLocations.u_spaceType, uniforms.spaceType);
-      context.uniform1i(rpParticles.uniformLocations.u_bilinearInterpolation, uniforms.bilinearInterpolation);
       context.uniform1i(rpParticles.uniformLocations.s_particleRandoms, 0);
       context.uniform1i(rpParticles.uniformLocations.s_particles, 1);
       context.uniform1i(rpParticles.uniformLocations.s_particleMomentums, 2);
@@ -733,7 +726,6 @@ function runWebGL() {
     'u_deltaTime',
     'u_physicsMethod',
     'u_spaceType',
-    'u_bilinearInterpolation',
     's_particleRandoms',
     's_particles',
     's_particleMomentums',
@@ -804,6 +796,7 @@ function runWebGL() {
       context.uniform2fv(rpFields.uniformLocations.u_resolution, uniforms.resolution);
       context.uniform1f(rpFields.uniformLocations.u_fieldSize, uniforms.fieldSize);
       context.uniform1f(rpFields.uniformLocations.u_rCoefficient, uniforms.rCoefficient);
+      context.uniform1f(rpFields.uniformLocations.u_fieldMinFactor, uniforms.fieldMinFactor);
       context.uniform1i(rpFields.uniformLocations.u_deferGradientCalc, (uniforms.deferGradientCalc ? 1 : 0));
       context.uniform1i(rpFields.uniformLocations.u_circularFieldEffect, (uniforms.circularFieldEffect ? 1 : 0));
       context.uniform1i(rpFields.uniformLocations.u_forceCalcInGlPointSpace, (uniforms.forceCalcInGlPointSpace ? 1 : 0));
@@ -832,6 +825,7 @@ function runWebGL() {
     'u_resolution',
     'u_fieldSize',
     'u_rCoefficient',
+    'u_fieldMinFactor',
     's_particles',
     'u_deferGradientCalc',
     'u_circularFieldEffect',
@@ -1117,7 +1111,7 @@ function runWebGL() {
 // =======================================
 
   var particleCount, particleSpeed;
-  var fieldSize, rCoefficient, maxFieldLines;
+  var fieldSize, fieldMinFactor, rCoefficient, maxFieldLines;
   var renderTexture, physicsMethod;
   var paused = false;
 
@@ -1136,7 +1130,7 @@ function runWebGL() {
 
   var fractRenderValues, renderMagnitude, forceCalcInGlPointSpace;
 
-  var scaleRenderValues, circularFieldEffect, deferGradientCalc, bilinearInterpolation;
+  var scaleRenderValues, circularFieldEffect, deferGradientCalc;
   var resetParticles = false, resetParticlesWith = 'random';
 
   window.setResetParticles = function() {
@@ -1187,12 +1181,12 @@ function runWebGL() {
       particleSpeed: document.getElementById('particle-speed'),
       rCoefficient: document.getElementById('r-coefficient'),
       fieldSize: document.getElementById('field-size'),
+      fieldMinFactor: document.getElementById('field-min-factor'),
       maxFieldLines: document.getElementById('max-field-lines'),
 
       scaleForceToSpace: document.getElementById('scale-force-to-space'),
       circularFieldEffect: document.getElementById('circular-field-effect'),
       deferGradientCalc: document.getElementById('defer-gradient-calc'),
-      bilinearInterpolation: document.getElementById('bilinear-interpolation'),
 
       fractRenderValues: document.getElementById('fract-render-values'),
       scaleRenderValues: document.getElementById('scale-render-values'),
@@ -1223,6 +1217,7 @@ function runWebGL() {
     particleSpeed = ui.particleSpeed.value;
     rCoefficient = ui.rCoefficient.value;
     fieldSize = ui.fieldSize.value;
+    fieldMinFactor = ui.fieldMinFactor.value;
     maxFieldLines = ui.maxFieldLines.value;
 
     deferGradientCalc = ui.deferGradientCalc.checked;
@@ -1230,7 +1225,6 @@ function runWebGL() {
     scaleRenderValues = ui.scaleRenderValues.checked;
     renderMagnitude = ui.renderMagnitude.checked;
     circularFieldEffect = ui.circularFieldEffect.checked;
-    bilinearInterpolation = ui.bilinearInterpolation.checked;
 
     forceCalcInGlPointSpace = !ui.scaleForceToSpace.checked;
     if (forceCalcInGlPointSpace) {
@@ -1256,9 +1250,6 @@ function runWebGL() {
     for (var k of ['momentum', 'fps']) {
       linePlots[k].enabled = ui.togglePlot[k].checked;
     }
-
-    // disable bilinear checkbox unless
-    ui.bilinearInterpolation.disabled = !(physicsMethod == 2);
   }
 
   window.togglePause = function() {
@@ -1279,6 +1270,7 @@ function runWebGL() {
       ui.particleSpeed.value = 0.05;
       ui.rCoefficient.value = 0.1;
       ui.fieldSize.value = 75.0;
+      ui.fieldMinFactor = 3.0;
       ui.maxFieldLines.value = 1.0;
 
       ui.scaleForceToSpace.checked = false;
@@ -1422,30 +1414,6 @@ function renderDebugTexture(pixels) {
   createDebugTexture = false;
 }
 
-var debugParticlePixels = new Float32Array(particleResolution[0] * particleResolution[1] * 4);
-
-function renderDebugParticleTexture(pixels) {
-
-  gl.activeTexture(gl.TEXTURE0);
-  var debugTexture = gl.createTexture();
-  gl.bindTexture(gl.TEXTURE_2D, debugTexture);
-
-  gl.texStorage2D(gl.TEXTURE_2D, 1, gl.RGBA32F, particleResolution[0], particleResolution[1]);
-  gl.texSubImage2D(gl.TEXTURE_2D,
-    0,
-    0, // x offset
-    0, // y offset
-    particleResolution[0],
-    particleResolution[1],
-    gl.RGBA,
-    gl.FLOAT,
-    pixels);
-  gl.bindTexture(gl.TEXTURE_2D, null);
-
-  createDebugTexture = false;
-}
-
-
 // =======================================
 // Render Loop
 // =======================================
@@ -1516,8 +1484,7 @@ function renderDebugParticleTexture(pixels) {
         particleSpeed: particleSpeed,
         deltaTime: deltaT,
         physicsMethod: physicsMethod,
-        spaceType: spaceType,
-        bilinearInterpolation: bilinearInterpolation
+        spaceType: spaceType
       };
 
       rpParticles.encode(gl, particleUniforms, {
@@ -1529,17 +1496,8 @@ function renderDebugParticleTexture(pixels) {
         repelField: fieldPonger.getCurrent('repelField')
       });
 
-      if (createDebugTexture) {
-        gl.bindFramebuffer(gl.DRAW_FRAMEBUFFER, null);
-        gl.bindFramebuffer(gl.READ_FRAMEBUFFER, particlePonger.getCurrentFbo());
-        gl.readBuffer(gl.COLOR_ATTACHMENT1);
-        var debugParticlePixels = new Float32Array(particleResolution[0] * particleResolution[1] * 4);
-        gl.readPixels(0, 0, particleResolution[0], particleResolution[1], gl.RGBA, gl.FLOAT, debugParticlePixels);
-        renderDebugParticleTexture(debugParticlePixels);
-        console.log(debugParticlePixels);
-      }
-
       particlePonger.increment();
+
     }
 
     var fieldsUniforms = {
@@ -1548,7 +1506,8 @@ function renderDebugParticleTexture(pixels) {
       rCoefficient: rCoefficient,
       deferGradientCalc: deferGradientCalc,
       circularFieldEffect: circularFieldEffect,
-      forceCalcInGlPointSpace: forceCalcInGlPointSpace
+      forceCalcInGlPointSpace: forceCalcInGlPointSpace,
+      fieldMinFactor: fieldMinFactor
     };
 
     rpFields.encode(gl, fieldsUniforms, {
@@ -1575,11 +1534,6 @@ function renderDebugParticleTexture(pixels) {
       gradientTexture = fieldPonger.getCurrent('repelFieldGradient');
     }
     gradientPonger.increment();
-
-    //gl.activeTexture(gl.TEXTURE0);
-    //gl.bindTexture(gl.TEXTURE_2D, gradientTexture);
-    //gl.generateMipmap(gl.TEXTURE_2D);
-    //gl.bindTexture(gl.TEXTURE_2D, null);
 
     var renderFieldsUniforms = {
       resolution: renderResolution,
