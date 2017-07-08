@@ -1334,6 +1334,7 @@ function runWebGL() {
       ui.deferGradientCalc = false;
       ui.rCoefficient.value = ui.rCoefficient.value * randomFactor(0.125);
       ui.fieldSize.value = ui.fieldSize.value * randomFactor(0.125);
+      ui.fieldMinFactor.value = ui.fieldMinFactor * randomFactor(0.25);
 
       ui.scaleRenderValues.checked = randomBoolean(0.1);
       ui.circularFieldEffect.checked = randomBoolean(0.1);
