@@ -69,7 +69,6 @@ uniform float u_particleSpeed;
 uniform vec4 u_deltaTime;
 uniform int u_spaceType;
 uniform int u_physicsMethod;
-uniform bool u_bilinearInterpolation;
 
 uniform isampler2D s_particleRandoms;
 uniform sampler2D s_particles;
@@ -94,7 +93,6 @@ layout(location = 2) out vec4 particleMomentums;
 layout(location = 3) out vec4 particleForces;
 
 // TODO: temperature: update another texture with particle velocities
-// layout(location = 2) out vec4 particleVelocities
 
 const float maxInt = 2147483647.0;
 
@@ -122,13 +120,8 @@ vec4 bilinearInterpolation(sampler2D s, vec2 rs) {
     coords[i] = coords[i] - rs;
     float area = abs(coords[i].x * coords[i].y);
     color += area * texels[i];
-
-    //color += texels[i] / 4.0;
-    //color += vec4(coords[i] / 4.0, 0.0,0.0);
   }
 
-  // it's returning 0,0,0,1 because the coordinates are off the screen
-  // but if that's the case, area should not sum to one and it does
   return color;
 }
 
@@ -176,42 +169,15 @@ void main() {
       break;
 
     case physicsMethodField:
-      //vec4 field = bilinearInterpolation(s_repelField, particleToFieldSpace);
-      //vec4 field = texture(s_repelField, (particle.xy + 1.0) / 2.0);
-
       vec4 field = vec4(0.0, 0.0, 0.0, 0.0);
-      vec2 coordOffsets[8];
-      coordOffsets[0] = vec2(-1.0, -1.0);
-      coordOffsets[1] = vec2(0.0, -1.0);
-      coordOffsets[2] = vec2(1.0, -1.0);
-      coordOffsets[3] = vec2(-1.0, 0.0);
-      // skip the center pixel because values are too high
-      coordOffsets[4] = vec2(1.0, 0.0);
-      coordOffsets[5] = vec2(-1.0, 1.0);
-      coordOffsets[6] = vec2(0.0, 1.0);
-      coordOffsets[7] = vec2(1.0, 1.0);
-      //coordOffsets[8] = vec2(0.0, 0.0);
-
-      for (int i = 0; i <= 8; i++) {
-        if (u_bilinearInterpolation) {
+      for (float i = -1.0; i <= 1.0; i++) {
+        for (float j = -1.0; j <= 1.0; j++) {
           vec2 particleToFieldSpace = ((particle.xy + 1.0) / 2.0) * u_fieldResolution.xy;
-          vec2 coords = particleToFieldSpace.xy + coordOffsets[i];
+          vec2 coords = particleToFieldSpace.xy + vec2(i,j);
           field += bilinearInterpolation(s_repelField, coords.xy);
-        } else {
-          vec2 coords = ((particle.xy + 1.0) / 2.0) + (coordOffsets[i] / u_fieldResolution.xy);
-          field += texture(s_repelField, coords);
         }
       }
-      field /= 8.0;
-
-      //if (u_bilinearInterpolation) {
-      //  vec2 particleToFieldSpace = ((particle.xy + 1.0) / 2.0) * u_fieldResolution.xy;
-      //  vec2 coords = particleToFieldSpace.xy;
-      //  field += bilinearInterpolation(s_repelField, coords.xy);
-      //} else {
-      //  vec2 coords = ((particle.xy + 1.0) / 2.0);
-      //  field += texture(s_repelField, coords);
-      //}
+      field /= 9.0;
 
       netForce = vec2(field.x, -field.y);
       break;
