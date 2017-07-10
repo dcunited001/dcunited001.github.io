@@ -103,3 +103,5 @@ class Quad {
     ])
   }
 }
+
+export { Quad };

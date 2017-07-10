@@ -314,3 +314,5 @@ class LinePlot {
     return translate;
   }
 }
+
+export { LinePlot };

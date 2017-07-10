@@ -517,8 +517,6 @@ void main() {
 }
 </script>
 
-<script type="text/javascript" src="/js/3d/utils/quad.js"></script>
-<script type="text/javascript" src="/js/3d/utils/line_plot.js"></script>
 <script type="text/javascript" src="/js/3d/2017-06-29-animating-the-gradient.js"></script>
 
 <script type="text/javascript">
