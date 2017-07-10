@@ -26,10 +26,10 @@ window.createProgram = function (gl, vertexShaderSource, fragmentShaderSource, o
     precision highp isampler2D;
     `;
 
-  var program = gl.createProgram();
   vertexShaderSource = shaderPrefix + expandDefines(defines) + precisionPrefix + vertexShaderSource;
   fragmentShaderSource = shaderPrefix + expandDefines(defines) + precisionPrefix + fragmentShaderSource;
 
+  var program = gl.createProgram();
   var vshader = createShader(gl, vertexShaderSource, gl.VERTEX_SHADER);
   var fshader = createShader(gl, fragmentShaderSource, gl.FRAGMENT_SHADER);
   gl.attachShader(program, vshader);
@@ -71,41 +71,6 @@ window.expandDefines = function (defines = {}) {
   }
 
   return defineStrings;
-};
-
-window.loadImage = function (url, onload) {
-  var img = new Image();
-  img.src = url;
-  img.onload = function () {
-    onload(img);
-  };
-  return img;
-};
-
-window.loadImages = function (urls, onload) {
-  var imgs = [];
-  var imgsToLoad = urls.length;
-
-  function onImgLoad() {
-    if (--imgsToLoad <= 0) {
-      onload(imgs);
-    }
-  }
-
-  for (var i = 0; i < imgsToLoad; ++i) {
-    imgs.push(loadImage(urls[i], onImgLoad));
-  }
-};
-
-window.loadObj = function (url, onload) {
-  var xhr = new XMLHttpRequest();
-  xhr.open('GET', url, true);
-  xhr.responseType = 'text';
-  xhr.onload = function (e) {
-    var mesh = new OBJ.Mesh(this.response);
-    onload(mesh);
-  };
-  xhr.send();
 };
 
 function runWebGL() {
