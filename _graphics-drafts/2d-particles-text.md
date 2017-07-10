@@ -1,6 +1,8 @@
 
 ### TODO:
 
+
+- disable bilinear checkbox when irrelevant
 - aggregates
 - fix finite space type
 
@@ -64,6 +66,17 @@ new data points into the circular buffers
 - (the derivative of the gradient when using deferred calculation is equivalent to
 the sum of the derivatives of the component particles for that pixel, where blending
 is essentially a sum)
+
+- still getting a discontinuity in the field
+  - this is hard to address. (why?) usually force splatting avoids this
+
+### Linear Sampling Not Available for Float Textures
+
+- implemented bilinear interpolation in code
+
+### Bias in Bilinear Interpolation
+
+- added option for biliear interpolation
 
 ![screenshot]()
 
