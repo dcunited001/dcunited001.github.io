@@ -1,3 +1,5 @@
+import { MipReducerAttachment, MipReducer } from '../../utils/MipReducer.js';
+
 "use strict";
 
 function createShader(gl, source, type) {
@@ -1209,8 +1211,8 @@ function runWebGL() {
       }
     };
 
-  return ui;
-}
+    return ui;
+  }
 
   function uiControlUpdate(ui = {}) {
     particleCount = ui.particleCount.value;
@@ -1392,28 +1394,28 @@ function runWebGL() {
 // Debug Code
 // =======================================
 
-var debugPixels = new Float32Array(renderResolution[0] * renderResolution[1] * 4);
+  var debugPixels = new Float32Array(renderResolution[0] * renderResolution[1] * 4);
 
-function renderDebugTexture(pixels) {
+  function renderDebugTexture(pixels) {
 
-  gl.activeTexture(gl.TEXTURE0);
-  var debugTexture = gl.createTexture();
-  gl.bindTexture(gl.TEXTURE_2D, debugTexture);
+    gl.activeTexture(gl.TEXTURE0);
+    var debugTexture = gl.createTexture();
+    gl.bindTexture(gl.TEXTURE_2D, debugTexture);
 
-  gl.texStorage2D(gl.TEXTURE_2D, 1, gl.RGBA32F, renderResolution[0], renderResolution[1]);
-  gl.texSubImage2D(gl.TEXTURE_2D,
-    0,
-    0, // x offset
-    0, // y offset
-    renderResolution[0],
-    renderResolution[1],
-    gl.RGBA,
-    gl.FLOAT,
-    pixels);
-  gl.bindTexture(gl.TEXTURE_2D, null);
+    gl.texStorage2D(gl.TEXTURE_2D, 1, gl.RGBA32F, renderResolution[0], renderResolution[1]);
+    gl.texSubImage2D(gl.TEXTURE_2D,
+      0,
+      0, // x offset
+      0, // y offset
+      renderResolution[0],
+      renderResolution[1],
+      gl.RGBA,
+      gl.FLOAT,
+      pixels);
+    gl.bindTexture(gl.TEXTURE_2D, null);
 
-  createDebugTexture = false;
-}
+    createDebugTexture = false;
+  }
 
 // =======================================
 // Render Loop
@@ -1620,5 +1622,3 @@ window.onload = function() {
   fixCanvasUIBar();
   runWebGL();
 };
-
-//window.addEventListener('gliready', runWebGL());

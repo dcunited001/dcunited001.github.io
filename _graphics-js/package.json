@@ -1,0 +1,26 @@
+{
+  "name": "texel-graphics",
+  "version": "0.0.1",
+  "description": "",
+  "main": "index.js",
+  "dependencies": {},
+  "devDependencies": {
+    "abbrev": "^1.1.0",
+    "babel-core": "^6.25.0",
+    "babel-loader": "^7.1.1",
+    "underscore": "^1.8.3"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+ssh://git@github.com/dcunited001/texel-graphics.git"
+  },
+  "author": "David Conner",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/dcunited001/texel-graphics/issues"
+  },
+  "homepage": "https://github.com/dcunited001/texel-graphics#readme"
+}
