@@ -3,7 +3,9 @@
   "version": "0.0.1",
   "description": "",
   "main": "index.js",
-  "dependencies": {},
+  "dependencies": {
+    "twgl.js": "^3.4.0"
+  },
   "devDependencies": {
     "abbrev": "^1.1.0",
     "babel-core": "^6.25.0",
