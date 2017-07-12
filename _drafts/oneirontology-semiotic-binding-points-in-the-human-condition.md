@@ -8,6 +8,22 @@ author:
 excerpt: ""
 ---
 
+- this content is mostly only relevant to overly academic people. what
+  content do I have that helps someone in need to help give them a
+  sense of purpose?
+  - this is a measure of the effectiveness and utility of a religion
+  - how helpful is it to someone?
+  - does it benefit people in power or the common person?
+  - how available is the information?
+  - how quickly can the teachings help someone in need?
+  - do they need a literal interpretation of the text or years of
+    study to apply it in their own lives?
+  - why are the stories relevant?
+  - can it save a life? why? how?
+  - how do the social institutions surrounding a religion and belief
+    system adapt to the needs of people: followers, non-believers and
+    apostates?
+
 Human civilization is embarking on a paradigm shift of cultural flux,
 precipitated by modernization, globalization and the Singularity. Does
 this shift imply an opportunity for the next major belief system to

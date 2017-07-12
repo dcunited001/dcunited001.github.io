@@ -299,6 +299,7 @@ like I'm reading something a fucking alien wrote.
 
 - the dynamics of physical/informational interactions of agents/nodse
   in graphs: social/physical/financial/etc
+  - lots more to explore here
 
 ### Social Media
 

@@ -1,4 +1,18 @@
 
+# Two-Force Particle Interactions with statemachine for Maxima Identification
+
+- set up the two force particle simulation that will be used for social physics
+- set up a framework for state machines
+- in this simulation, the first state will be free motion of particles defined
+  by the two forces
+  - the next states are described below, but i will only implement the ones
+    needed for maxima identification
+- while the simulation is in the state processing grayscale morphology,
+  - the particles are stationary, but the identification of maxima is
+    slowed down and animated
+- this also requires the implementation of scan that uses the texture data from
+  the MipReducer class
+
 ### Render field & gradient
 
 ### Use RNG to sample ~1024 random field/gradient values
