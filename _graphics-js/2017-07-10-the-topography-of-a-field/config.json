@@ -1,0 +1,11 @@
+{
+  "common": {
+    "buildPath": "../../js/3d/"
+  },
+  "development": {
+
+  },
+  "production": {
+
+  }
+}
