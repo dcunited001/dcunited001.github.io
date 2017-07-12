@@ -2,6 +2,9 @@ import * as React from 'react';
 
 "use strict";
 
+// two way data binding
+// https://objectpartners.com/2017/04/24/two-way-data-binding-in-reactjs-part-i/
+
 class App extends Component {
 
   // TODO: set up refs to handle UI events
