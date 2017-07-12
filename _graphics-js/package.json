@@ -3,7 +3,11 @@
   "version": "0.0.1",
   "description": "",
   "main": "index.js",
-  "dependencies": {},
+  "dependencies": {
+    "react": "^15.6.1",
+    "react-bootstrap": "^0.31.0",
+    "react-dom": "^15.6.1"
+  },
   "devDependencies": {
     "abbrev": "^1.1.0",
     "babel-core": "^6.25.0",
