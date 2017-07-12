@@ -45,7 +45,7 @@ effable thought. How does one tap into that?
 
 #### &#x2207;&#x00B2; [Oh Snap! We Got A Smart One Over Here!](#oh-snap-we-got-a-smart-one-over-here)
 
-## &#x03D5; [Truth: An Artists' Perspective Contraposed with the Status Quo](#truth-an-artists-perspective-contraposed-with-the-status-quo)
+## &#x03D5; [Truth: An Artist's Perspective Contraposed with the Status Quo](#truth-an-artists-perspective-contraposed-with-the-status-quo)
 
 #### &#x2207;&#x00B2; [Distraction by Design](#distraction-by-design)
 
@@ -99,9 +99,9 @@ techniques surely would shape it's prevelance and evolution, so what
 if that were different in some way? How would we think about the past
 today if some seemingly trivial aspects differed slightly?
 
-We may see an resurgance in interest in revisiting the 19th and
-especially 20th century tech and ideas to find hidden gems, rare art
-and recombinant forms of such. We already see this in steampunk and
+We may see a resurgance in interest in revisiting 19th and especially
+20th century tech and ideas to find hidden gems, rare art and
+recombinant forms of such. We already see this in steampunk and
 elsewhere, but for the purposes of this article, I'll refer to it as
 retromodernism. I apologize for inventing a word. While awareness of
 differentiation and distinction of ideas is important, I'm not fond of
@@ -123,67 +123,68 @@ in the near future, as we approach the Singularity.
 Many artists remained unknown until their death, never tasting the
 fruits of success, recognition or fame. Van Gogh is a great
 example. Is this necessary to their faculties of vision and reflection
-as an artist? In many ways, it does reinforce this. It's ironic that
-success and fame might alter the potential of an artist, but it
-clearly has time and time again. Without awareness, it distorts the
-way they see things and grants them things which deprive them of the
-challenges that helped them originally develop their ability and
-vision.
+as an artist? In many ways, isolation, struggle and
+incomprehensibility can reinforce their skills as an artist. It's
+ironic that success and fame might alter the potential of an artist,
+but it clearly has time and time again. Public recognition distorts
+the way they see things, causing them to transcend the environmental
+constraints. They become deprived of the challenges that helped them
+originally develop their ability and vision.
 
-Success and fame cause us to become attached to them. We fear
-their loss and then choose to don restrictive social norms and
-conventions, which begins to couple us to those things which we
-originally distinguished ourselves from. IMO, it is what is unique
-which is beautiful and intriguing. When art makes us think, that
-forces us to invest time and energy in understanding it, which fosters
-appreciation for that work. An artist constrained by society will
-produce works that reflect that. Whether it's a painting or novel or
-film or video game, art that isn't distinguishable doesn't seem to
-require as much thought for us to understand.
+Success and fame cause us to become attached to them. We fear their
+loss and then choose to don restrictive social norms and conventions,
+which begins to couple us to those things which we originally
+distinguished ourselves from. IMO, it is what is unique that is
+beautiful and intriguing. When art makes us think, that forces us to
+invest time and energy in understanding it, which fosters appreciation
+for that work. An artist constrained by society will produce works
+that reflect that. Whether it's a painting or novel or film or video
+game, art that isn't distinguishable doesn't seem to require as much
+thought for us to understand.
 
 In many ways, art represents the frontiers of inner space. Artists are
-like astronauts who explore their `own subconscious depths as well as
+like astronauts who explore their own subconscious depths as well as
 the expanse of cultural artifacts and ideas. The rich and powerful
 defend the status quo because it makes them comfortable. They also buy
 art. You aren't going to sell much art if you're trying to sell it at
-a shelther for the homeless. Your price point is determined by your
+a shelter for the homeless. Your price point is determined by your
 audience or market. Art expands how we think and the most popular art
 forms the edge of things we think about. Still, art and truth have a
 tendency to slip out and have a powerful effect on how people
-think. This changes the status quo. And so, the progression of art is
-influenced by the idiosyncrasies in the market for art, whether it's
-visual art, corporate art, literary or cinematic art.
+think. This changes the status quo. And so, the development and
+progression of art is influenced by the idiosyncrasies in the market
+for art, whether it's visual art, corporate art, literary or cinematic
+art.
 
 <a name="oh-snap-we-got-a-smart-one-over-here" />
 
 ### [Oh Snap! We Got A Smart One Over Here!](#oh-snap-we-got-a-smart-one-over-here)
 
-The best artists fly under the radar!! Quite often, they have to
+The best artists fly under the radar! Quite often, they have to
 shield their true understanding of the world around them because they
-can be serious threats to those in power! That doesn't mean there are
+can be serious threats to those in power. That doesn't mean there are
 men in black out there snuffing starving artists. Instead, you'll find
 that the rich and powerful will tend to redirect your energy through
 allures of money and positions of influence. As someone who's
 struggling, it's hard for the artist and author to resist, but not
 everyone is Mozart. Those who have considerable influence and way too
 much of other people's time on their hands want to identify these
-(possible threats) early on.
+possible threats early on.
 
 > It is not the rich man you should properly call happy, but him who
 > knows how to use with wisdom the blessings of the gods, to endure
 > hard poverty, and who fears dishonor worse than death, and is not
 > afraid to die for cherished friends or fatherland.
 
-The artists who are just lucky and don't fully understand their
-work won't feel as commited to forego selling out to protect the
+The artists who are just lucky and don't fully understand their work
+won't feel as commited to forego selling out to protect the
 authenticity of their work. But the true genius will endure hard
 poverty for his work because he believes his message is worth the
-effort. This is true of many other facets of life. Great parents may
+struggle. This is true of many other facets of life. Great parents may
 forsake opportunities or distractions to ensure they devote themselves
 fully to their family because they embody a belief that nothing is
 more important than their family. So they instead seek humility and
-stability. Raising a family isn't easy, so I don't mean to cast
-judgement on anyone.
+stability.
 
 #### Oh Hey, Look! It's Mara! Do You Think She'd Like Some Tea?
 
@@ -191,10 +192,10 @@ judgement on anyone.
 
 <a name="truth-an-artists-perspective-contraposed-with-the-status-quo">
 
-# [Truth: An Artists' Perspective Contraposed with the Status Quo](#truth-an-artists-perspective-contraposed-with-the-status-quo)
+# [Truth: An Artist's Perspective Contraposed with the Status Quo](#truth-an-artists-perspective-contraposed-with-the-status-quo)
 
 Let me apologize in advance for the impending conspiratorial
-statements. The point is -- if you are an artist or philosopher who's
+statements. The point is -- if you are an artist or philosopher whose
 ideas threaten the status quo, you'll find yourself on a relevatory
 path of suffering for truth, assaulted on all sides by distractions,
 frenemies poisoned against you and outright malevalent forces.
@@ -202,13 +203,13 @@ frenemies poisoned against you and outright malevalent forces.
 If you make it too far, but refuse to give in, there may be powerful
 forces who seek to get you off that path by any means necessary. It is
 most effective to do so by offering you a career opportunity and
-essentially buying you off, but really they want to keep you busy and
+essentially buying you off. Actually, they want to keep you busy and
 keep you close, while appearing to be your friend. They don't seek to
 become overt enemies and "they" aren't exactly evil, cigar-smoking,
 men in suits. But beware, if you are a true threat in any big way, the
 people on the top of that pyramid of power do not play nice. You will
 not know what hit you. Usually, they start with a metaphorical
-gift-basket though. Hey, look! Wine and chocalates! If you're lucky,
+gift-basket though. Hey, look! Wine and chocolates! If you're lucky,
 you'll have some mimosas. Perhaps some brunch and coffee.
 
 <a name="distraction-by-design" />
@@ -218,16 +219,16 @@ you'll have some mimosas. Perhaps some brunch and coffee.
 The very best artists know that they'll be presented with an assault
 of enticing distractions. They are well aware that great art is
 mystifying. Moreover, they have the capacity to develop a unique
-vision or message, but they are familiar enough with it and other
-ideas to understand that their ideas may be dangerous. Therefore, this
-artist may seek to limit exposure to protect his/her voice.
+vision or message, but they are familiar enough with it to understand
+that their ideas may be dangerous. Therefore, this artist may seek to
+limit exposure to protect his/her voice.
 
 > For example, not to say I'm an example of this class of UG Artist,
 > but I know that I can't post my blogs on Reddit or my account will
 > be deleted. The [/r/philosophy](https://r/philosophy) and
 > [/r/askphilosophy](https://reddit.com/r/askphilosophy) mods told me
-> so. Yep, I can't even "AskPhilosophy" bro! Typical, for me. No, I'm
-> not allowed to utilize online forums to interact with other
+> so. Nope, I can't even "AskPhilosophy" bro! Typical, for me. No,
+> I'm not allowed to utilize online forums to interact with other
 > like-minded intellectual citizens.
 
 <a name="s-class-artist" />
@@ -299,16 +300,17 @@ As for my own journey, I finally recognized that I had great ideas and
 just how different they were. By the time I did, I had already sought
 to suppress expression of everything I knew because I feared that
 hidden elements in the world would lash back at me. However, the world
-seems to have done just that and I when I began publishing, I never
-got a bigger rise out of people who wanted to shut me up. I'm not sure
+seems to have done just that and when I began publishing, I never got
+a bigger rise out of people who wanted to shut me up. I'm not sure
 why, since I was writing treatises on the humanities: linguistics,
 philosophy, psychology and sociology. I didn't even know what a
-treatise was, but that's definitely what I write. Maybe I got too
-close to some esoteric topics. It's depressing to get so close to the
-truth and fear leaving nothing behind. Still, getting this mostly
-insinuated and passive aggressive reaction was as close as I came to
-satisfaction from a project and it was more accesible than apps and
-programming libs.
+treatise was, but that definitely describes some of my best
+articles. Maybe I got too close to some esoteric topics. It's
+depressing to get so close to the truth and fear leaving nothing
+behind. Still, getting this mostly insinuated and passive aggressive
+reaction was as close as I came to satisfaction from a project and it
+was more accesible than apps and programming libs because it was
+written in English.
 
 <a name="hello-is-anybody-out-there" />
 
@@ -349,20 +351,19 @@ create, while inevitably diminishing the space of the uncreated, we
 may become more interested in finding those pieces otherwise buried
 beneath the deafening roar of industrialization and consumerism.
 
-So, the best artists have the technical capability to hide their true
+The best artists also have the technical capability to hide their true
 vision. They have the acuity to develop a vision in the first place.
-And some of these people may have understood that, to truly push out
-their ideas, they may have needed to hide them in plain sight, within
-their work. Therefore, they must also understand how to encode these
-kinds of symbols and messages. The person capable of the above: they
-are usually capable of success. If security and stability doesn't
-stray them from their path, then fame & fortune will tempt them. It
-tempted me, but I had experienced so much suffering and sacrifice to
-retain the freedom to speak freely that I wasn't willing to allow
-myself to be sold out. I suffered for the ability to speak my mind and
-to speak the truth as I saw it and only later realized the cause of my
-pain. I wasn't willing to sell out or become a mockery of what I
-suffered for.
+And some of these people may have understood, to truly push out their
+ideas, they needed to hide them in plain sight, within their work.
+Therefore, they must also understand how to encode these kinds of
+symbols and messages. The person capable of the above: they are
+usually capable of success. If security and stability doesn't stray
+them from their path, then fame & fortune will tempt them. It tempted
+me, but I had experienced so much suffering and sacrifice to retain
+the freedom to speak freely that I wasn't willing to allow myself to
+be sold out. I suffered for the ability to speak my mind and to speak
+the truth as I saw it and only later realized the cause of my pain. I
+wasn't willing to sell out or become a mockery of what I suffered for.
 
 <a name="never-change-dont-ever-change" />
 
@@ -441,15 +442,15 @@ success, none of those techniques are going to help you sell art, but
 they require more effort: sometimes orders of magnitude more time or
 cost.
 
-Truly, the best artists produce work that's like an onion. every time
-you experience you peel away what turns out to be the surface of some
-amazing new layer you hadn't imagined. Sometimes you cry. The best is
-when art hits you with a wave of truly unexpected emotion as a result
-of a revolution in how you see some aspect of their work's
-object. i.e. PS I Love You (just trust me) In that case and in others,
-the art led me to see something that I could have never expected
-myself. Perhaps I would have never experienced it .... Chick flicks,
-amiright?
+Truly, the best artists produce work that's like an onion. Every time
+you experience it, you peel away what turns out to be the surface of
+some amazing new layer you hadn't imagined. Sometimes you cry. The
+best is when art hits you with a wave of truly unexpected emotion as a
+result of a revolution in how you see some aspect of their work's
+object. i.e. PS I Love You (just trust me) ... In that case and in
+others, the art led me to see something that I could have never
+expected myself. Perhaps I would have never experienced it .... Chick
+flicks, amiright?
 
 <a name="the-best-art-stays-crypted" />
 
@@ -459,13 +460,13 @@ And so, the best art is necessarily underground. It's easy to
 miss. It's not popular. Sometimes it's downright subversive, which is
 why the artists painting with uncomfortable truth would prefer to
 remain hidden. It's because their truth might limit their capacity for
-telling the truth, unless for some reason, they happen to export
-enough of it while they can, hoping that at some point in the future,
-when society is a bit more understanding, life will acknowledge the
-artist as being truly ahead of his or her time. The artists that meet
-this criteria are few and far between. As society becomes more
-tolerant, the person who exemplifies the strength and virtue of this
-artist will become a jewel perhaps impossible to find.
+telling the truth. That is,unless for some reason, they happen to
+export enough of it while they can, hoping that at some point in the
+future, when society is a bit more understanding, life will
+acknowledge the artist as being truly ahead of his or her time. The
+artists that meet this criteria are few and far between. As society
+becomes more tolerant, the person who exemplifies the strength and
+virtue of this artist will become a jewel perhaps impossible to find.
 
 There's a group of hipster critics who pride themselves on
 understanding those sensory delicacies most often lost. These critics
@@ -475,10 +476,10 @@ appreciation of what makes that art "good" that can be recognized by
 listeners and consumers.
 
 The selection of underground artforms and symbols recognized by
-someone forms a kind of map that can speak volumes on who they are and
-who their friends are. This especially applies when they are unaware
-of the significance of some symbols. This esoteric aspect of
-underground music and art only holds true as long as those works
+someone forms a kind of map or language that can speak volumes on who
+they are and who their friends are. This especially applies when they
+are unaware of the significance of some symbols. This esoteric aspect
+of underground music and art only holds true as long as those works
 remain underground.
 
 <a name="hipsters-drink-from-the-wellsprings-of-art-and-culture" />
@@ -489,45 +490,44 @@ When critics recognize underground art for some minor qualities that
 remain missed by others, and then spread that art & appreciation of
 its qualities to others, this forms a kind of cycle. There's a
 wellspring of creativity at the center, surrounded by hipsters and
-master artists. These "wellsprings" have an intense effect on the
+master artists. These wellsprings have an intense effect on the
 evolution of art.
 
-Again, the evolution of art and music is an incredbily powerful thing
-to control or influence. Control this and you control the map of ideas
+The evolution of art and music is an incredbily powerful thing to
+control or influence. Control this and you control the map of ideas
 available to others, upon which all that they know and think is
 woven. There are unseen forces that guard these wellsprings of
 creativity, art and culture. To either control them for profit or to
 protect them from tainted influence is to guard the metaphysical realm
 for future generations. As the speed at which information and culture
-converge across the globe due to technology, the metaphysical realm
-begins to increasingly influence reality and begins to manifest
+converge across the globe via technology increases, the metaphysical
+realm begins to increasingly influence reality and begins to manifest
 itself.
 
 From these wellsprings, artistic influence gradually spreads outward
 to the mainstream consumers whose capacity for recognizing and
-appreciating "good" art expands.  These wellsprings are basically
-controlling the process of natural selection that selectively
-propagates some works of art over others. It's survival of the
-fittest. What's worth retransmitting and what maintains interest is
-propagated to other nodes in the graph. Those with the most eclective
-set of interests have the most unique positions in the graph. They are
-the "hipsters" who are most likely to have the most influence on the
-rest of the graph.
+appreciating "good" art expands.  These wellsprings basically throttle
+the process of natural selection that selectively propagates some
+works of art over others. It's survival of the fittest. What's worth
+retransmitting and what maintains interest is propagated to other
+nodes in the graph. Those with the most eclectic set of interests have
+the most unique positions in the graph. They are the "hipsters" who
+exert the most influence on the rest of the graph.
 
 <a name="semiotics-of-medium" />
 
 ### [Semiotics of Medium](#semiotics-of-medium)
 
 To truly appreciate art, one needs the capacity to understand and they
-need to activate it. The significance and meaning of art is often
-encoded into the art, whereby the significance of symbols related to
-the production of the art is important to understanding the true
-meaning of it. This is because artists are most familiar with their
-tools. Since these are the languages of symbols they understand most,
-they provide the semiotic basis of "second language" for that
-artist. Therefore, it's crucial to understand the production of art
-and the techniques involved if you hope to understand an artist's
-work.
+need to activate it. The significance and meaning of art itself is
+often encoded into the art, whereby the significance of symbols
+related to the production of the art is important to understanding the
+true meaning of it. This is because artists are most familiar with
+their tools. Since these are the languages of symbols they understand
+most, they provide the semiotic basis of "second language" for the
+artist and the artisticly inclined. Therefore, it's crucial to
+understand the production of art and the techniques involved if you
+hope to understand an artist's work.
 
 New mediums, like those of technology, require a new set of
 afficianados, familiar enough with the medium to understand this
@@ -539,13 +539,13 @@ semiotic language of signs based on the medium itself.
 
 In other essays, I have discussed the importance of semiotics in
 expanding consciousness as critical to developing our mind's ability
-to abstract ideas, generally. That is, IMO the degree of our
-consciousness is measured by the expanse of symbols a being can
-communicate with and by it's skill in reconstituting those signs and
-symbols into peer-to-peer micro-languages. That's what is meant by
-"having a connection" with someone. They understand you and your
-actions in a way that can be only established by contact, listening
-and a true emotional connection.
+to abstract ideas, generally. That is, the degree of our consciousness
+is measured by the expanse of symbols a being can communicate with and
+by it's skill in reconstituting those signs and symbols into
+peer-to-peer micro-languages. That's what is meant by "having a
+connection" with someone. They understand you and your actions in a
+way that can be only established by contact, listening and a true
+emotional connection.
 
 If this is so and the degree of consciousness is measured by the
 expanse of symbols a being can communicate with, both those it
