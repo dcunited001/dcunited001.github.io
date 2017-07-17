@@ -243,7 +243,7 @@ like I'm reading something a fucking alien wrote.
       dissemination of information, etc.
       - there are many other important factors that help define how
         humans perceive causation in their behavioral interactions,
-        whether those are individuals or groups of people
+        whether those are individuals or groups of people ....
       - however, causality and the way humans utilize their
         understanding of it to construct a of beliefs/knowledge about
         the world is in a very big way parameterized by the paradigm

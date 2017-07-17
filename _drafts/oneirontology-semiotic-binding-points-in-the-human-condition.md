@@ -23,6 +23,18 @@ excerpt: ""
   - how do the social institutions surrounding a religion and belief
     system adapt to the needs of people: followers, non-believers and
     apostates?
+- where to put this?
+
+
+We spend our life being defined by things we don't understand. And
+several decades into their lives, few people understand the forces at
+work defining every decision they make, outlining their choices and
+forming the semiotic basis of every thought they have.
+
+Why not understand the forces at work in life, as early as possible?
+So why not create your own destiny, free from being a pawn in someone
+else's game?
+
 
 Human civilization is embarking on a paradigm shift of cultural flux,
 precipitated by modernization, globalization and the Singularity. Does
