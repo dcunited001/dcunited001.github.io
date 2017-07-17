@@ -2,5 +2,5 @@ _site
 .sass-cache
 .jekyll-metadata
 _drafts/_new-ideas.md
-_graphics-js/node_modules
+_apps/node_modules
 
