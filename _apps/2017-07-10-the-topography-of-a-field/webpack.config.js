@@ -5,7 +5,7 @@ var path = require('path'),
 var nodeEnv = process.env.NODE_ENV || 'development';
 
 var conf = _.extend(
-  { nodeEnv: nodeEnv },
+  {nodeEnv: nodeEnv},
   config['common'],
   config[nodeEnv]);
 
@@ -17,9 +17,7 @@ module.exports = {
   },
   module: {
     loaders: [
-      {
-        test: path.join(__dirname, 'es6'),
-        loader: 'babel-loader'
-      }]
+      {test: path.join(__dirname, 'es6'), loader: 'babel-loader'}
+    ]
   }
 };

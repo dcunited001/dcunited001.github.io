@@ -1,6 +1,6 @@
-import { MipReducerAttachment, MipReducer } from '../../utils/MipReducer.js';
-import { Quad } from '../../utils/Quad.js';
-import { LinePlot } from '../../utils/LinePlot.js';
+import { MipReducerAttachment, MipReducer } from '../../lib/MipReducer.js';
+import { Quad } from '../../lib/Quad.js';
+import { LinePlot } from '../../lib/LinePlot.js';
 
 "use strict";
 

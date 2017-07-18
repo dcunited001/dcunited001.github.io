@@ -1,8 +1,11 @@
-import {MipReducerAttachment, MipReducer} from '../../utils/MipReducer.js';
+import { MipReducerAttachment, MipReducer } from '../../lib/MipReducer.js';
+import { ShaderGraph } from '../../vendor/bower/shadergraph/'
+
 var twgl = require('twgl.js');
 
 "use strict";
 
+// TODO: abstract mic/fft as service/factory
 // TODO: set up shaders to use twgl.createProgram & createProgramInfo
 // TODO: update RenderPass to use uniforms/attributes on ProgramInfo
 // TODO: refactor fixCanvasUIBar to a common util
@@ -46,10 +49,13 @@ class Animation {
     // TODO: decide whether to init context in/outside of Animation class
     // - or just attach the context to the animation, since canvas has no refs
 
+    // TODO: timing
+
     // TODO: gl extensions
     this._paused = false;
-    this._programs = options.programs || {};
+    this._programs = {};
     this._ui = ui;
+
   }
 
   // TODO: handle cpu-time/simulation-time, elapsed/etc
@@ -58,15 +64,15 @@ class Animation {
     return this._paused;
   }
 
-  set paused(paused) {
-    this._paused = paused;
+  togglePaused() {
+    this._paused = !this._paused;
   }
 
   get programs() {
     return this._programs;
   }
 
-  setProgram(k, program) {
+  addProgram(k, program) {
     this._programs[k] = program;
   }
 
@@ -121,11 +127,6 @@ class AnimationInput {
       ((newValue) => {
         this._el.value = newValue;
       });
-    // if (options.events) {
-    //   for (var k of Object.keys(options.events)) {
-    //     this._el.addEventHandlers(k, options.events[k], false);
-    //   }
-    // }
   }
 
   get el() {
@@ -164,39 +165,82 @@ class AnimationControl {
     return this._el;
   }
 
+  setupEvents(events = {}) {
+    for (var k of Object.keys(options.events)) {
+      this._el.addEventHandlers(k, options.events[k], false);
+    }
+  }
+}
+
+class ShaderSnippetProcessor {
+
+  constructor(options = {}) {
+    this._snippets = {};
+  }
+
+  get snippets() { return this._snippets; }
+
+  addSnippet(k, snippet) {
+    this._snippets[k] = snippet;
+  }
 
 }
 
+class ShaderSnippet {
+  constructor(options = {}) {
+
+  }
+
+  generate(input = {}) {
+
+  }
+}
 
 function runWebGL() {
-  // config canvas and get context
-
-
-  // create glsl programs
-
-  btnPlay
-  btnMic
+  var canvas = document.getElementById('main-canvas');
 
   var animationControls = {
-    btnPlay: AnimationControl(document.getElementById('btn-play')),
-    btnMic: AnimationControl(document.getElementById('btn-mic'))
+    btnPlay: new AnimationControl(document.getElementById('btn-play')),
+    btnMic: new AnimationControl(document.getElementById('btn-mic')),
+    btnParticleReset: new AnimationControl(document.getElementById('btn-particle-reset'))
   };
 
-  var animationUI = new AnimationUI({
+  var animationInputs = {
     particleCount: new AnimationInput(document.getElementById('particle-count')),
     simulationRate: new AnimationInput(document.getElementById('simulation-rate')),
     rCoefficient: new AnimationInput(document.getElementById('r-coefficient')),
     fieldSize: new AnimationInput(document.getElementById('field-size')),
     clampField: new AnimationInput(documents.getElementById('clamp-field'))
-  });
+  };
+
+  var animationUI = new AnimationUI(canvas, animationInputs, animationControls, {});
 
   var animation = Animation(animationUI);
 
-  animationControls.btnPlay.el.addEventHandlers('click', (e) => {
-    animation.paused = !animation.paused;
-    console.log('clicked play');
-  });
+  // TODO: wire up UI events
 
-  // TODO: where to set up UI events
+  // TODO: create shader prefix
 
+  var vaoAttributes = ['a_position', 'a_texcoord'];
+
+  // TODO: read in vs/fs programs
+
+
+
+
+  // TODO: create textures
+  
+}
+
+
+
+// TODO: render pass
+class RenderPass {
+  // render pass is mostly handled by twgl
+  // - already encodes uniforms
+  // - already encodes textures with samplers
+
+  // TODO:
+  //   - encode gl.drawBuffers();
+  //   - set blending & stenciling options
 }
