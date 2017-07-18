@@ -3,4 +3,6 @@ _site
 .jekyll-metadata
 _drafts/_new-ideas.md
 _apps/node_modules
+_apps/test/test-results.html
+_apps/vendor/bower
 
