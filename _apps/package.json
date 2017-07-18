@@ -1,5 +1,5 @@
 {
-  "name": "texel-graphics",
+  "name": "texelio-apps",
   "version": "0.0.1",
   "description": "",
   "main": "index.js",
@@ -10,19 +10,30 @@
     "abbrev": "^1.1.0",
     "babel-core": "^6.25.0",
     "babel-loader": "^7.1.1",
-    "underscore": "^1.8.3"
+    "karma": "^1.7.0",
+    "karma-chrome-launcher": "^2.2.0",
+    "karma-htmlfile-reporter": "^0.3.5",
+    "karma-sourcemap-loader": "^0.3.7",
+    "karma-tap": "^3.1.1",
+    "karma-tap-pretty-reporter": "^3.0.5",
+    "karma-webpack": "^2.0.4",
+    "tap-spec": "^4.1.1",
+    "tape": "^4.7.0",
+    "underscore": "^1.8.3",
+    "webpack": "^3.3.0"
   },
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
+    "test": "NODE_ENV=test karma start",
+    "test:debug": "NODE_ENV=test karma start --debug"
   },
   "repository": {
     "type": "git",
-    "url": "git+ssh://git@github.com/dcunited001/texel-graphics.git"
+    "url": "git+ssh://git@github.com/dcunited001/dcunited001.github.io.git"
   },
   "author": "David Conner",
   "license": "ISC",
   "bugs": {
-    "url": "https://github.com/dcunited001/texel-graphics/issues"
+    "url": "https://github.com/dcunited001/dcunited001.github.io/issues"
   },
-  "homepage": "https://github.com/dcunited001/texel-graphics#readme"
+  "homepage": "https://github.com/dcunited001/dcunited001.github.io#readme"
 }
