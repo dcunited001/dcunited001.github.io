@@ -24,6 +24,7 @@
   },
   "scripts": {
     "test": "NODE_ENV=test karma start",
+    "test:watch": "NODE_ENV=test karma start --watch",
     "test:debug": "NODE_ENV=test karma start --debug"
   },
   "repository": {
