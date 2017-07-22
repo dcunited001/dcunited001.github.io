@@ -335,7 +335,118 @@ their own subjective demise is perhaps the greatest power.
 - nature of duality vs agency, along geographic/philosophic dimensions
 - an agent's degree of influence and perceived influence over
   environment, especially as it relates to some permanent state
-  changes
+  changes.
+  - in particle systems which are high-dimensional and where the
+    particles have agency and intentionality, phase changes among
+    particles have a far greater capacity for effecting other
+    particles in the system.
+
+- for the common person to understand, they need to understand what a
+  phase change in physics actually is and, most importantly, what a
+  phase change is defined as outside of physical systems.
+  - if you think of solid, liquid, gas, plasma, BEC ... what makes
+    each one what it is?
+    - they are composed of the same particles, mostly.
+    - why is it that they "seem" so different, qualitatively?
+    - how do you define what conditions lead some substance to begin
+      to transform itself into a different phase?
+
+- how do you model the interactions between a mixture of a single
+  substance where different parts of the space you're observing are in
+  different phases?
+    - this is the most important part of understanding what a phase
+      change is and carrying it over to non-physical systems: how does
+      a physicist mathematically model different phases of a
+      single-substance system and *why*?
+  - this is what distinguishes systems with math that can model phases
+    and those that can't.
+    - phase changes introduce and enable dramatically different modes
+      of interaction between the substance and both it's consitutuent
+      parts and it's environment.
+    - for example, solids propagate energy as more clearly defined
+      waves moving across a more limited set of crystal configurations
+      - liquids and gases also propagate waves of energy across the
+        system, but there are more physical degrees of freedom for how
+        a particle can kinetically react.
+      - but, this qualitative change in how a particle reacts to its
+        envrionment emerges not from signal particle or the state of
+        its local environment, but from more macroscopic relationships
+        that emerge from a *group* of particles.
+        - that is, it's *difficult* to say whether a single atom of
+          carbon is a particular phase at any temperature.
+          - the carbon atom just acts like a carbon atom and nothing
+            else.
+        - as a aside: this is also why various configurations of
+          matter at the nano scale can have such dramatically varied
+          behaviors that do not appear on more macro scales and do not
+          appear for singular atoms and molecules
+        - some of these properties are chemical and electrical and,
+          thus, are not traditionally considered "phases" by chemists
+          or physicists.
+          - physical phases are defined as being completely separate
+            from the chemical properties of the atom or substance.
+        - but the "phase" of a region of a substance determines how
+          that section of matter interacts with matter of the same
+          substance in other adjacent slices of space.
+          - that is, even though it's very literally the same
+            substance, the "rules" for how it physically interacts
+            change.
+- and so, there are phase changes in many kinds of systems. they are
+  not just confined to physical systems. some chemical properties of
+  matter can be dependent on the substance's phase.
+  - some chemical properties that only emerge on the nanoscale could
+    be modeled as "phases" although they are not related to the
+    physical phases of solid, liquid or gas.
+    - and so, as you zoom out to larger collections of the same
+      substance, it loses those properties from the nanoscale
+      configuration of matter, unless that fragile nanostructure is
+      held consistent across the entire material.
+
+- soooo ... what are phase changes in sociophysical systems?
+
+
+### Configurational Entropy in Sociophysical Systems
+
+- need to review the concepts here:
+  - conformation space are the probabilities of seeing particular
+    conformations of molecules, which AFAIK is not concerned with the
+    orientation of molecules (at least not the probability
+    distribution of conformations)
+  - configuration space has more to do with valid and realistic
+    arrangements of molecule types throughout a system.
+    - 
+
+
+prevalence of )
+- as a sociophysical system progresses, you can keep track of the
+  amount of time specific "molecular" configurations of participants
+  spent connected.
+  - this forms a kind of combinatorially-derived entropy, but it's not
+    thermodynamic entropy. it's closer to Shannon's informational
+    entropy.
+  - you can also keep track of the *types* of configurations that
+    emerge. this is probably more important, considering there are
+    factorially more combinations with more particles.
+    - if there are multiple particle types, then each counts as a
+      symbol for combination. (i.e. AA/AB/BA/BB for types A & B)
+  - this is useful because you get feedback on understanding how the
+    rules of your simulation affect the kinds of interactions that
+    emerge amoung particles.
+    - and it can help you identify when the rules of the system are
+      weighted improperly, leading to lower configuration entropy and
+      a skewed distribution
+
+- this concept carries over to organic chemistry, where it's called
+  configuration entropy. there is also conformational entropy, but
+  this is a weaker analogy b/w organic chemistry reactions and social
+  physics simulations.
+  - you could say that a social physics simulation with arbitrary
+    rules yields conformations of nodes, some more or less stable
+  - but, the types of conformations for a group of molecules are less
+    defined. it's probably not as useful without some means of
+    restricting the types of conformations that emerge by placing
+    constraints on particle interactions
+
 
 # Social Physics Simulation Ideas
 
@@ -386,4 +497,98 @@ their own subjective demise is perhaps the greatest power.
     through the lattice, without losing information
   - model the wave transmission in a similar way to conway's game of
     life.
+
+### Measuring Configurational & Confirmational Entropy in Social Physics
+
+- instead of measuring Thermal Entropy via "Course Graining" of q[i] &
+  p[i] (according to wikipedia)
+  - and dilineating the eexpected/actual distro's with the ideal...
+
+- instead, these are simulations to study the sociophysical
+  "molecular" distributions found in configuration space after a
+  simulation runs.
+  - in particular, identify the total time summed for each molecule
+    type ... and hopefully specific combinations of particles by ID,
+    but those calculations will be mostly intractable after a few
+    dozen particles
+  - how do these typologies of connected social particles become more
+    and less prevalent over time?
+    - I'm not sure if this question can be answered. it is possible,
+      if you're simply measuring the types of particles that
+      emerge. not particle ID combinations.
+    - even still, it will require storing large aggregate textures
+      over time
+
+- this requires the standard social physical particle system
+  determined by at least 2 forces upon which higher order, graph
+  mediated connections accrue
+  - the graph is the product of particle positions and is formed when
+    node's attractive forces overlap, stabalizing against the
+    repulsive forces. this is similar to electronegativity and the
+    strong positive charge at the center of molecules
+    - the attractive force is better understood as a field of vision
+      and it's not the field that directly affects particles, but the
+      area of space which directs a higher density of particle
+      "attention"
+      - this itself forms a field, which triggers higher-level actions
+        in the particles. this field of attention is a secondary field
+        over which the force can transfer energy
+      - (move this summary up to the initial description of this type
+        of simulation)
+
+  - attractive field maxima are identified and these centroids are
+    estimated to be the center of molecules.
+    - the centroids can be pulled out with a cheap knockoff of
+      thrust's scan() method.
+    - these centroids are through into memory as vertices for delauney
+      triangulation, along with the rest of the particles.
+    - from here, a graph can be constructed in matrix form
+      - if the indices of the maxima are retained, you can walk
+        outward one degree from the centroids with the CPU
+        - (under assumptions in the physical behavior of nodes,
+          e.g. stability)
+
+- the result is that you get subgraphs with a very finite set of
+  possible molecule, 2 through 7 particles at most arranged in circles
+  - you can use these subgraphs to add the frametime of each
+    configuration-type to it's bin in the accumulating texture
+    - the molecules are only speciated into types by their subgraph
+      edges in a molecule, not by their orientation in space.
+    - for particle simulations with a single particle type, only 6 or
+      7 molecule types will emerge.
+      - for simulations with multiple particle types, there are more
+        types that can be formed.
+  - the values in the accumulating texture are related to the
+    probability distribution for seeing these molecules in the social
+    physics simulation, or may actually be
+
+- from here, entropy can be calculated for the distribution of
+  molecule arrangements in time.
+  - all of the following will change the distribution for types of
+    molecules that emerge:
+    - different particle types and rules for their interactions
+    - particle interactions are defined by particle state & state
+      changes
+  - given that you know the inherent variations in particle attributes
+    that contribute towards their action/interactions, there should be
+    some "normalness" in the distribution of combinations/subgraphs &
+    their qualities
+
+- amoung simulations with a lower particle to particle-type ratio,
+  properly defined rules and balanced values should result in higher
+  entropy values.
+  - balancing these equaations and forces seems difficult. the best
+    way to do it is a combination of a numerical approach and an
+    automated approach.
+  - numerically, you can identify values of rForce & aForce that
+    result in a net force of zero that hold particles in place
+    - this must be done carefully and so that it works for all
+      two-to-seven particle molecule AND for all clusterings of
+      particles that don't quite meet the definition of a molecule
+    - this utilizes the lagrangian, i think
+    - numerically tuned values can give you a consistent basis each
+      amoung the rForce & aForce, which will be important.
+    - the basis has to be set up to scale properly to different screen
+      resolutions, which is something that i messed up recently
+
 

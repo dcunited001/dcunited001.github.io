@@ -26,6 +26,7 @@ excerpt: ""
 - where to put this?
 
 
+
 We spend our life being defined by things we don't understand. And
 several decades into their lives, few people understand the forces at
 work defining every decision they make, outlining their choices and
@@ -224,6 +225,82 @@ singularity)
   our minds than the day and night cycle and everything related to and
   involving a day.
 
+### Tempurature
+
+- should this be moved to an article on social physics?
+- the ideas of "temperature" and "energy" for the high-dimensional systems of
+  social physics
+  - spatial or physical temperature/energy/motion
+  - the more metaphysical, high-dimensional temperature/energy of
+    information
+
+- social physics temperature, induced by sunrise
+  - informational movement from east to west
+    - increasing "temperature"
+
+### Language & Schematic Boundaries
+
+- should this be moved to my draft on semiotics/linguistics?
+
+- language and information-schema induced boundaries on movement of
+  types of information
+  - nodes separated by language can only easily propagate most ideas
+    or information in their language
+  - nodes will tend to want to process information relevant to their
+    fundamental schema metatype's worldview
+    - that is, some schema metatypes are more or less prioritized than
+      others in how nodes process information
+      - these establish the schema that determines how nodes represent
+        information internally
+      - these worldview's establish rules for how
+        nodes/particles/people interact
+      - what information will they think is relevant?
+      - what information/actions will they view as moral/immoral?
+        - how does their worldview tell them to react to specic types
+          of information/actions?
+        - how do they distinguish/delineate a "type" of
+          information/action?
+      - what information will they think is heretical?
+
+### Language and Geography
+
+- should this be moved to my draft on semiotics/linguistics?
+
+- the physical consequences of the actual geographical distribution of
+  languages.
+  - category theory and linguistic evolution, in the context with
+    geography
+    - can one anticipate linguistic evolution across several regions a
+      hundred years in advance? (without technology?)
+      - how does one quantify/anticipate linguistic evolution without
+        writing systems?
+    - if one can expect langauges to diverge, can information be
+      injected into social-physical systems to "coax" or manipulate
+      linguistic evolution over the course of centuries?
+      - or are these systems too complicated to understand?
+      - if it is possible, at what point in history does it become
+        practical? after writing? after experimentation with various
+        writing systems (grapheme heavy languages like chinese,
+        language with expansive phonetics like sanskrit, language with
+        a higher degree of grapheme-to-phoneme flexibility)
+        - how does this change before/after the printing press?
+
+- are some geographic types more advantageous for different
+  informational objectives?
+  - mountainous areas can preserve information & belief systems
+    - e.g. tibet and alps
+    - historical examples involving alps?
+  - can some areas be more advantageous in affecting nearby areas?
+  - areas with lots of islands effective for medium term
+    experimentation?
+    - e.g. greece and governance systems
+  - qualities of regions on geographical edges (i.e. japan and
+    england)
+    - control the far east or the far west and you retain capacity to
+      influence whatever conflict emerges in the middle
+    - how does this change with the technology available to a
+      particular area?
+
 <a name="semiotic-binding-points-in-the-human-condition" />
 
 # [Semiotic Binding Points in the Human Condition](#semiotic-binding-points-in-the-human-condition)
@@ -240,6 +317,16 @@ overlayed and mapped with multiple meanings.
   - these two phenomena combined are another reason that world
     religions share so many common traits.
     - ... my brain.. .wtf
+
+- how are new cultural universals created for humanity?
+  - how does the entire system congeal around a new cultural
+    universal?
+  - for it to be a cultural universal, isn't it required that it can't
+    depend on communication to propagate it?
+    - if it required communication to propagate, then it can't achieve
+      a "universal" distribution and could be a cultural artifact that
+      is gained, then lost.
+  - can cultural universals be seeded through genetic evolution?
 
 <a name="astrology-commerce-agriculture-and-architecture" />
 
