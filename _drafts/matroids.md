@@ -268,3 +268,174 @@ as integers and rational numbers.
   streams of geolocated facts about industries/areas affected by events
   - cross with are of publication exposure
   - obviously someone already has this running
+
+# Continued Fractions, Irrationality and Pi
+
+- continued fractions can be used to index ANY real number, even
+  irrational numbers.
+
+### Continuous Fractions as a Basis for Number/Coordinate System
+
+- phi is the prototypical continued fraction and the identity
+  operation mapped to the identity value on some kind of group related
+  to continuous fractions.
+
+- are there means of measuring the aleph degree of continued fractions?
+  - coordinate planes and spaces for continuous fractions?
+    - connections to the hyperbolic plane?
+  - phi should be the origin of such spaces of graphing continuous
+    fractions ... or should it be, if it's the identity?
+
+- what is `X = 0 + (0 + 1/(0 + (1/...)))`
+  - this or some simliar definition may have a connection to infinity
+
+- continued fractions are basically glorified long division with a
+  baseless number system
+  - this is why phi is the *most irrational* number, which has been
+    studied, because it's definition has the most parity
+
+- from a continued fraction definition where the numerators are
+  indexed by n and valued as (X1 ... Xn), examine such a definition of
+  phi: can any equivalent values be determined by fixpoint most values
+  of Xn and combinating values of the rest?
+  - i.e. can you have some continued fraction that definitively
+    equates to another, similarly structured continued fraction?
+  - this is similar to what i ask below when discussing lie algebra
+    for continued fractions
+
+### Continued Fractions and Group Theory
+
+- several important properties hold for phi and continued fractions
+  - there are group theory connections here
+  - e.g. the definition of phi holds for division or roots
+- these can be described as groups
+  - {phi, cont(+,sqrt)}
+  - {phi, cont(+,*)}
+  - ... the notation is horribly incorrect
+  - and these are necessarily groups with infinite domains
+- what arithmetic rules are allowed when using continued roots or
+  continued fractions?
+  - what rules allow you to rearrange a formula?
+  - and why? this is where understanding a kind of group theory
+    interpretation of the structure of continued statements is
+    important.
+
+#### phi defined from continued division
+
+```
+phi = 1 + 1/(1 + 1/(1 + 1/(...)))
+```
+
+### phi defined from continued roots
+
+```
+phi = 1 + (1 + (1 + (1 + (...)^(1/n))^(1/n))^(1/n))
+```
+
+- for the above definition, are there imaginary & quaternary solutions
+  or aspects to this definition?
+  - or does this mean they don't hold the same properties? (...??)
+- how do complex numbers tie into a study of groups modeled with
+  continuous fractions
+
+### Lie Algebra for Continued Fractions
+
+- lie algebra on the continued fraction structure for phi.
+  - can you anticipate the effect that small transformations of values
+    at indices (i, j, ...) have on the actual values encoded by the
+    value of the continued fraction.
+  - phi is the protypical example. all the numerators are
+    one. therefore, when changing one or two of those values, certain
+    value shifts with predictable structure should emerge.
+    - the "kind" of structure in value shifts here is similar to those
+      algebraic manipulations b/w groups studied by lie algebra.
+    - if there is preservation of structure, then even if the
+      structure itself is ineffable, there should be many
+      opportunities for study here.
+      - is there preservation of structure when mutating numerators at
+        multiple indices when those indices are selected to satisfy
+        specific properties?
+        - e.g. if distance(i,j) == d, how does the structure/behavior
+          change as i & j increase when the distance is constant?
+
+
+### Pi as Continued Fractions
+
+- pi as continued fractions:
+  - patterns of primes in numerators/denominators?
+    - used for narrowing a search on pi or predicting primes or
+      spacing the domains/parameters used to discover new primes
+    - and if the patterns of primes in these functions can be used to
+      narrow search for pi, then each can be used cyclicly to discover
+      the other. i.e. pi helps identify candidate large primes and
+      large primes help narrow the real, continued fraction region of
+      pi, which must be resolved to contain new, unknown primes.
+  - the challenge of course is how to do that, exactly. how do you
+    capture the structures of all these definitions and then use
+    them mathematically to compare against each other.
+    - then how do you design the software to use this information?
+
+- there are many ways of writing pi as continued fractions, as noted
+  on the
+  [Wolfram page](http://mathworld.wolfram.com/PiContinuedFraction.html)
+
+- surreal numbers X continued fractions
+  - is there a useful connection to surreal numbers when trying to
+    create a system of mapping all real numbers with continued
+    fractions?
+
+- isnt a rational number a special case of the real numbers that
+  should satisfy some conditions when indexed to be written as a
+  continued fraction?
+  - i.e. if rational numbers can all be written as m/n, then what does
+    that mean for the structure/values of their continued fractional
+    form?
+  - is there some measure of irrationality? are there some numbers
+    that are more irrational than others?
+
+
+### Comparison of Pi as Infinite Series
+
+- [Liebniz Formula for Pi](https://en.wikipedia.org/wiki/Leibniz_formula_for_%CF%80)
+  - this definition of pi alternates, as does `e`. however, not every
+    numeric definition of pi alternates before converging.
+  - this formula, an infinite sum, can be converted to an infinite
+    product, called a Euler product
+    - tangent: analog of euler product & dirichlet series for continued fractions?
+
+![Comparison of Pi as Infinite Series](/img/posts/matroids/comparison-of-pi-infinite-series.png)
+
+- this picture from wikipedia visually compares several iterative methods for approximating pi
+  - [Viete's Formula](https://en.wikipedia.org/wiki/Vi%C3%A8te%27s_formula)
+    for 2/pi uses an infinite product of continued radicals
+  - [Wallace Product](https://en.wikipedia.org/wiki/Wallis_product)
+    uses an infinite product to generate pi/2
+
+- with a glance at the article for
+  [Van Wijngaarden transformation](https://en.wikipedia.org/wiki/Van_Wijngaarden_transformation),
+  the method i am thinking about for pi seems very similar.
+
+### Analytical Analysis of Digits in Transendental Numbers derived by various methods
+
+- attempt to resolve the "final" value of pi or any transcendental
+  number that converges into a simple limit by using the formula for
+  the transcendental number approximated in many different number
+  systems.
+
+- so, to calculate a better resolution of e, you do your calculations
+  in each of base-2, base-3, base-5, base-7, etc.
+  - only base-p numbering systems are used, where p is prime.
+  - you end up with a value for e in base-2, base-3, base-5, etc
+  - from here, you can run analytical methods to identify patterns in
+    the various encodings of the transcendental numbers
+    - you're looking for patterns in the digits of e or pi in
+      different numbering systems.
+
+- 
+
+
+
+### Riemann's Paradox (pi = infinity - infinity)
+
+- in context of polynomial systems of real numbers...
+

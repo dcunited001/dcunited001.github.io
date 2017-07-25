@@ -25,10 +25,8 @@ excerpt: ""
     apostates?
 - where to put this?
 
-
-
 We spend our life being defined by things we don't understand. And
-several decades into their lives, few people understand the forces at
+Several decades into their lives, few people understand the forces at
 work defining every decision they make, outlining their choices and
 forming the semiotic basis of every thought they have.
 

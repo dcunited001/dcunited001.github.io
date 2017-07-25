@@ -467,8 +467,7 @@ prevalence of )
 #### colorshifting FFT (not really social physics)
 
   - each particle has a colorshifting function, which takes its
-    current state and some parameters, then transforms the color
-  - each FFT segment amplitude determines the mass/speed or field
+  - beach FFT segment amplitude determines the mass/speed or field
     reactivity of the particle
   - so red particles move fast, blue particles move slow and FFT
     partially determines the amount of movement for each particle
