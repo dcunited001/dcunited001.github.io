@@ -1,6 +1,7 @@
 var path = require('path'),
   _ = require('underscore'),
-  config = require('./config.json');
+  config = require('./config.json'),
+  WebpackBuildNotifier = require('webpack-build-notifier');
 
 var nodeEnv = process.env.NODE_ENV || 'development';
 
@@ -19,5 +20,13 @@ module.exports = {
     loaders: [
       {test: path.join(__dirname, 'es6'), loader: 'babel-loader'}
     ]
-  }
+  },
+  plugins: [
+    new WebpackBuildNotifier({
+      title: conf['_app'].name,
+      sound: 'Hero',
+      successSound: 'Submarine',
+      suppressSuccess: true
+    })
+  ]
 };

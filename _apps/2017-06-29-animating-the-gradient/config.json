@@ -1,6 +1,9 @@
 {
   "common": {
-    "buildPath": "../../js/3d/"
+    "_buildPath": "../../js/3d/",
+    "_app": {
+      "name": "Animating The Gradient"
+    }
   },
   "development": {
 
