@@ -4,7 +4,7 @@
   "description": "",
   "main": "index.js",
   "dependencies": {
-    "twgl.js": "^3.4.0"
+    "twgl.js": "^3.4.1",
     "rstatsjs": "^1.0.1"
   },
   "devDependencies": {
@@ -12,7 +12,7 @@
     "babel-core": "^6.25.0",
     "babel-loader": "^7.1.1",
     "faucet": "0.0.1",
-    "gl-matrix": "^2.3.2",
+    "gl-matrix": "^2.4.0",
     "jsdom": "^11.1.0",
     "karma": "^1.7.0",
     "karma-chrome-launcher": "^2.2.0",
@@ -22,9 +22,10 @@
     "karma-tap-reporter": "0.0.6",
     "karma-webpack": "^2.0.4",
     "tap-notify": "^1.0.0",
-    "tape": "^4.7.0",
+    "tape": "^4.8.0",
     "underscore": "^1.8.3",
-    "webpack": "^3.3.0"
+    "webpack": "^3.4.1",
+    "webpack-build-notifier": "^0.1.16"
   },
   "scripts": {
     "test": "NODE_ENV=test karma start --single-run",
