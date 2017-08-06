@@ -25,7 +25,7 @@ module.exports = {
     new WebpackBuildNotifier({
       title: conf['_app'].name,
       sound: 'Hero',
-      successSound: 'Submarine',
+      successSound: 'Tink',
       suppressSuccess: true
     })
   ]

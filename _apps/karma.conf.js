@@ -12,11 +12,11 @@ const path = require('path');
 
 module.exports = function (config) {
   config.set({
-    browsers: ['Chrome'],
+    browsers: ['ChromeHeadless'],
     frameworks: ['tap'],
 
-    browserDisconnectTimeout: 2000,
-    browserNoActivityTimeout: 10000,
+    browserDisconnectTimeout: 20000,
+    browserNoActivityTimeout: 1000000,
 
     files: [
       './test/lib/*.test.js'
