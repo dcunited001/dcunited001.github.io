@@ -18,6 +18,5 @@ test('there is a class called PingPongFBO', function(t) {
 // TODO: test precision
 // TODO: test #define
 
-
 console.log("finished: pingpong");
 
