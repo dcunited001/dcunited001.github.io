@@ -77,12 +77,10 @@ function runWebGL() {
     lastFrameStart = currentTime;
     currentTime = Date.now();
     elapsedTime = currentTime - startTime;
-    simulationTime += (paused ? 0 : elapsedTime);
     lastFrameTime = currentTime - lastFrameStart;
-  }
 
-  function updateDeltaT(dt, newDeltaT) {
-    return vec4.fromValues(newDeltaT, dt[0], dt[1], dt[2]);
+    // TODO: check simluationTime
+    simulationTime += (paused ? 0 : lastFrameTime);
   }
 
 // =======================================

@@ -1,5 +1,3 @@
-"use strict";
-
 class ShaderPrefix {
   constructor(version, options = {}) {
     this._version = version;
