@@ -1,8 +1,6 @@
 const webpack = require('webpack');
 const path = require('path');
 
-"use strict";
-
 // TODO: add multiple entry points, so that each animation can have it's own tests
 // TODO: add a karma.all.conf.js to run all tests
 // files: ['test/index.js'],

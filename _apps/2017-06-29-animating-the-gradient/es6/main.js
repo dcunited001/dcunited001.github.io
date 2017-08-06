@@ -2,8 +2,6 @@ import { MipReducerAttachment, MipReducer } from '../../lib/MipReducer.js';
 import { Quad } from '../../lib/Quad.js';
 import { LinePlot } from '../../lib/LinePlot.js';
 
-"use strict";
-
 function createShader(gl, source, type) {
   var shader = gl.createShader(type);
   gl.shaderSource(shader, source);

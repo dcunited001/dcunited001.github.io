@@ -1,5 +1,3 @@
-"use strict";
-
 // performed once every n frames
 // (1) on particle qi/pi update shader
 // - attach a render buffer and render when indicated by uniforms

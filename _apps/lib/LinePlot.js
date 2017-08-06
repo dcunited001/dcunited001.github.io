@@ -1,5 +1,3 @@
-"use strict";
-
 class LinePlot {
   constructor(context, size, options = {}) {
     this._size = size;

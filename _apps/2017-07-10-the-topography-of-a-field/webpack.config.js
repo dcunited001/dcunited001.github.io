@@ -13,7 +13,7 @@ var conf = _.extend(
 module.exports = {
   entry: './es6/main.js',
   output: {
-    path: __dirname + '/' + conf.buildPath,
+    path: __dirname + '/' + conf._buildPath,
     filename: '2017-07-10-the-topography-of-a-field.js'
   },
   module: {
