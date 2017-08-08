@@ -9,6 +9,27 @@ author:
 graphics_ui_layout: "graphics/2017-06-29-animating-the-gradient.html"
 ---
 
+- this is all geometric mechanics
+  - [parametric pendulum](https://www.youtube.com/watch?v=eC_TJeLcZ6A)
+  - [parametric resonance](https://www.youtube.com/watch?v=Hi_4SsbwaeE)
+  - every position on a
+    [double pendulum](https://en.wikipedia.org/wiki/Double_pendulum)
+    maps to the surface on a torus. here, this is why the
+    configuration space can be mapped using a manifold.
+    - for a double pendulum, the manifold transforms angles describing
+      the system into coordinates on the surface of a torus.
+    - to mimic the mechanical constraints of a joint, the surface of
+      the torus can be limited to including only valid values of
+      theta1 & theta2.
+  - to symbolically enumerate the possible configurations of a n-joint
+    system, one can discretize the space of (theta[1] .. theta[n]) or
+    the surface of the toroidally generated shape.
+
+- a primer on
+  [geometric mechanics](https://arxiv.org/pdf/1206.3302.pdf).
+- [configuration space of a double pendulum](http://www.nestedtori.com/2015/08/the-configuration-space-of-double.html)
+- [distributing points on a 2-sphere](http://www.nestedtori.com/2015/09/distributing-points-on-spheres-and.html)
+
 # Discrete Differential Geometry and Pop Locking
 
 - discrete differential geometry to help define configuration spaces
