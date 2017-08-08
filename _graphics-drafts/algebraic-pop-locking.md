@@ -9,7 +9,99 @@ author:
 graphics_ui_layout: "graphics/2017-06-29-animating-the-gradient.html"
 ---
 
-describe math behind poplocking
+# Discrete Differential Geometry and Pop Locking
+
+- discrete differential geometry to help define configuration spaces
+  for joints in a body, where the distance between connected joints
+  cannot change.
+  - this is distinguished from the usual discrete differential algebra
+  - the goal is to come up with a framework for specifying rhythmic
+    movements of *any jointed body*, not just any jointed human body.
+    - i.e. you could take any 3D mesh's skeleton and generate a
+      framework for producing mesh morphs. so apply this higher-order
+      functional math to a 3D mesh and skeleton and produce functions
+      that enable you to move it rhythmically
+
+### Combinatorial Generation of Involutes in the Configuration Space
+
+- involutes are essentially unrollings of lines/planes
+  - if you have a finite-length string and you hold one fixpoint, the
+    involute is the set of curves that emerge from moving the free
+    point to anywhere it can be moved and altering its curve in any
+    way that length of unfixed string allows
+  - also works with infinite length strings, but makes a bit more
+    sense if you can hold two points fixed, but move the points
+
+- so, with the language dancer's use, involutes describe the set of
+  possible isolations where one point is fixed at a joint and the
+  other joints are free to move anywhere.
+  - with isolations, you could also hold several joints in place and
+    try to imagine the isolations available with the joints between
+    them.
+
+- so in a jointed, discrete system where the distance between points
+  is constant and motions of jointed 1-segments are constraint by the
+  mechanics of those joints (i.e. shoulder joints only permit the
+  segment to move at angles relative to the shoulder joint)
+  - you identify a generator, which is a map for enumerating the space
+    of available configurations of that joint.
+    - the generator is a kind of higher-order manifold. it takes a set
+      of joint positions with specifid constraints on motion
+    - when given a set of new points for each joint, where the length
+      of the segments is the same and the joint motion constraints are
+      held, it produces a configuration of a body or 3D mesh skeleton
+      that is essentially the body's position.
+    - there is a higher-order kind of manifold on top of the 3D-mesh
+      skeleton generator.
+      - the manifold essentially enables metrics and distances that
+        are held, so that the enumerated 3D-mesh skeletons can be
+        constrained in some way.
+      - e.g. for an arm from the shoulder down, you can say, enumerate
+        the combinations of all body positions where divide each
+        joint's range of valid motions into n-different angles.
+        - for example, the elbow can move almost 180 degrees. if you
+          want to combinate through the space of configurations for
+          the arm, you can look at a set of mesh-skeleton positions at
+          values of 180/n.
+          - if n is 6, your looking at mesh-skeletons where the elbow
+            is at 0, 30,60, 90,120, 150 and 180 degrees.
+          - the rest of the joints are combinated similarly.
+      - this way, the configurations for a mesh can all be enumerated,
+        but there is a set of metrics (distance methods) that can tell
+        you how "similar" a mesh skeleton configuration is to another.
+
+### Evolutes
+
+- check over this, how much does the evolute have to do with dancing
+  and permuting different configurations of a jointed body? the
+  involute makes a ton more sense
+- evolutes describe curves that emerge from a curve by selecting
+  points... (define properly: it only works for this context when
+  imagining the curves in a short line with low curvature. i.e. a
+  straight line, with minor variation; otherwise the evolute changes
+  in very unpredictable ways that aren't useful)
+  - (depending on the curve?) when the normals of a curve result in
+    evolutes that are increasingly closer to the original curve, the
+    evolute that results is simply the original curve. the curve that
+    is its own evolute is a straight line.
+  - but if a curve is selected whose curvature can be changed
+    slightly, there is a space of possible evolutes that emerges.
+  - now look at the area (or volume) of difference between the curve
+    and its evoluted form. the greater the area, the more motion.
+    - for pop-locking this is more visually appealing. larger waves
+      through the body look better, although the wave doesn't describe
+      evolutes.
+    - if your body is in a certain configuration, you might want to
+      move it to assume the evolute of that position, for a range of
+      joints. no one would ever consciously think of dancing in this
+      way, but the idea is to create rhythmic distortion of a jointed
+      body. the more distortion, as long as it's coherent and
+      rhythmic, usually results in more visually appealing moves.
+
+
+
+### describe math behind poplocking
+
 - combinating sets of joints in human (and other bodies)
   - as balls/neighborhood for the enumeration of set pairs for
     isolation
