@@ -2,28 +2,23 @@ const webpack = require('webpack');
 const path = require('path');
 
 // TODO: add multiple entry points, so that each animation can have it's own tests
-// TODO: add a karma.all.conf.js to run all tests
-// files: ['test/index.js'],
-// preprocessors: {
-//   'test/index.js': ['webpack', 'sourcemap']
-// },
 
 module.exports = function (config) {
   config.set({
     browsers: ['ChromeHeadless'],
-    frameworks: ['tap'],
+    frameworks: ['mocha', 'chai'],
 
     browserDisconnectTimeout: 20000,
     browserNoActivityTimeout: 1000000,
 
     files: [
-      './test/lib/*.test.js'
+      './spec/lib/*.spec.js'
     ],
     preprocessors: {
-      './test/lib/*.test.js': ['webpack', 'sourcemap']
+      './spec/lib/*.spec.js': ['webpack', 'sourcemap']
     },
 
-    reporters: ['html', 'tap'],
+    reporters: ['html', 'mocha'],
 
     htmlReporter: {
       outputFile: './test/test-results.html',
