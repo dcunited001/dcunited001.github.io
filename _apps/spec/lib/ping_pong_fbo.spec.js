@@ -10,6 +10,8 @@ if (!colorBufferFloatExt) {
   console.error("EXT_color_buffer_float not supported.")
 }
 
+const FBO_WIDTH = 32, FBO_HEIGHT = 32;
+
 describe('PingPongFBO', () => {
   var fboPonger;
   var smallTextureOptions, smallTextureFunc, smallTextureFuncColor;
@@ -18,7 +20,7 @@ describe('PingPongFBO', () => {
 
     smallTextureOptions = {
       target: gl.TEXTURE_2D,
-      width: 32, height: 32,
+      width: FBO_WIDTH, height: FBO_HEIGHT,
       format: gl.RGBA,
       internalFormat: gl.RGBA32F,
       type: gl.FLOAT,
@@ -46,6 +48,8 @@ describe('PingPongFBO', () => {
 
   beforeEach(() => {
     fboPonger = new PingPongFBO(gl, {
+      width: FBO_WIDTH,
+      height: FBO_HEIGHT,
       max: 3,
       textureOptions: {
         smallTexture: Object.assign({}, smallTextureOptions, {
@@ -68,8 +72,7 @@ describe('PingPongFBO', () => {
       }]
     });
   });
-
-
+  
   it("creates 'max' number of textures per fbo attachment and cycles through framebuffers", () => {
     expect(fboPonger.getCurrentId()).to.equal(0);
     expect(fboPonger.getPrevId()).to.equal(fboPonger.max - 1);
@@ -100,13 +103,12 @@ describe('PingPongFBO', () => {
     }
   });
 
-  // it("can fetch data from an fbo attachment using readPixels()", () => {
-  // // TODO: refactor fboPonger._keyIndex to map to attachmentId AND the color_attachmentX id
-  // var fooPixels = new Float32Array(32 * 32 * 4).fill(16);
-  // gl.bindFramebuffer(gl.FRAMEBUFFER, fbo);
-  // gl.readPixels(0,32,32,32,gl.RGBA, gl.FLOAT, fooPixels);
-  // })
-  //
+  it("can fetch data from an fbo attachment using readPixels()", () => {
+    var fooPixels = new Float32Array(32 * 32 * 4).fill(16);
+    fboPonger.readAttachmentPixels('smallTextureMonad', gl, 0, 0, fboPonger.width, fboPonger.height, fooPixels);
+    expect(fooPixels.subarray(0,4)).to.eql(new Float32Array([1,0,0,1]));
+  });
+
   // it("can generate, update, regenerate a texture via a monoid or a set of sourcetypes", () => {
   //
   // });

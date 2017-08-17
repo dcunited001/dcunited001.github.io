@@ -93,7 +93,30 @@ class PingPongFBO {
     }
   }
 
-  // TODO: reimplement mappings for fbo(i) => [attachments]
+  /**
+   * Attach current fbo to readBuffer and extract pixels from attachment
+   *
+   * @param {String} key
+   * @param {WebGLRenderingContext} gl
+   * @param x
+   * @param y
+   * @param width
+   * @param height
+   * @param {ArrayBufferView} pixels
+   */
+  readAttachmentPixels(key, gl, x, y, width, height, pixels) {
+    var fbo = this.getCurrentFbo();
+    var attachment = this.attachments[this.getIndex(key)];
+    var fboAttach = this.getAttach(key);
+
+    gl.bindFramebuffer(gl.READ_FRAMEBUFFER, fbo);
+    var type = gl.getFramebufferAttachmentParameter(gl.READ_FRAMEBUFFER, fboAttach, gl.FRAMEBUFFER_ATTACHMENT_COMPONENT_TYPE);
+
+    gl.readBuffer(fboAttach);
+    gl.readPixels(x,y,width,height, attachment.format, type, pixels);
+
+    gl.bindFramebuffer(gl.READ_FRAMEBUFFER, null);
+  }
 
   /*
    * initialize this._textures and generate attachments from values shared by textureOptions
