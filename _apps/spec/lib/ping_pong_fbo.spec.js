@@ -7,7 +7,7 @@ const gl = canvas.getContext('webgl2');
 
 describe('PingPongFBO', () => {
   var fboPonger;
-  var smallTextures, smallTextureOptions, smallTextureFunc, smallTextureFuncColor;
+  var smallTextureOptions, smallTextureFunc, smallTextureFuncColor;
 
   before(() => {
 
@@ -34,10 +34,6 @@ describe('PingPongFBO', () => {
       return data;
     };
 
-    smallTextures = new Array(fboPongerMax).fill(0).map((_,i) => {
-      return twgl.createTexture(gl, Object.assign({}, smallTextureOptions, { src: smallTextureFunc }));
-    });
-
   });
 
   beforeEach(() => {
@@ -52,8 +48,7 @@ describe('PingPongFBO', () => {
           srcArgs: {
             color: [1.0, 0.0, 0.0, 1.0]
           }
-        }),
-        smallTexturePregen: smallTextures
+        })
       },
       attachments: [{
         attachmentId: 'smallTexture',
@@ -63,10 +58,6 @@ describe('PingPongFBO', () => {
         attachmentId: 'smallTextureMonad',
           level: 0
         // level: 1
-      }, {
-        attachmentId: 'smallTexturePregen',
-          level: 0
-        // level: 2
       }]
     });
   });
@@ -88,8 +79,7 @@ describe('PingPongFBO', () => {
   it("can retrieve the proper textures and fbo's", () => {
     var fboAttrs = new Array(3).fill({
       smallTexture: {},
-      smallTextureMonad: {},
-      smallTexturePregen: {}
+      smallTextureMonad: {}
     });
 
     for (var i = 0; i < fboPongerMax; i++) {
@@ -102,9 +92,6 @@ describe('PingPongFBO', () => {
       // fboAttrs[i].smallTextureMonad.type = gl.getFramebufferAttachmentParameter(gl.DRAW_FRAMEBUFFER, gl.COLOR_ATTACHMENT1, gl.FRAMEBUFFER_ATTACHMENT_OBJECT_TYPE);
       // fboAttrs[i].smallTextureMonad.name = gl.getFramebufferAttachmentParameter(gl.DRAW_FRAMEBUFFER, gl.COLOR_ATTACHMENT1, gl.FRAMEBUFFER_ATTACHMENT_OBJECT_NAME);
       // fboAttrs[i].smallTextureMonad.level = gl.getFramebufferAttachmentParameter(gl.DRAW_FRAMEBUFFER, gl.COLOR_ATTACHMENT1, gl.FRAMEBUFFER_ATTACHMENT_OBJECT_LEVEL);
-      // fboAttrs[i].smallTexturePregen.type = gl.getFramebufferAttachmentParameter(gl.DRAW_FRAMEBUFFER, gl.COLOR_ATTACHMENT2, gl.FRAMEBUFFER_ATTACHMENT_OBJECT_TYPE);
-      // fboAttrs[i].smallTexturePregen.name = gl.getFramebufferAttachmentParameter(gl.DRAW_FRAMEBUFFER, gl.COLOR_ATTACHMENT2, gl.FRAMEBUFFER_ATTACHMENT_OBJECT_NAME);
-      // fboAttrs[i].smallTexturePregen.level = gl.getFramebufferAttachmentParameter(gl.DRAW_FRAMEBUFFER, gl.COLOR_ATTACHMENT2, gl.FRAMEBUFFER_ATTACHMENT_OBJECT_LEVEL);
       // expect(gl.checkFramebufferStatus(gl.DRAW_FRAMEBUFFER)).to.equal(gl.FRAMEBUFFER_COMPLETE);
       console.log(gl.checkFramebufferStatus(gl.DRAW_FRAMEBUFFER));
       gl.bindFramebuffer(gl.DRAW_FRAMEBUFFER, null);
@@ -114,9 +101,8 @@ describe('PingPongFBO', () => {
       console.log(gl.checkFramebufferStatus(gl.FRAMEBUFFER));
       gl.readPixels(0,0,32,32,gl.RGBA, gl.FLOAT, fooPixels);
 
-
-      console.log(fooPixels[0]);
-      console.log(fboAttrs[i]);
+      console.log(fooPixels.slice(0,15));
+      console.log(fboAttrs[i].smallTexture);
       fboPonger.increment();
     }
 

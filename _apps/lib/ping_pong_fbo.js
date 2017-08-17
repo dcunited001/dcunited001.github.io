@@ -35,17 +35,9 @@ class PingPongFBO {
     for (var k of this._keys) {
       var textureOpts = this._textureOptions[k];
       if (textureOpts) {
-        if (textureOpts instanceof Array) {
-          if (textureOpts.length == this._max && textureOpts[0] instanceof WebGLTexture) {
-            this._textures[k] = textureOpts;
-          } else {
-            throw `TextureOptions[${k}] does not contain array of type WebGLTexture`;
-          }
-        } else {
-          for (var fboIndex = 0; fboIndex < this._max; fboIndex++) {
-            var texture = twgl.createTexture(gl, textureOpts);
-            this._textures[k].push(texture);
-          }
+        for (var fboIndex = 0; fboIndex < this._max; fboIndex++) {
+          var texture = twgl.createTexture(gl, textureOpts);
+          this._textures[k].push(texture);
         }
       } else {
         throw `TextureOptions[${k}] is null or undefined`
@@ -63,8 +55,6 @@ class PingPongFBO {
         var attachmentObject = this.getNext(k);
 
         if (attachmentObject instanceof WebGLTexture) {
-
-console.log(gl.TEXTURE_2D, attachment.target);
           gl.framebufferTexture2D(gl.DRAW_FRAMEBUFFER, attachNumber, attachment.target, attachmentObject, attachment.level);
         } else if (attachmentObject instanceof WebGLRenderbuffer) {
           gl.framebufferRenderbuffer(gl.DRAW_FRAMEBUFFER, attachNumber, attachment.target, attachmentObject);
