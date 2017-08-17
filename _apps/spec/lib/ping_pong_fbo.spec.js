@@ -5,6 +5,11 @@ const fboPongerMax = 3;
 const canvas = document.createElement('canvas');
 const gl = canvas.getContext('webgl2');
 
+var colorBufferFloatExt = gl.getExtension('EXT_color_buffer_float');
+if (!colorBufferFloatExt) {
+  console.error("EXT_color_buffer_float not supported.")
+}
+
 describe('PingPongFBO', () => {
   var fboPonger;
   var smallTextureOptions, smallTextureFunc, smallTextureFuncColor;
@@ -16,8 +21,11 @@ describe('PingPongFBO', () => {
       width: 32, height: 32,
       format: gl.RGBA,
       internalFormat: gl.RGBA32F,
-      type: gl.FLOAT
+      type: gl.FLOAT,
+      min: gl.NEAREST,
+      wrap: gl.CLAMP_TO_EDGE
     };
+
 
     // sets the texture to black
     smallTextureFunc = (gl, opts) => {
@@ -44,6 +52,7 @@ describe('PingPongFBO', () => {
           src: smallTextureFunc
         }),
         smallTextureMonad: Object.assign({}, smallTextureOptions, {
+          wrap: gl.REPEAT,
           src: smallTextureFuncColor,
           srcArgs: {
             color: [1.0, 0.0, 0.0, 1.0]
@@ -53,14 +62,13 @@ describe('PingPongFBO', () => {
       attachments: [{
         attachmentId: 'smallTexture',
         level: 0
-      },
-        {
+      }, {
         attachmentId: 'smallTextureMonad',
-          level: 0
-        // level: 1
+        level: 0
       }]
     });
   });
+
 
   it("creates 'max' number of textures per fbo attachment and cycles through framebuffers", () => {
     expect(fboPonger.getCurrentId()).to.equal(0);
@@ -77,41 +85,26 @@ describe('PingPongFBO', () => {
   });
 
   it("can retrieve the proper textures and fbo's", () => {
-    var fboAttrs = new Array(3).fill({
-      smallTexture: {},
-      smallTextureMonad: {}
-    });
-
     for (var i = 0; i < fboPongerMax; i++) {
       var fbo = fboPonger.getCurrentFbo();
 
       gl.bindFramebuffer(gl.DRAW_FRAMEBUFFER, fbo);
-      fboAttrs[i].smallTexture.type = gl.getFramebufferAttachmentParameter(gl.DRAW_FRAMEBUFFER, gl.COLOR_ATTACHMENT0, gl.FRAMEBUFFER_ATTACHMENT_OBJECT_TYPE);
-      fboAttrs[i].smallTexture.name = gl.getFramebufferAttachmentParameter(gl.DRAW_FRAMEBUFFER, gl.COLOR_ATTACHMENT0, gl.FRAMEBUFFER_ATTACHMENT_OBJECT_NAME);
-      fboAttrs[i].smallTexture.level = gl.getFramebufferAttachmentParameter(gl.DRAW_FRAMEBUFFER, gl.COLOR_ATTACHMENT0, gl.FRAMEBUFFER_ATTACHMENT_TEXTURE_LEVEL);
-      // fboAttrs[i].smallTextureMonad.type = gl.getFramebufferAttachmentParameter(gl.DRAW_FRAMEBUFFER, gl.COLOR_ATTACHMENT1, gl.FRAMEBUFFER_ATTACHMENT_OBJECT_TYPE);
-      // fboAttrs[i].smallTextureMonad.name = gl.getFramebufferAttachmentParameter(gl.DRAW_FRAMEBUFFER, gl.COLOR_ATTACHMENT1, gl.FRAMEBUFFER_ATTACHMENT_OBJECT_NAME);
-      // fboAttrs[i].smallTextureMonad.level = gl.getFramebufferAttachmentParameter(gl.DRAW_FRAMEBUFFER, gl.COLOR_ATTACHMENT1, gl.FRAMEBUFFER_ATTACHMENT_OBJECT_LEVEL);
-      // expect(gl.checkFramebufferStatus(gl.DRAW_FRAMEBUFFER)).to.equal(gl.FRAMEBUFFER_COMPLETE);
-      console.log(gl.checkFramebufferStatus(gl.DRAW_FRAMEBUFFER));
+      expect(gl.getFramebufferAttachmentParameter(gl.DRAW_FRAMEBUFFER, gl.COLOR_ATTACHMENT0, gl.FRAMEBUFFER_ATTACHMENT_OBJECT_TYPE)).to.equal(gl.TEXTURE);
+      expect(gl.getFramebufferAttachmentParameter(gl.DRAW_FRAMEBUFFER, gl.COLOR_ATTACHMENT0, gl.FRAMEBUFFER_ATTACHMENT_TEXTURE_LEVEL)).to.equal(0);
+      expect(gl.getFramebufferAttachmentParameter(gl.DRAW_FRAMEBUFFER, gl.COLOR_ATTACHMENT1, gl.FRAMEBUFFER_ATTACHMENT_OBJECT_TYPE)).to.equal(gl.TEXTURE);
+      expect(gl.getFramebufferAttachmentParameter(gl.DRAW_FRAMEBUFFER, gl.COLOR_ATTACHMENT1, gl.FRAMEBUFFER_ATTACHMENT_TEXTURE_LEVEL)).to.equal(0);;
+      expect(gl.checkFramebufferStatus(gl.DRAW_FRAMEBUFFER)).to.equal(gl.FRAMEBUFFER_COMPLETE);
       gl.bindFramebuffer(gl.DRAW_FRAMEBUFFER, null);
 
-      var fooPixels = new Float32Array(32 * 32 * 4).fill(16);
-      gl.bindFramebuffer(gl.FRAMEBUFFER, fbo);
-      console.log(gl.checkFramebufferStatus(gl.FRAMEBUFFER));
-      gl.readPixels(0,0,32,32,gl.RGBA, gl.FLOAT, fooPixels);
-
-      console.log(fooPixels.slice(0,15));
-      console.log(fboAttrs[i].smallTexture);
       fboPonger.increment();
     }
-
-    console.log(fboAttrs);
-
   });
 
   // it("can fetch data from an fbo attachment using readPixels()", () => {
-  //
+  // // TODO: refactor fboPonger._keyIndex to map to attachmentId AND the color_attachmentX id
+  // var fooPixels = new Float32Array(32 * 32 * 4).fill(16);
+  // gl.bindFramebuffer(gl.FRAMEBUFFER, fbo);
+  // gl.readPixels(0,32,32,32,gl.RGBA, gl.FLOAT, fooPixels);
   // })
   //
   // it("can generate, update, regenerate a texture via a monoid or a set of sourcetypes", () => {
