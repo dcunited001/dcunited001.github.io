@@ -136,8 +136,16 @@ also kind of leads the world through a difficult path.
 
 ### Gravity Waves
 
+- variational calculus to resolve the meta-IVP problem of gravity
+  - where "meta-IVP" means that the initial state of spacetime affects
+    how the masses interact with spacetime.
+  - can variational calculus help resolve general relativity proofs
+    for non-pointlike masses? or is this already used?
+    - why is mass necessarily separate from the state of spacetime?
 - is there gravitational wave radiation? yes
 - gravity doesn't exert a spherical effect on spacetime (?)
+  - in other words, does gravity's distortion on spacetime propagate
+    along the geodesic (i think it must)
   - we'll need to put multiple gravity wave detection devices in
     orbit around jupiter
     - this is useful in understanding how distortions in spacetime
@@ -683,7 +691,7 @@ A    d
 
 - if the unsolved problems of general relativity are mostly bc it's a
   differential eq initial values problem:
-  - then is there some way to analytically train an algorithm to find
+  - then is there some way to numerically train an algorithm to find
     more acceptable or more natuaral initial values?
 
 - how do we measure the speed of light? and why is it so tightly
