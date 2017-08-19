@@ -69,14 +69,12 @@
 
 "use strict";
 Object.defineProperty(__webpack_exports__, "__esModule", { value: true });
-/* harmony import */ var __WEBPACK_IMPORTED_MODULE_0__utils_MipReducer_js__ = __webpack_require__(1);
-/* harmony import */ var __WEBPACK_IMPORTED_MODULE_1__utils_Quad_js__ = __webpack_require__(2);
-/* harmony import */ var __WEBPACK_IMPORTED_MODULE_2__utils_LinePlot_js__ = __webpack_require__(3);
+/* harmony import */ var __WEBPACK_IMPORTED_MODULE_0__lib_MipReducer_js__ = __webpack_require__(1);
+/* harmony import */ var __WEBPACK_IMPORTED_MODULE_1__lib_Quad_js__ = __webpack_require__(2);
+/* harmony import */ var __WEBPACK_IMPORTED_MODULE_2__lib_LinePlot_js__ = __webpack_require__(3);
 
 
 
-
-"use strict";
 
 function createShader(gl, source, type) {
   var shader = gl.createShader(type);
@@ -153,8 +151,10 @@ function runWebGL() {
     lastFrameStart = currentTime;
     currentTime = Date.now();
     elapsedTime = currentTime - startTime;
-    simulationTime += paused ? 0 : elapsedTime;
     lastFrameTime = currentTime - lastFrameStart;
+
+    // TODO: check simluationTime
+    simulationTime += paused ? 0 : lastFrameTime;
   }
 
   function updateDeltaT(dt, newDeltaT) {
@@ -871,7 +871,7 @@ function runWebGL() {
 
   rpRenderFields.setUniformLocations(gl, ['u_resolution', 'u_rCoefficient', 'u_renderTexture', 'u_fractRenderValues', 'u_maxFieldLines', 'u_renderMagnitude', 'u_scaleRenderValues', 'u_audioColorShift', 'u_audioColorShiftEnabled', 's_repelField', 's_repelFieldGradient']);
 
-  var mipReducerMomentumSum = new __WEBPACK_IMPORTED_MODULE_0__utils_MipReducer_js__["b" /* MipReducerAttachment */]({
+  var mipReducerMomentumSum = new __WEBPACK_IMPORTED_MODULE_0__lib_MipReducer_js__["b" /* MipReducerAttachment */]({
     id: 'MomentumSum',
     defaultValue: vec4.fromValues(0.0, 0.0, 0.0, 0.0),
     internalFormat: gl.RGBA32F,
@@ -880,7 +880,7 @@ function runWebGL() {
     write: "vec4(momentumSum.xy, momentumNormSum, 0.0);"
   });
 
-  var mipReducerMomentumMinMax = new __WEBPACK_IMPORTED_MODULE_0__utils_MipReducer_js__["b" /* MipReducerAttachment */]({
+  var mipReducerMomentumMinMax = new __WEBPACK_IMPORTED_MODULE_0__lib_MipReducer_js__["b" /* MipReducerAttachment */]({
     id: 'MomentumMinMax',
     defaultValue: vec4.fromValues(Number.MAX_VALUE, Number.MIN_VALUE, 0.0, 0.0),
     internalFormat: gl.RGBA32F,
@@ -888,7 +888,7 @@ function runWebGL() {
     write: "vec4(min(min(min(${texels}[0].x,${texels}[1].x),${texels}[2].x),${texels}[3].x), \n" + "max(max(max(${texels}[0].y,${texels}[1].y),${texels}[2].y),${texels}[3].y), \n" + "0.0,0.0);"
   });
 
-  var mipReducer = new __WEBPACK_IMPORTED_MODULE_0__utils_MipReducer_js__["a" /* MipReducer */](particleResolution, [mipReducerMomentumSum, mipReducerMomentumMinMax //,
+  var mipReducer = new __WEBPACK_IMPORTED_MODULE_0__lib_MipReducer_js__["a" /* MipReducer */](particleResolution, [mipReducerMomentumSum, mipReducerMomentumMinMax //,
   ], {
     uniforms: {
       'u_particleCount': 'int'
@@ -992,7 +992,7 @@ function runWebGL() {
 
   var linePlots = {
     momentum: {
-      plot: new __WEBPACK_IMPORTED_MODULE_2__utils_LinePlot_js__["a" /* LinePlot */](gl, numDataPoints, {
+      plot: new __WEBPACK_IMPORTED_MODULE_2__lib_LinePlot_js__["a" /* LinePlot */](gl, numDataPoints, {
         program: programLinePlot,
         transformProgram: programLinePlotTransform,
         lineColor: bsPrimary,
@@ -1004,7 +1004,7 @@ function runWebGL() {
       buttonClass: 'btn btn-info navbar-btn'
     },
     force: {
-      plot: new __WEBPACK_IMPORTED_MODULE_2__utils_LinePlot_js__["a" /* LinePlot */](gl, numDataPoints, {
+      plot: new __WEBPACK_IMPORTED_MODULE_2__lib_LinePlot_js__["a" /* LinePlot */](gl, numDataPoints, {
         program: programLinePlot,
         transformProgram: programLinePlotTransform,
         lineColor: bsSuccess,
@@ -1016,7 +1016,7 @@ function runWebGL() {
       buttonClass: 'btn btn-success navbar-btn'
     },
     fps: {
-      plot: new __WEBPACK_IMPORTED_MODULE_2__utils_LinePlot_js__["a" /* LinePlot */](gl, numDataPoints, {
+      plot: new __WEBPACK_IMPORTED_MODULE_2__lib_LinePlot_js__["a" /* LinePlot */](gl, numDataPoints, {
         program: programLinePlot,
         transformProgram: programLinePlotTransform,
         lineColor: bsDanger,
@@ -1123,6 +1123,7 @@ function runWebGL() {
         g: document.getElementById('audio-color-shift-g'),
         b: document.getElementById('audio-color-shift-b')
       },
+
       spaceType: document.getElementsByName('space-type'),
       renderTexture: document.getElementsByName('render-texture'),
       physicsMethod: document.getElementsByName('physics-method'),
@@ -1290,7 +1291,7 @@ function runWebGL() {
     configProfiles[k](uiElements);
   };
 
-  var anyQuad = new __WEBPACK_IMPORTED_MODULE_1__utils_Quad_js__["a" /* Quad */](gl);
+  var anyQuad = new __WEBPACK_IMPORTED_MODULE_1__lib_Quad_js__["a" /* Quad */](gl);
 
   gl.bindFramebuffer(gl.DRAW_FRAMEBUFFER, null);
   gl.viewport(0, 0, renderResolution[0], renderResolution[1]);
@@ -1530,8 +1531,6 @@ window.onload = function () {
 "use strict";
 /* harmony export (binding) */ __webpack_require__.d(__webpack_exports__, "a", function() { return MipReducer; });
 /* harmony export (binding) */ __webpack_require__.d(__webpack_exports__, "b", function() { return MipReducerAttachment; });
-
-
 // performed once every n frames
 // (1) on particle qi/pi update shader
 // - attach a render buffer and render when indicated by uniforms
@@ -2096,8 +2095,6 @@ class Quad {
 
 "use strict";
 /* harmony export (binding) */ __webpack_require__.d(__webpack_exports__, "a", function() { return LinePlot; });
-
-
 class LinePlot {
   constructor(context, size, options = {}) {
     this._size = size;
@@ -2417,3 +2414,4 @@ class LinePlot {
 
 /***/ })
 /******/ ]);
+//# sourceMappingURL=2017-06-29-animating-the-gradient.js.map

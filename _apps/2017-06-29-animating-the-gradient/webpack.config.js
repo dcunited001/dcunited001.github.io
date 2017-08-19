@@ -12,8 +12,9 @@ var conf = _.extend(
 
 module.exports = {
   entry: './es6/main.js',
+  devtool: 'sourcemap',
   output: {
-    path: __dirname + '/' + conf.buildPath,
+    path: __dirname + '/' + conf._buildPath,
     filename: '2017-06-29-animating-the-gradient.js'
   },
   module: {

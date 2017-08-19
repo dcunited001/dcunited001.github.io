@@ -83,6 +83,10 @@ function runWebGL() {
     simulationTime += (paused ? 0 : lastFrameTime);
   }
 
+  function updateDeltaT(dt, newDeltaT) {
+    return vec4.fromValues(newDeltaT, dt[0], dt[1], dt[2]);
+  }
+
 // =======================================
 // Generate Texture Data
 // =======================================
@@ -1164,6 +1168,7 @@ function runWebGL() {
         g: document.getElementById('audio-color-shift-g'),
         b: document.getElementById('audio-color-shift-b')
       },
+
       spaceType: document.getElementsByName('space-type'),
       renderTexture: document.getElementsByName('render-texture'),
       physicsMethod: document.getElementsByName('physics-method'),
