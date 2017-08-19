@@ -12,6 +12,7 @@
     "babel-core": "^6.25.0",
     "babel-loader": "^7.1.1",
     "chai": "^4.1.1",
+    "dat.gui": "^0.6.1",
     "gl-matrix": "^2.4.0",
     "jsdom": "^11.1.0",
     "karma": "^1.7.0",
