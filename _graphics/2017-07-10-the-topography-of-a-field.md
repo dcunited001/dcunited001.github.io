@@ -6,7 +6,7 @@ headline: "2D Particle Simulation"
 excerpt: ""
 author:
   name: "David Conner"
-graphics_ui_layout: "graphics/2017-07-09-the-topography-of-a-field.html"
+graphics_ui_layout: "graphics/2017-07-10-the-topography-of-a-field.html"
 ---
 
 # Emitter with particles that follow a static field defined by particles
@@ -49,7 +49,7 @@ void main() {
 
 </script>
 
-<script type="text/javascript" src="/js/3d/2017-07-09-the-topography-of-a-field.es6.js"></script>
+<script type="text/javascript" src="/js/3d/2017-07-10-the-topography-of-a-field.js"></script>
 
 <script type="text/javascript">
   function pasteShaderToCodeBlock(shaderId, codeBlockId) {
@@ -59,7 +59,7 @@ void main() {
     hljs.highlightBlock(codeBlock);
   }
 
-  pasteShaderToCodeBlock('fsUpdateParticles', 'codeFsParticles');
-  pasteShaderToCodeBlock('vsFields', 'codeVsFields');
-  pasteShaderToCodeBlock('fsFields', 'codeFsFields');
+//  pasteShaderToCodeBlock('fsUpdateParticles', 'codeFsParticles');
+//  pasteShaderToCodeBlock('vsFields', 'codeVsFields');
+//  pasteShaderToCodeBlock('fsFields', 'codeFsFields');
 </script>

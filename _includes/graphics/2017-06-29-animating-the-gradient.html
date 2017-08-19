@@ -1,6 +1,4 @@
-<div class="container">
-  <h4>Requires ES6 & WebGL 2.0 &#x2605; Runs Best In Firefox (and Chrome) &#x2605; Does Not Run On Mobile</h4>
-</div>
+{% include title-group.html %}
 
 <div id="canvas-ui-bar-top" class="navbar navbar-inverse navbar-graphics navbar-graphics-top">
   <div class="container">
@@ -48,7 +46,7 @@
 </div>
 
 <div id="main-canvas-container" class="canvas-container">
-  <canvas id="main-canvas" class="wide-canvas" height="500"></canvas>
+  <canvas id="main-canvas" class="wide-canvas" style="height:500px;"></canvas>
 </div>
 
 <div id="canvas-ui-bar-bottom" class="navbar navbar-inverse navbar-graphics navbar-graphics-bottom">
@@ -97,6 +95,10 @@
       <li><span id="stats-fps-label" class="btn btn-danger btn-group-label navbar-btn">0.00 FPS</span></li>
     </ul>
   </div>
+</div>
+
+<div class="container">
+  <h4>Requires ES6 & WebGL 2.0 &#x2605; Runs Best In Firefox (and Chrome) &#x2605; Does Not Run On Mobile</h4>
 </div>
 
 <div class="container">

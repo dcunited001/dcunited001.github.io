@@ -7,6 +7,7 @@
     {% if page.featured_video_id %}
     <iframe src="https://www.youtube.com/embed/{{ page.featured_video_id }}" frameborder="0" allowfullscreen></iframe>
     {% endif %}
+  </span>
 </div>
 {% endif %}
 
@@ -24,6 +25,7 @@
       {% endif %}
     </span>
   </h1>
+
   {% if page.id %}
   <aside>
     {{ page.date | date: "%m.%d.%y" }}
@@ -36,9 +38,11 @@
   </aside>
   {% endif %}
 
-  <p>
-    λ&nbsp;<i class="fa fa-heart"></i>&nbsp;(&nbsp;
-    <a href="#" id="btn-subglyph" onclick="toggleSubglyph()" data-toggle="tooltip" title="Click Me To Escape Index-Based Censorship">§µßƍŁ¥þĦ ԠƎ</a>
-    &nbsp;)
-  </p>
+  <aside>
+    <span class="title-subglyph">
+      &nbsp;(&nbsp;λ&nbsp;<i class="fa fa-heart"></i>
+      <a href="#" id="btn-subglyph" onclick="toggleSubglyph()" data-toggle="tooltip" title="Click Me To Escape Index-Based Censorship">§µßƍŁ¥þĦ</a>
+      )&nbsp;
+    </span>
+  </aside>
 </div>

@@ -1,0 +1,26 @@
+<div class="title-group">
+    {% if page.headline %}
+    <aside>{{ page.headline }}</aside>
+    {% endif %}
+
+    <h1 class="special">
+    <span>
+      {% if page.title %}
+      {{ page.title }}
+      {% else %}
+      <i class="fa fa-star"></i> {{ site.data.global.title }} <i class="fa fa-rocket"></i>
+      {% endif %}
+    </span>
+    </h1>
+    {% if page.id %}
+    <aside>
+        {{ page.date | date: "%m.%d.%y" }}
+        {% if page.categories != empty %}
+        &middot;
+        {% for category in page.categories %}
+        <span>{{ category | capitalize }}</span>
+        {% endfor %}
+        {% endif %}
+    </aside>
+    {% endif %}
+</div>

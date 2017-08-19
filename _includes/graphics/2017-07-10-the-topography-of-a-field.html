@@ -1,0 +1,56 @@
+<div id="main-canvas-container" class="canvas-container">
+  <canvas id="main-canvas" class="wide-canvas" style="height:500px;"></canvas>
+</div>
+
+<div id="canvas-ui-bar-bottom" class="navbar navbar-inverse navbar-graphics navbar-graphics-bottom">
+  <div class="container">
+    <div class="btn-group navbar-left">
+      <button id="btn-play-pause" class="btn btn-primary navbar-btn"><i class="fa fa-lg fa-pause"></i></button>
+      <button id="btn-activate-mic" class="btn btn-primary navbar-btn"><i class="fa fa-lg fa-microphone"></i></button>
+    </div>
+
+    <ul class="nav navbar-nav navbar-right">
+      <li><span class="navbar-label"><i class="fa fa-lg fa-paper-plane-o"></i></span></li>
+    </ul>
+    <div class="btn-group navbar-right" data-toggle="buttons">
+      <label class="btn btn-lit-info btn-lit navbar-btn"><input type="radio" name="physics-method" value="0"/>Brownian</label>
+      <label class="btn btn-lit-info btn-lit navbar-btn"><input type="radio" name="physics-method" value="1"/>Splat</label>
+      <label class="btn btn-lit-info btn-lit navbar-btn active"><input type="radio" name="physics-method" value="2" checked/>Field</label>
+    </div>
+  </div>
+</div>
+
+<div class="container">
+  <div id="animation-alerts"></div>
+</div>
+
+{% include graphics/title-group-below.html %}
+
+<div class="container">
+  <div class="row">
+    <div class="col-sm-6">
+      <label for="particle-count">Particle Count</label>
+      <input id="particle-count" type="range" min="16" max="5120" step="16" value="512"/>
+
+      <label for="simulation-rate">Simulation Rate</label>
+      <input id="simulation-rate" type="range" min="0.01" max="100.0" step="0.0005" value="1.0"/>
+
+      <label for="r-coefficient">R-Force Coefficient:</label>
+      <input id="r-coefficient" type="range" min="0.001" max="10.0" step="0.0001" value="0.1"/>
+
+      <label for="field-size">Field Effect Size:</label>
+      <input id="field-size" type="range" min="1.0" max="300.0" step="1.0" value="75.0"/>
+
+      <label for="max-field-lines">(rename)</label>
+      <input id="max-field-lines" type="range" min="0.0" max="10.0" step="1.0" value="1.0"/>
+    </div>
+  </div>
+
+  <div class="col-sm-6">
+    <div class="panel panel-default">
+      <div class="panel-body">
+
+      </div>
+    </div>
+  </div>
+</div>

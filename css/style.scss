@@ -64,12 +64,20 @@ article iframe {
     margin: 0px auto;
 }
 
+.navbar-graphics-bottom {
+    margin: 0px auto;
+}
+
 .navbar-label {
     position: relative;
     display: block;
     padding: 15px 15px;
     line-height: 20px;
     color: $navbar-inverse-brand-color;
+}
+
+#animation-alerts .label {
+    margin-right: 5px;
 }
 
 /* Bootstrap
@@ -158,7 +166,7 @@ nav.navbar {
 .title-group {
     text-align: center;
     padding: 0 15px;
-    margin: 50px 0 50px;
+    margin: 10px 0 10px;
 
     p {
         max-width: 800px;
@@ -341,7 +349,12 @@ aside {
         // margin: 0 5px;
     }
 
+    span.title-subglyph {
+        @extend %noto;
+    }
 }
+
+//.title-group aside
 
 .site-footer {
     /* margin-top: 200px; */

@@ -1,9 +1,13 @@
 import { ShaderGraph } from '../../vendor/bower/shadergraph/build/shadergraph.js';
 import { rStats } from 'rstatsjs/src/rStats';
-import { twgl } from 'twgl.js';
+import { GUI } from 'dat.gui/build/dat.gui';
 
 import { MipReducerAttachment, MipReducer } from '../../lib/MipReducer.js';
-import { Ani, AniEl, AniTimer } from '../../lib/animation.js';
+
+import { PingPongFBO } from "../../lib/ping_pong_fbo"
+import { Animation, Input as AniInput, Timer, Platform as AniPlatform } from '../../lib/animation.js';
+
+const twgl = require('twgl.js');
 
 // TODO: abstract mic/fft as service/factory
 // TODO: set up shaders to use twgl.createProgram & createProgramInfo
@@ -20,6 +24,33 @@ import { Ani, AniEl, AniTimer } from '../../lib/animation.js';
 
 var UINT32_MAX = (2 ** 32) - 1;
 var INT32_MAX = (2 ** 31) - 1;
+
+function platformWarnings(gl) {
+  var container = document.getElementById('animation-alerts');
+
+  if (!AniPlatform.checkEs6()) { AniPlatform.appendLabel(container, "Requires ES6"); }
+  if (AniPlatform.checkMobile()) { AniPlatform.appendLabel(container, "Requires Desktop Browser"); }
+  if (!!gl) { AniPlatform.appendLabel(container, "Requires WebGL2"); }
+}
+
+platformWarnings(gl);
+console.log
+
+var gui = new GUI();
+
+var canvas = document.getElementById('main-canvas');
+var gl = canvas.getContext('webgl2', {antialias: true});
+
+function setupDatGUI(gui, data, container) {
+  container.appendChild(gui.domElement);
+
+  gui.add(data.particleCount, 'Particle Count', 32, 2048);
+
+  var rFieldGui = gui.addFolder('R-Field');
+  rFieldGui.add(data.rField.coefficient, 'coefficient').min(0.001).max(10).step(0.0001);
+  rFieldGui.add(data.rField.size, 'size').min(1).max(300).step(1);
+
+}
 
 function runWebGL() {
   var canvas = document.getElementById('main-canvas');
