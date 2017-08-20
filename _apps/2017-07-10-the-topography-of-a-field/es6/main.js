@@ -1,4 +1,3 @@
-import { ShaderGraph } from '../../vendor/bower/shadergraph/build/shadergraph.js';
 import { rStats } from 'rstatsjs/src/rStats';
 import { GUI } from 'dat.gui/build/dat.gui';
 
