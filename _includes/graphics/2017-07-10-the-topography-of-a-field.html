@@ -1,3 +1,5 @@
+<div id="dat-gui-container" style="position:absolute; right:20px;"></div>
+
 <div id="main-canvas-container" class="canvas-container">
   <canvas id="main-canvas" class="wide-canvas" style="height:500px;"></canvas>
 </div>
@@ -25,32 +27,3 @@
 </div>
 
 {% include graphics/title-group-below.html %}
-
-<div class="container">
-  <div class="row">
-    <div class="col-sm-6">
-      <label for="particle-count">Particle Count</label>
-      <input id="particle-count" type="range" min="16" max="5120" step="16" value="512"/>
-
-      <label for="simulation-rate">Simulation Rate</label>
-      <input id="simulation-rate" type="range" min="0.01" max="100.0" step="0.0005" value="1.0"/>
-
-      <label for="r-coefficient">R-Force Coefficient:</label>
-      <input id="r-coefficient" type="range" min="0.001" max="10.0" step="0.0001" value="0.1"/>
-
-      <label for="field-size">Field Effect Size:</label>
-      <input id="field-size" type="range" min="1.0" max="300.0" step="1.0" value="75.0"/>
-
-      <label for="max-field-lines">(rename)</label>
-      <input id="max-field-lines" type="range" min="0.0" max="10.0" step="1.0" value="1.0"/>
-    </div>
-  </div>
-
-  <div class="col-sm-6">
-    <div class="panel panel-default">
-      <div class="panel-body">
-
-      </div>
-    </div>
-  </div>
-</div>
