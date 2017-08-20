@@ -95,7 +95,7 @@ graphics_ui_layout: "graphics/2017-06-29-animating-the-gradient.html"
 
 - check over this, how much does the evolute have to do with dancing
   and permuting different configurations of a jointed body? the
-  involute makes a ton more sense
+  involute makes a ton more sense (remove...)
 - evolutes describe curves that emerge from a curve by selecting
   points... (define properly: it only works for this context when
   imagining the curves in a short line with low curvature. i.e. a

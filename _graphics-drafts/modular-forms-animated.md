@@ -1,0 +1,6 @@
+- plot modular forms from jacobian class
+  - the first example Theta(t) = sum(v in L, e^(pi*i*x*t*dot(v,v)))
+    - this can map to (square + circle) or (cylinder) or (cone) or (sphere)
+  - how to parallelize?
+    - (1) pre-solve (v in L) and dot(v,v)
+    - (2) evaluate fragcoords of a texture against complex values of tau
