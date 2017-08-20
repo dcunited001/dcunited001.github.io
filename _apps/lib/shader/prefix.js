@@ -1,4 +1,4 @@
-class ShaderPrefix {
+class Prefix {
   constructor(version, options = {}) {
     this._version = version;
     this._extensions = options.extensions || {};
@@ -47,4 +47,4 @@ class ShaderPrefix {
   }
 }
 
-export { ShaderPrefix };
+export { Prefix };
