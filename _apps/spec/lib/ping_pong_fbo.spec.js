@@ -28,7 +28,6 @@ describe('PingPongFBO', () => {
       wrap: gl.CLAMP_TO_EDGE
     };
 
-
     // sets the texture to black
     smallTextureFunc = (gl, opts) => {
       return new Float32Array(opts.width * opts.height * 4);
@@ -72,7 +71,7 @@ describe('PingPongFBO', () => {
       }]
     });
   });
-  
+
   it("creates 'max' number of textures per fbo attachment and cycles through framebuffers", () => {
     expect(fboPonger.getCurrentId()).to.equal(0);
     expect(fboPonger.getPrevId()).to.equal(fboPonger.max - 1);
@@ -105,12 +104,14 @@ describe('PingPongFBO', () => {
 
   it("can fetch data from an fbo attachment using readPixels()", () => {
     var fooPixels = new Float32Array(32 * 32 * 4).fill(16);
-    fboPonger.readAttachmentPixels('smallTextureMonad', gl, 0, 0, fboPonger.width, fboPonger.height, fooPixels);
+    fboPonger.readAttachmentPixels(gl, 'smallTextureMonad', 0, 0, fboPonger.width, fboPonger.height, fooPixels);
     expect(fooPixels.subarray(0,4)).to.eql(new Float32Array([1,0,0,1]));
   });
 
   // it("can generate, update, regenerate a texture via a monoid or a set of sourcetypes", () => {
-  //
+  // // updateTexture()
+  // // increment()
+  // // readAttachmentPixels() from getCurrentFBO()
   // });
 
 });

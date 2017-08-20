@@ -2,6 +2,8 @@ import { MipReducerAttachment, MipReducer } from '../../lib/MipReducer.js';
 import { Quad } from '../../lib/Quad.js';
 import { LinePlot } from '../../lib/LinePlot.js';
 
+import { Platform as AniPlatform } from '../../lib/util';
+
 function createShader(gl, source, type) {
   var shader = gl.createShader(type);
   gl.shaderSource(shader, source);
@@ -1382,7 +1384,6 @@ function runWebGL() {
       pixels);
     gl.bindTexture(gl.TEXTURE_2D, null);
 
-    createDebugTexture = false;
   }
 
 // =======================================
@@ -1568,25 +1569,7 @@ function runWebGL() {
   render();
 }
 
-var createDebugTexture = false;
-
-function fixCanvasUIBar() {
-  // this might be a bug in the browser, but it's happening in both Firefox & Chrome
-
-  var uiBar = document.getElementById('canvas-ui-bar-bottom');
-  var canvasHeight = window.getComputedStyle(document.getElementById('main-canvas')).height;
-  var containerHeight = window.getComputedStyle(document.getElementById('main-canvas-container')).height;
-
-  canvasHeight = parseFloat(canvasHeight.substr(0, canvasHeight.length - 2));
-  containerHeight = parseFloat(containerHeight.substr(0, containerHeight.length - 2));
-
-  var shadowPaddingHeight = canvasHeight - containerHeight;
-  if (shadowPaddingHeight < 0) {
-    uiBar.style.marginTop = `${shadowPaddingHeight}px`
-  }
-}
-
 window.onload = function() {
-  fixCanvasUIBar();
+  AniPlatform.fixCanvasUIBar(...['main-canvas-container', 'main-canvas', 'canvas-ui-bar-bottom'].map(id => document.getElementById(id)));
   runWebGL();
 };

@@ -1,4 +1,4 @@
-import { Animation, El as Input, Timer } from '../../lib/animation.js';
+import { Animation, Input, Timer } from '../../lib/animation';
 
 // describe("Animation", () => {
 //
@@ -21,7 +21,7 @@ describe("Timer", () => {
     expect(timer.deltaT).to.eql(new Float32Array([100, 25, 25, 50]), "∂t is correct");
   });
 
-  it('Timer can keep track of time and fps and even pause itself', () => {
+  it('can keep track of time and fps and even pause itself', () => {
     var timer = new Timer();
     expect(timer.paused).to.be.true;
 
