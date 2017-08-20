@@ -5,7 +5,7 @@ const path = require('path');
 
 module.exports = function (config) {
   config.set({
-    browsers: ['ChromeHeadless'],
+    browsers: ['Chrome'],
     frameworks: ['mocha', 'chai'],
 
     browserDisconnectTimeout: 20000,
@@ -18,7 +18,7 @@ module.exports = function (config) {
       './spec/lib/*.spec.js': ['webpack', 'sourcemap']
     },
 
-    reporters: ['html', 'mocha'],
+    reporters: ['mocha'],
 
     htmlReporter: {
       outputFile: './test/test-results.html',
