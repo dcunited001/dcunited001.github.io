@@ -19,9 +19,11 @@ module.exports = {
   },
   module: {
     loaders: [
-      {test: path.join(__dirname, 'es6'), loader: 'babel-loader'}
+      { test: path.join(__dirname, 'es6'), loader: 'babel-loader' },
+      { test: /\.glsl$/, loader: 'webpack-glsl' }
     ],
   },
+
   plugins: [
     new WebpackBuildNotifier({
       title: conf['_app'].name,

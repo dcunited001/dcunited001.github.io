@@ -34,8 +34,8 @@ module.exports = function (config) {
         loaders: [
           { test: /\.js$/,
             exclude: [/node_modules/, /vendor\/bower/],
-            loader: 'babel-loader'}
-          // {test: /\.json$/, loader: 'json-loader'}
+            loader: 'babel-loader'},
+          { test: /\.glsl$/, loader: 'webpack-glsl' }
         ]
       },
       node: {

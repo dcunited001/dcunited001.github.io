@@ -26,7 +26,8 @@
     "mocha": "^3.5.0",
     "underscore": "^1.8.3",
     "webpack": "^3.4.1",
-    "webpack-build-notifier": "^0.1.16"
+    "webpack-build-notifier": "^0.1.16",
+    "webpack-glsl-loader": "^1.0.1"
   },
   "scripts": {
     "test": "NODE_ENV=test karma start --single-run",
