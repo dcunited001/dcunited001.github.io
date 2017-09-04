@@ -888,3 +888,11 @@ homogenize all culture.
     - if so, it's interesting how these techniques are kind of like
       *the opposite* of gradually shedding conceptual designation in
       that they condition you to create artificial constructs
+    - and if someone did this intentionlly and surreptitiously, this
+      seems a bit ... mean. and like not just mean. it seems like
+      something you might see in a silence of the lambs movie. like
+      something the serial killer character could and would do to
+      people.
+      - and it requires so much forethought, plenty of regular contact
+        with the subject/target, and *constant* focus on the malicious
+        intent of bringing harm to that person.
