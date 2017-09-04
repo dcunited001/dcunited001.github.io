@@ -589,7 +589,7 @@ these specific aspects are desirable:
     force a legal reevaluation of the presumed distinction b/w data
     and metadata?
   - using this definition:
-    - there are metadata that are identical to pieces of epidata 
+    - there are metadata that are identical to pieces of epidata
       - (i think ... examples?)
     - there is metadata about epidata
     - there is epidata about metadata

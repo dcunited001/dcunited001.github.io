@@ -62,7 +62,6 @@
     theorums to understand how the dependency graph changes when
     certain theorums are assumed to be true
 
-
 ### Prime Numbers
 
 - there are increasingly complicated series of functions for
@@ -274,10 +273,175 @@ as integers and rational numbers.
 - an AI based on distributed software-defined-networking (this will
   probably take over the world)
 
+### Watson for great $$$$ ....
+
 - train watson to trade commodities and forex based on real-time
   streams of geolocated facts about industries/areas affected by events
   - cross with are of publication exposure
   - obviously someone already has this running
+
+### Google Deep Dream Ideas
+
+#### Recursive Processing of Parameterized Fractal Video Frames
+
+- So consider a system where Deep Dream operates on slow-morphing,
+  parameterized fractal video frames where the frames are processed
+  recursively
+  - particularly, using fractals as source imagery and trained on
+    general objects (dogs, cats, etc.)
+- when Deep Dream identifies a strong similarity mapping between a
+  trained object and a region of space on the video frames, it
+  maintains a map of "persistence" values that directly correlate with
+  the strength of the signal Deep Dream read.
+  - so, strong signal for the trained cat class on a spatial X/Y
+    region of video frames, the higher the persistence value and the
+    more that region's pixels continue to feed forward into subsequent
+    frames.
+    - i.e. if a pixel value is determined by summing across values
+      from more recent frames in a way that mixes the Deep Dream
+      representation of the image with the video output, then p(n) is
+      a function with weights a(n) should look something like this
+      - p(n) mixes raw/intermediate video with deep dream's
+        interpreted representation with something like...
+        - `p(n) := a(n-1)*p(n-1) + ... + a(n-k)*p(n-k)`
+        - the formula is a bit more complicated because it requires
+          mixing the image data from deep dream and the raw video
+          frames or some intermediate frames
+   - then the application would adjust the weights for regions of
+     space that more confidently identified a representation of the
+     data with the ability to modulate the feedback loop from Deep
+     Dream's representation back into the video moving forward when
+     there are stronger persistence values.
+
+- now apply to smooth fractal transformation video & persist the
+  accurate DD representations
+  - what happens?
+  - Deep Dream's inferences about a trained class's representation in
+    some specific area feeds back into itself when it's very confident
+    and those areas are scaled up to match Deep Dream's inferences for
+    several frames worth of persistences
+    - this results in an increase in volume for several feedback
+      loops.
+  - so a representation of the trained class becomes visible to the
+    user, but then because it should even more strongly match the
+    training class, sufficiently strong representations that emerge
+    should tend to persist until they are disrupted by large changes
+    in the video stream
+  - what does this give you? a mathematic way of tracking spatial
+    inferences over time and associating classes of data to a
+    particular region of space.
+  - *that is, pixar or dreamworks could layer in deep dream effects to
+    regions of 3D space that can move, but remain distinct from other
+    areas of the 2D or 3D space*
+    - so, the deep dream can effect regions of video *logically* in a
+      way that shouldn't require much configuration
+- this technique is very similar to what is used in this video on
+  [Deep Dream Processing for Video](https://www.youtube.com/watch?v=DgPaCWJL7XI),
+  - the idea I describe above differs in the prioritization and
+    persistence of strong matches over time.
+    - ideally, the design should try to "clear" registered inferences
+      on regions of video X/Y space over time unless there is a strong
+      match.
+    - it should also be able to track inferences over time even though
+      their shape may mutate from frame to frame
+    - and optimally, the system should allow tracking multiple
+      inferences in overlapping spatiotemporal slices of video
+      (X/Y/T), but that seems more difficult
+
+### Composite Manifold for reduction of (n+k)-d spaces to n-d spaces
+
+- the way i'm imagining this, it's either a pretty amazing loophole
+  for a lossless means of encoding elements of a space into fewer
+  dimensions *without any loss of information*
+  - this doesn't really seem possible, intuitively, because it would
+    be magical and would likely break things.
+  - however, it might just an interesting idea that allows you to use
+    the Apollonian gasket to structure algebraic manifolds that can be
+    used in conjunction with dimensionality reduction techniques like
+    PCA and others.
+    - dimensionality reduction almost always results in:
+      - destruction of information or a loss in the
+        precision/linearity of the space
+      - increased difficulty in making linear assumptions about data
+        in the flattened dimensions,
+      - changes in the algebraic structure of tensors of previous or
+        subsequent operations
+      - the need to treat the flattened dimensions with constraints on
+        values or the space
+  - this is why, if you can hack some self-similar structure into
+    giving you lossless dimensionality reduction, it would be useful
+    and interesting.
+    - this is similar to what the hopf fibration accomplishes in
+      mapping surfaces of high dimensional spheres onto the fibration
+      of non-internsecting k-spheres on a n+k-sphere (i think those
+      details are correct)
+    - yet, the hopf fibration is limited and only works in FOUR
+      pairings of n-spheres. according to Adam's Theorum, the four
+      mappings correspond to the "real division algebras" for each of
+      real, complex, quaternian and octonian numbers... this thing
+      seems pretty important for numbers and math generally.
+      - i.e. there are only four of them.
+    - i have a lot to learn, but it seems like something would prevent
+      what i'm thinking about from working out entirely, even though
+      it's mostly completely unrelated to the actual specifics of Hopf
+      Fibrations.
+
+- i misunderstood some aspects of the Hopf Fibration, but this lead me
+  to try to imagine a packing of spheres
+  - either an Apollonian packing or a packing that is inferred from
+    some ideal features or proportions of the containing space.
+    - so [this paper](http://www4.ncsu.edu/~dpapp/pub/nilgeo_proc.pdf)
+      refers to "Nil geodesics" which seem visually similar to what i
+      imagined the arrangment of the initial spheres to be.
+      - what i was thinking about would use something like "nil
+        geodesics" but would map the interior of the space of some
+        object so that an infinite Apollonian Gasket would result in a
+        hyperbolic space that was "ideal" in some way but would also
+        offer structure,
+    - e.g. such structure would lead to a topological arrangement of
+      the set of spheres in the Apollonian gasket that would preserve
+      meaningful relationships, such as the level of the sphere
+      - also, since here we are working with real numbers, a singular
+        value suffices as the metric need to transform a specific
+        sphere in the gasket to the 'unit sphere'
+      - if your sphere packing is the typically Apollonian gasket,
+        even it the hyperbolic space is slightly deformed in some way,
+        each sphere is 'retrivable' by indexes associate with spheres
+        at each level
+  - how would you use such structure? if you can assume a standard,
+    centered Apollonian gasket inside a sphere, then you can say all
+    spheres of level 2 are 'coverings' or charts to a manifold in the
+    same n dimensions or possibly even a higher dimension.
+    - similarly you can say that all spheres of level 3 or some
+      fractal branch k in the appolonian gasket map to different
+      aspects of a lossy dimensionality reduction (or lossless?
+      fingers crossed)
+  - these internalized spheres map to charts on an atlas for some
+    manifold, which essentially provides (non)smooth covering for that
+    space within a lower dimension.
+    - so, there is structure inherent in the set-topology of spheres
+      or inherent in the self-similar fractal nature of the Apollonian
+      gasket.
+      - it's this structure that specifies how these charts come
+        together to form an atlas for the manifold. I'm not sure
+        whether its uncountable
+
+- it's almost magic bc everything is fucking spheres and it doesn't
+  matter how small they get because it's fucking real numbers.
+  - (although, this 'composite manifold idea' is probably not even a
+    useful technique or may be incapable of behaving in the way i am
+    imagining)
+  - but what do discs and spheres give us? mobious transformations.
+    - so it doesn't matter what kinds of spaces each sphere maps to OR
+      whether that space is big or small.
+    - i'm not very familiar with mobious transformations, but they
+      enable manifolds that map the unit disc (& n-sphere) to any convex
+
+
+- https://www.incendia.net/wiki/index.php?title=Fractal_Types#Kleinian_sets
+- http://www.popularmechanics.com/technology/robots/news/g2095/deep-dreaming-fractal-nightmares/?slide=22&thumbnails=
+
+
 
 # Continued Fractions, Irrationality and Pi
 
@@ -373,7 +537,15 @@ phi = 1 + (1 + (1 + (1 + (...)^(1/n))^(1/n))^(1/n))
         specific properties?
         - e.g. if distance(i,j) == d, how does the structure/behavior
           change as i & j increase when the distance is constant?
-
+- (lie algebra IS related to the recursive definition of algebraic
+  numbers and, in so is probably also related to Surreal numbers and
+  numbers represented by continued fractions)
+  - actually... do infinite continued fractions necessarily have a
+    finite algebraic number representation (viz. a polynomic
+    representation of some finite degree)
+    - now that i think about it, the definition of phi, in terms of
+      recursive square roots IS the definition of an "infinite"
+      polynomial (i think)
 
 ### Pi as Continued Fractions
 

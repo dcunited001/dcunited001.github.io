@@ -8,6 +8,17 @@ author:
 excerpt: ""
 ---
 
+
+- Religions are basically different understandings of the same
+  thing. It's like a selected few mystics through the ages all read
+  the same Choose Your Own Adventure book and, along the way, made
+  several distinct theological decisions. In consequence, this leads
+  to distinct understandings on the same philosophical issues that are
+  in fact older than man's memory. In actuality, each belief system
+  differs most at the surface in it's imagery and identity. When you
+  examine their actual substance, what they share is far more
+  expansive than the details at the surface that distinguish them.
+
 - this content is mostly only relevant to overly academic people. what
   content do I have that helps someone in need to help give them a
   sense of purpose?

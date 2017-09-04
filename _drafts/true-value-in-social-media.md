@@ -121,3 +121,50 @@ an app. especially when they're building a social media app.
     - it may be possible to augment subconscious mind, but the
       conscious experience seems to be the bottleneck (going on my
       instinct)
+
+
+# Diminishing Returns on Marketing in the Age of Information
+
+In the age of virtualized products, if time, attention and energy are
+the true resources being monetized, how does this microeconomically
+impact businesses in general and specific types of businesses?
+
+- if a consumer's economic resource is attention
+
+### Content is King?
+
+Thought Experiment: how does a marketing firm market itself 2 optimize
+each of profitability, new revenue streams & continued revenue streams
+
+
+### Marketing Promotions in the 21st Century
+
+- how does Apple market its products
+  - 
+- how do other hard & soft technology companies market their products
+  and new releases?
+- how do corporations respond to anticipated product releases and
+  where do they reactively/proactively apply their marketing budget to
+  disrupt?
+
+- duolingo japanese disruption of competition
+  - my own speculative understanding of duolingo's strategy in
+    delaying new languages that demanded more features ... i.e.
+    - languages requiring grammar forms distinct from the french,
+      english, german, etc.
+    - languages requiring a new phonemic writing system
+    - languages requiring a logographic writing system.
+    - langauges requiring a compositional writing system, with both
+      phonemic and logographic means of specifying the same morphemes
+
+  - as you can see, japanese requires all four of these.
+    - russian was also offered a long time ago, as well as other
+      languages with different phonemic writing systems, so that
+      particular feature was not the problem.
+    - chinese was offered a long time ago, so supporting logographic
+      writing systems was not the problem either. (chinese is still in
+      beta)
+    - Korean
+
+
+

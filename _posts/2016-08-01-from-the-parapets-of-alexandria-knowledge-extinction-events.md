@@ -45,25 +45,25 @@ markets for our products. The third essay will combine ideas from the
 first two to discuss how social media censorship isolates individuals,
 divides people and creates more problems than it could solve.
 
-# [What Kind of 21st Century Do You Want?](#what-kind-of-21st-century)
+## [What Kind of 21st Century Do You Want?](#what-kind-of-21st-century)
 
-### &#x2605; [What Is Best For Humanity?](#what-is-best-for-humanity)
+#### &#x2605; [What Is Best For Humanity?](#what-is-best-for-humanity)
 
-### &#x2605; [Censorship Threatens to Stymie Human Development](#censorship-threatens-to-stymie-human-development)
+#### &#x2605; [Censorship Threatens to Stymie Human Development](#censorship-threatens-to-stymie-human-development)
 
-### &#x2605; [Technology is a Straw Man for Censorship](#technology-is-a-straw-man-for-censorship)
+#### &#x2605; [Technology is a Straw Man for Censorship](#technology-is-a-straw-man-for-censorship)
 
-# [The Internet is Our Library of Alexandria](#the-internet-is-our-library-of-alexandria)
+## [The Internet is Our Library of Alexandria](#the-internet-is-our-library-of-alexandria)
 
-### &#x2605; [Central Point of Failure for the Modern Internet](#central-point-of-failure-for-the-modern-internet)
+#### &#x2605; [Central Point of Failure for the Modern Internet](#central-point-of-failure-for-the-modern-internet)
 
-### &#x2605; [Knowledge-Extinction Events](#knowledge-extinction-events)
+#### &#x2605; [Knowledge-Extinction Events](#knowledge-extinction-events)
 
-### &#x2605; [How Did Man Reach the Moon?](#how-did-man-reach-the-moon)
-
-#### The Legend of [Wan Hu](https://en.wikipedia.org/wiki/Wan_Hu)
+#### &#x2605; [How Did Man Reach the Moon?](#how-did-man-reach-the-moon)
 
 ![Wan Hu](/img/posts/2016-08-01-from-the-parapets-of-alexandria-knowledge-extinction-events/wan-hu-moon-rockets.png)
+
+#### The Legend of [Wan Hu](https://en.wikipedia.org/wiki/Wan_Hu)
 
 <a name="what-kind-of-21st-century" />
 
