@@ -110,6 +110,127 @@ would even dictate the functional
 
 ### Misc Linguistic Ideas:
 
+- controlling/guiding linguistic evolution by observing the laplacian
+  (or gradient) of morphemic change with respect to specific social
+  groups or dialects
+  - how to reflect on whether this happened in the past? could you
+    anticipate linguistic evolution?
+    - there are two main branches of human language, suspected to
+      connect at proto-indoeuropean (need to check whether there's a
+      single root)
+    - early after the original split (or perhaps before) is it easier
+      to anticipate/influence the coevolution of branches...
+      - how widely dispersed were verbal languages early into the
+        usage of written language?
+      - written languages become more locked in and evolve less
+      - verbal languages are more fluid
+    - later on in history, when there are periods of higher linguistic
+      flux (i.e. pre & post norman conquest), then language is less
+      stable,
+      - those who exert control over written language (the elite, the
+        academic class and the priest class) can lock in changes they
+        want.
+        - this would take two or more generations
+        - it's really, really, really hard to predict and hard to
+          imagine that people in the late dark ages and early middle
+          ages would find this a priority
+      - for example, they can pick and add words from multiple
+        languages (latin, french, german) that are like morphemic
+        collisions
+        - this can influence the preferred word people gradually use
+          when two morphemes are very similar
+    - the purpose would be to nudge linguistic evolution so that
+      languages encode a specific set of semiotic pairings or
+      morphemic "collisions"
+      - especially with function words and the most basic morphemes
+      - examples? higher prevalance of puns amoung english function
+        words and *very common* morphemes
+        - where and wear
+        - whose and who's
+        - no, knows, and knows
+        - i, eye (body part)
+        - ear and hear (semiotically related - you hear with your ear)
+        - almost all of this is incidental
+      - this is less "useful" with morphemic collisions than with
+        semiotics or grammar
+        - looking at how the imperative is structured in languages is
+          interesting example for grammatic variation in language that
+          could have subtle effects on social behavior
+          - is there one way to form an imperative statement or more
+            than one?
+          - does it require an extra function word or a specific verb
+            inflection?
+          - how does the degree of flexible expression and the
+            certainty of interpretation affect how people use the
+            imperative?
+            - if someone uses the imperative to command or request
+              something from from someone of higher/lower social
+              status, do they change how they express their statement?
+              why and how?
+          - trying to understand this requires too many subjective
+            inferences.
+      - for a language, if the *most common* morphemes and function
+        words create a higher degree of interesting relationships
+        among words, this would be much less probable than a language
+        where the function words overlap with morphemes of more
+        widely varying degree of frequency in zipf's distribution
+        - however, quantifying this with any degree of confidence is
+          next to impossible.
+          - there is so much skew in any written text available to us
+            because there was so much control over what was preserved
+          - but as an example, one could argue that more frequent
+            morphemes in zipf's distribution should be smaller so that
+            it compresses the length of statements
+            - it is advantageous for langauge to be efficient, so
+              people might choose the smaller word, if given the
+              chance
+            - further, if culture changes teleologically bc of a new
+              technology, etc, then the frequency and usage patterns
+              of semiotically signified concepts would also change.
+              - examples: "the quick and the dead" and other idioms
+                refering to archaic technology and practices while
+                also using a word that is now a pun.
+      - but if you can inlay semiotic "design principles" into the
+        function words and most basic morphemes, then language can
+        exert a specific, intended influence on thought
+        - it's well known that language defines the way people think,
+          but understanding how it does so to any degree requires
+          immersion and almost-native fluency
+          - and even then, it's completely subjective.
+    - semiotic mappings are more tightly preserved across evolution,
+      as morphemes and even grammar changes
+      - even though humans all share the same semiotically signified
+        concepts for cultural universals and share many of the other
+        signified concepts, language uses morphemes/grammar to refer
+        to these in a way that can affect patterns of thought.
+        - language enforces structure onto thought. in japanese and
+          other languages, the distinction of plurality only occurs
+          when the speaker chooses to express it.
+        - many languages are drop-pro, which means that some
+          non-essential words or phrases can be left out, resulting in
+          sentences with multiple meanings
+          - this means that speakers typically have choice in how many
+            constraints they include in a statement
+          - this occurs in every language, but to a varying degree,
+            where some have almost none
+          - using drop-pro languages means that people heavily access
+            their representation of social context when determining
+            the meaning of statements
+      - (at the moment, it is really hard to think of examples of how
+        to map morphemes to semiotic signifiers, to specifically
+        influence how language structures thought)
+        - it is far more likely that people experimented and randomly
+          or unconsciously reinforced the linguistic changes that
+          became permanent
+  - to study this in modern contexts:
+    - is this even possible to model
+      with data from social media? the data really needs to be
+      discretized (so, textual) and fairly comprehensive
+      - but social networks, especially in developed societies are so
+        connected, that change happens everywhere all the time.
+      - also, textual idiosyncracies vary widely, so it's hard to
+        capture morphemic data.
+
 - what does the difference b/w zipf's distribution for english words &
   japanese loan words from english tell us?
   - japanese loan words are always written in katakana, so they are
