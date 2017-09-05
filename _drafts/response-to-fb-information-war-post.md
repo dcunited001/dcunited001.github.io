@@ -480,11 +480,84 @@ be completely lost.
     clearly convey a message that delivers on creating a predictable
     emotional response.
 
-- another example: wtf is the deep state? (move up?)
+- example: progression of meme culture in the 2010's
+  - how has the uniformity in meaning changed for individual memes?
+  - how has the predictability of a signified concept changed amoung
+    meme recipients.
+  - how has the proliferation of meme's changed?
+    - do new memes spread slow or fast? do old meme's die young in
+      2017?
+  - is it easier or harder to create a new meme that catches on and
+    takes the world by storm, making you an unlikely and unwilling
+    celebrity?
+    - it doesn't fucking happen does it? that was really fast. all of
+      five fucking years, but these are meme's ... who tf cares?
+  - meme's are not very important. they are cheap to make and
+    ephemeral, but most meme-like images shared on FB/Twitter today
+    are almost unique. it is less likely to see new memes pick up wild
+    momentum, though it does happen (i'd argue it is because we need
+    these nearly-universally recognizable symbols and so we
+    arbitrarily skyrocket the usage of almost random images because
+    they tightly map to some facet of life we all need to communcate.
+
+- another example: the recent explosion of conspiracies, most of which
+  are young, incomprehensible and fake. (not necessarily "fake news")
+  - in particular, i'm talking about the youtube conspiracy
+    documentaries that you see.
+    - people made an hour-long youtube documentary
+
+- a political example: wtf is the deep state? (move up?)
   - perfect example of imagery that is being remapped so that it
     doesn't cohere to any dominant interpretation
   - while it seems that conservatives have one definition and liberals have
-    another, the c
+    another, the c...
+
+- another example: fake news.
+  - fake news is what it is, but it layers into our culture pattern
+    languages (and sets off these viral outbreaks of...)
+  - it is not necessarily bad, but fake news is an effective tactic of
+    information warfare that layers down exactly what the fuck i am
+    talking about above that flies over the head of most people.
+    - it creates these languages of imagery where those symbols are
+      laid down and propagated through our culture.
+    - later on, content can reference those symbols to trigger
+      confusion or distraction.
+  - most people won't understand the way i state my ideas above, but
+    they do understand the confusion of fake news, which btw, i'm not
+    sure how to define. are we talking about cosmo pizza and
+    pedophiles?
+    - regardless of the quirkly, distracting stories, i do not have
+      confidence in our media today at all. they are pushing
+      narratives that might as well be fake news *and the results are
+      going to be disastrous*.
+      - the media has been a circus for at least three
+        years. americans are not encouraged to examine a realistic
+        portrayal of the world.
+      - in a democracy, you know what that means? it means a slow
+        downward spiral as we become increasingly out of touch and
+        FAIL to respond to challenges that should have been knocked
+        the fuck out of the park.
+      - so if cosmo pizza distracts from the bullshit spewing out of
+        the liberal media, that's fantastic IMO.
+        - most people wouldn't understand what i said above *but it's
+          already happening*
+        - america needs to get its shit together ...
+        - you are being sold as a sucker by a media that doesn't
+          understand the reality and encouraged to slowly dismantle
+          many significant advantages that america has in world where
+          we no longer exert monopolar hegemony.
+          - china is rising on a rocket as a superpower. look at their
+            exports and export financing. look at their strategic
+            advantages. is china tearing itself apart? nope.
+          - america is the nation with challenges and uncertainty. and
+            the media should fucking act like it, so that americans
+            rachet up their game and unite to act in unison
+            - e.g. it was never about race. the liberal media created
+              that to hack the election for hillary. and look at how
+              that false narrative is running rampant and tearing our
+              country apart.
+
+- ... figure out what to do with the rant above.
 
 - everything is a wave
   - information in social physics should be modelable as waves,
