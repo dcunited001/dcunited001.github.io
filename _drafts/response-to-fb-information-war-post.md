@@ -1,24 +1,239 @@
 ---
-title: "... something something information warfare"
+title: ""
 categories: "blog"
-tags: "oneirontology religion semiotics linguistics"
+tags: "semiotics linguistics social-physics"
 headline: ""
 author:
   name: "David Conner"
 excerpt: ""
 ---
 
+- title?
 
-- I made one-liner comment, but got called out for it, then reconsidered
-  and decided to actually contribute.
-  - i'd like to take these articles and rehash them into another to
-    focus more closely on the dangers of information warfare
+- concepts that are difficult to succinctly reference:
+  - agents: people and bots
+    - agents as in the concept of agency and ability to impact
+      information and communication
+    - how to simplify this? just refer to as agents? or
+      information-processing entities?
+  - instances of information:
+    - generally just any representation of information ... quick short
+      name for this?
+  - players in social games:
+    - should i just refer to these as agents?
+    - is a distinct term appropriate? they are idealized as particles
+      that exert influence on information systems
 
+- structure of series:
+  - (part one)
+    1. start with warning on how tech leads to a breakdown in how
+      people and autonomous understand cause & effect
+      - or should i leave this for later?
+    2. overview of basic concepts of social physics, along with
+       everyday examples
+  - (part two)
+
+
+
+- combination of social physics, information warfare, causality
+
+
+
+
+
+
+### The Ablation of Causality
+
+- (remove focus on privacy from the following)
+- (none of this means technology or social media or IoT is inherently
+  bad by the way, just that our world is evolving towards a
+  fundamentally different one and this evolution is inevitable)
+  - so we have to understand it because the following philosophical,
+    psychological, and sociocultural changes are fundamentally
+    different in a way that is very difficult to understand
+  - the most important: in a post-convergence world, causality itself
+    operates in a fundamentally different way, which can be
+    anticipated by observing the evolution of various graphs
+
+- social media, data science, internet of things, etc are part of a
+  continuing trend of technology and quantification of human behavior
+  that has been eroding privacy for decades.
+  - this causes a fundamental shift in the way people interact
+  - information can now spread through the social graph in
+    fundamentally different ways.
+    - the social graph has always existed, but until the 19th century
+      was almost entirely limited to communication via edges which
+      were physical in some way)
+    - instead of a world where every person has six degrees of
+      separation, we are gradually converging towards a social
+      paradigm where "degrees of separation" is mostly meaningless,
+      (in and of itself (?))
+      - it's because the graph that represents all the paths that
+        information can take to reach some other human node is
+        converging towards the complete graph
+        - albeit a complete graph where nearly all edges would be
+          removed upon sparsification, but the phenomenon of
+          near-completeness is there
+    - at the same time, we are producing and processing data at an
+      exponential rate.
+      - there are finitely many human behaviors that can be quantified
+
+- there is a paradigm shift in the phenomenon of causality, as it
+    applies to human behavior and psychosocial dynamics,
+    - causality, in this sense, stems from exchange of information,
+      completeness of information, awareness of information,
+      dissemination of information, etc.
+      - there are many other important factors that help define how
+        humans perceive causation in their behavioral interactions,
+        whether those are individuals or groups of people ....
+      - however, causality and the way humans utilize their
+        understanding of it to construct a (set?) of beliefs/knowledge
+        about the world is in a very big way parameterized by the
+        paradigm of information exchange/retention/diffusion/etc
+    - therefore, in an increasingly connected world, there is a major
+      shift in how narratives are constructed and propagated.
+  - this paradigm shift for causality affects any information
+    processing entity, including both people and computers
+    - this shift affects these groups in different ways
+    - people store & process & propagate information
+      differently than computers
+      - i.e. they tend to be arbitrary and "imperfect" in how they
+        handle information
+      - the conclusions that can be reached by understanding the shift
+        in causality very greatly depending on the specifics, so
+        assertions based on generalities may do more harm than good
+        (e.g. this explanation itself of the shift in causality is
+        overly general)
+
+- the concept of privacy is one of the most important ways this shift
+  in causality will affect human interactions and their understanding
+  of the world from what they infer to be cause & effect in events
+  - individuality will be blurred, people may adopt more
+    groupthink-motivated behaviors. these two things are fairly simple
+    to understand as our privacy is eroded
+  - if or when we reach a society with a near-total lack of privacy,
+    information propagates with a degree of completeness that implies
+    people are significantly impaired in their ability to reason about
+    the nature of cause and effect
+    - this is because every exchange in units of information
+      essentially initiates its own new chain of cause/effect and
+      because of the total-convergence of the systems used to exchange
+      information/data, ... (there is more data and more events
+      tendinging to inflate this phenomenon exponentially
+      ("tetrationally"... lulz))
+    - for example, making conclusions about the disemination of pieces
+      of information (how one piece of information spreads amoungst
+      people) may become simply impossible
+      - this is strongly dependent on the specific networks of
+        people/hardware/telecom and other factors (rewrite and
+        explain)
+        - basically some groups can push back against this trend
+          (i.e. military, government), but they still have to deal
+          with a world where the majority of people are connected to
+          networks where causality (becomes unknowable and
+          unpredictable)
+
+- so the convergence of individual belief systems accelerates and the
+  more strongly convergent metaphyiscal ideas begin manifesting in the
+  physical aspects of social interactions.
+  - (how do i transition from the above section to this? is this
+    besides that point?)
+  - so, if instead of mass communication channels being completely
+    decentralized, the information diseminated was harmonized, then
+    the more unitary, regular and pronounced these metaphysical
+    manisfestations will become.
+  - so, in terms of social physics, there are stronger physical
+    effects that emerge from the metaphysical than ever before. This
+    is true even in the discord of decentralized high bandwidth
+    digital communication. Because of the evolutionary dynamics of
+    ideas and memes, the strongest earn extremely high rates of
+    propagation.
+
+
+
+Information has a life of its own and nowhere does this become more
+clear than in social physics, which is a mathematical framework for
+modeling idealized social behavior with physical constraints. It's
+mind blowing, but the bad news is that almost every problem is
+incomputable. Never fear! The human brain is practically a quantum
+machine-learning monster and incredibly useful insights can be
+extrapolated from a philosophic exploration of social physics.
+
+# (Social Physics Overview)
+
+Social physics was originally developed in the 19th century (links) to
+explain how the behavior of players in simplified games were affected
+by the imposition of physical (rules/constraints). It originally
+borrowed heavily from classical mechanics and now overlaps with
+quantum mechanics, since non-deterministic games are loaded with
+probabilistic mechanics. Social physics can help us understand team
+sports,
+[Swarm Behavior](https://en.wikipedia.org/wiki/Swarm_behaviour), the
+geometric mechanics of battle tactics, cocktail parties and the finer
+mysteries of feng shui. Each of those activities (determined by the
+physics of the space) space and players in a social game with rules,
+though with feng shui, the game and players may be less clearly
+defined.
+
+If you begin modeling games where players have their own sets of
+information, social physics becomes irrevocably and hopelessly
+incomputable, almost immediately. There are several layers to this,
+where each adds complexity that extends the hardness of the problems.
+
+#### &#x2605; Do the players contain their own copies of information or is it shared?
+
+#### &#x2605; Do instances of information adhere to a defined schema shared among all players?
+
+#### &#x2605; Can the information schema be modified?
+
+#### &#x2605; Can the information be known in totality for the game?
+
+#### &#x2605; Can a player access their own information in totality or reflect on its schematic structure?
+
+#### &#x2605; Do players need to make inferences based on the information schemas of other players?
+
+It isn't clear (which of the above) will add the most complexity, but
+in social situations players almost always operate with incomplete
+understanding. They can do so effectively because they've been
+conditioned with proactive and reactive behaviors that
+(...). Information overload can negatively affect players. The
+(questions) pertaining to information schema and information
+reflection add an incomprehensibly infinite degree of complexity. For
+the mathemtaticians, yes, modifiable schemas with or without
+reflection are definitely uncountable.
+
+
+
+All of this means that players have to be good at handling
+information, but better at balancing uncertainy and risk with
+goal-seeking behavior. If the game being modeled is soccer or some
+other team sport, there are subtle sociophysical aspects that can
+vastly improve team performance, such as ensuring visibility and other
+mechanics of communication. If the team works together and can share
+its understanding of the state of the field, this can help immensely
+with coordinating tactics.
+
+There are other physical aspects of soccer which are also modeled by
+social physics, such as the typical FIFA 2017 stats: speed, energy,
+skill, etc. The best players in the world can play together, but
+unless they can read each other and anticipate the coordination of
+tactics with limited signaling, the games will be reduced to the more
+physical stats and positioning.
+
+Social physics is distinguished by providing a framework for systems
+where players react to informational components as well as their
+dynamics.
+
+- (explain the above)
+
+
+
+# (Implications of (your perspective on) Social Physics, Networks and Information Dynamics)
 
 - why attempting to quantify information structure/dynamics/diffusion,
   along with sociophysical models and game theory leads to drastically
-  different philosophical conclusions about the significance of
-  information.
+  (more in depth) philosophical conclusions about the
+  significance/nature of information.
   - if you don't understand what i'm writing about, then it's easy to
     assume that a worldview based on a subjective-but-passionate
     understanding of some ideology (i.e. humanism or marxism) is
@@ -43,26 +258,46 @@ excerpt: ""
     attain, then you have to understand how the other players in this
     game will react to you.
 
+###
+
 - information economics and sociophysical aspects of information
-  - why are these mathematical frameworks/solutions almost always
-    incomputable
-    - understanding that, how do you quantify what can be modeled or
+  - these mathematical frameworks/solutions almost always incomputable
+    - and knowing this, how do you identify what can be modeled or
       known? and how do you structure your processes and behaviors to
       collect data to efficiently model information dynamics and
       social phenomena
+  - elaborate on information economics (as distinct from economics of
+    content...)
 
-- the dynamics of content production/consumption in a converging or
+### The Economics of Content Production/Consumption Lead to Market Saturation
+
+- the economics of content production/consumption in a converging or
   converged world
   - this is where the [somewhat poorly organized] articles paradox of
     creativity and death of creativity are relevant
 
+- [Paradox of Creativity](http://te.xel.io/posts/2016-05-16-the-paradox-of-creativity.html)
 
+here's an essay on the death of novelty and originality as the limits
+on information diffusion are annihilated by the singularity. the
+information overload, particularly its skewed nature, results in
+generations of people who are completely severed from the past. if we
+understand this moving forward, we can use social engineering to
+preserve the pieces of our identity and culture which will otherwise
+be completely lost.
+
+### (Delineate b/w people, autonomous information-processing agents and instances of information)
+
+- basically, in what forms can information be stored (quickly) and
+  who/what can process it?
 - autonomous agents and containers of information
   - how information moves, replicates and mutates
   - in the past, information could be totally restricted by physically
     restricting the vessel(s) of that information.
     - how this changes with a completely connected world where
       information can be freely reproduced at zero cost
+
+### (Describe how (instances of information) are composed of references to imagery, signified by semiotics)
 
 - the semiotics of information, content, media, art, culture,
   language, society, etc.
@@ -72,6 +307,8 @@ excerpt: ""
     recognition, content awareness, etc is fundamentally more
     difficult to create/maintain.
     - it is more expensive, possibly prohibitively expensive to market
+
+### 
 
 - agents and vessels of information structure
   representations/references to information
@@ -100,7 +337,7 @@ excerpt: ""
     cultural noise that prevents semiotic interpretations from being
     created/managed)
 
-- this content overload makes it increasingly complicated to
+- (the content overload mentioned above) makes it increasingly complicated to
   understand/predict how information will be interpreted.
   - further, the economics and inability to market information render
     it difficult for authorities or institutions to respond *to a
@@ -108,6 +345,8 @@ excerpt: ""
   - it's just important to see this coming, so that we can respond to
     it now with an understanding of what technocultural turbulence
     will be like before we encounter it.
+
+###  ###
 
 - for example, in the 50's when there were three TV channels,
   - (1) how efficiently could we deliver a message to the american people?
@@ -160,13 +399,97 @@ excerpt: ""
       - without prediction and quantification, one can't ... public
         relations strategies makes it difficult to design...
 
-- constant inculcation of a fairly homogenous set of symbols
+- constant inculcation of a fairly homogenous set of primary symbols,
+  that are recognized almost universally across the culture
+  - e.g. freedom, liberty, the declaration of independence, etc in
+    America.
+  - e.g. Star Wars, Harry Potter and other super-IP's that are
+    recognized almost universally
+  - these cultural symbols can signify different associations to many
+    different people, but they are distinct from less widely diffused
+    symbols in that:
+    - they are universally recognized among a culture
+    - they have a cohesive, mostly homogenous set of meanings as a
+      basis.
+    - crucially, there is an assumption that almost everyone in a
+      society can communicate with these symbols, both with words and
+      by provoking imagery
+      - i.e. the difference between using a (basic) reference to tv show
+        Star Trek and using a complicated spock versus lizard-man
+        reference
+        - the first can be interpreted by almost everyone in America
+          and, even if they don't understand your specific meaning
+          using Star Trek (just the TV show) as a reference, they can
+          anticipate what most people would
+      - again, the difference is that there are symbols that have
+        diffused with consistency such that almost everyone can expect
+        other people to identify common signified concepts
+        - then there are those, where not only will few people
+          recognize the symbol, if they do, signified interpretations
+          can not be anticipated with much degree of certainty without
+          additional information layered in to clarify
+    - there are about 100 cultural universals shared by humanity.
+      these are a completely different subject, but most of them
+      function as symbols people recognize that can be used as
+      imagery.
+      - but there are symbols shared amoung groups, societies and
+        cultures that are virtually universal within those groups.
 
-- what the fuck is the deep state?
+- the point i'm trying to make is that when the economics of content
+  creation/distribution/consumption are disrupted as they almost
+  certainly will be, this phenomenon of the creation and maintainence
+  of a language of shared imagery slows to a trickle. those widely
+  diffused symbols with cohesive, signified interpretations that can
+  be conveyed with confidence simply do not reach the level of
+  distribution in society for them to be considered universal.
+  - while this may seem trivial or abstract, it may pose unanticipated
+    communication difficulties for many cultures and nations.
+    - so, for example, if you needed a strong set of images to provoke
+      a patriotic sense of duty among your citizens, but you don't
+      have an education system, then you likely haven't deployed that
+      language of imagery and associations among your citizens.
+      - therefore, in this situation, predicting how messaging to your
+        citizens will affect how they react is almost impossible.
+    - America won't deal with problems as severe as not having an
+      education system, but we are a long ways away from a system of
+      three TV channels, where it is trivial to know what information
+      people have consumed and how they interpret messaging.
+      - that is not to say that we should artificially limit channels
+        of communication
+
+- this is a warning that foreign adversaries now have unparalleled
+  reach into our nation to slowly build out their own languages of
+  imagery or subvert ours to exert more influence over citizens, to
+  constrain narratives and to
+  - so, how does their capacity to mutate the more logical aspects of
+    human communication (semiotics, imagery, association) change when
+    America's capacity to cultivate these primary elements of
+    communication is greatly diminished?
+    - it means that, as cultural artifacts become indistinguishable
+      and innumerable while recognition/relevance of those artifacts
+      is some minimal amount of people, it affects human language and
+      communcation in a profound way by shifting beneath our feet the
+      mechanics, proficiency and predictability of utilizing language
+      layered with imagery.
+- while it is hard to quantify whether this phenomena will actually be
+  exhibited to a relevant degree, it is also important to note that
+  this happens very early for America and the West and happens much
+  later for most of the rest of the world.
+  - this means that leaders who signal over communication networks
+    hoping to call their citizens to action will be less able to
+    clearly convey a message that delivers on creating a predictable
+    emotional response.
+
+- another example: wtf is the deep state? (move up?)
   - perfect example of imagery that is being remapped so that it
     doesn't cohere to any dominant interpretation
+  - while it seems that conservatives have one definition and liberals have
+    another, the c
 
 - everything is a wave
+  - information in social physics should be modelable as waves,
+    communicated among players in social games, idealized as
+    particles)
   - social phenomena can be modeled with social physics, but almost
     everything is incomputable.
   - however, similar to how there are many kinds of interactions
@@ -318,7 +641,13 @@ excerpt: ""
 - ... or wasn't a primary factor empassioning liberals to encourage
   demoralization
 
-
+- american (vulnerability) - which one would you want to be?
+  - a broken down beater, unlocked with nothing in it
+  - a mercedez with the windows rolled down four inches. it has a
+    state of the art security system, but lined with luxury's like a
+    handicapped claw game
+  - a bulletproof limo with tinted windows, SCIF certified, secure
+    VOIP and a convoy
 
 original content:
 ===============
@@ -330,16 +659,6 @@ mentioned my articles relevant to info warfare:
 #### [Operational Lvl of Information Warfare](http://te.xel.io/posts/2017-02-21-civil-disobedience-and-operational-strategy-in-information-warfare.html)
 
 ...
-
-#### [Paradox of Creativity](http://te.xel.io/posts/2016-05-16-the-paradox-of-creativity.html)
-
-here's an essay on the death of novelty and originality as the limits
-on information diffusion are annihilated by the singularity. the
-information overload, particularly its skewed nature, results in
-generations of people who are completely severed from the past. if we
-understand this moving forward, we can use social engineering to
-preserve the pieces of our identity and culture which will otherwise
-be completely lost.
 
 #### [Death of Creativity](http://te.xel.io/posts/2016-05-17-the-death-of-creativity.html)
 

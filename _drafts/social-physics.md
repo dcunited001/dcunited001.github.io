@@ -8,8 +8,8 @@ author:
 excerpt: ""
 ---
 
-when i look at this writing without being on an amphetamine, it feels
-like I'm reading something a fucking alien wrote.
+
+
 
 # Blog Ideas:
 
@@ -112,12 +112,13 @@ like I'm reading something a fucking alien wrote.
 
 - a second critical factor is the lack of multitasking:
   - particles can only really do one thing & can only think one thing
-    at a time, which bounds how quickly state changes can occur ##
-    Discussion of Schematic Complexity
+    at a time, which bounds how quickly state changes can occur
+
+## Discussion of Schematic Complexity
 
 - complexity of information crossed with type theory
 - social physics simulations are rooted in particle physics w/ shared
-  fields -
+  fields
   - the interactions in the physical space are dependent on n-D
     primary virtual space(s)
     - as well as combinatorially enumerated secondary virtual spaces
@@ -147,14 +148,14 @@ like I'm reading something a fucking alien wrote.
     - (2) They have a wide variety of types of experiences
     - (3) They have a strong degree of choice in social experience,
       which requires and produces social independence
-    - (2) They haven't been unhappy in their lives long enough to wonder
+    - (4) They haven't been unhappy in their lives long enough to wonder
       why they can't get it together.
-    - (3) When they have the kinds of problems almost everyone does,
+    - (5) When they have the kinds of problems almost everyone does,
       they have enough of the right social capital or psychological
       flexibility to adjust before they become socially isolated or
       financially disabled.
 
-
+#### Social (behaviors/tactics to act/respond) are accumalated through conditioning
 
 - most of us lack a rigid framework: we subconsciously operate
   emotionally-driven and neurally-connected statistical models
@@ -166,6 +167,8 @@ like I'm reading something a fucking alien wrote.
         information
       - (3) individual and collective objectives, needs, wants,
         resources and options
+
+#### Social Isolation can be Measured
 
 - social isolation can be measured, given some "normal" facebook
   user's 2-degree graph of friends for some definition of normal
@@ -200,104 +203,9 @@ like I'm reading something a fucking alien wrote.
       of users which fit some basis with quantifyable variation and
       some metric of confidence
 
-# A System With Near-Total Lack of Privacy
-
-- (none of this means technology or social media or IoT is inherently
-  bad by the way, just that our world is evolving towards a
-  fundamentally different one and this evolution is inevitable)
-  - so we have to understand it because the following philosophical,
-    psychological, and sociocultural changes are fundamentally
-    different in a way that is very difficult to understand
-  - the most important: in a post-convergence world, causality itself
-    operates in a fundamentally different way, which can be
-    anticipated by observing the evolution of various graphs
-
-- social media, data science, internet of things, etc are part of a
-  continuing trend of technology and quantification of human behavior
-  that has been eroding privacy for decades.
-  - this causes a fundamental shift in the way people interact
-
-  - information can now spread through the social graph in
-    fundamentally different ways.
-    - the social graph has always existed, but until the 19th century
-      was almost entirely limited to communication via edges which
-      were physical in some way)
-    - instead of a world where every person has six degrees of
-      separation, we are gradually converging towards a social
-      paradigm where "degrees of separation" is mostly meaningless, in
-      and of itself.
-      - it's because the graph that represents all the paths that
-        information can take to reach some other human node is
-        converging towards the complete graph
-        - albeit a complete graph where nearly all edges would be
-          removed upon sparsification, but the phenomenon of
-          near-completeness is there
-    - at the same time, we are producing and processing data at an
-      exponential rate.
-      - there are finitely many human behaviors that can be quantified
-
-- there is a paradigm shift in the phenomenon of causality, as it
-    applies to human behavior and psychosocial dynamics,
-    - causality, in this sense, stems from exchange of information,
-      completeness of information, awareness of information,
-      dissemination of information, etc.
-      - there are many other important factors that help define how
-        humans perceive causation in their behavioral interactions,
-        whether those are individuals or groups of people ....
-      - however, causality and the way humans utilize their
-        understanding of it to construct a of beliefs/knowledge about
-        the world is in a very big way parameterized by the paradigm
-        of information exchange/retention/diffusion/etc
-    - therefore, in an increasingly connected world, there is a major
-      shift in how narratives are constructed and propagated.
-  - this paradigm shift for causality affects any information
-    processing entity, including both people and computers
-    - this shift affects these groups in different ways
-    - people store & process & propagate information
-      differently than computers
-      - i.e. they tend to be arbitrary and "imperfect" in how they
-        handle information
-      - the conclusions that can be reached by understanding the shift
-        in causality very greatly depending on the specifics, so
-        assertions based on generalities may do more harm than good
-        (e.g. this explanation itself of the shift in causality is
-        overly general)
-
-- the concept of privacy is one of the most important ways this shift
-  in causality will affect human interactions and their understanding
-  of the world from what they infer to be cause & effect in events
-  - individuality will be blurred, people may adopt more
-    groupthink-motivated behaviors. these two things are fairly simple
-    to understand as our privacy is eroded
-  - if or when we reach a society with a near-total lack of privacy,
-    information propagates with a degree of completeness that implies
-    people are significantly impaired in their ability to reason about
-    the nature of cause and effect
-    - this is because every exchange in units of information
-      essentially initiates its own new chain of cause/effect and
-      because of the total-convergence of the systems used to exchange
-      information/data, ...
-    - for example, making conclusions about the disemination of pieces of
-      information (how one piece of information spreads amoungst
-      people)
-
-- so the convergence of individual belief systems accelerates and the
-  more strongly convergent metaphyiscal ideas begin manifesting in the
-  physical aspects of social interactions.
-  - so, if instead of mass communication channels being completely
-    decentralized, the information diseminated was harmonized, then
-    the more unitary, regular and pronounced these metaphysical
-    manisfestations will become.
-  - so, in terms of social physics, there are stronger physical
-    effects that emerge from the metaphysical than ever before. This
-    is true even in the discord of decentralized high bandwidth
-    digital communication. Because of the evolutionary dynamics of
-    ideas and memes, the strongest earn extremely high rates of
-    propagation.
-
 ### Distribution of Agency & Will (Animus)
 
-- the dynamics of physical/informational interactions of agents/nodse
+- the dynamics of physical/informational interactions of agents/nodes
   in graphs: social/physical/financial/etc
   - lots more to explore here
 
@@ -330,6 +238,7 @@ their own subjective demise is perhaps the greatest power.
 #### "Unintended extrapolations are always the most severe"
 
 
+
 #### "A Phase Change in the Functional Fabric of Reality"
 
 - nature of duality vs agency, along geographic/philosophic dimensions
@@ -354,10 +263,10 @@ their own subjective demise is perhaps the greatest power.
 - how do you model the interactions between a mixture of a single
   substance where different parts of the space you're observing are in
   different phases?
-    - this is the most important part of understanding what a phase
-      change is and carrying it over to non-physical systems: how does
-      a physicist mathematically model different phases of a
-      single-substance system and *why*?
+  - this is the most important part of understanding what a phase
+    change is and carrying it over to non-physical systems: how does a
+    physicist mathematically model different phases of a
+    single-substance system and *why*?
   - this is what distinguishes systems with math that can model phases
     and those that can't.
     - phase changes introduce and enable dramatically different modes
@@ -497,7 +406,7 @@ prevalence of )
   - model the wave transmission in a similar way to conway's game of
     life.
 
-### Measuring Configurational & Confirmational Entropy in Social Physics
+### Measuring Configurational & Conformational Entropy in Social Physics
 
 - instead of measuring Thermal Entropy via "Course Graining" of q[i] &
   p[i] (according to wikipedia)

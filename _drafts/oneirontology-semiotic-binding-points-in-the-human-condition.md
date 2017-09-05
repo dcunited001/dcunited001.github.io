@@ -8,7 +8,6 @@ author:
 excerpt: ""
 ---
 
-
 - Religions are basically different understandings of the same
   thing. It's like a selected few mystics through the ages all read
   the same Choose Your Own Adventure book and, along the way, made
@@ -861,6 +860,7 @@ homogenize all culture.
               doing and i don't need to think about it, that's when i
               perform the best. but my mind begins to wander or will
               simply fade into the background.
+
   - so, if meditative states of mind intended to reduce conceptual
     designation to induce an experience of "non-conceptual awareness"
     (as referred to by author of the above article) is this
@@ -896,3 +896,5 @@ homogenize all culture.
       - and it requires so much forethought, plenty of regular contact
         with the subject/target, and *constant* focus on the malicious
         intent of bringing harm to that person.
+      - "Anthony Hopkins uses NLP to butter his victims up. be like
+        Hopkins"
