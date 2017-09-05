@@ -37,8 +37,6 @@ excerpt: ""
 
 - combination of social physics, information warfare, causality
 
-
-
 # Metaphysical Precipitation
 
 Given growth of networking infrastructure and computational capacity
@@ -57,35 +55,87 @@ with high volumes of agents.
 
 Eventually, the configuration of matter in the local physical space is
 repurposed as hardware for quantum simulation, rendering its specific
-configuration meaningful only in the information systems it
-virtualizes. In its final state, with maximal integration of local
-matter, the laws of physics become mostly inconsequential, since the
-information systems determine the state, albeit non-deterministically.
+configuration meaningful only in how it maps to a virtualization of an
+information system, which is decoupled in a
+[universal quantum simulator](https://en.wikipedia.org/wiki/Quantum_simulator)(UQS).
+In its final state, with maximal integration of local matter, the laws
+of physics become mostly inconsequential, since the information
+systems determine the state, albeit non-deterministically.
 
 Therefore, the significance of metaphysical forms does not ascend from
 information encoded into matter because this final state of matter can
 virtualize multitudes in a fluid form with no definite physical
 representation. This is yet another argument against the Marxist
-Dialectic, though perhaps it depends on whether your quantum simulator
-is a universal quantum simulator.
+Dialectic, since the representation of a program with arbitrary
+structure can be represented within the UQS.
+
+Actually demonstrating the existence and mechanics of a UQS would
+strengthen the argument, although it was theoretically shown to be
+possible. Whether a UQS could, perhaps physically, conclusively
+resolve the divide between the Marxist and Hegelian dialectics,
+depends on the specific mechanics of UQS. Primarily at issue is how a
+UQS entwines the Quantum Simulator(QS) program within its own state
+results in varying degrees of virtualization. A Universal Turing
+Machine (UTM) entwines a representation of the simulated Turing
+machine within its own machine's tape. To prove the Hegelian
+dialectic, it is not necessary, but is ideal for the QS program
+representation to be purely virtualized within the UQS. Further, it
+could be argued that a QS itself contains sufficiently convoluted
+physical information representation such that the reliance on a UQS is
+not needed.
+
+
+## Quantum Language ##
+
+In an earlier article,
+[The Nature of Space, Time and Information Implies Universal Language](http://te.xel.io/posts/2016-04-12-the-nature-of-space-time-and-information-implies-universal-language.html),
+I posited the possibility of a quantum language. Such a language would
+extend the concept of the singular universal language developed by any
+sufficiently advanced intelligent life in the universe. Such a
+universal language results from several factors, including the
+possibility of one way communication across the universe without the
+need to exchange grammar and semantics or any information to receive,
+transmit and consume. These would instead be implicit and all of it
+would should be extrapolated from symmetry inherent in some root
+mathematic concepts.  This would expand to encompass all possible
+concepts that any life form would signify. It is hard to imagine what
+that universal language would look like, but if it sounds interesting,
+give the article a read...
+
+The representations of information in QS, UQS and quantum circuits are
+to one's and zero's what the quantum universal language would be to
+ASCII. The quantum language would not encode textual representations
+of words.  For that matter, such a language would never actually have
+discretely signalled structure, which is partly why it's such an
+interesting thought experiment.
+
+What do I think this language would be like? I don't know enough about
+quantum circuits to provide anything more than sci-fi speculation.
+Perhaps it's like whalesong emitted between alien superintelligences
+separated by vast distances.  Imagining this concept might be a futile
+pursuit of imagination.
+
+However, if intelligent life evolves to utilize quantum across the
+board, it probably removes the digital/quantum divide in hardware and
+networking. For example, stepping down to digital representations of
+information may present a hardware or process bottleneck. If most or
+all algorithms can be represented or structured entirely within
+quantum circuits, then there would be acceptably minimal design
+limitations for software.
+
+Assuming all computation and networking is quantum, then for
+information to convey meaning via the universal language referenced
+above, the grammar and meaning needs to be composed into the
+non-deterministic state of quantum circuit components.
+
+. Once the , entities
+receive it over channels paired with entanglement.
 
 
 
 
 
-
-- turing machines can reach any state of an information system
-  - so, a turing machine 
-
-
-
-human knowledge and celestial forms.
-
-
-dynamics originating from pure
-information, including human and
-
--### Totality of Physical Eclipse
+### Totality of Physical Eclipse
 
 - (is there a better explanation of this?)
 - the convergence of individual belief systems accelerates and the
@@ -195,6 +245,8 @@ information, including human and
           with a world where the majority of people are connected to
           networks where causality (becomes unknowable and
           unpredictable)
+
+
 
 # (Social Physics Overview)
 

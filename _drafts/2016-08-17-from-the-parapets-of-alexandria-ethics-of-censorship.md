@@ -630,7 +630,7 @@ in within the next few years. A decade at the most.
 
 What's the value of a message? How does cheap and free transmission
 affect us? How does it lead to progress? The power of a simple message
-unimpeded can change the course of civilizations. At Thermopolae, the
+unimpeded can change the course of civilizations. At Thermopylae, the
 brave acts of hundreds of Spartans struck fear into the heart of
 Persians and funneled vigor into the hearts of Greeks to rise up and
 resist the oncoming hordes.  Would this envigorating effect have been
