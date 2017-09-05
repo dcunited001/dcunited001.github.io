@@ -5,13 +5,7 @@ tags: "anthropology religion sociology psychology"
 headline: "There Is No Order Higher Than Truth"
 author:
   name: "David Conner"
-excerpt: "And so, this light derived from knowledge and truth can never be
-destroyed. Whenever and wherever there are beings with the time,
-stability and blessing of God to further the development of their
-consciousness, will rediscover truth and reclaim light. Destroy it if
-you are so empowered; if you so desire. These truths are self-evident
-through exploration of our world and our mind. They can be suppressed
-to decimation, but obliteration is simply not possible."
+excerpt: "And so, this light derived from knowledge and truth can never be destroyed. Whenever and wherever there are beings with the time, stability and blessing of God to further the development of their consciousness, will rediscover truth and reclaim light. Destroy it if you are so empowered; if you so desire. These truths are self-evident through exploration of our world and our mind. They can be suppressed to decimation, but obliteration is simply not possible."
 ---
 
 These are my own beliefs on the nature of God. I enjoy learning what I

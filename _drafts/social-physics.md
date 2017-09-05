@@ -313,6 +313,17 @@ their own subjective demise is perhaps the greatest power.
 
 - soooo ... what are phase changes in sociophysical systems?
 
+### everything is a wave
+
+  - information in social physics should be modelable as waves,
+    communicated among players in social games, idealized as
+    particles)
+  - social phenomena can be modeled with social physics, but almost
+    everything is incomputable.
+  - however, similar to how there are many kinds of interactions
+    between particles and waves, interactions in social physics can be
+    understood with infinite dimensional waves
+    - however, the structure of information infinite and unknowable
 
 ### Configurational Entropy in Sociophysical Systems
 
@@ -326,7 +337,7 @@ their own subjective demise is perhaps the greatest power.
     - 
 
 
-prevalence of )
+prevalence of
 - as a sociophysical system progresses, you can keep track of the
   amount of time specific "molecular" configurations of participants
   spent connected.

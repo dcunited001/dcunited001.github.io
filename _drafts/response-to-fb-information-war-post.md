@@ -27,20 +27,80 @@ excerpt: ""
 - structure of series:
   - (part one)
     1. start with warning on how tech leads to a breakdown in how
-      people and autonomous understand cause & effect
+      people and autonomous agents understand cause & effect
       - or should i leave this for later?
     2. overview of basic concepts of social physics, along with
        everyday examples
+    3. philosophic implications of social phys, networks, info
+       dynamics
   - (part two)
-
-
 
 - combination of social physics, information warfare, causality
 
 
 
+# Metaphysical Precipitation
+
+Given growth of networking infrastructure and computational capacity
+without limit, reality rapidly converges towards the metaphysical.
+This results in the runaway precipitation of informational dynamics
+whose structure and interactions increasingly preempt dynamics
+originating in the physical.
+
+This chaotic period eventually results in irrevocable disruption to
+philosophical constructs. Perception of causality becomes intractible
+as the ubiquity and opacity of information systems render cause and
+effect unknowable. Understanding causality is complicated for both
+humans and automated agents. Only the former is rendered powerless as
+an unaided individual, whereas the latter is weakened in large systems
+with high volumes of agents.
+
+Eventually, the configuration of matter in the local physical space is
+repurposed as hardware for quantum simulation, rendering its specific
+configuration meaningful only in the information systems it
+virtualizes. In its final state, with maximal integration of local
+matter, the laws of physics become mostly inconsequential, since the
+information systems determine the state, albeit non-deterministically.
+
+Therefore, the significance of metaphysical forms does not ascend from
+information encoded into matter because this final state of matter can
+virtualize multitudes in a fluid form with no definite physical
+representation. This is yet another argument against the Marxist
+Dialectic, though perhaps it depends on whether your quantum simulator
+is a universal quantum simulator.
 
 
+
+
+
+
+- turing machines can reach any state of an information system
+  - so, a turing machine 
+
+
+
+human knowledge and celestial forms.
+
+
+dynamics originating from pure
+information, including human and
+
+-### Totality of Physical Eclipse
+
+- (is there a better explanation of this?)
+- the convergence of individual belief systems accelerates and the
+  more strongly convergent metaphyiscal ideas begin manifesting in the
+  physical aspects of social interactions.
+  - so, if instead of mass communication channels being completely
+    decentralized, the information diseminated was harmonized, then
+    the more unitary, regular and pronounced these metaphysical
+    manisfestations will become.
+  - so, in terms of social physics, there are stronger physical
+    effects that emerge from the metaphysical than ever before. This
+    is true even in the discord of decentralized high bandwidth
+    digital communication. Because of the evolutionary dynamics of
+    ideas and memes, the strongest earn extremely high rates of
+    propagation.
 
 ### The Ablation of Causality
 
@@ -51,9 +111,10 @@ excerpt: ""
   - so we have to understand it because the following philosophical,
     psychological, and sociocultural changes are fundamentally
     different in a way that is very difficult to understand
-  - the most important: in a post-convergence world, causality itself
-    operates in a fundamentally different way, which can be
-    anticipated by observing the evolution of various graphs
+
+- the most important: in a post-convergence world, causality itself
+  operates in a fundamentally different way, which can be
+  anticipated by observing the evolution of various graphs
 
 - social media, data science, internet of things, etc are part of a
   continuing trend of technology and quantification of human behavior
@@ -104,6 +165,8 @@ excerpt: ""
         assertions based on generalities may do more harm than good
         (e.g. this explanation itself of the shift in causality is
         overly general)
+  - this ablation of causality gradually roots itself accross the
+    world at varying rates.
 
 - the concept of privacy is one of the most important ways this shift
   in causality will affect human interactions and their understanding
@@ -133,23 +196,7 @@ excerpt: ""
           networks where causality (becomes unknowable and
           unpredictable)
 
-- so the convergence of individual belief systems accelerates and the
-  more strongly convergent metaphyiscal ideas begin manifesting in the
-  physical aspects of social interactions.
-  - (how do i transition from the above section to this? is this
-    besides that point?)
-  - so, if instead of mass communication channels being completely
-    decentralized, the information diseminated was harmonized, then
-    the more unitary, regular and pronounced these metaphysical
-    manisfestations will become.
-  - so, in terms of social physics, there are stronger physical
-    effects that emerge from the metaphysical than ever before. This
-    is true even in the discord of decentralized high bandwidth
-    digital communication. Because of the evolutionary dynamics of
-    ideas and memes, the strongest earn extremely high rates of
-    propagation.
-
-
+# (Social Physics Overview)
 
 Information has a life of its own and nowhere does this become more
 clear than in social physics, which is a mathematical framework for
@@ -158,8 +205,6 @@ mind blowing, but the bad news is that almost every problem is
 incomputable. Never fear! The human brain is practically a quantum
 machine-learning monster and incredibly useful insights can be
 extrapolated from a philosophic exploration of social physics.
-
-# (Social Physics Overview)
 
 Social physics was originally developed in the 19th century (links) to
 explain how the behavior of players in simplified games were affected
@@ -226,37 +271,6 @@ dynamics.
 
 - (explain the above)
 
-
-
-# (Implications of (your perspective on) Social Physics, Networks and Information Dynamics)
-
-- why attempting to quantify information structure/dynamics/diffusion,
-  along with sociophysical models and game theory leads to drastically
-  (more in depth) philosophical conclusions about the
-  significance/nature of information.
-  - if you don't understand what i'm writing about, then it's easy to
-    assume that a worldview based on a subjective-but-passionate
-    understanding of some ideology (i.e. humanism or marxism) is
-    sufficient for dictating or restraining policy.
-  - if you don't understand this content (and it isn't easy) then you
-    don't actually understand enough about life, society and, in
-    particular, human behavior to predict how policy will affect
-    people.
-    - if your a passionate humanist and your goal is to help people,
-      wouldn't it be useful to understand people, group dynamics, game
-      theory to inform your political views?
-    - if it's important to you to actually achieve the lofty goals and
-      ideals that drive your passion, then you absolutely have to
-      understand this subject, otherwise you are forever at a
-      disadvantage, unware that you are a piece in someone else's
-      game, a leaf blowing about in a windstorm.
-- you might be a well-reasoned person living in a land of milk and
-  honey who wishes for only the alleviation of human suffering, but
-  the world is not full of sunshine and rainbows. life is a game and
-  there are many players.
-  - if your values and ideals are worth hard work and sacrifice to
-    attain, then you have to understand how the other players in this
-    game will react to you.
 
 ###
 
@@ -506,13 +520,16 @@ be completely lost.
     documentaries that you see.
     - people made an hour-long youtube documentary
 
-- a political example: wtf is the deep state? (move up?)
+#### a political example: wtf is the deep state?
+
+  - should this occur earlier?
   - perfect example of imagery that is being remapped so that it
     doesn't cohere to any dominant interpretation
   - while it seems that conservatives have one definition and liberals have
     another, the c...
 
-- another example: fake news.
+#### another example: fake news.
+
   - fake news is what it is, but it layers into our culture pattern
     languages (and sets off these viral outbreaks of...)
   - it is not necessarily bad, but fake news is an effective tactic of
@@ -527,53 +544,18 @@ be completely lost.
     sure how to define. are we talking about cosmo pizza and
     pedophiles?
     - regardless of the quirkly, distracting stories, i do not have
-      confidence in our media today at all. they are pushing
-      narratives that might as well be fake news *and the results are
-      going to be disastrous*.
-      - the media has been a circus for at least three
-        years. americans are not encouraged to examine a realistic
-        portrayal of the world.
-      - in a democracy, you know what that means? it means a slow
-        downward spiral as we become increasingly out of touch and
-        FAIL to respond to challenges that should have been knocked
-        the fuck out of the park.
-      - so if cosmo pizza distracts from the bullshit spewing out of
-        the liberal media, that's fantastic IMO.
-        - most people wouldn't understand what i said above *but it's
-          already happening*
-        - america needs to get its shit together ...
-        - you are being sold as a sucker by a media that doesn't
-          understand the reality and encouraged to slowly dismantle
-          many significant advantages that america has in world where
-          we no longer exert monopolar hegemony.
-          - china is rising on a rocket as a superpower. look at their
-            exports and export financing. look at their strategic
-            advantages. is china tearing itself apart? nope.
-          - america is the nation with challenges and uncertainty. and
-            the media should fucking act like it, so that americans
-            rachet up their game and unite to act in unison
-            - e.g. it was never about race. the liberal media created
-              that to hack the election for hillary. and look at how
-              that false narrative is running rampant and tearing our
-              country apart.
+      confidence in our media today at all. liberal media is pushing
+      toxic narratives that
 
-- ... figure out what to do with the rant above.
+# Anticipating Information Warfare
 
-- everything is a wave
-  - information in social physics should be modelable as waves,
-    communicated among players in social games, idealized as
-    particles)
-  - social phenomena can be modeled with social physics, but almost
-    everything is incomputable.
-  - however, similar to how there are many kinds of interactions
-    between particles and waves, interactions in social physics can be
-    understood with infinite dimensional waves
-    - however, the structure of information infinite and unknowable
+- understanding everything thus far and reacting to the situation
+  early, in anticipation of information warfare
 
-- understanding this and reacting to the situation early, in
-  anticipation of information warfare
-  - why is all warfare essentially information warfare?
-  - what is usually meant by information warfare?
+### why is all warfare essentially information warfare?
+
+### what is usually meant by information warfare?
+
     - competition over information and its distribution to influence
       the behavior of groups
       - these groups can be larger scale: social, political, military
@@ -609,12 +591,16 @@ be completely lost.
         - but information has a life of its own and is difficult to to
           restrict its diffusion without either coercing the container
           of information or destroying it entirely
+
+
   - some examples of tactics in information warfare
     - most techniques from marketing or branding
     - restricting diffusion of information, generally or from specific
       groups of people
     - manipulating the presentation of information
-  - when is outright information warfare advantageous?
+
+### when is information warfare advantageous?
+
     - when the adversary is strong:
       - they are more capable of pushing a large volume of information
         (information flux)
@@ -638,7 +624,8 @@ be completely lost.
       porous and highly connected this is both an advantage and
       disadvantage
 
-  - boundaries of communication networks in information warfare
+# boundaries of communication networks in information warfare
+
     - when the boundaries are more tightly locked down:
       - there are negative aspects:
         - it becomes harder to establish relationships with the
@@ -653,6 +640,7 @@ be completely lost.
             restrictions or government regulation
           - it's easier for trade partners to discover
             products/relationships in societies that are not closed
+
       - there are benefits in the long-term:
         - because your adversaries or other neutral players have not
           been able to diffuse information into your society with much
@@ -671,7 +659,8 @@ be completely lost.
               identity in the long-term. if they open their doors with
               no restrictions, then foreigners with more money and
               power will control what information becomes dominant.
-        - IMO, these few benefits are grossly outweighed by the lost
+
+      - IMO, these few benefits are grossly outweighed by the lost
           economic opportunities. these are things that mostly benefit
           people in power in those countries, but also can be an
           attempt to preserve cultural identity in spite of
@@ -682,27 +671,28 @@ be completely lost.
   - by the way, i don't believe this narrative and find it to be
     offensive. policy and politics are never simple, especially when
     it comes to conflict. the same action can be interpreted in many
-    ways, but i believe quite the opposite of this narrative. i
-    believe that we stand up for human rights, civil rights and
-    justice in the world. i believe we have used our power responsibly
-    for the greater good and we have done so to defend freedom,
-    justice and economic development around the world. i also believe
-    that a dominant force that doesn't exercise it's power without
-    restraint or reason will inevitably destabalize itself. in the
-    later 20th century, we were lucky to have America as a superpower
-    willing to stand up because Soviet Communism was destined to
-    require an empire to sustain itself economically.
-  - this is an example of an application of information warfare. in
-    the short-term, it has disrupted our response in the beginning of
-    the War on Terror
+    ways, this narrative is ludicrous and toxic. America stands up for
+    human rights, civil rights and justice in the world. America uses
+    our power responsibly for the greater good and we do so to defend
+    freedom, justice and economic development around the world.
+  - A dominant force that doesn't wisely and justly exercise its power
+    will inevitably destabalize itself. in the later 20th century, we
+    were lucky to have America as a superpower willing to stand up
+    because Soviet Communism was destined to require an empire to
+    sustain itself economically.
+
+  - the adoption of this narrative by radicals could lead to
+    exploitation via information warfare. in the short-term, it has
+    disrupted our response in the beginning of the War on Terror
     - it demoralized the public and prevented us from acting in unison
       to support our military.
     - it resulted in a political swing to the left b/w 2004-2008
-  - in the long-term, if america were to cede its superpower status,
+
+  - in the long-term, (if america were to cede its superpower status,)
     this narrative may become dominant. a dominant power could use
     narrative like a page in a coloring book to paint the united
     states foreign policy as evil
-    - as a dominant power, they would be able to build on top of this
+    - (as a dominant power), they would be able to build on top of this
       and distort it however they want to keep us in check.
     - if the narrative wasn't a defining component of so many
       citizens' worldviews, then our enemies wouldn't have the
@@ -721,6 +711,49 @@ be completely lost.
     handicapped claw game
   - a bulletproof limo with tinted windows, SCIF certified, secure
     VOIP and a convoy
+
+
+
+
+
+
+
+# (Implications of (your perspective on) Social Physics, Networks and Information Dynamics)
+
+- possibly remove
+- why attempting to quantify information structure/dynamics/diffusion,
+  along with sociophysical models and game theory leads to deep
+  philosophical conclusions about the significance/nature of
+  information.
+  - if you don't understand what i'm writing about, then it's easy to
+    assume that a worldview based on a subjective-but-passionate
+    understanding of some ideology (i.e. humanism or marxism) is
+    sufficient for dictating or restraining policy.
+  - if you don't understand this content (and it isn't easy) then you
+    don't actually understand enough about life, society and, in
+    particular, human behavior to predict how policy will affect
+    people.
+    - if your a passionate humanist and your goal is to help people,
+      wouldn't it be useful to understand people, group dynamics, game
+      theory to inform your political views?
+    - if it's important to you to actually achieve the lofty goals and
+      ideals that drive your passion, then you absolutely have to
+      understand this subject, otherwise you are forever at a
+      disadvantage, unware that you are a piece in someone else's
+      game, a leaf blowing about in a windstorm.
+- you might be a well-reasoned person living in a land of milk and
+  honey who wishes for only the alleviation of human suffering, but
+  the world is not full of sunshine and rainbows. life is a game and
+  there are many players.
+  - if your values and ideals are worth hard work and sacrifice to
+    attain, then you have to understand how the other players in this
+    game will react to you.
+
+
+
+
+
+
 
 original content:
 ===============
@@ -774,3 +807,7 @@ best of all, bc of the shady Russian shit, LIBERALS FINALLY HAVE TO
 ACCEPT THAT FOREIGN INFLUENCE CAN INJECT INCREDIBLY DEMORALIZING
 INFLUENCES ON OUR SOCIETY. they can undermine our decisions, determine
 our policy and convince us to tear ourselves apart.
+
+
+
+
