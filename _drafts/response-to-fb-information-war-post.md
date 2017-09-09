@@ -1,5 +1,5 @@
 ---
-title: ""
+title: "The Speed of Thought: Social Physics"
 categories: "blog"
 tags: "semiotics linguistics social-physics"
 headline: ""
@@ -27,119 +27,53 @@ excerpt: ""
 
 - structure of series:
 
-  - (part one)
+  - (part one: social physics)
     1. overview of basic concepts of social physics, along with
        everyday examples
-    2. philosophic implications of social phys, networks, info
-       dynamics
+       - the most important conclusions from understanding social
+         physics
+       - how telecom/internet changes social physics
+    2. definition of power as the potential to trigger flux
+      - mechanics of power
+    3. physical analogies
+      - people as particles: temperature, density, state, etc.
+      - speed of sound
+      - phase changes
+      - configurational entropy & conformational entropy
 
-  - (part two)
+
+  - (part two: geometry and mechanics of information)
+    1. 
+
+  - (part three)
     1. metaphysical precipitation
     2. start with warning on how tech leads to a breakdown in how
       people and autonomous agents understand cause & effect
-
-- thesis for part one:
-  - the world today differs fundamentally because of converged nature
-    of communication networks
-    - essentially, communication was formerly bound by social physics,
-      but these physical limitations no longer constrain information
-    - social physics is still relevant and important to understand,
-      especially when/if information networks are disrupted.
-  - old ideas that were more difficult to understand become visible
-    and undeniable
 
 - thesis for part two:
   - complexity of information dynamics in a converged world leads to a
     breakdown in causality
 
-# (Social Physics Overview)
-
-Information has a life of its own and nowhere does this become more
-clear than in social physics, which is a mathematical framework for
-modeling idealized social behavior with physical constraints. It's
-mind blowing, but the bad news is that almost every problem is
-incomputable. Never fear! The human brain is practically a quantum
-machine-learning monster and incredibly useful insights can be
-extrapolated from a philosophic exploration of social physics.
-
-Social physics was originally developed in the 19th century (links) to
-explain how the behavior of players in simplified games were affected
-by the imposition of physical (rules/constraints). It originally
-borrowed heavily from classical mechanics and now overlaps with
-quantum mechanics, since non-deterministic games are loaded with
-probabilistic mechanics. Social physics can help us understand team
-sports,
-[Swarm Behavior](https://en.wikipedia.org/wiki/Swarm_behaviour), the
-geometric mechanics of battle tactics, cocktail parties and the finer
-mysteries of feng shui. Each of those activities (determined by the
-physics of the space) space and players in a social game with rules,
-though with feng shui, the game and players may be less clearly
-defined.
-
-(technically, swarm behavior doesn't need ideas from social physics,
-but becomes much more interesting with them)
-
-If you begin modeling games where players have their own sets of
-information, social physics becomes irrevocably and hopelessly
-incomputable, almost immediately. There are several layers to this,
-where each adds complexity that extends the hardness of the problems.
-
-#### &#x2605; Do the players contain their own copies of information or is it shared?
-
-#### &#x2605; Do instances of information adhere to a defined schema shared among all players?
-
-#### &#x2605; Can the information schema be modified?
-
-#### &#x2605; Can the information be known in totality for the game?
-
-#### &#x2605; Can a player access their own information in totality or reflect on its schematic structure?
-
-#### &#x2605; Do players need to make inferences based on the information schemas of other players?
-
-It isn't clear (which of the above) will add the most complexity, but
-in social situations players almost always operate with incomplete
-understanding. They can do so effectively because they've been
-conditioned with proactive and reactive behaviors that (...).
-Information overload can negatively affect players. The (questions)
-pertaining to information schema and information reflection add an
-incomprehensibly infinite degree of complexity. For the
-mathemtaticians, yes, modifiable schemas with or without reflection
-are definitely uncountable.
-
-All of this means that players have to be good at handling
-information, but better at balancing uncertainy and risk with
-goal-seeking behavior. If the game being modeled is soccer or some
-other team sport, there are subtle sociophysical aspects that can
-vastly improve team performance, such as ensuring visibility and other
-mechanics of communication. If the team works together and can share
-its understanding of the state of the field, this can help immensely
-with coordinating tactics.
-
-There are other physical aspects of soccer which are also modeled by
-social physics, such as the typical FIFA 2017 stats: speed, energy,
-skill, etc. The best players in the world can play together, but
-unless they can read each other and anticipate the coordination of
-tactics with limited signaling, the games will be reduced to the more
-physical stats and positioning.
-
-Social physics is distinguished by providing a framework for systems
-where players react to informational components as well as their
-dynamics.
 
 - (explain the above)
 
 
 
 
+- emphasize that the only way to predict social behavior in todays
+  world is by proactively driving patterns of behavior
+  - so, everything is hopelessly incomputable and can't be modeled. in
+    spite of that, proactive tactics can make social networks more
+    predictable.
+    - but because of adversarial dynamics driven by game theory,
+      influential groups struggle to signal over networks to
+      proactively drive behavior and can cause the system to become
+      unpredictable in ways that can't be predicted...
 
 ###
 
 - information economics and sociophysical aspects of information
-  - these mathematical frameworks/solutions almost always incomputable
-    - and knowing this, how do you identify what can be modeled or
-      known? and how do you structure your processes and behaviors to
-      collect data to efficiently model information dynamics and
-      social phenomena
+
   - elaborate on information economics (as distinct from economics of
     content...)
 
@@ -584,33 +518,10 @@ be completely lost.
   - a bulletproof limo with tinted windows, SCIF certified, secure
     VOIP and a convoy
 
-### 
 
-- sociophysical communication physically limits information flux
-  - in ancient times, information flux was mostly limited to physical
-    contact.
-  - as time progressed, population growth itself lead to more
-    information and more information flux. technology advances further
-    augmented this trend for ever increasing information flux.
-    - writing established information permanence.
-    - navigation & ship-building increased the maximum range for
-      information to spread, quickly
-    - economics incentivized management of information to predict
-      trade and resource trends.
-  - ancient people could assume that as population increased, so did
-    the likelihood of new technological innovations
-    - they could also assume that the network effect ...
-    - further, population density in itself also changes the way that
-      information diffuses geographically.
-      - (reynold's number)
-      - similar to how the speed of sound changes in varying density,
-        the average speed at which an idea or piece of information
-        travels changes based on the density of population. the
-        specifics of the information can also affect how quickly it
-        will be propagated.
-      - (reemphasize why the physics metaphors are so applicable for
-        social physics.)
+###
 
+- (originally after the section on information flux in ancient times)
 - in modern times, we've gotten used to instantaneous communication
   via the internet
   - but when telecom networks are disrupted, people will be caught off
