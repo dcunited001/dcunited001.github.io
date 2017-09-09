@@ -627,8 +627,8 @@ the possibility of a universal system of grammar.
 > Just go with it, for the sake of extending the above concept of a
 > universal language to that of quantum information systems.
 
-It definitely does.  The question is how.  Language as it's understand
-now and text as it's encoded and rendered needs digital
+It definitely does.  The question is how.  Language as it's understood
+now and text as it is both encoded and rendered needs digital
 representation.  However, from my limited understanding of quantum
 computing, information only seems to be attached to discrete outputs
 towards the output of a circuit.  Otherwise, the quantum circuits seem

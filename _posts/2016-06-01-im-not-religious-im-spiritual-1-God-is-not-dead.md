@@ -112,16 +112,16 @@ hotter my passion burned to share my creativity.
 
 As I will continue to demonstrate in this article, there are a
 plethora of more appealing arguments indicating that religion will
-regain prominence. The exponential progress of science contributes
-greatest yields subsequent generations more vulnerable to detachment
-from previous generations. The fabric holding us together begins to
-fray, weakening interpersonal and interfamily support networks. And
-each decade that goes by, fewer cultural artifacts remain steady and
-most evolve or dissipate with technology.  Furthermore, the more
-visibly changes take place, the less we pay attention to everything
-that remains steady. For things that shift beneath our feet, resulting
-in negative change at a slow rate, we may not notice until it's too
-late.
+regain prominence. The exponential progress wherein science
+contributed so greatly then yields subsequent generations more
+vulnerable to detachment from previous generations. The fabric holding
+us together begins to fray, weakening interpersonal and interfamily
+support networks. And each decade that goes by, fewer cultural
+artifacts remain steady and most evolve or dissipate with technology.
+Furthermore, the more visibly changes take place, the less we pay
+attention to everything that remains steady. For things that shift
+beneath our feet, resulting in negative change at a slow rate, we may
+not notice until it's too late.
 
 I don't mean to completely attack atheism, as it doesn't do anything
 wrong. Nor do most non-political atheists. It is that we are in dire

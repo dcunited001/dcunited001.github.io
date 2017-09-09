@@ -48,6 +48,7 @@ excerpt: ""
 - Cop
 - Talk Show Host
 - Cook
+- Teacher
 - Pastor
 - Narc
 - Office (customer facing and not)
