@@ -10,8 +10,12 @@ excerpt: ""
 
 - title?
 
-- concepts that are difficult to succinctly reference:
 
+#### concepts that are difficult to succinctly reference:
+
+  - social physics:
+    - using analogies from physics and math to model social
+      interactions
   - agents: people and bots
     - agents as in the concept of agency and ability to impact
       information and communication
@@ -25,7 +29,20 @@ excerpt: ""
     - is a distinct term appropriate? they are idealized as particles
       that exert influence on information systems
 
-- structure of series:
+
+
+- information physics: does it merit its own "thing" ?
+  - social physics overlaps heavily with information physics
+    - but i find myself using the phrase "information mechanics and
+      dynamics" countless times
+  - information "movement" (thus, physics) is almost meaningless w/o a
+    social context, even if one or all of the parties are automated.
+
+- infonetworking:
+  - ....
+
+
+#### structure of series:
 
   - (part one: social physics)
     1. overview of basic concepts of social physics, along with
@@ -40,7 +57,6 @@ excerpt: ""
       - speed of sound
       - phase changes
       - configurational entropy & conformational entropy
-
 
   - (part two: geometry and mechanics of information)
     1. 
@@ -154,8 +170,9 @@ be completely lost.
     cultural noise that prevents semiotic interpretations from being
     created/managed)
 
-- (the content overload mentioned above) makes it increasingly complicated to
-  understand/predict how information will be interpreted.
+- (the content overload mentioned above) makes it increasingly
+  complicated to understand/predict how information will be
+  interpreted.
   - further, the economics and inability to market information render
     it difficult for authorities or institutions to respond *to a
     culture that is evolving exponentially faster*
@@ -167,7 +184,8 @@ be completely lost.
 ###
 
 - for example, in the 50's when there were three TV channels,
-  - (1) how efficiently could we deliver a message to the american people?
+  - (1) how efficiently could we deliver a message to the american
+    people?
   - (2) how confidently could we be that they recognized the language of
     symbols used in that communication in some predictable way?
   - for the first issue, there are answers that have already been
@@ -669,6 +687,21 @@ our policy and convince us to tear ourselves apart.
 
 part two:
 ===============
+
+- (Our shared fabric for (communication) is shedding its
+  physicality, (its discrete quality), and finally its temporality,
+  congealing into ...) 
+  - illusion of separation
+
+As limits on communication (converge) towards their
+asymptotic ideals, information self-replicates (with evolutionary
+dynamics) until it approaches aphysical ... 
+
+- Information becomes free of physical constraint.
+- it's notion of having originated in a location, being bound to
+  location(s), etc begins to melt away.
+- (each instantiation of a specific piece of information (connections)
+  to physical instantiations gradually lose relevance.)
 
 
 # Metaphysical Precipitation

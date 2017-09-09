@@ -18,6 +18,8 @@ excerpt: ""
   - old ideas that were more difficult to understand become visible
     and undeniable
 
+- vvv need to hurry this up
+
 ### What Is The Speed of Thought Today?
 
 Impulses between neurons can travel over 100 meters per second. These
@@ -48,10 +50,11 @@ more.
 
 Macroscopically, technology's effect on information diffusion produced
 viral sociocultural transformation, often with political or economic
-consequences. Writing was developed once and never forgotten. It
-gradually caused religion (to become locked in place). The printing
+consequences. Writing was developed once and never forgotten.
+Religious systems petrified on exposure to clay tablets, gradually
+locking these ephemeral systems of thought in place. The printing
 press democratized writing, effectively seizing it from the priest
-class by undermining the economics enabled tight control).
+class by undermining the economics that enabled tight control.
 
 Each major innovation opened a new movement in our impressionistic
 arrangement of cross-cultural collaboration. Each led to its own
@@ -65,33 +68,44 @@ increasingly singular zenith. Our (understanding) of the
 (completed) by dissecting the fundamentals of communication and
 information.
 
-The beginning of the 21st century has seen humanity blossom into a
+#### The beginning of the end for the illusion of separation?
 
-- if intelligent life enables the universe to become aware of itself,
-  this moment symbolically represents humanity's awareness of itself
-  reaching (maturity)
-  - (it's like a plateau of human development)
+Without intelligent life, the universe might never manifest awareness
+of itself. Humanity has reached a transitionary period where
+communication networks allow our ideas to pollinate maximally. This (
+moment) symbolically represents humanity's awareness of ourselves
+(reaching a kind of fullness) as it ripens. Our understanding of
+ourselves reaches a state of (totality or completeness) to a degree of
+(personal) significance, the magnitude of which we may only ever
+witness once.
 
-- paradoxically, that which enables our understanding and total
-  self-awareness may lead towards a true (paradigm shift).
-  - it is paramount that we understand how
-    - the totality of
-    - (tech/networking/etc)
-    - completely changes everything
-  - it is also paramount that we retain our human identity and
-    capacity for technology-independence, in spite of never needing
-    either
 
-- the beauty that we see is what we should have been able to see all
-  along. if we let it distract us, we will find ourselves caught off
-  guard.
-  - we think we understand, ... , but we don't
+Paradoxically, (that which) enables our understanding and total
+self-awareness lead to paradigm shifts in the mechanics and dynamics
+of information that can very easily create instability. (rewrite)
+
+- the beauty that we will see is what we should have been able to see
+  all along. of course, we should appreciate it, but if we let it
+  distract us, we will find ourselves caught off guard.
+
+  - the capacity for instability means that we have to work incredibly
+    hard against (essentially game theory).
+    - during this transitionary period, we will all have our own
+      understanding of how the world has changed. there are
+      opportunistic tactics that exploit the (novel) paradigms of
+      information mechanics & dynamics, so almost everyone will be
+      caught off guard in some way or another.
+
+  - what could be exploited?
+    - amplification of information may spiral out of control (or be
+      controlled via AI and thus inaccessible)
     - information economics: scarce information becomes rare
     - major network outages result in intensely inverted circumstances
       - e.g. information economics are suddenly inverted for millions
         of people who may have otherwise never experienced pre
         21st-century life
-    - amplification of information may be out of our control
+
+
 
 - open systems vs closed systems
   - the mechanics and dynamics of information are fundamentally
@@ -134,11 +148,14 @@ The beginning of the 21st century has seen humanity blossom into a
 
 
 
-
+###
 
 - Here, the narrow spectrum of available info fluctuated perpetually.
+  - transition into brief reiteration on information economics before
+    the printing press..
 
-Prior to the press, all written records were copied manually. 
+
+Prior to the press, all written records were copied manually.
 Accumulation of writing was roughly bounded by the literate
 population, a kind of abstract membrane whose size loosely correlated
 to a population's permeability to written records. Copies more
@@ -147,15 +164,12 @@ information. If the work wasn't financed by the church or state, the
 information's time-to-live drastically plummeted, which parallel's the
 IP Protocol's TTL value. If there were no written records, reflections
 of the information only persisted if they were retransmitted faster
-than they decayed. If supply increased and demand stayed high,
+than they decayed. If supply increased and demand stayed high, ...
 
+.. it would be retransmitted
 
-it would be
-retransmitted
-
-was only remembered if
-it was prioritized enough to establish consensus among the
-people. (rw)
+was only remembered if it was prioritized enough to establish
+consensus among the people. (rw)
   - in the dark ages, information deemed undesirable was often
     punished by death.
 
@@ -169,9 +183,9 @@ alarm.
 
 - The speed of information is just one quantifiable social metric
   whose (momentary scale) led to a profound effect on human history.
-  - (succinctly describe other metrics at a high level, that were easily
-    observable by people throughout history, whose trends could be
-    anticipated)
+  - (succinctly describe other metrics at a high level, that were
+    easily observable by people throughout history, whose trends could
+    be anticipated)
   - distribution of information
   - spectrum of available information
   - value of information
@@ -182,10 +196,10 @@ alarm.
     physically/virtually connected social networks
 
 
-- Other quantifiable metrics of human interaction exhibit similar trends
-- There are other quantifiable metrics of human interaction that exhibit
-  similarly (fascinating) dynamics.
-
+- Other quantifiable metrics of human interaction exhibit similar
+  trends
+- There are other quantifiable metrics of human interaction that
+  exhibit similarly (fascinating) dynamics.
 
 Social physics models social behavior
 
