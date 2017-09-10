@@ -11,6 +11,11 @@ excerpt: ""
 - title?
 
 
+- [the encyclopedia of human thermodynamics - HMOL](http://www.eoht.info/)
+  - pretty much the most comprehensive source on social physics and
+    everything related it it. it's really comprehensive. it's also one
+    of the only sites that covers social physics
+
 #### concepts that are difficult to succinctly reference:
 
   - social physics:
@@ -29,7 +34,7 @@ excerpt: ""
     - is a distinct term appropriate? they are idealized as particles
       that exert influence on information systems
 
-
+####
 
 - information physics: does it merit its own "thing" ?
   - social physics overlaps heavily with information physics
@@ -45,14 +50,25 @@ excerpt: ""
 #### structure of series:
 
   - (part one: social physics)
-    1. overview of basic concepts of social physics, along with
+    1. intro:
+       - speed of thought
+       - why understanding the implications of upcoming sociophysical
+         paradigm shifts are so important for us
+         - what changes? why? how does this counter what we expect?
+    2. overview of sociophysical aspects of information transmission
+       through history
+       - writing, printing press
+       - describe information economics and how the medium of
+         transmission affects supply/demand
+       - lightly touch on sociophysical mechanics
+    3. overview of basic concepts of social physics, along with
        everyday examples
        - the most important conclusions from understanding social
          physics
        - how telecom/internet changes social physics
-    2. definition of power as the potential to trigger flux
+    4. definition of power as the potential to trigger flux
       - mechanics of power
-    3. physical analogies
+    5. physical analogies
       - people as particles: temperature, density, state, etc.
       - speed of sound
       - phase changes
@@ -66,14 +82,36 @@ excerpt: ""
     2. start with warning on how tech leads to a breakdown in how
       people and autonomous agents understand cause & effect
 
-- thesis for part two:
+
+
+- thesis for part three:
   - complexity of information dynamics in a converged world leads to a
     breakdown in causality
 
 
-- (explain the above)
+
+###
 
 
+- Social physics is not scientific.
+  - (when is it not scientific?!)
+    - it's hard to distinguish S/Phys & social media data science
+  - Any formulation is theoretic at best, since most applications are
+    incomputable and most quantities are not measurable.
+  - It's hard to draw a line between social physics and data science
+    via social media analytics,
+    - social data science and machine learning is proficient, assuming
+      optimal UI design, optimally regular usage, etc.
+    - however, it breaks down with adversarial signals.
+    - many of the problems we experienced in 2016 can be solved, when
+      you can resolve identity with greater confidence.
+  - social media is not the problem. it is partly how people are
+    learning to use social media, coupled with changes in
+    phenom. implications of sociophysics
+
+
+
+###
 
 
 - emphasize that the only way to predict social behavior in todays

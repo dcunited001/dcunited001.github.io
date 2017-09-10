@@ -18,21 +18,18 @@ excerpt: ""
   - old ideas that were more difficult to understand become visible
     and undeniable
 
-- vvv need to hurry this up
-
 ### What Is The Speed of Thought Today?
 
 Impulses between neurons can travel over 100 meters per second. These
 impulses are designed to be more rapid for motor neurons.
 
-(It is even more fascinating) to consider the speed at which a thought
-can travel across the world and how has it changed over time. After
-all, our individual thoughts lead to words and actions, which ripple
-through social networks both natural and virtual. Throughout history,
-this velocity of information has steadily increased until it exploded
-in the 19th century with the telegraph. (The development of telecom
-shed the physical constraints and (multiplied) the virtual channels
-available for communication.)
+Consider the speed at which a thought can travel across the world and
+how has it changed over time. After all, our individual thoughts lead
+to words and actions, which ripple through social networks both
+natural and virtual. Throughout history, this velocity of information
+has steadily increased until it exploded in the 19th century with the
+telegraph. (The development of telecom shed the physical constraints
+and (multiplied) the virtual channels available for communication.)
 
 Wherever there is supply and demand, you'll find economic dynamics and
 information is no exception. While no one in Germany counted all the
@@ -68,6 +65,7 @@ increasingly singular zenith. Our (understanding) of the
 (completed) by dissecting the fundamentals of communication and
 information.
 
+
 #### The beginning of the end for the illusion of separation?
 
 Without intelligent life, the universe might never manifest awareness
@@ -79,22 +77,91 @@ ourselves reaches a state of (totality or completeness) to a degree of
 (personal) significance, the magnitude of which we may only ever
 witness once.
 
+The same confluence of phenomena to usher in this eudaimonic
+actualization of being humanity lead to tectonic shifts in
+sociophysical mechanics. While the set of rules for interaction
+remains unchanged, the observed phenomena and dynamics (diverge).
+When the Big Bang transitioned through inflation, the laws of physics
+dominating interactions remained constant. The rules didn't change,
+but unique dynamics emerged because the specifics of the system caused
+various rules to be more significant, resulting in some behaviors that
+were never seen again.
 
-Paradoxically, (that which) enables our understanding and total
-self-awareness lead to paradigm shifts in the mechanics and dynamics
-of information that can very easily create instability. (rewrite)
+> quick note on scientific rigor of social physics...
 
-- the beauty that we will see is what we should have been able to see
-  all along. of course, we should appreciate it, but if we let it
-  distract us, we will find ourselves caught off guard.
+So, there will be paradigm shifts in how sociophysical mechanics weave
+together to influence interaction and how people think about it.
+Population density and broadband access profoundly impact how these
+shifts unfold. It's not clear which is (worse): shifts that seem
+seismic or those we barely notice shifting beneath our feet.
 
-  - the capacity for instability means that we have to work incredibly
-    hard against (essentially game theory).
-    - during this transitionary period, we will all have our own
-      understanding of how the world has changed. there are
-      opportunistic tactics that exploit the (novel) paradigms of
-      information mechanics & dynamics, so almost everyone will be
-      caught off guard in some way or another.
+We are seeing some of these effects now. For example, potential
+election manipulation and -- holy shit -- did anyone log into social
+media in 2016? Information amplification is rampant.  Manipulation of
+information is as old as predator and prey, except that the fabric of
+information and communication is shifting. It's like a space that's
+bending and folding into itself. Most of us still see everything as
+though we are within that space, but some of us know how to use it to.
+
+
+#### The other side of the S-Curve
+
+There are reasons that an S-Curve emerges where it does. It opens with
+exponential growth and, like an unfortunate perfectionist, all it
+knows is overachievement and blue skies. Then, suddenly, this curve's
+distribution hit's a wall: it's a negative externality. Yet, since
+it's never known life outside the petri dish, this curve decides to
+wish upon agar. Unfortunately, the s-curve's fate is sealed and the
+system is just as closed as the petri dish.
+
+Systems can be open, closed or various combinations of both. Each has
+its own idiosyncracies. A system that will end as closed often looks
+just like an open system that might never be closed. If you aren't
+aware of what caused the system to be closed, you would expect trends
+to continue indefinitely.
+
+Most systems can be viewed as open or closed. If you try to view the
+selection of public stocks as open, then you start with a good index
+and familiarize its stocks one by one, gradually learning to trade. If
+you instead choose to view the selection of stocks as closed, then,
+like Warren Buffet, you might grab a copy of Moody's and memorize the
+avaiable stocks, one by one. When you model available the wider
+financial markets as a closed system, then every trade effectively
+results in an equal and opposite shift in value from one asset to
+another. This is several conditions hold: that no money enters or
+leaves the system, amoung others. Closed systems allow you to make
+reasonable inferences about preservation aggregate quantity.
+
+### Why does it matter?
+
+The noosphere, our shared information ecosystem, combines the traits
+of open in closed along various measures. It's both open and closed in
+a very complicated way. The transition from open to closed leads to
+divergent phenomenological implications. When we notice that
+sociophysical mechanics (appear to change dramatically), it is often
+because our shared system of social interaction is more or less
+constrained by some factors, which are functionally coupled to various
+measures of "system boundedness".
+
+While communication networks are converging, what happens is that
+people send and receive radically more information. In this respect,
+system is bounded not by how fast data can be transmitted, but by how
+much data people have have to transmit. In this simplication, the
+system fluctuates: telecom expands, people buy new phones with new
+apps, they send gifs, telecom removes bandwidth limits, then people
+figure out they can send videos.
+
+
+
+- Which number is higher? Seven billion? Or Infinity? Is seven billion
+  even comparable?
+
+
+
+![probably include a picture of an s-curve]
+
+  - dominated interactions
+  - (permuted) sociophysical mechanics
 
   - what could be exploited?
     - amplification of information may spiral out of control (or be
@@ -128,7 +195,24 @@ of information that can very easily create instability. (rewrite)
         who's ever read a book read the same one: the Bible
       - this seems subtle, but has profound implications, discussed in
         the second section
-    - 
+
+
+- Paradoxically, (that which) enables our understanding total
+  self-awareness leads to paradigm shifts in the mechanics and
+  dynamics of information that can very easily create
+  instability. (rewrite)
+  - the beauty that we will see is what we should have been able to
+    see all along. of course, we should appreciate it, but if we let
+    it distract us, we will find ourselves caught off guard.
+
+  - the capacity for instability means that we have to work incredibly
+    hard against (essentially game theory).
+    - during this transitionary period, we will all have our own
+      understanding of how the world has changed. there are
+      opportunistic tactics that exploit the (novel) paradigms of
+      information mechanics & dynamics, so almost everyone will be
+      caught off guard in some way or another.
+
 
 - we need to meditate on how those fundamentals of
   communication/information, in the context of convergence/etc and
@@ -146,6 +230,33 @@ of information that can very easily create instability. (rewrite)
     will be ourselves.
 
 
+
+### 
+
+- sociophysical communication physically limits information flux
+  - in ancient times, information flux was mostly limited to physical
+    contact.
+  - as time progressed, population growth itself lead to more
+    information and more information flux. technology advances further
+    augmented this trend for ever increasing information flux.
+    - writing established information permanence.
+    - navigation & ship-building increased the maximum range for
+      information to spread, quickly
+    - economics incentivized management of information to predict
+      trade and resource trends.
+  - ancient people could assume that as population increased, so did
+    the likelihood of new technological innovations
+    - they could also assume that the network effect ...
+    - further, population density in itself also changes the way that
+      information diffuses geographically.
+      - (reynold's number)
+      - similar to how the speed of sound changes in varying density,
+        the average speed at which an idea or piece of information
+        travels changes based on the density of population. the
+        specifics of the information can also affect how quickly it
+        will be propagated.
+      - (reemphasize why the physics metaphors are so applicable for
+        social physics.)
 
 
 ###
@@ -207,33 +318,6 @@ Social physics models social behavior
   - particularly on an analogy of the speed of sound and social
     xmission, as population density grows
 
-### 
-
-- sociophysical communication physically limits information flux
-  - in ancient times, information flux was mostly limited to physical
-    contact.
-  - as time progressed, population growth itself lead to more
-    information and more information flux. technology advances further
-    augmented this trend for ever increasing information flux.
-    - writing established information permanence.
-    - navigation & ship-building increased the maximum range for
-      information to spread, quickly
-    - economics incentivized management of information to predict
-      trade and resource trends.
-  - ancient people could assume that as population increased, so did
-    the likelihood of new technological innovations
-    - they could also assume that the network effect ...
-    - further, population density in itself also changes the way that
-      information diffuses geographically.
-      - (reynold's number)
-      - similar to how the speed of sound changes in varying density,
-        the average speed at which an idea or piece of information
-        travels changes based on the density of population. the
-        specifics of the information can also affect how quickly it
-        will be propagated.
-      - (reemphasize why the physics metaphors are so applicable for
-        social physics.)
-
 ### Single Most Important Conclusion from Learning Social Physics
 
 - the single most important conclusion I can draw from a mathematical
@@ -248,16 +332,14 @@ Social physics models social behavior
   - particles can only really do one thing & can only think one thing
     at a time, which bounds how quickly state changes can occur
 
-
 # (Social Physics Overview)
 
 Information has a life of its own and nowhere does this become more
 clear than in social physics, which is a mathematical framework for
-modeling idealized social behavior with physical constraints. It's
-mind blowing, but the bad news is that almost every problem is
-incomputable. Never fear! The human brain is practically a quantum
-machine-learning monster and incredibly useful insights can be
-extrapolated from a philosophic exploration of social physics.
+modeling idealized social behavior with physical constraints. (It's
+mind blowing, but the bad news is) that almost every problem is
+incomputable. Incredibly useful insights can be extrapolated from a
+philosophic exploration of social physics.
 
 Social physics was originally developed in the 19th century (links) to
 explain how the behavior of players in simplified games were affected
@@ -265,16 +347,13 @@ by the imposition of physical (rules/constraints). It originally
 borrowed heavily from classical mechanics and now overlaps with
 quantum mechanics, since non-deterministic games are loaded with
 probabilistic mechanics. Social physics can help us understand team
-sports,
-[Swarm Behavior](https://en.wikipedia.org/wiki/Swarm_behaviour), the
+sports, advanced
+[swarm behavior](https://en.wikipedia.org/wiki/Swarm_behaviour), the
 geometric mechanics of battle tactics, cocktail parties and the finer
 mysteries of feng shui. Each of those activities (determined by the
 physics of the space) space and players in a social game with rules,
 though with feng shui, the game and players may be less clearly
 defined.
-
-(technically, swarm behavior doesn't need ideas from social physics,
-but becomes much more interesting with them)
 
 If you begin modeling games where players have their own sets of
 information, social physics becomes irrevocably and hopelessly
