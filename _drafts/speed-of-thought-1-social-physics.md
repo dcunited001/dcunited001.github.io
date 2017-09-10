@@ -143,15 +143,59 @@ because our shared system of social interaction is more or less
 constrained by some factors, which are functionally coupled to various
 measures of "system boundedness".
 
-While communication networks are converging, what happens is that
-people send and receive radically more information. In this respect,
-system is bounded not by how fast data can be transmitted, but by how
-much data people have have to transmit. In this simplication, the
-system fluctuates: telecom expands, people buy new phones with new
-apps, they send gifs, telecom removes bandwidth limits, then people
-figure out they can send videos.
+While communication networks are converging, (...) people send and
+receive radically more information. In this respect, system is bounded
+not by how fast data can be transmitted, but by how much data people
+have have to transmit. In this oversimplication, the system
+fluctuates: telecom expands, people buy new phones with new apps, they
+send gifs, telecom removes bandwidth limits, then people figure out
+they can send videos.
 
+When your system is an infinitely dimensional, convoluted non-linear
+sociophysical system, it reacts with an incomprehensible set of
+dynamics that are impossible to dilineate. There are critical
+categories of metrics that help simplify the system. Around clusters
+of values for these groups of metrics, there are boundaries. Stay in
+the boundary, the system is more stable. Move outside of a cluster's
+boundary region, the system will begin to transition chaotically or,
+if you're lucky, predictably.
 
+If you imagine a group of metrics including information velocity and
+social graph connectedness as forming a category, then as long as the
+velocity nor the connectedness skyrockets, the system prefers not to
+undergo transformations that it has never exhibited. This is just one
+of the few examples that could be put into words. Obviously,
+technology and highly connected networks (are promising.)
+
+- information converges differently at various scales
+  - or in some cases becomes non-convergent
+    - as one zooms out more, there is little apparent difference in
+        the range/variety/distribution of information
+      - anscombe paradox for the distribution of information at
+        in various sections of a social graph
+      - this isn't a problem, just a peculiarity. it's the opposite of
+        the 15th century society where almost every single person
+        who's ever read a book read the same one: the Bible
+      - this seems subtle, but has profound implications, discussed in
+        the second section
+
+- open systems vs closed systems
+  - the mechanics and dynamics of information are fundamentally
+    different in a closed system
+  - the system becomes "closed" in various ways:
+    - there is vastly more information produced than could ever be
+      consumed by humans bc population growth and automated data
+      generation
+    - we reach a knowledge plateau (or singularity)
+  - this affects information mechanics/dynamics how?
+    - information economics becomes ~demand-side~
+
+- memeification
+
+- 
+  - and relevant to metamodernism
+    - people are trying to stand out more and more.
+    - 
 
 - Which number is higher? Seven billion? Or Infinity? Is seven billion
   even comparable?
@@ -172,29 +216,6 @@ figure out they can send videos.
         of people who may have otherwise never experienced pre
         21st-century life
 
-
-
-- open systems vs closed systems
-  - the mechanics and dynamics of information are fundamentally
-    different in a closed system
-  - the system becomes "closed" in various ways:
-    - there is vastly more information produced than could ever be
-      consumed by humans bc population growth and automated data
-      generation
-    - we reach a knowledge plateau (or singularity)
-  - this affects information mechanics/dynamics how?
-    - information economics becomes ~demand-side~
-    - information converges differently at various scales
-      - or in some cases becomes non-convergent
-      - as one zooms out more, there is little apparent difference in
-        the range/variety/distribution of information
-      - anscombe paradox for the distribution of information at
-        in various sections of a social graph
-      - this isn't a problem, just a peculiarity. it's the opposite of
-        the 15th century society where almost every single person
-        who's ever read a book read the same one: the Bible
-      - this seems subtle, but has profound implications, discussed in
-        the second section
 
 
 - Paradoxically, (that which) enables our understanding total
