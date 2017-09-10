@@ -16,6 +16,16 @@ excerpt: ""
     everything related it it. it's really comprehensive. it's also one
     of the only sites that covers social physics
 
+#### alternative phrases
+
+- communication networks:
+- information networks:
+- convergence:
+  - consensus
+  - RAFT algorithm and/or PAXOS, but sometimes byzantines generals
+    because why not constantinople
+
+
 #### concepts that are difficult to succinctly reference:
 
   - social physics:
@@ -34,6 +44,7 @@ excerpt: ""
     - is a distinct term appropriate? they are idealized as particles
       that exert influence on information systems
 
+
 ####
 
 - information physics: does it merit its own "thing" ?
@@ -49,7 +60,18 @@ excerpt: ""
 
 #### structure of series:
 
-  - (part one: social physics)
+  - content from other drafts?
+    - create/push branch with a copy of the current parapets drafts in
+      tact before i cannabalize it
+    - parapets part two:
+      - section on hip hop
+      - section on data science and black lives matter?
+    - parapets part 4:
+      - a ton about social media & algorithms
+      - part 3 is mostly not relevant
+    - peace-power-prosperity (possibly a few valuable snippets)
+
+  - (part one: )
     1. intro:
        - speed of thought
        - why understanding the implications of upcoming sociophysical
@@ -57,10 +79,16 @@ excerpt: ""
          - what changes? why? how does this counter what we expect?
     2. overview of sociophysical aspects of information transmission
        through history
+       - lightly touch on sociophysical mechanics
+         - lol too late for that
        - writing, printing press
        - describe information economics and how the medium of
          transmission affects supply/demand
-       - lightly touch on sociophysical mechanics
+       
+       
+
+  - (part two: social physics)
+    1. (reuse segment from parapet-2 on thermopylae, etc as intro?)
     3. overview of basic concepts of social physics, along with
        everyday examples
        - the most important conclusions from understanding social
@@ -74,14 +102,22 @@ excerpt: ""
       - phase changes
       - configurational entropy & conformational entropy
 
-  - (part two: geometry and mechanics of information)
-    1. 
+  - (part three: geometry and mechanics of information)
+    1.
+    - the structure of information (semiotics, linguistics, etc)
+    - "mechanical" aspects of information
+      - the language it's written might cause it to move in different
+        ways
+      - the specific ideas it concerns might similarly determine
+        "motion"
+     - the information warfare content i outlined after writing the fb
+       post
 
   - (part three)
     1. metaphysical precipitation
     2. start with warning on how tech leads to a breakdown in how
       people and autonomous agents understand cause & effect
-
+    - other, higher level philosophical insights
 
 
 - thesis for part three:

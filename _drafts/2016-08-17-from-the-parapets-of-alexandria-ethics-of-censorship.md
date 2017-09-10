@@ -171,14 +171,12 @@ That's pretty scary, right? 怖いね？
 - this paradox:
   -
 
-    it becomes easier to understand
-    what information someone has accessed, that "free" exchange leads
-    to
+    it becomes easier to understand what information someone has
+    accessed, that "free" exchange leads to
 
 
-  because every
-    web request leaves behind logs & metadata on the client, server
-    and the routers in between.
+  because every web request leaves behind logs & metadata on the
+    client, server and the routers in between.
 
     - increased surveillance
       - and it seems to be used quite often for HUMINT!!

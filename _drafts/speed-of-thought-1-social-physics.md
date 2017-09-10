@@ -65,7 +65,6 @@ increasingly singular zenith. Our (understanding) of the
 (completed) by dissecting the fundamentals of communication and
 information.
 
-
 #### The beginning of the end for the illusion of separation?
 
 Without intelligent life, the universe might never manifest awareness
@@ -102,7 +101,6 @@ information is as old as predator and prey, except that the fabric of
 information and communication is shifting. It's like a space that's
 bending and folding into itself. Most of us still see everything as
 though we are within that space, but some of us know how to use it to.
-
 
 #### The other side of the S-Curve
 
@@ -190,9 +188,6 @@ technology and highly connected networks (are promising.)
   - this affects information mechanics/dynamics how?
     - information economics becomes ~demand-side~
 
-- memeification
-
-- 
   - and relevant to metamodernism
     - people are trying to stand out more and more.
     - 
@@ -207,6 +202,7 @@ technology and highly connected networks (are promising.)
   - dominated interactions
   - (permuted) sociophysical mechanics
 
+- (@@@@@@)
   - what could be exploited?
     - amplification of information may spiral out of control (or be
       controlled via AI and thus inaccessible)
@@ -216,7 +212,91 @@ technology and highly connected networks (are promising.)
         of people who may have otherwise never experienced pre
         21st-century life
 
+    - distributed attempts to influence newsfeed rankings (this could
+      be incidental or part of an attack) result in isolation
+      - goals could be to isolate groups or specific users by
+        proactively running content and encouraging everyone to react
+        to it, then manipulating IRL, social media and alogirthm
+        response
+        - this might create isolated subnetworks of users (but i don't
+          know enought about FB newsfeed)
+        - can FB ever know that, for one user, they are receiving a
+          representative experience of the FB platform via the
+          algorithms? how do they score this?
+        - for more info on, clip from draft:
+          from-the-parapets-of-alexandria.md (part 4)
+        - encouraging people you influence to downrank posts/pages/etc
+          from specific people, so that their rank gets dinged
+          - this is not so different from rallying people on a page to
+            troll someone
+            - coordinated harassment appears to happen on social
+              media, though what i've seen is fairly light
 
+  - other things that can go wrong, but not exploited per se
+    - artificial amplification of information crowds out real signals.
+      - since being proactive with content, signaling, helps structure
+        it so that it provides better insights to marketers (etc.)
+      - artificial dampening of signals has a similar effect
+        - if/when some topic is censored, this affects other tools
+          that are built on top of tech (i.e. NSA surveillance, which
+          *could* miss signals if censorship artificiall dampens them)
+        - or it's presentation on social media is tailored via
+          newsfeed algorithms that turn down the volume on unfavorable
+          presentations of that info
+    - adversarialy structured interactions can feed into themselves
+      (like automated trading bots)
+
+    - adversarialy structured information produces hard-to-predict
+      consequences in algorithms
+      - if you want to dampen a topic, you can structure news reports
+        which are similar and compete for search ranking for current
+        results
+      - so, there is some semantic overlap that causes algorithms to
+        not function properly
+
+  - long-term dynamics:
+    - "censorship's effect on cultural development" from parapets-part-2
+      - in this context, i'd rather stay away from "censorship" at
+        least in name
+      - how does the supply and variety of information in a region
+        affect its development?
+    - similarly, prolonged isolation's effect on cultural/economic
+      development in a nation.
+      - so if a nation is much less connected to the rest of the
+        world,
+
+  - how to make these things better?
+    - (1) more emphasis on strong notions of identity
+      - above and beyond just "verified users get slight increase in
+        ranking"
+    - (2) network analysis on pages/accounts with similarity in
+      access/management patterns
+      - there has to be a human somewhere and humans can only do one
+        thing at one time.
+      - if pages/groups are being accessed by the same accounts froma
+        myriad of IP addresses or geolocations, that's suspect. (these
+        things are already done)
+      - tighter restraints on some API interactions
+        - most of these things suck for the common internet "power
+          user" today
+     - (3) newsfeed algorithms should make decisions that are
+       orthogonal or anti-parallel to the optimal decisions
+       - that is, they should make the wrong decisions sometimes, but
+         they shouldn't be too horribly wrong
+       - newsfeed should also try to harmonize it's results.
+         - see draft: parapets-4
+     - (4) newsfeed should maybe be more interactive to get more
+       confident readings on what you want to see at that moment. like
+       choose-your-own-adventure newsfeed
+       - yes, you can have friend lists, or smart feeds, etc. that's
+         not what i mean.
+       - this is just a high-level pipe-dream idea, but if you change
+         the infinite scrolling to something that "scroll" into
+         multiple topic directions
+         - so it's still as simple as scrolling down infinitely, but
+           the UI action subtly presents choice
+
+- (@@@@@@)
 
 - Paradoxically, (that which) enables our understanding total
   self-awareness leads to paradigm shifts in the mechanics and
@@ -234,8 +314,7 @@ technology and highly connected networks (are promising.)
       information mechanics & dynamics, so almost everyone will be
       caught off guard in some way or another.
 
-
-- we need to meditate on how those fundamentals of
+- we need to focus on how those fundamentals of
   communication/information, in the context of convergence/etc and
   exponential change, lead to ... (drastically different conclusions
   on what our purpose is and what our challenges are)
@@ -252,7 +331,8 @@ technology and highly connected networks (are promising.)
 
 
 
-### 
+
+###
 
 - sociophysical communication physically limits information flux
   - in ancient times, information flux was mostly limited to physical
@@ -326,6 +406,9 @@ alarm.
   constraints...
   - cite the social physics paper on studying differences in
     physically/virtually connected social networks
+
+
+
 
 
 - Other quantifiable metrics of human interaction exhibit similar

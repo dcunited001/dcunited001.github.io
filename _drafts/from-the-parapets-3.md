@@ -211,7 +211,6 @@ Well, the other major difference is that
       possibly been that fucking stupid.
       - maybe a lot of this content should be moved (it should)
 
-
 The left mostly controls Silicon Valley, though they are fairly
 impartial with regard to technological implementation. However, nearly
 all of the communication out there has shifted towards social media
@@ -225,8 +224,7 @@ reason, that's kind of a big deal.
   important
   - eventually transition into describing the epistemology of
     censorship
--
-
+- 
 
 # Epistemology of Censorship
 

@@ -107,9 +107,9 @@ excerpt: ""
 intro:
 
 America and the industrialized world now communicate almost completely
-using digitized media.  Text messages, emails, VOIP, video: each are
-digital, each carries metadata that can be collected and
-datamined. This changes the nature of communication. It means that, if
+using digitized media. Text messages, emails, VOIP, video: each are
+digital, each carries metadata that can be collected and datamined.
+This changes the nature of communication. It means that, if
 effectively all socialization occurs over digitized media and with
 common digitized protocols, then any party who controls that shared
 fabric of communication has immense power. They can change what you
@@ -121,7 +121,6 @@ deploy exploits like this only when it's safe to assume you wouldn't
 communicate about it: like when your GPS signals aren't in the same
 location. And if they simply mute the notification -- oops it must be
 a bug or something.
-
 
 ================================================================
 
@@ -318,7 +317,7 @@ unsubscribing has implicit negative feedback on newsfeed algorithms:
 - not only do you hide that person from your view, but the lack of
   interaction encourages
 
-if people are encouraged to unsubscribe on a political basis
+- if people are encouraged to unsubscribe on a political basis
 - that can create isolated communities of people
 - and bc of the feedback effect from unsubscribing
   - this isolation is more pronounced
@@ -339,7 +338,6 @@ sometimes they'll get an incredibly response
 there's no real way to get around this censorship
 - you can register accounts with new email addresses
   - but then your new accounts have no
-
 
 
 The algorithms used for this are susceptible to passive and active
@@ -374,6 +372,8 @@ HAPPENING. So you continue wasting your time...
     government agencies participating in it.
   - there must be some "rules"
   - those rules are based on "costs"
+
+
 
 - economic cost (the blowback of being caught on a massive scale)
   - for a second here, forget about the economic cost of snowden's
@@ -630,3 +630,5 @@ above affect the model of censorship outlined above.
 -
   [shadowbanning](http://newstarget.com/2016-07-29-bypass-twitter-censorship-by-using-alternative-information-sources-fetch-news-and-goodgopher-com.html)
   - so apparently, those in charge of censorship don't actually care.
+
+
