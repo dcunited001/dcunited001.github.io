@@ -53,6 +53,18 @@ excerpt: ""
   - ....
 
 
+
+#### Peak Post-Modernism
+
+![peak post modernism picture]()
+
+- from the definition of the noosphere, define a spectral
+  understanding of information (spectrum of information)
+  - meta-modernism
+    - people are trying to stand out more and more.
+    - cyclic interplay b/w post/modernism
+
+
 #### structure of series:
 
   - content from other drafts?
@@ -66,20 +78,13 @@ excerpt: ""
       - part 3 is mostly not relevant
     - peace-power-prosperity (possibly a few valuable snippets)
 
-  - (part one: )
-    1. intro:
-       - speed of thought
-       - why understanding the implications of upcoming sociophysical
-         paradigm shifts are so important for us
-         - what changes? why? how does this counter what we expect?
-    2. overview of sociophysical aspects of information transmission
-       through history
-       - lightly touch on sociophysical mechanics
-         - lol too late for that
-       - writing, printing press
-       - describe information economics and how the medium of
-         transmission affects supply/demand
 
+- describe information economics and how the medium of transmission
+  affects supply/demand
+
+
+- references to a grimoire for an analogy to old ideas becoming more
+  visible
 
   - (part two: social physics)
     1. (reuse segment from parapet-2 on thermopylae, etc as intro?)
@@ -117,7 +122,7 @@ excerpt: ""
 - thesis for part four:
   - complexity of information dynamics in a converged world leads to a
     breakdown in causality
-
+  - use imagery from that anime on the anisotropic
 
 
 ###
@@ -210,49 +215,7 @@ mentioned my articles relevant to info warfare:
 
 ...
 
-#### [Death of Creativity](http://te.xel.io/posts/2016-05-17-the-death-of-creativity.html)
-
-here's an essay on how the death of novelty/originality
-(i.e. creativity) leads to a complete connected, converged culture
-full of creative people who can't produce anything that is
-distinguishable. all cultural artifacts at that point will be
-essentially noise, where no artifacts develop a significant or
-marketable following among content producers or consumers.
-
-this is worrying because, from a perspective informed by semiotics and
-distribution/recognition of symbols, there are no IP's or new content
-that can cultivate a following, no matter how large the marketing
-budget. if content is king, content production tools are democratized
-and content is the only content most people can monetize, but
-fundamentally can *neither* be marketed affordably *nor* effectively,
-then all of it is meaningless and everything is noise.
-
-because of this and because our culture, language and society depends
-so heavily on patterns of recognizable symbols for social engineering,
-pattern languages and cultural programming, this ends in disaster
-because each of these three things become much less capable of
-functioning without semiotic recognition/distribution of symbols.
-
-### in summary
-
-the future is a desolate wasteland of cultural noise, full of cheap
-recombinations of the same shit that nobody recognizes. except Star
-Wars because Star Wars can afford a billion dollar budget. but nothing
-in this future is significant.
-
-what does that mean for information warfare? we are not ready for it
-at all. this creates a situation where a strong, powerful adversary
-can exert influence over networking/telecom/media/etc to close it
-down. it creates a situation where the dynamics, tactics and
-strategies of information warfare shift beneath our feet when people
-are so distracted by the social media circus they don't see it coming.
-
-best of all, bc of the shady Russian shit, LIBERALS FINALLY HAVE TO
-ACCEPT THAT FOREIGN INFLUENCE CAN INJECT INCREDIBLY DEMORALIZING
-INFLUENCES ON OUR SOCIETY. they can undermine our decisions, determine
-our policy and convince us to tear ourselves apart.
-
-
+#### [Death of Creativity](/posts/2016-05-17-the-death-of-creativity.html)
 
 
 part four:

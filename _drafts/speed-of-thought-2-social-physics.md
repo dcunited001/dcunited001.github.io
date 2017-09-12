@@ -15,38 +15,36 @@ excerpt: ""
     of the only sites that covers social physics
 
 
-
-- sociophysical communication physically limits information flux
-  - in ancient times, information flux was mostly limited to physical
-    contact.
-  - as time progressed, population growth itself lead to more
-    information and more information flux. technology advances
-    augmented this trend further for ever increasing information flux.
-    - writing established information permanence.
-    - navigation & ship-building increased the maximum range for
-      information to spread, quickly
-    - economics incentivized management of information to predict
-      trade and resource trends.
-  - ancient people could assume that as population increased, so did
-    the likelihood of new technological innovations
-    - they could also assume that the network effect ...
-    - further, population density in itself also changes the way that
-      information diffuses geographically.
-      - (reynold's number)
-      - similar to how the speed of sound changes in varying density,
-        the average speed at which an idea or piece of information
-        travels changes based on the density of population. the
-        specifics of the information can also affect how quickly it
-        will be propagated.
-      - (reemphasize why the physics metaphors are so applicable for
-        social physics.)
-
-
 ###
+
+
+- population growth/movement was tightly coupled to economic
+  opportunity, which itself was coupled to population connectedness
+  (rewrite)
+  - Consider the human population distribution of 5,000 BC. At this
+    time, we had dispersed from Africa through the Middle East and
+    around the Black Sea to India, Europe, China, Indonesia and the
+    Americas. At that time, was there a region more connected than
+    others? The most connected region was the Middle East.
+    - This region had the shortest actual distance to the most number
+      of people and the largest social graph neighborhoods. At that
+      time, if you considered the neighborhood of people separated by
+      two or three degrees, that neighborhood would be largest by far
+      in the Middle East
+    - (how do i state the above to correct for variations in
+      population density)
+        - when people were more widely spread out, those with the
+          largest 2nd and 3rd degree networks exhibited major
+          advantages
+    - because of geography, the aggregate of trade ...
 
 - Here, the narrow spectrum of available info fluctuated perpetually.
   - transition into brief reiteration on information economics before
     the printing press..
+- If you physically limit access to the court, no one but nobles can
+  talk to the king.
+
+
 
 
 Prior to the press, all written records were copied manually.
@@ -93,6 +91,11 @@ alarm.
 <a name="who-loves-hip-hop" />
 
 ### [Who Loves Hip Hop?](#who-loves-hip-hop)
+
+- emphasize that the democratization of media creation tools, coupled
+  with access to broadcast mass communication led to cultural
+  transformation
+  - 
 
 *I do*. Hip Hop is a modern example of how the dissemination of
 information changed the lives of millions of people living in mostly
@@ -225,6 +228,100 @@ dynamics.
       social phenomena
 
 
+# Most Important Conclusions from Social Physics
+
+#### (1) decoherence of information/knowledge reduces... (ability to model the system)
+
+- the single most important conclusion I can draw from a mathematical
+  assessment of social physics is that the ability to make valid
+  assumptions on information/beliefs and the behaviors of nodes is
+  unparalleled
+  - if you cannot do these things, you cannot expect to predict
+    specific or general behavior and you cannot expect to extrapolate
+
+- religion
+
+- the inability to scalably model or to even ascertain pieces of
+  information, which are sometimes unindexable if no rigid schema can
+  be devised, means that the way in which information is handled in
+  these models becomes infinitely more important
+  - i.e. convergence and homogeneity of belief systems is required to
+    make *any* useful inferences and those aspects of the systems
+    which cause schematic divergence become problematic
+
+- this leads into a discussion of schematic complexity (no it doesn't
+  not yet)
+
+#### (2) Attention/Focus (does not permit Concurrency of action)
+
+- a second critical factor is the lack of multitasking:
+  - particles (at least people) can only really do one thing & can
+    only think one thing at a time, which bounds how quickly state
+    changes can occur
+    - this doesn't apply to automonous agents operating on virtual
+      channels, which are so far almost completely bound to aphysical
+      manisfestations
+  - similarly, people are bound to one place at a time
+
+#### (3) Social Isolation can be Measured
+
+- third: social isolation is quantifiable and almost always correlates
+  with power. more isolated, less empowered.
+  - isolated individuals are more susceptable to manipulation
+
+
+- social isolation can be measured, given some "normal" facebook
+  user's 2-degree graph of friends for some definition of normal
+  (casual but regular) social media usage
+  - filter the friends by strength of connection to indentify edges
+    sending and receiving inbound and outbound messages/interactions
+    - measure the degree of reciprication and the variety of people
+      forming the strongest recent connections
+    - filter out all connections which do not fit some minimum of
+      interaction threshold
+    - this sparsifies the graph, filtering a dense graph and leaving
+      only the most relevant connections
+  - from here, the person's isolation can be measured using spectral
+    graph theory
+    - this independence can be measured in graph theory with
+      kelman's transformation
+    - see spectral graph theory
+      [here](http://www.cs.elte.hu/~csiki/application_Kelmans.pdf),
+      [here](http://www.math.ucsd.edu/~mtait/k-independent.pdf)
+      - and [here](https://www.cs.elte.hu/math/phd_th/csiki.v2.pdf)
+      - the details of this math is over my head btw
+
+- this, of course, assumes the person is a "normal" facebook user,
+  where the relevant 1-degree and 2-degree connections in the friend
+  graph are all also "normal" users
+  - this high-level algorithm could also work with clustered types of
+    facebook users
+    - yet, the degree in variation in how people use applications to
+      communicate and their distribution of time/usage across multiple
+      applications makes clustering extremely difficult.
+    - at least, if a clustering algorithm is to enable the selection
+      of users which fit some basis with quantifyable variation and
+      some metric of confidence
+
+
+- over time, social isolation created some of the largest setbacks for
+  the african american community. this strongly limited social
+  mobility because african americans forged a disproportionate amount
+  of strong connections with influential people with social/financial
+  capital.
+
+- in a purely digital world, manipulation of social media algorithms
+  to exclude "undesirable" individuals to create disconnection among
+  groups of people, defined logically instead of by ethnicity.
+  - i don't mean this to be compared to segregation
+  - in a convergent social network that is increasingly less engaged
+    in "real" interactions and more engaged in "virtual" interactions,
+    where some interactions can be voluntarily or involuntarily
+    censored via SEO/Social Media manipulation, this means that entire
+    groups of people can become silenced or disenfranchised without
+    even knowing it.
+
+
 # The Definition of Power
 
 ### Power Can Be Defined as the Potential to Trigger Flux through the Social Network
@@ -265,14 +362,6 @@ dynamics.
       dimensional function in radically different ways
       - this often studied as the curse of dimensionality and it's
         implications in various areas of math diverge widely
-
-- the inability to scalably model or to even ascertain pieces of
-  information, which are sometimes unindexable if no rigid schema can
-  be devised, means that the way in which information is handled in
-  these models becomes infinitely more important
-  - i.e. convergence and homogeneity of belief systems is required to
-    make *any* useful inferences and those aspects of the systems
-    which cause schematic divergence become problematic
 
 
 # (Physics Analogies for Social Systems)
@@ -410,7 +499,6 @@ prevalence of...?
     restricting the types of conformations that emerge by placing
     constraints on particle interactions
 
-
 #### "A Phase Change in the Functional Fabric of Reality"
 
 - nature of duality vs agency, along geographic/philosophic dimensions
@@ -485,6 +573,14 @@ prevalence of...?
       held consistent across the entire material.
 
 - soooo ... what are phase changes in sociophysical systems?
+
+
+### Reynold's Number
+
+- (reynold's number)
+        - describes the parameters at which turbulent fluid flow
+          emerges. (but what is turbulence for high-dimensional
+          sociophysical particle systems)
 
 ### everything is a wave
 
