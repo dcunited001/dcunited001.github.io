@@ -65,7 +65,7 @@ increasingly singular zenith. Our (understanding) of the
 (completed) by dissecting the fundamentals of communication and
 information.
 
-#### The beginning of the end for the illusion of separation?
+### The beginning of the end for the illusion of separation?
 
 Without intelligent life, the universe might never manifest awareness
 of itself. Humanity has reached a transitionary period where
@@ -102,7 +102,9 @@ information and communication is shifting. It's like a space that's
 bending and folding into itself. Most of us still see everything as
 though we are within that space, but some of us know how to use it to.
 
-#### The other side of the S-Curve
+![probably include a picture of an s-curve]
+
+# The other side of the S-Curve
 
 There are reasons that an S-Curve emerges where it does. It opens with
 exponential growth and, like an unfortunate perfectionist, all it
@@ -130,7 +132,7 @@ another. This is several conditions hold: that no money enters or
 leaves the system, amoung others. Closed systems allow you to make
 reasonable inferences about preservation aggregate quantity.
 
-### Why does it matter?
+### (Why does it matter?)
 
 The noosphere, our shared information ecosystem, combines the traits
 of open in closed along various measures. It's both open and closed in
@@ -151,53 +153,136 @@ they can send videos.
 
 When your system is an infinitely dimensional, convoluted non-linear
 sociophysical system, it reacts with an incomprehensible set of
-dynamics that are impossible to dilineate. There are critical
-categories of metrics that help simplify the system. Around clusters
-of values for these groups of metrics, there are boundaries. Stay in
-the boundary, the system is more stable. Move outside of a cluster's
-boundary region, the system will begin to transition chaotically or,
-if you're lucky, predictably.
+dynamics that are impossible to differentiate and dilineate. There are
+critical categories of metrics that can help simplify the system.
+Around clusters of values for these groups of metrics, there are
+boundaries. Stay in the boundary, the system is more stable. Move
+outside of a cluster's boundary region, the system will begin to
+transition chaotically, but if you're lucky, with some degree of
+predictability. Transitioning into and out of these boundaries can
+describe a phase change, though these are phases composed of phase
+metatypes.
 
 If you imagine a group of metrics including information velocity and
-social graph connectedness as forming a category, then as long as the
-velocity nor the connectedness skyrockets, the system prefers not to
-undergo transformations that it has never exhibited. This is just one
-of the few examples that could be put into words. Obviously,
-technology and highly connected networks (are promising.)
+social graph connectedness as (forming a category), then as long as
+the velocity nor the connectedness skyrockets, the system prefers not
+to undergo transformations that it has never exhibited. We all know
+these two metrics are evolving exponentially, but this (is just one of
+the few examples that can be easily put into words). Obviously,
+technology and convergent communication networks also present us with
+beneficial (transformation).
 
-- information converges differently at various scales
-  - or in some cases becomes non-convergent
-    - as one zooms out more, there is little apparent difference in
-        the range/variety/distribution of information
-      - anscombe paradox for the distribution of information at
-        in various sections of a social graph
-      - this isn't a problem, just a peculiarity. it's the opposite of
-        the 15th century society where almost every single person
-        who's ever read a book read the same one: the Bible
-      - this seems subtle, but has profound implications, discussed in
-        the second section
+Superconduction is another physical phenomenon for which we can
+imagine significant sociophysical metaphors. Superconduction describes
+systems of descreasing thermal energy whose electrical resistance
+suddenly becomes zero. It is a type of phase change which is not
+linearly bound to the temperature; it is the sudden shift to zero
+electrical resistence. Phases are not a primarily physical
+phenonenon. They are an idea in math, where systems operate in a
+functionally distinct way when their constituents individually satisfy
+some properties over increasingly large spatial regions. This
+generalized idea of phase changes in sociophysical systems will be
+discussed in detail later.
 
-- open systems vs closed systems
-  - the mechanics and dynamics of information are fundamentally
-    different in a closed system
-  - the system becomes "closed" in various ways:
-    - there is vastly more information produced than could ever be
-      consumed by humans bc population growth and automated data
-      generation
-    - we reach a knowledge plateau (or singularity)
-  - this affects information mechanics/dynamics how?
-    - information economics becomes ~demand-side~
+Just like particle systems, sociophysical systems also experience
+phase changes. Reduce the physical space's limits on velocity and
+distance, then increase the quantity of information flux and suddenly
+a vastly different set of principles applies. Models for sociophysical
+systems with physical information transfer still apply and the same
+set of mechanics apply, but are permuted in the way these mechanics
+present themselves. This includes mechanics we may have never observed
+before. Systems where the majority of interactions take place on
+virtual channels utilize mechanics that cause the nature of
+information itself to dominate the interactions. This leads to what
+can be described as the geometric mechanics of information systems.
+
+As our world becomes more closed in various ways and as our
+communication infrastructure encourages sociophyscial phase changes,
+different sets of principles can be considered to be fundamental in
+modeling the system. When population growth and virtual channels cause
+the world to create vastly more information than could ever be
+consumed by humans, this also presents a series of phase changes
+because the sheer volume of information in itself changes how people
+behave. When we reach a knowledge plateau, which some describe as The
+Singularity, the simple presence of a boundary on new knowledge means
+that people operate differently based on the assumption that no
+quantity of information produces significant knowledge. In
+high-volume, high-flux sociophysical systems, information economics
+becomes demand-side, where the abundance in supply reduces the
+significance of qualitative differences in information. When people
+generally decide this, in itself, changes their decision-making and
+information-filtering processes, it results a kind of phase change.
+
+### The Structure of the Noosphere and Anscombe's Paradox
+
+Information converges in different ways at various scales along
+various dimensions, which include spatial, aggregate and
+graph-oriented dimensions. In other ways, info becomes non-convergent.
+There are various kinds of mathematic metrics, including those based
+on physical distance and those based on graph connections, where you
+consider the number of edges connecting nodes. In the latter, the
+degree is the metric or distance formula.
+
+If you zoom out on the physical space or on more expansive subgraphs
+of the social network, then aggregate the graph of information,
+pressing it into one that represents all information for that set of
+people, you'll find it the total model of information varies less as
+it increases. This is especially true if you are considering the
+aggregate graph of knowledge, instead of information. It is difficult
+to distinguish the two. Knowledge is universally significant, where
+information is more numerous and relatively defined. Modeling
+knowledge and information as data presents challenges in precision
+(and... compression).
+
+Though the axioms haven't been well-defined above, as you zoom out and
+aggregate a total graph for information, you'll find that there is
+little apparent difference in the range, variety and distribution of
+information. That is, the graph approaches a limit in how much it
+varies in relation to your scale. This results in
+[Anscombe's Paradox]() applied to graph theory. Zoomed out, you see
+drastically limited variation in the info graph, but when you zoom
+back into smaller physical or social ranges, the variation in the
+aggregate info graphs displays pronounced variation. There are many
+ways of structuring this thought experiment and there is no correct
+way to do it.
+
+At first, the implications seem subtle for Anscombe's Paradox as
+applied to the summation of human knowledge or human information.
+Imagine running through the same process for 15th century European
+society, where almost every literate person has only read from a
+single book: the Bible. As you zoom out, the effects of that literary
+work on the info graph become pronounced. The knowledge graph is sadly
+empty and the scope of shared knowledge is minimal, compared to that
+instilled by today's public education system. As the 21st century
+progresses, we'll find the paradox in graph variation at smaller
+scales becomes more apparent and pronounced. Awareness of this
+phenomena itself causes a phase change in how we design mass
+communication.
+
+### Which one of these is *the* fake news article?
+
+This has profound implications for the design of communication,
+particularly in how one can use a language of imagery and be confident
+in the emotional interpretations.  In the 20th century America, mass
+communication was at its height of power, parity and
+confidence. However, in the world of social media, the rampant
+speciation of information is exponential. We are less capable of
+responding to an event, article or piece of information because of the
+vast disparity in information between two or more
+individuals. Further, the qualitative significance of each piece of
+information depends on what presentations of that information an
+individual has seen. So, when mainstream media tries to handle an
+event, it can't identify a language of symbols to leverage that will
+evoke predictable interpretations.
+
+
 
   - and relevant to metamodernism
     - people are trying to stand out more and more.
-    - 
+    - cyclic interplay b/w post/modernism
 
 - Which number is higher? Seven billion? Or Infinity? Is seven billion
   even comparable?
-
-
-
-![probably include a picture of an s-curve]
 
   - dominated interactions
   - (permuted) sociophysical mechanics
@@ -329,17 +414,14 @@ technology and highly connected networks (are promising.)
     problems, our greatest threat is nihilism and our greatest fear
     will be ourselves.
 
-
-
-
 ###
 
 - sociophysical communication physically limits information flux
   - in ancient times, information flux was mostly limited to physical
     contact.
   - as time progressed, population growth itself lead to more
-    information and more information flux. technology advances further
-    augmented this trend for ever increasing information flux.
+    information and more information flux. technology advances
+    augmented this trend further for ever increasing information flux.
     - writing established information permanence.
     - navigation & ship-building increased the maximum range for
       information to spread, quickly

@@ -84,8 +84,7 @@ excerpt: ""
        - writing, printing press
        - describe information economics and how the medium of
          transmission affects supply/demand
-       
-       
+
 
   - (part two: social physics)
     1. (reuse segment from parapet-2 on thermopylae, etc as intro?)
@@ -662,6 +661,9 @@ be completely lost.
 
 
 
+# Evolutionary Dynamics of Sociophysical Modeled as a Boltzmann Machine
+
+- what is a [boltzmann machine]()?
 
 
 
