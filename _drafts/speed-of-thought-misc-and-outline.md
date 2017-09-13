@@ -10,6 +10,65 @@ excerpt: ""
 
 - title?
 
+#### Structure of information as memes, datums, iotas
+
+
+
+#### **Meme(s)** a monoidal information-type that can be expressed to produce a datum, a unit of information.
+
+- important to state that these definitions are for modeling
+  information metaphysically
+
+By making memes monoidal, it implies three kinds of behaviors. First,
+given nothing: it expresses a datum representing the meme structure.
+Second, the meme can contain additional structure that describes how
+it should transform input. Third, the meme can accept input that
+describes how it should transform the other components of the
+input. In this way, it represents itself with an expressable datum
+that also encodes its normal expression behavior, which can be
+externally modulated.
+
+#### **Datum(s)** a unit of information.
+
+The expression of a meme produces a datum.
+
+Datum structures without values
+
+- are instanceless because they already exist from a combinatorial
+  expansion
+  - i can understand how to combinatorially generate a set of category
+    structures where the objects are undefined. each member of this
+    set could be a monoid that generates an instance of category by
+    providing instantiations of its objects (e.g. sets) and morphisms
+    (e.g. set mutations.
+  - this combinatorially generated set of category structures is
+    countable (afai can see)
+    - it is generated from a very small set of information
+  - but what i wanted was to map iotas, instances of the information,
+    to pregenerated datums, so that all possible forms of information
+    can be shown to already pre-exist
+  - another problem is that the structure of each morphism depends on
+    the mutated objects.
+
+Datums can be visualized as graphs, but are modeled on categories with
+objects and morphisms, which are also objects. The benefit here is a
+finite set of primative datums can be combinatorially generated from a
+finite set
+
+#### **Iota(s)** an instance of a datum.
+
+
+- the
+
+- a datum is a piece of information, where equality to some other
+  datum is not necessarily dependent on the instance.
+- a datum can be made into a meme by making some part of it mutable.
+  - in this way, the meme is a type that generates
+- a meme has a datum representing itself
+
+
+
+
 
 #### alternative phrases
 
@@ -81,43 +140,50 @@ excerpt: ""
 
 - describe information economics and how the medium of transmission
   affects supply/demand
-
-
 - references to a grimoire for an analogy to old ideas becoming more
   visible
 
-  - (part two: social physics)
+#### Part Two: Social Physics
+
     1. (reuse segment from parapet-2 on thermopylae, etc as intro?)
+    2. discribe how information reverberates around the world
     3. overview of basic concepts of social physics, along with
        everyday examples
        - the most important conclusions from understanding social
          physics
        - how telecom/internet changes social physics
-    4. definition of power as the potential to trigger flux
+    4. most critical inferences from social physics
+    5. definition of power as the potential to trigger flux
       - mechanics of power
-    5. physical analogies
+    6. physical analogies
       - people as particles: temperature, density, state, etc.
       - speed of sound
       - phase changes
       - configurational entropy & conformational entropy
 
-  - (part three: geometry and mechanics of information)
-    1.
+#### part three: geometry and mechanics of information)
+
+- thesis: how the geometry and structure of information affects its
+  diffusion.
+  - the specifics of datums, the spectrum of info,
+  - the capacity of information to persist, replicate, be quantified,
+    be compared to, be equated with, etc.
+
     - the structure of information (semiotics, linguistics, etc)
     - "mechanical" aspects of information
-      - the language it's written might cause it to move in different
-        ways
+      - the language it's written in might cause it to move in
+        different ways
       - the specific ideas it concerns might similarly determine
         "motion"
      - the information warfare content i outlined after writing the fb
        post
 
-  - (part three)
+#### part four: future evolution of information (metaphys. precip.)
+
     1. metaphysical precipitation
     2. start with warning on how tech leads to a breakdown in how
       people and autonomous agents understand cause & effect
     - other, higher level philosophical insights
-
 
 - thesis for part four:
   - complexity of information dynamics in a converged world leads to a
@@ -159,15 +225,94 @@ excerpt: ""
       unpredictable in ways that can't be predicted...
 
 
-# Evolutionary Dynamics of Sociophysical Modeled as a Boltzmann Machine
+# Using Social Physics to Contain/Promote People and Ideas
+
+- The physical or graph boundaries of someone's social network can be
+  identified, as well as nodes & regions of it that are more widely
+  connected.
+  - Boundaries and local connectedness are ideas that are widely
+    studied in graph theory.
+  - Information is viral and causes people to react differently. Some
+    people are loud, others are quiet. Most everyone acts to bring
+    about some understanding of what is "good" and by framing
+    information in those terms, it can be presented in such a way to
+    subtly cue the person to action.
+  - Most everyone that acts righteously feels good about what they do.
+  - So if you suggest information to highly connected, nodes on the
+    boundaries of someone's social network, it leads adjacent nodes to
+    move further away from the person and become less connected in
+    general.
+  - Life is full of flux in the social structure. People move away,
+    start families and there are many other events which change the
+    social graph. People gravitate towards the areas of their social
+    graph where the social connections were reinforced.
+    - The person who does not or can not both gradually grow new
+      strong connections or reinforce existing social connections will
+      end up isolating themselves, if this goes on long enough.
+    - by injecting information into someone's graph that increases
+      resistence of new connection, disrupts existing connections or
+      forces most social interactions to be lensed through a negative
+      frame, you can isolate someone. In most circumstances, this does
+      not happen because one person simply cannot exert that much
+      influence over the boundary of someone's social network.
+
+  - however, if you end up social isolated, it can be very difficult
+    to build new connections.
+    - this depends on many factors, including how widely information
+      has been disseminated that alters the implicit frame someone's
+      social interactions.
+      - for example, celebrity defamed by scandal can have a VERY
+        difficult time building their network back. Since information
+        is viral, its effects are multiplicative, including how it
+        poisons the frame. people in these social circles gravitate
+        towards where they anticipate that influence *will* be, not
+        where it is and certainly not where it was.
+
+- financial capital and social capital are exchangable resources.
+  - a clever person can exchange financial capital for social capital
+    and vice versa, using social capital to multiply their influence
+    or identify new opportunities.
+
+  - if you find yourself isolated, you are vulnerable. Depending on
+    personality traits, social (potential) and financial capital. it
+    can be far more challenging for you to rebound than it is for a
+    small group of sycophantic people to indirectly keep you there,
+    without ever appearing to have lifted a finger.
+
+  - when your financial capital is limited, you have few options, you
+    are strained and this makes you very predictable. when you're
+    social behavior is predictable, this means you invest in social
+    expansion in a limited number of ways. this makes you more easily
+    blocked, especially in the age of social media, where people who
+    want to promote themselves post everything online.
+    - this kind of indirect coordination is not natural social
+      behavior. it doesn't emerge in social groups who have primarily
+      individual concerns or simply care about those close to them.
+    - this kind of group behavior can be coordinated, kind of like
+      someone decided to make sociopathy a team sport.
+    - one way this can happen is if a handful of people inject the
+      right information into the few circumstances where you try to
+      socially expand to compel judgemental, exclusionary behavior
+      from neural people. several people can indirectly work through
+      others and manipulate what is otherwise natural behavior.
+    - i think this is what they call "scientology". however, it's
+      strange that a religion based on freeing you from information
+      forms known as thetans would also project those same negative
+      information forms into your life, but i suppose they just hoping
+      you'll develop stockholm syndrome and will pay them to help
+      "clean" it up later.
+    - if you think this is wrong, i can explain their training
+      materials, pattern languages and obsession over "disconnection"
+      *THIS IS DISCONNECTION*, by the way.
+
+# Evolutionary Dynamics of Social Physics Modeled as a Boltzmann Machine
 
 - what is a [boltzmann machine]()?
 - probabilistic programming
 
 
 
-# (Implications of (your perspective on) Social Physics, Networks and
-Information Dynamics)
+# (Implications of (your perspective on) Social Physics, Networks and Information Dynamics)
 
 - possibly remove
 - why attempting to quantify information structure/dynamics/diffusion,
@@ -214,8 +359,6 @@ mentioned my articles relevant to info warfare:
 #### [Operational Lvl of Information Warfare](http://te.xel.io/posts/2017-02-21-civil-disobedience-and-operational-strategy-in-information-warfare.html)
 
 ...
-
-#### [Death of Creativity](/posts/2016-05-17-the-death-of-creativity.html)
 
 
 part four:

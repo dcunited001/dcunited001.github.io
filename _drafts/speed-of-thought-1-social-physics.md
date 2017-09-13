@@ -1,5 +1,5 @@
 ---
-title: "The Speed of Thought: (Overview)"
+title: "The Speed of Thought: Illusion of Separation"
 categories: "blog"
 tags: ""
 headline: ""
@@ -7,6 +7,10 @@ author:
   name: "David Conner"
 excerpt: ""
 ---
+
+- todo: thesaurus check
+- todo: define iota/datum/memes
+- todo: titles
 
 ### What Is The Speed of Thought Today?
 
@@ -20,38 +24,52 @@ century with the telegraph.
 
 While communication was bound to physical interactions, a primarily
 physical set of mechanics dominated social physics and the movement of
-information. Now the dispersion of information is (increasingly)
-governed by the more metaphysical aspects of social physics. (The
-metaphorical geometric mechanics of the information itself determines
-how it diffuses.)
+information. Today, the convergence of virtual communication channels
+like social media causes physical mechanics to recede. From here,
+social physics becomes dominated by metaphysical modes of action,
+where propagation becomes dependent on the geometric mechanics of
+information. So, the geometry and structure of the information itself
+as it fits into its contexts determines its motion along virtual
+channels.
+
+# (Social Physics Metaphors)
 
 Sociophysical systems exhibit a wide array of behavior that can be
 modeled with physics metaphors. The movement of people in a mall have
 a temperature, as they do at wider geographic scales. Density and
-temperature correlate with interest and intent. Moreover, the more
-dense the group, the faster that information can diffuse physically.
+temperature correlate with interest and intent. Moreover, the density
+of the group yields more connections and a faster rate of information
+diffusion. From atop a ziggurat in Sumeria or Mesoamerica, some of the
+basic sociophysical mechanics emerge visibily as patterns of
+interaction in crowds.
 
-So, logically, there is also a metaphorical speed of sound for the
-potential speed at which information can travel, physically. Since
-people exhibit choice over the information they propagate, so this
-idea doesn't effectively model information diffusion on the scale of
-individual interactions. As you geographically zoom out, the speed of
-information diffusion becomes increasingly coupled to temperature and
-population density.
+![Teotihuacan](/img/posts/.../teotihuacan.jpg)
+
+### (Speed of Sound)
+
+Extending the parallels to temperature and density yields a metaphor
+to the speed of sound, describing the potential speed at which general
+information could travel. This can't effectively model diffusion of
+specific pieces of information, since people exhibit choice over the
+information they propagate. It instead assumes temperature and density
+correlate with higher potential for interactions to occur. As you
+geographically zoom out, the potential speed of information diffusion
+becomes more closely coupled to temperature and population density.
+
+### (Population growth)
 
 From ancient times through the telegraph, all information flux was
-bound by to physical contact. As time progressed, population growth
-itself lead to more information and more information flux. Writing
-established information permanence. Navigation & ship-building
-increased the maximum range for information to spread, per
-degree. Economics incentivized management of information to predict
-trade and resource trends. Ancient people could assume the network
+bound to physical contact. Population growth itself gradually
+accelerated growth of both information and information flux. Writing
+established information permanence. Navigation and ship-building
+increased the maximum range for information to spread, per degree of
+exchange. Economics incentivized management of information to predict
+trade and resource trends. Ancient people may have assumed the network
 effect: as population increased, so did the likelihood of
 technological innovations and thus, information might begin to spread
-faster than it was driven by population density alone. From atop a
-ziggurat in Sumeria or Mesoamerica, some of these sociophysical
-mechanics would become visible. You can see patterns of interaction in
-crowds.
+faster than it was driven by population density alone.
+
+### (Information Economics)
 
 Wherever there is supply and demand, you'll find economic dynamics and
 information is no exception. While no one in Germany counted all the
@@ -64,16 +82,17 @@ a rumor is held tightly, it is easier to trace. While we never poll
 our friends to tally up an information histogram, our mind is always
 making inferences because the distribution of information usually
 tells us more than the info itself. Small talk may be all about the
-weather and the Yankees, but (it can tell us) about who talks to who
-and more.
+weather and the Yankees, but informs about who talks to who and more.
+
+# 
 
 Macroscopically, technology's effect on information diffusion produced
 viral sociocultural transformation, often with political or economic
-consequences. Writing was developed once and never forgotten.
-Religious systems petrified on exposure to clay tablets, gradually
-locking these ephemeral systems of thought in place. The printing
-press democratized writing, effectively seizing it from the priest
-class by undermining the economics that enabled tight control.
+consequences. Writing developed once and never forgotten.  Religious
+systems petrified on exposure to clay tablets, gradually locking these
+ephemeral systems of thought in place. The printing press democratized
+writing, effectively seizing it from the priest class by undermining
+the economics that enabled tight control.
 
 Each major innovation opened a new movement in our impressionistic
 arrangement of cross-cultural collaboration. Each led to its own
@@ -104,7 +123,7 @@ The same confluence of phenomena to usher in this
 [eudaimonic](https://en.wikipedia.org/wiki/Eudaimonia) actualization
 of being humanity leads to tectonic shifts in sociophysical
 mechanics. While the set of rules for interaction remains unchanged,
-the observed phenomena and dynamics (diverge).  When the Big Bang
+the observed phenomena and dynamics (diverge). When the Big Bang
 transitioned through inflation, the laws of physics dominating
 interactions remained constant. The rules didn't change, but unique
 dynamics emerged because the specifics of the system caused various
@@ -144,6 +163,8 @@ just like an open system that might never be closed. If you aren't
 aware of what caused the system to be closed, you would expect trends
 to continue indefinitely.
 
+
+
 Most systems can be viewed as open or closed. If you try to view the
 selection of public stocks as open, then you start with a good index
 and familiarize its stocks one by one, gradually learning to trade. If
@@ -170,10 +191,12 @@ measures of "system boundedness".
 While communication networks are converging, (...) people send and
 receive radically more information. In this respect, system is bounded
 not by how fast data can be transmitted, but by how much data people
-have have to transmit. In this oversimplication, the system
-fluctuates: telecom expands, people buy new phones with new apps, they
-send gifs, telecom removes bandwidth limits, then people figure out
-they can send videos.
+have to transmit. In this oversimplication, the system fluctuates:
+telecom expands, people buy new phones with new apps, they send gifs,
+telecom removes bandwidth limits, then people figure out they can send
+videos.
+
+###
 
 When your system is an infinitely dimensional, convoluted non-linear
 sociophysical system, it reacts with an incomprehensible set of
@@ -195,6 +218,8 @@ these two metrics are evolving exponentially, but this (is just one of
 the few examples that can be easily put into words). Obviously,
 technology and convergent communication networks also present us with
 beneficial (transformation).
+
+# (Superconduction and Phase Change)
 
 Superconduction is another physical phenomenon for which we can
 imagine significant sociophysical metaphors. Superconduction describes
@@ -220,7 +245,7 @@ virtual channels utilize mechanics that cause the nature of
 information itself to dominate the interactions. This leads to what
 can be described as the geometric mechanics of information systems.
 
-As our world becomes more closed in various ways and as our
+As our world becomes more closed (in various ways) and as our
 communication infrastructure encourages sociophyscial phase changes,
 different sets of principles can be considered to be fundamental in
 modeling the system. When population growth and virtual channels cause
@@ -261,6 +286,8 @@ of understanding social physics, the noosphere can be considered to be
 something between what can be modeled by data science and the more
 philosophical definition above.
 
+### (Ontologies in Data Science)
+
 (As an example of how ontologies are used by data science), this paper
 geographically dilineates search recommendations with an ontological
 model of location types as they are functionally coupled to weather
@@ -279,6 +306,8 @@ genes.
 
 ![Gene Ontology](/img/posts/.../gene-ontology.png)
 
+### (Graph Neighborhoods)
+
 Neighborhoods of the social graph can be generated via various
 mathematic metrics. The term degrees of separation is one such
 metric. At a distance of six edges, the neighborhood should encompass
@@ -291,6 +320,8 @@ neighborhood varies less as the chosen metric expands. This phenomenon
 is generally more apparent for knowledge than for information, where
 knowledge is defined as information above some threshold of universal
 significance.
+
+### (Anscombe's Paradox)
 
 As the total noosphere expands over time, it masks rapidly increasing
 variance between noospheres generated by social subgraphs. Generally,
@@ -340,39 +371,56 @@ seen. So, when mainstream media tries to handle an event, it can't
 identify a language of symbols to leverage that will evoke predictable
 interpretations.
 
+- jesus, a handful of hippies with a mic and a soundstage at Woodstock
+  were able to get the word out about the "brown acid".
+
 # A Tall Glass of Nihilism to Toast Your Post-Modernist Wasteland
 
-This phenomenon of spectral decoherence is already pronounced, but it
-will become increasingly amplified by its interactions with the
-economics of content creation and distribution. As automation funnels
-human economic potential into creative endeavors, this drives an
-abundance of content. However, the sheer quantity implies it can
-*neither* be marketed affordably *nor* effectively. Regardless of the
-marketing budget, there are no IP's or new content that can cultivate
-a strong following.
+This phenomenon of spectral decoherence is informational and implies
+that we should amplify what unifies us.
+[Diversity in body, mind and culture](/posts/2016-05-14-facets-of-greatness-the-unknown-monumental-accidents.html#embracing-diversity)
+is an American strength, as is our social connectedness to the rest of
+the world.
+
+### Spectral Decoherence and the Economics of Content Creation
+
+Spectral decoherence is already pronounced, but it effects will
+feedback into its interactions with the economics of content creation
+and distribution. As automation funnels human economic potential into
+creative endeavors, this drives an abundance of content. However, the
+sheer quantity implies it can *neither* be marketed affordably *nor*
+effectively. Regardless of the marketing budget, there are no IP's or
+new content that can cultivate a strong following.
 
 Left unchecked, this phenomenon implies all cultural artifacts will be
 essentially noise, where no artifacts develop a significant or
 marketable following among content producers or consumers. The future
 is a desolate (wasteland) of cultural noise, full of cheap
-recombinations of the same shit that nobody recognizes ... except Star
-Wars because Star Wars can afford a billion dollar budget.
+recombinations of the (same shit) that nobody recognizes ... except
+Star Wars because Star Wars can afford a billion dollar marketing
+budget.
 
-Because of this phenomenon and because our culture, language and
-society depends so heavily on patterns of recognizable symbols for
-social engineering, pattern languages and cultural programming, this
-ends in disaster because each of these three things become much less
-capable of functioning without spectral coherence of semiotic
-distribution.
+### (semiotics and social engineering)
 
-These essays, the [Paradox of Creativity]() and the
-[Death of Creativity](), begin to describe this converged society full
-of creative people empowered to the max, who can't produce anything
-distinguishable.
+Because our culture, language and society depends so heavily on
+patterns of recognizable symbols for social engineering, pattern
+languages and cultural programming, this ends in disaster because each
+of these three things become much less capable of functioning without
+spectral coherence of semiotic distribution. Without anticipation of
+this and without proactively amplifying semiotic mappings as
+harmonics, we will find ourselves less capable of adapting to what we
+know will be a turbulent of cultural evolution.
 
-###
+These essays, the
+[Paradox of Creativity](/posts/2016-05-16-the-paradox-of-creativity.html)
+and the
+[Death of Creativity](/posts/2016-05-17-the-death-of-creativity.html),
+began to describe this converged society full of creative people
+empowered to the max, who can't produce anything distinguishable.
 
-What does all of this mean mean for information warfare? We are not
+# (Information Warfare)
+
+What does all of this mean for information warfare? We are not
 ready for it at all. This creates a situation where a strong, powerful
 adversary or even a weak one can exert influence over networking,
 telecom, and media to close it down. Our information borders are wide
@@ -384,9 +432,9 @@ social media circus they don't see it coming.
 And most Westerners don't see it coming because the liberal mindset
 chastises you whenever you place precedence on some cultural artifacts
 over others. However, this isn't about liberalism vs conservatism.
-This is something we are all going to have to face. We have to
-artifically prioritize some elements of our culture to create cultural
-coherence. Otherwise, we will more quickly succumb to nihilism.
+It's just inevitable. We all have to face it. We have to artifically
+prioritize some elements of our culture to create cultural
+coherence. Otherwise, we will succumb to nihilism more quickly.
 
 Further, we have to accept that we are inherently more vulnerable to
 information itself. Influence, foreign or domestic, can undermine our
@@ -398,27 +446,46 @@ for destabalization.
 
 ### Conclusions
 
+Paradoxically, the technology that (leads to) humanity's Shangri-La of
+total self-awareness also leads to paradigm shifts in the mechanics
+and dynamics of information that promote instability. The beauty that
+we will see is what we should have been able to see all along. We must
+appreciate it, but lurking beneath every paradise is (a hidden
+danger). If we become distracted, disoriented or disillusioned, we
+will be blindsided.
 
-- Paradoxically, (that which) enables our understanding and total
-  self-awareness leads to paradigm shifts in the mechanics and
-  dynamics of information that can very easily create
-  instability. (rewrite)
-  - the beauty that we will see is what we should have been able to
-    see all along. of course, we should appreciate it, but if we let
-    it distract us, we will find ourselves caught off guard.
+During this (transitionary period), we will each have our own
+understanding of how the world has changed and how it has changed
+us. We must hedge against potential sources of turbulence, magnified
+by the principles of game theory. Technology will empower all players
+for better or worse. Rogue self-interests will exploit novel paradigms
+of sociophysical mechanics, (unrecognizable) to most. Information
+warfare is all about using the energy of others for your own gain. The
+phenomena of spectral decoherence expands and confounds (believable)
+narratives, which lends itself to deception and opportunistic tactics.
 
-  - the capacity for instability means that we have to work incredibly
-    hard against (essentially game theory).
-    - during this transitionary period, we will all have our own
-      understanding of how the world has changed. there are
-      opportunistic tactics that exploit the (novel) paradigms of
-      information mechanics & dynamics, so almost everyone will be
-      caught off guard in some way or another.
+- Social physics itself is ancient, but virtualized channels dominate
+  communication, rendering any of its former incarnations obsolete.
+
+- Still, as social physics evolves, it can be modeled by restructuring
+  the same primitive mechanics.
+  - Still, convergence only repackages the same mechanics in new ways,
 
 - we need to focus on how those fundamentals of
-  communication/information, in the context of convergence/etc and
-  exponential change, lead to ... (drastically different conclusions
-  on what our purpose is and what our challenges are)
+  communication/information, in the context of convergence/etc
+
+- (this leads to drastically different conclusions on what humanities
+  purpose is and what our challenges are)
+
+Humanity needs to identify and magnify its common ground. Law and
+action should... promote incentivization.
+
+We all have to own this, wherever it leads. Pain from past and present
+conflict threatens to motivate future tension.
+
+Systems with properly structured incentivization models always
+reinforce
+
 
   - blinded by our ego
   - information saturation & overstimulation
@@ -430,5 +497,5 @@ for destabalization.
     problems, our greatest threat is nihilism and our greatest fear
     will be ourselves.
 
-- transition to part two on an overview of social physics.
+The next section presents an overview of social physics.
 

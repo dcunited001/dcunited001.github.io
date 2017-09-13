@@ -108,40 +108,6 @@ excerpt: ""
       - (3) individual and collective objectives, needs, wants,
         resources and options
 
-#### Social Isolation can be Measured
-
-- social isolation can be measured, given some "normal" facebook
-  user's 2-degree graph of friends for some definition of normal
-  (casual but regular) social media usage
-  - filter the friends by strength of connection to indentify edges
-    sending and receiving inbound and outbound messages/interactions
-    - measure the degree of reciprication and the variety of people
-      forming the strongest recent connections
-    - filter out all connections which do not fit some minimum of
-      interaction threshold
-    - this sparsifies the graph, filtering a dense graph and leaving
-      only the most relevant connections
-  - from here, the person's isolation can be measured using spectral
-    graph theory
-    - this independence can be measured in graph theory with
-      kelman's transformation
-    - see spectral graph theory
-      [here](http://www.cs.elte.hu/~csiki/application_Kelmans.pdf),
-      [here](http://www.math.ucsd.edu/~mtait/k-independent.pdf)
-      - and [here](https://www.cs.elte.hu/math/phd_th/csiki.v2.pdf)
-      - the details of this math is over my head btw
-
-- this, of course, assumes the person is a "normal" facebook user,
-  where the relevant 1-degree and 2-degree connections in the friend
-  graph are all also "normal" users
-  - this high-level algorithm could also work with clustered types of
-    facebook users
-    - yet, the degree in variation in how people use applications to
-      communicate and their distribution of time/usage across multiple
-      applications makes clustering extremely difficult.
-    - at least, if a clustering algorithm is to enable the selection
-      of users which fit some basis with quantifyable variation and
-      some metric of confidence
 
 ### Distribution of Agency & Will (Animus)
 
@@ -151,13 +117,6 @@ excerpt: ""
 
 ### Social Media
 
-- manipulation of social media algorithms to exclude "undesirable"
-  individuals is akin to segregation. in a convergent social network
-  that is increasingly less engaged in "real" interactions and more
-  engaged in "virtual" interactions, where some interactions can be
-  voluntarily or involuntarily censored via SEO/Social Media
-  manipulation, this means that entire groups of people can become
-  silenced or disenfranchised without even knowing it.
 
 # Dr Strange
 
@@ -176,6 +135,8 @@ living agent's capacity to project change into the metaphysical beyond
 their own subjective demise is perhaps the greatest power.
 
 #### "Unintended extrapolations are always the most severe"
+
+
 
 
 
