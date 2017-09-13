@@ -23,7 +23,6 @@ excerpt: ""
     (not literally) however, it is like they wanted to make certain
     their cultural artifacts would be protected through time.
 
-
 - Here (prior to printing press), the narrow spectrum of available
   info fluctuated perpetually.
   - rationalism wasn't even a fleeting dream at this point.
@@ -42,7 +41,7 @@ of the information only persisted if they were retransmitted faster
 than they decayed. If supply increased and demand stayed high, ...
 
 .. it would be retransmitted
-
+                                                                                  
 was only remembered if it was prioritized enough to establish
 consensus among the people. (rw)
   - in the dark ages, information deemed undesirable was often

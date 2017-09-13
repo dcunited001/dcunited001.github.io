@@ -16,8 +16,6 @@ excerpt: ""
     physically/virtually connected social networks
     - site other papers?
 
-
-
 ### [Marathon and Thermopylae](#marathon-and-thermopylae)
 
 At the battle of Marathon, the Greeks defeated the Persians. News of
@@ -53,11 +51,11 @@ network effect. Population density increases the rate at which
 information moves in those sociophysical networks.
 
 Imagine humans as particles with random motion whose individual speed
-of vibration depends on the vehicles available. For the most part, the
-particles vibrate in patterns originating from some home point and
-returning to it every day. When these particles hit the ocean, they
-accelerate like sound hitting a solid barrier, assuming these people
-have ships and sails.
+of vibration depends on available vehicles of transit. The particles
+vibrate in patterns, almost certainly originating from some home point
+and returning to it every day. When these particles hit the ocean,
+they accelerate like sound hitting a solid barrier, assuming these
+people have ships and sails.
 
 Imagine the sun rising in the Far East. It heats up the air and water,
 giving us wind and ocean currents, but doesn't it's sociophysical
@@ -102,18 +100,6 @@ concrete scientific evidence. Most social systems modeled with
 physical components are incomputable, but computational social science
 is harnessing these ideas today. (cite study)
 
-The speed of information is j
-
-- The speed of information is just one quantifiable social metric
-  whose (momentary scale) led to a profound effect on human history.
-  - (succinctly describe other metrics at a high level, that were
-    easily observable by people throughout history, whose trends could
-    be anticipated)
-  - distribution of information
-  - spectrum of available information
-  - spectrum of modes of communication
-  - value of information
-
 ### (Overview)
 
 Information has a life of its own and nowhere does this become more
@@ -123,11 +109,11 @@ mind blowing, but the bad news is) that almost every problem is
 incomputable. Incredibly useful insights can be extrapolated from a
 philosophic exploration of social physics.
 
-Social physics was originally developed in the 19th century (links) to
-explain how the behavior of players in simplified games were affected
-by the imposition of physical (rules/constraints). It originally
-borrowed heavily from classical mechanics and now overlaps with
-quantum mechanics, since non-deterministic games are loaded with
+Social physics was originally developed in the 19th century (links?)
+to explain how the behavior of players in simplified games were
+affected by the imposition of physical (rules/constraints). It
+originally borrowed heavily from classical mechanics and now overlaps
+with quantum mechanics, since non-deterministic games are loaded with
 probabilistic mechanics. Social physics can help us understand team
 sports, advanced
 [swarm behavior](https://en.wikipedia.org/wiki/Swarm_behaviour), the
@@ -138,9 +124,15 @@ though with feng shui, the game and players may be less clearly
 defined.
 
 If you begin modeling games where players have their own sets of
-information, social physics becomes irrevocably and hopelessly
-incomputable, almost immediately. There are several layers to this,
-where each adds complexity that extends the hardness of the problems.
+information, social physics is rendered irrevocably and hopelessly
+incomputable, almost immediately. Each additional layer presents its
+own challenges of tractibility and data structure countability.
+Simulations that can be parallelized with a GPU have tight information
+schema requirements. Knowing this, how do you identify what can be
+modeled and made known? How do you structure an organization's
+logistics and data collection requirements to efficiently model social
+phenomena and information dynamics? What's the difference between what
+can be simulated and what can be inferred via data science.?
 
 #### &#x2605; Do the players contain their own copies of information or is it shared?
 
@@ -180,18 +172,17 @@ unless they can read each other and anticipate the coordination of
 tactics with limited signaling, the games will be reduced to the more
 physical stats and positioning.
 
-Social physics is distinguished by providing a framework for systems
-where players react to informational components as well as their
-dynamics.
-
-  - these mathematical frameworks/solutions almost always incomputable
-    - and knowing this, how do you identify what can be modeled or
-      known? and how do you structure your processes and behaviors to
-      collect data to efficiently model information dynamics and
-      social phenomena
-
+Social physics is distinguished from physics and simple models of
+swarm behavior by providing a framework where players react to
+informational components and dynamics emerging from information. (This
+also stands out from simple probabilistic models for social behavior
+with its focus on the spatial components and particle interactions.)
 
 # Most Important Conclusions from Social Physics
+
+- title??
+- Extrapolating from a basic understanding, there are several
+  implications/conclusions that stand out above everything else
 
 #### (1) decoherence of information/knowledge reduces... (ability to model the system)
 
@@ -201,6 +192,16 @@ dynamics.
   unparalleled
   - if you cannot do these things, you cannot expect to predict
     specific or general behavior and you cannot expect to extrapolate
+  - it's like trying to predict the motion of particles while
+    turbulently mixing a fluid containing random quantities of
+    molecules composed by every element. each has its mean ways of
+    moving, whereas social particles with consistent schema are more
+    predictable, almost like crystals.
+  - sociophysically, soldiers in a greek phalanx have the same kind of
+    crystalline aspects to their information schema. because they have
+    been imbued with the information & information schemata of their
+    training, they can anticipate how each other filters information
+    and anticipate each other's actions.
 
 - religion
 
@@ -212,10 +213,7 @@ dynamics.
     make *any* useful inferences and those aspects of the systems
     which cause schematic divergence become problematic
 
-- this leads into a discussion of schematic complexity (no it doesn't
-  not yet)
-
-#### (2) Attention/Focus (does not permit Concurrency of action)
+#### (2) Attention/Focus (does not permit concurrency of action)
 
 - a second critical factor is the lack of multitasking:
   - particles (at least people) can only really do one thing & can
@@ -226,7 +224,7 @@ dynamics.
       manisfestations
   - similarly, people are bound to one place at a time
 
-#### (3) Social Isolation can be Measured
+#### (3) Connectedness and Social Isolation can be Measured
 
 - third: social isolation is quantifiable and almost always correlates
   with power. more isolated, less empowered.
@@ -284,7 +282,6 @@ dynamics.
     groups of people can become silenced or disenfranchised without
     even knowing it.
 
-
 # The Definition of Power
 
 ### Power Can Be Defined as the Potential to Trigger Flux through the Social Network
@@ -326,8 +323,22 @@ dynamics.
       - this often studied as the curse of dimensionality and it's
         implications in various areas of math diverge widely
 
-
 # (Physics Analogies for Social Systems)
+
+The speed of information is just one quantifiable social metric whose
+momentary (scale) lead profoundly impacts interaction across
+society. Just like thermal energy, sociophysical system operate with,
+preserve and disperse energy, but this energy can usually be
+defined in infinitely many ways.
+
+  - (succinctly describe other metrics at a high level, that were
+    easily observable by people throughout history, whose trends could
+    be anticipated)
+  - distribution of information
+  - spectrum of available information
+  - spectrum of modes of communication
+  - value of information
+
 
 - people as particles: temperature, density, state, etc.
 - speed of sound
@@ -349,6 +360,7 @@ dynamics.
 
 
 ### Speed of Information Transfer
+
 
 
 
@@ -534,8 +546,6 @@ prevalence of...?
       substance, it loses those properties from the nanoscale
       configuration of matter, unless that fragile nanostructure is
       held consistent across the entire material.
-
-- soooo ... what are phase changes in sociophysical systems?
 
 
 ### Reynold's Number
