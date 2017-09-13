@@ -12,6 +12,18 @@ excerpt: ""
 - [Picture for Geometric Mechanics]
 
 
+- egyptian architecture as the most prominently preserved ancient
+  architecture, exerting an archetypical influence on our minds for
+  millinea, even after language was lost.
+
+- were the egyptian pyramids a response to a loss of cultural
+  information? they seem to have attempted to build something so
+  large, it would be impossible to tear down.
+  - is their understanding of the afterlife simply the modern era?
+    (not literally) however, it is like they wanted to make certain
+    their cultural artifacts would be protected through time.
+
+
 - Here (prior to printing press), the narrow spectrum of available
   info fluctuated perpetually.
   - rationalism wasn't even a fleeting dream at this point.
@@ -168,7 +180,9 @@ as I can see.
 - each of these traits affects how we share/preserve information and
   how we think about it (our behaviors in relation to it)
   - the spectrum of information that is preserved expands
-  - the
+    - eventually it contains elements which can't be removed
+- innovations that affect these traits have radical qualitative
+  effects on social interactions and the diffusion of information
 
 ### Permanence
 
@@ -274,12 +288,16 @@ copied at the click of a button and distributed anywhere.
     - so we can generate more of it, it will always remain them
       same, we can access it from anywhere, etc.
 
+
+
+
 #
 
 - information economics and sociophysical aspects of information
 
   - elaborate on information economics (as distinct from economics of
     content...)
+
 
 ### The Economics of Content Production/Consumption Lead to Market Saturation
 

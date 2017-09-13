@@ -16,7 +16,14 @@ excerpt: ""
     physically/virtually connected social networks
     - site other papers?
 
-### [Thermopylae and Marathon](#thermopylae-and-marathon)
+
+
+### [Marathon and Thermopylae](#marathon-and-thermopylae)
+
+At the battle of Marathon, the Greeks defeated the Persians. News of
+this victory was so critical that Pheidippides ran over twenty miles
+to bear news of it's victory. Every marathon you run is part of a
+millenia-old celebration of being the first to deliver a message.
 
 What's the value of a message? How does cheap and free transmission
 affect us? How does it lead to progress? The power of a simple message
@@ -26,34 +33,74 @@ Persians and funneled vigor into the hearts of Greeks to rise up and
 resist the oncoming hordes. Would this envigorating effect have been
 possible if not for the story? What if it couldn't be told?
 
-What about the Battle of Marathon? Greeks defeated the Persians and
-news of this victory was so critical that Pheidippides ran over twenty
-miles to bear news of it's victory. Every marathon you run is part of
-a millenia-old celebration of being the first to deliver a message.
-
 ###
 
-- population growth/movement was tightly coupled to economic
-  opportunity, which itself was coupled to population connectedness
-  (rewrite)
-  - Consider the human population distribution of 5,000 BC. At this
-    time, we had dispersed from Africa through the Middle East and
-    around the Black Sea to India, Europe, China, Indonesia and the
-    Americas. At that time, was there a region more connected than
-    others? The most connected region was the Middle East.
-    - This region had the shortest actual distance to the most number
-      of people and the largest social graph neighborhoods. At that
-      time, if you considered the neighborhood of people separated by
-      two or three degrees, that neighborhood would be largest by far
-      in the Middle East
-    - (how do i state the above to correct for variations in
-      population density)
-        - when people were more widely spread out, those with the
-          largest 2nd and 3rd degree networks exhibited major
-          advantages
-    - the geography predestined the middle-east
-      - to be the most networked
-      - the aggregate of trade ...
+During the first millinea B.C., a confluence of Greek
+technology, culture and geography, encouraged a philosophic
+exploration of human life. In particular, the Greek city-states
+flourished at a time where reflection on the structure of society
+itself was encouraged, where its evolution occured at a rapid pace and
+operated long enough without being domineered by an external
+force. This itself wasn't unique, but we managed to maintain their
+literary tradition. In doing so, we preserved the best record this
+phenomenon in Western history.
+
+In the ancient world, population growth and movement was tightly
+coupled to economic opportunity, constrained by resources, and bounded
+by geography. Population quantity drives the total quantity of
+information and increases rate at which innovations via the network
+effect. Population density increases the rate at which information
+moves in those sociophysical networks.
+
+Imagine humans as particles with random motion whose individual speed
+of vibration depends on the vehicles available. For the most part, the
+particles vibrate in patterns originating from some home point and
+returning to it every day. When these particles hit the ocean, they
+accelerate like sound hitting a solid barrier, assuming these people
+have ships and sails.
+
+Imagine the sun rising in the Far East. It heats up the air and water,
+giving us wind and ocean currents, but doesn't it's sociophysical
+energy also reverberate through humanity?  As the world turns each
+day, there is random motion moving from the east to the west, driving
+social interactions. Pushing through the noise are faint, low
+frequency waves of cultural information rippling over and reflecting
+between geographic features. Vacuums of low population density tapers
+this resonance. Between the centers of civilization, the dispersion of
+information is strained through translingual membrane, limiting the
+number of social connections over which information can cross. These
+metaphors are not perfect, as behavior was not coordinated and our
+modes of transportation were limited throughout history.
+
+Consider the human population distribution of 5,000 BC. At this time,
+we had dispersed from Africa through the Middle East and around the
+Black Sea to India, Europe, China, Indonesia and the Americas. At that
+time, was there a region more connected than others? The most
+connected region was the Middle East. And people less connected?
+Those in island nations or beyond the tropics of Cancer and Capricorn,
+both of which would incidentally be more likely to understand the
+spherical shape of the earth.
+
+As for the Middle East, its high degree of connection, its proximity
+to geographic chokepoints and its access to large swaths of ocean
+surface area gave it an almost unparalleled economic advantage, which
+only grew as time marched on. This region had the shortest actual
+distance to the most number of people, and access to the largest
+social graph neighborhoods, depending on how you measured it. When
+people are more widely spread out, it is more rare to have large 2nd
+and 3rd degree networks, which conferred major advantages. Those with
+wealth could finance transport and delegate action, which further
+helped expand those networks.
+
+# (Social Physics Overview
+
+Sociophysical systems are usually too complex to yield truly
+scientific evidence, these metaphors and metrics are invaluable tools
+yielding philosophic insights. They sharpen our inductive reasoning
+for social behavior and history, giving us options that will yield
+concrete scientific evidence. Most social systems modeled with
+physical components are incomputable, but computational social science
+is harnessing these ideas today. (cite study)
 
 - The speed of information is just one quantifiable social metric
   whose (momentary scale) led to a profound effect on human history.
@@ -65,12 +112,7 @@ a millenia-old celebration of being the first to deliver a message.
   - spectrum of modes of communication
   - value of information
 
-- If you physically limit access to the court, no one but nobles can
-  talk to the king.
-
-
-
-# (Social Physics Overview)
+### (Overview)
 
 Information has a life of its own and nowhere does this become more
 clear than in social physics, which is a mathematical framework for
