@@ -14,9 +14,51 @@ excerpt: ""
     everything related it it. it's really comprehensive. it's also one
     of the only sites that covers social physics
 
+### [Thermopylae, Marathon and Kublai Khan](#thermopylae-marathon-and-kublai-khan)
+
+What's the value of a message? How does cheap and free transmission
+affect us? How does it lead to progress? The power of a simple message
+unimpeded can change the course of civilizations. At Thermopylae, the
+brave acts of hundreds of Spartans struck fear into the heart of
+Persians and funneled vigor into the hearts of Greeks to rise up and
+resist the oncoming hordes. Would this envigorating effect have been
+possible if not for the story? What if it couldn't be told?
+
+What about the Battle of Marathon?! Greeks defeated the Persians and
+news of this victory was so critical that Pheidippides ran over twenty
+miles to bear news of it's victory. Every marathon you run is part of
+a millenia-old celebration of being the first to deliver a message.
+
+In Kublai Khan's 13th century Mongol invasion of Japan, a typhoon
+decimated the Mongol's forces. How would signalling change our
+interpretation of this story? What if it wasn't just blind luck, but a
+Hail Mary? The Japanese knew war was brewing, which would be obvious
+for years before. If the Japanese baited the Mongols into attacking at
+just the right time, it changed the course of history, but how would
+it be possible? It obviously couldn't have been a strategy for winning
+war, but a tactic partly based on luck. There are around thirty
+typhoons per year. They form with regularity and three hit the
+Japanese mainland, usually the southwestern islands of Kyushu and
+Shikoku. They mostly contained the invasion, using fortifications to
+prevent full-scale landing, increasing the length of time &
+probability that a divine wind would hit. The sails of the common
+Wokou ships would not enable them to sail fast in a typhoon... or
+without sinking.
+
+If the Japanese baited the
+Mongols into attacking at just the right time, then they changed the
+course of history. Why? If this is so, it is because they had the
+right information and the Mongol navy, mostly docked on the coast of
+Japan didn't. This may have been pure luck. It's certainly not widely
+known as anything else.)
+
+I believe that the dissemination of
+information was somehow responsible for this. I don't know how it
+would be possible or the exact details. 
+
+
 
 ###
-
 
 - population growth/movement was tightly coupled to economic
   opportunity, which itself was coupled to population connectedness
