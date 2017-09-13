@@ -29,35 +29,6 @@ news of this victory was so critical that Pheidippides ran over twenty
 miles to bear news of it's victory. Every marathon you run is part of
 a millenia-old celebration of being the first to deliver a message.
 
-In Kublai Khan's 13th century Mongol invasion of Japan, a typhoon
-decimated the Mongol's forces. How would signalling change our
-interpretation of this story? What if it wasn't just blind luck, but a
-Hail Mary? The Japanese knew war was brewing, which would be obvious
-for years before. If the Japanese baited the Mongols into attacking at
-just the right time, it changed the course of history, but how would
-it be possible? It obviously couldn't have been a strategy for winning
-war, but a tactic partly based on luck. There are around thirty
-typhoons per year. They form with regularity and three hit the
-Japanese mainland, usually the southwestern islands of Kyushu and
-Shikoku. They mostly contained the invasion, using fortifications to
-prevent full-scale landing, increasing the length of time &
-probability that a divine wind would hit. The sails of the common
-Wokou ships would not enable them to sail fast in a typhoon... or
-without sinking.
-
-If the Japanese baited the
-Mongols into attacking at just the right time, then they changed the
-course of history. Why? If this is so, it is because they had the
-right information and the Mongol navy, mostly docked on the coast of
-Japan didn't. This may have been pure luck. It's certainly not widely
-known as anything else.)
-
-I believe that the dissemination of
-information was somehow responsible for this. I don't know how it
-would be possible or the exact details. 
-
-
-
 ###
 
 - population growth/movement was tightly coupled to economic
