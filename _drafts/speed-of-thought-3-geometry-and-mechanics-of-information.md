@@ -11,34 +11,110 @@ excerpt: ""
 
 - [Picture for Geometric Mechanics]
 
+
+- Here (prior to printing press), the narrow spectrum of available
+  info fluctuated perpetually.
+  - rationalism wasn't even a fleeting dream at this point.
+  - transition into brief reiteration on information economics before
+    the printing press..
+
+Prior to the press, all written records were copied manually.
+Accumulation of writing was roughly bounded by the literate
+population, a kind of abstract membrane whose size loosely correlated
+to a population's permeability to written records. Copies more
+numerous and accessible resulted in more frequently amplified
+information. If the work wasn't financed by the church or state, the
+information's time-to-live drastically plummeted, which parallel's the
+IP Protocol's TTL value. If there were no written records, reflections
+of the information only persisted if they were retransmitted faster
+than they decayed. If supply increased and demand stayed high, ...
+
+.. it would be retransmitted
+
+was only remembered if it was prioritized enough to establish
+consensus among the people. (rw)
+  - in the dark ages, information deemed undesirable was often
+    punished by death.
+
+After the printing press, both the copies of information and the
+frequency by which records were published increased by orders of
+magnitude. Information consensus, at that point, was effectively
+physical. In order to suppress information, it required the location
+and destruction of all physical instantiations of the information. To
+purge records with certainty meant locating them without raising
+alarm.
+
+
+
+
+
+
+
+
+
 <a name="thermopylae-marathon-and-kublai-khan" />
 
-### [Thermopylae, Marathon and Kublai Khan](#thermopylae-marathon-and-kublai-khan)
 
-What's the value of a message? How does cheap and free transmission
-affect us? How does it lead to progress? The power of a simple message
-unimpeded can change the course of civilizations. At Thermopylae, the
-brave acts of hundreds of Spartans struck fear into the heart of
-Persians and funneled vigor into the hearts of Greeks to rise up and
-resist the oncoming hordes.  Would this envigorating effect have been
-possible if not for the story? What if it couldn't be told?
+<a name="who-loves-hip-hop" />
 
-What about the Battle of Marathon?! Greeks defeated the Persians and
-news of this victory was so critical that Pheidippides ran over twenty
-miles to bear news of it's victory. *Every marathon you run is part of
-a millenia-old celebration of being the first to deliver a message!*
+### [Who Loves Hip Hop?](#who-loves-hip-hop)
 
-In Kublai Khan's 13th century Mongol invasion of Japan, a typhoon
-decimated the Mongol's forces. I believe that the dissemination of
-information was somehow responsible for this. I don't know how it
-would be possible or the exact details. If the Japanese baited the
-Mongols into attacking at just the right time, then they changed the
-course of history. Why? If this is so, it is because they had the
-right information and the Mongol navy, mostly docked on the coast of
-Japan didn't. This may have been pure luck. It's certainly not widely
-known as anything else.
+- emphasize that the democratization of media creation tools, coupled
+  with access to broadcast mass communication led to cultural
+  transformation
+  - 
 
+*I do*. Hip Hop is a modern example of how the dissemination of
+information changed the lives of millions of people living in mostly
+African American and Hispanic ghettos in urban America.  In
+particular, it is about the democratization of music production
+hardware. It is the first time that *everyone* had access to all the
+equipment needed to produce music, no crazy white man involved.
 
+Hip Hop represents the equivalent of the Internet in terms of
+democratization of technology in the music industry. It is the 20th
+century's equivalent of the printing press. It is similar in how
+economic and technological factors transformed social and cultural
+conditions. This empowered millions of people and cutting out those
+few who stood in the way since the birth of radio and mass media!
+
+In the late 70's and early 80's, music production equipment was still
+expensive, but it was the first time since the invention of radio that
+someone could produce and record music by themselves. Along came the
+Roland 808 Drum Machine and anyone could produce simple loops. Without
+much other hardware, one could program a loop and rap over it.
+
+No studio engineer. No musicians except the musicians. No pricey
+studio hours. The songs could be created by individuals. If they could
+get it on a tape, they could play it somewhere. If it was good, they
+could then pay to have it mastered by a recording engineer. This
+allowed urban musicians to experiment with new forms and there was
+nobody above them that told them they couldn't make it or push it to
+syndication on the radio waves. It was this change in the economics
+and technology of music that paved the way for the cultural revolution
+known as Hip Hop.
+
+Def jam poetry evolved into MC's lyrical style. Block Party DJs like
+‪‎Kool Herc‬ and ‪Africa Bambaataa‬ battled with innovative DJ styles and
+collaborated to architect a cultural movement that simply couldn't be
+stopped. Lyrics provided a lens into conditions and poverty in ethnic
+urban communities which were otherwise lost and forgotten. Until this
+radio explosion radio was tightly controlled and continued to be for
+decades.
+
+The cassette recorder & player was the next major advancement. It
+meant anything with a headphone out or a tape interface could record a
+mixtape that could be copied and shared with friends. No longer could
+white, corporate types maintain a music industry cabal. Everyone who
+could afford a Walkman or earlier incarnations of cassette tech could
+make their own music.
+
+Again, democratization of music production birthed a genre of music
+giving a voice to those otherwise silenced for generations. And why?
+Because it gave poor people a megaphone. Do you think the average
+person would let specific practices continue if they really understood
+the effects? No. So if you can share information, you can put a stop
+to things!
 
 
 
@@ -86,10 +162,119 @@ validate in the first place, but there are major problems here, as far
 as I can see.
 
 
+# "Traits" of information
 
+- need a better name to identify this category
+- each of these traits affects how we share/preserve information and
+  how we think about it (our behaviors in relation to it)
+  - the spectrum of information that is preserved expands
+  - the
 
+### Permanence
 
-###
+- when information is almost always impermanent people operate with
+  the assumption that the specifics of their actions will almost
+  certainly be forgotten.
+
+### "Provability"
+
+- people's tendency to validate.
+  - if it's not easy to validate, people wouldn't default to
+    trying to validate information
+  - beyond some threshold of efficiency/effectiveness of
+    validating info, people start doing it all the time
+
+### Permeability
+
+- language and other barriers to the consumption of
+  representations of information.
+
+- this relates to the proficiency of information processing agents to
+  consume information representations and parallels representability
+  - we're evolving from a world where information was represented
+    neurologically in infinitely many ways to one where there are
+    universal representations of information that can be consumed by
+    almost any information processing entity
+- we had individually distinct neurological representations of
+  information
+  - then our social behaviors encouraged us to increasingly harmonize
+    abstractions. this is what resulted in language AND forced us to
+    expand our mind.
+    - IMO, this is where man began to name the animals.
+  - mankind harmonized its abstractions and as it did, language began
+    to emerge. there are other aspects to this theory.
+  - throughout history, we have spoken many different languages, which
+    present boundaries
+  - written language emerged
+  - digitized information representations emerged
+- if you take this concept to its limit, then information becomes
+  increasingly permeable.
+
+### Representability
+
+- at first, the only information with physically manisfestations are
+  written language, architecture (and..?)
+  - more types of information become representable
+    - we develop increasingly complicated means of abstraction,
+      developing needs for new words/concepts
+
+  - we also establish methods of preserving information
+    - the written form of music composition
+
+- then we have analog representations
+  - by the end of the 19th century, we have photography and
+    phonography to record sounds as they were. obviously, this has
+    profound implications. people evolve similarly to how they did
+    with permanence/provability
+
+- we end with digitized (and/or some kind of fluid quantum
+  representations of information)
+  - digitized representations can be expanded to encode any
+    information with varying degrees of parity
+
+### "Trackability"
+
+- the concept of a spime: an object that can be tracked in
+  space/time for its lifetime
+- provenence: data increasingly includes information about its
+  source, its handling and its transformations
+  - with provenance, you keep track of how data was transformed
+    at various stages.
+  - but also, it is related to copyright and licensing
+
+### ??
+
+- (something representing our ability to manipulate data with
+  machine learning, in particular)
+
+### Physicality (aphysicality)
+
+the notion that more information becomes increasingly spaceless. its
+representations can be tokenised, made more portable, and are mass
+produced until exact copies of information are more numerous. then
+eventually, all representations of information can be digitized,
+copied at the click of a button and distributed anywhere.
+
+- we haven't minimized physicality yet. this is more of an ideal that
+  will never be fully reached.
+
+### Temporality (atemporality)
+
+- we haven't quite reached atemporality this yet.
+  - eventually the accumulation of information includes an
+    increasing range of what was produced in history
+  - not only that, but our access to and accumulation of
+    information begins to approach that of what is effectively
+    what will be produced in history
+    - so, the specifics of information might be different, but
+      qualitatively, the range of information doesn't evolve much.
+    - some information is purely metaphysical (laws of science,
+      combinatorial enumerations of things, etc) this information is
+      mostly not connected to time or space.
+    - so we can generate more of it, it will always remain them
+      same, we can access it from anywhere, etc.
+
+#
 
 - information economics and sociophysical aspects of information
 
@@ -98,6 +283,7 @@ as I can see.
 
 ### The Economics of Content Production/Consumption Lead to Market Saturation
 
+- (this has already been described in the first part, but needs more explanation)
 - the economics of content production/consumption in a converging or
   converged world
   - this is where the [somewhat poorly organized] articles paradox of
@@ -162,8 +348,6 @@ be completely lost.
   - but more of our information is delivered through some virtual
     network built on top of the internet, often managed by a newsfeed
     algorithm
-
-
 
 - these information representations are linked to abstract semiotic
   signs, which people interpret individually.
@@ -237,6 +421,8 @@ be completely lost.
           diluted.
       - without prediction and quantification, one can't ... public
         relations strategies makes it difficult to design...
+
+### (inculcation of a langauge of imagery)
 
 - constant inculcation of a fairly homogenous set of primary symbols,
   that are recognized almost universally across the culture
@@ -319,7 +505,8 @@ be completely lost.
     clearly convey a message that delivers on creating a predictable
     emotional response.
 
-- example: progression of meme culture in the 2010's
+### example: progression of meme culture in the 2010's
+
   - how has the uniformity in meaning changed for individual memes?
   - how has the predictability of a signified concept changed amoung
     meme recipients.
@@ -347,8 +534,10 @@ be completely lost.
     documentaries that you see.
     - people made an hour-long youtube documentary
 
-#### a political example: wtf is the deep state?
+#### political example: wtf is the deep state?
 
+- this is an example of an imagery being mapped inconsistently (partly
+  bc of spectral decoherence)
   - should this occur earlier?
   - perfect example of imagery that is being remapped so that it
     doesn't cohere to any dominant interpretation
@@ -373,6 +562,8 @@ be completely lost.
     - regardless of the quirkly, distracting stories, i do not have
       confidence in our media today at all. liberal media is pushing
       toxic narratives that
+
+
 
 # Vulnerabilities
 
@@ -514,7 +705,6 @@ be completely lost.
         - but information has a life of its own and is difficult to to
           restrict its diffusion without either coercing the container
           of information or destroying it entirely
-
 
   - some examples of tactics in information warfare
     - most techniques from marketing or branding

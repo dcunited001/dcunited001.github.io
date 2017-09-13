@@ -8,13 +8,15 @@ author:
 excerpt: ""
 ---
 
-
 - [the encyclopedia of human thermodynamics - HMOL](http://www.eoht.info/)
   - pretty much the most comprehensive source on social physics and
     everything related it it. it's really comprehensive. it's also one
     of the only sites that covers social physics
+  - cite the social physics paper on studying differences in
+    physically/virtually connected social networks
+    - site other papers?
 
-### [Thermopylae, Marathon and Kublai Khan](#thermopylae-marathon-and-kublai-khan)
+### [Thermopylae and Marathon](#thermopylae-and-marathon)
 
 What's the value of a message? How does cheap and free transmission
 affect us? How does it lead to progress? The power of a simple message
@@ -24,7 +26,7 @@ Persians and funneled vigor into the hearts of Greeks to rise up and
 resist the oncoming hordes. Would this envigorating effect have been
 possible if not for the story? What if it couldn't be told?
 
-What about the Battle of Marathon?! Greeks defeated the Persians and
+What about the Battle of Marathon? Greeks defeated the Persians and
 news of this victory was so critical that Pheidippides ran over twenty
 miles to bear news of it's victory. Every marathon you run is part of
 a millenia-old celebration of being the first to deliver a message.
@@ -49,42 +51,9 @@ a millenia-old celebration of being the first to deliver a message.
         - when people were more widely spread out, those with the
           largest 2nd and 3rd degree networks exhibited major
           advantages
-    - because of geography, the aggregate of trade ...
-
-- Here, the narrow spectrum of available info fluctuated perpetually.
-  - transition into brief reiteration on information economics before
-    the printing press..
-- If you physically limit access to the court, no one but nobles can
-  talk to the king.
-
-
-
-
-Prior to the press, all written records were copied manually.
-Accumulation of writing was roughly bounded by the literate
-population, a kind of abstract membrane whose size loosely correlated
-to a population's permeability to written records. Copies more
-numerous and accessible resulted in more frequently amplified
-information. If the work wasn't financed by the church or state, the
-information's time-to-live drastically plummeted, which parallel's the
-IP Protocol's TTL value. If there were no written records, reflections
-of the information only persisted if they were retransmitted faster
-than they decayed. If supply increased and demand stayed high, ...
-
-.. it would be retransmitted
-
-was only remembered if it was prioritized enough to establish
-consensus among the people. (rw)
-  - in the dark ages, information deemed undesirable was often
-    punished by death.
-
-After the printing press, both the copies of information and the
-frequency by which records were published increased by orders of
-magnitude. Information consensus, at that point, was effectively
-physical. In order to suppress information, it required the location
-and destruction of all physical instantiations of the information. To
-purge records with certainty meant locating them without raising
-alarm.
+    - the geography predestined the middle-east
+      - to be the most networked
+      - the aggregate of trade ...
 
 - The speed of information is just one quantifiable social metric
   whose (momentary scale) led to a profound effect on human history.
@@ -96,71 +65,8 @@ alarm.
   - spectrum of modes of communication
   - value of information
 
-- emphasize how virtual channels of communcation remove physical
-  constraints...
-  - cite the social physics paper on studying differences in
-    physically/virtually connected social networks
-
-<a name="who-loves-hip-hop" />
-
-### [Who Loves Hip Hop?](#who-loves-hip-hop)
-
-- emphasize that the democratization of media creation tools, coupled
-  with access to broadcast mass communication led to cultural
-  transformation
-  - 
-
-*I do*. Hip Hop is a modern example of how the dissemination of
-information changed the lives of millions of people living in mostly
-African American and Hispanic ghettos in urban America.  In
-particular, it is about the democratization of music production
-hardware. It is the first time that *everyone* had access to all the
-equipment needed to produce music, no crazy white man involved.
-
-Hip Hop represents the equivalent of the Internet in terms of
-democratization of technology in the music industry. It is the 20th
-century's equivalent of the printing press. It is similar in how
-economic and technological factors transformed social and cultural
-conditions. This empowered millions of people and cutting out those
-few who stood in the way since the birth of radio and mass media!
-
-In the late 70's and early 80's, music production equipment was still
-expensive, but it was the first time since the invention of radio that
-someone could produce and record music by themselves. Along came the
-Roland 808 Drum Machine and anyone could produce simple loops. Without
-much other hardware, one could program a loop and rap over it.
-
-No studio engineer. No musicians except the musicians. No pricey
-studio hours. The songs could be created by individuals. If they could
-get it on a tape, they could play it somewhere. If it was good, they
-could then pay to have it mastered by a recording engineer. This
-allowed urban musicians to experiment with new forms and there was
-nobody above them that told them they couldn't make it or push it to
-syndication on the radio waves. It was this change in the economics
-and technology of music that paved the way for the cultural revolution
-known as Hip Hop.
-
-Def jam poetry evolved into MC's lyrical style. Block Party DJs like
-‪‎Kool Herc‬ and ‪Africa Bambaataa‬ battled with innovative DJ styles and
-collaborated to architect a cultural movement that simply couldn't be
-stopped. Lyrics provided a lens into conditions and poverty in ethnic
-urban communities which were otherwise lost and forgotten. Until this
-radio explosion radio was tightly controlled and continued to be for
-decades.
-
-The cassette recorder & player was the next major advancement. It
-meant anything with a headphone out or a tape interface could record a
-mixtape that could be copied and shared with friends. No longer could
-white, corporate types maintain a music industry cabal. Everyone who
-could afford a Walkman or earlier incarnations of cassette tech could
-make their own music.
-
-Again, democratization of music production birthed a genre of music
-giving a voice to those otherwise silenced for generations. And why?
-Because it gave poor people a megaphone. Do you think the average
-person would let specific practices continue if they really understood
-the effects? No. So if you can share information, you can put a stop
-to things!
+- If you physically limit access to the court, no one but nobles can
+  talk to the king.
 
 
 
