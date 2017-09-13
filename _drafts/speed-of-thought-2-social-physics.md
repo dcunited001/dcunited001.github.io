@@ -48,9 +48,9 @@ phenomenon in Western history.
 In the ancient world, population growth and movement was tightly
 coupled to economic opportunity, constrained by resources, and bounded
 by geography. Population quantity drives the total quantity of
-information and increases rate at which innovations via the network
-effect. Population density increases the rate at which information
-moves in those sociophysical networks.
+information and increases rate at which innovations occur via the
+network effect. Population density increases the rate at which
+information moves in those sociophysical networks.
 
 Imagine humans as particles with random motion whose individual speed
 of vibration depends on the vehicles available. For the most part, the
@@ -101,6 +101,8 @@ for social behavior and history, giving us options that will yield
 concrete scientific evidence. Most social systems modeled with
 physical components are incomputable, but computational social science
 is harnessing these ideas today. (cite study)
+
+The speed of information is j
 
 - The speed of information is just one quantifiable social metric
   whose (momentary scale) led to a profound effect on human history.

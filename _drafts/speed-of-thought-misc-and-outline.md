@@ -8,7 +8,72 @@ author:
 excerpt: ""
 ---
 
-- title?
+Thesaurus Check:
+
+specific:
+- communication
+- physical: material
+
+- information !!!
+  - iota: an instance of information, to distinguish between
+    situations where there are many references or embeddings of the
+    same datum
+  - datum: a piece of information, singleton information-type
+  - meme: an information-type
+
+top:
+
+- become
+- interaction
+- might
+- network
+- ourselves
+- change
+- cultur-
+- phenomen-
+- potential
+- dynamics
+- knowledge
+- system-
+- mechanics
+- people
+- social
+
+medium:
+
+- significan-
+- different
+- distribution
+- see !!
+- media
+- speed: velocity
+- understand-
+- lead- !!
+- another !
+- quantif-
+- pronounced: apparent
+- often !!
+- other !
+- effects !
+- find !!
+- growth
+- movement
+- instability: turbulence
+- place !
+- results
+- same
+- used
+- ways !!
+- awareness
+- converg-
+- high !!
+
+adverbs:
+
+- essentially
+- effectively
+- increasingly !!!
+- suddenly
 
 #### Structure of information as memes, datums, iotas
 
@@ -190,6 +255,9 @@ finite set
     breakdown in causality
   - use imagery from that anime on the anisotropic
 
+
+- If you physically limit access to the court, no one but nobles can
+  talk to the king.
 
 ###
 
