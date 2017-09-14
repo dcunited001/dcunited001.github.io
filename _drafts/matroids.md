@@ -34,6 +34,31 @@
   - Probably related to
     [Ramsey Theory](https://en.wikipedia.org/wiki/Ramsey_theory)
 
+  - (see metanomics drafts for info on maximum # genes in an
+    organism), but this may also give rise to similar limits in
+    artificial intelligence leading to two options: (1) convergence of
+    a singular hyperintelligence or (2) coordination of networked
+    information processing entities
+    - even though AI doesn need physical space for spatially
+      distributed state because of "network-theoretic maximums for
+      edges", something like this may occur
+    - this would force information processing to be distributed
+      because of the exponential complexity of the information that
+      each entity would process
+    - the answer to this question has major implications for the
+      distribution of agency in a post-convergence, post-singularity
+      world.
+      - does everything converge into one totally distinct
+        hyper-intelligence with total control over itself
+      - or is there a graph theory maximum for networking information
+        processing entities together that requires a degree of
+        separation. in this case, many AI's could try to control as
+        many entities as possible...
+        - and this also forces information to permanently retain
+          a degree of physicality in its state... kinda
+      - these ideas needs a lot of work lmao. these are likely
+        problems encountered in theoretical computer science.
+
 - probabilistic computing and probabilistic turing machines
   effectively describe the dynamical state machine programming idea
   described in my article

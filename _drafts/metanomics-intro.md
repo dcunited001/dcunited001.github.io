@@ -10,8 +10,18 @@ excerpt: ""
 
 ### TODO
 
-- rename ergodic => dynamical
+- rename ergodic => dynamical => chaotic
   - or something similar
+  - these are chaotic systems with no definite order and tendency to
+    become increasingly unpredictable. however, some components of the
+    system can impact the configurational/conformational entropy of
+    the system as a whole in predictable ways.
+  - programs could be written in these chaotic systems, although they
+    are impossible to predict with certainty, some patterns of
+    behavior can be assumed to emerge with a degree of confidence
+    - in this way, they can ergodically produce a singular result or a
+      range of final states
+  - is this similar to [Chaos Computing](https://en.wikipedia.org/wiki/Chaos_computing)?
 - split into separate files
 - organize the first article
 - find pictures. make content visual & relatable
@@ -110,7 +120,6 @@ there are parametric & nonparametric forms of these problems:
 
 # Metanomics Intro
 
-intro
 - explain higher level organization of *-nomics
   - reference notes from Pavel Pevzner's lecture
   - define genomics in relation to epigenomics
@@ -384,6 +393,7 @@ mapping out tissue networks in the body
       produces a diminishing effect in the networks
   - but when pairs/tuples of these limits are compared, exceeding any
     two of them for a tuple may cause the entire system to break down
+- giving way to a need for multi-karyotic cells
 
 - abstract idea of a maximum of addressable behaviors that is
   'conveniently-accessible' enough in some way, forming a maximum in
@@ -391,7 +401,8 @@ mapping out tissue networks in the body
   - because the space can't manage the information complexity without
     causing problems in it's dependable executablility
   - what to call this concept? ... ergodic network maximum (?)
-- giving way to a need for multi-karyotic cells
+  - (see Theoretic CS matrioids.md)
+
 - lead into brief discussion on how this limit is another form of a
   mathematical limit imposed on computers as well
   - that is a maximum per-node limit for transformations or

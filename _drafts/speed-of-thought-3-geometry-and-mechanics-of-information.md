@@ -40,10 +40,8 @@ IP Protocol's TTL value. If there were no written records, reflections
 of the information only persisted if they were retransmitted faster
 than they decayed. If supply increased and demand stayed high, ...
 
-.. it would be retransmitted
-                                                                                  
-was only remembered if it was prioritized enough to establish
-consensus among the people. (rw)
+.. it would be retransmitted and was only remembered if it was
+prioritized enough to establish consensus among the people. (rw)
   - in the dark ages, information deemed undesirable was often
     punished by death.
 

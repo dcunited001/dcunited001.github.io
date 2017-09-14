@@ -178,11 +178,61 @@ informational components and dynamics emerging from information. (This
 also stands out from simple probabilistic models for social behavior
 with its focus on the spatial components and particle interactions.)
 
-# Most Important Conclusions from Social Physics
+# Definition of Power
 
-- title??
-- Extrapolating from a basic understanding, there are several
+### Power Can Be Defined as the Potential to Trigger Flux through the Social Network
+
+- this flux comes in many forms, including the induction of:
+  - physical change
+  - informational change
+  - schematic change
+  - behavioral change
+
+- (here, focus on imagery related to electrical systems)
+
+- the forms above are higher-order. that is, what we see IRL are
+  really combinations of the above:
+  - informational change that results in physical change
+  - informational change that results in eventual schematic change on
+    a social scale
+  - behavior change that results in long-term physical changes
+  - physical changes that result in informational changes
+  - schematic change that results in self-perpetuating changes over
+    the course of years, decades or centuries (i.e. religion)
+
+- this potential for flux/action is very much dependent on the beliefs
+  of nodes in the system and a differential of information available
+  to the nodes.
+  - that is, if there is already complete disemination of some pieces
+    of information to a set of nodes, you have reduced or lost the
+    capacity to influence those nodes through the disemination of that
+    information
+    - this is overly simplified because, again, everything is a
+      lower-order conjugation of the above higher-order forms
+    - differential equations
+  - but the social graph that emerges on top of physically interacting
+    particles (idealized people) in a social system functions very
+    much like an electrical network
+    - in this way, power and information function similarly to
+      voltage, amperage, gates, etc, albeit in an extremely-high
+      dimensional way
+    - math problems that are extremely high in dimension or infinitely
+      dimensional function in radically different ways
+      - this often studied as the curse of dimensionality and it's
+        implications in various areas of math diverge widely
+
+
+
+
+
+# Preponderant Sociophysical Postulates
+
+- Extrapolating from a basic assessment of the math, there are several
   implications/conclusions that stand out above everything else
+
+- others:
+  - the definition of power as capacity to project influence
+  - social isolation/connectedness (in/dependence and vulnerability)
 
 #### (1) decoherence of information/knowledge reduces... (ability to model the system)
 
@@ -213,7 +263,7 @@ with its focus on the spatial components and particle interactions.)
     make *any* useful inferences and those aspects of the systems
     which cause schematic divergence become problematic
 
-#### (2) Attention/Focus (does not permit concurrency of action)
+#### (2) Attention/Focus originates from autonomous agents is not concurrent (does not permit concurrency of action)
 
 - a second critical factor is the lack of multitasking:
   - particles (at least people) can only really do one thing & can
@@ -224,12 +274,49 @@ with its focus on the spatial components and particle interactions.)
       manisfestations
   - similarly, people are bound to one place at a time
 
-#### (3) Connectedness and Social Isolation can be Measured
+#### (3) Social connections are both physical and logical, but increasingly logical
 
+
+
+#### (4) Evolutionary Dynamics of Social Physics Provides a Framework for Probabilistic Programming
+
+- title?
+
+- briefly(!) what is probabilistic programming
+  - it's like a means of modeling/studying chaotic systems where the
+    systems constituents begin to impose order on the system.
+  - under what situations would a chaotic system begin to exhibit
+    components of itself that can "create order out of chaos" ?
+  - 
+
+- there are ideas from probabilistic programming at both macro and
+  micro levels. the micro refers to the each how particle informs its
+  structures its view of the world and informs its actions.
+  - but then there are ideas from probabilistic programming at work at
+    higher levels of organization. here, the particles interact
+    similar to how atoms/molecules interact in genetics.
+    - here, the analogy of spatially distributed state is more apparent.
+
+- social physics can be Modeled with ideas from machine learning
+  - each parti Boltzmann Machine
+  - and/or perhaps other ideas from machine learning
+
+- explain what a [boltzmann machine]() is.
+  - i'm going to need to refresh
+  - a boltzmann machine makes small changes to values over a very long
+    time (i think...) and is computationally prohibitive in all most
+    all circumstances (or at least is usually an inefficient way to
+    solve a problem)
+
+
+
+### Connectedness and Social Isolation can be Measured
+
+- this isn't really something considering almost axiomatic, which
+  definitely describes the other two...
 - third: social isolation is quantifiable and almost always correlates
   with power. more isolated, less empowered.
   - isolated individuals are more susceptable to manipulation
-
 
 - social isolation can be measured, given some "normal" facebook
   user's 2-degree graph of friends for some definition of normal
@@ -264,16 +351,27 @@ with its focus on the spatial components and particle interactions.)
       of users which fit some basis with quantifyable variation and
       some metric of confidence
 
-
-- over time, social isolation created some of the largest setbacks for
-  the african american community. this strongly limited social
-  mobility because african americans forged a disproportionate amount
-  of strong connections with influential people with social/financial
-  capital.
+- during and after segregation, social isolation created massive, but
+  hard-to-see setbacks for the african american community. this
+  strongly limited social mobility because african americans forged a
+  disproportionately small amount of strong connections with
+  influential people with social/financial capital.
+  - this is especially hard to see if you don't experience it.
+  - the exact consequences of this are difficult to see or prove, but
+    it means opportunities for advancement and economic well being
+    were consistently out of reach, even after segregation officially
+    ended.
+  - even though the law was fixed, minority communities had a greater
+    average networking distance to the gatekeepers of economic
+    opportunities (not all white people, but rich white people),
+    though it's difficult to measure
+  - this takes time to heal, though there is plenty of room for
+    improvement, i think it has significantly improved over the
+    previous three generations.
 
 - in a purely digital world, manipulation of social media algorithms
-  to exclude "undesirable" individuals to create disconnection among
-  groups of people, defined logically instead of by ethnicity.
+  to exclude "undesirable" individuals could create disconnection
+  among groups of people, defined logically instead of by ethnicity.
   - i don't mean this to be compared to segregation
   - in a convergent social network that is increasingly less engaged
     in "real" interactions and more engaged in "virtual" interactions,
@@ -281,47 +379,6 @@ with its focus on the spatial components and particle interactions.)
     censored via SEO/Social Media manipulation, this means that entire
     groups of people can become silenced or disenfranchised without
     even knowing it.
-
-# The Definition of Power
-
-### Power Can Be Defined as the Potential to Trigger Flux through the Social Network
-
-- this flux comes in many forms, including the induction of:
-  - physical change
-  - informational change
-  - schematic change
-  - behavioral change
-
-- the forms above are higher-order. that is, what we see IRL are
-  really combinations of the above:
-  - informational change that results in physical change
-  - informational change that results in eventual schematic change on
-    a social scale
-  - behavior change that results in long-term physical changes
-  - physical changes that result in informational changes
-  - schematic change that results in self-perpetuating changes over
-    the course of years, decades or centuries (i.e. religion)
-
-- this potential for flux/action is very much dependent on the beliefs
-  of nodes in the system and a differential of information available
-  to the nodes.
-  - that is, if there is already complete disemination of some pieces
-    of information to a set of nodes, you have reduced or lost the
-    capacity to influence those nodes through the disemination of that
-    information
-    - this is overly simplified because, again, everything is a
-      lower-order conjugation of the above higher-order forms
-    - differential equations
-  - but the social graph that emerges on top of physically interacting
-    particles (idealized people) in a social system functions very
-    much like an electrical network
-    - in this way, power and information function similarly to
-      voltage, amperage, gates, etc, albeit in an extremely-high
-      dimensional way
-    - math problems that are extremely high in dimension or infinitely
-      dimensional function in radically different ways
-      - this often studied as the curse of dimensionality and it's
-        implications in various areas of math diverge widely
 
 # (Physics Analogies for Social Systems)
 
