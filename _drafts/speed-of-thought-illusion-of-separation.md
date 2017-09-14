@@ -110,8 +110,8 @@ information.
 
 Without intelligent life, the universe might never manifest awareness
 of itself. Humanity has reached a transitionary period where
-communication networks allow our ideas to pollinate maximally. This (
-moment) symbolically represents humanity's awareness of ourselves
+communication networks allow our ideas to pollinate maximally. This
+(moment) symbolically represents humanity's awareness of ourselves
 (reaching a kind of fullness) as it ripens. Our understanding of
 ourselves reaches a state of (totality or completeness) to a degree of
 (personal) significance, the magnitude of which we may only ever

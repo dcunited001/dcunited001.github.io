@@ -371,7 +371,6 @@ finite set
     - if you think this is wrong, i can explain their training
       materials, pattern languages and obsession over "disconnection"
       *THIS IS DISCONNECTION*, by the way.
-      
 
 
 # (Implications of (your perspective on) Social Physics, Networks and Information Dynamics)

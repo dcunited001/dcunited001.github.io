@@ -303,7 +303,7 @@ energy.
     make *any* useful inferences and those aspects of the systems
     which cause schematic divergence become problematic
 
-#### (9) Evolutionary Dynamics of Social Physics Provides a Framework for Probabilistic Programming
+#### (9) Evolutionary Dynamics of Social Physics Build on Programs in Chaos
 
 - title?
 
@@ -332,7 +332,6 @@ energy.
     time (i think...) and is computationally prohibitive in all most
     all circumstances (or at least is usually an inefficient way to
     solve a problem)
-
 
 ### Connectedness and Social Isolation can be Measured
 
