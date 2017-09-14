@@ -5968,7 +5968,7 @@ button.close {
 .btn, h1, h2, h3, h4, h5, h6, h1.special, .tile .tags span, aside {
   font-family: 'Oswald', sans-serif; }
 
-body {
+body, aside span.title-subglyph {
   font-family: 'Noto Sans', sans-serif; }
 
 footer p {
@@ -6010,12 +6010,18 @@ article iframe {
 .navbar-graphics-top {
   margin: 0px auto; }
 
+.navbar-graphics-bottom {
+  margin: 0px auto; }
+
 .navbar-label {
   position: relative;
   display: block;
   padding: 15px 15px;
   line-height: 20px;
   color: #9d9d9d; }
+
+#animation-alerts .label {
+  margin-right: 5px; }
 
 /* Bootstrap
  --------------------------------------------------
@@ -6081,7 +6087,7 @@ nav.navbar {
 .title-group {
   text-align: center;
   padding: 0 15px;
-  margin: 50px 0 50px; }
+  margin: 10px 0 10px; }
   .title-group p {
     max-width: 800px;
     margin: 25px auto 0; }

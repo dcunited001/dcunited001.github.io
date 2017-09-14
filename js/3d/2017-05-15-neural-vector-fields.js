@@ -61,41 +61,6 @@ window.expandDefines = function (defines = {}) {
   return defineStrings;
 };
 
-window.loadImage = function (url, onload) {
-  var img = new Image();
-  img.src = url;
-  img.onload = function () {
-    onload(img);
-  };
-  return img;
-};
-
-window.loadImages = function (urls, onload) {
-  var imgs = [];
-  var imgsToLoad = urls.length;
-
-  function onImgLoad() {
-    if (--imgsToLoad <= 0) {
-      onload(imgs);
-    }
-  }
-
-  for (var i = 0; i < imgsToLoad; ++i) {
-    imgs.push(loadImage(urls[i], onImgLoad));
-  }
-};
-
-window.loadObj = function (url, onload) {
-  var xhr = new XMLHttpRequest();
-  xhr.open('GET', url, true);
-  xhr.responseType = 'text';
-  xhr.onload = function (e) {
-    var mesh = new OBJ.Mesh(this.response);
-    onload(mesh);
-  };
-  xhr.send();
-};
-
 window.loadEffect = function (name) {
   var particleSpeedSlider = document.getElementById('particle-speed'),
     rotationSpeedSlider = document.getElementById('rotation-speed'),

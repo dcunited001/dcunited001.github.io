@@ -85,7 +85,7 @@
       */
     </script>
 
-    <nav class="navbar navbar-inverse navbar-fixed-top">
+    <nav id="main-navbar" class="navbar navbar-inverse navbar-fixed-top">
         <div class="container-fluid">
             <div class="navbar-header">
                 <button type="button" class="navbar-toggle collapsed" data-toggle="collapse" data-target="#navbar" aria-expanded="false" aria-controls="navbar">
@@ -139,7 +139,9 @@
 <script type="text/javascript" src="/js/highlight/highlight.pack.js"></script>
 <link rel="stylesheet" href="/js/highlight/styles/zenburn.css"/>
 
-
+<article>
+  
+    
 
 <div class="title-group">
   
@@ -153,6 +155,7 @@
       
     </span>
   </h1>
+
   
   <aside>
     06.29.17
@@ -165,19 +168,15 @@
   </aside>
   
 
-  <p>
-    λ&nbsp;<i class="fa fa-heart"></i>&nbsp;(&nbsp;
-    <a href="#" id="btn-subglyph" onclick="toggleSubglyph()" data-toggle="tooltip" title="Click Me To Escape Index-Based Censorship">§µßƍŁ¥þĦ ԠƎ</a>
-    &nbsp;)
-  </p>
+  <aside>
+    <span class="title-subglyph">
+      &nbsp;(&nbsp;λ&nbsp;<i class="fa fa-heart"></i>
+      <a href="#" id="btn-subglyph" onclick="toggleSubglyph()" data-toggle="tooltip" title="Click Me To Escape Index-Based Censorship">§µßƍŁ¥þĦ</a>
+      )&nbsp;
+    </span>
+  </aside>
 </div>
 
-
-<article>
-  
-    <div class="container">
-  <h4>Requires ES6 & WebGL 2.0 &#x2605; Runs Best In Firefox (and Chrome) &#x2605; Does Not Run On Mobile</h4>
-</div>
 
 <div id="canvas-ui-bar-top" class="navbar navbar-inverse navbar-graphics navbar-graphics-top">
   <div class="container">
@@ -189,6 +188,7 @@
         <span class="caret"></span>
         <span class="sr-only">Toggle Dropdown</span>
       </button>
+
       <ul class="dropdown-menu">
         <li><a href="#" onclick="setResetParticlesWith('random')">Random Momentums</a></li>
         <li><a href="#" onclick="setResetParticlesWith('outward')">Outward: (x,y)</a></li>
@@ -224,7 +224,7 @@
 </div>
 
 <div id="main-canvas-container" class="canvas-container">
-  <canvas id="main-canvas" class="wide-canvas" height="500"></canvas>
+  <canvas id="main-canvas" class="wide-canvas" style="height:500px;"></canvas>
 </div>
 
 <div id="canvas-ui-bar-bottom" class="navbar navbar-inverse navbar-graphics navbar-graphics-bottom">
@@ -235,8 +235,8 @@
 
     <div class="btn-group navbar-left" data-toggle="buttons">
       <label class="btn btn-lit-info btn-lit navbar-btn"><input type="radio" name="physics-method" value="0"/>Brownian</label>
-      <label class="btn btn-lit-info btn-lit navbar-btn active"><input type="radio" name="physics-method" value="1" checked/>Splat</label>
-      <label class="btn btn-lit-info btn-lit navbar-btn"><input type="radio" name="physics-method" value="2"/>Field</label>
+      <label class="btn btn-lit-info btn-lit navbar-btn"><input type="radio" name="physics-method" value="1"/>Splat</label>
+      <label class="btn btn-lit-info btn-lit navbar-btn active"><input type="radio" name="physics-method" value="2" checked/>Field</label>
     </div>
 
     <ul class="nav navbar-nav navbar-left">
@@ -273,6 +273,10 @@
       <li><span id="stats-fps-label" class="btn btn-danger btn-group-label navbar-btn">0.00 FPS</span></li>
     </ul>
   </div>
+</div>
+
+<div class="container">
+  <h4>Requires ES6 & WebGL 2.0 &#x2605; Runs Best In Firefox (and Chrome) &#x2605; Does Not Run On Mobile</h4>
 </div>
 
 <div class="container">
@@ -326,7 +330,6 @@
     </div>
   </div>
 </div>
-
   
 
   <div class="container">
@@ -839,13 +842,7 @@ void main() {
 }
 </script>
 
-<script type="text/javascript" src="/js/3d/utils/quad.js"></script>
-
-<script type="text/javascript" src="/js/3d/utils/line_plot.js"></script>
-
-<script type="text/javascript" src="/js/3d/utils/mip_reducer.js"></script>
-
-<script type="text/javascript" src="/js/3d/2017-06-29-animating-the-gradient.es6.js"></script>
+<script type="text/javascript" src="/js/3d/2017-06-29-animating-the-gradient.js"></script>
 
 <script type="text/javascript">
   function pasteShaderToCodeBlock(shaderId, codeBlockId) {

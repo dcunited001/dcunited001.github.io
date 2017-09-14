@@ -1,5 +1,16 @@
 // Unicode substitution cipher
 
+// Convolutional Wasserstein Distances: Efficient Optimal Transportation on Geometric Domains
+// - https://people.csail.mit.edu/jsolomon/assets/convolutional_w2.compressed.pdf
+// - useful for morphing between well-defined shapes (
+//   - by identifying paths (i think) through the wasserman metric, a space that defines
+//     distances between probability distributions
+// - however, this may be useful for subglyph after present the system with one grapheme with
+//   randomness injected into the vector data for the font's representation of that grapheme
+//   (i.e. point & bezier curves)
+// - i don't quite understand it in detail, but it seems like there would be several components
+//   useful to carry over to Subglyph
+
 Subglyph = function(options) {
   this.dictionary = options && options['dictionary'] || {};
 
