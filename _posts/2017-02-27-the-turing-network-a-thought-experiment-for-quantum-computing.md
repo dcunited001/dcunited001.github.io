@@ -1,7 +1,7 @@
 ---
 title: "The Turing Network: A Thought Experiment for Quantum Computing"
 categories: blog
-tags: ""
+tags: "computer-science math"
 headline: ""
 author:
   name: "David Conner"
