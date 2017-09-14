@@ -9,10 +9,12 @@ excerpt: ""
 ---
 
 - todo: thesaurus check
-- todo: define iota/datum/memes
-- todo: titles
 
-### What Is The Speed of Thought Today?
+![](/img/posts/2017-09-14-speed-of-thought-illusion-of-separation/)
+
+<a name="what-is-the-speed-of-thought-today" />
+
+### [What Is The Speed of Thought Today?](#what-is-the-speed-of-thought-today)
 
 Impulses between neurons can travel over 100 meters per second.
 Instead, consider the speed at which a thought can travel across the
@@ -32,7 +34,55 @@ information. So, the geometry and structure of the information itself
 as it fits into its contexts determines its motion along virtual
 channels.
 
-# (Social Physics Metaphors)
+<a name="memes-datums-and-iotas" />
+
+### [Memes, Datums and Iotas](#memes-datums-and-iotas)
+
+In this series, meme refers to something between a unit of cultural
+information and a unit of its transmission. A datum, which can
+represent a meme, refers to a structure of information, dependent from
+and potentially linked to its instantiations in various networks and
+spaces. To distinguish it from common connotations of data, it's
+pluralized here as datums. Here, iota refers to datum instantiations
+in spaces and networks as singleton types.
+
+#### The Way that can be told of is not an unvarying way;
+
+#### The names that can be named are not unvarying names.
+
+#### It was from the Nameless that Heaven and Earth sprang;
+
+#### The named is but the mother that rears the ten thousand creatures, each after its kind.
+
+Datums should be thought as myriad types of molecules, each and all
+vibrating with faint deviation to characteristic modes. They are
+molecular in the sense that they are composed from more elemental
+datums. The nature of information and its wide speciation expand datum
+variety in [tetrationally](https://en.wikipedia.org/wiki/Tetration)
+intricate ways. Internalization of this endless variety of information
+is what it takes to truly determine anything about social physics,
+though most representations map sparsely to the range of
+possibilities. Memes are like monoidal, higher types of datums. All
+possible structure types for information can be combinatorially
+enumerated with basic using category theory.
+
+#### Tetration on the Complex Plane
+
+![Tetration on the Complex Plane](/img/posts/2017-09-14-speed-of-thought-illusion-of-separation/)
+
+<a name="temperature-density-waves-and-spectra" />
+
+# [Temperature, Density, Waves and Spectra](#temperature-density-waves-and-spectra)
+
+#### What's Both Hot and Cold,
+
+#### Vibrates and Resonates,
+
+#### And Is Made Of At Least Two Kinds of Stars?
+
+Sociophysical networks, which have spaces of varying topology: both
+physical spaces and more logical spaces. In one we are literally made
+of star dust and, in the other, we form star-like graph structures.
 
 Sociophysical systems exhibit a wide array of behavior that can be
 modeled with physics metaphors. The movement of people in a mall have
@@ -43,9 +93,11 @@ diffusion. From atop a ziggurat in Sumeria or Mesoamerica, some of the
 basic sociophysical mechanics emerge visibily as patterns of
 interaction in crowds.
 
-![Teotihuacan](/img/posts/.../teotihuacan.jpg)
+![Teotihuacan](/img/posts/2017-09-14-speed-of-thought-illusion-of-separation/teotihuacan.jpg)
 
-### (Speed of Sound)
+<a name="the-speed-of-sound" />
+
+### [The Speed of Sound](#the-speed-of-sound)
 
 Extending the parallels to temperature and density yields a metaphor
 to the speed of sound, describing the potential speed at which general
@@ -56,7 +108,9 @@ correlate with higher potential for interactions to occur. As you
 geographically zoom out, the potential speed of information diffusion
 becomes more closely coupled to temperature and population density.
 
-### (Population growth)
+<a name="cultural-reverberation" />
+
+### [Cultural Reverberation](#cultural-reverberation)
 
 From ancient times through the telegraph, all information flux was
 bound to physical contact. Population growth itself gradually

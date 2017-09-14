@@ -14,13 +14,6 @@ specific:
 - communication
 - physical: material
 
-- information !!!
-  - iota: an instance of information, to distinguish between
-    situations where there are many references or embeddings of the
-    same datum
-  - datum: a piece of information, singleton information-type
-  - meme: an information-type
-
 top:
 
 - become
