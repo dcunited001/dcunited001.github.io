@@ -16,10 +16,10 @@ truly chaotic?"
 ---
 
 There is a novel paradigm for programming. It's name is elusive, but
-it seems like a subject of research in theoretical computer
-science. This paradigm describes systems of genetic programs built on
-the foundations of molecular dynamics. It also helps describe systems
-in social physics.
+it seems like a subject of research in theoretical computer science.
+This paradigm describes systems of genetic programs built on the
+foundations of molecular dynamics. It also helps describe systems in
+social physics.
 
 Particle systems are known to be dynamical and to display ergodicity,
 under some situations. These systems can also be non-linear and thus
@@ -70,6 +70,8 @@ increases the likelihood this mRNA will be translated. The more copies
 of this mRNA the likely they are to result in result in protein
 products, whether the copies originate from transcription or
 amplification.
+
+![Strange Attractor](/img/posts/2017-09-14-awareness-precipitates-from-order-out-of-chaos/lorenz-attractor.jpg)
 
 <a name="trees-of-non-deterministic-state-machines-in-chaos" />
 
@@ -140,6 +142,8 @@ themselves, reflecting their own images back into themselves? This is
 what leads to higher levels of order in chaos. If chaotic systems
 yield order that compels some form of ergodicity to emerge, is it
 truly chaotic?
+
+![Form From Chaos](/img/posts/2017-09-14-awareness-precipitates-from-order-out-of-chaos/form-from-chaos.jpg)
 
 <a name="information-representation-without-absolute-parity" />
 
