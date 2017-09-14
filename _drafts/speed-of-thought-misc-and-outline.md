@@ -292,7 +292,6 @@ finite set
       proactively drive behavior and can cause the system to become
       unpredictable in ways that can't be predicted...
 
-
 # Using Social Physics to Contain/Promote People and Ideas
 
 - The physical or graph boundaries of someone's social network can be
@@ -372,12 +371,7 @@ finite set
     - if you think this is wrong, i can explain their training
       materials, pattern languages and obsession over "disconnection"
       *THIS IS DISCONNECTION*, by the way.
-
-# Evolutionary Dynamics of Social Physics Modeled as a Boltzmann Machine
-
-- what is a [boltzmann machine]()?
-- probabilistic programming
-
+      
 
 
 # (Implications of (your perspective on) Social Physics, Networks and Information Dynamics)

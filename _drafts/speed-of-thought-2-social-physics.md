@@ -178,13 +178,36 @@ informational components and dynamics emerging from information. (This
 also stands out from simple probabilistic models for social behavior
 with its focus on the spatial components and particle interactions.)
 
-# Definition of Power
+# Preponderant Sociophysical Postulates
 
-### Power Can Be Defined as the Potential to Trigger Flux through the Social Network
+- Extrapolating from a basic assessment of the math, there are several
+  implications/conclusions that stand out above everything else
+- much of this stuff obviously isn't or can't be measured.
+
+- others:
+  - the definition of power as capacity to project influence
+  - social isolation/connectedness (in/dependence and vulnerability)
+
+#### (1) Types of energy have both linear and non-linear mechanics, which determine their equivalence and interaction dynamics
+
+Their mechanics Linearly or 
+Non-Linear linearly and non-linear models,
+
+of energy equilalence, governing movement and transduction
+
+There varying metrics and means of equivalence for the movement of Energy
+
+#### (2) Power is rate of energy fluxing through sociophysical networks
+
+
+
+Power Can Be Defined as the Potential to Trigger Flux through the
+Social Network
 
 - this flux comes in many forms, including the induction of:
   - physical change
   - informational change
+  - graph-structural change
   - schematic change
   - behavioral change
 
@@ -200,6 +223,9 @@ with its focus on the spatial components and particle interactions.)
   - schematic change that results in self-perpetuating changes over
     the course of years, decades or centuries (i.e. religion)
 
+
+#### (3) Social power depends on potentials for types of energy flux, each actual and perceived
+
 - this potential for flux/action is very much dependent on the beliefs
   of nodes in the system and a differential of information available
   to the nodes.
@@ -210,6 +236,7 @@ with its focus on the spatial components and particle interactions.)
     - this is overly simplified because, again, everything is a
       lower-order conjugation of the above higher-order forms
     - differential equations
+
   - but the social graph that emerges on top of physically interacting
     particles (idealized people) in a social system functions very
     much like an electrical network
@@ -222,19 +249,32 @@ with its focus on the spatial components and particle interactions.)
         implications in various areas of math diverge widely
 
 
+#### (4) Perceived Beliefs feedback into social power (...)
+
+In this way, belief and perception can almost independently create
+energy.
+
+#### (5) Agents have varying degrees of autonomy, individual definitions of energy types and share traits, such as concurrency, bandwidth and physicality.
 
 
+- a second critical factor is the lack of multitasking:
+  - particles (at least people) can only really do one thing & can
+    only think one thing at a time, which bounds how quickly state
+    changes can occur
+    - this doesn't apply to automonous agents operating on virtual
+      channels, which are so far almost completely bound to aphysical
+      manisfestations
+  - similarly, people are bound to one place at a time
 
-# Preponderant Sociophysical Postulates
 
-- Extrapolating from a basic assessment of the math, there are several
-  implications/conclusions that stand out above everything else
+#### (6) Mechanics of Social interactions and connections are physical and logical, but increasingly logical.
 
-- others:
-  - the definition of power as capacity to project influence
-  - social isolation/connectedness (in/dependence and vulnerability)
+- Information, energy and social power flow through networks.
 
-#### (1) decoherence of information/knowledge reduces... (ability to model the system)
+#### (7) To hedge against domain complexity, agents amplify perceived beliefs and interact in other ways.
+
+
+#### (8) decoherence of information/knowledge reduces... (ability to model the system)
 
 - the single most important conclusion I can draw from a mathematical
   assessment of social physics is that the ability to make valid
@@ -263,31 +303,16 @@ with its focus on the spatial components and particle interactions.)
     make *any* useful inferences and those aspects of the systems
     which cause schematic divergence become problematic
 
-#### (2) Attention/Focus originates from autonomous agents is not concurrent (does not permit concurrency of action)
-
-- a second critical factor is the lack of multitasking:
-  - particles (at least people) can only really do one thing & can
-    only think one thing at a time, which bounds how quickly state
-    changes can occur
-    - this doesn't apply to automonous agents operating on virtual
-      channels, which are so far almost completely bound to aphysical
-      manisfestations
-  - similarly, people are bound to one place at a time
-
-#### (3) Social connections are both physical and logical, but increasingly logical
-
-
-
-#### (4) Evolutionary Dynamics of Social Physics Provides a Framework for Probabilistic Programming
+#### (9) Evolutionary Dynamics of Social Physics Provides a Framework for Probabilistic Programming
 
 - title?
 
-- briefly(!) what is probabilistic programming
+- briefly(!) what is probabilistic programming (is it chaos computing
+  or programming with chaotic systems)
   - it's like a means of modeling/studying chaotic systems where the
     systems constituents begin to impose order on the system.
   - under what situations would a chaotic system begin to exhibit
     components of itself that can "create order out of chaos" ?
-  - 
 
 - there are ideas from probabilistic programming at both macro and
   micro levels. the micro refers to the each how particle informs its
@@ -307,7 +332,6 @@ with its focus on the spatial components and particle interactions.)
     time (i think...) and is computationally prohibitive in all most
     all circumstances (or at least is usually an inefficient way to
     solve a problem)
-
 
 
 ### Connectedness and Social Isolation can be Measured

@@ -754,7 +754,7 @@ be completely lost.
 
 # boundaries of communication networks in information warfare
 
-- when the boundaries are more tightly locked down:
+- when the social network boundaries are more tightly locked down:
       - there are negative aspects:
         - it becomes harder to establish relationships with the
           outside
@@ -793,6 +793,16 @@ be completely lost.
           people in power in those countries, but also can be an
           attempt to preserve cultural identity in spite of
           modernization
+
+
+- language boundaries
+  - the nodes in the the social graph can be grouped by languages,
+    which are each connected by a bilingual set of the population that
+    can act as a membrane by which information can easily pass into
+    the other language groups
+  - this only effects irl/p2p conversations, but today most
+    information is refracted across multiple languages
+
 
 - narrative of american interventionalist foreign policy as being
   evil, self-serving and (etc..)
