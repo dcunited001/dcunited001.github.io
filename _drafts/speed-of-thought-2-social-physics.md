@@ -57,9 +57,13 @@ and returning to it every day. When these particles hit the ocean,
 they accelerate like sound hitting a solid barrier, assuming these
 people have ships and sails.
 
+<a name="thermal-convection-of-information" />
+
+### [Thermal Convection of Information](#thermal-convection-of-information)
+
 Imagine the sun rising in the Far East. It heats up the air and water,
 giving us wind and ocean currents, but doesn't it's sociophysical
-energy also reverberate through humanity?  As the world turns each
+energy also reverberate through humanity? As the world turns each
 day, there is random motion moving from the east to the west, driving
 social interactions. Pushing through the noise are faint, low
 frequency waves of cultural information rippling over and reflecting
@@ -70,6 +74,10 @@ number of social connections over which information can cross. These
 metaphors are not perfect, as behavior was not coordinated and our
 modes of transportation were limited throughout history.
 
+<a name="humanitys-measures-of-connectedness-vary-geographically" />
+
+### [Humanity's Measures of Connectedness Vary Geographically](#humanitys-measures-of-connectedness-vary-geographically)
+
 Consider the human population distribution of 5,000 BC. At this time,
 we had dispersed from Africa through the Middle East and around the
 Black Sea to India, Europe, China, Indonesia and the Americas. At that
@@ -78,6 +86,8 @@ connected region was the Middle East. And people less connected?
 Those in island nations or beyond the tropics of Cancer and Capricorn,
 both of which would incidentally be more likely to understand the
 spherical shape of the earth.
+
+### (Middle east as the old world's maximum of connectivity)
 
 As for the Middle East, its high degree of connection, its proximity
 to geographic chokepoints and its access to large swaths of ocean
@@ -90,7 +100,7 @@ and 3rd degree networks, which conferred major advantages. Those with
 wealth could finance transport and delegate action, which further
 helped expand those networks.
 
-# (Social Physics Overview
+# (Social Physics Overview)
 
 Sociophysical systems are usually too complex to yield truly
 scientific evidence, these metaphors and metrics are invaluable tools
@@ -100,7 +110,7 @@ concrete scientific evidence. Most social systems modeled with
 physical components are incomputable, but computational social science
 is harnessing these ideas today. (cite study)
 
-### (Overview)
+### (Intractibility)
 
 Information has a life of its own and nowhere does this become more
 clear than in social physics, which is a mathematical framework for
@@ -178,38 +188,48 @@ informational components and dynamics emerging from information. (This
 also stands out from simple probabilistic models for social behavior
 with its focus on the spatial components and particle interactions.)
 
-# Preponderant Sociophysical Postulates
+# (Preponderant) Sociophysical Postulates
 
-- Extrapolating from a basic assessment of the math, there are several
-  implications/conclusions that stand out above everything else
+Extrapolating from a basic assessment of the math, there are
+implications and ramifications that attain preponderance, standing
+above everything else. By failing to fully understand sociophysical
+phenomena, by stubbornly clinging to some idealistic mode (...) or by
+refusing to allow adaptation to them, we fall victim to Nietzche's
+danger of dangers.
+
+Power is the capacity to project flux through types of networks and
+the rate at which that flux flows. 
+
+
+
 - much of this stuff obviously isn't or can't be measured.
 
 - others:
   - the definition of power as capacity to project influence
   - social isolation/connectedness (in/dependence and vulnerability)
 
-#### (1) Types of energy have both linear and non-linear mechanics, which determine their equivalence and interaction dynamics
+### (1) Types of energy have both linear and non-linear mechanics, which determine their equivalence and interaction dynamics
 
-Their mechanics Linearly or 
+Their mechanics Linearly or
 Non-Linear linearly and non-linear models,
 
 of energy equilalence, governing movement and transduction
 
 There varying metrics and means of equivalence for the movement of Energy
 
-#### (2) Power is rate of energy fluxing through sociophysical networks
+### (2) Power is rate of energy fluxing through sociophysical networks
+
+Similar to power in electrical networks, sociophysical measures of
+power are defined as the potential to trigger flux through social
+networks and the rate of that flux. There are many varieties of flux
+that can be projected through types of social networks: physical
+change, informational change, structural change to graphs,
+informational or schematic change, and behavioral change.
 
 
-
-Power Can Be Defined as the Potential to Trigger Flux through the
-Social Network
-
-- this flux comes in many forms, including the induction of:
-  - physical change
-  - informational change
-  - graph-structural change
-  - schematic change
-  - behavioral change
+- change to the structure of ideas or to shape people's conception of
+  them
+  - history as a language of ideas we build upon
 
 - (here, focus on imagery related to electrical systems)
 
@@ -223,8 +243,7 @@ Social Network
   - schematic change that results in self-perpetuating changes over
     the course of years, decades or centuries (i.e. religion)
 
-
-#### (3) Social power depends on potentials for types of energy flux, each actual and perceived
+### (3) Social power depends on potentials for types of energy flux, each actual and perceived
 
 - this potential for flux/action is very much dependent on the beliefs
   of nodes in the system and a differential of information available
@@ -248,14 +267,12 @@ Social Network
       - this often studied as the curse of dimensionality and it's
         implications in various areas of math diverge widely
 
-
-#### (4) Perceived Beliefs feedback into social power (...)
+### (4) Perceived Beliefs feedback into social power (...)
 
 In this way, belief and perception can almost independently create
 energy.
 
-#### (5) Agents have varying degrees of autonomy, individual definitions of energy types and share traits, such as concurrency, bandwidth and physicality.
-
+### (5) Agents have varying degrees of autonomy, individual definitions of energy types and share traits, such as concurrency, bandwidth and physicality.
 
 - a second critical factor is the lack of multitasking:
   - particles (at least people) can only really do one thing & can
@@ -266,15 +283,33 @@ energy.
       manisfestations
   - similarly, people are bound to one place at a time
 
-
-#### (6) Mechanics of Social interactions and connections are physical and logical, but increasingly logical.
+### (6) Mechanics of Social interactions and connections are physical and logical, but increasingly logical.
 
 - Information, energy and social power flow through networks.
 
-#### (7) To hedge against domain complexity, agents amplify perceived beliefs and interact in other ways.
+Electrical networks are an example of physical phenomena with a
+logical graph-based structure overlayed on top. In reasoning about
+these systems and the range of possibilities, the resulting dynamics
+and mechanics are neither purely physical or purely logical. Only by
+reasoning about the systems, logically and with (increasing)
+structure, can we reach (a maximum of phenomenological flexibility)
+
+- computer chips are then the physical (manisfestations) of metaphysical primatives
+  - they are logic made manifest, capable of virtualizing physical systems.
+
+Sociophysical systems are (very similar).
 
 
-#### (8) decoherence of information/knowledge reduces... (ability to model the system)
+### (7) To hedge against domain complexity, agents amplify perceived beliefs and interact in other ways.
+
+### (8) The context of some agents is predominately accumulated by a (sum of experience determined by directed focus)
+
+- so, directing their focus changes the range of experiential
+  information relevant to their context. combined with signaling and
+  especially with (decision models), this easily can have
+  multiplicative effects.
+
+### (9) decoherence of information/knowledge reduces... (ability to model the system)
 
 - the single most important conclusion I can draw from a mathematical
   assessment of social physics is that the ability to make valid
@@ -303,7 +338,7 @@ energy.
     make *any* useful inferences and those aspects of the systems
     which cause schematic divergence become problematic
 
-#### (9) Evolutionary Dynamics of Social Physics Build on Programs in Chaos
+### (10) Evolutionary Dynamics of Social Physics (Build on) Programs in Chaos
 
 - title?
 
@@ -332,6 +367,25 @@ energy.
     time (i think...) and is computationally prohibitive in all most
     all circumstances (or at least is usually an inefficient way to
     solve a problem)
+
+### (11) Disruption of Connections & Interactions Alters Flow Of Energy & Power, geographically or logically
+
+
+
+
+### (12) Social, Financial and other flows indicate frequency and value of connections and interactions (Interest & Intent)
+
+- laplacian of these flows and their aggregates, geographically &
+  logically, indicate intent
+
+### (13) Intent is also Signified by Parallel, Anti-Parallel and Orthogonal Orientations of Motion as it relates to Laplacian of High-Dimensional Surfaces Even When Hidden
+
+- this helps indicate intent, even when it was hidden
+  - consistency is hard to fake, any duplicity exacerbates this and
+    displays itself as partial consistency, which ultimately serves to
+    highlight cognizance of intent
+
+- (Cut in content/ideas from facets: systems theory draft)
 
 ### Connectedness and Social Isolation can be Measured
 

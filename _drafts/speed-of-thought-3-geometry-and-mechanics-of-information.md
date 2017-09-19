@@ -12,6 +12,7 @@ excerpt: ""
 - [Picture for Geometric Mechanics]
 
 
+
 - egyptian architecture as the most prominently preserved ancient
   architecture, exerting an archetypical influence on our minds for
   millinea, even after language was lost.
@@ -35,10 +36,11 @@ population, a kind of abstract membrane whose size loosely correlated
 to a population's permeability to written records. Copies more
 numerous and accessible resulted in more frequently amplified
 information. If the work wasn't financed by the church or state, the
-information's time-to-live drastically plummeted, which parallel's the
-IP Protocol's TTL value. If there were no written records, reflections
-of the information only persisted if they were retransmitted faster
-than they decayed. If supply increased and demand stayed high, ...
+information's TTL drastically plummeted.
+
+
+- that TTL value was related to the probability that iotas and datums
+  of information would persist through n generations.
 
 .. it would be retransmitted and was only remembered if it was
 prioritized enough to establish consensus among the people. (rw)
@@ -47,38 +49,24 @@ prioritized enough to establish consensus among the people. (rw)
 
 After the printing press, both the copies of information and the
 frequency by which records were published increased by orders of
-magnitude. Information consensus, at that point, was effectively
-physical. In order to suppress information, it required the location
-and destruction of all physical instantiations of the information. To
+magnitude. Information (consensus), at that point, was effectively
+physical (... had developed (physicalizable) representations). In
+order to suppress information, it required the location and
+destruction of all physical instantiations of the information. To
 purge records with certainty meant locating them without raising
 alarm.
-
-
-
-
-
-
-
-
-
-<a name="thermopylae-marathon-and-kublai-khan" />
-
-
-<a name="who-loves-hip-hop" />
-
-### [Who Loves Hip Hop?](#who-loves-hip-hop)
 
 - emphasize that the democratization of media creation tools, coupled
   with access to broadcast mass communication led to cultural
   transformation
-  - 
+  -
 
-*I do*. Hip Hop is a modern example of how the dissemination of
-information changed the lives of millions of people living in mostly
-African American and Hispanic ghettos in urban America.  In
-particular, it is about the democratization of music production
-hardware. It is the first time that *everyone* had access to all the
-equipment needed to produce music, no crazy white man involved.
+Hip Hop is a modern example of how the dissemination of information
+changed the lives of millions of people living in mostly African
+American and Hispanic ghettos in urban America.  In particular, it is
+about the democratization of music production hardware. It is the
+first time that *everyone* had access to all the equipment needed to
+produce music, no crazy white man involved.
 
 Hip Hop represents the equivalent of the Internet in terms of
 democratization of technology in the music industry. It is the 20th
@@ -900,3 +888,5 @@ be completely lost.
     is incredibly challenging when the networking infrastructure is
     not there.
 
+
+- monad proxy as root. the all is the one, the one is the all.

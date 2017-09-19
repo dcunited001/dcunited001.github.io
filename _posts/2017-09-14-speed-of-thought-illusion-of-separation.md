@@ -12,9 +12,30 @@ excerpt: ""
 
 ![](/img/posts/2017-09-14-speed-of-thought-illusion-of-separation/)
 
+# [What Is The Speed of Thought Today?](#what-is-the-speed-of-thought-today)
+
+### [Sociophysical Mechanics Are Now Predominantly Virtualized](#sociophysical-mechanics-are-now-predominantly-virtualized)
+
+### [Memes, Datums and Iotas](#memes-datums-and-iotas)
+
+# [Temperature, Density, Waves and Spectra](#temperature-density-waves-and-spectra)
+
+### [The Speed of Sound](#the-speed-of-sound)
+
+### [Cultural Reverberation](#cultural-reverberation)
+
+### [The Economics of Information](#the-economics-of-information)
+
+# [Epistemological Petrification and Transfiguration](#epistemological-petrification-and-transfiguration)
+
+### [With 2.0, Knowledge Upgrades Its TTL](#with-2-0-knowledge-upgrades-its-ttl)
+
+###
+
+
 <a name="what-is-the-speed-of-thought-today" />
 
-### [What Is The Speed of Thought Today?](#what-is-the-speed-of-thought-today)
+# [What Is The Speed of Thought Today?](#what-is-the-speed-of-thought-today)
 
 Impulses between neurons can travel over 100 meters per second.
 Instead, consider the speed at which a thought can travel across the
@@ -23,6 +44,10 @@ thoughts lead to words and actions, which ripple through social
 networks both natural and virtual. Throughout history, this velocity
 of information has steadily increased until it exploded in the 19th
 century with the telegraph.
+
+<a name="sociophysical-mechanics-are-now-predominantly-virtualized" />
+
+### [Sociophysical Mechanics Are Now Predominantly Virtualized](#sociophysical-mechanics-are-now-predominantly-virtualized)
 
 While communication was bound to physical interactions, a primarily
 physical set of mechanics dominated social physics and the movement of
@@ -70,6 +95,10 @@ enumerated with basic using category theory.
 
 ![Tetration on the Complex Plane](/img/posts/2017-09-14-speed-of-thought-illusion-of-separation/)
 
+- TODO: also add quick blurb about holons
+  - holonome as the shared type structure that is combinatorially
+    enumerable (or some sections of it at least)
+
 <a name="temperature-density-waves-and-spectra" />
 
 # [Temperature, Density, Waves and Spectra](#temperature-density-waves-and-spectra)
@@ -80,9 +109,10 @@ enumerated with basic using category theory.
 
 #### And Is Made Of At Least Two Kinds of Stars?
 
-Sociophysical networks, which have spaces of varying topology: both
+People, or sociophysical networks, which have spaces of varying topology: both
 physical spaces and more logical spaces. In one we are literally made
-of star dust and, in the other, we form star-like graph structures.
+of star dust and, in the other, our (intersections) form star-like
+graph structures.
 
 Sociophysical systems exhibit a wide array of behavior that can be
 modeled with physics metaphors. The movement of people in a mall have
@@ -123,7 +153,9 @@ effect: as population increased, so did the likelihood of
 technological innovations and thus, information might begin to spread
 faster than it was driven by population density alone.
 
-### (Information Economics)
+<a name="the-economics-of-information" />
+
+### [The Economics of Information](#the-economics-of-information)
 
 Wherever there is supply and demand, you'll find economic dynamics and
 information is no exception. While no one in Germany counted all the
@@ -136,17 +168,41 @@ a rumor is held tightly, it is easier to trace. While we never poll
 our friends to tally up an information histogram, our mind is always
 making inferences because the distribution of information usually
 tells us more than the info itself. Small talk may be all about the
-weather and the Yankees, but informs about who talks to who and more.
+weather and the Yankees, but informs us about who talks to who and
+more.
 
-# 
+<a name="epistemological-petrification-and-transfiguration" />
+
+# [Epistemological Petrification and Transfiguration](#epistemological-petrification-and-transfiguration)
 
 Macroscopically, technology's effect on information diffusion produced
 viral sociocultural transformation, often with political or economic
-consequences. Writing developed once and never forgotten.  Religious
+consequences. Writing developed once and never forgotten. Religious
 systems petrified on exposure to clay tablets, gradually locking these
 ephemeral systems of thought in place. The printing press democratized
 writing, effectively seizing it from the priest class by undermining
 the economics that enabled tight control.
+
+<a name="with-2-0-knowledge-upgrades-its-ttl" />
+
+### [With 2.0, Knowledge Upgrades Its TTL](#with-2-0-knowledge-upgrades-its-ttl)
+
+Knowledge has a time-to-live value, similar to the IP protocol's TTL
+value, which is the number of times a packet will be retransmitted by
+routers without final delivery. For knowledge, this TTL is related to
+the number of probable hosts or physical representations and the
+probabilities of events where it is retransmitted. As time continues
+onwards, these probabilities fluctuate, as do the number of retained
+hosts and representations. In some cases, when information itself is
+lost, it can be later reconstituted and repersisted from its
+parts.
+
+Writing dramatically influenced the TTL of some information, as do
+other innovations. If there were no written records, reflections of
+the information only persisted if they were retransmitted faster than
+they decayed. If supply increased and demand stayed high, ...
+
+### (symphonic.... )
 
 Each major innovation opened a new movement in our impressionistic
 arrangement of cross-cultural collaboration. Each led to its own
@@ -160,7 +216,9 @@ increasingly singular zenith. Our (understanding) of the
 (completed) by dissecting the fundamentals of communication and
 information.
 
-### The beginning of the end for the illusion of separation?
+<a name="the-beginning-of-the-end-for-the-illusion-of-separation" />
+
+### [The Beginning of the End for the Illusion of Separation?](#the-beginning-of-the-end-for-the-illusion-of-separation)
 
 Without intelligent life, the universe might never manifest awareness
 of itself. Humanity has reached a transitionary period where
@@ -199,7 +257,9 @@ bending and folding into itself. Most of us still see everything as
 though we are within that space, but some of us know how to use it to
 (....)
 
-# The other side of the S-Curve
+<a name="the-other-side-of-the-s-curve" />
+
+# [The Other Side of the S-Curve](#the-other-side-of-the-s-curve)
 
 There are reasons that an S-Curve emerges where it does. It opens with
 exponential growth and, like an unfortunate perfectionist, all it
@@ -211,25 +271,25 @@ system is just as closed as the petri dish.
 
 ![probably include a picture of an s-curve]
 
+<a name="open-and-closed-systems" />
+
+### [Open and Closed Systems](#open-and-closed-systems)
+
 Systems can be open, closed or various combinations of both. Each has
 its own idiosyncracies. A system that will end as closed often looks
 just like an open system that might never be closed. If you aren't
 aware of what caused the system to be closed, you would expect trends
-to continue indefinitely.
-
-
-
-Most systems can be viewed as open or closed. If you try to view the
-selection of public stocks as open, then you start with a good index
-and familiarize its stocks one by one, gradually learning to trade. If
-you instead choose to view the selection of stocks as closed, then,
-like Warren Buffet, you might grab a copy of Moody's and memorize the
-avaiable stocks, one by one. When you model available the wider
-financial markets as a closed system, then every trade effectively
-results in an equal and opposite shift in value from one asset to
-another. This is several conditions hold: that no money enters or
-leaves the system, amoung others. Closed systems allow you to make
-reasonable inferences about (preservation aggregate quantity.)
+to continue indefinitely. If you try to view the selection of public
+stocks as open, then you start with a good index and familiarize its
+stocks one by one, gradually learning to trade. If you instead choose
+to view the selection of stocks as closed, then, like Warren Buffet,
+you might grab a copy of Moody's and memorize the available stocks,
+one by one. When you model the wider financial markets as a closed
+system, then every trade effectively results in an equal and opposite
+shift in value from one asset to another. This is several conditions
+hold: that no money enters or leaves the system, amoung others. Closed
+systems allow you to make reasonable inferences about (preservation of
+aggregate quantity.)
 
 ### (Why does it matter?)
 
@@ -250,7 +310,7 @@ telecom expands, people buy new phones with new apps, they send gifs,
 telecom removes bandwidth limits, then people figure out they can send
 videos.
 
-###
+### [Uncountably Infinite Dimensional, Convoluted Non-Linear Systems](#uncountably-infinite-dimensional-convoluted-non-linear-systems)
 
 When your system is an infinitely dimensional, convoluted non-linear
 sociophysical system, it reacts with an incomprehensible set of
@@ -273,7 +333,7 @@ the few examples that can be easily put into words). Obviously,
 technology and convergent communication networks also present us with
 beneficial (transformation).
 
-# (Superconduction and Phase Change)
+# [Phase Change in Physical and Aphysical Topologies](#phase-change-in-physical-and-aphysical-topologies)
 
 Superconduction is another physical phenomenon for which we can
 imagine significant sociophysical metaphors. Superconduction describes
@@ -287,6 +347,8 @@ some properties over increasingly large spatial regions. This
 generalized idea of phase changes in sociophysical systems will be
 discussed in detail later.
 
+### [Complexity in Sociophysical Systems Creates Vastly Many Phases](#complexity-in-sociophysical-systems-creates-vastly-many-phases)
+
 Just like particle systems, sociophysical systems also experience
 phase changes. Reduce the physical space's limits on velocity and
 distance, then increase the quantity of information flux and suddenly
@@ -299,9 +361,11 @@ virtual channels utilize mechanics that cause the nature of
 information itself to dominate the interactions. This leads to what
 can be described as the geometric mechanics of information systems.
 
+
+
 As our world becomes more closed (in various ways) and as our
 communication infrastructure encourages sociophyscial phase changes,
-different sets of principles can be considered to be fundamental in
+different sets of principles (can be considered to be fundamental in)
 modeling the system. When population growth and virtual channels cause
 the world to create vastly more information than could ever be
 consumed by humans, this also presents a series of phase changes
@@ -316,14 +380,18 @@ significance of qualitative differences in information. When people
 generally decide this, in itself, changes their decision-making and
 information-filtering processes, it results a kind of phase change.
 
-# Spectral Decoherence in the Noosphere
+<a name="spectra-decoherence-in-the-noosphere" />
+
+# [Spectral Decoherence in the Noosphere](#spectra-decoherence-in-the-noosphere)
 
 Information converges in different ways at various scales along
 various dimensions, which include spatial, aggregate and
 graph-oriented dimensions. In other ways, info becomes
 non-convergent.
 
-### The Structure of the Noosphere
+<a name="the-structure-of-the-noosphere" />
+
+### [The Structure of the Noosphere](#the-structure-of-the-noosphere)
 
 Analogous to the biosphere, the
 [noosphere](https://en.wikipedia.org/wiki/Noosphere) represents the
@@ -340,13 +408,14 @@ of understanding social physics, the noosphere can be considered to be
 something between what can be modeled by data science and the more
 philosophical definition above.
 
-### (Ontologies in Data Science)
+<a name="ontologies-in-data-science" />
 
-(As an example of how ontologies are used by data science), this paper
-geographically dilineates search recommendations with an ontological
-model of location types as they are functionally coupled to weather
-status. For example, the algorithm will not prioritize a local
-drive-in theater on a rainy day because its ontological model of
+### [Ontologies in Data Science](#ontologies-in-data-science)
+
+This paper geographically dilineates search recommendations with an
+ontological model of location types as they are functionally coupled
+to weather status. For example, the algorithm will not prioritize a
+local drive-in theater on a rainy day because its ontological model of
 location types enables it make more contextually relevant
 inferences. Similarly, algorithms used by Facebook and Google might
 compare a user's recent and total activity against ontological models
@@ -360,7 +429,7 @@ genes.
 
 ![Gene Ontology](/img/posts/.../gene-ontology.png)
 
-### (Graph Neighborhoods)
+### Neighborhoods of [Physical and Graph Spaces]
 
 Neighborhoods of the social graph can be generated via various
 mathematic metrics. The term degrees of separation is one such
@@ -375,7 +444,7 @@ is generally more apparent for knowledge than for information, where
 knowledge is defined as information above some threshold of universal
 significance.
 
-### (Anscombe's Paradox)
+### [What is Anscombe's Paradox, Watson](#what-is-anscombes-paradox-watson)
 
 As the total noosphere expands over time, it masks rapidly increasing
 variance between noospheres generated by social subgraphs. Generally,
@@ -391,6 +460,8 @@ graphs. This dissonance in local information is essentially
 
 ![Picture of anscombe's quartet](/img/posts/.../anscombes-quartet.jpg)
 
+### [The 15th Century Noosphere in Europe]()
+
 Imagine the noosphere for 15th century European society, where almost
 every literate person has only read from a single book: the Bible. As
 you zoom out, the effects of that literary work on the information
@@ -400,7 +471,8 @@ is instilled by today's public education system. Before the modern
 era, adjacent neighborhoods would correlate with highly similar
 generated noospheres. They would have very high spectral coherence.
 Prior to internet, subcultures were contained to geographic areas or
-displayed heightened evolution in urban areas.
+displayed heightened evolution in urban areas. (and a slower rate of
+mutation elsewhere)
 
 Where before, evolution in culture required more time to proliferate,
 we have obliterated the physical constraints on information
@@ -409,26 +481,30 @@ is almost meaningless because of the predominantly aphysical nature of
 communication. Awareness of this phenomenon itself causes a phase
 change, which alters the design of mass communication.
 
-### Which one of these is *the* fake news article?
+<a name="which-one-of-these-is-the-fake-news-article" />
+
+### [Which One Of These Is *The* Fake News Article?](#which-one-of-these-is-the-fake-news-article)
 
 This has massive ramifications for the design of communication,
 particularly in how one can use a language of imagery and be confident
-in the emotional interpretations.  In the 20th century America, mass
-communication was at its height of power, parity and
-confidence. However, in the world of social media, the rampant
-speciation of information is exponential. We are less capable of
-responding to an event, article or piece of information because of the
-vast disparity in information between two or more individuals.
-Further, the qualitative significance of each piece of information
-depends on what presentations of that information an individual has
-seen. So, when mainstream media tries to handle an event, it can't
-identify a language of symbols to leverage that will evoke predictable
+in the emotional interpretations. In the 20th century America, mass
+communication was at its height of power, parity and confidence.
+However, in the world of social media, the rampant speciation of
+information is exponential. We are less capable of responding to an
+event, article or piece of information because of the vast disparity
+in information between two or more individuals. Further, the
+qualitative significance of each piece of information depends on what
+presentations of that information an individual has seen. So, when
+mainstream media tries to handle an event, it can't identify a
+language of symbols to leverage that will evoke predictable
 interpretations.
 
 - jesus, a handful of hippies with a mic and a soundstage at Woodstock
   were able to get the word out about the "brown acid".
 
-# A Tall Glass of Nihilism to Toast Your Post-Modernist Wasteland
+<a name="a-tall-glass-of-nihilism-to-toast-your-post-modernist-wasteland" />
+
+# [A Tall Glass of Nihilism to Toast Your Post-Modernist Wasteland](#a-tall-glass-of-nihilism-to-toast-your-post-modernist-wasteland)
 
 This phenomenon of spectral decoherence is informational and implies
 that we should amplify what unifies us.
@@ -436,9 +512,9 @@ that we should amplify what unifies us.
 is an American strength, as is our social connectedness to the rest of
 the world.
 
-### Spectral Decoherence and the Economics of Content Creation
+### [Spectral Decoherence Breaks the Economics of Content Creation](#spectral-decoherence-breaks-the-economics-of-content-creation)
 
-Spectral decoherence is already pronounced, but it effects will
+Spectral decoherence is already (pronounced), but it effects will
 feedback into its interactions with the economics of content creation
 and distribution. As automation funnels human economic potential into
 creative endeavors, this drives an abundance of content. However, the
@@ -454,16 +530,18 @@ recombinations of the (same shit) that nobody recognizes ... except
 Star Wars because Star Wars can afford a billion dollar marketing
 budget.
 
-### (semiotics and social engineering)
+<a name="semiotic-harmonics-and-social-engineering" />
+
+### [Semiotic Harmonics and Social Engineering](#semiotic-harmonics-and-social-engineering)
 
 Because our culture, language and society depends so heavily on
 patterns of recognizable symbols for social engineering, pattern
 languages and cultural programming, this ends in disaster because each
 of these three things become much less capable of functioning without
 spectral coherence of semiotic distribution. Without anticipation of
-this and without proactively amplifying semiotic mappings as
-harmonics, we will find ourselves less capable of adapting to what we
-know will be a turbulent of cultural evolution.
+this and without proactively amplifying semiotic mappings in harmony,
+we will find ourselves less capable of adapting to what we know will
+be a turbulent of cultural evolution.
 
 These essays, the
 [Paradox of Creativity](/posts/2016-05-16-the-paradox-of-creativity.html)

@@ -260,3 +260,9 @@ lead to a singular destination?
 
 What does this mean about the technological singularity? Is this our
 planet's local ergodic destination?
+
+- awareness can't emerge in when total order is simple and only
+  emerges in systems with imperfection, which need comprehension of
+  idealistic system evolution in order to (attempt perfections).
+  - ![What was the beginning of all this (chrono cross)]()
+  - the kernel
