@@ -16,6 +16,9 @@ excerpt: ""
     physically/virtually connected social networks
     - site other papers?
 
+- there are some things ancient people understood more clearly than we
+  do today.
+
 ### [Marathon and Thermopylae](#marathon-and-thermopylae)
 
 At the battle of Marathon, the Greeks defeated the Persians. News of
@@ -188,7 +191,9 @@ informational components and dynamics emerging from information. (This
 also stands out from simple probabilistic models for social behavior
 with its focus on the spatial components and particle interactions.)
 
-# (Preponderant) Sociophysical Postulates
+<a name="postulates-of-sociophysical-systems" />
+
+# [Postulates of Sociophysical Systems](#postulates-of-sociophysical-systems)
 
 Extrapolating from a basic assessment of the math, there are
 implications and ramifications that attain preponderance, standing
@@ -196,17 +201,6 @@ above everything else. By failing to fully understand sociophysical
 phenomena, by stubbornly clinging to some idealistic mode (...) or by
 refusing to allow adaptation to them, we fall victim to Nietzche's
 danger of dangers.
-
-Power is the capacity to project flux through types of networks and
-the rate at which that flux flows. 
-
-
-
-- much of this stuff obviously isn't or can't be measured.
-
-- others:
-  - the definition of power as capacity to project influence
-  - social isolation/connectedness (in/dependence and vulnerability)
 
 ### (1) Types of energy have both linear and non-linear mechanics, which determine their equivalence and interaction dynamics
 
@@ -386,6 +380,12 @@ Sociophysical systems are (very similar).
     highlight cognizance of intent
 
 - (Cut in content/ideas from facets: systems theory draft)
+
+### (14) Everything is a Wave
+
+### (15) Independence and Connectedness Are Quantifiable
+
+- social isolation/connectedness (in/dependence and vulnerability)
 
 ### Connectedness and Social Isolation can be Measured
 
@@ -567,6 +567,10 @@ defined in infinitely many ways.
     conformational entropy of interactions in the space.
 
 ### Configurational Entropy in Sociophysical Systems
+
+- in genetic systems, patterns of change and entropy in
+  configurational and conformational distributions dilineates genetic
+  programs.
 
 - need to review the concepts here:
   - conformation space are the probabilities of seeing particular

@@ -118,6 +118,20 @@ the visible prints of probabilistic state machines whose states are
 composed of types and metatypes. These state machines represent kinds
 of hierarchical event-driven behavior throughout the system.
 
+<a name="sifting-for-signatures-of-decomposd-patterns-in-chaos" />
+
+### [SIFTing for Signatures of Decomposed Patterns in Chaos](#sifting-for-signatures-of-decomposd-patterns-in-chaos)
+
+[SIFT](https://en.wikipedia.org/wiki/Scale-invariant_feature_transform)
+-- scale-invariant feature transform -- is a technique used to
+identify features of images, regardless of their scale. An analogy for
+SIFT can be applied to the idenfication of decomposed partial patterns
+in chaos, resulting in signatures for probabilistic programs. These
+patterns are derived from both change and entropy in configurational
+and conformation distributions. Their decomposition and application
+across various spatiotemporal scales can dilineate and speciate
+genetic programs and other programs layered onto chaotic systems.
+
 <a name="programs-in-chaos" />
 
 # [Programs in Chaos](#programs-in-chaos)
@@ -260,9 +274,3 @@ lead to a singular destination?
 
 What does this mean about the technological singularity? Is this our
 planet's local ergodic destination?
-
-- awareness can't emerge in when total order is simple and only
-  emerges in systems with imperfection, which need comprehension of
-  idealistic system evolution in order to (attempt perfections).
-  - ![What was the beginning of all this (chrono cross)]()
-  - the kernel
