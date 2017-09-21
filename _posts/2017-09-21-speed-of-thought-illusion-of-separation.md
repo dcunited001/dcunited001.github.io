@@ -8,28 +8,42 @@ author:
 excerpt: ""
 ---
 
-![](/img/posts/2017-09-14-speed-of-thought-illusion-of-separation/)
+![](/img/posts/2017-09-21-speed-of-thought-illusion-of-separation/)
 
-# [What Is The Speed of Thought Today?](#what-is-the-speed-of-thought-today)
+## [What Is The Speed of Thought Today?](#what-is-the-speed-of-thought-today)
 
-### [Sociophysical Mechanics Are Now Predominantly Virtualized](#sociophysical-mechanics-are-now-predominantly-virtualized)
+#### [Sociophysical Mechanics Are Now Predominantly Virtualized](#sociophysical-mechanics-are-now-predominantly-virtualized)
 
-### [Memes, Datums and Iotas](#memes-datums-and-iotas)
+#### [Memes, Datums and Iotas](#memes-datums-and-iotas)
 
-# [Temperature, Density, Waves and Spectra](#temperature-density-waves-and-spectra)
+## [Temperature, Density, Waves and Spectra](#temperature-density-waves-and-spectra)
 
-### [The Speed of Sound](#the-speed-of-sound)
+#### [The Speed of Sound](#the-speed-of-sound)
 
-### [Cultural Reverberation](#cultural-reverberation)
+#### [Cultural Reverberation](#cultural-reverberation)
 
-### [The Economics of Information](#the-economics-of-information)
+#### [The Economics of Information](#the-economics-of-information)
 
-# [Epistemological Petrification and Transfiguration](#epistemological-petrification-and-transfiguration)
+## [Epistemological Petrification and Transfiguration](#epistemological-petrification-and-transfiguration)
 
-### [With 2.0, Knowledge Upgrades Its TTL](#with-2-0-knowledge-upgrades-its-ttl)
+#### [With 2.0, Knowledge Upgrades Its TTL](#with-2-0-knowledge-upgrades-its-ttl)
 
-###
+#### [An Individual's Focus is the 21st Century Commodity](#an-individuals-focus-is-the-21st-century-commodity)
 
+#### [The Semiotic Aggregate of Thought](#the-semiotic-aggregate-of-thought)
+
+#### [Environmental Stimuli and Cultural Universals Shape The Aggregate of Thought](#environmental-stimuli-and-cultural-universals-shape-the-aggregate-of-thought)
+
+#### (...)
+
+## [The Eudaimonic Symphony of Being Humanity](#the-eudaimonic-symphony-of-being-humanity)
+
+#### [The Beginning of the End for the Illusion of Separation?](#the-beginning-of-the-end-for-the-illusion-of-separation)
+
+
+> "Posthumous men — I, for example — are understood worse than timely
+> ones, but heard better.  More precisely: we are never understood —
+> hence our authority."
 
 <a name="what-is-the-speed-of-thought-today" />
 
@@ -69,13 +83,13 @@ spaces. To distinguish it from common connotations of data, it's
 pluralized here as datums. Here, iota refers to datum instantiations
 in spaces and networks, where each iota is a singleton type.
 
-#### The Way that can be told of is not an unvarying way;
+#### The Tao that can be spoken is not the eternal Tao
 
-#### The names that can be named are not unvarying names.
+#### The name that can be named is not the eternal name
 
-#### It was from the Nameless that Heaven and Earth sprang;
+#### The nameless is the origin of Heaven and Earth
 
-#### The named is but the mother that rears the ten thousand creatures, each after its kind.
+#### The named is the mother of myriad things
 
 Datums should be thought as myriad types of molecules, each and all
 vibrating with faint deviation to characteristic modes. They are
@@ -91,7 +105,7 @@ enumerated using category theory.
 
 #### Tetration on the Complex Plane
 
-![Tetration on the Complex Plane](/img/posts/2017-09-14-speed-of-thought-illusion-of-separation/)
+![Tetration on the Complex Plane](/img/posts/2017-09-21-speed-of-thought-illusion-of-separation/tetration.jpg)
 
 - TODO: also add quick blurb about holons
   - holonome as the shared type structure that is combinatorially
@@ -117,7 +131,7 @@ temperature correlate with interest and intent. Moreover, the
 temperature and density of the group yields more connections and a
 faster rate of information diffusion.
 
-![Teotihuacan](/img/posts/2017-09-14-speed-of-thought-illusion-of-separation/teotihuacan.jpg)
+![Teotihuacan](/img/posts/2017-09-21-speed-of-thought-illusion-of-separation/teotihuacan.jpg)
 
 The answer to the riddle above is people, or sociophysical networks,
 which have spaces of varying topology: both physical spaces and more
@@ -229,17 +243,22 @@ important to understand, but in the 21st century, where your attention
 has been commoditized, there is nothing more important than
 understanding what consumes our thought.
 
+<a name="the-semiotic-aggregate-of-thought" />
+
+### [The Semiotic Aggregate of Thought](#the-semiotic-aggregate-of-thought)
+
 What semiotic signifiers does an individual spend the most time
 thinking about? How can these signs be grouped? If we zoom out to
 various scales of society, how does this distribution change? Why?
-
-###
-
-If we look at Zipf's distribution for various languages, what does
-this tell us? Isn't it just slightly different organizations of
+What do the subtle variations between Zipf's distribution for
+languages tell us? Aren't they slightly different organizations of
 morphemic pointers to the same set of semiotic signs? What always
 floats to the top of Zipf's distribution for any given language? Above
-all else, our cultural universals are sifted to the top.
+all else, our shared cultural universals sift to the top.
+
+<a name="environmental-stimuli-and-cultural-universals-shape-the-aggregate-of-thought" />
+
+### [Environmental Stimuli and Cultural Universals Shape The Aggregate of Thought](#environmental-stimuli-and-cultural-universals-shape-the-aggregate-of-thought)
 
 The Zipf's distribution for any given language is simply a reflection
 of the immeasurable semiotic distribution mentioned above. The
@@ -248,34 +267,27 @@ constructed from cultural universals. The cultural universals float to
 the top because they arise from human needs and the intricacies of
 human interactions. What happens to this distribution when technology
 changes our human needs? Is there ever such a thing as a new cultural
-universal? It must be so.
+universal? It must be so, but how?
 
-###
+### 
 
-Writing dramatically influenced the TTL of some information, as did
-other innovations. Before there were written records, reflections of
-the information only persisted if they were retransmitted faster than
-they decayed. Signal could be quickly and easily drowned out by
-encouraging the prioritization of other information. In the dark ages,
-information deemed undesirable often carried punishment of death.
+Writing and subsequent innovations dramatically expanded the spectrum
+and TTL of information. Before there were written records, reflections
+of the information only persisted if they were retransmitted faster
+than they decayed. Signal could be quickly and easily drowned out by
+encouraging the prioritization of competing datum.
 
+After writing emerged, suppression of information required the
+location and destruction of all physical instantiations of that
+information. To purge any records with certainty meant locating them
+without raising alarm. After the printing press, both the copies of
+information and the frequency by which records were published
+increased by orders of magnitude, requiring strict control over the
+production of physical iotas.
 
+<a name="the-eudaimonic-symphony-of-being-humanity" />
 
-After writing, suppressing information required the location and
-destruction of all physical instantiations of information. To purge
-any records with certainty meant locating them without raising alarm.
-
-- that TTL value was related to the probability that iotas and datums
-  of information would persist through n generations, measured in
-  terms of the number of hosts or iotas in a lineage.
-  - i
-
-After the printing press, both the copies of information and the
-frequency by which records were published increased by orders of
-magnitude. (At that point, information consensus was effectively
-physical and geographic... where was i going with this?)
-
-### (symphonic.... )
+# [The Eudaimonic Symphony of Being Humanity](#the-eudaimonic-symphony-of-being-humanity)
 
 Each major innovation opened a new movement in our impressionistic
 arrangement of cross-cultural collaboration. Each led to its own
@@ -301,6 +313,8 @@ ourselves driven to tantalizing exhaustion as it ripens in fullness.
 Our understanding of ourselves reaches a state of entirety to a degree
 of significance the magnitude of which humanity may only ever witness
 once.
+
+![Eudaimonia](/img/posts/2017-09-21-speed-of-thought-illusion-of-separation/eudaimonia.jpg)
 
 The same confluence of phenomena to usher in this
 [eudaimonic](https://en.wikipedia.org/wiki/Eudaimonia) actualization
@@ -523,7 +537,7 @@ genes.
 
 #### [Implementation of a Geo-Semantic App by Combining Mobile User Contexts with Geographic Ontologies](https://www.researchgate.net/publication/263992616_Implementation_of_a_Geo-Semantic_App_by_Combining_Mobile_User_Contexts_with_Geographic_Ontologies)
 
-![Gene Ontology](/img/posts/.../gene-ontology.png)
+![Gene Ontology](/img/posts/2017-09-21-speed-of-thought-illusion-of-separation/gene-ontology.png)
 
 ### Neighborhoods of [Physical and Graph Spaces]
 
@@ -554,7 +568,7 @@ graphs. This dissonance in local information is essentially
 
 #### [Anscombe's Quartet](https://en.wikipedia.org/wiki/Anscombe%27s_quartet), Four Sets With Identical Aggregates
 
-![Picture of anscombe's quartet](/img/posts/.../anscombes-quartet.jpg)
+![Picture of anscombe's quartet](/img/posts/2017-09-21-speed-of-thought-illusion-of-separation/anscombes-quartet.jpg)
 
 ### [The 15th Century Noosphere in Europe]()
 

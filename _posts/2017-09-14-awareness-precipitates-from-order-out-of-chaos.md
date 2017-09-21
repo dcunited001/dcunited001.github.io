@@ -43,13 +43,13 @@ the variables accessible to its total environment or scope.
 ### [Spatially Distributed State Drives the Frequency of Events](#spatially-distributed-state-drives-the-frequency-of-events)
 
 The arrangement of specific types of molecules in a cell's nucleus
-determines the likelihood of interactions between adjacent
-particles. Each one of these molecular interactions unfolds in a
-unique way, but maps to a set of event types. One such event would be
-the activation of an enzyme's active site. There's a limitless degree
-of variation in how each event unfolds, but we recognize the result as
-being logically the same, since event details map to idealized
-representations of the event type.
+determines the likelihood of interactions between adjacent particles.
+Each one of these molecular interactions unfolds in a unique way, but
+maps to a set of event types. One such event would be the activation
+of an enzyme's active site. There's a limitless degree of variation in
+how each event unfolds, but we recognize the result as being logically
+the same, since event details map to idealized representations of the
+event type.
 
 These interactions change the state of the local space in logically
 significant ways, which dramatically alters the likelihood of
