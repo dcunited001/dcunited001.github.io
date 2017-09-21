@@ -21,7 +21,7 @@ This paradigm describes systems of genetic programs built on the
 foundations of molecular dynamics. It also helps describe systems in
 social physics.
 
-Particle systems are known to be dynamical and to display ergodicity,
+Particle systems are known to be dynamical and to display ergodicity
 under some situations. These systems can also be non-linear and thus
 are chaotic, implying that minor changes in starting conditions can
 result in unpredictable fluctations in system behavior.
@@ -30,14 +30,13 @@ result in unpredictable fluctations in system behavior.
 
 # [What is a Genetic Program?](#what-is-a-genetic-program)
 
-Genetic systems have spatially distributed state, where the state can
-be modeled as the binary presence or absence of some molecule in a
-given range of space for every point. Additional information is
-relavant to the system's mechanics, such as the molecule's physical
-orientation relative to adjacent molecules. Thus, these are also
-relevant to the spatially distributed state. This state is similar to
-a program's closure -- the variables accessible to its total
-environment or scope.
+Genetic systems have spatially distributed state. In a simplified
+framework, the state can be modeled as the binary presence or absence
+of some molecule over given ranges of space for every point.  For more
+complex frameworks, additional information is relavant to the system's
+mechanics, such as the molecule's physical orientation relative to
+adjacent molecules. This state is similar to a program's closure --
+the variables accessible to its total environment or scope.
 
 <a name="spatially-distributed-state-drives-the-frequency-of-events" />
 
@@ -64,12 +63,12 @@ variable external to the function scope.
 
 In genetic systems, general types of events include enzyme activation,
 DNA transcription, epigenetic modifications, chromatin
-transformations, miRNA/piRNA RNA amplification, and many others. When
-RNA polymerase transcribes DNA, producing a strand of mRNA, this
-increases the likelihood this mRNA will be translated. The more copies
-of this mRNA the likely they are to result in result in protein
-products, whether the copies originate from transcription or
-amplification.
+transformations, miRNA/piRNA amplification of mRNA, and many
+others. When RNA polymerase transcribes DNA, producing a strand of
+mRNA, this increases the likelihood this mRNA will be translated. The
+more copies of this mRNA, the more likely they are to result in result
+in protein products, whether the copies originate from transcription
+or amplification.
 
 ![Strange Attractor](/img/posts/2017-09-14-awareness-precipitates-from-order-out-of-chaos/lorenz-attractor.jpg)
 
@@ -139,11 +138,11 @@ genetic programs and other programs layered onto chaotic systems.
 These are non-linear and non-deterministic chaotic systems. Their
 behavior is definitively unpredictable and sometimes divergent, but by
 deconstructing their event-driven aspects, they are programmable,
-yielding a new paradigm: chaotic programming. While,
+yielding a new paradigm: chaotic programming. While
 [Chaos computing](https://en.wikipedia.org/wiki/Chaos_computing)
 describes the possibility of logic gates that emerge from chaotic
-systems and it's unclear if these are the building blocks for programs
-in chaos.
+systems, it's unclear if these are the building blocks for programs in
+chaos.
 
 <a name="why-does-order-emerge-from-chaos" />
 
@@ -245,8 +244,8 @@ giving rise to system's awareness of itself.
 
 Chaotic systems whose behavior is parameterized by representations of
 information internal to the system always have the capability to
-produce increasingly higher levels of order within them. Can we be
-certain that, given a degree of stability, these
+produce increasingly higher levels of order within them. Given a
+degree of stability, can we be certain that these
 representation-reflecting chaotic systems always produce behavior
 increasingly dependent on the representations themselves? Does this
 mean that some chaotic systems will, with certainty, produce order,

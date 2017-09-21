@@ -16,6 +16,10 @@ excerpt: ""
     physically/virtually connected social networks
     - site other papers?
 
+#### [Radiohead - Lift](https://www.youtube.com/watch?v=QBGaO89cBMI)
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/QBGaO89cBMI" frameborder="0" allowfullscreen></iframe>
+
 - there are some things ancient people understood more clearly than we
   do today.
 
@@ -34,7 +38,7 @@ Persians and funneled vigor into the hearts of Greeks to rise up and
 resist the oncoming hordes. Would this envigorating effect have been
 possible if not for the story? What if it couldn't be told?
 
-###
+### (democratic tradition in greece)
 
 During the first millinea B.C., a confluence of Greek
 technology, culture and geography, encouraged a philosophic
@@ -46,6 +50,8 @@ force. This itself wasn't unique, but we managed to maintain their
 literary tradition. In doing so, we preserved the best record this
 phenomenon in Western history.
 
+#
+
 In the ancient world, population growth and movement was tightly
 coupled to economic opportunity, constrained by resources, and bounded
 by geography. Population quantity drives the total quantity of
@@ -56,9 +62,9 @@ information moves in those sociophysical networks.
 Imagine humans as particles with random motion whose individual speed
 of vibration depends on available vehicles of transit. The particles
 vibrate in patterns, almost certainly originating from some home point
-and returning to it every day. When these particles hit the ocean,
-they accelerate like sound hitting a solid barrier, assuming these
-people have ships and sails.
+and returning to it every day. When these particles hit the ocean at a
+port, they accelerate like sound hitting a solid barrier, assuming
+these people have ships and sails.
 
 <a name="thermal-convection-of-information" />
 
@@ -121,6 +127,8 @@ modeling idealized social behavior with physical constraints. (It's
 mind blowing, but the bad news is) that almost every problem is
 incomputable. Incredibly useful insights can be extrapolated from a
 philosophic exploration of social physics.
+
+
 
 Social physics was originally developed in the 19th century (links?)
 to explain how the behavior of players in simplified games were
@@ -202,16 +210,29 @@ phenomena, by stubbornly clinging to some idealistic mode (...) or by
 refusing to allow adaptation to them, we fall victim to Nietzche's
 danger of dangers.
 
-### (1) Types of energy have both linear and non-linear mechanics, which determine their equivalence and interaction dynamics
+- include a description of fields, the structure of which influences
+  the flow of energy
+  - fields can have physical or (virtual) topological spaces
+  - 
 
-Their mechanics Linearly or
-Non-Linear linearly and non-linear models,
+<a name="types-of-sociophysical-energy-have-both-linear-and-non-linear-mechanics" />
 
-of energy equilalence, governing movement and transduction
+### (1) [Types of Sociophysical Energy Have Both Linear And Non-Linear Mechanics, Which Determine Their Equivalence and Interaction Dynamics](#types-of-sociophysical-energy-have-both-linear-and-non-linear-mechanics)
 
-There varying metrics and means of equivalence for the movement of Energy
+- Their mechanics are both Linear and non-linear
+  - this creates interactions and equivalence dynamics
+  - it is rare that energy is perfectly preserved, never created nor destroyed
 
-### (2) Power is rate of energy fluxing through sociophysical networks
+- of energy equilalence, governing movement and transduction
+- There varying metrics and means of equivalence for the movement of Energy
+  - these forms of energy are moving across various kinds of spaces
+
+- what is universal among all the types of energy? anything?
+- examples of types of energy
+
+<a name="power-is-defined-as-the-rate-of-energy-fluxing-through-sociophysical-networks" />
+
+### (2) [Power Is Defined As The Rate of Energy Fluxing Through Sociophysical Networks](#power-is-defined-as-the-rate-of-energy-fluxing-through-sociophysical-networks)
 
 Similar to power in electrical networks, sociophysical measures of
 power are defined as the potential to trigger flux through social
@@ -220,14 +241,13 @@ that can be projected through types of social networks: physical
 change, informational change, structural change to graphs,
 informational or schematic change, and behavioral change.
 
-
 - change to the structure of ideas or to shape people's conception of
   them
   - history as a language of ideas we build upon
 
 - (here, focus on imagery related to electrical systems)
 
-- the forms above are higher-order. that is, what we see IRL are
+- (the forms above) are higher-order. that is, what we see IRL are
   really combinations of the above:
   - informational change that results in physical change
   - informational change that results in eventual schematic change on
@@ -237,7 +257,9 @@ informational or schematic change, and behavioral change.
   - schematic change that results in self-perpetuating changes over
     the course of years, decades or centuries (i.e. religion)
 
-### (3) Social power depends on potentials for types of energy flux, each actual and perceived
+<a name="social-power-depends-on-potentials-for-types-of-energy-flux" />
+
+### (3) [Social Power Depends On Potentials For Types Of Energy Flux, Each Actual And Perceived](#social-power-depends-on-potentials-for-types-of-energy-flux)
 
 - this potential for flux/action is very much dependent on the beliefs
   of nodes in the system and a differential of information available
@@ -266,7 +288,7 @@ informational or schematic change, and behavioral change.
 In this way, belief and perception can almost independently create
 energy.
 
-### (5) Agents have varying degrees of autonomy, individual definitions of energy types and share traits, such as concurrency, bandwidth and physicality.
+### (5) [Agents Have Varying Degrees Of Autonomy, Individual Definitions Of Energy Types and Share Traits, Such As Concurrency, Bandwidth and Physicality]()
 
 - a second critical factor is the lack of multitasking:
   - particles (at least people) can only really do one thing & can
@@ -277,7 +299,9 @@ energy.
       manisfestations
   - similarly, people are bound to one place at a time
 
-### (6) Mechanics of Social interactions and connections are physical and logical, but increasingly logical.
+<a name="mechanics-of-social-interactions-and-connections-are-physical-and-logical-but-increasingly-virtualized" />
+
+### (6) [Mechanics of Social Interactions And Connections Are Physical and Logical, But Increasingly Virtualized](#mechanics-of-social-interactions-and-connections-are-physical-and-logical-but-increasingly-virtualized)
 
 - Information, energy and social power flow through networks.
 
@@ -293,8 +317,14 @@ structure, can we reach (a maximum of phenomenological flexibility)
 
 Sociophysical systems are (very similar).
 
+<a name="to-hedge-against-domain-complexity-agents-amplify-perceived-beliefs" />
 
-### (7) To hedge against domain complexity, agents amplify perceived beliefs and interact in other ways.
+### (7) [To Hedge Against Domain Complexity, Agents Amplify Perceived Beliefs And Interact In Other Ways](#to-hedge-against-domain-complexity-agents-amplify-perceived-beliefs)
+
+- agents cannot operate with total information. instead, they
+  consciously and unconsciously find ways to hedge against complexity
+  - dimensionality reduction(?) and numeric approximation to analytic
+    solutions are both relevant here
 
 ### (8) The context of some agents is predominately accumulated by a (sum of experience determined by directed focus)
 
@@ -302,6 +332,8 @@ Sociophysical systems are (very similar).
   information relevant to their context. combined with signaling and
   especially with (decision models), this easily can have
   multiplicative effects.
+
+- examples of using this?
 
 ### (9) decoherence of information/knowledge reduces... (ability to model the system)
 
@@ -322,7 +354,11 @@ Sociophysical systems are (very similar).
     training, they can anticipate how each other filters information
     and anticipate each other's actions.
 
-- religion
+- religion is an attempt to hedge against domain complexity by
+  creating a primary schema of information shared amongst a
+  sufficiently large set of agents
+  - because such a large set of agents respond to information in
+    similar ways ...
 
 - the inability to scalably model or to even ascertain pieces of
   information, which are sometimes unindexable if no rigid schema can
@@ -334,7 +370,7 @@ Sociophysical systems are (very similar).
 
 ### (10) Evolutionary Dynamics of Social Physics (Build on) Programs in Chaos
 
-- title?
+-
 
 - briefly(!) what is probabilistic programming (is it chaos computing
   or programming with chaotic systems)
@@ -361,11 +397,14 @@ Sociophysical systems are (very similar).
     time (i think...) and is computationally prohibitive in all most
     all circumstances (or at least is usually an inefficient way to
     solve a problem)
+  - agents are like their own boltzmann machine processes
+    - it's more complicated than this because they are recognizing and
+      emulating behavior types, not simply representations of
+      information
 
-### (11) Disruption of Connections & Interactions Alters Flow Of Energy & Power, geographically or logically
+### (11) [Disruption of Connections & Interactions Alters Flow Of Energy & Power, Physically, Logically and Virtually](#disruption-of-connections-and-interactions-alters-flow-of-energy-and-power-physically-logically-and-virtually)
 
-
-
+- 
 
 ### (12) Social, Financial and other flows indicate frequency and value of connections and interactions (Interest & Intent)
 
@@ -382,6 +421,16 @@ Sociophysical systems are (very similar).
 - (Cut in content/ideas from facets: systems theory draft)
 
 ### (14) Everything is a Wave
+
+  - information in social physics should be modelable as waves,
+    communicated among players in social games, idealized as
+    particles)
+  - social phenomena can be modeled with social physics, but almost
+    everything is incomputable.
+  - however, similar to how there are many kinds of interactions
+    between particles and waves, interactions in social physics can be
+    understood with infinite dimensional waves
+    - however, the structure of information infinite and unknowable
 
 ### (15) Independence and Connectedness Are Quantifiable
 
@@ -472,7 +521,6 @@ defined in infinitely many ways.
   - spectrum of available information
   - spectrum of modes of communication
   - value of information
-
 
 - people as particles: temperature, density, state, etc.
 - speed of sound
@@ -693,17 +741,6 @@ prevalence of...?
           emerges. (but what is turbulence for high-dimensional
           sociophysical particle systems)
 
-### everything is a wave
-
-  - information in social physics should be modelable as waves,
-    communicated among players in social games, idealized as
-    particles)
-  - social phenomena can be modeled with social physics, but almost
-    everything is incomputable.
-  - however, similar to how there are many kinds of interactions
-    between particles and waves, interactions in social physics can be
-    understood with infinite dimensional waves
-    - however, the structure of information infinite and unknowable
 
 # Critical Metrics for Sociophysical Systems
 
@@ -810,3 +847,6 @@ prevalence of...?
         important when trying to decide if the information can
         physically escape.
 
+### Zero in Social Physics
+
+- what does it mean to have zero for some of these metrics?

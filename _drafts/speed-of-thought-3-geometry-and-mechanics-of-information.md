@@ -12,7 +12,6 @@ excerpt: ""
 - [Picture for Geometric Mechanics]
 
 
-
 - egyptian architecture as the most prominently preserved ancient
   architecture, exerting an archetypical influence on our minds for
   millinea, even after language was lost.
@@ -23,38 +22,6 @@ excerpt: ""
   - is their understanding of the afterlife simply the modern era?
     (not literally) however, it is like they wanted to make certain
     their cultural artifacts would be protected through time.
-
-- Here (prior to printing press), the narrow spectrum of available
-  info fluctuated perpetually.
-  - rationalism wasn't even a fleeting dream at this point.
-  - transition into brief reiteration on information economics before
-    the printing press..
-
-Prior to the press, all written records were copied manually.
-Accumulation of writing was roughly bounded by the literate
-population, a kind of abstract membrane whose size loosely correlated
-to a population's permeability to written records. Copies more
-numerous and accessible resulted in more frequently amplified
-information. If the work wasn't financed by the church or state, the
-information's TTL drastically plummeted.
-
-
-- that TTL value was related to the probability that iotas and datums
-  of information would persist through n generations.
-
-.. it would be retransmitted and was only remembered if it was
-prioritized enough to establish consensus among the people. (rw)
-  - in the dark ages, information deemed undesirable was often
-    punished by death.
-
-After the printing press, both the copies of information and the
-frequency by which records were published increased by orders of
-magnitude. Information (consensus), at that point, was effectively
-physical (... had developed (physicalizable) representations). In
-order to suppress information, it required the location and
-destruction of all physical instantiations of the information. To
-purge records with certainty meant locating them without raising
-alarm.
 
 - emphasize that the democratization of media creation tools, coupled
   with access to broadcast mass communication led to cultural
@@ -259,7 +226,7 @@ copied at the click of a button and distributed anywhere.
 
 ### Temporality (atemporality)
 
-- we haven't quite reached atemporality this yet.
+- we haven't quite reached atemporality yet.
   - eventually the accumulation of information includes an
     increasing range of what was produced in history
   - not only that, but our access to and accumulation of
@@ -272,8 +239,6 @@ copied at the click of a button and distributed anywhere.
       mostly not connected to time or space.
     - so we can generate more of it, it will always remain them
       same, we can access it from anywhere, etc.
-
-
 
 
 #
@@ -790,7 +755,18 @@ be completely lost.
     the other language groups
   - this only effects irl/p2p conversations, but today most
     information is refracted across multiple languages
-
+  - there is less information diffusion from japanese/chinese to
+    english than from english to japanese/chinese
+    - this is because there are less channels for information to
+      diffuse through (i.e. there are less english-speaking people
+      literate in japanese/chinese than vice versa and so the
+      information flow is slightly assymetric)
+  - information discoverability is fragmented at the language level
+    on the internet.
+    - i.e. your google query for an english word is not going to pull
+      up pages containing the french and chinese language equivalents
+      for that concept (that is, unless those pages used SEO
+      techniques)
 
 - narrative of american interventionalist foreign policy as being
   evil, self-serving and (etc..)

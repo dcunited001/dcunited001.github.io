@@ -8,8 +8,6 @@ author:
 excerpt: ""
 ---
 
-- todo: thesaurus check
-
 ![](/img/posts/2017-09-14-speed-of-thought-illusion-of-separation/)
 
 # [What Is The Speed of Thought Today?](#what-is-the-speed-of-thought-today)
@@ -69,7 +67,7 @@ represent a meme, refers to a structure of information, dependent from
 and potentially linked to its instantiations in various networks and
 spaces. To distinguish it from common connotations of data, it's
 pluralized here as datums. Here, iota refers to datum instantiations
-in spaces and networks as singleton types.
+in spaces and networks, where each iota is a singleton type.
 
 #### The Way that can be told of is not an unvarying way;
 
@@ -88,8 +86,8 @@ intricate ways. Internalization of this endless variety of information
 is what it takes to truly determine anything about social physics,
 though most representations map sparsely to the range of
 possibilities. Memes are like monoidal, higher types of datums. All
-possible structure types for information can be combinatorially
-enumerated with basic using category theory.
+possible prototypical structures for information can be combinatorially
+enumerated using category theory.
 
 #### Tetration on the Complex Plane
 
@@ -98,6 +96,7 @@ enumerated with basic using category theory.
 - TODO: also add quick blurb about holons
   - holonome as the shared type structure that is combinatorially
     enumerable (or some sections of it at least)
+  - lenses in functional programming
 
 <a name="temperature-density-waves-and-spectra" />
 
@@ -109,34 +108,35 @@ enumerated with basic using category theory.
 
 #### And Is Made Of At Least Two Kinds of Stars?
 
-People, or sociophysical networks, which have spaces of varying topology: both
-physical spaces and more logical spaces. In one we are literally made
-of star dust and, in the other, our (intersections) form star-like
-graph structures.
-
 Sociophysical systems exhibit a wide array of behavior that can be
-modeled with physics metaphors. The movement of people in a mall have
-a temperature, as they do at wider geographic scales. Density and
-temperature correlate with interest and intent. Moreover, the density
-of the group yields more connections and a faster rate of information
-diffusion. From atop a ziggurat in Sumeria or Mesoamerica, some of the
-basic sociophysical mechanics emerge visibily as patterns of
-interaction in crowds.
+modeled with physics metaphors. From atop a ziggurat in Sumeria or
+Mesoamerica, some of the basic sociophysical mechanics emerge visibily
+as patterns of interaction in crowds. The movement of people in a mall
+have a temperature, as they do at wider geographic scales. Density and
+temperature correlate with interest and intent. Moreover, the
+temperature and density of the group yields more connections and a
+faster rate of information diffusion.
 
 ![Teotihuacan](/img/posts/2017-09-14-speed-of-thought-illusion-of-separation/teotihuacan.jpg)
+
+The answer to the riddle above is people, or sociophysical networks,
+which have spaces of varying topology: both physical spaces and more
+logical spaces. In one we are literally made of star dust and, in the
+other, star-like images emerge from graphs.
 
 <a name="the-speed-of-sound" />
 
 ### [The Speed of Sound](#the-speed-of-sound)
 
 Extending the parallels to temperature and density yields a metaphor
-to the speed of sound, describing the potential speed at which general
-information could travel. This can't effectively model diffusion of
-specific pieces of information, since people exhibit choice over the
-information they propagate. It instead assumes temperature and density
-correlate with higher potential for interactions to occur. As you
-geographically zoom out, the potential speed of information diffusion
-becomes more closely coupled to temperature and population density.
+to the speed of sound. It describes the potential speed at which
+general information could travel. This can't effectively model
+diffusion of specific pieces of information, since people exhibit
+choice over the information they propagate. It instead assumes
+temperature and density correlate with higher potential for
+interactions to occur. As you geographically zoom out, the potential
+speed of information diffusion becomes more closely coupled to
+temperature and population density.
 
 <a name="cultural-reverberation" />
 
@@ -144,9 +144,9 @@ becomes more closely coupled to temperature and population density.
 
 From ancient times through the telegraph, all information flux was
 bound to physical contact. Population growth itself gradually
-accelerated growth of both information and information flux. Writing
-established information permanence. Navigation and ship-building
-increased the maximum range for information to spread, per degree of
+accelerated both information and information flux. Writing established
+information permanence. Navigation and ship-building increased the
+maximum range for information to spread, per degree of
 exchange. Economics incentivized management of information to predict
 trade and resource trends. Ancient people may have assumed the network
 effect: as population increased, so did the likelihood of
@@ -159,16 +159,16 @@ faster than it was driven by population density alone.
 
 Wherever there is supply and demand, you'll find economic dynamics and
 information is no exception. While no one in Germany counted all the
-Bibles in 1350, the (notion) that documents are tangible and countable
+Bibles in 1350, the notion that documents are tangible and countable
 changes how people react to perceived supply and demand. Unwritten
 records are much harder to pin down, but what's the use in bartering
 for a juicy piece of gossip if you don't get it early on? Information
-(conveys) power when it is scarce, even when it may not be true. When
-a rumor is held tightly, it is easier to trace. While we never poll
-our friends to tally up an information histogram, our mind is always
+conveys power when it is scarce, even when it may not be true. When a
+rumor is held tightly, it is easier to trace. While we never poll our
+friends to tally up an information histogram, our mind is always
 making inferences because the distribution of information usually
 tells us more than the info itself. Small talk may be all about the
-weather and the Yankees, but informs us about who talks to who and
+weather and the Yankees, but it informs us about who talks to who and
 more.
 
 <a name="epistemological-petrification-and-transfiguration" />
@@ -179,28 +179,101 @@ Macroscopically, technology's effect on information diffusion produced
 viral sociocultural transformation, often with political or economic
 consequences. Writing developed once and never forgotten. Religious
 systems petrified on exposure to clay tablets, gradually locking these
-ephemeral systems of thought in place. The printing press democratized
-writing, effectively seizing it from the priest class by undermining
-the economics that enabled tight control.
+ephemeral systems of thought into place. The printing press
+democratized writing, effectively seizing it from the priest class by
+undermining the economics that enabled tight control.
+
+Prior to the printing press, the narrow spectrum of available info
+fluctuated perpetually. Rationalism wasn't even a fleeting dream at
+this point. All written records were copied manually. Accumulation of
+writing was roughly bounded by the literate population, a kind of
+abstract membrane whose size also loosely correlated to a population's
+permeability to written records. Copies more numerous and accessible
+resulted in more frequently amplified information. If the work wasn't
+financed by the church or state, the information's TTL drastically
+plummeted.
 
 <a name="with-2-0-knowledge-upgrades-its-ttl" />
 
 ### [With 2.0, Knowledge Upgrades Its TTL](#with-2-0-knowledge-upgrades-its-ttl)
 
-Knowledge has a time-to-live value, similar to the IP protocol's TTL
-value, which is the number of times a packet will be retransmitted by
-routers without final delivery. For knowledge, this TTL is related to
-the number of probable hosts or physical representations and the
-probabilities of events where it is retransmitted. As time continues
-onwards, these probabilities fluctuate, as do the number of retained
-hosts and representations. In some cases, when information itself is
-lost, it can be later reconstituted and repersisted from its
-parts.
+Information and knowledge have time-to-live values, similar to the IP
+protocol's TTL value, which is the number of times a packet will be
+retransmitted by routers without final delivery. For knowledge, this
+TTL is related to the number of probable hosts or physical
+representations and the probabilities of events where such
+representations are retransmitted. As time continues onwards, these
+probabilities fluctuate, as do the number of retained hosts, iotas and
+datum representations. In some cases, when information itself is lost,
+it can be later reconstituted and repersisted from its parts.
 
-Writing dramatically influenced the TTL of some information, as do
-other innovations. If there were no written records, reflections of
+People respond in different ways to datums, raising from traits such
+as virility or vociferousness. These aspects drive expansion in the
+datums' lineage of iotas, which are seeded into hosts. The more
+expansive the distribution of iotas and the more frequently they're
+expressed in communication, the higher their degree of consensus among
+hosts. Those datums linked to natural phenomena or semiotically
+connected to cultural universals are innately amplified by being in
+phase with common sensory stimuli in the human condition.
+
+<a name="an-individuals-focus-is-the-21st-century-commodity" />
+
+### [An Individual's Focus is the 21st Century Commodity](#an-individuals-focus-is-the-21st-century-commodity)
+
+In parallel to Zipf's distribution for a lexicon's frequency of word
+usage, there is a distribution that describes the frequency of
+thoughts including semiotic signifiers. It's data can't be directly
+sampled, and like so many other aspects of social physics, this
+distribution is nearly impossible to quantify. It has always been
+important to understand, but in the 21st century, where your attention
+has been commoditized, there is nothing more important than
+understanding what consumes our thought.
+
+What semiotic signifiers does an individual spend the most time
+thinking about? How can these signs be grouped? If we zoom out to
+various scales of society, how does this distribution change? Why?
+
+###
+
+If we look at Zipf's distribution for various languages, what does
+this tell us? Isn't it just slightly different organizations of
+morphemic pointers to the same set of semiotic signs? What always
+floats to the top of Zipf's distribution for any given language? Above
+all else, our cultural universals are sifted to the top.
+
+The Zipf's distribution for any given language is simply a reflection
+of the immeasurable semiotic distribution mentioned above. The
+semiotic aggregate of human focus is predominantly derived from ideas
+constructed from cultural universals. The cultural universals float to
+the top because they arise from human needs and the intricacies of
+human interactions. What happens to this distribution when technology
+changes our human needs? Is there ever such a thing as a new cultural
+universal? It must be so.
+
+###
+
+Writing dramatically influenced the TTL of some information, as did
+other innovations. Before there were written records, reflections of
 the information only persisted if they were retransmitted faster than
-they decayed. If supply increased and demand stayed high, ...
+they decayed. Signal could be quickly and easily drowned out by
+encouraging the prioritization of other information. In the dark ages,
+information deemed undesirable often carried punishment of death.
+
+
+
+After writing, suppressing information required the location and
+destruction of all physical instantiations of information. To purge
+any records with certainty meant locating them without raising alarm.
+
+- that TTL value was related to the probability that iotas and datums
+  of information would persist through n generations, measured in
+  terms of the number of hosts or iotas in a lineage.
+  - i
+
+After the printing press, both the copies of information and the
+frequency by which records were published increased by orders of
+magnitude. (At that point, information consensus was effectively
+physical and geographic... where was i going with this?)
 
 ### (symphonic.... )
 
@@ -210,10 +283,10 @@ gradual crescendo as it reverberated across the world, inspiring a
 chorus where each new voice was increasingly pronounced, distinct and
 memorable. Each of these movements was a spontaneous contribution
 forwards in information mechanics, dynamics and expression. This
-progression offered many potential paths as it moved us towards an
-increasingly singular zenith. Our (understanding) of the
-(destination), the journey, and each macroscopic fragment can be
-(completed) by dissecting the fundamentals of communication and
+progression offered many conceivable paths as it moved us towards an
+increasingly singular zenith. Our discernment and apprehension of the
+destination, the journey, and each macroscopic fragment can be
+consumated by dissecting the fundamentals of communication and
 information.
 
 <a name="the-beginning-of-the-end-for-the-illusion-of-separation" />
@@ -223,32 +296,32 @@ information.
 Without intelligent life, the universe might never manifest awareness
 of itself. Humanity has reached a transitionary period where
 communication networks allow our ideas to pollinate maximally. This
-(moment) symbolically represents humanity's awareness of ourselves
-(reaching a kind of fullness) as it ripens. Our understanding of
-ourselves reaches a state of (totality or completeness) to a degree of
-(personal) significance, the magnitude of which we may only ever
-witness once.
-
-- bonus points for using the word tantalizing above
+preeminant phase symbolically represents humanity's awareness of
+ourselves driven to tantalizing exhaustion as it ripens in fullness.
+Our understanding of ourselves reaches a state of entirety to a degree
+of significance the magnitude of which humanity may only ever witness
+once.
 
 The same confluence of phenomena to usher in this
 [eudaimonic](https://en.wikipedia.org/wiki/Eudaimonia) actualization
-of being humanity leads to tectonic shifts in sociophysical
+of being humanity sows the seeds of tectonic shifts in sociophysical
 mechanics. While the set of rules for interaction remains unchanged,
-the observed phenomena and dynamics (diverge). When the Big Bang
+the observed phenomena and dynamics diverge. When the Big Bang
 transitioned through inflation, the laws of physics dominating
 interactions remained constant. The rules didn't change, but unique
 dynamics emerged because the specifics of the system caused various
 rules to be more significant, resulting in some behaviors that were
 never seen again.
 
-Many paradigm shifts (are...) in how sociophysical mechanics weave
-together to influence interaction and how people think about it.
-Population density and broadband access profoundly impact how these
-shifts unfold. It's not clear which is (worse): shifts that seem
-seismic or those we barely notice shifting beneath our feet.
+Many paradigm shifts (have resulted) from how sociophysical mechanics
+are woven together to influence interaction and how people think about
+it. Population density and broadband access profoundly impact how
+these shifts unfold.
 
-We are seeing some of these effects now. For example, potential
+- It's not clear which is (worse): shifts that seem seismic or those
+  we barely notice (shifting) beneath our feet.
+
+We are seeing some of these effects now. For example, possible
 election manipulation and -- holy shit -- did anyone log into social
 media in 2016? Information amplification is rampant. Manipulation of
 information is as old as predator and prey, except that the fabric of
@@ -261,10 +334,10 @@ though we are within that space, but some of us know how to use it to
 
 # [The Other Side of the S-Curve](#the-other-side-of-the-s-curve)
 
-There are reasons that an S-Curve emerges where it does. It opens with
+There are reasons that an S-Curve (emerges) where it does. It opens with
 exponential growth and, like an unfortunate perfectionist, all it
 knows is overachievement and blue skies. Then, suddenly, this curve's
-distribution hit's a wall: it's a negative externality. Yet, since
+distribution hits a wall: it's a negative externality. Yet, since
 it's never known life outside the petri dish, this curve decides to
 wish upon agar. Unfortunately, the s-curve's fate is sealed and the
 system is just as closed as the petri dish.
@@ -279,28 +352,35 @@ Systems can be open, closed or various combinations of both. Each has
 its own idiosyncracies. A system that will end as closed often looks
 just like an open system that might never be closed. If you aren't
 aware of what caused the system to be closed, you would expect trends
-to continue indefinitely. If you try to view the selection of public
-stocks as open, then you start with a good index and familiarize its
-stocks one by one, gradually learning to trade. If you instead choose
-to view the selection of stocks as closed, then, like Warren Buffet,
-you might grab a copy of Moody's and memorize the available stocks,
-one by one. When you model the wider financial markets as a closed
-system, then every trade effectively results in an equal and opposite
-shift in value from one asset to another. This is several conditions
-hold: that no money enters or leaves the system, amoung others. Closed
-systems allow you to make reasonable inferences about (preservation of
-aggregate quantity.)
+to continue indefinitely.
+
+If you try to view the selection of public stocks as open, then you
+start with a good index and familiarize its stocks one by one,
+gradually learning to trade. If you instead choose to view the
+selection of stocks as closed, then, like Warren Buffet, you might
+grab a copy of Moody's and memorize the available stocks, one by
+one. When you model the wider financial markets as a closed system,
+then every trade effectively results in an equal and opposite shift in
+value from one asset to another.
+
+- (This is several conditions hold): that no money enters or leaves
+  the system, amoung others. Closed systems allow you to make
+  reasonable inferences about (preservation of aggregate quantity.)
+  - in these systems, money is energy.
 
 ### (Why does it matter?)
 
+- describe as non-linear earlier
+
 The noosphere, our shared information ecosystem, combines the traits
-of open in closed along various measures. It's both open and closed in
-a very complicated way. The transition from open to closed leads to
-divergent phenomenological implications. When we notice that
-sociophysical mechanics (appear to change dramatically), it is often
-because our shared system of social interaction is more or less
-constrained by some factors, which are functionally coupled to various
-measures of "system boundedness".
+of (open and closed) along various measures. It's both open and closed
+in a very complicated way. The transition from open to closed leads to
+divergent phenomenological implications.
+
+- (When we notice that sociophysical mechanics (appear to change
+  dramatically), it is often because our shared system of social
+  interaction is more or less constrained by some factors, which are
+  functionally coupled to various measures of "system boundedness".)
 
 While communication networks are converging, (...) people send and
 receive radically more information. In this respect, system is bounded
@@ -309,6 +389,8 @@ have to transmit. In this oversimplication, the system fluctuates:
 telecom expands, people buy new phones with new apps, they send gifs,
 telecom removes bandwidth limits, then people figure out they can send
 videos.
+
+<a name="uncountably-infinite-dimensional-convoluted-non-linear-systems" />
 
 ### [Uncountably Infinite Dimensional, Convoluted Non-Linear Systems](#uncountably-infinite-dimensional-convoluted-non-linear-systems)
 
@@ -328,10 +410,12 @@ If you imagine a group of metrics including information velocity and
 social graph connectedness as (forming a category), then as long as
 the velocity nor the connectedness skyrockets, the system prefers not
 to undergo transformations that it has never exhibited. We all know
-these two metrics are evolving exponentially, but this (is just one of
-the few examples that can be easily put into words). Obviously,
-technology and convergent communication networks also present us with
-beneficial (transformation).
+these two metrics are evolving exponentially, but this (ineffible, is
+just one of the few examples that can be easily put into
+words). Obviously, technology and convergent communication networks
+also present us with beneficial (transformation).
+
+<a name="phase-change-in-physical-and-aphysical-topologies" />
 
 # [Phase Change in Physical and Aphysical Topologies](#phase-change-in-physical-and-aphysical-topologies)
 
@@ -347,6 +431,8 @@ some properties over increasingly large spatial regions. This
 generalized idea of phase changes in sociophysical systems will be
 discussed in detail later.
 
+<a name="complexity-in-sociophysical-systems-creates-vastly-many-phases" />
+
 ### [Complexity in Sociophysical Systems Creates Vastly Many Phases](#complexity-in-sociophysical-systems-creates-vastly-many-phases)
 
 Just like particle systems, sociophysical systems also experience
@@ -361,7 +447,7 @@ virtual channels utilize mechanics that cause the nature of
 information itself to dominate the interactions. This leads to what
 can be described as the geometric mechanics of information systems.
 
-
+###
 
 As our world becomes more closed (in various ways) and as our
 communication infrastructure encourages sociophyscial phase changes,
@@ -370,8 +456,8 @@ modeling the system. When population growth and virtual channels cause
 the world to create vastly more information than could ever be
 consumed by humans, this also presents a series of phase changes
 because the sheer volume of information in itself changes how people
-behave. When we reach a knowledge plateau, which some describe as The
-Singularity, the simple presence of a boundary on new knowledge means
+behave. When we reach a knowledge plateau, (which some describe as The
+Singularity), the simple presence of a boundary on new knowledge means
 that people operate differently based on the assumption that no
 quantity of information produces significant knowledge. In
 high-volume, high-flux sociophysical systems, information economics
@@ -379,6 +465,15 @@ becomes demand-side, where the abundance in supply reduces the
 significance of qualitative differences in information. When people
 generally decide this, in itself, changes their decision-making and
 information-filtering processes, it results a kind of phase change.
+
+- how do the demand-side information economics change when people
+  simply consume energy and resources? how do the demand-side trends
+  respond to nihilism?
+  - if, at this point, information derives its value from being useful
+    to 7-10 billion individuals, what happens when this changes?
+  - is information that is valuable to people inherently more
+    important than what is valuable to automated consumers of
+    information?
 
 <a name="spectra-decoherence-in-the-noosphere" />
 
@@ -399,7 +494,8 @@ sum of all information. It includes everything that anyone might think
 someone could think, as well as the metaontological expansion of
 everything contained within itself. Here, metaontology refers to a
 categorical deconstruction of ontologies. The noosphere is distinct
-from, but similar in nature to [Abraxas]() because that entity
+from, but similar in nature to
+[Abraxas](https://en.wikipedia.org/wiki/Abraxas) because that entity
 includes everything that was, is or could be, whether it has existed,
 could exist or could be comprehended by man. The noosphere is
 unimaginably infinite, but can be approximated via data science,
@@ -566,7 +662,8 @@ chastises you whenever you place precedence on some cultural artifacts
 over others. However, this isn't about liberalism vs conservatism.
 It's just inevitable. We all have to face it. We have to artifically
 prioritize some elements of our culture to create cultural
-coherence. Otherwise, we will succumb to nihilism more quickly.
+coherence. Otherwise, we will succumb to nihilism more quickly (via
+rampant cultural speciation via postmodernism)
 
 Further, we have to accept that we are inherently more vulnerable to
 information itself. Influence, foreign or domestic, can undermine our
@@ -578,13 +675,13 @@ for destabalization.
 
 ### Conclusions
 
-Paradoxically, the technology that (leads to) humanity's Shangri-La of
-total self-awareness also leads to paradigm shifts in the mechanics
-and dynamics of information that promote instability. The beauty that
-we will see is what we should have been able to see all along. We must
-appreciate it, but lurking beneath every paradise is (a hidden
-danger). If we become distracted, disoriented or disillusioned, we
-will be blindsided.
+Paradoxically, the technology to pinnacle in humanity's Shangri-La of
+total self-awareness also heralds tumultuous paradigm shifts in the
+mechanics and dynamics of information. The beauty that we will see is
+what we should have been able to see all along. We must appreciate it,
+but beneath every paradise lurks danger shrouded in its magnetic
+allure. If we become distracted, disoriented or disillusioned, we will
+be blindsided.
 
 During this (transitionary period), we will each have our own
 understanding of how the world has changed and how it has changed
@@ -598,6 +695,7 @@ narratives, which lends itself to deception and opportunistic tactics.
 
 - Social physics itself is ancient, but virtualized channels dominate
   communication, rendering any of its former incarnations obsolete.
+  - humanity's former incarnations of social physics
 
 - Still, as social physics evolves, it can be modeled by restructuring
   the same primitive mechanics.
@@ -606,7 +704,7 @@ narratives, which lends itself to deception and opportunistic tactics.
 - we need to focus on how those fundamentals of
   communication/information, in the context of convergence/etc
 
-- (this leads to drastically different conclusions on what humanities
+- (this leads to drastically different conclusions on what humanity's
   purpose is and what our challenges are)
 
 Humanity needs to identify and magnify its common ground. Law and

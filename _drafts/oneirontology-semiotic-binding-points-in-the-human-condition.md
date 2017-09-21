@@ -218,8 +218,8 @@ singularity)
     unmeasureably greater now than it was a century ago. This and the
     diversity of ideas only become more prominent from here on out.
 
-- this understanding sociocultural expansion is why we must become
-  more familiar with the nature of ideas, the phenomenon of an
+- (this understanding of sociocultural expansion) is why we must
+  become more familiar with the nature of ideas, the phenomenon of an
   [egregore](https://en.wikipedia.org/wiki/Egregore) and recognize how
   the quickening manifestation of ideas influences reality.
   - this phenomenon has existed from time immemorial, but today
