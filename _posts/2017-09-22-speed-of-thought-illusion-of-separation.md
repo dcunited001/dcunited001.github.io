@@ -710,9 +710,9 @@ the world.
 
 ### [Spectral Decoherence Breaks the Economics of Content Creation](#spectral-decoherence-breaks-the-economics-of-content-creation)
 
-Spectral decoherence is already (pronounced), but it effects will
-feedback into its interactions with the economics of content creation
-and distribution. As automation funnels human economic potential into
+Spectral decoherence is already striking, but it effects will feedback
+into its interactions with the economics of content creation and
+distribution. As automation funnels human economic potential into
 creative endeavors, this drives an abundance of content. However, the
 sheer quantity implies it can *neither* be marketed affordably *nor*
 effectively. Regardless of the marketing budget, there are no IP's or
@@ -721,10 +721,9 @@ new content that can cultivate a strong following.
 Left unchecked, this phenomenon implies all cultural artifacts will be
 essentially noise, where no artifacts develop a significant or
 marketable following among content producers or consumers. The future
-is a desolate (wasteland) of cultural noise, full of cheap
-recombinations of the (same shit) that nobody recognizes ... except
-Star Wars because Star Wars can afford a billion dollar marketing
-budget.
+is a desolate wasteland of cultural noise, full of cheap
+recombinations of the same shit that nobody recognizes ... except Star
+Wars because Star Wars can afford a billion dollar marketing budget.
 
 <a name="semiotic-harmonics-and-social-engineering" />
 
