@@ -71,9 +71,9 @@ these people have ships and sails.
 ### [Thermal Convection of Information](#thermal-convection-of-information)
 
 Imagine the sun rising in the Far East. It heats up the air and water,
-giving us wind and ocean currents, but doesn't it's sociophysical
-energy also reverberate through humanity? As the world turns each
-day, there is random motion moving from the east to the west, driving
+giving us wind and ocean currents, but doesn't its sociophysical
+energy also reverberate through humanity? As the world turns each day,
+there is random motion moving from the east to the west, driving
 social interactions. Pushing through the noise are faint, low
 frequency waves of cultural information rippling over and reflecting
 between geographic features. Vacuums of low population density tapers

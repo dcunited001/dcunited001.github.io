@@ -12,34 +12,33 @@ excerpt: ""
 
 ## [What Is The Speed of Thought Today?](#what-is-the-speed-of-thought-today)
 
-#### [Sociophysical Mechanics Are Now Predominantly Virtualized](#sociophysical-mechanics-are-now-predominantly-virtualized)
+#### &#x03D5; [Sociophysical Mechanics Are Now Predominantly Virtualized](#sociophysical-mechanics-are-now-predominantly-virtualized)
 
-#### [Memes, Datums and Iotas](#memes-datums-and-iotas)
+#### &#x03D5; [Memes, Datums and Iotas](#memes-datums-and-iotas)
 
 ## [Temperature, Density, Waves and Spectra](#temperature-density-waves-and-spectra)
 
-#### [The Speed of Sound](#the-speed-of-sound)
+#### &#x03D5; [The Speed of Sound](#the-speed-of-sound)
 
-#### [Cultural Reverberation](#cultural-reverberation)
+#### &#x03D5; [Cultural Reverberation](#cultural-reverberation)
 
-#### [The Economics of Information](#the-economics-of-information)
+#### &#x03D5; [The Economics of Information](#the-economics-of-information)
 
 ## [Epistemological Petrification and Transfiguration](#epistemological-petrification-and-transfiguration)
 
-#### [With 2.0, Knowledge Upgrades Its TTL](#with-2-0-knowledge-upgrades-its-ttl)
+#### &#x03D5; [With 2.0, Knowledge Upgrades Its TTL](#with-2-0-knowledge-upgrades-its-ttl)
 
-#### [An Individual's Focus is the 21st Century Commodity](#an-individuals-focus-is-the-21st-century-commodity)
+#### &#x03D5; [An Individual's Focus is the 21st Century Commodity](#an-individuals-focus-is-the-21st-century-commodity)
 
-#### [The Semiotic Aggregate of Thought](#the-semiotic-aggregate-of-thought)
+#### &#x03D5; [The Semiotic Aggregate of Thought](#the-semiotic-aggregate-of-thought)
 
-#### [Environmental Stimuli and Cultural Universals Shape The Aggregate of Thought](#environmental-stimuli-and-cultural-universals-shape-the-aggregate-of-thought)
+#### &#x03D5; [Environmental Stimuli and Cultural Universals Shape The Aggregate of Thought](#environmental-stimuli-and-cultural-universals-shape-the-aggregate-of-thought)
 
-#### (...)
+#### &#x03D5; (...)
 
 ## [The Eudaimonic Symphony of Being Humanity](#the-eudaimonic-symphony-of-being-humanity)
 
-#### [The Beginning of the End for the Illusion of Separation?](#the-beginning-of-the-end-for-the-illusion-of-separation)
-
+#### &#x03D5; [The Beginning of the End for the Illusion of Separation?](#the-beginning-of-the-end-for-the-illusion-of-separation)
 
 > "Posthumous men — I, for example — are understood worse than timely
 > ones, but heard better.  More precisely: we are never understood —
@@ -95,15 +94,14 @@ Datums should be thought as myriad types of molecules, each and all
 vibrating with faint deviation to characteristic modes. They are
 molecular in the sense that they are composed from more elemental
 datums. The nature of information and its wide speciation expand datum
-variety in [tetrationally](https://en.wikipedia.org/wiki/Tetration)
-intricate ways. Internalization of this endless variety of information
-is what it takes to truly determine anything about social physics,
-though most representations map sparsely to the range of
-possibilities. Memes are like monoidal, higher types of datums. All
-possible prototypical structures for information can be combinatorially
-enumerated using category theory.
+variety in tetrationally intricate ways. Internalization of this
+endless variety of information is what it takes to truly determine
+anything about social physics, though most representations map
+sparsely to the range of possibilities. Memes are like monoidal,
+higher types of datums. All possible prototypical structures for
+information can be combinatorially enumerated using category theory.
 
-#### Tetration on the Complex Plane
+#### [Tetration](https://en.wikipedia.org/wiki/Tetration) on the Complex Plane
 
 ![Tetration on the Complex Plane](/img/posts/2017-09-21-speed-of-thought-illusion-of-separation/tetration.jpg)
 
@@ -158,9 +156,9 @@ temperature and population density.
 
 From ancient times through the telegraph, all information flux was
 bound to physical contact. Population growth itself gradually
-accelerated both information and information flux. Writing established
-information permanence. Navigation and ship-building increased the
-maximum range for information to spread, per degree of
+accelerated both information accumulation and flux. Writing
+established information permanence. Navigation and ship-building
+increased the maximum range for information to spread, per degree of
 exchange. Economics incentivized management of information to predict
 trade and resource trends. Ancient people may have assumed the network
 effect: as population increased, so did the likelihood of
@@ -221,7 +219,7 @@ probabilities fluctuate, as do the number of retained hosts, iotas and
 datum representations. In some cases, when information itself is lost,
 it can be later reconstituted and repersisted from its parts.
 
-People respond in different ways to datums, raising from traits such
+People respond in different ways to datums, arising from traits such
 as virility or vociferousness. These aspects drive expansion in the
 datums' lineage of iotas, which are seeded into hosts. The more
 expansive the distribution of iotas and the more frequently they're
@@ -301,6 +299,8 @@ destination, the journey, and each macroscopic fragment can be
 consumated by dissecting the fundamentals of communication and
 information.
 
+![Eudaimonia](/img/posts/2017-09-21-speed-of-thought-illusion-of-separation/eudaimonia.jpg)
+
 <a name="the-beginning-of-the-end-for-the-illusion-of-separation" />
 
 ### [The Beginning of the End for the Illusion of Separation?](#the-beginning-of-the-end-for-the-illusion-of-separation)
@@ -313,8 +313,6 @@ ourselves driven to tantalizing exhaustion as it ripens in fullness.
 Our understanding of ourselves reaches a state of entirety to a degree
 of significance the magnitude of which humanity may only ever witness
 once.
-
-![Eudaimonia](/img/posts/2017-09-21-speed-of-thought-illusion-of-separation/eudaimonia.jpg)
 
 The same confluence of phenomena to usher in this
 [eudaimonic](https://en.wikipedia.org/wiki/Eudaimonia) actualization
@@ -332,17 +330,17 @@ are woven together to influence interaction and how people think about
 it. Population density and broadband access profoundly impact how
 these shifts unfold.
 
-- It's not clear which is (worse): shifts that seem seismic or those
-  we barely notice (shifting) beneath our feet.
-
 We are seeing some of these effects now. For example, possible
 election manipulation and -- holy shit -- did anyone log into social
 media in 2016? Information amplification is rampant. Manipulation of
-information is as old as predator and prey, except that the fabric of
+information is as old as predator and prey, except today the fabric of
 information and communication is shifting. It's like a space that's
 bending and folding into itself. Most of us still see everything as
 though we are within that space, but some of us know how to use it to
 (....)
+
+- It's not clear which is (worse): shifts that seem seismic or those
+  we barely notice (shifting) beneath our feet.
 
 <a name="the-other-side-of-the-s-curve" />
 
@@ -356,7 +354,9 @@ it's never known life outside the petri dish, this curve decides to
 wish upon agar. Unfortunately, the s-curve's fate is sealed and the
 system is just as closed as the petri dish.
 
-![probably include a picture of an s-curve]
+#### Comparison of Sigmoid Curves
+
+![The Sigmoid Curve](/img/posts/2017-09-21-speed-of-thought-illusion-of-separation/scurve.png)
 
 <a name="open-and-closed-systems" />
 
@@ -495,8 +495,8 @@ information-filtering processes, it results a kind of phase change.
 
 Information converges in different ways at various scales along
 various dimensions, which include spatial, aggregate and
-graph-oriented dimensions. In other ways, info becomes
-non-convergent.
+graph-oriented dimensions. (In other ways, info becomes
+non-convergent.)
 
 <a name="the-structure-of-the-noosphere" />
 
@@ -535,7 +535,7 @@ subset of the
 bioinformatics to help identify networks of functionally related
 genes.
 
-#### [Implementation of a Geo-Semantic App by Combining Mobile User Contexts with Geographic Ontologies](https://www.researchgate.net/publication/263992616_Implementation_of_a_Geo-Semantic_App_by_Combining_Mobile_User_Contexts_with_Geographic_Ontologies)
+#### A Subset of the Gene Ontology via ["Implementation of a Geo-Semantic App by Combining Mobile User Contexts with Geographic Ontologies"](https://www.researchgate.net/publication/263992616_Implementation_of_a_Geo-Semantic_App_by_Combining_Mobile_User_Contexts_with_Geographic_Ontologies)
 
 ![Gene Ontology](/img/posts/2017-09-21-speed-of-thought-illusion-of-separation/gene-ontology.png)
 
@@ -608,9 +608,6 @@ presentations of that information an individual has seen. So, when
 mainstream media tries to handle an event, it can't identify a
 language of symbols to leverage that will evoke predictable
 interpretations.
-
-- jesus, a handful of hippies with a mic and a soundstage at Woodstock
-  were able to get the word out about the "brown acid".
 
 <a name="a-tall-glass-of-nihilism-to-toast-your-post-modernist-wasteland" />
 

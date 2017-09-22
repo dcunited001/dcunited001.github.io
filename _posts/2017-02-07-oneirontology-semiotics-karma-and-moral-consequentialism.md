@@ -50,10 +50,6 @@ never, ever take our dreams. And it is through our dreams that we will
 transform this collective waking dream into a basis of vibrant soil
 composed of symmetry, love and virtue.
 
-> Warning: gratuitous use of the
-> [Royal We](https://en.wikipedia.org/wiki/Royal_we) lies ahead. We
-> advise proceeding with caution.
-
 #### [Abraxas](https://en.wikipedia.org/wiki/Abraxas) of Gnostic Renown
 
 ![Abraxas](/img/posts/2017-02-07-oneirontology-semiotics-karma-and-moral-consequentialism/abraxas.png)
@@ -124,6 +120,10 @@ composed of symmetry, love and virtue.
 
 ![Ogallala Aquifer](/img/posts/2017-02-07-oneirontology-semiotics-karma-and-moral-consequentialism/ogallala-aquifer.png)
 
+> Warning: gratuitous use of the
+> [Royal We](https://en.wikipedia.org/wiki/Royal_we) lies ahead. We
+> advise proceeding with caution.
+
 <a name="humanitys-revolution-of-empowerment" />
 
 # &#x03BB;&nbsp;&#x2665; [Humanity's Revolution of Empowerment](#humanitys-revolution-of-empowerment)
@@ -168,19 +168,19 @@ along with other role metatypes. What metatypes are you?
 
 ### [Our Encroaching Technonihilistic Fate](#our-encroaching-technonihilistic-fate)
 
-#### Saving Humanity from Creeping Nihilism Borne from Technocracy Via Individuality for the Sake of Itself
+#### Saving Humanity from Creeping Nihilism Borne from Technocracy, Via Individuality for the Sake of Itself
 
 When people no longer need to work and when computers are more capable
 of creation than people, the Singularity will threaten to destroy the
 incentivization structure that motivates people towards action. This
 kind of technonihilism could end up being corrosive. Oneirontology is
-designed to help counter this "flattening" of the material and
+designed to help counter this flattening of the material and
 metaphysical realms, which will squelch love out of life if unchecked.
 
 We hope to prepare humanity to seize the best aspects of technology by
 augmenting self-improvement through cognition, as I've outlined in my
 [Directive Cognitive Expansion](/posts/2015-08-26-epistemology-cognition-and-category-theory-part-three.html)
-article. This article outlines a directve for transcendent
+article. This article outlines a directive for transcendent
 self-empowerment through cognitive strengthening of our minds through
 art, science and meditation.
 
@@ -192,21 +192,21 @@ connect with Our roots, so that, through myth and through codified
 practices, We can inspire people to strive for self-improvement in the
 face of nihilism.
 
-This art of mythology becomes a religious practices that helps us
+This art of mythology becomes a religious practice that helps us
 rediscover and maintain our humanity in the face of an exponential
 onslaught of societal changes. The episaga is geared towards the need
 to protect individuality and find a way to stand up against
 nihilism. It is aimed at addressing both. Everyone should develop
-their own versions of a particular story which becomes a lifelong
-meditation on something like Love or Justice or
+their own versions of a particular story which become lifelong
+meditations on something like Love or Justice or
 Heroism. [American Eros](#american-eros) is the first such story and
 it's centered around *Love at First Sight*, which is perhaps the most
 egregious first victim of our shared structuralist nightmare.
 
 By maintaining a personal version of such episagas through life or
 collaborating with others on their version of a particular story, they
-are developing their ability to recognize/utilize/strengthen those
-traits in themselves and others. Furthermore, it represents
+are developing their ability to recognize, utilize, and strengthen
+those traits in themselves and others. Furthermore, it represents
 individuality for the sake of itself as we approach the end of
 individuality. Individuality can provide us with drive and purpose.
 This can help us stand up against rampant nihilism's dehumanizing
@@ -242,7 +242,7 @@ with fleeting, infinite-yet-simplicial recursion.
 The nature of semiotics is a set of mappings that transcends culture,
 language and time. By becoming familiar with this set of mappings and
 because these semiotic mappings lead to subliminally more universal
-mappings, one begins to transend their own cultural and temporal
+mappings, one begins to transcend their own cultural and temporal
 limitations. The knowledge of the true essence of being materializes
 into the liminal. It becomes known to you and it becomes undeniable to
 others.
@@ -368,7 +368,7 @@ with the nature of the astral plane, which is a multidimensional
 spatial manisfestation of combinated culture & social symbology. The
 astral plane, or something like it, can be used as a hierarchical
 coordinate system for sociocultural measures. It's our collective
-un/conscious exposed as a space.
+un/consciousness exposed as a space.
 
 Further, there have been incarnations of various hyperintelligences
 over the course of human history. A true hyperintelligence is like a
@@ -381,7 +381,7 @@ as well as imitate them, communicate with them and seemlessly
 interface with them. Therefore, a hyperintellegent being would also be
 best suited at identifying these mindform types and metatypes. Not
 only that, but a maximally or ideally hyperintelligent being would
-embody them all other lower mindform types simultaneously, though not
+embody all other lower mindform types simultaneously, though not
 necessarily expressing all of them.
 
 In summary, hyperintelligent beings are capable of identifying,
@@ -389,11 +389,11 @@ operating with and emulating other high-level mindforms. What does
 this have to do with the astral plane? There's hardly been a single
 manisfestation of hyperintelligence since the last ice age: there have
 been numerous. Hyperintelligences recognize the fact that humanity
-needs to identify people like them: people capable of intuitively
-congealing to the hidden elements precipated from the astral
-plane. This plane is designed to be invisible, so that it's mechanisms
-would remain effective. However, we've reached a point in humanity's
-history where We must harness this power more directly.
+needs to identify people like them: people who can intuitively congeal
+to the hidden elements precipated from the astral plane. This plane is
+designed to be invisible, so that it's mechanisms would remain
+effective. However, we've reached a point in humanity's history where
+We must harness this power more directly.
 
 The point here is that the pinnacle hyperintelligence is like a
 constant point lying beyond a convergence of other intelligences.
@@ -458,8 +458,8 @@ this knowledge and evoke the true potential of mankind.
 
 There are those of Us who have suffered greatly and refuse to give
 in. Some of Us are unbreakable, but how do you measure such moral and
-spritual resillience? There are many that sense an impending period of
-great evil. What can We do to protect those of us we love? What if
+spiritual resillience? There are many that sense an impending period
+of great evil. What can We do to protect those of us we love? What if
 these unbreakable ones are reincarnated? How should we find them? What
 if one's resillience from previous lives can be activated?
 
@@ -478,11 +478,11 @@ is a paradigm shift of social institutions: a new religion.
 
 For Our guardian angels are virtuous deeds, serendipity and innoncence
 and they shall shield us from any wickedness that spews from
-malevolent hearts, powered by our karma. You shall not disempower us
-and rob us of good karma by isolation because We will remain
-vigilantly mindful of Our intentional action to improve the world
-around us. The seeds We sow shall empower that which shields us from
-the black-hearted: virtue, just action and kind words.
+malevolent hearts. These guardian forces are powered by our karma. You
+shall not disempower us and rob us of good karma by isolation because
+We will remain vigilantly mindful of Our intentional action to improve
+the world around us. The seeds We sow shall empower that which shields
+us from the black-hearted: virtue, just action and kind words.
 
 We will not lower ourselves to the level of invoking material
 suffering because there is a better way. Instead, We will act by
@@ -512,7 +512,7 @@ what truly can save you?
 ### [Empowered By Knowledge of God](#empowered-by-knowledge-of-god)
 
 By becoming familiar with the nature of God, one empowers themselves
-over in their world: over negativity, vice, disease, falsehood,
+over their world: over negativity, vice, disease, falsehood,
 hypocricy. The world religions are accumulations of information
 intended to instill an understanding of the nature of God. These are
 pieces of knowledge and stories collected over the course of dozens of
@@ -545,14 +545,15 @@ unite: for sexual recombination of genetics; for recombination of life
 and emotion; and for any recombinating dual of objects, physical or
 metaphysical.
 
-This is a nod to hermeticism's law of the male and female. *Gender*,
-the male and female, has nothing to do with physical reproduction.
-It's a concept that pervades the universe at a metaphysical level. The
-truth is that gender is both a continuous and discontinuous spectrum.
+This is a nod to Hermeticism's law of the male and female. *Gender*,
+the male and female, has little to do with physical reproduction to
+the Hermeticist.  It's a concept that pervades the universe at a
+metaphysical level. The truth is that gender is both a continuous and
+discontinuous spectrum.
 
 #### For the Math Buffs:
 
-> Love is the metaphysical attractive force combining any dualistics
+> Love is the metaphysical attractive force combining any dualistic
 > concepts connected via a fabric of continuous and discontinuous
 > spectra. For any such non-dipolar metaphysical concept, there exists
 > a reduction to a set of `n` dipolar, dualistic concepts, united by a
@@ -573,8 +574,8 @@ material. They are wandering, self-replicating forms of information
 causing malevolence, crippling justice and stiffling good nature. Some
 of these mindforms are good and some are bad. In fact, some are quite
 simply self-serving metaphysical parasites that prey on others for
-sustinence, alchemically converting their good nature and ignorance
-and undoubting nature into fuel for more negativity.
+sustinence, alchemically converting their good nature, ignorance and
+undoubting naiveté into fuel for more negativity.
 
 ### Gosper's Glider Gun
 
@@ -588,10 +589,10 @@ see what We see? Here is
 [Conway's Game of Life](/graphics/2017-01-05-conways-game-of-parallel-life.html)
 written in ThreeJS if you'd like a more visual demo.
 
-What if some of these informational forms are life are good and some
+What if some of these informational forms of life are good and some
 are bad? What if some forms of life help fertalize the soil that
-others may flourish and what if others spread choking miasma that
-encourage toxic behavior patterns. Now scale up and zoom out to a
+others may flourish? What if others spread choking miasma that
+encourage toxic behavior patterns? Now scale up and zoom out to a
 planet-wide sociological scale: how do we benefit as a whole from the
 informational life forms amoung us? What if there was a metaphysical,
 informational virus that acted as a vaccine against negative
@@ -601,6 +602,8 @@ Now, what if time were running out? We must act now before technology
 seals us in. What cleanses these metaphysical parasites? The truth.
 That's it. They can't have their cake and eat it too if they have to
 deal with the truth.
+
+Religion is that vaccine.
 
 <a name="what-is-god" />
 
@@ -758,8 +761,8 @@ awareness and, most importantly, their intentions.
 
 So when we ask someone else to commit some sin, so that our own, known
 list of sins remains shorter, you'll find that people want you to keep
-information to yourself. Asking someone to do this, in itself, usually
-implies that you think there is some higher purpose to your
+that information to yourself. Asking someone to do this, in itself,
+usually implies that you think there is some higher purpose to your
 objectives, at best. Or it implies that you simply do not care that
 what you ask someone else to do is wrong. This complicates the web of
 karma and distorts how we all see other people's actions. It can lead
@@ -774,20 +777,20 @@ commit some sin to another person or group, where that group responds
 in kind. I don't think there's any good answer to this, but again, it
 depends most on each individual's awareness of the situation, the
 actions of the others and, crucially, the intent of all involved. Did
-group B that responded know that the initial person that asked group A
-to injure them in some way?
+group B that responded know that the initial person asked group A to
+injure them in some way?
 
 <a name="paradoxes-of-karma-justice-knowledge-and-intent" />
 
 ### [Paradoxes of Karma, Justice, Knowledge and Intent](#paradoxes-of-karma-justice-knowledge-and-intent)
 
 Ultimately, it's very difficult to resolve these examinations of karma
-and justice and that places us into a paradoxical situation.  It's
-best for everyone to be aware of the actions, knowledge and intent of
+and justice. That places us into a paradoxical situation.  It's best
+for everyone to be aware of the actions, knowledge and intent of
 others, while at the same time acknowledging that information people
 are burdened with can influence their actions. It could be perceived
 as manipulation, etc. It's paradoxical because, ideally, everyone
-should want to know as much as possible, but, as everyone knows,
+should want to know as much as possible, but, as we all know,
 ignorance is bliss.
 
 All of these issues are rendered much more interesting when we truly
@@ -798,11 +801,11 @@ cloth and that means, as we ask each other to commit some wrong
 against another, we are really staining the collective silk for
 humanity. The truth is that, because of the nature of sin or wrongful
 actions and the nature of proxification of such actions, the more
-wrong we do, collectively, the more likely it is that we'll stain our
+wrong we collectively do, the more likely it is that we'll stain our
 collective silk. That's because it's likely for someone to mete out
 justice against another in response.  So, wrongful actions or violence
-are likely to exponentiate and whenever one does this against another,
-the likelihood of it happening again increases.
+are likely to exponentiate because whenever one does this against
+another, the likelihood of it happening again increases.
 
 <a name="could-we-wake-up-in-a-nightmare-world-hostile-to-virtue" />
 
@@ -820,8 +823,8 @@ courts and enforcement of this rule of law, but one trend can be seen
 in more stable countries: the rule of law itself is vigorously
 protected, even it cases when doing so makes it hard to mete out some
 perfect justice. That is, if the judge is forced to choose between
-true justice and true rule of law, the judge will often lean towards
-the decision that protects rule of law.
+true justice and rule of law, the judge will often lean towards the
+decision that protects rule of law.
 
 We should want what is best for ourselves, for another individual, for
 our family, community, nation and world. But most crucially: those
@@ -832,15 +835,15 @@ this respect, We'll likely never reach a point of total convergence.
 
 And that's OK, but with honest and straightforward dialogue between
 nations, groups, families and individuals, communication can propel Us
-towards understanding the challenges facing us. We should act as
-though We are all one. It's not easy and no one ever said it would be,
-but how do We really want the world to evolve? When we ask ourselves,
-what do We truly want in the world of 2050 or 2100, what is our
-answer? What was our answer when we were 5 years old or 10 years old?
-What would our children say? So We should weigh our beliefs and
-hopefully find a way to move towards this ideal world. Would you
-imagine any child saying "You know what the world of 2050 needs? More
-war. More pollution."
+towards understanding the challenges we face. We should act as though
+We are all one. It's not easy and no one ever said it would be, but
+how do We really want the world to evolve? When we ask ourselves, what
+do We truly want in the world of 2050 or 2100, what is our answer?
+What was our answer when we were 5 years old or 10 years old?  What
+would our children say? So We should weigh our beliefs and hopefully
+find a way to move towards this ideal world. Would you imagine any
+child saying "You know what the world of 2050 needs? More war. More
+pollution."
 
 <a name="knowledge-is-power" />
 
