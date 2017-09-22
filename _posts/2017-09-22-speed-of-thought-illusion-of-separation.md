@@ -8,13 +8,21 @@ author:
 excerpt: ""
 ---
 
-![](/img/posts/2017-09-21-speed-of-thought-illusion-of-separation/)
+## First, a Riddle:
+
+#### What's Both Hot and Cold,
+
+#### Vibrates and Resonates,
+
+#### And Is Made Out Of At Least Two Kinds of Stars?
 
 ## [What Is The Speed of Thought Today?](#what-is-the-speed-of-thought-today)
 
 #### &#x03D5; [Sociophysical Mechanics Are Now Predominantly Virtualized](#sociophysical-mechanics-are-now-predominantly-virtualized)
 
 #### &#x03D5; [Memes, Datums and Iotas](#memes-datums-and-iotas)
+
+#### &#x03D5; [Holons and the Holonome](#holons-and-the-holonome)
 
 ## [Temperature, Density, Waves and Spectra](#temperature-density-waves-and-spectra)
 
@@ -34,15 +42,57 @@ excerpt: ""
 
 #### &#x03D5; [Environmental Stimuli and Cultural Universals Shape The Aggregate of Thought](#environmental-stimuli-and-cultural-universals-shape-the-aggregate-of-thought)
 
-#### &#x03D5; (...)
-
 ## [The Eudaimonic Symphony of Being Humanity](#the-eudaimonic-symphony-of-being-humanity)
 
 #### &#x03D5; [The Beginning of the End for the Illusion of Separation?](#the-beginning-of-the-end-for-the-illusion-of-separation)
 
+#### &#x03D5; [The Singularity is a Sociophysical Black Hole](#the-singularity-is-a-sociophysical-black-hole)
+
+## [The Other Side of the S-Curve](#the-other-side-of-the-s-curve)
+
+#### &#x03D5; [Open and Closed Systems](#open-and-closed-systems)
+
+#### &#x03D5; [Uncountably Infinite Dimensional, Convoluted Non-Linear Systems](#uncountably-infinite-dimensional-convoluted-non-linear-systems)
+
+## [Phase Change in Physical and Aphysical Topologies](#phase-change-in-physical-and-aphysical-topologies)
+
+#### &#x03D5; [Complexity in Sociophysical Systems Creates Vastly Many Phases](#complexity-in-sociophysical-systems-creates-vastly-many-phases)
+
+#### &#x03D5; [Demand-Side Information Economics](#demand-side-information-economics)
+
+#### &#x03D5; [Does The Commoditization of Attention Extend to Automated Agents?](#does-the-commoditization-of-attention-extend-to-automated-agents)
+
+## [Spectral Decoherence in the Noosphere](#spectra-decoherence-in-the-noosphere)
+
+#### &#x03D5; [The Structure of the Noosphere](#the-structure-of-the-noosphere)
+
+#### &#x03D5; [Ontologies in Data Science](#ontologies-in-data-science)
+
+#### &#x03D5; [Neighborhoods in Physical and Aphysical Topologies](#neighborhoods-in-physical-and-aphysical-topologies)
+
+#### &#x03D5; [What is Anscombe's Paradox, Watson](#what-is-anscombes-paradox-watson)
+
+#### &#x03D5; [The 15th Century European Noosphere](#the-15th-century-european-noosphere)
+
+#### &#x03D5; [The Obliteration of Physical Constraints on Sociophysical Phenomena](#the-obliteration-of-physical-constraints-on-sociophysical-phenomena)
+
+#### &#x03D5; [Which One Of These Is *The* Fake News Article?](#which-one-of-these-is-the-fake-news-article)
+
+## [A Tall Glass of Nihilism to Toast Your Post-Modernist Wasteland](#a-tall-glass-of-nihilism-to-toast-your-post-modernist-wasteland)
+
+#### &#x03D5; [Spectral Decoherence Breaks the Economics of Content Creation](#spectral-decoherence-breaks-the-economics-of-content-creation)
+
+#### &#x03D5; [Semiotic Harmonics and Social Engineering](#semiotic-harmonics-and-social-engineering)
+
+#### &#x03D5; [Information Warfare in Our Brave New World](#information-warfare-in-our-brave-new-world)
+
+## [Shangri-La Or Bust](#shangri-la-or-bust)
+
+#### &#x03D5; [The Ablation of Causality](#the-ablation-of-causality)
+
 > "Posthumous men — I, for example — are understood worse than timely
 > ones, but heard better.  More precisely: we are never understood —
-> hence our authority."
+> hence our authority." — *Nietzsche, Twilight of the Idols*
 
 <a name="what-is-the-speed-of-thought-today" />
 
@@ -90,35 +140,42 @@ in spaces and networks, where each iota is a singleton type.
 
 #### The named is the mother of myriad things
 
-Datums should be thought as myriad types of molecules, each and all
-vibrating with faint deviation to characteristic modes. They are
+It is an interesting exercise to think of datums -- units of
+information -- as being particles and waves with spectra, similar to
+Einstein's eureka of light as both a particle and a wave. In this
+manner, datums can be imagined as myriad types of molecules, each and
+all vibrating with faint deviation to characteristic modes. They are
 molecular in the sense that they are composed from more elemental
 datums. The nature of information and its wide speciation expand datum
 variety in tetrationally intricate ways. Internalization of this
 endless variety of information is what it takes to truly determine
 anything about social physics, though most representations map
 sparsely to the range of possibilities. Memes are like monoidal,
-higher types of datums. All possible prototypical structures for
-information can be combinatorially enumerated using category theory.
+higher types of datums.
 
 #### [Tetration](https://en.wikipedia.org/wiki/Tetration) on the Complex Plane
 
-![Tetration on the Complex Plane](/img/posts/2017-09-21-speed-of-thought-illusion-of-separation/tetration.jpg)
+![Tetration on the Complex Plane](/img/posts/2017-09-22-speed-of-thought-illusion-of-separation/tetration.jpg)
 
-- TODO: also add quick blurb about holons
-  - holonome as the shared type structure that is combinatorially
-    enumerable (or some sections of it at least)
-  - lenses in functional programming
+<a name="holons-and-the-holonome" />
+
+### [Holons and the Holonome](#holons-and-the-holonome)
+
+[Holons](https://en.wikipedia.org/wiki/Holon_(philosophy)) are a
+useful concept for structuring information. All possible prototypical
+structures for information can be combinatorially enumerated using
+category theory. A fitting name for this is the holonome and, ideally,
+its enumeration would be countably infinite. Understanding this
+holonome and developing a structure of information that resolves
+duality and defines all possilble metaphysical forms drives my passion
+for learning category theory. Holons correspond to the concept of
+[lenses and prisms from functional programming](/posts/2016-04-30-lambda-fu-powerup-lenses-prisms-and-optics-with-swift.html). The
+holonome is unique. There is only one and it encompasses all possible
+structures of holons, without regard for their contents.
 
 <a name="temperature-density-waves-and-spectra" />
 
 # [Temperature, Density, Waves and Spectra](#temperature-density-waves-and-spectra)
-
-#### What's Both Hot and Cold,
-
-#### Vibrates and Resonates,
-
-#### And Is Made Of At Least Two Kinds of Stars?
 
 Sociophysical systems exhibit a wide array of behavior that can be
 modeled with physics metaphors. From atop a ziggurat in Sumeria or
@@ -129,7 +186,15 @@ temperature correlate with interest and intent. Moreover, the
 temperature and density of the group yields more connections and a
 faster rate of information diffusion.
 
-![Teotihuacan](/img/posts/2017-09-21-speed-of-thought-illusion-of-separation/teotihuacan.jpg)
+#### A Change In Elevation Results in a Change in Perspective. Here, It Is A Dimensional Reduction
+
+![Teotihuacan](/img/posts/2017-09-22-speed-of-thought-illusion-of-separation/teotihuacan.jpg)
+
+#### What's Both Hot and Cold,
+
+#### Vibrates and Resonates,
+
+#### And Is Made Out Of At Least Two Kinds of Stars?
 
 The answer to the riddle above is people, or sociophysical networks,
 which have spaces of varying topology: both physical spaces and more
@@ -241,6 +306,10 @@ important to understand, but in the 21st century, where your attention
 has been commoditized, there is nothing more important than
 understanding what consumes our thought.
 
+#### Zipf's Distribution Plots the Frequency of Words As They Appear In A Language's Literature
+
+![Zipf's Distribution](/img/posts/2017-09-22-speed-of-thought-illusion-of-separation/zipf-wiki.png)
+
 <a name="the-semiotic-aggregate-of-thought" />
 
 ### [The Semiotic Aggregate of Thought](#the-semiotic-aggregate-of-thought)
@@ -266,8 +335,6 @@ the top because they arise from human needs and the intricacies of
 human interactions. What happens to this distribution when technology
 changes our human needs? Is there ever such a thing as a new cultural
 universal? It must be so, but how?
-
-### 
 
 Writing and subsequent innovations dramatically expanded the spectrum
 and TTL of information. Before there were written records, reflections
@@ -299,7 +366,7 @@ destination, the journey, and each macroscopic fragment can be
 consumated by dissecting the fundamentals of communication and
 information.
 
-![Eudaimonia](/img/posts/2017-09-21-speed-of-thought-illusion-of-separation/eudaimonia.jpg)
+![Eudaimonia](/img/posts/2017-09-22-speed-of-thought-illusion-of-separation/eudaimonia.jpg)
 
 <a name="the-beginning-of-the-end-for-the-illusion-of-separation" />
 
@@ -325,10 +392,17 @@ dynamics emerged because the specifics of the system caused various
 rules to be more significant, resulting in some behaviors that were
 never seen again.
 
-Many paradigm shifts (have resulted) from how sociophysical mechanics
-are woven together to influence interaction and how people think about
-it. Population density and broadband access profoundly impact how
-these shifts unfold.
+![Danger, Will Robinson](/img/posts/2017-09-22-speed-of-thought-illusion-of-separation/danger-will-robinson.webp)
+
+<a name="the-singularity-is-a-sociophysical-black-hole" />
+
+### [The Singularity is a Sociophysical Black Hole](#the-singularity-is-a-sociophysical-black-hole)
+
+Sociophysical mechanics weave together to influence social interaction
+and how people think about it. Technological innovation disrupts how
+these mechanics interlace, resulting in paradigm shifts when it occurs
+to a significant enough degree. Which is worse: the obviously seismic
+paradigm shifts or those we barely notice shifting beneath our feet?
 
 We are seeing some of these effects now. For example, possible
 election manipulation and -- holy shit -- did anyone log into social
@@ -336,27 +410,25 @@ media in 2016? Information amplification is rampant. Manipulation of
 information is as old as predator and prey, except today the fabric of
 information and communication is shifting. It's like a space that's
 bending and folding into itself. Most of us still see everything as
-though we are within that space, but some of us know how to use it to
-(....)
-
-- It's not clear which is (worse): shifts that seem seismic or those
-  we barely notice (shifting) beneath our feet.
+though we are within that space, but a few of us are adapting faster
+than others. Population density and broadband access profoundly impact
+how these shifts unfold.
 
 <a name="the-other-side-of-the-s-curve" />
 
 # [The Other Side of the S-Curve](#the-other-side-of-the-s-curve)
 
-There are reasons that an S-Curve (emerges) where it does. It opens with
-exponential growth and, like an unfortunate perfectionist, all it
-knows is overachievement and blue skies. Then, suddenly, this curve's
-distribution hits a wall: it's a negative externality. Yet, since
-it's never known life outside the petri dish, this curve decides to
-wish upon agar. Unfortunately, the s-curve's fate is sealed and the
-system is just as closed as the petri dish.
+There are reasons that the S-Curve emerges where it does. It opens
+with exponential growth and, like the unfortunate, ironic
+perfectionist, all it knows is overachievement and blue skies. Then,
+suddenly, this curve's distribution hits a wall: it's a negative
+externality. Yet, since it's never known life outside the petri dish,
+this curve decides to wish upon agar. Unfortunately, the s-curve's
+fate is sealed and the system is just as closed as the petri dish.
 
 #### Comparison of Sigmoid Curves
 
-![The Sigmoid Curve](/img/posts/2017-09-21-speed-of-thought-illusion-of-separation/scurve.png)
+![The Sigmoid Curve](/img/posts/2017-09-22-speed-of-thought-illusion-of-separation/scurve.png)
 
 <a name="open-and-closed-systems" />
 
@@ -368,6 +440,10 @@ just like an open system that might never be closed. If you aren't
 aware of what caused the system to be closed, you would expect trends
 to continue indefinitely.
 
+<a name="closed-systems-and-equivalent-exchange-of-energy" />
+
+### [Closed Systems and Equivalent Exchange of Energy](#closed-systems-and-equivalent-exchange-of-energy)
+
 If you try to view the selection of public stocks as open, then you
 start with a good index and familiarize its stocks one by one,
 gradually learning to trade. If you instead choose to view the
@@ -375,59 +451,52 @@ selection of stocks as closed, then, like Warren Buffet, you might
 grab a copy of Moody's and memorize the available stocks, one by
 one. When you model the wider financial markets as a closed system,
 then every trade effectively results in an equal and opposite shift in
-value from one asset to another.
+value from one asset to another. Capital enters and leaves the system,
+thus equivalent exchange is not perfectly preserved. However, in the
+financial system, money is a kind of energy. Just like forms of energy
+in sociophyscial systems, complex non-linear dynamics emerge when this
+equivalent exchange is not maintained.
 
-- (This is several conditions hold): that no money enters or leaves
-  the system, amoung others. Closed systems allow you to make
-  reasonable inferences about (preservation of aggregate quantity.)
-  - in these systems, money is energy.
-
-### (Why does it matter?)
-
-- describe as non-linear earlier
-
-The noosphere, our shared information ecosystem, combines the traits
-of (open and closed) along various measures. It's both open and closed
-in a very complicated way. The transition from open to closed leads to
-divergent phenomenological implications.
-
-- (When we notice that sociophysical mechanics (appear to change
-  dramatically), it is often because our shared system of social
-  interaction is more or less constrained by some factors, which are
-  functionally coupled to various measures of "system boundedness".)
-
-While communication networks are converging, (...) people send and
-receive radically more information. In this respect, system is bounded
-not by how fast data can be transmitted, but by how much data people
-have to transmit. In this oversimplication, the system fluctuates:
-telecom expands, people buy new phones with new apps, they send gifs,
-telecom removes bandwidth limits, then people figure out they can send
-videos.
+> Sorry Communists. Money is real and never goes away. In the future,
+> ENERGY IS CURRECY. Literal physical energy itself becomes
+> currency. There is no society neither bound by resources, nor the
+> concepts of currency and economics. You have been deluded.
 
 <a name="uncountably-infinite-dimensional-convoluted-non-linear-systems" />
 
 ### [Uncountably Infinite Dimensional, Convoluted Non-Linear Systems](#uncountably-infinite-dimensional-convoluted-non-linear-systems)
 
-When your system is an infinitely dimensional, convoluted non-linear
-sociophysical system, it reacts with an incomprehensible set of
-dynamics that are impossible to differentiate and dilineate. There are
-critical categories of metrics that can help simplify the system.
-Around clusters of values for these groups of metrics, there are
-boundaries. Stay in the boundary, the system is more stable. Move
-outside of a cluster's boundary region, the system will begin to
-transition chaotically. If you're lucky, it will do so with some
-degree of predictability. (Transitioning) into and out of these
-boundaries can describe a phase change, though these are phases
-composed of phase metatypes.
+The noosphere, our shared information ecosystem, is a non-linear
+system that combines the traits of open and closed along various
+measures. It's both open and closed in very complicated ways. The
+transition from open to closed leads to divergent phenomenological
+implications. The second part of this series discusses how autonomous
+agents in sociophysical systems mitigate and hedge against the
+system's complexity by amplifying information and making decisions
+based on perceived beliefs. The complexity of the system contributes
+to its own dynamics.
 
-If you imagine a group of metrics including information velocity and
-social graph connectedness as (forming a category), then as long as
-the velocity nor the connectedness skyrockets, the system prefers not
-to undergo transformations that it has never exhibited. We all know
-these two metrics are evolving exponentially, but this (ineffible, is
-just one of the few examples that can be easily put into
-words). Obviously, technology and convergent communication networks
-also present us with beneficial (transformation).
+When your system is convoluted, infinitely dimensional and non-linear,
+it reacts with an incomprehensible set of dynamics that are impossible
+to differentiate and dilineate. There are critical categories of
+metrics that can help simplify the system. Around clusters of values
+for these groups of metrics, there are boundaries. Stay in the
+boundary, the system is more stable. Move outside of a cluster's
+boundary region, the system will begin to transition chaotically. If
+you're lucky, it will do so with some degree of predictability.
+(Transitioning) into and out of these boundaries can describe a phase
+change, though these are phases composed of phase metatypes.
+
+Imagine a group of metrics including information velocity and social
+graph connectedness as forming a category. As long as the velocity nor
+the connectedness skyrockets, the system remains stable and prefers
+not to undergo transformations that it has never exhibited. It's
+obvious this category of metrics is rapidly evolving today, so this an
+easily-parsed example of chaotic phase transitions in non-linear
+systems. For sociophysical systems, these kinds of phase transitions
+are myriad.
+
+![Einstein and Imagination](/img/posts/2017-09-22-speed-of-thought-illusion-of-separation/einstein.jpg)
 
 <a name="phase-change-in-physical-and-aphysical-topologies" />
 
@@ -441,16 +510,14 @@ linearly bound to the temperature; it is the sudden shift to zero
 electrical resistence. Phases are not a primarily physical
 phenonenon. They are an idea in math, where systems operate in a
 functionally distinct way when their constituents individually satisfy
-some properties over increasingly large spatial regions. This
-generalized idea of phase changes in sociophysical systems will be
-discussed in detail later.
+some properties over increasingly large spatial regions.
 
 <a name="complexity-in-sociophysical-systems-creates-vastly-many-phases" />
 
 ### [Complexity in Sociophysical Systems Creates Vastly Many Phases](#complexity-in-sociophysical-systems-creates-vastly-many-phases)
 
-Just like particle systems, sociophysical systems also experience
-phase changes. Reduce the physical space's limits on velocity and
+Again, sociophysical systems experience phase changes, just like
+particle systems. Reduce the physical space's limits on velocity and
 distance, then increase the quantity of information flux and suddenly
 a vastly different set of principles applies. Models for sociophysical
 systems with physical information transfer still apply and the same
@@ -461,33 +528,42 @@ virtual channels utilize mechanics that cause the nature of
 information itself to dominate the interactions. This leads to what
 can be described as the geometric mechanics of information systems.
 
-###
+<a name="demand-side-information-economics" />
 
-As our world becomes more closed (in various ways) and as our
+### [Demand-Side Information Economics](#demand-side-information-economics)
+
+As our world becomes more closed in various ways and as our
 communication infrastructure encourages sociophyscial phase changes,
-different sets of principles (can be considered to be fundamental in)
-modeling the system. When population growth and virtual channels cause
-the world to create vastly more information than could ever be
-consumed by humans, this also presents a series of phase changes
-because the sheer volume of information in itself changes how people
-behave. When we reach a knowledge plateau, (which some describe as The
-Singularity), the simple presence of a boundary on new knowledge means
-that people operate differently based on the assumption that no
-quantity of information produces significant knowledge. In
-high-volume, high-flux sociophysical systems, information economics
-becomes demand-side, where the abundance in supply reduces the
-significance of qualitative differences in information. When people
-generally decide this, in itself, changes their decision-making and
-information-filtering processes, it results a kind of phase change.
+different sets of principles become foundational in modeling the
+system. When population growth and virtual channels cause the world to
+create vastly more information than could ever be consumed by humans,
+this also presents a series of phase changes because the sheer volume
+of information in itself changes how people behave. When we reach a
+knowledge plateau like the Singularity, the simple presence of a
+boundary on new knowledge means that people operate differently based
+on the assumption that no level of effort produces significantly novel
+knowledge.
 
-- how do the demand-side information economics change when people
-  simply consume energy and resources? how do the demand-side trends
-  respond to nihilism?
-  - if, at this point, information derives its value from being useful
-    to 7-10 billion individuals, what happens when this changes?
-  - is information that is valuable to people inherently more
-    important than what is valuable to automated consumers of
-    information?
+In these high-volume, high-flux sociophysical systems, information
+economics becomes demand-side, where the abundance in supply reduces
+the significance of qualitative differences in information. When
+people generally decide this, in itself, changes their decision-making
+and information-filtering processes, it results a kind of phase
+change.
+
+<a name="does-the-commoditization-of-attention-extend-to-automated-agents" />
+
+### [Does The Commoditization of Attention Extend to Automated Agents?](#does-the-commoditization-of-attention-extend-to-automated-agents)
+
+Again, the 21st century commodity is the individuals attention, but
+that paradigm only lasts as long as human attention is considered
+"special" in some way. Today, an individual's information consumption
+habits are valuable because human consumers have money. What is the
+difference between human attention as a commodity and the attention of
+automated agents? How do the demand-side information economics change
+if people simply become biological liabilities, consuming energy and
+resources to sustain their own needless hedonism? How do these
+demand-side trends respond to rampant nihilism?
 
 <a name="spectra-decoherence-in-the-noosphere" />
 
@@ -495,8 +571,8 @@ information-filtering processes, it results a kind of phase change.
 
 Information converges in different ways at various scales along
 various dimensions, which include spatial, aggregate and
-graph-oriented dimensions. (In other ways, info becomes
-non-convergent.)
+graph-oriented dimensions. Information can also adopt divergent
+dynamics.
 
 <a name="the-structure-of-the-noosphere" />
 
@@ -537,9 +613,11 @@ genes.
 
 #### A Subset of the Gene Ontology via ["Implementation of a Geo-Semantic App by Combining Mobile User Contexts with Geographic Ontologies"](https://www.researchgate.net/publication/263992616_Implementation_of_a_Geo-Semantic_App_by_Combining_Mobile_User_Contexts_with_Geographic_Ontologies)
 
-![Gene Ontology](/img/posts/2017-09-21-speed-of-thought-illusion-of-separation/gene-ontology.png)
+![Gene Ontology](/img/posts/2017-09-22-speed-of-thought-illusion-of-separation/gene-ontology.png)
 
-### Neighborhoods of [Physical and Graph Spaces]
+<a name="neighborhoods-in-physical-and-aphysical-topologies" />
+
+### [Neighborhoods in Physical and Aphysical Topologies](#neighborhoods-in-physical-and-aphysical-topologies)
 
 Neighborhoods of the social graph can be generated via various
 mathematic metrics. The term degrees of separation is one such
@@ -553,6 +631,8 @@ neighborhood varies less as the chosen metric expands. This phenomenon
 is generally more apparent for knowledge than for information, where
 knowledge is defined as information above some threshold of universal
 significance.
+
+<a name="what-is-anscombes-paradox-watson" />
 
 ### [What is Anscombe's Paradox, Watson](#what-is-anscombes-paradox-watson)
 
@@ -568,28 +648,35 @@ graphs. This dissonance in local information is essentially
 
 #### [Anscombe's Quartet](https://en.wikipedia.org/wiki/Anscombe%27s_quartet), Four Sets With Identical Aggregates
 
-![Picture of anscombe's quartet](/img/posts/2017-09-21-speed-of-thought-illusion-of-separation/anscombes-quartet.jpg)
+![Picture of anscombe's quartet](/img/posts/2017-09-22-speed-of-thought-illusion-of-separation/anscombes-quartet.jpg)
 
-### [The 15th Century Noosphere in Europe]()
+<a name="the-15th-century-european-noosphere" />
+
+### [The 15th Century European Noosphere](#the-15th-century-european-noosphere)
 
 Imagine the noosphere for 15th century European society, where almost
 every literate person has only read from a single book: the Bible. As
 you zoom out, the effects of that literary work on the information
-graph become (pronounced). At that time, the knowledge graph is sadly
+graph become pronounced. At that time, the knowledge graph is sadly
 empty and the scope of shared knowledge is minimal, compared to what
 is instilled by today's public education system. Before the modern
 era, adjacent neighborhoods would correlate with highly similar
 generated noospheres. They would have very high spectral coherence.
-Prior to internet, subcultures were contained to geographic areas or
-displayed heightened evolution in urban areas. (and a slower rate of
-mutation elsewhere)
 
-Where before, evolution in culture required more time to proliferate,
-we have obliterated the physical constraints on information
+<a name="the-obliteration-of-physical-constraints-on-sociophysical-phenomena" />
+
+### [The Obliteration of Physical Constraints on Sociophysical Phenomena](#the-obliteration-of-physical-constraints-on-sociophysical-phenomena)
+
+Prior to internet, subcultures were contained within geographic areas
+and displayed heightened evolution in urban areas. Areas with lower
+population density displayed diminished cultural evolution. Where
+before, evolution in culture required more time to proliferate, we
+have obliterated the physical constraints on information
 transmission. The speed of a thought as it traverses social networks
 is almost meaningless because of the predominantly aphysical nature of
 communication. Awareness of this phenomenon itself causes a phase
-change, which alters the design of mass communication.
+change in social behavior, which alters the design of mass
+communication.
 
 <a name="which-one-of-these-is-the-fake-news-article" />
 
@@ -618,6 +705,8 @@ that we should amplify what unifies us.
 [Diversity in body, mind and culture](/posts/2016-05-14-facets-of-greatness-the-unknown-monumental-accidents.html#embracing-diversity)
 is an American strength, as is our social connectedness to the rest of
 the world.
+
+<a name="spectral-decoherence-breaks-the-economics-of-content-creation" />
 
 ### [Spectral Decoherence Breaks the Economics of Content Creation](#spectral-decoherence-breaks-the-economics-of-content-creation)
 
@@ -657,7 +746,9 @@ and the
 began to describe this converged society full of creative people
 empowered to the max, who can't produce anything distinguishable.
 
-# (Information Warfare)
+<a name="information-warfare-in-our-brave-new-world" />
+
+### [Information Warfare in Our Brave New World](#information-warfare-in-our-brave-new-world)
 
 What does all of this mean for information warfare? We are not
 ready for it at all. This creates a situation where a strong, powerful
@@ -673,8 +764,12 @@ chastises you whenever you place precedence on some cultural artifacts
 over others. However, this isn't about liberalism vs conservatism.
 It's just inevitable. We all have to face it. We have to artifically
 prioritize some elements of our culture to create cultural
-coherence. Otherwise, we will succumb to nihilism more quickly (via
-rampant cultural speciation via postmodernism)
+coherence. Otherwise, we will succumb to nihilism more rapidly.
+Although postmodernism is driven by the individual's will for
+significance through unique expression, in the context of the
+Singularity, postmodernism's influence on cultural speciation
+exacerbates nihilism's disruptive influence by ultimately rendering
+the individual's contribution to society indistinguishable.
 
 Further, we have to accept that we are inherently more vulnerable to
 information itself. Influence, foreign or domestic, can undermine our
@@ -684,59 +779,51 @@ unison and building on each other's energy. Potential election
 interference, regardless of the specifics, demonstrates this potential
 for destabalization.
 
-### Conclusions
+<a name="shangri-la-or-bust" />
 
-Paradoxically, the technology to pinnacle in humanity's Shangri-La of
-total self-awareness also heralds tumultuous paradigm shifts in the
-mechanics and dynamics of information. The beauty that we will see is
+# [Shangri-La Or Bust](#shangri-la-or-bust)
+
+Humanity is approaching the pinnacle of civilization thus
+far. Paradoxically, the same technology that manifests our Shangri-La
+of total self awareness -- the ability to know everything there is
+about being human -- also heralds sociophysical paradigm shifts that
+magnify the potential for catastrophe. The beauty that we will see is
 what we should have been able to see all along. We must appreciate it,
 but beneath every paradise lurks danger shrouded in its magnetic
 allure. If we become distracted, disoriented or disillusioned, we will
 be blindsided.
 
-During this (transitionary period), we will each have our own
+We will be able to observe ourselves in near totality, connect to
+almost anyone globally, and solve all biological problems. Still, our
+greatest threat is nihilism and our greatest fear will be ourselves.
+
+![Shangri-La Or Bust](/img/posts/2017-09-22-speed-of-thought-illusion-of-separation/brueghel-tower-of-babel.jpg)
+
+During our technological ascent, we will each have our own
 understanding of how the world has changed and how it has changed
 us. We must hedge against potential sources of turbulence, magnified
 by the principles of game theory. Technology will empower all players
-for better or worse. Rogue self-interests will exploit novel paradigms
-of sociophysical mechanics, (unrecognizable) to most. Information
-warfare is all about using the energy of others for your own gain. The
-phenomena of spectral decoherence expands and confounds (believable)
-narratives, which lends itself to deception and opportunistic tactics.
+for better or worse. Rogue self-interests will exploit tactics built
+on novel sociophysical paradigms. An exponential rate of change
+obfuscates these new facets of life. Information warfare is all about
+using the energy of others for your own gain. The phenomena of
+spectral decoherence expands and confounds the construction of
+narratives. This also lends itself to deception and opportunistic
+tactics.
 
-- Social physics itself is ancient, but virtualized channels dominate
-  communication, rendering any of its former incarnations obsolete.
-  - humanity's former incarnations of social physics
+<a name="the-ablation-of-causality" />
 
-- Still, as social physics evolves, it can be modeled by restructuring
-  the same primitive mechanics.
-  - Still, convergence only repackages the same mechanics in new ways,
+### [The Ablation of Causality](#the-ablation-of-causality)
 
-- we need to focus on how those fundamentals of
-  communication/information, in the context of convergence/etc
+Virtualized communication networks impair our perception of causality,
+meaning cause and effect become indiscernable to the unaided
+individual and, thus, increasingly irrelevant. This could render
+causality itself a victim of information warfare.
 
-- (this leads to drastically different conclusions on what humanity's
-  purpose is and what our challenges are)
-
-Humanity needs to identify and magnify its common ground. Law and
-action should... promote incentivization.
-
-We all have to own this, wherever it leads. Pain from past and present
-conflict threatens to motivate future tension.
-
-Systems with properly structured incentivization models always
-reinforce
-
-
-  - blinded by our ego
-  - information saturation & overstimulation
-  - individuality/privacy is diminished
-  - causality becomes incredibly difficult to understand
-
-  - ironically, even though we are able to observe ourselves in near
-    totality, connect to almost anyone globally, and solve all our
-    problems, our greatest threat is nihilism and our greatest fear
-    will be ourselves.
-
-The next section presents an overview of social physics.
+The next section presents an overview of social physics, which itself
+is ancient. Now that virtualized channels dominate communication, this
+renders obsolete all cultures' former incarnations of social physics,
+however they conceptualized it. The underlying mechanics do not change
+and by familiarizing ourselves with these foundations, we can
+anticipate the sociocultural implications of the Singularity.
 

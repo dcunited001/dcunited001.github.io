@@ -250,8 +250,26 @@ finite set
   - use imagery from that anime on the anisotropic
 
 
-- If you physically limit access to the court, no one but nobles can
-  talk to the king.
+- we need to focus on how those fundamentals of
+  communication/information, in the context of convergence/etc
+
+- (this leads to drastically different conclusions on what humanity's
+  purpose is and what our challenges are)
+
+Humanity needs to identify and magnify its common ground. Law and
+action should... promote incentivization.
+
+We all have to own this, wherever it leads. Pain from past and present
+conflict threatens to motivate future tension.
+
+Systems with properly structured incentivization models always
+reinforce
+
+
+  - blinded by our ego
+  - information saturation & overstimulation
+  - individuality/privacy is diminished
+  - causality becomes incredibly difficult to understand
 
 ###
 
