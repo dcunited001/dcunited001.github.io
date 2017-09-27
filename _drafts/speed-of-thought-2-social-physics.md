@@ -30,7 +30,11 @@ excerpt: ""
   - misc:
     - "ante-modernism"
     - "social-neuro-linguistic" consensus of abstraction in context
-      with evolution of
+      with requirements required for development of language and the
+      explosion of neural development that occurs after social
+      behavior encourages consensus of abstraction. all of these
+      factors feed back into themselves and result in the development
+      of language
 
 - [the encyclopedia of human thermodynamics - HMOL](http://www.eoht.info/)
   - pretty much the most comprehensive source on social physics and
