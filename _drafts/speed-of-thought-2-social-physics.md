@@ -64,6 +64,9 @@ excerpt: ""
     energy to social forms of energy.
   - literally the wave. a GIF of the wave in a stadium.
   - TODO: add notes from phone
+  - physical conditions => sociophysical conditions
+    - how do weather conditions affect the players and the game?
+    - how do weather conditions affect the home & visiting crowd
 
 - add photos of new gender/sexuality spectrums to first part
   - this is an example of spectral decoherence and hurts the LGBTQ
@@ -86,36 +89,6 @@ excerpt: ""
 - there are some things ancient people understood more clearly than we
   do today.
 
-### Kantian Categories And Information Diffusion
-
-- explain kantian categories using analogy of a magician's show
-
-#### Watching Someone Watch TV
-
--
-
-#### Betting/Bookies Example
-
-- five people place bets on two separate sporting events
-  - for the first event, all five people meet a single bookie, where
-    they discuss how to handle changes to their bets based on the
-    result of the first event.
-  - they agree to change their bets on the second event based on the
-    results of the first event.
-    - the goal is to spread the losses and winnings among the
-      individuals.
-    - for the 2nd event, each person has their own bookie, but they
-      have already discussed all the possible scenarios in the (game
-      tree) that describes the possible moves that can be made.
-  - the objective however, is not to win money, but to spread the
-    losses and winnings optimally *without communicating* until the
-    five gamblers settle their debts after the 2nd game.
-
-- this is a scenario where information is ....
-  - lambda calculus, prestructuring composition of categories
-  - the lambda-calc-like structure must cover all the possible
-    variations that the (kantian category representing the could
-    collapse into
 
 ### [Marathon and Thermopylae](#marathon-and-thermopylae)
 
@@ -204,7 +177,26 @@ and 3rd degree networks, which conferred major advantages. Those with
 wealth could finance transport and delegate action, which further
 helped expand those networks.
 
-### North Korea as today's minimum of connectivity
+### North Korea as a global minimum of connectivity
+
+- how this leads to poor decisions by the leadership and reduces their
+  economic competitiveness
+  - if you look at the social graph, the 2-degree neighborhoods of
+    north korean citizens have fewer international connections than
+    any other country.
+    - how can you compete in the global economy if your regime
+      prohibits communiction with the outside?
+    - how can you export products if your citizens cannot freely
+      establish relationships with people and businesses in other
+      countries? in spite of UN sanctions, the regime really shoots
+      their potential development of exports (in the foot)
+    - in a digital economy, products are informational. NK citizens
+      simply can't be consumers or producers of content. AFAIK, they
+      aren't allowed to have radios because NK paranoia is stuck with
+      the 1960's soviet mindset of information control.
+      - no hardware for internet, no media creation tools, no content
+        production, no culture export, no connections developed,
+        interactions are discouraged.
 
 ### America and Europe as a connectivity maximum today
 

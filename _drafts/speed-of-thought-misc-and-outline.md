@@ -186,15 +186,6 @@ finite set
   - in this way, the meme is a type that generates
 - a meme has a datum representing itself
 
-
-
-
-
-- infonetworking:
-  - ....
-
-
-
 #### Peak Post-Modernism
 
 ![peak post modernism picture]()
@@ -204,7 +195,6 @@ finite set
   - meta-modernism
     - people are trying to stand out more and more.
     - cyclic interplay b/w post/modernism
-
 
 #### structure of series:
 
@@ -219,7 +209,6 @@ finite set
       - part 3 is mostly not relevant
     - peace-power-prosperity (possibly a few valuable snippets)
 
-
 - describe information economics and how the medium of transmission
   affects supply/demand
 - references to a grimoire for an analogy to old ideas becoming more
@@ -227,23 +216,26 @@ finite set
 
 #### Part Two: Social Physics
 
-    1. (reuse segment from parapet-2 on thermopylae, etc as intro?)
-    2. discribe how information reverberates around the world
-    3. overview of basic concepts of social physics, along with
-       everyday examples
-       - the most important conclusions from understanding social
-         physics
-       - how telecom/internet changes social physics
-    4. most critical inferences from social physics
-    5. definition of power as the potential to trigger flux
-      - mechanics of power
-    6. physical analogies
-      - people as particles: temperature, density, state, etc.
-      - speed of sound
-      - phase changes
-      - configurational entropy & conformational entropy
+1. (reuse segment from parapet-2 on thermopylae, etc as intro?)
+2. discribe how information reverberates around the world
+   - some basic ideas, such as social connectivity and the economic
+     benefits. minimum/maximum of connectivity in today's world
+3. overview of basic concepts of social physics, along with
+   everyday examples
+   - the most important conclusions from understanding social
+     physics
+   - how telecom/internet changes social physics
+4. informal postulates of social physics.
+   - most critical inferences from social physics
+   - definition of power as the potential to trigger flux
+   - mechanics of power
+5. physical analogies
+   - people as particles: temperature, density, state, etc.
+   - speed of sound
+   - phase changes
+   - configurational entropy & conformational entropy
 
-#### part three: geometry and mechanics of information)
+#### Part Three: geometry and mechanics of information
 
 - thesis: how the geometry and structure of information affects its
   diffusion.

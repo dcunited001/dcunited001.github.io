@@ -353,6 +353,41 @@ sa(ru) + sara → ??? !@#$ it, i forget
   characters whose meanings differ only slightly from commonly used
   characters
 
+- chinese characters and combinations of characters can be more easily
+  identified, though every language's users develop their own
+  idiosyncratic ways of signaling under the radar.
+  - for example, traditional chinese offers many synonymous characters
+    where each can have subtle connatative differences. using
+    characters more complicated than necessary requires more energy
+    and thus could potentially imply some deeper meaning.
+    - energy/effort almost always signifies intent or focus.
+
+- IMO, the development of simplified chinese was motivated by:
+  - anticipation of digitization of language
+  - to some extent, making the language more accessible to increase
+    literacy rates.
+  - and, to a very minor extent, transforming Chinese language in a
+    way determined by communist party ideals.
+      - this was intended to mostly be indirect. so, someone who has
+        learned to write more traditional chinese kanji in japanese
+        may make characteristic errors after having learned to write
+        simplified chinese.
+        - so, to aid the identification of spies, for
+          example. [Ip Man](https://en.wikipedia.org/wiki/Ip_Man_(film))
+          stimulated me to think about what it would be like to be
+          raised in another country, but in a kind of subversive way
+      - today, someone who learns to write simplified chinese after
+        having learned traditional chinese will exhibit characteristic
+        patterns of pressure and stroke that could be identified as a
+        cluster by machine learning algorithms. it would likely only
+        be possible to develop an algorithm to identify a cluster of
+        variation from the norm for specific simplified characters
+        with a high degree of difference from their traditional
+        counterparts.
+  - making the above assertions or statements is a bit culturally
+    insensitive at this point. besides, no one and no group ever does
+    something like that for a single reason. it's impossible to know.
+
 # Study of Linguistics, Anatomy and Evolution
 
 The ability to use language seems to drive evolution towards
@@ -589,6 +624,8 @@ these specific aspects are desirable:
   the same abstraction amoung various groupings of individuals
   - these reflections of an idea/abstraction must be reconciled to
     form a consensus in the mind of the individual.
+
+
 
 # Implicit Signaling Via Deviation from Norm
 

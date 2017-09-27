@@ -8,13 +8,21 @@ author:
 excerpt: ""
 ---
 
+> Every person helplessly creates this through life, even before
+> taking a breath. We cannot digest as much as we regurgitate. It is
+> impossible to destroy. On seven continents, its trees bloom and
+> pollinate.
 
 - [Picture for Geometric Mechanics]
-
 
 - egyptian architecture as the most prominently preserved ancient
   architecture, exerting an archetypical influence on our minds for
   millinea, even after language was lost.
+  - lead in with this example of how the permanence of geom/mechanics
+    of information ...
+    - maybe refer to 'speculative history of humanity' outline, where
+      i describe how monolithic architecture was a response to
+      information loss from cataclysm and human conflict
 
 - were the egyptian pyramids a response to a loss of cultural
   information? they seem to have attempted to build something so
@@ -26,11 +34,70 @@ excerpt: ""
 - emphasize that the democratization of media creation tools, coupled
   with access to broadcast mass communication led to cultural
   transformation
-  -
+
+# Information Physics
+
+- information physics: does it merit its own "thing" ?
+  - social physics overlaps heavily with information physics
+    - but i find myself using the phrase "information mechanics and
+      dynamics" countless times
+  - information physics isn't identical to social physics. it's not
+    mathematical physics. however, "information physics" is only
+    really meaningful when there is physical/logical variation in the
+    distribution of information. if all information exists everywhere
+    (i.e. an illusion of separation dissolves) then everything exists
+    within an all-encompassing totality of information. there would be
+    no distinction b/w one agent's set of knowledge and another's.
+    - in this case, the information system, if it evolves, would do so
+      in fundamentally different ways than when there is separation
+      and variations in the physical/logical distribution of
+      information.
+    - we are moving towards such a system, but will never, ever reach
+      it. looking at bounds on computer science (that result from
+      Ramsey Theory and complexity limits of networking) is such a
+      system that lacks variation in distribution of agency and
+      autonomy ever even possible, even theoretically? Analogously,
+      DOES INFINITY EXIST?
+      - and if such a system does not (theoretically) exist, then how
+        can we move towards such a non-existant idea?
+  - information "movement" or deformation/displacement/kinematics --
+    thus, physics -- is almost meaningless w/o a social context, even
+    if one or all of the parties are autonomous/etc.
+
+### Kantian Categories And Information Diffusion
+
+- explain kantian categories using analogy of a magician's show
+
+#### Watching Someone Watch TV
+
+-
+
+#### Betting/Bookies Example
+
+- five people place bets on two separate sporting events
+  - for the first event, all five people meet a single bookie, where
+    they discuss how to handle changes to their bets based on the
+    result of the first event.
+  - they agree to change their bets on the second event based on the
+    results of the first event.
+    - the goal is to spread the losses and winnings among the
+      individuals.
+    - for the 2nd event, each person has their own bookie, but they
+      have already discussed all the possible scenarios in the (game
+      tree) that describes the possible moves that can be made.
+  - the objective however, is not to win money, but to spread the
+    losses and winnings optimally *without communicating* until the
+    five gamblers settle their debts after the 2nd game.
+
+- this is a scenario where information is ....
+  - lambda calculus, prestructuring composition of categories
+  - the lambda-calc-like structure must cover all the possible
+    variations that the (kantian category representing the could
+    collapse into
 
 Hip Hop is a modern example of how the dissemination of information
 changed the lives of millions of people living in mostly African
-American and Hispanic ghettos in urban America.  In particular, it is
+American and Hispanic ghettos in urban America. In particular, it is
 about the democratization of music production hardware. It is the
 first time that *everyone* had access to all the equipment needed to
 produce music, no crazy white man involved.
@@ -241,44 +308,18 @@ copied at the click of a button and distributed anywhere.
       same, we can access it from anywhere, etc.
 
 
-# Information Physics
-
-- information physics: does it merit its own "thing" ?
-  - social physics overlaps heavily with information physics
-    - but i find myself using the phrase "information mechanics and
-      dynamics" countless times
-  - information physics isn't identical to social physics. it's not
-    mathematical physics. however, "information physics" is only
-    really meaningful when there is physical/logical variation in the
-    distribution of information. if all information exists everywhere
-    (i.e. an illusion of separation dissolves) then everything exists
-    within an all-encompassing totality of information. there would be
-    no distinction b/w one agent's set of knowledge and another's.
-    - in this case, the information system, if it evolves, would do so
-      in fundamentally different ways than when there is separation
-      and variations in the physical/logical distribution of
-      information.
-    - we are moving towards such a system, but will never, ever reach
-      it. looking at bounds on computer science (that result from
-      Ramsey Theory and complexity limits of networking) is such a
-      system that lacks variation in distribution of agency and
-      autonomy ever even possible, even theoretically? Analogously,
-      DOES INFINITY EXIST?
-      - and if such a system does not (theoretically) exist, then how
-        can we move towards such a non-existant idea?
-  - information "movement" or deformation/displacement/kinematics --
-    thus, physics -- is almost meaningless w/o a social context, even
-    if one or all of the parties are autonomous/etc.
-
 #
 
 - information economics and sociophysical aspects of information
-
   - elaborate on information economics (as distinct from economics of
     content...)
 
+# Information as Chaotic Programs similar to Genetic Programs
 
-### The Economics of Content Production/Consumption Lead to Market Saturation
+- information mutates and self-replicates. it's easy to create,
+  sometimes impossible to destroy.
+
+# The Economics of Content Production/Consumption Lead to Market Saturation
 
 - (this has already been described in the first part, but needs more explanation)
 - the economics of content production/consumption in a converging or
@@ -290,11 +331,11 @@ copied at the click of a button and distributed anywhere.
 
 here's an essay on the death of novelty and originality as the limits
 on information diffusion are annihilated by the singularity. the
-information overload, particularly its skewed nature, results in
-generations of people who are completely severed from the past. if we
-understand this moving forward, we can use social engineering to
-preserve the pieces of our identity and culture which will otherwise
-be completely lost.
+information overload, particularly the nature of how information
+distribution becomes skewed, results in generations of people who are
+increasingly severed from the past. if we understand this moving
+forward, we can use social engineering to preserve the pieces of our
+identity and culture which will otherwise be completely lost.
 
 ### (Delineate b/w people, autonomous information-processing agents and instances of information)
 
@@ -708,6 +749,7 @@ be completely lost.
 
 ### when is information warfare advantageous?
 
+  - .... always? lulz
     - when the adversary is strong:
       - they are more capable of pushing a large volume of information
         (information flux)
@@ -822,12 +864,12 @@ be completely lost.
     the outside world. in every way and in every facet of life, Kim
     Il-Sung and the original usurpers of North Korea abused the
     conception of flawed ideology and concocted a long-term strategy
-    to be executed over the course of several generations *WHICH THEY
-    ALWAYS KNEW WOULD BE NECESSARILY TRAUMATIC AND ISOLATORY FOR THER
-    CITIZENS*.
+    to be executed over the course of several generations which they
+    always knew would be necessarily traumatic and isolatory for their
+    citizens.
     - i don't believe this is a common motivation for establishing a
       calendar system, but most calendar systems have endured over a
-      thousand years. THANK GOD THE JUCHE SYSTEM WILL NOT.
+      thousand years.
 
 ####
 
