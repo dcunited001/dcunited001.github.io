@@ -53,38 +53,37 @@ title: "The Monadic Model of Metaphysics & Meditative States of Mind"
   that you might hear a sound, but you focus does not drift towards
   attending to it. your mind does not try to label things in any way,
   even though you may experience distracting sensory stimuli.
-      - this is at least partly why you learn to meditate with your
-        eyes closed and in a relaxed state.
-        - your mind is less likely to become attached to sensory
-          experience
-      - i have wondered if it is possible to develop meditative skills
-        to maintain a state of mind like this while 'lucid' or at
-        least with the eyes open
-        - what would my experience be like? language must require
-          conceptual designation. i assume that almost all structured
-          thought would as well.
-        - it is very interesting to observe how visual stimuli provoke
-          conceptual designation. i.e. triggering this state of mind
-          while you are visually stimulated by a beach and waves in
-          the ocean would be easier than while staring at posters with
-          lots of text or recognizable imagery
-          - this is because your cognitive and subconscious processes
-            are reading in and processing these stimuli. even if you
-            aren't trying to think about what you are seeing, your
-            mind is preprocessing and caching data, layering in
-            conceptually designated information
-        - so, what would it mean to operate in a quasi-lucid state of
-          consciousness where most of these processes are diminished?
-          - is this similar to the state of mind i feel when i play
-            piano, either memorized or improvised? is it similar to
-            what i feel when i'm dancing and i'm hyperfocused, yet not
-            focused at all?
-            - when i'm engaging in these activities, i feel varying
-              degrees of constraint/structure on my cognitive
-              processes. when i'm not trying to structure what i'm
-              doing and i don't need to think about it, that's when i
-              perform the best. but my mind begins to wander or will
-              simply fade into the background.
+  - this is at least partly why you learn to meditate with your
+    eyes closed and in a relaxed state.
+    - your mind is less likely to become attached to sensory
+      experience
+    - i have wondered if it is possible to develop meditative skills
+      to maintain a state of mind like this while 'lucid' or at
+      least with the eyes open
+      - what would my experience be like? language must require
+        conceptual designation. i assume that almost all structured
+        thought would as well.
+      - it is very interesting to observe how visual stimuli provoke
+        conceptual designation. i.e. triggering this state of mind
+        while you are visually stimulated by a beach and waves in the
+        ocean would be easier than while staring at posters with lots
+        of text or recognizable imagery
+        - this is because your cognitive and subconscious processes
+          are reading in and processing these stimuli. even if you
+          aren't trying to think about what you are seeing, your mind
+          is preprocessing and caching data, layering in conceptually
+          designated information
+      - so, what would it mean to operate in a quasi-lucid state of
+        consciousness where most of these processes are diminished?
+        - is this similar to the state of mind i feel when i play
+          piano, either memorized or improvised? is it similar to what
+          i feel when i'm dancing and i'm hyperfocused, yet not
+          focused at all?
+      - when i'm engaging in these activities, i feel varying degrees
+        of constraint/structure on my cognitive processes. when i'm
+        not trying to structure what i'm doing and i don't need to
+        think about it, that's when i perform the best. but my mind
+        begins to wander or will simply fade into the background.
 
 ### How does this correlate to monadic metaphysics?
 
