@@ -79,7 +79,7 @@ Sociophysical systems exhibit a wide array of behavior that can be modeled with 
 
 #### &#x03D5; [Which One Of These Is *The* Fake News Article?](#which-one-of-these-is-the-fake-news-article)
 
-## [A Tall Glass of Nihilism to Toast Your Post-Modernist Wasteland](#a-tall-glass-of-nihilism-to-toast-your-post-modernist-wasteland)
+## [A Tall Glass of Nihilism to Toast Your Postmodernist Wasteland](#a-tall-glass-of-nihilism-to-toast-your-postmodernist-wasteland)
 
 #### &#x03D5; [Spectral Decoherence Breaks the Economics of Content Creation](#spectral-decoherence-breaks-the-economics-of-content-creation)
 
@@ -697,9 +697,9 @@ mainstream media tries to handle an event, it can't identify a
 language of symbols to leverage that will evoke predictable
 interpretations.
 
-<a name="a-tall-glass-of-nihilism-to-toast-your-post-modernist-wasteland" />
+<a name="a-tall-glass-of-nihilism-to-toast-your-postmodernist-wasteland" />
 
-# [A Tall Glass of Nihilism to Toast Your Post-Modernist Wasteland](#a-tall-glass-of-nihilism-to-toast-your-post-modernist-wasteland)
+# [A Tall Glass of Nihilism to Toast Your Postmodernist Wasteland](#a-tall-glass-of-nihilism-to-toast-your-postmodernist-wasteland)
 
 This phenomenon of spectral decoherence is informational and implies
 that we should amplify what unifies us.
@@ -750,8 +750,8 @@ empowered to the max, who can't produce anything distinguishable.
 
 ### [Information Warfare in Our Brave New World](#information-warfare-in-our-brave-new-world)
 
-What does all of this mean for information warfare? We are not
-ready for it at all. This creates a situation where a strong, powerful
+What does all of this mean for information warfare? We are not ready
+for it at all. This creates a situation where a strong, powerful
 adversary or even a weak one can exert influence over networking,
 telecom, and media to close it down. Our information borders are wide
 open, but this is as much a strength for America as it can be a
@@ -763,13 +763,17 @@ And most Westerners don't see it coming because the liberal mindset
 chastises you whenever you place precedence on some cultural artifacts
 over others. However, this isn't about liberalism vs conservatism.
 It's just inevitable. We all have to face it. We have to artifically
-prioritize some elements of our culture to create cultural
-coherence. Otherwise, we will succumb to nihilism more rapidly.
-Although postmodernism is driven by the individual's will for
-significance through unique expression, in the context of the
-Singularity, postmodernism's influence on cultural speciation
-exacerbates nihilism's disruptive influence by ultimately rendering
-the individual's contribution to society indistinguishable.
+prioritize some elements of our culture to create cultural coherence.
+Otherwise, we will succumb to nihilism more rapidly.  Although
+postmodernism is driven by the individual's will for significance
+through unique expression, in the context of the Singularity,
+postmodernism's influence on cultural speciation exacerbates
+nihilism's disruptive influence by ultimately rendering the
+individual's contribution to society indistinguishable.
+
+#### Peak Postmodernism
+
+![Peak Postmodernism](/img/posts/2017-09-22-speed-of-thought-illusion-of-separation/peak-post-modernism.jpg)
 
 Further, we have to accept that we are inherently more vulnerable to
 information itself. Influence, foreign or domestic, can undermine our

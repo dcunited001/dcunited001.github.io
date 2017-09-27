@@ -69,9 +69,70 @@ adverbs:
 - increasingly !!!
 - suddenly
 
-#### Structure of information as memes, datums, iotas
+#### alternative phrases
+
+- communication networks:
+- information networks:
+- convergence:
+  - consensus
+  - RAFT algorithm and/or PAXOS, but sometimes byzantines generals
+    because why not constantinople
 
 
+#### concepts that are difficult to succinctly reference:
+
+  - social physics:
+    - using analogies from physics and math to model social
+      interactions
+  - agents: people and bots
+    - agents as in the concept of agency and ability to impact
+      information and communication
+    - how to simplify this? just refer to as agents? or
+      information-processing entities?
+  - instances of information:
+    - generally just any representation of information ... quick short
+      name for this?
+  - players in social games:
+    - should i just refer to these as agents?
+    - is a distinct term appropriate? they are idealized as particles
+      that exert influence on information systems
+
+
+### application of art to these philosophical ideas:
+
+#### social physics
+
+    - sociophysical circuits (and superimposition of topologies)
+    - holon/holonome & information as particle, w/ wave/particle
+      duality
+    - entanglement of iotas/datums (& collapse of kantian categories)
+
+#### spectral decoherence of information/semiotics
+
+    - the intersection of this idea with kantian categories
+      - i.e. if the variety/quantity of information expands
+        exponentially, while any two individuals' history of
+        information consumption simultaneously diverges
+        - the set of information
+
+      - but this trend creates ... ?
+  - evolution from ... ? thanks alot ADD
+
+  - misc:
+
+#### ante-modernism
+
+- (refer to draft on ephemeral nature of linguistic evolution)
+
+#### "social-neuro-linguistic"
+
+with requirements for development of language and the explosion of
+neural development that occurs after social behavior encourages
+consensus of abstraction. all of these factors feed back into
+themselves and result in the development of language
+
+
+## Structure of information as memes, datums, iotas
 
 #### **Meme(s)** a monoidal information-type that can be expressed to produce a datum, a unit of information.
 
@@ -128,44 +189,6 @@ finite set
 
 
 
-
-#### alternative phrases
-
-- communication networks:
-- information networks:
-- convergence:
-  - consensus
-  - RAFT algorithm and/or PAXOS, but sometimes byzantines generals
-    because why not constantinople
-
-
-#### concepts that are difficult to succinctly reference:
-
-  - social physics:
-    - using analogies from physics and math to model social
-      interactions
-  - agents: people and bots
-    - agents as in the concept of agency and ability to impact
-      information and communication
-    - how to simplify this? just refer to as agents? or
-      information-processing entities?
-  - instances of information:
-    - generally just any representation of information ... quick short
-      name for this?
-  - players in social games:
-    - should i just refer to these as agents?
-    - is a distinct term appropriate? they are idealized as particles
-      that exert influence on information systems
-
-
-####
-
-- information physics: does it merit its own "thing" ?
-  - social physics overlaps heavily with information physics
-    - but i find myself using the phrase "information mechanics and
-      dynamics" countless times
-  - information "movement" (thus, physics) is almost meaningless w/o a
-    social context, even if one or all of the parties are automated.
 
 - infonetworking:
   - ....

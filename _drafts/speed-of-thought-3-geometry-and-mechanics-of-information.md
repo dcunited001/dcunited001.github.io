@@ -241,6 +241,35 @@ copied at the click of a button and distributed anywhere.
       same, we can access it from anywhere, etc.
 
 
+# Information Physics
+
+- information physics: does it merit its own "thing" ?
+  - social physics overlaps heavily with information physics
+    - but i find myself using the phrase "information mechanics and
+      dynamics" countless times
+  - information physics isn't identical to social physics. it's not
+    mathematical physics. however, "information physics" is only
+    really meaningful when there is physical/logical variation in the
+    distribution of information. if all information exists everywhere
+    (i.e. an illusion of separation dissolves) then everything exists
+    within an all-encompassing totality of information. there would be
+    no distinction b/w one agent's set of knowledge and another's.
+    - in this case, the information system, if it evolves, would do so
+      in fundamentally different ways than when there is separation
+      and variations in the physical/logical distribution of
+      information.
+    - we are moving towards such a system, but will never, ever reach
+      it. looking at bounds on computer science (that result from
+      Ramsey Theory and complexity limits of networking) is such a
+      system that lacks variation in distribution of agency and
+      autonomy ever even possible, even theoretically? Analogously,
+      DOES INFINITY EXIST?
+      - and if such a system does not (theoretically) exist, then how
+        can we move towards such a non-existant idea?
+  - information "movement" or deformation/displacement/kinematics --
+    thus, physics -- is almost meaningless w/o a social context, even
+    if one or all of the parties are autonomous/etc.
+
 #
 
 - information economics and sociophysical aspects of information
@@ -334,7 +363,6 @@ be completely lost.
   - it's just important to see this coming, so that we can respond to
     it now with an understanding of what technocultural turbulence
     will be like before we encounter it.
-
 
 ###
 
@@ -530,8 +558,6 @@ be completely lost.
     - regardless of the quirkly, distracting stories, i do not have
       confidence in our media today at all. liberal media is pushing
       toxic narratives that
-
-
 
 # Vulnerabilities
 
@@ -747,7 +773,6 @@ be completely lost.
           attempt to preserve cultural identity in spite of
           modernization
 
-
 - language boundaries
   - the nodes in the the social graph can be grouped by languages,
     which are each connected by a bilingual set of the population that
@@ -767,6 +792,44 @@ be completely lost.
       up pages containing the french and chinese language equivalents
       for that concept (that is, unless those pages used SEO
       techniques)
+
+#### The North Korean Calendar as an example of creating an artificial boundary
+
+- North Korea's Juche calendar oddly carries an air of religious
+  significance in a nation that embraces marxism and its atheist
+  tendencies. Still, they detest imperialism and have essentially
+  established a monarchy, so it's not the only contradictory aspect of
+  an ideology concocted in complete isolation.
+  - what else does the Juche Calendar do? It creates an artificial
+    division b/w the interior and exterior, which molds the citizen's
+    minds to conceptualized historical events and attribute them to
+    Juche years.
+  - while calendar systems specific to religious traditions or
+    cultures are common, the North Korean calendar system further
+    divorce's its citizens conceptualization of history from that of
+    the rest of the world.
+    - so, inner track propaganda establishes awareness of history in
+      terms of Juche years and makes it difficult for information
+      about history of the "outer realm" which has managed to
+      penetrate into the isolated country to establishe relevance. it
+      is mind control and is actually an example of Juche philosophy's
+      bizarre conception of german idealism and subject/object --
+      essentially "we're wrong and we do not give a fuck".  penetrate
+      into the isolated country.
+    - ![picture of the outer realm from Mortal Kombat]())
+  - the creation of this calendar system signifies the epoxification
+    of north korea's intent to NEVER let its citizens become aware of
+    the outside world. in every way and in every facet of life, Kim
+    Il-Sung and the original usurpers of North Korea abused the
+    conception of flawed ideology and concocted a long-term strategy
+    to be executed over the course of several generations *WHICH THEY
+    ALWAYS KNEW WOULD BE NECESSARILY TRAUMATIC AND ISOLATORY FOR THER
+    CITIZENS*.
+    - i don't believe this is a common motivation for establishing a
+      calendar system, but most calendar systems have endured over a
+      thousand years. THANK GOD THE JUCHE SYSTEM WILL NOT.
+
+####
 
 - narrative of american interventionalist foreign policy as being
   evil, self-serving and (etc..)

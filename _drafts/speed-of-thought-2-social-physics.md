@@ -8,41 +8,46 @@ author:
 excerpt: ""
 ---
 
-- i am powerless. all i have is thought. all i have is knowledge. all
-  i have is the will that drives me to never let my pain be forever
-  meaningless.
-
-- application of art to these philosophical ideas:
-  - social physics
-    - sociophysical circuits (and superimposition of topologies)
-    - holon/holonome & information as particle, w/ wave/particle
-      duality
-    - entanglement of iotas/datums (& collapse of kantian categories)
-  - spectral decoherence of information/semiotics
-    - the intersection of this idea with kantian categories
-      - i.e. if the variety/quantity of information expands
-        exponentially, while any two individuals' history of
-        information consumption simultaneously diverges
-        - the set of information
-
-      - but this trend creates ... ?
-  - evolution from
-  - misc:
-    - "ante-modernism"
-    - "social-neuro-linguistic" consensus of abstraction in context
-      with requirements required for development of language and the
-      explosion of neural development that occurs after social
-      behavior encourages consensus of abstraction. all of these
-      factors feed back into themselves and result in the development
-      of language
-
 - [the encyclopedia of human thermodynamics - HMOL](http://www.eoht.info/)
   - pretty much the most comprehensive source on social physics and
-    everything related it it. it's really comprehensive. it's also one
-    of the only sites that covers social physics
+    everything related it it. it's also one of the only sites i know
+    of where the content models social phenomena in terms of social
+    physics, instead of framing their content in the top-down
+    macroscopic language of sociology
   - cite the social physics paper on studying differences in
     physically/virtually connected social networks
     - site other papers?
+  - mention that i found this site while searching for the term
+    "social mechanics"
+    - i haven't consumed much of their content, but i will eventually.
+      i want to finish this 20,000 word treatise on social physics
+      with a fairly original conception of the ideas before i
+      internalize their content, framing everything else i think/write
+      in terms of their language.
+    - glossing over some of the pages and just looking at the table of
+      contents gave me a few interesting ideas.
+      - however, ideas on configurational entropy and things like that
+        were original and resulted from trying to design 2D particle
+        simulation algorithms as basic examples of social physics,
+        causing me to have eureka moment comparing social situations
+        to thermal dynamics
+        - i realize there was configurational/conformational entropy
+          in the graph structures of conversations/interactions
+          forming at an idealized cocktail party, for example.
+        - and from here, i began to draw more and more connections to
+          thermodynamics.
+      - but now, returning to their content, i realize that they have
+        explained mostly all of these in thorough detail.
+      - however, if i were to read it all now, as research, i would
+        frame all my ideas in term of what i ingest. what i wrote
+        would be meaningless and would almost certainly appear as
+        though i copied them or maybe every plagarized them.
+      - instead, i want originality and an a posteriori understanding.
+        i want to struggle and become stronger through that
+        struggle. then i want to reconcile that a posteriori
+        understanding with a more rationalist conception. it is
+        inefficient, but hey -- this is where i am and it's a fairly
+        unique situation for someone who is very intelligent.
 
 - ~transvaluation of all (cognition or cognitive faculties or skills)~
   and of all information
@@ -65,83 +70,6 @@ excerpt: ""
     communities because it impairs the brandability of all sexual
     identities
 
-- the western conceptualization of the mind is utterly flawed and the
-  materialistic understanding is making americans sick on a massive
-  scale, where the easy, cheap treatment for insurance to cover is
-  medication. (pull this into a separate article?)
-  - the problem is, the chemical imbalance theory in somehwere b/w
-    20-80% of cases of moderate mental illness causes psychiatrists in
-    particular to treat a totally fallacious cause
-    - because the actual root cause is not treated (*the information
-      attributed to the patient that is distributed among people in
-      their social network*), it's like treating cancer with placebo
-      sugar. medication in many cases does nothing, if not exacerbates
-      mental illness.
-      - this statement will be received controversially, but
-        information has a life of its own in sociophysical
-        networks.
-        - it is difficult/impossible to quanity/assess the
-          information, but therapy can help encourage dialogue
-        - also, it's not healthy for people to assume the problem lies
-          elsewhere... individuals have no control over what other
-          people are thinking.
-        - however, information injected into sociophysical networks
-          literally has a life of its own and once its diffused into
-          people's minds, it is almost certainly there forever or
-          until each social connection decides to overlook it, (which
-          often requires communiction and demonstration of changed
-          habits, etc => to each individual the information has
-          diffused into)
-        - by "information has a life of it's own" i mean these are
-          !@#$'ing probabilistic programs that self-replicate
-          information
-          - usually sophys networks/dynamics are intractibly complex
-            that information overload causes most of your social
-            connections to be so innundated with details relevant to
-            their own life, that they don't necessarily frame their
-            interactions based on problematic information attributed
-            to your identity.
-          - the best way to address these situations is through
-            communication. however, similar to how tweet storms ravage
-            the social media landscape with self-replicating
-            information, so do sophys. information programs
-          - this goes right back to the article that i wrote about
-            chaotic programming, which is a paradigm that describes
-            genetics, human cognition and the dynamics of information
-            in social networks.
-      - if the medical establishment ever gave me the time of day,
-        they would ridicule my arguments here. but this conception of
-        sociphysical vectors for mental illess is irrefutable
-        - *the chemical imbalance theory will be _destroyed_ by
-          computational medicene by 2030* and at that time, the tables
-          will be turned and the truth will be set free: the chemical
-          imbalance theory is only a primary factor in a minority of
-          mental illness.
-        - once people realize what they've paying out their ass for a
-          sham and sedating themselves with (occasionally) useless
-          psychatric medication, they will be furious
-    - ok, given some assumptions that, by 2030:
-      - for approx 20% of patients w/ mild-to-moderate mental illness,
-        comp. medicine will *CONCLUSIVELY, IRREFUTABLY* prove that any
-        amount of medication was inappropriate for these patients (the
-        assumption is that certainly, any meds were wrong, & therefore
-        unnecessarily altered epigenetic expression in the brains of
-        patients, therefore *giving* them mild chemical imbalances)
-      - and assume that, for another 20-60% of other patients w/
-        mild-to-moderate mental illness, medicine ....
-      -
-
-- propagation of mental illness
-  - from parents to child (it's really a situation where there is
-    diminished propagation of information to build traits needed for
-    early/adolescent developmental ish.)
-    - so, not actually propagation of the illness, but if it happens,
-      it can result from constrained variety of experience or reduced
-      permeability b/w parent/child
-      - so, it's transmission of habits, etc.
-    - 
-
-
 #### Information Consensus/Permanence (Matthew 5:18)
 
 - if sociophysical systems are probabilistic and, thus,
@@ -149,13 +77,14 @@ excerpt: ""
   otherwise) be guarenteed?
   - what level of information is required?
 
+- meaning of "the salt of the earth" in the same chapter.
+
 #### [Radiohead - Lift](https://www.youtube.com/watch?v=QBGaO89cBMI)
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/QBGaO89cBMI" frameborder="0" allowfullscreen></iframe>
 
 - there are some things ancient people understood more clearly than we
   do today.
-
 
 ### Kantian Categories And Information Diffusion
 
@@ -225,7 +154,8 @@ network effect. Population density increases the rate at which
 information moves in those sociophysical networks.
 
 Imagine humans as particles with random motion whose individual speed
-of vibration depends on available vehicles of transit. The particles
+of vibration depends on available vehicles of transit, intended
+destination, resource distribution and other factors. The particles
 vibrate in patterns, almost certainly originating from some home point
 and returning to it every day. When these particles hit the ocean at a
 port, they accelerate like sound hitting a solid barrier, assuming
@@ -304,12 +234,12 @@ philosophic exploration of social physics.
 ###
 
 Social physics was originally developed in the 19th century (links?)
-to explain how the behavior of players in simplified games were
-affected by the imposition of physical (rules/constraints). It
-originally borrowed heavily from classical mechanics and now overlaps
-with quantum mechanics, since non-deterministic games are loaded with
-probabilistic mechanics. Social physics can help us understand team
-sports, advanced
+to quantify sociological situations and particularly how the behavior
+of players in social games are affected by the imposition of physical
+constraints. It originally borrowed heavily from classical mechanics
+and now overlaps with quantum mechanics, since non-deterministic games
+are loaded with probabilistic mechanics. Social physics can help us
+understand team sports, advanced
 [swarm behavior](https://en.wikipedia.org/wiki/Swarm_behaviour), the
 geometric mechanics of battle tactics, cocktail parties and the finer
 mysteries of feng shui. Each of those activities (determined by the
@@ -340,15 +270,15 @@ can be simulated and what can be inferred via data science.?
 
 #### &#x2605; Do players need to make inferences based on the information schemas of other players?
 
-It isn't clear (which of the above) will add the most complexity, but
-in social situations players almost always operate with incomplete
-understanding. They can do so effectively because they've been
-conditioned with proactive and reactive behaviors that (...).
-Information overload can negatively affect players. The (questions)
-pertaining to information schema and information reflection add an
-incomprehensibly infinite degree of complexity. For the
-mathemtaticians, yes, modifiable schemas with or without reflection
-are definitely uncountable.
+From the above, it isn't clear which adds the most complexity, but
+players almost always operate with incomplete understanding in social
+situations. They can do so effectively because they've been
+conditioned to develop sets of proactive and reactive behaviors that
+(...).  Information overload can negatively affect players. The
+(questions) pertaining to information schema and information
+reflection add an incomprehensibly infinite degree of complexity. For
+the mathemtaticians, yes, modifiable schemas with or without
+reflection are definitely uncountable.
 
 All of this means that players have to be good at handling
 information, but better at balancing uncertainy and risk with
@@ -1099,3 +1029,85 @@ prevalence of...?
 # Zero in Social Physics
 
 - what does it mean to have zero for some of these metrics?
+
+
+
+
+
+
+
+
+
+- the western conceptualization of the mind is utterly flawed and the
+  materialistic understanding is making americans sick on a massive
+  scale, where the easy, cheap treatment for insurance to cover is
+  medication. (pull this into a separate article?)
+  - the problem is, the chemical imbalance theory in somehwere b/w
+    20-80% of cases of moderate mental illness causes psychiatrists in
+    particular to treat a totally fallacious cause
+    - because the actual root cause is not treated (*the information
+      attributed to the patient that is distributed among people in
+      their social network*), it's like treating cancer with placebo
+      sugar. medication in many cases does nothing, if not exacerbates
+      mental illness.
+      - this statement will be received controversially, but
+        information has a life of its own in sociophysical
+        networks.
+        - it is difficult/impossible to quanity/assess the
+          information, but therapy can help encourage dialogue
+        - also, it's not healthy for people to assume the problem lies
+          elsewhere... individuals have no control over what other
+          people are thinking.
+        - however, information injected into sociophysical networks
+          literally has a life of its own and once its diffused into
+          people's minds, it is almost certainly there forever or
+          until each social connection decides to overlook it, (which
+          often requires communiction and demonstration of changed
+          habits, etc => to each individual the information has
+          diffused into)
+        - by "information has a life of it's own" i mean these are
+          !@#$'ing probabilistic programs that self-replicate
+          information
+          - usually sophys networks/dynamics are intractibly complex
+            that information overload causes most of your social
+            connections to be so innundated with details relevant to
+            their own life, that they don't necessarily frame their
+            interactions based on problematic information attributed
+            to your identity.
+          - the best way to address these situations is through
+            communication. however, similar to how tweet storms ravage
+            the social media landscape with self-replicating
+            information, so do sophys. information programs
+          - this goes right back to the article that i wrote about
+            chaotic programming, which is a paradigm that describes
+            genetics, human cognition and the dynamics of information
+            in social networks.
+      - if the medical establishment ever gave me the time of day,
+        they would ridicule my arguments here. but this conception of
+        sociphysical vectors for mental illess is irrefutable
+        - *the chemical imbalance theory will be _destroyed_ by
+          computational medicene by 2030* and at that time, the tables
+          will be turned and the truth will be set free: the chemical
+          imbalance theory is only a primary factor in a minority of
+          mental illness.
+        - once people realize what they've paying out their ass for a
+          sham and sedating themselves with (occasionally) useless
+          psychatric medication, they will be furious
+    - ok, given some assumptions that, by 2030:
+      - for approx 20% of patients w/ mild-to-moderate mental illness,
+        comp. medicine will *CONCLUSIVELY, IRREFUTABLY* prove that any
+        amount of medication was inappropriate for these patients (the
+        assumption is that certainly, any meds were wrong, & therefore
+        unnecessarily altered epigenetic expression in the brains of
+        patients, therefore *giving* them mild chemical imbalances)
+      - and assume that, for another 20-60% of other patients w/
+        mild-to-moderate mental illness, medicine ....
+
+- propagation of mental illness
+  - from parents to child (it's really a situation where there is
+    diminished propagation of information to build traits needed for
+    early/adolescent developmental ish.)
+    - so, not actually propagation of the illness, but if it happens,
+      it can result from constrained variety of experience or reduced
+      permeability b/w parent/child
+      - so, it's transmission of habits, etc.
