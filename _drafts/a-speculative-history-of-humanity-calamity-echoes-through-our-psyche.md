@@ -25,6 +25,7 @@ historical facts.  It's titled "A Speculative History" for a reason.
 I hope to provide a good story and possibly spark your interest. If I
 do, follow up with some research yourself.
 
+
 # [Pre-Historic Written Language](#prehistoric-written-language)
 
 ### [Calamity Echoes Through Human Psyche](#calamity-echos-through-human-psyche)

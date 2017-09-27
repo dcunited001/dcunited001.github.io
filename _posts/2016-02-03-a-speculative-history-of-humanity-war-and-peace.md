@@ -61,7 +61,7 @@ collective unconsciousness.
 
 #### [Proto-Language was Ephemeral and Chaotic](#proto-language-was-ephemeral-and-chaotic)
 
-#### [The Collective Unconscious is Countably Infinite](#the-collective-unconscious-is-countably-infinite)
+#### [The Collective Consciousness is Countably Infinite](#the-collective-consciousness-is-countably-infinite)
 
 <a name="war-and-peace" />
 
@@ -348,9 +348,9 @@ think there is an interesting connection between how we learned to use
 primitive vocal forms of communication and modern digital forms of
 expression.
 
-<a name="the-collective-unconscious-is-countably-infinite" />
+<a name="the-collective-consciousness-is-countably-infinite" />
 
-### \\( \aleph_\infty \\) [The Collective Unconscious is Countably Infinite](#the-collective-unconscious-is-countably-infinite)
+### \\( \aleph_\infty \\) [The Collective Consciousness is Countably Infinite](#the-collective-consciousness-is-countably-infinite)
 
 This notion of shared experience is crucial to understanding cultural
 development.  The composition of each of our universally shared
@@ -359,25 +359,31 @@ infinite yet spectrally resonant range of reactions to them.
 
 > Birth. Death. Sickness. Love. Fear. Friendship. Water. Light. Food.
 
-These ideas experienced by all with near certainty: they are
-combinated with higher level ideas and form a universal loom on which
-the web of individual psyche is weaved.  These are so universal that
-one can even say that fucking space aliens - they will experience many
-of these same phenomena.
+These are cultural universals and are the most expansively shared
+facets of the collective consciousness. These ideas are experienced by
+all with near certainty: they are combinated with higher level ideas
+and form a universal loom on which the web of individual psyche is
+weaved.  These are so universal that one can even say that fucking
+space aliens - they will experience many of these same phenomena.
 
-The idea of collective unconscious pops up time and time again to
-answer tough questions, though almost always circumstantially instead
-of conclusively. Kinda frustrating. Really need hard evidence.
+In contrast, the idea of collective unconsciousness pops up time and
+time again to answer tough questions, though almost always
+circumstantially instead of conclusively. Kinda frustrating. Really
+need hard evidence.
 
-In this case, IMO, its moreso the collective unconscious and less so
-the presence of a universal language root that caused morphological
-archetypes to emerge across the globe.  It's these morphemes (read:
-word roots) that are shared across so many languages that suggest the
-presence of the Proto-Indo-European language.  Likely, it's a
-combination of the sporatic emergence of these near universal
-morphemes from the convergence of the collective unconscious
-with the viral nature of knowledge that caused these morphemes to
-coalesce at the root of Indo-European language family.
+Its moreso the collective unconscious and less so the presence of a
+universal language root that caused similar morphological archetypes
+to emerge across the globe. It's these morphemes (read: word roots)
+that are shared across so many languages that suggest the presence of
+the Proto-Indo-European language.  Likely, it's a combination of the
+sporatic emergence of these near universal morphemes from the
+convergence of the collective unconsciousness with the viral nature of
+knowledge that caused these morphemes to coalesce at the root of
+Indo-European language family. The morphemes for cultural universals
+that felt most intuitive in an unconscious way could cross linguistic
+boundaries. They enjoyed powerful evolutionary advantages and may have
+strengthened the presence of something that seems like a single
+cultural, linguistic root.
 
 ### Part Two: Calamity Echoes Through Human Psyche
 
