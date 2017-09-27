@@ -17,26 +17,23 @@ So, again, the unknown facet represents what the other facets fail to
 encompass, as well as the mystery, which is unknowable.  The first
 lines of the Tao Te Ching summarize it best.
 
+#### &#x0CB2; [The Modular Mind](#the-modular-mind)
 
+#### &#x0CB2; [Engineering Culture](#engineering-culture)
 
-### &#x0CB2; [The Modular Mind](#the-modular-mind)
+#### &#x0CB2; [Embracing Diversity](#embracing-diversity)
 
-### &#x0CB2; [Engineering Culture](#engineering-culture)
+#### &#x0CB2; [Humanity as the Sum of our Capacity for Thought](#humanity-as-the-sum-of-our-capacity-for-thought)
 
-### &#x0CB2; [Embracing Diversity](#embracing-diversity)
+#### &#x0CB2; [Diversity of Experience](#diversity-of-experience)
 
-### &#x0CB2; [Humanity as the Sum of our Capacity for Thought](#humanity-as-the-sum-of-our-capacity-for-thought)
+#### &#x0CB2; [What Bonsai Teaches Us About Life](#what-bonzai-teaches-us-about-life)
 
-### &#x0CB2; [Diversity of Experience](#diversity-of-experience)
+#### &#x0CB2; [Independence == Ownership](#independence-equals-ownership)
 
-### &#x0CB2; [What Bonsai Teaches Us About Life](#what-bonzai-teaches-us-about-life)
+#### &#x0CB2; [Could Anyone Spare a Donut for my Coccyx?](#could-anyone-spare-a-donut-for-my-coccyx)
 
-### &#x0CB2; [Independence == Ownership](#independence-equals-ownership)
-
-### &#x0CB2; [Could Anyone Spare a Donut for my Coccyx?](#could-anyone-spare-a-donut-for-my-coccyx)
-
-### &#x0CB2; [All In All, That's Life!](#all-in-all-thats-life)
-
+#### &#x0CB2; [All In All, That's Life!](#all-in-all-thats-life)
 
 <a name="the-modular-mind" />
 
