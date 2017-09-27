@@ -23,3 +23,10 @@ permalink: /quotes/
 > predicted.
 
 > Every man is born as many men and dies not, but becomes every man.
+
+> I am powerless. All i have is thought. All i have is knowledge. All
+> I have is the will that drives me to never let my pain be forever
+> meaningless.
+
+> The greats who came before us, though we may seem greater, were
+> truly the greatest.
