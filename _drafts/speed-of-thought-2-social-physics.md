@@ -8,6 +8,30 @@ author:
 excerpt: ""
 ---
 
+- i am powerless. all i have is thought. all i have is knowledge. all
+  i have is the will that drives me to never let my pain be forever
+  meaningless.
+
+- application of art to these philosophical ideas:
+  - social physics
+    - sociophysical circuits (and superimposition of topologies)
+    - holon/holonome & information as particle, w/ wave/particle
+      duality
+    - entanglement of iotas/datums (& collapse of kantian categories)
+  - spectral decoherence of information/semiotics
+    - the intersection of this idea with kantian categories
+      - i.e. if the variety/quantity of information expands
+        exponentially, while any two individuals' history of
+        information consumption simultaneously diverges
+        - the set of information
+
+      - but this trend creates ... ?
+  - evolution from
+  - misc:
+    - "ante-modernism"
+    - "social-neuro-linguistic" consensus of abstraction in context
+      with evolution of
+
 - [the encyclopedia of human thermodynamics - HMOL](http://www.eoht.info/)
   - pretty much the most comprehensive source on social physics and
     everything related it it. it's really comprehensive. it's also one
@@ -16,12 +40,149 @@ excerpt: ""
     physically/virtually connected social networks
     - site other papers?
 
+- ~transvaluation of all (cognition or cognitive faculties or skills)~
+  and of all information
+
+- simplifying conceptualization of social physics by observing voice
+  communication in video games.
+  - in overwatch & other FPS you can't hear the other team signaling,
+    but if they leverage that, they can anticipate your movements in a
+    way that doesn't expose information to you
+
+- in this section, use stadium metaphors
+  - people behave differently in the shaded sections than in the
+    hotter sections. this is the transduction of physical forms of
+    energy to social forms of energy.
+  - literally the wave. a GIF of the wave in a stadium.
+  - TODO: add notes from phone
+
+- add photos of new gender/sexuality spectrums to first part
+  - this is an example of spectral decoherence and hurts the LGBTQ
+    communities because it impairs the brandability of all sexual
+    identities
+
+- the western conceptualization of the mind is utterly flawed and the
+  materialistic understanding is making americans sick on a massive
+  scale, where the easy, cheap treatment for insurance to cover is
+  medication. (pull this into a separate article?)
+  - the problem is, the chemical imbalance theory in somehwere b/w
+    20-80% of cases of moderate mental illness causes psychiatrists in
+    particular to treat a totally fallacious cause
+    - because the actual root cause is not treated (*the information
+      attributed to the patient that is distributed among people in
+      their social network*), it's like treating cancer with placebo
+      sugar. medication in many cases does nothing, if not exacerbates
+      mental illness.
+      - this statement will be received controversially, but
+        information has a life of its own in sociophysical
+        networks.
+        - it is difficult/impossible to quanity/assess the
+          information, but therapy can help encourage dialogue
+        - also, it's not healthy for people to assume the problem lies
+          elsewhere... individuals have no control over what other
+          people are thinking.
+        - however, information injected into sociophysical networks
+          literally has a life of its own and once its diffused into
+          people's minds, it is almost certainly there forever or
+          until each social connection decides to overlook it, (which
+          often requires communiction and demonstration of changed
+          habits, etc => to each individual the information has
+          diffused into)
+        - by "information has a life of it's own" i mean these are
+          !@#$'ing probabilistic programs that self-replicate
+          information
+          - usually sophys networks/dynamics are intractibly complex
+            that information overload causes most of your social
+            connections to be so innundated with details relevant to
+            their own life, that they don't necessarily frame their
+            interactions based on problematic information attributed
+            to your identity.
+          - the best way to address these situations is through
+            communication. however, similar to how tweet storms ravage
+            the social media landscape with self-replicating
+            information, so do sophys. information programs
+          - this goes right back to the article that i wrote about
+            chaotic programming, which is a paradigm that describes
+            genetics, human cognition and the dynamics of information
+            in social networks.
+      - if the medical establishment ever gave me the time of day,
+        they would ridicule my arguments here. but this conception of
+        sociphysical vectors for mental illess is irrefutable
+        - *the chemical imbalance theory will be _destroyed_ by
+          computational medicene by 2030* and at that time, the tables
+          will be turned and the truth will be set free: the chemical
+          imbalance theory is only a primary factor in a minority of
+          mental illness.
+        - once people realize what they've paying out their ass for a
+          sham and sedating themselves with (occasionally) useless
+          psychatric medication, they will be furious
+    - ok, given some assumptions that, by 2030:
+      - for approx 20% of patients w/ mild-to-moderate mental illness,
+        comp. medicine will *CONCLUSIVELY, IRREFUTABLY* prove that any
+        amount of medication was inappropriate for these patients (the
+        assumption is that certainly, any meds were wrong, & therefore
+        unnecessarily altered epigenetic expression in the brains of
+        patients, therefore *giving* them mild chemical imbalances)
+      - and assume that, for another 20-60% of other patients w/
+        mild-to-moderate mental illness, medicine ....
+      -
+
+- propagation of mental illness
+  - from parents to child (it's really a situation where there is
+    diminished propagation of information to build traits needed for
+    early/adolescent developmental ish.)
+    - so, not actually propagation of the illness, but if it happens,
+      it can result from constrained variety of experience or reduced
+      permeability b/w parent/child
+      - so, it's transmission of habits, etc.
+    - 
+
+
+#### Information Consensus/Permanence (Matthew 5:18)
+
+- if sociophysical systems are probabilistic and, thus,
+  non-deterministic, can the perpetuation of information (written or
+  otherwise) be guarenteed?
+  - what level of information is required?
+
 #### [Radiohead - Lift](https://www.youtube.com/watch?v=QBGaO89cBMI)
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/QBGaO89cBMI" frameborder="0" allowfullscreen></iframe>
 
 - there are some things ancient people understood more clearly than we
   do today.
+
+
+### Kantian Categories And Information Diffusion
+
+- explain kantian categories using analogy of a magician's show
+
+#### Watching Someone Watch TV
+
+-
+
+#### Betting/Bookies Example
+
+- five people place bets on two separate sporting events
+  - for the first event, all five people meet a single bookie, where
+    they discuss how to handle changes to their bets based on the
+    result of the first event.
+  - they agree to change their bets on the second event based on the
+    results of the first event.
+    - the goal is to spread the losses and winnings among the
+      individuals.
+    - for the 2nd event, each person has their own bookie, but they
+      have already discussed all the possible scenarios in the (game
+      tree) that describes the possible moves that can be made.
+  - the objective however, is not to win money, but to spread the
+    losses and winnings optimally *without communicating* until the
+    five gamblers settle their debts after the 2nd game.
+
+- this is a scenario where information is ....
+  - lambda calculus, prestructuring composition of categories
+  - the lambda-calc-like structure must cover all the possible
+    variations that the (kantian category representing the could
+    collapse into
 
 ### [Marathon and Thermopylae](#marathon-and-thermopylae)
 
@@ -109,6 +270,14 @@ and 3rd degree networks, which conferred major advantages. Those with
 wealth could finance transport and delegate action, which further
 helped expand those networks.
 
+### North Korea as today's minimum of connectivity
+
+### America and Europe as a connectivity maximum today
+
+- what kind of advantage does permeability and connectivity give us?
+  why can this also be a vulnerability?
+  - what are advantages/vulnerabilities of diversity?
+
 # (Social Physics Overview)
 
 Sociophysical systems are usually too complex to yield truly
@@ -128,7 +297,7 @@ mind blowing, but the bad news is) that almost every problem is
 incomputable. Incredibly useful insights can be extrapolated from a
 philosophic exploration of social physics.
 
-
+###
 
 Social physics was originally developed in the 19th century (links?)
 to explain how the behavior of players in simplified games were
@@ -199,6 +368,9 @@ informational components and dynamics emerging from information. (This
 also stands out from simple probabilistic models for social behavior
 with its focus on the spatial components and particle interactions.)
 
+- TODO: decide whether to move up the section on sociophysical metrics
+  - and decide whether to move up the physics metaphors (its too long)
+
 <a name="postulates-of-sociophysical-systems" />
 
 # [Postulates of Sociophysical Systems](#postulates-of-sociophysical-systems)
@@ -213,7 +385,6 @@ danger of dangers.
 - include a description of fields, the structure of which influences
   the flow of energy
   - fields can have physical or (virtual) topological spaces
-  - 
 
 <a name="types-of-sociophysical-energy-have-both-linear-and-non-linear-mechanics" />
 
@@ -286,7 +457,7 @@ informational or schematic change, and behavioral change.
 ### (4) Perceived Beliefs feedback into social power (...)
 
 In this way, belief and perception can almost independently create
-energy.
+types of energy.
 
 ### (5) [Agents Have Varying Degrees Of Autonomy, Individual Definitions Of Energy Types and Share Traits, Such As Concurrency, Bandwidth and Physicality]()
 
@@ -311,6 +482,16 @@ these systems and the range of possibilities, the resulting dynamics
 and mechanics are neither purely physical or purely logical. Only by
 reasoning about the systems, logically and with (increasing)
 structure, can we reach (a maximum of phenomenological flexibility)
+
+- "social circuitry"
+  - metaphors for social influence as electrical networks where all
+    components are connected. disrupting any power flow disrupts all
+    power flows.
+  - quote nietszche on power/influence flow in "twilight of the gods"
+  - one way & two way directions of comm. protocols (diodes)
+
+- many networks superimposed onto other, more primary, phsyical and
+  aphysical networks
 
 - computer chips are then the physical (manisfestations) of metaphysical primatives
   - they are logic made manifest, capable of virtualizing physical systems.
@@ -370,8 +551,7 @@ Sociophysical systems are (very similar).
 
 ### (10) Evolutionary Dynamics of Social Physics (Build on) Programs in Chaos
 
--
-
+- (rewrite this section, since i can reference the article on chaos)
 - briefly(!) what is probabilistic programming (is it chaos computing
   or programming with chaotic systems)
   - it's like a means of modeling/studying chaotic systems where the
@@ -404,14 +584,13 @@ Sociophysical systems are (very similar).
 
 ### (11) [Disruption of Connections & Interactions Alters Flow Of Energy & Power, Physically, Logically and Virtually](#disruption-of-connections-and-interactions-alters-flow-of-energy-and-power-physically-logically-and-virtually)
 
-- 
 
 ### (12) Social, Financial and other flows indicate frequency and value of connections and interactions (Interest & Intent)
 
 - laplacian of these flows and their aggregates, geographically &
   logically, indicate intent
 
-### (13) Intent is also Signified by Parallel, Anti-Parallel and Orthogonal Orientations of Motion as it relates to Laplacian of High-Dimensional Surfaces Even When Hidden
+### (13) Intent is also Signified by Parallel, Anti-Parallel and Orthogonal Orientations of Motion as it relates to Laplacian of High-Dimensional Surfaces, Even When Hidden
 
 - this helps indicate intent, even when it was hidden
   - consistency is hard to fake, any duplicity exacerbates this and
@@ -420,8 +599,9 @@ Sociophysical systems are (very similar).
 
 - (Cut in content/ideas from facets: systems theory draft)
 
-### (14) Everything is a Wave
+### (14) Everything is a particle. Everything is a Wave. Even Information
 
+- the particle/wave duality also fits the holonic model of information
   - information in social physics should be modelable as waves,
     communicated among players in social games, idealized as
     particles)
@@ -434,10 +614,9 @@ Sociophysical systems are (very similar).
 
 ### (15) Independence and Connectedness Are Quantifiable
 
+- (title: Connectedness and Social Isolation can be Measured?)
+
 - social isolation/connectedness (in/dependence and vulnerability)
-
-### Connectedness and Social Isolation can be Measured
-
 - this isn't really something considering almost axiomatic, which
   definitely describes the other two...
 - third: social isolation is quantifiable and almost always correlates
@@ -506,6 +685,46 @@ Sociophysical systems are (very similar).
     groups of people can become silenced or disenfranchised without
     even knowing it.
 
+### (16?) information in particle form complicated versions of entanglement
+
+- if information can be conceived as packets or particles, then when
+  does the information take on particular forms
+  - combining datums modeled by holons with lambda calculus
+  - the physical manisfestation of the information is not meaningful
+    until it develops a corresponding physical manisfestation in an
+    information-processing agent.
+    - therefore: metaphysical entanglement
+    - this kind of entanglement can "reach back through time" in a
+      way. information representations can effect each other through
+      time and space, without direct physical connections.
+      - this is because some information processing entities are
+        autonomous.
+
+### (17?) Superposition of social circuitry?
+
+- this concept is really an extension of the idea of superposition of
+  particle states to information networks which are composed of
+  information represented by particles which behave in ways analogous
+  to quantum particles.
+- does the idea of superposition of networks warrant its own section?
+  - this idea of the superposition of various networks is distinct
+    from systems where there is one clear network structure
+- this is literally the superposition principle applied to virtual
+  network topology (... is it?)
+  - the dynamics of superimposed virtual networks are dependent on the
+    structure of all the "summed" networks.
+    - here the "state" being summed over is all the possibilities of
+      network topology...
+- these ideas need some work, but what this means is changes to flow
+  in one network
+  - e.g. you superimpose a million circuit diagrams on top of each
+    other. the behavior of the system then emerges not from one
+    circuit diagram, but from all of them. therefore, changes to
+    individual circuits do not affect the behavior of a superimposed
+    system quite as much as they would affect an isolated system.
+- this seems very similar to ideas from quantum computing circuit
+  diagrams.
+
 # (Physics Analogies for Social Systems)
 
 The speed of information is just one quantifiable social metric whose
@@ -540,9 +759,7 @@ defined in infinitely many ways.
   - informational movement from east to west
     - increasing "temperature"
 
-
 ### Speed of Information Transfer
-
 
 
 
@@ -744,7 +961,15 @@ prevalence of...?
 
 # Critical Metrics for Sociophysical Systems
 
+- connect these to the 7 hermetic principles
+
+### General/Specific Speed of Information Transfer
+
 - the speed at which any piece of information could travel
+
+### Probabilities & Rates of Datum/Meme Expression
+
+### Rates & Status of Convergence
 
 - the definition of information convergence across a network
   - that is, at what percentage of people in a network would you
@@ -760,6 +985,9 @@ prevalence of...?
   converge across a network.
 
 - (better word than convergence?)
+  - consensus?
+
+### Information Permanence
 
 - the degree of repition or replication that's required for
   information to achieve permanence, with various levels of technology.
@@ -767,14 +995,8 @@ prevalence of...?
     achieve convergence through replication.
   - after the printing press, ...
 
-- the quantity, qualities and dynamics of information flux networks.
-  - do nodes exchange information at regular times? with what degree
-    of certainty?
-  - which nodes exchange information? how often? how much?
-    - are any of these things predictable?
-      - you'll find that, the more physically bound a social system
-        is, the more confidant you can be in predicting/anticipating
-        these things.
+
+### Informational Entropy
 
 - shannon entropy (i.e. informational entropy) related to the
   more abstract structure of information
@@ -786,11 +1008,27 @@ prevalence of...?
   - this measure of entropy is important for understanding how to
     distract and disguise.
 
+### Sociophysical and Dirichlet Energy
+
 - measures of energy for information transfer/convergence
   - literal physical energy required to transfer information
   - dirichlet energy (?)
     - this is a generic measure of energy. what are some specific
       examples of applying this idea to sociophysical systems?
+
+
+### Information Network Flux Dynamics
+
+- the quantity, qualities and dynamics of information flux networks.
+  - do nodes exchange information at regular times? with what degree
+    of certainty?
+  - which nodes exchange information? how often? how much?
+    - are any of these things predictable?
+      - you'll find that, the more physically bound a social system
+        is, the more confidant you can be in predicting/anticipating
+        these things.
+
+### Information Network Structure & Superimposition
 
 - measuring/analyzing the graphs/networks in sociophysical systems
   - (are there better terms for these ideas? it'd be better to find
@@ -816,6 +1054,9 @@ prevalence of...?
           graph because it's not efficiently connected)
         - AFAIK, the human brain functions as an expander graph with
           some other regular structure
+
+### Permeability and Diffusion
+
   - analyzing the sociophysical dynamics of information diffusion
     - are some areas more porous?
       - more likely to retransmit information?
@@ -823,9 +1064,13 @@ prevalence of...?
     - how do differences in language affect the transmission of
       information?
 
+### Generic Concepts of Regularity in the System
+
 - measuring the regularity of phenomena in the system
 
 - measuring the different kinds of flux in a system
+
+### Agents, Vessels and Vectors for Information Dispersion
 
 - vessels for containing information
   - (these aren't metrics, but there are important metrics related to
@@ -847,6 +1092,6 @@ prevalence of...?
         important when trying to decide if the information can
         physically escape.
 
-### Zero in Social Physics
+# Zero in Social Physics
 
 - what does it mean to have zero for some of these metrics?

@@ -1,11 +1,12 @@
 ---
 title: "The Speed of Thought: Illusion of Separation"
 categories: "blog"
-tags: ""
+tags: "social-physics"
 headline: ""
 author:
   name: "David Conner"
-excerpt: ""
+excerpt: "
+Sociophysical systems exhibit a wide array of behavior that can be modeled with physics metaphors. From atop a ziggurat in Sumeria or Mesoamerica, some of the basic sociophysical mechanics emerge visibly as patterns of interaction in crowds. The movement of people in a mall have a temperature, as they do at wider geographic scales. Density and temperature correlate with interest and intent. Moreover, the temperature and density of the group yields more connections and a faster rate of information diffusion."
 ---
 
 ## First, a Riddle:

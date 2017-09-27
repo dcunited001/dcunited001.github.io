@@ -464,6 +464,9 @@ harrapan technology:
       - (2) as well as the estimated direction towards the center
       - then with these two ideas these precivilizations could push
         emmisaries towards the center of the world
+          - by moving with the gradient of average physical
+            temperature -- without needing to know the spherical shape
+            of the world -- which would naturally happen anyways
         - first, to establish communication networks with the rest of
           the world
         - second to accelerate the development of technology and
@@ -474,10 +477,10 @@ harrapan technology:
           understanding of these ideas
           - they could do so with anticipation that others would be
             there to meet them in the center!
-          - again, WITH NO COMMUNICATION.  based solely on metaphysics
-            and wisdom.
+          - again, WITH NO COMMUNICATION.  it's purly
+            unconscious. based solely on metaphysics and wisdom.
   - so i believe this was the plan, spontaneously developed across the
-    world after the pain of the cataclysm
+    world after the pain of the cataclysm(s)
     - after people had experienced the sum of antiquity
       - and the aggregate developments of their ancestry just simply
         vanish into nothingness
@@ -490,7 +493,8 @@ harrapan technology:
       happened again
       - while simultaneously understanding the problem of exponential
         growth and overpopulation
-      - overpopulation and the cataclysm are two primative arche
+      - overpopulation (experienced as hunger & natural resource
+        constraints) and the cataclysm are two primative archetypes
         - from the dawn of humanity at the end of the ice age
         - these factor into our actions at a collective unconscious
           level
@@ -539,15 +543,15 @@ harrapan technology:
         total of fourteen
       - the language elegantly handles digraphs/trigraphs and
         universally captures all of those sounds
-    - i believe that the original harappan language vanished because
-      of this
-      - and this is mostly my prime basis for all these beliefs, which
-        are mostly extensions of this
+    - i believe that the original harappan language may have vanished
+      because of this
+      - (and this is mostly my prime basis for all these beliefs, which
+        are mostly extensions of this)
     - the harappans studied language more than anything else and
       developed this perfect universal language
       - captured in sanskrit. which could be used to capture and study
         other languages
-      - to facilitate the development of the perfect language
+      - to facilitate the development of an omniphonetic language
   - however, out of the study of language in this civilization,
     - i believe another thing happened that would be missed by most
     - and this is that the particular advantages/disadvantages and the

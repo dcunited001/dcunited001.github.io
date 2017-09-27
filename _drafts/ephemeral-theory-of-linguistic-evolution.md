@@ -222,6 +222,7 @@ would even dictate the functional
         - it is far more likely that people experimented and randomly
           or unconsciously reinforced the linguistic changes that
           became permanent
+
   - to study this in modern contexts:
     - is this even possible to model
       with data from social media? the data really needs to be
@@ -230,6 +231,9 @@ would even dictate the functional
         connected, that change happens everywhere all the time.
       - also, textual idiosyncracies vary widely, so it's hard to
         capture morphemic data.
+
+- explore ideas of [Spoonerisms](https://en.wikipedia.org/wiki/Spoonerism) and [Metathesis](https://en.wikipedia.org/wiki/Metathesis_(linguistics))
+  - and [nonce words](https://en.wikipedia.org/wiki/Nonce_word)?
 
 - what does the difference b/w zipf's distribution for english words &
   japanese loan words from english tell us?
@@ -549,6 +553,26 @@ these specific aspects are desirable:
 - this idea of a socialized abstraction (w/ consensus) is distinct in
   quality from the other kinds of cognitive abstraction that arise in
   animals.
+
+### 3 forms of "pre-language"
+
+- body language
+- language of action
+  - implicit assumptions based on a/social actions of animals
+- unconscious language
+  - implicit information projected from environmental stimuli to
+    animals through life experience
+    - (lol => cultural universals for higher social mammals, e.g.)
+
+- how are new cultural universals born?
+  - for humans? for animals evolving the basis required for
+    (socio-neuro-linguistic) (genesis, asymptotic convergence)
+  - is this like a singularity in evolutionary development?
+    - the metaphor of the technocultural singularity stems from
+
+
+
+
 
 ### Three Hard Problems That Language Forces Brain To Neurologically Solve
 
