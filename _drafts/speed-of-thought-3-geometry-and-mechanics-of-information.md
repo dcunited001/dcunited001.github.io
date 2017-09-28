@@ -95,6 +95,8 @@ excerpt: ""
     variations that the (kantian category representing the could
     collapse into
 
+### 
+
 Hip Hop is a modern example of how the dissemination of information
 changed the lives of millions of people living in mostly African
 American and Hispanic ghettos in urban America. In particular, it is
@@ -191,6 +193,8 @@ have runaway feedback loops that have a runaway affect that *DIVIDES
 AMERICA*.  These algorithms are difficult to design, tweak and
 validate in the first place, but there are major problems here, as far
 as I can see.
+
+
 
 
 # "Traits" of information
@@ -307,7 +311,6 @@ copied at the click of a button and distributed anywhere.
     - so we can generate more of it, it will always remain them
       same, we can access it from anywhere, etc.
 
-
 #
 
 - information economics and sociophysical aspects of information
@@ -318,6 +321,30 @@ copied at the click of a button and distributed anywhere.
 
 - information mutates and self-replicates. it's easy to create,
   sometimes impossible to destroy.
+
+### Programs in Chaos have Update Mechanisms and Source Control
+
+### Informational Morphology
+
+- information mutates, but more importantly, there are morphological
+  operators that can be imagined that operate on information,
+  structured using graph theory and category theory.
+  - these can be applied to memes, holons, datums and iotas, but it's
+    a bit tricky to model these. philosophers have been arguing about
+    it for the entirety of history.
+    - of course, we all see what we want to see, which is what we show
+      and teach others. some philosophers developed conceptions of
+      metaphysics which lent themselves to establishing paradigms of
+      thought, trapping the common person within false
+    
+    - served rulers or materialist interests.
+    - how could they know?
+    
+  - for binary and grayscale data, erosion, dilation, opening and
+    closing operations
+
+  , morpological operators can be
+  
 
 # The Economics of Content Production/Consumption Lead to Market Saturation
 

@@ -49,6 +49,15 @@ title: "The Monadic Model of Metaphysics & Meditative States of Mind"
 
 ### With more skill, can one maintain meditative states of mind with more sensory input?
 
+- apparently zazen meditation should be performed with the eyes
+  half-open.
+  - i think if you train yourself to do this with zazen, then the
+    meditative experiences might lead to more "non-visual" meditative
+    experiences, whereas visual experiences references the fleeting
+    visual and other imagery that i've experienced with meditation
+    once i seem to actually get going.
+    - 
+
 - non-conceptual awareness or diminished conceptual designation means
   that you might hear a sound, but you focus does not drift towards
   attending to it. your mind does not try to label things in any way,

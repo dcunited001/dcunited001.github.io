@@ -8,6 +8,15 @@ author:
 excerpt: ""
 ---
 
+i have a unique understanding of philosophy, but most of the stuff i
+think might be novel turns out to be naïveté and partially original if
+i'm lucky. my own path of understanding has been slow and grueling,
+since i pieced together my own understanding, always with the
+intention to transvaluate it to the academic model, resulting in depth
+via novelty & originality
+
+- [Calculating the configurational entropy of a landscape mosaic](https://www.fs.fed.us/rm/pubs_journals/2016/rmrs_2016_cushman_s001.pdf)
+
 - [the encyclopedia of human thermodynamics - HMOL](http://www.eoht.info/)
   - pretty much the most comprehensive source on social physics and
     everything related it it. it's also one of the only sites i know
