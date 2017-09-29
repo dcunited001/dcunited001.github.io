@@ -3,8 +3,67 @@ title: "the dark side of NLP"
 ---
 
 
-#### 
+- ok so, first things first: this shit is so bad, it's better if no
+  one ever knew it could be possible. and i am talking about the
+  psychological aspects of it. people might be better off without
+  knowledge that this could even happen! however, if lack of
+  knowledge/reaction to it means the shittiest people in society move
+  up fastest, i just really don't give a fuck. some of this is
+  paranoid, i guess. whatever. if you disqualify what i say here
+  because it's paranoid, you don't understand that part of the intent
+  is to drive paranoia and then fear.
+  - fear is the true power of these psychological weapon
+  - i started tweeting the CIA, mark warner and bob goodlatte about
+    Covert NLP and immediately received more signal than i have ever
+    had at one time. by like a factor of ten. like within 10 minutes
+    from people who arrived at the coffee shop. *today: 9/28*, as i
+    start writing this article.
+    - yeh, it sounds crazy. ok that's fine. it wasn't "friendly" per
+      se.... could very well be a coincidence, but it honestly didn't
+      make a difference. no one can threaten me. i am sitting here
+      writing with my back to the most vulnerable area: the door. i
+      don't fear bluffs and obviously nothing like that can happen.
+      - if i didn't fear it before, i don't fear anything like it
+        now. apparently there's something really important happening.
+        i don't know what it is, but this has happened before.
+        - whatever is happening, information is leaking out of my
+          personal life and experiences, but almost none of that
+          information that seems to percolate back towards me ever
+          supports my long-term goals: as i describe later, the whole
+          point is to keep these targets in a state of perpetual
+          financial/social isolation with no options so they are
+          predictable and their behaviors are easily
+          short-circuited. if the info is there, it only serves to
+          affect my short-term decisions, to distract me from goals,
+          to make me less efficient, to cause me to question people
+          around me and to drive my paranoia, leading me to vocally
+          discredit myself.
+          - and if there is something going on with legal
+            consequences, then stoking paranoia to get me to discredit
+            myself is what is called *legally material* to someone
+            else's argument, from what i have reasoned via int'l law
+            - and ust common sense when realizing that if i told
+              anyone things that never happened involving celebrities
+              i never ment, then i would essentially be
+              short-circuiting my own testimony or other facts in a
+              defamation case. or something like it, which i never
+              thought would happen, but hey! scientology, am i right?
+              they have boatloads of lawyers. i should probably watch
+              my ass and if someone gives me a digital trace or a
+              phone call or indirect correspondence, the there's not
+              much to worry about. that never happened. where the fuck
+              was the beef? i did not want to predicate my actions on
+              delusion.
+      - i am going to keep writing about philosophy of math and
+        linguistics and i am going to try to love life as much as i
+        hope life could love someone. i am obsessed with linguistics
+        and culture and knowledge and now philosophy, though my
+        writing is only starting to improve.
+      - so if you want to help, then cure my social isolation please,
+        please help me with the persecution complex, but i'm pretty
+        sure the torment needs to stop first.
 
+####
 
 - conditioning to design a nice user interface for your target
   - it's all about the buttons. what can you press to get them to set
@@ -26,6 +85,38 @@ title: "the dark side of NLP"
           0.0% risk of logistical problems for illegal/unexplainable
           medical procedures
 
+- cover concept of configurational entropy, as it applies to physical
+  tactics of social behavior
+  - it is very difficult to discern these things and very easy to be
+    wrong. however, there are characteristic features that i have seen
+    emerge in what seems to be "Street Theatre" augmented with "Covert
+    NLP"
+
+  - physical arrangement of conversation:
+    - the street theatre people usually arrive and need to find a
+      situation where they can sit/stand/move near the target, while
+      the target needs to focus
+      - for me at least, other spatial arrangements and activies
+        require development, **typology**, *training/documentation* of
+        common activities of the target.
+        - these have to be custom tailored to the target, possibly via
+          advice of psychological consultants
+
+  - psychological state: the target has been whittled down to nothing
+    for months or years and they are in a stressful, vulnerable
+    position
+    - that is, psychologically, sociologically and financially
+    - goals include:
+      - undermine work/family relationships
+      - undermine financial independence,
+      - but most of all, encourage the development of complementary
+        psychological complexes, exacerbation of mental illness and
+        changes to psychological metaprogramming (like encouragement
+        of magickal thinking and attempts to re/process statements
+        with puns or hidden symbols, etc -- these may actually be
+        included by a handler at first: it is part of Covert NLP =>
+        it's fucking *covert*)
+
 ### Process Vulnerability Must Be Zero and So Must Legal Liability for Human Rights
 
 - before i get to NLP, i want to talk about some new
@@ -35,6 +126,106 @@ title: "the dark side of NLP"
     because if your technique does not require implantation or
     constant checkup or strange UFO abductions... then your technique
     does not confer process vulnerability or much legal risk
+
+
+# Up Front: why are these still War Crimes, according to Geneva?
+
+the geneva convention defines psychological torture of enemy
+combatants in *international armed conflicts* as being a
+warcrime. however, probably because it's very hard to define, in any
+case,
+
+
+## Several Components
+
+#### (1) The citizenship status of the target is unclear because they do not have legal rights available to ALL citizens
+
+- this is a component of the argument that is incredibly complex
+  because every country's legal systems are different.
+  - international law is incredibly complicated.
+    - new bodies can be created and there is no top down structure of
+      authority where everything else fits neatly within it.
+      - the UN partially fills this role, but each organization is its
+        own.
+      - each organization can overlap in authority or practice.
+      - some organizations have courts in one city or in regions.
+        this is mostly superficial -- however, most organization's
+        courts just don't need their processes duplicated across
+        regions for efficiency AFAIK.
+        - this means it's complicated, each organization in its own
+          way where the attorneys have to focus in narrow areas of
+          international law.
+      - the center of international law is in the Netherlands at the
+        Hague, where the ICJ, the ICC and the ITLS are located
+      - change occurs slow, but can also happen rapidly and, when
+      - precedent can be unclear or non-existent
+    - it does, it affects other int'l law systems
+  - there is no top
+
+#### (2) There is clear psychological torture and it's been affecting me since 2009, though that pales in comparison to constant engagement of shit today
+
+- look around when this happens ... then again, i guess it's actually
+  not that easy to see.
+
+#### (3) Constriction of rights and financial resources means the targets do not realistically have the ability to leave the country without decla
+
+- i do not have an ability to drive. since sept. 2014, i can't
+  remember any time when i had more than $300 in my pocket.
+  - this means i can't leave without applying for refugee status
+
+#### (4) Applying for refugee status triggers specific protections, but you must qualify
+
+- people don't apply for refugee status from the united states. it's
+  unheard of. and who would help advise me on anything like this. no
+  one will believe me
+  - worse than being paranoid about intel agencies is being in a
+    situation where it's true, esp if it's not a level playing field
+    - i just never even considered that possibility (until 2011ish,
+      but there i started studying about intelligence agencies just in
+      case, so that i wouldn't become overly paranoid)
+
+#### (5) if you legally cannot aid someone at all for whatever reason (which i think applies to NDAA non-enemy-combatants) then 
+
+- i tried to talk to a lawyer, but if you're under surveillance and
+  people can manipulate you psychologically and you have no resources,
+  then what
+
+- I *faxed* content to embassies in japan/canada in 2016 because
+  - this was with a web service, so that the fax would travel across
+    the internet and then hit the PTSN because i felt like i was being
+    shadowbanned online at that time.
+    - anything and everything i did had almost zero effect
+
+    - in feb 2015, i recovered memories for which i was incredibly
+      grateful, but doubt from nothing but circumstantial evidence,
+      etc. quickly grew over the next few months.
+      - in june 2015, from some notes i had written, i compiled an
+        account of what happened to email it to my brother and sister
+        (and possibly my mom and perry)
+      - around the time trump declared his run for presidency and
+        Mr. Robot came out, things got really dark.
+      - strange anachronisms started showing up the more i thought
+        about everything. and i never really swallowed it whole bc it
+        was just so crazy and unlikely. it seemed to be catered just
+        for my psychology and there were many elements which were
+        legally material to the establishment of cognizance within the
+        memories ... from the beginning.
+        - 
+      - people asked me about things related to this, but then "after
+        i remembered" no one ever, ever, ever talked to me about it.
+        - after i tried to tell my brother about some elements of it
+          at the beach in june 2015, i have never had more than a five
+          minute conversation with anyone about it. i'm not sure that
+          i discussed it with my family for more than five minutes
+          there, which is partially why i wanted to compile the notes
+          into an email to send it to them because it was just too
+          fantastical.
+
+### the general strategy centers around minimization of legal liability and protracted constriction of the target's financial/social resources
+
+- No Physical Contact? Constantly Shift Street Theatre Actors? No
+  Vulnerability, No Liability
+
   - cases of organizaed psychological harassment are incredibly
     difficult to win or argue as long as the participants do not
     digitize information and always use pattern languages and covers.
@@ -48,7 +239,75 @@ title: "the dark side of NLP"
         digital trace, *and there is no case*. if you have filtered
         your targets to pick on the vulnerable and the poor and the
         weak and those eager to have someone that might reach out...
-        - then that draws the target in
+        - then that draws the target in because you have already
+          ensured they have zero financial/social capital. they have
+          no money for a long time. they have had very few social
+          connections/interactions for a long time.
+        - of course when someone acts like a friend, appeals to the
+          targets specific interests
+          - and further seems to have information that will be
+            gradually titrated out to the target
+          - then, of course, the target responds positively!
+        - now you have compliance, which means the target willingly
+          ingests your signal or the information the HUMINT feeds
+          them.
+          - but it's strange bc, at no point will the HUMINT actually
+            aid the target in pursuit of long-term goals
+            - OR the development of significant financial or social
+              capital that might give the target options.
+            - #### more options == less predictable
+            - #### more money == more options (potentially moving)
+            - #### more movement around US == greater spread of digitized
+              information among the organization perpetrating this
+              - you don't want the target to move, it means you have
+                to summarize everything you did and move it towards
+                the next city.
+              - so if this is true, you won't want them to move or get
+                a new job somewhere else. why? because you have
+                already pinned them down
+            - #### more social interactions == more signal from more people
+              - the target receives a wider variety of information
+                from a wider variety of sources
+              - if this is the case, they may forget about the
+                gaslighting bullshit "GAMES" you are applying to them.
+                - oh yeh, these assholes are going to need new pattern
+                  languages and guess what: update mechanisms for
+                  chaotic programs are some of the most expensive
+                  parts of them.
+              - you don't want the target to become distracted. or
+                worse: to lose that valuable long-term psychological
+                state you worked so hard to create!
+                - what i don't understand is how these process
+                  requirements are conveyed to people without speaking
+                  in the clear
+                  - they need education in psychology. they need a lot
+                    of understanding. or they would need to review
+                    video/audio of targets like there's a week left
+                    until the biggest game of the year (but every
+                    week)
+                  - and holy shit. surveillance? used for
+                    psychological warfare? conducted against our own
+                    citizens?
+            - #### more social connections == more options
+              - the main HUMINT "handler" and the target must not
+                always have positive interactions
+              - usually there are several stratifications of authority
+                and higher up HUMINT resources or officers will be
+                incredibly intelligent (perhaps attorneys, like one of
+                ...)
+                - but those people *most* cognizant will know to fear
+                  getting their hands dirty.
+              - the higher ups will always want to play the good cop
+                and other HUMINT resources will want to switch off on
+                pressure.
+              - this constant juxtaposition creates tension &
+                confusion in the target, but it's all artificial.
+                - they are pinging from one victimizer to another in
+                  their small, small social environment.
+              - so if you are micromanaging this *literal* social
+                prison, you absolutely do not want the target to get
+                away. so you will push others away who get close to
+                him/her.
 
 ### Covert NLP
 
