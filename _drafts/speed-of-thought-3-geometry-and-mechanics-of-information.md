@@ -311,8 +311,6 @@ copied at the click of a button and distributed anywhere.
     - so we can generate more of it, it will always remain them
       same, we can access it from anywhere, etc.
 
-#
-
 - information economics and sociophysical aspects of information
   - elaborate on information economics (as distinct from economics of
     content...)
@@ -321,6 +319,7 @@ copied at the click of a button and distributed anywhere.
 
 - information mutates and self-replicates. it's easy to create,
   sometimes impossible to destroy.
+  - businesses as chaos
 
 ### Programs in Chaos have Update Mechanisms and Source Control
 
@@ -336,10 +335,8 @@ copied at the click of a button and distributed anywhere.
       and teach others. some philosophers developed conceptions of
       metaphysics which lent themselves to establishing paradigms of
       thought, trapping the common person within false
-    
     - served rulers or materialist interests.
     - how could they know?
-    
   - for binary and grayscale data, erosion, dilation, opening and
     closing operations
 

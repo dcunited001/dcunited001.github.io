@@ -1,6 +1,6 @@
 
 
-## Quantum Language ##
+## Quantum Language
 
 In an earlier article,
 [The Nature of Space, Time and Information Implies Universal Language](http://te.xel.io/posts/2016-04-12-the-nature-of-space-time-and-information-implies-universal-language.html),
@@ -11,7 +11,7 @@ universal language results from several factors, including the
 possibility of one way communication across the universe without the
 need to exchange grammar and semantics or any information to receive,
 transmit and consume. These would instead be implicit and all of it
-would should be extrapolated from symmetry inherent in some root
+would be extrapolated from symmetry inherent in some root
 mathematic concepts.  This would expand to encompass all possible
 concepts that any life form would signify. It is hard to imagine what
 that universal language would look like, but if it sounds interesting,

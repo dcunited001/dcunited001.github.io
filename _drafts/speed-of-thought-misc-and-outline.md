@@ -547,6 +547,7 @@ not needed.
 - the most important: in a post-convergence world, causality itself
   operates in a fundamentally different way, which can be
   anticipated by observing the evolution of various graphs
+  - (causality has never been easy to understand)
 
 - social media, data science, internet of things, etc are part of a
   continuing trend of technology and quantification of human behavior
@@ -572,7 +573,7 @@ not needed.
       - there are finitely many human behaviors that can be quantified
 
 - there is a paradigm shift in the phenomenon of causality, as it
-    applies to human behavior and psychosocial dynamics,
+  applies to human behavior and psychosocial dynamics,
     - causality, in this sense, stems from exchange of information,
       completeness of information, awareness of information,
       dissemination of information, etc.
@@ -583,6 +584,7 @@ not needed.
         understanding of it to construct a (set?) of beliefs/knowledge
         about the world is in a very big way parameterized by the
         paradigm of information exchange/retention/diffusion/etc
+        - 
     - therefore, in an increasingly connected world, there is a major
       shift in how narratives are constructed and propagated.
   - this paradigm shift for causality affects any information
@@ -616,6 +618,8 @@ not needed.
       information/data, ... (there is more data and more events
       tendinging to inflate this phenomenon exponentially
       ("tetrationally"... lulz))
+      - *dilineate causality as it is processed by different types of
+        autonomous agents*
     - for example, making conclusions about the disemination of pieces
       of information (how one piece of information spreads amoungst
       people) may become simply impossible

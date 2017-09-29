@@ -2,7 +2,6 @@
 title: "the dark side of NLP"
 ---
 
-
 - ok so, first things first: this shit is so bad, it's better if no
   one ever knew it could be possible. and i am talking about the
   psychological aspects of it. people might be better off without

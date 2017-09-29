@@ -26,7 +26,7 @@ improvement, especially when they are significantly more proficient at
 what you're trying to learn.
 
 Of course, after about fifteen minutes of backflips and ollies, my
-mind is thrust into philosophic overdrive.  Typical.
+mind is thrust into philosophic overdrive. Typical.
 
 ### Phenomenology - The Study of Me.
 
