@@ -91,11 +91,13 @@ long as we stay on top of understanding how this transition will
 affect humanity and the economy, we'll be OK, barring some
 catastrophic event or conflict.
 
-Why is anticipation of the singularity important? Someone that wants
-to build something in this transitionary world, then it is paramount
-to become aware of how that world will change, in order to anticipate
-how their energy would best be utilized.  At least, to avoid the
-frustration that is ...
+Why is anticipation of the singularity important? For those of us who
+desperately want to build something in this transitionary world, then
+it is paramount to become aware of how that world will change, in
+order to anticipate how their energy would best be utilized.  At
+least, to avoid the frustration that is ...
+
+#### Simpsons Did It
 
 ![Simpsons Did It](/img/posts/2016-05-14-facets-of-greatness-the-unknown-monumental-accidents/simpsons-did-it.jpg)
 
@@ -127,11 +129,11 @@ ideas that we can combinate in order to discover new ones.  And it
 makes us more vulnerable, since we are restricted to that set of
 ideas.
 
-Furthermore, the degree of diversity distinguishes United States from
-every other country on earth.  There are plenty of other cultures with
-plenty of diversity, but none to the extent that the US does.  So,
-while there is some conflict that arises surrounding diversity, with
-my points above, doesn't that actually imply that diversity is a
+Furthermore, the degree of diversity distinguishes the United States
+from every other country on earth.  There are plenty of other cultures
+with plenty of diversity, but none to the extent that the US does.
+So, while there is some conflict that arises surrounding diversity,
+with my points above, doesn't that actually imply that diversity is a
 distinguishing strength of the US? A culture rich with diverse ideas
 and people is resilient against external factors. It is less
 vulnerable to internal or external subversion, for example.
