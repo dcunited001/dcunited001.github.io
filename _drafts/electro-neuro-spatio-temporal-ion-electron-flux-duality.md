@@ -18,15 +18,6 @@ excerpt: ""
   - it defines several tiers of state of information representation:
     immediate, short-term and long-term.
 
-### Immediate State
-
-- immediate state in neural networks is defined by the current state
-  of ion flows
-  - electrons and waves of electrical spikes moving through the brain
-    gradually shape the ion distributions
-  - the current state of ion flows are like the values of matrices in
-    a neural network on tensor flow
-
 > Comparative mass: Proton is 1837 times heavier than an electron
 
 - electrons are (-1) charge, but their mass is almost 2,000 times
@@ -39,6 +30,25 @@ excerpt: ""
     - in this way gating behavior is acheived and modulated.
     - i need to know more about the electrical behavior of ions in
       solution and see simulations of this occuring in neural networks
+
+- in plasmas, this variance of mass and charge is very significant. of
+  course, in an ionic solution, there is nowhere near the amount of
+  thermal energy.
+  - however, i have long imagined the possibility of life or sentience
+    in the plasma of stars. why not? according to my theory that,
+    given sufficient time, awareness and life emerge from the purely
+    mathematic consequences of chaotic systems alone, this almost
+    certainly must be the case for stars somewhere in the universe.
+    - it's a little hard to prove, of course.
+
+### Immediate State
+
+- immediate state in neural networks is defined by the current state
+  of electrical flow enabled by the state of ions in neural networks
+  - electrons and waves of electrical spikes moving through the brain
+    gradually shape the ion distributions
+  - the current state of ion flows are like the values of matrices in
+    a neural network on tensor flow
 
 ### Short Term
 
@@ -63,7 +73,12 @@ excerpt: ""
   - the structure of neural networks is similar to the structure of
     tensors in a TensorFlow program.
 
-#
+### Local Impedance and Reactance in Neural Networks
+
+- [Reactance]()
+- [Characteristic Impedance](https://en.wikipedia.org/wiki/Characteristic_impedance)
+
+# Spatiotemporal Representation of Information
 
 - creek metaphor & 3D FFT
 
@@ -91,13 +106,46 @@ excerpt: ""
   - but more damaging hypnotic techniques trigger turbulence and
     radical displacement of ions, which is the total destruction of
     immediate and short-term state.
+  - done for prolonged periods of time, this disrupts long-term neural
+    development.
 
 - within this view of NLP techniques can cause ionic turbulence that
   disrupts the persistence of spatiotemporally represented forms of
   information in the brain
 
-####
 
-- [Reactance]()
-- [Characteristic Impedance](https://en.wikipedia.org/wiki/Characteristic_impedance)
 
+- blocking the creek upstream or some force splashing all the water
+  out of a section <=> destroying immediate & short-term state
+  - the creek fills back in, but it takes time.
+  - combatting the increased entropy of turbulence requires what?
+    ENERGY. that makes you tired all the time. it saps your energy,
+    causing very intentional physiological effects. It affects you
+    physically.
+    - if you place someone in a tanning bed against their will and
+      they get a sunburn, would that be torture? YES. so if you
+      augment these covert hypnotic techniques with any kind of
+      radiation, that is immediately and unquestionably torture.
+    - if this isn't effective, then why do it? if there isn't
+      potential liability, then why hide it?
+
+
+### *POWER TO THE PEOPLE*
+
+- power comes from people, but there is a dualistic flow here as
+  well. those people towards the top condition the beliefs of
+  pople. however, we do not need to reaffirm "power to the people" to
+  ourselves. power comes from the people. it emerges from the bottom
+  up and (this is directly in line with the social contract theory.)
+  that contract is being violated systematically and, given
+  technology's capacity to dominate, once this technoregime is
+  established, it may never be overturned. we may be forever sealed
+  within a false paradigm.
+  - before that happens, we are going to stand up. right now. from the
+    chair we are sitting in. we are going to scream in unison for our
+    rights. for the right to live in a society that rewards virtue and
+    protects family. but most importantly, we are going to stand up
+    for the sanctity of the idea of a society that protects family and
+    GOD. this idea towers above all else. there is no man with the
+    power to challenge it and if such men did dominate, GOD would
+    certainly reveal Himself.
