@@ -74,6 +74,6 @@ awareness into my mind's now vibration center.
 
 Escaping into enlightenment.
 
-#### I Became Enlightened Inside This "Prison" In 2013, Weeks Before Meeting Tatiana & Perhaps Longer
+#### I Became Enlightened Inside In 2013, Weeks Before Meeting Tatiana & Perhaps Longer
 
 ![Meditation](/img/posts/2017-10-01-ode-to-transcendence/meditation.jpg)
