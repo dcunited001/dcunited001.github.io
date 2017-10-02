@@ -22,8 +22,8 @@ The wellspring of virtue will run dry, causality will become
 incomprehensible, social hierarchies shrivel up & the worst of society
 dominate.
 
-My writings and my amateur nachlass will be eradicated &
-replaced. What's allowed to remain was always intended to be contrived
+My writings and my amateur nachlass will be eradicated & replaced.
+What's allowed to remain was always intended to be contrived
 caricature.
 
 Those committed today in service of a static vision of the future will
@@ -32,7 +32,7 @@ find out tomorrow they’ve obliged themselves to a future past.
 The greats who came before us, though we may seem greater, were truly
 the greatest.
 
-I am powerless. All i have is thought. All i have is knowledge. All I
+I am powerless. All I have is thought. All I have is knowledge. All I
 have is will that drives me to never let my pain be forever
 meaningless.
 
@@ -62,7 +62,7 @@ Against the waters composed of four fluids, the dual gusts of
 scintilla do press, wedge and lathe forms woven around their vessels.
 
 You can discover anything. You can rediscover anything. That's what
-i'm doing. Except i don't know what i'm discovering.
+I'm doing. Except I don't know what I'm discovering.
 
 Find that tear of growing dew that wells on your hearts' pedals.  It
 is one of love and one of sadness, but if it grows so open your heart.
