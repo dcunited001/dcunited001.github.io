@@ -27,6 +27,19 @@ excerpt: ""
   - the current state of ion flows are like the values of matrices in
     a neural network on tensor flow
 
+> Comparative mass: Proton is 1837 times heavier than an electron
+
+- electrons are (-1) charge, but their mass is almost 2,000 times
+  smaller than a single proton. so, they move much faster through
+  neural networks than do the ions.
+  - the ions are gradually displaced by the movement of electrons. as
+    electrical spikes repeatedly progress through neural networks in
+    similar ways, it displaces ions to create new ways for electricty
+    to move through neural networks.
+    - in this way gating behavior is acheived and modulated.
+    - i need to know more about the electrical behavior of ions in
+      solution and see simulations of this occuring in neural networks
+
 ### Short Term
 
 - ion flows morph to trigger logic-gate like behavior. short-term
@@ -50,8 +63,18 @@ excerpt: ""
   - the structure of neural networks is similar to the structure of
     tensors in a TensorFlow program.
 
+#
 
 - creek metaphor & 3D FFT
+
+### Dilineation of Ion Types
+
+- it is the ion types which map to information representation
+  - the electrical spikes are important too, but there isn't as much
+    information related to state and actual information representation
+    there.
+  - however, the electrical spikes have to balance out to the charge
+    of ions displaced.
 - 4 ion types: sodium, calcium, potassium and magnesium
   - two categories of ion size (two small and two large)
   - two categories of ion charge (two +1 ions and two +2 ions)
@@ -62,6 +85,12 @@ excerpt: ""
       - some are specific to charge and some permit all charges
 
 # NLP and Neurological Noise Injection Techniques
+
+- hypnosis techniques encourage the development of particular
+  brainwave patterns.
+  - but more damaging hypnotic techniques trigger turbulence and
+    radical displacement of ions, which is the total destruction of
+    immediate and short-term state.
 
 - within this view of NLP techniques can cause ionic turbulence that
   disrupts the persistence of spatiotemporally represented forms of
