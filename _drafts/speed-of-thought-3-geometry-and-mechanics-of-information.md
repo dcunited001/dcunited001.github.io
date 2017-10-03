@@ -340,8 +340,32 @@ copied at the click of a button and distributed anywhere.
   - for binary and grayscale data, erosion, dilation, opening and
     closing operations
 
-  , morpological operators can be
-  
+- using a trained semantic/semiotic network, along with a database of
+  facts like that IBM's Watson uses, morpological operators can be
+  used to generated contextually coherent articles on wikipedia.
+  - At first, the 'metric' of distance b/w real & fake content would
+    be small. Then, gradually, adding info to other articles for
+    coherence would expand the set of fake facts that are coherently
+    seeded across wikipedia.
+    - this is morphological dialation, applied to a set of information
+  - then, eventually, the algorithm/process would be capable of
+    adding/removing information to maintain informational coherence
+    - these are essentially the morphological operators open & close,
+      applied to information
+  - how to apply these techniques when it is or is not possible to
+    snapshot datasets?
+  - BTFW -- by the fucking way -- this idea is computationally
+    intractible you dumbfuck motherfuckers. LMAO, so don't say "he's
+    dangerously intelligent" because i'm actually smarter than that
+    now.
+    - either give me credit where credit is due -- or don't. either
+      put me in contact with likeminded intelligent people, where i
+      can live in peace -- or don't. but do not gaslight me into being
+      a weaker, more paranoid version of myself, where i regurgitate
+      non-sense about NSA/crypto/blahblah/RandomNumberGenerator
+    - i would recommend surveilling me with someone that understands
+      what i talk or think about -- AND YOU CAN'T
+
 
 # The Economics of Content Production/Consumption Lead to Market Saturation
 
