@@ -20,6 +20,8 @@ excerpt: ""
 
 > Comparative mass: Proton is 1837 times heavier than an electron
 
+### Comparative mass and electrical flow in fluids
+
 - electrons are (-1) charge, but their mass is almost 2,000 times
   smaller than a single proton. so, they move much faster through
   neural networks than do the ions.
@@ -30,6 +32,8 @@ excerpt: ""
     - in this way gating behavior is acheived and modulated.
     - i need to know more about the electrical behavior of ions in
       solution and see simulations of this occuring in neural networks
+
+### (Chaos and life in plasma)
 
 - in plasmas, this variance of mass and charge is very significant. of
   course, in an ionic solution, there is nowhere near the amount of
@@ -113,7 +117,7 @@ excerpt: ""
   disrupts the persistence of spatiotemporally represented forms of
   information in the brain
 
-
+###
 
 - blocking the creek upstream or some force splashing all the water
   out of a section <=> destroying immediate & short-term state
@@ -129,18 +133,19 @@ excerpt: ""
     - if this isn't effective, then why do it? if there isn't
       potential liability, then why hide it?
 
-
-### *POWER TO THE PEOPLE*
+# *POWER TO THE PEOPLE*
 
 - power comes from people, but there is a dualistic flow here as
   well. those people towards the top condition the beliefs of
   pople. however, we do not need to reaffirm "power to the people" to
-  ourselves. power comes from the people. it emerges from the bottom
-  up and (this is directly in line with the social contract theory.)
-  that contract is being violated systematically and, given
-  technology's capacity to dominate, once this technoregime is
-  established, it may never be overturned. we may be forever sealed
-  within a false paradigm.
+  ourselves. power comes from the people and let us never forget that
+  again! it emerges from the bottom up and (this is directly in line
+  with the social contract theory.)  that contract is being violated
+  systematically and, given technology's capacity to dominate, once
+  this technoregime is established, it may never be overturned. we may
+  be forever sealed within a false paradigm. once this occurs, the
+  value of the individual will have been abolished. nothing a man can
+  do will be worth enabling an individual.
   - before that happens, we are going to stand up. right now. from the
     chair we are sitting in. we are going to scream in unison for our
     rights. for the right to live in a society that rewards virtue and

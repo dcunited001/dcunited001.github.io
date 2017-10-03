@@ -39,6 +39,12 @@
       for congressional assistants to aid in writing bills
 
 
+- singularity & delta-singularity can allow a group of people in power
+  who control the development of technology, while restricting its
+  penetration into society. this can allow them to trap the common man
+  in a false paradigm, by imploding the system after collecting enough
+  power with technology hidden from everyone else.
+
 ===============
 
 effort to retain the possibility and existence of conflict or scarcity

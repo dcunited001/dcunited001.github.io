@@ -608,3 +608,135 @@ and this is where the story for the wise arch-mage came from
     into one
   - which he knew would occur at the same time, the most critical time
     for our development
+
+# New World Development
+
+### Myth of Quetzecotl
+
+- did the aztec and maya have myth predicting the return/arrival of europeans
+
+### Diffusion of Eastern Information from the West (c. 1200-1500)
+
+- what effect did the East's travels to the new world have on the
+  projection of information and myth from the west?
+  - japan & china arrived on the west coast(s)
+    - but where? when? did they return to the East?
+  - the best way for a small group of people to affect the Americans
+    at that time would have been influence on myth/philosophy/etc
+- did any Buddhists arrive? if so, did they plan on returning to the
+  East?
+
+### Settler's Mill
+
+- so you're telling me: this gold stayed at the surface of a creekbed
+  for 5000+ years. gold is in the mountains, primarily, not the bed of
+  rivers & creeks (sometimes -- it's conceivable)
+  - rivers and creeks always flow through depressions in elevation:
+    valleys, etc.
+  - what tech did American natives in this valley have? did they use
+    copper? at some time, they must have.
+  - if natives in this region, around 1700 & 1800 *knew* about
+    Colonial & US expansion westward and also *knew* about their lust
+    for gold, wouldn't they have tried to protect this gold or take
+    it?
+  - i really just don't know enough about this story or the history to
+    know.
+
+- however, rivers/creeks are always good hunting grounds. the
+  water brings animals like flies to honey.
+  - a multi party approach to hunting: one or more parties sit at
+    higher elevations. other parties are at lower elevations.
+  - animals coming to drink at a stream, which is always on a gradient
+    of elevation change (the stream moves downhill) and is usually at
+    the middle of some depression in elevation.
+    - so tactics arise where one party can chase animals uphill and
+      they are usually in vulnerable positions near water.
+  - because you're using multi-party tactics, if some parties are in
+    higher elevations, then they can spot game and try to signal to
+    the other parties in extremely basic ways
+    - perhaps using smoke signals, but that's more complicated
+      signaling than is needed or probably would be used to hunt.
+  - *the point is, if you want to eat, you're going to be around these
+    streams all the time and find tons of gold that the Europeans
+    want.*
+    - any culture that used copper would love gold.
+    - why was there a place like this where the europeans settled it
+      very quickly (within 50-100 years), but then it was untouched
+      for the rest of the time.
+  - this tendancy to center hunting parties around areas with
+    streams/etc demonstrates the power of the collective
+    unconsciousness on human behavior. we also need water to survive,
+    which pulled us to water sources.
+  - a small stream in the right place is practically an ancient burger
+    king. some streams are more connected than others. physical areas
+    that are mountainous have local regions that are more disconnected.
+    - this affects how animals and people travel and where they are
+      likely to be by constraining their likely paths from one
+      lowland/depression to another. picture a graph where nodes are
+      connected by lower elevation areas and disconnected by areas
+      with steep elevation gradients.
+      - to enter some areas, you can only proceed through tight
+        mountain passes. if every entrance to an area like this is
+        tight, then the large animal population inside is more or less
+        constrained by population growth and is less determined by
+        migratory patterns.
+    - however, the lowest elevation areas are vulnerable because
+      predators need to drink too. staying in high elevation areas
+      means you can run downhill fast.
+
+### Did Vikings Bring Middle Eastern Gold to America?
+
+- there's so much speculation in this section, it's not funny
+
+- did the vikings bring gold over from the crusades? the crusades
+  occured mostly after their north american exploration (the second
+  crusade was around 1102)
+  - they would have to establish many missions to/from the new world
+    to get the gold there safely.
+
+- there was supposedly something taken from Al Aqsa when/after it was
+  captured in the First Crusade in 1099. it was buried beneath Al Aqsa
+  and some people think it was gold. (some serious speculation here)
+  - this would be an ideal place to bury gold to back a currency
+  - if you're holy site was captured, you could pretty much assume
+    that you're screwed. Al Aqsa, today the Dome on the Rock, was and
+    is the third holiest site of Islam.
+  - it is clear that the Knights Templar became involved in banking in
+    the two centuries after the crusades, but they could have obtained
+    the gold/other financial backing for that elsewhere in the middle
+    east or simply by dominating trade in the middle east shortly
+    after the crusades.
+
+- however, if you did find a fuckton of gold in someone's sacred holy
+  site, would you want to take it and use it? if you always worried
+  about the geopolitical stability of Europe (i.e. 14th century
+  explusion of Moors from spain, 15th(?) century push against Ottoman
+  empire in Wallachia, etc) then wouldn't you want a secret stash, in
+  case you lost everything?
+  - if you took the gold and used it, Europe's weaker geoeconomic
+    position means commerce brings it back towards the center of the
+    world.
+  - but if you were in contact with the Vikings during the crusades,
+    you might hear about far off lands that Europe would be more
+    likely to settle before Middle Easterners, who almost certainly
+    wouldn't know it existed.
+- if you could get the gold there and push it as far away as possible,
+  you could ensure you always had a kickstart to European power,
+  perhaps when you needed it most.
+  - if you acted like you discovered this gold in a far off place, you
+    wouldn't have to deal with the cultural consequences of having
+    taken it.
+
+- however, explaining how the gold (whereever it came from -- europe
+  or the middle east) made it to Newfoundland or the New World: that's
+  the easiest part.
+  - explaining how the gold made it to the vikings is harder and then
+    explaining how the Vikings would push this gold all the way west
+    is the hardest part.
+- i've done like zero research on this, but it would at least make for
+  an interesting fantasy novel plot mechanic -- or perhaps a good
+  History Channel special.
+  - there's probably a million one-liners that would discredit this
+    theory, but i have seen history channel specials on viking
+    journeys through the new world, including a tower on the east
+    coast (rhode island?) whose origin can't be explained.
