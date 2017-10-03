@@ -695,3 +695,17 @@ phi = 1 + (1 + (1 + (1 + (...)^(1/n))^(1/n))^(1/n))
 - polynomial-based coordinate system with e, pi, phi and 1
   - essentially a numbering system based on polynomials of e/pi/etc...
 
+### Geometric Mechanics and Entropy
+
+- relationship b/w (1) the degrees of freedom for components in a
+  geometric mechanical system and (2) the distribution/entropy of
+  potential/kinetic energy in the system
+  - i.e. do the mechanics of intersections b/w components,
+    (kinematically), lead to inferences about the distribution of
+    potential/kinetic energy? about the dynamics of energy in the
+    system, as it relates to the components?
+    - vice versa: can the dynamics of energy and measurements about
+      potential/kinetic energy lead to inferences about geometric
+      mechanical relationships among components?
+  - of course these relationships exist b/w energy, components and the
+    mechanics of a system. but what can be inferred?
