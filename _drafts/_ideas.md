@@ -21,6 +21,9 @@
     - so the challenge is to establish market share without running
       out of funding, so that all the appropriate pieces of the
       community can be built
+- nanobrain-cloud to distributed timeshare service
+  - essentially rent your brains computation power on demand (ok
+    that's dumb lmao)
 
 - parse USC federal & state law sections as "trees" to rebase the
   language so that it's functionally equivalent, but more simply
@@ -648,6 +651,8 @@ googling "a look into the mysterious and lethal illness"
 
 ### forensic genomics
 
+#### Forensic proof of CRISPR/etc
+
 - proof of genetic engineering or genetic therapy by sequencing
   epigenomic state and looking for abberations in the distribution of
   genetic program changes in a tissue sample from organ
@@ -660,6 +665,15 @@ googling "a look into the mysterious and lethal illness"
   - if there are epigenomic aberrations in other organs besides the
     target gene's activation tissues, this may imply poorly
     implemented gene therapy
+
+#### Forensic Proof of toxin exposure, even relatively long-term
+
+- analyze liver tissue & CYP450 (& CYPXXX) enzyme distribution/usage
+  to determine estimates for toxin typology and exposure
+  - this could help determine when someone has been exposed to
+    long-term toxins
+    - {this needs specific use cases, because it won't be very widely
+      applicable}
 
 ### Medical Device Ideas
 

@@ -317,3 +317,17 @@ series 5000bc relate to reincarnation.
       - much of this wasn't at the conscious level. people didn't sit
         around and ponder these questions, per se. it was moreso the
         outcome of their reaction to events like this.
+
+###
+
+- plan to segment society across the ages (geographically and across
+  various social dimensions)
+  - this is described elsewhere in my drafts (above and in the
+    'ephemeral' article)
+  - if there is a large population that is shielded from the study of
+    a large body of arts, reincarnation would be easier to identify,
+    if it existed (and wasn't just rebirth)
+  - this idea allows for another event-driven plan to discover
+    reincarnations in these shielded populations
+    - i.e. in 17th century, find people outside the west who could
+      quickly learn to play harpsicoord, etc

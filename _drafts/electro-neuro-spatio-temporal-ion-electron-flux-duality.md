@@ -154,3 +154,12 @@ excerpt: ""
     GOD. this idea towers above all else. there is no man with the
     power to challenge it and if such men did dominate, GOD would
     certainly reveal Himself.
+
+### Misc
+
+- can the brain leverage quantum entanglement effects for faster, more
+  accurate comm. within itself? (probably not, if anyone knows it's
+  Roger Penrose)
+  - there are some mechanisms that have been studied. the theory about
+    quantum state being encoded into microtubules seems promising.
+

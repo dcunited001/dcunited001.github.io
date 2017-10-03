@@ -350,6 +350,8 @@ informational or schematic change, and behavioral change.
 - change to the structure of ideas or to shape people's conception of
   them
   - history as a language of ideas we build upon
+  - controlling the truth allows you to constrain the form of context
+    in the minds of others
 
 - (here, focus on imagery related to electrical systems)
 

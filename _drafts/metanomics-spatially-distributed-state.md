@@ -9,8 +9,6 @@ author:
 excerpt: ""
 ---
 
-
-
 # Part: Two
 
 can transition from talking about tissue networks
@@ -109,12 +107,10 @@ metanomics and probabilistic programming
 
 # Spatially distributed state on the Macro Scale
 
-i.e.
-
 ### Methodology & Data Analysis for More Proficient MRI
 
 many ways to increase proficiency for interpolating & extrapolating
-from MRI data
+from MRI data.
 
 overview of ideas/methods:
 
