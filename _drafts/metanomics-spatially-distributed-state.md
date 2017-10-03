@@ -64,9 +64,26 @@ metanomics and probabilistic programming
   tensor imaging) + Yoga.
   - need to be able to map various spaces together
   - the yoga postures cause different blood flow patterns
+    - and different "energy" flow patterns (by altering the flow of
+      nerve impulses through the spine, arms, legs, etc)
+      - engaging flexors/extensors results in those pathways/nerves
+        being engaged through brain, brainstem, spine
+      - this causes different energy flows
+      - this is the part of yoga that "fills out" the mind-body
+        connection in the brain. it's basically calibrating the brain
+        for the physical state of the body.
+    - tense/relaxed muscles alter blood flow
+    - tensing some muscles places pressure on glands and internal
+      organs, altering diffusion and fluid flow in those regions.
+      - it doesn't do much, unless you have restricted movement
+        patterns. most americans with a sedentary lifestyle could
+        benefit from yoga.
   - statistical resolution should allow us to map out tissues by
     looking at networks of small veins and arteries down to
     capillaries
+    - idea: test yoga positions for their ability to cause biomarkers
+      to accumulate in specific regions of the body
+
 - this should revolutionize cancer treatments because you can tailor
   someone's treatment plan to target specific networks of tissues
   - you can know that if you take out a set of tissue subnetworks,
@@ -76,6 +93,7 @@ metanomics and probabilistic programming
     - you have annihilated the tissue 'feeding' the cancer
     - so therefore, there should be a much lower chance of it
       returning
+
 - this is like a "connectome" for probabilistic programming
   - the connectome is the highest level of tissue interconnection, but
     is stratified itself, as it's a tree

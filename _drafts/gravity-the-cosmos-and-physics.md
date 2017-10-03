@@ -763,7 +763,6 @@ a limited number of times
   - are there parallels b/w the periodic table and polynomial
     expansions or ... this is kind of a dumb idea
 
-
 ```
 []
 
@@ -776,3 +775,20 @@ a limited number of times
 [] + [][] + [][] + [][][]
 
 ```
+
+- "plank length" for the curvature of space. are there discrete
+  minimum or discrete maximums in the curvature of space that result
+  from the plank length?
+  - is there some minimum amount above zero for curvature of space
+  - is there some identifyable quality of the curvature space that
+    results from the plank length?
+    - {this only occurs if the plank length results in some kind of
+      discrete structure of space at a very low level. i'm pretty sure
+      it doesn't}
+    - but if this plank-curvature exists, then is there a disparity
+      that emerges at larger scales resulting from the dissonance in
+      curvature of space and the energy required to curve it?
+      - so if curvature of space has some kind of "discreteness" to
+        it, then at larger scales, that should manifest as distortion
+        in the amount of energy required to curve space
+        - if it does, it will be extremely small

@@ -189,7 +189,6 @@ article about predictive medicine and CYP450
   programming theory of metanomics
   - neural fingerprints
 
-
 # Misc Bioinformatics Ideas
 
 ### Protein Folding
@@ -270,3 +269,79 @@ article about predictive medicine and CYP450
   - then how does the immune system store data for anti-bodies?
 
 
+- Synthetic proteins to bind to DNA motifs and also bind to other
+  subunits, as a methodology to expand biotech research:
+  - visually tagging specific genes or regions of chromatin
+    - this could enhance possibilities for NMR methods
+  - splicing out genes or sequencing specific genes (already a thing)
+  - method for staining chromosome in samples of cells to highlight
+    epigenetically active genes per cell-type to diagnose cancers
+    - {i've seen something like this used, but can it be used to
+      identify a specific cancer type? or only to identify cells which
+      deviate from the norm}
+    - use modified activation factors for specific genes that can dock
+      other proteins, expanding the range of space that is stained for
+      that gene.
+      - the point is to make it more obvious when genes are abnormally
+        turned on (by methylation or histones)
+        - some cancers are caused by disregulation of chromatin
+      - combined with staining, a modified activation factor that can
+        dock other proteins could be used on a biopsy sample to
+        highlight when an abberrant gene is highly active that should
+        not be.
+        - using isotopes/NMR?
+
+- 4 stranded DNA & webs of DNA??
+  - {i'm just copying all the post it notes here. consider it a sci-fi
+    plot}
+  - there is spherical DNA, connected to gold atoms.
+  - and life or biotech could be engineered to use webs of DNA. this
+    may be better for design of biotech as programs bc the
+    probabilities of events would be easier to anticipate.
+    - still, nucleic acid strands are fluid.
+    - this form would not allow simple replication.
+
+- design a generic interconnecting interface for subunits of proteins
+  - useful for interconnecting functional units of proteins, but
+    generically. this makes proteins become easier to design.
+  - {however, this is basically ubiquitin, but it emerged in life
+    because of its utility}
+  - layers of abstraction for synthetic proteins, mimicking natural
+    subcomponents, giving an object-oriented kind of design.
+
+- algorithms to identify/infer/interpolate evolutionary pathways b/w
+  groups & populations of a species (i.e. missing link => homo
+  sapiens)
+  - apply rich model that can categorize genetic expression clusters
+    - {wtf? did i mean clusters of evolutionary pathways?}
+  - the endpoint is 'homo sapiens' genome and the goal is to trace
+    backwards and connect to our ancestors.
+    - to determine what the missing link genome might have looked like
+      - however, chromosome rearrangements make analysis of
+        evolutionary data difficult.
+      - also, epigenetics plays a much more important role in
+        evolution, but our pre-missing-link ancestor's evolution was
+        likely divergent. so, it's not possible or at least not easy
+        to link back to their DNA & epigenome
+
+- human antibodies database. data collection from people who have
+  recently recovered from diseases.
+  - {Sean Parker is leading research in this}
+  - analysis of antibodies produced for a single pathogen or variant
+    - studies to correlate the specific antibodies produced/used for a
+      disease w/ overall immune function (longterm) with antibody
+      treatments.
+  - treatment for mad cow: antibodies that block the sites that result
+    in prion conversion.
+    - however, the immune system has restricted access beyond the
+      blood brain barrier, which is the mechanism of CTE.
+
+- how do protein subsections affect the shape of the protein when they
+  are all in the same coding region? (not subunits, but short amino
+  acid sequences)
+
+- epigenetic markers that specify how subunits are combinated
+ - {that's not how it works. promotor regions encourage docking, but
+   the way these docked proteins are put together can influence the
+   expression, the usage of miRNA/piRNA amplification, and the end
+   result}

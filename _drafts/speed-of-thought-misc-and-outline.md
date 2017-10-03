@@ -304,10 +304,7 @@ reinforce
     learning to use social media, coupled with changes in
     phenom. implications of sociophysics
 
-
-
 ###
-
 
 - emphasize that the only way to predict social behavior in todays
   world is by proactively driving patterns of behavior
@@ -320,6 +317,38 @@ reinforce
       unpredictable in ways that can't be predicted...
 
 # Using Social Physics to Contain/Promote People and Ideas
+
+### Muting A Target's Identity
+
+- turn down volume of someone by refusing to refer to their
+  name/identity. the more their name, their identity or details
+  related to life are referenced, the more that those details diffuse
+  into the sociophysical environment
+  - as in Voldemort, "he who should not be named"
+  - this has many effects, including driving someone crazy, who is
+    always referred to in the 4th person or as a "ghost"
+  - this artificially reduces any sociophysical signal related to
+    their identity and prevents others from perpetuating it.
+  - once the person is no longer around, very little memory or residue
+    remains of their existence.
+    - DEATH OF A SALESMAN
+  - taken to the extreme, this person is a living ghost and simply
+    haunts from one place to another, where people who happen to see
+    them have to deal with what is in front of their eyes, but never
+    authentically try to interact or develop a relationship
+    - if you are this person, you'll notice how fast people try to
+      shut down or redirect conversations you want to have. this is
+      because they don't want other people to retain positive memory
+      of you or anything you are interested in.
+    - if you have aspergers or other issues where you lack strong
+      social skills, you'd never know what it's like to live a normal
+      life. you'd simply never know the difference. this is my life.
+
+- say what you will, but this simply optimizes sociophysical ideas:
+  number of references to you, rate/quality of new social connections,
+  rate/quality of social interactions, depth of conversation, etc.
+
+### Isolation of Social Graph Boundaries
 
 - The physical or graph boundaries of someone's social network can be
   identified, as well as nodes & regions of it that are more widely
@@ -362,6 +391,8 @@ reinforce
         towards where they anticipate that influence *will* be, not
         where it is and certainly not where it was.
 
+### Limiting Financial/Social Capital & Options
+
 - financial capital and social capital are exchangable resources.
   - a clever person can exchange financial capital for social capital
     and vice versa, using social capital to multiply their influence
@@ -399,7 +430,6 @@ reinforce
       materials, pattern languages and obsession over "disconnection"
       *THIS IS DISCONNECTION*, by the way.
 
-
 # (Implications of (your perspective on) Social Physics, Networks and Information Dynamics)
 
 - possibly remove
@@ -430,9 +460,6 @@ reinforce
   - if your values and ideals are worth hard work and sacrifice to
     attain, then you have to understand how the other players in this
     game will react to you.
-
-
-
 
 
 ### Social Mechanics

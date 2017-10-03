@@ -720,10 +720,9 @@ googling "a look into the mysterious and lethal illness"
             that exists now, but fixing the food prevents the problems
             we encounter later.
 
-
 ================
 
-misc religion
+misc religion:
 
 - read chapters from Kings 1/2 and take notes 4 articles
   - stream while reading the chapters
@@ -757,3 +756,9 @@ this is based on a math paper i read a few years back
 - the authors of the math paper were only aware of
 
 =============
+
+
+### Archaeology
+
+- collect/analyze soil adjacent to items/bones collected from an
+  archaeology site. {maybe this is already done}
