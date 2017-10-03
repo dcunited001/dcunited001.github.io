@@ -435,6 +435,32 @@ reinforce
 
 
 
+### Social Mechanics
+
+- mathematically accounting for the psychosocial dynamic of "opposites
+  attract" for basic/sophisticated personality types
+  - if connections and interactions b/w people are facilitated
+    alleviating the gradient of disparity of knowledge/information,
+    then what does this say generally about people who are basic and
+    people who are well-educated
+    - what are the psychosocial dynamics that emerge between
+      combinated pairings/groupings of people
+      - how do these dynamics change when people have various ranges
+        of aggregate knowledge levels or various ranges of knowledge
+        levels in specific fields
+  - this becomes more complicated when considering the same problem
+    for various types of knowledge (i.e. level of sophistication in
+    various fields)
+  - but, generally, people who have a higher disparity in
+    knowledge/information from different fields will have more to talk
+    about or more value to offer each other in terms of the knowledge
+    they have to share.
+  - "if you're the smartest person in the room, find another room."
+- typologies of variation in psycho/socio/cultural dimensions,
+  quantified with social media data.
+- exploiting social media filter bubbles to create false consensus
+  effect in targets, which can contribute to gaslighting campaigns
+
 
 
 original content:

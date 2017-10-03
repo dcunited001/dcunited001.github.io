@@ -110,31 +110,29 @@
     the graph that involves partial overlays of subgraphs on top of
     the graph
 
-### Social Mechanics
-
-- mathematically accounting for the psychosocial dynamic of "opposites
-  attract" for basic/sophisticated personality types
-  - if connections and interactions b/w people are facilitated
-    alleviating the gradient of disparity of knowledge/information,
-    then what does this say generally about people who are basic and
-    people who are well-educated
-    - what are the psychosocial dynamics that emerge between
-      combinated pairings/groupings of people
-      - how do these dynamics change when people have various ranges
-        of aggregate knowledge levels or various ranges of knowledge
-        levels in specific fields
-  - this becomes more complicated when considering the same problem
-    for various types of knowledge (i.e. level of sophistication in
-    various fields)
-  - but, generally, people who have a higher disparity in
-    knowledge/information from different fields will have more to talk
-    about or more value to offer each other in terms of the knowledge
-    they have to share.
-  - "if you're the smartest person in the room, find another room."
-- typologies of variation in psycho/socio/cultural dimensions,
-  quantified with social media data.
-- exploiting social media filter bubbles to create false consensus
-  effect in targets, which can contribute to gaslighting campaigns
+- (ugh too many sticky notes. this is antivirus or general software
+  scans, but also applies to more functional languages)
+  - graph theory approach to analyzing software for
+    vulnerabilities. Per language tree/graph for defining structures of
+    that language and insecure statements (eval/send) .....
+    - algorithm analyzes the AST of code/bytecode in context with the
+      AST trees/graphs for standard language libraries and others
+      libraries loaded for a runtime
+    - it searches for paths to reach subtrees of program AST which
+      lead to insecure eval.
+      - or paths that include input & user action.
+      - so, all code paths a user can trigger.
+  - this is a resources-based approach to securely scanning
+    software. "it says: what are my resources?"
+    - resources include: disk i/o, disk r/w, potential device access,
+      network device access, etc"
+    - then it says: how can code access these resources? even if the
+      code is high-level scripting language.
+  - however, this is essentially less-sophisticated than antivirus
+    and, in some cases, may not be mathematically capable of
+    identifying vulnerabilities (godel's incompleteness theorum),
+    - especially for languages which mutate their runtime
+      classes/objects and have extensive metaprogramming
 
 ### FFT & Noise
 
@@ -619,9 +617,8 @@ phi = 1 + (1 + (1 + (1 + (...)^(1/n))^(1/n))^(1/n))
 - (2014) combine the "Biwabik Sum", an infinite expansion that defines
   pi in terms of phi, w/ the bizarre formula that says (12 = 1+2+3+4)
   - this could potentially relate to pi, phi and e
-  - 
-  
-  
+
+
 
 ### Comparison of Pi as Infinite Series
 
@@ -725,3 +722,63 @@ phi = 1 + (1 + (1 + (1 + (...)^(1/n))^(1/n))^(1/n))
       mechanical relationships among components?
   - of course these relationships exist b/w energy, components and the
     mechanics of a system. but what can be inferred?
+
+### Continuum Hypothesis
+
+- implications of continuum hypothesis and the fluidity of "Infinite
+  Infinities" for GodelCP & strategies for proofs by induction
+  (Fermat's)
+  - what did I mean by "Infinite Infinities"? I think I meant the
+    structure and variation of uncountable infinities.
+- implications of Godel's Completeness Theorum for Automated Theorum
+  Proving (they're not good. ATP is rendered very intractible, I
+  think)
+
+### Spectral Data Analysis
+
+- spectral data science on time series data (e.g. financial) comparing
+  several models using:
+  - many `signals` & `∂-signals`
+  - composition & decompositions of `signals` & `∂-signals`
+  - `FFT` & `∂-FFT` & spectral analysis
+  - along with predictive tools like Runge-Kutta
+  - All of the above is fairly basic spectral analysis, but the point
+    is to train tradings algorithm to extend the Runge-Kutta
+    predictions forward further, all of the above techniques can be
+    combined to understand the most likely curves from the current
+    signals
+    - because Fourier is a linear operator, then:
+      - `FFT(∂-signal) = ∂-FFT(signal)`, the spectrum of the
+        differentiated signal is equivalent to the differentiation of
+        the spectrum of the signal
+      - this property is very useful for time series analysis,
+        especially when combined with some multiplication operation
+        `⊗` and multiple signals
+      - thus, `FFT(∂-s1 ⊗ ∂-s2) = ∂-FFT(s1 ⊗ s2)`, which is subject to
+        some constraints for the particular multiplication function to
+        be sure
+  - to learn how to predict the signal, an algorithm would assume that
+    most every influence is external,
+    - then using something like Runge-Kutta & machine learning to
+      predict groups of trading decisions,
+    - then follows the profit/loss of these decisions & (and trades by
+      adding the `∂-signal` only {what did i mean by this?})
+  - it then tries to identify the influence of unknown external
+    factors by trying to predict the spectral differences in the
+    prediction when compared to actual results
+    - so, it has some set of features (the external factors) it's
+      trying to learn and can accept as input
+    - it looks at the history of trades, both its own and from other
+      brokers on the market
+    - and it then tries to correlate the time series of the features,
+      with the asset price signals, along with its model's prediction
+      for that price signal.
+      - and critically, it wants to compare `∂-model` and `∂-signal`
+      - so, `model` and `∂-model` would give many potential signals
+        from `t := now`. these are possible paths predicted by trained
+        models for a specific price signal
+      - then it compares those to the actual signal to adjust values
+        for trading.
+  -
+
+

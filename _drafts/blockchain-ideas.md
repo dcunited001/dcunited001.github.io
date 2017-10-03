@@ -95,12 +95,20 @@ excerpt: ""
     - or via a graph analogue for merkle trees
 
 
-
-
-
-
 - currency/taxing mechanism
 - physical security
   - must have phys signing keys to auth transaction
 - transations not recognized without a "stamp" coin or proof of
   authorization
+
+
+### "Locality Sensitive Hashing"
+
+- mysterious sticky note. the only other thing it says is "Topic du
+  Jour for Internet Co's" whatever that means.
+- i think this is referring to hashing algorithms where the output is
+  deterministic and random, but where some components can be recovered
+  or verified. (soo.... along the lines of digital signatures)
+  - the point seems to be like hashing algorithms that can
+    encode/recover/verify location in the hash, even though hashing
+    algorithms are supposed to be deterministic and non-reversible

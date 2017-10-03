@@ -37,6 +37,7 @@
     writing bills
     - you could have continuous integration and "automated testing"
       for congressional assistants to aid in writing bills
+- UI idea: tilt-to-reveal interaction for GIF's shared online
 
 
 - singularity & delta-singularity can allow a group of people in power
@@ -158,6 +159,20 @@ definitely another real concept for this)
 
 ===============
 
+# Computer Science
+
+- NDN (Content Centric Networking) is like platonism for the internet
+  - refer to Van Jacobson's talk at Google in 2007
+  - NDN addresses data/services on the internet by name, instead of
+    location. it's a networking technology that makes DNS/IP
+    redundant by naming data/services.
+    - there are scalability problems
+  - but, since data/information becomes addressed/organized by name,
+    instead of by instance/address, it's like platonism for the
+    internet.
+
+
+
 # science
 
 ### molecular dynamics for covalent bonding & organic compounds
@@ -212,6 +227,11 @@ aesthetic qualities?
   shots to infer 3D geometry, etc.
   - basically, converting (SOME) 2D video to 3D, after the fact
 
+- 3D enhancement techniques
+  - stereoscopic video has more possibilities for enhancement of video
+  - process interframe data using statistical modeling to increase
+    resolution of 3D models from footage
+
 ===============
 
 # dreams
@@ -241,6 +261,8 @@ dream where this dog (a great dane) kept licking my face
 - kind of a wierd dream, but there was a point to it, i promise
 
 ===============
+
+###
 
 # Memory
 
@@ -638,6 +660,66 @@ googling "a look into the mysterious and lethal illness"
   - if there are epigenomic aberrations in other organs besides the
     target gene's activation tissues, this may imply poorly
     implemented gene therapy
+
+### Medical Device Ideas
+
+#### BioAssay from Fingernail Scrapings
+
+- device to scrape top of fingernails while preserving spatial
+  information about a sample. so, it scrapes enough off the top of
+  your fingernail to get samples that preserve temporal information.
+  - the samples can then be analyzed for:
+    - Toxins: Arsenic, Mercury, Thallium, Lead, etc
+    - Mineral Deficiencies: Magnesium, Calcium, Potassium
+    - lack of vitamins/minerals for specific periods of time can be
+      correlated to symptoms of illness much more easily
+      - any time you have temporal components in your data, it greatly
+        expands the kind of inferences that you can make
+  - the difference here and one-off urine tests is that the doctor
+    understands a history of the patient's mineral deficiencies
+    - instead of a single value that is expensive to collect
+    - this would have been incredibly useful in my case.
+  - this would also be useful in childhood neglect cases
+    - or just in the case of identifying children who are not
+      receiving proper nutrition from their diet, which is common.
+    - lack of minerals like Mg, Ca, K, etc can lead to lost
+      opportunity during childhood growth & development
+      - almost every child & adult in america has multiple mineral
+        deficiencies: usually Magnesium is one of them.
+
+  - regardless of the solution to this problem, people need a simple
+    way of quantifying their nutritional intake that provides a stream
+    of time-series data.
+    - this can be correlated to health problems, so that we can
+      actually solve them, instead of being bankrupted by them.
+    - there is so much data we could be collecting that we're
+      not. these devices and processes should reach the consumer, but
+      evolution of medicine is very slow bc of strict regulations.
+    - almost all of our food in America is grown own minerally
+      deficient soil. the food is GMO and is tailored for a marketable
+      presentation, but that is it.
+      - *if you read the nutrition labels, there are almost zero food
+        items in america that give you 100% of a _single mineral_ in
+        10 servings or less!*
+      - buying minerals in ionic form (as they are included in the
+        most common multivitamin supplements) they are only absorbed
+        by your body if they happen to create the bioavailable form.
+        - you have to buy food-derived mineral supplements.
+        - Magnesium Stearate, Magnesium Oxide, etc., etc do not get
+          absorbed at high rates. it is sometimes sufficient.
+          - but if you have a serious mineral deficiency, you must
+            take food-derived supplements. there is only one
+            supplement with magnesium & calcium that i trust, but it's
+            very expensive ($40/month)
+      - this is just an example of how hard it is to eat healthy and
+        stay healthy in this country.
+        - you're constantly marketed to, but so much of it is bogus.
+        - then, on the other end, we're being dragged down to
+          bankruptcy by health care costs and we wonder why.
+          - it's the food, first of all. this doesn't fix the problem
+            that exists now, but fixing the food prevents the problems
+            we encounter later.
+
 
 ================
 

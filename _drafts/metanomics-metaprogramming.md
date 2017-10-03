@@ -257,10 +257,16 @@ article about predictive medicine and CYP450
       - but mRNA has its own idiosyncractic folding and, perhaps, this
         folding matters sometimes.
 
-#### After 2014?
+#### 2015 & later?
 
 - identify differences b/w human & chimp DNA to datamine those
   regions .... for ... aliens
   - try to find regions of Human DNA where, genetically or
     epigenetically, defenses against retroviruses were lost or
     replaced
+
+- junk DNA regions used as short-term memory (RAM) for cellular
+  processes? (ok this is dumb as hell)
+  - then how does the immune system store data for anti-bodies?
+
+
