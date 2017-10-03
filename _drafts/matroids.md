@@ -110,6 +110,8 @@
     the graph that involves partial overlays of subgraphs on top of
     the graph
 
+#### Abstract Syntax Trees X Graph Theory
+
 - (ugh too many sticky notes. this is antivirus or general software
   scans, but also applies to more functional languages)
   - graph theory approach to analyzing software for
@@ -133,6 +135,32 @@
     identifying vulnerabilities (godel's incompleteness theorum),
     - especially for languages which mutate their runtime
       classes/objects and have extensive metaprogramming
+
+#### Infinite Graphs as Spaces (from 2015?)
+
+- linear spaces composed together as sub graphs in an infinite graph
+  - can have nested linear spaces?
+    - what did i mean by linear spaces here?
+  - can be self-modifying?
+    - {because of course they can... but actually, this means they
+      must be capable of addressing themselves from within themselves,
+      which is actually a challenge}
+- remap these linear spaces to polar coords? {really? wtf?}
+  - is there something special that happens to higher order
+    structures like graphs expressed as linear spaces when they
+    undergo particular transformations?
+
+#### Misc Graph Theory
+
+- there is a core discrete set of solutions that can be algebraically
+  extended to any solution (graph theory problems, particularly
+  bipartite graphs)
+  - emphasis on a strong connection to number theory
+  - {was i thinking about how to enumerate all the basic Discrete
+    Finite Automata's (DFA) into graphs or representations of
+    problems?}
+    - {i'm not sure what i meant by 'core discrete set of solutions'
+      or what those would apply to or how they 'solve' graphs}
 
 ### FFT & Noise
 

@@ -268,7 +268,6 @@ article about predictive medicine and CYP450
   processes? (ok this is dumb as hell)
   - then how does the immune system store data for anti-bodies?
 
-
 - Synthetic proteins to bind to DNA motifs and also bind to other
   subunits, as a methodology to expand biotech research:
   - visually tagging specific genes or regions of chromatin
@@ -345,3 +344,31 @@ article about predictive medicine and CYP450
    the way these docked proteins are put together can influence the
    expression, the usage of miRNA/piRNA amplification, and the end
    result}
+
+- (nanotube + protein) structures for the precipitation and filtration
+  of 3D shapes, by shape type
+  - so, precipitation/filtration of nanotubes of specific sizes,
+    - also can filter proteins, though i think the molecular dynamical
+      aspects of this wouldn't work well for filtering proteins
+  - the filtration & sorting of nanotubes and other nanotech building
+    blocks is one of the most basic required steps for working with
+    nano. you have to build the machines that build the machines.
+    - so, you can blast to create nanotubes of random size, dissolve
+      into solution, then sort by size/etc
+    - everything nano and everything bio is about the exponential
+      energy expense of combatting entropy.
+      - your a la carte illuminati lunacy de jour: this is why
+        shape-shifting lizards are impossible, unless they are beaming
+        shit into your mind. there are no shape shifting in the
+        universe, unless they can harness fusion in their cells...
+        it's impossible because the energy requirements are
+        prohibitive. can't happen. now you can sleep soundly. no space
+        lizards.
+      - now, to slowly step back from the crazy above, nano is about
+        combatting entropy. the smaller the systems and esp the
+        mechanics, the more energy they require when scaled up to the
+        macroscopic.
+        - the smaller the parts, the less heat tolerant they are, so
+          heat tolerance is crucial.
+        - uhh this is like the first time i've thought about nano in 3
+          years...
