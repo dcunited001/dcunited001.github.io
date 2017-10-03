@@ -232,8 +232,39 @@ would even dictate the functional
       - also, textual idiosyncracies vary widely, so it's hard to
         capture morphemic data.
 
+### Morphemic Drift and Phonetic Collisions in Linguistic Evolution
+
+- this would be incredibly difficult to study, but would it be
+  possible to analyze text from many languages in a single region to:
+  - identify when morphemes from multiple languages drift into
+    phonetic collisions.
+    - every combination of phonemes has a metric (similar to
+      levenschtein distance for text) and a set of (d = 1 ... n)
+      neighborhoods of overlapping morphemes of sufficient similarity
+  - those overlapping morphemes can be automatically expounded by
+    algorithm that can identify (with zipf's) the most valuable space
+    for argots, cryptolects and cants
+    - this can be done for a single language or for a pair of
+      languages. by informing with zipf's distribution, you discover
+      the most used, overlapping morphemes
+    - this can also show the unused "real estate" a language has for
+      new, ad-hoc, or non-standard morphemes
+    - algorithm can also be informed with semantic similarity &
+      dissonance
+  - this allows you to identify all the possible words that overlap or
+    the most likely morphemes that would be used in an argot
+  - hopefully AI doesn't get ahold of this, but it will let us unmask
+    the illuminati/etc because they haven't been afraid to communicate
+    with these on video/audio ... or they can't help it.
+
+# Misc ideas
+
+### Spoonerisms & Metathesis
+
 - explore ideas of [Spoonerisms](https://en.wikipedia.org/wiki/Spoonerism) and [Metathesis](https://en.wikipedia.org/wiki/Metathesis_(linguistics))
   - and [nonce words](https://en.wikipedia.org/wiki/Nonce_word)?
+
+### Zipf's Distribution for English Words and Japanese Loan Words
 
 - what does the difference b/w zipf's distribution for english words &
   japanese loan words from english tell us?

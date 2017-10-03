@@ -467,6 +467,15 @@ also kind of leads the world through a difficult path.
     effects that contrast relativity
     - does this say anything about the nature of space?
 
+### Misc Quantum
+
+- instead of calculating quantum (q or p), can you get a better
+  understanding of the system by inferring the actual paths of
+  particles through the space?
+  - instead of measuring (q or p), infer the path of the particles
+    through space by understanding how the paths must cohere to
+    curvature constraints to preserve Ĥ (hamiltonian)
+
 ### Establishment of Quantum Links in the Minds of People
 
 - is there a protocol for establishing a quantum connection b/w human
