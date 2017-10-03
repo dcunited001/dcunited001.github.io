@@ -98,6 +98,64 @@ definitely another real concept for this)
     - so in this way, it's weaker
   - but then, some aspects of identity become stronger
 
+- Another argument against dialectical materialism: the existence and
+  structure of forms of the collective unconsciousness challenge the
+  marxist dialectic.
+  - these forms are intangible. some could be argued to have varying
+    degrees of dependence on the material, but other aspects may be
+    completely void of dependency on the material.
+    - for example: the chaotic local ergodicity that is the
+      Singularity. this is a shared endpoint that, for chaotic systems
+      which could birth intelligent life, is predestined.
+      - there are timelines which may end in catastrophe and would set
+        back the reemergence of life for millions more years. or
+        billions.
+      - however, the idea of the Singularity exhibits effects emerging
+        from the collective unconsciousness. its existence changes the
+        way people act, but it is in some ways ergodic -- this means,
+        given enough time and given intelligent life that emerges when
+        Earth sits in the habitable zone, the idea itself affects
+        material systems even though it is not itself material.
+  - other ergodically emergent ideas for intelligent life include God
+    (potentially), etc.
+    - in this sense, i mean the existence of God as a cosmological
+      explanation for the origin/meaning of the world.
+    - even if the idea doesn't exist locally for your set of the
+      population, its effects or it's potential/definite emergence or
+      it's complete absense exhibits influence on material systems
+      without emerging from them.
+    - so where is this information encoded in material form? it
+      doesn't need to be, but when material intelligent life
+      acknowledges forces like these, it is advantageous.
+      - when early humans understand that thirst & water bring animals
+        to drink, then observing/understanding animal behavior near
+        water sources means plentiful food.
+      - here, the collectively unconscious idea is that animals and
+        humans need water. waking up to that, consciously, is
+        advantageous. even animals like wolves or bears may take this
+        into account.
+  - this needs some work, but may lead somewhere with the scourge of
+    diamat, which yields the utilitarian and inhumane tendencies of
+    tyrants and marxists.
+    - particularly interesting is examining the collectively
+      unconscious in the context of chaotic systems: can the
+      collectively unconscious be defined external to the chaotic
+      system or only internally?
+      - but if the collectively unconscious dependently originates
+        from the internal, material configurations of the matter/etc
+        in the chaotic system, how can it exert influence on the
+        actions of agents when they haven't created an internal
+        representation of the idea?
+    - this argument needs a thorough exploration of the collectively
+      unconscious to identify types of origination
+    - the golden ratio is another good example of a form, which
+      emerges from math, but then affects nature -- from the cosmos to
+      life and everything else.
+      - but it is simply the MOST irrational number, as defined by
+        continuous fractions. every one of its phenomenological
+        manisfestations in nature result from this and other
+        mathematic properties of PHI.
+
 ===============
 
 # science

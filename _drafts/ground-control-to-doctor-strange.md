@@ -701,7 +701,8 @@ if someone achieves some known state of mind that
     networking interface or some alien life form
     - probably impossible, but maybe you could link in and passively
       or actively observe.
--
+
+
 
 ### using your brain to find your zero point
 
@@ -759,3 +760,12 @@ this shared degree of causality also implies shared information
   which is perfectly synced across all possible worlds? across all
   possible virtualizations above and below our own? What would that be
   like?
+
+### Metaversal Universals
+
+- are there some universals preserved across all metaverse branches,
+  etc. (e.g. every Rick has a Morty)
+  - i might have included something like this above
+- there should be some metaversal kernel maintained across all
+  universes. this expands into something that can virtualize all
+  universes.

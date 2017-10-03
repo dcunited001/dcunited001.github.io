@@ -462,6 +462,14 @@ as integers and rational numbers.
     - i'm not very familiar with mobious transformations, but they
       enable manifolds that map the unit disc (& n-sphere) to any convex
 
+- higher order structures for this apollonian packing manifold that
+  remove the finite constraints of the top level sphere.
+  - when you start moving "up" with the apollonian gasket, these
+    structures are usually uncountable
+  - spiral structures can be imagined, with spheres being packed
+    outwards. then the normal fractal packings of spheres can extend
+    in the spaces between.
+  - some of these structures have countable arrangements.
 
 - https://www.incendia.net/wiki/index.php?title=Fractal_Types#Kleinian_sets
 - http://www.popularmechanics.com/technology/robots/news/g2095/deep-dreaming-fractal-nightmares/?slide=22&thumbnails=
@@ -606,6 +614,14 @@ phi = 1 + (1 + (1 + (1 + (...)^(1/n))^(1/n))^(1/n))
   - is there some measure of irrationality? are there some numbers
     that are more irrational than others?
 
+#### Biwabik Sum (pi and phi)
+
+- (2014) combine the "Biwabik Sum", an infinite expansion that defines
+  pi in terms of phi, w/ the bizarre formula that says (12 = 1+2+3+4)
+  - this could potentially relate to pi, phi and e
+  - 
+  
+  
 
 ### Comparison of Pi as Infinite Series
 

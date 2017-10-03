@@ -188,3 +188,79 @@ article about predictive medicine and CYP450
 - hmmmmm, there was like one other example of probabilistic
   programming theory of metanomics
   - neural fingerprints
+
+
+# Misc Bioinformatics Ideas
+
+### Protein Folding
+
+#### from 2014
+
+- {all of this is done, over and over in research. some of it is
+  fairly recent, 2005-2015ish}
+- protein folding algorithms that make inferences based on mutations'
+  effects on protein structure
+  - {there are certainly stochastic methods, which can be combined
+    with *ab initio* folding algorithms}
+    - the question here is about evolutionarily conserved mutations,
+      identifying mutations that we see from the evolutionary record
+      and from sequencing genomes of species and whether inferences
+      can be made about the mutations that could have happened and
+      what happened.
+    - so, it can be assumed that some mutations, particularly those
+      resulting in amino acid changes, result in aminos that are
+      more or less likely to change the structure of features
+      - i.e. features like alpha/beta helicies
+  - if one takes this "ab initio + stochastic" approach then, tests
+    protein folding ab-initio for protein variants with amino
+    mutations that cause structure to diverge, then this approach
+    tells you what is likely to be conserved and what is not.
+    - so, protein structure needs to "anticipate" rates & distances of
+      evolution. structure needs needs some "wiggle room" to preserve
+      structure & form in spite of inevitable mutation.
+    - so, it's interesting to see how one can make amino mutations
+      and see how that changes form/function to see what form is
+      conserved despite mutations.
+    - protein folding is complicated. depending on how you process a
+      strand of aminos, there are divergent paths of folding that
+      emerge. so, this allows one to understand which folding paths
+      would be conserved by amino mutations. the set of folding paths
+      most usually conserved is probably a good bet.
+
+- given many samples of DNA for some particular coding regions,
+  identify mutations and a lineage of genotypes. (this is done, over
+  and over in research)
+  - for each mutation, correlate the mutated amino acid's change in
+    function to identify negative mutations
+    - compare the functional changes for amino-mutations with a
+      functional understanding of that local region and the adjacent
+      aminos.
+  - this is basically a functional understanding of the evolutionary
+    lineage of genotypes.
+    - the preservation of some genotypes tells us which mutations were
+      not disadvantageous.
+
+- analyze introns/exons for local regions that seem to mutate more
+  frequently (particularly introns)
+  - correlate that with nucleotide counts (since some nucleotides have
+    a greater capacity for mutation, similar to how some amino acids
+    have varying mutation/preservation rates)
+  - this is already done, but i'm not sure there's enough
+    bioinformatics research on identify how introns affect behavior in
+    the nucleus.
+  - so this:
+    - (1) helps us understand how introns affect genetic expression
+      and RNA polymerase behavior
+    - (2) and potentially identify genes where the splicing of
+      introns/exons is non-standard in some way. introns should mostly
+      not show strongly conserved regions.
+      - but mRNA has its own idiosyncractic folding and, perhaps, this
+        folding matters sometimes.
+
+#### After 2014?
+
+- identify differences b/w human & chimp DNA to datamine those
+  regions .... for ... aliens
+  - try to find regions of Human DNA where, genetically or
+    epigenetically, defenses against retroviruses were lost or
+    replaced
