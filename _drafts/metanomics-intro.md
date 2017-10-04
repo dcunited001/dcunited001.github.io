@@ -304,10 +304,16 @@ presence or absence of a particular molecule in a variably sized space
 - [Cytochrome]()
 - [Buproprion](https://en.wikipedia.org/wiki/Bupropion)
 
-# Measure Distribution of Receptors in Tissue Networks
+### Measure Distribution of Receptors in Tissue Networks
 
-- measure a distribution of receptors (on both micro & macro scales)
-  of receptors in tissue networks of organs
+- {TODO: these ideas need to be processed a bit. this is only
+  reasonable if it's detectable, though there may be some parts of
+  this otherwise}
+  - {look at #3 to understand why}
+- (1) measure a distribution of receptors (on both micro & macro
+  scales) of receptors in tissue networks of organs. basically,
+  measure these from biopsies, while inferring the biopsy location
+  within an organ based on structure/size of capillaries in tissue
   - could work for analyzing CYP enzyme distributions
   - this would be especially amazing for neuronal tissue nets
   - high-powered MRI, along with statistical inference on many
@@ -318,7 +324,31 @@ presence or absence of a particular molecule in a variably sized space
     tissue networks.
     - ... (this needs more description)
     - it would probably
--
+  - identify micro/macro patterns of oscillation characteristic to the
+    spatial distribution of receptors for various genotypes
+
+
+- (2) use these generated receptor distribution profiles specific to each
+  patient, to infer generalized receptor distribution models.
+  - per genotype combination
+  - per environment data
+  - {oversimplify much?}
+- drugs w/ isotopes & titration can resolve {the systems in additional
+  clarity?}
+  - these general and specific models can be cyclicly refined, `et ad
+    nauseum`
+
+- (3) finally, these general & specific receptor-distribution models
+  could be used in conjunction w/ patient-specific brain tissue &
+  arterial network models to predict psychiatric drug response
+  - accounting for environment-specific epigenetic variation
+    - assuming that you train the models w/ biopsy data that encodes
+      the spatial distribution of receptor-types, then:
+      - you can use this to predict Rx drug response.
+        - though it will be much more difficult for the brain than
+          other organs (like networks of CYP metabolization in liver)
+
+
 
 # Metanomics x Probabilistic Programming
 
@@ -875,6 +905,7 @@ kcnq1ot1
     - and this RNA complement can act as an miRNA, piRNA or lncRNA
 
 ### DNA transcription game
+
 - similar to pacman where you travel on DNA strands, but involves a
   shifting level (3D?)
   - more focus on node-node connections instead of length of maze

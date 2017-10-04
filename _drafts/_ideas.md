@@ -736,6 +736,15 @@ googling "a look into the mysterious and lethal illness"
             that exists now, but fixing the food prevents the problems
             we encounter later.
 
+#### Raspberry Poo
+
+- it's a computer on a suppository w/ microchip
+  - include microphone, etc
+  - "surgically" place the device, so that you can pass a check
+  - surgical precision check
+  - simple remove/activation med(?)
+  - async data transfer
+
 ================
 
 misc religion:

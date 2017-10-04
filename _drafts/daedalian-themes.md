@@ -641,3 +641,55 @@ you're S.O.L. cuz you don't have enough explosions.
   - universal, mystic karma
   - the practical karma accrued through the aggregate perception of
     one's own actions by those around him/her
+
+
+# Story Ideas
+
+### Unknown Hemlock
+
+- Socrates & Unknown Hemlock (surreptitious administration of a drug)
+  - socrates instead realizes he can continue to live while being
+    medicated w/o consent, but doesn't want to, since it numbs his
+    mind.
+  - he instead find the location of the surreptitiously medicated
+    food/drink and decides to overdose on it, making it the fault of
+    those he was in care of.
+  - since it was secret to mostly everyone, the toxicology report
+    comes as a major surprise.
+
+### How to Convey (future) Loss Without Words
+
+- A lady who's never managed to live her life but miraculously had
+  kids after being told it was impossible.
+  - her cancer returns again and again. she knows she's terminally
+    ill, yet her & her husband don't want to tell their daughter {2-3
+    y/o}
+    - i need to know a lot more about developmental psychology of
+      children at this age before i could decide
+  - she loves her daughter very much but wants to use her own death as
+    a means to teach her daughter about loss
+    - true, painful loss because she doesn't know how to best use her
+      last months/years w/ her family & her daughter is too young to
+      understand life/death.
+  - is this a realistic interpretation? was it?
+  - topics of themes: mortality, life, and beginning/end of life
+    - deciding what to do with her last few months. planning on either
+      trying to explain it to her daughter or making the most of it,
+      so that it means more, but is a heavier loss at the same time.
+  - how does this family decide to do this? why does she decide to do
+    this? and what kind of experiences has the mother had through her
+    life to lead her to make this decision?
+    - why is it different than what other parents might do? is it that
+      different?
+      - {perhaps she and her husband are slightly older and hadn't had
+        kids yet, so she has a different take on life & never expected
+        to have a kid, but always wanted one}
+  - {this situation played out beside me at the coffee shop. as i'm
+    typing this note in, i mostly only remember how profound it was
+    when it happened, but I'm trying to remember why}
+    - i could tell she was sick and i knew her daughter didn't know. i
+      didn't leer or stare or anything, but that's what came
+      across. when i realized this i immediately became overwhelmingly
+      sad. i may have had to get up from my table.
+      - it was the way the daughter responded to something
+

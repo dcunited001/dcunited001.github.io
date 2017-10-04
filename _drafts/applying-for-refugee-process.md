@@ -40,10 +40,7 @@ title: "applying for refugee status"
 - Two photos of yourself (5cm×5cm, without a hat, front view, taken within the last two months)
   - (Three photos are required if you do not have permission to stay.)
 
-
 # Dutch Refugee Process
-
-
 
 ### Refugee Story
 
