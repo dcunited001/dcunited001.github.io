@@ -8,7 +8,7 @@ author:
 excerpt: ""
 ---
 
-i have a unique understanding of philosophy, but most of the stuff i
+I have a unique understanding of philosophy, but most of the stuff I
 think might be novel turns out to be naïveté and partially original if
 i'm lucky. my own path of understanding has been slow and grueling,
 since i pieced together my own understanding, always with the

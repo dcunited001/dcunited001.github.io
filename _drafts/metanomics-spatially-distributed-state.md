@@ -175,8 +175,7 @@ localized growth of neurons,
 - i.e. localized direction & application of neurotrophic growth
   factors.
 
-
-### Misc Questions:
+# Misc Questions
 
 What is the effect of NMR on Lipids? Could vacuoules be constructed
 with lipids that have a known varying isotopic ratio?

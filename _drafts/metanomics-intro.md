@@ -137,7 +137,7 @@ there are parametric & nonparametric forms of these problems:
   - faster algorithms for genomic processing
     - more efficient data storage/collection
 
-explain spatially distributed state at a high level
+### explain spatially distributed state at a high level
 
 - hierarchically distributed state
   - this enables execution of tree-like sets of behavior across cells
@@ -304,9 +304,26 @@ presence or absence of a particular molecule in a variably sized space
 - [Cytochrome]()
 - [Buproprion](https://en.wikipedia.org/wiki/Bupropion)
 
-## Metanomics x Probabilistic Programming
+# Measure Distribution of Receptors in Tissue Networks
 
-this may need to be the second part.
+- measure a distribution of receptors (on both micro & macro scales)
+  of receptors in tissue networks of organs
+  - could work for analyzing CYP enzyme distributions
+  - this would be especially amazing for neuronal tissue nets
+  - high-powered MRI, along with statistical inference on many
+    datasets (ugh ... HIPAA?)
+  - the point: analyze the variation for receptor distribution in
+    different parts of tissue networks. this could be cross-analyzed
+    with total flux or fluid diffusion through different parts of
+    tissue networks.
+    - ... (this needs more description)
+    - it would probably
+-
+
+# Metanomics x Probabilistic Programming
+
+- this may need to be the second part
+  - reference details from "Awareness/Chaos" article
 
 ### Probabilistic Programming for Computers
 
