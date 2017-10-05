@@ -2,10 +2,16 @@
 title: "Ode to Transcendence"
 categories: "blog"
 tags: ""
-headline: "Poetic Justice"
+headline: "Poetic Justice: Once You Find An Anonymous Martyr, Then There Are No More!"
 author:
   name: "David Conner"
-excerpt: ""
+excerpt: "
+Find that tear of growing dew that wells on your hearts' pedals.  It
+is one of love and one of sadness, but if it grows so open your heart.
+Once you find an anonymous martyr, then there are no more!
+Om'ing this brightness onto brightness onto brightness. Focusing my
+awareness into my mind's now vibration center.
+Escaping into enlightenment."
 ---
 
 #### Refer to [Acts 16:16-40](https://www.biblegateway.com/passage/?search=Acts%2016%3A16-40)

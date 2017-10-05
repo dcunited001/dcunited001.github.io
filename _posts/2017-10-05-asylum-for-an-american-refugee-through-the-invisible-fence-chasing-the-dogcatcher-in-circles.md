@@ -5,7 +5,17 @@ tags: ""
 headline: "To Grandmother's House We Go..."
 author:
   name: "David Conner"
-excerpt: ""
+excerpt: "
+I also contacted the FBI. In case the FBI does not act to protect a
+citizen from harassment, I contacted their international counterpart,
+Interpol, who stands against law enforcement corruption. In case they
+do not act and remain complicit, I have began contacting as many
+people, projecting as much signal as possible around the entire world.
+Why? Because if I do this, the people surveilling me will attempt to
+silence me. There will be a flurry of activity across the country,
+where the same organizations in different areas will act to contain
+information and abuse innocent people. Plenty of fodder for Interpol
+to conduct their operation ... or not."
 ---
 
 So, I am fed up with my life and all the people who have been coerced
