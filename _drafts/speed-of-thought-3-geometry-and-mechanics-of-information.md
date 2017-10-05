@@ -15,6 +15,18 @@ excerpt: ""
 
 - [Picture for Geometric Mechanics]
 
+- [Allen's Rule]()
+  - if information itself is territory, how does this influence the
+    evolutionary mechanics of information?
+  - if social hierarchies are territory, how does this influence
+    evolutionary mechanics in sociophysical phenomena or in people
+    occupying social hierarchies
+
+- how dead sea scrolls revived information that had been dead for
+  almost two millinea, transforming the information landscape
+  - explain how this relates to geomtery/mechanics of information
+  - this is an example of tail-risk in information warfare ()
+
 - egyptian architecture as the most prominently preserved ancient
   architecture, exerting an archetypical influence on our minds for
   millinea, even after language was lost.
@@ -1064,3 +1076,133 @@ identity and culture which will otherwise be completely lost.
 
 
 - monad proxy as root. the all is the one, the one is the all.
+
+
+
+
+
+
+Antifragility and Social Engineering for "National Security"
+==========
+
+- philosophy of #AntiFragility is being abused to feed a greedy
+  industry to control dissidents, whose voices are never heard.
+  - your work is amazing, but what I have seen in my own life with
+    Interventions & Transport implies that the worst of us are
+    dominating
+  - worst of all, while our greatest threat is ourselves, for which we
+    need #AntiFragile systems, our greatest fear should be nihilism.
+  - antifragile design patterns applied 2 #Sociophysical systems
+    reinforce stability when people care about life.#TechnoNihilism
+    disenchants us
+  - technonihilism yields system-wide #Demoralization, undermining
+    many of the incentivization design patterns in today's
+    #AntiFragile systems
+  - worst of all? when ppl confuse #Utilitarian, #PassiveAggressive,
+    #Sociopathic behaviors 4 #AntiFragile systems & are blind to their
+    humanity
+  - we will lose all connection to our humanity, our individuality,
+    all respect for our fellow man, for ourselves and this nihilism is
+    terminal.
+  - i don't want 2 demonize the ideas of antifragility, but they are
+    being applied 2 identify the best of us w/ the worst of
+    us,treating Übermenschen like cancer
+  - what results is a world where it is not only impossible for humans
+    to excel or innovate, we have destroyed anyone or anything that
+    stood out
+  - this world's hierarchy is flat, where finance is controlled by
+    elites and nothing but sociophysical mechanisms are available 4
+    "advancement"
+  - Antifragility's sociophysical incentivization structures collapse,
+    but they require passive aggressive tactics & dissent was never
+    allowed
+
+
+UBI, Team Sociopathy and a Depressing, but Exigent Economic REALITY CHECK
+============
+
+if it looks like a duck...
+
+- It's starting to look a lot like #COMMUNISM, which deprives you of
+  Financial Capital and monopolizes Social Capital
+  - UBI, a bait and switch, for a gov't that will have stripped U of
+    freedom & dignity. it's the last nail in the coffin of respect for
+    Human Life
+  - imagine extending today's #Sociophysical methods of control 2 a
+    world where your only income's a check the govt MAY be nice enough
+    2 write U
+  - you will wake up in a world where your only value is your
+    conformity. anything deviating from that will be violently
+    contained & amputated.
+  - when the society has essentially lost the right to property
+    (financial capital is unobtainable), your only means of influence
+    is social....
+  - what is happening now. the WORST of society is gaining influence &
+    competing in team sociopathy, w/o regard for dignity, ethics or
+  virtue
+  - when the state monopolizes social capital & treats social
+    hierarchies as territory, the ppl who inherit control are those
+    dominating today
+  - so there will be human networks, through which authority is
+    projected by sociopaths, but they will have no true authority and no
+    ethics
+  - further, the winners of #DantesInferno #Thunderdome who competed
+    in team sociopathy will have destroyed all the values that could
+    save us
+  - these people are completely defined by ego and materialism, however
+    they may try to convince you they are "clear" or selfless.
+  - therefore,these sociopathic bottom feeders will end up on top, but
+    are the most susceptible 2 #TechnoNihilism's obliteration of our
+    humanity
+
+
+Comments on HMOL
+=============
+
+I have a unique understanding of philosophy, but most of the stuff I
+think might be novel turns out to be naïveté and partially original if
+I'm lucky. my own path of understanding has been slow and grueling,
+since I pieced together my own understanding, always with the
+intention to transvaluate it to the academic model, resulting in depth
+via novelty & originality
+
+- [the encyclopedia of human thermodynamics - HMOL](http://www.eoht.info/)
+  - pretty much the most comprehensive source on social physics and
+    everything related it it. it's also one of the only sites i know
+    of where the content models social phenomena in terms of social
+    physics, instead of framing their content in the top-down
+    macroscopic language of sociology
+  - cite the social physics paper on studying differences in
+    physically/virtually connected social networks
+    - site other papers?
+  - mention that i found this site while searching for the term
+    "social mechanics"
+    - i haven't consumed much of their content, but i will eventually.
+      i want to finish this 20,000 word treatise on social physics
+      with a fairly original conception of the ideas before i
+      internalize their content, framing everything else i think/write
+      in terms of their language.
+    - glossing over some of the pages and just looking at the table of
+      contents gave me a few interesting ideas.
+      - however, ideas on configurational entropy and things like that
+        were original and resulted from trying to design 2D particle
+        simulation algorithms as basic examples of social physics,
+        causing me to have eureka moment comparing social situations
+        to thermal dynamics
+        - i realize there was configurational/conformational entropy
+          in the graph structures of conversations/interactions
+          forming at an idealized cocktail party, for example.
+        - and from here, i began to draw more and more connections to
+          thermodynamics.
+      - but now, returning to their content, i realize that they have
+        explained mostly all of these in thorough detail.
+      - however, if i were to read it all now, as research, i would
+        frame all my ideas in term of what i ingest. what i wrote
+        would be meaningless and would almost certainly appear as
+        though i copied them or maybe every plagarized them.
+      - instead, i want originality and an a posteriori understanding.
+        i want to struggle and become stronger through that
+        struggle. then i want to reconcile that a posteriori
+        understanding with a more rationalist conception. it is
+        inefficient, but hey -- this is where i am and it's a fairly
+        unique situation for someone who is very intelligent.

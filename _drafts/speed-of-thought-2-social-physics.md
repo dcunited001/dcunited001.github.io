@@ -8,56 +8,6 @@ author:
 excerpt: ""
 ---
 
-I have a unique understanding of philosophy, but most of the stuff I
-think might be novel turns out to be naïveté and partially original if
-i'm lucky. my own path of understanding has been slow and grueling,
-since i pieced together my own understanding, always with the
-intention to transvaluate it to the academic model, resulting in depth
-via novelty & originality
-
-- [Calculating the configurational entropy of a landscape mosaic](https://www.fs.fed.us/rm/pubs_journals/2016/rmrs_2016_cushman_s001.pdf)
-
-- [the encyclopedia of human thermodynamics - HMOL](http://www.eoht.info/)
-  - pretty much the most comprehensive source on social physics and
-    everything related it it. it's also one of the only sites i know
-    of where the content models social phenomena in terms of social
-    physics, instead of framing their content in the top-down
-    macroscopic language of sociology
-  - cite the social physics paper on studying differences in
-    physically/virtually connected social networks
-    - site other papers?
-  - mention that i found this site while searching for the term
-    "social mechanics"
-    - i haven't consumed much of their content, but i will eventually.
-      i want to finish this 20,000 word treatise on social physics
-      with a fairly original conception of the ideas before i
-      internalize their content, framing everything else i think/write
-      in terms of their language.
-    - glossing over some of the pages and just looking at the table of
-      contents gave me a few interesting ideas.
-      - however, ideas on configurational entropy and things like that
-        were original and resulted from trying to design 2D particle
-        simulation algorithms as basic examples of social physics,
-        causing me to have eureka moment comparing social situations
-        to thermal dynamics
-        - i realize there was configurational/conformational entropy
-          in the graph structures of conversations/interactions
-          forming at an idealized cocktail party, for example.
-        - and from here, i began to draw more and more connections to
-          thermodynamics.
-      - but now, returning to their content, i realize that they have
-        explained mostly all of these in thorough detail.
-      - however, if i were to read it all now, as research, i would
-        frame all my ideas in term of what i ingest. what i wrote
-        would be meaningless and would almost certainly appear as
-        though i copied them or maybe every plagarized them.
-      - instead, i want originality and an a posteriori understanding.
-        i want to struggle and become stronger through that
-        struggle. then i want to reconcile that a posteriori
-        understanding with a more rationalist conception. it is
-        inefficient, but hey -- this is where i am and it's a fairly
-        unique situation for someone who is very intelligent.
-
 - ~transvaluation of all (cognition or cognitive faculties or skills)~
   and of all information
 
@@ -66,6 +16,8 @@ via novelty & originality
   - in overwatch & other FPS you can't hear the other team signaling,
     but if they leverage that, they can anticipate your movements in a
     way that doesn't expose information to you
+
+- [Calculating the configurational entropy of a landscape mosaic](https://www.fs.fed.us/rm/pubs_journals/2016/rmrs_2016_cushman_s001.pdf)
 
 - in this section, use stadium metaphors
   - people behave differently in the shaded sections than in the
@@ -126,7 +78,7 @@ force. This itself wasn't unique, but we managed to maintain their
 literary tradition. In doing so, we preserved the best record this
 phenomenon in Western history.
 
-#
+# 
 
 In the ancient world, population growth and movement was tightly
 coupled to economic opportunity, constrained by resources, and bounded
@@ -438,6 +390,20 @@ Sociophysical systems are (very similar).
 <a name="to-hedge-against-domain-complexity-agents-amplify-perceived-beliefs" />
 
 ### (7) [To Hedge Against Domain Complexity, Agents Amplify Perceived Beliefs And Interact In Other Ways](#to-hedge-against-domain-complexity-agents-amplify-perceived-beliefs)
+
+- fragile & antifragile:
+
+- fragility &
+  [antifragility](https://en.wikipedia.org/wiki/Antifragility) of
+  sociophysical systems
+  - e.g. the tendancy to amplify beliefs & perceived beliefs to
+    encourage consensus and discourage divergent beliefs/behavior
+  - but in systems theory, agents with more influence over the system
+    receive higher quality information.
+    - further, proactive means of generating dynamics in the system
+      allows agents to interrogate their environment, making
+      inferences about the true beliefs of other agents in the system
+      or about information they have access to
 
 - agents cannot operate with total information. instead, they
   consciously and unconsciously find ways to hedge against complexity

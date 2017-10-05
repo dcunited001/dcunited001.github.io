@@ -477,6 +477,10 @@ system's complexity by amplifying information and making decisions
 based on perceived beliefs. The complexity of the system contributes
 to its own dynamics.
 
+<a name="non-linear-systems-convexity-and-concavity-antifragility-and-fragility" />
+
+### [Non-Linear Systems: Convexity and Concavity, Antifragility and Fragility](#non-linear-systems-convexity-and-concavity-antifragility-and-fragility)
+
 When your system is convoluted, infinitely dimensional and non-linear,
 it reacts with an incomprehensible set of dynamics that are impossible
 to differentiate and dilineate. There are critical categories of
@@ -485,8 +489,25 @@ for these groups of metrics, there are boundaries. Stay in the
 boundary, the system is more stable. Move outside of a cluster's
 boundary region, the system will begin to transition chaotically. If
 you're lucky, it will do so with some degree of predictability.
-(Transitioning) into and out of these boundaries can describe a phase
+Transitioning into and out of these boundaries can describe a phase
 change, though these are phases composed of phase metatypes.
+
+Non-linear systems can be more succinctly described in terms of
+transitions between concave and convex regions. Depending on their
+current values, systems exhibit degrees of fragility and
+antifragility. These concepts have been studied at length by
+[Nassim Taleb](https://www.youtube.com/watch?v=S3REdLZ8Xis&t=4s), an
+author I just discovered and can't recommend enough. Fragile regions
+are more likely to move away from local minima or maxima, whereas
+antifragile regions exhibit robust systems of feedback loops to
+stabalize the system, some emerging from agents who prefer a simpler,
+more stable system. The more anti-fragile the system is, the more
+likely it is to gain value from disorder. In high dimensional spaces,
+both the kinds of concavity and convexity and the kinds of minima and
+maxima exhibit many more facets of variation than can be seen in
+linear systems of two or more variables.
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/YhwEmS3-tf8" frameborder="0" allowfullscreen></iframe>
 
 Imagine a group of metrics including information velocity and social
 graph connectedness as forming a category. As long as the velocity nor
