@@ -656,6 +656,8 @@ you're S.O.L. cuz you don't have enough explosions.
     those he was in care of.
   - since it was secret to mostly everyone, the toxicology report
     comes as a major surprise.
+- {after getting surreptitiously medicated, i am almost certain. it
+  was something that was not }
 
 ### How to Convey (future) Loss Without Words
 

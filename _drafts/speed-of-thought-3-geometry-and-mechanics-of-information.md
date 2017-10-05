@@ -35,6 +35,51 @@ excerpt: ""
   with access to broadcast mass communication led to cultural
   transformation
 
+- the utility of information to people as a resource
+  - why is information important to people?
+    - because it contains some amount of truth, sometimes larger or
+      smaller when compared to the size/scope of the datum
+    - but it is that truth that is what people care about. that bit of
+      truth makes the information valuable
+      - if you are constantly living in disinformation, everything
+        seems to become false and you become detached from any truth
+      - whoever has power can create what will be perceived as truth,
+        but everyone else must become subservient and hope that they
+        understand the truth in the information being pushed to them
+        - so, for the sake power, the powerful can seek to create this
+          disinformation to distance themself from the common person's
+          understanding. this can be justified bc some
+          information/truth can be dangerous.
+        - ...
+  - information with a minimal amount of truth, maximal disinformation
+
+- information as territory in information warfare
+  - history is written by the victors, which is an example of being
+    able to declare information as territory by pushing it out to
+    networks of people, who shape their reality around it.
+  - you want that history, that truth or that knowledge that they
+    shape their reality around to be:
+    - (...)
+  - but in the 21st century, as the rate of information exchange
+    accelerates & society converges around information, then
+    establishing the proper narratives for your nation/culture/history
+    become increasingly important.
+    - in the latter 20th century, war became increasingly difficult to
+      fight. the largest powers, the US and Russia held each other
+      back through deterrence.
+      - as the networks of mass media hardware were built out for
+        people to consume more information in increasingly vivid
+        detail, (...)
+    - with some potential exceptions, this trend will continue, where
+      deterrence encourages conflict to shift from military means to
+      economic and informational means.
+      - so, the narratives established become everything
+        - again, barring some potential exceptions...
+      - however, if you can't have total control over the diffusion of
+        narratives, beliefs and information (i.e. if you can't totally
+        destroy the information you don't like) then you should want
+        to build on top of a positive story.
+
 # Information Physics
 
 - information physics: does it merit its own "thing" ?

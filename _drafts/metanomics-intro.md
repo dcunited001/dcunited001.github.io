@@ -327,7 +327,6 @@ presence or absence of a particular molecule in a variably sized space
   - identify micro/macro patterns of oscillation characteristic to the
     spatial distribution of receptors for various genotypes
 
-
 - (2) use these generated receptor distribution profiles specific to each
   patient, to infer generalized receptor distribution models.
   - per genotype combination
@@ -338,7 +337,23 @@ presence or absence of a particular molecule in a variably sized space
   - these general and specific models can be cyclicly refined, `et ad
     nauseum`
 
-- (3) finally, these general & specific receptor-distribution models
+- (3) {This was the "missing" post it note, which i found in a
+  screenshot on twitter}
+  - some mental disorders could be caused by variations in G-Coupled
+    Protein Receptor State
+  - these and other large macromolecules should give off
+    characteristic resonance patters in conj w/ NMR/MRI
+    - {this is impossible. however, another methodology may allow
+      insight into measuring g-coupled protein state w/ PET/fMRI in
+      the brains of people with specific mental illness to identify
+      neurological phenotypes or subtypes of those illnesses}
+    - the point is to identify macroscopic, detectible indication of
+      State/Quantity of these G-Coupled protein receptors.
+      - so that the interaction of psychiatric medications with
+        neuropharmocological subtypes of mental illness can be better
+        understood
+
+- (4) finally, these general & specific receptor-distribution models
   could be used in conjunction w/ patient-specific brain tissue &
   arterial network models to predict psychiatric drug response
   - accounting for environment-specific epigenetic variation

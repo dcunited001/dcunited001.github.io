@@ -430,6 +430,23 @@ reinforce
       materials, pattern languages and obsession over "disconnection"
       *THIS IS DISCONNECTION*, by the way.
 
+### When targets are muted and/or isolated, adversaries have major advantages in amplifying information (to establish it as a baseline)
+
+- if you are isolated for months, ...
+  - if you are muted and other people can't talk about you or your
+    life events, it means that adversaries can project & amplify their
+    own signal in neighborhoods of your social network
+  - their narrative becomes dominant and you will always be reacting
+    to it (...)
+    - the signal of your personal account will always be (nearly
+      insignificant) if some group of people can actually pull this
+      off
+    - if a group of people did this to you, you can be sure that they
+      will listen for & react to your diminished signal, while
+      continuing to amplify their own and walling you into a very
+      small set of social connections
+      - you won't be able to expand (...)
+
 # (Implications of (your perspective on) Social Physics, Networks and Information Dynamics)
 
 - possibly remove

@@ -631,7 +631,13 @@ googling "a look into the mysterious and lethal illness"
 
 # medical ideas
 
-## Blog on the Myopia of Modern Medicene
+- discretization & delineation of anatomical space
+  - {interpreting as: functional spaces mapped into the tissue
+    networks of organs (e.g. the distance from nearest capillary,
+    along with a means of "indexing" the capillary networks)}
+  - 
+
+### Blog on the Myopia of Modern Medicene
 
 - (from 2014 ... not so great really)
 - comparing where we are to where we need to be
@@ -648,7 +654,13 @@ googling "a look into the mysterious and lethal illness"
 ### CRISPR delivery of huntington gene snippet or downregulation
 
 
-###
+### DNA-based biological audio/data recording device
+
+- smuggle data encapsulated in blood, in random order
+  - can be retrieved and reconstituted later w/ imperfect set of data
+  - {i kinda got this from a dream that I already wrote about where I
+    got attacked by a drug lord with a drill}
+
 
 
 ### forensic genomics

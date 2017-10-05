@@ -57,7 +57,7 @@ spatially distributed state in the nucleus
 
 #### Diffusion Tensor Imaging and Tissue Maps
 
-metanomics and probabilistic programming
+- metanomics and probabilistic programming
 - mapping out tissue networks in the human body using MRI (diffusion
   tensor imaging) + Yoga.
   - need to be able to map various spaces together
@@ -109,8 +109,16 @@ metanomics and probabilistic programming
 
 ### Methodology & Data Analysis for More Proficient MRI
 
-many ways to increase proficiency for interpolating & extrapolating
-from MRI data.
+- many ways to increase proficiency for interpolating & extrapolating
+  from MRI data. {like... ? was there somethign else here?}
+
+#### 3D Morphology for pre/processing MRI DATA
+
+- pre/process MRI data using morphology, making inferences to
+  interpolate data, so that higher resolution can be acheived
+  - {however, NMR/MRI data occurs in slices, but i'm almost certain
+    I've seen this technique used somewhere since}
+- 
 
 overview of ideas/methods:
 
