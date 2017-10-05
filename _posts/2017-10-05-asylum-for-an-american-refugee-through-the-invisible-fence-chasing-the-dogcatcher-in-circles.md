@@ -1,8 +1,8 @@
 ---
-title: "Asylum for an American Refugee"
+title: "Asylum for an American Refugee: Through the Invisible Fence, Chasing the Dogcatcher In Circles"
 categories: "blog"
 tags: ""
-headline: ""
+headline: "To Grandmother's House We Go..."
 author:
   name: "David Conner"
 excerpt: ""
