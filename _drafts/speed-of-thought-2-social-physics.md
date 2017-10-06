@@ -16,6 +16,16 @@ excerpt: ""
   - in overwatch & other FPS you can't hear the other team signaling,
     but if they leverage team communication well, they can anticipate
     your movements in a way that doesn't expose information to you
+  - sign language and pattern language provide a basis for
+    communication that is similar to this. the people around you won't
+    pick up on it, unless they are trained to do so. if they do pick
+    up on languages like this and they aren't supposed to, this alerts
+    the illuminati police.
+
+- dissonance that emerges when adversarial networks try to signal
+  using the same semiotic signifiers w/ different pattern languages
+  (see draft on ephemeral nature of language to understand adversarial
+  design of language and signaling)
 
 - [Calculating the configurational entropy of a landscape mosaic](https://www.fs.fed.us/rm/pubs_journals/2016/rmrs_2016_cushman_s001.pdf)
 
@@ -49,7 +59,7 @@ excerpt: ""
 <iframe width="560" height="315" src="https://www.youtube.com/embed/QBGaO89cBMI" frameborder="0" allowfullscreen></iframe>
 
 - there are some things ancient people understood more clearly than we
-  do today. 
+  do today.
 
 
 ### [Marathon and Thermopylae](#marathon-and-thermopylae)
@@ -141,26 +151,89 @@ helped expand those networks.
 
 ### North Korea as a global minimum of connectivity
 
-- how this leads to poor decisions by the leadership and reduces their
-  economic competitiveness
-  - if you look at the social graph, the 2-degree neighborhoods of
-    north korean citizens have fewer international connections than
-    any other country.
-    - how can you compete in the global economy if your regime
-      prohibits communiction with the outside?
-    - how can you export products if your citizens cannot freely
-      establish relationships with people and businesses in other
-      countries? in spite of UN sanctions, the regime really shoots
-      their potential development of exports (in the foot)
-    - in a digital economy, products are informational. NK citizens
-      simply can't be consumers or producers of content. AFAIK, they
-      aren't allowed to have radios because NK paranoia is stuck with
-      the 1960's soviet mindset of information control.
-      - no hardware for internet, no media creation tools, no content
-        production, no culture export, no connections developed,
-        interactions are discouraged.
+North Korea is an example of a global minimum of connectivity. A major
+concave depression in sociophysical graphs. This leads to restricted
+economic growth and almost total disconnection of the populace from
+the outside. Both of those lead to poor decisions by the North Korean
+leadership. They are so disconnected from the rest of the world,
+coupled with internal policy to ruthlessly quash all information
+contradicting state policy, that their upper leadership isn't allowed
+to question the highest leadership.
+
+If the range of 2&deg; neighborhoods of North Korean citizens is
+compared against other nations, you'll find that it is incredibly
+limited when compared to similarly sized populations. Proportional to
+their population, they might be the *most socially-restricted nation
+on earth*, which is unbelievably depressing. How can you compete in
+the global economy if your regime prohibits communication with the
+outside and punishes dissidents with three generations of family
+persecution? How can you export products if your citizens cannot
+freely establish relationships with people and businesses in other
+countries? Some of the fault here lies with NK and some of it lies
+with sanctions, but your nation is pursuing nuclear weapon development
+and its belligerent PR stunts show no remorse for this goal. In spite
+of UN sanctions, the regime undermines its own potential development
+of exports and economic competitiveness. You are missing out on the
+greatest period of human development because you're stewing over
+something that happened four generations ago.
+
+The future of the world lies in the information economy and
+information warfare. What matters now is sociohierarchical territory
+and informational territory. How can you ever expect to compete in the
+information economy with completely restricted access to the internet
+and near-zero consumer adoption of internet-capable devices? You
+can't, which begs the question: who is informing your leadership's
+long-term strategies? In a digital economy, products are
+informational. NK citizens simply can't be consumers or producers of
+content. AFAIK, NK citizens aren't even allowed to have radios because
+NK paranoia is stuck in the 1960's soviet mindset of information
+control.
+
+All communist revolutions expect such paranoia *and they use it!* Even
+for those non-Marxist revolutions -- viz. all revolutions with
+significant turnover of control -- the leadership expects that the
+employment of pre-revolutionary subversion to gain sociohierarchical
+territory involves dirty tricks with disgusting karma. So, they plan
+on using it. But, in trying to undermine any possibility of dissent --
+and by being disconnected from the world with poor strategy being
+supplied from the largests connections outside -- North Korea has left
+itself in a position, where there is zero consumer adoption for
+hardware, which is necessary for economic expansion. It's total
+paranoia of imperialism has left itself deprived of any economic
+opportunity, even if it does pull off being a pawn for initiating
+nuclear war. North Korea needs to come to the negotiation table and we
+need to sort this out. The first thing that must happen is total
+nuclear disarmament and the rest of the world is infuriated that NK
+leadership expected to use nuclear weapons as bargaining chips.
+
+It's strategy has no endgame, other than becoming an international
+school shooter. Since the 1980's, this strategy has left No hardware
+platform for internet, no participation in the information economy, no
+media creation tools, no training or education on those tools, no
+content production, no culture export, no connections developed and
+interactions with the outside are discouraged. How did the North
+Korean leadership miss this? Because they artificially dampen all
+signal that could be perceived as dissent, wavering, or retreat. This
+enables the prolonged development of silent risk and massive tail
+risk, as Nassim Tebar would probably put it. NK is actually far-left
+with components of far-right ideology.
 
 ### America and Europe as a connectivity maximum today
+
+America, Europe and the West form the connectivity maximum of the
+world. This gives us diversity and some challenges related to
+multiculturalism. However, those issues must be overcome eventually
+and we did so early. Further, our populations are inundated in the
+understanding cultural minutia by encouraging connection to peoples of
+all ethnicity and culture. This starkly departs from the traditional
+wisdom in the Art of War, but results in perhaps the greatest
+advantage that we have. Why? The world is one and always has been
+one. We must overcome these issues at some point and we have, which
+has also made America and Europe and other highly connected
+non-Western regions connectivity maximums. This fuels our platform for
+economic growth.
+
+- other advantages of permeability?
 
 - what kind of advantage does permeability and connectivity give us?
   why can this also be a vulnerability?

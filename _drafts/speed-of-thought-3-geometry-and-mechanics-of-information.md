@@ -247,9 +247,9 @@ In subsequent entries in this series, I'll discuss how social media
 newsfeed algorithms have vulnerabilities and flaws that increase
 division in America. In particular, clustering algorithms and others
 have runaway feedback loops that have a runaway affect that *DIVIDES
-AMERICA*.  These algorithms are difficult to design, tweak and
-validate in the first place, but there are major problems here, as far
-as I can see.
+AMERICA*. These algorithms are difficult to design, tweak and validate
+in the first place, but there are major problems here, as far as I can
+see.
 
 
 
@@ -1076,7 +1076,7 @@ identity and culture which will otherwise be completely lost.
 
 
 - monad proxy as root. the all is the one, the one is the all.
-
+  
 
 
 
