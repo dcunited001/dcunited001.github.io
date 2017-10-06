@@ -14,8 +14,8 @@ excerpt: ""
 - simplifying conceptualization of social physics by observing voice
   communication in video games.
   - in overwatch & other FPS you can't hear the other team signaling,
-    but if they leverage that, they can anticipate your movements in a
-    way that doesn't expose information to you
+    but if they leverage team communication well, they can anticipate
+    your movements in a way that doesn't expose information to you
 
 - [Calculating the configurational entropy of a landscape mosaic](https://www.fs.fed.us/rm/pubs_journals/2016/rmrs_2016_cushman_s001.pdf)
 
@@ -40,6 +40,7 @@ excerpt: ""
   non-deterministic, can the perpetuation of information (written or
   otherwise) be guarenteed?
   - what level of information is required?
+  - how could such a thing be guaranteed in a probabilistic system?
 
 - meaning of "the salt of the earth" in the same chapter.
 
@@ -48,7 +49,7 @@ excerpt: ""
 <iframe width="560" height="315" src="https://www.youtube.com/embed/QBGaO89cBMI" frameborder="0" allowfullscreen></iframe>
 
 - there are some things ancient people understood more clearly than we
-  do today.
+  do today. 
 
 
 ### [Marathon and Thermopylae](#marathon-and-thermopylae)
@@ -164,6 +165,87 @@ helped expand those networks.
 - what kind of advantage does permeability and connectivity give us?
   why can this also be a vulnerability?
   - what are advantages/vulnerabilities of diversity?
+
+### Vulnerabilities Inherent in Antifragile Design Patterns
+
+- there is a tendency to mute any nodes that stand out as distinct or
+  different, which dampens any signals they produce
+  - if those signals were not dampened, they could have indicated
+    systemic problems that your system could react to earlier
+- these kinds of problems are exacerbated when branches of the system
+  act in total secrecy and especially when the lower branches of
+  hierarchy is shielded from most information
+  - (...) the lower branches are privy to the how, but not the
+    why. this makes it difficult to react to novel types of situations
+    and harder for lower branches to react to black swan events.
+    - if the lower branches are shielded from information that would
+      allow them to distinguish a black swan event, since they aren't
+      allowed to access (all of the system for classifying events),
+      then they can't properly react to it and can instead be led to
+      act against themselves.
+
+- the system encourages itself ...
+  - misinformation about threats is amplified by branches of the
+    system in attempts to cull out threats from the herd, so they are
+    alone and vulnerable
+    - however, since this misinformation is MISINFORMATION, the system
+      deceives itself and the true signal is lost.
+  - further, disconnected nodes cannot easily project signal outside
+    of their local two degree social neighborhood, so the system as a
+    whole lacks awareness of that signal.
+
+- antifragile system design is necessary for our world today
+  - there are two things we should fear above all else: nihilism and
+    ourselves. antifragile design principles are excellent for solving
+    the latter problem, but make no advances in protecting us the
+    first.
+  - the ultimate systemic flaw of antifragile systems is that they
+    rely on instilling a sense of purpose among the nodes carrying out
+    action to protect order in system from the chaos of itself.
+    - demoralization -- especially that resulting from loss of
+      connection to our humanity or our individuality or from
+      significant loss of prosperity used to fuel incentivization
+      structures -- this can totally undermine antifragile systems.
+
+  - people don't mind playing games that they will lose, even if they
+    know they are probably going to lose, as long as they know the
+    game is fair. so, when you have a small segment of the population
+    creating technocracy architected with antifragile design
+    principles and they rig the system with surveillance, extortion,
+    etc. to play the lower rungs of society against each other, how do
+    you think people will react to the sudden realization that the
+    game is not fair? how do you think people will react when they
+    understand that the game does not end well for the common person?
+    - do you think that will result in more effective incentivization
+      structures or less? do you think that will result in more
+      effective sociocultural evolutionary mechanisms that tend to
+      increase regional productivity and prosperity?
+    - if your system's design produces monoculture and unintentionally
+      roots out anything that seems different simply because it might
+      be a dangerous black swan, it will eventually lose out to
+      another system whose evolutionary mechanisms enable innovation
+      and enable people to empower themselves.
+  - what matters now more than anything is instilling a system of
+    values that never changes, but is always flexible. any rigidly
+    fixed system of values in today's world is going to lead to
+    disaster. however, having no grounding in some eternal truth is
+    equally dangerous.
+    - in order for our system to serve the people, it must demonstrate
+      the value of its authority and the right to that authority.
+      - if it cannot do that, (...)
+    - now more than ever, people need sociocultural systems that give
+      us a individual and shared sense of purpose (...)
+      -
+
+- abuse of antifragile design applied to sociophysical systems
+  - iatrogenic treatment. exorbitant budgets for "national security"
+    threats.
+    - what was originally meant for national security has turned in to
+      self-serving racketeering.
+  - sociophysical containment of threats.
+  - when social hierarchy is viewed as territory to be conquered,
+    defended and given to some as a reward for subservience, then this
+    exacerbates the tendency for racketeering
 
 # (Social Physics Overview)
 
