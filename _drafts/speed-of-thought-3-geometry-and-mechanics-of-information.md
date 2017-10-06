@@ -253,7 +253,6 @@ see.
 
 
 
-
 # "Traits" of information
 
 - need a better name to identify this category

@@ -149,16 +149,18 @@ and 3rd degree networks, which conferred major advantages. Those with
 wealth could finance transport and delegate action, which further
 helped expand those networks.
 
-### North Korea as a global minimum of connectivity
+<a name="north-korea-as-a-global-minimum-of-connectivity" />
 
-North Korea is an example of a global minimum of connectivity. A major
-concave depression in sociophysical graphs. This leads to restricted
-economic growth and almost total disconnection of the populace from
-the outside. Both of those lead to poor decisions by the North Korean
-leadership. They are so disconnected from the rest of the world,
-coupled with internal policy to ruthlessly quash all information
-contradicting state policy, that their upper leadership isn't allowed
-to question the highest leadership.
+### [North Korea as a Global Minimum of Connectivity](#north-korea-as-a-global-minimum-of-connectivity)
+
+North Korea is an example of a major concave depression in
+sociophysical graphs. This leads to restricted economic growth and
+almost total disconnection of the populace from the outside. Both of
+those lead to poor decisions by the North Korean leadership. They are
+so disconnected from the rest of the world, coupled with internal
+policy to ruthlessly quash all information contradicting state policy,
+that their upper leadership isn't allowed to question the highest
+leadership.
 
 If the range of 2&deg; neighborhoods of North Korean citizens is
 compared against other nations, you'll find that it is incredibly
@@ -218,54 +220,126 @@ enables the prolonged development of silent risk and massive tail
 risk, as Nassim Tebar would probably put it. NK is actually far-left
 with components of far-right ideology.
 
-### America and Europe as a connectivity maximum today
+<a name="america-and-europe-as-a-modern-sociophysical-connectivity-maximum" />
+
+### [America and Europe as a Modern Sociophysical Connectivity Maximum](#america-and-europe-as-a-modern-sociophysical-connectivity-maximum)
 
 America, Europe and the West form the connectivity maximum of the
 world. This gives us diversity and some challenges related to
 multiculturalism. However, those issues must be overcome eventually
-and we did so early. Further, our populations are inundated in the
-understanding cultural minutia by encouraging connection to peoples of
-all ethnicity and culture. This starkly departs from the traditional
-wisdom in the Art of War, but results in perhaps the greatest
-advantage that we have. Why? The world is one and always has been
-one. We must overcome these issues at some point and we have, which
-has also made America and Europe and other highly connected
-non-Western regions connectivity maximums. This fuels our platform for
-economic growth.
+and we did so early. Further, our populations are inundated in
+collective understanding of even cultural minutia via the
+encouragement of connection to peoples of all ethnicity and
+culture. This starkly departs from the traditional wisdom in the Art
+of War where you insulate your culture from any external influence,
+yet in the modern world, it results in perhaps the greatest advantage
+that we have. Why? The world is one and always has been one. We must
+overcome these issues at some point and we have, which has also made
+America and Europe and other highly connected non-Western regions
+connectivity maximums. This fuels our platform for economic growth.
 
-- other advantages of permeability?
+Furthermore, we'll never find ourselves in an isolated fortress, which
+is
+[Law #18 of the 48 Laws of Power](https://48laws-of-power.blogspot.com/2011/05/law-18-do-not-build-fortresses-to.html). If
+we do not artificially silence this diversity of signal, we can remain
+apprised and aware of our nation and developments in the international
+world. Instead, it seems we artificially mute signals on the basis
+that they are different. Since people often become conditioned to fear
+that which they don't understand, it shrinks the needles in the
+haystack that are precious, distinct forms of information, which
+should clue us into developments we must react to. In highly
+permeable, tightly connected information environments, we are more
+likely to receive those signals, unless we enact policy to stimulate
+widespread fear over anything that might be different. There is some
+information that is dangerous, but we are throwing the baby out with
+the bathwater.
 
-- what kind of advantage does permeability and connectivity give us?
-  why can this also be a vulnerability?
-  - what are advantages/vulnerabilities of diversity?
 
-### Vulnerabilities Inherent in Antifragile Design Patterns
+# [Sociophysical Miasma and Iatragenic Interventions]()
 
-- there is a tendency to mute any nodes that stand out as distinct or
-  different, which dampens any signals they produce
-  - if those signals were not dampened, they could have indicated
-    systemic problems that your system could react to earlier
-- these kinds of problems are exacerbated when branches of the system
-  act in total secrecy and especially when the lower branches of
-  hierarchy is shielded from most information
-  - (...) the lower branches are privy to the how, but not the
-    why. this makes it difficult to react to novel types of situations
-    and harder for lower branches to react to black swan events.
-    - if the lower branches are shielded from information that would
-      allow them to distinguish a black swan event, since they aren't
-      allowed to access (all of the system for classifying events),
-      then they can't properly react to it and can instead be led to
-      act against themselves.
+There is a tendency to mute any nodes that stand out as distinct or
+different, which dampens any signals they produce. If those signals
+were not dampened, they could have indicated systemic problems that
+your system could react to earlier. When, for national security,
+people are surrounded with negative reality distortion fields -- which
+are essentially toxic fields of sociophysical miasma where targets are
+escorted by handlers nearly twenty-four seven -- the long-term
+strategy is to isolate the target from the rest of the flock by
+scaring them away. This is done by artificially amplifying false
+information, whatever it is, regardless of its truth, without ever
+giving the target a chance to react to the
+[iatrogenic](https://en.wikipedia.org/wiki/Iatrogenesis) interventions
+-- see [here](https://www.ncbi.nlm.nih.gov/pubmed/15847616),
+[here](http://www.tandfonline.com/doi/abs/10.1080/10683160600869809?journalCode=gpcl20)
+and [here](https://www.ncbi.nlm.nih.gov/pubmed/9230492). In order to
+avoid being seen as the blatantly unethical tragedies they are,
+research can be wrapped in particular language.
 
-- the system encourages itself ...
-  - misinformation about threats is amplified by branches of the
-    system in attempts to cull out threats from the herd, so they are
-    alone and vulnerable
-    - however, since this misinformation is MISINFORMATION, the system
-      deceives itself and the true signal is lost.
-  - further, disconnected nodes cannot easily project signal outside
-    of their local two degree social neighborhood, so the system as a
-    whole lacks awareness of that signal.
+However, encouraging the usage of these miasmic reality distortion
+fields causes the artificial amplification of false information. The
+people coordinating the targeting of these individuals begin to
+underestimate them, are encouraged to hate them and encouraged to
+rapidly spread this toxicity through our cities. Usually, the
+intervention is successful in encouraging isolating behavior or the
+development of personality disorders which push people away -- like a
+superiority complex, an inferiority complex, a persecution complex,
+etc. At this point, the target does the dirty work themselves and,
+almost always, no one is the wiser because it is incredibly difficult
+to see it for what it is.
+
+<a name="vulnerabilities-inherent-in-antifragile-design-patterns" />
+
+### [Vulnerabilities Inherent in Antifragile Design Patterns](#vulnerabilities-inherent-in-antifragile-design-patterns)
+
+These kinds of problems are exacerbated when branches of the system
+act in total secrecy -- especially when the lower branches of
+hierarchy is shielded from most information. This is because there is
+zero opportunity for dissent and the lower "hands" or "fingers"
+leverage their own networks, which increasingly less operational
+information. If the boots on the ground knew what they were doing and
+why, that it could not be justified and that they were covering up the
+mistakes of higher ups, simply to protect the ego's and empires of a
+handful of powerful people, *they would never engage the target*. This
+is why a target must act innocently and naively because only by
+engaging the target, intending the infliction of harm, can the HUMINT
+resources begin to question their actions.
+
+Further, the lower branches are privy to the how of operational
+details, but not the why. This makes it difficult to react to novel
+types of situations and harder for lower branches to react to black
+swan events. Since they aren't allowed to understand all the details
+for classying events and people, they tend to destroy everything they
+can't comprehend that *might* be a threat. Further still, they can't
+properly react to these situations and targets. They can also be lead
+to act against themselves. It might be said that a society that
+targets itself in this way is *always* attacking itself like sepsis or
+some other kind of autoimmune disorder out of control.
+
+Because everything is shrouded in secrecy, the system is autonomous &
+self-perpetuating. It must be decentralized, so then, when these
+people approach you with a "deal" they are lying -- they couldn't stop
+this stuff if they wanted to because it's a chaotic sociophysical
+program out of control. It's extortion and they plan on using you as
+enforcement without pay. They react in a decentralized manner to
+produce and amplify misinformation, but in the best case, that is
+exactly what it is -- MISINFORMATION! In the worst case, they are
+justifying their persecutory witchhunt based on disinformation.
+
+Do you think the people recording a file on these targets write down
+the facts? Do you think they would keep records that would cause their
+own actions to appear unjust? No. And further, there are people
+towards the higher levels of hierarchy who get paid or remunerated in
+some non-financial way to perpetuate this. So: more targets? More
+money, more benefits, more reward. The more sociohierarchical
+territory they capture, the more influence they have. At this point,
+one to three percent of our population with secret clearance or higher
+is operating out of control for their own benefit, never giving
+AMERICAN targets a chance to know what is going on. Because if they
+stopped doing what leads them to being targeted, then how could the
+vindictive players on team sociopathy keep using targets for their own
+influence?
+
+### [Antifragile System Design is Necessary to Save Our World, But...](#antifragile-system-design-is-necessary-to-save-our-world)
 
 - antifragile system design is necessary for our world today
   - there are two things we should fear above all else: nihilism and
@@ -279,6 +353,9 @@ economic growth.
       connection to our humanity or our individuality or from
       significant loss of prosperity used to fuel incentivization
       structures -- this can totally undermine antifragile systems.
+  - further, disconnected nodes cannot easily project signal outside
+    of their local two degree social neighborhood, so the system as a
+    whole lacks awareness of that signal.
 
   - people don't mind playing games that they will lose, even if they
     know they are probably going to lose, as long as they know the
