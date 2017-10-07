@@ -34,6 +34,15 @@ excerpt: ""
 
 #### [Despite the Danger of Dangers, Authority MUST Be Grounded In Truth](#despite-the-danger-of-dangers-authority-must-be-grounded-in-truth)
 
+#### [Just Like With Cosa Nostra, Your Sin Becomes Your Vice, Violating Intent of Moral Systems](#just-like-with-cosa-nostra-your-sin-becomes-your-vice-violating-intent-of-moral-systems)
+
+## [Occupational Therapy: Iatrogenic Medical Treatment Should Never Be A Weapon of Antifragile System Control](#occupational-therapy-iatrogenic-medical-treatment-should-never-be-a-weapon-of-antifragile-system-control)
+
+#### ["An Eye For An Eye Makes The Whole World Go Blind" - Ghandi](#an-eye-for-an-eye-makes-the-whole-world-go-blind)
+
+#### [Stand Down, Bolsheviks, You Will Not Threaten Prosperity](#stand-down-bolsheviks-you-will-not-threaten-prosperity)
+
+#### [Free @dcunit3d](#free-dcunit3d)
 
 
 (describe this as an indictment of *some* antifragile systems...)
@@ -261,9 +270,11 @@ its authority and the right to that authority. It must be able to do
 so in a clear, transparent way otherwise the rule of law will
 certainly be undermined. Respect for authority will fade away and
 those who plan on replacing the authority with that which is
-functionally identitical will egg this on.
+functionally identitical will egg this on: to gain power.
 
-### A 
+<a name="just-like-with-cosa-nostra-your-sin-becomes-your-vice-violating-intent-of-moral-systems" />
+
+### [Just Like With Cosa Nostra, Your Sin Becomes Your Vice, Violating Intent of Moral Systems](#just-like-with-cosa-nostra-your-sin-becomes-your-vice-violating-intent-of-moral-systems)
 
 Now more than ever, people need sociocultural systems that give us an
 individual and shared sense of purpose. Without a system such as this,
@@ -277,14 +288,90 @@ secret, they cannot be so easily questioned. If they become infected
 by the same aspects of humanity they are supposed to guard us against,
 they cannot justify their authority. And thus, such systems would not
 serve us, but serve the vices and lust for power of those who command
-them.
+them, who lure you into temptation that they might control you with
+your sin. Does this produce positive transformation in society?
 
-- abuse of antifragile design applied to sociophysical systems
-  - iatrogenic treatment. exorbitant budgets for "national security"
-    threats.
-    - what was originally meant for national security has turned in to
-      self-serving racketeering.
-  - sociophysical containment of threats.
-  - when social hierarchy is viewed as territory to be conquered,
-    defended and given to some as a reward for subservience, then this
-    exacerbates the tendency for racketeering
+# [Occupational Therapy: Iatrogenic Medical Treatment Should Never Be A Weapon of Antifragile System Control](#occupational-therapy-iatrogenic-medical-treatment-should-never-be-a-weapon-of-antifragile-system-control)
+
+Occupy Small Business?! Abuse of antifragile design applied to
+sociophysical systems is psychological warfare with catastrophic
+mental health casualties. Who are these casualties? Your mother, your
+brother, your old friend who grew up down the street, your coffee
+barista, your coworker who stood up for you, and your boss who tried
+to stop threats to business assets like refrigerators or air
+compressors. When did any of these people flash a badge?
+
+Obviously, the debate over free health care shouldn't be front and
+center here. However...
+
+#### Jimmy Got Free (Iatrogenic) Health Care
+
+![Jimmy got Free Health Care](/img/posts/2017-10-06-fatal-flaws-of-antifragile-system-design-patterns/jimmy-southpark-torture.jpg)
+
+What was originally meant for national security has turned in to
+self-serving racketeering. Tactics for psychological warfare include
+sociophysical containment of perceived threats with by locking them in
+your car(e). Read Psalm 46:9 -- "He maketh wars to cease unto the end
+of the earth; he breaketh the bow, and cutteth the spear in sunder; he
+burneth the chariot in the fire." When social hierarchy is viewed as
+territory to be conquered, defended and given to some as a reward for
+subservience, then this exacerbates the tendency for racketeering,
+especially for movements like the remnants of Occupy Wall Street. If
+they oversell a "national security" threat to their management, they
+get larger budgets to further drive this
+[Sepsis](https://en.wikipedia.org/wiki/Sepsis), where the immune
+system invades the bloodstream and attacks all the organs.
+
+<a name="an-eye-for-an-eye-makes-the-whole-world-go-blind" />
+
+### ["An Eye For An Eye Makes The Whole World Go Blind" - Ghandi](#an-eye-for-an-eye-makes-the-whole-world-go-blind)
+
+It pays to learn about history. I have had little time to do anything
+else. There is rampant
+[Zersetzung](https://en.wikipedia.org/wiki/Zersetzung) in this country
+and it is coming from the far left, who subsumed many of the programs
+initiated by Bush to leverage them against the American people. They
+knew that the conservatives could be threatened with the comorbid
+culpability of programs that Republicans initially started.
+
+<a name="stand-down-bolsheviks-you-will-not-threaten-prosperity" />
+
+### [Stand Down, Bolsheviks, You Will Not Threaten Prosperity](#stand-down-bolsheviks-you-will-not-threaten-prosperity)
+
+However, radical leftists have used this assumption as carte blanche
+to take things way to far!  Worse, they are destroying the country
+with their Bolshevik tactics. Worst of all, these
+[Saul-Alinsky-type](https://en.wikipedia.org/wiki/Saul_Alinsky)
+radical communists fuel their utilitarian tactics with cognizance of
+the FACT that communism implicitly undermines the US Dollar as the
+world's reserve currency. The worst of the far-far-left *does*
+understand that they cannot deliver on what they promise. They know
+that they are selling their strategies and their promises of
+government services to the moderate left, who the Alinsky's plan on
+using to undermine the international financial order. That means RUIN
+for America, NOT an end to poverty.
+
+Over the past twenty years, there has been major sociopolitical
+churn. One side slowly gains control at the expense of the other side,
+only to blow its advantage by enacting hard-headed reforms. These
+aren't the reforms we need. Instead, this is how the twin party system
+works. They advance a shared set of interests, harnessing
+sociopolitcal churn from one side to another, to acheive ever-forward
+progress towards their agenda of deconstructed policy objectives. For
+example: the War on Drugs prepared us for totalitarianism and
+draconian policies like narcs. These same policy components have
+become the basis and precendent for widespread surveillance and the
+tactics of Homeland Security. Each side advances these with
+sociopolitical churn, little by little, and they never recede. The
+attainment of these deconstructed objectives is very important because
+otherwise we may have never been prepared for the 21st century.
+
+<a name="free-dcunit3d" />
+
+### [Free @dcunit3d](#free-dcunit3d)
+
+However, the government is now out of control. Instead, we should come
+together and unite Washington DC for the steady and unending
+advancement of all Americans. The unending churn is wasted
+opportunity. We must unite now and we cannot continue attacking
+ourselves.
