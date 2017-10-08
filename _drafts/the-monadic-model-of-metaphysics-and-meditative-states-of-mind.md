@@ -1,17 +1,177 @@
 ---
 title: "The Monadic Model of Metaphysics & Meditative States of Mind"
+categories: "blog"
+tags: "semiotics linguistics social-physics"
+headline: ""
+author:
+  name: "David Conner"
+excerpt: ""
 ---
 
-### Pythagoras' and Leibnitz's Concept of the Monad
+# Do We All Have Buddha Nature?
 
-- greek system of metaphysics (monad, dyad, triad, etc. ) where the
-  monad infinitely recurses outward
-  - this means that everything can be modeled in metaphysics, but
-    utilizing "the monad" in a way similar to that of monads and
-    monoids from category theory
-  - leibnitz developed his own similar understanding of the monad
+Of course. Don't we all exist within the same dream? Aren't we all
+one, as well as our thoughts? What is truly separated? What is truly
+the boundary between you and I? Where does separation begin? Where
+does it originate? Where does the concept of dependent origination
+originate?
 
-### Meditative states of mind encourage experience of consciousness with diminished conceptual designation
+We all have Buddha nature: all sentient beings. Not to probe too far
+into Buddhism, but what is sentience or awareness anyways? I truly
+believe that any chaotic system, with perhaps some constraints,
+produces awareness. Given a degree of antifragility, entities or
+organizations within the chaotic system produce increasingly higher
+strata of information representation, leading eventually to life,
+awareness and sentience.
+
+This leads to interesting questions about the definition of life:
+there are other non-corporeal chaotic frameworks within our own
+material realm that exist alongside the framework of organic matter
+that has produced life. So, organic matter and life itself emerged
+from the chaotic system provided by molecular dynamics. This awareness
+eventually produced consciousness and these have provided a basis for
+sociophysical chaotic systems with their own antifragile mechanics and
+evolutionary dynamics. If the first premise is true, that all chaotic
+systems yield awareness and life, and the second premise also holds,
+that biological chaotic systems yield increasingly complicated
+systems, then what are those information forms which manifest on top
+of higher chaotic frameowrks, like sociophysical systems? Are these
+information forms also life?
+
+However, if you have a conception of metaphysics which emerges from
+the ideal instead of the material, then those forms that emerge should
+cohere to certain archetypical forms. If you accept platonic realism
+and accept that these metaphysical forms exist a priori -- which I
+believe they do -- then doesn't everything that could occur preexist
+within some totality? This totality has had many names through history
+-- Abraxus is one of them. However, these information life forms that
+emerge in higher organizations of chaotic systems must map to some
+organization of archetypes -- they exist as manisfestations of the
+composition of archetypes and metatypes.
+
+In this interpretation of metaphysics, non-corporeal entities could be
+aware -- they perhaps exist in the minds or brains of many sentient
+life simultaneously. This parallels the definition of an egrigore,
+which is a non-corporeal entity that emerges to have real physical
+effects from the beliefs of a group. Whether such an egrigore is
+sentient is a question more difficult to answer.
+
+Yet, if we are all truly one because, when traced back, we share
+common causal origination, then isn't the notion of seperateness an
+illusion altogether? And if we are all convergent again, isn't the
+notion of separation simply a temporary illusion?
+
+### (Bodhicitta X Will To Power)
+
+What does it mean to want something? Is desire so bad? If there is
+something truly good in our world, shouldn't we want it badly? If it
+is truly good to want, it must be good for all to desire this thing. I
+have been isolated for so long, but one thing I never gave up on was
+desiring my own salvation from suffering. I wanted to free myself by
+learning everything I could. I believed that knowledge gave me power
+over my circumstance and the tools I needed to free others: from
+sickness, from closemindedness, from lack of compassion, from their
+suffering. I never stopped wanting this badly. I wanted to do
+something great: to discover the cure to cancer or some wondrous thing
+that would ease the scope and degree of problems that we all
+encounter.
+
+Especially as the world has continued to clamp its walls down around
+me, this only further fueled my desire to save others. I thought -- if
+I only had money, I could buy the influence I need to fix the
+political problems I see. This is the only reason I ever really wanted
+money. I do not care for fame or status. However, that's selfish isn't
+it? Why does it matter who saves us?
+
+What we all have is power over our local circumstance. The truth is
+that we all eminate sociophysical energy. It begins with us and it is
+channelled by our beliefs and knowledge. But this sociophysical energy
+-- the capacity to influence our surroundings, the status of others
+and the beliefs of others -- this springs from all individuals. We
+choose to empower who we do, but we can be deceived into forming
+beliefs that channel this sociophysical energy improperly.
+
+We can also magnify the energy we emanate through desire. Not any kind
+of desire, but a special kind of desire -- bodhicitta. The desire to
+free others, specifically the desire for all other beings to attain
+Buddhahood -- to know, find and embrace their Buddha nature. What if
+this notion of bodhicitta is combined with Nietzsche's idea of will to
+power? We can magnify our capacity to eliminate the suffering of
+others by magnifying our cultivation of bodhicitta. We then channel
+this through awareness, knowledge and beliefs to impact our world in
+meaningful ways.
+
+#### (Bodhicitta X Will To Power) => Spirit Bomb
+
+![Bodhicitta X Will To Power]()
+
+# Pythagoras' and Leibnitz's Concept of the Monad
+
+The model of metaphysics mentioned above has many names and aspects:
+platonic realism, dialectical idealism, and others. If one wants to
+model it mathematically, the metaphysical forms can be combinatorially
+enumerated, but they are infinite. The Pythagoreans studied this and
+developed their monadic conceptualization of metaphysics: the monad,
+dyad, triad, and quadrad. This ends with infinite recursion: any form
+modeled with monads must eventually depend on a monad proxy, yielding
+recursion infinitely outwards ... or inwards. Leibniz developed an
+understanding of the monad.
+
+![Ergo Proxy]()
+
+This implies that everything metaphysical can be modeled
+mathematically and, by using specific mathematic tools, exists a
+priori. Everything that could exist in this universe existed as a
+conceiveable, but infinite form before the material realm existed. The
+most infinite or irrational conceptualization in numbers is phi, which
+is the most basic continuous fraction. There is much to be
+demonstrated to link these two concepts of monadic metaphysics and phi
+-- still, even in the metaphysical realm, the forms display the
+signature of the golden ratio.
+
+![]()
+
+Dialectical materialism and other understandings of metaphysics that
+depend on the material lend themselves to justifying ideology
+convenient for power and control. Western philosophy started with
+Plato's conception of idealistic forms and this was immediately
+reconciled by Aristotle's Metaphysics. Ever since then, the truth of
+thought and everything that can be understood in life has been
+overlayed by a materialistic understanding of the world, at least in
+the West. These provide the philosophic basis for convenient
+justifications of mechanisms of control, based on attainment of
+wealth, power or status. This same struggle between materialism and
+idealism has played out across the world, over and over again.
+
+It blinds us from the truth and implies that what matters is only what
+we can see, feel and taste. Materialistic conceptions of metaphysics
+imply that all that matters is what can be attained because,
+metaphysically, it is all distinct and any shared conception of form
+distributed among objects is incidental to our experience. This
+conception of metaphysics is false. The power of philosophy is immense
+and it is difficult to see how elements of some philosophy can be
+extrapolated for great impact: either beneficent or malevolent.
+
+With the stroke of a pen, Stalin declared dialectical materialism to
+be the
+[academic law of the land](https://www.marxists.org/reference/archive/stalin/works/1938/09.htm)
+in 1938. This seemingly inconsequential basis of philosophy and
+thought is what justified the horrific utilitarianism in Soviet policy
+implementation. Stalin's particular brand of materialism led him to
+understand people as inconsequential blobs of material, only useful
+insofar as they could be used. People then became a kind of
+ammunition: a resource to be lobbed at the enemy.
+
+<a name="monadic-metaphysics-cognition-and-meditation" />
+
+# [Monadic Metaphysics, Cognition and Meditation](#monadic-metaphysics-cognition-and-meditation)
+
+What impacts do various conceptions of metaphysics have on the human
+mind, on cognition and on meditative states of mind?
+
+<a name="cognition-with-diminished-conceptual-designation" />
+
+### [Cognition With Diminished Conceptual Designation](#cognition-with-diminished-conceptual-designation)
 
 - some meditative practices encourage the development and experience
   of states of mind where conceptual designation is recessed
@@ -56,7 +216,6 @@ title: "The Monadic Model of Metaphysics & Meditative States of Mind"
     experiences, whereas visual experiences references the fleeting
     visual and other imagery that i've experienced with meditation
     once i seem to actually get going.
-    - 
 
 - non-conceptual awareness or diminished conceptual designation means
   that you might hear a sound, but you focus does not drift towards

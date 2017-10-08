@@ -2,10 +2,23 @@
 title: "Fatal Flaws of Antifragile System Design Patterns"
 categories: "blog"
 tags: "sociology philosophy social-physics"
-headline: ""
+headline: "Free @dcunit3d"
 author:
   name: "David Conner"
-excerpt: ""
+excerpt: "
+There are two things we should fear above all else: nihilism and
+ourselves. Antifragile design principles are excellent for solving the
+latter problem, but make no advances in protecting us the first.  The
+ultimate systemic flaw of antifragile systems is that they rely on
+instilling a sense of purpose among the nodes carrying out action to
+protect order in system from the chaos of itself. Only some branches
+of hierarchy need to be motivated by stressing or feeding their
+incentivization methods to be convinced to act against any other part
+of the system. Therefore: demoralization can totally undermine
+antifragile systems, if it is systemic. In upcoming decades,
+demoralization resulting from loss of connection to loss of prosperity
+or from the loss of both our humanity and our individuality will lead
+to massive breakdown of our sociopolitical systems of control."
 ---
 
 ## [Sociophysical Miasma and Iatragenic Interventions](#sociophysical-miasma-and-iatrogenic-interventions)
@@ -22,7 +35,7 @@ excerpt: ""
 
 ## [Antifragile System Design is Necessary to Save Our World, But...](#antifragile-system-design-is-necessary-to-save-our-world)
 
-#### [Antifragile Thieves, Wolves or Shepherds?](#antifragile-wolves-or-sheperds)
+#### [Antifragile Thieves, Wolves or Shepherds?](#antifragile-thieves-wolves-or-sheperds)
 
 #### [Do You Enjoy A Rigged Game?](#do-you-enjoy-a-rigged-game)
 
@@ -44,19 +57,21 @@ excerpt: ""
 
 #### [Free @dcunit3d](#free-dcunit3d)
 
-
-(describe this as an indictment of *some* antifragile systems...)
+- intro/thesis statement
+  - link in paper on "transport" processes
+  - reference paper on antifragile communication (protection against
+    jamming & protocol hijacking)
 
 <a name="sociophysical-miasma-and-iatrogenic-interventions" />
 
 # [Sociophysical Miasma and Iatragenic Interventions](#sociophysical-miasma-and-iatrogenic-interventions)
 
 There is a tendency to mute any nodes that stand out as distinct or
-different, which dampens any signals they produce. If those signals
-were not dampened, they could have indicated systemic problems that
-your system could react to earlier. When, for national security,
-people are surrounded with negative reality distortion fields -- which
-are essentially toxic fields of sociophysical miasma where targets are
+different, dampening any signals they produce. If those signals were
+not dampened, they could have indicated systemic problems that your
+system could react to earlier. When, for national security, people are
+surrounded with negative reality distortion fields -- which are
+essentially toxic fields of sociophysical miasma where targets are
 escorted by handlers nearly twenty-four seven -- the long-term
 strategy is to isolate the target from the rest of the flock by
 scaring them away. This is done by artificially amplifying false
@@ -163,9 +178,9 @@ demoralization resulting from loss of connection to loss of prosperity
 or from the loss of both our humanity and our individuality will lead
 to massive breakdown of our sociopolitical systems of control.
 
-<a name="antifragile-wolves-or-sheperds" />
+<a name="antifragile-thieves-wolves-or-sheperds" />
 
-### [Antifragile Thieves, Wolves or Shepherds?](#antifragile-wolves-or-sheperds)
+### [Antifragile Thieves, Wolves or Shepherds?](#antifragile-thieves-wolves-or-sheperds)
 
 It's easy to distinguish a wolf from a shepherd -- a sheperd does not
 flee his flock in a time of need. A hireling shephered does not treat

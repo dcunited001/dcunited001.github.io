@@ -78,7 +78,6 @@ adverbs:
   - RAFT algorithm and/or PAXOS, but sometimes byzantines generals
     because why not constantinople
 
-
 #### concepts that are difficult to succinctly reference:
 
   - social physics:
