@@ -8,7 +8,9 @@ author:
 excerpt: ""
 ---
 
-# Do We All Have Buddha Nature?
+<a name="do-we-all-have-buddha-nature" />
+
+# [Do We All Have Buddha Nature?](#do-we-all-have-buddha-nature)
 
 Of course. Don't we all exist within the same dream? Aren't we all
 one, as well as our thoughts? What is truly separated? What is truly
@@ -16,13 +18,17 @@ the boundary between you and I? Where does separation begin? Where
 does it originate? Where does the concept of dependent origination
 originate?
 
+#### (Bodhicitta X Will To Power) => Spirit Bomb
+
+![Bodhicitta X Will To Power](/img/posts/2017-10-08-the-monadic-model-of-metaphysics-and-meditative-states-of-mind/goku-spirit-bomb.jpg)
+
 We all have Buddha nature: all sentient beings. Not to probe too far
 into Buddhism, but what is sentience or awareness anyways? I truly
 believe that any chaotic system, with perhaps some constraints,
-produces awareness. Given a degree of antifragility, entities or
-organizations within the chaotic system produce increasingly higher
-strata of information representation, leading eventually to life,
-awareness and sentience.
+produces awareness when provided enough running time. Given a degree
+of antifragility, entities or organizations within the chaotic system
+produce increasingly higher strata of information representation,
+leading eventually to life, awareness and sentience.
 
 This leads to interesting questions about the definition of life:
 there are other non-corporeal chaotic frameworks within our own
@@ -38,16 +44,26 @@ systems, then what are those information forms which manifest on top
 of higher chaotic frameowrks, like sociophysical systems? Are these
 information forms also life?
 
-However, if you have a conception of metaphysics which emerges from
-the ideal instead of the material, then those forms that emerge should
-cohere to certain archetypical forms. If you accept platonic realism
-and accept that these metaphysical forms exist a priori -- which I
-believe they do -- then doesn't everything that could occur preexist
-within some totality? This totality has had many names through history
--- Abraxus is one of them. However, these information life forms that
-emerge in higher organizations of chaotic systems must map to some
-organization of archetypes -- they exist as manisfestations of the
-composition of archetypes and metatypes.
+However, if your conception of metaphysics emerges from the ideal
+instead of the material, then those forms that emerge should cohere to
+certain archetypical forms. If you accept platonic realism and accept
+that these metaphysical forms exist a priori -- which I believe they
+do -- then doesn't everything that could occur preexist within some
+totality? This totality has had many names through history -- Abraxus
+is one of them.
+
+### 
+
+However, these information life forms that emerge in higher
+organizations of chaotic systems must map to some organization of
+archetypes -- they exist as manisfestations of the composition of
+archetypes and metatypes. Grimoires are one example of a medieval
+demonologist's classification of metaphysical beings, though these are
+primarily malevolent.
+
+#### Buer is President of Hell, According To This Grimoire, the [Ars Goetia](https://en.wikipedia.org/wiki/List_of_demons_in_the_Ars_Goetia)
+
+![Buer, President of Hell](/img/posts/2017-10-08-the-monadic-model-of-metaphysics-and-meditative-states-of-mind/buer-president.jpg)
 
 In this interpretation of metaphysics, non-corporeal entities could be
 aware -- they perhaps exist in the minds or brains of many sentient
@@ -56,12 +72,18 @@ which is a non-corporeal entity that emerges to have real physical
 effects from the beliefs of a group. Whether such an egrigore is
 sentient is a question more difficult to answer.
 
+#### A More Recent Manisfestation of the Being Known As Buer
+
+![Also Buer](/img/posts/2017-10-08-the-monadic-model-of-metaphysics-and-meditative-states-of-mind/buer-president-of-hell.jpg)
+
 Yet, if we are all truly one because, when traced back, we share
 common causal origination, then isn't the notion of seperateness an
 illusion altogether? And if we are all convergent again, isn't the
 notion of separation simply a temporary illusion?
 
-### (Bodhicitta X Will To Power)
+<a name="bodhicitta-x-will-to-power" />
+
+# [Bodhicitta x Will To Power](#bodhicitta-x-will-to-power)
 
 What does it mean to want something? Is desire so bad? If there is
 something truly good in our world, shouldn't we want it badly? If it
@@ -76,12 +98,20 @@ something great: to discover the cure to cancer or some wondrous thing
 that would ease the scope and degree of problems that we all
 encounter.
 
+<a name="suffering-and-isolation-may-concentrate-will-to-emancipate" />
+
+### [Suffering And Isolation May Concentrate Will To Emancipate](#suffering-and-isolation-may-concentrate-will-to-emancipate)
+
 Especially as the world has continued to clamp its walls down around
 me, this only further fueled my desire to save others. I thought -- if
 I only had money, I could buy the influence I need to fix the
 political problems I see. This is the only reason I ever really wanted
-money. I do not care for fame or status. However, that's selfish isn't
+money. I do not care for fame or status. However, that's selfish, isn't
 it? Why does it matter who saves us?
+
+<a name="power-from-the-people-power-emanates-from-the-individual-first" />
+
+### [Power From The People - Power Emanates From The Individual First!](#power-from-the-people-power-emanates-from-the-individual-first)
 
 What we all have is power over our local circumstance. The truth is
 that we all eminate sociophysical energy. It begins with us and it is
@@ -90,6 +120,10 @@ channelled by our beliefs and knowledge. But this sociophysical energy
 and the beliefs of others -- this springs from all individuals. We
 choose to empower who we do, but we can be deceived into forming
 beliefs that channel this sociophysical energy improperly.
+
+<a name="magnification-of-our-net-sociophysical-energy-through-will-to-power" />
+
+### [Magnification of Our Net Sociophysical Energy Through Will To Power](#magnification-of-our-net-sociophysical-energy-through-will-to-power)
 
 We can also magnify the energy we emanate through desire. Not any kind
 of desire, but a special kind of desire -- bodhicitta. The desire to
@@ -101,11 +135,9 @@ others by magnifying our cultivation of bodhicitta. We then channel
 this through awareness, knowledge and beliefs to impact our world in
 meaningful ways.
 
-#### (Bodhicitta X Will To Power) => Spirit Bomb
+<a name="the-pythagorean-monad" />
 
-![Bodhicitta X Will To Power]()
-
-# Pythagoras' and Leibnitz's Concept of the Monad
+# [The Pythagorean Monad](#the-pythagorean-monad)
 
 The model of metaphysics mentioned above has many names and aspects:
 platonic realism, dialectical idealism, and others. If one wants to
@@ -114,10 +146,12 @@ enumerated, but they are infinite. The Pythagoreans studied this and
 developed their monadic conceptualization of metaphysics: the monad,
 dyad, triad, and quadrad. This ends with infinite recursion: any form
 modeled with monads must eventually depend on a monad proxy, yielding
-recursion infinitely outwards ... or inwards. Leibniz developed an
-understanding of the monad.
+recursion infinitely outwards ... or inwards. Leibniz also developed
+a similar understanding of the monad.
 
-![Ergo Proxy]()
+<a name="ergo-proxy" />
+
+### [Ergo ... Proxy](#ergo-proxy)
 
 This implies that everything metaphysical can be modeled
 mathematically and, by using specific mathematic tools, exists a
@@ -127,33 +161,53 @@ most infinite or irrational conceptualization in numbers is phi, which
 is the most basic continuous fraction. There is much to be
 demonstrated to link these two concepts of monadic metaphysics and phi
 -- still, even in the metaphysical realm, the forms display the
-signature of the golden ratio.
+signature of the golden ratio. Phi is the perfection of the monad
+proxy.
 
-![]()
+#### For The Philosophically Minded ... The *Best* Anime?
 
-Dialectical materialism and other understandings of metaphysics that
-depend on the material lend themselves to justifying ideology
-convenient for power and control. Western philosophy started with
-Plato's conception of idealistic forms and this was immediately
-reconciled by Aristotle's Metaphysics. Ever since then, the truth of
-thought and everything that can be understood in life has been
-overlayed by a materialistic understanding of the world, at least in
-the West. These provide the philosophic basis for convenient
-justifications of mechanisms of control, based on attainment of
-wealth, power or status. This same struggle between materialism and
-idealism has played out across the world, over and over again.
+![Ergo Proxy](/img/posts/2017-10-08-the-monadic-model-of-metaphysics-and-meditative-states-of-mind/ergo-proxy.png)
 
-It blinds us from the truth and implies that what matters is only what
-we can see, feel and taste. Materialistic conceptions of metaphysics
-imply that all that matters is what can be attained because,
-metaphysically, it is all distinct and any shared conception of form
-distributed among objects is incidental to our experience. This
-conception of metaphysics is false. The power of philosophy is immense
-and it is difficult to see how elements of some philosophy can be
-extrapolated for great impact: either beneficent or malevolent.
+<a name="materialism-was-an-unfortunately-necessary-tool-for-the-powerful" />
 
-With the stroke of a pen, Stalin declared dialectical materialism to
-be the
+### [Materialism Was An Unfortunately Necessary Tool For The Powerful](#materialism-was-an-unfortunately-necessary-tool-for-the-powerful)
+
+In order to motivate people to work together to create regional
+prosperity and for other reasons, materialism is a useful in
+formulating apologetic justifications of mechanisms of control.
+Dialectical materialism and other materially dependant formulations of
+metaphysics lend themselves to justifying ideology convenient for
+power and control. Western philosophy started with Plato's conception
+of idealistic forms and this was immediately reconciled by Aristotle's
+Metaphysics. For millinea afterwards, the truth of thought and
+everything that was understood in Western life was conceived through a
+lens stained by materialism. This lens extrapolates into philosophic
+justifications, convenient to mechanisms of control, based on
+attainment of wealth, power or status. This same struggle between
+materialism and idealism has played out across the world, over and
+over again. When we transend the physical world, we are free. When we
+define ourselves by it, we are trapped within our world.
+
+<a name="trapped-within-materialist-paradigms-obsessed-with-possession" />
+
+### [Trapped Within Materialist Paradigms, Obsessed With Possession](#trapped-within-materialist-paradigms-obsessed-with-possession)
+
+This blinds us from the truth and implies that what matters is only
+what we can see, feel and taste. Materialistic conceptions of
+metaphysics imply that all that matters is what can be attained
+because, metaphysically, it is all distinct and any shared conception
+of form distributed among objects is incidental to our experience.
+This conception of metaphysics is false. The power of philosophy is
+immense and it is difficult to see how elements of some philosophy can
+be extrapolated for great impact: either beneficent or malevolent.
+
+<a name="dialectical-materialism-provided-a-philosophic-basis-for-stalins-utilitarian-atrocities" />
+
+### [Dialetical Materialism Provided A Philosophic Basis For Stalin's Utilitarian Atrocities](#dialectical-materialism-provided-a-philosophic-basis-for-stalins-utilitarian-atrocities)
+
+Throughout history, ideas both good and bad occasionally extrapolate
+themselves with horrific consequences. With the stroke of a pen,
+Stalin declared dialectical materialism to be the
 [academic law of the land](https://www.marxists.org/reference/archive/stalin/works/1938/09.htm)
 in 1938. This seemingly inconsequential basis of philosophy and
 thought is what justified the horrific utilitarianism in Soviet policy
@@ -173,10 +227,16 @@ mind, on cognition and on meditative states of mind?
 
 ### [Cognition With Diminished Conceptual Designation](#cognition-with-diminished-conceptual-designation)
 
-- some meditative practices encourage the development and experience
-  of states of mind where conceptual designation is recessed
-  - ([a better explanation](http://seanrobsville.blogspot.com/2011/06/glimpse-of-non-conceptual-awareness.html)
-    of conceptual designation)
+Some meditative practices encourage the development and experience of
+states of mind where conceptual designation is recessed. Conceptual
+designation occurs when the mind imbues our sensory experience with
+layers of metaphysical forms.
+
+This article contains
+[a much better explanation](http://seanrobsville.blogspot.com/2011/06/glimpse-of-non-conceptual-awareness.html)
+of conceptual designation.
+
+
   - your mind is calm and relaxed and encouraged to drift
   - conceptual designation means you map structured meaning onto
     qualia. this mostly happens at higher levels of the mind.
