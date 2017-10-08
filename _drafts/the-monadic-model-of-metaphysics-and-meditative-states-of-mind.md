@@ -300,6 +300,8 @@ not essential for breathing or posture. Then, I try to turn down the
 volume of active cognitive processes, which similarly divert energy
 from various areas of my brain.
 
+### (ephemeral nature of meditative consciousness)
+
 This qualitatively transforms my subjective experience of
 consciousness. Since the mind is disengaged from higher-level
 cognition, it proves challenging to consciously interrogating the
@@ -308,8 +310,9 @@ mind like this, you may have a 'Whoa WTF was that?' moment. When this
 first happened to me, I was suddenly projected an image behind two
 people holding hands in front of a sunrise or sunset. It seemed to
 come from outside or it was at least an image I did not consciously
-wander into. I didn't expect it, but the instant I tried to reflect on
-it, I awoke from my group meditation, almost gasping for air.
+wander into. I didn't expect it and so immediately tried to reflect on
+it. Instantly, I awoke from my group meditation, almost gasping for
+air.
 
 ### 
 
@@ -332,7 +335,6 @@ Since the mind flows through the brain like a river, stemming its flow
 in one area results in increased activity elsewhere, though it is not
 zero-sum. This sudden void of consciously engaged neural pathways
 encourages circuits to fire and connect in decentralized ways.
-
 Psychedelics also encourage networks of the brain that are usually
 unconnected to become connected
 [by encouraging neural crosstalk](https://sapiensoup.com/brain-on-psychedelic-drugs). However,
