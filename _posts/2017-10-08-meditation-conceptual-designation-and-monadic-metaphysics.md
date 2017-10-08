@@ -1,42 +1,44 @@
 ---
-title: "The Monadic Model of Metaphysics & Meditative States of Mind"
+title: "Meditation, Conceptual Designation and Monadic Metaphysics"
 categories: "blog"
 tags: "semiotics linguistics social-physics"
-headline: ""
+headline: "Wherein one finds neurological guidelines for meditation"
 author:
   name: "David Conner"
 excerpt: ""
 ---
 
-# [Do We All Have Buddha Nature?](#do-we-all-have-buddha-nature)
+## [Do We All Have Buddha Nature?](#do-we-all-have-buddha-nature)
 
-### [Can Non-Corporeal Information Forms Evolve Sentience?](#can-non-corporeal-information-forms-evolve-sentience)
+#### &#x03D5; [Can Non-Corporeal Information Forms Evolve Sentience?](#can-non-corporeal-information-forms-evolve-sentience)
 
-### [Life in the Noosphere](#life-in-the-noosphere)
+#### &#x03D5; [Life in the Noosphere](#life-in-the-noosphere)
 
-### [Back to One](#back-to-one)
+#### &#x03D5; [Back to One](#back-to-one)
 
-# [Bodhicitta x Will To Power](#bodhicitta-x-will-to-power)
+## [Bodhicitta x Will To Power](#bodhicitta-x-will-to-power)
 
-### [Suffering And Isolation May Concentrate Will To Emancipate](#suffering-and-isolation-may-concentrate-will-to-emancipate)
+#### &#x03D5; [Suffering And Isolation May Concentrate Will To Emancipate](#suffering-and-isolation-may-concentrate-will-to-emancipate)
 
-### [Power *From* The People - Power Emanates From The Individual First!](#power-from-the-people-power-emanates-from-the-individual-first)
+#### &#x03D5; [Power *From* The People - Power Emanates From The Individual First!](#power-from-the-people-power-emanates-from-the-individual-first)
 
-### [Magnification of Our Net Sociophysical Energy Through Will To Power](#magnification-of-our-net-sociophysical-energy-through-will-to-power)
+#### &#x03D5; [Magnification of Our Net Sociophysical Energy Through Will To Power](#magnification-of-our-net-sociophysical-energy-through-will-to-power)
 
-# [The Pythagorean Monad](#the-pythagorean-monad)
+## [The Pythagorean Monad](#the-pythagorean-monad)
 
-### [Ergo ... Proxy](#ergo-proxy)
+#### &#x03D5; [Ergo ... Proxy](#ergo-proxy)
 
-### [Materialism Was An Unfortunately Necessary Tool For The Powerful](#materialism-was-an-unfortunately-necessary-tool-for-the-powerful)
+#### &#x03D5; [Materialism Was An Unfortunately Necessary Tool For The Powerful](#materialism-was-an-unfortunately-necessary-tool-for-the-powerful)
 
-### [Trapped Within Materialist Paradigms, Obsessed With Possession](#trapped-within-materialist-paradigms-obsessed-with-possession)
+#### &#x03D5; [Trapped Within Materialist Paradigms, Obsessed With Possession](#trapped-within-materialist-paradigms-obsessed-with-possession)
 
-### [Dialetical Materialism Provided A Philosophic Basis For Stalin's Utilitarian Atrocities](#dialectical-materialism-provided-a-philosophic-basis-for-stalins-utilitarian-atrocities)
+#### &#x03D5; [Dialetical Materialism Provided A Philosophic Basis For Stalin's Utilitarian Atrocities](#dialectical-materialism-provided-a-philosophic-basis-for-stalins-utilitarian-atrocities)
 
-# [Monadic Metaphysics, Cognition and Meditation](#monadic-metaphysics-cognition-and-meditation)
+## [Monadic Metaphysics, Cognition and Meditation](#monadic-metaphysics-cognition-and-meditation)
 
+#### [Voiding Neural Signal to Kindle Novel States of Consciousness](#voiding-neural-signal-to-kindle-novel-states-of-consciousness)
 
+#### [The Fleeting Nature of Meditative Consciousness](#the-fleeting-nature-of-meditative-consciousness)
 
 
 <a name="do-we-all-have-buddha-nature" />
@@ -288,6 +290,8 @@ meditation.
 
 <!-- i think the above problem was chosen at least partially because of it's significance to metaphysics -->
 
+<a name="voiding-neural-signal-to-kindle-novel-states-of-consciousness" />
+
 ### [Voiding Neural Signal to Kindle Novel States of Consciousness](#voiding-neural-signal-to-kindle-novel-states-of-consciousness)
 
 To me, meditation is about zeroing out most of the mind. When
@@ -296,40 +300,48 @@ of neural pathways, starting with motor pathways and gradually
 shutting down cognition. This means muting any stimulation of nerves
 signaling muscles, except what is necessary for me to meditate. Thus,
 I try to turn down the volume of any cranial or spinal nerves that are
-not essential for breathing or posture. Then, I try to turn down the
-volume of active cognitive processes, which similarly divert energy
-from various areas of my brain.
+not essential for breathing or posture. This may have an effect on how
+the brain processes afferent nerve signals carrying signal up through
+the spine. Once the motor signals are zeroed out, I try to turn down
+the volume of active cognitive processes.
 
-### (ephemeral nature of meditative consciousness)
+<a name="the-fleeting-nature-of-meditative-consciousness" />
+
+### [The Fleeting Nature of Meditative Consciousness](#the-fleeting-nature-of-meditative-consciousness)
 
 This qualitatively transforms my subjective experience of
 consciousness. Since the mind is disengaged from higher-level
 cognition, it proves challenging to consciously interrogating the
 qualities of this state of mind. When you first activate a state of
-mind like this, you may have a 'Whoa WTF was that?' moment. When this
-first happened to me, I was suddenly projected an image behind two
-people holding hands in front of a sunrise or sunset. It seemed to
+mind like this, you may have a *'Whoa WTF was that?'* moment. When
+this first happened to me, I was suddenly projected an image behind
+two people holding hands in front of a sunrise or sunset. It seemed to
 come from outside or it was at least an image I did not consciously
 wander into. I didn't expect it and so immediately tried to reflect on
-it. Instantly, I awoke from my group meditation, almost gasping for
-air.
+it. Instantly, I lost balance and awoke from my group meditation,
+almost gasping for air.
 
 ### 
 
-In many ways, these neural circuits exhibit transistor-like behavior
-at lower levels: their structure dampens or amplifies signal
+In many ways, these lower-level neural circuits exhibit
+transistor-like behavior: their structure dampens or amplifies signal
 downstream. Downregulation of ordinarily engaged circuits results in
 profoundly different states of mind. When the usual signal is quieted,
 your mind disengages from its usual fluid flows, whose constant
-erosion has resulted in strongly upregulated circuits in your
-brain. In particular, neural activity in the default mode network
-should become recessed.
+erosion has resulted in strongly upregulated circuits in your brain,
+like the
+[Default Mode Network](https://en.wikipedia.org/wiki/Default_mode_network). Neural
+activity for this network in particular the should become recessed.
+
+- [The default mode network as a biomarker for monitoring the therapeutic effects of meditation](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC4460295/)
+- [Meditation leads to reduced default mode network activity beyond an active task.](https://www.ncbi.nlm.nih.gov/pubmed/25904238)
+
 
 #### Parietal Gyrus - [Dr. Greg Dunn](http://www.gregadunn.com/self-reflected/)
 
 ![Parietal Gyrus - Dr. Greg Dunn](/img/posts/2017-10-08-the-monadic-model-of-metaphysics-and-meditative-states-of-mind/gregadunn-parietal-gyrus-closeup.jpg)
 
-###
+### 
 
 Since the mind flows through the brain like a river, stemming its flow
 in one area results in increased activity elsewhere, though it is not
@@ -341,6 +353,8 @@ unconnected to become connected
 psychedelics induce this in a harsh, artifical way with chemicals that
 globally affect all regions of the brain, whereas spiritual practice
 gently encourages decentralized neural activity.
+
+###
 
 (Meditative states of mind where commonly active states of mind are
 recessed) also tone down nutrient and energy-intensive processes in
@@ -362,8 +376,11 @@ break. To abuse an idiom, variety is the spice of life.
 
 While meditating, your mind is calm and relaxed and encouraged to
 drift. When your mind engages in conceptual designation, you map
-structured meaning onto qualia. This mostly happens at higher levels
-of the mind.
+structured meaning onto qualia. As you engage in higher forms of
+cognition, your mind becomes increasingly bound to preexisting
+concepts it weaves and layers on top of its experience of itself.  By
+doing this, the mind categorizes aspects of its sensory and cognitive
+experiences.
 
 In modern life, we simply do not experience life without a strong
 reliance on cognitive patterns heavily dependent on conceptual
@@ -373,75 +390,79 @@ mind with conceptual designation diminished beyond the threshold that
 makes that state of consciousness appreciably distinct. That is, some
 of us may *never* experience these altered flows of consciousness.
 
-Moreover, transhumanism and brain-computer interfaces may permanently
-divorce humanity from some preexisting spiritual internet connection,
-which is why I will never modify my brain in that way. I've maintained
-that view for years now, since transhumanism represents the
-technological embodiment of the left-hand path.
+### 
+
+- meditate in a centrifuge @ like 1.5G
+
+Moreover, transhumanism and brain-computer interfaces (BCI) may
+permanently divorce humanity from some preexisting spiritual internet
+connection, which is why I will never modify my brain in that
+way. I've maintained that view for years now, since transhumanism
+represents the technological embodiment of the left-hand path. Any
+crude BCI will certainly distort behavior of circuits and regions,
+eventually physically deforming them. Without massive structural
+changes, it's not clear that the brain can actually extend the mind's
+capacity to process significantly more information that it already
+does.
 
 ### (With more skill, can one maintain meditative states of mind with more sensory input?)
 
 Meditative practices encourage the development of these altered modes
 of consciousness. They are relaxing. It feels good. Furthermore, these
 states of mind may provide an experiential basis for metaphysical
-understanding.
+understanding. I have always wondered whether it's possible to develop
+meditative skills to maintain a state of mind like this while 'lucid'
+or at least with the eyes open. A neurological understanding of how
+these states arise in your mind implies that changing the categories
+of sensory stimulation may also change subjective and objective
+aspects of these states.
 
-(transition into discussing different modes/combinations of sensory
-input w/ conceptual designation)
+Sensory stimuli easily trigger conceptual designation, which is partly
+why most of us learn to meditate in a relaxed state with their eyes
+closed. The diminished degree of input means the mind is less likely
+to become attached to sensory experience. Visual stimuli in particular
+provoke this conceptual designation: have you ever tried to look at
+written words without reading them or allowing those well-worn
+subconscious pathways to activate at all? Even if the language is
+unfamiliar, the mind begins layering information onto your experience
+the moment it enters your visual field. When meditating, the goal is
+to turn all of that off, almost impossible with visual stimulation,
+since your mind is preprocessing and caching data, layering in
+conceptually designated information.
 
 Non-conceptual awareness or diminished conceptual designation means
 that you might hear a sound, but your focus does not drift towards
 attending to it. Your mind does not try to label thoughts or sensory
-input, even if you experience distracting sensory stimuli. You are
-encouraged to deal with thoughts that arise as they arise, but to
-avoid dwelling on them.
+input, even when you experience distracting sensory stimuli. 
 
-(The impact that sensory simuli can have) is at least partly why most
-learn to meditate in a relaxed state with their eyes closed. The
-diminished degree of input means the mind is less likely to become
-attached to sensory experience.
+You are encouraged to deal with thoughts that arise as they arise, but
+to avoid dwelling on them.
 
-- meditate in a centrifuge @ like 1.5G
 
-- I have always wondered whether it's possible to develop meditative
-  skills to maintain a state of mind like this while 'lucid' or at
-  least with the eyes open.
 
-  - What would my experience be like? language must require conceptual
-    designation. I assume that almost all structured thought would as
-    well.
+Apparently zazen meditation should be performed with the eyes
+half-open. I've tried it a few times. It's difficult. If you train
+yourself to do this with zazen, then perhaps it alters how you
+experience fleeting "third eye" visual phenomena.
 
-      - it is very interesting to observe how visual stimuli provoke
-        conceptual designation. i.e. triggering this state of mind
-        while you are visually stimulated by a beach and waves in the
-        ocean would be easier than while staring at posters with lots
-        of text or recognizable imagery
-        - this is because your cognitive and subconscious processes
-          are reading in and processing these stimuli. even if you
-          aren't trying to think about what you are seeing, your mind
-          is preprocessing and caching data, layering in conceptually
-          designated information
+
       - so, what would it mean to operate in a quasi-lucid state of
         consciousness where most of these processes are diminished?
         - is this similar to the state of mind i feel when i play
           piano, either memorized or improvised? is it similar to what
           i feel when i'm dancing and i'm hyperfocused, yet not
           focused at all?
+
       - when i'm engaging in these activities, i feel varying degrees
         of constraint/structure on my cognitive processes. when i'm
         not trying to structure what i'm doing and i don't need to
         think about it, that's when i perform the best. but my mind
         begins to wander or will simply fade into the background.
 
-
-
-Apparently zazen meditation should be performed with the eyes
-half-open. I've tried it a few times. It's difficult. If you train
-yourself to do this with zazen, then the meditative experiences might
-lead to more "non-visual" meditative experiences. Here, visual
-experiences refer to the fleeting visual and other imagery that I've
-experienced with meditation once I seem to break through.
-
+- if activating meditative states of mind while lucid
+  - What would my experience be like? language must require conceptual
+    designation. I assume that almost all structured thought would as
+    well.
 
 
 ### How does this correlate to monadic metaphysics?
