@@ -8,8 +8,6 @@ author:
 excerpt: ""
 ---
 
-
-
 # [Do We All Have Buddha Nature?](#do-we-all-have-buddha-nature)
 
 ### [Can Non-Corporeal Information Forms Evolve Sentience?](#can-non-corporeal-information-forms-evolve-sentience)
@@ -38,7 +36,7 @@ excerpt: ""
 
 # [Monadic Metaphysics, Cognition and Meditation](#monadic-metaphysics-cognition-and-meditation)
 
-### [Cognition With Diminished Conceptual Designation](#cognition-with-diminished-conceptual-designation)
+
 
 
 <a name="do-we-all-have-buddha-nature" />
@@ -275,7 +273,14 @@ ammunition: a resource to be lobbed at the enemy.
 # [Monadic Metaphysics, Cognition and Meditation](#monadic-metaphysics-cognition-and-meditation)
 
 What impacts do various conceptions of metaphysics have on the human
-mind, on cognition and on meditative states of mind?
+mind, on cognition and on meditative states of mind?  Some meditative
+practices encourage the development and experience of states of mind
+where conceptual designation is recessed. Conceptual designation
+occurs when the mind imbues our sensory experience with layers of
+metaphysical
+forms. [This article](http://seanrobsville.blogspot.com/2011/06/glimpse-of-non-conceptual-awareness.html)
+dives into conceptual designation more completely as it relates to
+meditation.
 
 #### Enumeration of Primative Forms From Graph Theory In Analytic Combinatorics
 
@@ -283,53 +288,80 @@ mind, on cognition and on meditative states of mind?
 
 <!-- i think the above problem was chosen at least partially because of it's significance to metaphysics -->
 
+### [Voiding Neural Signal to Kindle Novel States of Consciousness](#voiding-neural-signal-to-kindle-novel-states-of-consciousness)
+
+To me, meditation is about zeroing out most of the mind.  When
+meditating, my goal is the total retrenchment of conscious engagement
+of neural pathways, starting with motor pathways and gradually
+shutting down cognition. This means muting any stimulation of nerves
+signaling muscles, except what is necessary for me to meditate. Thus,
+I try to turn down the volume of any cranial or spinal nerves that are
+not essential for breathing or posture. Then, I try to turn down the
+volume of active cognitive processes, which similarly divert energy
+from various areas of my brain.
+
+This qualitatively transforms my subjective experience of
+consciousness. Since the mind is disengaged from higher-level
+cognition, it proves challenging to consciously interrogating the
+qualities of this state of mind. When you first activate a state of
+mind like this, you may have a 'Whoa WTF was that?' moment. When this
+first happened to me, I was suddenly projected an image behind two
+people holding hands in front of a sunrise or sunset. It seemed to
+come from outside or it was at least an image I did not consciously
+wander into. I didn't expect it, but the instant I tried to reflect on
+it, I awoke from my group meditation, almost gasping for air.
+
+### 
+
+In many ways, these neural circuits exhibit transistor-like behavior
+at lower levels: their structure dampens or amplifies signal
+downstream. Downregulation of ordinarily engaged circuits results in
+profoundly different states of mind. When the usual signal is quieted,
+your mind disengages from its usual fluid flows, whose constant
+erosion has resulted in strongly upregulated circuits in your
+brain. In particular, neural activity in the default mode network
+should become recessed.
+
+#### Parietal Gyrus - [Dr. Greg Dunn](http://www.gregadunn.com/self-reflected/)
+
+![Parietal Gyrus - Dr. Greg Dunn](/img/posts/2017-10-08-the-monadic-model-of-metaphysics-and-meditative-states-of-mind/gregadunn-parietal-gyrus-closeup.jpg)
+
+###
+
+Since the mind flows through the brain like a river, stemming its flow
+in one area results in increased activity elsewhere, though it is not
+zero-sum. This sudden void of consciously engaged neural pathways
+encourages circuits to fire and connect in decentralized ways.
+
+Psychedelics also encourage networks of the brain that are usually
+unconnected to become connected
+[by encouraging neural crosstalk](https://sapiensoup.com/brain-on-psychedelic-drugs). However,
+psychedelics induce this in a harsh, artifical way with chemicals that
+globally affect all regions of the brain, whereas spiritual practice
+gently encourages decentralized neural activity.
+
+(Meditative states of mind where commonly active states of mind are
+recessed) also tone down nutrient and energy-intensive processes in
+circuits that are (almost always) running hot. In the brain, both
+distribution and consumption of energy and nutrients have exhibit
+localized variation. This local variance in resource consumption
+yields the phenomenon of short-term burnout for highly repetitive,
+cognitively taxing activities. This can usually be addressed with
+cardio exercise to trigger fluid flux or simply by taking a short
+break. To abuse an idiom, variety is the spice of life.
+
+#### Self-Reflected - Dr. Greg Dunn
+
+![Self-Reflected - Dr. Greg Dunn](/img/posts/2017-10-08-the-monadic-model-of-metaphysics-and-meditative-states-of-mind/gregadunn-self-reflected-in-violets.jpg)
+
 <a name="cognition-with-diminished-conceptual-designation" />
 
 ### [Cognition With Diminished Conceptual Designation](#cognition-with-diminished-conceptual-designation)
 
-Some meditative practices encourage the development and experience of
-states of mind where conceptual designation is recessed. Conceptual
-designation occurs when the mind imbues our sensory experience with
-layers of metaphysical forms.
-
-
-
-This article contains
-[a more complete explanation](http://seanrobsville.blogspot.com/2011/06/glimpse-of-non-conceptual-awareness.html)
-of conceptual designation.
-
-
-
 While meditating, your mind is calm and relaxed and encouraged to
 drift. When your mind engages in conceptual designation, you map
 structured meaning onto qualia. This mostly happens at higher levels
-of the mind. To me, meditation is about zeroing out most of the
-mind. This includes muting any stimulation of nerves signaling
-muscles, except what is necessary for me to meditate. I try to turn
-down the volume of any cranial or spinal nerves that are not essential
-for breathing or posture. Then, I try to turn down the volume of
-active cognitive processes, which similarly divert energy from various
-areas of my brain, altering the quality of consciousness.
-
-My goal is the total retrenchment of my mind's engagement of neural
-pathways, which in many ways operate like transistors. This
-downregulation results in profoundly different states of mind. When
-all of this is quieted, your mind disengages from its usual fluid
-flows, whose constant erosion has resulted in strongly upregulated
-circuits in your brain. They also causes our brain to function in
-neurologically distinct patterns; e.g. the neural activity in the
-default mode network may become recessed.
-
-If all of this is true, then it may encourage neurons to fire and
-connect in more decentralized ways, similar to how psychedelics
-encourage networks of the brain that are usually unconnected to become
-connected. Psychedelics would induce this in a harsh, artifical way
-with chemicals that affect all regions of the brain, where spiritual
-practice would cause this in a natural way. Meditative states of mind
-where commonly active states of mind are recessed tone down nutrient
-and energy-intensive processes. This may cause other neural networks
-to fill in the gap, functioning more, but in a way that isn't apparent
-to the relaxed mind.
+of the mind.
 
 In modern life, we simply do not experience life without a strong
 reliance on cognitive patterns heavily dependent on conceptual
@@ -362,7 +394,7 @@ input, even if you experience distracting sensory stimuli. You are
 encouraged to deal with thoughts that arise as they arise, but to
 avoid dwelling on them.
 
-The impact that sensory simuli can have is at least partly why most
+(The impact that sensory simuli can have) is at least partly why most
 learn to meditate in a relaxed state with their eyes closed. The
 diminished degree of input means the mind is less likely to become
 attached to sensory experience.
@@ -371,9 +403,9 @@ attached to sensory experience.
   skills to maintain a state of mind like this while 'lucid' or at
   least with the eyes open.
 
-- What would my experience be like? language must require conceptual
-  designation. I assume that almost all structured thought would as
-  well.
+  - What would my experience be like? language must require conceptual
+    designation. I assume that almost all structured thought would as
+    well.
 
       - it is very interesting to observe how visual stimuli provoke
         conceptual designation. i.e. triggering this state of mind

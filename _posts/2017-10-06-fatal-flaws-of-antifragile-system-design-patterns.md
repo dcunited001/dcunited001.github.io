@@ -23,39 +23,37 @@ to massive breakdown of our sociopolitical systems of control."
 
 ## [Sociophysical Miasma and Iatragenic Interventions](#sociophysical-miasma-and-iatrogenic-interventions)
 
-#### [Reality Distorion Fields May Artificially Amplify Misinformation and Disinformation](#reality-distortion-fields-may-artificially-amplify-misinformation-and-disinformation)
+#### &#x03D5; [Reality Distortion Fields May Artificially Amplify Misinformation and Disinformation](#reality-distortion-fields-may-artificially-amplify-misinformation-and-disinformation)
 
-#### [Vulnerabilities Inherent in Antifragile Design Patterns](#vulnerabilities-inherent-in-antifragile-design-patterns)
+#### &#x03D5; [Vulnerabilities Inherent in Antifragile Design Patterns](#vulnerabilities-inherent-in-antifragile-design-patterns)
 
-#### [Lower Sociohierarchical Branches Only Know How, Not What and Never Why](#lower-sociohierarchical-branches-only-know-how-not-what-and-never-why)
+#### &#x03D5; [Lower Sociohierarchical Branches Only Know How, Not What and Never Why](#lower-sociohierarchical-branches-only-know-how-not-what-and-never-why)
 
-#### [No Facts, Only Recorded Disinformation? Then There Is No Accountability](#no-facts-only-recorded-disinformation-then-there-is-no-accountability)
-
-#### [No Facts, Only Recorded Disinformation? Then There Is No Accountability](#no-facts-only-recorded-disinformation-then-there-is-no-accountability)
+#### &#x03D5; [No Facts, Only Recorded Disinformation? Then There Is No Accountability](#no-facts-only-recorded-disinformation-then-there-is-no-accountability)
 
 ## [Antifragile System Design is Necessary to Save Our World, But...](#antifragile-system-design-is-necessary-to-save-our-world)
 
-#### [Antifragile Thieves, Wolves or Shepherds?](#antifragile-thieves-wolves-or-sheperds)
+#### &#x03D5; [Antifragile Thieves, Wolves or Shepherds?](#antifragile-thieves-wolves-or-sheperds)
 
-#### [Do You Enjoy A Rigged Game?](#do-you-enjoy-a-rigged-game)
+#### &#x03D5; [Do You Enjoy A Rigged Game?](#do-you-enjoy-a-rigged-game)
 
-#### [The Presence of Virtue, Especially Magnanimity, Must Correlate To Social Mobility](#the-presence-of-virtue-especially-magnanimity-must-correlate-to-social-mobility)
+#### &#x03D5; [The Presence of Virtue, Especially Magnanimity, Must Correlate To Social Mobility](#the-presence-of-virtue-especially-magnanimity-must-correlate-to-social-mobility)
 
-#### [Sorry Communists, Evolutionary Mechanisms and Dynamics In Society Are Not Inherently Wrong](#sorry-communists-evolutionary-mechanisms-and-dynamics-in-society-are-not-inherently-wrong)
+#### &#x03D5; [Sorry Communists, Evolutionary Mechanisms and Dynamics In Society Are Not Inherently Wrong](#sorry-communists-evolutionary-mechanisms-and-dynamics-in-society-are-not-inherently-wrong)
 
-#### [The Kernel of Transvaluations](#the-kernel-of-transvaluations)
+#### &#x03D5; [The Kernel of Transvaluations](#the-kernel-of-transvaluations)
 
-#### [Despite the Danger of Dangers, Authority MUST Be Grounded In Truth](#despite-the-danger-of-dangers-authority-must-be-grounded-in-truth)
+#### &#x03D5; [Despite the Danger of Dangers, Authority MUST Be Grounded In Truth](#despite-the-danger-of-dangers-authority-must-be-grounded-in-truth)
 
-#### [Just Like With Cosa Nostra, Your Sin Becomes Your Vice, Violating Intent of Moral Systems](#just-like-with-cosa-nostra-your-sin-becomes-your-vice-violating-intent-of-moral-systems)
+#### &#x03D5; [Just Like With Cosa Nostra, Your Sin Becomes Your Vice, Violating Intent of Moral Systems](#just-like-with-cosa-nostra-your-sin-becomes-your-vice-violating-intent-of-moral-systems)
 
 ## [Occupational Therapy: Iatrogenic Medical Treatment Should Never Be A Weapon of Antifragile System Control](#occupational-therapy-iatrogenic-medical-treatment-should-never-be-a-weapon-of-antifragile-system-control)
 
-#### ["An Eye For An Eye Makes The Whole World Go Blind" - Ghandi](#an-eye-for-an-eye-makes-the-whole-world-go-blind)
+#### &#x03D5; ["An Eye For An Eye Makes The Whole World Go Blind" - Ghandi](#an-eye-for-an-eye-makes-the-whole-world-go-blind)
 
-#### [Stand Down, Bolsheviks, You Will Not Threaten Prosperity](#stand-down-bolsheviks-you-will-not-threaten-prosperity)
+#### &#x03D5; [Stand Down, Bolsheviks, You Will Not Threaten Prosperity](#stand-down-bolsheviks-you-will-not-threaten-prosperity)
 
-#### [Free @dcunit3d](#free-dcunit3d)
+#### &#x03D5; [Free @dcunit3d](#free-dcunit3d)
 
 - intro/thesis statement
   - link in paper on "transport" processes
