@@ -255,12 +255,6 @@ me to unknowingly commit these same actions against other Americans
 Bedankt Voor Het Luisteren,
 
 David “J” Conner
-(540)761-1257
-@dcunit3d
-http://te.xel.io
-
-
-
 
 
 

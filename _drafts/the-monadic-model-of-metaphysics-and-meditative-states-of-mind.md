@@ -290,7 +290,7 @@ meditation.
 
 ### [Voiding Neural Signal to Kindle Novel States of Consciousness](#voiding-neural-signal-to-kindle-novel-states-of-consciousness)
 
-To me, meditation is about zeroing out most of the mind.  When
+To me, meditation is about zeroing out most of the mind. When
 meditating, my goal is the total retrenchment of conscious engagement
 of neural pathways, starting with motor pathways and gradually
 shutting down cognition. This means muting any stimulation of nerves
@@ -400,6 +400,8 @@ avoid dwelling on them.
 learn to meditate in a relaxed state with their eyes closed. The
 diminished degree of input means the mind is less likely to become
 attached to sensory experience.
+
+- meditate in a centrifuge @ like 1.5G
 
 - I have always wondered whether it's possible to develop meditative
   skills to maintain a state of mind like this while 'lucid' or at
