@@ -48,6 +48,9 @@ excerpt: ""
 
 #### [Cognition With Diminished Conceptual Designation](#cognition-with-diminished-conceptual-designation)
 
+#### [No, Your Hedonistic Paradise Only Diverts The Productive Energy of the Populus](#no-your-hedonistic-paradise-only-diverts-the-productive-energy-of-the-populus)
+
+#### [Meditation with Lucidity and Wide Spectra of Sensory Input](#meditation-with-lucidity-and-wide-spectra-of-sensory-input)
 
 
 <a name="do-we-all-have-buddha-nature" />
@@ -416,8 +419,9 @@ Moreover, transhumanism and brain-computer interfaces (BCI) may
 permanently divorce humanity from some preexisting spiritual internet
 connection, which is why I will never modify my brain in that
 way. I've maintained that view for years now, since transhumanism
-represents the technological embodiment of the left-hand path. Any
-crude BCI will certainly distort behavior of circuits and regions,
+represents the technological embodiment of the left-hand path.
+
+Any crude BCI will certainly distort behavior of circuits and regions,
 eventually physically deforming them. Without massive structural
 changes, it's not clear that the brain can actually extend the mind's
 capacity to process significantly more information that it already
@@ -425,9 +429,37 @@ does. Most of that computaton would need to be external, but exposed
 to the brain as a sense. Unfortunately, the only sense that is exposes
 semiotic and semantic data to the mind is memory. It is not the
 hardware interface of a BCI that is technically prohibitive, it is the
-software interface.
+software interface. Perhaps quantum or nano would change nature and
+quality of these limitations.
 
-### (With more skill, can one maintain meditative states of mind with more sensory input?)
+### [No, Your Hedonistic Paradise Only Diverts The Productive Energy of the Populus](#no-your-hedonistic-paradise-only-diverts-the-productive-energy-of-the-populus)
+
+If your transhumanist philosophy and/or political strategies are
+banking on virtualizing a hedonistic plane of pleasure as a newfound
+fentanyl of the masses, you really need to pay attention to what is
+specifically enabled by the technology, technically,
+phenomenologically and teleologically. Society must conquer
+technonihilism's tendancy to obliterate the individual. What truly is
+the meaning to life, of life? As timeless as they are, we must answer
+those questions. Whether we take a hard right or hard left, we are
+certainly racing towards a world where the penultimately powerful few
+control the rest of us via ownership of technology. As much as the
+pragmatic and materialistic want to write off philosophy as a liberal
+art with no economic utility, the battles we face are
+philosophical.
+
+With BCI technology, if we permanently divorce ourselves from our
+wetware's *true* spiritual connection, what then? Are we permanently
+damned to the left-hand path? This all depends on the specifics of the
+technology, of course. Again, variety is the spice of life; we need
+variety of body, mind and spirit; anything that is to be adopted by
+100% of a population needs to be viewed with utmost skepticism.
+
+<a name="meditation-with-lucidity-and-wide-spectra-of-sensory-input" />
+
+### [Meditation with Lucidity and Wide Spectra of Sensory Input](#meditation-with-lucidity-and-wide-spectra-of-sensory-input)
+
+(With more skill, can one maintain meditative states of mind with more sensory input?)
 
 Meditative practices encourage the development of these altered modes
 of consciousness. They are relaxing. It feels good. Furthermore, these
@@ -452,50 +484,82 @@ to turn all of that off, almost impossible with visual stimulation,
 since your mind is preprocessing and caching data, layering in
 conceptually designated information.
 
-Non-conceptual awareness or diminished conceptual designation means
-that you might hear a sound, but your focus does not drift towards
-attending to it. Your mind does not try to label thoughts or sensory
-input, even when you experience distracting sensory stimuli. 
-
-You are encouraged to deal with thoughts that arise as they arise, but
-to avoid dwelling on them.
-
-
-
-Apparently zazen meditation should be performed with the eyes
+What would it mean to operate in a quasi-lucid state of consciousness
+where most of these processes of semantic or semiotic designation are
+diminished?  Diminished conceptual designation means that you might
+hear a sound, but your focus does not drift towards attending to
+it. Your mind does not try to label thoughts or sensory input, even
+when you experience distracting sensory stimuli. You are encouraged to
+deal with thoughts that arise as they arise, but to avoid dwelling on
+them. Apparently zazen meditation should be performed with the eyes
 half-open. I've tried it a few times. It's difficult. If you train
 yourself to do this with zazen, then perhaps it alters how you
 experience fleeting "third eye" visual phenomena.
 
+If they could be maintained, what would other, more lucid or more open
+meditative states of mind be like? What would my experience be like?
+language must require conceptual designation. I assume that almost all
+structured thought would as well. Is this similar to the state of mind
+I feel when I play piano, either memorized or improvised? Is it
+similar to what I feel when I'm dancing and I'm hyperfocused, yet not
+focused at all? When I'm engaging in these activities, I feel varying
+degrees of constraint/structure on my cognitive processes. When I'm
+not trying to structure what I'm doing and I don't need to think about
+it, that's when I perform the best. My mind begins to wander or will
+simply fade into the background. I become the music, but part of my
+mind is freed to reflect back on itself, yet there's the same
+ephemerality: if I try to hard to control or focus that freed element
+of my mind, it breaks the meditative state of mind.
 
-      - so, what would it mean to operate in a quasi-lucid state of
-        consciousness where most of these processes are diminished?
-        - is this similar to the state of mind i feel when i play
-          piano, either memorized or improvised? is it similar to what
-          i feel when i'm dancing and i'm hyperfocused, yet not
-          focused at all?
+Is this what it feels like to truly exist? Is this what truly being
+feels like? Are there those of use who can activate these states of
+mind more naturally? Is this why we can feel the soul in live music?
+Is it because the performers become one with themselves and one with
+the audience? Is there some connection established that no Grateful
+Dead recording could ever replicate?
 
-      - when i'm engaging in these activities, i feel varying degrees
-        of constraint/structure on my cognitive processes. when i'm
-        not trying to structure what i'm doing and i don't need to
-        think about it, that's when i perform the best. but my mind
-        begins to wander or will simply fade into the background.
+What is the most basic substance of metaphysics? The metaphysical
+atom? It is the monad, but the true essence of the monad is infinitely
+distance. It is only through the monad proxy that, through this
+conceptualization can all the Platonic forms be conceptualized. As the
+forms extend infinitely outward with the monad proxy, they
+asymptotically converge to one: the monad itself. Thus, meditation
+would give us an `a posteriori` understanding of metaphysical oneness.
 
-- if activating meditative states of mind while lucid
-  - What would my experience be like? language must require conceptual
-    designation. I assume that almost all structured thought would as
-    well.
+Total non-conceptual awareness means you mind is not laying down any
+structure onto your experience: semantic, linguistic or semiotic. I
+believe this lack of structure in the mind means you experientially
+begin to approach this oneness, yourself. You contract the tendancy to
+"know" anything, to label any part of your experience, sensory or
+semiotic. Does this state of mind, when practiced to elusive
+perfection, eventually reach an experiential understanding of oneness?
+Does this experience approach that of the one is the all, the all is
+the one? If so, this is functionally linked to a monadic model of
+metaphysics.
 
+Your being contracts inwards, but also infinitely
+outwards. Therefore, idealized states of mind produce an experiential
+understanding of this oneness and allness. You experience the monad:
+which I believe to be the
+[prima materia](https://en.wikipedia.org/wiki/Prima_materia), or the
+starting material for the philosopher's stone. It is through an vivid,
+seasoned understanding of this state of mind that we are able to
+model, conceptualize and transvalue all things. From here, we begin
+our journey to transform ourselves and our surroundings from lead into
+gold.
 
-### How does this correlate to monadic metaphysics?
+(move up) I do not intend to culturally appropriate here. I have
+referenced Buddhism, Alchemy and other cultural traditions, but do not
+read this and assume that I have spoken authoritatively on any
+religious tradition. I was heavily influenced by a lite understanding
+of theosophy early on. Here, I am only trying to state my own
+understanding of what I have experienced in life. I hope that my ...
 
-  - so, if meditative states of mind intended to reduce conceptual
-    designation to induce an experience of "non-conceptual awareness"
-    (as referred to by author of the above article) is this
-    functionally linked to a monadic model of metaphysics?
-    - does this gradually lead to an a posteriori understanding of
-      monadic metaphysics?
-  - (this is the overall conclusion, but needs more description)
+- brief connection on meditative states of mind to other spiritual
+  tradiations (extended prayer, etc)
+  - need to do a bit of research on this.
+  - this needs to be a bit earlier
+  - there should also be a thesis statement at the top
 
 ### Conditioning of Conceptual Designation Leads to a Distracted Mind
 
