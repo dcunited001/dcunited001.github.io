@@ -1,11 +1,25 @@
 ---
 title: "Meditation, Conceptual Designation and Monadic Metaphysics"
 categories: "blog"
-tags: "semiotics linguistics social-physics"
+tags: "semiotics meditation epistemology censorship oneirontology neuro religion"
 headline: "Wherein one finds neurological guidelines for meditation"
 author:
   name: "David Conner"
-excerpt: ""
+excerpt: "
+To produce spiritual states of mind, would there be certain
+neuroanatomical objectives or goals for invoking them? If you control
+your mind, your motor faculties, your cognitive patterns, aren't you
+influencing electrical and energetic flows within your body, spine and
+brain? So, if you understand your brain as a computer with complex,
+biological transistors, then changing the electrical and energetic
+flows, globally, regionally and circuituitously absolutely has an
+effect on how they regulate themselves.
+Further, this is a discussion of neuroanatomy as it relates to
+spirituality in general, with a strong focus on Buddhist
+meditation. Christianity and other religious traditions have practices
+which can evoke similar and potentially identical spiritual states of
+mind. Some kinds of prayer, especially when extended, force you to
+open your heart and surrender yourself and your mind to God."
 ---
 
 ## [Do We All Have Buddha Nature?](#do-we-all-have-buddha-nature)
@@ -72,16 +86,22 @@ excerpt: ""
 > I do not intend to culturally appropriate here. I have referenced
 > Buddhism, Alchemy and other cultural traditions, but do not read
 > this and assume that I have spoken authoritatively on any religious
-> tradition. Meditation herein variously refers to Buddhist meditation
-> and spiritual states of mind. I was heavily influenced by a lite
-> understanding of theosophy early on. Here, I am only trying to state
-> my own understanding of what I have experienced in life. I hope that
-> this neuroanatomical understanding of meditation and spirituality
-> will catalyze a spiritual revolution when we need it most, at a time
-> when faith was undermined by science and God is dead. Expect my
-> writing to disappear or become heavily edited. Further, do your own
-> research, develop your own understanding, but as the idea of God
-> lies dead, humanity needs God most. God will return.
+> tradition. I've considered joining a religious tradition myself, but
+> I feel like this toxic sociophysical miasma follows me around,
+> infecting anyone I come into contact with. I would simply be
+> inviting evil into a monastery.
+>
+> Meditation herein variously refers
+> to Buddhist meditation and spiritual states of mind. I was heavily
+> influenced by a lite understanding of theosophy early on. Here, I am
+> only trying to state my own understanding of what I have experienced
+> in life. I hope that this neuroanatomical understanding of
+> meditation and spirituality will catalyze a spiritual revolution
+> when we need it most, at a time when faith was undermined by science
+> and God is dead. Expect my writing to disappear or become heavily
+> edited. Further, do your own research, develop your own
+> understanding, but as the idea of God lies dead, humanity needs God
+> most. God will return.
 
 <a name="do-we-all-have-buddha-nature" />
 
@@ -166,6 +186,8 @@ Yet, if we are all truly one because, when traced back, we share
 common causal origination, then isn't the notion of seperateness an
 illusion altogether? And if we are all convergent again, isn't the
 notion of separation simply a temporary illusion?
+
+#### Ming+FS - Back To One
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/qMfbR-u-1FM" frameborder="0" allowfullscreen></iframe>
 
