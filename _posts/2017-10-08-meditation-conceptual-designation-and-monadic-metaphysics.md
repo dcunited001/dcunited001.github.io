@@ -40,6 +40,15 @@ excerpt: ""
 
 #### [The Fleeting Nature of Meditative Consciousness](#the-fleeting-nature-of-meditative-consciousness)
 
+#### [Downregulation of Ordinary Neural Circuit Flow Results in Decentralized Crosstalk](#downregulation-of-ordinary-neural-circuit-flow-results-in-decentralized-crosstalk)
+
+#### [Meditation Produces More Natural Neural Decentralization Than Psychedelics](#meditation-produces-more-natural-neural-decentralization-than-psychedelics)
+
+#### [Task-Specific Overclocking of Neural Circuitry Presents Regional Variance In Resource Consumption](#task-specific-overclocking-of-neural-circuitry-presents-regional-variance-in-resource-consumption)
+
+#### [Cognition With Diminished Conceptual Designation](#cognition-with-diminished-conceptual-designation)
+
+
 
 <a name="do-we-all-have-buddha-nature" />
 
@@ -321,7 +330,9 @@ wander into. I didn't expect it and so immediately tried to reflect on
 it. Instantly, I lost balance and awoke from my group meditation,
 almost gasping for air.
 
-### 
+<a name="downregulation-of-ordinary-neural-circuit-flow-results-in-decentralized-crosstalk" />
+
+### [Downregulation of Ordinary Neural Circuit Flow Results in Decentralized Crosstalk](#downregulation-of-ordinary-neural-circuit-flow-results-in-decentralized-crosstalk)
 
 In many ways, these lower-level neural circuits exhibit
 transistor-like behavior: their structure dampens or amplifies signal
@@ -333,15 +344,19 @@ like the
 [Default Mode Network](https://en.wikipedia.org/wiki/Default_mode_network). Neural
 activity for this network in particular the should become recessed.
 
-- [The default mode network as a biomarker for monitoring the therapeutic effects of meditation](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC4460295/)
-- [Meditation leads to reduced default mode network activity beyond an active task.](https://www.ncbi.nlm.nih.gov/pubmed/25904238)
-
+In fact, meditation's effects on DMN are so pronounced, it's being
+studied
+[as a biomarker for monitoring the therapeutic effects of meditation](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC4460295/). Even
+in academia, It has been demonstrated, that
+[meditation leads to reduced default mode network activity beyond an active task.](https://www.ncbi.nlm.nih.gov/pubmed/25904238)
 
 #### Parietal Gyrus - [Dr. Greg Dunn](http://www.gregadunn.com/self-reflected/)
 
 ![Parietal Gyrus - Dr. Greg Dunn](/img/posts/2017-10-08-the-monadic-model-of-metaphysics-and-meditative-states-of-mind/gregadunn-parietal-gyrus-closeup.jpg)
 
-### 
+<a name="meditation-produces-more-natural-neural-decentralization-than-psychedelics" />
+
+### [Meditation Produces More Natural Neural Decentralization Than Psychedelics](#meditation-produces-more-natural-neural-decentralization-than-psychedelics)
 
 Since the mind flows through the brain like a river, stemming its flow
 in one area results in increased activity elsewhere, though it is not
@@ -354,17 +369,20 @@ psychedelics induce this in a harsh, artifical way with chemicals that
 globally affect all regions of the brain, whereas spiritual practice
 gently encourages decentralized neural activity.
 
-###
+<a name="task-specific-overclocking-of-neural-circuitry-presents-regional-variance-in-resource-consumption" />
 
-(Meditative states of mind where commonly active states of mind are
-recessed) also tone down nutrient and energy-intensive processes in
-circuits that are (almost always) running hot. In the brain, both
-distribution and consumption of energy and nutrients have exhibit
-localized variation. This local variance in resource consumption
-yields the phenomenon of short-term burnout for highly repetitive,
-cognitively taxing activities. This can usually be addressed with
-cardio exercise to trigger fluid flux or simply by taking a short
-break. To abuse an idiom, variety is the spice of life.
+### [Task-Specific Overclocking of Neural Circuitry Presents Regional Variance In Resource Consumption](#task-specific-overclocking-of-neural-circuitry-presents-regional-variance-in-resource-consumption)
+
+When commonly active states of mind are recessed, this also tones down
+nutrient and energy-intensive processes. Depending on how your active
+cognition engages the modular functionality of the mind for specific
+tasks, these circuits regularly run hot. In the brain, both
+distribution and consumption of energy and nutrients exhibit localized
+variation. This local variance in resource consumption yields the
+phenomenon of short-term burnout for highly repetitive, cognitively
+taxing activities. This can usually be addressed with cardio exercise
+to trigger fluid flux or simply by taking a short break. To abuse an
+idiom, variety is the spice of life.
 
 #### Self-Reflected - Dr. Greg Dunn
 
@@ -390,9 +408,9 @@ mind with conceptual designation diminished beyond the threshold that
 makes that state of consciousness appreciably distinct. That is, some
 of us may *never* experience these altered flows of consciousness.
 
-### 
+<a name="for-wetware-computing-architectures-form-is-function-and-there-are-mathematic-maximal-networking-bounds-for-local-computation" />
 
-- meditate in a centrifuge @ like 1.5G
+### [For Wetware Computing Architectures, Form IS Function And There Are Mathematic Maximal Networking Bounds For Local Computation](#for-wetware-computing-architectures-form-is-function-and-there-are-mathematic-maximal-networking-bounds-for-local-computation)
 
 Moreover, transhumanism and brain-computer interfaces (BCI) may
 permanently divorce humanity from some preexisting spiritual internet
@@ -403,7 +421,11 @@ crude BCI will certainly distort behavior of circuits and regions,
 eventually physically deforming them. Without massive structural
 changes, it's not clear that the brain can actually extend the mind's
 capacity to process significantly more information that it already
-does.
+does. Most of that computaton would need to be external, but exposed
+to the brain as a sense. Unfortunately, the only sense that is exposes
+semiotic and semantic data to the mind is memory. It is not the
+hardware interface of a BCI that is technically prohibitive, it is the
+software interface.
 
 ### (With more skill, can one maintain meditative states of mind with more sensory input?)
 
