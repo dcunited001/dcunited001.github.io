@@ -36,30 +36,38 @@ excerpt: ""
 
 ## [A Neuroanatomical Objectification of Meditation and Spirituality](#a-neuro-anatomical-objectification-of-meditation-and-spirituality)
 
-#### [Ketosis and Autophagy Scale Up The Brain's Neural Evolutionary Mechanisms](#ketosis-and-autophagy-scale-up-the-brains-neural-evolutionary-mechanisms)
+#### &#x03D5; [Ketosis and Autophagy Scale Up The Brain's Neural Evolutionary Mechanisms](#ketosis-and-autophagy-scale-up-the-brains-neural-evolutionary-mechanisms)
 
-#### [Voiding Neural Signal to Kindle Novel States of Consciousness](#voiding-neural-signal-to-kindle-novel-states-of-consciousness)
+#### &#x03D5; [Voiding Neural Signal to Kindle Novel States of Consciousness](#voiding-neural-signal-to-kindle-novel-states-of-consciousness)
 
-#### [The Fleeting Nature of Meditative Consciousness](#the-fleeting-nature-of-meditative-consciousness)
+#### &#x03D5; [The Fleeting Nature of Meditative Consciousness](#the-fleeting-nature-of-meditative-consciousness)
 
-#### [Downregulation of Ordinary Neural Circuit Flow Results in Decentralized Crosstalk](#downregulation-of-ordinary-neural-circuit-flow-results-in-decentralized-crosstalk)
+#### &#x03D5; [Downregulation of Ordinary Neural Circuit Flow Results in Decentralized Crosstalk](#downregulation-of-ordinary-neural-circuit-flow-results-in-decentralized-crosstalk)
 
-#### [Meditation Produces More Natural Neural Decentralization Than Psychedelics](#meditation-produces-more-natural-neural-decentralization-than-psychedelics)
+#### &#x03D5; [Meditation Produces More Natural Neural Decentralization Than Psychedelics](#meditation-produces-more-natural-neural-decentralization-than-psychedelics)
 
-#### [Task-Specific Overclocking of Neural Circuitry Presents Regional Variance In Resource Consumption](#task-specific-overclocking-of-neural-circuitry-presents-regional-variance-in-resource-consumption)
+#### &#x03D5; [Task-Specific Overclocking of Neural Circuitry Presents Regional Variance In Resource Consumption](#task-specific-overclocking-of-neural-circuitry-presents-regional-variance-in-resource-consumption)
 
-#### [Cognition With Diminished Conceptual Designation](#cognition-with-diminished-conceptual-designation)
+#### &#x03D5; [Cognition With Diminished Conceptual Designation](#cognition-with-diminished-conceptual-designation)
 
-#### [No, Your Hedonistic Paradise Only Diverts The Productive Energy of the Populus](#no-your-hedonistic-paradise-only-diverts-the-productive-energy-of-the-populus)
+#### &#x03D5; [No, Your Hedonistic Paradise Only Diverts The Productive Energy of the Populus](#no-your-hedonistic-paradise-only-diverts-the-productive-energy-of-the-populus)
 
 ## [Monadic Metaphysics, Cognition and Meditation](#monadic-metaphysics-cognition-and-meditation)
 
-#### [Meditation with Lucidity and Wide Spectra of Sensory Input](#meditation-with-lucidity-and-wide-spectra-of-sensory-input)
+#### &#x03D5; [Meditation with Lucidity and Wide Spectra of Sensory Input](#meditation-with-lucidity-and-wide-spectra-of-sensory-input)
+
+#### &#x03D5; [Sensory Stimuli Triggers Conceptual Designation, Which Woven Together Constructs Cognitive State](#sensory-stimuli-triggers-conceptual-designation-which-woven-together-constructs-cognitive-state)
+
+#### &#x03D5; [Meditative States of Mind Do Not Uniquely Emerge From Meditation](#meditative-states-of-mind-do-not-uniquely-emerge-from-meditation)
+
+#### &#x03D5; [Invoking True Being](#invoking-true-being)
+
+#### &#x03D5; [A Posteriori, Experiential Understanding of Metaphysics](a-posteriori-experiential-understanding-of-metaphysics)
+
+#### &#x03D5; [Infinitely Inwards And Infintely Outwards Are One And The All](#infinitely-inwards-and-infinitely-outwards-are-one-and-the-all)
 
 
-
-
-#### Nietzsche, Nietzsche, wherefore art thou?
+## Nietzsche, Nietzsche, wherefore art thou?
 
 > I do not intend to culturally appropriate here. I have referenced
 > Buddhism, Alchemy and other cultural traditions, but do not read
@@ -87,7 +95,7 @@ originate?
 
 #### (Bodhicitta X Will To Power) => Spirit Bomb
 
-![Bodhicitta X Will To Power](/img/posts/2017-10-08-the-monadic-model-of-metaphysics-and-meditative-states-of-mind/goku-spirit-bomb.jpg)
+![Bodhicitta X Will To Power](/img/posts/2017-10-09-meditation-conceptual-designation-and-monadic-metaphysics/goku-spirit-bomb.jpg)
 
 We all have Buddha nature: all sentient beings. Not to probe too far
 into Buddhism, but what is sentience or awareness anyways? I truly
@@ -136,7 +144,7 @@ primarily malevolent.
 
 #### Buer is President of Hell, According To This Grimoire, the [Ars Goetia](https://en.wikipedia.org/wiki/List_of_demons_in_the_Ars_Goetia)
 
-![Buer, President of Hell](/img/posts/2017-10-08-the-monadic-model-of-metaphysics-and-meditative-states-of-mind/buer-president.jpg)
+![Buer, President of Hell](/img/posts/2017-10-09-meditation-conceptual-designation-and-monadic-metaphysics/buer-president.jpg)
 
 In this interpretation of metaphysics, non-corporeal entities could
 become aware -- they perhaps exist in the minds or brains of many
@@ -148,7 +156,7 @@ question more difficult to answer.
 
 #### A More Recent Manisfestation of the Being Known As Buer
 
-![Also Buer](/img/posts/2017-10-08-the-monadic-model-of-metaphysics-and-meditative-states-of-mind/buer-president-of-hell.jpg)
+![Also Buer](/img/posts/2017-10-09-meditation-conceptual-designation-and-monadic-metaphysics/buer-president-of-hell.jpg)
 
 <a name="back-to-one" />
 
@@ -191,7 +199,7 @@ it? Why does it matter who saves us?
 
 #### Is Suffering Necessary? Would You Choose to Stay Behind and Suffer, If You Could Make a Difference?
 
-![Ksitigarbha](/img/posts/2017-10-08-the-monadic-model-of-metaphysics-and-meditative-states-of-mind/ksitigarbha.jpg)
+![Ksitigarbha](/img/posts/2017-10-09-meditation-conceptual-designation-and-monadic-metaphysics/ksitigarbha.jpg)
 
 <a name="power-from-the-people-power-emanates-from-the-individual-first" />
 
@@ -235,7 +243,7 @@ a similar understanding of the monad.
 
 #### [Charles Sanders Pierce's](https://en.wikipedia.org/wiki/Charles_Sanders_Peirce) Conception of Monadic Metaphysics From [The Essential Pierce](https://books.google.com/books?id=T2weTOqdjqcC&pg=PA364&lpg=PA364&dq=but+out+of+the+triads+exclusively+external+forms&source=bl&ots=Jml7Z4cTnQ&sig=rocqdQOmMG7jdnjyCAbq4YuLWzo&hl=en&sa=X&ved=0ahUKEwiOioW93uDWAhVn4IMKHaFJB0AQ6AEIKjAA#v=onepage&q=but%20out%20of%20the%20triads%20exclusively%20external%20forms&f=false)
 
-![Monads The Essential Pierce](/img/posts/2017-10-08-the-monadic-model-of-metaphysics-and-meditative-states-of-mind/monad-dyad-triad.jpg)
+![Monads The Essential Pierce](/img/posts/2017-10-09-meditation-conceptual-designation-and-monadic-metaphysics/monad-dyad-triad.jpg)
 
 <a name="ergo-proxy" />
 
@@ -254,7 +262,7 @@ proxy.
 
 #### For The Philosophically Minded ... The *Best* Anime?
 
-![Ergo Proxy](/img/posts/2017-10-08-the-monadic-model-of-metaphysics-and-meditative-states-of-mind/ergo-proxy.png)
+![Ergo Proxy](/img/posts/2017-10-09-meditation-conceptual-designation-and-monadic-metaphysics/ergo-proxy.png)
 
 <a name="materialism-was-an-unfortunately-necessary-tool-for-the-powerful" />
 
@@ -324,6 +332,8 @@ which can evoke similar and potentially identical spiritual states of
 mind. Some kinds of prayer, especially when extended, force you to
 open your heart and surrender yourself and your mind to God.
 
+<a name="ketosis-and-autophagy-scale-up-the-brains-neural-evolutionary-mechanisms" />
+
 ### [Ketosis and Autophagy Scale Up The Brain's Neural Evolutionary Mechanisms](#ketosis-and-autophagy-scale-up-the-brains-neural-evolutionary-mechanisms)
 
 Fasting is another good example of a completely different approach to
@@ -344,16 +354,18 @@ zero carbs, zero proteins and nothing but water, insulin levels drop,
 which causes the body produce energy with ketosis by converting fat to
 energy. In the brain, fats are less available and without fats
 streaming in from the blood stream, your brain shuts down frivolous
-neural activity and begins enacting autophagy. When autophagy is
-invoked to the extreme or too often, the repetition or neurological
-changes could be damaging, so fasting has a cost. However, the brain
-begins reweighting neural networks to emphasis healthier behaviors. At
-the same time, the brain should constrict the patterns and
-distribition electrical and ionic flows across a restricted set of
-high and medium-level regions of itself.
+neural activity and begins enacting autophagy. This study,
+[Short-term fasting induces profound neuronal autophagy](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC3106288/),
+explains the induction of autophagy. When autophagy is invoked to the
+extreme or too often, the repetition or neurological changes could be
+damaging, so fasting has a cost. However, the brain begins reweighting
+neural networks to emphasis healthier behaviors. At the same time, the
+brain should constrict the patterns and distribition electrical and
+ionic flows across a restricted set of high and medium-level regions
+of itself.
 
 That is how fasting provokes spiritual states of mind. Combined with
-meditation, it could have powerful effects on the brain.I once fasted
+meditation, it could have powerful effects on the brain. I once fasted
 for about
 [72 hours starting on March 24th 2017](https://twitter.com/dcunit3d/status/845421448374210561),
 though only I only restricted myself to water as a fluid for the
@@ -368,8 +380,6 @@ when I briefly thought I could have
 I thought the autophagy *might* clean up toxic networks of glycogen
 buildup, as well as dying neurons. Try getting the chronicly ill to
 try this, it won't go over well with your *IRB*...
-
-#### Enumeration of Primative Forms From Graph Theory In Analytic Combinatorics
 
 <a name="voiding-neural-signal-to-kindle-novel-states-of-consciousness" />
 
@@ -424,7 +434,7 @@ in academia, It has been demonstrated, that
 
 #### Parietal Gyrus - [Dr. Greg Dunn](http://www.gregadunn.com/self-reflected/)
 
-![Parietal Gyrus - Dr. Greg Dunn](/img/posts/2017-10-08-the-monadic-model-of-metaphysics-and-meditative-states-of-mind/gregadunn-parietal-gyrus-closeup.jpg)
+![Parietal Gyrus - Dr. Greg Dunn](/img/posts/2017-10-09-meditation-conceptual-designation-and-monadic-metaphysics/gregadunn-parietal-gyrus-closeup.jpg)
 
 <a name="meditation-produces-more-natural-neural-decentralization-than-psychedelics" />
 
@@ -458,7 +468,7 @@ idiom, variety is the spice of life.
 
 #### Self-Reflected - Dr. Greg Dunn
 
-![Self-Reflected - Dr. Greg Dunn](/img/posts/2017-10-08-the-monadic-model-of-metaphysics-and-meditative-states-of-mind/gregadunn-self-reflected-in-violets.jpg)
+![Self-Reflected - Dr. Greg Dunn](/img/posts/2017-10-09-meditation-conceptual-designation-and-monadic-metaphysics/gregadunn-self-reflected-in-violets.jpg)
 
 <a name="cognition-with-diminished-conceptual-designation" />
 
@@ -524,7 +534,6 @@ technology, of course. Again, variety is the spice of life; we need
 variety of body, mind and spirit; anything that is to be adopted by
 100% of a population needs to be viewed with utmost skepticism.
 
-
 <a name="monadic-metaphysics-cognition-and-meditation" />
 
 # [Monadic Metaphysics, Cognition and Meditation](#monadic-metaphysics-cognition-and-meditation)
@@ -539,15 +548,15 @@ forms. [This article](http://seanrobsville.blogspot.com/2011/06/glimpse-of-non-c
 dives into conceptual designation more completely as it relates to
 meditation.
 
-![Goodwill Hunting](/img/posts/2017-10-08-the-monadic-model-of-metaphysics-and-meditative-states-of-mind/goodwill-hunting.jpg)
+#### In The Image Below, What Does Your Mind Notice First, Conceptually?
+
+![Goodwill Hunting](/img/posts/2017-10-09-meditation-conceptual-designation-and-monadic-metaphysics/goodwill-hunting.jpg)
 
 <!-- i think the above problem was chosen at least partially because of it's significance to metaphysics -->
 
 <a name="meditation-with-lucidity-and-wide-spectra-of-sensory-input" />
 
 ### [Meditation with Lucidity and Wide Spectra of Sensory Input](#meditation-with-lucidity-and-wide-spectra-of-sensory-input)
-
-(With more skill, can one maintain meditative states of mind with more sensory input?)
 
 Meditative practices encourage the development of these altered modes
 of consciousness. They are relaxing. It feels good. Furthermore, these
@@ -557,7 +566,27 @@ meditative skills to maintain a state of mind like this while 'lucid'
 or at least with the eyes open. A neurological understanding of how
 these states arise in your mind implies that changing the categories
 of sensory stimulation may also change subjective and objective
-aspects of these states.
+aspects of these states. With more skill, can one maintain meditative
+states of mind with more sensory input?
+
+#### Above, Enumeration of Primative Forms From Graph Theory In Analytic Combinatorics, Seen in Goodwill Hunting
+
+![Word Cloud Conceptual Designation](/img/posts/2017-10-09-meditation-conceptual-designation-and-monadic-metaphysics/word-cloud-conceptual-designation.jpg)
+
+What did your mind notice first, in the image above? Did it read the
+unfamiliar vocabulary of datascience? Or did it notice the simply the
+presence of words in English or Kanji? Or, most likely, it choose to
+"see" the whale or the fish first, but which one? This is conceptual
+designation. Can you turn it off? Can you look at this image with zero
+associations to the images, the text or anything else, especially with
+high-contrast colors and the immediate unconscious stimiluation of
+linguistic content? It's almost impossible, isn't it?
+
+<a name="sensory-stimuli-triggers-conceptual-designation-which-woven-together-constructs-cognitive-state" />
+
+### [Sensory Stimuli Triggers Conceptual Designation, Which Woven Together Constructs Cognitive State](#sensory-stimuli-triggers-conceptual-designation-which-woven-together-constructs-cognitive-state)
+
+#### This Cognitive State Ranges from Short-term to Long-term. Short-Term Cognitive State is Easily Disrupted
 
 Sensory stimuli easily trigger conceptual designation, which is partly
 why most of us learn to meditate in a relaxed state with their eyes
@@ -584,20 +613,40 @@ half-open. I've tried it a few times. It's difficult. If you train
 yourself to do this with zazen, then perhaps it alters how you
 experience fleeting "third eye" visual phenomena.
 
-If they could be maintained, what would other, more lucid or more open
-meditative states of mind be like? What would my experience be like?
-language must require conceptual designation. I assume that almost all
-structured thought would as well. Is this similar to the state of mind
-I feel when I play piano, either memorized or improvised? Is it
-similar to what I feel when I'm dancing and I'm hyperfocused, yet not
-focused at all? When I'm engaging in these activities, I feel varying
-degrees of constraint/structure on my cognitive processes. When I'm
-not trying to structure what I'm doing and I don't need to think about
-it, that's when I perform the best. My mind begins to wander or will
-simply fade into the background. I become the music, but part of my
-mind is freed to reflect back on itself, yet there's the same
-ephemerality: if I try to hard to control or focus that freed element
-of my mind, it breaks the meditative state of mind.
+#### Because This Image Is So Fantastic...
+
+![Ergo Proxy](/img/posts/2017-10-09-meditation-conceptual-designation-and-monadic-metaphysics/ergo-proxy-real-or-relu.jpg)
+
+<a name="meditative-states-of-mind-do-not-uniquely-emerge-from-meditation" />
+
+### [Meditative States of Mind Do Not Uniquely Emerge From Meditation](#meditative-states-of-mind-do-not-uniquely-emerge-from-meditation)
+
+There are many types of meditative states of mind. One must devote
+their lives to study from spiritual masters in order to advance. It is
+possible to spontaneously develop these understandings, whatever you
+might name them or call them, but it is not possible to learn these
+things from a book or a blog. You must learn from experience and
+devotion through apprenticeship is perhaps the best way.
+
+If these states could be maintained, what would other, more lucid or
+more open meditative states of mind be like? What would my experience
+be like?  language must require conceptual designation. I assume that
+almost all structured thought would as well. Is this similar to the
+state of mind I feel when I play piano, either memorized or
+improvised? Is it similar to what I feel when I'm dancing and I'm
+hyperfocused, yet not focused at all? When I'm engaging in these
+activities, I feel varying degrees of constraint/structure on my
+cognitive processes. When I'm not trying to structure what I'm doing
+and I don't need to think about it, that's when I perform the best. My
+mind begins to wander or will simply fade into the background. I
+become the music, but part of my mind is freed to reflect back on
+itself, yet there's the same ephemerality: if I try to hard to control
+or focus that freed element of my mind, it breaks the meditative state
+of mind.
+
+<a name="invoking-true-being" />
+
+### [Invoking True Being](#invoking-true-being)
 
 Is this what it feels like to truly exist? Is this what truly being
 feels like? Are there those of use who can activate these states of
@@ -606,6 +655,10 @@ Is it because the performers become one with themselves and one with
 the audience? Is there some connection established that no Grateful
 Dead recording could ever replicate?
 
+#### Gotcha? Real or Re-Lu, She Has The Prima Materia
+
+![The Re-Lu Ergo Proxy](/img/posts/2017-10-09-meditation-conceptual-designation-and-monadic-metaphysics/ergo-proxy-3.jpg)
+
 What is the most basic substance of metaphysics? The metaphysical
 atom? It is the monad, but the true essence of the monad is infinitely
 distance. It is only through the monad proxy that, through this
@@ -613,6 +666,10 @@ conceptualization can all the Platonic forms be conceptualized. As the
 forms extend infinitely outward with the monad proxy, they
 asymptotically converge to one: the monad itself. Thus, meditation
 would give us an `a posteriori` understanding of metaphysical oneness.
+
+<a name="a-posteriori-experiential-understanding-of-metaphysics" />
+
+### [A Posteriori, Experiential Understanding of Metaphysics](a-posteriori-experiential-understanding-of-metaphysics)
 
 Total non-conceptual awareness means you mind is not laying down any
 structure onto your experience: semantic, linguistic or semiotic. I
@@ -625,54 +682,26 @@ Does this experience approach that of the one is the all, the all is
 the one? If so, this is functionally linked to a monadic model of
 metaphysics.
 
-Your being contracts inwards, but also infinitely
-outwards. Therefore, idealized states of mind produce an experiential
-understanding of this oneness and allness. You experience the monad:
-which I believe to be the
-[prima materia](https://en.wikipedia.org/wiki/Prima_materia), or the
-starting material for the philosopher's stone. It is through an vivid,
-seasoned understanding of this state of mind that we are able to
-model, conceptualize and transvalue all things. From here, we begin
+<a name="infinitely-inwards-and-infinitely-outwards-are-one-and-the-all" />
+
+### [Infinitely Inwards And Infintely Outwards Are One And The All](#infinitely-inwards-and-infinitely-outwards-are-one-and-the-all)
+
+Your being contracts inwards, but also infinitely outwards. Therefore,
+idealized states of mind produce an experiential understanding of this
+oneness and allness. You experience the monad: which I believe to be
+the [prima materia](https://en.wikipedia.org/wiki/Prima_materia), or
+the starting material for the philosopher's stone. It is through an
+vivid, seasoned understanding of this state of mind that we are able
+to model, conceptualize and transvalue all things. From here, we begin
 our journey to transform ourselves and our surroundings from lead into
 gold.
 
-- brief connection on meditative states of mind to other spiritual
-  tradiations (extended prayer, etc)
-  - need to do a bit of research on this.
-  - this needs to be a bit earlier
-  - there should also be a thesis statement at the top
+#### Looking Back On Yourself Looking Back At Yourself
 
-### Conditioning of Conceptual Designation Leads to a Distracted Mind
+![Replication of Semiotic Image](/img/posts/2017-10-09-meditation-conceptual-designation-and-monadic-metaphysics/ergo-proxy-2.jpg)
 
-  - also, people who i feel like used hypnotis or NLP techniques,
-    would condition me with stimuli that distracted my focus and
-    layered meaning onto stimuli.
-    - (this is like layering in emphasis onto stimuli and conditioning
-      the mind to divert its energy in particular ways)
-    - if they actually were doing this, they could then trigger my
-      cognitive processes to react to specific imagery and types of
-      sensory experience.
-    - they could cause my mind to change the quality of cognitive
-      activities. it causes your mind to be triggered into utilizing
-      different neurological modalities (a term which NLP references
-      heavily)
-    - it can be incredibly distracting, especially if you have ADD or
-      aspergers
-    - for example, in context of the expression "he pushed my
-      buttons", NLP is like how you create those buttons.
-      - you can then subtly trigger someone to begin thinking about
-        specific imagery or trigger brief emotional states that the
-        person becomes more likely to re-express in the short-term
-    - if so, it's interesting how these techniques are kind of like
-      *the opposite* of gradually shedding conceptual designation in
-      that they condition you to create artificial constructs
-    - and if someone did this intentionlly and surreptitiously, this
-      seems a bit ... mean. and like not just mean. it seems like
-      something you might see in a silence of the lambs movie. like
-      something the serial killer character could and would do to
-      people.
-      - and it requires so much forethought, plenty of regular contact
-        with the subject/target, and *constant* focus on the malicious
-        intent of bringing harm to that person.
-      - "Anthony Hopkins uses NLP to butter his victims up. Be like
-        Hopkins"
+#### Signing out,
+
+#### David Conner
+
+#### Lead Metaphysicist at Plato's Closet
