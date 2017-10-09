@@ -337,6 +337,8 @@ I get food now?  What are the most important things I know? How are my
 neural networks weighted now and how can they be weighted so that I
 can survive?
 
+#### Lumosity, It's Like "Games" For *Your* Brain: [Watch this Vine](https://vine.co/v/hY5uiOLzlxl) "Neroscience"
+
 This provokes neurological rebalancing by invoking autophagy. With
 zero carbs, zero proteins and nothing but water, insulin levels drop,
 which causes the body produce energy with ketosis by converting fat to
