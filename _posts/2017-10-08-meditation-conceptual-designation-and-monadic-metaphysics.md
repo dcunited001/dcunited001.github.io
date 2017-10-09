@@ -34,7 +34,9 @@ excerpt: ""
 
 #### &#x03D5; [Dialetical Materialism Provided A Philosophic Basis For Stalin's Utilitarian Atrocities](#dialectical-materialism-provided-a-philosophic-basis-for-stalins-utilitarian-atrocities)
 
-## [Monadic Metaphysics, Cognition and Meditation](#monadic-metaphysics-cognition-and-meditation)
+## [A Neuroanatomical Objectification of Meditation and Spirituality](#a-neuro-anatomical-objectification-of-meditation-and-spirituality)
+
+#### [Ketosis and Autophagy Scale Up The Brain's Neural Evolutionary Mechanisms](#ketosis-and-autophagy-scale-up-the-brains-neural-evolutionary-mechanisms)
 
 #### [Voiding Neural Signal to Kindle Novel States of Consciousness](#voiding-neural-signal-to-kindle-novel-states-of-consciousness)
 
@@ -50,8 +52,28 @@ excerpt: ""
 
 #### [No, Your Hedonistic Paradise Only Diverts The Productive Energy of the Populus](#no-your-hedonistic-paradise-only-diverts-the-productive-energy-of-the-populus)
 
+## [Monadic Metaphysics, Cognition and Meditation](#monadic-metaphysics-cognition-and-meditation)
+
 #### [Meditation with Lucidity and Wide Spectra of Sensory Input](#meditation-with-lucidity-and-wide-spectra-of-sensory-input)
 
+
+
+
+#### Nietzsche, Nietzsche, wherefore art thou?
+
+> I do not intend to culturally appropriate here. I have referenced
+> Buddhism, Alchemy and other cultural traditions, but do not read
+> this and assume that I have spoken authoritatively on any religious
+> tradition. Meditation herein variously refers to Buddhist meditation
+> and spiritual states of mind. I was heavily influenced by a lite
+> understanding of theosophy early on. Here, I am only trying to state
+> my own understanding of what I have experienced in life. I hope that
+> this neuroanatomical understanding of meditation and spirituality
+> will catalyze a spiritual revolution when we need it most, at a time
+> when faith was undermined by science and God is dead. Expect my
+> writing to disappear or become heavily edited. Further, do your own
+> research, develop your own understanding, but as the idea of God
+> lies dead, humanity needs God most. God will return.
 
 <a name="do-we-all-have-buddha-nature" />
 
@@ -282,25 +304,70 @@ understand people as inconsequential blobs of material, only useful
 insofar as they could be used. People then became a kind of
 ammunition: a resource to be lobbed at the enemy.
 
-<a name="monadic-metaphysics-cognition-and-meditation" />
+<a name="a-neuro-anatomical-objectification-of-meditation-and-spirituality" />
 
-# [Monadic Metaphysics, Cognition and Meditation](#monadic-metaphysics-cognition-and-meditation)
+# [A Neuroanatomical Objectification of Meditation and Spirituality](#a-neuro-anatomical-objectification-of-meditation-and-spirituality)
 
-What impacts do various conceptions of metaphysics have on the human
-mind, on cognition and on meditative states of mind?  Some meditative
-practices encourage the development and experience of states of mind
-where conceptual designation is recessed. Conceptual designation
-occurs when the mind imbues our sensory experience with layers of
-metaphysical
-forms. [This article](http://seanrobsville.blogspot.com/2011/06/glimpse-of-non-conceptual-awareness.html)
-dives into conceptual designation more completely as it relates to
-meditation.
+To produce spiritual states of mind, would there be certain
+neuroanatomical objectives or goals for invoking them? If you control
+your mind, your motor faculties, your cognitive patterns, aren't you
+influencing electrical and energetic flows within your body, spine and
+brain? So, if you understand your brain as a computer with complex,
+biological transistors, then changing the electrical and energetic
+flows, globally, regionally and circuituitously absolutely has an
+effect on how they regulate themselves.
+
+Further, this is a discussion of neuroanatomy as it relates to
+spirituality in general, with a strong focus on Buddhist
+meditation. Christianity and other religious traditions have practices
+which can evoke similar and potentially identical spiritual states of
+mind. Some kinds of prayer, especially when extended, force you to
+open your heart and surrender yourself and your mind to God.
+
+### [Ketosis and Autophagy Scale Up The Brain's Neural Evolutionary Mechanisms](#ketosis-and-autophagy-scale-up-the-brains-neural-evolutionary-mechanisms)
+
+Fasting is another good example of a completely different approach to
+invoking alternative spiritual states of mind. Fasting for 48 hours or
+longer -- with zero carbs, zero proteins, zero fats, and zero fluids
+besides water --scales up your neurological rate of adaptation. It
+forces your neural networks to rebalance themselves. In my own theory
+to explain fasting, it seems to cause the mind and brain to freak
+out. The brain thinks -- I'm dying! -- what am I doing wrong? How can
+I get food now?  What are the most important things I know? How are my
+neural networks weighted now and how can they be weighted so that I
+can survive?
+
+This provokes neurological rebalancing by invoking autophagy. With
+zero carbs, zero proteins and nothing but water, insulin levels drop,
+which causes the body produce energy with ketosis by converting fat to
+energy. In the brain, fats are less available and without fats
+streaming in from the blood stream, your brain shuts down frivolous
+neural activity and begins enacting autophagy. When autophagy is
+invoked to the extreme or too often, the repetition or neurological
+changes could be damaging, so fasting has a cost. However, the brain
+begins reweighting neural networks to emphasis healthier behaviors. At
+the same time, the brain should constrict the patterns and
+distribition electrical and ionic flows across a restricted set of
+high and medium-level regions of itself.
+
+That is how fasting provokes spiritual states of mind. Combined with
+meditation, it could have powerful effects on the brain.I once fasted
+for about
+[72 hours starting on March 24th 2017](https://twitter.com/dcunit3d/status/845421448374210561),
+though only I only restricted myself to water as a fluid for the
+latter 48 hours was restricted to water.  If you don't restrict sugar
+or carbs, you don't get ketosis. If you don't restrict fluids to
+water, the protracted ketosis doesn't yield nearly as much autophagy
+in the brain. This has short-term and long-term costs, like lack of
+energy or overly-disrupted neural networks, but fasting is being
+explored for treating neurological disorders. I experimented with it
+when I briefly thought I could have
+[Lafora Disease](https://en.wikipedia.org/wiki/Lafora_disease) because
+I thought the autophagy *might* clean up toxic networks of glycogen
+buildup, as well as dying neurons. Try getting the chronicly ill to
+try this, it won't go over well with your *IRB*...
 
 #### Enumeration of Primative Forms From Graph Theory In Analytic Combinatorics
-
-![Goodwill Hunting](/img/posts/2017-10-08-the-monadic-model-of-metaphysics-and-meditative-states-of-mind/goodwill-hunting.jpg)
-
-<!-- i think the above problem was chosen at least partially because of it's significance to metaphysics -->
 
 <a name="voiding-neural-signal-to-kindle-novel-states-of-consciousness" />
 
@@ -455,6 +522,25 @@ technology, of course. Again, variety is the spice of life; we need
 variety of body, mind and spirit; anything that is to be adopted by
 100% of a population needs to be viewed with utmost skepticism.
 
+
+<a name="monadic-metaphysics-cognition-and-meditation" />
+
+# [Monadic Metaphysics, Cognition and Meditation](#monadic-metaphysics-cognition-and-meditation)
+
+What impacts do various conceptions of metaphysics have on the human
+mind, on cognition and on meditative states of mind?  Some meditative
+practices encourage the development and experience of states of mind
+where conceptual designation is recessed. Conceptual designation
+occurs when the mind imbues our sensory experience with layers of
+metaphysical
+forms. [This article](http://seanrobsville.blogspot.com/2011/06/glimpse-of-non-conceptual-awareness.html)
+dives into conceptual designation more completely as it relates to
+meditation.
+
+![Goodwill Hunting](/img/posts/2017-10-08-the-monadic-model-of-metaphysics-and-meditative-states-of-mind/goodwill-hunting.jpg)
+
+<!-- i think the above problem was chosen at least partially because of it's significance to metaphysics -->
+
 <a name="meditation-with-lucidity-and-wide-spectra-of-sensory-input" />
 
 ### [Meditation with Lucidity and Wide Spectra of Sensory Input](#meditation-with-lucidity-and-wide-spectra-of-sensory-input)
@@ -547,13 +633,6 @@ seasoned understanding of this state of mind that we are able to
 model, conceptualize and transvalue all things. From here, we begin
 our journey to transform ourselves and our surroundings from lead into
 gold.
-
-(move up) I do not intend to culturally appropriate here. I have
-referenced Buddhism, Alchemy and other cultural traditions, but do not
-read this and assume that I have spoken authoritatively on any
-religious tradition. I was heavily influenced by a lite understanding
-of theosophy early on. Here, I am only trying to state my own
-understanding of what I have experienced in life. I hope that my ...
 
 - brief connection on meditative states of mind to other spiritual
   tradiations (extended prayer, etc)
