@@ -91,17 +91,16 @@ open your heart and surrender yourself and your mind to God."
 > infecting anyone I come into contact with. I would simply be
 > inviting evil into a monastery.
 >
-> Meditation herein variously refers
-> to Buddhist meditation and spiritual states of mind. I was heavily
-> influenced by a lite understanding of theosophy early on. Here, I am
-> only trying to state my own understanding of what I have experienced
-> in life. I hope that this neuroanatomical understanding of
-> meditation and spirituality will catalyze a spiritual revolution
-> when we need it most, at a time when faith was undermined by science
-> and God is dead. Expect my writing to disappear or become heavily
-> edited. Further, do your own research, develop your own
-> understanding, but as the idea of God lies dead, humanity needs God
-> most. God will return.
+> Meditation herein variously refers to Buddhist meditation and
+> spiritual states of mind. I was heavily influenced by a lite
+> understanding of theosophy early on. Here, I am only trying to state
+> my own understanding of what I have experienced in life. I hope that
+> this neuroanatomical understanding of meditation and spirituality
+> will catalyze a spiritual revolution when we need it most, at a time
+> when faith was undermined by science and God is dead. Expect my
+> writing to disappear or become heavily edited. Further, do your own
+> research, develop your own understanding, but as the idea of God
+> lies dead, humanity needs God most. God will return.
 
 <a name="do-we-all-have-buddha-nature" />
 
@@ -119,11 +118,13 @@ originate?
 
 We all have Buddha nature: all sentient beings. Not to probe too far
 into Buddhism, but what is sentience or awareness anyways? I truly
-believe that any chaotic system, with perhaps some constraints,
-produces awareness when provided enough running time. Given a degree
-of antifragility, entities or organizations within the chaotic system
-produce increasingly higher strata of information representation,
-leading eventually to life, awareness and sentience.
+believe that
+[any chaotic system](/posts/2017-09-14-awareness-precipitates-from-order-out-of-chaos.html),
+with perhaps some constraints, produces awareness when provided enough
+running time. Given a degree of antifragility, entities or
+organizations within the chaotic system produce increasingly higher
+strata of information representation, leading eventually to life,
+awareness and sentience.
 
 <a name="can-non-corporeal-information-forms-evolve-sentience" />
 
@@ -418,6 +419,10 @@ the brain processes afferent nerve signals carrying signal up through
 the spine. Once the motor signals are zeroed out, I try to turn down
 the volume of active cognitive processes.
 
+#### Circuit Trace from Motor Cortex through Spinal Column. Again, Form *IS* Function
+
+![Motor Homunculus](/img/posts/2017-10-09-meditation-conceptual-designation-and-monadic-metaphysics/motor-homunculus.jpg)
+
 <a name="the-fleeting-nature-of-meditative-consciousness" />
 
 ### [The Fleeting Nature of Meditative Consciousness](#the-fleeting-nature-of-meditative-consciousness)
@@ -522,6 +527,10 @@ connection, which is why I will never modify my brain in that
 way. I've maintained that view for years now, since transhumanism
 represents the technological embodiment of the left-hand path.
 
+#### The Spinal Dermatome: Tactile Regions Mapped To Their Nerves. Form IS Function.
+
+![Spinal Dermatome](/img/posts/2017-10-09-meditation-conceptual-designation-and-monadic-metaphysics/spinal-dermatome-sensory-nerve-map.jpg)
+
 Any crude BCI will certainly distort behavior of circuits and regions,
 eventually physically deforming them. Without massive structural
 changes, it's not clear that the brain can actually extend the mind's
@@ -548,6 +557,19 @@ control the rest of us via ownership of technology. As much as the
 pragmatic and materialistic want to write off philosophy as a liberal
 art with no economic utility, the battles we face are
 philosophical.
+
+#### Nerve Bundling in the Spinal Column: Arranged In ~2D~ Space (Flexor/Extensor X Homunculus)
+
+![Spinal Column Nerve Bundling](/img/posts/2017-10-09-meditation-conceptual-designation-and-monadic-metaphysics/spinal-column-nerve-bundling.jpg)
+
+Did you notice how the arrangement of nerves in the spinal column can
+be simplified into a two dimensional arrangement? Look at the areas in
+the red box. Such an understanding of nerve arrangements is required
+for surgery or cybernetics. If you combine this understanding with
+knowledge of neural networks and machine learning, especially as
+applied biologically, then you will understand what I understand:
+transhumanism's intent to modify function & form of the human brain
+should provoke concern.
 
 With BCI technology, if we permanently divorce ourselves from our
 wetware's *true* spiritual connection, what then? Are we permanently

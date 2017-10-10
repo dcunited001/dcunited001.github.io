@@ -185,7 +185,6 @@ headline: "Informational Territory > Sociohierarchical Territory > Economic Terr
   - semiotics also changes. signs can be remapped.
     - IP's change how we think of
 
-
 ### Risk And Opportunity Cost
 
 ### Costs And Gains
@@ -194,6 +193,18 @@ headline: "Informational Territory > Sociohierarchical Territory > Economic Terr
 
 - the difficult-to-define functional gains from "owning" something
   - gains on economic capacity
+
+### Narrative and (Capacity for Narration)
+
+- what is the story?
+  - e.g. how was this sociohierarchical role acquired? how was this
+    image marketed/branded? how was this patent invented etc? how was
+    this word created and why?
+
+- what is the capacity to project information to/with/about the
+  (territory)?
+  - how does it augment your ability to influence informational
+    dynamics?
 
 # Four Types of Territory
 
@@ -218,6 +229,12 @@ headline: "Informational Territory > Sociohierarchical Territory > Economic Terr
   - intellectual property
   - newsfeeds, social media accounts/pages, etc
   - networking infrastructure
+
+#### Spectral De/coherence
+
+- how is this similar to the widespread sociohierarchical structural
+  changes?
+  - at the same time that 
 
 
 ### Sociohierarchical Territory
@@ -279,8 +296,6 @@ headline: "Informational Territory > Sociohierarchical Territory > Economic Terr
   - religious
   - non-profit
   - popular (community organizations, activist, meetups/etc)
-    -
-
 
 ### Economic Territory
 
