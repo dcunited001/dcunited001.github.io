@@ -523,12 +523,12 @@ part four:
 
 - (Our shared fabric for (communication) is shedding its
   physicality, (its discrete quality), and finally its temporality,
-  congealing into ...) 
+  congealing into ...)
   - illusion of separation
 
 As limits on communication (converge) towards their
 asymptotic ideals, information self-replicates (with evolutionary
-dynamics) until it approaches aphysical ... 
+dynamics) until it approaches aphysical ...
 
 - Information becomes free of physical constraint.
 - it's notion of having originated in a location, being bound to

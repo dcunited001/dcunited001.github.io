@@ -53,6 +53,16 @@ headline: "Informational Territory > Sociohierarchical Territory > Economic Terr
             - yet, deceiving someone in this state only to have that
               group of people find out later will end up backfiring
 
+- the dynamics and mechanics of information creation, storage,
+  diffusion, persistence and elimination are being dramatically
+  transformed month after month.
+  - the only thing that is certain is that change is
+    exponential. anyone dictating their policy with a static vision of
+    the future will be blindsided. (their fortunes will be found in a
+    future past)
+  - what story will history tell about me and all the people like me?
+    what do you actually plan on doing?
+
 - as sociohierarchical territory shrinks, the number of people also
   shrinks who have influence over a proportionally greater amount of
   people

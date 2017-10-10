@@ -8,6 +8,10 @@ author:
 excerpt: ""
 ---
 
+- ![](/img/posts/2017-10-10-speed-of-thought-social-physics/
+
+![Essais sur la Mechanique Sociale](/img/posts/2017-10-10-speed-of-thought-social-physics/essais-sur-la-mechanique-sociale.jpg)
+
 - ~transvaluation of all (cognition or cognitive faculties or skills)~
   and of all information
 
@@ -58,11 +62,69 @@ excerpt: ""
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/QBGaO89cBMI" frameborder="0" allowfullscreen></iframe>
 
-- there are some things ancient people understood more clearly than we
-  do today.
+- t
 
 
-### [Marathon and Thermopylae](#marathon-and-thermopylae)
+
+## [A Marathon and Thermopylae for the Spartan](#a-marathon-and-thermopylae-for-the-spartan)
+
+#### &#x2605; [Novel Types of 21st Century Territory and Their Thermopylaean Chokepoints](#novel-types-of-21st-century-territory-and-their-thermopylaean-chokepoints)
+
+#### &#x2605; [An Eden Of Sociocultural Experimentation, Borne From The Idiosyncracic Geography of Greece](#an-eden-of-sociocultural-experimentation-borne-from-the-idiosyncratic-geography-of-greece)
+
+## [Social and Informational Thermodynamics and Convexity](#social-and-informational-thermodynamics-and-convexity)
+
+#### &#x2605; [Thermal Convection of Information](#thermal-convection-of-information)
+
+#### &#x2605; [Humanity's Measures of Connectedness Vary Geographically](#humanitys-measures-of-connectedness-vary-geographically)
+
+#### &#x2605; [Mesopotamia And Mesoamerica: The Old World Connectivity Maximums](#mesopotamia-and-mesoamerica-the-old-world-connectivity-maximums)
+
+#### &#x2605; [North Korea as a Global Minimum of Connectivity](#north-korea-as-a-global-minimum-of-connectivity)
+
+#### &#x2605; [North Korean Paranoia Undermined Their Posture For Economic Development](#north-korean-paranoia-undermined-their-posture-for-economic-development)
+
+#### &#x2605; [All Significant Revolutions Expect Paranoia For Their Violent, Treacherous Transgressions](#all-significant-revolutions-expect-paranoia-for-their-violent-treacherous-transgressions)
+
+#### &#x2605; [North Korea's Strategy Never Had An Endgame](#north-koreas-strategy-never-had-an-endgame)
+
+#### &#x2605; [America and Europe as a Modern Sociophysical Connectivity Maximum](#america-and-europe-as-a-modern-sociophysical-connectivity-maximum)
+
+#### &#x2605; [Artificial Diminuation and Amplification of Information Yields Dangerous Self-Delusion](#artificial-diminuation-and-amplification-of-information-yields-dangerous-self-delusion)
+
+## [The Bird's Eye View of Social Physics](#the-birds-eye-view-of-social-physics)
+
+#### &#x2605; [Do You See What I See?](#do-you-see-what-i-see)
+
+#### &#x2605; [An Infinite-Dimensional Generalization of Physics and Molecular Dynamics](#an-infinite-dimensional-generalization-of-physics-and-molecular-dynamics)
+
+#### &#x2605; [A 19th Century Attempt to Quantify Sociological Phenomena](#a-19th-century-attempt-to-quantify-sociological-phenomena)
+
+#### &#x2605; [How Does The Information Schema Affect The Spatiotemporal Computability?](#how-does-the-information-schema-affect-the-spatio-temporal-computability)
+
+#### &#x2605; [Sports Like Soccer Or Football Are Well-Defined Sociophysical Games](#sports-like-soccer-or-football-are-well-defined-sociophysical-games)
+
+
+
+There are countless aspects of life that ancient people understood
+more clearly than we do today. In many, standing on the shoulders of
+giants has yielded crippled versions of ourselves because we were
+always molded and die-cast by a typology of life experience now
+*decimated* by technology.
+
+For the powerful, this is desirable. They can sell us technology to
+solve our problems, while our growing dependencies on it
+short-circuits the types of life experience that imbue our
+worldview. In some ways, this makes us easier to control. We simply do
+not have the same sheer drive that powers those of us who have learned
+through pain and all the simple joys we'll never know. For all its
+benefit, power and utility, Technology can never replace this value of
+the struggle. The societies who artificially maintain these mechanisms
+enjoy prosperity *and remain strong*.
+
+<a name="a-marathon-and-thermopylae-for-the-spartan" />
+
+# [A Marathon and Thermopylae for the Spartan](#a-marathon-and-thermopylae-for-the-spartan)
 
 At the battle of Marathon, the Greeks defeated the Persians. News of
 this victory was so critical that Pheidippides ran over twenty miles
@@ -77,7 +139,20 @@ Persians and funneled vigor into the hearts of Greeks to rise up and
 resist the oncoming hordes. Would this envigorating effect have been
 possible if not for the story? What if it couldn't be told?
 
-### (democratic tradition in greece)
+<a name="novel-types-of-21st-century-territory-and-their-thermopylaean-chokepoints" />
+
+### [Novel Types of 21st Century Territory and Their Thermopylaean Chokepoints](#novel-types-of-21st-century-territory-and-their-thermopylaean-chokepoints)
+
+The importance of Thermopylae to the Spartan victory was their
+tactical utilization of the territory. It's the greatest story of
+deception leading an army to a chokepoint. Today, with information
+warfare, sociohierarchical conflict, economic warfare, there are many
+novel kinds of territory. For each type and metatype of territory,
+where are the imaginable chokepoints?
+
+<a name="an-eden-of-sociocultural-experimentation-borne-from-the-idiosyncratic-geography-of-greece" />
+
+### [An Eden Of Sociocultural Experimentation, Borne From The Idiosyncracic Geography of Greece](#an-eden-of-sociocultural-experimentation-borne-from-the-idiosyncratic-geography-of-greece)
 
 During the first millinea B.C., a confluence of Greek
 technology, culture and geography, encouraged a philosophic
@@ -89,7 +164,9 @@ force. This itself wasn't unique, but we managed to maintain their
 literary tradition. In doing so, we preserved the best record this
 phenomenon in Western history.
 
-# 
+<a name="social-and-informational-thermodynamics-and-convexity" />
+
+# [Social and Informational Thermodynamics and Convexity](#social-and-informational-thermodynamics-and-convexity)
 
 In the ancient world, population growth and movement was tightly
 coupled to economic opportunity, constrained by resources, and bounded
@@ -136,7 +213,9 @@ Those in island nations or beyond the tropics of Cancer and Capricorn,
 both of which would incidentally be more likely to understand the
 spherical shape of the earth.
 
-### (Middle east as the old world's maximum of connectivity)
+<a name="mesopotamia-and-mesoamerica-the-old-world-connectivity-maximums" />
+
+### [Mesopotamia And Mesoamerica: The Old World Connectivity Maximums](#mesopotamia-and-mesoamerica-the-old-world-connectivity-maximums)
 
 As for the Middle East, its high degree of connection, its proximity
 to geographic chokepoints and its access to large swaths of ocean
@@ -148,6 +227,12 @@ people are more widely spread out, it is more rare to have large 2nd
 and 3rd degree networks, which conferred major advantages. Those with
 wealth could finance transport and delegate action, which further
 helped expand those networks.
+
+The shifting power centers of Olmec, Maya, Inca and Aztec repositioned
+the Mesoamerican nexus of connectivity. Why? Strategic control over
+the Panamanian isthmus conferred the same economic and sociophysical
+benefits as control over the Mesopotamian region. The power centers
+shifted in America, just as they did for the center of the Old World.
 
 <a name="north-korea-as-a-global-minimum-of-connectivity" />
 
@@ -179,17 +264,25 @@ of exports and economic competitiveness. You are missing out on the
 greatest period of human development because you're stewing over
 something that happened four generations ago.
 
+<a name="north-korean-paranoia-undermined-their-posture-for-economic-development" />
+
+### [North Korean Paranoia Undermined Their Posture For Economic Development](#north-korean-paranoia-undermined-their-posture-for-economic-development)
+
 The future of the world lies in the information economy and
-information warfare. What matters now is sociohierarchical territory
-and informational territory. How can you ever expect to compete in the
-information economy with completely restricted access to the internet
-and near-zero consumer adoption of internet-capable devices? You
-can't, which begs the question: who is informing your leadership's
-long-term strategies? In a digital economy, products are
-informational. NK citizens simply can't be consumers or producers of
-content. AFAIK, NK citizens aren't even allowed to have radios because
-NK paranoia is stuck in the 1960's soviet mindset of information
-control.
+information warfare. Today, what matters most is the sociohierarchical
+territory and informational territory that sets you up to maintain
+prosperity. How can you ever expect to compete in the information
+economy with completely restricted access to the internet and
+near-zero consumer adoption of internet-capable devices? You can't,
+which begs the question: who is informing your leadership's long-term
+strategies? In a digital economy, products are informational. NK
+citizens simply can't be consumers or producers of content. AFAIK, NK
+citizens aren't even allowed to have radios because NK paranoia is
+stuck in the 1960's soviet mindset of information control.
+
+<a name="all-significant-revolutions-expect-paranoia-for-their-violent-treacherous-transgressions" />
+
+### [All Significant Revolutions Expect Paranoia For Their Violent, Treacherous Transgressions](#all-significant-revolutions-expect-paranoia-for-their-violent-treacherous-transgressions)
 
 All communist revolutions expect such paranoia *and they use it!* Even
 for those non-Marxist revolutions -- viz. all revolutions with
@@ -208,7 +301,11 @@ need to sort this out. The first thing that must happen is total
 nuclear disarmament and the rest of the world is infuriated that NK
 leadership expected to use nuclear weapons as bargaining chips.
 
-It's strategy has no endgame, other than becoming an international
+<a name="north-koreas-strategy-never-had-an-endgame" />
+
+### [North Korea's Strategy Never Had An Endgame](#north-koreas-strategy-never-had-an-endgame)
+
+North Korea's strategy has no endgame, other than becoming an international
 school shooter. Since the 1980's, this strategy has left No hardware
 platform for internet, no participation in the information economy, no
 media creation tools, no training or education on those tools, no
@@ -238,6 +335,10 @@ overcome these issues at some point and we have, which has also made
 America and Europe and other highly connected non-Western regions
 connectivity maximums. This fuels our platform for economic growth.
 
+<a name="artificial-diminuation-and-amplification-of-information-yields-dangerous-self-delusion" />
+
+### [Artificial Diminuation and Amplification of Information Yields Dangerous Self-Delusion](#artificial-diminuation-and-amplification-of-information-yields-dangerous-self-delusion)
+
 Furthermore, we'll never find ourselves in an isolated fortress, which
 is
 [Law #18 of the 48 Laws of Power](https://48laws-of-power.blogspot.com/2011/05/law-18-do-not-build-fortresses-to.html). If
@@ -254,26 +355,56 @@ widespread fear over anything that might be different. There is some
 information that is dangerous, but we are throwing the baby out with
 the bathwater.
 
-# (Social Physics Overview)
+<a name="the-birds-eye-view-of-social-physics" />
 
-Sociophysical systems are usually too complex to yield truly
+# [The Bird's Eye View of Social Physics](#the-birds-eye-view-of-social-physics)
+
+When an eagle looks down, using it's impressive eyesight to soak up
+what it can, does the world appear as 3D or 2D? It's perspective from
+that height provides a dimensional reduction and the details it
+absorbs enables it to see shapes and patterns emerge in individual and
+social behaviors, unaware to the animals engaging in those
+behaviors. Humanity might think itself peaking the top of the food
+chain, but birds of prey are also elevated among the rest of animals
+in many ways. This status creates the imagery and fuels the strong
+symbolism that motivates the depiction of birds of prey in national
+flags, as well as their prominent place in myth and culture. By
+observing birds of prey from a distance, if you're lucky enough to see
+on, you can indirectly glean information about your surroundings, if
+you're wise and foolish enough to make those inferences.
+
+<a name="do-you-see-what-i-see" />
+
+### [Do You See What I See?](#do-you-see-what-i-see)
+
+Sociophysical systems are usually too complex to yield perfectly
 scientific evidence, these metaphors and metrics are invaluable tools
 yielding philosophic insights. They sharpen our inductive reasoning
 for social behavior and history, giving us options that will yield
 concrete scientific evidence. Most social systems modeled with
 physical components are incomputable, but computational social science
-is harnessing these ideas today. (cite study)
+is harnessing these ideas today.
 
-### (Intractibility)
+- (cite study: about virtual/physical comm. networks)
 
-Information has a life of its own and nowhere does this become more
-clear than in social physics, which is a mathematical framework for
-modeling idealized social behavior with physical constraints. (It's
-mind blowing, but the bad news is) that almost every problem is
-incomputable. Incredibly useful insights can be extrapolated from a
-philosophic exploration of social physics.
+<a name="an-infinite-dimensional-generalization-of-physics-and-molecular-dynamics" />
 
-###
+### [An Infinite-Dimensional Generalization of Physics and Molecular Dynamics](#an-infinite-dimensional-generalization-of-physics-and-molecular-dynamics)
+
+Information has a life of its own. Nowhere does this become more clear
+than in social physics, which is a mathematical framework for modeling
+idealized social behavior with physical constraints. The initial
+revelations of social physics yield mind-blowing epiphanies for
+structuring, objectifying and quantifying social interactions. The bad
+news: almost every problem is incomputable. Still, one can extrapolate
+incredibly useful insights from the mere philosophic exploration of
+social physics.
+
+<a name="a-19th-century-attempt-to-quantify-sociological-phenomena" />
+
+### [A 19th Century Attempt to Quantify Sociological Phenomena](#a-19th-century-attempt-to-quantify-sociological-phenomena)
+
+#### This Ain't Nobody's First Rodeo
 
 Social physics was originally developed in the 19th century (links?)
 to quantify sociological situations and particularly how the behavior
@@ -289,6 +420,14 @@ physics of the space) space and players in a social game with rules,
 though with feng shui, the game and players may be less clearly
 defined.
 
+#### Essais sur la Mechanique Social (Winiarski, 1898)
+
+![Essais sur la Mechanique Sociale](/img/posts/2017-10-10-speed-of-thought-social-physics/essais-sur-la-mechanique-sociale.jpg)
+
+<a name="how-does-the-information-schema-affect-the-spatio-temporal-computability" />
+
+### [How Does The Information Schema Affect The Spatiotemporal Computability?](#how-does-the-information-schema-affect-the-spatio-temporal-computability)
+
 If you begin modeling games where players have their own sets of
 information, social physics is rendered irrevocably and hopelessly
 incomputable, almost immediately. Each additional layer presents its
@@ -298,7 +437,9 @@ schema requirements. Knowing this, how do you identify what can be
 modeled and made known? How do you structure an organization's
 logistics and data collection requirements to efficiently model social
 phenomena and information dynamics? What's the difference between what
-can be simulated and what can be inferred via data science.?
+can be simulated and what can be inferred via data science?
+Specifically, what schematic components and strucural patterns
+increase the space and time required for computation?
 
 #### &#x2605; Do the players contain their own copies of information or is it shared?
 
@@ -312,24 +453,30 @@ can be simulated and what can be inferred via data science.?
 
 #### &#x2605; Do players need to make inferences based on the information schemas of other players?
 
-From the above, it isn't clear which adds the most complexity, but
-players almost always operate with incomplete understanding in social
-situations. They can do so effectively because they've been
-conditioned to develop sets of proactive and reactive behaviors that
-(...).  Information overload can negatively affect players. The
-(questions) pertaining to information schema and information
-reflection add an incomprehensibly infinite degree of complexity. For
-the mathemtaticians, yes, modifiable schemas with or without
-reflection are definitely uncountable.
+From the short list above, it isn't clear which adds the most
+complexity or how, but players almost always operate with incomplete
+understanding in social situations. They can do so effectively because
+they've been conditioned to develop sets of proactive and reactive
+behaviors sidestep the issues of scale and complexity. The particular
+tactics to handling or circumvent complexity create their own dynamics
+for information in sociophysical games. Information overload can
+negatively affect players. The topics pertaining to information schema
+and information reflection add an incomprehensibly infinite degree of
+complexity. For the mathemtaticians, yes, modifiable schemas with or
+without reflection are definitely uncountable.
+
+<a name="sports-like-soccer-or-football-are-well-defined-sociophysical-games" />
+
+### [Sports Like Soccer Or Football Are Well-Defined Sociophysical Games](#sports-like-soccer-or-football-are-well-defined-sociophysical-games)
 
 All of this means that players have to be good at handling
 information, but better at balancing uncertainy and risk with
 goal-seeking behavior. If the game being modeled is soccer or some
-other team sport, there are subtle sociophysical aspects that can
-vastly improve team performance, such as ensuring visibility and other
-mechanics of communication. If the team works together and can share
-its understanding of the state of the field, this can help immensely
-with coordinating tactics.
+other team sport, there are subtle sociophysical micro-tactics that
+can vastly improve team performance, such as ensuring visibility and
+other mechanics of assessment and communication. If the team works
+together and can share its understanding of the state of the field,
+this can help immensely with coordinating tactics.
 
 There are other physical aspects of soccer which are also modeled by
 social physics, such as the typical FIFA 2017 stats: speed, energy,
@@ -340,12 +487,10 @@ physical stats and positioning.
 
 Social physics is distinguished from physics and simple models of
 swarm behavior by providing a framework where players react to
-informational components and dynamics emerging from information. (This
-also stands out from simple probabilistic models for social behavior
-with its focus on the spatial components and particle interactions.)
-
-- TODO: decide whether to move up the section on sociophysical metrics
-  - and decide whether to move up the physics metaphors (its too long)
+informational components and dynamics emerging from information. This
+framework starkly contrasts simple probabilistic models for social
+behavior with its focus on the spatial components and particle
+interactions.
 
 <a name="postulates-of-sociophysical-systems" />
 

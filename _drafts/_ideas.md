@@ -799,3 +799,10 @@ this is based on a math paper i read a few years back
 
 - collect/analyze soil adjacent to items/bones collected from an
   archaeology site. {maybe this is already done}
+
+
+
+
+### That Time I Got Kicked Out Of Communist Club...
+
+- [By this kid](https://www.facebook.com/notes/lucas-sullivan/you-will-probably-not-be-happy-about-this/214856955209293/?hc_location=ufi)
