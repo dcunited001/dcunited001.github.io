@@ -375,8 +375,8 @@ This provokes neurological rebalancing by invoking autophagy. With
 zero carbs, zero proteins and nothing but water, insulin levels drop,
 which causes the body produce energy with ketosis by converting fat to
 energy. In the brain, fats are less available and without fats
-streaming in from the blood stream, your brain shuts down frivolous
-neural activity and begins enacting autophagy. This study,
+streaming in from the blood, your brain shuts down frivolous neural
+activity and begins enacting autophagy. This study,
 [Short-term fasting induces profound neuronal autophagy](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC3106288/),
 explains the induction of autophagy. When autophagy is invoked to the
 extreme or too often, the repetition or neurological changes could be
