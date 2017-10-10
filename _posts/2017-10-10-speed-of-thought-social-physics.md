@@ -8,7 +8,7 @@ author:
 excerpt: ""
 ---
 
-- ![](/img/posts/2017-10-10-speed-of-thought-social-physics/
+- ![](/img/posts/2017-10-10-speed-of-thought-social-physics/)
 
 ![Essais sur la Mechanique Sociale](/img/posts/2017-10-10-speed-of-thought-social-physics/essais-sur-la-mechanique-sociale.jpg)
 
@@ -104,13 +104,15 @@ excerpt: ""
 
 #### &#x2605; [Sports Like Soccer Or Football Are Well-Defined Sociophysical Games](#sports-like-soccer-or-football-are-well-defined-sociophysical-games)
 
-
-
 There are countless aspects of life that ancient people understood
 more clearly than we do today. In many, standing on the shoulders of
 giants has yielded crippled versions of ourselves because we were
 always molded and die-cast by a typology of life experience now
 *decimated* by technology.
+
+#### Into The Tragic Comedy of Fate, I Cast Myself
+
+![Medea -- from Fate! Jesus Christ!](/img/posts/2017-10-10-speed-of-thought-social-physics/fate-caster-medea.jpg)
 
 For the powerful, this is desirable. They can sell us technology to
 solve our problems, while our growing dependencies on it
@@ -137,7 +139,15 @@ unimpeded can change the course of civilizations. At Thermopylae, the
 brave acts of hundreds of Spartans struck fear into the heart of
 Persians and funneled vigor into the hearts of Greeks to rise up and
 resist the oncoming hordes. Would this envigorating effect have been
-possible if not for the story? What if it couldn't be told?
+possible if not for the story? *What if it couldn't be told?*
+
+#### Thesus in America - Sails
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/tgIqecROs5M" frameborder="0" allowfullscreen></iframe>
+
+Look at what disconnection has wrought. No one truly participated in
+this willingly. I will wait until I am judged for what I have said and
+done.
 
 <a name="novel-types-of-21st-century-territory-and-their-thermopylaean-chokepoints" />
 
@@ -163,6 +173,10 @@ operated long enough without being domineered by an external
 force. This itself wasn't unique, but we managed to maintain their
 literary tradition. In doing so, we preserved the best record this
 phenomenon in Western history.
+
+#### Socrates Engaging the Greek Agora In Philosophic Debate
+
+![Schizophrenic Socrates' Added Nothing of Value To Society With His Constant Akathisia](/img/posts/2017-10-10-speed-of-thought-social-physics/socrates-agora.jpg)
 
 <a name="social-and-informational-thermodynamics-and-convexity" />
 
@@ -199,6 +213,10 @@ information is strained through translingual membrane, limiting the
 number of social connections over which information can cross. These
 metaphors are not perfect, as behavior was not coordinated and our
 modes of transportation were limited throughout history.
+
+#### Land of the Rising Sun: Low-Frequency Sociophysical Currents Emerge from the East
+
+![Land of the Rising Sun Watercolor](/img/posts/2017-10-10-speed-of-thought-social-physics/jp-rising-sun-watercolor.jpg)
 
 <a name="humanitys-measures-of-connectedness-vary-geographically" />
 
