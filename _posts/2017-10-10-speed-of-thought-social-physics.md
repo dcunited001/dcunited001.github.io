@@ -110,15 +110,15 @@ excerpt: ""
 
 #### &#x2605; (1) [There Are Infinitely Many Types of Sociophysical Energy Having Both Linear And Non-Linear Mechanics That Determine Their Equivalence and Interaction Dynamics](#there-are-infinitely-many-types-of-sociophysical-energy-having-both-linear-and-non-linear-mechanics-that-determine-their-equivalence-and-interaction-dynamics)
 
-#### &#x2605; (2) [Power Describes The Rate of Energy Fluxing Through Sociophysical Networks](#power-describes-the-rate-of-energy-fluxing-through-sociophysical-networks)
+#### &#x2605; (2) [Mechanics of Social Interactions And Connections Are Physical and Logical, But Increasingly Virtualized](#mechanics-of-social-interactions-and-connections-are-physical-and-logical-but-increasingly-virtualized)
 
-#### &#x2605; (3) [Social Power Depends On Potentials For Types Of Energy Flux, Each Actual And Perceived](#social-power-depends-on-potentials-for-types-of-energy-flux)
+#### &#x2605; (3) [Power Describes The Rate of Energy Fluxing Through Sociophysical Networks](#power-describes-the-rate-of-energy-fluxing-through-sociophysical-networks)
 
-#### &#x2605; (4) [Perceived Beliefs Drive Social Power Dynamics Via Positive and Negative Feedback Loops](#perceived-beliefs-drive-social-power-dynamics-via-positive-and-negative-feedback-loops)
+#### &#x2605; (4) [Social Power Depends On Potentials For Types Of Energy Flux, Each Actual And Perceived](#social-power-depends-on-potentials-for-types-of-energy-flux)
 
-#### &#x2605; (5) [Agents Have Varying Degrees Of Autonomy and Individual Definitions Of Energy Types. They Share Traits, Such As Concurrency, Bandwidth and Physicality](#agents-have-varying-degrees-of-autonomy-and-individual-definitions-of-energy-types)
+#### &#x2605; (5) [Perceived Beliefs Drive Social Power Dynamics Via Positive and Negative Feedback Loops](#perceived-beliefs-drive-social-power-dynamics-via-positive-and-negative-feedback-loops)
 
-#### &#x2605; (6) [Mechanics of Social Interactions And Connections Are Physical and Logical, But Increasingly Virtualized](#mechanics-of-social-interactions-and-connections-are-physical-and-logical-but-increasingly-virtualized)
+#### &#x2605; (6) [Agents Have Varying Degrees Of Autonomy and Individual Definitions Of Energy Types. They Share Traits, Such As Concurrency, Bandwidth and Physicality](#agents-have-varying-degrees-of-autonomy-and-individual-definitions-of-energy-types)
 
 #### &#x2605; (7) [To Hedge Against Domain Complexity, Agents Amplify Perceived Beliefs And Interact In Other Ways](#to-hedge-against-domain-complexity-agents-amplify-perceived-beliefs)
 
@@ -648,7 +648,8 @@ use of logical, non-physical components to strategize or anticipate
 sociophysical phenomena. These topologies, either fully or partially
 derived from logical relationships between people, groups, or other
 nodes, form fields where the energy mechnics operate like electrical
-circuits.
+circuits. These are emergent logical topologies, overlayed onto
+physically interacting particles via the social graph funct.
 
 Electrical networks are an example of physical phenomena with a
 logical graph-based structure overlayed on top. When determining the
@@ -732,7 +733,7 @@ power flows. Changing, reversing, inserting, tuning the components
 influences the flow of power and energy flux across the rest of the
 systems.
 
-#### Nietzsche, in Twilight of the Idols
+###### Nietzsche, in Twilight of the Idols ######
 
 > Even a rapid estimate shows that it is not only obvious that German
 > culture is declining but that there is sufficient reason for
@@ -752,16 +753,25 @@ understand what one can attempt to quantify with non-linear energy
 mechanics? In such non-linear systems, energy equivalence is almost
 never preserved.
 
-- people fucking hated Nietzsche, AFAIK. i mean, have you read
-  Twilight of the Gods? his writing style sound like the Germans of
-  the day locked him in the looney bin to suffer with philosophical
-  constipation. that horse deserved to be recognized for strength, did
-  it not? (ok this is pure speculation ... absolutely not
-  authoritative)
 
 Similar to power in electrical networks, sociophysical measures of
 power are defined as the potential to trigger flux through social
-networks and the rate of that flux.
+networks and the rate of that flux. In this way, other metaphors can
+be applied to power and information flows; voltage, amperage, logic
+gating, albeit these operate in an extremely-high dimensional
+way. Further, there is no comparison between the near infinite and the
+infinite: infinitely dimensional models are functionally divergent
+from their dimensionally-bounded linear counterparts. There is the
+curse of dimensionality, but then infinite dimensional math imposes
+profanity-inducing limitations...
+
+> I, however, do not understand the idiosyncrasies of infinitely
+> dimensional math. I am only of aware of this functional divergence
+> in modeling these problems, as well as dramatic shifts in
+> application of theorums. I only mention this to emphasize the
+> differences in both dimensional scale and fundamental inferences
+> relevant for dealing with the laws of physics, when abstractly
+> generalized to conceptualize sociophysical systems.
 
 #### Many Consequences of Sociophysical Energy Flux Can Be Imagined:
 
@@ -784,9 +794,9 @@ since the infinite variety of energy and transduction pathways render
 all intractible. Perhaps our inability to understand ourselves is a
 curse; perhaps it is a blessing.
 
-The forms above are base types of changes to sociophysical structures
-as a result of the exertion of power. What we see in life are
-reconfigurations of the above. That is, we see the likes of:
+The forms above are base types of changes to sociophysical
+structures as a result of the exertion of power. What we see in life
+are reconfigurations of the above. That is, we see the likes of:
 
 #### Informational Change Yielding Physical Change
 
@@ -796,45 +806,75 @@ reconfigurations of the above. That is, we see the likes of:
 
 #### Physical Change Yielding Informational Change
 
-
-- (here, focus on imagery related to electrical systems)
-
-- (the forms above) 
-- directionality of power flows
-  - one way & two way directions of comm. protocols (diodes)
+![a picture for spacing]()
 
 <a name="social-power-depends-on-potentials-for-types-of-energy-flux" />
 
 ### (4) [Social Power Depends On Potentials For Types Of Energy Flux, Each Actual And Perceived](#social-power-depends-on-potentials-for-types-of-energy-flux)
 
-- this potential for flux/action is very much dependent on the beliefs
-  of nodes in the system and a differential of information available
-  to the nodes.
-  - that is, if there is already complete disemination of some pieces
-    of information to a set of nodes, you have reduced or lost the
-    capacity to influence those nodes through the disemination of that
-    information
-    - this is overly simplified because, again, everything is a
-      lower-order conjugation of the above higher-order forms
-    - differential equations
+The potential for power and sociophysical flux arises from beliefs of
+nodes in the system, both actual and perceived. In this way, belief
+and perception can almost independently create types of energy.
 
-  - but the social graph that emerges on top of physically interacting
-    particles (idealized people) in a social system functions very
-    much like an electrical network
-    - in this way, power and information function similarly to
-      voltage, amperage, gates, etc, albeit in an extremely-high
-      dimensional way
-    - math problems that are extremely high in dimension or infinitely
-      dimensional function in radically different ways
-      - this often studied as the curse of dimensionality and it's
-        implications in various areas of math diverge widely
+Particularly valuable to understanding power flows is the differential
+of information available to nodes in the system. While information is
+neither linear nor simple, it consistently diffuses from the region of
+higher concentration to lower concentration. This could also be
+envisioned in terms of charge differential: electricity flows from
+areas of higher charge to lower charge. The nodes or cliques with
+higher density of information hold the cards; they retain options in
+disrupting currents or eddies of sociophysical state in networks with
+lower information density, as well as those with spectral content that
+appears functionally advantageous.
+
+#### Knowledge is power
+
+If there is already complete disemination of some pieces of
+information to a set of nodes, you have diminished the capacity to
+influence or restructure those nodes through the titration of
+information. These fluid dynamics analogies are overly simplified
+because, again, everything is a lower-order conjugation of the above
+higher-order forms.
+
+Materialist metaphysics are blasphemous: information and knowledge are
+preexistent metaphysical forms; they can be discovered and
+rediscovered by anyone. When one uncovers them in isolation, but
+doesn't understand the names for these discovered knowledge forms, it
+challenges the powerful in their ability to recognize and regulate
+that knowledge. So the powerful or their pawns, who don't truly
+recognize substance -- but the names of substance -- consisently
+underestimate people like this. In the midst of campaigns to project
+disinformation into the lives of intelligence threats, these pawns of
+their material desires blind themselves because they don't know true
+substance and they NEVER did.
+
+In the 21st century knowledge is free. What do you think that means to
+the truly powerful, truly knowledgable few?
+
 
 <a name="perceived-beliefs-drive-social-power-dynamics-via-positive-and-negative-feedback-loops" />
 
 ### (5) [Perceived Beliefs Drive Social Power Dynamics Via Positive and Negative Feedback Loops](#perceived-beliefs-drive-social-power-dynamics-via-positive-and-negative-feedback-loops)
 
-In this way, belief and perception can almost independently create
-types of energy.
+Those of us with potential to drive sociophysical flux are like
+batteries of social captial. Economic flux operates similarly; capital
+dissipates when utilized, resulting in problem of opportunity
+cost. Who do you invest in and why? How do you make that decision?
+Further, social energy does not preserve equivalence nearly as well as
+financial capital, whose true value can be distorted by fluctuations
+in currency markets. This increased disruption in equivalence is
+driven by beliefs and perceived beliefs, which create and dispel
+social capital. This amplifies the negative penalties of social
+investment, when time or words are spent on pariahs and lepers.
+
+Depressingly, there is little to be done done about informat ion that
+already exists: what is created can never be destroyed. Disconnection
+is created by dis/information -- it can only be relieved through
+inordinate investment of energy from peers. Therefore, those who seek
+to create disconnection as punishment do so by evoking information
+forms into someone's life -- then, they can attempt to sell the
+solution: projection of information forms intended to disrupt the
+disconnection. That's called a con.
 
 <a name="agents-have-varying-degrees-of-autonomy-and-individual-definitions-of-energy-types" />
 
@@ -1036,6 +1076,13 @@ one another as truly equal before an omnipotent, omniscient being.
 <a name="disruption-of-connections-and-interactions-alters-flow-of-energy-and-power-physically-logically-and-virtually" />
 
 ### (12) [Disruption of Connections & Interactions Alters Flow Of Energy & Power, Physically, Logically and Virtually](#disruption-of-connections-and-interactions-alters-flow-of-energy-and-power-physically-logically-and-virtually)
+
+- (here, focus on imagery related to electrical systems)
+
+- (the forms above)
+- directionality of power flows
+  - one way & two way directions of comm. protocols (diodes)
+
 
 <a name="social-financial-and-other-energetic-flows-signal-interest-and-intent-via-frequency-magnitude-and-abstract-spectral-decomposition" />
 
