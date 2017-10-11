@@ -269,18 +269,26 @@ If the range of 2&deg; neighborhoods of North Korean citizens is
 compared against other nations, you'll find that it is incredibly
 limited when compared to similarly sized populations. Proportional to
 their population, they might be the *most socially-restricted nation
-on earth*, which is unbelievably depressing. How can you compete in
-the global economy if your regime prohibits communication with the
-outside and punishes dissidents with three generations of family
-persecution? How can you export products if your citizens cannot
-freely establish relationships with people and businesses in other
-countries? Some of the fault here lies with NK and some of it lies
-with sanctions, but your nation is pursuing nuclear weapon development
-and its belligerent PR stunts show no remorse for this goal. In spite
-of UN sanctions, the regime undermines its own potential development
-of exports and economic competitiveness. You are missing out on the
-greatest period of human development because you're stewing over
-something that happened four generations ago.
+on earth*, which is unbelievably depressing. Pictured below is a graph
+visualization of what North Korea's socioeconomic connections might
+look like. Alternatively, you can relabel North Korea as "Me" and the
+Int'l Economy as "American Society."
+
+#### Graph Visualization of North Korea's Economic Connections
+
+![Economic Disconnection](/img/posts/2017-10-10-speed-of-thought-social-physics/north-korea-disconnected-2.jpg)
+
+How can you compete in the global economy if your regime prohibits
+communication with the outside and punishes dissidents with three
+generations of family persecution? How can you export products if your
+citizens cannot freely establish relationships with people and
+businesses in other countries? Some of the fault here lies with NK and
+some of it lies with sanctions, but your nation is pursuing nuclear
+weapon development and its belligerent PR stunts show no remorse for
+this goal. In spite of UN sanctions, the regime undermines its own
+potential development of exports and economic competitiveness. You are
+missing out on the greatest period of human development because you're
+stewing over something that happened four generations ago.
 
 <a name="north-korean-paranoia-undermined-their-posture-for-economic-development" />
 
