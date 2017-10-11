@@ -1,6 +1,6 @@
 ---
 title: "Why VTHacks and MLH Events are Spectacular for the Community"
-tags: "hackatons education"
+tags: "hackathons education"
 categories: blog
 author:
   name: "David Conner"
