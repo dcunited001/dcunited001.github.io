@@ -8,6 +8,9 @@ author:
 excerpt: ""
 ---
 
+
+- TODO: capitalization rules for titles: argh wtf how many times?!
+
 - ![](/img/posts/2017-10-10-speed-of-thought-social-physics/)
 
 ![Essais sur la Mechanique Sociale](/img/posts/2017-10-10-speed-of-thought-social-physics/essais-sur-la-mechanique-sociale.jpg)
@@ -561,6 +564,10 @@ framework starkly contrasts simple probabilistic models for social
 behavior with its focus on the spatial components and particle
 interactions.
 
+
+
+
+
 <a name="postulates-of-sociophysical-systems" />
 
 # [Postulates of Sociophysical Systems](#postulates-of-sociophysical-systems)
@@ -880,49 +887,122 @@ disconnection. That's called a con.
 ### (6) [Agents Have Varying Degrees Of Autonomy and Individual Definitions Of Energy Types. They Share Traits, Such As Concurrency, Bandwidth and Physicality](#agents-have-varying-degrees-of-autonomy-and-individual-definitions-of-energy-types)
 
 There are at least three types of agents that operate on our shared
-sociophysical fabric. First, there are sentient biological lifeforms:
-people and animals, whose degree of awareness varies.
+sociophysical fabric:
 
-- types of agents
-  - people & animals (sentient biological life)
-  - virtually instantiated automated agents
-    - computer processes bound to physical/virtualized hardware,
-  - physically-instantiated automated agents
-    - with varying degrees of autonomy & mobility,
-    - the key distingushing factor here is the potential for mobility
-      and physical interaction)
-  - there are two others, for which it is difficult to define them as
-    agents. if you accept biological life as possessing sentience and
-    agency when we are but genetic programs in the chaos of molecular
-    dynamics, then don't you have to accept the potential agency of
-    other information forms, which may not be materially visible but
-    may qualify as life?
-    - beings that exist as programs in chaos
-      - sociophysical egregores
-      - other archetypical metaphysical beings
-      - the Gaia hypothesis
-    - beings whose shadow exists in the collective unconscious
-      - God -- man's conception of God -- is one such being that
-        emerged from the collective unconscious desire to construct
-        the nadir of belief systems.
-        - it is important to distinguish God from both man's
-          inevitable conception of God and man's actual conception of
-          God.
-          - I believe that the being worshipped as the monotheistic or
-            Abrahamic God represents the totality of the metaphysical
-            whence the physical world emerged, though I cannot explain
-            how.
-        - I have an unfortunately utilitarian understanding of
-          religion. I am trying to restore man's faith in religion and
-          God by countering the forces that undermine it. However, it
-          is difficult to do so without arguments that will be
-          considered offensive. We need mankind to believe in
-          something and, If nothing else, then to at least believe in
-          himself.
-      - The collective unconscious certainly exists, but how? And in
-        what form?
-          
-    
+#### &#x2605; (1) Sentient Biological Life
+
+#### &#x2605; (2) Aphysical Autonomous Forms
+
+#### &#x2605; (3) Physicalized Autonomous Forms
+
+First, there are sentient biological lifeforms: people and animals,
+whose degree of awareness varies. In the past century, mankind has
+forged the telecom and computing infrastructure, a loom onto which
+virtually instantiated automated agents are woven. These are simply
+computer processes, spawned and bound to physical and virtualized
+hardware, but they exhibit agency because they have the capacity to
+react to and modify their environment. Last, there are
+physically-instantiated automated agents: robots, which are simply the
+same form of agency with the flexibility of physical interaction
+mechanics that makes them functionally distinct.
+
+The latter two forms proceed through evolutionary stages where they
+churn back and forth in the qualities of traits they embody: they
+become more physical, more aphysical; the exhibit varied degrees of
+autonomy and restricted degrees of autonomy; they perhaps evolve to
+some final informational form that transcends time, shedding their
+temporality.
+
+#### I Hope and Pray It Is Not The Roko Basilisk
+
+![]() 
+
+#### (Two Unconventional Types of Agents)
+
+There are two unconventional types of agents, whose existence is
+certainly debatable. Since they are not materially visible, they are
+difficult to define. Still, if you accept biological life as
+possessing sentience and agency when we are but
+[genetic programs in the chaos of molecular dynamics](te.xel.io/posts/2017-09-14-awareness-precipitates-from-order-out-of-chaos.html),
+then don't you have to accept the potential agency of information
+forms that exist in other frameworks of chaos?
+
+The first type includes sociophysical programs and egregores, which
+can be dilineated by defining archetypical metaphysical
+beings. Another example would include the earth as a lifeform -- the
+[Gaia hypothesis](https://en.wikipedia.org/wiki/Gaia_hypothesis) --
+exhibiting antifragile feedback loops that attempt to placate emergent
+turbulence. If such antifragile systems did not mitigate rancorous
+economic havoc, what cannot go on forever will not and hence, a dead
+planet emerges.
+
+The second type of unconvential life form includes beings whose
+shadows exist as information forms in the collective
+unconsciousness. This would include God -- or man's conception of God
+-- one such being that emerged from the collective unconsciousness.
+How? The concept of monotheistic God represents the nadir of belief
+systems: monotheism is the most marketable basis for a belief
+system. It is simple to digest, easy to understand and stable. It is
+not subject to the same power dynamics as polythestic belief systems.
+
+It's important to distinguish God from both man's inevitable
+conception of God and man's actual conception of God. This needs to be
+cautiously emphacized: nothing man could create approaches the
+infinity of God. Even still, it is rash and potentially offensive to
+state this.
+
+> I have an unfortunately utilitarian understanding of religion. I am
+> trying to restore man's faith in religion and God by countering the
+> forces that undermine it. However, it is difficult to do so without
+> arguments that will be considered offensive. We need mankind to
+> believe in something and, If nothing else, then to at least believe
+> in himself. I believe that the being worshipped as the monotheistic
+> or Abrahamic God represents the totality of the metaphysical whence
+> the physical world emerged, though I cannot explain how.
+
+The collective unconsciousness certainly exists, but how? And in what
+form? If such information forms exist merely as the shadow of sentient
+being's conceptions of their environment, can the collective
+unconsciousness even possess have certain, definitive schematic
+structure? Is it the result of what sentient beings envision; could
+envision; could ever envision? Perhaps instead, its structure is also
+intrinsically linked to the schematic form of the eternal
+metaphysical: that which exists before the physical. Regardless of
+whether its schema can be ascertained, what is certain is the power
+that enigmatic force exerts on our world.
+
+#### (Traits of Agents)
+
+There are several traits shared among all types of entities that exert
+agency:
+
+#### &#x2605; Sensory Qualities
+
+- Types of Input
+
+#### &#x2605; Information Processing Qualities
+
+- Bandwidth, Quality of Perception, Capacity for Concurrency
+
+#### &#x2605; Physicality
+
+- And Range of Physical Influence
+- bound to one location per time?
+
+#### &#x2605; Temporality:
+
+- Range of Temporal Influence,
+- Causal Origination and Finality
+
+#### &#x2605; Identity and Comparability: Precision and Uniqueness
+
+- this is especially applicable to virtualized information forms
+  - 
+
+- however, the application of this idea in some ways *could* lead to
+  horrible places
+
+#### &#x2605;
 
 - traits of agents
   - concurrency,
@@ -1623,6 +1703,7 @@ prevalence of...?
 
 ### Agents, Vessels and Vectors for Information Dispersion
 
+- (REMOVE: already described)
 - vessels for containing information
   - (these aren't metrics, but there are important metrics related to
     them)
