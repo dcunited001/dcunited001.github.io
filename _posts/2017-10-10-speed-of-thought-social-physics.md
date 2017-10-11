@@ -104,6 +104,49 @@ excerpt: ""
 
 #### &#x2605; [Sports Like Soccer Or Football Are Well-Defined Sociophysical Games](#sports-like-soccer-or-football-are-well-defined-sociophysical-games)
 
+## [Postulates of Sociophysical Systems](#postulates-of-sociophysical-systems)
+
+#### &#x2605; (1) [There Are Infinitely Many Types of Sociophysical Energy Having Both Linear And Non-Linear Mechanics That Determine Their Equivalence and Interaction Dynamics](#there-are-infinitely-many-types-of-sociophysical-energy-having-both-linear-and-non-linear-mechanics-that-determine-their-equivalence-and-interaction-dynamics)
+
+#### &#x2605; (2) [Power Describes The Rate of Energy Fluxing Through Sociophysical Networks](#power-describes-the-rate-of-energy-fluxing-through-sociophysical-networks)
+
+#### &#x2605; (3) [Social Power Depends On Potentials For Types Of Energy Flux, Each Actual And Perceived](#social-power-depends-on-potentials-for-types-of-energy-flux)
+
+#### &#x2605; (4) [Perceived Beliefs Drive Social Power Dynamics Via Positive and Negative Feedback Loops](#perceived-beliefs-drive-social-power-dynamics-via-positive-and-negative-feedback-loops)
+
+#### &#x2605; (5) [Agents Have Varying Degrees Of Autonomy and Individual Definitions Of Energy Types. They Share Traits, Such As Concurrency, Bandwidth and Physicality](#agents-have-varying-degrees-of-autonomy-and-individual-definitions-of-energy-types)
+
+#### &#x2605; (6) [Mechanics of Social Interactions And Connections Are Physical and Logical, But Increasingly Virtualized](#mechanics-of-social-interactions-and-connections-are-physical-and-logical-but-increasingly-virtualized)
+
+#### &#x2605; (7) [To Hedge Against Domain Complexity, Agents Amplify Perceived Beliefs And Interact In Other Ways](#to-hedge-against-domain-complexity-agents-amplify-perceived-beliefs)
+
+#### &#x2605; (8) [For Timescales Both Small and Large, Each Agent's State and Context Is Constructed From Their Sum Of Experience Via Directed Focus](#each-agents-state-and-context-is-constructed-from-their-sum-of-experience-via-directed-focus)
+
+#### &#x2605; (9) [Spectral Coherence of Knowledge, Information and Agent Context Strongly Influences Conceptualization and Anticipation](#spectral-coherence-of-knowledge-information-and-agent-context-strongly-influences-conceptualization-and-anticipation)
+
+#### &#x2605; (10) [The Evolutionary Dynamics of Social Physics Build Upon Antifragility and the Ideas of Programs in Chaos](#the-evolutionary-dynamics-of-social-physics-build-upon-antifragility-and-the-ideas-of-programs-in-chaos)
+
+#### &#x2605; (11) [Social Circuitry Enables Sociophysical Energy Flows, Where The Superposition Principle Applies Circuit and Network Topologies. All Exist Simultaneously](#social-circuitry-enables-sociophysical-energy-flows-where-the-superposition-principle-applies-to-circuit-and-network-topologies)
+
+#### &#x2605; (12) [Disruption of Connections & Interactions Alters Flow Of Energy & Power, Physically, Logically and Virtually](#disruption-of-connections-and-interactions-alters-flow-of-energy-and-power-physically-logically-and-virtually)
+
+#### &#x2605; (13) [Social, Financial and Other Energetic Flows Signal Interest and Intent Via Frequency, Magnitude and Abstract Spectral Decomposition](#social-financial-and-other-energetic-flows-signal-interest-and-intent-via-frequency-magnitude-and-abstract-spectral-decomposition)
+
+#### &#x2605; (14) [Even When Invisible, Intent is Signified And Clarified By Parallel, Anti-Parallel and Orthogonal Orientations of Motion As They Relate to Laplacian of High-Dimensional Surfaces](#even-when-invisible-intent-is-signified-and-clarified-by-parallel-antiparallel-and-orthogonal-orientations-of-motion-as-they-relate-to-laplacian-of-high-dimensional-surfaces)
+
+#### ...
+
+#### (#14 Means You Cannot Lie To Me Forever)
+
+#### ...
+
+#### &#x2605; (15) [Everything is a particle. Everything is a Wave. Even Information, Modeled Holonically](#everything-is-a-particle-everything-is-a-wave-even-information-modeled-holonically)
+
+#### &#x2605; (16) [In Sociophysical Network Topologies, Independence and Connectedness Are Quantifiable](#in-sociophysical-network-topologies-independence-and-connectedness-are-quantifiable)
+
+#### &#x2605; (17) [Information In Holonic, Particle Form Exhibits Complicated Behavior Analogous To Entanglement](#information-in-holonic-particle-form-exhibits-complicated-behavior-analogous-to-entanglement)
+
+
 There are countless aspects of life that ancient people understood
 more clearly than we do today. In many, standing on the shoulders of
 giants has yielded crippled versions of ourselves because we were
@@ -399,6 +442,10 @@ observing birds of prey from a distance, if you're lucky enough to see
 on, you can indirectly glean information about your surroundings, if
 you're wise and foolish enough to make those inferences.
 
+#### A View of the Alps From An Eagle's Perspective
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/fechyo4W53s" frameborder="0" allowfullscreen></iframe>
+
 <a name="do-you-see-what-i-see" />
 
 ### [Do You See What I See?](#do-you-see-what-i-see)
@@ -525,19 +572,27 @@ interactions.
 Extrapolating from a basic assessment of the math, there are
 implications and ramifications that attain preponderance, standing
 above everything else. By failing to fully understand sociophysical
-phenomena, by stubbornly clinging to some idealistic mode (...) or by
-refusing to allow adaptation to them, we fall victim to Nietzche's
+phenomena, by stubbornly clinging to some ideological modes (of ...)
+or by refusing to allow adaptation, we fall victim to Nietzche's
 danger of dangers.
+
+Today, the world needs everyone on the same page. In order to operate
+cooperatively in more virtualized sociophysical systems, we must first
+develop a clear understanding of their purely physical counterparts.
+Psychological and sociological understanding has always been the
+mostly useful knowledge, especially when there was little technology
+and nothing to use for the construction of great works but the hands
+of men.
+
+<a name="there-are-infinitely-many-types-of-sociophysical-energy-having-both-linear-and-non-linear-mechanics-that-determine-their-equivalence-and-interaction-dynamics" />
+
+### (1) [There Are Infinitely Many Types of Sociophysical Energy Having Both Linear And Non-Linear Mechanics That Determine Their Equivalence and Interaction Dynamics](#there-are-infinitely-many-types-of-sociophysical-energy-having-both-linear-and-non-linear-mechanics-that-determine-their-equivalence-and-interaction-dynamics)
 
 - include a description of fields, the structure of which influences
   the flow of energy
   - fields can have physical or (virtual) topological spaces
 
-<a name="types-of-sociophysical-energy-have-both-linear-and-non-linear-mechanics" />
-
-### (1) [Types of Sociophysical Energy Have Both Linear And Non-Linear Mechanics, Which Determine Their Equivalence and Interaction Dynamics](#types-of-sociophysical-energy-have-both-linear-and-non-linear-mechanics)
-
-- Their mechanics are both Linear and non-linear
+- Their mechanics are both linear and non-linear
   - this creates interactions and equivalence dynamics
   - it is rare that energy is perfectly preserved, never created nor destroyed
 
@@ -548,9 +603,9 @@ danger of dangers.
 - what is universal among all the types of energy? anything?
 - examples of types of energy
 
-<a name="power-is-defined-as-the-rate-of-energy-fluxing-through-sociophysical-networks" />
+<a name="power-describes-the-rate-of-energy-fluxing-through-sociophysical-networks" />
 
-### (2) [Power Is Defined As The Rate of Energy Fluxing Through Sociophysical Networks](#power-is-defined-as-the-rate-of-energy-fluxing-through-sociophysical-networks)
+### (2) [Power Describes The Rate of Energy Fluxing Through Sociophysical Networks](#power-describes-the-rate-of-energy-fluxing-through-sociophysical-networks)
 
 Similar to power in electrical networks, sociophysical measures of
 power are defined as the potential to trigger flux through social
@@ -603,12 +658,16 @@ informational or schematic change, and behavioral change.
       - this often studied as the curse of dimensionality and it's
         implications in various areas of math diverge widely
 
-### (4) Perceived Beliefs feedback into social power (...)
+<a name="perceived-beliefs-drive-social-power-dynamics-via-positive-and-negative-feedback-loops" />
+
+### (4) [Perceived Beliefs Drive Social Power Dynamics Via Positive and Negative Feedback Loops](#perceived-beliefs-drive-social-power-dynamics-via-positive-and-negative-feedback-loops)
 
 In this way, belief and perception can almost independently create
 types of energy.
 
-### (5) [Agents Have Varying Degrees Of Autonomy, Individual Definitions Of Energy Types and Share Traits, Such As Concurrency, Bandwidth and Physicality]()
+<a name="agents-have-varying-degrees-of-autonomy-and-individual-definitions-of-energy-types" />
+
+### (5) [Agents Have Varying Degrees Of Autonomy and Individual Definitions Of Energy Types. They Share Traits, Such As Concurrency, Bandwidth and Physicality](#agents-have-varying-degrees-of-autonomy-and-individual-definitions-of-energy-types)
 
 - a second critical factor is the lack of multitasking:
   - particles (at least people) can only really do one thing & can
@@ -670,16 +729,22 @@ Sociophysical systems are (very similar).
   - dimensionality reduction(?) and numeric approximation to analytic
     solutions are both relevant here
 
-### (8) The context of some agents is predominately accumulated by a (sum of experience determined by directed focus)
+<a name="each-agents-state-and-context-is-constructed-from-their-sum-of-experience-via-directed-focus" />
 
+### (8) [For Timescales Both Small and Large, Each Agent's State and Context Is Constructed From Their Sum Of Experience Via Directed Focus](#each-agents-state-and-context-is-constructed-from-their-sum-of-experience-via-directed-focus)
+
+- Is Predominately Accumulated By Their
 - so, directing their focus changes the range of experiential
   information relevant to their context. combined with signaling and
   especially with (decision models), this easily can have
   multiplicative effects.
 
 - examples of using this?
+  - the stage magician
 
-### (9) decoherence of information/knowledge reduces... (ability to model the system)
+<a name="spectral-coherence-of-knowledge-information-and-agent-context-strongly-influences-conceptualization-and-anticipation" />
+
+### (9) [Spectral Coherence of Knowledge, Information and Agent Context Strongly Influences Conceptualization and Anticipation](#spectral-coherence-of-knowledge-information-and-agent-context-strongly-influences-conceptualization-and-anticipation)
 
 - the single most important conclusion I can draw from a mathematical
   assessment of social physics is that the ability to make valid
@@ -712,7 +777,9 @@ Sociophysical systems are (very similar).
     make *any* useful inferences and those aspects of the systems
     which cause schematic divergence become problematic
 
-### (10) Evolutionary Dynamics of Social Physics (Build on) Programs in Chaos
+<a name="the-evolutionary-dynamics-of-social-physics-build-upon-antifragility-and-the-ideas-of-programs-in-chaos" />
+
+### (10) [The Evolutionary Dynamics of Social Physics Build Upon Antifragility and the Ideas of Programs in Chaos](#the-evolutionary-dynamics-of-social-physics-build-upon-antifragility-and-the-ideas-of-programs-in-chaos)
 
 - (rewrite this section, since i can reference the article on chaos)
 - briefly(!) what is probabilistic programming (is it chaos computing
@@ -745,15 +812,53 @@ Sociophysical systems are (very similar).
       emulating behavior types, not simply representations of
       information
 
-### (11) [Disruption of Connections & Interactions Alters Flow Of Energy & Power, Physically, Logically and Virtually](#disruption-of-connections-and-interactions-alters-flow-of-energy-and-power-physically-logically-and-virtually)
+<a name="social-circuitry-enables-sociophysical-energy-flows-where-the-superposition-principle-applies-to-circuit-and-network-topologies" />
 
+### (11) [Social Circuitry Enables Sociophysical Energy Flows, Where The Superposition Principle Applies Circuit and Network Topologies. All Exist Simultaneously](#social-circuitry-enables-sociophysical-energy-flows-where-the-superposition-principle-applies-to-circuit-and-network-topologies)
 
-### (12) Social, Financial and other flows indicate frequency and value of connections and interactions (Interest & Intent)
+- this concept is really an extension of the idea of superposition of
+  particle states to information networks which are composed of
+  information represented by particles which behave in ways analogous
+  to quantum particles.
+- does the idea of superposition of networks warrant its own section?
+  - this idea of the superposition of various networks is distinct
+    from systems where there is one clear network structure
+- this is literally the superposition principle applied to virtual
+  network topology (... is it?)
+  - the dynamics of superimposed virtual networks are dependent on the
+    structure of all the "summed" networks.
+    - here the "state" being summed over is all the possibilities of
+      network topology...
+- these ideas need some work, but what this means is changes to flow
+  in one network
+  - e.g. you superimpose a million circuit diagrams on top of each
+    other. the behavior of the system then emerges not from one
+    circuit diagram, but from all of them. therefore, changes to
+    individual circuits do not affect the behavior of a superimposed
+    system quite as much as they would affect an isolated system.
+- this seems very similar to ideas from quantum computing circuit
+  diagrams.
+
+- this is another reason why spectral coherence is so important:
+  control the belief systems/structures of agents and the
+  superposition of social circuit topology sums over topologies with
+  less structural entropy.
+
+<a name="disruption-of-connections-and-interactions-alters-flow-of-energy-and-power-physically-logically-and-virtually" />
+
+### (12) [Disruption of Connections & Interactions Alters Flow Of Energy & Power, Physically, Logically and Virtually](#disruption-of-connections-and-interactions-alters-flow-of-energy-and-power-physically-logically-and-virtually)
+
+<a name="social-financial-and-other-energetic-flows-signal-interest-and-intent-via-frequency-magnitude-and-abstract-spectral-decomposition" />
+
+### (13) [Social, Financial and Other Energetic Flows Signal Interest and Intent Via Frequency, Magnitude and Abstract Spectral Decomposition](#social-financial-and-other-energetic-flows-signal-interest-and-intent-via-frequency-magnitude-and-abstract-spectral-decomposition)
 
 - laplacian of these flows and their aggregates, geographically &
   logically, indicate intent
+  - games built upon these mechanics
 
-### (13) Intent is also Signified by Parallel, Anti-Parallel and Orthogonal Orientations of Motion as it relates to Laplacian of High-Dimensional Surfaces, Even When Hidden
+<a name="even-when-invisible-intent-is-signified-and-clarified-by-parallel-antiparallel-and-orthogonal-orientations-of-motion-as-they-relate-to-laplacian-of-high-dimensional-surfaces" />
+
+### (14) [Even When Invisible, Intent is Signified And Clarified By Parallel, Anti-Parallel and Orthogonal Orientations of Motion As They Relate to Laplacian of High-Dimensional Surfaces](#even-when-invisible-intent-is-signified-and-clarified-by-parallel-antiparallel-and-orthogonal-orientations-of-motion-as-they-relate-to-laplacian-of-high-dimensional-surfaces)
 
 - this helps indicate intent, even when it was hidden
   - consistency is hard to fake, any duplicity exacerbates this and
@@ -762,7 +867,9 @@ Sociophysical systems are (very similar).
 
 - (Cut in content/ideas from facets: systems theory draft)
 
-### (14) Everything is a particle. Everything is a Wave. Even Information
+<a name="everything-is-a-particle-everything-is-a-wave-even-information-modeled-holonically" />
+
+### (15) [Everything is a particle. Everything is a Wave. Even Information, Modeled Holonically](#everything-is-a-particle-everything-is-a-wave-even-information-modeled-holonically)
 
 - the particle/wave duality also fits the holonic model of information
   - information in social physics should be modelable as waves,
@@ -775,7 +882,9 @@ Sociophysical systems are (very similar).
     understood with infinite dimensional waves
     - however, the structure of information infinite and unknowable
 
-### (15) Independence and Connectedness Are Quantifiable
+<a name="in-sociophysical-network-topologies-independence-and-connectedness-are-quantifiable" />
+
+### (16) [In Sociophysical Network Topologies, Independence and Connectedness Are Quantifiable](#in-sociophysical-network-topologies-independence-and-connectedness-are-quantifiable)
 
 - (title: Connectedness and Social Isolation can be Measured?)
 
@@ -848,7 +957,13 @@ Sociophysical systems are (very similar).
     groups of people can become silenced or disenfranchised without
     even knowing it.
 
-### (16?) information in particle form complicated versions of entanglement
+<a name="information-in-holonic-particle-form-exhibits-complicated-behavior-analogous-to-entanglement" />
+
+### (17) [Information In Holonic, Particle Form Exhibits Complicated Behavior Analogous To Entanglement](#information-in-holonic-particle-form-exhibits-complicated-behavior-analogous-to-entanglement)
+
+- what do you know now? does that change what you think about what you
+  knew in the past?
+  - transition into how this resembles the phenomenon of entanglement
 
 - if information can be conceived as packets or particles, then when
   does the information take on particular forms
@@ -862,31 +977,6 @@ Sociophysical systems are (very similar).
       time and space, without direct physical connections.
       - this is because some information processing entities are
         autonomous.
-
-### (17?) Superposition of social circuitry?
-
-- this concept is really an extension of the idea of superposition of
-  particle states to information networks which are composed of
-  information represented by particles which behave in ways analogous
-  to quantum particles.
-- does the idea of superposition of networks warrant its own section?
-  - this idea of the superposition of various networks is distinct
-    from systems where there is one clear network structure
-- this is literally the superposition principle applied to virtual
-  network topology (... is it?)
-  - the dynamics of superimposed virtual networks are dependent on the
-    structure of all the "summed" networks.
-    - here the "state" being summed over is all the possibilities of
-      network topology...
-- these ideas need some work, but what this means is changes to flow
-  in one network
-  - e.g. you superimpose a million circuit diagrams on top of each
-    other. the behavior of the system then emerges not from one
-    circuit diagram, but from all of them. therefore, changes to
-    individual circuits do not affect the behavior of a superimposed
-    system quite as much as they would affect an isolated system.
-- this seems very similar to ideas from quantum computing circuit
-  diagrams.
 
 # (Physics Analogies for Social Systems)
 
