@@ -198,7 +198,7 @@ out or attract attention. By accepting this, we delude ourselves into
 robbing ourselves of our strengths.
 
 As an example, blind and deaf people have minds that are fundamentally
-different than those of "normal people." This is usually considered a
+different than those of *neurotypicals*. This is usually considered a
 weakness by others and is no doubt difficult to endure.  Yet,
 according to my theory of mind above and in previous articles, then
 because this person has a limited range of sensory input, then the

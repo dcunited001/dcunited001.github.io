@@ -971,17 +971,105 @@ metaphysical: that which exists before the physical. Regardless of
 whether its schema can be ascertained, what is certain is the power
 that enigmatic force exerts on our world.
 
+#### Socrates, in [Plato's Republic, Book VI](http://classics.mit.edu/Plato/republic.7.vi.html):
+
+> "Then the sun is not sight, but the author of sight who is recognised
+> by sight."
+>
+> ...
+>
+> "And this is he whom I call the child of the good, whom the good
+> begat in his own likeness, to be in the visible world, in relation
+> to sight and the things of sight, what the good is in the
+> intellectual world in relation to mind and the things of mind." -
+>
+> *I forced myself to identify a quality translation of Plato's work
+> and others; to read them, before any essays or analysis on them,
+> because I wanted to start with my own thoughts before being exposed
+> to others. Like with all other things I read, it was slow, but I
+> invested my time in reflection. Like all my other methods of learning,
+> it was inefficient and stupid.*
+
 #### (Traits of Agents)
 
 There are several traits shared among all types of entities that exert
-agency:
+agency.
 
 #### &#x2605; Sensory Qualities
 
-- Types of Input
+What types of input signal can the entity or individual receive and
+process? What are the costs in time and energy? Above, in Plato's
+Republic, Socrates dilineates the five senses in a phenomenological
+analysis. How such analysis must adapt to autonomous artificial
+entities is the focus of debate? In a way, isn't all input a sense?
+
+What is the cost to processing such types of sensory input?
+
+#### &#x2605; Identity and Comparability: Precision and Uniqueness
+
+Vision is always a hard problem, regardless of whether biological or
+artificial hardware is processing the problem.
+
+#### Socrates in [Plato's Republic, Book VI](http://classics.mit.edu/Plato/republic.7.vi.html):
+
+> "But have you remarked that sight is by far the most costly and
+> complex piece of workmanship which the artificer of the senses ever
+> contrived?"
+
+In fact, because neural nets usually *functionally approximate*
+algorithms, anything the do is inherently less efficient than the most
+efficient solutions. Further, as a result of the abstract spectral
+range of input, the facets of mind and the qualities of cognition that
+arise are peculiar and idiosyncratic.
+
+> For reference, see the sections
+> [Embracing Diversity](/posts/2016-05-14-facets-of-greatness-the-unknown-monumental-accidents.html#embracing-diversity)
+> and
+> [Embracing Our Differences](/posts/2016-05-14-facets-of-greatness-the-unknown-monumental-accidents.html#embracing-our-differences)
+> in the article
+> [Facets of Greatness - The Unknown - Monumental Accidents](/posts/2016-05-14-facets-of-greatness-the-unknown-monumental-accidents.html). Please,
+> pray for my coccyx, if you read to the end.
+
+When we leverage these differences provided by diversity of body, mind
+and culture, this is a strength. Our individual (shapes) are cast by
+variety of life experience, and this allows us fill in each other's
+gaps. We have to remember this. I take Nietzsche's philosophy about
+the ubermensch seriously -- yet, this does not mean that one type of
+individual is greater than another -- each of us has potential for
+greatness in our own way. Unrestrained, we collectively have the most
+potential to do the most good for others.
+
+![Picture of bell curve]()
+
+Those who study intelligence try to conceptualize IQ as
+[Normal distribution]() with an average -- but what they forget is
+that the divergent individuals are all divergent in their own way. Can
+you average apples, oranges, kiwis and dragonfruit? Further, we also
+forget that we are running on the same biological hardware -- it is
+our experience and the way we react to it that forms our mind. *If you
+ever believe anything else, you have ceded control to fate or some
+force that seeks to control you by convincing you that you are less
+than the radiant, stellar being you were meant to be.*
+
+The idea that you would compare the form of agents stems from math. It
+is especially applicable to virtualized information forms: processes
+are recognized by name, source code, or memory contents; antivirus
+software operates by recognizing potentially malicious instruction
+sets. We can recognize the same program that runs on different
+hardware. This is especially relevant for the second and third agent
+type.
+
+For biological agents, it is impossible to compare two people --
+further, the application of this idea can lead towards dangerous
+ideas. People tomorrow are always meant to be more than what they
+where today. We are meant to grow and to never stop growing. We are
+meant to plant these same seeds of inspiration in others at every
+chance possible. We are meant to tend the soil of society, so that it
+is more fertile for such transformation.
 
 #### &#x2605; Information Processing Qualities
 
+- capacity to recognize and store phenomena
 - Bandwidth, Quality of Perception, Capacity for Concurrency
 
 #### &#x2605; Physicality
@@ -993,14 +1081,6 @@ agency:
 
 - Range of Temporal Influence,
 - Causal Origination and Finality
-
-#### &#x2605; Identity and Comparability: Precision and Uniqueness
-
-- this is especially applicable to virtualized information forms
-  - 
-
-- however, the application of this idea in some ways *could* lead to
-  horrible places
 
 #### &#x2605;
 
@@ -1027,6 +1107,16 @@ agency:
       channels, which are so far almost completely bound to aphysical
       manisfestations
   - similarly, people are bound to one place at a time
+  - this lack of multitasking inherent in biological life without
+    augmentation is a fundamental distinction.
+    - this assumption provides a mechanism for filtering signal to
+      distinguish interactions on the internet that emerge from people
+      or automated entities
+      - nearly 100% certain distinction of automated vs. human signal
+        (*nearly* 100%)
+
+- understanding distributions of agency on physical/logical spaces is
+  throroughly fascinating.
 
 <a name="to-hedge-against-domain-complexity-agents-amplify-perceived-beliefs" />
 
