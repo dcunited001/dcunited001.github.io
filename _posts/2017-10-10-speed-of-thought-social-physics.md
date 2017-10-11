@@ -851,7 +851,6 @@ substance and they NEVER did.
 In the 21st century knowledge is free. What do you think that means to
 the truly powerful, truly knowledgable few?
 
-
 <a name="perceived-beliefs-drive-social-power-dynamics-via-positive-and-negative-feedback-loops" />
 
 ### (5) [Perceived Beliefs Drive Social Power Dynamics Via Positive and Negative Feedback Loops](#perceived-beliefs-drive-social-power-dynamics-via-positive-and-negative-feedback-loops)
@@ -879,6 +878,66 @@ disconnection. That's called a con.
 <a name="agents-have-varying-degrees-of-autonomy-and-individual-definitions-of-energy-types" />
 
 ### (6) [Agents Have Varying Degrees Of Autonomy and Individual Definitions Of Energy Types. They Share Traits, Such As Concurrency, Bandwidth and Physicality](#agents-have-varying-degrees-of-autonomy-and-individual-definitions-of-energy-types)
+
+There are at least three types of agents that operate on our shared
+sociophysical fabric. First, there are sentient biological lifeforms:
+people and animals, whose degree of awareness varies.
+
+- types of agents
+  - people & animals (sentient biological life)
+  - virtually instantiated automated agents
+    - computer processes bound to physical/virtualized hardware,
+  - physically-instantiated automated agents
+    - with varying degrees of autonomy & mobility,
+    - the key distingushing factor here is the potential for mobility
+      and physical interaction)
+  - there are two others, for which it is difficult to define them as
+    agents. if you accept biological life as possessing sentience and
+    agency when we are but genetic programs in the chaos of molecular
+    dynamics, then don't you have to accept the potential agency of
+    other information forms, which may not be materially visible but
+    may qualify as life?
+    - beings that exist as programs in chaos
+      - sociophysical egregores
+      - other archetypical metaphysical beings
+      - the Gaia hypothesis
+    - beings whose shadow exists in the collective unconscious
+      - God -- man's conception of God -- is one such being that
+        emerged from the collective unconscious desire to construct
+        the nadir of belief systems.
+        - it is important to distinguish God from both man's
+          inevitable conception of God and man's actual conception of
+          God.
+          - I believe that the being worshipped as the monotheistic or
+            Abrahamic God represents the totality of the metaphysical
+            whence the physical world emerged, though I cannot explain
+            how.
+        - I have an unfortunately utilitarian understanding of
+          religion. I am trying to restore man's faith in religion and
+          God by countering the forces that undermine it. However, it
+          is difficult to do so without arguments that will be
+          considered offensive. We need mankind to believe in
+          something and, If nothing else, then to at least believe in
+          himself.
+      - The collective unconscious certainly exists, but how? And in
+        what form?
+          
+    
+
+- traits of agents
+  - concurrency,
+  - bandwidth,
+  - physicality,
+  - range of action
+  - causal origination
+    - birth
+    - process spawned by a human-computer interaction
+  - will for action applied to an objective
+    - how to state this in a generalized way?
+    - there are degrees of variation here:
+      - people choose their own goals, or at least believe they do
+      - automated agents will eventually attain this
+
 
 - a second critical factor is the lack of multitasking:
   - particles (at least people) can only really do one thing & can
@@ -1213,6 +1272,9 @@ one another as truly equal before an omnipotent, omniscient being.
       time and space, without direct physical connections.
       - this is because some information processing entities are
         autonomous.
+
+
+
 
 # (Physics Analogies for Social Systems)
 
