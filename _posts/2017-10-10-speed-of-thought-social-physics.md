@@ -106,6 +106,8 @@ excerpt: ""
 
 ## [Postulates of Sociophysical Systems](#postulates-of-sociophysical-systems)
 
+- TODO: ensure TOC here is properly ordered
+
 #### &#x2605; (1) [There Are Infinitely Many Types of Sociophysical Energy Having Both Linear And Non-Linear Mechanics That Determine Their Equivalence and Interaction Dynamics](#there-are-infinitely-many-types-of-sociophysical-energy-having-both-linear-and-non-linear-mechanics-that-determine-their-equivalence-and-interaction-dynamics)
 
 #### &#x2605; (2) [Power Describes The Rate of Energy Fluxing Through Sociophysical Networks](#power-describes-the-rate-of-energy-fluxing-through-sociophysical-networks)
@@ -570,6 +572,8 @@ phenomena, by stubbornly clinging to some ideological modes (of ...)
 or by refusing to allow adaptation, we fall victim to Nietzche's
 danger of dangers.
 
+![Magnetic Field Lines]()
+
 Today, the world needs everyone on the same page. In order to operate
 cooperatively in more virtualized sociophysical systems, we must first
 develop a clear understanding of their purely physical counterparts.
@@ -582,13 +586,36 @@ of men.
 
 ### (1) [There Are Infinitely Many Types of Sociophysical Energy Having Both Linear And Non-Linear Mechanics That Determine Their Equivalence and Interaction Dynamics](#there-are-infinitely-many-types-of-sociophysical-energy-having-both-linear-and-non-linear-mechanics-that-determine-their-equivalence-and-interaction-dynamics)
 
-- include a description of fields, the structure of which influences
-  the flow of energy
-  - fields can have physical or (virtual) topological spaces
+Just as the laws of particle physics are modeled as objects
+interacting energetically with shared fields, sociophysical phenomena
+also operate with fields and energy. The difference is that social
+physics is the ultimate abstracted generalization of physical laws and
+thus, to say that it is infinitely more complex means you have a
+limited conceptualization of infinities.
 
-- Their mechanics are both linear and non-linear
-  - this creates interactions and equivalence dynamics
-  - it is rare that energy is perfectly preserved, never created nor destroyed
+The most important shared field is the field of attention. In all
+physical and virtual social interations, people want to know what
+other people are interested in: they are asserting and measuring
+perceived beliefs to mitigate the system's complexity. Imagine this
+field in a physical example to entertain an idea of the maximal and
+minimal strength of force on this field. You're at home, alone. Does
+anyone know where you are? Is your behavior going to influence someone
+else's behavior? No. Without internet, your impact on the shared field
+of attention is nearly zero.
+
+![Stadium]()
+
+Now imagine yourself at a concert or a football game. People exert
+influence on the shared field of attention with their focus. Their
+field of view, as it is perceived by other people, exhibits an effect
+on the field of attention. People are always looking to see where
+other people are looking. The laplacian of a field tells us how this
+changes, when and where. So, at a concert or football game, if all the
+people were particles, they would be magnetically aligned to the field
+lines. At a concert or football game, there would be a nearly maximal
+value for the deformation in the field.
+
+Sociophysical systems are (very similar).
 
 - of energy equilalence, governing movement and transduction
 - There varying metrics and means of equivalence for the movement of Energy
@@ -597,38 +624,188 @@ of men.
 - what is universal among all the types of energy? anything?
 - examples of types of energy
 
+<a name="mechanics-of-social-interactions-and-connections-are-physical-and-logical-but-increasingly-virtualized" />
+
+### (2) [Mechanics of Social Interactions And Connections Are Physical and Logical, But Increasingly Virtualized](#mechanics-of-social-interactions-and-connections-are-physical-and-logical-but-increasingly-virtualized)
+
+Via these shared fields, people influence each other via sociophysical
+energy exchange. Unlike the electromagnetic field, these fields are
+individually conceptualized, so there are infintely many of them and
+infinitely many energy types. Moreover, equivalent exchange of energy
+is almost never preserved, but there are mechanics of energy exchange
+and transduction.
+
+These fields can be imagined as spaces with the potential to
+facilitate sociophysical energy exchange -- with a strong departure
+from physics: there is pronounced variation in the topology of the
+spaces. There are field with physically derived topology, graph
+topology and any kind of conceivable topology. These are simply tools
+for attempting to model what is far more complex than can ever be
+known.
+
+The importance of sociohierarchical structures has always entailed the
+use of logical, non-physical components to strategize or anticipate
+sociophysical phenomena. These topologies, either fully or partially
+derived from logical relationships between people, groups, or other
+nodes, form fields where the energy mechnics operate like electrical
+circuits.
+
+Electrical networks are an example of physical phenomena with a
+logical graph-based structure overlayed on top. When determining the
+structure and components of circuits, would you first consider the
+physical proportions of the components or the types and structures of
+components? What happens when you remove components like resistors or
+capacitors from series or parallel circuits? Does it help much to
+first think about physically derived microphenomena of the system,
+like the [Skin Effect](https://en.wikipedia.org/wiki/Skin_effect)? Or
+would you start with top-down methods to examine the phenomenological
+end-goals of circuit structure: whether it a logical network of
+components forms an amplifier or a transformer?
+
+In reasoning about these systems and the range of possibilities, the
+resulting dynamics and mechanics are neither purely physical or purely
+logical. By logically reasoning about the systems and gradually
+accreting structure, we attain flexible, efficient skill to
+combinatorially evaluate circuit structures to achieve a maximum of
+phenomenological agility.
+
+On top of the physical world, we have constructed technology that
+facilitates instantaneous communication, starting with the telegraph.
+This has rapidly progress, giving us the phone system, the early
+internet and culminates in nearly superconnected networks of optical
+cable. The world is well aware this means the digital world is more
+relevant than the physical. What we're not ready for is the pure
+manisfestation of the metaphysical into the physical realm.
+
+Today, almost all human communication is, in full or in part, being
+conducted across this logical communication infrastructure. The
+majority of artifacts of human interaction and human activity are now
+purely or mostly digital. Most critically, the physical aspects of
+sociophysical conceptualization, strategy and tactics are less
+dominant. The virtual and logical aspects are instead being amplified
+to such a degree whereby the physical is almost secondary. The
+logically derived topologies, such as sociohierarchical structures and
+relationships, now matter more than ever.
+
+Therefore, our generations should begin conceptualizing their world
+primarily in terms of these logically and informationally derived
+spaces. Again, these tools for strategizing and managing human
+interactions have always existed in one form or another, but hidden
+from most. However, this purely physical world is no longer the one we
+live in, but if we do not retain our individuality, our humanity and
+our sense of purpose, nihilism will rapidly corrode through any system
+structure, no matter how antifragile.
+
+![CPU Chip Fabrication]()
+
+What is the CPU? What does it represent? Mastery over physics and
+solid-state chemistry? Doesn't it also represent mastery over logic,
+math, Gödel, Turing and especially [Von Neumann machines]()? Nevermind
+that, it represents the manisfestation of all this knowledge into the
+physical plane, whereby the metaphysical imbued into the structure of
+matter itself. This is the physical reification of a materialistic or
+idealistic conception of the metaphysical: a machine capable of
+executing instruction sets, numbered according to
+[Gödel's](https://www.perrymarshall.com/articles/religion/godels-incompleteness-theorem/)
+[trancendental](http://users.ox.ac.uk/~jrlucas/Godel/implic.html)
+[revelations](https://plato.stanford.edu/entries/goedel-incompleteness/)
+on the countability of mathematic structures themselves. They are
+Logic, borne into demigod form, themselves capable of virtualizing
+physical systems.
+
+> BTW, I knew the above links on Gödel's Completeness Theorums were
+> relevant, but I couldn't understand the academic language. Without a
+> quick study, I still can't really tell you the difference between #1
+> and #2. Why? *SOCIAL ISOLATION*.
+
 <a name="power-describes-the-rate-of-energy-fluxing-through-sociophysical-networks" />
 
-### (2) [Power Describes The Rate of Energy Fluxing Through Sociophysical Networks](#power-describes-the-rate-of-energy-fluxing-through-sociophysical-networks)
+### (3) [Power Describes The Rate of Energy Fluxing Through Sociophysical Networks](#power-describes-the-rate-of-energy-fluxing-through-sociophysical-networks)
+
+When conceiving social circuitry, people, groups and roles all form
+components in networks that conduct, magnify, time and regulate
+sociophysical energy flows. Electrical components can be conceivably
+form metaphors for a typology of social circuit network design.  In
+such circuits, social energy flows through networks where all
+components are connected. Disrupting any power flow and affects all
+power flows. Changing, reversing, inserting, tuning the components
+influences the flow of power and energy flux across the rest of the
+systems.
+
+#### Nietzsche, in Twilight of the Idols
+
+> Even a rapid estimate shows that it is not only obvious that German
+> culture is declining but that there is sufficient reason for
+> that. In the end, no one can spend more than he has: that is true of
+> an individual, it is true of a people. **If one spends oneself for
+> power, for power politics, for economics, world trade,
+> parliamentarianism, and military interests** — *if one spends in the
+> direction the quantum of understanding, seriousness, will, and self-
+> overcoming which one represents*, **then it will be lacking for the
+> other direction.**
+
+Perhaps using different terms, Nietzsche was attempting to explain how
+the opportunity costs of both sociophysical energy investment or
+alterations of sociohierarchical components. When conceptualized with
+the language of circuitry, this becomes more clear. Did Nietzsche
+understand what one can attempt to quantify with non-linear energy
+mechanics? In such non-linear systems, energy equivalence is almost
+never preserved.
+
+- people fucking hated Nietzsche, AFAIK. i mean, have you read
+  Twilight of the Gods? his writing style sound like the Germans of
+  the day locked him in the looney bin to suffer with philosophical
+  constipation. that horse deserved to be recognized for strength, did
+  it not? (ok this is pure speculation ... absolutely not
+  authoritative)
 
 Similar to power in electrical networks, sociophysical measures of
 power are defined as the potential to trigger flux through social
-networks and the rate of that flux. There are many varieties of flux
-that can be projected through types of social networks: physical
-change, informational change, structural change to graphs,
-informational or schematic change, and behavioral change.
+networks and the rate of that flux.
 
-- change to the structure of ideas or to shape people's conception of
-  them
-  - history as a language of ideas we build upon
-  - controlling the truth allows you to constrain the form of context
-    in the minds of others
+#### Many Consequences of Sociophysical Energy Flux Can Be Imagined:
+
+#### &#x2605; Physical Change
+
+#### &#x2605; Sociohierarchical Change
+
+#### &#x2605; Belief Structure Change
+
+#### &#x2605; Change or Stagnation in Conditioned Behaviors
+
+#### &#x2605; Informational Change
+
+#### &#x2605; Informational or Hierarchical Schematic Change
+
+So, then *potential for power* is defined as the capacity to project
+these changes into the world and *action of power* is defined as the
+rate of these changes, however enigmatic power may be to quantify,
+since the infinite variety of energy and transduction pathways render
+all intractible. Perhaps our inability to understand ourselves is a
+curse; perhaps it is a blessing.
+
+The forms above are base types of changes to sociophysical structures
+as a result of the exertion of power. What we see in life are
+reconfigurations of the above. That is, we see the likes of:
+
+#### Informational Change Yielding Physical Change
+
+#### Informational Change Yielding Eventual Schematic Change On A Social Scale
+
+#### Behavior Change Yielding Long-Term Physical Change
+
+#### Physical Change Yielding Informational Change
+
 
 - (here, focus on imagery related to electrical systems)
 
-- (the forms above) are higher-order. that is, what we see IRL are
-  really combinations of the above:
-  - informational change that results in physical change
-  - informational change that results in eventual schematic change on
-    a social scale
-  - behavior change that results in long-term physical changes
-  - physical changes that result in informational changes
-  - schematic change that results in self-perpetuating changes over
-    the course of years, decades or centuries (i.e. religion)
+- (the forms above) 
+- directionality of power flows
+  - one way & two way directions of comm. protocols (diodes)
 
 <a name="social-power-depends-on-potentials-for-types-of-energy-flux" />
 
-### (3) [Social Power Depends On Potentials For Types Of Energy Flux, Each Actual And Perceived](#social-power-depends-on-potentials-for-types-of-energy-flux)
+### (4) [Social Power Depends On Potentials For Types Of Energy Flux, Each Actual And Perceived](#social-power-depends-on-potentials-for-types-of-energy-flux)
 
 - this potential for flux/action is very much dependent on the beliefs
   of nodes in the system and a differential of information available
@@ -654,14 +831,14 @@ informational or schematic change, and behavioral change.
 
 <a name="perceived-beliefs-drive-social-power-dynamics-via-positive-and-negative-feedback-loops" />
 
-### (4) [Perceived Beliefs Drive Social Power Dynamics Via Positive and Negative Feedback Loops](#perceived-beliefs-drive-social-power-dynamics-via-positive-and-negative-feedback-loops)
+### (5) [Perceived Beliefs Drive Social Power Dynamics Via Positive and Negative Feedback Loops](#perceived-beliefs-drive-social-power-dynamics-via-positive-and-negative-feedback-loops)
 
 In this way, belief and perception can almost independently create
 types of energy.
 
 <a name="agents-have-varying-degrees-of-autonomy-and-individual-definitions-of-energy-types" />
 
-### (5) [Agents Have Varying Degrees Of Autonomy and Individual Definitions Of Energy Types. They Share Traits, Such As Concurrency, Bandwidth and Physicality](#agents-have-varying-degrees-of-autonomy-and-individual-definitions-of-energy-types)
+### (6) [Agents Have Varying Degrees Of Autonomy and Individual Definitions Of Energy Types. They Share Traits, Such As Concurrency, Bandwidth and Physicality](#agents-have-varying-degrees-of-autonomy-and-individual-definitions-of-energy-types)
 
 - a second critical factor is the lack of multitasking:
   - particles (at least people) can only really do one thing & can
@@ -671,34 +848,6 @@ types of energy.
       channels, which are so far almost completely bound to aphysical
       manisfestations
   - similarly, people are bound to one place at a time
-
-<a name="mechanics-of-social-interactions-and-connections-are-physical-and-logical-but-increasingly-virtualized" />
-
-### (6) [Mechanics of Social Interactions And Connections Are Physical and Logical, But Increasingly Virtualized](#mechanics-of-social-interactions-and-connections-are-physical-and-logical-but-increasingly-virtualized)
-
-- Information, energy and social power flow through networks.
-
-Electrical networks are an example of physical phenomena with a
-logical graph-based structure overlayed on top. In reasoning about
-these systems and the range of possibilities, the resulting dynamics
-and mechanics are neither purely physical or purely logical. Only by
-reasoning about the systems, logically and with (increasing)
-structure, can we reach (a maximum of phenomenological flexibility)
-
-- "social circuitry"
-  - metaphors for social influence as electrical networks where all
-    components are connected. disrupting any power flow disrupts all
-    power flows.
-  - quote nietszche on power/influence flow in "twilight of the gods"
-  - one way & two way directions of comm. protocols (diodes)
-
-- many networks superimposed onto other, more primary, phsyical and
-  aphysical networks
-
-- computer chips are then the physical (manisfestations) of metaphysical primatives
-  - they are logic made manifest, capable of virtualizing physical systems.
-
-Sociophysical systems are (very similar).
 
 <a name="to-hedge-against-domain-complexity-agents-amplify-perceived-beliefs" />
 
@@ -740,6 +889,14 @@ Sociophysical systems are (very similar).
 
 ### (9) [Spectral Coherence of Knowledge, Information and Agent Context Strongly Influences Conceptualization and Anticipation](#spectral-coherence-of-knowledge-information-and-agent-context-strongly-influences-conceptualization-and-anticipation)
 
+- the inability to scalably model or to even ascertain pieces of
+  information, which are sometimes unindexable if no rigid schema can
+  be devised, means that the way in which information is handled in
+  these models becomes infinitely more important
+  - i.e. convergence and homogeneity of belief systems is required to
+    make *any* useful inferences and those aspects of the systems
+    which cause schematic divergence become problematic
+
 - the single most important conclusion I can draw from a mathematical
   assessment of social physics is that the ability to make valid
   assumptions on information/beliefs and the behaviors of nodes is
@@ -763,13 +920,48 @@ Sociophysical systems are (very similar).
   - because such a large set of agents respond to information in
     similar ways ...
 
-- the inability to scalably model or to even ascertain pieces of
-  information, which are sometimes unindexable if no rigid schema can
-  be devised, means that the way in which information is handled in
-  these models becomes infinitely more important
-  - i.e. convergence and homogeneity of belief systems is required to
-    make *any* useful inferences and those aspects of the systems
-    which cause schematic divergence become problematic
+#### Schematic Change Yielding Self-Perpetuating Changes Over Years, Decades or Centuries (i.e. Religion)
+
+Those who profess knowledge but disclaim or disdain religion are
+fools. Change to the structure of ideas or to the shape of society's
+conception of them is perhaps the highest power and one that, for now,
+has been exercised with beneficent intent, however many conflicts have
+been waged in the name of God, religion or faith. It is wise to
+question, but simple to dismiss the ideas of religion, based on
+contrived, illiteral misinterpretations and arguments designed to
+deceive.
+
+Every institution created by man is just as fallible as the
+weak-hearted among us: science never roots its knowledge or beliefs,
+shifting from form to form and thus is beholden to nothing eternal,
+but the truth which has always eluded it. It's ability to
+metamorphisize is both its strength and its fatal flaw. There is no
+eternal truth that can be inculcated into the masses; opportunistic
+control over the shape-shifting nature of science drives greed and
+lust for power. A belief system which holds nothing sacred will
+eventually empower violent, dehumanizing, utilitarian policy. (The key
+is balancing this paradox; tightrope imagery) between belief systems
+locked into professed eternal truth and those structured around the
+search for elusive truth.
+
+Look at what is happening now: do you see the potential for greater
+harm that ever before from novel religions who have lost their way?
+Religion was always intended to fertilize the cultural soil of
+mankind, that it might grow virtuous men who would stand for truth,
+justice and the metaphysically certain Law of God. However this was
+relevated to man for each spiritual movement, the intent was to
+identify a perfect conception of values that would allow man to
+transcend the Law of Nature. Humanity's conception of monotheistic God
+emerged from the collective unconscious, inspired by the desire to see
+one another as truly equal before an omnipotent, omniscient being.
+
+
+- change to the structure of ideas or to shape people's conception of
+  them
+  - history as a language of ideas we build upon
+  - controlling the truth allows you to constrain the form of context
+    in the minds of others
+
 
 <a name="the-evolutionary-dynamics-of-social-physics-build-upon-antifragility-and-the-ideas-of-programs-in-chaos" />
 
@@ -809,6 +1001,9 @@ Sociophysical systems are (very similar).
 <a name="social-circuitry-enables-sociophysical-energy-flows-where-the-superposition-principle-applies-to-circuit-and-network-topologies" />
 
 ### (11) [Social Circuitry Enables Sociophysical Energy Flows, Where The Superposition Principle Applies Circuit and Network Topologies. All Exist Simultaneously](#social-circuitry-enables-sociophysical-energy-flows-where-the-superposition-principle-applies-to-circuit-and-network-topologies)
+
+- many networks superimposed onto other, more primary, phsyical and
+  aphysical networks
 
 - this concept is really an extension of the idea of superposition of
   particle states to information networks which are composed of
