@@ -134,12 +134,6 @@ excerpt: ""
 
 #### &#x2605; (14) [Even When Invisible, Intent is Signified And Clarified By Parallel, Anti-Parallel and Orthogonal Orientations of Motion As They Relate to Laplacian of High-Dimensional Surfaces](#even-when-invisible-intent-is-signified-and-clarified-by-parallel-antiparallel-and-orthogonal-orientations-of-motion-as-they-relate-to-laplacian-of-high-dimensional-surfaces)
 
-#### ...
-
-#### (#14 Means You Cannot Lie To Me Forever)
-
-#### ...
-
 #### &#x2605; (15) [Everything is a particle. Everything is a Wave. Even Information, Modeled Holonically](#everything-is-a-particle-everything-is-a-wave-even-information-modeled-holonically)
 
 #### &#x2605; (16) [In Sociophysical Network Topologies, Independence and Connectedness Are Quantifiable](#in-sociophysical-network-topologies-independence-and-connectedness-are-quantifiable)
