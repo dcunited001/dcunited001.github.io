@@ -889,6 +889,22 @@ disconnection. That's called a con.
 
 - reference other article
 
+- a critical factor in social physics is the lack of multitasking:
+  - particles (at least people) can only really do one thing & can
+    only think one thing at a time, which bounds how quickly state
+    changes can occur
+    - this doesn't apply to automonous agents operating on virtual
+      channels, which are so far almost completely bound to aphysical
+      manisfestations
+  - similarly, people are bound to one place at a time
+  - this lack of multitasking inherent in biological life without
+    augmentation is a fundamental distinction.
+    - this assumption provides a mechanism for filtering signal to
+      distinguish interactions on the internet that emerge from people
+      or automated entities
+      - nearly 100% certain distinction of automated vs. human signal
+        (*nearly* 100%)
+
 - understanding distributions of agency on physical/logical spaces is
   throroughly fascinating.
 

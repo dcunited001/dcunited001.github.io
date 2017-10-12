@@ -8,16 +8,29 @@ author:
 excerpt: ""
 ---
 
-
 Agency is the capacity for some entity to be considered an independent
 actor with the ability to interact on our shared sociophysical
 fabric. Agents process information signals from their environment,
 which can be conceptualized as sensory input or data. These sensory
 perceptions are internalized into information representations.
 
-# [Primary Types of Entities With Agency](#primary-types-of-entities-with-agency)
+## [Primary Types of Entities With Agency](#primary-types-of-entities-with-agency)
 
-### (1) [Sentient Biological Life](#sentient-biological-life)
+#### (1) [Sentient Biological Life](#sentient-biological-life)
+
+#### (2) [Aphysical Autonomous Forms](#aphysical-autonomous-forms)
+
+#### (3) [Physicalized Autonomous Forms](#physicalized-autonomous-forms)
+
+## [Two Unconventional Types of Entities with Agency](#two-unconventional-types-of-entities-with-agency)
+
+#### (4) [Sociophysical And Metaphysical Information Forms](#sociophysical-and-metaphysical-information-forms)
+
+#### (5) [Adumbrated Entities in the Shadows of the Collective Unconsciousness](#adumbrated-entities-in-the-shadows-of-the-collective-unconsciousness)
+
+## [Dilineating Traits of Entities With Agency](#dilineating-traits-of-entities-with-agency)
+
+
 
 Entities with agency can analyze and process these to inform its
 actions. Agents have a degree of autonomy but do not exist in
@@ -128,9 +141,9 @@ temporality.
 
 ![Just in case, I Have My Trusty Foil Masticore Card](/img/posts/2017-10-10-treatise-on-entity-and-agency/foil-masticore.jpg)
 
-<a name="two-unconventional-types-of-entities-with-agents" />
+<a name="two-unconventional-types-of-entities-with-agency" />
 
-# [Two Unconventional Types of Entities with Agents](#two-unconventional-types-of-entities-with-agents)
+# [Two Unconventional Types of Entities with Agents](#two-unconventional-types-of-entities-with-agency)
 
 There are two unconventional types of agents, whose existence is
 certainly debatable. Since they are not materially visible, they are
@@ -152,6 +165,10 @@ exhibiting antifragile feedback loops that attempt to placate emergent
 turbulence. If such antifragile systems did not mitigate rancorous
 economic havoc, what cannot go on forever will not and hence, a dead
 planet emerges.
+
+#### Plato, Guarded Eternally By Athena The Wise
+
+![Plato and Athena](/img/posts/2017-10-10-treatise-on-entity-and-agency/plato-and-athena)
 
 These forms of agency seem to contrast the required autonomy and
 independence of action. However, according to a holonic understanding
@@ -232,35 +249,37 @@ that enigmatic force exerts on our world.
 > begat in his own likeness, to be in the visible world, in relation
 > to sight and the things of sight, what the good is in the
 > intellectual world in relation to mind and the things of mind." -
->
-> *I forced myself to identify a quality translation of Plato's work
-> and others; to read them, before any essays or analysis on them,
-> because I wanted to start with my own thoughts before being exposed
-> to others. Like with all other things I read, it was slow, but I
-> invested my time in reflection. Like all my other methods of learning,
-> it was inefficient and stupid.*
 
-![](/img/posts)
+#### Socrates and Apollo
 
-#### (Traits of Agents)
+![Socrates and Apollo](/img/posts/2017-10-10-treatise-on-entity-and-agency/foil-masticore.jpg)
+
+<!-- *I forced myself to identify a quality translation of Plato's
+     work and others; to read them, before any essays or analysis on
+     them, because I wanted to start with my own thoughts before being
+     exposed to others. Like with all other things I read, it was
+     slow, but I invested my time in reflection. Like all my other
+     methods of learning, it was inefficient and stupid.* -->
+
+<a name="dilineating-traits-of-entities-with-agency" />
+
+# [Dilineating Traits of Entities With Agency](#dilineating-traits-of-entities-with-agency)
 
 There are several traits shared among all types of entities that exert
 agency.
 
-#### &#x2605; Sensory Qualities
+### [Spectra, Range and Intensity of Sensory Input](#spectra-range-and-intensity-of-sensory-qualities)
 
 What types of input signal can the entity or individual receive and
 process? What are the costs in time and energy? Above, in Plato's
 Republic, Socrates dilineates the five senses in a phenomenological
 analysis. How such analysis must adapt to autonomous artificial
-entities is the focus of debate? In a way, isn't all input a sense?
+entities is the focus of debate. For these novel autonomous entities,
+isn't all input a sense? Then, most of it is informational.
 
-What is the cost to processing such types of sensory input?
-
-#### &#x2605; Identity and Comparability: Precision and Uniqueness
-
-Vision is always a hard problem, regardless of whether biological or
-artificial hardware is processing the problem.
+What is the cost to processing such types of sensory input? Vision is
+always a hard problem, regardless of whether biological or artificial
+hardware is processing the problem.
 
 #### Socrates in [Plato's Republic, Book VI](http://classics.mit.edu/Plato/republic.7.vi.html):
 
@@ -279,8 +298,11 @@ arise are peculiar and idiosyncratic.
 > and
 > [Embracing Our Differences](/posts/2016-05-14-facets-of-greatness-the-unknown-monumental-accidents.html#embracing-our-differences)
 > in the article
-> [Facets of Greatness - The Unknown - Monumental Accidents](/posts/2016-05-14-facets-of-greatness-the-unknown-monumental-accidents.html). Please,
-> pray for my coccyx, if you read to the end.
+> [Facets of Greatness - The Unknown - Monumental Accidents](/posts/2016-05-14-facets-of-greatness-the-unknown-monumental-accidents.html).
+
+<!-- Please, pray for my coccyx, if you read to the end. -->
+
+### [Identity and Comparability: Precision and Uniqueness]()
 
 When we leverage these differences provided by diversity of body, mind
 and culture, this is a strength. Our individual (shapes) are cast by
@@ -291,17 +313,20 @@ individual is greater than another -- each of us has potential for
 greatness in our own way. Unrestrained, we collectively have the most
 potential to do the most good for others.
 
-![Picture of bell curve]()
+#### The Normal Distribution
+
+![Picture of bell curve](/img/posts/2017-10-10-treatise-on-entity-and-agency/bell-curve.svg)
 
 Those who study intelligence try to conceptualize IQ as
-[Normal distribution]() with an average -- but what they forget is
-that the divergent individuals are all divergent in their own way. Can
-you average apples, oranges, kiwis and dragonfruit? Further, we also
-forget that we are running on the same biological hardware -- it is
-our experience and the way we react to it that forms our mind. *If you
-ever believe anything else, you have ceded control to fate or some
-force that seeks to control you by convincing you that you are less
-than the radiant, stellar being you were meant to be.*
+[Normal distribution](https://en.wikipedia.org/wiki/Normal_distribution)
+with an average -- but what they forget is that the divergent
+individuals are all divergent in their own way. Can you average
+apples, oranges, kiwis and dragonfruit? Further, we also forget that
+we are running on the same biological hardware -- it is our experience
+and the way we react to it that forms our mind. *If you ever believe
+anything else, you have ceded control to fate or some force that seeks
+to control you by convincing you that you are less than the radiant,
+stellar being you were meant to be.*
 
 The idea that you would compare the form of agents stems from math. It
 is especially applicable to virtualized information forms: processes
@@ -317,52 +342,60 @@ ideas. People tomorrow are always meant to be more than what they
 where today. We are meant to grow and to never stop growing. We are
 meant to plant these same seeds of inspiration in others at every
 chance possible. We are meant to tend the soil of society, so that it
-is more fertile for such transformation.
+is more fertile for transformation and self-actualization.
 
-#### &#x2605; Information Processing Qualities
+<a name="analysis-and-synthesis-capacity-methods-and-discernment" />
+
+### [Analysis and Synthesis: Capacity, Methods and Discernment](#analysis-and-synthesis-capacity-methods-and-discernment)
+
+- covers mainly the qualities and options available for Information
+  Processing
+
 
 - capacity to recognize and store phenomena
 - Bandwidth, Quality of Perception, Capacity for Concurrency
 
-#### &#x2605; Physicality
+<a name="physicality-locality-plurality-and-mobility" />
+
+### [Physicality: Locality, Plurality and Mobility](#physicality-locality-plurality-and-mobility)
 
 - And Range of Physical Influence
 - bound to one location per time?
 
-#### &#x2605; Temporality:
+<a name="temporality-causal-origination-state-and-finality" />
+
+### [Temporality: Causal Origination, State and Finality](#temporality-causal-origination-state-and-finality)
 
 - Range of Temporal Influence,
 - Causal Origination and Finality
-
-#### &#x2605;
-
-- traits of agents
-  - concurrency,
-  - bandwidth,
-  - physicality,
-  - range of action
   - causal origination
     - birth
     - process spawned by a human-computer interaction
+
+- the singular being that exists at the end of time?
+  - the beings existing from the beginning of time, who control all
+    life from end to beginning.
+
+
+
+
+<a name="autonomy-sentience-direction-and-will" />
+
+### [Autonomy: Sentience, Direction and Will](#autonomy-sentience-direction-and-will)
+
   - will for action applied to an objective
     - how to state this in a generalized way?
     - there are degrees of variation here:
       - people choose their own goals, or at least believe they do
       - automated agents will eventually attain this
 
+<a name="" />
 
-- a second critical factor is the lack of multitasking:
-  - particles (at least people) can only really do one thing & can
-    only think one thing at a time, which bounds how quickly state
-    changes can occur
-    - this doesn't apply to automonous agents operating on virtual
-      channels, which are so far almost completely bound to aphysical
-      manisfestations
-  - similarly, people are bound to one place at a time
-  - this lack of multitasking inherent in biological life without
-    augmentation is a fundamental distinction.
-    - this assumption provides a mechanism for filtering signal to
-      distinguish interactions on the internet that emerge from people
-      or automated entities
-      - nearly 100% certain distinction of automated vs. human signal
-        (*nearly* 100%)
+### (Interface with the External World)
+
+- life on the sun? (plasma-based life forms in the chaos of the
+  magnetohydrodynamic systems of plasma)
+  - or some other entity with endless capacity/bandwidth for to
+    analyze/synthesize information, but little to no means of reaching
+    back
+
