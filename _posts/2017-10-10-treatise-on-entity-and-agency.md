@@ -30,6 +30,19 @@ perceptions are internalized into information representations.
 
 ## [Dilineating Traits of Entities With Agency](#dilineating-traits-of-entities-with-agency)
 
+#### [Perception: Spectra, Range and Intensity of Sensory Input](#perception-spectra-range-and-intensity-of-sensory-input)
+
+#### [Identity: Comparability, Precision and Uniqueness](#identity-comparability-precision-and-uniqueness)
+
+#### [Analysis and Synthesis: Capacity, Methods and Discernment](#analysis-and-synthesis-capacity-methods-and-discernment)
+
+#### [Physicality: Locality, Plurality and Mobility](#physicality-locality-plurality-and-mobility)
+
+#### [Temporality: Causal Origination, State and Finality](#temporality-causal-origination-state-and-finality)
+
+#### [Autonomy: Sentience, Direction and Will](#autonomy-sentience-direction-and-will)
+
+#### [Agency: Boundaries, Permeability and Maniability](#agency-boundaries-permeability-and-maniability)
 
 
 Entities with agency can analyze and process these to inform its
@@ -268,7 +281,9 @@ that enigmatic force exerts on our world.
 There are several traits shared among all types of entities that exert
 agency.
 
-### [Spectra, Range and Intensity of Sensory Input](#spectra-range-and-intensity-of-sensory-qualities)
+<a name="perception-spectra-range-and-intensity-of-sensory-input" />
+
+### [Perception: Spectra, Range and Intensity of Sensory Input](#perception-spectra-range-and-intensity-of-sensory-input)
 
 What types of input signal can the entity or individual receive and
 process? What are the costs in time and energy? Above, in Plato's
@@ -302,7 +317,9 @@ arise are peculiar and idiosyncratic.
 
 <!-- Please, pray for my coccyx, if you read to the end. -->
 
-### [Identity and Comparability: Precision and Uniqueness]()
+<a name="identity-comparability-precision-and-uniqueness" />
+
+### [Identity: Comparability, Precision and Uniqueness](#identity-comparability-precision-and-uniqueness)
 
 When we leverage these differences provided by diversity of body, mind
 and culture, this is a strength. Our individual (shapes) are cast by
@@ -328,13 +345,21 @@ anything else, you have ceded control to fate or some force that seeks
 to control you by convincing you that you are less than the radiant,
 stellar being you were meant to be.*
 
+One can replace vacuous desolation with verdant providence through
+self-directed, larmarkian transformation of the individual, fueled by
+sheer force of will and fantastical epigenetic mechanisms, whose power
+transcends that of genetics. Why would we believe in limitations?
+Believe in transcendence of those limitations; albeit irrational, the
+power of mystery is sometimes our only hope.
+
 The idea that you would compare the form of agents stems from math. It
 is especially applicable to virtualized information forms: processes
 are recognized by name, source code, or memory contents; antivirus
 software operates by recognizing potentially malicious instruction
-sets. We can recognize the same program that runs on different
-hardware. This is especially relevant for the second and third agent
-type.
+sets. Hashing algorithms enable digitally sign software to be
+efficiently recognized and trusted. There are many ways to recognize
+the same program that runs on different hardware. This is especially
+relevant for the second and third types of agency.
 
 For biological agents, it is impossible to compare two people --
 further, the application of this idea can lead towards dangerous
@@ -351,8 +376,7 @@ is more fertile for transformation and self-actualization.
 - covers mainly the qualities and options available for Information
   Processing
 
-
-- capacity to recognize and store phenomena
+- capacity to recognize, represent, store and compare phenomena
 - Bandwidth, Quality of Perception, Capacity for Concurrency
 
 <a name="physicality-locality-plurality-and-mobility" />
@@ -383,15 +407,70 @@ is more fertile for transformation and self-actualization.
 
 ### [Autonomy: Sentience, Direction and Will](#autonomy-sentience-direction-and-will)
 
+- sentience is awareness of an experience of sensory phenomena
+  - cognizance of that awareness is not required
+
+
   - will for action applied to an objective
     - how to state this in a generalized way?
     - there are degrees of variation here:
       - people choose their own goals, or at least believe they do
       - automated agents will eventually attain this
 
-<a name="" />
+- direction: purpose, intent and goal
+  - pheramone signaling in ants as protocols for the chemical
+    transmission of information
+  - for ants to attain progress in this direction, the biological
+    components must incentivize this progress
+    - the minds of all sentient beings facilitate expansion in
+      capacity for analysis and synthesis of internalized information.
+  - this is a kind of decentralized program, with biological and
+    sociophysical components. common behavior patterns emerge in ant
+    colonies tightly coupled to their adjecent environment and
+    specifically the physical idiosyncrasies in their local
+    environment. (reword this)
+    - is the ant hill in the middle of African sahara or in a
+      rainforest?
+    - is the ant hill centered beside a McDonalds or a candy store?
+    - the environment will sociophysically distort the ants social
+      behavior: they will be attracted to further food sources with
+      stronger signal.
 
-### (Interface with the External World)
+  - consciousness is a spectrum. spontaneous insight provokes
+    transcendence into higher forms of awareness. with greater and
+    varied (capacity) for sentience, sensory input, analysis,
+    synthesis and reflection, these spontaneous insights become more
+    frequent.
+    - humanity's own sociophysical programs may seem more complicated,
+      but we are not unlike the ants, whose social behavior is so
+      profoundly affected by their environment.
+    - through tools like discernment, intuition and reflection, some
+      of us find ourselves free of the environment's imposition,
+      distortion and containment.
+    - how do individuals become aware of the higher goals? how does
+      humanity become aware of the highest goal?
+
+- can we know it without seeing it? can we see it even if we know it?
+  - if we are fortunate enough that a virtuous path becomes
+    illuminated at our feet, what does it (take/cost) to follow it?
+    where does it lead? isn't it simpler to follow when our light
+    reflects off one another?
+- We channel our spirit with the mind's (internalized understanding)
+  of life and this goal.
+
+Though we may seem greater, if the greats who came before us were
+truly the greatest and this path becomes occluded, what then?
+
+In the future, we'll forget creativity's eminence. It won't be
+something we realize we miss once it's gone. The path from whence we
+came will be hidden and inconstructible. Adumbrating sensory overload
+will occlude our path, if we even think to look for it.
+
+<a name="agency-boundaries-permeability-and-maniability" />
+
+### [Agency: Boundaries, Permeability and Maniability](#agency-boundaries-permeability-and-maniability)
+
+(Interface with the External World)
 
 - life on the sun? (plasma-based life forms in the chaos of the
   magnetohydrodynamic systems of plasma)
@@ -399,3 +478,25 @@ is more fertile for transformation and self-actualization.
     analyze/synthesize information, but little to no means of reaching
     back
 
+
+
+- as communication infrastructure provides the foundation for
+  metaphysical precipitation, boundaries dissolve, permeability widens
+  the (opening) in the veils that part us.
+  - information omnipresence is only restrained by the degree and
+    voracity of its own deluge
+  - thus, we begin to converge:
+    - our capacity for agency grows and we all become superempowered
+      beings who share limitations on both our computational capacity
+      and natural bounds on energy consumption.
+    - the space between us dissolves. the speciation of information
+      increases, but antifragile systems require some artificial
+      constraints on spectral decoherence. therefore, there will be
+      paradoxical trends of both coherence and decoherence. we must
+      struggle to retain a sense of our humanity and identity or we
+      lose the capacity to grow stronger, both individually and
+      together. Notwithstanding our (need for memory of our humanity),
+      we will all quite literally become one. If the information (that
+      determines our) metaphysical identity wasn't hopelessly
+      intractible, we could measure, analyze, synthesize and know
+      this.
