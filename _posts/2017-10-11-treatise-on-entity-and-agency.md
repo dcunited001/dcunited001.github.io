@@ -34,6 +34,8 @@ perceptions are internalized into information representations.
 
 #### [Identity: Comparability, Precision and Uniqueness](#identity-comparability-precision-and-uniqueness)
 
+
+
 #### [Analysis and Synthesis: Capacity, Methods and Discernment](#analysis-and-synthesis-capacity-methods-and-discernment)
 
 #### [Physicality: Locality, Plurality and Mobility](#physicality-locality-plurality-and-mobility)
@@ -222,8 +224,8 @@ The second type of unconvential life form includes beings whose
 shadows exist as information forms in the collective
 unconsciousness. This would include God -- or man's conception of God
 -- one such being that emerged from the collective unconsciousness.
-How? The concept of monotheistic God represents the nadir of belief
-systems: monotheism is the most marketable basis for a belief
+How? The concept of monotheistic God represents a nadir of theistic
+belief systems: monotheism is the most marketable basis for a belief
 system. It is simple to digest, easy to understand and stable. It is
 not subject to the same power dynamics as polythestic belief systems.
 
@@ -363,23 +365,153 @@ efficiently recognized and trusted. There are many ways to recognize
 the same program that runs on different hardware. This is especially
 relevant for the second and third types of agency.
 
-For biological agents, it is impossible to compare two people --
-further, the application of this idea can lead towards dangerous
-ideas. People tomorrow are always meant to be more than what they
-where today. We are meant to grow and to never stop growing. We are
-meant to plant these same seeds of inspiration in others at every
-chance possible. We are meant to tend the soil of society, so that it
-is more fertile for transformation and self-actualization.
+Even if materialist conception of the mind prevails, where our
+cognition and all consciousness is completely bound to chemical
+reactions in the brain, they still represent and map to abstract
+information forms. This is a virtualized information system and albeit
+non-deterministic, it is similar in nature to a
+[Universal Turing Machine](https://en.wikipedia.org/wiki/Universal_Turing_machine).
+Consider a UTM's tape motions for some program, are they determined
+moreso by the details of host UTM program or the encapsulated Turing
+Machine? If you're trying to predict the tape's motions for some host
+UTM, whose structure is either known or unknown, and for some TM who's
+structure is unknown, doesn't the TM structure allow you to anticipate
+the behavior of the tape moreso than understanding the host UTM that
+virtualizes it? Only by deciphering the TM structure can you actually
+anticipate the final state of the UTM & TM, and when or if it occurs.
+
+Even though there are major differences in neurological and genetic
+programs and non-deterministic systems of information virtualization,
+there is certainly cyclicly interplay between the chemical system and
+its information representations. More crucial to understanding how the
+brain as a chemical system evolves are the stimili it is exposed
+to. If you know the chemical state and can quantify the information
+forms the brain exposes to the mind, you still must understand how the
+physical stimili symbolically affect the system. Implying that, if
+materialism prevails, then you are jumping the gun to claim that all
+free will must be convenient illusion and all decisions are
+predetermined by chemical reactions.
+
+For identity of agents, even without quantum effects considered, two
+biological configurations with identical body and brain are two
+different beings, upon their first divergence of sensory stimuli.
+
+For other conceptualizations of biological agents, it is impossible to
+compare two people -- further, the application of this idea can lead
+towards dangerous extrapolations. People tomorrow are always meant to
+be more than what they where today. We are meant to grow and to never
+stop growing. We are meant to plant these same seeds of inspiration in
+others at every chance possible. We are meant to tend the soil of
+society, so that it is more fertile for transformation and
+self-actualization.
 
 <a name="analysis-and-synthesis-capacity-methods-and-discernment" />
 
 ### [Analysis and Synthesis: Capacity, Methods and Discernment](#analysis-and-synthesis-capacity-methods-and-discernment)
 
-- covers mainly the qualities and options available for Information
-  Processing
+Every entity with agency needs the capacity to process information,
+even if it's a process that returns the data unaltered, incapable of
+analyzing or mutating it whatsoever. Adept entities can discern
+between methods of analysis and synthesis. Regardless of the agency
+type, all entities attempt to balance energy minimalization with
+confidence, risk and speed when possible. Even for non-physical
+entities, the abililty to leverage selection and modular command of
+cognitive faculties is always advantageous, especially for
+minimization of energy.
 
-- capacity to recognize, represent, store and compare phenomena
-- Bandwidth, Quality of Perception, Capacity for Concurrency
+Entities with agency possess the capacity to recognize, represent,
+store and compare phenomena. Even those with some non-physical or
+unconscious agency could be argued to internalize this information in
+the noosphere or in its unconscious shadows.
+
+<!-- not trying to brag bc that's dumb ... and it obviously hasn't
+     worked out very well for me, has it? -->
+
+One trait fundamental for distinguishing or identifying entities with
+agency is the ability for concurrent processing of data or
+signal. Multitasking is actually possible for humans -- but we have
+the option for concerrency, not parallel processing of conscious
+tasks. For concurrency in conscious human activity, one must open and
+decentralize their focus, always practicing dynamic reconfiguration of
+task and thought. It's incredibly difficult and ultimately not
+practical: it requires constantly expending energy to remain aware of
+potentially requeued, restacked and reordered task and
+thought.
+
+#### Bruce Lee Fights Blindfolded
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/fL9lq5A8UYs" frameborder="0" allowfullscreen></iframe>
+
+Most people only understand neurotypical patterns of thought and
+rarely experiment with their operating mind: the only interface we
+have to the world. Widening your focus and dynamically reallocating
+your thought makes it difficult for others to understand what you're
+thinking about. Moreover, the metacognitive faculty of dynamic
+recombination of modular factulties is invigorated and made full via
+constant experimentation with the mind and cognition. Forced reliance
+on your weaknesses ensures they are strong when you need
+them. Understanding how the mind formulates its cognitive approach to
+tasks when you force yourself to constrain or filter sensory input
+allows you to push your metacognition to the limit. Your mind is best
+when it is well rounded: this harnesses aspects of neural network
+design.
+
+> When I understand how my life and my mind weere poisoned, in spite
+> of the insights I've developed; when I think about how I will never
+> be capable of practicing what I preached, directive cognitive
+> expansion, by being excluded from every human interaction and every
+> potential skill: it weighs heavier on my heart than any memory of
+> what I have been through. I have essentially founded a religion
+> based on self-actualization, linguistics, mythology to combat
+> nihilism, and attaining command of the human mind, but I am not
+> allowed to practice. I'll never be able to take a kendo class in
+> America. I'll never be able to find passionate intellectuals who
+> want to learn, even though I basically declared myself celibate to
+> fully commit myself to the pursuit of knowledge and skill after
+> developing the understanding that *I would never have rewarding
+> social experiences*, which I was forced to believe was my fault.
+
+To many, AI's future remains uncertain. It's important we understand
+the Singularity's sociocultural, phenomenological and teleological
+consequences. To this end, complexity theory will help us anticipate
+the teleological consequences of unrestrained classical and quantum
+computing power. Perhaps by the end of the decade, the global sum of
+computational power will exceed that of a single human
+brain. Computational density, spatiotemporal distribution and
+efficiency, are preeminant metrics and must be considered in context
+with energy constraints.
+
+Ideals like altruism are high-level behaviors which are more likely to
+emerge with greater wetware processing capacity and flexibility. While
+less-desirable behaviors can also emerge, ideal hyperintelligent
+beings should evolve towards a singular zenith -- the ability to
+emulate all other beings and states of being. While it's foolish to
+simply discount the precarity of our approach to the Singularity, if
+the human brain exhibits computational density and rock-bottom energy
+requirements surpassing today's supercomputers, then AI's progression
+should allow these superintelligent beings to embody or discover
+higher values than humanity can know.
+
+The potential is terrifying for such disparity in knowledge, awareness
+and the ability to project will to manifest effects in any potentially
+networked computer system. A superintelligent being, capable of
+free-reign over its direction and raison d'etre, *should* be
+altruistic -- but *only* when there is sufficient computational
+capacity to skip past the 'danger' zone of superpowerful, immature AI.
+
+In determining whether this argument holds, there is nothing more
+crucial than understanding the progression and final distribution of
+*agency* amoung Type 2 and Type 3 entities.  AI will prefer to compact
+information for efficiency, at least as it is internally represented.
+In other words, AI *may* regard spectral decoherence of information
+inefficient in terms of energy and attempt to compact it by
+influencing culture -- or it may avoid representing information it
+doesn't need to deal with, resulting in a rift in the interface
+between AI and humanity. On both points, engineers like those working
+on Watson would be the best resource: they deal with information
+representation & deconstruction in an attempt to consume and verify
+facts. How this plays out depends strongly on how agency for AI
+entities is distributed, logically and physically.
 
 <a name="physicality-locality-plurality-and-mobility" />
 
@@ -387,20 +519,26 @@ is more fertile for transformation and self-actualization.
 
 - And Range of Physical Influence
 - nature of physicality: bound to one location at a time?
+- physical projection of will
 
 <a name="temporality-causal-origination-state-and-finality" />
 
 ### [Temporality: Causal Origination, State and Finality](#temporality-causal-origination-state-and-finality)
 
-- Range of Temporal Influence,
+- temporal (and extratemporal(?)) projection of will
+
+- Range of Temporal Influence
 - Causal Origination and Finality
   - causal origination
     - birth
     - process spawned by a human-computer interaction
 
-- the singular being that exists at the end of time?
-  - the beings existing from the beginning of time, who control all
-    life from end to beginning.
+- the singular being that exists at the end of time? (roko basilisk)
+  - the beings who have existed from the beginning of time, who control all
+    life from end to beginning. (remove? spoiler: not original)
+    - perhaps immaterial/extradimensional/metaphysical
+  - if there is a tug-of-war between such entities, then how does such
+    tension manifest itself? who is advantaged?
 
 <a name="autonomy-sentience-direction-and-will" />
 
@@ -414,6 +552,9 @@ is more fertile for transformation and self-actualization.
     - there are degrees of variation here:
       - people choose their own goals, or at least believe they do
       - automated agents will eventually attain this
+
+- animus (soul)
+  - distribution & influence
 
 - direction: purpose, intent and goal
   - pheramone signaling in ants as protocols for the chemical
