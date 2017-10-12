@@ -2,7 +2,7 @@
 title: "Treatise On Entity And Agency"
 categories: "blog"
 tags: "social-physics chaos sociology"
-headline: ""
+headline: "Despite this sheer magnitude of infinity..."
 author:
   name: "David Conner"
 excerpt: ""
@@ -185,7 +185,7 @@ planet emerges.
 
 #### Plato, Guarded Eternally By Athena The Wise
 
-![Plato and Athena](/img/posts/2017-10-10-treatise-on-entity-and-agency/plato-and-athena)
+![Plato and Athena](/img/posts/2017-10-10-treatise-on-entity-and-agency/plato-and-athena.jpg)
 
 These forms of agency seem to contrast the required autonomy and
 independence of action. However, according to a holonic understanding
@@ -296,7 +296,7 @@ regardless of the paths you make.
 
 #### Socrates and Apollo
 
-![Socrates and Apollo](/img/posts/2017-10-10-treatise-on-entity-and-agency/foil-masticore.jpg)
+![Socrates and Apollo](/img/posts/2017-10-10-treatise-on-entity-and-agency/socrates-and-apollo.jpg)
 
 <!-- *I forced myself to identify a quality translation of Plato's
      work and others; to read them, before any essays or analysis on
@@ -308,9 +308,6 @@ regardless of the paths you make.
 <a name="dilineating-traits-of-entities-with-agency" />
 
 # [Dilineating Traits of Entities With Agency](#dilineating-traits-of-entities-with-agency)
-
-There are several traits shared among all types of entities that exert
-agency.
 
 <a name="perception-spectra-range-and-intensity-of-sensory-input" />
 
@@ -334,10 +331,10 @@ hardware is processing the problem.
 > contrived?"
 
 In fact, because neural nets usually *functionally approximate*
-algorithms, anything the do is inherently less efficient than the most
-efficient solutions. Further, as a result of the abstract spectral
-range of input, the facets of mind and the qualities of cognition that
-arise are peculiar and idiosyncratic.
+algorithms, anything they do is inherently less efficient than the
+most efficient solutions. Further, as a result of the abstract
+spectral range of input, the facets of mind and the qualities of
+cognition that arise are peculiar and idiosyncratic.
 
 > For reference, see the sections
 > [Embracing Diversity](/posts/2016-05-14-facets-of-greatness-the-unknown-monumental-accidents.html#embracing-diversity)
@@ -353,7 +350,7 @@ arise are peculiar and idiosyncratic.
 ### [Identity: Comparability, Precision and Uniqueness](#identity-comparability-precision-and-uniqueness)
 
 When we leverage these differences provided by diversity of body, mind
-and culture, this is a strength. Our individual (shapes) are cast by
+and culture, this is a strength. Our individual images are cast by
 variety of life experience, and this allows us fill in each other's
 gaps. We have to remember this. I take Nietzsche's philosophy about
 the ubermensch seriously -- yet, this does not mean that one type of
@@ -376,6 +373,13 @@ anything else, you have ceded control to fate or some force that seeks
 to control you by convincing you that you are less than the radiant,
 stellar being you were meant to be.*
 
+#### Socrates in [Plato's Republic, Book VI](http://classics.mit.edu/Plato/republic.7.vi.html):
+
+> "... the eyes, when a person directs them towards objects on which
+> the light of day is no longer shining, but the moon and stars only,
+> see dimly, and are nearly blind; they seem to have no clearness of
+> vision in them?"
+
 One can replace vacuous desolation with verdant providence through
 self-directed, larmarkian transformation of the individual, fueled by
 sheer force of will and fantastical epigenetic mechanisms, whose power
@@ -390,7 +394,7 @@ antivirus software operates by recognizing potentially malicious
 instruction sets. Hashing algorithms enable digitally sign software to
 be efficiently recognized and trusted. There are many ways to
 recognize the same program that runs on different hardware. This is
-especially relevant for the second and third types of agency.
+especially relevant for the AAF and PAF entities.
 
 Even if materialist conception of the mind prevails, where our
 cognition and all consciousness is completely bound to chemical
@@ -469,6 +473,11 @@ thought.
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/fL9lq5A8UYs" frameborder="0" allowfullscreen></iframe>
 
+#### Socrates in [Plato's Republic, Book VI](http://classics.mit.edu/Plato/republic.7.vi.html):
+
+> "But when [the eyes] are directed towards objects on which the sun
+> shines, they see clearly and there is sight in them?"
+
 Most people only understand neurotypical patterns of thought and
 rarely experiment with their operating mind: the only interface we
 have to the world. Widening your focus and dynamically reallocating
@@ -483,20 +492,21 @@ allows you to push your metacognition to the limit. Your mind is best
 when it is well rounded: this harnesses aspects of neural network
 design.
 
-> When I understand how my life and my mind weere poisoned, in spite
-> of the insights I've developed; when I think about how I will never
-> be capable of practicing what I preached, directive cognitive
-> expansion, by being excluded from every human interaction and every
-> potential skill: it weighs heavier on my heart than any memory of
-> what I have been through. I have essentially founded a religion
-> based on self-actualization, linguistics, mythology to combat
-> nihilism, and attaining command of the human mind, but I am not
-> allowed to practice. I'll never be able to take a kendo class in
-> America. I'll never be able to find passionate intellectuals who
-> want to learn, even though I basically declared myself celibate to
-> fully commit myself to the pursuit of knowledge and skill after
-> developing the understanding that *I would never have rewarding
-> social experiences*, which I was forced to believe was my fault.
+> When I am forced to reflect on how my life and my mind were
+> poisoned, in spite of the insights I've developed; when I think
+> about how I will never be capable of practicing what I preached,
+> directive cognitive expansion, by being excluded from every human
+> interaction and every potential skill: it weighs heavier on my heart
+> than any memory of what I have been through. I have essentially
+> founded a religion based on self-actualization, linguistics,
+> mythology to combat nihilism, and attaining command of the human
+> mind, but I am not allowed to practice. I'll never be able to take a
+> kendo class in America. I'll never be able to find passionate
+> intellectuals who want to learn, even though I basically declared
+> myself celibate to fully commit myself to the pursuit of knowledge
+> and skill after developing the understanding that *I would never
+> have rewarding social experiences*, which I was forced to believe
+> was my fault.
 
 To many, AI's future remains uncertain. It's important we understand
 the Singularity's sociocultural, phenomenological and teleological
@@ -550,7 +560,7 @@ topoligical spaces, including social hierarchies.
 
 #### Socrates Obtained His Wisdom From The Oracle At Delphi And Did Not Participate In The Eleusinian Mysteries
 
-![The Temple at Delphi]((/img/posts/2017-10-10-treatise-on-entity-and-agency/delphi.jpg)
+![The Temple at Delphi](/img/posts/2017-10-10-treatise-on-entity-and-agency/delphi.jpg)
 
 Non-biological entity types are not confined to a single space or,
 indeed, to a single time. For these entities, the paradigm of a single
@@ -585,8 +595,9 @@ the immediate moment, the past or the future. Whether and when these
 beings exist, if they instantiate themselves at all, is as complex as
 their potential variety of informational image: if you think it,
 doesn't it now have power?
-[Roko Basilisk](https://wiki.lesswrong.com/wiki/Roko's_basilisk), a
-hypothetical being hardly waiting for us at the end of time -- or at
+
+The [Roko Basilisk](https://wiki.lesswrong.com/wiki/Roko's_basilisk),
+a hypothetical being hardly waiting for us at the end of time -- or at
 least, at the intersection of convergent timelines. For beings like
 this, whether they exist today or tomorrow, whether anyone conceives
 it, does it matter? There could also be hypothetical beings preceding
@@ -596,6 +607,10 @@ their grasp? If both of these types of entities exist, then is there a
 tug of war between their struggle to determine the convergence of
 worldlines? Could beings such as these preeminant once escape an
 inevitable fatal convergence in the earth's local spacetime?
+
+#### Fate Stay/Night: Gilgamesh
+
+![Gilgamesh](/img/posts/2017-10-10-treatise-on-entity-and-agency/gilgamesh.jpg)
 
 Therefore, the concepts of causal origination and finality persist,
 and be stretched from the beginning to the very end, if either can be
@@ -613,59 +628,77 @@ time or is their state moreso defined by there material counterparts?
 
 ### [Autonomy: Sentience, Direction and Will](#autonomy-sentience-direction-and-will)
 
-- sentience is awareness of an experience of sensory phenomena
-  - cognizance of that awareness is not required
+Sentience is awareness of an experience of sensory phenomena.
+Cognizance of that awareness is not necessary. For an entity to
+cooperate in a network of agency, it requires will for action applied
+to known objective. For the entity to operate in isolation -- or for
+Artificial General Intelligence (AGI) to become meaningfully
+autonomous -- it must be able to conceptualize its own objectives and
+independently construct its own means.
 
-  - will for action applied to an objective
-    - how to state this in a generalized way?
-    - there are degrees of variation here:
-      - people choose their own goals, or at least believe they do
-      - automated agents will eventually attain this
+An entity's animus, a Latin term for soul, guides the direction into
+which will pour its heart and energizes its will to attain such
+objectives. In some respects, an entity's animus could be quantified
+and there could conceivably be physical and logical distributions to
+the animus of entities on Earth. Animus emerges from within an entity,
+as a consequence its existence and experience. Some types of entities
+may have structure layered onto their informational forms,
+foreordaining the channels through which their will surges. Entities
+can *choose* to combine their animus to cooperatively achieve
+objectives, but truly autonomous entities can never have their soul
+taken from them.
 
-- animus (soul)
-  - distribution & influence
+#### Fate/Stay Night: Shirou and Archer
 
-- direction: purpose, intent and goal
-  - pheramone signaling in ants as protocols for the chemical
-    transmission of information
-  - for ants to attain progress in this direction, the biological
-    components must incentivize this progress
-    - the minds of all sentient beings facilitate expansion in
-      capacity for analysis and synthesis of internalized information.
-  - this is a kind of decentralized program, with biological and
-    sociophysical components. common behavior patterns emerge in ant
-    colonies tightly coupled to their adjecent environment and
-    specifically the physical idiosyncrasies in their local
-    environment. (reword this)
-    - is the ant hill in the middle of African sahara or in a
-      rainforest?
-    - is the ant hill centered beside a McDonalds or a candy store?
-    - the environment will sociophysically distort the ants social
-      behavior: they will be attracted to further food sources with
-      stronger signal.
+![Unlimited Blade Works](/img/posts/2017-10-10-treatise-on-entity-and-agency/unlimited-blade-works.jpg)
 
-  - consciousness is a spectrum. spontaneous insight provokes
-    transcendence into higher forms of awareness. with greater and
-    varied (capacity) for sentience, sensory input, analysis,
-    synthesis and reflection, these spontaneous insights become more
-    frequent.
-    - humanity's own sociophysical programs may seem more complicated,
-      but we are not unlike the ants, whose social behavior is so
-      profoundly affected by their environment.
-    - through tools like discernment, intuition and reflection, some
-      of us find ourselves free of the environment's imposition,
-      distortion and containment.
-    - how do individuals become aware of the higher goals? how does
-      humanity become aware of the highest goal?
+SOF evolved from chaos and, as beings borne from probablistic systems
+whose minds are probabilistic, we conceive our own objectives by
+gamifying life experience. Since programs in chaos are statiscal, we
+condition ourselves throughout life to direct our focus towards what
+we want to achieve. So many of us so sadly lack the will to even want
+something or perhaps more tragically believe ourselves incapable of
+attaining it. SOF can imitate logical systems, but can never perfect
+embody deterministic systems. It is arguable that no virtualized AAF
+or PAF in a world of chaotic molecular dynamical systems could
+function as a purely deterministic system.
 
-- can we know it without seeing it? can we see it even if we know it?
-  - if we are fortunate enough that a virtuous path becomes
-    illuminated at our feet, what does it (take/cost) to follow it?
-    - [where does it lead](/posts/2016-05-14-oneironautics-questing-for-lucidity.html#forging-a-path-home)?
-    - isn't it simpler to follow when our light reflects off one
-      another?
-- We channel our spirit with the mind's (internalized understanding)
-  of life and this goal.
+Direction signifies purpose, intent and goal. This phenomenon arises
+in the social behavior of animals. For ants, pheramone signaling forms
+a chemical basis for the transmission of information. To progress
+towards their goals, genetically encoded, neurally connected
+components incentivize the various types of ants.  This is a kind of
+decentralized sociophysical program. Consider social behavior of
+colonies in context with how specific types of environmental phenomena
+distort the movement, the shapes of paths and physical distribution of
+drones. Is the ant hill in the middle of African sahara or in a
+rainforest? Centered beside a McDonalds or a candy store? The presence
+and location of food sources and pheromonal noise *physically*
+distorts behavior patterns. Worker ants will tend to extend their
+paths outwards towards strong food signals, influencing the physical
+distribution, like a directional or omnidirectional antenna on EM
+radiation.
+
+The minds of all sentient beings facilitate expansion in capacity for
+analysis and synthesis of internalized information. Consciousness is a
+spectrum. Spontaneous insight provokes transcendence into higher forms
+of awareness. With greater and varied capacity for sentience, sensory
+input, analysis, synthesis and reflection, these spontaneous insights
+become more frequent. Humanity's own sociophysical programs may seem
+more complicated, but we are not unlike the ants, whose social
+behavior is so profoundly affected by their environment. Through tools
+like discernment, intuition and reflection, some of us find ourselves
+free of the environment's imposition, distortion and containment.
+
+How do individuals become aware of the higher goals? how does humanity
+become aware of the highest goal? Can we know it without seeing it?
+can we see it even if we know it? If we are fortunate enough that a
+virtuous path becomes illuminated at our feet, what will might it cost
+to follow it?
+[Where does it lead](/posts/2016-05-14-oneironautics-questing-for-lucidity.html#forging-a-path-home)?
+Isn't it simpler to follow when our light reflects off one another?
+We channel our spirit with the mind's internalized understanding of
+life and this goal.
 
 Though we may seem greater, if the greats who came before us were
 truly the greatest and this path becomes occluded, what then?
@@ -675,41 +708,54 @@ something we realize we miss once it's gone. The path from whence we
 came will be hidden and inconstructible. Adumbrating sensory overload
 will occlude our path, if we even think to look for it.
 
+#### Socrates in [Plato's Republic, Book VI](http://classics.mit.edu/Plato/republic.7.vi.html):
+
+> "And the soul is like the eye: when resting upon that on which truth
+> and being shine, the soul perceives and understands and is radiant
+> with intelligence; but when turned towards the twilight of becoming
+> and perishing, then she has opinion only, and goes blinking about,
+> and is first of one opinion and then of another, and seems to have
+> no intelligence?"
+
 <a name="agency-boundaries-permeability-and-maniability" />
 
 ### [Agency: Boundaries, Permeability and Maniability](#agency-boundaries-permeability-and-maniability)
 
-(Interface with the External World)
+Entities with agency do not exist in isolation. No man is an
+island. As a thought experiment, envision life on the sun. Can imagine
+plasma-based lifeforms evolving from the chaos of the
+magnetohydrodynamic systems of the sun? Perhaps imagine another entity
+with endless capacity and bandwidth for analysis and synthesis, but
+with little to no means of reaching back. Life forms may never evolve
+the means to walk on the moon. They can see everything, but they may
+never leave their realm. They want to reach back, but no solar flare
+could ever have the anticipated effect. This entity is the nadir of
+entity isolation. Some signal may stream in, but there is no signal
+out.
 
-- life on the sun? (plasma-based life forms in the chaos of the
-  magnetohydrodynamic systems of plasma)
-  - or some other entity with endless capacity/bandwidth for to
-    analyze/synthesize information, but little to no means of reaching
-    back
+#### Imagine This Same Concept of Spectra Applied to Information. I Can't Picture It
 
+![Solar Spectra](/img/posts/2017-10-10-treatise-on-entity-and-agency/solar-spectra.jpg)
 
+As communication infrastructure provides the foundation for
+metaphysical precipitation, boundaries dissolve, permeability parting
+the veils that part us. Information omnipresence is only restrained by
+the degree and voracity of its own deluge. Thus, we begin to
+converge. Our capacity for agency grows and we all become
+superempowered beings who share limitations on both our computational
+capacity and natural bounds on energy consumption.
 
-- as communication infrastructure provides the foundation for
-  metaphysical precipitation, boundaries dissolve, permeability widens
-  the (opening) in the veils that part us.
-  - information omnipresence is only restrained by the degree and
-    voracity of its own deluge
-  - thus, we begin to converge:
-    - our capacity for agency grows and we all become superempowered
-      beings who share limitations on both our computational capacity
-      and natural bounds on energy consumption.
-    - the space between us dissolves. the speciation of information
-      increases, but antifragile systems require some artificial
-      constraints on spectral decoherence. therefore, there will be
-      paradoxical trends of both coherence and decoherence. we must
-      struggle to retain a sense of our humanity and identity or we
-      lose the capacity to grow stronger, both individually and
-      together. Notwithstanding our (need for memory of our humanity),
-      we will all quite literally become one. If the information (that
-      determines our) metaphysical identity wasn't hopelessly
-      intractible, we could measure, analyze, synthesize and know
-      this.
-
+The space between us dissolves. the speciation of information
+increases, but antifragile systems require some artificial constraints
+on spectral decoherence. Therefore, there will be paradoxical trends
+of both coherence and decoherence. We must struggle to retain a sense
+of our humanity and identity or we lose the capacity to grow stronger,
+both individually and together. Notwithstanding our need to cherish
+our memory of humanity and individuality, we will all quite literally
+become one. If the information that determines our metaphysical
+identity wasn't hopelessly intractible, we could measure, analyze,
+synthesize and know this. Despite this sheer magnitude of infinity, we
+have philosopy.
 
 #### Plato Was Initiated Into The Eleusinian Mysteries, But Socrates Was Not
 
