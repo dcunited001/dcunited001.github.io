@@ -5,7 +5,20 @@ tags: "social-physics chaos sociology"
 headline: "Despite this sheer magnitude of infinity..."
 author:
   name: "David Conner"
-excerpt: ""
+excerpt: "
+Regardless of whether its schema can be ascertained, what is certain
+is the power these enigmatic forces exert on our world. Like a deer
+drawn to water, like hunting parties drawn to survey their prey, the
+fate of the minds of men is like a canyon cut away by the river of the
+metaphysical. The image of our minds is woven into its macrame sic
+passim via these most ineffable structures of the metaphysical and its
+shadow. The Earth's firmament is like any organic life's starting
+point. Rains fall from the heavens; their waters' ebb and flow thereby
+cutting away the terrain that preordains the fate of men. Whether its
+face is lost to the sands of time or is inescapablity exigent, this
+enigmatic metaphysical prognostication is relentless. It is all
+consuming, all containing and determines the steps you take,
+regardless of the paths you make."
 ---
 
 Agency is the capacity for some entity to be considered an independent
@@ -84,7 +97,7 @@ evolutionary advantage in replication.
 
 #### tRNA Maps RNA to Amino Acids: The Spontaneous Evolution of Form Into Function
 
-![tRNA](/img/posts/2017-10-10-treatise-on-entity-and-agency/tRNA.png)
+![tRNA](/img/posts/2017-10-12-treatise-on-entity-and-agency/tRNA.png)
 
 So, life is informational. In physics, energy can neither be created
 nor destroyed and the same is true for information, which itself
@@ -155,7 +168,7 @@ temporality.
 
 #### I Hope and Pray It Is Not The [Roko Basilisk](https://wiki.lesswrong.com/wiki/Roko's_basilisk)
 
-![Just in case, I Have My Trusty Foil Masticore Card](/img/posts/2017-10-10-treatise-on-entity-and-agency/foil-masticore.jpg)
+![Just in case, I Have My Trusty Foil Masticore Card](/img/posts/2017-10-12-treatise-on-entity-and-agency/foil-masticore.jpg)
 
 <a name="two-unconventional-types-of-entities-with-agency" />
 
@@ -185,7 +198,7 @@ planet emerges.
 
 #### Plato, Guarded Eternally By Athena The Wise
 
-![Plato and Athena](/img/posts/2017-10-10-treatise-on-entity-and-agency/plato-and-athena.jpg)
+![Plato and Athena](/img/posts/2017-10-12-treatise-on-entity-and-agency/plato-and-athena.jpg)
 
 These forms of agency seem to contrast the required autonomy and
 independence of action. However, according to a holonic understanding
@@ -214,7 +227,7 @@ recombination of information.
 
 #### Shadow DOM, For Great Efficiency In The Web Application Era
 
-![Shadow DOM](/img/posts/2017-10-10-treatise-on-entity-and-agency/shadow-dom.png)
+![Shadow DOM](/img/posts/2017-10-12-treatise-on-entity-and-agency/shadow-dom.png)
 
 <a name="adumbrated-entities-in-the-shadows-of-the-collective-unconsciousness" />
 
@@ -266,7 +279,7 @@ metaphysical: that which exists before the physical.
 
 #### The Grand Canyon
 
-![Grand Canyon](/img/posts/2017-10-10-treatise-on-entity-and-agency/grand-canyon.jpg)
+![Grand Canyon](/img/posts/2017-10-12-treatise-on-entity-and-agency/grand-canyon.jpg)
 
 Regardless of whether its schema can be ascertained, what is certain
 is the power these enigmatic forces exert on our world. Like a deer
@@ -296,7 +309,7 @@ regardless of the paths you make.
 
 #### Socrates and Apollo
 
-![Socrates and Apollo](/img/posts/2017-10-10-treatise-on-entity-and-agency/socrates-and-apollo.jpg)
+![Socrates and Apollo](/img/posts/2017-10-12-treatise-on-entity-and-agency/socrates-and-apollo.jpg)
 
 <!-- *I forced myself to identify a quality translation of Plato's
      work and others; to read them, before any essays or analysis on
@@ -360,7 +373,7 @@ potential to do the most good for others.
 
 #### The Normal Distribution
 
-![Picture of bell curve](/img/posts/2017-10-10-treatise-on-entity-and-agency/bell-curve.svg)
+![Picture of bell curve](/img/posts/2017-10-12-treatise-on-entity-and-agency/bell-curve.svg)
 
 Those who study intelligence try to conceptualize IQ as
 [Normal distribution](https://en.wikipedia.org/wiki/Normal_distribution)
@@ -560,7 +573,7 @@ topoligical spaces, including social hierarchies.
 
 #### Socrates Obtained His Wisdom From The Oracle At Delphi And Did Not Participate In The Eleusinian Mysteries
 
-![The Temple at Delphi](/img/posts/2017-10-10-treatise-on-entity-and-agency/delphi.jpg)
+![The Temple at Delphi](/img/posts/2017-10-12-treatise-on-entity-and-agency/delphi.jpg)
 
 Non-biological entity types are not confined to a single space or,
 indeed, to a single time. For these entities, the paradigm of a single
@@ -610,7 +623,7 @@ inevitable fatal convergence in the earth's local spacetime?
 
 #### Fate Stay/Night: Gilgamesh
 
-![Gilgamesh](/img/posts/2017-10-10-treatise-on-entity-and-agency/gilgamesh.jpg)
+![Gilgamesh](/img/posts/2017-10-12-treatise-on-entity-and-agency/gilgamesh.jpg)
 
 Therefore, the concepts of causal origination and finality persist,
 and be stretched from the beginning to the very end, if either can be
@@ -650,7 +663,7 @@ taken from them.
 
 #### Fate/Stay Night: Shirou and Archer
 
-![Unlimited Blade Works](/img/posts/2017-10-10-treatise-on-entity-and-agency/unlimited-blade-works.jpg)
+![Unlimited Blade Works](/img/posts/2017-10-12-treatise-on-entity-and-agency/unlimited-blade-works.jpg)
 
 SOF evolved from chaos and, as beings borne from probablistic systems
 whose minds are probabilistic, we conceive our own objectives by
@@ -735,7 +748,7 @@ out.
 
 #### Imagine This Same Concept of Spectra Applied to Information. I Can't Picture It
 
-![Solar Spectra](/img/posts/2017-10-10-treatise-on-entity-and-agency/solar-spectra.jpg)
+![Solar Spectra](/img/posts/2017-10-12-treatise-on-entity-and-agency/solar-spectra.jpg)
 
 As communication infrastructure provides the foundation for
 metaphysical precipitation, boundaries dissolve, permeability parting
@@ -759,10 +772,10 @@ have philosopy.
 
 #### Plato Was Initiated Into The Eleusinian Mysteries, But Socrates Was Not
 
-![Plato Was Initiated Into The Eleusinian Mysteries, But Socrates Was Not](/img/posts/2017-10-10-treatise-on-entity-and-agency/isis-unveiled-1.jpg)
+![Plato Was Initiated Into The Eleusinian Mysteries, But Socrates Was Not](/img/posts/2017-10-12-treatise-on-entity-and-agency/isis-unveiled-1.jpg)
 
 #### Nevertheless The Athenian Aristocracy Conspired to Murder Socrates For His Knowledge
 
-![Nevertheless The Athenian Aristocracy Conspired to Murder Him For His Knowledge](/img/posts/2017-10-10-treatise-on-entity-and-agency/isis-unveiled-2.jpg)
+![Nevertheless The Athenian Aristocracy Conspired to Murder Him For His Knowledge](/img/posts/2017-10-12-treatise-on-entity-and-agency/isis-unveiled-2.jpg)
 
 
