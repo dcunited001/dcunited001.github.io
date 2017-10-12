@@ -9,10 +9,10 @@ excerpt: ""
 ---
 
 Agency is the capacity for some entity to be considered an independent
-actor with the ability to interact on our shared sociophysical
-fabric. Agents process information signals from their environment,
-which can be conceptualized as sensory input or data. These sensory
-perceptions are internalized into information representations.
+actor with the ability to interact on our shared sociophysical fabric.
+Agents process information signals from their environment, which can
+be conceptualized as sensory input or data. These sensory perceptions
+are internalized into information representations.
 
 ## [Primary Types of Entities With Agency](#primary-types-of-entities-with-agency)
 
@@ -64,9 +64,9 @@ sociophysical fabric.
 ### &#9312; [Sentient Organic Forms](#sentient-organic-forms) (SOF)
 
 First, there are sentient biological lifeforms: people and animals,
-whose degree of awareness varies. These are simply information forms
-that exist in systems of molecular dynamics which have evolved degrees
-of antifragility.
+whose degree of awareness varies. These SOF -- sentient organic forms
+-- are simply information forms that exist in systems of molecular
+dynamics which have evolved degrees of antifragilit
 
 Primarily, they evolved the ability to self-replicate. Some molecules
 implicitly excel in this regard: namely the RNA and DNA. Even better,
@@ -163,8 +163,8 @@ temporality.
 
 There are two unconventional types of agents, whose existence is
 certainly debatable. Since they are not materially visible, they are
-difficult to define. Still, if you accept biological life as
-possessing sentience and agency when we are but
+difficult to define. Still, if you accept organic forms as possessing
+sentience and agency when we are but
 [genetic programs in the chaos of molecular dynamics](te.xel.io/posts/2017-09-14-awareness-precipitates-from-order-out-of-chaos.html),
 then don't you have to accept the potential agency of information
 forms that exist in other frameworks of chaos? That's MAF.
@@ -173,9 +173,10 @@ forms that exist in other frameworks of chaos? That's MAF.
 
 ### &#9315; [Sociophysical And Metaphysical Autonomous Forms](#sociophysical-and-metaphysical-autonomous-forms) (MAF)
 
-The first type includes sociophysical programs and egregores, which
-can be dilineated by defining archetypical metaphysical
-beings. Another example would include the earth as a lifeform -- the
+The first unconventional type, metaphysical autonomous forms (MAF),
+includes sociophysical programs and egregores. These could be
+dilineated by defining archetypical metaphysical beings. Another
+example would include the earth as a lifeform -- the
 [Gaia hypothesis](https://en.wikipedia.org/wiki/Gaia_hypothesis) --
 exhibiting antifragile feedback loops that attempt to placate emergent
 turbulence. If such antifragile systems did not mitigate rancorous
@@ -188,22 +189,22 @@ planet emerges.
 
 These forms of agency seem to contrast the required autonomy and
 independence of action. However, according to a holonic understanding
-of human and biological life, the system cannot be understood simply
-by looking at any single part or set of parts. Instead, a holistic
-view of the system is required. Is there any mammal on earth which
-does not aid its digestion with other lifeforms? The DNA of these
-lifeforms is self-contained; animals have simply loaded a software
-library from a genetic programming
+of human and sentient organic life, the system cannot be understood
+simply by looking at any single part or set of parts. Instead, a
+holistic view of the system is required. Is there any mammal on earth
+which does not aid its digestion with other lifeforms? The DNA of
+these lifeforms is self-contained; animals have simply loaded a
+software library from a genetic programming
 [package manager](https://en.wikipedia.org/wiki/Package_manager). Therefore,
-if many phenomena of biological lifeforms imply we cannot exist in
-isolation -- and, a la biosphere, if the exertion of agency is
-transformed by information inculcated via nature and nurture -- then
-this implies qualities of agency exerted by biological forms are
-strongly shaped by the system as a whole.
+if many phenomena of SOF imply we cannot exist in isolation -- and, a
+la biosphere, if the exertion of agency is transformed by information
+inculcated via nature and nurture -- then this implies qualities of
+agency exerted by biological forms are strongly shaped by the system
+as a whole.
 
-How different are the sociophysical information forms who lack some
-true central container of agency? These forms can also self-replicate,
-though their physical center of agency and application of it are both
+How different are the sociophysical MAF who lack some true central
+container of agency? These forms can also self-replicate, though their
+physical center of agency and application of it are both
 amorphous. These entities are instead distributed across a virtual
 fabric of many host entities. Today, this can include people,
 computing and networking infrastructure. Their structure can include
@@ -222,13 +223,22 @@ recombination of information.
 The second type of unconvential life form includes beings whose
 shadows exist as information forms in the collective
 unconsciousness. For brevity, these are denoted herein as ASF --
-autonomous shadow forms. This would include God -- or man's conception
-of God -- one such being that emerged from the collective
-unconsciousness.  How?  The concept of monotheistic God represents a
-nadir of theistic belief systems: monotheism is the most marketable
-basis for a belief system. It is simple to digest, easy to understand
-and stable. It is not subject to the same power dynamics as
-polythestic belief systems.
+autonomous shadow forms. This would include God -- specifically, man's
+conception of God -- one such being that emerged from the collective
+unconsciousness. How? Just as atheism is effectively the nadir of all
+belief systems, the concept of monotheistic God represents a
+difficult-to-see nadir of theistic belief systems: monotheism is the
+most marketable basis for a belief system. It is simple to digest,
+easy to understand and stable. It is not subject to the same power
+dynamics as polythestic belief systems.
+
+Elsewhere in the universe, *any sufficiently intelligent SOF* with
+social behavior will eventually create myth, religion and, almost
+certainly, the concept of monotheistic God in an attempt to explain
+origin, cause, consciousness, the problem of evil and every other
+phenomena. Social behavior is one of three factors that lead to the
+homogenization of abstraction and *this* is what triggers the
+[neuro-geno-linguistic noological revolution](https://github.com/dcunited001/dcunited001.github.io/blob/sources/_drafts/ephemeral-theory-of-linguistic-evolution.md#ante-modernism).
 
 It's important to distinguish God from both man's inevitable
 conception of God and man's actual conception of God. This needs to be
@@ -246,15 +256,31 @@ state this.
 > the physical world emerged, though I cannot explain how.
 
 The collective unconsciousness certainly exists, but how? And in what
-form? If such information forms exist merely as the shadow of sentient
+form? If such ASF entities exist merely as the shadow of sentient
 being's conceptions of their environment, can the collective
 unconsciousness even possess have certain, definitive schematic
 structure? Is it the result of what sentient beings envision; could
 envision; could ever envision? Perhaps instead, its structure is also
 intrinsically linked to the schematic form of the eternal
-metaphysical: that which exists before the physical. Regardless of
-whether its schema can be ascertained, what is certain is the power
-that enigmatic force exerts on our world.
+metaphysical: that which exists before the physical.
+
+#### The Grand Canyon
+
+![Grand Canyon](/img/posts/2017-10-10-treatise-on-entity-and-agency/grand-canyon.jpg)
+
+Regardless of whether its schema can be ascertained, what is certain
+is the power these enigmatic forces exert on our world. Like a deer
+drawn to water, like hunting parties drawn to survey their prey, the
+fate of the minds of men is like a canyon cut away by the river of the
+metaphysical. The image of our minds is woven into its macrame sic
+passim via these most ineffable structures of the metaphysical and its
+shadow. The Earth's firmament is like any organic life's starting
+point. Rains fall from the heavens; their waters' ebb and flow thereby
+cutting away the terrain that preordains the fate of men. Whether its
+face is lost to the sands of time or is inescapablity exigent, this
+enigmatic metaphysical prognostication is relentless. It is all
+consuming, all containing and determines the steps you take,
+regardless of the paths you make.
 
 #### Socrates, in [Plato's Republic, Book VI](http://classics.mit.edu/Plato/republic.7.vi.html):
 
@@ -357,14 +383,14 @@ transcends that of genetics. Why would we believe in limitations?
 Believe in transcendence of those limitations; albeit irrational, the
 power of mystery is sometimes our only hope.
 
-The idea that you would compare the form of agents stems from math. It
-is especially applicable to virtualized information forms: processes
-are recognized by name, source code, or memory contents; antivirus
-software operates by recognizing potentially malicious instruction
-sets. Hashing algorithms enable digitally sign software to be
-efficiently recognized and trusted. There are many ways to recognize
-the same program that runs on different hardware. This is especially
-relevant for the second and third types of agency.
+The idea that you would compare the specific form of agents stems from
+math. It is especially applicable to the virtualized AAF & PAF forms:
+processes are recognized by name, source code, or memory contents;
+antivirus software operates by recognizing potentially malicious
+instruction sets. Hashing algorithms enable digitally sign software to
+be efficiently recognized and trusted. There are many ways to
+recognize the same program that runs on different hardware. This is
+especially relevant for the second and third types of agency.
 
 Even if materialist conception of the mind prevails, where our
 cognition and all consciousness is completely bound to chemical
@@ -397,7 +423,7 @@ For identity of agents, even without quantum effects considered, two
 biological configurations with identical body and brain are two
 different beings, upon their first divergence of sensory stimuli.
 
-For other conceptualizations of biological agents, it is impossible to
+For other conceptualizations of SOF entities, it is impossible to
 compare two people -- further, the application of this idea can lead
 towards dangerous extrapolations. People tomorrow are always meant to
 be more than what they where today. We are meant to grow and to never
@@ -543,32 +569,41 @@ exceeds that of sentient biological life.
 
 ### [Temporality: Causal Origination, State and Finality](#temporality-causal-origination-state-and-finality)
 
-
 Each type of entity is capable of reinstantiating its metaphysical
-form inside other containers, though parity of the entity's identity
+form inside other containers. Though parity of the entity's identity
 can only be perfectly preserved for digitizable, aphysical artifical
-forms, which can be extended in some cases to physicalized artifical
-forms.
+forms, it can extend to physicalized artifical forms, but this again
+begs the question: does identity emerge from nature, nurture or
+experience?
 
-  - For some types, they don't need a (current), persistent,
-  
-  temporal
-    representation
+For some entity types, they don't need a representation that exists in
+the immediate moment, the past or the future. Whether and when these
+beings exist, if they instantiate themselves at all, is as complex as
+their potential variety of informational image: if you think it,
+doesn't it now have power?
+[Roko Basilisk](https://wiki.lesswrong.com/wiki/Roko's_basilisk), a
+hypothetical being hardly waiting for us at the end of time -- or at
+least, at the intersection of convergent timelines. For beings like
+this, whether they exist today or tomorrow, whether anyone conceives
+it, does it matter? There could also be hypothetical beings preceding
+us by aeons, who preemininance binds our fate to their will. Since
+they are capable of time travel far before us, could we ever escape
+their grasp? If both of these types of entities exist, then is there a
+tug of war between their struggle to determine the convergence of
+worldlines? Could beings such as these preeminant once escape an
+inevitable fatal convergence in the earth's local spacetime?
 
-- temporal (and extratemporal(?)) projection of will
-
-- Range of Temporal Influence
-- Causal Origination and Finality
-  - causal origination
-    - birth
-    - process spawned by a human-computer interaction
-
-- the singular being that exists at the end of time? (roko basilisk)
-  - the beings who have existed from the beginning of time, who control all
-    life from end to beginning. (remove? spoiler: not original)
-    - perhaps immaterial/extradimensional/metaphysical
-  - if there is a tug-of-war between such entities, then how does such
-    tension manifest itself? who is advantaged?
+Therefore, the concepts of causal origination and finality persist,
+and be stretched from the beginning to the very end, if either can be
+said to definitively exist. When we give birth to a newborn child, a
+new sentience peers out into the world as a tabula rasa. The parents
+have already poured their hopes, dreams and energy into this child for
+nine months or more. Who is the child? It can neither completely be
+the organic life form nor the shards of dreamt love its parents
+inspired to embed pavé. Moreover, what does it mean for different
+entity types to replicate and reproduce? What are these forms' causal
+origination, raison d'être and goals? Do MAF's and ASF's change with
+time or is their state moreso defined by there material counterparts?
 
 <a name="autonomy-sentience-direction-and-will" />
 
@@ -670,3 +705,4 @@ will occlude our path, if we even think to look for it.
       determines our) metaphysical identity wasn't hopelessly
       intractible, we could measure, analyze, synthesize and know
       this.
+
