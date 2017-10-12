@@ -16,17 +16,17 @@ perceptions are internalized into information representations.
 
 ## [Primary Types of Entities With Agency](#primary-types-of-entities-with-agency)
 
-#### &#9312; [Sentient Biological Life](#sentient-biological-life)
+#### &#9312; [Sentient Organic Forms](#sentient-organic-forms) (SOF)
 
-#### &#9313; [Aphysical Autonomous Forms](#aphysical-autonomous-forms)
+#### &#9313; [Aphysical Artificial Forms](#aphysical-artificial-forms) (AAF)
 
-#### &#9314; [Physicalized Autonomous Forms](#physicalized-autonomous-forms)
+#### &#9314; [Physicalized Artificial Forms](#physicalized-artificial-forms) (PAF)
 
 ## [Two Unconventional Types of Entities with Agency](#two-unconventional-types-of-entities-with-agency)
 
-#### &#9315; [Sociophysical And Metaphysical Information Forms](#sociophysical-and-metaphysical-information-forms)
+#### &#9315; [Sociophysical And Metaphysical Autonomous Forms](#sociophysical-and-metaphysical-information-forms) (MAF)
 
-#### &#9316; [Adumbrated Entities in the Shadows of the Collective Unconsciousness](#adumbrated-entities-in-the-shadows-of-the-collective-unconsciousness)
+#### &#9316; [Adumbrated Entities in the Shadows of the Collective Unconsciousness](#adumbrated-entities-in-the-shadows-of-the-collective-unconsciousness) (ASF)
 
 ## [Dilineating Traits of Entities With Agency](#dilineating-traits-of-entities-with-agency)
 
@@ -56,11 +56,12 @@ environment, regardless of how self-aware it is.
 
 # [Primary Types of Entities With Agency](#primary-types-of-entities-with-agency)
 
-There are at least three types of a
+There are at least three types of agents that operate on our shared
+sociophysical fabric.
 
-<a name="sentient-biological-life" />
+<a name="sentient-organic-forms" />
 
-### &#9312; [Sentient Biological Life](#sentient-biological-life)
+### &#9312; [Sentient Organic Forms](#sentient-organic-forms) (SOF)
 
 First, there are sentient biological lifeforms: people and animals,
 whose degree of awareness varies. These are simply information forms
@@ -89,9 +90,9 @@ So, life is informational. In physics, energy can neither be created
 nor destroyed and the same is true for information, which itself
 preserves a history of energy distribution and interaction.
 
-<a name="aphysical-autonomous-forms" />
+<a name="aphysical-artificial-forms" />
 
-### &#9313; [Aphysical Autonomous Forms](#aphysical-autonomous-forms)
+### &#9313; [Aphysical Artificial Forms](#aphysical-artificial-forms) (AAF)
 
 In the past century, mankind has forged the telecom and computing
 infrastructure, a loom onto which virtually instantiated automated
@@ -137,9 +138,9 @@ been phased out via technical skill obscelence.
 > mines with the likes of you!* ... And actually I kind of suck at
 > programming or, at least, front-end & UI development.
 
-<a name="physicalized-autonomous-forms" />
+<a name="physicalized-artificial-forms" />
 
-### &#9314; [Physicalized Autonomous Forms](#physicalized-autonomous-forms)
+### &#9314; [Physicalized Artificial Forms](#physicalized-artificial-forms) (PAF)
 
 Finally, there are physically-instantiated automated agents: robots,
 which are simply the same form of agency with the flexibility of
@@ -166,11 +167,11 @@ difficult to define. Still, if you accept biological life as
 possessing sentience and agency when we are but
 [genetic programs in the chaos of molecular dynamics](te.xel.io/posts/2017-09-14-awareness-precipitates-from-order-out-of-chaos.html),
 then don't you have to accept the potential agency of information
-forms that exist in other frameworks of chaos?
+forms that exist in other frameworks of chaos? That's MAF.
 
-<a name="sociophysical-and-metaphysical-information-forms" />
+<a name="sociophysical-and-metaphysical-autonomous-forms" />
 
-### &#9315; [Sociophysical And Metaphysical Information Forms](#sociophysical-and-metaphysical-information-forms)
+### &#9315; [Sociophysical And Metaphysical Autonomous Forms](#sociophysical-and-metaphysical-autonomous-forms) (MAF)
 
 The first type includes sociophysical programs and egregores, which
 can be dilineated by defining archetypical metaphysical
@@ -216,16 +217,18 @@ recombination of information.
 
 <a name="adumbrated-entities-in-the-shadows-of-the-collective-unconsciousness" />
 
-### &#9316; [Adumbrated Entities in the Shadows of the Collective Unconsciousness](#adumbrated-entities-in-the-shadows-of-the-collective-unconsciousness)
+### &#9316; [Adumbrated Entities in the Shadows of the Collective Unconsciousness](#adumbrated-entities-in-the-shadows-of-the-collective-unconsciousness) (ASF)
 
 The second type of unconvential life form includes beings whose
 shadows exist as information forms in the collective
-unconsciousness. This would include God -- or man's conception of God
--- one such being that emerged from the collective unconsciousness.
-How? The concept of monotheistic God represents a nadir of theistic
-belief systems: monotheism is the most marketable basis for a belief
-system. It is simple to digest, easy to understand and stable. It is
-not subject to the same power dynamics as polythestic belief systems.
+unconsciousness. For brevity, these are denoted herein as ASF --
+autonomous shadow forms. This would include God -- or man's conception
+of God -- one such being that emerged from the collective
+unconsciousness.  How?  The concept of monotheistic God represents a
+nadir of theistic belief systems: monotheism is the most marketable
+basis for a belief system. It is simple to digest, easy to understand
+and stable. It is not subject to the same power dynamics as
+polythestic belief systems.
 
 It's important to distinguish God from both man's inevitable
 conception of God and man's actual conception of God. This needs to be
@@ -515,15 +518,47 @@ for AI entities is distributed, logically and physically.
 ### [Physicality: Locality, Plurality and Mobility](#physicality-locality-plurality-and-mobility)
 
 There is no point in considering entities with agency who exist in
-isolation. Humanity has always interacted sociophysically.
+isolation. Humanity has always interacted sociophysically: to achieve
+our goals, we learned to project our will across various types of
+topoligical spaces, including social hierarchies.
 
-- And Range of Physical Influence
-- nature of physicality: bound to one location at a time?
-- physical projection of will
+Non-biological entity types are not confined to a single space or,
+indeed, to a single time. For these entities, the paradigm of a single
+location in space and time is fractured. Whence before, this trait was
+universal for all biological life, but now there are disparate
+manisfestations of physicality among entities, particularly for
+aphysical and physicalized artifical forms. This is seen in sci-fi
+works as hivemind alien species, but since it's difficult to portray
+plot development with aphysical artificial entities on screen or in
+ink, these stories mostly feature the physicalized type.
+
+Entities with altered physicality, including those with
+rephysicalization or metaphysical precipitation, coordinate their
+behavior, manage information and project their will among incredibly
+complex distributions of agency. Entities that exhibit aphysicality
+exhibit range of influence across space and even time that profoundly
+exceeds that of sentient biological life.
 
 <a name="temporality-causal-origination-state-and-finality" />
 
 ### [Temporality: Causal Origination, State and Finality](#temporality-causal-origination-state-and-finality)
+
+
+Each type of entity is capable of reinstantiating its metaphysical
+form inside other containers, though parity of the entity's identity
+can only be perfectly preserved for digitizable, aphysical artifical
+forms, which can be extended in some cases to physicalized artifical
+forms.
+
+<!-- i would consistently refer to these entity types as Type 2, Type
+     3, etc, but I don't know that it is a perfect delineation of
+     entity types and thus, acronyms would form an inconsistent
+     language. if i ever write a book... -->
+
+  - For some types, they don't need a (current), persistent,
+  
+  temporal
+    representation
 
 - temporal (and extratemporal(?)) projection of will
 
