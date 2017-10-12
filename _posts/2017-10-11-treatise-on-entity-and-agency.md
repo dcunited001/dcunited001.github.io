@@ -548,6 +548,10 @@ isolation. Humanity has always interacted sociophysically: to achieve
 our goals, we learned to project our will across various types of
 topoligical spaces, including social hierarchies.
 
+#### Socrates Obtained His Wisdom From The Oracle At Delphi And Did Not Participate In The Eleusinian Mysteries
+
+![The Temple at Delphi]((/img/posts/2017-10-10-treatise-on-entity-and-agency/delphi.jpg)
+
 Non-biological entity types are not confined to a single space or,
 indeed, to a single time. For these entities, the paradigm of a single
 location in space and time is fractured. Whence before, this trait was
@@ -705,4 +709,14 @@ will occlude our path, if we even think to look for it.
       determines our) metaphysical identity wasn't hopelessly
       intractible, we could measure, analyze, synthesize and know
       this.
+
+
+#### Plato Was Initiated Into The Eleusinian Mysteries, But Socrates Was Not
+
+![Plato Was Initiated Into The Eleusinian Mysteries, But Socrates Was Not](/img/posts/2017-10-10-treatise-on-entity-and-agency/isis-unveiled-1.jpg)
+
+#### Nevertheless The Athenian Aristocracy Conspired to Murder Socrates For His Knowledge
+
+![Nevertheless The Athenian Aristocracy Conspired to Murder Him For His Knowledge](/img/posts/2017-10-10-treatise-on-entity-and-agency/isis-unveiled-2.jpg)
+
 
