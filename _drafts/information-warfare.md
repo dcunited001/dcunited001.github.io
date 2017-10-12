@@ -76,13 +76,11 @@ headline: "Informational Territory > Sociohierarchical Territory > Economic Terr
       how to strategize over the rollout
     - wherever this is happening, people around the world will face
       greater economic stresses directly correlated to automation
-
-- 
-
+  - when/as people start realizing this, they will continue to tear
+    one another apart. this will drive narcissistic & sociopathic
+    behavior in the workplace, in communities, etc.
 
 ### Why Should We Be Worried?
-
-
 
 - connect to the Communist Manifesto and describe how
   Bosheviks/Leninists operated to accelerate their communist
@@ -91,7 +89,7 @@ headline: "Informational Territory > Sociohierarchical Territory > Economic Terr
     bougeousie could respond by simply improving the status of the
     people, while remaining in power
   - so, if one force or another gains too much influence in key
-    departments or institutions, their 
+    departments or institutions, their
 
 - all sociopolitical games are played like othello
   - the best moves have multiplicative or exponential effects
@@ -234,17 +232,33 @@ headline: "Informational Territory > Sociohierarchical Territory > Economic Terr
   - this is where demoralization starts.
 
 - other non-physical spaces, reimagined as "territory"
-  - semiotic
-  - linguistic
-  - intellectual property
-  - newsfeeds, social media accounts/pages, etc
-  - networking infrastructure
+
+#### semiotic/linguistic
+
+#### intellectual property
+
+- copyright/trademark
+- patent
+
+#### Telecom/networking infrastructure
+
+- this has more geographic trends
+
+#### Internet Content & Distribution
+
+- SEO, URL's
+
+- newsfeeds, social media accounts/pages, etc
+  - newsfeed algorithms have channeled/coralled discussion into
+    facebook groups
+    - these
+
 
 #### Spectral De/coherence
 
 - how is this similar to the widespread sociohierarchical structural
   changes?
-  - at the same time that 
+  - at the same time that
 
 
 ### Sociohierarchical Territory

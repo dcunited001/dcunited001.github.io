@@ -3,6 +3,20 @@ title: hypnosis, nlp, and kantian category collapse
 ---
 
 
+
+- there's already a ton of study on meditative states of mind, but i
+  believe this provides a neuroanatomical basis for more mystical or
+  spirital concepts like prana, kundalini and "energy" flows
+  - but it seems that controlling/channeling the flow of spinal,
+    cranial and cognitive neural impulses can cause altered flows of
+    information/energy within the nervous system that would otherwise
+    be rare.
+  - e.g. diminished flow via efferent nerves may cause the brain/mind
+    to tune into input from afferent nerves.
+  - e.g. diminished flow in the DMN and brain regions active in
+    cognitive may trigger decentralized crosstalk b/w neurons
+
+
 # Hypnosis, NLP and Conceptual Designation
 
 During the mind's infancy, there is a state of tabula rasa, but

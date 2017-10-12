@@ -23,8 +23,44 @@ me to get this stuff out there.  Occasionally, i feel like writing
 could perhaps be more important than anything else I would do.
 Probably not though.
 
-> This is not a *I'm sooo smart* blog.  I promise.  I hate doing that,
-> I really do.  I also don't like prefacing an article with this.
+## [Would A Spider Notice An Apple Dropping From A Tree?](#would-a-spider-notice-an-apple-dropping-from-a-tree)
+
+#### &#x03D5; [Instinct and Insight](#instinct-and-insight)
+
+#### &#x03D5; [The Origin of Instinct](#the-origin-of-instinct)
+
+#### &#x03D5; [Of Mice and Massively Parallel Pattern Recognition](#of-mice-and-massively-parallel-pattern-recognition)
+
+#### &#x03D5; [Phenomenization](#phenomenization)
+
+#### &#x03D5; [Spidey Senses](#spidey-senses)
+
+#### &#x03D5; [Cross Entropy](#cross-entropy)
+
+#### &#x03D5; [Visual Processing, Au Naturale](#visual-processing-au-naturale)
+
+#### &#x03D5; [Quantum Clarification](#quantum-clarification)
+
+#### &#x03D5; [Spidey Time](#spidey-time)
+
+#### &#x03D5; [Do Spiders Dream of Electric Sheep?](#do-spiders-dream-of-electric-sheep)
+
+#### &#x03D5; [Ad Nihilum](#ad-nihilum)
+
+> "This is not a *I'm sooo smart* blog.  I promise.  I hate doing
+> that, I really do.  I also don't like prefacing an article with
+> this." - Me, in 2015, after being subjected to a half decade of
+> psychological torture.
+
+<!-- ok, no i'm not actually that smart... i should definitely not be
+     so full of myself, but i'm obviously compensating... for my life
+     experience. this is and always was a huge mistake. stubborn
+     rejection of my life experience in many ways was the only thing
+     keeping me going. -->
+
+<a name="would-a-spider-notice-an-apple-dropping-from-a-tree" />
+
+# [Would A Spider Notice An Apple Dropping From A Tree?](#would-a-spider-notice-an-apple-dropping-from-a-tree)
 
 So, a few months ago, I was messing with a spider for a few minutes.
 Pretty simple, right?  I just kinda poked around it for a few minutes,
@@ -51,7 +87,9 @@ computer science.
 So, even with the simplest things -- like a fucking spider on the wall
 -- the wheels keep turning.
 
-### Instinct and Insight
+<a name="instinct-and-insight" />
+
+### [Instinct and Insight](#instinct-and-insight)
 
 What I found intriguing about this is a delimma biologists and
 philosophers have spent much effort observing and debating.  For me,
@@ -76,7 +114,9 @@ initial circuitry and given a variety of similar input experiences,
 the remarkably small spider's brain will inevitably evolve certain key
 functionalities -- or it will not survive.
 
-### The Origin of Instinct
+<a name="the-origin-of-instinct" />
+
+### [The Origin of Instinct](#the-origin-of-instinct)
 
 However, we are still left to ponder the origin of instinct, for which
 biologists have expended centuries of effort.  What features of a
@@ -97,7 +137,9 @@ insights.  If you were to alter the input -- filtering it in some way,
 adding a new sense or removing one -- the networks and circuits would
 change significantly.
 
-### Of Mice and Massively Paralell Pattern Recognition
+<a name="of-mice-and-massively-parallel-pattern-recognition" />
+
+### [Of Mice and Massively Parallel Pattern Recognition](#of-mice-and-massively-parallel-pattern-recognition)
 
 It never ceases to amaze me, knowing what I do about our own
 capabilities for artificial intelligence.  Fifty petaflops in 2015
@@ -111,7 +153,9 @@ with NO capacity for communication! * ** Critically, a spider also
 needs to be able to establish types of threats with a limited number
 of experiences -- again, one experience can be fatal.
 
-### Phenomenization
+<a name="phenomenization" />
+
+### [Phenomenization](#phenomenization)
 
 So, because it can recognize types of threats and other types of input
 experiences as necessary for its survival, then it's brain must be
@@ -143,7 +187,9 @@ input and *subconsciously* abstracting them into phenomena.  It must
 do so with virtually zero a priori knowledge and absolutely zero
 high-level communication.
 
-### Spidey Senses
+<a name="spidey-senses" />
+
+### [Spidey Senses](#spidey-senses)
 
 Spiders have eight eyes, which means their depth perception, object
 recognition and perception of motion patterns will *all* be
@@ -183,7 +229,9 @@ IMO.  Keep in mind that I am not citing papers here, as much as I
 respect the hard work and dedication that it takes for professional
 academics to do so.
 
-### Cross Entropy
+<a name="cross-entropy" />
+
+### [Cross Entropy](#cross-entropy)
 
 #### And Other Statistics Concepts I wish I Understood
 
@@ -212,15 +260,19 @@ processing.  These are the neurons the would differ the most.  The
 innermost neurons may change slightly, yet they would embody mostly
 the same information processing structure.  That's my hypothesis.
 
-### Visual Processing, Au Naturale
+<a name="visual-processing-au-naturale" />
+
+### [Visual Processing, Au Naturale](#visual-processing-au-naturale)
 
 As for a spider's visual processing, there's neural input into the
 visual processing center for each eye.  Then these neural inputs from
 each eye would pass data into subsequent neurons.  For example:
 
-- Constrast maps for each image
-- Disparity maps between image
-- Color differentiation maps, if the ocular hardware is capable of color
+#### &#x2605; Constrast maps for each image
+
+#### &#x2605; Disparity maps between image
+
+#### &#x2605; Color differentiation maps, if the ocular hardware is capable of color
 
 These additional layers comprise the initial aggregate information
 constructed from visual input.  And then, aggregate information is
@@ -232,13 +284,19 @@ composite images.
 These layers encode progressively higher order information as they
 begin to correlate input to learned phenomena:
 
-- Static objects
-- Static object types
-- Objects in motion
-- Motion patterns of currently observed objects
-- Patterns of motion of known object-types
+#### &#x2605; Static objects
 
-### Quantum Clarification
+#### &#x2605; Static object types
+
+#### &#x2605; Objects in motion
+
+#### &#x2605; Motion patterns of currently observed objects
+
+#### &#x2605; Patterns of motion of known object-types
+
+<a name="quantum-clarification" />
+
+### [Quantum Clarification](#quantum-clarification)
 
 Basically, these neural networks will repeatedly *differentiate* and
 *statistically operate upon* both the input data and aggregate data.
@@ -303,7 +361,9 @@ the visual frame of reference.  However, though visual processing and
 object recognition are isolated to some degree and they are
 independent -- they must also be interdependent.
 
-### Spidey Time
+<a name="spidey-time" />
+
+### [Spidey Time](#spidey-time)
 
 At some point, there is a temporal component induced into the visual
 processing system. Adding the temporal dimension significantly
@@ -380,7 +440,9 @@ idea that instinct is specific knowledge encoded during gestation. So,
 IMO, instinct is a mechanism that enables some experiences to be
 categorized more quickly and to be imprinted more strongly.
 
-### Do Spiders Dream of Electric Sheep?
+<a name="do-spiders-dream-of-electric-sheep" />
+
+### [Do Spiders Dream of Electric Sheep?](#do-spiders-dream-of-electric-sheep)
 
 None of what I'm talking about is consciously processed, of course.  I
 do believe that all animals share a capacity for consciousness.  I'm
@@ -420,7 +482,9 @@ enough to avoid a fatal mistake **before reproduction**. These neural
 networks must be capable of combinating and recombinating all the
 input data.
 
-### Ad Nihilum
+<a name="ad-nihilum" />
+
+### [Ad Nihilum](#ad-nihilum)
 
 Anyway, as you can clearly see, a limited amount of information will
 often set my mind off on a chain reaction of inferences.  It's pretty
@@ -440,8 +504,10 @@ I'm able to make such insights.  However, if everyone took this path,
 our systems of knowledge propagation would crumble.  And my own blind
 spots are glaring.  It's often pretty embarrassing what I don't know.
 
-> For years, I thought white eggs were white because they went through
-> a bleaching process ... LMAO ok that's embarrassing.
+> "For years, I thought white eggs were white because they went
+> through a bleaching process ... LMAO ok that's embarrassing." - Me,
+> in 2015, after several years of living in a society where it was
+> apparently illegal to tell me to tie my shoes.
 
 If I went to college, I would have these answers.  The system of
 information processing and structure of knowledge in my mind would
