@@ -13,6 +13,20 @@ my skull from his grasp and, as I did, the drill bit scraped by, tearing
 through the skin a bit."
 ---
 
+#### &#x2605; [Recurring Themes](#recurring-themes)
+
+#### &#x2605; [Spiders!](#spiders)
+
+#### &#x2605; [Rolly Chair Jousting to the Death](#rolly-chair-jousting-to-the-death)
+
+#### &#x2605; [Rolly Chair Jousting to the Death](#rolly-chair-jousting-to-the-death)
+
+#### &#x2605; [My Narrow Escape ...](#my-narrow-escape)
+
+#### &#x2605; [Forging a Path Home](#forging-a-path-home)
+
+#### &#x2605; [A Return to Oneironautics Soon](#a-return-to-oneironautics-soon)
+
 I often have these dreams where it feels as if my subconscious mind is
 reaching out to my conscious mind through a metaphor overlayed in a
 dream.  One example is a dream where my house and room was filling up
@@ -22,7 +36,9 @@ useless junk that would be damaging unless cleared out.  At the time,
 I was experiencing a wide variety of symptoms, leading me to suspect a
 progressive neurological disorder.
 
-### Recurring Themes
+<a name="recurring-themes" />
+
+### [Recurring Themes](#recurring-themes)
 
 A few of my dreams have some recurring themes.  One of these themes is
 constriction, manifested by restricted movement and circumstances.
@@ -41,7 +57,9 @@ out like bad collision detection in a 3D engine.  Stuff that should
 not really happen in a dream.  They started schizing out and glitching
 around the room.  I couldn't read anything.
 
-### Spiders!
+<a name="spiders" />
+
+### [Spiders!](#spiders)
 
 Another recurring theme from my dreams will occur when I get bit by a
 spider IRL.  Or at least that's what it feels like.  It's happened a
@@ -54,7 +72,9 @@ discover a spider bite the next day.  One of my native american
 friends once told me that a spider bite is a bad omen, as that
 particular spider god is a trickster.
 
-### Rolly Chair Jousting to the Death
+<a name="rolly-chair-jousting-to-the-death" />
+
+### [Rolly Chair Jousting to the Death](#rolly-chair-jousting-to-the-death)
 
 In what turned into perhaps the most amusing dream I ever had, I ended
 up jousting Taylor Swift on office chairs at the wildest party ever.
@@ -95,7 +115,9 @@ just as debaucherous, minus the pervasive corruption.
 Anyways, who won?  Me or Tay Swift?  I chickened out at the last
 minute ... c'mon, I had to let her win, right?
 
-### My Narrow Escape ...
+<a name="my-narrow-escape" />
+
+### [My Narrow Escape ...](#my-narrow-escape)
 
 #### From Columbian Drug Lords
 
@@ -137,8 +159,9 @@ the purpose of coercian by my subconscious.  Jesus Christ.  The
 experience was so visceral that I still wince when I think about the
 drill scraping by my skull.
 
+<a name="forging-a-path-home" />
 
-### Forging a Path Home
+### [Forging a Path Home](#forging-a-path-home)
 
 Anyways, the original dream I was describing started off when I
 wandered over towards the land on my next-door neighbor's property,
@@ -168,17 +191,17 @@ myself on became very steep and I tumbled down onto the side of a road
 that appeared to be in a rural area. It was very bright outside,
 daytime and well past morning.  I realized I was somewhere entirely
 different.  I didn't recognize the road and felt I was in a completely
-different state.  For some reason, I felt close to Chicago Illinois,
+different state.  For some reason, I felt close to Chicago, Illinois,
 but again, it was rural.
 
-The dream imformed my consciousness that it was impossible for me to
+The dream informed my consciousness that it was impossible for me to
 return.  And besides, the hill was very steep.  I felt compelled to
 move forward.  I kept walking, following the road, but my options only
 became more limited, as the road quickly turned into dirt.  Yet, the
 path led on and on, but no signs of civilization or people, just open
 fields, woods and dirt roads.
 
-I eventually got to where I could proceed further.  I feel like my
+I eventually got to where I could proceed no further.  I feel like my
 dream-self was exploring distal regions in my brain only remotely
 connected.  Somewhere I had long forgotten. It was becoming very dark
 and the path I was on becoming overrun with vegetation.  I needed a
@@ -212,7 +235,9 @@ was still lost in that confusing forest, but my light allowed me to
 peer around and understand that I was in a familiar location, though
 the rules had changed.
 
-### A Return to Oneironautics Soon
+<a name="a-return-to-oneironautics-soon" />
+
+### [A Return to Oneironautics Soon](#a-return-to-oneironautics-soon)
 
 For the most part, I look forward to dreaming.  Some of the most
 wondrous experiences of my adult life have occurred within my dreams.

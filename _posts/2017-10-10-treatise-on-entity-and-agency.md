@@ -44,7 +44,6 @@ perceptions are internalized into information representations.
 
 #### [Agency: Boundaries, Permeability and Maniability](#agency-boundaries-permeability-and-maniability)
 
-
 Entities with agency can analyze and process these to inform its
 actions. Agents have a degree of autonomy but do not exist in
 isolation. They must have independence and the ability to influence
@@ -77,11 +76,14 @@ reproduce. This is what gave specific forms of RNA its evolutionary
 advantage in molecular dynamics. It existed in a sea of myriad forms
 of RNA, all bending, breaking and crucially self-replicating. The most
 advantageous forms prevailed, the ribosome evolved from both RNA and
-proteins, which is why it contains parts of both, even today.
+proteins, which is why it contains parts of both, even today. Pictured
+below, tRNA likely resulted from spontaneous chains of nucleotides
+complemented the shapes of the amino acids, which gave them some
+evolutionary advantage in replication.
 
-#### (The higher-level forms of RNA)
+#### tRNA Maps RNA to Amino Acids: The Spontaneous Evolution of Form Into Function
 
-![]()
+![tRNA](/img/posts/2017-10-10-treatise-on-entity-and-agency/tRNA.jpg)
 
 So, life is informational. In physics, energy can neither be created
 nor destroyed and the same is true for information, which itself
@@ -384,7 +386,7 @@ is more fertile for transformation and self-actualization.
 ### [Physicality: Locality, Plurality and Mobility](#physicality-locality-plurality-and-mobility)
 
 - And Range of Physical Influence
-- bound to one location per time?
+- nature of physicality: bound to one location at a time?
 
 <a name="temporality-causal-origination-state-and-finality" />
 
@@ -400,16 +402,12 @@ is more fertile for transformation and self-actualization.
   - the beings existing from the beginning of time, who control all
     life from end to beginning.
 
-
-
-
 <a name="autonomy-sentience-direction-and-will" />
 
 ### [Autonomy: Sentience, Direction and Will](#autonomy-sentience-direction-and-will)
 
 - sentience is awareness of an experience of sensory phenomena
   - cognizance of that awareness is not required
-
 
   - will for action applied to an objective
     - how to state this in a generalized way?
@@ -453,8 +451,9 @@ is more fertile for transformation and self-actualization.
 - can we know it without seeing it? can we see it even if we know it?
   - if we are fortunate enough that a virtuous path becomes
     illuminated at our feet, what does it (take/cost) to follow it?
-    where does it lead? isn't it simpler to follow when our light
-    reflects off one another?
+    - [where does it lead](/posts/2016-05-14-oneironautics-questing-for-lucidity.html#forging-a-path-home)?
+    - isn't it simpler to follow when our light reflects off one
+      another?
 - We channel our spirit with the mind's (internalized understanding)
   of life and this goal.
 
