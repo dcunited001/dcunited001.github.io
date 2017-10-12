@@ -550,11 +550,6 @@ can only be perfectly preserved for digitizable, aphysical artifical
 forms, which can be extended in some cases to physicalized artifical
 forms.
 
-<!-- i would consistently refer to these entity types as Type 2, Type
-     3, etc, but I don't know that it is a perfect delineation of
-     entity types and thus, acronyms would form an inconsistent
-     language. if i ever write a book... -->
-
   - For some types, they don't need a (current), persistent,
   
   temporal
