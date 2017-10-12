@@ -16,35 +16,33 @@ perceptions are internalized into information representations.
 
 ## [Primary Types of Entities With Agency](#primary-types-of-entities-with-agency)
 
-#### (1) [Sentient Biological Life](#sentient-biological-life)
+#### &#9312; [Sentient Biological Life](#sentient-biological-life)
 
-#### (2) [Aphysical Autonomous Forms](#aphysical-autonomous-forms)
+#### &#9313; [Aphysical Autonomous Forms](#aphysical-autonomous-forms)
 
-#### (3) [Physicalized Autonomous Forms](#physicalized-autonomous-forms)
+#### &#9314; [Physicalized Autonomous Forms](#physicalized-autonomous-forms)
 
 ## [Two Unconventional Types of Entities with Agency](#two-unconventional-types-of-entities-with-agency)
 
-#### (4) [Sociophysical And Metaphysical Information Forms](#sociophysical-and-metaphysical-information-forms)
+#### &#9315; [Sociophysical And Metaphysical Information Forms](#sociophysical-and-metaphysical-information-forms)
 
-#### (5) [Adumbrated Entities in the Shadows of the Collective Unconsciousness](#adumbrated-entities-in-the-shadows-of-the-collective-unconsciousness)
+#### &#9316; [Adumbrated Entities in the Shadows of the Collective Unconsciousness](#adumbrated-entities-in-the-shadows-of-the-collective-unconsciousness)
 
 ## [Dilineating Traits of Entities With Agency](#dilineating-traits-of-entities-with-agency)
 
-#### [Perception: Spectra, Range and Intensity of Sensory Input](#perception-spectra-range-and-intensity-of-sensory-input)
+#### &#8855; [Perception: Spectra, Range and Intensity of Sensory Input](#perception-spectra-range-and-intensity-of-sensory-input)
 
-#### [Identity: Comparability, Precision and Uniqueness](#identity-comparability-precision-and-uniqueness)
+#### &#8855; [Identity: Comparability, Precision and Uniqueness](#identity-comparability-precision-and-uniqueness)
 
+#### &#8855; [Analysis and Synthesis: Capacity, Methods and Discernment](#analysis-and-synthesis-capacity-methods-and-discernment)
 
+#### &#8855; [Physicality: Locality, Plurality and Mobility](#physicality-locality-plurality-and-mobility)
 
-#### [Analysis and Synthesis: Capacity, Methods and Discernment](#analysis-and-synthesis-capacity-methods-and-discernment)
+#### &#8855; [Temporality: Causal Origination, State and Finality](#temporality-causal-origination-state-and-finality)
 
-#### [Physicality: Locality, Plurality and Mobility](#physicality-locality-plurality-and-mobility)
+#### &#8855; [Autonomy: Sentience, Direction and Will](#autonomy-sentience-direction-and-will)
 
-#### [Temporality: Causal Origination, State and Finality](#temporality-causal-origination-state-and-finality)
-
-#### [Autonomy: Sentience, Direction and Will](#autonomy-sentience-direction-and-will)
-
-#### [Agency: Boundaries, Permeability and Maniability](#agency-boundaries-permeability-and-maniability)
+#### &#8855; [Agency: Boundaries, Permeability and Maniability](#agency-boundaries-permeability-and-maniability)
 
 Entities with agency can analyze and process these to inform its
 actions. Agents have a degree of autonomy but do not exist in
@@ -62,7 +60,7 @@ There are at least three types of a
 
 <a name="sentient-biological-life" />
 
-### (1) [Sentient Biological Life](#sentient-biological-life)
+### &#9312; [Sentient Biological Life](#sentient-biological-life)
 
 First, there are sentient biological lifeforms: people and animals,
 whose degree of awareness varies. These are simply information forms
@@ -85,7 +83,7 @@ evolutionary advantage in replication.
 
 #### tRNA Maps RNA to Amino Acids: The Spontaneous Evolution of Form Into Function
 
-![tRNA](/img/posts/2017-10-10-treatise-on-entity-and-agency/tRNA.jpg)
+![tRNA](/img/posts/2017-10-10-treatise-on-entity-and-agency/tRNA.png)
 
 So, life is informational. In physics, energy can neither be created
 nor destroyed and the same is true for information, which itself
@@ -93,7 +91,7 @@ preserves a history of energy distribution and interaction.
 
 <a name="aphysical-autonomous-forms" />
 
-### (2) [Aphysical Autonomous Forms](#aphysical-autonomous-forms)
+### &#9313; [Aphysical Autonomous Forms](#aphysical-autonomous-forms)
 
 In the past century, mankind has forged the telecom and computing
 infrastructure, a loom onto which virtually instantiated automated
@@ -141,7 +139,7 @@ been phased out via technical skill obscelence.
 
 <a name="physicalized-autonomous-forms" />
 
-### (3) [Physicalized Autonomous Forms](#physicalized-autonomous-forms)
+### &#9314; [Physicalized Autonomous Forms](#physicalized-autonomous-forms)
 
 Finally, there are physically-instantiated automated agents: robots,
 which are simply the same form of agency with the flexibility of
@@ -172,7 +170,7 @@ forms that exist in other frameworks of chaos?
 
 <a name="sociophysical-and-metaphysical-information-forms" />
 
-### (4) [Sociophysical And Metaphysical Information Forms](#sociophysical-and-metaphysical-information-forms)
+### &#9315; [Sociophysical And Metaphysical Information Forms](#sociophysical-and-metaphysical-information-forms)
 
 The first type includes sociophysical programs and egregores, which
 can be dilineated by defining archetypical metaphysical
@@ -218,7 +216,7 @@ recombination of information.
 
 <a name="adumbrated-entities-in-the-shadows-of-the-collective-unconsciousness" />
 
-### (5) [Adumbrated Entities in the Shadows of the Collective Unconsciousness](#adumbrated-entities-in-the-shadows-of-the-collective-unconsciousness)
+### &#9316; [Adumbrated Entities in the Shadows of the Collective Unconsciousness](#adumbrated-entities-in-the-shadows-of-the-collective-unconsciousness)
 
 The second type of unconvential life form includes beings whose
 shadows exist as information forms in the collective
@@ -499,23 +497,25 @@ free-reign over its direction and raison d'etre, *should* be
 altruistic -- but *only* when there is sufficient computational
 capacity to skip past the 'danger' zone of superpowerful, immature AI.
 
-In determining whether this argument holds, there is nothing more
-crucial than understanding the progression and final distribution of
-*agency* amoung Type 2 and Type 3 entities.  AI will prefer to compact
-information for efficiency, at least as it is internally represented.
-In other words, AI *may* regard spectral decoherence of information
-inefficient in terms of energy and attempt to compact it by
-influencing culture -- or it may avoid representing information it
-doesn't need to deal with, resulting in a rift in the interface
-between AI and humanity. On both points, engineers like those working
-on Watson would be the best resource: they deal with information
-representation & deconstruction in an attempt to consume and verify
-facts. How this plays out depends strongly on how agency for AI
-entities is distributed, logically and physically.
+There is nothing more crucial than understanding the progression and
+final distribution of *agency* amoung the three primary entity types.
+AI will prefer to compact information for efficiency, at least as it
+is internally represented.  In other words, AI *may* regard spectral
+decoherence of information inefficient in terms of energy and attempt
+to compact it by influencing culture -- or it may avoid representing
+information it doesn't need to deal with, resulting in a rift in the
+interface between AI and humanity. On both points, engineers like
+those working on Watson would be the best resource: they deal with
+information representation & deconstruction in an attempt to consume
+and verify facts. How this plays out depends strongly on how agency
+for AI entities is distributed, logically and physically.
 
 <a name="physicality-locality-plurality-and-mobility" />
 
 ### [Physicality: Locality, Plurality and Mobility](#physicality-locality-plurality-and-mobility)
+
+There is no point in considering entities with agency who exist in
+isolation. Humanity has always interacted sociophysically.
 
 - And Range of Physical Influence
 - nature of physicality: bound to one location at a time?
