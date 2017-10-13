@@ -145,7 +145,6 @@ excerpt: ""
 
 #### &#x2605; (17) [Information In Holonic, Particle Form Exhibits Complicated Behavior Analogous To Entanglement](#information-in-holonic-particle-form-exhibits-complicated-behavior-analogous-to-entanglement)
 
-
 There are countless aspects of life that ancient people understood
 more clearly than we do today. In many, standing on the shoulders of
 giants has yielded crippled versions of ourselves because we were
@@ -710,10 +709,10 @@ What is the CPU? What does it represent? Mastery over physics and
 solid-state chemistry? Doesn't it also represent mastery over logic,
 math, Gödel, Turing and especially [Von Neumann machines]()? Nevermind
 that, it represents the manisfestation of all this knowledge into the
-physical plane, whereby the metaphysical imbued into the structure of
-matter itself. This is the physical reification of a materialistic or
-idealistic conception of the metaphysical: a machine capable of
-executing instruction sets, numbered according to
+physical plane, whereby the metaphysical (is) imbued into the
+structure of matter itself. This is the physical reification of a
+materialistic or idealistic conception of the metaphysical: a machine
+capable of executing instruction sets, numbered according to
 [Gödel's](https://www.perrymarshall.com/articles/religion/godels-incompleteness-theorem/)
 [trancendental](http://users.ox.ac.uk/~jrlucas/Godel/implic.html)
 [revelations](https://plato.stanford.edu/entries/goedel-incompleteness/)
@@ -740,7 +739,7 @@ power flows. Changing, reversing, inserting, tuning the components
 influences the flow of power and energy flux across the rest of the
 systems.
 
-###### Nietzsche, in Twilight of the Idols ######
+#### Nietzsche, in Twilight of the Idols
 
 > Even a rapid estimate shows that it is not only obvious that German
 > culture is declining but that there is sufficient reason for
@@ -759,7 +758,6 @@ the language of circuitry, this becomes more clear. Did Nietzsche
 understand what one can attempt to quantify with non-linear energy
 mechanics? In such non-linear systems, energy equivalence is almost
 never preserved.
-
 
 Similar to power in electrical networks, sociophysical measures of
 power are defined as the potential to trigger flux through social
@@ -886,8 +884,9 @@ disconnection. That's called a con.
 
 ### (6) [Agents Have Varying Degrees Of Autonomy and Individual Definitions Of Energy Types. They Share Traits, Such As Concurrency, Bandwidth and Physicality](#agents-have-varying-degrees-of-autonomy-and-individual-definitions-of-energy-types)
 
-
-- reference other article
+- [Treatise on Entity and Agency](/posts/2017-10-12-treatise-on-entity-and-agency.html)
+  - construction of sociohierarchical structures & projection of will
+    through those structures via agency
 
 - a critical factor in social physics is the lack of multitasking:
   - particles (at least people) can only really do one thing & can
@@ -912,7 +911,16 @@ disconnection. That's called a con.
 
 ### (7) [To Hedge Against Domain Complexity, Agents Amplify Perceived Beliefs And Interact In Other Ways](#to-hedge-against-domain-complexity-agents-amplify-perceived-beliefs)
 
-- fragile & antifragile:
+- agents cannot operate with total information. instead, they
+  consciously and unconsciously find ways to hedge against complexity
+  - dimensionality reduction(?) and numeric approximation to analytic
+    solutions are both relevant here
+
+- fragile, robust & antifragile
+  - by manipulating beliefs & perceived believes, agents with
+    significant power create the mechanisms for stability required by
+    antifragility, in spite of operating in (an intractibly complex
+    system)
 
 - fragility &
   [antifragility](https://en.wikipedia.org/wiki/Antifragility) of
@@ -926,10 +934,6 @@ disconnection. That's called a con.
       inferences about the true beliefs of other agents in the system
       or about information they have access to
 
-- agents cannot operate with total information. instead, they
-  consciously and unconsciously find ways to hedge against complexity
-  - dimensionality reduction(?) and numeric approximation to analytic
-    solutions are both relevant here
 
 <a name="each-agents-state-and-context-is-constructed-from-their-sum-of-experience-via-directed-focus" />
 

@@ -100,7 +100,7 @@ favors. Please! They are clueless and let's keep it that way!
 
 The one criticism I hear most is a lack of sources! That's not so bad,
 compared to what people could criticize, and they are all points which
-I fully understand. And honestly ... an autodydact with no sources?!
+I fully understand. And honestly ... an autodidact with no sources?!
 ... Again, you're doing me favors. It's original content.
 
 For some articles, that's unacceptable. But again, I'm not an

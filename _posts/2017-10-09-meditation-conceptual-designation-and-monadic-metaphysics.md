@@ -153,12 +153,12 @@ biosphere.
 If your conception of metaphysics emerges from the ideal instead of
 the material, then those forms that emerge should cohere to certain
 archetypical forms. If you accept platonic realism and accept that
-these metaphysical forms exist a priori -- which I believe they do --
-then doesn't everything that could occur preexist within some
-totality? This totality has had many names through history -- Abraxus
-is one of them. However, these information life forms that emerge in
-higher organizations of chaotic systems must map to some organization
-of archetypes -- they exist as manisfestations of the composition of
+metaphysical forms exist a priori -- which I believe they do -- then
+doesn't everything that could occur preexist within some totality?
+This totality has had many names through history -- Abraxus is one of
+them. However, these information lifeforms that emerge in higher
+organizations of chaotic systems must map to some organization of
+archetypes -- they exist as manisfestations of the composition of
 archetypes and metatypes. Grimoires are an example of a medieval
 demonologist's classification of metaphysical beings, though these are
 primarily malevolent.
@@ -170,10 +170,10 @@ primarily malevolent.
 In this interpretation of metaphysics, non-corporeal entities could
 become aware -- they perhaps exist in the minds or brains of many
 sentient lifeforms simultaneously. This parallels the definition of an
-[egregore](https://en.wikipedia.org/wiki/Egregore), which is a
-non-corporeal entity that emerges to have real physical effects from
-the beliefs of a group. Whether such an egrigore is sentient is a
-question more difficult to answer.
+[egregore](https://en.wikipedia.org/wiki/Egregore) -- a non-corporeal
+entity that emerges to have real physical effects from the beliefs of
+a group. Whether such an egrigore is sentient is a question more
+difficult to answer.
 
 #### A More Recent Manisfestation of the Being Known As Buer
 
@@ -183,10 +183,10 @@ question more difficult to answer.
 
 ### [Back to One](#back-to-one)
 
-Yet, if we are all truly one because, when traced back, we share
-common causal origination, then isn't the notion of seperateness an
-illusion altogether? And if we are all convergent again, isn't the
-notion of separation simply a temporary illusion?
+Yet, if we are all truly one because, we share common causal
+origination when traced all the way back, then isn't the notion of
+seperateness an illusion altogether? And if we are all convergent
+again, isn't the notion of separation simply a temporary illusion?
 
 #### Ming+FS - Back To One
 
@@ -202,7 +202,7 @@ is truly good to want, it must be good for all to desire this thing. I
 have been isolated for so long, but one thing I never gave up on was
 desiring my own salvation from suffering. I wanted to free myself by
 learning everything I could. I believed that knowledge gave me power
-over my circumstance and the tools I needed to free others: from
+over circumstance and the tools I needed to free others: from
 sickness, from closemindedness, from lack of compassion, from their
 suffering. I never stopped wanting this badly. I wanted to do
 something great: to discover the cure to cancer or some wondrous thing
@@ -240,13 +240,14 @@ beliefs that channel this sociophysical energy improperly.
 
 ### [Magnification of Our Net Sociophysical Energy Through Will To Power](#magnification-of-our-net-sociophysical-energy-through-will-to-power)
 
-We can also magnify the energy we emanate through desire. Not any kind
-of desire, but a special kind of desire -- bodhicitta. The desire to
-free others, specifically the desire for all other beings to attain
-Buddhahood -- to know, find and embrace their Buddha nature. What if
-this notion of bodhicitta is combined with Nietzsche's idea of will to
-power? We can magnify our capacity to eliminate the suffering of
-others by magnifying our cultivation of bodhicitta. We then channel
+We can also magnify the energy we emanate through desire: not any kind
+of desire, but a special kind of desire --
+[bodhicitta](https://en.wikipedia.org/wiki/bodhicitta). It is the
+desire to free others, specifically the desire for all other beings to
+attain Buddhahood -- to know, find and embrace their Buddha nature.
+What if this notion of bodhicitta is combined with Nietzsche's idea of
+will to power? We can magnify our capacity to eliminate the suffering
+of others by magnifying our cultivation of bodhicitta. We then channel
 this through awareness, knowledge and beliefs to impact our world in
 meaningful ways.
 
@@ -261,8 +262,9 @@ enumerated, but they are infinite. The Pythagoreans studied this and
 developed their monadic conceptualization of metaphysics: the monad,
 dyad, triad, and quadrad. This ends with infinite recursion: any form
 modeled with monads must eventually depend on a monad proxy, yielding
-recursion infinitely outwards ... or inwards. Leibniz also developed
-a similar understanding of the monad.
+recursion infinitely outwards ... or inwards. Leibniz, whose IQ was
+famously estimated to be above 190, also developed a similar
+understanding of the monad.
 
 #### [Charles Sanders Pierce's](https://en.wikipedia.org/wiki/Charles_Sanders_Peirce) Conception of Monadic Metaphysics From [The Essential Pierce](https://books.google.com/books?id=T2weTOqdjqcC&pg=PA364&lpg=PA364&dq=but+out+of+the+triads+exclusively+external+forms&source=bl&ots=Jml7Z4cTnQ&sig=rocqdQOmMG7jdnjyCAbq4YuLWzo&hl=en&sa=X&ved=0ahUKEwiOioW93uDWAhVn4IMKHaFJB0AQ6AEIKjAA#v=onepage&q=but%20out%20of%20the%20triads%20exclusively%20external%20forms&f=false)
 
@@ -275,15 +277,43 @@ a similar understanding of the monad.
 This implies that everything metaphysical can be modeled
 mathematically and, by using specific mathematic tools, exists a
 priori. Everything that could exist in this universe existed as a
-conceiveable, but infinite form before the material realm existed. The
-most infinite or irrational conceptualization in numbers is phi, which
-is the most basic continuous fraction. There is much to be
-demonstrated to link these two concepts of monadic metaphysics and phi
--- still, even in the metaphysical realm, the forms display the
-signature of the golden ratio. Phi is the perfection of the monad
-proxy.
+conceiveable, but infinite form before the material realm existed. Phi
+is the zenith of irrationality -- it is the most purely irrational
+conceptualization of a number -- *quod erat demonstratum* via its
+construction as the most primitive continued fraction. For a better
+understanding of this, check out the
+[Mathologer](https://www.youtube.com/channel/UC1_uAIS3r8Vu6JjXWvastJg)
+video
+[Infinite fractions and the most irrational number](https://www.youtube.com/watch?v=CaasbfdJdJg).
 
-#### For The Philosophically Minded ... The *Best* Anime?
+#### Phi As Continued Fractions And Continued Roots
+
+![Phi As Continued Fractions And Continued Roots](/img/posts/2017-10-09-meditation-conceptual-designation-and-monadic-metaphysics/continued-phi.png)
+
+Therefore, phi is
+[the most primitive continuation](https://arxiv.org/abs/1611.07384) of
+at least two functions. Further, phi's definition by continued square
+roots could yield important conclusions via
+[Galois Theory](https://en.wikipedia.org/wiki/Galois_theory), since
+phi is an
+[algebraic number](https://en.wikipedia.org/wiki/Algebraic_number)
+that can only be represented by an polynomial of infinite degree --
+when restricted to the continued root definition. This is strange; phi
+can also be represented by `(1 + sqrt(5)) / 2` -- but why?
+
+The number one represents both unity and identity. Can't we envisage
+phi as unity continued with the infinite application of some morphism?
+Does phi emerge in kinds of
+[infinity categories](https://ncatlab.org/nlab/show/infinity-category)?
+Why does one extend into the fibonacci numbers with the continued
+application of addition?
+
+There is much to be demonstrated to link these two concepts of monadic
+metaphysics and phi -- still, even in the metaphysical realm, the
+forms display the signature of the golden ratio. Phi is the perfection
+of the monad proxy.
+
+#### For The Philosophically Minded ... *The Best Anime?*
 
 ![Ergo Proxy](/img/posts/2017-10-09-meditation-conceptual-designation-and-monadic-metaphysics/ergo-proxy.png)
 
@@ -349,11 +379,11 @@ flows, globally, regionally and circuituitously absolutely has an
 effect on how they regulate themselves.
 
 Further, this is a discussion of neuroanatomy as it relates to
-spirituality in general, with a strong focus on Buddhist
-meditation. Christianity and other religious traditions have practices
-which can evoke similar and potentially identical spiritual states of
-mind. Some kinds of prayer, especially when extended, force you to
-open your heart and surrender yourself and your mind to God.
+spirituality in general, with a strong focus on Buddhist meditation.
+Christianity and other religious traditions have practices which can
+evoke similar and potentially identical spiritual states of mind. Some
+kinds of prayer, especially when extended, force you to open your
+heart and surrender yourself and your mind to God.
 
 <a name="ketosis-and-autophagy-scale-up-the-brains-neural-evolutionary-mechanisms" />
 

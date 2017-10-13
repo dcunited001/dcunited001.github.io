@@ -85,11 +85,11 @@ Primarily, they evolved the ability to self-replicate. Some molecules
 implicitly excel in this regard: namely the RNA and DNA. Even better,
 these nucleic acids form macromolecules, whose higher level shape
 interacts with the environment in functionally significant ways, in
-ways no (singular) component of an organic macromolecule can
-reproduce. This is what gave specific forms of RNA its evolutionary
-advantage in molecular dynamics. It existed in a sea of myriad forms
-of RNA, all bending, breaking and crucially self-replicating. The most
-advantageous forms prevailed, the ribosome evolved from both RNA and
+ways no singular component of an organic macromolecule can reproduce.
+This is what gave specific forms of RNA its evolutionary advantage in
+molecular dynamics. It existed in a sea of myriad forms of RNA, all
+bending, breaking and crucially self-replicating. The most
+advantageous forms prevailed: the ribosome evolved from both RNA and
 proteins, which is why it contains parts of both, even today. Pictured
 below, tRNA likely resulted from spontaneous chains of nucleotides
 complemented the shapes of the amino acids, which gave them some
@@ -117,12 +117,12 @@ entity of agency because their inherent autonomy is exploited to
 deflect or defer causal inferences.
 
 In the age of the internet, agents should include even entities as
-simple as processes spawned from the command line that running a
-network request, analyzing the response, and recording changes to the
-file system. Regardless of whether that software process is
-deterministic, it can be spawned or signaled by another entity with
-agency and controlled. It is important to define such a minimum of
-virtualized agency.
+simple as processes spawned from the command line which run a network
+request, analyzing the response, and record changes to the file
+system. Regardless of whether that software process is deterministic,
+it can be spawned or signaled by another entity with agency and
+controlled. It is important to define such a minimum of virtualized
+agency.
 
 Computer software, hardware and networking architecture undergoes
 cycles where emergent designs patterns and their anti-patterns drift
