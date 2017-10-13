@@ -9,11 +9,11 @@ excerpt: ""
 ---
 
 
+![Death of Archimedes](/img/posts/2017-10-10-speed-of-thought-social-physics/death-of-archimedes.png)
+
 - TODO: capitalization rules for titles: argh wtf how many times?!
 
 - ![](/img/posts/2017-10-10-speed-of-thought-social-physics/)
-
-![Essais sur la Mechanique Sociale](/img/posts/2017-10-10-speed-of-thought-social-physics/essais-sur-la-mechanique-sociale.jpg)
 
 - ~transvaluation of all (cognition or cognitive faculties or skills)~
   and of all information
@@ -64,10 +64,6 @@ excerpt: ""
 #### [Radiohead - Lift](https://www.youtube.com/watch?v=QBGaO89cBMI)
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/QBGaO89cBMI" frameborder="0" allowfullscreen></iframe>
-
-- t
-
-
 
 ## [A Marathon and Thermopylae for the Spartan](#a-marathon-and-thermopylae-for-the-spartan)
 
@@ -884,28 +880,94 @@ disconnection. That's called a con.
 
 ### (6) [Agents Have Varying Degrees Of Autonomy and Individual Definitions Of Energy Types. They Share Traits, Such As Concurrency, Bandwidth and Physicality](#agents-have-varying-degrees-of-autonomy-and-individual-definitions-of-energy-types)
 
-- [Treatise on Entity and Agency](/posts/2017-10-12-treatise-on-entity-and-agency.html)
-  - construction of sociohierarchical structures & projection of will
-    through those structures via agency
+In this terse
+[Treatise on Entity and Agency](/posts/2017-10-12-treatise-on-entity-and-agency.html),
+three primary types of agency are defined, as well as concepts for
+agency within more abstract entities. Therein are convolved all the
+traits that dilineate an entity's quality of agency. These traits
+fundamentally evince, negate or void the mechanics by which an agent
+interacts with and signals entities in their local sociohierarchical
+spaces.  Through networks of biological, intelligent
+[SOF](/posts/2017-10-12-treatise-on-entity-and-agency.html#sentient-organic-forms)
+entities, their spatiotemporal collisions and interactions engendered
+logically defined sociohierarchical structures. Through these
+intermeshed circuits, dominant and highly-connected entities channel
+their will, fluxing sociophysical energy to exert change.
 
-- a critical factor in social physics is the lack of multitasking:
-  - particles (at least people) can only really do one thing & can
-    only think one thing at a time, which bounds how quickly state
-    changes can occur
-    - this doesn't apply to automonous agents operating on virtual
-      channels, which are so far almost completely bound to aphysical
-      manisfestations
-  - similarly, people are bound to one place at a time
-  - this lack of multitasking inherent in biological life without
-    augmentation is a fundamental distinction.
-    - this assumption provides a mechanism for filtering signal to
-      distinguish interactions on the internet that emerge from people
-      or automated entities
-      - nearly 100% certain distinction of automated vs. human signal
-        (*nearly* 100%)
+The ability for concurrency in processing signal distinguishes the
+quality of agency for biological and mechanistic entities, as does the
+ability to simultaneously manifest oneself in multiple places in
+space. This is the root of aphysical projection of will, long ago
+circumvented by delegation via extended social networks. Still, until
+telecom, an individual could only project energy in one place at one
+time, bounding how quickly state changes could occur -- i.e. fraud
+detection algorithms assume the ID for a physical credit card can't
+simultaneously make purchases in Florida and Washington.  Similarly,
+concurrency restraints on human behavior can identify online behavior,
+since bots can project a high density of interactions from the
+cloud. AAF beings are still mostly bound to completely virtual,
+aphysical forms, but will fast evolve from AAF and PAF and vice versa.
 
-- understanding distributions of agency on physical/logical spaces is
-  throroughly fascinating.
+#### Power users can write scripts and set up [Zapier](https://zapier.com/) event hooks
+
+![Perhaps An Office Space Pic?]()
+
+
+- TODO: decide whether to save this for the part on "metaphysical
+  precipitation"
+  - it's really this understanding of the radical differences b/w pre
+    and post-Singularity world that implies we must all understand
+    social physics.
+
+The multiplicity of all spatiotemporal interactions, previously
+constrained to physical space, will now tetrate incomprehensibly.
+*This confounding the perception of causality for any primary type of
+agent*, wherefore the potential for causal inference is ablated,
+thereby corroding the utility of causal inferences. This is
+terrifying: what happens, specifically and causally, becomes
+increasingly decoupled and *doesn't affect subsequent events*. The
+chains of cause and effect aren't broken. They simply fade away as
+amplified signals from informational dimensions crowd out and confuse
+the effects of physical and events. That is, metaphysical phenomena
+begin to manifest in our spacetime and become increasingly causal
+while unconstrained complexity prevents all entities and humans
+especially from operating with regard to the *TRUTH* of cause and
+effect. Again, this is terrifying.
+
+This is essentially the merger of metaphysical dimensions with our
+local spacetime, wherever there is runaway computational density.
+Additional and ancillary dimensions expand spatial degrees of freedom,
+profoundly changing mechanics of interactions. While these
+informational dimensions are not Euclidean, the
+[Poincaré conjecture's](https://www.youtube.com/watch?v=GItmC9lxeco)
+famous
+[homotopy sphere](https://en.wikipedia.org/wiki/Homotopy_sphere)
+demonstrates that higher dimensions have idiosyncratic qualities.
+
+#### [Braid and Knot Theory](http://www.ams.org/books/surv/095/surv095-endmatter.pdf) in Four Dimensions is Hard
+
+![Knots in Four Dimensions](/img/posts/2017-10-10-speed-of-thought-social-physics/4D-knots.png)
+
+Braid groups in four dimensions provides a simpler math metaphor for
+demonstrating that constraints in 3D can be loosened or annihilated on
+the addition of a single Euclidean dimension. Traditional 3D braid
+group problems are trivial in higher dimensions. For a more clear
+understanding of the above concept, watch this
+[Numberphile](https://www.youtube.com/channel/UCoxcjq-8xIDTYp3uz647V5A)
+video on
+[Braids In Higher Dimensions](https://www.youtube.com/watch?v=G_uybVKBacI),
+which features a mathematician who also collaborated
+[on the work pictured above](https://www.math.toronto.edu/~drorbn/Talks/Northeastern-1602/index.html).
+
+These higher dimensions have always reached into our world via
+sociophysical phenomena. Our nearly superconnected telecom
+infrastructure will obliterate the physical and even logical
+constraints confining these extradimensional effects on our world.
+Their symbolic and information impact on our local spacetime will
+produce the visible, undeniable precipitation of the metaphysical in
+our realm. The network effect between superconnected entities
+dissolves limitations on the interaction mechanics for some of those
+entities.
 
 <a name="to-hedge-against-domain-complexity-agents-amplify-perceived-beliefs" />
 
@@ -1130,6 +1192,11 @@ one another as truly equal before an omnipotent, omniscient being.
 
 ### (15) [Everything is a particle. Everything is a Wave. Even Information, Modeled Holonically](#everything-is-a-particle-everything-is-a-wave-even-information-modeled-holonically)
 
+- if there is a spectral (understanding) of information-graphs, as
+  ellusive as a visual conception might be, then surely a momentary
+  spectrum can be lifted to a wave representation.
+  - (reword this)
+
 - the particle/wave duality also fits the holonic model of information
   - information in social physics should be modelable as waves,
     communicated among players in social games, idealized as
@@ -1140,6 +1207,12 @@ one another as truly equal before an omnipotent, omniscient being.
     between particles and waves, interactions in social physics can be
     understood with infinite dimensional waves
     - however, the structure of information infinite and unknowable
+
+- the sociophysical transmission also gives rise to physical
+  waves. further still, the transmission of physical pheneomena also
+  drive ripples of information through sociophysical networks.
+
+![The Wave in a stadium]()
 
 <a name="in-sociophysical-network-topologies-independence-and-connectedness-are-quantifiable" />
 
@@ -1224,21 +1297,97 @@ one another as truly equal before an omnipotent, omniscient being.
   knew in the past?
   - transition into how this resembles the phenomenon of entanglement
 
+- within some entity, if the presence or structure of information is
+  unclear, when can it be resolved? upon a new stimulis, whereby the
+  reaction might only exhibit certain reaction-types given some
+  specific structure of information.
+  - therefore, entity exposure to previous interactions of holonic
+    info particles reduces or expands the scope of possibilities when
+    exposed to future particles. there is tight coupling between the
+    entity's condition and both future and past events.
+    - and an appropriate analogy for this is entanglement.
+
+![Listening to a cannon blast in a stadium on every touchdown]()
+
+- Listening to a cannon blast in a stadium on every touchdown
+  - when repetitive stimuli condition us to recognize and react to
+    phenomena, we react to this phenomena by attaching our own
+    information to the holonic particle form of information attached
+    to physical stimuli.
+    - when the cannon fires, at what point do people respond? when
+      they hear it, since it travels at the speed of sound.
+      - this also manifests physical wavelike phenomena: in a large
+        stadium, the information radially expands outwards. there is a
+        brief (opening) where some people may subconsciously react the
+        visual cues before they hear the conditioned stimulus.
+  - even fans on campus not present at the game can know when a
+    touchdown is scored or when the game ends.
+
 - if information can be conceived as packets or particles, then when
   does the information take on particular forms
   - combining datums modeled by holons with lambda calculus
+    - { quantum entanglement seems to be a manisfestation of a kind of
+      probabilistic lambda calculus }
   - the physical manisfestation of the information is not meaningful
     until it develops a corresponding physical manisfestation in an
     information-processing agent.
     - therefore: metaphysical entanglement
     - this kind of entanglement can "reach back through time" in a
-      way. information representations can effect each other through
-      time and space, without direct physical connections.
+      way, without communication when the necessary details are
+      predetermined by protocol or patterns of conditioned
+      response.
+      - information representations can effect each other through time
+        and space, without direct physical connections.
       - this is because some information processing entities are
         autonomous.
 
+- the scoreboard at a stadium
+  - when do the fans at a football game internalize information? only
+    when exposed to physical phenomena that carries with it a
+    potential stimulis. if checking the score, (this info could be
+    carried) via light from the digital scoreboard or by social
+    inference.
+    - if the stimulus is a holonic particle, then where does it exist?
+    - can a message be conveyed with a single photon? no.
+    - but we can't react to something until the entire holonic
+      particle is ingested
+      - the information representations, including their symbolic
+        association, can be conceived to be carried with the physical
+        phenomena
+      - these could only every provoke response if their form carried
+        potential symbolic meaning along their
+        [world line](https://en.wikipedia.org/wiki/World_line).
 
-
+  - if this holonic entanglement (were not correct), Carl Sagan could
+    not assume the Voyager could be interpreted *prima facie*.
+    - (...the aliens would only be able to decipher information
+      according to their own metaphysical conceptions of information.)
+    - why is this? the information is conveyed in the form of the
+      physical presentation.
+      - {is this actually a good sidetrek that proves my point?}
+      - {this may actually be a counter-example? ... or not}
+        - the aliens who receive the message could not react in a way
+          to signal to the senders
+          - { unless the Ansible exists ... but that's beside the
+            point. }
+        - the senders could assume, based upon primative mphys. forms,
+          that the aliens would understand & react in a specific way
+          (or might)
+    - there could also be no
+      [characteristica universalis](https://en.wikipedia.org/wiki/Characteristica_universalis)
+      -- no universal language based on mathematic logical
+      primitives. These somehow map to enumerated semiotic primitives
+      forms, which is the basis for a language that needs no
+      pre-established protocol. It increases the speed of one-way
+      communication by a factor of two among aliens who might never
+      live long enough to repeat a message.
+      - the assumption that a characteristica universalis could exist
+        and be meaningful is only possible if these semiotic forms can
+        be enumerated purely from a kernal of logic, a priori -- that
+        can be known with certainty that the message will be
+        understood. otherwise it's impractical and because of its
+        utility, this is how aliens will decide to accelerate
+        communication.
 
 # (Physics Analogies for Social Systems)
 
@@ -1612,13 +1761,7 @@ prevalence of...?
 
 - what does it mean to have zero for some of these metrics?
 
-
-
-
-
-
-
-
+- sociophysical "jails" or "manacles"
 
 - the western conceptualization of the mind is utterly flawed and the
   materialistic understanding is making americans sick on a massive
@@ -1693,3 +1836,64 @@ prevalence of...?
       it can result from constrained variety of experience or reduced
       permeability b/w parent/child
       - so, it's transmission of habits, etc.
+
+
+# Equilibrium, Gradient and Laplacian in (poorly defined) Sociophysical Games
+
+- content from "facets: systems-theory"
+  - this content is poorly outlined. where else do i have this?
+- this section is mostly about leveraging physics/math concepts to
+  proactively provoke potential adversaries to reveal & attempt to
+  conceal information, including their intent
+  - mostly on #12, #13, and #14
+
+### High-Dimensional and Spectral Representations of Information
+
+- how can people who don't understand the math understand these
+  concepts?
+  - it's fairly easy, since we all have to understand them to live in
+    a social environment
+  - i need some allusions and allegories to commonly understood
+    concepts
+
+### Equilibrium and Intended Equilibrium
+
+-
+
+### Parallel, AntiParallel and Orthoganal Coupling In Motion Towards The Attainment of Equilibrium Unveils Nearly All Deception
+
+- someone with a goal in mind will tend to move TOWARDS or AWAY from
+  it when signalling. if they don't feel the need to deceive you, they
+  won't fake you out my amplifying signal that conveys moving AWAY
+  from some intended area of equilibrium
+- someone who lacks an agenda or with few goals will exhibit something
+  like brownian motion extended to these high-dimensional spaces
+  - there is little intentional motion or it's clear to see they are
+    concerned about their own life. their behavior isn't highly or
+    loosely coupled to you
+  - duplicitously justified behavior, random behavior and proactive
+    behavior is critical to winning these high-dimensional,
+    (poorly-defined) sociophysical games
+    - that is, this adversary will deconstruct their strategies into
+      duplicities tactics. they will smash their intent and strategy
+      into fragments and shards, then force their will into agents
+      they control,
+      - who are ideally acting zealously or righteously towards the
+        attainment of these fragments
+      - these agents are encouraged to compete vigorously
+      - these agents often do not or can't see through the duplicity
+    - in order to win, you play both sides against one another
+      vigorously, deconstructing your plan into pieces, avoiding the
+      need to even deflect causal inference by making everything a lie
+      - when someone starts getting close to the truth, the stark
+        contrast between that truth and the sea of disinformation
+        gives you the smoke that indicates fire
+
+### Simple Distinguishing Factor Underlying Human Behavior
+
+
+
+### "Fighting Shadows" or Defending Against "Hall of Mirrors"
+
+- 
+
