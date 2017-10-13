@@ -284,7 +284,9 @@ construction as the most primitive continued fraction. For a better
 understanding of this, check out the
 [Mathologer](https://www.youtube.com/channel/UC1_uAIS3r8Vu6JjXWvastJg)
 video
-[Infinite fractions and the most irrational number](https://www.youtube.com/watch?v=CaasbfdJdJg).
+[Infinite fractions and the most irrational number](https://www.youtube.com/watch?v=CaasbfdJdJg). The
+number one represents both unity and identity. Can't we envisage phi
+as unity continued with the infinite application of some morphism?
 
 #### Phi As Continued Fractions And Continued Roots
 
@@ -299,19 +301,16 @@ phi is an
 [algebraic number](https://en.wikipedia.org/wiki/Algebraic_number)
 that can only be represented by an polynomial of infinite degree --
 when restricted to the continued root definition. This is strange; phi
-can also be represented by `(1 + sqrt(5)) / 2` -- but why?
-
-The number one represents both unity and identity. Can't we envisage
-phi as unity continued with the infinite application of some morphism?
-Does phi emerge in kinds of
-[infinity categories](https://ncatlab.org/nlab/show/infinity-category)?
-Why does one extend into the fibonacci numbers with the continued
-application of addition?
+can also be represented by `(1 + sqrt(5)) / 2` -- but why? How can
+these two definitions be reconciled? I'd wager that the solution
+involves a wormhole.
 
 There is much to be demonstrated to link these two concepts of monadic
 metaphysics and phi -- still, even in the metaphysical realm, the
 forms display the signature of the golden ratio. Phi is the perfection
-of the monad proxy.
+of the monad proxy -- i.e. wouldn't phi emerge in specific
+constructions of
+[infinity categories](https://ncatlab.org/nlab/show/infinity-category)?
 
 #### For The Philosophically Minded ... *The Best Anime?*
 
