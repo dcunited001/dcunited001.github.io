@@ -913,62 +913,6 @@ aphysical forms, but will fast evolve from AAF and PAF and vice versa.
 ![Perhaps An Office Space Pic?]()
 
 
-- TODO: decide whether to save this for the part on "metaphysical
-  precipitation"
-  - it's really this understanding of the radical differences b/w pre
-    and post-Singularity world that implies we must all understand
-    social physics.
-
-The multiplicity of all spatiotemporal interactions, previously
-constrained to physical space, will now tetrate incomprehensibly.
-*This confounding the perception of causality for any primary type of
-agent*, wherefore the potential for causal inference is ablated,
-thereby corroding the utility of causal inferences. This is
-terrifying: what happens, specifically and causally, becomes
-increasingly decoupled and *doesn't affect subsequent events*. The
-chains of cause and effect aren't broken. They simply fade away as
-amplified signals from informational dimensions crowd out and confuse
-the effects of physical and events. That is, metaphysical phenomena
-begin to manifest in our spacetime and become increasingly causal
-while unconstrained complexity prevents all entities and humans
-especially from operating with regard to the *TRUTH* of cause and
-effect. Again, this is terrifying.
-
-This is essentially the merger of metaphysical dimensions with our
-local spacetime, wherever there is runaway computational density.
-Additional and ancillary dimensions expand spatial degrees of freedom,
-profoundly changing mechanics of interactions. While these
-informational dimensions are not Euclidean, the
-[Poincaré conjecture's](https://www.youtube.com/watch?v=GItmC9lxeco)
-famous
-[homotopy sphere](https://en.wikipedia.org/wiki/Homotopy_sphere)
-demonstrates that higher dimensions have idiosyncratic qualities.
-
-#### [Braid and Knot Theory](http://www.ams.org/books/surv/095/surv095-endmatter.pdf) in Four Dimensions is Hard
-
-![Knots in Four Dimensions](/img/posts/2017-10-10-speed-of-thought-social-physics/4D-knots.png)
-
-Braid groups in four dimensions provides a simpler math metaphor for
-demonstrating that constraints in 3D can be loosened or annihilated on
-the addition of a single Euclidean dimension. Traditional 3D braid
-group problems are trivial in higher dimensions. For a more clear
-understanding of the above concept, watch this
-[Numberphile](https://www.youtube.com/channel/UCoxcjq-8xIDTYp3uz647V5A)
-video on
-[Braids In Higher Dimensions](https://www.youtube.com/watch?v=G_uybVKBacI),
-which features a mathematician who also collaborated
-[on the work pictured above](https://www.math.toronto.edu/~drorbn/Talks/Northeastern-1602/index.html).
-
-These higher dimensions have always reached into our world via
-sociophysical phenomena. Our nearly superconnected telecom
-infrastructure will obliterate the physical and even logical
-constraints confining these extradimensional effects on our world.
-Their symbolic and information impact on our local spacetime will
-produce the visible, undeniable precipitation of the metaphysical in
-our realm. The network effect between superconnected entities
-dissolves limitations on the interaction mechanics for some of those
-entities.
-
 <a name="to-hedge-against-domain-complexity-agents-amplify-perceived-beliefs" />
 
 ### (7) [To Hedge Against Domain Complexity, Agents Amplify Perceived Beliefs And Interact In Other Ways](#to-hedge-against-domain-complexity-agents-amplify-perceived-beliefs)

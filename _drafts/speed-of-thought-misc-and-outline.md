@@ -537,6 +537,126 @@ dynamics) until it approaches aphysical ...
   to physical instantiations gradually lose relevance.)
 
 
+
+
+- this understanding of the radical differences b/w pre and
+  post-Singularity world implies we must all understand social
+  physics.
+  - while social physics might be the knowledge which the wealthy, the
+    elite and the shadowy "powers that be" have used to determine the
+    course of human civilization, etc, etc.
+    - the world will be transformed at a fundamental level and for
+      *anyone* to function in it, the common person must be permitted
+      to build upon an understanding of basic social physics
+
+- otherwise, one of three unacceptable things will happen:
+  - (1) reminiscent of the burning of the Library of Alexandria, the
+    currently powerful will torch the current regime of history &
+    information, leaving the the common person buried alive in some
+    false paradigm.
+    - "the illuminati" from a sense of responsibility from a partial
+      understanding of social physics decide to "collapse the system"
+      to retain control, either passively or actively
+      - i don't believe in a single organization like this, but there
+        are shadowy conspiratorial forces that have prefered to
+        artificially destabalize some regions in order to shift
+        influence and financial resources elsewhere
+    - here, the destabalization results from artificial attempts for a
+      fragment of the population to attempt to retain control
+
+  - (2) attempts to control information, thought, and especially
+    dissent result in a totally false belief system enforced via
+    disinformation and neurological mind control
+    - this results in a total loss of individuality and the total
+      stagnation of evolutionary mechanisms which make humanity
+      stronger as a whole
+    - this mind control & etc does not geographically roll out on a
+      global scale simultaneously, leading to destabilization from
+      (...) and the aforementioned effects on individuality &
+      evolutionary mechanisms
+      - this, other factors (like the international response to these
+        old and new mind control techniques) leads to destabalization.
+
+  - (3) runaway chaos results from a lack of understanding of this new
+    sociophysical paradigm almost dominated by information made
+    manifest.
+    - old modes of thinking dominate. classical war, greed,
+      corruption, etc prevail. The world destabilizes and what are
+      essentially the seven deadly sins lead to escalation of
+      conflict.
+    - here, the destabilization results from misunderstanding,
+      distrust, lack of cooperation, informational problems, and
+      traditional human fallability
+      - above all, it's the desire to dominate this new world of
+        information that leads to the incentivization of conflict
+    - if this plays out, we may find ourselves trapped in a desolated
+      world, completely unable to respond to overpopulation concerns,
+      where the average person is so horribly fucked up by an
+      archetype of deluvian scale, caused by merciless, ignorant human
+      malice
+      - the absolute worst part of such a world is that, YOU CANNOT
+        SURVIVE AS A VIRTUOUS PERSON.
+        - from there on out, the horrible neodeluvian archetype
+          produces a dark age of chaos, hatred and malice
+
+  - common themes of these scenarios
+    - the common person is trapped within a world they don't
+      understand, where there are no limitations on what is right,
+      what is wrong, what can be made abject reality
+    - if we ever incentivized cooperation, promoted a shared
+      understanding of the world, and unleashed the human potential,
+      more of us would have been able to individually channel more of
+      our energy
+      - if nothing else, then post-disaster, there wouldn't be an
+        archetypical sentiment that we were lied to, deceived and
+        totally fucked by the rich OR the powerful -- truly they are
+        one and the same, financial influence is like abstract,
+        commoditized social influence.
+
+- (probably won't publish this)
+- SO HOLY !@#$ I KNOW WHY I AM TRYING TO *UNITE* PEOPLE.
+  - i know what happens. i know how people work. i know the systems
+    they use. I can describe these systems and phenomena in greater
+    detail than anyone I know, personally
+    - if i had read more works of philosophy, i would probably see
+      what I have written throughout it.
+    - however, my work is more dense than anything i've ever read or
+      been allowed to be exposed to -- and *because* of that and
+      *because* it deals with power, semiotics and the architecture of
+      belief systems that people claim it is dangerous.
+      - i believe it is more dangerous for people to *NOT* understand
+        this.
+      - i'm looking 2, 5, 10, 50, 1000 years ahead.
+        - i don't give a fuck about money
+        - i don't give a fuck about fame
+        - i don't give a fuck about comfort
+        - i don't give a fuck about the next quarter's earnings
+        - i don't give a fuck about winning an election
+        - i don't give a fuck about offending someone (insofar as it
+          doesn't affect my ability to save humanity)
+          - however, I'M NOT ALLOWED TO RECEIVE SOCIAL SIGNALS BECAUSE
+            I AM *DISCONNECTED*, so how the fuck would I know anyway.
+      - i'm sorry, but i do not have faith that quells my frustration
+        and anxiety over human fallibility. i know how groups respond
+        to each other. i know what my value to society is
+      - i am being told that i belong in a fucking sociophysical cage
+        - i am being constantly reminded that everything i know that
+          is wrong that other people don't see *isn't being addressed*
+    - i am encouraged by some of the changes i've seen ... or at
+      least, i was. now i know what is happening. and the country i
+      love is being driven apart
+      - by lies, by deceipt, for need of political expedience
+      - i don't want to cast judgement on the left, the right,
+        whatever. i just want to see people work together. until i see
+        enemies huggin it out and actually practicing what they preach
+        (love, God, whatever it is), then i am going to continue to be
+        concerned.
+      - what is your intent? is it to bring people together? or is
+        your understanding of your intentions driven more by
+        irrational fear than by a desire for unity?
+    - i do not fear the human potential, but i do fear human
+      fallibility, especially in the face of technonihilism
+
 # Metaphysical Precipitation
 
 Given growth of networking infrastructure and computational capacity
@@ -603,6 +723,60 @@ not needed.
     ideas and memes, the strongest earn extremely high rates of
     propagation.
 
+
+### (further detail on "metaphysical precipitation" via superconnectness)
+
+The multiplicity of all spatiotemporal interactions, previously
+constrained to physical space, will now tetrate incomprehensibly.
+*This confounding the perception of causality for any primary type of
+agent*, wherefore the potential for causal inference is ablated,
+thereby corroding the utility of causal inferences. This is
+terrifying: what happens, specifically and causally, becomes
+increasingly decoupled and *doesn't affect subsequent events*. The
+chains of cause and effect aren't broken. They simply fade away as
+amplified signals from informational dimensions crowd out and confuse
+the effects of physical and events. That is, metaphysical phenomena
+begin to manifest in our spacetime and become increasingly causal
+while unconstrained complexity prevents all entities and humans
+especially from operating with regard to the *TRUTH* of cause and
+effect. Again, this is terrifying.
+
+This is essentially the merger of metaphysical dimensions with our
+local spacetime, wherever there is runaway computational density.
+Additional and ancillary dimensions expand spatial degrees of freedom,
+profoundly changing mechanics of interactions. While these
+informational dimensions are not Euclidean, the
+[Poincaré conjecture's](https://www.youtube.com/watch?v=GItmC9lxeco)
+famous
+[homotopy sphere](https://en.wikipedia.org/wiki/Homotopy_sphere)
+demonstrates that higher dimensions have idiosyncratic qualities.
+
+#### [Braid and Knot Theory](http://www.ams.org/books/surv/095/surv095-endmatter.pdf) in Four Dimensions is Hard
+
+![Knots in Four Dimensions](/img/posts/2017-10-10-speed-of-thought-social-physics/4D-knots.png)
+
+Braid groups in four dimensions provides a simpler math metaphor for
+demonstrating that constraints in 3D can be loosened or annihilated on
+the addition of a single Euclidean dimension. Traditional 3D braid
+group problems are trivial in higher dimensions. For a more clear
+understanding of the above concept, watch this
+[Numberphile](https://www.youtube.com/channel/UCoxcjq-8xIDTYp3uz647V5A)
+video on
+[Braids In Higher Dimensions](https://www.youtube.com/watch?v=G_uybVKBacI),
+which features a mathematician who also collaborated
+[on the work pictured above](https://www.math.toronto.edu/~drorbn/Talks/Northeastern-1602/index.html).
+
+These higher dimensions have always reached into our world via
+sociophysical phenomena. Our nearly superconnected telecom
+infrastructure will obliterate the physical and even logical
+constraints confining these extradimensional effects on our world.
+Their symbolic and information impact on our local spacetime will
+produce the visible, undeniable precipitation of the metaphysical in
+our realm. The network effect between superconnected entities
+dissolves limitations on the interaction mechanics for some of those
+entities.
+
+
 ### The Ablation of Causality
 
 - (remove focus on privacy from the following)
@@ -653,7 +827,6 @@ not needed.
         understanding of it to construct a (set?) of beliefs/knowledge
         about the world is in a very big way parameterized by the
         paradigm of information exchange/retention/diffusion/etc
-        - 
     - therefore, in an increasingly connected world, there is a major
       shift in how narratives are constructed and propagated.
   - this paradigm shift for causality affects any information
@@ -700,3 +873,7 @@ not needed.
           with a world where the majority of people are connected to
           networks where causality (becomes unknowable and
           unpredictable)
+
+
+
+

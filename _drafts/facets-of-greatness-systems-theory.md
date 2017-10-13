@@ -7,6 +7,7 @@ author:
   name: "David Conner"
 excerpt: ""
 ---
+
 Systems Theory is all about feedback loops. It's a powerful, but
 simple science of modeling processes with feedback loops... basically.
 If you know a lot about Systems theory... (you'll know i have almost
@@ -604,7 +605,6 @@ equilibriums:
   - "what A thinks that B thinks about what A thinks of C ..."
 
 TODO: notes on social behavior & game theory & laplacian?
-
 
 ### "Fighting Shadows" or Defending Against "Hall of Mirrors"
 
