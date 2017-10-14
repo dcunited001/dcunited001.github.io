@@ -104,39 +104,39 @@ excerpt: ""
 
 ## [Postulates of Sociophysical Systems](#postulates-of-sociophysical-systems)
 
-#### &#x2605; (1) [There Are Infinitely Many Types of Sociophysical Energy Having Both Linear And Non-Linear Mechanics That Determine Their Equivalence and Interaction Dynamics](#there-are-infinitely-many-types-of-sociophysical-energy-having-both-linear-and-non-linear-mechanics-that-determine-their-equivalence-and-interaction-dynamics)
+#### &#x2605; I: [There Are Infinitely Many Types of Sociophysical Energy Having Both Linear And Non-Linear Mechanics That Determine Their Equivalence and Interaction Dynamics](#there-are-infinitely-many-types-of-sociophysical-energy-having-both-linear-and-non-linear-mechanics-that-determine-their-equivalence-and-interaction-dynamics)
 
-#### &#x2605; (2) [Mechanics of Social Interactions And Connections Are Physical and Logical, But Increasingly Virtualized](#mechanics-of-social-interactions-and-connections-are-physical-and-logical-but-increasingly-virtualized)
+#### &#x2605; II: [Mechanics of Social Interactions And Connections Are Physical and Logical, But Increasingly Virtualized](#mechanics-of-social-interactions-and-connections-are-physical-and-logical-but-increasingly-virtualized)
 
-#### &#x2605; (3) [Power Describes The Rate of Energy Fluxing Through Sociophysical Networks](#power-describes-the-rate-of-energy-fluxing-through-sociophysical-networks)
+#### &#x2605; III: [Power Describes The Rate of Energy Fluxing Through Sociophysical Networks](#power-describes-the-rate-of-energy-fluxing-through-sociophysical-networks)
 
-#### &#x2605; (4) [Social Power Depends On Potentials For Types Of Energy Flux, Each Actual And Perceived](#social-power-depends-on-potentials-for-types-of-energy-flux)
+#### &#x2605; IIII : [Social Power Depends On Potentials For Types Of Energy Flux, Each Actual And Perceived](#social-power-depends-on-potentials-for-types-of-energy-flux)
 
-#### &#x2605; (5) [Perceived Beliefs Drive Social Power Dynamics Via Positive and Negative Feedback Loops](#perceived-beliefs-drive-social-power-dynamics-via-positive-and-negative-feedback-loops)
+#### &#x2605; V: [Perceived Beliefs Drive Social Power Dynamics Via Positive and Negative Feedback Loops](#perceived-beliefs-drive-social-power-dynamics-via-positive-and-negative-feedback-loops)
 
-#### &#x2605; (6) [Agents Have Varying Degrees Of Autonomy and Individual Definitions Of Energy Types. They Share Traits, Such As Concurrency, Bandwidth and Physicality](#agents-have-varying-degrees-of-autonomy-and-individual-definitions-of-energy-types)
+#### &#x2605; VI: [Agents Have Varying Degrees Of Autonomy and Individual Definitions Of Energy Types. They Share Traits, Such As Concurrency, Bandwidth and Physicality](#agents-have-varying-degrees-of-autonomy-and-individual-definitions-of-energy-types)
 
-#### &#x2605; (7) [To Hedge Against Domain Complexity, Agents Amplify Perceived Beliefs And Interact In Other Ways](#to-hedge-against-domain-complexity-agents-amplify-perceived-beliefs)
+#### &#x2605; VII: [To Hedge Against Domain Complexity, Agents Amplify Perceived Beliefs And Interact In Other Ways](#to-hedge-against-domain-complexity-agents-amplify-perceived-beliefs)
 
-#### &#x2605; (8) [For Timescales Both Small and Large, Each Agent's State and Context Is Constructed From Their Sum Of Experience Via Directed Focus](#each-agents-state-and-context-is-constructed-from-their-sum-of-experience-via-directed-focus)
+#### &#x2605; VIII: [For Timescales Both Small and Large, Each Agent's State and Context Is Constructed From Their Sum Of Experience Via Directed Focus](#each-agents-state-and-context-is-constructed-from-their-sum-of-experience-via-directed-focus)
 
-#### &#x2605; (9) [Spectral Coherence of Knowledge, Information and Agent Context Strongly Influences Conceptualization and Anticipation](#spectral-coherence-of-knowledge-information-and-agent-context-strongly-influences-conceptualization-and-anticipation)
+#### &#x2605; IX: [Spectral Coherence of Knowledge, Information and Agent Context Strongly Influences Conceptualization and Anticipation](#spectral-coherence-of-knowledge-information-and-agent-context-strongly-influences-conceptualization-and-anticipation)
 
-#### &#x2605; (10) [The Evolutionary Dynamics of Social Physics Build Upon Antifragility and the Ideas of Programs in Chaos](#the-evolutionary-dynamics-of-social-physics-build-upon-antifragility-and-the-ideas-of-programs-in-chaos)
+#### &#x2605; X: [The Evolutionary Dynamics of Social Physics Build Upon Antifragility and the Ideas of Programs in Chaos](#the-evolutionary-dynamics-of-social-physics-build-upon-antifragility-and-the-ideas-of-programs-in-chaos)
 
-#### &#x2605; (11) [Social Circuitry Enables Sociophysical Energy Flows, Where The Superposition Principle Applies Circuit and Network Topologies. All Exist Simultaneously](#social-circuitry-enables-sociophysical-energy-flows-where-the-superposition-principle-applies-to-circuit-and-network-topologies)
+#### &#x2605; XI: [Social Circuitry Enables Sociophysical Energy Flows, Where The Superposition Principle Applies Circuit and Network Topologies. All Exist Simultaneously](#social-circuitry-enables-sociophysical-energy-flows-where-the-superposition-principle-applies-to-circuit-and-network-topologies)
 
-#### &#x2605; (12) [Disruption of Connections & Interactions Alters Flow Of Energy & Power, Physically, Logically and Virtually](#disruption-of-connections-and-interactions-alters-flow-of-energy-and-power-physically-logically-and-virtually)
+#### &#x2605; XII: [Disruption of Connections & Interactions Alters Flow Of Energy & Power, Physically, Logically and Virtually](#disruption-of-connections-and-interactions-alters-flow-of-energy-and-power-physically-logically-and-virtually)
 
-#### &#x2605; (13) [Social, Financial and Other Energetic Flows Signal Interest and Intent Via Frequency, Magnitude and Abstract Spectral Decomposition](#social-financial-and-other-energetic-flows-signal-interest-and-intent-via-frequency-magnitude-and-abstract-spectral-decomposition)
+#### &#x2605; XIII: [Social, Financial and Other Energetic Flows Signal Interest and Intent Via Frequency, Magnitude and Abstract Spectral Decomposition](#social-financial-and-other-energetic-flows-signal-interest-and-intent-via-frequency-magnitude-and-abstract-spectral-decomposition)
 
-#### &#x2605; (14) [Even When Invisible, Intent is Signified And Clarified By Parallel, Anti-Parallel and Orthogonal Orientations of Motion As They Relate to Laplacian of High-Dimensional Surfaces](#even-when-invisible-intent-is-signified-and-clarified-by-parallel-antiparallel-and-orthogonal-orientations-of-motion-as-they-relate-to-laplacian-of-high-dimensional-surfaces)
+#### &#x2605; XIV: [Even When Invisible, Intent is Signified And Clarified By Parallel, Anti-Parallel and Orthogonal Orientations of Motion As They Relate to Laplacian of High-Dimensional Surfaces](#even-when-invisible-intent-is-signified-and-clarified-by-parallel-antiparallel-and-orthogonal-orientations-of-motion-as-they-relate-to-laplacian-of-high-dimensional-surfaces)
 
-#### &#x2605; (15) [Everything is a particle. Everything is a Wave. Even Information, Modeled Holonically](#everything-is-a-particle-everything-is-a-wave-even-information-modeled-holonically)
+#### &#x2605; XV: [Everything is a particle. Everything is a Wave. Even Information, Modeled Holonically](#everything-is-a-particle-everything-is-a-wave-even-information-modeled-holonically)
 
-#### &#x2605; (16) [In Sociophysical Network Topologies, Independence and Connectedness Are Quantifiable](#in-sociophysical-network-topologies-independence-and-connectedness-are-quantifiable)
+#### &#x2605; XVI: [Independence and Connectedness Can Be Measured In Sociophysical Network Topologies](#independence-and-connectedness-can-be-measured-in-sociophysical-network-topologies)
 
-#### &#x2605; (17) [Information In Holonic, Particle Form Exhibits Complicated Behavior Analogous To Entanglement](#information-in-holonic-particle-form-exhibits-complicated-behavior-analogous-to-entanglement)
+#### &#x2605; XVII: [Information In Holonic, Particle Form Exhibits Complicated Behavior Analogous To Entanglement](#information-in-holonic-particle-form-exhibits-complicated-behavior-analogous-to-entanglement)
 
 There are countless aspects of life that ancient people understood
 more clearly than we do today. In many, standing on the shoulders of
@@ -967,7 +967,7 @@ significant power create the mechanisms for stability required by
 antifragility. Widening the scope of complexity and variation greatly
 expands intractibility in sociophysical chaos.
 
-# (Curling) #
+#### (Curling)
 
 ![Curling]()
 
@@ -1254,9 +1254,9 @@ one another as truly equal before an omnipotent, omniscient being.
 
 ![The Wave in a stadium]()
 
-<a name="in-sociophysical-network-topologies-independence-and-connectedness-are-quantifiable" />
+<a name="independence-and-connectedness-can-be-measured-in-sociophysical-network-topologies" />
 
-## (16) [In Sociophysical Network Topologies, Independence and Connectedness Are Quantifiable](#in-sociophysical-network-topologies-independence-and-connectedness-are-quantifiable) ##
+### (16) [Independence and Connectedness Can Be Measured In Sociophysical Network Topologies](#independence-and-connectedness-can-be-measured-in-sociophysical-network-topologies)
 
 - (title: Connectedness and Social Isolation can be Measured?)
 
