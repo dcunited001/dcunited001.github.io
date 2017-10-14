@@ -247,12 +247,109 @@ headline: "Informational Territory > Sociohierarchical Territory > Economic Terr
 #### Internet Content & Distribution
 
 - SEO, URL's
-
 - newsfeeds, social media accounts/pages, etc
-  - newsfeed algorithms have channeled/coralled discussion into
-    facebook groups
-    - these
+  - newsfeed algorithms have channeled/corraled discussion into
+    facebook groups & specific subreddits
+    - these content distribution channels have mostly flat hierarchies
+      - usually there are two strata: many users and a handful of
+        admins. occasionally there are roles in between
+      - the flat hierarchies with a greater than 100:1 proportion of
+        users to admins means that a small number of users can
+        dominate content moderation
+      - on reddit, *THE WEBSITE THAT SHOULD BE PURGED FROM THE
+        INTERNET*, the admins can censor by veto: if one moderator
+        doesn't like your post or disagrees with it in any way, it's
+        toast.
+        - reddit hoards content created by its users, trying to
+          maximize the network effect, but with the total exclusion of
+          some users.
+          - in my case, it wasn't just exclusion. i was targeted by
+            leftists on other subreddits who labelled me as a "future
+            mass shooter in a helicopter"
+    - then these leftists act like they have the right to brainwash
+      people into feeling shameful about trying to interact with other
+      people "if they're not invited" so they can social engineer
+      total dominance over IRL and virtual social interactions via
+      abuse of mainstream media, which demoralizes the american
+      population
+      - the saul alinsky's of the world architect this utilitarian
+        soulless shit to dominate & subjugate dissidents
+      - thanks southpark "who invited mark zuckerburg here to our
+        'community'"
+        - fuck your 'community notifications' by the way and all the
+          other shit that leads to iatrogenic interventions for
+          yellow, orange, and red people.
+    - btw, if it's not obvious, i fucking hate communists in america
+      - look around. what kind of content and interactions are being
+        policed?
+        - why are religious discussions and socially conservative
+          issues being constantly shamed and social "justiced"?
 
+- NSA newsfeed drownout attacks on targeted individuals
+  - can limit social media exposure of content from dissidents/etc,
+    even when they are posting on other people's posts
+    - this kind of technique would result in the effect where targeted
+      individuals always appear to be the last person to comment on a
+      thread
+      - you can identify targeted individuals by tracking newsfeed
+        rank over time for individual posts. all that is required is
+        tracking the values multiplied to yield the newsfeed score for
+        a single post can be plotted onto a dashboard.
+        - newsfeed score ~= (U x V x X x Y x Z), where there are about
+          five factors.
+      - then, with these data points tracked over time, you can
+        identify where and how they are running this newsfeed
+        disruption technique on conservatives or on any targeted
+        individuals.
+        - basically, you use an effects-based approach: find the users
+          with distributed content (i.e. posts, pictures, subthreads),
+          where the score for the content always tanks immediately
+          after the user interacts with it in a way that creates
+          inbound links to their profile, identity, website
+          - this is why i'm so fucking mad. I"M NOT ALLOWED TO HAVE A
+            GODDAMN NAME OR IDENTITY IN THIS COUNTRY"
+            - anyone i interact with or any time i try to promote my
+              content, it is considered dangerous BECAUSE IT LINKS
+              INTO MY WEBSITE OR MY FACEBOOK PROFILE (i.e. my digital
+              21st century identity)
+            - but this is how you win at online marketing: you find
+              new content on the top of the stack where people are
+              actively engaged in it
+              - then you engage in authentic dialogue (or whatever)
+                and it creates inbound links to your content, your
+                online identity, etc if you think about it in terms of
+                21st century technology
+              - i dont. i think of it in terms of time-series analysis
+                and graph theory. the inboud edges that point to my
+                identity or provoke reflection of my identity in the
+                people engaged in the discussion lead them to think
+                about me.
+                - "they" would claim this sounds selfish or some
+                  shit. but that's how society works. if you don't or
+                  can't engage with people, people don't form memories
+                  about you
+                - i don't care about content online or any records of
+                  digitized information in a computer.
+                  - none of this matters. it is only useful in terms
+                    of exploiting algorithms to escape these digital
+                    and sociophysical jails that i'm in
+                  - what fucking matters is making an impression in
+                    someones MIND. what matters ultimately is leaving
+                    residue in someone's fucking memories.
+                - so, basically, you're saying that i'm not allowed to
+                  engage in society. "they" would claim this
+                  understanding of social interaction is utilitarian,
+                  abstract, narcissistic, whatever
+                  - FUCK THEM. they are the ones doing this to me,
+                    ruining ever aspect of my life, confining me to
+                    sociophysical jails, where i am subjected to
+                    psychological torture wherever i go.
+                  - so, in response to this, i've developed a
+                    objectified understanding of socialphyisics IRL
+                    and online, so that i can gamify everything.
+                  - i don't give a shit about what they do to me or
+                    what they say about me, because that poison-pen
+                    information is already out there.
 
 #### Spectral De/coherence
 
