@@ -63,23 +63,6 @@ headline: "Informational Territory > Sociohierarchical Territory > Economic Terr
   - what story will history tell about me and all the people like me?
     what do you actually plan on doing?
 
-- as sociohierarchical territory shrinks, the number of people also
-  shrinks who have influence over a proportionally greater amount of
-  people
-  - this effectively magnifies their influence, while minimizing the
-    number of people who need to be manipulated in order to have
-    economic or political effect
-  - this effect where hierarchies shrivel up, giving a smaller number
-    of nodes more power, does not play out globally at the same pace.
-    - like any other global/regional trend there are geographic
-      dynamics, which present opportunity for those who can understand
-      how to strategize over the rollout
-    - wherever this is happening, people around the world will face
-      greater economic stresses directly correlated to automation
-  - when/as people start realizing this, they will continue to tear
-    one another apart. this will drive narcissistic & sociopathic
-    behavior in the workplace, in communities, etc.
-
 ### Why Should We Be Worried?
 
 - connect to the Communist Manifesto and describe how
@@ -361,6 +344,7 @@ headline: "Informational Territory > Sociohierarchical Territory > Economic Terr
 ### Sociohierarchical Territory
 
 - how is it different today? where is it going?
+  - {already discussed in draft on metaphysical-precipitation}
   - it is disappearing!!
     - as automation takes jobs/ & roles for bureaucrats, it means that
       the avialable nodes in social hierarchies are gradually/quickly
