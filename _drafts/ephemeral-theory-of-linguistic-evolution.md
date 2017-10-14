@@ -264,6 +264,8 @@ would even dictate the functional
 - explore ideas of [Spoonerisms](https://en.wikipedia.org/wiki/Spoonerism) and [Metathesis](https://en.wikipedia.org/wiki/Metathesis_(linguistics))
   - and [nonce words](https://en.wikipedia.org/wiki/Nonce_word)?
 
+- [metasyntactic variables](https://en.wikipedia.org/wiki/Metasyntactic_variable))
+
 ### Zipf's Distribution for English Words and Japanese Loan Words
 
 - what does the difference b/w zipf's distribution for english words &

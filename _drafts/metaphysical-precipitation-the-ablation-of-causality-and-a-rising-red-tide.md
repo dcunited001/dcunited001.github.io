@@ -463,6 +463,39 @@ entities.
   - if these socionauts understood what they were doing, *they might
     know this*, but they don't -- or do they?
 
+#### Antifragile Process Design in National Security
+
+It appears that some American national security and homeland security
+processes have been heavily influenced by antifragile design. This is
+far and beyond a good thing. However, these caveats herein must be
+taken into account. Agents and assets gain more influence over the
+system by being expedient and obedient. They are rewarded with more
+trust, more information and more opportunities -- this is to be
+expected in any organization and especially covert organizations.
+However, since questioning your superiors requires sending signals,
+which can reveal information, so this means asking questions adds
+risk. It appears this may be discouraged or even punished. When
+constantly operating on less information, mistakes can be made that
+these people may regret.
+
+*Accountability* and *principles-first process structure* is and
+always should be a must. If incentivization structures break down and
+society's principles are not placed on a pedestal, then at a point
+where sociohierarchical territory will begin quickly vanishing via
+automation, this leaves good people at the mercy of narcissists and
+sociopaths who have no rules but all the power.
+
+Principles have always been highly prized in these organizations and
+in most positions of responsibility. Thank God, let us keep it that
+way, especially now, when more than anything the notion of
+[magnanimity](https://en.wikipedia.org/wiki/Nicomachean_Ethics#Magnanimity_or_.22greatness_of_soul.22)
+and other Aristotelian virtues should incentivize our people. Those
+with exemplary behavior should gravitation towards influential roles
+in social hierarchies. Such facets,
+[I have discussed at length](/posts/2016-05-12-facets-of-greatness-intro.html#aristotelian-ethics-a-brief-interlude). A
+society that does not recognize or reward virtue will soon have a
+baseless foundation. It takes one generation.
+
 ### Answers to the Red Tide Effect
 
 - discussing the problems without solutions does not help anyone.

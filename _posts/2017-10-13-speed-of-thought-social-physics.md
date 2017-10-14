@@ -1,5 +1,5 @@
 ---
-title: "The Speed of Thought: Social Physics"
+title: "The Speed of Thought: Postulates of Social Physics"
 categories: "blog"
 tags: ""
 headline: ""
@@ -7,9 +7,6 @@ author:
   name: "David Conner"
 excerpt: ""
 ---
-
-
-![Death of Archimedes](/img/posts/2017-10-10-speed-of-thought-social-physics/death-of-archimedes.png)
 
 - TODO: capitalization rules for titles: argh wtf how many times?!
 
@@ -103,9 +100,9 @@ excerpt: ""
 
 #### &#x2605; [Sports Like Soccer Or Football Are Well-Defined Sociophysical Games](#sports-like-soccer-or-football-are-well-defined-sociophysical-games)
 
-## [Postulates of Sociophysical Systems](#postulates-of-sociophysical-systems)
-
 - TODO: ensure TOC here is properly ordered
+
+## [Postulates of Sociophysical Systems](#postulates-of-sociophysical-systems)
 
 #### &#x2605; (1) [There Are Infinitely Many Types of Sociophysical Energy Having Both Linear And Non-Linear Mechanics That Determine Their Equivalence and Interaction Dynamics](#there-are-infinitely-many-types-of-sociophysical-energy-having-both-linear-and-non-linear-mechanics-that-determine-their-equivalence-and-interaction-dynamics)
 
@@ -912,34 +909,96 @@ aphysical forms, but will fast evolve from AAF and PAF and vice versa.
 
 ![Perhaps An Office Space Pic?]()
 
-
 <a name="to-hedge-against-domain-complexity-agents-amplify-perceived-beliefs" />
 
 ### (7) [To Hedge Against Domain Complexity, Agents Amplify Perceived Beliefs And Interact In Other Ways](#to-hedge-against-domain-complexity-agents-amplify-perceived-beliefs)
 
-- agents cannot operate with total information. instead, they
-  consciously and unconsciously find ways to hedge against complexity
-  - dimensionality reduction(?) and numeric approximation to analytic
-    solutions are both relevant here
+Sociophysical models are inherently intractible and when communication
+networks infinitely expand towards and beyond superconnectivity, this
+phenomenon only imposes more limitations. Agents can never operate
+with total information and biological
+[SOF](/posts/2017-10-12-treatise-on-entity-and-agency.html#sentient-organic-forms)
+entities have always operated in sociophysical games, metagames and
+epigames. It's a blessing to simply know these incomputable games are
+structured on imperfect information with
+[inschematical](https://en.wiktionary.org/wiki/schematical) structure,
+wherein multitudes of genericized self-reflecting transvalutions are
+required to operate. Upon peering into the incomprehensible maw of
+complexity that is *the sociophysical game*, all sense of personal
+significance is crushed into stupifying oblivion. It's like conceiving
+the scale of the universe for the first time.
 
-- fragile, robust & antifragile
-  - by manipulating beliefs & perceived believes, agents with
-    significant power create the mechanisms for stability required by
-    antifragility, in spite of operating in (an intractibly complex
-    system)
+#### The Death of Archimedes
 
-- fragility &
-  [antifragility](https://en.wikipedia.org/wiki/Antifragility) of
-  sociophysical systems
-  - e.g. the tendancy to amplify beliefs & perceived beliefs to
-    encourage consensus and discourage divergent beliefs/behavior
-  - but in systems theory, agents with more influence over the system
-    receive higher quality information.
-    - further, proactive means of generating dynamics in the system
-      allows agents to interrogate their environment, making
-      inferences about the true beliefs of other agents in the system
-      or about information they have access to
+> "Please, Sir, You Are Blocking The Light Of Mathematics"
 
+![Death of Archimedes](/img/posts/2017-10-10-speed-of-thought-social-physics/death-of-archimedes.png)
+
+Agents react to these dynamics by artificially amplifying the
+perceived beliefs they want others to operate upon, proactively
+creating their own games. This represents a hedge against domain
+complexity, as well as the proactive projection of energy through
+social circuits to gain knowledge about these social and informational
+nodes: gradually resolving models for these nodes' proactive and
+reactive behaviors, both conditioned and conscious.
+
+When adversaries deceptively distort your model for directing
+awareness and interacting, they do so to bind you down. If you are
+gullible, they seek to make you more predictable, to prevent you from
+developing pragmatic social models and to prevent you from operating
+effectively. And most of all, they want you to feel shame or guilt for
+employing what are healthy sociophysical tactics. They will even abuse
+social engineering to warp the frames of people on a sociological
+scale by projecting information via mass communication channels.
+
+#### Lilliputian Water-Prick Torture
+
+> "I'm sorry. I'm sorry. You want me to feel bad for wanting to excel
+> at life? And worse for becoming capable of transcending your
+> lilliputian games?"
+
+![Lilliputians Pricking Gulliver](/img/posts/2017-10-10-speed-of-thought-social-physics/lilliputians.png)
+
+This is all an attempt to consciously and unconsciously hedge against
+complexity to reduce uncertainty in the vastness of social physics.
+Central to antifragile system operation is the need to reduce
+uncertainty. By manipulating beliefs & perceived believes, agents with
+significant power create the mechanisms for stability required by
+antifragility. Widening the scope of complexity and variation greatly
+expands intractibility in sociophysical chaos.
+
+# (Curling) #
+
+![Curling]()
+
+To mitigate this,
+[antifragile](https://en.wikipedia.org/wiki/Antifragility) design
+philosophy applied to social systems will engineer logistics processes
+to: assert risk, *guide potential problems* _away_ *from the
+combinations of conditions that might set them off* and analytically
+process *digitized* records with social data science. Proactive means
+of generating dynamics in the system allows people to interrogate
+their environment, making inferences about the true beliefs of other
+agents in the system or about information they have access to.
+
+When these logistic process structures involve stringent secrecy,
+coverups of mistakes, distortion of information and amplification of
+disinformation, this work sometimes or in most cases. Sometimes these
+factors contribute to a system blinded to parts of itself, increasing
+the likelihood of undesirable
+[Black Swan events](http://www.investopedia.com/terms/b/blackswan.asp). Not
+all [Black Swan](https://en.wikipedia.org/wiki/Black_swan_theory)
+events are negative, but since it is their poorly definition which
+causes them to escape undetected as randomness, then might the
+amplification of disinformation suppress the recognition of an event
+signature that would have otherwise never been a Black Swan?
+
+The tendancy to amplify beliefs & perceived beliefs to encourage
+consensus, discourage divergent beliefs & behavior, can render the
+system simpler to understand and easier to manage, yes. However, the
+system does not exist in isolation, nor is it wise to believe you can
+covertly operate on the sociological organization, as though your
+secrecy can be post-justified as variable control.
 
 <a name="each-agents-state-and-context-is-constructed-from-their-sum-of-experience-via-directed-focus" />
 
@@ -956,7 +1015,7 @@ aphysical forms, but will fast evolve from AAF and PAF and vice versa.
 
 <a name="spectral-coherence-of-knowledge-information-and-agent-context-strongly-influences-conceptualization-and-anticipation" />
 
-### (9) [Spectral Coherence of Knowledge, Information and Agent Context Strongly Influences Conceptualization and Anticipation](#spectral-coherence-of-knowledge-information-and-agent-context-strongly-influences-conceptualization-and-anticipation)
+## (9) [Spectral Coherence of Knowledge, Information and Agent Context Strongly Influences Conceptualization and Anticipation](#spectral-coherence-of-knowledge-information-and-agent-context-strongly-influences-conceptualization-and-anticipation) ##
 
 - the inability to scalably model or to even ascertain pieces of
   information, which are sometimes unindexable if no rigid schema can
@@ -989,7 +1048,7 @@ aphysical forms, but will fast evolve from AAF and PAF and vice versa.
   - because such a large set of agents respond to information in
     similar ways ...
 
-#### Schematic Change Yielding Self-Perpetuating Changes Over Years, Decades or Centuries (i.e. Religion)
+### Schematic Change Yielding Self-Perpetuating Changes Over Years, Decades or Centuries (i.e. Religion) ###
 
 Those who profess knowledge but disclaim or disdain religion are
 fools. Change to the structure of ideas or to the shape of society's
@@ -1034,7 +1093,7 @@ one another as truly equal before an omnipotent, omniscient being.
 
 <a name="the-evolutionary-dynamics-of-social-physics-build-upon-antifragility-and-the-ideas-of-programs-in-chaos" />
 
-### (10) [The Evolutionary Dynamics of Social Physics Build Upon Antifragility and the Ideas of Programs in Chaos](#the-evolutionary-dynamics-of-social-physics-build-upon-antifragility-and-the-ideas-of-programs-in-chaos)
+## (10) [The Evolutionary Dynamics of Social Physics Build Upon Antifragility and the Ideas of Programs in Chaos](#the-evolutionary-dynamics-of-social-physics-build-upon-antifragility-and-the-ideas-of-programs-in-chaos) ##
 
 - (rewrite this section, since i can reference the article on chaos)
 - briefly(!) what is probabilistic programming (is it chaos computing
@@ -1069,10 +1128,14 @@ one another as truly equal before an omnipotent, omniscient being.
 
 <a name="social-circuitry-enables-sociophysical-energy-flows-where-the-superposition-principle-applies-to-circuit-and-network-topologies" />
 
-### (11) [Social Circuitry Enables Sociophysical Energy Flows, Where The Superposition Principle Applies Circuit and Network Topologies. All Exist Simultaneously](#social-circuitry-enables-sociophysical-energy-flows-where-the-superposition-principle-applies-to-circuit-and-network-topologies)
+## (11) [Social Circuitry Enables Sociophysical Energy Flows, Where The Superposition Principle Applies Circuit and Network Topologies. All Exist Simultaneously](#social-circuitry-enables-sociophysical-energy-flows-where-the-superposition-principle-applies-to-circuit-and-network-topologies) ##
 
 - many networks superimposed onto other, more primary, phsyical and
   aphysical networks
+
+###  ###
+
+- ![](/img/posts/2017-10-10-speed-of-thought-social-physics/viz-streamgraph.png)
 
 - this concept is really an extension of the idea of superposition of
   particle states to information networks which are composed of
@@ -1102,28 +1165,61 @@ one another as truly equal before an omnipotent, omniscient being.
   superposition of social circuit topology sums over topologies with
   less structural entropy.
 
-<a name="disruption-of-connections-and-interactions-alters-flow-of-energy-and-power-physically-logically-and-virtually" />
-
-### (12) [Disruption of Connections & Interactions Alters Flow Of Energy & Power, Physically, Logically and Virtually](#disruption-of-connections-and-interactions-alters-flow-of-energy-and-power-physically-logically-and-virtually)
-
-- (here, focus on imagery related to electrical systems)
-
-- (the forms above)
-- directionality of power flows
-  - one way & two way directions of comm. protocols (diodes)
-
-
 <a name="social-financial-and-other-energetic-flows-signal-interest-and-intent-via-frequency-magnitude-and-abstract-spectral-decomposition" />
 
-### (13) [Social, Financial and Other Energetic Flows Signal Interest and Intent Via Frequency, Magnitude and Abstract Spectral Decomposition](#social-financial-and-other-energetic-flows-signal-interest-and-intent-via-frequency-magnitude-and-abstract-spectral-decomposition)
+## (12) [Social, Financial and Other Energetic Flows Signal Interest and Intent Via Frequency, Magnitude and Abstract Spectral Decomposition](#social-financial-and-other-energetic-flows-signal-interest-and-intent-via-frequency-magnitude-and-abstract-spectral-decomposition) ##
+
+- discuss time series and establish a conceptual understanding of
+  spectral analysis
+
+### A Heatmap of Combinitorialized Signal Sources, With Hierarchical Relationships Forming One Basis For A First-Order Transvaluation ###
+
+<!-- I like to think in pictures and images -->
+
+![Heatmap of Combinitorialized Signal Sources](/img/posts/2017-10-10-speed-of-thought-social-physics/viz-heatmap.png)
+
+- apply gradients/laplacian to the above
+  - describe informational spectra as being capable of forming a basis
+    for this
 
 - laplacian of these flows and their aggregates, geographically &
   logically, indicate intent
   - games built upon these mechanics
 
+<a name="disruption-of-connections-and-interactions-alters-flow-of-energy-and-power-physically-logically-and-virtually" />
+
+## (13) [Disruption of Connections & Interactions Alters Flow Of Energy & Power, Physically, Logically and Virtually](#disruption-of-connections-and-interactions-alters-flow-of-energy-and-power-physically-logically-and-virtually) ##
+
+- (here, focus on imagery related to electrical systems)
+
+- imagine time series analysis of the above pictures time-domain
+  signals and spectral-domain arrangements and combinatorially
+  permuted functional domains
+  - Under most conditions, the Fourier Transform is a linear operator
+    and so is the differential operator. This means their application
+    in most circumstances is associative and commutative.
+    - you can rearrange the differential/gradient with that of the
+      fourier transform
+    - this allows you to construct time-domain waveforms that
+      represent the differential of the fourier transform and
+      vice-versa
+  - this simple process, combined with some of the other techniques
+    described above enable you to reconstruct signals when you don't
+    know the circuits or logical topology -- and vice-versa.
+    - however, there are some limitations, since data models are
+      inschematical -- their schema can never be perfectly conceived
+    - howeever, you don't need to because any nodes, edges and paths
+      with significant influence more prominently affect the system
+    - therefore, you need to assert the strong signals, then alternate
+      between inductive and deductive reasoning with combinatorial
+      permutations to understand what where the signals emerge from.
+
+- directionality of power flows
+  - one way & two way directions of comm. protocols (diodes)
+
 <a name="even-when-invisible-intent-is-signified-and-clarified-by-parallel-antiparallel-and-orthogonal-orientations-of-motion-as-they-relate-to-laplacian-of-high-dimensional-surfaces" />
 
-### (14) [Even When Invisible, Intent is Signified And Clarified By Parallel, Anti-Parallel and Orthogonal Orientations of Motion As They Relate to Laplacian of High-Dimensional Surfaces](#even-when-invisible-intent-is-signified-and-clarified-by-parallel-antiparallel-and-orthogonal-orientations-of-motion-as-they-relate-to-laplacian-of-high-dimensional-surfaces)
+## (14) [Even When Invisible, Intent is Signified And Clarified By Parallel, Anti-Parallel and Orthogonal Orientations of Motion As They Relate to Laplacian of High-Dimensional Surfaces](#even-when-invisible-intent-is-signified-and-clarified-by-parallel-antiparallel-and-orthogonal-orientations-of-motion-as-they-relate-to-laplacian-of-high-dimensional-surfaces) ##
 
 - this helps indicate intent, even when it was hidden
   - consistency is hard to fake, any duplicity exacerbates this and
@@ -1134,7 +1230,7 @@ one another as truly equal before an omnipotent, omniscient being.
 
 <a name="everything-is-a-particle-everything-is-a-wave-even-information-modeled-holonically" />
 
-### (15) [Everything is a particle. Everything is a Wave. Even Information, Modeled Holonically](#everything-is-a-particle-everything-is-a-wave-even-information-modeled-holonically)
+## (15) [Everything is a particle. Everything is a Wave. Even Information, Modeled Holonically](#everything-is-a-particle-everything-is-a-wave-even-information-modeled-holonically) ##
 
 - if there is a spectral (understanding) of information-graphs, as
   ellusive as a visual conception might be, then surely a momentary
@@ -1160,7 +1256,7 @@ one another as truly equal before an omnipotent, omniscient being.
 
 <a name="in-sociophysical-network-topologies-independence-and-connectedness-are-quantifiable" />
 
-### (16) [In Sociophysical Network Topologies, Independence and Connectedness Are Quantifiable](#in-sociophysical-network-topologies-independence-and-connectedness-are-quantifiable)
+## (16) [In Sociophysical Network Topologies, Independence and Connectedness Are Quantifiable](#in-sociophysical-network-topologies-independence-and-connectedness-are-quantifiable) ##
 
 - (title: Connectedness and Social Isolation can be Measured?)
 
@@ -1235,7 +1331,7 @@ one another as truly equal before an omnipotent, omniscient being.
 
 <a name="information-in-holonic-particle-form-exhibits-complicated-behavior-analogous-to-entanglement" />
 
-### (17) [Information In Holonic, Particle Form Exhibits Complicated Behavior Analogous To Entanglement](#information-in-holonic-particle-form-exhibits-complicated-behavior-analogous-to-entanglement)
+## (17) [Information In Holonic, Particle Form Exhibits Complicated Behavior Analogous To Entanglement](#information-in-holonic-particle-form-exhibits-complicated-behavior-analogous-to-entanglement) ##
 
 - what do you know now? does that change what you think about what you
   knew in the past?
