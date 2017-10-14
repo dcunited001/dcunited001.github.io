@@ -817,12 +817,12 @@ entities.
 
 - there is a paradigm shift in the phenomenon of causality, as it
   applies to human behavior and psychosocial dynamics,
-    - causality, in this sense, stems from exchange of information,
-      completeness of information, awareness of information,
-      dissemination of information, etc.
-      - there are many other important factors that help define how
-        humans perceive causation in their behavioral interactions,
-        whether those are individuals or groups of people ....
+  - causality, in this sense, stems from exchange of information,
+    completeness of information, awareness of information,
+    dissemination of information, etc.
+    - there are many other important factors that help define how
+      humans perceive causation in their behavioral interactions,
+      whether those are individuals or groups of people ....
       - however, causality and the way humans utilize their
         understanding of it to construct a (set?) of beliefs/knowledge
         about the world is in a very big way parameterized by the

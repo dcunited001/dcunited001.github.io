@@ -472,15 +472,14 @@ the noosphere or in its unconscious shadows.
      worked out very well for me, has it? -->
 
 One trait fundamental for distinguishing or identifying entities with
-agency is the ability for concurrent processing of data or
-signal. Multitasking is actually possible for humans -- but we have
-the option for concerrency, not parallel processing of conscious
-tasks. For concurrency in conscious human activity, one must open and
+agency is the ability for concurrent processing of data or signal.
+Multitasking is actually possible for humans -- but we have the option
+for concerrency, not parallel processing of conscious tasks. For
+concurrency in conscious human activity, one must open and
 decentralize their focus, always practicing dynamic reconfiguration of
 task and thought. It's incredibly difficult and ultimately not
 practical: it requires constantly expending energy to remain aware of
-potentially requeued, restacked and reordered task and
-thought.
+potentially requeued, restacked and reordered task and thought.
 
 #### Bruce Lee Fights Blindfolded
 
