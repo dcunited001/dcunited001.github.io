@@ -273,3 +273,11 @@ lead to a singular destination?
 
 What does this mean about the technological singularity? Is this our
 planet's local ergodic destination?
+
+#### Mandelbrot Zoom 1.0e226
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/PD2XgQOyCCk" frameborder="0" allowfullscreen></iframe>
+
+What constraints must hold on chaotic systems like the mandelbrot set
+to produce the unconstrained perfracted forms necessary for a system
+to produce life, awareness and sentience?
