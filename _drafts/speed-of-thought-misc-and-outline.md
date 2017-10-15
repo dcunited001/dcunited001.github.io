@@ -8,7 +8,13 @@ author:
 excerpt: ""
 ---
 
-Thesaurus Check:
+### Images
+
+
+- [Ground state search, hysteretic behaviour, and reversal mechanism of skyrmionic textures in confined helimagnetic nanostructures](https://arxiv.org/abs/1312.7665)
+  - 
+
+### Thesaurus Check:
 
 specific:
 - communication
