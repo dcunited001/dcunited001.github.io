@@ -31,8 +31,6 @@ dynamics) until it approaches aphysical ...
 
 # [The Interminable Red Tide](#fdas)
 
-
-
 # Metaphysical Precipitation
 
 Given growth of networking infrastructure and computational capacity
@@ -163,6 +161,23 @@ entities.
     psychological, and sociocultural changes are fundamentally
     different in a way that is very difficult to understand
 
+
+- again mention Kantian [conditions of possibilities]()
+  - for sentient entities operating in this new epoch of shared
+    reality, this dramatically expands the [Kantian categories]()
+    representing the potential short-term subjective expectations of
+    difficult-to-understand phenomena.
+  - this happens at the same time as the other factors driving the
+    ablation of causality and both factors drive each other.
+    - disinformation, superconnectedness and information
+      overstimulation implies that it becomes prohibitively difficult
+      to reason about what happened in the past AND to reason about
+      the phenomenological range of possibilities in the near future,
+      as well as dynamical inferences related to them.
+
+- especially as it relates to [Kantian categories]() of entities'
+  awarenesses of reality
+
 - the most important: in a post-convergence world, causality itself
   operates in a fundamentally different way, which can be
   anticipated by observing the evolution of various graphs
@@ -255,6 +270,7 @@ entities.
 
 # The Interminable Red Tide
 
+- A STRONG, STRONG WARNING
 
 - the concept of sociohierarchical territory (define)
   - it is disappearing!!
