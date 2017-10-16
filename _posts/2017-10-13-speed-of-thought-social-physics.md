@@ -100,7 +100,11 @@ excerpt: ""
 
 #### &#x2605; [Sports Like Soccer Or Football Are Well-Defined Sociophysical Games](#sports-like-soccer-or-football-are-well-defined-sociophysical-games)
 
+- TODO: pics
+  - for magnetic field lines
+  - for stadium to demonstrate maximal values in a physical field of attention
 - TODO: ensure TOC here is properly ordered
+  - sections on programs/particle
 
 ## [Postulates of Sociophysical Systems](#postulates-of-sociophysical-systems)
 
@@ -669,7 +673,7 @@ phenomenological agility.
 
 On top of the physical world, we have constructed technology that
 facilitates instantaneous communication, starting with the telegraph.
-This has rapidly progress, giving us the phone system, the early
+This has rapidly progressed, giving us the phone system, the early
 internet and culminates in nearly superconnected networks of optical
 cable. The world is well aware this means the digital world is more
 relevant than the physical. What we're not ready for is the pure
@@ -684,6 +688,13 @@ dominant. The virtual and logical aspects are instead being amplified
 to such a degree whereby the physical is almost secondary. The
 logically derived topologies, such as sociohierarchical structures and
 relationships, now matter more than ever.
+
+Superconnected communication infrastructure (manifests) novel
+conditions of possibility for sociophysical phenomena humanity has
+never encountered. Other phenomena will seem to be radical departures
+from dynamics
+
+- but these are only
 
 Therefore, our generations should begin conceptualizing their world
 primarily in terms of these logically and informationally derived
@@ -700,8 +711,8 @@ What is the CPU? What does it represent? Mastery over physics and
 solid-state chemistry? Doesn't it also represent mastery over logic,
 math, Gödel, Turing and especially [Von Neumann machines]()? Nevermind
 that, it represents the manisfestation of all this knowledge into the
-physical plane, whereby the metaphysical (is) imbued into the
-structure of matter itself. This is the physical reification of a
+physical plane, whereby the metaphysical facsimilarly imbues itself
+into the structure of matter. This is the physical reification of a
 materialistic or idealistic conception of the metaphysical: a machine
 capable of executing instruction sets, numbered according to
 [Gödel's](https://www.perrymarshall.com/articles/religion/godels-incompleteness-theorem/)
@@ -998,19 +1009,6 @@ system does not exist in isolation, nor is it wise to believe you can
 covertly operate on the sociological organization, as though your
 secrecy can be post-justified as variable control.
 
-<a name="each-agents-state-and-context-is-constructed-from-their-sum-of-experience-via-directed-focus" />
-
-### &#8855; &#8710; &#8968;viii&#8969; [For Timescales Both Small and Large, Each Agent's State and Context Is Constructed From Their Sum Of Experience Via Directed Focus](#each-agents-state-and-context-is-constructed-from-their-sum-of-experience-via-directed-focus)
-
-- Is predominately accumulated by their
-- so, directing their focus changes the range of experiential
-  information relevant to their context. combined with signaling and
-  especially with (decision models), this easily can have
-  multiplicative effects.
-
-- examples of using this?
-  - the stage magician
-
 <a name="spectral-coherence-of-knowledge-information-and-agent-context-strongly-influences-conceptualization-and-anticipation" />
 
 ### &#8855; &#8710; &#8968;ix&#8969; [Spectral Coherence of Knowledge, Information and Agent Context Strongly Influences Conceptualization and Anticipation](#spectral-coherence-of-knowledge-information-and-agent-context-strongly-influences-conceptualization-and-anticipation)
@@ -1087,42 +1085,6 @@ one another as truly equal before an omnipotent, omniscient being.
   - history as a language of ideas we build upon
   - controlling the truth allows you to constrain the form of context
     in the minds of others
-
-
-<a name="the-evolutionary-dynamics-of-social-physics-build-upon-antifragility-and-the-ideas-of-programs-in-chaos" />
-
-#### &#8855; &#8710; &#8968;x&#8969; [The Evolutionary Dynamics of Social Physics Build Upon Antifragility and the Ideas of Programs in Chaos](#the-evolutionary-dynamics-of-social-physics-build-upon-antifragility-and-the-ideas-of-programs-in-chaos)
-
-- (rewrite this section, since i can reference the article on chaos)
-- briefly(!) what is probabilistic programming (is it chaos computing
-  or programming with chaotic systems)
-  - it's like a means of modeling/studying chaotic systems where the
-    systems constituents begin to impose order on the system.
-  - under what situations would a chaotic system begin to exhibit
-    components of itself that can "create order out of chaos" ?
-
-- there are ideas from probabilistic programming at both macro and
-  micro levels. the micro refers to the each how particle informs its
-  structures its view of the world and informs its actions.
-  - but then there are ideas from probabilistic programming at work at
-    higher levels of organization. here, the particles interact
-    similar to how atoms/molecules interact in genetics.
-    - here, the analogy of spatially distributed state is more apparent.
-
-- social physics can be Modeled with ideas from machine learning
-  - each parti Boltzmann Machine
-  - and/or perhaps other ideas from machine learning
-
-- explain what a [boltzmann machine]() is.
-  - i'm going to need to refresh
-  - a boltzmann machine makes small changes to values over a very long
-    time (i think...) and is computationally prohibitive in all most
-    all circumstances (or at least is usually an inefficient way to
-    solve a problem)
-  - agents are like their own boltzmann machine processes
-    - it's more complicated than this because they are recognizing and
-      emulating behavior types, not simply representations of
-      information
 
 <a name="social-circuitry-enables-sociophysical-energy-flows-where-the-superposition-principle-applies-to-circuit-and-network-topologies" />
 
@@ -1231,17 +1193,189 @@ one another as truly equal before an omnipotent, omniscient being.
 - (Cut in content/ideas from facets: systems theory draft)
 
 
+<a name="the-evolutionary-dynamics-of-social-physics-build-upon-antifragility-and-the-ideas-of-programs-in-chaos" />
+
+#### &#8855; &#8710; &#8968;x&#8969; [The Evolutionary Dynamics of Social Physics Build Upon Antifragility and the Ideas of Programs in Chaos](#the-evolutionary-dynamics-of-social-physics-build-upon-antifragility-and-the-ideas-of-programs-in-chaos)
+
+What is probabilistic programming? What are programs in chaos?
+[This article](http://te.xel.io/posts/2017-09-14-awareness-precipitates-from-order-out-of-chaos.html)
+argues that biophysical, sociophysical and metaphysical systems are
+like programming frameworks where manipulation of feedback loops
+enables a degree of antifragility, propagates facsimilarity and
+promotes competition for accumulated reservoirs of energy.
+
+There are means of modeling and studying both chaotic systems and the
+design of programmatic systems within them. This applies to fields
+such as the engineering of genetics and human logistic systems. The
+tools for modeling these systems include
+[Markovian state machines](https://en.wikipedia.org/wiki/Markov_chain)
+within a kind of
+[probability space](https://en.wikipedia.org/wiki/Probability_space)
+that's distributed over some physical space. A critical concept in
+biophysical programs is spatially distributed state: the variables of
+these programs are the physically manifested byproducts of events. The
+program "executes" by influencing the quantity, state, and
+spatiotemporal location of these variables, which in turn influence
+the frequencies of subsequent events in space.
+
+#### Within Each of Us, Multitudes of Reflection And Refraction Descend and Ascend Infinitely
+
+![Yin and Yang Across Space](/img/posts/2017-10-10-speed-of-thought-social-physics/yin-yang-across-space.jpg)
+
+For sociophysical systems, these ideas of programming with
+probabilistic and chaotic systems must include networks of entities
+with agency whose inschematic Markovian state machines are tightly
+coupled to facets of their environment, methods of communication and
+means of interaction. For social physics, dynamics and mechanics of
+multifarious strata homogeneously feed back into the system as a whole
+where entities in each strata influence the macroscopic and
+microscopic. [SOF entities](te.xel.io/posts/2017-10-12-treatise-on-entity-and-agency.html)
+are containers of state, will and agency on one scale, but
+dualistically exist within a sociophysical system where macroscopic
+containers of the same omnidirectionally influence one another.
+
+Here, the particles exhibit perfect holonic perfraction, though the
+total experiential understanding of this truth is incomputable for any
+entity that ever be manifested on the physical plane. No false god, no
+hyperintelligent entity, no network of superintelligent entities no
+matter how human or artificial could ever conceive these
+combinatorially perfracted structures. It is like a fractal of Yin and
+Yang that pervades every sentient entity capable of agency. The only
+entity that can conceive this exists as the metaphysical totality,
+God, which does extend itself into our universe in unimaginable ways.
+
+#### Yin and Yang is the 2-Form of a Fractal in Two Dimensions
+
+![Infinities of Yin and Yang](/img/posts/2017-10-10-speed-of-thought-social-physics/yin-yang-fractal.jpg)
+
+People throughout history have always been more capable of
+understanding truths such as these, as well as the world around us, in
+ways the modern person cannot conceive.
+
+To understand this more fully, read the sections after
+[無 de nada](/posts/2016-05-16-the-paradox-of-creativity.html#zen-de-nada)
+in this discourse on the
+[Paradox of Creativity](/posts/2016-05-16-the-paradox-of-creativity.html). There
+are profound implications for how any cultural engineering should
+envision teleology, so mankind can benefit from the replacement of
+obselesced cultural practices for empowerment via semiotic
+amplification that traces out self-empowering teleology. Before,
+during and after the Singularity, almost all outdated cultural
+practices which before teleologically inculcated knowledge and wisdom
+will instead totally lose their relevance. They will be so
+infrequently performed, that their ability to reinforce understandings
+about life and society via teleological inference will instead simply
+disintegrate.
+
+> Isn't the above paragraph profound? Nope, not to the far-left
+> activist moderators on
+> [/r/philosophy](https://www.reddit.com/r/philosophy/) ruthlessly
+> suppressing any alternative via censorship by veto. Instead, my post
+> was deleted in 20 minutes. Why? Mostly because I didn't use academic
+> vocabulary. Also, there are people who already understand the above
+> or something like it. Some thought leaders in the background already
+> appear to plan on *using similar to this* for domination via mind
+> control, all without a chance for discourse. In fact, it a few
+> discussions on Reddit that lead me to being derided as a
+> "[future mass shooter](/img/writing/fuck-reddit-what-future-mass-shooter.png)"
+> by
+> [libertarian hunting subreddits](/img/writing/fuck-reddit-libertarian-hunters.png).
+
+<!-- FUCK REDDIT! I cannot scream that loudly enough. -->
+
+#### *Anyways ...* **Moving On.**
+
+<a name="each-agents-state-and-context-is-constructed-from-their-sum-of-experience-via-directed-focus" />
+
+### &#8855; &#8710; &#8968;viii&#8969; [For Timescales Both Small and Large, Each Agent's State and Context Is Constructed From Their Sum Of Experience Via Directed Focus](#each-agents-state-and-context-is-constructed-from-their-sum-of-experience-via-directed-focus)
+
+In social physics, all SOF biophysical entities exist in the same
+shared physical space. Their minds are like individual boltzmann
+machines, but with a functional twist. Instead of being machine
+learning constructs to recognize patterns in images, each brain is a
+biophysical construct for consuming, recognizing and emulating
+behaviors. Throughout life, we consume experiential and sensory
+information. We reflect on those memories to produce, alter and store
+aggregate memories. With increased quantity and expanded variety, our
+brains layer down strata of conditioned mental residue. From our
+current mental and neurological state, we correlate conditioned
+phenomena -- such as behaviors, images and symbols -- to perceiving,
+introspecting, replicating and altering the state of sociophysical
+macrocosms, both spatiotemporally local and distant.
+
+#### [Observation of LCD Phase Defects](https://phys.org/news/2017-06-phase-transition-liquid-crystal-defects.html) Are Centered As A System Cools Over Time
+
+![LCD Phase Changes](/img/posts/2017-10-10-speed-of-thought-social-physics/lcd-phase-change-defects.png)
+
+We have an innate desire to simulate and emulate, which drives our
+learning process. Because this process is *similar* to a Boltzmann
+machine, once an individual develops in a particular psychosocial
+direction, they can become less likely to change. This may be a
+property of Boltzmann machines -- categorically and typologically, as
+simultaneously running image-recognition Boltzmann machines diverge,
+each one become less capable of deviating from it's current category
+and singleton metatype-composition. What does the picture above
+symbolize for epistemological defects in shared knowledge systems
+developed by cooperative entities, which are essentially
+[Boltzmann machines](https://en.wikipedia.org/wiki/Boltzmann_machine)
+with arbitrary notions of temperature and sociophysical energy.
+
+- expand on this
+  - transition to discussing how we attempt to model each other's
+    knowledge, behavior and direction of focus.
+  - by attempting to control the current, short-term or long-term
+    direction of an entity's focus, their variety of input and
+    experience can be both constrained and dialated
+    - if you want to ruin someone's life and psychology, tightly
+      constrain their variety of experience over the long-term
+
+- by learning how people direct their focus,
+  - their reactions can be anticipated. learning this takes time and
+    investment of energy in a variety of experiences with the person.
+    - this has both positive and negative uses. this is how you build
+      a connection or relationship with a new friend.
+      - if someone's interactions and social network are tightly
+        constrained, they can't maintain a variety of interactions
+        with people
+      - when this is done to the extreme, it results in the utter and
+        total deterioration of their support network.
+
+#### (Stage Magician)
+
+![Stage Magician]()
+
+- so, directing their focus changes the range of experiential
+  information relevant to their context. combined with signaling and
+  especially with (decision models), this easily can have
+  multiplicative effects.
 
 <a name="everything-is-a-particle-everything-is-a-wave-even-information-modeled-holonically" />
 
 ### &#8855; &#8710; &#8968;xv&#8969; [Everything is a particle. Everything is a Wave. Even Information, Modeled Holonically](#everything-is-a-particle-everything-is-a-wave-even-information-modeled-holonically)
+
+In chaotic sociophysical systems, entities and information can be
+conceived as incomprehensibly complex analogies of the same
+macromolecules used in biophysical programs. That is, information can
+be conceptualized in holonic particle form, entities exchange datums
+and iotas of holonic information particles and these entities *are*
+information. To understand what an information particle might look
+like, envision a high-dimensional analogue of the yin and yang fractal
+above. Finally, imagine molecules composed of such matter: this is
+what your mind is made of.
+
+- the sociophysical transmission also gives rise to literal physical
+  waves. further still, the transmission of physical pheneomena also
+  drive ripples of information through sociophysical networks.
+
+![The Wave in a stadium]()
 
 - if there is a spectral (understanding) of information-graphs, as
   ellusive as a visual conception might be, then surely a momentary
   spectrum can be lifted to a wave representation.
   - (reword this)
 
-- the particle/wave duality also fits the holonic model of information
+- it isn't yet clear how, but the particle/wave duality also fits the
+  holonic model of information
   - information in social physics should be modelable as waves,
     communicated among players in social games, idealized as
     particles)
@@ -1252,17 +1386,85 @@ one another as truly equal before an omnipotent, omniscient being.
     understood with infinite dimensional waves
     - however, the structure of information infinite and unknowable
 
-- the sociophysical transmission also gives rise to physical
-  waves. further still, the transmission of physical pheneomena also
-  drive ripples of information through sociophysical networks.
+<a name="models-of-sociophysical-phase-change-require-topological-spaces-imbued-onto-physical-and-aphysical-topologies" />
 
-![The Wave in a stadium]()
+### &#8855; &#8710; &#8968;###&#8969; [Models of Sociophysical Phase Change Require Topological Spaces Imbued Onto Physical and Aphysical Topologies](#models-of-sociophysical-phase-change-require-topological-spaces-imbued-onto-physical-and-aphysical-topologies)
+
+- for the common person to understand, they need to understand what a
+  phase change in physics actually is and, most importantly, what a
+  phase change is defined as outside of physical systems.
+  - if you think of solid, liquid, gas, plasma, BEC ... what makes
+    each one what it is?
+    - they are composed of the same particles, mostly.
+    - why is it that they "seem" so different, qualitatively?
+    - how do you define what conditions lead some substance to begin
+      to transform itself into a different phase?
+
+- how do you model the interactions between a mixture of a single
+  substance where different parts of the space you're observing are in
+  different phases?
+  - this is the most important part of understanding what a phase
+    change is and carrying it over to non-physical systems: how does a
+    physicist mathematically model different phases of a
+    single-substance system and *why*?
+  - this is what distinguishes systems with math that can model phases
+    and those that can't.
+    - phase changes introduce and enable dramatically different modes
+      of interaction between the substance and both it's consitutuent
+      parts and it's environment.
+    - for example, solids propagate energy as more clearly defined
+      waves moving across a more limited set of crystal configurations
+      - liquids and gases also propagate waves of energy across the
+        system, but there are more physical degrees of freedom for how
+        a particle can kinetically react.
+      - but, this qualitative change in how a particle reacts to its
+        envrionment emerges not from signal particle or the state of
+        its local environment, but from more macroscopic relationships
+        that emerge from a *group* of particles.
+        - that is, it's *difficult* to say whether a single atom of
+          carbon is a particular phase at any temperature.
+          - the carbon atom just acts like a carbon atom and nothing
+            else.
+        - as a aside: this is also why various configurations of
+          matter at the nano scale can have such dramatically varied
+          behaviors that do not appear on more macro scales and do not
+          appear for singular atoms and molecules
+        - some of these properties are chemical and electrical and,
+          thus, are not traditionally considered "phases" by chemists
+          or physicists.
+          - physical phases are defined as being completely separate
+            from the chemical properties of the atom or substance.
+        - but the "phase" of a region of a substance determines how
+          that section of matter interacts with matter of the same
+          substance in other adjacent slices of space.
+          - that is, even though it's very literally the same
+            substance, the "rules" for how it physically interacts
+            change.
+
+- and so, there are phase changes in many kinds of systems. they are
+  not just confined to physical systems. some chemical properties of
+  matter can be dependent on the substance's phase.
+  - some chemical properties that only emerge on the nanoscale could
+    be modeled as "phases" although they are not related to the
+    physical phases of solid, liquid or gas.
+    - and so, as you zoom out to larger collections of the same
+      substance, it loses those properties from the nanoscale
+      configuration of matter, unless that fragile nanostructure is
+      held consistent across the entire material.
+
+- nature of duality vs agency, along geographic/philosophic dimensions
+- an agent's degree of influence and perceived influence over
+  environment, especially as it relates to some permanent state
+  changes.
+  - in particle systems which are high-dimensional and where the
+    particles have agency and intentionality, phase changes among
+    particles have a far greater capacity for effecting other
+    particles in the system.
+  - how did this section correlate to phase changes?
 
 <a name="independence-and-connectedness-can-be-measured-in-sociophysical-network-topologies" />
 
 ### &#8855; &#8710; &#8968;xvi&#8969; [Independence and Connectedness Can Be Measured In Sociophysical Network Topologies](#independence-and-connectedness-can-be-measured-in-sociophysical-network-topologies)
-
-- (title: Connectedness and Social Isolation can be Measured?)
 
 - social isolation/connectedness (in/dependence and vulnerability)
 - this isn't really something considering almost axiomatic, which
@@ -1324,7 +1526,8 @@ one another as truly equal before an omnipotent, omniscient being.
 
 - in a purely digital world, manipulation of social media algorithms
   to exclude "undesirable" individuals could create disconnection
-  among groups of people, defined logically instead of by ethnicity.
+  among groups of people, defined logically instead of by ethnicity
+  (let us NEVER do that).
   - i don't mean this to be compared to segregation
   - in a convergent social network that is increasingly less engaged
     in "real" interactions and more engaged in "virtual" interactions,
@@ -1332,6 +1535,53 @@ one another as truly equal before an omnipotent, omniscient being.
     censored via SEO/Social Media manipulation, this means that entire
     groups of people can become silenced or disenfranchised without
     even knowing it.
+
+### &#8855; &#8710; &#8968;####&#8969; [For The Efficient and Pragmatic Assertion of Behavior and Intent, (Nothing) Is More Useful Than Sociophysical Configuration Entropy]()
+
+- in genetic systems, patterns of change and entropy in
+  configurational and conformational distributions dilineates genetic
+  programs.
+
+- need to review the concepts here:
+  - conformation space are the probabilities of seeing particular
+    conformations of molecules, which AFAIK is not concerned with the
+    orientation of molecules (at least not the probability
+    distribution of conformations)
+  - configuration space has more to do with valid and realistic
+    arrangements of molecule types throughout a system.
+    -
+
+prevalence of...?
+
+- as a sociophysical system progresses, you can keep track of the
+  amount of time specific "molecular" configurations of participants
+  spent connected.
+  - this forms a kind of combinatorially-derived entropy, but it's not
+    thermodynamic entropy. it's closer to Shannon's informational
+    entropy.
+  - you can also keep track of the *types* of configurations that
+    emerge. this is probably more important, considering there are
+    factorially more combinations with more particles.
+    - if there are multiple particle types, then each counts as a
+      symbol for combination. (i.e. AA/AB/BA/BB for types A & B)
+  - this is useful because you get feedback on understanding how the
+    rules of your simulation affect the kinds of interactions that
+    emerge amoung particles.
+    - and it can help you identify when the rules of the system are
+      weighted improperly, leading to lower configuration entropy and
+      a skewed distribution
+
+- this concept carries over to organic chemistry, where it's called
+  configuration entropy. there is also conformational entropy, but
+  this is a weaker analogy b/w organic chemistry reactions and social
+  physics simulations.
+  - you could say that a social physics simulation with arbitrary
+    rules yields conformations of nodes, some more or less stable
+  - but, the types of conformations for a group of molecules are less
+    defined. it's probably not as useful without some means of
+    restricting the types of conformations that emerge by placing
+    constraints on particle interactions
+
 
 <a name="information-in-holonic-particle-form-exhibits-complicated-behavior-analogous-to-entanglement" />
 
@@ -1432,3 +1682,6 @@ one another as truly equal before an omnipotent, omniscient being.
         understood. otherwise it's impractical and because of its
         utility, this is how aliens will decide to accelerate
         communication.
+
+
+# [I Want To Inspire A Phase Change Across The Functional Fabric of Reality]()
