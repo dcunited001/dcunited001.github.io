@@ -517,6 +517,8 @@ prevalence of...?
           leaders simply do not know what questions to ask
         - nothing brings you more pain than asking these questions
 
+### Psychiatry (probably re/move this section)
+
 - the western conceptualization of the mind is utterly flawed and the
   materialistic understanding is making americans sick on a massive
   scale, where the easy, cheap treatment for insurance to cover is
@@ -666,7 +668,107 @@ prevalence of...?
         towards where they anticipate that influence *will* be, not
         where it is and certainly not where it was.
 
-### Limiting Financial/Social Capital & Options
+### Use of Fear/Love to Contract/Expand A Target's Social Boundaries
+
+- projection of fear enables these people to use their energy more
+  efficiently.
+  - non-physical pain is harder to define, but people move away from
+    it just like they do when they experience its physical counterpart.
+  - for the people in a 1-degree and 2-degree social neighborhood (IRL
+    or virtual) -- i.e. their social boundary -- if you
+    project/condition fear of the target, most people will move away
+    from him/her, especially if they do not feel strong to face that
+    fear themselves.
+  - since the fear is non-physical, harder to define and its quality
+    is multifarious, people trying to contain a target can invoke in
+    the social boundary members at least one compelling reason to stay
+    away from the target
+  - if you successfully motivate through fear, then the individuals in
+    the social boundary will become conditioned and even spread that
+    fear amongst themselves.
+    - they become vectors for disseminating your will/animus and
+      malice towards the target.
+    - at this point, not only is it unnecessary to waste your energy
+      incurring liability to inflict pain on the target and his/her
+      social boundary, you don't have to waste energy to spread this
+      information because, as a self-perpetuating sociophyisical
+      dynamic, it becomes effectively autonomous.
+
+- however, there are individuals who do not fear. they do not fear
+  specific things or, foolishly, they do not fear anything.
+  - to me, it is more important that no one ever be successful when
+    the tactics above are used unjustly and/or with malice. this is
+    something more important to me to act against completely,
+    successful and early than my own safety.
+  - also, i am the kind of person who becomes curious, when they are
+    presented with something they know they should fear. I want to
+    know why i fear it and, as a general tactic to undermining it if I
+    find it is something I believe is unjust, a sign of malicious
+    intent or someone neutral acting under the influence of
+    manipulation, then i actually want to get closer to the thing I
+    fear.
+    - this is also why some investigative techniques can be abused on
+      me in order to make the claim that I was trying to get close to
+      something illegal/immoral/terrorist/etc.
+      - someone with enough legal/investigative/psychological
+        experience would certainly know they could abuse my simple,
+        foolish reactions to draw me closer to say i wanted to be part
+        of something, when truly i never understood anything that was
+        going on.
+  - not only do i fear nothing, i have nothing left to lose except my
+    personal sense of dignity/honor/etc.
+
+### Don't Become Big Enough To Be A Target, Work Indirectly And Disdain Ego
+
+- just to be clear. i hate almost everything i'm writing about here.
+  - to understand it, to fight it and to contain it, i have immersed
+    myself in understand it and everything that happened to me.
+- in the utilitarian, pragmatic manipulation of social networks, it is
+  important to establish your network as a kind of power broker for
+  financial/social influencer. you don't want to be nominally known as
+  such a gatekeeper at all.
+  - in fact, you'd very much like for someone close to you or under
+    your influence to be known as the person with power. people with
+    social/financial power are magnetic: for those that don't have
+    power, magnates can make your dreams reality or, at least, that is
+    what those without power are drawn to believe.
+  - furthermore, if you are knowingly concerting machiavellian
+    mechanations to drive or influence events close your networks, do
+    you want that attention and allure that comes along with being
+    someone known to have power?
+    - no, it is very likely that person will become the fallguy
+      - or at least, their magnetic pull as being known as powerful
+        will absorb some of the karmic consequences of mechinations
+        that become known.
+  - but if you are practicing these utilitarian, amoral tactics
+    pragmatically, you can lens the energy of people in your networks
+    by leveraging social/financial opportunities as a power broker
+    - beware, much of this could be construed as illegal, immoral, etc
+      and can result in legitimate corruption cases
+    - these opportunities become a kind of resource for you, but it is
+      a limited resource with quantity that is difficult to define
+    - so, for these people, it is preferable to to identiy those who
+      can be deceived, manipulated, pressured to downgrade their
+      (negotiation requirements), or -- best of all -- can be given an
+      opportunity that will fail fast, fail pleasantly, or fail in
+      some way that will enable you to respond advantegeously
+      - in this last case, you have legitimately done something for
+        them. however, this is essentially setting someone up for
+        failure. it is because this is difficult/expensive for upper
+        management to diagnose that this is a cardinal sin of busines
+        and management.
+      - but, life has various sets of rules which only apply in
+        certain contexts. if you are not in corporation, corporate
+        policy does not apply to you. society's laws always apply to
+        you, but what matters in society is belief, perceived belief
+        networks and the ability to multiply your influence through
+        those things
+        - so, someone who is operating as a kind of shadow broker for
+          power/influence will find this as an alluring pathway to
+          appear to do a favor for someone while truthfully throwing
+          them under the bus
+
+### Limiting/Providing Financial/Social Capital & Options
 
 - financial capital and social capital are exchangable resources.
   - a clever person can exchange financial capital for social capital
@@ -721,6 +823,7 @@ prevalence of...?
       continuing to amplify their own and walling you into a very
       small set of social connections
       - you won't be able to expand (...)
+
 
 # (Implications of (your perspective on) Social Physics, Networks and Information Dynamics)
 

@@ -1002,7 +1002,7 @@ secrecy can be post-justified as variable control.
 
 ### &#8855; &#8710; &#8968;viii&#8969; [For Timescales Both Small and Large, Each Agent's State and Context Is Constructed From Their Sum Of Experience Via Directed Focus](#each-agents-state-and-context-is-constructed-from-their-sum-of-experience-via-directed-focus)
 
-- Is Predominately Accumulated By Their
+- Is predominately accumulated by their
 - so, directing their focus changes the range of experiential
   information relevant to their context. combined with signaling and
   especially with (decision models), this easily can have
@@ -1018,7 +1018,7 @@ secrecy can be post-justified as variable control.
 - the inability to scalably model or to even ascertain pieces of
   information, which are sometimes unindexable if no rigid schema can
   be devised, means that the way in which information is handled in
-  these models becomes infinitely more important
+  these models (becomes infinitely more important)
   - i.e. convergence and homogeneity of belief systems is required to
     make *any* useful inferences and those aspects of the systems
     which cause schematic divergence become problematic
@@ -1131,10 +1131,6 @@ one another as truly equal before an omnipotent, omniscient being.
 - many networks superimposed onto other, more primary, phsyical and
   aphysical networks
 
-####
-
-- ![](/img/posts/2017-10-10-speed-of-thought-social-physics/viz-streamgraph.png)
-
 - this concept is really an extension of the idea of superposition of
   particle states to information networks which are composed of
   information represented by particles which behave in ways analogous
@@ -1169,6 +1165,10 @@ one another as truly equal before an omnipotent, omniscient being.
 
 - discuss time series and establish a conceptual understanding of
   spectral analysis
+
+#### (Streamgraph Visualization)
+
+- ![](/img/posts/2017-10-10-speed-of-thought-social-physics/viz-streamgraph.png)
 
 ### A Heatmap of Combinitorialized Signal Sources, With Hierarchical Relationships Forming One Basis For A First-Order Transvaluation
 
