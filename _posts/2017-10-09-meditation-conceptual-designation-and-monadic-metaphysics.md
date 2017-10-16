@@ -80,16 +80,19 @@ open your heart and surrender yourself and your mind to God."
 
 #### &#x03D5; [Infinitely Inwards And Infintely Outwards Are One And The All](#infinitely-inwards-and-infinitely-outwards-are-one-and-the-all)
 
+<!-- I do not intend to culturally appropriate here. I have referenced
+     Buddhism, Alchemy and other cultural traditions, but do not read
+     this and assume that I have spoken authoritatively on any religious
+     tradition. I've considered joining a religious tradition myself, but
+     I feel like this toxic sociophysical miasma follows me around,
+     infecting anyone I come into contact with. I would simply be
+     inviting evil into a monastery.
+     -->
 
 ## Nietzsche, Nietzsche, wherefore art thou?
 
-> I do not intend to culturally appropriate here. I have referenced
-> Buddhism, Alchemy and other cultural traditions, but do not read
-> this and assume that I have spoken authoritatively on any religious
-> tradition. I've considered joining a religious tradition myself, but
-> I feel like this toxic sociophysical miasma follows me around,
-> infecting anyone I come into contact with. I would simply be
-> inviting evil into a monastery.
+> Please do not read this and believe I have spoken authoritatively on
+> any religious tradition. FInd your own way.
 >
 > Meditation herein variously refers to Buddhist meditation and
 > spiritual states of mind. I was heavily influenced by a lite
@@ -188,10 +191,6 @@ origination when traced all the way back, then isn't the notion of
 seperateness an illusion altogether? And if we are all convergent
 again, isn't the notion of separation simply a temporary illusion?
 
-#### Ming+FS - Back To One
-
-<iframe width="560" height="315" src="https://www.youtube.com/embed/qMfbR-u-1FM" frameborder="0" allowfullscreen></iframe>
-
 <a name="bodhicitta-x-will-to-power" />
 
 # [Bodhicitta x Will To Power](#bodhicitta-x-will-to-power)
@@ -250,6 +249,10 @@ will to power? We can magnify our capacity to eliminate the suffering
 of others by magnifying our cultivation of bodhicitta. We then channel
 this through awareness, knowledge and beliefs to impact our world in
 meaningful ways.
+
+#### Ming+FS - Back To One
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/qMfbR-u-1FM" frameborder="0" allowfullscreen></iframe>
 
 <a name="the-pythagorean-monad" />
 
@@ -458,7 +461,7 @@ the volume of active cognitive processes.
 
 This qualitatively transforms my subjective experience of
 consciousness. Since the mind is disengaged from higher-level
-cognition, it proves challenging to consciously interrogating the
+cognition, it proves challenging to consciously interrogate the
 qualities of this state of mind. When you first activate a state of
 mind like this, you may have a *'Whoa WTF was that?'* moment. When
 this first happened to me, I was suddenly projected an image behind
@@ -485,7 +488,7 @@ activity for this network in particular the should become recessed.
 In fact, meditation's effects on DMN are so pronounced, it's being
 studied
 [as a biomarker for monitoring the therapeutic effects of meditation](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC4460295/). Even
-in academia, It has been demonstrated, that
+in academia, it has been demonstrated that
 [meditation leads to reduced default mode network activity beyond an active task.](https://www.ncbi.nlm.nih.gov/pubmed/25904238)
 
 #### Parietal Gyrus - [Dr. Greg Dunn](http://www.gregadunn.com/self-reflected/)

@@ -905,7 +905,9 @@ aphysical forms, but will fast evolve from AAF and PAF and vice versa.
 
 #### Power users can write scripts and set up [Zapier](https://zapier.com/) event hooks
 
-![Perhaps An Office Space Pic?]()
+![Milton](/img/posts/2017-10-10-speed-of-thought-social-physics/office-space-milton.jpg)
+
+## &#8679; Then That Guy Started Writing About Psychological Gangrape And Workplace Bullying, So They Said He Was Basically Charles Manson, A Racist and -- Hey, Why Not A Terrorist, Too
 
 <a name="to-hedge-against-domain-complexity-agents-amplify-perceived-beliefs" />
 
@@ -965,10 +967,6 @@ significant power create the mechanisms for stability required by
 antifragility. Widening the scope of complexity and variation greatly
 expands intractibility in sociophysical chaos.
 
-#### (Curling)
-
-![Curling]()
-
 To mitigate this,
 [antifragile](https://en.wikipedia.org/wiki/Antifragility) design
 philosophy applied to social systems will engineer logistics processes
@@ -978,6 +976,8 @@ process *digitized* records with social data science. Proactive means
 of generating dynamics in the system allows people to interrogate
 their environment, making inferences about the true beliefs of other
 agents in the system or about information they have access to.
+
+![Curling](/img/posts/2017-10-10-speed-of-thought-social-physics/curling.jpg)
 
 When these logistic process structures involve stringent secrecy,
 coverups of mistakes, distortion of information and amplification of
