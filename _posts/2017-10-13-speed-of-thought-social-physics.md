@@ -1390,6 +1390,16 @@ what your mind is made of.
 
 ### &#8855; &#8710; &#8968;###&#8969; [Models of Sociophysical Phase Change Require Topological Spaces Imbued Onto Physical and Aphysical Topologies](#models-of-sociophysical-phase-change-require-topological-spaces-imbued-onto-physical-and-aphysical-topologies)
 
+
+
+#### Connecting Microstate Energy in [Botlzmann Machines] with Boltzmann's Distribution and Configuration Entropy ...
+
+[Amphiphilic Phases]()
+
+
+- [gibb's entropy?](https://en.wikipedia.org/wiki/Entropy_(statistical_thermodynamics)#Gibbs_entropy_formula)
+
+
 - for the common person to understand, they need to understand what a
   phase change in physics actually is and, most importantly, what a
   phase change is defined as outside of physical systems.
