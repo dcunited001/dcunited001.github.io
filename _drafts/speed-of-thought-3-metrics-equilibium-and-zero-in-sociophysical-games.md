@@ -768,6 +768,18 @@ prevalence of...?
           appear to do a favor for someone while truthfully throwing
           them under the bus
 
+  - my fear is that local extensions of homeland security, domestic
+    intelligence networks, and etc are beginning to operate to
+    dominate regional influence simply towards the attainment of that
+    end in itself, for itself. pragmatically, it is easy for them to
+    justify both this and total secrecy in everything they do by
+    claiming it is for current or future national security, when
+    foremost, it is extortion, coercion, racketeering and exactly the
+    same as everything else the mafia does.
+    - domestic criminal networks may also be adapting to this era of
+      technology, social media, illicit surveillance, etc, finding it
+      all very convenient towards control, illusion and elusion.
+
 ### Limiting/Providing Financial/Social Capital & Options
 
 - financial capital and social capital are exchangable resources.
