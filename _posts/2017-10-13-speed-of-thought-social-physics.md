@@ -8,6 +8,20 @@ author:
 excerpt: ""
 ---
 
+<!-- references -->
+
+[^pos-sensitive-propagation]: [Position-sensitive propagation of information on social media using social physics approach](https://arxiv.org/abs/1706.00569), Ishii A., Mizuno T., Kawahata Y., arXiv:1706.00569 [physics.soc-ph] (2017)
+
+[^configuration-entropy-of-a-landscape]: [Calculating the configurational entropy of a landscape mosaic](https://www.fs.fed.us/rm/pubs_journals/2016/rmrs_2016_cushman_s001.pdf) Samuel A. Cushman, Landscape Ecol (2016) 31:481–489, DOI 10.1007/s10980-015-0305-2
+
+[^social-media-with-exogenous-networks]: [Link Classification and Tie Strength Ranking in Online Social Networks with Exogenous Interaction Networks](https://arxiv.org/abs/1708.04030), M. Abufouda, K. Zweig, arXiv:1708.04030 [cs.SI] (2017)
+
+[^increasing-knowledge-worker-efficiency]: [Increasing Knowledge Worker Efficiency through a "Virtual Mirror" of the Social Network]()
+
+[^metaphoneme-inventory]: [A MetaPhoneme Inventory](http://citeseerx.ist.psu.edu/viewdoc/summary?doi=10.1.1.27.3796) (1999)
+
+[^metasyntactic-ability]: [Metasyntactic Ability in 12: An Investigation of Task Demand. Understanding Second Language Process](https://books.google.com/books?hl=en&lr=&id=dQWjeq-1CYAC&oi=fnd&pg=PA160&dq=metasyntactic+variables+linguistics&ots=pTHf1Ar2j8&sig=LGF8Xr8Y9b73Kiv27uT7fh9CSnI#v=onepage&q=metasyntactic%20variables%20linguistics&f=false) Simard, D. and Fortier, V. (2008). Clevedon: Multilingual Matters, pp.160-175.
+
 - TODO: capitalization rules for titles: argh wtf how many times?!
 
 - ![](/img/posts/2017-10-10-speed-of-thought-social-physics/)
@@ -31,14 +45,15 @@ excerpt: ""
   (see draft on ephemeral nature of language to understand adversarial
   design of language and signaling)
 
-- [Calculating the configurational entropy of a landscape mosaic](https://www.fs.fed.us/rm/pubs_journals/2016/rmrs_2016_cushman_s001.pdf)
-
 - in this section, use stadium metaphors
   - people behave differently in the shaded sections than in the
     hotter sections. this is the transduction of physical forms of
     energy to social forms of energy.
   - literally the wave. a GIF of the wave in a stadium.
-  - TODO: add notes from phone
+  - TODO: add notes from phone (well now it's stolen i'll never have
+    those ideas again, you just !@#$ed up a cure for cancer; MF's i was
+    gonna cure YOU.)
+
   - physical conditions => sociophysical conditions
     - how do weather conditions affect the players and the game?
     - how do weather conditions affect the home & visiting crowd
@@ -100,17 +115,18 @@ excerpt: ""
 
 #### &#x2605; [Sports Like Soccer Or Football Are Well-Defined Sociophysical Games](#sports-like-soccer-or-football-are-well-defined-sociophysical-games)
 
+- TODO: footnotes
 - TODO: pics
-  - for magnetic field lines
-  - for stadium to demonstrate maximal values in a physical field of attention
+  - pic for spacing
 - TODO: ensure TOC here is properly ordered
-  - sections on programs/particle
+  - add sections on programs/particle
+  - add section on equilibria
 
 ## [Postulates of Sociophysical Systems](#postulates-of-sociophysical-systems)
 
 #### &#8855; &#8710; &#8968;i&#8969; [There Are Infinitely Many Types of Sociophysical Energy Having Both Linear And Non-Linear Mechanics That Determine Their Equivalence and Interaction Dynamics](#there-are-infinitely-many-types-of-sociophysical-energy-having-both-linear-and-non-linear-mechanics-that-determine-their-equivalence-and-interaction-dynamics)
 
-#### &#8855; &#8710; &#8968;ii&#8969; [Mechanics of Social Interactions And Connections Are Physical and Logical, But Increasingly Virtualized](#mechanics-of-social-interactions-and-connections-are-physical-and-logical-but-increasingly-virtualized)
+#### X &#8855; &#8710; &#8968;ii&#8969; [Mechanics of Social Interactions And Connections Are Physical and Logical, But Increasingly Virtualized](#mechanics-of-social-interactions-and-connections-are-physical-and-logical-but-increasingly-virtualized)
 
 #### &#8855; &#8710; &#8968;iii&#8969; [Power Describes The Rate of Energy Fluxing Through Sociophysical Networks](#power-describes-the-rate-of-energy-fluxing-through-sociophysical-networks)
 
@@ -141,6 +157,12 @@ excerpt: ""
 #### &#8855; &#8710; &#8968;xvi&#8969; [Independence and Connectedness Can Be Measured In Sociophysical Network Topologies](#independence-and-connectedness-can-be-measured-in-sociophysical-network-topologies)
 
 #### &#8855; &#8710; &#8968;xvii&#8969; [Information In Holonic, Particle Form Exhibits Complicated Behavior Analogous To Entanglement](#information-in-holonic-particle-form-exhibits-complicated-behavior-analogous-to-entanglement)
+
+## Now With References... Scroll Down For Footnotes and Bibliography
+
+#### "Please, Sir, You Are Blocking The Light Of Mathematics"
+
+![Death of Archimedes](/img/posts/2017-10-10-speed-of-thought-social-physics/death-of-archimedes.jpg)
 
 There are countless aspects of life that ancient people understood
 more clearly than we do today. In many, standing on the shoulders of
@@ -451,7 +473,7 @@ yielding philosophic insights. They sharpen our inductive reasoning
 for social behavior and history, giving us options that will yield
 concrete scientific evidence. Most social systems modeled with
 physical components are incomputable, but computational social science
-is harnessing these ideas today.
+is harnessing these ideas today.[^pos-sensitive-propagation]
 
 - (cite study: about virtual/physical comm. networks)
 
@@ -560,8 +582,6 @@ framework starkly contrasts simple probabilistic models for social
 behavior with its focus on the spatial components and particle
 interactions.
 
-
-
 <a name="postulates-of-sociophysical-systems" />
 
 # [Postulates of Sociophysical Systems](#postulates-of-sociophysical-systems)
@@ -573,7 +593,9 @@ phenomena, by stubbornly clinging to some ideological modes (of ...)
 or by refusing to allow adaptation, we fall victim to Nietzche's
 danger of dangers.
 
-![Magnetic Field Lines]()
+#### Magnetic Field Lines From Two Adjacent Electromagnets
+
+![Magnetic Field Lines](/img/posts/2017-10-10-speed-of-thought-social-physics/magnetic-field-lines.jpg)
 
 Today, the world needs everyone on the same page. In order to operate
 cooperatively in more virtualized sociophysical systems, we must first
@@ -604,7 +626,9 @@ anyone know where you are? Is your behavior going to influence someone
 else's behavior? No. Without internet, your impact on the shared field
 of attention is nearly zero.
 
-![Stadium]()
+#### At The Center Of Action in a Sporting Event, Semblable Magnetism Aligns The Orientation Nearly Every Fan's Field of Vision
+
+![Hockey Stadium](/img/posts/2017-10-10-speed-of-thought-social-physics/hockey-stadium.jpg)
 
 Now imagine yourself at a concert or a football game. People exert
 influence on the shared field of attention with their focus. Their
@@ -689,23 +713,22 @@ to such a degree whereby the physical is almost secondary. The
 logically derived topologies, such as sociohierarchical structures and
 relationships, now matter more than ever.
 
-Superconnected communication infrastructure (manifests) novel
-conditions of possibility for sociophysical phenomena humanity has
-never encountered. Other phenomena will seem to be radical departures
-from dynamics
+Superconnected communication infrastructure evinces novel conditions
+of possibility for sociophysical phenomena humanity has never
+encountered. Other phenomena will seem to be radical departures from
+dynamics and mechanics we know and love in modernity. Therefore, our
+generations should begin conceptualizing their world primarily in
+terms of these logically and informationally derived spaces. Again,
+these tools for strategizing and managing human interactions have
+always existed in one form or another, but hidden from most. However,
+this purely physical world is no longer the one we live in, but if we
+do not retain our individuality, our humanity and our sense of
+purpose, nihilism will rapidly corrode through any system structure,
+no matter how antifragile.
 
-- but these are only
+#### CPU's Are like Metaphysical Copy and Paste
 
-Therefore, our generations should begin conceptualizing their world
-primarily in terms of these logically and informationally derived
-spaces. Again, these tools for strategizing and managing human
-interactions have always existed in one form or another, but hidden
-from most. However, this purely physical world is no longer the one we
-live in, but if we do not retain our individuality, our humanity and
-our sense of purpose, nihilism will rapidly corrode through any system
-structure, no matter how antifragile.
-
-![CPU Chip Fabrication]()
+![CPU Chip Fabrication](/img/posts/2017-10-10-speed-of-thought-social-physics/intel-cpu-wafer.jpg)
 
 What is the CPU? What does it represent? Mastery over physics and
 solid-state chemistry? Doesn't it also represent mastery over logic,
@@ -882,6 +905,12 @@ forms into someone's life -- then, they can attempt to sell the
 solution: projection of information forms intended to disrupt the
 disconnection. That's called a con.
 
+- change to the structure of ideas or to shape people's conception of
+  them
+  - history as a language of ideas we build upon
+  - controlling the truth allows you to constrain the form of context
+    in the minds of others
+
 <a name="agents-have-varying-degrees-of-autonomy-and-individual-definitions-of-energy-types" />
 
 ### &#8855; &#8710; &#8968;vi&#8969; [Agents Have Varying Degrees Of Autonomy and Individual Definitions Of Energy Types. They Share Traits, Such As Concurrency, Bandwidth and Physicality](#agents-have-varying-degrees-of-autonomy-and-individual-definitions-of-energy-types)
@@ -941,9 +970,7 @@ the scale of the universe for the first time.
 
 #### The Death of Archimedes
 
-> "Please, Sir, You Are Blocking The Light Of Mathematics"
-
-![Death of Archimedes](/img/posts/2017-10-10-speed-of-thought-social-physics/death-of-archimedes.png)
+![Death of Archimedes](/img/posts/2017-10-10-speed-of-thought-social-physics/death-of-archimedes.jpg)
 
 Agents react to these dynamics by artificially amplifying the
 perceived beliefs they want others to operate upon, proactively
@@ -1079,19 +1106,13 @@ transcend the Law of Nature. Humanity's conception of monotheistic God
 emerged from the collective unconscious, inspired by the desire to see
 one another as truly equal before an omnipotent, omniscient being.
 
-
-- change to the structure of ideas or to shape people's conception of
-  them
-  - history as a language of ideas we build upon
-  - controlling the truth allows you to constrain the form of context
-    in the minds of others
-
 <a name="social-circuitry-enables-sociophysical-energy-flows-where-the-superposition-principle-applies-to-circuit-and-network-topologies" />
 
 ### &#8855; &#8710; &#8968;xi&#8969; [Social Circuitry Enables Sociophysical Energy Flows, Where The Superposition Principle Applies Circuit and Network Topologies. All Exist Simultaneously](#social-circuitry-enables-sociophysical-energy-flows-where-the-superposition-principle-applies-to-circuit-and-network-topologies)
 
 - many networks superimposed onto other, more primary, phsyical and
   aphysical networks
+
 
 - this concept is really an extension of the idea of superposition of
   particle states to information networks which are composed of
@@ -1106,6 +1127,7 @@ one another as truly equal before an omnipotent, omniscient being.
     structure of all the "summed" networks.
     - here the "state" being summed over is all the possibilities of
       network topology...
+
 - these ideas need some work, but what this means is changes to flow
   in one network
   - e.g. you superimpose a million circuit diagrams on top of each
@@ -1149,10 +1171,110 @@ one another as truly equal before an omnipotent, omniscient being.
 - hyperspectral analysis
   - what would this be like for non-euclidian topologies like spectra
     derived from graphs & graph flows
+<a name="social-financial-and-other-energetic-flows-signal-interest-and-intent-via-frequency-magnitude-and-abstract-spectral-decomposition" />
+
+#### &#8855; &#8710; &#8968;xii&#8969; [Social, Financial and Other Energetic Flows Signal Interest and Intent Via Frequency, Magnitude and Abstract Spectral Decomposition](#social-financial-and-other-energetic-flows-signal-interest-and-intent-via-frequency-magnitude-and-abstract-spectral-decomposition)
+
+At the micro and macro level similar information dynamics facilitate
+inference via financial and social capital flows. In macroeconomics, a
+time-series, spectral and differential analysis of global financial
+capital flows indicates not only supply and demand, but long-term
+expectations of investors. On the micro-scale, investment of time and
+energy in short-term social interactions indicates their intent to
+continue investing in the relationship. In almost every situation,
+most people have something they'd rather be doing, especially when
+compared to interactions with people they don't know.
+
+If you're playing the numbers to maintain high velocity when
+networking, at various points in your first few conversations, prompt
+them with questions, jokes and microtasks requiring current or future
+investment of energy. Probe their upcoming plans, schedule and the
+like to identify outright exclusions: those questions wouldn't yield
+valid inferences in this context. It's important to sort your tests
+for reciprocal investment by energy and time requirements: start at
+the lower bound and increase as you establish rapport. One should
+avoid being distant and overly-calculating when using techniques like
+these. Still, they are good tests for gauging compatibility and
+chemistry via psychosocial valence. Sometimes people are looking for
+something, but not always. If you are, be pleasant and move on.
+
+The currency of all social success, IRL and online, is time, attention
+and mnemonic residue -- i.e. in the sense that, as you interact with
+people, you create memories together. These memories compose kinds of
+psychosocial artifact, accessible by your mind, which uses them to
+introspect, form narratives, and rank its content for
+emotionally-focused redirection of attention. To people, the relevance
+of psychosocial artifacts like memories are determined by frequency,
+density, novelty and emotional relevance. Minimal and maximal values
+for the above metrics can have a wide variety of impact on how people
+think about memories and stories.
+
+Newsfeed algorithms similarly rank digitized interaction artifacts:
+the more recent, novel or popular an artifact is, the more attention
+it is given. Why? This algorithm, in people and on newsfeeds, is based
+on an information graph with a temporal dimension -- it's time-series
+signals analysis build ontop of information and graph theory, instead
+of simply linear or non-linear spaces. When people create new content,
+it goes to the top of the stack. That's what other users see, think
+about and react to: it's a self-propelling dynamic, rendering these
+algorithms more susceptible to feedback loops.
+
+#### Cross This Streamgraph Visualization With Graph Theory and Simply Fourier Transform
+
+- ![Streamgraph Visualization](/img/posts/2017-10-10-speed-of-thought-social-physics/viz-streamgraph.png)
+
+When there is a total vacuum of these artifacts, our brains search for
+information about categories of people, places, ideas and things to
+fill in the gap. If someone else wanted to write your story for you,
+these void is easy to fill in. For a group that might actually
+conspire to do so, isn't that convenient? It means signals of
+disinformation they might project don't need to be amplified, since
+they are already consumed and internalized disproportionally to be
+reflected through society, which has a similar ergegorical need to
+satiate that void. This particular psychosocial dynamic for
+categorical information is strongly driven by information economics.
+Both in people and in social groups, whose lack of supply sometimes
+increases demand, especially for tasty morsels of virally designed
+information.
+
+Before that void was filled, have you contributed to the spectral
+content of that category's information distribution? Here, spectral
+content means the associations that can be formed and attached
+particular category or microcategory of information. When that void is
+filled, what can you do about the distribution of information?  Almost
+nothing: the iotas -- references to information -- have already been
+digitally, neurologically and physically distributed. The more viral,
+the wider the dissemination of information. The more people want to
+destroy you, the more that information economics drives them to shop
+around for secrets to undermine you. These disseminated iota requires
+an inordinate amount of energy to undo.
+
+<!-- Unfortunately I was loud about aspects of life that I couldn't
+     know to suppress, since I didn't understand how people interact.
+     However, in the past five years, I have had quantifiably minimal
+     interaction with people. My entire adult life -- the past ten
+     years or so -- any information about me has been profoundly
+     distorted and I have been systematically excluded from nearly any
+     type of social group, initiated and perpetuated by the
+     manipulative actions of five to ten people. I had so little
+     chance to know and respond to things -- and I was so constantly
+     muted -- that I adapted the coping mechanism of crafting negative
+     information about myself to be *more viral*, so I could trap
+     people by suggesting something tangential to some subject I knew
+     people would use to further tarnish my reputation, since that is
+     the only time anyone ever paid attention to me. Per the usual, I
+     could count on anything against my favor being amplified and
+     coming back to nail me; anything else was strongly muted. This is
+     a terrible coping mechanism, especially for someone who has
+     high-functioning autism. At no time did anyone who indirectly
+     assessed my psychology for torture take this or other obvious
+     things into account. It was all about using occult psychology to
+     imbue me with as many negative traits/complexes/behaviors/habits
+     as possible. -->
 
 <a name="disruption-of-connections-and-interactions-alters-flow-of-energy-and-power-physically-logically-and-virtually" />
 
-#### &#8855; &#8710; &#8968;xiii&#8969; [Social, Financial and Other Energetic Flows Signal Interest and Intent Via Frequency, Magnitude and Abstract Spectral Decomposition](#social-financial-and-other-energetic-flows-signal-interest-and-intent-via-frequency-magnitude-and-abstract-spectral-decomposition)
+#### &#8855; &#8710; &#8968;xiii&#8969; [Disruption of Connections & Interactions Alters Flow Of Energy & Power, Physically, Logically and Virtually](#disruption-of-connections-and-interactions-alters-flow-of-energy-and-power-physically-logically-and-virtually)
 
 - (here, focus on imagery related to electrical systems)
 
@@ -1181,6 +1303,24 @@ one another as truly equal before an omnipotent, omniscient being.
 - directionality of power flows
   - one way & two way directions of comm. protocols (diodes)
 
+#### A Heatmap of Combinitorialized Signal Sources, With Hierarchical Relationships Forming One Basis For A First-Order Transvaluation
+
+<!-- I like to think in pictures and images -->
+
+![Heatmap of Combinitorialized Signal Sources](/img/posts/2017-10-10-speed-of-thought-social-physics/viz-heatmap.png)
+
+- apply gradients/laplacian to the above
+  - describe informational spectra as being capable of forming a basis
+    for this
+
+- laplacian of these flows and their aggregates, geographically &
+  logically, indicate intent
+  - games built upon these mechanics
+
+- hyperspectral analysis
+  - what would this be like for non-euclidian topologies like spectra
+    derived from graphs & graph flows
+
 <a name="even-when-invisible-intent-is-signified-and-clarified-by-parallel-antiparallel-and-orthogonal-orientations-of-motion-as-they-relate-to-laplacian-of-high-dimensional-surfaces" />
 
 #### &#8855; &#8710; &#8968;xiv&#8969; [Even When Invisible, Intent is Signified And Clarified By Parallel, Anti-Parallel and Orthogonal Orientations of Motion As They Relate to Laplacian of High-Dimensional Surfaces](#even-when-invisible-intent-is-signified-and-clarified-by-parallel-antiparallel-and-orthogonal-orientations-of-motion-as-they-relate-to-laplacian-of-high-dimensional-surfaces)
@@ -1191,6 +1331,60 @@ one another as truly equal before an omnipotent, omniscient being.
     highlight cognizance of intent
 
 - (Cut in content/ideas from facets: systems theory draft)
+
+#### I Live In A World Where Those Who Can't or Won't Talk To Me Are My Friends
+
+![Double Door Logic Paradox](/img/posts/2017-10-10-speed-of-thought-social-physics/)
+
+#### Parallel, AntiParallel and Orthoganal Coupling In Motion Towards The Attainment of Equilibrium Unveils Nearly All Deception
+
+- someone with a goal in mind will tend to move TOWARDS or AWAY from
+  it when signalling. if they don't feel the need to deceive you, they
+  won't fake you out my amplifying signal that conveys moving AWAY
+  from some intended area of equilibrium
+- someone who lacks an agenda or with few goals will exhibit something
+  like brownian motion extended to these high-dimensional spaces
+  - there is little intentional motion or it's clear to see they are
+    concerned about their own life. their behavior isn't highly or
+    loosely coupled to you
+  - duplicitously justified behavior, random behavior and proactive
+    behavior is critical to winning these high-dimensional,
+    (poorly-defined) sociophysical games
+    - that is, this adversary will deconstruct their strategies into
+      duplicities tactics. they will smash their intent and strategy
+      into fragments and shards, then force their will into agents
+      they control,
+      - who are ideally acting zealously or righteously towards the
+        attainment of these fragments
+      - these agents are encouraged to compete vigorously
+      - these agents often do not or can't see through the duplicity
+    - in order to win, you play both sides against one another
+      vigorously, deconstructing your plan into pieces, avoiding the
+      need to even deflect causal inference by making everything a lie
+      - when someone starts getting close to the truth, the stark
+        contrast between that truth and the sea of disinformation
+        gives you the smoke that indicates fire
+
+### &#8855; &#8710; &#8968;####&#8969; Equilibria in Social Games
+
+
+- content from "facets: systems-theory"
+  - this content is poorly outlined. where else do i have this?
+- this section is mostly about leveraging physics/math concepts to
+  proactively provoke potential adversaries to reveal & attempt to
+  conceal information, including their intent
+  - mostly on #12, #13, and #14
+
+#### Equilibrium and Intended Equilibrium
+
+-
+
+#### Simple Distinguishing Factor Underlying Human Behavior
+
+
+
+#### "Fighting Shadows" or Defending Against "Hall of Mirrors"
+
 
 
 <a name="the-evolutionary-dynamics-of-social-physics-build-upon-antifragility-and-the-ideas-of-programs-in-chaos" />
@@ -1476,12 +1670,73 @@ what your mind is made of.
 
 ### &#8855; &#8710; &#8968;xvi&#8969; [Independence and Connectedness Can Be Measured In Sociophysical Network Topologies](#independence-and-connectedness-can-be-measured-in-sociophysical-network-topologies)
 
+Social isolation correlates strongly with vulnerability, poverty,
+mental illness and the inability to tap into local economic
+opportunities.
+
+- in space, no one can hear you scream.
+- isolated individuals are more likely to quit or be fired at jobs
+  - if someone systematically attacks your social connections or
+    alters the frame of people in your 1&deg; and 2&deg; social
+    boundaries, it severely constricts your options and level of
+    awareness your friends and family have of your life.
+    - when you are extremely isolated and something wonderful or
+      traumatic happens in your life, no one will know.
+      - you completely lose the network effect in life.
+    - social networks and interactions should be
+
+Isolation causes or exacerbates mental illness. When isolation
+is protracted, it severly restricts their medium and long-term mental
+states via constriction of variety of experience and inbound social
+signal. It shrouds people in a
+[fog of war](https://en.wikipedia.org/wiki/Fog_of_war). If it really
+does severly impact quality of life, couldn't we reduce unnecessary
+budget deficits through means such as removing large drains on
+publicly or privately financed healthcare. It can definitely make a
+difference. However, iatrogenic treatment has caused horrible
+consequences in my own life.
+
+- blurb about abusive relationships
+
+This particular postulate should be considered axiomatic.
+
 - social isolation/connectedness (in/dependence and vulnerability)
 - this isn't really something considering almost axiomatic, which
   definitely describes the other two...
 - third: social isolation is quantifiable and almost always correlates
   with power. more isolated, less empowered.
   - isolated individuals are more susceptable to manipulation
+
+The impact on connectedness and digital communications were quantified
+in this 2013 paper from Cisco and MIT. Though "there did not seem to
+be individuals on the extreme periphery of the network", those
+employees interested in the study seemed to outperform on
+*quantifyable* metrics.[^increasing-knowledge-worker-efficiency]
+
+> [Employees who abstained from participation] did not see the need to
+> participate in the study, and whose network was captured by being
+> mentioned by others, would actually have had the biggest need to be
+> made aware of their networking deficiencies.
+
+#### Power *FROM* The People
+
+- This
+  [Revolution of Empowerment](https://github.com/dcunited001/dcunited001.github.io/blob/sources/_drafts/our-revolution-of-empowerment-engineering-diffusion-of-influence.md)
+  is a manifesto on using social physics informed by ethics, utility,
+  purpose and values. It's been nearly finished for about eight months
+  now. It covers use social physics driven by data-science to
+  *EMPOWER* people, instead of crippling them, terrifying them and,
+  worst of all, fueling surveillance-informed psychological
+  torture. Utopian applications of social engineering *always* sound
+  so promising on paper, but what we have in America is technology
+  driven by malice, fear and paranoia: hardly what social physics
+  *could do* for the average person. For most of those in poverty, the
+  entire course and cause of their plight, could they simply be
+  empowered with what we are all born with: the potential to leverage
+  sociophysical energy to transform our surroundings. As someone with
+  libertarian-leaning ideas on civil rights, privacy and
+  data-ownership, I hesitate to enable the government in this regard
+  because even the best intentions go horribly awry.
 
 - social isolation can be measured, given some "normal" facebook
   user's 2-degree graph of friends for some definition of normal
@@ -1695,3 +1950,7 @@ prevalence of...?
 
 
 # [I Want To Inspire A Phase Change Across The Functional Fabric of Reality]()
+
+
+
+

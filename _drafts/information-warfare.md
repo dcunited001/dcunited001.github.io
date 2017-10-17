@@ -333,6 +333,17 @@ headline: "Informational Territory > Sociohierarchical Territory > Economic Terr
                   - i don't give a shit about what they do to me or
                     what they say about me, because that poison-pen
                     information is already out there.
+  - filtered content w/ 'shadowlisted' domain names or URLS in FB
+    comments *may* be circumvented for content with 'shadowbanned'
+    URLS by posting a facebook comment w/o it, waiting about (5 - 30)
+    seconds and then editing the link in
+    - this takes advantage of the immutability of stream processing
+      data. at least, the content should initially proceed through the
+      pipeline without being tanked for containing a 'shadowlisted'
+      domain name.
+      - post facto, the newsfeed algorithms *may* then take these
+        URL's & etc into account, but a second event (the comment
+        edit) now has to complicate the stream processing
 
 #### Spectral De/coherence
 

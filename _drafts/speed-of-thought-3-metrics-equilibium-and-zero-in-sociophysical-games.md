@@ -1,5 +1,5 @@
 ---
-title: "The Speed of Thought: Metrics, Equilibrium and Zero in Sociophysical Games"
+title: "The Speed of Thought: Metrics, (Equilibrium) and Zero in Sociophysical Games"
 categories: "blog"
 tags: ""
 headline: ""
@@ -7,8 +7,6 @@ author:
   name: "David Conner"
 excerpt: ""
 ---
-
-
 
 - emphasize that the only way to predict social behavior in todays
   world is by proactively driving patterns of behavior
@@ -236,7 +234,6 @@ defined in infinitely many ways.
     - this is a generic measure of energy. what are some specific
       examples of applying this idea to sociophysical systems?
 
-
 ### Information Network Flux Dynamics
 
 - the quantity, qualities and dynamics of information flux networks.
@@ -315,62 +312,6 @@ defined in infinitely many ways.
 
 
 # Equilibrium, Gradient and Laplacian in (poorly defined) Sociophysical Games
-
-- content from "facets: systems-theory"
-  - this content is poorly outlined. where else do i have this?
-- this section is mostly about leveraging physics/math concepts to
-  proactively provoke potential adversaries to reveal & attempt to
-  conceal information, including their intent
-  - mostly on #12, #13, and #14
-
-### High-Dimensional and Spectral Representations of Information
-
-- how can people who don't understand the math understand these
-  concepts?
-  - it's fairly easy, since we all have to understand them to live in
-    a social environment
-  - i need some allusions and allegories to commonly understood
-    concepts
-
-### Equilibrium and Intended Equilibrium
-
--
-
-### Parallel, AntiParallel and Orthoganal Coupling In Motion Towards The Attainment of Equilibrium Unveils Nearly All Deception
-
-- someone with a goal in mind will tend to move TOWARDS or AWAY from
-  it when signalling. if they don't feel the need to deceive you, they
-  won't fake you out my amplifying signal that conveys moving AWAY
-  from some intended area of equilibrium
-- someone who lacks an agenda or with few goals will exhibit something
-  like brownian motion extended to these high-dimensional spaces
-  - there is little intentional motion or it's clear to see they are
-    concerned about their own life. their behavior isn't highly or
-    loosely coupled to you
-  - duplicitously justified behavior, random behavior and proactive
-    behavior is critical to winning these high-dimensional,
-    (poorly-defined) sociophysical games
-    - that is, this adversary will deconstruct their strategies into
-      duplicities tactics. they will smash their intent and strategy
-      into fragments and shards, then force their will into agents
-      they control,
-      - who are ideally acting zealously or righteously towards the
-        attainment of these fragments
-      - these agents are encouraged to compete vigorously
-      - these agents often do not or can't see through the duplicity
-    - in order to win, you play both sides against one another
-      vigorously, deconstructing your plan into pieces, avoiding the
-      need to even deflect causal inference by making everything a lie
-      - when someone starts getting close to the truth, the stark
-        contrast between that truth and the sea of disinformation
-        gives you the smoke that indicates fire
-
-### Simple Distinguishing Factor Underlying Human Behavior
-
-
-
-### "Fighting Shadows" or Defending Against "Hall of Mirrors"
-
 
 
 # Zero in Social Physics
