@@ -1111,8 +1111,7 @@ one another as truly equal before an omnipotent, omniscient being.
 ### &#8855; &#8710; &#8968;xi&#8969; [Social Circuitry Enables Sociophysical Energy Flows, Where The Superposition Principle Applies Circuit and Network Topologies. All Exist Simultaneously](#social-circuitry-enables-sociophysical-energy-flows-where-the-superposition-principle-applies-to-circuit-and-network-topologies)
 
 - many networks superimposed onto other, more primary, phsyical and
-  aphysical networks
-
+  aphysical networks.
 
 - this concept is really an extension of the idea of superposition of
   particle states to information networks which are composed of
@@ -1138,6 +1137,16 @@ one another as truly equal before an omnipotent, omniscient being.
 - this seems very similar to ideas from quantum computing circuit
   diagrams.
 
+#### (controlling more abstract sociophysical circuitry)
+
+- this is another reason why spectral coherence is so important:
+  control the belief systems/structures of agents and the
+  superposition of social circuit topology sums over topologies with
+  less structural entropy.
+  - amplitude of signal across social graph edges.
+    - generally a good metadata signal
+  - window function X spectral decomposition
+
 #### Scientology ["OSA" Operation](https://www.villagevoice.com/2011/07/13/scientologys-spy-program-anatomy-of-a-covert-operation-updated/) To Alter The Sociocircuitry Around An SP's Social Boundary
 
 ![A Simple OSA Operation To Destroy The Life Of And Individual](/img/posts/2017-10-10-speed-of-thought-social-physics/scientology-disconnection-diagram.jpg)
@@ -1152,14 +1161,8 @@ the individuals in the boundary, project disinformation, use NLP to
 alter the frames of their friends and family and, for a finishing
 touch, abuse covert hypnosis[^metaphoneme-inventory] without regard
 for the widespread damage you do to society. Bastardize linguistics by
-randomly remapping
-[metasyntactic variables](https://en.wikipedia.org/wiki/Metasyntactic_variable)
-and flagrantly disregard the common human decency of *asking someone*
-to **consent** to _psychological rape_. When abused, this stuff will
-ruin your mind. And if you displease these people, they will _not_
-leave your mind in tact. It took me forever to figure out what this
-means: !@#$'ing nothing... unless they semiotically map it to a "key"
-on your "control interface."
+flagrantly disregard the common human decency of *asking someone* to
+**consent** to _psychological rape_.
 
 #### Step Two: Brainwash The Person and People You Targeted
 
@@ -1176,9 +1179,17 @@ critical mass of the network effect, it becomes cheap projecting
 energy through decentralized hierarchies of catspaws. Any religion
 must give its followers a mission. Any information collected in
 "auditing" sessions becomes fodder for open season on fair game, the
-best hunting and fishing for growing the network.
+best hunting and fishing for growing the
+network.
 
-#### Metaphonology[^metaphoneme-inventory] and Metasyntactic Variables[^metasyntactic-ability] ... ClickClick. Doom.
+#### Allen Ginsberg - Howl - *"MOLOCH"*
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/x-P2fILsLH8" frameborder="0" allowfullscreen></iframe>
+
+When abused, this stuff will ruin your mind. And if you displease
+these people, they will _not_ leave your mind in tact.
+
+#### What Surveillance? I've Been Trying To Say This Shit For Almost THREE YEARS!
 
 By the time you know that Scientology wants to get involved in your
 life, it's way too late. They have likely already invested in
@@ -1188,16 +1199,6 @@ problem with you they will never talk to you about it: that's pretty
 simple, isn't it? This planet moves forward together -- I wanted to
 make one goddamn point about disconnection and I didn't actually want
 anything to happen.
-
-#### (controlling more abstract sociophysical circuitry)
-
-- this is another reason why spectral coherence is so important:
-  control the belief systems/structures of agents and the
-  superposition of social circuit topology sums over topologies with
-  less structural entropy.
-  - amplitude of signal across social graph edges.
-    - generally a good metadata signal
-  - window function X spectral decomposition
 
 #### Open Your Eyes, Morty!
 
@@ -1253,7 +1254,7 @@ algorithms more susceptible to feedback loops.
 
 #### Cross This Streamgraph Visualization With Graph Theory and Simply Fourier Transform
 
-- ![Streamgraph Visualization](/img/posts/2017-10-10-speed-of-thought-social-physics/viz-streamgraph.png)
+![Streamgraph Visualization](/img/posts/2017-10-10-speed-of-thought-social-physics/viz-streamgraph.png)
 
 When there is a total vacuum of these artifacts, our brains search for
 information about categories of people, places, ideas and things to
