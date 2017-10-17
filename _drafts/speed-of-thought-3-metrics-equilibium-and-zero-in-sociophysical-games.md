@@ -375,8 +375,7 @@ defined in infinitely many ways.
 
 # Zero in Social Physics
 
-    
-
+> *~* You are the five people you spend the most time with *~*
 
 ### Using Social Physics to Contain/Promote People and Ideas
 

@@ -292,6 +292,7 @@ include subjects for theme ideas? how to format the list?
 - unrequited love.  ahhh, unrequited love lmao
 - forbidden love (a la romeo and juliet .. !@#$ $@# montagues)
 - is true love conditional?
+- tragic romantic cynicism
 
 ### mortality
 
