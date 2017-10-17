@@ -21,7 +21,7 @@ Sociophysical systems exhibit a wide array of behavior that can be modeled with 
 
 #### &#x03D5; [Sociophysical Mechanics Are Now Predominantly Virtualized](#sociophysical-mechanics-are-now-predominantly-virtualized)
 
-#### &#x03D5; [Memes, Datums and Iotas](#memes-datums-and-iotas)
+#### &#x03D5; [Memes, Datums and Iota](#memes-datums-and-iota)
 
 #### &#x03D5; [Holons and the Holonome](#holons-and-the-holonome)
 
@@ -121,9 +121,9 @@ information. So, the geometry and structure of the information itself
 as it fits into its contexts determines its motion along virtual
 channels.
 
-<a name="memes-datums-and-iotas" />
+<a name="memes-datums-and-iota" />
 
-### [Memes, Datums and Iotas](#memes-datums-and-iotas)
+### [Memes, Datums and Iota](#memes-datums-and-iota)
 
 In this series, meme refers to something between a unit of cultural
 information and a unit of its transmission. A datum, which can
@@ -281,14 +281,14 @@ retransmitted by routers without final delivery. For knowledge, this
 TTL is related to the number of probable hosts or physical
 representations and the probabilities of events where such
 representations are retransmitted. As time continues onwards, these
-probabilities fluctuate, as do the number of retained hosts, iotas and
+probabilities fluctuate, as do the number of retained hosts, iota and
 datum representations. In some cases, when information itself is lost,
 it can be later reconstituted and repersisted from its parts.
 
 People respond in different ways to datums, arising from traits such
 as virility or vociferousness. These aspects drive expansion in the
-datums' lineage of iotas, which are seeded into hosts. The more
-expansive the distribution of iotas and the more frequently they're
+datums' lineage of iota, which are seeded into hosts. The more
+expansive the distribution of iota and the more frequently they're
 expressed in communication, the higher their degree of consensus among
 hosts. Those datums linked to natural phenomena or semiotically
 connected to cultural universals are innately amplified by being in
@@ -349,7 +349,7 @@ information. To purge any records with certainty meant locating them
 without raising alarm. After the printing press, both the copies of
 information and the frequency by which records were published
 increased by orders of magnitude, requiring strict control over the
-production of physical iotas.
+production of physical iota.
 
 <a name="the-eudaimonic-symphony-of-being-humanity" />
 
