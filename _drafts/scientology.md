@@ -1,5 +1,9 @@
 
 
+[^metaphoneme-inventory]: [A MetaPhoneme Inventory](http://citeseerx.ist.psu.edu/viewdoc/summary?doi=10.1.1.27.3796) (1999)
+
+[^metasyntactic-ability]: [Metasyntactic Ability in 12: An Investigation of Task Demand. Understanding Second Language Process](https://books.google.com/books?hl=en&lr=&id=dQWjeq-1CYAC&oi=fnd&pg=PA160&dq=metasyntactic+variables+linguistics&ots=pTHf1Ar2j8&sig=LGF8Xr8Y9b73Kiv27uT7fh9CSnI#v=onepage&q=metasyntactic%20variables%20linguistics&f=false) Simard, D. and Fortier, V. (2008). Clevedon: Multilingual Matters, pp.160-175.
+
 
 #### Scientology ["OSA" Operation](https://www.villagevoice.com/2011/07/13/scientologys-spy-program-anatomy-of-a-covert-operation-updated/) To Alter The Sociocircuitry Around An SP's Social Boundary
 

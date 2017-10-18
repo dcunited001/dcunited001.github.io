@@ -16,11 +16,9 @@ excerpt: ""
 
 [^social-media-with-exogenous-networks]: [Link Classification and Tie Strength Ranking in Online Social Networks with Exogenous Interaction Networks](https://arxiv.org/abs/1708.04030), M. Abufouda, K. Zweig, arXiv:1708.04030 [cs.SI] (2017)
 
-[^increasing-knowledge-worker-efficiency]: [Increasing Knowledge Worker Efficiency through a "Virtual Mirror" of the Social Network]()
+[^increasing-knowledge-worker-efficiency]: [Increasing Knowledge Worker Efficiency through a "Virtual Mirror" of the Social Network](https://arxiv.org/abs/1308.1162), Stori Hybbeneth, Dirk Brunnberg, Peter A. Gloor, arXiv:1308.1162 [cs.SI] (2013)
 
-[^metaphoneme-inventory]: [A MetaPhoneme Inventory](http://citeseerx.ist.psu.edu/viewdoc/summary?doi=10.1.1.27.3796) (1999)
-
-[^metasyntactic-ability]: [Metasyntactic Ability in 12: An Investigation of Task Demand. Understanding Second Language Process](https://books.google.com/books?hl=en&lr=&id=dQWjeq-1CYAC&oi=fnd&pg=PA160&dq=metasyntactic+variables+linguistics&ots=pTHf1Ar2j8&sig=LGF8Xr8Y9b73Kiv27uT7fh9CSnI#v=onepage&q=metasyntactic%20variables%20linguistics&f=false) Simard, D. and Fortier, V. (2008). Clevedon: Multilingual Matters, pp.160-175.
+[^graph-based-time-series-analysis]: [Visibility Graph Based Time Series Analysis](https://doi.org/10.1371/journal.pone.0143015) Stephen Mutua, Gu C, Yang H, PLoS ONE10(11): e0143015 (2015)
 
 - TODO: capitalization rules for titles: argh wtf how many times?!
 
@@ -1159,10 +1157,10 @@ entertaining in my heart.
 Simply identify an individual's 1&deg; & 2&deg social boundary. Target
 the individuals in the boundary, project disinformation, use NLP to
 alter the frames of their friends and family and, for a finishing
-touch, abuse covert hypnosis[^metaphoneme-inventory] without regard
-for the widespread damage you do to society. Bastardize linguistics by
-flagrantly disregard the common human decency of *asking someone* to
-**consent** to _psychological rape_.
+touch, abuse covert hypnosis without regard for the widespread damage
+you do to society. Bastardize linguistics by flagrantly disregard the
+common human decency of *asking someone* to **consent** to
+_psychological rape_.
 
 #### Step Two: Brainwash The Person and People You Targeted
 
@@ -1311,9 +1309,16 @@ an inordinate amount of energy to undo.
 
 - (here, focus on imagery related to electrical systems)
 
-- imagine time series analysis of the above pictures time-domain
+- imagine time series analysis  time-domain
   signals and spectral-domain arrangements and combinatorially
   permuted functional domains
+
+#### Time Series Convolution and Correlation
+
+![](signal-convolution-and-correlation.png)
+
+For 
+
   - Under most conditions, the Fourier Transform is a linear operator
     and so is the differential operator. This means their application
     in most circumstances is associative and commutative.
@@ -1753,23 +1758,23 @@ employees interested in the study seemed to outperform on
 
 #### Power *FROM* The People
 
-- This
-  [Revolution of Empowerment](https://github.com/dcunited001/dcunited001.github.io/blob/sources/_drafts/our-revolution-of-empowerment-engineering-diffusion-of-influence.md)
-  is a manifesto on using social physics informed by ethics, utility,
-  purpose and values. It's been nearly finished for about eight months
-  now. It covers use social physics driven by data-science to
-  *EMPOWER* people, instead of crippling them, terrifying them and,
-  worst of all, fueling surveillance-informed psychological
-  torture. Utopian applications of social engineering *always* sound
-  so promising on paper, but what we have in America is technology
-  driven by malice, fear and paranoia: hardly what social physics
-  *could do* for the average person. For most of those in poverty, the
-  entire course and cause of their plight, could they simply be
-  empowered with what we are all born with: the potential to leverage
-  sociophysical energy to transform our surroundings. As someone with
-  libertarian-leaning ideas on civil rights, privacy and
-  data-ownership, I hesitate to enable the government in this regard
-  because even the best intentions go horribly awry.
+This
+[Revolution of Empowerment](https://github.com/dcunited001/dcunited001.github.io/blob/sources/_drafts/our-revolution-of-empowerment-engineering-diffusion-of-influence.md)
+is a manifesto on using social physics informed by ethics, utility,
+purpose and values. It's been nearly finished for about eight months
+now. It covers use social physics driven by data-science to *EMPOWER*
+people, instead of crippling them, terrifying them and, worst of all,
+fueling surveillance-informed psychological torture. Utopian
+applications of social engineering *always* sound so promising on
+paper, but what we have in America is technology driven by malice,
+fear and paranoia: hardly what social physics *could do* for the
+average person. For most of those in poverty, the entire course and
+cause of their plight, could they simply be empowered with what we are
+all born with: the potential to leverage sociophysical energy to
+transform our surroundings. As someone with libertarian-leaning ideas
+on civil rights, privacy and data-ownership, I hesitate to enable the
+government in this regard because even the best intentions go horribly
+awry.
 
 - social isolation can be measured, given some "normal" facebook
   user's 2-degree graph of friends for some definition of normal
@@ -1834,11 +1839,18 @@ employees interested in the study seemed to outperform on
     groups of people can become silenced or disenfranchised without
     even knowing it.
 
-### &#8855; &#8710; &#8968;####&#8969; [For The Efficient and Pragmatic Assertion of Behavior and Intent, (Nothing) Is More Useful Than Sociophysical Configuration Entropy]()
+### &#8855; &#8710; &#8968;####&#8969; [For The Efficient and Pragmatic Assertion of Behavior and Intent, Sociophysical Configuration Entropy is Nearly Unparalleled](#for-the-efficient-and-pragmatic-assertion-of-behavior-and-intent-sociophysical-configuration-entropy-is-nearly-unparalleled)
 
-- in genetic systems, patterns of change and entropy in
-  configurational and conformational distributions dilineates genetic
-  programs.
+- cite: []
+
+In thermodynamic, biophysical and genetic systems, patterns of change
+and entropy in configurational and conformational distributions
+provide a metric measuring complex similarity metatypes of programs in
+chaos. Using this, one can dilineate genetic programs and other
+complex non-deterministic systems. Moreover, a formulation of this
+metric *could provide a kind of digital signature*. It's design would
+diverge from traditional digital signature methods and would likely
+only serve to identify the nature and type of a program.
 
 - need to review the concepts here:
   - conformation space are the probabilities of seeing particular
@@ -1847,9 +1859,64 @@ employees interested in the study seemed to outperform on
     distribution of conformations)
   - configuration space has more to do with valid and realistic
     arrangements of molecule types throughout a system.
-    -
 
-prevalence of...?
+#### Does This Go Gamestate Look Random? Is Any Gamestate Random?
+
+![Go Game Board](/img/posts/2017-10-10-speed-of-thought-social-physics/go-game-board.png)
+
+For games like Go or Chess, can natural gamestates be sampled from a
+uniform distribution of gamestates? Why would this deviate
+significantly from the set of gamestates in novice or pro games? So a
+probability distribution over the set of all gamestates should be
+mostly sparse. Why is this? Because the moves that players choose are
+tightly coupled the rules of the game. Metrics of similarity for
+gamestates provided the basis for dilineation of functionally similar
+gamestates that provided the basis for information compression in the
+recent Go algorithm, enabling the game to be solved much sooner than
+anticipated.
+
+<!-- i "allegedly" talked to tatiana about the pythagorean triples
+     problem. the major advancement enabling both Go and the
+     [Boolean Pythagorean Triples](https://en.wikipedia.org/wiki/Boolean_Pythagorean_triples_problem)
+     problem was the usage of information compression to condense the
+     problem spaces.
+
+     e.g. for Pyth triples:
+       - 3^2 + 4^2 = 5^2
+       - 2*(3^2 + 4^2 = 5^2)
+
+     .... hmmmm, that's actually not true, so it's another
+     inconsistency. am i remembering my triggered memory correctly?
+     paul vasquez made it clear i was not to write about meeting
+     her... but never why.
+
+     but an article about the solution triggered dejavu and the
+     solution does use information compression. other triggered
+     memories involving math problems include menger sponge volume
+     (0), matroids (the marriage problem), birdman 3D stereoscopic
+     video composition (filming at the time, w/ change order in 2013),
+     nucleotide edit distance, gravitational wave detection (from dual
+     black hole event, though that's obvious) and others. it was like
+     an IQ test after the menger sponge question.
+
+     strange that i was never aware of most of this stuff. i would see
+     an image and recall things i had never thought about before. only
+     a few of the memories would provide me with insights about
+     knowledge i could be certain was *correct* and did not exist
+     within me. other times, there were many inconsistencies and facts
+     would be incorrect, where i made dumbass mistakes, which i was
+     stupidly overconfident about and only later discovered i was
+     wrong.
+
+     -->
+
+When people seat themselves at tables for a meal, they choose a seat
+one at a time. Those arriving
+
+algorithmic decision-making processes) for choosing your
+position.
+  - this is the kind of stuff everyone learns about life by age 8. I
+    needed to resort to thermodynamics to understand.
 
 - as a sociophysical system progresses, you can keep track of the
   amount of time specific "molecular" configurations of participants
