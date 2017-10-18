@@ -12,6 +12,8 @@ excerpt: ""
 
 [^pos-sensitive-propagation]: [Position-sensitive propagation of information on social media using social physics approach](https://arxiv.org/abs/1706.00569), Ishii A., Mizuno T., Kawahata Y., arXiv:1706.00569 [physics.soc-ph] (2017)
 
+[^interaction-and-influence]: [A multilayer network dataset of interaction and influence spreading in a virtual world], J. Jankowski, R. Michalski, P. Bródka, arXiv:1702.06373 [cs.SI] DOI [10.1038/sdata.2017.144](https://doi.org/10.1038/sdata.2017.144) (2017)
+
 [^configuration-entropy-of-a-landscape]: [Calculating the configurational entropy of a landscape mosaic](https://www.fs.fed.us/rm/pubs_journals/2016/rmrs_2016_cushman_s001.pdf) Samuel A. Cushman, Landscape Ecol (2016) 31:481–489, DOI 10.1007/s10980-015-0305-2
 
 [^social-media-with-exogenous-networks]: [Link Classification and Tie Strength Ranking in Online Social Networks with Exogenous Interaction Networks](https://arxiv.org/abs/1708.04030), M. Abufouda, K. Zweig, arXiv:1708.04030 [cs.SI] (2017)
@@ -19,6 +21,7 @@ excerpt: ""
 [^increasing-knowledge-worker-efficiency]: [Increasing Knowledge Worker Efficiency through a "Virtual Mirror" of the Social Network](https://arxiv.org/abs/1308.1162), Stori Hybbeneth, Dirk Brunnberg, Peter A. Gloor, arXiv:1308.1162 [cs.SI] (2013)
 
 [^graph-based-time-series-analysis]: [Visibility Graph Based Time Series Analysis](https://doi.org/10.1371/journal.pone.0143015) Stephen Mutua, Gu C, Yang H, PLoS ONE10(11): e0143015 (2015)
+
 
 - TODO: capitalization rules for titles: argh wtf how many times?!
 
@@ -136,27 +139,37 @@ excerpt: ""
 
 #### X &#8855; &#8710; &#8968;vii&#8969; [To Hedge Against Domain Complexity, Agents Amplify Perceived Beliefs And Interact In Other Ways](#to-hedge-against-domain-complexity-agents-amplify-perceived-beliefs)
 
-#### &#8855; &#8710; &#8968;viii&#8969; [For Timescales Both Small and Large, Each Agent's State and Context Is Constructed From Their Sum Of Experience Via Directed Focus](#each-agents-state-and-context-is-constructed-from-their-sum-of-experience-via-directed-focus)
+#### &#8855; &#8710; &#8968;viii&#8969; [Spectral Coherence of Knowledge, Information and Agent Context Strongly Influences Conceptualization and Anticipation](#spectral-coherence-of-knowledge-information-and-agent-context-strongly-influences-conceptualization-and-anticipation)
 
-#### &#8855; &#8710; &#8968;ix&#8969; [Spectral Coherence of Knowledge, Information and Agent Context Strongly Influences Conceptualization and Anticipation](#spectral-coherence-of-knowledge-information-and-agent-context-strongly-influences-conceptualization-and-anticipation)
+#### &#8855; &#8710; &#8968;ix&#8969; [Social Circuitry Enables Sociophysical Energy Flows, Where The Superposition Principle Applies Circuit and Network Topologies. All Exist Simultaneously](#social-circuitry-enables-sociophysical-energy-flows-where-the-superposition-principle-applies-to-circuit-and-network-topologies)
 
-#### &#8855; &#8710; &#8968;x&#8969; [The Evolutionary Dynamics of Social Physics Build Upon Antifragility and the Ideas of Programs in Chaos](#the-evolutionary-dynamics-of-social-physics-build-upon-antifragility-and-the-ideas-of-programs-in-chaos)
+#### &#8855; &#8710; &#8968;x&#8969; [Social, Financial and Other Energetic Flows Signal Interest and Intent Via Frequency, Magnitude and Abstract Spectral Decomposition](#social-financial-and-other-energetic-flows-signal-interest-and-intent-via-frequency-magnitude-and-abstract-spectral-decomposition)
 
-#### &#8855; &#8710; &#8968;xi&#8969; [Social Circuitry Enables Sociophysical Energy Flows, Where The Superposition Principle Applies Circuit and Network Topologies. All Exist Simultaneously](#social-circuitry-enables-sociophysical-energy-flows-where-the-superposition-principle-applies-to-circuit-and-network-topologies)
 
-#### &#8855; &#8710; &#8968;xii&#8969; [Social, Financial and Other Energetic Flows Signal Interest and Intent Via Frequency, Magnitude and Abstract Spectral Decomposition](#social-financial-and-other-energetic-flows-signal-interest-and-intent-via-frequency-magnitude-and-abstract-spectral-decomposition)
 
-#### &#8855; &#8710; &#8968;xiii&#8969; [Disruption of Connections & Interactions Alters Flow Of Energy & Power, Physically, Logically and Virtually](#disruption-of-connections-and-interactions-alters-flow-of-energy-and-power-physically-logically-and-virtually)
+#### &#8855; &#8710; &#8968;xi&#8969; [Disruption of Connections & Interactions Alters Flow Of Energy & Power, Physically, Logically and Virtually](#disruption-of-connections-and-interactions-alters-flow-of-energy-and-power-physically-logically-and-virtually)
 
-#### &#8855; &#8710; &#8968;xiv&#8969; [Even When Invisible, Intent is Signified And Clarified By Parallel, Anti-Parallel and Orthogonal Orientations of Motion As They Relate to Laplacian of High-Dimensional Surfaces](#even-when-invisible-intent-is-signified-and-clarified-by-parallel-antiparallel-and-orthogonal-orientations-of-motion-as-they-relate-to-laplacian-of-high-dimensional-surfaces)
 
-#### &#8855; &#8710; &#8968;xv&#8969; [Everything is a particle. Everything is a Wave. Even Information, Modeled Holonically](#everything-is-a-particle-everything-is-a-wave-even-information-modeled-holonically)
+#### &#8855; &#8710; &#8968;xii&#8969; [Even When Invisible, Intent is Signified And Clarified By Parallel, Anti-Parallel and Orthogonal Orientations of Motion As They Relate to Laplacian of High-Dimensional Surfaces](#even-when-invisible-intent-is-signified-and-clarified-by-parallel-antiparallel-and-orthogonal-orientations-of-motion-as-they-relate-to-laplacian-of-high-dimensional-surfaces)
 
-#### &#8855; &#8710; &#8968;xvi&#8969; [Independence and Connectedness Can Be Measured In Sociophysical Network Topologies](#independence-and-connectedness-can-be-measured-in-sociophysical-network-topologies)
 
-### X &#8855; &#8710; &#8968;####&#8969; [For The Efficient and Pragmatic Assertion of Behavior and Intent, Sociophysical Configuration Entropy is Nearly Unparalleled](#for-the-efficient-and-pragmatic-assertion-of-behavior-and-intent-sociophysical-configuration-entropy-is-nearly-unparalleled)
+#### &#8855; &#8710; &#8968;xiii&#8969; [Equilibria In Social Games](#)
 
-#### &#8855; &#8710; &#8968;xvii&#8969; [Information In Holonic, Particle Form Exhibits Complicated Behavior Analogous To Entanglement](#information-in-holonic-particle-form-exhibits-complicated-behavior-analogous-to-entanglement)
+- TODO: change title for (xiii)
+
+#### &#8855; &#8710; &#8968;xiv&#8969; [The Evolutionary Dynamics of Social Physics Build Upon Antifragility and the Ideas of Programs in Chaos](#the-evolutionary-dynamics-of-social-physics-build-upon-antifragility-and-the-ideas-of-programs-in-chaos)
+
+#### &#8855; &#8710; &#8968;xv&#8969; [For Timescales Both Small and Large, Each Agent's State and Context Is Constructed From Their Sum Of Experience Via Directed Focus](#each-agents-state-and-context-is-constructed-from-their-sum-of-experience-via-directed-focus)
+
+#### &#8855; &#8710; &#8968;xvi&#8969; [Everything is a particle. Everything is a Wave. Even Information, Modeled Holonically](#everything-is-a-particle-everything-is-a-wave-even-information-modeled-holonically)
+
+### &#8855; &#8710; &#8968;xvii&#8969; [Models of Sociophysical Phase Change Require Topological Spaces Imbued Onto Physical and Aphysical Topologies](#models-of-sociophysical-phase-change-require-topological-spaces-imbued-onto-physical-and-aphysical-topologies)
+
+#### &#8855; &#8710; &#8968;xviii&#8969; [Independence and Connectedness Can Be Measured In Sociophysical Network Topologies](#independence-and-connectedness-can-be-measured-in-sociophysical-network-topologies)
+
+### < &#8855; &#8710; &#8968;xix&#8969; [For The Efficient and Pragmatic Assertion of Behavior and Intent, Sociophysical Configuration Entropy is Nearly Unparalleled](#for-the-efficient-and-pragmatic-assertion-of-behavior-and-intent-sociophysical-configuration-entropy-is-nearly-unparalleled)
+
+#### &#8855; &#8710; &#8968;xx&#8969; [Information In Holonic, Particle Form Exhibits Complicated Behavior Analogous To Entanglement](#information-in-holonic-particle-form-exhibits-complicated-behavior-analogous-to-entanglement)
 
 ## Now With References... Scroll Down For Footnotes and Bibliography
 
@@ -1042,7 +1055,7 @@ secrecy can be post-justified as variable control.
 
 <a name="spectral-coherence-of-knowledge-information-and-agent-context-strongly-influences-conceptualization-and-anticipation" />
 
-### &#8855; &#8710; &#8968;ix&#8969; [Spectral Coherence of Knowledge, Information and Agent Context Strongly Influences Conceptualization and Anticipation](#spectral-coherence-of-knowledge-information-and-agent-context-strongly-influences-conceptualization-and-anticipation)
+### &#8855; &#8710; &#8968;viii&#8969; [Spectral Coherence of Knowledge, Information and Agent Context Strongly Influences Conceptualization and Anticipation](#spectral-coherence-of-knowledge-information-and-agent-context-strongly-influences-conceptualization-and-anticipation)
 
 - the inability to scalably model or to even ascertain pieces of
   information, which are sometimes unindexable if no rigid schema can
@@ -1112,7 +1125,7 @@ one another as truly equal before an omnipotent, omniscient being.
 
 <a name="social-circuitry-enables-sociophysical-energy-flows-where-the-superposition-principle-applies-to-circuit-and-network-topologies" />
 
-### &#8855; &#8710; &#8968;xi&#8969; [Social Circuitry Enables Sociophysical Energy Flows, Where The Superposition Principle Applies Circuit and Network Topologies. All Exist Simultaneously](#social-circuitry-enables-sociophysical-energy-flows-where-the-superposition-principle-applies-to-circuit-and-network-topologies)
+### &#8855; &#8710; &#8968;ix&#8969; [Social Circuitry Enables Sociophysical Energy Flows, Where The Superposition Principle Applies Circuit and Network Topologies. All Exist Simultaneously](#social-circuitry-enables-sociophysical-energy-flows-where-the-superposition-principle-applies-to-circuit-and-network-topologies)
 
 - many networks superimposed onto other, more primary, phsyical and
   aphysical networks.
@@ -1133,7 +1146,7 @@ one another as truly equal before an omnipotent, omniscient being.
 
 #### A Graph Based
 
-![Visibility Graph Based Time Series Analysis]()
+![Visibility Graph Based Time Series Analysis](social-circuits.jpg)
 
 - (describe...)
  
@@ -1216,7 +1229,7 @@ anything to happen.
 
 <a name="social-financial-and-other-energetic-flows-signal-interest-and-intent-via-frequency-magnitude-and-abstract-spectral-decomposition" />
 
-#### &#8855; &#8710; &#8968;xii&#8969; [Social, Financial and Other Energetic Flows Signal Interest and Intent Via Frequency, Magnitude and Abstract Spectral Decomposition](#social-financial-and-other-energetic-flows-signal-interest-and-intent-via-frequency-magnitude-and-abstract-spectral-decomposition)
+#### &#8855; &#8710; &#8968;x&#8969; [Social, Financial and Other Energetic Flows Signal Interest and Intent Via Frequency, Magnitude and Abstract Spectral Decomposition](#social-financial-and-other-energetic-flows-signal-interest-and-intent-via-frequency-magnitude-and-abstract-spectral-decomposition)
 
 At the micro and macro level similar information dynamics facilitate
 inference via financial and social capital flows. In macroeconomics, a
@@ -1317,7 +1330,7 @@ an inordinate amount of energy to undo.
 
 <a name="disruption-of-connections-and-interactions-alters-flow-of-energy-and-power-physically-logically-and-virtually" />
 
-#### &#8855; &#8710; &#8968;xiii&#8969; [Disruption of Connections & Interactions Alters Flow Of Energy & Power, Physically, Logically and Virtually](#disruption-of-connections-and-interactions-alters-flow-of-energy-and-power-physically-logically-and-virtually)
+#### &#8855; &#8710; &#8968;xi&#8969; [Disruption of Connections & Interactions Alters Flow Of Energy & Power, Physically, Logically and Virtually](#disruption-of-connections-and-interactions-alters-flow-of-energy-and-power-physically-logically-and-virtually)
 
 - (here, focus on imagery related to electrical systems)
 
@@ -1373,7 +1386,7 @@ For
 
 <a name="even-when-invisible-intent-is-signified-and-clarified-by-parallel-antiparallel-and-orthogonal-orientations-of-motion-as-they-relate-to-laplacian-of-high-dimensional-surfaces" />
 
-#### &#8855; &#8710; &#8968;xiv&#8969; [Even When Invisible, Intent is Signified And Clarified By Parallel, Anti-Parallel and Orthogonal Orientations of Motion As They Relate to Laplacian of High-Dimensional Surfaces](#even-when-invisible-intent-is-signified-and-clarified-by-parallel-antiparallel-and-orthogonal-orientations-of-motion-as-they-relate-to-laplacian-of-high-dimensional-surfaces)
+#### &#8855; &#8710; &#8968;xii&#8969; [Even When Invisible, Intent is Signified And Clarified By Parallel, Anti-Parallel and Orthogonal Orientations of Motion As They Relate to Laplacian of High-Dimensional Surfaces](#even-when-invisible-intent-is-signified-and-clarified-by-parallel-antiparallel-and-orthogonal-orientations-of-motion-as-they-relate-to-laplacian-of-high-dimensional-surfaces)
 
 - this helps indicate intent, even when it was hidden
   - consistency is hard to fake, any duplicity exacerbates this and
@@ -1415,8 +1428,11 @@ For
         contrast between that truth and the sea of disinformation
         gives you the smoke that indicates fire
 
-### &#8855; &#8710; &#8968;####&#8969; Equilibria in Social Games
 
+
+- TODO: update title
+
+### &#8855; &#8710; &#8968;xiii&#8969; [Equilibria in Social Games](#)
 
 - content from "facets: systems-theory"
   - this content is poorly outlined. where else do i have this?
@@ -1439,7 +1455,7 @@ For
 
 <a name="the-evolutionary-dynamics-of-social-physics-build-upon-antifragility-and-the-ideas-of-programs-in-chaos" />
 
-#### &#8855; &#8710; &#8968;x&#8969; [The Evolutionary Dynamics of Social Physics Build Upon Antifragility and the Ideas of Programs in Chaos](#the-evolutionary-dynamics-of-social-physics-build-upon-antifragility-and-the-ideas-of-programs-in-chaos)
+#### &#8855; &#8710; &#8968;xiv&#8969; [The Evolutionary Dynamics of Social Physics Build Upon Antifragility and the Ideas of Programs in Chaos](#the-evolutionary-dynamics-of-social-physics-build-upon-antifragility-and-the-ideas-of-programs-in-chaos)
 
 What is probabilistic programming? What are programs in chaos?
 [This article](http://te.xel.io/posts/2017-09-14-awareness-precipitates-from-order-out-of-chaos.html)
@@ -1531,7 +1547,7 @@ disintegrate.
 
 <a name="each-agents-state-and-context-is-constructed-from-their-sum-of-experience-via-directed-focus" />
 
-### &#8855; &#8710; &#8968;viii&#8969; [For Timescales Both Small and Large, Each Agent's State and Context Is Constructed From Their Sum Of Experience Via Directed Focus](#each-agents-state-and-context-is-constructed-from-their-sum-of-experience-via-directed-focus)
+### &#8855; &#8710; &#8968;xv&#8969; [For Timescales Both Small and Large, Each Agent's State and Context Is Constructed From Their Sum Of Experience Via Directed Focus](#each-agents-state-and-context-is-constructed-from-their-sum-of-experience-via-directed-focus)
 
 In social physics, all SOF biophysical entities exist in the same
 shared physical space. Their minds are like individual boltzmann
@@ -1584,9 +1600,9 @@ with arbitrary notions of temperature and sociophysical energy.
       - when this is done to the extreme, it results in the utter and
         total deterioration of their support network.
 
-#### (Stage Magician)
+#### When A Stage Magician Pulls A Rabbit Out Of A Hat, That's [Kantian Category](https://en.wikipedia.org/wiki/Category_(Kant)) Collapse ... *WHAT'S IN THE BOX?*
 
-![Stage Magician]()
+<iframe width="560" height="315" src="https://www.youtube.com/embed/TtTzTYDUwvQ" frameborder="0" allowfullscreen></iframe>
 
 - so, directing their focus changes the range of experiential
   information relevant to their context. combined with signaling and
@@ -1595,7 +1611,7 @@ with arbitrary notions of temperature and sociophysical energy.
 
 <a name="everything-is-a-particle-everything-is-a-wave-even-information-modeled-holonically" />
 
-### &#8855; &#8710; &#8968;xv&#8969; [Everything is a particle. Everything is a Wave. Even Information, Modeled Holonically](#everything-is-a-particle-everything-is-a-wave-even-information-modeled-holonically)
+### &#8855; &#8710; &#8968;xvi&#8969; [Everything is a particle. Everything is a Wave. Even Information, Modeled Holonically](#everything-is-a-particle-everything-is-a-wave-even-information-modeled-holonically)
 
 In chaotic sociophysical systems, entities and information can be
 conceived as incomprehensibly complex analogies of the same
@@ -1611,7 +1627,7 @@ what your mind is made of.
   waves. further still, the transmission of physical pheneomena also
   drive ripples of information through sociophysical networks.
 
-![The Wave in a stadium]()
+![The Wave in a stadium](the-wave.gif)
 
 - if there is a spectral (understanding) of information-graphs, as
   ellusive as a visual conception might be, then surely a momentary
@@ -1632,13 +1648,13 @@ what your mind is made of.
 
 <a name="models-of-sociophysical-phase-change-require-topological-spaces-imbued-onto-physical-and-aphysical-topologies" />
 
-### &#8855; &#8710; &#8968;###&#8969; [Models of Sociophysical Phase Change Require Topological Spaces Imbued Onto Physical and Aphysical Topologies](#models-of-sociophysical-phase-change-require-topological-spaces-imbued-onto-physical-and-aphysical-topologies)
+### &#8855; &#8710; &#8968;xvii&#8969; [Models of Sociophysical Phase Change Require Topological Spaces Imbued Onto Physical and Aphysical Topologies](#models-of-sociophysical-phase-change-require-topological-spaces-imbued-onto-physical-and-aphysical-topologies)
 
 
 
 #### Connecting Microstate Energy in [Botlzmann Machines] with Boltzmann's Distribution and Configuration Entropy ...
 
-[Amphiphilic Phases]()
+![Amphiphilic Phases](/img/posts/2017-10-10-speed-of-thought-social-physics/amphiphilic-lcd-phases.jpg)
 
 
 - [gibb's entropy?](https://en.wikipedia.org/wiki/Entropy_(statistical_thermodynamics)#Gibbs_entropy_formula)
@@ -1718,7 +1734,7 @@ what your mind is made of.
 
 <a name="independence-and-connectedness-can-be-measured-in-sociophysical-network-topologies" />
 
-### &#8855; &#8710; &#8968;xvi&#8969; [Independence and Connectedness Can Be Measured In Sociophysical Network Topologies](#independence-and-connectedness-can-be-measured-in-sociophysical-network-topologies)
+### &#8855; &#8710; &#8968;xviii&#8969; [Independence and Connectedness Can Be Measured In Sociophysical Network Topologies](#independence-and-connectedness-can-be-measured-in-sociophysical-network-topologies)
 
 Social isolation correlates strongly with vulnerability, poverty,
 mental illness and the inability to tap into local economic
@@ -1853,7 +1869,7 @@ consequences in my own life.
 
 <a name="for-the-efficient-and-pragmatic-assertion-of-behavior-and-intent-sociophysical-configuration-entropy-is-nearly-unparalleled" />
 
-### &#8855; &#8710; &#8968;####&#8969; [For The Efficient and Pragmatic Assertion of Behavior and Intent, Sociophysical Configuration Entropy is Nearly Unparalleled](#for-the-efficient-and-pragmatic-assertion-of-behavior-and-intent-sociophysical-configuration-entropy-is-nearly-unparalleled)
+### &#8855; &#8710; &#8968;xix&#8969; [For The Efficient and Pragmatic Assertion of Behavior and Intent, Sociophysical Configuration Entropy is Nearly Unparalleled](#for-the-efficient-and-pragmatic-assertion-of-behavior-and-intent-sociophysical-configuration-entropy-is-nearly-unparalleled)
 
 In thermodynamic, biophysical and genetic systems, patterns of change
 and entropy in configurational and conformational distributions
@@ -1956,7 +1972,7 @@ false positives abound.
 
 - in the above, position, field of view and orientation describe
   conformational changes.
-  - configurational entropy is moreso about 
+  - configurational entropy is moreso about
 
 As a sociophysical system progresses, you can keep track of the amount
 of time specific "molecular" configurations of participants spent
@@ -1982,7 +1998,7 @@ means the actual entropy of that solution is highly anomolous.
 
 #### A Random Walk Along the Conformational Free Energy Landscape
 
-![Random Walk Along the Conformational Free Energy Landscape]()
+![Random Walk Along the Conformational Free Energy Landscape](/img/posts/2017-10-10-speed-of-thought-social-physics/free-energy-conformations.jpg)
 
 A molecule's state transitions follow a random walk on the curved
 surface of the energy gradient the current state's Brownian motion
@@ -2012,7 +2028,7 @@ information.
 
 <a name="information-in-holonic-particle-form-exhibits-complicated-behavior-analogous-to-entanglement" />
 
-### &#8855; &#8710; &#8968;xvii&#8969; [Information In Holonic, Particle Form Exhibits Complicated Behavior Analogous To Entanglement](#information-in-holonic-particle-form-exhibits-complicated-behavior-analogous-to-entanglement)
+### &#8855; &#8710; &#8968;xx&#8969; [Information In Holonic, Particle Form Exhibits Complicated Behavior Analogous To Entanglement](#information-in-holonic-particle-form-exhibits-complicated-behavior-analogous-to-entanglement)
 
 - what do you know now? does that change what you think about what you
   knew in the past?
