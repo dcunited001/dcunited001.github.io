@@ -154,6 +154,8 @@ excerpt: ""
 
 #### &#8855; &#8710; &#8968;xvi&#8969; [Independence and Connectedness Can Be Measured In Sociophysical Network Topologies](#independence-and-connectedness-can-be-measured-in-sociophysical-network-topologies)
 
+### &#8855; &#8710; &#8968;####&#8969; [For The Efficient and Pragmatic Assertion of Behavior and Intent, Sociophysical Configuration Entropy is Nearly Unparalleled](#for-the-efficient-and-pragmatic-assertion-of-behavior-and-intent-sociophysical-configuration-entropy-is-nearly-unparalleled)
+
 #### &#8855; &#8710; &#8968;xvii&#8969; [Information In Holonic, Particle Form Exhibits Complicated Behavior Analogous To Entanglement](#information-in-holonic-particle-form-exhibits-complicated-behavior-analogous-to-entanglement)
 
 ## Now With References... Scroll Down For Footnotes and Bibliography
@@ -1846,6 +1848,8 @@ consequences in my own life.
     groups of people can become silenced or disenfranchised without
     even knowing it.
 
+<a name="for-the-efficient-and-pragmatic-assertion-of-behavior-and-intent-sociophysical-configuration-entropy-is-nearly-unparalleled" />
+
 ### &#8855; &#8710; &#8968;####&#8969; [For The Efficient and Pragmatic Assertion of Behavior and Intent, Sociophysical Configuration Entropy is Nearly Unparalleled](#for-the-efficient-and-pragmatic-assertion-of-behavior-and-intent-sociophysical-configuration-entropy-is-nearly-unparalleled)
 
 In thermodynamic, biophysical and genetic systems, patterns of change
@@ -1856,14 +1860,6 @@ complex non-deterministic systems. Moreover, a formulation of this
 metric *could provide a kind of digital signature*. It's design would
 diverge from traditional digital signature methods and would likely
 only serve to identify the nature and type of a program.
-
-- need to review the concepts here:
-  - conformation space are the probabilities of seeing particular
-    conformations of molecules, which AFAIK is not concerned with the
-    orientation of molecules (at least not the probability
-    distribution of conformations)
-  - configuration space has more to do with valid and realistic
-    arrangements of molecule types throughout a system.
 
 #### Does This Go Gamestate Look Random? Is Any Gamestate Random?
 
@@ -1925,47 +1921,70 @@ anticipated.
      subconscious contained some jungian dream archetype that
      practiced national security law on the side. they were not
      dreams. whatever happened to me, it would take care of 99.999% of
-     people.
+     the cases.
 
      -->
 
 When people seat themselves at tables for a meal, they choose a seat
-one at a time. Those arriving
+one at a time. When approaching the table, people naturally sort
+themselves into an ordering that reveals some information about
+whether choosing a seat is important to them. The first people to get
+there fill the space naturally: if there are spatial constraints to
+choosing less accessible seats, then people who deviate from common
+courtesy reveal information. Sit closer to the center of the table and
+you're more connected. Taking a less connected seat can reduce the
+supply of adjecent seats with a physically reduced factor of
+sociophysical friction: increased phsyical distance. Therefore,
+because of the element of choice, the set of potential seating
+arrangements is similarly not random.
 
-algorithmic decision-making processes) for choosing your
-position.
-  - this is the kind of stuff everyone learns about life by age 8. I
-    needed to resort to thermodynamics to understand.
+> This is the kind of stuff everyone learns about life by age 8. I
+> needed to resort to thermodynamics to understand.
 
-- as a sociophysical system progresses, you can keep track of the
-  amount of time specific "molecular" configurations of participants
-  spent connected.
-  - this forms a kind of combinatorially-derived entropy, but it's not
-    thermodynamic entropy. it's closer to Shannon's informational
-    entropy.
-  - you can also keep track of the *types* of configurations that
-    emerge. this is probably more important, considering there are
-    factorially more combinations with more particles.
-    - if there are multiple particle types, then each counts as a
-      symbol for combination. (i.e. AA/AB/BA/BB for types A & B)
-  - this is useful because you get feedback on understanding how the
-    rules of your simulation affect the kinds of interactions that
-    emerge amoung particles.
-    - and it can help you identify when the rules of the system are
-      weighted improperly, leading to lower configuration entropy and
-      a skewed distribution
+Everything reveals information, but parsing incommplete and
+inschematic information is usually prohibitively complex. look for
+tightly coupled position, orientaion and change in field of view: when
+the specific configuration starkly departs from natural non-coupled
+sociophysical configuration, it shows. If you artificially randomize
+everything you do and change your position, field of view and
+orientation without justification, then people tightly coupled to your
+behavior must do the same. This tight coupling reveals everything, but
+false positives abound.
 
-- this concept carries over to organic chemistry, where it's called
-  configuration entropy. there is also conformational entropy, but
-  this is a weaker analogy b/w organic chemistry reactions and social
-  physics simulations.
-  - you could say that a social physics simulation with arbitrary
-    rules yields conformations of nodes, some more or less stable
-  - but, the types of conformations for a group of molecules are less
-    defined. it's probably not as useful without some means of
-    restricting the types of conformations that emerge by placing
-    constraints on particle interactions
+As a sociophysical system progresses, you can keep track of the amount
+of time specific "molecular" configurations of participants spent
+connected. This forms a kind of combinatorially-derived entropy -- but
+not thermodynamic entropy. It's closer to Shannon's informational
+entropy, which measures entropy in a more symbolic space. The holonic
+information molecules form local configurations where each node in a
+group can have a different holonic composition of metatypes. Atoms are
+easy to dilineate into a periodic table of elements and isotopes, but
+holons have infinite variation, so it is only possible to reason about
+similarity of metatype composition.
 
+#### Cyclohexane Rapidly Transitions Between Its Conformations
+
+![Cyclohexane Conformations](/img/posts/2017-10-10-speed-of-thought-social-physics/cyclohexane-conformations.png)
+
+The frequency of cyclohexane conformations in a solution depends upon
+the variance between the energy required to stabalize that
+conformation and energy required to transition to each other state.
+These transitions can be modeled by a discrete Markov chain. When you
+see an abundance of one conformation with extremely low probability it
+means the actual entropy of that solution is highly anomolous.
+
+Within a sociophysical game, people modeled as molecules may alter
+their local spatial arrangment, which more closely parallels
+conformational entropy. From variance and change in conformation in a
+group of people, you can infer information about the types of
+interactions that will emerge from that group's conversation in the
+coffee shop or at a bar. If the variance devates too strongly or the
+rate of change increases too quickly, this indicates that something
+new might happen. Observing this when that conformation-state or
+change in state has an interestingly low probability, leading to lower
+entropy and perhaps indicating a skewed distribution. If it is
+important, you should proactively elicit reactions for more
+information.
 
 <a name="information-in-holonic-particle-form-exhibits-complicated-behavior-analogous-to-entanglement" />
 
