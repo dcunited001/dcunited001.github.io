@@ -1125,6 +1125,12 @@ one another as truly equal before an omnipotent, omniscient being.
     - here the "state" being summed over is all the possibilities of
       network topology...
 
+#### A Graph Based
+
+![Visibility Graph Based Time Series Analysis]()
+
+- (describe...)
+ 
 - these ideas need some work, but what this means is changes to flow
   in one network
   - e.g. you superimpose a million circuit diagrams on top of each
@@ -1722,18 +1728,6 @@ opportunities.
       traumatic happens in your life, no one will know.
       - you completely lose the network effect in life.
     - social networks and interactions should be
-
-Isolation causes or exacerbates mental illness. When isolation
-is protracted, it severly restricts their medium and long-term mental
-states via constriction of variety of experience and inbound social
-signal. It shrouds people in a
-[fog of war](https://en.wikipedia.org/wiki/Fog_of_war). If it really
-does severly impact quality of life, couldn't we reduce unnecessary
-budget deficits through means such as removing large drains on
-publicly or privately financed healthcare. It can definitely make a
-difference. However, iatrogenic treatment has caused horrible
-consequences in my own life.
-
 - blurb about abusive relationships
 
 This particular postulate should be considered axiomatic.
@@ -1744,6 +1738,7 @@ This particular postulate should be considered axiomatic.
 - third: social isolation is quantifiable and almost always correlates
   with power. more isolated, less empowered.
   - isolated individuals are more susceptable to manipulation
+
 
 The impact on connectedness and digital communications were quantified
 in this 2013 paper from Cisco and MIT. Though "there did not seem to
@@ -1775,6 +1770,18 @@ transform our surroundings. As someone with libertarian-leaning ideas
 on civil rights, privacy and data-ownership, I hesitate to enable the
 government in this regard because even the best intentions go horribly
 awry.
+
+Isolation causes or exacerbates mental illness. When isolation is
+protracted, it severly restricts their medium and long-term mental
+states via constriction of variety of experience and inbound social
+signal. It shrouds people in a
+[fog of war](https://en.wikipedia.org/wiki/Fog_of_war). If it really
+does severly impact quality of life, couldn't we reduce unnecessary
+budget deficits through means such as removing large drains on
+publicly or privately financed healthcare. It can definitely make a
+difference. However, iatrogenic treatment has caused horrible
+consequences in my own life.
+
 
 - social isolation can be measured, given some "normal" facebook
   user's 2-degree graph of friends for some definition of normal
@@ -1841,8 +1848,6 @@ awry.
 
 ### &#8855; &#8710; &#8968;####&#8969; [For The Efficient and Pragmatic Assertion of Behavior and Intent, Sociophysical Configuration Entropy is Nearly Unparalleled](#for-the-efficient-and-pragmatic-assertion-of-behavior-and-intent-sociophysical-configuration-entropy-is-nearly-unparalleled)
 
-- cite: []
-
 In thermodynamic, biophysical and genetic systems, patterns of change
 and entropy in configurational and conformational distributions
 provide a metric measuring complex similarity metatypes of programs in
@@ -1906,7 +1911,21 @@ anticipated.
      within me. other times, there were many inconsistencies and facts
      would be incorrect, where i made dumbass mistakes, which i was
      stupidly overconfident about and only later discovered i was
-     wrong.
+     wrong. the quality, quantity and types of sensory content of
+     these memories varies wildly: some contain other people and many
+     contain no people, except me and her. we could not have possibly
+     talked for ~36 hours.
+
+     conveniently, if i were to ever say anything, people could
+     instantly accuse me of being crazy. doubtless that *20% or more
+     may have been real*, but the rest could not be true. simply keep
+     me socially/financially pinned down for X months/years and the
+     problem would probably take care of itself. strange how there
+     were so many legally material aspects of these memories, like my
+     subconscious contained some jungian dream archetype that
+     practiced national security law on the side. they were not
+     dreams. whatever happened to me, it would take care of 99.999% of
+     people.
 
      -->
 
