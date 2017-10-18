@@ -128,13 +128,13 @@ excerpt: ""
 
 #### &#8855; &#8710; &#8968;iii&#8969; [Power Describes The Rate of Energy Fluxing Through Sociophysical Networks](#power-describes-the-rate-of-energy-fluxing-through-sociophysical-networks)
 
-#### &#8855; &#8710; &#8968;iiii&#8969; [Social Power Depends On Potentials For Types Of Energy Flux, Each Actual And Perceived](#social-power-depends-on-potentials-for-types-of-energy-flux)
+#### X &#8855; &#8710; &#8968;iiii&#8969; [Social Power Depends On Potentials For Types Of Energy Flux, Each Actual And Perceived](#social-power-depends-on-potentials-for-types-of-energy-flux)
 
-#### &#8855; &#8710; &#8968;v&#8969; [Perceived Beliefs Drive Social Power Dynamics Via Positive and Negative Feedback Loops](#perceived-beliefs-drive-social-power-dynamics-via-positive-and-negative-feedback-loops)
+#### < &#8855; &#8710; &#8968;v&#8969; [Perceived Beliefs Drive Social Power Dynamics Via Positive and Negative Feedback Loops](#perceived-beliefs-drive-social-power-dynamics-via-positive-and-negative-feedback-loops)
 
-#### &#8855; &#8710; &#8968;vi&#8969; [Agents Have Varying Degrees Of Autonomy and Individual Definitions Of Energy Types. They Share Traits, Such As Concurrency, Bandwidth and Physicality](#agents-have-varying-degrees-of-autonomy-and-individual-definitions-of-energy-types)
+#### X &#8855; &#8710; &#8968;vi&#8969; [Agents Have Varying Degrees Of Autonomy and Individual Definitions Of Energy Types. They Share Traits, Such As Concurrency, Bandwidth and Physicality](#agents-have-varying-degrees-of-autonomy-and-individual-definitions-of-energy-types)
 
-#### &#8855; &#8710; &#8968;vii&#8969; [To Hedge Against Domain Complexity, Agents Amplify Perceived Beliefs And Interact In Other Ways](#to-hedge-against-domain-complexity-agents-amplify-perceived-beliefs)
+#### X &#8855; &#8710; &#8968;vii&#8969; [To Hedge Against Domain Complexity, Agents Amplify Perceived Beliefs And Interact In Other Ways](#to-hedge-against-domain-complexity-agents-amplify-perceived-beliefs)
 
 #### &#8855; &#8710; &#8968;viii&#8969; [For Timescales Both Small and Large, Each Agent's State and Context Is Constructed From Their Sum Of Experience Via Directed Focus](#each-agents-state-and-context-is-constructed-from-their-sum-of-experience-via-directed-focus)
 
@@ -154,7 +154,7 @@ excerpt: ""
 
 #### &#8855; &#8710; &#8968;xvi&#8969; [Independence and Connectedness Can Be Measured In Sociophysical Network Topologies](#independence-and-connectedness-can-be-measured-in-sociophysical-network-topologies)
 
-### &#8855; &#8710; &#8968;####&#8969; [For The Efficient and Pragmatic Assertion of Behavior and Intent, Sociophysical Configuration Entropy is Nearly Unparalleled](#for-the-efficient-and-pragmatic-assertion-of-behavior-and-intent-sociophysical-configuration-entropy-is-nearly-unparalleled)
+### X &#8855; &#8710; &#8968;####&#8969; [For The Efficient and Pragmatic Assertion of Behavior and Intent, Sociophysical Configuration Entropy is Nearly Unparalleled](#for-the-efficient-and-pragmatic-assertion-of-behavior-and-intent-sociophysical-configuration-entropy-is-nearly-unparalleled)
 
 #### &#8855; &#8710; &#8968;xvii&#8969; [Information In Holonic, Particle Form Exhibits Complicated Behavior Analogous To Entanglement](#information-in-holonic-particle-form-exhibits-complicated-behavior-analogous-to-entanglement)
 
@@ -836,8 +836,12 @@ are reconfigurations of the above. That is, we see the likes of:
 
 #### Physical Change Yielding Informational Change
 
-![a picture for spacing]()
+#### (TODO: ...)
 
+![Tokamak Plasma Density](/img/posts/2017-10-10-speed-of-thought-social-physics/tokamak-plasma-density.jpg)
+
+In A Tokamak, Fusion Is Only Driven Along Boundaries With High Local Flux (Turbulence), But Increasing Local Reaction Rates Drives Instability
+ 
 <a name="social-power-depends-on-potentials-for-types-of-energy-flux" />
 
 ### &#8855; &#8710; &#8968;iiii&#8969; [Social Power Depends On Potentials For Types Of Energy Flux, Each Actual And Perceived](#social-power-depends-on-potentials-for-types-of-energy-flux)
@@ -1784,7 +1788,6 @@ publicly or privately financed healthcare. It can definitely make a
 difference. However, iatrogenic treatment has caused horrible
 consequences in my own life.
 
-
 - social isolation can be measured, given some "normal" facebook
   user's 2-degree graph of friends for some definition of normal
   (casual but regular) social media usage
@@ -1951,6 +1954,10 @@ orientation without justification, then people tightly coupled to your
 behavior must do the same. This tight coupling reveals everything, but
 false positives abound.
 
+- in the above, position, field of view and orientation describe
+  conformational changes.
+  - configurational entropy is moreso about 
+
 As a sociophysical system progresses, you can keep track of the amount
 of time specific "molecular" configurations of participants spent
 connected. This forms a kind of combinatorially-derived entropy -- but
@@ -1973,6 +1980,23 @@ These transitions can be modeled by a discrete Markov chain. When you
 see an abundance of one conformation with extremely low probability it
 means the actual entropy of that solution is highly anomolous.
 
+#### A Random Walk Along the Conformational Free Energy Landscape
+
+![Random Walk Along the Conformational Free Energy Landscape]()
+
+A molecule's state transitions follow a random walk on the curved
+surface of the energy gradient the current state's Brownian motion
+results from adjacent forces. All molecules are unique vibrations and
+have specific conformational entry points when they are formed. As the
+molecule persists, average motion should encourage it to gravitate
+towards a vibration more typical for that type of molecule. This is
+mostly informed by classical mechanics, so may not be 100% correct.
+
+Groups of people in conversations, follow similar paths around
+conformational transitions representing their current state
+
+- (define a group's conformation as ... )
+
 Within a sociophysical game, people modeled as molecules may alter
 their local spatial arrangment, which more closely parallels
 conformational entropy. From variance and change in conformation in a
@@ -1980,9 +2004,9 @@ group of people, you can infer information about the types of
 interactions that will emerge from that group's conversation in the
 coffee shop or at a bar. If the variance devates too strongly or the
 rate of change increases too quickly, this indicates that something
-new might happen. Observing this when that conformation-state or
+new might happen. (Observing this when that conformation-state or
 change in state has an interestingly low probability, leading to lower
-entropy and perhaps indicating a skewed distribution. If it is
+entropy and perhaps indicating a skewed distribution.) If it is
 important, you should proactively elicit reactions for more
 information.
 
