@@ -314,9 +314,170 @@ defined in infinitely many ways.
 # Equilibrium, Gradient and Laplacian in (poorly defined) Sociophysical Games
 
 
+
+### Detecting Obsequity, Duplicity and Malice
+
+- people will lie up and down about why they do the things they do
+  - especially if their behavior is subversive and/or they are
+    cooperating with others.
+    - which is why this is a good way to see who really shares
+      goals/motivations in a group
+      - in otherwords, you *could* identify who is complicit in some
+        subversive group behavior
+      - by judging how people change their definition of equilibrium
+        in various groupings
+        - so persons A, B, C and D overtly share a goal
+          - persons A and C and D are assholes to you when they are
+            all together. because D is a dick and has an agenda and
+            exerts influence over A and C.
+          - person B doesn't like being a dick, but will act like a
+            dick because he has to. D makes sure that B is a dick, but
+            as long as D doesn't find out ... B doesn't want to act
+            like that
+          - etc etc.
+      - basically, you can deduce how and why people act, especially
+        when they have an agenda and they are required/motivated to
+        do things.
+        - their idea of their "resting place" for their behavior to
+          acheive their equilibrium or goals changes between those
+          sets depending on how other members of those sets exert
+          influence on them in some hidden way.
+          - this is the shit that keeps me up at night and i hate it
+            because it's fucking bullshit
+          - why can't we all get along?
+
+
+### Discerning When Someone is Acting On Another's Behalf
+
+- simple: is someone truly acting of their own volition or is someone
+  acting on another's behalf
+  - answering this question and the process of answering this question
+    speaks volumes about someone's psychology and thought process
+
+- someone acting on another's behalf: hired, contracted, financially
+  rewarded, or otherwise incentivized
+  - this person will always have boundaries placed on their behavior
+  - the boundaries depends on their role. certain role types have
+    different kinds of boundaries that you can sense
+  - often, bad and extremely good situations involve interacting with
+    someone who's contracted and obligated to someone else's interests
+    who'd rather remain anonymous.
+    - so if you can sniff this out early, you can clue yourself
+      in. usually, the person who's trying to hide their true
+      obligations from you doesn't have your best interests at heart,
+      but this is not always the case.
+
+- someone acting on their own volition:
+  - can leave at any time
+  - will immediately pursue better opportunities when presented
+  - is executing their own program or their own set of behaviors that
+    they've learned through life
+    - but the important distinction is that they are not usually
+      holding themselves bound to the obligations of their career bc
+      they are not at work
+      - though some careers require behavior that extends outside the
+        workplace
+  - is always, *always*, **always** looking for something
+    - this "something" can sometimes be more abstract, but they are
+      always trying to find something
+    - the person looking for nothing is usually crazy or spiritual
+      - but even people who state/appear to be looking for nothing are
+        just masking their intent.
+      - people who mask their intent acting on their own volition
+        ... are often ppl to be wary of
+        - or they are just people who like privacy ...
+
+- interesting deductions can be made about someone's psychology by
+  reasoning about why and how they are adhering to someone's elses
+  obligations or interests
+  - i.e. they have a job/role & you know what that role is. you know
+    what processes/logistics/decisions it entails. now you can make
+    interesting deductions about their psychology by looking at how
+    they are fulfilling their obligations or process requirements.
+    - this is especially interesting when you know they are required
+      to mask certain pieces of information from you.
+  - e.g. the tinder "bot" trying to get you to sign up for their cam
+    service. lulz, this one gets me every time. so fun to !@#$ with
+    (not in a crude way)
+
+
+
+### "Fighting Shadows" or Defending Against "Hall of Mirrors"
+
+- this tactic is only possible when someone obtains significant power
+  and knows how to use it.
+  - it is the decentralized, delegated nullification of someone's
+    ability to attain specific kinds of equilibria
+  - it works by causing the person to waste their sociophysical energy
+    chasing things they can't have or by dealing with information from
+    (old, old stories)
+- most of the time, this is just what happens in a situation where
+  conflict happened 5-10 years ago, one person lost and never gained
+  ground, while the other person gained everything.
+  - so ... it's not really a tactic or an element of a strategy, it's
+    just what happens when you had a significant opportunity and lost
+    to someone (who is perhaps extremely manipulative)
+
+- the ultimate use of decentralized tactics, where you attain a
+  critical threshold of power in a network
+  - for those threats you fear now or in the future, if you have
+    influence, you can disseminate information that gamifies other
+    people's behaviors. you (INDIRECTLY) reward them with influence as
+    they react to the disinformation.
+    - that threat will be forced to redirect all his energy to the
+      situations that arise, which leads towards total dissipation of
+      your threat's sociophysical energy
+    - they are always chasing equilibria they can't obtain
+
+![Overwatch: how to beat a turret - compel the AI to rotate the turret b/w two targets]()
+
+  - bc you have (significantly more) power, you are the power broker
+    or gatekeeper for that network. no one will care about your former
+    threats because they don't hold anyone's future in their hands.
+    - at this point, if you'd like, you just make them a walking
+      allegory, which could perpetuate the creation of disinformation
+    - don't be like X: look what happened to his life after he did
+      drugs. oh my god we feel *so bad* for him.
+
+- when a manipulative opponent has gained an advantageous foothold
+  around you, they want to ensure that your [group's] understanding of
+  the situation remains sufficiently dissociated from the truth.
+  - therefore they will lie, even when they do not need to, so that
+    you [and your group's] understanding of the situation retains a
+    shape that permits the adversary to understand how you will react
+    in situations with similar metatypes
+  - they want to know, from a perspective of type theory: in similar
+    types of situations, how will you respond
+  - the whole point in surrounding you with a "Hall of Mirrors" is to
+    surround you with threat-like scenarios, each presenting you with
+    choices to respond.
+    - the people orchestrating manipulation around you will seek to
+      keep you
+      - (1) predictable and
+      - (2) deceived
+        - by gluing (from a functional/compositional math perspective)
+          these perceived threats to fallacious causes that are
+          sufficiently explicable
+        - this way, the manipulative adversary can dupe you into
+          acting against a quantifyable number of threats that they
+          are testing you with
+          - connection to metatype: they will goad you into acting
+            against any perceived threat, so that they know how likely
+            you are to act against the true culprits if you begin to
+            understand the truth of the situation
+          - they do this to goad you into displaying a measureable
+            will to stand up for yourself, while convincing you to
+            waste time fighting shadows in a hall of mirrors.
+
+
+
+
 # Zero in Social Physics
 
-> *~* You are the five people you spend the most time with *~*
+### *~* You are the five people you spend the most time with *~*
+
+
+
 
 ### Using Social Physics to Contain/Promote People and Ideas
 

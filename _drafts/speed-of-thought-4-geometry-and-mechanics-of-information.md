@@ -15,6 +15,39 @@ excerpt: ""
 
 - [Picture for Geometric Mechanics]
 
+
+[^neutral-nets-in-sequence-space]: [Biophysics of protein evolution and evolutionary protein biophysics](http://rsif.royalsocietypublishing.org/content/11/100/20140419.figures-only) (2014)
+
+![Many overlapping neutral nets in sequence space]()
+
+![Two overlapping neutral nets and their final conformations]()
+
+- in the second pic above, the adjacent sequence variants are
+  functionally coupled to similarly shaped final products
+- holonic structures also have similarly overlapping regions
+  - variants of datums (and their higher-type genericized memes) that
+    produce holonic information "particles" could be imagined as
+    "genes" or sequences.
+    - this idea is not new. Dawkins and many others pioneered this
+      philosophy of evolutionary dynamics of information (The Selfish
+      Gene)
+    - however, other metaphors can help us imagine networks and trees
+      in "sequence space" based on metrics between ideas and memes
+      - most of these problems are intractible, but this provides
+        tools for dilineating and speciating information to identify
+        that with evolutionary advantages or idiosyncratic functional
+        behavior
+  - i still can't actually "visualize" this. for protein folding, the
+    above pictures have been dimensionally flattened.
+    - how can mathematical structures capture all the information in
+      the above metaphors and others?
+      - what are simplified mathematic models that balance diminishing
+        returnes:
+        - simplified versions provide enough utility to produce models
+          with computable data -- but how are the limitations of the
+          models functionally coupled to the results the models
+          produce?
+
 - [Allen's Rule]()
   - if information itself is territory, how does this influence the
     evolutionary mechanics of information?

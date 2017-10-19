@@ -145,17 +145,17 @@ excerpt: ""
 
 #### &#8855; &#8710; &#8968;x&#8969; [Social, Financial and Other Energetic Flows Signal Interest and Intent Via Frequency, Magnitude and Abstract Spectral Decomposition](#social-financial-and-other-energetic-flows-signal-interest-and-intent-via-frequency-magnitude-and-abstract-spectral-decomposition)
 
-
-
 #### &#8855; &#8710; &#8968;xi&#8969; [Disruption of Connections & Interactions Alters Flow Of Energy & Power, Physically, Logically and Virtually](#disruption-of-connections-and-interactions-alters-flow-of-energy-and-power-physically-logically-and-virtually)
 
-
 #### &#8855; &#8710; &#8968;xii&#8969; [Even When Invisible, Intent is Signified And Clarified By Parallel, Anti-Parallel and Orthogonal Orientations of Motion As They Relate to Laplacian of High-Dimensional Surfaces](#even-when-invisible-intent-is-signified-and-clarified-by-parallel-antiparallel-and-orthogonal-orientations-of-motion-as-they-relate-to-laplacian-of-high-dimensional-surfaces)
-
 
 #### &#8855; &#8710; &#8968;xiii&#8969; [Equilibria In Social Games](#)
 
 - TODO: change title for (xiii)
+
+
+
+
 
 #### &#8855; &#8710; &#8968;xiv&#8969; [The Evolutionary Dynamics of Social Physics Build Upon Antifragility and the Ideas of Programs in Chaos](#the-evolutionary-dynamics-of-social-physics-build-upon-antifragility-and-the-ideas-of-programs-in-chaos)
 
@@ -163,11 +163,11 @@ excerpt: ""
 
 #### &#8855; &#8710; &#8968;xvi&#8969; [Everything is a particle. Everything is a Wave. Even Information, Modeled Holonically](#everything-is-a-particle-everything-is-a-wave-even-information-modeled-holonically)
 
-### &#8855; &#8710; &#8968;xvii&#8969; [Models of Sociophysical Phase Change Require Topological Spaces Imbued Onto Physical and Aphysical Topologies](#models-of-sociophysical-phase-change-require-topological-spaces-imbued-onto-physical-and-aphysical-topologies)
+#### &#8855; &#8710; &#8968;xvii&#8969; [Models of Sociophysical Phase Change Require Topological Spaces Imbued Onto Physical and Aphysical Topologies](#models-of-sociophysical-phase-change-require-topological-spaces-imbued-onto-physical-and-aphysical-topologies)
 
 #### &#8855; &#8710; &#8968;xviii&#8969; [Independence and Connectedness Can Be Measured In Sociophysical Network Topologies](#independence-and-connectedness-can-be-measured-in-sociophysical-network-topologies)
 
-### < &#8855; &#8710; &#8968;xix&#8969; [For The Efficient and Pragmatic Assertion of Behavior and Intent, Sociophysical Configuration Entropy is Nearly Unparalleled](#for-the-efficient-and-pragmatic-assertion-of-behavior-and-intent-sociophysical-configuration-entropy-is-nearly-unparalleled)
+#### < &#8855; &#8710; &#8968;xix&#8969; [For The Efficient and Pragmatic Assertion of Behavior and Intent, Sociophysical Configuration Entropy is Nearly Unparalleled](#for-the-efficient-and-pragmatic-assertion-of-behavior-and-intent-sociophysical-configuration-entropy-is-nearly-unparalleled)
 
 #### &#8855; &#8710; &#8968;xx&#8969; [Information In Holonic, Particle Form Exhibits Complicated Behavior Analogous To Entanglement](#information-in-holonic-particle-form-exhibits-complicated-behavior-analogous-to-entanglement)
 
@@ -1429,7 +1429,6 @@ For
         gives you the smoke that indicates fire
 
 
-
 - TODO: update title
 
 ### &#8855; &#8710; &#8968;xiii&#8969; [Equilibria in Social Games](#)
@@ -1439,7 +1438,9 @@ For
 - this section is mostly about leveraging physics/math concepts to
   proactively provoke potential adversaries to reveal & attempt to
   conceal information, including their intent
-  - mostly on #12, #13, and #14
+  - it builds on those sections
+
+
 
 #### Equilibrium and Intended Equilibrium
 
@@ -1447,11 +1448,73 @@ For
 
 #### Simple Distinguishing Factor Underlying Human Behavior
 
+- the behavior you need to watch for is when an adversary compels some
+  sociophysical system to attain particular equilibria, while they
+  hide these same objectives.
+  - they will prefer to not attract attention to causing the system to
+    evolve towards these equilibria
+  - if they are (skilled), then to confuse you, they signal with
+    antiparallel motion away from the points of equilibria
+    - if they do this, they will also interject random motion into the
+      system pushing sociophysical metrics in many confusing or
+      seemingly intentional directions
+  - if they are part of a network, then your adversaries will seek to
+    deconstruct their agenda or desired equilibria into many pieces.
+    - they will delegate goals and objectives to entities in their
+      networks with agency.
+      - if this is happening, fucking run ... but it may not help.
+  - when delegating across a network, agents can actually appear to
+    work against one another towards the attainment of equilibria of
+    specific sociophysical metrics. this is good cop & bad cop, but in
+    a more advanced setting (not an interrogation at the downtown
+    station)
+    - one tries to isolate you, the other tries to draw you in
+      specific directions. then they can see how you respond to
+      make inferences about your behavior
+    - this also forces your investment of energy to dissipate
+
+- someone with an agenda is generally gravitating towards the
+  attainment of a set of objectives/equilrium
+
+####
+
+![Folding Funnel Destructured Paths](/img/posts/2017-10-10-speed-of-thought-social-physics/)
 
 
-#### "Fighting Shadows" or Defending Against "Hall of Mirrors"
+- describe the attainment of those objectives of equilibria as being
+  like the potential destructured paths in the folding funnel above
+  - they've deconstructed a higher-level objectives into into a set of
+    objectives, which confer advantage, control or mitigate some risk
+    - what is an appropriate delination of terms? how do they relate
+      to the concepts below: folding funnel, energy, entropy/entropy,
+      potential conformation paths, local minima
+
+- When proteins fold, ...
+  - {maybe a picture really is worth 1000 words here, lol}
+    - i want to mostly focus on:
+      - (1) the singular final conformation, which is usually singular
+        by necessity
+      - (2) how enthalpy overpowers entropy here to arrive at a final
+        stable conformation, even though this is not always so for all
+        possible protein structures.
+        - ... actually they would mostly have many local energy
+          minima, but it's the relationship b/w form & function
+
+  - what is the term for the energy value in the folding funnel?
+  - the proteins structure is guided (randomly) along the curved
+    surface of the folding funnel
 
 
+  - in spite of entropy, enthalpy guides the folding towards local
+    minima. in order for the protein to have consistent form and
+    function, this typically must
+
+  - the protein contains (evoluationarily-conserved structures) giving
+    it an overall form ...
+
+#### (Dilineation of Most Probable Paths from Counteraction b/w entropy/enthalpy)
+
+![Folding Funnel w/ Entropy & Enthalpy](/img/posts/2017-10-10-speed-of-thought-social-physics/folding-funnel-enthalpy.jpg)
 
 <a name="the-evolutionary-dynamics-of-social-physics-build-upon-antifragility-and-the-ideas-of-programs-in-chaos" />
 

@@ -345,6 +345,12 @@ headline: "Informational Territory > Sociohierarchical Territory > Economic Terr
         URL's & etc into account, but a second event (the comment
         edit) now has to complicate the stream processing
 
+  - informal identification of those who are targeted to be muted
+    online and, the application of their artificial attenuation of
+    newsfeed posts towards the "enemy"
+    - so, if you are being targeted, simply comment on the posts you
+      don't want to see.
+
 #### Spectral De/coherence
 
 - how is this similar to the widespread sociohierarchical structural
