@@ -130,6 +130,8 @@ finite set
 - references to a grimoire for an analogy to old ideas becoming more
   visible
 
+####
+
 #### Part Two: Social Physics
 
 1. (reuse segment from parapet-2 on thermopylae, etc as intro?)
@@ -231,6 +233,20 @@ mentioned my articles relevant to info warfare:
 
 ...
 
+
+part one:
+===============
+
+- add photos of new gender/sexuality spectrums to first part
+  - this is an example of spectral decoherence and hurts the LGBTQ
+    communities because it impairs the brandability of all sexual
+    identities
+    - in order for their movement to be strong and create long-lasting
+      changes, they need for almost everyone in their movement to
+      relate to a handful of sexual identities: LGBTQ
+    - if instead there are 100+ identities, it becomes harder to
+      consistently and strongly brand the identies. each one has less
+      following. it causes the movement's energy to be diffused.
 
 part four:
 ===============

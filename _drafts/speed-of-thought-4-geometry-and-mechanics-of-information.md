@@ -185,7 +185,39 @@ excerpt: ""
     variations that the (kantian category representing the could
     collapse into
 
-### 
+### Partitioned Communication Networks
+
+- simplifying conceptualization of social physics by observing voice
+  communication in video games.
+  - in overwatch & other FPS you can't hear the other team signaling,
+    but if they leverage team communication well, they can anticipate
+    your movements in a way that doesn't expose information to you
+  - sign language and pattern language provide a basis for
+    communication that is similar to this. the people around you won't
+    pick up on it, unless they are trained to do so. if they do pick
+    up on languages like this and they aren't supposed to, this alerts
+    the illuminati police.
+
+### Mechanics and Dynamics Semiolinguistic Games in Social Physics
+
+- dissonance that emerges when adversarial networks try to signal
+  using the same semiotic signifiers w/ different pattern languages
+  (see draft on ephemeral nature of language to understand adversarial
+  design of language and signaling)
+  - [Antifragile Communications paper]())
+
+# The Information Physics of Cultural Movements
+
+
+#### Information Consensus/Permanence (Matthew 5:18)
+
+- if sociophysical systems are probabilistic and, thus,
+  non-deterministic, can the perpetuation of information (written or
+  otherwise) be guarenteed?
+  - what level of information is required?
+  - how could such a thing be guaranteed in a probabilistic system?
+
+- meaning of "the salt of the earth" in the same chapter.
 
 Hip Hop is a modern example of how the dissemination of information
 changed the lives of millions of people living in mostly African

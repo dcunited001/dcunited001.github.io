@@ -63,6 +63,20 @@ excerpt: ""
   effect in targets, which can contribute to gaslighting campaigns
 
 
+### (physical conditions => sociophysical conditions)
+
+- explore how physical conditions & possibilities affect
+  sociophysical metrics, like temperature (average motion of
+  people), frequency of novel interactions, etc...
+  - how do weather conditions affect the players and the game?
+  - how do weather conditions affect the home & visiting crowd
+
+- in this section, use stadium metaphors
+  - people behave differently in the shaded sections than in the
+    hotter sections. this is the transduction of physical forms of
+    energy to social forms of energy.
+  - literally the wave. a GIF of the wave in a stadium.
+
 # (Physics Analogies for Social Systems)
 
 The speed of information is just one quantifiable social metric whose

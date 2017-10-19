@@ -44,6 +44,38 @@ Why not understand the forces at work in life, as early as possible?
 So why not create your own destiny, free from being a pawn in someone
 else's game?
 
+#### The Goal of [Directed Cognitive Enhancement](/posts/2015-08-26-epistemology-cognition-and-category-theory-part-three.html)
+
+> ~transvaluation of all (cognition or cognitive faculties or skills)~
+> and of all information.
+
+- i had the above insight at the rink, but i can't remember exactly
+  where i was going with it. whatever it was, it was incredibly
+  profound
+  - i think i mean that to master the mind, you have to create a
+    transvaluation of all your modular cognitive faculties.
+  - you do this by learning as much as you can about the world.
+    - doing so literally models your mind around a kind of
+      "transvaluation"
+  - once you learn a critical mass of arts, culture, language, skills,
+    etc, your mind destructures everything. from here, every
+    additional skill/etc that you learn is essentially the same.
+    - that this accelerates your rate of learning is well known, but i
+      think it maps to the same metaphysical structure that i
+      mentioned in my article on meditation
+    - so, the more you learn, the more your mind is forced to reshape
+      itself into a form that represents "the one is the all" or (the
+      monad proxy)
+  - doing so also makes your brain more & less efficient. it has more
+    options for dynamically recombining parts of skills it has
+    absorbed, but then also must maintain more information in total
+    - it may be possible that doing so forces your mind to trigger
+      some innate ability for quantum computing, vastly increasing its
+      efficiency in time and energy
+      - but that's conjecture, no quantum mechanisms in the brain have
+        been discovered
+
+###
 
 Human civilization is embarking on a paradigm shift of cultural flux,
 precipitated by modernization, globalization and the Singularity. Does
