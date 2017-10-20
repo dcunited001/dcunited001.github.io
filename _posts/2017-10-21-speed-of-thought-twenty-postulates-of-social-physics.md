@@ -11,6 +11,17 @@ excerpt: ""
 - TODO: add <span id="fdsa-note"></span> to create a bootstrap label
   in <p> tags that can fold/unfold a quote/note below
 
+- [perlocutionary](http://www.dictionary.com/browse/perlocutionary),
+  - [illocutionary](http://www.dictionary.com/browse/illocutionary)
+  - [allocution](): The mode of information dissemination in which
+    media broadcasts are transmitted to multiple receivers with no or
+    very limited capability of a two-way exchange of information
+    - they never cared to hear what i had to say. it was not an
+      investigation or interrogation. it was torture.
+  - gorgonize
+  - nocent
+  - [ilmestys](https://en.wiktionary.org/wiki/ilmestys#Finnish) (finnish)
+
 ## [A Marathon and Thermopylae for the Spartan](#a-marathon-and-thermopylae-for-the-spartan)
 
 #### &#x2605; [Novel Types of 21st Century Territory and Their Thermopylaean Chokepoints](#novel-types-of-21st-century-territory-and-their-thermopylaean-chokepoints)
@@ -1161,18 +1172,35 @@ one another as truly equal before an omnipotent, omniscient being.
 ### &#8855; &#8710; &#8968;ix&#8969; [Social Circuitry Enables Sociophysical Energy Flows, Where The Superposition Principle Applies Circuit and Network Topologies. All Exist Simultaneously](#social-circuitry-enables-sociophysical-energy-flows-where-the-superposition-principle-applies-to-circuit-and-network-topologies)
 
 The topologies of financial networks are more clear than sociophysical
-networks. Moreover, mechanics of financial energy types ... preserve
-linearity... preserve equivalent exchange and linearity.
+networks. Moreover, mechanics of financial energy types tightly
+preserve equivalent exchange, except through pricing fluctuations and
+transduction of value via currency exchange. Even though the property
+of system linearity is boolean, financial energy types preserve
+linearity more than sociophysical energy types. Therefore, in this
+regard and when considering potential network topologies, they are
+simpler than sociophysical systems.
 
-- to simplify, consider financial networks, which have more clearly
-  defined energy types where linearity is nearly always preserved (as
-  opposed to sociophys. energies)
+## &#x2605; [Financial Instruments](https://en.wikipedia.org/wiki/Financial_instrument) Define Energy Types and Transduction Mechanisms
+
+#### &#x2605; Stocks, Bonds, Loans and Credit
+
+#### &#x2605; Derivative Contracts
+
+#### &#x2605; Currencies and Forex Products
+
+## &#x2605; Other Energy Types Include
+
+#### &#x2605; In/tangible Assets of Corporations
+
+#### &#x2605; Constriction/
+
+#### &#x2605; 
+
+
+
+
+
   - financial energy types:
-    - [financial instruments](https://en.wikipedia.org/wiki/Financial_instrument)
-      - currencies (these provide some non-linear dynamics that are
-        tough to anticipate)
-      - stocks/bonds/loans/credit
-      - derivative contracts
     - in/tangible assets of corporations
   - financial networks also have energy creation mechanisms:
     - banks have interest (interests/bonds/etc can result in
@@ -1275,25 +1303,51 @@ linearity... preserve equivalent exchange and linearity.
 It's easy, albeit a bit wieldy of more malice than I am comfortable of
 entertaining in my heart.
 
-#### Step One: Alter The Energetic Dynamics Of An Individual's Adjacent Sociophyscial Circuit Nodes
+### Step One: Alter The Energetic Dynamics Of An Individual's Adjacent Sociophyscial Circuit Nodes
 
 Simply identify an individual's 1&deg; & 2&deg social boundary. Target
-the individuals in the boundary, project disinformation, use NLP to
-alter the frames of their friends and family and, for a finishing
-touch, abuse covert hypnosis without regard for the widespread damage
-you do to society. Bastardize linguistics by flagrantly disregard the
-common human decency of *asking someone* to **consent** to
-_psychological rape_.
+the individuals in the boundary, project disinformation, use
+percutionary NLP to alter the frames of their friends and family and,
+for a finishing touch, abuse covert hypnosis without regard for the
+widespread damage you do to society. Bastardize linguistics by
+flagrantly disregard the common human decency of *asking someone* to
+**consent** to _psychological rape_.
 
-#### Step Two: Brainwash The Person and People You Targeted
+### Step Two: Brainwash The Person and People You Targeted
 
-Eventually instill stockholm syndrome for the upsell of removing the
-Thetans YOU created. Fuck your pattern lanugage. You assholes create
-the evil you charge people to "audit" to clean up. They believe it
-works because then you interject anonymized energy, harming the lives
-the frenemies who may have caused that person's "thetanic" ills.
+Ensure your victims never question anything by abusing illocutionary
+allocution: they must believe they are complicit in "this" -- whatever
+this might be -- and so they should mute everything they might say.
+You're permitted to abuse circumlocution to stimulate conversation
+covering adjacent topics and key phrases, perhaps insinuating
+knowledge & intent -- perhaps not, but it's on wiretap?
 
-#### Step Three: From All The Tasty, Extrapyramidal Carnage: Profit!
+Your goal? To market specific terms and key phrases to the target as
+the salvation to their inquisition -- which is how you plant your
+knowledge of word-clear locutionary phrases. Then, you can use
+metaphorical [pricking](https://en.wikipedia.org/wiki/Pricking)
+tactics to see how the target responds to key phrases. This indicates
+whether your mind control tactics and hypnotic suggestion works or not
+-- by eliciting darting eyes and "knowing" glances. Great job guys:
+remember to suggest specific means of abusing confirmation bias in the
+minds of those who surround the target.
+
+This all allows you to mitigate risk, cast blame with inception,
+gaslight you -- while leaving zero evidence -- all while you *think*
+you are cooperating with something.  Meanwhile, you abuse suggestion,
+casual interactions and social media tactics similar to
+spear-phishing. Ensure the target is *already* sociophysically
+isolated, so they will run from the current "bad cops" straight to
+your "good cop." Dynamically alter who is a source of positive &
+negative energy in this isolated target's life.
+
+Eventually they instill stockholm syndrome for the upsell of removing
+the Thetans YOU created. Fuck your pattern lanugage. You assholes
+create the evil you charge people to "audit" to clean up. They believe
+it works because then you interject anonymized energy, harming the
+lives the frenemies who may have caused that person's "thetanic" ills.
+
+### Step Three: From All The Tasty, Extrapyramidal Carnage: Profit!
 
 This perpetuates the monetizable pyramid scheme. Upon attaining
 critical mass of the network effect, it becomes cheap projecting
