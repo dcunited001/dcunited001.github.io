@@ -31,6 +31,8 @@ excerpt: ""
   reference works)[1] on a single subject or an aspect of a subject,
   usually by a single author.
 - concepts of episteme, techne and phronesis
+- [periphrasis](https://en.wiktionary.org/wiki/periphrasis#English)
+- [ambages](https://en.wiktionary.org/wiki/ambages#English)
 
 #### Liquid Crystal
 

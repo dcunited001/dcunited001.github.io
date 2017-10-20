@@ -1282,6 +1282,11 @@ simpler than sociophysical systems.
         reality
         - (still just a metaphor)
 
+
+#### A Scientology ["OSA" Operation](https://www.villagevoice.com/2011/07/13/scientologys-spy-program-anatomy-of-a-covert-operation-updated/) To Alter The Sociocircuitry Around An SP's Social Boundary
+
+![A Simple OSA Operation To Destroy The Life Of And Individual](/img/posts/2017-10-10-speed-of-thought-social-physics/scientology-disconnection-diagram.jpg)
+
 #### A Graph Based
 
 ![Visibility Graph Based Time Series Analysis](social-circuits.jpg)
@@ -1295,72 +1300,6 @@ simpler than sociophysical systems.
     system quite as much as they would affect an isolated system.
 - this seems very similar to ideas from quantum computing circuit
   diagrams.
-
-#### Scientology ["OSA" Operation](https://www.villagevoice.com/2011/07/13/scientologys-spy-program-anatomy-of-a-covert-operation-updated/) To Alter The Sociocircuitry Around An SP's Social Boundary
-
-![A Simple OSA Operation To Destroy The Life Of And Individual](/img/posts/2017-10-10-speed-of-thought-social-physics/scientology-disconnection-diagram.jpg)
-
-It's easy, albeit a bit wieldy of more malice than I am comfortable of
-entertaining in my heart.
-
-### Step One: Alter The Energetic Dynamics Of An Individual's Adjacent Sociophyscial Circuit Nodes
-
-Simply identify an individual's 1&deg; & 2&deg social boundary. Target
-the individuals in the boundary, project disinformation, use
-percutionary NLP to alter the frames of their friends and family and,
-for a finishing touch, abuse covert hypnosis without regard for the
-widespread damage you do to society. Bastardize linguistics by
-flagrantly disregard the common human decency of *asking someone* to
-**consent** to _psychological rape_.
-
-### Step Two: Brainwash The Person and People You Targeted
-
-Ensure your victims never question anything by abusing illocutionary
-allocution: they must believe they are complicit in "this" -- whatever
-this might be -- and so they should mute everything they might say.
-You're permitted to abuse circumlocution to stimulate conversation
-covering adjacent topics and key phrases, perhaps insinuating
-knowledge & intent -- perhaps not, but it's on wiretap?
-
-Your goal? To market specific terms and key phrases to the target as
-the salvation to their inquisition -- which is how you plant your
-knowledge of word-clear locutionary phrases. Then, you can use
-metaphorical [pricking](https://en.wikipedia.org/wiki/Pricking)
-tactics to see how the target responds to key phrases. This indicates
-whether your mind control tactics and hypnotic suggestion works or not
--- by eliciting darting eyes and "knowing" glances. Great job guys:
-remember to suggest specific means of abusing confirmation bias in the
-minds of those who surround the target.
-
-This all allows you to mitigate risk, cast blame with inception,
-gaslight you -- while leaving zero evidence -- all while you *think*
-you are cooperating with something.  Meanwhile, you abuse suggestion,
-casual interactions and social media tactics similar to
-spear-phishing. Ensure the target is *already* sociophysically
-isolated, so they will run from the current "bad cops" straight to
-your "good cop." Dynamically alter who is a source of positive &
-negative energy in this isolated target's life.
-
-Eventually they instill stockholm syndrome for the upsell of removing
-the Thetans YOU created. Fuck your pattern lanugage. You assholes
-create the evil you charge people to "audit" to clean up. They believe
-it works because then you interject anonymized energy, harming the
-lives the frenemies who may have caused that person's "thetanic" ills.
-
-### Step Three: From All The Tasty, Extrapyramidal Carnage: Profit!
-
-This perpetuates the monetizable pyramid scheme. Upon attaining
-critical mass of the network effect, it becomes cheap projecting
-energy through decentralized hierarchies of catspaws. Any religion
-must give its followers a mission. Any information collected in
-"auditing" sessions becomes fodder for open season on fair game, the
-best hunting and fishing for growing the
-network.
-
-#### Allen Ginsberg - Howl - *"MOLOCH"*
-
-<iframe width="560" height="315" src="https://www.youtube.com/embed/x-P2fILsLH8" frameborder="0" allowfullscreen></iframe>
-
 When abused, this stuff will ruin your mind. And if you displease
 these people, they will _not_ leave your mind in tact.
 
@@ -1374,10 +1313,6 @@ problem with you they will never talk to you about it: that's pretty
 simple, isn't it? This planet moves forward together -- I wanted to
 make one goddamn point about disconnection and I didn't actually want
 anything to happen.
-
-#### Open Your Eyes, Morty!
-
-![Open Your Eyes, Morty!](/img/posts/2017-10-10-speed-of-thought-social-physics/open-your-eyes-morty.png)
 
 <a name="social-financial-and-other-energetic-flows-signal-interest-and-intent-via-frequency-magnitude-and-abstract-spectral-decomposition" />
 

@@ -75,6 +75,9 @@ else's game?
       - but that's conjecture, no quantum mechanisms in the brain have
         been discovered
 
+- it's literally a religion about being a Nexialist (a la
+  [Voyage of the Space Beagle](https://en.wikipedia.org/wiki/The_Voyage_of_the_Space_Beagle))
+  - nexialist =~ polymath or factotum
 
 ###
 

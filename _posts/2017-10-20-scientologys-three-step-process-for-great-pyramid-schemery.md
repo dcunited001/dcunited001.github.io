@@ -69,9 +69,9 @@ screaming.
 
 ## [Still Think The World Is All Sunshine and Ponies?](#still-think-the-world-is-all-sunshine-and-ponies)
 
-#### [There's A Reason That Jesus Never Had Kids](#theres-a-reason-that-jesus-never-had-kids)
+#### &#x2605; [There's A Reason That Jesus Never Had Kids](#theres-a-reason-that-jesus-never-had-kids)
 
-#### [I Became Voluntarily Celibate Out Of Sheer Terror](#i-became-voluntarily-celibate-out-of-sheer-terror)
+#### &#x2605; [I Became Voluntarily Celibate Out Of Sheer Terror](#i-became-voluntarily-celibate-out-of-sheer-terror)
 
 All of this is easy -- well, not easy, it **requires** a network,
 otherwise you only have the knowledge you need to defend yourself --
