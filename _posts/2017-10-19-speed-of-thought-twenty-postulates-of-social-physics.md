@@ -67,9 +67,9 @@ excerpt: ""
 
 #### X &#8855; &#8710; &#8968;vii&#8969; [To Hedge Against Domain Complexity, Agents Amplify Perceived Beliefs And Interact In Other Ways](#to-hedge-against-domain-complexity-agents-amplify-perceived-beliefs)
 
-#### &#8855; &#8710; &#8968;viii&#8969; [Spectral Coherence of Knowledge, Information and Agent Context Strongly Influences Conceptualization and Anticipation](#spectral-coherence-of-knowledge-information-and-agent-context-strongly-influences-conceptualization-and-anticipation)
+#### X &#8855; &#8710; &#8968;viii&#8969; [Spectral Coherence of Knowledge, Information and Agent Context Strongly Influences Conceptualization and Anticipation](#spectral-coherence-of-knowledge-information-and-agent-context-strongly-influences-conceptualization-and-anticipation)
 
-#### &#8855; &#8710; &#8968;ix&#8969; [Social Circuitry Enables Sociophysical Energy Flows, Where The Superposition Principle Applies Circuit and Network Topologies. All Exist Simultaneously](#social-circuitry-enables-sociophysical-energy-flows-where-the-superposition-principle-applies-to-circuit-and-network-topologies)
+#### (...) &#8855; &#8710; &#8968;ix&#8969; [Social Circuitry Enables Sociophysical Energy Flows, Where The Superposition Principle Applies Circuit and Network Topologies. All Exist Simultaneously](#social-circuitry-enables-sociophysical-energy-flows-where-the-superposition-principle-applies-to-circuit-and-network-topologies)
 
 #### X &#8855; &#8710; &#8968;x&#8969; [Social, Financial and Other Energetic Flows Signal Interest and Intent Via Frequency, Magnitude and Abstract Spectral Decomposition](#social-financial-and-other-energetic-flows-signal-interest-and-intent-via-frequency-magnitude-and-abstract-spectral-decomposition)
 
@@ -77,12 +77,9 @@ excerpt: ""
 
 #### &#8855; &#8710; &#8968;xii&#8969; [Even When Invisible, Intent is Signified And Clarified By Parallel, Anti-Parallel and Orthogonal Orientations of Motion As They Relate to Laplacian of High-Dimensional Surfaces](#even-when-invisible-intent-is-signified-and-clarified-by-parallel-antiparallel-and-orthogonal-orientations-of-motion-as-they-relate-to-laplacian-of-high-dimensional-surfaces)
 
-#### &#8855; &#8710; &#8968;xiii&#8969; [Equilibria In Social Games](#)
+#### (.....) &#8855; &#8710; &#8968;xiii&#8969; [Equilibria In Social Games](#)
 
 - TODO: change title for (xiii)
-
-
-
 
 
 #### &#8855; &#8710; &#8968;xiv&#8969; [The Evolutionary Dynamics of Social Physics Build Upon Antifragility and the Ideas of Programs in Chaos](#the-evolutionary-dynamics-of-social-physics-build-upon-antifragility-and-the-ideas-of-programs-in-chaos)
@@ -1069,8 +1066,10 @@ indexed. If information models are simply not indexable, that means
 comparing, analyzing and mutating data of various models becomes more
 precarious as the models are necessarily more distant. Regional
 convergence and homogeneity of belief systems has always been
-necessary to make any useful inferences. Without a wide enough
-spectral overlap domain -- the region of spectra that is amplified --
+necessary to make any useful inferences.  As the next years unfold,
+the region of spectra that is more than infinitessimally amplified
+between two or more people -- the domain of spectral overlap -- will
+continue to shrink unless there are mechanisms in place to address it.
 
 Semioteleological mappings are the structures that explain how we
 respond to signs: what they mean to us, how they are related, how they
@@ -1118,7 +1117,9 @@ a sufficiently large set of agents.
 > engineering at its finest. Good luck with that: you're not paying
 > attention to the right things. Instead, anything I try to say is
 > suppressed and anyone who reads it or repeats it is subject to the
-> same torment. Why? Because people want to USE it.
+> same torment. Why? Because people want to USE it. I get falsely
+> labelled and then I write to make things clear, accelerating my
+> persecution, of which I have been completely unaware... Really?
 
 ### Schematic Change Yielding Self-Perpetuating Changes Over Years, Decades or > Centuries (i.e. Religion)
 
@@ -1159,10 +1160,9 @@ one another as truly equal before an omnipotent, omniscient being.
 
 ### &#8855; &#8710; &#8968;ix&#8969; [Social Circuitry Enables Sociophysical Energy Flows, Where The Superposition Principle Applies Circuit and Network Topologies. All Exist Simultaneously](#social-circuitry-enables-sociophysical-energy-flows-where-the-superposition-principle-applies-to-circuit-and-network-topologies)
 
-
-
-- many networks superimposed onto other, more primary, phsyical and
-  aphysical networks.
+The topologies of financial networks are more clear than sociophysical
+networks. Moreover, mechanics of financial energy types ... preserve
+linearity... preserve equivalent exchange and linearity.
 
 - to simplify, consider financial networks, which have more clearly
   defined energy types where linearity is nearly always preserved (as
@@ -1220,6 +1220,10 @@ one another as truly equal before an omnipotent, omniscient being.
         - and it's so massive, it can't be stored
 
 
+
+- many networks superimposed onto other, more primary, phsyical and
+  aphysical networks.
+
 - (transition into superposition of topologies)
   - this idea of the superposition of various networks is distinct
     from systems where there is one clear network structure
@@ -1254,8 +1258,6 @@ one another as truly equal before an omnipotent, omniscient being.
 
 ![Visibility Graph Based Time Series Analysis](social-circuits.jpg)
 
-- (describe...)
- 
 - these ideas need some work, but what this means is changes to flow
   in one network
   - e.g. you superimpose a million circuit diagrams on top of each
@@ -1265,16 +1267,6 @@ one another as truly equal before an omnipotent, omniscient being.
     system quite as much as they would affect an isolated system.
 - this seems very similar to ideas from quantum computing circuit
   diagrams.
-
-#### (controlling more abstract sociophysical circuitry)
-
-- this is another reason why spectral coherence is so important:
-  control the belief systems/structures of agents and the
-  superposition of social circuit topology sums over topologies with
-  less structural entropy.
-  - amplitude of signal across social graph edges.
-    - generally a good metadata signal
-  - window function X spectral decomposition
 
 #### Scientology ["OSA" Operation](https://www.villagevoice.com/2011/07/13/scientologys-spy-program-anatomy-of-a-covert-operation-updated/) To Alter The Sociocircuitry Around An SP's Social Boundary
 
@@ -1447,8 +1439,6 @@ an inordinate amount of energy to undo.
 #### Time Series Convolution and Correlation
 
 ![](signal-convolution-and-correlation.png)
-
-For 
 
   - Under most conditions, the Fourier Transform is a linear operator
     and so is the differential operator. This means their application
