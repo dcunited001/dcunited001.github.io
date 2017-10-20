@@ -227,6 +227,101 @@ headline: "Informational Territory > Sociohierarchical Territory > Economic Terr
 
 - this has more geographic trends
 
+
+#### Spectral De/coherence
+
+- how is this similar to the widespread sociohierarchical structural
+  changes?
+  - at the same time that
+
+### Sociohierarchical Territory
+
+- how is it different today? where is it going?
+  - {already discussed in draft on metaphysical-precipitation}
+  - it is disappearing!!
+    - as automation takes jobs/ & roles for bureaucrats, it means that
+      the avialable nodes in social hierarchies are gradually/quickly
+      eliminated
+    - Sociohierarchically, we are evolving to the physical territory
+      equivalent of Waterworld
+      - so, in other words, keep expecting more Hunger Games
+        shenanigans in local compeition at your business or region
+
+#### Factors that Vary Between Types of Institutions
+
+- difficulty in advancement, mobility
+- significance and "well-definedness" of rank/position
+- duty of rank/position
+
+
+#### Types of Institutions
+
+- types of institutions (need to think about these, some of them can
+  be renamed ... refer to communist manifesto? that is a declaration
+  of the ten types of sociohierarchical territory that must be
+  controlled)
+  - economic (businesses and trade institutions)
+  - judicial
+  - governmental
+    - the specific seats and types of roles that politicians can fill
+    - bureaucratic positions and roles
+  - military
+    - this is very difficult to get in to
+      - it often requires truly heroic behavior that cannot be faked
+        in order to advance in rank or to specific positions.
+        - as in, commendable circumstances that are rewarded with
+          medals.
+        - a good example of such a circumstance is when Winston
+          Churchill got lost in South Africa (i'll need to find a
+          description of the events)
+      - the difficulty to enter/advance in the military means that the
+        hierarchy *should* withstand transient political changes
+        - there are "office" politics and organizational politics, but
+          rank/position are more scared than to be politicized by
+          politicians or men without uniform
+    - generals and higher-ranking officers are discouraged from
+      political careers for ethical reasons. they are basically told:
+      if you have this high-ranking position, we are giving it to you
+      under the assumption that you are not seeking a political
+      position, nor do you ever plan to
+      - this doesn't mean that under all circumstances it is unethical
+        for a high-ranking officer to pursue politics, but this is
+        an emphasized policy in the military.
+  - sociopolitical
+    - moreso the other end of the political strata. from the
+      grassroots and up
+  - family/interpersonal
+  - religious
+  - non-profit
+  - popular (community organizations, activist, meetups/etc)
+
+### Economic Territory
+
+- capital flows
+- intellectual property
+- developing markets
+
+
+### Physical Territory
+
+- expensive to maintain control over
+  - can result in the development of negative narratives
+  - can sometimes be more expensive to not control, especially in the
+    long term
+
+- gives you tremendous sway over informational, sociohierarchcical,
+  and economic territory
+  - but, abuse this, and the people who live there will remember
+    - they may not power at the time, but they were there when you
+      came and they will be there when you leave
+    - exercise your power justly, with cause, responsibly and with all
+      parties interests in mind and if you can convey that you did so
+      to the people, they will also remember this
+
+
+# Tactics
+
+
 #### Internet Content & Distribution
 
 - SEO, URL's
@@ -345,104 +440,86 @@ headline: "Informational Territory > Sociohierarchical Territory > Economic Terr
         URL's & etc into account, but a second event (the comment
         edit) now has to complicate the stream processing
 
+### Social Media Countertactics
+
+#### To Identify Harassment
+
   - informal identification of those who are targeted to be muted
     online and, the application of their artificial attenuation of
     newsfeed posts towards the "enemy"
     - so, if you are being targeted, simply comment on the posts you
       don't want to see.
 
-#### Spectral De/coherence
+#### Spectral Identification
 
-- how is this similar to the widespread sociohierarchical structural
-  changes?
-  - at the same time that
+- they use monadic logic to communicate
+- so watson/ai services can identify when there is a strong deviation
+  from consistency in conversations & *especially archived
+  conversations*
+  - this is much more difficult to do now
 
+#### Spectral identification of monadic logic
 
-### Sociohierarchical Territory
+  - when specific unicode characters or keywords tag conversations,
+    those are metasyntactic variables that help specify how a message
+    should be transcribed
+    - for example, when the unicode B (for blood type) is used, it
+      signifies words which are covert up
+    - these are wrapped in one more layers of monadic logic
+    - however, since everyone in the adjacent thread know's what is
+      going on -- and since the point is to inform people to not talk
+      to others -- then some information can be extracted by an SOF
+      entity with at least computational density of the human brain
+      - and perhaps some information from that network
+    - so. they are basically warning people "do not talk to the 🅱erson
+      who will bring 🅱reat shame u🅱on your family."
+  - in ASCII text, each character is like a frequency, so a high
+    density of 🅱 correlates to a high frequency of people
+    communicating using monadic logic. someone looking at those
+    conversations could infer the individual who is intended to be or
+    happens to be excluded/targeted.
 
-- how is it different today? where is it going?
-  - {already discussed in draft on metaphysical-precipitation}
-  - it is disappearing!!
-    - as automation takes jobs/ & roles for bureaucrats, it means that
-      the avialable nodes in social hierarchies are gradually/quickly
-      eliminated
-    - Sociohierarchically, we are evolving to the physical territory
-      equivalent of Waterworld
-      - so, in other words, keep expecting more Hunger Games
-        shenanigans in local compeition at your business or region
+#### Intentional, RANDOM Mimicry of Codes To Disrupt Protocols
 
-#### Factors that Vary Between Types of Institutions
-
-- difficulty in advancement, mobility
-- significance and "well-definedness" of rank/position
-- duty of rank/position
-
-
-#### Types of Institutions
-
-- types of institutions (need to think about these, some of them can
-  be renamed ... refer to communist manifesto? that is a declaration
-  of the ten types of sociohierarchical territory that must be
-  controlled)
-  - economic (businesses and trade institutions)
-  - judicial
-  - governmental
-    - the specific seats and types of roles that politicians can fill
-    - bureaucratic positions and roles
-  - military
-    - this is very difficult to get in to
-      - it often requires truly heroic behavior that cannot be faked
-        in order to advance in rank or to specific positions.
-        - as in, commendable circumstances that are rewarded with
-          medals.
-        - a good example of such a circumstance is when Winston
-          Churchill got lost in South Africa (i'll need to find a
-          description of the events)
-      - the difficulty to enter/advance in the military means that the
-        hierarchy *should* withstand transient political changes
-        - there are "office" politics and organizational politics, but
-          rank/position are more scared than to be politicized by
-          politicians or men without uniform
-    - generals and higher-ranking officers are discouraged from
-      political careers for ethical reasons. they are basically told:
-      if you have this high-ranking position, we are giving it to you
-      under the assumption that you are not seeking a political
-      position, nor do you ever plan to
-      - this doesn't mean that under all circumstances it is unethical
-        for a high-ranking officer to pursue politics, but this is
-        an emphasized policy in the military.
-  - sociopolitical
-    - moreso the other end of the political strata. from the
-      grassroots and up
-  - family/interpersonal
-  - religious
-  - non-profit
-  - popular (community organizations, activist, meetups/etc)
-
-### Economic Territory
-
-- capital flows
-- intellectual property
-- developing markets
-
-
-### Physical Territory
-
-- expensive to maintain control over
-  - can result in the development of negative narratives
-  - can sometimes be more expensive to not control, especially in the
-    long term
-
-- gives you tremendous sway over informational, sociohierarchcical,
-  and economic territory
-  - but, abuse this, and the people who live there will remember
-    - they may not power at the time, but they were there when you
-      came and they will be there when you leave
-    - exercise your power justly, with cause, responsibly and with all
-      parties interests in mind and if you can convey that you did so
-      to the people, they will also remember this
-
-
+- this unicode tagging tactic above is also susceptible to mimicry, so
+  there would be many false positives.
+  - *i crack codes for breakfast*
+  - but another countertactic is to mimic the codes as soon as
+    possible.
+    - the WEAK & SLOW update channels for sociophysical "apps"
+      requires that the protocols be flimsy and thin, so they can be
+      digested by people NOT TRAINED IN INTELLIGENCE WORK.
+      - this is terrifying: people who have no business working w/
+        intelligence are risking their lives and being roped into
+        programs so close to human slavery that i've been calling it
+        human sharecropping
+        - they simply have no choice. worse, it's being abused for
+          extortion, racketeering, etc. etc
+        - all the while, no one is able to ask the important
+          questions
+    - therefore, they are inherently susceptible to mimicry attacks
+      - only a few records are being recorded. one of the purposes of
+        their tactics is to ensure that a minimal historical record of
+        events is recorded (SO IT CAN BE EASIER TO SCRUB & HIDE LATER)
+        - they are trying to use fear to control people, so they don't
+          create a high density of digital artifacts that counter the
+          official narratives later on.
+  - in order to influnece public life, these people have to signal
+    over public channels.
+    - since almost all communication by the public is constantly
+      surveiled, this leaves a huge trail behind.
+    - those using the signalling for intentional sociophysical
+      incarceration must influence people in ways where it can be
+      seen by many
+    - they intend to project disinformation into the public
+      consciousness
+  - it's not possible to destroy/mutate all the archived social media
+    content from the past decade.
+    - i keep saying over and over and over again that these people
+      will target the internet as a library of alexandria. they will
+      burn it to the ground to cover up their sins, which they were
+      always terrified would come to light
+    - this must not be allowed to happen.
 
 # Buridan's Ass
 
@@ -530,7 +607,7 @@ headline: "Informational Territory > Sociohierarchical Territory > Economic Terr
           much political capital as a major party in a presidential
           system
 
-#### (original buridan's ass principle)
+#### (original content on controlling through buridan's ass)
 
 - exploiting buridan's principle
   - buridan's is pretty fucked up if you think about it
