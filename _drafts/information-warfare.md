@@ -428,19 +428,36 @@ headline: "Informational Territory > Sociohierarchical Territory > Economic Terr
                   - i don't give a shit about what they do to me or
                     what they say about me, because that poison-pen
                     information is already out there.
-  - filtered content w/ 'shadowlisted' domain names or URLS in FB
-    comments *may* be circumvented for content with 'shadowbanned'
-    URLS by posting a facebook comment w/o it, waiting about (5 - 30)
-    seconds and then editing the link in
-    - this takes advantage of the immutability of stream processing
-      data. at least, the content should initially proceed through the
-      pipeline without being tanked for containing a 'shadowlisted'
-      domain name.
-      - post facto, the newsfeed algorithms *may* then take these
-        URL's & etc into account, but a second event (the comment
-        edit) now has to complicate the stream processing
 
 ### Social Media Countertactics
+
+
+### Circumventing Shadowbanning
+
+- filtered content w/ 'shadowlisted' domain names or URLS in FB
+  comments *may* be circumvented for content with 'shadowbanned' URLS
+  by posting a facebook comment w/o it, waiting about (5 - 30) seconds
+  and then editing the link in
+  - this takes advantage of the immutability of stream processing
+    data. at least, the content should initially proceed through the
+    pipeline without being tanked for containing a 'shadowlisted'
+    domain name.
+  - post facto, the newsfeed algorithms *may* then take these URL's &
+    etc into account, but a second event (the comment edit) now has to
+    complicate the stream processing
+
+- in large applications with mobile web access, these can be
+  completely separate web application containers (e.g. m.facebook.com)
+  - because of this, the networking pathway the m.facebook.com
+    application container uses to communicate with newsfeed stream
+    processing algorithm entry points *could* be different in some
+    cases
+  - logging into mobile web application servers could deliver a
+    completely different *quality* of experience for users
+    - in any case, the networking/devops architecture of these major
+      web applications have serious design constraints.
+    - understanding their architecture can allow you to discover when
+      your newsfeed ranking is being tanked
 
 #### To Identify Harassment
 
