@@ -75,6 +75,74 @@ else's game?
       - but that's conjecture, no quantum mechanisms in the brain have
         been discovered
 
+
+###
+
+
+Extrapolating from a basic assessment of the math, there are
+implications and ramifications that attain preponderance, standing
+above everything else. By failing to fully understand sociophysical
+phenomena, by stubbornly clinging to ideology constructed around a
+fast-fading paradigm. By refusing to allow adaptation, we fall victim
+to Nietzche's danger of dangers. This is not to say that morality and
+well-defined, top-down values systems will themselves be antiquated.
+Quite the opposite: we need to reinforce those systems that already
+exist, but augment them with agile, flexible and antifragile values
+systems that can fill in the gaps.
+
+# Paradoxes of Creating an Adaptive Belief System Today
+
+#### Restate this from "speed of thought: 20 postulates"
+
+> Extrapolating from a basic assessment of the math, there are
+> implications and ramifications that attain preponderance, standing
+> above everything else. By failing to fully understand sociophysical
+> phenomena, by stubbornly clinging to ideology constructed around a
+> fast-fading paradigm. By refusing to allow adaptation, we fall
+> victim to Nietzche's danger of dangers. This is not to say that
+> morality and well-defined, top-down values systems will themselves
+> be antiquated.  Quite the opposite: we need to reinforce those
+> systems that already exist, but augment them with agile, flexible
+> and antifragile values systems that can fill in the gaps.
+
+
+This is counterintuitive: traditionally, values systems inculcated via
+belief systems required a critical mass of adoption. In a region,
+in-phase investment of energy from its follers was required to counter
+specral decoherence and to perpetuate the belief system. Once a level
+of (saturation) was acquired, other people began to take the values
+system into account, whether they believed or not. Therefore, to
+acquire that density or saturation -- and for theological reasons --
+belief systems needed to be rooted in doctrine that (remained
+unchanging) for generations.
+
+- the doctrine drew its authority upon this (unchangingness)
+
+- another paradox: a system that only exists to adapt to whatever it
+  encounters:
+  - changes too quickly and becomes destabilized
+  - has no root in truth and will hold nothing sacred
+  - cannot be the basis of a values system rooted in truth: one that
+    is meant to be shared.
+
+- it needs to be agile to adapt to (drastic) phenomenological and
+  teleological (changes) to society via technology
+
+- such an agile belief system needs to fill in the gaps.
+  - it doesn't need to involve everyone. (i.e. "clear the planet")
+  - the mechanics of updating such a belief system imply that the the
+    greater number of followers:
+  - the greater the time/energy required to update
+- as updates are "pushed" more often, with more followers, more
+  variants.
+  - and the propensity increases for each variant to:
+    - build/operate fallible institutions out of line with the people
+      who are guiding the adaptation. these mistakes in instituion or
+      doctrine can take generations to understand, but they can easily
+      lead to situaions that bring down an entire religion.
+
+
+
 ###
 
 Human civilization is embarking on a paradigm shift of cultural flux,

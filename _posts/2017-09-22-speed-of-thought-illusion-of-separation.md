@@ -9,6 +9,8 @@ excerpt: "
 Sociophysical systems exhibit a wide array of behavior that can be modeled with physics metaphors. From atop a ziggurat in Sumeria or Mesoamerica, some of the basic sociophysical mechanics emerge visibly as patterns of interaction in crowds. The movement of people in a mall have a temperature, as they do at wider geographic scales. Density and temperature correlate with interest and intent. Moreover, the temperature and density of the group yields more connections and a faster rate of information diffusion."
 ---
 
+#### &#x2605; Illusion of Separation &#x2605; [Twenty Postulates of Social Physics](/posts/) &#x2605;
+
 ## First, a Riddle:
 
 #### What's Both Hot and Cold,

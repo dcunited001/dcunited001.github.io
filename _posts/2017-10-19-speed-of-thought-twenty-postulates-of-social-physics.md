@@ -1,5 +1,5 @@
 ---
-title: "The Speed of Thought: Postulates of Social Physics"
+title: "The Speed of Thought: Twenty Postulates of Social Physics"
 categories: "blog"
 tags: ""
 headline: ""
@@ -8,75 +8,8 @@ author:
 excerpt: ""
 ---
 
-<!-- references -->
-
-[^pos-sensitive-propagation]: [Position-sensitive propagation of information on social media using social physics approach](https://arxiv.org/abs/1706.00569), Ishii A., Mizuno T., Kawahata Y., arXiv:1706.00569 [physics.soc-ph] (2017)
-
-[^interaction-and-influence]: [A multilayer network dataset of interaction and influence spreading in a virtual world], J. Jankowski, R. Michalski, P. Bródka, arXiv:1702.06373 [cs.SI] DOI [10.1038/sdata.2017.144](https://doi.org/10.1038/sdata.2017.144) (2017)
-
-[^configuration-entropy-of-a-landscape]: [Calculating the configurational entropy of a landscape mosaic](https://www.fs.fed.us/rm/pubs_journals/2016/rmrs_2016_cushman_s001.pdf) Samuel A. Cushman, Landscape Ecol (2016) 31:481–489, DOI 10.1007/s10980-015-0305-2
-
-[^social-media-with-exogenous-networks]: [Link Classification and Tie Strength Ranking in Online Social Networks with Exogenous Interaction Networks](https://arxiv.org/abs/1708.04030), M. Abufouda, K. Zweig, arXiv:1708.04030 [cs.SI] (2017)
-
-[^increasing-knowledge-worker-efficiency]: [Increasing Knowledge Worker Efficiency through a "Virtual Mirror" of the Social Network](https://arxiv.org/abs/1308.1162), Stori Hybbeneth, Dirk Brunnberg, Peter A. Gloor, arXiv:1308.1162 [cs.SI] (2013)
-
-[^graph-based-time-series-analysis]: [Visibility Graph Based Time Series Analysis](https://doi.org/10.1371/journal.pone.0143015) Stephen Mutua, Gu C, Yang H, PLoS ONE10(11): e0143015 (2015)
-
-
-- TODO: capitalization rules for titles: argh wtf how many times?!
-
-- ![](/img/posts/2017-10-10-speed-of-thought-social-physics/)
-
-- ~transvaluation of all (cognition or cognitive faculties or skills)~
-  and of all information
-
-- simplifying conceptualization of social physics by observing voice
-  communication in video games.
-  - in overwatch & other FPS you can't hear the other team signaling,
-    but if they leverage team communication well, they can anticipate
-    your movements in a way that doesn't expose information to you
-  - sign language and pattern language provide a basis for
-    communication that is similar to this. the people around you won't
-    pick up on it, unless they are trained to do so. if they do pick
-    up on languages like this and they aren't supposed to, this alerts
-    the illuminati police.
-
-- dissonance that emerges when adversarial networks try to signal
-  using the same semiotic signifiers w/ different pattern languages
-  (see draft on ephemeral nature of language to understand adversarial
-  design of language and signaling)
-
-- in this section, use stadium metaphors
-  - people behave differently in the shaded sections than in the
-    hotter sections. this is the transduction of physical forms of
-    energy to social forms of energy.
-  - literally the wave. a GIF of the wave in a stadium.
-  - TODO: add notes from phone (well now it's stolen i'll never have
-    those ideas again, you just !@#$ed up a cure for cancer; MF's i was
-    gonna cure YOU.)
-
-  - physical conditions => sociophysical conditions
-    - how do weather conditions affect the players and the game?
-    - how do weather conditions affect the home & visiting crowd
-
-- add photos of new gender/sexuality spectrums to first part
-  - this is an example of spectral decoherence and hurts the LGBTQ
-    communities because it impairs the brandability of all sexual
-    identities
-
-#### Information Consensus/Permanence (Matthew 5:18)
-
-- if sociophysical systems are probabilistic and, thus,
-  non-deterministic, can the perpetuation of information (written or
-  otherwise) be guarenteed?
-  - what level of information is required?
-  - how could such a thing be guaranteed in a probabilistic system?
-
-- meaning of "the salt of the earth" in the same chapter.
-
-#### [Radiohead - Lift](https://www.youtube.com/watch?v=QBGaO89cBMI)
-
-<iframe width="560" height="315" src="https://www.youtube.com/embed/QBGaO89cBMI" frameborder="0" allowfullscreen></iframe>
+- TODO: add <span id="fdsa-note"></span> to create a bootstrap label
+  in <p> tags that can fold/unfold a quote/note below
 
 ## [A Marathon and Thermopylae for the Spartan](#a-marathon-and-thermopylae-for-the-spartan)
 
@@ -116,24 +49,19 @@ excerpt: ""
 
 #### &#x2605; [Sports Like Soccer Or Football Are Well-Defined Sociophysical Games](#sports-like-soccer-or-football-are-well-defined-sociophysical-games)
 
-- TODO: footnotes
-- TODO: pics
-  - pic for spacing
-- TODO: ensure TOC here is properly ordered
-  - add sections on programs/particle
-  - add section on equilibria
+<iframe width="560" height="315" src="https://www.youtube.com/embed/QBGaO89cBMI" frameborder="0" allowfullscreen></iframe>
 
 ## [Postulates of Sociophysical Systems](#postulates-of-sociophysical-systems)
 
-#### &#8855; &#8710; &#8968;i&#8969; [There Are Infinitely Many Types of Sociophysical Energy Having Both Linear And Non-Linear Mechanics That Determine Their Equivalence and Interaction Dynamics](#there-are-infinitely-many-types-of-sociophysical-energy-having-both-linear-and-non-linear-mechanics-that-determine-their-equivalence-and-interaction-dynamics)
+#### X &#8855; &#8710; &#8968;i&#8969; [There Are Infinitely Many Types of Sociophysical Energy Having Both Linear And Non-Linear Mechanics That Determine Their Equivalence and Interaction Dynamics](#there-are-infinitely-many-types-of-sociophysical-energy-having-both-linear-and-non-linear-mechanics-that-determine-their-equivalence-and-interaction-dynamics)
 
 #### X &#8855; &#8710; &#8968;ii&#8969; [Mechanics of Social Interactions And Connections Are Physical and Logical, But Increasingly Virtualized](#mechanics-of-social-interactions-and-connections-are-physical-and-logical-but-increasingly-virtualized)
 
-#### &#8855; &#8710; &#8968;iii&#8969; [Power Describes The Rate of Energy Fluxing Through Sociophysical Networks](#power-describes-the-rate-of-energy-fluxing-through-sociophysical-networks)
+#### X &#8855; &#8710; &#8968;iii&#8969; [Power Describes The Rate of Energy Fluxing Through Sociophysical Networks](#power-describes-the-rate-of-energy-fluxing-through-sociophysical-networks)
 
 #### X &#8855; &#8710; &#8968;iiii&#8969; [Social Power Depends On Potentials For Types Of Energy Flux, Each Actual And Perceived](#social-power-depends-on-potentials-for-types-of-energy-flux)
 
-#### < &#8855; &#8710; &#8968;v&#8969; [Perceived Beliefs Drive Social Power Dynamics Via Positive and Negative Feedback Loops](#perceived-beliefs-drive-social-power-dynamics-via-positive-and-negative-feedback-loops)
+#### X &#8855; &#8710; &#8968;v&#8969; [Perceived Beliefs Drive Social Power Dynamics Via Positive and Negative Feedback Loops](#perceived-beliefs-drive-social-power-dynamics-via-positive-and-negative-feedback-loops)
 
 #### X &#8855; &#8710; &#8968;vi&#8969; [Agents Have Varying Degrees Of Autonomy and Individual Definitions Of Energy Types. They Share Traits, Such As Concurrency, Bandwidth and Physicality](#agents-have-varying-degrees-of-autonomy-and-individual-definitions-of-energy-types)
 
@@ -143,7 +71,7 @@ excerpt: ""
 
 #### &#8855; &#8710; &#8968;ix&#8969; [Social Circuitry Enables Sociophysical Energy Flows, Where The Superposition Principle Applies Circuit and Network Topologies. All Exist Simultaneously](#social-circuitry-enables-sociophysical-energy-flows-where-the-superposition-principle-applies-to-circuit-and-network-topologies)
 
-#### &#8855; &#8710; &#8968;x&#8969; [Social, Financial and Other Energetic Flows Signal Interest and Intent Via Frequency, Magnitude and Abstract Spectral Decomposition](#social-financial-and-other-energetic-flows-signal-interest-and-intent-via-frequency-magnitude-and-abstract-spectral-decomposition)
+#### X &#8855; &#8710; &#8968;x&#8969; [Social, Financial and Other Energetic Flows Signal Interest and Intent Via Frequency, Magnitude and Abstract Spectral Decomposition](#social-financial-and-other-energetic-flows-signal-interest-and-intent-via-frequency-magnitude-and-abstract-spectral-decomposition)
 
 #### &#8855; &#8710; &#8968;xi&#8969; [Disruption of Connections & Interactions Alters Flow Of Energy & Power, Physically, Logically and Virtually](#disruption-of-connections-and-interactions-alters-flow-of-energy-and-power-physically-logically-and-virtually)
 
@@ -159,9 +87,9 @@ excerpt: ""
 
 #### &#8855; &#8710; &#8968;xiv&#8969; [The Evolutionary Dynamics of Social Physics Build Upon Antifragility and the Ideas of Programs in Chaos](#the-evolutionary-dynamics-of-social-physics-build-upon-antifragility-and-the-ideas-of-programs-in-chaos)
 
-#### &#8855; &#8710; &#8968;xv&#8969; [For Timescales Both Small and Large, Each Agent's State and Context Is Constructed From Their Sum Of Experience Via Directed Focus](#each-agents-state-and-context-is-constructed-from-their-sum-of-experience-via-directed-focus)
+#### X &#8855; &#8710; &#8968;xv&#8969; [For Timescales Both Small and Large, Each Agent's State and Context Is Constructed From Their Sum Of Experience Via Directed Focus](#each-agents-state-and-context-is-constructed-from-their-sum-of-experience-via-directed-focus)
 
-#### &#8855; &#8710; &#8968;xvi&#8969; [Everything is a particle. Everything is a Wave. Even Information, Modeled Holonically](#everything-is-a-particle-everything-is-a-wave-even-information-modeled-holonically)
+#### < &#8855; &#8710; &#8968;xvi&#8969; [Everything is a particle. Everything is a Wave. Even Information, Modeled Holonically](#everything-is-a-particle-everything-is-a-wave-even-information-modeled-holonically)
 
 #### &#8855; &#8710; &#8968;xvii&#8969; [Models of Sociophysical Phase Change Require Topological Spaces Imbued Onto Physical and Aphysical Topologies](#models-of-sociophysical-phase-change-require-topological-spaces-imbued-onto-physical-and-aphysical-topologies)
 
@@ -171,7 +99,7 @@ excerpt: ""
 
 #### &#8855; &#8710; &#8968;xx&#8969; [Information In Holonic, Particle Form Exhibits Complicated Behavior Analogous To Entanglement](#information-in-holonic-particle-form-exhibits-complicated-behavior-analogous-to-entanglement)
 
-## Now With References... Scroll Down For Footnotes and Bibliography
+## [Sources and References](#footnotes-list)
 
 #### "Please, Sir, You Are Blocking The Light Of Mathematics"
 
@@ -488,8 +416,6 @@ concrete scientific evidence. Most social systems modeled with
 physical components are incomputable, but computational social science
 is harnessing these ideas today.[^pos-sensitive-propagation]
 
-- (cite study: about virtual/physical comm. networks)
-
 <a name="an-infinite-dimensional-generalization-of-physics-and-molecular-dynamics" />
 
 ### [An Infinite-Dimensional Generalization of Physics and Molecular Dynamics](#an-infinite-dimensional-generalization-of-physics-and-molecular-dynamics)
@@ -601,10 +527,32 @@ interactions.
 
 Extrapolating from a basic assessment of the math, there are
 implications and ramifications that attain preponderance, standing
-above everything else. By failing to fully understand sociophysical
-phenomena, by stubbornly clinging to some ideological modes (of ...)
-or by refusing to allow adaptation, we fall victim to Nietzche's
-danger of dangers.
+above everything else.  Stubbornly clinging to ideology constructed
+around fast-fading pyschosocial paradigms, novel sociophysical
+phenomena instead remain unseen shadows whose origins in ancient
+social foundations elude us: not for some innate opaque ignorance, but
+for the lust to control knowledge for power. History has blessed
+humanity with incidental inculcation of wisdom, channeled through
+obvoluted teleology -- now rendered preterite by foredominant
+postponderence. Tapped into leylines carved from bedrock, as these
+[qanat](https://en.wikipedia.org/wiki/Qanat) rapidly sublimate from
+[Anamnesis](https://en.wikipedia.org/wiki/Anamnesis_(philosophy)), our
+utopic oasis will invisibly fade as a mirage.
+
+#### Qanat Access Shafts And Channels Align With The Flow of Water Along The Bedrock[^qanat-leylines]
+
+![Qanat Locations](/img/posts/2017-10-10-speed-of-thought-social-physics/qanat-locations.jpg)
+
+By failing to fully understand sociophysical phenomena, by stubbornly
+clinging to ideology constructed around fast-fading psychosocial
+paradigms.  By refusing to allow adaptation, we fall victim to
+Nietzche's danger of dangers. This is not to say that morality and
+well-defined, top-down values systems will themselves be antiquated.
+Quite the opposite: we need to reinforce those systems that already
+exist, but augment them with agile, flexible and antifragile values
+systems that can fill in the gaps. For their followers, any such
+belief systems must unfold into values systems with strong unifying
+force, arising from a basis for values sharing a common root of truth.
 
 #### Magnetic Field Lines From Two Adjacent Electromagnets
 
@@ -639,7 +587,7 @@ anyone know where you are? Is your behavior going to influence someone
 else's behavior? No. Without internet, your impact on the shared field
 of attention is nearly zero.
 
-#### At The Center Of Action in a Sporting Event, Semblable Magnetism Aligns The Orientation Nearly Every Fan's Field of Vision
+#### Semblable Magnetism Aligns The Orientation Nearly Every Fan's Field of Vision To The Center of Action
 
 ![Hockey Stadium](/img/posts/2017-10-10-speed-of-thought-social-physics/hockey-stadium.jpg)
 
@@ -653,25 +601,19 @@ people were particles, they would be magnetically aligned to the field
 lines. At a concert or football game, there would be a nearly maximal
 value for the deformation in the field.
 
-Sociophysical systems are (very similar).
-
-- of energy equilalence, governing movement and transduction
-- There varying metrics and means of equivalence for the movement of Energy
-  - these forms of energy are moving across various kinds of spaces
-
-- what is universal among all the types of energy? anything?
-- examples of types of energy
-
 <a name="mechanics-of-social-interactions-and-connections-are-physical-and-logical-but-increasingly-virtualized" />
 
 ### &#8855; &#8710; &#8968;ii&#8969; [Mechanics of Social Interactions And Connections Are Physical and Logical, But Increasingly Virtualized](#mechanics-of-social-interactions-and-connections-are-physical-and-logical-but-increasingly-virtualized)
 
 Via these shared fields, people influence each other via sociophysical
-energy exchange. Unlike the electromagnetic field, these fields are
-individually conceptualized, so there are infintely many of them and
-infinitely many energy types. Moreover, equivalent exchange of energy
-is almost never preserved, but there are mechanics of energy exchange
-and transduction.
+energy exchange. These fields are mapped ontop of physical and logical
+spaces and we can intuitively measure the flow of energy across
+them. Unlike the electromagnetic field, these fields are individually
+conceptualized, so there are infintely many of them and infinitely
+many energy types. Moreover, equivalent exchange of energy is almost
+never preserved. While there are mechanics of energy exchange and
+transduction, the nonlinearity makes the conversion of energy types
+difficult to anticipate.
 
 These fields can be imagined as spaces with the potential to
 facilitate sociophysical energy exchange -- with a strong departure
@@ -841,20 +783,24 @@ The forms above are base types of changes to sociophysical
 structures as a result of the exertion of power. What we see in life
 are reconfigurations of the above. That is, we see the likes of:
 
-#### Informational Change Yielding Physical Change
+#### &#x2605; Informational Change Yielding Physical Change
 
-#### Informational Change Yielding Eventual Schematic Change On A Social Scale
+#### &#x2605; Informational Change Yielding Eventual Schematic Change On A Social Scale
 
-#### Behavior Change Yielding Long-Term Physical Change
+#### &#x2605; Behavior Change Yielding Long-Term Physical Change
 
-#### Physical Change Yielding Informational Change
+#### &#x2605; Physical Change Yielding Informational Change
 
-#### (TODO: ...)
+In a tokamak, almost all fusion confined to local maxima of
+turbulence. Since fusion releases immense energy, these high flux
+regions destablilize adjacent plasma. The higher the rate of fusion,
+the greater the magnetic forces required to contain the chaos in the
+plasma. Recently, tokamak engineering has sought to overcome the
+structural limits of the frame: the tokamak is required to host
+magnetic fields so strong, it literally can't hold itself together.
 
 ![Tokamak Plasma Density](/img/posts/2017-10-10-speed-of-thought-social-physics/tokamak-plasma-density.jpg)
 
-In A Tokamak, Fusion Is Only Driven Along Boundaries With High Local Flux (Turbulence), But Increasing Local Reaction Rates Drives Instability
- 
 <a name="social-power-depends-on-potentials-for-types-of-energy-flux" />
 
 ### &#8855; &#8710; &#8968;iiii&#8969; [Social Power Depends On Potentials For Types Of Energy Flux, Each Actual And Perceived](#social-power-depends-on-potentials-for-types-of-energy-flux)
@@ -913,7 +859,7 @@ driven by beliefs and perceived beliefs, which create and dispel
 social capital. This amplifies the negative penalties of social
 investment, when time or words are spent on pariahs and lepers.
 
-Depressingly, there is little to be done done about informat ion that
+Depressingly, there is little to be done done about information that
 already exists: what is created can never be destroyed. Disconnection
 is created by dis/information -- it can only be relieved through
 inordinate investment of energy from peers. Therefore, those who seek
@@ -922,11 +868,40 @@ forms into someone's life -- then, they can attempt to sell the
 solution: projection of information forms intended to disrupt the
 disconnection. That's called a con.
 
-- change to the structure of ideas or to shape people's conception of
-  them
-  - history as a language of ideas we build upon
-  - controlling the truth allows you to constrain the form of context
-    in the minds of others
+Regional, national and global history forms the basis for a language
+of ideas. Our collective understanding of recent events in history
+constantly changes, with fewer changes after narratives settle into
+the books. After a few decades, when it is clear how events unfolded,
+schools and universities multiply iota distribution of historical
+narratives. This results in spectral coherence, extending throughout
+the global if these events are relevant and necessary to understand as
+determining the course of history.
+
+#### "History is Written By The Victors."
+
+Traditionally, it is been very difficult to disrupt established
+narratives, whose distribution reaches some saturation threshold.
+Unfortunately, today, superconnected networks and decentralized
+content distribution has reduced barriers to adversarial projection of
+information. Newsfeed algorithms identify and market content primarily
+based on semantic and morphemic similarirty to what you share and
+engage with.
+
+#### [Window Functions](https://en.wikipedia.org/wiki/Window_function)
+
+![Window Functions](/img/posts/2017-10-10-speed-of-thought-social-physics/window-functions.png)
+
+Analogous to a window function, this contextual aperture for past
+events and future expectations is rapidly expanding. It determines
+what information people consider relevent for framing and reexamining
+our perception of cause and effect. With this trend, the sets of
+information and historical events that we are willing to reevaluate is
+changing.
+
+> This particularly dangerous consequence of spectral decoherence is
+> not good for anyone. Unless nations work together, this could lead
+> to the gradual ablation of causality, a critical dynamic discussed
+> later in this series.
 
 <a name="agents-have-varying-degrees-of-autonomy-and-individual-definitions-of-energy-types" />
 
@@ -1012,7 +987,7 @@ scale by projecting information via mass communication channels.
 > at life? And worse for becoming capable of transcending your
 > lilliputian wormtongue games?"
 
-![Lilliputians Pricking Gulliver](/img/posts/2017-10-10-speed-of-thought-social-physics/lilliputians.png)
+![Lilliputians Pricking Gulliver](/img/posts/2017-10-10-speed-of-thought-social-physics/lilliputians.jpg)
 
 This is all an attempt to consciously and unconsciously hedge against
 complexity to reduce uncertainty in the vastness of social physics.
@@ -1057,38 +1032,95 @@ secrecy can be post-justified as variable control.
 
 ### &#8855; &#8710; &#8968;viii&#8969; [Spectral Coherence of Knowledge, Information and Agent Context Strongly Influences Conceptualization and Anticipation](#spectral-coherence-of-knowledge-information-and-agent-context-strongly-influences-conceptualization-and-anticipation)
 
-- the inability to scalably model or to even ascertain pieces of
-  information, which are sometimes unindexable if no rigid schema can
-  be devised, means that the way in which information is handled in
-  these models (becomes infinitely more important)
-  - i.e. convergence and homogeneity of belief systems is required to
-    make *any* useful inferences and those aspects of the systems
-    which cause schematic divergence become problematic
+From an informal assessment of the mathematics of social physics, it
+has become clear that it is critical to bound complexity. Obvolution
+and allineation of information produces constructive interference that
+artificially increases spectral coherence, which partly motivates
+perpetuation of religion. This profoundly constrains the complexity of
+sociophysical systems, enabling those in power to limit the "search
+space" of possibilities. Throughout history, this desire to restrain
+innovation and divergence has occasionally resulted in blind zeal,
+judgemental attitudes and other horrible consequences.
 
-- the single most important conclusion I can draw from a mathematical
-  assessment of social physics is that the ability to make valid
-  assumptions on information/beliefs and the behaviors of nodes is
-  unparalleled
-  - if you cannot do these things, you cannot expect to predict
-    specific or general behavior and you cannot expect to extrapolate
-  - it's like trying to predict the motion of particles while
-    turbulently mixing a fluid containing random quantities of
-    molecules composed by every element. each has its mean ways of
-    moving, whereas social particles with consistent schema are more
-    predictable, almost like crystals.
-  - sociophysically, soldiers in a greek phalanx have the same kind of
-    crystalline aspects to their information schema. because they have
-    been imbued with the information & information schemata of their
-    training, they can anticipate how each other filters information
-    and anticipate each other's actions.
+None of that is justified, which is why we need to wake humanity up,
+so we can choose to cooperate and form a collective basis. Otherwise,
+our fallibility and susceptibility to the seven deadly sins will
+foment conflict at a time of exponential turbulence. This simply means
+we need to think about who we are and collectively decide on how our
+culture should transform. If we do not architect artificial feedback
+loops for antifragile constraint difficult problems like these,
+instability may become rampant.
 
-- religion is an attempt to hedge against domain complexity by
-  creating a primary schema of information shared amongst a
-  sufficiently large set of agents
-  - because such a large set of agents respond to information in
-    similar ways ...
+At A minimum, spectral coherence of information is fundamentally
+linked to cultural universals, their semiotic representations and
+sociohierarchical convolution of teleology. These cultural universals
+then form a kind of origin, centered around the origin of semiotics:
+symmetry. So, we always have those universals in common: we can count
+on these to firmly root a large region of informational spectra to a
+recursive kernel descending into symmetry.
 
-### Schematic Change Yielding Self-Perpetuating Changes Over Years, Decades or Centuries (i.e. Religion)
+#### The Kernel Always Maps to the Origin. In Semiotics, The Spaces Recursively Descend Into The Signifier for Symmetry.
+
+![Kernel](/img/posts/2017-10-10-speed-of-thought-social-physics/kernel.png)
+
+With too much spectral decoherence, models of information are could
+become totally unscalable, inschematic and incapable of being
+indexed. If information models are simply not indexable, that means
+comparing, analyzing and mutating data of various models becomes more
+precarious as the models are necessarily more distant. Regional
+convergence and homogeneity of belief systems has always been
+necessary to make any useful inferences. Without a wide enough
+spectral overlap domain -- the region of spectra that is amplified --
+
+Semioteleological mappings are the structures that explain how we
+respond to signs: what they mean to us, how they are related, how they
+can be used as simili with predictable response or used for
+conditioning. Spectral decoherence can be considered along many
+categories: ingested news articles, beliefs, music, art, netflix
+series, etc. This all leads to rampant speciation of these mappings
+expands so that no one can predict anything.
+
+Socialism, communism and fascism -- viz. any political system where
+freedom of information is constrained -- they all typically plan to
+use social engineering. Problem: the specific psychosocial tools for
+social engineering simply stop being effective or their effects just
+aren't predictable. You cannot expect to predict specific or general
+behavior and you cannot expect to extrapolate.
+
+Imagine predicting the motion of particles while turbulently mixing a
+fluid containing random quantities of molecules composed by nearly
+every element. Each has its mean ways of moving, whereas social
+particles with amplified schema are somewhat more predictable, almost
+like crystals. Soldiers in a greek phalanx have the same kind of
+crystalline aspects to their information schema. They have been imbued
+with the information & information schemata of their training, they
+can anticipate how each other filters information and anticipate each
+other's actions. Religion is an attempt to hedge against domain
+complexity by creating a primary schema of information shared amongst
+a sufficiently large set of agents.
+
+> By the way, I detest tools like social engineering and the
+> ideologies that use them: they rob us of our individuality; their
+> ideologies hold human dignity in contempt; they almost always lead
+> to tragedy. However, the problem of spectral decoherence, including
+> society's inevitable reaction to this understanding, is single most
+> important inference I've reached about social physics. I fully
+> understand how people would react to this if they don't understand
+> the philosophy and math backing it up. It doesn't matter what I
+> think about my own ideas: I do not like this one in particular. I
+> need someone to demonstrate that I am wrong. Otherwise, I can see no
+> other way because this phenomenon leads to the development of many
+> concavities in non-linear sociophysical systems, which inevitably
+> produces instability.
+>
+> Yet, this is my message: that we need to focus on these
+> problems. And what happens to me? Psychological torture. Social
+> engineering at its finest. Good luck with that: you're not paying
+> attention to the right things. Instead, anything I try to say is
+> suppressed and anyone who reads it or repeats it is subject to the
+> same torment. Why? Because people want to USE it.
+
+### Schematic Change Yielding Self-Perpetuating Changes Over Years, Decades or > Centuries (i.e. Religion)
 
 Those who profess knowledge but disclaim or disdain religion are
 fools. Change to the structure of ideas or to the shape of society's
@@ -1127,22 +1159,96 @@ one another as truly equal before an omnipotent, omniscient being.
 
 ### &#8855; &#8710; &#8968;ix&#8969; [Social Circuitry Enables Sociophysical Energy Flows, Where The Superposition Principle Applies Circuit and Network Topologies. All Exist Simultaneously](#social-circuitry-enables-sociophysical-energy-flows-where-the-superposition-principle-applies-to-circuit-and-network-topologies)
 
+
+
 - many networks superimposed onto other, more primary, phsyical and
   aphysical networks.
 
-- this concept is really an extension of the idea of superposition of
-  particle states to information networks which are composed of
-  information represented by particles which behave in ways analogous
-  to quantum particles.
-- does the idea of superposition of networks warrant its own section?
+- to simplify, consider financial networks, which have more clearly
+  defined energy types where linearity is nearly always preserved (as
+  opposed to sociophys. energies)
+  - financial energy types:
+    - [financial instruments](https://en.wikipedia.org/wiki/Financial_instrument)
+      - currencies (these provide some non-linear dynamics that are
+        tough to anticipate)
+      - stocks/bonds/loans/credit
+      - derivative contracts
+    - in/tangible assets of corporations
+  - financial networks also have energy creation mechanisms:
+    - banks have interest (interests/bonds/etc can result in
+      non-linear energy creation, where equivalent exchange is not
+      preserved)
+    - labor is an exchange of value b/w employee and employer
+      - the value added increases types of energy available to the
+        employer, either directly or indirectly
+  - in finanical networks, institutions (businesses, banks, investors,
+    brokers) provide energy transduction mechanisms:
+    - currency conversion: USD-to-EUR
+    - conversion of time/energy via labor to money
+    - financial-to-social energy conversion
+    - collection of debt payment to optimize lending reserve leverage
+      - this creates circulation of wealth
+  - by accumulating these resources, one is charging a kind of battery
+    of financial energy types, providing potential projection of flux
+    into the financial/social graphs
+    - once used, if the investment of financial energy does not create
+      growth opportunities, the battery becomes depleted
+
+![Capital Flows Over The Financial Graph]()
+
+- the point is: energy dynamics in financial networks, as hard as they
+  are to predict, are much simpler than they are for sociophysical
+  networks, whose energy types or network topologies can't even be put
+  into words
+  - In the financial graph, an accurate approximation of topology can
+    be etched out from the complete graph of all people, businesses,
+    institutions, government entities, etc.
+    - so, one would start with the complete graph and define some
+      threshold of edge strength to result with a sparse graph that
+      represents all the ways all financial entities can be
+      (reasonably) connected.
+      - if some edge is invalid for legal reasons or if there is just
+        no chance those entities will exchange financial energy, then
+        that edge is dropped from the complete graph
+    - what is left is an approximation of the global financial circuit
+      - even without the added complexity of energy types and
+        individually defined sociophysical topologies,
+        - this graph is hopelessly intractible: it takes so much time
+          to calculate that consistency could be maintained
+          - the graph changes so much by the time you acquire the
+            information you need
+        - and it's so massive, it can't be stored
+
+
+- (transition into superposition of topologies)
   - this idea of the superposition of various networks is distinct
     from systems where there is one clear network structure
+    - even if you can just define a singal
+
 - this is literally the superposition principle applied to virtual
   network topology (... is it?)
   - the dynamics of superimposed virtual networks are dependent on the
     structure of all the "summed" networks.
     - here the "state" being summed over is all the possibilities of
       network topology...
+
+- applying the idea of superposition of particle states to topologies
+  of sociophysical networks.
+  - in these networks, information can be represented by particles
+    that behave in ways analogous to quantum particles.
+  - for (each of us) to (intuitively function in social environments),
+    we have to create our own subconscious intuition of sociophysical
+    energy types and circuit topologies.
+    - to (model/solve/anticipate the system), an algorithm without
+      limits on computation must conceive of these networks as having
+      infinitely many energy types, each with their own non-linear
+      transduction mechanics, being pushed through social circuits,
+      via physical and logical interactions
+      - ....
+      - superposition provides a mechanic that anticipates infinite
+        possibilities that collapse into a convergent result in
+        reality
+        - (still just a metaphor)
 
 #### A Graph Based
 
@@ -1440,6 +1546,7 @@ For
   conceal information, including their intent
   - it builds on those sections
 
+- stasis of equilibria
 
 
 #### Equilibrium and Intended Equilibrium
@@ -2194,4 +2301,20 @@ information.
 
 
 
+<a name="footnotes-list" />
 
+<!-- references -->
+
+[^pos-sensitive-propagation]: [Position-sensitive propagation of information on social media using social physics approach](https://arxiv.org/abs/1706.00569), Ishii A., Mizuno T., Kawahata Y., arXiv:1706.00569 [physics.soc-ph] (2017)
+
+[^interaction-and-influence]: [A multilayer network dataset of interaction and influence spreading in a virtual world](https://arxiv.org/abs/1702.06373), J. Jankowski, R. Michalski, P. Bródka, arXiv:1702.06373 [cs.SI] DOI [10.1038/sdata.2017.144](https://doi.org/10.1038/sdata.2017.144) (2017)
+
+[^configuration-entropy-of-a-landscape]: [Calculating the configurational entropy of a landscape mosaic](https://www.fs.fed.us/rm/pubs_journals/2016/rmrs_2016_cushman_s001.pdf) Samuel A. Cushman, Landscape Ecol (2016) 31:481–489, DOI 10.1007/s10980-015-0305-2
+
+[^social-media-with-exogenous-networks]: [Link Classification and Tie Strength Ranking in Online Social Networks with Exogenous Interaction Networks](https://arxiv.org/abs/1708.04030), M. Abufouda, K. Zweig, arXiv:1708.04030 [cs.SI] (2017)
+
+[^increasing-knowledge-worker-efficiency]: [Increasing Knowledge Worker Efficiency through a "Virtual Mirror" of the Social Network](https://arxiv.org/abs/1308.1162), Stori Hybbeneth, Dirk Brunnberg, Peter A. Gloor, arXiv:1308.1162 [cs.SI] (2013)
+
+[^graph-based-time-series-analysis]: [Visibility Graph Based Time Series Analysis](https://doi.org/10.1371/journal.pone.0143015) Stephen Mutua, Gu C, Yang H, PLoS ONE10(11): e0143015 (2015)
+
+[^qanat-leylines]: [Groundwater qanat potential mapping using frequency ratio and Shannon’s entropy models in the Moghan watershed, Iran](https://doi.org/10.1007/s12145-014-0145-7), S. Naghibi, H. R. Pourghasemi, Z. Pourtaghi, A. Rezaei, Earth Science Informatics (2014)
