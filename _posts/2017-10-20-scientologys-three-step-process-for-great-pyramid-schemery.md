@@ -35,11 +35,10 @@ the technological transformation of society.
 
 #### (T.I. Is Not A Scientologist. The Initials Are Coincidental.)
 
-Ask a celebrity scientology if they understand any of this: I
+Ask a celebrity scientologist if they understand any of this: I
 guarantee they are logistically containerized from it. If so, their
 most important members are always shielded from the true inner
-workings of the religion. Why? Because they would run out
-screaming.
+workings of the religion. Why? Because they would run out screaming.
 
 ## [Strategy Unclear: Mastery Over *Tactical Rhetoric* & *Pervasive Hypnosis*](#strategy-unclear-mastery-over-tactical-rhetoric-and-pervasive-hypnosis)
 
@@ -434,8 +433,8 @@ anything to happen.
 ### [There's A Reason That Jesus Never Had Kids](#theres-a-reason-that-jesus-never-had-kids)
 
 I'm almost certain I won't be having children in America. I've been
-led this for years now, especially since 2011. In 2007, I thought alot
-about why Jesus didn't have children: because the first thing they
+led this for years now, especially since 2011. In 2007, I thought a
+lot about why Jesus didn't have children: because the first thing they
 will go for are the people and facets of life you love most. If you
 threaten them in some real way, they will take away everything. In
 this tragic regard, I got lucky: I wasn't old enough to have familial

@@ -111,7 +111,7 @@ excerpt: ""
 
 #### "Please, Sir, You Are Blocking The Light Of Mathematics"
 
-![Death of Archimedes](/img/posts/2017-10-10-speed-of-thought-social-physics/death-of-archimedes.jpg)
+![Death of Archimedes](/img/posts/2017-10-21-speed-of-thought-twenty-postulates-of-social-physics/death-of-archimedes.jpg)
 
 There are countless aspects of life that ancient people understood
 more clearly than we do today. In many, standing on the shoulders of
@@ -121,7 +121,7 @@ always molded and die-cast by a typology of life experience now
 
 #### Into The Tragic Comedy of Fate, I Cast Myself
 
-![Medea -- from Fate! Jesus Christ!](/img/posts/2017-10-10-speed-of-thought-social-physics/fate-caster-medea.jpg)
+![Medea -- from Fate! Jesus Christ!](/img/posts/2017-10-21-speed-of-thought-twenty-postulates-of-social-physics/fate-caster-medea.jpg)
 
 For the powerful, this is desirable. They can sell us technology to
 solve our problems, while our growing dependencies on it
@@ -185,7 +185,7 @@ phenomenon in Western history.
 
 #### Socrates Engaging the Greek Agora In Philosophic Debate
 
-![Schizophrenic Socrates' Added Nothing of Value To Society With His Constant Akathisia](/img/posts/2017-10-10-speed-of-thought-social-physics/socrates-agora.jpg)
+![Schizophrenic Socrates' Added Nothing of Value To Society With His Constant Akathisia](/img/posts/2017-10-21-speed-of-thought-twenty-postulates-of-social-physics/socrates-agora.jpg)
 
 <a name="social-and-informational-thermodynamics-and-convexity" />
 
@@ -225,7 +225,7 @@ modes of transportation were limited throughout history.
 
 #### Land of the Rising Sun: Low-Frequency Sociophysical Currents Emerge from the East
 
-![Land of the Rising Sun Watercolor](/img/posts/2017-10-10-speed-of-thought-social-physics/jp-rising-sun-watercolor.jpg)
+![Land of the Rising Sun Watercolor](/img/posts/2017-10-21-speed-of-thought-twenty-postulates-of-social-physics/jp-rising-sun-watercolor.jpg)
 
 <a name="humanitys-measures-of-connectedness-vary-geographically" />
 
@@ -285,7 +285,7 @@ Int'l Economy as "American Society."
 
 #### Graph Visualization of North Korea's Economic Connections
 
-![Economic Disconnection](/img/posts/2017-10-10-speed-of-thought-social-physics/north-korea-disconnected-2.jpg)
+![Economic Disconnection](/img/posts/2017-10-21-speed-of-thought-twenty-postulates-of-social-physics/north-korea-disconnected-2.jpg)
 
 How can you compete in the global economy if your regime prohibits
 communication with the outside and punishes dissidents with three
@@ -459,7 +459,7 @@ defined.
 
 #### Essais sur la Mechanique Social (Winiarski, 1898)
 
-![Essais sur la Mechanique Sociale](/img/posts/2017-10-10-speed-of-thought-social-physics/essais-sur-la-mechanique-sociale.jpg)
+![Essais sur la Mechanique Sociale](/img/posts/2017-10-21-speed-of-thought-twenty-postulates-of-social-physics/essais-sur-la-mechanique-sociale.jpg)
 
 <a name="how-does-the-information-schema-affect-the-spatio-temporal-computability" />
 
@@ -549,7 +549,7 @@ utopic oasis will invisibly fade as a mirage.
 
 #### Qanat Access Shafts And Channels Align With The Flow of Water Along The Bedrock[^qanat-leylines]
 
-![Qanat Locations](/img/posts/2017-10-10-speed-of-thought-social-physics/qanat-locations.jpg)
+![Qanat Locations](/img/posts/2017-10-21-speed-of-thought-twenty-postulates-of-social-physics/qanat-locations.jpg)
 
 By failing to fully understand sociophysical phenomena, by stubbornly
 clinging to ideology constructed around fast-fading psychosocial
@@ -564,7 +564,7 @@ force, arising from a basis for values sharing a common root of truth.
 
 #### Magnetic Field Lines From Two Adjacent Electromagnets
 
-![Magnetic Field Lines](/img/posts/2017-10-10-speed-of-thought-social-physics/magnetic-field-lines.jpg)
+![Magnetic Field Lines](/img/posts/2017-10-21-speed-of-thought-twenty-postulates-of-social-physics/magnetic-field-lines.jpg)
 
 Today, the world needs everyone on the same page. In order to operate
 cooperatively in more virtualized sociophysical systems, we must first
@@ -597,7 +597,7 @@ of attention is nearly zero.
 
 #### Semblable Magnetism Aligns The Orientation Nearly Every Fan's Field of Vision To The Center of Action
 
-![Hockey Stadium](/img/posts/2017-10-10-speed-of-thought-social-physics/hockey-stadium.jpg)
+![Hockey Stadium](/img/posts/2017-10-21-speed-of-thought-twenty-postulates-of-social-physics/hockey-stadium.jpg)
 
 Now imagine yourself at a concert or a football game. People exert
 influence on the shared field of attention with their focus. Their
@@ -691,7 +691,7 @@ no matter how antifragile.
 
 #### CPU's Are like Metaphysical Copy and Paste
 
-![CPU Chip Fabrication](/img/posts/2017-10-10-speed-of-thought-social-physics/intel-cpu-wafer.jpg)
+![CPU Chip Fabrication](/img/posts/2017-10-21-speed-of-thought-twenty-postulates-of-social-physics/intel-cpu-wafer.jpg)
 
 What is the CPU? What does it represent? Mastery over physics and
 solid-state chemistry? Doesn't it also represent mastery over logic,
@@ -807,7 +807,7 @@ plasma. Recently, tokamak engineering has sought to overcome the
 structural limits of the frame: the tokamak is required to host
 magnetic fields so strong, it literally can't hold itself together.
 
-![Tokamak Plasma Density](/img/posts/2017-10-10-speed-of-thought-social-physics/tokamak-plasma-density.jpg)
+![Tokamak Plasma Density](/img/posts/2017-10-21-speed-of-thought-twenty-postulates-of-social-physics/tokamak-plasma-density.jpg)
 
 <a name="social-power-depends-on-potentials-for-types-of-energy-flux" />
 
@@ -897,7 +897,7 @@ engage with.
 
 #### [Window Functions](https://en.wikipedia.org/wiki/Window_function)
 
-![Window Functions](/img/posts/2017-10-10-speed-of-thought-social-physics/window-functions.png)
+![Window Functions](/img/posts/2017-10-21-speed-of-thought-twenty-postulates-of-social-physics/window-functions.png)
 
 Analogous to a window function, this contextual aperture for past
 events and future expectations is rapidly expanding. It determines
@@ -945,7 +945,7 @@ aphysical forms, but will fast evolve from AAF and PAF and vice versa.
 
 #### Power users can write scripts and set up [Zapier](https://zapier.com/) event hooks
 
-![Milton](/img/posts/2017-10-10-speed-of-thought-social-physics/office-space-milton.jpg)
+![Milton](/img/posts/2017-10-21-speed-of-thought-twenty-postulates-of-social-physics/office-space-milton.jpg)
 
 ## &#8679; Then That Guy Started Writing About Psychological Gangrape And Workplace Bullying, So They Said He Was Basically Charles Manson, A Racist and -- Hey, Why Not A Terrorist, Too
 
@@ -970,7 +970,7 @@ the scale of the universe for the first time.
 
 #### The Death of Archimedes
 
-![Death of Archimedes](/img/posts/2017-10-10-speed-of-thought-social-physics/death-of-archimedes.jpg)
+![Death of Archimedes](/img/posts/2017-10-21-speed-of-thought-twenty-postulates-of-social-physics/death-of-archimedes.jpg)
 
 Agents react to these dynamics by artificially amplifying the
 perceived beliefs they want others to operate upon, proactively
@@ -995,7 +995,7 @@ scale by projecting information via mass communication channels.
 > at life? And worse for becoming capable of transcending your
 > lilliputian wormtongue games?"
 
-![Lilliputians Pricking Gulliver](/img/posts/2017-10-10-speed-of-thought-social-physics/lilliputians.jpg)
+![Lilliputians Pricking Gulliver](/img/posts/2017-10-21-speed-of-thought-twenty-postulates-of-social-physics/lilliputians.jpg)
 
 This is all an attempt to consciously and unconsciously hedge against
 complexity to reduce uncertainty in the vastness of social physics.
@@ -1015,7 +1015,7 @@ of generating dynamics in the system allows people to interrogate
 their environment, making inferences about the true beliefs of other
 agents in the system or about information they have access to.
 
-![Curling](/img/posts/2017-10-10-speed-of-thought-social-physics/curling.jpg)
+![Curling](/img/posts/2017-10-21-speed-of-thought-twenty-postulates-of-social-physics/curling.jpg)
 
 When these logistic process structures involve stringent secrecy,
 coverups of mistakes, distortion of information and amplification of
@@ -1069,7 +1069,7 @@ recursive kernel descending into symmetry.
 
 #### The Kernel Always Maps to the Origin. In Semiotics, The Spaces Recursively Descend Into The Signifier for Symmetry.
 
-![Kernel](/img/posts/2017-10-10-speed-of-thought-social-physics/kernel.png)
+![Kernel](/img/posts/2017-10-21-speed-of-thought-twenty-postulates-of-social-physics/kernel.png)
 
 With too much spectral decoherence, models of information are could
 become totally unscalable, inschematic and incapable of being
@@ -1285,7 +1285,7 @@ simpler than sociophysical systems.
 
 #### A Scientology ["OSA" Operation](https://www.villagevoice.com/2011/07/13/scientologys-spy-program-anatomy-of-a-covert-operation-updated/) To Alter The Sociocircuitry Around An SP's Social Boundary
 
-![A Simple OSA Operation To Destroy The Life Of And Individual](/img/posts/2017-10-10-speed-of-thought-social-physics/scientology-disconnection-diagram.jpg)
+![A Simple OSA Operation To Destroy The Life Of And Individual](/img/posts/2017-10-21-speed-of-thought-twenty-postulates-of-social-physics/scientology-disconnection-diagram.jpg)
 
 #### A Graph Based
 
@@ -1364,7 +1364,7 @@ algorithms more susceptible to feedback loops.
 
 #### Cross This Streamgraph Visualization With Graph Theory and Simply Fourier Transform
 
-![Streamgraph Visualization](/img/posts/2017-10-10-speed-of-thought-social-physics/viz-streamgraph.png)
+![Streamgraph Visualization](/img/posts/2017-10-21-speed-of-thought-twenty-postulates-of-social-physics/viz-streamgraph.png)
 
 When there is a total vacuum of these artifacts, our brains search for
 information about categories of people, places, ideas and things to
@@ -1455,7 +1455,7 @@ an inordinate amount of energy to undo.
 
 <!-- I like to think in pictures and images -->
 
-![Heatmap of Combinitorialized Signal Sources](/img/posts/2017-10-10-speed-of-thought-social-physics/viz-heatmap.png)
+![Heatmap of Combinitorialized Signal Sources](/img/posts/2017-10-21-speed-of-thought-twenty-postulates-of-social-physics/viz-heatmap.png)
 
 - apply gradients/laplacian to the above
   - describe informational spectra as being capable of forming a basis
@@ -1482,7 +1482,7 @@ an inordinate amount of energy to undo.
 
 #### I Live In A World Where Those Who Can't or Won't Talk To Me Are My Friends
 
-![Double Door Logic Paradox](/img/posts/2017-10-10-speed-of-thought-social-physics/)
+![Double Door Logic Paradox](/img/posts/2017-10-21-speed-of-thought-twenty-postulates-of-social-physics/)
 
 #### Parallel, AntiParallel and Orthoganal Coupling In Motion Towards The Attainment of Equilibrium Unveils Nearly All Deception
 
@@ -1564,7 +1564,7 @@ an inordinate amount of energy to undo.
 
 ####
 
-![Folding Funnel Destructured Paths](/img/posts/2017-10-10-speed-of-thought-social-physics/)
+![Folding Funnel Destructured Paths](/img/posts/2017-10-21-speed-of-thought-twenty-postulates-of-social-physics/)
 
 
 - describe the attainment of those objectives of equilibria as being
@@ -1600,7 +1600,7 @@ an inordinate amount of energy to undo.
 
 #### (Dilineation of Most Probable Paths from Counteraction b/w entropy/enthalpy)
 
-![Folding Funnel w/ Entropy & Enthalpy](/img/posts/2017-10-10-speed-of-thought-social-physics/folding-funnel-enthalpy.jpg)
+![Folding Funnel w/ Entropy & Enthalpy](/img/posts/2017-10-21-speed-of-thought-twenty-postulates-of-social-physics/folding-funnel-enthalpy.jpg)
 
 <a name="the-evolutionary-dynamics-of-social-physics-build-upon-antifragility-and-the-ideas-of-programs-in-chaos" />
 
@@ -1629,7 +1629,7 @@ the frequencies of subsequent events in space.
 
 #### Within Each of Us, Multitudes of Reflection And Refraction Descend and Ascend Infinitely
 
-![Yin and Yang Across Space](/img/posts/2017-10-10-speed-of-thought-social-physics/yin-yang-across-space.jpg)
+![Yin and Yang Across Space](/img/posts/2017-10-21-speed-of-thought-twenty-postulates-of-social-physics/yin-yang-across-space.jpg)
 
 For sociophysical systems, these ideas of programming with
 probabilistic and chaotic systems must include networks of entities
@@ -1655,7 +1655,7 @@ God, which does extend itself into our universe in unimaginable ways.
 
 #### Yin and Yang is the 2-Form of a Fractal in Two Dimensions
 
-![Infinities of Yin and Yang](/img/posts/2017-10-10-speed-of-thought-social-physics/yin-yang-fractal.jpg)
+![Infinities of Yin and Yang](/img/posts/2017-10-21-speed-of-thought-twenty-postulates-of-social-physics/yin-yang-fractal.jpg)
 
 People throughout history have always been more capable of
 understanding truths such as these, as well as the world around us, in
@@ -1714,7 +1714,7 @@ macrocosms, both spatiotemporally local and distant.
 
 #### [Observation of LCD Phase Defects](https://phys.org/news/2017-06-phase-transition-liquid-crystal-defects.html) Are Centered As A System Cools Over Time
 
-![LCD Phase Changes](/img/posts/2017-10-10-speed-of-thought-social-physics/lcd-phase-change-defects.png)
+![LCD Phase Changes](/img/posts/2017-10-21-speed-of-thought-twenty-postulates-of-social-physics/lcd-phase-change-defects.png)
 
 We have an innate desire to simulate and emulate, which drives our
 learning process. Because this process is *similar* to a Boltzmann
@@ -1803,7 +1803,7 @@ what your mind is made of.
 
 #### Connecting Microstate Energy in [Botlzmann Machines] with Boltzmann's Distribution and Configuration Entropy ...
 
-![Amphiphilic Phases](/img/posts/2017-10-10-speed-of-thought-social-physics/amphiphilic-lcd-phases.jpg)
+![Amphiphilic Phases](/img/posts/2017-10-21-speed-of-thought-twenty-postulates-of-social-physics/amphiphilic-lcd-phases.jpg)
 
 
 - [gibb's entropy?](https://en.wikipedia.org/wiki/Entropy_(statistical_thermodynamics)#Gibbs_entropy_formula)
@@ -2031,7 +2031,7 @@ only serve to identify the nature and type of a program.
 
 #### Does This Go Gamestate Look Random? Is Any Gamestate Random?
 
-![Go Game Board](/img/posts/2017-10-10-speed-of-thought-social-physics/go-game-board.png)
+![Go Game Board](/img/posts/2017-10-21-speed-of-thought-twenty-postulates-of-social-physics/go-game-board.png)
 
 For games like Go or Chess, can natural gamestates be sampled from a
 uniform distribution of gamestates? Why would this deviate
@@ -2136,7 +2136,7 @@ similarity of metatype composition.
 
 #### Cyclohexane Rapidly Transitions Between Its Conformations
 
-![Cyclohexane Conformations](/img/posts/2017-10-10-speed-of-thought-social-physics/cyclohexane-conformations.png)
+![Cyclohexane Conformations](/img/posts/2017-10-21-speed-of-thought-twenty-postulates-of-social-physics/cyclohexane-conformations.png)
 
 The frequency of cyclohexane conformations in a solution depends upon
 the variance between the energy required to stabalize that
@@ -2147,7 +2147,7 @@ means the actual entropy of that solution is highly anomolous.
 
 #### A Random Walk Along the Conformational Free Energy Landscape
 
-![Random Walk Along the Conformational Free Energy Landscape](/img/posts/2017-10-10-speed-of-thought-social-physics/free-energy-conformations.jpg)
+![Random Walk Along the Conformational Free Energy Landscape](/img/posts/2017-10-21-speed-of-thought-twenty-postulates-of-social-physics/free-energy-conformations.jpg)
 
 A molecule's state transitions follow a random walk on the curved
 surface of the energy gradient the current state's Brownian motion
