@@ -22,6 +22,9 @@ excerpt: ""
   - nocent
   - [ilmestys](https://en.wiktionary.org/wiki/ilmestys#Finnish) (finnish)
 
+
+- casinos mix large financial flows with underground social networks
+
 ## [A Marathon and Thermopylae for the Spartan](#a-marathon-and-thermopylae-for-the-spartan)
 
 #### &#x2605; [Novel Types of 21st Century Territory and Their Thermopylaean Chokepoints](#novel-types-of-21st-century-territory-and-their-thermopylaean-chokepoints)
@@ -93,7 +96,7 @@ excerpt: ""
 - TODO: change title for (xiii)
 
 
-#### &#8855; &#8710; &#8968;xiv&#8969; [The Evolutionary Dynamics of Social Physics Build Upon Antifragility and the Ideas of Programs in Chaos](#the-evolutionary-dynamics-of-social-physics-build-upon-antifragility-and-the-ideas-of-programs-in-chaos)
+#### X &#8855; &#8710; &#8968;xiv&#8969; [The Evolutionary Dynamics of Social Physics Build Upon Antifragility and the Ideas of Programs in Chaos](#the-evolutionary-dynamics-of-social-physics-build-upon-antifragility-and-the-ideas-of-programs-in-chaos)
 
 #### X &#8855; &#8710; &#8968;xv&#8969; [For Timescales Both Small and Large, Each Agent's State and Context Is Constructed From Their Sum Of Experience Via Directed Focus](#each-agents-state-and-context-is-constructed-from-their-sum-of-experience-via-directed-focus)
 
@@ -1188,20 +1191,18 @@ simpler than sociophysical systems.
 
 #### &#x2605; Currencies and Forex Products
 
-## &#x2605; Other Energy Types Include
+## &#x2605; Other Energy Types Might Include
 
-#### &#x2605; In/tangible Assets of Corporations
+#### &#x2605; Real Estate, In/tangible Assets of Corporations
 
-#### &#x2605; Constriction/
+#### &#x2605; For The Assets Above, Appreciation & Depreciation Thereof
 
-#### &#x2605; 
+#### &#x2605; Expansion & Constriction of Contractual (Rights)
 
+#### &#x2605; Labor
 
+![Circuits Made Of People](/img/posts/2017-10-21-speed-of-thought-twenty-postulates-of-social-physics/people-circuits.jpg)
 
-
-
-  - financial energy types:
-    - in/tangible assets of corporations
   - financial networks also have energy creation mechanisms:
     - banks have interest (interests/bonds/etc can result in
       non-linear energy creation, where equivalent exchange is not
@@ -1300,19 +1301,6 @@ simpler than sociophysical systems.
     system quite as much as they would affect an isolated system.
 - this seems very similar to ideas from quantum computing circuit
   diagrams.
-When abused, this stuff will ruin your mind. And if you displease
-these people, they will _not_ leave your mind in tact.
-
-#### What Surveillance? I've Been Trying To Say This Shit For Almost THREE YEARS!
-
-By the time you know that Scientology wants to get involved in your
-life, it's way too late. They have likely already invested in
-compromising your social boundary. You are better off fleeing to
-another country. Or you might be safe on Mars. If these people have a
-problem with you they will never talk to you about it: that's pretty
-simple, isn't it? This planet moves forward together -- I wanted to
-make one goddamn point about disconnection and I didn't actually want
-anything to happen.
 
 <a name="social-financial-and-other-energetic-flows-signal-interest-and-intent-via-frequency-magnitude-and-abstract-spectral-decomposition" />
 
@@ -1427,7 +1415,7 @@ an inordinate amount of energy to undo.
 
 #### Time Series Convolution and Correlation
 
-![](signal-convolution-and-correlation.png)
+![Time Series Convolution and Correlation](/img/posts/2017-10-21-speed-of-thought-twenty-postulates-of-social-physics/signal-convolution-and-correlation.png)
 
   - Under most conditions, the Fourier Transform is a linear operator
     and so is the differential operator. This means their application
@@ -1437,6 +1425,7 @@ an inordinate amount of energy to undo.
     - this allows you to construct time-domain waveforms that
       represent the differential of the fourier transform and
       vice-versa
+
   - this simple process, combined with some of the other techniques
     described above enable you to reconstruct signals when you don't
     know the circuits or logical topology -- and vice-versa.
@@ -1484,7 +1473,7 @@ an inordinate amount of energy to undo.
 
 ![Double Door Logic Paradox](/img/posts/2017-10-21-speed-of-thought-twenty-postulates-of-social-physics/)
 
-#### Parallel, AntiParallel and Orthoganal Coupling In Motion Towards The Attainment of Equilibrium Unveils Nearly All Deception
+#### Parallel, Anti-Parallel and Orthoganal Coupling In Motion Towards The Attainment of Equilibrium Unveils Nearly All Deception
 
 - someone with a goal in mind will tend to move TOWARDS or AWAY from
   it when signalling. if they don't feel the need to deceive you, they
@@ -1513,7 +1502,6 @@ an inordinate amount of energy to undo.
         contrast between that truth and the sea of disinformation
         gives you the smoke that indicates fire
 
-
 - TODO: update title
 
 ### &#8855; &#8710; &#8968;xiii&#8969; [Equilibria in Social Games](#)
@@ -1527,6 +1515,11 @@ an inordinate amount of energy to undo.
 
 - stasis of equilibria
 
+
+> This monk is said to have
+> [blinded Mara](https://en.wikipedia.org/wiki/Samadhi#Description). Trackless,
+> he has destroyed Mara's vision and has become invisible to the Evil
+> One.
 
 #### Equilibrium and Intended Equilibrium
 
@@ -1772,11 +1765,11 @@ like, envision a high-dimensional analogue of the yin and yang fractal
 above. Finally, imagine molecules composed of such matter: this is
 what your mind is made of.
 
-- the sociophysical transmission also gives rise to literal physical
+- (the sociophysical transmission also gives rise to) literal physical
   waves. further still, the transmission of physical pheneomena also
   drive ripples of information through sociophysical networks.
 
-![The Wave in a stadium](the-wave.gif)
+![The Wave In A Stadium](the-wave.gif)
 
 - if there is a spectral (understanding) of information-graphs, as
   ellusive as a visual conception might be, then surely a momentary
@@ -1794,6 +1787,13 @@ what your mind is made of.
     between particles and waves, interactions in social physics can be
     understood with infinite dimensional waves
     - however, the structure of information infinite and unknowable
+
+- density/mass of information as particles
+  - baggage you carry with you
+  - first episode of Kino
+  - limiting flexibility
+
+
 
 <a name="models-of-sociophysical-phase-change-require-topological-spaces-imbued-onto-physical-and-aphysical-topologies" />
 

@@ -102,6 +102,10 @@ definitely another real concept for this)
     - so in this way, it's weaker
   - but then, some aspects of identity become stronger
 
+- locutionary camoflage
+  - instead of phrases identifiable to some ideology or group, masking
+    your images/ideas in the locutions of another group
+
 - Another argument against dialectical materialism: the existence and
   structure of forms of the collective unconsciousness challenge the
   marxist dialectic.
@@ -268,6 +272,11 @@ dream where this dog (a great dane) kept licking my face
 ###
 
 # Memory
+
+- Neurotemporal acceleration:
+  - scifi tech 2 slow down the trend of #SpectralDecoherence, but at
+    the ironic cost of experiential compression artifacts, some of
+    which might be non-sensory
 
 ### [Magnetite pollution nanoparticles in the human brain](http://www.pnas.org/content/early/2016/08/31/1605941113)
 
