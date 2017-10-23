@@ -433,10 +433,30 @@ headline: "Informational Territory > Sociohierarchical Territory > Economic Terr
                     what they say about me, because that poison-pen
                     information is already out there.
 
-### Social Media Countertactics
+#### Leveraging ad spots on free music/video for hypnosis
+
+- because why the hell not? you don't have a soul and besides, these
+  people you're targeting have no money, no options, etc. they're
+  forced to use ad-supported free content.
+  - every chance you get, you should be beaming shit into their skull
+    until they are no longer functional except with expensive
+    psychiatric care and then hey! -- your buddies in mental health
+    get a payday.
+    - one hand washes the factory farm sludge off the other, right?
+  - for example, you could easily mutate audio streams of music to
+    insert distortions halfway b/w audio artifacts and voices to make
+    them go insane. again, why the fuck not?
+    - this isn't just my hell.
+    - {that's not what i'm experiencing btw}
+      - it's just a really good idea for gaslighting, since these
+        [milgram](https://en.wikipedia.org/wiki/Milgram_experiment)
+        fucks want to be so good at it, why don't we let them live with
+        that world?
+
+## Social Media Countertactics
 
 
-### Circumventing Shadowbanning
+#### Circumventing Shadowbanning
 
 - filtered content w/ 'shadowlisted' domain names or URLS in FB
   comments *may* be circumvented for content with 'shadowbanned' URLS
