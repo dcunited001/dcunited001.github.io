@@ -1135,7 +1135,7 @@ a sufficiently large set of agents.
 > labelled and then I write to make things clear, accelerating my
 > persecution, of which I have been completely unaware... Really?
 
-### Schematic Change Yielding Self-Perpetuating Changes Over Years, Decades or > Centuries (i.e. Religion)
+### Schematic Change Yielding Self-Perpetuating Changes Over Years, Decades or Centuries (i.e. Religion)
 
 Those who profess knowledge but disclaim or disdain religion are
 fools. Change to the structure of ideas or to the shape of society's
@@ -1179,9 +1179,9 @@ networks. Moreover, mechanics of financial energy types tightly
 preserve equivalent exchange, except through pricing fluctuations and
 transduction of value via currency exchange. Even though the property
 of system linearity is boolean, financial energy types preserve
-linearity more than sociophysical energy types. Therefore, in this
-regard and when considering potential network topologies, they are
-simpler than sociophysical systems.
+equivalent exchange moreso than sociophysical energy types. Therefore,
+in this regard and when considering potential network topologies, they
+are simpler than sociophysical systems.
 
 ## &#x2605; [Financial Instruments](https://en.wikipedia.org/wiki/Financial_instrument) Define Energy Types and Transduction Mechanisms
 
@@ -1199,108 +1199,175 @@ simpler than sociophysical systems.
 
 #### &#x2605; Expansion & Constriction of Contractual (Rights)
 
-#### &#x2605; Labor
+#### &#x2605; Potential and Mobilized Labor
+
+For each financial energy type, there transduction mechanisms to other
+energies. Banks market accounts to consumers, businesses and other
+banks by offering competitive interest rates. These appreciate energy
+over time to consumer's account on the frontend, but they must have a
+profitable structure on the backend. The Fed modulates the components
+of loan product structures on the backend by encouraging institutions
+to raise and lower their interest rates. By doing so, the Fed
+manipulates the energy transduction mechanics that lead to financial
+energy accumulation and diffusion.
+
+There are many types of financial institutions providing other energy
+transduction mechanisms. Forex trades and futures allow for
+speculation on currency valuation. The IMF has a currency basket
+called SDR's which functions as a large resevoir of currencies under
+their control, which could stabalize large forex fluctuations. The
+Yuan was recently added to the SDR's currency basket. Labor enables
+the conversion of time and energy and facilitates to diffuse wealth
+into the hands of the common person. Lending institutions optimize
+their lending reserve leverage by collecting payments on debt.
 
 ![Circuits Made Of People](/img/posts/2017-10-21-speed-of-thought-twenty-postulates-of-social-physics/people-circuits.jpg)
 
-  - financial networks also have energy creation mechanisms:
-    - banks have interest (interests/bonds/etc can result in
-      non-linear energy creation, where equivalent exchange is not
-      preserved)
-    - labor is an exchange of value b/w employee and employer
-      - the value added increases types of energy available to the
-        employer, either directly or indirectly
-  - in finanical networks, institutions (businesses, banks, investors,
-    brokers) provide energy transduction mechanisms:
-    - currency conversion: USD-to-EUR
-    - conversion of time/energy via labor to money
-    - financial-to-social energy conversion
-    - collection of debt payment to optimize lending reserve leverage
-      - this creates circulation of wealth
-  - by accumulating these resources, one is charging a kind of battery
-    of financial energy types, providing potential projection of flux
-    into the financial/social graphs
-    - once used, if the investment of financial energy does not create
-      growth opportunities, the battery becomes depleted
+The goal of the system is efficiently and evenly distribute financial
+energy types. The same quantities financial energies can be leveraged
+by those in power productively, selfishly or potentially to the
+detriment of everyone connected to the system. People think of money
+as an abstraction of commerce. Money is also an abstraction for social
+energy types: it provides a store of value that *you own* that no one
+can take away from you. Through it, you can compel local, meaningful
+change. It might be difficult to accumulate, but if you are strong, it
+is yours. By accumulating these financial energy reserves, one is
+charging a battery, providing potential projection of flux into the
+financial *and* social graphs.
 
-![Capital Flows Over The Financial Graph]()
+The
+[communist manifesto outlines ten planks](http://laissez-fairerepublic.com/tenplanks.html)
+commanding the *monopolization* of institution-types, but the goal is
+total control of everything a citizen might use for power: currency
+via central banking, communication, transportation, private property,
+knowledge via education, and more. After a communist revolution, you
+have no means of accumulating anything you might use for social
+institutions.  That includes private property and money as a store of
+value, by which you can influence your surroundings and adjacent
+sociohierarchical structures: *AND NO ONE SHOULD EVER TAKE THAT FROM
+YOU*. Communists go further still: they monopolize the social
+hierarchies, meaning there is no space for upward movement in society,
+except through their gatekeepers.
 
-- the point is: energy dynamics in financial networks, as hard as they
-  are to predict, are much simpler than they are for sociophysical
-  networks, whose energy types or network topologies can't even be put
-  into words
-  - In the financial graph, an accurate approximation of topology can
-    be etched out from the complete graph of all people, businesses,
-    institutions, government entities, etc.
-    - so, one would start with the complete graph and define some
-      threshold of edge strength to result with a sparse graph that
-      represents all the ways all financial entities can be
-      (reasonably) connected.
-      - if some edge is invalid for legal reasons or if there is just
-        no chance those entities will exchange financial energy, then
-        that edge is dropped from the complete graph
-    - what is left is an approximation of the global financial circuit
-      - even without the added complexity of energy types and
-        individually defined sociophysical topologies,
-        - this graph is hopelessly intractible: it takes so much time
-          to calculate that consistency could be maintained
-          - the graph changes so much by the time you acquire the
-            information you need
-        - and it's so massive, it can't be stored
+So, via abolition of private property and via abysmal savings rates,
+communists undermine financial-to-social energy transduction
+pathways. This is why communism is its own antithesis: it is not
+freedom for the masses; it is merely a changing of the guard. People
+are rendered less capable of upward motion after a communist
+revolution, which inevitably turns to empire to fuel its own expanding
+deficits.
+
+As complicated as energy dynamics are in financial networks, they are
+much simpler than in sociophysical networks, whose energy types or
+network topologies are barely effable and whose transactions are
+rarely quantified. An accurate approximation of topology can be
+subtractively defined by starting from the complete graph of all
+people, businesses, institutions, government entities, etc. From
+there, the financial graph can be etched out by subtracting all of the
+graph edges that cannot or do not perform transactions.
+
+#### The Set Of All Cycles And Cliques in the Complete Graph Where N=5
+
+![Complete Graph](/img/posts/2017-10-21-speed-of-thought-twenty-postulates-of-social-physics/complete-graph.cycles)
+
+Such a hypothetical financial graph represents all the ways all
+financial entities can be connected. Still, there would be at least
+trillions of nodes and thousands of potential edges over which
+financial interactions and transactions can proceed, so this graph is
+hopelessly intractible: it takes so much time to calculate that
+consistency could never be maintained, a la
+[CAP theorum](https://en.wikipedia.org/wiki/CAP_theorem).
+
+By model graph approximations, you can emulate networks and flow of
+energies on the global financial graph. Because the implications for
+financial and social networks are so vast, finding approximations of
+graphs and reducing large graphs into sparse systems is a major focus
+of
+[math and CS research](https://simons.berkeley.edu/talks/amir-dembo-2016-05-02). By
+proving your graph reduction emulates some financial or social
+circuits with some mathematic guarantee of parity, you can efficiently
+simulate these systems.
+
+#### (A Graph Based)
+
+![Visibility Graph Based Time Series Analysis](social-circuits.jpg)
 
 
+Social networks should be modeled with a superposition of topologies,
+since their structure is perplexing and each node constructs their own
+understanding. This means that many networks become superimposed onto
+each other, just like the superposition principle for quantum
+particles. This idea of superposition of various networks is distinct
+from systems where there is one clear network structure because those
+networks can be more simply emulated with a single topology.
 
-- many networks superimposed onto other, more primary, phsyical and
-  aphysical networks.
-
-- (transition into superposition of topologies)
-  - this idea of the superposition of various networks is distinct
-    from systems where there is one clear network structure
-    - even if you can just define a singal
-
-- this is literally the superposition principle applied to virtual
-  network topology (... is it?)
-  - the dynamics of superimposed virtual networks are dependent on the
-    structure of all the "summed" networks.
-    - here the "state" being summed over is all the possibilities of
-      network topology...
-
-- applying the idea of superposition of particle states to topologies
-  of sociophysical networks.
-  - in these networks, information can be represented by particles
-    that behave in ways analogous to quantum particles.
-  - for (each of us) to (intuitively function in social environments),
-    we have to create our own subconscious intuition of sociophysical
-    energy types and circuit topologies.
-    - to (model/solve/anticipate the system), an algorithm without
-      limits on computation must conceive of these networks as having
-      infinitely many energy types, each with their own non-linear
-      transduction mechanics, being pushed through social circuits,
-      via physical and logical interactions
-      - ....
-      - superposition provides a mechanic that anticipates infinite
-        possibilities that collapse into a convergent result in
-        reality
-        - (still just a metaphor)
-
+The dynamics of energies in a virtual, superimposed topology depend
+greatly on how the active interactions relate to each node's
+perception of network topology. This networks function similarly to a
+electrical circuits, if there were myriad circuit diagrams
+superimposed onto each other. The behavior of the system then emerges
+not from one circuit diagram, but from all of them. As a consequence,
+changes to individual circuits do not affect the behavior of the
+superimposed system quite as much as they would affect the isolated
+system itself. Further, a tiny fraction of the potential circuits more
+dominantly determine the superimposed result. In social circuits, this
+might correspond to a scenario where a fraction of nodes can influence
+majority's beliefs, the beliefs they perceive and those they project.
 
 #### A Scientology ["OSA" Operation](https://www.villagevoice.com/2011/07/13/scientologys-spy-program-anatomy-of-a-covert-operation-updated/) To Alter The Sociocircuitry Around An SP's Social Boundary
 
 ![A Simple OSA Operation To Destroy The Life Of And Individual](/img/posts/2017-10-21-speed-of-thought-twenty-postulates-of-social-physics/scientology-disconnection-diagram.jpg)
 
-#### A Graph Based
+#### Corollary to the Superimposed Topology Principle: Range Binding
 
-![Visibility Graph Based Time Series Analysis](social-circuits.jpg)
+#### &#9312; Limit a target's social boundary (1&deg; & 2&deg; neighborhood)
 
-- these ideas need some work, but what this means is changes to flow
-  in one network
-  - e.g. you superimpose a million circuit diagrams on top of each
-    other. the behavior of the system then emerges not from one
-    circuit diagram, but from all of them. therefore, changes to
-    individual circuits do not affect the behavior of a superimposed
-    system quite as much as they would affect an isolated system.
-- this seems very similar to ideas from quantum computing circuit
-  diagrams.
+#### &#9313; Reduce the scope and types of potential social interactions
+
+#### &#9314; Reduce the target's interaction options (e.g. by obliterating their income, imbuing them with a persecution complex, etc.)
+
+#### &#9313; Prevent the target from moving at all costs
+
+#### &#9313; Minimize the set of locations and times where social interactions might occur (e.g. suspending license, inducing/encouraging [Non-24 Disorder](https://en.wikipedia.org/wiki/Non-24-hour_sleep%E2%80%93wake_disorder))
+
+A corollary of this postulate: render a target more predictable by
+reducing the range of dominant topologies in the superposition. Then,
+sociophysicial energies flow and transduce more predictably. When you
+optimize the following, modeling a target's behavior is no longer
+tractible. The space of superimposed networks with highly variant
+contributions collapses and by sociophysically
+[range bounding](http://www.investopedia.com/terms/r/rangeboundtrading.asp)
+them, you ensure all potential topologies are in-phase, as well as the
+energetic components for potential interaction trandsuctions.
+
+A **target** who is **range-bound** then becomes exponentially more
+predictable. In this case, they will attempt to prevent you from
+moving at all costs. You are already compromised. You cannot afford a
+lawyer. You can barely keep your head above water and everyone around
+you is likely "in" on it, though friends and family will have
+psychologically compartmentalized and will not admit it. They will
+seek to prevent you from moving at all costs: you cannot get a job in
+a remote city: they will interfere at any cost: tampering with email;
+rerouting planes & delaying flights; influencing who interviews or
+phone screens you. What's the first paperwork you file at a new job:
+the I-9. These people have a network they can leverage that ideally
+extends to any/all places of non-contractual employment.
+
+Why go through all the trouble to prevent you from moving? This forces
+transfer of information across logistic structures, which expands
+surface area for risk and liability and requires time/energy to
+artifice new relationships to control the target.
+
+
+By limiting the size of a target's 1&deg; social neighborhood,
+  generally reducing the scope and type of potential interactions, and
+  reducing the options for that node, you make them exponentially more
+  predictable.
+  - this is because the space of superimposed networks collapses.
+    - someone trying to sociophysically target another is going to
+      minimize their financial and social options.
+    - ideally this person doesn't drive, has one or two places they
+      can go, can't easily leave their local region, etc...
 
 <a name="social-financial-and-other-energetic-flows-signal-interest-and-intent-via-frequency-magnitude-and-abstract-spectral-decomposition" />
 
@@ -1792,6 +1859,30 @@ what your mind is made of.
   - baggage you carry with you
   - first episode of Kino
   - limiting flexibility
+  - ... explain/outline more here
+  - does this relates to buddhism's usage of vehicular imagery?
+
+
+- applying the idea of superposition of particle states to topologies
+  of sociophysical networks.
+  - in these networks, information can be represented by particles
+    that behave in ways analogous to quantum particles.
+  - for (each of us) to (intuitively function in social environments),
+    we have to create our own subconscious intuition of sociophysical
+    energy types and circuit topologies.
+    - to (model/solve/anticipate the system), an algorithm without
+      limits on computation must conceive of these networks as having
+      infinitely many energy types, each with their own non-linear
+      transduction mechanics, being pushed through social circuits,
+      via physical and logical interactions
+      - ....
+      - superposition provides a mechanic that anticipates infinite
+        possibilities that collapse into a convergent result in
+        reality
+        - (still just a metaphor)
+
+- this seems very similar to ideas from quantum computing circuit
+  diagrams.
 
 
 
@@ -2090,6 +2181,11 @@ anticipated.
      practiced national security law on the side. they were not
      dreams. whatever happened to me, it would take care of 99.999% of
      the cases.
+
+     - "you're now rangebound. it's a very dirty word"
+       - i couldn't have possibly known what range bound meant, but
+         then understood the correlation to its financial trading
+         anaology
 
      -->
 
