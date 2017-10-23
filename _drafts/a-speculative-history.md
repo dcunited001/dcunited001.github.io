@@ -740,3 +740,131 @@ and this is where the story for the wise arch-mage came from
     theory, but i have seen history channel specials on viking
     journeys through the new world, including a tower on the east
     coast (rhode island?) whose origin can't be explained.
+
+### The Curse on King Tut's Tomb
+
+- if bacteria can be trapped under antarctic ice for millinea,
+  preserved in complete isolation with little to consume for energy
+  but itself and hydrothermal energy
+  - then... isn't it feasible for egyptians to have isolated some
+    similar living systems they knew would perpetuate themselves until
+    the tomb(s) were to be opened.
+    - if so, then this knowledge of perpetuating living systems would
+      probably improve over time.
+      - so, anecdotes (preferably data) on infections when opening
+        more recent tombs or certain groups of tombs might yield a few
+        clues. although, at some points, the knowledge could have
+        certainly been lost.
+      - they wouldn't need microscopes or direct observations to
+        understand how these systems would maintain themselves
+        - ancient civilizations had a fundamentally different
+          understanding of living systems
+        - these civ's certainly had working knowledge of the
+          introduction/transduction of physical energy into
+          systems. otherwise, they would not nearly universally revere
+          the Sun as a god.
+          - the sun introduces energy to all physical
+            systems. variance in daily/annual sunlight becomes
+            variance in crop yield, etc.
+            - crops exposed to more light-hours per day are bigger
+            - crops on hilly terrain vary in the level of energy
+              absorbed. if you work with agriculture/food/nature
+              commonly, you see this stuff everywhere.
+            - other factors produce variance as well, but none as
+              profoundly as the sun
+          - further still, for perennial plant material that burns
+            well, those individual plants grown with maximal energy
+            exposure have absorbed more energy. this understanding of
+            how to achieve higher density of heat release is critical
+            knowledge for early metallurgy (though usually applying to
+            more than just perennial plants)
+            - so, if the sun yields energy to renewable sources, then
+              what gives unrenewable resources their energy?
+        - anyways...
+      - egyptians were obsessed with permanence and immortality. thus,
+        fthey may have been fascinated by studying systems where
+        "essence" or "essence of virulence" is perserved over
+        years/decades/generations
+        - they certainly experimented with preserving humans. they
+          probably conducted other experiments as well.
+    - however, to persist for thousands of years, the living systems
+      would almost certainly need an external energy source (and some
+      circulation of airflow)
+      - external openings into the cursed tombs? some tombs have small
+        spaces enabling airflow. for at least some time, this might
+        enable some to add external animal energy sources into the
+        tombs (pure conjecture lmao)
+    - one of the most fascinating things to me is to think about how
+      ancient societies may have solved problems that we can only
+      perceive to have modern solutions.
+
+#### [Stone Strucures in Saudi Arabia](https://arstechnica.com/science/2017/10/archaeologists-are-mystified-by-ancient-gates-in-saudi-lava-fields/)
+
+if you look at this topographical map, the structures to the east of
+Khaybar all point in the direction of the gradient of elevation. if i
+had a better topographical map, i would be more certain.
+
+- [saudi topographical map](http://en-gb.topographic-map.com/places/Saudi-Arabia-2754080/)
+
+it seems like these structures may have been used to collect stores of
+rainwater during flash floods, where the water could be collected for
+storage in the structures which are seen at higher elevations. it
+seems counterintuitive because the triangular base of the features
+expands outward as the elevation drops, but the water should flow
+along the outside of the structures as well, forming vortices turning
+inwards around the points where there are circular features. this
+could balance out the water flow from the inside, pushing the water
+level slightly higher around the well-like features.
+
+in order to understand whether that is true, i need to see where these
+structures are distributed in saudi arabia. if they're used for water
+collection/storage, they probably lay along the shortest trade
+roots. at first, this would allow settlements to be maintained away
+from the more commonly traversed coastal regions. as more
+infrastructure was build, it could help facilitate a trade network
+that provides a secure shortcut across the desert. stored
+water/supplies would only be dispensed to those friendly to the trade
+network. building these structures gives you an economic advantage
+before access to maritime trade routes.
+
+with aqueducts, romans could position cities and forts in more
+central, easily defended areas that depended on roman
+infrastructure. similarly, these extended settlements and trade routes
+would be more difficult for enemies to compromise. at the time when
+these were initially built, anyone pushing too far into your territory
+would likely run out of supplies. if any these ideas are on the right
+track, then there should be more architectural evidence around the
+smaller sites at higher elevations. specifically, pottery.
+
+- also could be a game trap, though why are they all constructed
+  pointing towards the increase in gradient?
+  - for territorial advantage: to force the animal to run uphill, more
+    slowly?
+  - i think if it really were a game trap, these would be constructed
+    in areas with higher traffick hunting.
+    - do these correspond with heat maps of local wildlife movement
+      patterns? yeh,
+      [desert kite map](http://www.globalkites.fr/Interactive-Map)
+
+- almost certainly used for hunting traps because of their
+  distribution in jordan.
+  - but the locations were probably chosen along gradient bc of
+    territorial advantage, but also bc they coincidentally correspond
+    to slightly more hydrated regions, thus more vegetation, thus,
+    animals wander in...
+    - people spot from the hills, people spring from the round-shaped
+      formations in the long kites
+    - driving them further up, pressuring from both flanks, wearing
+      out the game, easily killed at the top
+    - just like RINO hunting in America...
+
+- how does this correlate to Dilmun
+  - supposedly these arabian structures are up to 9000 y/o?
+    - which ones are oldest and where?
+    - what technologies were they found with?
+      - clay pottery? protowriting?
+  - if they are from ~6000-4000bc, this is after the time that the
+    persian gulf had mostly filled in
+
+- how do these structures correlate to north saharan civilizations?
+  - age/distribution of pictographs
