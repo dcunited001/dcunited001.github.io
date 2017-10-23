@@ -210,22 +210,6 @@ excerpt: ""
         same solar weather events, but at different speeds
 
 
-#### Use Skymionic Mechanisms & Special Relativity For An Atomic Clock
-
-- i already had this idea around late december 2016, first thing in
-  the moleskin notebook
-  - [JILA Atomic Clock on Dec 21st](https://phys.org/news/2016-12-jila-atomic-clock-mimics-long-sought.html)
-    set a record for atomic clock accuracy by using skyrmionic effects
-    with
-  - can't find much anything else that matches "skyrmions" and "atomic
-    clock" before this date. for this idea, if nothing else, it was (t
-    < 6 months) for the time i thought about it and the time i see it
-    first mentioned in research/journals/news
-    - usually, there is at least 6+ month lag time b/w research, peer
-      review, publish dates
-    - 
-
-
 #### Unexplained Phenomena in the Solar System And Universe...
 
 - that could exhibit quantum gravity effects (especially skyrmionic)
@@ -287,3 +271,63 @@ excerpt: ""
   - [Gravitational Instanton](https://en.wikipedia.org/wiki/Gravitational_instanton)
   - [Instanton](https://en.wikipedia.org/wiki/Instanton)
     - i need to distinguish skyrmions and instantons (pseudoparticle?)
+
+
+## Improvements to Atomic/Quantum/Optical Clocks
+
+- there have been major advances recently, current record-holder is
+  [JILA](http://jilawww.colorado.edu/yelabs/research/ultracold-strontium),
+  which traps ultracold gas of Strontium(Sr) atoms within a maser's
+  optical fields
+  - [2008 thesis on Strontium optical lattice clock](https://jila.colorado.edu/yelabs/sites/default/files/uploads/theses_2008_AndrewLudlow.pdf)
+
+#### Perterbation of Optical Lattice (Sr) with Known Noise Signature
+
+- injection of perterbation into optical lattice holding strontium
+  atoms in place (they are held in energy wells...)
+  - measure the the variance that emerges (or in the application of
+    energy required to maintain stability)
+    - since these are quantum effects, it may not be possible to just
+      stir things up with some known noise
+  - i'm not sure how they measure the vibration of Sr atoms in lattice
+    - ultra-precise lasers of some harmonic frequency(?) of that
+      absorbed/etc by strontium .... really out of my league here.
+      - assumptions must be made on how the photons/light will be
+        absorbed/refracted once the Sr is stabalized in the ideal
+        lattice
+  - however, wouldn't it be possible to perturb these particles,
+    resulting in characteristic vibration of individual atoms inside
+    the energy wells?
+    - or, do the strontium atoms exit the optical lattice once their
+      energy state changes? (i think so)
+      - if i understood the thesis above & experiment design
+
+#### Use Skymionic Mechanisms & Special Relativity For An Atomic Clock
+
+- i already had this idea around late december 2016, first thing in
+  the moleskin notebook
+  - [JILA Atomic Clock on Dec 21st](https://phys.org/news/2016-12-jila-atomic-clock-mimics-long-sought.html)
+    set a record for atomic clock accuracy by using skyrmionic effects
+    with
+  - can't find much anything else that matches "skyrmions" and "atomic
+    clock" before this date. for this idea, if nothing else, it was (t
+    < 6 months) for the time i thought about it and the time i see it
+    first mentioned in research/journals/news
+    - usually, there is at least 6+ month lag time b/w research, peer
+      review, publish dates
+
+#### (PostIt 1/8/2017) Injection of Known Noise Signatures into Lattice (w/ Isotopes, etc)
+
+- optical clocks must have extremely high constraints
+- use multiple isotopes, elements, crystal forms to improve the
+  accuracy of atomic clocks via hyper/spectral processing & other
+  methods
+  - options for crystal lattice formulations
+    - if you can guarantee the lattice has regularly-spaced inclusions
+      of varying isotopes (very hard/expensive)
+    - instead, assume/include random isotope variation, then
+      measure/anticipate the actual variation
+      - when you have random data/material for an experiment, but can
+        measure its physical variance, this randomness *always* yields
+        more flexible post/processing, pattern resolution from known
+        noise signatures

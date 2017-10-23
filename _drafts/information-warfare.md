@@ -460,7 +460,7 @@ headline: "Informational Territory > Sociohierarchical Territory > Economic Terr
 
 #### Circumventing Shadowbanning
 
-- filtered content w/ 'shadowlisted' domain names or URLS in FB
+- filtered content w/ 'shadowlitsed' domain names or URLS in FB
   comments *may* be circumvented for content with 'shadowbanned' URLS
   by posting a facebook comment w/o it, waiting about (5 - 30) seconds
   and then editing the link in
