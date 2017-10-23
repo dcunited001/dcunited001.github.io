@@ -266,7 +266,75 @@ would even dictate the functional
 
 - [metasyntactic variables](https://en.wikipedia.org/wiki/Metasyntactic_variable))
 
-### Zipf's Distribution for English Words and Japanese Loan Words
+## Computational Linguistics for Songwriting
+
+#### morpheme similarity across languages for song lyrics
+
+  - identify non/sensical morphemes and grammars that are rhythmic and
+    aesthetically pleasing
+    - e.g. sentences like
+      [colorless green ideas sleep furiously](https://en.wikipedia.org/wiki/Colorless_green_ideas_sleep_furiously)
+      can be automatically generated with varying degrees of semantic
+      coherence, but constrained to meet rhythmic, tone, prosody or
+      plosive aesthetics.
+  - or [parse trees](https://en.wikipedia.org/wiki/Parse_tree) can be
+    constructed for some linguistic graph traversal:
+    - this could be through a translingual semantic network, where
+      some branches of parse tree's is lifted via functor to another
+      language
+      - the parse tree branches representing these clauses/expressions
+        are then translated that language
+        - some rules must be set for interlingual encapsulations
+          (e.g. when english sentences are rendered with japanese
+          clauses encapsualted within them)
+    - or it could mix/match grammer structures & function words from
+      one language with mixtures other languages
+      - to use this artistically, focus on the rhythmic patterns &
+        patterns of prosody/emphasis created by a languages grammar
+        rules
+  - another artistic use would be to gradually swap out homophonic
+    synonyms (e.g. in a chorus, mutate some vocab/function words for
+    homophonic counterparts in another language sharing morphemic
+    roots)
+
+#### algorithm to anticipate the phonemic/morphemic content of lyrics lends itself to a singer's range of expression
+
+- for a given set of lyrics, anticipate the spectra for audio as it
+  would be produced by a specific singer
+  - more generally, this can also use data science & machine learning
+    to predict a singer's representation of specific morphemic n-grams
+    - (i.e. their typical vocal expressions for specific combinations
+      of phonemes)
+  - however, it's not just that the algorithm might produce one
+    representation that is typical for a particular artist and word
+    (morpheme), but the range of expression that artist inflect on
+    those words or lyrics
+  - this could help inform other algorithms that anticipate lyrics
+    which bring out the singer's style
+
+- this idea is basically an offshoot of voxxel's algorithm for
+  providing a metric of similarity
+  - voxxel, the worthless PoS "just-for-fun" app for which no one ever
+    cared to question the business model (it's intellectual property
+    and improvements on voice search)
+
+#### abstract usage of phonemic elements purely for their texture & rhtymic qualities
+
+- with computationally generated/transformed lyrics that preserve some
+  hidden meaning (or perhaps create some unconscious meaning in those
+  who are or are not familiar with that languages phonology)
+- process the spectrogram of some sample/instrumentals to identify
+  phonemes (& purely abstract phonological textures) which blend well
+  - the leftover spectral/temporal space remaing in a spectrogram can
+    provide the basis for input to an algorithm that generates lyrics
+    - or can simply provide guidelines/bounds
+  - the imposition of artificial constraints always leads to more
+    opportunities for creativity, but is this the case with automated
+    generation of content.
+    - i would think of these as advanced tools for lyrical style meant
+      to hone the aesthetics of audio
+
+### Zipf's Distribution for English Words and Japanese Loan Words & Variance over time
 
 - what does the difference b/w zipf's distribution for english words &
   japanese loan words from english tell us?

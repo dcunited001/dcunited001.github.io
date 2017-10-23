@@ -13,15 +13,9 @@ excerpt: ""
 
 - [perlocutionary](http://www.dictionary.com/browse/perlocutionary),
   - [illocutionary](http://www.dictionary.com/browse/illocutionary)
-  - [allocution](): The mode of information dissemination in which
-    media broadcasts are transmitted to multiple receivers with no or
-    very limited capability of a two-way exchange of information
-    - they never cared to hear what i had to say. it was not an
-      investigation or interrogation. it was torture.
   - gorgonize
   - nocent
   - [ilmestys](https://en.wiktionary.org/wiki/ilmestys#Finnish) (finnish)
-
 
 - casinos mix large financial flows with underground social networks
 
@@ -891,7 +885,7 @@ narratives. This results in spectral coherence, extending throughout
 the global if these events are relevant and necessary to understand as
 determining the course of history.
 
-#### "History is Written By The Victors."
+#### History is Written By The Victors
 
 Traditionally, it is been very difficult to disrupt established
 narratives, whose distribution reaches some saturation threshold.
@@ -908,18 +902,18 @@ engage with.
 Analogous to a window function, this contextual aperture for past
 events and future expectations is rapidly expanding. It determines
 what information people consider relevent for framing and reexamining
-our perception of cause and effect. With this trend, the sets of
-information and historical events that we are willing to reevaluate is
-changing.
+our perception of cause and effect. With this trend, the scope
+historical events that we are willing to reevaluate is changing.
+
+- TODO: merge, rewrite quoted & connect
 
 > This particularly dangerous consequence of spectral decoherence is
-> not good for anyone. Unless nations work together, this could lead
+> not good for anyone. (Unless nations work together, this could lead
 > to the gradual ablation of causality, a critical dynamic discussed
-> later in this series.
+> later in this series.)
 
 - add quote from Biden on ~ "making hope and history rhyme"
   - from [The Cure at Troy](https://en.wikipedia.org/wiki/The_Cure_at_Troy)
-    - 
   - related to Plato's Republic, where Socrates said myth should be
     structured so that the younger generation's conception of the
     world is shaped in a positive way by the hero's they look up to
@@ -2459,3 +2453,5 @@ information.
 [^graph-based-time-series-analysis]: [Visibility Graph Based Time Series Analysis](https://doi.org/10.1371/journal.pone.0143015) Stephen Mutua, Gu C, Yang H, PLoS ONE10(11): e0143015 (2015)
 
 [^qanat-leylines]: [Groundwater qanat potential mapping using frequency ratio and Shannon’s entropy models in the Moghan watershed, Iran](https://doi.org/10.1007/s12145-014-0145-7), S. Naghibi, H. R. Pourghasemi, Z. Pourtaghi, A. Rezaei, Earth Science Informatics (2014)
+
+[^resilience-to-contagion]: [Resilience To Contagion In Financial Networks](https://doi.org/10.1111/mafi.12051)
