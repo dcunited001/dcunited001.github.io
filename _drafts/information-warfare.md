@@ -318,7 +318,6 @@ headline: "Informational Territory > Sociohierarchical Territory > Economic Terr
       parties interests in mind and if you can convey that you did so
       to the people, they will also remember this
 
-
 # Tactics
 
 
@@ -362,6 +361,11 @@ headline: "Informational Territory > Sociohierarchical Territory > Economic Terr
         policed?
         - why are religious discussions and socially conservative
           issues being constantly shamed and social "justiced"?
+
+- now they're sorting/ranking notifications by importance...
+  - it's a fantastic way to ensure that someone whose content is
+    problematic is never seen when they reply to a post and especially
+    a comment.
 
 - NSA newsfeed drownout attacks on targeted individuals
   - can limit social media exposure of content from dissidents/etc,

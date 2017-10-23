@@ -26,45 +26,45 @@ I hope to provide a good story and possibly spark your interest. If I
 do, follow up with some research yourself.
 
 
-# [Pre-Historic Written Language](#prehistoric-written-language)
+## [Pre-Historic Written Language](#prehistoric-written-language)
 
-### [Calamity Echoes Through Human Psyche](#calamity-echos-through-human-psyche)
+#### &#x03D5; [Calamity Echoes Through Human Psyche](#calamity-echos-through-human-psyche)
 
-### [Wherefore Sees Rising](#wherefore-sees-rising)
+#### &#x03D5; [Wherefore Sees Rising](#wherefore-sees-rising)
 
-# [Innovate or Die](#innovate-or-die)
+## [Innovate or Die](#innovate-or-die)
 
-### [The Origins of Conflict](#the-origins-of-conflict)
+#### &#x03D5; [The Origins of Conflict](#the-origins-of-conflict)
 
-### [Cooperation is Moreso Rewarding](#cooperation-is-moreso-rewarding)
+#### &#x03D5; [Cooperation is Moreso Rewarding](#cooperation-is-moreso-rewarding)
 
-### [Swords to Plowshares](#swords-to-plowshares)
+#### &#x03D5; [Swords to Plowshares](#swords-to-plowshares)
 
-### [Metallurgy ... Or How Hot Can We Make Fire?](#metallurgy-or-how-hot-can-we-make-fire)
+#### &#x03D5; [Metallurgy ... Or How Hot Can We Make Fire?](#metallurgy-or-how-hot-can-we-make-fire)
 
-### [How Hot Can Ug Make Exothermic Combustion Reaction?](#how-hot-can-ug-make-exothermic-combustion-reaction)
+#### &#x03D5; [How Hot Can Ug Make Exothermic Combustion Reaction?](#how-hot-can-ug-make-exothermic-combustion-reaction)
 
-### [Ancient Knowledge of Oil](#ancient-knowledge-of-oil)
+#### &#x03D5; [Ancient Knowledge of Oil](#ancient-knowledge-of-oil)
 
-### [Emergence of Copper Mining](#emergence-of-copper-mining)
+#### &#x03D5; [Emergence of Copper Mining](#emergence-of-copper-mining)
 
-# [The Origin of Religion](#the-origin-of-religion)
+## [The Origin of Religion](#the-origin-of-religion)
 
-### [What Is God, To You?](#what-is-god-to-you)
+#### &#x03D5; [What Is God, To You?](#what-is-god-to-you)
 
-### [Religion as Survival of the Most Empowering](#religion-as-survival-of-the-most-empowering)
+#### &#x03D5; [Religion as Survival of the Most Empowering](#religion-as-survival-of-the-most-empowering)
 
-### [What Is The Knowledge of Good and Evil?](#what-is-the-knowledge-of-good-and-evil)
+#### &#x03D5; [What Is The Knowledge of Good and Evil?](#what-is-the-knowledge-of-good-and-evil)
 
-# [The Deluge(s)](#the-deluges)
+## [The Deluge(s)](#the-deluges)
 
-### [Monolithic Paroxysm of Civilizational Collapse](#monolithic-paroxysm-of-civilizational-collapse)
+#### &#x03D5; [Monolithic Paroxysm of Civilizational Collapse](#monolithic-paroxysm-of-civilizational-collapse)
 
-### [Glacial Outburst Flooding](#glacial-outburst-flooding)
+#### &#x03D5; [Glacial Outburst Flooding](#glacial-outburst-flooding)
 
-### [Lake Agassiz Glacial Outburst Flood](#lake-agassiz-glacial-outburst-flood)
+#### &#x03D5; [Lake Agassiz Glacial Outburst Flood](#lake-agassiz-glacial-outburst-flood)
 
-### [Global Warming is a Ten Thousand Year Trend](#global-warming-is-a-ten-thousand-year-trend)
+#### &#x03D5; [Global Warming is a Ten Thousand Year Trend](#global-warming-is-a-ten-thousand-year-trend)
 
 <a name="prehistoric-written-language" />
 
@@ -1118,7 +1118,7 @@ of the 20th century.
     a characteristic smell of sulphur
 
 
-# Atlantis, Lemuria, Hyperborea
+# (Atlantis, Lemuria, Hyperborea)
 
 Countless myths concern lost cities, once great, but now sunken into
 the sea or otherwise forgotten.
@@ -1155,7 +1155,8 @@ include pics from Kurt Lambeck paper (1995)
 - "Shoreline reconstructions for the Persian Gulf since the last
   glacial maximum"
 
-- the response to flooding of the Persian gulf
+#### Diasporic response to gradual flooding of the Persian gulf
+
   - during this time, the Tigris & Euphrates would have flowed into
     Persian Gulf area
     - possibly merging before/around reaching the area now known as
@@ -1188,6 +1189,75 @@ include pics from Kurt Lambeck paper (1995)
       delta
   - a third group would begin occupying higher and higher ground
     - along the coastline from Kuwait to Oman to Yemen
+
+
+#### [Stone Strucures in Saudi Arabia](https://arstechnica.com/science/2017/10/archaeologists-are-mystified-by-ancient-gates-in-saudi-lava-fields/)
+
+if you look at this topographical map, the structures to the east of
+Khaybar all point in the direction of the gradient of elevation. if i
+had a better topographical map, i would be more certain.
+
+- [saudi topographical map](http://en-gb.topographic-map.com/places/Saudi-Arabia-2754080/)
+
+it seems like these structures may have been used to collect stores of
+rainwater during flash floods, where the water could be collected for
+storage in the structures which are seen at higher elevations. it
+seems counterintuitive because the triangular base of the features
+expands outward as the elevation drops, but the water should flow
+along the outside of the structures as well, forming vortices turning
+inwards around the points where there are circular features. this
+could balance out the water flow from the inside, pushing the water
+level slightly higher around the well-like features.
+
+in order to understand whether that is true, i need to see where these
+structures are distributed in saudi arabia. if they're used for water
+collection/storage, they probably lay along the shortest trade
+roots. at first, this would allow settlements to be maintained away
+from the more commonly traversed coastal regions. as more
+infrastructure was build, it could help facilitate a trade network
+that provides a secure shortcut across the desert. stored
+water/supplies would only be dispensed to those friendly to the trade
+network. building these structures gives you an economic advantage
+before access to maritime trade routes.
+
+with aqueducts, romans could position cities and forts in more
+central, easily defended areas that depended on roman
+infrastructure. similarly, these extended settlements and trade routes
+would be more difficult for enemies to compromise. at the time when
+these were initially built, anyone pushing too far into your territory
+would likely run out of supplies. if any these ideas are on the right
+track, then there should be more architectural evidence around the
+smaller sites at higher elevations. specifically, pottery.
+
+- also could be a game trap, though why are they all constructed
+  pointing towards the increase in gradient?
+  - for territorial advantage: to force the animal to run uphill, more
+    slowly?
+  - i think if it really were a game trap, these would be constructed
+    in areas with higher traffick hunting.
+    - do these correspond with heat maps of local wildlife movement
+      patterns? yeh,
+      [desert kite map](http://www.globalkites.fr/Interactive-Map)
+
+- almost certainly used for hunting traps because of their
+  distribution in jordan.
+  - but the locations were probably chosen along gradient bc of
+    territorial advantage, but also bc they coincidentally correspond
+    to slightly more hydrated regions, thus more vegetation, thus,
+    animals wander in...
+    - people spot from the hills, people spring from the round-shaped
+      formations in the long kites
+    - driving them further up, pressuring from both flanks, wearing
+      out the game, easily killed at the top
+    - just like RINO hunting in America...
+
+- how does this correlate to Dilmun
+  - supposedly these arabian structures are up to 9000 y/o?
+    - which ones are oldest and where?
+    - what technologies were they found with?
+      - clay pottery? protowriting?
+  - if they are from ~6000-4000bc, this is after the time that the
+    persian gulf had mostly filled in
 
 ### notes about seafare and trade
 
@@ -1245,7 +1315,6 @@ development of mythology
     - but if there were any major adaptation that dependably extended
       the lifetime of one group of people over another, this would
       present a major evolutionary advantage in early history
--
 
 
 - some ancient species evolved until they reached the singularity,

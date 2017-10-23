@@ -75,7 +75,7 @@ excerpt: ""
 
 #### X &#8855; &#8710; &#8968;iiii&#8969; [Social Power Depends On Potentials For Types Of Energy Flux, Each Actual And Perceived](#social-power-depends-on-potentials-for-types-of-energy-flux)
 
-#### X &#8855; &#8710; &#8968;v&#8969; [Perceived Beliefs Drive Social Power Dynamics Via Positive and Negative Feedback Loops](#perceived-beliefs-drive-social-power-dynamics-via-positive-and-negative-feedback-loops)
+#### << &#8855; &#8710; &#8968;v&#8969; [Perceived Beliefs Drive Social Power Dynamics Via Positive and Negative Feedback Loops](#perceived-beliefs-drive-social-power-dynamics-via-positive-and-negative-feedback-loops)
 
 #### X &#8855; &#8710; &#8968;vi&#8969; [Agents Have Varying Degrees Of Autonomy and Individual Definitions Of Energy Types. They Share Traits, Such As Concurrency, Bandwidth and Physicality](#agents-have-varying-degrees-of-autonomy-and-individual-definitions-of-energy-types)
 
@@ -83,7 +83,10 @@ excerpt: ""
 
 #### X &#8855; &#8710; &#8968;viii&#8969; [Spectral Coherence of Knowledge, Information and Agent Context Strongly Influences Conceptualization and Anticipation](#spectral-coherence-of-knowledge-information-and-agent-context-strongly-influences-conceptualization-and-anticipation)
 
-#### (...) &#8855; &#8710; &#8968;ix&#8969; [Social Circuitry Enables Sociophysical Energy Flows, Where The Superposition Principle Applies Circuit and Network Topologies. All Exist Simultaneously](#social-circuitry-enables-sociophysical-energy-flows-where-the-superposition-principle-applies-to-circuit-and-network-topologies)
+#### << &#8855; &#8710; &#8968;ix&#8969; [Social Circuitry Enables Sociophysical Energy Flows, Where The Superposition Principle Applies Circuit and Network Topologies. All Exist Simultaneously](#social-circuitry-enables-sociophysical-energy-flows-where-the-superposition-principle-applies-to-circuit-and-network-topologies)
+
+- TODO: title for "Visibility Graph Based Time Series Analysis"
+  - also, figure out how to cite that paper
 
 #### X &#8855; &#8710; &#8968;x&#8969; [Social, Financial and Other Energetic Flows Signal Interest and Intent Via Frequency, Magnitude and Abstract Spectral Decomposition](#social-financial-and-other-energetic-flows-signal-interest-and-intent-via-frequency-magnitude-and-abstract-spectral-decomposition)
 
@@ -914,6 +917,36 @@ changing.
 > to the gradual ablation of causality, a critical dynamic discussed
 > later in this series.
 
+- add quote from Biden on ~ "making hope and history rhyme"
+  - from [The Cure at Troy](https://en.wikipedia.org/wiki/The_Cure_at_Troy)
+    - 
+  - related to Plato's Republic, where Socrates said myth should be
+    structured so that the younger generation's conception of the
+    world is shaped in a positive way by the hero's they look up to
+    - (socrates killed for 'corrupting the youth', ironically perhaps)
+  - history, as the collective narrative we all share, is under seige
+    by disinformation run amok on superconnected networks
+    - we are losing control of the ability to shape this...
+    - (expand on these ideas)
+- hope and history should rhyme: our collective narrative should
+  amplify the strength of our children's inculcated values systems.
+  - this is why we need to be strong, now. we need to be the heroes
+    who the next generations will look up to as standing up to the
+    challenges before them, even though there was risk, (danger,
+    uncertainty, power... )
+
+#### History says, Don't hope
+
+#### On this side of the grave,
+
+#### But then, once in a lifetime
+
+#### The longed-for tidal wave
+
+#### Of justice can rise up
+
+#### And hope and history rhyme.
+
 <a name="agents-have-varying-degrees-of-autonomy-and-individual-definitions-of-energy-types" />
 
 ### &#8855; &#8710; &#8968;vi&#8969; [Agents Have Varying Degrees Of Autonomy and Individual Definitions Of Energy Types. They Share Traits, Such As Concurrency, Bandwidth and Physicality](#agents-have-varying-degrees-of-autonomy-and-individual-definitions-of-energy-types)
@@ -1268,7 +1301,7 @@ graph edges that cannot or do not perform transactions.
 
 #### The Set Of All Cycles And Cliques in the Complete Graph Where N=5
 
-![Complete Graph](/img/posts/2017-10-21-speed-of-thought-twenty-postulates-of-social-physics/complete-graph.cycles)
+![Complete Graph](/img/posts/2017-10-21-speed-of-thought-twenty-postulates-of-social-physics/complete-graph-cycles.png)
 
 Such a hypothetical financial graph represents all the ways all
 financial entities can be connected. Still, there would be at least
@@ -1290,33 +1323,83 @@ simulate these systems.
 
 #### (A Graph Based)
 
-![Visibility Graph Based Time Series Analysis](social-circuits.jpg)
+![Visibility Graph Based Time Series Analysis](/img/posts/2017-10-21-speed-of-thought-twenty-postulates-of-social-physics/social-circuits.jpg)
 
+Thus, similiary, social networks should be modeled with a
+superposition of topologies, since their structure is perplexing and
+each node constructs its own model of topologies for energies. In
+effect, many networks become superimposed onto each other, just like
+the superposition principle for quantum particles. This idea of
+superposition of various networks is distinct from systems where there
+is one clear network structure because those networks can be more
+simply emulated with a single topology.
 
-Social networks should be modeled with a superposition of topologies,
-since their structure is perplexing and each node constructs their own
-understanding. This means that many networks become superimposed onto
-each other, just like the superposition principle for quantum
-particles. This idea of superposition of various networks is distinct
-from systems where there is one clear network structure because those
-networks can be more simply emulated with a single topology.
+#### The Prototypical Superposition Calculation In Electrical Circuits
+
+[Superposition for Circuits](http://hyperphysics.phy-astr.gsu.edu/hbase/electric/suppos.html)
+
+In electrical circuits with multiple power sources, current and
+voltage can be predicted by decomposing the circuit, then applying the
+superposition principle to sum over the topologies for each voltage
+and current source in isolation. In sociophysical networks, each node
+is a source of energy, not unlike voltage or current sources in
+electrical networks.  However, the superposition principle differs
+from that in electrical circuits in these key ways:
+
+#### &#x2605; Each node defines its own energy types
+
+#### &#x2605; Each node has its own definition of topologies, which are always mutating
+
+#### &#x2605; Each node processing social energies and topologies subconsciously and to varying degrees of proficiency
+
+#### &#x2605; Each node produces its own energies on the network, but also acts analogously to other circuit component types (e.g. resistor, capacitor, transistor, etc)
+
+A sociophysical node should at least include any entity through which
+will or energy can be projected. How and whether
+[MAF/ASF entities](/posts/2017-10-12-treatise-on-entity-and-agency.html),
+inanimate objects or physical aspects of topologies should be models
+as components of circuits is fathomable and downright
+contentious. Each entity is certainly a source of energies in a
+circuit -- yet, how might other types of nodes affect sociophysical
+energy flows?
+
+> When the bell rings in a clocktower, can this not project
+> information, subconsciously inform entities of the current time and
+> thus influence their behavior? It would certainly matter to Kant, if
+> his watch were broken. Specifically, how mundane stimuli like this
+> shape energy flows in sociophysical models is the more critical
+> question, along with how accounting for such miscillanea might
+> tractibly scale. Better ask a Feng Shui master.
 
 The dynamics of energies in a virtual, superimposed topology depend
 greatly on how the active interactions relate to each node's
-perception of network topology. This networks function similarly to a
+perception of network topology.
+
+
+This networks function similarly to a
 electrical circuits, if there were myriad circuit diagrams
-superimposed onto each other. The behavior of the system then emerges
-not from one circuit diagram, but from all of them. As a consequence,
-changes to individual circuits do not affect the behavior of the
-superimposed system quite as much as they would affect the isolated
-system itself. Further, a tiny fraction of the potential circuits more
-dominantly determine the superimposed result. In social circuits, this
-might correspond to a scenario where a fraction of nodes can influence
-majority's beliefs, the beliefs they perceive and those they project.
+superimposed onto each other. The behavior of the system emerges not
+from one circuit topology, but from all topologies, superimposed.
+
+- Changes to individual circuits would affect the behavior of the
+  resultant superimposed system far less than each isolated system
+  - if it were not that the superimposed topologies are constructed as
+    graphs permuted components representing the same social
+    nodes. Since a fraction of potential circuits dominate the
+    superimposed results,
+
+. In
+social circuits, this might correspond to a scenario where a fraction
+of nodes can influence majority's beliefs, the beliefs they perceive
+and those they project.
 
 #### A Scientology ["OSA" Operation](https://www.villagevoice.com/2011/07/13/scientologys-spy-program-anatomy-of-a-covert-operation-updated/) To Alter The Sociocircuitry Around An SP's Social Boundary
 
 ![A Simple OSA Operation To Destroy The Life Of And Individual](/img/posts/2017-10-21-speed-of-thought-twenty-postulates-of-social-physics/scientology-disconnection-diagram.jpg)
+
+- TODO: explain how the following focuses/diffuses sociophysical
+  energy by restricting potential topologies (essentially altering the
+  structures of sociophysical circuits.)
 
 #### Corollary to the Superimposed Topology Principle: Range Binding
 
@@ -1356,7 +1439,7 @@ are prey that has been cornered. Run to Switzerland.
 
 #### &#8855; &#8710; &#8968;x&#8969; [Social, Financial and Other Energetic Flows Signal Interest and Intent Via Frequency, Magnitude and Abstract Spectral Decomposition](#social-financial-and-other-energetic-flows-signal-interest-and-intent-via-frequency-magnitude-and-abstract-spectral-decomposition)
 
-At the micro and macro level similar information dynamics facilitate
+At the micro and macro level, similar information dynamics facilitate
 inference via financial and social capital flows. In macroeconomics, a
 time-series, spectral and differential analysis of global financial
 capital flows indicates not only supply and demand, but long-term
@@ -1467,14 +1550,13 @@ an inordinate amount of energy to undo.
 
 ![Time Series Convolution and Correlation](/img/posts/2017-10-21-speed-of-thought-twenty-postulates-of-social-physics/signal-convolution-and-correlation.png)
 
-  - Under most conditions, the Fourier Transform is a linear operator
-    and so is the differential operator. This means their application
-    in most circumstances is associative and commutative.
-    - you can rearrange the differential/gradient with that of the
-      fourier transform
-    - this allows you to construct time-domain waveforms that
-      represent the differential of the fourier transform and
-      vice-versa
+- Under most conditions, the Fourier Transform is a linear operator
+  and so is the differential operator. This means their application in
+  most circumstances is associative and commutative.
+  - you can rearrange the differential/gradient with that of the
+    fourier transform
+  - this allows you to construct time-domain waveforms that represent
+    the differential of the fourier transform and vice-versa
 
   - this simple process, combined with some of the other techniques
     described above enable you to reconstruct signals when you don't
@@ -1507,6 +1589,7 @@ an inordinate amount of energy to undo.
 - hyperspectral analysis
   - what would this be like for non-euclidian topologies like spectra
     derived from graphs & graph flows
+
 
 <a name="even-when-invisible-intent-is-signified-and-clarified-by-parallel-antiparallel-and-orthogonal-orientations-of-motion-as-they-relate-to-laplacian-of-high-dimensional-surfaces" />
 
