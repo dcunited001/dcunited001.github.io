@@ -1,8 +1,12 @@
 ---
-title: hypnosis, nlp, and kantian category collapse
+title: "Hypnosis, NLP"
+categories: "blog"
+tags: ""
+headline: ""
+author:
+  name: "David Conner"
+excerpt: ""
 ---
-
-
 
 - there's already a ton of study on meditative states of mind, but i
   believe this provides a neuroanatomical basis for more mystical or
@@ -16,6 +20,58 @@ title: hypnosis, nlp, and kantian category collapse
   - e.g. diminished flow in the DMN and brain regions active in
     cognitive may trigger decentralized crosstalk b/w neurons
 
+# What is NLP?
+
+- [NLPUniversity Press](http://nlpuniversitypress.com/): dictionary on
+    NLP terms (interesting bc inaccessible. turns out to be good)
+
+### Modalities/Submodalities
+
+- [submodalities](https://www.nlpworld.co.uk/nlp-glossary/s/submodalities/)
+
+- hacking sensory inputs.
+  - particularly, those related to the "lizard brain"
+    - mimicking sensory input effectively triggers to unconsciously
+      trigger signals deeper within the brain
+
+- tonal system
+  - using emotional tones of voice/action to signal:
+    - in phase with the expected response,
+    - randomly, against expectation
+    - neutrally
+    - counter to the specifically expected emotional response
+    - with some pattern of behavior designed to "fake out" the
+      counter-party's [n-gram](https://en.wikipedia.org/wiki/N-gram)
+      - an N-gram is the next N moves you predict the counter-party to
+        make. for NLP (natural language processing), it is the next N
+        words you expect someone to say.
+      - it's used on the iPhone to suggest words, given a partial seq
+      - but it's the sequence of symbols representing the next moves
+        you expect an adversary to make
+        - if you sufficiently generalize this concept, you can apply
+          it in a cold, cruel, utilitarian way that would give stalin
+          a boner by manipulating your counter-party's sequence of
+          emotions/actions/etc
+        - remember, you naturally win because you gain/maintain their
+          trust while drawing out their desire to want/need a
+          connection,
+          - yada yada yada.
+          - excuse me while i fucking barf.
+      - SCIENTOLOGY LITERALLY IS TEAM SOCIOPATHY
+
+  - when you decouple your emotional state by composing patterns of
+    the above in response to the natural emotional states of others,
+    it forces them to be reactive
+    - this is an abuse of an authentic social connection. most people
+      want to be in phase with you, but you can alter your behavior to
+      consistently give yourself an advantage by exploiting the
+      needs/desires of others to feel an authentic emotional
+      connection
+      - in a cold, utilitarian way, this usually gives you the upper
+        hand.
+      - i never do this on purpose; i simply lack the ability to form
+        emotional connection via like 8 different personality
+        complexes, including an attachment disorder
 
 # Hypnosis, NLP and Conceptual Designation
 
@@ -69,10 +125,7 @@ brain's structure already exists.
       - "Anthony Hopkins uses NLP to butter his victims up. Be like
         Hopkins"
 
-
 ### Hypnosis Accelerates Deposition of Residual Potential for Conceptual Designation
-
-
 
 - The [monkey mind]()
 
@@ -95,4 +148,8 @@ brain's structure already exists.
       expend a lot of energy and chaotically divert its energy to
       acquire enough information to trigger the Kantian collapse. It
       triggers turbulence in neural energetic flows.
+
+
+
+### Hypnotic Conditioning to Encourage Negative Behavior Patterns or Evasive Stimulus Respons
 

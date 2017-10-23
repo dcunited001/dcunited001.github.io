@@ -197,14 +197,51 @@ headline: "Informational Territory > Sociohierarchical Territory > Economic Terr
   - how does it augment your ability to influence informational
     dynamics?
 
-# Four Types of Territory
+# Five Types of Territory
 
 - for the purposes of this article, the types of territory that will
   be examined is limited to four.
   - other additions can be imagined as well as reformulations into
     other categories
 
-### Informational Territory
+### (1) Informational Territory
+
+### (2) Sociohierarchical Territory
+
+### (3) Economic Territory
+
+### (4) Physical Territory
+
+### (5) (Mental/Subjective Experience) Territory
+
+- this could be considered a subtype of Informational Territory, but
+  it's fundamentally different, since our subjective experience of
+  mind constructs our reality
+  - this our last shred of privacy. the last piece of space on earth
+    to be conquered is our mind/consciousness.
+    - (this needs to be explained more clearly)
+  - this is what hypnosis and psychological warfare is really
+    encroaching on.
+    - this territory describes the end-goal of any marketing strategy,
+      propaganda technique, etc
+    - the war is literally for your mind
+- this should be distinguished from informational territory, which is
+  concerned with language, ideas, words, literature, pop culture,
+  telecom, etc
+  - or places, forums & time/focus sinks in cyberspace ("places" you
+    can move your awareness to)
+- instead, this is the space constructed from what (SOF/AAF/PAF)
+  entities have internalized. the (AAF/PAF) for now are basically
+  informational territory
+  - for now, there is something profoundly different from human/SOF
+    experience. we can't clone ourselves somewhere or project our
+    awareness to another body or another life
+  - these psychological pricks are invading your personal space,
+    projecting signal into whatever senses are available for input.
+    - if they thought using your spincter for input in causal
+      interactions, they would
+
+# (1) Informational Territory
 
 #### belief structures
 
@@ -234,7 +271,7 @@ headline: "Informational Territory > Sociohierarchical Territory > Economic Terr
   changes?
   - at the same time that
 
-### Sociohierarchical Territory
+# (2) Sociohierarchical Territory
 
 - how is it different today? where is it going?
   - {already discussed in draft on metaphysical-precipitation}
@@ -295,14 +332,14 @@ headline: "Informational Territory > Sociohierarchical Territory > Economic Terr
   - non-profit
   - popular (community organizations, activist, meetups/etc)
 
-### Economic Territory
+# (3) Economic Territory
 
 - capital flows
 - intellectual property
 - developing markets
 
 
-### Physical Territory
+# (4) Physical Territory
 
 - expensive to maintain control over
   - can result in the development of negative narratives
@@ -317,6 +354,10 @@ headline: "Informational Territory > Sociohierarchical Territory > Economic Terr
     - exercise your power justly, with cause, responsibly and with all
       parties interests in mind and if you can convey that you did so
       to the people, they will also remember this
+
+# (5) Mental/Experiential Territory
+
+
 
 # Tactics
 
