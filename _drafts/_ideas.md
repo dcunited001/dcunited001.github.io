@@ -1,7 +1,10 @@
 
 ### startup ideas
 
-- Blockchain X Medium (see blockchain notes)
+#### Blockchain X Medium (see blockchain notes)
+
+#### Backup/Analyze/Provide documentation for old electonics (& their components)
+
 - app to backup/facilitate access to documentation for old appliance's
   electrical components & circuit diagrams
   - i'm sure there's already an app for that
@@ -25,6 +28,8 @@
   - essentially rent your brains computation power on demand (ok
     that's dumb lmao)
 
+#### Logical Diffing of Federal USC Statutes to Produce Functionally Equivalent Documentation of Law
+
 - parse USC federal & state law sections as "trees" to rebase the
   language so that it's functionally equivalent, but more simply
   expressed
@@ -40,7 +45,29 @@
     writing bills
     - you could have continuous integration and "automated testing"
       for congressional assistants to aid in writing bills
+
+#### App: Train Stronger Rhyme Recognition/Generation via Neural Hack (semantic dissonance)
+
+- present users with streams of non-sensical sentences that maintain a
+  rhyme scheme. the statements don't make sense, but there is always a
+  simple meter and a rhyme scheme.
+  - the intention is that the semantic dissonance is jarring, which
+    subconsciously compels the mind to focus a bit more on the rhymes
+    it encounters
+    - that is, it notices and picks up the intentional rhymes, but
+      there is no valid semantic meaning of the sentence,
+    - so it should force the mind to focus on the content its
+      processing more, thus internalizing potential rhymes
+  - ideally app would process voice allow for mutliple meters, but the
+    content would be randomly generated
+
+#### Misc Tech Ideas
+
+- AR Meta Flashbards
 - UI idea: tilt-to-reveal interaction for GIF's shared online
+
+
+===============
 
 
 - singularity & delta-singularity can allow a group of people in power
