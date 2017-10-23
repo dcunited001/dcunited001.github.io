@@ -67,6 +67,14 @@
 - UI idea: tilt-to-reveal interaction for GIF's shared online
 
 
+- Oscil8 simplification:
+  - a pastie dev site for configuring synth patches and sharing w/
+    short-url, text & data
+  - would include WebAudio MIDI interface
+    - potentially emulation hardware/VST
+  - simply a free tool for playing w/ Software/Web VST's and sharing
+    the sounds in JSON (probably already exists)
+
 ===============
 
 

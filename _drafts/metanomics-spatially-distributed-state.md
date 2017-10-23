@@ -118,7 +118,25 @@ spatially distributed state in the nucleus
   interpolate data, so that higher resolution can be acheived
   - {however, NMR/MRI data occurs in slices, but i'm almost certain
     I've seen this technique used somewhere since}
-- 
+
+
+#### Generalized DTI Atlas as Basis for Modular Addition of Data, w/ Composition/Reevaluation
+
+- a generalized model of the brain that enables any model to be meshed
+  together to eludicate more information & recompute data from other
+  models
+  - [A DTI tractography atlas for virtual in vivo dissections](http://www.sciencedirect.com/science/article/pii/S0010945208001238)
+    - something like the above, but deconstructed to allow the modular
+      composition of additional arbitrary data sets, without knowing
+      beforehand
+    - within reasonable constraints of course. but DTI Tractography
+      alread uses a somewhat recursive process
+    - problem: every brain is different, especially the kinds of
+      brains you want/need to analyze
+      - so each type of modular composition/reevaluation needs to be
+        vetted, unless there really is some generalized means of
+        chipping away at the "possibility space"
+
 
 overview of ideas/methods:
 

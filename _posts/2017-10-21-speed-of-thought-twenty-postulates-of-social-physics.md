@@ -1370,10 +1370,10 @@ greatly on how the active interactions relate to each node's
 perception of network topology.
 
 
-This networks function similarly to a
-electrical circuits, if there were myriad circuit diagrams
-superimposed onto each other. The behavior of the system emerges not
-from one circuit topology, but from all topologies, superimposed.
+This networks function similarly to a electrical circuits, if there
+were myriad circuit diagrams superimposed onto each other. The
+behavior of the system emerges not from one circuit topology, but from
+all topologies, superimposed.
 
 - Changes to individual circuits would affect the behavior of the
   resultant superimposed system far less than each isolated system
@@ -1382,10 +1382,9 @@ from one circuit topology, but from all topologies, superimposed.
     nodes. Since a fraction of potential circuits dominate the
     superimposed results,
 
-. In
-social circuits, this might correspond to a scenario where a fraction
-of nodes can influence majority's beliefs, the beliefs they perceive
-and those they project.
+. In social circuits, this might correspond to a scenario where a
+fraction of nodes can influence majority's beliefs, the beliefs they
+perceive and those they project.
 
 #### A Scientology ["OSA" Operation](https://www.villagevoice.com/2011/07/13/scientologys-spy-program-anatomy-of-a-covert-operation-updated/) To Alter The Sociocircuitry Around An SP's Social Boundary
 
@@ -1536,9 +1535,8 @@ an inordinate amount of energy to undo.
 
 - (here, focus on imagery related to electrical systems)
 
-- imagine time series analysis  time-domain
-  signals and spectral-domain arrangements and combinatorially
-  permuted functional domains
+- imagine time series analysis time-domain signals and spectral-domain
+  arrangements and combinatorially permuted functional domains
 
 #### Time Series Convolution and Correlation
 
@@ -1565,6 +1563,19 @@ an inordinate amount of energy to undo.
 
 - directionality of power flows
   - one way & two way directions of comm. protocols (diodes)
+  - voltage regulation (bridge to AC ish ... quick)
+
+- analogy to AC and particular "work" that can only be done via
+  alternating/cycling directionality of sociophysical energies
+  - circuits that only permit desired functionality when receiving
+    energies oscillated in two or more local topological directions
+    - a picture is really worth 1,000 words here
+
+- understanding how AC/n-phase oscillation coordinated projection of
+  energies leads to signature energy flows on the network is key to
+  pattern recognition of toxic social/financial behavior flows
+  - also is key to understanding coordination of a group's energies,
+    regardless of how a group signals
 
 #### A Heatmap of Combinitorialized Signal Sources, With Hierarchical Relationships Forming One Basis For A First-Order Transvaluation
 
@@ -1922,7 +1933,6 @@ what your mind is made of.
   - ... explain/outline more here
   - does this relates to buddhism's usage of vehicular imagery?
 
-
 - applying the idea of superposition of particle states to topologies
   of sociophysical networks.
   - in these networks, information can be represented by particles
@@ -1944,7 +1954,10 @@ what your mind is made of.
 - this seems very similar to ideas from quantum computing circuit
   diagrams.
 
-
+- of course, this analogy of information as particle/wave begs the
+  question: what is sociophysical equivalent to critical mass & `E =
+  m*c^2`
+  - mention here, but dicsuss in further detail in part 3 (metrics)
 
 <a name="models-of-sociophysical-phase-change-require-topological-spaces-imbued-onto-physical-and-aphysical-topologies" />
 

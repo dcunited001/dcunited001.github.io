@@ -363,7 +363,35 @@ presence or absence of a particular molecule in a variably sized space
         - though it will be much more difficult for the brain than
           other organs (like networks of CYP metabolization in liver)
 
+- accelerate acquisition of neural epigenetic data, where possible by
+  sequencing necessarily extracted tissue from surgeries already
+  scheduled/required
 
+#### Goals for Neuropharmacological Progression
+
+- eludication of natuarl/artifical induced variants of morphological
+  distribution/progression should emerge
+  - via poor psychiatric/neuropharmocological assessments
+    - wrong medication for diagnosis, medication for wrong diagnosis
+  - via medication interactions (known/unknown)
+- connect neurological data to an ontologically-informed modeled
+  assessing presence/absence/quality of disease traits
+  - traits such as: anomolous EEG dispersion/spectra/response,
+    phenomology of disease signs/symptoms/progression and the
+    qualities thereof
+
+#### Other Experimental Methodologies
+
+- use PET (w/ radiotracers) to model neural receptor distribution to
+  model typological variation in mental illness.
+
+- use of DTI-Tract along with fMRI, TCD/TCCD & advanced EEG to
+  correlate strucures inferred via tractography with:
+  - anomolous EEG (spectra) or fMRI data
+  - that is, how does the tractographical structure correlate to
+    anomolous signals & impulse patterns
+  - how can pattern recognition be trained to detect and
+    quantify/dilineate types of anomolous
 
 # Metanomics x Probabilistic Programming
 

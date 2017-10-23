@@ -27,6 +27,10 @@ excerpt: ""
     concepts of zero, identity, mean (additive and geometric), range,
     independence, connectedness, etc mean
 
+
+- sociophysical analysis of diplomatic protocol and etiquitte protocol
+  modalities, norms and deviations
+
 ### Social Mechanics
 
 #### Psychosocial [Valence](https://en.wikipedia.org/wiki/Valence_(psychology))
@@ -182,6 +186,17 @@ defined in infinitely many ways.
   - so, the physical arrangement of the space and functional specifics
     of its objects tends to constrain the configurational and
     conformational entropy of interactions in the space.
+
+### The sociophysical equivalent to E = m * c^2
+
+- what is mass (maybe establish this earlier)
+  - or since all of these ideas are physical analogies extended to
+    social systems: what could be represented meaningfully by
+    mass/energy, while preserving adjacent relationships
+    - (m = dV; F = Ma; etc. ...)
+
+- at what point do these analogies become a stretch? do i even care
+  anymore? i mean ... really?
 
 ### Reynold's Number
 
