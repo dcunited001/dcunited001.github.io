@@ -361,3 +361,38 @@ case,
 
         or other analogous techniques like, especially when in the context
         of ultrasound 
+
+
+### Being "Range Bound"
+
+A **target** who is **range-bound** then becomes exponentially more
+predictable. In this case, they will attempt to prevent you from
+moving at all costs. You are already compromised. You cannot afford a
+lawyer. You can barely keep your head above water and everyone around
+you is likely "in" on it, though friends and family will have
+psychologically compartmentalized and will not admit it. They will
+seek to prevent you from moving at all costs: you cannot get a job in
+a remote city: they will interfere at any cost: tampering with email;
+rerouting planes & delaying flights; influencing who interviews or
+phone screens you. What's the first paperwork you file at a new job:
+the I-9. These people have a network they can leverage that ideally
+extends to any/all places of non-contractual employment. It expands
+the number of places where information (if any) is recorded. If
+someone made egregious mistakes in your case, they might now have to
+attone for it.
+
+A target who is _range-bound_ in this way then becomes exponentially
+more predictable. In this case, a target's sociophysical motion will
+be restricted at all costs -- especially major physical
+relocations. Here, sociophysical motion does not refer to motion in
+physical spaces, but to all motion of energy across any sociophysical
+topologies. By pragmatically restricting this motion, it renders you
+more predictable, subjugated, fearful and pathetic in all ways. You
+are prey that has been cornered. Run to Switzerland. Do not run to an
+enemy nation unless you are an enemy. You will certainly not be safe
+there.
+
+Why go through all the trouble to prevent you from moving? This forces
+transfer of information across logistic structures, which expands
+surface area for risk and liability and requires time/energy to
+artifice new relationships to control the target.

@@ -1340,34 +1340,17 @@ contributions collapses and by sociophysically
 them, you ensure all potential topologies are in-phase, as well as the
 energetic components for potential interaction trandsuctions.
 
-A **target** who is **range-bound** then becomes exponentially more
-predictable. In this case, they will attempt to prevent you from
-moving at all costs. You are already compromised. You cannot afford a
-lawyer. You can barely keep your head above water and everyone around
-you is likely "in" on it, though friends and family will have
-psychologically compartmentalized and will not admit it. They will
-seek to prevent you from moving at all costs: you cannot get a job in
-a remote city: they will interfere at any cost: tampering with email;
-rerouting planes & delaying flights; influencing who interviews or
-phone screens you. What's the first paperwork you file at a new job:
-the I-9. These people have a network they can leverage that ideally
-extends to any/all places of non-contractual employment.
-
-Why go through all the trouble to prevent you from moving? This forces
-transfer of information across logistic structures, which expands
-surface area for risk and liability and requires time/energy to
-artifice new relationships to control the target.
-
-
 By limiting the size of a target's 1&deg; social neighborhood,
-  generally reducing the scope and type of potential interactions, and
-  reducing the options for that node, you make them exponentially more
-  predictable.
-  - this is because the space of superimposed networks collapses.
-    - someone trying to sociophysically target another is going to
-      minimize their financial and social options.
-    - ideally this person doesn't drive, has one or two places they
-      can go, can't easily leave their local region, etc...
+generally reducing the scope and type of potential interactions, and
+reducing the options for that node, you make them exponentially more
+predictable.  A target who is _range-bound_ in this way then becomes
+exponentially more predictable. In this case, a target's sociophysical
+motion will be restricted at all costs -- especially major physical
+relocations. Here, sociophysical motion does not refer to motion in
+physical spaces, but to all motion of energy across any sociophysical
+topologies. By pragmatically restricting this motion, it renders you
+more predictable, subjugated, fearful and pathetic in all ways. You
+are prey that has been cornered. Run to Switzerland.
 
 <a name="social-financial-and-other-energetic-flows-signal-interest-and-intent-via-frequency-magnitude-and-abstract-spectral-decomposition" />
 
