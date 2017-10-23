@@ -272,6 +272,20 @@ excerpt: ""
   - [Instanton](https://en.wikipedia.org/wiki/Instanton)
     - i need to distinguish skyrmions and instantons (pseudoparticle?)
 
+## Satellite misc
+
+- (1/8/2017) assmue similarity in the variance in time delay & for GPS
+  (locally & regionally) to augment other signals that predice
+  atmospheric & weather conditions.
+  - it's actually covered by this patent (2008):
+    [All-weather precision guidance and navigation system ](https://www.google.ch/patents/EP1570289A2?cl=en)
+  - this atmosphereically induced variation, augmented with DataSci/ML &
+    other weather/atmospheric data signals can lead to improved
+    resolution of device location by inferring regional rates of
+    interference
+    - also, this patent touches on the other half of the idea i was
+      thinking about (2014):
+      [GPS accuracy refinement using external sensors](https://www.google.com/patents/US9597014?dq=gps+accuracy&hl=en&sa=X&ved=0ahUKEwi3vce6j4fXAhUELyYKHSNKBaYQ6AEILzAB)
 
 ## Improvements to Atomic/Quantum/Optical Clocks
 
