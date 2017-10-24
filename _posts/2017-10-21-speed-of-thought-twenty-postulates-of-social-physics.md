@@ -1315,10 +1315,6 @@ proving your graph reduction emulates some financial or social
 circuits with some mathematic guarantee of parity, you can efficiently
 simulate these systems.
 
-#### (A Graph Based)
-
-![Visibility Graph Based Time Series Analysis](/img/posts/2017-10-21-speed-of-thought-twenty-postulates-of-social-physics/social-circuits.jpg)
-
 Thus, similiary, social networks should be modeled with a
 superposition of topologies, since their structure is perplexing and
 each node constructs its own model of topologies for energies. In
@@ -1360,15 +1356,14 @@ energy flows?
 > When the bell rings in a clocktower, can this not project
 > information, subconsciously inform entities of the current time and
 > thus influence their behavior? It would certainly matter to Kant, if
-> his watch were broken. Specifically, how mundane stimuli like this
-> shape energy flows in sociophysical models is the more critical
-> question, along with how accounting for such miscillanea might
-> tractibly scale. Better ask a Feng Shui master.
+> his watch were broken. Specifically, how do mundane stimuli like
+> this shape energy flows in sociophysical models and how might
+> accounting for such miscillanea scale tractibly. Better ask a Feng
+> Shui master.
 
 The dynamics of energies in a virtual, superimposed topology depend
 greatly on how the active interactions relate to each node's
 perception of network topology.
-
 
 This networks function similarly to a electrical circuits, if there
 were myriad circuit diagrams superimposed onto each other. The
@@ -1533,38 +1528,173 @@ an inordinate amount of energy to undo.
 
 #### &#8855; &#8710; &#8968;xi&#8969; [Disruption of Connections & Interactions Alters Flow Of Energy & Power, Physically, Logically and Virtually](#disruption-of-connections-and-interactions-alters-flow-of-energy-and-power-physically-logically-and-virtually)
 
-- (here, focus on imagery related to electrical systems)
+To fully comprehend this section, you'll need to be able to envision
+time-series analysis of functions as signals, along with their
+spectral-domain arrangements and combinatorially permuted functional
+domains. Don't worry, there's pictures -- without which I would never
+have understood any of this myself.
 
-- imagine time series analysis time-domain signals and spectral-domain
-  arrangements and combinatorially permuted functional domains
+The original motivation motivation behind spectral analysis of linear,
+non-linear and chaotic systems is that it helps one infer and develop
+parameterizations for models. In the 80's, by sampling values from
+chaotic attractors, one could reconstruct an approximation via
+spectral analysis, even though the dimensionality of the attractor
+might be unknown.[^geometry-of-a-time-series]
+
+#### You Always Get One Algebra *Fo' Free!*
+
+Complicated probabilistic systems have produce values with
+correleation. This incldues those systems with many in/finite Markov
+chains, with or without physicality and those modeled on Bayesian
+trees or on graphs. They have observable values, which form the basis
+of many functions in the time domain. Via tensor analysis,
+combinatorics, specialized non/free algebras and spectral graph
+theory, one can infer the parameterization or interrelationships of
+the model generating the observed data -- or at least adequate numeric
+approximations of it. Inference of structure and parameterization of
+probabilistic systems will almost always incorporate the decomposition
+of sparse matrices, which can represent frequency of event
+observation.
+
+#### The X-Men Are Quite Literally Uncanny
+
+![The Uncanny X-Men](/img/posts/2017-10-21-speed-of-thought-twenty-postulates-of-social-physics/uncanny-xmen.jpg)
+
+As you might have noticed, this article's table of contents in this
+series uses two incredibly important symbols: the tensor product and
+what is meant to be an dimensionally-abstract conception of the
+laplacian. The power to re/compose techniques only made available by
+mastering these two tools opens more doors than perhaps any other base
+tools in mathematics. Without understanding these tools and a
+phenomonological understanding of the problems they solve or
+approximate, you are completely trapped within a false paradigm where
+most things are unknown *and unknowable*.
 
 #### Time Series Convolution and Correlation
 
 ![Time Series Convolution and Correlation](/img/posts/2017-10-21-speed-of-thought-twenty-postulates-of-social-physics/signal-convolution-and-correlation.png)
 
-- Under most conditions, the Fourier Transform is a linear operator
-  and so is the differential operator. This means their application in
-  most circumstances is associative and commutative.
-  - you can rearrange the differential/gradient with that of the
-    fourier transform
-  - this allows you to construct time-domain waveforms that represent
-    the differential of the fourier transform and vice-versa
+Under most conditions, the Fourier Transform is a linear operator and
+so are differential operator and the laplacian. This means their
+application in most circumstances is associative and commutative. Of
+course, when applying the laplacian or fourier to high-dimensional
+surfaces, one must account for the combinatorial dimensions to which
+it could be applied, which conveniently simplified or abstracted away
+from
+[<bra | ket> operator notation](https://en.wikipedia.org/wiki/Bra%E2%80%93ket_notation).
 
-  - this simple process, combined with some of the other techniques
-    described above enable you to reconstruct signals when you don't
-    know the circuits or logical topology -- and vice-versa.
-    - however, there are some limitations, since data models are
-      inschematical -- their schema can never be perfectly conceived
-    - howeever, you don't need to because any nodes, edges and paths
-      with significant influence more prominently affect the system
-    - therefore, you need to assert the strong signals, then alternate
-      between inductive and deductive reasoning with combinatorial
-      permutations to understand what where the signals emerge from.
+Since these operator's linearity preserves associativity and
+commutatitivity, you can rearrange their order of application, so long
+as the dimensional structure of application holds. This allows you to
+construct construct time-domain waveforms that represent the
+differential of the fourier transform -- and vice-versa. This simple
+process, combined with a few of the other techniques described in the
+20 postulates, enable you to reconstruct signals when you don't know
+the circuits or logical topology -- *and vice-versa* with the converse of
+functional application.
 
-- directionality of power flows
-  - one way & two way directions of comm. protocols (diodes)
-  - voltage regulation (bridge to AC ish ... quick)
+In applying this technique to sociophysical models, some data models
+are inschematical -- dare I say irrational? That is, their schema can
+never be perfectly conceived. However, you don't need this: any nodes,
+edges and paths with significant influence more prominently affect the
+system. Therefore, under almost all circumstances to infer
+paramaterization and event correlation, you only need assert the
+strongest signals, then oscillate back and forth between the
+application of inductive and deductive reasoning with combinatorial
+permutations.
 
+How do you know what to measure? How do you understand the *prima
+facie* relationships of the data points and data point types you have
+measured? If tractibility is the ultimate challenge here, then how do
+you decide where your limits are? How far into the network or graph do
+you apply combinatorial analaysis towards the inference of structure?
+If data points have been recorded at slightly different times or the
+timestamp on datapoints themselves is inherently skewed and accurate,
+then how does this affect the structure of some iterative time-series
+graph?
+
+#### Time Series Analysis of What, Exactly?
+
+![Visibility Graph Based Time Series Analysis](/img/posts/2017-10-21-speed-of-thought-twenty-postulates-of-social-physics/social-circuits.jpg)
+
+The picture above, from
+[Visibility Graph Based Time Series Analysis](https://doi.org/10.1371/journal.pone.0143015),
+which thoroughly covers time-series analysis applied to informational
+graphs *and* networks -- yes, there are technical differences. The
+paper's introduction[^graph-based-time-series-analysis] provides a
+10,000ft view of the basic techniques and their pitfalls.
+
+In electrical circuits, the directionality of power flows matters.
+Components like capacitors temporally regulate electrical flow, though
+voltage regulation and power distribution in CPU's and your Macbook
+Pro is undoubtly more complicated. The directionality of these power
+flows matters: alternating current, periodic pulses of energy and
+transistors expanded phenomenological possibilities of consumer
+electronics. Sociophysical networks work similiarly: direction of
+energies dramatically changes how social circuit components interact.
+With cyclicly alternating energetic flows, like AC or N-Phase power,
+the components of those networks change their proactive and reactive
+behavior dynamics, yielding macroscopic phenomenological divergence.
+
+For sociophysical circuits and energies, a concept analogous to work
+can be imagined. The lack of true equivalent exchange dramatically
+alters work dynamics. Work can include both sociophysical thermal and
+kinetic energy. The mechanics for flow of informational energies
+implies that this projection of informational flux can induce
+allocation and dispersion of physical systems: people physically react
+to information flow. When people are modeled as particles, crowds have
+temperature and vibrational mechanics. Information, when speciated and
+quantified, almost always flows from high concentrations towards low
+concentrations.
+
+#### A Formula You Might Find On A Cocktail Napkin
+
+\\( \left\lVert \Phi_{\(I \otimes J\)} \right\rVert \propto \frac{\left\lVert \phi_{i} \cdot \phi_{j} \right\rVert_{\(I \otimes J\)}}{\left\lVert \phi_{j} \cdot \phi_{i} \right\rVert_{\(I \otimes J\)}} \\)
+
+#### &#x2605; To quantify values in the "field" of information overlayed onto sociophysical spaces, metrics are required. It is difficult enough just to describe or define the structure of quanta of information.
+
+#### &#x2605; Once values in the field are defined for certain information types, \\(\nabla\\), \\(\nabla \cdot\\) and \\(\Delta\\) can be understood more clearly.
+
+#### &#x2605; Diffusion of information compels holons to randomly gravitate downwards along the surface(s) of gradients of information, in the absence of some other force(s) pushing it back. As society becomes superconnected, the paths available for motion of information expand tetrationally, as the biggest difference in high-dimensional spaces is the presence of additional directions and angles.
+
+#### &#x2605; Holonic information particles can be modeled symbolically. However challenging, this provides a basis for the anticipation of information flux as the consequence of movement towards greater entropy of distribution for holonic particles in sociophysical spaces.
+
+This is partially responsible the phenomena of paranoia and extreme
+isolation that occasionally arises in intelligent people, with IQ >=
+\\(3 \sigma\\). For people like this, they simply never need to ask
+others for help and if they don't artificially reinforce social skills
+in childhood, they may not develop basic social skills. They simply
+don't need to ask for information because they can resolve it
+themselves. In extreme isolation -- deprived of all social signal --
+the same causes of that phenomenon also manifest as paranoia. When
+they aren't socially informed or are completely socially disconnected,
+they simply never run out of avenues by which they might answer
+questions.  Moreover, the ranges of questions and methods by which
+they might ascertain this are profoundly expanded.
+
+Occasionally, attempts to isolate intelligent individuals can
+backfire: the extreme socioinformational deficiency results in a
+compulsive need to consume knowledge. Those psychologists who study
+intelligence must know this, but those with IQ >= \\(3 \sigma\\) are
+*divergent*. Further still, if the individual in question is subject
+to a constant deluge of disinformation, any the beliefs of any who
+study them will be unavoidably form via consumption of fruit of the
+poisonous tree. For a completely disconnected individual -- as
+discussed above -- this means they have no ability to create authentic
+information about their identity, their persona, their beliefs or any
+other information that would be critical in assessing their
+psychosocial state. For those prolificly malicious promulgators of
+architected disinformation, to cover their own ass, they *must*
+constantly isolate & beguile the intelligent individual in
+question. Otherwise, their prolific inductive, deductive and
+metacognitive abilities will process information, *revealing
+everything:* their life has been one giant lie. This in itself, if the
+intelligent individual in question is not silenced, killed or
+distracted, will certainly backfire.
+
+- When one measures information as the "norm" of informational
+  quantity almost always flows from high-concentrations towards
+  lower-concentrations, but since "information" is
 - analogy to AC and particular "work" that can only be done via
   alternating/cycling directionality of sociophysical energies
   - circuits that only permit desired functionality when receiving
@@ -1606,6 +1736,15 @@ an inordinate amount of energy to undo.
     highlight cognizance of intent
 
 - (Cut in content/ideas from facets: systems theory draft)
+
+- sparse graphs where almost all information flows are
+  monodirectional, beyond some core subset of the network, tightly
+  interconnected to itself and only sparsely connected to the outside.
+  - in the inner shells, the networks allow for bidirectional
+    connections within the shell, but only monodirectional connections
+    outside the shell.
+    - thus, in order to form cycles in outer, non-core shells, there
+      must be at least two connections
 
 #### I Live In A World Where Those Who Can't or Won't Talk To Me Are My Friends
 
@@ -2462,6 +2601,8 @@ information.
 [^social-media-with-exogenous-networks]: [Link Classification and Tie Strength Ranking in Online Social Networks with Exogenous Interaction Networks](https://arxiv.org/abs/1708.04030), M. Abufouda, K. Zweig, arXiv:1708.04030 [cs.SI] (2017)
 
 [^increasing-knowledge-worker-efficiency]: [Increasing Knowledge Worker Efficiency through a "Virtual Mirror" of the Social Network](https://arxiv.org/abs/1308.1162), Stori Hybbeneth, Dirk Brunnberg, Peter A. Gloor, arXiv:1308.1162 [cs.SI] (2013)
+
+[^geometry-of-a-time-series]: [Geometry from a Time Series](https://doi.org/10.1103/PhysRevLett.45.712) N. H. Packard, J. P. Crutchfield, J. D. Farmer, and R. S. Shaw, Physical Review Letters (1980)
 
 [^graph-based-time-series-analysis]: [Visibility Graph Based Time Series Analysis](https://doi.org/10.1371/journal.pone.0143015) Stephen Mutua, Gu C, Yang H, PLoS ONE10(11): e0143015 (2015)
 

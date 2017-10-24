@@ -214,33 +214,6 @@ headline: "Informational Territory > Sociohierarchical Territory > Economic Terr
 
 ### (5) (Mental/Subjective Experience) Territory
 
-- this could be considered a subtype of Informational Territory, but
-  it's fundamentally different, since our subjective experience of
-  mind constructs our reality
-  - this our last shred of privacy. the last piece of space on earth
-    to be conquered is our mind/consciousness.
-    - (this needs to be explained more clearly)
-  - this is what hypnosis and psychological warfare is really
-    encroaching on.
-    - this territory describes the end-goal of any marketing strategy,
-      propaganda technique, etc
-    - the war is literally for your mind
-- this should be distinguished from informational territory, which is
-  concerned with language, ideas, words, literature, pop culture,
-  telecom, etc
-  - or places, forums & time/focus sinks in cyberspace ("places" you
-    can move your awareness to)
-- instead, this is the space constructed from what (SOF/AAF/PAF)
-  entities have internalized. the (AAF/PAF) for now are basically
-  informational territory
-  - for now, there is something profoundly different from human/SOF
-    experience. we can't clone ourselves somewhere or project our
-    awareness to another body or another life
-  - these psychological pricks are invading your personal space,
-    projecting signal into whatever senses are available for input.
-    - if they thought using your spincter for input in causal
-      interactions, they would
-
 # (1) Informational Territory
 
 #### belief structures
@@ -357,10 +330,34 @@ headline: "Informational Territory > Sociohierarchical Territory > Economic Terr
 
 # (5) Mental/Experiential Territory
 
-
+- this could be considered a subtype of Informational Territory, but
+  it's fundamentally different, since our subjective experience of
+  mind constructs our reality
+  - this our last shred of privacy. the last piece of space on earth
+    to be conquered is our mind/consciousness.
+    - (this needs to be explained more clearly)
+  - this is what hypnosis and psychological warfare is really
+    encroaching on.
+    - this territory describes the end-goal of any marketing strategy,
+      propaganda technique, etc
+    - the war is literally for your mind
+- this should be distinguished from informational territory, which is
+  concerned with language, ideas, words, literature, pop culture,
+  telecom, etc
+  - or places, forums & time/focus sinks in cyberspace ("places" you
+    can move your awareness to)
+- instead, this is the space constructed from what (SOF/AAF/PAF)
+  entities have internalized. the (AAF/PAF) for now are basically
+  informational territory
+  - for now, there is something profoundly different from human/SOF
+    experience. we can't clone ourselves somewhere or project our
+    awareness to another body or another life
+  - these psychological pricks are invading your personal space,
+    projecting signal into whatever senses are available for input.
+    - if they thought using your spincter for input in causal
+      interactions, they would
 
 # Tactics
-
 
 #### Internet Content & Distribution
 
