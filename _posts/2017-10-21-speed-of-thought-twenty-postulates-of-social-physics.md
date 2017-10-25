@@ -69,7 +69,7 @@ excerpt: ""
 
 #### X &#8855; &#8710; &#8968;iiii&#8969; [Social Power Depends On Potentials For Types Of Energy Flux, Each Actual And Perceived](#social-power-depends-on-potentials-for-types-of-energy-flux)
 
-#### << &#8855; &#8710; &#8968;v&#8969; [Perceived Beliefs Drive Social Power Dynamics Via Positive and Negative Feedback Loops](#perceived-beliefs-drive-social-power-dynamics-via-positive-and-negative-feedback-loops)
+#### < &#8855; &#8710; &#8968;v&#8969; [Perceived Beliefs Drive Social Power Dynamics Via Positive and Negative Feedback Loops](#perceived-beliefs-drive-social-power-dynamics-via-positive-and-negative-feedback-loops)
 
 #### X &#8855; &#8710; &#8968;vi&#8969; [Agents Have Varying Degrees Of Autonomy and Individual Definitions Of Energy Types. They Share Traits, Such As Concurrency, Bandwidth and Physicality](#agents-have-varying-degrees-of-autonomy-and-individual-definitions-of-energy-types)
 
@@ -77,14 +77,11 @@ excerpt: ""
 
 #### X &#8855; &#8710; &#8968;viii&#8969; [Spectral Coherence of Knowledge, Information and Agent Context Strongly Influences Conceptualization and Anticipation](#spectral-coherence-of-knowledge-information-and-agent-context-strongly-influences-conceptualization-and-anticipation)
 
-#### << &#8855; &#8710; &#8968;ix&#8969; [Social Circuitry Enables Sociophysical Energy Flows, Where The Superposition Principle Applies Circuit and Network Topologies. All Exist Simultaneously](#social-circuitry-enables-sociophysical-energy-flows-where-the-superposition-principle-applies-to-circuit-and-network-topologies)
-
-- TODO: title for "Visibility Graph Based Time Series Analysis"
-  - also, figure out how to cite that paper
+#### X &#8855; &#8710; &#8968;ix&#8969; [Social Circuitry Enables Sociophysical Energy Flows, Where The Superposition Principle Applies Circuit and Network Topologies. All Exist Simultaneously](#social-circuitry-enables-sociophysical-energy-flows-where-the-superposition-principle-applies-to-circuit-and-network-topologies)
 
 #### X &#8855; &#8710; &#8968;x&#8969; [Social, Financial and Other Energetic Flows Signal Interest and Intent Via Frequency, Magnitude and Abstract Spectral Decomposition](#social-financial-and-other-energetic-flows-signal-interest-and-intent-via-frequency-magnitude-and-abstract-spectral-decomposition)
 
-#### &#8855; &#8710; &#8968;xi&#8969; [Disruption of Connections & Interactions Alters Flow Of Energy & Power, Physically, Logically and Virtually](#disruption-of-connections-and-interactions-alters-flow-of-energy-and-power-physically-logically-and-virtually)
+#### X &#8855; &#8710; &#8968;xi&#8969; [Disruption of Connections & Interactions Alters Flow Of Energy & Power, Physically, Logically and Virtually](#disruption-of-connections-and-interactions-alters-flow-of-energy-and-power-physically-logically-and-virtually)
 
 #### &#8855; &#8710; &#8968;xii&#8969; [Even When Invisible, Intent is Signified And Clarified By Parallel, Anti-Parallel and Orthogonal Orientations of Motion As They Relate to Laplacian of High-Dimensional Surfaces](#even-when-invisible-intent-is-signified-and-clarified-by-parallel-antiparallel-and-orthogonal-orientations-of-motion-as-they-relate-to-laplacian-of-high-dimensional-surfaces)
 
@@ -1324,9 +1321,9 @@ superposition of various networks is distinct from systems where there
 is one clear network structure because those networks can be more
 simply emulated with a single topology.
 
-#### The Prototypical Superposition Calculation In Electrical Circuits
+#### The [Prototypical Superposition Calculation](http://hyperphysics.phy-astr.gsu.edu/hbase/electric/suppos.html) In Electrical Circuits
 
-[Superposition for Circuits](http://hyperphysics.phy-astr.gsu.edu/hbase/electric/suppos.html)
+![Superposition in Circuits](/img/posts/2017-10-21-speed-of-thought-twenty-postulates-of-social-physics/superposition-circuits.gif)
 
 In electrical circuits with multiple power sources, current and
 voltage can be predicted by decomposing the circuit, then applying the
@@ -1363,31 +1360,33 @@ energy flows?
 
 The dynamics of energies in a virtual, superimposed topology depend
 greatly on how the active interactions relate to each node's
-perception of network topology.
-
-This networks function similarly to a electrical circuits, if there
-were myriad circuit diagrams superimposed onto each other. The
-behavior of the system emerges not from one circuit topology, but from
-all topologies, superimposed.
-
-- Changes to individual circuits would affect the behavior of the
-  resultant superimposed system far less than each isolated system
-  - if it were not that the superimposed topologies are constructed as
-    graphs permuted components representing the same social
-    nodes. Since a fraction of potential circuits dominate the
-    superimposed results,
-
-. In social circuits, this might correspond to a scenario where a
-fraction of nodes can influence majority's beliefs, the beliefs they
-perceive and those they project.
+perception of network topology. This topological superposition
+dramatically changes how individual components of the networks affect
+each other and contribe towards the energetic dynamics of the overall
+system. These models would lead to intractible expansion, if it were
+not that the superimposed topologies are constructed as graphs
+permuted components that essentially represent the same social nodes.
 
 #### A Scientology ["OSA" Operation](https://www.villagevoice.com/2011/07/13/scientologys-spy-program-anatomy-of-a-covert-operation-updated/) To Alter The Sociocircuitry Around An SP's Social Boundary
 
 ![A Simple OSA Operation To Destroy The Life Of And Individual](/img/posts/2017-10-21-speed-of-thought-twenty-postulates-of-social-physics/scientology-disconnection-diagram.jpg)
 
-- TODO: explain how the following focuses/diffuses sociophysical
-  energy by restricting potential topologies (essentially altering the
-  structures of sociophysical circuits.)
+In the above diagram, the goal is to encourage total diffusion of the
+target's sociophysical energies, robbing them of everything they might
+produce with their time. By deforming the topological structure of
+more logical sociophysical spaces, this exponentially amplifies the
+probabilities of some increasingly infinitesimal set of events,
+rendering a target profoundly more predictable.
+
+#### If you're a marxist, you're sadly confused. If you're a leninist, GTFO.
+
+Time is the one shared resource equally distributed to every person on
+the planet. With it, we contribute our energy output towards some
+individual or shared goals. A traditional marxist tactic is to rob the
+rich, productive or targeted of their time. For members of the
+proletariat in a pre-communist system, their time is worth 3 to 50
+times less than that of a bougeousie target.  Like lilliputians, they
+can work together for sociohierarchical transformation.
 
 #### Corollary to the Superimposed Topology Principle: Range Binding
 
@@ -1635,6 +1634,10 @@ energies dramatically changes how social circuit components interact.
 With cyclicly alternating energetic flows, like AC or N-Phase power,
 the components of those networks change their proactive and reactive
 behavior dynamics, yielding macroscopic phenomenological divergence.
+Since sociophysical circuits permit energy flow in more than two
+topologically local directions simultaneously, this implies a
+profoundly greater speciation of components types and interaction
+dynamics.
 
 For sociophysical circuits and energies, a concept analogous to work
 can be imagined. The lack of true equivalent exchange dramatically
@@ -1680,32 +1683,38 @@ intelligence must know this, but those with IQ >= \\(3 \sigma\\) are
 to a constant deluge of disinformation, any the beliefs of any who
 study them will be unavoidably form via consumption of fruit of the
 poisonous tree. For a completely disconnected individual -- as
-discussed above -- this means they have no ability to create authentic
-information about their identity, their persona, their beliefs or any
-other information that would be critical in assessing their
-psychosocial state. For those prolificly malicious promulgators of
-architected disinformation, to cover their own ass, they *must*
-constantly isolate & beguile the intelligent individual in
-question. Otherwise, their prolific inductive, deductive and
-metacognitive abilities will process information, *revealing
-everything:* their life has been one giant lie. This in itself, if the
+discussed above -- this means they have no ability to create/diffuse
+authentic information about their identity, their persona, and their
+beliefs. To accurately assess their psychosocial state, there is
+almost zero authentic information, critical or material.
+
+For those prolificly malicious promulgators of architected
+disinformation, to cover their own ass, they *must* constantly isolate
+& beguile the intelligent individual in question. Otherwise, a genius
+savant's prolific inductive, deductive and metacognitive abilities
+will process *any* available information, *revealing everything:*
+their life has been one giant lie. This in itself -- if the
 intelligent individual in question is not silenced, killed or
-distracted, will certainly backfire.
+distracted -- will certainly backfire.
 
-- When one measures information as the "norm" of informational
-  quantity almost always flows from high-concentrations towards
-  lower-concentrations, but since "information" is
-- analogy to AC and particular "work" that can only be done via
-  alternating/cycling directionality of sociophysical energies
-  - circuits that only permit desired functionality when receiving
-    energies oscillated in two or more local topological directions
-    - a picture is really worth 1,000 words here
+<a name="even-when-invisible-intent-is-signified-and-clarified-by-parallel-antiparallel-and-orthogonal-orientations-of-motion-as-they-relate-to-laplacian-of-high-dimensional-surfaces" />
 
-- understanding how AC/n-phase oscillation coordinated projection of
-  energies leads to signature energy flows on the network is key to
-  pattern recognition of toxic social/financial behavior flows
-  - also is key to understanding coordination of a group's energies,
-    regardless of how a group signals
+#### &#8855; &#8710; &#8968;xii&#8969; [Even When Invisible, Intent is Signified And Clarified By Parallel, Anti-Parallel and Orthogonal Orientations of Motion As They Relate to Laplacian of High-Dimensional Surfaces](#even-when-invisible-intent-is-signified-and-clarified-by-parallel-antiparallel-and-orthogonal-orientations-of-motion-as-they-relate-to-laplacian-of-high-dimensional-surfaces)
+
+To anticipate flow of energies in sociophysical circuits, especially
+with n-phase oscillation and multi-energy transductions, one must
+develop recognizing recomposed signatures of deconstructed dynamics in
+chaotic sociophysical systems. This idea for recognizing "signatures"
+of behavior in programmatic chaotic systems like genetics or social
+physics, is briefly described in
+[Awareness Precipitates from Order Out Of Chaos](/posts/2017-09-14-awareness-precipitates-from-order-out-of-chaos.html). These
+"signatures" are key to pattern recognition of toxic social or
+financial behavior, when any specific pattern itself would be
+uselessly singular if effable. Effective actors will always seek to
+elude or deceive, regardless of their intent. Also, towards operating
+in an environment like this, the mimicry or tactical recomposition of
+these deconstructed energetic dynamics is necessary for coordinated
+strategy.
 
 #### A Heatmap of Combinitorialized Signal Sources, With Hierarchical Relationships Forming One Basis For A First-Order Transvaluation
 
@@ -1725,10 +1734,6 @@ distracted, will certainly backfire.
   - what would this be like for non-euclidian topologies like spectra
     derived from graphs & graph flows
 
-
-<a name="even-when-invisible-intent-is-signified-and-clarified-by-parallel-antiparallel-and-orthogonal-orientations-of-motion-as-they-relate-to-laplacian-of-high-dimensional-surfaces" />
-
-#### &#8855; &#8710; &#8968;xii&#8969; [Even When Invisible, Intent is Signified And Clarified By Parallel, Anti-Parallel and Orthogonal Orientations of Motion As They Relate to Laplacian of High-Dimensional Surfaces](#even-when-invisible-intent-is-signified-and-clarified-by-parallel-antiparallel-and-orthogonal-orientations-of-motion-as-they-relate-to-laplacian-of-high-dimensional-surfaces)
 
 - this helps indicate intent, even when it was hidden
   - consistency is hard to fake, any duplicity exacerbates this and
@@ -2318,6 +2323,16 @@ consequences in my own life.
     censored via SEO/Social Media manipulation, this means that entire
     groups of people can become silenced or disenfranchised without
     even knowing it.
+
+Semiolinguistic connectedness leads to a paradox where obvolution of
+language, signs and images dramatically reduces the set of
+possibilities. Information or connections assumed to be completely
+invisible will be revealed for what it is regardless of how hard
+people worked to suppress some of it, even if some of it was never
+transmitted or spoken in plain langauge. This is especially true once
+online identity validation is nearly universal or can be retroactively
+resolved. People don't generate content or expend energy that isn't
+relevant or meaningful.
 
 <a name="for-the-efficient-and-pragmatic-assertion-of-behavior-and-intent-sociophysical-configuration-entropy-is-nearly-unparalleled" />
 
