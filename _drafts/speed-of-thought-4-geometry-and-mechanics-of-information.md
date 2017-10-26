@@ -206,6 +206,18 @@ excerpt: ""
   design of language and signaling)
   - [Antifragile Communications paper]())
 
+
+### Metrics on Graphs of Information and Knowledge
+
+- how this can correspond to a measure of intelligence: your ability
+  to identify "longer" and more distant pathways for inferences
+  - the types of "inference" pathways are more varied and less typical
+
+- from these metrics on graphs/networks of information/knowledge,
+  measures of speed, certainty, etc can be developed
+  - here, time can be defined literally or the number of cycles some
+    entity might require to make the inferences or connections
+
 # The Information Physics of Cultural Movements
 
 

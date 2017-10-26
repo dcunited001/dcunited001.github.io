@@ -11,13 +11,13 @@ excerpt: ""
 - TODO: add <span id="fdsa-note"></span> to create a bootstrap label
   in <p> tags that can fold/unfold a quote/note below
 
-- [perlocutionary](http://www.dictionary.com/browse/perlocutionary),
-  - [illocutionary](http://www.dictionary.com/browse/illocutionary)
+- thesaurus
   - gorgonize
   - nocent
   - [ilmestys](https://en.wiktionary.org/wiki/ilmestys#Finnish) (finnish)
 
-- casinos mix large financial flows with underground social networks
+- edits
+  - use language established in part one & part two
 
 ## [A Marathon and Thermopylae for the Spartan](#a-marathon-and-thermopylae-for-the-spartan)
 
@@ -69,7 +69,7 @@ excerpt: ""
 
 #### X &#8855; &#8710; &#8968;iiii&#8969; [Social Power Depends On Potentials For Types Of Energy Flux, Each Actual And Perceived](#social-power-depends-on-potentials-for-types-of-energy-flux)
 
-#### < &#8855; &#8710; &#8968;v&#8969; [Perceived Beliefs Drive Social Power Dynamics Via Positive and Negative Feedback Loops](#perceived-beliefs-drive-social-power-dynamics-via-positive-and-negative-feedback-loops)
+#### X &#8855; &#8710; &#8968;v&#8969; [Perceived Beliefs Drive Social Power Dynamics Via Positive and Negative Feedback Loops](#perceived-beliefs-drive-social-power-dynamics-via-positive-and-negative-feedback-loops)
 
 #### X &#8855; &#8710; &#8968;vi&#8969; [Agents Have Varying Degrees Of Autonomy and Individual Definitions Of Energy Types. They Share Traits, Such As Concurrency, Bandwidth and Physicality](#agents-have-varying-degrees-of-autonomy-and-individual-definitions-of-energy-types)
 
@@ -81,7 +81,7 @@ excerpt: ""
 
 #### X &#8855; &#8710; &#8968;x&#8969; [Social, Financial and Other Energetic Flows Signal Interest and Intent Via Frequency, Magnitude and Abstract Spectral Decomposition](#social-financial-and-other-energetic-flows-signal-interest-and-intent-via-frequency-magnitude-and-abstract-spectral-decomposition)
 
-#### X &#8855; &#8710; &#8968;xi&#8969; [Disruption of Connections & Interactions Alters Flow Of Energy & Power, Physically, Logically and Virtually](#disruption-of-connections-and-interactions-alters-flow-of-energy-and-power-physically-logically-and-virtually)
+#### < &#8855; &#8710; &#8968;xi&#8969; [Disruption of Connections & Interactions Alters Flow Of Energy & Power, Physically, Logically and Virtually](#disruption-of-connections-and-interactions-alters-flow-of-energy-and-power-physically-logically-and-virtually)
 
 #### &#8855; &#8710; &#8968;xii&#8969; [Even When Invisible, Intent is Signified And Clarified By Parallel, Anti-Parallel and Orthogonal Orientations of Motion As They Relate to Laplacian of High-Dimensional Surfaces](#even-when-invisible-intent-is-signified-and-clarified-by-parallel-antiparallel-and-orthogonal-orientations-of-motion-as-they-relate-to-laplacian-of-high-dimensional-surfaces)
 
@@ -900,43 +900,31 @@ Analogous to a window function, this contextual aperture for past
 events and future expectations is rapidly expanding. It determines
 what information people consider relevent for framing and reexamining
 our perception of cause and effect. With this trend, the scope
-historical events that we are willing to reevaluate is changing.
+historical events that we are willing to reevaluate is expanding,
+becoming moreso preferential and strategic. This particularly
+dangerous consequence of spectral decoherence is pretty much terrible
+for all sides, especially those with something to lose.
 
-- TODO: merge, rewrite quoted & connect
+Unless people work together, this incentive and capacity for
+disruption exacerbates a critical dynamic to be defined soon, which I
+have named the ablation of causality. Essentially, the ability for
+[SOF](/posts/2017-10-12-treatise-on-entity-and-agency.html#sentient-organic-forms)
+to even form an understanding of causal relationships between events
+gradually sublimates. We become permanently dependent on technology,
+just to understand the relationships between events, both in public
+and private life. This is a disaster of disasters, with no apparent
+cause in sight; we are blinded by inundation and incomprehensible
+complexity.
 
-> This particularly dangerous consequence of spectral decoherence is
-> not good for anyone. (Unless nations work together, this could lead
-> to the gradual ablation of causality, a critical dynamic discussed
-> later in this series.)
+#### And Hope And History Will Rhyme
 
-- add quote from Biden on ~ "making hope and history rhyme"
-  - from [The Cure at Troy](https://en.wikipedia.org/wiki/The_Cure_at_Troy)
-  - related to Plato's Republic, where Socrates said myth should be
-    structured so that the younger generation's conception of the
-    world is shaped in a positive way by the hero's they look up to
-    - (socrates killed for 'corrupting the youth', ironically perhaps)
-  - history, as the collective narrative we all share, is under seige
-    by disinformation run amok on superconnected networks
-    - we are losing control of the ability to shape this...
-    - (expand on these ideas)
-- hope and history should rhyme: our collective narrative should
-  amplify the strength of our children's inculcated values systems.
-  - this is why we need to be strong, now. we need to be the heroes
-    who the next generations will look up to as standing up to the
-    challenges before them, even though there was risk, (danger,
-    uncertainty, power... )
-
-#### History says, Don't hope
-
-#### On this side of the grave,
-
-#### But then, once in a lifetime
-
-#### The longed-for tidal wave
-
-#### Of justice can rise up
-
-#### And hope and history rhyme.
+History, as the collective narrative we all share, is under seige by
+disinformation run amok on superconnected networks. Socrates said myth
+should be structured so that the younger generation's conception of
+the world is shaped by the heroes they look up to. If history instead
+becomes a weapon of information warfare, then this hurts ever nation
+and group. It creates a situation where there is no shared
+understanding of the past.
 
 <a name="agents-have-varying-degrees-of-autonomy-and-individual-definitions-of-energy-types" />
 
@@ -1559,6 +1547,8 @@ observation.
 
 ![The Uncanny X-Men](/img/posts/2017-10-21-speed-of-thought-twenty-postulates-of-social-physics/uncanny-xmen.jpg)
 
+- TODO: reword
+
 As you might have noticed, this article's table of contents in this
 series uses two incredibly important symbols: the tensor product and
 what is meant to be an dimensionally-abstract conception of the
@@ -1589,8 +1579,8 @@ construct construct time-domain waveforms that represent the
 differential of the fourier transform -- and vice-versa. This simple
 process, combined with a few of the other techniques described in the
 20 postulates, enable you to reconstruct signals when you don't know
-the circuits or logical topology -- *and vice-versa* with the converse of
-functional application.
+the circuits or logical topology -- *and vice-versa* with the converse
+of functional application.
 
 In applying this technique to sociophysical models, some data models
 are inschematical -- dare I say irrational? That is, their schema can
@@ -1645,7 +1635,7 @@ alters work dynamics. Work can include both sociophysical thermal and
 kinetic energy. The mechanics for flow of informational energies
 implies that this projection of informational flux can induce
 allocation and dispersion of physical systems: people physically react
-to information flow. When people are modeled as particles, crowds have
+to information flow. When modeled thermodynamically, crowds have
 temperature and vibrational mechanics. Information, when speciated and
 quantified, almost always flows from high concentrations towards low
 concentrations.
@@ -1718,48 +1708,26 @@ strategy.
 
 #### A Heatmap of Combinitorialized Signal Sources, With Hierarchical Relationships Forming One Basis For A First-Order Transvaluation
 
-<!-- I like to think in pictures and images -->
-
 ![Heatmap of Combinitorialized Signal Sources](/img/posts/2017-10-21-speed-of-thought-twenty-postulates-of-social-physics/viz-heatmap.png)
 
-- apply gradients/laplacian to the above
-  - describe informational spectra as being capable of forming a basis
-    for this
-
 - laplacian of these flows and their aggregates, geographically &
-  logically, indicate intent
+  logically, indicate intent {cut?}
   - games built upon these mechanics
 
-- hyperspectral analysis
-  - what would this be like for non-euclidian topologies like spectra
-    derived from graphs & graph flows
-
-
-- this helps indicate intent, even when it was hidden
+- this {wtf is this?} helps indicate intent, even when it was hidden
   - consistency is hard to fake, any duplicity exacerbates this and
-    displays itself as partial consistency, which ultimately serves to
-    highlight cognizance of intent
-
-- (Cut in content/ideas from facets: systems theory draft)
-
-- sparse graphs where almost all information flows are
-  monodirectional, beyond some core subset of the network, tightly
-  interconnected to itself and only sparsely connected to the outside.
-  - in the inner shells, the networks allow for bidirectional
-    connections within the shell, but only monodirectional connections
-    outside the shell.
-    - thus, in order to form cycles in outer, non-core shells, there
-      must be at least two connections
-
-#### I Live In A World Where Those Who Can't or Won't Talk To Me Are My Friends
-
-![Double Door Logic Paradox](/img/posts/2017-10-21-speed-of-thought-twenty-postulates-of-social-physics/)
+    displays itself as merely partial consistency, instead of wider
+    coherence of information
+  - this ultimately serves to highlight cognizance of intent
+- however, when there are competing sets/structures of information
+  (which cannot all be true), with large skews in distribution of
+  these datums and iota, some datums can be crowded out.
 
 #### Parallel, Anti-Parallel and Orthoganal Coupling In Motion Towards The Attainment of Equilibrium Unveils Nearly All Deception
 
 - someone with a goal in mind will tend to move TOWARDS or AWAY from
   it when signalling. if they don't feel the need to deceive you, they
-  won't fake you out my amplifying signal that conveys moving AWAY
+  won't fake you out by amplifying signal that conveys moving AWAY
   from some intended area of equilibrium
 - someone who lacks an agenda or with few goals will exhibit something
   like brownian motion extended to these high-dimensional spaces
@@ -1777,14 +1745,15 @@ strategy.
         attainment of these fragments
       - these agents are encouraged to compete vigorously
       - these agents often do not or can't see through the duplicity
-    - in order to win, you play both sides against one another
+      - {i talk about duplicity in the next situation}
+    - in order to win, you play both sides against one another {??}
       vigorously, deconstructing your plan into pieces, avoiding the
       need to even deflect causal inference by making everything a lie
       - when someone starts getting close to the truth, the stark
         contrast between that truth and the sea of disinformation
         gives you the smoke that indicates fire
 
-- TODO: update title
+
 
 ### &#8855; &#8710; &#8968;xiii&#8969; [Equilibria in Social Games](#)
 
@@ -1805,7 +1774,10 @@ strategy.
 
 #### Equilibrium and Intended Equilibrium
 
--
+
+#### I Live In A World Where Those Who Can't or Won't Talk To Me At Least Aren't My Enemies
+
+![Double Door Logic Paradox](/img/posts/2017-10-21-speed-of-thought-twenty-postulates-of-social-physics/)
 
 #### Simple Distinguishing Factor Underlying Human Behavior
 
@@ -2349,7 +2321,7 @@ only serve to identify the nature and type of a program.
 
 #### Does This Go Gamestate Look Random? Is Any Gamestate Random?
 
-![Go Game Board](/img/posts/2017-10-21-speed-of-thought-twenty-postulates-of-social-physics/go-game-board.png)
+![Go Game Board](/img/posts/2017-10-21-speed-of-thought-twenty-postulates-of-social-physics/go-game-board.jpg)
 
 For games like Go or Chess, can natural gamestates be sampled from a
 uniform distribution of gamestates? Why would this deviate
@@ -2457,9 +2429,9 @@ easy to dilineate into a periodic table of elements and isotopes, but
 holons have infinite variation, so it is only possible to reason about
 similarity of metatype composition.
 
-#### Cyclohexane Rapidly Transitions Between Its Conformations
-
 ![Cyclohexane Conformations](/img/posts/2017-10-21-speed-of-thought-twenty-postulates-of-social-physics/cyclohexane-conformations.png)
+
+#### Cyclohexane Rapidly Transitions Between Its Conformations
 
 The frequency of cyclohexane conformations in a solution depends upon
 the variance between the energy required to stabalize that
@@ -2468,9 +2440,9 @@ These transitions can be modeled by a discrete Markov chain. When you
 see an abundance of one conformation with extremely low probability it
 means the actual entropy of that solution is highly anomolous.
 
-#### A Random Walk Along the Conformational Free Energy Landscape
-
 ![Random Walk Along the Conformational Free Energy Landscape](/img/posts/2017-10-21-speed-of-thought-twenty-postulates-of-social-physics/free-energy-conformations.jpg)
+
+#### A Random Walk Along the Conformational Free Energy Landscape
 
 A molecule's state transitions follow a random walk on the curved
 surface of the energy gradient the current state's Brownian motion
@@ -2600,7 +2572,6 @@ information.
 
 
 # [I Want To Inspire A Phase Change Across The Functional Fabric of Reality]()
-
 
 
 <a name="footnotes-list" />

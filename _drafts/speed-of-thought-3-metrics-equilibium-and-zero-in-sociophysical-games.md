@@ -429,7 +429,82 @@ defined in infinitely many ways.
     service. lulz, this one gets me every time. so fun to !@#$ with
     (not in a crude way)
 
+### Sparse Graph With Concentric, Radial Flows of Informaion
 
+- sparse graphs where almost all information flows are
+  monodirectional, beyond some core subset of the network, tightly
+  interconnected to itself and only sparsely connected to the outside.
+  - in the inner shells, the networks allow for bidirectional
+    connections within the shell, but only monodirectional connections
+    outside the shell.
+    - thus, in order to form cycles in outer, non-core shells, there
+      must be at least two connections
+
+- TODO: explain more here
+
+### Mandala Theory And Equilibrium
+
+- reflect on some of the ideas from
+  [Rajamandala](https://en.wikipedia.org/wiki/Rajamandala)
+  [Arthashastra](https://en.wikipedia.org/wiki/Arthashastra)
+
+- how do the ideas forming the basis of "mandala theory" influence the
+  dynamics of equilbria in sociophysical games at various scales
+  - how do they influence how sociophysical circuits on local scales?
+
+- here, "local spheres" refers to neighborhoods in topological
+  sociophysical spaces (physical or virtual)
+  - for physical spaces, these metrics could be distance, travel time,
+    communication time, travel/transport energy
+  - how do physical aspects of these spaces affect the vibration and
+    refraction of waves? & metrics like population density, geographic
+    network size (network heartbeat & transit patterns)
+
+- some factors can drive more competition b/w people and groups within
+  highly local spheres
+  - here, shared resources/energy are within reach
+    - results of games and other information is made more readily
+      apparent to those in highly local spheres
+      - feedback loops are tight, diffusion of information is
+        necessarily relayed & responded to at higher frequencies, as
+        are the causal effects of its reflection
+      - people respond to each other faster.
+
+- those people you compete against locally are motivated to draw on
+  their neighbors for the same types of things you might find
+  advantageous to exploit/control
+  - so, because your local neighbor competes against their local
+    neighbors, now you and your 2&deg; have some incentives to
+    cooperate against your neighbor.
+
+- examples of this in recent history
+  - nazi's and soviets in early 30's begrudgingly cooperated to move
+    into poland.
+  - after Napolean's failed attempt to conquer Russia, the french
+    troops left behind formed the basis of a drawn-out, impromptu
+    cultural diaspora.
+    - this ended up seeding cultural connections to france. decades
+      later, French and Russian academics and philosophers founded
+      the roots of modern socialism.
+    - France and Russia became like cultural/political poles of the
+      European mainland and there was consistent churn between both
+      throughout the rest of the 19th century
+      - franco-prussian war
+
+- as history progressed, speeds of communication increased, along with
+  quantity/density of information available.
+  - the effects described in the Mandala effect began manifesting
+    along greater scales (but it's not only the distance grew at which
+    these effects manifested)
+  - it would seem that exponential increases in speed/density of
+    communication in the 19th century would pace along with the
+    changes to Rajamandala's theory's here.
+    - however, that's not what happens: sociophysical spaces become
+      less physical and more logical -- further, the models for
+      mechanics on spaces become moreso parameterized by topologies,
+      which diffuse effects faster and more widely
+    - as stated in part one, the nature of sociophysical spaces shifts
+      beneath our feet
 
 ### "Fighting Shadows" or Defending Against "Hall of Mirrors"
 
