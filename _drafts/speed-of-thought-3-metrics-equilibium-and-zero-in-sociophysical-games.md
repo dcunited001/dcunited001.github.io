@@ -506,6 +506,8 @@ defined in infinitely many ways.
     - as stated in part one, the nature of sociophysical spaces shifts
       beneath our feet
 
+- network theory and [Gilbat's Law](https://en.wikipedia.org/wiki/Gibrat%27s_law)
+
 ### "Fighting Shadows" or Defending Against "Hall of Mirrors"
 
 - this tactic is only possible when someone obtains significant power

@@ -9,6 +9,36 @@ author:
 graphics_ui_layout: "graphics/2017-06-29-animating-the-gradient.html"
 ---
 
+- TODO: figure out how to structure (with illustrations?) so that
+  pretty much anyone can understand what i'm talking about
+  - 
+
+
+### Videos
+
+
+
+### Sources
+
+
+
+# Basic Techniques
+
+### &#9312; Isolations: Absolute and Relative Motion
+
+### &#9313; Reversing and Cycling Motion
+
+### &#9314; Layering Effects
+
+- other basic techniques:
+  - articulating motion or exaggerating the amount of movement
+  - gestures and body language
+    - everything in poplocking starts with basic hiphop dance and
+      gestures, layering everything in on top of that
+
+
+
+
 - this is all geometric mechanics
   - [parametric pendulum](https://www.youtube.com/watch?v=eC_TJeLcZ6A)
   - [parametric resonance](https://www.youtube.com/watch?v=Hi_4SsbwaeE)
@@ -25,10 +55,14 @@ graphics_ui_layout: "graphics/2017-06-29-animating-the-gradient.html"
     system, one can discretize the space of (theta[1] .. theta[n]) or
     the surface of the toroidally generated shape.
 
+
+
 - a primer on
   [geometric mechanics](https://arxiv.org/pdf/1206.3302.pdf).
 - [configuration space of a double pendulum](http://www.nestedtori.com/2015/08/the-configuration-space-of-double.html)
 - [distributing points on a 2-sphere](http://www.nestedtori.com/2015/09/distributing-points-on-spheres-and.html)
+
+
 
 # Discrete Differential Geometry and Pop Locking
 
@@ -43,8 +77,11 @@ graphics_ui_layout: "graphics/2017-06-29-animating-the-gradient.html"
       functional math to a 3D mesh and skeleton and produce functions
       that enable you to move it rhythmically
 
+
+
 ### Combinatorial Generation of Involutes in the Configuration Space
 
+- isolations are involutes
 - involutes are essentially unrollings of lines/planes
   - if you have a finite-length string and you hold one fixpoint, the
     involute is the set of curves that emerge from moving the free
@@ -59,6 +96,8 @@ graphics_ui_layout: "graphics/2017-06-29-animating-the-gradient.html"
   - with isolations, you could also hold several joints in place and
     try to imagine the isolations available with the joints between
     them.
+
+
 
 - so in a jointed, discrete system where the distance between points
   is constant and motions of jointed 1-segments are constraint by the
@@ -120,7 +159,6 @@ graphics_ui_layout: "graphics/2017-06-29-animating-the-gradient.html"
       rhythmic, usually results in more visually appealing moves.
 
 
-
 ### describe math behind poplocking
 
 - combinating sets of joints in human (and other bodies)
@@ -172,6 +210,23 @@ graphics_ui_layout: "graphics/2017-06-29-animating-the-gradient.html"
           necessarily/ordinarily/usually exact, especially if the
           solution requires learning weights to the problem
 
+
+### Martial Arts Styles Usually Incorporate Energy Minimization/Conservation/Focus
+
+- fighting style in martial arts, as it relates to the minimization of
+  energy.
+  - when and how does the aesthetic of the minimization of energy
+    present itself in a fighting style?
+- here, i mean physical energy minimization
+
+### With Poplocking/Dancing, The More Physical Energy, The More Expressive You Can Be
+
+- expression in poplocking requires high dirichlet energy to distort
+  the body for more dense articulation of motion
+  - this requires more motion, thus more physical energy
+
+### (Inefficiencies in Relearning)
+
 - an inefficiancy arises when the human mind must relearn patterns of
   motion (or some abstract behavior/expression)
   - this is bc the mind is finding the structure for some analytical
@@ -187,8 +242,9 @@ graphics_ui_layout: "graphics/2017-06-29-animating-the-gradient.html"
       must transform its existing structure, it cannot
     - it instead must try to find some (B -> C), where C is the
       closest approximate solution to A from B
-      
+
 - ... maybe transition to something else... lulz
+  - the above is relevant...
 
 - connection to negative occupational therapy
   - how this explains why it's expensive to unlearn
@@ -216,10 +272,3 @@ graphics_ui_layout: "graphics/2017-06-29-animating-the-gradient.html"
   burdens our society and benefits liberals who are using it for
   harassment and mind control.
 
-
-### Misc
-
-- fighting style in martial arts, as it relates to the minimization of
-  energy.
-  - when and how does the aesthetic of the minimization of energy
-    present itself in a fighting style?

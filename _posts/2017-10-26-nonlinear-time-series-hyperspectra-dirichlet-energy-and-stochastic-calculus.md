@@ -12,7 +12,6 @@ excerpt: ""
 - make it clear that, while i don't actually know this stuff, i can't
   stop thinking about it
 
-
 - TODO: find picture of adjacency network
 - TODO: include picture from "visible graphs" article
 
@@ -26,8 +25,6 @@ excerpt: ""
 #### &#x2605 [Perimeter Institute](https://www.youtube.com/user/PIOutreach) (Canadian Research): [Tensor Networks Talks](https://www.perimeterinstitute.ca/research/research-initiatives/tensor-networks/tensor-networks-talks)
 
 #### &#x2605; MIT 6.838 Shape Analysis: [Lectures](https://www.youtube.com/playlist?list=PLkHIj5SCfn3-FeWqD3xeOZWP2kQYY654o) and [Content](http://groups.csail.mit.edu/gdpgroup/6838_spring_2017.html)
-
-
 
 Few topics have expanded my mathematic imagination to the degree that
 watching these
@@ -81,7 +78,7 @@ fashion to be used by the best 3D artists in the world.
 
 # [Intro To Tensors And Algebras](#intro-to-tensors-and-algebras)
 
-- title: rough intro?
+- title
 
 There's a limitless variety of tensors found in physical and
 mathematic systems, operating in spaces both euclidian and those more
@@ -127,6 +124,7 @@ of algebras will you understand their true potential.
 #### &#8853; Direct Sum: `dim(v &#8853; w) = dim(v) + dim(w)`
 
 - tensors are a convenience, not a burden
+  - (specific kinds of applications require tensor constructions.)
   - similar to how linear operators and <bra | ket> notation is
     designed to simplify/hasten work w/ math/physics (with... heavy
     utilization of (re-ordering) of functions)
@@ -145,7 +143,79 @@ of algebras will you understand their true potential.
     enumerable paths through a network/graph, where the length of path
     is bounded by the number of degrees)
 
-#### Algebraic Convolution
+#### &#2605; [Hopf Algebra]()
+
+#### &#2605; [Partial Combinatory Algebra]()
+
+#### &#2605; [Universal Algebra]()
+
+#### &#2605;
+
+- [^type-driven-semantics]
+- [^type-driven-semantics-ccg]
+
+- [^incremental-semantic-construction]
+
+### ... [Combinatory Categorical Grammars]()
+
+- explain using CCG's for textual/semantic analysis of content.
+  - with CCG you can combinate through all potential grammatic
+    structures (for a language?) into an indexable, ordered collection
+    of increasingly structure
+    - (either countable? or can be made countable?)
+  - using this technique, computational linguistics applications can
+    compose this (highly-structured) algebra along with other
+    algebraic structures created with tensors
+
+#### Autosuggest Optimized Grammar With More Dense Semantic Content
+
+  - example of CCG usage: identify overly-verbose paragraphs and
+    permute the grammatical structures of multiple statements, fusing
+    fragments with function words by optimizing a walk through a
+    complicated multitiered graph.
+  - another example: render a sentence to CCG, examine its CCG
+    subunits.
+    - join this with thesaurus algorithm informed by a semantic
+      network and an understanding of the types of CCG subunits that
+      particular words appear in where the semantic result of the
+      sentence is similar.
+      - you can identify synonyms that result in more succinct
+        grammatic structures. (i really need this)
+
+#### Metrics For
+
+- a grammatical analogy of (..metric for writers), you can analyze an
+  author's work to measure how varied, well-structured or succinct
+  their grammar trees are.
+
+- [Hapax Legomenon](https://en.wikipedia.org/wiki/Hapax_legomenon)
+- deviation from
+  [Heap's Law](https://en.wikipedia.org/wiki/Heaps%27_law) to quantify
+  author's talent for using descriptive language.
+  - for me, it's really hit or miss
+
+#### Discourse Analysis to Construct Rhetorical [Valuation](https://en.wikipedia.org/wiki/Valuation_(logic)) of Non-Fiction
+
+- [Discourse Analysis](https://en.wikipedia.org/wiki/Discourse_analysis)
+
+- the need to handle 2nd order logic makes this impossible (i think?)
+
+- [Lotka's Law]() & [Price's Law]()
+
+#### Diffeomorphological Analysis of Contribution to Human Thought
+
+
+- the gist of this section is to establish how math and technology
+  (lead to unexpected developments). While liberal arts were
+  traditionally considered less scientific and more subjective, they
+  are quickly adapting. Cognitively, these skills are actually
+  computationally harder and rigorously mathematic, albeit in abstract
+  ways. Our mind operates non-deterministically with numeric
+  approximations to optimal solutions in the course of generating
+  literature, art and music.
+
+
+### Convolution Of Structured Algebras With Tensors
 
 - tie algrebraic convolution of values in the above to a model for
   hyper/spectral analysis which can be further convoluted with
@@ -183,8 +253,11 @@ of algebras will you understand their true potential.
     matrix of values b/w zero and one representing the probability
     that `(v-d) <= a(t) < (v+d)` is true
     - these notions of probability are much simpler with constraints
-    on an edge's range of values
+      on an edge's range of values
     - are they real, integer, or binary (the simplest)
+      - for edges that have integer values or real values, if they
+        have some mimimum, this may be modeled with something like a
+        [Pareto Distribution](https://en.wikipedia.org/wiki/Pareto_distribution)
     - at smaller sampling rates the models can be much more accurate
       - different sampling rates need fundamentally different sets of
         weights when training a model to recognize patterns, unless
@@ -348,3 +421,9 @@ mesh that represents some point along a [mesh morph]().
 [^spectral-conformal-parameterization]: Mullen, P., Tong, Y., Alliez, P. and Desbrun, M., 2008, July. [Spectral conformal parameterization](https://doi.org/10.1111/j.1467-8659.2008.01289.x). In Computer Graphics Forum (Vol. 27, No. 5, pp. 1487-1494). Blackwell Publishing Ltd.
 
 [^functional-maps]: Ovsjanikov, M., Ben-Chen, M., Solomon, J., Butscher, A. and Guibas, L., 2012. [Functional maps: a flexible representation of maps between shapes](https://doi.org/10.1145/2185520.2185526). ACM Transactions on Graphics (TOG), 31(4), p.30.
+
+[^type-driven-semantics]: Polajnar, T., Fagarasan, L. and Clark, S., 2013. [Learning type-driven tensor-based meaning representations](https://arxiv.org/abs/1312.5985). arXiv preprint arXiv:1312.5985.
+
+[^type-driven-semantics-ccg]: Maillard, J., Clark, S. and Grefenstette, E., 2014, March. [A type-driven tensor-based semantics for CCG](http://www.anthology.aclweb.org/W/W14/W14-14.pdf#page=56). In Proceedings of the EACL 2014 Type Theory and Natural Language Semantics Workshop (pp. 46-54).
+
+[^incremental-semantic-construction]: Kato, Y. and Matsubara, S., 2015. [Incremental Semantic Construction Using Normal Form CCG Derivation](http://anthology.aclweb.org/S/S15/S15-1.pdf#page=287). Lexical and Computational Semantics (* SEM 2015), p.269.
