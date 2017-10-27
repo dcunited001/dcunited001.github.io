@@ -2352,10 +2352,29 @@ fear and paranoia: hardly what social physics *could do* for the
 average person. For most of those in poverty, the entire course and
 cause of their plight, could they simply be empowered with what we are
 all born with: the potential to leverage sociophysical energy to
-transform our surroundings. As someone with libertarian-leaning ideas
-on civil rights, privacy and data-ownership, I hesitate to enable the
-government in this regard because even the best intentions go horribly
-awry.
+transform our surroundings. (move: As someone with libertarian-leaning
+ideas on civil rights, privacy and data-ownership, I hesitate to
+enable the government in this regard because even the best intentions
+go horribly awry.)
+
+
+- {from article on math} furthermore, there are people who's mental
+  state is the result of their life experience, either in the past or
+  because of current conditions. There are many types of individuals
+  who suffer with improper diagnosis because of isolation, abusive
+  relationships, and many other reasons. Social data science can
+  easily distinguish those individuals.
+  - Part of the [Biocomplexity Institute](https://www.bi.vt.edu/) at
+    Virginia Tech, the
+    [Social and Decision Analytics Laboratory](https://www.bi.vt.edu/research/Social-and-Decision-Analytics-Laboratory)
+    is...
+    - While any widespread social data science without consent results
+      in unsettling privacy issues, the only institutions with access
+      to data needed for social data science are instead using it for
+      control. In some cases, it is specifically used to exacerbate
+      mental health problems. This results in major economic strain,
+      regardless of whether the taxpayer, businesses or the family
+      covers mental health costs.
 
 Isolation causes or exacerbates mental illness. When isolation is
 protracted, it severly restricts their medium and long-term mental
@@ -2364,9 +2383,9 @@ signal. It shrouds people in a
 [fog of war](https://en.wikipedia.org/wiki/Fog_of_war). If it really
 does severly impact quality of life, couldn't we reduce unnecessary
 budget deficits through means such as removing large drains on
-publicly or privately financed healthcare. It can definitely make a
+publicly or privately financed healthcare. (It can definitely make a
 difference. However, iatrogenic treatment has caused horrible
-consequences in my own life.
+consequences in my own life.)
 
 - social isolation can be measured, given some "normal" facebook
   user's 2-degree graph of friends for some definition of normal

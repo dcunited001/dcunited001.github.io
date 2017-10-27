@@ -94,6 +94,10 @@ state is instantaneously and how the paths for
 [deformation](https://en.wikipedia.org/wiki/Deformation_(mechanics))
 might proceed in the future.
 
+#### Cauchy Stress Tensor
+
+![Cauchy Stress Tensor](/img/posts/2017-10-26-nonlinear-time-series-hyperspectra-dirichlet-energy-and-stochastic-calculus/cauchy-stress-tensor.png)
+
 If the Cauchy stress tensor and those types of tensors operating on
 physical and euclidian spaces outline your conception of them, then
 it's difficult to imagine the full range of possibilities. Only when
@@ -167,17 +171,106 @@ of algebras will you understand their true potential.
 
 # The (Eternal) Sublimation of Subjectivity
 
-- Summarize: how math and technology (lead to unexpected developments).
-
 - While liberal arts were traditionally considered less scientific and
   more subjective, they are quickly adapting. Cognitively, these
   skills are actually computationally harder and rigorously
   mathematic, albeit in abstract ways. Our mind operates
   non-deterministically with numeric approximations to optimal
   solutions in the course of generating literature, art and music.
+  - Algorithms can decompose and understand nearly everything we've
+    created, to a degree that defies the anticipation of our brightest
+    minds, depending on the types of data and the complexity of
+    analysis necessary.
+    - algorithms empowered by the level of computational
+      infrastructure we are soon to develop will table-flip many
+      assumptions considered axiomatic in the humanities.
+      - many controversial unsolved mysteries will be (resolved) as
+        these techniques become more advanced.
+        - e.g. [Computer analysis reveals Shakespeare's collaborators](https://newatlas.com/algorithm-shakespeare-coauthor-marlowe/46130/)
 
+- TODO: explain more about how/why subjectivity fades away.
+  - and why the tractibility of some problems means there will always
+    be (some space) that can never be objectified
 
+- From here on out, the illusion of subjectity pervading many aspects
+  of life begin to fade away. (but it never completely disappears)
+  - (Things) long held to be based on opinion and preference can be
+    quantified
+    - The way we exercise disernment to form opinions, engage in
+      behaviors, participate in (hobbies/society/etc) becomes moreso
+      defined by what we know at the time, even though we may have
+      believed it impossible to ever know.
+      - society adapts in several ways: institutions start to codify
+        (things) formerly left to preference, promoting some and
+        disdaining others. Many (things) will be prohibited or overly
+        regulated.
+      - even if you don't understand, those with power will have the
+        ability to structure what is within their grasp to adhere to
+        their reality. they might justify this via academia, but novel
+        computational methods will justify these policies and
+        regulations through arguments which could otherwise never be
+        made.
+    - in some ways, this is good. in other ways, it sucks the soul out
+      of life by enabling those with "knowledge" inaccessible to most
+      to dictate what an individual can be or can do.
+      - by quashing the elements (contributing towards) our
+        individuality, we threaten to undermine evolutionary
+        mechanisms in society by encouraging homogeny.
+      - in response, the individual should familiarize themselves w/
+        the basis of their subjective perceptions (of each phenomenon)
+        - (... and?)
+      - society, while stress-testing data science methods (...),
+        should also encourage individuals to continue exploring all
+        paths. homogeny is the mother of weakness.
 
+  - (bitemark analysis: there are huge connections b/w confidence in
+    techniques like those and computational methods used in the
+    humanities)
+    - the hardest part about designing studies using these methods is
+      proving that one can be confident in the conclusions. if the
+      analytical methods can't be proven, inferences and deductions
+      provided by methods are circumstantial at best.
+    - (regulations, policies, and ... etc) should always be
+      questioned. where, in the past, these social institutions'
+      (policies) were built around best understanding, preference,
+      adherence to specific belief systems or the rights of
+      individuals to believe in what they want, social institutions
+      can now justify their policies through the unprecedented power
+      of science and data.
+      - knowledge has always been power. social hierarchies and
+        institutions have always been designed with reason and higher
+        goals in mind. those in power typically seek refuge in
+        duplicitous or flawed reasoning, keeping the truth for
+        themselves, while they squirrel away the knowledge of power
+        and put a neat red velvet rope around educational
+        institutions.
+    - Throughout the past, access to education was limited to
+      aristocrats, the (priest class) and (to other selected few.)
+      - the masses were controlled by keeping them in ignorance, but
+        today, that differential in knowledge (between the select few
+        and everyone else) *could* become proportionally greater than
+        at any point in history.
+      - we have to allow people to understand (the possibilities of
+        technology)
+
+- power corrupts and absolute power corrupts absolutely
+- this should be a warning: allow the relinquishment of neither your
+  right to knowledge nor your right to individual beliefs.
+  - there are obviously some exceptions, since technology can be
+    dangerous.
+
+- Summarize: how math and technology (lead to unexpected
+  developments).
+  - without at least a (working understanding) of the math concepts in
+    this article, (these unexpected extrapolations) are almost
+    impossible to anticipate.
+    - don't necessarily need to be able to use the maths, but instead
+      understand where they can be used, how they can be combined and
+      why they address specific problems.
+    - this gives insight into how advanced in math and computing
+      translate phenomonologically into sociocultural changes
+      - (they enable new business opportunities, change the ways that
+        we communicate, etc. ... duh)
 
 #### "Magma" - Dr. Evil
 
@@ -189,8 +282,6 @@ of algebras will you understand their true potential.
 ### ... [Combinatory Categorical Grammars]()
 
 - CCG (is based on partial combinatory algebra)
-
-
 
 - explain using CCG's for textual/semantic analysis of content.
   - with CCG you can combinate through all potential grammatic
@@ -238,7 +329,7 @@ of algebras will you understand their true potential.
 
 #### Diffeomorphological Analysis of Contribution to Human Thought
 
-- 
+-
 
 
 
@@ -424,6 +515,74 @@ mesh that represents some point along a [mesh morph]().
 - how different is this from the spatiotemporal ideas above
 
 ![picture of plate model]()
+
+# (unexpected technological developments)
+
+  - pixar (needed to stay ontop) of academic advances in rendering
+    tech and computational geometry, (but they were hardly trying to
+    save the world)
+    - in the near future, everything that precipates will be enabled
+      by math, networking and computation. we're close to rendering
+      obselete (the existing academic application of the scientific
+      method)
+      - developments computational medicine, chemisty, psychology and
+        sociology will unfold faster than ever
+      - the truth is usually the simplest explanation even if it is
+        occasionally riddled with more paradoxes than should be
+        attributed to a wholly beneficent God.
+      - but these advances in all fields ranging from the sciences to
+        the arts will reveal all, starting with the truth.
+      - no one can expect all the ways this (trend) will unfold, but
+        since math has been so well hidden in plain sight for so long,
+        this will upset a lot of powerful people who felt secure in
+        things (they didn't truly understand, they felt certain would
+        not come to light)
+
+- regardless of how or why it got there, people are going to see
+  what's been swept under that rug all this time.
+  - harmful or ignorant treatments in conventional medicine or
+    psychiatry, especially those which were so rigorously vetted by
+    academic journals, will be undeniably seen for what they are.
+    - Modern healthcare institutions are (obsessive) about mitigating
+      risk and liability, so they react appropriately when the
+      wellbeing of patients is at stake.
+    - In medicine, psychiatry has the most to worry about, the
+      chemical imbalance theory is mostly a pill simple enough for the
+      patient to swallow and only recently has accounted for genetic
+      factors and epigenetic response. Any psychiatrist must have
+      impressive (awareness) of neuropharmacology and many of their
+      treatments are (helpful), though I believe that too often they
+      treat the symptoms and not the cause.
+      - by justifying and prescribing treatments solely through the
+        lense of the chemical imbalance theory, patients tend to avoid
+        augmenting their treatment with more effective alternatives.
+
+    - Computational neurology will determine which psychiatric
+      treatments work and why. If there are epigenetic mechanisms that
+      explain why specific prescription medications lead to
+      neurological destabalization, the results that computational
+      medicine will quickly lead us to will be undeniable.
+      - how psychiatry chooses to respond to this is critical.
+  - the danger here is how quickly this relevations like these will
+    accumulate. they will table-flip long-held
+    (assumptions/maxims/truths) in nearly all academic fields
+    - (things) well-hidden throughout history will become known
+
+- the harder that the powerful struggle against this as it happens,
+  the worst it will look. the best solution is to understand there's
+  so much we couldn't have known, correcting our path to act justly
+  and ethically, when need be. we should instead place our hope in
+  words and actions that will certainly speak towards our credit. this
+  phenomenon will affect everyone across the globe. it will generate
+  effects that lend themselves towards being used, (which is the
+  greater danger).
+  - This is why we should have always acted as though God is watching
+    and always was. We should assume all that was hidden will be
+    revealed. This is a phenemonon of sociocultural transformation,
+    resulting from man-made technology, so it need not be understood
+    supernaturally. Still, it never hurts check yourself, remembering
+    that there just might be someone upstairs who knows everything
+    you've ever done.
 
 [^geometry-of-a-time-series]: [Geometry from a Time Series](https://doi.org/10.1103/PhysRevLett.45.712) N. H. Packard, J. P. Crutchfield, J. D. Farmer, and R. S. Shaw, Physical Review Letters (1980)
 
