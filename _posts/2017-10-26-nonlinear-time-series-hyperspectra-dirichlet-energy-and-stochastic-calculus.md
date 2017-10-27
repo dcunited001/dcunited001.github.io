@@ -187,6 +187,14 @@ of algebras will you understand their true potential.
       - many controversial unsolved mysteries will be (resolved) as
         these techniques become more advanced.
         - e.g. [Computer analysis reveals Shakespeare's collaborators](https://newatlas.com/algorithm-shakespeare-coauthor-marlowe/46130/)
+        - unexpected quantification of spirituality (neurological
+          basis for meditation & other spritual experiences)
+          - this goes both ways: the more spiritually inclined people
+            claim "see, it was real the whole time." and the
+            materialists claim "see, it was in your head the whole
+            time."
+            - the former is much more interesting, doncha know...
+              - uhhhh you didn't know?
 
 - TODO: explain more about how/why subjectivity fades away.
   - and why the tractibility of some problems means there will always
