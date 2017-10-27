@@ -8,6 +8,7 @@ author:
 excerpt: ""
 ---
 
+- TODO: change title
 
 - make it clear that, while i don't actually know this stuff, i can't
   stop thinking about it
@@ -151,12 +152,45 @@ of algebras will you understand their true potential.
 
 #### &#2605;
 
-- [^type-driven-semantics]
-- [^type-driven-semantics-ccg]
 
-- [^incremental-semantic-construction]
+
+### Convolution Of Structured Algebras With Tensors
+
+- tie algrebraic convolution of values in the above to a model for
+  hyper/spectral analysis which can be further convoluted with
+  gradient/laplacian
+  - (assuming the heatmap values map to edge activation values {?})
+  - what kind of tensor products construct something like this and
+    what maps tie these algebraic convolutions together?
+
+
+
+# The (Eternal) Sublimation of Subjectivity
+
+- Summarize: how math and technology (lead to unexpected developments).
+
+- While liberal arts were traditionally considered less scientific and
+  more subjective, they are quickly adapting. Cognitively, these
+  skills are actually computationally harder and rigorously
+  mathematic, albeit in abstract ways. Our mind operates
+  non-deterministically with numeric approximations to optimal
+  solutions in the course of generating literature, art and music.
+
+
+
+
+#### "Magma" - Dr. Evil
+
+![Magma]()
+
+
+
 
 ### ... [Combinatory Categorical Grammars]()
+
+- CCG (is based on partial combinatory algebra)
+
+
 
 - explain using CCG's for textual/semantic analysis of content.
   - with CCG you can combinate through all potential grammatic
@@ -182,7 +216,7 @@ of algebras will you understand their true potential.
       - you can identify synonyms that result in more succinct
         grammatic structures. (i really need this)
 
-#### Metrics For
+#### Metrics Of (Literature)
 
 - a grammatical analogy of (..metric for writers), you can analyze an
   author's work to measure how varied, well-structured or succinct
@@ -204,25 +238,8 @@ of algebras will you understand their true potential.
 
 #### Diffeomorphological Analysis of Contribution to Human Thought
 
+- 
 
-- the gist of this section is to establish how math and technology
-  (lead to unexpected developments). While liberal arts were
-  traditionally considered less scientific and more subjective, they
-  are quickly adapting. Cognitively, these skills are actually
-  computationally harder and rigorously mathematic, albeit in abstract
-  ways. Our mind operates non-deterministically with numeric
-  approximations to optimal solutions in the course of generating
-  literature, art and music.
-
-
-### Convolution Of Structured Algebras With Tensors
-
-- tie algrebraic convolution of values in the above to a model for
-  hyper/spectral analysis which can be further convoluted with
-  gradient/laplacian
-  - (assuming the heatmap values map to edge activation values {?})
-  - what kind of tensor products construct something like this and
-    what maps tie these algebraic convolutions together?
 
 
 # (A Basis for A Generalized Model of Anything)
@@ -237,10 +254,6 @@ of algebras will you understand their true potential.
 #### A Heatmap of Combinitorialized Signal Sources, With Hierarchical Relationships Forming One Basis For A First-Order Transvaluation
 
 ![Heatmap of Combinitorialized Signal Sources](/img/posts/2017-10-21-speed-of-thought-twenty-postulates-of-social-physics/viz-heatmap.png)
-
-
-
-
 
 
 ### (Converting a Graph Into A System With Time Series)
