@@ -31,6 +31,20 @@ title: "Physiological Components of Spirituality"
       thus, likely rely moreso on osmotic pressure
   - these are my best-educated assumptions
 
+- from a fluid-dynamics perspective, the effect of a backspin (like 10
+  rotations) on CSF and blood flow
+  - the change in angular momentum sucks at least the blood to the
+    crown of your brain.
+    - it'd be interesting to know exactly what happens here
+  - it's probably almost entirely bloodflow increase, as you tighten
+    your core/legs, restricting bloodflow in torso
+    - your head stays at mostly the same distance from center, which
+      is the region of your body with almost all CSF
+      - CSF regions maintain more consistent volume
+      - you do crunch your abs, curving your spine inwards though,
+        potentially closing the downward flows of CSF, pushing some
+        fluid forward to the spine
+
 ### Neuroelectrical Energy Flow
 
 - by "neuroelectrical energy flow"
@@ -54,10 +68,52 @@ title: "Physiological Components of Spirituality"
 ### Movement of Energy Through the Spine
 
 - afferent/efferent nerves
-  - placement
+  - mechanims for feedback/reflex/overstrain
 
+- focus on how energy flows from afferent/efferent nerve bundles in
+  the spinal column affect adjacent nerves/bundles
+  - is there a local burnout caused by excessive usage of a spinal
+    nerve bundle? (ion/atp overconsumption that requires a small
+    amount of time to replentish) <?>
+    - there is probably not, since the nerves/bundles should be coated
+      with myelin sheath through the spine, which helps to insulate
+      each from the conduction of others and also should provide a
+      cache of nutrition <?>
 
+- are there neural faculties for amplifying signal in the brainstem,
+  upper/lower? in the spine? at the spine's connection to the nerves
+  exiting it?
+  - how tightly did our nervous system adapt to prefer minimization of
+    energy consumption? i.e. amplification closer to the motor impulse
+    source would be less efficient
 
+- <?> for afferent/afferent nerve signals, most interference or
+  cross-modulation, if any, would occur in the brain, around/after the
+  places where they pass through corticospinal & corticobulbar regions
+  - from here, the brain's networks become more elorately networked
+- how does the timing of afferent nerve impulses affect how the brain
+  processes them?
+  - (need to look at how dermaphores signal)
+  - is there some clocking mechanism for sensory impulses? or do
+    dermatophores signal on input, immediately passing the impulses
+    upstream?
+    - if it's something like this latter mechanism, without a clocking
+      mechanism near the senses
+
+#### Sleeping/Meditating in Zero-G
+
+- totally random, but whenever your body experiences gravity, it must
+  counter by pushing with some muscles in nearly any position you find
+  yourself in -- even when laying down
+  - in zero-g, you experience nearly zero force on your body in any
+    position, unless you're moving/pushing/pulling
+    - so, doesn't this make it slightly easier to acheive minimization
+      of efferent impulses through the spine?
+      - is it also similarly simple to minimize tactile/etc sensory
+      impulses over afferent nerves
+  - if so, and if it really is a goal of meditation to generally
+    diminish spinal nerve signalling (afferent/efferent/etc), then
+    does that mean there are novel techniques for meditation in space?
 
 # Physiological Explanations for Spiritual (Practices)
 
@@ -69,6 +125,9 @@ title: "Physiological Components of Spirituality"
   - increased local capillary pressure
   - decreased local arterial/vein flow where a yoga posture cuts off
     large veins
+
+### Variance in Local Rates of Flux
+
 - while breathing with high oxygenation, when taking particular
   medications when stimulating your diet with (all-natural food-based)
   supplements, then there will be higher plasma concentrations of
@@ -87,6 +146,12 @@ title: "Physiological Components of Spirituality"
         delivers the substances in your blood to focused areas of your
         body. for some capillary networks this can dramatically
         increase the rate of accumulated flux of blood
+  - for any research or treatment methods, it is critical to be able
+    to measure a posture/sequence's effect on blood flow
+    - or lymphatic/ISF/CSF flow
+
+### Designing Specific Posture Sequences and Altering Postures to optimize some effect
+
 - with knowledge of anatomy (esp. of circultory/lyphatic/ISF/CSF
   systems AND glandular systems) physiological fluid-dynamics, then
   one can sequence, time, pace and optimize their poses to trigger
@@ -100,6 +165,21 @@ title: "Physiological Components of Spirituality"
     exactly yoga poses can alter fluid dynamics and local accumulated
     flux of circ/lymph/ISF/CSF
 
+### Yoga and Gland Stimulation
+
+- what glands are accessible/safe to modulate with stimulation via
+  slight pressure?
+  - what would the gland release? specifically how do the glandular
+    byproducts build up? if these are hormones/messengers, how do they
+    reach their targets?
+  - for a gland's specific byproducts, how much and how fast does it
+    accumulate them? knowing this and given some destination (usually
+    some organ), what sequence of poses would *actually* provide
+    stimulation?
+
+- has there been research on yoga poses and gland stimulation?
+  - is it possible to measure plasma levels throughout a yoga session
+    to see when/if they spike significantly?
 
 ### Some of Kundalini Yoga's Movements Are Intended to Drive Spinal CSF Flux
 
