@@ -108,6 +108,10 @@ utility in the collective consciousness of early humanity
 
 would even dictate the functional
 
+
+- [IPA mappings to linguistic spaces](https://en.wikipedia.org/wiki/File:The_International_Phonetic_Alphabet_(revised_to_2015).pdf)
+
+
 ### Misc Linguistic Ideas:
 
 - controlling/guiding linguistic evolution by observing the laplacian

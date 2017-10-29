@@ -244,6 +244,15 @@ also kind of leads the world through a difficult path.
       wave.
       - also an experiment in space would allow us to perform the
         experiment with much larger distances b/w lasers
+  - [Gauss-Bonnet Gravity](https://en.wikipedia.org/wiki/Gauss%E2%80%93Bonnet_theorem)
+    - if a black hole really is a tear in spacetime, then does
+      #GaussBonnet #Gravity attempt to handle topological change?
+    - it seems the #EulerCharacteristic stays the same. either way,
+      doesn't this have implications for the structure of space in
+      singularities?
+    - if there are topological changes to spacetime upon black hole
+      mergers, this might present characteristic spectral artifacts in
+      grav waves
 
 #### hawking radiation, virtual particles and desitter space
 

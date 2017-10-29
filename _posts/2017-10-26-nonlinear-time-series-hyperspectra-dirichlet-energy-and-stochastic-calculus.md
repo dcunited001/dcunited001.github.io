@@ -167,119 +167,6 @@ of algebras will you understand their true potential.
   - what kind of tensor products construct something like this and
     what maps tie these algebraic convolutions together?
 
-
-
-# The (Eternal) Sublimation of Subjectivity
-
-- While liberal arts were traditionally considered less scientific and
-  more subjective, they are quickly adapting. Cognitively, these
-  skills are actually computationally harder and rigorously
-  mathematic, albeit in abstract ways. Our mind operates
-  non-deterministically with numeric approximations to optimal
-  solutions in the course of generating literature, art and music.
-  - Algorithms can decompose and understand nearly everything we've
-    created, to a degree that defies the anticipation of our brightest
-    minds, depending on the types of data and the complexity of
-    analysis necessary.
-    - algorithms empowered by the level of computational
-      infrastructure we are soon to develop will table-flip many
-      assumptions considered axiomatic in the humanities.
-      - many controversial unsolved mysteries will be (resolved) as
-        these techniques become more advanced.
-        - e.g. [Computer analysis reveals Shakespeare's collaborators](https://newatlas.com/algorithm-shakespeare-coauthor-marlowe/46130/)
-        - unexpected quantification of spirituality (neurological
-          basis for meditation & other spritual experiences)
-          - this goes both ways: the more spiritually inclined people
-            claim "see, it was real the whole time." and the
-            materialists claim "see, it was in your head the whole
-            time."
-            - the former is much more interesting, doncha know...
-              - uhhhh you didn't know?
-
-- TODO: explain more about how/why subjectivity fades away.
-  - and why the tractibility of some problems means there will always
-    be (some space) that can never be objectified
-
-- From here on out, the illusion of subjectity pervading many aspects
-  of life begin to fade away. (but it never completely disappears)
-  - (Things) long held to be based on opinion and preference can be
-    quantified
-    - The way we exercise disernment to form opinions, engage in
-      behaviors, participate in (hobbies/society/etc) becomes moreso
-      defined by what we know at the time, even though we may have
-      believed it impossible to ever know.
-      - society adapts in several ways: institutions start to codify
-        (things) formerly left to preference, promoting some and
-        disdaining others. Many (things) will be prohibited or overly
-        regulated.
-      - even if you don't understand, those with power will have the
-        ability to structure what is within their grasp to adhere to
-        their reality. they might justify this via academia, but novel
-        computational methods will justify these policies and
-        regulations through arguments which could otherwise never be
-        made.
-    - in some ways, this is good. in other ways, it sucks the soul out
-      of life by enabling those with "knowledge" inaccessible to most
-      to dictate what an individual can be or can do.
-      - by quashing the elements (contributing towards) our
-        individuality, we threaten to undermine evolutionary
-        mechanisms in society by encouraging homogeny.
-      - in response, the individual should familiarize themselves w/
-        the basis of their subjective perceptions (of each phenomenon)
-        - (... and?)
-      - society, while stress-testing data science methods (...),
-        should also encourage individuals to continue exploring all
-        paths. homogeny is the mother of weakness.
-
-  - (bitemark analysis: there are huge connections b/w confidence in
-    techniques like those and computational methods used in the
-    humanities)
-    - the hardest part about designing studies using these methods is
-      proving that one can be confident in the conclusions. if the
-      analytical methods can't be proven, inferences and deductions
-      provided by methods are circumstantial at best.
-    - (regulations, policies, and ... etc) should always be
-      questioned. where, in the past, these social institutions'
-      (policies) were built around best understanding, preference,
-      adherence to specific belief systems or the rights of
-      individuals to believe in what they want, social institutions
-      can now justify their policies through the unprecedented power
-      of science and data.
-      - knowledge has always been power. social hierarchies and
-        institutions have always been designed with reason and higher
-        goals in mind. those in power typically seek refuge in
-        duplicitous or flawed reasoning, keeping the truth for
-        themselves, while they squirrel away the knowledge of power
-        and put a neat red velvet rope around educational
-        institutions.
-    - Throughout the past, access to education was limited to
-      aristocrats, the (priest class) and (to other selected few.)
-      - the masses were controlled by keeping them in ignorance, but
-        today, that differential in knowledge (between the select few
-        and everyone else) *could* become proportionally greater than
-        at any point in history.
-      - we have to allow people to understand (the possibilities of
-        technology)
-
-- power corrupts and absolute power corrupts absolutely
-- this should be a warning: allow the relinquishment of neither your
-  right to knowledge nor your right to individual beliefs.
-  - there are obviously some exceptions, since technology can be
-    dangerous.
-
-- Summarize: how math and technology (lead to unexpected
-  developments).
-  - without at least a (working understanding) of the math concepts in
-    this article, (these unexpected extrapolations) are almost
-    impossible to anticipate.
-    - don't necessarily need to be able to use the maths, but instead
-      understand where they can be used, how they can be combined and
-      why they address specific problems.
-    - this gives insight into how advanced in math and computing
-      translate phenomonologically into sociocultural changes
-      - (they enable new business opportunities, change the ways that
-        we communicate, etc. ... duh)
-
 #### "Magma" - Dr. Evil
 
 ![Magma]()
@@ -336,9 +223,6 @@ of algebras will you understand their true potential.
 - [Lotka's Law]() & [Price's Law]()
 
 #### Diffeomorphological Analysis of Contribution to Human Thought
-
--
-
 
 
 # (A Basis for A Generalized Model of Anything)
@@ -421,8 +305,6 @@ both volume and dirichlet energy throughout the field.
 
 
 ![Four Types of Hyperspectral Analysis](/img/posts/2017-10-21-speed-of-thought-twenty-postulates-of-social-physics/hyperspectral-techniques.jpg)
-
-
 
 ### Hyperspectral Analysis of Time-Series Graphs/Networks
 
@@ -592,6 +474,144 @@ mesh that represents some point along a [mesh morph]().
     that there just might be someone upstairs who knows everything
     you've ever done.
 
+# The (Eternal) Sublimation of Subjectivity
+
+- TODO: this section is way off the original intent
+
+- While liberal arts were traditionally considered less scientific and
+  more subjective, they are quickly adapting. Cognitively, these
+  skills are actually computationally harder and rigorously
+  mathematic, albeit in abstract ways. Our mind operates
+  non-deterministically with numeric approximations to optimal
+  solutions in the course of generating literature, art and music.
+  - Algorithms can decompose and understand nearly everything we've
+    created, to a degree that defies the anticipation of our brightest
+    minds, depending on the types of data and the complexity of
+    analysis necessary.
+    - algorithms empowered by the level of computational
+      infrastructure we are soon to develop will table-flip many
+      assumptions considered axiomatic in the humanities.
+      - many controversial unsolved mysteries will be (resolved) as
+        these techniques become more advanced.
+        - e.g. [Computer analysis reveals Shakespeare's collaborators](https://newatlas.com/algorithm-shakespeare-coauthor-marlowe/46130/)
+        - unexpected quantification of spirituality (neurological
+          basis for meditation & other spritual experiences)
+          - this goes both ways: the more spiritually inclined people
+            claim "see, it was real the whole time." and the
+            materialists claim "see, it was in your head the whole
+            time."
+            - the former is much more interesting, doncha know...
+              - uhhhh you didn't know?
+
+- TODO: explain more about how/why subjectivity fades away.
+  - and why the tractibility of some problems means there will always
+    be (some space) that can never be objectified
+
+- From here on out, the illusion of subjectity pervading many aspects
+  of life begin to fade away. (but it never completely disappears)
+  - (Things) long held to be based on opinion and preference can be
+    quantified
+    - The way we exercise disernment to form opinions, engage in
+      behaviors, participate in (hobbies/society/etc) becomes moreso
+      defined by what we know at the time, even though we may have
+      believed it impossible to ever know.
+      - society adapts in several ways: institutions start to codify
+        (things) formerly left to preference, promoting some and
+        disdaining others. Many (things) will be prohibited or overly
+        regulated.
+      - even if you don't understand, those with power will have the
+        ability to structure what is within their grasp to adhere to
+        their reality. they might justify this via academia, but novel
+        computational methods will justify these policies and
+        regulations through arguments which could otherwise never be
+        made.
+    - in some ways, this is good. in other ways, it sucks the soul out
+      of life by enabling those with "knowledge" inaccessible to most
+      to dictate what an individual can be or can do.
+      - by quashing the elements (contributing towards) our
+        individuality, we threaten to undermine evolutionary
+        mechanisms in society by encouraging homogeny.
+      - in response, the individual should familiarize themselves w/
+        the basis of their subjective perceptions (of each phenomenon)
+        - (... and?)
+      - society, while stress-testing data science methods (...),
+        should also encourage individuals to continue exploring all
+        paths. homogeny is the mother of weakness.
+
+  - (bitemark analysis: there are huge connections b/w confidence in
+    techniques like those and computational methods used in the
+    humanities)
+    - the hardest part about designing studies using these methods is
+      proving that one can be confident in the conclusions. if the
+      analytical methods can't be proven, inferences and deductions
+      provided by methods are circumstantial at best.
+    - (regulations, policies, and ... etc) should always be
+      questioned. where, in the past, these social institutions'
+      (policies) were built around best understanding, preference,
+      adherence to specific belief systems or the rights of
+      individuals to believe in what they want, social institutions
+      can now justify their policies through the unprecedented power
+      of science and data.
+      - knowledge has always been power. social hierarchies and
+        institutions have always been designed with reason and higher
+        goals in mind. those in power typically seek refuge in
+        duplicitous or flawed reasoning, keeping the truth for
+        themselves, while they squirrel away the knowledge of power
+        (into esotericism) and place a neat red velvet rope around
+        educational institutions.
+    - Throughout the past, access to education was limited to
+      aristocrats, the (priest class) and (to other selected few.)
+      - the masses were controlled by keeping them in ignorance, but
+        today, that differential in knowledge (between the select few
+        and everyone else) *could* become proportionally greater than
+        at any point in history.
+      - we have to allow people to understand (the possibilities of
+        technology)
+
+- philosophical singularities {that word is too typical and too
+  loaded}
+  - insight that is relevatory to our understanding of life ends up
+    sequestered away over time, (sealed behind social
+    hierarchies). this has happened repeatedly in history.
+  - an undercurrent of this dynamic seems to be playing out now with
+    knowledge related to science/technology. people are encouraged to
+    fear science/tech/math and especially extrapolations which sound
+    outlandish.
+  - there are specific (things) that must be established, gradually
+    and hidden in plain sight, in order to seal people (inside a false
+    paradigm)
+    - we should be wary of this possibility because the
+      disproportionate power granted by today's technology might never
+      be overturned.
+    - it seems impossible to hide knowledge/information now because
+      we're all superconnected. (yet, can we freely use it? it seems
+      like the creation of digital artifacts of this time is generally
+      being suppressed).
+      - since we're all living in this new world inundated with
+        stimulis we don't understand yet, we haven't thought much
+        about life without it or whether knowledge/information can be
+        sealed away, in spite of being superconnected.
+
+- power corrupts and absolute power corrupts absolutely
+- this should be a warning: allow the relinquishment of neither your
+  right to knowledge nor your right to individual beliefs.
+  - there are obviously some exceptions, since technology can be
+    dangerous.
+
+- Summarize: how math and technology (lead to unexpected
+  developments).
+  - without at least a (working understanding) of the math concepts in
+    this article, (these unexpected extrapolations) are almost
+    impossible to anticipate.
+    - don't necessarily need to be able to use the maths, but instead
+      understand where they can be used, how they can be combined and
+      why they address specific problems.
+    - this gives insight into how advanced in math and computing
+      translate phenomonologically into sociocultural changes
+      - (they enable new business opportunities, change the ways that
+        we communicate, etc. ... duh)
+
+
 [^geometry-of-a-time-series]: [Geometry from a Time Series](https://doi.org/10.1103/PhysRevLett.45.712) N. H. Packard, J. P. Crutchfield, J. D. Farmer, and R. S. Shaw, Physical Review Letters (1980)
 
 [^graph-based-time-series-analysis]: [Visibility Graph Based Time Series Analysis](https://doi.org/10.1371/journal.pone.0143015) Stephen Mutua, Gu C, Yang H, PLoS ONE10(11): e0143015 (2015)
@@ -607,3 +627,13 @@ mesh that represents some point along a [mesh morph]().
 [^type-driven-semantics-ccg]: Maillard, J., Clark, S. and Grefenstette, E., 2014, March. [A type-driven tensor-based semantics for CCG](http://www.anthology.aclweb.org/W/W14/W14-14.pdf#page=56). In Proceedings of the EACL 2014 Type Theory and Natural Language Semantics Workshop (pp. 46-54).
 
 [^incremental-semantic-construction]: Kato, Y. and Matsubara, S., 2015. [Incremental Semantic Construction Using Normal Form CCG Derivation](http://anthology.aclweb.org/S/S15/S15-1.pdf#page=287). Lexical and Computational Semantics (* SEM 2015), p.269.
+
+
+
+
+
+[^helmholtz-free-energy-for-simplices]:
+    - Paper: [On Helmholtz Free Energy For Finite Simplicial Complexes](https://arxiv.org/abs/1703.06549)
+    - Article: [Helmholtz free energy for simplicial complexes](https://www.quantumcalculus.org/helmholtz-free-energy-simplicial-complexes/)
+      - basically, uses Gauss-Bonnet theorum to describe a basis for
+        how

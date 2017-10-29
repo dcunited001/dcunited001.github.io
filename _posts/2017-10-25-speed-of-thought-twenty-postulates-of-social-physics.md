@@ -89,7 +89,6 @@ excerpt: ""
 
 - TODO: change title for (xiii)
 
-
 #### X &#8855; &#8710; &#8968;xiv&#8969; [The Evolutionary Dynamics of Social Physics Build Upon Antifragility and the Ideas of Programs in Chaos](#the-evolutionary-dynamics-of-social-physics-build-upon-antifragility-and-the-ideas-of-programs-in-chaos)
 
 #### X &#8855; &#8710; &#8968;xv&#8969; [For Timescales Both Small and Large, Each Agent's State and Context Is Constructed From Their Sum Of Experience Via Directed Focus](#each-agents-state-and-context-is-constructed-from-their-sum-of-experience-via-directed-focus)
@@ -103,6 +102,8 @@ excerpt: ""
 #### < &#8855; &#8710; &#8968;xix&#8969; [For The Efficient and Pragmatic Assertion of Behavior and Intent, Sociophysical Configuration Entropy is Nearly Unparalleled](#for-the-efficient-and-pragmatic-assertion-of-behavior-and-intent-sociophysical-configuration-entropy-is-nearly-unparalleled)
 
 #### &#8855; &#8710; &#8968;xx&#8969; [Information In Holonic, Particle Form Exhibits Complicated Behavior Analogous To Entanglement](#information-in-holonic-particle-form-exhibits-complicated-behavior-analogous-to-entanglement)
+
+- TODO: create
 
 ## [Sources and References](#footnotes-list)
 
@@ -1549,6 +1550,8 @@ observation.
 
 - TODO: reword
 
+The tensor product can be combined with a 
+
 As you might have noticed, this article's table of contents in this
 series uses two incredibly important symbols: the tensor product and
 what is meant to be an dimensionally-abstract conception of the
@@ -1717,134 +1720,6 @@ strategy.
   - what kind of tensor products construct something like this and
     what maps tie these algebraic convolutions together?
 
-> probably not actually going to type this all up in the blog
-
-- TODO: move the content on spectral analysis to its own article?
-  - or draft.
-
-
-#### A Basic Model With Static Structure
-
-  - (1) every edge in a graph is weighted with an activation value,
-  - (2) all the edges' values can be rendered to an activation matrix
-    with the dimensions as its adjacency matrix
-  - (3) then `A(t)` returns the activation matrix at `t`
-  - (4) there would be some notion of `P(t, v, d)` that returns a
-    matrix of values b/w zero and one representing the probability
-    that `(v-d) <= a(t) < (v+d)` is true
-    - these notions of probability are much simpler with constraints
-    on an edge's range of values
-    - are they real, integer, or binary (the simplest)
-    - at smaller sampling rates the models can be much more accurate
-      - different sampling rates need fundamentally different sets of
-        weights when training a model to recognize patterns, unless
-        the model can anticipate varied sampling rates
-
-#### Dirichlet Energy on Graphs/Networks
-
-- a notion of dirichlet energy for variance of "optimal" energetic
-  distribution of values and the actual distribution of values
-  - where an "optimal" measure means the values are dispersed
-    minimalized/idealized
-  - this provides a global mechanic to the system so that it's
-    "energy" is closed in a sense. dirichlet energy is used heavily in
-    3D graphics
-    - discrete differential geometry,
-    - generation of mesh morphs,
-    - preservation of volume under mesh deformation, etc
-  - without near-total preservation of equilibrium for the globally
-    minimized quantity, then dirichlet energy becomes very difficult
-    to apply to a model in a useful way (i think)
-    - this quantity might a generalized Volume metric for n-cliques,
-      where V is some product of the clique's edge weights
-  - i don't know that any of this is computable
-
-- "balance is key"
-  - high dirichlet energy measures of graph values may indicate
-    destabalization, especially high divergence/laplacian of local
-    variations in dirichlet energy measures
-  - move this down to section on equilibrium or to part three?
-
-#### Hyperspectral Analysis of Time-Series Graphs/Networks
-
-- basically an inductive convolution on the spectral domain, followed
-  by a deductive collapse (cyclic iteration?)
-  - what would this be like for non-euclidian topologies like spectra
-    derived from graphs & graph flows
-    - in physical spaces, EM is dramatically affected by the
-      emission/reflection/refraction/absorbtion of waves having
-      various frequencies
-    - assuming you can analyze input to read a full spectrum of EM
-      with equalized amplitude, along with the orientation,
-      - then the instantaneous EM signal contains information about
-        the surfaces which contributed to that measurement of EM
-      - even when the frequency components for the waves reflected off
-        of different points on the surface and refracted as they
-        traveled to that antenna's single point in space
-  - some generalized concept of refraction through logical
-    graph/network spaces? `R(f)` on some nodes that attempts to
-    quantify how different frequencies will be distorted/refracted as
-    they are propagated to subsequent nodes.
-
-#### Spatiotemporal Analysis of Time-Series Graphs/Networks
-
-- spatiotemporal analysis of spectrum
-  - how do hardware approaches like wifi 802.11n's MIMO w/ spatial
-    antenna array correspond to time-series analysis of
-    graphs/networks
-    - these antennae are spatially separated, but their geometric
-      relationships to one another changes the inputs they receive
-  - if graph nodes are thought of as antennae, then they too have
-    geometric relationships to each other.
-    - the sampling rates for the time series must either be
-      - (1) effectively continuous (somehow)
-      - (2) or samples of values are processed in such a way that a
-        differential equation becomes possible.
-        - but if you can't sample all the nodes at precisely regular
-          time intervals, this becomes difficult
-    - viewing nodes' geometric relationships to each other in this way
-      provides a basis for a tensor product along the temporal
-      dimension. `A(t)` becomes differential `A(t) = f(t, A(t-1),
-      A(t-2), ...)`, which means model's algebraic convolution expands
-
-#### Combinatorially Variate Gradient & Laplacian, as needed, towards the identification of Parallel, Anti Parallel and Orthogonal Motion in the network
-
-- further convolute the model with combinatorially variate gradient &
-  laplacian of the above types of data points
-
-#### Application of Ideas from Stochastic Calculus Should Actually Result In Performance Enhancements
-
-#### Develop the specification of deconstructed, recomposible behavior types
-
-- everything above provides interrelated signals on extremely
-  high-dimensional spaces, which can be used to specify/recognize
-  behavior patterns
-  - these patterns must be decomposable and recomposable
-  - when the graph is extensible and/or inschematic, this becomes much
-    more difficult.
-    - there must be some more generalized means of specifying these
-      patterns so they they aren't tightly coupled to specific schema
-      of the graph structure
-
-#### Performance Constraints
-
-  - not all of this is tractible: the quantities of data points are
-    hard enough just to sample, then computed/distributed/etc
-    - result in too much memory, too many operations
-    - in particular, the spatiotemporal analysis probably constrains
-      the software design patterns to those that are much less
-      efficient
-      - i.e. can't just get a current copy of the data and calculate
-        this step's result. it either requires more time or finding a
-        really good haskell programmer.
-
-#### A Plate-Model-like approach for
-
-- how different is this from the spatiotemporal ideas above
-
-
-![Four Types of Hyperspectral Analysis](/img/posts/2017-10-21-speed-of-thought-twenty-postulates-of-social-physics/hyperspectral-techniques.jpg)
-
 - laplacian of these flows and their aggregates, geographically &
   logically, indicate intent {cut?}
   - games built upon these mechanics
@@ -1888,8 +1763,6 @@ strategy.
         contrast between that truth and the sea of disinformation
         gives you the smoke that indicates fire
 
-
-
 ### &#8855; &#8710; &#8968;xiii&#8969; [Equilibria in Social Games](#)
 
 - content from "facets: systems-theory"
@@ -1899,16 +1772,13 @@ strategy.
   conceal information, including their intent
   - it builds on those sections
 
-- stasis of equilibria
-
-
-> This monk is said to have
-> [blinded Mara](https://en.wikipedia.org/wiki/Samadhi#Description). Trackless,
-> he has destroyed Mara's vision and has become invisible to the Evil
-> One.
-
 #### Equilibrium and Intended Equilibrium
 
+
+#### Stasis of Equilibria
+
+  - what balance of equilibria do people seek?
+  - how do they reorient their energy?
 
 #### I Live In A World Where Those Who Can't or Won't Talk To Me At Least Aren't My Enemies
 
@@ -1983,6 +1853,57 @@ strategy.
 #### (Dilineation of Most Probable Paths from Counteraction b/w entropy/enthalpy)
 
 ![Folding Funnel w/ Entropy & Enthalpy](/img/posts/2017-10-21-speed-of-thought-twenty-postulates-of-social-physics/folding-funnel-enthalpy.jpg)
+
+
+#### Would You Like Some Tea?
+
+> This monk is said to have blinded Mara. Trackless, he has destroyed
+> Mara's vision and has become invisible to the Evil One.
+
+> This bhikkhu is said to have blindfolded Māra, to have become
+> invisible to the Evil One by depriving Māra’s eye of its
+> opportunity.
+
+- the above is from
+  [Majjhima Nikaya 26:34-42](https://suttacentral.net/en/mn26),
+  Ariyapariyesana Sutta (the noble search)
+  - although the section describes progression of medititave mindstate
+    through eight
+    [Dhyāna](https://en.wikipedia.org/wiki/Dhy%C4%81na_in_Buddhism)'s,
+    it is also describing a general progression towards embodying the
+    values of Buddhist thought.
+
+- rearrange the following
+- (understanding how this relates to game theory and the equilibrium
+  dynamics above is fascinating)
+  - regardless of how proficiently manipulative someone might be, when
+    you free yourself of negative intention, then decoupling yourself
+    from any predisposition of intentionality, etc/etc... gradually
+    becoming formless, you cannot be predicted/anticipated/etc.
+    - why is this? is it because all manipulative/evil people must be
+      driven by attachments to their desires/etc?
+      - if so, are those who progress through and embody these states
+        of mind necessarily pure? does this progression move towards
+        an ideal that is the opposite of the being Mara epitomizes?
+        - or is it instead a state purely devoid of the elements
+          required for suffering/evil?
+
+- someone who (understands, absorbs, reacts to) the presence of the
+  sets of objectified equilibria that determine, is (wise...)
+  - someone who is free from attachment to and desire for (obtaining,
+    maintaining, altering) any particular set of equilibria is not
+    only fluid, but incomprehensible to Mara (the Evil One)
+    - they become quite literally invisible to even the most
+      (manipulative/deceitful) groups of people, who can't conceive of
+      someone who could not be controlled by desire or attachment
+    - "trackless, he has destroyed Mara's vision..."
+      - 
+
+  - wisely, they act today with the possibilities of tomorrow in mind:
+    they conserve their potential energies to maximize any potential
+    transformation they may need in the future
+    - this is usually (...always?) best done by minimizing your
+      informational footprint.
 
 <a name="the-evolutionary-dynamics-of-social-physics-build-upon-antifragility-and-the-ideas-of-programs-in-chaos" />
 
