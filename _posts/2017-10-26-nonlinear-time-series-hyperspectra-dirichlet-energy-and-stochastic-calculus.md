@@ -109,7 +109,7 @@ of algebras will you understand their true potential.
 - how to talk aobut the dimensionality of data
 
 - definitions:
-  - mode: a base componet of a vector in a tensor (there's a better
+  - mode: a base component of a vector in a tensor (there's a better
     definition)
   - free algebra: the simplest construction of a non/multi/linear
     system where there are no constraints in place
@@ -213,6 +213,32 @@ of algebras will you understand their true potential.
   [Heap's Law](https://en.wikipedia.org/wiki/Heaps%27_law) to quantify
   author's talent for using descriptive language.
   - for me, it's really hit or miss
+
+####
+
+- scoring/analyzing conversational ability with CCG/linguistic
+  analysis to quantify social vulnerability
+  - typology of quesitons/responses, expanded into
+    [Partial Combinatory Algebra](), starting with each specific
+    statement (where information is gradually abstracted from the
+    specific CCG representation)
+
+- tabaulate frequency of occurances, then generalize with partial
+  types in the first few levels of the PCA
+
+
+- the results can identify individuals with severe social restriction
+  (their frequency/variance of specific/partial statement types is
+  profoundly diminished)
+
+- can map paths through graphs (built on semantics & typologized
+  (grammatical ...))
+  - also account for transitions (relationships b/w seq-to-seq of
+    specific CCG types & their partial-type expansion)
+
+
+
+
 
 #### Discourse Analysis to Construct Rhetorical [Valuation](https://en.wikipedia.org/wiki/Valuation_(logic)) of Non-Fiction
 
@@ -630,10 +656,11 @@ mesh that represents some point along a [mesh morph]().
 
 
 
-
-
 [^helmholtz-free-energy-for-simplices]:
     - Paper: [On Helmholtz Free Energy For Finite Simplicial Complexes](https://arxiv.org/abs/1703.06549)
     - Article: [Helmholtz free energy for simplicial complexes](https://www.quantumcalculus.org/helmholtz-free-energy-simplicial-complexes/)
       - basically, uses Gauss-Bonnet theorum to describe a basis for
-        how
+        how a graph's structure itself has energy
+
+- [Oliver Knill - Graph Geometry](http://www.math.harvard.edu/~knill/graphgeometry/)
+

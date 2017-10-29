@@ -32,8 +32,76 @@ excerpt: ""
       unknowns/externalities.
       - these people couldn't buy butter at the grocery store
 
-- semioteleologically, math more natural/useful
-  - 
+- semioteleologically, through engagement in cultural activities
+  requiring more flexible, rigorous, & total utilization of the wider
+  population's cognitive skills, this means people would begin to
+  intuitively reapply patterns/ideas from trades & skills to other
+  areas
+  - since they engaged in these trades/skills in fundamentally
+    different ways (.. contrast with modern work)
+    - they would develop intuitionalized means of understanding
+      individual or recurring phenomena in various skills/crafts
+      - over the course of someone's life they would developxs an
+        individualized construction of knowledge, without need for
+        scientific method or proof. they might never understand
+        precisely *how* phenomena correlated to one another as they
+        did, but they would try to understand *why*
+      - in the process of doing so, the would develop intui
+      - also esotericized means of...
+
+- as for these esotericized methods of passing down information,
+  - the true intended insight imparted by (rituals) would be
+    occasionally lost, recovered or arbitrarily mutated.
+    - if this period of (ambiguous meaning) for some ritual/insight
+      became protracted
+  - events incredibly disruptive to the preservation of culture were
+    more common and more total.
+
+- one of the most important crafts has always been management and
+  leadership. for the ruling class to manage their affairs and appear
+  as though they might have God-like wisdom, they needed to use
+  statistics and math.
+  - this knowledge, the actual extent of which is impossible to know,
+    would be masked by constant inundation: intentional
+    disinformation, superstitional misinformation, etc
+  - it would almost certainly avoid being recorded on stone &
+    metalwork.
+  - other profoundly useful insights from which one develops
+    understandings of mathematic concepts from physics, chemistry,
+    (and others) -- is social physics
+    - however, they would only form intuitions about these phenomena,
+      the form of which would be:
+      - reasoned about through visual images and metaphor to perceived
+        phenomena (especially from work, agriculture, music
+        (harmonics), etc)
+      - where these images/myths would be preserved symbolically
+        through myth
+
+- natural signs/phenomena are some of the most powerful means of
+  developing an understanding of
+  - even to someone devoid of writing, the natural world itself is
+    full of information about nature. if you truly know natural
+    phenomena, you need only look around and you see physics, math,
+    biology, chemistry, etc everywhere
+  - but it appears in a totally different manner
+    - the gradient manifests itself everywhere in the natural
+      world. everywhere. you don't need to know what it is to
+      understand how the essence of the phenomenon of gradual
+      change over space and through matter is incredibly relevant
+    - fluid dynamics also manifests itself everywhere. look at the
+      ripples on the surface of a creek with fairly stable fluid
+      flow patterns
+      - in order to model these patterns, you need 3D FFT(?) along
+        with differential equations that preserve the
+        regional/global volume flux (L/s) and variance in flux
+        (L/s^2) over time, while accounting for subtle fluid
+        dynamics forces
+  - in medicine, the gradient and fluid flow in the body are
+    incredibly important for understanding local changes to the body
+    - ancient people couldn't quantify or measure much of anything and
+      were cursed by superstition
+    - (discuss Ayurvedic and Chinese medicine)
+
 - {where? intro?} emphasize that the only way to predict social
   behavior in todays world is by proactively driving patterns of
   behavior
