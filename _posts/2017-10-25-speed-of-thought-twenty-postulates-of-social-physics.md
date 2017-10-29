@@ -826,7 +826,7 @@ disrupting currents or eddies of sociophysical state in networks with
 lower information density, as well as those with spectral content that
 appears functionally advantageous.
 
-#### Knowledge is power
+#### Knowledge Is Power
 
 If there is already complete disemination of some pieces of
 information to a set of nodes, you have diminished the capacity to
@@ -1075,7 +1075,7 @@ culture should transform. If we do not architect artificial feedback
 loops for antifragile constraint difficult problems like these,
 instability may become rampant.
 
-At A minimum, spectral coherence of information is fundamentally
+At a minimum, spectral coherence of information is fundamentally
 linked to cultural universals, their semiotic representations and
 sociohierarchical convolution of teleology. These cultural universals
 then form a kind of origin, centered around the origin of semiotics:

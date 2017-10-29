@@ -118,8 +118,58 @@ of resources in the future when it's not necessary.
 
 ### Philosophy
 
-philosophy & logic - additive/subtractive reasoning (probably most
-definitely another real concept for this)
+#### Majjhima Nikaya 26:34-42, Ariyapariyesana Sutta, "The Noble Search"
+
+> This monk is said to have
+> [blinded Mara](https://en.wikipedia.org/wiki/Samadhi#Description). Trackless,
+> he has destroyed Mara's vision and has become invisible to the Evil
+> One.
+
+- revisit/expand the section from "speed of thought: 20 postulates" in
+  the context of how technology changes informational dynamics and our
+  perception of causality
+  - if the best way to live in order to preserve fluidity and your
+    potential for change later is to do so without the accumulation of
+    informational baggage,
+    - then how is someone supposed to live/act in our new era in order
+      to attain this state of fluid being?
+    - there are manipulative people who want fodder for (blackmail) as
+      a general means of controlling anyone. with superconnected
+      networks exchanging a deluge of personal information, these
+      types of people now have more potential than ever to collect it
+      systematically
+
+  - "this monk" mentioned above isn't quite "tabula rasa" since a
+    modicum of knowledge/wisdom required to understand is needed to
+    live in this fluid/invisble way.
+    - if you don't attain these insights early on or have someone
+      there to guide you along so that you don't make certain
+      mistakes, theen it's all to easy for even the best of us to
+      accumulate information we carry with us for the rest of our
+      lives
+      - expand on the ways in which the early cultivation of this
+        knowledge can be efficiently/effectively transferred.
+        - multiple generations working together
+        - religious institutions
+
+      - i often wonder what can be done to wash off the sins of the
+        past or the information of the past.
+      - is it the information itself or the dispersion of iota
+        throughout society that binds us down and defines us?
+      - if it's the dispersion of iota -- physically distributed
+        datums of information -- then what can be done when that is
+        misinfo/disinfo?
+        - the effect is the same, whether it is true or false.
+        - the magnitude of effect, whether postive/negative, is
+          determined by the sociophysical distribution of information,
+          the variance in specific responses these iota provoke, the
+          frequency of datum expression
+        - the difficulty in replacing
+
+#### philosophy & logic - additive/subtractive reasoning
+
+- (probably most definitely another real concept for this)
+
 - the scientific method builds on an additive understanding of the
   world and doesn't claim anything is true unless it can be shown
   empirically or demonstrated to be true from arguments ultimately
@@ -679,7 +729,6 @@ googling "a look into the mysterious and lethal illness"
   - {interpreting as: functional spaces mapped into the tissue
     networks of organs (e.g. the distance from nearest capillary,
     along with a means of "indexing" the capillary networks)}
-  - 
 
 ### Blog on the Myopia of Modern Medicene
 
