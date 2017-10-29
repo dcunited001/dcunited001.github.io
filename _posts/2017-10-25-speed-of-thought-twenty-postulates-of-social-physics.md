@@ -1550,7 +1550,7 @@ observation.
 
 - TODO: reword
 
-The tensor product can be combined with a 
+The tensor product
 
 As you might have noticed, this article's table of contents in this
 series uses two incredibly important symbols: the tensor product and

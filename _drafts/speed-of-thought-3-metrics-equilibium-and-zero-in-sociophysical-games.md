@@ -8,8 +8,35 @@ author:
 excerpt: ""
 ---
 
-- emphasize that the only way to predict social behavior in todays
-  world is by proactively driving patterns of behavior
+
+- over the course of thousands of years, elites (needed to understand)
+  social physics and statistics to rule/manage people. modern man
+  presumes mathematic insights from chemistry, thermodynamics and
+  (...?) certainly must have eluded our ancestors.
+  - over the past two centuries, technology has tucked away
+    the former complexities of:
+    - agrarian life
+    - (life w/o communication)
+
+  - so we don't understand the problems our minds addressed in those
+    eras, without any efficient communication methods.
+    - before the renaissance, Western technology had not hit a
+      critical mass required to facilitate rapid technological
+      advancement
+    - prior to industrialization, the means of production were bounded
+      by the economies of scale associated to labor in particular.
+      - anything and everything produced required many manhours
+    - almost any skill/occupation/activity involved inefficient
+      communication/logistic processes, where usage/anticipation of
+      time was as (paramount) as redundancy and mitigation of
+      unknowns/externalities.
+      - these people couldn't buy butter at the grocery store
+
+- semioteleologically, math more natural/useful
+  - 
+- {where? intro?} emphasize that the only way to predict social
+  behavior in todays world is by proactively driving patterns of
+  behavior
   - so, everything is hopelessly incomputable and can't be modeled. in
     spite of that, proactive tactics can make social networks more
     predictable.
@@ -18,15 +45,15 @@ excerpt: ""
       proactively drive behavior and can cause the system to become
       unpredictable in ways that can't be predicted...
 
-####
 
-- set the frame of the reader by asking them to consider this as the
-  read the article, then discuss it in further detail later
+#### {Set the reader's frame}
+
 - what does it mean to have zero for some of these metrics?
   - no, really: in each metric for each category above, what do the
     concepts of zero, identity, mean (additive and geometric), range,
     independence, connectedness, etc mean
-
+  - set the frame of the reader by asking them to consider this as the
+    read the article, then discuss it in further detail later
 
 - sociophysical analysis of diplomatic protocol and etiquitte protocol
   modalities, norms and deviations
@@ -35,12 +62,13 @@ excerpt: ""
 
 #### Psychosocial [Valence](https://en.wikipedia.org/wiki/Valence_(psychology))
 
+- valence (psychological, sociological & informational)
+- applications of the valence effect -- "chemistry"
 - abuse of the
   [Valence Effect](https://en.wikipedia.org/wiki/Valence_effect) in
   antifragile networks of agency, where information is covertly
   managed with zealously utilitarian tactical efficiency to retain
-  advantage in all situations when managing a "cancer on society" --
-  i.e. *DAVID CONNER*
+  advantage in all situations when managing a "cancer on society"
 - mathematically accounting for the psychosocial dynamic of "opposites
   attract" for basic/sophisticated personality types
   - psychological "valence"
@@ -66,7 +94,6 @@ excerpt: ""
 - exploiting social media filter bubbles to create false consensus
   effect in targets, which can contribute to gaslighting campaigns
 
-
 ### (physical conditions => sociophysical conditions)
 
 - explore how physical conditions & possibilities affect
@@ -80,6 +107,8 @@ excerpt: ""
     hotter sections. this is the transduction of physical forms of
     energy to social forms of energy.
   - literally the wave. a GIF of the wave in a stadium.
+
+
 
 # (Physics Analogies for Social Systems)
 

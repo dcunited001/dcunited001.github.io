@@ -8,6 +8,7 @@ author:
 excerpt: ""
 ---
 
+- TODO: remove some of the imagery in this article?
 
 
 - (Our shared fabric for (communication) is shedding its
@@ -24,6 +25,17 @@ dynamics) until it approaches aphysical ...
   location(s), etc begins to melt away.
 - (each instantiation of a specific piece of information (connections)
   to physical instantiations gradually lose relevance.)
+
+
+
+
+- How do hierarchy/stratification and spectral decoherence affect the
+  capacity for power (economic/informationa/political) and its
+  exercise
+  - {from notes on phone, need to extrapolate this...}
+
+
+
 
 # [Metaphysical Precipitation](#fdsa)
 
@@ -267,6 +279,9 @@ entities.
           with a world where the majority of people are connected to
           networks where causality (becomes unknowable and
           unpredictable)
+
+
+
 
 # The Interminable Red Tide
 
