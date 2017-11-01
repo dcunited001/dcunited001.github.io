@@ -37,19 +37,23 @@ me about twenty hours to process and absorb the requisite content. Why
 am I so passionate about learning math that is out of my reach?
 Because each new tool opens new worlds to me.
 
-Shape analysis is like the artistic application of discrete
-differential geometry. There is grueling emphasis on algorithm
-composition towards performance, possibility and parity of artistic
-vision. This is the stuff that Pixar movies were made of. Especially
-during the 90's, you can notice (certain) artifacts constraining
-artistic expression in CGI and video games. These apparent artifacts
-aren't precisely visible but moreso descend from 3D artists adapting
-their style of expression to fill in expanding range of technological
-possibility. The tools, interfaces and rendering methods (used by)
-Pixar and Dreamworks, represent the pinnacle of 3D technology and 3D
-expression. You can see how the range of possibilities expanded, by
-inferring how and why artists limited their expression styles and
-object design to hide technological limitations.
+Shape analysis (and computational geometry) is like the artistic
+application of discrete differential geometry. There is grueling
+emphasis on algorithm composition towards performance, possibility and
+parity of artistic vision. This is the stuff that Pixar movies were
+made of. Especially during the 90's, you can notice (certain)
+artifacts constraining artistic expression in CGI and video
+games. These apparent artifacts aren't precisely visible but moreso
+descend from 3D artists adapting their style of expression to fill in
+expanding range of technological possibility. The tools, interfaces
+and rendering methods (used by) Pixar and Dreamworks, represent the
+pinnacle of 3D technology and 3D expression. You can see how the range
+of possibilities expanded, by inferring how and why artists limited
+their expression styles and object design to hide technological
+limitations.
+
+#### Example Papers:
+
 
 ### [What Is Duff's Device?](#what-is-duffs-device)
 
@@ -129,6 +133,26 @@ fashion to be used by the best 3D artists in the world.
 
 ### (Metric to Score Conversational Ability)
 
+
+- [General Type-Raised Categories]()
+  - this is a name for higher-order CCG's
+    - higher-order GTRC CCG's can be overlaid on top of the
+      lower-order GTRC CCG's and CCG's
+  - see these papers:
+    - (1997) [Efficient Parsing for CCGs with Generalized TypeRaised Categories](http://repository.upenn.edu/cgi/viewcontent.cgi?article=1089&context=ircs_reports)
+    - (1997) [Generative power of CCGs with generalized type-raised categories](http://dl.acm.org/citation.cfm?id=979686)
+    - (1991) [Type-raising and directionality in combinatory grammar](http://dl.acm.org/citation.cfm?id=981354)
+
+- [CCGbank: A Corpus of CCG Derivations and Dependency Structures Extracted from the Penn Treebank](http://www.mitpressjournals.org/doi/pdf/10.1162/coli.2007.33.3.355)
+  - [OpenCCG](https://github.com/OpenCCG/openccg/blob/master/docs/ccgbank-README)
+
+- why can't all CCG's be enumerated for a language from a set of
+  grammatical primatives?
+  - other than really, really, .. really, long infinte recursion, etc
+  - are there limiting conditions for subclauses that can handle this?
+    - or creative means of circumventing the uncountability issues
+      here? needs to be countable
+
 - what is the point of this? how can it be used?
   - therapeutic: to help enumerate potential conversation pathways for
     completely clueless people like me who may have never walked
@@ -185,8 +209,6 @@ fashion to be used by the best 3D artists in the world.
 - what are n-grams?
   - how do they relate to language & specific contexts of language
     usage.
-
-
 
 ### Mention "Hapax" Idea?
 
