@@ -1,14 +1,33 @@
 ---
-title: "The Speed of Thought: Sociophysical Postulates 1 to 10"
+title: "The Speed of Thought: Sociophysical Postulates I–XI"
 categories: "blog"
-tags: ""
-headline: ""
+tags: "social-physics"
+headline: "For each type and metatype of sociophysical territory, where are the conceivable chokepoints?"
 author:
   name: "David Conner"
-excerpt: ""
+excerpt: "
+Imagine the sun rising in the Far East. It heats up the air and water,
+giving us wind and ocean currents, but doesn't its sociophysical
+energy also reverberate through humanity? As the world turns each day,
+there is random motion moving from the east to the west, driving
+social interactions. Pushing through the noise are faint, low
+frequency waves of cultural information rippling over and reflecting
+between geographic features. Vacuums of low population density tapers
+this resonance. Between the centers of civilization, the dispersion of
+information is strained through translingual membrane, limiting the
+number of social connections over which information can cross. These
+metaphors are not perfect, as behavior was not coordinated and our
+modes of transportation were limited throughout history.
+"
 ---
 
-## [A Marathon and Thermopylae for the Spartan](#a-marathon-and-thermopylae-for-the-spartan)
+#### &#x2605; [Illusion of Separation](/posts/2017-09-22-speed-of-thought-illusion-of-separation.html) &#x2605; Sociophysical Postulates I -- XI &#x2605;
+
+## [Emulation of Ancient Thought: Penultimate Metacognition](#emulation-of-ancient-thought-penultimate-metacognition)
+
+#### &#x2605; [Into The Tragic Comedy of Fate, I Cast Myself](#into-the-tragic-comedy-of-fate-i-cast-myself)
+
+#### &#x2605; [A Marathon and Thermopylae for the Spartan](#a-marathon-and-thermopylae-for-the-spartan)
 
 #### &#x2605; [Novel Types of 21st Century Territory and Their Thermopylaean Chokepoints](#novel-types-of-21st-century-territory-and-their-thermopylaean-chokepoints)
 
@@ -46,9 +65,11 @@ excerpt: ""
 
 #### &#x2605; [Sports Like Soccer Or Football Are Well-Defined Sociophysical Games](#sports-like-soccer-or-football-are-well-defined-sociophysical-games)
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/QBGaO89cBMI" frameborder="0" allowfullscreen></iframe>
+#### "Please, Sir, You Are Blocking The Light Of Mathematics"
 
-## [Postulates of Sociophysical Systems](#postulates-of-sociophysical-systems)
+![Death of Archimedes](/img/posts/2017-10-30-speed-of-thought-sociophysical-postulates-1-to-11/death-of-archimedes.jpg)
+
+## [Postulates &#8968;i&#8969; -- &#8968;xi&#8969; of Sociophysical Systems](#postulates-of-sociophysical-systems)
 
 #### &#8855; &#8710; &#8968;i&#8969; [There Are Infinitely Many Types of Sociophysical Energy Having Both Linear And Non-Linear Mechanics That Determine Their Equivalence and Interaction Dynamics](#there-are-infinitely-many-types-of-sociophysical-energy-having-both-linear-and-non-linear-mechanics-that-determine-their-equivalence-and-interaction-dynamics)
 
@@ -72,32 +93,31 @@ excerpt: ""
 
 #### &#8855; &#8710; &#8968;xi&#8969; [Disruption of Connections & Interactions Alters Flow Of Energy & Power, Physically, Logically and Virtually](#disruption-of-connections-and-interactions-alters-flow-of-energy-and-power-physically-logically-and-virtually)
 
+<iframe width="560" height="315" src="https://www.youtube.com/embed/QBGaO89cBMI" frameborder="0" allowfullscreen></iframe>
 
-#### &#8855; &#8710; &#8968;xii&#8969; Even When Invisible, Intent Is Further Signified And Clarified By Parallel, Anti-Parallel and Orthogonal Orientations of Motion As They Relate to Laplacian of High-Dimensional Surfaces
+## Postulates &#8968;xii&#8969; -- &#8968;xx&#8969; of Sociophysical Systems
 
-#### &#8855; &#8710; &#8968;xiii&#8969; Whether Cognizant, Nearly All Attach Their Behavior, Thoughts and Identity To Equilibria In Social Games. When Unshackled, Our Energy Becomes Trackless, Formless and Incomprehensible To The Unconscionable.
+#### &#8855; &#8710; [&#8968;xii&#8969;](#) Even When Invisible, Intent Is Further Signified And Clarified By Parallel, Anti-Parallel and Orthogonal Orientations of Motion As They Relate to Laplacian of High-Dimensional Surfaces
 
-#### &#8855; &#8710; &#8968;xiv&#8969; The Evolutionary Dynamics of Social Physics Build Upon Antifragility and the Ideas of Programs in Chaos
+#### &#8855; &#8710; [&#8968;xiii&#8969;](#) Whether Cognizant, Nearly All Attach Their Behavior, Thoughts and Identity To Equilibria In Social Games. While Unbound From Conceived Attachments, Our Energy Becomes Labile, Formless, Trackless and Incomprehensible to Those Who Lust For Power.
 
-#### &#8855; &#8710; &#8968;xv&#8969; For Timescales Both Small and Large, Each Agent's State and Context Is Constructed From Their Sum Of Experience Via Directed Focus
+#### &#8855; &#8710; [&#8968;xiv&#8969;](#) The Evolutionary Dynamics of Social Physics Build Upon Antifragility and the Ideas of Programs in Chaos
 
-#### &#8855; &#8710; &#8968;xvi&#8969; Everything is a particle. Everything is a Wave. Even Information, Modeled Holonically
+#### &#8855; &#8710; [&#8968;xv&#8969;](#) For Timescales Both Small and Large, Each Agent's State and Context Is Constructed From Their Sum Of Experience Via Directed Focus
 
-#### &#8855; &#8710; &#8968;xvii&#8969; Models of Sociophysical Phase Change Require Topological Spaces Imbued Onto Physical and Aphysical Topologies
+#### &#8855; &#8710; [&#8968;xvi&#8969;](#) Everything is a particle. Everything is a Wave. Even Information, Modeled Holonically
 
-#### &#8855; &#8710; &#8968;xviii&#8969; Independence and Connectedness Can Be Measured In Sociophysical Network Topologies
+#### &#8855; &#8710; [&#8968;xvii&#8969;](#) Models of Sociophysical Phase Change Require Topological Spaces Imbued Onto Physical and Aphysical Topologies
 
-#### &#8855; &#8710; &#8968;xix&#8969; For The Efficient and Pragmatic Assertion of Behavior and Intent, Sociophysical Configuration Entropy is Nearly Unparalleled
+#### &#8855; &#8710; [&#8968;xviii&#8969;](#) Independence and Connectedness Can Be Measured In Sociophysical Network Topologies
 
-#### &#8855; &#8710; &#8968;xx&#8969; Information In Holonic, Particle Form Exhibits Complicated Behavior Analogous To Entanglement
+#### &#8855; &#8710; [&#8968;xix&#8969;](#) For The Efficient and Pragmatic Assertion of Behavior and Intent, Sociophysical Configuration Entropy is Nearly Unparalleled
 
-- TODO: rewrite XI paragraph
+#### &#8855; &#8710; [&#8968;xx&#8969;](#) Information In Holonic, Particle Form Exhibits Complicated Behavior Analogous To Entanglement
 
-## [Sources and References](#footnotes-list)
+<a name="emulation-of-ancient-thought-penultimate-metacognition" />
 
-#### "Please, Sir, You Are Blocking The Light Of Mathematics"
-
-![Death of Archimedes](/img/posts/2017-10-21-speed-of-thought-twenty-postulates-of-social-physics/death-of-archimedes.jpg)
+# [Emulation of Ancient Thought: Penultimate Metacognition](#emulation-of-ancient-thought-penultimate-metacognition)
 
 There are countless aspects of life that ancient people understood
 more clearly than we do today. In many, standing on the shoulders of
@@ -105,23 +125,25 @@ giants has yielded crippled versions of ourselves because we were
 always molded and die-cast by a typology of life experience now
 *decimated* by technology.
 
-#### Into The Tragic Comedy of Fate, I Cast Myself
+<a name="into-the-tragic-comedy-of-fate-i-cast-myself" />
 
-![Medea -- from Fate! Jesus Christ!](/img/posts/2017-10-21-speed-of-thought-twenty-postulates-of-social-physics/fate-caster-medea.jpg)
+### [Into The Tragic Comedy of Fate, I Cast Myself](#into-the-tragic-comedy-of-fate-i-cast-myself)
+
+![Medea -- from Fate! Jesus Christ!](/img/posts/2017-10-30-speed-of-thought-sociophysical-postulates-1-to-11/fate-caster-medea.jpg)
 
 For the powerful, this is desirable. They can sell us technology to
 solve our problems, while our growing dependencies on it
-short-circuits the types of life experience that imbue our
-worldview. In some ways, this makes us easier to control. We simply do
-not have the same sheer drive that powers those of us who have learned
-through pain and all the simple joys we'll never know. For all its
-benefit, power and utility, Technology can never replace this value of
-the struggle. The societies who artificially maintain these mechanisms
+short-circuits the types of life experience that imbue our worldview.
+In some ways, this makes us easier to control. We simply do not have
+the same sheer drive that powers those of us who have learned through
+pain and all the simple joys we'll never know. For all its benefit,
+power and utility, Technology can never replace this value of the
+struggle. The societies who artificially maintain these mechanisms
 enjoy prosperity *and remain strong*.
 
 <a name="a-marathon-and-thermopylae-for-the-spartan" />
 
-# [A Marathon and Thermopylae for the Spartan](#a-marathon-and-thermopylae-for-the-spartan)
+### [A Marathon and Thermopylae for the Spartan](#a-marathon-and-thermopylae-for-the-spartan)
 
 At the battle of Marathon, the Greeks defeated the Persians. News of
 this victory was so critical that Pheidippides ran over twenty miles
@@ -136,13 +158,13 @@ Persians and funneled vigor into the hearts of Greeks to rise up and
 resist the oncoming hordes. Would this envigorating effect have been
 possible if not for the story? *What if it couldn't be told?*
 
-#### Thesus in America - Sails
+#### [Theseus](https://en.wikipedia.org/wiki/Theseus) in America - Sails
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/tgIqecROs5M" frameborder="0" allowfullscreen></iframe>
 
-Look at what disconnection has wrought. No one truly participated in
-this willingly. I will wait until I am judged for what I have said and
-done.
+<!-- Look at what disconnection has wrought. No one truly participated in
+  this willingly. I will wait until I am judged for what I have said and
+  done. -->
 
 <a name="novel-types-of-21st-century-territory-and-their-thermopylaean-chokepoints" />
 
@@ -152,26 +174,25 @@ The importance of Thermopylae to the Spartan victory was their
 tactical utilization of the territory. It's the greatest story of
 deception leading an army to a chokepoint. Today, with information
 warfare, sociohierarchical conflict, economic warfare, there are many
-novel kinds of territory. For each type and metatype of territory,
-where are the imaginable chokepoints?
+novel kinds of territory. For each type and metatype of sociophysical
+territory, where are the imaginable chokepoints?
 
 <a name="an-eden-of-sociocultural-experimentation-borne-from-the-idiosyncratic-geography-of-greece" />
 
 ### [An Eden Of Sociocultural Experimentation, Borne From The Idiosyncracic Geography of Greece](#an-eden-of-sociocultural-experimentation-borne-from-the-idiosyncratic-geography-of-greece)
 
-During the first millinea B.C., a confluence of Greek
-technology, culture and geography, encouraged a philosophic
-exploration of human life. In particular, the Greek city-states
-flourished at a time where reflection on the structure of society
-itself was encouraged, where its evolution occured at a rapid pace and
-operated long enough without being domineered by an external
-force. This itself wasn't unique, but we managed to maintain their
-literary tradition. In doing so, we preserved the best record this
-phenomenon in Western history.
+During the first millinea B.C., a confluence of Greek technology,
+culture and geography, encouraged a philosophic exploration of human
+life. In particular, the Greek city-states flourished at a time where
+reflection on the structure of society itself was encouraged, where
+its evolution occured at a rapid pace and operated long enough without
+being domineered by an external force. This itself wasn't unique, but
+we managed to maintain their literary tradition. In doing so, we
+preserved the best record of this phenomenon in Western history.
 
 #### Socrates Engaging the Greek Agora In Philosophic Debate
 
-![Schizophrenic Socrates' Added Nothing of Value To Society With His Constant Akathisia](/img/posts/2017-10-21-speed-of-thought-twenty-postulates-of-social-physics/socrates-agora.jpg)
+![Schizophrenic Socrates' Added Nothing of Value To Society With His Constant Akathisia](/img/posts/2017-10-30-speed-of-thought-sociophysical-postulates-1-to-11/socrates-agora.jpg)
 
 <a name="social-and-informational-thermodynamics-and-convexity" />
 
@@ -211,7 +232,7 @@ modes of transportation were limited throughout history.
 
 #### Land of the Rising Sun: Low-Frequency Sociophysical Currents Emerge from the East
 
-![Land of the Rising Sun Watercolor](/img/posts/2017-10-21-speed-of-thought-twenty-postulates-of-social-physics/jp-rising-sun-watercolor.jpg)
+![Land of the Rising Sun Watercolor](/img/posts/2017-10-30-speed-of-thought-sociophysical-postulates-1-to-11/jp-rising-sun-watercolor.jpg)
 
 <a name="humanitys-measures-of-connectedness-vary-geographically" />
 
@@ -271,7 +292,7 @@ Int'l Economy as "American Society."
 
 #### Graph Visualization of North Korea's Economic Connections
 
-![Economic Disconnection](/img/posts/2017-10-21-speed-of-thought-twenty-postulates-of-social-physics/north-korea-disconnected-2.jpg)
+![Economic Disconnection](/img/posts/2017-10-30-speed-of-thought-sociophysical-postulates-1-to-11/north-korea-disconnected-2.jpg)
 
 How can you compete in the global economy if your regime prohibits
 communication with the outside and punishes dissidents with three
@@ -438,14 +459,14 @@ are loaded with probabilistic mechanics. Social physics can help us
 understand team sports, advanced
 [swarm behavior](https://en.wikipedia.org/wiki/Swarm_behaviour), the
 geometric mechanics of battle tactics, cocktail parties and the finer
-mysteries of feng shui. Each of those activities (determined by the
-physics of the space) space and players in a social game with rules,
-though with feng shui, the game and players may be less clearly
+mysteries of feng shui. Each of those activities is determined by the
+physics of the space and the players in a social game with rules.
+Though with feng shui, the game and players may be less clearly
 defined.
 
 #### Essais sur la Mechanique Social (Winiarski, 1898)
 
-![Essais sur la Mechanique Sociale](/img/posts/2017-10-21-speed-of-thought-twenty-postulates-of-social-physics/essais-sur-la-mechanique-sociale.jpg)
+![Essais sur la Mechanique Sociale](/img/posts/2017-10-30-speed-of-thought-sociophysical-postulates-1-to-11/essais-sur-la-mechanique-sociale.jpg)
 
 <a name="how-does-the-information-schema-affect-the-spatio-temporal-computability" />
 
@@ -535,7 +556,7 @@ utopic oasis will invisibly fade as a mirage.
 
 #### Qanat Access Shafts And Channels Align With The Flow of Water Along The Bedrock[^qanat-leylines]
 
-![Qanat Locations](/img/posts/2017-10-21-speed-of-thought-twenty-postulates-of-social-physics/qanat-locations.jpg)
+![Qanat Locations](/img/posts/2017-10-30-speed-of-thought-sociophysical-postulates-1-to-11/qanat-locations.jpg)
 
 By failing to fully understand sociophysical phenomena, by stubbornly
 clinging to ideology constructed around fast-fading psychosocial
@@ -550,7 +571,7 @@ force, arising from a basis for values sharing a common root of truth.
 
 #### Magnetic Field Lines From Two Adjacent Electromagnets
 
-![Magnetic Field Lines](/img/posts/2017-10-21-speed-of-thought-twenty-postulates-of-social-physics/magnetic-field-lines.jpg)
+![Magnetic Field Lines](/img/posts/2017-10-30-speed-of-thought-sociophysical-postulates-1-to-11/magnetic-field-lines.jpg)
 
 Today, the world needs everyone on the same page. In order to operate
 cooperatively in more virtualized sociophysical systems, we must first
@@ -583,7 +604,7 @@ of attention is nearly zero.
 
 #### Semblable Magnetism Aligns The Orientation Nearly Every Fan's Field of Vision To The Center of Action
 
-![Hockey Stadium](/img/posts/2017-10-21-speed-of-thought-twenty-postulates-of-social-physics/hockey-stadium.jpg)
+![Hockey Stadium](/img/posts/2017-10-30-speed-of-thought-sociophysical-postulates-1-to-11/hockey-stadium.jpg)
 
 Now imagine yourself at a concert or a football game. People exert
 influence on the shared field of attention with their focus. Their
@@ -622,8 +643,8 @@ use of logical, non-physical components to strategize or anticipate
 sociophysical phenomena. These topologies, either fully or partially
 derived from logical relationships between people, groups, or other
 nodes, form fields where the energy mechnics operate like electrical
-circuits. These are emergent logical topologies, overlayed onto
-physically interacting particles via the social graph funct.
+circuits. These form emergent logical topologies, where the social
+graph might be overlayed onto physically interacting particles.
 
 Electrical networks are an example of physical phenomena with a
 logical graph-based structure overlayed on top. When determining the
@@ -677,7 +698,7 @@ no matter how antifragile.
 
 #### CPU's Are like Metaphysical Copy and Paste
 
-![CPU Chip Fabrication](/img/posts/2017-10-21-speed-of-thought-twenty-postulates-of-social-physics/intel-cpu-wafer.jpg)
+![CPU Chip Fabrication](/img/posts/2017-10-30-speed-of-thought-sociophysical-postulates-1-to-11/intel-cpu-wafer.jpg)
 
 What is the CPU? What does it represent? Mastery over physics and
 solid-state chemistry? Doesn't it also represent mastery over logic,
@@ -793,7 +814,7 @@ plasma. Recently, tokamak engineering has sought to overcome the
 structural limits of the frame: the tokamak is required to host
 magnetic fields so strong, it literally can't hold itself together.
 
-![Tokamak Plasma Density](/img/posts/2017-10-21-speed-of-thought-twenty-postulates-of-social-physics/tokamak-plasma-density.jpg)
+![Tokamak Plasma Density](/img/posts/2017-10-30-speed-of-thought-sociophysical-postulates-1-to-11/tokamak-plasma-density.jpg)
 
 <a name="social-power-depends-on-potentials-for-types-of-energy-flux" />
 
@@ -814,7 +835,7 @@ disrupting currents or eddies of sociophysical state in networks with
 lower information density, as well as those with spectral content that
 appears functionally advantageous.
 
-#### Knowledge Is Power
+### Knowledge Is Power
 
 If there is already complete disemination of some pieces of
 information to a set of nodes, you have diminished the capacity to
@@ -883,7 +904,7 @@ engage with.
 
 #### [Window Functions](https://en.wikipedia.org/wiki/Window_function)
 
-![Window Functions](/img/posts/2017-10-21-speed-of-thought-twenty-postulates-of-social-physics/window-functions.png)
+![Window Functions](/img/posts/2017-10-30-speed-of-thought-sociophysical-postulates-1-to-11/window-functions.png)
 
 Analogous to a window function, this contextual aperture for past
 events and future expectations is rapidly expanding. It determines
@@ -949,7 +970,7 @@ aphysical forms, but will fast evolve from AAF and PAF and vice versa.
 
 #### Power users can write scripts and set up [Zapier](https://zapier.com/) event hooks
 
-![Milton](/img/posts/2017-10-21-speed-of-thought-twenty-postulates-of-social-physics/office-space-milton.jpg)
+![Milton](/img/posts/2017-10-30-speed-of-thought-sociophysical-postulates-1-to-11/office-space-milton.jpg)
 
 ## &#8679; Then That Guy Started Writing About Psychological Gangrape And Workplace Bullying, So They Said He Was Basically Charles Manson, A Racist and -- Hey, Why Not A Terrorist, Too
 
@@ -974,7 +995,7 @@ the scale of the universe for the first time.
 
 #### The Death of Archimedes
 
-![Death of Archimedes](/img/posts/2017-10-21-speed-of-thought-twenty-postulates-of-social-physics/death-of-archimedes.jpg)
+![Death of Archimedes](/img/posts/2017-10-30-speed-of-thought-sociophysical-postulates-1-to-11/death-of-archimedes.jpg)
 
 Agents react to these dynamics by artificially amplifying the
 perceived beliefs they want others to operate upon, proactively
@@ -999,7 +1020,7 @@ scale by projecting information via mass communication channels.
 > at life? And worse for becoming capable of transcending your
 > lilliputian wormtongue games?"
 
-![Lilliputians Pricking Gulliver](/img/posts/2017-10-21-speed-of-thought-twenty-postulates-of-social-physics/lilliputians.jpg)
+![Lilliputians Pricking Gulliver](/img/posts/2017-10-30-speed-of-thought-sociophysical-postulates-1-to-11/lilliputians.jpg)
 
 This is all an attempt to consciously and unconsciously hedge against
 complexity to reduce uncertainty in the vastness of social physics.
@@ -1019,7 +1040,7 @@ of generating dynamics in the system allows people to interrogate
 their environment, making inferences about the true beliefs of other
 agents in the system or about information they have access to.
 
-![Curling](/img/posts/2017-10-21-speed-of-thought-twenty-postulates-of-social-physics/curling.jpg)
+![Curling](/img/posts/2017-10-30-speed-of-thought-sociophysical-postulates-1-to-11/curling.jpg)
 
 When these logistic process structures involve stringent secrecy,
 coverups of mistakes, distortion of information and amplification of
@@ -1073,7 +1094,7 @@ recursive kernel descending into symmetry.
 
 #### In Abstract Algebra, The Kernel Always Maps to the Origin
 
-![Kernel](/img/posts/2017-10-21-speed-of-thought-twenty-postulates-of-social-physics/kernel.png)
+![Kernel](/img/posts/2017-10-30-speed-of-thought-sociophysical-postulates-1-to-11/kernel.png)
 
 #### In Semiotics, The Spaces Recursively Descend Into The Signifier for Symmetry
 
@@ -1151,16 +1172,16 @@ deceive.
 
 Every institution created by man is just as fallible as the
 weak-hearted among us: science never roots its knowledge or beliefs,
-shifting from form to form and thus is beholden to nothing eternal,
-but the truth which has always eluded it. It's ability to
+shifting from form to form. Thus, it is beholden to nothing eternal,
+but the truth which will forever elude it. It's ability to
 metamorphisize is both its strength and its fatal flaw. There is no
 eternal truth that can be inculcated into the masses; opportunistic
 control over the shape-shifting nature of science drives greed and
 lust for power. A belief system which holds nothing sacred will
-eventually empower violent, dehumanizing, utilitarian policy. (The key
-is balancing this paradox; tightrope imagery) between belief systems
-locked into professed eternal truth and those structured around the
-search for elusive truth.
+eventually empower violent, dehumanizing, utilitarian policy. The key
+is balancing across this paradoxical tightrope of belief systems: both
+those locked into professed eternal truth and those structured around
+the search for elusive truth.
 
 Look at what is happening now: do you see the potential for greater
 harm that ever before from novel religions who have lost their way?
@@ -1186,7 +1207,9 @@ equivalent exchange moreso than sociophysical energy types. Therefore,
 in this regard and when considering potential network topologies, they
 are simpler than sociophysical systems.
 
-## &#x2605; [Financial Instruments](https://en.wikipedia.org/wiki/Financial_instrument) Define Energy Types and Transduction Mechanisms
+# Energy Types and Transduction Mechanisms
+
+## &#x2605; [Financial Instruments](https://en.wikipedia.org/wiki/Financial_instrument)
 
 #### &#x2605; Stocks, Bonds, Loans and Credit
 
@@ -1194,7 +1217,7 @@ are simpler than sociophysical systems.
 
 #### &#x2605; Currencies and Forex Products
 
-## &#x2605; Other Energy Types Might Include
+## &#x2605; Other Financial Energy Types
 
 #### &#x2605; Real Estate, In/tangible Assets of Corporations
 
@@ -1218,13 +1241,13 @@ There are many types of financial institutions providing other energy
 transduction mechanisms. Forex trades and futures allow for
 speculation on currency valuation. The IMF has a currency basket
 called SDR's which functions as a large resevoir of currencies under
-their control, which could stabalize large forex fluctuations. The
+their control. The SDR could stabalize large forex fluctuations. The
 Yuan was recently added to the SDR's currency basket. Labor enables
 the conversion of time and energy and facilitates to diffuse wealth
 into the hands of the common person. Lending institutions optimize
 their lending reserve leverage by collecting payments on debt.
 
-![Circuits Made Of People](/img/posts/2017-10-21-speed-of-thought-twenty-postulates-of-social-physics/people-circuits.jpg)
+![Circuits Made Of People](/img/posts/2017-10-30-speed-of-thought-sociophysical-postulates-1-to-11/people-circuits.jpg)
 
 The goal of the system is efficiently and evenly distribute financial
 energy types. The same quantities financial energies can be leveraged
@@ -1271,7 +1294,7 @@ graph edges that cannot or do not perform transactions.
 
 #### The Set Of All Cycles And Cliques in the Complete Graph Where N=5
 
-![Complete Graph](/img/posts/2017-10-21-speed-of-thought-twenty-postulates-of-social-physics/complete-graph-cycles.png)
+![Complete Graph](/img/posts/2017-10-30-speed-of-thought-sociophysical-postulates-1-to-11/complete-graph-cycles.gif)
 
 Such a hypothetical financial graph represents all the ways all
 financial entities can be connected. Still, there would be at least
@@ -1300,9 +1323,9 @@ superposition of various networks is distinct from systems where there
 is one clear network structure because those networks can be more
 simply emulated with a single topology.
 
-#### The [Prototypical Superposition Calculation](http://hyperphysics.phy-astr.gsu.edu/hbase/electric/suppos.html) In Electrical Circuits
+![Superposition in Circuits](/img/posts/2017-10-30-speed-of-thought-sociophysical-postulates-1-to-11/superposition-circuits.gif)
 
-![Superposition in Circuits](/img/posts/2017-10-21-speed-of-thought-twenty-postulates-of-social-physics/superposition-circuits.gif)
+#### The [Prototypical Superposition Calculation](http://hyperphysics.phy-astr.gsu.edu/hbase/electric/suppos.html) In Electrical Circuits
 
 In electrical circuits with multiple power sources, current and
 voltage can be predicted by decomposing the circuit, then applying the
@@ -1348,7 +1371,7 @@ permuted components that essentially represent the same social nodes.
 
 #### A Scientology ["OSA" Operation](https://www.villagevoice.com/2011/07/13/scientologys-spy-program-anatomy-of-a-covert-operation-updated/) To Alter The Sociocircuitry Around An SP's Social Boundary
 
-![A Simple OSA Operation To Destroy The Life Of And Individual](/img/posts/2017-10-21-speed-of-thought-twenty-postulates-of-social-physics/scientology-disconnection-diagram.jpg)
+![A Simple OSA Operation To Destroy The Life Of And Individual](/img/posts/2017-10-30-speed-of-thought-sociophysical-postulates-1-to-11/scientology-disconnection-diagram.jpg)
 
 In the above diagram, the goal is to encourage total diffusion of the
 target's sociophysical energies, robbing them of everything they might
@@ -1367,7 +1390,7 @@ proletariat in a pre-communist system, their time is worth 3 to 50
 times less than that of a bougeousie target.  Like lilliputians, they
 can work together for sociohierarchical transformation.
 
-#### Corollary to the Superimposed Topology Principle: Range Binding
+### Corollary to the Superimposed Topology Principle: *Range Bounding*
 
 #### &#9312; Limit a target's social boundary (1&deg; & 2&deg; neighborhood)
 
@@ -1375,9 +1398,9 @@ can work together for sociohierarchical transformation.
 
 #### &#9314; Reduce the target's interaction options (e.g. by obliterating their income, imbuing them with a persecution complex, etc.)
 
-#### &#9313; Prevent the target from moving at all costs
+#### &#9315; Prevent the target from moving at all costs
 
-#### &#9313; Minimize the set of locations and times where social interactions might occur (e.g. suspending license, inducing/encouraging [Non-24 Disorder](https://en.wikipedia.org/wiki/Non-24-hour_sleep%E2%80%93wake_disorder))
+#### &#9316; Minimize the set of locations and times where social interactions might occur (e.g. suspending license, inducing/encouraging [Non-24 Disorder](https://en.wikipedia.org/wiki/Non-24-hour_sleep%E2%80%93wake_disorder))
 
 A corollary of this postulate: render a target more predictable by
 reducing the range of dominant topologies in the superposition. Then,
@@ -1403,7 +1426,7 @@ are prey that has been cornered. Run to Switzerland.
 
 <a name="social-financial-and-other-energetic-flows-signal-interest-and-intent-via-frequency-magnitude-and-abstract-spectral-decomposition" />
 
-#### &#8855; &#8710; &#8968;x&#8969; [Social, Financial and Other Energetic Flows Signal Interest and Intent Via Frequency, Magnitude and Abstract Spectral Decomposition](#social-financial-and-other-energetic-flows-signal-interest-and-intent-via-frequency-magnitude-and-abstract-spectral-decomposition)
+### &#8855; &#8710; &#8968;x&#8969; [Social, Financial and Other Energetic Flows Signal Interest and Intent Via Frequency, Magnitude and Abstract Spectral Decomposition](#social-financial-and-other-energetic-flows-signal-interest-and-intent-via-frequency-magnitude-and-abstract-spectral-decomposition)
 
 At the micro and macro level, similar information dynamics facilitate
 inference via financial and social capital flows. In macroeconomics, a
@@ -1451,7 +1474,7 @@ algorithms more susceptible to feedback loops.
 
 #### Cross This Streamgraph Visualization With Graph Theory and Simply Fourier Transform
 
-![Streamgraph Visualization](/img/posts/2017-10-21-speed-of-thought-twenty-postulates-of-social-physics/viz-streamgraph.png)
+![Streamgraph Visualization](/img/posts/2017-10-30-speed-of-thought-sociophysical-postulates-1-to-11/viz-streamgraph.png)
 
 When there is a total vacuum of these artifacts, our brains search for
 information about categories of people, places, ideas and things to
@@ -1504,7 +1527,7 @@ an inordinate amount of energy to undo.
 
 <a name="disruption-of-connections-and-interactions-alters-flow-of-energy-and-power-physically-logically-and-virtually" />
 
-#### &#8855; &#8710; &#8968;xi&#8969; [Disruption of Connections & Interactions Alters Flow Of Energy & Power, Physically, Logically and Virtually](#disruption-of-connections-and-interactions-alters-flow-of-energy-and-power-physically-logically-and-virtually)
+### &#8855; &#8710; &#8968;xi&#8969; [Disruption of Connections & Interactions Alters Flow Of Energy & Power, Physically, Logically and Virtually](#disruption-of-connections-and-interactions-alters-flow-of-energy-and-power-physically-logically-and-virtually)
 
 To fully comprehend this section, you'll need to be able to envision
 time-series analysis of functions as signals, along with their
@@ -1522,7 +1545,7 @@ might be unknown.[^geometry-of-a-time-series]
 #### You Always Get One Algebra *Fo' Free!*
 
 Complicated probabilistic systems have produce values with
-correleation. This incldues those systems with many in/finite Markov
+correleation.  This incldues those systems with many in/finite Markov
 chains, with or without physicality and those modeled on Bayesian
 trees or on graphs. They have observable values, which form the basis
 of many functions in the time domain. Via tensor analysis,
@@ -1534,28 +1557,25 @@ probabilistic systems will almost always incorporate the decomposition
 of sparse matrices, which can represent frequency of event
 observation.
 
-#### The X-Men Are Quite Literally Uncanny
+![The Uncanny X-Men](/img/posts/2017-10-30-speed-of-thought-sociophysical-postulates-1-to-11/uncanny-xmen.jpg)
 
-![The Uncanny X-Men](/img/posts/2017-10-21-speed-of-thought-twenty-postulates-of-social-physics/uncanny-xmen.jpg)
+The gradient and laplacian are useful linear operators everywhere.  To
+those who so indecorously sling abusive notation \\( \nabla^2 F \\) --
+just wait: when you need the
+[laplacian in tensor calculus](https://en.wikipedia.org/wiki/Laplace%E2%80%93Beltrami_operator),
+this becomes ambiguous. Together, the laplacian and the tensor product
+provide more power than perhaps any other basic tools in math.
 
-- TODO: reword
+The power to recompose techniques only made available by mastering
+these two tools opens more doors than perhaps any other base tools in
+mathematics. Without understanding these tools and a phenomonological
+understanding of the problems they solve or approximate, you are
+completely trapped within a false paradigm where most things are
+unknown *and unknowable*.
 
-The laplacian is a useful operator everywhere. Those who
-indecorously sling abusive notation, in Tensor Calculus
-
-As you might have noticed, this article's table of contents in this
-series uses two incredibly important symbols: the tensor product and
-what is meant to be an dimensionally-abstract conception of the
-laplacian. The power to re/compose techniques only made available by
-mastering these two tools opens more doors than perhaps any other base
-tools in mathematics. Without understanding these tools and a
-phenomonological understanding of the problems they solve or
-approximate, you are completely trapped within a false paradigm where
-most things are unknown *and unknowable*.
+![Time Series Convolution and Correlation](/img/posts/2017-10-30-speed-of-thought-sociophysical-postulates-1-to-11/signal-convolution-and-correlation.png)
 
 #### Time Series Convolution and Correlation
-
-![Time Series Convolution and Correlation](/img/posts/2017-10-21-speed-of-thought-twenty-postulates-of-social-physics/signal-convolution-and-correlation.png)
 
 Under most conditions, the Fourier Transform is a linear operator and
 so are differential operator and the laplacian. This means their
@@ -1598,7 +1618,7 @@ graph?
 
 #### Time Series Analysis of What, Exactly?
 
-![Visibility Graph Based Time Series Analysis](/img/posts/2017-10-21-speed-of-thought-twenty-postulates-of-social-physics/social-circuits.jpg)
+![Visibility Graph Based Time Series Analysis](/img/posts/2017-10-30-speed-of-thought-sociophysical-postulates-1-to-11/social-circuits.jpg)
 
 The picture above, from
 [Visibility Graph Based Time Series Analysis](https://doi.org/10.1371/journal.pone.0143015),
@@ -1684,7 +1704,10 @@ distracted -- will certainly backfire.
 
 # Speed Of Thought: Part Three
 
-### Postulates &#8968;xii&#8969; Through &#8968;xx&#8969;
+This next part covers sociophysical postulates &#8968;xii&#8969; --
+&#8968;xx&#8969;
+
+
 
 
 

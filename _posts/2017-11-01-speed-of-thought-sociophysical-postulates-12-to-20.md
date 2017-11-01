@@ -11,46 +11,57 @@ excerpt: ""
 - TODO: add <span id="fdsa-note"></span> to create a bootstrap label
   in <p> tags that can fold/unfold a quote/note below
 
-
-
 - thesaurus
   - gorgonize
   - nocent
   - [ilmestys](https://en.wiktionary.org/wiki/ilmestys#Finnish) (finnish)
 
-- edits
-  - use language established in part one & part two
+- edits: use language established in part one & part two
 
+- TODO: part one:
+  - TODO: update sources in the first part
+  - TODO: finish conclusion paragraph
 
-- TODO: update sources in the first part
+- TODO: update TOC with links to part 2 for postulates I -- XI
+
+- TODO: intro?
 
 ## [Postulates of Sociophysical Systems](#postulates-of-sociophysical-systems)
 
-#### &#8855; &#8710; &#8968;i&#8969; [There Are Infinitely Many Types of Sociophysical Energy Having Both Linear And Non-Linear Mechanics That Determine Their Equivalence and Interaction Dynamics](#there-are-infinitely-many-types-of-sociophysical-energy-having-both-linear-and-non-linear-mechanics-that-determine-their-equivalence-and-interaction-dynamics)
+#### &#8855; &#8710; [&#8968;i&#8969;](/posts/2017-10-30-speed-of-thought-sociophysical-postulates-1-to-11.html#there-are-infinitely-many-types-of-sociophysical-energy-having-both-linear-and-non-linear-mechanics-that-determine-their-equivalence-and-interaction-dynamics) There Are Infinitely Many Types of Sociophysical Energy Having Both Linear And Non-Linear Mechanics That Determine Their Equivalence and Interaction Dynamics
 
-#### &#8855; &#8710; &#8968;ii&#8969; [Mechanics of Social Interactions And Connections Are Physical and Logical, But Increasingly Virtualized](#mechanics-of-social-interactions-and-connections-are-physical-and-logical-but-increasingly-virtualized)
+#### &#8855; &#8710; [&#8968;ii&#8969;](/posts/2017-10-30-speed-of-thought-sociophysical-postulates-1-to-11.html#mechanics-of-social-interactions-and-connections-are-physical-and-logical-but-increasingly-virtualized) Mechanics of Social Interactions And Connections Are Physical and Logical, But Increasingly Virtualized
 
-#### &#8855; &#8710; &#8968;iii&#8969; [Power Describes The Rate of Energy Fluxing Through Sociophysical Networks](#power-describes-the-rate-of-energy-fluxing-through-sociophysical-networks)
+#### &#8855; &#8710; [&#8968;iii&#8969;](/posts/2017-10-30-speed-of-thought-sociophysical-postulates-1-to-11.html#power-describes-the-rate-of-energy-fluxing-through-sociophysical-networks) Power Describes The Rate of Energy Fluxing Through Sociophysical Networks
 
-#### &#8855; &#8710; &#8968;iiii&#8969; [Social Power Depends On Potentials For Types Of Energy Flux, Each Actual And Perceived](#social-power-depends-on-potentials-for-types-of-energy-flux)
+#### &#8855; &#8710; [&#8968;iiii&#8969;](/posts/2017-10-30-speed-of-thought-sociophysical-postulates-1-to-11.html#social-power-depends-on-potentials-for-types-of-energy-flux) Social Power Depends On Potentials For Types Of Energy Flux, Each Actual And Perceived
 
-#### &#8855; &#8710; &#8968;v&#8969; [Perceived Beliefs Drive Social Power Dynamics Via Positive and Negative Feedback Loops](#perceived-beliefs-drive-social-power-dynamics-via-positive-and-negative-feedback-loops)
+#### &#8855; &#8710; [&#8968;v&#8969;](/posts/2017-10-30-speed-of-thought-sociophysical-postulates-1-to-11.html#perceived-beliefs-drive-social-power-dynamics-via-positive-and-negative-feedback-loops) Perceived Beliefs Drive Social Power Dynamics Via Positive and Negative Feedback Loops
 
-#### &#8855; &#8710; &#8968;vi&#8969; [Agents Have Varying Degrees Of Autonomy and Individual Definitions Of Energy Types. They Share Traits, Such As Concurrency, Bandwidth and Physicality](#agents-have-varying-degrees-of-autonomy-and-individual-definitions-of-energy-types)
+#### &#8855; &#8710; [&#8968;vi&#8969;](/posts/2017-10-30-speed-of-thought-sociophysical-postulates-1-to-11.html#agents-have-varying-degrees-of-autonomy-and-individual-definitions-of-energy-types) Agents Have Varying Degrees Of Autonomy and Individual Definitions Of Energy Types. They Share Traits, Such As Concurrency, Bandwidth and Physicality
 
-#### &#8855; &#8710; &#8968;vii&#8969; [To Hedge Against Domain Complexity, Agents Amplify Perceived Beliefs And Interact In Other Ways](#to-hedge-against-domain-complexity-agents-amplify-perceived-beliefs)
+#### &#8855; &#8710; [&#8968;vii&#8969;](/posts/2017-10-30-speed-of-thought-sociophysical-postulates-1-to-11.html#to-hedge-against-domain-complexity-agents-amplify-perceived-beliefs) To Hedge Against Domain Complexity, Agents Amplify Perceived Beliefs And Interact In Other Ways
 
-#### &#8855; &#8710; &#8968;viii&#8969; [Spectral Coherence of Knowledge, Information and Agent Context Strongly Influences Conceptualization and Anticipation](#spectral-coherence-of-knowledge-information-and-agent-context-strongly-influences-conceptualization-and-anticipation)
+#### &#8855; &#8710; [&#8968;viii&#8969;](/posts/2017-10-30-speed-of-thought-sociophysical-postulates-1-to-11.html#spectral-coherence-of-knowledge-information-and-agent-context-strongly-influences-conceptualization-and-anticipation) Spectral Coherence of Knowledge, Information and Agent Context Strongly Influences Conceptualization and Anticipation
 
-#### &#8855; &#8710; &#8968;ix&#8969; [Social Circuitry Enables Sociophysical Energy Flows, Where The Superposition Principle Applies Circuit and Network Topologies. All Exist Simultaneously](#social-circuitry-enables-sociophysical-energy-flows-where-the-superposition-principle-applies-to-circuit-and-network-topologies)
+#### &#8855; &#8710; [&#8968;ix&#8969;](#social-circuitry-enables-sociophysical-energy-flows-where-the-superposition-principle-applies-to-circuit-and-network-topologies) Social Circuitry Enables Sociophysical Energy Flows, Where The Superposition Principle Applies Circuit and Network Topologies. All Exist Simultaneously
 
-#### &#8855; &#8710; &#8968;x&#8969; [Social, Financial and Other Energetic Flows Signal Interest and Intent Via Frequency, Magnitude and Abstract Spectral Decomposition](#social-financial-and-other-energetic-flows-signal-interest-and-intent-via-frequency-magnitude-and-abstract-spectral-decomposition)
+#### &#8855; &#8710; [&#8968;x&#8969;](#social-financial-and-other-energetic-flows-signal-interest-and-intent-via-frequency-magnitude-and-abstract-spectral-decomposition) Social, Financial and Other Energetic Flows Signal Interest and Intent Via Frequency, Magnitude and Abstract Spectral Decomposition
 
-#### &#8855; &#8710; &#8968;xi&#8969; [Disruption of Connections & Interactions Alters Flow Of Energy & Power, Physically, Logically and Virtually](#disruption-of-connections-and-interactions-alters-flow-of-energy-and-power-physically-logically-and-virtually)
+#### &#8855; &#8710; [&#8968;xi&#8969;](#disruption-of-connections-and-interactions-alters-flow-of-energy-and-power-physically-logically-and-virtually) Disruption of Connections & Interactions Alters Flow Of Energy & Power, Physically, Logically and Virtually
 
-#### >> &#8855; &#8710; &#8968;xii&#8969; [Even When Invisible, Intent Is Further Signified And Clarified By Parallel, Anti-Parallel and Orthogonal Orientations of Motion As They Relate to Laplacian of High-Dimensional Surfaces](#even-when-invisible-intent-is-further-signified-and-clarified-by-parallel-antiparallel-and-orthogonal-orientations-of-motion-as-they-relate-to-laplacian-of-high-dimensional-surfaces)
+#### "Please, Sir, You Are Blocking The Light Of Mathematics"
 
-#### >>>> &#8855; &#8710; &#8968;xiii&#8969; [Whether Cognizant, Nearly All Attach Their Behavior, Thoughts and Identity To Equilibria In Social Games. When Unshackled, Our Energy Becomes Trackless, Formless and Incomprehensible To The Unconscionable.](#whether-cognizant-nearly-all-attach-their-behavior-thoughts-and-identity-to-equilibria-in-social-games)
+![Death of Archimedes](/img/posts/2017-10-30-speed-of-thought-sociophysical-postulates-1-to-11/death-of-archimedes.jpg)
+
+
+#### > > &#8855; &#8710; &#8968;xii&#8969; [Even When Invisible, Intent Is Further Signified And Clarified By Parallel, Anti-Parallel and Orthogonal Orientations of Motion As They Relate to Laplacian of High-Dimensional Surfaces](#even-when-invisible-intent-is-further-signified-and-clarified-by-parallel-antiparallel-and-orthogonal-orientations-of-motion-as-they-relate-to-laplacian-of-high-dimensional-surfaces)
+
+#### > > > > &#8855; &#8710; &#8968;xiii&#8969; [Whether Cognizant, Nearly All Attach Their Behavior, Thoughts and Identity To Equilibria In Social Games. When Unattached To Sociophysical Equilibria, Our Energy Becomes Trackless, Formless and Incomprehensible To The Unconscionable.](#whether-cognizant-nearly-all-attach-their-behavior-thoughts-and-identity-to-equilibria-in-social-games)
+
+- Once Labile and Unbound From Conceived Attachment, Our Energy
+  Becomes Trackless, Formless and Incomprehensible To The
+  Unconscionable.
 
 #### &#8855; &#8710; &#8968;xiv&#8969; [The Evolutionary Dynamics of Social Physics Build Upon Antifragility and the Ideas of Programs in Chaos](#the-evolutionary-dynamics-of-social-physics-build-upon-antifragility-and-the-ideas-of-programs-in-chaos)
 
@@ -58,15 +69,13 @@ excerpt: ""
 
 #### > &#8855; &#8710; &#8968;xvi&#8969; [Everything is a particle. Everything is a Wave. Even Information, Modeled Holonically](#everything-is-a-particle-everything-is-a-wave-even-information-modeled-holonically)
 
-#### >> >> &#8855; &#8710; &#8968;xvii&#8969; [Models of Sociophysical Phase Change Require Topological Spaces Imbued Onto Physical and Aphysical Topologies](#models-of-sociophysical-phase-change-require-topological-spaces-imbued-onto-physical-and-aphysical-topologies)
+#### > > > > &#8855; &#8710; &#8968;xvii&#8969; [Models of Sociophysical Phase Change Require Topological Spaces Imbued Onto Physical and Aphysical Topologies](#models-of-sociophysical-phase-change-require-topological-spaces-imbued-onto-physical-and-aphysical-topologies)
 
-#### >> &#8855; &#8710; &#8968;xviii&#8969; [Independence and Connectedness Can Be Measured In Sociophysical Network Topologies](#independence-and-connectedness-can-be-measured-in-sociophysical-network-topologies)
+#### > > &#8855; &#8710; &#8968;xviii&#8969; [Independence and Connectedness Can Be Measured In Sociophysical Network Topologies](#independence-and-connectedness-can-be-measured-in-sociophysical-network-topologies)
 
 #### > &#8855; &#8710; &#8968;xix&#8969; [For The Efficient and Pragmatic Assertion of Behavior and Intent, Sociophysical Configuration Entropy is Nearly Unparalleled](#for-the-efficient-and-pragmatic-assertion-of-behavior-and-intent-sociophysical-configuration-entropy-is-nearly-unparalleled)
 
-#### >> &#8855; &#8710; &#8968;xx&#8969; [Information In Holonic, Particle Form Exhibits Complicated Behavior Analogous To Entanglement](#information-in-holonic-particle-form-exhibits-complicated-behavior-analogous-to-entanglement)
-
-
+#### > > &#8855; &#8710; &#8968;xx&#8969; [Information In Holonic, Particle Form Exhibits Complicated Behavior Analogous To Entanglement](#information-in-holonic-particle-form-exhibits-complicated-behavior-analogous-to-entanglement)
 
 <a name="even-when-invisible-intent-is-signified-and-clarified-by-parallel-antiparallel-and-orthogonal-orientations-of-motion-as-they-relate-to-laplacian-of-high-dimensional-surfaces" />
 
@@ -91,28 +100,20 @@ strategy.
 
 ![Functional Maps for 3D Object Comparison](/img/posts/2017-10-21-speed-of-thought-twenty-postulates-of-social-physics/functional-maps-for-3D-object-comparison.png)
 
-
 - connecting Tensor-based models together with the following tools
 
 
-####
+#### &#x2605;
 
-#### &#x2605; Recognition of Potential Algebraic Structures via Learned Tensor Decomposition
+#### &#x2605;
 
-#### &#x2605; Convolution of Algebras with Tensors, Gradient and Laplacian
+- (representation learning) Recognition of Potential Algebraic Structures via Learned Tensor Decomposition
+- Tensors, Gradient and Laplacian
+- Convolution of Algebras
+- Hyperspectral Analysis
+- stochastic calc
 
-#### &#x2605; Hyperspectral Analysis, Stochastic Calculus, 
-
-#### &#x2605; 
-
-#### &#x2605; 
-
-#### &#x2605; 
-
-#### &#x2605; 
-
-
-To given a simplified model of a sociophysical or financial system
+Given a simplified model of a sociophysical or financial system
 
 , you can be
 
@@ -174,7 +175,9 @@ To given a simplified model of a sociophysical or financial system
         contrast between that truth and the sea of disinformation
         gives you the smoke that indicates fire
 
-### &#8855; &#8710; &#8968;xiii&#8969; [Equilibria in Social Games](#)
+<a name="whether-cognizant-nearly-all-attach-their-behavior-thoughts-and-identity-to-equilibria-in-social-games" />
+
+### &#8855; &#8710; &#8968;xiii&#8969; [Whether Cognizant, Nearly All Attach Their Behavior, Thoughts and Identity To Equilibria In Social Games. When Unattached To Sociophysical Equilibria, Our Energy Becomes Trackless, Formless and Incomprehensible To The Unconscionable.](#whether-cognizant-nearly-all-attach-their-behavior-thoughts-and-identity-to-equilibria-in-social-games)
 
 - content from "facets: systems-theory"
   - this content is poorly outlined. where else do i have this?
@@ -188,8 +191,14 @@ To given a simplified model of a sociophysical or financial system
 
 #### Stasis of Equilibria
 
-  - what balance of equilibria do people seek?
-  - how do they reorient their energy?
+- what balance of equilibria do people seek?
+- once they believe feel they have achieved some particular set of
+  equilibria, how do they reorient their energy?
+  - some feel satisfied and stop chasing any objective, only beginning
+    again when they feel they've lost the equilibria they attained.
+  - some move on to the next objectives
+  - some never feel satisfied with attaining anything and mercilessly
+    strive on.
 
 #### I Live In A World Where Those Who Can't or Won't Talk To Me At Least Aren't My Enemies
 
@@ -212,6 +221,7 @@ To given a simplified model of a sociophysical or financial system
     - they will delegate goals and objectives to entities in their
       networks with agency.
       - if this is happening, fucking run ... but it may not help.
+
   - when delegating across a network, agents can actually appear to
     work against one another towards the attainment of equilibria of
     specific sociophysical metrics. this is good cop & bad cop, but in
@@ -264,7 +274,6 @@ To given a simplified model of a sociophysical or financial system
 #### (Dilineation of Most Probable Paths from Counteraction b/w entropy/enthalpy)
 
 ![Folding Funnel w/ Entropy & Enthalpy](/img/posts/2017-10-21-speed-of-thought-twenty-postulates-of-social-physics/folding-funnel-enthalpy.jpg)
-
 
 #### Would You Like Some Tea?
 
@@ -439,9 +448,11 @@ simultaneously running image-recognition Boltzmann machines diverge,
 each one become less capable of deviating from it's current category
 and singleton metatype-composition. What does the picture above
 symbolize for epistemological defects in shared knowledge systems
-developed by cooperative entities, which are essentially
+developed by cooperative entities? These entities are essentially
 [Boltzmann machines](https://en.wikipedia.org/wiki/Boltzmann_machine)
-with arbitrary notions of temperature and sociophysical energy.
+with myriad arbitrary notions of temperature and sociophysical energy.
+
+![]()/
 
 - expand on this
   - transition to discussing how we attempt to model each other's
@@ -467,7 +478,7 @@ with arbitrary notions of temperature and sociophysical energy.
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/TtTzTYDUwvQ" frameborder="0" allowfullscreen></iframe>
 
-- so, directing their focus changes the range of experiential
+- so, directing someone's focus changes the range of experiential
   information relevant to their context. combined with signaling and
   especially with (decision models), this easily can have
   multiplicative effects.
@@ -490,7 +501,7 @@ what your mind is made of.
   waves. further still, the transmission of physical pheneomena also
   drive ripples of information through sociophysical networks.
 
-![The Wave In A Stadium](the-wave.gif)
+![The Wave In A Stadium](/img/posts/the-wave.gif)
 
 - if there is a spectral (understanding) of information-graphs, as
   ellusive as a visual conception might be, then surely a momentary
@@ -548,13 +559,12 @@ what your mind is made of.
 
 
 
-#### Connecting Microstate Energy in [Botlzmann Machines] with Boltzmann's Distribution and Configuration Entropy ...
+#### Connecting Microstate Energy in [Boltzmann Machines](#) with Boltzmann's Distribution and Configuration Entropy ...
 
 ![Amphiphilic Phases](/img/posts/2017-10-21-speed-of-thought-twenty-postulates-of-social-physics/amphiphilic-lcd-phases.jpg)
 
 
 - [gibb's entropy?](https://en.wikipedia.org/wiki/Entropy_(statistical_thermodynamics)#Gibbs_entropy_formula)
-
 
 - for the common person to understand, they need to understand what a
   phase change in physics actually is and, most importantly, what a
@@ -1064,6 +1074,9 @@ information.
 
 <!-- references -->
 
+
+
+
 [^interaction-and-influence]: [A multilayer network dataset of interaction and influence spreading in a virtual world](https://arxiv.org/abs/1702.06373), J. Jankowski, R. Michalski, P. Bródka, arXiv:1702.06373 [cs.SI] DOI [10.1038/sdata.2017.144](https://doi.org/10.1038/sdata.2017.144) (2017)
 
 [^configuration-entropy-of-a-landscape]: [Calculating the configurational entropy of a landscape mosaic](https://www.fs.fed.us/rm/pubs_journals/2016/rmrs_2016_cushman_s001.pdf) Samuel A. Cushman, Landscape Ecol (2016) 31:481–489, DOI 10.1007/s10980-015-0305-2
@@ -1075,3 +1088,10 @@ information.
 [^resilience-to-contagion]: [Resilience To Contagion In Financial Networks](https://doi.org/10.1111/mafi.12051)
 
 [^functional-maps]: Ovsjanikov, M., Ben-Chen, M., Solomon, J., Butscher, A. and Guibas, L., 2012. [Functional maps: a flexible representation of maps between shapes](https://doi.org/10.1145/2185520.2185526). ACM Transactions on Graphics (TOG), 31(4), p.30.
+
+
+
+
+[^representation-learning]: Bengio, Y., Courville, A. and Vincent, P., 2013. [Representation learning: A review and new perspectives.](https://arxiv.org/abs/1206.5538) IEEE transactions on pattern analysis and machine intelligence, 35(8), pp.1798-1828.
+
+[^representation-learning-hyperspectral]: Chen, Y., Lin, Z., Zhao, X., Wang, G. and Gu, Y., 2014. [Deep learning-based classification of hyperspectral data](https://doi.org/10.1109/JSTARS.2014.2329330). IEEE Journal of Selected topics in applied earth observations and remote sensing, 7(6), pp.2094-2107.
