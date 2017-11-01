@@ -17,8 +17,6 @@ excerpt: ""
 - TODO: include picture from "visible graphs" article
 
 
-
-
 ### Resources
 
 #### &#x2605 [Simons Institute](https://www.youtube.com/user/SimonsInstitute): [Workshop on Tensor Networks and Simulations](https://www.youtube.com/playlist?list=PLgKuh-lKre10UQnP7gBCFoKgq5KWIA7el)
@@ -26,6 +24,10 @@ excerpt: ""
 #### &#x2605 [Perimeter Institute](https://www.youtube.com/user/PIOutreach) (Canadian Research): [Tensor Networks Talks](https://www.perimeterinstitute.ca/research/research-initiatives/tensor-networks/tensor-networks-talks)
 
 #### &#x2605; MIT 6.838 Shape Analysis: [Lectures](https://www.youtube.com/playlist?list=PLkHIj5SCfn3-FeWqD3xeOZWP2kQYY654o) and [Content](http://groups.csail.mit.edu/gdpgroup/6838_spring_2017.html)
+
+#### IAS (simons institute on steroids)
+
+#
 
 Few topics have expanded my mathematic imagination to the degree that
 watching these
@@ -77,13 +79,146 @@ are computationally tractible -- is indispensible towards planning how
 hardware/software can be financed, adapted and produced in timely
 fashion to be used by the best 3D artists in the world.
 
+# ... [Combinatory Categorical Grammars]()
+
+- title: non-technical ... this section mostly focuses on data science
+  w/ linguistics, stylometrics, etc
+
+- CCG (is based on partial combinatory algebra)
+  - where to describe PCA?
+
+- explain using CCG's for textual/semantic analysis of content.
+  - with CCG you can combinate through all potential grammatic
+    structures (for a language?) into an indexable, ordered collection
+    of increasingly structure
+    - (either countable? or can be made countable?)
+  - using this technique, computational linguistics applications can
+    compose this (highly-structured) algebra along with other
+    algebraic structures created with tensors
+
+### Autosuggest Optimized Grammar With More Dense Semantic Content
+
+  - example of CCG usage: identify overly-verbose paragraphs and
+    permute the grammatical structures of multiple statements, fusing
+    fragments with function words by optimizing a walk through a
+    complicated multitiered graph.
+  - another example: render a sentence to CCG, examine its CCG
+    subunits.
+    - join this with thesaurus algorithm informed by a semantic
+      network and an understanding of the types of CCG subunits that
+      particular words appear in where the semantic result of the
+      sentence is similar.
+      - you can identify synonyms that result in more succinct
+        grammatic structures. (i really need this)
+
+### Basic Metrics Of (Literature) ... Stylometrics
+
+- a grammatical analogy of (..metric for writers), you can analyze an
+  author's work to measure how varied, well-structured or succinct
+  their grammar trees are.
+
+#### [Hapax Legomenon](https://en.wikipedia.org/wiki/Hapax_legomenon)
+
+#### Heap's Law
+
+- deviation from
+  [Heap's Law](https://en.wikipedia.org/wiki/Heaps%27_law) to quantify
+  author's talent for using descriptive language.
+  - for me, it's really hit or miss
+
+
+### (Metric to Score Conversational Ability)
+
+- what is the point of this? how can it be used?
+  - therapeutic: to help enumerate potential conversation pathways for
+    completely clueless people like me who may have never walked
+    through enough successful social interactions
+    - with a meaningful quantity of statements/responses
+    - i simply do not know what to say. it's only bc i have never been
+      conditioned by enough experience
+
+  - social interaction quantification:
+    - to understand the paths they could have taken.
+    - to understand what conversation paths or path types seem
+      successful/engaging
+      - are there measures of energy here? (informational energy)
+
+- scoring/analyzing conversational ability with CCG/linguistic
+  analysis to (quantify social vulnerability)
+  - CCG typology of questions/responses,
+    - where the [PCA]() is gradually & combinatorially opened up
+      - information is gradually abstracted from the specific CCG
+        representation.
+      - this is necessary to measure similarity b/w statements ... but
+        is disconnected from the semantic propositions established by
+        statements.. (e.g. there is a car; it is blue; ...)
+        - does this matter?
+
+- for a language, generate structure that contains all potential
+  grammatical CCG structures (of reasonable length)
+  - as well as a means of addressing/mapping all the combinatorially
+    "curried" PCA's for each CCG
+  - wtf would this look like? is the top-level structure
+    combinatorially enumerable (countable?)
+    - i think so, if only normal form CCG's are included. it will also
+      depend greatly on the language's grammar
+
+- need a structure for analytics:
+  - to tabulate frequency of CCG(& curried-PCA) occurances, then
+    generalize with partial types in the first few levels of the PCA
+
+- the results can identify individuals with severe social restriction
+  (their frequency/variance of specific/partial statement types is
+  profoundly diminished)
+  - most of the "social interaction quantification" usages are too
+    complex. it should be trivial to identify people who have severe
+    restriction in conversational variety
+
+- can map paths through graphs (built on semantics & typologized
+  (grammatical ...))
+  - also account for transitions (relationships b/w seq-to-seq of
+    specific CCG types & their partial-type expansion)
+
+### Seq-to-Seq Learning
+
+- quick overview of learning/predicting sequence data
+- what are n-grams?
+  - how do they relate to language & specific contexts of language
+    usage.
+
+
+
+### Mention "Hapax" Idea?
+
+
+
+### Discourse Analysis to Construct Rhetorical [Valuation](https://en.wikipedia.org/wiki/Valuation_(logic)) of Non-Fiction
+
+- [Discourse Analysis](https://en.wikipedia.org/wiki/Discourse_analysis)
+
+- the need to handle 2nd order logic makes this impossible (i think?)
+
+
+- [Lotka's Law]() & [Price's Law]()
+  - move up?
+
+
+### Diffeomorphological Analysis of Contribution to Human Thought
+
+- describe
+
+
+
+
+
+
 # [Intro To Tensors And Algebras](#intro-to-tensors-and-algebras)
 
 - title
 
 There's a limitless variety of tensors found in physical and
-mathematic systems, operating in spaces both euclidian and those more
-imaginative. When you start looking into tensor calculus, you'll
+mathematic systems, (operating in spaces both euclidian and those more
+imaginative). When you start looking into tensor calculus, you'll
 undoubtedly find the
 [Cauchy stress tensor](https://en.wikipedia.org/wiki/Cauchy_stress_tensor)
 as a prototypical example. In
@@ -104,6 +239,8 @@ it's difficult to imagine the full range of possibilities. Only when
 you start to look into how these objects are used in the construction
 of algebras will you understand their true potential.
 
+![Tensor Flow Image (somewhere)]()
+
 #### Tensor Rank, Products and Sums
 
 - how to talk aobut the dimensionality of data
@@ -112,7 +249,8 @@ of algebras will you understand their true potential.
   - mode: a base component of a vector in a tensor (there's a better
     definition)
   - free algebra: the simplest construction of a non/multi/linear
-    system where there are no constraints in place
+    system where there are no constraints in place ... (the only
+    constraints are those imposed on (a) universal algebra)
     - (does this work for non-linear systems or only as a component of
       non-linear systems)
     - or is the notion of an algebra (specifying tensor product
@@ -120,13 +258,17 @@ of algebras will you understand their true potential.
       thereof) orthogonal to system linearity and systems in general?
     - the system is composed
 
-#### Tensor Rank:
+#### Rank:
 
 #### Mode:
 
 #### &#8855; Tensor Product `dim(v &#8855; w) = dim(v) * dim(w)`
 
 #### &#8853; Direct Sum: `dim(v &#8853; w) = dim(v) + dim(w)`
+
+#### Fibers/Slices (relationship to fiber bundles?)
+
+#### Trace: (include?)
 
 - tensors are a convenience, not a burden
   - (specific kinds of applications require tensor constructions.)
@@ -138,7 +280,20 @@ of algebras will you understand their true potential.
     of specifying indices in order to focus in on more pure,
     generalized mathematic relationships.
 
-#### Algebras
+### Tensor Methods For Inferring Structure From Data
+
+- [Factor Analysis](https://en.wikipedia.org/wiki/Factor_analysis)
+- [Singular Value Decomposition](https://en.wikipedia.org/wiki/Singular-value_decomposition)
+- [Higher-Order SVD](https://en.wikipedia.org/wiki/Higher-order_singular_value_decomposition)
+- [Multilinear Principle Component Analysis](https://en.wikipedia.org/wiki/Multilinear_principal_component_analysis)
+
+- [Sparse Dictionary Learning](https://en.wikipedia.org/wiki/Sparse_dictionary_learning)
+  - many-to-many example-to-class maps
+    - where threshold determines examples matching class
+    - here, the data destructures into groups of examples
+      (matching class or classes) and can be operated on as groups
+
+### Algebras
 
 - free algebra
 - tensors involving maps b/w elements
@@ -148,17 +303,25 @@ of algebras will you understand their true potential.
     enumerable paths through a network/graph, where the length of path
     is bounded by the number of degrees)
 
-#### &#2605; [Hopf Algebra]()
+#### (from tensor algebra wiki)
 
-#### &#2605; [Partial Combinatory Algebra]()
+\\( T^kV = V^{\otimes k} = V\otimes V \otimes \cdots \otimes V \\)
 
-#### &#2605; [Universal Algebra]()
+\\( T(V)= \bigoplus_{k=0}^\infty T^kV = K\oplus V \oplus (V\otimes V) \oplus (V\otimes V\otimes V) \oplus \cdots \\)
 
-#### &#2605;
+#### &#x2605; [Free Algebra]() (on [Tensors](https://en.wikipedia.org/wiki/Tensor_algebra))
+
+#### &#x2605; [Lie Algebra](https://en.wikipedia.org/wiki/Lie_algebra) & Their [Representations](https://en.wikipedia.org/wiki/Lie_algebra_representation)
+
+#### &#x2605; [Hopf Algebra](https://en.wikipedia.org/wiki/Hopf_algebra)
+
+#### &#x2605; [Partial Combinatory Algebra](https://ncatlab.org/nlab/show/partial+combinatory+algebra)
+
+#### &#x2605; [Universal Algebra](https://en.wikipedia.org/wiki/Universal_algebra)
 
 
 
-### Convolution Of Structured Algebras With Tensors
+### Convolution Of Known Structure With Tensors/Algebras
 
 - tie algrebraic convolution of values in the above to a model for
   hyper/spectral analysis which can be further convoluted with
@@ -167,91 +330,26 @@ of algebras will you understand their true potential.
   - what kind of tensor products construct something like this and
     what maps tie these algebraic convolutions together?
 
+
+
+
+
+
 #### "Magma" - Dr. Evil
+
+- PCA is a magma
+  - i think PCA/magma's are the things i didn't "get" from functional
+    programming, where it appeared that i should use lenses/optics
+    - if so, these would allow you to destructure/restructure any
+      parameterization
+      - AND map any function parameterization to any other function
+        parameterization
+    - but if this is so ... then how?
 
 ![Magma]()
 
 
-
-
-### ... [Combinatory Categorical Grammars]()
-
-- CCG (is based on partial combinatory algebra)
-
-- explain using CCG's for textual/semantic analysis of content.
-  - with CCG you can combinate through all potential grammatic
-    structures (for a language?) into an indexable, ordered collection
-    of increasingly structure
-    - (either countable? or can be made countable?)
-  - using this technique, computational linguistics applications can
-    compose this (highly-structured) algebra along with other
-    algebraic structures created with tensors
-
-#### Autosuggest Optimized Grammar With More Dense Semantic Content
-
-  - example of CCG usage: identify overly-verbose paragraphs and
-    permute the grammatical structures of multiple statements, fusing
-    fragments with function words by optimizing a walk through a
-    complicated multitiered graph.
-  - another example: render a sentence to CCG, examine its CCG
-    subunits.
-    - join this with thesaurus algorithm informed by a semantic
-      network and an understanding of the types of CCG subunits that
-      particular words appear in where the semantic result of the
-      sentence is similar.
-      - you can identify synonyms that result in more succinct
-        grammatic structures. (i really need this)
-
-#### Metrics Of (Literature)
-
-- a grammatical analogy of (..metric for writers), you can analyze an
-  author's work to measure how varied, well-structured or succinct
-  their grammar trees are.
-
-- [Hapax Legomenon](https://en.wikipedia.org/wiki/Hapax_legomenon)
-- deviation from
-  [Heap's Law](https://en.wikipedia.org/wiki/Heaps%27_law) to quantify
-  author's talent for using descriptive language.
-  - for me, it's really hit or miss
-
-####
-
-- scoring/analyzing conversational ability with CCG/linguistic
-  analysis to quantify social vulnerability
-  - typology of quesitons/responses, expanded into
-    [Partial Combinatory Algebra](), starting with each specific
-    statement (where information is gradually abstracted from the
-    specific CCG representation)
-
-- tabaulate frequency of occurances, then generalize with partial
-  types in the first few levels of the PCA
-
-
-- the results can identify individuals with severe social restriction
-  (their frequency/variance of specific/partial statement types is
-  profoundly diminished)
-
-- can map paths through graphs (built on semantics & typologized
-  (grammatical ...))
-  - also account for transitions (relationships b/w seq-to-seq of
-    specific CCG types & their partial-type expansion)
-
-
-
-
-
-#### Discourse Analysis to Construct Rhetorical [Valuation](https://en.wikipedia.org/wiki/Valuation_(logic)) of Non-Fiction
-
-- [Discourse Analysis](https://en.wikipedia.org/wiki/Discourse_analysis)
-
-- the need to handle 2nd order logic makes this impossible (i think?)
-
-- [Lotka's Law]() & [Price's Law]()
-
-#### Diffeomorphological Analysis of Contribution to Human Thought
-
-
-# (A Basis for A Generalized Model of Anything)
+# (Learning Models For Time Series Analysis)
 
 - title: this section focuses on using the tools above towards
   creating models for spectral analysis.
@@ -259,6 +357,9 @@ of algebras will you understand their true potential.
 
 - correlate the picture below to a tensor of values with
   dimensionality equivalent to the graph's adjcency matrix
+  - or connect to tensor factorization/decomposition via:
+    - SVD/HOSVD/etc
+    - method to produce sparse coding
 
 #### A Heatmap of Combinitorialized Signal Sources, With Hierarchical Relationships Forming One Basis For A First-Order Transvaluation
 
@@ -285,7 +386,7 @@ of algebras will you understand their true potential.
         weights when training a model to recognize patterns, unless
         the model can anticipate varied sampling rates
 
-#### Dirichlet Energy on Graphs/Networks
+### Dirichlet Energy on Graphs/Networks
 
 - a notion of dirichlet energy for variance of "optimal" energetic
   distribution of values and the actual distribution of values
@@ -353,7 +454,7 @@ both volume and dirichlet energy throughout the field.
     quantify how different frequencies will be distorted/refracted as
     they are propagated to subsequent nodes.
 
-#### Spatiotemporal Analysis of Time-Series Graphs/Networks
+### Spatiotemporal Analysis of Time-Series Graphs/Networks
 
 - spatiotemporal analysis of spectrum
   - how do hardware approaches like wifi 802.11n's MIMO w/ spatial
@@ -379,9 +480,14 @@ both volume and dirichlet energy throughout the field.
 - further convolute the model with combinatorially variate gradient &
   laplacian of the above types of data points
 
-#### Application of Ideas from Stochastic Calculus Should Actually Result In Performance Enhancements
+### Application of Ideas from Stochastic Calculus Should Actually Result In Performance Enhancements
 
-#### Deconstructed & Recomposible Typological Behavior Recognition in Chaotic Systems
+- [the uncertainty principle](https://johncarlosbaez.wordpress.com/2010/10/19/entropy-and-uncertainty/)
+
+### Deconstructed & Recomposible Typological Behavior Recognition in Chaotic Systems
+
+- (tie the functional maps below to sparse coding & representation
+  learning techniques above)
 
 - everything above provides interrelated signals on extremely
   high-dimensional spaces, which can be used to specify/recognize
@@ -414,7 +520,7 @@ mesh that represents some point along a [mesh morph]().
 ![Figure 9]()
 
 
-# (Resolving Performance/Space/Time/Complexity Constraints)
+### (Resolving Performance/Space/Time/Complexity Constraints)
 
   - not all of this is tractible: the quantities of data points are
     hard enough just to sample, then computed/distributed/etc
@@ -664,3 +770,8 @@ mesh that represents some point along a [mesh morph]().
 
 - [Oliver Knill - Graph Geometry](http://www.math.harvard.edu/~knill/graphgeometry/)
 
+
+
+[^representation-learning]: Bengio, Y., Courville, A. and Vincent, P., 2013. [Representation learning: A review and new perspectives.](https://arxiv.org/abs/1206.5538) IEEE transactions on pattern analysis and machine intelligence, 35(8), pp.1798-1828.
+
+[^representation-learning-hyperspectral]: Chen, Y., Lin, Z., Zhao, X., Wang, G. and Gu, Y., 2014. [Deep learning-based classification of hyperspectral data](https://doi.org/10.1109/JSTARS.2014.2329330). IEEE Journal of Selected topics in applied earth observations and remote sensing, 7(6), pp.2094-2107.
