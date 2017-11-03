@@ -505,6 +505,21 @@ developments or the size/shape of the skull and parts of the brain,
 - todo: there's probably a name for this subfield of linguistics
   (anatomy, genetics & linguistics)
 
+- was the process and form of our neurological evolution constrained
+  by phenomenological ideals related to computational complexity?
+  - for a given computational architecture (wetware), there must be
+    some minima of size/density/etc required to give intelligent life
+    various cognitive abilities we have.
+  - however, in terms of energy and time, the most efficient form of
+    wetware computational hardware would likely be harder to attain
+    spontaneously (i.e. through evolution)
+    - therefore, we would only reach efficient form of computational
+      hardware later on.
+  - the important point here is that, for some specific biological
+    type of intelligent life, there may be size/energy constraints,
+    assuming the life could not network together dynamically to
+    leverage the collective wetware to expand its cognitive faculties.
+
 ### Concept of critical mass, as applied to anatomy/linguistics
 
 there should be some set of features and quantifyable attributes that,

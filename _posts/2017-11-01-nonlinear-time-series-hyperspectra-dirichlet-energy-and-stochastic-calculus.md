@@ -133,6 +133,10 @@ fashion to be used by the best 3D artists in the world.
 
 ### (Metric to Score Conversational Ability)
 
+- then remove all but the high-level technical details necessary to
+  demonstrate how it's possible
+
+
 
 - [General Type-Raised Categories]()
   - this is a name for higher-order CCG's
@@ -227,7 +231,7 @@ fashion to be used by the best 3D artists in the world.
 
 ### Diffeomorphological Analysis of Contribution to Human Thought
 
-- describe
+- describe how to analyze this in the age of internet & social media
 
 
 

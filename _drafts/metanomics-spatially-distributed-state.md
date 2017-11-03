@@ -105,6 +105,30 @@ spatially distributed state in the nucleus
     - then a highly accurate model of the connectome for the brain and
       other organs can be constructed
 
+# Spatially Distributed State on the Micro Scale
+
+### Theranonostic Use of SPIONs with attached PNAs (peptide nucleic acids) to test for miRNA/piRNA/siRNA
+
+- see this paper: [Superparamagnetic iron oxide nanoparticles functionalized by peptide nucleic acids](https://doi.org/10.1039/c7ra00519a)
+  - how can these techniques be used for theranostics?
+    - or to quantify hard-to-reach datapoints in experiments?
+      - like the quantity of expression of miRNA/piRNA within cells
+        and the macroscopic distribution of those cells
+
+- but how can SPIONs w/ PNAs be designed to actually achieve this
+  goal? they need to:
+  - resist degradation
+  - etc..
+
+- functionally, there are many ways that SPION particles could react
+  to ncRNAs:
+  -  for example:
+    - by triggering behavior that causes them to aggregate or join
+    - by recruiting or attaching to a protein/complex
+    - ...?
+  - but how do the above translate into data that is accessible via
+    NMR & etc?
+
 # Spatially distributed state on the Macro Scale
 
 ### Methodology & Data Analysis for More Proficient MRI
@@ -157,7 +181,7 @@ spatially distributed state in the nucleus
       leakage are much smaller, then this will be more challenging
   - in those studies, they identify regions of BBB leakage related to
     tumors. *10.21037/qims.2017.02.09* compares imagery methods
-    related to SPIONs
+    related to SPIONs.
 
 
 overview of ideas/methods:
