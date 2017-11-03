@@ -308,6 +308,8 @@ Given a simplified model of a sociophysical or financial system
         - or is it instead a state purely devoid of the elements
           required for suffering/evil?
 
+#### "Be Water, My Friend"
+
 - someone who (understands, absorbs, reacts to) the presence of the
   sets of objectified equilibria that determine, is (wise...)
   - someone who is free from attachment to and desire for (obtaining,

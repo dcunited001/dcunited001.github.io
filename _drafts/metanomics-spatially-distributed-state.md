@@ -137,6 +137,28 @@ spatially distributed state in the nucleus
         vetted, unless there really is some generalized means of
         chipping away at the "possibility space"
 
+#### Combination of Gadolinium and SPION methods for CTE diagnosis
+
+- see these studies and these
+  [tweets](https://twitter.com/dcunit3d/status/926340062878498816):
+  - [Assessment of blood–brain barrier disruption using dynamic contrast-enhanced MRI. A systematic review
+](https://doi.org/10.1016/j.nicl.2014.09.002)
+  - [A comprehensive literatures update of clinical researches of superparamagnetic resonance iron oxide nanoparticles for magnetic resonance imaging](http://dx.doi.org/10.21037/qims.2017.02.09)
+
+- combination of staining, imaging and analysis
+  - stain w/ both Gadolinium & Ferrous SPIONs to gauge differences in
+    leakage via the Blood Brain Barrier
+    - SPIONs absorb the magnetism from MRI where they are present
+      because they disrupt magnetic permeability.
+    - BBB disruption probably manifests differently with CTE. i don't
+      know much about it, but i thought the problem with CTE diagnosis
+      *was* the inability to identify regions of the brain with BBB
+      leakage. this is possible, but (in CTE) if the regions with
+      leakage are much smaller, then this will be more challenging
+  - in those studies, they identify regions of BBB leakage related to
+    tumors. *10.21037/qims.2017.02.09* compares imagery methods
+    related to SPIONs
+
 
 overview of ideas/methods:
 
