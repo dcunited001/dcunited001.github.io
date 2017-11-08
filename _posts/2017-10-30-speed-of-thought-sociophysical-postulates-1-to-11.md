@@ -201,7 +201,7 @@ preserved the best record of this phenomenon in Western history.
 In the ancient world, population growth and movement was tightly
 coupled to economic opportunity, constrained by resources, and bounded
 by geography. Population quantity drives the total quantity of
-information and increases rate at which innovations occur via the
+information and increases the rate at which innovations occur via the
 network effect. Population density increases the rate at which
 information moves in those sociophysical networks.
 
@@ -223,7 +223,7 @@ energy also reverberate through humanity? As the world turns each day,
 there is random motion moving from the east to the west, driving
 social interactions. Pushing through the noise are faint, low
 frequency waves of cultural information rippling over and reflecting
-between geographic features. Vacuums of low population density tapers
+between geographic features. Vacuums of low population density taper
 this resonance. Between the centers of civilization, the dispersion of
 information is strained through translingual membrane, limiting the
 number of social connections over which information can cross. These
@@ -242,10 +242,10 @@ Consider the human population distribution of 5,000 BC. At this time,
 we had dispersed from Africa through the Middle East and around the
 Black Sea to India, Europe, China, Indonesia and the Americas. At that
 time, was there a region more connected than others? The most
-connected region was the Middle East. And people less connected?
-Those in island nations or beyond the tropics of Cancer and Capricorn,
-both of which would incidentally be more likely to understand the
-spherical shape of the earth.
+connected region was the Middle East. And people in regions less
+connected?  Those in island nations or beyond the tropics of Cancer
+and Capricorn, both of which would incidentally be more likely to
+understand the spherical shape of the earth.
 
 <a name="mesopotamia-and-mesoamerica-the-old-world-connectivity-maximums" />
 
@@ -257,9 +257,9 @@ surface area gave it an almost unparalleled economic advantage, which
 only grew as time marched on. This region had the shortest actual
 distance to the most number of people, and access to the largest
 social graph neighborhoods, depending on how you measured it. When
-people are more widely spread out, it is more rare to have large 2nd
-and 3rd degree networks, which conferred major advantages. Those with
-wealth could finance transport and delegate action, which further
+people are more widely spread out, it is more rare to have large
+2&deg; and 3&deg; networks, which conferred major advantages. Those
+with wealth could finance transport and delegate action, which further
 helped expand those networks.
 
 The shifting power centers of Olmec, Maya, Inca and Aztec repositioned
@@ -298,13 +298,15 @@ How can you compete in the global economy if your regime prohibits
 communication with the outside and punishes dissidents with three
 generations of family persecution? How can you export products if your
 citizens cannot freely establish relationships with people and
-businesses in other countries? Some of the fault here lies with NK and
-some of it lies with sanctions, but your nation is pursuing nuclear
-weapon development and its belligerent PR stunts show no remorse for
-this goal. In spite of UN sanctions, the regime undermines its own
-potential development of exports and economic competitiveness. You are
-missing out on the greatest period of human development because you're
-stewing over something that happened four generations ago.
+businesses in other countries? NK cannot belligerently flaunt
+international norms for something as critical as nuclear weapons. The
+NK regime undermines its own potential development of exports and
+economic competitiveness by pursuing such a dead-end strategy while
+caring nothing for realistic economic development. Until they turn
+around their nuclear programs that endanger international security, NK
+will continue missing out on the greatest period of human development
+because they're stewing over something that happened four generations
+ago.
 
 <a name="north-korean-paranoia-undermined-their-posture-for-economic-development" />
 
@@ -333,15 +335,15 @@ employment of pre-revolutionary subversion to gain sociohierarchical
 territory involves dirty tricks with disgusting karma. So, they plan
 on using it. But, in trying to undermine any possibility of dissent --
 and by being disconnected from the world with poor strategy being
-supplied from the largests connections outside -- North Korea has left
-itself in a position, where there is zero consumer adoption for
-hardware, which is necessary for economic expansion. It's total
-paranoia of imperialism has left itself deprived of any economic
-opportunity, even if it does pull off being a pawn for initiating
-nuclear war. North Korea needs to come to the negotiation table and we
-need to sort this out. The first thing that must happen is total
-nuclear disarmament and the rest of the world is infuriated that NK
-leadership expected to use nuclear weapons as bargaining chips.
+supplied from outside -- North Korea has left itself not unlike a
+nation lacking ships to engage in maritime trade. Paranoia of
+imperialism indirectly contributes much of NK's isolation. Even if it
+does pull off being a pawn for initiating nuclear war, that only means
+NK will be isolated even more. North Korea needs to come to the negotiation
+table and we need to sort this out. The first thing that must happen
+is total nuclear disarmament and the rest of the world is infuriated
+that NK leadership expected to use nuclear weapons as bargaining
+chips.
 
 <a name="north-koreas-strategy-never-had-an-endgame" />
 
@@ -363,19 +365,19 @@ with components of far-right ideology.
 
 ### [America and Europe as a Modern Sociophysical Connectivity Maximum](#america-and-europe-as-a-modern-sociophysical-connectivity-maximum)
 
-America, Europe and the West form the connectivity maximum of the
-world. This gives us diversity and some challenges related to
-multiculturalism. However, those issues must be overcome eventually
-and we did so early. Further, our populations are inundated in
-collective understanding of even cultural minutia via the
-encouragement of connection to peoples of all ethnicity and
-culture. This starkly departs from the traditional wisdom in the Art
-of War where you insulate your culture from any external influence,
-yet in the modern world, it results in perhaps the greatest advantage
-that we have. Why? The world is one and always has been one. We must
-overcome these issues at some point and we have, which has also made
-America and Europe and other highly connected non-Western regions
-connectivity maximums. This fuels our platform for economic growth.
+America, Europe and the West form a global connectivity maximum. This
+gives us diversity and some challenges related to multiculturalism.
+However, those issues must be overcome eventually and we did so
+early. Further, our populations are inundated in collective
+understanding of even cultural minutia via the encouragement of
+connection to peoples of all ethnicity and culture. This starkly
+departs from the traditional wisdom in the Art of War where you
+insulate your culture from any external influence, yet in the modern
+world, it results in perhaps the greatest advantage that we have. Why?
+The world is one and always has been one. We must overcome these
+issues at some point and we have, which has also made America and
+Europe and other highly connected non-Western regions connectivity
+maximums. This fuels our platform for economic growth.
 
 <a name="artificial-diminuation-and-amplification-of-information-yields-dangerous-self-delusion" />
 
@@ -392,17 +394,17 @@ that which they don't understand, it shrinks the needles in the
 haystack that are precious, distinct forms of information, which
 should clue us into developments we must react to. In highly
 permeable, tightly connected information environments, we are more
-likely to receive those signals, unless we enact policy to stimulate
-widespread fear over anything that might be different. There is some
-information that is dangerous, but we are throwing the baby out with
-the bathwater.
+likely to receive those signals unless we enact policy to stimulate
+widespread fear over anything that might be different. Some
+information is dangerous, but we are throwing the baby out with the
+bathwater.
 
 <a name="the-birds-eye-view-of-social-physics" />
 
 # [The Bird's Eye View of Social Physics](#the-birds-eye-view-of-social-physics)
 
 When an eagle looks down, using it's impressive eyesight to soak up
-what it can, does the world appear as 3D or 2D? It's perspective from
+what it can, does the world appear as 3D or 2D? Its perspective from
 that height provides a dimensional reduction and the details it
 absorbs enables it to see shapes and patterns emerge in individual and
 social behaviors, unaware to the animals engaging in those
@@ -412,7 +414,7 @@ in many ways. This status creates the imagery and fuels the strong
 symbolism that motivates the depiction of birds of prey in national
 flags, as well as their prominent place in myth and culture. By
 observing birds of prey from a distance, if you're lucky enough to see
-on, you can indirectly glean information about your surroundings, if
+one, you can indirectly glean information about your surroundings, if
 you're wise and foolish enough to make those inferences.
 
 #### A View of the Alps From An Eagle's Perspective
@@ -633,7 +635,7 @@ difficult to anticipate.
 These fields can be imagined as spaces with the potential to
 facilitate sociophysical energy exchange -- with a strong departure
 from physics: there is pronounced variation in the topology of the
-spaces. There are field with physically derived topology, graph
+spaces. There are fields with physically derived topology, graph
 topology and any kind of conceivable topology. These are simply tools
 for attempting to model what is far more complex than can ever be
 known.
@@ -649,14 +651,15 @@ graph might be overlayed onto physically interacting particles.
 Electrical networks are an example of physical phenomena with a
 logical graph-based structure overlayed on top. When determining the
 structure and components of circuits, would you first consider the
-physical proportions of the components or the types and structures of
-components? What happens when you remove components like resistors or
-capacitors from series or parallel circuits? Does it help much to
-first think about physically derived microphenomena of the system,
-like the [Skin Effect](https://en.wikipedia.org/wiki/Skin_effect)? Or
-would you start with top-down methods to examine the phenomenological
-end-goals of circuit structure: whether it a logical network of
-components forms an amplifier or a transformer?
+physical proportions of the components before considering the types
+and composition of components? What happens when you remove components
+like resistors or capacitors from series or parallel circuits? Does it
+help much to first think about physically derived microphenomena of
+the system, like the
+[Skin Effect](https://en.wikipedia.org/wiki/Skin_effect)? Or would you
+start with top-down methods to examine the phenomenological end-goals
+of circuit structure: whether it a logical network of components forms
+an amplifier or a transformer?
 
 In reasoning about these systems and the range of possibilities, the
 resulting dynamics and mechanics are neither purely physical or purely
@@ -715,10 +718,10 @@ on the countability of mathematic structures themselves. They are
 Logic, borne into demigod form, themselves capable of virtualizing
 physical systems.
 
-> BTW, I knew the above links on Gödel's Completeness Theorums were
-> relevant, but I couldn't understand the academic language. Without a
-> quick study, I still can't really tell you the difference between #1
-> and #2. Why? *SOCIAL ISOLATION*.
+<!-- BTW, I knew the above links on Gödel's Completeness Theorums were
+     relevant, but I couldn't understand the academic
+     language. Without a quick study, I still can't really tell you
+     the difference between #1 and #2. Why? *SOCIAL ISOLATION*. -->
 
 <a name="power-describes-the-rate-of-energy-fluxing-through-sociophysical-networks" />
 
@@ -1415,14 +1418,13 @@ energetic components for potential interaction trandsuctions.
 By limiting the size of a target's 1&deg; social neighborhood,
 generally reducing the scope and type of potential interactions, and
 reducing the options for that node, you make them exponentially more
-predictable.  A target who is _range-bound_ in this way then becomes
-exponentially more predictable. In this case, a target's sociophysical
-motion will be restricted at all costs -- especially major physical
-relocations. Here, sociophysical motion does not refer to motion in
-physical spaces, but to all motion of energy across any sociophysical
-topologies. By pragmatically restricting this motion, it renders you
-more predictable, subjugated, fearful and pathetic in all ways. You
-are prey that has been cornered. Run to Switzerland.
+predictable.  This target becomes _range bound_, rendering their
+sociophysical motion restricted at all costs -- especially major
+physical relocations. Here, sociophysical motion does not refer to
+motion in physical spaces, but to all motion of energy across any
+sociophysical topologies. By pragmatically restricting this motion, it
+renders you more predictable, subjugated, fearful and pathetic in all
+ways. You are prey that has been cornered. Run to Switzerland.
 
 <a name="social-financial-and-other-energetic-flows-signal-interest-and-intent-via-frequency-magnitude-and-abstract-spectral-decomposition" />
 
@@ -1451,11 +1453,11 @@ these. Still, they are good tests for gauging compatibility and
 chemistry via psychosocial valence. Sometimes people are looking for
 something, but not always. If you are, be pleasant and move on.
 
-The currency of all social success, IRL and online, is time, attention
-and mnemonic residue -- i.e. in the sense that, as you interact with
-people, you create memories together. These memories compose kinds of
-psychosocial artifact, accessible by your mind, which uses them to
-introspect, form narratives, and rank its content for
+The currencies of all social success, IRL and online, are time,
+attention and mnemonic residue -- i.e. in the sense that, as you
+interact with people, you create memories together. These memories
+compose kinds of psychosocial artifact, accessible by your mind, which
+uses them to introspect, form narratives, and rank its content for
 emotionally-focused redirection of attention. To people, the relevance
 of psychosocial artifacts like memories are determined by frequency,
 density, novelty and emotional relevance. Minimal and maximal values
@@ -1479,7 +1481,7 @@ algorithms more susceptible to feedback loops.
 When there is a total vacuum of these artifacts, our brains search for
 information about categories of people, places, ideas and things to
 fill in the gap. If someone else wanted to write your story for you,
-these void is easy to fill in. For a group that might actually
+this void is easy to fill in. For a group that might actually
 conspire to do so, isn't that convenient? It means signals of
 disinformation they might project don't need to be amplified, since
 they are already consumed and internalized disproportionally to be
@@ -1586,7 +1588,7 @@ it could be applied, which conveniently simplified or abstracted away
 from
 [<bra | ket> operator notation](https://en.wikipedia.org/wiki/Bra%E2%80%93ket_notation).
 
-Since these operator's linearity preserves associativity and
+Since these operators' linearity preserves associativity and
 commutatitivity, you can rearrange their order of application, so long
 as the dimensional structure of application holds. This allows you to
 construct construct time-domain waveforms that represent the
@@ -1620,12 +1622,12 @@ graph?
 
 ![Visibility Graph Based Time Series Analysis](/img/posts/2017-10-30-speed-of-thought-sociophysical-postulates-1-to-11/social-circuits.jpg)
 
-The picture above, from
+The picture above is from
 [Visibility Graph Based Time Series Analysis](https://doi.org/10.1371/journal.pone.0143015),
 which thoroughly covers time-series analysis applied to informational
-graphs *and* networks -- yes, there are technical differences. The
-paper's introduction[^graph-based-time-series-analysis] provides a
-10,000ft view of the basic techniques and their pitfalls.
+graphs *and* networks. The paper's introduction
+[^graph-based-time-series-analysis] provides a 10,000ft view of the
+basic techniques and their pitfalls.
 
 In electrical circuits, the directionality of power flows matters.
 Components like capacitors temporally regulate electrical flow, though
@@ -1670,14 +1672,15 @@ This is partially responsible the phenomena of paranoia and extreme
 isolation that occasionally arises in intelligent people, with IQ >=
 \\(3 \sigma\\). For people like this, they simply never need to ask
 others for help and if they don't artificially reinforce social skills
-in childhood, they may not develop basic social skills. They simply
-don't need to ask for information because they can resolve it
-themselves. In extreme isolation -- deprived of all social signal --
-the same causes of that phenomenon also manifest as paranoia. When
-they aren't socially informed or are completely socially disconnected,
-they simply never run out of avenues by which they might answer
-questions.  Moreover, the ranges of questions and methods by which
-they might ascertain this are profoundly expanded.
+in childhood, their restricted range of experience is one factor to
+potentially stymie their social development. They simply don't need to
+ask for information because they can resolve it themselves,. In extreme
+isolation -- deprived of all social signal -- the same causes of that
+phenomenon also manifest as paranoia. When they aren't socially
+informed or are completely socially disconnected, they simply never
+run out of avenues by which they might answer questions.  Moreover,
+the ranges of questions and methods by which they might ascertain this
+are profoundly expanded.
 
 Occasionally, attempts to isolate intelligent individuals can
 backfire: the extreme socioinformational deficiency results in a

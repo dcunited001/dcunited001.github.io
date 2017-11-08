@@ -27,7 +27,7 @@ excerpt: ""
 
 #### IAS (simons institute on steroids)
 
-#
+# 
 
 Few topics have expanded my mathematic imagination to the degree that
 watching these
@@ -83,22 +83,50 @@ are computationally tractible -- is indispensible towards planning how
 hardware/software can be financed, adapted and produced in timely
 fashion to be used by the best 3D artists in the world.
 
-# ... [Combinatory Categorical Grammars]()
+# ... (Computational Linguistics and Stylometrics)
 
 - title: non-technical ... this section mostly focuses on data science
   w/ linguistics, stylometrics, etc
 
-- CCG (is based on partial combinatory algebra)
+- CCG (is based on partial combinatory algebra ... {is it really?} )
   - where to describe PCA?
+
+### [Combinatory Categorical Grammars]()
+
+
 
 - explain using CCG's for textual/semantic analysis of content.
   - with CCG you can combinate through all potential grammatic
     structures (for a language?) into an indexable, ordered collection
     of increasingly structure
     - (either countable? or can be made countable?)
+    - this is actually the ideal destination, but is usually not
+      possible to generate this
   - using this technique, computational linguistics applications can
     compose this (highly-structured) algebra along with other
     algebraic structures created with tensors
+
+
+
+- [General Type-Raised Categories]()
+  - this is a name for higher-order CCG's
+    - higher-order GTRC CCG's can be overlaid on top of the
+      lower-order GTRC CCG's and CCG's
+  - see these papers:
+    - (1997) [Efficient Parsing for CCGs with Generalized TypeRaised Categories](http://repository.upenn.edu/cgi/viewcontent.cgi?article=1089&context=ircs_reports)
+    - (1997) [Generative power of CCGs with generalized type-raised categories](http://dl.acm.org/citation.cfm?id=979686)
+    - (1991) [Type-raising and directionality in combinatory grammar](http://dl.acm.org/citation.cfm?id=981354)
+
+- [CCGbank: A Corpus of CCG Derivations and Dependency Structures Extracted from the Penn Treebank](http://www.mitpressjournals.org/doi/pdf/10.1162/coli.2007.33.3.355)
+  - [OpenCCG](https://github.com/OpenCCG/openccg/blob/master/docs/ccgbank-README)
+
+- why can't all CCG's be enumerated for a language from a set of
+  grammatical primatives?
+  - other than really, really, .. really, long infinte recursion, etc
+  - are there limiting conditions for subclauses that can handle this?
+    - or creative means of circumventing the uncountability issues
+      here? needs to be countable
+
 
 ### Autosuggest Optimized Grammar With More Dense Semantic Content
 
@@ -130,32 +158,7 @@ fashion to be used by the best 3D artists in the world.
   author's talent for using descriptive language.
   - for me, it's really hit or miss
 
-
-### (Metric to Score Conversational Ability)
-
-- then remove all but the high-level technical details necessary to
-  demonstrate how it's possible
-
-
-
-- [General Type-Raised Categories]()
-  - this is a name for higher-order CCG's
-    - higher-order GTRC CCG's can be overlaid on top of the
-      lower-order GTRC CCG's and CCG's
-  - see these papers:
-    - (1997) [Efficient Parsing for CCGs with Generalized TypeRaised Categories](http://repository.upenn.edu/cgi/viewcontent.cgi?article=1089&context=ircs_reports)
-    - (1997) [Generative power of CCGs with generalized type-raised categories](http://dl.acm.org/citation.cfm?id=979686)
-    - (1991) [Type-raising and directionality in combinatory grammar](http://dl.acm.org/citation.cfm?id=981354)
-
-- [CCGbank: A Corpus of CCG Derivations and Dependency Structures Extracted from the Penn Treebank](http://www.mitpressjournals.org/doi/pdf/10.1162/coli.2007.33.3.355)
-  - [OpenCCG](https://github.com/OpenCCG/openccg/blob/master/docs/ccgbank-README)
-
-- why can't all CCG's be enumerated for a language from a set of
-  grammatical primatives?
-  - other than really, really, .. really, long infinte recursion, etc
-  - are there limiting conditions for subclauses that can handle this?
-    - or creative means of circumventing the uncountability issues
-      here? needs to be countable
+### (Quantifying Conversation and Human Interaction)
 
 - what is the point of this? how can it be used?
   - therapeutic: to help enumerate potential conversation pathways for
@@ -220,13 +223,49 @@ fashion to be used by the best 3D artists in the world.
 
 ### Discourse Analysis to Construct Rhetorical [Valuation](https://en.wikipedia.org/wiki/Valuation_(logic)) of Non-Fiction
 
-- [Discourse Analysis](https://en.wikipedia.org/wiki/Discourse_analysis)
-
-- the need to handle 2nd order logic makes this impossible (i think?)
-
 
 - [Lotka's Law]() & [Price's Law]()
   - move up?
+
+- [Discourse Analysis](https://en.wikipedia.org/wiki/Discourse_analysis)
+
+
+- the need to handle 2nd order logic makes this impossible (i think?)
+  - and the need to make inferences about higher-order
+    logics/grammatical structures. or the usages of imagery
+  - grammar is hard enough, but when it comes to understanding the
+    intended semantic imprint of statements in an
+    argument/description/narrative/etc,
+    - methods of constricting the domain of extrapolated
+      grammer/semantics by enumerating through highest frequency
+      interpretations poses problems when the intent is to mask
+      meaning:
+      - (1) multiple meanings can be implied
+      - (2) sometimes the intent is actually to use
+        locution/imagery/etc that is less probably understood by the
+        common reader
+        - systems that usually pick the most probable grammatical
+          structure interpretation(s) may fail -- even when the
+          algorithm uses semantics to constrict/inform the choice
+          - the frequency of CCG structures (constructed via treebank)
+            does not follow a power law (does not cohere to zipf's
+            distribution)
+          - this has particularly important consequences when parsing
+            the appropriate interpreted grammatical structure for
+            statements, as well as extrapolating that to understand &
+            infer the intended semantic imprint(s) of the statement(s)
+          - if the author/speaker doesn't want everyone to understand,
+            then they will intentionally pick low-probability
+            ambiguous grammar and semantic imagery, so that it expands
+            the domain of possible interpretations -- unless you have
+            the keys that collapse the domain
+            - semiotics & cultural universals form a kind of framework
+              within which references to imagery are structured, even
+              when there are many potential ways of mapping these
+              signifiers to meanings
+            - everything is based upon the human experience that we
+              know. when you must communicate without writing, without
+              words, how do you convery meaning?
 
 
 ### Diffeomorphological Analysis of Contribution to Human Thought

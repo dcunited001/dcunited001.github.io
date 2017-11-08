@@ -23,8 +23,24 @@ excerpt: ""
   - TODO: finish conclusion paragraph
 
 - TODO: update TOC with links to part 2 for postulates I -- XI
-
 - TODO: intro?
+
+- if the idea of God cannot be proven or can be proven false, is there
+  still value for religion? (of course)
+- is there a fundamental truth for determining moral reality? moral
+  ground truth?
+- gene replication vs belief/informational replication
+- if there is a absolute morality, is it possible for any man to
+  adhere to it?
+- does the idea of God cause sociophysical events to become more
+  deterministic?
+- https://en.wikipedia.org/wiki/Uniformitarianism & the ablation of
+  causality
+
+- social physics &#x8855; demographic stratification of children by
+  age through childhood and adolescence.
+  -
+
 
 ## [Postulates of Sociophysical Systems](#postulates-of-sociophysical-systems)
 
@@ -116,7 +132,6 @@ strategy.
 Given a simplified model of a sociophysical or financial system
 
 , you can be
-
 
 - tie algrebraic convolution of values in the above to a model for
   hyper/spectral analysis which can be further convoluted with

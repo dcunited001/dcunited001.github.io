@@ -63,6 +63,43 @@ graphics_ui_layout: "graphics/2017-06-29-animating-the-gradient.html"
 - [distributing points on a 2-sphere](http://www.nestedtori.com/2015/09/distributing-points-on-spheres-and.html)
 
 
+### Definition of space, topology
+
+- area/volume of pixels/voxels body parts moved (relative/absolute)
+  - the global movement, change in movement, laplacian of change in
+    movement, density in volume (=~ kinematics deformation), some
+    method of measuring the laplacian in orientation of motion
+  - each pixel/voxel has a structure with it representing space change
+    - original & new voxel space coords along with metrics
+      parameterizing those.
+  - this forms a topological overlay giving you a neighborhood of
+    absolute/relative pixel motion
+    - and changes in other pixel values & laplacian of those
+  - a space based on tracking the joint/surface locations of the body
+    over time, accross relative & absolute changes in space
+    - &#8855; as a representational approximation of a graph)
+    - &#8855; gradually increasing timesteps space trace
+    - this space gives you an indexed data structure for
+      retrieval/calculations on which to base regional/global metrics
+      on the system as a whole
+
+
+#### (a discrete version of something like [this hopf-for-simplicial-complices](https://arxiv.org/abs/1505.04458))
+
+  - and provides calculation/addressing/storage/retrieval of metrics
+    parameterized by the combinatorial space of the domain of joints
+    or body surface elements (both relative & absolute)
+
+### Representations of form/mutation on the space/topologies (move?)
+
+- a representation algorithm that provides a metric for distances b/w
+  various "form" (both symbolic) the spaces/metric
+  - a overlay of symbolicly represented forms might map those created
+    by the above representation alg/index/metric
+  - these symbolic representations should be mappable to forms that
+    are actually human-recognizable and human-comprensible symbolic
+- a measure of general/specific complexity of body forms and body
+  motions.
 
 # Discrete Differential Geometry and Pop Locking
 
@@ -192,6 +229,7 @@ graphics_ui_layout: "graphics/2017-06-29-animating-the-gradient.html"
           think, what i think you think, what i think you think i
           think
 
+- (rewrite referencing the above definitions of topology/etc)
 - and, for both functions A (driving motions/behaviors) and
   B (scoring/analyzing motions/behaviors):
   - what's happening here is that there is some metaphysical solution
