@@ -1019,7 +1019,7 @@ scale by projecting information via mass communication channels.
 
 #### Lilliputian Wormtongue Water-Prick Torture
 
-> "I'm sorry. I'm sorry. You want me to feel bad for wanting to excel
+> "I'm sorry I'm sorry. You want me to feel bad for wanting to excel
 > at life? And worse for becoming capable of transcending your
 > lilliputian wormtongue games?"
 
