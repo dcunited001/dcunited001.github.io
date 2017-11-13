@@ -248,7 +248,6 @@ graphics_ui_layout: "graphics/2017-06-29-animating-the-gradient.html"
           necessarily/ordinarily/usually exact, especially if the
           solution requires learning weights to the problem
 
-
 ### Martial Arts Styles Usually Incorporate Energy Minimization/Conservation/Focus
 
 - fighting style in martial arts, as it relates to the minimization of

@@ -240,7 +240,6 @@ available in the late 2010's primarily because of three factors.
     - Acquisition for intellectual property.
     - I knew this in 2013 and it should be obvious to pretty much
       everyone.
-  -
 
 #### Why is this Less Accessible?
 
@@ -311,7 +310,7 @@ almost insurmountable.
   without engaging software, they will begin to perceive the whole
   thing as a fad. If Nietzsche were writing this, he'd probably call
   this VR's "Danger of Dangers."
-  
+
   - [Nintendo License Seal]()
 
 
@@ -368,9 +367,14 @@ cost and risk to compete are prohibitive.
 
 - overregulation of medical processes and devices
 
-==========
+===========================
 
-### Automated Patent Mining
+# Concept of "Supply" of Ideas
+
+- since ideas (especially the industrious ones) have a graph
+  representation that lends to
+
+# Automated Patent Mining
 
 - not exactly new: the other silk road guy
 

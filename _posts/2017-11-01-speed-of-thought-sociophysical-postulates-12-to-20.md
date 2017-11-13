@@ -41,7 +41,6 @@ excerpt: ""
   age through childhood and adolescence.
   -
 
-
 ## [Postulates of Sociophysical Systems](#postulates-of-sociophysical-systems)
 
 #### &#8855; &#8710; [&#8968;i&#8969;](/posts/2017-10-30-speed-of-thought-sociophysical-postulates-1-to-11.html#there-are-infinitely-many-types-of-sociophysical-energy-having-both-linear-and-non-linear-mechanics-that-determine-their-equivalence-and-interaction-dynamics) There Are Infinitely Many Types of Sociophysical Energy Having Both Linear And Non-Linear Mechanics That Determine Their Equivalence and Interaction Dynamics
@@ -131,8 +130,7 @@ strategy.
 
 Given a simplified model of a sociophysical or financial system
 
-, you can be
-
+- you can be
 - tie algrebraic convolution of values in the above to a model for
   hyper/spectral analysis which can be further convoluted with
   gradient/laplacian
@@ -148,8 +146,6 @@ Given a simplified model of a sociophysical or financial system
 #### A Heatmap of Combinitorialized Signal Sources, With Hierarchical Relationships Forming One Basis For A First-Order Transvaluation
 
 ![Heatmap of Combinitorialized Signal Sources](/img/posts/2017-10-21-speed-of-thought-twenty-postulates-of-social-physics/viz-heatmap.png)
-
-
 
 - this {wtf is this?} helps indicate intent, even when it was hidden
   - consistency is hard to fake, any duplicity exacerbates this and
@@ -334,7 +330,7 @@ Given a simplified model of a sociophysical or financial system
       (manipulative/deceitful) groups of people, who can't conceive of
       someone who could not be controlled by desire or attachment
     - "trackless, he has destroyed Mara's vision..."
-      - 
+      - footsteps (Kino ep. 3)
 
   - wisely, they act today with the possibilities of tomorrow in mind:
     they conserve their potential energies to maximize any potential

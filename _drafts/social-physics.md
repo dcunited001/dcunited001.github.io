@@ -1,7 +1,7 @@
 ---
 title: "Social Physics: Misc Ideas"
 categories: "blog"
-tags: "oneirontology religion semiotics linguistics"
+tags: ""
 headline: ""
 author:
   name: "David Conner"
@@ -20,39 +20,10 @@ excerpt: ""
     less-complex physical state
 - social physics is like a (macrocosm) of biophysics
 
-## A Typology of Occupations
 
-#### A typology of jobs from a social physics perspective
 
-- how to choose an occupation based on maximizing social physical
-  preferences:
-  - targeted demographic,
-  - varied demographics,
-  - more control over dynamically targetable demographic,
-  - high flux of particles/people
-  - highly varied flux of particles/people
 
-#### Objectives Someone Might Want to Achieve Via Their Occupation
 
-- limit total social exposure over time
-- develop their own social graph
-- encounter local graph flux
-
-#### Example Jobs to Delineate
-
-- MC/DJ
-- Event Coordinator
-- Wedding Planner
-- Prison Guard
-- Barkeeper
-- Cop
-- Talk Show Host
-- Cook
-- Teacher
-- Pastor
-- Narc
-- Office (customer facing and not)
-- Production Engineer
 
 ## Discussion of Schematic Complexity
 

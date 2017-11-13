@@ -339,11 +339,11 @@ supplied from outside -- North Korea has left itself not unlike a
 nation lacking ships to engage in maritime trade. Paranoia of
 imperialism indirectly contributes much of NK's isolation. Even if it
 does pull off being a pawn for initiating nuclear war, that only means
-NK will be isolated even more. North Korea needs to come to the negotiation
-table and we need to sort this out. The first thing that must happen
-is total nuclear disarmament and the rest of the world is infuriated
-that NK leadership expected to use nuclear weapons as bargaining
-chips.
+NK will be isolated even more. North Korea needs to come to the
+negotiation table and we need to sort this out. The first thing that
+must happen is total nuclear disarmament and the rest of the world is
+infuriated that NK leadership expected to use nuclear weapons as
+bargaining chips.
 
 <a name="north-koreas-strategy-never-had-an-endgame" />
 
@@ -604,7 +604,7 @@ anyone know where you are? Is your behavior going to influence someone
 else's behavior? No. Without internet, your impact on the shared field
 of attention is nearly zero.
 
-#### Semblable Magnetism Aligns The Orientation Nearly Every Fan's Field of Vision To The Center of Action
+#### Semblable Magnetism Aligns The Orientation Of Nearly Every Fan's Field of Vision To The Center of Action
 
 ![Hockey Stadium](/img/posts/2017-10-30-speed-of-thought-sociophysical-postulates-1-to-11/hockey-stadium.jpg)
 
@@ -642,9 +642,9 @@ known.
 
 The importance of sociohierarchical structures has always entailed the
 use of logical, non-physical components to strategize or anticipate
-sociophysical phenomena. These topologies, either fully or partially
+sociophysical phenomena. These topologies -- either fully or partially
 derived from logical relationships between people, groups, or other
-nodes, form fields where the energy mechnics operate like electrical
+nodes -- form fields where the energy mechnics operate like electrical
 circuits. These form emergent logical topologies, where the social
 graph might be overlayed onto physically interacting particles.
 
@@ -935,7 +935,7 @@ History, as the collective narrative we all share, is under seige by
 disinformation run amok on superconnected networks. Socrates said myth
 should be structured so that the younger generation's conception of
 the world is shaped by the heroes they look up to. If history instead
-becomes a weapon of information warfare, then this hurts ever nation
+becomes a weapon of information warfare, then this hurts every nation
 and group. It creates a situation where there is no shared
 understanding of the past.
 
@@ -1047,22 +1047,23 @@ agents in the system or about information they have access to.
 
 When these logistic process structures involve stringent secrecy,
 coverups of mistakes, distortion of information and amplification of
-disinformation, this work sometimes or in most cases. Sometimes these
-factors contribute to a system blinded to parts of itself, increasing
-the likelihood of undesirable
+disinformation, this may work sometimes or in most cases. However,
+sometimes these factors contribute towards a system being blinded to
+parts of itself, increasing the likelihood of undesirable
 [Black Swan events](http://www.investopedia.com/terms/b/blackswan.asp). Not
 all [Black Swan](https://en.wikipedia.org/wiki/Black_swan_theory)
-events are negative, but since it is their poorly definition which
-causes them to escape undetected as randomness, then might the
-amplification of disinformation suppress the recognition of an event
-signature that would have otherwise never been a Black Swan?
+events are negative, but since it is their ineffability and poor
+definibility which causes them to escape undetected as randomness,
+then might the amplification of disinformation suppress the
+recognition of an event signature that would have otherwise never been
+a Black Swan?
 
 The tendancy to amplify beliefs & perceived beliefs to encourage
 consensus, discourage divergent beliefs & behavior, can render the
 system simpler to understand and easier to manage, yes. However, the
 system does not exist in isolation, nor is it wise to believe you can
-covertly operate on the sociological organization, as though your
-secrecy can be post-justified as variable control.
+covertly operate on the sociological organism, as though your secrecy
+can be post-justified as variable control.
 
 <a name="spectral-coherence-of-knowledge-information-and-agent-context-strongly-influences-conceptualization-and-anticipation" />
 
@@ -1084,7 +1085,7 @@ our fallibility and susceptibility to the seven deadly sins will
 foment conflict at a time of exponential turbulence. This simply means
 we need to think about who we are and collectively decide on how our
 culture should transform. If we do not architect artificial feedback
-loops for antifragile constraint difficult problems like these,
+loops for antifragile constraint of difficult problems like these,
 instability may become rampant.
 
 At a minimum, spectral coherence of information is fundamentally

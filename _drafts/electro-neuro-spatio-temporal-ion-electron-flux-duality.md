@@ -163,3 +163,24 @@ excerpt: ""
   - there are some mechanisms that have been studied. the theory about
     quantum state being encoded into microtubules seems promising.
 
+
+
+
+#### Notes on cognition/metacognition
+
+- trying to figure out things like this is why i work so hard to learn
+  neurology, psychology, sociology, and neuropharmacology
+
+seriously felt in the zone that night. it was like my mind functioned
+better than it has since high school. particularly, language skills
+and cognition around queueing speech while speaking, which i've never
+noticed myself doing.
+
+occasionally, my mind's awareness of itself notices a seemingly
+limitless expansion in the range/quantity of
+words/concepts/abstractions that are immediately accessible, both
+consciously and unconsciously. this is when i'd say it works well, but
+like +90% of the time, this range/quantity is contracted. it's like i
+have to consciously drive most information retrieval and conjugation
+(for grammar, expression, executive function) that should instead be
+completely unconscious...

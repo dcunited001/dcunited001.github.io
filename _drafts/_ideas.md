@@ -484,6 +484,75 @@ the government will
   - voting machines can be rigged in seven minutes or less
 
 
+### Combat Poor Democratic Processes Via Well Coordinated Social Media Amplification
+
+- the idea -- completely circumvent the *process* of any national,
+  transnational, internation governmental organizations:
+  - with a universal "protocol" for "voting" over social media.
+    - it's universal and *it's simplicial*. it must be that it
+      provides an alternative mechanism for referendum -- effectively
+      and without question in it's reliability/etc
+  - it's a protocol that is so easy to teach, easy to discover, easy
+    to participate in that, assuming:
+    - (1) the telecom/internet infrastructure is in place
+    - (2) identity has already been verified and can be trusted
+    - then this protocol can be used to get worldwide feedback on a
+      small number issues every day.
+
+- basically, you propgate the idea that there is one multiple choice
+  national or global issue per day. if you care about it, you "vote"
+  with a social-media post that contains a hashtag (and perhaps an
+  identifier or something)
+  - the difference b/w this and any normal tweet storm is that there
+    is an agreed upon time for *everyone* to tweet their answer at the
+    same time
+  - in effect, this hacks newsfeed/socialmedia algorithms to
+    prioritize this issue and the response for it.
+    - the response structure also contains some information
+
+- it would mostly be used to get newsfeed algs to promote the people's
+  message, with the ultimate goal being to increase dialogue on
+  whatever topic the idea is about.
+
+- for authenticity and authority of this decision:
+  - *for authenticity:*
+    - because the time range to post is limited to 5 minutes
+      (nationally or globally), this sorta implicitly limits the
+      effect that bots can have
+    - it is assumed that the verification process for social media
+      provides some measure of authenticity, though that's not perfect
+      - over time, especially if 3D facial recognition is used to
+        guarantee current identity, then the notion of authenticity
+        becomes much stronger
+    - the protocol stresses unique responses. so the spectrum of
+      words/grammar/semantics in responses can be used to measure
+      authenticity
+      - along with possibly some short md5 hash
+  - *for authority:*
+    - it's assumed that any authority is conveyed by the effect of
+      millions of people posting at the same exact time
+      - there is no organization other than the people who get people to
+        care enough to schedule a tweet/post
+      - there is no official democratic process centered around this.
+        - you just either do tweet or you don't tweet
+            - no one blocks you out. no funding process to get the
+              referendum on the ballot.
+              - *NO MONEY REQUIRED*
+              - (... except to get the information out about it)
+    - so, the authority of this mechanism is balanced against any
+      shortcomings in authenticity (lack of validation), availibility,
+      etc
+
+
+
+- See these tweets:
+  - https://twitter.com/dcunit3d/status/913966236182155264
+  - https://twitter.com/dcunit3d/status/913966600407126016
+  - https://twitter.com/dcunit3d/status/913967322045526016
+
+
+
+
 #### how liberals are abusing mob tactics to stifle discussion online
 
 - put this in parapets?
@@ -635,17 +704,17 @@ happening to stop it.
   - e.g. generally prefer to avoid conversations with david, if at all
     possible. (the flipside of this is that it limits my desire to
     engage in conversations)
-  - e.g. do not budge on anything. the stakes are high (apparently)
+- e.g. do not budge on anything. the stakes are high (apparently)
   - so, anytime i ask for something, there are about 6 tactics i find
-    employed against me, which strain the relationship and make me
-    feel like i should rather not ask for anything at all.
-    - this stands in contrast to the simplicity of many suggestions i
-      have described for:
-      - (1) improving my social life
-      - (2) improving the efficiency of processes related to a project
-      (app or startup)
-      - (3) helping me find other people who can help me on a project,
-        distract me from my pain, etc.
+  employed against me, which strain the relationship and make me
+  feel like i should rather not ask for anything at all.
+  - this stands in contrast to the simplicity of many suggestions i
+    have described for:
+    - (1) improving my social life
+    - (2) improving the efficiency of processes related to a project
+    (app or startup)
+    - (3) helping me find other people who can help me on a project,
+      distract me from my pain, etc.
 
 
 ===============
