@@ -16,6 +16,69 @@ excerpt: ""
 - [Picture for Geometric Mechanics]
 
 
+- TODO: use Graph-Theory version of Gauss-Bonnet (from Oliver Knill's
+  paper) to provide an example of a potential basis for
+  information-geometry and information-physics (essentially,
+  metaphysics)
+  - this isn't perfect but the structures in the paper did provide me
+    an excellent basis for conceptualizing "information geometry" and
+    "information physics" where before I was simply thinking
+    "incomprehensibly vast, self-similar graph-like things"
+  - mostly G/B's definition of 2D graphs -- expanded to some
+    dimensionality or abstract notion thereof that is ideal for
+    metaphysics
+    - is this related to E8 somehow?
+      - E8 is what it is because it is the *only* lattice solution as
+        "root" or as "pure" as it is -- for any dimension except 24,
+        where there is one that essentially parallel's E8's ability to
+        provide a great deal of flexibility in integral/algebraic
+        number systems
+      - so ... yes ... perhaps?
+  - the lattice/graph structures (and domains) defined in the G/B
+    paper by Oliver Knill are closer to ideal (from an
+    interconnectedness or flexibility perspective) when the networks
+    of sphere-graphs on the graph interlink -- essentially
+    overlapping)
+  - if you want to model all information *perfectly*, there should
+    be some *simplicial* self-similar structure related to the
+    structure of lattices like E8, where its degrees of recursive
+    self-similarity form *the(?)* basis for:
+    - ... something foundational without a doubt
+    - Universal Algebra(?)
+    - Leibniz's Charicteristica Universalis
+
+- almost all the concepts reviewed in the first page or two of oliver
+  knill's paper about combinatorial hopf algebra's also seem very
+  relevant
+  - enumeration of primary simplicial complexes "indexed" to some
+    intermeshing lattice structure that interrelates all simplicial
+    complexes (probably through a ??? Hopf something, lulz)
+    - this probably drills into the "chromatic" concepts that are
+      mentioned (if they provide metrics overtop spectral
+      understandings of graphs... i really have no idea)
+  - the point is, there must be structures that interrelate all
+    possible structures, as well as algebraic represenations of them
+    and all the possibles ways to mutate b/w them or intermesh them
+    - this all must -- or maybe *should* -- hook into some kind of
+      lattice or something, where everything becomes
+      accessible/interelatable as part of the fabric of the same
+      shared spaces
+
+- how to relate this stuff to holonic representations of
+  information-forms?
+
+- (*THIS* is precisely why i'm so interested in papers like these)
+  - if there is some certain structure for modeling the metaphysical
+    -- which results in gradual/sudden consequences dependent on
+    factors such as immediate/eventual computability -- then how
+    does that impact how the singularity unfolds?
+    - particularly, how does it impact how people adapt culture and
+      society to the conclusions here? (especially if it might mean
+      that subjectivity is immediately/gradually rendered irrelevant)
+  - one such change involves expanding/contracting cultural artifacts
+    to either inflate/deflate the amount/structure of information
+    related to human life (to )
+
 [^neutral-nets-in-sequence-space]: [Biophysics of protein evolution and evolutionary protein biophysics](http://rsif.royalsocietypublishing.org/content/11/100/20140419.figures-only) (2014)
 
 ![Many overlapping neutral nets in sequence space]()
