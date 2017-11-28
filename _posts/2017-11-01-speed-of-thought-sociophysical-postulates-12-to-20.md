@@ -37,9 +37,121 @@ excerpt: ""
 - https://en.wikipedia.org/wiki/Uniformitarianism & the ablation of
   causality
 
+- math ideas
+  - "K curve" for estimating speciation
+
 - social physics &#x8855; demographic stratification of children by
   age through childhood and adolescence.
   -
+
+### Intro(?)
+
+- over the course of thousands of years, elites (needed to understand)
+  social physics and statistics to rule/manage people. modern man
+  presumes mathematic insights from chemistry, thermodynamics and
+  (...?) certainly must have eluded our ancestors.
+  - over the past two centuries, technology has tucked away
+    the former complexities of:
+    - agrarian life
+    - (life w/o communication)
+
+  - so we don't understand the problems our minds addressed in those
+    eras, without any efficient communication methods.
+    - before the renaissance, Western technology had not hit a
+      critical mass required to facilitate rapid technological
+      advancement
+    - prior to industrialization, the means of production were bounded
+      by the economies of scale associated to labor in particular.
+      - anything and everything produced required many manhours
+    - almost any skill/occupation/activity involved inefficient
+      communication/logistic processes, where usage/anticipation of
+      time was as (paramount) as redundancy and mitigation of
+      unknowns/externalities.
+      - these people couldn't buy butter at the grocery store
+
+- semioteleologically, through engagement in cultural activities
+  requiring more flexible, rigorous, & total utilization of the wider
+  population's cognitive skills, this means people would begin to
+  intuitively reapply patterns/ideas from trades & skills to other
+  areas
+  - since they engaged in these trades/skills in fundamentally
+    different ways (.. contrast with modern work)
+    - they would develop intuitionalized means of understanding
+      individual or recurring phenomena in various skills/crafts
+      - over the course of someone's life they would developxs an
+        individualized construction of knowledge, without need for
+        scientific method or proof. they might never understand
+        precisely *how* phenomena correlated to one another as they
+        did, but they would try to understand *why*
+      - in the process of doing so, the would develop intui
+      - also esotericized means of...
+
+- as for these esotericized methods of passing down information,
+  - the true intended insight imparted by (rituals) would be
+    occasionally lost, recovered or arbitrarily mutated.
+    - if this period of (ambiguous meaning) for some ritual/insight
+      became protracted
+  - events incredibly disruptive to the preservation of culture were
+    more common and more total.
+
+
+- one of the most important crafts has always been management and
+  leadership. for the ruling class to manage their affairs and appear
+  as though they might have God-like wisdom, they needed to use
+  statistics and math.
+  - this knowledge, the actual extent of which is impossible to know,
+    would be masked by constant inundation: intentional
+    disinformation, superstitional misinformation, etc
+  - it would almost certainly avoid being recorded on stone &
+    metalwork.
+  - other profoundly useful insights from which one develops
+    understandings of mathematic concepts from physics, chemistry,
+    (and others) -- is social physics
+    - however, they would only form intuitions about these phenomena,
+      the form of which would be:
+      - reasoned about through visual images and metaphor to perceived
+        phenomena (especially from work, agriculture, music
+        (harmonics), etc)
+      - where these images/myths would be preserved symbolically
+        through myth
+
+- natural signs/phenomena are some of the most powerful means of
+  developing an understanding of
+  - even to someone devoid of writing, the natural world itself is
+    full of information about nature. if you truly know natural
+    phenomena, you need only look around and you see physics, math,
+    biology, chemistry, etc everywhere
+  - but it appears in a totally different manner
+    - the gradient manifests itself everywhere in the natural
+      world. everywhere. you don't need to know what it is to
+      understand how the essence of the phenomenon of gradual
+      change over space and through matter is incredibly relevant
+    - fluid dynamics also manifests itself everywhere. look at the
+      ripples on the surface of a creek with fairly stable fluid
+      flow patterns
+      - in order to model these patterns, you need 3D FFT(?) along
+        with differential equations that preserve the
+        regional/global volume flux (L/s) and variance in flux
+        (L/s^2) over time, while accounting for subtle fluid
+        dynamics forces
+  - in medicine, the gradient and fluid flow in the body are
+    incredibly important for understanding local changes to the body
+    - ancient people couldn't quantify or measure much of anything and
+      were cursed by superstition
+    - (discuss Ayurvedic and Chinese medicine)
+
+- {where? intro?} emphasize that the only way to predict social
+  behavior in todays world is by proactively driving patterns of
+  behavior
+  - so, everything is hopelessly incomputable and can't be modeled. in
+    spite of that, proactive tactics can make social networks more
+    predictable.
+    - but because of adversarial dynamics driven by game theory,
+      influential groups struggle to signal over networks to
+      proactively drive behavior and can cause the system to become
+      unpredictable in ways that can't be predicted...
+
+
 
 ## [Postulates of Sociophysical Systems](#postulates-of-sociophysical-systems)
 
@@ -98,45 +210,58 @@ excerpt: ""
 
 To anticipate flow of energies in sociophysical circuits, especially
 with n-phase oscillation and multi-energy transductions, one must
-develop recognizing recomposed signatures of deconstructed dynamics in
-chaotic sociophysical systems. This idea for recognizing "signatures"
-of behavior in programmatic chaotic systems like genetics or social
-physics, is briefly described in
-[Awareness Precipitates from Order Out Of Chaos](/posts/2017-09-14-awareness-precipitates-from-order-out-of-chaos.html). These
-"signatures" are key to pattern recognition of toxic social or
-financial behavior, when any specific pattern itself would be
-uselessly singular if effable. Effective actors will always seek to
-elude or deceive, regardless of their intent. Also, towards operating
-in an environment like this, the mimicry or tactical recomposition of
-these deconstructed energetic dynamics is necessary for coordinated
-strategy.
+develop methods for recognizing, interpolating and inferring
+representations of deconstructed dynamics in chaotic sociophysical
+systems.
+
+Briefly described in [Awareness Precipitates from Order Out Of
+Chaos](/posts/2017-09-14-awareness-precipitates-from-order-out-of-chaos.html),
+these
+
+programmatic chaotic systems like genetics or social physics, is
+briefly described . These "signatures" are key to pattern recognition
+of toxic social or financial behavior, when any specific pattern
+itself would be uselessly singular if effable. Effective actors will
+always seek to elude or deceive, regardless of their intent. Also,
+towards operating in an environment like this, the mimicry or tactical
+recomposition of these deconstructed energetic dynamics is necessary
+for coordinated strategy.
+
+- connecting these "representations" with the idea of [Root
+  Systems](https://en.wikipedia.org/wiki/Root_system)
 
 #### A Similar Concept From Computational Geometry: Functional Maps for 3D Object Comparison[^functional-maps]
 
-![Functional Maps for 3D Object Comparison](/img/posts/2017-10-21-speed-of-thought-twenty-postulates-of-social-physics/functional-maps-for-3D-object-comparison.png)
+![Functional Maps for 3D Object Comparison](/img/posts/2017-10-31-speed-of-thought-sociophysical-postulates-12-to-20/functional-maps-for-3D-object-comparison.png)
 
-- connecting Tensor-based models together with the following tools
+- connecting Tensor-based models together with the following
+  tools. reference paper on tensor decomposition for time-series
+  [^tensor-based-decomposition]
+  - (representation learning) Recognition of Potential Algebraic
+    Structures via Learned Tensor Decomposition
 
+#### &#x2605; Tensor Decomposition and Representation Learning For Time Series
 
-#### &#x2605;
+#### &#x2605; Algebraic Convolution onto Decomposed Tensors of Representation
 
-#### &#x2605;
+#### &#x2605; Laplacian and Spectral Values Over Time
 
-- (representation learning) Recognition of Potential Algebraic Structures via Learned Tensor Decomposition
-- Tensors, Gradient and Laplacian
-- Convolution of Algebras
-- Hyperspectral Analysis
-- stochastic calc
+#### &#x2605; Hyperspectral Analysis
+
+#### &#x2605; Stochastic Calculus & Ising Models
+
+- with stoch. calc.
+  - Utilizing inference via expectation to improve efficiency of calculations
 
 Given a simplified model of a sociophysical or financial system
 
-- you can be
 - tie algrebraic convolution of values in the above to a model for
   hyper/spectral analysis which can be further convoluted with
   gradient/laplacian
   - (assuming the heatmap values map to edge activation values {?})
   - what kind of tensor products construct something like this and
     what maps tie these algebraic convolutions together?
+
 
 - laplacian of these flows and their aggregates, geographically &
   logically, indicate intent {cut?}
@@ -158,10 +283,11 @@ Given a simplified model of a sociophysical or financial system
 
 #### Parallel, Anti-Parallel and Orthoganal Coupling In Motion Towards The Attainment of Equilibrium Unveils Nearly All Deception
 
-- someone with a goal in mind will tend to move TOWARDS or AWAY from
+- someone with a goal in mind will tend to move *TOWARDS* or *AWAY* from
   it when signalling. if they don't feel the need to deceive you, they
   won't fake you out by amplifying signal that conveys moving AWAY
   from some intended area of equilibrium
+  - someone clever will move *AROUND* (orthogonally to) the objective
 - someone who lacks an agenda or with few goals will exhibit something
   like brownian motion extended to these high-dimensional spaces
   - there is little intentional motion or it's clear to see they are
@@ -186,6 +312,71 @@ Given a simplified model of a sociophysical or financial system
         contrast between that truth and the sea of disinformation
         gives you the smoke that indicates fire
 
+- transition from discussing the methodical high-dimensional
+  characterization of behavior to discussing identification,
+  stratification, & etc of equilibria as resources
+  - once you know where someone intends to go, it becomes much simpler
+    to put their words/actions/behavior into context
+    - in other words, their motion along (high-dimensional surfaces)
+      becomes much easier to place into context and understand
+      qualitatively
+
+- overwatch analogy: *get on the point*
+  - the point is the objective. when you know the point, you know your
+    enemy's destination. if you place yourself at the point, you are
+    going to be targeted and thus, the next questions: from which
+    angle is the attack going to present itself and which paths lead
+    to each angle of attack
+  - if your personal goal for the season is to increase DPS for a
+    high-damage, non-support character, get yourself on the point and
+    wait. when there's no enemies approaching, navigate the
+    path-neighborhood close to the point until you find potential
+    sources of DPS
+  - to me, overwatch is interesting because of the dynamic of DPS vs
+    Alt-Charging. it's not simply the damage you do, but the inverse
+    (the damage enemies do) also impacts the outcome of the game in
+    more ways than simply your time-out when respawning.
+    - even though its far from realistic, the impacts to strategy from
+      dps-vs-alt add depth to both to the game and the metagame
+
+- application of a resources-oriented mindset
+  - (is there an official name for this?)
+    - explore Jominian vs. Clauswitzian mindsets with regard to this
+      specifically.
+      - in the jominian view, these resources are critical to the
+        geometry of your force-projection.
+        - this is more useful to understanding the short-term effects
+          on the conflict and both your enemies ability to operate and
+          necessary reactions to continue operations.
+      - in the clauswitzian view, these resources form the basis for
+        moreso long-term effects, some of the most important of which
+        are effects that last decades.
+        - in this view, you wage conflict to achieve specific
+          effects. there are many ways to get there and they vary
+          along many lines: in effectiveness, in efficiency, in their
+          quality.
+
+  - To me, my friends and my adversaries, what are my resources and
+    what is the value of each?
+  - what paths are available to obtaining these resources?
+    - i.e. what options are there?
+  - in cyberwar, this is an effective high-level approach to modeling
+    defense in spite of the obfuscation of an offense.
+    - it doesn't matter how your enemy reaches your resources. what
+      matters is that they do.
+    - so you know, regardless of where they come and how they get
+      their, they are coming for what you need or consider valuable.
+  - depending on their intent, desire and need to attain/destroy your
+    resources, in some circumstances, it is more efficient offensively
+    to present yourself to your enemy directly, so you can limit the
+    number of paths they will take to reach you.
+    - in this context, i reference paths both in the literal physical
+      sense and the metaphorical sense
+    - but if you choose this tactic, be prepared for a fight. your
+      only advantage is that you know that you will be where they are
+      going.
+
+
 <a name="whether-cognizant-nearly-all-attach-their-behavior-thoughts-and-identity-to-equilibria-in-social-games" />
 
 ### &#8855; &#8710; &#8968;xiii&#8969; [Whether Cognizant, Nearly All Attach Their Behavior, Thoughts and Identity To Equilibria In Social Games. When Unattached To Sociophysical Equilibria, Our Energy Becomes Trackless, Formless and Incomprehensible To The Unconscionable.](#whether-cognizant-nearly-all-attach-their-behavior-thoughts-and-identity-to-equilibria-in-social-games)
@@ -199,6 +390,11 @@ Given a simplified model of a sociophysical or financial system
 
 #### Equilibrium and Intended Equilibrium
 
+- identifying equilibria and intended equilibria
+  - to what ends does someone invest their energy?
+  - do they stop once they reach it?
+  - are they direct about it? or do they distract you with an overt
+    goal, while they truly seek some other goal?
 
 #### Stasis of Equilibria
 
@@ -338,7 +534,14 @@ Given a simplified model of a sociophysical or financial system
     - this is usually (...always?) best done by minimizing your
       informational footprint.
 
-<a name="the-evolutionary-dynamics-of-social-physics-build-upon-antifragility-and-the-ideas-of-programs-in-chaos" />
+#### While Visually Similar to The Folding Funnel, The Structure of
+      Dante's Inferno Functions as the Opposite, With Infinitessimal
+      Probability of Someone Reaching the End
+
+![Dante's Inferno]()
+
+<a name="the-evolutionary-dynamics-of-social-physics-build-upon-antifragility-and-the-ideas-of-programs-in-chaos
+
 
 #### &#8855; &#8710; &#8968;xiv&#8969; [The Evolutionary Dynamics of Social Physics Build Upon Antifragility and the Ideas of Programs in Chaos](#the-evolutionary-dynamics-of-social-physics-build-upon-antifragility-and-the-ideas-of-programs-in-chaos)
 
