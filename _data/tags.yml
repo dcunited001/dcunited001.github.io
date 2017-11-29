@@ -89,8 +89,8 @@
   :name: Food
 - :slug: yoga
   :name: Yoga
-- :slug: hackatons
-  :name: Hackatons
+- :slug: hackathons
+  :name: Hackathons
 - :slug: medicine
   :name: Medicine
 - :slug: bullying
@@ -195,3 +195,5 @@
   :name: Civil Disobidence
 - :slug: social-physics
   :name: Social Physics
+- :slug: chaos
+  :name: Chaos
