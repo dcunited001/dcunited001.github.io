@@ -333,6 +333,119 @@ defined in infinitely many ways.
         physically escape.
 
 
+# Social Physics and Machine Learning
+
+- [VAIN: Attentional Multi-agent Predictive
+Modeling](https://research.fb.com/publications/vain-attentional-multi-agent-predictive-modeling/)
+  - summarize how social interactions are modeled in this paper
+  - for inferring direction of soccer players' attention, does VAIN
+    method take into account the difference between head orientation
+    and momentum? (yes)
+    - this isn't stated in the paper. the features are all handled
+      fairly homogenously. still, the statistical ML method should
+      cause *correlation* b/w head orientation & momentum to emerge...
+  - the paper also mentions the idea of adding a RNN (recurrent neural
+    network) to leverage several frames of data in the generation of
+    output
+    - adding this means the algorithm should then take into account
+      fast/slow changes in heading.
+      - for patterns of heading to become significant, the full 20hz
+        SVPP dataset would need to be used, but these should be very
+        significant.
+    - by adding an RNN, i hope that the algorithm implicitly gains a
+      better understanding of how players direct their attention by
+      inferring via heading, momentum and (direction of momentum -
+      heading)
+      - this can be done using the GPU to render particle systems
+        where player's action on the shared field of attention is
+        rendered as a simple shape with gradient
+        - some GPU blending optimizations dramatically speed this up
+          for high-count particle systems (like *advanced*
+          programmable blending ... not "programmable" blending)
+        - multiple color channels, texture arrays for essentially more
+          color channels, allow higher-dimensional data to be encoded
+          and operated on in parallel
+          - e.g. color channels for p1...p22 in P, and one each for
+            P(x)P
+            - ... yeh that expands tetrationally, but having that many
+              color channels isn't necessary
+        - for each color channel, find the maximums, then collapse the
+          maximums into a list (using thrust::scan() on the GPU)
+          - these are points of interest. higher-order sociophysical
+            structures (like graphs) can now be inferred on top of the
+            purely physical structures
+            - the generation of this logical layer is highly specific
+              to the activity and so are the design of computable
+              algorithms to provide these higher-level data
+
+  - other [probably incomputable] aspects for sociophysical sports
+    simulations
+    - sudden increases in ball velocity are correlated to changes in
+      heading and (shortly thereafter) momentum
+      - therefore, this changes a moreso macroscopic shared field of
+        attention
+    - multiple energy functions to measure how well the space is
+      covered/blocked
+      - correlate this to path finding through open spaces... which
+        requires perfracted inferences (p1 must infer p12's spread of
+        likely position changes)
+        - path-finding in this situation touches on the
+          "connectedness" of spaces (this is similar to conditions for
+          reimannian manifold, but some areas of the field are
+          "harder" to get to, not impossible)
+        - path-finding through open space on the attention field
+          (rendered to RGBA) is like a kind of gradient descent where
+          you choose to pass or decide on which areas of the field to
+          move to based on whether the home/away team has more or less
+          control over that section of the field
+      - rendering to multiple color channels and using morphology will
+        be useful here
+        - render attention fields for:
+          - R: home^2,
+          - G: away^2,
+          - B: (home - away)^2
+          - A: (home + away)^2
+        - then players will gravitate towards and pass the ball
+          through the gradient of (home - away)
+        - morphology allows you to extrapolate the field to
+          accommodate for potential field changes over time
+          - open/dialate (but not just grayscale, use literal gradient
+            to calculate how far the field changes)
+    - configuration entropy & conformation entropy
+      - deconstruct abstracted representations of soccer player
+        interactions on the micro scale
+        - 1on1: p1 has no momentum and p12 has a lot
+        - 1on1 w/ goalie
+        - 2on1: p1/p2 interact to overcome p12
+      - by deconstructing configurations and comparing against
+        config/conform entropy, algorithms can recognize the outcome
+        to the micro of soccer interactions
+
+
+#### CommNet/IN/VAIN for logically defined networks
+
+- carry the methods from the VAIN paper over to logically defined
+  networks (i.e. Facebook Graph)
+  - extending the soccer example to a social graph for FB users:
+    predict the next connections that people will leverage with
+    interaction based on social/net/etc
+    - based on what they are seeing now, the algorithm tries to
+      predict their next interaction
+    - consider (screen coverage (cm2) * time) ... probably won't
+      correlate well
+
+- similar to the VAIN algorithm above, the social media users have
+  "motion" and "position" and "heading" but altered for virtual
+  networks
+
+- problems of scale when modeling superconnected online communities
+  - can't see the whole graph (can barely see any of it) ... expand
+
+
+
+
+
+
 # Equilibrium, Gradient and Laplacian in (poorly defined) Sociophysical Games
 
 
