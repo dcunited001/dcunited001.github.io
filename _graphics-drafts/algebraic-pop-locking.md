@@ -99,7 +99,7 @@ graphics_ui_layout: "graphics/2017-06-29-animating-the-gradient.html"
   - these symbolic representations should be mappable to forms that
     are actually human-recognizable and human-comprensible symbolic
 - a measure of general/specific complexity of body forms and body
-  motions.
+  motions
 
 # Discrete Differential Geometry and Pop Locking
 
@@ -114,7 +114,8 @@ graphics_ui_layout: "graphics/2017-06-29-animating-the-gradient.html"
       functional math to a 3D mesh and skeleton and produce functions
       that enable you to move it rhythmically
 
-
+- look up [Discrete Exterior Calculus]() for info on how to generate
+  domains for body (parameterization/indexes/etc)
 
 ### Combinatorial Generation of Involutes in the Configuration Space
 
@@ -250,11 +251,39 @@ graphics_ui_layout: "graphics/2017-06-29-animating-the-gradient.html"
 
 ### Martial Arts Styles Usually Incorporate Energy Minimization/Conservation/Focus
 
+> "Be Water, My Friend..." -
+
 - fighting style in martial arts, as it relates to the minimization of
   energy.
   - when and how does the aesthetic of the minimization of energy
     present itself in a fighting style?
 - here, i mean physical energy minimization
+  - usually high deformation translates into high dirichlet energy
+
+### (Maybe it's own section)
+
+- in poplocking, when you are low to the ground, you have higher
+  potential for dirichlet energy and higher dirichlet "work" over
+  time. for two reasons, at least:
+  - you have a greater potential for relative or absolute movement of
+    any joint/limb
+  - to move at all, you have
+
+- (dirichlet energy is always positive because it's based on an
+  integral of non-negative numbers or norms)
+
+- higher expression of dirichlet work -- i.e. work or, if considered
+  in a sociophysical sense, a change in momentum
+  - almost
+
+- it's tough at first and requires more physical energy expenditure,
+  but:
+  - (1) most body positions provide a good base to balance for
+    isolations
+  - (2) you have to be more creative, more technical and, most of all,
+    more confident in your movements
+
+- however, it's easy to overuse it and it's often overly abstract
 
 ### With Poplocking/Dancing, The More Physical Energy, The More Expressive You Can Be
 

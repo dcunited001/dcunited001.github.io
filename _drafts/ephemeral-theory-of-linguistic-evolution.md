@@ -114,6 +114,24 @@ would even dictate the functional
 
 ### Misc Linguistic Ideas:
 
+
+- for some langauges and regions, names are often found in the space
+  of phoneme combinations without associated morphemes.
+  - the set of most frequent names over time should have several
+    factors influencing it's evolution, including:
+    - innate propensity for some change over time
+    - when names penetrate a new area/culture, they may be slightly
+      changed to match the set of phonemes used, an accent/dialect, or
+      in response to morphemes in that language/region
+  - not many areas have well-kept population records, especially
+    further back in history. however, there may be some inferences
+    that can be made based on the set/distribution of names and the
+    set/distribution of morphemes/phonemes in languages.
+    - the spread of different names through adjacent cultures may
+      signify the strengthening of a relationship.
+  - it's definitely an interesting idea. i don't know how to acquire
+    the data for the research in correlation b/w older languages and
+    names.
 - controlling/guiding linguistic evolution by observing the laplacian
   (or gradient) of morphemic change with respect to specific social
   groups or dialects
@@ -322,7 +340,7 @@ would even dictate the functional
     cared to question the business model (it's intellectual property
     and improvements on voice search)
 
-#### abstract usage of phonemic elements purely for their texture & rhtymic qualities
+#### abstract usage of phonemic elements purely for their texture & rhythmic qualities
 
 - with computationally generated/transformed lyrics that preserve some
   hidden meaning (or perhaps create some unconscious meaning in those
@@ -1065,9 +1083,4 @@ these specific aspects are desirable:
       necessity, they are not.
   - so, the paradox is that, to use norms to signal, you have to
     propagate the norm
-    - .... 
-
-
-
-
-
+    - ....

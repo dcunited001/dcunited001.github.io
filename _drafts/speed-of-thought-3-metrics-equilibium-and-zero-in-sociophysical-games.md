@@ -683,10 +683,212 @@ Modeling](https://research.fb.com/publications/vain-attentional-multi-agent-pred
 
 
 
-
 # Zero in Social Physics
 
+### Zero and Sparse Matrices (the implications for Probabilistic Models
+
+
+
+
 ### *~* You are the five people you spend the most time with *~*
+
+
+
+
+
+
+### Decision Model Inference & Manipulation
+
+- consider types of events where people widely share similar decision
+  models. These decision model may have structural similarities that
+  overlap and if enough people share the same model, it is easier to
+  draw generalizations.
+  - think of these decision models as representationally generated
+    *flow charts* (yeh, assume it's automatic where AI builds a
+    massive 4,000,000 node flowchart as the output for your decision
+    model for buying a car)
+
+  - before i start flinging around halfway-made-up terms like
+    "component metatype", four examples for that in this context that
+    are dead simple:
+    1. Money
+    1. Driver's License
+      - if you don't have a driver's license, you can't drive without
+    1. Car
+        - if you don't have a car, you can't drive without internalizing
+          other factors into your decision making calculus.
+   1. Social Network (Physical/Logical Access, Connection and Energy to Project)
+    risking legal consequences.
+
+  - assume a bayesian network modeled as a DAG models these "decision
+    model" and that the DAG's structure emerges from the product of
+    some core graph `Gc`, along with the result of the total product
+    of component metatypes.
+    - e.g. `Gc (x) (C[1] (x) ... (x) C[m])`, where the tensor
+      product is assumed to be effectively *associative* and *commutative*
+      for the component metatypes
+      - the tensor product constructs a morphism for any graph `g` that
+        applies the structure changes for all of `C[1..m]`, producing
+        graph `G`
+  - for such a type of event, the regions overlapping among the most
+    people should contain one of many component metatypes, where the
+    presence of the metatype ensures that the DAG for the decision
+    model will include specific motifs for that metatype component in
+    it's structure.
+  - since the DAG's define the structure of large bayesian networks,
+    if you can ensure that some nodes are almost surely zero or one
+    then:
+    - if you understand the underlying patterns in component metatypes
+      shared by many people, then seemingly insignificant information
+      can sometimes clue you in to subtle inferences.
+    - some of the most valuable inferences include those indicating
+      which widely shared common decision model the person uses for
+      that event type. or more generally, which common component
+      metatypes compose a more unique decision model.
+
+- it's a bayesian network and conditionals are used everywhere, but
+  many of them strongly impact the resulting graph. These are like the
+  nodes in an [expander
+  graph](https://en.wikipedia.org/wiki/Expander_graph)
+  - ugh i just typed this section to realize that expanders require
+    connected graphs and bayesian DAG's can't be connected...
+  -
+
+#### Tangent on Expander Graphs
+
+>  "Informally, a graph is a good expander if it has low degree and
+>  high expansion parameters." - Wikipedia
+
+  - in an armchair mathematician's terms, you're balancing these two
+    things
+    - these nodes are **maximally connected** as your `dN` neighborhood
+      expands from `d = (0..n)` where `d := degrees`
+    - however, in contrast, they are also **minimally connected** in
+      that, as `dN` expands, the sum of `∑(|edges(dS)|)` is minimized,
+      where `dS := |edges(boundary(dN))|` or the number of edges into
+      of `dN`
+  - the human brain seems to have elements of the concept of expander
+    graph within it, as should any efficient information processing
+    entity (or made efficient via nature)
+    - this inference may also carry over to optimizing the efficiency
+      of information representations, in which case, there are
+      connections to DFA's, NFA's, etc, but for problems modeled as
+      graphs with extreme complexity.
+
+####
+
+- wow i know jack shit about bayesian....
+  - [correlate multinomial logistic regression and making inferences
+    on a bayesian network](https://en.wikipedia.org/wiki/Naive_Bayes_classifier)
+  - https://en.wikipedia.org/wiki/Softmax_function
+  - https://en.wikipedia.org/wiki/Multinomial_logistic_regression
+- for nodes in the bayesian graph whose result can be considered near
+  certain within some `ε`, then assume these to be true/false and
+  **properly** `sparsify` the DAG's matrix representation by setting
+  all values above `(1 - ε)` and below `ε` to one and zero,
+  respectively
+  - this gives you an effective bayesian graph, assuming all the
+    inferences you made held ... and that there's no cross correlation
+    ... shit
+  - you can still do this to `sparsify` the matrix for a bayesian DAG,
+    but while you proceed through the bayesian network, you must
+    ensure that you only prune inferences that reflect causative
+    relationships
+    - *and* that you either recompute or have some monoidal method for
+      propagating changes through the bayesian network from the roots.
+      - i.e. when you assume `p(a) < ε` and `p(b) > (1 - ε)`
+        independently imply that `p(a) = 0` and `p(b) = 1` you
+        should either:
+        - recalculate entire the network or at least the effects on
+          the next nodes
+        - set `ε := (ε - p(a))` or similar for `p(b)` ... this isn't
+          correct though.
+        - propagate monoids through the network as inferences are made
+          at each step that eventually evaluate in delayed fashion w/
+          the logic that adjusts a "sparsified" bayesian DAG's weights
+- for whatever process for "propagation of assumptions" is correct, it
+  should be possible to iterate over the DAG from the roots, and the
+  propagation should occur in a simplicial manner (where simplicial
+  implies self-referential structure)
+
+### Anyways...
+
+- given a wide range of assumptions `a = 1, b = 1`, then a bayesian
+  graph, in effect, should become more "sparse" and more "contracted"
+  in the range of outcomes (moreso the range of combinations of
+  outcomes)
+  - probably some caveats here...
+
+- the "goal" (in quotes because this is evil) if you want to confine
+  someone by totally predicting their actions, then preemptively limit
+  the "spread" of potential activations in the bayesian network
+  - in other words, you want to expend the minimum energy to exert a
+    maximal restriction on someone's options
+    - when someone's options are severely limited then, their set of
+      actions & responses is inherently limited. therefore the set of
+      `p(e) for e in Events` becomes nearly zero and `sparsable (p(e)
+      << ε) || (p(e) < ε)`
+
+#### Inferences from Modes of Transportation
+
+- so, if your target can only walk (not drive), their `p(x,y)` is
+  strongly confined to their home.
+  - some people find it easy to keep up with friends, but other people
+    are tragic workaholics with aspergers.
+    - some people have money to curry favor with friends (to
+      compensate for social vulnerability and general cluelessness)
+      and others made less than $7000 since sept 2014.
+      - this implies the people who volunteer, exchange favors and are
+        always around to help accumulate social currency
+      - however, to those who can't drive, even volunteering can
+        impose prohibitive barriers
+    - etc... etc...
+
+#### Inferences from Logical Understanding of Location
+
+- there is a logical layer of locations `l in L := location`)
+  - within ~2 miles or some reasonable distance from their home `h`.
+  - the number of options varies depending on population density
+  - if they can't easily arrange rides or public transit isn't
+    available, then their most frequented locations will be mostly
+    restricted to a subset of these options
+    - this subset is also restricted by financial options, etc, etc
+  - therefore, their `p(x,y)` is tightly coupled to
+    - `p(h) || p(l[1]) || ... || p(l[n])`
+    - viz. this person will almost certainly be found in one of these
+      locations. if it's really that bad for the target, you almost
+      don't even need GPS or the NSA.
+      - you *know* where they're going to go because they can't travel
+        go anywhere else or afford to do anything.
+  - the point is to render your target as predictable as possible by
+    ruthlessly eliminating every possible option -- *methodically,
+    mathematically and with tactical precision* -- without raising
+    their suspicion and triggering a change in their behavior.
+
+#### Inferences from disposable income
+
+- your target only has `k` in disposable income every month. this
+  further limits their options. if they make below a certain income,
+  it can be assumed that the target cannot save money and thus has
+  none saved.
+  - if the target is cut of from social connections/social
+    interactions then, this preemptively robs them of any
+    opportunities they might discover through interactions with sets
+    of 1º and 2º connections.
+
+#### Inferences from Other Social Metrics
+
+- 1-degree and 2-degree neighborhood size
+- variety in connections and interactions
+- volume in connections
+
+- flux of interactions emerging on the IRL social graph
+  - some nodes in the social graph exert more "gravity" for pulling in
+    interactions.
+
+
+
+
 
 
 
