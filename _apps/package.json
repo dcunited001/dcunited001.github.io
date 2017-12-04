@@ -5,7 +5,8 @@
   "main": "index.js",
   "dependencies": {
     "twgl.js": "^3.4.1",
-    "rstatsjs": "^1.0.1"
+    "rstatsjs": "^1.0.1",
+    "gif.js": "^0.2.0"
   },
   "devDependencies": {
     "abbrev": "^1.1.0",
