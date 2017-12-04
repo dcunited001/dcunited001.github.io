@@ -41,3 +41,19 @@ title: "Graphics Ideas"
       trained on or run on traditional image formats and probably
       needs to occur in hardware.
 
+### 4D to 3D projection
+
+### "Shape" of Rational Numbers Coloring Texture/Mesh/Points by factors
+
+- Pre/generate textures for rational numbers along with stats on which
+  factors and how many are required to generate the number
+  - also, stats on how many rational numbers each new numerator/divisor
+    contribue
+  - generate these with a shader, then have a second shader that colors
+    them or is used as input to a vertex shader
+    - so, select a shader with a hardcolored color function, or pass
+      a uniform that colors the rational numbers associated with
+      specific factors
+
+- allow user to select from multiple surfaces that the texture can be
+  displayed on, including manifolds that circumvent the need for zoom
