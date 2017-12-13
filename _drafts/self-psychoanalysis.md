@@ -11,6 +11,36 @@ excerpt: ""
 
 explain defacement of my sister's art and rationale behind it
 
+
+- assuming you borrow a car, this necessarily injects a dependency on
+  communication and scheduling with whoever you're going to borrow the
+  car from.
+          - this basically pegs every transportation need you have
+            with O(n) additional tasks by injecting the equivalent of
+            an unnecessary abstraction into your personal logistics.
+          - if you:
+            - (1) inherently weak with communication via aspergers and
+              social isolation
+            - (2) over several years of have accumulated a bad
+              relationship with the person whose car you're borrowing,
+              who is absolutely not responsible for your situation,
+
+              (practically the *only* social connection you have in
+              your hollowed out 1º social neighborhood)
+            - (3) need social interaction to improve your life, but
+              can't leave the house during the day because but
+              can't network with the right people where you live
+            - (5) you have made less than $7000 of disposable income
+              since september 2014
+          - then: you should read what i write because social physics
+            is the answer to understanding all your problems.
+            - you're probably only going to
+
+
+
+
+
+
 # main theme:
 
 ### my strongest social connections are the most toxic

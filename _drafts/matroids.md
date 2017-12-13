@@ -78,6 +78,16 @@
     cognition by deriving information from the structure of neurons &
     neural networks
 
+### Complex Linear Algebra
+
+- Representations of Equations with Hermitians
+  - And of Equations where there are multiple Hermitian elements
+  - Analogy for these Equations and their solutions as surfaces
+    similar to grids of reflective spheres
+
+- can hermitian matrices have irrational components (yes) and if so,
+  how are they qualitatively different?
+
 ### Automated Theorum Proving and Computer Algebra
 
 - permutations through truthiness of proven/unproven theorums via
@@ -808,5 +818,3 @@ phi = 1 + (1 + (1 + (1 + (...)^(1/n))^(1/n))^(1/n))
       - then it compares those to the actual signal to adjust values
         for trading.
   -
-
-

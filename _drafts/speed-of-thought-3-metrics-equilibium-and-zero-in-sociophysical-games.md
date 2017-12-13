@@ -8,7 +8,22 @@ author:
 excerpt: ""
 ---
 
+- dichotomy between data-driven coarse-grained sociophysical models
+  and the actual ground truth of individual's beliefs
+  - it's simply intractible to take into account each individuals
+    actual beliefs, so coarse-graining (from quantum physics) is
+    required to generalize
+    - but those generalizations, and particularly the extrapolations
+      they produce, are not necessarily attached to reality.
+    - the interesting philosophical question is -- how much space is
+      there between the coarse-grained models of data science and the
+      actual individuals' views/beliefs?
+      - how can this be used? generally, how can the space between the
+        computable and incomputable be used? (at least, as it pertains
+        to social phenomena)
 
+- how do coarse-grained models differ b/w quantum physics and social
+  physics (where data & beliefs are inschematic)
 
 #### {Set the reader's frame}
 
@@ -697,6 +712,7 @@ Modeling](https://research.fb.com/publications/vain-attentional-multi-agent-pred
 
 
 
+
 ### Decision Model Inference & Manipulation
 
 - consider types of events where people widely share similar decision
@@ -737,8 +753,8 @@ Modeling](https://research.fb.com/publications/vain-attentional-multi-agent-pred
     it's structure.
   - since the DAG's define the structure of large bayesian networks,
     if you can ensure that some nodes are almost surely zero or one
-    then:
-    - if you understand the underlying patterns in component metatypes
+    then:zaa
+    - if you understand the underlying patterns in component metatypeszaza
       shared by many people, then seemingly insignificant information
       can sometimes clue you in to subtle inferences.
     - some of the most valuable inferences include those indicating
