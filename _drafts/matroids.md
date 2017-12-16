@@ -13,7 +13,7 @@
   matroid. you can approximate by tapering the effect subsequent
   transformations in the path.
 
-- can graph nodes be composed together with an
+- can graph nodes be, composed together with an
   infinite number of null sets?
 - combine matroids components with the null set in various ways
 - can infinite matroids be reduced to finite matroids?
@@ -85,8 +85,32 @@
   - Analogy for these Equations and their solutions as surfaces
     similar to grids of reflective spheres
 
+- cubic/quartic hermitian & unitary matrices
+  - and the variety of surface trajectories along hermitian/unitary
+    surfaces
+
+- hermitions must lie along particular surfaces in the solution space
+  for quantum equations (this is "literally what _it_ *is*...")
+  - depending on the degree of complexity of the hermition's
+    parameters, they lie along various connected surfaces
+    - these sol'n space "surfaces" are related as part of a manifold,
+      with its own set of metrics _combinatorially generable_ per the
+      specifics of the solution space considered
+  - these surfaces of high-dimensional manifolds intersect in various
+    ways.
+    - are these connections the root of lie algebras and connected to
+      representation theory?
+    - are [some of] these manifolds "connected" spaces?
+      - that is, could they (or do they always) form the basis of
+        reimannian manifolds?
+
 - can hermitian matrices have irrational components (yes) and if so,
   how are they qualitatively different?
+  - connect to lie algebra
+  - dimensionality of hermitian matrices (nxn) and variety of surfaces
+
+
+
 
 ### Automated Theorum Proving and Computer Algebra
 
@@ -512,12 +536,71 @@ as integers and rational numbers.
 
 
 
-# Continued Fractions, Irrationality and Pi
+# Ir/Rationality
+
+### Rationality and Linear Algebra
+
+#### Comparison of Rational Numbers (and algebraics) with the Reals
+
+- Within (Rational #s), there's always assoc
+  - since only one can be true, thus `xor3(a,b,c)` or `&& (popcount == 1))`
+    1. a set `(a in Q)` s.t. `(a < x)` (xor3)
+    1. a set `(b in Q)` s.t. `(b > x)` (xor3)
+    1. a single `(c in Q)` s.t. `(c == x)`
+
+- But when comparing (x in Q# to y in R#'s) only one of two can be
+  true:
+  - (x != y) thus (y not in (x's set))
+    1. a set (a in Q) s.t. (a < y)
+    1. a set (b in Q) s.t. (b > y)
+  - this second point (x in Q# and y in R#) is interesting when also
+    connecting to linear algebra and surfaces of hermitian & unitary
+    matrices of various dimensionality's and lie algebra (crystals)
+
+- these points can also be connected to concentric groupings of
+  rationals and increasingly algebraic numbers
+
+- only a rational `(a in Q)` can be specified in terms of `(a * i)`
+  - where `a := (n/m)` and `(n,m,i in Z)`
+  - interesting stuff can be done here, but there are limited numbers
+    of lattices & crystals that can be formed which allow functoral
+    transformation to equations with *some* irrational eccentricity
+    - regular tilings on the 2D plane are ways of mapping:
+      - `(x,y in Z)` to a restricted subset of `(x,y in (Z || Q ||
+        R))` ... i.e. usually, the Rationals/Reals, `but also
+        concentrically algebraic sets along various axes`)
+        - but also, (m/n) values can be applied along lattice
+          deformations along the axis in multiple dimensions
+  - but (holding the above lie algebra tangent off until below)...
+    - can any Q be specified in terms of ()
+
+
+- also rational numbers have a structure with a surface to it
+  - and these surfaces interconnect to irrational numbers through phi
+    (the "last" rational number and the "most irrational number")
+    - -Inf <=> phi^n <=> phi^1 <=> phi^0 <=> 0 <=> phi^0 <=> phi^1 <=>
+      phi^n
+      - (but doesn't and needs to account for -(phi^(n/m)))
+  - but anyways, this sets up something similar to galois theory, but
+    for irrationals and grounds it as a series of interconnecting
+    surfaces on high-dimensional crystals
+    - these (i think?) form lattices, upon which equations and
+      deformations can be specified.
+      - if they don't fit, the interactions can be "lifted" to other
+        (exactly? or sufficiently?) equivalent spaces
+      - (is this right?) so in other words, interactions on one
+        "shape" of lattice can be lifted to another position on the
+        same/different lattice type/shape
+      - but in high dimensions and certain configurations (d8/e8)
+        special properties emerge(?) for the equations and
+        transformations/morphisms on & between each configuration(?)
+  -
+
+
+### Continuous Fractions as a Basis for Number/Coordinate System
 
 - continued fractions can be used to index ANY real number, even
   irrational numbers.
-
-### Continuous Fractions as a Basis for Number/Coordinate System
 
 - phi is the prototypical continued fraction and the identity
   operation mapped to the identity value on some kind of group related

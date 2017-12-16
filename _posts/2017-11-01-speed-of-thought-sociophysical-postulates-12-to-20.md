@@ -46,6 +46,12 @@ excerpt: ""
 
 ### Intro(?)
 
+- mention quantum physics and coarse graining
+  - explain "what" coarse graining really is and why we may be wrong
+    about quantum mechanics. explain why the Ansatz and Tensor
+    Networks explain these phenomena under dimensionally various
+    conceptions of the problem statement
+
 - over the course of thousands of years, elites (needed to understand)
   social physics and statistics to rule/manage people. modern man
   presumes mathematic insights from chemistry, thermodynamics and

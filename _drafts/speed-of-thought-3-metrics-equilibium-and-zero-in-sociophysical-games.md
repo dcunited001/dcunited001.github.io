@@ -8,6 +8,17 @@ author:
 excerpt: ""
 ---
 
+
+
+- kino (episode 10) and social physics
+  - episode where the town is destroyed by the volcano
+
+- conversation and stochastic graph traversal (not purely random)
+  - over long periods of time, when you look back and think about the
+    things that people choose to *never* talk to you about...
+    - specific facts that would have helped you uncover semantic
+      connections pieces of information
+
 - dichotomy between data-driven coarse-grained sociophysical models
   and the actual ground truth of individual's beliefs
   - it's simply intractible to take into account each individuals
