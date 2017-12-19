@@ -669,6 +669,7 @@ Modeling](https://research.fb.com/publications/vain-attentional-multi-agent-pred
 
 ![Overwatch: how to beat a turret - compel the AI to rotate the turret b/w two targets]()
 
+- "anti-focusing" (and connections to hypnosis?)
   - bc you have (significantly more) power, you are the power broker
     or gatekeeper for that network. no one will care about your former
     threats because they don't hold anyone's future in their hands.

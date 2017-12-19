@@ -16,6 +16,13 @@ excerpt: ""
 - [Picture for Geometric Mechanics]
 
 
+- Inequalities (contained-within & within-is-contained) in type-space
+  - esp. as applied to game theory for real-time, stochastic &
+    inschematic games
+  - connections to nash equilibrium (when does the equilibrium exist
+    and for which games is it unreachable/incomputable?)
+
+
 - TODO: use Graph-Theory version of Gauss-Bonnet (from Oliver Knill's
   paper) to provide an example of a potential basis for
   information-geometry and information-physics (essentially,
@@ -260,6 +267,11 @@ excerpt: ""
     pick up on it, unless they are trained to do so. if they do pick
     up on languages like this and they aren't supposed to, this alerts
     the illuminati police.
+
+- fog-of-war in overwatch communication
+  - especially the rate of expiration of types of information
+    vs. bandwidth as an immediately expendible, allocatable commodity
+
 
 ### Mechanics and Dynamics Semiolinguistic Games in Social Physics
 
@@ -1215,7 +1227,7 @@ identity and culture which will otherwise be completely lost.
 
 
 - monad proxy as root. the all is the one, the one is the all.
-  
+
 
 
 
