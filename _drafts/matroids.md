@@ -107,8 +107,7 @@
 - can hermitian matrices have irrational components (yes) and if so,
   how are they qualitatively different?
   - connect to lie algebra
-  - dimensionality of hermitian matrices (nxn) and variety of surfaces
-
+  - dimensionality of hermitian matrices (n x n) and variety of surfaces
 
 
 
@@ -572,8 +571,7 @@ as integers and rational numbers.
         - but also, (m/n) values can be applied along lattice
           deformations along the axis in multiple dimensions
   - but (holding the above lie algebra tangent off until below)...
-    - can any Q be specified in terms of ()
-
+    - can any Q be specified in terms of
 
 - also rational numbers have a structure with a surface to it
   - and these surfaces interconnect to irrational numbers through phi
@@ -594,7 +592,39 @@ as integers and rational numbers.
       - but in high dimensions and certain configurations (d8/e8)
         special properties emerge(?) for the equations and
         transformations/morphisms on & between each configuration(?)
-  -
+
+- galois, special groups, lie algebras and differential equations
+  - differential equations and the concept of (Q/R) algebraicity
+    - do diff-eq's allow any inferences about their evolving
+      solution-space that take into account rationality, periodicity
+      and algebraicity of the numbers and equations?
+      - i.e. using galois theory, lie algebra, and probabilistic
+        inference etc to cause current observations for diff-eq
+        systems to "Snap To" a lattice
+  - the "param-space" intersection of two like types in some
+    (direct-product or direct-sum of reals or hermition sym. spaces)
+    - that is, when diff-eq's are created from the (sum/product) of
+      equations based on other parameters
+      - these new equations will exert the same intricate
+        phenomenological curiosities (in rationals/reals/lattices/etc)
+        as other diff-eq's but will somehow have to account for the
+        intersection (viz. sum/product) of these types
+  - what does this say about possible initial values for systems
+    defined by differential equations?
+    - that is, given the periodicity (in reals by rationals in a
+      lattice) of values from observations, can some inferences be
+      made that filter the space of possibilities for the
+  - how do gauss-bonnet, euler's number and changes in topology factor
+    into this?
+    - that is, if you have sudden change in increasingly local
+      topologies that exerts effect on equations (via dissipation of
+      gauss-bonnet of topological holes over large spaces)
+      - how does *this* phenomenon relate to the representations of
+        equations on lattices, esp. as it relates to diff-eq (like
+        gravity)
+    - if there is some fundamental speed limit for state propagation
+      in the curved space, how are these topological deformations
+      propagated?
 
 
 ### Continuous Fractions as a Basis for Number/Coordinate System
