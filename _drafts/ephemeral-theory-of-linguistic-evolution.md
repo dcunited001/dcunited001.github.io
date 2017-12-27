@@ -589,6 +589,56 @@ mass of each:
 
 - rats of nimh...
 
+#### Genetic Evolution of Anatomical Features and Body Language
+
+- this discussion of variation in anatomic features absolutely does
+  not pertain to humans.
+- certain algorithmic processes involving the discernment,
+  parameterization and (...) are greatly improved by the genetic
+  preservation and anatomic consistency of physical features
+  - examples include:
+    - the whiteness of eyes and high contrast of pupils (which is
+      apparently not so in Gorillas)
+      - this difference is critical in enabling people to see where
+        other people are looking. it's trivial for humans to do; it's
+        impossible for gorillas.
+      - it also extends the maximum range at which people can expect
+        to infer other people's immediate visual focus
+        - it is also critical in enabling people *to expect others
+          will see them looking somewhere*
+          - this visually indicates someone's immediate focus or
+            object of attention
+          - this leads to a harmonization of the mental state between
+            members of a social species, whose experiences become more
+            linked, since each member's experience becomes
+            parameterized by the experiences and mental states of
+            those members around them
+          - this contributes greatly to a phenomenon of
+            harmonization/consensus of abstraction
+    - hairlessness of humans & its effect on the
+      inference/visibility/consistency/(expectability)/reciprocality
+      of body language
+      - combinatorial/symbolic gestures is greatly expanded (...)
+      - to recognize the ......
+  - TODO: correlate these two examples to algorithmic: efficiency,
+    effectiveness, simplicity and well-definedness (the last two of
+    which are critical for neurogenetic definition/preservation of
+    advancement of genetically defined features of the brain)
+  - these "algorithms" are implemented stochastically and in neural
+    networks.
+    - _they are almost always less efficient than the most efficient
+      (deterministic/non-deterministic) solutions, if either exist_
+    - that is, the brain is always approximating some solution ...
+
+  - both the efficiency & effectiveness of algorithms that process
+    non-verbal communication are also critical in expanding the
+    utility of neural features () as well as the variety of symbols
+    and symbol-combinations matched/processed.
+    - more efficient algorithms, the greater the range of symbols that
+      can be defined
+    - more consistently preserved anatomic features, the more
+      efficient the neural nets are.
+
 # social aspects
 
 these aspects of a species will lead to the optimization of:

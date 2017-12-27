@@ -36,6 +36,51 @@ excerpt: ""
 - how do coarse-grained models differ b/w quantum physics and social
   physics (where data & beliefs are inschematic)
 
+- the difference b/w being formally and informally judged by society
+  - if you're informally judged, each person reacts to you and the
+    aggregate effect is in proportion to the quantity of people who
+    know
+    - i.e. you commit some crime and technically get away with it, but
+      everyone knows it and feels compelled to secretly judge you
+      - perhaps by controlling certain s/phys aspects of your life,
+        such as the way other's perceive you
+      - the specific labels that others apply to you and choose to
+        propagate are chosen ad hoc, based on the information
+        available to them.
+    - when informal, it is limited by the rate of new interactions and
+      the variance of recent interactions
+      - but since it's informal, no one knows when to stop meting out
+        the judgment.
+    - connect (semiotic/semantic)-meaning-mappings and the
+      relationship of various enumerable mapping-combinations,
+      especially as it relates to the Birthday Paradox
+  - if you're formally judged, you're given some formal label that's
+    projected through society, especially by social institutions.
+    - here, the institutionally-applied labels are well-defined and
+      the means of propagation are well-known
+      - awareness of this information can propagate into society upon
+        the occurance of certain events (new job, background check,
+        etc)
+
+- these formal/informal means of defining/choosing/propagating labels
+  is part of a continuum.
+  - people decide upon signs (both signifiers and signified) in groups
+    - here, signifiers can include: body language, specific locution,
+      the display/adherence of a social norm/tradition/etc, an
+      abstract label
+    - each person has their own understanding of the signfier and
+      signified, but people tend to seek consensus of abstraction and
+      information.
+      - therefore, at groups of various sizes, people harmonize their
+        abstractions, including their definitions of
+        signifiers/signifieds
+    - but social institutions, language and other human inventions
+      tend to reify these abstractions into discrete code/symbols.
+      - then the basis for these more formal definitions is (definite)
+        - i.e. it is definitively captured in law/language
+        - still, each person can develop their own interpretation of
+          (institutionally harmonized datums)
+
 #### {Set the reader's frame}
 
 - what does it mean to have zero for some of these metrics?
@@ -667,6 +712,8 @@ Modeling](https://research.fb.com/publications/vain-attentional-multi-agent-pred
       your threat's sociophysical energy
     - they are always chasing equilibria they can't obtain
 
+#### Anti-Focusing Turrets and Players
+
 ![Overwatch: how to beat a turret - compel the AI to rotate the turret b/w two targets]()
 
 - "anti-focusing" (and connections to hypnosis?)
@@ -711,6 +758,11 @@ Modeling](https://research.fb.com/publications/vain-attentional-multi-agent-pred
 
 
 # Zero in Social Physics
+
+- Sociopolitical Suppression
+  - A mathematic connection to the design/implementation (or a s/phys
+    framework for it)
+  - expand on this?
 
 ### Zero and Sparse Matrices (the implications for Probabilistic Models
 

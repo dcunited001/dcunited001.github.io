@@ -42,7 +42,51 @@ excerpt: ""
 
 - social physics &#x8855; demographic stratification of children by
   age through childhood and adolescence.
-  -
+
+#### The Prototypical Thought Experiment for S/Phys (w/ both Phys+Virtual)
+
+- Your target uses Google Maps. You know the address they searched &
+  entered. You know they are en route now and can monitor their
+  current position, along with the time remaining.
+- you need to filter your social graph to the set of people various
+  conjunctions of you and your target's 1&deg; and 2&deg; social
+  neighborhoods.
+  - (i.e. your mutual friends is the conjunction of your
+    1&deg; neighborhoods)
+  - furthermore, you'll need to sort your mutual neighborhood results
+    by many params AND/OR by distance to target.
+  - assume you can access the real social graph, regardless of how
+    your data is composed of many virtual sources)
+
+#### The Perfect (Recipe) for Cooking Eggs (a complex application of the Heat Equation)
+
+- IRL of probabilistic system with state transformations: cooking eggs
+  with and without oil
+  - this relates to the heat equation, but one who's endogenous and
+    exogenous heat characteristics are strongly warped by the chemical
+    composition
+  - thus, the heat propagation characteristics are altered by system
+    phase changes (less grease == faster rate of heat-consuming
+    reactions bc of less heat radiation absorption & diffusion with
+    grease)
+  - on a skillet, the heat is then diverted to driving a small number
+    of chemical reactions along the boundary where chemical reactions
+    are occuring
+    - because the heat is chemically consumed along phase change
+      boundaries and because the change-in-phase-change is limited
+      (convexly?) to a local region of space, then the food burns
+- think of reactions in social physics like cooking food. in the
+  presence of some ingredients, then:
+  - phase changes are either spatially contained (locally convex?)
+  - or not (phase change dynamics are locally concave and the system
+    is highly turbulent)
+  - what are the facets for convexity/concavity in driving local phase
+    change dynamics?
+  - phenomenologically, how does this translate to sociopolitical
+    games? people like cooking with grease (they like artificially
+    inducing predictable change)
+    - conversely, they like restricting change whose phase change
+      dynamics are predictable -- OR AT LEAST SEEM TO BE
 
 ### Intro(?)
 
@@ -51,6 +95,7 @@ excerpt: ""
     about quantum mechanics. explain why the Ansatz and Tensor
     Networks explain these phenomena under dimensionally various
     conceptions of the problem statement
+  - Connect to Simon Dedeo's video (part 1)
 
 - over the course of thousands of years, elites (needed to understand)
   social physics and statistics to rule/manage people. modern man
@@ -224,7 +269,7 @@ Briefly described in [Awareness Precipitates from Order Out Of
 Chaos](/posts/2017-09-14-awareness-precipitates-from-order-out-of-chaos.html),
 these
 
-programmatic chaotic systems like genetics or social physics, is
+Programmatic chaotic systems like genetics or social physics, is
 briefly described . These "signatures" are key to pattern recognition
 of toxic social or financial behavior, when any specific pattern
 itself would be uselessly singular if effable. Effective actors will
@@ -246,15 +291,18 @@ for coordinated strategy.
   - (representation learning) Recognition of Potential Algebraic
     Structures via Learned Tensor Decomposition
 
+
 #### &#x2605; Tensor Decomposition and Representation Learning For Time Series
+
+#### &#x2605; Stochastic Calculus & Ising Models
+
+#### &#x2605; Tensor Networks and Coarse Graining
 
 #### &#x2605; Algebraic Convolution onto Decomposed Tensors of Representation
 
 #### &#x2605; Laplacian and Spectral Values Over Time
 
 #### &#x2605; Hyperspectral Analysis
-
-#### &#x2605; Stochastic Calculus & Ising Models
 
 - with stoch. calc.
   - Utilizing inference via expectation to improve efficiency of calculations
@@ -344,6 +392,9 @@ Given a simplified model of a sociophysical or financial system
     more ways than simply your time-out when respawning.
     - even though its far from realistic, the impacts to strategy from
       dps-vs-alt add depth to both to the game and the metagame
+
+- another overwatch point (move to different article)
+  -
 
 - application of a resources-oriented mindset
   - (is there an official name for this?)
