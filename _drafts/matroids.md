@@ -930,4 +930,22 @@ phi = 1 + (1 + (1 + (1 + (...)^(1/n))^(1/n))^(1/n))
         models for a specific price signal
       - then it compares those to the actual signal to adjust values
         for trading.
-  -
+
+# Geometry
+
+
+- "Euler's number for a surface's polytoroidal parameterization"
+  - that's the note, literally. i can't remember what it was, exactly.
+    - "Euler's number (X) a surface's polytoroidal parameterization"
+  - for every 3D surface, no matter how many holes it has, there is a
+    parameterization into a 2D surface.
+    - this is the "pant's theorum" => toroi with many holes can be
+      decomposed into 2D surfaces that can be stitched together.
+    - the idea i was thinking about had something to do with using
+      euler's number to make inferences about the placement of "pants"
+      - it had something to do with making a leap b/w 3D and 2D
+      - it may have been about moving around an infinite space or a
+        space with unknown size, and inferring the parameterization of
+        the local region of space from the euler's number (& vice
+        versa)
+      -

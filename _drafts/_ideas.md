@@ -1,6 +1,22 @@
 
 ### startup ideas
 
+#### ML (X) A/V Lighting for Music
+
+- tensor network for ML drumming styles applied to Ableton MIDI
+  - the network that learns/recognizes/generates drumming styles or
+    other instrument styles, what does it look like
+- automate coordination for A/V (Lights, LED's etc)
+  - but to inform/match the motions use the tensor network trained on
+    the recognition of a musician's play styles for specific songs
+  - needs to be able to analyze real-time audio to representations of
+    musician/song/style/etc
+  - the goal is to have a lighting show that runs itself, essentially
+    - it recognizes the song that's being played and how many bars a
+      solo/duet/etc is going on for.
+    - it matches certain song regions or elements of play style to
+      specific lighting transitions
+
 #### Blockchain X Medium (see blockchain notes)
 
 #### Backup/Analyze/Provide documentation for old electonics (& their components)
@@ -966,4 +982,3 @@ this is based on a math paper i read a few years back
 
 - collect/analyze soil adjacent to items/bones collected from an
   archaeology site. {maybe this is already done}
-

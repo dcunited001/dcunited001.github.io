@@ -33,8 +33,33 @@ excerpt: ""
         computable and incomputable be used? (at least, as it pertains
         to social phenomena)
 
+#### Differences Between Coarse-Grained Modeling for Quantum Physics and Social Physics
+
 - how do coarse-grained models differ b/w quantum physics and social
   physics (where data & beliefs are inschematic)
+  - tensor network for large scale geoeconomic/geosocial networks
+    - especially modeling particle/information transfer
+    - modeled as a kind of partial diff-eq -- with a "geo-graph"
+      structure, a mix of a graph and a space -- where the state of
+      the diff-eq decides the position/distribution of information
+      processing/transferring
+      - it's a diff-eq where the current/initial values specify the
+        structure of the "geo-graph" which itself decides the
+        interactions that are possible
+      - viz. imagine the world b/w 1,000 BC and 1,000 AD and now,
+        model an *approximate* sociophysical simulation, where the
+        population distribution may change, as might the
+        distribution/trade of resources
+    - how can a tensor network model something like this efficiently?
+    - how would such a tensor network relate to Nash's proof for
+      special cases of the Heat Equation
+      - vibrating particles, resonating with much higher-dimensional
+        information than simply kinetic/thermal energy
+      - does this actually connect to Nash's proof?
+
+- S/Phys (X) euclidean path integrals
+  - how does this interact with coarse graining?
+
 
 - the difference b/w being formally and informally judged by society
   - if you're informally judged, each person reacts to you and the
