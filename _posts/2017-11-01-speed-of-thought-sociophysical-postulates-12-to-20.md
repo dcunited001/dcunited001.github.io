@@ -22,14 +22,12 @@ excerpt: ""
   - TODO: update sources in the first part
   - TODO: finish conclusion paragraph
 
-- TODO: update TOC with links to part 2 for postulates I -- XI
 - TODO: intro?
 
 - if the idea of God cannot be proven or can be proven false, is there
   still value for religion? (of course)
 - is there a fundamental truth for determining moral reality? moral
   ground truth?
-- gene replication vs belief/informational replication
 - if there is a absolute morality, is it possible for any man to
   adhere to it?
 - does the idea of God cause sociophysical events to become more
@@ -37,11 +35,51 @@ excerpt: ""
 - https://en.wikipedia.org/wiki/Uniformitarianism & the ablation of
   causality
 
+- secret societies seek to turn social physics into a "closed system"
+  by assessing each node's information-set and belief-set, utilizing
+  its network to distribute information about people
+  - these societies, which are both good or evil, are interested in
+    qualitatively assessing people's ethics.
+    - the group then interacts with boundaries of the social
+      neighborhood and can leverage information from people's ethical
+      assessment to influence what happens and exercise control
+  - the construction of a network with people who have invisible
+    puppet strings.
+
 - math ideas
   - "K curve" for estimating speciation
+    - gene replication vs belief/informational replication
 
 - social physics &#x8855; demographic stratification of children by
-  age through childhood and adolescence.
+  age through childhood and adolescence (used for psychological
+  programming)
+
+- dandelion imagery
+  - ancient magus anime (episode 5)
+  - high level blurb, prompting reader to envision imagery
+  - planting seeds, watching them grow
+    - different methods of seed creation/content/motion
+    - statistical understanding (energy required to create each seed
+      vs likelihood of success in short/long term)
+      - dandelions vs acorns (how many need to replicate, life cycle
+        of each plant, how many could possibly replicate)
+      - potential/need for synergy b/w plant & animal species based on
+        the above characteristics (life cycle, reproduction, specific
+        qualities of phenotypes)
+        - an oak tree has a long life cycle. alone, no matter how many
+          acorns are produced, it can't expect to produce another
+          reproducing member of its species. over-populated forest and
+          flat terrain contain the species (ability/range of
+          reproduction)
+  - how do these concepts apply to social physics, if the seed is an
+    iota/datum of information?
+    - ... plant life cycle analogies
+    - information (replicates), but doesn't necessarily reproduce.
+      - however, information *always* reproduces some portion of
+        itself when it replicates.
+        - this is because all information is similar to all other
+          information in some way (it all descends and ascends
+          infinitely -- all is one, one is all)
 
 #### The Prototypical Thought Experiment for S/Phys (w/ both Phys+Virtual)
 
@@ -87,6 +125,61 @@ excerpt: ""
     inducing predictable change)
     - conversely, they like restricting change whose phase change
       dynamics are predictable -- OR AT LEAST SEEM TO BE
+
+- examples of geographic chokepoints:
+  - khyber pass (silk road & afganistan)
+  - isthmus surrounding istanbul and the channel of water connecting
+    the black/marmara seas
+    - this pair acts as both a land and sea chokepoint
+  - the strait of gibraltar, connecting "inner" mediterranean and
+    north africa with the "outer" northwestern europe
+  - the sinai peninsula
+  - the panama isthmus (the middle east of mesoamerica -- the most
+    geographically connected area for those continents)
+
+- information flows with and against commerce/trade/movement
+  - commerce/trade (& what else) flows with and against information
+
+- modeling sociophysical information dispersion and chokepoints from
+  geographic data
+  - this builds on some of what is mentioned in the previous section:
+    - energy from the sun not only causes heat to diffuse through
+      physical systems, but it is at least correlated to "heat"
+      diffusion through sociophysical systems
+  - it's connected to the above high-dimensional application of the
+    heat equation (with phase transitions)
+  - geographic features and weather patterns then become critical for
+    regulating heat transfer across the face of the earth. and thus
+    regulating diffusion of information and commerce
+    - some areas are well connected, others are completely isolated
+      (except to various means of transportation)
+      - every point on the map has many paths connecting it to the
+        points in its neighborhood (this may connect to euclidean path
+        integrals, but with more subtleties that model multiple modes
+        of transit along with the features of those modes (limited
+        capacity/vehicles or ports/docking))
+    - there are some elements of what i thought was an "expander
+      graph" except recomposed for a "continuous" graph (a space where
+      subtleties of the connectedness of the space are taken into
+      account)
+      - that is, areas containing a chokepoint are more valueable, but
+        not if many chokepoints are nearby because that increases the
+        cost to maintain/operate/defend/control each chokepoint (like
+        a mountain pass)
+      - these chokepoints may be defined variously, but one such
+        method is finding areas of the map where there is mostly high
+        topographical variance in a point's neighborhood, but not in
+        the immediate vicinity of the point itself.
+        - see [Spectral Graph Theory]() section on a discrete version
+          of Cheegar's Inequality
+        - also, see the continuous version of [Cheeger's
+          Inequality](https://en.wikipedia.org/wiki/Cheeger_constant#Cheeger.27s_inequality),
+          which is a metric of connectedness of manifolds/spaces in
+          Reimannian Geometry
+        - however, Cheeger's number/inequalities are metrics of the
+          total graph. i want something similar for a
+          ball/neighborhood moving over and expanding over the graph.
+
 
 ### Intro(?)
 
@@ -222,11 +315,11 @@ excerpt: ""
 
 #### &#8855; &#8710; [&#8968;viii&#8969;](/posts/2017-10-30-speed-of-thought-sociophysical-postulates-1-to-11.html#spectral-coherence-of-knowledge-information-and-agent-context-strongly-influences-conceptualization-and-anticipation) Spectral Coherence of Knowledge, Information and Agent Context Strongly Influences Conceptualization and Anticipation
 
-#### &#8855; &#8710; [&#8968;ix&#8969;](#social-circuitry-enables-sociophysical-energy-flows-where-the-superposition-principle-applies-to-circuit-and-network-topologies) Social Circuitry Enables Sociophysical Energy Flows, Where The Superposition Principle Applies Circuit and Network Topologies. All Exist Simultaneously
+#### &#8855; &#8710; [&#8968;ix&#8969;](/posts/2017-10-30-speed-of-thought-sociophysical-postulates-1-to-11.html#social-circuitry-enables-sociophysical-energy-flows-where-the-superposition-principle-applies-to-circuit-and-network-topologies) Social Circuitry Enables Sociophysical Energy Flows, Where The Superposition Principle Applies Circuit and Network Topologies. All Exist Simultaneously
 
-#### &#8855; &#8710; [&#8968;x&#8969;](#social-financial-and-other-energetic-flows-signal-interest-and-intent-via-frequency-magnitude-and-abstract-spectral-decomposition) Social, Financial and Other Energetic Flows Signal Interest and Intent Via Frequency, Magnitude and Abstract Spectral Decomposition
+#### &#8855; &#8710; [&#8968;x&#8969;](/posts/2017-10-30-speed-of-thought-sociophysical-postulates-1-to-11.html#social-financial-and-other-energetic-flows-signal-interest-and-intent-via-frequency-magnitude-and-abstract-spectral-decomposition) Social, Financial and Other Energetic Flows Signal Interest and Intent Via Frequency, Magnitude and Abstract Spectral Decomposition
 
-#### &#8855; &#8710; [&#8968;xi&#8969;](#disruption-of-connections-and-interactions-alters-flow-of-energy-and-power-physically-logically-and-virtually) Disruption of Connections & Interactions Alters Flow Of Energy & Power, Physically, Logically and Virtually
+#### &#8855; &#8710; [&#8968;xi&#8969;](/posts/2017-10-30-speed-of-thought-sociophysical-postulates-1-to-11.html#disruption-of-connections-and-interactions-alters-flow-of-energy-and-power-physically-logically-and-virtually) Disruption of Connections & Interactions Alters Flow Of Energy & Power, Physically, Logically and Virtually
 
 #### "Please, Sir, You Are Blocking The Light Of Mathematics"
 
@@ -337,10 +430,10 @@ Given a simplified model of a sociophysical or financial system
 
 #### Parallel, Anti-Parallel and Orthoganal Coupling In Motion Towards The Attainment of Equilibrium Unveils Nearly All Deception
 
-- someone with a goal in mind will tend to move *TOWARDS* or *AWAY* from
-  it when signalling. if they don't feel the need to deceive you, they
-  won't fake you out by amplifying signal that conveys moving AWAY
-  from some intended area of equilibrium
+- someone with a goal in mind will tend to move *TOWARDS* or *AWAY*
+  from that goal when signalling. if they don't feel the need to
+  deceive you, they won't fake you out by amplifying signal that
+  conveys moving AWAY from some intended area of equilibrium
   - someone clever will move *AROUND* (orthogonally to) the objective
 - someone who lacks an agenda or with few goals will exhibit something
   like brownian motion extended to these high-dimensional spaces
@@ -380,7 +473,7 @@ Given a simplified model of a sociophysical or financial system
     enemy's destination. if you place yourself at the point, you are
     going to be targeted and thus, the next questions: from which
     angle is the attack going to present itself and which paths lead
-    to each angle of attack
+    to each angle of attack.
   - if your personal goal for the season is to increase DPS for a
     high-damage, non-support character, get yourself on the point and
     wait. when there's no enemies approaching, navigate the
@@ -392,6 +485,21 @@ Given a simplified model of a sociophysical or financial system
     more ways than simply your time-out when respawning.
     - even though its far from realistic, the impacts to strategy from
       dps-vs-alt add depth to both to the game and the metagame
+
+- The "OP" as a means of self-censorship and censorship by groupthink
+  - it's very annoying to have people get off point, especially when
+    they're trying to derail a discussion. but it's also annoying to
+    have people "police" the OP.
+    - for social norms, extreme compulsion for adherence to and
+      deviation from them can ...
+      - social norms can be used. sociopaths are notorious for "using"
+        the system, including the procedures or subtleties of
+        society's institutions and the unwritten rules of social norms
+  - some people have reach on social media. others don't..
+    - everyone gains value when the discussion stays on point. that's
+      obvious.
+      - however, by limiting the informational range of the discussion
+        and the direction or spectral content of arguments,
 
 - another overwatch point (move to different article)
   -
@@ -421,9 +529,12 @@ Given a simplified model of a sociophysical or financial system
     defense in spite of the obfuscation of an offense.
     - it doesn't matter how your enemy reaches your resources. what
       matters is that they do.
-    - so you know, regardless of where they come and how they get
-      their, they are coming for what you need or consider valuable.
-  - depending on their intent, desire and need to attain/destroy your
+    - it doesn't matter where they come and how they get there,
+      whether they delegate via botnet, whether an attack signature is
+      mitigated by obfuscation via botnet, they are coming for what
+      is needed or considered valuable, regardless of whether its you
+      or them.
+  - depending on their intent, desire and need to attain/(destroy)
     resources, in some circumstances, it is more efficient offensively
     to present yourself to your enemy directly, so you can limit the
     number of paths they will take to reach you.
@@ -453,6 +564,19 @@ Given a simplified model of a sociophysical or financial system
   - are they direct about it? or do they distract you with an overt
     goal, while they truly seek some other goal?
 
+- common equilibria include "ideals" like minima/maxima & saddle
+  points of surfaces
+  - this section should potentially be moved (to which section?)
+    - it makes a lot more sense once the ideas of sociophysical
+      metrics is identified in the next part.
+  - how many of these minima/maxima/ideals are attained
+    simultaneously/sequentially by individuals/groups?
+    - are similar common equilibria points targeted by some group of
+      individuals?
+    - the exact minima/maxima of surfaces *and* motion directly
+      towards/away from them are "less likely"
+      - *unless* you can assume intentionality
+
 #### Stasis of Equilibria
 
 - what balance of equilibria do people seek?
@@ -464,7 +588,7 @@ Given a simplified model of a sociophysical or financial system
   - some never feel satisfied with attaining anything and mercilessly
     strive on.
 
-#### I Live In A World Where Those Who Can't or Won't Talk To Me At Least Aren't My Enemies
+#### I Live In A World Where Those Who Can't or Won't Interact With Me Are Least Likely My Enemies
 
 ![Double Door Logic Paradox](/img/posts/2017-10-21-speed-of-thought-twenty-postulates-of-social-physics/)
 
@@ -526,7 +650,6 @@ Given a simplified model of a sociophysical or financial system
   - what is the term for the energy value in the folding funnel?
   - the proteins structure is guided (randomly) along the curved
     surface of the folding funnel
-
 
   - in spite of entropy, enthalpy guides the folding towards local
     minima. in order for the protein to have consistent form and
@@ -590,6 +713,33 @@ Given a simplified model of a sociophysical or financial system
     transformation they may need in the future
     - this is usually (...always?) best done by minimizing your
       informational footprint.
+
+- when (many people together) become fluid by abandoning attachment to
+  attainment and control,
+  - this means that collectively, (Mara is blind to them) AND their
+    fluidity. the greater the number of people who escape
+    (self-ordained) objectification of reality, the greater the
+    composition of the social fluid that is most agile.
+  -
+
+- of course, the inverse: the more people who are bound to the
+  expedient/pragmatic/etc attainment of their desires, (the more
+  people that are available for evil to use.)
+  - (this section needs to be re-outlined)
+  - these people will always arrange themselves hierarchically.
+    - forming a "tree-like" graph with more and less tightly connected
+      regions. the less connected regions are usually where the most
+      and least powerful nodes in the social graph reside (~ expander
+      graph)
+      - but power always corresponds to a greater range of 1st/2nd
+        degree connections across the social graph
+  - again, these people will always begin to arrange themselves
+    hierarchically.
+    - in some cases, the same people to define sin will *encourage
+      some sin* as a means of creating mechanisms of control across
+      the graph.
+    - the people in control will be very interested in learning your
+      desires/needs/vices/sins to entice you with them.
 
 #### While Visually Similar to The Folding Funnel, The Structure of
       Dante's Inferno Functions as the Opposite, With Infinitessimal
@@ -680,7 +830,7 @@ disintegrate.
 > vocabulary. Also, there are people who already understand the above
 > or something like it. Some thought leaders in the background already
 > appear to plan on *using similar to this* for domination via mind
-> control, all without a chance for discourse. In fact, it a few
+> control, all without a chance for discourse. In fact, (it) a few
 > discussions on Reddit that lead me to being derided as a
 > "[future mass shooter](/img/writing/fuck-reddit-what-future-mass-shooter.png)"
 > by
@@ -770,9 +920,10 @@ like, envision a high-dimensional analogue of the yin and yang fractal
 above. Finally, imagine molecules composed of such matter: this is
 what your mind is made of.
 
-- (the sociophysical transmission also gives rise to) literal physical
-  waves. further still, the transmission of physical pheneomena also
-  drive ripples of information through sociophysical networks.
+- (the sociophysical transmission also gives rise to) (literal
+  physical waves -- examples?). further still, the transmission of
+  physical pheneomena also drive ripples of information through
+  sociophysical networks.
 
 ![The Wave In A Stadium](/img/posts/the-wave.gif)
 
@@ -780,6 +931,8 @@ what your mind is made of.
   ellusive as a visual conception might be, then surely a momentary
   spectrum can be lifted to a wave representation.
   - (reword this)
+  - what would spectrum-to-time and time-to-spectrum transformations
+    look/behave like?
 
 - it isn't yet clear how, but the particle/wave duality also fits the
   holonic model of information
@@ -795,7 +948,8 @@ what your mind is made of.
 
 - density/mass of information as particles
   - baggage you carry with you
-  - first episode of Kino
+  - example: first episode of Kino (where the other traveler asks Kino
+    to help him carry his baggage)
   - limiting flexibility
   - ... explain/outline more here
   - does this relates to buddhism's usage of vehicular imagery?
@@ -818,8 +972,17 @@ what your mind is made of.
         reality
         - (still just a metaphor)
 
-- this seems very similar to ideas from quantum computing circuit
-  diagrams.
+  - this seems very similar to ideas from quantum computing circuit
+    diagrams.
+
+- preservation of information: in physics this is an incredibly
+  important concept. in social physics, physical information is never
+  destroyed, but sociophysical information exists as representations
+  encoded into the material world
+  - there are certainly cases where sociophysical information can be
+    totally or partially destroyed.
+    - this presents yet another type of fracture in the (equilibrium
+      dynamics) of sociophysical (energy) equations & approximations
 
 - of course, this analogy of information as particle/wave begs the
   question: what is sociophysical equivalent to critical mass & `E =
@@ -830,7 +993,7 @@ what your mind is made of.
 
 ### &#8855; &#8710; &#8968;xvii&#8969; [Models of Sociophysical Phase Change Require Topological Spaces Imbued Onto Physical and Aphysical Topologies](#models-of-sociophysical-phase-change-require-topological-spaces-imbued-onto-physical-and-aphysical-topologies)
 
-
+- nash theorum on special cases of the heat equation
 
 #### Connecting Microstate Energy in [Boltzmann Machines](#) with Boltzmann's Distribution and Configuration Entropy ...
 
@@ -1243,6 +1406,10 @@ information.
 
 ### &#8855; &#8710; &#8968;xx&#8969; [Information In Holonic, Particle Form Exhibits Complicated Behavior Analogous To Entanglement](#information-in-holonic-particle-form-exhibits-complicated-behavior-analogous-to-entanglement)
 
+- signaling with Wu Xing (actual name of this?) in the Imperial Palace
+  - there should be notes on this somewhere, but it's a perfect
+    example (of one interpretation of what this postulate means)
+
 - what do you know now? does that change what you think about what you
   knew in the past?
   - transition into how this resembles the phenomenon of entanglement
@@ -1256,6 +1423,14 @@ information.
     exposed to future particles. there is tight coupling between the
     entity's condition and both future and past events.
     - and an appropriate analogy for this is entanglement.
+
+- fog of war (x) social networks/graphs
+  - pub/sub replication of information changes
+    - when virtual social networks exist and communication is
+      facillitated over long distances
+    - and when nodes on social networks can only communicate locally
+    - with language barriers?
+    - with balkanized internet
 
 ![Listening to a cannon blast in a stadium on every touchdown]()
 

@@ -131,9 +131,9 @@ divestment and restructuring don't work, then your best bet is to find
 someone you trust manage these investments for you. This could be
 risky, but that can be minimized through strategery and trust.
 
-An edge case, as an example of risk: if that person puts you in the
+An edge case, as an example of risk: a subordinate puts you in the
 position where you can't be seen having profited by visibly correcting
-this person's mistakes. they could make a series of subtly bad
+this person's mistakes. They could make a series of subtly bad
 management decisions, which you wouldn't have had time to see, giving
 them some advantage. They could mismanage, dropping the stock price
 temporarily, allowing them to attempt to skim ownership of the
@@ -146,15 +146,16 @@ them. See what they do. You have to be able to *know* you can trust
 someone or *know* that you've got the chips stacked so you're not
 depending on trust to mitigate risk.
 
-If you haven't figured this out, I'm a very, very paranoid
-person. *Contents fragile once damaged.*
+> If you haven't figured this out, I'm a very, very paranoid
+> person. *Contents fragile once damaged.*
 
-This is an oddly specific scenario and not likely, but I can imagine
-that there would be other scenarios, difficult to foresee until you
-get bit once or twice. More to the point, any problems that arise
-would distract from your duties as a politician. But, if you have
-significant assets, then you probably already have people you trust
-who help you run the show.
+The example above is an oddly specific scenario. It's not likely, but
+I can imagine that there would be other scenarios, difficult to
+foresee or even generalize to put into words -- until you get bit once
+or twice. More to the point, any problems that arise would distract
+from your duties as a politician. But, if you have significant assets,
+then you probably already have people you trust who help you run the
+show.
 
 #### Investing in Specific Industries Invites Problems
 
@@ -612,13 +613,23 @@ to give the appearance that they're looking into that issue.
 But all of these committee actions can provide you leverage that you
 can use or barter for. Though if you have influence on the committee,
 there are several tactics you could use that you really wouldn't want
-to use. Direct tactics that waste someone's time, which would lead to
-frustration.
+to use. Direct tactics that waste someone's time or neutralize their
+expenditure of political capital may lead to frustration.
+
+#### &#x2605; At least 80% of the time, prefer to feign with the first order objective of your moves. Utilize duplicity, so your opponent invests in defeating the first order objective, but ushers in second and third order objectives.
+
+#### &#x2605; Prefer to spread your pieces across the board, while  doubling up your pieces' pressure on critical spaces of the board.
+
+#### &#x2605; Always leave yourself options. Force your opponent to choose.
+
+#### &#x2605; The types of energies we project flow like fluid. Control the strong and weak points, and determine how your opponent makes their moves. Like water, their energy will flow to the spaces with less pressure. By weakening your pieces or reorienting them, you entice your adversary.
+
+#### &#x2605; Anti-focus your adversary's attention and investment of energies. Attack from multiple angles at once. Identify the space of your chessboard, know its nature, then compel your opponent to chase their tail, constantly reorienting themselves in reaction to your proactive moves.
 
 You don't want to resort to petty committee tactics, especially
 against a popular issue. It goes against the spirit of democracy for a
 few people to completely stall things out. It's not a strong way to
-respond to your opponents. And if it's a direct obvious tactic, then
+respond to your opponents. And if it's a direct, obvious tactic, then
 it will probably be easily diffused because people are smart. And if
 they push themselves to get things done, then cheap tactics will cause
 them to work harder. That's kinda what it does for me every time.

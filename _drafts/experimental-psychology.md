@@ -17,6 +17,12 @@ internet to an actual post
   Paradoxes]() and know each and every one of them like the back of
   your hand.
 
+- include picture of the note that Thor handed me about "experimental
+  psychology" which in itself was an image that triggered the exact
+  Deja Vu that has been haunting me since the end of february 2015.
+  - it triggered a memory where i was talking to tatiana about that
+    same exact quote from Jung
+
 > TL;DR;
 
 This
