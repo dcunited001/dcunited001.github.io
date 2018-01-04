@@ -134,6 +134,18 @@ of resources in the future when it's not necessary.
 
 ### Philosophy
 
+#### Utopia
+
+- without experience that ushers in a sense of urgency, a strong
+  opponent or ally becomes weak. this is why
+  socialism/communism/utopia is always transient
+- the idea of shambala was the precipice of 32 generations of
+  successive kings and progressive development. no matter how close to
+  perfect the utopia, its intrinsic nature leads to its demise. the
+  closer to "perfection" the faster it occurs. paradise or true utopia
+  is nature with a constant struggle for survival. every battle, won
+  or lost, makes you stronger until there is nothing that can stop you
+
 #### Majjhima Nikaya 26:34-42, Ariyapariyesana Sutta, "The Noble Search"
 
 > This monk is said to have

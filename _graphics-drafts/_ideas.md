@@ -125,3 +125,26 @@ title: "Graphics Ideas"
 
 
 
+
+
+
+- (as i'm writing this, i'm at the skating rink and trying to assert
+  whether there are sociophysical anomolies in my local 5m space,
+  since i'm on my laptop with scary words on it. the space around me
+  is a nexus, but it's been clear for a little too long. like someone
+  with bad gas lulz. it could be anomolous configuration
+  distribution. then again, probably imagining things, but at least
+  there are metrics i can assert to even know anything)
+  - for things most people assume are unknowable or unquantifiable,
+    there is actually far more informartion that can be quantified
+    about sociophysical interactions. this means they are actually
+    *more* knowable and *more* quantifiable.
+    - so, people tend to take actions assuming that no one could
+      possibly understand their reasoning, when in fact the opposite
+      is true. their reasoning is just not apparent to each other
+      because they don't understand themselves and their actions
+      influence on sociophysical metrics.
+    - really it's not important right now. besides, if you can't
+      explain it to the average person in 100 words or less, it's not
+      even worth trying. it's amazing the degree to which people want
+      to win an argument, regardless of the merit of their rhetoric.
