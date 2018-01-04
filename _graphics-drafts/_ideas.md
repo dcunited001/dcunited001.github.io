@@ -57,3 +57,71 @@ title: "Graphics Ideas"
 
 - allow user to select from multiple surfaces that the texture can be
   displayed on, including manifolds that circumvent the need for zoom
+
+
+### Using ideas from Statistical Mechanics & Thermodynamics For Smooth/Bounded Motion/Acceleration of Particles
+
+- basically, the difference b/w plain statistical mechanics and
+  quantum mechanics is in how arrangements of particles are considered
+  for each configuration of particles in the configuration
+  distribution
+  - for statistical mechanics, any configuration with overlapping
+    particles is thrown out. particles are randomly sampled one at a
+    time
+  - for quantum mechanics, (the 10,000ft unacademic view) the
+    configurations with greater potential in the particle system are
+    less likely ... unless the potential energy is accompanied by
+    momentum (and thus the configuration is transient... this
+    explanation far too simplistic for the actual math, i think)
+    - in other words, the likelihood of a configuration of the system
+      depends greatly upon the Hamiltonian interplay between p, dp, q
+      and dq as they all relate to the energy of the system. when the
+      resulting configuration distribution has higher potential
+      energy, it is much less likely.
+      - this probably relates to the boltzmann distribution from
+        thermodynamics
+      - and there are probably some really interesting
+        deductions/inductions to make when taking into account the
+        range of motion across phase space (in classical mechanics,
+        the range of "valid" particle motions given by the
+        Hamiltonian)
+        - of course this is different with quantum mechanics, which
+          use the imaginary time operator and euclidean path integrals
+    - there may be further conclusions that can be reached by
+      assessing the "free energy landscape" of the particle system
+      - that is, the short-term evolution (future and past) of phase
+        space and configuration space are linked to the free energy
+        landscape.
+        - that is, the landscape as a whole, for each particle and for
+          poset neighborhoods of particles. this may be relevant when
+          considering the discrete, pixelated shape of space (as in
+          quantum gravity)
+        - the characteristics of the shapes of the free energy
+          landscape and the particles relationship to them will
+          influence each configuration's energy and "connectedness" to
+          other energy landscapes.
+        - each configuration is linked by symmetry and other means,
+          which can help identify its energy and likelihood. each
+          configuration's free energy landscape also causes the
+          configurations to be "connected" in a different way.
+          - viz. the likelihood that one configuration or "type/kind"
+            of configuration would evolve to be similar to other
+            configurations (or types/kinds).
+
+- anyways, this concept from thermodynamics or statistical/quantum
+  mechanics can be used to "properly" address the issue of jitter in
+  particle shaders with forces (which are either physical or
+  sociophysical simulations)
+  - this addresses a problem i encountered where one particle would
+    "zoom" out because two particles would occupy a very close space.
+    - to fix this, i just need to add another shader that "corrects"
+      the new momentums of particles by coaxing the distribution to
+      cohere a more reasonable distribution.
+      - that is, the values that are n*sigma away are corrected in
+        proportion to their deviation from the norm.
+        - AND so that the entire simulation preserves energy/momentum,
+          at least across time
+
+
+
+

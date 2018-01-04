@@ -216,3 +216,18 @@ title: "Physiological Components of Spirituality"
     - instead may represent some derivative phenomenon that only
       emerges a direct measure
 
+# Qi
+
+- does Qi emerge from a *collectively inductive* magnetic field
+  arising from blood flow?
+  - do the oxygenated forms of hemoglobin (contribute varying amounts
+    of EM to the induced field?)
+  - how do nerve impulses and other biomechanical systems contribute
+    to the aggregate effect on EMF?
+
+### Studies on Qi?
+
+- machine learning on generalized human anatomy
+  - each subject's chi channels either autolabeled (semiunsupervised)
+    or labeled (supervised)
+  - analyze what contributes

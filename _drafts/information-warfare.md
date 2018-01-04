@@ -216,7 +216,7 @@ headline: "Informational Territory > Sociohierarchical Territory > Economic Terr
 
 # (1) Informational Territory
 
-- add wikipedia pages
+- add wikipedia pages,
 
 #### belief structures
 

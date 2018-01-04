@@ -9,6 +9,21 @@ excerpt: ""
 ---
 
 
+
+
+==========
+
+
+email to family (12/)
+
+
+
+
+
+
+
+==========
+
 explain defacement of my sister's art and rationale behind it
 
 
@@ -38,7 +53,7 @@ explain defacement of my sister's art and rationale behind it
 
 
 
-
+==========
 
 
 # main theme:
