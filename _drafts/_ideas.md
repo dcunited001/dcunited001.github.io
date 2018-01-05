@@ -91,6 +91,11 @@
   - simply a free tool for playing w/ Software/Web VST's and sharing
     the sounds in JSON (probably already exists)
 
+- security idea: connect to un/secured video streams where the
+  location of cameras is known: only in public places. those small
+  cities and towns with primarily regional social flux will always
+  exhibit lower identity flux, esp. new identities
+
 ===============
 
 
@@ -133,6 +138,10 @@ of resources in the future when it's not necessary.
 ===============
 
 ### Philosophy
+
+- the phobia paradox: an irrational fear of not having any phobias
+  - my problem is that i'm afraid i'm not afraid of that which i
+    should fear
 
 #### Utopia
 
