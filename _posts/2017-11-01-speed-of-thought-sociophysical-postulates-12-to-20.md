@@ -81,6 +81,17 @@ excerpt: ""
           information in some way (it all descends and ascends
           infinitely -- all is one, one is all)
 
+- just like the body follows the head, the social organism follows the
+  projection of attention, in aggregate. where there is aggregate
+  attention, there will be motion towards and away from the object of
+  focus. where there is change in aggregate attention, there will be
+  change in motion and direction of motion, towards and away from the
+  spatially distributed changes.
+  - this applies to abstract notions of space, location, direction,
+    and motion. to understand this, think about how you might measure
+    attention on social networks and imagine what the notion of a
+    space means for social networks.
+
 #### The Prototypical Thought Experiment for S/Phys (w/ both Phys+Virtual)
 
 - Your target uses Google Maps. You know the address they searched &

@@ -19,6 +19,13 @@ excerpt: ""
     - specific facts that would have helped you uncover semantic
       connections pieces of information
 
+- "theta clear" as a Social Physics perpetual motion machine
+  - "It's rare -- and no you don't need scientology to do it. It means
+    the person is inconsequential, but -- at the risk of sounding like
+    a megalomaniac -- their will has attained a kind of
+    self-perpetuating phase change"
+  -
+
 - dichotomy between data-driven coarse-grained sociophysical models
   and the actual ground truth of individual's beliefs
   - it's simply intractible to take into account each individuals

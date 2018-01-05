@@ -162,9 +162,11 @@ If false memories are being used to manipulate someone, then someone
 must be involved to invoke those images, phrases, or pieces of
 semantic information. Also, creating such a positive or traumatic
 experience used as the basis for subsequent memory implantation must
-require significant planning at some level. This is really the weakest
-link. If this person is manipulated with such techniques, the persons
-invoking those probably won't know the significance to the person.
+require significant planning at some level. That is, if you want to
+use it for something useful, critical and sensitive. This is really
+the weakest link. If this person is manipulated with such techniques,
+the persons invoking those probably won't know the significance to the
+person.
 
 For this last element, **social forensics** is critical. Many
 signatures will be left in the target's social interactions. Which
@@ -174,14 +176,14 @@ the target, the level of surveillance, whether and to what level that
 engagement with the target was coordinated/informed with surveillance,
 ...
 
-Given
-unpredictable procedures like implanted memories or experimental
+Given unpredictable procedures like implanted memories or experimental
 psychology, a target known to talk to themselves is particularly
 useful. ... (because you can identify the boundary of the
 informational graph that surrounds things they might tell people,
 harnessing it for the generation of disinformation. this creates a
 smokescreen of incredulity: a fog machine of ... and eventually the
-target invests all his energy helping to contain himself)
+target invests all his energy helping to contain himself) ... fighting
+with shadows
 
 For political dissidents targeted by witchhunts, if there is an actual
 covert conspiracy, there is one common sociophysical fingerprint that
