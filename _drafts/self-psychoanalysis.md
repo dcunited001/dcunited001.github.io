@@ -16,9 +16,367 @@ excerpt: ""
 
 email to family (12/)
 
+I apologize ahead of time for some of this being angrily worded or
+whatever, but I am not saying anything to cast blame. Only to address
+the actual causes of problems, so they can no longer be problems. Most
+of this is the fault of about 5 or 6 people in my life who took
+advantage of my social vulnerability to turn otherwise neutral people
+into people who were negative.
+
+Several things stand out as frustrating:
+- the maximal level of social isolation (mostly caused by lack of
+  income)
+- the minimal level of awareness that anyone has of my life
+- the minimal level of acknowledgement that i receive from my closest
+  social connections (as it relates to writing, math, startups,
+  especially SOCIAL PHYSICS or any actual goals i have in life)
+- the acceptance and minimal lack of acknowledgement of
+  catastrophically minimized sociophysical metrics.
+- the minimal degree by which anyone who knows me or recently met me
+  would try to reach out and invite me into their life, instead of
+  keeping things as purely awkward acquaintanceship.
+- the totally zero'd demographics for social connections/interactions
+  that help me advance toward goals (by demographics i mean:
+  - number of math professors I talk to (regularly)
+  - number programmers i talk to and frequency of interaction
+  - number of dancers i talk to
+  - number of musicians/etc (ANY ONE OF THE MANY MANY
+    HOBBIES/INTERESTS I HAVE -- NONE OF THEM, NOT A SINGLE ONE, IS
+    EVER FULFILLED -- there's no one to see it and thus no one cares.)
+  - number of generally interesting people to talk to. not everyone
+    needs to be a musician. I can actually talk about anything
+
+I am absolutely not saying that I'm disregarding the people I talk to
+at the rink -- even though the number of connections/interactions
+there is still low. what i'm complaining about is that I have ZERO
+interactions with people who can reciprocate with goals/hobbies. There
+is NONE. ZERO. IT IS MATH.
+
+"There's no one to see it and thus no one cares." this statement in
+particular really sums of the situation. Or: "If a tree fell in a
+forest and no one was around to talk to it, would anyone care?" It's
+not that people hate me, it's that I'm completely isolated from
+everyone else, with zero options for improving the situation, except
+accepting subpar mediocrity, if you can call it that.
+
+=========
+
+* Adrafinil: almost exactly an ADD prescription drug (the liver
+  converts it into the exact pharmaceutical called Modafinil or
+  Provigil)
+
+Adrafinil is fairly effective. It helps in an indirect way, but the
+actual drug Modafinil is hard to get from a doctor because only
+Psychiatrists can prescribe it off-label (it's officially for
+narcolepsy and offsetting shift-work)
+
+=========
 
 
+* Noopept: is something I just tried for the first time. It is similar
+  to Racetams which are the most well-known smart-drug. I had never
+  tried them because I assumed they would be weak. Noopept is
+  chemically unrelated, but acts in the same way. I wish I had tried
+  any of the racetams a year ago.
 
+However, for me, Noopept is a miracle drug. Every neurological social
+problem I have had is almost completely gone, or at least it's in the
+background. It also seems to help with queuing behaviors/responses in
+social/personal situations (i.e. my executive functioning) Wherefore
+the complications are thus explained below, NooPept seems to eliminate
+the problems that I have with social vulnerability:
+
+- poverty of speech
+- slow speed of thought
+- lack of subconscious processing of social signal
+- overly high level of engagement/effort required to socially
+  reciprocate
+- rigidly limited variety of grammatical structures in my responses
+  (this is something I can mathematically define and I am/was very
+  weak here)
+- ability to respond to not-so-subtle intimations and false/invalid
+  information about me in the social frame/context (this causes me
+  lots of problems)
+
+=========
+
+What people don't understand is that I pick up what people lay down,
+yet it's been hard for me to respond. The only drug that I have ever
+found to be slightly effective in addressing the above list of
+problems (among others) is adderal and a handful of other illicit
+drugs. This was the only reason I ever tried or continued using
+them. They just weren't very effective and yet, while the
+drawbacks/costs of these drugs vastly outweighed any benefit they
+offered, by using some of these substances, I was able to get outside
+of my overly-inhibited mind. Life and social situations were slightly
+different. However, the stigma of these drugs present some of the most
+harmful effects. Nothing slams more doors in your face than rumors
+about substances. Well, I wanted to feel what it might be like to be
+normal, socially.
+
+The main problem: i've been in near-total isolation without sufficient
+variety of social experience to layer down the social conditioning
+which leads to adult development. Everyone wants to call me an "adult
+child" but no one wants to look at why this every occured or address
+the root problems. I do not care "whose fault" anything is. If I point
+something out, it is because I want to make it better or FIX IT.
+
+I started taking some supplements last Wednesday and the second one
+(Noopept) eliminates almost all of the seemingly "neurological"
+problems I have been dealing with. I say neurological because it seems
+like half my brain is off, mostly seeming to effect low-level
+neurological functions pertaining to interpersonal communication,
+social dynamics, etc. Over the past few years, my mind has felt like
+an old CPU trying to run graphics-intensive code, without a graphics
+processor. (if that sounds complicated, you should probably keep
+reading anyways: i explain & the important stuff is emphasized)
+
+Social dynamics are mostly unconscious for other people. That is, for
+everyone else, the subconscious mind does a ton of work and presents
+options to the conscious mind, which selects and engages. For me, that
+subconscious aspect of social processing has been completely missing,
+which is why I almost never say anything in social situations or get
+frustrated and leave. That "graphics processing" behavior that seems
+so simple for other people is completely missing for me, which means
+my conscious mind has to walk through every social situation. THIS IS
+SLOWWWWWW, which is why everything thinks I'm dumb or awkward. JUST
+LIKE MY MEMORY ISSUES: THIS IS NEUROLOGICAL. There is nearly nothing I
+can do about it, which is what makes NooPept a miracle for me: because
+it is the only drug I have ever taken in my life which improves the
+social issues in any significant capacity.
+
+Also, when I say something is neurological, it descends from
+ASPERGER'S, a diagnosis for which no doctor will accurately label me,
+even though the neurologist who examined my MRI's SAID I HAD PDD-NOS
+(sometime in 5th grade, 1995, at a neurologist office on McLelland (?)
+and an imaging facility on Franklin Rd) And what is PDD-NOS? Pervasive
+Developmental Disorder (Not Otherwise Specified) => It is a former
+diagnosis on the autism spectrum, often related to head injuries. The
+most recent version of the DSM lumps all the Autism Spectrum
+development disorders into one. However, not being able to lean on
+this crutch in any official way means that I don't have a legal leg to
+stand on. Normally, someone with Asperger's or with high-functioning
+autism can compensate for social issues by having a REAL job, with
+enough income to trade financial capital for social capital. However,
+i seem to be witch-hunted everywhere I go.
+
+The problem here is that => Since, the basis for the problems causing
+problems is neurological, I cannot control some things indirectly
+causing so many other problems in my life. Since I have overleveraged
+my family's support, those few family connections are BURNT OUT, which
+is just what happens. I did not realize the severity of how social
+isolation limited my life until recently, but the effect of extreme
+isolation on someone's life is MULTIPLICATIVE/EXPONENTIAL. So, the
+consequences contribute towards OPPOSITE of any goals that a real
+psychologist/psychiatrist would pursue. Most people who i've seen or
+been treated by in an official capacity recognize this and see it.
+Here are some examples of the normally positive goals/functions/habits
+that are defeated by people who seem to intervene in my life with an
+agenda.
+
+- totally undermining the Maslovian Hierarchy of Needs, every time I
+  manage to get it together and move out.
+- preventing me from being exposed to new ideas (which can include
+  habits that lead to a more efficient life:
+  - having/using a dresser,
+  - having/using a closet (for clothes or for towels, which would
+    encourage daily shaving),
+  - having/using a piece of furnature for organizing bathroom
+    toiletries
+  - having
+  - many of these are simply habits that are learned upon exposure,
+    when living with other people.
+  - many of the above are sooo obvious that no self-respecting
+    psychologist could avoid commenting on what this does to an adult
+    child: it's like putting all the healthy routines on a high-shelf
+    outside of their reach. COGNITIVE BEHAVIORAL THERAPISTS WOULD WANT
+    TO REDUCE BARRIERS AND INEFFICIENCY
+   - but they just don't know BECAUSE OF SOCIAL ISOLATION
+   - there is simply AS CLOSE TO ZERO PEOPLE AS POSSIBLE WHO WOULD
+     EVER INGEST INFORMATION RELATED TO
+- total minimization of GENERALLY ANY & ALL INFORMATION leaking out
+  from my social network
+  - the goal: there is minimal information to clean up afterwards
+  - with zero meaningful social interactions
+  - however, social signal is almost always TWO WAY
+    - therefore, NO SIGNAL OUT, NO SIGNAL IN
+    - SO HOW T.F. COULD ANYONE EXPECT ME TO DEVELOP AND PROGRESS OUT
+      OF ADULT CHILDHOOD: MY SITUATION ALWAYS INSTEAD
+      PROVOKES/ENCOURAGES/REGRESSES MY SITUATIONS
+    - and never, EVER, EVER has my situation ever took into account my
+      ACTUAL complexes & diagnoses.
+      - e.g. no acknowledgement of the neurological nature of problems
+        or asperger's diagnosis
+      - e.g. no acknowledgement of TOTAL SOCIAL ISOLATION
+      - e.g. no acknowledgement of character assassination and career
+        assassination NONE
+      - e.g. no acknowledgement of lack of exposure to ANY AND ALL
+        basic hygienic and adult daily self-care behaviors.
+      - e.g. no acknowledgement of what it takes for someone to
+        PROGRESS who has: asperger's, an attachment disorder, tons of
+        virally defamatory information, BOTH a superiority complex and
+        an inferiority complex.
+- social isolation & deconstruction of a support network
+  - exhaustion/burnout of the few strong 1° connections remaining
+  - minimization of experiences with 2° interactions (or by framing
+    those interactions in/with negative information)
+  - "poisoning the contextual frame" by which people I meet or have
+    just met will view me, so that they generally avoid me, which
+    constricts the size and demographics of my 1° social neighborhood
+  - these generally undermine the development of any support
+    network. AND SURPRISE! I have no interpersonal outlet for stress,
+    except social media. ISN'T THAT OBJECTIVELY CONTRARY TO SOME
+    PEOPLE'S STATED GOALS? gaslighting + social-isolation + induction
+    of stress
+- minimization positive public attention, exaggeration of negative
+  public attention
+- the reduction of frequency and demographic spectral range of
+  novel/repeated social interactions. this prevents information from
+  leaking out....
+
+Basically, i'm saying that there is ZERO possible chance for my state
+to have improved over the past few years. I am not saying that the
+psychologists who i've seen have failed. I'm moreso worried about
+IATROGENIC TREATMENT, even when it happens to be done with good
+intentions.
+
+Social Neighborhood - The number of people within n° social
+connections of you. Your 1° social neighborhood is all the people
+you're directly connected to. Your 2° social neighborhood is all your
+friends of friends. However, what is the size of my 1° social
+neighborhood, if you consider connections to be someone I directly
+interact with for more than 15 minutes or an hour per week. IT IS ONE
+PERSON: MY MOM, WITH WHOM I SHARE A TOXIC RELATIONSHIP, THE FAULT FOR
+WHICH LIES ON BOTH SIDES, PERHAPS MORESO MINE. But the point is that
+there is one person through which all of my social interactions are
+lensed, outside of social media, which everyone stays away from. I do
+not care what the cause of this is or who's fault it is. It doesn't
+matter, except to discern the best way to FIX THE ROOT OF THE PROBLEM.
+
+If you want to know what I'm up against, here are about ten complexes
+I have MOST OF WHICH WERE UNNECESSARILY ACQUIRED (INTENTIONALLY
+ENCOURAGED & CERTAINLY NEVER DISCOURAGED)
+
+(1) superiority complex (2) inferiority complex (3) attachment
+disorder (4) PTSD (5) persecution complex (6) asperger's AND (7)
+social isolation where any shred of financial independence is
+undermined by sociopathic workplace bullies
+
+... there's a few more i don't feel like typing out right now.
+However, very little has EVER been done in my life addresses any of
+the above seven. AND I DON'T HAVE "LETTERS" BEHIND MY NAME.... . . . .
+
+That said, the therapists i've seen aren't bad: they all
+listened. There are several factors that prevented adequate treatment.
+
+- e.g. I moved a lot. Whenever I live in Roanoke, I'm living in
+  poverty (less than $8,000 in disposable income since September 2014
+  => THREE YEARS)
+  - so i can't pursue the kinds of social interactions that will help
+    me PROGRESS
+  - AND NO, IT"S NOT SOMETHING THAT WORKING AT BEST BUY WILL FIX =>
+    HELP ME FIX MY GODDAMN CAREER IF YOU GIVE A SHIT
+- e.g. I couldn't talk about how minimized sociophysical metrics
+  affected my life if i didn't recognize them.
+- e.g. as long as i'm socially isolated & socially mitigated, no one
+  else saw the obvious things in my life that I couldn't see
+  either. (i've been isolated by many factors, some of them are in my
+  control -- IT'S KIND OF A PERFECT STORM THOUGH)
+
+... and the thing about perfect storms? They are the confluence of
+many factors, each of which has a low or even infinitesimal
+probability yet together, they can't be explained by statistics --
+unless you take into account intentional and unintentional
+actions/consequences of the FEW people who interact with me. That's
+where the isolation backfires.
+
+Why am I so frustrated? I have been psychologically TORTURED: my human
+rights have been violated at work, in my social life and in my private
+life. People I worked with at Jumpcloud (to a much smaller extent)
+also obtained false and damaging information about me, which is
+seemingly available to anyone and everyone. They used the same tactics
+as others: (1) identifying some set of symbols to use as an ad-hoc
+subconscious test (2) hit me with the symbolic stimulus when I'm not
+expecting it (3) judging my reaction against information they had
+obtained from some other source
+(rumors/doxxing/intel/surveillance/email/social/... and WHO TF KNOWS)
+...
+
+I call this "rorschaching" => presenting me with symbol to judge my
+subconscious reaction as an indication of my thoughts/beliefs. The
+problem? The people that are using these ad-hoc verbal tests to judge
+me or label me have been getting it wrong the whole time. Because of
+my social vulnerability & ineptitude, I have never projected enough
+SOCIAL SIGNAL into situations to define/sculpt/shape my own
+identity. Instead, someone obtains DEFAMATORY information about me
+(from who knows where) and -- IN THE TOTAL VACUUM OF ANY SOCIAL SIGNAL
+FROM ME (since I don't know how) -- THAT HIGHLY TOXIC PERSON AT WORK
+(THAT ONE GUY) indirectly undermines my character and gradually
+isolates me at work by targeting any +1° coworkers who support me or
+have positive relationships with me. My social vulnerability (WHICH IS
+NEUROLOGICAL) leaves me alone, all the while society seems to want to
+destroy anything and everyone I touch --
+
+-- and yeh, things have gotten much better => people in the past two
+years have acted much nicer and positive towards me than I would
+expect. No one treats me poorly at the skating rink.  There are only
+about a half/dozen people with extremely negative intent towards me
+over the past ten or so years -- every other person's perception of me
+has been warped by these people's actions/games/etc and my own
+reaction to them. However, the combined and/or indirect effects
+stemming from dozen or so people could probably outweigh the combined
+goodwill of a million strangers. No matter what good people try to do
+in my life, it is apparently the intent and M.O. (modus operandi) of
+these toxic people that the inconvenient facts of my life remain
+suppressed forever. Worse, it is apparently their divine prerogative
+to ensure it happens.
+
+In 2015, 2016 and 2017, I was led astray by people who were
+GASLIGHTING me, using PRIVATE INFORMATION THEY COULD HAVE ONLY
+OBTAINED VIA SURVEILLANCE... Ever since approx February 27th, 2015 --
+when I "remembered" everything about Tatiana Maslany -- people would
+approach me and reference pieces of information (almost like
+passwords/keys) to trigger specific responses. These pieces of
+information could only have been obtained through surveillance or via
+extensive psychological profiling -- potenw/ social media info, though
+some of the information these people referenced came from various
+types of signal. What is the goal of gaslighting? To drive paranoia,
+to isolate, to contain, to confuse and to STIMULATE/PROVOKE MENTAL
+ILLNESS.
+
+It's not simply paranoia. There are people who approach me, gain my
+trust by referring to specific symbols, luring me in with the promise
+of information -- and then after briefly cultivating a rapport, they
+invariably lead me into a trap. I've simply stopped trusting people
+like this, but it took awhile -- and since I'm socially isolated =>
+THERE IS NO ONE BUT ME AROUND TO NOTICE HOW THESE PEOPLE
+INTERACT. They exploit slight of mouth, covert NLP (Neuro Linguistic
+Programming), covert hypnosis, obfuscating traces of communication
+over multiple channels, exploiting/selecting the specific audience to
+whom they project social signal.
+
+But most of all: THEY EXPLOITED MY SOCIAL VULNERABILITY: (1) MY
+NEUROLOGICAL INABILITY TO PROCESS/RESPOND AND (2) MY NEUROLOGICAL
+VULNERABILITY TO HYPNOSIS (3) et cetera, without conscience, opting
+instead for pragmatic, utilitarian exploitation of my psychology --
+ONLY CONCERNED ABOUT THE SHORT-TERM EFFECTS ON MY PSYCHOLOGICAL STATE
+-- without caring about what the medium-term effects would be. In
+other words, these people exploited intricate knowledge of
+psychology/sociology, along with ILLICITLY OBTAINED INFORMATION and
+apparently the time/energy to psychologically profile me. And their
+goal? To trigger a mental breakdown, to generally do everything
+counter to what would benefit my psychological state and to leave me
+alone & vulnerable & isolated & emotionally agitated. I have broken
+nearly all of their pattern languages and after disengaging from the
+toxic people, I have stabalized over the past year (ever since I left
+the colab).
+
+It really doesn't matter whether the gaslighting stuff is true, where
+the information is coming from, whatever, etc, etc. I do not seem to
+be the only person affected by these kinds of malicious social
+behaviors.  It doesn't matter because I can sniff it out when it
+happens and I can handle it BECAUSE I KNOW HOW TO APPLY SOCIAL PHYSICS
+AND GAME THEORY
 
 ==========
 

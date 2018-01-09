@@ -763,6 +763,19 @@ sufficiently intelligent being should evolve into one of several
 - but a being that is more intelligent than that should evolve into
   one that can embody all of them.
 
+- there may be a parallel to a turing test for Hyperintelligent
+  Beings: can a being emulate all beings?
+  - particularly, can they emulate you at a high-level -- not just
+    superficially (patterns of voice/text and parity of locution)
+  - can they emulate anyone? everyone?
+- in this way, intelligence becomes convergent, yet it is first
+  divergent. that is, high-IQ individuals are each their own
+  high-intelligence and not necessarily comparable.
+  - yet, at sufficiently high intelligences (which may only appear in
+    artificial intelligence) they become sufficiently similar because
+    the definitive trait of hyperintelligence is the ability to
+    emulate all other beings..
+
 ===============
 
 - Copy the Learn 2 Code page from the meetup blogs
