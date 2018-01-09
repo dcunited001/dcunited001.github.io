@@ -9,6 +9,19 @@ excerpt: ""
 ---
 
 
+- inverse correlation b/w size of a language pair membrane and
+  quantity of informational flux moving through each social node
+  - less people to facilitate movement of information through the
+    "membrane" and those people facilitate more information transfer
+    - it's also limited by the arrangement of people in the space, if
+      it's a physical space. they can't translate/etc if they aren't
+      face-to-face.
+    - similarly, limited by the previously existing establishment of
+      social connections if its a virtual space.
+    - it's also limited by the bandwidth of those nodes
+  - logarithmically(doublcheck?) correlated to the quantity of flux (more
+    information to move or more opportunities/need for communication,
+    then logarithmically more flux through each node)
 
 - kino (episode 10) and social physics
   - episode where the town is destroyed by the volcano
@@ -24,7 +37,61 @@ excerpt: ""
     the person is inconsequential, but -- at the risk of sounding like
     a megalomaniac -- their will has attained a kind of
     self-perpetuating phase change"
-  -
+  - there is no equilibrium preserved, but there are equilibrium-like
+    dynamics though. in many ways, the non-linear system begins moving
+    toward equilibrium when it is strongly out of equilibrium.
+    - in one such way, those people how have power keep it close to
+      them, but the people farther away who are strong in
+      heart/mind/spirit, but suffer from lack of power will attempt to
+      provide their own sociophysically local alternative to the power
+      structures of the elite.
+      - people naturally seek to insulate themselves from
+        externalities (especially when unpleasant/corrupt/(greedy)) by
+        reinterpreting how they perceive reality and helping those
+        around them do the same.
+      - when people are strong in heart/mind/spirit, they are
+        strong/smart enough to cultivate power structures of their own
+        and begin complementing/competing with other sociophyscially
+        local power structures.
+    - therefore, (in some aspects of social physics) when the pendulum
+      swings one way, it always begins to naturally swing in the other
+      way(s). it is usually both by (harnessing/aligning with) the
+      collective unconscious and by (machiavellian methods) that the
+      elite retain power, in spite of the pendulum's swing.
+      - it is by aligning with God, fate and/or the collective
+        unconscious -- if you even consider them different phenomena
+        -- that you can be in eternal conflict with your adversaries
+        while they desperately chase you and yet unknowingly follow
+        you.
+      - the truth is that by aligning yourself with fate, you identify
+        the points/areas through which society and humanity *must*
+        cross in order to move forward. regardless of whether your
+        friends or adversaries believe this spaces to be preposterous,
+        (moral/ethical), heretical, blasphemous or predestined, it
+        doesn't matter.
+        - if you are truly in that place, they will have no choice but
+          to follow you into it, regardless of who they are or what
+          ideas they represent.
+        - because this understanding descends not from a materialistic
+          conception of metaphysics, it is basically blasphemous to
+          those in science, statecraft and some religious institutions
+          today. though these same authorities might retort any
+          accusations of witch hunting or (notions of their
+          institutions as responding to blasphemy), this is exactly
+          what it is. the rationalist world essentially reviles
+          idealistic metaphysics.
+          - most of them never bother to entertain metaphysics or
+            outline the collective unconscious -- that is, all but the
+            most elite who are terrified that others might be capable
+            of anticipating their strategies/tactics in the future or
+            unveiling them in the past.
+            - so, if your are particularly good at this and you
+              consistently flip the table and whip the carpet off the
+              floor to show everyone all the dirt and muck beneath it,
+              you will find yourself on a stake, burnt as a witch --
+              metaphorical fuel to fan the flames of hatred for you
+              and everyone like you.
+
 
 - dichotomy between data-driven coarse-grained sociophysical models
   and the actual ground truth of individual's beliefs
@@ -297,9 +364,16 @@ defined in infinitely many ways.
 ### Reynold's Number
 
 - (reynold's number)
-        - describes the parameters at which turbulent fluid flow
-          emerges. (but what is turbulence for high-dimensional
-          sociophysical particle systems)
+  - describes the parameters at which turbulent fluid flow
+    emerges. (but what is turbulence for high-dimensional
+    sociophysical particle systems)
+  - Reynold's Number is closely related to the Speed of Sound
+
+### Information's Speed of Sound
+
+- what determines Mach-One in sociophysical spaces?
+  - population density, transportation methods, etc
+
 
 
 # Critical Metrics for Sociophysical Systems
@@ -337,7 +411,6 @@ defined in infinitely many ways.
   - before writing, only highly-prioritized information would be
     achieve convergence through replication.
   - after the printing press, ...
-
 
 ### Informational Entropy
 

@@ -81,6 +81,32 @@ excerpt: ""
           information in some way (it all descends and ascends
           infinitely -- all is one, one is all)
 
+#### Social Physics (X) (Pathological Liars & Disinformation)
+
+- Pathologically-oriented motivations behind lying, especially
+  compulsive lying
+  - for a smokescreen, for mapping information networks, for tracing
+    information through social networks
+  - ... other reasons?
+
+- the above () seen in pathological liars is often useful in
+  for situations of greater social scale
+  - but hard to justify and with the risk that you lose credibility,
+    which is difficult to accumulate (and easy to lose)
+  - it's useful primarily for the ability to trace information through
+    networks (by tagging a story/fact/statement with several
+    "catching" nonce components)
+    - but you can usually only do this when it's disinformation or
+      misinformation. if a nonced component (is true), it may still be
+      resolved by others if they resolve it on their on via the
+      coherence of the information.
+    - there are many uses for this in technology and IRL
+  - since people play telephone all the time, by attaching nonce
+    components to stories, you can begin to get a feel for who is
+    talking to who.
+
+#### Just Like The Body Follows The Head...
+
 - just like the body follows the head, the social organism follows the
   projection of attention, in aggregate. where there is aggregate
   attention, there will be motion towards and away from the object of

@@ -288,12 +288,19 @@ excerpt: ""
   to identify "longer" and more distant pathways for inferences
   - the types of "inference" pathways are more varied and less typical
 
+- intelligence as the ability to identify/follow/etc longer paths
+  through information networks/graphs
+  - most people would find these longer paths and complicated graph
+    structures too difficult to follow or (become confident of)
+  - i have this written somewhere else in drafts, but it makes sense
+    in this section
+
 - from these metrics on graphs/networks of information/knowledge,
   measures of speed, certainty, etc can be developed
   - here, time can be defined literally or the number of cycles some
     entity might require to make the inferences or connections
 
-# The Information Physics of Cultural Movements
+# The Informational Physics of Cultural Movements
 
 
 #### Information Consensus/Permanence (Matthew 5:18)
