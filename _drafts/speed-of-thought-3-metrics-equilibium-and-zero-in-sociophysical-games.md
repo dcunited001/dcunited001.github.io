@@ -510,100 +510,14 @@ defined in infinitely many ways.
 
 ### Metrics of Sociophysical Spaces
 
-#### Distributions on Spaces
-
-- visualize feng shui by coloring each point with the set of angles
-  that each social node is likely to orient itself... somehow
-  - so you're looking to summarize the set of angles at which social
-    nodes normally appear for each point at the space
-  - no one in a space stares at the wall, unless there's art hanging
-    up. this is completely different in an art gallery, where most
-    people orients themselves in discussions around art. here, the
-    phenomenon is reversed to some degree.
-    - however, in most spaces, people are more interested in
-      interacting with each other. yet, objects in the environment
-      will foment interaction.
-      - pool tables, TV's, food trucks, etc: each one of these is an
-        example of an inanimate object that exerts a kind of gravity
-        on the social particles in the space, resulting in an
-        influence on the position and orientation distribution.
-
-- distributions on spaces are (always?) composed of superpositions of
-  both integrated and differentiated distributions on the space
-  - so, people (and particles) move because we live in a world with
-    time. if you look at the frequency of social particle positions in
-    a space, then a distribution emerges that corresponds to the
-    probability of finding a social particle in a given area of that
-    space. we'll call that the position distribution.
-  - where does this distribution emerge from? in addition to other
-    components, it emerges from the superposition of particle paths in
-    a space. so, for an area in a space to register in the original
-    position distribution, there have to be particle paths from
-    neighboring areas that intersect with the area of concern.
-    - furthermore, the contribution of particle paths from neighboring
-      areas will be balanced by the speed of particles moving through
-      that area.
-    - that the particle position distribution emerges from
-      superpositions of other distributions is incredibly important in
-      understanding why it is the way it is and how it might change.
-      - however, there usually isn't enough data to fully understand
-        the particle position distribution and especially its
-        components.
-      - further, in a truly social space, the particle's experiences,
-        decisions and actions have a subjective quality to them
-
-- one particularly important quality of probability distributions is
-  that they must integrate to the value one. so, increases in one area
-  of the space must result in decreases to other.
-
-- the position distribution in a space identifies areas of the space
-  where power and influence can be amplified, simply by occupying or
-  using that region of the space.
-  - areas of a space can have power if they have a high frequency of
-    particles or a low frequency.
-    - other aspects of that area of the space confer advantages and
-      disadvantages. in some areas, people move more slowly. some
-      areas invoke common types/metatypes of psychological state in
-      people.
-    - to leverage the space, you must decide on what you want from
-      your interactions with people. some people can intuitively see
-      this, but almost no one does so methodically or pragmatically.
-
-- it is critical to understand what disaggregated components are
-  superimposed to obtain higher-order aspects of the distributions of
-  the space.
-  - these lower-order components reveal tight-coupling between the
-    people and the space. the functional specifics of this coupling
-    are tools that can be used to affect the behavior of people, on
-    scales both small and large.
-
-- for the same reason that the center of a chessboard is usually the
-  most valuable/contested region, the center of a medium-sized
-  square/round room exhibits the highest probabilities in its position
-  distribution.
-  - yet, once you define the doors, objects and facets in the room, it
-    profoundly alters the emergent position distribution. all paths
-    *through* the room must be coupled to a doorway. therefore, the
-    doors will root the distribution of paths through the room, which
-    sums to one of the component distributions that determine the
-    superposed position distribution.
-    - a good exception to this is a skating rink. why? because there
-      is usually one public entrance/exit to a building which is
-      otherwise open space. but the activity of the space encourages
-      specific paths of motion that sum to circular motion. therefore,
-      it's not the center of the open space with the highest
-      probability of social particles, it's the ring around the center
-      of the space. therefore, the position distribution is determined
-      by the distribution of paths of particles through the space,
-      which itself is tightly coupled to the activity that the space
-      offers.
-  - moving back to how the doors, objects and facets of a space define
-    its position distribution: the empty space is the most normal
-    space. anything deviating from the position distribution thus
-    exhibits higher entropy of probability distributions. the empty
-    space is thus the space with minimal entropy for measures of
-    entropy between spaces.
-
+- the position distribution emerging from the frequency of social
+  particle positions in the space
+  - the superposition of (path, velocity, etc) distributions that
+    result in the position distribution
+    - when particle paths emerge in the space that are abberrent, even
+      automated systems analyzing video data can identify these and
+      notify people to introspect the event for more information.
+    - this is EASY, by the way.
 
 # Social Physics and Machine Learning
 
