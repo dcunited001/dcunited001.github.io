@@ -380,6 +380,39 @@ AND GAME THEORY
 
 ==========
 
+And one more thing to add to the list at the top:
+- If I improve, there is no acknowledgement from my 1° social
+  neighborhood.
+
+This implies there is no positive reinforcement because there is
+simply no acknowledgement. there simply aren't enough people who spend
+time with me who can say ANYTHING about my psychology or my progress
+
+Please read this post that I wrote on Social Physics. It begins to
+explain how I now see social interactions on small and large
+scales. Also, in this draft, there is outlined a discussion on how to
+maliciously limit sociophysical aspects/metrics in someone's life to
+tactically isolate them. So, I'm not making this up, I can rigorously
+explain how to do it to someone else. Whether it happened to me is
+debatable, but whether this can be done to someone is certain.
+
+"Zero In Social Physics" (from the draft Speed of Thought part 3)
+
+- Decision Model Inference & Manipulation
+  - Inferences from Modes of Transportation
+  - Inferences from Logical Understanding of Location
+  - Inferences from Disposable Income
+- Using Social Physics to Contain/Promote People & Ideas
+- Muting a Target's Identity
+- Isolation of Social Graph Boundaries
+- Use of Fear/Love to Contract/Expand a Target's Social Boundaries
+- Don't Become Big Enough to Be A Target, Work Indirectly and Disdain Ego
+- Limiting/Providing Financial/Social Capital/Options
+- When targets are muted and/or isolated, adversaries have major
+  advantages in amplifying information (to establish it as a baseline)
+
+==========
+
 ### Disrupting Positive/Negative Reinforcement (Gradient Descent)
 
 - however, constant failure with persistently null indication &

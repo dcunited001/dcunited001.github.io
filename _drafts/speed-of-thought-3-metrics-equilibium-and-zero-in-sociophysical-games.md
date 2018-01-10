@@ -508,6 +508,102 @@ defined in infinitely many ways.
         important when trying to decide if the information can
         physically escape.
 
+### Metrics of Sociophysical Spaces
+
+#### Distributions on Spaces
+
+- visualize feng shui by coloring each point with the set of angles
+  that each social node is likely to orient itself... somehow
+  - so you're looking to summarize the set of angles at which social
+    nodes normally appear for each point at the space
+  - no one in a space stares at the wall, unless there's art hanging
+    up. this is completely different in an art gallery, where most
+    people orients themselves in discussions around art. here, the
+    phenomenon is reversed to some degree.
+    - however, in most spaces, people are more interested in
+      interacting with each other. yet, objects in the environment
+      will foment interaction.
+      - pool tables, TV's, food trucks, etc: each one of these is an
+        example of an inanimate object that exerts a kind of gravity
+        on the social particles in the space, resulting in an
+        influence on the position and orientation distribution.
+
+- distributions on spaces are (always?) composed of superpositions of
+  both integrated and differentiated distributions on the space
+  - so, people (and particles) move because we live in a world with
+    time. if you look at the frequency of social particle positions in
+    a space, then a distribution emerges that corresponds to the
+    probability of finding a social particle in a given area of that
+    space. we'll call that the position distribution.
+  - where does this distribution emerge from? in addition to other
+    components, it emerges from the superposition of particle paths in
+    a space. so, for an area in a space to register in the original
+    position distribution, there have to be particle paths from
+    neighboring areas that intersect with the area of concern.
+    - furthermore, the contribution of particle paths from neighboring
+      areas will be balanced by the speed of particles moving through
+      that area.
+    - that the particle position distribution emerges from
+      superpositions of other distributions is incredibly important in
+      understanding why it is the way it is and how it might change.
+      - however, there usually isn't enough data to fully understand
+        the particle position distribution and especially its
+        components.
+      - further, in a truly social space, the particle's experiences,
+        decisions and actions have a subjective quality to them
+
+- one particularly important quality of probability distributions is
+  that they must integrate to the value one. so, increases in one area
+  of the space must result in decreases to other.
+
+- the position distribution in a space identifies areas of the space
+  where power and influence can be amplified, simply by occupying or
+  using that region of the space.
+  - areas of a space can have power if they have a high frequency of
+    particles or a low frequency.
+    - other aspects of that area of the space confer advantages and
+      disadvantages. in some areas, people move more slowly. some
+      areas invoke common types/metatypes of psychological state in
+      people.
+    - to leverage the space, you must decide on what you want from
+      your interactions with people. some people can intuitively see
+      this, but almost no one does so methodically or pragmatically.
+
+- it is critical to understand what disaggregated components are
+  superimposed to obtain higher-order aspects of the distributions of
+  the space.
+  - these lower-order components reveal tight-coupling between the
+    people and the space. the functional specifics of this coupling
+    are tools that can be used to affect the behavior of people, on
+    scales both small and large.
+
+- for the same reason that the center of a chessboard is usually the
+  most valuable/contested region, the center of a medium-sized
+  square/round room exhibits the highest probabilities in its position
+  distribution.
+  - yet, once you define the doors, objects and facets in the room, it
+    profoundly alters the emergent position distribution. all paths
+    *through* the room must be coupled to a doorway. therefore, the
+    doors will root the distribution of paths through the room, which
+    sums to one of the component distributions that determine the
+    superposed position distribution.
+    - a good exception to this is a skating rink. why? because there
+      is usually one public entrance/exit to a building which is
+      otherwise open space. but the activity of the space encourages
+      specific paths of motion that sum to circular motion. therefore,
+      it's not the center of the open space with the highest
+      probability of social particles, it's the ring around the center
+      of the space. therefore, the position distribution is determined
+      by the distribution of paths of particles through the space,
+      which itself is tightly coupled to the activity that the space
+      offers.
+  - moving back to how the doors, objects and facets of a space define
+    its position distribution: the empty space is the most normal
+    space. anything deviating from the position distribution thus
+    exhibits higher entropy of probability distributions. the empty
+    space is thus the space with minimal entropy for measures of
+    entropy between spaces.
+
 
 # Social Physics and Machine Learning
 
@@ -881,6 +977,49 @@ Modeling](https://research.fb.com/publications/vain-attentional-multi-agent-pred
 
 
 
+### Conversation Keepaway
+
+- playing keepaway with an item of interest, such as a ball, requires
+  2+ people to consciously participate in keeping the item away
+  - this also has the side-effect of anti-focusing the target's
+    energy, as they toggle their focus from one person to
+    another. thus, the target's focus dissipates.
+- conversation keepaway only requires one person to intend the game.
+  - they can encourage group dynamics to emerge, while making their
+    intent visible to others or shielding it from the group's
+    awareness.
+  - if the target is socially vulnerable or a bit slow/inexperienced
+    when it comes to conversation, then it's trivial to identify when
+    they want to add something to the conversation.
+    - when they start talking, it's easy to regain control of the
+      conversation within two or less statements by that person
+  - this sounds crazy, but it really works. however, the same effect
+    is produced when you have a group with several people who are full
+    of themselves and eager to speak instead listening to others.
+    - either one is not easy for socially vulnerable people to deal
+      with. if they face these situations constantly, they will never
+      develop conversational skills.
+      - if one of your objectives is for them to remain
+        socially/psychologically vulnerable and unable to proactively
+        interact with people, then conversation keepaway is perfect,
+        as long as you tightly control their 1&deg; social
+        neighborhood.
+        - this will also keep them emotionally pent up. they will be
+          forced to bottle everything up and will have few people to
+          talk to.
+        - they will be eager to speak to anyone who listens, so
+          therefore, they'll be more susceptible to toxic people who
+          only pretend to listen at first.
+        - they will remain socially needy. their energy will be
+          effectively dispersed in small scale social interactions,
+          leading to the development of fewer connections.
+
+- this is especially effective if your goals include:
+  - minimizing the scope of social information distribution
+  - preventing the development of relationships, specific or general
+  - disruption of relationship development
+  - enticement of the subject/target into social settings with passive
+    aggressive diffusion of their energy
 
 ### Decision Model Inference & Manipulation
 
