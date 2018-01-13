@@ -9,6 +9,92 @@ excerpt: ""
 ---
 
 
+- most people don't understand social physics. it would never occur to
+  them to reason about these things with math, especially early on in
+  life because to them society, life and social interactions are all
+  about feelings.
+  - they may think about the network affect or generally gravitating
+    towards more influential people. as people socially develop, they
+    may begin to intuitively understand some sociophysical phenomena
+    by reflecting on their experiences, but it depends on their
+    natural emotional intelligence, variety of experience and
+    metacognition.
+  - people must understand how to function in their local social
+    environments (i.e. the relationships in work/school/family), but
+    they don't necessarily *need* more than that. therefore, it is
+    certainly possible to function in these relationships, regardless
+    of the qualities of those relationship dynamics
+    - (e.g. it is possible to "function" in relationships that are
+      healthy, unhealthy or even toxic, without being consciously
+      aware of:
+      - what it is you do that is contributing to the relationship
+      - what the other person is doing for you or what you are getting
+        out of the relationship, etc
+    - therefore, it is possible for someone who is naive to have a
+      completely ignorant understanding of life & society to function
+      well within certain bounds. most of the relationships this
+      person will form are not critical to the levels in their
+      maslovian hierarchy of needs -- though a handful of those
+      relationships certainly are.
+      - that is, out of the ~150 relationships that the average person
+        can concurrently participate in, only some of those are
+        critical to that person's ability to maintain psychosocial
+        stability in their lives
+        - (maslovian as in the pyramid: (1) food/shelter, (2) ... )
+    - it is perfectly ordinary for someone *ordinary* to maintain
+      their relationships without understanding the underlying
+      psychosocial mechanics of those relationships.
+      - immature/young people ordinarily do.
+      - but, as one zooms out to higher social scales, those
+        less-naive people on the other end of those relationships
+        ALMOST ALWAYS HAVE BETTER UNDERSTANDINGS OF PSYCHOSOCIAL
+        DYNAMICS
+        - this is especially true in relationships where the "higher"
+          end confers power to the more naive person
+
+    - thus, there are intergenerational and class-based dynamics
+      here. the older generation and the higher classes have more
+      knowledge about interpersonal relationships, their underlying
+      psychosocial mechanics and the dynamics that emerge
+      - therefore, there's a gradient that emerges. the socially
+        vulnerable -- those who are younger, more naive or less
+        affluent -- always face an uphill battle, but the battle is
+        primarily informational.
+        - furthermore, if you don't receive a certain variety of
+          experience, you can never attain the kind of intuitionistic
+          understanding of the psychosocial mechanics that underly
+          interpersonal relationships.
+    - to move upwards in society, you have to appease those with
+      power/influence. yet, if you are naive and appease those
+      relationships that confer to you influence/salary/etc, you may
+      not understand at all what you are contributing to the
+      relationship that they want.
+      - this understanding perfectly describes how suburban America
+        contributes to the banking industry, while being completely
+        ignorant of what it does for big banks that keeps the magical
+        chocolate factory of Big Banks and Wall Street happy
+        - you simply know that: you go to work, you pay your mortgage,
+          you keep your house AND YOU DON'T TALK ABOUT CERTAIN
+          THINGS
+          - if you do all these things, you don't have a problem with
+            willy wonka. if you don't know the "certain things" you
+            don't talk about, no problem.
+          - however, if you actually want to change things -- and
+            specifically, if you want to change things that relate to
+            the banking sector -- you kind of need to know about those
+            things you don't talk about.
+          - if you come from a lower/middle class family, you're not
+            going to go about that in the right way and you're
+            invariably going to run into problems.
+     - KNOWLEDGE IS POWER. and in class warfare, knowledge is scarce
+       -- the aristocrats keep it that way. however, you can find
+       yourself in the middle class -- perhaps the upper middle class
+       if you're lucky -- and you don't need to know anything that
+       threatens anyone in the highest echelons of aristocracy.
+       - just keep in mind -- you might be free range, but you are not
+         free. there are certain bounds and if you wander outside
+         those bounds, retribution is swift.
+
 - inverse correlation b/w size of a language pair membrane and
   quantity of informational flux moving through each social node
   - less people to facilitate movement of information through the

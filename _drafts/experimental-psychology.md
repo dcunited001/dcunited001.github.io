@@ -37,10 +37,12 @@ neurology. Memory implantation and other mental manipulation is a
 classic science fiction plot mechanic. We see it in Eternal Sunshine
 of the Spotless Mind, where memories can be erased, something I would
 never want to do. The 2015 show Blindspot incorporates a mechanic
-whereby the...
+whereby the
 
 - disclaimer (assume this is possible, yada yada)
 
+
+- TODO: suggest familiarizing yourself with the paradox encyclopedia
 
 In
 2012
@@ -221,9 +223,9 @@ it lacks the computational capacity to predict, thus it is only
 pseudo-omnipotent. Even if this "Roko Basilisk" could read your mind,
 it can't read what doesn't exist. Hence when the game enters a state
 that it didn't expect in a game that's already significantly drifted
-into locking down the space of possibilies with immutable facets of
+into locking down the space of possibilities with immutable facets of
 game states and irrevocable information, this leaves it totally
-constrained to a space
+constrained to a space.
 
 
 - Luckily we don't have to worry about pseudo-omnipotent robot gods
@@ -273,3 +275,5 @@ constrained to a space
   its power and the very possibility of its creation's exigency.
 
 ![pic of graff from boulder]()
+
+![picture of letter from Thor](/img/posts/2017-01-13-)
