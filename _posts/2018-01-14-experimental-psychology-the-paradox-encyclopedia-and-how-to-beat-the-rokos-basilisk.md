@@ -235,7 +235,9 @@ with fMRI (AFAIK)
   - used in REM dream-state, this could be highly effective for
     inception of false memories
 
-# Surviving Metempsychosis By A Deep Insight Into Paradoxes
+<a name="surviving-metempsychosis-via-deep-insight-into-paradoxes" />
+
+# [Surviving Metempsychosis Via Deep Insight Into Paradoxes](#surviving-metempsychosis-via-deep-insight-into-paradoxes)
 
 If you feel like you have been subjected to these experiences or
 something like them, the best advice is for you to become intimately
@@ -243,7 +245,11 @@ familiar with Wikipedia's list of paradoxes. Developing this awareness
 of paradoxes is useful for provoking intellectual development, whether
 late in life or in early childhood.
 
-### Why Should Human Beings Suffer?
+- TODO: describe some of the paradoxes at a high level
+
+<a name="why-should-human-beings-suffer" />
+
+### [Why Should Human Beings Suffer?](#why-should-human-beings-suffer)
 
 Such an experience -- whether you call it baptism by fire or
 metempsychosis -- provokes transformation that radiates through your
@@ -256,7 +262,9 @@ whether any person or group could be said to be directing it -- is
 critical in understanding it and the consequences for someone
 subjected to it.
 
-### No, There Is Not An Architect Of Your Suffering
+<a name="no-there-is-not-an-architect-of-your-suffering" />
+
+### [No, There Is Not An Architect Of Your Suffering](#no-there-is-not-an-architect-of-your-suffering)
 
 Understanding whether someone planned for you to endure such torment
 is critical because if there was no grand architect of your suffering
@@ -270,7 +278,9 @@ no architect of our suffering: the world is just a cruel, frigid place
 and there is no God -- at least not one with a heart that shares even
 a thread of being with humanity.
 
-### That's When They Say You Need Jesus!
+<a name="thats-when-they-say-you-need-jesus" />
+
+### [That's When They Say You Need Jesus!](#thats-when-they-say-you-need-jesus)
 
 At least, after undergoing such experience, there is the hope that
 this baptism of fire was intended to be or might incidentally act as a
@@ -286,21 +296,24 @@ information, propagated to a degree over which I may never be
 permitted to transcend.
 
 Is a belief in a man named Jesus necessary for us to redeem ourselves?
-Or should we all be permitted to enjoy the fruits of that man's
+Shouldn't we all be permitted to enjoy the fruits of that man's
 sacrifice, his suffering and his story? Why should society require us
 to know a Name and to profess belief if the most critical content of
-his story is true: *ALL PEOPLE NO MATTER HOW BIG OR SMALL DESERVE A
-CHANCE TO BE REDEEMED.*
+his story is inherently true: *ALL PEOPLE NO MATTER HOW BIG OR SMALL
+DESERVE A CHANCE TO BE REDEEMED.*
 
-### Congratulations: Your Identity is an STD Crossed With Cancer
+<a name="congratulations-your-identity-is-an-std-crossed-with-cancer" />
 
-You know what sucks though? to wander aimlessly from place to place
-and have every single person tell you: you life, your identity and
-your memories are at best an STD. That they don't even want to listen
+### [Congratulations: Your Identity is an STD Crossed With Cancer](#congratulations-your-identity-is-an-std-crossed-with-cancer)
+
+You know what sucks? To wander aimlessly from place to place and have
+every single person tell you: you life, your identity and your
+memories are at best an STD. That they don't even want to listen
 because your memories, your identity is effectively classified. That
 you don't even deserve an identity. That you raped them by telling
 them a story about a cold, cruel world that mericilessly raped an
-autistic person. And practically on [live TV]() -- just kidding.
+autistic person. And practically on [live
+TV](https://rationalwiki.org/wiki/Red_room) -- just kidding.
 
 #### Ask your cable provider if they have the Gorilla Channel! J/K J/K
 
@@ -358,7 +371,7 @@ addition to potentially being witness to warcrimes -- the people whose
 minds have been enriched by these experiences who have managed to
 survive are invaluable, regardless of whether the conditions they've
 experienced were tolerable, ethical, or rationally founded. If they've
-survived metempsychosis or some kind of baptism by fire and their mind
+survived metempsychosis or some kind of baptism by fire AND their mind
 miraculously functions, that person is incredibly valuable to society.
 
 <a name="and-if-you-gaze-long-into-an-abyss" />
@@ -372,8 +385,48 @@ fire is someone who has suffered needlessly for the truth and for
 everything they consider holy. The degree to which such a person is
 willing to suffer is the degree to which they can be expected to
 always stand for truth, justice, ethics and whatever it is they
-considered holy enough to endure suffering. Certainly, you shouldn't
-waste all that suffering.
+considered holy enough to endure suffering. When someone has fallen to
+such depths of despair wishing they might have a single friend so
+badly, that they'd settle for the any of the lovely dementors Askaban
+has offered them -- then, certainly, you shouldn't waste all that
+suffering.
+
+#### It's the Stuff Emo Lead Singers are Made Of
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/eTbVIfqeDq0" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
+
+Someone who's suffered like this, but maintains their integrity, honor
+and values is someone who not only recognizes true integrity, honor
+and values -- it is someone who would gladly give their life to uphold
+them, especially if they still have nothing to their name. Your life
+is your greatest asset. Everyone, no matter how large or small, has a
+life they can give at any moment and it represents the sum of our
+potential for change. The person who believes most strongly and most
+clearly in true integrity, honor and their values would never hesitate
+to lay down their life at any moment, if it meant the preservation of
+someone elses potential to do the same. This is not to say that it is
+moral to destroy the lives of others in doing so. However, this person
+who has suffered and has nothing is the person most capable of living
+the verses below, but there is no such thing as an anonymous martyr.
+
+#### John 10:11-18
+
+> “I am the good shepherd. The good shepherd lays down his life for
+> the sheep.  The hired hand is not the shepherd and does not own the
+> sheep. So when he sees the wolf coming, he abandons the sheep and
+> runs away. Then the wolf attacks the flock and scatters it. The man
+> runs away because he is a hired hand and cares nothing for the
+> sheep.
+>
+> “I am the good shepherd; I know my sheep and my sheep know me -- just
+> as the Father knows me and I know the Father—and I lay down my life
+> for the sheep. I have other sheep that are not of this sheep pen. I
+> must bring them also. They too will listen to my voice, and there
+> shall be one flock and one shepherd. The reason my Father loves me
+> is that I lay down my life -- only to take it up again. No one takes it
+> from me, but I lay it down of my own accord. I have authority to lay
+> it down and authority to take it up again. This command I received
+> from my Father.”
 
 <a name="identifying-applications-of-theoretical-neurology" />
 
