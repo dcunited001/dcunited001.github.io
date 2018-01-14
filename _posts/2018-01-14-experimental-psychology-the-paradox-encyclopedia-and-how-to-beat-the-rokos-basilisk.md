@@ -86,11 +86,13 @@ might as well not exist.
 ### Neurological Tactics for the Attainment of Sociophysical Objectives
 
 - The sociophysical critical mass for the proactive or retroactive
-  estabilishment of an idea. Such an ideas might include a comic book
-  series or a cover story.
-
-- Harnessing the [Mandela
-  Effect](https://en.wikipedia.org/wiki/False_memory#Collective_false_memories)
+  estabilishment of an idea. Such ideas might include a comic book
+  series or a cover story
+  - but critically, one is harnessing the [Mandela
+    Effect](https://en.wikipedia.org/wiki/False_memory#Collective_false_memories)
+    to attain a sociological effect, where collective false memories
+    create some intended effect on society at larger scales.
+  - Fake news is a great example of a tactic "adjacent" to this.
 
 
 # Theories for Mechanisms of Implanted Memories
