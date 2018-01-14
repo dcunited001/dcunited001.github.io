@@ -8,10 +8,9 @@ author:
 excerpt: ""
 ---
 
-TODO: tranlate what was an extended comment on an article in the
+TODO: translate what was an extended comment on an article in the
 internet to an actual post
 
-- reference to ars technica article
 - references to videos explaining "memory implantation" studies from 2015
 - the best advice i can give you is: look at Wikipedia's [List of
   Paradoxes]() and know each and every one of them like the back of
@@ -23,7 +22,7 @@ internet to an actual post
   - it triggered a memory where i was talking to tatiana about that
     same exact quote from Jung
 
-- TODO: suggest familiarizing yourself with the paradox encyclopedia
+# In Which Psychological Warfare Becomes Neurological Warfare
 
 In the past five years, mainstream media has been weaving in
 experimental methods from bleeding edge psychology and neurology. For
@@ -34,8 +33,11 @@ something I would never want to do. The 2015 show Blindspot
 incorporates a mechanic whereby the main character has most of her
 long-term memory erased only to be discovered as a empty doll in a
 handbag in Times Square Manhattan. She's covered with "tattoos" whose
-images function as pointers to terrorist plots.  blood-plasma levels of
-the protein drug zeta-interacting protein
+images function as pointers to terrorist plots. Her blood-plasma
+levels of the protein drug [Zeta-Interacting
+Protein](https://en.wikipedia.org/wiki/Protein_kinase_C_zeta_type)
+(ZIP) are off the charts -- this protein harnesses a real mechanism
+which has been studied since the 1980's.
 
 ### TL;DR?
 
@@ -50,15 +52,46 @@ application -- especially by state actors -- can *not* be guaranteed
 with risk that is acceptable to operational security requirements.
 
 > **Disclaimer:** this article is intended to be an exercise of
-> imagination, fueled by an understanding of real psychological,
-> sociological and neurological theory. However, I do not intend for
-> it to make authoritative or definitive statements of any kind. If
-> you're wondering, yes, I am a victim here -- of what, I'm not quite
-> sure. I have no problems distinguishing fantasy and reality -- I'm
-> sick of pondering all the what-ifs. Besides familiarizing myself
-> with the encyclopedia of paradoxes on Wikipedia, the best way I've
-> found to defend myself is to identify the people pushing specific
-> buttons, triggering deja-vu and to keep those people out of my life.
+> imagination and philosophy, fueled by an understanding of real
+> psychological, sociological and neurological theory. However, I do
+> not intend for it to make authoritative or definitive statements of
+> any kind. If you're wondering, yes, I am a victim here -- of what,
+> I'm not quite sure. I have no problems distinguishing fantasy and
+> reality -- I'm sick of pondering all the what-ifs. Besides
+> familiarizing myself with Wikipedia's [encyclopedia of paradoxes](),
+> the best way I've found to defend myself is to identify the people
+> pushing specific buttons, triggering deja-vu and to keep those
+> people out of my life.
+
+### [Memory IS Identity](#memory-is-identity)
+
+You are your own memories. Someone who violates your memories violates
+your identity. To others, their memories with you and associated with
+you constitute their understanding of your identity. In a society that
+violates your identity by "Memory Hole" -- i.e. classifying anything
+associated with your name -- that society is raping your life every
+minute that you breathe. If you fall victim to a Memory Hole, they
+have sociophysically contained you by coercing anyone who refers to
+undesirable details about you by name. That is, they have
+mathematically contained you by threatening retribution against anyone
+who counters their attempt to optimize sociophyisical metrics in their
+favor -- e.g. the size of your social graph neighborhood or the
+frequency/quality of your social interactions. What matters in life is
+making memories with others. Regardless of what you do -- meet friends
+IRL, run expensive social media campaigns on daddy's trust fund money
+-- if you can't make in impression in someone's mind that associates
+your name to an emotionally relevant memory, *it doesn't matter.* You
+might as well not exist.
+
+### Neurological Tactics for the Attainment of Sociophysical Objectives
+
+- The sociophysical critical mass for the proactive or retroactive
+  estabilishment of an idea. Such an ideas might include a comic book
+  series or a cover story.
+
+- Harnessing the [Mandela
+  Effect](https://en.wikipedia.org/wiki/False_memory#Collective_false_memories)
+
 
 # Theories for Mechanisms of Implanted Memories
 
@@ -105,8 +138,7 @@ public is intended to see.
 
 ![picture of letter from Thor](/img/posts/2018-01-14-experimental-psychology-the-paradox-encyclopedia-and-how-to-beat-the-rokos-basilisk/experimental-psychology.jpg)
 
-- callout Thor
-- TODO: picture of the book
+- TODO: callout Thor
 
 
 ### Repressed Memories Lead to Higher Incidence of Fallacious Memories
@@ -258,19 +290,35 @@ to know a Name and to profess belief if the most critical content of
 his story is true: *ALL PEOPLE NO MATTER HOW BIG OR SMALL DESERVE A
 CHANCE TO BE REDEEMED.*
 
+### Congratulations: Your Identity is an STD Crossed With Cancer
+
 You know what sucks though? to wander aimlessly from place to place
 and have every single person tell you: you life, your identity and
 your memories are at best an STD. That they don't even want to listen
 because your memories, your identity is effectively classified. That
-you raped them by telling them a story about a cold, cruel world that
-mericilessly raped an autistic person -- practically on live TV.
+you don't even deserve an identity. That you raped them by telling
+them a story about a cold, cruel world that mericilessly raped an
+autistic person. And practically on [live TV]() -- just kidding.
+
+#### Ask your cable provider if they have the Gorilla Channel! J/K J/K
+
+![picture of letter from Thor](/img/posts/2018-01-14-experimental-psychology-the-paradox-encyclopedia-and-how-to-beat-the-rokos-basilisk/gorilla-channel.jpg)
+
+#### Just Kidding! All They Carry Are Deepweb Red Rooms!
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/eqO4453PB8g" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
+
+###
 
 Someone undergoing metempsychosis will feel like they are going crazy
 -- your perception of reality disintegrates and nothing makes
 sense. Most people will simply give up. They will not have the
 intellectual chops to explain what is happening to them, especially if
 their adversaries are flaunting the utilization of NSA's covert
-surveillance methodologies as though they might have psychic powers.
+surveillance methodologies as though they might have psychic
+powers. What better way to facilitate gaslighting someone who's
+otherwise suffering and sociophysically isolated than to prompt them
+with someone who appears to have all the answers?
 
 However, if you do manage to avoid succumbing to all of this, it
 provokes
@@ -281,10 +329,14 @@ baptism by fire and there is simply no other way to survive. If you do
 not have the intellectual chops, you will either become psychotic or a
 slave to those around you who control you.
 
+<a name="methodical-typological-expansion-of-variety-of-experience" />
+
+### [Methodical, Typological Expansion of Variety of Experience](#methodical-typological-expansion-of-variety-of-experience)
+
 For the same reason that *limited* use of psychedelics can foster
-spiritaul and neurological expansion by providing your mind access to
+spiritual and neurological expansion by providing your mind access to
 a range of types of experience that it would never otherwise witness,
-this metempsychosis acts like a coccoon. Why is this true for
+this metempsychosis acts like a cocoon. Why is this true for
 psychedelics and metempsychosis? Understanding this requires
 understanding how the range of input for artificial intelligence and
 machine learning affects its ability to process data, to classify
@@ -297,24 +349,33 @@ analytical data-processing entity.
 
 Therefore, lacking this range of life experience *profoundly*
 restricts the range of input for your brain's own machine learning
-training. By expanding the range of input you receive, it profoundly
-expands the range of perspectives you have witnessed. There is no
-effective means of "teaching" these understandings to people. The
-people whose minds have been enriched by these experiences who have
-managed to survive are invaluable, regardless of whether the
-conditions they've experienced were tolerable, ethical, or rationally
-founded. If they've survived metempsychosis or some kind of baptism by
-fire and their mind miraculously functions, that person is incredibly
-valuable to society.
+training. By expanding the range of experiential input you receive, it
+profoundly expands the range of perspectives you have witnessed. There
+is no effective means of "teaching" these understandings to people. In
+addition to potentially being witness to warcrimes -- the people whose
+minds have been enriched by these experiences who have managed to
+survive are invaluable, regardless of whether the conditions they've
+experienced were tolerable, ethical, or rationally founded. If they've
+survived metempsychosis or some kind of baptism by fire and their mind
+miraculously functions, that person is incredibly valuable to society.
+
+<a name="and-if-you-gaze-long-into-an-abyss" />
+
+### [And If You Gaze Long Into An Abyss...](and-if-you-gaze-long-into-an-abyss)
+
+#### Eventually, It Will Grant You Three Wishes
 
 The most critical point is that a person who has survived baptism by
 fire is someone who has suffered needlessly for the truth and for
 everything they consider holy. The degree to which such a person is
 willing to suffer is the degree to which they can be expected to
 always stand for truth, justice, ethics and whatever it is they
-considered holy enough to endure suffering.
+considered holy enough to endure suffering. Certainly, you shouldn't
+waste all that suffering.
 
-# Identifying Application of Theoretical Neurology
+<a name="identifying-applications-of-theoretical-neurology" />
+
+# [Identifying Applications of Theoretical Neurology](#identifying-applications-of-theoretical-neurology)
 
 - these are all technologies which shouldn't exist
   - mention the potential for DARPA or foreign government-funded
@@ -510,3 +571,5 @@ constrained to a space.
   its power and the very possibility of its creation's exigency.
 
 ![pic of graff from boulder]()
+
+- TODO: picture of the book
