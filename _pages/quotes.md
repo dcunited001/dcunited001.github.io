@@ -4,6 +4,8 @@ title: "&#x300C;&#x25CA;&#x203D;&#x03BB;&#x2207;&#x03A6;&#x300D;"
 permalink: /quotes/
 ---
 
+> The truth is always convergent.
+
 > Metacognition is a science as well as an art.
 
 > That which is rarely found is always a greater treasure. The

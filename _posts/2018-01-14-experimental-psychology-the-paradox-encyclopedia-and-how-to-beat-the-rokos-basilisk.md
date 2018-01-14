@@ -73,8 +73,8 @@ equally extreme positive event.
 
 ### Active HUMINT Surveillance For Inception, Gaslighting and Risk Mitigation
 
-To a skeptic, this is the most reasonable explaination for false
-memories. It violates Occam's ras
+To a skeptic, this is the most reasonable explanation for false
+memories. It least offends Occam's razor.
 
 If the person is under surveillance and is known to exhibit a certain
 psycological trait (i.e. they talk to themselves) then, with
@@ -91,15 +91,23 @@ Terror investigation, then everyone else around the target can be
 threatened, leaving them alone and vulnerable with minimal record of
 all HUMINT interactions.
 
-> It is because of possibilities like this and the capabilities
-> offered by Big Data that social forensics will eventually be a field
-> of interest for law enforcement. Ever wonder why it's so hard to
-> investigate the psychosocial surroundings and triggers for some
-> school shooters? It's because a minority of them are
-> COINTELPRO-style operations, where the socioforensic evidence has
-> been artificially managed and mitigated beforehand. Thus, anyone who
-> goes back to investigate uncovers information that paints the
-> narrative that the public is intended to see.
+It is because of possibilities like this and the capabilities offered
+by Big Data that social forensics will eventually be a field of
+interest for law enforcement. Ever wonder why it's so hard to
+investigate the psychosocial surroundings and triggers for some school
+shooters? It's because a minority of them are COINTELPRO-style
+operations, where the socioforensic evidence has been artificially
+managed and mitigated beforehand. Thus, anyone who goes back to
+investigate uncovers information that paints the ×narrative that the
+public is intended to see.
+
+#### A Printout Given To Me By My Good Friend Thor
+
+![picture of letter from Thor](/img/posts/2018-01-14-experimental-psychology-the-paradox-encyclopedia-and-how-to-beat-the-rokos-basilisk/experimental-psychology.jpg)
+
+- callout Thor
+- TODO: picture of the book
+
 
 ### Repressed Memories Lead to Higher Incidence of Fallacious Memories
 
@@ -150,7 +158,9 @@ across the brain. (i.e. the audio for a sensual experience is stored
 in a different place than the visual and semantic fragments of that
 information)
 
-Or focused Transcranial Magnetic Stimulation. One could "encourage"
+### Transcranial Magnetic Stimulation (TMS)
+
+(focused Transcranial Magnetic Stimulation). One could "encourage"
 the mapping of memories by applying TMS to targeted areas of the brain
 while the person is experiencing some video/audio. Such a technique
 would be hampered by the impossibility of running TMS simultaneously
@@ -172,10 +182,158 @@ with fMRI (AFAIK)
     means of "locking on" to the energy-signature emitted from their
     skull
 
+- other uses of SPION's and Directed Energy
+  - use of directed energy and hyperspectral image reconstruction
+    techniques to maintain complete remote surveillance of a subject
+    with a total lack of HUMINT
+  - this is fantastic for gaslighting. you can maintain total
+    surveillance with reconstructed 3D images, all with minimal HUMINT
+    engagement of the target.
+
+- journals to cite for understanding the thermal activation for
+  SPION's with directed energy
+  - it is certainly possible
+
+### Transcranial Doppler
+
+- activation via SPION nano-particles
+- bone-conduction microphones/speakers and transcranial doppler
+  - used in REM dream-state, this could be highly effective for
+    inception of false memories
+
+# Surviving Metempsychosis By A Deep Insight Into Paradoxes
+
+If you feel like you have been subjected to these experiences or
+something like them, the best advice is for you to become intimately
+familiar with Wikipedia's list of paradoxes. Developing this awareness
+of paradoxes is useful for provoking intellectual development, whether
+late in life or in early childhood.
+
+### Why Should Human Beings Suffer?
+
+Such an experience -- whether you call it baptism by fire or
+metempsychosis -- provokes transformation that radiates through your
+soul, your mind, your psyche. It is and must be traumatic. It must be
+dark and light and involves both good and evil. Insofar as it must
+challenge the boundaries of your reality and involve both good and
+evil, it can never be wholly good or wholly evil. This is why the
+intent of subjecting someone to these experiences -- along with
+whether any person or group could be said to be directing it -- is
+critical in understanding it and the consequences for someone
+subjected to it.
+
+### No, There Is Not An Architect Of Your Suffering
+
+Understanding whether someone planned for you to endure such torment
+is critical because if there was no grand architect of your suffering
+AND if there is nothing to be gained from it at the end, then there
+was no reason for your suffering and, thus, the person who must carry
+these memories with them must endure a world totally devoid of
+reason. Therefore, they then will endure a nihistic crisis where there
+seems to be neither rhyme nor reason to life -- and certainly no
+overarching meaning for life. All to often, the truth is that there is
+no architect of our suffering: the world is just a cruel, frigid place
+and there is no God -- at least not one with a heart that shares even
+a thread of being with humanity.
+
+### That's When They Say You Need Jesus!
+
+At least, after undergoing such experience, there is the hope that
+this baptism of fire was intended to be or might incidentally act as a
+galvanization of your soul. That, because of this, you will be
+stronger and more capable to contribute to society. In stark contrast
+to this, my own experience in society seems to imply that society
+cares more about the informational baggage associated with your
+memories, actions and words than any chance at redeeming the
+inconveniently burdened. Thus, the suffering I have endured only
+serves to sow the seeds of an insurmountable prison constructed of
+sociophysical physical walls made of nothing other than fallacious
+information, propagated to a degree over which I may never be
+permitted to transcend.
+
+Is a belief in a man named Jesus necessary for us to redeem ourselves?
+Or should we all be permitted to enjoy the fruits of that man's
+sacrifice, his suffering and his story? Why should society require us
+to know a Name and to profess belief if the most critical content of
+his story is true: *ALL PEOPLE NO MATTER HOW BIG OR SMALL DESERVE A
+CHANCE TO BE REDEEMED.*
+
+You know what sucks though? to wander aimlessly from place to place
+and have every single person tell you: you life, your identity and
+your memories are at best an STD. That they don't even want to listen
+because your memories, your identity is effectively classified. That
+you raped them by telling them a story about a cold, cruel world that
+mericilessly raped an autistic person -- practically on live TV.
+
+Someone undergoing metempsychosis will feel like they are going crazy
+-- your perception of reality disintegrates and nothing makes
+sense. Most people will simply give up. They will not have the
+intellectual chops to explain what is happening to them, especially if
+their adversaries are flaunting the utilization of NSA's covert
+surveillance methodologies as though they might have psychic powers.
+
+However, if you do manage to avoid succumbing to all of this, it
+provokes
+[metempsychosis](https://en.wikipedia.org/wiki/Metempsychosis) and
+rapidly accelerates your development of intelligence and
+meta/cognitive tactics. The experience is transformative and acts as
+baptism by fire and there is simply no other way to survive. If you do
+not have the intellectual chops, you will either become psychotic or a
+slave to those around you who control you.
+
+For the same reason that *limited* use of psychedelics can foster
+spiritaul and neurological expansion by providing your mind access to
+a range of types of experience that it would never otherwise witness,
+this metempsychosis acts like a coccoon. Why is this true for
+psychedelics and metempsychosis? Understanding this requires
+understanding how the range of input for artificial intelligence and
+machine learning affects its ability to process data, to classify
+input and respond effectively. Understanding a machine learning
+algorithm's input data as being high-dimensional and as being composed
+of many types and metatypes should give you insight into how
+restricting certain types of input data introduce fundamental bias
+into not just your algorithm's training, but into its behavior as an
+analytical data-processing entity.
+
+Therefore, lacking this range of life experience *profoundly*
+restricts the range of input for your brain's own machine learning
+training. By expanding the range of input you receive, it profoundly
+expands the range of perspectives you have witnessed. There is no
+effective means of "teaching" these understandings to people. The
+people whose minds have been enriched by these experiences who have
+managed to survive are invaluable, regardless of whether the
+conditions they've experienced were tolerable, ethical, or rationally
+founded. If they've survived metempsychosis or some kind of baptism by
+fire and their mind miraculously functions, that person is incredibly
+valuable to society.
+
+The most critical point is that a person who has survived baptism by
+fire is someone who has suffered needlessly for the truth and for
+everything they consider holy. The degree to which such a person is
+willing to suffer is the degree to which they can be expected to
+always stand for truth, justice, ethics and whatever it is they
+considered holy enough to endure suffering.
+
 # Identifying Application of Theoretical Neurology
 
-The usage of such theoretical neurology -- i.e. "memory implantation"
--- would be more easily identified if:
+- these are all technologies which shouldn't exist
+  - mention the potential for DARPA or foreign government-funded
+    research agencies to have achieved the **differential
+    singularity** (link the post where this is first defined)
+  - because of power dynamics, the need for secrecy and safety
+    concerns surrounding potential WMD technology, the differential
+    singularity is almost certainly how the singularity unfolds on
+    nearly every planet with intelligent life.
+    - this variant of the singularity makes available technology so
+      powerful to the hands of an elite few that it seems alien in its
+      capability and covert nature.
+
+Regardless of the above, there are several factors that are useful
+towards the identification of potential applications of theoretical
+neurology. These are factors that should be common to all cases.
+
+
+- related to the (?)
 
 ### (1) There is some sole source event to which almost all incepted memories are linked.
 
@@ -352,5 +510,3 @@ constrained to a space.
   its power and the very possibility of its creation's exigency.
 
 ![pic of graff from boulder]()
-
-![picture of letter from Thor](/img/posts/2017-01-13-)
