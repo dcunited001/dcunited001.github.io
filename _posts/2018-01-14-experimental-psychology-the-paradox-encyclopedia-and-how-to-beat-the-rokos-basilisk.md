@@ -16,12 +16,6 @@ internet to an actual post
   Paradoxes]() and know each and every one of them like the back of
   your hand.
 
-- include picture of the note that Thor handed me about "experimental
-  psychology" which in itself was an image that triggered the exact
-  Deja Vu that has been haunting me since the end of february 2015.
-  - it triggered a memory where i was talking to tatiana about that
-    same exact quote from Jung
-
 # In Which Psychological Warfare Becomes Neurological Warfare
 
 In the past five years, mainstream media has been weaving in
@@ -94,6 +88,7 @@ might as well not exist.
     create some intended effect on society at larger scales.
   - Fake news is a great example of a tactic "adjacent" to this.
 
+> Sir, I do say to you, which one of these countries is a shithole?
 
 # Theories for Mechanisms of Implanted Memories
 
@@ -142,6 +137,11 @@ public is intended to see.
 
 - TODO: callout Thor
 
+- include picture of the note that Thor handed me about "experimental
+  psychology" which in itself was an image that triggered the exact
+  Deja Vu that has been haunting me since the end of february 2015.
+  - it triggered a memory where i was talking to tatiana about that
+    same exact quote from Jung
 
 ### Repressed Memories Lead to Higher Incidence of Fallacious Memories
 
@@ -234,6 +234,20 @@ with fMRI (AFAIK)
 - bone-conduction microphones/speakers and transcranial doppler
   - used in REM dream-state, this could be highly effective for
     inception of false memories
+
+### Neuropharmacological Suppression of Specific Neurological Modalities
+
+Doctors with knowledge of how neuropsychiatry relates to the
+neurological modalities related to memory formation in the mind -- and
+specifically, audiovisual multiplexing and demultiplexing -- can
+*potentially* understand how those specifically modalities someone's
+mind can be pharmacologically suppresed. For example, this could
+prevent the formation of certain facets of a memory -- the visual or
+audio elements of an experience would be less likely to be laid
+down. Later, only the audio or semantic information is accessible, but
+the mind or brain fills in the gaps.
+
+
 
 <a name="surviving-metempsychosis-via-deep-insight-into-paradoxes" />
 
@@ -451,7 +465,9 @@ neurology. These are factors that should be common to all cases.
 
 - related to the (?)
 
-### (1) There is some sole source event to which almost all incepted memories are linked.
+<a name="sole-source-event" />
+
+### [(1) There is some sole source event to which almost all incepted memories are linked.](#sole-source-event)
 
 If this is the case, then it's likely some neurological anomoly, like
 a brain tumor. If so, with fMRI and the right process to stimulate
@@ -463,22 +479,55 @@ networks. Activation of the mind with symbols/images both related &
 unrelated should present identifiable locations on fMRI or other modes
 of neurological imagery.
 
+<a name="source-event-involved-drugs" />
+
 ### (2) That event involved possible use of drugs to stifle the creation of some aspects of those memories.
 
-e.g. propranolol or Zeta Interacting Protein (a la blindspot) might
-suppress the neurological accessibility for some memories. But, if the
-details of such an experience were, at first, murky at best, then it's
-difficult to ascertain whether or not you were truly drugged at that
-time. I would certainly hope not. LuLz ... unless you're in the Merry
-Pranksters, you can't dose me like that bro.
+For example, propranolol or Zeta Interacting Protein (a la blindspot)
+might suppress the neurological accessibility for some memories. But,
+if the details of such an experience were, at first, murky at best,
+then it's difficult to ascertain whether or not you were truly drugged
+at that time. I would certainly hope not. LuLz ... unless you're in
+the Merry Pranksters, you DON'T dose me like that bro -- THAT is
+daterape.
 
 ### (3) You can assume it is much, much harder to insert *coherent* memories than it is to insert fragments of memories.
 
-i.e. There may be semanitic memory for which there is no audio/video
+There may be semanitic memory for which there is no audio/video
 memory, like knowledge of specific phrases and information. To correct
 for this, one could rely on suggestion and harness the effect of
 self-creation of false memories, which is well-exemplified for
 witnesses to a crime.
+
+- inception by "unpacking" or uncompressing fragments of memories
+  - this utilizes the brain's desire to make coherent unknown
+    information, when possible.
+  - so, there is some fragment of a memory -- perhaps audio or video
+    -- that, given the right amount of prodding, expands into a
+    fully-fledge false memory. So, you are encouraging the victim's
+    brain itself to fill in the blanks.
+    - then, given the proper level of surveillance, the subject is
+      monitored with SIGINT, MASINT and especially HUMINT. Gaslighting
+      is then used to encourage the inception of other details that
+      add onto the narrative.
+      - the problem here is that the series of memories -- especially
+        if they relate to a single source event -- eventually break
+        down.
+      - no longer can the memories remain coherent to the mind and it
+        becomes very difficult to maintain a cogent sequence of events
+        connected to the single or multiple source memories.
+
+- if this relates to a national security case, where there was some
+  alleged terrorist conspiracy or crime, then habeas corpus does not
+  apply. therefore, the authorities who try you ex parte, simply push
+  back and never give you the evidence you need. When they do, it
+  comes in the form of audio and video clips, which can be produced ad
+  hoc as needed while the access to these audio clips is tightly
+  restricted.
+
+#### The Face2Face Algorithm
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/ohmajJTcpNk" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
 
 ### (4) The absence of "aggregate" memories from before the time the repressed memory was retrieved.
 
@@ -508,7 +557,7 @@ person created memories based on the absense of those memories. After
 the activation of repressed memories, that means the person needs to
 reexamine their life in
 
-### (5) Social Forensics Demonstrates Logistical Coordiation and Risk Mitigation For the Activity of Those Involved.
+### (5) Social Forensics Demonstrates Logistic Coordiation and Risk Mitigation For the Activity of Those Involved.
 
 If false memories are being used to manipulate someone, then someone
 must be involved to invoke those images, phrases, or pieces of
