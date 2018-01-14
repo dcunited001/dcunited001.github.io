@@ -16,7 +16,32 @@ internet to an actual post
   Paradoxes](https://en.wikipedia.org/wiki/List_of_paradoxes) and know
   each and every one of them like the back of your hand.
 
-# [In Which Psychological Warfare Becomes Neurological Warfare](#in-which-psychological-warfare-becomes-neurological-warfare)
+## [In Which Psychological Warfare Becomes Neurological](#in-which-psychological-warfare-becomes-neurological)
+
+#### [TL;DR?](#tl-dr)
+
+#### [Memory IS Identity](#memory-is-identity)
+
+#### ...
+
+## [Theoretical Mechanisms For Implanted Memories](#theoretical-mechanisms-for-implanted-memories)
+
+#### [SIGINT/MASINT/HUMINT Surveillance For Inception, Gaslighting and Risk Mitigation](#sigint-masint-humint-surveillance-for-inception-gaslighting-and-risk-mitigation)
+
+#### [Repressed Memories Lead to Higher Incidence of Fallacious Memories](#repressed-memories-lead-to-higher-incidence-of-fallacious-memories)
+
+#### ...
+
+##
+
+
+
+
+
+
+<a name="in-which-psychological-warfare-becomes-neurological" />
+
+# [In Which Psychological Warfare Becomes Neurological](#in-which-psychological-warfare-becomes-neurological)
 
 In the past five years, mainstream media has been weaving in
 experimental methods from bleeding edge psychology and neurology. For
@@ -33,7 +58,9 @@ Protein](https://en.wikipedia.org/wiki/Protein_kinase_C_zeta_type)
 (ZIP) are off the charts -- this protein harnesses a real mechanism
 which has been studied since the 1980's.
 
-### TL;DR?
+<a name="tl-dr" />
+
+### [TL;DR?](#tl-dr)
 
 Recently, this [Ars Technica
 synopsis](http://arstechnica.com/science/2016/08/false-memories-arise-because-the-brain-codes-similar-ideas-similarly/)
@@ -62,6 +89,8 @@ with risk that is acceptable to operational security requirements.
 > best way I've found to defend myself is to identify the people
 > pushing specific buttons, triggering deja-vu and to keep those
 > people out of my life.
+
+<a name="memory-is-identity" />
 
 ### [Memory IS Identity](#memory-is-identity)
 
@@ -100,7 +129,9 @@ might as well not exist.
   travel to invoke an impression that the Roko's Basilisk is
   controlling reality from the future.
 
-# Theories for Mechanisms of Implanted Memories
+<a name="theoretical-mechanisms-for-implanted-memories" />
+
+# [Theoretical Mechanisms For Implanted Memories](#theoretical-mechanisms-for-implanted-memories)
 
 One possible explanation for a patient who exhibits a high number of
 seemingly real false memories is that the person's mind had a partial
@@ -111,7 +142,9 @@ associated with one major event. The event needs to have a very, very
 strong emotional relevance for the person. Severe trauma or some
 equally extreme positive event.
 
-### Active HUMINT Surveillance For Inception, Gaslighting and Risk Mitigation
+<a name="sigint-masint-humint-surveillance-for-inception-gaslighting-and-risk-mitigation" />
+
+### [SIGINT/MASINT/HUMINT Surveillance For Inception, Gaslighting and Risk Mitigation](#sigint-masint-humint-surveillance-for-inception-gaslighting-and-risk-mitigation)
 
 To a skeptic, this is the most reasonable explanation for false
 memories. It least offends Occam's razor.
@@ -153,7 +186,11 @@ public is intended to see.
   - it triggered a memory where i was talking to tatiana about that
     same exact quote from Jung
 
-### Repressed Memories Lead to Higher Incidence of Fallacious Memories
+<a name="repressed-memories-lead-to-higher-incidence-of-fallacious-memories" />
+
+### [Repressed Memories Lead to Higher Incidence of Fallacious Memories](#repressed-memories-lead-to-higher-incidence-of-fallacious-memories)
+
+- rename to ~ "extreme impairment of memory regulation mechanism"
 
 One psychological cause would be activation of repressed memories with
 significance across the person's mind and life. If someone were to
@@ -197,10 +234,63 @@ false memories wasn't necessary at all for any operational objectives.
 There are several possible neurological causes, including tumor or
 TMS. A brain tumor could cause a similar breakdown of memory
 creation/association regulation. This is unlikely because of how
-memories are sharded along dimensional boundaries and distributed
-across the brain. (i.e. the audio for a sensual experience is stored
-in a different place than the visual and semantic fragments of that
-information)
+memories are temporally sharded, dimensionally along sensory
+boundaries, and distributed across the brain. (i.e. the audio for a
+sensual experience is stored in a different place than the visual and
+semantic fragments of that information, but the mind is constantly
+ingesting new information, where it is recorded into the brain with a
+coherent temporal component, not unlike an the temporal components of
+an OLAP cube)
+
+- when you violate the above temporal arrangement of memory, it causes
+  major problems, potentially leading to a "schematic" crisis
+  described later on
+  - this is because the brain is also writing data about data --
+    aggregate data based on its experiences as it knows them
+  - so, when you provoke repressed memories to become conscious, there
+    is a schematic crisis that arisis, the severity of which is
+    primarily determined by
+    - (1) the length of time between the original events and the date
+      on which those memories become accessible
+    - (2) the level of emotional/rational relevance in re-evaluating
+      your other memories during that length of time, both primary and
+      aggregate. that is, what does your psyche have to gain by
+      emotionally or rationally re-evaluating what it knows
+    - (3) ... (hmmm what was this one?)
+    - (4) the well-connectedness of false aggregate memories built on
+      top either false primary memories or the absence of those
+      primary memories. the more connected these aggregate memories
+      are, the more work your brain/mind must do in order to untangle
+      the mess.
+      - imagine your mind as a garden and the erronious memories are
+        like weeds that went untended. if this persisted for years,
+        your mind is nothing but weeds.
+    - (5) the difficulty that your brain faces to constructing a
+      coherent narrative. facing a lack of information about the
+      events makes this much more difficult, resulting in a greater
+      capacity for the schematic crisis to result in psychological
+      stress or to be used by others
+      - if you are deprived of information that would otherwise easily
+        explain the aggregate memories, it makes it much more
+        difficult to recover.
+      - if an adversary intends to physically eliminate you by
+        incapacitating you, they won't consider the long-term
+        psychological consequences of their actions.
+        - in other words, they won't consider the
+          developmental/morphological aspects of your psychology.
+        - an adversary who has limitless psychological resources at
+          their disposal *should know better*.
+          - this adversary will opt to abuse those psychological
+            resources instead of making reparations to the victim
+            because any contact/interference with the victim's life
+            creates surface area and potential vectors for LEGAL
+            LIABITILITY
+        - if the victim understands this, they can avoid problems,
+          while attempting to negotiate via the quasi-obvious
+          surveillance
+    - other factors:
+      - the amount of energy/effort that is required (not literal
+        physical energy)
 
 ### Transcranial Magnetic Stimulation (TMS)
 
@@ -256,6 +346,18 @@ prevent the formation of certain facets of a memory -- the visual or
 audio elements of an experience would be less likely to be laid
 down. Later, only the audio or semantic information is accessible, but
 the mind or brain fills in the gaps.
+
+### Neurologically-Oriented Schematic Crisis in Patients with Recovered Memory
+
+- This last mechanism isn't related to the formation of
+  false/implanted memories but describes what happens to the brain or
+  mind of patients who recover false and/or repressed memories
+  - it results in a schematic crisis, the severity of which is coupled
+    to the magnitude of personal re-evaluation that accompanies
+    traumatic memory recovery. this can also occur even if the
+    recovered memories in question are not necessarily negative and
+    traumatic, but positive and (equally disruptive to one's personal
+    understanding of their own identity)
 
 <a name="surviving-metempsychosis-via-deep-insight-into-paradoxes" />
 
