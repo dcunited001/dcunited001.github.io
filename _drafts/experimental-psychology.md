@@ -23,31 +23,44 @@ internet to an actual post
   - it triggered a memory where i was talking to tatiana about that
     same exact quote from Jung
 
-> TL;DR;
-
-This
-[Ars Technica synopsis](http://arstechnica.com/science/2016/08/false-memories-arise-because-the-brain-codes-similar-ideas-similarly/)
-of an
-[PNAS article on false memories](http://www.pnas.org/content/early/2016/08/16/1610686113)
-piqued my interest and got my biological antithikera ticking.
-
-In the past five years, mainstream media has been weaving in
-experimental methods from bleeding edge psychology and
-neurology. Memory implantation and other mental manipulation is a
-classic science fiction plot mechanic. We see it in Eternal Sunshine
-of the Spotless Mind, where memories can be erased, something I would
-never want to do. The 2015 show Blindspot incorporates a mechanic
-whereby the
-
-- disclaimer (assume this is possible, yada yada)
-
-
 - TODO: suggest familiarizing yourself with the paradox encyclopedia
 
-In
-2012
+In the past five years, mainstream media has been weaving in
+experimental methods from bleeding edge psychology and neurology. For
+at least the past century, memory implantation and other mental
+manipulation is a classic science fiction plot mechanic. We see it in
+Eternal Sunshine of the Spotless Mind, where memories can be erased,
+something I would never want to do. The 2015 show Blindspot
+incorporates a mechanic whereby the main character has most of her
+long-term memory erased only to be discovered as a empty doll in a
+handbag in Times Square Manhattan. She's covered with "tattoos" whose
+images function as pointers to terrorist plots.  blood-plasma levels of
+the protein drug zeta-interacting protein
 
-### Implanted Memories
+### TL;DR?
+
+Recently, this [Ars Technica
+synopsis](http://arstechnica.com/science/2016/08/false-memories-arise-because-the-brain-codes-similar-ideas-similarly/)
+of an [PNAS article on false
+memories](http://www.pnas.org/content/early/2016/08/16/1610686113)
+piqued my interest and got my biological antithikera ticking. There
+are certainly experimental methodologies for implanting memories, but
+most of them are simply that -- experimental. They are theories, whose
+application -- especially by state actors -- can *not* be guaranteed
+with risk that is acceptable to operational security requirements.
+
+> **Disclaimer:** this article is intended to be an exercise of
+> imagination, fueled by an understanding of real psychological,
+> sociological and neurological theory. However, I do not intend for
+> it to make authoritative or definitive statements of any kind. If
+> you're wondering, yes, I am a victim here -- of what, I'm not quite
+> sure. I have no problems distinguishing fantasy and reality -- I'm
+> sick of pondering all the what-ifs. Besides familiarizing myself
+> with the encyclopedia of paradoxes on Wikipedia, the best way I've
+> found to defend myself is to identify the people pushing specific
+> buttons, triggering deja-vu and to keep those people out of my life.
+
+# Theories for Mechanisms of Implanted Memories
 
 One possible explanation for a patient who exhibits a high number of
 seemingly real false memories is that the person's mind had a partial
@@ -57,6 +70,36 @@ either be psychological or neurological. This breakdown could be
 associated with one major event. The event needs to have a very, very
 strong emotional relevance for the person. Severe trauma or some
 equally extreme positive event.
+
+### Active HUMINT Surveillance For Inception, Gaslighting and Risk Mitigation
+
+To a skeptic, this is the most reasonable explaination for false
+memories. It violates Occam's ras
+
+If the person is under surveillance and is known to exhibit a certain
+psycological trait (i.e. they talk to themselves) then, with
+appropriate psychological prodding, information can be gained about
+what false memories that are being incepted. If the target is under
+constant surveillance, then COINTELPRO-style HUMINT can gain
+intelligence on the person almost in real time. This can be done even
+when the person does not talk to themselves, but that makes it so much
+easier, especially if the target is known to ruminate and talk to
+themselves upon being emotionally triggered. If the target's social
+connections are tightly managed, it then only takes a small amount of
+gaslighting. If the target is the subject of an Espionage Act or DHS
+Terror investigation, then everyone else around the target can be
+threatened, leaving them alone and vulnerable with minimal record of
+all HUMINT interactions.
+
+> It is because of possibilities like this and the capabilities
+> offered by Big Data that social forensics will eventually be a field
+> of interest for law enforcement. Ever wonder why it's so hard to
+> investigate the psychosocial surroundings and triggers for some
+> school shooters? It's because a minority of them are
+> COINTELPRO-style operations, where the socioforensic evidence has
+> been artificially managed and mitigated beforehand. Thus, anyone who
+> goes back to investigate uncovers information that paints the
+> narrative that the public is intended to see.
 
 ### Repressed Memories Lead to Higher Incidence of Fallacious Memories
 
@@ -81,6 +124,22 @@ brain/mind may create the accompanying audio/visual fragments of those
 memories to fill in the gaps in an attempt to preserve coherence of
 the memory.
 
+Therefore, if you find someone with repressed trauma, unleashing those
+repressed memories, in and of itself, makes their long-term memory
+more malleable. They then become more susceptible to inception via
+gaslighting and all the other HUMINT tactics, especially if they are
+socially isolated. Someone who is socially isolated is in a state of
+psychological vulnerability via overwhelming information
+asymmetry. Remove that social isolation -- and the consequential
+information asymmetry -- and suddenly the person becomes much more
+stable. This is a problem if that person's account is
+evidence. However, in any legal setting, the person who claims HUMINT
+and "implanted" memories has their testimony thrown out and their
+reputation assassinated. Thus, these MKUltra programs present the
+*perfect* Catch-22 scenarios for intelligence. They are useful for
+throwing out witness/victim testimony, even if the *inception* of
+false memories wasn't necessary at all for any operational objectives.
+
 ### Neurological Mechanisms for Memory "Implantation"
 
 There are several possible neurological causes, including tumor or
@@ -97,11 +156,28 @@ while the person is experiencing some video/audio. Such a technique
 would be hampered by the impossibility of running TMS simultaneously
 with fMRI (AFAIK)
 
-### Identifying Whether Someone Has Had Memories Implanted
+### Optogenetics, Directed Energy and SPION Nanoparticles
 
-The usage of such techniques would be more easily identified if:
+- describe how to use directed energy to increase thermal energy in
+  localized regions of the brain.
+  - describe how this such method should be prone to failure
 
-#### (1) There is some sole source event to which almost all incepted memories are linked.
+- optogenetics (requires CRISPR at some point)
+  - Any methodology with optogenetics benefits from the application of
+    SPION particles and vice-versa. can interoperate with SPION
+    particles
+
+- augmentation with the signature of an isotope
+  - targeting an individual while they are sleeping, offers the best
+    means of "locking on" to the energy-signature emitted from their
+    skull
+
+# Identifying Application of Theoretical Neurology
+
+The usage of such theoretical neurology -- i.e. "memory implantation"
+-- would be more easily identified if:
+
+### (1) There is some sole source event to which almost all incepted memories are linked.
 
 If this is the case, then it's likely some neurological anomoly, like
 a brain tumor. If so, with fMRI and the right process to stimulate
@@ -113,7 +189,7 @@ networks. Activation of the mind with symbols/images both related &
 unrelated should present identifiable locations on fMRI or other modes
 of neurological imagery.
 
-#### (2) That event involved possible use of drugs to stifle the creation of some aspects of those memories.
+### (2) That event involved possible use of drugs to stifle the creation of some aspects of those memories.
 
 e.g. propranolol or Zeta Interacting Protein (a la blindspot) might
 suppress the neurological accessibility for some memories. But, if the
@@ -122,7 +198,7 @@ difficult to ascertain whether or not you were truly drugged at that
 time. I would certainly hope not. LuLz ... unless you're in the Merry
 Pranksters, you can't dose me like that bro.
 
-#### (3) You can assume it is much, much harder to insert *coherent* memories than it is to insert fragments of memories.
+### (3) You can assume it is much, much harder to insert *coherent* memories than it is to insert fragments of memories.
 
 i.e. There may be semanitic memory for which there is no audio/video
 memory, like knowledge of specific phrases and information. To correct
@@ -130,7 +206,7 @@ for this, one could rely on suggestion and harness the effect of
 self-creation of false memories, which is well-exemplified for
 witnesses to a crime.
 
-#### (4) The absence of "aggregate" memories from before the time the repressed memory was retrieved.
+### (4) The absence of "aggregate" memories from before the time the repressed memory was retrieved.
 
 When we access memories, we modify them neurologically. This has been
 demonstrated over and over again and recently: 2015! This explains how
@@ -158,7 +234,7 @@ person created memories based on the absense of those memories. After
 the activation of repressed memories, that means the person needs to
 reexamine their life in
 
-#### (5) Logistics & activity of those involved.
+### (5) Social Forensics Demonstrates Logistical Coordiation and Risk Mitigation For the Activity of Those Involved.
 
 If false memories are being used to manipulate someone, then someone
 must be involved to invoke those images, phrases, or pieces of
@@ -176,6 +252,7 @@ sociophysical fingerprints manifest themselves will depend on who did
 this, who planned this, how it was done, the anticipated response of
 the target, the level of surveillance, whether and to what level that
 engagement with the target was coordinated/informed with surveillance,
+
 ...
 
 Given unpredictable procedures like implanted memories or experimental
