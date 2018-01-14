@@ -13,10 +13,10 @@ internet to an actual post
 
 - references to videos explaining "memory implantation" studies from 2015
 - the best advice i can give you is: look at Wikipedia's [List of
-  Paradoxes]() and know each and every one of them like the back of
-  your hand.
+  Paradoxes](https://en.wikipedia.org/wiki/List_of_paradoxes) and know
+  each and every one of them like the back of your hand.
 
-# In Which Psychological Warfare Becomes Neurological Warfare
+# [In Which Psychological Warfare Becomes Neurological Warfare](#in-which-psychological-warfare-becomes-neurological-warfare)
 
 In the past five years, mainstream media has been weaving in
 experimental methods from bleeding edge psychology and neurology. For
@@ -50,10 +50,16 @@ with risk that is acceptable to operational security requirements.
 > psychological, sociological and neurological theory. However, I do
 > not intend for it to make authoritative or definitive statements of
 > any kind. If you're wondering, yes, I am a victim here -- of what,
-> I'm not quite sure. I have no problems distinguishing fantasy and
-> reality -- I'm sick of pondering all the what-ifs. Besides
-> familiarizing myself with Wikipedia's [encyclopedia of paradoxes](),
-> the best way I've found to defend myself is to identify the people
+> I'm not quite sure. I must certainly have [False Memory
+> Syndrome](https://en.wikipedia.org/wiki/False_memory_syndrome),
+> although it seems everyone around me seems intent on exacerbating to
+> delude and discredit me, while I'm isolated and in poverty of
+> information. It is criminal. I have no problems distinguishing
+> fantasy and reality -- I'm sick of pondering all the
+> what-ifs. Besides familiarizing myself with Wikipedia's
+> [encyclopedia of
+> paradoxes](https://en.wikipedia.org/wiki/List_of_paradoxes), the
+> best way I've found to defend myself is to identify the people
 > pushing specific buttons, triggering deja-vu and to keep those
 > people out of my life.
 
@@ -89,6 +95,10 @@ might as well not exist.
   - Fake news is a great example of a tactic "adjacent" to this.
 
 > Sir, I do say to you, which one of these countries is a shithole?
+
+- TODO: exploiting the mandela effect to create the impression of time
+  travel to invoke an impression that the Roko's Basilisk is
+  controlling reality from the future.
 
 # Theories for Mechanisms of Implanted Memories
 
@@ -247,17 +257,16 @@ audio elements of an experience would be less likely to be laid
 down. Later, only the audio or semantic information is accessible, but
 the mind or brain fills in the gaps.
 
-
-
 <a name="surviving-metempsychosis-via-deep-insight-into-paradoxes" />
 
 # [Surviving Metempsychosis Via Deep Insight Into Paradoxes](#surviving-metempsychosis-via-deep-insight-into-paradoxes)
 
 If you feel like you have been subjected to these experiences or
 something like them, the best advice is for you to become intimately
-familiar with Wikipedia's list of paradoxes. Developing this awareness
-of paradoxes is useful for provoking intellectual development, whether
-late in life or in early childhood.
+familiar with Wikipedia's [list of
+paradoxes](https://en.wikipedia.org/wiki/List_of_paradoxes). Developing
+this awareness of paradoxes is useful for provoking intellectual
+development, whether late in life or in early childhood.
 
 - TODO: describe some of the paradoxes at a high level
 
@@ -677,3 +686,36 @@ constrained to a space.
 ![pic of graff from boulder]()
 
 - TODO: picture of the book
+
+
+
+
+# How to Survive a Conspiracy With No Money Down
+
+> What happens when you cross Glyndwr Michael with the [Black Hand](),
+> Science Fiction technology, a [kooky
+> cult](https://www.google.com/search?q=not+scientology&oq=not+scientology&aqs=chrome..69i57j0l5.2222j0j1&sourceid=chrome&ie=UTF-8),
+> an [ironically hopeless
+> romantic](https://www.facebook.com/dconner.pro) and a dash of [Franz
+> Ferdinand](https://twitter.com/dcunit3d)?
+
+> A patsy who makes perfect scapegoat
+> [mincement](https://en.wikipedia.org/wiki/Operation_Mincemeat) to
+> catalyze World War 3 *and* single-handedly take all the blame!
+
+I think this really might be **the cruelest** thing that humanity has
+ever done to someone in **recorded history**, all while actively
+memory-holing that person's identity. It is unbelievably fucked
+up. Did you get what you wanted? Did you get what they told you to
+both want and fear? Were you ever in control? DID THEY PICK THE RIGHT
+PERSON?
+
+
+#### Celebrity "Cloning" Centers
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/on3Lvn_eACs" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
+
+
+- riddle, how do you copy someone "without actually copying their
+  body" ? you copy information about them, then hold them hostage with
+  nudez.
