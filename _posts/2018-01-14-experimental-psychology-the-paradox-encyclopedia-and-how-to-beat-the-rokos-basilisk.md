@@ -50,8 +50,9 @@ excerpt: ""
 #### [Congratulations: Your Identity is an STD Crossed With Cancer](#congratulations-your-identity-is-an-std-crossed-with-cancer)
 
 
+#### NEVER FORGET HOW UNLIKELY IT IS *AND HOW NECESSARY IT IS* FOR A GOLIATH TO BE SLAIN BY A DAVID
 
-
+![The Beast from Boulder](/img/posts/2018-01-14-experimental-psychology-the-paradox-encyclopedia-and-how-to-beat-the-rokos-basilisk/boulder-street-art-beast.jpg)
 
 <a name="in-which-psychological-warfare-becomes-neurological" />
 
@@ -265,6 +266,14 @@ means you must depend on people you cannot trust while in a more
 malleable, programmable dolls without a karmic, causal connection to
 those powerfully networked people who use them.
 
+The following factors not only determine the severity of the schematic
+crisis, they correlate to the severity of resulting connectopathy,
+which acts as a neurological cause for mental illess *BUT ALSO A
+VERIFIABLE, NEUROLOGICAL FINGERPRINT* for the presence of recovered
+memories, true and fictitious. That's yet another reason why bitemark
+analysis is so important these days -- don't let them "bodycam" us by
+pigeonholing our perspectives on critical legal issues.
+
 #### (1) The length of time between the original events and the date upon which those memories became accessible
 
 When this length of time is increased, then the mind is much more
@@ -309,40 +318,42 @@ You'll find that true MKULTRA victims always have constrained variety
 of social experience during their life, which leads them to be further
 dependent on their close social connections. That is, they were always
 intended to be potential manakins and were never psychologically
-equipped to handle social situations. It can be pretty apparent when
-someone _might possibly_ be a manakin, if you know what to look
-for. They are empty vessels without the knowledge to function in the
-world without other people to help operate them.
+equipped to handle social situations.
+
+It can be pretty apparent when someone _might possibly_ be a manakin,
+if you know what to look for. They are empty vessels without the
+knowledge to function in the world without other people to help
+operate them. Into those vessels are implanted very specific sets of
+knowledge. Not every person like this is intended to be used in a
+horrible manner.
 
 #### (4) The difficulty that your brain faces to constructing a coherent narrative
 
-When facing a lack of information about the events makes this much
-more difficult, ... resulting in a greater capacity for the schematic
-crisis to result in psychological stress or to be used by others
+Facing a lack of information about the events makes this narrative
+reconstruction much more difficult, resulting in a greater propensity
+for the schematic crisis to result in psychological stress or to be
+used by others. During this reevaluation process, if you are deprived
+of information that would otherwise easily explain the aggregate
+memories, it makes it much more difficult to recover.
 
-      - during this reevaluation process, if you are deprived of
-        information that would otherwise easily
-        explain the aggregate memories, it makes it much more
-        difficult to recover.
-      - if an adversary intends to physically eliminate you by
-        incapacitating you, they won't consider the long-term
-        psychological consequences of their actions.
-        - in other words, they won't consider the
-          developmental/morphological aspects of your psychology.
-        - an adversary who has limitless psychological resources at
-          their disposal *should know better*.
-          - this adversary will opt to abuse those psychological
-            resources instead of making reparations to the victim
-            because any contact/interference with the victim's life
-            creates surface area and potential vectors for LEGAL
-            LIABITILITY
-        - if the victim understands this, they can avoid problems,
-          while attempting to negotiate via the quasi-obvious
-          surveillance
-    - other factors:
-      - the amount of energy/effort that is required (not literal
-        physical energy)
+Furthermore, if an adversary intends to physically eliminate you or
+evidence by incapacitating you, they won't consider the long-term
+consequences of their actions on your psychology, particular the
+developmental aspects of your psychology. If you detect this, it
+demonstrates malicious intent, however difficult to prove. Basically
+they won't consider the developmental & morphological aspects of your
+psychology in context with their reactions.
 
+> You're "already dead" to them.
+
+An adversary who has limitless psychological resources at their
+disposal *should know better*.  Instead, this adversary will opt to
+abuse those psychological resources instead of making reparations to
+the victim because any contact/interference with the victim's life
+creates surface area and potential vectors for LEGAL LIABITILITY. A
+victim that understands this -- AND KNOWS ALL THE DIRTY TRICKTS -- can
+avoid problems *WHILE* attempting to negotiate via the quasi-obvious
+surveillance.
 
 <a name="theoretical-mechanisms-for-implanted-memories" />
 
@@ -822,7 +833,7 @@ of neurological imagery.
 
 <a name="source-event-involved-drugs" />
 
-### (2) That event involved possible use of drugs to stifle the creation of some aspects of those memories.
+### [(2) That event involved possible use of drugs to stifle the creation of some aspects of those memories.](#source-event-involved-drugs)
 
 For example, propranolol or Zeta Interacting Protein (a la blindspot)
 might suppress the neurological accessibility for some memories. But,
@@ -832,7 +843,9 @@ at that time. I would certainly hope not. LuLz ... unless you're in
 the Merry Pranksters, you DON'T dose me like that bro -- THAT is
 daterape.
 
-### (3) You can assume it is much, much harder to insert *coherent* memories than it is to insert fragments of memories.
+<a name="incoherent-narrative-of-memories" />
+
+### [(3) You can assume it is much, much harder to insert *coherent* memories than it is to insert fragments of memories.](#incoherent-narrative-of-memories)
 
 There may be semanitic memory for which there is no audio/video
 memory, like knowledge of specific phrases and information. To correct
@@ -870,7 +883,9 @@ witnesses to a crime.
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/ohmajJTcpNk" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
 
-### (4) The absence of "aggregate" memories from before the time the repressed memory was retrieved.
+<a name="absence-of-aggregate-memories" />
+
+### [(4) The absence of "aggregate" memories from before the time the repressed memory was retrieved.](#absence-of-aggregate-memories)
 
 When we access memories, we modify them neurologically. This has been
 demonstrated over and over again and recently: 2015! This explains how
@@ -898,7 +913,9 @@ person created memories based on the absense of those memories. After
 the activation of repressed memories, that means the person needs to
 reexamine their life in
 
-### (5) Social Forensics Demonstrates Logistic Coordiation and Risk Mitigation For the Activity of Those Involved.
+<a name="social-forensics-demonstrates-coordination" />
+
+### [(5) Social Forensics Demonstrates Logistic Coordiation and Risk Mitigation For the Activity of Those Involved.](#social-forensics-demostrates-coordination)
 
 If false memories are being used to manipulate someone, then someone
 must be involved to invoke those images, phrases, or pieces of
@@ -968,6 +985,7 @@ into locking down the space of possibilities with immutable facets of
 game states and irrevocable information, this leaves it totally
 constrained to a space.
 
+.... ?
 
 - Luckily we don't have to worry about pseudo-omnipotent robot gods
   from the future. But if they did, then like Yaldaboath, their
@@ -1015,7 +1033,7 @@ constrained to a space.
   *idea* of the Roko's Basilisk whence springs forth the basis for all
   its power and the very possibility of its creation's exigency.
 
-![pic of graff from boulder]()
+
 
 - TODO: picture of the book
 
