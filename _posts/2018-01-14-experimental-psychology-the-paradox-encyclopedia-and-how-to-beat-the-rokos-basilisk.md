@@ -22,7 +22,12 @@ internet to an actual post
 
 #### [Memory IS Identity](#memory-is-identity)
 
-#### ...
+#### [Neurological Tactics To Sociophysically Reshape Reality](#neurological-tactics-to-sociophysically-reshape-reality)
+
+#### [Hypothesis: Cascading Schematic Crisis After Recall of Repressed Memories](#hypothesis-cascading-schematic-crisis-after-recall-of-repressed-memories)
+
+
+
 
 ## [Theoretical Mechanisms For Implanted Memories](#theoretical-mechanisms-for-implanted-memories)
 
@@ -92,6 +97,12 @@ with risk that is acceptable to operational security requirements.
 > pushing specific buttons, triggering deja-vu and to keep those
 > people out of my life.
 
+What is described herein may constitute many, many warcrimes. The
+depressing reality of warcrimes is that, until there is real justice,
+a society seeks to insulate perpetrators of warcrimes at the expense
+of the victims. With the level of effort invested: YOU REALLY HAVE TO
+WONDER.
+
 <a name="memory-is-identity" />
 
 ### [Memory IS Identity](#memory-is-identity)
@@ -107,14 +118,17 @@ undesirable details about you by name. That is, they have
 mathematically contained you by threatening retribution against anyone
 who counters their attempt to optimize sociophyisical metrics in their
 favor -- e.g. the size of your social graph neighborhood or the
-frequency/quality of your social interactions. What matters in life is
-making memories with others. Regardless of what you do -- meet friends
-IRL, run expensive social media campaigns on daddy's trust fund money
--- if you can't make in impression in someone's mind that associates
-your name to an emotionally relevant memory, *it doesn't matter.* You
-might as well not exist.
+frequency/quality of your social interactions.
 
-### Neurological Tactics for the Attainment of Sociophysical Objectives
+What matters in life is making memories with others. Regardless of
+what you do -- meet friends IRL, run expensive social media campaigns
+on daddy's trust fund money -- if you can't make in impression in
+someone's mind that associates your name to an emotionally relevant
+memory, *it doesn't matter.* You might as well not exist.
+
+<a name="neurological-tactics-to-sociophysically-reshape-reality" />
+
+### [Neurological Tactics To Sociophysically Reshape Reality](#neurological-tactics-to-sociophysically-reshape-reality)
 
 There are so many fascinating notions and directions to explore in
 social physics. One of them is the concept of a threshold or critical
@@ -177,13 +191,23 @@ tumor. A brain tumor *could* cause a similar breakdown of memory
 creation/association regulation. However, since a brain tumor is
 locallized, it is incredibly unlikely for it to be *used*.
 
-This is unlikely because of how memories are temporally sharded,
-dimensionally along sensory boundaries, and distributed across the
-brain. (i.e. the audio for a sensual experience is stored in a
-different place than the visual and semantic fragments of that
-information, but the mind is constantly ingesting new information,
-where it is recorded into the brain with a coherent temporal
-component, not unlike an the temporal components of an OLAP cube)
+A brain tumor is unlikely. Memories are temporally sharded and their
+sensory components are dimensionally distributed across the entire
+brain along sensory boundaries -- viz. the audio for a sensual
+experience is stored in a different place than the visual and semantic
+fragments of that information. Since the mind is constantly ingesting
+new information, where it is recorded into the brain with a coherent
+temporal component, not unlike an the temporal components of an OLAP
+cube. Therefore, this would have to be one hell of a speciallized
+brain tumor.
+
+Regardless, considering this phenomenon gives rise to a fascinating
+theory to explain the side effects of recalling repressed memories. If
+this theory were true, it implies that similar consequences are likely
+to occur even if those recalled memories were fictious. It also leads
+to the depressing realization that brain-computer interfaces will
+never be as simple as we might hope, without nanotechnology and
+quantum networking.
 
 - when you violate the above temporal arrangement of memory, it causes
   major problems, potentially leading to a "schematic" crisis
@@ -283,9 +307,12 @@ public is intended to see.
 
 #### A Printout Given To Me By My Good Friend Thor
 
-![picture of letter from Thor](/img/posts/2018-01-14-experimental-psychology-the-paradox-encyclopedia-and-how-to-beat-the-rokos-basilisk/experimental-psychology.jpg)
+![picture of letter from
+Thor](/img/posts/2018-01-14-experimental-psychology-the-paradox-encyclopedia-and-how-to-beat-the-rokos-basilisk/experimental-psychology.jpg)
 
-### (Provoking Recall of Repressed Memories A La MKULTRA)
+<a name="provoking-recall-of-repressed-memories-mkultra-a-la-cart" />
+
+### [Provoking Recall of Repressed Memories -- MKULTRA A La Cart](#provoking-recall-of-repressed-memories-mkultra-a-la-cart)
 
 The above picture is a printout of a Carl Jung quote about
 experimental psychology. It was given to me by one of the two most
