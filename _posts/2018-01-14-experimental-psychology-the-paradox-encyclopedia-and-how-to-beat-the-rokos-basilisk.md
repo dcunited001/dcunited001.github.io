@@ -337,15 +337,15 @@ with fMRI (AFAIK)
 
 ### Neuropharmacological Suppression of Specific Neurological Modalities
 
-Doctors with knowledge of how neuropsychiatry relates to the
-neurological modalities related to memory formation in the mind -- and
-specifically, audiovisual multiplexing and demultiplexing -- can
-*potentially* understand how those specifically modalities someone's
-mind can be pharmacologically suppresed. For example, this could
-prevent the formation of certain facets of a memory -- the visual or
-audio elements of an experience would be less likely to be laid
-down. Later, only the audio or semantic information is accessible, but
-the mind or brain fills in the gaps.
+Psychiatrists and neurologists with knowledge of how neuropsychiatry
+relates to the neurological modalities related to memory formation in
+the mind -- and specifically, audiovisual multiplexing and
+demultiplexing -- can *potentially* understand how those specifically
+modalities someone's mind can be pharmacologically suppressed. For
+example, this could prevent the formation of certain facets of a
+memory -- the visual or audio elements of an experience would be less
+likely to be laid down. Later, only the audio or semantic information
+is accessible, but the mind or brain fills in the gaps.
 
 ### Neurologically-Oriented Schematic Crisis in Patients with Recovered Memory
 
