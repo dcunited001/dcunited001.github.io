@@ -8,9 +8,6 @@ author:
 excerpt: ""
 ---
 
-TODO: translate what was an extended comment on an article in the
-internet to an actual post
-
 - references to videos explaining "memory implantation" studies from 2015
 - the best advice i can give you is: look at Wikipedia's [List of
   Paradoxes](https://en.wikipedia.org/wiki/List_of_paradoxes) and know
@@ -27,8 +24,6 @@ internet to an actual post
 #### [Hypothesis: Cascading Schematic Crisis After Recall of Repressed Memories](#hypothesis-cascading-schematic-crisis-after-recall-of-repressed-memories)
 
 
-
-
 ## [Theoretical Mechanisms For Implanted Memories](#theoretical-mechanisms-for-implanted-memories)
 
 #### [SIGINT/MASINT/HUMINT Surveillance For Inception, Gaslighting and Risk Mitigation](#sigint-masint-humint-surveillance-for-inception-gaslighting-and-risk-mitigation)
@@ -39,8 +34,20 @@ internet to an actual post
 
 #### ...
 
-##
+#### [Systemic Disregulation of Memory Formation Mechanism](#systemic-disregulation-of-memory-formation-mechanism)
 
+#### ...
+
+## [Surviving Metempsychosis Via Deep Insight Into Paradoxes](#surviving-metempsychosis-via-deep-insight-into-paradoxes)
+
+#### [Why Should Human Beings Suffer?](#why-should-human-beings-suffer)
+
+#### [No, There Is Not An Architect Of Your Suffering: Create Your Own Meaning](#no-there-is-not-an-architect-of-your-suffering-create-your-own-meaning)
+
+
+#### [That's When They Say You Need Jesus!](#thats-when-they-say-you-need-jesus)
+
+#### [Congratulations: Your Identity is an STD Crossed With Cancer](#congratulations-your-identity-is-an-std-crossed-with-cancer)
 
 
 
@@ -209,35 +216,112 @@ to the depressing realization that brain-computer interfaces will
 never be as simple as we might hope, without nanotechnology and
 quantum networking.
 
-- when you violate the above temporal arrangement of memory, it causes
-  major problems, potentially leading to a "schematic" crisis
-  described later on
-  - this is because the brain is also writing data about data --
-    aggregate data based on its experiences as it knows them
-  - so, when you provoke repressed memories to become conscious, there
-    is a schematic crisis that arisis, the severity of which is
-    primarily determined by
-    - (1) the length of time between the original events and the date
-      on which those memories become accessible
-    - (2) the level of emotional/rational relevance in re-evaluating
-      your other memories during that length of time, both primary and
-      aggregate. that is, what does your psyche have to gain by
-      emotionally or rationally re-evaluating what it knows
-    - (3) ... (hmmm what was this one?)
-    - (4) the well-connectedness of false aggregate memories built on
-      top either false primary memories or the absence of those
-      primary memories. the more connected these aggregate memories
-      are, the more work your brain/mind must do in order to untangle
-      the mess.
-      - imagine your mind as a garden and the erronious memories are
-        like weeds that went untended. if this persisted for years,
-        your mind is nothing but weeds.
-    - (5) the difficulty that your brain faces to constructing a
-      coherent narrative. facing a lack of information about the
-      events makes this much more difficult, resulting in a greater
-      capacity for the schematic crisis to result in psychological
-      stress or to be used by others
-      - if you are deprived of information that would otherwise easily
+When you violate the above temporal arrangement of primary memories,
+it causes major problems, potentially leading to a "schematic" crisis.
+Here, the notion of schema refers to the structure of organization of
+primary and aggregate memories, both neurologically in the brain and
+as the interface to memory appears to the mind. The brain is
+constantly intaking, processing and storing data about sensory
+experiece in primary memories, with emphasis shifted towards someone's
+conscious and incidental focus at the time. Those details with more
+focus receive priority when storing data related to primary
+memories. The mind is alway reflecting on the sum and product of its
+experiences as it knows them, recording those reflective aspects of
+its experience into aggregate memories, which are linked to primary
+memories. Much of the content of these aggregate memories is semantic;
+it is connected to the nature and specifics of the thoughts being
+processed about former experiences.
+
+However, when you provoke repressed or fallacious memories to become
+conscious, there is a schematic crisis that occurs. The mind must
+reevaluate what it knows, restructure everything neurologically and
+disconnect or rectify what was erroneously connected. Sure, there may
+be a few fallacious, confabulated or repressed primary memories that
+need to be restructured, but there are few problems related to this,
+per se. The schematic crisis occurs when the mind and brain now need
+to rectify the highly-connected aggregate memories, the physical
+distribution of which is temporally and dimensionally erratic. That
+is, these aggregate memories that reference primary memories are very
+difficult to rectify. Because memory IS identity, then -- assuming
+these memories are emotionally relevant or associated with severe
+trauma -- the brain must reconcile this, otherwise the mind's notion
+of identity is forever cursed.
+
+<a name="factors-influencing-the-severity-of-a-cascading-schematic-crisis" />
+
+### [Factors Influencing the Severity of a Cascading Schematic Crisis](#factors-influencing-the-severity-of-a-cascading-schematic-crisis)
+
+If this theoretical understanding of repressed memory recall is true,
+the Such a schematic crisis can _trivially_ result in a connectopathy
+like schizophrenia. If the people around you are supportive, this is
+less likely to happen, but depending on the severity of the trauma,
+the likelihood of this occuring is still very high.
+
+During the reevaluation process, the complete break in your mind's
+understanding of reality results in a need to leverage your support
+network. If that network is compromised, toxic or non-existant, it
+means you must depend on people you cannot trust while in a more
+"programmable" state. This is what enables MKULTRA victims to become
+malleable, programmable dolls without a karmic, causal connection to
+those powerfully networked people who use them.
+
+#### (1) The length of time between the original events and the date upon which those memories became accessible
+
+When this length of time is increased, then the mind is much more
+likely to have either a plethora of aggregate memories to create in
+response to unveiled trauma or proportionally more aggregate memories
+to disentangle and reconnect.
+
+#### (2) The level of emotional or intellectual relevence in reevaluating your other primary and aggregate memories
+
+What does your psyche have to gain by emotionally or rationally
+re-evaluating what it knows. When reconstructing a new understanding
+of your life, what is the level of emotional contrast? Examples of
+situations with high emotional contrast include those like repressed
+memories of childhood rape by someone close to the victim. Nothing
+like this has ever occured to me. However, I imagine that recovering
+memories like this would be terrible, as you also have to reevaluate
+all the other shared memories with that person. This "emotional
+contrast" also has a social component to it: everyone is now
+reevaluating Oprah's recent public appearances with Harvey Weinstein,
+although I personally find it ludicrous that people are attacking
+Oprah for Weinstein's sexual harrassment.
+
+Situations with greater emotional contrast with more tightly connected
+friends or family members will typically result in a greater affect on
+the victim's mind and brain.
+
+#### (3) The well-connectedness of false aggregate memories built atop primary memories
+
+This includes both false primary memories as well as the the absence
+of primary memories. The more connected these aggregate memories are
+to your brain's network of primary memories, the more work that your
+brain/mind must do in order to untangle the mess. Furthermore, while
+you are reevaluating everything that's happened to you, the more
+severe the abberant connections, the more likely your brain is to
+start to malfunction. Imagine your mind as a garden and the erronious
+memories are like weeds that went untended. If this persisted for
+years, your mind is nothing but weeds. It doesn't mean that there's no
+hope, it just means you need to be strong and you need people around
+you that you can trust.
+
+You'll find that true MKULTRA victims always have constrained variety
+of social experience during their life, which leads them to be further
+dependent on their close social connections. That is, they were always
+intended to be potential manakins and were never psychologically
+equipped to handle social situations. It can be pretty apparent when
+someone _might possibly_ be a manakin, if you know what to look
+for. They are empty vessels without the knowledge to function in the
+world without other people to help operate them.
+
+#### (4) The difficulty that your brain faces to constructing a coherent narrative
+
+When facing a lack of information about the events makes this much
+more difficult, ... resulting in a greater capacity for the schematic
+crisis to result in psychological stress or to be used by others
+
+      - during this reevaluation process, if you are deprived of
+        information that would otherwise easily
         explain the aggregate memories, it makes it much more
         difficult to recover.
       - if an adversary intends to physically eliminate you by
@@ -480,6 +564,26 @@ is accessible, but the mind or brain fills in the gaps.
     recovered memories in question are not necessarily negative and
     traumatic, but positive and (equally disruptive to one's personal
     understanding of their own identity)
+  - this schematic crisis, in itself, could hypothetically result in
+    (the mechanism described above) disregulation of aggregate memory
+    formation
+    - if this is the case, what results is the runaway development of
+      a connectopathy. the abberantly structured entanglement will
+      then disrupt the flow of brain waves on a microscopic scale, as
+      well as ion distribution in specific areas of the brain.
+    - this neurological and connectopathic progression will be
+      morphologically comorbid with a nervous breakdown, further
+      isolating the individual and contributing to the degradation of
+      their mental health.
+      - and that's assuming everything is simply incidental and not
+        the megalomaniacal orchestration of an intelligence agency.
+      - if someone is serving to exacerbate the developmental aspects
+        of someone's mental health crisis or provoke the disruption of
+        their emotional state for a COINTELPRO-style agenda, the
+        scenario is almost guaranteed to result in character
+        assassination, social isolation and a permanently fucked up
+        life where no one understands the true causes of their
+        suffering.
 
 <a name="surviving-metempsychosis-via-deep-insight-into-paradoxes" />
 
@@ -509,9 +613,9 @@ whether any person or group could be said to be directing it -- is
 critical in understanding it and the consequences for someone
 subjected to it.
 
-<a name="no-there-is-not-an-architect-of-your-suffering" />
+<a name="no-there-is-not-an-architect-of-your-suffering-create-your-own-meaning" />
 
-### [No, There Is Not An Architect Of Your Suffering](#no-there-is-not-an-architect-of-your-suffering)
+### [No, There Is Not An Architect Of Your Suffering](#no-there-is-not-an-architect-of-your-suffering-create-your-own-meaning)
 
 Understanding whether someone planned for you to endure such torment
 is critical because if there was no grand architect of your suffering
@@ -564,7 +668,7 @@ TV](https://rationalwiki.org/wiki/Red_room) -- just kidding.
 
 #### Ask your cable provider if they have the Gorilla Channel! J/K J/K
 
-![picture of letter from Thor](/img/posts/2018-01-14-experimental-psychology-the-paradox-encyclopedia-and-how-to-beat-the-rokos-basilisk/gorilla-channel.jpg)
+![Hey It's The Gorilla Channel](/img/posts/2018-01-14-experimental-psychology-the-paradox-encyclopedia-and-how-to-beat-the-rokos-basilisk/gorilla-channel.jpg)
 
 #### Just Kidding! All They Carry Are Deepweb Red Rooms!
 
