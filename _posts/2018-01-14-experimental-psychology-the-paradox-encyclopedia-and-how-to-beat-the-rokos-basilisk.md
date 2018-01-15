@@ -116,28 +116,66 @@ might as well not exist.
 
 ### Neurological Tactics for the Attainment of Sociophysical Objectives
 
-- The sociophysical critical mass for the proactive or retroactive
-  estabilishment of an idea. Such ideas might include a comic book
-  series or a cover story
-  - but critically, one is harnessing the [Mandela
-    Effect](https://en.wikipedia.org/wiki/False_memory#Collective_false_memories)
-    to attain a sociological effect, where collective false memories
-    create some intended effect on society at larger scales.
-  - Fake news is a great example of a tactic "adjacent" to this.
+There are so many fascinating notions and directions to explore in
+social physics. One of them is the concept of a threshold or critical
+mass for the propagation or sustained propagation of information
+through sociophysical networks. In probabilistic programming, there is
+the concept of a "critical mass" for the proactive or retroactive
+estabilishment of an idea, so that the idea appears authoritative or
+at least having substance, even though it contains fictitious
+components. Such ideas might include retroactively inserting a comic
+book series that never existed or a establishing the basis for a cover
+story. This is actually an idea from theosophy: social memory is
+malleable. Convince enough people that an idea is real or that an
+event occured, then other people will be much more likely to believe
+it -- or they will actually begin incepting false memories within
+themselves.
+
+#### Command This Technique With Mastery and You Might As Well Have Time Travel
+
+> Please note that I cannot stand this: ideas should be considered
+> rationally and logically firstmost. However, people circumvent the
+> intractibility of sociophysical problems by distributing
+> consensus/validation of ideas. It's simply not possible to know
+> everything, so its more useful to be able to gauge the authenticity
+> of an idea by how it is presented to you. Unfortunately, this leads
+> to vulnerabilities, some of which are systemic and WILL BE
+> ESPECIALLY RELEVANT IN OUR DECADE.
+
+Critically, one can harness the [Mandela
+Effect](https://en.wikipedia.org/wiki/False_memory#Collective_false_memories)
+once that sociophysical threshold has been surpassed. Hence,
+collective false memories will create some intended effect on society
+at larger scales. **Fake news** is a great example of a tactic
+utilizing this. Reality becomes what small groups of people
+collectively focus on, even if it is delusional. Regardless of how
+rational or logical everyone else is -- even if they're marxist or
+athiest -- if an idea surpasses this threshold of virulence, reality
+becomes defined by delusion. In the age of social media, humanity will
+only continue to become more susceptible to this.
 
 > Sir, I do say to you, which one of these countries is a shithole?
 
-- TODO: exploiting the mandela effect to create the impression of time
-  travel to invoke an impression that the Roko's Basilisk is
-  controlling reality from the future.
+One particularly useful tactic is to exploit the mandela effect to
+create the impression that time travel is possible and the future can
+physically manifest itself in the past. Why is this so powerful?
+Because people that are smart enough to understand [quasi] omniscience
+and [quasi] omnipotence paradoxes, but not smart enough to never give
+up, then readily surrender themselves to what is only an
+idea. Harnessing the Mandela Effect in this way invokes an impression
+that the [Roko's
+Basilisk](https://rationalwiki.org/wiki/Roko's_basilisk) is
+controlling reality from the future.
 
-<a name="" />
+<a name="hypothesis-cascading-schematic-crisis-after-recall-of-repressed-memories" />
 
-### [Cascading Schematic Crisis After Recall of Repressed Memories]()
+### [Hypothesis: Cascading Schematic Crisis After Recall of Repressed Memories](#hypothesis-cascading-schematic-crisis-after-recall-of-repressed-memories)
 
-- TODO: move: There are several possible neurological causes,
-  including tumor or TMS. A brain tumor could cause a similar
-  breakdown of memory creation/association regulation.
+There are several possible neurological causes to accelerated
+incidence of confabulated and/or fallacious memory, including a brain
+tumor. A brain tumor *could* cause a similar breakdown of memory
+creation/association regulation. However, since a brain tumor is
+locallized, it is incredibly unlikely for it to be *used*.
 
 This is unlikely because of how memories are temporally sharded,
 dimensionally along sensory boundaries, and distributed across the
@@ -305,8 +343,10 @@ things I had no idea about.
 
 ### [Systemic Disregulation of Memory Formation Mechanism](#systemic-disregulation-of-memory-formation-mechanism)
 
-- Repressed Memories Lead to Higher Incidence of Fallacious Memories
-- rename to ~ "Systemic disregulation of memory formation mechanism"
+Because of the theoretical cascading schematic crisis described above,
+recalling repressed memories may lead to a runaway incidence of the
+creation of fallacious memories, especially when certain psychological
+factors are "optimized."
 
 One psychological cause would be activation of repressed memories with
 significance across the person's mind and life. If someone were to
@@ -344,6 +384,8 @@ reputation assassinated. Thus, these MKUltra programs present the
 *perfect* Catch-22 scenarios for intelligence. They are useful for
 throwing out witness/victim testimony, even if the *inception* of
 false memories wasn't necessary at all for any operational objectives.
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/csUf0MAUIs4" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
 
 ### Transcranial Magnetic Stimulation (TMS)
 
