@@ -28,6 +28,8 @@ internet to an actual post
 
 #### [SIGINT/MASINT/HUMINT Surveillance For Inception, Gaslighting and Risk Mitigation](#sigint-masint-humint-surveillance-for-inception-gaslighting-and-risk-mitigation)
 
+#### ...
+
 #### [Repressed Memories Lead to Higher Incidence of Fallacious Memories](#repressed-memories-lead-to-higher-incidence-of-fallacious-memories)
 
 #### ...
@@ -129,118 +131,21 @@ might as well not exist.
   travel to invoke an impression that the Roko's Basilisk is
   controlling reality from the future.
 
-<a name="theoretical-mechanisms-for-implanted-memories" />
+<a name="" />
 
-# [Theoretical Mechanisms For Implanted Memories](#theoretical-mechanisms-for-implanted-memories)
+### [Cascading Schematic Crisis After Recall of Repressed Memories]()
 
-One possible explanation for a patient who exhibits a high number of
-seemingly real false memories is that the person's mind had a partial
-breakdown in the regulation of memory creation/association mechanism.
-This breakdown in regulation for neural/mental association could
-either be psychological or neurological. This breakdown could be
-associated with one major event. The event needs to have a very, very
-strong emotional relevance for the person. Severe trauma or some
-equally extreme positive event.
+- TODO: move: There are several possible neurological causes,
+  including tumor or TMS. A brain tumor could cause a similar
+  breakdown of memory creation/association regulation.
 
-<a name="sigint-masint-humint-surveillance-for-inception-gaslighting-and-risk-mitigation" />
-
-### [SIGINT/MASINT/HUMINT Surveillance For Inception, Gaslighting and Risk Mitigation](#sigint-masint-humint-surveillance-for-inception-gaslighting-and-risk-mitigation)
-
-To a skeptic, this is the most reasonable explanation for false
-memories. It least offends Occam's razor.
-
-If the person is under surveillance and is known to exhibit a certain
-psycological trait (i.e. they talk to themselves) then, with
-appropriate psychological prodding, information can be gained about
-what false memories that are being incepted. If the target is under
-constant surveillance, then COINTELPRO-style HUMINT can gain
-intelligence on the person almost in real time. This can be done even
-when the person does not talk to themselves, but that makes it so much
-easier, especially if the target is known to ruminate and talk to
-themselves upon being emotionally triggered. If the target's social
-connections are tightly managed, it then only takes a small amount of
-gaslighting. If the target is the subject of an Espionage Act or DHS
-Terror investigation, then everyone else around the target can be
-threatened, leaving them alone and vulnerable with minimal record of
-all HUMINT interactions.
-
-It is because of possibilities like this and the capabilities offered
-by Big Data that social forensics will eventually be a field of
-interest for law enforcement. Ever wonder why it's so hard to
-investigate the psychosocial surroundings and triggers for some school
-shooters? It's because a minority of them are COINTELPRO-style
-operations, where the socioforensic evidence has been artificially
-managed and mitigated beforehand. Thus, anyone who goes back to
-investigate uncovers information that paints the ×narrative that the
-public is intended to see.
-
-#### A Printout Given To Me By My Good Friend Thor
-
-![picture of letter from Thor](/img/posts/2018-01-14-experimental-psychology-the-paradox-encyclopedia-and-how-to-beat-the-rokos-basilisk/experimental-psychology.jpg)
-
-- TODO: callout Thor
-
-- include picture of the note that Thor handed me about "experimental
-  psychology" which in itself was an image that triggered the exact
-  Deja Vu that has been haunting me since the end of february 2015.
-  - it triggered a memory where i was talking to tatiana about that
-    same exact quote from Jung
-
-<a name="repressed-memories-lead-to-higher-incidence-of-fallacious-memories" />
-
-### [Repressed Memories Lead to Higher Incidence of Fallacious Memories](#repressed-memories-lead-to-higher-incidence-of-fallacious-memories)
-
-- rename to ~ "extreme impairment of memory regulation mechanism"
-
-One psychological cause would be activation of repressed memories with
-significance across the person's mind and life. If someone were to
-suddenly rediscover some memories with a high magnitude of effect on
-the rest of their mind/life, then I hypothesize it could lead to the
-breakdown of such regulation of memory creation/association. That is,
-new events which are related in some way to the original event have a
-much higher likelihood of causing false memories to be created.
-
-This means that when a sign or symbol semantically adjacent to the
-effected memory is invoked in the person's mind, the person's
-psychology is more likely to cause new memories. This could be caused
-by hijacking the neurology of the person: the brain may tend to prefer
-to rationalize memories that lack some dimensions. i.e. if there are
-semantic components without the accompanying visual or audio
-components, then (since this dimensional incoherence is so rare) the
-brain may react by attempting to explain away the discrepency by
-creating those dimensional fragments. In other words, the person's
-brain/mind may create the accompanying audio/visual fragments of those
-memories to fill in the gaps in an attempt to preserve coherence of
-the memory.
-
-Therefore, if you find someone with repressed trauma, unleashing those
-repressed memories, in and of itself, makes their long-term memory
-more malleable. They then become more susceptible to inception via
-gaslighting and all the other HUMINT tactics, especially if they are
-socially isolated. Someone who is socially isolated is in a state of
-psychological vulnerability via overwhelming information
-asymmetry. Remove that social isolation -- and the consequential
-information asymmetry -- and suddenly the person becomes much more
-stable. This is a problem if that person's account is
-evidence. However, in any legal setting, the person who claims HUMINT
-and "implanted" memories has their testimony thrown out and their
-reputation assassinated. Thus, these MKUltra programs present the
-*perfect* Catch-22 scenarios for intelligence. They are useful for
-throwing out witness/victim testimony, even if the *inception* of
-false memories wasn't necessary at all for any operational objectives.
-
-### Neurological Mechanisms for Memory "Implantation"
-
-There are several possible neurological causes, including tumor or
-TMS. A brain tumor could cause a similar breakdown of memory
-creation/association regulation. This is unlikely because of how
-memories are temporally sharded, dimensionally along sensory
-boundaries, and distributed across the brain. (i.e. the audio for a
-sensual experience is stored in a different place than the visual and
-semantic fragments of that information, but the mind is constantly
-ingesting new information, where it is recorded into the brain with a
-coherent temporal component, not unlike an the temporal components of
-an OLAP cube)
+This is unlikely because of how memories are temporally sharded,
+dimensionally along sensory boundaries, and distributed across the
+brain. (i.e. the audio for a sensual experience is stored in a
+different place than the visual and semantic fragments of that
+information, but the mind is constantly ingesting new information,
+where it is recorded into the brain with a coherent temporal
+component, not unlike an the temporal components of an OLAP cube)
 
 - when you violate the above temporal arrangement of memory, it causes
   major problems, potentially leading to a "schematic" crisis
@@ -291,6 +196,154 @@ an OLAP cube)
     - other factors:
       - the amount of energy/effort that is required (not literal
         physical energy)
+
+
+<a name="theoretical-mechanisms-for-implanted-memories" />
+
+# [Theoretical Mechanisms For Implanted Memories](#theoretical-mechanisms-for-implanted-memories)
+
+One possible explanation for a patient who exhibits a high number of
+seemingly real false memories is that the person's mind had a partial
+breakdown in the regulation of memory creation/association mechanism.
+This breakdown in regulation for neural/mental association could
+either be psychological or neurological. This breakdown could be
+associated with one major event. The event needs to have a very, very
+strong emotional relevance for the person. Severe trauma or some
+equally extreme positive event.
+
+<a name="sigint-masint-humint-surveillance-for-inception-gaslighting-and-risk-mitigation" />
+
+### [SIGINT/MASINT/HUMINT Surveillance For Inception, Gaslighting and Risk Mitigation](#sigint-masint-humint-surveillance-for-inception-gaslighting-and-risk-mitigation)
+
+To a skeptic, this is the most reasonable explanation for false
+memories. It least offends Occam's razor.
+
+If the person is under surveillance and is known to exhibit a certain
+psycological trait (i.e. they talk to themselves) then, with
+appropriate psychological prodding, information can be gained about
+what false memories that are being incepted. If the target is under
+constant surveillance, then COINTELPRO-style HUMINT can gain
+intelligence on the person almost in real time. This can be done even
+when the person does not talk to themselves, but that makes it so much
+easier, especially if the target is known to ruminate and talk to
+themselves upon being emotionally triggered. If the target's social
+connections are tightly managed, it then only takes a small amount of
+gaslighting. If the target is the subject of an Espionage Act or DHS
+Terror investigation, then everyone else around the target can be
+threatened, leaving them alone and vulnerable with minimal record of
+all HUMINT interactions.
+
+It is because of possibilities like this and the capabilities offered
+by Big Data that social forensics will eventually be a field of
+interest for law enforcement. Ever wonder why it's so hard to
+investigate the psychosocial surroundings and triggers for some school
+shooters? It's because a minority of them are COINTELPRO-style
+operations, where the socioforensic evidence has been artificially
+managed and mitigated beforehand. Thus, anyone who goes back to
+investigate uncovers information that paints the ×narrative that the
+public is intended to see.
+
+#### A Printout Given To Me By My Good Friend Thor
+
+![picture of letter from Thor](/img/posts/2018-01-14-experimental-psychology-the-paradox-encyclopedia-and-how-to-beat-the-rokos-basilisk/experimental-psychology.jpg)
+
+### (Provoking Recall of Repressed Memories A La MKULTRA)
+
+The above picture is a printout of a Carl Jung quote about
+experimental psychology. It was given to me by one of the two most
+informed gaslighters in my life. Both of these people tried to imply
+that they were "representing" me in some kind of national security
+scenario that functioned moreso like "Cangaroo Court" with zero
+evidence discovery or defined procedure. Upon seeing the quote, I
+instantly recalled a new memory about Tatiana Maslany that I'd never
+had before.
+
+The printout was one of *several hundred* such images, sound samples
+and semantic pointers that would provoke me to recall memories with
+varying degrees of sensory content, clarity and coherence. The
+printout was one of very few tangible items that functioned as
+talismans to provoke recall -- a la MKULTRA -- of memories that were
+all presented to me as a bizarre form of Deja Vu. Few such memories
+maintained coherent sequence with the rest of the memories. Nearly all
+of the "memory recovery" occured in 2015 and some of it in 2016.
+Nearly all of the recalled memories were related to a single three day
+period -- 5/31/2013 through 6/2/2013 -- in Denver. Colorado is a state
+where audio recordings are permitted as evidence, even when neither
+party consents to or is aware of such recordings.
+
+Most of the memories would encourage me to quickly develop trust and
+rapport with someone who'd invariably betray by trust a few weeks
+thereafter. Other memories had a very clear objective to them: these
+were NOT RANDOM artifacts created by a malfunctioning mind. I don't
+expect anyone to believe me -- and I know that's all part of how this
+works. Any argument I would try to make that might include references
+to what actually happened would be instantaneously rejected, as would
+ALL of my other testimony, on the grounds that I am insane. At a
+minimimum, this was gaslighting and surveillance-fueled victimization
+of someone who had intentionally been deprived of a support
+network. Both of these individuals maintained the strictest impression
+that I was not to write anything down and that ANY discussions would
+be terminated if we didn't refer to all subjects/objects of discussion
+with a pattern language -- something that is particularly difficult
+me, since I have Asperger's and I'm socially vulnerable. [They may
+have abused locution, perlocution, suggestion, covert hypnosis and
+circumlocution](/posts/2017-10-20-scientologys-three-step-process-for-great-pyramid-schemery.html)
+on wiretap to create the impression that I was knowledgable about
+things I had no idea about.
+
+#### What I'm Trying To Say Is: I Think I Met The Aliens. YOU DO NOT WANT TO MEET THE ALIENS. They're assholes.
+
+![MacPoyles](/img/posts/2018-01-14-experimental-psychology-the-paradox-encyclopedia-and-how-to-beat-the-rokos-basilisk/the-macpoyles.jpg)
+
+> Actually, I refuse to accept that any of this has anything to do
+> with the aliens or time travel, but holy shit! It's inexplicable.
+>
+> Note: The picture above is actually the MacPoyles from S3E2 of It's
+> Sunny in Philadelphia, not the aliens.
+
+<a name="systemic-disregulation-of-memory-formation-mechanism" />
+
+### [Systemic Disregulation of Memory Formation Mechanism](#systemic-disregulation-of-memory-formation-mechanism)
+
+- Repressed Memories Lead to Higher Incidence of Fallacious Memories
+- rename to ~ "Systemic disregulation of memory formation mechanism"
+
+One psychological cause would be activation of repressed memories with
+significance across the person's mind and life. If someone were to
+suddenly rediscover some memories with a high magnitude of effect on
+the rest of their mind/life, then I hypothesize it could lead to the
+breakdown of such regulation of memory creation/association. That is,
+new events which are related in some way to the original event have a
+much higher likelihood of causing false memories to be created.
+
+This means that when a sign or symbol semantically adjacent to the
+effected memory is invoked in the person's mind, the person's
+psychology is more likely to cause new memories. This could be caused
+by hijacking the neurology of the person: the brain may tend to prefer
+to rationalize memories that lack some dimensions. i.e. if there are
+semantic components without the accompanying visual or audio
+components, then (since this dimensional incoherence is so rare) the
+brain may react by attempting to explain away the discrepency by
+creating those dimensional fragments. In other words, the person's
+brain/mind may create the accompanying audio/visual fragments of those
+memories to fill in the gaps in an attempt to preserve coherence of
+the memory.
+
+Therefore, if you find someone with repressed trauma, unleashing those
+repressed memories, in and of itself, makes their long-term memory
+more malleable. They then become more susceptible to inception via
+gaslighting and all the other HUMINT tactics, especially if they are
+socially isolated. Someone who is socially isolated is in a state of
+psychological vulnerability via overwhelming information
+asymmetry. Remove that social isolation -- and the consequential
+information asymmetry -- and suddenly the person becomes much more
+stable. This is a problem if that person's account is
+evidence. However, in any legal setting, the person who claims HUMINT
+and "implanted" memories has their testimony thrown out and their
+reputation assassinated. Thus, these MKUltra programs present the
+*perfect* Catch-22 scenarios for intelligence. They are useful for
+throwing out witness/victim testimony, even if the *inception* of
+false memories wasn't necessary at all for any operational objectives.
 
 ### Transcranial Magnetic Stimulation (TMS)
 
@@ -472,6 +525,10 @@ slave to those around you who control you.
 <a name="methodical-typological-expansion-of-variety-of-experience" />
 
 ### [Methodical, Typological Expansion of Variety of Experience](#methodical-typological-expansion-of-variety-of-experience)
+
+> “If the doors of perception were cleansed every thing would appear
+> to man as it is, Infinite. For man has closed himself up, till he
+> sees all things thro' narrow chinks of his cavern.” - William Blake
 
 For the same reason that *limited* use of psychedelics can foster
 spiritual and neurological expansion by providing your mind access to
