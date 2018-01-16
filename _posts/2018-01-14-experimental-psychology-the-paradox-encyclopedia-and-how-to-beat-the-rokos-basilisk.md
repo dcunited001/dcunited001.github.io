@@ -13,39 +13,54 @@ excerpt: ""
 
 ## [In Which Psychological Warfare Becomes Neurological](#in-which-psychological-warfare-becomes-neurological)
 
-#### [TL;DR?](#tl-dr)
+#### &#x2605; [TL;DR?](#tl-dr)
 
-#### [Memory IS Identity](#memory-is-identity)
+#### &#x2605; [Memory IS Identity](#memory-is-identity)
 
-#### [Neurological Tactics To Sociophysically Reshape Reality](#neurological-tactics-to-sociophysically-reshape-reality)
+#### &#x2605; [Neurological Tactics To Sociophysically Reshape Reality](#neurological-tactics-to-sociophysically-reshape-reality)
 
-#### [Hypothesis: Cascading Schematic Crisis After Recall of Repressed Memories](#hypothesis-cascading-schematic-crisis-after-recall-of-repressed-memories)
+#### &#x2605; [Hypothesis: Cascading Schematic Crisis (CSC) After Recall of Repressed Memories](#hypothesis-cascading-schematic-crisis-after-recall-of-repressed-memories)
 
+#### &#x2605; [Factors Influencing the Severity of a Cascading Schematic Crisis](#factors-correlated-to-the-severity-of-a-cascading-schematic-crisis)
 
 ## [Theoretical Mechanisms For Implanted Memories](#theoretical-mechanisms-for-implanted-memories)
 
-#### [SIGINT/MASINT/HUMINT Surveillance For Inception, Gaslighting and Risk Mitigation](#sigint-masint-humint-surveillance-for-inception-gaslighting-and-risk-mitigation)
+#### &#x2605; [SIGINT/MASINT/HUMINT Surveillance For Inception, Gaslighting and Risk Mitigation](#sigint-masint-humint-surveillance-for-inception-gaslighting-and-risk-mitigation)
 
-#### ...
+#### &#x2605; [Provoking Recall of Repressed Memories -- MKULTRA A La Cart](#provoking-recall-of-repressed-memories-mkultra-a-la-cart)
 
-#### [Repressed Memories Lead to Higher Incidence of Fallacious Memories](#repressed-memories-lead-to-higher-incidence-of-fallacious-memories)
+#### &#x2605; [Systemic Disregulation of Memory Formation Mechanisms](#systemic-disregulation-of-memory-formation-mechanisms)
 
-#### ...
+#### &#x2605; [TMS: Transcranial Magnetic Stimulation](#tms-cranscranial-magnetic-stimulation)
 
-#### [Systemic Disregulation of Memory Formation Mechanisms](#systemic-disregulation-of-memory-formation-mechanisms)
+#### &#x2605; [Optogenetics, Directed Energy and SPION Nanoparticles](#optogenetics-directed-energy-and-spion-nanoparticles)
 
-#### ...
+#### &#x2605; ...
+
+#### &#x2605; [Neuropharmacological Suppression of Specific Neurological Modalities](#neuropharmalogical-suppression-of-specific-neurological-modalities)
+
+#### &#x2605; [Neurologically-Oriented Schematic Crisis in Patients with Recovered Memory](#neurologically-oriented-schematic-crisis-in-patients-with-recovered-memory)
 
 ## [Surviving Metempsychosis Via Deep Insight Into Paradoxes](#surviving-metempsychosis-via-deep-insight-into-paradoxes)
 
-#### [Why Should Human Beings Suffer?](#why-should-human-beings-suffer)
+#### &#x2605; [Why Should Human Beings Suffer?](#why-should-human-beings-suffer)
 
-#### [No, There Is Not An Architect Of Your Suffering: Create Your Own Meaning](#no-there-is-not-an-architect-of-your-suffering-create-your-own-meaning)
+#### &#x2605; [No, There Is Not An Architect Of Your Suffering: Create Your Own Meaning](#no-there-is-not-an-architect-of-your-suffering-create-your-own-meaning)
 
+#### &#x2605; [That's When They Say "You Need Jesus!"](#thats-when-they-say-you-need-jesus)
 
-#### [That's When They Say "You Need Jesus!"](#thats-when-they-say-you-need-jesus)
+#### &#x2605; [Congratulations: Your Identity is an STD Crossed With Cancer](#congratulations-your-identity-is-an-std-crossed-with-cancer)
 
-#### [Congratulations: Your Identity is an STD Crossed With Cancer](#congratulations-your-identity-is-an-std-crossed-with-cancer)
+#### &#x2605; ...
+
+#### &#x2605; [Methodical, Typological Expansion of Variety of Experience](#methodical-typological-expansion-of-variety-of-experience)
+
+#### &#x2605; [And If You Gaze Long Into An Abyss...](and-if-you-gaze-long-into-an-abyss)
+
+#### &#x2605; [John 10:11-18](#john-10-11-18)
+
+## [Identifying Applications of Theoretical Neurology](#identifying-applications-of-theoretical-neurology)
+
 
 
 #### NEVER FORGET HOW UNLIKELY IT IS *AND HOW NECESSARY IT IS* FOR A GOLIATH TO BE SLAIN BY A DAVID
@@ -191,7 +206,7 @@ controlling reality from the future.
 
 <a name="hypothesis-cascading-schematic-crisis-after-recall-of-repressed-memories" />
 
-### [Hypothesis: Cascading Schematic Crisis After Recall of Repressed Memories](#hypothesis-cascading-schematic-crisis-after-recall-of-repressed-memories)
+### [Hypothesis: Cascading Schematic Crisis (CSC) After Recall of Repressed Memories](#hypothesis-cascading-schematic-crisis-after-recall-of-repressed-memories)
 
 There are several possible neurological causes to accelerated
 incidence of confabulated and/or fallacious memory, including a brain
@@ -213,9 +228,12 @@ Regardless, considering this phenomenon gives rise to a fascinating
 theory to explain the side effects of recalling repressed memories. If
 this theory were true, it implies that similar consequences are likely
 to occur even if those recalled memories were fictious. It also leads
-to the depressing realization that brain-computer interfaces will
-never be as simple as we might hope, without nanotechnology and
-quantum networking.
+to the depressing realization that brain-computer interfaces (BCI)
+will never be as simple as we might hope, without nanotechnology and
+quantum networking. Far worse, the existence and qualities of this CSC
+strongly imply that BCI's will result in developmental changes to
+neurological structure -- especially in younger brains and in earlier
+generations of the technology.
 
 When you violate the above temporal arrangement of primary memories,
 it causes major problems, potentially leading to a "schematic" crisis.
@@ -226,14 +244,14 @@ constantly intaking, processing and storing data about sensory
 experiece in primary memories, with emphasis shifted towards someone's
 conscious and incidental focus at the time. Those details with more
 focus receive priority when storing data related to primary
-memories. The mind is alway reflecting on the sum and product of its
+memories. The mind is always reflecting on the sum and product of its
 experiences as it knows them, recording those reflective aspects of
 its experience into aggregate memories, which are linked to primary
 memories. Much of the content of these aggregate memories is semantic;
 it is connected to the nature and specifics of the thoughts being
 processed about former experiences.
 
-However, when you provoke repressed or fallacious memories to become
+So when you provoke repressed or fallacious memories to become
 conscious, there is a schematic crisis that occurs. The mind must
 reevaluate what it knows, restructure everything neurologically and
 disconnect or rectify what was erroneously connected. Sure, there may
@@ -250,7 +268,7 @@ of identity is forever cursed.
 
 <a name="factors-correlated-to-the-severity-of-a-cascading-schematic-crisis" />
 
-# [Factors Influencing the Severity of a Cascading Schematic Crisis](#factors-correlated-to-the-severity-of-a-cascading-schematic-crisis)
+### [Factors Influencing the Severity of a Cascading Schematic Crisis](#factors-correlated-to-the-severity-of-a-cascading-schematic-crisis)
 
 If this theoretical understanding of repressed memory recall is true,
 the Such a schematic crisis can _trivially_ result in a connectopathy
@@ -268,23 +286,38 @@ those powerfully networked people who use them.
 
 The following factors not only determine the severity of the schematic
 crisis, they correlate to the severity of resulting connectopathy,
-which acts as a neurological cause for mental illess *BUT ALSO A
-VERIFIABLE, NEUROLOGICAL FINGERPRINT* for the presence of recovered
-memories, true and fictitious. That's yet another reason why bitemark
-analysis is so important these days -- don't let them "bodycam" us by
-pigeonholing our perspectives on critical legal issues.
+which acts as a neurological cause for mental illess but also **a
+verifiable, neurological fingerprint in fMRI and SPECT for the
+presence of recovered memories both true and fictitious**.
 
-#### (1) The length of time between the original events and the date upon which those memories became accessible
+That's yet another reason why **bitemark analysis** is so important
+these days -- don't let them "bodycam" us by pigeonholing our
+perspectives on critical legal issues. If you throw out all data
+science methodologies on the basis that they're overly statistical,
+then many technologies that could be determining factors in court
+cases will not be considered whatsoever. If this undermine any
+incentive early on for development of the expert testimony
+logistics/processes utilizing complicated, expensive statistical
+methodologies, it will be impossible to form a basis of legal
+precedent whereby reasonable legal research can be conducted. Throwing
+out all "bitemark analysis" early on will make it difficult to protect
+the spirit of the law and the spirit of the rule of law with the
+advent of 21st century technologies. The answer to this is the
+development of generalized, high-dimensional models which chip away at
+any uncertainty via high-dimensional inference, cross-correlation and
+cross-entropy.
+
+#### &#9312; The length of time between the original events and the date upon which those memories became accessible
 
 When this length of time is increased, then the mind is much more
 likely to have either a plethora of aggregate memories to create in
 response to unveiled trauma or proportionally more aggregate memories
 to disentangle and reconnect.
 
-#### (2) The level of emotional or intellectual relevence in reevaluating your other primary and aggregate memories
+#### &#9313; The level of emotional or intellectual relevence in reevaluating your other primary and aggregate memories
 
 What does your psyche have to gain by emotionally or rationally
-re-evaluating what it knows. When reconstructing a new understanding
+re-evaluating what it knows? When reconstructing a new understanding
 of your life, what is the level of emotional contrast? Examples of
 situations with high emotional contrast include those like repressed
 memories of childhood rape by someone close to the victim. Nothing
@@ -300,7 +333,7 @@ Situations with greater emotional contrast with more tightly connected
 friends or family members will typically result in a greater affect on
 the victim's mind and brain.
 
-#### (3) The well-connectedness of false aggregate memories built atop primary memories
+#### &#9314; The well-connectedness of false aggregate memories built atop primary memories
 
 This includes both false primary memories as well as the the absence
 of primary memories. The more connected these aggregate memories are
@@ -314,7 +347,7 @@ years, your mind is nothing but weeds. It doesn't mean that there's no
 hope, it just means you need to be strong and you need people around
 you that you can trust.
 
-You'll find that true MKULTRA victims always have constrained variety
+You'll find that true *MKULTRA* victims always have constrained variety
 of social experience during their life, which leads them to be further
 dependent on their close social connections. That is, they were always
 intended to be potential manakins and were never psychologically
@@ -327,7 +360,7 @@ operate them. Into those vessels are implanted very specific sets of
 knowledge. Not every person like this is intended to be used in a
 horrible manner.
 
-#### (4) The difficulty that your brain faces to constructing a coherent narrative
+#### &#9315; The difficulty that your brain faces to constructing a coherent narrative
 
 Facing a lack of information about the events makes this narrative
 reconstruction much more difficult, resulting in a greater propensity
@@ -352,8 +385,8 @@ abuse those psychological resources instead of making reparations to
 the victim because any contact/interference with the victim's life
 creates surface area and potential vectors for LEGAL LIABITILITY. A
 victim that understands this -- AND KNOWS ALL THE DIRTY TRICKTS -- can
-avoid problems *WHILE* attempting to negotiate via the quasi-obvious
-surveillance.
+avoid problems *while attempting to negotiate via the quasi-obvious
+surveillance.*
 
 <a name="theoretical-mechanisms-for-implanted-memories" />
 
@@ -372,8 +405,8 @@ equally extreme positive event.
 
 ### [SIGINT/MASINT/HUMINT Surveillance For Inception, Gaslighting and Risk Mitigation](#sigint-masint-humint-surveillance-for-inception-gaslighting-and-risk-mitigation)
 
-To a skeptic, this is the most reasonable explanation for false
-memories. It least offends Occam's razor.
+> To a skeptic, this is the most reasonable explanation for false
+> memories. It least offends Occam's razor.
 
 If the person is under surveillance and is known to exhibit a certain
 psycological trait (i.e. they talk to themselves) then, with
@@ -390,20 +423,21 @@ Terror investigation, then everyone else around the target can be
 threatened, leaving them alone and vulnerable with minimal record of
 all HUMINT interactions.
 
+#### What's [COINTELPRO](https://en.wikipedia.org/wiki/COINTELPRO)? It's A Reincarnation of the Same [1960's FBI Program That Sent a Letter to Martin Luther King Telling Him To Commit Suicide.](https://en.wikipedia.org/wiki/FBI%E2%80%93King_suicide_letter#/media/File:Mlk-uncovered-letter.png)
+
 It is because of possibilities like this and the capabilities offered
-by Big Data that social forensics will eventually be a field of
+by Big Data that **social forensics** will eventually be a field of
 interest for law enforcement. Ever wonder why it's so hard to
 investigate the psychosocial surroundings and triggers for some school
 shooters? It's because a minority of them are COINTELPRO-style
 operations, where the socioforensic evidence has been artificially
 managed and mitigated beforehand. Thus, anyone who goes back to
-investigate uncovers information that paints the ×narrative that the
+investigate uncovers information that paints the narrative that the
 public is intended to see.
 
-#### A Printout Given To Me By My Good Friend [Thor]()
+#### A Printout Given To Me By My Good Friend [Thor](https://www.facebook.com/thor.yool)
 
-![picture of letter from
-Thor](/img/posts/2018-01-14-experimental-psychology-the-paradox-encyclopedia-and-how-to-beat-the-rokos-basilisk/experimental-psychology.jpg)
+![picture of letter from Thor](/img/posts/2018-01-14-experimental-psychology-the-paradox-encyclopedia-and-how-to-beat-the-rokos-basilisk/experimental-psychology.jpg)
 
 <a name="provoking-recall-of-repressed-memories-mkultra-a-la-cart" />
 
@@ -427,9 +461,34 @@ all presented to me as a bizarre form of Deja Vu. Few such memories
 maintained coherent sequence with the rest of the memories. Nearly all
 of the "memory recovery" occured in 2015 and some of it in 2016.
 Nearly all of the recalled memories were related to a single three day
-period -- 5/31/2013 through 6/2/2013 -- in Denver. Colorado is a state
-where audio recordings are permitted as evidence, even when neither
-party consents to or is aware of such recordings.
+period -- **5/31/2013 through 6/2/2013** -- in **Denver**. Colorado is
+a state where audio recordings are permitted as evidence, even when
+neither party consents to or is aware of such recordings.
+
+This tangent very beside the point: curling,
+[marling](https://en.wiktionary.org/wiki/marline) and macramé are some
+of the best metaphors, period. Marling is essential for tying down
+unpredictable key events in a time loop. Curling is essential for
+utilizing stochastic calculus to mitigate the uncertainty of key
+events. Understanding how to
+[macramé](https://en.wikipedia.org/wiki/Macram%C3%A9) certain,
+invisible metaphysical elements, funneling them into marling points,
+is how you architect such massive feats of history as the transition
+from the Roman Empire to the Catholic Church to the Holy Roman
+Empire. Your macramé must harness the leylines of the collective
+unconscious.
+
+#### Curling Is A Sport About The Application of Stochastic Calculus.
+
+![Canadian Curling Champs!](/img/posts/2018-01-14-experimental-psychology-the-paradox-encyclopedia-and-how-to-beat-the-rokos-basilisk/curling.jpg)
+
+> After enduring about three years of this -- because of the
+> incoherent, insequent, inogent nature of new memories -- it became
+> clear that the abject lack of parity and tight coupling to
+> objectives of sociophysical equilibria indicated that something was
+> very wrong. I was correct to never trust any of this. Again, that
+> [list of paradoxes](https://en.wikipedia.org/wiki/List_of_paradoxes)
+> is the very best advice I can offer, by far.
 
 Most of the memories would encourage me to quickly develop trust and
 rapport with someone who'd invariably betray by trust a few weeks
@@ -461,7 +520,7 @@ things I had no idea about.
 > Actually, I refuse to accept that any of this has anything to do
 > with the aliens or time travel, but holy shit! It's inexplicable.
 >
-> Note: The picture above is actually the MacPoyles from S3E2 of It's
+> Note: The picture above is actually the McPoyles from S3E2 of It's
 > Sunny in Philadelphia, not the aliens.
 
 <a name="systemic-disregulation-of-memory-formation-mechanism" />
@@ -486,14 +545,15 @@ This means that when a sign or symbol semantically adjacent to the
 effected memory is invoked in the person's mind, the person's
 psychology is more likely to cause new memories. This could be caused
 by hijacking the neurology of the person: the brain may tend to prefer
-to rationalize memories that lack some dimensions. i.e. if there are
-semantic components without the accompanying visual or audio
-components, then (since this dimensional incoherence is so rare) the
+to rationalize memories that lack some dimensions. That is, if there
+are semantic components without the accompanying visual or audio
+components, then because this dimensional incoherence is so rare, the
 brain may react by attempting to explain away the discrepency by
-creating those dimensional fragments. In other words, the person's
-brain/mind may create the accompanying audio/visual fragments of those
-memories to fill in the gaps in an attempt to preserve coherence of
-the memory.
+filling in those dimensional fragments. This is very similar to the
+reason why witness testimony needs to be recorded early on. In other
+words, the person's brain/mind may create the accompanying
+audio/visual fragments of those memories to fill in the gaps in an
+attempt to preserve coherence of the memory.
 
 Therefore, if you find someone with repressed trauma, unleashing those
 repressed memories, in and of itself, makes their long-term memory
@@ -513,7 +573,9 @@ false memories wasn't necessary at all for any operational objectives.
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/csUf0MAUIs4" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
 
-### Transcranial Magnetic Stimulation (TMS)
+<a name="tms-cranscranial-magnetic-stimulation" />
+
+### [TMS: Transcranial Magnetic Stimulation](#tms-cranscranial-magnetic-stimulation)
 
 (focused Transcranial Magnetic Stimulation). One could "encourage"
 the mapping of memories by applying TMS to targeted areas of the brain
@@ -521,13 +583,17 @@ while the person is experiencing some video/audio. Such a technique
 would be hampered by the impossibility of running TMS simultaneously
 with fMRI (AFAIK)
 
-### Optogenetics, Directed Energy and SPION Nanoparticles
+<a name="optogenetics-directed-energy-and-spion-nanoparticles" />
+
+### [Optogenetics, Directed Energy and SPION Nanoparticles](#optogenetics-directed-energy-and-spion-nanoparticles)
+
+- there is almost certainly a "hacky" method for mind control here
 
 - describe how to use directed energy to increase thermal energy in
   localized regions of the brain.
   - describe how this such method should be prone to failure
 
-- optogenetics (requires CRISPR at some point)
+- optogenetics (which almost certainly requires CRISPR at some point)
   - Any methodology with optogenetics benefits from the application of
     SPION particles and vice-versa. can interoperate with SPION
     particles
@@ -556,7 +622,9 @@ with fMRI (AFAIK)
   - used in REM dream-state, this could be highly effective for
     inception of false memories
 
-### Neuropharmacological Suppression of Specific Neurological Modalities
+<a name="neuropharmalogical-suppression-of-specific-neurological-modalities" />
+
+### [Neuropharmacological Suppression of Specific Neurological Modalities](#neuropharmalogical-suppression-of-specific-neurological-modalities)
 
 Psychiatrists and neurologists with knowledge of how neuropsychiatry
 relates to the neurological modalities related to memory formation in
@@ -568,8 +636,24 @@ memory -- the visual or audio elements of an experience would be less
 likely to be laid down. Later, only the audio or semantic information
 is accessible, but the mind or brain fills in the gaps.
 
-### Neurologically-Oriented Schematic Crisis in Patients with Recovered Memory
+This particular mechanism seems like a viable candidate for 1960's
+style MKULTRA programs, but it can be augmented with VR/AR
+techniques. If the target is **abducted** by *aliens*, then they can
+receive treatment sessions where key neurological modalities are
+suppressed via the neuropharmacological mechanism above. There are
+several avenues that the generatiion of voice & video can augment this
+hypothetical VR MKULTRA mechanism, in real time. If the target can be
+guaranteed to retain no accessible memory of the series of events
+without the MKULTRA **keys**, then **hypothetically** this would
+work. It obviously presents logistic problems: if you even get caught
+abducting someone **once**, it's obviously a warcrime, so such a
+method would not be viable in the long-term.
 
+<a name="neurologically-oriented-schematic-crisis-in-patients-with-recovered-memory" />
+
+### [Neurologically-Oriented Schematic Crisis in Patients with Recovered Memory](#neurologically-oriented-schematic-crisis-in-patients-with-recovered-memory)
+
+- todo: rewrite to reference the above description
 - This last mechanism isn't related to the formation of
   false/implanted memories but describes what happens to the brain or
   mind of patients who recover false and/or repressed memories
@@ -779,7 +863,9 @@ moral to destroy the lives of others in doing so. However, this person
 who has suffered and has nothing is the person most capable of living
 the verses below, but there is no such thing as an anonymous martyr.
 
-#### John 10:11-18
+<a name="john-10-11-18" />
+
+### [John 10:11-18](#john-10-11-18)
 
 > “I am the good shepherd. The good shepherd lays down his life for
 > the sheep.  The hired hand is not the shepherd and does not own the
@@ -823,7 +909,7 @@ neurology. These are factors that should be common to all cases.
 
 <a name="sole-source-event" />
 
-### [(1) There is some sole source event to which almost all incepted memories are linked.](#sole-source-event)
+### &#9316; [There is some sole source event to which almost all incepted memories are linked.](#sole-source-event)
 
 If this is the case, then it's likely some neurological anomoly, like
 a brain tumor. If so, with fMRI and the right process to stimulate
@@ -837,7 +923,7 @@ of neurological imagery.
 
 <a name="source-event-involved-drugs" />
 
-### [(2) That event involved possible use of drugs to stifle the creation of some aspects of those memories.](#source-event-involved-drugs)
+### &#9316; [That event involved possible use of drugs to stifle the creation of some aspects of those memories.](#source-event-involved-drugs)
 
 For example, propranolol or Zeta Interacting Protein (a la blindspot)
 might suppress the neurological accessibility for some memories. But,
@@ -849,7 +935,7 @@ daterape.
 
 <a name="incoherent-narrative-of-memories" />
 
-### [(3) You can assume it is much, much harder to insert *coherent* memories than it is to insert fragments of memories.](#incoherent-narrative-of-memories)
+### &#9316; [You can assume it is much, much harder to insert *coherent* memories than it is to insert fragments of memories.](#incoherent-narrative-of-memories)
 
 There may be semanitic memory for which there is no audio/video
 memory, like knowledge of specific phrases and information. To correct
@@ -889,7 +975,7 @@ witnesses to a crime.
 
 <a name="absence-of-aggregate-memories" />
 
-### [(4) The absence of "aggregate" memories from before the time the repressed memory was retrieved.](#absence-of-aggregate-memories)
+### &#9315; [The absence of "aggregate" memories from before the time the repressed memory was retrieved.](#absence-of-aggregate-memories)
 
 When we access memories, we modify them neurologically. This has been
 demonstrated over and over again and recently: 2015! This explains how
@@ -919,7 +1005,7 @@ reexamine their life in
 
 <a name="social-forensics-demonstrates-coordination" />
 
-### [(5) Social Forensics Demonstrates Logistic Coordiation and Risk Mitigation For the Activity of Those Involved.](#social-forensics-demostrates-coordination)
+### &#9316; [Social Forensics Demonstrates Logistic Coordiation and Risk Mitigation For the Activity of Those Involved.](#social-forensics-demostrates-coordination)
 
 If false memories are being used to manipulate someone, then someone
 must be involved to invoke those images, phrases, or pieces of
@@ -1028,7 +1114,7 @@ into locking down the space of possibilities with immutable facets of
 game states and irrevocable information, this leaves the game AND the
 Roko Basilisk totally constrained to a space.
 
-<a name="" />
+<a name="even-the-robot-demiurge-from-the-future-is-bound-by-complexity-theory" />
 
 ### [Even The Robot Demiurge from the Future Is Bound By Complexity Theory](#even-the-robot-demiurge-from-the-future-is-bound-by-complexity-theory)
 
@@ -1055,7 +1141,7 @@ counterexample to what otherwise might be the worst aphorism:
 
 ![The Beast from Boulder](/img/posts/2018-01-14-experimental-psychology-the-paradox-encyclopedia-and-how-to-beat-the-rokos-basilisk/boulder-street-art-beast.jpg)
 
-### (problems)
+### (...problems with this explanation)
 
 There are several problems with the above solution to Roko's
 Basilisk. It requires assumptions with dependencies on:
