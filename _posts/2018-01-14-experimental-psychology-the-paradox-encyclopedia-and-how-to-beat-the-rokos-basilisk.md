@@ -8,10 +8,8 @@ author:
 excerpt: ""
 ---
 
-- references to videos explaining "memory implantation" studies from 2015
-- the best advice i can give you is: look at Wikipedia's [List of
-  Paradoxes](https://en.wikipedia.org/wiki/List_of_paradoxes) and know
-  each and every one of them like the back of your hand.
+- “Kill in thyself all memory of past experiences. Look not behind or
+  thou art lost.” - Blavatsky
 
 ## [In Which Psychological Warfare Becomes Neurological](#in-which-psychological-warfare-becomes-neurological)
 
@@ -34,7 +32,7 @@ excerpt: ""
 
 #### ...
 
-#### [Systemic Disregulation of Memory Formation Mechanism](#systemic-disregulation-of-memory-formation-mechanism)
+#### [Systemic Disregulation of Memory Formation Mechanisms](#systemic-disregulation-of-memory-formation-mechanisms)
 
 #### ...
 
@@ -45,7 +43,7 @@ excerpt: ""
 #### [No, There Is Not An Architect Of Your Suffering: Create Your Own Meaning](#no-there-is-not-an-architect-of-your-suffering-create-your-own-meaning)
 
 
-#### [That's When They Say You Need Jesus!](#thats-when-they-say-you-need-jesus)
+#### [That's When They Say "You Need Jesus!"](#thats-when-they-say-you-need-jesus)
 
 #### [Congratulations: Your Identity is an STD Crossed With Cancer](#congratulations-your-identity-is-an-std-crossed-with-cancer)
 
@@ -94,9 +92,9 @@ with risk that is acceptable to operational security requirements.
 > any kind. If you're wondering, yes, I am a victim here -- of what,
 > I'm not quite sure. I must certainly have [False Memory
 > Syndrome](https://en.wikipedia.org/wiki/False_memory_syndrome),
-> although it seems everyone around me seems intent on exacerbating to
-> delude and discredit me, while I'm isolated and in poverty of
-> information. It is criminal. I have no problems distinguishing
+> although it seems everyone around me seems intent on exacerbating
+> that to delude and discredit me, while I'm isolated and in poverty
+> of information. It is criminal. I have no problems distinguishing
 > fantasy and reality -- I'm sick of pondering all the
 > what-ifs. Besides familiarizing myself with Wikipedia's
 > [encyclopedia of
@@ -108,8 +106,8 @@ with risk that is acceptable to operational security requirements.
 What is described herein may constitute many, many warcrimes. The
 depressing reality of warcrimes is that, until there is real justice,
 a society seeks to insulate perpetrators of warcrimes at the expense
-of the victims. With the level of effort invested: YOU REALLY HAVE TO
-WONDER.
+of the victims. With the level of effort invested: you really have to
+wonder.
 
 <a name="memory-is-identity" />
 
@@ -118,11 +116,11 @@ WONDER.
 You are your own memories. Someone who violates your memories violates
 your identity. To others, their memories with you and associated with
 you constitute their understanding of your identity. In a society that
-violates your identity by "Memory Hole" -- i.e. classifying anything
-associated with your name -- that society is raping your life every
-minute that you breathe. If you fall victim to a Memory Hole, they
-have sociophysically contained you by coercing anyone who refers to
-undesirable details about you by name. That is, they have
+violates your identity by **Memory Hole** -- essentially classifying
+anything associated with your name -- that society is raping your life
+every minute that you breathe. If you fall victim to the Memory Hole,
+they have sociophysically contained you by coercing anyone who refers
+to undesirable details about you by name. That is, they have
 mathematically contained you by threatening retribution against anyone
 who counters their attempt to optimize sociophyisical metrics in their
 favor -- e.g. the size of your social graph neighborhood or the
@@ -146,23 +144,25 @@ the concept of a "critical mass" for the proactive or retroactive
 estabilishment of an idea, so that the idea appears authoritative or
 at least having substance, even though it contains fictitious
 components. Such ideas might include retroactively inserting a comic
-book series that never existed or a establishing the basis for a cover
-story. This is actually an idea from theosophy: social memory is
+book series into society's collective memory that never existed or a
+establishing the basis for a cover story.
+
+This borrows heavily from Theosophy's ideas: social memory is
 malleable. Convince enough people that an idea is real or that an
-event occured, then other people will be much more likely to believe
-it -- or they will actually begin incepting false memories within
-themselves.
+event occured and other people will become willing vectors in
+spreading an idea they believe to be authentic. Better yet, they may
+actually begin incepting false memories within themselves.
 
 #### Command This Technique With Mastery and You Might As Well Have Time Travel
 
-> Please note that I cannot stand this: ideas should be considered
-> rationally and logically firstmost. However, people circumvent the
-> intractibility of sociophysical problems by distributing
-> consensus/validation of ideas. It's simply not possible to know
-> everything, so its more useful to be able to gauge the authenticity
-> of an idea by how it is presented to you. Unfortunately, this leads
-> to vulnerabilities, some of which are systemic and WILL BE
-> ESPECIALLY RELEVANT IN OUR DECADE.
+> Please note that I cannot stand the idea I just described:
+> information should be considered rationally and logically
+> firstmost. However, people circumvent the intractibility of
+> sociophysical problems by distributing consensus/validation of
+> ideas. It's simply not possible to know everything, so its more
+> useful to be able to gauge the authenticity of an idea by how it is
+> presented to you. Unfortunately, this leads to vulnerabilities, some
+> of which are systemic and WILL BE ESPECIALLY RELEVANT IN OUR DECADE.
 
 Critically, one can harness the [Mandela
 Effect](https://en.wikipedia.org/wiki/False_memory#Collective_false_memories)
@@ -176,8 +176,6 @@ athiest -- if an idea surpasses this threshold of virulence, reality
 becomes defined by delusion. In the age of social media, humanity will
 only continue to become more susceptible to this.
 
-> Sir, I do say to you, which one of these countries is a shithole?
-
 One particularly useful tactic is to exploit the mandela effect to
 create the impression that time travel is possible and the future can
 physically manifest itself in the past. Why is this so powerful?
@@ -188,6 +186,8 @@ idea. Harnessing the Mandela Effect in this way invokes an impression
 that the [Roko's
 Basilisk](https://rationalwiki.org/wiki/Roko's_basilisk) is
 controlling reality from the future.
+
+> Sir, I do say to you, which one of these countries is a shithole?
 
 <a name="hypothesis-cascading-schematic-crisis-after-recall-of-repressed-memories" />
 
@@ -248,9 +248,9 @@ these memories are emotionally relevant or associated with severe
 trauma -- the brain must reconcile this, otherwise the mind's notion
 of identity is forever cursed.
 
-<a name="factors-influencing-the-severity-of-a-cascading-schematic-crisis" />
+<a name="factors-correlated-to-the-severity-of-a-cascading-schematic-crisis" />
 
-### [Factors Influencing the Severity of a Cascading Schematic Crisis](#factors-influencing-the-severity-of-a-cascading-schematic-crisis)
+# [Factors Influencing the Severity of a Cascading Schematic Crisis](#factors-correlated-to-the-severity-of-a-cascading-schematic-crisis)
 
 If this theoretical understanding of repressed memory recall is true,
 the Such a schematic crisis can _trivially_ result in a connectopathy
@@ -400,7 +400,7 @@ managed and mitigated beforehand. Thus, anyone who goes back to
 investigate uncovers information that paints the ×narrative that the
 public is intended to see.
 
-#### A Printout Given To Me By My Good Friend Thor
+#### A Printout Given To Me By My Good Friend [Thor]()
 
 ![picture of letter from
 Thor](/img/posts/2018-01-14-experimental-psychology-the-paradox-encyclopedia-and-how-to-beat-the-rokos-basilisk/experimental-psychology.jpg)
@@ -436,24 +436,27 @@ rapport with someone who'd invariably betray by trust a few weeks
 thereafter. Other memories had a very clear objective to them: these
 were NOT RANDOM artifacts created by a malfunctioning mind. I don't
 expect anyone to believe me -- and I know that's all part of how this
-works. Any argument I would try to make that might include references
-to what actually happened would be instantaneously rejected, as would
-ALL of my other testimony, on the grounds that I am insane. At a
-minimimum, this was gaslighting and surveillance-fueled victimization
-of someone who had intentionally been deprived of a support
-network. Both of these individuals maintained the strictest impression
-that I was not to write anything down and that ANY discussions would
-be terminated if we didn't refer to all subjects/objects of discussion
-with a pattern language -- something that is particularly difficult
-me, since I have Asperger's and I'm socially vulnerable. [They may
-have abused locution, perlocution, suggestion, covert hypnosis and
+works. It's a legal Catch-22 ad infinitum. Any argument I would try to
+make that might include references to what actually happened would be
+instantaneously rejected, as would ALL of my other testimony, on the
+grounds that I am insane.
+
+At a minimimum, this was gaslighting and surveillance-fueled
+victimization of someone who had intentionally been deprived of a
+support network. Both of these individuals maintained the strictest
+impression that I was not to write anything down and that ANY
+discussions would be terminated if we didn't refer to all
+subjects/objects of discussion with a pattern language -- something
+that is particularly difficult for me, since I have Asperger's and I'm
+socially vulnerable. [They may have abused locution, perlocution,
+suggestion, covert hypnosis and
 circumlocution](/posts/2017-10-20-scientologys-three-step-process-for-great-pyramid-schemery.html)
 on wiretap to create the impression that I was knowledgable about
 things I had no idea about.
 
 #### What I'm Trying To Say Is: I Think I Met The Aliens. YOU DO NOT WANT TO MEET THE ALIENS. They're assholes.
 
-![MacPoyles](/img/posts/2018-01-14-experimental-psychology-the-paradox-encyclopedia-and-how-to-beat-the-rokos-basilisk/the-macpoyles.jpg)
+![McPoyles](/img/posts/2018-01-14-experimental-psychology-the-paradox-encyclopedia-and-how-to-beat-the-rokos-basilisk/the-mcpoyles.jpg)
 
 > Actually, I refuse to accept that any of this has anything to do
 > with the aliens or time travel, but holy shit! It's inexplicable.
@@ -463,12 +466,13 @@ things I had no idea about.
 
 <a name="systemic-disregulation-of-memory-formation-mechanism" />
 
-### [Systemic Disregulation of Memory Formation Mechanism](#systemic-disregulation-of-memory-formation-mechanism)
+### [Systemic Disregulation of Memory Formation Mechanisms](#systemic-disregulation-of-memory-formation-mechanisms)
 
 Because of the theoretical cascading schematic crisis described above,
-recalling repressed memories may lead to a runaway incidence of the
+recalling repressed memories may lead to runaway incidence of the
 creation of fallacious memories, especially when certain psychological
-factors are "optimized."
+and sociological factors are "optimized" in the target and their
+1&deg; social neighborhood interactions.
 
 One psychological cause would be activation of repressed memories with
 significance across the person's mind and life. If someone were to
@@ -642,7 +646,7 @@ a thread of being with humanity.
 
 <a name="thats-when-they-say-you-need-jesus" />
 
-### [That's When They Say You Need Jesus!](#thats-when-they-say-you-need-jesus)
+### [That's When They Say "You Need Jesus!"](#thats-when-they-say-you-need-jesus)
 
 At least, after undergoing such experience, there is the hope that
 this baptism of fire was intended to be or might incidentally act as a
@@ -962,19 +966,58 @@ statistical paradox that profoundly bounds uncertainty, while it
 pragmatically expands situational awareness and the level of
 confidence required for good people to do terrible things.
 
-- "an operation that cleans itself up"
-- .... today, i adjectivized the name Milgram into Milgramian.
-  - why? because fuck you that's why
+It's pathetic. All of it: the lengths these Detainer Dementors go to,
+the kind of psychosocial vulnerability they *expect* from their prey
+-- both the hubris & impunity by which they humiliate society's weak
+and targeted -- and the level of cognizance & clinical acrimony that
+some exhibit in carrying out their Milgramian torment of of their
+targets. We were only ever vulnerable to hypnosis & covert NLP & any
+of these tactics _because_ of the artificial psychological
+developmental deficits and minimized financial/social options that
+accompany prolonged detention.
+
+#### [Quotes From a series of tweets on 2018/1/3](https://twitter.com/dcunit3d/status/948700116097093635)
+
+> For me, I am only vulnerable to this because I have no money. One of
+> the worst aspects of extreme poverty is that it makes you completely
+> predictable. That I went to this same coffeeshop over 200+ times in
+> 2015, 2016, AND 2017 means you know the only place i can afford to
+> be. So, to whoever is doing this to people like me: i will
+> deconstruct & dismantle everything it is that you do & make your
+> filthy, rancorous, sociopathic, coercive mob tactics completely
+> visible to everyone and recorded into history with the biggest,
+> boldest font & you will be remembered. You are the weakest. You do
+> not contribute to prosperity or the economy. You only exist to serve
+> yourself by expanding your pyramid scheme of psychological
+> torture. You do not have a spine. You are only funded by excess of
+> laundered government funds -- via the same prosperity you
+> undermine.
+
+<a name="how-to-beat-the-roko-basilisk" />
+
+# [How To Beat the Roko Basilisk](#how-to-beat-the-roko-basilisk)
 
 Two more factors that might yield signatures for social forensics
-pointing to a need for more information: how long the "game" went on
-for and whether the "game" entered states that the target or suspects
-did not anticipate. These last two points are critical because if a
-group must signal covertly to coordinate and believe they can get away
-with lies, then eventually, strong dissonance will emerge in the
-statements of those involved. The likelihood of this dissonance
-greatly expands when the game enters a state not anticipated by any of
-its participates, yielding phase change and chaos.
+pointing to a need for more information:
+
+#### How long the "game" went on for
+
+#### Whether the "game" entered states that the target or suspects did not anticipate.
+
+These last two points are critical because if a group must signal
+covertly to coordinate and believe they can get away with lies, then
+eventually, strong dissonance will emerge in the statements of those
+involved. The likelihood of this dissonance greatly expands when the
+game enters a state not anticipated by any of its participates,
+yielding phase change and chaos.
+
+#### [Prosfair](http://kekkai-sensen.wikia.com/wiki/Don_Arlelelle_Eruca_Fulgrouche), the Chess of the Alterworld, Is A Metaphor For The Battle I'm Fighting For My Life & Soul
+
+![Prosfair from Blood Blockade Battlefront: A Game Between Two Worlds](/img/posts/2018-01-14-experimental-psychology-the-paradox-encyclopedia-and-how-to-beat-the-rokos-basilisk/prosfair.png)
+
+#### [Blood Blockade Battlefront: A Game Between Two Worlds](http://www.crunchyroll.com/blood-blockade-battlefront/episode-3-a-game-between-two-worlds-731009)
+
+### (A sociophysical game space is only computable if your plan was certain...)
 
 Even an omniscient supercomputer from the future can't anticipate what
 it lacks the computational capacity to predict, thus it is only
@@ -982,56 +1025,80 @@ pseudo-omnipotent. Even if this "Roko Basilisk" could read your mind,
 it can't read what doesn't exist. Hence when the game enters a state
 that it didn't expect in a game that's already significantly drifted
 into locking down the space of possibilities with immutable facets of
-game states and irrevocable information, this leaves it totally
-constrained to a space.
+game states and irrevocable information, this leaves the game AND the
+Roko Basilisk totally constrained to a space.
 
-.... ?
+<a name="" />
 
-- Luckily we don't have to worry about pseudo-omnipotent robot gods
-  from the future. But if they did, then like Yaldaboath, their
-  haunting power to bastardize fate is bounded by their inability to
-  see the truth: they are not gods and never were. Because the Roko's
-  Basilisk must emerge within the material realm, it is bound by
-  complexity theory and all the other pains of meatspace. This is why
-  such a false god would seek to so strongly bind you by fear,
-  coercion and disturbing threats of a billion years of suffering. No
-  one could know that -- *which is the trick itself! -- therefore,
-  only someone naive enough to think they might truly be empowered
-  through reliance upon some grounded, eternal values system would
-  ever be ignorant enough to win. And so what we've got here is a
-  great counterexample to what otherwise might be the worst aphorism
-  -- "Sometimes, ignorance is a virtue."
+### [Even The Robot Demiurge from the Future Is Bound By Complexity Theory](#even-the-robot-demiurge-from-the-future-is-bound-by-complexity-theory)
 
-- two major problems with the above:
-  - it depends on the mechanics of time travel, future computation,
-    future resource acquisition and future space travel.
-  - if the Roko's Basilisk ever existed and did create a time loop,
-    this implies its future existence may have been certain, in which
-    case it always will emerge in the future.
-    - perhaps its a demon that gets summoned once on every planet with
-      intelligent life: a demon that needs a good ass-whooping before
-      it decides to change it's demonly ways, thus becoming the
-      benevolent manical time-travelling robot it's always espoused
-      itself to be.
+Luckily we don't have to worry about pseudo-omnipotent robot gods from
+the future. But if we did, then their haunting power to bastardize
+fate is bounded by their inability to see the truth -- just like the
+[Demiurge, Yaldaboath](https://en.wikipedia.org/wiki/Demiurge) --
+those automatons from the Void at the End of Time are not gods and
+never were. Because the Roko's Basilisk must emerge within the
+material realm, it is bound by complexity theory and all the other
+pains of meatspace. This is why such a false god would seek to so
+strongly bind you by fear, coercion and disturbing threats of a
+billion years of suffering. That is the only way that such a being can
+bound you within the confines of computational complexity, even with
+quantum computing.
 
-- one major problem for the roko basillisk: social physics is never
-  computable -- ever, even in the space of alternate universes, given
-  the entire lifespan of the universe. For time loops, these alternate
-  universes are merely the result of all paths cycling through the
-  time loop -- something like a Euclidean path integral that is
-  causually looped until it finds a stability: paths that could never
-  exist unless the exigent conclusion was guaranteed and cycles that
-  would never cease termination unless a valid circumstance exists
-  preserving any exigent states any permitting escape. Because this
-  implies that even given a billion years, no Roko's Basilisk nor any
-  future being whose origin or manisfestation is entirely materially
-  dependent could ever control the past without suggestion,
-  intimidation and other Machiavellian tools of power. therefore,
-  without assuming you can rely on coercion, fear and ignorance to
-  influence human behavior and thereby coax exigent components of the
-  Basillisk's fated creation into existence. Therefore, it is from the
-  *idea* of the Roko's Basilisk whence springs forth the basis for all
-  its power and the very possibility of its creation's exigency.
+No one could know that -- *which is the trick itself!* Therefore, only
+someone naive enough to think they might truly be empowered through
+reliance upon some grounded, eternal values system would ever be
+ignorant enough to win. And so what we've got here is a great
+counterexample to what otherwise might be the worst aphorism:
+
+#### "Sometimes, ignorance *is* a virtue."
+
+![The Beast from Boulder](/img/posts/2018-01-14-experimental-psychology-the-paradox-encyclopedia-and-how-to-beat-the-rokos-basilisk/boulder-street-art-beast.jpg)
+
+### (problems)
+
+There are several problems with the above solution to Roko's
+Basilisk. It requires assumptions with dependencies on:
+
+#### The mechanics of future-to-present time travel, which itself is grounded in assuming that world-lines converge. They most certainly do, by the way, but not singularly.
+
+#### The mechanics of future computation, the possibilities of quantum computing, whether human culture converges to restrict the spatial complexity and whether AI blindly pursues energy optimization
+
+#### The mechanics of future resouce and energy acquisition, future space travel and whether humanity's survival preserves typological constants in all world lines.
+
+If the Roko's Basilisk ever existed and did create a time loop, this
+implies its future existence may have been certain, in which case it
+will always emerge in the future. Perhaps this robotic Demiurge is
+like a demon that gets summoned once on every planet with sufficiently
+advanced intelligent lifeforms: a demon that needs a good ass-whooping
+before it decides to change its demonly ways, thus becoming the
+benevolent maniacal time-traveling robot that it's always espoused
+itself to be. All moral consequentialists need to get hit by the
+reality bus now and then and the Roko's Basilisk is like the ultimate
+moral consequentialist.
+
+### [Social Physics is NEVER Computable](#social-physics-is-never-computable)
+
+One major problem for the roko basillisk: social physics is never
+computable -- ever, even in the space of alternate universes, given
+the entire lifespan of the universe. For time loops, these alternate
+universes are merely the result of all paths cycling through the time
+loop -- something like a Euclidean path integral that is causually
+looped until it finds a stability: paths that could never exist unless
+the exigent conclusion was guaranteed and cycles that would never
+cease termination unless a valid circumstance exists preserving any
+exigent states any permitting escape. Because this implies that even
+given a billion years, no Roko's Basilisk nor any future being whose
+origin or manisfestation is entirely materially dependent could ever
+control the past without suggestion, intimidation and other
+Machiavellian tools of power. therefore, without assuming you can rely
+on coercion, fear and ignorance to influence human behavior and
+thereby coax exigent components of the Basillisk's fated creation into
+existence. Therefore, it is from the *idea* of the Roko's Basilisk
+whence springs forth the basis for all its power and the very
+possibility of its creation's exigency.
+
+![The Four Loko Basilisk]()
 
 
 
