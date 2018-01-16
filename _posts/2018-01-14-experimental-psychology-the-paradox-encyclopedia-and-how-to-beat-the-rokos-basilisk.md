@@ -27,7 +27,7 @@ excerpt: ""
 
 #### &#x2605; [SIGINT/MASINT/HUMINT Surveillance For Inception, Gaslighting and Risk Mitigation](#sigint-masint-humint-surveillance-for-inception-gaslighting-and-risk-mitigation)
 
-#### &#x2605; [Provoking Recall of Repressed Memories -- MKULTRA A La Cart](#provoking-recall-of-repressed-memories-mkultra-a-la-cart)
+#### &#x2605; [Provoking Recall of Repressed Memories -- MKULTRA À La Cart](#provoking-recall-of-repressed-memories-mkultra-a-la-cart)
 
 #### &#x2605; [Systemic Disregulation of Memory Formation Mechanisms](#systemic-disregulation-of-memory-formation-mechanisms)
 
@@ -35,7 +35,7 @@ excerpt: ""
 
 #### &#x2605; [Optogenetics, Directed Energy and SPION Nanoparticles](#optogenetics-directed-energy-and-spion-nanoparticles)
 
-#### &#x2605; ...
+#### &#x2605; [COINTELPRO-style disruption with Covert Hypnosis and Covert NLP](#contelpro-style-disruption-augmented-with-covert-hypnosis-and-covert-nlp)
 
 #### &#x2605; [Neuropharmacological Suppression of Specific Neurological Modalities](#neuropharmalogical-suppression-of-specific-neurological-modalities)
 
@@ -265,11 +265,6 @@ difficult to rectify. Because memory IS identity, then -- assuming
 these memories are emotionally relevant or associated with severe
 trauma -- the brain must reconcile this, otherwise the mind's notion
 of identity is forever cursed.
-
-<a name="factors-correlated-to-the-severity-of-a-cascading-schematic-crisis" />
-
-### [Factors Influencing the Severity of a Cascading Schematic Crisis](#factors-correlated-to-the-severity-of-a-cascading-schematic-crisis)
-
 If this theoretical understanding of repressed memory recall is true,
 the Such a schematic crisis can _trivially_ result in a connectopathy
 like schizophrenia. If the people around you are supportive, this is
@@ -283,6 +278,10 @@ means you must depend on people you cannot trust while in a more
 "programmable" state. This is what enables MKULTRA victims to become
 malleable, programmable dolls without a karmic, causal connection to
 those powerfully networked people who use them.
+
+<a name="factors-correlated-to-the-severity-of-a-cascading-schematic-crisis" />
+
+### [Factors Influencing the Severity of a Cascading Schematic Crisis](#factors-correlated-to-the-severity-of-a-cascading-schematic-crisis)
 
 The following factors not only determine the severity of the schematic
 crisis, they correlate to the severity of resulting connectopathy,
@@ -441,7 +440,7 @@ public is intended to see.
 
 <a name="provoking-recall-of-repressed-memories-mkultra-a-la-cart" />
 
-### [Provoking Recall of Repressed Memories -- MKULTRA A La Cart](#provoking-recall-of-repressed-memories-mkultra-a-la-cart)
+### [Provoking Recall of Repressed Memories -- MKULTRA À La Cart](#provoking-recall-of-repressed-memories-mkultra-a-la-cart)
 
 The above picture is a printout of a Carl Jung quote about
 experimental psychology. It was given to me by one of the two most
@@ -573,15 +572,91 @@ false memories wasn't necessary at all for any operational objectives.
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/csUf0MAUIs4" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
 
+<a name="neuropharmalogical-suppression-of-specific-neurological-modalities" />
+
+### [Neuropharmacological Suppression of Specific Neurological Modalities](#neuropharmalogical-suppression-of-specific-neurological-modalities)
+
+Psychiatrists and neurologists with knowledge of how neuropsychiatry
+relates to the neurological modalities related to memory formation in
+the mind can *potentially* understand how those specific modalities
+someone's mind can be pharmacologically suppressed. For example, this
+Of specific importance here are the facets of memory formation related
+to audiovisual multiplexing and demultiplexing. If you can
+pharmacologically suppress those neurolinguistic modalities, then you
+may prevent the formation of certain facets of a memory -- the visual
+or audio elements of an experience would be less likely to be laid
+down. Later, only the audio or semantic information is accessible, but
+the mind or brain fills in the gaps.
+
+This particular mechanism seems like a viable candidate for 1960's
+style MKULTRA programs. In the 21st century, it can be augmented with
+VR/AR techniques. If the target is **abducted** by *aliens*, then they
+can receive treatment sessions where key neurological modalities are
+suppressed via the neuropharmacological mechanism above. There are
+several avenues that the generatiion of voice & video can augment this
+hypothetical VR MKULTRA mechanism, in real time. If the target can be
+guaranteed to retain no accessible memory of the series of events
+without the MKULTRA **keys**, then **hypothetically** this would
+work. It obviously presents logistic problems: if you even get caught
+abducting someone **once**, it's obviously a warcrime, so such a
+method would not be viable in the long-term.
+
 <a name="tms-cranscranial-magnetic-stimulation" />
 
 ### [TMS: Transcranial Magnetic Stimulation](#tms-cranscranial-magnetic-stimulation)
 
-(focused Transcranial Magnetic Stimulation). One could "encourage"
-the mapping of memories by applying TMS to targeted areas of the brain
-while the person is experiencing some video/audio. Such a technique
-would be hampered by the impossibility of running TMS simultaneously
-with fMRI (AFAIK)
+More effective for the amplification or muting of the specific
+neurolinguistic modalities is TMS. However, even this pales in
+comparison to the level of accuracy one may gain by using 21st century
+imaging techniques with other novel methodologies: directed energy,
+SPION nanoparticles and transcranial doppler (TCD/TCCD). The idea is
+the same as above, but these methods allow you to restrict the
+method's targeting to highly specific brain regions and neural
+circuits.
+
+By applying TMS to targeted areas of the brain, ne could encourage the
+mapping of memories while the person is experiencing some video/audio
+-- or even a dream-state. **That's right: you can influence someone's
+dreams with TMS/TCD/TCCD/SPION's and directed energy**. Such
+application is theoretical and relies on the accumulation of many
+sessions' worth of fMRI data to map out the target's brain. This
+requirement limits the application of such a technique because,
+logistically, it is impossible to guarantee operational security
+unless you only have to ever touch the target's brain ONCE.
+
+Such techniques with TMS would be hampered by the impossibility of
+running TMS simultaneously with fMRI, AFAIK. So, you can't
+simultaneously run TMS and fMRI/SPECT imaging. However, TMS has
+short-term and medium-term effects. In an over-generalization, amplify
+brain activity in one micro-region in the brain it stays active for
+longer in others. Ramp up activity and increase the parity/resolution
+of insights gained with analysis of fMRI/SPECT data.
+
+> ** KEEP IN MIND**: YOU HARDLY NEED FDA-APPROVAL IF YOU'RE COMMITTING
+> WARCRIMES.
+
+<a name="contelpro-style-disruption-augmented-with-covert-hypnosis-and-covert-nlp" />
+
+### [COINTELPRO-style disruption with Covert Hypnosis and Covert NLP](#contelpro-style-disruption-augmented-with-covert-hypnosis-and-covert-nlp)
+
+This is the key to the basis of covert hypnotic techiques for
+disruption: signal via sensory input to leverage NLP **modalities** to
+activate regions of the brain. In addition to introducing
+high-amplitude disruptive noise -- e.g. loud, random tongue clicks and
+peripheral vision hacks) -- the perpetrators can signal with signs and
+key phrases that they know to be effective on the target. How would
+they know that? BY LEVERAGING NSA SURVEILLANCE TO TORMENT THE TARGET.
+
+> This shit is so sick it makes me want to move to Afganistan -- just
+> kidding, I'd only move to Canada or Japan.  However, that's what's
+> amazing for those perpetrators: this takes their existing enemies --
+> who may be the inconvenient witnesses to or victims of warcrimes --
+> and creates the next generation of terrorists. That is BY DESIGN.
+
+If you want to know more about how covert hynosis and NLP
+sensory-hacks introduce turbulent noise to destroy short-term and
+medium-term psychological state, the read up on [metasyntactic
+variables and other concepts in this post](/posts/2017-10-20-scientologys-three-step-process-for-great-pyramid-schemery.html)
 
 <a name="optogenetics-directed-energy-and-spion-nanoparticles" />
 
@@ -621,33 +696,6 @@ with fMRI (AFAIK)
 - bone-conduction microphones/speakers and transcranial doppler
   - used in REM dream-state, this could be highly effective for
     inception of false memories
-
-<a name="neuropharmalogical-suppression-of-specific-neurological-modalities" />
-
-### [Neuropharmacological Suppression of Specific Neurological Modalities](#neuropharmalogical-suppression-of-specific-neurological-modalities)
-
-Psychiatrists and neurologists with knowledge of how neuropsychiatry
-relates to the neurological modalities related to memory formation in
-the mind -- and specifically, audiovisual multiplexing and
-demultiplexing -- can *potentially* understand how those specifically
-modalities someone's mind can be pharmacologically suppressed. For
-example, this could prevent the formation of certain facets of a
-memory -- the visual or audio elements of an experience would be less
-likely to be laid down. Later, only the audio or semantic information
-is accessible, but the mind or brain fills in the gaps.
-
-This particular mechanism seems like a viable candidate for 1960's
-style MKULTRA programs, but it can be augmented with VR/AR
-techniques. If the target is **abducted** by *aliens*, then they can
-receive treatment sessions where key neurological modalities are
-suppressed via the neuropharmacological mechanism above. There are
-several avenues that the generatiion of voice & video can augment this
-hypothetical VR MKULTRA mechanism, in real time. If the target can be
-guaranteed to retain no accessible memory of the series of events
-without the MKULTRA **keys**, then **hypothetically** this would
-work. It obviously presents logistic problems: if you even get caught
-abducting someone **once**, it's obviously a warcrime, so such a
-method would not be viable in the long-term.
 
 <a name="neurologically-oriented-schematic-crisis-in-patients-with-recovered-memory" />
 
