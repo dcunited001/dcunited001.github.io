@@ -8,8 +8,8 @@ author:
 excerpt: ""
 ---
 
-- “Kill in thyself all memory of past experiences. Look not behind or
-  thou art lost.” - Blavatsky
+> "Kill in thyself all memory of past experiences. Look not behind or
+> thou art lost." - H.P. Blavatsky
 
 ## [In Which Psychological Warfare Becomes Neurological](#in-which-psychological-warfare-becomes-neurological)
 
@@ -51,7 +51,7 @@ excerpt: ""
 
 #### &#x2605; [Congratulations: Your Identity is an STD Crossed With Cancer](#congratulations-your-identity-is-an-std-crossed-with-cancer)
 
-#### &#x2605; ...
+#### &#x2605; [Metempsychosis: A Dark Catalyst for Intellectual Development](#metempsychosis-a-dark-catalyst-for-intellectual-development)
 
 #### &#x2605; [Methodical, Typological Expansion of Variety of Experience](#methodical-typological-expansion-of-variety-of-experience)
 
@@ -61,7 +61,11 @@ excerpt: ""
 
 ## [Identifying Applications of Theoretical Neurology](#identifying-applications-of-theoretical-neurology)
 
+### Uh Oh! Look Who Escaped the [Prison of Zod](https://en.wikipedia.org/wiki/Phantom_Zone), CUCKS!
 
+<iframe width="560" height="315" src="https://www.youtube.com/embed/bzrHIP1FA3E" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
+
+> That's right, we're going to want [*that* painting back](https://www.youtube.com/watch?v=FD1Uk7JfKFQ), bitch.
 
 #### NEVER FORGET HOW UNLIKELY IT IS *AND HOW NECESSARY IT IS* FOR A GOLIATH TO BE SLAIN BY A DAVID
 
@@ -662,16 +666,19 @@ variables and other concepts in this post](/posts/2017-10-20-scientologys-three-
 
 ### [Optogenetics, Directed Energy and SPION Nanoparticles](#optogenetics-directed-energy-and-spion-nanoparticles)
 
-There is this fascinating phenomenon of [superparamagnetism](), along
-with ferrous nanoparticles whose thermomagnetic properties can be
-tuned by particle size and shape. Basically, in response to EMR,
-ferrous nanoparticles -- basically dead-simple chunks of specific iron
-molecules ranging from 20nm through +300nm -- will respond to directed
-energy blasts (EMR, magnetic pulse, etc) by becoming thermally
-active. Similarly, thermal activation of these particles changes their
-receptive characteristics -- i.e. inducing heat into a solution with
-SPIONS changes how they are aligned relative to each other, which is
-the KEY to their THERMOMAGNTIC properties.
+There is this fascinating phenomenon of
+[superparamagnetism](https://en.wikipedia.org/wiki/Superparamagnetism),
+along with ferrous nanoparticles called
+[SPION's](https://www.sepmag.eu/blog/superparamagnetic-iron-oxide-nanoparticles-spion-enhanced-mri-imaging) [^spion-em-characteristics]
+whose thermomagnetic properties can be tuned by particle size and
+shape. Basically, in response to EMR, ferrous nanoparticles --
+basically dead-simple chunks of specific iron molecules ranging from
+20nm through +300nm -- will respond to directed energy blasts (EMR,
+magnetic pulse, etc) by becoming thermally active. Similarly, thermal
+activation of these particles changes their receptive characteristics
+-- i.e. inducing heat into a solution with SPIONS changes how they are
+aligned relative to each other, which is the KEY to their
+THERMOMAGNTIC properties.
 
 There is almost certainly a "hacky" method for mind control here. If
 you figure it out, you can leverage the neural-distribution
@@ -739,63 +746,68 @@ And they're "already dead" anyways, right?
 
 ![Qanon Surveillance of Trump](/img/posts/2018-01-14-experimental-psychology-the-paradox-encyclopedia-and-how-to-beat-the-rokos-basilisk/qanon-surveillance.png)
 
+### TCD/TCCD: Transcranial Doppler
 
-- augmentation with the signature of an isotope
-  -
+In conjunction with the thermomagnetic properties of SPION's,
+optogenetics and other technologies, TCD/TCCD provides the perfect
+**theoretical** one-channel in, one-channel out interaction mechanisms
+for almost paranormal capabilities. That is, the channels remain
+separate: either SPION's signal in and TCD/TCCD signals out or
+vice-versa. Coupled with 007-Bond-style bone-conduction microphones
+and speakers, this means you can signal for two-way audio
+communication. If the person is talking to themselves or to others,
+you can hear everything they say.
 
-- other uses of SPION's and Directed Energy
-  - use of directed energy and hyperspectral image reconstruction
-    techniques to maintain complete remote surveillance of a subject
-    with a total lack of HUMINT
-  - this is fantastic for gaslighting. you can maintain total
-    surveillance with reconstructed 3D images, all with minimal HUMINT
-    engagement of the target.
+Further, it provides a hacky neurological basis for almost paranormal
+capabilities -- you can signal voices to the person, which is perfect
+if you want them to appear crazy as hell after using them for their
+HUMINT value.
 
-- journals to cite for understanding the thermal activation for
-  SPION's with directed energy
-  - it is certainly possible
+**Theoretically:** the right combination of technologies like this
+DOES ENABLE ONE-TOUCH NEURAL/MEDICAL OPERATIONS that
+effectively/appropriately minimize the surface area for legal
+liability to warcrimes. That is, you can **abduct** the person
+**one-time** and after that, you need almost zero physical interaction
+with the target. That is the only acceptable means of doing any of
+this.
 
-### Transcranial Doppler
-
-- activation via SPION nano-particles
-- bone-conduction microphones/speakers and transcranial doppler
-  - used in REM dream-state, this could be highly effective for
-    inception of false memories
+Further, bone-conduction microphones/speakers and transcranial doppler
+used in REM dream-state could be highly effective for HAARP-style
+inception of false memories.
 
 <a name="neurologically-oriented-schematic-crisis-in-patients-with-recovered-memory" />
 
 ### [Neurologically-Oriented Schematic Crisis in Patients with Recovered Memory](#neurologically-oriented-schematic-crisis-in-patients-with-recovered-memory)
 
-- todo: rewrite to reference the above description
-- This last mechanism isn't related to the formation of
-  false/implanted memories but describes what happens to the brain or
-  mind of patients who recover false and/or repressed memories
-  - it results in a schematic crisis, the severity of which is coupled
-    to the magnitude of personal re-evaluation that accompanies
-    traumatic memory recovery. this can also occur even if the
-    recovered memories in question are not necessarily negative and
-    traumatic, but positive and (equally disruptive to one's personal
-    understanding of their own identity)
-  - this schematic crisis, in itself, could hypothetically result in
-    (the mechanism described above) disregulation of aggregate memory
-    formation
-    - if this is the case, what results is the runaway development of
-      a connectopathy. the abberantly structured entanglement will
-      then disrupt the flow of brain waves on a microscopic scale, as
-      well as ion distribution in specific areas of the brain.
-    - this neurological and connectopathic progression will be
-      morphologically comorbid with a nervous breakdown, further
-      isolating the individual and contributing to the degradation of
-      their mental health.
-      - and that's assuming everything is simply incidental and not
-        the megalomaniacal orchestration of an intelligence agency.
-      - if someone is serving to exacerbate the developmental aspects
-        of someone's mental health crisis or provoke the disruption of
-        their emotional state for a COINTELPRO-style agenda, the
-        scenario is almost guaranteed to result in character
-        assassination, social isolation and a permanently fucked up
-        life where no one understands the true causes of their
-        suffering.
+This last mechanism isn't related to the formation of false/implanted
+memories but describes what happens to the brain or mind of patients
+who recover false and/or repressed memories. Again, it may result in a
+schematic crisis, the severity of which is coupled to the magnitude of
+personal re-evaluation that accompanies traumatic memory
+recovery. This can also occur even if the recovered memories in
+question are not necessarily negative and traumatic -- positive
+memories that are equally disruptive to one's personal understanding
+of their own identity.
+
+The theoretical CSC-induced memory & identity crisis, in itself, could
+hypothetically result in the "disregulation" method, described above.
+If this is the case, what results is the runaway development of a
+connectopathy. The abberantly structured entanglement will then
+disrupt the flow of brain waves on a microscopic scale, as well as ion
+distribution in specific areas of the brain. This neurological and
+connectopathic progression will be morphologically comorbid with a
+nervous breakdown, further isolating the individual and contributing
+to the degradation of their mental health.
+
+And that's assuming everything is simply incidental and not the
+megalomaniacal orchestration of an intelligence agency, in which case
+almost every vector possible will be exploited to exacerbate the
+psychological vulnerability of the target. If someone is serving to
+exacerbate the developmental aspects of someone's mental health crisis
+or provoke the disruption of their emotional state for a
+COINTELPRO-style agenda, the scenario is almost guaranteed to result
+in character assassination, social isolation and a permanently fucked
+up life where no one understands the true causes of their suffering.
 
 <a name="surviving-metempsychosis-via-deep-insight-into-paradoxes" />
 
@@ -807,8 +819,6 @@ familiar with Wikipedia's [list of
 paradoxes](https://en.wikipedia.org/wiki/List_of_paradoxes). Developing
 this awareness of paradoxes is useful for provoking intellectual
 development, whether late in life or in early childhood.
-
-- TODO: describe some of the paradoxes at a high level
 
 <a name="why-should-human-beings-suffer" />
 
@@ -886,7 +896,9 @@ TV](https://rationalwiki.org/wiki/Red_room) -- just kidding.
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/eqO4453PB8g" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
 
-###
+<a name="metempsychosis-a-dark-catalyst-for-intellectual-development" />
+
+### [Metempsychosis: A Dark Catalyst for Intellectual Development](#metempsychosis-a-dark-catalyst-for-intellectual-development)
 
 Someone undergoing metempsychosis will feel like they are going crazy
 -- your perception of reality disintegrates and nothing makes
@@ -1000,6 +1012,11 @@ the verses below, but there is no such thing as an anonymous martyr.
 <a name="identifying-applications-of-theoretical-neurology" />
 
 # [Identifying Applications of Theoretical Neurology](#identifying-applications-of-theoretical-neurology)
+
+Most of the technologies and methodologies described herein shouldn't
+exist -- either because it's just fucking depression OR we shouldn't
+event have the technology, which implies that the rate of
+technoeconomic development in the 20th century was a lie.
 
 - these are all technologies which shouldn't exist
   - mention the potential for DARPA or foreign government-funded
@@ -1301,11 +1318,6 @@ possibility of its creation's exigency.
 
 
 
-- TODO: picture of the book
-
-
-
-
 # How to Survive a Conspiracy With No Money Down
 
 > What happens when you cross Glyndwr Michael with the [Black Hand](),
@@ -1326,12 +1338,12 @@ up. Did you get what you wanted? Did you get what they told you to
 both want and fear? Were you ever in control? DID THEY PICK THE RIGHT
 PERSON?
 
-
 #### Celebrity "Cloning" Centers
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/on3Lvn_eACs" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
 
+Riddle me this: how do you copy someone "without actually copying
+their body" ? you copy information about them into memories implanted
+via dreams and HAARP, then you hold them hostage with nudez.
 
-- riddle, how do you copy someone "without actually copying their
-  body" ? you copy information about them, then hold them hostage with
-  nudez.
+[^spion-em-characteristics]: [Magnetization and Specific Absorption Rate Studies o Ball-Milled Iron Oxide Nanoparticles fo Biomedicine](http://dx.doi.org/10.1155/2013/181820), P. Burnham, N. Dollahon, C. H. Li, A. J. Viescas, and G. C. Papaefthymiou, Journal of Nanoparticles, vol. 2013, Article ID 181820, [doi:10.1155/2013/181820](http://dx.doi.org/10.1155/2013/181820)
