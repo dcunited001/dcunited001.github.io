@@ -21,18 +21,6 @@ excerpt: ""
 
 #### [Hypothesis: Cascading Schematic Crisis After Recall of Repressed Memories](#hypothesis-cascading-schematic-crisis-after-recall-of-repressed-memories)
 
-## [Factors Influencing the Severity of a Cascading Schematic Crisis](#factors-correlated-to-the-severity-of-a-cascading-schematic-crisis)
-
-### &#9312; [The Length of Time Between the Original Events and the Date Upon Which Those Memories Became Accessible](#the-length-of-time)
-
-### &#9313; [The level of emotional or intellectual relevence in reevaluating your other primary and aggregate memories](#the-level-of-emotional-or-intellectual-relevance)
-
-
-### &#9314; [The well-connectedness of false aggregate memories built atop primary memories](#well-connectedness-of-false-aggregate-memories)
-
-### &#9315; [The difficulty that your brain faces to constructing a coherent narrative](#difficulty-in-constructing-a-coherent-narrative)
-
-
 
 ## [Theoretical Mechanisms For Implanted Memories](#theoretical-mechanisms-for-implanted-memories)
 
@@ -286,18 +274,14 @@ memories, true and fictitious. That's yet another reason why bitemark
 analysis is so important these days -- don't let them "bodycam" us by
 pigeonholing our perspectives on critical legal issues.
 
-<a name="the-length-of-time" />
-
-### &#9312; [The Length of Time Between the Original Events and the Date Upon Which Those Memories Became Accessible](#the-length-of-time)
+#### (1) The length of time between the original events and the date upon which those memories became accessible
 
 When this length of time is increased, then the mind is much more
 likely to have either a plethora of aggregate memories to create in
 response to unveiled trauma or proportionally more aggregate memories
 to disentangle and reconnect.
 
-<a name="the-level-of-emotional-or-intellectual-relevance" />
-
-### &#9313; [The level of emotional or intellectual relevence in reevaluating your other primary and aggregate memories](#the-level-of-emotional-or-intellectual-relevance)
+#### (2) The level of emotional or intellectual relevence in reevaluating your other primary and aggregate memories
 
 What does your psyche have to gain by emotionally or rationally
 re-evaluating what it knows. When reconstructing a new understanding
@@ -316,9 +300,7 @@ Situations with greater emotional contrast with more tightly connected
 friends or family members will typically result in a greater affect on
 the victim's mind and brain.
 
-<a name="well-connectedness-of-false-aggregate-memories" />
-
-### &#9314; [The well-connectedness of false aggregate memories built atop primary memories](#well-connectedness-of-false-aggregate-memories)
+#### (3) The well-connectedness of false aggregate memories built atop primary memories
 
 This includes both false primary memories as well as the the absence
 of primary memories. The more connected these aggregate memories are
@@ -345,9 +327,7 @@ operate them. Into those vessels are implanted very specific sets of
 knowledge. Not every person like this is intended to be used in a
 horrible manner.
 
-<a name="difficulty-in-constructing-a-coherent-narrative" />
-
-### &#9315; [The difficulty that your brain faces to constructing a coherent narrative](#difficulty-in-constructing-a-coherent-narrative)
+#### (4) The difficulty that your brain faces to constructing a coherent narrative
 
 Facing a lack of information about the events makes this narrative
 reconstruction much more difficult, resulting in a greater propensity
