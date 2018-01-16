@@ -662,21 +662,86 @@ variables and other concepts in this post](/posts/2017-10-20-scientologys-three-
 
 ### [Optogenetics, Directed Energy and SPION Nanoparticles](#optogenetics-directed-energy-and-spion-nanoparticles)
 
-- there is almost certainly a "hacky" method for mind control here
+There is this fascinating phenomenon of [superparamagnetism](), along
+with ferrous nanoparticles whose thermomagnetic properties can be
+tuned by particle size and shape. Basically, in response to EMR,
+ferrous nanoparticles -- basically dead-simple chunks of specific iron
+molecules ranging from 20nm through +300nm -- will respond to directed
+energy blasts (EMR, magnetic pulse, etc) by becoming thermally
+active. Similarly, thermal activation of these particles changes their
+receptive characteristics -- i.e. inducing heat into a solution with
+SPIONS changes how they are aligned relative to each other, which is
+the KEY to their THERMOMAGNTIC properties.
 
-- describe how to use directed energy to increase thermal energy in
-  localized regions of the brain.
-  - describe how this such method should be prone to failure
+There is almost certainly a "hacky" method for mind control here. If
+you figure it out, you can leverage the neural-distribution
+characteristics of a fairly non-toxic solutions of SPION's of various
+sizes to enable mind control. So, by varying the frequency of blasts
+of EMR, you can ramp up and scale down the activity in small regions
+of the mind. Furthermore, someone who's been dosed by SPION's is
+vulnerable to specific reconstructive techniques for
+HUMINT. Characteristics of the distribution of SPION's in their body,
+if partially known, can theoretically augment non-interactive "HUMINT"
+techniques where the video of someone is reconstructed in real-time
+because of the change in EMR refraction. When someone with SPION's is
+hit with directed energy blasts, if the refraction of those blasts can
+be detected with nearby sensors and hyperspectral analysis, then --
+theoretically -- a 3D video a la Face-to-Face technology can be
+reconstructed.
 
-- optogenetics (which almost certainly requires CRISPR at some point)
-  - Any methodology with optogenetics benefits from the application of
-    SPION particles and vice-versa. can interoperate with SPION
-    particles
+Targeting an individual while they are sleeping, offers the best means
+of "locking on" to the refracted energy-signatures emitted from their
+skull. **I feel sorry for you, because you're going to need a _tin-foil
+nightcap_, son.**
+
+#### Remember: NO ONE WOULD EVER HAVE A GODDAMN CONVERSATION WITH ME ABOUT ANY OF THIS
+
+There is unconstrained potential creativity here to the application of
+this technology. You could take someone's interpreted body motions,
+then render their video/audio to another body -- say, render their
+body motions using Harambe's body, while changing their voice to be
+unrecognizable. Furthermore, it is very difficult to anticipate or
+guard against.
+
+And this is all without the use of
+[optogenetics](https://en.wikipedia.org/wiki/Optogenetics), which
+almost certainly requires CRISPR-augmented methods to stimulate the
+production of photoreceptors near the EARS, which are signalable by
+photons of IR and UV wavelenths. These aren't classic photoreceptors:
+they react to completely non-natural wavelengths of photonic
+energy. By leveragine optogenetics, one can use directed energy to
+disrupted the state of neural networks near the ears, which happen to
+include language-processing networks.
+
+> Amoung the *potential* side effects of long-term optogenetic
+> stimulation of audio/lanage networks?  Encouraging the target to
+> talk to themselves. Why does this happen? In order to continue
+> utilizing their brain in spite of continual neural noise injection,
+> the target must actually operate their brain in a fundamentally
+> different way. They must talk to themselves in order to think, which
+> happens to be a fantastic side-effect for augmenting the kind of
+> anti-HUMINT surveillance required for the logistic minimization of
+> risk in these operations.
+
+Furthermore, in context with hyperspectral analysis, specific isotopes
+can help you map the target's location, movements, etc. These isotopic
+tracking methods have been featured in TV & movies -- like
+Blindspot. Doses may even be able to be given to the target orally.
+
+However, all of these methods I've described are highly theoretic and
+almost certainly prone to high-rates of failure. Combined, however,
+general cross-correlation and cross-entropy, combined with limitless
+computing capacity means these methods provide the perfect
+augmentations to intelligence extraction from targeted individuals.
+And they're "already dead" anyways, right?
+
+#### Gee, I wonder what #Qanon Is Talking About. Oh -- I already knew that.
+
+![Qanon Surveillance of Trump](/img/posts/2018-01-14-experimental-psychology-the-paradox-encyclopedia-and-how-to-beat-the-rokos-basilisk/qanon-surveillance.png)
+
 
 - augmentation with the signature of an isotope
-  - targeting an individual while they are sleeping, offers the best
-    means of "locking on" to the energy-signature emitted from their
-    skull
+  -
 
 - other uses of SPION's and Directed Energy
   - use of directed energy and hyperspectral image reconstruction
