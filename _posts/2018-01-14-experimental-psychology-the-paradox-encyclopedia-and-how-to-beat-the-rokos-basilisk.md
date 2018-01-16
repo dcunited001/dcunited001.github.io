@@ -2,10 +2,16 @@
 title: "Experimental Psychology, the Paradox Encyclopedia and How to Beat the Roko's Basilisk"
 categories: "blog"
 tags: "psychology neuro"
-headline: ""
+headline: "I'll know if you've read it"
 author:
   name: "David Conner"
-excerpt: ""
+excerpt: "
+In the past five years, mainstream media has been weaving in
+experimental methods from bleeding edge psychology and neurology. For
+at least the past century, memory implantation and other mental
+manipulation is a classic science fiction plot mechanic. We see it in
+Eternal Sunshine of the Spotless Mind, where memories can be erased,
+something I would never want to do."
 ---
 
 > "Kill in thyself all memory of past experiences. Look not behind or
@@ -61,11 +67,40 @@ excerpt: ""
 
 ## [Identifying Applications of Theoretical Neurology](#identifying-applications-of-theoretical-neurology)
 
+#### &#9312; [There is some sole source event to which almost all incepted memories are linked.](#sole-source-event)
+
+#### &#9313; [That event involved possible use of drugs to stifle the creation of some aspects of those memories.](#source-event-involved-drugs)
+
+#### &#9314; [You can assume it is much, much harder to insert *coherent* memories than it is to insert fragments of memories.](#incoherent-narrative-of-memories)
+
+#### &#9315; [The absence of "aggregate" memories from before the time the repressed memory was retrieved.](#absence-of-aggregate-memories)
+
+#### &#9316; [Social Forensics Demonstrates Logistic Coordiation and Risk Mitigation For the Activity of Those Involved.](#social-forensics-demostrates-coordination)
+
+## [How To Beat the Roko Basilisk](#how-to-beat-the-roko-basilisk)
+
+#### &#x2605; [Fear: The Most Effective Means of Constraining Sociophysical Game-space](#fear-the-most-effective-means-of-constraining-sociophysical-game-space)
+
+#### &#x2605; [Even The Robot Demiurge from the Future Is Bound By Complexity Theory](#even-the-robot-demiurge-from-the-future-is-bound-by-complexity-theory)
+
+#### &#x2605; [Even The Robot Demiurge from the Future Is Bound By Complexity Theory](#even-the-robot-demiurge-from-the-future-is-bound-by-complexity-theory)
+
+#### &#x2605; [Problems This Roko Solution Must Overcome](#problems-this-roko-solution-must-overcome)
+
+#### &#x2605; [Social Physics is NEVER Computable](#social-physics-is-never-computable)
+
+## [How to Survive a Conspiracy With No Money Down](#how-to-survive-a-conspiracy-with-no-money-down)
+
 ### Uh Oh! Look Who Escaped the [Prison of Zod](https://en.wikipedia.org/wiki/Phantom_Zone), CUCKS!
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/bzrHIP1FA3E" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
+<iframe width="560" height="315"
+src="https://www.youtube.com/embed/bzrHIP1FA3E" frameborder="0"
+allow="autoplay; encrypted-media" allowfullscreen></iframe>
 
-> That's right, we're going to want [*that* painting back](https://www.youtube.com/watch?v=FD1Uk7JfKFQ), bitch.
+> That's right, we're going to want [*that* painting
+> back](https://www.youtube.com/watch?v=FD1Uk7JfKFQ), bitch. It's a
+> good thing I know whose fault this is -- white, liberal America --
+> and no one else.
 
 #### NEVER FORGET HOW UNLIKELY IT IS *AND HOW NECESSARY IT IS* FOR A GOLIATH TO BE SLAIN BY A DAVID
 
@@ -485,8 +520,8 @@ unconscious.
 
 ![Canadian Curling Champs!](/img/posts/2018-01-14-experimental-psychology-the-paradox-encyclopedia-and-how-to-beat-the-rokos-basilisk/curling.jpg)
 
-> After enduring about three years of this -- because of the
-> incoherent, insequent, inogent nature of new memories -- it became
+> After enduring about three years of this -- **because of the
+> incoherent, insequent, incogent nature of new memories** -- it became
 > clear that the abject lack of parity and tight coupling to
 > objectives of sociophysical equilibria indicated that something was
 > very wrong. I was correct to never trust any of this. Again, that
@@ -1016,30 +1051,26 @@ the verses below, but there is no such thing as an anonymous martyr.
 Most of the technologies and methodologies described herein shouldn't
 exist -- either because it's just fucking depression OR we shouldn't
 event have the technology, which implies that the rate of
-technoeconomic development in the 20th century was a lie.
+technoeconomic development in the 20th century was a lie. This brings
+us to the **[differential
+singularity](/posts/2016-07-01-im-not-religious-im-spiritual-3-a-lighthouse-in-a-storm.html)**
+-- which DARPA or foreign government-funded research agencies could
+have conceivably reached already.
 
-- these are all technologies which shouldn't exist
-  - mention the potential for DARPA or foreign government-funded
-    research agencies to have achieved the **differential
-    singularity** (link the post where this is first defined)
-  - because of power dynamics, the need for secrecy and safety
-    concerns surrounding potential WMD technology, the differential
-    singularity is almost certainly how the singularity unfolds on
-    nearly every planet with intelligent life.
-    - this variant of the singularity makes available technology so
-      powerful to the hands of an elite few that it seems alien in its
-      capability and covert nature.
+Because of power dynamics, the need for secrecy and safety concerns
+surrounding potential neo-WMD technologies, the differential
+singularity is almost certainly how the singularity unfolds on nearly
+every planet with intelligent life. This variant of the singularity
+makes available technology so powerful to the hands of an elite few
+that it seems alien or paranormal in its capability and covert nature.
 
 Regardless of the above, there are several factors that are useful
 towards the identification of potential applications of theoretical
 neurology. These are factors that should be common to all cases.
 
-
-- related to the (?)
-
 <a name="sole-source-event" />
 
-### &#9316; [There is some sole source event to which almost all incepted memories are linked.](#sole-source-event)
+### &#9312; [There is some sole source event to which almost all incepted memories are linked.](#sole-source-event)
 
 If this is the case, then it's likely some neurological anomoly, like
 a brain tumor. If so, with fMRI and the right process to stimulate
@@ -1053,7 +1084,7 @@ of neurological imagery.
 
 <a name="source-event-involved-drugs" />
 
-### &#9316; [That event involved possible use of drugs to stifle the creation of some aspects of those memories.](#source-event-involved-drugs)
+### &#9313; [That event involved possible use of drugs to stifle the creation of some aspects of those memories.](#source-event-involved-drugs)
 
 For example, propranolol or Zeta Interacting Protein (a la blindspot)
 might suppress the neurological accessibility for some memories. But,
@@ -1065,39 +1096,38 @@ daterape.
 
 <a name="incoherent-narrative-of-memories" />
 
-### &#9316; [You can assume it is much, much harder to insert *coherent* memories than it is to insert fragments of memories.](#incoherent-narrative-of-memories)
+### &#9314; [You can assume it is much, much harder to insert *coherent* memories than it is to insert fragments of memories.](#incoherent-narrative-of-memories)
 
 There may be semanitic memory for which there is no audio/video
 memory, like knowledge of specific phrases and information. To correct
 for this, one could rely on suggestion and harness the effect of
 self-creation of false memories, which is well-exemplified for
-witnesses to a crime.
+witnesses to a crime. This would involve **inception** by "unpacking"
+or uncompressing fragments of memories, using the same phenomena
+responsible for rendering witness testimony so malleable. This
+utilizes the brain's desire to make coherent unknown information, when
+possible.
 
-- inception by "unpacking" or uncompressing fragments of memories
-  - this utilizes the brain's desire to make coherent unknown
-    information, when possible.
-  - so, there is some fragment of a memory -- perhaps audio or video
-    -- that, given the right amount of prodding, expands into a
-    fully-fledge false memory. So, you are encouraging the victim's
-    brain itself to fill in the blanks.
-    - then, given the proper level of surveillance, the subject is
-      monitored with SIGINT, MASINT and especially HUMINT. Gaslighting
-      is then used to encourage the inception of other details that
-      add onto the narrative.
-      - the problem here is that the series of memories -- especially
-        if they relate to a single source event -- eventually break
-        down.
-      - no longer can the memories remain coherent to the mind and it
-        becomes very difficult to maintain a cogent sequence of events
-        connected to the single or multiple source memories.
+There is some fragment of a memory -- perhaps audio or video -- that,
+given the right amount of prodding, expands into a fully-fledge false
+memory. So, you are encouraging the victim's brain itself to fill in
+the blanks. Then, given the proper level of surveillance, the subject
+is monitored with SIGINT, MASINT and especially HUMINT. Gaslighting is
+then used to encourage the inception of other details that add onto
+the narrative. The problem here is that the series of memories --
+especially if they relate to a single source event -- eventually break
+down. They are rendered incoherent, insequent and incogent. No longer
+can the memories remain coherent to the mind and it becomes very
+difficult to maintain a cogent sequence of events connected to the
+single or multiple source memories.
 
-- if this relates to a national security case, where there was some
-  alleged terrorist conspiracy or crime, then habeas corpus does not
-  apply. therefore, the authorities who try you ex parte, simply push
-  back and never give you the evidence you need. When they do, it
-  comes in the form of audio and video clips, which can be produced ad
-  hoc as needed while the access to these audio clips is tightly
-  restricted.
+If this relates to a national security case, where there was some
+alleged terrorist conspiracy or crime, then habeas corpus does not
+apply. Therefore, the authorities who try you ex parte will simply
+push back in perpetuity and never give you the evidence you need. When
+they do, it comes in the form of audio and video clips, which can be
+produced ad hoc as needed while the access to these audio clips is
+tightly restricted.
 
 #### The Face2Face Algorithm
 
@@ -1152,18 +1182,18 @@ signatures will be left in the target's social interactions. Which
 sociophysical fingerprints manifest themselves will depend on who did
 this, who planned this, how it was done, the anticipated response of
 the target, the level of surveillance, whether and to what level that
-engagement with the target was coordinated/informed with surveillance,
-
-...
+engagement with the target was coordinated & informed with
+surveillance.
 
 Given unpredictable procedures like implanted memories or experimental
 psychology, a target known to talk to themselves is particularly
-useful. ... (because you can identify the boundary of the
-informational graph that surrounds things they might tell people,
-harnessing it for the generation of disinformation. this creates a
-smokescreen of incredulity: a fog machine of ... and eventually the
-target invests all his energy helping to contain himself) ... fighting
-with shadows
+useful. You can identify the boundary of the informational graph that
+surrounds things they might easily be encouraged to believe,
+harnessing it for the generation of disinformation. This creates a
+smokescreen of incredulity: a fog machine of misinformation
+confabulated by the target themselvse. Eventually the target invests
+all his energy helping to contain himself, fighting with shadows until
+he lays down for good.
 
 For political dissidents targeted by witchhunts, if there is an actual
 covert conspiracy, there is one common sociophysical fingerprint that
@@ -1233,7 +1263,9 @@ yielding phase change and chaos.
 
 #### [Blood Blockade Battlefront: A Game Between Two Worlds](http://www.crunchyroll.com/blood-blockade-battlefront/episode-3-a-game-between-two-worlds-731009)
 
-### (A sociophysical game space is only computable if your plan was certain...)
+<a name="fear-the-most-effective-means-of-constraining-sociophysical-game-space" />
+
+### [Fear: The Most Effective Means of Constraining Sociophysical Game-space](#fear-the-most-effective-means-of-constraining-sociophysical-game-space)
 
 Even an omniscient supercomputer from the future can't anticipate what
 it lacks the computational capacity to predict, thus it is only
@@ -1271,7 +1303,9 @@ counterexample to what otherwise might be the worst aphorism:
 
 ![The Beast from Boulder](/img/posts/2018-01-14-experimental-psychology-the-paradox-encyclopedia-and-how-to-beat-the-rokos-basilisk/boulder-street-art-beast.jpg)
 
-### (...problems with this explanation)
+<a name="problems-this-roko-solution-must-overcome" />
+
+### [Problems This Roko Solution Must Overcome](#problems-this-roko-solution-must-overcome)
 
 There are several problems with the above solution to Roko's
 Basilisk. It requires assumptions with dependencies on:
@@ -1292,6 +1326,8 @@ benevolent maniacal time-traveling robot that it's always espoused
 itself to be. All moral consequentialists need to get hit by the
 reality bus now and then and the Roko's Basilisk is like the ultimate
 moral consequentialist.
+
+<a name="social-physics-is-never-computable" />
 
 ### [Social Physics is NEVER Computable](#social-physics-is-never-computable)
 
@@ -1314,11 +1350,11 @@ existence. Therefore, it is from the *idea* of the Roko's Basilisk
 whence springs forth the basis for all its power and the very
 possibility of its creation's exigency.
 
-![The Four Loko Basilisk]()
+<a name="how-to-survive-a-conspiracy-with-no-money-down" />
 
+# [How to Survive a Conspiracy With No Money Down](#how-to-survive-a-conspiracy-with-no-money-down)
 
-
-# How to Survive a Conspiracy With No Money Down
+Wouldn't you like to know? LMAO.
 
 > What happens when you cross Glyndwr Michael with the [Black Hand](),
 > Science Fiction technology, a [kooky
@@ -1326,6 +1362,8 @@ possibility of its creation's exigency.
 > an [ironically hopeless
 > romantic](https://www.facebook.com/dconner.pro) and a dash of [Franz
 > Ferdinand](https://twitter.com/dcunit3d)?
+
+#### The Answer?
 
 > A patsy who makes perfect scapegoat
 > [mincement](https://en.wikipedia.org/wiki/Operation_Mincemeat) to
@@ -1345,5 +1383,12 @@ PERSON?
 Riddle me this: how do you copy someone "without actually copying
 their body" ? you copy information about them into memories implanted
 via dreams and HAARP, then you hold them hostage with nudez.
+
+#### I just wanted to be 1/100th of a Steve Jobs, but y'all motherfuckers hated my *visionary* startup ideas almost as much as you hated the idea of someone like me EVER becoming successful. How's it feel to have an übermensche spit in your weak, commie faces?
+
+![I just wanted to be 1/100th of a Steve Jobs](/img/posts/2018-01-14-experimental-psychology-the-paradox-encyclopedia-and-how-to-beat-the-rokos-basilisk/anime-hitler.jpg)
+
+> "And so we get what we've got right here: _**FAILURE TO
+> COMMUNICATE**_"
 
 [^spion-em-characteristics]: [Magnetization and Specific Absorption Rate Studies o Ball-Milled Iron Oxide Nanoparticles fo Biomedicine](http://dx.doi.org/10.1155/2013/181820), P. Burnham, N. Dollahon, C. H. Li, A. J. Viescas, and G. C. Papaefthymiou, Journal of Nanoparticles, vol. 2013, Article ID 181820, [doi:10.1155/2013/181820](http://dx.doi.org/10.1155/2013/181820)
