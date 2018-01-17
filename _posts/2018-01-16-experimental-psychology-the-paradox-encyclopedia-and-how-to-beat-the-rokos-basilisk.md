@@ -1037,6 +1037,11 @@ power-hungry zealots of
 > Daedalus. Do I look like Icarus? Who's Pindar now, bitches? If you
 > read, you might just find out.
 
+<a name="this-damnably-sanguine-maze" />
+
+### [This Damnably Sanguine Maze](#this-damnably-sanguine-maze)
+
+
 But this labyrinth has it's uses. What does a society need most? A
 strong ruler; an effective ruler; a just ruler; a righteous ruler; an
 intelligent ruler. What must you use to measure a man? This
@@ -1044,14 +1049,11 @@ labyrinth. You want to find the man or woman who most deserves to lead
 you? Why would you want someone who hasn't been tested anywhere near a
 sceptre and crown? What happens when most are tested by baptism of
 fire? There is simply nothing left and their souls wander aimlessly in
-the first circle of hell: that's right most people aren't even worth
+the first circle of hell. That's right: most people aren't even worth
 the energy for the wretched, powerful, self-serving sycophants to
 ruin. They remain nothing but *lost souls* and not many care to find
-them.
-
-<a name="this-damnably-sanguine-maze" />
-
-### [This Damnably Sanguine Maze](#this-damnably-sanguine-maze)
+them. **May they find themselves or find a tradition like
+Christianity.**
 
 Who makes it to the end? Someone who's virtues have been tested.
 Someone who suffers needlessly, but never surrenders his or her
