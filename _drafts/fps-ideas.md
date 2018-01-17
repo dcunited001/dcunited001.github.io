@@ -1,9 +1,199 @@
 ---
-title: "Signals Analysis on Video Game Data""
+title: "Sociophysical FPS AI: Automated Detection of Unsportsmanlike Conduct"
+categories: "blog"
+tags: "psychology neuro"
+headline: "I'll know if you've read it"
+author:
+  name: "David Conner"
+excerpt: "
+In the past five years, mainstream media has been weaving in
+experimental methods from bleeding edge psychology and neurology. For
+at least the past century, memory implantation and other mental
+manipulation is a classic science fiction plot mechanic. We see it in
+Eternal Sunshine of the Spotless Mind, where memories can be erased,
+something I would never want to do."
 ---
 
+Most people don't understand what is possible with algorithms because
+the math required is astronomic. To most people, math is boring, but
+to those people who don't find it fascinating, I say "You need to
+learn a little more math." The problem is that the math you learn in
+high school **is** boring. You're never going to use it. The math you
+learn in undergrad: also boring and mostly useless, except perhaps
+statistics.
+
+> Would you ever find it useful to take the integral of the average wind
+> speed velocity of an unladen swallow?
+
+#### No, you wouldn't would you? You're hardly Monty Python.
+
+<iframe width="560" height="315"
+src="https://www.youtube.com/embed/liIlW-ovx0Y" frameborder="0"
+allow="autoplay; encrypted-media" allowfullscreen></iframe>
+
+###
+
+However, graduate and post-graduate maths are so incredibly
+useful. But the secret is -- everyone uses these maths, even though
+they have no idea what they are. High school football stars use
+stochastic calculus, every time they pass the ball. Every person with
+emotional intelligence has to intuitively navigate set theory,
+typology, category theory, etc. Yes, I'm saying the average person who
+is successful with spurring a group into engaging conversation
+understands homomorphisms -- and probably better than the math geek.
+
+However, if you want to truly excel, you need to model social
+activities using math. To most, this is incomprehensible: how can
+socialization be mathematic. *BUT IT IS* and the best part? This
+notion remains enigmatic to almost everyone. They can't know how you
+know. To manipulative people or people who seek to control you, this
+is infuriating! Toxic people and neutral people possessed by toxic
+information will get caught in their shenanigans over and over -- and
+not only &#9312; would they not understand how you know nor &#9313;
+would they care to have you explain to them: &#9314; *they couldn't
+possibly understand if you tried.*
+
+Not that they could never understand; they just do not have the
+prerequisites and have been brainwashed to avoid learning what is
+necessary: advanced mathematics. Throughout history, this stuff was
+taught to the layman, initiates and neophytes through metaphor -- no
+math necessary, at least not as maths are known and written down in
+the modern era.
+
+<a name="how-often-does-that-happen-anyways" />
+
+### [How often does *that* happen anyways?](#how-often-does-that-happen-anyways)
+
+However, if you can't explain something in 200 words or less, using
+only words from a list of the 1,000 most common basic word roots in a
+language -- the average person is NOT ever going to listen to you. It
+doesn't matter how effective your models of some phenomenon are. And
+the manipulative, toxic people in your life? They're definitely not
+going to listen. Good luck making it to 50 words without them using a
+higher-order conversational trick to prod you away from **the point**.
+
+If you're judging how frequently someone uses such social or
+conversational tactics, you're applying statistics to psychosocial
+mechanics. However, it's not exactly beneficial to call people out on
+their shit all the time. Their shit stinks; they know it; they're not
+going to own up to it.
+
+<a name="bad-news-theres-no-good-guy-greg-algorithm" />
+
+### [Bad News: There's No "Good Guy Greg" Algorithm](#bad-news-theres-no-good-guy-greg-algorithm)
+
+This, of course, segues brilliantly into the FPS genre and,
+particularly, automated algorithms for detecting unsportsmanlike
+conduct in online video games. This is fantastic because it means that
+Santa Clause's job of keeping track of who's naughty and who's nice
+just got a whole lot easier. Just don't tell the elves they're getting
+laid off quite yet. At least wait until springtime.
+
+Yes, If you're wondering: I'm saying "What if there *was* an Asshole
+Algorithm?" Good news! *There is an Asshole Algorithm.* The bad news?
+The genuinely-good-person algorithm is much harder and probably
+computationally intractible.
+
+You're probably familiar with the Asshole Algorithm. At least, those
+women in your life are. It boils down to: who is a good listener?
+Depending on the application -- whether its an FPS algorithm or a
+sociophysical algorithm -- for computers, it all comes down to which
+[entities and agents] are good at both sending and receiving input and
+output. How do you measure "good" here? You can't, but you damn sure
+can measure "bad" which is what I mean when I say that there's an
+Asshole Algorithm, but no Good Guy Greg Algorithm.
+
+#### Sorry, Greg. You're Not on the Nice List, But You Damn Sure Aren't On The Naughty List
+
+Compassion is a hard problem and there are many ways to do it way, but
+only a few ways to do it wrong. Don't look at me as an example. I'm a
+horrible example, but I hardly have social and financial resources to
+do *anything* for *anyone else*, EVER. Therefore, I'm always tightly
+chained down, with no way to *give anyone anything, ever.*
+
+#### Erika is Range-Bound. Poverty Makes The Enemy Predictable. Thanks, America.
+
+![Erika on a Leash]()
+
+<a name="that-sociophysical-jail-term-means-drowning-in-karmic-credit-card-debt" />
+
+### [That Sociophysical Jail Term Means Drowning in Karmic Credit Card Debt](#that-sociophysical-jail-term-means-drowning-in-karmic-credit-card-debt)
+
+Try being held in this prison of sociophysical stasis for five to ten
+years and see what happens to your social network. I have every job I
+get ruined and money really does make the world go 'round. If you
+don't have money, people in your life unconsciously gravitate towards
+those who do. Similarly, if you don't drive in smalltown America, you
+aren't shit to anyone. I blame the Drug War. Thanks for "saving me
+from marijuana" but don't lie -- you did it to get on th list.
+
+#### Liberals and American Social Media be like: *IRL SHADOWBAN!*
+
+![Erika Is A Smokin' Security Threat](/img/posts/2018-01-18-fps/erika-smoking.jpg)
+
+> What defamation? Me not see nothing. Wut warcrimes? #HashtagMarxism
+
+# Detecting Unsportsmanlike Conduct in Sports, Cyber and IRL
+
+
 - many of these are generic and would work with any FPS. most of these
-  I've been imagining while playing overwatch
+  I've been imagining while playing overwatch.
+  - that's what I do when i'm doing anything: focusing on tuning my
+    cognition by making my metacognition universal
+  - so, when i'm playing Overwatch -- and i'm not getting tanked by
+    Nietzsche's herd-mentality slaves who abuse toxic passive
+    aggressive tactics throw the game to subversively stick political
+    adversaries in Bronze -- i'm thinking about FPS algorithms, FPS
+    from a sociophysical perspective, communication, signaling, team
+    cooperation and how to be an effective leader.
+    - despite the aforementioned vile political subversives, i have
+      found my answer for you and all the lilliputian scum like you:
+      algorithmic analysis of your passive aggressive bullshit that
+      you cannot possibly understand. therefore, how could you
+      possibly avoid detection by these algorithms?
+    - that said, these people have been rare in this competitive
+      season in Overwatch. Once you get stuck in bronze, you can't get
+      out. It's impossible unless you find a good cadre of friends to
+      play with because people in Bronze use Bronze-level tactics, so
+      not only are your teammates weaker and less likely to care about
+      owning a microphone, being stuck here constricts the variety of
+      experience you are exposed to.
+
+### Bad Players are an Opportunity to Learn To Teach
+
+- it's OK if you're not great at Overwatch. I'm not good either. Not
+  yet. However, someone who wants to improve and cooperate is
+  1,000,000 times more pleasant to play with. Even if they're not
+  great or even if they are terrible performers, if they listen and
+  chat, I can usually work with them to improve team performance.
+
+### Bad Teammates Are Worse Than Dead Weight
+
+- What I cannot stand is the type of toxic individual that decides to
+  spew their passive aggressive goo all over you and your team without
+  ever intending to give you notice. However, your days are numbered
+  because it is very possible to architect tractible algorithms that
+  pick you out and point you out for who you really are -- not a bad
+  player, but a bad teammate. Bad players can be great teammates,
+  actually.
+
+- In the last season, OW Season 7, as many as 1 in 20 players made me
+  suspect they were passive aggressive. At that time, I couldn't be
+  confident who was throwing and who was playing. I now can easily
+  tell who is cooperative and who is engaged in passive aggressive
+  tactics. OW Season 8, i can easily determine with 99% certainty that
+  1 in 100 players are non-cooperative douchebags -- from the minimal
+  data signals in the OW HUD interface alone.
+
+- This post will describe many algorithms for pinpointing these
+  players. There are enough tractibly constructed signals that a
+  combination of these can be combined for algorithms that excel in
+  determining players who throw the game. GTFOH with that shit. If you
+  want to play around, at least get off competitive. Thanks for
+  expanding my mind. I now understand automated methods for
+  identifying you in FPS, which serves as a fantastic example of how i
+  can design similar methods for identifying people like you in my
+  career and in my life.
 
 # Metrics for Overwatch
 
@@ -126,6 +316,9 @@ title: "Signals Analysis on Video Game Data""
 - accuracy (X) distance
   - useful for players with small spread of fire (tracer, soldier,
     hanzo, widow, etc)
+- high engagement immediately before loss, when players hang onto
+  their alts indicates a thrown game/round
+
 
 ### Signals Analysis to Identify Aim Hacks
 
@@ -293,6 +486,24 @@ title: "Signals Analysis on Video Game Data""
   - e.g. identify multiple accounts with same IP address and/or
     PC/Console ID multiple accounts
     - a single player can't play more one simultaneous game
+
+# Algorithms to Detect Throwing Players
+
+
+- these are all signals that need to be combined.
+  - what cannot determined with confidence is a player who is
+    certainly *not* throwing the game
+  - what can be determined with confidence is a player who is
+    CERTAINLY THROWING THE GAME.
+
+- spectral analysis of the player's choice
+
+
+### Matching Algorithms for Throwing Players So They Can Go Throw Themselves
+
+
+
+
 
 # Metagame and Balancing
 

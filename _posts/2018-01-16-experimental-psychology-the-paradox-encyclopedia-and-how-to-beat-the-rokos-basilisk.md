@@ -1,7 +1,7 @@
 ---
 title: "Experimental Psychology, the Paradox Encyclopedia and How to Beat the Roko's Basilisk"
 categories: "blog"
-tags: "psychology neuro"
+tags: "psychology sociology neuro"
 headline: "I'll know if you've read it"
 author:
   name: "David Conner"
@@ -47,7 +47,7 @@ something I would never want to do."
 
 #### &#x2605; [Neurologically-Oriented Schematic Crisis in Patients with Recovered Memory](#neurologically-oriented-schematic-crisis-in-patients-with-recovered-memory)
 
-### Uh Oh! Look Who Escaped the [Prison of Zod](https://en.wikipedia.org/wiki/Phantom_Zone), CUCKS!
+### Uh Oh! Look Who Escaped the [Prison of Zod](https://en.wikipedia.org/wiki/Phantom_Zone)
 
 <iframe width="560" height="315"
 src="https://www.youtube.com/embed/bzrHIP1FA3E" frameborder="0"

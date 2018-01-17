@@ -27,7 +27,7 @@ excerpt: ""
 
 #### IAS (simons institute on steroids)
 
-# 
+#
 
 Few topics have expanded my mathematic imagination to the degree that
 watching these
