@@ -72,6 +72,12 @@ allow="autoplay; encrypted-media" allowfullscreen></iframe>
 
 #### &#x2605; [Methodical, Typological Expansion of Variety of Experience](#methodical-typological-expansion-of-variety-of-experience)
 
+#### &#x2605; [The Divine Comedy: the Illuminati's Labyrinth of Metempsychosis](#the-divine-comedy-the-illuminatis-labyrinth-of-metempsychosis)
+
+#### &#x2605; [This Damnably Sanguine Maze](#this-damnably-sanguine-maze)
+
+#### &#x2605; [Horace, Carmina, IX, Book 4. 9. 45.](#horace-carmina-ix-book-4-9-45)
+
 #### &#x2605; [And If You Gaze Long Into An Abyss...](and-if-you-gaze-long-into-an-abyss)
 
 #### &#x2605; [John 10:11-18](#john-10-11-18)
@@ -987,6 +993,111 @@ survive are invaluable, regardless of whether the conditions they've
 experienced were tolerable, ethical, or rationally founded. If they've
 survived metempsychosis or some kind of baptism by fire AND their mind
 miraculously functions, that person is incredibly valuable to society.
+
+<a name="the-divine-comedy-the-illuminatis-labyrinth-of-metempsychosis" />
+
+### [The Divine Comedy: the Illuminati's Labyrinth of Metempsychosis](#the-divine-comedy-the-illuminatis-labyrinth-of-metempsychosis)
+
+What happens in the Divine Comedy? It's essentially the same story as
+my encounter with Tatiana Maslany. Dante finds the love of his life --
+or so he thinks LMAO -- but Beatrice is murdered before his eyes. Does
+Dante give up? No. He follows her through the ends of Hell itself to
+save her -- and to save himself. He suffers until he has peace, but
+NEVER surrenders a piece of himself. That is the only way you can
+survive the ninth level of Dante's Inferno: *accusations of
+treachery*. Here, Dante has to wrestle with the Lucifer's deception
+cast against him and against all society: that Beatrice may have
+betrayed Dante.
+
+#### The Circles of Hell in Dante's Inferno Serve as the Illuminati's Psychosocial Filtration Mechanism to Identify One Worthy of Pindar
+
+![The Circles of Hell in Dante's Inferno](/img/posts/2018-01-16-experimental-psychology-the-paradox-encyclopedia-and-how-to-beat-the-rokos-basilisk/dantes-inferno-circles-of-hell.jpg)
+
+You want the truth? SOCIETY __IS__ HELL, unless you are saved by
+Jesus. However Christian, the society of Medici Italy was hardly a
+place where saints rise to the top. In order to avoid placing yourself
+below those wretches of fortunate birth -- in whose sociohierchical
+tiers, you'd rot, controlled and corroded by your known sins, *NEVER
+TO BE TRULY FORGIVEN* -- then, you'd have to prove yourself. However,
+no one ever gets anything for free in society -- *LEAST OF ALL:
+**FREEDOM** ITSELF*. In order to gain true freedom, all human society
+in this age command that you suffer with nothing, unless you rise
+above the rest and establish your own sociohierarchical tiers. Only
+those worth of being served -- whose vision stands out above others
+*and* manages to pierce out through the shadows of the Cave, within
+which the Illuminati seek to trap all they can deceive -- only those
+will be truly free. These men are hardly a dime a dozen; only through
+sheer strength of will, through knowledge of deserved righteousness,
+through the desire to save others and serve truth do they manage to
+escape the grasp of those all too common, all too predictable
+power-hungry zealots of
+[Mara](https://en.wikipedia.org/wiki/Mara_(demon)).
+
+> Woops, I broke your silly little maze. Build yourself another,
+> Daedalus. Do I look like Icarus? Who's Pindar now, bitches? If you
+> read, you might just find out.
+
+But this labyrinth has it's uses. What does a society need most? A
+strong ruler; an effective ruler; a just ruler; a righteous ruler; an
+intelligent ruler. What must you use to measure a man? This
+labyrinth. You want to find the man or woman who most deserves to lead
+you? Why would you want someone who hasn't been tested anywhere near a
+sceptre and crown? What happens when most are tested by baptism of
+fire? There is simply nothing left and their souls wander aimlessly in
+the first circle of hell: that's right most people aren't even worth
+the energy for the wretched, powerful, self-serving sycophants to
+ruin. They remain nothing but *lost souls* and not many care to find
+them.
+
+<a name="this-damnably-sanguine-maze" />
+
+### [This Damnably Sanguine Maze](#this-damnably-sanguine-maze)
+
+Who makes it to the end? Someone who's virtues have been tested.
+Someone who suffers needlessly, but never surrenders his or her
+values. If your rulers buckle under pressure, then the most
+foundational pillars of society collapse and society along with
+it. These such rulers can't be bothered with fickle temptations and no
+one commands them with simple puppet strings: they have none and they
+would rather die. Those whose strings can be pulled to dance at the
+whims of another are not truly human and can never say they are truly
+free. To survive such depths of hell requires the piety of multiple
+generations, along with love, knowledge and the intent to have a child
+that might just surpass this damnably sanguine maze.
+
+<a name="horace-carmina-ix-book-4-9-45" />
+
+### [Horace, Carmina, IX, Book 4. 9. 45.](#horace-carmina-ix-book-4-9-45)
+
+This is the third time I've quoted this poem on my blog, the
+familiarity itself an implanted memory. It's OK, you can laugh if you
+want. There is no way I should or could EVER find such obscure work
+familiar, but it sure is comforting.
+
+#### Non possidentem multa vocaveris
+
+#### recte beatum; rectius occupat
+
+#### nomen beati, qui deorum
+
+#### muneribus sapienter uti
+
+#### duramque callet pauperiem pati
+
+#### peiusque leto flagitium timet,
+
+#### non ille pro caris amicis
+
+#### aut patria timidus perire.
+
+> Translation: **You will not rightly call him a happy man who
+> possesses much; he more rightly earns the name of happy who is
+> skilled in wisely using the gifts of the gods, and in suffering hard
+> poverty, and who fears disgrace as worse than death.**
+
+That I would ever find this poem on my own? "Aliens!" is a more likely
+explanation. I don't care about the explanation. What is certain is
+that I HAVE BEEN TO HELL *AND* BACK.
 
 <a name="and-if-you-gaze-long-into-an-abyss" />
 
