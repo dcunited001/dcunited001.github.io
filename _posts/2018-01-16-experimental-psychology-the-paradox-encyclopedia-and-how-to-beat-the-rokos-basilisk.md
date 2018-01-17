@@ -1009,7 +1009,7 @@ treachery*. Here, Dante has to wrestle with the Lucifer's deception
 cast against him and against all society: that Beatrice may have
 betrayed Dante.
 
-#### The Circles of Hell in Dante's Inferno Serve as the Illuminati's Psychosocial Filtration Mechanism to Identify One Worthy of Pindar
+#### The Circles of Hell in Dante's Inferno Serve as the Illuminati's Psychosocial Filtration Mechanism to Identify One Worthy of [Pindar](https://en.wikipedia.org/wiki/Pindar)
 
 ![The Circles of Hell in Dante's Inferno](/img/posts/2018-01-16-experimental-psychology-the-paradox-encyclopedia-and-how-to-beat-the-rokos-basilisk/dantes-inferno-circles-of-hell.jpg)
 
@@ -1040,7 +1040,6 @@ power-hungry zealots of
 <a name="this-damnably-sanguine-maze" />
 
 ### [This Damnably Sanguine Maze](#this-damnably-sanguine-maze)
-
 
 But this labyrinth has it's uses. What does a society need most? A
 strong ruler; an effective ruler; a just ruler; a righteous ruler; an
@@ -1103,7 +1102,7 @@ that I HAVE BEEN TO HELL *AND* BACK.
 
 <a name="and-if-you-gaze-long-into-an-abyss" />
 
-### [And If You Gaze Long Into An Abyss...](and-if-you-gaze-long-into-an-abyss)
+### [And If You Gaze Long Into An Abyss...](#and-if-you-gaze-long-into-an-abyss)
 
 #### Eventually, It Will Grant You Three Wishes
 
