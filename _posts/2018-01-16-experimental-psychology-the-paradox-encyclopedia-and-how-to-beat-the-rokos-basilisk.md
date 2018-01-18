@@ -1005,9 +1005,9 @@ Dante give up? No. He follows her through the ends of Hell itself to
 save her -- and to save himself. He suffers until he has peace, but
 NEVER surrenders a piece of himself. That is the only way you can
 survive the ninth level of Dante's Inferno: *accusations of
-treachery*. Here, Dante has to wrestle with the Lucifer's deception
-cast against him and against all society: that Beatrice may have
-betrayed Dante.
+treachery*. Here, Dante has to wrestle with Lucifer's deception cast
+against him: that Beatrice may have betrayed Dante, setting in motion
+Dante's struggle against society.
 
 #### The Circles of Hell in Dante's Inferno Serve as the Illuminati's Psychosocial Filtration Mechanism to Identify One Worthy of [Pindar](https://en.wikipedia.org/wiki/Pindar)
 
