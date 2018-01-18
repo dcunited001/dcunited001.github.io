@@ -31,10 +31,10 @@ statistics.
 src="https://www.youtube.com/embed/liIlW-ovx0Y" frameborder="0"
 allow="autoplay; encrypted-media" allowfullscreen></iframe>
 
-###
+### 
 
 However, graduate and post-graduate maths are so incredibly
-useful. But the secret is -- everyone uses these maths, even though
+useful. But the secret is that everyone uses these maths, even though
 they have no idea what they are. High school football stars use
 stochastic calculus, every time they pass the ball. Every person with
 emotional intelligence has to intuitively navigate set theory,
@@ -48,10 +48,13 @@ socialization be mathematic. *BUT IT IS* and the best part? This
 notion remains enigmatic to almost everyone. They can't know how you
 know. To manipulative people or people who seek to control you, this
 is infuriating! Toxic people and neutral people possessed by toxic
-information will get caught in their shenanigans over and over -- and
-not only &#9312; would they not understand how you know nor &#9313;
-would they care to have you explain to them: &#9314; *they couldn't
-possibly understand if you tried.*
+information will get caught in their shenanigans over and over.
+
+#### &#9312; Not only would they not understand how you know
+
+#### &#9313; Nor would they care to have you explain to them
+
+#### &#9314; But *they couldn't possibly understand if you tried.*
 
 Not that they could never understand; they just do not have the
 prerequisites and have been brainwashed to avoid learning what is
@@ -168,7 +171,7 @@ from marijuana" but don't lie -- you did it to get on th list.
 - it's OK if you're not great at Overwatch. I'm not good either. Not
   yet. However, someone who wants to improve and cooperate is
   1,000,000 times more pleasant to play with. Even if they're not
-  great or even if they are terrible performers, if they listen and
+  great or even if they are terrible performers, if tey listen and
   chat, I can usually work with them to improve team performance.
 
 ### Bad Teammates Are Worse Than Dead Weight

@@ -1000,14 +1000,15 @@ miraculously functions, that person is incredibly valuable to society.
 
 What happens in the Divine Comedy? It's essentially the same story as
 my encounter with Tatiana Maslany. Dante finds the love of his life --
-or so he thinks LMAO -- but Beatrice is murdered before his eyes. Does
-Dante give up? No. He follows her through the ends of Hell itself to
-save her -- and to save himself. He suffers until he has peace, but
-NEVER surrenders a piece of himself. That is the only way you can
-survive the ninth level of Dante's Inferno: *accusations of
-treachery*. Here, Dante has to wrestle with Lucifer's deception cast
-against him: that Beatrice may have betrayed Dante, setting in motion
-Dante's struggle against society.
+or so he thinks LMAO -- but Beatrice is murdered before his eyes, an
+allusion of death as the door to metempsychosis. Does Dante give up?
+No. He follows her through the ends of Hell itself to save her -- and
+to save himself. He suffers until he has peace, but NEVER surrenders a
+piece of himself. That is the only way you can survive the ninth level
+of Dante's Inferno: *accusations of treachery*. Here, Dante has to
+wrestle with Lucifer's deception cast against him: that Beatrice may
+have betrayed Dante, setting in motion Dante's struggle against
+society.
 
 #### The Circles of Hell in Dante's Inferno Serve as the Illuminati's Psychosocial Filtration Mechanism to Identify One Worthy of [Pindar](https://en.wikipedia.org/wiki/Pindar)
 
@@ -1029,7 +1030,7 @@ which the Illuminati seek to trap all they can deceive -- only those
 will be truly free. These men are hardly a dime a dozen; only through
 sheer strength of will, through knowledge of deserved righteousness,
 through the desire to save others and serve truth do they manage to
-escape the grasp of those all too common, all too predictable
+escape the grasp of those all too common, all-too-predictable,
 power-hungry zealots of
 [Mara](https://en.wikipedia.org/wiki/Mara_(demon)).
 
@@ -1358,9 +1359,9 @@ accompany prolonged detention.
 Two more factors that might yield signatures for social forensics
 pointing to a need for more information:
 
-#### How long the "game" went on for
+#### &#2605; How long the "game" continued
 
-#### Whether the "game" entered states that the target or suspects did not anticipate.
+#### &#2605; Whether the "game" entered states that the target or suspects did not anticipate.
 
 These last two points are critical because if a group must signal
 covertly to coordinate and believe they can get away with lies, then
@@ -1422,11 +1423,11 @@ counterexample to what otherwise might be the worst aphorism:
 There are several problems with the above solution to Roko's
 Basilisk. It requires assumptions with dependencies on:
 
-#### The mechanics of future-to-present time travel, which itself is grounded in assuming that world-lines converge. They most certainly do, by the way, but not singularly.
+### &#9312; The mechanics of future-to-present time travel, which itself is grounded in assuming that world-lines converge. They most certainly do, by the way, but not singularly.
 
-#### The mechanics of future computation, the possibilities of quantum computing, whether human culture converges to restrict the spatial complexity and whether AI blindly pursues energy optimization
+### &#9313; The mechanics of future computation, the possibilities of quantum computing, whether human culture converges to restrict the spatial complexity and whether AI blindly pursues energy optimization
 
-#### The mechanics of future resouce and energy acquisition, future space travel and whether humanity's survival preserves typological constants in all world lines.
+### &#9314; The mechanics of future resouce and energy acquisition, future space travel and whether humanity's survival preserves typological constants in all world lines.
 
 If the Roko's Basilisk ever existed and did create a time loop, this
 implies its future existence may have been certain, in which case it
@@ -1436,31 +1437,32 @@ advanced intelligent lifeforms: a demon that needs a good ass-whooping
 before it decides to change its demonly ways, thus becoming the
 benevolent maniacal time-traveling robot that it's always espoused
 itself to be. All moral consequentialists need to get hit by the
-reality bus now and then and the Roko's Basilisk is like the ultimate
+reality bus now and then. The Roko's Basilisk is like the penultimate
 moral consequentialist.
 
 <a name="social-physics-is-never-computable" />
 
 ### [Social Physics is NEVER Computable](#social-physics-is-never-computable)
 
-One major problem for the roko basillisk: social physics is never
+One major problem for the Roko's Basillisk: social physics is never
 computable -- ever, even in the space of alternate universes, given
 the entire lifespan of the universe. For time loops, these alternate
 universes are merely the result of all paths cycling through the time
-loop -- something like a Euclidean path integral that is causually
-looped until it finds a stability: paths that could never exist unless
-the exigent conclusion was guaranteed and cycles that would never
-cease termination unless a valid circumstance exists preserving any
-exigent states any permitting escape. Because this implies that even
-given a billion years, no Roko's Basilisk nor any future being whose
-origin or manisfestation is entirely materially dependent could ever
-control the past without suggestion, intimidation and other
-Machiavellian tools of power. therefore, without assuming you can rely
-on coercion, fear and ignorance to influence human behavior and
-thereby coax exigent components of the Basillisk's fated creation into
-existence. Therefore, it is from the *idea* of the Roko's Basilisk
-whence springs forth the basis for all its power and the very
-possibility of its creation's exigency.
+loop -- something like a [Euclidean path
+integral](https://en.wikipedia.org/wiki/Path_integral_formulation)
+that is causually looped until it finds a stability: paths that could
+never exist unless the exigent conclusion was guaranteed and cycles
+that would never cease termination unless a valid circumstance exists
+preserving any exigent states any permitting escape. Because this
+implies that even given a billion years, no Roko's Basilisk nor any
+future being whose origin or manisfestation is entirely materially
+dependent could ever control the past without suggestion, intimidation
+and other Machiavellian tools of power. therefore, without assuming
+you can rely on coercion, fear and ignorance to influence human
+behavior and thereby coax exigent components of the Basillisk's fated
+creation into existence. Therefore, it is from the *idea* of the
+Roko's Basilisk whence springs forth the basis for all its power and
+the very possibility of its creation's exigency.
 
 <a name="how-to-survive-a-conspiracy-with-no-money-down" />
 
