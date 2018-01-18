@@ -2,7 +2,7 @@
 title: "Sociophysical FPS AI: Automated Detection of Unsportsmanlike Conduct"
 categories: "blog"
 tags: "psychology neuro"
-headline: "I'll know if you've read it"
+headline: ""
 author:
   name: "David Conner"
 excerpt: "
@@ -94,7 +94,9 @@ Algorithm?" Good news! *There is an Asshole Algorithm.* The bad news?
 The genuinely-good-person algorithm is much harder and probably
 computationally intractible.
 
-####
+#### Do You Know Dou [W.A.I.S](https://en.wikipedia.org/wiki/Wechsler_Adult_Intelligence_Scale)?
+
+![Good Guy Greg](/img/posts/2018-01-18-fps/good-guy-greg.jpg)
 
 You're probably familiar with the Asshole Algorithm. At least, those
 women in your life are. It boils down to: who is a good listener?
