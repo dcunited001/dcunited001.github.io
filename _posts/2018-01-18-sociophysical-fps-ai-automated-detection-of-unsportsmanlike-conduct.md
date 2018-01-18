@@ -140,8 +140,7 @@ from marijuana" but don't lie -- you did it to get on th list.
 
 > What defamation? Me not see nothing. Wut warcrimes? #HashtagMarxism
 
-# Detecting Unsportsmanlike Conduct in Sports, Cyber and IRL
-
+# Automated Detection of Unsportsmanlike Conduct in Sports
 
 - many of these are generic and would work with any FPS. most of these
   I've been imagining while playing overwatch.
@@ -166,6 +165,18 @@ from marijuana" but don't lie -- you did it to get on th list.
       owning a microphone, being stuck here constricts the variety of
       experience you are exposed to.
 
+- ever want to know a list of ALL the games thrown in MLB/NFL history?
+  - actually, this would be a hard problem because there's so many
+    eyes on a single game and pro player who's throwing knows the game
+    well enough.
+    - the financial incentive can enable them to be tactical about
+      throwing the game while showing their true colors with a minimal
+      amount of time investment or divestment
+    - the greater the number of team mates, the more people that must
+      cooperate to throw the game at a critical moment.
+      - so, this is way easier in overwatch, especially in matches
+        with minimal time investment
+
 ### Bad Players are an Opportunity to Learn To Teach
 
 - it's OK if you're not great at Overwatch. I'm not good either. Not
@@ -186,11 +197,35 @@ from marijuana" but don't lie -- you did it to get on th list.
 
 - In the last season, OW Season 7, as many as 1 in 20 players made me
   suspect they were passive aggressive. At that time, I couldn't be
-  confident who was throwing and who was playing. I now can easily
-  tell who is cooperative and who is engaged in passive aggressive
-  tactics. OW Season 8, i can easily determine with 99% certainty that
-  1 in 100 players are non-cooperative douchebags -- from the minimal
-  data signals in the OW HUD interface alone.
+  confident who was throwing and who was playing. This would be
+  strange -- why would you throw and why would people throw my games,
+  if apparent strangers couldn't possibly recognize my online moniker
+  - this can be partially explained by "smurfing" and "boosting"
+    players, who may be socially or financially incentivized to boost
+    the ranking of shitty players.
+    - unfortunately, this ruins games for people and ruins the play
+      experience, which is why i'd like to pitch some of these
+      algorithm ideas to blizzard.
+      - i'm sorry, that shit is so toxic.
+      - if you have boosted members matched on your team, it means
+        they are heavy weight, albeit not dead weight.
+      - even worse, in order to boost lower ranking players, the
+        "smurfed" accounts must lose some games to keep their ranking
+        low.
+- it is likely that this malincentivization without algorithmic
+  recognition is entirely the cause of matching and ranking problems
+  - it ruins competitive mode, unless you lose a few games until you
+    find a team who doesn't lose and stick with them or unless you
+    form a cadre of players who always plays together.
+    - if you're socially isolated, this can be a bit difficult.
+
+- (embed all bronze everything)
+
+  - I now can easily tell who is cooperative and who is engaged in
+    passive aggressive tactics. OW Season 8, i can easily determine
+    with 99% certainty that 1 in 100 players are non-cooperative
+    douchebags -- from the minimal data signals in the OW HUD
+    interface alone.
 
 - This post will describe many algorithms for pinpointing these
   players. There are enough tractibly constructed signals that a
