@@ -1236,3 +1236,80 @@ verify .... until you “go away.” So you will continue to be
 psychologically harassed by strangers programmed with that bad intel
 who push people away to ensure that no one gets close enough to their
 mistake to ever verify the truth, basically until you commit suicide.
+
+
+============
+
+in this [twitter
+exchange](https://twitter.com/dcunit3d/status/952739055019745281)
+where strangely, i wasn't totally ignored by a weak, pathetic enemy.
+
+#### [@mutex7](http://twitter.com/mutex7)
+
+> "I'd have the US stop being deceitful hypocrites and admit its goal
+> is sustaining domination of a corrupt world order. Let's find out if
+> the US is a paper empire that must depend on propaganda to fool its
+> citizens and cover up its inability to put boots on the ground." -
+> @mutex7
+
+#### @dcunit3d
+
+> have you looked at the VA's medical expenses? it's a good thing that
+> we don't need boots on the ground.
+
+#### [@mutex7](http://twitter.com/mutex7)
+
+> I just get tired of the arrogance that allows people to believe the
+> US is this great, powerful force for good in the world. Without the
+> platitudes and lies that provide a thin veil for the exploitation
+> everyone would need to confront reality and deal with the
+> consequences.
+
+#### @dcunit3d
+
+> here, you should probably read this. be careful though => it
+> describes three different ways that #Communism is its own
+> #AntiThesis. Marxism is auto-antithetical. i feel sorry for you
+> son. (1) your economic inadequacies necessitate EMPIRE.
+
+> (2) your mind-control apparatus requires a semioteleological
+> dependiency on the WORKER'S EXPERIENCE. semiotically, this will no
+> longer remain relevant in the 21st century. you will lose the
+> control to influence people at a fundamental level and i'm LMAO
+> until it happens.
+
+> (3) #Marxism, #Leninism, and/or #Communism all require that people
+> cede the #FREE market financial resource-type with negative savings
+> rates (shit-o-nomics) while the state monopolizes ALL SOCIAL
+> RESOURCES. you trade your ability to save money, EVER, for a new
+> slave master.
+
+> since communists, leninists and marxists are so weak, i'm sure you
+> will swoop down on Item #3 because that's where you're
+> semioteleological programming tells you to defend the worker class
+> and you are no doubt triggered by phrases like "savings rates",
+> "free market", etc ...
+
+> But U totally lack the ability 2 understand economics, pragmatically
+> & philosophically. you cannot understand why the #FreeMarket
+> respects individual freedom to direct resources via savings, nor do
+> you know what it means 4 the STATE to monopolize ALL MEANS of
+> influence in society
+
+> Even the notion of #WorldRevolution is a lie. because if anyone gave
+> #Stalin the world, he would have turned everything non-Russian into
+> a new serf class to power Russian elite. I feel sorry for you bc in
+> your blind "anti"-"imperialist" rage, U are essentially worse than
+> traitors
+
+> Leninists are good 4 nothing but fucking themselves & everyone
+> around them,so they can blindly chase dreams of establishing a "new"
+> world order which they are too stupid 2 understand is exactly the
+> same as every other world order,destroying everything around them
+> while they do it
+
+LMAO i hope these communists died inside when they realized that
+marxism/leninism are actually #AutoAntithetical. it isn't actually
+likely that they "understand" nor would they ever "care" about being
+anything but mechanistically pestilent, petulantly passive-aggressive
+leninists
