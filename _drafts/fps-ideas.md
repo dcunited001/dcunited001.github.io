@@ -94,6 +94,8 @@ Algorithm?" Good news! *There is an Asshole Algorithm.* The bad news?
 The genuinely-good-person algorithm is much harder and probably
 computationally intractible.
 
+####
+
 You're probably familiar with the Asshole Algorithm. At least, those
 women in your life are. It boils down to: who is a good listener?
 Depending on the application -- whether its an FPS algorithm or a
@@ -194,6 +196,110 @@ from marijuana" but don't lie -- you did it to get on th list.
   identifying you in FPS, which serves as a fantastic example of how i
   can design similar methods for identifying people like you in my
   career and in my life.
+
+<a name="throwing-players-typically-throw-for-the-remainder-of-the-game" />
+
+### [Throwing Players Typically Throw For The Remainder of the Game](#throwing-players-typically-throw-for-the-remainder-of-the-game)
+
+- who starts passive-aggressively throwing a game only to reverse that
+  decision in less than 15 minutes?
+  - this actually results in a long-trending time series signature
+    where analysis via window functions can produce the recognition of
+    recognize probabilistic state change.
+    - that is, if you can recognize where a player started throwing
+      the game from a set of a few dependable, computationally
+      tractible signals, you can be validate that assumption by
+      testing it against the assumption that most passive aggressive
+      people are going to continue being passive aggressive.
+
+> If you think you know how to change society, best an adversary, or
+> dominate your enemy, but don't know how to love your enemy, then I
+> think you might need Jesus.
+
+If you can't love the people closest to you -- not just "tolerate" or
+use them, *actually* love them -- then how can you keep people
+together? If you can't love the people furthest from you, or you don't
+want to, then how have you developed the empathy to understand how
+they think? And thus, how can you expect to actually bring them
+together. If this is you, then you seek to dominate or destroy, not to
+bring people together. Someone who does that, loves the people who are
+furthest from them and develops empathy to understand the way they
+think.
+
+This isn't to say that you should help them do what you disagree with
+or cannot tolerate. Developing an understanding for how others think
+-- especially those who you have determined to be "wrong" is a
+pragmatic and expedient means of bringing people together. There is no
+other way. If you want to be strong, you will find others who think,
+believe and see differently and you will make yourself stronger by
+adapting their perspectives, instead of disconnecting or dominating
+them. Most of all, you will listen and, though you might not let
+yourself be persuaded, you will certainly be stronger when reasoning
+with people like them. All people are the same and all people are
+unique.
+
+<a name="why-is-passive-aggressive-behavior-appealing" />
+
+### [Why Is Passive Aggressive Behavior Appealing?](#why-is-passive-aggressive-behavior-appealing)
+
+- this brings us to a fantastic question: why is passive aggressive
+  behavior appealing? it's because it confers advantage towards the
+  attainment of a goal, especially if that goal is supported by people
+  who feel traditionally disenfranchised. sometimes passive aggressive
+  tactics are appropriate, but I don't believe that passive aggressive
+  behavior patterns ever are.
+  - the problem comes where groups of people find themselves
+    consciously or unconsciously motivated by smaller groups of
+    subversive people, who encourage people to leverage passive
+    aggressive tactics coupled with a shutdown of communication,
+    completely passively.
+    - this communication shutdown prevents people from talking,
+      exacerbates problems that cooperation is intended to solve. if
+      people don't communicate by default, how can they cooperate?
+    - we need the opposite: homogenization and heterogenonization of
+      balanced communications from the small groups all the way up
+      through large groups. in society with networking and social
+      media, you can measure the well-connectedness of groups. there
+      are automated means of identifying vulnerable, used and hurt
+      people. manipulative people seek to keep their prey in a
+      vulnerable state. these are detectable signatures, but what does
+      the NSA do with its capabilities? *IT ENABLES ROGUE AGENTS OF
+      THE FEDERAL GOVERNMENT TO DO THE EXACT OPPOSITE!!!* ... at
+      least, occasionally. We can do better.
+
+
+
+### Competing Game Publishers Can Leverage Toxicity to Encourage Players to Jump Ship
+
+- publishers with a new IP can encourage/exaggerate toxic behavior on
+  other platforms, though this isn't exactly a wonderful tactic to be
+  caught engaging in.
+  - there is aggregate toxicity in networks. online networks for new
+    games and new IP's are typically full of optimism, not
+    toxicity. this aggregate toxicity changes over time and people
+    naturally gravitate from one platform to another, consciously and
+    unconsciously.
+  - by spinning game experiences and, particularly, spinning
+    information that sets the frame of how people consider their
+    experiences in games determines how they will make decisions about
+    where to invest their time & energy. this isn't new. it's classic
+    marketing.
+    - e.g. calling Overwatch a "MOBA" FPS was almost certainly
+      something that was started by rival publishers -- who most
+      likely developed traditional tower-defense-style MOBA's that
+      they felt were threatened by Overwatch.
+      - this is a perfect example of the kind of frame-poisoning that
+        follows me around life, wherever I go. the only thing that
+        would ever save me from this, absent completely standing up to
+        it and defeating it, is a total and complete change of
+        identity with no looking back.
+      - "if it's happening to you everwhere you go, it's not them,
+        it's YOU" => this quote is like an tragic onion of innuendos.
+        - depending on the actual intended meaning, the person who
+          says this to you probably means well, but i'm not sure that
+          they ever actually understand what this means for someone
+          who's battling complete and total defamation.
+
 
 # Metrics for Overwatch
 
