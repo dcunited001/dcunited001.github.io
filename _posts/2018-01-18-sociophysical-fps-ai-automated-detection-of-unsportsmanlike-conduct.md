@@ -162,7 +162,9 @@ from marijuana" but don't lie -- you did it to get on th list.
 
 > What defamation? Me not see nothing. Wut warcrimes? #HashtagMarxism
 
-# Automated Detection of Unsportsmanlike Conduct in Sports
+<a name="automated-detection-of-unsportsmanlike-conduct-in-sports" />
+
+# [Automated Detection of Unsportsmanlike Conduct in Sports](#automated-detection-of-unsportsmanlike-conduct-in-sports)
 
 - many of these are generic and would work with any FPS. most of these
   I've been imagining while playing overwatch.
@@ -657,14 +659,38 @@ unique.
 
 # Algorithms to Detect Throwing Players
 
-
 - these are all signals that need to be combined.
   - what cannot determined with confidence is a player who is
     certainly *not* throwing the game
   - what can be determined with confidence is a player who is
-    CERTAINLY THROWING THE GAME.
+    *CERTAINLY THROWING THE GAME*.
 
-- spectral analysis of the player's choice
+- spectral analysis of the player's character choice, particularly:
+  - compared to their usual ordered preferences of characters:
+    - this season, recently and total
+    - previous seasons, recently and total
+  - compared to the sequencing of other player's choices
+    - i.e. does the throwing player wait to pick a character that
+      sucks with the team's composition? probably a harmless signal,
+      but not in diamond and platinum levels.
+    - does the throwing player *change* characters in response to
+      others choices in a way that complements the team composition?
+      or in a way that harms team composition?
+  - does the player swap cooperatively characters with another player?
+    i.e. do they share?  how quickly do they choose to do this? this
+    is a good signal in the opposite direction and one that's likely
+    computable.
+  - overall, this is a weak signal. you hardly need to pick a specific
+    character to throw a game. it's not fair to judge people for
+    playing the game the way they want to.
+    - the play decisions in the game are much more important.
+
+
+### Aberrant Voice Channel Configuration
+
+- if two or more players start out in the same group, but leave to
+  join team chat, this can be a harmless signal, but it is certainly
+  not an optimal signal.
 
 
 ### Matching Algorithms for Throwing Players So They Can Go Throw Themselves
