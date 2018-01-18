@@ -8,6 +8,10 @@ author:
 excerpt: ""
 ---
 
+- macrame/ta'veryn connection (the wheel of time: the web is like the
+  series of possibilities and it's shape is similar to that of
+  high-dimensional convergent knots)
+
 
 want to judge a society? Watch these four aspects:
 
@@ -43,6 +47,35 @@ want to judge a society? Watch these four aspects:
       interests?
       - why is that? because america is STRONG. you do not fight a
         STRONG enemy, you deceive them.
+
+- perhaps I am not a natural born leader, but i am a life-borne
+  leader. the longer that UNITERS like myself and people like me are
+  silenced and censored, the more i fear that our country cannot
+  possibly get itself together. we have moral superiority for leading
+  the world because we are diverse, but it is also an advantage. it is
+  what america is meant to do!
+  - but that is exactly why we are being subverted because other
+    countries do not have these advantages. If we let external
+    influences stir us to attack each other, prevent us from unifying
+    and censor those of us who are the strongest leaders, we will
+    never unite in time. Ben Franklin would say that we are a
+    rattlesnake lying in tattered pieces, ultimately rotting to death
+    because the pieces could not be reassembled before
+    sundown.
+
+### Divided we fall, united we stand! Ever heard that one before?
+
+we have never had more incentive to unite, but our enemies -- at the
+very zenith of both sociopolitical and socioeconomic competition!! --
+our enemies have NEVER had a greater incentive to break us apart. this
+should be obvious, but what's happening? we cannot afford this. if we
+continue to focus our attention and energy inward, we will collapse at
+the most critical point and an entire millenium will be spent arguing
+about why that happened.
+
+it's what happens to every empire: the arms and legs start thinking
+for themselves, instead of thinking about what's best for
+everyone. why is it so hard for people to put things behind us?
 
 - TODO: add <span id="fdsa-note"></span> to create a bootstrap label
   in <p> tags that can fold/unfold a quote/note below
