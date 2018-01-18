@@ -226,7 +226,8 @@ https://en.wikipedia.org/wiki/Half_cent_(United_States_coin)
     book](https://www.amazon.co.jp/%E6%97%A5%E6%9C%AC%E5%AE%B6%E7%B4%8B%E5%A4%A7%E5%9B%B3%E9%91%91-%E6%9C%AC%E7%94%B0-%E7%B7%8F%E4%B8%80%E9%83%8E/dp/4340031011)
     -- 日本家紋大図鑑.
 
-  - there's a video of someone flipping through this book on youtube
+  - there's a [video](https://www.youtube.com/watch?v=zwUp7tk_6s4) of
+    someone flipping through this book on youtube
 
 #### Familiarity with the story of the Red Ogre and Blue Ogre
 

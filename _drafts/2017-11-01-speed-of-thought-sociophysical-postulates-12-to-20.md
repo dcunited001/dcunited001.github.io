@@ -8,6 +8,42 @@ author:
 excerpt: ""
 ---
 
+
+want to judge a society? Watch these four aspects:
+
+- (1) how do they treat those they consider #Inferior? (Why would U even?)
+- (2) those considered #Exterior? (foreigners/pariahs)
+- (3) those considered #Neighbors, #Family & #Elders?
+- (4) those considered #Superior, #Leaders or #HERO's
+
+- A demoralized, corrupt, corroding society will score poorly on all
+  four of those. Take out respect for #4: then #1/2/3 will follow suit
+  & soon degrade.Undermine respect for #1/2/3: you'll never have the
+  respect for #4. There will soon be no more leaders or heroes!!
+  - And followers?
+    - If your leaders are weak, your followers are poorly focused and
+      out of phase.
+    - if your followers aren't permitted to be strong and
+      self-reliant, your leaders cannot build upon anything
+
+- it should be obvious that America is being attacked on ALL
+  FRONTS. never have we needed to be stronger and more united, but
+  never have each of those categories endured more corrosion and
+  ridicule.
+  - i still believe in strong borders and strong immigration
+    policy. Neither of those are xenophobic or even disrespectful. if
+    the people entering your country can't even respect your
+    immigration policy, what kind of citizens do you think they'll
+    make?
+    - at the same time, America's greatest strength is our
+      connectedness to the rest of the world. but we are entering the
+      MOST COMPETITVE PERIOD OF HUMAN HISTORY. so, does it surprise
+      you that those four elements/groups in society are being played
+      against each other with bad advice that serves foreign
+      interests?
+      - why is that? because america is STRONG. you do not fight a
+        STRONG enemy, you deceive them.
+
 - TODO: add <span id="fdsa-note"></span> to create a bootstrap label
   in <p> tags that can fold/unfold a quote/note below
 
