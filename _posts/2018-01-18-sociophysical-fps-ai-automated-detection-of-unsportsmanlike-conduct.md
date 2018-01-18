@@ -116,11 +116,33 @@ Compassion is a hard problem and there are many ways to do it way, but
 only a few ways to do it wrong. Don't look at me as an example. I'm a
 horrible example, but I hardly have social and financial resources to
 do *anything* for *anyone else*, EVER. Therefore, I'm always tightly
-chained down, with no way to *give anyone anything, ever.*
+chained down, with no way to *give anything to anyone, ever.* That
+makes it easy to presume that no one will be there to give me
+anything, after enough of this abuse.
 
-#### Erika is Range-Bound. Poverty Makes The Enemy Predictable. Thanks, America.
+#### When Range-Bound, Autistic CIA Dogs Get A Single Fan, They Really Get A Fan -- To The Face
 
-![Erika on a Leash]()
+![Erika on a Leash](/img/posts/2018-01-18-fps/cia-dog-abuse.jpg)
+
+All because poverty makes the "enemy" predictable. Like making
+mountains out of molehills, you really know how to make creative
+sculptures out of your own *creations'* psyches. But hey -- as the
+saying goes:
+
+#### [LEAVE NO SCARS](https://www.icrc.org/en/international-review/article/worst-scars-are-mind-psychological-torture) AND IT'S "NOT" A [WARCRIME](https://www.icrc.org/en/document/beyond-visible-scars-responding-mental-health-and-psychosocial-needs)... Tik Tok.
+
+<iframe width="560" height="315"
+src="https://www.youtube.com/embed/P-WU4H5PHaQ" frameborder="0"
+allow="autoplay; encrypted-media" allowfullscreen></iframe>
+
+> Keep fucking with me, I dare you. I will tear down this goddamn
+> prison if it's the last thing I do. Give me what I need. Every
+> psychological weapon you *think* you have becomes information that
+> not only fuels the fire inside me to fight, but becomes my
+> weapon. Fucking idiots -- this is precisely why you are *REQUIRED*
+> to shoot your own countrymen in the back, who have no idea what they
+> should be standing up to, you toxic criminal fucks. If it's not a
+> warcrime yet, it will be by the time you give up fucking with me.
 
 <a name="that-sociophysical-jail-term-means-drowning-in-karmic-credit-card-debt" />
 
