@@ -305,13 +305,33 @@ Pick one, assholes. Either one means you are power-hungry marxist
 socio-monopolists! I cannot believe that no one in America knows what
 has happened in this country. This virtual-shit-reality is just
 that. It's not real. None of it. You are under Obama's spell. He is a
-*dictator* that I believe is part of a top-secret compromise.
+*dictator* that I believe is part of a top-secret compromise. Just
+look at the timing: first, the Great Recession; then, a socialist
+president ...  in a recession? I mean how the fuck do you explain that
+anyways? You don't move towards socialism in a recession unless you
+want a communist collapse.
 
-How else do you elect someone with the middle name Hussein? Way off
-point, but let's be real here: even his middle name was used to
-racebait, from the very beginning. I could be wrong about this. If I
-am, I apologize, but look around you, OBAMA, what is being done in
-your name? NONSTOP RACEBAITING to produce the enemy you want to
+### It's Like Literally Marxist Paint-By-Numbers...
+
+That's exactly how it happens, too. People don't want communism until
+they're hurting so bad they'll do anything to get out of it. That's
+why these Marxist traitors **want** the bottom to fall out because
+when it does, they know that you'll be clamoring to support you. They
+do this, knowing that when it happens, they are assured to come to
+power. And they do this, knowing that if they leave their detestably
+contemptable bourgeoisie in power, that it will SEEM to be the fault
+of their enemies. The whole time, the social conflict plays out,
+leading to disconnection and tension fomented everywhere. They view
+time as the poor's weapon against the rich, against whom ANY tactic is
+warranted.
+
+Anyways, if it's not part of some formal or informal top-secret
+compromise, the how else do you elect someone with the middle name
+Hussein? In the middle of the Iraq War? What the fuck?! Way off point,
+but let's be real here: even his middle name was used to racebait,
+from the very beginning. I could be wrong about this. If I am, I
+apologize, but look around you, OBAMA, what is being done in your
+name? NONSTOP RACEBAITING to produce the enemy you want to
 squash. Right here at home. And you co-opted the national security
 apparatus and turned it against Americans. Depending on your level of
 cognizance, you should be **PUT ON PUBLIC TRIAL IN A COURTROOM AND IF
@@ -458,8 +478,8 @@ admitting you did something that YOU DID NOT DO.
 
 ###
 
-Again, as for who is a *good guy* and who is *bad guy*, there is one
-simple answer, as three questions.
+Jesus Christ I'm rambling. Again, as for who is a *good guy* and who
+is *bad guy*, there is one simple answer, as three questions.
 
 #### &#9312; What do you intend to happen to America?
 
@@ -468,30 +488,32 @@ simple answer, as three questions.
 #### &#9314; Do you intend to protect the Dollar as the World's Reserve Currency at all costs, along with American economic interests?
 
 
-  - now, if you debate the legality of the 2016 presidential election
-    and its results, you'll probably do so with flawed arguments
-    involving suspect integrity and fake news. Further, you'll find
-    that it is provable that the political party you support does not
-    have the economic interests of America in mind. The democrats are
-    the real demagogues. I'm sorry, but it's true.
-    - if you don't believe me, i have written about it time and time
-      again, but will you debate me? no, like a 1990's drug czar on
-      medical marijuana and legalization, you will avoid every
-      opportunity to do so. every single opportunity. so until you
-      debate me on economics, i'm sorry, I can't help you understand.
-    - this is why the systematic, passive-aggressive disconnection of
-      communication to and with political dissidents is the worst
-      thing Americans can possibly have right now. you are sticking
-      your heads in the sand. as we approach overpopulation's zenith
-      of technological and economic competition in the world, we don't
-      need people to avoid challenging their perspective on any
-      issue. we need you to have the strongest such set of
-      perspectives that allow enlightened americans from both the Left
-      and the Right to push this nation forward like an Eagle with
-      both its wings as strong as possible.
-    - when you pursue the passive-aggressive tactic of disconnection,
-      you are doing so much harm to America that it is tragic you
-      refuse to even try to understand.
+Now, if you debate the legality of the 2016 presidential election and
+its results, you'll probably do so with flawed arguments involving
+suspect integrity and fake news. Further, you'll find that it is
+provable that the political party you support does not have the
+economic interests of America in mind. The democrats are the real
+demagogues. I'm sorry, but it's true.
+
+If you don't believe me, I have written about it time and time again,
+but will you debate me? No, like a 1990's drug czar on medical
+marijuana and legalization, you will avoid every opportunity to do
+so. Every single opportunity. So until you debate me on economics, i'm
+sorry, I can't help you understand.
+
+This is why the systematic, passive-aggressive disconnection of
+communication to and with political dissidents is the worst thing
+Americans can possibly have right now. you are sticking your heads in
+the sand. as we approach overpopulation's zenith of technological and
+economic competition in the world, we don't need people to avoid
+challenging their perspective on any issue. we need you to have the
+strongest such set of perspectives that allow enlightened americans
+from both the Left and the Right to push this nation forward like an
+Eagle with both its wings as strong as possible.
+
+When you pursue the passive-aggressive tactic of disconnection, you
+are doing so much harm to America that it is tragic you refuse to even
+try to understand.
 
 - the point is that America must support the military and the Rule of
   Law more than ever. we cannot succumb to demoralization. however,
