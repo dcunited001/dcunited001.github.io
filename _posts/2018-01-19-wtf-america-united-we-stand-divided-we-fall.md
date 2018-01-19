@@ -13,31 +13,6 @@ excerpt: ""
 > bad actors were colluding with a foreign government. Sounds like
 > treason. #AidAndComfort #DeathPenalty
 
-#### You Need To Read This. I'm Betting My Life On My Story. It Will Never Be Erased
-
-![]()
-
-- his mask said 愛 -- pronounced **ai**. In Japanese. and Chinese,
-  this means "Love." LIKE MY OWN WRITINGS, IT'S TOO DAMN BAD NO ONE
-  COULD READ IT BECAUSE THEN THEY'D KNOW THE TRUTH. And wouldn't that
-  be unfortunate?
-  - this situation also led to me discovering implanted memories. I
-    remember talking about making it through the "vestibule" in the
-    White House. Trump was essentially in, according to my arbitrary,
-    insane interpretation of news stories and vague recollection of
-    discussions of what the "vestibule" is -- it's basically the White
-    House Airlock.
-    - If you google "sonic love" like I did, you'd find this episode
-      of "sonic the hedgehog" from freaking 1992 that described the
-      situation that I and the nation were in, perfectly. Sonic was
-      madly in love with an MKULTRA thotbot, but the 'ole dastardly
-      ruski, Dr. Robotnik, was conspiring to release large quantities
-      of "nuclear waste" on the land and there literally wasn't enough
-      water to cleanse everything. It's a lil too bad no one listend
-      to me in April 2016 and taht i didn't fully understand this or
-      any "codes" that were used to communicate with me during
-      "investigations"
-
 
 - that's what they were trying to prove. with FISA and with the
   Espionage act. but it wasn't true.
@@ -83,12 +58,59 @@ excerpt: ""
   - this individual was INNOCENT the whole time. these communist
     traitors have been smacked in the fucking face by reality for
     about three years.
+
+
+#### You Need To Read This. I'm Betting My Life On My Story. It Will Never Be Erased
+
+![]()
+
+- his mask said 愛 -- pronounced **ai**. In Japanese. and Chinese,
+  this means "Love." LIKE MY OWN WRITINGS, IT'S TOO DAMN BAD NO ONE
+  COULD READ IT BECAUSE THEN THEY'D KNOW THE TRUTH. And wouldn't that
+  be unfortunate?
+  - this situation also led to me discovering implanted memories. I
+    remember talking about making it through the "vestibule" in the
+    White House. Trump was essentially in, according to my arbitrary,
+    insane interpretation of news stories and vague recollection of
+    discussions of what the "vestibule" is -- it's basically the White
+    House Airlock.
+    - If you google "sonic love" like I did, you'd find this episode
+      of "sonic the hedgehog" from freaking 1992 that described the
+      situation that I and the nation were in, perfectly. Sonic was
+      madly in love with an MKULTRA thotbot, but the 'ole dastardly
+      ruski, Dr. Robotnik, was conspiring to release large quantities
+      of "nuclear waste" on the land and there literally wasn't enough
+      water to cleanse everything. It's a lil too bad no one listend
+      to me in April 2016 and taht i didn't fully understand this or
+      any "codes" that were used to communicate with me during
+      "investigations"
+
+> That's because none of this shit was EVER intended to be an
+> investigation. "It was psychological torture till you kill youself
+> because we all know you did 'it' -- whatever "it" is. DON'T tell us
+> because then they'll kill us, too." That's some real patriots right
+> there, I tell you. I sure hope those assholes don't win the
+> superbowl.
+
+And before you claim that I was conspiring, consider first all the
+lies and Catch-22's in this situation. Immediately afterwards,
+consider that NO ONE with access to all the information -- probably
+almost none of it -- wanted me to understand what was happening. How
+can I cooperate for the benefit of America, even if it means my own
+death, if I don't know what's happening?! I will hunt you criminal
+fucks down and make you pay by telling everyone about what you did to
+me until you put me down. And you won't, BECAUSE CHECKMATE AD
+INFINITUM YOU ASSHOLES. Public relations. Get you some.
+
+
+
   - as for who is a "good guy" and who is "bad guy" ? => there is one
     simple answer, as three questions:
     - what do you intend to happen to America?
     - do you intend to support the legally elected representatives?
     - do you intend to protect the Dollar as the World's Reserve
       Currency at all costs, along with American economic interests?
+
   - now, if you debate the legality of the 2016 presidential election
     and its results, you'll probably do so with flawed arguments
     involving suspect integrity and fake news. Further, you'll find
