@@ -213,6 +213,59 @@ find yourself used as the alchemical starting-material for black ops
 or worse. These communist traitors have been smacked in the fucking
 face by reality for about three years.
 
+#### An Example Ex Parte Proceeding -- AAA and BBB might as well be a single person.
+
+> "Sir, there's a problem. It's bad. We don't know how to get this guy
+> to go down." -- AAA
+>
+> "What's he doing. Do you know?" -- BBB
+>
+> "Of course we do, we il/legally monitor all communications and we've
+> pinned him down sociophysically by defaming and smearing his
+> character. He'll never work again, unless it's McDonalds" -- AAA
+>
+> "Well that's fantastic. It sounds like he's sociophysically primed
+> like a tree in a forest with no one around to hear him fall
+> down. Perfect. Take the shot." -- BBB
+>
+> "But you don't understand. The guys like Einstein or some shit and
+> we look like a bunch of shitdicks who raped him in the ass on a
+> train to Dashau. We used him as a punching back, gangraping him to
+> train HUMINT. It ... looks really, really bad." -- AAA
+>
+> "We'll that sounds really bad. FUCK! We can't deal with that. Kill
+> him." -- BBB
+>
+> "No, you don't get it. He sees everything coming, like the
+> terrifying prescient being that dominates the universe in
+> Dune. Every time we try to do anything, we fuck up. And the worst
+> part is that it's all our fault. We look horrible and everyone
+> supports him, though they're too scared to speak up." -- AAA
+>
+> "Well, it's not going to come back on me. That's for sure, I've
+> gotten my hands too dirty for this country to take a fall now. This
+> is all your fault and I'm a leader, so I should know. Make his
+> family do it, or they're obviously traitors acting as human shields
+> for a terrorist. You know how this works, right? Do you work for me?
+> Do you still work for me?  Because the second you don't, you're a
+> loose end. And we're killing his family members one by one in the
+> years after this operation is over." -- BBB
+>
+> "Sir, he's an American Citizen and hasn't actually committed any
+> crimes" -- AAA
+>
+> "No he's not. He's a Non-Enemy Combatant (NEC) and has no
+> rights. That sounds really bad, but you sound worse. Like a
+> traitor. If you don't make this happen, we'll have your NECK too." --
+> BBB
+>
+> "Fuck this shit." -- AAA
+>
+> "What's that?" -- BBB
+>
+> "... nothing! Hashtag 'National Security' ..." -- AAA
+
+
 #### You Need To Read This. I'm Betting My Life On My Story. It Will Never Be Erased
 
 ![]()
