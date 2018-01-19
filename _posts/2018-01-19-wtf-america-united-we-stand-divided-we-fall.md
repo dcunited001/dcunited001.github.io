@@ -8,57 +8,210 @@ author:
 excerpt: ""
 ---
 
-> Reword: As I posted in another group, a light bulb just went off. In
-> order to legally obtain warrants they had to demonstrate that the
-> bad actors were colluding with a foreign government. Sounds like
-> treason. #AidAndComfort #DeathPenalty
+There's some conjecture that Q's recent messages imply a need to
+demonstrate foriegn collusion to a FISA court, which is a little
+hilarious, considering FISA courts today are about as close to
+omniscience as humans can possibly get AND THEY STILL DON'T HAVE JACK
+SHIT. Perhaps, that's what they were trying to prove in my life -- I
+still don't know whether I have an active "Ex Parte" proceedings
+against me via FISA and the Espionage act. Regardless, none of it is
+true. The very part of my subconscious that's been conspiring against
+itself seems to have national security law experience -- knowledge of
+the kind of precedent which is never recorded. This is admittedly a
+very strange kind of Dissociative Personality Disorder, but that's not
+something I actually have.
 
+Here's what I have, in case your state shrinks can figure this
+out. They certainly can architect prolonged psychological torture, but
+are apparently incapable of accurately assessing someone. Treating
+someone? You can forget about that because if you can't admit the
+cause of the problem, it's a little difficult to fix all the
+downstream consequences of it. Nice that you can engage in witchhunts
+for retribution against a warcrimes victim who's speaking out --
+involving what must certainly be millions in budget for psychological
+torture -- but you can never admit you have a problem. These flacid
+pricks couldn't pop a balloon, even if they were thinking about
+setting someone up on child porn charges, since apparently that is
+their schtick.
 
-- that's what they were trying to prove. with FISA and with the
-  Espionage act. but it wasn't true.
+I've accumulated like eight different personality disorders and
+psychological complexes, most of which I should never have. This is in
+addition to Asperger's, the only psychological issue I should be
+wrestling with, in the best case.
 
--  the fallout and blowback of the scenario caused far more problems
-   than any threat ever could from "the situation" ... that's because
-   there was no threat except that which the US Gov't caused from its
-   own mishandled response, abject lack of investigative action and
-   utter inability for the left hand to know what the right hand was
-   doing.
-   - for our leaders, the last point is especially critical: this is
-     criminal negligence. no, it doesn't stem from the top. it stemmed
-     from political subversives who were misusing their authority to
-     attain the pragmatic and expedient advancement of political
-     ideals.
-   - this was not an investigation. it was systematic persecution,
-     isolation, defamation, etc.... from on out-of-control government
+#### &#9312; [Superiority Complex](https://en.wikipedia.org/wiki/Superiority_complex)
 
-- what you're going to find is that this out-of-control government was
-  on a single-minded path towards totalitarian COMMUNISM. we're living
-  in the aftermath of an aborted communist revolution.
-  - but Q said: "the good guys obtained warrants legally to monitor
-    the bad guys""
-    - it's hard for me to follow almost anything in these situations.
-    - no, i don't think that what Q said applied to me in particular,
-      but i am almost 100% certain that i am the victim of
-      exploitation using the heaviest-handed tools at the United
-      States' disposal: FISA and the Espionage Act
-    - no one talks about what i'm going through directly, so i'm going
-      to errantly assume that Q *is* talking about me for the purposes
-      of expositorily documented *what certainly has happened to me*.
-  - no. there was NO EFFORT to "monitor" the bad guys. only to figure
-    out how to assassinate the character, the career and potentially
-    the life of neutral AMERICAN CITIZEN(S) who have never traveled
-    outside of the country. EVER.
+#### &#9313; [Inferiority Complex](https://en.wikipedia.org/wiki/Inferiority_complex) -- Having both of these pushes people away constantly.
 
-- it was NOT an investigation. it was systemic harassment,
-  gaslighting, psychological torture, etc -- all magnified by
-  surveillance -- because NO investigation could honestly turn up any
-  evidence of wrong-doing because this individual (me) was never a
-  traitor, NEVER wanted to betray his country and was smart enough to
-  color within the lines.
-  - this individual was INNOCENT the whole time. these communist
-    traitors have been smacked in the fucking face by reality for
-    about three years.
+#### &#9314; [Attachment Disorder](https://en.wikipedia.org/wiki/Attachment_disorder) -- Perfect for ensuring social isolation!!
 
+#### &#9315; [PTSD](https://en.wikipedia.org/wiki/Posttraumatic_stress_disorder) -- Nope, I'm not joking.
+
+#### &#9316; [Persecution Complex](https://rationalwiki.org/wiki/Persecution_complex) -- The PTSD-inducing Trauma Practically Perpetuates Itself! PERFECT!!
+
+#### &#9317; Abject [Social Isolation](https://en.wikipedia.org/wiki/Social_isolation) and [Stigma Management](https://en.wikipedia.org/wiki/Stigma_management) -- Any shred of financial independence is undermined by sociopathic workplace bullies
+
+#### &#9318; [Repressed Memories](https://en.wikipedia.org/wiki/Repressed_memory) -- illegal to explain to me, ALLSO that it provokes [Dissociative Identity Disorder](https://en.wikipedia.org/wiki/Dissociative_identity_disorder), for which perhaps I am a mild case.
+
+#### &#9319; [Munchausen By Proxy](https://www.medicinenet.com/munchausen_syndrome_by_proxy/article.htm) via surveillance-empowered gaslighting
+
+It's interesting how profoundly some articles have changed on
+Wikipedia or disappeared, like a DSM-IX with half the pages ripped
+out. Munchausen by Proxy, that last one, is particularly relevant. The
+Munchausen by Proxy was facilitated by family and friends who were
+legally compelled to expoound actions that demonstrated they thought I
+was a traitor to prove that they were not. They were legally compelled
+by subversively coerced threats to at least completely ignore the
+gaslighting and certainly to never dismantle the mental conditions
+which made all the Black Magick possible.
+
+And -- speak of the devil -- I was encouraged to develop patterns of
+[magickal thinking](https://en.wikipedia.org/wiki/Magical_thinking),
+which were validated by surveillance, and used to further destabalize
+my psychology. Show me a mental health that believes this is
+acceptable, especially in the context of gaslighting, and I'll show
+you how that mental health professional needs to be prescribed a
+bullet to the head. Because that motherfucker probably has a contract
+with the CIA to aid psychological torture -- he's literally a traitor.
+
+When I wrote this, I wasn't resorting to hyperbole.
+
+> I think this really might be **the cruelest** thing that humanity
+> has ever done to someone in **recorded history**, all while actively
+> memory-holing that person's identity. It is unbelievably fucked
+> up. Did you get what you wanted? Did you get what they told you to
+> both want and fear? Were you ever in control? DID THEY PICK THE
+> RIGHT PERSON?
+
+#### Perfect Storm 2: It's Only a Coincidence For Weather Events
+
+> Starring George Clooney as Donald Trump and Mark Wahlberg as Donald
+> J. Trump.
+
+![Pulling the lever on the deep state](/img/posts/2018-01-19-wtf-america-united-we-stand-divided-we-fall/perfect-storm.jpg)
+
+If you don't understand Ex Parte case law, [I've written about it
+before](/posts/2017-02-21-civil-disobedience-and-operational-strategy-in-information-warfare.html#human-rights-and-rigorous-utilitarian-efficiency). It's
+too bad you're ALLSOO strongly discouraged from reading anything I
+write: in the same article, I describe a [fantastically novel "Perfect
+Storm" statistical
+paradox](/posts/2017-02-21-civil-disobedience-and-operational-strategy-in-information-warfare.html#i-might-be-an-idiot-savant-but-id-rather-just-be-a-savant)
+by referencing Algebraic Graph Theory and independence metrics for
+those aforementioned graphs.
+
+#### And here I could be contributing so much to society... But NOPE! Not in America.
+
+![How You Like Them Apples](/img/posts/2018-01-19-wtf-america-united-we-stand-divided-we-fall/how-you-like-them-apples.gif)
+
+If you're interested in Ex Parte case law, the seminal case is Ex
+Parte Milligan from the Civil War and Reconstruction era. The second
+Milligan case occured AFTER Milligan was fucking dead. In Ex Parte,
+the government has essentially already decided that you are guilty or
+they are going to make you guilty. All proceedings are tighly
+restricted. There is no prescribed process and it's likely that there
+are no records of cases, especially today.
+
+Back to the original conjecture on Q's messages: the fallout and
+blowback of the FISA/Parte scenario -- #HashtagFISAParty -- caused far
+more problems than any threat ever could from "the situation." That's
+because there was no threat except that which the US Gov't caused from
+its own mishandled response, abject lack of investigative action and
+utter inability for the left hand to know what the right hand was
+doing.
+
+Dear "leaders" -- the last point is especially critical: this is
+approaching criminal negligence. No, it doesn't stem from the
+top. This stems from political subversives who were misusing their
+authority to attain the pragmatic and expedient advancement of
+political ideals. This was not an investigation nor was it ever
+intended to be anything but a witch "trial." It was systematic
+persecution, isolation, defamation and kafkaesque abuse of power by
+both the left and the right -- I think? It stems from an
+out-of-control government, where puppeteered "leaders" eat fake cakes
+all damn day at fancy restaurants in Swamptown and don't care that
+they've sold their souls to special interests: as long as they keep
+allowing themselves to be used to protect those interests, or at least
+cancel out the real leaders on the other sides, they know they will be
+protected. **SPITS IN WASHINGTON D.C.'S FACE**
+
+What you're going to find is that this out-of-control government was
+on a single-minded path towards totalitarian COMMUNISM. We're living
+in the aftermath of an aborted communist revolution.
+
+### ["The Good Guys Obtained Warrants Legally To Monitor The Bad
+Guys"]()
+
+That's what Q said. Honestly Q is mixture of well-trained
+**intelligence operator** along with a bunch of people trying to game
+an anonomized messaging protocol to leverage it for attention and
+disruption. Some of that shit is real, though. It's as real as
+ANYTHING that has ever been posted on the internet. But more than half
+of it is fake -- both because many actors are trying to leverage this
+protocol for disruption and the "good guys" themselves don't exactly
+want to leave a trail of cookies for Malificent to follow them back to
+their Shangri-la of **not being psychologically tortured by the
+government.**
+
+That said, it's hard for me to follow almost anything in these
+situations. People have been trying to signal to me, but half those
+people are hijacking insecure protocols that I was never initiated on
+and trained in to encourage me to serve their interests and to
+facilitate my own demise.
+
+> "It practically cleans up after itself!!" -- The prototypical
+> pragmatically expedient, utilitarian marxist whose soul will be
+> going directly to the NINTH CIRCLE OF HELL.
+>
+> Do not collect $200.00 you asshole. If you threaten this nation's
+> prosperity for your own political purposes. I'm going to shove that
+> welfare check down your throat.  Try to play ethnicities against
+> each other one more time or any of your other fucking horrible
+> machiavellian mechninations one more time and I swear to God, I'll
+> spend the rest of my life hunting you down to make the bottom fall
+> out of enough of your Communist skulls to make sure the rest of you
+> assholes GO TO FUCKING CHURCH out of the sheer fear of God
+> ... fucking soulless, spineless assholes.
+>
+> The rest of you who need that welfare check? It's there for a reason
+> because the system doesn't work for everyone.
+
+And no, I don't think that what Q said applied to me in particular --
+but i am almost 100% certain that i am the victim of exploitation
+using the heaviest-handed tools at the United States' disposal: FISA
+and the Espionage Act. Or at least, I've been gaslighted by marxists
+to incept that idea, which begs the question: who the hell is
+surveilling me anyways and *HOW ARE THEY DOING IT?* Dear federal law
+enforcement agents, if you've been spending so much time
+"investigating" me or my life, why is it SOOO hard to protect me from
+such illicit surveillance? Or are you complete incapable of doing so
+-- DON'T ANSWER THAT! You'll terrify people.
+
+No one talks about what i'm going through directly. Therefore, I'll
+going to errantly assume that Q *is* talking about me for the purposes
+of expositorily documented *what certainly has happened to me*. It's
+hilarious when people try to tell me not to do this... OK, whatever. I
+believe talking about my problems will help solve them: so why do you
+want to get in my way so much anyways? Why am I never allowed to say
+anything? Oh .... right, so there's no paper trail and I can still get
+scrubbed out at any moment. Fix that bullshit and I would have felt a
+lot better the whole time.
+
+> The good guys obtained warrants legally to monitor the bad guys.
+
+No. In my case, there was NO EFFORT to "monitor" the bad guys. Only to
+figure out how to assassinate the character, the career and
+potentially the life of neutral *AMERICAN CITIZEN(S)* who have never
+traveled outside of the country. EVER.  It was NOT an
+investigation. It was systemic harassment, gaslighting, psychological
+torture, etc -- all magnified by surveillance. In my case, NO
+investigation would have ever turned up any evidence of wrong-doing
+because I was never a traitor, NEVER *wanted* to betray my country and
+was smart enough to color within the lines. I was innocent the whole
+time, but in these Ex Parte or FISA investigations, you may start out
+innocent, but the point is to find a way to MAKE YOU GUILTY. You will
+find yourself used as the alchemical starting-material for black ops
+or worse. These communist traitors have been smacked in the fucking
+face by reality for about three years.
 
 #### You Need To Read This. I'm Betting My Life On My Story. It Will Never Be Erased
 
@@ -92,17 +245,39 @@ excerpt: ""
 > there, I tell you. I sure hope those assholes don't win the
 > superbowl.
 
-And before you claim that I was conspiring, consider first all the
-lies and Catch-22's in this situation. Immediately afterwards,
-consider that NO ONE with access to all the information -- probably
-almost none of it -- wanted me to understand what was happening. How
-can I cooperate for the benefit of America, even if it means my own
-death, if I don't know what's happening?! I will hunt you criminal
+And before you claim that I was or am conspiring with foreign
+interests, consider first all the well-architected and cognizantl
+lies, then the meticulously leveraged Catch-22's in this
+situation. Immediately thereafter, consider that NO ONE with access to
+all the information -- probably almost none of it -- wanted me to
+understand what was happening. How would I know that -- by cooperating
+with someone who's trying to gaslight me into Stockholm Syndrome --
+I'm not actually cooperating with foreign interests. THIS IS WHY
+AMERICAN AGENTS OPERATING DOMESTICALLY CARRY FUCKING BADGES.
+
+How can I cooperate for the benefit of America, even if it means my
+own death, if I don't know what's happening?! I will hunt you criminal
 fucks down and make you pay by telling everyone about what you did to
 me until you put me down. And you won't, BECAUSE CHECKMATE AD
-INFINITUM YOU ASSHOLES. Public relations. Get you some.
+INFINITUM YOU ASSHOLES. Public relations. Get you some. You got
+problems, but you sure as hell aren't going to pigeonhole me. And I've
+been under a microscope the whole fucking time, essentially saying
+"I'm confused. I want to cooperate, but I don't want to hurt
+America. What do I do?" But this is the kind of soviet-style torture,
+albeit psychological, where they humiliate and degrade you into
+admitting you did something that YOU DID NOT DO.
 
-
+> Should I [quote
+> Horace](posts/2018-01-16-experimental-psychology-the-paradox-encyclopedia-and-how-to-beat-the-rokos-basilisk.html)
+> one more time? I fear dishonor worse than death. I'm sorry I went
+> FULL-TROTSKY and cucked your little Communist revolution. Yeh, I've
+> been sitting here in Salem, VA for three years and I've been waiting
+> on Stalin's little ice pick. I'm not stupid.
+>
+> One thing I've learned in my kafkaesque solitary confinement for the
+> past five years is that I simply do not have enough time to read
+> about all the myth, history, science and tech on Wikipedia that I'm
+> going to need to save my life tomorrow.
 
   - as for who is a "good guy" and who is "bad guy" ? => there is one
     simple answer, as three questions:
