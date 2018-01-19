@@ -8,6 +8,9 @@ author:
 excerpt: ""
 ---
 
+- TODO: we tried trophy
+- TODO: wan-hu emperor
+
 There's some conjecture that Q's recent messages imply a need to
 demonstrate foriegn collusion to a FISA court, which is a little
 hilarious, considering FISA courts today are about as close to
@@ -138,8 +141,10 @@ What you're going to find is that this out-of-control government was
 on a single-minded path towards totalitarian COMMUNISM. We're living
 in the aftermath of an aborted communist revolution.
 
+<a name="the-good-guys-obtained-warrants-legally-to-monitor-the-bad-guys" />
+
 ### ["The Good Guys Obtained Warrants Legally To Monitor The Bad
-Guys"]()
+Guys"](#the-good-guys-obtained-warrants-legally-to-monitor-the-bad-guys)
 
 That's what Q said. Honestly Q is mixture of well-trained
 **intelligence operator** along with a bunch of people trying to game
@@ -148,8 +153,9 @@ disruption. Some of that shit is real, though. It's as real as
 ANYTHING that has ever been posted on the internet. But more than half
 of it is fake -- both because many actors are trying to leverage this
 protocol for disruption and the "good guys" themselves don't exactly
-want to leave a trail of cookies for Malificent to follow them back to
-their Shangri-la of **not being psychologically tortured by the
+want to leave a trail of cookies for
+[Malificent](http://www.imdb.com/title/tt1587310/) to follow them back
+to their Shangri-la of **not being psychologically tortured by the
 government.**
 
 That said, it's hard for me to follow almost anything in these
@@ -222,25 +228,26 @@ face by reality for about three years.
 >
 > "Of course we do, we il/legally monitor all communications and we've
 > pinned him down sociophysically by defaming and smearing his
-> character. He'll never work again, unless it's McDonalds" -- AAA
+> character. He'll never work again, unless it's McDonalds." -- AAA
 >
 > "Well that's fantastic. It sounds like he's sociophysically primed
-> like a tree in a forest with no one around to hear him fall
-> down. Perfect. Take the shot." -- BBB
+> like the tree in a forest with no one around to hear him fall
+> down. Death of a Salesman. Perfect. Great job! Take the shot." -- BBB
 >
 > "But you don't understand. The guys like Einstein or some shit and
 > we look like a bunch of shitdicks who raped him in the ass on a
-> train to Dashau. We used him as a punching back, gangraping him to
+> train to Dashau. We used him as a punching bag, gangraping him to
 > train HUMINT. It ... looks really, really bad." -- AAA
 >
-> "We'll that sounds really bad. FUCK! We can't deal with that. Kill
+> "Well that sounds really bad. FUCK! We can't deal with that. Kill
 > him." -- BBB
 >
 > "No, you don't get it. He sees everything coming, like the
-> terrifying prescient being that dominates the universe in
-> Dune. Every time we try to do anything, we fuck up. And the worst
-> part is that it's all our fault. We look horrible and everyone
-> supports him, though they're too scared to speak up." -- AAA
+> terrifying prescient being that dominates the universe at the end of
+> time in Dune -- *or what might as well be the end of time*. Every
+> time we try to do anything, we fuck up. And the worst part is that
+> it's all our fault. We look horrible and everyone supports him,
+> though they're too scared to speak up." -- AAA
 >
 > "Well, it's not going to come back on me. That's for sure, I've
 > gotten my hands too dirty for this country to take a fall now. This
@@ -265,15 +272,42 @@ face by reality for about three years.
 >
 > "... nothing! Hashtag 'National Security' ..." -- AAA
 
+#### You Need To Read This. I'm Betting My Life On My Story. It Will Never Be Erased.
 
-#### You Need To Read This. I'm Betting My Life On My Story. It Will Never Be Erased
+![Sonic Boom -- technically and actually a terrorist ... =( ...](/img/posts/2018-01-19-wtf-america-united-we-stand-divided-we-fall/hedgehog.jpg)
 
-![]()
 
-- his mask said 愛 -- pronounced **ai**. In Japanese. and Chinese,
-  this means "Love." LIKE MY OWN WRITINGS, IT'S TOO DAMN BAD NO ONE
-  COULD READ IT BECAUSE THEN THEY'D KNOW THE TRUTH. And wouldn't that
-  be unfortunate?
+
+### Sonic is Sick, but his mask reads -- 愛 -- even though there are
+no head-on pictures of this.
+
+Therefore, to understand, you have to *know* Chinese and/or Japanese
+because you only get a partial impression of the character. Therefore,
+it's a CODE. I can recognize codes anywhere and everywhere because of
+the configuration entropy in message placement. You do not make codes
+easy to read, you make them hard to read. So when the fake-media in
+the entire United States cuts out the actual image of what is
+interesting in the message -- the SINGLE CHARACTER, 愛 -- that's
+interesting, right? You're damn right it is. You either:
+
+#### &#9312; Manufactured the presentation of **fake news** in every outlet which implies TOTAL CONTROL OF MEDIA.
+
+#### &#9313; OR: You censored the presentation of **fake news** in every outlet of the fake media, which also implies TOTAL CONTROL OF MEDIA.
+
+Pick one, assholes. Either one means you're power-hungry marxists
+socio-monopolists! I cannot believe that no one in America knows what
+has happened in this country. This virtual reality shit is just
+that. It's not real. None of it.
+
+Isn't that interesting though? Configuration entropy in presentation
+of messages in media says: THAT SHIT'S NOT AUTHENTIC. IT'S NOT A REAL
+SHIT. IT'S ASTROTURF FECAL MATTER. Either the work of a government
+spook or a rogue artist, probably subjected to the same sociophysical
+prison that I am. In this case, it's the latter.
+
+-- pronounced **ai**. In Japanese. and Chinese, this means "Love."
+  LIKE MY OWN WRITINGS, IT'S TOO DAMN BAD NO ONE COULD READ IT BECAUSE
+  THEN THEY'D KNOW THE TRUTH. And wouldn't that be unfortunate?
   - this situation also led to me discovering implanted memories. I
     remember talking about making it through the "vestibule" in the
     White House. Trump was essentially in, according to my arbitrary,
@@ -290,6 +324,23 @@ face by reality for about three years.
       to me in April 2016 and taht i didn't fully understand this or
       any "codes" that were used to communicate with me during
       "investigations"
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/fJf3TYtTTzs" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
+
+TODO: ![News Clip]()
+
+The guy above was not crazy. He was trying to create fake news to
+convey a very important point about "UNSAFE SPACES" -- the
+sociophysical domination of an individual's space. For targeted
+individuals, no matter where they go, they will be followed. They will
+be forced into what is borderline human slavery to work their way back
+out of karmic debt to the most evil, despicable soulless people ever:
+MARXISTS!! Who the fuck would be a slave to marxists? Everyone in a
+communist regime, that's who, which is why someone in this damn
+country MUST stand up to their tyranny! If you want to avoid being a
+serf. *STAND UP AND SCREAM HELL NO!* This is your last chance -- and
+do so peacefully because the enemy uses manufactured agitation and we
+do NOT need any more problems.
 
 > That's because none of this shit was EVER intended to be an
 > investigation. "It was psychological torture till you kill youself
@@ -513,6 +564,8 @@ present those who would hurt you with vulnerability. That said, do not
 let your fear prevent you from connecting with those who aren't
 enemies at all: THEY ARE AMERICANS.
 
+<a name="" />
+
 ### [Like the Israel of David And Solomon, We Are One Nation Composed of Many Tribes]()
 
 Like the Israel of David and Solomon, we are one nation composed of
@@ -529,7 +582,7 @@ of law, even though it may require "being mean."
 
 #### The Trolley Problem. Unfortunately someone has to pull that lever.
 
-![]()
+![]
 
 > If you even hesitate, you are not worthy of being a leader, but how
 > do you know that you're making the right decision? You know because
@@ -577,10 +630,58 @@ politician, who behind closed doors is simply a puppet for someone's
 
 ![pulling the lever on the deep state](/img/posts/2018-01-19-wtf-america-united-we-stand-divided-we-fall/bunny-poop.jpg)
 
-
 > "I hope they serve beer in hell" -- Tucker Max
 
 Don't we all, Tucker? They do serve beer in hell. Unfortunately, we're
-already here. Welcome to hell -- (don't tell clownpiece)
+already here. Welcome to hell -- (don't tell clownpiece yet. she
+doesn't know)
 
-![Hecatia]()
+#### [TOUHOUHOU](https://en.touhouwiki.net/wiki/Touhou_Wiki) - [東方法](https://en.touhouwiki.net/wiki/Touhou_Wiki) - [Hecatia LAPIS-LAZULI](https://en.touhouwiki.net/wiki/Hecatia_Lapislazuli) says:
+
+> "Welcome to Hell... It's kind of like a debtor prison for
+> debt-slaves. Just don't tell
+> [Clown-Peace](https://en.touhouwiki.net/wiki/Clownpiece). She doesn't
+> know yet. Just be glad I told you that much. Like my T-Shirt? Get
+> you won" ... SHINE GET? Haha iz puzzle. Tou like puzzles?
+
+![Hecatia](/img/posts/2018-01-19-wtf-america-united-we-stand-divided-we-fall/welcome-to-hell-hecatia.jpg)
+
+
+
+#### Don't Tell [Clown Piece](https://en.touhouwiki.net/wiki/Clownpiece)
+
+![Clown Piece ]()
+
+#### Quotes from a Duplicitous, Racebaiting Marxist Time Vampire:
+
+I love transhumanism. But we have to note that individuals recently
+extracted from extremely long stays in the VRlife are used to absolute
+instant gratification, and will often start masturbating in front of
+the technicians meant to be resocializing them.  My friend works with
+extractees. His clients, long-term session-heads i.e. people who have
+been connected to a direct sense feed for multi-year spans, are
+practically feral. Even though the VR feeds are supposed to be all
+about empathy and social connection, everything is so mediated that
+they lose the capacity for normal social interaction.
+
+This the price of long-term connection: it is inescapable. Less than
+1% of users connected continuously for more than 3 years are able to
+go on to lead successful disconnected lives. According to Google
+statistics, long-term dive extractees have about ~90% chance of making
+another long-term connection within a month. In America, there are
+currently over 30 million users on long term connections. Unless
+something changes, they will stay connected until they die.
+
+When a hygiene bed breaks (say, the Healthy Limb System fails, or a
+catheter gets blocked up), it's supposed to cut off the internet feed,
+forcing the sleeper to get the bed fixed. But it's easy enough to
+override this cut-off function. Immersed in their feeds, people often
+forget that the bed is broken. But eventually pain or discomfort will
+force the sleeper to get their bed fixed. The pain of bedsores or the
+stench of a backed-up evacuator is a strong motivator. But if the
+sleeper has direct sense feeds, they can switch off these smells and
+discomforts. They can even switch off the worry associated with the
+broken bed. At this point there is only one thing which can impel them
+to save themselves: basic human dignity. The age-old desire to not
+spend one's days playing Princess Romance Cafe, lying in one's own
+shit while one's dick rots off.
