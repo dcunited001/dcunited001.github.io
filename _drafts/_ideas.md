@@ -625,6 +625,24 @@ happening to stop it.
 
 ===============
 
+
+### Intelligence is not Necessarily Born, it's Made
+
+
+also. IQ is a number. every person of "average" intelligence -- single
+sigma deviation -- is similar. every person of +3 or more sigma
+deviation is their own genius. there is no genius that is like
+another.  this actually breaks down when you get to higher sigmas of
+devlation. so, like +4 and +5 sigma IQ, they are effectively capable
+of emulating all lower intelligences. (or so my non-authoritative
+understanding goes) and thus, hyperintelligence is convergent so
+intelligence itself is paradoxically both divergent and convergent,
+when intelligence is considered qualitatively
+
+- [user on "advanced mafs" recommends looking up profoundly gifted
+  (PG)](http://www.hoagiesgifted.org/underserved.htm)
+  -
+
 ### Personal Learning Process
 
 - possibly blog about my own learning process

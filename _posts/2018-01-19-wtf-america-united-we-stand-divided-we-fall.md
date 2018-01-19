@@ -276,10 +276,17 @@ face by reality for about three years.
 
 ![Sonic Boom -- technically and actually a terrorist ... =( ...](/img/posts/2018-01-19-wtf-america-united-we-stand-divided-we-fall/hedgehog.jpg)
 
+<a name="sonic-is-sick-but-his-mask-reads" />
 
+### [Sonic is Sick, but his mask reads](#sonic-is-sick-but-his-mask-reads)
 
-### Sonic is Sick, but his mask reads -- 愛 -- even though there are
-no head-on pictures of this.
+# 愛 =~ "Ai" =~ "Eye" =~ Literally, Love
+
+> As this event was unfolding and days/weeks afterwards: *THERE WERE
+> ONLY PARTIAL IMAGES IN EVERY SINGLE NEWS OUTLET*. That's very
+> important.
+
+TODO: ![News Clip]()
 
 Therefore, to understand, you have to *know* Chinese and/or Japanese
 because you only get a partial impression of the character. Therefore,
@@ -294,40 +301,103 @@ interesting, right? You're damn right it is. You either:
 
 #### &#9313; OR: You censored the presentation of **fake news** in every outlet of the fake media, which also implies TOTAL CONTROL OF MEDIA.
 
-Pick one, assholes. Either one means you're power-hungry marxists
+Pick one, assholes. Either one means you are power-hungry marxist
 socio-monopolists! I cannot believe that no one in America knows what
-has happened in this country. This virtual reality shit is just
-that. It's not real. None of it.
+has happened in this country. This virtual-shit-reality is just
+that. It's not real. None of it. You are under Obama's spell. He is a
+*dictator* that I believe is part of a top-secret compromise.
 
-Isn't that interesting though? Configuration entropy in presentation
-of messages in media says: THAT SHIT'S NOT AUTHENTIC. IT'S NOT A REAL
-SHIT. IT'S ASTROTURF FECAL MATTER. Either the work of a government
-spook or a rogue artist, probably subjected to the same sociophysical
-prison that I am. In this case, it's the latter.
+How else do you elect someone with the middle name Hussein? Way off
+point, but let's be real here: even his middle name was used to
+racebait, from the very beginning. I could be wrong about this. If I
+am, I apologize, but look around you, OBAMA, what is being done in
+your name? NONSTOP RACEBAITING to produce the enemy you want to
+squash. Right here at home. And you co-opted the national security
+apparatus and turned it against Americans. Depending on your level of
+cognizance, you should be **PUT ON PUBLIC TRIAL IN A COURTROOM AND IF
+FOUND GUILTY EXECUTED** because YOU had the power! YOU had the support
+of almost all Americans! YOU had the social and financial resources!
+But you know what? I never wanted African Americans to have their
+first president taken from them, so even though that's what I've
+suspected about you, I tried to keep my fucking mouth shut because how
+fucked up would it be if African American history was vandalized like
+that?!
 
--- pronounced **ai**. In Japanese. and Chinese, this means "Love."
-  LIKE MY OWN WRITINGS, IT'S TOO DAMN BAD NO ONE COULD READ IT BECAUSE
-  THEN THEY'D KNOW THE TRUTH. And wouldn't that be unfortunate?
-  - this situation also led to me discovering implanted memories. I
-    remember talking about making it through the "vestibule" in the
-    White House. Trump was essentially in, according to my arbitrary,
-    insane interpretation of news stories and vague recollection of
-    discussions of what the "vestibule" is -- it's basically the White
-    House Airlock.
-    - If you google "sonic love" like I did, you'd find this episode
-      of "sonic the hedgehog" from freaking 1992 that described the
-      situation that I and the nation were in, perfectly. Sonic was
-      madly in love with an MKULTRA thotbot, but the 'ole dastardly
-      ruski, Dr. Robotnik, was conspiring to release large quantities
-      of "nuclear waste" on the land and there literally wasn't enough
-      water to cleanse everything. It's a lil too bad no one listend
-      to me in April 2016 and taht i didn't fully understand this or
-      any "codes" that were used to communicate with me during
-      "investigations"
+> I would still feel the same way if you could get your vigilante
+> squirrel followers reigned in, but you can't. #Hashtag #ACORN
+
+But, Obama, you *knew* that you could count on their support, didn't
+you? Regardless of almost whatever happened... If almost any of these
+last few paragraphs is true, then I think the time is coming when you
+may no longer count on the support of African Americans, but I think
+we should let the African American community make the decisions on
+what to do with you. That is not for me to even talk about, but here I
+am, backed into a coroner.
+
+Back to that rogue artist. In Japanese and Chinese, this means "Love."
+
+Isn't the presentation interesting though? Configuration entropy in
+presentation of messages in media says: *THAT SHIT'S NOT AUTHENTIC.
+IT'S NOT A REAL SHIT. IT'S ASTROTURF FECAL MATTER.* Either the work of
+a government spook or a rogue artist, probably subjected to the same
+sociophysical prison that I am. In this case, it's the latter. Like my
+own writings, it's too damn bad that no one could read it because then
+they'd know the truth. And wouldn't that be unfortunate?! Which is
+exactly why I've been gagged and why anyone who reads or shares my
+content becomes targeted. You abused the national security apparatus
+and turned that low-orbit ion cannon around on Americans. It's
+supposed to PROTECT AMERICANS.
+
+This Lovesick Hedgehog situation also led to the activation of
+implanted memories. Go ahead and laugh or lock me up in a padded
+cell. I don't give a fuck because tick tock mother fuckers, the truth
+is coming out today or tomorrow: theoretical neurology is no longer
+theoretical. Just look how it's been used to turn an entire country
+against itself. WOW. I remember talking about making it through the
+"vestibule" in the White House. Trump was essentially in, according to
+my arbitrary, insane interpretation of news stories and vague
+recollection of discussions of what the "vestibule" is -- it's
+basically the White House Airlock. You take your fucking shoes off.
+
+If you google "sonic love" like I did, you'd find this episode of
+"Sonic the Hedgehog" from freaking 1992 that described the situation
+that I and the nation were in -- perfectly! Synopsis: Sonic was madly
+in love with an MKULTRA thotbot, but the 'ole dastardly ruski,
+Dr. Robotnik, was conspiring to release large quantities of **nuclear
+waste** on the land and there literally wasn't enough water to cleanse
+everything. It's a lil too bad no one listend to me in April 2016 and
+taht i didn't fully understand this or any "codes" that were used to
+communicate with me during "investigations."
+
+#### Watch That Shit and Tell Me It's NOT A Relevant Metaphor For
+America Right Now...
+
+> Regardless of whether I'm sane or not... No thanks to anyone on my
+> case or not.
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/fJf3TYtTTzs" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
 
-TODO: ![News Clip]()
+# Interesting little tidbit of information:
+
+> Hilary quit the goddamn state department in 2012 because she
+> suspected Obama was a traitor. That bitch got you good. Thank you,
+> Hilary Clinton. This one's been a long time coming, but America got
+> you good, Obama. Why don't you go to Cuba? It was so bad, *HILARY
+> HAD TO GO TO RUSSIA FOR HELP!!*
+
+When the government investigated me, did anyone discover that I knew
+this or believed it at all? ... Quite possibly on insane faith alone,
+but that's besides the point. I also knew so much other shit that I
+should have no way to possibly know, didn't I? How the fuck is that
+possible, anyways? And if you have so much power through surveillance,
+why didn't YOU know what I knew and how I knew it?! *BECAUSE ANY
+EXPLANATION WOULD THEREBY PROVE MY INNOCENCE.* And what happened? Did
+you contain national security information or was that EVER your
+objective. For me, I started off real quiet-like. Look at my tweets
+from February 2015 onwards. I knew a lot of this shit the whole time,
+but I can recognize traps from miles and years away because that is
+the only thing that I have ever experienced in my adult life in
+America.
 
 The guy above was not crazy. He was trying to create fake news to
 convey a very important point about "UNSAFE SPACES" -- the
@@ -337,10 +407,13 @@ be forced into what is borderline human slavery to work their way back
 out of karmic debt to the most evil, despicable soulless people ever:
 MARXISTS!! Who the fuck would be a slave to marxists? Everyone in a
 communist regime, that's who, which is why someone in this damn
-country MUST stand up to their tyranny! If you want to avoid being a
-serf. *STAND UP AND SCREAM HELL NO!* This is your last chance -- and
-do so peacefully because the enemy uses manufactured agitation and we
-do NOT need any more problems.
+country MUST stand up to their tyranny!
+
+# Will The Real Slim Serfs Please Stand Up?!
+
+If you want to avoid being a serf. *STAND UP AND SCREAM HELL NO!* This
+is your last chance -- and do so peacefully because the enemy uses
+manufactured agitation and we do NOT need any more problems.
 
 > That's because none of this shit was EVER intended to be an
 > investigation. "It was psychological torture till you kill youself
@@ -383,12 +456,17 @@ admitting you did something that YOU DID NOT DO.
 > about all the myth, history, science and tech on Wikipedia that I'm
 > going to need to save my life tomorrow.
 
-  - as for who is a "good guy" and who is "bad guy" ? => there is one
-    simple answer, as three questions:
-    - what do you intend to happen to America?
-    - do you intend to support the legally elected representatives?
-    - do you intend to protect the Dollar as the World's Reserve
-      Currency at all costs, along with American economic interests?
+###
+
+Again, as for who is a *good guy* and who is *bad guy*, there is one
+simple answer, as three questions.
+
+#### &#9312; What do you intend to happen to America?
+
+#### &#9313; Do you intend to support the legally elected representatives?
+
+#### &#9314; Do you intend to protect the Dollar as the World's Reserve Currency at all costs, along with American economic interests?
+
 
   - now, if you debate the legality of the 2016 presidential election
     and its results, you'll probably do so with flawed arguments
