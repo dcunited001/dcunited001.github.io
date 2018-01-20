@@ -5,11 +5,8 @@ tags: "psychology neuro"
 headline: "Want to know what's happening in America and Why It's Not The End of The Republic?"
 author:
   name: "David Conner"
-excerpt: ""
+excerpt: "Should I quote Horace one more time? I fear dishonor worse than death. I'm sorry I went full Trotsky and cucked your little Communist revolution. Yeh, I've been sitting here in Salem, VA for three years and I've been waiting on Stalin's little ice prick. I'm not stupid."
 ---
-
-- TODO: we tried trophy
-- TODO: wan-hu emperor
 
 There's some conjecture that Q's recent messages imply a need to
 demonstrate foriegn collusion to a FISA court, which is a little
@@ -271,9 +268,9 @@ face by reality for about three years.
 >
 > "... nothing! Hashtag 'National Security' ..." -- AAA
 
-#### You Need To Read This. I'm Betting My Life On My Story. It Will Never Be Erased.
+#### You Need To Read This. [I'm Betting My Life On My Story](https://www.usatoday.com/story/news/2016/04/28/man-hedgehog-suit-nabbed-after-tv-station-bomb-threat/83660280/). It Will Never Be Erased.
 
-![Sonic Boom -- technically and actually a terrorist ... =( ...](/img/posts/2018-01-19-wtf-america-united-we-stand-divided-we-fall/hedgehog.jpg)
+![Sonic Boom -- technically and actually a terrorist...](/img/posts/2018-01-19-wtf-america-united-we-stand-divided-we-fall/hedgehog.jpg)
 
 <a name="sonic-is-sick-but-his-mask-reads" />
 
@@ -285,7 +282,9 @@ face by reality for about three years.
 > ONLY PARTIAL IMAGES IN EVERY SINGLE NEWS OUTLET*. That's very
 > important.
 
-TODO: ![News Clip]()
+<iframe width="560" height="315"
+src="https://www.youtube.com/embed/OyPoE9Udmxo" frameborder="0"
+allow="autoplay; encrypted-media" allowfullscreen></iframe>
 
 Therefore, to understand, you have to *know* Chinese and/or Japanese
 because you only get a partial impression of the character. Therefore,
@@ -308,9 +307,13 @@ that. It's not real. None of it. You are under Obama's spell. He is a
 look at the timing: first, the Great Recession; then, a socialist
 president ...  in a recession? I mean how the fuck do you explain that
 anyways? You don't move towards socialism in a recession unless you
-want a communist collapse.
+want a communist
 
-### It's Like Literally Marxist Paint-By-Numbers...
+I don't want to ruin it, but you need to watch [No Game, No
+Life](http://www.crunchyroll.com/no-game-no-life) all the way
+through. If the top-secret compromise idea were to be true...
+
+### [It's Like Literally Marxist Paint-By-Numbers...](#its-like-literally-marxist-paint-by-numbers)
 
 That's exactly how it happens, too. People don't want communism until
 they're hurting so bad they'll do anything to get out of it. That's
@@ -353,7 +356,9 @@ we should let the African American community make the decisions on
 what to do with you. That is not for me to even talk about, but here I
 am, backed into a coroner.
 
-Back to that rogue artist. In Japanese and Chinese, this means "Love."
+<a name="back-to-that-rogue" />
+
+### [Back to that rogue](#back-to-that-rogue) [Belarusian artist](https://en.wikipedia.org/wiki/2017_Belarusian_protests)...
 
 Isn't the presentation interesting though? Configuration entropy in
 presentation of messages in media says: *THAT SHIT'S NOT AUTHENTIC.
@@ -392,7 +397,7 @@ communicate with me during "investigations."
 America Right Now...
 
 > Regardless of whether I'm sane or not... No thanks to anyone on my
-> case or not.
+> case, of course.
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/fJf3TYtTTzs" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
 
@@ -428,7 +433,7 @@ MARXISTS!! Who the fuck would be a slave to marxists? Everyone in a
 communist regime, that's who, which is why someone in this damn
 country MUST stand up to their tyranny!
 
-# Will The Real Slim Serfs Please Stand Up?!
+# [Will The Real Slim Serfs Please Stand Up?!](#will-the-real-slim-serfs-please-stand-up)
 
 If you want to avoid being a serf. *STAND UP AND SCREAM HELL NO!* This
 is your last chance -- and do so peacefully because the enemy uses
@@ -475,7 +480,7 @@ admitting you did something that YOU DID NOT DO.
 > about all the myth, history, science and tech on Wikipedia that I'm
 > going to need to save my life tomorrow.
 
-###
+### Three Simple Questions Before I Let You Across This Bridge...
 
 Jesus Christ I'm rambling. Again, as for who is a *good guy* and who
 is *bad guy*, there is one simple answer, as three questions.
@@ -485,7 +490,6 @@ is *bad guy*, there is one simple answer, as three questions.
 #### &#9313; Do you intend to support the legally elected representatives?
 
 #### &#9314; Do you intend to protect the Dollar as the World's Reserve Currency at all costs, along with American economic interests?
-
 
 Now, if you debate the legality of the 2016 presidential election and
 its results, you'll probably do so with flawed arguments involving
@@ -548,7 +552,7 @@ what they are, then we will find the moral and economic foundations of
 this country undermined faster than it takes for you to retweet that
 fake news.
 
-### Do You Attack A Strong Adversary?
+### [Do You Attack A Strong Adversary?](#do-you-attack-a-strong-adversary)
 
 NO! You deceive a strong adversary. You outwit them. You outmaneuver
 them because whereever they thought you were going to be -- you were
@@ -562,7 +566,7 @@ sociological tactics that foment trust issues and burden our society
 like Sysyphys with a long-term collective mental health bill of
 catastrophic proportions?
 
-### Look to the Left. Look to the Right. Do You Trust That Person?
+### [Look to the Left. Look to the Right. Do You Trust That Person?](#look-to-the-left-look-to-the-right)
 
 How the hell can we expect for a society burdened with extreme trust
 issues to function together as a team?! So, moving forward, these
@@ -579,7 +583,7 @@ they fear into 13 pieces?
 > Terrorist](https://www.gutenberg.org/files/20203/20203-h/20203-h.htm),
 > last time I [checked](https://en.wikipedia.org/wiki/Junto_(club)).
 
-![Pic of The Flag With the Rattlesnake]()
+![Join Or Die](/img/posts/2018-01-19-wtf-america-united-we-stand-divided-we-fall/join-or-die.jpg)
 
 Benjamin Franklin seemed to care a lot about about "Life, Liberty and
 the Pursuit of Happiness." The last one -- the very pursuit of
@@ -699,8 +703,7 @@ rule of law will deteriorate.
 
 <a name="the-tower-of-babel-crumbles-always-because-of-its-intrinsic-nature" />
 
-### [The Tower of Babel Crumbles Always Because of It's Intrinsic
-Nature](#the-tower-of-babel-crumbles-always-because-of-its-intrinsic-nature)
+### [The Tower of Babel Crumbles Always Because of It's Intrinsic Nature](#the-tower-of-babel-crumbles-always-because-of-its-intrinsic-nature)
 
 Why did the symbol of the tower of babel fall? This tower represents
 the *first* "greatest" empire and their universal language represents
@@ -747,11 +750,6 @@ heroes, even when we may disagree with them strongly. We must be
 willing to approach circumstances strategically and protect the rule
 of law, even though it may require "being mean."
 
-- repost content from tweets on how the end of racism is approaching
-
-- TODO: trolley one
-- TODO: trolley variants
-
 ### The Trolley Problem. Who pulls the Lever?
 
 > Unfortunately, someone has to pull that lever. Who's it going to be?
@@ -782,9 +780,25 @@ THREE, NO, TEN YEARS.
 
 #### Variants on the Trolley Problem.
 
-Go read a [/r/philosophy](http://reddit.com/r/philosophy)
-subreddit. It's all those Marxist assholes do: post memes because
-they've happy with their self-censorship.
+> Go read a [/r/philosophy](http://reddit.com/r/philosophy)
+> subreddit. It's all those Marxist assholes do: post memes because
+> they've happy with their self-censorship. They believe that if you
+> eliminate unwanted thoughts/ideas from a space, you eliminate them
+> for good because they don't exist outside of space and time. LMFAO,
+> suckers. I guess [imaginary
+> numbers](https://www.youtube.com/watch?v=DThAoT3q2V4) don't exist
+> either, by that logic. Holy shit, those things really jumped right
+> into our universe didn't they. Where'd they come from?
+>
+> [Bombelli](https://en.wikipedia.org/wiki/Rafael_Bombelli) says:
+> "specific types of cubic polynomials with real solutions but
+> quadratic roots requiring complex factors." Therefore, because you
+> cannot destroy things that exist outside of space and time, you've
+> actually already lost and you're too arrogant to admit it. Worse,
+> you're too self-censored to know it -- you can't even look at the
+> things you need to know to survive. You can't see these things:
+> *THEY EXIST OUTSIDE OF TIME AND SPACE, LIKE GOD*. And your
+> materialist metaphysics converges to their ideals. ALWAYS.
 
 ![Trolley Variants](/img/posts/2018-01-19-wtf-america-united-we-stand-divided-we-fall/trolley-variants.png)
 
@@ -810,7 +824,7 @@ this by puppeteering our leaders. What good is the spotless
 politician, who behind closed doors is simply a puppet for someone's
 "special" interests?
 
-### [I'm About To Pull the Lever on the Deep State]()
+### [I'm About To Pull the Lever on the Deep State](#im-about-to-pull-the-lever-on-the-deep-state)
 
 ![pulling the lever on the deep state](/img/posts/2018-01-19-wtf-america-united-we-stand-divided-we-fall/bunny-poop.jpg)
 
@@ -988,7 +1002,7 @@ if we don't fall apart domestically
 
 #### Oh He Doesn't Even Have A PLAN?
 
-... I'm laughing my fucking ass off, but i really need you assholes to
+... I'm laughing my fucking ass off, but I really need you assholes to
 stop humiliating me and get the fuck out of the way.
 
 #### Don't Tell [Clown Piece](https://en.touhouwiki.net/wiki/Clownpiece
