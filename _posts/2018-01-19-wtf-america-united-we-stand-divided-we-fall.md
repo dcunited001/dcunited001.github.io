@@ -590,8 +590,7 @@ happiness -- *LITERALLY THE AMERICAN DREAM* -- was worth more than
 property to both Benjamin Franklin and Thomas Jefferson. Do you have
 happiness in sociomonopolist Marxist societies? I'm not sure, but you
 sure as hell don't have property. You can't even save money. Read my
-draft on [Our Revolution of
-Empowerment](https://github.com/dcunited001/dcunited001.github.io/blob/sources/_drafts/our-revolution-of-empowerment-engineering-diffusion-of-influence.md).
+draft on [Our Revolution of Empowerment](https://github.com/dcunited001/dcunited001.github.io/blob/sources/_drafts/our-revolution-of-empowerment-engineering-diffusion-of-influence.md).
 
 <a name="assess-the-health-of-these-four-social-pillars" />
 
@@ -608,50 +607,72 @@ social pillars.
 
 #### &#9315; How do they treat those considered superior, like leaders and hero's?
 
-- A demoralized, corrupt, corroding society will score poorly on all
-  four of those. Take out respect for #4: then #1/2/3 will follow suit
-  & soon degrade.Undermine respect for #1/2/3: you'll never have the
-  respect for #4. There will soon be no more leaders or heroes!!
-  - And followers?
-    - If your leaders are weak, your followers are poorly focused and
-      out of phase.
-    - if your followers aren't permitted to be strong and
-      self-reliant, your leaders cannot build upon anything
+A demoralized, corrupt, corroding society will score poorly on all
+four of those. When you undermine respect for the fourth, then the
+first three will follow suit and soon degrade. Undermine respect for
+any of the first three and the last will corrode shortly, replentished
+not often enough. Soon, there will be too few leaders and heroes!!
+Certainly, not enough upstanding citizen leaders for the next
+generation to share.
 
-- it should be obvious that America is being attacked on ALL
-  FRONTS. never have we needed to be stronger and more united, but
-  never have each of those categories endured more corrosion and
-  ridicule.
-  - i still believe in strong borders and strong immigration
-    policy. Neither of those are xenophobic or even disrespectful. if
-    the people entering your country can't even respect your
-    immigration policy, what kind of citizens do you think they'll
-    make?
-    - at the same time, America's greatest strength is our
-      connectedness to the rest of the world. but we are entering the
-      MOST COMPETITVE PERIOD OF HUMAN HISTORY. so, does it surprise
-      you that those four elements/groups in society are being played
-      against each other with bad advice that serves foreign
-      interests?
-      - why is that? because america is STRONG. you do not fight a
-        STRONG enemy, you deceive them.
+As for followers: if your leaders and heroes are weak or unwilling to
+sacrifice, then your followers are poorly focused and their
+sociophysical energy quickly decoheres and becomes out of phase. If
+your followers aren't permitted to be strong and self-reliant, your
+leaders have little sociophysical energy to invest in building
+anything. Whatever you've built thus far will begin to wax and wane,
+like a mansion on the coast, falling into wetlands from climate
+change. Eventually, crumbling to pieces as new tide tears apart the
+earth beneath it.
 
-- perhaps I am not a natural born leader, but i am a life-borne
-  leader. the longer that UNITERS like myself and people like me are
-  silenced and censored, the more i fear that our country cannot
-  possibly get itself together. we have moral superiority for leading
-  the world because we are diverse, but it is also an advantage. it is
-  what america is meant to do!
-  - but that is exactly why we are being subverted because other
-    countries do not have these advantages. If we let external
-    influences stir us to attack each other, prevent us from unifying
-    and censor those of us who are the strongest leaders, we will
-    never unite in time. Ben Franklin would say that we are a
-    rattlesnake lying in tattered pieces, ultimately rotting to death
-    because the pieces could not be reassembled before
-    sundown.
+It should be obvious that America is being attacked on ALL
+FRONTS. Never have we needed to be stronger and more united, but never
+have each of those categories endured more corrosion and ridicule.  I
+still believe in strong borders and strong immigration policy. Neither
+of those are xenophobic or even disrespectful. If the people entering
+your country can't even respect your immigration policy, what kind of
+citizens will they make? It's not certain and I'm saying we want an
+immigration policy that ensures we bet on the right individuals and
+families to become citizens and strong connections to nations around
+the world. Is it selfish for a leader to want strong success stories
+for American immigrants?
 
-### Divided we fall, united we stand! Ever heard that one before?
+America's greatest strength is our connectedness to the rest of world,
+but we are entering the most competitive period of human history. So,
+does it surprise you that those four social pillars in society are
+being played against each other with bad advice that serves foreign
+interests? And why is that? It's because america is STRONG. Again, you
+do not fight a strong enemy, you deceive them.
+
+Perhaps I am not a natural born leader, but i am a life-borne
+leader. The longer that uniters like myself and those we influence are
+silenced and censored, the more I fear that our country cannot
+possibly get itself together. Around the globe: America IS number
+one. America first and lets bring all the other most
+culturally-connected nations with us: Canada, UK, France, Germany,
+Russia and Japan. But America has the moral superiority for leading
+the world because we are the most diverse and that is our greatest
+advantage. It is what america is meant to do!
+
+I believe that it may be what the "illuminati" wanted throughout
+history. Otherwise, at this most competitive point in history, an
+overpopulated world would degenerate into chaotic turmoil, which would
+invariably foment racism, as conflict throughout history was always
+wont to do.
+
+Our strength is exactly why we are being subverted because other
+countries do not have these advantages to this degree. Our social
+connectedness makes our nations natural leaders. If we let external
+influences stir us to attack each other, prevent us from unifying and
+censor those of us who are the strongest leaders, we will never unite
+in time. Ben Franklin would say that we are a rattlesnake lying in
+tattered pieces, ultimately rotting to death because the pieces could
+not be reassembled before sundown.
+
+<a name="divided-we-fall-united-we-stand-ever-heard-that-one-before" />
+
+### [Divided we fall, united we stand! Ever heard that one
+before?](#divided-we-fall-united-we-stand-ever-heard-that-one-before)
 
 we have never had more incentive to unite, but our enemies -- at the
 very zenith of both sociopolitical and socioeconomic competition!! --
@@ -680,7 +701,10 @@ long. You must ensure that the social contract is maintained. If the
 authorities do not serve the people, respect for the state and the
 rule of law will deteriorate.
 
-### [The Tower of Babel Crumbles Always Because of It's Intrinsic Nature]()
+<a name="the-tower-of-babel-crumbles-always-because-of-its-intrinsic-nature" />
+
+### [The Tower of Babel Crumbles Always Because of It's Intrinsic
+Nature](#the-tower-of-babel-crumbles-always-because-of-its-intrinsic-nature)
 
 Why did the symbol of the tower of babel fall? This tower represents
 the *first* "greatest" empire and their universal language represents
@@ -714,9 +738,9 @@ present those who would hurt you with vulnerability. That said, do not
 let your fear prevent you from connecting with those who aren't
 enemies at all: THEY ARE AMERICANS.
 
-<a name="" />
+<a name="like-the-israel-of-david-and-solomon-we-are-one-nation-composed-of-many-tribes" />
 
-### [Like the Israel of David And Solomon, We Are One Nation Composed of Many Tribes]()
+### [Like the Israel of David And Solomon, We Are One Nation Composed of Many Tribes](#like-the-israel-of-david-and-solomon-we-are-one-nation-composed-of-many-tribes)
 
 Like the Israel of David and Solomon, we are one nation composed of
 many tribes, but we are ONE NATION. We are strongest when we are ONE
@@ -730,7 +754,9 @@ of law, even though it may require "being mean."
 - repost content from tweets on how the end of racism is approaching
 
 
-#### The Trolley Problem. Unfortunately someone has to pull that lever.
+### The Trolley Problem. Who pulls the Lever?
+
+> Unfortunately, someone has to pull that lever. Who's it going to be?
 
 ![]
 
