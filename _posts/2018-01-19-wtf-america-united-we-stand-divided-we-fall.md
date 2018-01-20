@@ -138,13 +138,12 @@ cancel out the real leaders on the other sides, they know they will be
 protected. **SPITS IN WASHINGTON D.C.'S FACE**
 
 What you're going to find is that this out-of-control government was
-on a single-minded path towards totalitarian COMMUNISM. We're living
-in the aftermath of an aborted communist revolution.
+on a single-minded path towards totalitarian **communism**. We're
+living in the aftermath of an aborted communist revolution.
 
 <a name="the-good-guys-obtained-warrants-legally-to-monitor-the-bad-guys" />
 
-### ["The Good Guys Obtained Warrants Legally To Monitor The Bad
-Guys"](#the-good-guys-obtained-warrants-legally-to-monitor-the-bad-guys)
+### ["The Good Guys Obtained Warrants Legally To Monitor The Bad Guys"](#the-good-guys-obtained-warrants-legally-to-monitor-the-bad-guys)
 
 That's what Q said. Honestly Q is mixture of well-trained
 **intelligence operator** along with a bunch of people trying to game
@@ -528,17 +527,15 @@ doesn't matter whose fault this is.
 
 #### Overwatch Easter Egg: Stay On Point And Mercy Gives You Dank Heels
 
-> Dank Heels == I have no idea, but I want some. That's like not even
-> a no-brainer. I'm sure Mercy will explain. Whatever it is, I bet you
-> get out of bronze real fast. Not much those Time Vampires can do
-> once you get out because they can't get up the ranks.
+> What are dank heels? I have no idea, but I want some. That's like
+> not even a no-brainer. I'm sure Mercy will explain. Whatever it is,
+> I bet you get out of bronze real fast. Not much those Time Vampires
+> can do once you get out because they can't get up the ranks.
 
-![Dank Heels == I have no idea, but i want some](/img/posts/2018-01-19-wtf-america-united-we-stand-divided-we-fall/get-on-point.jpg)
-
-
+![Dank Heels == I Have No Idea ... But I Want Some](/img/posts/2018-01-19-wtf-america-united-we-stand-divided-we-fall/get-on-point.jpg)
 
 The point is that America must support the military and the Rule of
-Law more than ever. we cannot succumb to demoralization. however, the
+Law more than ever. We cannot succumb to demoralization. However, the
 government works for the people. Not the other way around. We must
 find peaceful ways to ensure that the government serves the interests
 of ALL citizens and ALL residents of America.
@@ -553,7 +550,7 @@ fake news.
 
 ### Do You Attack A Strong Adversary?
 
-NO! you deceive a strong adversary. You outwit them. You outmaneuver
+NO! You deceive a strong adversary. You outwit them. You outmaneuver
 them because whereever they thought you were going to be -- you were
 never there. At the same time, there's moral deception, morally
 ambiguous deception and ... whatever it is those marxist time vampires
@@ -671,21 +668,20 @@ not be reassembled before sundown.
 
 <a name="divided-we-fall-united-we-stand-ever-heard-that-one-before" />
 
-### [Divided we fall, united we stand! Ever heard that one
-before?](#divided-we-fall-united-we-stand-ever-heard-that-one-before)
+### [Divided we fall, united we stand! Ever heard that one before?](#divided-we-fall-united-we-stand-ever-heard-that-one-before)
 
-we have never had more incentive to unite, but our enemies -- at the
+We have never had more incentive to unite, but our enemies -- at the
 very zenith of both sociopolitical and socioeconomic competition!! --
-our enemies have NEVER had a greater incentive to break us apart. this
-should be obvious, but what's happening? we cannot afford this. if we
+our enemies have NEVER had a greater incentive to break us apart. This
+should be obvious, but what's happening? we cannot afford this. If we
 continue to focus our attention and energy inward, we will collapse at
 the most critical point and an entire millenium will be spent arguing
 about why that happened.
 
 It's what happens to every empire: the arms and legs start thinking
-for themselves, instead of thinking about what's best for
-everyone. why is it so hard for people to put things behind us? This
-is literally why EVERY empire is doomed to fail: because its arms and
+for themselves, instead of thinking about what's best for everyone.
+Why is it so hard for people to put things behind us? This is
+literally why EVERY empire is doomed to fail: because its arms and
 legs begin to realize they function to feed the head, but can instead
 turn on themselves to better serve their own interests. Therefore,
 every empire eventually must acknowledge that the social contract is
@@ -753,12 +749,16 @@ of law, even though it may require "being mean."
 
 - repost content from tweets on how the end of racism is approaching
 
+- TODO: trolley one
+- TODO: trolley variants
 
 ### The Trolley Problem. Who pulls the Lever?
 
 > Unfortunately, someone has to pull that lever. Who's it going to be?
 
-![]
+<iframe width="560" height="315"
+src="https://www.youtube.com/embed/bOpf6KcWYyw" frameborder="0"
+allow="autoplay; encrypted-media" allowfullscreen></iframe>
 
 > If you even hesitate, you are not worthy of being a leader, but how
 > do you know that you're making the right decision? You know because
@@ -779,6 +779,14 @@ criminally insane joke ever. It's fueled by a nation looking for
 scapegoats to blame problems on which it believes cannot be solved. I
 CAN SOLVE YOUR GODDAMN PROBLEMS. I HAVE BEEN TRYING TO SAY THAT FOR
 THREE, NO, TEN YEARS.
+
+#### Variants on the Trolley Problem.
+
+Go read a [/r/philosophy](http://reddit.com/r/philosophy)
+subreddit. It's all those Marxist assholes do: post memes because
+they've happy with their self-censorship.
+
+![Trolley Variants](/img/posts/2018-01-19-wtf-america-united-we-stand-divided-we-fall/trolley-variants.png)
 
 Who is worthy of being the leader? Who do you want to pull that lever
 in the trolley problem? You want the smartest damn moral
@@ -809,10 +817,10 @@ politician, who behind closed doors is simply a puppet for someone's
 > "I hope they serve beer in hell" -- Tucker Max
 
 Don't we all, Tucker? They do serve beer in hell. Unfortunately, we're
-already here. Welcome to hell -- (don't tell clownpiece yet. she
-doesn't know)
+already here. Welcome to hell -- Don't tell clownpiece yet. She
+doesn't know.
 
-#### [TOUHOUHOU](https://en.touhouwiki.net/wiki/Touhou_Wiki) - [東方法](https://en.touhouwiki.net/wiki/Touhou_Wiki) - [Hecatia LAPIS-LAZULI](https://en.touhouwiki.net/wiki/Hecatia_Lapislazuli) says:
+#### [Touhouhou](https://en.touhouwiki.net/wiki/Touhou_Wiki) - [東方法](https://en.touhouwiki.net/wiki/Touhou_Wiki) - [Hecatia Lapis-Lazuli](https://en.touhouwiki.net/wiki/Hecatia_Lapislazuli) says:
 
 > "Welcome to Hell... It's kind of like a debtor prison for
 > debt-slaves. Just don't tell
@@ -822,42 +830,175 @@ doesn't know)
 
 ![Hecatia](/img/posts/2018-01-19-wtf-america-united-we-stand-divided-we-fall/welcome-to-hell-hecatia.jpg)
 
+And ... again to corral all these tangents back for all the marbles.
+I have no idea, really, but I know that whatever has happened, it's
+not exactly secret. It seems that were people who have been used as
+bait to get these deep state actors to try to show their true colors.
 
+#### Oh noez! You lost your marbles, you can't play no more and now they crushed your [@Jack](http://twitter.com/jack)'s
 
-#### Don't Tell [Clown Piece](https://en.touhouwiki.net/wiki/Clownpiece)
+![Cat's Eye Marbles](/img/posts/2018-01-19-wtf-america-united-we-stand-divided-we-fall/cats-eye-marbles.jpg)
 
-![Clown Piece ]()
+*That* in itself -- intending to investigate these things and
+especially using targeted individuals as bait -- *could* constitute
+treason, depending mostly on who is in power. And that is why this
+situation is sooo fucked up.
 
-#### Quotes from a Duplicitous, Racebaiting Marxist Time Vampire:
+It's like the the worst situation imaginable: a mexican standoff
+between the Left and the Right over the control/fate of the country:
+would we avoid communism or be forced to succumb to the machiavellian
+political mechinations of the Obama administration.
 
-I love transhumanism. But we have to note that individuals recently
-extracted from extremely long stays in the VRlife are used to absolute
-instant gratification, and will often start masturbating in front of
-the technicians meant to be resocializing them.  My friend works with
-extractees. His clients, long-term session-heads i.e. people who have
-been connected to a direct sense feed for multi-year spans, are
-practically feral. Even though the VR feeds are supposed to be all
-about empathy and social connection, everything is so mediated that
-they lose the capacity for normal social interaction.
+#### The Tarantinian Mexican Standoff
 
-This the price of long-term connection: it is inescapable. Less than
-1% of users connected continuously for more than 3 years are able to
-go on to lead successful disconnected lives. According to Google
-statistics, long-term dive extractees have about ~90% chance of making
-another long-term connection within a month. In America, there are
-currently over 30 million users on long term connections. Unless
-something changes, they will stay connected until they die.
+> In the Reservoir Dogs clip, that's me, dying in the floor while
+> everyone else has guns drawn, fighting for their self
+> interests. Still, he's the only one that lives.
 
-When a hygiene bed breaks (say, the Healthy Limb System fails, or a
-catheter gets blocked up), it's supposed to cut off the internet feed,
-forcing the sleeper to get the bed fixed. But it's easy enough to
-override this cut-off function. Immersed in their feeds, people often
-forget that the bed is broken. But eventually pain or discomfort will
-force the sleeper to get their bed fixed. The pain of bedsores or the
-stench of a backed-up evacuator is a strong motivator. But if the
-sleeper has direct sense feeds, they can switch off these smells and
-discomforts. They can even switch off the worry associated with the
-broken bed. At this point there is only one thing which can impel them
-to save themselves: basic human dignity. The age-old desire to not
-spend one's days playing Princess Romance Cafe, lying in one's own
-shit while one's dick rots off.
+<iframe width="560" height="315"
+src="https://www.youtube.com/embed/HzF_TbmDH5s" frameborder="0"
+allow="autoplay; encrypted-media" allowfullscreen></iframe>
+
+Neither side is correct, but only the right can sustain the economy
+Obama had to compromise because the republicans effectively
+short-circuited his Marxist designs from 2014 through 2016. However,
+Obama could do nothing to stop his decentralized #ACORN squirrel
+citizen vigilantes from trying to fuck everything up, over and over
+and over **and over and over again.**
+
+So even though Obama had all but consigned his authority and
+effectively knew he'd all but certainly have to hand the country over,
+no one could stop his most fervant, radical supporter's vigilante
+actions in the streets. These people have lists of targets whose lives
+they intend to ruin, unless those targets effectively allow themselves
+to become blackmailed slave labor. I don't believe it is something
+Obama is orchestrating. If he could hit a button and stop it, he would
+hit that thing so fucking fast you'd feel a fresh island breeze across
+your face. It is these autonomous, decentralized marxist zealots run
+amok with toxic, corrosive, passive-aggressive bullshit that is a
+blight on our society.
+
+These same people had infiltrated DHS as part of a plan to turn the
+government's national security apparatus into the enforcement arm of a
+communist government. They intended to create so many
+problems. Sometimes I worry that Guantanamo was their own fictitious
+invention to damn the united states to warcrimes through subversion of
+the national security apparatus. GTMO is definitely an Army base.
+GITMO is not. There is a difference. THERE IS NO GITMO. It's an
+acronym that is all-but-meaningless to the military. It's not a
+fucking base in Cuba. GTMO is the base in Cuba.
+
+Again, these are vigilante zealots, which is what makes the problem so
+hard to deal with! Most of them are not actually affiliated with any
+government agency, at least in any official capacity. No federal
+government agency would own the kind of actions that have been taken
+in my life, EVER. They might use a ten-foot pole, but even then. They
+would not engage in this behavior. If the idea is to prevent
+demoralization of the public, this has backfired so spectacularly that
+it could not be a mistake. Perfect storms are NOT mistakes...
+
+It seems that the idea was to use some targeted individuals as bait to
+entrap these zealots to try to trace it back to any official
+government actions. If so, there were only a handful of cases where
+this would hold up.
+
+So, what we're dealing with now, is information warfare fraught with
+psychosocial intimidation tactics, disinformation and
+misinformation. However, everything the worst of these chicanerous
+zealots are doing is leaving a major paper trail on social
+media. There are signatures to everything they do, even if they do not
+overtly indicate an intent to subvert interpersonal communication.
+
+> e.g. by subverting social media through targeted attacks on
+> individuals' social media metrics, which leaves their political
+> opponents totally disconnected
+
+### The Ball Is Now In Your Court. Check and Check and Check and Checkmate.
+
+Therefore, these people are effectively already caught. if they try to
+start a real civil conflict that boils over psychosocial warfare into
+actual warfare and/or secession, they destroy the economy. it's their
+fucking move. that's the best part. united we stand, divided we fall
+AND THE BALL IS NOW IN THEIR COURT. You want to ruin the American
+economy through civil conflict: you marxists pieces of shit better
+grab that queen with your shitty little hands and make that move
+because FUCK YOU THAT'S WHY.
+
+It is unbelievably miraculous that we have not completely collapsed
+into communism -- and the inevitably ensuing economic collapse from
+insustainable control over the Dollar as the world's reserve currency,
+which the world would NEVER EVER accept if America had communism.
+
+Another big plus: at the zenith of technological and economic
+competition, *NO ONE AROUND THE WORLD CAN TELL WHAT THE FUCK AMERICA
+IS DOING* ... This sounds bad at first, but it's not. From 2005 on
+through 2015, we were on an eternal downward spiral.
+
+#### RubyConf 2015 - How to Crash an Airplane by Nickolas Means
+
+> This video right here explains the situation America's been in for
+> 30 years pretty perfectly. Yeh, we beat the Soviets because it was
+> our central banking apparatus against theirs, but it's like two
+> D.Va's getting in a fight in Overwatch. The one that pops out first
+> actually has the better odds of winning if she has better aim.
+
+<iframe width="560" height="315"
+src="https://www.youtube.com/embed/S2FUSr3WlPk" frameborder="0"
+allow="autoplay; encrypted-media" allowfullscreen></iframe>
+
+So, what has happened is that we KNOW our economy can't keep
+going. Central banking NEVER does. It's a fucking 80 year cycle: four
+generations. Just long enough so that your great-grandparents are dead
+by the time it happens again, so that all memory of it is purged from
+society when it comes to pass. This is by design and people will
+fucking get their PhD's studying the "boom and bust" cycle. They'll
+sell millions of copies. This is NOT new; it's called socioeconomic
+churn. CHURN, motherfuckers. Ask a billionaire about churn sometime
+and they'll tell you something, but it's not going to be the
+truth. The financial elite do not want you to know about that. And the
+banking elite especially do not want you to know the depressing
+reality: the only answer to the artificial boom and bust cycle is
+**WAR**.
+
+And if you don't know because your great-grandparents weren't alive to
+tell you about how magick reared it's ugly head in society and how
+their children put that shit to bed, so their grandchildren could grow
+up and live innocent lives without a bunch of marxist-like shitdicks
+tearing each other apart in the streets with psychological warfare
+... there's a reason why. Because it's fake as hell and they were all
+guilty as sin, so you didn't have to be. And if you could choose,
+would you burden society with guilt over what has to happen because
+humanity is inherently fallible and powerful people are addicted to
+power?
+
+Socioeconomic churn is astroturf and the story always ends the same
+way. Why?  Because people don't know and they don't want to know when
+you try to tell them. But this time? It's different. We're going to
+set that shit straight for eternity, right after we flush whatever
+deep state actors don't bend over or get the hell out of the way.
+
+So where does this leave us? It means that we belligerate through
+*mild* domestic tension and the rest of the world must react to their
+anticipation of our next actions and subsequent sociopolitcal
+developments. when they do this, it becomes obvious who is going to
+stick with us and who is going to turn against us. this occurs at
+precisely the most important time for us to know who are friends are
+going to be and who are enemies are going to be, but it only matters
+if we don't fall apart domestically
+
+#### Oh He Doesn't Even Have A PLAN?
+
+... I'm laughing my fucking ass off, but i really need you assholes to
+stop humiliating me and get the fuck out of the way.
+
+#### Don't Tell [Clown Piece](https://en.touhouwiki.net/wiki/Clownpiece
+
+> SHE'LL FUCK EVERYTHING UP BECAUSE SHE'S INFESTED WITH MARXISTS'CUM.
+
+![Clown Piece](/img/posts/2018-01-19-wtf-america-united-we-stand-divided-we-fall/clownpiece.jpg)
+
+We don't need war. We need unity, but we are ready to fight because we
+are strong. America is so tired of this domestic social conflict!
+Aren't you? I am. I want people to be happy. That's what matters to me
+and I'm willing to fight for it. I'm willing to suffer for it. I'm
+willing to die for it.
