@@ -511,52 +511,102 @@ strongest such set of perspectives that allow enlightened americans
 from both the Left and the Right to push this nation forward like an
 Eagle with both its wings as strong as possible.
 
-When you pursue the passive-aggressive tactic of disconnection, you
-are doing so much harm to America that it is tragic you refuse to even
-try to understand.
+When you are pursuin the passive-aggressive tactic of disconnection,
+you are doing so much harm to America that it is tragic that you
+refuse to even try to understand.
 
-- the point is that America must support the military and the Rule of
-  Law more than ever. we cannot succumb to demoralization. however,
-  the government works for the people. not the other way around. we
-  must find peaceful ways to ensure that the government serves the
-  interests of ALL citizens and ALL residents of America.
-  - why do our enemies around the world want America to fail? why
-    would foreign interests have it out for us? because we are all in
-    the same race at the ZENITH of technological, economic and
-    sociopolitcal compeition. if we do not look around the world and
-    accept things for what they are, we will find the moral and
-    economic foundations of this country undermined faster than it
-    takes for you to retweet that fake news.
-  - do you attack a strong adversary? NO. you deceive a strong
-    adversary. you outwit them.
-  - is it advantageous for America to police itself -- either
-    officially or via vigilante zealots -- with psychological and
-    sociological tactics that foment trust issues and burden our
-    society like Sysyphys with a long-term collective mental health
-    bill of catastrophic proportions?
-    - how the hell can we expect for a society burdened with extreme
-      trust issues to function together as a team?!
-  - so, moving forward, these programs, whether government sanctioned
-    or totally organized by vigilante civilians -- do they serve the
-    interests of Americans working together or our enemies working to
-    cut the strong adversary they fear into 13 pieces?
+# [Get On Point, America!](#get-on-point-america)
 
-#### (Quote from Benjamin Franklin on Reassembling The Rattlesnake)
+Ok, regardless of how much of that rant was true.... **ugh this is so
+frustrating because that content is crap, but the rest of this content
+is GOLD.
+
+So, if you enemy is the classic Marxist shitdick time vampire, what is
+the most important factor to focus on? We need to focus on our
+attention because distraction is their most powerful weapon. It
+doesn't matter whose fault this is.
+
+#### Overwatch Easter Egg: Stay On Point And Mercy Gives You Dank Heels
+
+> Dank Heels == I have no idea, but I want some. That's like not even
+> a no-brainer. I'm sure Mercy will explain. Whatever it is, I bet you
+> get out of bronze real fast. Not much those Time Vampires can do
+> once you get out because they can't get up the ranks.
+
+![Dank Heels == I have no idea, but i want some](/img/posts/2018-01-19-wtf-america-united-we-stand-divided-we-fall/get-on-point.jpg)
+
+
+
+The point is that America must support the military and the Rule of
+Law more than ever. we cannot succumb to demoralization. however, the
+government works for the people. Not the other way around. We must
+find peaceful ways to ensure that the government serves the interests
+of ALL citizens and ALL residents of America.
+
+Why do our enemies around the world want America to fail? Why would
+foreign interests have it out for us? because we are all in the same
+race at the ZENITH of technological, economic and sociopolitcal
+compeition. If we do not look around the world and accept things for
+what they are, then we will find the moral and economic foundations of
+this country undermined faster than it takes for you to retweet that
+fake news.
+
+### Do You Attack A Strong Adversary?
+
+NO! you deceive a strong adversary. You outwit them. You outmaneuver
+them because whereever they thought you were going to be -- you were
+never there. At the same time, there's moral deception, morally
+ambiguous deception and ... whatever it is those marxist time vampires
+are doing when I get assraped and shot in the back.
+
+Is it advantageous for America to police itself -- either
+officially or via vigilante zealots -- with psychological and
+sociological tactics that foment trust issues and burden our society
+like Sysyphys with a long-term collective mental health bill of
+catastrophic proportions?
+
+### Look to the Left. Look to the Right. Do You Trust That Person?
+
+How the hell can we expect for a society burdened with extreme trust
+issues to function together as a team?! So, moving forward, these
+programs, whether government sanctioned or totally organized by
+vigilante civilians -- do they serve the interests of Americans
+working together or our enemies working to cut the strong adversary
+they fear into 13 pieces?
+
+#### "Join Or Die"
+
+> "Do thou great liberty inspire our souls -- and make our lives in
+> thy possession HAPPY -- or, our deaths glorious in thy JUST defense"
+> -- Literally Benjamin Franklin. [Not a
+> Terrorist](https://www.gutenberg.org/files/20203/20203-h/20203-h.htm),
+> last time I [checked](https://en.wikipedia.org/wiki/Junto_(club)).
 
 ![Pic of The Flag With the Rattlesnake]()
 
+Benjamin Franklin seemed to care a lot about about "Life, Liberty and
+the Pursuit of Happiness." The last one -- the very pursuit of
+happiness -- *LITERALLY THE AMERICAN DREAM* -- was worth more than
+property to both Benjamin Franklin and Thomas Jefferson. Do you have
+happiness in sociomonopolist Marxist societies? I'm not sure, but you
+sure as hell don't have property. You can't even save money. Read my
+draft on [Our Revolution of
+Empowerment](https://github.com/dcunited001/dcunited001.github.io/blob/sources/_drafts/our-revolution-of-empowerment-engineering-diffusion-of-influence.md).
 
-want to judge a society? Watch these four aspects:
+<a name="assess-the-health-of-these-four-social-pillars" />
 
-### (groups that act as pillars for society)
+# [Assess the Health of These Four Social Pillars](#assess-the-health-of-these-four-social-pillars)
 
-#### How do they treat those they consider inferior?
+Want to judge a society? Watch these four aspects, which I'll name
+social pillars.
 
-#### (2) How do they treat hose considered exterior, like foreigners, immigrants and pariahs?
+#### &#9312; How do they treat those they consider inferior?
 
-#### (3) How do they treat those considered neighbors, family & elders?
+#### &#9313; How do they treat hose considered exterior, like foreigners, immigrants and pariahs?
 
-#### (4) How do they treat those considered superior, like leaders and hero's?
+#### &#9314; How do they treat those considered neighbors, family & elders?
+
+#### &#9315; How do they treat those considered superior, like leaders and hero's?
 
 - A demoralized, corrupt, corroding society will score poorly on all
   four of those. Take out respect for #4: then #1/2/3 will follow suit
