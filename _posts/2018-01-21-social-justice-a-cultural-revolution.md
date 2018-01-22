@@ -38,6 +38,10 @@ problems, so they don't become worse over time. What happens when you
 don't resolve tension that's building up, choosing to containerize it
 and ignoring it?
 
+<a name="controlling-the-path-of-least-resistence" />
+
+### [Controlling the Path of Least Resistence](#controlling-the-path-of-least-resistence)
+
 For physical systems, energy always manifests its paths through matter
 and space via the pathways of least resistance. If there is incredibly
 high resistance almost everywhere, but that tension just keeps
@@ -49,7 +53,9 @@ go away, you just aren't aware of it. You're not letting signals in or
 out, which means you aren't getting information about that thing that
 you thought was *so dangerous.*
 
-### What You Don't Know Can't Hurt You
+<a name="what-you-dont-know-cant-hurt-you" />
+
+### [What You Don't Know Can't Hurt You...](#what-you-dont-know-cant-hurt-you)
 
 What if you and your cronies are what's dangerous? What if the danger
 is thinking that you can lock people in sociophysical isolation, until
@@ -63,7 +69,9 @@ muting all similar signals via systemic social media censorship? I
 guess it's just a moot point then, if [@jack](http://twitter.com/jack)
 can just censor anyone the American Marxist Mob tells him to.
 
-### What You Intend Matters
+<a name="what-you-intend-matters" />
+
+# [What You Intend Matters](#what-you-intend-matters)
 
 What you intend matters. What do you intend to create? Are you
 knowledgable and wise enough to know what you should intend? Do you
@@ -104,8 +112,6 @@ learned to suppress those subconscious responses, since the
 aforementioned gypsy bitch is helping get people fired over that shit
 with her cracked up crystal ball.
 
-![Philosoraptor]()
-
 If you falsely label me as racist, I'm not going to respond -- in
 fact, I think that you would act on such invisible and false labels is
 itself prejudiced. And apparently, for all your knowledge of
@@ -113,9 +119,17 @@ subconscious reactions and facial expressions, you just cant't get it
 through your heads that I'm not racist -- why? Because your most
 radical leadership *needs* it to be true or at least *needs you to
 believe that it is true*. Otherwise, the house of cards they built
-falls apart and that looks real bad. W
+falls apart and that looks real bad.
 
-hen people assume that it must be true, are they going to bring it up
+#### How'd You Figure That Anyways? Must Be The Smarts. Have We Ever Met?
+
+![Philosoraptor]()
+
+<a name="how-do-you-diffuse-the-label-of-racist-especially-when-its-false" />
+
+### [How Do You Diffuse The Label of Racist, Especially When It's False?](#how-do-you-diffuse-the-label-of-racist-especially-when-its-false)
+
+When people assume that it must be true, are they going to bring it up
 in conversation? NO! No one's going to talk about it. Well, if i have
 to do that to fight back, then it means I end up looking like I'm on
 "that side" ... well, i'm not on the racists' side and I never will
@@ -126,7 +140,7 @@ is that? Is it fun? Is it something you want to do all the fucking
 time? NO! Racism and anti-semitism are intolerable, but what is worse
 is the race-baiting for political expediency.
 
-### Perhaps The Worst Possible Outcome
+### [Perhaps The Worst Possible Outcome: That False Label IS Viral](#perhaps-the-worst-possible-outcome-that-false-label-is-viral)
 
 Because people like me are falsely labeled about something we can't
 talk about and then people in society generally distance themselves,
@@ -150,13 +164,12 @@ with conversation must understand these things, intuitively. They just
 can't methodically explain them. I can because that was the only way I
 was ever going to learn how to understand what was happening to me.
 
-
 =====
 
 So, both sides are incessantly belligerating.  People who aren't
 racist and aren't trying to hunt down racists like animals either, but
 also want to be able to support their own political ideology without
-falsely being labelled racist, smeared at work , etc by social justice
+falsely being labelled racist, smeared at work, etc by social justice
 warriors operating righteously because they authentically think they
 are doing what is right.
 
@@ -167,6 +180,37 @@ someone indirectly asked you to target me and shows you some chopped
 and screwed audio clip or some shit and now you're attacking me with
 all the righteousness and vitreousity of Joan d'Arc. You know what I
 am? FUCKING PISSED OFF. At who?  White, liberal America.
+
+#### And They Wonder Why I Have Trust Problems
+
+> "Good day, 'American' asexualized-incel, racist shit, would you like
+> to have the only conversation with a woman you've never met that
+> you'll ever have in America to last more than five minutes? Good!
+> Tell me all your secrets, we're going to destroy you. It's
+> definitely not a trap. It will be used to neurologically torture you
+> for the rest of your life. Don't kill yourself immediately; we need
+> to make this a good one."
+
+![The Honeypot]()
+
+<a name="whys-that-memo-so-hard-to-read-anyways" />
+
+### [Why's That Memo So Hard To Read Anyways?](#whys-that-memo-so-hard-to-read-anyways)
+
+By the way, it's amazing how easy it is to correct a misunderstanding
+with a simple conversation, right? Five eyes are better than one,
+n'est plus ultra? I'm not talking about a situation that actually
+happened, of course. No, because if that content was used to victimize
+me for three years, even by people I don't know, then I certainly
+would have heard about it by now, right? Unless ... you don't mean
+that these people never meant for me to make it this far! And no, i'm
+not talking about *you*, honeypots come in all shapes and
+sizes. Sometimes, I'm pretty sure *that one* just hadn't gotten "the
+memo" about David Conner. The one that says: do not, under any
+circumstance, allow this person to ever feel like anything more than
+an abused puppy. We've gotten our hands *real dirty* to make all this
+wonderful black magick happen. It's cost us millions and it'd be a
+real shame if we boarded you, too.
 
 Why wouldn't i be pissed of at a specific ethnicity? Or other
 ethnicities generally? because it's not their fault. This problem
@@ -290,14 +334,18 @@ it's like to be mistreated and stereotyped. They know the pain.
 
 - your enemy will be ruthless & destroy you immediately
 - learn to dance with them, you're going to need it.
-- they will have a weapon they will never let go of
+- they will have a weapon that they will never let go of. it's not a
+  fair fight. it never was. do not allow your space to become choked
+  out: you need air, water, fire. you need people. you need food.
 - when that one doesn't work, they have plenty more you've never
   seen. enjoy each and every one you get the chance to see because
   each one is special. some are never meant to be seen ... for long.
   - story of the house from "The Ancient Magus Bride"
   - some people never leave. you get to take one thing home with you.
     i took them all and made new ones.
-- make them grab the weapon they didn't intend to use
+- wear your scars proudly.
+- make them grab the weapon they didn't intend to use. your weapon is
+  the way itself.
 - bait them into breaking their precious things
 - grab their eyes with your fearless gaze & never let go
 - when they are certain you'll strike, feint instead
@@ -306,7 +354,11 @@ it's like to be mistreated and stereotyped. They know the pain.
 - destroy their images. ALL of them
 - when you cannot lose, slay them by pushing them into their own
   weapon: *THE ONE THEY NEVER INTENDED TO EXIST*
+- know your enemy.
+- in your victory, do not become your enemy, in who they were or are
+  or in who you were or have become
 
+- path of least resistance?
 
 Again, I'm sorry for creating these problems, but I dare you & implore
 you 2 help me stop this, instead of attempting to use it for pragmatic

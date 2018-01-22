@@ -1,5 +1,5 @@
 ---
-title: ""
+title: "Semioteleological Revolution: A Sociophysical Phase Change"
 categories: "blog"
 tags: ""
 headline: ""
@@ -8,20 +8,23 @@ author:
 excerpt: ""
 ---
 
+- maybe use this title for another post: Semioteleological Revolution:
+  A Sociophysical Phase Change
+
 
 
 - she just had to do it. she went and gots #Teel #Heir. the
   #Rothschild's track those things down and use them mercilessly.
 
-![Teal Hair Anime Girl]()
+![Teal Hair Anime Girl - "tee-ru"]()
 
 i don't know any of this is actually Rothschild's fault #LOL
 
 it's so easy to blam things on powerful people because ... well
 obviously "they had the power to stop it, but didn't, right?"
 
-not everyone has #Rothschild-level problems, but shit that's what i'd
-do if i weren't me
+not everyone has Rothschild-level problems, but shit that's what i'd
+do if I weren't me
 
 
 i *almost* went to one of these sessions in Boulder, CO, but my
@@ -33,7 +36,9 @@ as a metaphor for "limb" control. in #ElfenLied, psychics with phantom
 limbs are tightly controlled. these are incredibly powerful beings
 tormented by experimentation & never released.
 
+### メードのデートスル
 
+![](/img/posts/)
 
 i'm not saying there's a connection b/w me, #Boulder & the
 #Rothschild's. just that my manager was the most insufferable asshole
@@ -44,9 +49,9 @@ i've ever met, like Salaryman Stalin.
 anyways: no point in fighting über-powerful people, unless you're
 sadomasochistic
 
-
+- mention Aika-chan?
 
 
 ### Dark Ruler
 
-![Dark Ruler]()
+![Just Dark Ruler]()
