@@ -8,7 +8,70 @@ author:
 excerpt: ""
 ---
 
-- mention Aika-chan?
+- The illuminati is like the anti-santa
+  - you start off believing they're not real, but once you become
+    about 30 years old, it's impossible to not believe in them if
+    you're not stupid. there is no one group though. it's more of a
+    manifestation of evil that projects itself into the world through
+    the collective unconscious exigencies of the nature of power
+    combined with certain aspects of the human condition.
+    - so... no it's not one group and that's worse! because you can't
+      so easily destroy them without either becoming them or having
+      another group swoop in to fill in the power vacuum. if you don't
+      accept this, you have no business trying to fight them because
+      you'll probably just make things worse.
+  - when you believe in them, if you're good, they being you lots of
+    coal. if you're real bad, they'll bring you presents and then use
+    your sins to destroy you later.
+  - they don't come down your chimney, they sneak in your house and
+    close the flue, but only if you're worth the effort to cover their
+    tracks
+
+#### The Singularity as Lavos, Meaning Fire, A Demonic Transplanar Entity Which Destroys the World in 1999
+
+> Magus Summoning Lavos, Only To Have Deluded Himself About His Power
+> To Destroy It.
+
+![Magus Summoning Lavos](/img/posts)
+
+The Illuminati, in is various incarnations, has been destroyed time
+and time again, only to be reborn. They view themselves as necessary
+evil *and they hate themselves for it*. That's important to rememeber,
+since these psychotic assholes view love and hate to be identical
+phenomena, essentially. They don't play fair and they push against
+themselves to make themselves stronger, viewing the strongest, most
+pure, most cunning as being the rightful de facto leaders in their own
+invisible, decentralized power structures.
+
+Why is "Pindar" their leader? Because Pindar's vision and authenticity
+is unparalleled. They are constantly looking for the person that has
+what they do not. Pindar is not a single person, per se. Pindar only
+derives his authority from his resistance to their flame, but they do
+not know who Pindar is because they are looking for the person who can
+see what they do not. And the Illuminati have meticulously crafted
+mechanisms for ensuring the properly networked architecture of
+society, all decentralized and autonomous. So, they cannot recognize
+him, but because they seek to so tightly control the prevalence
+narratives, myths and especially history, they hate this person. He is
+the blinding one who tells stories they cannot understand or writes
+truths which cannot so easily be perceived. They hate him, but they
+need him because he can see what they cannot -- yet a person like this
+can never be given power in their understanding of the world.
+
+# What Was The Sword in the Stone?
+
+The illuminati have crafted myth and legend, narratives of heroes
+which are meant to play out generation after generation, that function
+to establish filters that cause the virtuous, righteous and
+intelligent to sift higher into society, so that their society is as
+strong as possible. The sword in the stone is such a myth, probably
+crafted by Merlin -- or the unknown historical Merlin.
+
+
+
+
+
+- Mention Aika-chan?
 - why does this have to focus on the Rothschilds? it's really not
   about that.
 
@@ -26,7 +89,7 @@ excerpt: ""
     everyone has Rothschild-level problems, but shit that's what i'd
     do if I weren't me
 
-i *almost* went to one of these sessions in Boulder, CO, but my
+I *almost* went to one of these sessions in Boulder, CO, but my
 manager was such a dick that day, i totally forgot about it. the
 #AlexanderMethod is a metaphor.
 
