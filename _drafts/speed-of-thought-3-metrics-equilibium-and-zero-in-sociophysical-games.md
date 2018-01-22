@@ -8,6 +8,13 @@ author:
 excerpt: ""
 ---
 
+- psychosocial churn in sociohierchical structures is a tool of power
+  - this is because people reorient themselves to the information
+    available to them, but not all information becomes available to
+    everyone immediately. there is always delay in convergence and
+    informational convergence is never total.
+
+
 
 - most people don't understand social physics. it would never occur to
   them to reason about these things with math, especially early on in

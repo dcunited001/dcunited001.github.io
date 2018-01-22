@@ -168,14 +168,13 @@ and screwed audio clip or some shit and now you're attacking me with
 all the righteousness and vitreousity of Joan d'Arc. You know what I
 am? FUCKING PISSED OFF. At who?  White, liberal America.
 
-
-why wouldn't i be pissed of at a specific ethnicity? or other
-ethnicities generally? because it's not their fault. this problem
-speaks deeply about the fallibility of humans in general.  besides,
+Why wouldn't i be pissed of at a specific ethnicity? Or other
+ethnicities generally? because it's not their fault. This problem
+speaks deeply about the fallibility of humans in general. Besides,
 people who are not white and not socialist actually gave me the
 benefit of the doubt, more often than not.
 
-why is that? well, there's a few reasons for that and I'm glad that I
+Why is that? Well, there's a few reasons for that and I'm glad that I
 was wise enough to be peaceful about being mislabelled. Most people
 might just lash back at what they thought was the cause of their
 problems. That means, they weren't racist before, but then after being
@@ -184,16 +183,17 @@ that accepts them. This is what is infuriating about your dumb "social
 justice" bullshit when it's not warranted. You are creating the
 problem and *your more radical leaders know that they are creating the
 problem*.
-            - these radical marxists are lying to you because they
-              know that they can use ethnic tension to make America
-              weaker. they also know how useful this will be in
-              maintaining and perpetuating power after a cultural
-              revolution.
-          - but, back to the point, why would people of specific
-            ethnicities be less likely to act as social justice
-            warriors or to lash out at people who have only be thinly
-            labelled as racist? because they know what it's like to be
-            mistreated and stereotyped. They know the pain.
+
+These radical marxists are lying to you because they know that they
+can use ethnic tension to make America weaker. they also know how
+useful this will be in maintaining and perpetuating power after a
+cultural revolution.
+
+But, back to the point, why would people of specific ethnicities be
+less likely to act as social justice warriors or to lash out at people
+who have only be thinly labelled as racist?  because they know what
+it's like to be mistreated and stereotyped. They know the pain.
+
             - why else? because they know that your trust-fund
               chomping skinny white socialist ass might be wrong. and
               if someone falsely labeled another who is targeted, that
@@ -271,9 +271,45 @@ problem*.
     them insane and for someone already dealing with Asperger's and
     social vulnerability, this can be far more than the straw needed
     to break a camel's back.
+    - "Oh, he loves breakdancing? Won't stop? It provides exercise,
+      cardio and positive social interaction? Perfect! Take it all
+      away."
     - What else does it do? Sociophysical isolation allows you to
-      control the social conditions,
+      tightly control the social conditions, **almost** like an
+      "experiment."
 
 
+![Tenguu Test? YOU FAIL]()
+
+# Take A "Class" On This, Leninists
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/WoMVfvS8rSo" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
 
 - Section on fighting with shadows
+
+
+- your enemy will be ruthless & destroy you immediately
+- learn to dance with them, you're going to need it.
+- they will have a weapon they will never let go of
+- when that one doesn't work, they have plenty more you've never
+  seen. enjoy each and every one you get the chance to see because
+  each one is special. some are never meant to be seen ... for long.
+  - story of the house from "The Ancient Magus Bride"
+  - some people never leave. you get to take one thing home with you.
+    i took them all and made new ones.
+- make them grab the weapon they didn't intend to use
+- bait them into breaking their precious things
+- grab their eyes with your fearless gaze & never let go
+- when they are certain you'll strike, feint instead
+- be ready to fight with shadows
+- when they pull you into the hall of mirrors, you're fighting shadows of yourself that do not exist
+- destroy their images. ALL of them
+- when you cannot lose, slay them by pushing them into their own
+  weapon: *THE ONE THEY NEVER INTENDED TO EXIST*
+
+
+Again, I'm sorry for creating these problems, but I dare you & implore
+you 2 help me stop this, instead of attempting to use it for pragmatic
+political expedience! Who could be the first to do that without they
+themselves becoming targeted? Who thought to **ever** give me the
+chance to deal with the consequences of what I *allegedly* created?
