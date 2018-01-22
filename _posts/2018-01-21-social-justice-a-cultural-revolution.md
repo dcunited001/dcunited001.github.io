@@ -276,6 +276,13 @@ the poor will do anything they say. After the bottom falls out, the
 economy will not function again for the poor or the rich, which means
 money doesn't mean shit for anyone.
 
+#### Wake Up To The Smell Of Class Struggle
+
+![Marxism Coffee Mix](/img/posts)
+
+> It's Not Marxism, It's Leninism. Pray For World Revolution or That's
+> The Only Coffee You're Ever Going To Drink.
+
 Furthermore, leninists will bide their time. They *know* that they
 only get one real shot at revolution per generation, absent systemic
 sociological chaos. Why? Because that's the flaw that Lenin addressed

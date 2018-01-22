@@ -8,24 +8,58 @@ author:
 excerpt: ""
 ---
 
-- The illuminati is like the anti-santa
-  - you start off believing they're not real, but once you become
-    about 30 years old, it's impossible to not believe in them if
-    you're not stupid. there is no one group though. it's more of a
-    manifestation of evil that projects itself into the world through
-    the collective unconscious exigencies of the nature of power
-    combined with certain aspects of the human condition.
-    - so... no it's not one group and that's worse! because you can't
-      so easily destroy them without either becoming them or having
-      another group swoop in to fill in the power vacuum. if you don't
-      accept this, you have no business trying to fight them because
-      you'll probably just make things worse.
-  - when you believe in them, if you're good, they being you lots of
-    coal. if you're real bad, they'll bring you presents and then use
-    your sins to destroy you later.
-  - they don't come down your chimney, they sneak in your house and
-    close the flue, but only if you're worth the effort to cover their
-    tracks
+# [Illuminati: The Anti-Santa](#)
+
+The illuminati is like the Anti-Santa. Nope, the Anti-Santa is not
+Jesus and you're going to wish it was.
+
+<a name="" />
+
+### [What if Santa Clause Snuck In Your House, Stole All Your Cookies and Set Your House on Fire?](#what-if-santa)
+
+Why call them the Anti-Santi? You start off believing they're not
+real, but once you become about 30 years old, it's impossible to not
+believe in them if you're not clueless. When you believe in them, if
+you're good, they being you lots of coal. If you're real bad, they'll
+bring you presents and then use your sins to destroy you later. They
+don't come down your chimney, they sneak in your house and close the
+flue, but only if you're worth the effort to cover their tracks. The
+Illuminati almost never directly does *anything* because invisibility
+is paramount: you can fight what you believe exists.
+
+#### Cookies? So You Can Gaslight Me? Do I Look Like Hansel?
+
+![Ain't Nobody Got Time For That]()
+
+There is no one group though, why is partially why it's so easy to
+forget they couldn't possibly not exist. The Illuminati is more of a
+manifestation of evil that projects itself into the world through the
+collective unconscious exigencies of the nature of power combined with
+certain aspects of the human condition.
+
+Furthermore, if you're trapped with the false paradigm of metaphysics
+that ascends from the material, you can never actually believe they
+exist, rationally, which is why that false paradigm is soo convenient
+to the Illuminati. This is partially why western cultures will often
+present the opposite paradigm as heresy: because if you believe in
+idealistic metaphysics, you actually can see what is happening around
+you. If you don't, you're simply a powerless consumer feeding the
+rich. This is yet another reason why Marxism is precisely its own
+antithesis.  Marxism is not liberating, it is enslaving.
+
+Idealistic metaphysics has its own problems, but new age voodoo is
+easy enough to dismiss with a healthy dose of rationalism.
+
+<a name="who-is-the-illuminati-and-why-are-they-such-assholes-anyways" />
+
+### [Who the Illuminati And Why Are They Such Assholes,
+Anyways?](#who-is-the-illuminati-and-why-are-they-such-assholes-anyways)
+
+So ... No, the Illuminati is not one group and that's worse! because
+you can't so easily destroy them without either becoming them or
+having another group swoop in to fill in the power vacuum. if you
+don't accept this, you have no business trying to fight them because
+you'll probably just make things worse.
 
 #### The Singularity as Lavos, Meaning Fire, A Demonic Transplanar Entity Which Destroys the World in 1999
 
@@ -43,6 +77,8 @@ themselves to make themselves stronger, viewing the strongest, most
 pure, most cunning as being the rightful de facto leaders in their own
 invisible, decentralized power structures.
 
+### [How Can Pindar Lead an Anonymous, Decentralized Group Of Cigar-Smoking Men?]()
+
 Why is "Pindar" their leader? Because Pindar's vision and authenticity
 is unparalleled. They are constantly looking for the person that has
 what they do not. Pindar is not a single person, per se. Pindar only
@@ -50,15 +86,18 @@ derives his authority from his resistance to their flame, but they do
 not know who Pindar is because they are looking for the person who can
 see what they do not. And the Illuminati have meticulously crafted
 mechanisms for ensuring the properly networked architecture of
-society, all decentralized and autonomous. So, they cannot recognize
-him, but because they seek to so tightly control the prevalence
-narratives, myths and especially history, they hate this person. He is
-the blinding one who tells stories they cannot understand or writes
-truths which cannot so easily be perceived. They hate him, but they
-need him because he can see what they cannot -- yet a person like this
-can never be given power in their understanding of the world.
+society, all decentralized and autonomous. It is outlined similarly to
+the sheaf and the reaper, the merchant of souls.
 
-# What Was The Sword in the Stone?
+So, they cannot recognize him, but because they seek to so tightly
+control the prevalence narratives, myths and especially history, they
+hate this person. He is the blinding one who tells stories they cannot
+understand or writes truths which cannot so easily be perceived. They
+hate him, but they need him because he can see what they cannot -- yet
+a person like this can never be given power in their understanding of
+the world.
+
+# [What Was The Sword in the Stone?](#the-sword-in-the-stone)
 
 The illuminati have crafted myth and legend, narratives of heroes
 which are meant to play out generation after generation, that function
