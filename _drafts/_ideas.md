@@ -135,6 +135,22 @@ of resources in the future when it's not necessary.
   - (1) natural ability of someones brain to process information
   - (2) availability of information
 
+==============
+
+
+
+- to defeat ad hoc #hashtags from being marked as shadowbanned
+  content. you need to start countersignaling. prime the wrong
+  hashtag. then convince people to generally switch the hashtag after
+  these shadowbanning trolls try to SEO it into oblivion. it's not a
+  very good strategy, but it's an effective one. plus, you get the
+  data from who engages in the user-led shadowbanning SEO tactics, if
+  that is in fact the cause, since people have a choice to amplify or
+  phase out content on social media. if you do not see SEO tactics and
+  lots of bots (not "russian") it means it is literally Twitter or NSA
+  leading the shadowbanning
+
+
 ===============
 
 ### Philosophy

@@ -264,6 +264,37 @@ as integers and rational numbers.
     ideas which are not dangerous, but would provide me with some
     credibility. HOW'S THAT WORKING OUT FOR YOU?
 
+### Two main types of lattices for number theory
+
+- "digits" is a misnomer. there are two types of lattices for number
+  theory:
+
+  - (1) one starting with rational numbers, extending from algebraic
+    numbers and "increasingly further" into the irrational numbers. aleph
+    into beth (?)
+
+  - (2) the other type of lattice contains no rational numbers and is
+    constructed from phi as continuous fractions at BOTH the "origin"
+    and the "furthest point" ... it is an intermeshed lattice; a space
+    with metrics and well-connectedness. but there are NO rational
+    numbers here, unless you transform this lattice into a
+    rational/integer based lattice via something like penrose tiling
+    (some of which encodes phi)
+
+- these are two ways of encoding the same things. this description is
+  of course, horrendously flawed and unmathematic. however, i
+  challenge any of you to talk me about it because i cannot stop
+  thinking about stuff like this. i beg you, please teach me.
+  - with their powers combined, these two types of lattices for number
+    theory can revolutionize your understanding of number theory.
+  - i believe the second "type of lattice" i described above contains
+    some "maximal distance" with a metric. if so, it would mean this
+    lattice is a kind of discrete manifold, where the maximal distance
+    is like the longest possible shortest path from any irrational
+    number to any other irrational number. there may be no actual
+    "maximal" distance though: it may be infinite, but i think this is
+    silly.
+
 ### Application of Category Theory to Planning/Producing Reality TV
 
 - imagine a reality TV show that's a cross b/w *Punked* and *Choose
