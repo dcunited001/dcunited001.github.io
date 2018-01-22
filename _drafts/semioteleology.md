@@ -8,16 +8,26 @@ author:
 excerpt: ""
 ---
 
-# [Illuminati: The Anti-Santa](#)
+# [Illuminati: The Anti-Santa](#illuminati-the-anti-santa)
+
+### [What if Santa Clause Snuck In Your House, Stole All Your Cookies and Set Your House on Fire?](#what-if-santa)
+
+
+# [What Does Metaphysics Have To Do With The Illuminati, Anyways?](#what-does-metaphysics-have-to-do-with-the-illuminati)
+
+
+<a name="illuminati-the-anti-santa" />
+
+# [Illuminati: The Anti-Santa](#illuminati-the-anti-santa)
 
 The illuminati is like the Anti-Santa. Nope, the Anti-Santa is not
 Jesus and you're going to wish it was.
 
-<a name="" />
+<a name="what-if-santa-burnt-your-house-down" />
 
-### [What if Santa Clause Snuck In Your House, Stole All Your Cookies and Set Your House on Fire?](#what-if-santa)
+### [What if Santa Clause Snuck In Your House, Stole All Your Cookies and Set Your House on Fire?](#what-if-santa-burnt-your-house-down)
 
-Why call them the Anti-Santi? You start off believing they're not
+Why call them the Anti-Santa? You start off believing they're not
 real, but once you become about 30 years old, it's impossible to not
 believe in them if you're not clueless. When you believe in them, if
 you're good, they being you lots of coal. If you're real bad, they'll
@@ -37,22 +47,76 @@ manifestation of evil that projects itself into the world through the
 collective unconscious exigencies of the nature of power combined with
 certain aspects of the human condition.
 
+<a name="what-does-metaphysics-have-to-do-with-the-illuminati" />
+
+# [What Does Metaphysics Have To Do With The Illuminati, Anyways?](#what-does-metaphysics-have-to-do-with-the-illuminati)
+
 Furthermore, if you're trapped with the false paradigm of metaphysics
-that ascends from the material, you can never actually believe they
-exist, rationally, which is why that false paradigm is soo convenient
-to the Illuminati. This is partially why western cultures will often
-present the opposite paradigm as heresy: because if you believe in
-idealistic metaphysics, you actually can see what is happening around
-you. If you don't, you're simply a powerless consumer feeding the
-rich. This is yet another reason why Marxism is precisely its own
-antithesis.  Marxism is not liberating, it is enslaving.
+that ascends primarily from the material, you can never actually
+believe they exist, rationally, which is why that false paradigm is
+soo convenient to the Illuminati. This is partially why western
+cultures will often present the opposite paradigm as heresy: because
+if you believe in idealistic metaphysics, you actually can see what is
+happening around you. If you don't, you're simply a powerless consumer
+feeding the rich. This is yet another reason why Marxism is precisely
+its own antithesis.  Marxism is not liberating, it is enslaving.
 
 Idealistic metaphysics has its own problems, but new age voodoo is
-easy enough to dismiss with a healthy dose of rationalism.
+easy enough to dismiss with a healthy dose of rationalism. Another
+serious problem is that, once you sociologically extrapolate it, the
+after the order du jour is established, your place in society is
+almost entirely determined by your place at birth and the
+sociophysical circumstances that surround you. If that such world
+order or state order serves the people well, this is a very good
+thing. If it does not, it can end up being horrible. As long as the
+social contract must be upheld, the people are likely being served
+well by their state. However, a well established order extrapolated
+from idealistic metaphysics is difficult to disrupt.
+
+What is an example of such an order? Japan. It is an incredibly strong
+society with a rich culture and an incredibly strong sense of shared
+identity, where even the language reflects this understanding of
+metaphysics. It was only possible for Japan to develop all of this
+because it was geographically isolated from the mainland, but China
+shares many of these same qualities. Taoism and Shinto provide
+interesting reflection on these ideas.
+
+Therefore, there's not much chance for revolution and progress in the
+class struggle without sociometaphysical churn: you need both. You
+must *use* both the idealistically and materially derived
+conceptualizations of metaphysics. Yet, the stability of a society is
+incredibly important, so if the philosophical underpinnings of your
+language, culture and state are not acceptably stable and strong, you
+will not have a stable society.
+
+#### Literally, Underpinnings. Ever Try To Build A Castle In A Swamp?
+
+![Underpinnings](/img/posts/2018-01-22-semioteleological-revolution/underpinnings.jpg)
+
+### [You Only Get One Dialectical Method](#you-only-get-one-dialectical-method)
+
+#### You're An Undergrad Philosphy Major In A Liberal Academic Safe Space.
+
+#### You Must Choose Between Material Or Idealistic: Go!
+
+They are basically the same process starting from opposite ends, in a
+way. If I had to choose, what would I prefer? Idealistic metaphysics
+because it is the truth and the truth sets you free. But some truths
+are created and in themselves only are derived from happenings in the
+material world: history. Of course history is truth that you must deal
+with, but it is not THE Truth. The Truth is everywhere: it is timeless
+and spaceless. The Truth echoes from beyond the material world and it
+determines the course of all phenomena through fate.
+
+#### It's a Good Thing This Isn't Saw. Why Do I Have To Pick A Team Anyways?
+
+![Saw](/img/posts/2018-01-22-semioteleological-revolution/saw-meme.jpg)
+
+#### .... Safe Spaces, Am I Right? Who TF Invited That Saw Guy Anyways?
 
 <a name="who-is-the-illuminati-and-why-are-they-such-assholes-anyways" />
 
-### [Who the Illuminati And Why Are They Such Assholes,
+# [Who the Illuminati And Why Are They Such Assholes,
 Anyways?](#who-is-the-illuminati-and-why-are-they-such-assholes-anyways)
 
 So ... No, the Illuminati is not one group and that's worse! because
@@ -77,7 +141,8 @@ themselves to make themselves stronger, viewing the strongest, most
 pure, most cunning as being the rightful de facto leaders in their own
 invisible, decentralized power structures.
 
-### [How Can Pindar Lead an Anonymous, Decentralized Group Of Cigar-Smoking Men?]()
+### [How Can Pindar Lead an Anonymous, Decentralized Group Of
+Cigar-Smoking Men?]()
 
 Why is "Pindar" their leader? Because Pindar's vision and authenticity
 is unparalleled. They are constantly looking for the person that has

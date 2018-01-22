@@ -8,21 +8,100 @@ author:
 excerpt: ""
 ---
 
-- emphasize that "Social Justice" the concept is good
-  - but what we're looking for is that society is moving towards one
-    with social justice, not necessarily the immediate balance of
-    everything
-  - we should assert that the change oriented towards progress and
-    that there is an acceptable rate of change
+> To be sure: Social Justice as a idea is good. It's the
+> implementation of which I am critical because it seems that enemies
+> of America are using it to destabalize society, while setting us up
+> for a Leninist cultural revolution after economic catastrophe.
 
-There's something that I really want to set straight. Being falsely
-labelled as racist -- or anything, really -- especially when it
-involves triggering people with "A/B testing" and hiring gypsy
+We must assert that the change in society is oriented towards
+acceptible progress and that there is an acceptable rate of change. In
+other words, the social darwinism of which you are so critical is
+essentially gradient descent for society and we must be sure that
+these mechanisms orient us in the correct direction: on a path towards
+social justice in America. However, too much instability threatens
+everything and, in fact, threatens to bring all your precious social
+justice tumbling down on top of all Americans -- if it is not done so
+in a stable, responsible, fair manner.
+
+I believe that the strides made in the last half of the twentienth
+century represent more progress than this generation could truly ever
+hope to achieve. Though you are certainly not wrong to try, please,
+step back and put this all in perspective: what if what you are doing
+actually -- in how it sociophysically plays out -- threatens so many
+generations before you worked so hard to achieve?
+
+Regardless: "Social Justice" is such a loaded term and I hate loaded
+terms because you can't tell what baggage someone is going to pick and
+choose to include in the frame by which they use to evaluate your
+statements. Ever read Rhetoric by Aristotle? I haven't, but I did go
+to Toastmasters. People are just going to evaluate what you say
+firstmost with the emotional associations to the words and terms you
+use, not with the actual *clear*, intellectual meanings intended.
+
+This is especially true when they don't understand what you're saying
+or when they have a need to believe what you're saying is always false
+and should never be believed. For me, both of those last two happen to
+the be the case because of this scapegoat witchhunt, in which all
+sides have apparently invested so many of marbles. If people don't
+want to listen and what you're saying goes over their heads, there's
+basically no hope. Much on those soundbytes, assholes, and that goes
+for both the left and the right because you're both pretty much the
+same to me: wrong enough to stall out true progress.
+
+Whatever you do, do not let society take the opposite path. That is
+the paramount danger of your quasi-leninist destabalizaion. We've made
+progress, but now we must actually work together. All Americans and
+all of humanity. If we cannot do this, we will inevitably degrade into
+war, conflict, misery and unjust subjugation.
+
+# [This Little Mockingbird Right Here? I'm Gonna Put It To Bed](#this-little-mockingbird-right-here-im-gonna-put-it-to-bed)
+
+### [Wait, You Do What?!! You Did What?!!!](#wait-you-do-what)
+
+### [What Is Leninism, Trebek?](#what-is-leninism-trebek)
+
+### [Controlling the Path of Least Resistence](#controlling-the-path-of-least-resistence)
+
+### [What You Don't Know Can't Hurt You...](#what-you-dont-know-cant-hurt-you)
+
+# [What You Intend Matters](#what-you-intend-matters)
+
+
+
+
+<a name="this-little-mockingbird-right-here-im-gonna-put-it-to-bed" />
+
+# [This Little Mockingbird Right Here? I'm Gonna Put It To Bed](#this-little-mockingbird-right-here-im-gonna-put-it-to-bed)
+
+There's something that I really want to set straight and I thought I
+did that with [this
+post](/posts/2016-05-14-facets-of-greatness-the-unknown-monumental-accidents.html#embracing-diversity)
+and [this post](/posts/2016-07-17-diversity-is-americas-strength.html)
+AND [this
+post](/posts/2017-03-10-harnessing-the-congruence-of-the-human-condition-for-natural-justice.html)
+-- but then I've realized that I've been all sooo censured the whole
+time. Being falsely labelled as racist or anything -- especially when
+it involves triggering people with "A/B testing" and hiring gypsy
 crystal-ball fortune tellers to interpret the facial expressions and
-changes in body language. You do what?  And you're the athiest,
-science-freaks? Figures. It's a marxist. Everyone calm down, it's just
-the Marxists. They've been doing this shit since well before the
-Bolshevik revolution. It was so effective, they invented Leninism.
+changes in body language -- is horrible.
+
+<a name="wait-you-do-what" />
+
+### [Wait, You Do What?!! You Did What?!!!](#wait-you-do-what)
+
+And you're the athiest, science-freaks?  Figures. It's a
+marxist. Everyone calm down, it's just the marxists and they're about
+to go full-Lenin. They've been doing this shit since well before the
+Bolshevik revolution.
+
+<a name="what-is-leninism-trebek" />
+
+### [What Is Leninism, Trebek?](#what-is-leninism-trebek)
+
+It was so effective, they invented Leninism. Apparently, that guy came
+out of nowhere -- from some unknown town in Switzerland writing essays
+no one ever read -- straight to swoop in and co-opt the Bolshevik
+revolution. No one saw it coming.
 
 You want to know what I think about something? Ask me. Have you tried
 that? Do I look like someone who wants to lie? Or maybe I'm just
@@ -88,6 +167,8 @@ intend may or may not be created by forces you can't control, but what
 you intend or intend not manifests itself into the world. That
 certainly is within your control.
 
+###
+
 If you wanted to correct a problem, you would give someone the chance
 to say something about it -- e.g. one on one; mono e mono; a fucking
 conversation. If you wanted to create problems, so you can pretend
@@ -96,6 +177,44 @@ exactly what has been done. You needed to create the enemy because the
 enemy was not actually there. Further, you needed to overcome hurdles
 imposed by your *political rivals* pushing back in a democracy against
 expensive liberal policies which were required.
+
+#### Oh No, It's An Overgrown Nazi Fetus That Should Have Never Been, According to [Not-So-Top-Secret Agreements](https://www.cia.gov/library/center-for-the-study-of-intelligence/csi-publications/csi-studies/studies/vol-58-no-3/operation-paperclip-the-secret-intelligence-program-to-bring-nazi-scientists-to-america.html)
+
+![Oh No, It's A Giant Nazi Fetus that Should Have Never Been, According to Not-So-Top-Secret Agreements]()
+
+> Kill their babies! And their baby's babies!! We only need enough to
+> ensure that we have all the information they won't give us that we
+> know they used occult methods to transfer to their only
+> children.
+
+### Enders Game: You cannot have a third.
+
+> All your babes are belong to us, for "experiments" of course. It
+> serves you right, doesn't it? And if you really believed in what you
+> did, you wouldn't said a word about it would you? See? The
+> explanation checks an awful lot of boxes, although it really has
+> zero factual basis. #NoGameNoLife
+
+All Your Babes Are Belong To Us For Experiments, Of Course. Serves you
+right, doesn't it?
+
+Anyways, no, we do not actually want Nazi's riding on dinosaurs, but
+if I had to choose between diversity-rainbow "not-Nazi's" on ponies
+using civic nationalism in America and this chaotic Leninist
+engineered collapse that will damn america's economy for a century,
+leaving the singularity squarely in the hands of those Goddamn
+sychophantic leninists, I would choose the Mu "not-nazi's" in less
+time than it takes my heart to beat one more time. And is it racist?
+*HELL NO, YOU DUMB MOTHERFUCKERS. THIS IS ABOUT AMERICA.*
+
+#### One Such Diversity Rainbow Not-Nazi The Leninists Just Wouldn't Let You See, So You Couldn't Stop the Inevitable Collapse
+
+What the fuck was that fetus thing? Have you ever horizontally flipped
+the "Coon and Friends Logo" anyways? Fuck those assholes. You want an
+economy? You want prosperity where America's collective, multi-ethnic
+fate is NOT determined by our enemies? Do you remember how
+anti-American their narratives are? *YOU WANT THAT TO BE YOUR
+FUTURE?!* Really? **That** shit is *cray*.
 
 The problem for me has been, in order to fight back against defamation
 by false label, I have to acknowledge the label. If you've ever seen
@@ -185,7 +304,7 @@ racist. I never was. I never will be. I was falsely labelled and
 someone indirectly asked you to target me and shows you some chopped
 and screwed audio clip or some shit and now you're attacking me with
 all the righteousness and vitreousity of Joan d'Arc. You know what I
-am? FUCKING PISSED OFF. At who?  White, liberal America.
+am? FUCKING PISSED OFF. At who? White, liberal America.
 
 #### And They Wonder Why I Have Trust Problems
 
@@ -221,14 +340,27 @@ real shame if we boarded you, too. Yeh, I'm pretty sure that's what
 happened, sometimes, but -- again -- how the fuck am I supposed to
 know? Anyways ...
 
-###
+<a name="nice-try-but-im-not-a-racist-and-im-not-going-to-become-one-either" />
+
+### [Nice Try, But I'm Not A Racist And I'm Not Going To Become One Either](#nice-try-but-im-not-a-racist-and-im-not-going-to-become-one-either)
+
+I was wondering whether people would try this. It's so horribly wrong,
+it's a tragedy that doesn't fit on the classic Shakespearean scale for
+"That's some reallll fucked up shit, ain't it?" And that's kind of the
+point I was trying to make all along, but would anyone listen?  NOPE.
+Never. Well ... occasionally. You could have thrown all the
+neo-leninist hypnotists that you want at me and it was never going to
+work.
 
 If I was subjected to all these false-witness crypto-leninist gypsies,
 why wouldn't I be pissed off at a specific ethnicity? Or other
-ethnicities generally? Because it's not their fault. This problem
-speaks deeply about the fallibility of humans in general. Besides,
-people who are not white and not socialist actually gave me the
-benefit of the doubt, more often than not.
+ethnicities generally? Because it's not their fault and that is
+precisely the trap. Instead, this problem speaks deeply about the
+fallibility of humans in general. Besides, people who are not white
+and not socialist generally gave me the benefit of the doubt more
+often than not.
+
+###
 
 Why is that? Well, there's a few reasons for that and I'm glad that I
 was wise enough to be peaceful about being mislabelled. Most people
@@ -240,7 +372,7 @@ justice" bullshit when it's not warranted. You are creating the
 problem and *your more radical leaders know that they are creating the
 problem*.
 
-### [It's Literally Leninist Paint-By-Numbers](#its-literally-leninist-paint-by-numbers)
+# [It's Literally Leninist Paint-By-Numbers](#its-literally-leninist-paint-by-numbers)
 
 These radical leninists are lying to you because they know that they
 can use ethnic tension to make America weaker. They also know how
@@ -278,7 +410,7 @@ money doesn't mean shit for anyone.
 
 #### Wake Up To The Smell Of Class Struggle
 
-![Marxism Coffee Mix](/img/posts)
+![Marxism Coffee Mix](/img/posts/2018-01-22-social-justice-a-cultural-revolution/)
 
 > It's Not Marxism, It's Leninism. Pray For World Revolution or That's
 > The Only Coffee You're Ever Going To Drink.
