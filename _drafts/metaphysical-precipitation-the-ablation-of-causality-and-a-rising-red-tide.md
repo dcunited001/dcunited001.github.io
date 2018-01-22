@@ -11,6 +11,57 @@ excerpt: ""
 - TODO: remove some of the imagery in this article?
 
 
+> original question: How is it possible to not contribute anything
+> meaningful if we still have virtue and relationships with others?
+
+human interactions, on average, have qualities that emerge from the
+larger-scale power structures in society. these large scale power
+structures become convergent and singular in something I call the
+#RedTide effect. it happens within the span of 10 or 20 years and, if
+we're not extremely careful, we end up living in a world very similar
+to the early dark ages or in a Serfdom. a very dark serfdom.
+
+> That doesn't really answer how we go from being a social species to
+> not continuing with, desiring, and finding our purpose and meaning
+> in relationships with others.
+
+i'm saying that people become very unlike anything humans or humanity
+ever has been. not necessarily because of technology, which simply
+accelerates this. it's because of teleological shifts underpinning the
+phenomenology of human psychological and sociological experience. it
+is very much an anti-stoic world and it's driven by overpopulation and
+technonihilism.
+
+it's horrible because it undermines that amazing sense of happiness
+you get from being detached from absolute social circumstance/state --
+instead choosing to redefine your worldview by becoming
+attached/focused on local & relative social circumstances/state for
+the derivation of happiness & meaning in life.
+
+==============
+
+- japanese punns (boudou and boudou)
+
+
+- the point is that technonihilism completely undermines the viability
+  of philosophical systems like stoicism. forces us to question the
+  rationality of someone who would even choose stoic principles in the
+  mid 21st century.
+  - so, in 2020, even if you built a time machine in secret and
+    literally brought Leonardo DaVinci into the future (assuming that
+    language and cultural issues are no problem), it would not
+    matter. No person can offer anything to humanity in this era that
+    outweighs his or her fiscal cost to society. there is no point to
+    anything without a strong belief system that artificially
+    reinforces the need for adherence to virtues.
+
+
+#### Black Veil Brides - Wake Up
+
+<iframe width="560" height="315"
+src="https://www.youtube.com/embed/HBB37gsHJmQ" frameborder="0"
+allow="autoplay; encrypted-media" allowfullscreen></iframe>
+
 - (Our shared fabric for (communication) is shedding its
   physicality, (its discrete quality), and finally its temporality,
   congealing into ...)
