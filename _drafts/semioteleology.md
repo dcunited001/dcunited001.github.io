@@ -49,4 +49,4 @@ sadomasochistic
 
 ### Dark Ruler
 
-![Don't Lie, That's Not Dark Ruler]()
+![Dark Ruler]()
