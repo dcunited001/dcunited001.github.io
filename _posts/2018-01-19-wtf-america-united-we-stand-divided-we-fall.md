@@ -34,6 +34,40 @@ pricks couldn't pop a balloon, even if they were thinking about
 setting someone up on child porn charges, since apparently that is
 their schtick.
 
+> Please note: there is a difference between fictitious and facticious
+> disorders, acquired and conferred either by oneself or others. So,
+> no, I'm not perfectly stable -- thank you very much for your
+> "concern" -- but I have indured far too much psychosocial carnage
+> for me to stand by and allow a world to exist where this could
+> *ever* happen to someone else. I intend to destroy the very
+> possibility of these methods, while creating a world whose shared
+> memory of these horrid methods ensures that they will forever be
+> contained and preemptively inviolated -- before they could ever be
+> used to destroy another life.
+>
+> That said, I am not completely certain of everything contained
+> herein. A lot of it sounds crazy and may not be factual, especially
+> the assertions about Barack Obama. However, I challenge even one of
+> you to amerliorate my suffering by helping to clear up ANY
+> uncertainty -- but you won't because you want me to create
+> information that you can use to humiliate, isolate and contain me. I
+> cannot be contained to a "space" because I have ascended to a space
+> you cannot even imagine.
+>
+> Please, I want this to be false. Challenge my propositions with
+> actual argument. Make me issue retractions, but as things stand now,
+> there is NO possible way anyone could actually hear my retractions,
+> much less anything I ever have to say, no thanks to "you" whoever
+> you are. If you do not seek to quell chaos, I can only assume that
+> you intend to foment it. How dare you!? How dare you innocently act
+> one way, while intending to create all the problems you claim to
+> want to destroy! If the world could be cleansed of malicious intent,
+> we would still have to deal with the tragic consequences and
+> unavoidable necessities of both nature and human existance -- as
+> well as all the economic exigencies therein -- but at least we
+> wouldn't have to deal with malicious intent towards the accumulation
+> of power.
+
 I've accumulated like eight different personality disorders and
 psychological complexes, most of which I should never have. This is in
 addition to Asperger's, the only psychological issue I should be
@@ -789,7 +823,7 @@ THREE, NO, TEN YEARS.
 > numbers](https://www.youtube.com/watch?v=DThAoT3q2V4) don't exist
 > either, by that logic. Holy shit, those things really jumped right
 > into our universe didn't they. Where'd they come from?
->
+
 > [Bombelli](https://en.wikipedia.org/wiki/Rafael_Bombelli) says:
 > "specific types of cubic polynomials with real solutions but
 > quadratic roots requiring complex factors." Therefore, because you
@@ -801,6 +835,11 @@ THREE, NO, TEN YEARS.
 > materialist metaphysics converges to their ideals. ALWAYS.
 
 ![Trolley Variants](/img/posts/2018-01-19-wtf-america-united-we-stand-divided-we-fall/trolley-variants.png)
+
+> I would rather have leaders that can handle the truth. Or even
+> falsehoods. And fake news. And whatever is thrown their way.
+
+### [Never forget: to Marxists, **Philosophers are Terrorists**](#never-forget-to-marxists-philosophers-are-terrorirsts)
 
 Who is worthy of being the leader? Who do you want to pull that lever
 in the trolley problem? You want the smartest damn moral
