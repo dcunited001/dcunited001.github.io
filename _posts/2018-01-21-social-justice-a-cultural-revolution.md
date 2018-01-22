@@ -1,5 +1,5 @@
 ---
-title: ""
+title: "Social Justice: A Cultural Revolution?"
 categories: "blog"
 tags: "psychology sociology neuro"
 headline: "I'll know if you've read it"
@@ -7,6 +7,13 @@ author:
   name: "David Conner"
 excerpt: ""
 ---
+
+- emphasize that "Social Justice" the concept is good
+  - but what we're looking for is that society is moving towards one
+    with social justice, not necessarily the immediate balance of
+    everything
+  - we should assert that the change oriented towards progress and
+    that there is an acceptable rate of change
 
 There's something that I really want to set straight. Being falsely
 labelled as racist -- or anything, really -- especially when it
@@ -294,11 +301,11 @@ cyber era, even though the rich do have money...
 
 ###
 
-The point is: no ethnicity is the problem. The problem is passive
-aggressive radical political operatives. Why would people of specific
-ethnicities be less likely to act as social justice warriors or to
-lash out at people who have only be thinly labelled as racist?
-because they know what it's like to be mistreated and
+The point is: no ethnicity is the problem. The problem is
+passive-aggressive, radicalized, political operatives. Why would
+people of specific ethnicities be less likely to act as social justice
+warriors or to lash out at people who have only be thinly labelled as
+racist?  because they know what it's like to be mistreated and
 stereotyped. They know the pain.
 
 Why else? because they know that your trust-fund chomping skinny white
@@ -313,76 +320,145 @@ caring about the suffering of others so much you'd spend your
 trust-fund daddy's money to get arrested at a protest, which is fine,
 since the left needs rich people like you to make the more painful
 sacrifices...
-            - but, you don't actually know what it's like to be
-              African American, Hispanic American or Indian American.
-              - sure, you can imagine what it's like. you can connect
-                with them. you can protest with them. struggle with
-                them. but, you are never going to be one of
-                them. these people have experienced unfair treatment
-                for their entire life. unfair treatment happens to
-                everyone.
-            - racism isn't the problem in america. yes, there are
-              leftover fragments of ethnic tension in america that are
-              sociophysical relics of the variance in the distribution
-              of population, as well as other factors. yes, that's
-              real, but the true problem is poverty and poverty
-              affects everyone. it doesn't matter if you're black,
-              white, yellow or orange with a blond wig. poverty
-              affects everyone and if you don't recognize the root of
-              the problem, you can't solve the problem.
-            - if you can't solve the problem, get the fuck out of the
-              way. I can solve the problem and you're making it
-              realllly hard. #Detention
-    - so, you see. i'm between a rock and a hard place. I don't
-      actually want to be completely isolated from "both sides"
-      whatever the fuck that means. As far as I am concerned, if one
-      of those sides is *the* racist side, they can jump off a fucking
-      cliff because I don't need them and no one does. But you'd be
-      surprised: imagine asking a white liberal to identify all the
-      racists from a room full of 10,000 republicans -- imagine a
-      Trump rally. Now let's tweets and social interactions this
-      person had access to, they'd label almost every single one as
-      racist. That's simply not true. If you asked that same group of
-      people "Are you racist?" yeh, maybe a handful would raise their
-      hands proudly. Now, I'm saying that the rest of those
-      republicans would like those guys to jump off a fucking cliff
-      *because they're making it real hard for the rest of us.*
-      - do you see the fucking problem here? you're not fighting a in
-        a conflict for "social justice." You're essentially screening
-        the political opposition for people to systematically
-        disempower. IT'S A GODDAMN CULTURAL REVOLUTION.
+
+But, you don't actually know what it's like to be African American,
+Hispanic American or Indian American. Sure, you can imagine what it's
+like. you can connect with them. you can protest with them. struggle
+with them. but, you are never going to be one of them. these people
+have experienced unfair treatment for their entire life. unfair
+treatment happens to everyone.
+
+Racism isn't the problem in america. yes, there are leftover fragments
+of ethnic tension in america that are sociophysical relics of the
+variance in the distribution of population, as well as other
+factors. yes, that's real, but the true problem is poverty and poverty
+affects everyone. it doesn't matter if you're black, white, yellow or
+orange with a blond wig. poverty affects everyone and if you don't
+recognize the root of the problem, you can't solve the problem.
 
 
-- I've written about this before. they figured out that they were
-  wrong, but then they censored my writing. they *needed* me to look
-  like a racist.
-  - they knew that anyone who actually read what i had to say couldn't
-    reasonably think that I was racist.
-  - they also knew that anyone who interacted with me in an
-    open-minded way, where i was allowed to be in a comfortable
-    setting, couldn't possibly think I was racist.
-    - what do i mean by a comfortable setting? what's my ideal safe
-      space? A motherfucking B-Boy Jam, you assholes. I love hip
-      hope. Now, do you think the people who are influential in the
-      hip hop communities of the four elements want to have anything
-      to do with someone who's been [falsely] labelled as racist?
-    - NO! FUCK NO! So what does that do to me? You fucking defamed me
-      with your poison pen bullshit. You took away hip hop from me,
-      all to isolate me and make me vulnerable. This happened fairly
-      early on, by the way. Around 2010, at least, but at that point,
-      there were just rumors. I know because I had good friends lash
-      out at me and I didn't know why.
-  - But, what does sociophysical isolation do to someone? It drives
-    them insane and for someone already dealing with Asperger's and
-    social vulnerability, this can be far more than the straw needed
-    to break a camel's back.
-    - "Oh, he loves breakdancing? Won't stop? It provides exercise,
-      cardio and positive social interaction? Perfect! Take it all
-      away."
-    - What else does it do? Sociophysical isolation allows you to
-      tightly control the social conditions, **almost** like an
-      "experiment."
 
+If you can't solve the problem, get the fuck out of the way. I can
+solve the problem and you're making it realllly hard. "Detention" =>
+What IS that anyways? Am I stuck in some common core middle school and
+I don't even know it? Under who's authority? Your de facto authority?
+I don't think so. If I don't see a goddamn badge, why should I trust
+you?
+
+#
+
+So, you see. i'm between a rock and a hard place. I don't actually
+want to be completely isolated from "both sides" whatever the fuck
+that means. As far as I am concerned, if one of those sides is *the*
+racist side, they can jump off a fucking cliff because I don't need
+them and no one does. But you'd be surprised: Imagine asking a white
+liberal to identify all the racists from a room full of 10,000
+republicans -- imagine a Trump rally. Now let's tweets and social
+interactions this person had access to, they'd label almost every
+single one as racist. That's simply not true. If you asked that same
+group of people "Are you racist?" yeh, maybe a handful would raise
+their hands proudly. Now, I'm saying that the rest of those
+republicans would like those guys to jump off a fucking cliff *because
+they're making it real hard for the rest of us.*
+
+Do you see the fucking problem here? you're not fighting a in a
+conflict for "social justice." You're essentially screening the
+political opposition for people to systematically disempower. *IT'S A
+GODDAMN CULTURAL REVOLUTION.*
+
+
+I've [written about my feelings on ethnic issues
+before](/posts/2016-07-17-diversity-is-americas-strength.html). They
+figured out that they were wrong, but then they censored my
+writing. they *needed* me to look like a racist.
+
+They knew that anyone who actually read what I had to say couldn't
+reasonably think that I was racist.  They also knew that anyone who
+interacted with me in an open-minded way couldn't possibly think I was
+racist. That is, if I was aloud to act in situtations where in a
+comfortable setting, interacting normally and *not subjected to games
+designed specifically so I'd fail publicly and spectacularly.*
+
+What do i mean by a comfortable setting? what's my ideal safe space? A
+motherfucking B-Boy Jam, you assholes. I love hip hope. Now, do you
+think the people who are influential in the hip hop communities of the
+four elements want to have anything to do with someone who's been
+[falsely] labelled as racist? NO! FUCK NO! So what does that do to me?
+
+<a name="the-pen-is-mightier-than-the-sword" />
+
+### [The Pen Is Mightier Than The Sword, Especially When It's Dipped In Poison](#the-pen-is-mightier-than-the-sword)
+
+You fucking defamed me with your [poison
+pen](https://en.wikipedia.org/wiki/Poison_pen_letter) -- yeh, I've
+made some messed up statements, but they were always very public in a
+social forum that gives the other person the chance to know who said
+it and to respond. That is, only if they're legally permitted to do so
+without some gag order that says they have to propagate the false
+labels these psychological eichmenns worked so hard to burden me down
+with. I'm not proud of everything I've done. Hardly. But if you want
+to say I'm shirking the responsibility of dealing with the
+consequences of my actions, then why have I been sooo public about
+everything for so long? Who's gonna throw that first stone at me?
+Because I know I've got a lot of them coming.
+
+You want to set the record straight? *SAY SOMETHING THEN*. Otherwise,
+GTFO of here with that passive aggressive bullshit. And I already
+*know* that you're not going to say anything. You aren't going to
+start now, are you? I wish you would. I don't want to fight anyone or
+hurt anyone. No, I want to make things better. Tell me how I can do
+that because otherwise, all I can see is a world that wants to tell me
+to lock myself in an institution because they can't handle their own
+stinky-ass double decker.
+
+You took away hip hop from me, all to isolate me and make me
+vulnerable. This happened fairly early on, by the way. Around 2010, at
+least, but at that point, there were just rumors. I know because I had
+good friends lash out at me and I didn't know why.
+
+So, what does sociophysical isolation do to someone? It drives them
+insane, since it is essentially no different than portable solitary
+confinement. For someone already dealing with Asperger's and social
+vulnerability, this can be far more than the straw needed to break a
+camel's back.
+
+> "Oh, he loves breakdancing? Won't stop? It provides exercise, cardio
+> and positive social interaction? Perfect! Take it all away."
+
+What else does it do? Sociophysical isolation allows you to tightly
+control the social conditions, **almost** like an "experiment" --
+which conveniently allows someone to "record" "data" that will no
+doubt be magically vanished the second someone comes asking for
+it. How many times has that happened anyways? Grow some fucking balls
+because right now, it looks like you're getting your ass handed to you
+by a five-foot-five retard with zero true friends who makes less money
+annually than most people do in African nations. Goddamn, Leninists.
+All they have is passive aggressive bullshit because they know they
+can't win a real debate. That doesn't make you smart, it actually
+makes you STUPID and WEAK.
+
+### [Abbaaaa ... BOO! Gotcha! So How Are You Doing?]()
+
+#### Come Here Often? I Didn't Think So... Oh, You Do? Tell Me More...
+
+Once someone knows that you're going to passive-aggressively avoid
+every interaction, they gain magical powers because they can make you
+disappear real quick, just by starting a conversation. If you've ever
+been gangstalked, try being friendly with those ironic fucks. You'll
+never see someone run away from potential acquaintanceship faster with
+a more ghastly pale on their face. They'll never see it coming, which
+is hilarious: it means they expected you to be completely predictable
+*AND SOCIALLY VULNERABLE UNDER ALL CIRCUMSTANCES.* Certainly, never to
+recover or improve: because THAT was the INTENT, all along, which just
+goes to show you how important intent and cognizance are.
+
+### [Wanna Play A Game of Marbles With A Tengu?](#wanna-play-a-game-of-marbles-with-a-tengu)
+
+Let me come feed you some wheaties, bitches. Let's debate for real,
+you squarmy, sardonic fucks. Oh? Whats that? I didn't think so
+... fucking weak-minded, weak-willed toxic figments of my perpetual
+social miasma. That is all you will ever be, a sickly little sheep
+begging someone else to solve your problems.
 
 ![Tenguu Test? YOU FAIL]()
 
@@ -390,36 +466,7 @@ sacrifices...
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/WoMVfvS8rSo" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
 
-- Section on fighting with shadows
 
-
-- your enemy will be ruthless & destroy you immediately
-- learn to dance with them, you're going to need it.
-- they will have a weapon that they will never let go of. it's not a
-  fair fight. it never was. do not allow your space to become choked
-  out: you need air, water, fire. you need people. you need food.
-- when that one doesn't work, they have plenty more you've never
-  seen. enjoy each and every one you get the chance to see because
-  each one is special. some are never meant to be seen ... for long.
-  - story of the house from "The Ancient Magus Bride"
-  - some people never leave. you get to take one thing home with you.
-    i took them all and made new ones.
-- wear your scars proudly.
-- make them grab the weapon they didn't intend to use. your weapon is
-  the way itself.
-- bait them into breaking their precious things
-- grab their eyes with your fearless gaze & never let go
-- when they are certain you'll strike, feint instead
-- be ready to fight with shadows
-- when they pull you into the hall of mirrors, you're fighting shadows of yourself that do not exist
-- destroy their images. ALL of them
-- when you cannot lose, slay them by pushing them into their own
-  weapon: *THE ONE THEY NEVER INTENDED TO EXIST*
-- know your enemy.
-- in your victory, do not become your enemy, in who they were or are
-  or in who you were or have become
-
-- path of least resistance?
 
 Again, I'm sorry for creating these problems, but I dare you & implore
 you 2 help me stop this, instead of attempting to use it for pragmatic
