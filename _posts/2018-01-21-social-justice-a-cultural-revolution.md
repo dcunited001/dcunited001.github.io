@@ -187,19 +187,19 @@ expensive liberal policies which were required.
 > know they used occult methods to transfer to their only
 > children.
 
-### Enders Game: You cannot have a third.
+### [Enders Game: You Cannot Have A Third]()
 
-> All your babes are belong to us, for "experiments" of course. It
-> serves you right, doesn't it? And if you really believed in what you
-> did, you wouldn't said a word about it would you? See? The
-> explanation checks an awful lot of boxes, although it really has
-> zero factual basis. You'll have all the papers you need, no one will
-> be able to tell the difference. And NO, you'll children nor your
-> children's children will EVER be permitted to have anything of
-> significance, nor will anyone be the wiser as to why so many of
-> their lives are miserable.
+All your babes are belong to us, for "experiments" of course. It
+serves you right, doesn't it? And if you really believed in what you
+did, you wouldn't said a word about it would you? See? The explanation
+checks an awful lot of boxes, although it really has zero factual
+basis. You'll have all the papers you need, no one will be able to
+tell the difference. And NO, you'll children nor your children's
+children will EVER be permitted to have anything of significance, nor
+will anyone be the wiser as to why so many of their lives are
+miserable.
 
-#### [#NoGameNoLife]() #Area51 #LegalBasisFor #Transnationalism and #PostWestphalianism
+#### [#NoGameNoLife](https://en.wikipedia.org/wiki/No_Game_No_Life) #Area51 #LegalBasisFor #Transnationalism and #PostWestphalianism
 
 Guess who has all the legal keys to this, by the way. It's Donald
 J. Trump. His family is connected to all of it and that's partially
@@ -231,14 +231,18 @@ anti-American their narratives are? *YOU WANT THAT TO BE YOUR
 FUTURE?!* Really? **That** shit is *cray*.
 
 Anyways, there it all is. I've written it down. I am not racist. I
-never was. I don't understand what this is about. I don't know why
-I've been targeted. If I ever had some connection to this, I wouldn't
-know. That seems crazy, to me. Impossible. I'm already crazy enough:
-do I need another delusion. Would you like to gaslight me some more?
-Because I know how to handle that. Jujutsu. If it ain't true, by the
-time you finish gaslighting me with delusional bullshit, people are
-going to believe it's true: people other than me because I ain't
-stupid.
+never was. If my entire life from conception was a protest, the point
+is => *I'M NOT FUCKING RACIST*. That's the point. I don't understand
+what this is about. I don't know why I've been targeted. It may be
+because I figured some BYMAN shit out around the end of 2012. If I
+ever had some connection to this, I wouldn't know. That seems crazy,
+to me. Impossible. I'm already crazy enough: do I need another
+delusion. Would you like to gaslight me some more?  Because I know how
+to handle that. Jujutsu. If it ain't true, by the time you finish
+gaslighting me with delusional bullshit, people are going to believe
+it's true: people other than me because I ain't stupid.
+
+#
 
 The problem for me has been, in order to fight back against defamation
 by false label, I have to acknowledge the label. If you've ever seen
