@@ -193,10 +193,24 @@ expensive liberal policies which were required.
 > serves you right, doesn't it? And if you really believed in what you
 > did, you wouldn't said a word about it would you? See? The
 > explanation checks an awful lot of boxes, although it really has
-> zero factual basis. #NoGameNoLife
+> zero factual basis. You'll have all the papers you need, no one will
+> be able to tell the difference. And NO, you'll children nor your
+> children's children will EVER be permitted to have anything of
+> significance, nor will anyone be the wiser as to why so many of
+> their lives are miserable.
 
-All Your Babes Are Belong To Us For Experiments, Of Course. Serves you
-right, doesn't it?
+#### [#NoGameNoLife]() #Area51 #LegalBasisFor #Transnationalism and #PostWestphalianism
+
+Guess who has all the legal keys to this, by the way. It's Donald
+J. Trump. His family is connected to all of it and that's partially
+what the Anna Nicole Smith case was about: could any of their seized
+property even incidentally fall outside the strict control of
+[OAPC](https://en.wikipedia.org/wiki/Office_of_Alien_Property_Custodian).
+
+And if I ain't Trump's uncle, his uncle was the Alien Property
+Custodian. And now you know what all of this shit is *potentially*
+about, by the way. It's about *domineering* the historical narrative
+of post-WW2 history, for whatever reason. I can't actually say.
 
 Anyways, no, we do not actually want Nazi's riding on dinosaurs, but
 if I had to choose between diversity-rainbow "not-Nazi's" on ponies
@@ -215,6 +229,16 @@ economy? You want prosperity where America's collective, multi-ethnic
 fate is NOT determined by our enemies? Do you remember how
 anti-American their narratives are? *YOU WANT THAT TO BE YOUR
 FUTURE?!* Really? **That** shit is *cray*.
+
+Anyways, there it all is. I've written it down. I am not racist. I
+never was. I don't understand what this is about. I don't know why
+I've been targeted. If I ever had some connection to this, I wouldn't
+know. That seems crazy, to me. Impossible. I'm already crazy enough:
+do I need another delusion. Would you like to gaslight me some more?
+Because I know how to handle that. Jujutsu. If it ain't true, by the
+time you finish gaslighting me with delusional bullshit, people are
+going to believe it's true: people other than me because I ain't
+stupid.
 
 The problem for me has been, in order to fight back against defamation
 by false label, I have to acknowledge the label. If you've ever seen
