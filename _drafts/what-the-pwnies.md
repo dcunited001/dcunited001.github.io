@@ -34,7 +34,6 @@ expensive liberal policies which were required.
 > I'm wrong here. You fail to recognize that I want to be wrong in a
 > majority of what I write.
 
-
 <a name="area-51-and-enders-game-you-cannot-have-a-third" />
 
 ### [Area 51 and Enders Game: You Cannot Have A Third](#area-51-and-enders-game-you-cannot-have-a-third)
@@ -116,10 +115,48 @@ fate is NOT determined by our enemies? Do you remember how
 anti-American their narratives are? *YOU WANT THAT TO BE YOUR
 FUTURE?!* Really? **That** shit is *cray*.
 
-**Pick one:** either the Project for a New American Century
-successfully guarantees that we hang on to power ... or there is
-systemic economic collapse that degrades into *IRONIC COMMUNISM*, the
-very worst type of the worst form of government. Either one, can we
-please not become a giant nation of racist assholes? Because diversity
-really is America's greatest strength in a 21st century economy by the
-way.
+**Pick one:** either something like the Project for a New American
+Century successfully guarantees that we hang on to power ... or there
+is systemic economic collapse that degrades into *IRONIC COMMUNISM*,
+the very worst type of the worst form of government. Either one, can
+we please not become a giant nation of racist assholes? Because
+diversity really is America's greatest strength in a 21st century
+economy by the way.
+
+There are such things as sociopolitical and socioeconomic competition
+and America has to compete, just like everyone else. When you allow
+foreign influences to convince us to take it easy, corrupt our youth
+or generally demoralize the population, you cripple America's ability
+to compete. That's NOT racist. That is reality. The world is pretty
+tough place and it can be dark. America is not alone. Even though
+we've become weak after a generation of unchallenged monopolar
+hegemony, our position in the world is not guaranteed.
+
+Neither are the moral requirements for running the world's reserve
+currency, nor are the fiscal advantages derived thereof. By the way,
+communism guarantees losing Dollar's world reserve currency, even
+though we have do options, though we do not actually want to exercise
+many of those.
+
+Leninists will try to argue up and down about that, by the way, but at
+this point, do you trust any of them? They're going to lie about
+everything, then tell their own story when once they gain
+control. Then, they'll associate anyone who disagrees with them with
+their enemies. That's what they do. Every time.
+
+Most critically, these "revolutionaries" have less than a single
+generation of leadership under their belt. At the most competitive
+point in history, do you really want them to take control? They have
+no vision. Their idea of "success" involves collapsing the economy,
+painting all dissidents with a broad brush and fabricating all of
+these counter-narratives moving foward whereby they can count on using
+them in the future. This is all while they idiotically **hope** that
+*America's most powerful former adversaries are nice to us* in the
+ensuing power vaccum that determines geopolitics in the Western
+Hemisphere. This is all while those foreign adversaries help those in
+"power" in the United Soviet States of Formerly America mercilessly
+hunt down all *potential* political dissidents, like Stalinists are
+wont to do.
+
+When all that is said and done, is it really such a hard choice, if it
+can be guaranteed that there is no racism?
