@@ -211,6 +211,28 @@ children will EVER be permitted to have anything of significance, nor
 will anyone be the wiser as to why so many of their lives are
 miserable.
 
+<a name="la-democratie-cest-une-idee-ironique" />
+
+### ["La démocratie" -- c'est une idée ironique, n'est-ce pas?](#la-democratie-cest-une-idee-ironique)
+
+By the way, the 51st state is not going to be Puerto Rico. It was
+never even up for debate -- well, technically it was. That's what the
+Deep State does: they control everything. Everything is and, since
+WW2, as always been a very complicated facade, albeit a democracy --
+*TECHNICALLY*. It's that way, for a reason: because it's probably best
+that the masses don't drag us down to economic collapse and thence
+rears that damnably invulnerable hydra communism.
+
+The point is not that democracy is inherently flawed. Instead the
+point is that democracy without free press where unchecked
+disinformation floods minds with fervorous rancor isn't democracy at
+all. It's simply a facade, which actually serves the interests of the
+elite more often than it protects the interests of the
+people.
+
+> Basically, I'm saying -- want a democracy? GO TO SCHOOL, PROTECT
+> WHISTLEBLOWERS AND MAKE SURE CNN DOESN'T RUN THE SHOW.
+
 #### [#NoGameNoLife](https://en.wikipedia.org/wiki/No_Game_No_Life) #Area51 #LegalBasisFor #Transnationalism and #PostWestphalianism
 
 Guess who has all the legal keys to this, by the way. It's Donald
