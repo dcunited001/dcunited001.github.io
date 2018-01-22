@@ -9,7 +9,89 @@ excerpt: ""
 ---
 
 - TODO: remove some of the imagery in this article?
+- TODO: add section on alchemy as sociophysical chemistry and where
+  this has the propensity to go horribly wrong
+- TODO: cite the 2014 curcumin nanotechnology paper
+- bruce lee one inch punch
 
+
+
+#EnterTheDragon => Defeating #HallOfMirrors https://www.youtube.com/watch?v=WoMVfvS8rSo …
+
+- your enemy will be ruthless & destroy you immediately
+- they have a weapon they will never let go of
+- make them grab the weapon they didn't intend to use
+- bait them into breaking their precious things
+- grab their eyes with your fearless gaze & never let go
+- when they are certain you'll strike, feint instead
+- be ready to fight with shadows
+- when they pull you into the hall of mirrors, you're fighting shadows of yourself that do not exist
+- destroy their images. ALL of them. only then can you be sure to see
+  clearly.
+- when you cannot lose, slay them by pushing them into their own
+  weapon: THE ONE THEY NEVER INTENDED TO EXIST
+
+<iframe width="560" height="315"
+src="https://www.youtube.com/embed/WoMVfvS8rSo" frameborder="0"
+allow="autoplay; encrypted-media" allowfullscreen></iframe>
+
+========
+
+#Curcumin can help disrupt the theoretical SPION nanoparticle
+distribution in your brain.
+
+so if they are using "directed energy" pulses with people who have
+been dosed with SPION's or "saline" solution, then it requires sensors
+with hyperspectral imaging, which almost certainly must be calibrated.
+
+so, that would mean the particles would need to be dispersed in the
+skull/brain in some known pattern to match the resulting energy
+signatures ... and if so, then chemicals like curcumin may completely
+disrupt the calibrated distribution of nanoparticles. (this actually
+isn't in the article i wrote, yet. i need to add it)
+
+=========
+
+#MeltdownSpectre: the actual problem => THE FIX IS A
+SECOND-ORDER #WeaponizableExploit that can B triggered with #Any
+#Javascript to destroy hardware
+
+https://twitter.com/dcunit3d/status/954763462353346560
+
+
+- see the screenshots for more information
+  - they are trying to burn down the library of alexandria
+  - during the government shutdown
+  - look up at the screenshots
+
+What happens when the hardware accelerations now voided by Meltdown
+Spectre are no longer available? you invalidate some important
+assumptions about intel/AMD's hardware design, which means higher
+thermal radiation in the CPU.
+
+Therefore the fixes to Meltdown and Spectre may cause recent CPU
+hardware to literally meltdown. The problem is not realllly Meltdown
+or Spectre, but in the solution. imagine a world where only ARM
+hardware remains!
+
+Ask someone with a PhD in Computer Engineering or a PhD in Computer
+Science with compiler design and/or Javascript VM design & AST
+experience. Ask them about the effects the fixes to MeltdownSpectre
+will have on thermal radiation and heat clearance in the hardware.
+
+> Is there a fucking ethical holocaust server? @Kobe ??
+
+in other words if you design hardware assuming that the optimizations
+of MeltdownSpectre are always avialable, then you can make assumptions
+about how much thermal radiation new CPU's can tolerate without
+burning out. take those optimizations away and your thermal
+assumptions are no longer valid! this enables targeted destruction of
+hardware around the world by specific software exploits run
+amok. these exploits will look fairly harmless, but they will be
+tailored to exacerbate the now invalid optimization pathways that were
+formerly availabe via the MeltdownSpectre
+
+==============
 
 > original question: How is it possible to not contribute anything
 > meaningful if we still have virtue and relationships with others?

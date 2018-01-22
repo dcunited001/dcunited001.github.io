@@ -173,7 +173,6 @@ falsely being labelled racist, smeared at work, etc by social justice
 warriors operating righteously because they authentically think they
 are doing what is right.
 
-
 Well, you've got good intentions, honey, but you're wrong. I'm not
 racist. I never was. I never will be. I was falsely labelled and
 someone indirectly asked you to target me and shows you some chopped
@@ -183,13 +182,14 @@ am? FUCKING PISSED OFF. At who?  White, liberal America.
 
 #### And They Wonder Why I Have Trust Problems
 
-> "Good day, 'American' asexualized-incel, racist shit, would you like
-> to have the only conversation with a woman you've never met that
-> you'll ever have in America to last more than five minutes? Good!
-> Tell me all your secrets, we're going to destroy you. It's
-> definitely not a trap. It will be used to neurologically torture you
-> for the rest of your life. Don't kill yourself immediately; we need
-> to make this a good one."
+> "Good day, 'American' asexualized-incel, booked(?) racist bag
+> o'shit, would you like to have the only conversation with a woman
+> you've never met that you'll ever have in America to last more than
+> five minutes? Good! Tell me all your secrets, we're going to destroy
+> you. It's definitely not a trap. It will be used to neurologically
+> torture you for the rest of your life. Don't kill yourself
+> immediately; we need to make this a good one. A long one and a good
+> one."
 
 ![The Honeypot]()
 
@@ -210,10 +210,15 @@ memo" about David Conner. The one that says: do not, under any
 circumstance, allow this person to ever feel like anything more than
 an abused puppy. We've gotten our hands *real dirty* to make all this
 wonderful black magick happen. It's cost us millions and it'd be a
-real shame if we boarded you, too.
+real shame if we boarded you, too. Yeh, I'm pretty sure that's what
+happened, sometimes, but -- again -- how the fuck am I supposed to
+know? Anyways ...
 
-Why wouldn't i be pissed of at a specific ethnicity? Or other
-ethnicities generally? because it's not their fault. This problem
+###
+
+If I was subjected to all these false-witness crypto-leninist gypsies,
+why wouldn't I be pissed off at a specific ethnicity? Or other
+ethnicities generally? Because it's not their fault. This problem
 speaks deeply about the fallibility of humans in general. Besides,
 people who are not white and not socialist actually gave me the
 benefit of the doubt, more often than not.
@@ -228,30 +233,86 @@ justice" bullshit when it's not warranted. You are creating the
 problem and *your more radical leaders know that they are creating the
 problem*.
 
-These radical marxists are lying to you because they know that they
-can use ethnic tension to make America weaker. they also know how
+### [It's Literally Leninist Paint-By-Numbers](#its-literally-leninist-paint-by-numbers)
+
+These radical leninists are lying to you because they know that they
+can use ethnic tension to make America weaker. They also know how
 useful this will be in maintaining and perpetuating power after a
-cultural revolution.
+cultural revolution. Simply use a broad brush and paint all your
+enemies later on as being racists, if their in the opposition. Many
+things are not meant to be seen and will not make sense until you look
+backwards after extrapolating forwards. The more things that seem to
+line up from such futures past and the more difficult these inferences
+are to make, the more likely it is that someone has hidden
+designs. This is how "it's obvious" -- except it's not. It is
+certainly not meant to be seen until it was too late.
 
-But, back to the point, why would people of specific ethnicities be
-less likely to act as social justice warriors or to lash out at people
-who have only be thinly labelled as racist?  because they know what
-it's like to be mistreated and stereotyped. They know the pain.
+#### None Of Their Designs Make Sense Until You Peer Backwards From Futures Past
 
-            - why else? because they know that your trust-fund
-              chomping skinny white socialist ass might be wrong. and
-              if someone falsely labeled another who is targeted, that
-              looks reallly bad. it sets race relations back. people
-              who actually respect ethnic issues know this, so they
-              don't do it. who respects ethnic issues more than
-              anyone? people who have shared in the suffering and
-              progress of those ethnicities. they know what it's like
-              to be set back and have shared that pain. Sure, you --
-              as a white trust-fund activist -- should be applauded
-              for caring about the suffering of others so much you'd
-              spend your trust-fund daddy's money to get arrested at a
-              protest, which is fine, since the left needs rich people
-              like you to make the more painful sacrifices...
+<iframe width="560" height="315"
+src="https://www.youtube.com/embed/zcqZHYo7ONs" frameborder="0"
+allow="autoplay; encrypted-media" allowfullscreen></iframe>
+
+In the video above, your eyes don't actually receive a photonic signal
+until the entanglement via polarization has been resolved with
+certainty. So you extrapolate to look forward, then look backwards. If
+you only try to extrapolate with deterministic certainty, you will
+never figure these things out, which is exactly what these Leninist
+architects intend.
+
+And *that* is what makes the far-far-leftists so goddamn criminal.
+They know they must make the bottom fall out and they let their
+contempted bougeoisie feel comfortably in power until it does. When
+everything happens -- because they have the advantage of numbers and
+have belligerently caused so many problems in democratic societies --
+the poor will do anything they say. After the bottom falls out, the
+economy will not function again for the poor or the rich, which means
+money doesn't mean shit for anyone.
+
+Furthermore, leninists will bide their time. They *know* that they
+only get one real shot at revolution per generation, absent systemic
+sociological chaos. Why? Because that's the flaw that Lenin addressed
+with Marxism: the rich responded to Marxist revolution by satiating
+the poor's desire for higher standard of living -- nevermind that this
+probably had more to do with the industrial revolution **and
+technology** than most of the actual response to marxism.
+
+To me, it is all about what you **intend** to create in society.
+Almost no leftists would intend to create these problems, but the
+moreso Leninist architects of this? They're traitors and if they got
+away with this stuff, they would have gotten away with it for all time
+because of the singularity. They are ruining the economy without
+regard for how that affects our ability to project American and
+Western power abroad. Why? Because they don't care that their
+revolution to create communism essentially revokes any sensible
+argument for Americans to control the global reserve currency. It's
+staring them straight in the face and they wouldn't even care if the
+noticed it. Why? Because they're Marxists at heart: they just make
+shit up to win and they have the numbers to sociophysically amplify
+their message to get away with it. The rich do not, especially in the
+cyber era, even though the rich do have money...
+
+###
+
+The point is: no ethnicity is the problem. The problem is passive
+aggressive radical political operatives. Why would people of specific
+ethnicities be less likely to act as social justice warriors or to
+lash out at people who have only be thinly labelled as racist?
+because they know what it's like to be mistreated and
+stereotyped. They know the pain.
+
+Why else? because they know that your trust-fund chomping skinny white
+socialist ass might be wrong. and if someone falsely labeled another
+who is targeted, that looks reallly bad. it sets race relations
+back. people who actually respect ethnic issues know this, so they
+don't do it. who respects ethnic issues more than anyone? people who
+have shared in the suffering and progress of those ethnicities. they
+know what it's like to be set back and have shared that pain. Sure,
+you -- as a white trust-fund activist -- should be applauded for
+caring about the suffering of others so much you'd spend your
+trust-fund daddy's money to get arrested at a protest, which is fine,
+since the left needs rich people like you to make the more painful
+sacrifices...
             - but, you don't actually know what it's like to be
               African American, Hispanic American or Indian American.
               - sure, you can imagine what it's like. you can connect
