@@ -66,16 +66,26 @@ war, conflict, misery and unjust subjugation.
 
 # [What You Intend Matters](#what-you-intend-matters)
 
-### [What The Pwnies?!](#what-the-pwnies)
+### [How To Fight Abstract, Higher-Order Poison Pen Defamation?](#how-to-fight-abstract-higher-order-poison-pen-defamation)
 
-### [Area 51 and Enders Game: You Cannot Have A Third](#area-51-and-enders-game-you-cannot-have-a-third)
 
-### ["La démocratie" -- c'est une idée ironique, n'est-ce pas?](#la-democratie-cest-une-idee-ironique)
-
-### [#NoGameNoLife](https://en.wikipedia.org/wiki/No_Game_No_Life) #Area51 #LegalBasisFor #Transnationalism and #PostWestphalianism
+### [You Took Away Hip Hop from a B-Boy? Just To Isolate Them?](#you-took-away-hip-hop-from-a-bboy-just-to-isolate-them)
 
 
 
+
+### [The Pen Is Mightier Than The Sword, Especially When It's Dipped In Poison](#the-pen-is-mightier-than-the-sword)
+
+
+### [A Lower Annual Income Than The Average Person In Africa](#a-lower-annual-income-than-the-average-person-in-africa)
+
+### [Abbaaaa ... BOO! Gotcha! So How Are You Doing?](#ababou-gotcha-so-how-are-you-doing)
+
+### [Wanna Play A Game of Marbles With A Tengu?](#wanna-play-a-game-of-marbles-with-a-tengu)
+
+### [LEAVE ME ALONE! Get it? Great!](#leave-me-alone-get-it-great)
+
+# [Take A "Class" On This, Leninists](#take-a-class-on-this-leninists)
 
 
 <a name="this-little-mockingbird-right-here-im-gonna-put-it-to-bed" />
@@ -176,19 +186,11 @@ intend may or may not be created by forces you can't control, but what
 you intend or intend not manifests itself into the world. That
 certainly is within your control.
 
-Anyways, there it all is. I've written it down. I am not racist. I
-never was. If my entire life from conception was a protest, the point
-is => *I'M NOT FUCKING RACIST*. That's the point. I don't understand
-what this is about. I don't know why I've been targeted. It may be
-because I figured some BYMAN shit out around the end of 2012. If I
-ever had some connection to this, I wouldn't know. That seems crazy,
-to me. Impossible. I'm already crazy enough: do I need another
-delusion. Would you like to gaslight me some more?  Because I know how
-to handle that. Jujutsu. If it ain't true, by the time you finish
-gaslighting me with delusional bullshit, people are going to believe
-it's true: people other than me because I ain't stupid.
+<a name="how-to-fight-abstract-higher-order-poison-pen-defamation" />
 
-#
+### [How To Fight Abstract, Higher-Order Poison Pen Defamation?](#how-to-fight-abstract-higher-order-poison-pen-defamation)
+
+#### No, Really, I'm Asking For A Friend: He's A Weakass Gangstalking Piece of Shit Like All Of You Wall And I Really Want To Shut Him The Fuck Up.
 
 The problem for me has been, in order to fight back against defamation
 by false label, I have to acknowledge the label. If you've ever seen
@@ -223,7 +225,7 @@ falls apart and that looks real bad.
 
 #### How'd You Figure That Anyways? Must Be The Smarts. Have We Ever Met?
 
-![Philosoraptor]()
+![Philosoraptor](/img/posts/2018-01-22-social-justice-a-cultural-revolution/)
 
 <a name="how-do-you-diffuse-the-label-of-racist-especially-when-its-false" />
 
@@ -291,7 +293,7 @@ am? FUCKING PISSED OFF. At who? White, liberal America.
 > immediately; we need to make this a good one. A long one and a good
 > one."
 
-![The Honeypot]()
+![The Honeypot](/img/posts/2018-01-22-social-justice-a-cultural-revolution/)
 
 <a name="whys-that-memo-so-hard-to-read-anyways" />
 
@@ -384,10 +386,10 @@ money doesn't mean shit for anyone.
 
 #### Wake Up To The Smell Of Class Struggle
 
-![Marxism Coffee Mix](/img/posts/2018-01-22-social-justice-a-cultural-revolution/)
-
 > It's Not Marxism, It's Leninism. Pray For World Revolution or That's
 > The Only Coffee You're Ever Going To Drink.
+
+![Marxism Coffee Mix](/img/posts/2018-01-22-social-justice-a-cultural-revolution/)
 
 Furthermore, leninists will bide their time. They *know* that they
 only get one real shot at revolution per generation, absent systemic
@@ -479,11 +481,10 @@ conflict for "social justice." You're essentially screening the
 political opposition for people to systematically disempower. *IT'S A
 GODDAMN CULTURAL REVOLUTION.*
 
-
-I've [written about my feelings on ethnic issues
+Again, I've [written about my feelings on ethnic issues
 before](/posts/2016-07-17-diversity-is-americas-strength.html). They
 figured out that they were wrong, but then they censored my
-writing. they *needed* me to look like a racist.
+writing. They *needed* me to look like a racist.
 
 They knew that anyone who actually read what I had to say couldn't
 reasonably think that I was racist.  They also knew that anyone who
@@ -497,6 +498,12 @@ motherfucking B-Boy Jam, you assholes. I love hip hope. Now, do you
 think the people who are influential in the hip hop communities of the
 four elements want to have anything to do with someone who's been
 [falsely] labelled as racist? NO! FUCK NO! So what does that do to me?
+
+#### Nope, Don't Nobody Want Nonna That Weak-Ass Decaf
+
+<iframe width="560" height="315"
+src="https://www.youtube.com/embed/hl-LSOpkO38" frameborder="0"
+allow="autoplay; encrypted-media" allowfullscreen></iframe>
 
 <a name="the-pen-is-mightier-than-the-sword" />
 
@@ -524,6 +531,10 @@ that because otherwise, all I can see is a world that wants to tell me
 to lock myself in an institution because they can't handle their own
 stinky-ass double decker.
 
+<a name="you-took-away-hip-hop-from-a-bboy-just-to-isolate-them" />
+
+### [You Took Away Hip Hop from a B-Boy? Just To Isolate Them?](#you-took-away-hip-hop-from-a-bboy-just-to-isolate-them)
+
 You took away hip hop from me, all to isolate me and make me
 vulnerable. This happened fairly early on, by the way. Around 2010, at
 least, but at that point, there were just rumors. I know because I had
@@ -538,6 +549,10 @@ camel's back.
 > "Oh, he loves breakdancing? Won't stop? It provides exercise, cardio
 > and positive social interaction? Perfect! Take it all away."
 
+<a name="a-lower-annual-income-than-the-average-person-in-africa" />
+
+### [A Lower Annual Income Than The Average Person In Africa](#a-lower-annual-income-than-the-average-person-in-africa)
+
 What else does it do? Sociophysical isolation allows you to tightly
 control the social conditions, **almost** like an "experiment" --
 which conveniently allows someone to "record" "data" that will no
@@ -550,7 +565,13 @@ All they have is passive aggressive bullshit because they know they
 can't win a real debate. That doesn't make you smart, it actually
 makes you STUPID and WEAK.
 
-### [Abbaaaa ... BOO! Gotcha! So How Are You Doing?]()
+#### Here's some 1337 H4X0R Income Taxes From 2015
+
+![Income Taxes](/img/posts/2018-01-22-social-justice-a-cultural-revolution/2015-income-taxes.jpg)
+
+<a name="ababou-gotcha-so-how-are-you-doing" />
+
+### [Abbaaaa ... BOO! Gotcha! So How Are You Doing?](#ababou-gotcha-so-how-are-you-doing)
 
 #### Come Here Often? I Didn't Think So... Oh, You Do? Tell Me More...
 
@@ -565,6 +586,8 @@ is hilarious: it means they expected you to be completely predictable
 recover or improve: because THAT was the INTENT, all along, which just
 goes to show you how important intent and cognizance are.
 
+<a name="wanna-play-a-game-of-marbles-with-a-tengu" />
+
 ### [Wanna Play A Game of Marbles With A Tengu?](#wanna-play-a-game-of-marbles-with-a-tengu)
 
 Let me come feed you some wheaties, bitches. Let's debate for real,
@@ -573,13 +596,48 @@ you squarmy, sardonic fucks. Oh? Whats that? I didn't think so
 social miasma. That is all you will ever be, a sickly little sheep
 begging someone else to solve your problems.
 
-![Tenguu Test? YOU FAIL]()
+#### Here's One Such Clown That's A Lot Like A Gangstalker.
 
-# Take A "Class" On This, Leninists
+> One important difference: this guy was standing when he died. Y'all
+> spineless fucks don't seem to stand for nothing nor nobody either,
+> AFAIK -- but how would I know the difference. It's not like you
+> would actually have a conversation with someone. Scroll all the way
+> down, if you want to imagine me laughing my ass off.
+>
+> <spits n="however many you want, bitch. you aint' gonna do nothing
+> />"
+
+![Clown Suicide](/img/posts/2018-01-22-social-justice-a-cultural-revolution/clown-suicide.jpg)
+
+
+And no, I'm not asking gangstalkers to commit suicide here. That's one
+unfortunate clown who's not gonna take any more cold showers. What I
+am asking: have a goddamn conversation with a target sometime, if
+you're even allowed to do that. I guess it depends on what you know
+about their psychology, which indicates cognizance, malicious intent
+[to drive someone to suicide] and the required logistics to unlawfully
+transmit mental health information about someone without their
+consent.
+
+<a name="leave-me-alone-get-it-great" />
+
+### [LEAVE ME ALONE! Get it? Great!](#leave-me-alone-get-it-great)
+
+And THAT is why you shouldn't have fucked with someone as intelligent
+as me. And I'm going to do everything I can to make you pay because
+anyone else who's been through this would NOT be able to stand up for
+themselves. If you can admit to many how many people have been through
+this, I'll know what a proportional response is and when to
+stop. Until then, pick out a real good Hallmark Card for me because
+you're going to need it.
+
+![Tenguu Test? YOU FAIL](/img/posts/2018-01-22-social-justice-a-cultural-revolution/)
+
+<a name="take-a-class-on-this-leninists" />
+
+# [Take A "Class" On This, Leninists](#take-a-class-on-this-leninists)
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/WoMVfvS8rSo" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
-
-
 
 Again, I'm sorry for creating these problems, but I dare you & implore
 you 2 help me stop this, instead of attempting to use it for pragmatic

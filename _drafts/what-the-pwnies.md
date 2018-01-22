@@ -115,6 +115,21 @@ fate is NOT determined by our enemies? Do you remember how
 anti-American their narratives are? *YOU WANT THAT TO BE YOUR
 FUTURE?!* Really? **That** shit is *cray*.
 
+Anyways, there it all is. I've written it down. I am not racist. I
+never was. If my entire life from conception was a protest, the point
+is => *I'M NOT FUCKING RACIST*. That's the point. I don't understand
+what this is about. I don't know why I've been targeted. It may be
+because I figured some BYMAN shit out around the end of 2012. If I
+ever had some connection to this, I wouldn't know. That seems crazy,
+to me. Impossible. I'm already crazy enough: do I need another
+delusion. Would you like to gaslight me some more?  Because I know how
+to handle that. Jujutsu. If it ain't true, by the time you finish
+gaslighting me with delusional bullshit, people are going to believe
+it's true: people other than me because I ain't stupid.
+
+
+
+
 **Pick one:** either something like the Project for a New American
 Century successfully guarantees that we hang on to power ... or there
 is systemic economic collapse that degrades into *IRONIC COMMUNISM*,
@@ -157,6 +172,11 @@ Hemisphere. This is all while those foreign adversaries help those in
 "power" in the United Soviet States of Formerly America mercilessly
 hunt down all *potential* political dissidents, like Stalinists are
 wont to do.
+
+Imagine that America falls. What does this mean for good 'ole Nerf'd
+NATO, whose european militaries EU countries won't even finance.
+Really? This all sounds like a no-brainer for who? *AND I AM THE ONE
+BEING CENSURED HERE*? Wut election?
 
 When all that is said and done, is it really such a hard choice, if it
 can be guaranteed that there is no racism?
