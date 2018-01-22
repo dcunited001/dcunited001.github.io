@@ -66,6 +66,11 @@ war, conflict, misery and unjust subjugation.
 
 # [What You Intend Matters](#what-you-intend-matters)
 
+### [What The Pwnies?!](#what-the-pwnies)
+
+### [Area 51 and Enders Game: You Cannot Have A Third](#area-51-and-enders-game-you-cannot-have-a-third)
+
+
 
 
 
@@ -167,7 +172,9 @@ intend may or may not be created by forces you can't control, but what
 you intend or intend not manifests itself into the world. That
 certainly is within your control.
 
-###
+<a name="what-the-pwnies" />
+
+### [What The Pwnies?!](#what-the-pwnies)
 
 If you wanted to correct a problem, you would give someone the chance
 to say something about it -- e.g. one on one; mono e mono; a fucking
@@ -185,9 +192,14 @@ expensive liberal policies which were required.
 > Kill their babies! And their baby's babies!! We only need enough to
 > ensure that we have all the information they won't give us that we
 > know they used occult methods to transfer to their only
-> children.
+> children. Fuck... I just got triggered by Southpark. Here we
+> go... And again, **by all means available**, please correct me if
+> I'm wrong here. You fail to recognize that I want to be wrong in a
+> majority of what I write.
 
-### [Enders Game: You Cannot Have A Third]()
+<a name="area-51-and-enders-game-you-cannot-have-a-third" />
+
+### [Area 51 and Enders Game: You Cannot Have A Third](#area-51-and-enders-game-you-cannot-have-a-third)
 
 All your babes are belong to us, for "experiments" of course. It
 serves you right, doesn't it? And if you really believed in what you
@@ -207,8 +219,8 @@ what the Anna Nicole Smith case was about: could any of their seized
 property even incidentally fall outside the strict control of
 [OAPC](https://en.wikipedia.org/wiki/Office_of_Alien_Property_Custodian).
 
-And if I ain't Trump's uncle, his uncle was the Alien Property
-Custodian. And now you know what all of this shit is *potentially*
+And if I ain't Trump's uncle -- his uncle was the Alien Property
+Custodian! And now you know what all of this shit is *potentially*
 about, by the way. It's about *domineering* the historical narrative
 of post-WW2 history, for whatever reason. I can't actually say.
 
@@ -222,6 +234,9 @@ time than it takes my heart to beat one more time. And is it racist?
 *HELL NO, YOU DUMB MOTHERFUCKERS. THIS IS ABOUT AMERICA.*
 
 #### One Such Diversity Rainbow Not-Nazi The Leninists Just Wouldn't Let You See, So You Couldn't Stop the Inevitable Collapse
+
+![WHAT THE PWNIES?!!]()
+
 
 What the fuck was that fetus thing? Have you ever horizontally flipped
 the "Coon and Friends Logo" anyways? Fuck those assholes. You want an
