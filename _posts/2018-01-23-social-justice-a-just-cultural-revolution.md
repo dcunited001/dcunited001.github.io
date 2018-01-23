@@ -1,5 +1,5 @@
 ---
-title: "Social Justice: A Cultural Revolution?"
+title: "Social Justice: A Just Cultural Revolution?"
 categories: "blog"
 tags: "psychology sociology neuro"
 headline: "I'll know if you've read it"
@@ -30,7 +30,7 @@ step back and put this all in perspective: what if what you are doing
 actually -- in how it sociophysically plays out -- threatens so many
 generations before you worked so hard to achieve?
 
-Regardless: "Social Justice" is such a loaded term and I hate loaded
+Regardless: **Social Justice** is such a loaded term and I hate loaded
 terms because you can't tell what baggage someone is going to pick and
 choose to include in the frame by which they use to evaluate your
 statements. Ever read Rhetoric by Aristotle? I haven't, but I did go
@@ -38,79 +38,114 @@ to Toastmasters. People are just going to evaluate what you say
 firstmost with the emotional associations to the words and terms you
 use, not with the actual *clear*, intellectual meanings intended.
 
-This is especially true when they don't understand what you're saying
-or when they have a need to believe what you're saying is always false
-and should never be believed. For me, both of those last two happen to
-the be the case because of this scapegoat witchhunt, in which all
-sides have apparently invested so many of marbles. If people don't
-want to listen and what you're saying goes over their heads, there's
-basically no hope. Much on those soundbytes, assholes, and that goes
-for both the left and the right because you're both pretty much the
-same to me: wrong enough to stall out true progress.
+Unfortunately, to win the game of rhetoric and thus politics, you must
+first appeal to those emotional associations. You can only hope that
+someone will listen to you long enough to intellectually digest your
+content if you satiate their emotional needs and **that** is assuming
+that someone has the intellectual wherewithal to understand what your
+saying. No offense, but for me, there are like 300 people on earth who
+could understand everything I write without doing much research. So, I
+hardly hope that anyone is listening today, but maybe tomorrow they'll
+understand what it was that I was trying to say the entire time, but
+only if I write.
 
-Whatever you do, do not let society take the opposite path. That is
-the paramount danger of your quasi-leninist destabalizaion. We've made
-progress, but now we must actually work together. All Americans and
-all of humanity. If we cannot do this, we will inevitably degrade into
-war, conflict, misery and unjust subjugation.
+That you must appeal to emotional associations is especially true when
+your audience has a need to believe what you're saying is usually
+false and should never be believed. For me, that last one happens to
+the be the case because of this scapegoat witchhunt, in which all
+sides have apparently invested so many of their marbles. If people
+don't want to listen and what you're saying goes over their heads,
+there's basically no hope. Munch on those soundbytes, assholes, and
+that goes for both the left and the right because you're both pretty
+much the same to me: *wrong enough to stall out any true progress.*
+
+Who do we have to thank about that? **The Deep State.** The American
+political system itself is a carefully calculated false dichotomy that
+cancels out any true progress forward and this is by design.
+
+Whatever you do, Social Justice Warriors, do not let society take the
+opposite path. That is the paramount danger of your quasi-leninist
+destabalizaion. We've made progress, but now we must actually work
+together. All Americans and all of humanity. If we cannot do this, we
+will inevitably degrade into war, conflict, misery and unjust
+subjugation.
 
 ## [This Little Mockingbird Right Here? I'm Gonna Put It To Bed](#this-little-mockingbird-right-here-im-gonna-put-it-to-bed)
 
-#### &#2605;[Wait, You Do What?!! You Did What?!!!](#wait-you-do-what)
+#### &#2605; [Wait, You Do What?!! You Did What?!!!](#wait-you-do-what)
 
-#### &#2605;[What Is Leninism, Trebek?](#what-is-leninism-trebek)
+#### &#2605; [What Is Leninism, Trebek?](#what-is-leninism-trebek)
 
-#### &#2605;[Controlling the Path of Least Resistence](#controlling-the-path-of-least-resistence)
+#### &#2605; [Controlling the Path of Least Resistence](#controlling-the-path-of-least-resistence)
 
-#### &#2605;[What You Don't Know Can't Hurt You...](#what-you-dont-know-cant-hurt-you)
+#### &#2605; [What You Don't Know Can't Hurt You...](#what-you-dont-know-cant-hurt-you)
 
 ## [What You Intend Matters](#what-you-intend-matters)
 
-#### &#2605;[How To Fight Abstract, Higher-Order Poison Pen Defamation?](#how-to-fight-abstract-higher-order-poison-pen-defamation)
+#### &#2605; [How To Fight Abstract, Higher-Order Poison Pen Defamation?](#how-to-fight-abstract-higher-order-poison-pen-defamation)
 
-#### &#2605;[I'm Not Going Respond To Your Use of Hypnosis and Triggers](#im-not-going-to-respond-to-your-use-of-hypnosis-and-triggers)
+#### &#2605; [I'm Not Going Respond To Your Use of Hypnosis and Triggers](#im-not-going-to-respond-to-your-use-of-hypnosis-and-triggers)
 
-#### &#2605;[How Do You Diffuse The Label of Racist, Especially When It's False?](#how-do-you-diffuse-the-label-of-racist-especially-when-its-false)
+#### &#2605; [How Do You Diffuse The Label of Racist, Especially When It's False?](#how-do-you-diffuse-the-label-of-racist-especially-when-its-false)
 
-#### &#2605;[Perhaps The Worst Possible Outcome: That False Label IS Viral](#perhaps-the-worst-possible-outcome-that-false-label-is-viral)
+#### &#2605; [Perhaps The Worst Possible Outcome: That False Label IS Viral](#perhaps-the-worst-possible-outcome-that-false-label-is-viral)
 
-#### &#2605;[You Are Being Methodologically Deceived By Your Own Psychological Methods](#you-are-being-methodologically-deceived-by-your-own-psychological-methods)
+#### &#2605; [You Are Being Methodologically Deceived By Your Own Psychological Methods](#you-are-being-methodologically-deceived-by-your-own-psychological-methods)
 
-#### &#2605;[Information Warfare Tactic of Scattering Seeds Always Proceeds Conflict](#information-warfare-tactic-of-scattering-seeds-always-proceeds-conflict)
+#### &#2605; [Information Warfare Tactic of Scattering Seeds Always Proceeds Conflict](#information-warfare-tactic-of-scattering-seeds-always-proceeds-conflict)
 
 ## [This Partisan Belligerence Is Fomenting Radicalism](#this-partisan-belligerence-is-fomenting-radicalism)
 
-#### &#2605;[Why's That Memo So Hard To Read Anyways?](#whys-that-memo-so-hard-to-read-anyways)
+#### &#2605; [Why's That Memo So Hard To Read Anyways?](#whys-that-memo-so-hard-to-read-anyways)
 
-#### &#2605;[Nice Try, But I'm Not A Racist And I'm Not Going To Become One Either](#nice-try-but-im-not-a-racist-and-im-not-going-to-become-one-either)
+#### &#2605; [Nice Try, But I'm Not A Racist And I'm Not Going To Become One Either](#nice-try-but-im-not-a-racist-and-im-not-going-to-become-one-either)
 
-#### &#2605;[If This Was Social Justice Warriors, Why Am I Not Angry At Minorities?](#if-this-was-social-justice-warriors-why-am-i-not-angry-at-minorities)
+#### &#2605; [If This Was Social Justice Warriors, Why Am I Not Angry At Minorities?](#if-this-was-social-justice-warriors-why-am-i-not-angry-at-minorities)
 
 ## [It's Literally Leninist Paint-By-Numbers](#its-literally-leninist-paint-by-numbers)
 
-#### &#2605;[That's What The Trump Presidency Is About, By The Way](#thats-what-the-trump-presidency-is-about-by-the-way)
-
-#### &#2605;[You Might Be Screening The Population To Create Lists of Political Dissidents](#you-might-be-the-population-to-create-lists-of-political-dissidents)
+#### &#2605; [Until You Peer Backwards From Futures Past, Nothing Makes Sense](#until-you-peer-backwards-from-futures-past-nothing-makes-sense)
 
 
+#### &#2605; [That's What The Trump Presidency Is About, By The Way](#thats-what-the-trump-presidency-is-about-by-the-way)
+
+#### &#2605; [Wake Up To The Smell Of Class Struggle](#wake-up-to-the-smell-of-class-struggle)
+
+#### &#2605; [Dear Leninists: Your Revolution Is Unsustainable And You Are Morally Corrupt](#dear-leninists-your-revolution-is-unsustainable-and-you-are-morally-corrupt)
+
+# [If You Say The Problem Is An Ethnicity, I Feel Sorry For You](#if-you-say-the-problem-is-an-ethnicity-i-feel-sorry-for-you)
+
+#### &#2605; [If You Have Money, You'll Never Be Anything But A Custy To Communists](#if-you-have-money-youll-never-be-anything-but-a-custy-to-communists)
+
+#### &#2605; [Marx Got 99 Problems and A Tautology's Just One](#marx-got-99-problems-and-a-tautologys-just-one)
+
+#### &#2605; [That's Right, Minorities Know The Pain You'll Never Know.](#thats-right-minorities-know-the-pain-youll-never-know)
+
+#### &#2605; [If You Can't Solve Poverty, GTFO Of The Way](#if-you-cant-solve-poverty-gtfo-of-the-way)
+
+## [Oh, You Left Me With All The "Racists?" Thanks A Lot...](#oh-you-left-me-with-all-the-racists)
+
+#### &#2605; [General Rule of Thumb: Don't Let Your Adversary Label You](#general-rule-of-thumb-dont-let-your-adversary-label-you)
+
+#### &#2605; [You Might Be Screening The Population To Create Lists of Political Dissidents](#you-might-be-the-population-to-create-lists-of-political-dissidents)
 
 ## [Controversial, Rash or A Fool, Yes. Hateful? Hell No](#controversial-rash-or-a-fool-yes-hateful-hell-no)
 
-#### &#2605;[Anyone Who Met me Or Read My Writing Couldn't Possibly Think I Was Racist](#anyone-who-met-me-or-read-my-writing-couldnt-possibly-think-i-was-racist)
+#### &#2605; [Anyone Who Met me Or Read My Writing Couldn't Possibly Think I Was Racist](#anyone-who-met-me-or-read-my-writing-couldnt-possibly-think-i-was-racist)
 
-#### &#2605;[I Grew Up On The Four Elements Of Hip Hop](#i-grew-up-on-the-four-elements-of-hip-hop)
+#### &#2605; [I Grew Up On The Four Elements Of Hip Hop](#i-grew-up-on-the-four-elements-of-hip-hop)
 
-#### &#2605;[The Pen Is Mightier Than The Sword, Especially When It's Dipped In Poison](#the-pen-is-mightier-than-the-sword)
+#### &#2605; [The Pen Is Mightier Than The Sword, Especially When It's Dipped In Poison](#the-pen-is-mightier-than-the-sword)
 
-#### &#2605;[You Took Away Hip Hop from a B-Boy? Just To Isolate Them?](#you-took-away-hip-hop-from-a-bboy-just-to-isolate-them)
+#### &#2605; [You Took Away Hip Hop from a B-Boy? Just To Isolate Them?](#you-took-away-hip-hop-from-a-bboy-just-to-isolate-them)
 
-#### &#2605;[A Lower Annual Income Than The Average Person In Africa](#a-lower-annual-income-than-the-average-person-in-africa)
+#### &#2605; [A Lower Annual Income Than The Average Person In Africa](#a-lower-annual-income-than-the-average-person-in-africa)
 
-#### &#2605;[Abbaaaa ... BOO! Gotcha! So How Are You Doing?](#ababou-gotcha-so-how-are-you-doing)
+#### &#2605; [Abbaaaa ... BOO! Gotcha! So How Are You Doing?](#ababou-gotcha-so-how-are-you-doing)
 
-#### &#2605;[Wanna Play A Game of Marbles With A Tengu?](#wanna-play-a-game-of-marbles-with-a-tengu)
+#### &#2605; [Wanna Play A Game of Marbles With A Tengu?](#wanna-play-a-game-of-marbles-with-a-tengu)
 
-#### &#2605;[LEAVE ME ALONE! Get it? Great!](#leave-me-alone-get-it-great)
+#### &#2605; [LEAVE ME ALONE! Get it? Great!](#leave-me-alone-get-it-great)
 
 ## [Take A "Class" On This, Leninists](#take-a-class-on-this-leninists)
 
@@ -500,7 +535,9 @@ technology** than most of the actual response to marxism. At this
 point, the rich have woken up and clamp down again, only to relax a
 few decades later ... or so the theory goes.
 
+<a name="dear-leninists-your-revolution-is-unsustainable-and-you-are-morally-corrupt" />
 
+### [Dear Leninists: Your Revolution Is Unsustainable And You Are Morally Corrupt](#dear-leninists-your-revolution-is-unsustainable-and-you-are-morally-corrupt)
 
 To me, it is all about what you **intend** to create in society.
 Almost no leftists would intend to create these problems, but the
@@ -517,19 +554,22 @@ shit up to win and they have the numbers to sociophysically amplify
 their message to get away with it. The rich do not, especially in the
 cyber era, even though the rich do have money...
 
-###
+<a name="if-you-say-the-problem-is-an-ethnicity-i-feel-sorry-for-you" />
+
+# [If You Say The Problem Is An Ethnicity, I Feel Sorry For You](#if-you-say-the-problem-is-an-ethnicity-i-feel-sorry-for-you)
 
 The point is: no ethnicity is the problem. The problem is
 passive-aggressive, radicalized, political operatives. Why would
 people of specific ethnicities be less likely to act as social justice
 warriors or to lash out at people who have only be thinly labelled as
-racist?  because they know what it's like to be mistreated and
+racist? Because they know what it's like to be mistreated and
 stereotyped. They know the pain.
+
 
 Why else? because they know that your trust-fund chomping skinny white
 socialist ass might be wrong. and if someone falsely labeled another
 who is targeted, that looks reallly bad. it sets race relations
-back. people who actually respect ethnic issues know this, so they
+back. People who actually respect ethnic issues know this, so they
 don't do it. who respects ethnic issues more than anyone? people who
 have shared in the suffering and progress of those ethnicities. they
 know what it's like to be set back and have shared that pain. Sure,
@@ -537,7 +577,50 @@ you -- as a white trust-fund activist -- should be applauded for
 caring about the suffering of others so much you'd spend your
 trust-fund daddy's money to get arrested at a protest, which is fine,
 since the left needs rich people like you to make the more painful
-sacrifices...
+sacrifices and to help feed the masses...
+
+<a name="if-you-have-money-youll-never-be-anything-but-a-custy-to-communists" />
+
+### [If You Have Money, You'll Never Be Anything But A Custy To Communists](#if-you-have-money-youll-never-be-anything-but-a-custy-to-communists)
+
+You ain't never gonna be nothing but a custy to them, or something
+like that. Basically: they're hoping you might have some money, which
+is why any power you contribute to their movement will slip away from
+your fingers if you're not careful. It is also why you'll probably
+find yourself at an informational disadvantage, quite often,
+especially around your leadership. Just be glad that their revolution
+hasn't hit full gear yet because when it does, they're pretty much
+done using you, unless you're willing to carnivously tear apart
+anything that stands in your way and especially all your wealthy
+connections.
+
+Even their tactics reek of the same money-grubbing bougeoisie that
+they hate so much. You just don't know it yet because you haven't
+studied enough. You don't know what it's like to plan something like
+this over the course of decades because you're so caught up by what
+you see on MSNBC, ABC, CNN and even FOX to ever watch a fucking
+lecture. You're distracted and you are within the system or at least
+within the system's disruption and therefore, it's almost impossible
+to see it clearly. You need to learn.
+
+<a name="marx-got-99-problems-and-a-tautologys-just-one" />
+
+### [Marx Got 99 Problems and A Tautology's Just One](#marx-got-99-problems-and-a-tautologys-just-one)
+
+To anyone on the left, I implore you to challenge your believes,
+especially on economics and philosophy. Why not? I learn about my
+enemy. There is nothing more valuable to me than learning how to
+dissect my enemy and especially their arguments. I can destroy you
+with nothing but your own philosophic axioms and foundational
+beliefs. That is: I can tear your beliefs apart and put them back
+together with nothing but what you give me, which implies inherent,
+systemic, tautological fallibility.
+
+<a name="thats-right-minorities-know-the-pain-youll-never-know" />
+
+### [That's Right, Minorities Know The Pain You'll Never Know.](#thats-right-minorities-know-the-pain-youll-never-know)
+
+#### They Have No Choice But To Endure Pains And Joys of Their Identity. It's Not Something You Can Turn Off When Your Done Thinking About It.
 
 But, you don't actually know what it's like to be African American,
 Hispanic American or Indian American. Sure, you can imagine what it's
@@ -554,7 +637,11 @@ affects everyone. it doesn't matter if you're black, white, yellow or
 orange with a blond wig. poverty affects everyone and if you don't
 recognize the root of the problem, you can't solve the problem.
 
+<a name="if-you-cant-solve-poverty-gtfo-of-the-way" />
 
+### [If You Can't Solve Poverty, GTFO Of The Way](#if-you-cant-solve-poverty-gtfo-of-the-way)
+
+#### Because It Looks Like You're Using The Poor
 
 If you can't solve the problem, get the fuck out of the way. I can
 solve the problem and you're making it realllly hard. "Detention" =>
@@ -563,21 +650,35 @@ I don't even know it? Under who's authority? Your de facto authority?
 I don't think so. If I don't see a goddamn badge, why should I trust
 you?
 
-#
+<a name="oh-you-left-me-with-all-the-racists" />
+
+# [Oh, You Left Me With All The "Racists?" Thanks A Lot...](#oh-you-left-me-with-all-the-racists)
+
+#### GTFO of Here With Your False Dichotomy Bullshit Anyways. SAME TEAM?!
+
+> **False Dichotomy**: A situation in which two alternative points of
+> views are presented as the only options, whereas others are
+> available.
 
 So, you see. i'm between a rock and a hard place. I don't actually
 want to be completely isolated from "both sides" whatever the fuck
 that means. As far as I am concerned, if one of those sides is *the*
 racist side, they can jump off a fucking cliff because I don't need
-them and no one does. But you'd be surprised: Imagine asking a white
-liberal to identify all the racists from a room full of 10,000
-republicans -- imagine a Trump rally. Now let's tweets and social
-interactions this person had access to, they'd label almost every
-single one as racist. That's simply not true. If you asked that same
-group of people "Are you racist?" yeh, maybe a handful would raise
-their hands proudly. Now, I'm saying that the rest of those
-republicans would like those guys to jump off a fucking cliff *because
-they're making it real hard for the rest of us.*
+them and no one does.
+
+<a name="general-rule-of-thumb-dont-let-your-adversary-label-you" />
+
+### [General Rule of Thumb: Don't Let Your Adversary Label You](#general-rule-of-thumb-dont-let-your-adversary-label-you)
+
+But you'd be surprised: Imagine asking a white liberal to identify all
+the racists from a room full of 10,000 republicans -- imagine a Trump
+rally. Now let's tweets and social interactions this person had access
+to, they'd label almost every single one as racist. That's simply not
+true. If you asked that same group of people "Are you racist?" yeh,
+maybe a handful would raise their hands proudly. Now, I'm saying that
+the rest of those republicans would like those guys to jump off a
+fucking cliff *because they're making it real hard for the rest of
+us.*
 
 <a name="you-might-be-the-population-to-create-lists-of-political-dissidents" />
 
