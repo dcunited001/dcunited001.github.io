@@ -54,38 +54,65 @@ progress, but now we must actually work together. All Americans and
 all of humanity. If we cannot do this, we will inevitably degrade into
 war, conflict, misery and unjust subjugation.
 
-# [This Little Mockingbird Right Here? I'm Gonna Put It To Bed](#this-little-mockingbird-right-here-im-gonna-put-it-to-bed)
+## [This Little Mockingbird Right Here? I'm Gonna Put It To Bed](#this-little-mockingbird-right-here-im-gonna-put-it-to-bed)
 
-### [Wait, You Do What?!! You Did What?!!!](#wait-you-do-what)
+#### &#2605;[Wait, You Do What?!! You Did What?!!!](#wait-you-do-what)
 
-### [What Is Leninism, Trebek?](#what-is-leninism-trebek)
+#### &#2605;[What Is Leninism, Trebek?](#what-is-leninism-trebek)
 
-### [Controlling the Path of Least Resistence](#controlling-the-path-of-least-resistence)
+#### &#2605;[Controlling the Path of Least Resistence](#controlling-the-path-of-least-resistence)
 
-### [What You Don't Know Can't Hurt You...](#what-you-dont-know-cant-hurt-you)
+#### &#2605;[What You Don't Know Can't Hurt You...](#what-you-dont-know-cant-hurt-you)
 
-# [What You Intend Matters](#what-you-intend-matters)
+## [What You Intend Matters](#what-you-intend-matters)
 
-### [How To Fight Abstract, Higher-Order Poison Pen Defamation?](#how-to-fight-abstract-higher-order-poison-pen-defamation)
+#### &#2605;[How To Fight Abstract, Higher-Order Poison Pen Defamation?](#how-to-fight-abstract-higher-order-poison-pen-defamation)
+
+#### &#2605;[I'm Not Going Respond To Your Use of Hypnosis and Triggers](#im-not-going-to-respond-to-your-use-of-hypnosis-and-triggers)
+
+#### &#2605;[How Do You Diffuse The Label of Racist, Especially When It's False?](#how-do-you-diffuse-the-label-of-racist-especially-when-its-false)
+
+#### &#2605;[Perhaps The Worst Possible Outcome: That False Label IS Viral](#perhaps-the-worst-possible-outcome-that-false-label-is-viral)
+
+#### &#2605;[You Are Being Methodologically Deceived By Your Own Psychological Methods](#you-are-being-methodologically-deceived-by-your-own-psychological-methods)
+
+#### &#2605;[Information Warfare Tactic of Scattering Seeds Always Proceeds Conflict](#information-warfare-tactic-of-scattering-seeds-always-proceeds-conflict)
+
+## [This Partisan Belligerence Is Fomenting Radicalism](#this-partisan-belligerence-is-fomenting-radicalism)
+
+#### &#2605;[Why's That Memo So Hard To Read Anyways?](#whys-that-memo-so-hard-to-read-anyways)
+
+#### &#2605;[Nice Try, But I'm Not A Racist And I'm Not Going To Become One Either](#nice-try-but-im-not-a-racist-and-im-not-going-to-become-one-either)
+
+#### &#2605;[If This Was Social Justice Warriors, Why Am I Not Angry At Minorities?](#if-this-was-social-justice-warriors-why-am-i-not-angry-at-minorities)
+
+## [It's Literally Leninist Paint-By-Numbers](#its-literally-leninist-paint-by-numbers)
+
+#### &#2605;[That's What The Trump Presidency Is About, By The Way](#thats-what-the-trump-presidency-is-about-by-the-way)
+
+#### &#2605;[You Might Be Screening The Population To Create Lists of Political Dissidents](#you-might-be-the-population-to-create-lists-of-political-dissidents)
 
 
-### [You Took Away Hip Hop from a B-Boy? Just To Isolate Them?](#you-took-away-hip-hop-from-a-bboy-just-to-isolate-them)
 
+## [Controversial, Rash or A Fool, Yes. Hateful? Hell No](#controversial-rash-or-a-fool-yes-hateful-hell-no)
 
+#### &#2605;[Anyone Who Met me Or Read My Writing Couldn't Possibly Think I Was Racist](#anyone-who-met-me-or-read-my-writing-couldnt-possibly-think-i-was-racist)
 
+#### &#2605;[I Grew Up On The Four Elements Of Hip Hop](#i-grew-up-on-the-four-elements-of-hip-hop)
 
-### [The Pen Is Mightier Than The Sword, Especially When It's Dipped In Poison](#the-pen-is-mightier-than-the-sword)
+#### &#2605;[The Pen Is Mightier Than The Sword, Especially When It's Dipped In Poison](#the-pen-is-mightier-than-the-sword)
 
+#### &#2605;[You Took Away Hip Hop from a B-Boy? Just To Isolate Them?](#you-took-away-hip-hop-from-a-bboy-just-to-isolate-them)
 
-### [A Lower Annual Income Than The Average Person In Africa](#a-lower-annual-income-than-the-average-person-in-africa)
+#### &#2605;[A Lower Annual Income Than The Average Person In Africa](#a-lower-annual-income-than-the-average-person-in-africa)
 
-### [Abbaaaa ... BOO! Gotcha! So How Are You Doing?](#ababou-gotcha-so-how-are-you-doing)
+#### &#2605;[Abbaaaa ... BOO! Gotcha! So How Are You Doing?](#ababou-gotcha-so-how-are-you-doing)
 
-### [Wanna Play A Game of Marbles With A Tengu?](#wanna-play-a-game-of-marbles-with-a-tengu)
+#### &#2605;[Wanna Play A Game of Marbles With A Tengu?](#wanna-play-a-game-of-marbles-with-a-tengu)
 
-### [LEAVE ME ALONE! Get it? Great!](#leave-me-alone-get-it-great)
+#### &#2605;[LEAVE ME ALONE! Get it? Great!](#leave-me-alone-get-it-great)
 
-# [Take A "Class" On This, Leninists](#take-a-class-on-this-leninists)
+## [Take A "Class" On This, Leninists](#take-a-class-on-this-leninists)
 
 
 <a name="this-little-mockingbird-right-here-im-gonna-put-it-to-bed" />
@@ -207,25 +234,43 @@ That's fine. For me? I just end up listening. I want the other person
 to know that I want to listen to what they have to say because I can't
 actually say that I have the opinion or perspective of a
 minority. Thus, any information helps and I don't really want to dig
-myself in further. Therefore, I usually just respond to all
-assertions, direct or indirect, with a null response where I
-listen. I'm not going to give you a subconscious response: I've
-learned to suppress those subconscious responses, since the
-aforementioned gypsy bitch is helping get people fired over that shit
-with her cracked up crystal ball.
+myself in further.
+
+<a name="im-not-going-to-respond-to-your-use-of-hypnosis-and-triggers" />
+
+### [I'm Not Going Respond To Your Use of Hypnosis or Triggers](#im-not-going-to-respond-to-your-use-of-hypnosis-and-triggers)
+
+Therefore, I usually just respond to all assertions, direct or
+indirect, with a null response where I listen. I'm not going to give
+you a subconscious response: I've learned to suppress those
+subconscious responses, since the aforementioned gypsy bitch is
+helping get people fired over that shit with her cracked up crystal
+ball.
 
 If you falsely label me as racist, I'm not going to respond -- in
 fact, I think that you would act on such invisible and false labels is
-itself prejudiced. And apparently, for all your knowledge of
-subconscious reactions and facial expressions, you just cant't get it
-through your heads that I'm not racist -- why? Because your most
-radical leadership *needs* it to be true or at least *needs you to
-believe that it is true*. Otherwise, the house of cards they built
-falls apart and that looks real bad.
+itself prejudiced. Specifically because I've dealt with this
+mistreatment, I do not accept what other people say about *anyone* and
+specifically statements which would set information in the contextual
+frame used for future interactions with them. Instead, if anything, I
+specifically look for the opposite of what you try to imply by
+suggesting labels to me for another person.
+
+I believe that poisoning the frame to disrupt someone's open mind is
+one of the worst things that you can do to someone besides trying to
+tell their story for them. I have probably done this incidentally, but
+if I've ever done so without giving you the chance to know what I said
+and respond, then I apologize. Please correct me, if I'm not censured.
+
+Apparently, for all your knowledge of subconscious reactions and
+facial expressions, you just cant't get it through your heads that I'm
+not racist -- why?  Because your most radical leadership *needs* it to
+be true or at least *needs you to believe that it is true*. Otherwise,
+the house of cards they built falls apart and that looks real bad.
 
 #### How'd You Figure That Anyways? Must Be The Smarts. Have We Ever Met?
 
-![Philosoraptor](/img/posts/2018-01-22-social-justice-a-cultural-revolution/)
+![Philosoraptor](/img/posts/2018-01-22-social-justice-a-cultural-revolution/racist-philosoraptor.jpg)
 
 <a name="how-do-you-diffuse-the-label-of-racist-especially-when-its-false" />
 
@@ -242,6 +287,8 @@ is that? Is it fun? Is it something you want to do all the fucking
 time? NO! Racism and anti-semitism are intolerable, but what is worse
 is the race-baiting for political expediency.
 
+<a name="perhaps-the-worst-possible-outcome-that-false-label-is-viral" />
+
 ### [Perhaps The Worst Possible Outcome: That False Label IS Viral](#perhaps-the-worst-possible-outcome-that-false-label-is-viral)
 
 Because people like me are falsely labeled about something we can't
@@ -251,11 +298,24 @@ guys a racist. Maybe it's not so bad."  -- all the while, It's a
 conversation topic that just never fucking comes up. To make
 everything worse, this occurs at a time where society has decided to
 weaponize psychology, sociology, hypnosis and NLP. Mass communications
-have become decentralized.  It's now full of peer-to-peer
-communication channels that are generally low-bandwidth: mostly
-textual communications, which are perfect for that marxist gypsy to
-cause other people to misinterpret the reactions -- *WHICH IS EXACTLY
-HOW METHODOLOGICAL MAGICK WORKS YOU IDIOTS!* It's evil!
+have become decentralized. It's now full of peer-to-peer communication
+channels that are generally low-bandwidth: mostly textual
+communications, which are perfect for that marxist gypsy to cause
+other people to misinterpret the reactions -- *WHICH IS EXACTLY HOW
+METHODOLOGICAL MAGICK WORKS YOU IDIOTS!* It's evil!
+
+<a name="you-are-being-methodologically-deceived-by-your-own-psychological-methods" />
+
+### [You Are Being Methodologically Deceived By Your Own Psychological Methods](#you-are-being-methodologically-deceived-by-your-own-psychological-methods)
+
+#### Your Essentially "Divining" Whether Someone Is Racist Via Triggers & Codewords, [Without Understanding How "Locution" Can Be Abused](/posts/2017-10-20-scientologys-three-step-process-for-great-pyramid-schemery.html)
+
+The techniques that have been used on me blow my mind. They are
+incomprehensibly complex, but what is even more mystifying is that
+someone thought, against Occam's Razor, that any of this *could* even
+work. They only did this because they were confident in their ability
+to mitigate the situation without regard for how it might specifically
+develop.
 
 Read a book on category theory and get back to me when you figure out
 how to induce monoidal response patterns for encouraging anyone's
@@ -266,21 +326,42 @@ with conversation must understand these things, intuitively. They just
 can't methodically explain them. I can because that was the only way I
 was ever going to learn how to understand what was happening to me.
 
-=====
+<a name="information-warfare-tactic-of-scattering-seeds-always-proceeds-conflict" />
 
-So, both sides are incessantly belligerating.  People who aren't
-racist and aren't trying to hunt down racists like animals either, but
-also want to be able to support their own political ideology without
-falsely being labelled racist, smeared at work, etc by social justice
-warriors operating righteously because they authentically think they
-are doing what is right.
+### [Information Warfare Tactic of Scattering Seeds Always Proceeds Conflict](#information-warfare-tactic-of-scattering-seeds-always-proceeds-conflict)
 
-Well, you've got good intentions, honey, but you're wrong. I'm not
-racist. I never was. I never will be. I was falsely labelled and
-someone indirectly asked you to target me and shows you some chopped
-and screwed audio clip or some shit and now you're attacking me with
-all the righteousness and vitreousity of Joan d'Arc. You know what I
-am? FUCKING PISSED OFF. At who? White, liberal America.
+A decade or more of informational conflict always preceeds
+sociopolitical, civil or military conflict. It's in the years before
+the actual conflict that the seeds are being sown to create options
+for leaders to use later own when the conflict actually becomes
+obvious. Regardless of whether that leadership is organized,
+decentralized or even anonymized, This helps them influence the course
+of narratives, sift to find strikingly emotionally relevant events,
+and tune the action of the people to filtrate their bases of
+support. All of this is, by design, very difficult to observe as its
+happening because otherwise, those in power will simply defuse the
+issues. This concept of sowing seeds is especially important for civil
+conflicts, like revolution or expected collapse.
+
+<a name="this-partisan-belligerence-is-fomenting-radicalism" />
+
+# [This Partisan Belligerence Is Fomenting Radicalism](#this-partisan-belligerence-is-fomenting-radicalism)
+
+Over the past two decades, the left and the right are incessantly
+belligerating, which is hardly new. That's politics, however, this has
+become unacceptable.  People who aren't racist and aren't trying to
+hunt down racists like animals either, but also want to be able to
+support their own political ideology without falsely being labelled
+racist, smeared at work, etc by social justice warriors operating
+righteously because they authentically think they are doing what is
+right.
+
+Well, you've got good intentions, but you're wrong. I'm not racist. I
+never was. I never will be. I was falsely labelled and someone
+indirectly asked you to target me and shows you some chopped and
+screwed audio clip or some shit and now you're attacking me with all
+the righteousness and vitreousity of Joan d'Arc. You know what I am?
+FUCKING PISSED OFF. At who? White, liberal America.
 
 #### And They Wonder Why I Have Trust Problems
 
@@ -316,6 +397,10 @@ real shame if we boarded you, too. Yeh, I'm pretty sure that's what
 happened, sometimes, but -- again -- how the fuck am I supposed to
 know? Anyways ...
 
+#### She's Got Gloves Because She Don't Touch Nothing
+
+![Ilya Girl](/img/posts/2018-01-22-social-justice-a-cultural-revolution/ilya-girl.jpg)
+
 <a name="nice-try-but-im-not-a-racist-and-im-not-going-to-become-one-either" />
 
 ### [Nice Try, But I'm Not A Racist And I'm Not Going To Become One Either](#nice-try-but-im-not-a-racist-and-im-not-going-to-become-one-either)
@@ -328,6 +413,10 @@ Never. Well ... occasionally. You could have thrown all the
 neo-leninist hypnotists that you want at me and it was never going to
 work.
 
+<a name="if-this-was-social-justice-warriors-why-am-i-not-angry-at-minorities" />
+
+### [If This Was Social Justice Warriors, Why Am I Not Angry At Minorities?](#if-this-was-social-justice-warriors-why-am-i-not-angry-at-minorities)
+
 If I was subjected to all these false-witness crypto-leninist gypsies,
 why wouldn't I be pissed off at a specific ethnicity? Or other
 ethnicities generally? Because it's not their fault and that is
@@ -335,8 +424,6 @@ precisely the trap. Instead, this problem speaks deeply about the
 fallibility of humans in general. Besides, people who are not white
 and not socialist generally gave me the benefit of the doubt more
 often than not.
-
-###
 
 Why is that? Well, there's a few reasons for that and I'm glad that I
 was wise enough to be peaceful about being mislabelled. Most people
@@ -348,6 +435,8 @@ justice" bullshit when it's not warranted. You are creating the
 problem and *your more radical leaders know that they are creating the
 problem*.
 
+<a name="its-literally-leninist-paint-by-numbers" />
+
 # [It's Literally Leninist Paint-By-Numbers](#its-literally-leninist-paint-by-numbers)
 
 These radical leninists are lying to you because they know that they
@@ -358,11 +447,13 @@ enemies later on as being racists, if their in the opposition. Many
 things are not meant to be seen and will not make sense until you look
 backwards after extrapolating forwards. The more things that seem to
 line up from such futures past and the more difficult these inferences
-are to make, the more likely it is that someone has hidden
-designs. This is how "it's obvious" -- except it's not. It is
-certainly not meant to be seen until it was too late.
+are to make, the more likely it is that someone has hidden designs.
+This is how "it's obvious" -- except it's not. It is certainly not
+meant to be seen until it was too late.
 
-#### None Of Their Designs Make Sense Until You Peer Backwards From Futures Past
+<a name="until-you-peer-backwards-from-futures-past-nothing-makes-sense" />
+
+### [Until You Peer Backwards From Futures Past, Nothing Makes Sense](#until-you-peer-backwards-from-futures-past-nothing-makes-sense)
 
 <iframe width="560" height="315"
 src="https://www.youtube.com/embed/zcqZHYo7ONs" frameborder="0"
@@ -373,18 +464,26 @@ until the entanglement via polarization has been resolved with
 certainty. So you extrapolate to look forward, then look backwards. If
 you only try to extrapolate with deterministic certainty, you will
 never figure these things out, which is exactly what these Leninist
-architects intend.
+architects intend. And *that* is what makes these far-far-leftists so
+goddamn criminal. They know they must make the bottom fall out and
+they let their contempted bougeoisie feel comfortably in power until
+it does.
 
-And *that* is what makes the far-far-leftists so goddamn criminal.
-They know they must make the bottom fall out and they let their
-contempted bougeoisie feel comfortably in power until it does. When
-everything happens -- because they have the advantage of numbers and
-have belligerently caused so many problems in democratic societies --
-the poor will do anything they say. After the bottom falls out, the
-economy will not function again for the poor or the rich, which means
-money doesn't mean shit for anyone.
+<a name="thats-what-the-trump-presidency-is-about-by-the-way" />
 
-#### Wake Up To The Smell Of Class Struggle
+### [That's What The Trump Presidency Is About, By The Way](#thats-what-the-trump-presidency-is-about-by-the-way)
+
+This is why the leninists *want* Trump in power, as crazy as that
+sounds. When everything happens -- because they have the advantage of
+numbers and have belligerently caused so many problems in democratic
+societies -- the poor will do anything they say. After the bottom
+falls out, the economy will not function again for the poor or the
+rich, which means money doesn't mean shit for anyone. Then they get to
+lash back at Trump and all the "bougeoisie" that he represents.
+
+<a name="wake-up-to-the-smell-of-class-struggle" />
+
+### [Wake Up To The Smell Of Class Struggle](#wake-up-to-the-smell-of-class-struggle)
 
 > It's Not Marxism, It's Leninism. Pray For World Revolution or That's
 > The Only Coffee You're Ever Going To Drink.
@@ -397,7 +496,11 @@ sociological chaos. Why? Because that's the flaw that Lenin addressed
 with Marxism: the rich responded to Marxist revolution by satiating
 the poor's desire for higher standard of living -- nevermind that this
 probably had more to do with the industrial revolution **and
-technology** than most of the actual response to marxism.
+technology** than most of the actual response to marxism. At this
+point, the rich have woken up and clamp down again, only to relax a
+few decades later ... or so the theory goes.
+
+
 
 To me, it is all about what you **intend** to create in society.
 Almost no leftists would intend to create these problems, but the
@@ -476,15 +579,28 @@ their hands proudly. Now, I'm saying that the rest of those
 republicans would like those guys to jump off a fucking cliff *because
 they're making it real hard for the rest of us.*
 
+<a name="you-might-be-the-population-to-create-lists-of-political-dissidents" />
+
+### [You Might Be Screening The Population To Create Lists of Political Dissidents](#you-might-be-the-population-to-create-lists-of-political-dissidents)
+
 Do you see the fucking problem here? you're not fighting a in a
-conflict for "social justice." You're essentially screening the
-political opposition for people to systematically disempower. *IT'S A
-GODDAMN CULTURAL REVOLUTION.*
+conflict for "social justice." You're unwittingly screening the
+political opposition for people to systematically disempower, all
+without truly knowing what's going on. *IT'S A GODDAMN CULTURAL
+REVOLUTION.*
+
+<a name="controversial-rash-or-a-fool-yes-hateful-hell-no" />
+
+# [Controversial, Rash or A Fool, Yes. Hateful? Hell No](#controversial-rash-or-a-fool-yes-hateful-hell-no)
 
 Again, I've [written about my feelings on ethnic issues
 before](/posts/2016-07-17-diversity-is-americas-strength.html). They
 figured out that they were wrong, but then they censored my
 writing. They *needed* me to look like a racist.
+
+<a name="anyone-who-met-me-or-read-my-writing-couldnt-possibly-think-i-was-racist" />
+
+### [Anyone Who Met me Or Read My Writing Couldn't Possibly Think I Was Racist](#anyone-who-met-me-or-read-my-writing-couldnt-possibly-think-i-was-racist)
 
 They knew that anyone who actually read what I had to say couldn't
 reasonably think that I was racist.  They also knew that anyone who
@@ -493,11 +609,23 @@ racist. That is, if I was aloud to act in situtations where in a
 comfortable setting, interacting normally and *not subjected to games
 designed specifically so I'd fail publicly and spectacularly.*
 
-What do i mean by a comfortable setting? what's my ideal safe space? A
-motherfucking B-Boy Jam, you assholes. I love hip hope. Now, do you
-think the people who are influential in the hip hop communities of the
-four elements want to have anything to do with someone who's been
-[falsely] labelled as racist? NO! FUCK NO! So what does that do to me?
+<a name="i-grew-up-on-the-four-elements-of-hip-hop" />
+
+### [I Grew Up On The Four Elements Of Hip Hop](#i-grew-up-on-the-four-elements-of-hip-hop)
+
+What do I mean by a comfortable setting? what's my ideal safe space? A
+motherfucking B-Boy Jam, you assholes. I love hip hope. I loved how it
+was an amazing vibrant culture that had sprung up in American cities
+to give people hope by giving them something that belonged to
+everyone, combining components of cultures worldwide. It had become
+viral across the world and transformed urban communities everywhere. I
+became frustrated me when I recognized that some of those elements
+became overly commercialized.
+
+Now, do you think the people who are influential in the hip hop
+communities of the four elements want to have anything to do with
+someone who's been [falsely] labelled as racist? NO! FUCK NO! So what
+does that do to me?
 
 #### Nope, Don't Nobody Want Nonna That Weak-Ass Decaf
 

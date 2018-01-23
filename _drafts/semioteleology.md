@@ -8,10 +8,12 @@ author:
 excerpt: ""
 ---
 
+In a world awash with a deluge of information, it is who tells the
+most radiant truth who commands the masses, if they can just be heard.
+
 # [Illuminati: The Anti-Santa](#illuminati-the-anti-santa)
 
 ### [What if Santa Clause Snuck In Your House, Stole All Your Cookies and Set Your House on Fire?](#what-if-santa)
-
 
 # [What Does Metaphysics Have To Do With The Illuminati, Anyways?](#what-does-metaphysics-have-to-do-with-the-illuminati)
 

@@ -1,5 +1,5 @@
 ---
-title: "Social Justice: A Cultural Revolution?"
+title: "What the Pwnies?"
 categories: "blog"
 tags: "psychology sociology neuro"
 headline: "I'll know if you've read it"
@@ -8,6 +8,25 @@ author:
 excerpt: ""
 ---
 
+
+#### imagined getting detained by these brownie soul-sucker time
+vampire shitheads, telling you to hang yourself like the mac ponie
+
+![Definition of a Brownie]()
+
+- yeh ... apparently, i let myself get emasculated by brownies. i'm
+  still wondering what psychological shit they endured to become
+  sexually attracted to cartoon horses ... which is apparently a
+  common factor here: it's like a collosuem for psychological torture
+  and all the people who do shit to you have been victimized
+  themselves, too. This is hilarious if you think about it because it
+  means that, if you haven't quite woken up to what's happening, then
+  the people who are hurting you probably had their boards broken a
+  bit faster than you.
+  - one of them even acted like he was "my handler" -- he said that
+    word verbatim to gain my trust. your my gaurd you hairy piece of
+    shit.
+  - and [here's the key]
 
 <a name="what-the-pwnies" />
 
@@ -128,8 +147,6 @@ gaslighting me with delusional bullshit, people are going to believe
 it's true: people other than me because I ain't stupid.
 
 
-
-
 **Pick one:** either something like the Project for a New American
 Century successfully guarantees that we hang on to power ... or there
 is systemic economic collapse that degrades into *IRONIC COMMUNISM*,
@@ -180,3 +197,8 @@ BEING CENSURED HERE*? Wut election?
 
 When all that is said and done, is it really such a hard choice, if it
 can be guaranteed that there is no racism?
+
+
+#### suicide squad: every once in a while, they let these guys out
+
+![]
