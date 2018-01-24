@@ -39,7 +39,10 @@ excerpt: ""
   - then later people have a lot of questions or an overeagerness to
     placate any dissent to the official story
 
-
+- so you see, knowledge of social physics in itself can lead to some
+  pretty dark places. this is the inspiration for alchemy and this
+  series is effectively a post-doctoral masterpiece on methodological
+  alchemy.
 
 - TODO: add <span id="fdsa-note"></span> to create a bootstrap label
   in <p> tags that can fold/unfold a quote/note below
