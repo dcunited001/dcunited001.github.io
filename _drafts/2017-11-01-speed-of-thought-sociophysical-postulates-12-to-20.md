@@ -12,6 +12,34 @@ excerpt: ""
   series of possibilities and it's shape is similar to that of
   high-dimensional convergent knots)
 
+#### Multiplicity of Karmic Consequences
+
+- everything is all one. all events and karmic course of
+  action. everything is one. so, its' impossible to know the course of
+  events that lead to specific consequences and impossible to know the
+  consequences from a single event, no matter how simple that event
+  may seem.
+  - and so no event is as simple as it seems within the small time
+    window or contextual window that it's viewed within. this is what
+    liberals fundamentally do not understand.
+  - they see a problem and they are marginally intelligent: enough to
+    think they know the answer is the opposite of the problem. they
+    are so predictable
+  - whereas usually, the root cause of the problem has very little to
+    do with the myriad of problems that are created. so if you attack
+    all those problems one by one, you create myriad consequences. if
+    you instead attack the problem at its ROOT and pull that weed out,
+    it never even grows back
+    - magically, all the rest of those problems STOP, because the
+      actor who keeps setting them in motion because they INTEND to
+      create war, desire, famine, etc for PROFIT no longer exists.
+  - also the "cliffs notes version" metaphor is a perfect way of
+    summing that up. we tell the story we want to tell and teach what
+    we want to teach, without regard for its truth or its omissions
+  - then later people have a lot of questions or an overeagerness to
+    placate any dissent to the official story
+
+
 
 - TODO: add <span id="fdsa-note"></span> to create a bootstrap label
   in <p> tags that can fold/unfold a quote/note below

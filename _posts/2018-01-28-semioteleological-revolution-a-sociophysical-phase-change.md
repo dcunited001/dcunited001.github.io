@@ -2,7 +2,7 @@
 title: "Semioteleological Revolution: A Sociophysical Phase Change"
 categories: "blog"
 tags: ""
-headline: ""
+headline: "The Illuminati is the Anti-Santa"
 author:
   name: "David Conner"
 excerpt: ""
@@ -144,8 +144,10 @@ themselves to make themselves stronger, viewing the strongest, most
 pure, most cunning as being the rightful de facto leaders in their own
 invisible, decentralized power structures.
 
+<a name="how-can-pindar-lead-an-anonymous-decentralized-group-of-cigar-smoking-men" />
+
 ### [How Can Pindar Lead an Anonymous, Decentralized Group Of
-Cigar-Smoking Men?]()
+Cigar-Smoking Men?](#how-can-pindar-lead-an-anonymous-decentralized-group-of-cigar-smoking-men)
 
 Why is "Pindar" their leader? Because Pindar's vision and authenticity
 is unparalleled. They are constantly looking for the person that has

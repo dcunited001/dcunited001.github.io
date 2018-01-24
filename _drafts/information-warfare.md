@@ -547,7 +547,7 @@ interactions will overtake mobile after like 5 years.
     - this isn't just my hell.
     - {that's not what i'm experiencing btw}
       - it's just a really good idea for gaslighting, since these
-        [milgram](https://en.wikipedia.org/wiki/Milgram_experiment)
+        [Milgramian](https://en.wikipedia.org/wiki/Milgram_experiment)
         fucks want to be so good at it, why don't we let them live
         with that world?
   - this technology has non-tortuous uses by the way, but i can't
