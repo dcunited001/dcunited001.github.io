@@ -31,17 +31,20 @@ will be a new dark age, where all semblance of rationalism, science
 and logic become dominated by superstition and the tragic mechanics of
 power consolidation. I cannot allow this to happen.
 
+### Imaging Technology and Computational Medicine Imply Trillions in Collective Liabilities From An Accurate, Irrefutable Assessment of Psychiatry's Insane Costs and Benefits
+
+- this novel imaging technology demonstrates
 
 ### The Use of Neurological Warfare To Suppress Dissidents, for Neurological CIA Mockingbird and to Cover up Inconvenient Truths
+
+- this same novel medical imaging tehcnology forms the basis of
+  statistical methods that prove neurological "intervention"
+  techniques
+
 
 ### The Need to Cover Up Warcrimes By All Major Powers
 
 ### The Need For Some Actors to Destabalize the Interantional Human Rights Regime Before the Next Global Conflict
-
-
-### Imaging Technology and Computational Medicine Imply Trillions in Collective Liabilities From An Accurate, Irrefutable Assessment of Psychiatry's Insane Costs and Benefits
-
-
 
 ### Statistical Methods Will Demonstrate Evidence of Weather Control For The Past Two Decades, Including Weaponized Weather which is Partially Responsible for Global Weather Destabalization
 
@@ -125,16 +128,8 @@ masses to be accepted as true. That this is plauasible in itself is
 far more dangerous than anything I've written in this article thus
 far.
 
-### For The Global Elite, The Best Way To Handle, Mitigate and Explain The Emerging Chaos, Along With The Ensuing Blame To Be Cast, Is To Collapse the System
+### Computational Science Nearly Obliterates The Need For Humans In Science, Enabling Specific Technologies To Be Locked Away Forever
 
-Instead, almost everyone just wants to shoot the messenger. The one
-with the message you need to hear. What you need to hear is NOT what
-you want to hear! Deal with it because this is real. It's not going
-away: it hasn't come to pass yet, but it will. When it happens, you
-will be thanking your stars that someone like me ever existed.
-
-- TODO: more here. why does systemic collapse check all the boxes for
-  these people?
 
 ### The Economy Will Collapse Because ALL Socioeconomic Flux And Churn Begins To Align IN PHASE
 
@@ -342,11 +337,65 @@ now?
 
 
 
-
 # TL;DR;
 
 
 
 
 ### Billions of People Will Die In A Plan To Orchestrated Collapse, Simply to Shield Guilty-as-Hell Deep-State Actors
+
+
+### For The Global Elite, The Best Way To Handle, Mitigate and Explain The Emerging Chaos, Along With The Ensuing Blame To Be Cast, Is To Collapse the System
+
+Instead, almost everyone just wants to shoot the messenger. The one
+with the message you need to hear. What you need to hear is NOT what
+you want to hear! Deal with it because this is real. It's not going
+away: it hasn't come to pass yet, but it will. When it happens, you
+will be thanking your stars that someone like me ever existed.
+
+- TODO: more here. why does systemic collapse check all the boxes for
+  these people?
+
+- these are the people that have moderately controlled the evolution
+  of language. They have have architected history: the pattern of
+  myths that for the base paradigms of our collective narratives for
+  explaining who we are and how we got to where we are. Regardless of
+  where we live, we all have a collective story for how we got there
+  and this narrative motivates our actions. Stories in history are
+  like patterns for sewing clothes: each one provides a convenient
+  basis by which we compare not only heroes, pariahs and demagogues,
+  but ourselves and each other.
+  - What does the illuminati do to people they detest? They freeze
+    them in carbonite, so to speak. If you actually manage to make
+    waves, you become frozen into history after death, completely
+    unable to control the evolution of your narrative, which is
+    partially what men fear so much that makes the idea of heaven so
+    appealing. Regardless of whether it's real or not, heaven is an
+    idea of the place you spend for eternity, if you only believed in
+    the vision of Jesus Christ. It the idea itself at least has
+    power. Men fear how their stories will play out after their lives,
+    since they'd have no power against their enemies to sew them into
+    narratives and dominate the tellings of their stories.
+    - *In my own interpretation*, those who rot in hell are forgotten
+      because, to the church, these people did not stand for what was
+      critical: the collective, geopoltical self-defense of Europe or
+      its expansion into the New World. Those who ascend to heaven are
+      instead preserved, but collectively coupled to the image of
+      Jesus Christ forever. This is a magnificent fate, compared to
+      the obliviation of Hell.
+  - Hell is not always a literal obliviation. If you piss off people
+    who are powerful enough, your image and identity will spend
+    eternity as a pattern for a story in which you are hardly the
+    hero. Instead you are the fool or the pawn who is to be hated and
+    detested for eternity, whose story is to be propagated by the
+    occult as long as possible.
+  - See why I might be a little pissed off? Who stands to defend
+    themselves most, after death? Those with the social and financial
+    resources to set in motion plans which carry themselves out.
+
+
+- More than anything, these überelite fear the contagion of
+  information that disrupts their meticulous calculations, whose moral
+  consequentialist ends are maintained as vague at best and unknown to
+  nearly all. That is by design.
 
