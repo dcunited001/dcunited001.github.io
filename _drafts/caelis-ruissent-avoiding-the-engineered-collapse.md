@@ -215,7 +215,6 @@ theology or an understanding of any single religion -- but it becomes
 clear that these people foresaw things using methods, the outlines of
 which most of us can barely grasp.
 
-
 ### Severe Turbulence in Forex Markets May End Up In Nations Making Baseless Accusations Of Wealth Incineration
 
 One frequently cited component of marxist rhetoric that I cannot stand
@@ -394,8 +393,21 @@ will be thanking your stars that someone like me ever existed.
     resources to set in motion plans which carry themselves out.
 
 
-- More than anything, these überelite fear the contagion of
-  information that disrupts their meticulous calculations, whose moral
-  consequentialist ends are maintained as vague at best and unknown to
-  nearly all. That is by design.
 
+More than anything, these überelite fear the contagion of information
+that disrupts their meticulous calculations, whose moral
+consequentialist ends are maintained as vague at best and unknown to
+nearly all. That is by design.
+
+This is why anyone who stands against them will be tested, then
+humiliated publicly, but only if they manage to make it far enough to
+be a thorn in some banking family's side. <spit/> At the same time,
+this person will be stripped of their identity. Like a traitor in
+Dante's 9th Circle of Hell, their head will be encased in a block of
+ICE and they shall be buried alive, upside down. Not even memory of
+their identity shall remain.
+
+But please, keep in mind, not all banking family's are the
+same. No, one profits at the demise of others. There is vicious
+competition among the illuminati elite. AND NO "BANKING FAMILY" IS NOT
+A CODE PHRASE FOR JEWS, TATIANA.
