@@ -31,9 +31,14 @@ will be a new dark age, where all semblance of rationalism, science
 and logic become dominated by superstition and the tragic mechanics of
 power consolidation. I cannot allow this to happen.
 
+
+# (X) Threats Whose Adumbrations Stand In Stark Contrast To Their Eminence
+
 ### Imaging Technology and Computational Medicine Imply Trillions in Collective Liabilities From An Accurate, Irrefutable Assessment of Psychiatry's Insane Costs and Benefits
 
-- this novel imaging technology demonstrates
+- this novel imaging technology creates the possibilities of forensics
+  and stastical methods which prove the existence of top-secret
+  neurological intervention.
 
 ### The Use of Neurological Warfare To Suppress Dissidents, for Neurological CIA Mockingbird and to Cover up Inconvenient Truths
 
@@ -41,10 +46,116 @@ power consolidation. I cannot allow this to happen.
   statistical methods that prove neurological "intervention"
   techniques
 
+### The Inherent Fallibility of Digital Information Storage Presents Both the Possibility For And The Incentivization for Targeted and Total Information Destruction
+
+- the internet is a new age library of alexandria, except that cheap
+  access to digital information and cheap synchronization of
+  information in the cloud causes us to prefer to store information in
+  the cloud.
+  - when's the last time you bought a CD? OK, Lady Gaga's newest
+    album? If you're a Lady Gaga fan, did you buy it on CD? What about
+    Taylor Swift's new album, did you buy that on CD?
+  - OK, assume a nightmare-level nuclear EMP attack, like the fusion
+    H-bomb EMP attack Kim-Jong Un is undoubtely planning, if we
+    weren't [so capable of swatting his nukes out of the sky.]()
+
+
+<iframe width="560" height="315"
+src="https://www.youtube.com/embed/1O6B8etOub0" frameborder="0"
+allow="autoplay; encrypted-media" allowfullscreen></iframe>
+
+    - is there any evidence left that your precious artist's last CD
+      even existed? Think about it. Annhilate all digital information
+      and almost all of those cultural artifacts over the last decade
+      or so are effectively PURGED, as if there might as well have
+      been a cultural revolution.
+      - also, remember: the CD's that were not effectively shielded
+        from beta particles are also themselves annhilated.
+        - ever put a CD in a microwave for 5 seconds? It's TOAST! Why?
+          BETA PARTICLES.
+
+- what about the elimination of film negatives from Hollywood via a
+  ["mysterious" fungal virus]()? This serves the interests of
+  retroactive cultural annhililation.
+  - no one's even thinking about this. I am. I see it coming. I talk
+    about it and I'm therefore tormented psychologically because it
+    must be important to someone.
+
+- yet, chelsea handler -- that new age Jane Fonda bitch -- wants you
+  to question everything that's happening right now, especially the
+  potential War on North Korea. Why? Could it be that some of the
+  "Americans" like that, who aren't American-first are traitors,
+  leading the gullibles masses of sheep away from what should be
+  priorities?
+
+#### Chelsea "Handler" -- New Wage Jane Fonda Bitch
+
+<iframe width="560" height="315"
+src="https://www.youtube.com/embed/kgbNRjK1Bjo" frameborder="0"
+allow="autoplay; encrypted-media" allowfullscreen></iframe>
+
+> ... Wait for it ... Waaaait for it. LULZ
+>
+> Afraid of what? A liberal gunning for American interests? WHY?!
 
 ### The Need to Cover Up Warcrimes By All Major Powers
 
+- These crimes are hardly limited to one power or another
+
 ### The Need For Some Actors to Destabalize the Interantional Human Rights Regime Before the Next Global Conflict
+
+- What's the problem with warcrimes? Especially under the current
+  legal regime? The states who discover those transgressions only want
+  to use them for leverage because all significantly powerful states
+  have enough leverage on each other such that none of them will bring
+  suit against another in the ICC/ICJ unless they can be sure to
+  finish them off.
+  - Intelligence is trade in the commodity of secrets. These secrets
+    have more power for someone who knows them when few people know
+    them. So, if you know a state like Russia or China commited mild
+    warcrimes within their borders, it is usually more useful for you
+    to keep that secret and *use* it as leverage. I did not say that
+    either Russia or China is guilty of warcrimes. It is simply an
+    example.
+  - However, convicting Bosnian leadership of warcrimes? That's
+    simple. That regime was falling anyways and America needed them to
+    fall pretty hard. My opinion on those cases, is that prosecution
+    was trivial to pursue because it would be an indictment of the
+    leadership, not the people or the state, in particular. Further,
+    the Bosnia military was suppressed and didn't have nukes pointing
+    at America.
+
+For any sufficiently powerful state, accusations of warcrimes are met
+with subversive intelligence activity to kill, maim or otherwise
+silence the victims and witnesses. At least, this is what I've seen in
+my own personal live, which is ludicrous, since these are *warcrimes
+lite* -- warcrimes all the same, though. And you're damn straight that
+I'm not going to sit idly by and be a pathetic, trembling victim of
+nothing, just because the federal government is guilty as hell in my
+case. You aren't doing anything. You aren't letting up. You won't even
+say my fucking name. Go to hell, as far as I'm concerned.
+
+Regardless, as dark as this sounds, there's a need to undermine the
+current international human rights regime and, in deed, the
+international legal and financial regimes. This seems to be part of
+Putin's endgame, as far as I can see. Why? I don't know. I would
+assume that Russia feels if it gets some of its teeth back, it can
+make more incursions back into Eastern Europe, slowly, without
+all-out-warfare. Also, that, if it does come to all out war, then they
+stand to have a better chance if some of those nasty teeth don't lead
+to subsequent warcrimes prosecutions.
+
+This is why I say: throw out all the goddamn neurological warfare
+tactics you have -- AND kill it with fire. Make it public, so our
+enemies know they are strictly off limits and always will be. Make the
+whole idea of it **verboten**. These tactics have the potential to
+destabalize any large power, given access to the technology.
+
+### Novel WMD Technologies Render Frightening Hard Sci-Fi Into Reality And Create Intelligence Nightmares
+
+- there are no operational-level strategies as long as these tactics
+  are on the board. revealing them for what they are force all major
+  powers to cooperate, which is what we must do anyways.
 
 ### Statistical Methods Will Demonstrate Evidence of Weather Control For The Past Two Decades, Including Weaponized Weather which is Partially Responsible for Global Weather Destabalization
 
