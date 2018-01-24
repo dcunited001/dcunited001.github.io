@@ -117,10 +117,9 @@ determines the course of all phenomena through fate.
 
 #### .... Safe Spaces, Am I Right? Who TF Invited That Saw Guy Anyways?
 
-<a name="who-is-the-illuminati-and-why-are-they-such-assholes-anyways" />
+<a name="who-are-the-illuminati-and-why-are-they-such-assholes-anyways" />
 
-# [Who the Illuminati And Why Are They Such Assholes,
-Anyways?](#who-is-the-illuminati-and-why-are-they-such-assholes-anyways)
+# [Who Are The Illuminati And Why Are They Such Assholes Anyways?](#who-are-the-illuminati-and-why-are-they-such-assholes-anyways)
 
 So ... No, the Illuminati is not one group and that's worse! because
 you can't so easily destroy them without either becoming them or
@@ -203,21 +202,25 @@ manager was such a dick that day, i totally forgot about it. the
 #AlexanderMethod is a metaphor.
 
 fortunately, i was smart enough to have already understood the method
-as a metaphor for "limb" control. in #ElfenLied, psychics with phantom
-limbs are tightly controlled. these are incredibly powerful beings
-tormented by experimentation & never released.
+as a metaphor for "limb" control. in Elfen Lied, psychics with phantom
+limbs are tightly controlled and restrained in isolation. These are
+incredibly powerful beings tormented by experimentation & never
+released.
 
 ### メードのデートスル
 
 ![](/img/posts/)
 
-i'm not saying there's a connection b/w me, #Boulder & the
-#Rothschild's. just that my manager was the most insufferable asshole
-i've ever met, like he was Salaryman Stalin. anyways: no point in
-fighting über-powerful people, unless you're sadomasochistic.
+i'm not saying there's a connection between me, Boulder & the
+Rothschilds. All I mean is that that my manager was the most
+insufferable asshole i've ever met, like he was Salaryman
+Stalin. anyways: no point in fighting über-powerful people, unless
+you're sadomasochistic. In fact, I'm pretty sure the Rothschilds would
+be on my side -- they hate communism because it means they lose
+control over vast regions of socioeconomic territory to another main
+branch of the Illuminati.
 
 ![Tanya the Evil]()
-
 
 however, every body has a brain (mother brain)
 
@@ -232,18 +235,24 @@ methods.
 [Treatise on entity and agency]()
 
 
+> Please note: I am *not* talking about the Rothschild's, **duh**,
+> jeez you must think I have a deathwish. I do, by the way, but not
+> that kind of deathwish -- holy shit! That's the kind of deathwish
+> that curses your family for generations. You do not want those kind
+> of reapers in your closet. Besides, the Rothschilds are wonderful
+> people, to be sure ... Can someone get me the name of another
+> banking dynasty before these people track me down?
 
+Apparently überpowerful people --  -- have an unnatural phobia of illicit
+philosophy. more than anything else, they are scared of people who
+think in new and different ways because PEOPLE WHO ARE DIFFERENT CAN'T
+BE PREDICTED.
 
-apparently überpowerful people (not the Rothschild's, duh) have an
-unnatural phobia of illicit philosophy. more than anything else, they
-are scared of people who think in new and different ways because
-PEOPLE WHO ARE DIFFERENT CAN'T BE PREDICTED.
-
-thus, sociologically constrain the typology & metatypological aspects
+Thus, sociologically constrain the typology & metatypological aspects
 of psychology -- perhaps by introducing artificial belief systems,
 however contemptuously you may hold them -- & people become like
-special dolls with meta/types imbued onto them via #Alchemy
-#ManakinSkywalker
+special dolls with meta/types imbued onto them via Alchemy, like
+Manakin Skywalker right here.
 
 ### Dark Ruler
 

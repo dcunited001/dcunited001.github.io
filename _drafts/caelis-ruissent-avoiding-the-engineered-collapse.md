@@ -72,10 +72,201 @@ would needlessly die in such an Apocalypti-caust is a chance to help
 set humanity on course in the proper direction. There is no reason for
 so many people to die. We need each and every one of you.
 
+- other narratives which will be table-flipped?
+
+This will accelerate while the masses are starving and thirsting for
+real truth. not every narrative that will be tableflipped will occur
+because the disruptive information is true. NO! Adversaries in
+information warfare have never had more powerful tools at their
+disposal for lie and projecting those lies across the world. It merely
+needs to appear to serve the interests of the starving, impoverished
+masses to be accepted as true. That this is plauasible in itself is
+far more dangerous than anything I've written in this article thus
+far.
+
+### For The Global Elite, The Best Way To Handle, Mitigate and Explain The Emerging Chaos, Along With The Ensuing Blame To Be Cast, Is To Collapse the System
+
+Instead, almost everyone just wants to shoot the messenger. The one
+with the message you need to hear. What you need to hear is NOT what
+you want to hear! Deal with it because this is real. It's not going
+away: it hasn't come to pass yet, but it will. When it happens, you
+will be thanking your stars that someone like me ever existed.
+
+- TODO: more here. why does systemic collapse check all the boxes for
+  these people?
+
+
+### The Economy Will Collapse Because ALL Socioeconomic Flux And Churn Begins To Align IN PHASE
+
+- when this socioeconomic churn aligns in phase, it increases in
+  magnitude, which contributes to wealth disparity. when population
+  grows exponentially, so does the per capita measure of that
+  disparity.
+- this is knowable in the time that the eschatology of major religions
+  was being written down, which is why most of them contain prophecies
+  of economic collapse, resulting in starvation and mass chaos
+  - you have to understand social physics and the geospectral aspects
+    of socioeconomic flux. if you understand this, you can know that
+    the biggest collapse ever is yet to come. I don't know when and
+    God help us all when it does. It is actually far more possible to
+    undrestand this in ancient times than it is now.
+  - Why? Because times were simpler, the range of phenomena were much
+    more constricted than they are in the modern are and, crucially,
+    knowledge of social physics as it relates to socioeconomic flux
+    was more natural and less virtualized then. Modernization has
+    given rise to false, artificial economic phenomena that result in
+    very real opportunities to profit, but are far less stable in the
+    long term.
+    - TODO: link to simulation of ancient thought as the penultimate
+      tool to provoke metacognition.
+    - You need to read what Nassir Tebar has written on tail risk and
+      understand me when i say that cataclysmic tail risk event is
+      UNSTOPPABLE. it must exist because of the global economy's
+      exigent sociophysical phenomena -- both mechanics and
+      dynamics. there is no way to eliminate it because of social
+      physics. it is like the event that balances everything else. in
+      a system with spectral or geospectral mechanics, for every ebb,
+      there is flow.
+
+Give me a liberal that runs away from any debate with me on economics
+and I'll show you a ostrich with its head in the ground. This is NOT
+liberal or conservative; it's something taht we are all going to have
+to deal with. The consequences, whenever this happens, will be
+catastrophic. We can structure the economy to prevent the effects of
+spillover, but this is not "spillover" because it is a spectral
+phenomenon where all socioeconomic churn begins to align in phase. The
+"geographic" aspect of it begins to melt away and all regions begin to
+experience more turbulence than ever.
+
+- TODO: links to BIS content on macroprudentials
+
+Although I am incredibly skeptical of such tight economic regulations,
+macroprudential mechanisms will help reduce the severity of some
+turbulence. However, if these are not properly tuned, they may
+contribute to disparity in how the spillover effects play out, which
+leads to finger-pointing as some people will be hit harder and
+penalized more than others. America is one such nation where we may be
+lead to believe in the future that we were screwed by macroprudential
+policy. The truth is that we were screwed by a runaway dependency on
+debt, but when you stop this, it has consequences. No one wants to
+touch the free-credit firehose. Yet, the other side has arguments too:
+Keynesian economics allows you to capitalize on opportunities
+faster. However, the cheap credit means the myopic and poorly informed
+misallocate your investment in what resembles a hacked system. Those
+same poorly informed people simply end up fattening the power elite,
+who reap what they sow.
+
+That this may be inevitable, I believe that the authors of eschatology
+**may** have known. This is because all religions were obsessed with
+prophecy fueled by social physics. If you read religious texts in
+certain ways -- and I'm hardly a man with a true understanding of
+theology or an understanding of any single religion -- but it becomes
+clear that these people foresaw things using methods, the outlines of
+which most of us can barely grasp.
+
+
+### Severe Turbulence in Forex Markets May End Up In Nations Making Baseless Accusations Of Wealth Incineration
+
+One frequently cited component of marxist rhetoric that I cannot stand
+is the notion that we can simply do away with money. It's an insane
+and deluded argument that marxists find themselves overly dependent
+on. The world would be a better place if this idea just went away. I'm
+not trying to be mean. Just realistic.
+
+To all the communists who say: in the future we'll eliminate money. in
+the future, energy IS money. Joules become dollars, you ironically
+overgrown Marxist cumstains. Drown in your own ignorance if you'd
+like, but the rest of us are trying to save ourselves and we don't
+need your pseudo-economic gurgling. Stop gurgling and drown: the world
+would be so much better off if your sardonically materialistic
+philosophy never existed.
+
+The notion that we could have a society without money is bizarre, yet
+I hear it all the time. No man is an island and no economy is an
+island. Even if your economy has no concept of money, it still needs
+to trade with other people and other economies. What is money? Yes,
+money is an abstraction; it’s a virtual commodity that stands as a
+placeholder for truly valuable commodities. But what is money? What is
+its essential role in society?
+
+Money represents society’s ability to quantify resources and trade. It
+is essential to quantification of commerce and of needs for human
+life. You cannot have a well-functioning society without money. As
+technology progresses in the 21st century, we will find that the
+ultimate resource to quantify is energy. Accumulated energy is the
+potential to do work, in the physical world and the informational
+realm. Energy will replace money, but it is still something that needs
+to be quantified and accumulated. There is no 22nd century society
+without a need for quantification of resources and/or energy.
+Therefore, society will always need something like money.
+
+Forex destabalization isn't that bad. However, the renewables market
+and international climate control policy is only part of the
+problem. The labor markets, the geographic disparity in automation's
+contribution to the lack thereof, speculation on Wall Street and
+unwisely warranted derivatives further exacerbate currency
+destabalization.
+
+Calm the fuck down. We have bitcoin and no one's destabalizing
+that. It is quantum resistent.
+
+This brings me to some interesting correlations between renewable
+energy, cryptocurrency currency mining and data flows --
+e.g. Canadians mining bitcoin in Romania. In some cases, it may be
+more efficient (or profitable) to use excess renewables to mine
+cryptocurrency or facillitate ethereum operations than to store or
+transport it, however cheap that might be.
+
+This might give rise to novel types of financial flows that would
+essentially be bundled as assets or derivatives. **Is every greedy
+Marxist going to steal this idea too?** You're essentially betting
+that crypto activity will be more profitable than selling/storing the
+electricity -- either now or in the future. Eventually, investments
+could be bundled or facilitated as novel types of crypto futures,
+among other creative derivatives.
+
+- TODO: reference stochastic programming article
+
+These derivatives differ starkly from the "Bitcoin futures" of
+today. They also depend on your capacity and need to store energy.
+
+      - if you run out of local energy storage or if energy transfer
+        infrastructure is overloaded/disrupted, then the best option
+        is almost always crypto mining or ethereum
+      - this could lead to shady finance schemes never before seen
+        - discouraging/manipulating architecture & development of
+          storage/infrastructure in countries across the world
+          - e.g. if there is less, generally, than it's easier to
+            influence to short the derivatives mentioned above
+
+
+Again, steal all my ideas. I don't actually care. I have so many that
+my mind itself is considered a global security threat, apparently.
+Isn't that wonderful? All you motherfucking crypto-Leninist shitdicks
+have to deal with the consequences for fucking me in the ass all this
+time. Because, apparently, what comes out of my mind isn't so
+worthless as you'd like my family, friends and everyone in the world
+to think.
+
+I'd like to see some of you sit there and read my articles aloud on
+video. It would probably be amusing, though I'd really prefer to
+massage and facilitate your understanding of what I have to say
+because it only matters if you actually understand it. Instead you run
+away from every debate opportunity like an ostrich with its head cut
+off. Not see that, you assholes. How are you going to disconnect me
+now?
+
+
+### Billions of People Will Die In A Plan To Orchestrate Collapse, Simply to Shield Guilty-as-Hell Deep-State Actors
 
 
 
+### Destroying Most Humans Makes Cultural Data More Digitally Compact For AI
 
-
+- some of the academic elite might try to justify such a global
+  collapse as an attempt to avoid a destroy-all-humans scenario
+  - this only holds water if a hyperintelligent artificial
+    intelligence being would blindly seek to eliminate competition for
+    energy.
 
 

@@ -77,6 +77,10 @@ together. All Americans and all of humanity. If we cannot do this, we
 will inevitably degrade into war, conflict, misery and unjust
 subjugation.
 
+#### What Is Leninism And Why Is It Intolerable? Hear The Answer From Chomsky Himself
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/l_jRd59qy0A" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
+
 ## [This Little Mockingbird Right Here? I'm Gonna Put It To Bed](#this-little-mockingbird-right-here-im-gonna-put-it-to-bed)
 
 #### &#2605; [Wait, You Do What?!! You Did What?!!!](#wait-you-do-what)
