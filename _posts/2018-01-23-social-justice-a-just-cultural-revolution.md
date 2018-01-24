@@ -1,11 +1,17 @@
 ---
 title: "Social Justice: A Just Cultural Revolution?"
 categories: "blog"
-tags: "psychology sociology neuro"
-headline: "I'll know if you've read it"
+tags: "psychology communism"
+headline: "You're all being played for fools by anti-American interests"
 author:
   name: "David Conner"
-excerpt: ""
+excerpt: "
+Whatever you do, Social Justice Warriors, do not let society take the
+opposite path. That is the paramount danger of your quasi-leninist
+destabalizaion. We've made progress, but now we must actually work
+together. All Americans and all of humanity. If we cannot do this, we
+will inevitably degrade into war, conflict, misery and unjust
+subjugation."
 ---
 
 > To be sure: Social Justice as a idea is good. It's the
@@ -27,8 +33,8 @@ I believe that the strides made in the last half of the twentienth
 century represent more progress than this generation could truly ever
 hope to achieve. Though you are certainly not wrong to try, please,
 step back and put this all in perspective: what if what you are doing
-actually -- in how it sociophysically plays out -- threatens so many
-generations before you worked so hard to achieve?
+actually -- in how it sociophysically plays out -- threatens what so
+many generations before you suffered so hard for to achieve?
 
 Regardless: **Social Justice** is such a loaded term and I hate loaded
 terms because you can't tell what baggage someone is going to pick and
@@ -44,10 +50,11 @@ someone will listen to you long enough to intellectually digest your
 content if you satiate their emotional needs and **that** is assuming
 that someone has the intellectual wherewithal to understand what your
 saying. No offense, but for me, there are like 300 people on earth who
-could understand everything I write without doing much research. So, I
-hardly hope that anyone is listening today, but maybe tomorrow they'll
-understand what it was that I was trying to say the entire time, but
-only if I write.
+could understand everything I write on my blog without doing much
+research -- though this counts for *nothing* to *marxists'scum*.
+Regardless, I hardly hope that anyone is listening today, but maybe
+tomorrow they'll understand what it was that I was trying to say the
+entire time, but only if I write.
 
 That you must appeal to emotional associations is especially true when
 your audience has a need to believe what you're saying is usually
@@ -59,7 +66,7 @@ there's basically no hope. Munch on those soundbytes, assholes, and
 that goes for both the left and the right because you're both pretty
 much the same to me: *wrong enough to stall out any true progress.*
 
-Who do we have to thank about that? **The Deep State.** The American
+Who do we have to thank for that? **The Deep State.** The American
 political system itself is a carefully calculated false dichotomy that
 cancels out any true progress forward and this is by design.
 
@@ -149,10 +156,30 @@ subjugation.
 
 ## [Take A "Class" On This, Leninists](#take-a-class-on-this-leninists)
 
-
 <a name="this-little-mockingbird-right-here-im-gonna-put-it-to-bed" />
 
 # [This Little Mockingbird Right Here? I'm Gonna Put It To Bed](#this-little-mockingbird-right-here-im-gonna-put-it-to-bed)
+
+> No, this is NOT a reference to the book "To Kill A Mockingbird."
+
+What is [Operation
+Mockingbird](https://en.wikipedia.org/wiki/Operation_Mockingbird)?
+Imagine being in a stadium of 10,000 people and, every 10 seconds,
+half of those people shout the same, single word once. Almost like the
+nauseating Occupy Wall Street technique for circumventing regulations
+preventing them from speaking with megaphones at protests. Operation
+Mockingbird is an attempt to use subversive tactics to get journalists
+and well-connected people to say the same thing, so you're all
+swimming in a sea of disinformation. It was used responsibly in the
+period of time after the end of WW2.
+
+Now that we have social media, something like this program, without
+being intended, essentially runs on its own with zero direction,
+oversight or intent from any American authorites. You see: the poor
+have more power today than they have ever had, but the truth is that
+they still don't necessarily have the education they need to properly
+discern how they should exercise this power. This is horrible because
+we need people more than ever to be more educated.
 
 There's something that I really want to set straight and I thought I
 did that with [this
@@ -161,10 +188,10 @@ and [this post](/posts/2016-07-17-diversity-is-americas-strength.html)
 AND [this
 post](/posts/2017-03-10-harnessing-the-congruence-of-the-human-condition-for-natural-justice.html)
 -- but then I've realized that I've been all sooo censured the whole
-time. Being falsely labelled as racist or anything -- especially when
-it involves triggering people with "A/B testing" and hiring gypsy
-crystal-ball fortune tellers to interpret the facial expressions and
-changes in body language -- is horrible.
+time. Being falsely labelled as racist or anything is horrible --
+especially when it involves triggering people with "A/B testing" and
+hiring gypsy crystal-ball fortune tellers to interpret the facial
+expressions and changes in body language.
 
 <a name="wait-you-do-what" />
 
@@ -305,7 +332,7 @@ the house of cards they built falls apart and that looks real bad.
 
 #### How'd You Figure That Anyways? Must Be The Smarts. Have We Ever Met?
 
-![Philosoraptor](/img/posts/2018-01-22-social-justice-a-cultural-revolution/racist-philosoraptor.jpg)
+![Philosoraptor](/img/posts/2018-01-23-social-justice-a-just-cultural-revolution/racist-philosoraptor.jpg)
 
 <a name="how-do-you-diffuse-the-label-of-racist-especially-when-its-false" />
 
@@ -409,7 +436,7 @@ FUCKING PISSED OFF. At who? White, liberal America.
 > immediately; we need to make this a good one. A long one and a good
 > one."
 
-![The Honeypot](/img/posts/2018-01-22-social-justice-a-cultural-revolution/)
+![The Honeypot](/img/posts/2018-01-23-social-justice-a-just-cultural-revolution/honeypot.jpg)
 
 <a name="whys-that-memo-so-hard-to-read-anyways" />
 
@@ -434,7 +461,7 @@ know? Anyways ...
 
 #### She's Got Gloves Because She Don't Touch Nothing
 
-![Ilya Girl](/img/posts/2018-01-22-social-justice-a-cultural-revolution/ilya-girl.jpg)
+![Ilya Girl](/img/posts/2018-01-23-social-justice-a-just-cultural-revolution/ilya-girl.jpg)
 
 <a name="nice-try-but-im-not-a-racist-and-im-not-going-to-become-one-either" />
 
@@ -520,10 +547,12 @@ lash back at Trump and all the "bougeoisie" that he represents.
 
 ### [Wake Up To The Smell Of Class Struggle](#wake-up-to-the-smell-of-class-struggle)
 
-> It's Not Marxism, It's Leninism. Pray For World Revolution or That's
-> The Only Coffee You're Ever Going To Drink.
+> It's not Marxism, it's Leninism. Pray for your precious world
+> revolution *empire* or that's the only coffee you're ever going to
+> drink. Communism is certainly economically unsustainable without
+> "world revolution", by the way.
 
-![Marxism Coffee Mix](/img/posts/2018-01-22-social-justice-a-cultural-revolution/)
+![Marxism Coffee Mix](/img/posts/2018-01-23-social-justice-a-just-cultural-revolution/marxism-mix-coffee.png)
 
 Furthermore, leninists will bide their time. They *know* that they
 only get one real shot at revolution per generation, absent systemic
@@ -615,6 +644,17 @@ with nothing but your own philosophic axioms and foundational
 beliefs. That is: I can tear your beliefs apart and put them back
 together with nothing but what you give me, which implies inherent,
 systemic, tautological fallibility.
+
+#### And Yet, You Say This Was A Fair Fight? I Hope You Take That Into Account When I Finally Destroy You. You're Going To Need Something To Remember That Keeps You Down, Communists.
+
+![And I Was Ever Going To Win A Debate With You](/img/posts/2018-01-23-social-justice-a-just-cultural-revolution/3rd-world-kid.jpg)
+
+> "Like I was ever going to wind a debate with Marxists already
+> exerting near-total influence? You drown out anything you don't want
+> to hear, like Mockingbird on steroids, since you engage in
+> demagoguery to rile up the masses *you know* don't understand
+> economics." - The Literal [Third World
+> American](https://www.instagram.com/p/BEL9P82y5ef/?taken-by=dchronik)
 
 <a name="thats-right-minorities-know-the-pain-youll-never-know" />
 
@@ -796,7 +836,7 @@ makes you STUPID and WEAK.
 
 #### Here's some 1337 H4X0R Income Taxes From 2015
 
-![Income Taxes](/img/posts/2018-01-22-social-justice-a-cultural-revolution/2015-income-taxes.jpg)
+![Income Taxes](/img/posts/2018-01-23-social-justice-a-just-cultural-revolution/2015-tax-return.jpg)
 
 <a name="ababou-gotcha-so-how-are-you-doing" />
 
@@ -836,8 +876,7 @@ begging someone else to solve your problems.
 > <spits n="however many you want, bitch. you aint' gonna do nothing
 > />"
 
-![Clown Suicide](/img/posts/2018-01-22-social-justice-a-cultural-revolution/clown-suicide.jpg)
-
+![Clown Suicide](/img/posts/2018-01-23-social-justice-a-just-cultural-revolution/clown-suicide.jpg)
 
 And no, I'm not asking gangstalkers to commit suicide here. That's one
 unfortunate clown who's not gonna take any more cold showers. What I
@@ -860,16 +899,19 @@ this, I'll know what a proportional response is and when to
 stop. Until then, pick out a real good Hallmark Card for me because
 you're going to need it.
 
-![Tenguu Test? YOU FAIL](/img/posts/2018-01-22-social-justice-a-cultural-revolution/)
+#### Tengu Test? YOU FAIL
+
+![Tengu Test? YOU FAIL](/img/posts/2018-01-23-social-justice-a-just-cultural-revolution/tengu-statues.jpg)
+
+Again, I'm sorry for creating these problems, but I dare you & implore
+you to help me stop this, instead of attempting to use it for
+pragmatic political expedience! Who could be the first to do that
+without they themselves becoming targeted? Who thought to **ever**
+give me the chance to deal with the consequences of what I *allegedly*
+created?
 
 <a name="take-a-class-on-this-leninists" />
 
 # [Take A "Class" On This, Leninists](#take-a-class-on-this-leninists)
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/WoMVfvS8rSo" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
-
-Again, I'm sorry for creating these problems, but I dare you & implore
-you 2 help me stop this, instead of attempting to use it for pragmatic
-political expedience! Who could be the first to do that without they
-themselves becoming targeted? Who thought to **ever** give me the
-chance to deal with the consequences of what I *allegedly* created?

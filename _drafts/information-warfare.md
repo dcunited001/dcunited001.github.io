@@ -473,6 +473,64 @@ headline: "Informational Territory > Sociohierarchical Territory > Economic Terr
                     what they say about me, because that poison-pen
                     information is already out there.
 
+#### The Problems with Identifying Bots on Social Media
+
+- up front: saying that there's no challenges in eliminating bots on
+  social media is simply not true. it's very difficult. however, some
+  aspects of it are easier than you'd think.
+  - there are so many options to leverage to attack this that are
+    dead-simple, it's incomprehensible that it's even an issue in the
+    news. It's because everything in the media is a lie.
+
+Identifying people with multiple accounts is trivial, unless they're
+running through a botnet. Even then, all the activity requests use a
+token session AND a key, which acts as the OAUTH application ID. So no
+one can ever use social media in such a way, without having a botnet.
+Any accounts which are truly fake are flagged as such immediately.
+it's trivial to identify and prevent these bots, but they weren't
+actually bots.
+
+The point is: it's trivial to identify authentic interactions. the
+positive analysis is easy, but the negative analysis is hard
+(i.e. identifying bots and distinguishing them from automated accounts
+with genuine value). This is certainly true because otherwise google's
+dead-simple [reCAPTCHA](https://www.google.com/recaptcha/intro/) would
+never work.
+
+I'm really going off on a tangent here and i don't want to seem like
+i'm focusing on you in particular, especially since you did so much
+for me at the Colab. I need to write a draft on this anyways.
+
+Another reason that Social Media and Google drop the ball on bot
+identification is because the gray-market for #SEO allows their
+products to form the basis of a platform. It's not that they can't do
+it. It's that they don't want to do it for the same reason that no one
+who invades Afghanistan wants to eradicate the heroin market. it's
+simply ludicrous to eliminate bots: it's useful for anyone invested in
+that gray market for social/financial purposes. It also sounds really
+bad when your customer's accounts get flagged as bots and potentially
+deleted. if Google, Facebook or Twitter were to eliminate that gray
+market through brute force, they would lose customers and that former
+gray market would gravitate towards a more friendly internet product
+ecosystem: because people like a little piece of the pie themselves.
+
+These internet billionaires are so fucking full of themselves, they
+think that no one sees this through their counter-signalling
+fairweather political operative smoke and mirrors.
+
+#### Biometric Verification with Social Media
+
+i am super excited about the face-identification on #iPhoneX because
+it means social media interactions can't so easily be faked. anything
+with headers coming from iPhone X on specific iOS applications can
+almost guaranteed to be considered authentic, prioritizing that
+traffic in rankings algorithms, at least when combined with a handful
+of other signals. it's amazing.
+
+the biometric validation of social media traffic may end up being one
+of those funny future-past passé-faire ideas though, since AR/VR
+interactions will overtake mobile after like 5 years.
+
 #### Leveraging ad spots on free music/video for hypnosis
 
 - because why the hell not? you don't have a soul and besides, these
@@ -495,8 +553,19 @@ headline: "Informational Territory > Sociohierarchical Territory > Economic Terr
   - this technology has non-tortuous uses by the way, but i can't
     really think about much else
 
-## Social Media Countertactics
+## Social Media Tactics
 
+#### Abusing Like/Reactions
+
+#### Abusing Spam Reports (but not overabusing them)
+
+#### Abusing the Spectral Nature of Algorithms
+
+#### Abusing the new Polling Feature for Sources
+
+#### Influencing the Leadership of
+
+## Social Media Countertactics
 
 #### Circumventing Shadowbanning
 

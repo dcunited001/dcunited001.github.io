@@ -17,7 +17,6 @@ most radiant truth who commands the masses, if they can just be heard.
 
 # [What Does Metaphysics Have To Do With The Illuminati, Anyways?](#what-does-metaphysics-have-to-do-with-the-illuminati)
 
-
 <a name="illuminati-the-anti-santa" />
 
 # [Illuminati: The Anti-Santa](#illuminati-the-anti-santa)
@@ -42,6 +41,8 @@ is paramount: you can fight what you believe exists.
 #### Cookies? So You Can Gaslight Me? Do I Look Like Hansel?
 
 ![Ain't Nobody Got Time For That]()
+
+> Not gonna lie, I will eat your cookies though.
 
 There is no one group though, why is partially why it's so easy to
 forget they couldn't possibly not exist. The Illuminati is more of a
@@ -317,6 +318,8 @@ expect *anyone* to pay for their crimes in the future?
 
 #### Dynasties
 
+- what are the methods of inheretence of power called?
+
 - three families close to the japanese emperor for hundreds of years
   - how this served the best interests of the japanese culture
     - before, during and after the time of Nobunaga
@@ -349,37 +352,123 @@ expect *anyone* to pay for their crimes in the future?
           quantity, possession and the material.
           - i'm not saying one is better than the other...
 
+#### The Dalai Lama As A Metaphysical Dynasty
+
+- The mantle of the Dalai Lama is passed from one generation to
+  another. The child to become the Dalai Lama must be identified by
+  the Panchan Lama and initiated properly, otherwise he is *not* the
+  Dalai Lama. China kidnapped the child identified to become the
+  Panchan Lama. This means that this could not have been properly
+  initated himself by the current Dalai Lama. If you believe this
+  child is capable of identifying a true Dalai Lama in the next
+  generation, you are a fool and know nothing of Tibetan traditions.
+
+- If the Panchan Lama is not initiated properly, the Lama lineage
+  itself is threatened, but perhaps all is not lost. I don't want to
+  explain why.
+
+- How is this a unique dynasty? How is it a good selection of
+  leadership for Tibet? To me, this is what is most intriguing about
+  the position of Dalai Lama as the highest role of authority in
+  Tibet.
+
 <iframe width="560" height="315"
 src="https://www.youtube.com/embed/WoMVfvS8rSo" frameborder="0"
 allow="autoplay; encrypted-media" allowfullscreen></iframe>
 
 # Fighting with shadows
 
-- your enemy will be ruthless & destroy you immediately
-- learn to dance with them, you're going to need it.
-- wear your scars proudly.
+#### your enemy will be ruthless & destroy you immediately
+
+#### learn to dance with them, you're going to need it.
+
+#### wear your scars proudly. Commit yourself to no actions for which
+the consequences you cannot wear proudly.
+
+- they will try to shame you with both their values systems, your own
+  and all the miscontortions of both.
+
 - they will have a weapon that they will never let go of. it's not a
   fair fight. it never was. do not allow your space to become choked
   out: you need air, water, fire. you need people. you need food.
+
 - when that one doesn't work, they have plenty more you've never
   seen. enjoy each and every one you get the chance to see because
   each one is special. some are never meant to be seen ... for long.
+
   - story of the house from "The Ancient Magus Bride"
   - some people never leave. you get to take one thing home with you.
     i took them all and made new ones.
   - the longer that you withstand baptism by fire without dying, the
     more of these you bring home with you.
-- make them grab the weapon they didn't intend to use. your weapon is
+
+#### make them grab the weapon they didn't intend to use. your weapon is
   the way itself.
-- bait them into breaking their precious things
-- grab their eyes with your fearless gaze & never let go
-- when they are certain you'll strike, feint instead
-- be ready to fight with shadows
-- when they pull you into the hall of mirrors, you're fighting shadows of yourself that do not exist
-- destroy their images. ALL of them
+
+#### bait them into breaking their precious things
+
+#### grab their eyes with your fearless gaze & never let go
+
+
+#### when they are certain you'll strike, feint instead
+
+
+
+#### be ready to fight with shadows
+
+- these are all the neutral people who have been poisoned against
+  you. it is critical to remember that *they are not your enemy*.
+  - you must become formless when you fight your true enemy.
+- if you do not or cannot develop a "sixth sense" at this point, you
+  should just give up.
+
+#### once you will start fighting with shadows you will become weary fast
+
+- you maintain this burn rate for sociophysical energy. every
+  interaction you encounter will be seen as neutral by the other
+  people, while they have heard much about you. be wary, you're under
+  a microscope and anything you do will be used against you.
+  - instead, display such radiant truth that those who are set against
+    you cannot possibly continue to assail you.
+  - in this way, they will become demoralized first, then will begin
+    to question those who set them upon you. finally, they will
+    realize the truth all along.
+- however, if you are sociophysically isolated before this happens,
+  you may wake up to realize you have nothing. there are several
+  dangers here, but the truth is that nothing may become the greatest
+  asset you have for carrying forward on the path you that should
+  truly be on, which is your own path and the path of truth. both must
+  be one and the same if you are to hope for success.
+  - if you can resist falling for the first things your enemy offers
+    you as appeasement, then you will find that having nothing offers
+    your enemy nothing to take away. they have nothing to threaten and
+    nothing to harm. you have nothing to lose. no one can claim you
+    are predicating your decisions on what you have because you have
+    nothing -- except the truth and what you stand for.
+    - do not accept gifts from the source of your problems, if you do
+      not validate them first. they may simply be trojan horses, at
+      best.
+
+- reference Mordecai protesting by wearing a potato sack
+
+#### when they pull you into the hall of mirrors, you're fighting shadows
+  of yourself that do not exist
+
+- if they invite you to battle in the hall of mirrors, it is for
+  show. they seek to desecrate your image and your story, using you as
+  the moral to their story.
+  - instead, you must destroy their images and your reflections
+    too. destroy all of the image that cannot be used to serve your
+    interests or feed your energy. it is the only way to win
+  - let the only thing to remain be your own authenticity.
+
 - when you cannot lose, slay them by pushing them into their own
   weapon: *THE ONE THEY NEVER INTENDED TO EXIST*
-- know your enemy.
+
+- know your enemy. know yourself
+  - your enemy will see to throw you off guard by (pushing your
+    buttons)
+
 - in your victory, do not become your enemy, in who they were or are
   or in who you were or have become
 
