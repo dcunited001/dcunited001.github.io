@@ -8,7 +8,6 @@ author:
 excerpt: ""
 ---
 
-
 There is an engineered collapse coming. There are certain trends that
 the rich and powerful seek to distract you from. individually, each
 trend is not very significant. Extrapolated collectively, there is no
@@ -32,13 +31,53 @@ will be a new dark age, where all semblance of rationalism, science
 and logic become dominated by superstition and the tragic mechanics of
 power consolidation. I cannot allow this to happen.
 
-### Imaging Technology and Computational Medicine Imply Trillions in Collective Liabilities
+
+### The Use of Neurological Warfare To Suppress Dissidents, for Neurological CIA Mockingbird and to Cover up Inconvenient Truths
+
+### The Need to Cover Up Warcrimes By All Major Powers
+
+### The Need For Some Actors to Destabalize the Interantional Human Rights Regime Before the Next Global Conflict
+
+
+### Imaging Technology and Computational Medicine Imply Trillions in Collective Liabilities From An Accurate, Irrefutable Assessment of Psychiatry's Insane Costs and Benefits
 
 
 
-### Statistical Methods Will Demonstrate Evidence of Weather Control for the Past Two Decades and Weaponized Weather
+### Statistical Methods Will Demonstrate Evidence of Weather Control For The Past Two Decades, Including Weaponized Weather which is Partially Responsible for Global Weather Destabalization
 
+- This is not to say that climate change is false or a coverup.
+  Climate change is very real and this is going to cause more
+  problems.
+  - we're going to see weather control used as a tactic in economic
+    warfar, disrupting the agricultural value of entire regions.
+  - it is very possible to "seed" clouds. there have already been
+    applications of
 
+- The problem is that global weather systems are tightly and
+  intricately connected. Furthermore, they vulnerable to phase
+  changes, where a new phase emerges and the entire system can never
+  be the same again.
+
+#### If You Didn't Understand What I Just Read, It's OK. Read This:
+
+> Ever heard of an "ice age" or the "end of the last glacial maximum?"
+> Exactly. It's not that hard to understand then, is it? The
+> difference is: when I try to describe something methodologically, I
+> am ridiculed and psychologically tortured.  People just cannot
+> understand what I am saying, but that precisely sums up the value in
+> what I say. You have someone telling you something that is
+> important. It cannot go unheard. And what do you do? Exactly what
+> happened in my life, which is why the world doesn't deserve people
+> like me because you heartless scum villify anyone who tries to show
+> you the error of your ways.
+
+I am simply tired of being attacked by lilliputian pissants, whos
+stings are pleasantly amusing when their irony is taken into account,
+but still collectively infuriating.
+
+#### Lilliputian: Read A Fucking Book Sometime. I Want Everyone To Be As Strong And Smart As Is Possible
+
+![]()
 
 ### Evidence of the Psychosocial Manufacturing of MKULTRA-style Manakins for Systemic Karmic Obfuscation Worldwide For Centuries
 
@@ -48,6 +87,8 @@ no matter how powerful you think you are, do not displease the shadowy
 Wizard-of-Oz powers that be. So, if you find yourself with power,
 without the chains to be held back, tread carefully because these
 assholes have weapons you cannot comprehend.
+
+- a little more here
 
 ### Evidence Demonstrating Conspiraces Throughout the Ages will Simultaneously Revealed. All Will Be Judged.
 
@@ -95,38 +136,53 @@ will be thanking your stars that someone like me ever existed.
 - TODO: more here. why does systemic collapse check all the boxes for
   these people?
 
-
 ### The Economy Will Collapse Because ALL Socioeconomic Flux And Churn Begins To Align IN PHASE
 
-- when this socioeconomic churn aligns in phase, it increases in
-  magnitude, which contributes to wealth disparity. when population
-  grows exponentially, so does the per capita measure of that
-  disparity.
-- this is knowable in the time that the eschatology of major religions
-  was being written down, which is why most of them contain prophecies
-  of economic collapse, resulting in starvation and mass chaos
-  - you have to understand social physics and the geospectral aspects
-    of socioeconomic flux. if you understand this, you can know that
-    the biggest collapse ever is yet to come. I don't know when and
-    God help us all when it does. It is actually far more possible to
-    undrestand this in ancient times than it is now.
-  - Why? Because times were simpler, the range of phenomena were much
-    more constricted than they are in the modern are and, crucially,
-    knowledge of social physics as it relates to socioeconomic flux
-    was more natural and less virtualized then. Modernization has
-    given rise to false, artificial economic phenomena that result in
-    very real opportunities to profit, but are far less stable in the
-    long term.
-    - TODO: link to simulation of ancient thought as the penultimate
-      tool to provoke metacognition.
-    - You need to read what Nassir Tebar has written on tail risk and
-      understand me when i say that cataclysmic tail risk event is
-      UNSTOPPABLE. it must exist because of the global economy's
-      exigent sociophysical phenomena -- both mechanics and
-      dynamics. there is no way to eliminate it because of social
-      physics. it is like the event that balances everything else. in
-      a system with spectral or geospectral mechanics, for every ebb,
-      there is flow.
+When this socioeconomic churn aligns in phase, it increases in
+magnitude, which contributes to wealth disparity. When population
+grows exponentially, so does the per capita measure of that disparity.
+
+This is knowable in the time that the eschatology of major religions
+was being written down, which is why most of them contain prophecies
+of economic collapse, resulting in starvation and mass chaos. This
+isn't too different than the prophecies that Moses delivered to
+Pharoah, actually. In my opinion, those things that happened were
+knowable by a highly intelligent man who knew his land better than the
+ruler of the day, depending on whether you tolerate more liberal
+interpretations of the bible. The truth is, of course, the lower-class
+workers often do know the land and its phenomena better than the
+rulers, who can't see for shit from their ivory towers.
+
+> Yeh, I'm saying, "Pharoah, let my people go!" Right here in this
+> text, I am saying: "This too will come to pass, especially if you do
+> not listen to me." I know better than you do, regardless of how
+> suppressed my life is and regardless of the information assymetry i
+> fight against, every damn day. I know better than you. I am here to
+> help, not to be tormented.
+
+You have to understand social physics and the geospectral aspects of
+socioeconomic flux. If you understand this, you can know that the
+biggest collapse ever is yet to come. I don't know when and God help
+us all when it does. It is actually far more possible to undrestand
+this in ancient times than it is now.
+
+Why? Because times were simpler, the range of phenomena were much more
+constricted than they are in the modern are and, crucially, knowledge
+of social physics as it relates to socioeconomic flux was more natural
+and less virtualized then. Modernization has given rise to false,
+artificial economic phenomena that result in very real opportunities
+to profit, but are far less stable in the long term.
+
+- TODO: link to simulation of ancient thought as the penultimate tool
+  to provoke metacognition.
+
+You need to read what Nassir Tebar has written on tail risk and
+understand me when i say that cataclysmic tail risk event is
+UNSTOPPABLE. it must exist because of the global economy's exigent
+sociophysical phenomena -- both mechanics and dynamics. there is no
+way to eliminate it because of social physics. it is like the event
+that balances everything else. in a system with spectral or
+geospectral mechanics, for every ebb, there is flow.
 
 Give me a liberal that runs away from any debate with me on economics
 and I'll show you a ostrich with its head in the ground. This is NOT
@@ -210,6 +266,11 @@ destabalization.
 Calm the fuck down. We have bitcoin and no one's destabalizing
 that. It is quantum resistent.
 
+### Energy And Resource Markets Give Rise To A Peak Oil Forever Scenario, If The Population Is Truncated
+
+- describe how to extend peak oil forever. not just peak oil; peak
+  everything, forever.
+
 This brings me to some interesting correlations between renewable
 energy, cryptocurrency currency mining and data flows --
 e.g. Canadians mining bitcoin in Romania. In some cases, it may be
@@ -228,16 +289,25 @@ among other creative derivatives.
 - TODO: reference stochastic programming article
 
 These derivatives differ starkly from the "Bitcoin futures" of
-today. They also depend on your capacity and need to store energy.
+today. They also depend on your capacity and need to store energy. If
+you run out of local energy storage or if energy transfer
+infrastructure is overloaded/disrupted, then the best option is almost
+always crypto mining or ethereum. This could lead to shady finance
+schemes not yet seen, whereby profits are accrued and financial hopes
+dashed through the discouragement and manipulation of the architecture
+or development of both energy storage and infrastructure in countries
+across the world. If there is less infrastructure, generally, than
+it's easier to influence to short the derivatives mentioned
+above. It's like measuring the influence that removing small numbers
+of nodes in algebraic graph theory, no doubt connected to (albuin
+numbers). The more connected the graph is and the more nodes there
+are, generally, the less potential for disruption there is when a
+small number of nodes are randomly removed. Control the development of
+infrastructure and generally increase the potential for profit via the
+structure of nodes on the "graph" of energy infrastructure.
 
-      - if you run out of local energy storage or if energy transfer
-        infrastructure is overloaded/disrupted, then the best option
-        is almost always crypto mining or ethereum
-      - this could lead to shady finance schemes never before seen
-        - discouraging/manipulating architecture & development of
-          storage/infrastructure in countries across the world
-          - e.g. if there is less, generally, than it's easier to
-            influence to short the derivatives mentioned above
+- [Albuin numbers]().
+
 
 
 Again, steal all my ideas. I don't actually care. I have so many that
@@ -256,11 +326,6 @@ away from every debate opportunity like an ostrich with its head cut
 off. Not see that, you assholes. How are you going to disconnect me
 now?
 
-
-### Billions of People Will Die In A Plan To Orchestrate Collapse, Simply to Shield Guilty-as-Hell Deep-State Actors
-
-
-
 ### Destroying Most Humans Makes Cultural Data More Digitally Compact For AI
 
 - some of the academic elite might try to justify such a global
@@ -269,4 +334,19 @@ now?
     intelligence being would blindly seek to eliminate competition for
     energy.
 
+### We Need Universal Language For Cultural Compactification. This is Hard With Seven Billion People and No Hard Reset
+
+- 
+
+### Sociocultural Convergence And Spectra Decoherence Accruing and Proceeding at Paradoxically The Same Time
+
+
+
+
+# TL;DR;
+
+
+
+
+### Billions of People Will Die In A Plan To Orchestrated Collapse, Simply to Shield Guilty-as-Hell Deep-State Actors
 
