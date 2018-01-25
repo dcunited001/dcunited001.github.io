@@ -8,6 +8,10 @@ author:
 excerpt: ""
 ---
 
+
+- competitive symbology
+  - through the ages and in modern infowars.
+
 In a world awash with a deluge of information, it is who tells the
 most radiant truth who commands the masses, if they can just be heard.
 

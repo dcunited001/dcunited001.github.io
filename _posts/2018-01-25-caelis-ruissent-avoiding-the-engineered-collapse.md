@@ -8,15 +8,24 @@ author:
 excerpt: ""
 ---
 
-There is an engineered collapse coming. There are certain trends that
-the rich and powerful seek to distract you from. individually, each
-trend is not very significant. Extrapolated collectively, there is no
-other way that the powerful can expect to bear the weight of these
-trends, except by collapsing the entire system. If this is the case,
-then billions will certainly die. This is what drives me and
-invalidates all charges against me. If you can prove to me that I am
-wrong and insulate humanity against the consequences of these
-problems, then you have my will or soul or whatever you want for free.
+There is an engineered collapse coming. It is likely the that your
+leaders in name have no idea whats coming because they are going to
+take the fall for much of this -- therefore, it's far more likely to
+be people 1&#deg; away from them. After all, the man who is bound by
+all the money and fame and status they might lose is not truly
+free. Our leaders will only be able to stop this if they work together
+and if the people of democracies are willing to let the petty
+accusations go.
+
+There are *certain* trends that the rich and powerful seek to distract
+you from. individually, each trend is not very significant.
+Extrapolated collectively, there is no other way that the powerful can
+expect to bear the weight of these trends, except by collapsing the
+entire system. If this is the case, then billions will certainly
+die. This is what drives me and invalidates all charges against me. If
+you can prove to me that I am wrong and insulate humanity against the
+consequences of these problems, then you have my will or soul or
+whatever you want for free.
 
 These trends are damning. Merely mentioning them may cause severe
 consequences, but they are unavoidable and I know *exactly* how the
@@ -31,8 +40,25 @@ will be a new dark age, where all semblance of rationalism, science
 and logic become dominated by superstition and the tragic mechanics of
 power consolidation. I cannot allow this to happen.
 
+> "The greats who came before us, though we may seem greater, were
+> truly the greatest." - David Conner
 
-# [Whose Adumbrations Starkly Contrast Their Eminence]()
+The tragedy of the 21st century is that we shall never know of
+humanity's true potential for greatness. Instead, all we will know is
+the cataclysm that results from our greatest fall since time
+immemorial.
+
+# [Whose Belied Adumbrations Starkly Contrast Their Eminence](#whose-belied-adumbrations-starkly-contrast-their-eminence)
+
+###
+
+### [Nationality Law Begs Some Important Questions: If It Significantly Differs from Refugee Law, How and Why?](#nationality-law-begs-some-important-questions)
+
+
+
+<a name="whose-belied-adumbrations-starkly-contrast-their-eminence" />
+
+# [Whose Belied Adumbrations Starkly Contrast Their Eminence](#whose-belied-adumbrations-starkly-contrast-their-eminence)
 
 ### Imaging Technology and Computational Medicine Imply Trillions in Collective Liabilities From An Accurate, Irrefutable Assessment of Psychiatry's Insane Costs and Benefits
 
@@ -98,32 +124,52 @@ allow="autoplay; encrypted-media" allowfullscreen></iframe>
 >
 > Afraid of what? A liberal gunning for American interests? WHY?!
 
+Chelsea Handler and Jane Fonda might be dissidents, but they are
+fighting on the wrong side of American interests and we will
+collectively bear the consequences of their actions.
+
 ### The Need to Cover Up Warcrimes By All Major Powers
 
 - These crimes are hardly limited to one power or another
+  - this implies incentivization for the unforeseen destruction of
+    data, either targeted or total.
 
 ### The Need For Some Actors to Destabalize the Interantional Human Rights Regime Before the Next Global Conflict
 
-- What's the problem with warcrimes? Especially under the current
-  legal regime? The states who discover those transgressions only want
-  to use them for leverage because all significantly powerful states
-  have enough leverage on each other such that none of them will bring
-  suit against another in the ICC/ICJ unless they can be sure to
-  finish them off.
-  - Intelligence is trade in the commodity of secrets. These secrets
-    have more power for someone who knows them when few people know
-    them. So, if you know a state like Russia or China commited mild
-    warcrimes within their borders, it is usually more useful for you
-    to keep that secret and *use* it as leverage. I did not say that
-    either Russia or China is guilty of warcrimes. It is simply an
-    example.
-  - However, convicting Bosnian leadership of warcrimes? That's
-    simple. That regime was falling anyways and America needed them to
-    fall pretty hard. My opinion on those cases, is that prosecution
-    was trivial to pursue because it would be an indictment of the
-    leadership, not the people or the state, in particular. Further,
-    the Bosnia military was suppressed and didn't have nukes pointing
-    at America.
+What's the problem with warcrime prosecution? Why are laws so strict?
+Especially under the current legal regime? The states who discover
+those transgressions only want to use them for leverage because all
+significantly powerful states have enough leverage on each other such
+that none of them will bring suit against another in the ICC/ICJ
+unless they can be sure to finish them off.
+
+Moreover, the laws are strict to mitigate the incentivization for
+covering up warcrimes, as well as the tendency to recruit others into
+your plans without telling them they have committed warcrimes, until
+*after* you're threatening them with their life if they don't comply
+in continuing to cover up their actions. It is incredibly difficult to
+prosecute warcrimes and it is unbelievable how hard it is to be taken
+seriously in America, albeit my own case is "mild" for some strange
+definition of mild warcrimes.
+
+Intelligence is trade in the commodity of secrets. These secrets have
+confer more power when only a few people know them. This makes it
+harder for your adversary to logistically calculate their actions
+because its very difficult to homogenize information across large
+governmental organizations. If you know a state like Russia or China
+commited mild warcrimes within their borders, it is usually more
+useful for you to keep that secret and *use* it as leverage, placing
+it on the board like a pawn for blocking purposes. I did not say that
+either Russia or China is guilty of warcrimes. It is simply an
+example.
+
+However, convicting Bosnian leadership of warcrimes? That's
+simple. There's not much of a long-game for American intervention
+there. That regime was falling anyways and America needed them to fall
+pretty hard. My opinion on those cases, is that prosecution was
+trivial to pursue because it would be an indictment of the leadership,
+not the people or the state, in particular. Further, the Bosnia
+military was suppressed and didn't have nukes pointing at America.
 
 For any sufficiently powerful state, accusations of warcrimes are met
 with subversive intelligence activity to kill, maim or otherwise
@@ -151,14 +197,22 @@ enemies know they are strictly off limits and always will be. Make the
 whole idea of it **verboten**. These tactics have the potential to
 destabalize any large power, given access to the technology.
 
-###
+<a name="nationality-law-begs-some-important-questions" />
 
-- Nationality Law: who is a citizen and who is not? Do legal residents
-  have rights? do illegal residents have rights? Of course they do,
-  but the question is: what subsets of rights granted to US Citizens
-  do do legal and illegal residents have? what subsets of rights do
-  refugees have while they are migrating fleeing through other
-  countries? This is the focus of Nationality Law.
+### [Nationality Law Begs Some Important Questions: If It Significantly Differs from Refugee Law, How and Why?](#nationality-law-begs-some-important-questions)
+
+Who is a citizen and who is not? Do legal residents have rights? do
+illegal residents have rights? Of course they do, but the question is:
+what subsets of rights granted to US Citizens do do legal and illegal
+residents have? what subsets of rights do refugees have while they are
+migrating fleeing through other countries? This is the focus of
+[Nationality Law](http://www.wolfpublishers.com/book.php?id=1209), a
+subject that has gained momemtum in international legal research in
+the past few years.
+
+#### I Emailed The Author of This Textbook About My Life
+
+![]()
 
 We are entering a period of time where the international legal regime
 is changing gears and beginning to focus on transnationalism in a
@@ -527,7 +581,7 @@ now?
 
 ### We Need Universal Language For Cultural Compactification. This is Hard With Seven Billion People and No Hard Reset
 
-- 
+-
 
 ### Sociocultural Convergence And Spectra Decoherence Accruing and Proceeding at Paradoxically The Same Time
 
@@ -540,6 +594,11 @@ now?
 
 ### Billions of People Will Die In A Plan To Orchestrated Collapse, Simply to Shield Guilty-as-Hell Deep-State Actors
 
+
+- how do you stop it? by doing the opposite of what these people hate:
+  spreading information around and making it as permanent as possible,
+  even if you have to print it out, laminate it and bury on the
+  Appalachain Trail.
 
 ### For The Global Elite, The Best Way To Handle, Mitigate and Explain The Emerging Chaos, Along With The Ensuing Blame To Be Cast, Is To Collapse the System
 
