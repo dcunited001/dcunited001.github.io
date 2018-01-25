@@ -943,6 +943,13 @@ find that some Bitcoin traders will need a new pair of pants. Its
 - In general, asians have an incentive to work together, but the
   Japanese do not want to become subservient to the Chinese.
 
+
+- america is essentially at the same economic crossroads that Europe
+  was at between WW1 and WW2. Do you understand now? If we don't stand
+  up for our interests and if we don't stand together, we're going to
+  lose everything and you're going to learn what that means, ad
+  infinitum. *YOU DO NOT WANT THIS TO COME TO PASS.*
+
 #### Do You Want to Get In A Fight With These Guys? I Don't
 
 ![Video of the Kung-Fu Masters Who Practice Underneath The Bank of China]()
