@@ -32,7 +32,7 @@ and logic become dominated by superstition and the tragic mechanics of
 power consolidation. I cannot allow this to happen.
 
 
-# (X) Threats Whose Adumbrations Stand In Stark Contrast To Their Eminence
+# [Whose Adumbrations Starkly Contrast Their Eminence]()
 
 ### Imaging Technology and Computational Medicine Imply Trillions in Collective Liabilities From An Accurate, Irrefutable Assessment of Psychiatry's Insane Costs and Benefits
 
@@ -150,6 +150,92 @@ tactics you have -- AND kill it with fire. Make it public, so our
 enemies know they are strictly off limits and always will be. Make the
 whole idea of it **verboten**. These tactics have the potential to
 destabalize any large power, given access to the technology.
+
+###
+
+- Nationality Law: who is a citizen and who is not? Do legal residents
+  have rights? do illegal residents have rights? Of course they do,
+  but the question is: what subsets of rights granted to US Citizens
+  do do legal and illegal residents have? what subsets of rights do
+  refugees have while they are migrating fleeing through other
+  countries? This is the focus of Nationality Law.
+
+We are entering a period of time where the international legal regime
+is changing gears and beginning to focus on transnationalism in a
+transition towards the post-Westphalian paradigm of post-nationalism.
+What's post-nationalism? It's a state of being for the international
+regime which is post-nationstate: there are no nations, except perhaps
+a dominant global government.
+
+The particular issue Nationality law at hand: for non-enemy
+combatants, what subsets of US Citizen rights do they have? Do they
+have ny rights? If they don't have the rights of US citizens, whose
+laws even apply to them? Or are they people who are meant to be hunted
+down mercilessly by whatever is going on in America, without even
+realizing that they should run or fight back?
+
+#### International Law Pop Quiz
+
+> Can the US government shoot these former "US Citizens" in the back
+> with zero consequences? With impunity? Because that seems to be what
+> is happening, metaphorically and sometimes quite literally.
+
+The joke that the US government is building a wall to keep us in has
+some very dark undertones to it. Why was the holocaust so big anyways?
+Because the Nazi's didn't want people running who'd be able to live to
+tell stories about the horrors they saw.  Therefore, you keep these
+people in, which is why my low average annual income is evidence
+supporting my case: I couldn't run if I wanted to.
+
+I've contacted the Dutch, the Japanese, the Spanish, the French and
+the Canadians about asylum, but I can't quite apply for asylum in any
+of those countries because I literally don't have the money it'd take
+to leave. It has nothing to do with wanting to leave. I don't want to
+be here. On the other hand, if I did leave, they'd simply clamp down
+around on my family and friends, who've are essentially loose ends in
+all of this. There is no running from this. I must stand up for
+myself. I must fight my own battles and NO ONE has a better chance of
+doing it. So, if you plan on victimizing me, you're damn straight that
+I'm gonna give you a case you're never going to forget.
+
+Don't forget, you're psychologically torturing an idiot savant whose
+intelligence you miscalculated over and over again. Don't forget that
+I'm a polymath, just like Imhotep, Da Vinci and others. REMEMBER THE
+NAME: *DAVID CONNER*. You're never going to forget it and nothing I do
+will EVER be violent, so you can go ahead and drop that non-sense. I
+will not be afraid to browbeat every last person in this country to
+get my way either, and you can be sure that there's not a single
+person who can stop me. Put me in contact with someone whose IQ is
+above 160, I dare you. They will flip to my side so fast, you'll be
+arrested for warcrimes before you can even hear a damn sonic boom.
+That's Mach 2.
+
+If you're a IQ 80 roadblock, make fun of me for PTSD, my psychological
+torture or my warcrimes accusations one more time. Demeaning someone
+is a terrible way to pull them to your side, but if you actually knew
+what I was saying, you would be on my side, screaming in the streets
+about this because -- even if you're on the left -- they're going to
+be coming for you all too soon. This is not about left or right, this
+is about a Deep State conspiracy to collapse the United States and,
+apparently, I'm one of the biggest threats they've ever had, which is
+strange because I'm partly on their side.
+
+Another important question of Nationality law: how long were the
+non-enemy combatant (NEC) provisions in NDAA intended and architected
+to last? Does it matter? YES, it does. Why is this question so
+important? It belies an intent to architect everything that's
+happening on the supranational/international legal stage so that it's
+only transient, since it's not intended to be permanent.
+
+If these provisions were intended to last for a decade or longer, they
+should be designed to face court proceedings and not fall to pieces,
+in federal courts or international courts.  When these sections of law
+are tested in courts, the rulings and opinions should contribute to an
+accessible body of precedent. Otherwise, you can't assert these laws
+are battle-tested in courtrooms. If these laws aren't battle-tested or
+no legal precedent is intended to ever accumulate, it could be because
+there's something else bigger coming down the pipe, which is exactly
+what everything else in this article indicates!
 
 ### Novel WMD Technologies Render Frightening Hard Sci-Fi Into Reality And Create Intelligence Nightmares
 
