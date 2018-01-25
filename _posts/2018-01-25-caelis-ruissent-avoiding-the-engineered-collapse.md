@@ -74,20 +74,19 @@ immemorial.
 
 #### &#664; [Evidence Demonstrating Conspiracies Throughout the Ages will Simultaneously Be Revealed. All Will Be Judged.](#evidence-demostrating-conspiracies-throughout-the-ages-will-simultaneously-be-revealed)
 
-#### &#664; [Computational Science Nearly Obliterates The Need For Humans In Science, Enabling Specific Technologies To Be Locked Away Forever](#computational-science-nearly-obliterates-the-need-for-human-labor-in-science)
+#### &#664; ### [Computational Science Nearly Obliterates The Need For Humans In Science, Enabling Specific Technologies To Be Locked Away Forever](#computational-science-nearly-obliterates-the-need-for-human-labor-in-science)
 
 #### &#664; [Intellectual Property Endgame: Not All Is "As Infinite" As You Would Like It to Be:](#intellectual-property-endgame)
 
-#### &#664;
+#### &#664; [The Economy Will Collapse Within Two Decades And ALL Socioeconomic Flux And Churn Begins To Align *IN PHASE*](#the-economy-will-collapse-within-two-decades)
+
+#### &#664; [Severe Turbulence in Forex Markets May End Up In Nations Making Baseless Accusations Of Wealth Incineration](#severe-turbulence-in-forex-markets)
+
+#### &#664; [Energy And Resource Markets Give Rise To A Peak Oil Forever Scenario, If The Population Is Truncated](#energy-nad-resource-markets-give-rise-to-a-peak-oil-forever-scenario)
 
 #### &#664;
 
 #### &#664;
-
-#### &#664;
-
-#### &#664;
-
 
 # [TL;DR;](#tl-dr)
 
@@ -761,11 +760,35 @@ demagoguery and kangaroo elections.
 
 ![Whiff of Grapeshot](/img/posts/2018-01-25-caelis-ruissent-avoiding-the-engineered-collapse/whiff-of-grapeshot.jpg)
 
-### The Economy Will Collapse Because ALL Socioeconomic Flux And Churn Begins To Align IN PHASE
+<a name="the-economy-will-collapse-within-two-decades" />
 
-When this socioeconomic churn aligns in phase, it increases in
-magnitude, which contributes to wealth disparity. When population
-grows exponentially, so does the per capita measure of that disparity.
+### [The Economy Will Collapse Within Two Decades And ALL Socioeconomic Flux And Churn Begins To Align *IN PHASE*](#the-economy-will-collapse-within-two-decades)
+
+The US Government is like a hot potato ... for politicians. Not for
+me. Go ahead and hand that thing over to a real visionary, if you want
+to avert or solve this upcoming fiasco. I propose rule by [Thirty
+Tyrants](https://en.wikipedia.org/wiki/Thirty_Tyrants) and a clear
+demarction into martial law social institutions whose authority is
+dictated by the needs of FEMA emergency government plans, when these
+problems begin until these issues are resolved. It's hardly an
+original idea.
+
+Everything discussed thus far has merely been a potential catalyst for
+economic collapse. The greatest economic collapse yet to experienced
+in history has been preordained by technology, exponential population
+growth, unrestrained connectivity and unrestrained acceleration in
+information bandwidth. It's inevitable: when this socioeconomic churn
+aligns in phase, it increases in magnitude, which contributes to
+wealth disparity. When population grows exponentially, so do
+individuals contribution to the magnitude as well as the per capita
+measure of that disparity.
+
+Once viewed in this light, it has literally nothing to do with the
+actions or strategy of some [executive branch
+politician](https://en.wikipedia.org/wiki/List_of_Presidents_of_the_United_States). What
+do the American people want? Do they really want to hear more about
+whose fault it is? That's what the media thought, when they marketed
+this kangaroo election.
 
 This is knowable in the time that the eschatology of major religions
 was being written down, which is why most of them contain prophecies
@@ -791,15 +814,14 @@ biggest collapse ever is yet to come. I don't know when and God help
 us all when it does. It is actually far more possible to undrestand
 this in ancient times than it is now.
 
+#### [Emulation of Ancient Thought Confers Penultimate Metacognition](/posts/2017-10-30-speed-of-thought-sociophysical-postulates-1-to-11.html#emulation-of-ancient-thought-penultimate-metacognition)
+
 Why? Because times were simpler, the range of phenomena were much more
 constricted than they are in the modern are and, crucially, knowledge
 of social physics as it relates to socioeconomic flux was more natural
 and less virtualized then. Modernization has given rise to false,
 artificial economic phenomena that result in very real opportunities
 to profit, but are far less stable in the long term.
-
-- TODO: link to simulation of ancient thought as the penultimate tool
-  to provoke metacognition.
 
 You need to read what Nassir Tebar has written on tail risk and
 understand me when i say that cataclysmic tail risk event is
@@ -819,7 +841,18 @@ phenomenon where all socioeconomic churn begins to align in phase. The
 "geographic" aspect of it begins to melt away and all regions begin to
 experience more turbulence than ever.
 
-- TODO: links to BIS content on macroprudentials
+#### BIS Paper on [Macroprudential Policy](https://www.bis.org/publ/bppdf/bispap86.htm), That Friend Who Is A little Too Enthusiastic About The Rules
+
+We all have one of those friends, right? Sometimes he's an asshole and
+he'll turn you in for breaking the rules "because he cares about you."
+But then, it turns out that he was right and you didn't realize it
+until a few years later, so you make up with him because he was the
+only one who told you what you needed to hear. That's kind of what
+macroprudential policy is like for central banks, if cheap credit is a
+drug problem. The metaphor breaks down thought: macroprudential policy
+is both good and it's bad. It's going to lead to some hurt feelings
+though, when some nation's central bank has its treasury bond issuance
+chilled and can't dig itself out of a crisis with more debt.
 
 Although I am incredibly skeptical of such tight economic regulations,
 macroprudential mechanisms will help reduce the severity of some
@@ -845,7 +878,9 @@ theology or an understanding of any single religion -- but it becomes
 clear that these people foresaw things using methods, the outlines of
 which most of us can barely grasp.
 
-### Severe Turbulence in Forex Markets May End Up In Nations Making Baseless Accusations Of Wealth Incineration
+<a name="severe-turbulence-in-forex-markets" />
+
+### [Severe Turbulence in Forex Markets May End Up In Nations Making Baseless Accusations Of Wealth Incineration](#severe-turbulence-in-forex-markets)
 
 One frequently cited component of marxist rhetoric that I cannot stand
 is the notion that we can simply do away with money. It's an insane
@@ -888,9 +923,13 @@ unwisely warranted derivatives further exacerbate currency
 destabalization.
 
 Calm the fuck down. We have Bitcoin and no one's destabalizing
-that. It is quantum resistent.
+that. It is quantum resistent ... After publishing this I think you'll
+find that some Bitcoin traders will need a new pair of pants. Its
+... uhh essentially good for the Bitcoin market, eventually.
 
-### Energy And Resource Markets Give Rise To A Peak Oil Forever Scenario, If The Population Is Truncated
+<a name="energy-nad-resource-markets-give-rise-to-a-peak-oil-forever-scenario" />
+
+### [Energy And Resource Markets Give Rise To A Peak Oil Forever Scenario, If The Population Is Truncated](#energy-nad-resource-markets-give-rise-to-a-peak-oil-forever-scenario)
 
 - describe how to extend peak oil forever. not just peak oil; peak
   everything, forever.
@@ -971,13 +1010,14 @@ now?
     intelligence being would blindly seek to eliminate competition for
     energy.
 
-### We Need Universal Language For Cultural Compactification. This is Hard With Seven Billion People and No Hard Reset
-
-- 
 
 ### Sociocultural Convergence And Spectra Decoherence Accruing and Proceeding at Paradoxically The Same Time
 
-- 
+-
+
+### We Need Universal Language For Cultural Compactification. This is Hard With Seven Billion People and No Hard Reset
+
+- it will begin to happen after people try to make sense of the
 
 <a name="tl-dr" />
 
