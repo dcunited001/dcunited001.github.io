@@ -8,16 +8,25 @@ author:
 excerpt: ""
 ---
 
+> Entire world stunned as local man "pantses" US Congress just to show
+> them all as the dickless sycophants they are...
+
 ![](/img/posts/2018-01-25-caelis-ruissent-avoiding-the-engineered-collapse/)
 
-There is an engineered collapse coming. It is likely the that your
-leaders in name have no idea whats coming because they are going to
-take the fall for much of this -- therefore, it's far more likely to
-be people 1&#deg; away from them. After all, the man who is bound by
-all the money and fame and status they might lose is not truly
-free. Our leaders will only be able to stop this if they work together
-and if the people of democracies are willing to let the petty
-accusations go.
+There is an engineered collapse coming. It is not in American
+interests and there are those among you, both rich and powerful, who
+are betting against America. In the age of data science, you cannot
+bet against America and win. You will be ruthlessly destroyed and your
+image tarnished until the end of time if you dare to bet against
+America.
+
+It is likely that your leaders in name have no idea whats coming
+because they are going to take the fall for much of this -- therefore,
+it's far more likely to be people 1&#deg; away from them. After all,
+the man who is bound by all the money and fame and status they might
+lose is not truly free. Our leaders will only be able to stop this if
+they work together and if the people of democracies are willing to let
+the petty accusations go.
 
 There are *certain* trends that the rich and powerful seek to distract
 you from. individually, each trend is not very significant.
@@ -943,22 +952,90 @@ find that some Bitcoin traders will need a new pair of pants. Its
 - In general, asians have an incentive to work together, but the
   Japanese do not want to become subservient to the Chinese.
 
+- this (the AIIB/etc) is the exigent destination of China's
+  endgame. it is the horse that they have bet on. Dominance over
+  international finance -- and simply moderate influence over
+  it -- confers unimanginable power.
+  - this comes after decades of Chinese (belligerence) with regard to
+    intellectual property, like copyrights and patents. They simply do
+    not enforce this within their own borders and steal so much from
+    Western interests. They assume that we'll never know what goes on
+    behind closed borders.
 
-- america is essentially at the same economic crossroads that Europe
-  was at between WW1 and WW2. Do you understand now? If we don't stand
-  up for our interests and if we don't stand together, we're going to
-  lose everything and you're going to learn what that means, ad
-  infinitum. *YOU DO NOT WANT THIS TO COME TO PASS.*
+They've weakened us by copying and stealing our patented technology.
+They've stolen our military trade-secret technology, which they will
+use to manufacture competitive military products they plan on selling
+to the satellite states within their sphere of influence.  They plan
+on beating us with our own military technology. They've poisoned our
+children with melanin. They've led us astray by using the greed of our
+wealthiest as a weapon. They're about to make fools of all Americans,
+who will become their debt-slaves forever in an international finance
+and monetery scheme rigged so that Americans can never escape debt.
 
-#### Do You Want to Get In A Fight With These Guys? I Don't
+It's not going to happen. That's not to say that Americans aren't
+willing to work with the Chinese, but we are not fools. We do not want
+to be your enemy, but your plans are fairly simple to
+understand. However, we are not going to fight a war because that's
+insane ... or is it?
 
-![Video of the Kung-Fu Masters Who Practice Underneath The Bank of China]()
+#### Do You Want to Get In A Fight With The Iron Fist Masters Under The Bank Of China? I Don't
 
-<a
-name="energy-nad-resource-markets-give-rise-to-a-peak-oil-forever-scenario"
+> Why's that?
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/H4f2A4LlgX8?start=435" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
+
+America and the western world is essentially at the same economic
+crossroads that Europe was at between WW1 and WW2. Furthermore, we are
+in much the same unforturnate philosophical quandry as that precarious
+20-year interwar period, only far more exaggerated. Do you understand
+now? If we don't stand up for our interests and if we don't stand
+together, we're going to lose everything and you're going to learn
+what that means, ad infinitum. *YOU DO NOT WANT THIS TO COME TO PASS.*
+So start playing like a goddamn team and we won't have problems, will
+we?
+
+In this situation, if you are American, DO NOT bet against America.
+
+If you are European, DO NOT bet against America. It is NOT in your
+interests. You may be pleasantly amused at the American kangaroo
+election, but that is all by design. It's a distraction. If even five
+of these things come to pass, who will be there to stand for your
+defense? What will become of NATO then?
+
+The 2008 financial collapse harnessed the fractures of aligned Jingo
+tower of derivatives and debt. It may at least be seen as an
+catastrophic accident of unrestrained, unregulated greed. In the
+context of this scheme for the international financial regime to
+change hands, how does that play out for Europe and American allies?
+It doesn't, does it? Let me ask you one more time: IT DOESN'T, DOES
+IT? We just need to be sure, so get in line and get ready to follow or
+at least get out of the way.
+
+#### Keep In Mind How Viciously America Has Defended The Dollar.
+
+![Bank Of China Iron Fist Masters]()
+
+> Now look at them right hands. Do you want to fuck with that? I
+> didn't think so. Right before the Singularity? Is that a fight that
+> can ever be won? *EXACTLY*, you overgrown marxist cumstain traitor
+> "Americans." GTFO outta here with your belligerent, race-baiting,
+> leninist tactics because ain't nobody getting free healthcare in
+> your little nightmare-government scenario. Idiots. Go read a
+> book: Either [Go The Fuck To Sleep]() or something on economics.
+
+#### "Go The Fuck To Sleep" as read by Samuel L. Jackson
+
+<iframe width="560" height="315"
+src="https://www.youtube.com/embed/Udj-o2m39NA" frameborder="0"
+allow="autoplay; encrypted-media" allowfullscreen></iframe>
+
+> Now, if your a repenting former Marxist who has seen the error of
+> your ways, there's a party we'd love to invite you to.
+
+<a name="energy-and-resource-markets-give-rise-to-a-peak-oil-forever-scenario"
 />
 
-### [Energy And Resource Markets Give Rise To A Peak Oil Forever Scenario, If The Population Is Truncated](#energy-nad-resource-markets-give-rise-to-a-peak-oil-forever-scenario)
+### [Energy And Resource Markets Give Rise To A Peak Oil Forever Scenario, If The Population Is Truncated](#energy-and-resource-markets-give-rise-to-a-peak-oil-forever-scenario)
 
 - describe how to extend peak oil forever. not just peak oil; peak
   everything, forever.
