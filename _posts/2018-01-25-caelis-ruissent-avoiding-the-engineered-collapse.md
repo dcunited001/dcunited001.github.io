@@ -58,7 +58,7 @@ immemorial.
 
 #### &#664; [Imaging Technology and Computational Medicine Imply Trillions in Collective Liabilities From An Accurate, Irrefutable Assessment of Psychiatry's Insane Costs and Benefits](#imaging-tech-and-computational-medicine)
 
-#### &#664; [Cost of Medical Care and UBI, Along With A Failing Food Supply](#cost-of-medical-care-and-ubi)
+#### &#664; # [Cost of Medical Care and UBI, Along With A Failing Food Supply](#cost-of-medical-care-and-ubi)
 
 #### &#664; [The Use of Psychological And Neurological Warfare To Suppress Dissidents, for CIA Mockingbird 2.0 and to Cover up Inconvenient Truths](#the-use-of-psychological-and-neurological-warfare-to-suppress-dissent)
 
@@ -66,15 +66,17 @@ immemorial.
 
 #### &#664; [Nationality Law Begs Some Important Questions: If It Significantly Differs from Refugee Law, How and Why?](#nationality-law-begs-some-important-questions)
 
-#### &#664; [Novel WMD Technologies Render Frightening Hard Sci-Fi Into Reality And Create Intelligence Nightmares](#novel-wmd-technologies-render-frightening-hard-scifi-into-reality)
+#### &#664; ## [Novel WMD Technologies Render Frightening Hard Sci-Fi Into Reality And Create Intelligence Nightmares](#novel-wmd-technologies-render-frightening-hard-scifi-into-reality)
 
-#### &#664; [Statistical Methods Will Demonstrate Evidence of Weather Control For The Past Two Decades](#statistical-methods-will-demostrate-evidence)
+#### &#664; # [Statistical Methods Will Demonstrate Evidence of Weather Control For The Past Two Decades](#statistical-methods-will-demostrate-evidence)
 
 #### &#664; [Evidence of the Psychosocial Manufacturing of MKULTRA-style Manakins BY ALL MAJOR POWERS for Systemic Karmic Obfuscation For Centuries](#evidence-of-the-psychosocial-manufacturing-of-mkultra-style-manakins-by-all-major-powers)
 
-#### &#664;
+#### &#664; [Evidence Demonstrating Conspiracies Throughout the Ages will Simultaneously Be Revealed. All Will Be Judged.](#evidence-demostrating-conspiracies-throughout-the-ages-will-simultaneously-be-revealed)
 
 #### &#664;
+
+#### &#664; [Intellectual Property Endgame: Not All Is "As Infinite" As You Would Like It to Be:](#intellectual-property-endgame)
 
 #### &#664;
 
@@ -649,9 +651,15 @@ it. The tradegy is in how they plan on covering their own asses.
 
 Just remember, there will never be another person like you in history
 and you can be damn well sure there will never be another person like
-me. How does society treat its heroes?
+me. How does society treat its heroes? [Assess the health of these
+four social
+pillars](/posts/2018-01-19-wtf-america-united-we-stand-divided-we-fall.html#assess-the-health-of-these-four-social-pillars)
+to judge a society or anticipate its downfall. America is being
+systemically demoralized.
 
-### Evidence Demonstrating Conspiracies Throughout the Ages will Simultaneously Revealed. All Will Be Judged.
+<a name="evidence-demostrating-conspiracies-throughout-the-ages-will-simultaneously-be-revealed" />
+
+### [Evidence Demonstrating Conspiracies Throughout the Ages will Simultaneously Be Revealed. All Will Be Judged.](#evidence-demostrating-conspiracies-throughout-the-ages-will-simultaneously-be-revealed)
 
 These conspiracies will tableflip long-held axioms about world
 history, though many cannot disrupt too much. However, the story of
@@ -674,8 +682,6 @@ would needlessly die in such an Apocalypti-caust is a chance to help
 set humanity on course in the proper direction. There is no reason for
 so many people to die. We need each and every one of you.
 
-- other narratives which will be table-flipped?
-
 This will accelerate while the masses are starving and thirsting for
 real truth. not every narrative that will be tableflipped will occur
 because the disruptive information is true. NO! Adversaries in
@@ -686,8 +692,65 @@ masses to be accepted as true. That this is plauasible in itself is
 far more dangerous than anything I've written in this article thus
 far.
 
-### Computational Science Nearly Obliterates The Need For Humans In Science, Enabling Specific Technologies To Be Locked Away Forever
+That all available knowledge would become known by all can be
+anticipated in ancient ages, simply by extrapolating social physics
+with overpopulation. That all fabricated stories would fall to tatters
+and that all would be judged for the lies of history would also be
+knowable. I am not blindly asserting this. I would love to debate the
+merits of that statement.
 
+<a name="computational-science-nearly-obliterates-the-need-for-human-labor-in-science" />
+
+### [Computational Science Nearly Obliterates The Need For Humans In Science, Enabling Specific Technologies To Be Locked Away Forever](#computational-science-nearly-obliterates-the-need-for-human-labor-in-science)
+
+- ....
+
+<a name="intellectual-property-endgame" />
+
+### [Intellectual Property Endgame: Not All Is "As Infinite" As You Would Like It to Be:](#intellectual-property-endgame)
+
+I first realized the outlines of this trend around 2010.
+
+One of the most fascinating aspects of law is **circumplexo corpus**,
+though I'm not sure I've found the proper Latin translation. It is
+very likely that there's already a latin phrase to describe this -- I
+just don't know about it in my abject solitary confinement. This term
+describes the body of law and systems of law that surrounds the body
+of law that you practice. Some systems of law are bottom up. This is
+considering systems of law from the top-down.
+
+Yes, there is an intellectual property endgame. Intellectual property
+and copyrights are specified as "inequalities" in legalspace. That is,
+they cover ranges of information, not specific instances of
+information. This is very important.
+
+These assertions are debatable, but because patents and intellectual
+property. A component of the geopolitical strategy of the Chinese and
+Russians will very likely be to disrupt all intellectual property when
+the international legal regime is disrupted, as if they haven't
+already stepped on our intellectual property enough. There's no
+question about it. They WILL do this.
+
+The question I'm asking about it is: do our "leaders" even see this
+coming and *what have they planned on doing about it?* Why the fuck do
+they continue tormenting me, when I know ALL of this? Or is it because
+they plan on *using* all of this and can't have people knowing what's
+going to happen? They partially justify the complete blackout of these
+questions by claiming they want to "discourage a panic" -- but I say,
+we want to encourage actual strategy, not psuedo-democratic
+demagoguery and kangaroo elections.
+
+#### Would You Like A Whiff Of Grapeshot With Your Starbucks Latte, Senator Does-It-Even-Matter?
+
+> No, I do not imply this literally, señor historian, but I'm glad you
+> recognize my genius. +1 in charisma to Napoleon over here! The
+> Russians are waiting: go get 'em, tiger! Go find yourself a real
+> scapegoat and call it a day.
+>
+> (Yikes! This guy! Doesn't even see it coming. Kono baka! That's
+> *unthinkable!*)
+
+![Whiff of Grapeshot](/img/posts/2018-01-25-caelis-ruissent-avoiding-the-engineered-collapse/whiff-of-grapeshot.jpg)
 
 ### The Economy Will Collapse Because ALL Socioeconomic Flux And Churn Begins To Align IN PHASE
 
