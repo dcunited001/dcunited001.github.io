@@ -927,7 +927,29 @@ that. It is quantum resistent ... After publishing this I think you'll
 find that some Bitcoin traders will need a new pair of pants. Its
 ... uhh essentially good for the Bitcoin market, eventually.
 
-<a name="energy-nad-resource-markets-give-rise-to-a-peak-oil-forever-scenario" />
+
+### [The Outlines of An Alternative International Financial Regime Run By The Chinese and Russians Is Already In Place](#the-outlines-of-an-alternative-international-financial-regime)
+
+- lol at leftists who ceaselessly talk about IMF, World Bank, et alias
+  - because you're about to disover what it means to live under the
+    thumb of an alternative international financial regime to which we
+    are forever enslaved.
+  - you are idiots. if and when this comes to pass, you will truly
+    understand how your far left belligerence was TREASON
+
+- this is yet another system whose outlines are in place, which
+  indicates the orchestration of sophisticated plots against america
+  - follow the money and it leads to AIIB and the Chinese
+- In general, asians have an incentive to work together, but the
+  Japanese do not want to become subservient to the Chinese.
+
+#### Do You Want to Get In A Fight With These Guys? I Don't
+
+![Video of the Kung-Fu Masters Who Practice Underneath The Bank of China]()
+
+<a
+name="energy-nad-resource-markets-give-rise-to-a-peak-oil-forever-scenario"
+/>
 
 ### [Energy And Resource Markets Give Rise To A Peak Oil Forever Scenario, If The Population Is Truncated](#energy-nad-resource-markets-give-rise-to-a-peak-oil-forever-scenario)
 
