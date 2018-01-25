@@ -29,9 +29,13 @@ you can prove to me that I am wrong and insulate humanity against the
 consequences of these problems, then you have my will or soul or
 whatever you want for free.
 
+#### You Aren't Going To Let These Guys Ruin Your Life, Are You?
+
+![Plague Doctors](/img/posts/2018-01-25-caelis-ruissent-avoiding-the-engineered-collapse/plague-doctor.jpg)
+
 These trends are damning. Merely mentioning them may cause severe
 consequences, but they are unavoidable and I know *exactly* how the
-powerful seek to handle these. My leveraging the chaos to establish an
+powerful seek to handle these. By leveraging the chaos to establish an
 entirely new knowledge-base. An entirely new paradigm where the old
 world is forgotten or remembered in such an incorrect manner as to not
 relevantly connect to the truth. The real problem with this? Those
@@ -50,38 +54,193 @@ humanity's true potential for greatness. Instead, all we will know is
 the cataclysm that results from our greatest fall since time
 immemorial.
 
-# [Whose Belied Adumbrations Starkly Contrast Their Eminence](#whose-belied-adumbrations-starkly-contrast-their-eminence)
+## [Whose Belied Adumbrations Starkly Contrast Their Eminence](#whose-belied-adumbrations-starkly-contrast-their-eminence)
 
-###
+#### &#664; [Imaging Technology and Computational Medicine Imply Trillions in Collective Liabilities From An Accurate, Irrefutable Assessment of Psychiatry's Insane Costs and Benefits](#imaging-tech-and-computational-medicine)
 
-### [Nationality Law Begs Some Important Questions: If It Significantly Differs from Refugee Law, How and Why?](#nationality-law-begs-some-important-questions)
+#### &#664; [Cost of Medical Care and UBI, Along With A Failing Food Supply](#cost-of-medical-care-and-ubi)
+
+#### &#664; [The Use of Psychological And Neurological Warfare To Suppress Dissidents, for CIA Mockingbird 2.0 and to Cover up Inconvenient Truths](#the-use-of-psychological-and-neurological-warfare-to-suppress-dissent)
+
+#### &#664; [Some State Actors Need to Destabalize the Interantional Human Rights Regime Before the Next Global Conflict](#some-state-actors-need-to-destabalize-the-international-human-rights-regime)
+
+#### &#664; [Nationality Law Begs Some Important Questions: If It Significantly Differs from Refugee Law, How and Why?](#nationality-law-begs-some-important-questions)
+
+#### &#664;
 
 
+
+# [TL;DR;](#tl-dr)
+
+### ...
 
 <a name="whose-belied-adumbrations-starkly-contrast-their-eminence" />
 
 # [Whose Belied Adumbrations Starkly Contrast Their Eminence](#whose-belied-adumbrations-starkly-contrast-their-eminence)
 
+The title above is about the fanciest way of saying: we're all on the
+tracks about to get hit by a train and no one is worried about how
+we're going to get out of the car. That's the gist of this article.
+There's some things coming. There are clearly people who are concered
+about those problems, but there are only a handful of people concerned
+about them all as they impact each other.
 
-### Cost of Medical Care and UBI
+None of these are happening tomorrow, by the way. Calm TF down. The
+economy is not going to crash. It's only going to crash if we DON'T
+deal with these problems. Quite literally, if we fail to control the
+transition from here, where the sky hasn't quite fallen, to there,
+where the sky is and has fallen -- only then does America actually
+have problems.
 
+And if you want to say that I'm alarmist and irresponsible for writing
+about this? You're irresponsible. No one sees this shit coming. When
+people realize they've been lied to and the sky has fallen, they're
+going to be pissed about it. The won't be as pissed if they have
+something to do about it before it falls. America is not paying
+attention to the right things. You've all been hypnotized by the
+election and everything related to it whereby you're playing directly
+into the hands of our enemies.
 
+Get up. Stand up. And fight for your rights.
 
-### Imaging Technology and Computational Medicine Imply Trillions in Collective Liabilities From An Accurate, Irrefutable Assessment of Psychiatry's Insane Costs and Benefits
+#### And don't forget to pass that dutchie. I said "Listen to the Drummer and Listen to the Bass."
 
-- this novel imaging technology creates the possibilities of forensics
-  and stastical methods which prove the existence of top-secret
-  neurological intervention.
+<iframe width="560" height="315"
+src="https://www.youtube.com/embed/dFtLONl4cNc" frameborder="0"
+allow="autoplay; encrypted-media" allowfullscreen></iframe>
 
-### The Use of Neurological Warfare To Suppress Dissidents, for Neurological CIA Mockingbird and to Cover up Inconvenient Truths
+> National anthem of the [Independent Duchy of Kanawha
+> (IDK)](https://twitter.com/dcunit3d): Pass the Dutchie.
+
+<a name="imaging-tech-and-computational-medicine" />
+
+### [Imaging Technology and Computational Medicine Imply Trillions in Collective Liabilities From An Accurate, Irrefutable Assessment of Psychiatry's Insane Costs and Benefits](#imaging-tech-and-computational-medicine)
+
+Novel imaging technology -- like MAS, Spect, PET, and others -- create
+the possibilities of neurological forensics and stastical methods
+which prove the true cause of mental illness as well as the existence
+of top-secret neurological intervention. The problem? If random people
+naturally discover either of these, the are some really awkward
+questions that must be answered. Ain't no cigar smoking dude out there
+planning on answering those questions. Get real.
+
+Furthermore, predictive medicine, including knowledge about gene
+networks, will demonstrate trillions in damage from presrcription
+medication, industrial chemicals, household chemicals and food
+additives. What's made this so hard to study thus far? Many of these
+are not toxins individually, but only pose a threat when taken in
+specific combination or sequence.
+
+All in all, this means millions of cases where damages could be
+owed. This is all revealed simultaneously and the science makes it
+irrefutable. I dont know how it will play out for each specific
+carcinogen or downstream prescription side-effect, but for those
+detected by methods of data science, there will be no question.
+
+There are some in medicine, industry and science who already know this
+is coming, eventually. They understand the potential conferred by data
+science, predictive medicine and novel imaging methods. What would you
+do in their shoes? To be sure, it's not really their fault, but
+they're the ones selling products that everyone knows make people
+sick. Suddenly, this is revealed simultaneoulsy, within the span of
+ten years in an irrefutable way. If not handled properly, it will have
+catastrophic consequences on the American economy. As of now, it's not
+being handled properly because people still act like it couldn't be
+possible.
+
+So, what's the plan? When are you going to hear about it on "Morning
+Joe" -- you're not. Journalism? No offense, Joe, it doesn't exist
+anymore. Look at what's happened to me. People have pinned everything
+on me to minimize the number of people tormented for being a
+messenger. That doesn't mean there are no plans to handle this. In
+business, problems always present opportunity, but these unforeseen
+levels of liability imply socioeconomic churn on a scale never before
+seen. This simply means money, assets and businesses will change hands
+from those who have profited thus far into the hands of those who will
+begin to profit from the solutions.
+
+<a name="cost-of-medical-care-and-ubi" />
+
+### [Cost of Medical Care and UBI, Along With A Failing Food Supply](#cost-of-medical-care-and-ubi)
+
+This leave America in a pretty tough spot because medical technology
+is kind of our bread and butter. It's a major export and we protect it
+through intellectual property. That's why our prices have always been
+so high at home: we control the intellectual property. If we don't pay
+an arm and leg for it here, who will? On the surface, this seems
+wrong, especially to those who are dying from lack of medical
+care. However, this is a major pillar of the American economy. Ever
+wonder why it's so hard to get universal health care in America? THIS
+is why. Take this away and you essentially declaw the american
+economy.
+
+This brings me to my next point: if we can't profit from health care,
+how do we cover the cost of health care? Especially after our people
+have been subjected to these levels of toxicity, which promote chronic
+disease? This is why we must turn this ship around. What we've been
+doing is not economically sustainable. If you don't understand the
+question, it doesn't matter how you *feel* about the potential
+solutions. If you don't understand that question, it means you don't
+understand where government revenues come from.
+
+I want a happy, healthy population, free from the fiscal and emotional
+costs of disease. How do you get there? By turning around the
+lifestyle of the American Public. This is why Michelle Obama's drive
+for nutrition was so critical towards what Obama was trying to do with
+health care: if you cannot lower the costs of treating chronic
+disease, you cannot sustainably finance Obama's health care plans. It
+infuriates me that the Republicans are trying to undo this. Truly, you
+are shifting the burden of longterm healthcare costs from the
+government *back to the people*. What we truly need is for healthcare
+prices and expenditures to come down! Regardless of how pays for them,
+that is critical! Someone has to pay for it.
+
+- mineral levels in food.
+- the Ogallala Aquifer is drying up
+  - how this ties into the global wheat(?) supply
+  - was this actually correlated to the Dust Bowl?
+
+- the cost of UBI
+
+<a name="the-use-of-psychological-and-neurological-warfare-to-suppress-dissent" />
+
+### [The Use of Psychological And Neurological Warfare To Suppress Dissidents, for CIA Mockingbird 2.0 and to Cover up Inconvenient Truths](#the-use-of-psychological-and-neurological-warfare-to-suppress-dissent)
+
+If you are in America, look around you. Who is "the enemy?" As
+Americans, the enemy should not be you or I, unless either of us is
+making a literal explosive device in our basements or planning a
+violent act. In the first place, why are Americans the enemy here?!
+It just doesn't even make sense. But do you trust a stranger on the
+street? Do you trust your neighbor? Do you really trust your friends?
+Your family? If not, why? Are they bad people? Or good people in a bad
+situation? If it's the latter, *WHY THE HELL DOESN'T SOMEONE DO
+SOMETHING ABOUT IT?!* We live in a democracy, don't we?
+
+#### Qemists - Take It Back
+
+> We're certainly not going to be fearfully contained while you plot
+> depopulation to maintain power *after* you've profited off all the
+> sin and carnage in history thus far.
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/5CRO3xtYuY4" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
 
 - this same novel medical imaging tehcnology forms the basis of
   statistical methods that prove neurological "intervention"
   techniques
 
+- intentionally harnessing feedback loops in social media to create
+  division in society.
+
 - there is no plan in place to address legal axioms that are upturned
   and tableflipped by this technology, nor would such plans be
   trivial.
+
+Does it seem like anyone plans on getting up on a podium and
+explaining to Americans what has happened to our country with
+psychological warfare? Again, the implementation of tactics without
+the necessary recourse for correcting or even explaining them. That is
+what you need to look for: lies and meticulous deceipt without the
+expectation of ever telling the truth. It's everywhere.
 
 ### The Inherent Fallibility of Digital Information Storage Presents Both the Possibility For And The Incentivization for Targeted and Total Information Destruction
 
@@ -145,7 +304,9 @@ collectively bear the consequences of their actions.
   - this implies incentivization for the unforeseen destruction of
     data, either targeted or total.
 
-### The Need For Some Actors to Destabalize the Interantional Human Rights Regime Before the Next Global Conflict
+<a name="some-state-actors-need-to-destabalize-the-international-human-rights-regime" />
+
+### [Some State Actors Need to Destabalize the Interantional Human Rights Regime Before the Next Global Conflict](#some-state-actors-need-to-destabalize-the-international-human-rights-regime)
 
 What's the problem with warcrime prosecution? Why are laws so strict?
 Especially under the current legal regime? The states who discover
@@ -221,9 +382,9 @@ migrating fleeing through other countries? This is the focus of
 subject that has gained momemtum in international legal research in
 the past few years.
 
-#### I Emailed The Author of This Textbook About My Life
+#### Even If I'm Wrong About Nationality Law, The Answers To My Questions Are In Here
 
-![](/img/posts/2018-01-25-caelis-ruissent-avoiding-the-engineered-collapse/)
+![International Standards on Nationality Law](/img/posts/2018-01-25-caelis-ruissent-avoiding-the-engineered-collapse/international-standards-on-nationality-law.jpg)
 
 We are entering a period of time where the international legal regime
 is changing gears and beginning to focus on transnationalism in a
@@ -232,18 +393,53 @@ What's post-nationalism? It's a state of being for the international
 regime which is post-nationstate: there are no nations, except perhaps
 a dominant global government.
 
-The particular issue Nationality law at hand: for non-enemy
-combatants, what subsets of US Citizen rights do they have? Do they
-have ny rights? If they don't have the rights of US citizens, whose
-laws even apply to them? Or are they people who are meant to be hunted
-down mercilessly by whatever is going on in America, without even
-realizing that they should run or fight back?
+The particular [nationality
+law](https://en.wikipedia.org/wiki/Nationality_law) issue at hand: for
+non-enemy combatants, what subsets of US Citizen rights do they have?
+Do they have ny rights? If they don't have the rights of US citizens,
+whose laws even apply to them? Or are they people who are meant to be
+hunted down mercilessly by whatever is going on in America, without
+even realizing that they should run or fight back?
 
 #### International Law Pop Quiz
 
 > Can the US government shoot these former "US Citizens" in the back
 > with zero consequences? With impunity? Because that seems to be what
 > is happening, metaphorically and sometimes quite literally.
+>
+> ... How the fuck was I supposed to know?! You're out here shooting
+> people in the back and tearing families apart.
+
+If that makes me
+[stateless](https://en.wikipedia.org/wiki/Statelessness), can I simply
+declare my own nationality by decree? If so, I declare myself to be
+the citizen and the [部長](https://jisho.org/word/%E9%83%A8%E9%95%B7)(buchou) of the
+Independent Duchy of
+[Kanawha](https://en.wikipedia.org/wiki/Kanawha_River) (IDK), a
+spaceless transnational state which extends in a 5 meter sphere around
+my presence. All citizens of the IDK have common rank: buchou. We are
+all leaders. Our national flower is Blue Dream. Our national bird is
+the Eagle-Hawk. One of our greatest national exports is translingual
+puns. "Kana**wha!!**" is a japanese pun for "*What the fuck?!* **YOU
+BET YOUR ASS IT IS!!**" -- loosely translated of course, with an
+emphasis on the two exclamation points and authentic phonetics for the
+English "wh". You have to exhale when you say it. We're currently
+prototyping a language at the intersection of Spanish and English
+vocabulary, but with Japanese grammar and Chinese Kanji. We don't yet
+have passport-issuing authority, but you can bet your ass as soon as
+we do, I'm getting the fuck out of this shithole-joke of a country,
+America. I can't stand all these backstabbing sons of bitches.
+
+#### Would you like to bet one or two of these on my legal argument? I would
+
+![Donkey Slinging Buck Futter](/img/posts/2018-01-25-caelis-ruissent-avoiding-the-engineered-collapse/donkey-slinging-buck-futter.jpg)
+
+**All you have to do is prove me wrong and I'll apologize.** Until
+then, I've got an "alien" spacecraft to park right up your ass. Read
+the actual text of this [DAFT](https://en.wikipedia.org/wiki/DAFT)
+treaty one or two times and let that sink in. I hope your ass ain't no
+stateless alien because you're not going anywhere. And what are the
+Dutch going to do about it? I don't know ... let's find out, shall we?
 
 The joke that the US government is building a wall to keep us in has
 some very dark undertones to it. Why was the holocaust so big anyways?
@@ -251,6 +447,20 @@ Because the Nazi's didn't want people running who'd be able to live to
 tell stories about the horrors they saw.  Therefore, you keep these
 people in, which is why my low average annual income is evidence
 supporting my case: I couldn't run if I wanted to.
+
+#### Remember all those times I said "I've got something to talk to you about." ... No?
+
+<iframe width="560" height="315"
+src="https://www.youtube.com/embed/Oib6zvJYx_4" frameborder="0"
+allow="autoplay; encrypted-media" allowfullscreen></iframe>
+
+> That's something like RP that Stewie is speaking, by the way, you
+> only ever learn it authentically if you were initiated as a
+> child. It is nearly impossible to learn all the RP exceptions as an
+> adult -- which makes it a fantastic implicit password system. The
+> American Ivy League "accent" is similar and they practically
+> invented
+> [IPA](https://en.wikipedia.org/wiki/International_Phonetic_Alphabet).
 
 I've contacted the Dutch, the Japanese, the Spanish, the French and
 the Canadians about asylum, but I can't quite apply for asylum in any
@@ -261,7 +471,9 @@ around on my family and friends, who've are essentially loose ends in
 all of this. There is no running from this. I must stand up for
 myself. I must fight my own battles and NO ONE has a better chance of
 doing it. So, if you plan on victimizing me, you're damn straight that
-I'm gonna give you a case you're never going to forget.
+I'm gonna give you a case you're never going to forget. Good luck
+making it to court, by the way. That is exactly the kind of challenge
+that the inward-pointing barbed-wire is for on that "wall."
 
 Don't forget, you're psychologically torturing an idiot savant whose
 intelligence you miscalculated over and over again. Don't forget that
@@ -274,6 +486,8 @@ person who can stop me. Put me in contact with someone whose IQ is
 above 160, I dare you. They will flip to my side so fast, you'll be
 arrested for warcrimes before you can even hear a damn sonic boom.
 That's Mach 2.
+
+#### They've Rue-eened My Life
 
 If you're a IQ 80 roadblock, make fun of me for PTSD, my psychological
 torture or my warcrimes accusations one more time. Demeaning someone
@@ -307,6 +521,11 @@ what everything else in this article indicates!
 - there are no operational-level strategies as long as these tactics
   are on the board. revealing them for what they are force all major
   powers to cooperate, which is what we must do anyways.
+
+- We *may* be embarking towards an age where warfare and even
+  espionage are impossible, even though that sounds ludicrous and
+  should be considered insane by any responsible person who works in
+  intelligence.
 
 ### Statistical Methods Will Demonstrate Evidence of Weather Control For The Past Two Decades, Including Weaponized Weather which is Partially Responsible for Global Weather Destabalization
 
@@ -355,7 +574,7 @@ assholes have weapons you cannot comprehend.
 
 - a little more here
 
-### Evidence Demonstrating Conspiraces Throughout the Ages will Simultaneously Revealed. All Will Be Judged.
+### Evidence Demonstrating Conspiracies Throughout the Ages will Simultaneously Revealed. All Will Be Judged.
 
 These conspiracies will tableflip long-held axioms about world
 history, though many cannot disrupt too much. However, the story of
@@ -527,6 +746,10 @@ that. It is quantum resistent.
 - describe how to extend peak oil forever. not just peak oil; peak
   everything, forever.
 
+#### Peak Autism: Is The End Really Nigh?
+
+![Peak Autism](/img/posts/2018-01-25-caelis-ruissent-avoiding-the-engineered-collapse/peak-autism.jpg)
+
 - for the uberelite, the problem is not access to supply, nor is it
   exponential increases in demand, nor is it inconsistent fluctuations
   in demand. the problem is consumption. rates of consumtion are too
@@ -607,7 +830,9 @@ now?
 
 - 
 
-# TL;DR;
+<a name="tl-dr" />
+
+# [TL;DR;](#tl-dr)
 
 
 
