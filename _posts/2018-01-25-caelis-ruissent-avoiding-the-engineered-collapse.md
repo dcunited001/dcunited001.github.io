@@ -67,9 +67,9 @@ immemorial.
 
 #### &#664; [Imaging Technology and Computational Medicine Imply Trillions in Collective Liabilities From An Accurate, Irrefutable Assessment of Psychiatry's Insane Costs and Benefits](#imaging-tech-and-computational-medicine)
 
-#### &#664; # [Cost of Medical Care and UBI, Along With A Failing Food Supply](#cost-of-medical-care-and-ubi)
+#### &#664; [Cost of Medical Care and UBI, Along With A Failing Food Supply](#cost-of-medical-care-and-ubi)
 
-#### &#664; [The Use of Psychological And Neurological Warfare To Suppress Dissidents, for CIA Mockingbird 2.0 and to Cover up Inconvenient Truths](#the-use-of-psychological-and-neurological-warfare-to-suppress-dissent)
+#### &#664; # [The Use of Psychological And Neurological Warfare To Suppress Dissidents, for CIA Mockingbird 2.0 and to Cover up Inconvenient Truths](#the-use-of-psychological-and-neurological-warfare-to-suppress-dissent)
 
 #### &#664; [Some State Actors Need to Destabalize the Interantional Human Rights Regime Before the Next Global Conflict](#some-state-actors-need-to-destabalize-the-international-human-rights-regime)
 
@@ -93,7 +93,7 @@ immemorial.
 
 #### &#664; [Energy And Resource Markets Give Rise To A Peak Oil Forever Scenario, If The Population Is Truncated](#energy-nad-resource-markets-give-rise-to-a-peak-oil-forever-scenario)
 
-#### &#664;
+#### &#664; [The Outlines of An Alternative International Financial Regime Run By The Chinese and Russians Are Already In Place](#the-outlines-of-an-alternative-international-financial-regime)
 
 #### &#664;
 
@@ -229,12 +229,48 @@ government *back to the people*. What we truly need is for healthcare
 prices and expenditures to come down! Regardless of how pays for them,
 that is critical! Someone has to pay for it.
 
-- mineral levels in food.
-- the Ogallala Aquifer is drying up
-  - how this ties into the global wheat(?) supply
-  - was this actually correlated to the Dust Bowl?
+Further exacerbation of medical problems can be seen in the American
+food supply. Here's a challenge to put the food supply problems in
+perspective: go to any grocery store in American with a single mineral
+in mind, besides sodium or calcium. It could be iron, zinc, or
+magnesium, which is critical for mental health. I want you to fill up
+a single grocery cart with the food that it would take in a single day
+to get that mineral's recommended daily intake. It's impossible. You
+can't, without cheating using artificial formulations like Soilent,
+supplements and vitamins. Did you know that more than 2,000 genes
+cannot be activated without Vitamin D? No? Why are you talking to me
+about my health?
 
-- the cost of UBI
+The food supply itself and the economic advantages we gain from wheat
+exports are both threatened by the looming spectre of a drought and a
+Second Dust Bowl. Why? The Ogallala Aquifer is drying up. One major
+consequence of climate change and global warming is that the ice and
+glaciers in the Colorado mountains will melt faster. These drain into
+the Ogallala acquifer, the vast reservoir without which all great
+plains farmland is devoid of moisture. That's right, no agriculture in
+America's breadbasket. Sound fun? NO! Right, water utilization levels
+exceed their replentishment rates. Those rates of replentishment are
+precisely determined by meltwater from the Rocky Mountains. No ice? No
+Glaciers? NO WATER.
+
+This is why, when I pronounced the quasi-quasi-joke-religion that I
+started, I declared that the transplanar entity [Cxor Apache
+Ogallala](/posts/2017-02-07-oneirontology-semiotics-karma-and-moral-consequentialism.html)
+was speaking through me. It's a reference to how important this all
+is: without it, prices of domestically produced food in America
+skyrocket. No one even knows it's a problem. There's also a clever
+math joke in the name, but it's not worth explaining.
+
+And further still, have you considered how government and society
+plays out with UBI? Every citizen that cannot work become a fiscal
+liability and nothing more. What sounds like an amazing utopian
+society is nothing like that at all. It is a horrible place where the
+only value of human life is in what the powerful can extract from your
+life before you die, since everyone on UBI contributes to a massive
+net drain on government deficits. Still sound like a good idea?  Then
+read [International Trends 2020:
+UBI](/posts/2017-06-05-international-trends-2020-universal-basic-income.html). You
+need to check yourself before you wreck everyone in this country.
 
 <a name="the-use-of-psychological-and-neurological-warfare-to-suppress-dissent" />
 
@@ -498,7 +534,9 @@ supporting my case: I couldn't run if I wanted to.
 src="https://www.youtube.com/embed/Oib6zvJYx_4" frameborder="0"
 allow="autoplay; encrypted-media" allowfullscreen></iframe>
 
-> That's something like RP that Stewie is speaking, by the way, you
+> Stewie is speaking with an accent that's something like [Received
+> Pronunciantion
+> (RP)](https://en.wikipedia.org/wiki/Received_Pronunciation). You
 > only ever learn it authentically if you were initiated as a
 > child. It is nearly impossible to learn all the RP exceptions as an
 > adult -- which makes it a fantastic implicit password system. The
@@ -936,47 +974,127 @@ that. It is quantum resistent ... After publishing this I think you'll
 find that some Bitcoin traders will need a new pair of pants. Its
 ... uhh essentially good for the Bitcoin market, eventually.
 
+<a name="the-outlines-of-an-alternative-international-financial-regime" />
 
-### [The Outlines of An Alternative International Financial Regime Run By The Chinese and Russians Is Already In Place](#the-outlines-of-an-alternative-international-financial-regime)
+### [The Outlines of An Alternative International Financial Regime Run By The Chinese and Russians Are Already In Place](#the-outlines-of-an-alternative-international-financial-regime)
 
-- lol at leftists who ceaselessly talk about IMF, World Bank, et alias
-  - because you're about to disover what it means to live under the
-    thumb of an alternative international financial regime to which we
-    are forever enslaved.
-  - you are idiots. if and when this comes to pass, you will truly
-    understand how your far left belligerence was TREASON
+Dear Leftist: countless times, I've heard you complain about the IMF
+and the World Bank. The romanticism you have for this great leftist
+pasttime is amusing, but if you haven't noticed: China effectively has
+a rocket-powered path to ensure their own superpower status. The US is
+the major international power in question. China and Russia already
+have the eastern equivalents of international financial institutions
+in place:
 
-- this is yet another system whose outlines are in place, which
-  indicates the orchestration of sophisticated plots against america
-  - follow the money and it leads to AIIB and the Chinese
-- In general, asians have an incentive to work together, but the
-  Japanese do not want to become subservient to the Chinese.
+#### **[BRICS](https://en.wikipedia.org/wiki/BRICS)** supplants the [US Dollar](https://en.wikipedia.org/wiki/United_States_dollar)
 
-- this (the AIIB/etc) is the exigent destination of China's
-  endgame. it is the horse that they have bet on. Dominance over
-  international finance -- and simply moderate influence over
-  it -- confers unimanginable power.
-  - this comes after decades of Chinese (belligerence) with regard to
-    intellectual property, like copyrights and patents. They simply do
-    not enforce this within their own borders and steal so much from
-    Western interests. They assume that we'll never know what goes on
-    behind closed borders.
+#### **[AIIB](https://en.wikipedia.org/wiki/Asian_Infrastructure_Investment_Bank)** supplants the [World Bank](https://en.wikipedia.org/wiki/World_Bank)
+
+#### **[NDB](https://en.wikipedia.org/wiki/New_Development_Bank)** supplants the [IMF](https://en.wikipedia.org/wiki/International_Monetary_Fund)
+
+#### **[CIPS](https://en.wikipedia.org/wiki/Cross-Border_Inter-Bank_Payments_System)** supplants the SWIFT Wire Transfer system, an effort that the [Central Bank of Russia](https://en.wikipedia.org/wiki/Central_Bank_of_Russia) moving forward
+
+If the left manages to disrupt for three more years, the old America
+will be unable to project the soft power it needs for economic growth
+over the next decade! The old America will be doomed and replaced by a
+communist government, albeit one without the economically imperative
+capacity for budget sustenance via commodity reserves or empire.
+
+> **HOW WILL FAR LEFTISTS EVER EXPERIENCE THE UTTER IRONY OF LIVING
+> UNDER AN EXPLOITATIVE INTERNATIONAL FINANCIAL REGIME IF AMERICA
+> UNIFIES AND MANAGES TO COMPETE?!**
+
+#### If You Think I'm Insane, Then Watch This Not-So-Crazy Guy Tell You Everthing You Need To Know about (BRICS/AIIB/NDB/CIPS)
+
+<iframe width="560" height="315"
+src="https://www.youtube.com/embed/M7QMMqyEl_I" frameborder="0"
+allow="autoplay; encrypted-media" allowfullscreen></iframe>
+
+#### Investing With The Holy Spirit!
+
+That was one of the most eye-opening lectures I ever watched on
+international finance. This is why I give everyone a chance. I try to
+listen, no matter who I'm talking to. I know it's hard to understand
+me sometimes. That guy? Genius. I'm not sure I can recommend his fund
+for investments, but he definitely knows his stuff. You're about to
+disover what it means to live under the thumb of an alternative truly
+exploitative international financial regime to which we are forever
+enslaved. You are idiots. if and when this comes to pass, you will
+truly understand how your far-left belligerence was **TREASON**.
+
+Follow the money -- or at least follow the future incentivization
+structures -- and it leads to the Chinese and their novel
+interantional world order du jour: BRICS/AIIB/NDB/CIPS (BANC). BANC is
+yet another system whose outlines are in place, which indicates the
+orchestration of sophisticated plots against America. Furthermore,
+Their CIPS payment system allows terrorists to subvert wester
+anti-terrorism laws that protect us against terror groups utilizing
+wire-transfer. In general, asians have an incentive to work together,
+but the Japanese do not want to become subservient to the Chinese.
+
+This BANC *must* be the exigent destination of China's endgame.
+They've already bet on this horse until the end: all roads will lead
+to BANC, if they don't already. Dominance over international finance
+-- and simply moderate influence over it -- confers unimanginable
+power.
+
+My own opinions with regard to this scenario come after coming to
+understand decades of Chinese contempt and antagonism with regard to
+intellectual property, like copyrights, patents and even military
+trade secrets. I understand what they're getting at. They simply do
+not enforce these international norm within their own borders and
+steal so much from Western interests. They assume that we'll never
+know what goes on behind closed borders. It all goes back to many of
+the philosophical underpinnings of Marxism, by the way, but Communism
+has actually worked well for the Chinese. The development they've
+acheived over the past six decades is amazing. However, communism will
+not work so well in America.
 
 They've weakened us by copying and stealing our patented technology.
 They've stolen our military trade-secret technology, which they will
 use to manufacture competitive military products they plan on selling
 to the satellite states within their sphere of influence.  They plan
 on beating us with our own military technology. They've poisoned our
-children with melanin. They've led us astray by using the greed of our
-wealthiest as a weapon. They're about to make fools of all Americans,
-who will become their debt-slaves forever in an international finance
-and monetery scheme rigged so that Americans can never escape debt.
+children with melanin. They've shipped Fentanyl to America. They're
+putting pressure in Pakistan and even the Khyber Pass in Afganistan,
+in anticipation to dominate the Heroin market to fund black ops
+worldwide. They've led us astray by using the greed of our wealthiest
+as a weapon. They're about to make fools of all Americans, who will
+become their debt-slaves forever in an international finance and
+monetery scheme rigged so that Americans can never escape debt.
 
-It's not going to happen. That's not to say that Americans aren't
-willing to work with the Chinese, but we are not fools. We do not want
-to be your enemy, but your plans are fairly simple to
-understand. However, we are not going to fight a war because that's
-insane ... or is it?
+If my intuition serves me right, this will essentially be the same as
+getting trapped with high-debt during a deflationary crisis,
+especially if debts become rewritten in terms of a Bitcoin/dollar
+exchange rate at a low dollar value.
+
+Regardless, we're not going to let this happen. That's not to say that
+Americans aren't willing to work with the Chinese, but we are not
+fools. We must work together with China. We do not want to be your
+enemy, but your plans are fairly simple to understand. However, we are
+not going to fight a war because that's insane ... or is it?
+
+No, this will quickly become a cold conflict, which will play out
+similarly to the first Cold War. Our victory will be predicated
+through expansion via authentically symbiotic Foreign Domestic
+Investment and other economic/poltical means. Towards authentically
+symbiotic fiscal relationships, America has more to offer *because of
+our diversity and connectedness* than China could ever dream of.
+
+This is why Americans must focus outwards and not inwards. Everything
+about the election and your obsessive focus on the results has been a
+carefully laid trap, though I am so censured on Facebook and Twitter
+newsfeed algorithms, no one could possibly hear what I have to say
+through all the weight of my algorithmic demerit points. Thanks a lot.
+
+China, in the coming years, we will not need your industrial
+capacity. No one will because that's the trend that emerges as
+fabrication technology becomes available. This is not accounted for in
+explanations proffered by economics professors because they don't yet
+understand how fab-tech challenges previously held axioms of
+economics. Therefore, China, you cannot depend on nations needing your
+attractively cheap, burgeoning industrial capacity, so if you're
+calculating your geopolitcal moves with that, think again.
 
 #### Do You Want to Get In A Fight With The Iron Fist Masters Under The Bank Of China? I Don't
 
@@ -994,13 +1112,38 @@ what that means, ad infinitum. *YOU DO NOT WANT THIS TO COME TO PASS.*
 So start playing like a goddamn team and we won't have problems, will
 we?
 
-In this situation, if you are American, DO NOT bet against America.
+#### If you are American, DO NOT bet against America.
 
-If you are European, DO NOT bet against America. It is NOT in your
-interests. You may be pleasantly amused at the American kangaroo
-election, but that is all by design. It's a distraction. If even five
-of these things come to pass, who will be there to stand for your
-defense? What will become of NATO then?
+If someone comes knocking at your door and you answer fiduciary
+questions with any statements other than a paraphrasing of "My
+interests for the preservation of America outweigh any such interests
+for self-preservation" we will seize your assets and take your
+paintings.
+
+> I realize exactly how radical and insensitive this sounds, but
+> *THERE WILL BE NOTHING ETHNIC ABOUT THIS*. I'm sorry: I do not mean
+> to say that what happened in 1930's Germany was acceptable. Read my
+> writing. Nothing America does can be successful if any of this
+> becomes framed in terms of ethnicity. Diversity is one of our
+> primary strengths. We cannot allow ourselves to become played
+> against one another.
+
+Data science will show who stands to gain from the fall of America. We
+can methodically identify who has postured themselves to this end. You
+will support American financial interests or we will destroy you. And
+please, we want your support. Do not posture your financial interests
+against America. It is foolish because, regardless of how this plays
+out, you will lose if America falls. There is simply no other way.
+
+#### If you are European, DO NOT bet against America.
+
+It is NOT in your interests. You may be pleasantly amused at the
+American kangaroo election, but that is all by design. It's a
+distraction. If even five of these things come to pass, who will be
+there to stand for your defense? What will become of NATO then? Europe
+will fall because Europe has become weak, which is the only point
+Trump was trying to make about NATO during the election. How did the
+media spin that?
 
 The 2008 financial collapse harnessed the fractures of aligned Jingo
 tower of derivatives and debt. It may at least be seen as an
@@ -1013,7 +1156,7 @@ at least get out of the way.
 
 #### Keep In Mind How Viciously America Has Defended The Dollar.
 
-![Bank Of China Iron Fist Masters]()
+![Bank Of China Iron Fist Masters](/img/posts/2018-01-25-caelis-ruissent-avoiding-the-engineered-collapse/chinese-iron-fist-masters.jpg)
 
 > Now look at them right hands. Do you want to fuck with that? I
 > didn't think so. Right before the Singularity? Is that a fight that
