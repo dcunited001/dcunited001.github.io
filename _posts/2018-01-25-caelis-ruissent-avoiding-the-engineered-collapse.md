@@ -8,6 +8,8 @@ author:
 excerpt: ""
 ---
 
+![](/img/posts/2018-01-25-caelis-ruissent-avoiding-the-engineered-collapse/)
+
 There is an engineered collapse coming. It is likely the that your
 leaders in name have no idea whats coming because they are going to
 take the fall for much of this -- therefore, it's far more likely to
@@ -60,6 +62,11 @@ immemorial.
 
 # [Whose Belied Adumbrations Starkly Contrast Their Eminence](#whose-belied-adumbrations-starkly-contrast-their-eminence)
 
+
+### Cost of Medical Care and UBI
+
+
+
 ### Imaging Technology and Computational Medicine Imply Trillions in Collective Liabilities From An Accurate, Irrefutable Assessment of Psychiatry's Insane Costs and Benefits
 
 - this novel imaging technology creates the possibilities of forensics
@@ -71,6 +78,10 @@ immemorial.
 - this same novel medical imaging tehcnology forms the basis of
   statistical methods that prove neurological "intervention"
   techniques
+
+- there is no plan in place to address legal axioms that are upturned
+  and tableflipped by this technology, nor would such plans be
+  trivial.
 
 ### The Inherent Fallibility of Digital Information Storage Presents Both the Possibility For And The Incentivization for Targeted and Total Information Destruction
 
@@ -212,7 +223,7 @@ the past few years.
 
 #### I Emailed The Author of This Textbook About My Life
 
-![]()
+![](/img/posts/2018-01-25-caelis-ruissent-avoiding-the-engineered-collapse/)
 
 We are entering a period of time where the international legal regime
 is changing gears and beginning to focus on transnationalism in a
@@ -508,13 +519,22 @@ contribution to the lack thereof, speculation on Wall Street and
 unwisely warranted derivatives further exacerbate currency
 destabalization.
 
-Calm the fuck down. We have bitcoin and no one's destabalizing
+Calm the fuck down. We have Bitcoin and no one's destabalizing
 that. It is quantum resistent.
 
 ### Energy And Resource Markets Give Rise To A Peak Oil Forever Scenario, If The Population Is Truncated
 
 - describe how to extend peak oil forever. not just peak oil; peak
   everything, forever.
+
+- for the uberelite, the problem is not access to supply, nor is it
+  exponential increases in demand, nor is it inconsistent fluctuations
+  in demand. the problem is consumption. rates of consumtion are too
+  high. at first glance, this seems to be equivalent to demand, but
+  it's not. it's demand when adjusted for population and the upward
+  pressure that population has on price over time.
+  - in other words, the powerful would like to extend peak-X forever,
+    but they can only do so by limiting.
 
 This brings me to some interesting correlations between renewable
 energy, cryptocurrency currency mining and data flows --
@@ -581,11 +601,11 @@ now?
 
 ### We Need Universal Language For Cultural Compactification. This is Hard With Seven Billion People and No Hard Reset
 
--
+- 
 
 ### Sociocultural Convergence And Spectra Decoherence Accruing and Proceeding at Paradoxically The Same Time
 
-
+- 
 
 # TL;DR;
 
@@ -593,7 +613,6 @@ now?
 
 
 ### Billions of People Will Die In A Plan To Orchestrated Collapse, Simply to Shield Guilty-as-Hell Deep-State Actors
-
 
 - how do you stop it? by doing the opposite of what these people hate:
   spreading information around and making it as permanent as possible,

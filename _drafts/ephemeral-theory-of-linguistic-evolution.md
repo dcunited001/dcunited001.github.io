@@ -589,6 +589,11 @@ mass of each:
 
 - rats of nimh...
 
+- counterexample: parrots and other birds that talk
+  - why can they imitate phonemes and even limited degrees of
+    emotional inflections, but not develop intelligence?
+    - do they only have some of the pieces required?
+
 #### Genetic Evolution of Anatomical Features and Body Language
 
 - this discussion of variation in anatomic features absolutely does
