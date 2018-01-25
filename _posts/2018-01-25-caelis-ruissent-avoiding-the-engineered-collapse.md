@@ -66,8 +66,25 @@ immemorial.
 
 #### &#664; [Nationality Law Begs Some Important Questions: If It Significantly Differs from Refugee Law, How and Why?](#nationality-law-begs-some-important-questions)
 
+#### &#664; [Novel WMD Technologies Render Frightening Hard Sci-Fi Into Reality And Create Intelligence Nightmares](#novel-wmd-technologies-render-frightening-hard-scifi-into-reality)
+
+#### &#664; [Statistical Methods Will Demonstrate Evidence of Weather Control For The Past Two Decades](#statistical-methods-will-demostrate-evidence)
+
+#### &#664; [Evidence of the Psychosocial Manufacturing of MKULTRA-style Manakins BY ALL MAJOR POWERS for Systemic Karmic Obfuscation For Centuries](#evidence-of-the-psychosocial-manufacturing-of-mkultra-style-manakins-by-all-major-powers)
+
 #### &#664;
 
+#### &#664;
+
+#### &#664;
+
+#### &#664;
+
+#### &#664;
+
+#### &#664;
+
+#### &#664;
 
 
 # [TL;DR;](#tl-dr)
@@ -84,6 +101,13 @@ we're going to get out of the car. That's the gist of this article.
 There's some things coming. There are clearly people who are concered
 about those problems, but there are only a handful of people concerned
 about them all as they impact each other.
+
+> Please do remember that, if you can't be bothered to explain
+> something in 200 words or less using only the 1,000 most frequent
+> words in a language, the average person could care less, regardless
+> of what you're saying. You're going to want to listen to me, for
+> once. Even if you don't understand what I'm writing, keep reading
+> and ask some MF questions. Don't ask me. Ask your "leaders."
 
 None of these are happening tomorrow, by the way. Calm TF down. The
 economy is not going to crash. It's only going to crash if we DON'T
@@ -413,7 +437,8 @@ even realizing that they should run or fight back?
 If that makes me
 [stateless](https://en.wikipedia.org/wiki/Statelessness), can I simply
 declare my own nationality by decree? If so, I declare myself to be
-the citizen and the [部長](https://jisho.org/word/%E9%83%A8%E9%95%B7)(buchou) of the
+the citizen and the [部
+長](https://jisho.org/word/%E9%83%A8%E9%95%B7)(buchou) of the
 Independent Duchy of
 [Kanawha](https://en.wikipedia.org/wiki/Kanawha_River) (IDK), a
 spaceless transnational state which extends in a 5 meter sphere around
@@ -425,10 +450,12 @@ BET YOUR ASS IT IS!!**" -- loosely translated of course, with an
 emphasis on the two exclamation points and authentic phonetics for the
 English "wh". You have to exhale when you say it. We're currently
 prototyping a language at the intersection of Spanish and English
-vocabulary, but with Japanese grammar and Chinese Kanji. We don't yet
-have passport-issuing authority, but you can bet your ass as soon as
-we do, I'm getting the fuck out of this shithole-joke of a country,
-America. I can't stand all these backstabbing sons of bitches.
+vocabulary, but with Japanese grammar and Chinese Kanji. The language
+could not care to be troubled with materialistic sentiments such as
+pluralization. We don't yet have passport-issuing authority, but you
+can bet your ass as soon as we do, I'm getting the fuck out of this
+shithole-joke of a country, America. I can't stand all these
+backstabbing sons of bitches.
 
 #### Would you like to bet one or two of these on my legal argument? I would
 
@@ -440,6 +467,13 @@ the actual text of this [DAFT](https://en.wikipedia.org/wiki/DAFT)
 treaty one or two times and let that sink in. I hope your ass ain't no
 stateless alien because you're not going anywhere. And what are the
 Dutch going to do about it? I don't know ... let's find out, shall we?
+
+> **Please note:** I only have enough knowledge of international law
+> to be dangerous, which is why *restricting me from legal resources
+> does not serve your interests*. If I am wrong about the reading(s)
+> of the DAFT treaty, then I am sorry, but the way it looks is that
+> there is not a single force that would overtly help me in the world,
+> except the enemies of America, which is unacceptable to me.
 
 The joke that the US government is building a wall to keep us in has
 some very dark undertones to it. Why was the holocaust so big anyways?
@@ -516,7 +550,21 @@ no legal precedent is intended to ever accumulate, it could be because
 there's something else bigger coming down the pipe, which is exactly
 what everything else in this article indicates!
 
-### Novel WMD Technologies Render Frightening Hard Sci-Fi Into Reality And Create Intelligence Nightmares
+By the way, if you think that moderately rich people can't stand a
+bull in a China shop, imagine getting a bit too smart with
+international law and [fucking up the transition into the
+post-Westphalian
+era](https://github.com/dcunited001/dcunited001.github.io/blob/sources/_drafts/international-trends-2020.md)
+-- but *excuse me* for being psychologically tortured my entire adult
+life. I thought "life" was a bit different and I was only ever seeking
+to end my pain. I don't know exactly who is responsible for my
+torment, but don't ever forget that your bumbling cronies fucked this
+up to be sure. They would hardly serve your interests if they knew the
+truth.
+
+<a name="novel-wmd-technologies-render-frightening-hard-scifi-into-reality" />
+
+### [Novel WMD Technologies Render Frightening Hard Sci-Fi Into Reality And Create Intelligence Nightmares](#novel-wmd-technologies-render-frightening-hard-scifi-into-reality)
 
 - there are no operational-level strategies as long as these tactics
   are on the board. revealing them for what they are force all major
@@ -527,7 +575,9 @@ what everything else in this article indicates!
   should be considered insane by any responsible person who works in
   intelligence.
 
-### Statistical Methods Will Demonstrate Evidence of Weather Control For The Past Two Decades, Including Weaponized Weather which is Partially Responsible for Global Weather Destabalization
+### [Statistical Methods Will Demonstrate Evidence of Weather Control For The Past Two Decades](#statistical-methods-will-demostrate-evidence)
+
+#### This Includes Weaponized Weather which is Partially Responsible for Global Weather Destabalization
 
 - This is not to say that climate change is false or a coverup.
   Climate change is very real and this is going to cause more
@@ -563,7 +613,18 @@ but still collectively infuriating.
 
 ![]()
 
-### Evidence of the Psychosocial Manufacturing of MKULTRA-style Manakins for Systemic Karmic Obfuscation Worldwide For Centuries
+<a name="evidence-of-the-psychosocial-manufacturing-of-mkultra-style-manakins-by-all-major-powers" /.
+
+### [Evidence of the Psychosocial Manufacturing of MKULTRA-style Manakins BY ALL MAJOR POWERS for Systemic Karmic Obfuscation For Centuries](#evidence-of-the-psychosocial-manufacturing-of-mkultra-style-manakins-by-all-major-powers)
+
+To all those major world powers: you're all just as guilty as one
+another. Don't act like you're not. It's the very nature of power. If
+karmic obfuscation wasn't so incredibly valuable, you wouldn't see
+powerful people intentionally obfuscating their actions by working
+through 1&deg; and 2&#deg; connections. They do so systemically.
+Creating disposable, programmable "dolls" has unimaginable utility for
+these people. If you don't understand the problem with that, you don't
+see what happens in the "sausage factory."
 
 It turns out that Lee Harvey Oswald really did kill Kennedy and acted
 alone. There really is such a thing as a "magcik" bullet. The message:
@@ -572,7 +633,23 @@ Wizard-of-Oz powers that be. So, if you find yourself with power,
 without the chains to be held back, tread carefully because these
 assholes have weapons you cannot comprehend.
 
-- a little more here
+#### **Some** Autism: **IT'S AN EPIDEMIC OF THE MANAKINS.**
+
+<iframe width="560" height="315"
+src="https://www.youtube.com/embed/GIzDsGyxsQM" frameborder="0"
+allow="autoplay; encrypted-media" allowfullscreen></iframe>
+
+Evidence is about to drop that shows just how guilty those shadowy
+powers are: their dirty laundry is going to be more obvious than ever
+and that message is going to be amplified across the world. They
+literally have intelligence and secret-society programs that mass
+produce these manakins. Trust me when I say, these people have known
+this moment is coming. They couldn't possibly not be preparing for
+it. The tradegy is in how they plan on covering their own asses.
+
+Just remember, there will never be another person like you in history
+and you can be damn well sure there will never be another person like
+me. How does society treat its heroes?
 
 ### Evidence Demonstrating Conspiracies Throughout the Ages will Simultaneously Revealed. All Will Be Judged.
 

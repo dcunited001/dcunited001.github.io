@@ -32,3 +32,8 @@ permalink: /quotes/
 
 > The greats who came before us, though we may seem greater, were
 > truly the greatest.
+
+> The tragedy of the 21st century is that we shall never know of
+> humanity’s true potential for greatness. Instead, all we will know
+> is the cataclysm that results from our greatest fall since time
+> immemorial.
