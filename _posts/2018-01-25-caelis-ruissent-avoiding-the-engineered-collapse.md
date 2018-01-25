@@ -74,7 +74,7 @@ immemorial.
 
 #### &#664; [Evidence Demonstrating Conspiracies Throughout the Ages will Simultaneously Be Revealed. All Will Be Judged.](#evidence-demostrating-conspiracies-throughout-the-ages-will-simultaneously-be-revealed)
 
-#### &#664;
+#### &#664; [Computational Science Nearly Obliterates The Need For Humans In Science, Enabling Specific Technologies To Be Locked Away Forever](#computational-science-nearly-obliterates-the-need-for-human-labor-in-science)
 
 #### &#664; [Intellectual Property Endgame: Not All Is "As Infinite" As You Would Like It to Be:](#intellectual-property-endgame)
 
@@ -709,7 +709,14 @@ merits of that statement.
 
 ### [Intellectual Property Endgame: Not All Is "As Infinite" As You Would Like It to Be:](#intellectual-property-endgame)
 
-I first realized the outlines of this trend around 2010.
+I first realized the outlines of this trend around 2010. I've outlined
+a [spectacular
+draft](https://github.com/dcunited001/dcunited001.github.io/blob/sources/_drafts/merits-and-faults-of-intellectual-property-endgame-scenarios.md)
+about it in my series [International Trends
+2020](/posts/2017-02-28-international-trends-2020-climate-change.html). It's
+a series composed of 20,000 of purely unintelligable bullshit, as far
+as I can tell. I'm basically a homeless Michael Crichton, so how
+would I know?
 
 One of the most fascinating aspects of law is **circumplexo corpus**,
 though I'm not sure I've found the proper Latin translation. It is
@@ -722,14 +729,16 @@ considering systems of law from the top-down.
 Yes, there is an intellectual property endgame. Intellectual property
 and copyrights are specified as "inequalities" in legalspace. That is,
 they cover ranges of information, not specific instances of
-information. This is very important.
+information. This is very important because it implies that the space
+can be completely covered, especially once STEM starts to accelerate
+as we approach the Singularity.
 
 These assertions are debatable, but because patents and intellectual
 property. A component of the geopolitical strategy of the Chinese and
 Russians will very likely be to disrupt all intellectual property when
 the international legal regime is disrupted, as if they haven't
 already stepped on our intellectual property enough. There's no
-question about it. They WILL do this.
+question about it. They WILL do this. You can set your watch by that.
 
 The question I'm asking about it is: do our "leaders" even see this
 coming and *what have they planned on doing about it?* Why the fuck do
@@ -747,7 +756,7 @@ demagoguery and kangaroo elections.
 > Russians are waiting: go get 'em, tiger! Go find yourself a real
 > scapegoat and call it a day.
 >
-> (Yikes! This guy! Doesn't even see it coming. Kono baka! That's
+> (Yikes! This guy! Doesn't even see it coming. Kono *baka!* That's
 > *unthinkable!*)
 
 ![Whiff of Grapeshot](/img/posts/2018-01-25-caelis-ruissent-avoiding-the-engineered-collapse/whiff-of-grapeshot.jpg)
