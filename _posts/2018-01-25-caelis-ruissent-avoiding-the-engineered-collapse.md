@@ -69,7 +69,9 @@ immemorial.
 
 #### &#664; [Cost of Medical Care and UBI, Along With A Failing Food Supply](#cost-of-medical-care-and-ubi)
 
-#### &#664; # [The Use of Psychological And Neurological Warfare To Suppress Dissidents, for CIA Mockingbird 2.0 and to Cover up Inconvenient Truths](#the-use-of-psychological-and-neurological-warfare-to-suppress-dissent)
+#### &#664; [The Use of Psychological And Neurological Warfare To Suppress Dissidents, for CIA Mockingbird 2.0 and to Cover up Inconvenient Truths](#the-use-of-psychological-and-neurological-warfare-to-suppress-dissent)
+
+#### &#664; [The Inherent Fallibility of Digital Information Storage Presents Both the Possibility For And The Incentivization for Targeted and Total Information Destruction](#the-inherent-fallibility-of-digital-information-storage)
 
 #### &#664; [Some State Actors Need to Destabalize the Interantional Human Rights Regime Before the Next Global Conflict](#some-state-actors-need-to-destabalize-the-international-human-rights-regime)
 
@@ -87,7 +89,7 @@ immemorial.
 
 #### &#664; [Intellectual Property Endgame: Not All Is "As Infinite" As You Would Like It to Be:](#intellectual-property-endgame)
 
-#### &#664; [The Economy Will Collapse Within Two Decades And ALL Socioeconomic Flux And Churn Begins To Align *IN PHASE*](#the-economy-will-collapse-within-two-decades)
+#### &#664; [The Global Economy Will Collapse Within Two Decades As ALL Socioeconomic Flux And Churn Begins To Align *IN PHASE*](#the-global-economy-will-collapse-within-two-decades)
 
 #### &#664; [Severe Turbulence in Forex Markets May End Up In Nations Making Baseless Accusations Of Wealth Incineration](#severe-turbulence-in-forex-markets)
 
@@ -286,6 +288,28 @@ need to check yourself before you wreck everyone in this country.
 
 ### [The Use of Psychological And Neurological Warfare To Suppress Dissidents, for CIA Mockingbird 2.0 and to Cover up Inconvenient Truths](#the-use-of-psychological-and-neurological-warfare-to-suppress-dissent)
 
+When combined with the feedback loops and vulnerabilities in machine
+learning algorithms cause significant harm to society. These
+algorithms have a tendency to magnify the amplitude of disruption in
+systems feedback loops. This is before the impact of people is
+considered. If every person has a voice with the capacity to
+contribute to turbulence, which is their right to free speech in
+America. However. when the media aritificially restricts the variety
+of promoted topics, this limits the range of choices for people to
+respond, which funnels their sociophyscial energy into that limited
+set of choices. This causes magnification of energy, itself containing
+downstream amplification effects, feeding back into the energy of the
+topics which trend towards the top. Issues that are relevant to people
+can also be divisive. When this stark contrast in opinion itself also
+feeds these loops, then the divisiveness and need to dominate itself
+fuels the amplification.
+
+Intentionally harnessing feedback loops in social media to create
+division in society. Adversaries of America, whose societies may not
+protect free speech, stand to gain by amplifying the division voiced
+online. These adversaries certainly stand to gain when we focus all of
+our time and energy inwards, forgetting how to work together.
+
 If you are in America, look around you. Who is "the enemy?" As
 Americans, the enemy should not be you or I, unless either of us is
 making a literal explosive device in our basements or planning a
@@ -302,18 +326,26 @@ SOMETHING ABOUT IT?!* We live in a democracy, don't we?
 > depopulation to maintain power *after* you've profited off all the
 > sin and carnage in history thus far.
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/5CRO3xtYuY4" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
+<iframe width="560" height="315"
+src="https://www.youtube.com/embed/5CRO3xtYuY4" frameborder="0"
+allow="autoplay; encrypted-media" allowfullscreen></iframe>
 
-- this same novel medical imaging tehcnology forms the basis of
-  statistical methods that prove neurological "intervention"
-  techniques
+Much of the same medical imaging technology forms the basis of
+neurological forensic methods that prove neurological interventions,
+as well as both psychologically and pharmacologically-induced
+connectopathies. Methods for identifying neurological interventions
+will emerge within the early 2020's, especially if they trigger
+systemic, cascading connectopathies. These methods will have been used
+to control people.
 
-- intentionally harnessing feedback loops in social media to create
-  division in society.
-
-- there is no plan in place to address legal axioms that are upturned
-  and tableflipped by this technology, nor would such plans be
-  trivial.
+Again, the lack of certainty for how these methods would be accounted
+for and explained in the future is what's most unsettling and
+foreboding. Where is no plan in place to address legal axioms that are
+upturned and tableflipped by this technology, nor would such plans be
+trivial. There have been many sci-fi works about blurred identity and
+malleable memory, but where is this *hard sci-fi version of Rainmaker*
+which closely examines the downstream legal consequences? As they'd
+apply our life? What about all the catch-22's?
 
 Does it seem like anyone plans on getting up on a podium and
 explaining to Americans what has happened to our country with
@@ -322,49 +354,66 @@ the necessary recourse for correcting or even explaining them. That is
 what you need to look for: lies and meticulous deceipt without the
 expectation of ever telling the truth. It's everywhere.
 
-### The Inherent Fallibility of Digital Information Storage Presents Both the Possibility For And The Incentivization for Targeted and Total Information Destruction
+<a name="the-inherent-fallibility-of-digital-information-storage" />
 
-- the internet is a new age library of alexandria, except that cheap
-  access to digital information and cheap synchronization of
-  information in the cloud causes us to prefer to store information in
-  the cloud.
-  - when's the last time you bought a CD? OK, Lady Gaga's newest
-    album? If you're a Lady Gaga fan, did you buy it on CD? What about
-    Taylor Swift's new album, did you buy that on CD?
-  - OK, assume a nightmare-level nuclear EMP attack, like the fusion
-    H-bomb EMP attack Kim-Jong Un is undoubtely planning, if we
-    weren't [so capable of swatting his nukes out of the sky.]()
+### [The Inherent Fallibility of Digital Information Storage Presents Both the Possibility For And The Incentivization for Targeted and Total Information Destruction](#the-inherent-fallibility-of-digital-information-storage)
 
+The internet is a new age library of alexandria, except that cheap
+access to digital information and cheap synchronization of information
+in the cloud causes us to prefer to all store information in the
+cloud, on a hard-drive or at least digitally.
+
+When's the last time you bought a CD? OK, Lady Gaga's newest album? If
+you're a Lady Gaga fan, did you buy it on CD? What about Taylor
+Swift's new album, did you buy that on CD? Now, assume a nuclear EMP
+attack...
+
+#### Thank God We Have Impressive Capabilities To Swat Nukes Out of The Sky
 
 <iframe width="560" height="315"
 src="https://www.youtube.com/embed/1O6B8etOub0" frameborder="0"
 allow="autoplay; encrypted-media" allowfullscreen></iframe>
 
-    - is there any evidence left that your precious artist's last CD
-      even existed? Think about it. Annhilate all digital information
-      and almost all of those cultural artifacts over the last decade
-      or so are effectively PURGED, as if there might as well have
-      been a cultural revolution.
-      - also, remember: the CD's that were not effectively shielded
-        from beta particles are also themselves annhilated.
-        - ever put a CD in a microwave for 5 seconds? It's TOAST! Why?
-          BETA PARTICLES.
+Is there any evidence left that your precious artist's last CD even
+existed? Think about it. Annhilate all digital information and almost
+all of those cultural artifacts over the last decade or so are
+*effectively purged*, as if nearly two decades hadn't existed at
+all. At least, not the way we remember them. Also remember: the CD's
+that were not effectively shielded from beta particles are also
+themselves annhilated. Ever put a CD in a microwave for 5 seconds?
+It's TOAST! Why? *BETA PARTICLES*. Almost nothing above water or above
+several meters deep remains. Some good news: this could almost
+certainly never occur globally.
 
-- what about the elimination of film negatives from Hollywood via a
-  ["mysterious" fungal virus]()? This serves the interests of
-  retroactive cultural annhililation.
-  - no one's even thinking about this. I am. I see it coming. I talk
-    about it and I'm therefore tormented psychologically because it
-    must be important to someone.
+In such a scenario with complete absence of information, the group to
+power back up and pump information into that void is the group that
+begins to dominate the narrative. In such a crisis, information is
+almost more valuable than food or water. Most people would rather
+nearly starve, when offered something that gives them hope. What
+offers you hope of something better? Information.
 
-- yet, chelsea handler -- that new age Jane Fonda bitch -- wants you
-  to question everything that's happening right now, especially the
-  potential War on North Korea. Why? Could it be that some of the
-  "Americans" like that, who aren't American-first are traitors,
-  leading the gullibles masses of sheep away from what should be
-  priorities?
+More good news: while the tensions with North Korea bring the
+threat-level higher than ever, the likelihood of nuclear attack
+remains fairly low. However, if we do not stand against proliferation
+of nuclear weapons while all these other threat levels are high, the
+likelihood of nuclear attacks skyrockets because of more plentiful
+supplies of depleted uranium. That's the far more significant danger:
+not that nuclear attacks will occur when things are fairly sane and
+stable, but that nukes will fall into the wrong hands after powerful
+states fall.
 
-#### Chelsea "Handler" -- New Wage Jane Fonda Bitch
+So when states like North Korea seek nuclear weapons simply because
+disarmament politics are attractive, THIS MAKES ME SO INCOMPREHENSIBLY
+IRATE! I cannot stand the idea of states seeking nukes simply because
+they want to be talked down. It makes me incredibly angry.
+
+Yet, Chelsea Handler -- the new age Jane Fonda -- wants you to
+question everything that's happening right now, especially the
+potential War on North Korea. Why? Could it be that some of the
+"Americans" like that, who aren't American-first are leading the
+gullibles masses of sheep away from what should be priorities? Why?
+
+#### Chelsea "Handler" -- New Wage Jane Fonda
 
 <iframe width="560" height="315"
 src="https://www.youtube.com/embed/kgbNRjK1Bjo" frameborder="0"
@@ -376,9 +425,21 @@ allow="autoplay; encrypted-media" allowfullscreen></iframe>
 
 Chelsea Handler and Jane Fonda might be dissidents, but they are
 fighting on the wrong side of American interests and we will
-collectively bear the consequences of their actions.
+collectively bear the consequences of their actions. I think liberals
+came around pretty quickly and realized North Korea was no issue to be
+trivialized as a political bargaining chip.
 
-### The Need to Cover Up Warcrimes By All Major Powers
+What about the elimination of film negatives from Hollywood via a
+["mysterious" fungal virus](#)? This serves the interests of
+retroactive cultural annhililation. No one even thinks about stuff
+like this. I am. I see it coming. When I talk about it and I'm
+therefore tormented psychologically because it must be important to
+someone. The problem: I could never tell who was psychologically
+tormenting me.
+
+<a name="the-need-to-cover-up-crimes-and-warcrimes-by-all-major-powers" />
+
+### [The Need to Cover Up Crimes And Warcrimes By All Major Powers](#the-need-to-cover-up-crimes-and-warcrimes-by-all-major-powers)
 
 - These crimes are hardly limited to one power or another
   - this implies incentivization for the unforeseen destruction of
@@ -685,7 +746,7 @@ these people. If you don't understand the problem with that, you don't
 see what happens in the "sausage factory."
 
 It turns out that Lee Harvey Oswald really did kill Kennedy and acted
-alone. There really is such a thing as a "magcik" bullet. The message:
+alone. There really is such a thing as a "magick" bullet. The message:
 no matter how powerful you think you are, do not displease the shadowy
 Wizard-of-Oz powers that be. So, if you find yourself with power,
 without the chains to be held back, tread carefully because these

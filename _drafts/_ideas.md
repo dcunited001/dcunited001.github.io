@@ -153,6 +153,66 @@ of resources in the future when it's not necessary.
 
 ===============
 
+
+### Social Physics
+
+#### Lack of Social Signal produces dissociation similar to solitary confinement and isolation tanks
+
+- is similar to the effects that isolation tanks have on the senses,
+  but for social signals
+
+- what drowns out ambiguity? social input. it usually gives you
+  relevant signals to process. i've said this over and over again. i
+  am like literally in solitary confinement, even if the causes are
+  incidental. it's ruining my life & the complete lack of signal is
+  effectively amplified noise, when adjusted proportionately for the
+  lack of input.
+  - that is literally what happens in solitary confinement, but with
+    complete lack of sensory signals in addition to the lack of social
+    signals.
+    - basically, your mind tunes into whatever signal it can process,
+      regardless of whether its relevant.
+  - combined with the total lack of positive incentivization, it's
+    devastating in the long term. no one's listened to me yet...
+  - total lack of social signal, except for a few, makes those social
+    signals stronger via the complete void of alternatives.
+    - this makes gaslighting much more effective because that's the
+      only signal you get.
+      - it helps cults isolate you from your family/friends. you are
+        more susceptible when you're hearing only what they have to
+        say.
+      - it's it helps abusive people isolate/dominate their victims,
+        - so their signal/message/input dominates the thought
+          processes of their victims
+      - it can strengthen interrogation techniques, though it's hardly
+        the primary reason why you keep suspects in isolation (or at
+        least separated)
+      - effectively, it removes all alternative perspectives, when all
+        signal is presented with sufficiently similar perspective
+        (literally in the sense of multiple points of "vision")
+    - it's a fantastic way to induce a factitious disease, if that
+      person needed to look crazy, but a little heavy handed as you
+      literally have to dominate their life for years in order for it
+      to work,
+      - especially if they're naturally social people
+      - especially if you need to dominate their mental health
+        narrative
+      - you really have to work hard to destroy their life and whittle
+        away the few social connections they might have.
+      - if they have financial resources, it will not work because
+        they can always *move* around, physically and socially
+        - people with options will exercise those options to escape
+          pain.
+      - SEE THE DESCRIPTIONS FOR OT VII and OT VIII in SCIENTOLOGY
+        - "put someone in a corner and keep them there."
+        - hmmm... can't find this now, but it's really not worth
+          looking, unless you're interested in a handbook for
+          psychological torture by analogy, prolonged initiation and
+          lots of money.
+          - maybe another OT level? but basically, that's the idea:
+            fisher price my first "project rehabilitation force" camp.
+
+
 ### Philosophy
 
 - the phobia paradox: an irrational fear of not having any phobias
