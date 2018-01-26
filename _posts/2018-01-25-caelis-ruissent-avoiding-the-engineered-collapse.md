@@ -95,7 +95,17 @@ immemorial.
 
 #### &#664; [The Outlines of An Alternative International Financial Regime Run By The Chinese and Russians Are Already In Place](#the-outlines-of-an-alternative-international-financial-regime)
 
+#### &#664; (Energy and Resource Markets)
+
+#### &#664; (cultural compaction 4 AI)
+
+#### &#664; (Sociocultural Convergence)
+
+#### &#664; (Universal Language)
+
 #### &#664;
+
+
 
 # [TL;DR;](#tl-dr)
 
@@ -795,6 +805,8 @@ questions by claiming they want to "discourage a panic" -- but I say,
 we want to encourage actual strategy, not psuedo-democratic
 demagoguery and kangaroo elections.
 
+![Whiff of Grapeshot](/img/posts/2018-01-25-caelis-ruissent-avoiding-the-engineered-collapse/whiff-of-grapeshot.jpg)
+
 #### Would You Like A Whiff Of Grapeshot With Your Starbucks Latte, Senator Does-It-Even-Matter?
 
 > No, I do not imply this literally, señor historian, but I'm glad you
@@ -805,15 +817,14 @@ demagoguery and kangaroo elections.
 > (Yikes! This guy! Doesn't even see it coming. Kono *baka!* That's
 > *unthinkable!*)
 
-![Whiff of Grapeshot](/img/posts/2018-01-25-caelis-ruissent-avoiding-the-engineered-collapse/whiff-of-grapeshot.jpg)
-
 <a name="the-economy-will-collapse-within-two-decades" />
 
 ### [The Economy Will Collapse Within Two Decades And ALL Socioeconomic Flux And Churn Begins To Align *IN PHASE*](#the-economy-will-collapse-within-two-decades)
 
 The US Government is like a hot potato ... for politicians. Not for
 me. Go ahead and hand that thing over to a real visionary, if you want
-to avert or solve this upcoming fiasco. I propose rule by [Thirty
+to avert or solve this upcoming fiasco. I propose rule by loosely
+bi/partisan [Thirty
 Tyrants](https://en.wikipedia.org/wiki/Thirty_Tyrants) and a clear
 demarction into martial law social institutions whose authority is
 dictated by the needs of FEMA emergency government plans, when these
@@ -943,6 +954,9 @@ need your pseudo-economic gurgling. Stop gurgling and drown: the world
 would be so much better off if your sardonically materialistic
 philosophy never existed.
 
+- large evaporations and diffusions of wealth may
+  preordain/foreshadow/initiate conflict.
+
 The notion that we could have a society without money is bizarre, yet
 I hear it all the time. No man is an island and no economy is an
 island. Even if your economy has no concept of money, it still needs
@@ -1004,7 +1018,7 @@ capacity for budget sustenance via commodity reserves or empire.
 > UNDER AN EXPLOITATIVE INTERNATIONAL FINANCIAL REGIME IF AMERICA
 > UNIFIES AND MANAGES TO COMPETE?!**
 
-#### If You Think I'm Insane, Then Watch This Not-So-Crazy Guy Tell You Everthing You Need To Know about (BRICS/AIIB/NDB/CIPS)
+#### This Guy Will Tell You Everything You Need To Know about (BRICS/AIIB/NDB/CIPS)
 
 <iframe width="560" height="315"
 src="https://www.youtube.com/embed/M7QMMqyEl_I" frameborder="0"
@@ -1059,14 +1073,16 @@ children with melanin. They've shipped Fentanyl to America. They're
 putting pressure in Pakistan and even the Khyber Pass in Afganistan,
 in anticipation to dominate the Heroin market to fund black ops
 worldwide. They've led us astray by using the greed of our wealthiest
-as a weapon. They're about to make fools of all Americans, who will
-become their debt-slaves forever in an international finance and
-monetery scheme rigged so that Americans can never escape debt.
+as a weapon.
+
 
 If my intuition serves me right, this will essentially be the same as
 getting trapped with high-debt during a deflationary crisis,
 especially if debts become rewritten in terms of a Bitcoin/dollar
-exchange rate at a low dollar value.
+exchange rate at a low dollar value. They're about to make fools of
+all Americans, who will become their debt-slaves forever in an
+international finance and monetery scheme rigged so that Americans can
+never escape debt.
 
 Regardless, we're not going to let this happen. That's not to say that
 Americans aren't willing to work with the Chinese, but we are not
@@ -1126,7 +1142,11 @@ paintings.
 > writing. Nothing America does can be successful if any of this
 > becomes framed in terms of ethnicity. Diversity is one of our
 > primary strengths. We cannot allow ourselves to become played
-> against one another.
+> against one another. My point is, this is your chance to make sure
+> that it is obvious who and what you stand for. Regardless who you
+> are -- Donald Trump, Jay-Z, Mark Cuban, Carl Icahn, or Joe the
+> Plumber -- if you stand for BANC interests, then so be it. It's not
+> going to work out well for you.
 
 Data science will show who stands to gain from the fall of America. We
 can methodically identify who has postured themselves to this end. You
@@ -1180,8 +1200,13 @@ allow="autoplay; encrypted-media" allowfullscreen></iframe>
 
 ### [Energy And Resource Markets Give Rise To A Peak Oil Forever Scenario, If The Population Is Truncated](#energy-and-resource-markets-give-rise-to-a-peak-oil-forever-scenario)
 
+
+
 - describe how to extend peak oil forever. not just peak oil; peak
   everything, forever.
+  - something cheeky about [conflict theory](/posts/2016-10-12-cosmic-disruption-of-conflict-theory.html)
+    - An idea from Marx that I believe sums up conflict...
+
 
 #### Peak Autism: Is The End Really Nigh?
 
@@ -1275,7 +1300,7 @@ now?
 
 
 
-### Billions of People Will Die In A Plan To Orchestrated Collapse, Simply to Shield Guilty-as-Hell Deep-State Actors
+### Billions of People Will Die In A Plan To Orchestrate Collapse, Simply to Shield Guilty-as-Hell Deep-State Actors
 
 - how do you stop it? by doing the opposite of what these people hate:
   spreading information around and making it as permanent as possible,
