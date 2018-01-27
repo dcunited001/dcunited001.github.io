@@ -1646,7 +1646,8 @@ above.
 #### Math == Money
 
 It's like measuring the influence that removing small numbers of nodes
-in algebraic graph theory has on qualitative and quantitatie metrics
+in algebraic graph theory has on [qualitative and quantitatie
+metrics](https://reference.wolfram.com/language/guide/GraphMeasures.html)
 for that graph -- i.e. the qualities of delta-metrics, for the minimum
 and maximum vertex cuts on graphs when considered algebraically. The
 more connected the graph is and the more nodes there are, generally,
@@ -1655,13 +1656,20 @@ nodes are randomly removed. Control the development of infrastructure
 and generally increase the potential for profit via the structure of
 nodes on the "graph" of energy infrastructure.
 
-Again, steal all my ideas. I don't actually care. I have so many that
-my mind itself is considered a global security threat, apparently.
-Isn't that wonderful? All you motherfucking crypto-Leninist shitdicks
-have to deal with the consequences for fucking me in the ass all this
-time. Because, apparently, what comes out of my mind isn't so
-worthless as you'd like my family, friends and everyone in the world
-to think.
+Again, steal all my ideas. I don't actually care. Most of them aren't
+exactly novel and I'm not sure why I'm thus tormented for writing
+about them. I have so many that my mind itself is considered a global
+security threat, apparently... But the volunteer social media
+therapist(s) remind me of how delusional I am. I think I should listen
+to them, and look the other why while I'm tormented and all my ideas
+are stolen. Isn't that wonderful? Your [communist vigilante
+psychiatrists] and ensured that all you crypto-Leninist shitdicks have
+to deal with the consequences for fucking me in the ass all this
+time. Apparently, what comes out of my mind isn't so worthless and
+delusional as you'd prefer for my family, friends and everyone else in
+the world to believe.
+
+#### I'm A Nice Guy. Don't Make Me Come Over There And Beat That Brow
 
 I'd like to see some of you sit there and read my articles aloud on
 video. It would probably be amusing, though I'd really prefer to
