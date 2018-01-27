@@ -626,7 +626,8 @@ However painful, we need to deal with the sins of the modern era,
 otherwise we will allow the worst of us to dominate humanity for
 eternity within a false paradigm.
 
-IT IS IMPORTANT FOR US TO CONSIDER NOW, REGARDLESS OF THE COST!
+*IT IS URGENT FOR US TO CONSIDER NOW, REGARDLESS OF THE COST!* We will
+never have the chance to do so if we do not!
 
 <a name="nationality-law-begs-some-important-questions" />
 
@@ -814,7 +815,7 @@ truth.
 
 ### [Statistical Methods Will Demonstrate Evidence of Weather Control For The Past Two Decades](#statistical-methods-will-demostrate-evidence)
 
-#### This Includes Weaponized Weather which is Partially Responsible for Global Weather Destabalization
+#### This Includes Weaponized Weather Which Will Be Partially Responsible for Global Weather Destabalization
 
 - This is not to say that climate change is false or a coverup.
   Climate change is very real and this is going to cause more
@@ -1546,25 +1547,74 @@ destablization presented by technology and especially social media
 hack the systems of government and communication that have served
 America and the world so well for so long. This threatens everything.
 
+#### That Said... Peak Everything Forever
 
-- describe how to extend peak oil forever. not just peak oil; peak
-  everything, forever.
-  - something cheeky about [conflict theory](/posts/2016-10-12-cosmic-disruption-of-conflict-theory.html)
-    - An idea from Marx that I believe sums up conflict...
+There are many crackpot conspiracies out there for depopulation.
+However, if you understand how to ride the hockeystick tail of
+high-demand resources, while profiting along the way, then you'll
+understand that you can manipulate the supply of goods to create
+artificial scarcity and profit more, for longer. However, when these
+good are in high-demand, but supply is just inherently limited, then
+only by limiting consumption can you leverage what is essentially the
+same tactic. This is how you profit maximally from goods whose supply
+is and has always been inherently limited by their geographic
+distribution and mechanisms of creation. This brings us to [Conflict
+Theory](/posts/2016-10-12-cosmic-disruption-of-conflict-theory.html)
 
+Quite soon, the supply chains of many industries will shrivel up as
+novel fabrication technologies are introduced. This results in a
+second industrial revolution. It changes everything you though you
+knew about macro and micro economics or industrialization or economic
+development. If you have a degree in economics and you hate Trump,
+you're probably wrong. That's what you just don't get. Not everything
+follows the rules. What is critical is identifying the exceptions to
+the rules. I don't have all the economic experience to know that I'm
+100% correct, but I know that I'm looking at something about economics
+that well-educated people just won't let themselves consider. And it
+changes everything. FOREVER!
+
+I'm not trying to chastise people on a political basis simply for
+missing some key inferences. I'm trying to say: have an open mind
+instead of jumping on the anti-Trump demolition train. You don't know
+what you need to know to have the opinions you so fervently amplify
+with all your copycats retweets and shares. One moderately educated
+person person with *original* thoughts is worth all the retweets and
+shares of 10,000 highly educated people who are deafeningly voiceing
+the planted opinions of others. That's without considering whether
+those thoughts are also novel in addition to being original. There's a
+huge difference.
 
 #### Peak Autism: Is The End Really Nigh?
 
 ![Peak Autism](/img/posts/2018-01-25-caelis-ruissent-avoiding-the-engineered-collapse/peak-autism.jpg)
 
-- for the uberelite, the problem is not access to supply, nor is it
-  exponential increases in demand, nor is it inconsistent fluctuations
-  in demand. the problem is consumption. rates of consumtion are too
-  high. at first glance, this seems to be equivalent to demand, but
-  it's not. it's demand when adjusted for population and the upward
-  pressure that population has on price over time.
-  - in other words, the powerful would like to extend peak-X forever,
-    but they can only do so by limiting.
+For the uberelite, the problem is not access to supply, nor is it
+exponential increases in demand, nor is it inconsistent fluctuations
+in demand.
+
+If rates of consumtion are too high, how do you adjust the economic
+externalities -- which are NOT externalities for the elite. at first
+glance, this seems to be equivalent to demand, but it's not. it's
+demand when adjusted for population and the upward pressure that
+population has on price over time. In other words, the powerful would
+like to extend peak-X forever, but they can only do so by limiting
+consumption.
+
+*AS IT APPEARS IN 2018* -- the problem is consumption. However, this
+is a terrible assumption. Taken to the extreme, not only does it waste
+the potential of human life, it's short-sighted and myopic. The bases
+on which this assumption is built will change, as technology like
+fabrication expand the known range of possibilities. Don't ever let
+yourself form axiomatic assumptions about the Singularity! Always be
+ready to reticulate everything! The key to the Singularity is to
+maximize flexibility, action and the potential for both at any
+time. Yet another paradox. Oh joy.
+
+#### The Singularity: Reticulate Your Metaphysical Splines
+
+<iframe width="560" height="315"
+src="https://www.youtube.com/embed/xY5OkIHlsBs" frameborder="0"
+allow="autoplay; encrypted-media" allowfullscreen></iframe>
 
 This brings me to some interesting correlations between renewable
 energy, cryptocurrency currency mining and data flows --
@@ -1581,8 +1631,6 @@ electricity -- either now or in the future. Eventually, investments
 could be bundled or facilitated as novel types of crypto futures,
 among other creative derivatives.
 
-- TODO: reference stochastic programming article
-
 These derivatives differ starkly from the "Bitcoin futures" of
 today. They also depend on your capacity and need to store energy. If
 you run out of local energy storage or if energy transfer
@@ -1593,17 +1641,19 @@ dashed through the discouragement and manipulation of the architecture
 or development of both energy storage and infrastructure in countries
 across the world. If there is less infrastructure, generally, than
 it's easier to influence to short the derivatives mentioned
-above. It's like measuring the influence that removing small numbers
-of nodes in algebraic graph theory, no doubt connected to (albuin
-numbers). The more connected the graph is and the more nodes there
-are, generally, the less potential for disruption there is when a
-small number of nodes are randomly removed. Control the development of
-infrastructure and generally increase the potential for profit via the
-structure of nodes on the "graph" of energy infrastructure.
+above.
 
-- [Albuin numbers]().
+#### Math == Money
 
-
+It's like measuring the influence that removing small numbers of nodes
+in algebraic graph theory has on qualitative and quantitatie metrics
+for that graph -- i.e. the qualities of delta-metrics, for the minimum
+and maximum vertex cuts on graphs when considered algebraically. The
+more connected the graph is and the more nodes there are, generally,
+the less potential for disruption there is when a small number of
+nodes are randomly removed. Control the development of infrastructure
+and generally increase the potential for profit via the structure of
+nodes on the "graph" of energy infrastructure.
 
 Again, steal all my ideas. I don't actually care. I have so many that
 my mind itself is considered a global security threat, apparently.
