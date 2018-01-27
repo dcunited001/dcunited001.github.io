@@ -420,17 +420,23 @@ scenario? Social physics. No one wants that situation. Absolutely no
 one, except perhaps a handful of cigar-smoking men across the
 world. However, the group who expects the unexpected stands to profit
 from the unexpected. The ignorant then become like leaves in a wind
-they cannot begin to see.
+they cannot begin to see. Knowledge is power, truth is formless and
+all-emcompassing and ideology is for fools who cannot think for
+themselves.
+
+#### Deconstruction is Key To Reconstruction, But Humanity Desparately Needs Order If We Are To Survive
+
+![Kali Yuga](/img/posts/2018-01-25-caelis-ruissent-avoiding-the-engineered-collapse/kali-yuga.jpg)
 
 More good news: while the tensions with North Korea bring the
 threat-level higher than ever, the likelihood of nuclear attack
 remains fairly low. However, if we do not stand against proliferation
-of nuclear weapons while all these other threat levels are high, the
-likelihood of nuclear attacks skyrockets because of more plentiful
-supplies of depleted uranium. That's the far more significant danger:
-not that nuclear attacks will occur when things are fairly sane and
-stable, but that nukes will fall into the wrong hands after powerful
-states fall.
+of nuclear weapons while all these other threat levels are high, then
+likelihood of nuclear attacks skyrockets. Why? More plentiful supplies
+of enriched uranium litter weapons caches and energy storage across
+the world. That's the far more significant danger: not that nuclear
+attacks will occur when things are fairly sane and stable, but that
+nukes will fall into the wrong hands after powerful states fall.
 
 So when states like North Korea seek nuclear weapons simply because
 disarmament politics are attractive, THIS MAKES ME SO INCOMPREHENSIBLY
@@ -963,6 +969,42 @@ biggest collapse ever is yet to come. I don't know when and God help
 us all when it does. It is actually far more possible to undrestand
 this in ancient times than it is now.
 
+#### A brief two-minute intermission so that your cries of anti-intellectualism, unrepentent derision and contemptuous laughter die down a bit before I continue
+
+<iframe width="560" height="315"
+src="https://www.youtube.com/embed/O0wOD9TWynM" frameborder="0"
+allow="autoplay; encrypted-media" allowfullscreen></iframe>
+
+Sociophysical dynamics ride on top of the Mandala phenomenon from
+[Kautilya’s Mandala
+Theory](http://rjhssonline.com/HTMLPaper.aspx?Journal=Research%20Journal%20of%20Humanities%20and%20Social%20Sciences;PID=2012-3-1-32),
+where modernization, rapid transportation and *lightning*-fast
+communication have lead to the total expansion of all spheres of
+influence: the ideal maximization of this phenomenon the expansion of
+Mandela-spheres is that everyone is everyone's neighbor, but also that
+everyone is everyone's 2&deg; neighbor as well. It is from these
+rapidly expanding Mandala-spheres that socioeconomic flux also aligns
+in phase. *Churn* is the transition from one pole of a wave of
+socioeconomic flux to the others and understanding how to capitalize
+on that by methodically extracting slices of churn is the Crème de la
+Crème of billionaires. The greater these fluctuations become, the more
+likely they are to become in phase, and thus, the hidden magnitude
+from spectral decoherence is removed. One does not cannot stop these
+economic contractions. You have to figure out how to mitigate them.
+
+#### Dear America: I may be a failure, but it's what you wanted and worked so hard for, isn't it?
+
+This results inverse of the spheres of influence that Kautilya
+discusses in Mandala theory. This results in a kind of "internalized
+externalization" of these sociophysical spheres of influence at the
+end modernization, culminating in the Singularity, but nothing ever
+truly ends.
+
+> I never claimed that what these kinds of things I write are
+> definitively true; only that they are like fascinating thought
+> experiments resulting from my complete inability to consult someone
+> academic a la my abject social isolation. *Ironique, n'est-ce pas?*.
+
 #### [Emulation of Ancient Thought Confers Penultimate Metacognition](/posts/2017-10-30-speed-of-thought-sociophysical-postulates-1-to-11.html#emulation-of-ancient-thought-penultimate-metacognition)
 
 Why? Because times were simpler, the range of phenomena were much more
@@ -1029,7 +1071,7 @@ which most of us can barely grasp.
 
 <a name="severe-turbulence-in-forex-markets" />
 
-### [Severe Turbulence in Forex Markets May End Up In Nations Making Baseless Accusations Of Wealth Incineration](#severe-turbulence-in-forex-markets)
+### [Severe Turbulence in Forex Markets May End Up In Nations Making Accusations Of Wealth Incineration](#severe-turbulence-in-forex-markets)
 
 One frequently cited component of marxist rhetoric that I cannot stand
 is the notion that we can simply do away with money. It's an insane
@@ -1044,9 +1086,6 @@ like, but the rest of us are trying to save ourselves and we don't
 need your pseudo-economic gurgling. Stop gurgling and drown: the world
 would be so much better off if your sardonically materialistic
 philosophy never existed.
-
-- large evaporations and diffusions of wealth may
-  preordain/foreshadow/initiate conflict.
 
 The notion that we could have a society without money is bizarre, yet
 I hear it all the time. No man is an island and no economy is an
@@ -1078,6 +1117,25 @@ Calm the fuck down. We have Bitcoin and no one's destabalizing
 that. It is quantum resistent ... After publishing this I think you'll
 find that some Bitcoin traders will need a new pair of pants. Its
 ... uhh essentially good for the Bitcoin market, eventually.
+
+
+So, the role that money provides eventually transitions into
+energy. Money actually represents one form of sociophysical potential
+energy: the potential to influence the decisions of others.
+Interestingly, spending money usually has physical effects on the
+world: people begin making different decisions. When you follow such
+metaphors too closely, you end up soundly like a sociopath, so keep
+that in mind. However, when the role that money plays in society
+instead becomes occupied by energy, this has interesting implications.
+
+Now that we can agree that money is never going away -- because it
+eventually transitions into energy -- then as this transition plays
+out across the currency markets, large evaporations and diffusions of
+wealth may preordain, foreshadow, or initiate conflict between
+nations, regions, groups and people. Indeed, we will always experience
+conflict over resources and this is a partial basis for conflict
+theory, a sensible group of ideas put forth by Marx, which is saying a
+lot, coming from me.
 
 <a name="the-outlines-of-an-alternative-international-financial-regime" />
 

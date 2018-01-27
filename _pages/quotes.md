@@ -37,3 +37,8 @@ permalink: /quotes/
 > humanity’s true potential for greatness. Instead, all we will know
 > is the cataclysm that results from our greatest fall since time
 > immemorial.
+
+> Those who expect the unexpected stands to profit from the
+> unexpected. The ignorant then become like leaves in a wind they
+> cannot begin to see. Knowledge is power; truth is formless and
+> all-emcompassing; ideology is for fools.
