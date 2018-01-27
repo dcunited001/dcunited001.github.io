@@ -351,8 +351,8 @@ chance.
       - coupled with less insurance or foundation
         - it's impossible to take anything for granted
 
-  - these turbulent conditions mean that opportunities that were
-    unpredicted will present themselves
+  - (these turbulent conditions mean that opportunities that were
+    unpredicted will present themselves)
     - with economic turbulence, this implies rapid growth in some
       industries with rapid losses in industries thought to be solid
       long-term investments
@@ -385,35 +385,41 @@ chance.
       and lots of influence over the newsfeed algorithms
     - it's mostly an impossible, high-level idea, but it is possible
 
-(connect) The interdependent nature of these communication platforms,
-coupled with lack of understanding, constant flux, and uncertainty in
-how interactions of players contribute to the platform's small & large
-scale behavior patterns.
-
-(connect) presents is a legal argument in & of itself.  By
-affecting the free speech of one person via manipulation of social
-media algorithms, you are also affecting and therefore regulating the
-speech of everyone using that platform.
-
-It's similar to the "indirect affect on aggregate commerce" argument
-presented by the federal government in the 2005 Supreme Court case,
-[Gonzales v. Raich](https://en.wikipedia.org/wiki/Gonzales_v._Raich). This
+The interdependent nature of these communication platforms, coupled
+with lack of understanding, constant flux, and uncertainty in how
+interactions of players contribute to the platform's small & large
+scale behavior patterns. This presents a legal argument in & of
+itself. By affecting the free speech of one person via manipulation of
+social media algorithms, you are also affecting and therefore
+regulating the speech of everyone using that platform. This argument
+is similar to, but cannot be predicated upon the *indirect affect on
+aggregate commerce* argument presented by the federal government in
+the 2005 Supreme Court case, [Gonzales
+v. Raich](https://en.wikipedia.org/wiki/Gonzales_v._Raich). This
 argument referenced the precident set in the 1942 Supreme Court case
-on taxation of wheat,
-[Wickard v. Filburn](https://en.wikipedia.org/wiki/Wickard_v._Filburn).
+on taxation of wheat, [Wickard
+v. Filburn](https://en.wikipedia.org/wiki/Wickard_v._Filburn).
 
-In regard to government interference in newsfeed algorithms, my
+In regard to government interference in newsfeed algorithms, this
 argument asserts that freedom of speech might also be interpreted as
-independence of speech. By altering how people or topics are
-incentivized by social media algorithms, the federal government
-compels foreign & domestic users to adopt viewpoints or avoid speaking
-out on specific topics. Otherwise, they can be automatically censured
-by newsfeed algorithms. Further, by nearly muting one person's speech
-or amplifying another's on a social media product, you affect the
-entire social media ecosystem. This can be done by directly
-interfering with the operation of social media web application
-servers/data or indirectly through farming interactions and content
-via SEO. It's hard enough for newsfeed algorithms to function properly
+independence of speech. While the argument needs a valid foundation of
+case law and precendent, it may present a means by which the
+government's regulation of speech via digital means could be reigned
+in. By altering how people or topics are incentivized by social media
+algorithms, the federal government compels foreign & domestic users to
+adopt viewpoints or avoid speaking out on specific topics. Otherwise,
+they can be automatically censured by newsfeed algorithms. Further, by
+nearly muting one person's speech or amplifying another's on a social
+media product, you affect the entire social media ecosystem. This can
+be done by directly interfering with the operation of social media web
+application servers/data or indirectly through SEO-style farming of
+interactions and content. It's hard enough for newsfeed algorithms to
+function properly, but we see the government picking and choosing
+winners in what is essentially an information marketplace. The
+question of whether the government is picking and choosing the correct
+winners is concerning enough, but the greater question is whether the
+government is even capable of doing so without causing greater harm to
+itself
 
 # Factions Invested For or Against Censorship
 
