@@ -732,9 +732,59 @@ Given a simplified model of a sociophysical or financial system
   - the protein contains (evoluationarily-conserved structures) giving
     it an overall form ...
 
+
+- That economic forces we cannot control introduce potential
+  incentivization for depopulation is just another ravine in the
+  metaphysical leylines contributing downward pressure rapidly
+  accelerate towards several of the scenarios outlined in this
+  article. Truly understanding much of Nassir Taleb's work on
+  convexity and concavity of systems will help in deciphering the
+  previous statement. What we're fighting against is not human. It's
+  basically fate, which has presented us with social life exhibiting
+  alarming concavities to avoid and essential convexities to use as
+  tools. Concavities pull you away from regions of stabalization.
+  Convexities provide "leylines" that focus entropy against all odds,
+  yielding enthalpy that focuses reality into certain forms.
+
+#### The Folding Funnel Demonstrates how Enthalpy Guides Protein Folding
+
+![Entropy vs. Enthalpy]
+
+- Understanding the webs of paths -- the webs of worldlines -- that
+  move us towards this set of predestined or preordained points is key
+  to understanding the best path forward. If you have a materialist
+  conception of metaphysics, you are inherently challenged in
+  understanding the phenomena unfolding in front of you for anything
+  except what they **appear** to be. However, nothing is simply what
+  it is. Everything you can hold, every idea you've had has a story of
+  where it came from, stories for each fiber or piece of the object,
+  stories for how that idea translated itself into action and
+  transformed the world.
+
+#### The Analogy of Leylines Illustrates the Shape that Guides the
+Potential "Worldlines"
+
+![Protein Folding and Metaphysical Leylines]
+
+- Given the same set of information, the "classical" materialist can
+  only see the potential for divergence. Revising their understandings
+  of the world, adjusting for the clearly improbably, then they begin
+  to see the possibility for the invisible hand, for intelligent
+  design and for everything else that they cannot explain. This is
+  because their worldview only permits them to see systems as chaotic
+  and divergent, where there is no inherent similarity between
+  configurations: no symmetry of all things. They are very
+  intelligent, but they are wrong.
+
+
+
+
+
+
 #### (Dilineation of Most Probable Paths from Counteraction b/w entropy/enthalpy)
 
-![Folding Funnel w/ Entropy & Enthalpy](/img/posts/2017-10-21-speed-of-thought-twenty-postulates-of-social-physics/folding-funnel-enthalpy.jpg)
+![Folding Funnel w/ Entropy &
+Enthalpy](/img/posts/2017-10-21-speed-of-thought-twenty-postulates-of-social-physics/folding-funnel-enthalpy.jpg)
 
 #### Would You Like Some Tea?
 
