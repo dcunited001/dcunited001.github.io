@@ -378,19 +378,49 @@ Is there any evidence left that your precious artist's last CD even
 existed? Think about it. Annhilate all digital information and almost
 all of those cultural artifacts over the last decade or so are
 *effectively purged*, as if nearly two decades hadn't existed at
-all. At least, not the way we remember them. Also remember: the CD's
-that were not effectively shielded from beta particles are also
-themselves annhilated. Ever put a CD in a microwave for 5 seconds?
-It's TOAST! Why? *BETA PARTICLES*. Almost nothing above water or above
-several meters deep remains. Some good news: this could almost
+all. At least, not the way we remember them.
+
+Our society assumes that all digital cultural artifacts will be
+perpetuated forever, like their tangible artifacts. Because our
+society hasn't experienced an Atlantean neo-deluge of digital culture,
+it doesn't know to make strategic decisions moving forward with that
+possibility in mind. In such a global-EMP or global-cyber digital
+deluge scenario, the past generation would have left almost no traces
+of itself behind, specifically because it's communicating primarily
+through digital means and the majority artifacts of culture are
+digital. In this regard, all but a handful of people in industrialized
+nations are ignorant to the potential consequences. In the wake of
+such a catastrophe, he void of information from this generation allow
+someone to completely rewrite this period of history, if we're not
+careful.
+
+Also remember: the CD's that were not effectively shielded from beta
+particles are also themselves annhilated. Ever put a CD in a microwave
+for 5 seconds? It's TOAST! Why? *BETA PARTICLES*. They are literally
+what cooks your food in the microwave. Almost nothing above water or
+above several meters deep remains. Some good news: this could almost
 certainly never occur globally.
 
 In such a scenario with complete absence of information, the group to
 power back up and pump information into that void is the group that
-begins to dominate the narrative. In such a crisis, information is
-almost more valuable than food or water. Most people would rather
-nearly starve, when offered something that gives them hope. What
-offers you hope of something better? Information.
+begins to dominate the narrative. There will be several such
+groups. The ones with the greatest degree of hardened communications
+equipment will be the most capable of dominating this null information
+void. There are geostrategic aspects to reestablishing information
+consensus after a tragedy like this. America IS ready and other
+nations like China or especially Russia are also ready for these
+scenarios because these three nations have enjoyed the local military
+supremacy required to plan for these kinds of problems. In such a
+crisis, information is almost more valuable than food or water. Most
+people would rather nearly starve, when offered something that gives
+them hope. What offers you hope of something better? Information.
+
+What is vital for planning for and acting strategically in such a
+scenario? Social physics. No one wants that situation. Absolutely no
+one, except perhaps a handful of cigar-smoking men across the
+world. However, the group who expects the unexpected stands to profit
+from the unexpected. The ignorant then become like leaves in a wind
+they cannot begin to see.
 
 More good news: while the tensions with North Korea bring the
 threat-level higher than ever, the likelihood of nuclear attack
@@ -1358,7 +1388,32 @@ now?
 
 # [TL;DR;](#tl-dr)
 
+- so how is it that we come together? what do we do from here?
+- there will likely be no false flag or economic collapse. it will
+  actually be the #GreatAwakening. the event your worried about is
+  simply something to be nervous about. when people actually wake up
+  to what's happened, it will be a catalyst to america's benefit. the
+  far-leftist opposition will collapse as the "less visible"
+  leadership who's been acting behind the scenes will no longer stand
+  behind a movement which is not "in vogue" ... again, for the
+  leftists behind the scenes running "community" action -- half their
+  leadership will disappear because they don't want to be left holding
+  the bag. the other half will be left holding the bag. their actual
+  leftist movement will come running as this catalyst for awakening
+  rips through their movement and they all realize what just ALMOST
+  happened....
+  -  a small portion of their leftist movement will be left to be
+     cannibalized by itself, so the new #RightCenter can be sure none
+     of these most radical architects want to stick their necks out
+     for a while. it might be chaotic. i don't know
 
+  - once the TRUTH is in place, their narrative is destroyed. THEY
+    HAVE NO INCENTIVE TO ACT AT THIS POINT. It sounds crazy, but any
+    of them that act will be seen as traitors. instead they will come
+    fleeing to our side. I swear to God. I think you've heard "Be
+    ready for them, with open arms."
+    - we only need to find the ones who were without a doubt aligned
+      against american interests.f
 
 
 ### Billions of People Will Die In A Plan To Orchestrate Collapse, Simply to Shield Guilty-as-Hell Deep-State Actors

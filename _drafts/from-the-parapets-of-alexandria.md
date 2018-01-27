@@ -276,13 +276,13 @@ companies like Facebook or Google.
 
 describe how political movements can encourage its members to take
 action online.
-- some of those actions just help a movement grow.  that
-  is, they aren't negative or divisive on their own. but in particular,
-  a political/religious movement can encourage its members to take
-  actions, the consequences of which they might not fully understand and
-  the results of which, when combined with the feedback loops and
-  vulnerabilities in machine learning algorithms cause significant harm
-  to society.
+- some of those actions just help a movement grow.  that is, they
+  aren't negative or divisive on their own. but in particular, a
+  political/religious movement can encourage its members to take
+  actions, the consequences of which they might not fully understand
+  and the results of which, when combined with the feedback loops and
+  vulnerabilities in machine learning algorithms cause significant
+  harm to society.
 
 - example: "birther" movement:
   - encouraged Barack Obama's most vocal (and perhaps more irrational)
@@ -630,5 +630,3 @@ above affect the model of censorship outlined above.
 -
   [shadowbanning](http://newstarget.com/2016-07-29-bypass-twitter-censorship-by-using-alternative-information-sources-fetch-news-and-goodgopher-com.html)
   - so apparently, those in charge of censorship don't actually care.
-
-
