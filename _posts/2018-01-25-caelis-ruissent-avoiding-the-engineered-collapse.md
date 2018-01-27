@@ -113,7 +113,12 @@ immemorial.
 
 # [TL;DR;](#tl-dr)
 
-### ...
+#### &#664; [Too Long; Sounded Boring; Big Words; Trump Voter; Not a Communist; I Heard He Was A Racist](#too-long-sounded-boring-big-words-trump-voter)
+
+#### &#664; [How Do You Stop A Plan To Orchestrate Collapse, Simply to Shield Guilty-as-Hell Deep-State Actors Who Want To Enrich Themselves For Eternity?](#how-do-you-stop-a-plan-to-orchestrate-collapse)
+
+#### &#664; [For The Global Elite, The Best Way To Handle, Mitigate and Explain The Emerging Chaos, Along With The Ensuing Blame To Be Cast, Is To Collapse the System](#for-the-global-elite-the-best-way-to-handle-this-is-to-collapse-the-system)
+
 
 <a name="whose-belied-adumbrations-starkly-contrast-their-eminence" />
 
@@ -1346,7 +1351,10 @@ calculating your geopolitcal moves with that, think again.
 
 > Why's that?
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/H4f2A4LlgX8?start=435" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
+<iframe width="560" height="315"
+src="https://www.youtube.com/embed/H4f2A4LlgX8?start=435"
+frameborder="0" allow="autoplay; encrypted-media"
+allowfullscreen></iframe>
 
 America and the western world is essentially at the same economic
 crossroads that Europe was at between WW1 and WW2. Furthermore, we are
@@ -1688,7 +1696,7 @@ now?
     energy.
 
 
-### Sociocultural Convergence And Spectra Decoherence Accruing and Proceeding at Paradoxically The Same Time
+### Sociocultural Convergence And Spectral Decoherence Accruing and Proceeding at Paradoxically The Same Time
 
 -
 
@@ -1696,9 +1704,40 @@ now?
 
 - it will begin to happen after people try to make sense of the
 
-<a name="tl-dr" />
+<a name="tl-dr-billions-of-people-will-die" />
 
-# [TL;DR;](#tl-dr)
+# [TL;DR: Billions of People Will Die *IF* Shit Hits The Fan](#tl-dr-billions-of-people-will-die)
+
+Those are the problems; almost all of them. That's what we're up
+against, as Americans and as humanity. I don't know all the answers,
+but how are you supposed to work to solve any of these problems if you
+don't allow yourself to acknowledge the existence of any of them.
+
+<a name="too-long-sounded-boring-big-words-trump-voter" />
+
+### [Too Long; Sounded Boring; Big Words; Trump Voter; Not a Communist; I Heard He Was A Racist](#too-long-sounded-boring-big-words-trump-voter)
+
+Hmmmm ... humanity need your help and you couldn't be bothered to read
+50 pages explaining why we need to get our act together. Wow. Go
+retweet some Doge memes. No, I understand:
+
+> It was too long. Too much work. You'd have to spend several months
+> cross-referencing some of the information above to truly
+> understand. Antifragility? Convexity?  Enthalpy? What TF is all that
+> shit? I can't digest that!
+
+That's fine. I don't expect more than a handful of people on this
+planet to understand this without referenceing several dozen external
+URL's to make it through this article. That's fine, but here's my
+problem: I'm treated like a homeless Michael Crichton and I'd probably
+be lucky to hold a job at McDonald's for more than a month because of
+the terrible people in this country. IMO, when this all goes down: you
+deserve what you have worked so hard for: either the salvation by your
+blood, sweat and tears; or the apocalyptic catastrophes and judgement
+that's surely coming. You can ignore it all you want or get caught up
+in the media frenzy. Or you could try listening to one person who's
+suffered this whole time to tell you want you needed to hear most.
+
 
 - so how is it that we come together? what do we do from here?
 - there will likely be no false flag or economic collapse. it will
@@ -1728,14 +1767,63 @@ now?
       against american interests.f
 
 
-### Billions of People Will Die In A Plan To Orchestrate Collapse, Simply to Shield Guilty-as-Hell Deep-State Actors
+<a name="how-do-you-stop-a-plan-to-orchestrate-collapse" />
 
-- how do you stop it? by doing the opposite of what these people hate:
-  spreading information around and making it as permanent as possible,
-  even if you have to print it out, laminate it and bury on the
-  Appalachain Trail.
+### [How Do You Stop A Plan To Orchestrate Collapse, Simply to Shield Guilty-as-Hell Deep-State Actors Who Want To Enrich Themselves For Eternity?](#how-do-you-stop-a-plan-to-orchestrate-collapse)
 
-### For The Global Elite, The Best Way To Handle, Mitigate and Explain The Emerging Chaos, Along With The Ensuing Blame To Be Cast, Is To Collapse the System
+You set yourself free with the truth. I'm not encouraging immediate
+action here. Since I've written about things like economic collapse,
+that may cause panic, even though I've stated: almost none of this is
+going to happen within the next decade. Furthermore, you can
+guarantee: if there's a systemic problem with the world economy and
+the right, powerful people know about it, they will seek to fix that
+as fast as they possibly can. Sometimes you can count on their greed.
+
+Instead, I want to encourage caching information in indestructable
+forms so that the people who *may be architecting* this have to fear
+the consequences when they realize that none of their duplicitous
+manipulations will work. The Dead Sea scrolls were hidden for two
+millenia, but if they had ever been found before the modern era, we
+would *NEVER* know what we do today. That is the appropriate response
+to these Deep State Actors. Let them assume command of this situation,
+while being terrified that, if they don't work as hard as they can to
+hold Spaceship Earth together, the whole world will know the truth,
+despite what happens in between. That's kinda what makes them tick
+anyways. They already operate under the assumption that everyone will
+tear them apart if they fail.
+
+Let them know: they can't hide the truth forever. And let humanity
+work as diligently and as intelligently *and as swiftly* as possible.
+We need the combined energy of everyone. We cannot waste what each and
+every one of us can contribute.
+
+And so how do you stop this? By caching this information and by making
+it as permanent as possible, even if you have to print it out,
+laminate it and bury on the Appalachain Trail. No plan like these
+could ever succeed ad infinitum without all of the architect's
+meticulous constructions falling on top of them if the people around
+the world know what actually happened and could not ever
+forget. Furthermore, we may find that we cannot destroy information
+relevant to the preservation of a false narrative, which is why so
+many long-held truths of history may find themselves overturned.
+Science may be able to prove otherwise, even though we don't know at
+the time that information relevent to overturning those narratives
+will be proveable.
+
+This is why people who fear God usually try their hardest to do the
+right thing: they believe God is watching everything they do and knows
+everything they think. So there's nothing they could get away with if
+they tried. Instead, their behavior is constrained to what is
+permitted by their belief system and they do not need to understand
+how they will be judged, but simply that they will be judged. Still,
+the truth is not always so simple: in order to understand what you
+believe you have to spend your entire life learning about your belief
+system and learning about life. If you ever stop learning about life,
+your beliefs and the people around you, you'll never truly understand.
+
+<a name="for-the-global-elite-the-best-way-to-handle-this-is-to-collapse-the-system" />
+
+### [For The Global Elite, The Best Way To Handle, Mitigate and Explain The Emerging Chaos, Along With The Ensuing Blame To Be Cast, Is To Collapse the System](#for-the-global-elite-the-best-way-to-handle-this-is-to-collapse-the-system)
 
 Instead, almost everyone just wants to shoot the messenger. The one
 with the message you need to hear. What you need to hear is NOT what
@@ -1784,11 +1872,12 @@ will be thanking your stars that someone like me ever existed.
     resources to set in motion plans which carry themselves out.
 
 
-
-More than anything, these überelite fear the contagion of information
-that disrupts their meticulous calculations, whose moral
-consequentialist ends are maintained as vague at best and unknown to
-nearly all. That is by design.
+So make the right information contagious: the information that
+guarentees that humanity will work together. More than anything, these
+überelite fear the contagion of information that disrupts their
+meticulous calculations, whose moral consequentialist ends are
+maintained as vague at best and unknown to nearly all. That is by
+design.
 
 This is why anyone who stands against them will be tested, then
 humiliated publicly, but only if they manage to make it far enough to
@@ -1798,7 +1887,7 @@ Dante's 9th Circle of Hell, their head will be encased in a block of
 ICE and they shall be buried alive, upside down. Not even memory of
 their identity shall remain.
 
-But please, keep in mind, not all banking family's are the
-same. No, one profits at the demise of others. There is vicious
-competition among the illuminati elite. AND NO "BANKING FAMILY" IS NOT
-A CODE PHRASE FOR JEWS, TATIANA.
+But please, keep in mind, not all banking family's are the same. No,
+one profits at the demise of others. There is vicious competition
+among the illuminati elite. *AND, NO, "BANKING FAMILY" IS NOT A CODE
+PHRASE FOR JEWS, TATIANA.*
