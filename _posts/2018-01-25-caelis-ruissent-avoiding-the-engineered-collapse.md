@@ -73,6 +73,8 @@ immemorial.
 
 #### &#664; [The Inherent Fallibility of Digital Information Storage Presents Both the Possibility For And The Incentivization for Targeted and Total Information Destruction](#the-inherent-fallibility-of-digital-information-storage)
 
+#### &#664; [The Need to Cover Up Crimes And Warcrimes By All Major Powers](#the-need-to-cover-up-crimes-and-warcrimes-by-all-major-powers)
+
 #### &#664; [Some State Actors Need to Destabalize the Interantional Human Rights Regime Before the Next Global Conflict](#some-state-actors-need-to-destabalize-the-international-human-rights-regime)
 
 #### &#664; [Nationality Law Begs Some Important Questions: If It Significantly Differs from Refugee Law, How and Why?](#nationality-law-begs-some-important-questions)
@@ -97,7 +99,7 @@ immemorial.
 
 #### &#664; [The Outlines of An Alternative International Financial Regime Run By The Chinese and Russians Are Already In Place](#the-outlines-of-an-alternative-international-financial-regime)
 
-#### &#664; (Energy and Resource Markets)
+#### &#664; [Energy And Resource Markets Give Rise To A Peak Oil Forever Scenario, If The Population Is Truncated](#energy-and-resource-markets-give-rise-to-a-peak-oil-forever-scenario)
 
 #### &#664; (cultural compaction 4 AI)
 
@@ -257,13 +259,14 @@ The food supply itself and the economic advantages we gain from wheat
 exports are both threatened by the looming spectre of a drought and a
 Second Dust Bowl. Why? The Ogallala Aquifer is drying up. One major
 consequence of climate change and global warming is that the ice and
-glaciers in the Colorado mountains will melt faster. These drain into
-the Ogallala acquifer, the vast reservoir without which all great
-plains farmland is devoid of moisture. That's right, no agriculture in
-America's breadbasket. Sound fun? NO! Right, water utilization levels
-exceed their replentishment rates. Those rates of replentishment are
-precisely determined by meltwater from the Rocky Mountains. No ice? No
-Glaciers? NO WATER.
+[glaciers in the Colorado mountains will melt
+faster](https://arstechnica.com/science/2018/01/many-glaciers-letting-rivers-run-low-others-are-falling-apart/). These
+drain into the Ogallala acquifer, the vast reservoir without which all
+great plains farmland is devoid of moisture. That's right, no
+agriculture in America's breadbasket. Sound fun? NO! Right, water
+utilization levels exceed their replentishment rates. Those rates of
+replentishment are precisely determined by meltwater from the Rocky
+Mountains. No ice? No Glaciers? NO WATER.
 
 This is why, when I pronounced the quasi-quasi-joke-religion that I
 started, I declared that the transplanar entity [Cxor Apache
@@ -473,14 +476,6 @@ therefore tormented psychologically because it must be important to
 someone. The problem: I could never tell who was psychologically
 tormenting me.
 
-<a name="the-need-to-cover-up-crimes-and-warcrimes-by-all-major-powers" />
-
-### [The Need to Cover Up Crimes And Warcrimes By All Major Powers](#the-need-to-cover-up-crimes-and-warcrimes-by-all-major-powers)
-
-- These crimes are hardly limited to one power or another
-  - this implies incentivization for the unforeseen destruction of
-    data, either targeted or total.
-
 <a name="some-state-actors-need-to-destabalize-the-international-human-rights-regime" />
 
 ### [Some State Actors Need to Destabalize the Interantional Human Rights Regime Before the Next Global Conflict](#some-state-actors-need-to-destabalize-the-international-human-rights-regime)
@@ -545,6 +540,93 @@ tactics you have -- AND kill it with fire. Make it public, so our
 enemies know they are strictly off limits and always will be. Make the
 whole idea of it **verboten**. These tactics have the potential to
 destabalize any large power, given access to the technology.
+
+<a name="the-need-to-cover-up-crimes-and-warcrimes-by-all-major-powers" />
+
+### [The Need to Cover Up Crimes And Warcrimes By All Major Powers](#the-need-to-cover-up-crimes-and-warcrimes-by-all-major-powers)
+
+These crimes are hardly limited to one power or another. I believe all
+superpowers share some level of guilt in violating sections of the
+Geneva Convention, whether those violations were outright, through
+some technicality or by tectonic shift in the international legal
+realm. Each power's actual level of exposure to warcrimes violations
+differs greatly from each other's apparently level of exposure, which
+has much to do with people's incentive and ability to both access and
+publish information about those regimes.
+
+One excellent way for these powers to clear the board, so to speak, is
+to attempt to erase information related to these crimes and their
+plans, especially that related to the cognizance of action. However,
+at least as it appears in the United States, many of these crimes are
+actually vigilante in nature, using fairly sophisticated communication
+protocols for obfuscation, decentralization and anonymization of
+action. When things occur this way, there is no evidence left behind,
+but sadly, anyone who tells you "we can stop this from happening to
+you" is *lying to your face*. And if they know how it works, they know
+they can't stop it, not immediately. They are trying to compel you to
+cooperate to spread that liability across the population.
+
+As mentioned above, when people were conned into these actions without
+understanding they were warcrimes, then they can continue to be goaded
+along to cover them up. When enough people become complicit in these
+crimes, the whole thing drives itself along. This is one of the most
+critical reasonings by making the penalties and prosecutions for
+warcrimes are so secretive and severe!
+
+In America, what I suspect is that many of these crimes have no
+record. Proving your actions may involve darkweb transactions. It
+seems to operate a bit like scalping: prove you hassled someone, get
+it on video (or whatever), prove it to a connection you've never met
+before IRL and get you some money. Spineless? Yes. Ignorant?
+Yes. Ethical? Perhaps for national security, but then again, do you
+actually know who's driving your actions or have you been conned from
+the start?
+
+An action can never be considered ethical if the actor avoids
+awareness of the consequences or if they just aren't capable of
+understanding how their actions effect their world. Truly, total
+knowledge of consequences is impossible, however -- ideal philosophy
+aside -- people who seek to avoid knowledge or understanding of their
+actions can never be considered to have acted ethically. With this in
+mind, in order to pursue ethical action, you can only work with strong
+connections whom you trust. Otherwise, you're simply a pawn. A pawn
+will never be more than a pawn. There for...
+
+Digitized records possess inherent fallibility that may open up these
+powers for warcrimes prosecution. Some states more than others, simply
+because they're democracies that facilitate free exchange of
+information. An all-too-specific specific example of the ironic
+consequences of the idealistic pursuit of free speech.
+
+However, if these records exist, they implies incentivization for the
+unforeseen destruction of data. Depending on how widespread it is,
+this may be either targeted deletion, physical destruction of
+information storage devices or total systemic disruption. Furthermore,
+what if every person you've ever lied to in digital communications one
+day became aware of all the games you played with them. What if data's
+tendancy is to become omnipresent, when individual, singular datums
+are not deleted or destroyed. By omnipresent, I mean that data becomes
+present everywhere, gradually losing all connection to the space or
+actor that created it. Those spaces or actors could be either physical
+or virtual.
+
+Albeit untenous and untested, this idea scares the shit out of world
+governments, corporations and even [career
+criminals](https://www.facebook.com/dconner.pro/media_set?set=a.10204224939180327.1073741838.1732883075&type=3). What
+if the NSA suddenly published every message you've ever written? What
+if every digital communication you've made was used to psychologically
+torture you? All while you couldn't comprehend how the data was making
+itself available to your tormentors?
+
+This idea of judgement via information omnipresence is all too similar
+to the idea of "judgement at the end" that's present in the
+eschatological myth so many world religions, though NOT identical. It
+is irresponsible to consider it identical to "divine judgement."
+However painful, we need to deal with the sins of the modern era,
+otherwise we will allow the worst of us to dominate humanity for
+eternity within a false paradigm.
+
+IT IS IMPORTANT FOR US TO CONSIDER NOW, REGARDLESS OF THE COST!
 
 <a name="nationality-law-begs-some-important-questions" />
 
@@ -1118,7 +1200,6 @@ that. It is quantum resistent ... After publishing this I think you'll
 find that some Bitcoin traders will need a new pair of pants. Its
 ... uhh essentially good for the Bitcoin market, eventually.
 
-
 So, the role that money provides eventually transitions into
 energy. Money actually represents one form of sociophysical potential
 energy: the potential to influence the decisions of others.
@@ -1224,7 +1305,6 @@ in anticipation to dominate the Heroin market to fund black ops
 worldwide. They've led us astray by using the greed of our wealthiest
 as a weapon.
 
-
 If my intuition serves me right, this will essentially be the same as
 getting trapped with high-debt during a deflationary crisis,
 especially if debts become rewritten in terms of a Bitcoin/dollar
@@ -1288,14 +1368,21 @@ paintings.
 > I realize exactly how radical and insensitive this sounds, but
 > *THERE WILL BE NOTHING ETHNIC ABOUT THIS*. I'm sorry: I do not mean
 > to say that what happened in 1930's Germany was acceptable. Read my
-> writing. Nothing America does can be successful if any of this
+> writing.
+>
+> Nothing America does can be successful if any of this
 > becomes framed in terms of ethnicity. Diversity is one of our
-> primary strengths. We cannot allow ourselves to become played
-> against one another. My point is, this is your chance to make sure
-> that it is obvious who and what you stand for. Regardless who you
-> are -- Donald Trump, Jay-Z, Mark Cuban, Carl Icahn, or Joe the
-> Plumber -- if you stand for BANC interests, then so be it. It's not
-> going to work out well for you.
+> primary strengths. Diversity forms the basis for "America #1 for
+> reals." because it is our source of moral superiority in a world
+> edge closer and closer to conflict which has been artificially
+> suppressed by international law for years. We cannot allow ourselves
+> to become played against one another.
+>
+> My point is, this is your chance to make sure that it is obvious who
+> and what you stand for. Regardless who you are -- Donald Trump,
+> Jay-Z, Mark Cuban, Carl Icahn, or Joe the Plumber -- if you stand
+> for BANC interests, then so be it. It's not going to work out well
+> for you.
 
 Data science will show who stands to gain from the fall of America. We
 can methodically identify who has postured themselves to this end. You
@@ -1344,11 +1431,120 @@ allow="autoplay; encrypted-media" allowfullscreen></iframe>
 > Now, if your a repenting former Marxist who has seen the error of
 > your ways, there's a party we'd love to invite you to.
 
-<a name="energy-and-resource-markets-give-rise-to-a-peak-oil-forever-scenario"
-/>
+<a name="energy-and-resource-markets-give-rise-to-a-peak-oil-forever-scenario" />
 
 ### [Energy And Resource Markets Give Rise To A Peak Oil Forever Scenario, If The Population Is Truncated](#energy-and-resource-markets-give-rise-to-a-peak-oil-forever-scenario)
 
+> This section sounds very complicated at first, but given the
+> pictures it should become much clearer, perhaps with a bit of
+> Googling. Abstract entropy and abstract enthalpy are very
+> complicated concepts for the everyday person to generalize, but the
+> pictures should explain everything.
+
+That economic forces we cannot control introduce potential
+incentivization for depopulation is just another ravine in the
+metaphysical leylines contributing downward pressure rapidly
+accelerate towards several of the scenarios outlined in this
+article. Truly understanding much of Nassir Taleb's work on convexity
+and concavity of systems will help in deciphering the previous
+statement. What we're fighting against is not human. It's basically
+fate, which has presented us with social life exhibiting alarming
+concavities to avoid and essential convexities to use as
+tools. Concavities pull you away from regions of stabalization.
+Convexities provide "leylines" that focus entropy against all odds,
+yielding enthalpy that focuses reality into certain forms.
+
+#### The Folding Funnel Demonstrates how Enthalpy Guides Protein Folding
+
+![Entropy vs. Enthalpy](/img/posts/2018-01-25-caelis-ruissent-avoiding-the-engineered-collapse/folding-funnel-enthalpy.jpg)
+
+Understanding the webs of paths -- the webs of worldlines -- that move
+us towards this set of predestined or preordained points is key to
+understanding the best path forward. If you have a materialist
+conception of metaphysics, you are inherently challenged in
+understanding the phenomena unfolding in front of you for anything
+except what they **appear** to be. However, nothing is simply what it
+is. Everything you can hold, every idea you've had has a story of
+where it came from, stories for each fiber or piece of the object,
+stories for how that idea translated itself into action and
+transformed the world.
+
+#### The Analogy of Leylines Illustrates the Shape that Guides the
+Potential "Worldlines"
+
+![Protein Folding and Metaphysical Leylines](/img/posts/2018-01-25-caelis-ruissent-avoiding-the-engineered-collapse/folding-funnel-destructured-paths.jpg)
+
+Given the same set of information, the "classical" materialist can
+only see the potential for divergence. Revising their understandings
+of the world, adjusting for the clearly improbably, then they begin to
+see the possibility for the invisible hand, for intelligent design and
+for everything else that they cannot explain. This is because their
+worldview only permits them to see systems as chaotic and divergent,
+where there is no inherent similarity between configurations: no
+symmetry of all things.
+
+They are very intelligent, but they are wrong. Furthermore, there are
+some among them who *do understand*, but want all the other moderately
+intelligent people to only believe materialistic conceptions of the
+world -- not for the sake of rationalism and science, but for the sake
+of profit. These materialistic heretics in sheeps clothing see the
+truth, but they do not want you to see the truth because confusion,
+discord and ignorance lowers total profit, by optimizing the diffusion
+of profit. From your misunderstanding of critical axioms, you never
+see what's right in front of you the whole time and you always
+miscalculating via *divergent* extrapolation, since *convergent*
+extrapolation is not a tool available to you. The people who stand to
+profit most from this are the ones who see it most clearly and hide it
+themselves, but work hardest to spread this misunderstanding.
+Understanding this means nothing if you do not have the social
+standing and wealth to posture yourself markets, so that you
+anticipate what no one else sees.
+
+  - greed to control the (economics of the 3rd millenia) may encourage
+    a handful of us to act against humanity's own best interests
+
+This is not to say that Oil companies will push us in this
+direction. In the past ten years, I've seen a lot of change from
+corporate America that indicates promising change in direction and I
+hope that it indicates a change in prevailing attitudes.
+
+You can't win if you try to fight economics head on or ignore it
+entirely. you have to use economics, but remember that your
+stewardship of wealth must be used for the advancement of all
+mankind. if you do not excercise your stewardship over that weatlh
+with that in mind -- and truly, with that altruistic desire to advance
+mankind with your wealth -- then someone else who better exemplifies
+this should seize your wealth.
+
+It is not the money that matters. money comes and money goes. if you
+bury it underground for 100 years, you might as well not have it. To
+me, money represents stored potential energy offered by vast wealth --
+this is potential energy for change. We must use it, but the groups
+with the clearest and most righteous vision for how it should be used
+for change should be in control of it.
+
+This set of beliefs is motivated by my understanding of Aristotle's
+virtues and of stoicism, a personally beloved system of philosophy. I
+am a stoic at heart. What matters to me is not your name, your place
+at birth, your family, your degree, or anything like that. I don't
+care if you are Marcus Aurelius or Epictetus. I care what motivates
+your actions, that you know why you do what you do, that you care to
+learn as much as you can about the world, that you work as hard as you
+can to move those around you forward, and that you are willing to
+suffer for what you believe in. Any aristocracy without adherence to
+stoic principles is not a just aristocracy, in the original sense of
+the term.
+
+To be sure, I am impressed by many of the changes i've seen in the
+rich over the past ten years, but taken aback by the total absence of
+acknowledgement of this from the left. We must continue moving in the
+correct direction. I also believe that total collapse might be the
+worst possible direction, especially since many of the forces we are
+battling with were always fated and simply are what they are,
+regardless of who is in charge. I'm worried that sociocultural
+destablization presented by technology and especially social media
+hack the systems of government and communication that have served
+America and the world so well for so long. This threatens everything.
 
 
 - describe how to extend peak oil forever. not just peak oil; peak
