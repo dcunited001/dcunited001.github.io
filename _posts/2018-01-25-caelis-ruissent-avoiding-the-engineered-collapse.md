@@ -101,7 +101,7 @@ immemorial.
 
 #### &#664; [Energy And Resource Markets Give Rise To A Peak Oil Forever Scenario, If The Population Is Truncated](#energy-and-resource-markets-give-rise-to-a-peak-oil-forever-scenario)
 
-#### &#664; (cultural compaction 4 AI)
+#### &#664; (Cultural Compaction 4 AI)
 
 #### &#664; (Sociocultural Convergence)
 
@@ -111,14 +111,15 @@ immemorial.
 
 
 
-# [TL;DR;](#tl-dr)
+## [TL;DR;](#tl-dr)
 
 #### &#664; [Too Long; Sounded Boring; Big Words; Trump Voter; Not a Communist; I Heard He Was A Racist](#too-long-sounded-boring-big-words-trump-voter)
 
-#### &#664; [How Do You Stop A Plan To Orchestrate Collapse, Simply to Shield Guilty-as-Hell Deep-State Actors Who Want To Enrich Themselves For Eternity?](#how-do-you-stop-a-plan-to-orchestrate-collapse)
+#### &#664; [How Do You Stop A Plan To Orchestrate Collapse, Simply to Shield Deep-State Actors Who Want To Enrich Themselves For Eternity?](#how-do-you-stop-a-plan-to-orchestrate-collapse)
 
-#### &#664; [For The Global Elite, The Best Way To Handle, Mitigate and Explain The Emerging Chaos, Along With The Ensuing Blame To Be Cast, Is To Collapse the System](#for-the-global-elite-the-best-way-to-handle-this-is-to-collapse-the-system)
+#### &#664; [You Will Be Thanking Your Stars That Someone Like Me Ever Existed...](#you-will-be-thanking-your-stars-that-someone-like-me-ever-existed)
 
+#### &#664; [So Where Do We Go From Here? How Is It That We Come Together?](#so-where-do-we-go-from-here)
 
 <a name="whose-belied-adumbrations-starkly-contrast-their-eminence" />
 
@@ -1738,38 +1739,9 @@ that's surely coming. You can ignore it all you want or get caught up
 in the media frenzy. Or you could try listening to one person who's
 suffered this whole time to tell you want you needed to hear most.
 
-
-- so how is it that we come together? what do we do from here?
-- there will likely be no false flag or economic collapse. it will
-  actually be the #GreatAwakening. the event your worried about is
-  simply something to be nervous about. when people actually wake up
-  to what's happened, it will be a catalyst to america's benefit. the
-  far-leftist opposition will collapse as the "less visible"
-  leadership who's been acting behind the scenes will no longer stand
-  behind a movement which is not "in vogue" ... again, for the
-  leftists behind the scenes running "community" action -- half their
-  leadership will disappear because they don't want to be left holding
-  the bag. the other half will be left holding the bag. their actual
-  leftist movement will come running as this catalyst for awakening
-  rips through their movement and they all realize what just ALMOST
-  happened....
-  -  a small portion of their leftist movement will be left to be
-     cannibalized by itself, so the new #RightCenter can be sure none
-     of these most radical architects want to stick their necks out
-     for a while. it might be chaotic. i don't know
-
-  - once the TRUTH is in place, their narrative is destroyed. THEY
-    HAVE NO INCENTIVE TO ACT AT THIS POINT. It sounds crazy, but any
-    of them that act will be seen as traitors. instead they will come
-    fleeing to our side. I swear to God. I think you've heard "Be
-    ready for them, with open arms."
-    - we only need to find the ones who were without a doubt aligned
-      against american interests.f
-
-
 <a name="how-do-you-stop-a-plan-to-orchestrate-collapse" />
 
-### [How Do You Stop A Plan To Orchestrate Collapse, Simply to Shield Guilty-as-Hell Deep-State Actors Who Want To Enrich Themselves For Eternity?](#how-do-you-stop-a-plan-to-orchestrate-collapse)
+### [How Do You Stop A Plan To Orchestrate Collapse, Simply to Shield Deep-State Actors Who Want To Enrich Themselves For Eternity?](#how-do-you-stop-a-plan-to-orchestrate-collapse)
 
 You set yourself free with the truth. I'm not encouraging immediate
 action here. Since I've written about things like economic collapse,
@@ -1821,9 +1793,11 @@ believe you have to spend your entire life learning about your belief
 system and learning about life. If you ever stop learning about life,
 your beliefs and the people around you, you'll never truly understand.
 
-<a name="for-the-global-elite-the-best-way-to-handle-this-is-to-collapse-the-system" />
+<a name="you-will-be-thanking-your-stars-that-someone-like-me-ever-existed" />
 
-### [For The Global Elite, The Best Way To Handle, Mitigate and Explain The Emerging Chaos, Along With The Ensuing Blame To Be Cast, Is To Collapse the System](#for-the-global-elite-the-best-way-to-handle-this-is-to-collapse-the-system)
+### [You Will Be Thanking Your Stars That Someone Like Me Ever Existed...](#you-will-be-thanking-your-stars-that-someone-like-me-ever-existed)
+
+#### ... And I Hope You Activate the Potential For Every Person To Be As Great As Any Of Us Could Ever Be
 
 Instead, almost everyone just wants to shoot the messenger. The one
 with the message you need to hear. What you need to hear is NOT what
@@ -1831,46 +1805,137 @@ you want to hear! Deal with it because this is real. It's not going
 away: it hasn't come to pass yet, but it will. When it happens, you
 will be thanking your stars that someone like me ever existed.
 
-- TODO: more here. why does systemic collapse check all the boxes for
-  these people?
+These shadowy powers that be are the people that have moderately
+controlled the evolution of language. They have have architected
+history: the pattern of myths that establish the base paradigms of our
+collective narratives for explaining who we are and how we got to
+where we are. Regardless of where we live, we all have a collective
+story for how we got there and this narrative motivates our
+actions. Stories in history are like patterns for sewing clothes: each
+one provides a convenient basis by which we compare not only heroes,
+pariahs and demagogues, but ourselves and each other.
 
-- these are the people that have moderately controlled the evolution
-  of language. They have have architected history: the pattern of
-  myths that for the base paradigms of our collective narratives for
-  explaining who we are and how we got to where we are. Regardless of
-  where we live, we all have a collective story for how we got there
-  and this narrative motivates our actions. Stories in history are
-  like patterns for sewing clothes: each one provides a convenient
-  basis by which we compare not only heroes, pariahs and demagogues,
-  but ourselves and each other.
-  - What does the illuminati do to people they detest? They freeze
-    them in carbonite, so to speak. If you actually manage to make
-    waves, you become frozen into history after death, completely
-    unable to control the evolution of your narrative, which is
-    partially what men fear so much that makes the idea of heaven so
-    appealing. Regardless of whether it's real or not, heaven is an
-    idea of the place you spend for eternity, if you only believed in
-    the vision of Jesus Christ. It the idea itself at least has
-    power. Men fear how their stories will play out after their lives,
-    since they'd have no power against their enemies to sew them into
-    narratives and dominate the tellings of their stories.
-    - *In my own interpretation*, those who rot in hell are forgotten
-      because, to the church, these people did not stand for what was
-      critical: the collective, geopoltical self-defense of Europe or
-      its expansion into the New World. Those who ascend to heaven are
-      instead preserved, but collectively coupled to the image of
-      Jesus Christ forever. This is a magnificent fate, compared to
-      the obliviation of Hell.
-  - Hell is not always a literal obliviation. If you piss off people
-    who are powerful enough, your image and identity will spend
-    eternity as a pattern for a story in which you are hardly the
-    hero. Instead you are the fool or the pawn who is to be hated and
-    detested for eternity, whose story is to be propagated by the
-    occult as long as possible.
-  - See why I might be a little pissed off? Who stands to defend
-    themselves most, after death? Those with the social and financial
-    resources to set in motion plans which carry themselves out.
+What does the illuminati do to people they detest? They freeze them in
+carbonite, so to speak. If you actually manage to make waves, you
+become frozen into history after death, completely unable to control
+the evolution of your narrative, which is partially what men fear so
+much that makes the idea of heaven so appealing. Regardless of whether
+it's real or not, heaven is an idea of the place you spend for
+eternity, if you only believed in the vision of Jesus Christ. It the
+idea itself at least has power. Men fear how their stories will play
+out after their lives, since they'd have no power against their
+enemies to sew them into narratives and dominate the tellings of their
+stories.
 
+*In my own interpretation*, those who rot in hell are forgotten
+because, to the church, these people did not stand for what was
+critical: the collective, geopoltical self-defense of Europe or its
+expansion into the New World -- in addition to the values systems of
+Christianity, of course. Those who ascend to heaven are instead
+preserved, but collectively coupled to the image of Jesus Christ
+forever. This is a magnificent fate, compared to the obliviation of
+Hell.
+
+Hell is not always a literal obliviation. If you piss off people who
+are powerful enough, your image and identity will wander for eternity,
+forming the basis of a pattern for a story in which you are hardly the
+hero. Instead you are the fool or the pawn who is to be hated and
+detested for eternity, whose story is to be propagated by the occult
+as long as possible. See why I might be a little pissed off? Who
+stands to defend themselves most, after death? Those with the social
+and financial resources to set in motion plans which carry themselves
+out.
+
+<a name="so-where-do-we-go-from-here" />
+
+### [So Where Do We Go From Here? How Is It That We Come Together?](#so-where-do-we-go-from-here)
+
+Obviously, the potential for damage to have been done is incalculable.
+However, we are positioned to root out people who are using government
+as a tool for their own self interests as well as those who would see
+America burn in economic ruin if BANC ever came to be. Best of all,
+against all odds and despite the starkly contrast of our current
+reality, the American people are more ready than ever to come
+together. It might not seem this way now. However, given the right
+course of events and given that enough people in our country choose
+self-preservation and patriotism over petty ideological arguments --
+we are truly closer than ever in being united at the most critical
+time in history. The right set of actions must come to pass, serving
+as a keystone to unite the American people, so that we can focus our
+energy outwards, instead of succumbing to domestic tensions. We must
+do this or we fail. Another lesson we must learn: never give up.
+
+There are rumors of false flag attacks or economic collapse triggering
+martial law. Neither of those are likely to occur at the moment. The
+event you should be worried about is not something to fear, but a
+period through which to proceed with caution. It is a great awakening,
+where people acknowledge what is happening, some people are targeted
+as having attempted architecting the economic demise of America, and
+there is some tension that plays out as a result of the division we've
+seen in the last 10 or so years.  Fortunately, hen people actually
+wake up to what's happened, it will be a catalyst to America's benefit
+because it must be -- otherwise failure and collapse is assured.
+
+For the far-leftist opposition, their leadership will collapse: the
+less visible leadership of "architects" who has indirectly been acting
+behind the scenes will no longer stand behind a movement which is not
+"in vogue" ... Instead they will seek to get out of the way as fast as
+possible like the rats they are. Again, for the leftists behind the
+scenes *designing* the implementation of this "community" action --
+i.e. all the passive aggressive toxicty of our cities and all the
+indirect targeting of citizens -- that less-visible half of their
+leadership will disappear because they don't want to be left holding
+the bag. These are the people that are going to be hard to find, but
+these are the ones who need to be punished.
+
+The more public half will be left holding the bag. These are the
+elected representatives and more visible, public community leaders who
+were lead by their intent to improve their lives, but deceived into
+harming America. While this segment of leadership may be more visible,
+it's more important to convert them and win their support, while
+testing the authenticity of their change in action. Once the average
+person realizes what has happened, even if they are moderate leftists,
+they will come running as this catalyst for awakening rips through
+their movement. The radicals will simply be running scared and will
+not seek attention.
+
+When people in the public all realize what just *ALMOST* happened,
+then you can guarantee that they will support the side who serves
+their best interests. And that is the American side, not Republican or
+Democrat or Conservative or Liberal. When the public at large realizes
+that the archtected economic collapse certainly meant that the bottom
+would fall out, the poor would have had it worse than ever AND they
+had been strung along by deceitful radicals the whole time: you can
+count on their support. Simply relate to them that no economy means no
+benefits, no welfare, no medical care, no coverage and that these
+architects *wanted* that, but that the people who intended that were
+*not* the public leaders they looked up to.
+
+Then, a small portion of their leftist movement will be left to be
+cannibalized by itself, so the new right-center can be sure none of
+these most radical architects want to stick their necks out for a
+while. Again, it's a period of time where caution must be exercised
+and it will certainly be a little chaotic.
+
+How do I know this? Once the *TRUTH* is in place, then the architects'
+precious anti-bourgeoisie narrative is destroyed *AND CAN NEVER BE
+RECOVERED*. Just like how the stage was set before Napolean fired
+those fateful blasts of grapeshot, the American people are sick of
+seeing these Robespierrian witchhunts. We all know it's bad. We're
+ready for something different. Now that their retro-narrative
+justifying future cultural revolution is destroyed, they have no
+incentive to act: they would simply bring everything falling on top of
+them after gaining power *because they will know that the public will
+find out and there's nothing they can do about it* It sounds crazy,
+but any of them that act at this point, they will surely will be seen
+as traitors.
+
+So instead they will come fleeing to our side. I swear to God. I think
+you've heard "Be ready for them, with open arms." We only need to find
+the ones who were without a doubt aligned against american
+interests. We do not seek to punish or villify those who only wanted
+to support the poor and struggling, but those who would sacrifice the
+economy for a deceptive gambit to gain power.
 
 So make the right information contagious: the information that
 guarentees that humanity will work together. More than anything, these
