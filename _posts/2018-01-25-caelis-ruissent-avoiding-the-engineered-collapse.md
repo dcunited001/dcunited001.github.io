@@ -101,7 +101,9 @@ immemorial.
 
 #### &#664; &#8968;xviii&#8969; [Energy And Resource Markets Give Rise To A Peak Oil Forever Scenario, If The Population Is Truncated](#energy-and-resource-markets-give-rise-to-a-peak-oil-forever-scenario)
 
-#### &#664; &#8968;xix&#8969; (Cultural Compaction 4 AI)
+#### &#664; &#8968;xix&#8969; [Destroying Most Humans Makes Cultural Data More Digitally Compact For AI](#destroying-most-humans-makes-cultural-data-more-digitally-compact-for-ai)
+
+
 
 #### &#664; &#8968;xx&#8969; (Sociocultural Convergence)
 
@@ -1483,8 +1485,7 @@ where it came from, stories for each fiber or piece of the object,
 stories for how that idea translated itself into action and
 transformed the world.
 
-#### The Analogy of Leylines Illustrates the Shape that Guides the
-Potential "Worldlines"
+#### The Analogy of Leylines Illustrates the Shape that Guides the Potential "Worldlines"
 
 ![Protein Folding and Metaphysical Leylines](/img/posts/2018-01-25-caelis-ruissent-avoiding-the-engineered-collapse/folding-funnel-destructured-paths.jpg)
 
@@ -1514,8 +1515,13 @@ Understanding this means nothing if you do not have the social
 standing and wealth to posture yourself markets, so that you
 anticipate what no one else sees.
 
-  - greed to control the (economics of the 3rd millenia) may encourage
-    a handful of us to act against humanity's own best interests
+### The Wheel of Time And it's Sinosoidal Ouroborosian Symbology
+
+![The Wheel of Time](/img/posts/2018-01-25-caelis-ruissent-avoiding-the-engineered-collapse/wheel-of-time.jpg)
+
+Greed to control economic and financial imperatives of the 3rd
+millenia may encourage a handful of us to act against humanity's own
+best interests.
 
 This is not to say that Oil companies will push us in this
 direction. In the past ten years, I've seen a lot of change from
@@ -1692,7 +1698,8 @@ away from every debate opportunity like an ostrich with its head cut
 off. Not see that, you assholes. How are you going to disconnect me
 now?
 
-### &#8968;&#8969; Destroying Most Humans Makes Cultural Data More Digitally Compact For AI
+### &#8968;xix&#8969; [Destroying Most Humans Makes Cultural Data More
+Digitally Compact For AI](#destroying-most-humans-makes-cultural-data-more-digitally-compact-for-ai)
 
 - some of the academic elite might try to justify such a global
   collapse as an attempt to avoid a destroy-all-humans scenario
@@ -1701,7 +1708,8 @@ now?
     energy.
 
 
-### &#8968;&#8969; Sociocultural Convergence And Spectral Decoherence Accruing and Proceeding at Paradoxically The Same Time
+
+### &#8968;xx&#8969; Sociocultural Convergence And Spectral Decoherence Accruing and Proceeding at Paradoxically The Same Time
 
 -
 
@@ -1711,7 +1719,7 @@ now?
     opportunity for something new to emerge or it at least opens up
     the opportunity for something to fill the void
 
-### &#8968;&#8969; We Need Universal Language For Cultural Compactification. This is Hard With Seven Billion People and No Hard Reset
+### &#8968;xxi&#8969; We Need Universal Language For Cultural Compactification. This is Hard With Seven Billion People and No Hard Reset
 
 - it will begin to happen after people try to make sense of the
   sociocultural chaos
@@ -1855,6 +1863,22 @@ people creating prosperity on Wall Street -- and quite often
 developing a criminal level of greed -- we'd be alot better served if
 you'd go briefly *Occupy* a recruitment office.
 
+#### "I fear all we have done is to awaken a sleeping giant and fill him with a terrible resolve." - Isoroku Yamamoto
+
+> "Unjust war is to be abhorred; but woe to the nation that does not
+> make ready to hold its own in time of need against all who would
+> harm it! And woe thrice over to the nation in which the average man
+> loses the fighting edge, loses the power to serve as a soldier if
+> the day of need should arise!" - Theodore Roosevelt
+
+We are rapidly losing the military-technological edge that gives us
+the deterrence that counterintuitively leads to peace. When we lose
+the economy, we will lose the ability to fight a war. Bringing about
+the revolution you've wanted to for so long will only bring this
+nation to its knees. You will lose all your social programs along with
+our nominal or financial independece. And your freedoms? You can
+forget about those, if we lose ground in foreign policy imperatives.
+
 And if you have a problem with my level of general intelligence, I
 have some bad news: I'm just the first of millions like me who always
 would have emerged at this point in history. You don't even know what
@@ -1941,11 +1965,8 @@ actions. Stories in history are like patterns for sewing clothes: each
 one provides a convenient basis by which we compare not only heroes,
 pariahs and demagogues, but ourselves and each other.
 
-
-- I've revealed (nothing). everything always would have been revealed
-  at the end
-  - ![awokened a slumbering monster]
-
+The truth is, the individual that I am has revealed almost nothing
+that was always preordained to be revealed at the end.
 
 What does the illuminati do to people they detest? They freeze them in
 carbonite, so to speak. If you actually manage to make waves, you
