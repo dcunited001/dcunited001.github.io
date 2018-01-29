@@ -177,3 +177,106 @@ No one in my family or life was concerned at all about:
 - finding out what had happened to me
 - or even hearing my story, like all facts of my life are classified
   information
+
+
+
+## Questions - recorded shortly after "The EV3NT"
+
+#### How did Bobby get away?
+
+> i now know the answer to this
+
+- how fast did other salem units respond to the scene
+
+
+#### How long does it take to walk from the edge of my driveway to the point of intersection by police
+
+- i.e. the point at which we initially crossd paths, which was in
+  front of the white house on the hill on N. Market Street (around the
+  point of the sidewalk)
+- i'm guessing the amount of time required for this distance at
+  walking speed is very close to the amount of time required to drive
+  from the police station and up market street to intercept us.
+  - still, i do not believe it was the Salem City police who set this
+    up. instead, i believe someone signalled to the police by dialing
+    911 as we left my driveway.
+  - i suspect that Bobby was trying to signal to his sister, so she
+    could signal to the police (either indirectly or directly by
+    calling 911)
+    - she was on the phone with him the whole time until we
+      encountered police, which i believe was to ensure that Bobby
+      would have my phone after this all went down
+    - his sister also knew certain details about the police encounter,
+      which were critical in helping me form my understanding of how
+      he got away from them. I still do not believe her, per se
+      (i.e. just because)
+
+#### did someone make a 911 call for which Phillip was dispatched to the scene from the Salem PD HQ?
+
+- my mom did say that someone called 911 which was why the encounter
+  happened in the first place
+  - if this is true, then someone could have called the police when we
+    left my driveway. however, bobby had been standing in my driveway
+    for approx 45 minutes
+    - because i had smoked weed and my mind was scattered
+    - i was trying to gather all my stuff
+
+#### Why was bobby willing to tolerate standing in the driveway for so long?
+
+#### Why did bobby say we were going to get a "drink" "from sheetz"?
+
+- when he knew that i had absolutely no money (i dont think i even had
+  $5) it didn't make sense
+
+#### Why did bobby make statements about his bookbag being broken or hoping that the zipper wasn't going to break?
+
+- this is relevant because after the police encounter, the zipper was
+  broken on my bookbag. it's yet another potential example of him
+  applying my own ideology & methods for approaching situations w/
+  event-driven, atemporal undrerstandings of how they will play out.
+
+#### why did bobby try to give me a vaporizer (without a battery)
+
+
+
+#### why did bobby "drop" his vape juice and other items at the scene?
+
+- i found this the day afterwards. if i hadn't seen it laying in the
+  road (i didn't touch it whatsoever) then i wouldn't have tried to
+  search the scene.
+  - i searched the scene and he had "dropped" some things as he was
+    "running" that acted as a trail of breadcrumbs for me to follow
+  - since (1) it was so obvious
+    - and (2) the probability that i'd follow that trail was like 99%
+      - why? since i live on the street, walk to the coffee shop every
+        day and couldn't possibly not see the vape juice on the road
+        and remember the
+    - , i don't actually accept that these
+    were dropped naturally, but that the were intended
+
+#### *IF* all of this IS a conspiracy (either organized crime or non-salem police)...
+
+- then how could it possibly have been so sophisticated?
+
+#### why did bobby get a SECOND mcdonalds cup for tea after i threw the original one away?
+
+- i threw the first one away and damaged it when i threw it in the
+  trash. this was early in the morning (i think?) before everything
+  had happened
+- this is relevant because i found the SECOND mcdonalds cup in the
+  creek. jumping to conclusions here, but why would he need to get the
+  second one?
+
+#### when bobby's sister contacted me at 4:00am on 12/23, Why did she seem most concerned about how i would talk about the scenario
+
+- and, if she was phishing for information to relay to bobby, then why
+  would this all be so well-organized?
+
+#### what did bobby do with the second bag of drugs that was so conveniently left on the floor approx 30 minutes before we left?
+
+- in other words, was his original plan to encourage police to chase
+  him back to my house?
+  - relevent because i have a device that helps me take drugs
+    responsibly, which looks incredibly sketchy.
+  - *before* this all went down, i woke up to my mom "discovering"
+    this device as she was searching my stuff.
