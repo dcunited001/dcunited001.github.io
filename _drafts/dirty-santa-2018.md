@@ -237,7 +237,8 @@ No one in my family or life was concerned at all about:
 
 #### why did bobby try to give me a vaporizer (without a battery)
 
-
+- he did this right before justin left. they were supposedly leaving
+  together.
 
 #### why did bobby "drop" his vape juice and other items at the scene?
 
@@ -257,6 +258,107 @@ No one in my family or life was concerned at all about:
 #### *IF* all of this IS a conspiracy (either organized crime or non-salem police)...
 
 - then how could it possibly have been so sophisticated?
+- i'm sorry, regardless of why this happened or who set it in motion,
+  this was incredibly fucked up and way below the belt
+
+#### why did bobby intentionally leave himself logged into my PS4?
+
+- bobby reviewed his active facebook sessions in front of me on
+  thursday 12/21!! he was concerned about sessions he saw that were
+  logged in from Philadelphia and other cities.
+  - if he knew that you could check for active facebook sessions, then
+    why did he act like "he knew" that he ended the facebook session
+    when he closed the tab on the PS4 browser?
+  - he was a real smartass about this, by the way.
+    - i was trying to log it out for him, since he forgot to do
+      it. and he was like "here let ME show you how to do it! [dumbass
+      technology idiot]" lol i think he was faking it.
+
+#### would he have wanted me to have access to his FB messages if he was throwing me at the police? why?!!
+
+- after this all happened, multiple people connected to it accused ME
+  of "being *the* narc" or being a narc.
+  - was bobby trying to set me up to take the fall for investigations
+    he was working? how is that not reallllly fucked up for a
+    narcotics officer or snitch?
+
+#### Was bobby a narc or snitch or was he affiliated with the police at all? and if so, why was he stealing shit in my neighborhood and leaving stolen goods at my HOUSE without telling me?
+
+- this is critical. i want to know why people were sent against me and
+  why i was left broken after having my trust betrayed.
+  - i didn't trust bobby completely, but i was hoping to form a
+    connection over a short period of time, so i could help orient him
+    in the correct direction.
+  - i soon began to suspect a trap. something didn't feel right. it
+    felt like he and other people were LARP'ing certain situations.
+- bobby indicated knowledge of statements i'd made to myself AND of
+  statements i *allegedly* made to Tatiana Maslany....
+  - again, how is it that soooo many people know about that?
+  - and why is it that when people know about that, they always gain
+    my trust to pull me in and stab me in the back.
+  - to be certain, i'm not saying she had something to do with this
+    because that's ludicrous. i'm saying he indicated knowledge of
+    those "conversations" -- which is awfully strange if they never
+    happened at all.
+
+#### When bobby and roger were "running from the police" the night they showed up at my house, was that all an act?
+
+- BECAUSE I THINK IT WAS AND I ALWAYS THOUGHT IT WAS
+- regardless, roger displayed profound *muted* insight of psychology
+  and the shark-like predatory nature of a born-and-bred criminal
+  - when he stayed one night and one day at my house, there were times
+    he pointed the phone at me for long periods of time with his arm
+    outstretched.
+    - like 5 - 10 minutes at a time. long enough for his arm to get
+      tired
+    - i would turn around and he'd move the phone two inches (to cover
+      his eyes so i wouldn't notice that he wasn't watching me from
+      behind the phone)
+- if he and bobby were stealing shit from my neighborhood (literally
+  shitting where they slept)
+  - then why didn't they steal high-value items from me (only little
+    things) and why didn't they steal from my mom or *ever* venture
+    upstairs?
+    - i was actively watching their locations the whole time and
+      staying close, which was annoying as fuck bc i felt like i was
+      babysitting people i couldn't trust. also, it probably doesn't
+      send off positive vibes if i clearly didn't trust them
+
+#### Why did bobby steal the single adderall from my prescription bottle?
+
+- i knew that he did it AS he did it because i watched him look at
+  roger, while both bobby's field of view and mine were mutally
+  obscured by the white pillar.
+  - that is, he knew that i couldn't see him and was too stupid to
+    realize that i knew exactly what he was doing because of the
+    proximity to his departure time AND his location, coupled with the
+    orientation of his body.
+  - further, i determined that i could neither trust him or roger
+    because i watched roger's face as bobby opened my pill bottle and
+    roger didn't say shit about it.
+    - this was complementary to the disrespect that roger showed me
+      for 2 or so hours after we originally met (bobby didn't tell me
+      he was bringing roger)
+      - again, the disrespect was pointed and psychologically
+        tactical. i knew this. roger was trying to front hard, stunt
+        and see if i'd feel threatened. i never feel threatened
+        because i know people's minds.
+      - instead i signal a null response because i'm more interested
+        in seeing how much of it you'll do.
+     - no offense. quite often, i'm wrong. another great reason to
+       wait it out and see.
+
+#### why did bobby show up in my life again the exact day i got the refill on my adderal?
+
+- again, i'm not stupid. you stole the single adderal that i had been
+  saving for two months in case i needed it to be analyzed for being
+  manufactured by a compounding pharmacy
+  - it doubled as an indicator: could i trust the person in my house?
+    - NOPE. apparently not. it was adderal well spent. i learned that
+      i couldn't trust either of you and to never trust either of you
+      again.
+    - what do i do to people i don't trust? i bring them in closer to
+      find out who poisoned them against me or sent them against me.
 
 #### why did bobby get a SECOND mcdonalds cup for tea after i threw the original one away?
 
