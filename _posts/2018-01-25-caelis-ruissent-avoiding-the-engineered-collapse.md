@@ -1798,7 +1798,7 @@ economic stablity.
 > Denarius symbol was homoglyphically linked to the three-axis pilam
 > muralis structure to evoke an esoteric metaphor.
 
-![Roman Fortifications](/img/posts/2018-01-25-caelis-ruissent-avoiding-the-engineered-collapse/pila-murialis.jpg)
+![Roman Fortifications](/img/posts/2018-01-25-caelis-ruissent-avoiding-the-engineered-collapse/pila-muralis.jpg)
 
 By the time America was established, the point at which fiat currency
 would be needed could likely be *measured*, with some assumptions on
