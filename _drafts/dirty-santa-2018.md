@@ -182,12 +182,41 @@ No one in my family or life was concerned at all about:
 
 ## Questions - recorded shortly after "The EV3NT"
 
+- if you want to conspire against me, go right ahead. i have plenty of
+  experience in this department. i bide my time, bait you into lying
+  and flip my cards one at a time.
+  - DO NOT FUCK WITH ME. Do you understand? Leave me the fuck alone.
+  - it's pretty sad that these people fucking with me have
+    surveillance and are nothing other than blinded by it.
+    - how is it that i have no access to such information, yet i keep
+      wooping y'alls asses over and over again.
+    - as sick as I am with these dumb little word games:
+      - y'all "SEE" everything
+      - I do "NOT SEE" anything
+      - and i keep wooping your asses over and over again. why?
+        - because i don't need to see to know.
+        - it has nothing to do with your dumb little word games.
+        - i simply leverage:
+          - all senses,
+          - all memories,
+          - all intuitions
+          - and all methods of knowing simultaneously.
+          - i strengthen each avenue intentionally.
+          - most critically, i strengthen METACOGNITION
+    - but to you, what is this about? is it a political witchhunt?
+      why? AND WHY THE FUCK DO YOU COWARDS HAVE TO ESSENTIALLY SHOOT
+      SOMEONE IN THE BACK?
+
+- i just want to be left alone. i don't hate you. i will stand up for
+  myself. but i don't hate anyone. i never have. and as hard as you
+  try, you can never make me hate anyone
+  - .... except communists. i guess i hate communists. i wonder, why?
+
 #### How did Bobby get away?
 
 > i now know the answer to this
 
-- how fast did other salem units respond to the scene
-
+- how fast did other salem units respond to the scene?
 
 #### How long does it take to walk from the edge of my driveway to the point of intersection by police
 
@@ -382,3 +411,67 @@ No one in my family or life was concerned at all about:
     responsibly, which looks incredibly sketchy.
   - *before* this all went down, i woke up to my mom "discovering"
     this device as she was searching my stuff.
+
+#### Where was bobby expecting me to run, if I wasn't immediately caught?
+
+the police DID come back to my house and briefly searched
+    *around* it, for signs of bobby.
+
+#### Bobby brought a flashlight with him. why?
+
+- Flashlights bring attention to you, especially at night
+- it was one of the first things that Phillip asked me about
+  - Bobby and I both had flashlights
+  - i felt like bobby used suggestion on me to encourage me to get the
+    flashlight on my desk that had been there since before Thursday
+    12/21.
+    - if so, why?
+  - philip immediately suspected that we were breaking into cars
+    (which i imagine was reported via a 911 call ... or at least
+    suspected by the caller)
+  - however, having flashlights doesn't make sense if someone is
+    breaking into cars. it DRAWS attention to you. so, unless you want
+    people to *think* you're breaking into cars, you're not going to
+    carry a flashlight.
+
+
+#### Why did bobby know how to use psychological & NLP techniques like suggestion and "priming"?
+
+- and how would he know how to use psychological suggestion tactically
+  like that? who trained him to do that? who the fuck advised him
+  through this? that's what is driving me crazy right now. i only felt
+  threatened because of what i recognized, which i also knew that
+  Bobby *couldn't know how to use tactically and methodically*
+  - like, he might know how to use those techniques, but not in that
+    way, not in such a well-coordinated manner towards the objectives
+    in some strategy.
+  - he used these techniques at least 10 or 20 times that i
+    detected. they are very subtle. again, i usually see how someone
+    is going to attempt to use these on me.
+    - i don't try to stop them, at first, but i become aware of it
+      happening. not a tactic i'd recommend to other people though.
+      - i merely act like i react in the way they would expect me to
+        react. i do this repeatedly if i feel threatened, particularly
+        by psychological techniques
+      - instead of repelling me, threats intrigue me, since i'm overly
+        confident AND i'm cornered (bored, in extreme emotional
+        distress with nothing better to do)
+
+- priming works just like it does for a lawnmower, psychologically and
+  neurologically. you are literally PRIMING specific circuits to fire
+  again soon.
+  -
+
+#### How did bobby know to hide in the tunnel at Roanoke College?
+
+- how did he know it was there and that he could use it?
+- when i inspected the scene the next day, i found foot prints. in
+  cold weather, footprints are easy to identify in average grass,
+  as long as the person was running.
+  - the weather was so cold that
+  - this tunnel apparently connects to the other side of campus
+
+#### Did bobby's sister pick him up at the other side of the tunnel?
+
+
+####
