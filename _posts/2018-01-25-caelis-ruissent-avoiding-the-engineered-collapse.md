@@ -65,63 +65,63 @@ immemorial.
 
 ## [Whose Belied Adumbrations Starkly Contrast Their Eminence](#whose-belied-adumbrations-starkly-contrast-their-eminence)
 
-#### &#664; [Imaging Technology and Computational Medicine Imply Trillions in Collective Liabilities From An Accurate, Irrefutable Assessment of Psychiatry's Insane Costs and Benefits](#imaging-tech-and-computational-medicine)
+#### &#664; &#8968;i&#8969; [Imaging Technology and Computational Medicine Imply Trillions in Collective Liabilities From An Accurate, Irrefutable Assessment of Psychiatry's Insane Costs and Benefits](#imaging-tech-and-computational-medicine)
 
-#### &#664; [Cost of Medical Care and UBI, Along With A Failing Food Supply](#cost-of-medical-care-and-ubi)
+#### &#664; &#8968;ii&#8969; [Cost of Medical Care and UBI, Along With A Failing Food Supply](#cost-of-medical-care-and-ubi)
 
-#### &#664; [The Use of Psychological And Neurological Warfare To Suppress Dissidents, for CIA Mockingbird 2.0 and to Cover up Inconvenient Truths](#the-use-of-psychological-and-neurological-warfare-to-suppress-dissent)
+#### &#664; &#8968;iii&#8969; [The Use of Psychological And Neurological Warfare To Suppress Dissidents, for CIA Mockingbird 2.0 and to Cover up Inconvenient Truths](#the-use-of-psychological-and-neurological-warfare-to-suppress-dissent)
 
-#### &#664; [The Inherent Fallibility of Digital Information Storage Presents Both the Possibility For And The Incentivization for Targeted and Total Information Destruction](#the-inherent-fallibility-of-digital-information-storage)
+#### &#664; &#8968;iv&#8969; [The Inherent Fallibility of Digital Information Storage Presents Both the Possibility For And The Incentivization for Targeted and Total Information Destruction](#the-inherent-fallibility-of-digital-information-storage)
 
-#### &#664; [The Need to Cover Up Crimes And Warcrimes By All Major Powers](#the-need-to-cover-up-crimes-and-warcrimes-by-all-major-powers)
+#### &#664; &#8968;v&#8969; [The Need to Cover Up Crimes And Warcrimes By All Major Powers](#the-need-to-cover-up-crimes-and-warcrimes-by-all-major-powers)
 
-#### &#664; [Some State Actors Need to Destabalize the Interantional Human Rights Regime Before the Next Global Conflict](#some-state-actors-need-to-destabalize-the-international-human-rights-regime)
+#### &#664; &#8968;vi&#8969; [Some State Actors Need to Destabalize the Interantional Human Rights Regime Before the Next Global Conflict](#some-state-actors-need-to-destabalize-the-international-human-rights-regime)
 
-#### &#664; [Nationality Law Begs Some Important Questions: If It Significantly Differs from Refugee Law, How and Why?](#nationality-law-begs-some-important-questions)
+#### &#664; &#8968;vii&#8969; [Nationality Law Begs Some Important Questions: If It Significantly Differs from Refugee Law, How and Why?](#nationality-law-begs-some-important-questions)
 
-#### &#664; ## [Novel WMD Technologies Render Frightening Hard Sci-Fi Into Reality And Create Intelligence Nightmares](#novel-wmd-technologies-render-frightening-hard-scifi-into-reality)
+#### &#664; &#8968;viii&#8969; ## [Novel WMD Technologies Render Frightening Hard Sci-Fi Into Reality And Create Intelligence Nightmares](#novel-wmd-technologies-render-frightening-hard-scifi-into-reality)
 
-#### &#664; # [Statistical Methods Will Demonstrate Evidence of Weather Control For The Past Two Decades](#statistical-methods-will-demostrate-evidence)
+#### &#664; &#8968;ix&#8969; # [Statistical Methods Will Demonstrate Evidence of Weather Control For The Past Two Decades](#statistical-methods-will-demostrate-evidence)
 
-#### &#664; [Evidence of the Psychosocial Manufacturing of MKULTRA-style Manakins BY ALL MAJOR POWERS for Systemic Karmic Obfuscation For Centuries](#evidence-of-the-psychosocial-manufacturing-of-mkultra-style-manakins-by-all-major-powers)
+#### &#664; &#8968;x&#8969; [Evidence of the Psychosocial Manufacturing of MKULTRA-style Manakins BY ALL MAJOR POWERS for Systemic Karmic Obfuscation For Centuries](#evidence-of-the-psychosocial-manufacturing-of-mkultra-style-manakins-by-all-major-powers)
 
-#### &#664; [Evidence Demonstrating Conspiracies Throughout the Ages will Simultaneously Be Revealed. All Will Be Judged.](#evidence-demostrating-conspiracies-throughout-the-ages-will-simultaneously-be-revealed)
+#### &#664; &#8968;xi&#8969; [Evidence Demonstrating Conspiracies Throughout the Ages will Simultaneously Be Revealed. All Will Be Judged.](#evidence-demostrating-conspiracies-throughout-the-ages-will-simultaneously-be-revealed)
 
-#### &#664; ### [Computational Science Nearly Obliterates The Need For Humans In Science, Enabling Specific Technologies To Be Locked Away Forever](#computational-science-nearly-obliterates-the-need-for-human-labor-in-science)
+#### &#664; &#8968;xii&#8969; ### [Computational Science Nearly Obliterates The Need For Humans In Science, Enabling Specific Technologies To Be Locked Away Forever](#computational-science-nearly-obliterates-the-need-for-human-labor-in-science)
 
-#### &#664; [Intellectual Property Endgame: Not All Is "As Infinite" As You Would Like It to Be:](#intellectual-property-endgame)
+#### &#664; &#8968;xiii&#8969; [Intellectual Property Endgame: Not All Is "As Infinite" As You Would Like It to Be:](#intellectual-property-endgame)
 
-#### &#664; [The Global Economy Will Collapse Within Two Decades As ALL Socioeconomic Flux And Churn Begins To Align *IN PHASE*](#the-global-economy-will-collapse-within-two-decades)
+#### &#664; &#8968;xiv&#8969; [The Global Economy Will Collapse Within Two Decades As ALL Socioeconomic Flux And Churn Begins To Align *IN PHASE*](#the-global-economy-will-collapse-within-two-decades)
 
-#### &#664; [Severe Turbulence in Forex Markets May End Up In Nations Making Baseless Accusations Of Wealth Incineration](#severe-turbulence-in-forex-markets)
+#### &#664; &#8968;xv&#8969; [Severe Turbulence in Forex Markets May End Up In Nations Making Baseless Accusations Of Wealth Incineration](#severe-turbulence-in-forex-markets)
 
-#### &#664; [Energy And Resource Markets Give Rise To A Peak Oil Forever Scenario, If The Population Is Truncated](#energy-nad-resource-markets-give-rise-to-a-peak-oil-forever-scenario)
+#### &#664; &#8968;xvi&#8969; [Energy And Resource Markets Give Rise To A Peak Oil Forever Scenario, If The Population Is Truncated](#energy-nad-resource-markets-give-rise-to-a-peak-oil-forever-scenario)
 
-#### &#664; [The Outlines of An Alternative International Financial Regime Run By The Chinese and Russians Are Already In Place](#the-outlines-of-an-alternative-international-financial-regime)
+#### &#664; &#8968;xvii&#8969; [The Outlines of An Alternative International Financial Regime Run By The Chinese and Russians Are Already In Place](#the-outlines-of-an-alternative-international-financial-regime)
 
-#### &#664; [Energy And Resource Markets Give Rise To A Peak Oil Forever Scenario, If The Population Is Truncated](#energy-and-resource-markets-give-rise-to-a-peak-oil-forever-scenario)
+#### &#664; &#8968;xviii&#8969; [Energy And Resource Markets Give Rise To A Peak Oil Forever Scenario, If The Population Is Truncated](#energy-and-resource-markets-give-rise-to-a-peak-oil-forever-scenario)
 
-#### &#664; (Cultural Compaction 4 AI)
+#### &#664; &#8968;xix&#8969; (Cultural Compaction 4 AI)
 
-#### &#664; (Sociocultural Convergence)
+#### &#664; &#8968;xx&#8969; (Sociocultural Convergence)
 
-#### &#664; (Universal Language)
-
-#### &#664;
+#### &#664; &#8968;xxi&#8969; (Universal Language)
 
 ## [TL;DR;](#tl-dr)
 
-#### &#664; [Too Long; Sounded Boring; Big Words; Trump Voter; Not a Communist; I Heard He Was A Racist](#too-long-sounded-boring-big-words-trump-voter)
+#### &#x2308;&#65942;&#x2309; [Too Long; Sounded Boring; Big Words; Trump Voter; Not a Communist; I Heard He Was A Racist](#too-long-sounded-boring-big-words-trump-voter)
 
-#### &#664; [How Do You Stop A Plan To Orchestrate Collapse, Simply to Shield Deep-State Actors Who Want To Enrich Themselves For Eternity?](#how-do-you-stop-a-plan-to-orchestrate-collapse)
+#### &#x2308;&#65942;&#x2309; [Of Augustus Denarius and the Architects of Empire](#of-augustus-denarius-and-the-architects-of-empire)
 
-#### &#664; [You Will Be Thanking Your Stars That Someone Like Me Ever Existed...](#you-will-be-thanking-your-stars-that-someone-like-me-ever-existed)
+#### &#x2308;&#65942;&#x2309; [How Do You Stop A Plan To Orchestrate Collapse, Simply to Shield Deep-State Actors Who Want To Enrich Themselves For Eternity?](#how-do-you-stop-a-plan-to-orchestrate-collapse)
 
-#### &#664; [So Where Do We Go From Here? How Is It That We Come Together?](#so-where-do-we-go-from-here)
+#### &#x2308;&#65942;&#x2309; [You Will Be Thanking Your Stars That Someone Like Me Ever Existed...](#you-will-be-thanking-your-stars-that-someone-like-me-ever-existed)
 
-#### &#664; [How Does Post-Revolutionary France Relate To 21st Century America?](#how-does-post-revolutionary-france-relate-to-21st-century-america)
+#### &#x2308;&#65942;&#x2309; [So Where Do We Go From Here? How Is It That We Come Together?](#so-where-do-we-go-from-here)
 
-#### &#664; [Once Their Retro-Narrative Is Obliterated, Welcome Their *Supporters* With Open Arms](#once-their-retro-narrative-is-obliterated)
+#### &#x2308;&#65942;&#x2309; [How Does Post-Revolutionary France Relate To 21st Century America?](#how-does-post-revolutionary-france-relate-to-21st-century-america)
+
+#### &#x2308;&#65942;&#x2309; [Once Their Retro-Narrative Is Obliterated, Welcome Their *Supporters* With Open Arms](#once-their-retro-narrative-is-obliterated)
 
 <a name="whose-belied-adumbrations-starkly-contrast-their-eminence" />
 
@@ -170,7 +170,7 @@ allow="autoplay; encrypted-media" allowfullscreen></iframe>
 
 <a name="imaging-tech-and-computational-medicine" />
 
-### [Imaging Technology and Computational Medicine Imply Trillions in Collective Liabilities From An Accurate, Irrefutable Assessment of Psychiatry's Insane Costs and Benefits](#imaging-tech-and-computational-medicine)
+### &#8968;&#8969; [Imaging Technology and Computational Medicine Imply Trillions in Collective Liabilities From An Accurate, Irrefutable Assessment of Psychiatry's Insane Costs and Benefits](#imaging-tech-and-computational-medicine)
 
 Novel imaging technology -- like MAS, Spect, PET, and others -- create
 the possibilities of neurological forensics and stastical methods
@@ -217,7 +217,7 @@ begin to profit from the solutions.
 
 <a name="cost-of-medical-care-and-ubi" />
 
-### [Cost of Medical Care and UBI, Along With A Failing Food Supply](#cost-of-medical-care-and-ubi)
+### &#8968;&#8969; [Cost of Medical Care and UBI, Along With A Failing Food Supply](#cost-of-medical-care-and-ubi)
 
 This leave America in a pretty tough spot because medical technology
 is kind of our bread and butter. It's a major export and we protect it
@@ -297,7 +297,7 @@ need to check yourself before you wreck everyone in this country.
 
 <a name="the-use-of-psychological-and-neurological-warfare-to-suppress-dissent" />
 
-### [The Use of Psychological And Neurological Warfare To Suppress Dissidents, for CIA Mockingbird 2.0 and to Cover up Inconvenient Truths](#the-use-of-psychological-and-neurological-warfare-to-suppress-dissent)
+### &#8968;&#8969; [The Use of Psychological And Neurological Warfare To Suppress Dissidents, for CIA Mockingbird 2.0 and to Cover up Inconvenient Truths](#the-use-of-psychological-and-neurological-warfare-to-suppress-dissent)
 
 When combined with the feedback loops and vulnerabilities in machine
 learning algorithms cause significant harm to society. These
@@ -367,7 +367,7 @@ expectation of ever telling the truth. It's everywhere.
 
 <a name="the-inherent-fallibility-of-digital-information-storage" />
 
-### [The Inherent Fallibility of Digital Information Storage Presents Both the Possibility For And The Incentivization for Targeted and Total Information Destruction](#the-inherent-fallibility-of-digital-information-storage)
+### &#8968;&#8969; [The Inherent Fallibility of Digital Information Storage Presents Both the Possibility For And The Incentivization for Targeted and Total Information Destruction](#the-inherent-fallibility-of-digital-information-storage)
 
 The internet is a new age library of alexandria, except that cheap
 access to digital information and cheap synchronization of information
@@ -486,7 +486,7 @@ tormenting me.
 
 <a name="some-state-actors-need-to-destabalize-the-international-human-rights-regime" />
 
-### [Some State Actors Need to Destabalize the Interantional Human Rights Regime Before the Next Global Conflict](#some-state-actors-need-to-destabalize-the-international-human-rights-regime)
+### &#8968;&#8969; [Some State Actors Need to Destabalize the Interantional Human Rights Regime Before the Next Global Conflict](#some-state-actors-need-to-destabalize-the-international-human-rights-regime)
 
 What's the problem with warcrime prosecution? Why are laws so strict?
 Especially under the current legal regime? The states who discover
@@ -551,7 +551,7 @@ destabalize any large power, given access to the technology.
 
 <a name="the-need-to-cover-up-crimes-and-warcrimes-by-all-major-powers" />
 
-### [The Need to Cover Up Crimes And Warcrimes By All Major Powers](#the-need-to-cover-up-crimes-and-warcrimes-by-all-major-powers)
+### &#8968;&#8969; [The Need to Cover Up Crimes And Warcrimes By All Major Powers](#the-need-to-cover-up-crimes-and-warcrimes-by-all-major-powers)
 
 These crimes are hardly limited to one power or another. I believe all
 superpowers share some level of guilt in violating sections of the
@@ -639,7 +639,7 @@ never have the chance to do so if we do not!
 
 <a name="nationality-law-begs-some-important-questions" />
 
-### [Nationality Law Begs Some Important Questions: If It Significantly Differs from Refugee Law, How and Why?](#nationality-law-begs-some-important-questions)
+### &#8968;&#8969; [Nationality Law Begs Some Important Questions: If It Significantly Differs from Refugee Law, How and Why?](#nationality-law-begs-some-important-questions)
 
 Who is a citizen and who is not? Do legal residents have rights? do
 illegal residents have rights? Of course they do, but the question is:
@@ -810,7 +810,7 @@ truth.
 
 <a name="novel-wmd-technologies-render-frightening-hard-scifi-into-reality" />
 
-### [Novel WMD Technologies Render Frightening Hard Sci-Fi Into Reality And Create Intelligence Nightmares](#novel-wmd-technologies-render-frightening-hard-scifi-into-reality)
+### &#8968;&#8969; [Novel WMD Technologies Render Frightening Hard Sci-Fi Into Reality And Create Intelligence Nightmares](#novel-wmd-technologies-render-frightening-hard-scifi-into-reality)
 
 - there are no operational-level strategies as long as these tactics
   are on the board. revealing them for what they are force all major
@@ -821,7 +821,7 @@ truth.
   should be considered insane by any responsible person who works in
   intelligence.
 
-### [Statistical Methods Will Demonstrate Evidence of Weather Control For The Past Two Decades](#statistical-methods-will-demostrate-evidence)
+### &#8968;&#8969; [Statistical Methods Will Demonstrate Evidence of Weather Control For The Past Two Decades](#statistical-methods-will-demostrate-evidence)
 
 #### This Includes Weaponized Weather Which Will Be Partially Responsible for Global Weather Destabalization
 
@@ -861,7 +861,7 @@ but still collectively infuriating.
 
 <a name="evidence-of-the-psychosocial-manufacturing-of-mkultra-style-manakins-by-all-major-powers" /.
 
-### [Evidence of the Psychosocial Manufacturing of MKULTRA-style Manakins BY ALL MAJOR POWERS for Systemic Karmic Obfuscation For Centuries](#evidence-of-the-psychosocial-manufacturing-of-mkultra-style-manakins-by-all-major-powers)
+### &#8968;&#8969; [Evidence of the Psychosocial Manufacturing of MKULTRA-style Manakins BY ALL MAJOR POWERS for Systemic Karmic Obfuscation For Centuries](#evidence-of-the-psychosocial-manufacturing-of-mkultra-style-manakins-by-all-major-powers)
 
 To all those major world powers: you're all just as guilty as one
 another. Don't act like you're not. It's the very nature of power. If
@@ -903,7 +903,7 @@ systemically demoralized.
 
 <a name="evidence-demostrating-conspiracies-throughout-the-ages-will-simultaneously-be-revealed" />
 
-### [Evidence Demonstrating Conspiracies Throughout the Ages will Simultaneously Be Revealed. All Will Be Judged.](#evidence-demostrating-conspiracies-throughout-the-ages-will-simultaneously-be-revealed)
+### &#8968;&#8969; [Evidence Demonstrating Conspiracies Throughout the Ages will Simultaneously Be Revealed. All Will Be Judged.](#evidence-demostrating-conspiracies-throughout-the-ages-will-simultaneously-be-revealed)
 
 These conspiracies will tableflip long-held axioms about world
 history, though many cannot disrupt too much. However, the story of
@@ -945,13 +945,13 @@ merits of that statement.
 
 <a name="computational-science-nearly-obliterates-the-need-for-human-labor-in-science" />
 
-### [Computational Science Nearly Obliterates The Need For Humans In Science, Enabling Specific Technologies To Be Locked Away Forever](#computational-science-nearly-obliterates-the-need-for-human-labor-in-science)
+### &#8968;&#8969; [Computational Science Nearly Obliterates The Need For Humans In Science, Enabling Specific Technologies To Be Locked Away Forever](#computational-science-nearly-obliterates-the-need-for-human-labor-in-science)
 
 - ....
 
 <a name="intellectual-property-endgame" />
 
-### [Intellectual Property Endgame: Not All Is "As Infinite" As You Would Like It to Be:](#intellectual-property-endgame)
+### &#8968;&#8969; [Intellectual Property Endgame: Not All Is "As Infinite" As You Would Like It to Be:](#intellectual-property-endgame)
 
 I first realized the outlines of this trend around 2010. I've outlined
 a [spectacular
@@ -1007,7 +1007,7 @@ demagoguery and kangaroo elections.
 
 <a name="the-economy-will-collapse-within-two-decades" />
 
-### [The Economy Will Collapse Within Two Decades And ALL Socioeconomic Flux And Churn Begins To Align *IN PHASE*](#the-economy-will-collapse-within-two-decades)
+### &#8968;&#8969; [The Economy Will Collapse Within Two Decades And ALL Socioeconomic Flux And Churn Begins To Align *IN PHASE*](#the-economy-will-collapse-within-two-decades)
 
 The US Government is like a hot potato ... for politicians. Not for
 me. Go ahead and hand that thing over to a real visionary, if you want
@@ -1162,7 +1162,7 @@ which most of us can barely grasp.
 
 <a name="severe-turbulence-in-forex-markets" />
 
-### [Severe Turbulence in Forex Markets May End Up In Nations Making Accusations Of Wealth Incineration](#severe-turbulence-in-forex-markets)
+### &#8968;&#8969; [Severe Turbulence in Forex Markets May End Up In Nations Making Accusations Of Wealth Incineration](#severe-turbulence-in-forex-markets)
 
 One frequently cited component of marxist rhetoric that I cannot stand
 is the notion that we can simply do away with money. It's an insane
@@ -1229,7 +1229,7 @@ lot, coming from me.
 
 <a name="the-outlines-of-an-alternative-international-financial-regime" />
 
-### [The Outlines of An Alternative International Financial Regime Run By The Chinese and Russians Are Already In Place](#the-outlines-of-an-alternative-international-financial-regime)
+### &#8968;&#8969; [The Outlines of An Alternative International Financial Regime Run By The Chinese and Russians Are Already In Place](#the-outlines-of-an-alternative-international-financial-regime)
 
 Dear Leftist: countless times, I've heard you complain about the IMF
 and the World Bank. The romanticism you have for this great leftist
@@ -1431,8 +1431,10 @@ at least get out of the way.
 > can ever be won? *EXACTLY*, you overgrown marxist cumstain traitor
 > "Americans." GTFO outta here with your belligerent, race-baiting,
 > leninist tactics because ain't nobody getting free healthcare in
-> your little nightmare-government scenario. Idiots. Go read a
-> book: Either [Go The Fuck To Sleep]() or something on economics.
+> your little nightmare-government scenario. Idiots. Go read a book:
+> Either [Go The Fuck To
+> Sleep](https://www.youtube.com/watch?v=Udj-o2m39NA) or something on
+> economics.
 
 #### "Go The Fuck To Sleep" as read by Samuel L. Jackson
 
@@ -1445,7 +1447,7 @@ allow="autoplay; encrypted-media" allowfullscreen></iframe>
 
 <a name="energy-and-resource-markets-give-rise-to-a-peak-oil-forever-scenario" />
 
-### [Energy And Resource Markets Give Rise To A Peak Oil Forever Scenario, If The Population Is Truncated](#energy-and-resource-markets-give-rise-to-a-peak-oil-forever-scenario)
+### &#8968;&#8969; [Energy And Resource Markets Give Rise To A Peak Oil Forever Scenario, If The Population Is Truncated](#energy-and-resource-markets-give-rise-to-a-peak-oil-forever-scenario)
 
 > This section sounds very complicated at first, but given the
 > pictures it should become much clearer, perhaps with a bit of
@@ -1690,7 +1692,7 @@ away from every debate opportunity like an ostrich with its head cut
 off. Not see that, you assholes. How are you going to disconnect me
 now?
 
-### Destroying Most Humans Makes Cultural Data More Digitally Compact For AI
+### &#8968;&#8969; Destroying Most Humans Makes Cultural Data More Digitally Compact For AI
 
 - some of the academic elite might try to justify such a global
   collapse as an attempt to avoid a destroy-all-humans scenario
@@ -1699,13 +1701,20 @@ now?
     energy.
 
 
-### Sociocultural Convergence And Spectral Decoherence Accruing and Proceeding at Paradoxically The Same Time
+### &#8968;&#8969; Sociocultural Convergence And Spectral Decoherence Accruing and Proceeding at Paradoxically The Same Time
 
 -
 
-### We Need Universal Language For Cultural Compactification. This is Hard With Seven Billion People and No Hard Reset
+
+- Shiva destroys, Brahma creates and Vishnu preserves
+  - all the rampant competition and spectral decoherence presents the
+    opportunity for something new to emerge or it at least opens up
+    the opportunity for something to fill the void
+
+### &#8968;&#8969; We Need Universal Language For Cultural Compactification. This is Hard With Seven Billion People and No Hard Reset
 
 - it will begin to happen after people try to make sense of the
+  sociocultural chaos
 
 <a name="tl-dr-billions-of-people-will-die" />
 
@@ -1718,7 +1727,7 @@ don't allow yourself to acknowledge the existence of any of them.
 
 <a name="too-long-sounded-boring-big-words-trump-voter" />
 
-### [Too Long; Sounded Boring; Big Words; Trump Voter; Not a Communist; I Heard He Was A Racist](#too-long-sounded-boring-big-words-trump-voter)
+#### &#x2308;&#65942;&#x2309; [Too Long; Sounded Boring; Big Words; Trump Voter; Not a Communist; I Heard He Was A Racist](#too-long-sounded-boring-big-words-trump-voter)
 
 Hmmmm ... humanity need your help and you couldn't be bothered to read
 50 pages explaining why we need to get our act together. Wow. Go
@@ -1912,7 +1921,7 @@ your beliefs and the people around you, you'll never truly understand.
 
 <a name="you-will-be-thanking-your-stars-that-someone-like-me-ever-existed" />
 
-### [You Will Be Thanking Your Stars That Someone Like Me Ever Existed...](#you-will-be-thanking-your-stars-that-someone-like-me-ever-existed)
+#### &#x2308;&#65942;&#x2309; [You Will Be Thanking Your Stars That Someone Like Me Ever Existed...](#you-will-be-thanking-your-stars-that-someone-like-me-ever-existed)
 
 #### ... And I Hope You Activate the Potential For Every Person To Be As Great As Any Of Us Could Ever Be
 
@@ -1971,7 +1980,7 @@ out.
 
 <a name="so-where-do-we-go-from-here" />
 
-### [So Where Do We Go From Here? How Is It That We Come Together?](#so-where-do-we-go-from-here)
+#### &#x2308;&#65942;&#x2309; [So Where Do We Go From Here? How Is It That We Come Together?](#so-where-do-we-go-from-here)
 
 Obviously, the potential for damage to have been done is incalculable.
 However, we are positioned to root out people who are using government
@@ -2043,7 +2052,7 @@ and it will certainly be a little chaotic.
 
 <a name="how-does-post-revolutionary-france-relate-to-21st-century-america" />
 
-### [How Does Post-Revolutionary France Relate To 21st Century America?](#how-does-post-revolutionary-france-relate-to-21st-century-america)
+#### &#x2308;&#65942;&#x2309; [How Does Post-Revolutionary France Relate To 21st Century America?](#how-does-post-revolutionary-france-relate-to-21st-century-america)
 
 How do I know this? Once the *TRUTH* is in place, then the architects'
 precious anti-bourgeoisie narrative is destroyed *AND CAN NEVER BE
@@ -2108,7 +2117,7 @@ fight for our rights and prospertiy.
 
 <a name="once-their-retro-narrative-is-obliterated" />
 
-### [Once Their Retro-Narrative Is Obliterated, Welcome Their *Supporters* With Open Arms](#once-their-retro-narrative-is-obliterated)
+#### &#x2308;&#65942;&#x2309; [Once Their Retro-Narrative Is Obliterated, Welcome Their *Supporters* With Open Arms](#once-their-retro-narrative-is-obliterated)
 
 We all know it's bad. We're ready for something different. Now that
 their retro-narrative is destroyed -- the one justifying future
