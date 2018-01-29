@@ -1741,9 +1741,124 @@ that's surely coming. You can ignore it all you want or get caught up
 in the media frenzy. Or you could try listening to one person who's
 suffered this whole time to tell you want you needed to hear most.
 
+<a name="of-augustus-denarius-and-the-architects-of-empire" />
+
+### &#x2308;&#65942;&#x2309; [Of Augustus Denarius and the Architects of Empire](#of-augustus-denarius-and-the-architects-of-empire)
+
+One of the biggest challenges is BANC
+
+- the politics of fiat currency have a (very long) history
+
+#### [A Silver Roman Denarius Minted By Augustus Caesar Circa 20 BCE](http://www.artic.edu/aic/collections/artwork/5600):
+
+> Notice the three axis cross and its graphical similarity to the
+> Official symbol used for Roman Denarius
+
+![The Augustus Denarius](/img/posts/2018-01-25-caelis-ruissent-avoiding-the-engineered-collapse/denarius-augustus.jpg)
+
+#### Please Not The Heavy Utilization of Baseless Assumptions and Leaps to Conclusions in the Following Paragraph...
+
+Fiat currencies were old, even in the days of the Romans. Every empire
+that rises and falls begins to gravitate towards fiat currency because
+to relieve associated with fluctuations in value and especially the
+regional availability of currency. When the regional availability of
+currency fluctuates, the economic flucations create the impression in
+the poor that the leaders don't know what they're doing. Fiat currency
+allows you to direct the expansion of currency regionally and
+generally. It's use is justified, but fiat has the potential to create
+unimaginable power for the self-enrichment of a select few. It has
+always been this way and the überelite can't help but gravitate
+towards that source of power, whoever they are. It happens in every
+major civilization because fiat is an unfortunate necessity for
+economic stablity.
+
+#### Notice the Symbol's Homoglyphic Similarity to [Pilum Muralis](http://blog.travian.com/2015/07/what-actually-is-a-pilum-muralis/)
+
+> These were portable, flexible stake-like structures that could be
+> quickly rooted up and moved around to create temporary structures
+> for routing enemy infantry. There were several shapes that could
+> emerge. It seems *there is at least the possibility* that the
+> Denarius symbol was homoglyphically linked to the three-axis pilam
+> muralis structure to evoke an esoteric metaphor.
+
+![Roman Fortifications](/img/posts/2018-01-25-caelis-ruissent-avoiding-the-engineered-collapse/pila-murialis.jpg)
+
+By the time America was established, the point at which fiat currency
+would be needed could likely be *measured*, with some assumptions on
+flexibility to control the expansion of the fiat currency, such that
+the destination point where the currency could no longer be stable
+would also be known. IMO, this is probably close to the point at which
+the penny becomes worthless or at least literally worth less than the
+copper it was minted with.
+
+I believe that the founders intensely studied empire, democracy and
+history before the founding of the Republic for at least 50 years
+while they plotted the revolution. The growth of population was
+measurable. I'm *assuming* that the approximate time at which fiat
+would be needed or wanted could be *known*, at least given
+multifarious methods for influencing it's adoption and rate of
+expansion. So, it's a good guess, combined with an understanding of
+how to turn that guess into reality and adjust the plans as needed
+along the course of 250 years. *IF* this is what happened, kudos to
+the founders. That is impressive!
+
+#### I Keep Saying "Emulation of Ancient Thought Confers Penultimate Metacognition" and Even If I'm Wrong, I'm Smarter For The Thought Experiment
+
+Honestly, even though this sounds a little crazy and is not provable,
+if I'm correct about all this -- which I know a few things about
+America that Senators and Presidents don't even know. If this was the
+way American history and finance was planned to unfold, it was kept
+secret for a reason. However, what is certain is that empires rise and
+fall much faster in the modern era. The founders would undoubtedly
+realize this trend: that, were America to become an empire, because of
+acceleration in population growth, it's lifespan would be somewhat
+shorter than that of the British Empire. A new empire at this point in
+history would last less than 40 years, if it weren't for the
+Singularity, *which changes everything*. That's what is different this
+time.
+
+Thankfully, because of the Singularity, the world will eventually move
+away from fiat currency entirely. When and how this this happens is
+uncertain. Also: I could be wrong; I am known to be wrong quite
+often. However, I'm not afraid to be wrong because my tenure doesn't
+depend on it and I sure as shit don't have a job that does. Instead
+those people are afraid to give me the chance to prove almost any of
+my ideas. Derision is cheap. I'm used to it.
+
+What I'm saying: something big is coming; America is at a major
+crossroads; there's two main paths leading away from here. One leads
+to economic ruin and subservience while we rot in the hell of the
+anti-American narrative that our enemies worked so hard to create. The
+other leads away from that, towards sustained prosperity and, quite
+possibly, for eternity.
+
+What I do know about power: DO NOT LOSE IT, whether this is the power
+of an individual or a group. When you enjoyed a high degree of
+influence and have wielded your power wisely, you've done things that
+gradually persuade your enemies join in a chorus, creating a narrative
+that blames *you* for *their problems*, despite the fact that most of
+these problems were a cost of doing business for people in power. When
+you lose power, they will do exactly the same thing, but the first
+thing your enemies will do is destroy you with that narrative they've
+created. If America loses power, it's not going to be pretty. So
+instead of protesting the next war while ironically complaining about
+people creating prosperity on Wall Street -- and quite often
+developing a criminal level of greed -- we'd be alot better served if
+you'd go briefly *Occupy* a recruitment office.
+
+And if you have a problem with my level of general intelligence, I
+have some bad news: I'm just the first of millions like me who always
+would have emerged at this point in history. You don't even know what
+kind of problems you have yet, if you try to punish people like me for
+our gifts.
+
+#### The Übermenschen Are Coming. The Next Wave of Evolution Is A *Revolution of the MIND*
+
+![The X-Men are Coming](/img/posts/2018-01-25-caelis-ruissent-avoiding-the-engineered-collapse/the-xmen-are-coming.jpg)
+
 <a name="how-do-you-stop-a-plan-to-orchestrate-collapse" />
 
-### [How Do You Stop A Plan To Orchestrate Collapse, Simply to Shield Deep-State Actors Who Want To Enrich Themselves For Eternity?](#how-do-you-stop-a-plan-to-orchestrate-collapse)
+#### &#x2308;&#65942;&#x2309; [How Do You Stop A Plan To Orchestrate Collapse, Simply to Shield Deep-State Actors Who Want To Enrich Themselves For Eternity?](#how-do-you-stop-a-plan-to-orchestrate-collapse)
 
 You set yourself free with the truth. I'm not encouraging immediate
 action here. Since I've written about things like economic collapse,
