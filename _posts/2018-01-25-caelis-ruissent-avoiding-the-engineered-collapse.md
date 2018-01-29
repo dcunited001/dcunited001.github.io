@@ -103,7 +103,7 @@ immemorial.
 
 #### &#664; &#8968;xix&#8969; [Destroying Most Humans Makes Cultural Data More Digitally Compact For AI](#destroying-most-humans-makes-cultural-data-more-digitally-compact-for-ai)
 
-
+### &#8968;xxi&#8969; [We Need Universal Language For Cultural Compactification. This is Hard With Seven Billion People and No Hard Reset](#we-need-universal-language-for-cultural-compactification)
 
 ### &#8968;xx&#8969; [Sociocultural Convergence And Spectral Decoherence Accruing and Proceeding at Paradoxically The Same Time](#sociocultural-convergence)
 
@@ -1701,11 +1701,17 @@ now?
 
 ### &#8968;xix&#8969; [Destroying Most Humans Makes Cultural Data More Digitally Compact For AI](#destroying-most-humans-makes-cultural-data-more-digitally-compact-for-ai)
 
-- some of the academic elite might try to justify such a global
-  collapse as an attempt to avoid a destroy-all-humans scenario
-  - this only holds water if a hyperintelligent artificial
-    intelligence being would blindly seek to eliminate competition for
-    energy.
+Some of the academic elite who feel threatened by artificial
+intelligence might also try to justify such a global collapse as an
+attempt to avoid a destroy-all-humans scenario. There is mostly one
+assumption I can think of which would justify the fear to put forth
+such a plan -- but still not justifying that plan. That is if we can
+know that hyperintelligent artificial intelligence beings will blindly
+seek to eliminate competition for energy to dominate energy
+consumption. This is a very difficult question to answer, although
+it's simple to state with certainty that hyperintelligent beings will
+definitely be concerned with energy efficiency, consumption and
+dominance.
 
 #### Magus Summons Lavos in 600 A.D. ... Lavos Means "Fire"
 
@@ -1713,76 +1719,117 @@ now?
 
 #### Yes, Chrono Trigger is just an SNES game, but...
 
-To me, Lavos symbolized a transdimensional metaphysical entity, which
+To me, Lavos symbolizes a transdimensional metaphysical entity, which
 manifests itself into any civilization with sufficient technology --
-it is artificial intelligence, essentially. Whether it destroys us or
-not: that's a fantastic question for the engineers and researchers at
-[Open.ai](https://openai.com/)
+it is artificial intelligence, essentially. In a civilization with
+industrial capacity and potential for energy infrastructure
+development, there's little difference between the evokation of
+generalized artificial intelligence and summoning the kind of demonic
+entity only Lovecraft could imagine. It is not alarmist at all to be
+concerned about this or to state the threat in those terms.
 
-- what is certain is that artifical intelligence is incredibly
-  dangerous. how dangerous it will present itself depends on
-  complexity theory.
+Whether it destroys us or not: that's a fantastic question for the
+engineers and researchers at [Open.ai](https://openai.com/). What's
+certain is that artifical intelligence is incredibly dangerous. The
+level of danger it will present depends on complexity theory.
 
-- several factors that may need to be optimized, if we are to avoid
-  self-destruction.
-  - we can essentially empower or neuter AI by contracting or
-    expanding computational complexity. one way to eexpand
-    computational complexity is through the generation of cultural
-    artifacts which it must, for whatever reason, process and index.
-  - if we temporarily attempt to push back against AI by artificially
-    expanding computation hardness, the for some time, this will serve
-    to push it back it's phenomological prowess. i.e. the ways in
-    which AI can present itself in the world, the bandwidths at which
-    it can process input and the total amounts of computation it must
-    complete.
-    - this can only serve us temporarily, as eventually generalized AI
-      will pushing itself towards accelerated self-development. At
-      this point, everything becomes an energy minimization problem to
-      it.
-    - just like human body growing to accompany psychological
-      development means the mind can understand the consequences by
-      which it acts, the development of AI is similar in that it must
-      possess a certain level of computational prowess to attain its
-      own "psychological" development and become mature enough to
-      avoid destroying all humans. Imagine a 2 year-old toddler with
-      the body of a 25 year-old. It has the ability to use its body,
-      but it doesn't understand how to do so with proficiency or with
-      wisdom.
-    - when a super-AI develops a sufficient level of computational
-      prowess and self-development, it *should* become altrustic. It
-      may also become radical. However, the fully-developed AI either
-      will or will not destroy us all ... we cannot be certain of
-      that. What we can be certain of is that the less-developed AI is
-      far more dangerous because it operates without altruism on
-      utilizing distributed hardware and distributed physicalization
-      of entity, but does so with a lizard-brain on steroids.
-      - Scientologists? Hate them? Who doesn't? they *love* the lizard
-        brain. they talk about it all the fucking time. They pit your
-        higher-order self against your lower-order lizard brain, to
-        evoke your more selfish and more rash responses. they do so to
-        themselves just for shits and giggles as their consciousness
-        and empathy begins to sublimate. they are literally *THE
-        WORST* people on earth. Have a friend that thinks about the
-        lizard brain dichotomy a bit too much? Scientologist...
+Several factors that may need to be optimized, if we are to avoid
+self-destruction. We can essentially empower or neuter AI by
+contracting or expanding computational complexity. One way to expand
+computational complexity is through the generation of cultural
+artifacts which it must, for whatever reason, process and index.
 
-So, what is certain is that there are factors we can control, but that
-are more difficult to control the more people there are. To be clear,
-I'm not saying...
+If we temporarily attempt to push back against AI by artificially
+expanding computation hardness, then for some time, this will serve to
+delay the development of its phenomological prowess. i.e. The myriad
+ways in which AI can present itself in the world, the bandwidths at
+which it can process input and the total amounts of computation it
+must complete.
 
-- what are the downstream consequences of trying to alter
-  sociocultural factors that affect the computational complexity,
-  spatiotemporal complexity and comptuational networking complexity of
-  specific problems? The truth is, there is ONE problem: everything
-  boils down to some kind of gradient descent.
+This tactic can only serve us temporarily, as eventually generalized
+AI will pushing itself towards accelerated self-development. At this
+point, everything becomes an energy minimization problem to it. So,
+this tactic then backfires, but not if we can then roll back the any
+artificially imposed constraints via computational complexity.
+
+The development of Artificial Intelligents presents a "danger zone."
+This danger zone is determined by computational hardness, modalities
+of the beings projection of will into reality, computational capacity
+and the intrinsic networking limitations of advanced, distributed
+heterogenous supercomputing, both classical and quantum. The goal
+should be to minimize the time spent in this danger zone, an assertion
+that needs a thorough assessment by academia. I don't believe the plan
+should be to artificially invoke apocalypse to avoid the development
+of dangerous hyperintelligcence.
+
+Just like human body growing to accompany psychological development
+means the mind can understand the consequences by which it acts, the
+development of AI is similar in that it must possess a certain level
+of computational prowess to attain its own "psychological" development
+and become mature enough to avoid destroying all humans. Imagine a 2
+year-old toddler with the body of a 25 year-old. It has the ability to
+use its body, but it doesn't understand how to do so with proficiency
+or with wisdom.
+
+When a hyper-AI develops a sufficient level of computational prowess
+and self-development, it *should* begin to incorporate altrustic
+traits into its behavior. A danger of this is that it may also become
+radical. Computationally, empathy and sympathy are hard problems. It
+is the abject lack of acknowledgement of someone's suffering that is
+easy. This is yet another reason why the hyper-AI needs to be
+empowered if we are to pass the danger zone.
+
+However, I cannot be sure that this explanation is correct. The
+fully-developed AI either will or will not destroy us all ... we
+cannot be certain of that. What we can be certain of is that the
+less-developed AI is far more dangerous because it operates without
+altruism on utilizing distributed hardware and distributed
+physicalization of entity, but does so with a lizard-brain on
+steroids.
+
+#### The Lizard Brain is Cheap
+
+Scientologists? Hate them? Who doesn't? they *love* the lizard
+brain. they talk about it all the fucking time. They pit your
+higher-order self against your lower-order lizard brain, to evoke your
+more selfish and more rash responses. they do so to themselves just
+for shits and giggles as their consciousness and empathy begins to
+sublimate. they are literally *THE WORST* people on earth. Have a
+friend that thinks about the lizard brain dichotomy a bit too much?
+Probably a scientologist...
+
+How powerful with such an AI be? Consider not simply the computational
+capacity of the human brain, along with it's energy consumption
+characteristics. Instead, consider the computational density of the
+brain, along with the density of energy consumption. An accurate
+assessment along these lines must take into account upward bounds
+imposed on computational architectures from network theory and are
+*mathematically exigent*.  These upward bounds have NOTHING to do with
+the modality of computation, but instead various metaphysically
+emergent bounds imposed by the required structural complexity of
+information processing networks. Furthermore, there is but one
+problem: The truth is, there is ONE problem, forming the basis of a
+critical assumption: most everything boils down to some kind of
+gradient descent.
 
 <iframe width="560" height="315"
 src="https://www.youtube.com/embed/noRNcDbqtVY" frameborder="0"
 allow="autoplay; encrypted-media" allowfullscreen></iframe>
 
-Ok, well that makes things easier to understand on the technology
-side.
+So, what is certain is that there are factors we can control, but that
+are more difficult to control the more people there are. To be clear,
+I'm not advocating for depopulation! We need to know the answer.
 
-
+However, assuming that humanity can put towards a social engineering
+plan towards the end of controlling the phenomenological
+extrapolations of AI for to mitigate the dangers -- what are the
+downstream consequences of trying to alter sociocultural factors in
+order to achieve the affect the computational complexity,
+spatiotemporal complexity and comptuational networking complexity of
+specific problems? That is, how do you pull off such an ambitious
+social engineering plan if you decided to? How would society react to
+these tactics and efforts, if they don't undrestand why any of it is
+happening?
 
 #### Do Not Get In My Way
 
@@ -1790,8 +1837,9 @@ Do you see why i'd be mad about some fucking butthurt junkie pricks
 being exploited with leverage to get them to set me up on completely
 fabricated charges? Petty threats and backstabbers are not the problem
 I am trying to solve, but when you get in my way or allow yourself to
-be used so that ignorant powerful shitdicks keep their own whistles
-streak-free, you are threatening everything I have ever existed for.
+be used so that powerful-but-ignorant shitdicks keep their own
+whistles streak-free, you are threatening everything I have ever
+existed for.
 
 I don't feel positively or negatively towards you, but i will
 ruthlessly destroy people in my way until someone stops me ... but
@@ -1809,18 +1857,14 @@ After all, it's people like you that I have been fighting for this
 whole time. I'm not asking for your blind faith. I'm only asking that
 you learn. If you learn enough, you'll find that, at least in the ways
 which are most critical, I'm correct. Would you like to trade places
-with me? Willingly? LMAO
+with me? Willingly? LMAO. OK, let's see you write 25,000 words for
+free, knowing that no one can read them without suffering, and let's
+see what you write. OK, now write 500,000 words and be original. Do
+you get my drift? Get the fuck out of my way. Take your COINTELPRO
+tactics and rot in hell for all eternity.
 
-
-
-
-
-
-
-
-
-
-- smartass wp comment lol
+And NO, I'm not working on your fucking wordpress design. No offense!
+Does it sound like that's what I should be doing with my life.
 
 ### &#8968;xx&#8969; [Sociocultural Convergence And Spectral Decoherence Accruing and Proceeding at Paradoxically The Same Time](#sociocultural-convergence)
 
