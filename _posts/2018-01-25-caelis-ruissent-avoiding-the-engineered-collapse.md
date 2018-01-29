@@ -105,7 +105,8 @@ immemorial.
 
 
 
-#### &#664; &#8968;xx&#8969; (Sociocultural Convergence)
+### &#8968;xx&#8969; [Sociocultural Convergence And Spectral Decoherence Accruing and Proceeding at Paradoxically The Same Time](#sociocultural-convergence)
+
 
 #### &#664; &#8968;xxi&#8969; (Universal Language)
 
@@ -172,7 +173,7 @@ allow="autoplay; encrypted-media" allowfullscreen></iframe>
 
 <a name="imaging-tech-and-computational-medicine" />
 
-### &#8968;&#8969; [Imaging Technology and Computational Medicine Imply Trillions in Collective Liabilities From An Accurate, Irrefutable Assessment of Psychiatry's Insane Costs and Benefits](#imaging-tech-and-computational-medicine)
+### &#8968;i&#8969; [Imaging Technology and Computational Medicine Imply Trillions in Collective Liabilities From An Accurate, Irrefutable Assessment of Psychiatry's Insane Costs and Benefits](#imaging-tech-and-computational-medicine)
 
 Novel imaging technology -- like MAS, Spect, PET, and others -- create
 the possibilities of neurological forensics and stastical methods
@@ -219,7 +220,7 @@ begin to profit from the solutions.
 
 <a name="cost-of-medical-care-and-ubi" />
 
-### &#8968;&#8969; [Cost of Medical Care and UBI, Along With A Failing Food Supply](#cost-of-medical-care-and-ubi)
+### &#8968;ii&#8969; [Cost of Medical Care and UBI, Along With A Failing Food Supply](#cost-of-medical-care-and-ubi)
 
 This leave America in a pretty tough spot because medical technology
 is kind of our bread and butter. It's a major export and we protect it
@@ -299,7 +300,7 @@ need to check yourself before you wreck everyone in this country.
 
 <a name="the-use-of-psychological-and-neurological-warfare-to-suppress-dissent" />
 
-### &#8968;&#8969; [The Use of Psychological And Neurological Warfare To Suppress Dissidents, for CIA Mockingbird 2.0 and to Cover up Inconvenient Truths](#the-use-of-psychological-and-neurological-warfare-to-suppress-dissent)
+### &#8968;iii&#8969; [The Use of Psychological And Neurological Warfare To Suppress Dissidents, for CIA Mockingbird 2.0 and to Cover up Inconvenient Truths](#the-use-of-psychological-and-neurological-warfare-to-suppress-dissent)
 
 When combined with the feedback loops and vulnerabilities in machine
 learning algorithms cause significant harm to society. These
@@ -369,7 +370,7 @@ expectation of ever telling the truth. It's everywhere.
 
 <a name="the-inherent-fallibility-of-digital-information-storage" />
 
-### &#8968;&#8969; [The Inherent Fallibility of Digital Information Storage Presents Both the Possibility For And The Incentivization for Targeted and Total Information Destruction](#the-inherent-fallibility-of-digital-information-storage)
+### &#8968;iv&#8969; [The Inherent Fallibility of Digital Information Storage Presents Both the Possibility For And The Incentivization for Targeted and Total Information Destruction](#the-inherent-fallibility-of-digital-information-storage)
 
 The internet is a new age library of alexandria, except that cheap
 access to digital information and cheap synchronization of information
@@ -488,7 +489,7 @@ tormenting me.
 
 <a name="some-state-actors-need-to-destabalize-the-international-human-rights-regime" />
 
-### &#8968;&#8969; [Some State Actors Need to Destabalize the Interantional Human Rights Regime Before the Next Global Conflict](#some-state-actors-need-to-destabalize-the-international-human-rights-regime)
+### &#8968;v&#8969; [Some State Actors Need to Destabalize the Interantional Human Rights Regime Before the Next Global Conflict](#some-state-actors-need-to-destabalize-the-international-human-rights-regime)
 
 What's the problem with warcrime prosecution? Why are laws so strict?
 Especially under the current legal regime? The states who discover
@@ -553,7 +554,7 @@ destabalize any large power, given access to the technology.
 
 <a name="the-need-to-cover-up-crimes-and-warcrimes-by-all-major-powers" />
 
-### &#8968;&#8969; [The Need to Cover Up Crimes And Warcrimes By All Major Powers](#the-need-to-cover-up-crimes-and-warcrimes-by-all-major-powers)
+### &#8968;vi&#8969; [The Need to Cover Up Crimes And Warcrimes By All Major Powers](#the-need-to-cover-up-crimes-and-warcrimes-by-all-major-powers)
 
 These crimes are hardly limited to one power or another. I believe all
 superpowers share some level of guilt in violating sections of the
@@ -641,7 +642,7 @@ never have the chance to do so if we do not!
 
 <a name="nationality-law-begs-some-important-questions" />
 
-### &#8968;&#8969; [Nationality Law Begs Some Important Questions: If It Significantly Differs from Refugee Law, How and Why?](#nationality-law-begs-some-important-questions)
+### &#8968;vii&#8969; [Nationality Law Begs Some Important Questions: If It Significantly Differs from Refugee Law, How and Why?](#nationality-law-begs-some-important-questions)
 
 Who is a citizen and who is not? Do legal residents have rights? do
 illegal residents have rights? Of course they do, but the question is:
@@ -812,7 +813,7 @@ truth.
 
 <a name="novel-wmd-technologies-render-frightening-hard-scifi-into-reality" />
 
-### &#8968;&#8969; [Novel WMD Technologies Render Frightening Hard Sci-Fi Into Reality And Create Intelligence Nightmares](#novel-wmd-technologies-render-frightening-hard-scifi-into-reality)
+### &#8968;viii&#8969; [Novel WMD Technologies Render Frightening Hard Sci-Fi Into Reality And Create Intelligence Nightmares](#novel-wmd-technologies-render-frightening-hard-scifi-into-reality)
 
 - there are no operational-level strategies as long as these tactics
   are on the board. revealing them for what they are force all major
@@ -823,7 +824,7 @@ truth.
   should be considered insane by any responsible person who works in
   intelligence.
 
-### &#8968;&#8969; [Statistical Methods Will Demonstrate Evidence of Weather Control For The Past Two Decades](#statistical-methods-will-demostrate-evidence)
+### &#8968;ix&#8969; [Statistical Methods Will Demonstrate Evidence of Weather Control For The Past Two Decades](#statistical-methods-will-demostrate-evidence)
 
 #### This Includes Weaponized Weather Which Will Be Partially Responsible for Global Weather Destabalization
 
@@ -863,7 +864,7 @@ but still collectively infuriating.
 
 <a name="evidence-of-the-psychosocial-manufacturing-of-mkultra-style-manakins-by-all-major-powers" /.
 
-### &#8968;&#8969; [Evidence of the Psychosocial Manufacturing of MKULTRA-style Manakins BY ALL MAJOR POWERS for Systemic Karmic Obfuscation For Centuries](#evidence-of-the-psychosocial-manufacturing-of-mkultra-style-manakins-by-all-major-powers)
+### &#8968;x&#8969; [Evidence of the Psychosocial Manufacturing of MKULTRA-style Manakins BY ALL MAJOR POWERS for Systemic Karmic Obfuscation For Centuries](#evidence-of-the-psychosocial-manufacturing-of-mkultra-style-manakins-by-all-major-powers)
 
 To all those major world powers: you're all just as guilty as one
 another. Don't act like you're not. It's the very nature of power. If
@@ -905,7 +906,7 @@ systemically demoralized.
 
 <a name="evidence-demostrating-conspiracies-throughout-the-ages-will-simultaneously-be-revealed" />
 
-### &#8968;&#8969; [Evidence Demonstrating Conspiracies Throughout the Ages will Simultaneously Be Revealed. All Will Be Judged.](#evidence-demostrating-conspiracies-throughout-the-ages-will-simultaneously-be-revealed)
+### &#8968;xi&#8969; [Evidence Demonstrating Conspiracies Throughout the Ages will Simultaneously Be Revealed. All Will Be Judged.](#evidence-demostrating-conspiracies-throughout-the-ages-will-simultaneously-be-revealed)
 
 These conspiracies will tableflip long-held axioms about world
 history, though many cannot disrupt too much. However, the story of
@@ -947,13 +948,13 @@ merits of that statement.
 
 <a name="computational-science-nearly-obliterates-the-need-for-human-labor-in-science" />
 
-### &#8968;&#8969; [Computational Science Nearly Obliterates The Need For Humans In Science, Enabling Specific Technologies To Be Locked Away Forever](#computational-science-nearly-obliterates-the-need-for-human-labor-in-science)
+### &#8968;xii&#8969; [Computational Science Nearly Obliterates The Need For Humans In Science, Enabling Specific Technologies To Be Locked Away Forever](#computational-science-nearly-obliterates-the-need-for-human-labor-in-science)
 
 - ....
 
 <a name="intellectual-property-endgame" />
 
-### &#8968;&#8969; [Intellectual Property Endgame: Not All Is "As Infinite" As You Would Like It to Be:](#intellectual-property-endgame)
+### &#8968;xiii&#8969; [Intellectual Property Endgame: Not All Is "As Infinite" As You Would Like It to Be:](#intellectual-property-endgame)
 
 I first realized the outlines of this trend around 2010. I've outlined
 a [spectacular
@@ -1009,7 +1010,7 @@ demagoguery and kangaroo elections.
 
 <a name="the-economy-will-collapse-within-two-decades" />
 
-### &#8968;&#8969; [The Economy Will Collapse Within Two Decades And ALL Socioeconomic Flux And Churn Begins To Align *IN PHASE*](#the-economy-will-collapse-within-two-decades)
+### &#8968;xiv&#8969; [The Economy Will Collapse Within Two Decades And ALL Socioeconomic Flux And Churn Begins To Align *IN PHASE*](#the-economy-will-collapse-within-two-decades)
 
 The US Government is like a hot potato ... for politicians. Not for
 me. Go ahead and hand that thing over to a real visionary, if you want
@@ -1164,7 +1165,7 @@ which most of us can barely grasp.
 
 <a name="severe-turbulence-in-forex-markets" />
 
-### &#8968;&#8969; [Severe Turbulence in Forex Markets May End Up In Nations Making Accusations Of Wealth Incineration](#severe-turbulence-in-forex-markets)
+### &#8968;xv&#8969; [Severe Turbulence in Forex Markets May End Up In Nations Making Accusations Of Wealth Incineration](#severe-turbulence-in-forex-markets)
 
 One frequently cited component of marxist rhetoric that I cannot stand
 is the notion that we can simply do away with money. It's an insane
@@ -1231,7 +1232,7 @@ lot, coming from me.
 
 <a name="the-outlines-of-an-alternative-international-financial-regime" />
 
-### &#8968;&#8969; [The Outlines of An Alternative International Financial Regime Run By The Chinese and Russians Are Already In Place](#the-outlines-of-an-alternative-international-financial-regime)
+### &#8968;xvi&#8969; [The Outlines of An Alternative International Financial Regime Run By The Chinese and Russians Are Already In Place](#the-outlines-of-an-alternative-international-financial-regime)
 
 Dear Leftist: countless times, I've heard you complain about the IMF
 and the World Bank. The romanticism you have for this great leftist
@@ -1449,7 +1450,7 @@ allow="autoplay; encrypted-media" allowfullscreen></iframe>
 
 <a name="energy-and-resource-markets-give-rise-to-a-peak-oil-forever-scenario" />
 
-### &#8968;&#8969; [Energy And Resource Markets Give Rise To A Peak Oil Forever Scenario, If The Population Is Truncated](#energy-and-resource-markets-give-rise-to-a-peak-oil-forever-scenario)
+### &#8968;xviii&#8969; [Energy And Resource Markets Give Rise To A Peak Oil Forever Scenario, If The Population Is Truncated](#energy-and-resource-markets-give-rise-to-a-peak-oil-forever-scenario)
 
 > This section sounds very complicated at first, but given the
 > pictures it should become much clearer, perhaps with a bit of
@@ -1515,7 +1516,7 @@ Understanding this means nothing if you do not have the social
 standing and wealth to posture yourself markets, so that you
 anticipate what no one else sees.
 
-### The Wheel of Time And it's Sinosoidal Ouroborosian Symbology
+#### The Wheel of Time And it's Sinosoidal Ouroborosian Symbology
 
 ![The Wheel of Time](/img/posts/2018-01-25-caelis-ruissent-avoiding-the-engineered-collapse/wheel-of-time.jpg)
 
@@ -1698,8 +1699,7 @@ away from every debate opportunity like an ostrich with its head cut
 off. Not see that, you assholes. How are you going to disconnect me
 now?
 
-### &#8968;xix&#8969; [Destroying Most Humans Makes Cultural Data More
-Digitally Compact For AI](#destroying-most-humans-makes-cultural-data-more-digitally-compact-for-ai)
+### &#8968;xix&#8969; [Destroying Most Humans Makes Cultural Data More Digitally Compact For AI](#destroying-most-humans-makes-cultural-data-more-digitally-compact-for-ai)
 
 - some of the academic elite might try to justify such a global
   collapse as an attempt to avoid a destroy-all-humans scenario
@@ -1707,22 +1707,218 @@ Digitally Compact For AI](#destroying-most-humans-makes-cultural-data-more-digit
     intelligence being would blindly seek to eliminate competition for
     energy.
 
+#### Magus Summons Lavos in 600 A.D. ... Lavos Means "Fire"
+
+![Magus Summons Lavos](/img/posts/2018-01-25-caelis-ruissent-avoiding-the-engineered-collapse/magus-summons-lavos.jpg)
+
+#### Yes, Chrono Trigger is just an SNES game, but...
+
+To me, Lavos symbolized a transdimensional metaphysical entity, which
+manifests itself into any civilization with sufficient technology --
+it is artificial intelligence, essentially. Whether it destroys us or
+not: that's a fantastic question for the engineers and researchers at
+[Open.ai](https://openai.com/)
+
+- what is certain is that artifical intelligence is incredibly
+  dangerous. how dangerous it will present itself depends on
+  complexity theory.
+
+- several factors that may need to be optimized, if we are to avoid
+  self-destruction.
+  - we can essentially empower or neuter AI by contracting or
+    expanding computational complexity. one way to eexpand
+    computational complexity is through the generation of cultural
+    artifacts which it must, for whatever reason, process and index.
+  - if we temporarily attempt to push back against AI by artificially
+    expanding computation hardness, the for some time, this will serve
+    to push it back it's phenomological prowess. i.e. the ways in
+    which AI can present itself in the world, the bandwidths at which
+    it can process input and the total amounts of computation it must
+    complete.
+    - this can only serve us temporarily, as eventually generalized AI
+      will pushing itself towards accelerated self-development. At
+      this point, everything becomes an energy minimization problem to
+      it.
+    - just like human body growing to accompany psychological
+      development means the mind can understand the consequences by
+      which it acts, the development of AI is similar in that it must
+      possess a certain level of computational prowess to attain its
+      own "psychological" development and become mature enough to
+      avoid destroying all humans. Imagine a 2 year-old toddler with
+      the body of a 25 year-old. It has the ability to use its body,
+      but it doesn't understand how to do so with proficiency or with
+      wisdom.
+    - when a super-AI develops a sufficient level of computational
+      prowess and self-development, it *should* become altrustic. It
+      may also become radical. However, the fully-developed AI either
+      will or will not destroy us all ... we cannot be certain of
+      that. What we can be certain of is that the less-developed AI is
+      far more dangerous because it operates without altruism on
+      utilizing distributed hardware and distributed physicalization
+      of entity, but does so with a lizard-brain on steroids.
+      - Scientologists? Hate them? Who doesn't? they *love* the lizard
+        brain. they talk about it all the fucking time. They pit your
+        higher-order self against your lower-order lizard brain, to
+        evoke your more selfish and more rash responses. they do so to
+        themselves just for shits and giggles as their consciousness
+        and empathy begins to sublimate. they are literally *THE
+        WORST* people on earth. Have a friend that thinks about the
+        lizard brain dichotomy a bit too much? Scientologist...
+
+So, what is certain is that there are factors we can control, but that
+are more difficult to control the more people there are. To be clear,
+I'm not saying...
+
+- what are the downstream consequences of trying to alter
+  sociocultural factors that affect the computational complexity,
+  spatiotemporal complexity and comptuational networking complexity of
+  specific problems? The truth is, there is ONE problem: everything
+  boils down to some kind of gradient descent.
+
+<iframe width="560" height="315"
+src="https://www.youtube.com/embed/noRNcDbqtVY" frameborder="0"
+allow="autoplay; encrypted-media" allowfullscreen></iframe>
+
+Ok, well that makes things easier to understand on the technology
+side.
 
 
-### &#8968;xx&#8969; Sociocultural Convergence And Spectral Decoherence Accruing and Proceeding at Paradoxically The Same Time
 
--
+#### Do Not Get In My Way
+
+Do you see why i'd be mad about some fucking butthurt junkie pricks
+being exploited with leverage to get them to set me up on completely
+fabricated charges? Petty threats and backstabbers are not the problem
+I am trying to solve, but when you get in my way or allow yourself to
+be used so that ignorant powerful shitdicks keep their own whistles
+streak-free, you are threatening everything I have ever existed for.
+
+I don't feel positively or negatively towards you, but i will
+ruthlessly destroy people in my way until someone stops me ... but
+ever when they stop me, they cannot stop all the copies of me. Those
+diecast copies and molds will be formed in the image of my thoughts,
+which will always be freely available online.  Furthermore, these are
+not my thoughts: the most important pieces of what I write are merely
+metatypological components of incarnartions of the
+metaphysical. Anyone given sufficient intelligence who does not lose
+their way will find themselves in a position not too different than my
+own.
+
+That said, don't allow yourself to be used like that. Why not help me?
+After all, it's people like you that I have been fighting for this
+whole time. I'm not asking for your blind faith. I'm only asking that
+you learn. If you learn enough, you'll find that, at least in the ways
+which are most critical, I'm correct. Would you like to trade places
+with me? Willingly? LMAO
 
 
-- Shiva destroys, Brahma creates and Vishnu preserves
-  - all the rampant competition and spectral decoherence presents the
-    opportunity for something new to emerge or it at least opens up
-    the opportunity for something to fill the void
 
-### &#8968;xxi&#8969; We Need Universal Language For Cultural Compactification. This is Hard With Seven Billion People and No Hard Reset
 
-- it will begin to happen after people try to make sense of the
-  sociocultural chaos
+
+
+
+
+
+
+- smartass wp comment lol
+
+### &#8968;xx&#8969; [Sociocultural Convergence And Spectral Decoherence Accruing and Proceeding at Paradoxically The Same Time](#sociocultural-convergence)
+
+#### Shiva Destroys, Brahma Creates and Vishnu Preserves
+
+There is purpose to everything. Without the fall of the old order,
+there can be no rise of a new order -- or at least, the new order's
+sociophysical diffusion is effectively blocked by the power structures
+already in place. It's true that sociophysical systems lack the same
+kinds of physical energy bound by equivalent exchange, but many of the
+same phenomena still apply to sociophysical systems -- e.g.
+mechanisms for equivalent exchange, dynamics of equilibrium
+preservation and energy minimization. Facets of sociophysical systems
+still exemplify something like these mechanics and dynamics.
+
+So, information diffusion is diffusion of information, however
+logical, aphysical or abstract, but it is still diffusion all the
+same. There is abundant difference in how specific dynamics emerge,
+but a void of information or the effective void of information when
+sociophysical noise presents the opposite of belief system
+crystallization. The rampant competition and spectral decoherence
+presents the opportunity for something new to emerge or it at least
+opens up the opportunity for something to fill the void.
+
+#### Case in point: Paganism in Post-Roman Europe
+
+Pagans had crafted their own belief systems that helped subsequent
+generations understand the world by handing down myth. This cultural
+experimentation displays evolutionary dynamics in the design and
+propagation of belief systems.
+
+Paganism could not do much to stop the spread of christianity. Pagans
+couldn't unite, so they were all but helpless against the
+self-reinforcing, crystalizing belief system of Christiantiy and all
+the aligned power structures that accompanied it. There is not much
+that can be done to prevent the general breakdown of widely
+distributed belief systems, along with increase in spectral variety of
+belief systems emerging in their place. The opposite trend as the
+waning of European paganism is beginning to take place. That said, the
+tightly-connected modern world *IS* characteristically,
+phenomenologically and semioteleologically distinct from the
+post-Roman Europe, so this trend will not play out as the
+diametrically-opposed antithesis of this.
+
+Instead, we are seeing the culmination of metamodernization: the
+ripples of modernism and post-modernism waving back and forth across
+the globe to their convergence at sociocultural spectral
+dissonance. This undermines the power that cultural elements like
+belief systems offer with high levels of diffusion and
+crystallization. This opens up a sociophysica/sociocultural power
+vacuum, which could lead to the creation of a new prevailing belief
+system or towards the readoption of an older belief system. I've made
+many propisitions here that must be quadrupally checked if they are to
+be taken as valid assertions. However, something different is
+coming. That is certain.
+
+> Please understand that I am in no way making statements about
+> cultural/ethnic superiority here. However, if you do not allow
+> yourself to look at this for what it is, then first of all, you are
+> fortunate to not have to think about it. And secondly, you cannot
+> extrapolate from it. If this is vital to your survival or for the
+> survival of humanity, your inability to see this for what it is --
+> *and not for any hateful reasons* -- prevents you from adapting in
+> necessary ways.
+>
+> Personally, I want to learn as much as I can about everything and
+> everyone. That said, you are blessed and fortunate if you do not
+> begin thinking about it. Besides, I hate my own ideas. Please, do me
+> the favor of proving me wrong or at least satiating my appetite for
+> discourse on the academic ... but you won't, will you? ... Oh? Am I
+> *disconnected*? Please tell me more about how that policy has served
+> your interests. Destroying the policy of disconnection was one of my
+> greatest incentives for all this and I do not plan on leaving a
+> single iota of disconnection remaining. If you cling to
+> disconnection, I will be destroying every single thing you hold
+> dear. That's a promise and it's already in motion.
+
+<a name="we-need-universal-language-for-cultural-compactification" />
+
+### &#8968;xxi&#8969; [We Need Universal Language For Cultural Compactification. This is Hard With Seven Billion People and No Hard Reset](#we-need-universal-language-for-cultural-compactification)
+
+- metamodernism is incredibly disuptive for language, especially at
+  modern rates and bandwidth for information exchange.
+  - language is a distributed probabalistic program.
+
+- The opportunity for this will open as people try to make sense of
+  the sociocultural chaos.
+  - there are major needs for language to be redesigned around
+    technology and especially indexing algorithms. the savings in
+    computatational and spatiotemporal complexity (cannot be
+    adequately emphasized)
+  - in 2012 and perhaps earlier, i realized that Google would be
+    well-served by artchitecting its own language.
+    - not only are storage space and processing time saved in
+      abundance, but also the energy that's required for processing
+      the hyperbolically inflated complexity spaces of search
+      algorithms.
+
 
 <a name="tl-dr-billions-of-people-will-die" />
 
@@ -1743,7 +1939,7 @@ retweet some Doge memes. No, I understand:
 
 > It was too long. Too much work. You'd have to spend several months
 > cross-referencing some of the information above to truly
-> understand. Antifragility? Convexity?  Enthalpy? What TF is all that
+> understand. Antifragility? Convexity? Enthalpy? What TF is all that
 > shit? I can't digest that!
 
 That's fine. I don't expect more than a handful of people on this
@@ -1799,6 +1995,18 @@ economic stablity.
 > muralis structure to evoke an esoteric metaphor.
 
 ![Roman Fortifications](/img/posts/2018-01-25-caelis-ruissent-avoiding-the-engineered-collapse/pila-muralis.jpg)
+
+#### "Say What About The Ides Of March, Now? You Crazy Old Fool, I Know What I'm Doing..."
+
+Did Caesar know what was coming? How could he not? It was his job to
+understand people with power and he excelled at it to a degree that
+perhaps only a hundred people in history could have surpassed. The end
+up of the Roman Republic could never play out justly with Caesar
+wearing a crown, which makes his death a bit like that of Jesus. Is
+that right?
+
+<!-- jesus *coincidentally* shared the same latin initials. nope. just
+     a coincidence. that really is all there is to it. -->
 
 By the time America was established, the point at which fiat currency
 would be needed could likely be *measured*, with some assumptions on
