@@ -11,9 +11,9 @@ excerpt: ""
 - psychosocial churn in sociohierchical structures is a tool of power
   - this is because people reorient themselves to the information
     available to them, but not all information becomes available to
-    everyone immediately. there is always delay in convergence and
-    informational convergence is never total.
-
+    everyone immediately. there is always informational dissonance,
+    delayed convergence and the informational convergence is never
+    total.
 
 
 - most people don't understand social physics. it would never occur to
@@ -185,6 +185,9 @@ excerpt: ""
               metaphorical fuel to fan the flames of hatred for you
               and everyone like you.
 
+=========
+
+=========
 
 - dichotomy between data-driven coarse-grained sociophysical models
   and the actual ground truth of individual's beliefs
@@ -824,6 +827,64 @@ Modeling](https://research.fb.com/publications/vain-attentional-multi-agent-pred
     outside the shell.
     - thus, in order to form cycles in outer, non-core shells, there
       must be at least two connections
+- this monodirectional flow proceeds outwards from a kernel (i.e. the
+  brain) messages can be passed using oblivious transfer, but require
+  at least 3º or 4º of separation to move backwards against this
+  monodirectional flow.
+  - since this is communication amongst social graph nodes using
+    oblivious transfer, the nodes who make those last 1-2º of transfer
+    which actually sends the signals back upstream can't actually
+    perceive that they're sending the messages upstream (and thus, to
+    the source of the "mono"-directional signaling, which is the
+    source of the "authority" in the network)
+  - thus, will radiates outward from the concentric kernels of this
+    social graph, projected through social graph loops of 3-4º, where
+    direction and communication is always one direction (as it appears
+    to the social graph nodes, anyways)
+  - there is a most-central kernel, from which all directives emerge,
+    this is the most central "brain"
+    - there are a series of concentric kernels which encompass the
+      brain. to the participants outside of the 2º social neighborhood
+      of the "brain", all messages appear to radiate outwards. they
+      are mostly processing oblivious transfers anyways.
+      - only those nodes 2º or less from the brain know they can send
+        messages inwards.
+    - to the brain, all messages processed are conducted in loops,
+      where all movement appears to be monodirection for the
+      participants (from within the system at least)
+      - for each loop that initiates and terminates within the same
+        concentric neighborhood of the brain, there is an efferent
+        pathway and an afferent pathway, just like the nervous system
+    - for every social node in this system, there is some subset of
+      their 1º social neighborhood that is part of the network. they
+      may be aware of this and know what this subset is..
+      - or they may not know the entire subset or they may not even be
+        aware they are participating in any of this.
+        - for the people directing the action of others, the less that
+          people further from the center know, the better
+      - anyways, for this subset that belongs to every node in the
+        network, there are some members of this subset that are
+        further outside from the brain, in an equivalent concentric
+        "kernel" or actually upstream from them, in relation to the
+        "brain"
+        - however, the for each node, depending on how much they
+          understand about this, they may not know who is upstream and
+          who is downstream. to the people upstream, this is
+          perfect. this is what keeps the nodes oblivious at least to
+          the structure of the network, which is crucial.
+          - they are conditioned to forward signals on the network and
+            simply function as links to other nodes.
+- this is not the only indexing scheme for sociophysical communication
+  protocols. it is very similar to passing IP packets through routers,
+  albeit quite a bit more destructured. all in all, if you are part of
+  one of these networks, you can use it to pass messages along without
+  understanding the path that they will take. the goal is to construct
+  a network that is autonomous and decentralized.
+  - there are many potential indexing schemes. this is simply one of
+    them. the idea that ALL people on earth are separated by 6º or
+    less is not true. these networks specifically extend the number of
+    degrees of separation, although it's quite difficult to continue
+    maintaining much more than 6º of separation today.
 
 - TODO: explain more here
 

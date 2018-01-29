@@ -109,8 +109,6 @@ immemorial.
 
 #### &#664;
 
-
-
 ## [TL;DR;](#tl-dr)
 
 #### &#664; [Too Long; Sounded Boring; Big Words; Trump Voter; Not a Communist; I Heard He Was A Racist](#too-long-sounded-boring-big-words-trump-voter)
@@ -120,6 +118,10 @@ immemorial.
 #### &#664; [You Will Be Thanking Your Stars That Someone Like Me Ever Existed...](#you-will-be-thanking-your-stars-that-someone-like-me-ever-existed)
 
 #### &#664; [So Where Do We Go From Here? How Is It That We Come Together?](#so-where-do-we-go-from-here)
+
+#### &#664; [How Does Post-Revolutionary France Relate To 21st Century America?](#how-does-post-revolutionary-france-relate-to-21st-century-america)
+
+#### &#664; [Once Their Retro-Narrative Is Obliterated, Welcome Their *Supporters* With Open Arms](#once-their-retro-narrative-is-obliterated)
 
 <a name="whose-belied-adumbrations-starkly-contrast-their-eminence" />
 
@@ -1815,6 +1817,12 @@ actions. Stories in history are like patterns for sewing clothes: each
 one provides a convenient basis by which we compare not only heroes,
 pariahs and demagogues, but ourselves and each other.
 
+
+- I've revealed (nothing). everything always would have been revealed
+  at the end
+  - ![awokened a slumbering monster]
+
+
 What does the illuminati do to people they detest? They freeze them in
 carbonite, so to speak. If you actually manage to make waves, you
 become frozen into history after death, completely unable to control
@@ -1854,16 +1862,16 @@ Obviously, the potential for damage to have been done is incalculable.
 However, we are positioned to root out people who are using government
 as a tool for their own self interests as well as those who would see
 America burn in economic ruin if BANC ever came to be. Best of all,
-against all odds and despite the starkly contrast of our current
-reality, the American people are more ready than ever to come
-together. It might not seem this way now. However, given the right
-course of events and given that enough people in our country choose
-self-preservation and patriotism over petty ideological arguments --
-we are truly closer than ever in being united at the most critical
-time in history. The right set of actions must come to pass, serving
-as a keystone to unite the American people, so that we can focus our
-energy outwards, instead of succumbing to domestic tensions. We must
-do this or we fail. Another lesson we must learn: never give up.
+against all odds and despite our starkly contrasting current reality,
+the American people are more ready than ever to come together. It
+might not seem this way now. However, given the right course of events
+and given that enough people in our country choose self-preservation
+and patriotism over petty ideological arguments -- we are truly closer
+than ever in being united at the most critical time in history. The
+right set of actions must come to pass, serving as a keystone to unite
+the American people, so that we can focus our energy outwards, instead
+of succumbing to domestic tensions. We must do this or we
+fail. Another lesson we must learn: never give up.
 
 There are rumors of false flag attacks or economic collapse triggering
 martial law. Neither of those are likely to occur at the moment. The
@@ -1872,9 +1880,10 @@ period through which to proceed with caution. It is a great awakening,
 where people acknowledge what is happening, some people are targeted
 as having attempted architecting the economic demise of America, and
 there is some tension that plays out as a result of the division we've
-seen in the last 10 or so years.  Fortunately, hen people actually
+seen in the last 10 or so years.  Fortunately, when people actually
 wake up to what's happened, it will be a catalyst to America's benefit
-because it must be -- otherwise failure and collapse is assured.
+because it must be -- otherwise failure and csacading collapse is
+assured.
 
 For the far-leftist opposition, their leadership will collapse: the
 less visible leadership of "architects" who has indirectly been acting
@@ -1917,30 +1926,94 @@ these most radical architects want to stick their necks out for a
 while. Again, it's a period of time where caution must be exercised
 and it will certainly be a little chaotic.
 
+<a name="how-does-post-revolutionary-france-relate-to-21st-century-america" />
+
+### [How Does Post-Revolutionary France Relate To 21st Century America?](#how-does-post-revolutionary-france-relate-to-21st-century-america)
+
 How do I know this? Once the *TRUTH* is in place, then the architects'
 precious anti-bourgeoisie narrative is destroyed *AND CAN NEVER BE
-RECOVERED*. Just like how the stage was set before Napolean fired
-those fateful blasts of grapeshot, the American people are sick of
-seeing these Robespierrian witchhunts. We all know it's bad. We're
-ready for something different. Now that their retro-narrative
-justifying future cultural revolution is destroyed, they have no
-incentive to act: they would simply bring everything falling on top of
-them after gaining power *because they will know that the public will
-find out and there's nothing they can do about it* It sounds crazy,
-but any of them that act at this point, they will surely will be seen
-as traitors.
+RECOVERED*.
 
-So instead they will come fleeing to our side. I swear to God. I think
-you've heard "Be ready for them, with open arms." We only need to find
-the ones who were without a doubt aligned against american
-interests. We do not seek to punish or villify those who only wanted
-to support the poor and struggling, but those who would sacrifice the
-economy for a deceptive gambit to gain power.
+Just like how the stage was set before Napolean fired those fateful
+blasts of grapeshot, the American people are sick of seeing these
+Robespierrian witchhunts. In the French Revolution, you first had the
+Jacobins, who plotted to overthrow the monarch. Then, Robespierre went
+nuts with the guillotine. Finally Napolean steps in and only a handful
+of people tried to stop him. Why? In post-revolutionary France, people
+were sick of the revolutionaries' abuses of power, but they hated the
+monarchs more and never wanted them to regain power either. Napolean,
+basically a complete nobody at that point, enters stage left and
+becomes the hero, giving the people the compromise between the
+*nouveau pouvoir de l'inexpérimenté*, who only understood rule through
+fear, and the *ancien pouvoir*, who methodically suppressed the poor
+for so long.
+
+#### Napoleon's Crowning Star of Paris
+
+![The Arc de Triomphe on Champs-Élysées](/img/posts/2018-01-25-caelis-ruissent-avoiding-the-engineered-collapse/arc-de-triomphe.jpg)
+
+Subsequently, Napoleon then gets drunk on his own success and embarks
+on a roadtrip to Russia, establishing the seeds of the French-Russian
+socialism connection that would begin to morph into Marxism some half
+a century later. This is perhaps his *greatest* mistake because in his
+conquest of Europe, Napoleon essentially scatters a diaspora of French
+cultural seeds, which all act as a basis for a high degree of
+sociophysical connection for the next century.
+
+> Please note, I'm no historian of the French Revolution. Still, the
+> wonder of history is that it's value lies not in what it is, but in
+> the myriad of ways people in the future *may* choose to look back on
+> it. To me, history is never meant to be interpreted in one,
+> definitive way, since every culture, group or historian will have
+> their own take on events. In this way, the true value of history is
+> in all the ways we can imagine that decisions were made and how
+> those actors imagined that people might look back on them. Of
+> course, without a rational basis, history quickly becomes
+> meaningless. Still, the most important decisions in history are
+> those which elude understanding.
+
+When Napoleon first gained power, what was Napolean armed with?
+Knowledge of the truth that seems to have completely eluded the
+Jacobins: the struggle of the poor was moreso linked to economic
+circumstances, perhaps neglected by the crown. Nothing the Jacobins
+were doing would have fixed this because they were focused inward and
+determined to ruthlessly quell the chaos, wasting most of the energy
+they directed through their own power structures. What they needed was
+outward economic empire. The military was the best way to deliver this
+in the early 19th century, which is what Napolean delivered with
+outright empire.
+
+Military expansion today won't do America much good today. It's too
+expensive, today AND tomorrow. Instead we need to focus on building an
+economic powerhouse to compete abroad, constructing an empire of
+economic expansion via the establishment of platforms for renewables
+and data science, the gold of the 21st century. We can't slack off on
+military concerns, but we do need deterrence and we might just have to
+fight for our rights and prospertiy.
+
+<a name="once-their-retro-narrative-is-obliterated" />
+
+### [Once Their Retro-Narrative Is Obliterated, Welcome Their *Supporters* With Open Arms](#once-their-retro-narrative-is-obliterated)
+
+We all know it's bad. We're ready for something different. Now that
+their retro-narrative is destroyed -- the one justifying future
+cultural revolution -- and they thus have no incentive to act: they
+would simply bring everything falling on top of them after gaining
+power *because they will know that the public will find out and
+there's nothing they can do about it* It sounds crazy, but any of them
+that act at this point, they will surely will be seen as traitors.
+
+So instead they will come fleeing to our side. I swear to God that's
+what will happen. I think you've heard "Be ready for them, with open
+arms." We only need to find the ones who were without a doubt aligned
+against american interests. We do not seek to punish or villify those
+who only wanted to support the poor and struggling, but those who
+would sacrifice the economy for a deceptive gambit to gain power.
 
 So make the right information contagious: the information that
 guarentees that humanity will work together. More than anything, these
-überelite fear the contagion of information that disrupts their
-meticulous calculations, whose moral consequentialist ends are
+überelite illuminati fear the contagion of information that disrupts
+their meticulous calculations, whose moral consequentialist ends are
 maintained as vague at best and unknown to nearly all. That is by
 design.
 
@@ -1954,5 +2027,6 @@ their identity shall remain.
 
 But please, keep in mind, not all banking family's are the same. No,
 one profits at the demise of others. There is vicious competition
-among the illuminati elite. *AND, NO, "BANKING FAMILY" IS NOT A CODE
-PHRASE FOR JEWS, TATIANA.*
+among the illuminati elite.
+
+*AND, NO, "BANKING FAMILY" IS NOT A CODE PHRASE FOR JEWS, TATIANA.*
