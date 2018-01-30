@@ -943,6 +943,58 @@ STUPID! Look at what they accomplished with
 > cleanse their hearts of their own evil, then evil will find it's way
 > out into the world once again by any means necessary.
 
+#### Well Föcke Would You Look At That, It's a [Zuse Z1](https://en.wikipedia.org/wiki/Konrad_Zuse#Pre-World_War_II_work_and_the_Z1)
+
+![Meet the Fockers](/img/posts/2018-01-25-caelis-ruissent-avoiding-the-engineered-collapse/erika-helicopter.jpg)
+
+#### Meet the Fockers
+
+Pictured above is a Föcke, which was a prototypical rotor airfraft: a
+helicopter. Helicopters may have received additional research focus as
+a result of the Versailles prohibition on military research, but by
+1937, I'm not sure those terms mattered much.
+
+The Germans responded by developing what they could: fundamentally
+novel technology with ostensibly zero military potential.
+Cryptography was also critical to transmit messages to circumvent
+Versailles military logistic coordination prohibitions, so all those
+extremely talented and patriotic officers left in the German Army:
+they invested a lot of effort there, too. It's another reason why
+their espionage tactics were decades of everyone else: no one in
+Europe could know what they were doing. At the same time, you had
+Soviet-led corruption of the Weimar Republic, essentially hacking
+German democracy against itself to weaken Germany against an external
+threat: Stalin's planned invasion of the Eastern Europe to attain
+World Revolution, since communism is economic unsustainable.
+
+I believe it was the Germans who realized that the Soviets had someone
+like the Rosenbergs feeding them information from the Manhattan
+project and that would be close to obtaining a nuclear bomb by the end
+of the war. Nazi's may have also realized the OSS was hopelessly
+compromised by communist agents. There's a reason we needed to start
+from scratch with the CIA and I don't know what that was. However, I
+do know that the Nazi's expert understanding of espionage tactics lead
+to a major advantage for Americans in the decades after World War
+Two. Before WW2, our spices were poorly trained with not many people
+to spy on.  The Nazi's probably helped us restructure the operation
+methods and logistics of the CIA. They were the only reason that our
+spies were able to catch up and outpace the enemy.
+
+So useful and critical to the early development of what eventually
+became the NSA. They knew everything that was going to unfold in
+technology in the coming 5 decades and had it ripped from them at the
+end of World War 2. Why?  Because the victors write history -- but
+there are two sides to every story. Much of what happened was wrong,
+obviously. Why do you think that
+[Zuse](https://web.archive.org/web/20110829164932/http://www.gap-system.org/~history/Biographies/Zuse.html)
+never got the credit due to him for being a pioneer in computational
+research?
+
+How do you think we beat the Soviets? By getting to Nazi researchers
+first. The development into rocketry, crypto, submarine design and
+other fields meant their scientists and mathematicians were critical
+to beating the Soviets. We never could have done it without them.
+
 #### Since All Warfare is Fundamentally Information Warfare, Would The End of Espionage Would Imply The End of War?
 
 We *may* be embarking towards an age where warfare and even espionage
@@ -2168,7 +2220,7 @@ After all, it's people like you that I have been fighting for this
 whole time. I'm not asking for your blind faith. I'm only asking that
 you learn. If you learn enough, you'll find that, at least in the ways
 which are most critical, I'm correct. Would you like to trade places
-with me? Willingly? LMAO. OK, let's see you write 25,000 words for
+with me? Willingly? LMAO. OK, let's see you write 27,000 words for
 free, knowing that no one can read them without suffering, and let's
 see what you write. OK, now write 500,000 words and be original. Do
 you get my drift? Get the fuck out of my way. Take your COINTELPRO
