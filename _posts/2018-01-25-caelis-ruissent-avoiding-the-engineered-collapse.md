@@ -107,7 +107,7 @@ immemorial.
 
 #### &#8968;xx&#8969; [Sociocultural Convergence And Spectral Decoherence Accruing and Proceeding at Paradoxically The Same Time](#sociocultural-convergence)
 
-#### &#664; &#8968;xxi&#8969; ### (Universal Language)
+#### &#8968;xxi&#8969; [We Need Universal Language For Cultural Compactification. This is Hard With Seven Billion People and No Hard Reset](#we-need-universal-language-for-cultural-compactification)
 
 ## [TL;DR;](#tl-dr)
 
@@ -814,38 +814,150 @@ truth.
 
 ### &#8968;viii&#8969; [Novel WMD Technologies Render Frightening Hard Sci-Fi Into Reality And Create Intelligence Nightmares](#novel-wmd-technologies-render-frightening-hard-scifi-into-reality)
 
-- there are no operational-level strategies as long as these tactics
-  are on the board. revealing them for what they are force all major
-  powers to cooperate, which is what we must do anyways.
+There are no certain operational-level strategies as long as many of
+the above tactics are on the board. Revealing them for what they are
+forces all major powers to cooperate, which is what we must do
+anyways.
 
-- We *may* be embarking towards an age where warfare and even
-  espionage are impossible, even though that sounds ludicrous and
-  should be considered insane by any responsible person who works in
-  intelligence.
+Many 21st century technologies form the basis of Novel WMD's or what
+could cause consequences as catastrophic as weapons of mass
+destruction in their second-order effects. Some of these are not as
+obvious as others. They include:
+
+#### &#2605; Artificial Intelligence
+
+#### &#2605; CRISPR and Genetic Engineering
+
+#### &#2605; Neurological Warfare (potentially)
+
+#### &#2605; Environmental Warfare
+
+#### &#2605; Space-Based Warfare
+
+#### &#2605; Tactics Against Electrical And Communications Infrastructure
+
+These have received plenty of attention in the news. It is the weapons
+with self-perpetuating consequences, such as weaponized genetic
+engineering or biological pathogens, that have the most potential for
+harm.
+
+Their potential for disruption of fragile sociological systems and
+institutions is where the greatest danger to humanity lies. Humanity
+is standing on the shoulders of giants and, from up here, it may seem
+like we are safe. However, to say that society is statistically
+overdue for a catastrophe is a understatement of tragic
+proportions. This is not a risk that parallels the [Inspection paradox
+at all](https://en.wikipedia.org/wiki/List_of_paradoxes#Statistics) --
+i.e. the risk is not about how long on average we should expect before
+we see another calamity or "Great War."
+
+Our civilization is hardly typical and there are institutions that
+work tirelessly to prevent these catastrophic kinds of events
+occurring. The United Nations is one of the most important
+organizations for preventing wars which its signaturies have
+determined to be "illegal." This is fantastic, but what happens in
+reality is that conflict plays out in the ways available for people to
+engage in conflict.
+
+So, in spite of all the work done to prevent calamity, to stagnate
+war, to repudiate the belligerents and the twar criminals and to hold
+back the flood waters, this is not why we are "overdue" for a crisis.
+The risk for these crises to emerge has everything to do with
+population and economics and much less to do with how many we see in
+our lifetimes.
+
+In fact, the less crises we see, the less prepared for a major crisis
+we will be. Instead you have many groups of people, some impoverished,
+some motivated by ideology, some are simply radical because typical
+thinking gets typical results. These groups are willing to work hard
+to change their conditions because the trajectory they are on is
+unacceptable to them. These groups are many peoples that exhibit a
+cumulative thirst for change and are willing to direct their will
+towards attaining that change. However, the kinds of change they want
+to bring about are all divergent: each one of these groups has a
+different notion of what it means for them to succeed in changing
+their circumstance. Instead what we need is for everyone to have the
+same goal: the collective and sustained advancement of
+humanity. Otherwise, then, when you remove a critical threshold of
+influence peacekeeping institutions like the UN offer, there will be a
+surge of potential for catastrophe. The more disruption that occurs,
+the more potential for disruption the world accumulates.
+
+Eventually, the people left realize how fucked up their lives are
+grapple with a different kind of nihilistic crisis. They are left with
+a broken world, which was broken for reasons they can't understand and
+in ways they can't fix. There is no hope for these people. Not only is
+virtue unable to flourish, it is cruelly stomped out of anyone who
+might think to engage in moral behavior because moral behavior does
+not allow you or your family to survive in this world.
+
+> Seven billion people are seven billion ways to build a new world and
+> fix all the problems of the old world, but they are also essentially
+> seven billion vectors through which calamity can emerge. We need
+> everyone and we need everyone to realize how they can contribute to
+> the world. We need them to feel a sense of purpose, to be educated
+> and to be empowered to contribute to the mechanisms of stability
+> that our world so badly needs.
+
+#### Since All Warfare is Fundamentally Information Warfare, Would The End of Espionage Would Imply The End of War?
+
+We *may* be embarking towards an age where warfare and even espionage
+are impossible, even though that sounds ludicrous and should be
+considered insane by any responsible person who works in
+intelligence. Look at the image below if you don't believe me.
+
+#### [Sociophysical Analysis](https://arstechnica.com/information-technology/2018/01/heatmap-for-social-athletes-app-reveals-secret-bases-secret-places/) Just Revealed Many Secret US Military And Intelligence Facilities Around the World
+
+![Social Physics Jogpaths](/img/posts/2018-01-25-caelis-ruissent-avoiding-the-engineered-collapse/social-physics-jogpaths.jpg)
+
+> I do hope that our military and intelligence can do the same. I'm
+> fairly confident we already have: the public just hasn't heard about
+> it. So why don't you put some of those in your wheaties this
+> morning?
+
+For military and intelligence, the truth is that the components of
+tactics that they choose and the directions they decide to take at the
+higher, more operational levels of strategy depend strongly on what
+those leaders know will made available at later times. They don't want
+to engage in operations or towards the attainment of goals in the
+long-term that depend on keeping secrets in the future, if they know
+those secrets are quite factually impossible to keep. This is a
+critical factor for operations and operational strategy, especially as
+we are magnetically drawn towards the Singulariity. If there is
+exponential disruption of what possibilities are enabled by
+technology, where does that leave us in the future and how do we plan
+for what we cannot know? Some things are impossible to plan for and
+must be mitigated, ad hoc, in the future. We should hope to minimize
+the need to do that through piercing long-term vision for the future
+
+This is why we should hope that our record speaks for itself. For
+America, even though we have exercised hegemonic supremacy for about a
+generation, I think that we do make good decisions almost all of the
+time and we invest a lot of skin in the game in standing up for what
+is right. That's why the far-leftist narrative that paints America has
+selfish, greedy, racist and ignorant is so infuriating. Just let
+someone else win and get on top and see what happens!
 
 ### &#8968;ix&#8969; [Statistical Methods Will Demonstrate Evidence of Weather Control For The Past Two Decades](#statistical-methods-will-demostrate-evidence)
 
 #### This Includes Weaponized Weather Which Will Be Partially Responsible for Global Weather Destabalization
 
-- This is not to say that climate change is false or a coverup.
-  Climate change is very real and this is going to cause more
-  problems.
-  - we're going to see weather control used as a tactic in economic
-    warfar, disrupting the agricultural value of entire regions.
-  - it is very possible to "seed" clouds. there have already been
-    applications of
-
-- The problem is that global weather systems are tightly and
-  intricately connected. Furthermore, they vulnerable to phase
-  changes, where a new phase emerges and the entire system can never
-  be the same again.
+Climate change is not false or a coverup. Climate change change is
+very real and weaponized weather is only going to cause more
+problems. Why? Because of manmade disruption of the environment,
+dramatically altered weather systems both large and small are already
+unstable. When the Earth exhibits a global phase change in weather
+systems, *everything* changes. Global weather systems are tightly and
+intricately connected. Furthermore, they vulnerable to phase changes,
+where a new phase emerges and the entire system can never be the same
+again.
 
 #### If You Didn't Understand What I Just Read, It's OK. Read This:
 
 > Ever heard of an "ice age" or the "end of the last glacial maximum?"
 > Exactly. It's not that hard to understand then, is it? The
 > difference is: when I try to describe something methodologically, I
-> am ridiculed and psychologically tortured.  People just cannot
+> am ridiculed and psychologically tortured. People just cannot
 > understand what I am saying, but that precisely sums up the value in
 > what I say. You have someone telling you something that is
 > important. It cannot go unheard. And what do you do? Exactly what
@@ -854,12 +966,63 @@ truth.
 > you the error of your ways.
 
 I am simply tired of being attacked by lilliputian pissants, whos
-stings are pleasantly amusing when their irony is taken into account,
-but still collectively infuriating.
+stings are pleasantly amusing when their irony and spinelessness is
+taken into account, but still collectively infuriating.
 
 #### Lilliputian: Read A Fucking Book Sometime. I Want Everyone To Be As Strong And Smart As Is Possible
 
-![]()
+> Lilliputians are essentially the prototypical communist serfs, where
+> I imply the moniker serf in the most ironic sense possible.
+
+![Gulliver's Travels](/img/posts/2018-01-25-caelis-ruissent-avoiding-the-engineered-collapse/gulliver.jpg)
+
+Why is weather control relevant? There will be economic incentives to
+use weather control as a method in economic warfare. This will result
+in, disrupting the agricultural value of entire regions. It is very
+possible to "seed" clouds. However, any disruption to weather disrupts
+the entire climate as a single system. So, seed clouds over the large
+bodies of water nearby and you influence the patterns of moisture
+formation elsewhere.
+
+#### The Climate As A System Is Being Manipulated
+
+How can you detect that this is already happening? You look at the
+*regional* dissonance between computational weather predictions and
+the actual results. You then trace that regional dissonance backwards
+and compare it to the predictions computational systems predicted for
+various regions. Predicting the weather? That's hard. Analyzing
+weather predictions? That's more complicated, mathematically, but
+easier in terms of producing accurate results. One potential problem
+here lies in whether the actors here are engaging together in weather
+control across the world in tandem to cover their tracks.
+
+There are interesting components of game theory in this particular
+problem. Would the actors doing this on a large scale act in tandem or
+not? If so, how would they decide what was fair? If they act as a
+group, which nations should benefit from weather control? However,
+acting as a group is the best way that they could while to cover their
+statistical tracks and thus make it difficult for the above
+regional-prediction-dissonance method. If there's enough dissonance
+everywhere, it's hard to see the actions of just one group or of any
+groups intending to influence weather. However, they're interactions
+with the weather are still ultimately discernable as a group. The big
+question there is: why would they act in concert as a group of
+superpowers influencing the weather in top secret ways, while keeping
+it secret from the public?
+
+Furthermore, again, there is no plausible means of explaining this to
+the common person. How do you explain this to someone? Before economic
+catastrophe? And after economic catastrophe? Maybe you accentuate the
+problem of global warming or climate change. If people believe it,
+that's what they'll think caused the problems. None of these
+crypto-communist plots make sense or seem relevant moving
+forwards. But once you extrapolate into potential futures and peer
+backwards, *ALL OF THEIR NARRATIVES ARE CLEARLY WOVEN TOGETHER.*
+
+If I'm right about any of this or most of this, what it means is that
+the narrative of climate change is just a cover story. It's a fantasy
+that some very powerful people plan on using to explain how everyone
+died and all the weather is so fucked up in 2,300 A.D.!!!
 
 <a name="evidence-of-the-psychosocial-manufacturing-of-mkultra-style-manakins-by-all-major-powers" /.
 
@@ -944,8 +1107,6 @@ with overpopulation. That all fabricated stories would fall to tatters
 and that all would be judged for the lies of history would also be
 knowable. I am not blindly asserting this. I would love to debate the
 merits of that statement.
-
-![Social Physics]()
 
 <a name="computational-science-nearly-obliterates-the-need-for-human-labor-in-science" />
 
@@ -2046,30 +2207,47 @@ certain of influence. After all, it takes generations for language to
 mutate.
 
 High-bandwidth telecom networks and exponential convergence of
-communication networks metamodernism is incredibly disuptive for
-language, especially at modern rates and bandwidth for information
-exchange. During this next period of cultural super-connectivity, the
-same trends play out for langauge as did for culture and belief
-systems above.
+communication networks multipy metamodernism's incredibly disuptive
+effects on language, especially at modern rates and bandwidth for
+information exchange. During this next period of cultural
+super-connectivity, similar trends play out for langauge as they did
+for culture and belief systems above. Language is disrupted and
+surveillance forces higher rates of adapation for survival. This leads
+to rapidly rising and falling slang, which itself leads to the rapid
+adoption and divergent evolution of dialects and accents. This all
+happens at faster rates than ever before in history.
 
 The opportunity for this universal language will open as people try to
-make sense of the sociocultural chaos.
+make sense of the sociocultural chaos. There are major needs for
+language to be redesigned around technology and especially indexing
+algorithms. There are the savings in computatational and
+spatiotemporal complexity, which cannot be overstated, since they
+contribute towards energy-savings: and energy *IS* money in the
+future. Therefore, those cultures who can adapt faster by making their
+culture more readily indexible stand to gain, as well as those who
+already have a readily & easily indexable writing system like
+Chinese.
 
-There are major needs for language to be redesigned around technology
-    and especially indexing algorithms. the savings in computatational
-    and spatiotemporal complexity (cannot be adequately emphasized)
-  - in 2012 and perhaps earlier, i realized that Google would be
-    well-served by artchitecting its own language.
-    - not only are storage space and processing time saved in
-      abundance, but also the energy that's required for processing
-      the hyperbolically inflated complexity spaces of search
-      algorithms.
+Every language has its idiosyncracies. Technology and algorithmic
+manipulation of data causes these minor difference to extrapolate in
+divergent ways in the 21st century. To me, these differences are
+fascinating, but there is no correct answer.
 
+> We must learn and understand these things as they are. *Simply that
+> and nothing more*. There is a real danger for analysis of langauge
+> and culture to cause problems or hurt feelings. However, we all lose
+> if we don't try to understand these things.
+
+In 2012 and perhaps earlier, I realized that Google would be
+well-served by artchitecting its own language. Not only are storage
+space and processing time saved in abundance, but also the energy
+that's required for processing the hyperbolically inflated complexity
+spaces of search algorithms.
 
 > Did you know that Leibniz was estimated to have an IQ of 190?
 
-As has been demonstrated, there is both the need for and possibility
-for a universal language. It should be designed such that:
+So, as has been demonstrated, there is both the need for and
+possibility for a universal language. It should be designed such that:
 
 #### &#9312; The morphological aspects of its adoption and evolution are accounted for.
 
@@ -2126,6 +2304,11 @@ this one too badly. You ain't out of the woods yet.
 #### And You Say You Saw This "Baby" Einstein ... Where? Show Me.
 
 ![Gangster Einstein](/img/posts/2018-01-25-caelis-ruissent-avoiding-the-engineered-collapse/gangster-einstein.jpg)
+
+We need to empower people around the world with education for the sake
+of education. otherwise we are doomed. To that end, what kind of
+message does my own life experience send? And why does it have to be
+this way? Nihilism is humanity's greatest enemy right now.
 
 <a name="tl-dr-billions-of-people-will-die" />
 
