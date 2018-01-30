@@ -2264,6 +2264,29 @@ Michael Jackson Thriller memes ready.
 
 ![Neon Genesis Evangelion](/img/posts/2018-01-25-caelis-ruissent-avoiding-the-engineered-collapse/neon-genesis-evangelion.jpg)
 
+This all seems to match closely with the
+[proto-evangelium](https://en.wikipedia.org/wiki/Protevangelium),
+which is something like God's promise that the Serpent will be
+destroyed. The danger here is that it is the most powerful people who
+were *not truly righteous* who will fall. This in itself is another
+cause for concern because they may not decide to fall gracefully.
+Those, like the falsely-righteous Pharisees who plotted to have Jesus
+murdered, will fall most severely. The truly-righteous will be saved
+by the records of their good actions. This was always the intent of
+religion, was it not? To make man *better*, by virtue of his actions?
+
+So, those who sought to outmaneuvre the intent of those belief
+systems, while appearing to adhere to them will be ... Scooby Doo'd
+right at the end of our era, much to the surprise of everyone. That
+the Pharisees tried so hard to adhere to their own laws while
+outmaneuvring the intent of those laws was what I believe Jesus was
+trying to fix. This coming "judgement" has nothing to do with Judaism,
+specifically, but will apply to all mankind. It will be fairly chaotic.
+
+#### And Now We Get To See Who The Real Villain Was
+
+![Scooby Doo](/img/posts/2018-01-25-caelis-ruissent-avoiding-the-engineered-collapse/scooby-doo.jpg)
+
 <a name="how-do-you-stop-a-plan-to-orchestrate-collapse" />
 
 ### &#x2308;&#65942;&#x2309; [How Do You Stop A Plan To Orchestrate Collapse, Simply to Shield Deep-State Actors Who Want To Enrich Themselves For Eternity?](#how-do-you-stop-a-plan-to-orchestrate-collapse)
