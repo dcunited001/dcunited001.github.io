@@ -2030,16 +2030,34 @@ coming. That is certain.
 
 ### &#8968;xxi&#8969; [We Need Universal Language For Cultural Compactification. This is Hard With Seven Billion People and No Hard Reset](#we-need-universal-language-for-cultural-compactification)
 
-- metamodernism is incredibly disuptive for language, especially at
-  modern rates and bandwidth for information exchange.
-  - language is a distributed probabalistic program.
+Language is essentially a distributed probabilistic program. Each
+language has its own semantic meaning-maps, but moreover each speaker
+has their own individual meaning map and these can develop
+variably. Partly because langauge is a distributed probabilistic
+program, not every person is going to recognize every word or concept
+you use in an identical way. Instead, speakers must account for
+dissonance in interpreted semantic meaning.
 
-- The opportunity for this will open as people try to make sense of
-  the sociocultural chaos.
-  - there are major needs for language to be redesigned around
-    technology and especially indexing algorithms. the savings in
-    computatational and spatiotemporal complexity (cannot be
-    adequately emphasized)
+The greater and wider the distribution of a language, the more useful
+it is to learn. The distribution of languages wax and wane, but
+controlling the evolution of langauge is one of the most powerful
+methods of thought control, albeit very hard to anticipate and be
+certain of influence. After all, it takes generations for language to
+mutate.
+
+High-bandwidth telecom networks and exponential convergence of
+communication networks metamodernism is incredibly disuptive for
+language, especially at modern rates and bandwidth for information
+exchange. During this next period of cultural super-connectivity, the
+same trends play out for langauge as did for culture and belief
+systems above.
+
+The opportunity for this universal language will open as people try to
+make sense of the sociocultural chaos.
+
+There are major needs for language to be redesigned around technology
+    and especially indexing algorithms. the savings in computatational
+    and spatiotemporal complexity (cannot be adequately emphasized)
   - in 2012 and perhaps earlier, i realized that Google would be
     well-served by artchitecting its own language.
     - not only are storage space and processing time saved in
@@ -2047,6 +2065,67 @@ coming. That is certain.
       the hyperbolically inflated complexity spaces of search
       algorithms.
 
+
+> Did you know that Leibniz was estimated to have an IQ of 190?
+
+As has been demonstrated, there is both the need for and possibility
+for a universal language. It should be designed such that:
+
+#### &#9312; The morphological aspects of its adoption and evolution are accounted for.
+
+#### &#9313; It retains efficiency in spoken/written communication
+
+#### &#9314; Its resulting spatial/computatioanl complexity are characteristics time & energy efficient
+
+#### &#9315; It maps closely to Leibniz's idea of [Characteristica Universalis]() the Universal Language, based on logic and universal mathematic primitives
+
+#### &#9316; It is based on or accounts for the fractal ontological that pervades the Tao De Ching
+
+#### &#9317; We don't lose our humanity by speaking it and certainly don't try to force people to speak it
+
+#### &#9318; It segues nicely into [quantum language](https://github.com/dcunited001/dcunited001.github.io/blob/sources/_drafts/quantum-language.md)
+
+Yes, it sounds crazy -- I'm well aware of this. In spite of what it
+sounds like on the surface, the possibility exists because of
+metamodernism, the financial incentives exist because of the
+energy/computational savings, and the need exists. Why is there a
+need? A universal language may be necessary to our survival as one of
+the social engineering projects that helps shield us from the wrath of
+an AI who blindly chases energy and resource consumption, with zero
+concern for humanity.
+
+> Would you like to hire me, Google? What's that? "Too much
+> baggage..." you say? That's what I thought. Harvard, MIT, Virginia
+> Tech and Facebook essentially said the same thing when they decided
+> I wasn't worth the trouble. No hard feelings ... I've just been
+> unceremoniously rejected and raped by the entire world for no reason
+> and with nothing to ever have been gained for it anyways, since it
+> was all a rigged game.
+>
+> (It's obviously not Google's fault, LOL)
+
+I'm sure this won't look bad at all to those subsequent generations in
+history wrestling with crippling nihilism and a world [who gangraped
+an Einstein on a "train" to
+Dashau](https://twitter.com/search?q=einstein%20%40dcunit3d&src=typd). Don't
+listen to me though. The social justice warriors -- viz. the [sadly
+naive pawns of
+Leninists](/posts/2018-01-23-social-justice-a-just-cultural-revolution.html),,
+with hearts of gold -- they want you to believe that everything I say
+is propaganda. I'm sure they have the answers. I'm actually not sure
+who did all this to me -- it's certainly not solely SJW!...
+
+But! ... If you find them, ask them for the answers to all the tough
+questions: I'm sure they stole everything from me ... or so they
+think. So, they'll give you all the same answers while continuing to
+gangrape me. Figures... It's just a shame they could never
+extrapolate *the rest of these answers* on their own ... hmmmm, you
+gonna need to find yourself another gangster Einstein, if you break
+this one too badly. You ain't out of the woods yet.
+
+#### And You Say You Saw This "Baby" Einstein ... Where? Show Me.
+
+![Gangster Einstein](/img/posts/2018-01-25-caelis-ruissent-avoiding-the-engineered-collapse/gangster-einstein.jpg)
 
 <a name="tl-dr-billions-of-people-will-die" />
 
@@ -2274,6 +2353,10 @@ Those, like the falsely-righteous Pharisees who plotted to have Jesus
 murdered, will fall most severely. The truly-righteous will be saved
 by the records of their good actions. This was always the intent of
 religion, was it not? To make man *better*, by virtue of his actions?
+
+> Miscavige's Scientology leadership would *undoubtedly* try to
+> disempower/kill their own messiah. Why? To preserve their claim to
+> authority.
 
 So, those who sought to outmaneuvre the intent of those belief
 systems, while appearing to adhere to them will be ... Scooby Doo'd
@@ -2533,6 +2616,12 @@ economic expansion via the establishment of platforms for renewables
 and data science, the gold of the 21st century. We can't slack off on
 military concerns, but we do need deterrence and we might just have to
 fight for our rights and prospertiy.
+
+#### Are We Out Of The Woods Yet?
+
+<iframe width="560" height="315"
+src="https://www.youtube.com/embed/JLf9q36UsBk" frameborder="0"
+allow="autoplay; encrypted-media" allowfullscreen></iframe>
 
 <a name="once-their-retro-narrative-is-obliterated" />
 
