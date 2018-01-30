@@ -899,6 +899,50 @@ not allow you or your family to survive in this world.
 > and to be empowered to contribute to the mechanisms of stability
 > that our world so badly needs.
 
+#### This Is What Happens When Your Legal Response to A Major Power Makes a Major Miscalculation, Especially With Regard to Technology
+
+<iframe width="560" height="315"
+src="https://www.youtube.com/embed/YThv9pmtuXo" frameborder="0"
+allow="autoplay; encrypted-media" allowfullscreen></iframe>
+
+The lecture above covers many aspects of the German war machine in the
+interwar period. What happened: the framers of the Versailles treaty
+did not understand the Germans, nor did they understand they hatred
+they created in their one-sided treaty, nor did they understand how
+the German military apparatus would *sociohierarchically* respond to
+such anti-military sanctions: only the most talented, most patriotic
+officers would be permitted to hold a position in the military.
+Everyone else? Gone. This concentrated the power, will and intent to
+get back at Europe for how they bound Germany down and raped the
+German economy after WW1, bleeding it's industrial sectors without
+allowing the Germans to pay off their own debt with their own blood
+and sweat. Your poor international response merely sowed the seeds for
+subsequent conflict.
+
+Most crucially, the framers of the Versailles Treaty did not know what
+a fucking rocket was or would become, since rocketry "wasn't
+conceivable" at Palace of Versailles, amongst all those Ivy-league
+educated brains. [WHO THE FUCK WAS GODDARD
+ANYWAYS?](https://en.wikipedia.org/wiki/Robert_H._Goddard#Early_rocketry_research)
+
+In case you missed it -- because it's hard to see -- the main question
+here is: did the underwriters for the Treaty of Versailles understand
+that the German military apparatus would respond by blindly chasing
+the only military research loophole that apparently no futurist or
+Jules Verne reader of that time could possibly conceive?
+*ROCKETS*. They left rocketry out of that treaty! Why did they do
+that? Depending on how you answer that single question will tableflip
+long-held narratives of history concerning the true causes of WW2.
+
+What I know about these treaty underwriters is that they are NOT
+STUPID! Look at what they accomplished with
+[Sykes-Picot](https://en.wikipedia.org/wiki/Sykes%E2%80%93Picot_Agreement).
+
+> What do you intend to do with all that power?! That is a critical
+> question. What do you *INTEND*?! If you can't convince men to
+> cleanse their hearts of their own evil, then evil will find it's way
+> out into the world once again by any means necessary.
+
 #### Since All Warfare is Fundamentally Information Warfare, Would The End of Espionage Would Imply The End of War?
 
 We *may* be embarking towards an age where warfare and even espionage
@@ -1019,10 +1063,40 @@ crypto-communist plots make sense or seem relevant moving
 forwards. But once you extrapolate into potential futures and peer
 backwards, *ALL OF THEIR NARRATIVES ARE CLEARLY WOVEN TOGETHER.*
 
+#### Am I Wrong?! I'm Wrong, Right?! Please Tell Me I'm Wrong... Because Otherwise, This Looks Like A Orchestrated Kiloholocaust
+
 If I'm right about any of this or most of this, what it means is that
-the narrative of climate change is just a cover story. It's a fantasy
-that some very powerful people plan on using to explain how everyone
-died and all the weather is so fucked up in 2,300 A.D.!!!
+the narrative of climate change is likely just a cover story. It's a
+fantasy that some very powerful people plan on using to explain how
+everyone died and all the weather is so fucked up in 2,300 AD!!!
+
+Assuming this isn't a global orchestration, where does the climate
+change policy response leave Dear Leader Mao's communist regime?
+America decided to wind itself down and choose to first make the
+necessary preparations in anticipation of climate change. This means
+our economy will have slowed down, letting China beat us on all fronts
+and hold us hostage in debt forever. I am not sure this is necessarily
+China's strategy, but it sure does benefit them -- *FOLLOW THE MONEY!*
+
+Who's the victim of all this? Mother Earth. That climate change is
+real and it threatens humanity is obvious. However, the game theory
+mechanics of international cooperation on this front just don't allow
+anyone to simply stabalize the climate while keeping their economy
+productive. Who wants their neighbors to have unproductive economies?
+Communists do.
+
+ I've written a "[propaganda
+piece](http://te.xel.io/posts/2017-02-28-international-trends-2020-climate-change.html)"
+on just how real climate change is -- not that anyone can read it
+though. Why? Your crypto-leninist "eichmanns" *need me to appear
+racist* **more** *than they actually want to fight racism*, so if
+someone reads my articles -- the good or the bad -- they lose their
+narrative: that I'm a hateful person who wanted to kick off a race war
+or some dumb fucking bullshit like that. Case in point: my
+life. Communists do not give a shit about ethnic issues. They actually
+destroy ethnicity, robbing their captive citizens of any connection to
+their culture or history -- *AND THEY HAVE ALWAYS DONE THIS*. It's not
+new.
 
 <a name="evidence-of-the-psychosocial-manufacturing-of-mkultra-style-manakins-by-all-major-powers" /.
 
