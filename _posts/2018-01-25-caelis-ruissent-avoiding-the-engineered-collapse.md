@@ -85,7 +85,7 @@ immemorial.
 
 #### &#664; &#8968;x&#8969; [Evidence of the Psychosocial Manufacturing of MKULTRA-style Manakins BY ALL MAJOR POWERS for Systemic Karmic Obfuscation For Centuries](#evidence-of-the-psychosocial-manufacturing-of-mkultra-style-manakins-by-all-major-powers)
 
-#### &#664; &#8968;xi&#8969; [Evidence Demonstrating Conspiracies Throughout the Ages will Simultaneously Be Revealed. All Will Be Judged.](#evidence-demostrating-conspiracies-throughout-the-ages-will-simultaneously-be-revealed)
+#### &#664; &#8968;xi&#8969; # [Evidence Demonstrating Conspiracies Throughout the Ages will Simultaneously Be Revealed. All Will Be Judged.](#evidence-demostrating-conspiracies-throughout-the-ages-will-simultaneously-be-revealed)
 
 #### &#664; &#8968;xii&#8969; ### [Computational Science Nearly Obliterates The Need For Humans In Science, Enabling Specific Technologies To Be Locked Away Forever](#computational-science-nearly-obliterates-the-need-for-human-labor-in-science)
 
@@ -103,12 +103,11 @@ immemorial.
 
 #### &#664; &#8968;xix&#8969; [Destroying Most Humans Makes Cultural Data More Digitally Compact For AI](#destroying-most-humans-makes-cultural-data-more-digitally-compact-for-ai)
 
-### &#8968;xxi&#8969; [We Need Universal Language For Cultural Compactification. This is Hard With Seven Billion People and No Hard Reset](#we-need-universal-language-for-cultural-compactification)
+#### &#8968;xxi&#8969; [We Need Universal Language For Cultural Compactification. This is Hard With Seven Billion People and No Hard Reset](#we-need-universal-language-for-cultural-compactification)
 
-### &#8968;xx&#8969; [Sociocultural Convergence And Spectral Decoherence Accruing and Proceeding at Paradoxically The Same Time](#sociocultural-convergence)
+#### &#8968;xx&#8969; [Sociocultural Convergence And Spectral Decoherence Accruing and Proceeding at Paradoxically The Same Time](#sociocultural-convergence)
 
-
-#### &#664; &#8968;xxi&#8969; (Universal Language)
+#### &#664; &#8968;xxi&#8969; ### (Universal Language)
 
 ## [TL;DR;](#tl-dr)
 
@@ -946,11 +945,88 @@ and that all would be judged for the lies of history would also be
 knowable. I am not blindly asserting this. I would love to debate the
 merits of that statement.
 
+![Social Physics]()
+
 <a name="computational-science-nearly-obliterates-the-need-for-human-labor-in-science" />
 
 ### &#8968;xii&#8969; [Computational Science Nearly Obliterates The Need For Humans In Science, Enabling Specific Technologies To Be Locked Away Forever](#computational-science-nearly-obliterates-the-need-for-human-labor-in-science)
 
 - ....
+
+- TODO: find a lecture that elaborates on how World War Two was
+  essentially a conflict precipated by philosophic undercurrents and
+  an artificial ideological divide in Europe.
+  - segue into computational science?
+- TODO: update title to account for how this contributes to the
+  spectre of nihilism
+
+- this is incredibly sad in its effects on the economy.
+  - It will totally change how we look at ourselves
+  - It will not matter if you are a Leonardo Da Vinci or an
+    Einstein. There will be nothing of value that you can contribute
+    to society which will outweigh your individual fiscal burden on it
+  - WW1/WW2 and the european rush towards ideology
+    - there was (rampant nihilism) because of the economic conditions.
+    - this next period of civilization will sadly be similar in that,
+      people may lose hope. from that void of hope, the same
+      philosophic conditions will emerge which resulted in the
+      interwar rush towards totalitarianism, eventually yielding the
+      conflict between Communism and it's more western response:
+      fascism.
+    - This is the danger: many people will begin to value their lives
+      poorly and so will their leaders. This is exacerbated by the
+      fiscal burden every individual will place on society, while not
+      being offset by any potential for any person to (contribute to
+      society) or be rewarded for significant contributions. thereby,
+      people will not value the potential their lives have to offer
+      the world. this will occur at the same time as spectral discord
+      of sociocultural chaos.
+      - as this happens, people will begin looking to crystalize under
+        new belief systems or old ideologies as a means of giving
+        their lives meaning and thereby value. This is incredibly
+        depressing because if humanity falls into this trap again, the
+        consequential conflicts will make World War 2 look like the
+        Whiskey Rebellion. Yet another vector for billions of people
+        to die through meaningless war fought over flawed ideologies
+        which were only ever deemed necessary as an escape from
+        nihilism.
+
+- nothing is inherently wrong with atheism. however, athiests want you
+  to believe that beliefs don't matter. how is it that someone's
+  belief system doesn't affect their actions?
+- religion gives us a means of providing people with that meaning to
+  life that combat's nihilism's tendency to (drown out) hope and
+  foment conflict.
+  - regardless of what belief system or tradition people came from,
+    when society goes through a nihilistic crisis on a small or large
+    scale, people lose hope. sociologically, they tend to respond by
+    gravitating towards a belief system
+  - the major world religions offer value unknown to belief systems
+    architected in the modern era, (regardles) of whether you consider
+    belief systems constructed around modern ideologies or those
+    constructed around new religions.
+    - religions accumulate value by accumulating the collective
+      culture, knowledge, doctrine and wisdom of generations through
+      which their institutions have existed.
+    - that is, the belief systems offer the greatest value ethat have
+      existed for longest at the widest scale of geographic and social
+      distributions. religions serve people's interests in how they
+      shape the beliefs of future generations, in how they instill
+      value systems that shape the actions of followers and -- most
+      critically -- how the social institutions of those religions
+      interface with the followers' lives and communities.
+
+- religion can be used as a means for helping us avoid such nihilistic
+  collapse into conflict of an unprecedented scale, as long as we
+  don't give in to the tendancy for religion itself to (foment)
+  conflict.
+  - of course, (our need to return to religion occurs well after the
+    time Nietzsche would say that God is dead.)
+  - but [God is not
+    dead](/posts/2016-06-01-im-not-religious-im-spiritual-1-God-is-not-dead.html). God
+    will return and is returning now. This will occur (in such an
+    obvious manner) such that we will no longer need faith to believe
+    in God.
 
 <a name="intellectual-property-endgame" />
 
@@ -1889,6 +1965,14 @@ crystallization. The rampant competition and spectral decoherence
 presents the opportunity for something new to emerge or it at least
 opens up the opportunity for something to fill the void.
 
+#### The Epic of Gilgamesh Rapidly Filled The Preliterary Sociocultural Void, Establishing The Paradigm of Mythos Everafter
+
+> I often wonder if the Sumerians realized the power they were
+> wielding when the pieces of that story were being brought
+> together (...)
+
+![Gilgamesh's Armory of Culture](/img/posts/2018-01-25-caelis-ruissent-avoiding-the-engineered-collapse/gilgamesh-culture.jpg)
+
 #### Case in point: Paganism in Post-Roman Europe
 
 Pagans had crafted their own belief systems that helped subsequent
@@ -2002,9 +2086,20 @@ suffered this whole time to tell you want you needed to hear most.
 
 ### &#x2308;&#65942;&#x2309; [Of Augustus Denarius and the Architects of Empire](#of-augustus-denarius-and-the-architects-of-empire)
 
-One of the biggest challenges is BANC
+China's international financial endgame includes BANC. Currently, it
+seems unlikely that China will be successful in this endeavor. Several
+of the BRICS nations, like Russia and India, essentially have one foot
+on each shore for the moment because it's unclear what will
+happen. Insteand, as I see it, they'd prefer the strategic
+flexibility, which is in their best interest, until demonstrated or
+proven otherwise. Over the course of the previous two years, it
+actually appears that Russia and India have backed away from BANC in
+significant ways.
 
-- the politics of fiat currency have a (very long) history
+If you fail to understand how important this is or how it is
+definitely an endgame piece towards which China will always posture
+itself, then you do not understand how world affairs will unfold over
+the next two decades.
 
 #### [A Silver Roman Denarius Minted By Augustus Caesar Circa 20 BCE](http://www.artic.edu/aic/collections/artwork/5600):
 
@@ -2141,9 +2236,37 @@ our gifts.
 
 ![The X-Men are Coming](/img/posts/2018-01-25-caelis-ruissent-avoiding-the-engineered-collapse/the-xmen-are-coming.jpg)
 
+<a name="a-neo-proto-evangelium-is-coming" />
+
+### [A Neo-Proto-Envangelium Is Coming: All Who Lived In The Modern
+Era Will Be Judged](#a-neo-proto-evangelium-is-coming)
+
+The time is coming when Satan's little head's gonna pop like a
+zit. Satan, as in, the embodiment of all evil. All of it. Technology
+illuminates the world such that evil is irradiated by data science,
+pretty much. Evil doesn't stand a chance because deception requires
+slight of hand and requires dissonance in the distribution of
+information. ALL becomes knowable and thus, almost all becomes known.
+The degree by which you sought to hide something becomes measurable as
+well. Therefore, when you try to hide from such cosmic radiance, you
+only serve to elucidate your cognizance. Please, be my guest. Try to
+hide all you want.
+
+I can't wait, personally. While this is all theoretically possible and
+while the most evil in our world no doubt has a plan in motion to hide
+their actions throughout history -- the demonstration of which is the
+entire purpose of this article -- their plan will fail and they will
+be judged. Watch in amazement as the most powerful of these evil
+people are miraculously abandoned. Grab some popcorn and get your
+Michael Jackson Thriller memes ready.
+
+#### Neon Genesis Evangelion
+
+![Neon Genesis Evangelion](/img/posts/2018-01-25-caelis-ruissent-avoiding-the-engineered-collapse/neon-genesis-evangelion.jpg)
+
 <a name="how-do-you-stop-a-plan-to-orchestrate-collapse" />
 
-#### &#x2308;&#65942;&#x2309; [How Do You Stop A Plan To Orchestrate Collapse, Simply to Shield Deep-State Actors Who Want To Enrich Themselves For Eternity?](#how-do-you-stop-a-plan-to-orchestrate-collapse)
+### &#x2308;&#65942;&#x2309; [How Do You Stop A Plan To Orchestrate Collapse, Simply to Shield Deep-State Actors Who Want To Enrich Themselves For Eternity?](#how-do-you-stop-a-plan-to-orchestrate-collapse)
 
 You set yourself free with the truth. I'm not encouraging immediate
 action here. Since I've written about things like economic collapse,
@@ -2406,6 +2529,10 @@ arms." We only need to find the ones who were without a doubt aligned
 against american interests. We do not seek to punish or villify those
 who only wanted to support the poor and struggling, but those who
 would sacrifice the economy for a deceptive gambit to gain power.
+
+> "We should consider every day lost on which we have not danced at
+> least once. And we should call every truth false which was not
+> accompanied by at least one laugh." - Nietzsche
 
 So make the right information contagious: the information that
 guarentees that humanity will work together. More than anything, these
