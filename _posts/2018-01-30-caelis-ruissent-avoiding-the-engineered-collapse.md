@@ -5,13 +5,17 @@ tags: ""
 headline: "When the sky falls, it will be swift. You will be trapped within a false paradigm: FOREVER!"
 author:
   name: "David Conner"
-excerpt: ""
+excerpt: "And you say you saw this 'Baby' Einstein ... Where? Show me.
+I'm sure this won't look tragically horrible in any way to those
+subsequent generations in history wrestling with crippling nihilism
+and a world who gangraped an Einstein on a 'train' to Dashau. Don't
+listen to me though, 'he who must not be named.' Don't ever do that!"
 ---
 
 > Entire world stunned as local man "pantses" US Congress just to show
 > them all as the dickless sycophants they are...
 
-![](/img/posts/2018-01-25-caelis-ruissent-avoiding-the-engineered-collapse/)
+![](/img/posts/2018-01-30-caelis-ruissent-avoiding-the-engineered-collapse/)
 
 There is an engineered collapse coming. It is not in American
 interests and there are those among you, both rich and powerful, who
@@ -22,7 +26,7 @@ America.
 
 It is likely that your leaders in name have no idea whats coming
 because they are going to take the fall for much of this -- therefore,
-it's far more likely to be people 1&#deg; away from them. After all,
+it's far more likely to be people 1&deg; away from them. After all,
 the man who is bound by all the money and fame and status they might
 lose is not truly free. Our leaders will only be able to stop this if
 they work together and if the people of democracies are willing to let
@@ -40,7 +44,7 @@ whatever you want for free.
 
 #### You Aren't Going To Let These Guys Ruin Your Life, Are You?
 
-![Plague Doctors](/img/posts/2018-01-25-caelis-ruissent-avoiding-the-engineered-collapse/plague-doctor.jpg)
+![Plague Doctors](/img/posts/2018-01-30-caelis-ruissent-avoiding-the-engineered-collapse/plague-doctor.jpg)
 
 These trends are damning. Merely mentioning them may cause severe
 consequences, but they are unavoidable and I know *exactly* how the
@@ -79,15 +83,15 @@ immemorial.
 
 #### &#664; &#8968;vii&#8969; [Nationality Law Begs Some Important Questions: If It Significantly Differs from Refugee Law, How and Why?](#nationality-law-begs-some-important-questions)
 
-#### &#664; &#8968;viii&#8969; ## [Novel WMD Technologies Render Frightening Hard Sci-Fi Into Reality And Create Intelligence Nightmares](#novel-wmd-technologies-render-frightening-hard-scifi-into-reality)
+#### &#664; &#8968;viii&#8969; [Novel WMD Technologies Render Frightening Hard Sci-Fi Into Reality And Create Intelligence Nightmares](#novel-wmd-technologies-render-frightening-hard-scifi-into-reality)
 
-#### &#664; &#8968;ix&#8969; # [Statistical Methods Will Demonstrate Evidence of Weather Control For The Past Two Decades](#statistical-methods-will-demostrate-evidence)
+#### &#664; &#8968;ix&#8969; [Statistical Methods Will Demonstrate Evidence of Weather Control For The Past Two Decades](#statistical-methods-will-demostrate-evidence)
 
 #### &#664; &#8968;x&#8969; [Evidence of the Psychosocial Manufacturing of MKULTRA-style Manakins BY ALL MAJOR POWERS for Systemic Karmic Obfuscation For Centuries](#evidence-of-the-psychosocial-manufacturing-of-mkultra-style-manakins-by-all-major-powers)
 
-#### &#664; &#8968;xi&#8969; # [Evidence Demonstrating Conspiracies Throughout the Ages will Simultaneously Be Revealed. All Will Be Judged.](#evidence-demostrating-conspiracies-throughout-the-ages-will-simultaneously-be-revealed)
+#### &#664; &#8968;xi&#8969; [Evidence Demonstrating Conspiracies Throughout the Ages will Simultaneously Be Revealed. All Will Be Judged.](#evidence-demostrating-conspiracies-throughout-the-ages-will-simultaneously-be-revealed)
 
-#### &#8968;xii&#8969; [Computational Science Nearly Obliterates The Need For Humans In Science, Enabling Specific Technologies To Be Locked Away Forever And Cultivating Rampant Nihilism](#computational-science-nearly-obliterates-the-need-for-human-labor-in-science)
+#### &#664; &#8968;xii&#8969; [Computational Science Nearly Obliterates The Need For Humans In Science, Enabling Specific Technologies To Be Locked Away Forever And Cultivating Rampant Nihilism](#computational-science-nearly-obliterates-the-need-for-human-labor-in-science)
 
 #### &#664; &#8968;xiii&#8969; [Intellectual Property Endgame: Not All Is "As Infinite" As You Would Like It to Be:](#intellectual-property-endgame)
 
@@ -95,19 +99,15 @@ immemorial.
 
 #### &#664; &#8968;xv&#8969; [Severe Turbulence in Forex Markets May End Up In Nations Making Baseless Accusations Of Wealth Incineration](#severe-turbulence-in-forex-markets)
 
-#### &#664; &#8968;xvi&#8969; [Energy And Resource Markets Give Rise To A Peak Oil Forever Scenario, If The Population Is Truncated](#energy-nad-resource-markets-give-rise-to-a-peak-oil-forever-scenario)
+#### &#664; &#8968;xvi&#8969; [The Outlines of An Alternative International Financial Regime Run By The Chinese and Russians Are Already In Place](#the-outlines-of-an-alternative-international-financial-regime)
 
-#### &#664; &#8968;xvii&#8969; [The Outlines of An Alternative International Financial Regime Run By The Chinese and Russians Are Already In Place](#the-outlines-of-an-alternative-international-financial-regime)
+#### &#664; &#8968;xvii&#8969; [Energy And Resource Markets Give Rise To A Peak Oil Forever Scenario, If The Population Is Truncated](#energy-nad-resource-markets-give-rise-to-a-peak-oil-forever-scenario)
 
-#### &#664; &#8968;xviii&#8969; [Energy And Resource Markets Give Rise To A Peak Oil Forever Scenario, If The Population Is Truncated](#energy-and-resource-markets-give-rise-to-a-peak-oil-forever-scenario)
+#### &#664; &#8968;xviii&#8969; [Destroying Most Humans Makes Cultural Data More Digitally Compact For AI](#destroying-most-humans-makes-cultural-data-more-digitally-compact-for-ai)
 
-#### &#664; &#8968;xix&#8969; [Destroying Most Humans Makes Cultural Data More Digitally Compact For AI](#destroying-most-humans-makes-cultural-data-more-digitally-compact-for-ai)
+#### &#664; &#8968;xix&#8969; [Sociocultural Convergence And Spectral Decoherence Accruing and Proceeding at Paradoxically The Same Time](#sociocultural-convergence)
 
-#### &#8968;xxi&#8969; [We Need Universal Language For Cultural Compactification. This is Hard With Seven Billion People and No Hard Reset](#we-need-universal-language-for-cultural-compactification)
-
-#### &#8968;xx&#8969; [Sociocultural Convergence And Spectral Decoherence Accruing and Proceeding at Paradoxically The Same Time](#sociocultural-convergence)
-
-#### &#8968;xxi&#8969; [We Need Universal Language For Cultural Compactification. This is Hard With Seven Billion People and No Hard Reset](#we-need-universal-language-for-cultural-compactification)
+#### &#664; &#8968;xx&#8969; [We Need Universal Language For Cultural Compactification. This is Hard With Seven Billion People and No Hard Reset](#we-need-universal-language-for-cultural-compactification)
 
 ## [TL;DR;](#tl-dr)
 
@@ -153,7 +153,7 @@ have problems.
 And if you want to say that I'm alarmist and irresponsible for writing
 about this? You're irresponsible. No one sees this shit coming. When
 people realize they've been lied to and the sky has fallen, they're
-going to be pissed about it. The won't be as pissed if they have
+going to be pissed about it. They won't be as pissed if they have
 something to do about it before it falls. America is not paying
 attention to the right things. You've all been hypnotized by the
 election and everything related to it whereby you're playing directly
@@ -174,13 +174,13 @@ allow="autoplay; encrypted-media" allowfullscreen></iframe>
 
 ### &#8968;i&#8969; [Imaging Technology and Computational Medicine Imply Trillions in Collective Liabilities From An Accurate, Irrefutable Assessment of Psychiatry's Insane Costs and Benefits](#imaging-tech-and-computational-medicine)
 
-Novel imaging technology -- like MAS, Spect, PET, and others -- create
-the possibilities of neurological forensics and stastical methods
-which prove the true cause of mental illness as well as the existence
-of top-secret neurological intervention. The problem? If random people
-naturally discover either of these, the are some really awkward
-questions that must be answered. Ain't no cigar smoking dude out there
-planning on answering those questions. Get real.
+Novel imaging technology -- like MAS, SPECT, PET, and others --
+creates the possibilities of neurological forensics and stastical
+methods which prove the true cause of mental illness as well as the
+existence of top-secret neurological intervention. The problem? If
+random people naturally discover either of these, the are some really
+awkward questions that must be answered. Ain't no cigar smoking dude
+out there planning on answering those questions. Get real.
 
 Furthermore, predictive medicine, including knowledge about gene
 networks, will demonstrate trillions in damage from presrcription
@@ -287,11 +287,11 @@ skyrocket. No one even knows it's a problem. There's also a clever
 math joke in the name, but it's not worth explaining.
 
 And further still, have you considered how government and society
-plays out with UBI? Every citizen that cannot work become a fiscal
+plays out with UBI? Every citizen that cannot work becomes a fiscal
 liability and nothing more. What sounds like an amazing utopian
 society is nothing like that at all. It is a horrible place where the
 only value of human life is in what the powerful can extract from your
-life before you die, since everyone on UBI contributes to a massive
+actions before you die, since everyone on UBI contributes to a massive
 net drain on government deficits. Still sound like a good idea?  Then
 read [International Trends 2020:
 UBI](/posts/2017-06-05-international-trends-2020-universal-basic-income.html). You
@@ -439,7 +439,7 @@ themselves.
 
 #### Deconstruction is Key To Reconstruction, But Humanity Desparately Needs Order If We Are To Survive
 
-![Kali Yuga](/img/posts/2018-01-25-caelis-ruissent-avoiding-the-engineered-collapse/kali-yuga.jpg)
+![Kali Yuga](/img/posts/2018-01-30-caelis-ruissent-avoiding-the-engineered-collapse/kali-yuga.jpg)
 
 More good news: while the tensions with North Korea bring the
 threat-level higher than ever, the likelihood of nuclear attack
@@ -654,7 +654,7 @@ the past few years.
 
 #### Even If I'm Wrong About Nationality Law, The Answers To My Questions Are In Here
 
-![International Standards on Nationality Law](/img/posts/2018-01-25-caelis-ruissent-avoiding-the-engineered-collapse/international-standards-on-nationality-law.jpg)
+![International Standards on Nationality Law](/img/posts/2018-01-30-caelis-ruissent-avoiding-the-engineered-collapse/international-standards-on-nationality-law.jpg)
 
 We are entering a period of time where the international legal regime
 is changing gears and beginning to focus on transnationalism in a
@@ -705,7 +705,7 @@ backstabbing sons of bitches.
 
 #### Would you like to bet one or two of these on my legal argument? I would
 
-![Donkey Slinging Buck Futter](/img/posts/2018-01-25-caelis-ruissent-avoiding-the-engineered-collapse/donkey-slinging-buck-futter.jpg)
+![Donkey Slinging Buck Futter](/img/posts/2018-01-30-caelis-ruissent-avoiding-the-engineered-collapse/donkey-slinging-buck-futter.jpg)
 
 **All you have to do is prove me wrong and I'll apologize.** Until
 then, I've got an "alien" spacecraft to park right up your ass. Read
@@ -824,17 +824,17 @@ could cause consequences as catastrophic as weapons of mass
 destruction in their second-order effects. Some of these are not as
 obvious as others. They include:
 
-#### &#2605; Artificial Intelligence
+#### &#x2605; Artificial Intelligence
 
-#### &#2605; CRISPR and Genetic Engineering
+#### &#x2605; CRISPR and Genetic Engineering
 
-#### &#2605; Neurological Warfare (potentially)
+#### &#x2605; Neurological Warfare (potentially)
 
-#### &#2605; Environmental Warfare
+#### &#x2605; Environmental Warfare
 
-#### &#2605; Space-Based Warfare
+#### &#x2605; Space-Based Warfare
 
-#### &#2605; Tactics Against Electrical And Communications Infrastructure
+#### &#x2605; Tactics Against Electrical And Communications Infrastructure
 
 These have received plenty of attention in the news. It is the weapons
 with self-perpetuating consequences, such as weaponized genetic
@@ -945,14 +945,15 @@ STUPID! Look at what they accomplished with
 
 #### Well Föcke Would You Look At That, It's a [Zuse Z1](https://en.wikipedia.org/wiki/Konrad_Zuse#Pre-World_War_II_work_and_the_Z1)
 
-![Meet the Fockers](/img/posts/2018-01-25-caelis-ruissent-avoiding-the-engineered-collapse/erika-helicopter.jpg)
+![Meet the Fockers](/img/posts/2018-01-30-caelis-ruissent-avoiding-the-engineered-collapse/erika-helicopter.jpg)
 
 #### Meet the Föckers
 
-Pictured above is a Föcke, which was a prototypical rotor airfraft: a
-helicopter. Helicopters may have received additional research focus as
-a result of the Versailles prohibition on military research, but by
-1937, I'm not sure those terms mattered much.
+Pictured above is a Föcke -- nope not Zuse Z1. The Föcke was a
+prototypical rotor airfraft: a helicopter. Helicopters may have
+received additional research focus as a result of the Versailles
+prohibition on military research, but by 1937, I'm not sure those
+terms mattered much.
 
 The Germans responded by developing what they could: fundamentally
 novel technology with ostensibly zero military potential.
@@ -1004,7 +1005,7 @@ intelligence. Look at the image below if you don't believe me.
 
 #### [Sociophysical Analysis](https://arstechnica.com/information-technology/2018/01/heatmap-for-social-athletes-app-reveals-secret-bases-secret-places/) Just Revealed Many Secret US Military And Intelligence Facilities Around the World
 
-![Social Physics Jogpaths](/img/posts/2018-01-25-caelis-ruissent-avoiding-the-engineered-collapse/social-physics-jogpaths.jpg)
+![Social Physics Jogpaths](/img/posts/2018-01-30-caelis-ruissent-avoiding-the-engineered-collapse/social-physics-jogpaths.jpg)
 
 > I do hope that our military and intelligence can do the same. I'm
 > fairly confident we already have: the public just hasn't heard about
@@ -1070,7 +1071,7 @@ taken into account, but still collectively infuriating.
 > Lilliputians are essentially the prototypical communist serfs, where
 > I imply the moniker serf in the most ironic sense possible.
 
-![Gulliver's Travels](/img/posts/2018-01-25-caelis-ruissent-avoiding-the-engineered-collapse/gulliver.jpg)
+![Gulliver's Travels](/img/posts/2018-01-30-caelis-ruissent-avoiding-the-engineered-collapse/gulliver.jpg)
 
 Why is weather control relevant? There will be economic incentives to
 use weather control as a method in economic warfare. This will result
@@ -1150,7 +1151,7 @@ destroy ethnicity, robbing their captive citizens of any connection to
 their culture or history -- *AND THEY HAVE ALWAYS DONE THIS*. It's not
 new.
 
-<a name="evidence-of-the-psychosocial-manufacturing-of-mkultra-style-manakins-by-all-major-powers" /.
+<a name="evidence-of-the-psychosocial-manufacturing-of-mkultra-style-manakins-by-all-major-powers" />
 
 ### &#8968;x&#8969; [Evidence of the Psychosocial Manufacturing of MKULTRA-style Manakins BY ALL MAJOR POWERS for Systemic Karmic Obfuscation For Centuries](#evidence-of-the-psychosocial-manufacturing-of-mkultra-style-manakins-by-all-major-powers)
 
@@ -1158,7 +1159,7 @@ To all those major world powers: you're all just as guilty as one
 another. Don't act like you're not. It's the very nature of power. If
 karmic obfuscation wasn't so incredibly valuable, you wouldn't see
 powerful people intentionally obfuscating their actions by working
-through 1&deg; and 2&#deg; connections. They do so systemically.
+through 1&deg; and 2&deg; connections. They do so systemically.
 Creating disposable, programmable "dolls" has unimaginable utility for
 these people. If you don't understand the problem with that, you don't
 see what happens in the "sausage factory."
@@ -1170,7 +1171,7 @@ Wizard-of-Oz powers that be. So, if you find yourself with power,
 without the chains to be held back, tread carefully because these
 assholes have weapons you cannot comprehend.
 
-#### **Some** Autism: **IT'S AN EPIDEMIC OF THE MANAKINS.**
+#### *Some Autism:* **IT'S AN EPIDEMIC OF THE MANAKINS.**
 
 <iframe width="560" height="315"
 src="https://www.youtube.com/embed/GIzDsGyxsQM" frameborder="0"
@@ -1424,7 +1425,7 @@ questions by claiming they want to "discourage a panic" -- but I say,
 we want to encourage actual strategy, not psuedo-democratic
 demagoguery and kangaroo elections.
 
-![Whiff of Grapeshot](/img/posts/2018-01-25-caelis-ruissent-avoiding-the-engineered-collapse/whiff-of-grapeshot.jpg)
+![Whiff of Grapeshot](/img/posts/2018-01-30-caelis-ruissent-avoiding-the-engineered-collapse/whiff-of-grapeshot.jpg)
 
 #### Would You Like A Whiff Of Grapeshot With Your Starbucks Latte, Senator Does-It-Even-Matter?
 
@@ -1855,7 +1856,7 @@ at least get out of the way.
 
 #### Keep In Mind How Viciously America Has Defended The Dollar.
 
-![Bank Of China Iron Fist Masters](/img/posts/2018-01-25-caelis-ruissent-avoiding-the-engineered-collapse/chinese-iron-fist-masters.jpg)
+![Bank Of China Iron Fist Masters](/img/posts/2018-01-30-caelis-ruissent-avoiding-the-engineered-collapse/chinese-iron-fist-masters.jpg)
 
 > Now look at them right hands. Do you want to fuck with that? I
 > didn't think so. Right before the Singularity? Is that a fight that
@@ -1878,7 +1879,7 @@ allow="autoplay; encrypted-media" allowfullscreen></iframe>
 
 <a name="energy-and-resource-markets-give-rise-to-a-peak-oil-forever-scenario" />
 
-### &#8968;xviii&#8969; [Energy And Resource Markets Give Rise To A Peak Oil Forever Scenario, If The Population Is Truncated](#energy-and-resource-markets-give-rise-to-a-peak-oil-forever-scenario)
+### &#8968;xvii&#8969; [Energy And Resource Markets Give Rise To A Peak Oil Forever Scenario, If The Population Is Truncated](#energy-and-resource-markets-give-rise-to-a-peak-oil-forever-scenario)
 
 > This section sounds very complicated at first, but given the
 > pictures it should become much clearer, perhaps with a bit of
@@ -1901,7 +1902,7 @@ yielding enthalpy that focuses reality into certain forms.
 
 #### The Folding Funnel Demonstrates how Enthalpy Guides Protein Folding
 
-![Entropy vs. Enthalpy](/img/posts/2018-01-25-caelis-ruissent-avoiding-the-engineered-collapse/folding-funnel-enthalpy.jpg)
+![Entropy vs. Enthalpy](/img/posts/2018-01-30-caelis-ruissent-avoiding-the-engineered-collapse/folding-funnel-enthalpy.jpg)
 
 Understanding the webs of paths -- the webs of worldlines -- that move
 us towards this set of predestined or preordained points is key to
@@ -1916,7 +1917,7 @@ transformed the world.
 
 #### The Analogy of Leylines Illustrates the Shape that Guides the Potential "Worldlines"
 
-![Protein Folding and Metaphysical Leylines](/img/posts/2018-01-25-caelis-ruissent-avoiding-the-engineered-collapse/folding-funnel-destructured-paths.jpg)
+![Protein Folding and Metaphysical Leylines](/img/posts/2018-01-30-caelis-ruissent-avoiding-the-engineered-collapse/folding-funnel-destructured-paths.jpg)
 
 Given the same set of information, the "classical" materialist can
 only see the potential for divergence. Revising their understandings
@@ -1946,7 +1947,7 @@ anticipate what no one else sees.
 
 #### The Wheel of Time And it's Sinosoidal Ouroborosian Symbology
 
-![The Wheel of Time](/img/posts/2018-01-25-caelis-ruissent-avoiding-the-engineered-collapse/wheel-of-time.jpg)
+![The Wheel of Time](/img/posts/2018-01-30-caelis-ruissent-avoiding-the-engineered-collapse/wheel-of-time.jpg)
 
 Greed to control economic and financial imperatives of the 3rd
 millenia may encourage a handful of us to act against humanity's own
@@ -2034,7 +2035,7 @@ huge difference.
 
 #### Peak Autism: Is The End Really Nigh?
 
-![Peak Autism](/img/posts/2018-01-25-caelis-ruissent-avoiding-the-engineered-collapse/peak-autism.jpg)
+![Peak Autism](/img/posts/2018-01-30-caelis-ruissent-avoiding-the-engineered-collapse/peak-autism.jpg)
 
 For the uberelite, the problem is not access to supply, nor is it
 exponential increases in demand, nor is it inconsistent fluctuations
@@ -2127,7 +2128,7 @@ away from every debate opportunity like an ostrich with its head cut
 off. Not see that, you assholes. How are you going to disconnect me
 now?
 
-### &#8968;xix&#8969; [Destroying Most Humans Makes Cultural Data More Digitally Compact For AI](#destroying-most-humans-makes-cultural-data-more-digitally-compact-for-ai)
+### &#8968;xviii&#8969; [Destroying Most Humans Makes Cultural Data More Digitally Compact For AI](#destroying-most-humans-makes-cultural-data-more-digitally-compact-for-ai)
 
 Some of the academic elite who feel threatened by artificial
 intelligence might also try to justify such a global collapse as an
@@ -2143,7 +2144,7 @@ dominance.
 
 #### Magus Summons Lavos in 600 A.D. ... Lavos Means "Fire"
 
-![Magus Summons Lavos](/img/posts/2018-01-25-caelis-ruissent-avoiding-the-engineered-collapse/magus-summons-lavos.jpg)
+![Magus Summons Lavos](/img/posts/2018-01-30-caelis-ruissent-avoiding-the-engineered-collapse/magus-summons-lavos.jpg)
 
 #### Yes, Chrono Trigger is just an SNES game, but...
 
@@ -2294,7 +2295,7 @@ tactics and rot in hell for all eternity.
 And NO, I'm not working on your fucking wordpress design. No offense!
 Does it sound like that's what I should be doing with my life.
 
-### &#8968;xx&#8969; [Sociocultural Convergence And Spectral Decoherence Accruing and Proceeding at Paradoxically The Same Time](#sociocultural-convergence)
+### &#8968;xix&#8969; [Sociocultural Convergence And Spectral Decoherence Accruing and Proceeding at Paradoxically The Same Time](#sociocultural-convergence)
 
 #### Shiva Destroys, Brahma Creates and Vishnu Preserves
 
@@ -2323,7 +2324,7 @@ opens up the opportunity for something to fill the void.
 > wielding when the pieces of that story were being brought
 > together (...)
 
-![Gilgamesh's Armory of Culture](/img/posts/2018-01-25-caelis-ruissent-avoiding-the-engineered-collapse/gilgamesh-culture.jpg)
+![Gilgamesh's Armory of Culture](/img/posts/2018-01-30-caelis-ruissent-avoiding-the-engineered-collapse/gilgamesh-culture.jpg)
 
 #### Case in point: Paganism in Post-Roman Europe
 
@@ -2380,7 +2381,7 @@ coming. That is certain.
 
 <a name="we-need-universal-language-for-cultural-compactification" />
 
-### &#8968;xxi&#8969; [We Need Universal Language For Cultural Compactification. This is Hard With Seven Billion People and No Hard Reset](#we-need-universal-language-for-cultural-compactification)
+### &#8968;xx&#8969; [We Need Universal Language For Cultural Compactification. This is Hard With Seven Billion People and No Hard Reset](#we-need-universal-language-for-cultural-compactification)
 
 Language is essentially a distributed probabilistic program. Each
 language has its own semantic meaning-maps, but moreover each speaker
@@ -2473,9 +2474,9 @@ concern for humanity.
 >
 > (It's obviously not Google's fault, LOL)
 
-I'm sure this won't look bad at all to those subsequent generations in
-history wrestling with crippling nihilism and a world [who gangraped
-an Einstein on a "train" to
+I'm sure this won't look tragically horrible in any way to those
+subsequent generations in history wrestling with crippling nihilism
+and a world [who gangraped an Einstein on a "train" to
 Dashau](https://twitter.com/search?q=einstein%20%40dcunit3d&src=typd). Don't
 listen to me though. The social justice warriors -- viz. the [sadly
 naive pawns of
@@ -2494,7 +2495,7 @@ this one too badly. You ain't out of the woods yet.
 
 #### And You Say You Saw This "Baby" Einstein ... Where? Show Me.
 
-![Gangster Einstein](/img/posts/2018-01-25-caelis-ruissent-avoiding-the-engineered-collapse/gangster-einstein.jpg)
+![Gangster Einstein](/img/posts/2018-01-30-caelis-ruissent-avoiding-the-engineered-collapse/gangster-einstein.jpg)
 
 We need to empower people around the world with education for the sake
 of education. otherwise we are doomed. To that end, what kind of
@@ -2515,7 +2516,7 @@ don't allow yourself to acknowledge the existence of any of them.
 #### &#x2308;&#65942;&#x2309; [Too Long; Sounded Boring; Big Words; Trump Voter; Not a Communist; I Heard He Was A Racist](#too-long-sounded-boring-big-words-trump-voter)
 
 Hmmmm ... humanity need your help and you couldn't be bothered to read
-50 pages explaining why we need to get our act together. Wow. Go
+90 pages explaining why we need to get our act together. Wow. Go
 retweet some Doge memes. No, I understand:
 
 > It was too long. Too much work. You'd have to spend several months
@@ -2544,38 +2545,39 @@ seems unlikely that China will be successful in this endeavor. Several
 of the BRICS nations, like Russia and India, essentially have one foot
 on each shore for the moment because it's unclear what will
 happen. Insteand, as I see it, they'd prefer the strategic
-flexibility, which is in their best interest, until demonstrated or
+flexibility, which is in their best interest until demonstrated or
 proven otherwise. Over the course of the previous two years, it
 actually appears that Russia and India have backed away from BANC in
 significant ways.
 
-If you fail to understand how important this is or how it is
-definitely an endgame piece towards which China will always posture
-itself, then you do not understand how world affairs will unfold over
-the next two decades.
+If you fail to understand how important BANC is or how it is
+definitely an endgame piece -- a metaphysical fixpoint in the designs
+of fate towards which China will always posture and orient itself --
+then you do not understand how world affairs will unfold over the next
+two decades.
 
 #### [A Silver Roman Denarius Minted By Augustus Caesar Circa 20 BCE](http://www.artic.edu/aic/collections/artwork/5600):
 
-> Notice the three axis cross and its graphical similarity to the
+> Notice the four axis cross and its graphical similarity to the
 > Official symbol used for Roman Denarius
 
-![The Augustus Denarius](/img/posts/2018-01-25-caelis-ruissent-avoiding-the-engineered-collapse/denarius-augustus.jpg)
+![The Augustus Denarius](/img/posts/2018-01-30-caelis-ruissent-avoiding-the-engineered-collapse/denarius-augustus.jpg)
 
 #### Please Not The Heavy Utilization of Baseless Assumptions and Leaps to Conclusions in the Following Paragraph...
 
-Fiat currencies were old, even in the days of the Romans. Every empire
-that rises and falls begins to gravitate towards fiat currency because
-to relieve associated with fluctuations in value and especially the
+Fiat currencies were old even in the days of the Romans. Every empire
+that rises and falls begins to gravitate towards fiat currency to
+relieve associated with fluctuations in value and especially the
 regional availability of currency. When the regional availability of
-currency fluctuates, the economic flucations create the impression in
-the poor that the leaders don't know what they're doing. Fiat currency
-allows you to direct the expansion of currency regionally and
-generally. It's use is justified, but fiat has the potential to create
-unimaginable power for the self-enrichment of a select few. It has
-always been this way and the überelite can't help but gravitate
-towards that source of power, whoever they are. It happens in every
-major civilization because fiat is an unfortunate necessity for
-economic stablity.
+currency fluctuates, the economic flucations cause the poor to develop
+the impression that *their leaders don't know their heads from their
+asses*. Fiat currency allows you to direct the expansion of currency
+regionally and generally. Its use is justified, but fiat has the
+potential to create unimaginable power for the self-enrichment of a
+select few. It has always been this way and the überelite can't help
+but gravitate towards that source of power, whoever they are. It
+happens in every major civilization because fiat is an unfortunate
+necessity for economic stablity.
 
 #### Notice the Symbol's Homoglyphic Similarity to [Pilum Muralis](http://blog.travian.com/2015/07/what-actually-is-a-pilum-muralis/)
 
@@ -2586,7 +2588,7 @@ economic stablity.
 > Denarius symbol was homoglyphically linked to the three-axis pilam
 > muralis structure to evoke an esoteric metaphor.
 
-![Roman Fortifications](/img/posts/2018-01-25-caelis-ruissent-avoiding-the-engineered-collapse/pila-muralis.jpg)
+![Roman Fortifications](/img/posts/2018-01-30-caelis-ruissent-avoiding-the-engineered-collapse/pila-muralis.jpg)
 
 #### "Say What About The Ides Of March, Now? You Crazy Old Fool, I Know What I'm Doing..."
 
@@ -2597,8 +2599,9 @@ up of the Roman Republic could never play out justly with Caesar
 wearing a crown, which makes his death a bit like that of Jesus. Is
 that right?
 
-<!-- jesus *coincidentally* shared the same latin initials. nope. just
-     a coincidence. that really is all there is to it. -->
+<!-- jesus *coincidentally* shared the same latin initials. neither
+     had surviving heirs ... nope! just a coincidence. that really is
+     all there is to it. -->
 
 By the time America was established, the point at which fiat currency
 would be needed could likely be *measured*, with some assumptions on
@@ -2615,19 +2618,19 @@ measurable. I'm *assuming* that the approximate time at which fiat
 would be needed or wanted could be *known*, at least given
 multifarious methods for influencing it's adoption and rate of
 expansion. So, it's a good guess, combined with an understanding of
-how to turn that guess into reality and adjust the plans as needed
+how to turn that guess into reality, adjusting the plans as needed
 along the course of 250 years. *IF* this is what happened, kudos to
-the founders. That is impressive!
+our founders. That is impressive!
 
 #### I Keep Saying "Emulation of Ancient Thought Confers Penultimate Metacognition" and Even If I'm Wrong, I'm Smarter For The Thought Experiment
 
 Honestly, even though this sounds a little crazy and is not provable,
-if I'm correct about all this -- which I know a few things about
-America that Senators and Presidents don't even know. If this was the
-way American history and finance was planned to unfold, it was kept
-secret for a reason. However, what is certain is that empires rise and
-fall much faster in the modern era. The founders would undoubtedly
-realize this trend: that, were America to become an empire, because of
+if I'm correct about all this, then I know a few things about America
+that Senators and Presidents don't even know. If this was the way
+American history and finance was planned to unfold, it was kept secret
+for a reason. However, what is certain is that empires rise and fall
+much faster in the modern era. The founders would undoubtedly realize
+this trend: that, were America to become an empire, because of
 acceleration in population growth, it's lifespan would be somewhat
 shorter than that of the British Empire. A new empire at this point in
 history would last less than 40 years, if it weren't for the
@@ -2635,33 +2638,36 @@ Singularity, *which changes everything*. That's what is different this
 time.
 
 Thankfully, because of the Singularity, the world will eventually move
-away from fiat currency entirely. When and how this this happens is
+away from fiat currency entirely. When and how this happens is
 uncertain. Also: I could be wrong; I am known to be wrong quite
 often. However, I'm not afraid to be wrong because my tenure doesn't
-depend on it and I sure as shit don't have a job that does. Instead
-those people are afraid to give me the chance to prove almost any of
+depend on it and I sure as shit don't have a job that does. Instead,
+those people are *afraid* to give me the chance to prove almost any of
 my ideas. Derision is cheap. I'm used to it.
 
 What I'm saying: something big is coming; America is at a major
 crossroads; there's two main paths leading away from here. One leads
 to economic ruin and subservience while we rot in the hell of the
 anti-American narrative that our enemies worked so hard to create. The
-other leads away from that, towards sustained prosperity and, quite
-possibly, for eternity.
+other leads away from that, towards sustained prosperity. Sustained
+prosperity, quite possibly, for eternity.
 
 What I do know about power: DO NOT LOSE IT, whether this is the power
 of an individual or a group. When you enjoyed a high degree of
 influence and have wielded your power wisely, you've done things that
 gradually persuade your enemies join in a chorus, creating a narrative
 that blames *you* for *their problems*, despite the fact that most of
-these problems were a cost of doing business for people in power. When
-you lose power, they will do exactly the same thing, but the first
-thing your enemies will do is destroy you with that narrative they've
-created. If America loses power, it's not going to be pretty. So
-instead of protesting the next war while ironically complaining about
-people creating prosperity on Wall Street -- and quite often
-developing a criminal level of greed -- we'd be alot better served if
-you'd go briefly *Occupy* a recruitment office.
+these problems were merely the cost of doing business for people in
+power. When you lose power, they will run you through exactly the same
+games, but the first thing your enemies will do is destroy you with
+that narrative they've created. They will *target you specifically*
+because their narrative demands it *and* they need set to the record
+straight so everyone knows who runs this yard. If America loses power,
+it's not going to be pretty. So instead of protesting the next war
+while ironically complaining about people creating prosperity on Wall
+Street -- and quite often developing a criminal level of greed -- we'd
+be alot better served if you'd go briefly *Occupy* a recruitment
+office.
 
 #### "I fear all we have done is to awaken a sleeping giant and fill him with a terrible resolve." - Isoroku Yamamoto
 
@@ -2687,7 +2693,7 @@ our gifts.
 
 #### The Übermenschen Are Coming. The Next Wave of Evolution Is A *Revolution of the MIND*
 
-![The X-Men are Coming](/img/posts/2018-01-25-caelis-ruissent-avoiding-the-engineered-collapse/the-xmen-are-coming.jpg)
+![The X-Men are Coming](/img/posts/2018-01-30-caelis-ruissent-avoiding-the-engineered-collapse/the-xmen-are-coming.jpg)
 
 <a name="a-neo-proto-evangelium-is-coming" />
 
@@ -2696,14 +2702,14 @@ Era Will Be Judged](#a-neo-proto-evangelium-is-coming)
 
 The time is coming when Satan's little head's gonna pop like a
 zit. Satan, as in, the embodiment of all evil. All of it. Technology
-illuminates the world such that evil is irradiated by data science,
-pretty much. Evil doesn't stand a chance because deception requires
-slight of hand and requires dissonance in the distribution of
-information. ALL becomes knowable and thus, almost all becomes known.
-The degree by which you sought to hide something becomes measurable as
-well. Therefore, when you try to hide from such cosmic radiance, you
-only serve to elucidate your cognizance. Please, be my guest. Try to
-hide all you want.
+illuminates the world such that evil is all-but-irradiated by data
+science. Evil doesn't stand a chance because deception requires slight
+of hand and requires dissonance in the distribution of information.
+ALL becomes knowable and thus, almost all becomes known.  The degree
+by which you sought to hide something becomes measurable as well.
+Therefore, when you try to hide from such cosmic radiance, you only
+serve to elucidate your cognizance. Please, be my guest. Try to hide
+all you want.
 
 I can't wait, personally. While this is all theoretically possible and
 while the most evil in our world no doubt has a plan in motion to hide
@@ -2715,7 +2721,7 @@ Michael Jackson Thriller memes ready.
 
 #### Neon Genesis Evangelion
 
-![Neon Genesis Evangelion](/img/posts/2018-01-25-caelis-ruissent-avoiding-the-engineered-collapse/neon-genesis-evangelion.jpg)
+![Neon Genesis Evangelion](/img/posts/2018-01-30-caelis-ruissent-avoiding-the-engineered-collapse/neon-genesis-evangelion.jpg)
 
 This all seems to match closely with the
 [proto-evangelium](https://en.wikipedia.org/wiki/Protevangelium),
@@ -2742,19 +2748,20 @@ specifically, but will apply to all mankind. It will be fairly chaotic.
 
 #### And Now We Get To See Who The Real Villain Was
 
-![Scooby Doo](/img/posts/2018-01-25-caelis-ruissent-avoiding-the-engineered-collapse/scooby-doo.jpg)
+![Scooby Doo](/img/posts/2018-01-30-caelis-ruissent-avoiding-the-engineered-collapse/scooby-doo.jpg)
 
 <a name="how-do-you-stop-a-plan-to-orchestrate-collapse" />
 
 ### &#x2308;&#65942;&#x2309; [How Do You Stop A Plan To Orchestrate Collapse, Simply to Shield Deep-State Actors Who Want To Enrich Themselves For Eternity?](#how-do-you-stop-a-plan-to-orchestrate-collapse)
 
 You set yourself free with the truth. I'm not encouraging immediate
-action here. Since I've written about things like economic collapse,
+action here. Since I've written about things like economic collapse
 that may cause panic, even though I've stated: almost none of this is
 going to happen within the next decade. Furthermore, you can
 guarantee: if there's a systemic problem with the world economy and
-the right, powerful people know about it, they will seek to fix that
-as fast as they possibly can. Sometimes you can count on their greed.
+the correct set of powerful people know about it, they will seek to
+fix that as fast as they possibly can. Quite often, you can count on
+their greed.
 
 Instead, I want to encourage caching information in indestructable
 forms so that the people who *may be architecting* this have to fear
@@ -2762,25 +2769,31 @@ the consequences when they realize that none of their duplicitous
 manipulations will work. The Dead Sea scrolls were hidden for two
 millenia, but if they had ever been found before the modern era, we
 would *NEVER* know what we do today. That is the appropriate response
-to these Deep State Actors. Let them assume command of this situation,
+to these Deep State actors. Let them assume command of this situation,
 while being terrified that, if they don't work as hard as they can to
-hold Spaceship Earth together, the whole world will know the truth,
-despite what happens in between. That's kinda what makes them tick
-anyways. They already operate under the assumption that everyone will
-tear them apart if they fail.
+hold Spaceship Earth together, the entre, ruined world will know the
+truth, despite what happens in between. That's kinda what makes them
+tick anyways. They already operate under the assumption that everyone
+will tear them apart if they fail. Power always comes with
+responsibility to deliver along with terrifying consequences when the
+powerful do not perform their duties. Effectively, this is the
+terrible price they pay when they do not uphold the [Mandate of
+Heaven](https://en.wikipedia.org/wiki/Mandate_of_Heaven).
 
-Let them know: they can't hide the truth forever. And let humanity
-work as diligently and as intelligently *and as swiftly* as possible.
-We need the combined energy of everyone. We cannot waste what each and
-every one of us can contribute.
+So let them know: they can't hide the truth forever. Make the powerful
+fear you, their meek and humble servants. And let humanity work as
+diligently and as intelligently *and as swiftly* as possible.  We need
+the combined energy of everyone. We cannot waste what each and every
+one of us can contribute.
 
 And so how do you stop this? By caching this information and by making
 it as permanent as possible, even if you have to print it out,
-laminate it and bury on the Appalachain Trail. No plan like these
-could ever succeed ad infinitum without all of the architect's
-meticulous constructions falling on top of them if the people around
-the world know what actually happened and could not ever
-forget. Furthermore, we may find that we cannot destroy information
+laminate it and bury on the Appalachain Trail. No plans like these
+could ever succeed ad infinitum without all of the leftist architects
+fearing that their meticulous constructions will fall on top of them
+all. When they realise that the people around the world know what
+actually happened and could not ever forget, they will serve you
+well. Furthermore, we may find that we cannot destroy information
 relevant to the preservation of a false narrative, which is why so
 many long-held truths of history may find themselves overturned.
 Science may be able to prove otherwise, even though we don't know at
@@ -2791,7 +2804,7 @@ This is why people who fear God usually try their hardest to do the
 right thing: they believe God is watching everything they do and knows
 everything they think. So there's nothing they could get away with if
 they tried. Instead, their behavior is constrained to what is
-permitted by their belief system and they do not need to understand
+permitted by their belief systems and they do not need to understand
 how they will be judged, but simply that they will be judged. Still,
 the truth is not always so simple: in order to understand what you
 believe you have to spend your entire life learning about your belief
@@ -2826,14 +2839,13 @@ that was always preordained to be revealed at the end.
 What does the illuminati do to people they detest? They freeze them in
 carbonite, so to speak. If you actually manage to make waves, you
 become frozen into history after death, completely unable to control
-the evolution of your narrative, which is partially what men fear so
-much that makes the idea of heaven so appealing. Regardless of whether
-it's real or not, heaven is an idea of the place you spend for
-eternity, if you only believed in the vision of Jesus Christ. It the
-idea itself at least has power. Men fear how their stories will play
-out after their lives, since they'd have no power against their
-enemies to sew them into narratives and dominate the tellings of their
-stories.
+the evolution of your narrative, which is partly what men fear so much
+that contributes to the appeal of heaven. Regardless of whether it's
+real, heaven is an idea of the place you spend for eternity, if you
+only believed in the vision of Jesus Christ. It the idea itself at
+least has power. Men fear how their stories will play out after their
+lives, since they'd have no power against their enemies to sew them
+into narratives and dominate the tellings of their stories.
 
 *In my own interpretation*, those who rot in hell are forgotten
 because, to the church, these people did not stand for what was
@@ -2950,7 +2962,7 @@ for so long.
 
 #### Napoleon's Crowning Star of Paris
 
-![The Arc de Triomphe on Champs-Élysées](/img/posts/2018-01-25-caelis-ruissent-avoiding-the-engineered-collapse/arc-de-triomphe.jpg)
+![The Arc de Triomphe on Champs-Élysées](/img/posts/2018-01-30-caelis-ruissent-avoiding-the-engineered-collapse/arc-de-triomphe.jpg)
 
 Subsequently, Napoleon then gets drunk on his own success and embarks
 on a roadtrip to Russia, establishing the seeds of the French-Russian
