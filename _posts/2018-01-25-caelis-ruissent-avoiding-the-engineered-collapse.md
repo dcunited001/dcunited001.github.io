@@ -87,7 +87,7 @@ immemorial.
 
 #### &#664; &#8968;xi&#8969; # [Evidence Demonstrating Conspiracies Throughout the Ages will Simultaneously Be Revealed. All Will Be Judged.](#evidence-demostrating-conspiracies-throughout-the-ages-will-simultaneously-be-revealed)
 
-#### &#664; &#8968;xii&#8969; ### [Computational Science Nearly Obliterates The Need For Humans In Science, Enabling Specific Technologies To Be Locked Away Forever](#computational-science-nearly-obliterates-the-need-for-human-labor-in-science)
+#### &#8968;xii&#8969; [Computational Science Nearly Obliterates The Need For Humans In Science, Enabling Specific Technologies To Be Locked Away Forever And Cultivating Rampant Nihilism](#computational-science-nearly-obliterates-the-need-for-human-labor-in-science)
 
 #### &#664; &#8968;xiii&#8969; [Intellectual Property Endgame: Not All Is "As Infinite" As You Would Like It to Be:](#intellectual-property-endgame)
 
@@ -947,7 +947,7 @@ STUPID! Look at what they accomplished with
 
 ![Meet the Fockers](/img/posts/2018-01-25-caelis-ruissent-avoiding-the-engineered-collapse/erika-helicopter.jpg)
 
-#### Meet the Fockers
+#### Meet the Föckers
 
 Pictured above is a Föcke, which was a prototypical rotor airfraft: a
 helicopter. Helicopters may have received additional research focus as
@@ -975,8 +975,8 @@ compromised by communist agents. There's a reason we needed to start
 from scratch with the CIA and I don't know what that was. However, I
 do know that the Nazi's expert understanding of espionage tactics lead
 to a major advantage for Americans in the decades after World War
-Two. Before WW2, our spices were poorly trained with not many people
-to spy on.  The Nazi's probably helped us restructure the operation
+Two. Before WW2, our spies were poorly trained with not many people to
+spy on.  The Nazi's probably helped us restructure the operation
 methods and logistics of the CIA. They were the only reason that our
 spies were able to catch up and outpace the enemy.
 
@@ -1236,84 +1236,149 @@ merits of that statement.
 
 <a name="computational-science-nearly-obliterates-the-need-for-human-labor-in-science" />
 
-### &#8968;xii&#8969; [Computational Science Nearly Obliterates The Need For Humans In Science, Enabling Specific Technologies To Be Locked Away Forever](#computational-science-nearly-obliterates-the-need-for-human-labor-in-science)
+### &#8968;xii&#8969; [Computational Science Nearly Obliterates The Need For Humans In Science, Enabling Specific Technologies To Be Locked Away Forever And Cultivating Rampant Nihilism](#computational-science-nearly-obliterates-the-need-for-human-labor-in-science)
 
-- ....
+World War Two was essentially a conflict precipated by philosophic
+undercurrents that lead to the artificial ideological divide in
+Europe. It was a response to economic misery and it fervently
+accelerated after the onset of the Great Depression. Data science that
+mines the ledgers of Wall Street from those times will reveal some
+interesting collusion, I imagine. That was before the SEC put a stop
+to unethical behavior like that, so those ledgers should be very
+interesting indeed. Computation and algorithms make everything
+knowable. Thank God that today, we will know if anti-american
+financial interests seek to undermine America at a critical
+time. There is no place for your economic sheninigans and communist
+misdirection. That economically grounded ideological rift moved people
+further apart faster than ever during the interwar period, who were
+promised that all their miseries would be solved through the adherence
+to some manmade philosophy, like communism or fascism.
 
-- TODO: find a lecture that elaborates on how World War Two was
-  essentially a conflict precipated by philosophic undercurrents and
-  an artificial ideological divide in Europe.
-  - segue into computational science?
-- TODO: update title to account for how this contributes to the
-  spectre of nihilism
+Computational science will lead to much needed advancements and
+corrections in science and medicine. This will happen within the next
+ten years. This will agitate an already canyon-sized ideological rift
+plaguing America and the western world. This rampant nihilism will
+grow faster than kudzu and [no matter how many digits of currency your
+UBI stipend
+contains](/posts/2017-06-05-international-trends-2020-universal-basic-income.html),
+nothing material or financial will bring you solace, despite what
+these Millenial optimists want people to think. People will become
+desparate for something that gives them hope: either ideology or
+religion.
 
-- this is incredibly sad in its effects on the economy.
-  - It will totally change how we look at ourselves
-  - It will not matter if you are a Leonardo Da Vinci or an
-    Einstein. There will be nothing of value that you can contribute
-    to society which will outweigh your individual fiscal burden on it
-  - WW1/WW2 and the european rush towards ideology
-    - there was (rampant nihilism) because of the economic conditions.
-    - this next period of civilization will sadly be similar in that,
-      people may lose hope. from that void of hope, the same
-      philosophic conditions will emerge which resulted in the
-      interwar rush towards totalitarianism, eventually yielding the
-      conflict between Communism and it's more western response:
-      fascism.
-    - This is the danger: many people will begin to value their lives
-      poorly and so will their leaders. This is exacerbated by the
-      fiscal burden every individual will place on society, while not
-      being offset by any potential for any person to (contribute to
-      society) or be rewarded for significant contributions. thereby,
-      people will not value the potential their lives have to offer
-      the world. this will occur at the same time as spectral discord
-      of sociocultural chaos.
-      - as this happens, people will begin looking to crystalize under
-        new belief systems or old ideologies as a means of giving
-        their lives meaning and thereby value. This is incredibly
-        depressing because if humanity falls into this trap again, the
-        consequential conflicts will make World War 2 look like the
-        Whiskey Rebellion. Yet another vector for billions of people
-        to die through meaningless war fought over flawed ideologies
-        which were only ever deemed necessary as an escape from
-        nihilism.
+Computational science will revolutionize how we look at ourselves and
+come to know the world around us, resulting in myriad extrapolated
+insights about humanity. However, at the same time, what you offer
+towards the development of society or culture will become meaningless.
+It won't matter whether you you are a Leonardo Da Vinci or an
+Einstein. There will be nothing of value that you can contribute to
+society which will outweigh your individual fiscal burden on it. I
+hope I'm wrong.
 
-- nothing is inherently wrong with atheism. however, athiests want you
-  to believe that beliefs don't matter. how is it that someone's
-  belief system doesn't affect their actions?
-- religion gives us a means of providing people with that meaning to
-  life that combat's nihilism's tendency to (drown out) hope and
-  foment conflict.
-  - regardless of what belief system or tradition people came from,
-    when society goes through a nihilistic crisis on a small or large
-    scale, people lose hope. sociologically, they tend to respond by
-    gravitating towards a belief system
-  - the major world religions offer value unknown to belief systems
-    architected in the modern era, (regardles) of whether you consider
-    belief systems constructed around modern ideologies or those
-    constructed around new religions.
-    - religions accumulate value by accumulating the collective
-      culture, knowledge, doctrine and wisdom of generations through
-      which their institutions have existed.
-    - that is, the belief systems offer the greatest value ethat have
-      existed for longest at the widest scale of geographic and social
-      distributions. religions serve people's interests in how they
-      shape the beliefs of future generations, in how they instill
-      value systems that shape the actions of followers and -- most
-      critically -- how the social institutions of those religions
-      interface with the followers' lives and communities.
+#### "Please don't read propaganda. Thanks!" - The Communists
 
-- religion can be used as a means for helping us avoid such nihilistic
-  collapse into conflict of an unprecedented scale, as long as we
-  don't give in to the tendancy for religion itself to (foment)
-  conflict.
-  - of course, (our need to return to religion occurs well after the
-    time Nietzsche would say that God is dead.)
-  - but [God is not
-    dead](/posts/2016-06-01-im-not-religious-im-spiritual-1-God-is-not-dead.html). God
-    will return and is returning now. This will occur (in such an
-    obvious manner) such that we will no longer need faith to believe
-    in God.
+During this next period of civilization, our outlook on life will
+tragically develop into that same craving for the cure to
+nihilism. [I've written about this
+before](http://te.xel.io/posts/2016-05-16-the-paradox-of-creativity.html#lif-and-lifthrasir),
+by the way. However, anyone who reads one of my articles, views my
+facebook profile or accesses content on my web domain is apparently
+hunted down in a similar manner to my own torment. I can't even
+believe I'm writing that, but it seems to be true. Yeh... It's like a
+bad horror movie.
+
+#### Bye, [BYMAN](https://en.wikipedia.org/wiki/Byeman_Control_System)
+
+<iframe width="560" height="315"
+src="https://www.youtube.com/embed/ZGdOnCiQRpQ" frameborder="0"
+allow="autoplay; encrypted-media" allowfullscreen></iframe>
+
+Similar in that, people may lose hope. from that void of hope, the
+same philosophic conditions will emerge which resulted in the interwar
+rush towards totalitarianism, eventually yielding the conflict between
+Communism and it's more western response: fascism.
+
+This is the danger: many people will begin to value their lives poorly
+and so will their leaders, for the same reason that domestic abusers
+encourage their victims to feel worthless This is exacerbated by the
+fiscal burden every individual will place on society, while not being
+offset by any person's meritocratic contributions, potential or
+actual. Thereby, people will not value the potential their lives have
+to offer the world. This will occur at the same time as spectral
+discord of sociocultural chaos and the general breakdown of the
+institution of family from totalitarianism's wanton lust and jealously
+of all social mechanisms for power.
+
+As this happens, people will begin looking to crystalize under new
+belief systems or old ideologies as a means of giving their lives
+meaning and thereby value. This is incredibly depressing because if
+humanity falls into this trap again, the consequential conflicts will
+make WW2 look like the Whiskey Rebellion. Yet another vector for
+billions of people to die through meaningless war fought over flawed
+ideologies which were only ever deemed necessary as an escape from
+nihilism.
+
+#### Sorry, Atheism Is NOT The Answer
+
+Nothing is inherently wrong with atheism. However, athiests want you
+to believe that beliefs don't matter. How is it that someone's belief
+system doesn't affect their actions? If you scale out to the
+sociological level, how do you make inferences about the actions and
+intentions of groups of people, if you're not permitted to think about
+their belief system? You can't.
+
+This is Communist bullshit intended to butter America up for a
+Communist overthrow, while sowing the seeds for perhaps the greatest
+anti-American narrative ever. ALL SO that China can hold Americans as
+debt-slaves *FOREVER* after they breeze by the American economy,
+limited by niether by their contempt for intellectual property
+agreements, nor the macroprudential mechanisms that the Bank of
+International Settlements shoved down our throat after the 2008
+housing crisis. Such macroprudential policy was advanced much to the
+cheers of Occupy Wall Street. It is necessary, but you should be
+incredibly suspicious of it.
+
+Instead, religion gives us a means of providing people with that
+meaning to life that combat's nihilism's tendency to drown out hope
+and foment conflict. Why was someone like Jesus considered King of
+Kings? Because after the belief system was established, there would
+never be any King who could unseat an idea that had become
+sufficiently potent salt of the earth.
+
+Regardless of what belief system or tradition people come from, when
+society goes through a nihilistic crisis on a small or large scale,
+people lose hope bit by bit, unless they have some other spiritual
+nourishment that provides it for them. Sociologically, they tend to
+respond by gravitating towards a new belief system, especially if they
+generally lack one themselves. Communism itself is a belief system
+whose authority derives from a man.
+
+The major world religions offer value unknown to belief systems
+architected in the modern era, irregardless of whether you consider
+belief systems constructed around modern ideologies or those
+constructed around new religions. Religions accumulate value by
+accumulating the collective culture, knowledge, doctrine and wisdom of
+generations through which their institutions have existed.  That is,
+the belief systems offer the greatest value ethat have existed for
+longest at the widest scale of geographic and social
+distributions. Religions serve people's interests in how they shape
+the beliefs of future generations, in how they instill value systems
+that shape the actions of followers and -- most critically -- how the
+social institutions of those religions interface with the followers'
+lives and communities.
+
+Religion can be used as a means for helping us avoid such nihilistic
+collapse into conflict of an unprecedented scale, as long as we don't
+give in to the tendancy for religion itself to foment conflict.
+
+Of course, our need to return to religion occurs well after the time
+Nietzsche would say that God is dead. Yet, [God is not
+dead](/posts/2016-06-01-im-not-religious-im-spiritual-1-God-is-not-dead.html). God
+will return to the hearts of men and is returning now. It is
+undeniable. The absence of God in the hearts of men leads to the
+conditions for man's need of God. This final such Great Awakening will
+occur in such an obvious manner that we will no longer need faith to
+believe in God.
 
 <a name="intellectual-property-endgame" />
 
