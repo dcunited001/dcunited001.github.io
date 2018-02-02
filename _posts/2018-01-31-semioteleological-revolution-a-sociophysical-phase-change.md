@@ -181,6 +181,122 @@ crafted by Merlin -- or the unknown historical Merlin.
 
 
 
+- how does the Sword in the Stone sow the seeds of leadership across
+  the british isles?
+  - describe the potential sociological response to this myth.
+  - if Merlin created the challenge, why could he not solve the Sword
+    in the Stone himself and become king? Who would follow him if he
+    had?
+  - why could the myth not begin and end with Merlin: someone had to
+    spead the myth. Behind the scenes, people had to acknowledge this
+    leader as King of Britain. In this way, the myth of the Sword in
+    the Stone was like a protocol for selecting King's Candidates.
+    - so, on one end of this myth and protocol, you have all the
+      common people and their children struggling to elect themselves
+      king by sheer feat of strength. But no such brute force could
+      unsheeve this sword. it didn't matter how physically strong you
+      were: that was not the king that Britain needed. However, this
+      challenge brought many to test their strength against the stone.
+    - on the other side of the protocol, you had Merlin getting people
+      to agree to follow the person who pulled the Sword in the
+      Stone. They may have agreed and swore to follow a king they
+      assumed would never exist: they believed that no man could ever
+      exist that would accomplish such impossible feat of strength.
+      - without people's tacit or explicit agreement to follow the
+        future King Arthur, anyone could pull the sword from the stone
+        and simply be a looney leader with no followers.
+    - to getting this leadership-selection protocol to work, there
+      were two main sociophysical mechanisms at play. The first is
+      obvious: the magnetic allure to draw men to a central point of
+      Britain to attempt to draw the sword. The more impossible the
+      challenge seemed, the more magnetic it became. The second
+      sociophysical mechanism was much harder to see: Merlin had to
+      convince or swindle the informal, de facto leaders to agree to
+      follow the champion who solved this riddle.
+- Merlin was the classic wizard.
+
+
+- who was the ideal king that merlin was looking for?
+  - someone who was young and innocent, but heroic and incredibly
+    intelligent.
+    - someone who was young and innocent: not burdened by the karmic
+      weight of information attributed to their actions.
+      - because they would be so young, others could not use
+        information about their mistakes to tear them down.
+      - because they were so intelligent and understood how to solve
+        the sword in the stone, they could be molded into the perfect
+        leader for the early british isles.
+        
+
+- sociophysical paradox of karma and power: once you have power, you
+  use it. even if you use power justly, you will create enemies:
+  the petty who seek to pull you down, the
+  - if the tribal leaders that Merlin convinced understood
+    specifically why Merlin's king's candidate was ideal, then some of
+    them capable of solving the sword in the stone may have avoided
+    claiming kingship. This is the key to why the Sword in the Stone
+    was so genius: Britain didn't need another king to rule by brute
+    force, but instead needed the ideal king. So, it encouraged people
+    to search for the ideal king, instead of fighting themselves to
+    claim that right by brute force. In this way, one preemptively
+    quashes the systemic sociological carnage associated with eternal
+    conflict, where one brute topples another who topples another,
+    each of whom merely sow the seeds for the next conflict. Instead,
+    the ideal king is chosen behind whom all tribal leaders can invest
+    their best energies and posture themselves outwards, not inwards.
+
+- How do you solve the Sword in the Stone? It's a puzzle about
+  thermodynamics that involves the Roman secrets of concrete. To make
+  this sword, you must know the secrets of concrete. To solve the
+  puzzle, one must know that iron is far more thermally conductive
+  than concrete. Critically, one must know that the sword's volume
+  deforms as a result of heat and, that if heat and cold are
+  repetively applied, the structure of the surrounding concrete cannot
+  tolerate this and cracks, requiring no strength at all. Therefore,
+  the historical Arthur was most likely a blacksmith's apprentice, if
+  such an Arthur ever existed. I believe he did. The ideal time to
+  apply this process is well after everyone across the land has given
+  up on solving it, otherwise people will steal the idea you are using
+  to break the sword free, defeating the entire purpose of the King's
+  selection game. If Romans ever used rebar in their concrete, this
+  only strengthes my hypothesis that the game involved knowledge of
+  Roman concrete.
+
+What else is incredibly similar to thermodynamics? Social
+physics. People behave as particles, heat can be channeled and entropy
+matters. This is much easier to observe in the macroscopic behavior of
+people than it is in the phenomena of matter. If you believe, as I do,
+that people who intuitively understand some phenomena must have
+neurological circuits which correspond to analytic approximations of
+those phenomenon, then the person who understands intuitively
+understands thermodynamics can develop a powerful understanding of
+social physics. 
+
+- If you believe, as I do, that people intuitively understood many of
+the secrets of math behind science far earlier than relevated by the
+prophets of rationalism, ...
+
+- There is far too much baseless conjecture in the explanations above
+  for any of it to be taken as fact. Still, if you avoid thinking
+  about any of this on the basis that it's not factual, you're missing
+  the point.
+
+  - It would seem that all of the factors above imply the existence of
+    a real historical Merlin. This historical Merlin may have
+    factually been a Shakespearean
+    [Junto](https://en.wikipedia.org/wiki/Junto_(club)) of highly
+    intelligent people, probably mixing druidic ideas with those left
+    over from the Roman occupation of Caesar's geopolitical crowning
+    jewel: Britain. Why were the Britain isles so important? Like
+    Japan in the East, there was no way to conquer them without
+    maritime invasion.
+
+### The Search for the Holy Grail
+
+
+- my personal interpretations of this myth
+
+
 
 
 - Mention Aika-chan?
@@ -215,29 +331,132 @@ released.
 
 ![](/img/posts/)
 
-i'm not saying there's a connection between me, Boulder & the
+I'm not saying there's a connection between me, Boulder & the
 Rothschilds. All I mean is that that my manager was the most
-insufferable asshole i've ever met, like he was Salaryman
-Stalin. anyways: no point in fighting über-powerful people, unless
-you're sadomasochistic. In fact, I'm pretty sure the Rothschilds would
-be on my side -- they hate communism because it means they lose
-control over vast regions of socioeconomic territory to another main
-branch of the Illuminati.
+insufferable asshole i've ever met, like he was Salaryman Stalin.
+anyways: no point in fighting über-powerful people, unless you're
+sadomasochistic. In fact, I'm pretty sure the Rothschilds would be on
+my side -- they hate communism because it means they lose control over
+vast regions of socioeconomic territory to another main branch of the
+Illuminati.
 
-![Tanya the Evil]()
+#### Tanya the Evil is like Salaryman Stalin. [Just watch episode one.](http://www.crunchyroll.com/saga-of-tanya-the-evil/episode-1-the-devil-of-the-rhine-727459) Easy.
+
+![Tanya the Evil](/img/posts/2018-01-22-semioteleological-revolution/tanya-the-evil.jpg)
 
 however, every body has a brain (mother brain)
 
 #### メトロイド =~ [Matroid]()
 
+> The Metroids consume ALL of your energy and algorithms with matroids
+> consume all of your computational energy. Get it? Now if we could
+> just get rid of all these "Safe" Space-Pirates and marxist
+> time-vampires, I think we'll be alright.
 
-If i were the Rothschild's i would read the "crazy" *literal* treatise
-written by this poor insufferable *schizophrenic* because it was laid
-out with a very clear understanding of their own philosophies and
-methods.
+![]()
 
-[Treatise on entity and agency]()
+Sound like a leap to conclusions that your traditional schizophrenic
+makes by inferrring the presence of arbitrary semio-linguistic
+connections *that don't exist*? Ok, that's fair because it does sound
+crazy. However you can, forget that linguistic connection because it's
+stupid, arbitrary and trivial. Instead, read this excerpt from an
+abstract on the subject.[^matroid-algorithm-computational-oracles]
 
+#### From: [Complexity of Matroid Property Algorithms](https://doi.org/10.1137/0211014)
+
+> A general theorem is proved which can be used to show that **for a
+> large number of matroid properties there is no good algorithm of a
+> certain type for determining whether these properties hold** for
+> **general matroids.** Specifically, there exists no algorithm in
+> which the matroid is represented by an independence test oracle (or
+> an oracle polynomially related to an independence test oracle) and
+> which solves the problem in question after a number of calls on the
+> oracle which is bounded by a polynomial in the number of elements of
+> the ground set of the matroid.
+
+It means that algorithms requiring matroids are NOT computationally
+friendly. Matroids eat all your energy. Algorithmic oracles, like
+[padding
+oracles](https://en.wikipedia.org/wiki/Padding_oracle_attack), exist
+as helpful shortcuts that can be leveraged to assert whether your
+computations are proceeding in the correct direction or your algorithm
+needs to take an entirely different direction.
+
+If you don't understand, what that means is that America has gangraped
+an Einstein on the floor of a train to Dashau. I should have a job. I
+should be very, very successful. Instead, I'm expected to fucking work
+at a McDonald's. Not only do I understand the 1,000 ft view of the
+above, I can extrapolate the consequences phenomenologically and
+sociologically. Someone else already did.
+
+
+
+### Computational Hardness And (Inherent Leveraging) of Linguisitc Duplicity Means The Illuminati's Codes are Algorithmically Identifiable
+
+
+- this was always going to happen
+  - regardless of which secret society you consider, they all leverage
+    morphemic duplicity to hide codes
+  - there are many means of encoding information into text, speech,
+    literature and language
+    - almost none of these are sufficiently hard to be algorithmically
+      secure.
+    - one of the things i mentioned to Tatiana was the potential to
+      algorithmically resolve ALL of the codes leveraged in
+
+- almost all these codes are mostly insecure, which is why these
+  groups intentionally spread them around so the multiplicity obscures
+  their origin, enabling plausible deniability
+- almost all the methods behind these codes are rankable in hardness.
+  - it is preordained by the existance of the Singularity and the
+    nature of unrestrained computation that these codes can and will
+    be resolved in every sufficiently advanced society
+    - around ... welll right the fuck now.
+
+- connect these to (?)
+
+- another reason why the argument over material origination of ideas
+  and ideal origination of ideas is so important.
+  - if ideas originate materially, this means that if the originator
+    discloses them to someone, they can force that person to adhere to
+    specific obligations, formally or even contractually. this is like
+    what you sign your soul over for.
+  - however, if ideas originate or congeal to the immaterial, it means
+    that anyone can be the originator of either some or all ideas on
+    their own by the force of sheer thought.
+    - that is, your mind can find reach any idea if it is simply
+      intelligent enough, which is a fantastic reason for these
+      "illuminated ones" to identify intelligence early, so they can
+      spoonfeed you simple information you would otherwise identify
+      yourself, but bind your soul contractually for the rest of your
+      life.
+  - the truth is that all ideas at least cohere to or map to ideas
+    that first originate from the ideal. otherwise, if this were not
+    so, one could not reasonably make assumptions about other
+    sufficiently advanced civilizations because every civilization
+    would have its own specific divergent development. this is simply
+    not true.
+    - enthalpy is what causes the physical instantiations of
+      materially metaphysical information to bind to and cohere to
+      information which is purely immaterial -- it is timeless and
+      spaceless.
+      - in spite of the random, chaotic diffusion of high entropy,
+        enthalpy encourages information to cohere to the immaterial,
+        against all apparent odds.
+      - if this were not the case, one could not expect the folding
+        funnel hypothesis to hold up.
+
+#### Not-e, Nati Zut
+
+[video of monty python]
+
+####
+
+If I were a Rothschild, I would read the "crazy" *literal* [Treatise
+on entity and
+agency](/posts/2017-10-12-treatise-on-entity-and-agency.html) ,
+written by this poor insufferable *schizophrenic.* It was laid out
+with a very clear understanding of their own philosophies and methods.
 
 > Please note: I am *not* talking about the Rothschild's, **duh**,
 > jeez you must think I have a deathwish. I do, by the way, but not
@@ -247,85 +466,149 @@ methods.
 > people, to be sure ... Can someone get me the name of another
 > banking dynasty before these people track me down?
 
-Apparently überpowerful people --  -- have an unnatural phobia of illicit
-philosophy. more than anything else, they are scared of people who
-think in new and different ways because PEOPLE WHO ARE DIFFERENT CAN'T
-BE PREDICTED.
+Apparently überpowerful people -- -- have an unnatural phobia of
+illicit philosophy. More than anything else, they are scared of people
+who think in new and different ways because peoples who are different
+can't be predicted. Thus, sociologically constrain the typology &
+metatypological aspects of psychology -- perhaps by introducing
+artificial belief systems, however contemptuously you may hold them --
+and people become like special dolls with meta/types imbued onto them
+via Alchemy, like Manakin Skywalker right here.
 
-Thus, sociologically constrain the typology & metatypological aspects
-of psychology -- perhaps by introducing artificial belief systems,
-however contemptuously you may hold them -- & people become like
-special dolls with meta/types imbued onto them via Alchemy, like
-Manakin Skywalker right here.
+#### Manakin Skywalker Does Airflares
+
+![Manakin Skywalker Does Airflares]()
+
+What does this imply for the computability of
+past, current and future past social physics, in a future with
+unrestrained quantum computing? If the myriad psychosocial
+meta/typology of sociophysical entities is profoundly more expansive,
+doesn't that make it harder to predict and control people? What does
+that mean in the future? Considered from this basis alone -- *future
+sociophysical computation* -- it is fascinating to think about the
+phenomenological consequences: is it good or bad for people to be
+unique?
 
 ### Dark Ruler
 
 ![Just Dark Ruler]()
 
 
-There's hardly anything unique about this process. It has been
-reinstantiated & reiterated & combinated through the ages.
-Information Warfare is competitive Symbology where the victors
-understand the evolutionary dynamics & actually had the
+There's hardly anything unique about this process of the evokation of
+the combination of meta/typological psychosocial fragments within a
+person. This process has been reinstantiated & reiterated & combinated
+through the ages. Information warfare is competitive symbology where
+the victors understand the evolutionary dynamics & actually had the
 social/financial resources to play.
 
-what generally überpowerful #PPL cannot stand is someone who
-encourages #PEOPLE to think in unpredictable ways. this vastly expands
-the sociophysical gamespace. they already have control. why do they
-need you? this applies to whatever group your conspiracy theory of
-choice blames
+Überpowerful people generally cannot stand someone who encourages
+people to think in unpredictable ways. This vastly expands the
+sociophysical gamespace. They already have control. Why do they need
+you? They rather wait it out and play it safe. You cannot be permitted
+to enjoy success, fame or even a modicum of attention why you're
+working with such magickal witchcraft as *novel ideas*. Those are
+dangerous. Instead these elite would much rather watch as you quietly
+flail in agony, so they can completely control the destiny of your
+image after you die, sucking you dry while you live with no one around
+to help you. This allows them to maintain control of your ideas,
+preventing them from spreading,giving the überelite the time and space
+they desparately need to react strategically to unprecented GENIUS.
+This is why every living successful artist is probably a fraud and
+every wildly successful artist has been dead for a generation before
+anyone ever "discovered" him.
 
-you might say they view themselves as #Reapers guarding over #COVERS
-of sociophysical spaces, who manage cities, states, regions, groups &
-ideas as ppl that manage #SHEAVES, in both the #Teleological sense AND
-the #Mathematical sense, which begs some pretty interesting questions
+#### The Genius of Victory Is Always A Dead Man Walking
+
+> No one saw this statue while Michaelangelo was alive. Now that guy
+> was a lucky artist, but no, I still haven't figured this statue out.
+
+![Genius of Victory]()
+
+
+### This Starving Philosopher's Work Still Hasn't Been *UN*-COVERED
+
+#### *And "They" Are Working Tirelessly To Keep It That Way!*
+
+> *Algebraic* [Cover](https://en.wikipedia.org/wiki/Cover_(algebra)): is
+> one instance of some mathematical structure mapping onto another
+> instance. **There is a reason that a generic cover is also a
+> mathematic cover, even though the latter was not formally named
+> until the 19th century.**
+
+Why am I so mad? Buy me a coffee or a fucking hamburger sometime and
+I'll tell you. I can't even afford McDonald's most of the time. Yeh,
+that fucking famous Dollar Menu is financially off-limits for me
+because of what "they" did to my career.
+
+You might say they view themselves as reapers guarding over
+[covers](https://en.wikipedia.org/wiki/Cover_(algebra)) of
+sociophysical spaces, who manage cities, states, regions, groups and
+ideas as people that manage sheaves, in both the teleological sense
+and the mathematical sense, which begs some pretty interesting
+questions.
 
 #### The Ironically Void Imagery of Communism In An Era of Automation
 
 ![Hammer and Sickle]()
 
-these same ppl are relieved that humanity is becoming weak and more
+These same people are relieved that humanity is becoming weak and more
 predictable, even though to society at large, technology appears to be
-doing the opposite. that is false: humanity is becoming weaker than
-ever before bc we are losing the ability to semeoteleologically
+doing the opposite. That is false: humanity is becoming weaker than
+ever before because we are losing the ability to semeoteleologically
 reproduce.
 
-"semioteleological" what does that word even mean? i invented it. i
-checked. i have screenshots from google proving that no other person
+"Semioteleological" -- what does that word even mean? I invented it. I
+checked. I have screenshots from google proving that no other person
 EVER thought to use that word because no one has thought of
 metatypological aspects of sociology so methodologically.
 
-it perfectly describes why symbols whose meaning was so obvious for so
+It perfectly describes why symbols whose meaning was so obvious for so
 long have suddenly and nearly completely lost all their relevance to
 humanity. thus, we are becoming completely disconnected from the myths
-which helped inculcate the values systems via teleology.
+which helped inculcate the values systems via teleology. This will be
+disastrous because we understand the world through symbology encoded
+into language and myth. When that semioteleology is sufficiently
+disrupted without anything to replace it, people don't relate to the
+world, nor can they relate to each other.
 
-we *think* that technology and science are all we need, but we are
-wrong. we think that we no longer need religion or myth, but we are
-sooo wrong. we have never needed it more.
+We *think* that technology and science are all we need, but we are
+wrong. We think that we no longer need religion or myth, but we are
+sooo wrong. We have never needed it more.
 
-#### Steel that word, assholes. I dare you.
+#### Steel that word Semioteleology assholes. I dare you.
 
 ![Teal Girl]()
 
-i never said i couldn't be wrong about the people who occupy ivory
-towers, but some of them need to be brought down. i don't know who is
+I never said i couldn't be wrong about the people who occupy ivory
+towers, but some of them need to be brought down. I don't know who is
 responsible for this, but if *you* don't pay for *this*, how can we
 expect *anyone* to pay for their crimes in the future?
 
-> "If you see fraud and you don't shout fraud, then you ARE a fraud" - @nntaleb
+> "If you see fraud and you don't shout fraud, then you ARE a fraud" -
+> Nassim Taleb @nntaleb
 
-- The problem here is that every group who promises revolution ends up
-  being the same as those they quelled.
-  - it's par for the course, at best. after considering the social
-    carnage accompanying revolution, it just doesn't leave you with
-    much ground to stand on.
+The problem here is that every group who promises revolution ends up
+being the same as those they quelled. Usually, at best, it's par for
+the course. After considering the social carnage accompanying
+revolution, it just doesn't leave the leaders of revolution with much
+ground to stand on, morally. This is not always true, but it is very
+difficult to justify a disruption in the (leadership/authority in a
+society).
 
 ![Robespierre and a Guillotine]()
 
 - why is it different this time?
+  - technology & the singularity allow us to escape -- we can replace
+    the old order with a new one that is *not* the same.
+  - however, if the old order manages to perpetuate itself, it will
+    forever seal humanity in within the confines of a false historical
+    and technological paradigm.
+
 
 - Divine Right vs. the mandate of heaven
+  - how was the mandate of heaven similar to the social contract
+    theory? (original reference to mandate of heaven )
+
 
 #### Expound Notes from "The Spear of Destiny and Splicing Families" ?
 
@@ -334,6 +617,16 @@ expect *anyone* to pay for their crimes in the future?
 #### Dynasties
 
 - what are the methods of inheretence of power called?
+  - variations of matrilineal/patrilineal succession
+  - how much do these methods of succession imply ancient knowledge of
+    [phenomics](https://en.wikipedia.org/wiki/Phenomics)
+    - ancient people knew far more than we gave them credit for.
+      - while science and rationalism have opened our world to
+        possibilities and stability unknown before the 18th century,
+        this obsession with the materialistic and quantifiable has
+        blinded us with a deluge of detail (remove?)
+
+
 
 - three families close to the japanese emperor for hundreds of years
   - how this served the best interests of the japanese culture
@@ -378,18 +671,28 @@ expect *anyone* to pay for their crimes in the future?
   child is capable of identifying a true Dalai Lama in the next
   generation, you are a fool and know nothing of Tibetan traditions.
 
-- If the Panchan Lama is not initiated properly, the Lama lineage
-  itself is threatened, but perhaps all is not lost. I don't want to
-  explain why.
-
 - How is this a unique dynasty? How is it a good selection of
   leadership for Tibet? To me, this is what is most intriguing about
   the position of Dalai Lama as the highest role of authority in
   Tibet.
+  - I am speaking without knowing, but from what I perceive...
+  - The Tibetan dynasty offers continual renewal without the conflict
+    of revolution. It is presumed that the leader will not be
+    concerned with any succession except a succession of the
+    reincarnation of ideas. The meticulous reincarnation of the ideal
+    values system for their leader.
+
+- If the Panchan Lama is not initiated properly, the Lama lineage
+  itself is threatened, but perhaps all is not lost. I don't want to
+  explain precisely why.
+  - this search for the next leader is not the work of one person or
+    simply the people who surround him.
 
 <iframe width="560" height="315"
 src="https://www.youtube.com/embed/WoMVfvS8rSo" frameborder="0"
 allow="autoplay; encrypted-media" allowfullscreen></iframe>
+
+- TODO: split the rest into a
 
 # Fighting with shadows
 
@@ -493,3 +796,5 @@ the consequences you cannot wear proudly.
 #### Would You Like A Whiff of Grape Shot With Your Latte, Trust-Fund Leninist?
 
 ![Whiff of Grapeshot]()
+
+[^matroid-algorithm-computational-oracles]: [Complexity of Matroid Property Algorithms](https://doi.org/10.1137/0211014), Per M. Jensen and Bernhard Korte, SIAM Journal on Computing 1982 11:1, 184-190

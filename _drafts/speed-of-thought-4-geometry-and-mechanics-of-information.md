@@ -16,6 +16,11 @@ excerpt: ""
 - [Picture for Geometric Mechanics]
 
 
+
+#### Distance Metrics in Information Networks
+
+> The apple doesn't fall too far from the tree.
+
 - Inequalities (contained-within & within-is-contained) in type-space
   - esp. as applied to game theory for real-time, stochastic &
     inschematic games

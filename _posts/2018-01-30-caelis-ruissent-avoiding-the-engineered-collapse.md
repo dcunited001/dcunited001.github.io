@@ -15,8 +15,6 @@ listen to me though, 'he who must not be named.' Don't ever do that!"
 > Entire world stunned as local man "pantses" US Congress just to show
 > them all as the dickless sycophants they are...
 
-![](/img/posts/2018-01-30-caelis-ruissent-avoiding-the-engineered-collapse/)
-
 There is an engineered collapse coming. It is not in American
 interests and there are those among you, both rich and powerful, who
 are betting against America. In the age of data science, you cannot
@@ -48,7 +46,7 @@ whatever you want for free.
 
 These trends are damning. Merely mentioning them may cause severe
 consequences, but they are unavoidable and I know *exactly* how the
-powerful seek to handle these. By leveraging the chaos to establish an
+powerful seek to handle these: by leveraging the chaos to establish an
 entirely new knowledge-base. An entirely new paradigm where the old
 world is forgotten or remembered in such an incorrect manner as to not
 relevantly connect to the truth. The real problem with this? Those
@@ -132,7 +130,7 @@ immemorial.
 The title above is about the fanciest way of saying: we're all on the
 tracks about to get hit by a train and no one is worried about how
 we're going to get out of the car. That's the gist of this article.
-There's some things coming. There are clearly people who are concered
+There's some things coming. There are clearly people who are concerned
 about those problems, but there are only a handful of people concerned
 about them all as they impact each other.
 
@@ -151,13 +149,15 @@ where the sky is and has fallen -- only then does America actually
 have problems.
 
 And if you want to say that I'm alarmist and irresponsible for writing
-about this? You're irresponsible. No one sees this shit coming. When
-people realize they've been lied to and the sky has fallen, they're
-going to be pissed about it. They won't be as pissed if they have
-something to do about it before it falls. America is not paying
-attention to the right things. You've all been hypnotized by the
-election and everything related to it whereby you're playing directly
-into the hands of our enemies.
+about this? You're irresponsible. No one sees this storm coming. By
+the time the sky has fallen, people will realize they've been lied to
+this whole time, that their leaders were incompetent in all but
+courting special interests and the people are going to be pissed about
+it. They won't be as furious if they have something to do about it
+before it falls. America is not paying attention to the right
+things. You've all been hypnotized by the election and everything
+related to it whereby you're playing directly into the hands of our
+enemies.
 
 Get up. Stand up. And fight for your rights.
 
@@ -178,9 +178,9 @@ Novel imaging technology -- like MAS, SPECT, PET, and others --
 creates the possibilities of neurological forensics and stastical
 methods which prove the true cause of mental illness as well as the
 existence of top-secret neurological intervention. The problem? If
-random people naturally discover either of these, the are some really
-awkward questions that must be answered. Ain't no cigar smoking dude
-out there planning on answering those questions. Get real.
+random people naturally discover either of these, there are some
+really awkward questions that must be answered. Ain't no cigar smoking
+dude out there planning on answering those questions. Get real.
 
 Furthermore, predictive medicine, including knowledge about gene
 networks, will demonstrate trillions in damage from presrcription
@@ -198,7 +198,8 @@ detected by methods of data science, there will be no question.
 There are some in medicine, industry and science who already know this
 is coming, eventually. They understand the potential conferred by data
 science, predictive medicine and novel imaging methods. What would you
-do in their shoes? To be sure, it's not really their fault, but
+do in their shoes? To be sure, it's not really their fault -- **for
+most of these problems, they are not proveably legally liable** -- but
 they're the ones selling products that everyone knows make people
 sick. Suddenly, this is revealed simultaneoulsy, within the span of
 ten years in an irrefutable way. If not handled properly, it will have
@@ -217,11 +218,26 @@ seen. This simply means money, assets and businesses will change hands
 from those who have profited thus far into the hands of those who will
 begin to profit from the solutions.
 
+Against our corporate leaders' instincts to protect their maximal
+financial interests, they must posture themselves against what will be
+unveiled by computational medicine and predictive medicine. To do
+this, they must control the narrative moving forwards and, generally,
+this is how corporations react to existential liability from products
+they didn't know were harmful -- this is not the fault of our
+corporations, but it always looks really bad. Seed the roots of these
+narratives from the bottom up: by identifying problems early on, by
+identifying people who've been negatively affected by your product and
+you plant the roots of positive stories. The truth is that the
+academic establishment did not see this coming at all. They would not
+let themselves see these problems, but they are real. So use the time
+you have over the next ten years to paint the right picture before
+these chickens come home to roost.
+
 <a name="cost-of-medical-care-and-ubi" />
 
 ### &#8968;ii&#8969; [Cost of Medical Care and UBI, Along With A Failing Food Supply](#cost-of-medical-care-and-ubi)
 
-This leave America in a pretty tough spot because medical technology
+This leaves America in a pretty tough spot because medical technology
 is kind of our bread and butter. It's a major export and we protect it
 through intellectual property. That's why our prices have always been
 so high at home: we control the intellectual property. If we don't pay
