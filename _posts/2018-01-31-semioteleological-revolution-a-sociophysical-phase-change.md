@@ -21,6 +21,7 @@ most radiant truth who commands the masses, if they can just be heard.
 
 # [What Does Metaphysics Have To Do With The Illuminati, Anyways?](#what-does-metaphysics-have-to-do-with-the-illuminati)
 
+
 <a name="illuminati-the-anti-santa" />
 
 # [Illuminati: The Anti-Santa](#illuminati-the-anti-santa)
@@ -44,15 +45,26 @@ is paramount: you can fight what you believe exists.
 
 #### Cookies? So You Can Gaslight Me? Do I Look Like Hansel?
 
-![Ain't Nobody Got Time For That]()
-
-> Not gonna lie, I will eat your cookies though.
+> Ain't nobody got time for that! Not gonna lie, I will eat your
+> cookies though.
 
 There is no one group though, why is partially why it's so easy to
 forget they couldn't possibly not exist. The Illuminati is more of a
 manifestation of evil that projects itself into the world through the
 collective unconscious exigencies of the nature of power combined with
 certain aspects of the human condition.
+
+#### Majin Buu, the Final Boss
+
+> "Be Bibidi?
+>
+> Who bebe you?
+>
+> Ya got any cake?
+>
+> Den da [majin whuu's](https://twitter.com/dcunit3d/status/954843961138573312) gonna eat you!"
+
+![Majin Buu, the Final Boss](/img/posts/2018-01-22-semioteleological-revolution/majin-buu-bibidi.jpg)
 
 <a name="what-does-metaphysics-have-to-do-with-the-illuminati" />
 
@@ -136,7 +148,11 @@ you'll probably just make things worse.
 > Magus Summoning Lavos, Only To Have Deluded Himself About His Power
 > To Destroy It.
 
-![Magus Summoning Lavos](/img/posts)
+![Magus Summoning Lavos](/img/posts/2018-01-22-semioteleological-revolution/)
+
+#### Magus In Search of Schala
+
+![]()
 
 The Illuminati, in is various incarnations, has been destroyed time
 and time again, only to be reborn. They view themselves as necessary
@@ -163,9 +179,11 @@ society, all decentralized and autonomous. It is outlined similarly to
 the sheaf and the reaper, the merchant of souls.
 
 So, they cannot recognize him, but because they seek to so tightly
-control the prevalence narratives, myths and especially history, they
+control the prevaling narratives, myths and especially history, they
 hate this person. He is the blinding one who tells stories they cannot
-understand or writes truths which cannot so easily be perceived. They
+understand or writes truths which cannot so easily be perceived. Those
+stories slip through their minds' grasp; he is the one who slips
+through their cracks, all the while blinding everyone around him. They
 hate him, but they need him because he can see what they cannot -- yet
 a person like this can never be given power in their understanding of
 the world.
@@ -187,6 +205,7 @@ crafted by Merlin -- or the unknown historical Merlin.
   - if Merlin created the challenge, why could he not solve the Sword
     in the Stone himself and become king? Who would follow him if he
     had?
+
   - why could the myth not begin and end with Merlin: someone had to
     spead the myth. Behind the scenes, people had to acknowledge this
     leader as King of Britain. In this way, the myth of the Sword in
@@ -213,7 +232,9 @@ crafted by Merlin -- or the unknown historical Merlin.
       sociophysical mechanism was much harder to see: Merlin had to
       convince or swindle the informal, de facto leaders to agree to
       follow the champion who solved this riddle.
-- Merlin was the classic wizard.
+
+- Merlin was the classic wizard. someone who defied common
+  comprehension and still does, 1,500 years later.
 
 
 - who was the ideal king that merlin was looking for?
@@ -226,24 +247,72 @@ crafted by Merlin -- or the unknown historical Merlin.
       - because they were so intelligent and understood how to solve
         the sword in the stone, they could be molded into the perfect
         leader for the early british isles.
-        
 
-- sociophysical paradox of karma and power: once you have power, you
-  use it. even if you use power justly, you will create enemies:
-  the petty who seek to pull you down, the
-  - if the tribal leaders that Merlin convinced understood
-    specifically why Merlin's king's candidate was ideal, then some of
-    them capable of solving the sword in the stone may have avoided
-    claiming kingship. This is the key to why the Sword in the Stone
-    was so genius: Britain didn't need another king to rule by brute
-    force, but instead needed the ideal king. So, it encouraged people
-    to search for the ideal king, instead of fighting themselves to
-    claim that right by brute force. In this way, one preemptively
-    quashes the systemic sociological carnage associated with eternal
-    conflict, where one brute topples another who topples another,
-    each of whom merely sow the seeds for the next conflict. Instead,
-    the ideal king is chosen behind whom all tribal leaders can invest
-    their best energies and posture themselves outwards, not inwards.
+#### Arthur, The Unlikely, But Certain Hero
+
+![The Sword in the Stone](/img/posts/2018-01-22-semioteleological-revolution/the-sword-in-the-stone.jpg)
+
+### [The Karmic Consequences of Power: A Sociophysical Paradox]()
+
+Sociophysical paradox of karma and power: once you have power, you use
+it. Even if you use power justly, you will create enemies:
+
+#### &#2605; The power hungry who seek to leap frog you.
+
+#### &#2605; The self-indulged of higher disposition, who seek to use you as a benchmark for the demonstration of their own status.
+
+#### &#2605; The petty who seek to pull you down because they have no hope themselves.
+
+#### &#2605; Those you use unjustly may retaliate justly if you cannot justify yourself.
+
+#### &#2605; Those who see their service as not serving their own ends may lash out as well.
+
+#### &#2605; Those fickle-minded people who can be stirred up by wormtongues, lilliputians or demagoguery.
+
+#### &#2605; And finally, there are your true enemies, who stand firmly in the way of your objectives and always will.
+
+There is a cost to every action you take. You have to step along the
+right path, all along. The more publicly your actions are seen, the
+greater the multiplicity of their consequences along the way.
+Regardless of the truth of your actions, the tragedy is that it's the
+appearance of your actions which defines how people will see you. Most
+people simply don't have the time to reconsider what they already
+know, so if a leader accumulates the karmic burden of mistakes along
+the way or if a Rube Goldberg publicity machine multiplies the karmic
+consequences of the few mistakes they make, there is nothing within
+this physical universe that can undo that. This is what defamation and
+poison pen do to someone: it's what happened to me.
+
+#### Poison Pen: The Methodological Defamation Machine
+
+> Guess who? *It's anonymous.* We never said anything. We never did
+> anything. We'll NEVER apologize. Nope, no hallmark cards for
+> you. You can never rebuild your life. You don't have mental illness,
+> you have the sociological consequences of malicious lies, but here:
+> take these pills and maybe you'll forget. It'd really solve our own
+> social headache: YOU.
+
+<iframe width="560" height="315"
+src="https://www.youtube.com/embed/dFWHbRApS3c" frameborder="0"
+allow="autoplay; encrypted-media" allowfullscreen></iframe>
+
+As for the tribal leaders that Merlin managed to agree, if any of them
+understood specifically why Merlin's king's candidate was ideal, then
+some of them capable of solving the sword in the stone may have
+avoided claiming kingship. Others who understood the secrets may have
+leapt right for it, but insomuch only clearly marked themselves as
+lusting for power.
+
+These is the key to why the Sword in the Stone was so genius: Britain
+didn't need another king to rule by brute force, but instead needed
+the ideal king. So, it encouraged people to search for the ideal king,
+instead of fighting themselves to claim that right by brute force. In
+this way, one preemptively quashes the systemic sociological carnage
+associated with eternal conflict, where one brute topples another who
+topples another, each of whom merely sow the seeds for the next
+conflict. Instead, the ideal king is chosen behind whom all tribal
+leaders can invest their best energies and posture themselves
+outwards, not inwards.
 
 - How do you solve the Sword in the Stone? It's a puzzle about
   thermodynamics that involves the Roman secrets of concrete. To make
@@ -270,11 +339,11 @@ that people who intuitively understand some phenomena must have
 neurological circuits which correspond to analytic approximations of
 those phenomenon, then the person who understands intuitively
 understands thermodynamics can develop a powerful understanding of
-social physics. 
+social physics.
 
 - If you believe, as I do, that people intuitively understood many of
-the secrets of math behind science far earlier than relevated by the
-prophets of rationalism, ...
+  the secrets of math behind science far earlier than relevated by the
+  prophets of rationalism, ...
 
 - There is far too much baseless conjecture in the explanations above
   for any of it to be taken as fact. Still, if you avoid thinking
@@ -293,7 +362,6 @@ prophets of rationalism, ...
 
 ### The Search for the Holy Grail
 
-
 - my personal interpretations of this myth
 
 
@@ -309,7 +377,7 @@ prophets of rationalism, ...
 - she just had to do it. she went and gots #Teel #Heir. the
   #Rothschild's track those things down and use them mercilessly.
 
-![Teal Hair Anime Girl - "tee-ru"]()
+![Teal Hair Anime Girl - "tee-ru"](/img/posts/2018-01-22-semioteleological-revolution/)
 
 - i don't know any of this is actually Rothschild's fault #LOL
   - it's so easy to blam things on powerful people because ... well
@@ -353,7 +421,7 @@ however, every body has a brain (mother brain)
 > just get rid of all these "Safe" Space-Pirates and marxist
 > time-vampires, I think we'll be alright.
 
-![]()
+![](/img/posts/2018-01-22-semioteleological-revolution/)
 
 Sound like a leap to conclusions that your traditional schizophrenic
 makes by inferrring the presence of arbitrary semio-linguistic
@@ -477,7 +545,7 @@ via Alchemy, like Manakin Skywalker right here.
 
 #### Manakin Skywalker Does Airflares
 
-![Manakin Skywalker Does Airflares]()
+![Manakin Skywalker Does Airflares](/img/posts/2018-01-22-semioteleological-revolution/)
 
 What does this imply for the computability of
 past, current and future past social physics, in a future with
@@ -491,7 +559,7 @@ unique?
 
 ### Dark Ruler
 
-![Just Dark Ruler]()
+![Just Dark Ruler](/img/posts/2018-01-22-semioteleological-revolution/)
 
 
 There's hardly anything unique about this process of the evokation of
@@ -522,7 +590,7 @@ anyone ever "discovered" him.
 > No one saw this statue while Michaelangelo was alive. Now that guy
 > was a lucky artist, but no, I still haven't figured this statue out.
 
-![Genius of Victory]()
+![Genius of Victory](/img/posts/2018-01-22-semioteleological-revolution/)
 
 
 ### This Starving Philosopher's Work Still Hasn't Been *UN*-COVERED
@@ -549,7 +617,7 @@ questions.
 
 #### The Ironically Void Imagery of Communism In An Era of Automation
 
-![Hammer and Sickle]()
+![Hammer and Sickle](/img/posts/2018-01-22-semioteleological-revolution/)
 
 These same people are relieved that humanity is becoming weak and more
 predictable, even though to society at large, technology appears to be
@@ -577,7 +645,7 @@ sooo wrong. We have never needed it more.
 
 #### Steel that word Semioteleology assholes. I dare you.
 
-![Teal Girl]()
+![Teal Girl](/img/posts/2018-01-22-semioteleological-revolution/)
 
 I never said i couldn't be wrong about the people who occupy ivory
 towers, but some of them need to be brought down. I don't know who is
@@ -595,7 +663,7 @@ ground to stand on, morally. This is not always true, but it is very
 difficult to justify a disruption in the (leadership/authority in a
 society).
 
-![Robespierre and a Guillotine]()
+![Robespierre and a Guillotine](/img/posts/2018-01-22-semioteleological-revolution/)
 
 - why is it different this time?
   - technology & the singularity allow us to escape -- we can replace
@@ -795,6 +863,6 @@ the consequences you cannot wear proudly.
 
 #### Would You Like A Whiff of Grape Shot With Your Latte, Trust-Fund Leninist?
 
-![Whiff of Grapeshot]()
+![Whiff of Grapeshot](/img/posts/2018-01-22-semioteleological-revolution/)
 
 [^matroid-algorithm-computational-oracles]: [Complexity of Matroid Property Algorithms](https://doi.org/10.1137/0211014), Per M. Jensen and Bernhard Korte, SIAM Journal on Computing 1982 11:1, 184-190

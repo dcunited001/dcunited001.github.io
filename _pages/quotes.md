@@ -6,6 +6,9 @@ permalink: /quotes/
 
 > The truth is always convergent.
 
+> I cannot say I know how it's possible. However, I don't yet know how
+> it is impossible.
+
 > Metacognition is a science as well as an art.
 
 > That which is rarely found is always a greater treasure. The
@@ -42,3 +45,6 @@ permalink: /quotes/
 > unexpected. The ignorant then become like leaves in a wind they
 > cannot begin to see. Knowledge is power; truth is formless and
 > all-emcompassing; ideology is for fools.
+
+> Every system seemingly modern exists merely as facade, masking
+> countless strata of ancient facade.
