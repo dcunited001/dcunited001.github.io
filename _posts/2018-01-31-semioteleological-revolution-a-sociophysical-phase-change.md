@@ -195,12 +195,23 @@ which are meant to play out generation after generation, that function
 to establish filters that cause the virtuous, righteous and
 intelligent to sift higher into society, so that their society is as
 strong as possible. The sword in the stone is such a myth, probably
-crafted by Merlin -- or the unknown historical Merlin.
+crafted by Merlin -- or the unknown historical Merlin. While perhaps
+not a myth of this mysteriously vague Illuminati, it is fascinating
+all the same. Merlin was the classic wizard. Someone who defied common
+comprehension and still does, 1,500 years later.
 
+<a name="a-myth-to-test-the-mettle-and-steel-of-the-ideal-king" />
 
+### [A Myth To Test The Mettle and Steel of the Ideal King](#a-myth-to-test-the-mettle-and-steel-of-the-ideal-king)
 
-- how does the Sword in the Stone sow the seeds of leadership across
-  the british isles?
+While the role of monarchs has waned in the modern era, such tests are
+still incalculably valuable for determining who deserves to lead by
+determining who has the sharpest vision, the most unyielding mettle,
+and an unquenchable resolve. Today, the power of myth itself is
+waning.
+
+How does the Sword in the Stone sow the seeds of leadership across the
+british isles?
   - describe the potential sociological response to this myth.
   - if Merlin created the challenge, why could he not solve the Sword
     in the Stone himself and become king? Who would follow him if he
@@ -233,9 +244,11 @@ crafted by Merlin -- or the unknown historical Merlin.
       convince or swindle the informal, de facto leaders to agree to
       follow the champion who solved this riddle.
 
-- Merlin was the classic wizard. someone who defied common
-  comprehension and still does, 1,500 years later.
+- 
 
+<a name="the-galvanization-of-the-strongest-leader" />
+
+### [The Galvanization Of The Strongest Leader](#the-galvanization-of-the-strongest-leader)
 
 - who was the ideal king that merlin was looking for?
   - someone who was young and innocent, but heroic and incredibly
@@ -252,7 +265,9 @@ crafted by Merlin -- or the unknown historical Merlin.
 
 ![The Sword in the Stone](/img/posts/2018-01-22-semioteleological-revolution/the-sword-in-the-stone.jpg)
 
-### [The Karmic Consequences of Power: A Sociophysical Paradox]()
+<a name="the-karmic-consequences-of-power-a-sociophysical-paradox" />
+
+### [The Karmic Consequences of Power: A Sociophysical Paradox](#the-karmic-consequences-of-power-a-sociophysical-paradox)
 
 Sociophysical paradox of karma and power: once you have power, you use
 it. Even if you use power justly, you will create enemies:
@@ -288,9 +303,10 @@ poison pen do to someone: it's what happened to me.
 > Guess who? *It's anonymous.* We never said anything. We never did
 > anything. We'll NEVER apologize. Nope, no hallmark cards for
 > you. You can never rebuild your life. You don't have mental illness,
-> you have the sociological consequences of malicious lies, but here:
-> take these pills and maybe you'll forget. It'd really solve our own
-> social headache: YOU.
+> you have the sociological consequences of malicious lies: a
+> self-perpetuating thetan virus that you can pay our henchmen to
+> erase ... but here: take these pills and maybe you'll forget. It'd
+> really solve our own social headache: YOU.
 
 <iframe width="560" height="315"
 src="https://www.youtube.com/embed/dFWHbRApS3c" frameborder="0"
@@ -756,6 +772,98 @@ society).
   - this search for the next leader is not the work of one person or
     simply the people who surround him.
 
+
+# [Semioteleological Revolution](#semioteleological-revolution)
+
+The semioteleological roots are drying out: refer to the stories which
+power our understanding of the world by implanting symbols to refer to
+stories, framing the perspectives we use to view the world.
+
+###
+
+The rapid acceleration towards the singularity means that any
+prevalent myths in society are diffusing their power. In America,
+these myths include historical figures like Martin Luther King Jr.,
+stories of religious figures like Jesus, stories of ancestors, the war
+stories of relatives, and even comics or anime. They all form a
+semioteleological basis. As this basis becomes varied, fragmented,
+out-competed, out-moded and begins to evolve divergently, it becomes
+very difficult to empathize and sympathize with each other. As a
+leader, crafting a message that invokes these patterns of symbols
+becomes nearly impossible and you cannot predict how people will
+respond.
+
+#### Some People Think Namaste Means "The Divinity Within Me Speaks to The Divinity Within You"
+
+> [This professor, who miraculously has
+> tenure](https://nypost.com/2018/01/29/people-who-practice-yoga-contribute-to-white-supremacy-professor-claims/),
+> wants you to think "Namaste" means "Heil Doggy Style" and everything
+> associated with yoga is the Devil -- or Racist or something.
+
+If you didn't understand the paragraphs above: they explain how fake
+news is effective in undermining the system of symbols we use to
+communicate. Ever wonder what I mean when I use obscure references to
+anime? Now you know what I mean. Language begins to break down as we
+all begin leveraging symbols with poor diffusion and highly-varied
+interpretations. Then we all start talking over one another. We're all
+speaking English, but no one knows what anyone means, nor can any of
+us predict how someone's going to respond. We can't have civil
+discourse without bumping into someone else's triggers implanted by
+fake news stories. It's crazy!
+
+<a name="mainsteam-media-right-now-300000000-vuvuzelas" />
+
+### [Mainstream Media Right Now: 300,000,000 Vuvuzelas](#mainsteam-media-right-now-300000000-vuvuzelas)
+
+<iframe width="560" height="315"
+src="https://www.youtube.com/embed/Xl5iQFKygxw" frameborder="0"
+allow="autoplay; encrypted-media" allowfullscreen></iframe>
+
+This is all the design of someone's disinformation campaign, but
+there's not just one force or group who's disrupting communication in
+this way: it's many groups imitating each other's tactics all at the
+same time. It's the traditional, competitive symbology the
+"Illuminati" has always excelled at, but playing out at a rapidly
+deafening pace, resulting in all-out sociocultural chaos where all
+groups step on the toes of all other groups as they imitate each
+other's tactics and attempt to rebind the symbols' meanings as quickly
+as possible within their own followers. Instead of actually doing
+anything productive for anyone, the ear-splitting roar of fake news
+vuvuzelas only serves to make everyone question everyting and
+especially the truth, since it sounds as insane as any one of these
+vuvuzelas.
+
+> We interrupt this important message to remind you that, despite the
+> tension between a Schiff memo and a Nunes memo, David Conner's memos
+> are always the tastiest.
+
+<a name="so-thats-the-problem-whats-the-solution" />
+
+### [So That's The Problem. What's The Solution?](#so-thats-the-problem-whats-the-solution)
+
+For America, all of this *informational discord* makes it incredibly
+difficult just to resist the chaos and succumb to internal social
+conflict, not to mention all the other unspeakable consequences.
+
+The answer is to reinforce old traditions and build a new tradition at
+the same time. To all Americans, we need to harmonize our voices and
+harmonize our desires to counter the spectral nature of the
+informational discord. As we begin to approach the Singularity, the
+information economics that exacerbate this discord are going to get
+worse, unless there is an artificial push to counter them.
+
+So, we need to figure out how to strengthen those semioteleological
+roots for our ascent towards the Singularity. We need myth that is
+capable of riding this cosmic space pony into orbit, but not just any
+singular myth. It needs to be capable of harnessing the
+phenomenological evolution of society, particularly with regard to how
+technology affects teleology.
+
+![Quick, Get In! There's No Time To Explain!](/img/posts/2018-01-22-semioteleological-revolution/no-time-to-explain.jpg)
+
+
+
+
 <iframe width="560" height="315"
 src="https://www.youtube.com/embed/WoMVfvS8rSo" frameborder="0"
 allow="autoplay; encrypted-media" allowfullscreen></iframe>
@@ -768,8 +876,10 @@ allow="autoplay; encrypted-media" allowfullscreen></iframe>
 
 #### learn to dance with them, you're going to need it.
 
-#### wear your scars proudly. Commit yourself to no actions for which
-the consequences you cannot wear proudly.
+#### wear your scars proudly.
+
+- Commit yourself to no actions for which the consequences cannot be
+  proudly worn.
 
 - they will try to shame you with both their values systems, your own
   and all the miscontortions of both.
