@@ -22,6 +22,22 @@ most radiant truth who commands the masses, if they can just be heard.
 # [What Does Metaphysics Have To Do With The Illuminati, Anyways?](#what-does-metaphysics-have-to-do-with-the-illuminati)
 
 
+
+
+
+
+....
+
+
+## [Semioteleological Revolution](#semioteleological-revolution)
+
+#### [E.T. Wins The Semiotic Zipf's Distribution *And A Brand New iPhone!*](#et-wins-the-antrophosemiotic-zipfs-distribution-and-a-brand-new-iphone)
+
+#### [Mainstream Media Right Now: 300,000,000 Vuvuzelas](#mainsteam-media-right-now-300000000-vuvuzelas)
+
+#### [So That's The Problem. What's The Solution?](#so-thats-the-problem-whats-the-solution)
+
+
 <a name="illuminati-the-anti-santa" />
 
 # [Illuminati: The Anti-Santa](#illuminati-the-anti-santa)
@@ -244,7 +260,7 @@ british isles?
       convince or swindle the informal, de facto leaders to agree to
       follow the champion who solved this riddle.
 
-- 
+
 
 <a name="the-galvanization-of-the-strongest-leader" />
 
@@ -772,26 +788,62 @@ society).
   - this search for the next leader is not the work of one person or
     simply the people who surround him.
 
+<a name="semioteleological-revolution" />
 
 # [Semioteleological Revolution](#semioteleological-revolution)
 
-The semioteleological roots are drying out: refer to the stories which
-power our understanding of the world by implanting symbols to refer to
-stories, framing the perspectives we use to view the world.
+The semioteleological roots are drying out. These "roots" refer to the
+stories which power our understanding of the world by implanting
+symbols to refer to stories, framing the perspectives we use to view
+the world. The roots are structured very much like a compressed zip
+file or compiled bytecode. They define the execution of probabilistic
+programs in very much they same way that compiled bytecode does.
 
-###
+#### Try Scrubbing Out The Index Finger, You Artgum-Happy, Penis-Censoring, [Bananaphobic](http://www.bbc.com/news/blogs-news-from-elsewhere-36226141) Communists
+
+> I'm LOL'ing so hard right now&nbsp;&nbsp;that I can't stop
+> p'ing. You can't win, communists. Your dialectic is just an
+> comedically tragic ironic mess.
+
+![E.T. Wants to Phone A Friend](/img/posts/2018-01-22-semioteleological-revolution/.jpg)
+
+<a name="et-wins-the-semiotic-zipfs-distribution-and-a-brand-new-iphone" />
+
+### [E.T. Wins The Anthroposemiotic Zipf's Distribution *And A Brand New iPhone!*](#et-wins-the-antrophosemiotic-zipfs-distribution-and-a-brand-new-iphone)
+
+The E.T. finger is particularly hilarious during this phase of
+technological advancement. What anthroposemiotic sign stands out as
+most relevant and most seen in every era, but particularly the era of
+touchscreen technology? The extended index finger, which is so
+generic, you can never censor it. If you're identifying political
+dissidents by the signs they use to communicate, you'll only spin
+yourselves into attacking people who have no idea they're being
+misidentified by mimicking what is simply one of the five most common
+anthroposemiotic signs. Sorry communists, you'll have to wait for
+another time: perhaps when our minds evolve to become free of this
+meatspace that your philosophy is so ironically dependent on. (HAHA
+NOPE)
+
+#### Have You Heard The Joke Where E.T. Phoned a Frenemy?
+
+> He said: "I don't need your help, bitch. I got a UFO, but I wanted
+> to let you know: I just won a million dollars! Catch me in the
+> Pliedes! Me and Regis gonna be sippin' martinis, but you ain't
+> gettin none, son! Tell yo mama I said 'What's up, *baby!*'
+
+### [The Power of Myth Is Diffusing As Our Myriad Myths Fragment](#the-power-of-myth-is-diffusing-as-our-myriad-myths-fragment)
 
 The rapid acceleration towards the singularity means that any
 prevalent myths in society are diffusing their power. In America,
 these myths include historical figures like Martin Luther King Jr.,
 stories of religious figures like Jesus, stories of ancestors, the war
 stories of relatives, and even comics or anime. They all form a
-semioteleological basis. As this basis becomes varied, fragmented,
-out-competed, out-moded and begins to evolve divergently, it becomes
-very difficult to empathize and sympathize with each other. As a
-leader, crafting a message that invokes these patterns of symbols
-becomes nearly impossible and you cannot predict how people will
-respond.
+arborescent semioteleological basis. As this basis becomes varied,
+fragmented, out-competed, out-moded and begins to evolve divergently,
+it becomes very difficult to empathize and sympathize with each
+other. As a leader, crafting a message that invokes these patterns of
+symbols becomes nearly impossible and you cannot predict how people
+will respond.
 
 #### Some People Think Namaste Means "The Divinity Within Me Speaks to The Divinity Within You"
 
