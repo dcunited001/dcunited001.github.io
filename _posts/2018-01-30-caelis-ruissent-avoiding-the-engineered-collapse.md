@@ -1161,8 +1161,8 @@ though. Why? Your crypto-leninist "eichmanns" *need me to appear
 racist* **more** *than they actually want to fight racism*, so if
 someone reads my articles -- the good or the bad -- they lose their
 narrative: that I'm a hateful person who wanted to kick off a race war
-or some dumb fucking bullshit like that. Case in point: my
-life. Communists do not give a shit about ethnic issues. They actually
+or some idiot fucking bullshit like that. Case in point: my life.
+Communists do not give a shit about ethnic issues. They actually
 destroy ethnicity, robbing their captive citizens of any connection to
 their culture or history -- *AND THEY HAVE ALWAYS DONE THIS*. It's not
 new.
@@ -1693,7 +1693,7 @@ in place:
 
 #### **[NDB](https://en.wikipedia.org/wiki/New_Development_Bank)** supplants the [IMF](https://en.wikipedia.org/wiki/International_Monetary_Fund)
 
-#### **[CIPS](https://en.wikipedia.org/wiki/Cross-Border_Inter-Bank_Payments_System)** supplants the SWIFT Wire Transfer system, an effort that the [Central Bank of Russia](https://en.wikipedia.org/wiki/Central_Bank_of_Russia) moving forward
+#### **[CIPS](https://en.wikipedia.org/wiki/Cross-Border_Inter-Bank_Payments_System)** supplants the SWIFT Wire Transfer system, an effort that the [Central Bank of Russia](https://en.wikipedia.org/wiki/Central_Bank_of_Russia) is moving forward
 
 If the left manages to disrupt for three more years, the old America
 will be unable to project the soft power it needs for economic growth
@@ -1718,7 +1718,7 @@ international finance. This is why I give everyone a chance. I try to
 listen, no matter who I'm talking to. I know it's hard to understand
 me sometimes. That guy? Genius. I'm not sure I can recommend his fund
 for investments, but he definitely knows his stuff. You're about to
-disover what it means to live under the thumb of an alternative truly
+discover what it means to live under the thumb of an alternative truly
 exploitative international financial regime to which we are forever
 enslaved. You are idiots. if and when this comes to pass, you will
 truly understand how your far-left belligerence was **TREASON**.
@@ -1728,7 +1728,7 @@ structures -- and it leads to the Chinese and their novel
 interantional world order du jour: BRICS/AIIB/NDB/CIPS (BANC). BANC is
 yet another system whose outlines are in place, which indicates the
 orchestration of sophisticated plots against America. Furthermore,
-Their CIPS payment system allows terrorists to subvert wester
+their CIPS payment system allows terrorists to subvert western
 anti-terrorism laws that protect us against terror groups utilizing
 wire-transfer. In general, asians have an incentive to work together,
 but the Japanese do not want to become subservient to the Chinese.

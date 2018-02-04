@@ -819,6 +819,13 @@ Enthalpy](/img/posts/2017-10-21-speed-of-thought-twenty-postulates-of-social-phy
         - or is it instead a state purely devoid of the elements
           required for suffering/evil?
 
+- Mara only comprehends men who seek the path of least resistence, not
+  fluid men who do not conform to any worldly desires or mechanisms of
+  control
+  - Henry David Thoreau quote "the path of least resistence leads to
+    crooked rivers and crooked men"
+  - such a path is useful sometimes.
+
 #### "Be Water, My Friend"
 
 - someone who (understands, absorbs, reacts to) the presence of the

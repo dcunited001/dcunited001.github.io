@@ -11,7 +11,14 @@ graphics_ui_layout: "graphics/2017-06-29-animating-the-gradient.html"
 
 - TODO: figure out how to structure (with illustrations?) so that
   pretty much anyone can understand what i'm talking about
-  - 
+  -
+
+
+#### K-Os - The Love Song (school of kung fu & hip hop)
+
+<iframe width="560" height="315"
+src="https://www.youtube.com/embed/RyRB00Xe5-E" frameborder="0"
+allow="autoplay; encrypted-media" allowfullscreen></iframe>
 
 
 ### Videos
@@ -337,4 +344,3 @@ graphics_ui_layout: "graphics/2017-06-29-animating-the-gradient.html"
 * how negatively-intended cognitive behavior therapy unnecessarily:
   burdens our society and benefits liberals who are using it for
   harassment and mind control.
-
