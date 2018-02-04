@@ -28,7 +28,7 @@ excerpt: ""
 
 ## [Illuminati: The Anti-Santa](#illuminati-the-anti-santa)
 
-#### [What if Santa Clause Snuck In Your House, Stole All Your Cookies and Set Your House on Fire?](#what-if-santa)
+#### [What if Santa Clause Snuck In Your House, Stole All Your Cookies and Set Your House on Fire?](#what-if-santa-burnt-your-house-down)
 
 ## [What Does Metaphysics Have To Do With The Illuminati, Anyways?](#what-does-metaphysics-have-to-do-with-the-illuminati)
 
@@ -942,6 +942,13 @@ society).
   - this search for the next leader is not the work of one person or
     simply the people who surround him.
 
+
+- what reincarnated or reborn beings would be useful to identify
+  - for metatypological identification of reborn beings, is it
+    possible to simply recognize metatypes of beings?
+    - can recognized metatype/types of reborn beings be recognized
+      with varying degrees
+
 <a name="semioteleological-revolution" />
 
 # [Semioteleological Revolution](#semioteleological-revolution)
@@ -955,8 +962,8 @@ programs in very much they same way that compiled bytecode does.
 
 #### Try Scrubbing Out The Index Finger, You Artgum-Happy, Penis-Censoring, [Bananaphobic](http://www.bbc.com/news/blogs-news-from-elsewhere-36226141) Communists
 
-> I'm LOL'ing so hard right now&nbsp;&nbsp;that I can't stop
-> p'ing. You can't win, communists. Your dialectic is just an
+> I'm LOL'ing so&nbsp;&nbsp;hard right now&nbsp;&nbsp;that I can't
+> stop p'ing. You can't win, communists. [Your dialectic]() is just an
 > comedically tragic ironic mess.
 
 ![E.T. Wants to Phone A Friend](/img/posts/2018-01-22-semioteleological-revolution/et-phone-home.jpg)

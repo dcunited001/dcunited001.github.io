@@ -62,10 +62,47 @@ allow="autoplay; encrypted-media" allowfullscreen></iframe>
     system, one can discretize the space of (theta[1] .. theta[n]) or
     the surface of the toroidally generated shape.
 
+- this distretized, symbolic enumeration of the (configuration space
+  of body positions), forms a graph structure, through which paths
+  emerge
+  - these paths are either time-based or sequential lists of movements
+    (indexed by n, their order in the move-sequence)
+    - regardless, these paths across the configuration-space graph
+      represented mini-routines, but are monadic in nature.
+    - further, they themselves form a higher-order graph of sequences
+      where each element in the sequence is an element in the
+      configuration space graph
+      - this is very similar to time-series on graphs (link article on
+        time-series on discrete networks)
+  - loops across this configuration-space graph are very interesting
+    - examples: cyclic tuts and their partially parameterized cyclic
+      tut counterparts (viz. keep some of the motifs of the tut cycle
+      in tact, but variate some other aspects of them.)
+    - regardless of how you think about dancing and pop-locking, at a
+      minimum, you must understand something that approximates these
+      methods and abstract models of movement to be sufficiently good
+      at tutting (and especially finger-tutting)
+      - that is, your metacognition must emulate something similar to
+        these processes in order to be like a dytto for finger tuts or
+        a B-Boy thesis for groundwork.
+      - however, your metacognition and cognition of these things is
+        probably more engrained into intuition, which actually makes
+        it that much more useful for your particular skillset, which
+        could be dancing, sports, martial arts, etc.
+        - conscious thought is slow, but you condition your
+          subconscious intuition through routines of mind and by
+          developing mental habits
+        - in other words, these people have very highly developed
+          minds and the potential to be highly intelligent, whether
+          they know it or not.
+  - paths through a network are most interesting when they have or
+    when they share higher-order features like cycles or path-types
+    - [^graph-based-time-series-analysis]
+    - pictures?
 
 
-- a primer on
-  [geometric mechanics](https://arxiv.org/pdf/1206.3302.pdf).
+- a primer on [geometric
+  mechanics](https://arxiv.org/pdf/1206.3302.pdf).
 - [configuration space of a double pendulum](http://www.nestedtori.com/2015/08/the-configuration-space-of-double.html)
 - [distributing points on a 2-sphere](http://www.nestedtori.com/2015/09/distributing-points-on-spheres-and.html)
 
@@ -344,3 +381,8 @@ allow="autoplay; encrypted-media" allowfullscreen></iframe>
 * how negatively-intended cognitive behavior therapy unnecessarily:
   burdens our society and benefits liberals who are using it for
   harassment and mind control.
+
+
+
+
+[^graph-based-time-series-analysis]: [Visibility Graph Based Time Series Analysis](https://doi.org/10.1371/journal.pone.0143015) Stephen Mutua, Gu C, Yang H, PLoS ONE10(11): e0143015 (2015)
