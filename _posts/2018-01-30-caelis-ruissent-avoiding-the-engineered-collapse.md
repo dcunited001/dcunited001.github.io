@@ -281,6 +281,8 @@ supplements and vitamins. Did you know that more than 2,000 genes
 cannot be activated without Vitamin D? No? Why are you talking to me
 about my health?
 
+![Ogallala Rivershed]()
+
 The food supply itself and the economic advantages we gain from wheat
 exports are both threatened by the looming spectre of a drought and a
 Second Dust Bowl. Why? The Ogallala Aquifer is drying up. One major
