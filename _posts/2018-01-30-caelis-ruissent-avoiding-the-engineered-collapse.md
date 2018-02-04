@@ -281,8 +281,6 @@ supplements and vitamins. Did you know that more than 2,000 genes
 cannot be activated without Vitamin D? No? Why are you talking to me
 about my health?
 
-![Ogallala Rivershed]()
-
 The food supply itself and the economic advantages we gain from wheat
 exports are both threatened by the looming spectre of a drought and a
 Second Dust Bowl. Why? The Ogallala Aquifer is drying up. One major
@@ -295,6 +293,19 @@ agriculture in America's breadbasket. Sound fun? NO! Right, water
 utilization levels exceed their replentishment rates. Those rates of
 replentishment are precisely determined by meltwater from the Rocky
 Mountains. No ice? No Glaciers? NO WATER.
+
+#### The Riversheds In America.
+
+> There's so much fascinating math possibile with the data the
+> generates this map. e.g. the average pollutants in a tributary
+> increase both with the travel time along tributaries and the areas
+> over which those tributaries' source waters are spread. So, in other
+> words, the waters about 100 miles above the Mississippi delta carry
+> the sum of all pollutant runoff from all of its tributaries. That
+> is, minus the amount absorbed back into the environment, a value
+> which decreases over time... M A T H, *math.*
+
+![Rivershed in America](/img/posts/2018-01-30-caelis-ruissent-avoiding-the-engineered-collapse/national-riversheds.jpg)
 
 This is why, when I pronounced the quasi-quasi-joke-religion that I
 started, I declared that the transplanar entity [Cxor Apache
