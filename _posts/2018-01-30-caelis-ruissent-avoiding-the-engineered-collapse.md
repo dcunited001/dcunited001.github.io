@@ -131,8 +131,8 @@ The title above is about the fanciest way of saying: we're all on the
 tracks about to get hit by a train and no one is worried about how
 we're going to get out of the car. That's the gist of this article.
 There's some things coming. There are clearly people who are concerned
-about those problems, but there are only a handful of people concerned
-about them all as they impact each other.
+about those problems individually, but there are only a handful of
+people concerned about them all as they impact each other.
 
 > Please do remember that, if you can't be bothered to explain
 > something in 200 words or less using only the 1,000 most frequent
@@ -142,8 +142,8 @@ about them all as they impact each other.
 > and ask some MF questions. Don't ask me. Ask your "leaders."
 
 None of these are happening tomorrow, by the way. Calm TF down. The
-economy is not going to crash. It's only going to crash if we DON'T
-deal with these problems. Quite literally, if we fail to control the
+economy is not going to crash. It's only going to crash *if we do not
+deal with these problems.* Quite literally, if we fail to control the
 transition from here, where the sky hasn't quite fallen, to there,
 where the sky is and has fallen -- only then does America actually
 have problems.
@@ -178,11 +178,12 @@ Novel imaging technology -- like MAS, SPECT, PET, and others --
 creates the possibilities of neurological forensics and stastical
 methods which prove the true cause of mental illness as well as the
 existence of top-secret neurological intervention. The problem? If
-random people naturally discover either of these, there are some
-really awkward questions that must be answered. Ain't no cigar smoking
-dude out there planning on answering those questions. Get real.
+academics randomly and naturally discover either of these, there are
+some really awkward questions that must be answered. Ain't no cigar
+smoking dude out there planning on answering those questions. Get
+real.
 
-Furthermore, predictive medicine, including knowledge about gene
+Furthermore, *predictive medicine*, including knowledge about gene
 networks, will demonstrate trillions in damage from presrcription
 medication, industrial chemicals, household chemicals and food
 additives. What's made this so hard to study thus far? Many of these
@@ -201,11 +202,12 @@ science, predictive medicine and novel imaging methods. What would you
 do in their shoes? To be sure, it's not really their fault -- **for
 most of these problems, they are not proveably legally liable** -- but
 they're the ones selling products that everyone knows make people
-sick. Suddenly, this is revealed simultaneoulsy, within the span of
-ten years in an irrefutable way. If not handled properly, it will have
-catastrophic consequences on the American economy. As of now, it's not
-being handled properly because people still act like it couldn't be
-possible.
+sick. Suddenly, this is revealed -- all within the span of ten years,
+essentially simultaneously and in an irrefutable way. If not handled
+properly, it will have catastrophic consequences on the American
+economy. As of now, it's not being handled properly because people
+still act like it couldn't be possible. Most of them simply do not
+know.
 
 So, what's the plan? When are you going to hear about it on "Morning
 Joe" -- you're not. Journalism? No offense, Joe, it doesn't exist
@@ -217,6 +219,8 @@ levels of liability imply socioeconomic churn on a scale never before
 seen. This simply means money, assets and businesses will change hands
 from those who have profited thus far into the hands of those who will
 begin to profit from the solutions.
+
+#### The Answer Is To Posture Ourselves Properly
 
 Against our corporate leaders' instincts to protect their maximal
 financial interests, they must posture themselves against what will be
@@ -238,24 +242,39 @@ these chickens come home to roost.
 ### &#8968;ii&#8969; [Cost of Medical Care and UBI, Along With A Failing Food Supply](#cost-of-medical-care-and-ubi)
 
 This leaves America in a pretty tough spot because medical technology
-is kind of our bread and butter. It's a major export and we protect it
-through intellectual property. That's why our prices have always been
-so high at home: we control the intellectual property. If we don't pay
-an arm and leg for it here, who will? On the surface, this seems
-wrong, especially to those who are dying from lack of medical
-care. However, this is a major pillar of the American economy. Ever
-wonder why it's so hard to get universal health care in America? THIS
-is why. Take this away and you essentially declaw the american
-economy.
+is kind of our bread and butter. We protect it through intellectual
+property. It's a major export, though perhaps it doesn't appear that
+way per se. Our prices have always been so high at home because we
+control the intellectual property. If we don't pay an arm and leg for
+it here, who will? On the surface, this seems wrong, especially to
+those who are dying from lack of medical care. However, this is a
+major pillar of the American economy. Ever wonder why it's so hard to
+get universal health care in America? THIS is why. Take this away and
+you essentially declaw the american economy.
 
-This brings me to my next point: if we can't profit from health care,
-how do we cover the cost of health care? Especially after our people
-have been subjected to these levels of toxicity, which promote chronic
-disease? This is why we must turn this ship around. What we've been
-doing is not economically sustainable. If you don't understand the
-question, it doesn't matter how you *feel* about the potential
-solutions. If you don't understand that question, it means you don't
-understand where government revenues come from.
+> if we can't profit from health care, how do we cover the cost of
+> health care?
+
+Especially after our people have been subjected to these levels of
+toxicity, which promote chronic disease?  The toxicity in our cities
+includes that in the food, in *some incidental, cumulative exposure*
+to household chemicals and in the way we neglect each other's humanity
+via *psychological warfare*.  This is why we must turn this ship
+around. What we've been doing is not economically sustainable. If you
+don't understand the question, it doesn't matter how you *feel* about
+the potential solutions. If you don't understand that question above,
+it means you don't understand where government revenues come from. If
+we declaw the American economy while force us to subsidize the costs
+of Universal healthcare while enforcing sequestration, we merely
+enable [Khrushchev's
+wetdream](www.library.arizona.edu/exhibits/udall/khrushch_htm.html):
+
+#### A Disputed Quote Nikita Khrushchev, Which Is True Regardless of Whether He Said It
+
+> "We cannot expect the Americans to jump from capitalism to
+> Communism, but we can assist their elected leaders in giving
+> Americans small doses of socialism, until they suddenly awake to
+> find they have Communism."
 
 I want a happy, healthy population, free from the fiscal and emotional
 costs of disease. How do you get there? By turning around the
@@ -266,20 +285,24 @@ disease, you cannot sustainably finance Obama's health care plans. It
 infuriates me that the Republicans are trying to undo this. Truly, you
 are shifting the burden of longterm healthcare costs from the
 government *back to the people*. What we truly need is for healthcare
-prices and expenditures to come down! Regardless of how pays for them,
-that is critical! Someone has to pay for it.
+prices and expenditures to come down! Regardless of who pays for them,
+that is critical! Someone has to pay for it. If the cost structures
+and prices are too high, it doesn't matter who that is, it will
+bankrupt our nation and every single one of our enemies knows that
+health care is a severe economic weakness.
 
 Further exacerbation of medical problems can be seen in the American
 food supply. Here's a challenge to put the food supply problems in
 perspective: go to any grocery store in American with a single mineral
 in mind, besides sodium or calcium. It could be iron, zinc, or
-magnesium, which is critical for mental health. I want you to fill up
-a single grocery cart with the food that it would take in a single day
-to get that mineral's recommended daily intake. It's impossible. You
-can't, without cheating using artificial formulations like Soilent,
-supplements and vitamins. Did you know that more than 2,000 genes
-cannot be activated without Vitamin D? No? Why are you talking to me
-about my health?
+magnesium -- the last of which critical for mental health and
+impossible to find in any significant quatities. The challenge: I want
+you to fill up a single grocery cart with the food that it would take
+in a single day to get that mineral's recommended daily intake. It's
+impossible. You can't, without cheating using artificial formulations
+like Soilent, supplements and vitamins. Did you know that more than
+2,000 genes cannot be activated without Vitamin D? No? Why are you
+talking to me about my health?
 
 The food supply itself and the economic advantages we gain from wheat
 exports are both threatened by the looming spectre of a drought and a
