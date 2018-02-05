@@ -452,16 +452,19 @@ it doesn't know to make strategic decisions moving forward with that
 possibility in mind. In such a global-EMP or global-cyber digital
 deluge scenario, the past generation would have left almost no traces
 of itself behind, specifically because it's communicating primarily
-through digital means and the majority artifacts of culture are
-digital. In this regard, all but a handful of people in industrialized
-nations are ignorant to the potential consequences. In the wake of
-such a catastrophe, he void of information from this generation allow
-someone to completely rewrite this period of history, if we're not
-careful.
+through digital means and the majority of artifacts of cultural
+interaction are digital and intangible. In this regard, all but a
+handful of people in industrialized nations are ignorant to the
+potential consequences. In the wake of such a catastrophe, he void of
+information from this generation allow someone to completely rewrite
+this period of history, if we're not careful.
 
-Also remember: the CD's that were not effectively shielded from beta
+Also remember: CD's that are not effectively shielded from beta
 particles are also themselves annhilated. Ever put a CD in a microwave
-for 5 seconds? It's TOAST! Why? *BETA PARTICLES*. They are literally
+for 5 seconds? It's TOAST! Why? *BETA PARTICLES*. Beta particles are
+essentially flying electrons that activate random circuit pathways,
+which burns out any electronics: the smaller the circuits, the more
+impact that beta particles have, proportionally. They are literally
 what cooks your food in the microwave. Almost nothing above water or
 above several meters deep remains. Some good news: this could almost
 certainly never occur globally.
@@ -633,7 +636,7 @@ understanding they were warcrimes, then they can continue to be goaded
 along to cover them up. When enough people become complicit in these
 crimes, the whole thing drives itself along. This is one of the most
 critical reasonings by making the penalties and prosecutions for
-warcrimes are so secretive and severe!
+warcrimes so secretive and severe!
 
 In America, what I suspect is that many of these crimes have no
 record. Proving your actions may involve darkweb transactions. It
@@ -647,8 +650,8 @@ the start?
 An action can never be considered ethical if the actor avoids
 awareness of the consequences or if they just aren't capable of
 understanding how their actions effect their world. Truly, total
-knowledge of consequences is impossible, however -- ideal philosophy
-aside -- people who seek to avoid knowledge or understanding of their
+knowledge of consequences is impossible. Idealistic philosophy aside
+-- people who seek to avoid knowledge or understanding of their
 actions can never be considered to have acted ethically. With this in
 mind, in order to pursue ethical action, you can only work with strong
 connections whom you trust. Otherwise, you're simply a pawn. A pawn
@@ -660,8 +663,8 @@ because they're democracies that facilitate free exchange of
 information. An all-too-specific specific example of the ironic
 consequences of the idealistic pursuit of free speech.
 
-However, if these records exist, they implies incentivization for the
-unforeseen destruction of data. Depending on how widespread it is,
+However, if these records exist, then it implies incentivization for
+the unforeseen destruction of data. Depending on how widespread it is,
 this may be either targeted deletion, physical destruction of
 information storage devices or total systemic disruption. Furthermore,
 what if every person you've ever lied to in digital communications one
@@ -688,8 +691,8 @@ However painful, we need to deal with the sins of the modern era,
 otherwise we will allow the worst of us to dominate humanity for
 eternity within a false paradigm.
 
-*IT IS URGENT FOR US TO CONSIDER NOW, REGARDLESS OF THE COST!* We will
-never have the chance to do so if we do not!
+*It is urgent for us to consider this now, regardless of the cost!* We
+will never have the chance to do so if we do not!
 
 <a name="nationality-law-begs-some-important-questions" />
 
