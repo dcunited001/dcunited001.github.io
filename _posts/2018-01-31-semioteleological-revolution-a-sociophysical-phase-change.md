@@ -59,7 +59,7 @@ excerpt: ""
 
 
 
-## [Semioteleological Revolution](#semioteleological-revolution)
+# [A Neo-Symbolist Semioteleological Revolution](#a-neo-symbolist-semioteleological-revolution)
 
 #### [E.T. Wins The Semiotic Zipf's Distribution *And A Brand New iPhone!*](#et-wins-the-antrophosemiotic-zipfs-distribution-and-a-brand-new-iphone)
 
@@ -69,6 +69,7 @@ excerpt: ""
 
 #### [So That's The Problem. What's The Solution?](#so-thats-the-problem-whats-the-solution)
 
+## [GOTO: 7H43ND0](#goto-tha-end)
 
 <a name="illuminati-the-anti-santa" />
 
@@ -221,11 +222,24 @@ mechanisms for ensuring the properly networked architecture of
 society, all decentralized and autonomous. It is outlined similarly to
 the sheaf and the reaper, the merchant of souls.
 
-So, they cannot recognize him, but because they seek to so tightly
+> Below is the
+> [symbolist](https://en.wikipedia.org/wiki/Symbolism_(arts)) painting
+> La mort et le fossoyeur. The incredibly powerful controlled the
+> evolution of art through the 19th century.  Read [Metamodernism and
+> Retromodernism: Wellsprings of Art and
+> Culture](http://te.xel.io/posts/2016-10-23-metamodernism-and-retromodernism-wellsprings-of-art-and-culture.html)
+> on why it has always been so critical for these people to control
+> the evolution of art and culture.
+
+#### The Illuminati Is Speculated By Some to Have Three *Branches*
+
+![La Mort et Le Fossoyeur](/img/posts/2018-01-22-semioteleological-revolution/la-mort-et-le-fossoyeur.jpg)
+
+So, they cannot recognize Pindar, but because they seek to so tightly
 control the prevaling narratives, myths and especially history, they
 hate this person. He is the blinding one who tells stories they cannot
-understand or writes truths which cannot so easily be perceived. Those
-stories slip through their minds' grasp; he is the one who slips
+understand and writes truths which cannot so easily be perceived.
+Those stories slip through their minds' grasp; he is the one who slips
 through their cracks, all the while blinding everyone around him. They
 hate him, but they need him because he can see what they cannot -- yet
 a person like this can never be given power in their understanding of
@@ -479,6 +493,8 @@ have acceped the one who did pull the sword. Therefore, if not enough
 time has passed, then solving the King's selection game is
 meaningless.
 
+
+
 <a name="social-physics-its-the-secret-sauce-of-legends" />
 
 ### [Social Physics: It's the Secret Sauce of Legends](#social-physics-its-the-secret-sauce-of-legends)
@@ -493,12 +509,13 @@ those phenomenon, then the person who understands intuitively
 understands thermodynamics can develop a powerful understanding of
 social physics.
 
-- If also you believe, as I do, that people intuitively understood
-  many of the secrets of math behind science far earlier than
-  relevated by the prophets of rationalism, then men may have
-  intuitively understood quantum field theory before they had any
-  reason to smash atoms together.
-
+Further, if also you believe, as I do, that people intuitively
+understood many of the secrets of math behind science far earlier than
+relevated by the prophets of rationalism, then men may have
+intuitively understood statistical mechanics, entropy, thermodynamics,
+quantum field theory before they had any reason to smash atoms
+together. That is, at least those concepts apply to social physics at
+the 10,000ft level.
 
 #### [Quantum Field Theory](https://www.youtube.com/watch?v=4u3f7_p1i8c) and [the Upanishads](https://www.youtube.com/watch?v=7Brv2FaOluU)
 
@@ -509,7 +526,38 @@ allow="autoplay; encrypted-media" allowfullscreen></iframe>
 There is far too much baseless conjecture in the explanations above
 for any of it to be taken as fact. Still, if you avoid thinking about
 any of this on the basis that it's not factual, you're missing the
-point. It's the journey, not the destination.
+point. It's the journey, not the destination. However, the critical
+point is that mathematic models behind social physics are all
+algorithms based on generalized methods for quantum physics. Ancient
+people could not run these algorithms. Instead, they could only
+develop an intuition for the same methods without understanding the
+underlying math, *per se*. Furthermore, this knowledge was always
+esoteric and as prized as the story behind the mythical [Egyptian
+Emerald Tablets] implies.
+
+![Egyptian Emerald Tablets]()
+
+- TODO: cite paper from arXiv
+
+Without being able to quantify any data, it seems that men were better
+at constructing event-driven sociophysical handlers, not unlike the
+user-interface handlers `onClick()` and `onDocumentReady()` in
+javascript. Particularly, this ability to imagine and design
+pseudo-quantifiable sociophysical protocols seems to be the skill that
+distinguished the transgenerational leaders of empires from the
+leaders of minor powers quickly subdued by their neighbors. You *can*
+quantify the number of types of extremely rare events that occur,
+though in the extreme, this resembles soothsaying and quickly becomes
+meaningless. Being capable of measuring anything like this requires
+particularly stable myth as well as extensive, dependable
+communication networks, who are able to process this data and relay
+important events, without necessarily knowing why.
+
+- disrupting these decision-making capability of these power
+  structures by disrupting their communication networks and
+  introducing novel information and cultural
+  practices. (i.e. Christianity to paganism)
+  - this is not an endorsement of this tactic.
 
   - It would seem that all of the factors above imply the existence of
     a real historical Merlin. This historical Merlin may have
@@ -520,9 +568,6 @@ point. It's the journey, not the destination.
     jewel: Britain. Why were the Britain isles so important? Like
     Japan in the East, there was no way to conquer them without
     maritime invasion.
-
-- There was one problem though: that swords not going to be very
-  sharp: you're going to need to visit the lady in the lake
 
 ### The Search for the Holy Grail
 
@@ -778,7 +823,6 @@ anyone ever "discovered" him.
 
 ![Genius of Victory](/img/posts/2018-01-22-semioteleological-revolution/)
 
-
 ### This Starving Philosopher's Work Still Hasn't Been *UN*-COVERED
 
 #### *And "They" Are Working Tirelessly To Keep It That Way!*
@@ -949,9 +993,9 @@ society).
     - can recognized metatype/types of reborn beings be recognized
       with varying degrees
 
-<a name="semioteleological-revolution" />
+<a name="a-neo-symbolist-semioteleological-revolution" />
 
-# [Semioteleological Revolution](#semioteleological-revolution)
+# [A Neo-Symbolist Semioteleological Revolution](#a-neo-symbolist-semioteleological-revolution)
 
 The semioteleological roots are drying out. These "roots" refer to the
 stories which power our understanding of the world by implanting

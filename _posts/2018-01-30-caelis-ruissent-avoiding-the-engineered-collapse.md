@@ -2350,8 +2350,9 @@ opens up the opportunity for something to fill the void.
 #### The Epic of Gilgamesh Rapidly Filled The Preliterary Sociocultural Void, Establishing The Paradigm of Mythos Everafter
 
 > I often wonder if the Sumerians realized the power they were
-> wielding when the pieces of that story were being brought
-> together (...)
+> wielding when the pieces of that story were being brought together
+> to be crafted into the prototypical wellspring myth, whence all
+> subsequent postliterary mythos would owe incalculable debt.
 
 ![Gilgamesh's Armory of Culture](/img/posts/2018-01-30-caelis-ruissent-avoiding-the-engineered-collapse/gilgamesh-culture.jpg)
 
