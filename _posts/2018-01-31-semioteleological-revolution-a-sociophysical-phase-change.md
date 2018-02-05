@@ -8,7 +8,6 @@ author:
 excerpt: ""
 ---
 
-
 - TODO: DG Sever Rime
 
 - [Useful Idiot](https://en.wikipedia.org/wiki/Useful_idiot)
@@ -689,13 +688,117 @@ important events, without necessarily knowing why.
     Japan in the East, there was no way to conquer them without
     maritime invasion.
 
-### The Search for the Holy Grail
+
+# [Black Sabbath]()
+
+- this is the dark side of understanding life through the lens of
+  social physics. it is why
 
 
-- The adventure gives you the strength, merit and wisdom.
+- this "Black Sabbath" is no different than feeding babies to Moloch.
 
-- my personal interpretations of this myth
 
+
+### [A Witches Brew of Transgenerational Sociophysical Churn]()
+
+
+
+  - this is all a dark ritual where people's sociophysical potential
+    energy is harvested through their ignorance, their obedience,
+    their constraint to sin and their will to use others for their
+    gain. Then, the naked truth of these horrors serves to shock the
+    world into rationalization or suppression of that truth.
+
+  - Why do these dark, Ouroborosian rituals persist from culture to
+    culture? The tragic, heart-wrenching truth is that these processes
+    do generate power via systematic karmic obfuscation. I literally
+    want to burst into tears writing this. It is evil so dark, you
+    hope that your children and their children never learn about it,
+    even if their own lives are torn apart to be fed to this Beast
+    that re-emerges whenever power magnifies itself.
+
+
+#### Allen Ginsberg, Howl -- Moloch Isn't Exactly Mr. Rogers
+
+<iframe width="560" height="315"
+src="https://www.youtube.com/embed/WkNp56UZax4" frameborder="0"
+allow="autoplay; encrypted-media" allowfullscreen></iframe>
+
+  - These kinds of higher-order rituals metamorphisize from form to
+    form in various societies, but many societies were notorious in
+    the way they used people. For example, the early Akkadians are
+    some of the most notoriously cruel. The term sardonic derives from
+    an Akkadian emperor. Why were the early Akkadians so cruel? IMO,
+    it is because they were the second great mesopotamian empire: they
+    learned their cruelty from that of the Sumerian Empire, but they
+    had not yet learned why you restrain such cruelty. That was how
+    they understood power.
+    - the Babylonians seem to have excelled at it.
+    - by 15th century France, this process was well-codified enough to
+
+#### How Continental Philosophers View Hegel
+
+![how continental philosophers view Hegel]()
+
+- are any ideas new? Truly Novel?
+
+
+### [Description Et Figure Du Sabbat Sociers]()
+
+
+
+#### The 15th Century French Etching, Description Et Figure Du Sabbat Sociers
+
+![Description Et Figure Du Sabbat Sociers]()
+
+- requires knowledge of
+
+
+- is the roanoke college lecture online?
+
+#### (A) forbidden love and unknown husbandry
+
+- relevant to the section on "Splicing Families"
+
+#### (B&C) innocent or guilty, a new life is born
+
+
+
+#### (D) The young are indoctrinated in the "right" ways of society
+
+- everyone is born as tabula rasa, but those who rais them may or may
+  not have a clean slate
+
+#### (E&F) one without a demonstrable causal connection tempts the innocents vulnerable to subversion, who is led astray and indoctrinated in sin
+
+
+#### (G) Across the way (again, without provable causal connection), the innocent begins playing music, projecting song/signal through community
+
+#### (H) This eventually draws unwarranted attention, which drives a group to ostracization and destitution...
+
+#### (I) this yields #Damnation or an alchemical #Sacrifice, where the formerly innocent is used as an example to the rest of the community
+
+#### (I) the motherly types fuel the cauldron fire by pouring their energy into its flame.
+
+
+#### (K) disembodied spirits (thetans or sociophysical information lifeforms) carry signal to the early indoctrination process in many ways
+
+
+#### (L) this alchemical #Sacrifice without causal connection fuels the groupthink and mob mentality. the powerful command ostracization
+
+
+#### (M) hunting & fishing these people out of life is condoned by using these people as food in an Ouroborosian way. the weak feed on lost souls
+
+
+
+- picture of Caster from fate zero, just before his defeat at the
+  hands of Saber
+
+
+
+
+
+=======
 
 - Mention Aika-chan?
 - why does this have to focus on the Rothschilds? it's really not
