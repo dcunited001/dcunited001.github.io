@@ -11,6 +11,8 @@ excerpt: ""
 
 - TODO: DG Sever Rime
 
+- [Useful Idiot](https://en.wikipedia.org/wiki/Useful_idiot)
+
 ![DG Sever Rime](/img/posts/2018-01-22-semioteleological-revolution/dg-sever-rime.jpg)
 
 
@@ -181,6 +183,124 @@ determines the course of all phenomena through fate.
 ![Saw](/img/posts/2018-01-22-semioteleological-revolution/saw-meme.jpg)
 
 #### .... Safe Spaces, Am I Right? Who TF Invited That Saw Guy Anyways?
+
+
+- what is sociometaphysical churn and is this the proper term?
+  - sociophysical flux/churn could be defined as changes in how
+    groups/regions of people understand the world through belief
+    systems and epistemological structures.
+  - (1) churn of social consequences mainly resulting from how
+    epistemological structures are rooted in either the idealistic or
+    ideal conceptions of the metaphsyical
+  - (2) and in how whether the knowledge structures are primarily
+    constructed from additive logic ("pure rationalism"), subtractive
+    logic ("i only know for sure the set of things that is
+    impossible") or a combination of both
+    - how to methodologically combine both additive/subtractive
+      epistemological structures to congeal information using
+      statistical methods (analysis of information graphs and
+      information networks)
+      - this process allows you to cyclically reiterate the
+        information/knowledge graph where you use
+        additive/subtractive/consensus methods, augmented by
+        statistical analysis of the network, to expand the graph and
+        determine your level of confidence of information
+      - using this idea as the basis of an algorithm that optimally(?)
+        expands the information/knowledge graph by directing the
+        computation energy & time or by directing the acquisition of
+        knowledge
+
+- sociometaphysical churn:
+  - how people's conceptions of society reinforce or diffuse the
+    "clarity" of potential futures
+    - so, with idealistic conceptions of metaphysics, the
+      metatypological components of possible futures congeal into a
+      set of more clearly defined, convergent possible futures.
+      - because these possible futures have converged into a
+        profoundly smaller set of possibilities, it becomes much
+        easier to extrapolate and understand the paths foward from the
+        present into the future.
+    - people who have a materialistic conception of metaphysics tend
+      to ignore many of the components of the future which are assumed
+      to be exigent, pre-ordained or necessary.
+      - instead, they focus on the divergent paths forward, only
+        accepting what is in front of them. they focus on the power of
+        choice that they have to change their lives. (ignorance is
+        bliss)
+      - individuals determine their own fates based on what each
+        individual believes about the world, therefore which
+        conception of metaphysics they choose, if any, to base their
+        worldview upon dictates how they view their own reality and
+        the range of what is possible.
+        - each individual's understanding of how free will might
+          affect their life depends on whether the paths available in
+          their worldview are primarily convergent via idealistic
+          metaphysics or divergent via materialistic metaphysics
+      - when you zoom out to greater sociological scales, (this
+        phenomonon) determines how groups of people view the range of
+        paths available and whether they are free from the chains of
+        fate.
+    - for better or worse, people who accept their fate can be trapped
+      within a idealistic reality that is detached from their
+      individual capacity.
+      - when groups of people believe that their fates are sealed,
+        each individual is much less likely to act against authority
+        for their own benefit or to join a group of people.
+        - (video of that one girl dancing at a festival, and suddenly
+          many people start dancing)
+      - when groups of people believe the idea that their fates might
+        be sealed is ludicrous, they will never simply fall in
+        line. they will always struggle forwards and work hard to
+        change their circumstances because they believe that their own
+        actions matter.
+        - this descends from the belief that their world is defined
+          from what they make it, instead of being defined by a
+          restricted set of convergent paths leading toward potential
+          futures.
+  - there is social flux and churn to this "sociometaphysical"
+    phenomenon. every region, group of people and individual is unique
+    in how they view the world. there is always change to how people
+    see the world and in the types of lenses through which they know
+    to see the world
+    - this social flux/churn was seen in the 20th century, from the
+      buildup to WW2 and throughout the Cold War. Marxist ideology
+      needs [people to believe in] the materialistic conception to
+      disrupt old ideologies and to cause the potential for a
+      "universal" worldview to emerge: on ostensibly based on science.
+      - Communists promise a utopia free of economics where a dominant
+        worldview based only on rationalism and science stamps
+        everything out.
+      - in practice, the worldview that the Party promotes is poisoned
+        by Marxism's own flaws, its need to rewrite history, its need
+        to use STEM as mechanisms of control, and its need to control
+        "truth" to advance its agenda.
+    - this social flux/churn also resulted from the explosion of
+      rationalism and science: people who understand the world through
+      the lens of science are usually in the materialistic camp.
+      - people have been arguing about this for millenia, but (science
+        drove this viewpoint forward)
+
+  - this "sociometaphysical" flux/churn results in expansions and
+    contractions in the sociophysical possibility space, as it appears
+    to individuals of all classes and creeds.
+    - how you view the world defines how you see the range of options
+      for action in the world.
+    - when everyone believes the (same thing), this enables people in
+      power. when people's belief systems are unpredictable and
+      typologically incoherent, this results in informational spectral
+      discord:
+      - power structures are likely to change,
+      - people in power make mistakes as previously held assumptions
+        no longer hold true
+      - but most critically: people are much less predictable
+
+
+- the social/individual components of an individual's
+  belief/knowledge/information system
+  - religion is a social belief system, but it is acquired gradually
+
+
+
 
 <a name="who-are-the-illuminati-and-why-are-they-such-assholes-anyways" />
 
