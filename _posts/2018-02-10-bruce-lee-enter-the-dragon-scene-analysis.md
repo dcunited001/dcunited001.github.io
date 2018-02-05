@@ -13,7 +13,15 @@ excerpt: ""
 src="https://www.youtube.com/embed/WoMVfvS8rSo" frameborder="0"
 allow="autoplay; encrypted-media" allowfullscreen></iframe>
 
-- TODO: split the rest into a
+- note that this is an analysis of the final(?) fight scene in Enter
+  the Dragon, but that only the titles of each section should be
+  considered to be relevent. much of the other analysis is derivative
+  from the titles themselves as each section relates to conflict and
+  war, instead of being an analysis of the scene.
+
+
+- "world breaker" - XMEN Legion
+
 
 # Fighting with shadows
 
@@ -87,6 +95,14 @@ allow="autoplay; encrypted-media" allowfullscreen></iframe>
   scene is full of symbolism.
 
 #### bait them into breaking their precious things
+
+- like their stilted precious lies they've worked so hard to protect,
+  maintain and perpetuate. they will defend these to the end -- if
+  they intend to. but they may allow themselves to be mistaken into a
+  conflict where they plan on getting you to attack these things,
+  instead being drawn into a conflict over the very validity of these
+  things.
+
 
 #### grab their eyes with your fearless gaze & never let go
 

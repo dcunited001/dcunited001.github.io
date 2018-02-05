@@ -246,3 +246,87 @@ on transitions & filling policy positions:
 
 
 - "labor is about peace and prosperity"
+
+
+
+========
+
+
+I'm mostly saving this content bc it's my responses to how democrats
+might respond to my own arguments. so i want to be able to connect
+with them in a way that responds to the actual domestic/foreign policy
+concerns they have.
+
+from my discussion with Nathan on this [facebook
+post](https://www.facebook.com/dconner.pro/posts/10204286769886056)
+
+> “Human beings are naturally social creatures. We live in close
+> proximity to other humans in order to receive a degree of protection
+> from nature, and other humans who would do us harm."
+
+this is why the intentional sociophysical isolation of political
+dissidents with fictitious mental illness is sickening. it appears
+obama began to blend national security, preventative mental health and
+health “care” to suppress dissidents.
+
+> “According to John Locke’s Social Contract Theory…”
+
+yes i agree with this paragraph, however, it still doesn’t explain why
+both the left and the right have been raping the american public
+without explanation via surveillance and the “national security”
+apparatus for the better part of two decades.
+
+i’m smart enough to fear the poor. they always have the upper hand
+when it comes to numbers. that’s been true since the dawn of human
+civilization.
+
+> “I don’t want to reduce everyone to being dependent on government
+> for everything.”
+
+this is how i understand the intent behind your political
+sentiments. however, i don’t think you understand what has happened to
+my life and many others just like me over the past ten years.
+
+> “Where it is reasonable, efforts should be made to make public
+> transportation, and socialization opportunities available for
+> everyone.”
+
+yes, especially to the last one. people should NOT be sociophysically
+isolated. it makes almost every conceivable psychological,
+sociological or financial problem orders of magnitude worse than it
+needs to b.
+
+> “But I still maintain that everyone does not have equal
+> opportunities.”
+
+I agree, but this means we need to be careful about how we look at
+statistics, especially statistics with ethnicity involved. for
+example, when looking at statistics for poverty or arrests, the
+long-term trends should be taken into account: is the long-term trend
+moving towards actual equality at an acceptable rate? this is what
+should be happening. if it’s not, then the interpersonal relationships
+of those communitis may need to be assessed to gain more insight into
+why it’s not happening. while the statistics in Ferguson were
+atrocious, i feel like people are jumping to rash conclusions in other
+circumstances/
+
+> “But other sustainable pathways out of poverty need to be available
+> for people of every ability level.”
+
+the fundamental problem is not whether this is right or wrong, but
+whether the solutions are economically sustainable. tragically, i do
+not think that there are any sustainable economic solutions to poverty
+because of technology. so, while technology will improve the lives of
+the poor, automation will disrupt society and people will become
+dependent on government assistance, which is NOT economically
+sustainable because it’s derived from taxes revenues. those tax
+revenues only exist in high volume where you have profitable
+industry. UBI will inevitably cause leaders on the left AND the right
+to begin to view the human life with contempt. as this happens, the
+common person will also become contemptuous of their life’s value,
+cynical of their surroundings, depressed at the rampant nihilism that
+completely disregards their circumstance and eventually hopeless.
+
+your statements are sensible, assuming that life and the economy
+will continue to unfold as it has in the 2010’s. unfortunately, i do
+not believe that it will, but i’m overly cynical and pessimistic.
