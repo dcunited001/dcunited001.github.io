@@ -689,40 +689,78 @@ important events, without necessarily knowing why.
     maritime invasion.
 
 
-# [Black Sabbath]()
+<a name="black-sabbath-not-your-average-rock-band" />
 
-- this is the dark side of understanding life through the lens of
-  social physics. it is why
+# [Black Sabbath: Not Your Average Rock Band](#black-sabbath-not-your-average-rock-band)
 
+There is a dark side of understanding life through the lens of social
+physics. It is one reason why this "How Hegel Is Perceived" meme is
+hilarious, albeit a little sad in contect of an extended extrapolation
+of Hegel's philosophy.
 
-- this "Black Sabbath" is no different than feeding babies to Moloch.
+#### How Continental Philosophers View Hegel
 
+No, Hegel was not a Black Sabbath fan, nor would you find any Ozzie
+references in Hegel's work. It's a philosophy
+joke.[^didnt-get-the-joke]
 
+![How Continental Philosophers View Hegel](/img/posts/2018-01-22-semioteleological-revolution/hegel-hungry.jpg)
 
-### [A Witches Brew of Transgenerational Sociophysical Churn]()
+- are any ideas new? Truly Novel?
 
+If the Illuminati's bread and butter is controlling your mind by
+limiting the prevelance of ideas and control, then the Black Sabbath
+in its various forms is essentially Illuminati caviar. What do little
+baby Illuminati fish eggs taste like? They don't exactly talk about
+it, but I've heard they taste something like a cross between peeps and
+free-range Cadbury creme eggs.
 
+This "Black Sabbath" is no different than feeding babies to Moloch.
+Yes, the very same Moloch in the Allen Ginsburg poem, Howl. The
+Babylonians seem to have excelled so much at this that everyone still
+half-assedly worships their bull-god, Moloch, who is a staple guest at
+every baby-sacrificing event. Purely metaphor, of course...
 
-  - this is all a dark ritual where people's sociophysical potential
-    energy is harvested through their ignorance, their obedience,
-    their constraint to sin and their will to use others for their
-    gain. Then, the naked truth of these horrors serves to shock the
-    world into rationalization or suppression of that truth.
-
-  - Why do these dark, Ouroborosian rituals persist from culture to
-    culture? The tragic, heart-wrenching truth is that these processes
-    do generate power via systematic karmic obfuscation. I literally
-    want to burst into tears writing this. It is evil so dark, you
-    hope that your children and their children never learn about it,
-    even if their own lives are torn apart to be fed to this Beast
-    that re-emerges whenever power magnifies itself.
-
-
-#### Allen Ginsberg, Howl -- Moloch Isn't Exactly Mr. Rogers
+#### Moloch: He's Not Exactly Mr. Rogers, But He Is Hungry
 
 <iframe width="560" height="315"
 src="https://www.youtube.com/embed/WkNp56UZax4" frameborder="0"
 allow="autoplay; encrypted-media" allowfullscreen></iframe>
+
+
+
+<a name="a-witches-brew-of-transgenerational-sociophysical-churn" />
+
+### [A Witches Brew of Transgenerational Sociophysical Churn](#a-witches-brew-of-transgenerational-sociophysical-churn)
+
+
+
+- this is all a dark ritual where people's sociophysical potential
+  energy is harvested through their ignorance, their obedience, their
+  constraint to sin and their will to use others for their gain. Then,
+  the naked truth of these horrors serves to shock the world into
+  rationalization or suppression of that truth.
+
+  - critical to these ad hoc, power magnification rituals is the
+    transgenerational piece: by the time Anti-Santa Moloch's coming
+    through town again to eat your babies like a drunk Krampus on
+    fire, everyone seems to have forgotten about the last time Moloch
+    came to town. No, sadly, Rudolph ... didn't make it.
+
+  - Why do these dark, Ouroborosian rituals persist from culture to
+    culture? The tragic, heart-wrenching truth is that these processes
+    do generate power via systematic karmic obfuscation. As starkly as
+    it contrasts my sardonic humor above, I literally want to burst
+    into tears writing this. It is evil so dark, you hope that your
+    children and their children never learn about it, even if their
+    own lives are torn apart to be fed to this Beast that re-emerges
+    whenever power magnifies itself.
+
+> Thank God I haven't lost my sense of humor trying to drag this
+> darkness down to Hell with me. If you're cut off from society and
+> you can't laugh, you've lost. Laugh and save yourself. They'll call
+> you crazy, but did they ever care? Many of those same people are
+> knowingly driving these dynamics.
 
   - These kinds of higher-order rituals metamorphisize from form to
     form in various societies, but many societies were notorious in
@@ -733,15 +771,7 @@ allow="autoplay; encrypted-media" allowfullscreen></iframe>
     learned their cruelty from that of the Sumerian Empire, but they
     had not yet learned why you restrain such cruelty. That was how
     they understood power.
-    - the Babylonians seem to have excelled at it.
     - by 15th century France, this process was well-codified enough to
-
-#### How Continental Philosophers View Hegel
-
-![how continental philosophers view Hegel]()
-
-- are any ideas new? Truly Novel?
-
 
 ### [Description Et Figure Du Sabbat Sociers]()
 
@@ -749,10 +779,9 @@ allow="autoplay; encrypted-media" allowfullscreen></iframe>
 
 #### The 15th Century French Etching, Description Et Figure Du Sabbat Sociers
 
-![Description Et Figure Du Sabbat Sociers]()
+![Description Et Figure Du Sabbat Sorciers](/img/posts/2018-01-22-semioteleological-revolution/description-et-figure-du-sabbat-des-sorciers.jpg)
 
 - requires knowledge of
-
 
 - is the roanoke college lecture online?
 
@@ -766,8 +795,8 @@ allow="autoplay; encrypted-media" allowfullscreen></iframe>
 
 #### (D) The young are indoctrinated in the "right" ways of society
 
-- everyone is born as tabula rasa, but those who rais them may or may
-  not have a clean slate
+- everyone is born as tabula rasa, but those who raise them may or may
+  not have a clean slate or unadulterated intentions
 
 #### (E&F) one without a demonstrable causal connection tempts the innocents vulnerable to subversion, who is led astray and indoctrinated in sin
 
@@ -804,9 +833,6 @@ allow="autoplay; encrypted-media" allowfullscreen></iframe>
 - why does this have to focus on the Rothschilds? it's really not
   about that.
 
-- maybe use this title for another post: Semioteleological Revolution:
-  A Sociophysical Phase Change
-
 - she just had to do it. she went and gots #Teel #Heir. the
   #Rothschild's track those things down and use them mercilessly.
 
@@ -822,8 +848,8 @@ I *almost* went to one of these sessions in Boulder, CO, but my
 manager was such a dick that day, i totally forgot about it. the
 #AlexanderMethod is a metaphor.
 
-fortunately, i was smart enough to have already understood the method
-as a metaphor for "limb" control. in Elfen Lied, psychics with phantom
+Fortunately, i was smart enough to have already understood the method
+as a metaphor for "limb" control. In Elfen Lied, psychics with phantom
 limbs are tightly controlled and restrained in isolation. These are
 incredibly powerful beings tormented by experimentation & never
 released. Limbs, hands and fingers are metaphors for sociohierachical
@@ -831,7 +857,7 @@ structures over which you exert significant influence.
 
 ### メードのデートスル
 
-![](/img/posts/)
+![Tanya the Evil](/img/posts/2018-01-22-semioteleological-revolution/black-lagoon-maid.jpg)
 
 I'm not saying there's a connection between my torment in Boulder and
 the Rothschilds. All I mean is that that my manager was the most
@@ -1014,7 +1040,6 @@ good or bad for people to be unique?
 ### Dark Ruler
 
 ![Just Dark Ruler](/img/posts/2018-01-22-semioteleological-revolution/)
-
 
 There's hardly anything unique about this process of the evokation of
 the combination of meta/typological psychosocial fragments within a
@@ -1260,7 +1285,6 @@ is so ironically dependent on. (HAHA *NOPE*)
 > Pliedes! Me and Regis gonna be sippin' martinis, but you ain't
 > gettin none, son! Tell yo mama I said 'What's up, *baby!*'
 
-
 #### U.P. Freely? Never Heard of Him. IP Excellence, Maybe?
 
 ![I.P. Freely](/img/posts/2018-01-22-semioteleological-revolution/graffiti-pony.jpg)
@@ -1298,6 +1322,31 @@ speaking English, but no one knows what anyone means, nor can any of
 us predict how someone's going to respond. We can't have civil
 discourse without bumping into someone else's triggers implanted by
 fake news stories. It's crazy!
+
+#### Justin Timberlake Loses His iPhone At The Superbowl
+
+> Timberlake be like "I lost my iPhone" and 500 strangers trip over
+> themselves to be the one to give them their phone(s)
+
+![That's What It's Like](/img/posts//justin-timberlake-loses-his-iphone.jpg)
+
+[I get set up by organized crime](https://github.com/dcunited001/bb8)
+and/or federal agents and my family's like *"FUCK YOU, LOSER."* Fifty
+days later and no one cares that I don't have a phone. Not even
+me. `#Hashtag #America` => Sociophysical isolation, working *as
+intended.* Don't fix what ain't broken, eh?
+
+#### Third-World America: *Coming Soon To A UBI-Nation Near You!*
+
+> No, the picture above has nothing to do with my life, but I will use
+> whatever symbols I feel like help express [the abject soulless
+> dichotomy I experience as "life" in third-world
+> America.](https://www.youtube.com/watch?v=FMYz5SteBBY) Don't worry,
+> I'm sure my writing will age very well.
+
+<iframe width="560" height="315"
+src="https://www.youtube.com/embed/FMYz5SteBBY" frameborder="0"
+allow="autoplay; encrypted-media" allowfullscreen></iframe>
 
 <a name="mainsteam-media-right-now-300000000-vuvuzelas" />
 
@@ -1379,3 +1428,16 @@ one question.
 <a name="goto-tha-end" />
 
 # [GOTO: 7H43ND0](#goto-tha-end)
+
+
+
+[^didnt-get-the-joke]: You have to take Hegel's insights and
+     extrapolate them. Fortunately, you get to Marx first, which is
+     way worse, albeit a mirror image resulting from a bastardized
+     version of Hegel's understanding of metaphysics and
+     dialectic. You do actually have to pick one: Hegel or Marx. Your
+     best answer is no answer at all -- ignorance is bliss, but that
+     just makes you a jocular, gleeful leaf in the wind. The correct
+     understanding is a synthesis of Hegel and Marx, yielding to Hegel
+     by rooting your dialectic and understanding in the ideal
+     ... which is basically the Hegelian dialectic anyways.
