@@ -16,6 +16,9 @@ excerpt: ""
 - TODO: find picture of adjacency network
 - TODO: include picture from "visible graphs" article
 
+- TODO: perhaps include greedy alg & matroid info in this article
+  - correlate to signal representation & recovery
+  - are there many such "atomic" representations of varying parity?
 
 ### Resources
 
