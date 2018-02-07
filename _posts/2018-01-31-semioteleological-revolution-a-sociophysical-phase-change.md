@@ -612,8 +612,6 @@ have acceped the one who did pull the sword. Therefore, if not enough
 time has passed, then solving the King's selection game is
 meaningless.
 
-
-
 <a name="social-physics-its-the-secret-sauce-of-legends" />
 
 ### [Social Physics: It's the Secret Sauce of Legends](#social-physics-its-the-secret-sauce-of-legends)
@@ -727,34 +725,44 @@ every baby-sacrificing event. Purely metaphor, of course...
 src="https://www.youtube.com/embed/WkNp56UZax4" frameborder="0"
 allow="autoplay; encrypted-media" allowfullscreen></iframe>
 
-
-
 <a name="a-witches-brew-of-transgenerational-sociophysical-churn" />
 
 ### [A Witches Brew of Transgenerational Sociophysical Churn](#a-witches-brew-of-transgenerational-sociophysical-churn)
 
+> While reading this, reflect critically on what herein is reality and
+> what is merely metaphor. Most of alchemy proceeds through metaphor,
+> but if it just ended at that and didn't affect reality, no one would
+> engage in it because it would be chaotic evil, which always leads to
+> ruin.
 
+This is all an ad hoc decentralized dark ritual where sociophysical
+potential energy is harvested through people's ignorance, their
+obedience, their constraint by sin and their will to use others for
+their gain. Then, the naked truth of these horrors serves to shock the
+world into rationalization or suppression of that truth.
 
-- this is all a dark ritual where people's sociophysical potential
-  energy is harvested through their ignorance, their obedience, their
-  constraint to sin and their will to use others for their gain. Then,
-  the naked truth of these horrors serves to shock the world into
-  rationalization or suppression of that truth.
+Why is it so hard to remember? If this really happens, how can we ever
+forget?! The transgenerational components are critical to this
+ritualized power magnification: by the time Anti-Santa Moloch's coming
+to town again to eat your babies like a drunk Krampus on fire,
+everyone seems to have forgotten about the last time Moloch came to
+town. No, sadly, Rudolph ... doesn't make it.
 
-  - critical to these ad hoc, power magnification rituals is the
-    transgenerational piece: by the time Anti-Santa Moloch's coming
-    through town again to eat your babies like a drunk Krampus on
-    fire, everyone seems to have forgotten about the last time Moloch
-    came to town. No, sadly, Rudolph ... didn't make it.
+Why do these dark, Ouroborosian rituals persist from culture to
+culture? The tragic, heart-wrenching truth is that these processes do
+generate power via systematic karmic obfuscation. As starkly as it
+contrasts my sardonic humor above, I literally want to burst into
+tears writing this. It is evil so dark, you hope that your children
+and their children never learn about it, even if their own lives are
+torn apart to be fed to this Beast that re-emerges whenever power
+magnifies itself.
 
-  - Why do these dark, Ouroborosian rituals persist from culture to
-    culture? The tragic, heart-wrenching truth is that these processes
-    do generate power via systematic karmic obfuscation. As starkly as
-    it contrasts my sardonic humor above, I literally want to burst
-    into tears writing this. It is evil so dark, you hope that your
-    children and their children never learn about it, even if their
-    own lives are torn apart to be fed to this Beast that re-emerges
-    whenever power magnifies itself.
+You want the truth? The truth is that the world is a (dark) place,
+where good people are willing to engage in evil acts, or at least look
+the other way, considering these evil acts to be the price paid to
+defend whatever it is they consider to be good. They don't have any
+better ideas for their enemies other than to alchemically harvest them
+for their sociophysical energy.
 
 > Thank God I haven't lost my sense of humor trying to drag this
 > darkness down to Hell with me. If you're cut off from society and
@@ -762,20 +770,74 @@ allow="autoplay; encrypted-media" allowfullscreen></iframe>
 > you crazy, but did they ever care? Many of those same people are
 > knowingly driving these dynamics.
 
-  - These kinds of higher-order rituals metamorphisize from form to
-    form in various societies, but many societies were notorious in
-    the way they used people. For example, the early Akkadians are
-    some of the most notoriously cruel. The term sardonic derives from
-    an Akkadian emperor. Why were the early Akkadians so cruel? IMO,
-    it is because they were the second great mesopotamian empire: they
-    learned their cruelty from that of the Sumerian Empire, but they
-    had not yet learned why you restrain such cruelty. That was how
-    they understood power.
-    - by 15th century France, this process was well-codified enough to
+#### Human Alchemy
 
-### [Description Et Figure Du Sabbat Sociers]()
+> There is always a price, but there is no true equivalent exchange in
+> sociophysical systems, which merely have the semblance of
+> equilibrium dynamics.
 
+![Human Alchemy](/img/posts/2018-01-22-semioteleological-revolution/beyond-the-gate-of-knowledge.jpg)
 
+These secrets, which may sound like fantasy, you can never unsee
+them. If they know that you know, they will hunt you down, tear your
+family apart or use you as a scapegoat, an alchemical catalyst,
+perhaps the worst of all. For the fantastical delusions of a rambling
+lunatic unpublished author, these assholes sure have been willing to
+tear my life to pieces. There is no single organized order or secret
+society; these groups have been emerging and shifting shape since
+before the pyramids or stonehenge. No order has preserved itself for
+more than a few centuries and there are always hundreds of them
+operating. These groups of shadowy people emerge from the lust for
+power and once they commit themselves to evil, they fight ruthlessly
+to hide their acts from the world.
+
+- worth your salt
+
+These kinds of higher-order rituals metamorphisize from form to form
+in various societies. These groups prefer to operate from the shadows
+because, no matter how strong or malevalent, evil falls to pieces in
+the light. Most people are inherently good and want to stand for good;
+they cannot sit by and stand for the self-enrichment of a few at the
+cost of the many. Therefore, these mechaniations require darkness and
+deceipt. Some of these groups work towards good or some higher goal.
+Others exist simply to feed their own desires by using these
+techniques to realize their fantasies. Almost none of them would
+respond to or understand the metaphor of the "Black Sabbath" described
+herein as I understand it.
+
+Many civilizations were notorious in the way they used people. For
+example, the early Assyrians were renowned in their cruelty. Why were
+the early Assyrians so cruel? I believe it is because they emerged
+after a millenia of mesopotamian conflict. The Assyrians learned their
+cruelty from that of the earlier Sumerian and Akkadian Empires, but
+they had not yet learned why you restrain such cruelty. That was how
+they understood power: by learning from the multigenerational
+experience of being controlled through cruelty from the Sumerians in
+the southeast and the Akkadians in the Northwest. The Assyrians
+imitated what appeared to be successful tactics of these empires,
+believing those would contribute to their empire's strength, expanse
+and self-preservation. The Assyrians may have then intentionally bred
+these values into their culture via social engineering. If so, they
+did not understand how to restrain humanity's capacity for evil.
+
+During the third millenia BCE, power centres in the area shifted every
+few centuries, from the the southeastern union of the Tigris and
+Euphrates to Anatolia, the northwestern source of those rivers; there
+was a consant ebb and flow of power and dominance over commerce
+between those in the eastern and western economic apogees of
+Mesopotamia. This resulted in a millenia of geopolitical struggle over
+Old World's center of commerce and the tax revenues therein. Struggles
+like these led to the development of the knowledge of leadership and
+power, for better and for worse. This eventually gives us the
+Babylonian deity Moloch, it's mythos and all the knowledge encoded
+therein.
+
+<a name="description-et-figure-du-sabbet-sorciers" />
+
+### [Description Et Figure Du Sabbat Sorciers](#description-et-figure-du-sabbet-sorciers)
+
+- by 15th century France, this process was well-codified enough to
+  -
 
 #### The 15th Century French Etching, Description Et Figure Du Sabbat Sociers
 
@@ -1095,7 +1157,11 @@ questions.
 
 #### The Ironically Void Imagery of Communism In An Era of Automation
 
-![Hammer and Sickle](/img/posts/2018-01-22-semioteleological-revolution/)
+> That picture is from way back when people used to walk 15 miles to
+> school in the snow and take their negatives to Walmart on the way
+> home to have them developed.
+
+![Hammer and Sickle](/img/posts/2018-01-22-semioteleological-revolution/hammer-and-sickle.jpg)
 
 These same people are relieved that humanity is becoming weak and more
 predictable, even though to society at large, technology appears to be
