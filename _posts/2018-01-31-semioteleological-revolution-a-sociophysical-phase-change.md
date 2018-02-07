@@ -947,61 +947,7 @@ airlock.
 
 #### Metroid =~ [メトロイド](http://nintendo.wikia.com/wiki/List_of_Metroid_games) =~ /ˈmeɪtrɔɪd/ =~ [Matroid](https://en.wikipedia.org/wiki/Matroid)
 
-![Metroids and Matroids](/img/posts/2018-01-22-semioteleological-revolution/metroid.jpg)
-
-> The Metroids consume ALL of your energy ... and algorithms with
-> matroids consume all of your computational energy. Get it? Now if we
-> could just get rid of all these "Safe" Space-Pirates and marxist
-> time-vampires, I think we'll be alright.
-
-Sound like a leap to conclusions that your traditional schizophrenic
-makes by inferrring the presence of arbitrary semio-linguistic
-connections *that don't exist*? Ok, that's fair because it does sound
-crazy. However you can, forget that linguistic connection because it's
-stupid, arbitrary and trivial. Instead, read this excerpt from an
-abstract on the subject.[^matroid-algorithm-computational-oracles]
-
-#### From: [Complexity of Matroid Property Algorithms](https://doi.org/10.1137/0211014)
-
-> A general theorem is proved which can be used to show that **for a
-> large number of matroid properties there is no good algorithm of a
-> certain type for determining whether these properties hold** for
-> **general matroids.** Specifically, there exists no algorithm in
-> which the matroid is represented by an independence test oracle (or
-> an oracle polynomially related to an independence test oracle) and
-> which solves the problem in question after a number of calls on the
-> oracle which is bounded by a polynomial in the number of elements of
-> the ground set of the matroid.
-
-It means that algorithms requiring matroids are NOT computationally
-friendly. Matroids eat all your energy. Algorithmic oracles, like
-[padding
-oracles](https://en.wikipedia.org/wiki/Padding_oracle_attack), exist
-as helpful shortcuts that can be leveraged to assert whether your
-computations are proceeding in the correct direction or your algorithm
-needs to take an entirely different direction.
-
-If you don't understand, what that means is that America has gangraped
-an Einstein on the floor of a train to Dashau. I should have a job. I
-should be very, very successful. Instead, I'm expected to fucking work
-at a McDonald's. Not only do I understand the 1,000 ft view of the
-above, I can extrapolate the consequences phenomenologically and
-sociologically. Someone else already did. This isn't a great example,
-but when I independently uncover something that someone else has
-already discovered -- *in public academia* -- then I am humiliated for
-it, while being degraded, emotionally tormented and psychological
-tortured in front of others:
-
-#### I never get taken seriously in a very public way to encourage other people less knowledgable from ever taking me seriously.
-
-### I never get job offers; any career that doesn't involve asking people "Do you want fries with that?" has been prematurely terminated.
-
-#### And above all else, I never get social interaction with people who know what i'm talking about. That is a very high priority for people who want to keep me down.
-
-- Why is this particular connection to matroids useful?
-  - connect matroids to financial trading algorithms and sociophysical
-    algorithms.
-
+![Mother Brain]()
 ### Computational Hardness And (Inherent Leveraging) of Linguisitc Duplicity Means The Illuminati's Codes are Algorithmically Identifiable
 
 
