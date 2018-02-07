@@ -2,6 +2,14 @@
 title: "Graphics Ideas"
 ---
 
+### 3D Lens Flare Prismatic Effect
+
+- Stereoscopic Lens Flare, where voxelized objects are pieced apart
+  into colorized 3-dimensional components, arranged in a line, like a
+  lens flare.
+  - the direction of these "voxel flares" can be aligned, randomized
+    or some mixture of both.
+
 ### Mesh Generation & Mesh Morphs w/ Voxels
 
 - Mesh Parameterization X Voxellated Data
