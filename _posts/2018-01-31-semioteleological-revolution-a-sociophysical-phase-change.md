@@ -150,6 +150,10 @@ because it was geographically isolated from the mainland, but China
 shares many of these same qualities. Taoism and Shinto provide
 interesting reflection on these ideas.
 
+<a name="materialistic-metaphysics-epistemologically-detaches-the-followers-from-a-prevelant-sociocultural-order" />
+
+### [Materialistic Metaphysics Epistemologically Detaches The Followers From A Prevalent Sociocultural Order](#materialistic-metaphysics-epistemologically-detaches-the-followers-from-a-prevelant-sociocultural-order)
+
 Therefore, there's not much chance for revolution and progress in the
 class struggle without sociometaphysical churn: you need both. You
 must *use* both the idealistically and materially derived
@@ -164,9 +168,11 @@ will not have a stable society.
 
 ### [You Only Get One Dialectical Method](#you-only-get-one-dialectical-method)
 
-#### You're An Undergrad Philosphy Major In A Liberal Academic Safe Space.
+#### You're An Undergrad Philosphy Major In A Liberal Academic Safe Space:
 
-#### You Must Choose Between Material Or Idealistic: Go!
+<a name="you-must-choose-between-material-or-idealistic" />
+
+### [You Must Choose Between Material Or Idealistic: Go!](#you-must-choose-between-material-or-idealistic)
 
 They are basically the same process starting from opposite ends, in a
 way. If I had to choose, what would I prefer? Idealistic metaphysics
@@ -184,7 +190,9 @@ determines the course of all phenomena through fate.
 #### .... Safe Spaces, Am I Right? Who TF Invited That Saw Guy Anyways?
 
 
-- what is sociometaphysical churn and is this the proper term?
+### In A World Where The Only Constant Is Change
+
+- what is socioepistemological churn and is this the proper term?
   - sociophysical flux/churn could be defined as changes in how
     groups/regions of people understand the world through belief
     systems and epistemological structures.
@@ -209,7 +217,9 @@ determines the course of all phenomena through fate.
         computation energy & time or by directing the acquisition of
         knowledge
 
-- sociometaphysical churn:
+### What *Might* You Conceive With Your Mind?
+
+- socioepistemological churn:
   - how people's conceptions of society reinforce or diffuse the
     "clarity" of potential futures
     - so, with idealistic conceptions of metaphysics, the
@@ -299,7 +309,56 @@ determines the course of all phenomena through fate.
   - religion is a social belief system, but it is acquired gradually
 
 
+- the knowledge of good and evil
+  - the knowledge of the knowledge of good and evil
 
+- is it right do to right? is it wrong to do wrong?
+  - is it wrong to stand for what is right?
+  - is it right to stand for what is wrong?
+  - would you stand by and do nothing while someone does wrong?
+  - would you encourage others to think that it is right to do what is
+    wrong?
+  - would you encourage others to think that is is wrong to do what is
+    right? and what if you encourage them to believe that what is
+    right is wrong?
+  - (word this so that it is less confusing)
+- there are higher-order aspects at play to determine morality,
+  especially when you assume that words and actions can shape
+  someone's belief system to define or redefine both right and wrong.
+  - any actions or words can be perceived along a moral triumvarate(?)
+    of (encouraging), (discouraging), and null (reword this?)
+    - include a fourth category (incognizant or unknowing)
+    - that is, where does your response to someone's words/actions
+      fall along this triumvirate spectrum: do you encourage their
+      actions, discourage them or do you present a null response?
+  - do you encourage actions you believe to be moral? do you encourage
+    actions you believe to be immoral?
+    - far more important are the higher-order aspects to this:
+      - do you encouarage actions that encourage moral actions?
+      - do you discourage actions that discourage immoral actions?
+      - do you discourage actions that encourage moral actions?
+      - do you encourage actions that discourage immoral actions?
+    - the wrong answers to the questions above allow you to *appear*
+      moral, but encouarge immoral behavior of 1&deg; and 2&deg;
+      connections.
+      - you can appear moral while encouraging/using negative
+        behavior. this is a tool of karmic obfuscation. this is yet
+        another reason why intent is so important. Do you intend for
+        negativity and malice to spew from your heart through the
+        actions of another? Because if you are skilled, you can do so,
+        while appearing like a saint.
+      - intent is critical, especially if you are wise and skilled
+        enough to judge or even measure the downstream consequences of
+        your actions. even the most skilled person may create problems
+        through the most well-intended actions and reactions.
+        - but if you intend harm, we can be sure that you will create
+          harm. it is much more challenging to do good than it is to
+          do evil. but are the actions of the good man well-rewarded?
+          by who? by himself? by society? by law? why then, would man
+          do good and profit not, when he could do ill and society
+          rewards him? if naivety and wishful thinking are all that
+          keeps a society's evil in check, that society won't have the
+          teeth to restrain lust for power, greed or malice for long.
 
 <a name="who-are-the-illuminati-and-why-are-they-such-assholes-anyways" />
 
@@ -943,13 +1002,52 @@ sociophysical body has a brain and nerves. The Rothschilds or the
 other (illustriously vague) "Illuminati" families are the
 sociophysical brains that control mechinations in society. They
 insulate themselves as much as possible, inside of a sociophysical
-airlock.
+airlock -- like Mother Brain, from the Metroid series.
 
 #### Metroid =~ [メトロイド](http://nintendo.wikia.com/wiki/List_of_Metroid_games) =~ /ˈmeɪtrɔɪd/ =~ [Matroid](https://en.wikipedia.org/wiki/Matroid)
 
-![Mother Brain]()
-### Computational Hardness And (Inherent Leveraging) of Linguisitc Duplicity Means The Illuminati's Codes are Algorithmically Identifiable
+![Mother Brain](/img/posts/2018-01-22-semioteleological-revolution/mother-brain.jpg)
 
+<a name="chomskys-going-to-love-this" />
+
+# [Chomsky's Going to Love This](#chomskys-going-to-love-this)
+
+Language is a program that defines a network operating system of
+sorts. It's a probabilistic program that defines all the ways that
+ideas can be invoked in others towards the convergence of abstractions
+across the minds of individuals. Our human minds are airgapped, like
+secure computers with zero networking infrastructure to connect
+them.
+
+<a name="the-difference-between-man-and-animal-is-primarily-noological" />
+
+### [The Difference Between Man and Animal is Primarily Noological](#the-difference-between-man-and-animal-is-primarily-noological)
+
+The primary distinction between man and animal is that we attempt to
+reach consensus of abstractions through language: this means that I
+try to learn about your mental abstractions; you try to learn about my
+mental abstractions; humanity tries to reach consensus of mental
+abstractions. Animals also do this, but can only communicate through
+universal semiotics, via body language or some other means, so for
+them, abstractions converge more slowly and almost never reach
+consensus. Language is the *human* mechanism that separates us from
+animals: we distinguished ourselves as human by deciding amoung
+ourselves to name all the animals and to name all the
+abstractions. Thus, our humanity was never much of a biological
+distinction, but instead a noological one: animals simply lacked
+genetically consistent means of abstraction consensus and thus never
+hit the critical mass for neurogenetic epigenetic evolution.
+
+### Where Do Morphemes Come From?
+
+### The "Illuminati's" Leverage of Linguisitic Duplicity Means Their Codes Have Always Been Decipherable Algorithmically
+
+- Their codes were designed to remanifest and redistribute their
+  protocols and decentralized logistic structures in the future, ad
+  hoc upon the academic elite learning enough language and utilizing
+  enough writing.
+  - and the mythos of cultures is like a compendium of programs that
+    leverage a specific langauge as an operating system.
 
 - this was always going to happen
   - regardless of which secret society you consider, they all leverage
@@ -1161,7 +1259,6 @@ society).
   - however, if the old order manages to perpetuate itself, it will
     forever seal humanity in within the confines of a false historical
     and technological paradigm.
-
 
 - Divine Right vs. the mandate of heaven
   - how was the mandate of heaven similar to the social contract
