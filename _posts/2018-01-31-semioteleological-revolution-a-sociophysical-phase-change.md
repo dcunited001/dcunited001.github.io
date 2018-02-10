@@ -33,6 +33,12 @@ excerpt: ""
 
 ## [What Does Metaphysics Have To Do With The Illuminati, Anyways?](#what-does-metaphysics-have-to-do-with-the-illuminati)
 
+
+
+#### (socioepistemological churn)
+
+#### (knowledge of good and evil, etc)
+
 ....
 
 
@@ -50,17 +56,63 @@ excerpt: ""
 
 #### [The Karmic Consequences of Power: A Sociophysical Paradox](#the-karmic-consequences-of-power-a-sociophysical-paradox)
 
-####
+#### [Poison Pen: The Methodological Defamation Machine](#poison-pen-the-methodological-defamation-machine)
 
-####
+#### ...
 
-####
+#### [How Did Arthur Pull The Sword From The Stone?](#how-do-you-pull-the-sword-from-the-stone)
+
+
+
+....
+
+## [Social Physics: It's the Secret Sauce of Legends](#social-physics-its-the-secret-sauce-of-legends)
+
+
+#### [The Teleological Inculcation of Sociophysical Intuition](#the-teleological-inculcation-of-sociophysical-intuition)
+
+
+#### [Social Physics: Event-Driven Programming](#social-physics-event-driven-programming)
+
+#### ....
+
+## [Black Sabbath: Not Your Average Rock Band](#black-sabbath-not-your-average-rock-band)
+
+#### [A Witches Brew of Transgenerational Sociophysical Churn](#a-witches-brew-of-transgenerational-sociophysical-churn)
+
+#### ....
+
+#### [Description Et Figure Du Sabbat Sorciers](#description-et-figure-du-sabbet-sorciers)
 
 ....
 
 
+## ???
 
-# [A Neo-Symbolist Semioteleological Revolution](#a-neo-symbolist-semioteleological-revolution)
+####
+
+
+#### ...
+
+
+## (Chomsky's Going to Love This)
+
+#### [The Difference Between Man and Animal is Primarily Noological](#the-difference-between-man-and-animal-is-primarily-noological)
+
+
+#### ....
+
+...
+
+#### (Just Dark Ruler)
+
+### [Ashes to Ashes, Funk to Funky, We All Know Major Tom's A Junkie](#ashes-to-ashes-funk-to-funky-we-all-know-major-toms-a-junkie)
+
+### [The Genius of Victory Is Always A Dead Man Walking](#the-genius-of-victory-is-always-a-dead-man-walking)
+
+
+
+## [A Neo-Symbolist Semioteleological Revolution](#a-neo-symbolist-semioteleological-revolution)
 
 #### [E.T. Wins The Semiotic Zipf's Distribution *And A Brand New iPhone!*](#et-wins-the-antrophosemiotic-zipfs-distribution-and-a-brand-new-iphone)
 
@@ -309,7 +361,8 @@ determines the course of all phenomena through fate.
   - religion is a social belief system, but it is acquired gradually
 
 
-- the knowledge of good and evil
+- what is the knowledge of good and evil?
+  - one personal interpretation of this
   - the knowledge of the knowledge of good and evil
 
 - is it right do to right? is it wrong to do wrong?
@@ -359,6 +412,17 @@ determines the course of all phenomena through fate.
           rewards him? if naivety and wishful thinking are all that
           keeps a society's evil in check, that society won't have the
           teeth to restrain lust for power, greed or malice for long.
+
+- It terrifies me to think of an Earth with a few billion less
+  people. The remnants of such a planet are filled with the
+  archetypical terror of a neodeluvian calamity and pitted against
+  their own fearful nihilism, who must live practically in a world
+  devoid of both virtue and moral indemnity.
+  - the soil of that world, does it allow anything to grow? does it
+    nurture anything? If any incentivization for virtue and morality
+    have been annihilated by practical concerns for survival, where
+    does that leave the notions of family and community? That world is
+    incredibly dark and nothing of value grows there.
 
 <a name="who-are-the-illuminati-and-why-are-they-such-assholes-anyways" />
 
@@ -671,9 +735,20 @@ have acceped the one who did pull the sword. Therefore, if not enough
 time has passed, then solving the King's selection game is
 meaningless.
 
+
+- (It would seem that all of the factors above imply the existence of)
+  a real historical Merlin. This historical Merlin may have factually
+  been a Shakespearean
+  [Junto](https://en.wikipedia.org/wiki/Junto_(club)) of highly
+  intelligent people, probably mixing druidic ideas with those left
+  over from the Roman occupation of Caesar's geopolitical crowning
+  jewel: Britain. Why were the Britain isles so important? Like Japan
+  in the East, there was no way to conquer them without maritime
+  invasion.
+
 <a name="social-physics-its-the-secret-sauce-of-legends" />
 
-### [Social Physics: It's the Secret Sauce of Legends](#social-physics-its-the-secret-sauce-of-legends)
+# [Social Physics: It's the Secret Sauce of Legends](#social-physics-its-the-secret-sauce-of-legends)
 
 What else is incredibly similar to thermodynamics? Social physics.
 People behave as particles, heat can be channeled and entropy
@@ -684,6 +759,10 @@ neurological circuits which correspond to analytic approximations of
 those phenomenon, then the person who understands intuitively
 understands thermodynamics can develop a powerful understanding of
 social physics.
+
+<a name="the-teleological-inculcation-of-sociophysical-intuition" />
+
+### [The Teleological Inculcation of Sociophysical Intuition](#the-teleological-inculcation-of-sociophysical-intuition)
 
 Further, if also you believe, as I do, that people intuitively
 understood many of the secrets of math behind science far earlier than
@@ -703,17 +782,25 @@ There is far too much baseless conjecture in the explanations above
 for any of it to be taken as fact. Still, if you avoid thinking about
 any of this on the basis that it's not factual, you're missing the
 point. It's the journey, not the destination. However, the critical
-point is that mathematic models behind social physics are all
-algorithms based on generalized methods for quantum physics. Ancient
-people could not run these algorithms. Instead, they could only
-develop an intuition for the same methods without understanding the
-underlying math, *per se*. Furthermore, this knowledge was always
-esoteric and as prized as the story behind the mythical [Egyptian
-Emerald Tablets] implies.
+point is that mathematic models behind social
+physics[^pos-sensitive-propagation] are all algorithms based on
+generalized methods for quantum physics.[^rational-choice-framework]
+Ancient people could not run these algorithms, but neither could
+people throughout history most effectively lead people without
+understanding components of the mathematic basis underlying these
+algorithms. Instead, they could only develop an intuition for the same
+methods without understanding the underlying math, *per
+se*. Furthermore, this knowledge was always esoteric and as prized as
+the story behind the mythical [Egyptian Emerald
+Tablets](https://en.wikipedia.org/wiki/Emerald_Tablet) implies.
 
-![Egyptian Emerald Tablets]()
+#### The Emerald Tablets, Rumored not Authored in this Plane
 
-- TODO: cite paper from arXiv
+![Egyptian Emerald Tablets](/img/posts/2018-01-22-semioteleological-revolution/emerald-tablets.jpg)
+
+<a name="social-physics-event-driven-programming" />
+
+### [Social Physics: Event-Driven Programming](#social-physics-event-driven-programming)
 
 Without being able to quantify any data, it seems that men were better
 at constructing event-driven sociophysical handlers, not unlike the
@@ -735,35 +822,22 @@ important events, without necessarily knowing why.
   practices. (i.e. Christianity to paganism)
   - this is not an endorsement of this tactic.
 
-  - It would seem that all of the factors above imply the existence of
-    a real historical Merlin. This historical Merlin may have
-    factually been a Shakespearean
-    [Junto](https://en.wikipedia.org/wiki/Junto_(club)) of highly
-    intelligent people, probably mixing druidic ideas with those left
-    over from the Roman occupation of Caesar's geopolitical crowning
-    jewel: Britain. Why were the Britain isles so important? Like
-    Japan in the East, there was no way to conquer them without
-    maritime invasion.
-
-
 <a name="black-sabbath-not-your-average-rock-band" />
 
 # [Black Sabbath: Not Your Average Rock Band](#black-sabbath-not-your-average-rock-band)
 
 There is a dark side of understanding life through the lens of social
 physics. It is one reason why this "How Hegel Is Perceived" meme is
-hilarious, albeit a little sad in contect of an extended extrapolation
+hilarious, albeit a little sad in context of an extended extrapolation
 of Hegel's philosophy.
 
 #### How Continental Philosophers View Hegel
 
-No, Hegel was not a Black Sabbath fan, nor would you find any Ozzie
-references in Hegel's work. It's a philosophy
-joke.[^didnt-get-the-joke]
+> No, Hegel was not a Black Sabbath fan, nor would you find any Ozzie
+> references in Hegel's work. It's a philosophy
+> joke.[^didnt-get-the-joke]
 
 ![How Continental Philosophers View Hegel](/img/posts/2018-01-22-semioteleological-revolution/hegel-hungry.jpg)
-
-- are any ideas new? Truly Novel?
 
 If the Illuminati's bread and butter is controlling your mind by
 limiting the prevelance of ideas and control, then the Black Sabbath
@@ -800,6 +874,10 @@ obedience, their constraint by sin and their will to use others for
 their gain. Then, the naked truth of these horrors serves to shock the
 world into rationalization or suppression of that truth.
 
+
+- [Saul and the Witch of Endor](www.mechon-mamre.org/p/pt/pt08a28.htm#3)
+
+
 Why is it so hard to remember? If this really happens, how can we ever
 forget?! The transgenerational components are critical to this
 ritualized power magnification: by the time Anti-Santa Moloch's coming
@@ -815,6 +893,8 @@ tears writing this. It is evil so dark, you hope that your children
 and their children never learn about it, even if their own lives are
 torn apart to be fed to this Beast that re-emerges whenever power
 magnifies itself.
+
+##
 
 You want the truth? The truth is that the world is a (dark) place,
 where good people are willing to engage in evil acts, or at least look
@@ -922,6 +1002,10 @@ therein.
 #### (E&F) one without a demonstrable causal connection tempts the innocents vulnerable to subversion, who is led astray and indoctrinated in sin
 
 
+#### Caster from [Fate/Zero](https://en.wikipedia.org/wiki/Fate/Zero)
+
+![Bluebeard](/img/posts/2018-01-22-semioteleological-revolution/bluebeard.jpg)
+
 #### (G) Across the way (again, without provable causal connection), the innocent begins playing music, projecting song/signal through community
 
 #### (H) This eventually draws unwarranted attention, which drives a group to ostracization and destitution...
@@ -938,6 +1022,8 @@ therein.
 
 
 #### (M) hunting & fishing these people out of life is condoned by using these people as food in an Ouroborosian way. the weak feed on lost souls
+
+
 
 
 
@@ -982,12 +1068,12 @@ structures over which you exert significant influence.
 
 I'm not saying there's a connection between my torment in Boulder and
 the Rothschilds. All I mean is that that my manager was the most
-insufferable asshole i've ever met, like he was Salaryman Stalin.
-anyways: no point in fighting über-powerful people, unless you're
-sadomasochistic. In fact, I'm pretty sure the Rothschilds would be on
-my side -- they hate communism because it means they lose control over
-vast regions of socioeconomic territory to another main branch of the
-Illuminati.
+insufferable asshole I've ever met like he was Salaryman Stalin.
+Anyways, there's no point in fighting über-powerful people, unless
+you're sadomasochistic. In fact, I'm pretty sure the Rothschilds would
+be on my side -- they hate communism because it means they lose
+control over vast regions of socioeconomic territory to another main
+branch of the Illuminati.
 
 #### Tanya the Evil is like Salaryman Stalin. [Just watch episode one.](http://www.crunchyroll.com/saga-of-tanya-the-evil/episode-1-the-devil-of-the-rhine-727459) Easy.
 
@@ -1014,10 +1100,10 @@ airlock -- like Mother Brain, from the Metroid series.
 
 Language is a program that defines a network operating system of
 sorts. It's a probabilistic program that defines all the ways that
-ideas can be invoked in others towards the convergence of abstractions
-across the minds of individuals. Our human minds are airgapped, like
-secure computers with zero networking infrastructure to connect
-them.
+ideas can be invoked in others towards (both creating and leveraging)
+the convergence of abstractions across the minds of individuals. Our
+human minds are airgapped, like secure computers with zero networking
+infrastructure to connect them.
 
 <a name="the-difference-between-man-and-animal-is-primarily-noological" />
 
@@ -1039,6 +1125,9 @@ genetically consistent means of abstraction consensus and thus never
 hit the critical mass for neurogenetic epigenetic evolution.
 
 ### Where Do Morphemes Come From?
+
+- do i bother going into this?
+
 
 ### The "Illuminati's" Leverage of Linguisitic Duplicity Means Their Codes Have Always Been Decipherable Algorithmically
 
@@ -1170,12 +1259,39 @@ This is why every living successful artist is probably a fraud and
 every wildly successful artist has been dead for a generation before
 anyone ever "discovered" him.
 
-#### The Genius of Victory Is Always A Dead Man Walking
+<a name="ashes-to-ashes-funk-to-funky-we-all-know-major-toms-a-junkie" />
 
-> No one saw this statue while Michaelangelo was alive. Now that guy
-> was a lucky artist, but no, I still haven't figured this statue out.
+### [Ashes to Ashes, Funk to Funky, We All Know Major Tom's A Junkie](#ashes-to-ashes-funk-to-funky-we-all-know-major-toms-a-junkie)
+
+No man and certainly no civilization exists as an island. All
+civilizations are interconnected, whether they realize it or
+not. Everything that has a beginning must also have an end. However,
+nothing ever truly ends or begins. Everything is always in constant,
+fluid flux. Just like every particle has momentum and position, but
+neither can be discerned without misinterpreting the other, no person
+or social unit can be said to have begun or ended. Everything builds
+into its successor; just as every wave that crashes on the shore is
+pulled back into the tide; just as no wave can be said to be separate
+from another.
 
 ![Genius of Victory](/img/posts/2018-01-22-semioteleological-revolution/)
+
+<a name="the-genius-of-victory-is-always-a-dead-man-walking" />
+
+### [The Genius of Victory Is Always A Dead Man Walking](#the-genius-of-victory-is-always-a-dead-man-walking)
+
+No one saw this statue while Michaelangelo was alive. Now that guy was
+a lucky artist, but no, I still haven't figured this statue out.  Each
+one of these figures is a particular genius: one works their entire
+life, contributing to the construction of a society meant to withstand
+anything his generation has seen coming; the other simply takes
+everything the other has built without regard for past works, simply
+by catching the old fool off-guard, perhaps without understanding or
+even respect. Ashes to ashes and dust to dust: regardless of how hard
+their elders had worked, the younger will be sure to inherit their
+worth.
+
+- TODO: hmmmmmm
 
 ### This Starving Philosopher's Work Still Hasn't Been *UN*-COVERED
 
@@ -1192,7 +1308,9 @@ I'll tell you. I can't even afford McDonald's most of the time. Yeh,
 that fucking famous Dollar Menu is financially off-limits for me
 because of what "they" did to my career.
 
-You might say they view themselves as reapers guarding over
+- TODO: reconnect they (ambiguous anaphora)
+
+You might say (they) view themselves as reapers guarding over
 [covers](https://en.wikipedia.org/wiki/Cover_(algebra)) of
 sociophysical spaces, who manage cities, states, regions, groups and
 ideas as people that manage sheaves, in both the teleological sense
@@ -1201,7 +1319,7 @@ questions.
 
 #### The Ironically Void Imagery of Communism In An Era of Automation
 
-> That picture is from way back when people used to walk 15 miles to
+> This picture is from way back when people used to walk 15 miles to
 > school in the snow and take their negatives to Walmart on the way
 > home to have them developed.
 
@@ -1213,14 +1331,23 @@ doing the opposite. That is false: humanity is becoming weaker than
 ever before because we are losing the ability to semeoteleologically
 reproduce.
 
-"Semioteleological" -- what does that word even mean? I invented it. I
-checked. I have screenshots from google proving that no other person
-EVER thought to use that word because no one has thought of
-metatypological aspects of sociology so methodologically.
+<a name="semioteleological-what-does-that-word-even-mean" />
 
-It perfectly describes why symbols whose meaning was so obvious for so
+### [Semioteleological: What Does That Word Even Mean?](#semioteleological-what-does-that-word-even-mean)
+
+I invented it. I checked. I have screenshots from Google proving that
+no other person EVER thought to use that word because no one has
+thought of metatypological aspects of sociology so
+methodologically. So when you miraculously invent evidence
+demonstrating the idea already existed -- I already got you beat this
+time.
+
+- TODO: ... but literally, what does it mean?
+
+**Semiotelelogy** perfectly describes the phenomenona of
+post-modernism whereby symbols whose meaning was so obvious for so
 long have suddenly and nearly completely lost all their relevance to
-humanity. thus, we are becoming completely disconnected from the myths
+humanity. Thus, we are becoming completely disconnected from the myths
 which helped inculcate the values systems via teleology. This will be
 disastrous because we understand the world through symbology encoded
 into language and myth. When that semioteleology is sufficiently
@@ -1230,6 +1357,9 @@ world, nor can they relate to each other.
 We *think* that technology and science are all we need, but we are
 wrong. We think that we no longer need religion or myth, but we are
 sooo wrong. We have never needed it more.
+
+- TODO: focus more on semioteleology as a concept and less on content
+  extrapolated from tweets
 
 #### Steel that word Semioteleology assholes. I dare you.
 
@@ -1269,7 +1399,7 @@ society).
 
 
 
-#### Dynasties
+### (Dynasties)
 
 - what are the methods of inheretence of power called?
   - variations of matrilineal/patrilineal succession
@@ -1550,3 +1680,22 @@ one question.
      understanding is a synthesis of Hegel and Marx, yielding to Hegel
      by rooting your dialectic and understanding in the ideal
      ... which is basically the Hegelian dialectic anyways.
+
+
+
+[^pos-sensitive-propagation]: [Position-sensitive propagation of information on social media using social physics approach](https://arxiv.org/abs/1706.00569), Ishii A., Mizuno T., Kawahata Y., arXiv:1706.00569 [physics.soc-ph] (2017)
+
+
+[^conjoining-accelerates-information-consensus]: [Conjoining Speeds Up
+    Information Diffusion in Overlaying Social-Physical
+    Networks](https://arxiv.org/abs/1112.4002v2), Osman Yagan, Dajun
+    Qian, Junshan Zhang, Douglas Cochran, arXiv:1112:4002v2 [cs.SI]
+    DOI
+    [10.1109/JSAC.2013.130606](https://doi.org/10.1109/JSAC.2013.130606)
+    (2013)
+
+[^rational-choice-framework]: [A Rational Choice Framework for
+    Collective
+    Behavior](https://scholar.google.com/citations?user=dJRtiQwAAAAJ&hl=en&oi=sra),
+    Krafft, P.M., (Doctoral dissertation, Massachusetts Institute of
+    Technology), (2017)
