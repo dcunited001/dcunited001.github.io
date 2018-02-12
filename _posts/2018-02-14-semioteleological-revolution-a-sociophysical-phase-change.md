@@ -1013,7 +1013,46 @@ recombinated through the ages.
         powerful people if you don't or can't help them keep all their
         shit under that rug.
       - IMO, that's bullshit.
-  - TLDR: if you write anything that threatens
+  - TLDR: if you write anything that threatens these shadowy "powers
+    that be" in any significant way, they will consider any success or
+    attention as a potential threat and will never allow you to
+    transcend their restraints, until you ruthlessly destroy any such
+    sociophysical restraints they attempt to place on you.
+    - because it is details in your story or in your writing that
+      threatens them, they will never allow you to transcend such
+      sociophysical isolation. not without a pen-name. they don't want
+      people looking at anything you've ever done.
+    - the degree of threat your story poses is proportionaly to the
+      degree of damage you will need to do to the people they try to
+      send against you until they learn their lesson.
+    - these people will deceive you in any way they can and dupe you
+      in any way they can. trust nothing, except your instincts and
+      what you can know to be fact. learn to follow what they fear and
+      ruthlessly destroy them with it, unless you enjoy spending the
+      rest of your life inside an invisible cage as nothing but an
+      expendable pawn.
+      - that said, play your hand slowly, one card at a
+        time. Gradually turn up the heat, until you can ensure they
+        fear not knowing the cards you have left in your hand. cover
+        your ass and don't run out of cards. it's not a game you want
+        to play, nor is it a game that anyone can actually win. the
+        only victory for me at this point is necessarily Pyrrhic. They
+        will blame you for everything you destroy.
+      - Because the objectives of keeping me in a sociophysical prison
+        cell require the minimization of all information associated to
+        me, I have to be the bull in a china shop that destroys ever
+        piece of china in order for anyone to ever care to acknowledge
+        anything I do. It's too easy and too inline with their goals
+        to placate me with gaslighting. All I know is that no one else
+        has ever had a chance to fight like I have and I do not plan
+        on ever letting these Illuminati assholes off the hook without
+        a sociological complex that forces them to think carefully
+        about ever doing this to someone like me again. I will
+        metaphorically destroy everything around me so that I can
+        reshape our collective reality and history into an
+        informational weapon that humanity can use to keep these
+        sadistic creeps in line for a thousand years or more.
+        - pic: doctor strange, making any weapon he needs
 
 - fluidity of Nietzsche's proposed transvaluation of all values
   [systems] (although i need to refresh my memory here)

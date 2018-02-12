@@ -28,7 +28,6 @@ excerpt: ""
 
 #### [The Teleological Inculcation of Sociophysical Intuition](#the-teleological-inculcation-of-sociophysical-intuition)
 
-
 #### [Social Physics: Event-Driven Programming](#social-physics-event-driven-programming)
 
 #### ....
@@ -39,14 +38,14 @@ excerpt: ""
 
 # [What Was The Sword in the Stone?](#the-sword-in-the-stone)
 
-The (illuminati) have crafted myth and legend, narratives of heroes
-which are meant to play out generation after generation, that function
-to establish filters that cause the virtuous, righteous and
-intelligent to sift higher into society, so that their society is as
-strong as possible. The sword in the stone is such a myth, probably
-crafted by Merlin -- or the unknown historical Merlin. While perhaps
-not a myth of this mysteriously vague Illuminati, it is fascinating
-all the same.
+Civilization after civilization has crafted myth and legend,
+narratives of heroes which are meant to play out generation after
+generation, that function to establish filters that cause the
+virtuous, righteous and intelligent to sift higher into society, so
+that their society is as strong as possible. The sword in the stone is
+such a myth, probably crafted by Merlin -- or the unknown historical
+Merlin. While perhaps not a myth of this mysteriously vague
+Illuminati, it is fascinating all the same.
 
 Merlin was the classic wizard: someone who wove together the fates of
 men from the shadows of the ostensibly greater men; someone who defied
