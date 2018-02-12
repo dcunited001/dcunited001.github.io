@@ -235,6 +235,77 @@ headline: "Informational Territory > Sociohierarchical Territory > Economic Terr
 - copyright/trademark
 - patent
 
+#### UX/UI aspects informational territory form a partial basis for "terrain types"
+
+
+- just as terrain types can have important qualitative/quantitative
+  differences, informational territory can also have these terrain
+  types
+  - there are major differences between the presentation/interactivity
+    of webpages vs. facebook pages:
+    - UI/UX concerns are different.
+    - the networked-ness of the content is differnet
+    - content ownership on facebook pages is determined by a
+      consistent privacy/user agreement, whereas each website has its
+      own content ownership and privacy agreements
+    - generally interacting with a facebook page is a consistent more
+      well-understood experience, the qualititaive and quantitative
+      aspects of which are more likely acknowledged with consensus
+      among your average user. that is, it's easier for people to form
+      expectations about the UI/UX experience on a facebook page/group
+      and the ripples that spread on the facebook network as a result
+      of their interactions.
+      - people also know that interactions on individual websites
+        result in effects that are more constrained to that network or
+        dotcom domain, whereas interactions with facebook groups/pages
+        result in effects that ripple across the facebook content
+        network (your interactions show up in your friends' newsfeeds
+        etc.)
+  - therefore, understanding the typological aspects of cyber
+    "terrain-types" is critical to understanding the qualitative and
+    quantitative results of your influence on any of those terrain
+    types
+    - each piece of cyber-terrain has a composition of higher-order
+      terrain types. when projecting sociophysical influence onto
+      these pieces of individual terrain, then it is critical one
+      knows how the composition of higher-order types results in
+      constraints on the space.
+      - some of those higher-order types deal with the
+        semantic/semiotic concerns of the space (i.e. the difference
+        in a facebook page for lawnmowers, not sports cars vs the
+        differences in a web-forums for lawnmowers/cars/etc)
+      - these constrains on the space are essentially no different
+        than the constraints on physical terrain, like higher-ground
+        and lower-ground areas, albeit these cyber-terrains are
+        high-dimensional, not euclidean and incredibly complicated
+      - there are clearly "correct" and "incorrect" ideas to inform
+        general tactics/strategies on these informational terrain
+        types
+    - the point is that if there is the higher-ground/lower-ground
+      polarization for position, then identifying the higher-ground
+      for informational tactics in cyberspace is critical.
+      - once one moves past the subjective nature of the seemingly
+        qualitative concerns, then you can generalize and inform your
+        inforamtional operations by objectively understanding the
+        "shapes" of these terrains.
+        - for example, if you can funnel the enemy forces through a
+          "ravine" in cyberspace like the Spartans did in Thermopylae,
+          wouldn't you want to have that advantage, instead of
+          completely blowing all your tactical advantages by arranging
+          yourself without strategic implications in mind?
+        - just as the shape of a ravine determines the shape of a
+          creek's motion through it, the "shapes" of these
+          cyber-terrains determine how sociophysical energy types will
+          result in the motion of force across the territory
+          - the point is to understand the space and terrain types, so
+            that you can understand how to magnify your force where it
+            matters, instead of blowing your sociophysical potential
+            energy by allowing it to be dissipated
+          - channel your sociophysical energy types, instead of
+            allowing them to dissipate
+
+
+
 #### Telecom/networking infrastructure
 
 - this has more geographic trends
