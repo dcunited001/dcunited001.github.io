@@ -153,6 +153,10 @@ excerpt: ""
     and motion. to understand this, think about how you might measure
     attention on social networks and imagine what the notion of a
     space means for social networks.
+  - explain the sociophysical differences between "Attention" and
+    "Parade Rest" as an example to demonstrate how you should follow
+    the logical, higher-order direction of focus instead of simply
+    gauging someone's head/eye orientation
 
 #### The Prototypical Thought Experiment for S/Phys (w/ both Phys+Virtual)
 

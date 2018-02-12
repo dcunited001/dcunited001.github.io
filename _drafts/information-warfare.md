@@ -237,7 +237,6 @@ headline: "Informational Territory > Sociohierarchical Territory > Economic Terr
 
 #### UX/UI aspects informational territory form a partial basis for "terrain types"
 
-
 - just as terrain types can have important qualitative/quantitative
   differences, informational territory can also have these terrain
   types
