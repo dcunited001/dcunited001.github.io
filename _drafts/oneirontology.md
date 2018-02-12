@@ -18,8 +18,7 @@ should include a growth limiting mechanism
 - similar to discordianism in its open source feel with a focus on literature
 - [Principia Discordia](https://en.wikipedia.org/wiki/Principia_Discordia)
 
-The world, as seen through the eyes of the innocent, is
-perhaps...
+The world, as seen through the eyes of the innocent, is perhaps...
 
 ### misc
 
@@ -104,11 +103,3 @@ free all the others
 ###
 
 Heresy for Heirophants
-
-
-
-Black Magick is pure evil. The antidote is religion and virtue. Magick
-is not pure evil in and of itself. It is a tool and one that magnifies
-the intent of the user. However, black magick in particular can do an
-ungodly amount of harm because of the darkness and miasma it foments
-and requires.

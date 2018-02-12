@@ -8,10 +8,32 @@ author:
 excerpt: ""
 ---
 
-
+- TODO: some of these ideas i've already incorporated into blogs
 
 
 # Blog Ideas:
+
+
+## IRL applications of social physics
+
+- civic planning
+- sociophysical minimization of traffic congestion for urban centers
+  - for example, via suggested variation in working hours. tax
+    deductions for the businesses that comply with slightly variated
+    business hours
+    - this specific idea for traffic minimization is perfect for major
+      urban centers with huge problems w/ traffic
+  - other ideas include traffic routing patterns, so that traffic is
+    coaxed into into "perferated" bundles of cars that are like
+    traffic packets, that can be routed more efficiently.
+    - i originally had this idea in 2008. by modulating traffic light
+      green/red time length, you coax certain quanta/waves of traffic
+      to become clumped together, ideally minimizing the travel time
+      and feul consumption time of everyone on the road.
+      - very difficult to prove the application of this technique
+        would be effective though. and, since it's augmented by
+        hooking into Google/Waze/Uber/etc navigation and destinations,
+        there might be some privacy concerns
 
 ## The Basics & Why It's Personally Relevant
 
@@ -19,6 +41,8 @@ excerpt: ""
   - with biophysics-like state-machines, with idealized particles and
     less-complex physical state
 - social physics is like a (macrocosm) of biophysics
+
+## ##
 
 
 
@@ -252,5 +276,3 @@ their own subjective demise is perhaps the greatest power.
       amoung the rForce & aForce, which will be important.
     - the basis has to be set up to scale properly to different screen
       resolutions, which is something that i messed up recently
-
-

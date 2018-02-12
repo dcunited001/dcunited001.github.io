@@ -269,6 +269,14 @@ determines the course of all phenomena through fate.
         computation energy & time or by directing the acquisition of
         knowledge
 
+- consensus reality (as a long-term information as part of a
+  context/frame)
+  - deviation from a single consensus reality
+    - for an individual, for small/large groups of people
+  - multiple acceptable consensus realitiess
+  - gradual psychosocial migration of a group from one consensus
+    reality to another
+
 ### What *Might* You Conceive With Your Mind?
 
 - socioepistemological churn:
@@ -735,9 +743,8 @@ have acceped the one who did pull the sword. Therefore, if not enough
 time has passed, then solving the King's selection game is
 meaningless.
 
-
 - (It would seem that all of the factors above imply the existence of)
-  a real historical Merlin. This historical Merlin may have factually
+  a real historical Merlin. This historical Merlin may have actually
   been a Shakespearean
   [Junto](https://en.wikipedia.org/wiki/Junto_(club)) of highly
   intelligent people, probably mixing druidic ideas with those left
@@ -838,6 +845,35 @@ of Hegel's philosophy.
 > joke.[^didnt-get-the-joke]
 
 ![How Continental Philosophers View Hegel](/img/posts/2018-01-22-semioteleological-revolution/hegel-hungry.jpg)
+
+<a name="heresy-for-heirophants" />
+
+### [Heresy for Heirophants](#heresy-for-heirophants)
+
+Black Magick is pure darkness. The antidote is religion and
+virtue. Whether black or not, magick is not pure evil in and of
+itself. It is a tool and one that magnifies the intent of the groups
+using it. If their intent is evil, it magnifies evil. However, black
+magick in particular can do an ungodly amount of harm because of the
+darkness it requires: it tends to create large effects while
+circumventing potential restraints that wiser people might have placed
+on it if they were only aware. Instead the miasma foments itself,
+while the karmic storm is building, no one knows to stop it until it's
+too late. There is always a better way.
+
+That said, if you don't want to get burnt, don't go chasing
+dragons. Those who never want anything greater than they can
+comtemplate building with the tools in front of them never go looking
+for things like this and end up happier because of it. Those who learn
+about magick too early tend to use it unwisely because they neither
+know enough about the general consequences of life to understand the
+effects of their actions, nor do they even know what they want from
+life. Instead, by acting too early and too immaturely, they end up
+precluding the cultivation of greater possibilities later on in their
+lives. If they had instead waited, they would know what they truly
+wanted and they'd know better how to create it.
+
+
 
 If the Illuminati's bread and butter is controlling your mind by
 limiting the prevelance of ideas and control, then the Black Sabbath
@@ -1031,17 +1067,9 @@ therein.
   hands of Saber
 
 
-
-
-
-=======
-
 - Mention Aika-chan?
-- why does this have to focus on the Rothschilds? it's really not
-  about that.
 
-- she just had to do it. she went and gots #Teel #Heir. the
-  #Rothschild's track those things down and use them mercilessly.
+#### She Gots Teel Heir
 
 ![Teal Hair Anime Girl - "tee-ru"](/img/posts/2018-01-22-semioteleological-revolution/)
 
@@ -1052,7 +1080,7 @@ therein.
     do if I weren't me
 
 I *almost* went to one of these sessions in Boulder, CO, but my
-manager was such a dick that day, i totally forgot about it. the
+manager was such a dick that day, I totally forgot about it. the
 #AlexanderMethod is a metaphor.
 
 Fortunately, i was smart enough to have already understood the method
@@ -1064,7 +1092,7 @@ structures over which you exert significant influence.
 
 ### メードのデートスル
 
-![Tanya the Evil](/img/posts/2018-01-22-semioteleological-revolution/black-lagoon-maid.jpg)
+![Roberta (Black Lagoon)](/img/posts/2018-01-22-semioteleological-revolution/black-lagoon-maid.jpg)
 
 I'm not saying there's a connection between my torment in Boulder and
 the Rothschilds. All I mean is that that my manager was the most
@@ -1072,8 +1100,8 @@ insufferable asshole I've ever met like he was Salaryman Stalin.
 Anyways, there's no point in fighting über-powerful people, unless
 you're sadomasochistic. In fact, I'm pretty sure the Rothschilds would
 be on my side -- they hate communism because it means they lose
-control over vast regions of socioeconomic territory to another main
-branch of the Illuminati.
+control over vast regions of (socioepistemological territory) to
+another main branch of the Illuminati.
 
 #### Tanya the Evil is like Salaryman Stalin. [Just watch episode one.](http://www.crunchyroll.com/saga-of-tanya-the-evil/episode-1-the-devil-of-the-rhine-727459) Easy.
 
@@ -1192,7 +1220,9 @@ hit the critical mass for neurogenetic epigenetic evolution.
 
 #### Not-e, Nati Zut
 
-[video of monty python]
+<iframe width="560" height="315"
+src="https://www.youtube.com/embed/e0A5vzGMQr8" frameborder="0"
+allow="autoplay; encrypted-media" allowfullscreen></iframe>
 
 ####
 
@@ -1232,16 +1262,33 @@ this basis alone -- *future sociophysical computation* -- it is
 fascinating to think about the phenomenological consequences: is it
 good or bad for people to be unique?
 
-### Dark Ruler
+### The Perfect Ingredients For Creating The Perfect Ruler, Both Light And Dark
 
-![Just Dark Ruler](/img/posts/2018-01-22-semioteleological-revolution/)
+![Just Dark Ruler](/img/posts/2018-01-22-semioteleological-revolution/ruler-dark-and-light.jpg)
 
 There's hardly anything unique about this process of the evokation of
 the combination of meta/typological psychosocial fragments within a
-person. This process has been reinstantiated & reiterated & combinated
-through the ages. Information warfare is competitive symbology where
-the victors understand the evolutionary dynamics & actually had the
-social/financial resources to play.
+person. This process has been reinstantiated, reiterated &
+recombinated through the ages.
+
+- TODO: describe more about bringing the perfect ingredients together
+  for creating the perfect psychologies for particular roles in
+  society
+  - kind of like nietzsche's philosophy, applied to imbuing the
+    (tabala-rasa like raw materials) towards creating the perfect
+    psychologies for filling roles in social hierarchies
+    - ideal psychosocial dynamics.
+      - the ideal psychology for society is never a uniform psychology
+    - filling roles in social hierarchies (a la "the presidential
+      model")
+
+
+
+- Information warfare is competitive symbology where the victors
+  understand the evolutionary dynamics & actually had the social &
+  financial resources to play.
+  - (this might need to segue into the next section)
+  - but to play the game you have to be able to measure/predict
 
 Überpowerful people generally cannot stand someone who encourages
 people to think in unpredictable ways. This vastly expands the
@@ -1335,6 +1382,10 @@ reproduce.
 
 ### [Semioteleological: What Does That Word Even Mean?](#semioteleological-what-does-that-word-even-mean)
 
+- semio+
+
+- what is teleology? how does it combine with semiotics?
+
 I invented it. I checked. I have screenshots from Google proving that
 no other person EVER thought to use that word because no one has
 thought of metatypological aspects of sociology so
@@ -1393,9 +1444,6 @@ society).
 - Divine Right vs. the mandate of heaven
   - how was the mandate of heaven similar to the social contract
     theory? (original reference to mandate of heaven )
-
-
-#### Expound Notes from "The Spear of Destiny and Splicing Families" ?
 
 
 
@@ -1521,8 +1569,8 @@ is so ironically dependent on. (HAHA *NOPE*)
 
 > He said: "I don't need your help, bitch. I got a UFO, but I wanted
 > to let you know: I just won a million dollars! Catch me in the
-> Pliedes! Me and Regis gonna be sippin' martinis, but you ain't
-> gettin none, son! Tell yo mama I said 'What's up, *baby!*'
+> Pleiades! Me and Regis gonna be sippin' martinis, but you ain't
+> gettin none, son! Tell yo mama I said 'What's up, baby!'"
 
 #### U.P. Freely? Never Heard of Him. IP Excellence, Maybe?
 
@@ -1656,7 +1704,6 @@ hoping they would look like Saber, leulz...
 #### 3D Figma Saber Zero
 
 ![3D Figma Saber](/img/posts/2018-01-22-semioteleological-revolution/nicole-kidman-saber.jpg)
-
 
 ## Why Does Santa Claus Live In The North Pole and Give Presents to Everyone?
 

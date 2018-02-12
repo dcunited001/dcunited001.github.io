@@ -1798,6 +1798,11 @@ information.
 
 [^configuration-entropy-of-a-landscape]: [Calculating the configurational entropy of a landscape mosaic](https://www.fs.fed.us/rm/pubs_journals/2016/rmrs_2016_cushman_s001.pdf) Samuel A. Cushman, Landscape Ecol (2016) 31:481–489, DOI 10.1007/s10980-015-0305-2
 
+
+- the following is a great paper on social network types or social
+  circuits: each type of network is amorphous and they are all
+  co-existant.
+
 [^social-media-with-exogenous-networks]: [Link Classification and Tie Strength Ranking in Online Social Networks with Exogenous Interaction Networks](https://arxiv.org/abs/1708.04030), M. Abufouda, K. Zweig, arXiv:1708.04030 [cs.SI] (2017)
 
 [^increasing-knowledge-worker-efficiency]: [Increasing Knowledge Worker Efficiency through a "Virtual Mirror" of the Social Network](https://arxiv.org/abs/1308.1162), Stori Hybbeneth, Dirk Brunnberg, Peter A. Gloor, arXiv:1308.1162 [cs.SI] (2013)
@@ -1812,3 +1817,17 @@ information.
 [^representation-learning]: Bengio, Y., Courville, A. and Vincent, P., 2013. [Representation learning: A review and new perspectives.](https://arxiv.org/abs/1206.5538) IEEE transactions on pattern analysis and machine intelligence, 35(8), pp.1798-1828.
 
 [^representation-learning-hyperspectral]: Chen, Y., Lin, Z., Zhao, X., Wang, G. and Gu, Y., 2014. [Deep learning-based classification of hyperspectral data](https://doi.org/10.1109/JSTARS.2014.2329330). IEEE Journal of Selected topics in applied earth observations and remote sensing, 7(6), pp.2094-2107.
+
+- this is a great citation for the network-oriented mathematic
+  mechanisms by which modernization and sociotechnological changes
+  result in a plethora of new, highly connected communication channels
+  that (exponentially) accelerate the spread of information
+  accelerates.
+
+[^conjoining-accelerates-information-consensus]: [Conjoining Speeds Up
+    Information Diffusion in Overlaying Social-Physical
+    Networks](https://arxiv.org/abs/1112.4002v2), Osman Yagan, Dajun
+    Qian, Junshan Zhang, Douglas Cochran, arXiv:1112:4002v2 [cs.SI]
+    DOI
+    [10.1109/JSAC.2013.130606](https://doi.org/10.1109/JSAC.2013.130606)
+    (2013)
