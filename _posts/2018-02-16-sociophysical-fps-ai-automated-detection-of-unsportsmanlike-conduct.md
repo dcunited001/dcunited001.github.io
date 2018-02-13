@@ -31,7 +31,7 @@ statistics.
 src="https://www.youtube.com/embed/liIlW-ovx0Y" frameborder="0"
 allow="autoplay; encrypted-media" allowfullscreen></iframe>
 
-### 
+###
 
 However, graduate and post-graduate maths are so incredibly
 useful. But the secret is that everyone uses these maths, even though
@@ -612,10 +612,11 @@ unique.
   - in soccer (and basketball to some degree), players prefer to
     spread out for opportunities to pass efficiently, unless they are
     near the ball. in that case, they sociophysically are attracted to
-    the ball and indirectly to each other, but they prioritize (1)
-    ball control (2) forward pressure (3) controlling the dynamics of
-    nearby player positions with their space of potential
-    paths/options
+    the ball and indirectly to each other, but they prioritize:
+    - (1) ball control
+    - (2) forward pressure
+    - (3) controlling the dynamics of nearby player positions with
+      their space of potential paths/options
 
 - in overwatch and other FPS shooters (depending on the gameplay mode)
   you must engage the enemy, making gains while avoiding losses. you
@@ -632,6 +633,31 @@ unique.
         but they don't know to seek it out either ... like a sophomore
         in a college bar trying to pull some girls.
 
+- (from note, partially overlapping with the above): FPS signal
+  analysis based on how players engage actual and potential
+  DPS/Abilities fields projected onto the collective space of the map
+  - in other words, there are team DPS/HPS & abilities fields, but
+    these methods work primarily based analysing player position and
+    movement in relation to the gradient/laplacian of those DPS/HPS
+    fields
+    - F(DPS) := DPS field for enemy team
+    - trying to explain this without drawing pictures is difficult
+      - but these factors are computable, if not on every game, at
+        least scaleably computable in GPU-cloud-based stream
+        processing architectures, where records indicating player
+        positions are rendered to textures (have i already explained
+        this)
+    - metric of player/team engagement: `integral(time spent on DPS
+      boundary) * F(DPS @ position) / max(DPS)`
+      - the second factor above `F(DPS @ position) / max(DPS)` is a
+        metric that is attempting to measure player engagement with
+        the enemy damage field, while accounting for the player's
+        skill in dodging the maximum values in that damage field.
+        - this factor can be computed across various spatiotemporal
+          scales (and, yes, the definition above needs a lot of work)
+
+
+
 - ... describe method
 
 
@@ -642,7 +668,6 @@ unique.
   - it's easy to detect idle players
 - this can be done by recognizing signature patterns in UI datastreams
   for each player
-
 
 ### Signals Analysis To Detect Players Who Are Unreasonably Boosting Novices
 
@@ -656,6 +681,157 @@ unique.
   - e.g. identify multiple accounts with same IP address and/or
     PC/Console ID multiple accounts
     - a single player can't play more one simultaneous game
+
+### SIMPLE Signals Analysis on voice chat to identify natural leaders
+
+- short-term signals analysis on voice chat
+  - requires no linguistic/semantic processing! simple!
+  - simply correlate emotional content of chat to 1D time series of
+    player/team (damage/heal/field of view) metrics in an attempt to
+    identify young people with natural leadership skills
+
+- normally, most compsci people would assume that this is
+  computationally prohibitive, but it is only expensive if you perform
+  linguistic/semantic analysis.
+  - this is purely analysis correlating emotional inflection in voice
+    chat streams with short-term changes in 1D timeseries signals,
+    like player damage, player orientation, etc
+
+- if used in the overwatch platform, such an algorithm *should be
+  successful* towards the application of identifying natural
+  leaders. why?
+  - because of overwatch's simple construction in competitive play:
+    the 6-person teams, the limited set of well designed maps,
+    Blizzard's well-planned changes to metagame via patching
+
+- combinatorially, 6-person teams have more-predictable group dynamics
+  than larger groups. in 6-person groups, the group dynamics are
+  well-demonstrated by studies. you will almost always have an quick,
+  informal selection of leaders and followers.
+  - a good leader is nothing without good followers, but groups that
+    are expected to coordinate their actions towards the attainment of
+    specific objectives quickly will informally select their
+    leaders.
+    - since all six players must share the same voice channel, the
+      voice channel is primarily constrained by time. if two people
+      are talking at the same time, the value derived from voice chat
+      plummets
+    - what happens is that one or two people will quickly position
+      themselves as "dominant" on the voice channel.
+      - these leaders establish themselves ad hoc per round and per
+        match of Overwatch. They will be the ones calling the shots,
+        for the most part
+      - the good followers -- who are less "dominant" but still
+        critical -- will "subscribe" to messages from the more dominant
+        players.
+        - that is, they will be listening to the informal leaders and
+          relaying information to them; as needed, as it becomes
+          relevant or as it is requested.
+  - because time is such a sensitive resource constraint on both the
+    gameplay and the voice channel, the followers will mostly "ACK"
+    (acknowedge), refer to short "bursty" pattern language to describe
+    - because the voice channel is time-contrained, encoding emotional
+      content into your voice-chat messages allows you to harness
+      inflection to layer your messages with 'linear' emotional
+      dimensions instead of purely 'discrete' semantic signaling
+      - this is why you can expect to identify valuable data about
+        group dynamics and particularly leadership and "followership"
+        by analyzing the purely emotional content of voice data to
+        correlate it to 1D time-series (damage, heals, ability usage,
+        player distance)
+      - the time-constraints force players to layer emotional content
+        into their voice statements to convey information faster.
+
+  - if you want to identify IRL leaders by analyzing the data/voice
+    streams from Overwatch, you're looking for the people who are
+    vocal early on, who project signals that their team follows
+    - they're constantly helping project relevant details to their
+      team members to help the GROUP form coherent situational
+      awareness in a rapidly changing environment.
+
+### Complex linguisitic analysis of voice chat signals in Overwatch
+
+- perhaps computationally prohibitive (requires stream processing
+  augmented by cloud instances with DSP & probably GPU)
+  - or at least the computational requirements of voice-chat augmented
+    by semantic analysis would present financial constraints
+  - although, some of this can be preprocessed on the consumer's
+    hardware, especially if some latency is allowed in analytics, then
+    forwarded to the cloud for further processing
+- furthermore, semantic analysis of overwatch in single-langauge
+  regions would be simplar than you'd think. why? because the
+  time-constraints placed on the shared voice chat force players to
+  use short "bursty" langauge.
+  - given an online game with a well-developed community and
+    well-understood metagame -- i.e. thre are enough players, enough
+    competition and competition is robustly incentivized
+    incentivization -- these factors lend themselves to players
+    self-organizing to cooperatively construct pattern languages.
+  - if competitive gameplay has time-sensitive constraints, these
+    pattern languages are optimized not for semantic parity, but for
+    minimization of bandwidth usage.
+    - so, there are evolutionary dynamics that encourage players to
+      autonomously select/repeat a set of vocabulary that is
+      meaningful, but widely understood without much need to define
+      what the slang means within the game.
+  - what this means is that the dictionary required for semantic
+    recognition is bound by size:
+    - morphemes are usually short and almost exclusively monosyllabic
+    - grammer is minimized,
+    - emotional inflection is used to encode more information and
+    - the zipfs distribution for language used in games
+      predispositions the slang towards the first
+      - if the slang is well-harmonized throughout the community, it
+        perhaps takes precedence to function words
+    - tokens and strings specific to the game, like character names,
+      will receive higher precedence in the zipfs distribution
+      - these are excellent markers for understanding how gameplay
+        mechanics and dynamics differ in competitive play amongst
+        players of various skill levels
+      - for example, some tactics are typical in bronze gameplay and
+        some characters dominate in bronze gameplay, presenting
+        problems players must respond to by naming the character in
+        their communications to displace the threat posed by that
+        character
+      - for datamining for metagame changes or datamining to
+        understand play dynamics amongs players of varying skill
+        level, how helpful such signals would be is a great question
+        for data scientists and computational linguists.
+  - also, the zipfs distribution is likely tighter among pro players,
+    who must understand the lingo and jargon to communicate
+    effectively.
+    - viz. players of higher skill level are far more likely to be
+      using voice chat and to communicate with a more restricted,
+      higher-bandwidth set of vocabulary
+
+- analyzing the morphological aspects of zipfs' distribution in
+  gameplay can inform game designers about reactions to metagames
+  changes.
+  - so, when a new character is released on overwatch, there should be
+    significant displacement in the zipfs distribution elements for
+    character names
+
+- the analysis of my own psychology is *bullshit*, particularly with
+  regard to my professional experience in my career
+  - i am very cooperative. i am always seeking to learn and seeking
+    improvement. i am quickly willing to admit my flaws. i want to
+    succeed and i want to help others succeed around me -- REGARDLESS
+    OF THEIR GODDAMN POLITICAL AFFILLIATIONS.
+  - in my career, i have been treated like shit to be thrown away,
+    since it is assumed that i can be labelled as "crazy"
+  - crazy people aren't good leaders, they can't analyze group
+    dynamics very well and they don't understand people.
+  - i cannot wait until psychology, psychiatry and neurology are
+    augmented with sophisticated data science because the labels,
+    stereotypes and diagnoses of people who supposedly have mental
+    illness will be upended
+    - there are so many signals that will identify and distinguish
+      TRUE MENTAL ILLNESS from the fictitious and factitious disorders
+      artificially created by psychological warfare tactics.
+    - i cannot wait. what infuriates me is knowing what people (NSA,
+      etc) are out there doing with surveillance and how they are
+      systematically destroying the mental health of political
+      dissidents.
 
 # Algorithms to Detect Throwing Players
 
@@ -715,6 +891,21 @@ unique.
 #### Accumulated (via playtesting)
 
 ...
+
+### Machine learning to Identify players who are fun to play with
+
+- even if the algorithms are not accurate enough to be used, the
+  understanding that your cooperativeness (good vibes) impacts your
+  MMR ranking would itself incentivize players to be more friendly and
+  more cooperative (at least when considering the first-order effects)
+  - that is, such an algorithm wouldn't even need to "function" per
+    se. the gaming company only needs people to believe that their
+    cooperative nature impacts the matching algorithm's decisions
+- such an algorithm could potentially be augmented using EEG/neural
+  connections, which is a technology that has many implications for
+  gaming, beyond matching algorithms
+
+
 
 ### Methods for Staging/Balancing Metagame Updates
 
