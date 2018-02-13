@@ -48,3 +48,5 @@ permalink: /quotes/
 
 > Every system seemingly modern exists merely as facade, masking
 > countless strata of ancient facade.
+
+> Simple wants what simple gets.
