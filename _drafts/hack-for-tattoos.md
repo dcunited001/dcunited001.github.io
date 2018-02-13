@@ -275,6 +275,18 @@ https://en.wikipedia.org/wiki/Half_cent_(United_States_coin)
     - like 4990/5000 facts i checked over a period of 18 months would
       always check out. they checked out so consistently, that i had
       given up on finding anachronisms.
+  - again, all the "unbelievable" things that were supposed to be like
+    "predictions" would be easy to predict in 2015, but nearly
+    impossible to predict in 2013. most of the magic here was snuffed
+    out.
+  - at this point, this whole "tatiana" fabricated tattoo bullshit
+    became to resemble more of a sympathetic "last meal" than anything
+    else.
+    - it was the one "nice" thing that my enemies were going to do for
+      me. however, it wasn't nice at all. it was purely designed to
+      drive me insane, corrupt any likelihood that my testimony would
+      be accepted by anyone and present me with some bullshit fantasy
+      before the government had me killed. it was really a "last meal"
 
 - (TODO: describe more about this specific anachronism because, to me,
   this was the first "smoking gun" in my own memories)
