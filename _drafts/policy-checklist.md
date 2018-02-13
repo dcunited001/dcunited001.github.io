@@ -248,8 +248,8 @@ on transitions & filling policy positions:
 - "labor is about peace and prosperity"
 
 
+============
 
-========
 
 
 I'm mostly saving this content bc it's my responses to how democrats
@@ -330,3 +330,17 @@ completely disregards their circumstance and eventually hopeless.
 your statements are sensible, assuming that life and the economy
 will continue to unfold as it has in the 2010’s. unfortunately, i do
 not believe that it will, but i’m overly cynical and pessimistic.
+
+
+============
+
+
+# Misc Political Ideas
+
+- tax credits for demostrated linguistic fluency?
+  - not likely to work, unfortunately
+  - i think the free market would be a more effective mechanism for
+    rewarding those who learn additional languages.
+    - the free market would already remunerate you for learning
+      languages with poor knowledge distribution in the united states
+      - i.e. langauges like Arabic, Russian or Swahili

@@ -988,6 +988,14 @@ unique.
   - the discrete exterior calculus must be spatiotemporal and not just
     spatial, which really throws my mind for a loop.
 
+- these path-prediction algorithms intersect with [Euclidean Path
+  Integral](https://en.wikipedia.org/wiki/Path_integral_formulation#Euclidean_path_integrals)
+  - this is basically the anticipated, actual movement of quantum
+    particles, based on a "summation" of potential paths.
+    - however, it is not simply a direct-summation of potential paths
+      which is an important distinction. otherwise it would simply be
+      a superposition of potential paths.
+
 ### In Practice, these algorithms are far more complicated
 
 - the concept of a frequency of next moves -- or a superposition of
@@ -1003,6 +1011,8 @@ unique.
 
 
 
+###
+
 - these methods would benefit greatly from the application of the
   Ansatz quantum mechnics and QC structure. These structures are,
   unfortunately, the most efficient such computational structures for
@@ -1010,12 +1020,13 @@ unique.
   the underlying mechanics of the system.
   - but they do reach a maximum degree of efficiency, even if you can
     virtualize quantum simulations over many groupings of lower-qbit
-    systems. this begins to approach universal quantum computation,
-    which by the way [IS A FUCKING ARTICLE ON
-    WIKIPEDIA](https://en.wikipedia.org/wiki/Quantum_Turing_machine),
-    so before you set your clueless goddamn NSA spooks on me, do some
-    fucking research. fuck your dumbass family-destroying "detention"
-    bullshit.
+    systems.
+    - this begins to approach universal quantum computation, which by
+      the way [IS A FUCKING ARTICLE ON
+      WIKIPEDIA](https://en.wikipedia.org/wiki/Quantum_Turing_machine).
+      so before you sick your clueless goddamn NSA spooks on me, do
+      some fucking research. fuck your dumbass family-destroying
+      "detention" bullshit.
 
 
 

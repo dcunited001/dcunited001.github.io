@@ -235,6 +235,70 @@ https://en.wikipedia.org/wiki/Half_cent_(United_States_coin)
   tales.
 
 
+# Definite Anachronisms of These Memories
+
+- these anachronisms are always very, very difficult to identify. that
+  is, for fake memories, they sure were VERY factually coherent
+
+- (to fill in later)
+
+### Boston Marathon Bombing
+
+- she asked me when I thought the boston marathon bombing happened. I
+  said "i donno, about a year or two ago" because, to me, that's when
+  it felt like it had happened. However, we met on 5/31/2013 and
+  6/1/2013. the boston bombing had happened at the end of 4/2013, just
+  a few weeks before.
+
+- this is relevant because we also allegedly had discussions about her
+  potential role in the movie "Stronger" about the double-amputee
+  victim of the Bostom Marathon, who helped investigators track down
+  the perpetrator after the bombing occured.
+  - my memories had extended discussions about this movie, that event
+    and her potential role with Jake Gyllenhaal in the movie
+    stronger. however, i don't believe the movie producers had a
+    shortlist for actresses OR actors at that time.
+  - it is interesting that she would be so tapped in to national
+    security.
+    - there is no way a movie would be produced about a national
+      security event or terrorist bombing without being advised by DHS
+      (american or its canadian counterpart)
 
 
-#
+- all of this shit has been so fake and no one can clarify it for me
+  and **i am furious**. they prefer me to be completely confused about
+  everything: how much damage has that caused, in and of itself?
+  - what the fuck did these people do to my head? and why is the
+    VICTIM being blamed for everything?
+  - again, for what was apparently *pure delusion*, everything else
+    was factually coherent and there were only ever a few anachronism.
+    - like 4990/5000 facts i checked over a period of 18 months would
+      always check out. they checked out so consistently, that i had
+      given up on finding anachronisms.
+
+- (TODO: describe more about this specific anachronism because, to me,
+  this was the first "smoking gun" in my own memories)
+  - it took me a very long time to realize it, which the kind of stuff
+    that serendipitously saved my ass.
+    - these people thought i had swallowed everything: hook, line and
+      sinker.
+    - so, by the time I realized it was fake, there was so much
+      bullshit they had left me with. once i realized it was fake as
+      fuck, that my whole life was fake and particularly, THAT I WAS
+      RANGE BOUND, all their bullshit began to fall apart.
+
+### The Bundy Standoff
+
+- i specifically remember having a short, but brief conversation about
+  the bundy standoff with Tatiana. This event didn't even happen
+  until 2014. how was that even possible?
+
+- tatiana essentially asked me "sooo, what do you think about the
+  bundy standoff?" and i was like "well, fuck the federal government,
+  but i hope no one gets hurt"
+  - i didn't want to talk about it because she was clearly a liberal,
+    it was clearly crossing a border into "questioning" me about
+    things that would lead into a conversation where we would talk
+    about whether or not I would advocate armed revolution or
+    violence.
+    - and i would never advocate such a thing.
