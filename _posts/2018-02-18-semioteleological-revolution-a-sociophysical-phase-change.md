@@ -1542,8 +1542,6 @@ one question.
 
 
 
-[^pos-sensitive-propagation]: [Position-sensitive propagation of information on social media using social physics approach](https://arxiv.org/abs/1706.00569), Ishii A., Mizuno T., Kawahata Y., arXiv:1706.00569 [physics.soc-ph] (2017)
-
 
 [^conjoining-accelerates-information-consensus]: [Conjoining Speeds Up
     Information Diffusion in Overlaying Social-Physical
@@ -1552,9 +1550,3 @@ one question.
     DOI
     [10.1109/JSAC.2013.130606](https://doi.org/10.1109/JSAC.2013.130606)
     (2013)
-
-[^rational-choice-framework]: [A Rational Choice Framework for
-    Collective
-    Behavior](https://scholar.google.com/citations?user=dJRtiQwAAAAJ&hl=en&oi=sra),
-    Krafft, P.M., (Doctoral dissertation, Massachusetts Institute of
-    Technology), (2017)

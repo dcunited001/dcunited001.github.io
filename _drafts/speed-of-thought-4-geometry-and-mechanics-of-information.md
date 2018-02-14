@@ -308,15 +308,12 @@ excerpt: ""
 # The Informational Physics of Cultural Movements
 
 
-#### Information Consensus/Permanence (Matthew 5:18)
-
 - if sociophysical systems are probabilistic and, thus,
   non-deterministic, can the perpetuation of information (written or
   otherwise) be guarenteed?
   - what level of information is required?
   - how could such a thing be guaranteed in a probabilistic system?
 
-- meaning of "the salt of the earth" in the same chapter.
 
 Hip Hop is a modern example of how the dissemination of information
 changed the lives of millions of people living in mostly African
