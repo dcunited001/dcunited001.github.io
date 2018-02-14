@@ -731,6 +731,146 @@ Modeling](https://research.fb.com/publications/vain-attentional-multi-agent-pred
 
 # Equilibrium, Gradient and Laplacian in (poorly defined) Sociophysical Games
 
+### Equilibrium Dynamics in Wordpress Work Referrals
+
+- Say you're a web developer, but not so great at graphic design. a
+  new acquaintance approaches you with a need for a new
+  website. perhaps they ask you to work on it or maybe they just want
+  some information, but it's clearly a potential sale.
+
+- If you're a freelancer, what do you do? do you pursue the sale or do
+  you recommend them to a friend?
+  - if you're goal is building a small business, there is a correct
+    answer: does this look like a good client who pays quick and in
+    full? or at least a client connected to additional business?
+
+- what about a friend of yours in the same situation?
+  - would they refer the potential client to you or try to pursue the
+    prospect themselves?
+  - if they chose to refer you to the potential client, why did they
+    select you?
+    - (was it because it was a bad/inefficient client, lol)
+    - you don't want clients that don't pay quick/readily. it burns
+      you out and leaves you drained.
+
+- while this isn't a situation with clear equilibrium dynamics, there
+  is a clear game here:
+  - how would you or your friend make your decision?
+  - how does your decision affect your freelancing or small business
+    over the next 6-12 months?
+    - how can you know the client would help you grow?
+    - can you assert whether the client is well-connected and is
+      someone who might give you good referels?
+      - people who don't have much but connections (if any at all)
+        love to talk about their connections.
+      - people with their shit straight don't need to talk about their
+        connections. and if their connections are *really that good*
+        (like celebs or a great agent) then their connections might
+        not want to be tightly connected to someone who namedrops
+        because they need to
+        - besides, real people value themselves and their own
+          authenticity. they don't need to namedrop to puff themselves
+          up because they know how to get high on their own supply
+          just fine. that said, everybody needs a good hype man
+          ... just not any hype man.
+        - real people who are down-to-earth value authenticity and
+          produce social/financial value. "real recognize real". they
+          speak through action, not words. they don't need to sell you
+          on their network because they have what you need and if you
+          don't want it, they know plenty of people who value them for
+          their authenticity.
+          - it's different in tinsel-town for sure.
+
+- understanding the game above is crucial for anyone who wants to grow
+  a small business. it's just as critical when deciding who to spend
+  your time with or who to grow your life with.
+  - people are too narcissistic these days to realize this quite
+    often.
+  - or they mistake social media success as being a good indicator for
+    success in life.
+  - i really don't care how many likes i get on my photos/posts. what
+    irritates me is knowing that, since everything I post gets zero
+    interactions, it means i'm filtered out of all newsfeeds and
+    practically invisible to everyone glued to their phone.
+    - this is particularly damaging to someone who has never been
+      taught to cold-approach anyone in their life,
+      - who's been defamed by a bunch of false information,
+      - censored in social media
+      - and chased out of a every social circle he tries to be part
+        of, while no one can tell him why: jamskating, a web
+        development career, startups, drug culture, the technology
+        world, academia, bboying, hiphop...
+      - everything i try to be a part of, people can't help themselves
+        but try to figure out how to get rid of me as fast as possible
+        because at least now I'm someone else's problem.
+        - i'm too much of a risk, i'm too infamous and defamed (i'll
+          bring the wrong kind of attention to them), i've pissed off
+          too many people
+        - people act like they'll look bad standing beside me because
+          they're more worried about whether they'll be judged for
+          being to close to someone who's all too easy to judge than
+          simply being there for a person who's been systematically
+          isolated
+          - thank God I'm too autistic to be worried about backwards
+            thinking like that. I've been too hurt all my life to
+            worry about what other people might think of me for
+            getting close to someone else who's been hurt. and group
+            dynamics have never come naturally to me.
+
+#### Side Track
+
+  - whenever i find myself in the business referrel game above, I
+    invariably pass because i can think of at least 5 people more
+    skilld at *web design* who would be eager to do the work, would
+    deliver it for a lower price, earn higher profit margins and would
+    overall do a better job.
+    - so i almost always recommend a potential sale to a friend
+      instead. it has nothing to do with my capability.
+    - instead, I die a little on the inside when i think about
+      spending my time doing web design for pennies, instead of
+      learning math, writing about philosophy, working on a backlogged
+      startup idea, watching a lecture or doing almost anything else
+      that I am driven to do.
+    - i appreciate the people who've tried to help me with potential
+      prospects for web design. however, i'm not good at graphic
+      design or UI/UX and I know how much time it will take me to
+      deliver compared to someone else and, ultimately, how much time
+      it will detract from the pursuit of my true passions.
+    - all of them and every one of them is worth far more money to me
+      than starving, while i'm unhappy, spun out and distracted from
+      my true goals in life.
+      - it doesn't play out well when you try to explain this to
+        someone who knows you do "web stuff" but doesn't understand
+        why your asperger's brain isn't well-suited for UI/UX, graphic
+        design and content writing for what amounts to a brochure
+        website.
+      - this person, after all is just trying to help you out. i know
+        myself and i know my mind. what i would be doing is giving up
+        on every dream to chase $500 or less for every client, ending
+        up with `n` number of clients, whose websites I must maintain
+        for little to nothing. once i have about 10 clients, all of my
+        time instead becomes focused on responding to emails, thinking
+        SLOWLY about graphic design, and supporting existing clients,
+        while thinking about growing a small business I never wanted
+        in Roanoke, where every web developer fights to the death over
+        table scraps.
+
+- whenever I pursue work, it's because the work appeals to some
+  passion I have. furthermore, I will not contribute to or gain
+  monetarily from something I fundamentally disagree with. I never
+  have and I never will. I vote with my dollar and more importantly,
+  I'll never give my sweat, my blood, my soul or a dollar to something
+  I disagree with...
+  - the point is, I don't want to waste my time chasing the first
+    opportunity that comes along. if i work with you, it's never about
+    dollars and cents first. it's because I find something you do or
+    something about you important to changing the world, either
+    directly or indirectly by empowering me to change things without
+    empowering what i disagree with.
+
+
+
+
 
 
 ### Detecting Obsequity, Duplicity and Malice
@@ -798,11 +938,12 @@ Modeling](https://research.fb.com/publications/vain-attentional-multi-agent-pred
   - is always, *always*, **always** looking for something
     - this "something" can sometimes be more abstract, but they are
       always trying to find something
-    - the person looking for nothing is usually crazy or spiritual
+    - the person looking for nothing is usually crazy, stupid or
+      perhaps spiritual
       - but even people who state/appear to be looking for nothing are
         just masking their intent.
-      - people who mask their intent acting on their own volition
-        ... are often ppl to be wary of
+      - people (who mask their intent acting on their own volition
+        (ambiguous)) ... are often ppl to be wary of
         - or they are just people who like privacy ...
 
 - interesting deductions can be made about someone's psychology by
