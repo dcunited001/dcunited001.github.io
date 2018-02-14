@@ -9,6 +9,7 @@ excerpt: ""
 ---
 
 - TODO: DG Sever Rime
+- TODO: semioteleological metaphor “to eat”
 
 - [Useful Idiot](https://en.wikipedia.org/wiki/Useful_idiot)
 
@@ -18,7 +19,6 @@ excerpt: ""
 #### Magus In Search of Schala
 
 - ![]()
-
 
 - competitive symbology
   - through the ages and in modern infowars.
@@ -952,7 +952,7 @@ recombinated through the ages.
       - did it connect moreso to the idea of the evoluation into the
         ubermensche? isn't this idea of moderate artificial conflict
 
-- "Those who fall into th web will be tested" - provocation of
+- "Those who fall into the web will be tested" - provocation of
   artificial conflict, similar to baptism by fire, to test the worth,
   merit or specific utility of individuals -- or to push them out
   altogether if they prove useless or risky
@@ -974,6 +974,18 @@ recombinated through the ages.
 - people who excel or are strongest when living within a world that is
   a lie, and a lie that is ostensibly constructed specifically or
   generally for their own detriment.
+  - (how this is perfect for dealing with ideologies based on lies,
+    like communism, which must extinguish all other knowledge systems
+    in order to ensure nothing threatens its own utopic reality
+    constructed additively from the materialistic metaphysical)
+    - i need to reword the above ideas, but the perfect allusion for
+      this is Yaldaboath, the ignorant god-like being from Gnosticism
+      who deems itself as God because it can see nothing above itself.
+      - this being arrogantly assumes itself to be God because it can
+        conceive of nothing higher and nothing greater.
+  - the perfect way to deal with such nonsense, whether systems of
+    knowledge constructed
+
   - if you dupe your enemy into creating a reality that is false and
     you hold the keys to demonstrate that their strongly constructed
     reality is false, you have power to live within smaller lies of

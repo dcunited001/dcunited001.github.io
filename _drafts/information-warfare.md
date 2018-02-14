@@ -308,7 +308,9 @@ headline: "Informational Territory > Sociohierarchical Territory > Economic Terr
 #### Telecom/networking infrastructure
 
 - this has more geographic trends
-
+- signal bands as “territory type” in information warfare
+  - more logically defined “spaces” in signal protocols (CDMA/TDMA)
+  - FCC/military is already well aware of this
 
 #### Spectral De/coherence
 
@@ -334,6 +336,7 @@ headline: "Informational Territory > Sociohierarchical Territory > Economic Terr
 - difficulty in advancement, mobility
 - significance and "well-definedness" of rank/position
 - duty of rank/position
+
 
 
 #### Types of Institutions

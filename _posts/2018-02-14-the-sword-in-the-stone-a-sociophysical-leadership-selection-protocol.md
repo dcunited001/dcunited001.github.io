@@ -10,6 +10,8 @@ excerpt: ""
 
 ## [What Was The Sword in the Stone?](#the-sword-in-the-stone)
 
+#### [Do People Look Greater from the Outside Looking In?](#do-people-look-greater-from-the-outside-looking-in)
+
 #### [A Myth To Test The Mettle and Steel of the Ideal King](#a-myth-to-test-the-mettle-and-steel-of-the-ideal-king)
 
 #### [The Galvanization Of The Strongest Leader](#the-galvanization-of-the-strongest-leader)
@@ -47,13 +49,32 @@ such a myth, probably crafted by Merlin -- or the unknown historical
 Merlin. While perhaps not a myth of this mysteriously vague
 Illuminati, it is fascinating all the same.
 
-Merlin was the classic wizard: someone who wove together the fates of
-men from the shadows of the ostensibly greater men; someone who defied
-common comprehension and still does, 1,500 years later.
+<a name="do-people-look-greater-from-the-outside-looking-in" />
+
+### [Do People Look Greater from the Outside Looking In?](#do-people-look-greater-from-the-outside-looking-in)
+
+Merlin was the classic wizard: someone who defied common comprehension
+and still does, 1,500 years later; someone who wove together the fates
+of men from the shadows of the seemingly greater men. Do men like
+Merlin and John Dee derive their power by working from the shadows? If
+greatest twists in history were known to emerge from the loom of their
+magick, does the nature of such wizards' work preclude them from
+greatness? Do their works lose power once the hermetic seal is
+loosene? Do such men only attain their level of knowledge after a
+tragic life of seclusion, burdening them with informational baggage
+too inconvenient to withstand the spotlight? If so, then the guy
+standing in the limelight doesn't really have the awesome
+sauce. Someone close to him might be putting him on. I wonder if they
+know.
+
+
 
 #### John Dee - [Mona's Hieroglyphica](https://en.wikipedia.org/wiki/Monas_Hieroglyphica), the Hieroglyphic Monad
 
-![John Dee](/img/posts/2018-01-22-semioteleological-revolution/john-dee-hieroglypic-monad.jpg)
+> How would John Dee fair if he could warp into a future or past, free
+> to start fresh?
+
+![John Dee](/img/posts/2018-02-14-the-sword-in-the-stone-a-sociophysical-leadership-selection-protocol/john-dee-hieroglypic-monad.jpg)
 
 <a name="a-myth-to-test-the-mettle-and-steel-of-the-ideal-king" />
 
@@ -128,19 +149,9 @@ leader to them? That is the conception they needed to form in their
 minds, followed by the action the most perseverent among them would
 surely take to become the strongest individuals they could be.
 
-#### Arthur, the Undefeatable King, Exclaims "EXCALIBER!"
+#### Arthur, the Undefeatable King, Exclaims "Excaliber!" [^excelsior]
 
-> No, it's ... not "[Excelsior](https://github.com/dcunited001/bb8)",
-> as strange as it is [that Bobby]() knew what the [NY Overwatch
-> team](http://liquipedia.net/overwatch/New_York_Excelsior) is
-> named. This is a fascinating scene. Not much left of the 'Castor'
-> servant after this&nbsp;&nbsp;point. Excelsior also refers to wood
-> chips used in fragile 'packeges' needed to be handled with care.
-
-- TODO: footnote
-  - also mention the other meaning of excelsior
-
-![Arthur, the Undefeatable King, Exclaims "EXCALIBER!"](/img/posts/2018-01-22-semioteleological-revolution/saber-undefeatable-king.jpg)
+![Arthur, the Undefeatable King, Exclaims "EXCALIBER!"](/img/posts/2018-02-14-the-sword-in-the-stone-a-sociophysical-leadership-selection-protocol/saber-undefeatable-king.jpg)
 
 This is social engineering at its finest: the methods were not forced,
 but if these theories hold up, these methods would have been
@@ -152,7 +163,6 @@ structures are hierarchical. The power you wield derives from the
 people to whom you could signal; it can be measured by the level of
 influence you can exert over 2&deg; and 3&deg; social neighborhoods,
 although "influence" itself is a bit hard to quantify.
-
 
 <a name="arthur-the-unlikely-but-certain-hero" />
 
@@ -171,7 +181,7 @@ leadership or abruptly tear them down. Why an intelligent hero? If the
 were intelligent enough to solve the sword in the stone, they could be
 best molded into the perfect leader for the early British Isles.
 
-![The Sword in the Stone](/img/posts/2018-01-22-semioteleological-revolution/sword-in-the-stone.jpg)
+![The Sword in the Stone](/img/posts/2018-02-14-the-sword-in-the-stone-a-sociophysical-leadership-selection-protocol/sword-in-the-stone.jpg)
 
 <a name="the-karmic-consequences-of-power-a-sociophysical-paradox" />
 
@@ -276,7 +286,6 @@ be familiar with the financial, labor, and materials costs to set a
 firm defense nor could you be confident in your offense and military
 logistics.
 
-
 The ideal time to apply this process is well after everyone across the
 land has given up on solving it, otherwise people will steal the idea
 you are using to break the sword free, defeating the entire purpose of
@@ -348,7 +357,7 @@ Tablets](https://en.wikipedia.org/wiki/Emerald_Tablet) implies.
 
 #### The Emerald Tablets, Rumored not Authored in this Plane
 
-![Egyptian Emerald Tablets](/img/posts/2018-01-22-semioteleological-revolution/emerald-tablets.jpg)
+![Egyptian Emerald Tablets](/img/posts/2018-02-14-the-sword-in-the-stone-a-sociophysical-leadership-selection-protocol/emerald-tablets.jpg)
 
 <a name="social-physics-event-driven-programming" />
 
@@ -370,6 +379,17 @@ important events, without necessarily knowing why.
 
 - disrupting these decision-making capability of these power
   structures by disrupting their communication networks and
-  introducing novel information and cultural
-  practices. (i.e. Christianity to paganism)
+  introducing novel information and cultural practices.
+  (i.e. Christianity to paganism)
   - this is not an endorsement of this tactic.
+
+
+[^excelsior]: No, it's excalibur ... not
+    "[Excelsior](https://github.com/dcunited001/bb8)", as strange as
+    it is [that Bobby](https://github.com/dcunited001/bb8) knew what
+    the [NY Overwatch
+    team](http://liquipedia.net/overwatch/New_York_Excelsior) is
+    named. This is a fascinating scene. Not much left of the 'Castor'
+    servant after this&nbsp;&nbsp;point. Excelsior also refers to wood
+    chips used in fragile 'packeges' needed to be handled with care
+    and to "superior quality" in hotel branding, supposedly.
