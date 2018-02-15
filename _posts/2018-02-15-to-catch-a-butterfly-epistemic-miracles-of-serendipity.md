@@ -397,9 +397,9 @@ emerged ad hoc.
 
 Even human bodies can reflect systemic pressures and behaviors, which
 is the study of [Human Factors and
-Ergonomics](https://en.wikipedia.org/wiki/Human_factors_and_ergonomics). Doctors
-and people with extensive knowledge of how stress from specific
-activities gradually wear down the body could leverage a
+Ergonomics](https://en.wikipedia.org/wiki/Human_factors_and_ergonomics)
+-- HF&E. Doctors and people with extensive knowledge of how stress
+from specific activities gradually wear down the body could leverage a
 semioanatomical language to communicate informally with each
 other. How? *Theoretically*, people who understand human factors and
 repetitive strain injuries could encourage targets to engage in
@@ -407,6 +407,8 @@ specific activities that induce a specific RSI that signifies the
 functional nature of the cause of the RSI. This is similar to marks on
 the body or in memories that are used in occult practice and
 witchcraft.
+
+### 歯齒: Where's Your Teeth?
 
 For example, encouraging a young programmer to use Emacs can result in
 a characteristic reptitive strain injury that any person with
@@ -423,11 +425,51 @@ smile in youth. This happened to me around age 12: people have
 noticed, though I can't say it triggers specific autonomous handling
 behavior.
 
+#### Little Known Kanji Trivia: `齒 - （4人+1）＋米 = 歯`
+
+> In 1946, the United States introduced major changes to the writing
+> system. [米](https://jisho.org/search/%E7%B1%B3%20%23kanji)
+> indicates rice, but also loosely implies USA or [88 years
+> old](http://www.sosekido.com/beiju-is-88-years-old/). So, within the
+> span of about a year, we forced the Japanese simplify many of their
+> kanji and I still don't understand how we got them to agree to this
+> so quickly. [歯](https://jisho.org/search/%E6%AD%AF%20%23kanji) is
+> the current Kanji for teeth and
+> [齒](https://jisho.org/search/%E9%BD%92%20%23kanji) was used at
+> least during the Meiji period. These are glyphic mutations where an
+> implied meaning could be conveyed semiotically, without needing to
+> ever signal anything. The Allies forced this cultural transition
+> while still cooperating with the USSR, but before Communist China
+> implemented Simplified Chinese in the Cultural Revolution.
+
+
+If you wanted to hand people off in the medical or psychiatric system
+for autonomous, decentralized handling, abusing HF&E to induce
+specific RSI's is the perfect way to do it, without leaving a
+trace. Another method for passing information autonomously is to
+encode meaning into misspellings, misnomers and bad information
+planted into targets as "passwords" which loosely indicate handling
+instructions. The human mind is a like a file system. To some,
+incorrect facts and spellings stick out like a sore thumb. This
+protocol can be used as a decentralized communication channel,
+autonomous out of its reliance on semiotics to convey information
+universally.
+
+#### Ever Get A Hot Babe's Number After Doing A Triple Take As She Walks By?
+
+So... if you've ever seen that puzzled look when you mistate something
+with the utmost confidence and the person you're talking to *triple
+checks* what you just said -- with all the feigned nonchalanace of a
+hopeful extra in a bad movie.
+
+OK, now I'm just being flagrantly paranoid LOL. However, my paranoia
+drives my intelligence and I'm capable of checking myself. As long as
+people aren't gaslighting me, I'm completely fine. The problem is
+everything I already know.
+
 <a name="all-roads-lead-to-rome" />
 
 ### [All Roads Lead to Rome](#all-roads-lead-to-rome)
-
-
 
 When people follow the footsteps of others, the trodden paths give way
 to trails, eventually paved for vehicles. This begins to tightly
