@@ -44,6 +44,11 @@ excerpt: ""
 
 
 
+# [Trackless: He Has Destroyed Mara's Vision](#trackless-he-has-destroyed-maras-vision)
+
+### [What does it mean to leave tracks?](#what-does-it-mean-to-leave-tracks)
+
+
 <a name="epistemic-miracles-of-serendipity-are-incomputable" />
 
 # [Epistemic Miracles of Serendipity Are Incomputable](#epistemic-miracles-of-serendipity-are-incomputable)
@@ -359,32 +364,70 @@ drainage flows shift in a neighborhood, it can cause major shifts that
 manifest physically as second and third order effects, visible or
 discernable in building structures.
 
-What does it mean to leave tracks? If you've left tracks, isn't it
-easy to be followed? These are sources of valuable information
-normally filtered out before it reaches a conscious level. The story
-painted by aggregate information encoded onto surfaces provides you
-with probability distributions that tell you about common behavior
-patterns. In buildings, the doorways, Feng Shui attention magnets and
-other anchors in the space tend to root characteristics of these
-distributions. You'll notice the carpeting near doorways degrades
-faster. Around sidewalks, if there is heavy foot-traffic, then the
-grassy areas near the intersections of walkways will degrade faster
-and will almost certainly be brown, depending on the level of foot
-traffic. The traffic patterns are rooted by the walkways, which were
-often overlaid atop the well-trodden paths that emerged ad hoc.
+<a name="what-does-it-mean-to-leave-tracks" />
 
-#### Virginia Tech Positioned Its Drillfields
+### [What does it mean to leave tracks?](#what-does-it-mean-to-leave-tracks)
+
+If you've left tracks, isn't it easy to be followed? These are sources
+of valuable information normally filtered out before it reaches a
+conscious level. The story painted by aggregate information encoded
+onto surfaces provides you with probability distributions that tell
+you about common behavior patterns. In buildings, the doorways, Feng
+Shui attention magnets and other anchors in the space tend to root
+characteristics of these distributions. You'll notice the carpeting
+near doorways degrades faster. Around sidewalks, if there is heavy
+foot-traffic, then the grassy areas near the intersections of walkways
+will degrade faster and will almost certainly be brown, depending on
+the level of foot traffic. The traffic patterns are rooted by the
+walkways, which were often overlaid atop the well-trodden paths that
+emerged ad hoc.
+
+#### Virginia Tech Positioned Its Drillfield Walkways Upon The Most Worn Paths
 
 > The walkways here are actually the basis of a quasi-graph structure
 > with both discrete and continuous elements. Graphs of varying
 > complexity can be produced by processing the distribution data in
-> various means.  Virginia Tech, however, won't ever acknoledge me and
-> it appears that its professional staff has been instructed not to
-> respond to any communications.
+> various means.[^no-love-from-academia]
 
-![Virginia Tech Drillfield]()
+![Virginia Tech Drill Field](/img/posts/2018-02-14-to-catch-a-butterfly-epistemic-miracles-of-serendipity/)
 
-- human ergonomics
+<a name="marking-the-bodies-of-targets-with-repetitive-strain" />
+
+### [Marking The Bodies of Targets With Repetitive Strain](#marking-the-bodies-of-targets-with-repetitive-strain)
+
+Even human bodies can reflect systemic pressures and behaviors, which
+is the study of [Human Factors and
+Ergonomics](https://en.wikipedia.org/wiki/Human_factors_and_ergonomics). Doctors
+and people with extensive knowledge of how stress from specific
+activities gradually wear down the body could leverage a
+semioanatomical language to communicate informally with each
+other. How? *Theoretically*, people who understand human factors and
+repetitive strain injuries could encourage targets to engage in
+specific activities that induce a specific RSI that signifies the
+functional nature of the cause of the RSI. This is similar to marks on
+the body or in memories that are used in occult practice and
+witchcraft.
+
+For example, encouraging a young programmer to use Emacs can result in
+a characteristic reptitive strain injury that any person with
+knowledge of programming might recognize as a common RSI in computer
+fields. If the injury is fairly rare, at least in combination with
+information about the target, it can act as a signifier for an
+initiate to handle the target in a specific way, with zero
+communication. This would almost certainly never happen. Another
+example: encouraging someone with Asperger's to grind their canines in
+youth will round off their teeth and may act as a signal to anyone who
+knows what that means, even though the target who acquired the mark
+was clueless -- because they wouldn't want to permanently damage their
+smile in youth. This happened to me around age 12: people have
+noticed, though I can't say it triggers specific autonomous handling
+behavior.
+
+<a name="all-roads-lead-to-rome" />
+
+### [All Roads Lead to Rome](#all-roads-lead-to-rome)
+
+
 
 When people follow the footsteps of others, the trodden paths give way
 to trails, eventually paved for vehicles. This begins to tightly
@@ -393,36 +436,11 @@ lead to Rome, so to speak, how hard is it to infer your destination
 and your origination? Your coming and your going?
 
 
-- all roads lead to Rome
 
+### Robert Frost - [The Road Not Taken](http://te.xel.io/writing/)
 
-### Robert Frost - The Road Not Taken
+![The Road Not Taken](/img/posts/2018-02-14-to-catch-a-butterfly-epistemic-miracles-of-serendipity/the-road-not-taken.jpg)
 
-![The Road Not Taken]()
-
-#### Two roads diverged in a yellow wood,
-#### And sorry I could not travel both
-> And be one traveler, long I stood
-> And looked down one as far as I could
-> To where it bent in the undergrowth;
-
-> Then took the other, as just as fair,
-> And having perhaps the better claim,
-Because it was grassy and wanted wear;
-Though as for that the passing there
-Had worn them really about the same,
-
-And both that morning equally lay
-In leaves no step had trodden black.
-Oh, I kept the first for another day!
-Yet knowing how way leads on to way,
-I doubted if I should ever come back.
-
-I shall be telling this with a sigh
-Somewhere ages and ages hence:
-Two roads diverged in a wood, and I—
-I took the one less traveled by,
-And that has made all the difference.
 
 
   - regardless of how proficiently manipulative someone might be, when
@@ -559,3 +577,16 @@ allow="autoplay; encrypted-media" allowfullscreen></iframe>
     Maglio, P. (1994), [On Distinguishing Epistemic from Pragmatic
     Action](https://doi.org/10.1207/s15516709cog1804_1). Cognitive Science, 18:
     513–549. doi:[10.1207/s15516709cog1804_1](https://doi.org/10.1207/s15516709cog1804_1)
+
+[^no-love-from-academia]: Virginia Tech, however, wouldn't ever
+    acknoledge me precisely because of the argument I've made in this
+    article: regardless of its source, the information about my
+    identity implies all doors of opportunities are slammed in my
+    face. Further, it appears that VCOM's leadership instructed its
+    staff not to respond to any communications from me or I was
+    instantaneously [caught in their spam
+    filters](https://www.facebook.com/photo.php?fbid=10204369048622973&set=a.1054024247508.7365.1732883075&type=3&theater). In
+    October 2017, [I emailed 200 of VCOM
+    staff](/img/writing/emailed-200-ppl-with-a-dozen-individualized-messages.png)
+    with a dozen emails, each crafted to the medical research team's
+    specific focus.
