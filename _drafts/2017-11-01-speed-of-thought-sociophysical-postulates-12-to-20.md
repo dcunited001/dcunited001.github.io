@@ -12,6 +12,11 @@ excerpt: ""
   series of possibilities and it's shape is similar to that of
   high-dimensional convergent knots)
 
+- [Nonlinear dimensionality reduction for faster kernel methods in
+  machine
+  learning](https://www.youtube.com/watch?time_continue=121&v=ULFzxq0u_mI)
+
+
 #### Multiplicity of Karmic Consequences
 
 - everything is all one. all events and karmic course of
@@ -810,18 +815,8 @@ Enthalpy](/img/posts/2017-10-21-speed-of-thought-twenty-postulates-of-social-phy
 
 - rearrange the following
 - (understanding how this relates to game theory and the equilibrium
-  dynamics above is fascinating)
-  - regardless of how proficiently manipulative someone might be, when
-    you free yourself of negative intention, then decoupling yourself
-    from any predisposition of intentionality, etc/etc... gradually
-    becoming formless, you cannot be predicted/anticipated/etc.
-    - why is this? is it because all manipulative/evil people must be
-      driven by attachments to their desires/etc?
-      - if so, are those who progress through and embody these states
-        of mind necessarily pure? does this progression move towards
-        an ideal that is the opposite of the being Mara epitomizes?
-        - or is it instead a state purely devoid of the elements
-          required for suffering/evil?
+  dynamics above is fascinating: focus on the connections to game
+  theory and link to the other article)
 
 - Mara only comprehends men who seek the path of least resistence, not
   fluid men who do not conform to any worldly desires or mechanisms of
@@ -829,52 +824,6 @@ Enthalpy](/img/posts/2017-10-21-speed-of-thought-twenty-postulates-of-social-phy
   - Henry David Thoreau quote "the path of least resistence leads to
     crooked rivers and crooked men"
   - such a path is useful sometimes.
-
-#### "Be Water, My Friend"
-
-- someone who (understands, absorbs, reacts to) the presence of the
-  sets of objectified equilibria that determine, is (wise...)
-  - someone who is free from attachment to and desire for (obtaining,
-    maintaining, altering) any particular set of equilibria is not
-    only fluid, but incomprehensible to Mara (the Evil One)
-    - they become quite literally invisible to even the most
-      (manipulative/deceitful) groups of people, who can't conceive of
-      someone who could not be controlled by desire or attachment
-    - "trackless, he has destroyed Mara's vision..."
-      - footsteps (Kino ep. 3)
-
-  - wisely, they act today with the possibilities of tomorrow in mind:
-    they conserve their potential energies to maximize any potential
-    transformation they may need in the future
-    - this is usually (...always?) best done by minimizing your
-      informational footprint.
-
-- when (many people together) become fluid by abandoning attachment to
-  attainment and control,
-  - this means that collectively, (Mara is blind to them) AND their
-    fluidity. the greater the number of people who escape
-    (self-ordained) objectification of reality, the greater the
-    composition of the social fluid that is most agile.
-  -
-
-- of course, the inverse: the more people who are bound to the
-  expedient/pragmatic/etc attainment of their desires, (the more
-  people that are available for evil to use.)
-  - (this section needs to be re-outlined)
-  - these people will always arrange themselves hierarchically.
-    - forming a "tree-like" graph with more and less tightly connected
-      regions. the less connected regions are usually where the most
-      and least powerful nodes in the social graph reside (~ expander
-      graph)
-      - but power always corresponds to a greater range of 1st/2nd
-        degree connections across the social graph
-  - again, these people will always begin to arrange themselves
-    hierarchically.
-    - in some cases, the same people to define sin will *encourage
-      some sin* as a means of creating mechanisms of control across
-      the graph.
-    - the people in control will be very interested in learning your
-      desires/needs/vices/sins to entice you with them.
 
 #### While Visually Similar to The Folding Funnel, The Structure of
       Dante's Inferno Functions as the Opposite, With Infinitessimal
