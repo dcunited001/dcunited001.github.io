@@ -14,6 +14,8 @@ permalink: /quotes/
 > That which is rarely found is always a greater treasure. The
 > greatest treasure is that which is never shown.
 
+> Once you find an anonymous martyr, then there are no more.
+
 > Thoughts belong to those who think them.
 >
 > Words belong to those who write them.

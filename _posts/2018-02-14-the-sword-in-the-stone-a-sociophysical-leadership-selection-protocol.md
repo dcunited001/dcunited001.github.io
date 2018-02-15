@@ -2,11 +2,29 @@
 title: "The Sword in the Stone: A Sociophysical Leadership Selection Protocol"
 categories: "blog"
 tags: "social-physics"
-headline: "The Illuminati is the Anti-Santa"
+headline: "Arthur, the Unlikely, But Certain Hero"
 author:
   name: "David Conner"
-excerpt: ""
+excerpt: "
+Merlin was the classic wizard: someone who defied common comprehension
+and still does, 1,500 years later; someone who wove together the fates
+of men from the shadows of the seemingly greater men. Do men like
+Merlin and John Dee derive their power by working from the shadows? If
+greatest twists in history were known to emerge from the loom of their
+magick, does the nature of such wizards' work preclude them from
+greatness? Do their works lose power once the hermetic seal is
+loosene? Do such men only attain their level of knowledge after a
+tragic life of seclusion, burdening them with informational baggage
+too inconvenient to withstand the spotlight? If so, then the guy
+standing in the limelight doesn't really have the awesome
+sauce. Someone close to him might be putting him on. I wonder if they
+know."
 ---
+
+> Japanese culture is like a vineyard for my soul: little refreshing
+> grapes brewed into an intoxicating culturing wine called anime.
+> Depending on how well each bottle has been fermented, it can be
+> quite excellent.
 
 ## [What Was The Sword in the Stone?](#the-sword-in-the-stone)
 
@@ -50,8 +68,7 @@ generation, that function to establish filters that cause the
 virtuous, righteous and intelligent to sift higher into society, so
 that their society is as strong as possible. The sword in the stone is
 such a myth, probably crafted by Merlin -- or the unknown historical
-Merlin. While perhaps not a myth of this mysteriously vague
-Illuminati, it is fascinating all the same.
+Merlin.
 
 <a name="do-people-look-greater-from-the-outside-looking-in" />
 
@@ -398,7 +415,6 @@ inherent to probabilistic systems.
 #### An Enthralling Discussion Of Probability Ensues
 
 ![All The Probability Distributions](/img/posts/2018-02-14-the-sword-in-the-stone-a-sociophysical-leadership-selection-protocol/all-the-probability-distributions.jpg)
-
 
 Consider a probability distribution of events where the frequency
 values for event types are aggregated typologically. That is, you're

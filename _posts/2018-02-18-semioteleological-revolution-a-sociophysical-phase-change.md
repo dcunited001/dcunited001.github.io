@@ -16,6 +16,10 @@ excerpt: ""
 ![DG Sever Rime](/img/posts/2018-01-22-semioteleological-revolution/dg-sever-rime.jpg)
 
 
+driving sociopolitical churn with a dichotomous sword to harness
+siphoned energy of each fearful swing, raping america like
+black-bagged prisoners trapped in Poe's the Pit and the Pendulum.
+
 #### Magus In Search of Schala
 
 - ![]()
@@ -33,6 +37,11 @@ excerpt: ""
 
 ## [What Does Metaphysics Have To Do With The Illuminati, Anyways?](#what-does-metaphysics-have-to-do-with-the-illuminati)
 
+#### [Materialistic Metaphysics Epistemologically Detaches The Followers From A Prevalent Sociocultural Order](#materialistic-metaphysics-epistemologically-detaches-the-followers-from-a-prevelant-sociocultural-order)
+
+#### [You Must Choose Between Material Or Idealistic: Go!](#you-must-choose-between-material-or-idealistic)
+
+## [What Is Socioepistemological Churn](#what-is-socioepistemological-churn)
 
 
 #### (socioepistemological churn)
@@ -214,13 +223,44 @@ determines the course of all phenomena through fate.
 
 #### .... Safe Spaces, Am I Right? Who TF Invited That Saw Guy Anyways?
 
+To say that a degree in philosophy is worthless is ignorant as
+hell. These ideas are unbelievably powerful, but it seems that to
+convey philosophical ideas to the average American constitutes treason
+these days, regardless of whether you learned about them in University
+or on Wikipedia -- or whether those ideas have existed for decades or
+centuries. The poor twit that doesn't learn about philosophy is
+someone else's clueless pawn lost in a maze they can't even see. When
+you try to acknowledge that labyrinth for what it is or manage to
+significantly call the public's attention to it, you are quickly
+labeled a threat by both sleeping sheep and woke lions.
 
-### In A World Where The Only Constant Is Change
+#### My Life In A Modern Day [Pit and the Pendulum](https://en.wikipedia.org/wiki/The_Pit_and_the_Pendulum)
 
-- what is socioepistemological churn and is this the proper term?
-  - sociophysical flux/churn could be defined as changes in how
-    groups/regions of people understand the world through belief
-    systems and epistemological structures.
+> Put a black bag over his head and that's ... *not* David Conner.
+
+![The Pit and the Pendulum](/img/posts/2018-01-22-semioteleological-revolution/pit-and-the-pendulum.jpg)
+
+If you manage to get people to think, you might find yourself labeled
+as a great traitor of history, awaiting what only seems to be a mock
+execution, suffering without understanding your crimes or your fate in
+[The Pit and the
+Pendulum](https://en.wikipedia.org/wiki/The_Pit_and_the_Pendulum). These
+deceivers always choose a victim who is clueless to their torment
+because it means they have maximal freedom with regard to perpetuating
+their lies and minimal potential for liability.
+
+<a name="what-is-socioepistemological-churn" />
+
+# [What Is Socioepistemic Churn](#what-is-socioepistemological-churn)
+
+Socioepistemological flux and churn covers regional and
+sociohierarcical changes in how people understand the world through
+belief systems and epistemological structures. Both the macrocosmic
+and microcosmic aspects of socioepistemological flux and churn are
+relevant to to constructing a systemic understanding of how people's
+accepted reality changes in response to what they experience in life.
+
+
   - (1) churn of social consequences mainly resulting from how
     epistemological structures are rooted in either the idealistic or
     ideal conceptions of the metaphsyical
@@ -242,6 +282,10 @@ determines the course of all phenomena through fate.
         computation energy & time or by directing the acquisition of
         knowledge
 
+<a name="dominating-consensus-reality-in-a-world-where-the-only-constant-is-change" />
+
+### [Dominating Consensus Reality In A World Where The Only Constant Is Change](#dominating-consensus-reality-in-a-world-where-the-only-constant-is-change)
+
 - consensus reality (as a long-term information as part of a
   context/frame)
   - deviation from a single consensus reality
@@ -249,8 +293,18 @@ determines the course of all phenomena through fate.
   - multiple acceptable consensus realitiess
   - gradual psychosocial migration of a group from one consensus
     reality to another
+    - calculated socioepistemological migration conceived as coldly as
+      a web applications data migration from one SQL database schema
+      to the next.
+    - what do such socioepistemological migrations entail? how do you
+      systematically transform the schemata of various social groups?
+      the answers are dark.
+    - How do these people handle threats to consensus reality breaking
+      world? what is "the" world anyways? Is it truly the physical
+      first? Or doesn't the physical congeal itself to reflect the
+      metaphysical?
 
-### What *Might* You Conceive With Your Mind?
+### [What **Might** You Conceive With Your Mind?]()
 
 - socioepistemological churn:
   - how people's conceptions of society reinforce or diffuse the
@@ -282,6 +336,8 @@ determines the course of all phenomena through fate.
         phenomonon) determines how groups of people view the range of
         paths available and whether they are free from the chains of
         fate.
+      - so people who are primarily materialistic will exhibit a
+        greater response to socioepistemic
     - for better or worse, people who accept their fate can be trapped
       within a idealistic reality that is detached from their
       individual capacity.
@@ -1540,9 +1596,6 @@ one question.
      by rooting your dialectic and understanding in the ideal
      ... which is basically the Hegelian dialectic anyways.
 
-
-
-
 [^conjoining-accelerates-information-consensus]: [Conjoining Speeds Up
     Information Diffusion in Overlaying Social-Physical
     Networks](https://arxiv.org/abs/1112.4002v2), Osman Yagan, Dajun
@@ -1550,3 +1603,9 @@ one question.
     DOI
     [10.1109/JSAC.2013.130606](https://doi.org/10.1109/JSAC.2013.130606)
     (2013)
+
+
+[^distinguishing-pragmatic-and-epistemic-intent]: Kirsh, D. and
+    Maglio, P. (1994), [On Distinguishing Epistemic from Pragmatic
+    Action](https://doi.org/10.1207/s15516709cog1804_1). Cognitive Science, 18:
+    513–549. doi:[10.1207/s15516709cog1804_1](https://doi.org/10.1207/s15516709cog1804_1)

@@ -15,7 +15,8 @@ excerpt: ""
     delayed convergence and the informational convergence is never
     total.
 
-
+- [To
+  Whipsaw](https://www.merriam-webster.com/news-trend-watch/us-stocks-experience-whipsaw-20180206)
 
 - most people don't understand social physics. it would never occur to
   them to reason about these things with math, especially early on in
