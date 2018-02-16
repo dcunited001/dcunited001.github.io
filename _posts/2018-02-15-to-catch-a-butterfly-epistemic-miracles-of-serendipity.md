@@ -41,12 +41,20 @@ excerpt: ""
 
 #### [The Tragedy of Karmic, Informational Baggage](#the-tragedy-of-karmic-informational-baggage)
 
+## [Trackless: He Has Destroyed Mara's Vision](#trackless-he-has-destroyed-maras-vision)
+
+#### [What does it mean to leave tracks?](#what-does-it-mean-to-leave-tracks)
+
+#### [Marking The Bodies of Targets With Repetitive Strain](#marking-the-bodies-of-targets-with-repetitive-strain)
+
+#### 歯齒, [Where's Your Teeth?](#haha-wheres-your-teeth)
+
+#### [A Probabilistic Informational Addressing Scheme: Tracking Information and Parameterizing Handlers](#a-probabilistic-informational-addressing-scheme-programming-and-tracking-information)
+
+#### [All Roads Lead to Rome](#all-roads-lead-to-rome)
 
 
 
-# [Trackless: He Has Destroyed Mara's Vision](#trackless-he-has-destroyed-maras-vision)
-
-### [What does it mean to leave tracks?](#what-does-it-mean-to-leave-tracks)
 
 
 <a name="epistemic-miracles-of-serendipity-are-incomputable" />
@@ -66,7 +74,6 @@ excerpt: ""
   increases dramatically.
 - (these extrapolations are easier to compute when assumptions can be
   made resulting in convergent information dynamics)
--
 
 - TODO: expand this and connect to the essay
 
@@ -81,21 +88,72 @@ excerpt: ""
 The idiot savant, though his actions and methods may be imprecise,
 irrational, infuriating or just stupid, can occasionally stumble
 serendipitously upon metaphysical diamonds in the rough.  Serendipity
-often arises from a pure accident,  seen clearly through the right
+often arises from a pure accident, seen clearly through the right
 glasses. The likelihood that an individual will do so is low, but by
 ensuring a highly varied typology of experience via social engineering
 for diversity of life experience, this can result in de facto
 distributed computation.
 
-- attempting to cover the typological space of human experience.
-  - TODO: include poorly drawn, memable kayla maroney post it
+#### In Which I Attempt To Visualize The Concept of Covering Typological Spaces
 
-![](/img/posts/2018-02-14-to-catch-a-butterfly-epistemic-miracles-of-serendipity/covering-a-typological-space.jpg)
+![Covering A Typological Space](/img/posts/2018-02-14-to-catch-a-butterfly-epistemic-miracles-of-serendipity/covering-a-typological-space.jpg)
 
-- These are very "non-linear" problems and, in fact, determining
-  whether you're (even covering a typological space itself is a
-  non-linear problem)
-  - good place to link the video on fourier kernels?
+> [McKayla Maroney](https://en.wikipedia.org/wiki/McKayla_Maroney)
+> gets the joke: I think I need an illustrator ... Less artistic
+> illustrations have launched businesses with billion dollar
+> valuations and those people were
+> [drunk](digitalroam.typepad.com/digital_roam/2008/04/southwest-airli.html).
+
+If you could imagine the variety of human experience as a space, what
+would it look like? Then, if you wanted to leverage the sum of human
+life as distributed computation, how would you optimize the
+development of knowledge consensus? You would want to cover the
+typological space representing the diversity of human experience, but
+since you can't know the structure of that typology, then even
+understanding whether your "distributed computations" are proceeding
+in an efficient direction is itself a mathematically hard problem.
+
+#### Nonlinear dimensionality reduction for faster kernel methods in machine learning.
+
+> Please Note: I am lucky to even understand this
+> [IAS](https://www.youtube.com/channel/UC8aRaZ6_0weiS50pvCmo0pw)
+> presentation at a high-level. Almost every single video is far out
+> of my league. It's like [Simons
+> Institute](https://www.youtube.com/user/SimonsInstitute) for people
+> that are easily bored with Simons Institute videos. I don't quite
+> understand the specifics of this video. I know enough to extrapolate
+> with the content as though I've been given mathematic legos.
+
+<iframe width="560" height="315"
+src="https://www.youtube.com/embed/ULFzxq0u_mI" frameborder="0"
+allow="autoplay; encrypted-media" allowfullscreen></iframe>
+
+These are the same problems that data scientists face when trying to
+train machine learning (ML) algorithms to solve problems which are
+certainly non-linear where the structure is unknown. You have to
+constantly introduce randomizations for your models, wherefore you
+uncover the true understanding of the Boltzmann distribution of
+thermodynamics fame -- and indeed the true abstract understanding of
+energy itself. Energy is not a concept from physics. It is a purely
+statistical concept from mathematics and it's connections to efficient
+discovery in ML are invaluable. Though the specific maths are far out
+of my league, how the energy of your ML weights in the space connects
+to the entropy of the Boltzmann distribution in that space helps you
+determine how much randomization you should introduce into your models
+as you're training them.
+
+Connecting this back to epistemology: how do we know whether our
+understanding of reality is the "best" such understanding? We don't
+and we can't ever know this for sure. However, we can reflect the
+knowledge gleaned from each individual's experience back through the
+rest of society to help us discover:
+
+#### Whether it's possible for society to evolve to live in ways that are different in statistically signficant ways
+
+#### Which direction(s) we should choose to evolve if we are going to explore the potentials for life
+
+#### How much variation is needed to understand whether various directions in these high-dimensional spaces have been sufficiently explored
+
 
 #### [Kino's Journey: The Beautiful World](www.crunchyroll.com/kinos-journey-the-beautiful-world-the-animated-series)
 
@@ -253,7 +311,7 @@ than particles normally are considered.
 
 All the same, the particles of information have a kind of mass to
 them. In [Speed of
-Thought](http://te.xel.io/posts/2017-09-22-speed-of-thought-illusion-of-separation.html),
+Thought](/posts/2017-09-22-speed-of-thought-illusion-of-separation.html),
 I named these particles as datums and iota. We all generate
 information as we live life, some people seem to have more information
 attached to them from their past. Sometimes information can be viral
@@ -408,7 +466,9 @@ functional nature of the cause of the RSI. This is similar to marks on
 the body or in memories that are used in occult practice and
 witchcraft.
 
-### 歯齒: Where's Your Teeth?
+<a name="haha-wheres-your-teeth" />
+
+### 歯齒, [Where's Your Teeth?](#haha-wheres-your-teeth)
 
 For example, encouraging a young programmer to use Emacs can result in
 a characteristic reptitive strain injury that any person with
@@ -442,18 +502,13 @@ behavior.
 > while still cooperating with the USSR, but before Communist China
 > implemented Simplified Chinese in the Cultural Revolution.
 
-
 If you wanted to hand people off in the medical or psychiatric system
 for autonomous, decentralized handling, abusing HF&E to induce
 specific RSI's is the perfect way to do it, without leaving a
 trace. Another method for passing information autonomously is to
 encode meaning into misspellings, misnomers and bad information
 planted into targets as "passwords" which loosely indicate handling
-instructions. The human mind is a like a file system. To some,
-incorrect facts and spellings stick out like a sore thumb. This
-protocol can be used as a decentralized communication channel,
-autonomous out of its reliance on semiotics to convey information
-universally.
+instructions.
 
 #### Ever Get A Hot Babe's Number After Doing A Triple Take As She Walks By?
 
@@ -463,9 +518,35 @@ checks* what you just said -- with all the feigned nonchalanace of a
 hopeful extra in a bad movie.
 
 OK, now I'm just being flagrantly paranoid LOL. However, my paranoia
-drives my intelligence and I'm capable of checking myself. As long as
-people aren't gaslighting me, I'm completely fine. The problem is
-everything I already know.
+drives my intelligence and I'm more than capable of checking my
+arguments for rationalism. As long as people aren't gaslighting me,
+I'm completely fine. However, everything I already know poses a
+problem for people who use these tactics to operate.
+
+### [A Probabilistic Informational Addressing Scheme: Tracking Information and Parameterizing Handlers](#a-probabilistic-informational-addressing-scheme-programming-and-tracking-information)
+
+[The human mind is a like a file
+system](https://archive.org/stream/SvaliSpeaksMindControlSurvivor/Svali%20Speaks%20-%20Mind%20Control%20Survivor_djvu.txt). To
+some, incorrect facts and spellings stick out like a sore thumb. This
+protocol can be used as a decentralized communication channel,
+autonomous out of its reliance on semiotics to convey information
+universally.[^svali-speaks] This is the more technical basis explaing
+[how circumlocution, perlocution and planted locutions can be used](/posts/2017-10-20-scientologys-three-step-process-for-great-pyramid-schemery.html)
+alongside interrogation techniques, hypnosis and NLP for psychological
+torture, mind control and framing threats.
+
+All rules are meant to be broken.
+[Ettiquette](https://en.wikipedia.org/wiki/Etiquette) serves to
+establish social norms that operate as semiotic signaling channels for
+communication. Information has norms as well and deviating from
+informational norms allows mispellings, misnomers, details in stories
+and grammar mistakes in e-mails to layer sources of information with a
+kind of addressing system. This is nothing intentionally designed,
+it's just how life is, but this informal addressing system allows you
+to hone in on and triangulate sources of information, just like they
+were *informational radiation*. Furthermore, the components of
+information, spellings and stories that deviate from the norm can be
+used to paramterize handling instructions with higher-order logic.
 
 <a name="all-roads-lead-to-rome" />
 
@@ -477,12 +558,12 @@ constrain the set of paths taken from city to city. When all roads
 lead to Rome, so to speak, how hard is it to infer your destination
 and your origination? Your coming and your going?
 
-
-
-### Robert Frost - [The Road Not Taken](http://te.xel.io/writing/)
+#### Robert Frost - [The Road Not Taken](/writing/)
 
 ![The Road Not Taken](/img/posts/2018-02-14-to-catch-a-butterfly-epistemic-miracles-of-serendipity/the-road-not-taken.jpg)
 
+Regardless of how proficiently manipulative potential adversaries
+might be, when you free yourself of negative intention.
 
 
   - regardless of how proficiently manipulative someone might be, when
@@ -497,7 +578,13 @@ and your origination? Your coming and your going?
         - or is it instead a state purely devoid of the elements
           required for suffering/evil?
 
-#### Would You Like Some Tea?
+<a name="would-you-like-some-tea" />
+
+### [Would You Like Some Tea?](#would-you-like-some-tea)
+
+### The Eight Jhanas from the Ariyapariyesana Sutta
+
+#### Two Translations of [Majjhima Nikaya 26:34-42](https://suttacentral.net/en/mn26):
 
 > This monk is said to have blinded Mara. Trackless, he has destroyed
 > Mara's vision and has become invisible to the Evil One.
@@ -507,8 +594,8 @@ and your origination? Your coming and your going?
 > opportunity.
 
 - the above is from
-  [Majjhima Nikaya 26:34-42](https://suttacentral.net/en/mn26),
-  Ariyapariyesana Sutta (the noble search)
+
+  (the noble search)
   - although the section describes progression of medititave mindstate
     through eight
     [Dhyāna](https://en.wikipedia.org/wiki/Dhy%C4%81na_in_Buddhism)'s,
@@ -580,6 +667,17 @@ allow="autoplay; encrypted-media" allowfullscreen></iframe>
     sociopathic people in the act.
 
 
+#### This Is What One Billion Dollars Looks Like ... (Not)
+
+> Here it is: the napkin. Apparently, they kept this thing around
+> ... a probably put it in a glass case like Lenin.
+
+![Southwest Airlines](/img/posts/2018-02-14-to-catch-a-butterfly-epistemic-miracles-of-serendipity/)
+
+J/K folks, that's not the napkin...
+
+
+
 - informational baggage limits flexibility
 - connect to rant on academic (et alias) gatekeepers
   - informational baggage making it "too inconvenient" for someone to
@@ -632,3 +730,7 @@ allow="autoplay; encrypted-media" allowfullscreen></iframe>
     staff](/img/writing/emailed-200-ppl-with-a-dozen-individualized-messages.png)
     with a dozen emails, each crafted to the medical research team's
     specific focus.
+
+[^svali-speaks]: [Svali
+    Speaks](https://archive.org/stream/SvaliSpeaksMindControlSurvivor/Svali%20Speaks%20-%20Mind%20Control%20Survivor_djvu.txt)
+    (now almost completely eradicated from the internet)
