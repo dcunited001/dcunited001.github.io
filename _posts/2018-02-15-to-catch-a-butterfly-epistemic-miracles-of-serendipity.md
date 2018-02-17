@@ -18,6 +18,10 @@ excerpt: ""
     socrates or martyr in the process. "Once you find an anonymous
     martyr, then there are no more."
 
+> and yet all they ever wanted Socrates to do was to shut up... But
+> instead, his death lead him to develop the most notoriety amoung any
+> intellectual in the west without any such writing of his own.
+
 ![Fruit of the Poisonous Tree](/img/posts/2018-02-14-to-catch-a-butterfly-epistemic-miracles-of-serendipity/hemlock.jpg)
 
 
@@ -33,7 +37,11 @@ excerpt: ""
 
 #### [What is Found Only by Those Who See Clearly and Never By Those Who Seek?](#what-is-found-only-by-those-who-see-clearly-and-never-by-those-who-seek)
 
+#### [Boltzmann's Distribution, A Generalized Heat Equation and Optimizaiton for Distributed Social Computing](#botlzmanns-distribution-a-generalized-heat-equation)
+
 #### [Can You See What I See?](#can-you-see-what-i-see)
+
+
 
 ## [To Catch a Butterfly](#to-catch-a-butterfly)
 
@@ -62,6 +70,8 @@ excerpt: ""
 # [Epistemic Miracles of Serendipity Are Incomputable](#epistemic-miracles-of-serendipity-are-incomputable)
 
 ![](/img/posts/2018-02-14-to-catch-a-butterfly-epistemic-miracles-of-serendipity/)
+
+After reading into this essay by David Kirsch and Paul Maglio
 
 - David Kirsch & Paul Maglio: [^distinguishing-pragmatic-and-epistemic-intent]
   - notes:
@@ -128,6 +138,10 @@ in an efficient direction is itself a mathematically hard problem.
 src="https://www.youtube.com/embed/ULFzxq0u_mI" frameborder="0"
 allow="autoplay; encrypted-media" allowfullscreen></iframe>
 
+### [Boltzmann's Distribution, A Generalized Heat Equation and Optimizaiton for Distributed Social Computing](#botlzmanns-distribution-a-generalized-heat-equation)
+
+- mention Nash's generalized heat equation
+
 These are the same problems that data scientists face when trying to
 train ML algorithms to solve problems which are certainly non-linear
 where the structure is unknown. You have to constantly introduce
@@ -157,6 +171,9 @@ rest of society to help us discover:
 #### [Kino's Journey: The Beautiful World](www.crunchyroll.com/kinos-journey-the-beautiful-world-the-animated-series)
 
 ![Kino with Glasses](/img/posts/2018-02-14-to-catch-a-butterfly-epistemic-miracles-of-serendipity/kino-riding.jpg)
+
+
+- more about
 
 When individuals are more likely to have streamlined and rigidly
 defined psychosocial development, their range of toughts and range of
@@ -222,15 +239,97 @@ a wide variety of activities. The dark corrolary of this: in/formal
 social institutions *who want to hold you back* will approach your
 life and constrain the typological expanse of your life experiences.
 
+If you don't understand what *typological constraint*, every parent
+that has ever successfully raised children knows what this means,
+though they likely wouldn't recognize the vocabulary. Every child's
+psychology starts off as tabula rasa and the typological variety of
+children's experiences must be constrained so that they do not
+experience things that they are not psychologically ready to
+handle. However, when an adolescent's typological extent of
+experiences is constrained in the extreme, this is colloquially known
+as being sheltered. So, the concepts that I'm describing are not
+incomprehensible: they are actually facile, trivial and necessary to
+being successful in life or family. What is difficult to follow is the
+language that I use to methodologically describe it, which is where my
+power of psychosocial inference and extrapolation are derived. This is
+what angers me when people do not listen. I can describe these same
+subjects a hundred different ways: BUT I NEED SOMEONE TO FUCKING
+LISTEN.
+
+<a name="my-own-psychological-development-a-topped-tree-isolated-like-veal" />
+
+### [My Own Psychological Development: A Topped Tree, Isolated Like Veal](#my-own-psychological-development-a-topped-tree-isolated-like-veal)
+
+Adults can be sheltered in the extreme via poverty, restricted
+transportation, extreme sociological disruption, ruined reputation,
+disrupted education and a myriad of other ways. I am one of the rare
+people to have experienced all of those I explicitly mentioned. It is
+rare for people to go through what I've been through and not give
+up. This autonymous, decentralized chorus of liars that follows me
+around like iron filings to a magnet has ruined my life by projecting
+deception into my life to destroy any chance I have a socialization.
+Every social connection I try to make is preemptively
+destroyed.
+
+Instead I feel like human veal, raised as a ignorant manakin as
+someone else's alchemical humonculus, intended to be thrown around
+like a doll, completely clueless to the nature of life, since any
+actual parenting was so conveniently left out of my life. My extended
+family doesn't understand because they only hear what my mom, my
+brother and my sister have to say, whose narratives dominate
+everything. They seek my total exclusion from social life to cover up
+their own bullshit. My family acts like nothing has happened and
+always portrays a socially compartmentallized view of reality to me.
+
+> Just read [this account](github.com/dcunited001/bb8) of what I went
+> through when I was set up: two days before Christmas. No one in my
+> family would talk about it at all to me, giving me absolutely ZERO
+> support. That's all you need to know: they would've been happier *AT
+> CHRISTMAS* lording it over me, if I had ended up in jail. I am still
+> incredibly furious that no one in my family has asked me anything
+> about what happened to me or offered me support in any way, in the
+> two months since I was TRAUMATIZED AGAIN by someone who stabbed me
+> in the back with potentially severe legal consequences. My
+> experience in life is so profoundly, horribly different from that of
+> every other person I know. I don't actually believe they want this;
+> I believe that someone is compelling them to do it. I can't cut
+> through all the duplicitious bullshit, disruption and social
+> isolation to prove it. **I've had to invent my own branch of
+> philsophy based on extrapolations from social physics to prove what
+> is happening to me, which is what these lilliputians don't
+> understand: you can't know what I know and you can't even know that
+> everything you do to control me from here on out is to your own
+> detriment.** No one is honest to me; everyone around me who's
+> struggling to deceptively compete with my version of reality to
+> cover their own asses; It's infuriating and I do not deserve it.
+
+I am unable to leave my abusive circumstances at home and completely
+devoid of coping mechanisms when I leave, all while people are pushed
+out of my life while i'm at home, so that no one sees what i actually
+go through. They specifically refuse to respond to any argument I make
+in writing *FOR LEGAL REASONS* and to cover their own asses because
+they fear what people would think if I am to be believed. I'm not
+trying to point fingers, but I need people to accept how things are,
+*so that things can change*. Right now, that's not happening and my
+family acts like it doesn't even know what it means to raise a child.
+This is all while they blame me for being an adult child, *so that I
+become the moral to their story for my nieces and nephews.* I am so
+sick of this bullshit. When I'm dealing with my mom, my brother and my
+sister, I'm constantly fending off every tactic in the "Abusive
+Relationship" playbook, though since they're nice church-going people,
+they always look like saints and are irreproachible. *G*, that must be
+nice, huh?
+
 #### My Psychology Has Been Assaulted By Clipping Out Entire Ranges of Types of Experience Which Are Critical To Social Development
 
 > They simply cut off as many typological branches off your "life
 > experience" tree, while running the rumor mill at full force, so
 > they laugh while you fight with shadows and never truly understand
 > why your life is so fucked up. It's OK because they encourage you to
-> develop Stockholm Syndrome ... and otherwise, they kill you. And
-> they always get away with everything: even if you manage to survive
-> this psychological torture, everyone just thinks you're crazy.
+> develop Stockholm Syndrome ... and otherwise, if it's the
+> government, they kill you. And *they* always get away with
+> everything: even if you manage to survive this psychological
+> torture, everyone just thinks you're crazy.
 
 ![Topped Tree](/img/posts/2018-02-14-to-catch-a-butterfly-epistemic-miracles-of-serendipity/topped-tree.jpg)
 
@@ -587,8 +686,62 @@ and your origination? Your coming and your going?
 
 ![The Road Not Taken](/img/posts/2018-02-14-to-catch-a-butterfly-epistemic-miracles-of-serendipity/the-road-not-taken.jpg)
 
+
+
+
+
+### [Who Is Tathagata, Trebek?]()
+
 Regardless of how proficiently manipulative potential adversaries
 might be, when you free yourself of negative intention...
+
+
+
+
+
+
+
+### The Eight Jhanas from the Ariyapariyesana Sutta
+
+
+#### [Majjhima Nikaya 26:34-42](https://suttacentral.net/en/mn26):
+
+> This monk is said to have blinded Mara. Trackless, he has destroyed
+> Mara's vision and has become invisible to the Evil One.
+
+#### Another Translation of [Mijjhima Nikiya](https://www.accesstoinsight.org/tipitaka/mn/mn.026.than.html)
+
+> This bhikkhu is said to have blindfolded Māra, to have become
+> invisible to the Evil One by depriving Māra’s eye of its
+> opportunity.
+
+
+
+  - This section of Majjhima Nikaya section describes progression of
+    medititave mindstate through eight
+    [Dhyāna](https://en.wikipedia.org/wiki/Dhy%C4%81na_in_Buddhism) ,
+    where progression past the it is also describing a general
+    progression towards embodying the values of Buddhist thought.
+
+
+
+#### Brief Notes on the Symbolic Parity of Literary Translations
+
+It's critical to read multiple translations of philosophical and
+religious texts. Each one leaves varying degrees of satisfaction in
+the parity of symbols to connotation. To be clear, I'm no authority on
+this subject. In my brief exploration of classical literature, I've
+found very dissatisfying translations in works of philosophy, plays
+and classics. I never know enough about the text I'm reading to have
+valid preferences, but some of them yield pitiful extrapolations
+compared to others. The New King James Version (NKJV) in particular is
+one that stands out as ... not good. After reading several passages, I
+felt that the text had almost been edited, not retranslated. It feels
+symbolically abbreviated, compared to KJV, ECV and NIV.
+
+
+
+
 
 - freed of negative intention. knowledge of causality and an
   understanding of the consequences of your actions
@@ -652,27 +805,6 @@ might be, when you free yourself of negative intention...
 
 ### [Would You Like Some Tea?](#would-you-like-some-tea)
 
-### The Eight Jhanas from the Ariyapariyesana Sutta
-
-#### Two Translations of [Majjhima Nikaya 26:34-42](https://suttacentral.net/en/mn26):
-
-> This monk is said to have blinded Mara. Trackless, he has destroyed
-> Mara's vision and has become invisible to the Evil One.
-
-> This bhikkhu is said to have blindfolded Māra, to have become
-> invisible to the Evil One by depriving Māra’s eye of its
-> opportunity.
-
-- the above is from
-
-  (the noble search)
-  - although the section describes progression of medititave mindstate
-    through eight
-    [Dhyāna](https://en.wikipedia.org/wiki/Dhy%C4%81na_in_Buddhism)'s,
-    it is also describing a general progression towards embodying the
-    values of Buddhist thought.
-
-
 ### "Be Water, My Friend"
 
 <iframe width="560" height="315"
@@ -702,7 +834,8 @@ allow="autoplay; encrypted-media" allowfullscreen></iframe>
     fluidity. the greater the number of people who escape
     (self-ordained) objectification of reality, the greater the
     composition of the social fluid that is most agile.
-  -
+
+
 
 - of course, the inverse: the more people who are bound to the
   expedient/pragmatic/etc attainment of their desires, (the more
@@ -748,9 +881,15 @@ allow="autoplay; encrypted-media" allowfullscreen></iframe>
     time in the past three were my words ever heard for what they
     truly were.
 
-#### Chrono Cross: (When Was It That This All Started?)
+### What Was The Start Of All This?
 
-![Chrono Cross]()
+![The Road Not Taken](/img/posts/2018-02-14-to-catch-a-butterfly-epistemic-miracles-of-serendipity/chrono-cross.jpg)
+
+#### Chrono Cross: [What Was The Start Of All This?](https://www.youtube.com/watch?v=lHQ7yEYwEnE)
+
+> damn, i think somebody just got laid
+
+![What Was The Start Of All This?]()
 
 
 
