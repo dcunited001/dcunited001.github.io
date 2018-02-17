@@ -21,6 +21,8 @@ excerpt: ""
 ![Fruit of the Poisonous Tree](/img/posts/2018-02-14-to-catch-a-butterfly-epistemic-miracles-of-serendipity/hemlock.jpg)
 
 
+![Kino's Journey](/img/posts/2018-02-14-to-catch-a-butterfly-epistemic-miracles-of-serendipity/kinos-journey.jpg)
+
 
 - [Stargate S3E22](http://stargate.wikia.com/wiki/SG-1_Season_3)
 
@@ -113,7 +115,7 @@ since you can't know the structure of that typology, then even
 understanding whether your "distributed computations" are proceeding
 in an efficient direction is itself a mathematically hard problem.
 
-#### Nonlinear dimensionality reduction for faster kernel methods in machine learning.
+#### Nonlinear Dimensionality Reduction For Faster Kernel Methods In Machine Learning&nbsp;(ML)
 
 > Please Note: I am lucky to even understand this
 > [IAS](https://www.youtube.com/channel/UC8aRaZ6_0weiS50pvCmo0pw)
@@ -129,18 +131,18 @@ src="https://www.youtube.com/embed/ULFzxq0u_mI" frameborder="0"
 allow="autoplay; encrypted-media" allowfullscreen></iframe>
 
 These are the same problems that data scientists face when trying to
-train machine learning (ML) algorithms to solve problems which are
-certainly non-linear where the structure is unknown. You have to
-constantly introduce randomizations for your models, wherefore you
-uncover the true understanding of the Boltzmann distribution of
-thermodynamics fame -- and indeed the true abstract understanding of
-energy itself. Energy is not a concept from physics. It is a purely
-statistical concept from mathematics and it's connections to efficient
-discovery in ML are invaluable. Though the specific maths are far out
-of my league, how the energy of your ML weights in the space connects
-to the entropy of the Boltzmann distribution in that space helps you
-determine how much randomization you should introduce into your models
-as you're training them.
+train ML algorithms to solve problems which are certainly non-linear
+where the structure is unknown. You have to constantly introduce
+randomizations for your models, wherefore you uncover the true
+understanding of the Boltzmann distribution of thermodynamics fame --
+and indeed the true abstract understanding of energy itself. Energy is
+not a concept from physics. It is a purely statistical concept from
+mathematics and it's connections to efficient discovery in ML are
+invaluable. Though the specific maths are far out of my league, how
+the energy of your ML weights in the space connects to the entropy of
+the Boltzmann distribution in that space helps you determine how much
+randomization you should introduce into your models as you're training
+them.
 
 Connecting this back to epistemology: how do we know whether our
 understanding of reality is the "best" such understanding? We don't
@@ -148,12 +150,11 @@ and we can't ever know this for sure. However, we can reflect the
 knowledge gleaned from each individual's experience back through the
 rest of society to help us discover:
 
-#### Whether it's possible for society to evolve to live in ways that are different in statistically signficant ways
+#### Whether it's possible for society to evolve to live in ways that are different in statistically signficant ways?
 
-#### Which direction(s) we should choose to evolve if we are going to explore the potentials for life
+#### Which direction(s) we should choose to evolve if we are going to explore the potentials for life?
 
-#### How much variation is needed to understand whether various directions in these high-dimensional spaces have been sufficiently explored
-
+#### How much variation is needed to understand whether various directions in these high-dimensional spaces have been sufficiently explored or could be explored faster?
 
 #### [Kino's Journey: The Beautiful World](www.crunchyroll.com/kinos-journey-the-beautiful-world-the-animated-series)
 
@@ -354,6 +355,10 @@ predjudice that's inspired them to destroy my life and clip my wings
 it's not exactly healthy. I can't live in a world without truth or
 justice. I'm sorry that is so offensive to you, America.
 
+#### Kino, Again? No, That's&nbsp;&nbsp;Not Kino.
+
+![Kino's Collection of National Security Letters](/img/posts/2018-02-14-to-catch-a-butterfly-epistemic-miracles-of-serendipity/kinos-national-security-letters.jpg)
+
 It doesn't matter how negative, constraining information is created:
 whether it's true or it's false, it is a burden you must carry with
 you for the rest of your life. Christianity supposedly offers "forgive
@@ -523,6 +528,8 @@ arguments for rationalism. As long as people aren't gaslighting me,
 I'm completely fine. However, everything I already know poses a
 problem for people who use these tactics to operate.
 
+<a name="a-probabilistic-informational-addressing-scheme-programming-and-tracking-information" />
+
 ### [A Probabilistic Informational Addressing Scheme: Tracking Information and Parameterizing Handlers](#a-probabilistic-informational-addressing-scheme-programming-and-tracking-information)
 
 [The human mind is a like a file
@@ -544,9 +551,29 @@ and grammar mistakes in e-mails to layer sources of information with a
 kind of addressing system. This is nothing intentionally designed,
 it's just how life is, but this informal addressing system allows you
 to hone in on and triangulate sources of information, just like they
-were *informational radiation*. Furthermore, the components of
-information, spellings and stories that deviate from the norm can be
-used to paramterize handling instructions with higher-order logic.
+were *informational radiation*. The components of information,
+spellings and stories that deviate from the norm can be used to
+paramterize handling instructions with higher-order logic.
+
+<a name="follow-your-nose" />
+
+### [Follow Your Nose!](#follow-your-nose)
+
+Moreover, the set of information-particles you carry with you contains
+the aggregate of your social interactions. This aggregate is like an
+informational scent that can be interrogated in the same way that a
+dog sniffs your shoes to infer minor details about the ground you
+walked on hours before. Dogs have noses and brains specialized for
+their reliance on scent, which is demonstrated in their behavior and
+habits. They sniff harder when they want olfactory information that
+covers a greater volume of air and can even sense directional
+components of scent. Humans don't think about the information gleaned
+from scent whatsoever because our brains receive only a fraction of
+the data.
+
+#### Just Follow Your Knows
+
+![Follow Your Nose](/img/posts/2018-02-14-to-catch-a-butterfly-epistemic-miracles-of-serendipity/toucan-sam.jpg)
 
 <a name="all-roads-lead-to-rome" />
 
