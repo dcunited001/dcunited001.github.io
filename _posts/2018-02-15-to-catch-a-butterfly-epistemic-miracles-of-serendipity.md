@@ -73,7 +73,46 @@ excerpt: ""
 
 ![](/img/posts/2018-02-14-to-catch-a-butterfly-epistemic-miracles-of-serendipity/)
 
-After reading into this essay by David Kirsch and Paul Maglio
+After reading into this essay by David Kirsch and Paul Maglio -- [On
+Distinguishing Epistemic from Pragmatic Action](), my wheels started
+turning. I originally approached the essay to distinguish the
+denotative differences between epistemy and epistemology, so that I
+could dilineate socioepistemic and socioepistemology in an attempt to
+describe how structures of knowledge are manipulated socially. In the
+essay, Kirsch and Maglio quickly outline two kinds of human behavior:
+that originted towards *pragmatic* attainment of a clear objective and
+that oriented towards resolution of *epistemic*
+uncertainty.[^distinguishing-pragmatic-and-epistemic-intent] The
+latter is a complicated defintion for random mutations of state in a
+game or social situation to suss out some details or knowledge
+structure. There may not be any clear purpose to it, but by engaging
+in it, one gains information.
+
+> An aside: *whenever I engage in behaviors to discover the outlines
+> of epistemic structures -- viz. to socially inquire about the
+> missing pieces to explain why my life is a broken mess -- I am
+> derided as a broken schizophrenic mess that's clearly paranoid and
+> needs to be stuck in a mental institution forever, even though
+> humans are paralyzed socially without this knowledge-seeking
+> behavior I was never equipped with during my adolescence.* The most
+> infuriating part of all of this is knowing that people depend on my
+> social vulnerability to abuse me. Moreover, other people apparently
+> bred social vulnerability into my psychology TO USE ME, who now want
+> run damage control by getting society to basically toss my life in a
+> ditch, I would greatly prefer over being stuck in a mental
+> institution like some unfortunately suppressed delusional Nietzsche.
+
+Life is a sociophysical game: without well-defined
+objectives; with both turn-based and simultaneous play; with many
+games threaded into other games; where players are not well-defined;
+with both schematic and inschematic structures. All that complexity
+makes life very complex, when approached from the perspectives of math
+and game theory. Most people operate best when conditioned with clear
+sets of rules: for habitual behaviors; for accumulated event-driven
+response behaviors; to define a system of values for phenomena to
+either seek or avert.
+
+Because the game is so complex, it becomes difficult
 
 - David Kirsch & Paul Maglio: [^distinguishing-pragmatic-and-epistemic-intent]
   - notes:
@@ -464,7 +503,7 @@ justice. I'm sorry that is so offensive to you, America.
 
 #### Kino, Again? No, That's&nbsp;&nbsp;&nbsp;&nbsp;Not Kino.
 
-![Kino's Collection of National Security Letters](/img/posts/2018-02-14-to-catch-a-butterfly-epistemic-miracles-of-serendipity/kinos-national-security-letters.jpg)
+![Kino's Collection of National Security Letters](/img/posts/2018-02-14-to-catch-a-butterfly-epistemic-miracles-of-serendipity/kino-national-security-letters.jpg)
 
 It doesn't matter how negative, constraining information is created:
 whether it's true or it's false, it is a burden you must carry with
@@ -559,7 +598,7 @@ emerged ad hoc.
 > complexity can be produced by processing the distribution data in
 > various means.[^no-love-from-academia]
 
-![Virginia Tech Drill Field](/img/posts/2018-02-14-to-catch-a-butterfly-epistemic-miracles-of-serendipity/)
+![Virginia Tech Drill Field](/img/posts/2018-02-14-to-catch-a-butterfly-epistemic-miracles-of-serendipity/virginia-tech-drillfield.jpg)
 
 <a name="marking-the-bodies-of-targets-with-repetitive-strain" />
 
@@ -652,15 +691,17 @@ torture, mind control and framing threats.
 All rules are meant to be broken.
 [Ettiquette](https://en.wikipedia.org/wiki/Etiquette) serves to
 establish social norms that operate as semiotic signaling channels for
-communication. Information has norms as well and deviating from
-informational norms allows mispellings, misnomers, details in stories
-and grammar mistakes in e-mails to layer sources of information with a
-kind of addressing system. This is nothing intentionally designed,
-it's just how life is, but this informal addressing system allows you
-to hone in on and triangulate sources of information, just like they
-were *informational radiation*. The components of information,
-spellings and stories that deviate from the norm can be used to
-paramterize handling instructions with higher-order logic.
+communication; without widespread adoption of behavioral social norms,
+it becomes difficult to read information via deviation from those
+norms. Information has norms as well and deviating from informational
+norms allows mispellings, misnomers, details in stories and grammar
+mistakes in e-mails to layer sources of information with a kind of
+addressing system. This is nothing intentionally designed, it's just
+how life is, but this informal addressing system allows you to hone in
+on and triangulate sources of information, just like they were
+*informational radiation*. The components of information, spellings
+and stories that deviate from the norm can be used to paramterize
+handling instructions with higher-order logic.
 
 <a name="follow-your-nose" />
 
