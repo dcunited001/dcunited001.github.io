@@ -216,7 +216,7 @@ it. Even if you use power justly, you will create enemies:
 
 #### &#x2605; The petty who seek to pull you down because they have no hope themselves.
 
-#### &#x2605; Those you use unjustly may retaliate justly if you cannot justify yourself.
+#### &#x2605; Those you use justly may retaliate justly if you cannot justify yourself to them.
 
 #### &#x2605; Those who see their service as not serving their own ends may lash out as well.
 

@@ -35,33 +35,35 @@ excerpt: ""
 
 ## [Epistemic Miracles of Serendipity Are Incomputable](#epistemic-miracles-of-serendipity-are-incomputable)
 
-#### [What is Found Only by Those Who See Clearly and Never By Those Who Seek?](#what-is-found-only-by-those-who-see-clearly-and-never-by-those-who-seek)
+#### &#920; [What is Found Only by Those Who See Clearly and Never By Those Who Seek?](#what-is-found-only-by-those-who-see-clearly-and-never-by-those-who-seek)
 
-#### [Boltzmann's Distribution, A Generalized Heat Equation and Optimizaiton for Distributed Social Computing](#botlzmanns-distribution-a-generalized-heat-equation)
+#### &#920; [Boltzmann's Distribution, A Generalized Heat Equation and Optimizaiton for Distributed Social Computing](#botlzmanns-distribution-a-generalized-heat-equation)
 
-#### [Can You See What I See?](#can-you-see-what-i-see)
+#### &#920; [Can You See What I See?](#can-you-see-what-i-see)
 
 
 
 ## [To Catch a Butterfly](#to-catch-a-butterfly)
 
-#### [To Clip Someone's Wings In Early Adulthood, Typologically Constrain Their Life Experience](#to-clip-someones-wings-in-early-adulthood-typologically-constrain-their-life-experience)
+#### &#920; [To Clip Someone's Wings In Early Adulthood, Typologically Constrain Their Life Experience](#to-clip-someones-wings-in-early-adulthood-typologically-constrain-their-life-experience)
 
-#### [His Psychology Looks Like A Topped Tree](#his-psychology-looks-like-a-topped-tree)
+#### &#920; [His Psychology Looks Like A Topped Tree](#his-psychology-looks-like-a-topped-tree)
 
-#### [The Tragedy of Karmic, Informational Baggage](#the-tragedy-of-karmic-informational-baggage)
+#### &#920; [The Tragedy of Karmic, Informational Baggage](#the-tragedy-of-karmic-informational-baggage)
+
+#### &#920; [Here, Sisyphus, Carry This Rock](#here-sisyphus-carry-this-rock)
 
 ## [Trackless: He Has Destroyed Mara's Vision](#trackless-he-has-destroyed-maras-vision)
 
-#### [What does it mean to leave tracks?](#what-does-it-mean-to-leave-tracks)
+#### &#920; [What does it mean to leave tracks?](#what-does-it-mean-to-leave-tracks)
 
-#### [Marking The Bodies of Targets With Repetitive Strain](#marking-the-bodies-of-targets-with-repetitive-strain)
+#### &#920; [Marking The Bodies of Targets With Repetitive Strain](#marking-the-bodies-of-targets-with-repetitive-strain)
 
-#### 歯齒, [Where's Your Teeth?](#haha-wheres-your-teeth)
+####  &#920; 歯齒, [Where's Your Teeth?](#haha-wheres-your-teeth)
 
-#### [A Probabilistic Informational Addressing Scheme: Tracking Information and Parameterizing Handlers](#a-probabilistic-informational-addressing-scheme-programming-and-tracking-information)
+#### &#920; [A Probabilistic Informational Addressing Scheme: Tracking Information and Parameterizing Handlers](#a-probabilistic-informational-addressing-scheme-programming-and-tracking-information)
 
-#### [All Roads Lead to Rome](#all-roads-lead-to-rome)
+#### &#920; [All Roads Lead to Rome](#all-roads-lead-to-rome)
 
 
 
@@ -284,24 +286,32 @@ always portrays a socially compartmentallized view of reality to me.
 > Just read [this account](github.com/dcunited001/bb8) of what I went
 > through when I was set up: two days before Christmas. No one in my
 > family would talk about it at all to me, giving me absolutely ZERO
-> support. That's all you need to know: they would've been happier *AT
+> SUPPORT. That's all you need to know: they would've been happier *AT
 > CHRISTMAS* lording it over me, if I had ended up in jail. I am still
 > incredibly furious that no one in my family has asked me anything
 > about what happened to me or offered me support in any way, in the
 > two months since I was TRAUMATIZED AGAIN by someone who stabbed me
-> in the back with potentially severe legal consequences. My
-> experience in life is so profoundly, horribly different from that of
-> every other person I know. I don't actually believe they want this;
-> I believe that someone is compelling them to do it. I can't cut
+> in the back with potentially severe legal consequences and nothing
+> but *CONSTANT BLAME-SHIFTING FROM EVERYONE AROUND ME*. My experience
+> in life is so profoundly, horribly different from that of every
+> other person I know. I don't actually believe they want this; I
+> believe that someone is compelling them to do it. I can't cut
 > through all the duplicitious bullshit, disruption and social
 > isolation to prove it. **I've had to invent my own branch of
 > philsophy based on extrapolations from social physics to prove what
 > is happening to me, which is what these lilliputians don't
-> understand: you can't know what I know and you can't even know that
-> everything you do to control me from here on out is to your own
-> detriment.** No one is honest to me; everyone around me who's
-> struggling to deceptively compete with my version of reality to
-> cover their own asses; It's infuriating and I do not deserve it.
+> understand: you can't know what I know; you can't conceive of how
+> you are predictable; you can't even know that everything you do to
+> control me from here on out is to your own detriment.** I've
+> actually been pretty nice about this and I want to minimize the
+> consequences to people: even my enemies and those people around me
+> who should act like family. Instead my family has been broken to
+> pieces by this shit, whatever it is. No one is honest to me;
+> everyone around me who's struggling to deceptively compete with my
+> version of reality to cover their own asses; It's infuriating and I
+> do not deserve it. And if you try to blame it on me, just look at my
+> social and financial resources: I HAVE NONE, THEREFORE I HAVE NO
+> POWER.
 
 I am unable to leave my abusive circumstances at home and completely
 devoid of coping mechanisms when I leave, all while people are pushed
@@ -435,7 +445,7 @@ information exists in the minds of people, it never goes away.
 > doing it to me. It's a game that only works until the person wakes
 > up.
 
-![Here, Sisyphus, Carry This Rock](/img/posts/2018-01-22-semioteleological-revolution/sisyphus.jpg)
+![Here, Sisyphus, Carry This Rock](/img/posts/2018-02-14-to-catch-a-butterfly-epistemic-miracles-of-serendipity/sisyphus.jpg)
 
 My own personal suffering has far more to do with false information in
 the minds of people, for which I have been methodically stripped of
@@ -452,7 +462,7 @@ predjudice that's inspired them to destroy my life and clip my wings
 it's not exactly healthy. I can't live in a world without truth or
 justice. I'm sorry that is so offensive to you, America.
 
-#### Kino, Again? No, That's&nbsp;&nbsp;Not Kino.
+#### Kino, Again? No, That's&nbsp;&nbsp;&nbsp;&nbsp;Not Kino.
 
 ![Kino's Collection of National Security Letters](/img/posts/2018-02-14-to-catch-a-butterfly-epistemic-miracles-of-serendipity/kinos-national-security-letters.jpg)
 
@@ -476,7 +486,7 @@ sources of all of this, all the neutral people in the middle will no
 longer be under their spell. They will realize how they've been
 deceived and flip in my favor.
 
-#### Sure, Throw The Quasi-Buddhist into the Pit and The Pendulum. That's A Great Look.
+#### Sure, Throw The Quasi-Buddhist into [the Pit and The Pendulum](https://en.wikipedia.org/wiki/The_Pit_and_the_Pendulum). That's A Great Look.
 
 > Wow. I didn't realize that literature and myth was full of
 > guidebooks for this kind of stuff. Still think this is funny?
