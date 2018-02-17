@@ -57,8 +57,6 @@ excerpt: ""
 
 
 
-
-
 <a name="epistemic-miracles-of-serendipity-are-incomputable" />
 
 # [Epistemic Miracles of Serendipity Are Incomputable](#epistemic-miracles-of-serendipity-are-incomputable)
@@ -150,11 +148,11 @@ and we can't ever know this for sure. However, we can reflect the
 knowledge gleaned from each individual's experience back through the
 rest of society to help us discover:
 
-#### Whether it's possible for society to evolve to live in ways that are different in statistically signficant ways?
+#### &#x2308;यही&#x2309; &#x2254; Whether it's possible for society to evolve to live in ways that are different in statistically signficant ways?
 
-#### Which direction(s) we should choose to evolve if we are going to explore the potentials for life?
+#### &#x2308;तो&#x2309; &#x2254; Which direction(s) we should choose to evolve if we are going to explore the potentials for life?
 
-#### How much variation is needed to understand whether various directions in these high-dimensional spaces have been sufficiently explored or could be explored faster?
+#### &#x2308;है&#x2309; &#x2254; How much variation is needed to understand whether various directions in these high-dimensional spaces have been sufficiently explored or could be explored faster?
 
 #### [Kino's Journey: The Beautiful World](www.crunchyroll.com/kinos-journey-the-beautiful-world-the-animated-series)
 
@@ -590,13 +588,49 @@ and your origination? Your coming and your going?
 ![The Road Not Taken](/img/posts/2018-02-14-to-catch-a-butterfly-epistemic-miracles-of-serendipity/the-road-not-taken.jpg)
 
 Regardless of how proficiently manipulative potential adversaries
-might be, when you free yourself of negative intention.
+might be, when you free yourself of negative intention...
 
+- freed of negative intention. knowledge of causality and an
+  understanding of the consequences of your actions
+  - with a strong desire to cultivate in others the desire to liberate
+    along with the knowledge required to be effective
+- knowledgeable about the world, but more importantly knowledgable
+  about the nature of wisdom
+- well networked
+
+- however, if you are personally effective in liberating yourself or
+  others, then you can be sure that Mara (greed, lust, etc) will be
+  there to chain you down again.
+  - if you are successful in making a major difference sociologically,
+    you can be certain that Mara will track down the source of
+    liberation.
+  - (i use Mara here as a metaphor, mostly from my understanding of
+    Mara as the deity who tempted the Buddha, while simultaneously
+    conspiring to destroy him to preempt the self-propagating change
+    to follow his life)
+
+- cultivating sociophysical potential energy
+  - how to be most successful in this regard?
+    - encourage others to live so that they are most empowered,
+      providing the most value to others while remaining the least
+      obliged with the greatest capacity to act when needed.
+  - this must be coupled with the desire to liberate others around
+    you, regardless of the apparent personal cost
+  - how to remain most free?
+
+  - understanding the nature of causality and the consequences of
+    karma is so critical in understanding how to act without seeming
+    to have acted or perhaps without having acted at all, which is
+    crucial to preserving your sociophysical potential energies.
+    - you have to know how to act to change just the things you want,
+      while allowing everything else to remain stable
+    - metaphor: curling and "burned rocks"
 
   - regardless of how proficiently manipulative someone might be, when
     you free yourself of negative intention, then decoupling yourself
-    from any predisposition of intentionality, etc/etc... gradually
-    becoming formless, you cannot be predicted/anticipated/etc.
+    from any (predisposition of intention... / presupposition &
+    expectation) of intentionality, etc/etc... gradually becoming
+    formless, you cannot be predicted/anticipated/etc.
     - why is this? is it because all manipulative/evil people must be
       driven by attachments to their desires/etc?
       - if so, are those who progress through and embody these states
@@ -604,6 +638,15 @@ might be, when you free yourself of negative intention.
         an ideal that is the opposite of the being Mara epitomizes?
         - or is it instead a state purely devoid of the elements
           required for suffering/evil?
+
+- e.g. no one's ever going to cofound a business with me? i guess i
+  don't care about several dozen business ideas or several thousand
+  intellectually interesting ideas that i have.
+  - no, i get it. everything in my life is a rigged game. nothing i do
+    matters. any mild level of success i enjoy will be mitigated as
+    soon as i begin to taste progress.
+    - if i never taste progress in the direction of the gradient of
+      success, how will ripping it from my hands serve to torment me?
 
 <a name="would-you-like-some-tea" />
 
@@ -681,6 +724,33 @@ allow="autoplay; encrypted-media" allowfullscreen></iframe>
       the graph.
     - the people in control will be very interested in learning your
       desires/needs/vices/sins to entice you with them.
+
+
+- why wouldn't i find retreat in a buddhist monestary? because
+  whatever follows me around the world will follow me wherever i go
+  until i destroy it.
+  - so "it" will follow me into any place i go, no matter how pure it
+    is, to disrupt anyone's lives, no matter how pure they are.
+
+- the only way i see this as possible is by waking people up, so that
+  they see it for what it is, to force this metaphysical autonomous
+  form, this egregore, to expend its sociophysical energy beyond it's
+  maximum burn rate.
+  - that's the only way to stop this. you have to bait "it" into as
+    many simultaneous battles as possible because it's like a hydra
+    crossed with a zombie epidemic.
+  - this compulsion for networks of people to dominate others is now
+    empowered by technology. unless people stand for something and
+    refuse to allow it to grow, it will continue consuming lives with
+    coercion and racketeering until it consumes everything.
+  - I didn't realize this from the beginning, whenever that was. I
+    have always tried to minimize the scope of this thing, but at no
+    time in the past three were my words ever heard for what they
+    truly were.
+
+#### Chrono Cross: (When Was It That This All Started?)
+
+![Chrono Cross]()
 
 
 
