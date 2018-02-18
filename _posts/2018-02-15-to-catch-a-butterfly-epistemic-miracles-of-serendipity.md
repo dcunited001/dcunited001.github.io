@@ -1023,16 +1023,11 @@ jamskating moves, so I could apply it to something that matters:
 bioinformatics, neurology, physics, philosophy, etc -- preferably
 something that would give me money or power, so I could prove myself
 in a domain, where my accomplishments couldn't be overwritten with
-petty drama and where the people from my past could not affect me. I
-eventually gave up on startups and began writing. I never got a more
-amusing reaction from all the people who try to control me in my life
--- **I've been addicted to that ever since**. I don't give a fuck
-about your money, your fame, or any of your petty measures of
-success. None of that matters to me because it's apparently
-*verbotten* to let me have any success whatsoever.  For me, life is a
-rigged game and I'm laughing because, to me, people are the game. If I
-ever achieve moderate success, it's because I've so sufficiently
-dominated all of you.
+petty drama and where the people from my past could not affect
+me. Once I achieved that understanding of the human creative process
+and applied it to something -- perhaps earning a Nobel Prize along the
+way -- then people would look back at jamskating and realize what had
+happened to me for what it was.
 
 #### Liminal, A Video From the Skateboarder-Philosopher Rodney Mullen.
 
@@ -1047,6 +1042,35 @@ dominated all of you.
 <iframe width="560" height="315"
 src="https://www.youtube.com/embed/-3tDvMG87Ro" frameborder="0"
 allow="autoplay; encrypted-media" allowfullscreen></iframe>
+
+### (a little closer to ubermensche)
+
+I eventually gave up on startups and began writing. I never got a more
+amusing reaction from all the people who try to control me in my life
+-- **I've been addicted to that ever since**. I don't give a fuck
+about your money, your fame, or any of your petty measures of
+success. None of that matters to me because it's apparently
+*verbotten* to let me have any success whatsoever.  For me, life is a
+rigged game and I'm laughing because, to me, people are the game;
+*humanity is the game*. If I ever achieve moderate success, it's
+because I've so sufficiently dominated all of you. It's because I've
+done something so great that all your petty eichmanns have to go back
+through my life and account for everything they did to me along the
+way. At this point, I'd practically have to cure cancer: this
+accomplishment must be so great, it outweighs all the falsehoods and
+defamation. I do not care about what humanity has to say about me
+because they'd never say anything that reflects the truth of my
+identity anyways: *IT'S A RIGGED GAME.* Instead, what people say and
+think is only useful to me insofar as it indicates whether or not I've
+become great enough to unbind. This is hardly a strategy I recommend,
+but it's just about all I've got: how's it working out for you? What
+did humanity do to raw, unpotentiated greatness? You destroyed it
+because you fear what you do not understand. And when I achieve such a
+great accomplishment -- whether it's possible to surpass your petty,
+judgemental bullshit or hopeless and impossible -- it will be so
+great, but also good *BECAUSE YOU METHODICALLY TORMENTED AN ALTRUISTIC
+PERSON WHO LOVES HUMANITY*. And you'll never do it to someone like me
+again.
 
 *Whenever I engage in behaviors to discover the outlines of epistemic
 structures -- viz. to socially inquire about the missing pieces to
