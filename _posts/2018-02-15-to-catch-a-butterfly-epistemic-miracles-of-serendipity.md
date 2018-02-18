@@ -30,8 +30,7 @@ excerpt: ""
 
 - [Stargate S3E22](http://stargate.wikia.com/wiki/SG-1_Season_3)
 
-- typological coverings
-- topped tree is also a metaphor for a lopsided family tree
+
 
 ## [Epistemic Miracles of Serendipity Are Incomputable](#epistemic-miracles-of-serendipity-are-incomputable)
 
@@ -40,8 +39,6 @@ excerpt: ""
 #### &#920; [Boltzmann's Distribution, A Generalized Heat Equation and Optimizaiton for Distributed Social Computing](#botlzmanns-distribution-a-generalized-heat-equation)
 
 #### &#920; [Can You See What I See?](#can-you-see-what-i-see)
-
-
 
 ## [To Catch a Butterfly](#to-catch-a-butterfly)
 
@@ -65,6 +62,9 @@ excerpt: ""
 
 #### &#920; [All Roads Lead to Rome](#all-roads-lead-to-rome)
 
+#### &#920; ...
+
+#### &#920; [Throwing Bambi To The Wolves By Forbidding Socioepistemic Information Acquisition](#throwing-bambi-to-the-wolves-by-forbidding-socioepistemic-information-aquisition)
 
 
 <a name="epistemic-miracles-of-serendipity-are-incomputable" />
@@ -88,19 +88,7 @@ game or social situation to suss out some details or knowledge
 structure. There may not be any clear purpose to it, but by engaging
 in it, one gains information.
 
-> An aside: *whenever I engage in behaviors to discover the outlines
-> of epistemic structures -- viz. to socially inquire about the
-> missing pieces to explain why my life is a broken mess -- I am
-> derided as a broken schizophrenic mess that's clearly paranoid and
-> needs to be stuck in a mental institution forever, even though
-> humans are paralyzed socially without this knowledge-seeking
-> behavior I was never equipped with during my adolescence.* The most
-> infuriating part of all of this is knowing that people depend on my
-> social vulnerability to abuse me. Moreover, other people apparently
-> bred social vulnerability into my psychology TO USE ME, who now want
-> run damage control by getting society to basically toss my life in a
-> ditch, I would greatly prefer over being stuck in a mental
-> institution like some unfortunately suppressed delusional Nietzsche.
+### Life Is An Incomputable Sociophysical Game
 
 Life is a sociophysical game: without well-defined
 objectives; with both turn-based and simultaneous play; with many
@@ -112,17 +100,19 @@ sets of rules: for habitual behaviors; for accumulated event-driven
 response behaviors; to define a system of values for phenomena to
 either seek or avert.
 
-Because the game is so complex, it becomes difficult
+### Without Serendipity, Analytic Methods That Accelerate Learning Algorithms Are Depressingly Limited
 
-- David Kirsch & Paul Maglio: [^distinguishing-pragmatic-and-epistemic-intent]
-  - notes:
+Because the game is so complex, Most extrapolations of information in
+sociophysical systems are intractible and incomputable. This is why
+the human brain is an analytic machine: there really are no tractible
+numerical methods for solving the game of life.
 
-- some extrapolations of information in sociophysical systems are
-  difficult to compute. every person has their own experience in the
-  world, resulting in a (socially distributed typology of individuals'
-  experiences). When this typology is varied, the likelihood that some
-  individual will be likely to extrapolated in an unexpected manner
-  increases dramatically.
+Every person has their own experience in the world, resulting in a
+socially distributed typology of individuals' experiences.
+
+- When this typology is varied, the likelihood that some individual
+  will be likely to extrapolated in an unexpected manner increases
+  dramatically.
 - (these extrapolations are easier to compute when assumptions can be
   made resulting in convergent information dynamics)
 
@@ -300,6 +290,8 @@ LISTEN.
 <a name="my-own-psychological-development-a-topped-tree-isolated-like-veal" />
 
 ### [My Own Psychological Development: A Topped Tree, Isolated Like Veal](#my-own-psychological-development-a-topped-tree-isolated-like-veal)
+
+- topped tree is also a metaphor for a lopsided family tree
 
 Adults can be sheltered in the extreme via poverty, restricted
 transportation, extreme sociological disruption, ruined reputation,
@@ -954,6 +946,7 @@ allow="autoplay; encrypted-media" allowfullscreen></iframe>
     sociopathic people in the act.
 
 
+
 #### This Is What One Billion Dollars Looks Like ... (Not)
 
 > Here it is: the napkin. Apparently, they kept this thing around
@@ -993,6 +986,95 @@ J/K folks, that's not the napkin...
       - therefore, their attempts to isolate me will backfire as this
         is just one aspect of my life experience or lack thereof which
         I will gladly use when the time is right.
+
+
+
+<a name="throwing-bambi-to-the-wolves-by-forbidding-socioepistemic-information-aquisition" />
+
+### [Throwing Bambi To The Wolves By Forbidding Socioepistemic Information Acquisition](#throwing-bambi-to-the-wolves-by-forbidding-socioepistemic-information-aquisition)
+
+#### Step One: Label Someone With Mental Illness, Particularly Paranoia
+
+#### Step Two: Obsequiously Encourage Others to Virally Label The Target As Paranoid
+
+#### Step Three: Profit! That Person Can NEVER Question Your Motives Or The Motives Of Anyone In Life Because A Critical Behavior Is Forbidden To People Labelled Schizo or Paranoid. Their Life Will Be RUINED. They Will NEVER Be Able To Ascertain The Epistemic Beliefs/Information About Others, OUT OF FEAR OF STRENGTHENING THE LABEL. Making Decisions About Is So Critical To Maturing As An Adult. They Will Likely Blind Themselves To ALL Of The Information Needed To Develop Healthy, Mature Adult Behaviors Which Is Precisely What Happened After [Michael Lehrke](https://www.pacermonitor.com/public/case/10004266/RC_Sports,_Inc_v_Lehrke) Labeled Me As Paranoid *In A Geographically Significant Way In 2004.*
+
+What Michael did to me then would have seemed insignificant to anyone
+and it's certainly not anything I'm losing sleep over in 2018 ... but
+that's what happened. He's not the only one who sought to label me
+this way: simply the first and no single person can exert that much
+influence on your life. A single person cannot exert that much
+influence. However, the truth is that people like Michael Lerkhe, who
+irresponsibly worshipped the book 48 Laws of Power, have a long
+history of people they've deceived and manipulated. The trick is
+gaining enough influence in a social environment where you monopolize
+your position as a gatekeeper to success. Everyone will quickly forget
+everything you did to them and your enemies because you're the primary
+power broker: you can empower anyone you want *and fulfill the dreams
+of any up-and-coming jamskater. One little gotcha about power: IF YOU
+USE IT, DON'T LOSE IT.
+
+> Sorry, Mike, I still don't believe you were actually that stupid.
+> It's ok. I forgive you.
+
+My entire strategy in life since 2010 has been to abstract and
+generalize the process I applied to combinatorially enumerate all the
+jamskating moves, so I could apply it to something that matters:
+bioinformatics, neurology, physics, philosophy, etc -- preferably
+something that would give me money or power, so I could prove myself
+in a domain, where my accomplishments couldn't be overwritten with
+petty drama and where the people from my past could not affect me. I
+eventually gave up on startups and began writing. I never got a more
+amusing reaction from all the people who try to control me in my life
+-- **I've been addicted to that ever since**. I don't give a fuck
+about your money, your fame, or any of your petty measures of
+success. None of that matters to me because it's apparently
+*verbotten* to let me have any success whatsoever.  For me, life is a
+rigged game and I'm laughing because, to me, people are the game. If I
+ever achieve moderate success, it's because I've so sufficiently
+dominated all of you.
+
+#### Liminal, A Video From the Skateboarder-Philosopher Rodney Mullen.
+
+> Watch the end of Bones Brigade. That guy knows the Daoest Dao of the
+> Dao. IMO, it's because he became methodically creative in a fresh
+> domain that no one knew how to map, index or quantify whatsoever.
+> When you intuitionistically understand how to methodically explore
+> something that no one knows or no one has taught you, you develop an
+> awareness that there is always a better way to know what you can
+> know.
+
+<iframe width="560" height="315"
+src="https://www.youtube.com/embed/-3tDvMG87Ro" frameborder="0"
+allow="autoplay; encrypted-media" allowfullscreen></iframe>
+
+*Whenever I engage in behaviors to discover the outlines of epistemic
+structures -- viz. to socially inquire about the missing pieces to
+explain why my life is a broken mess -- I am derided as a broken
+schizophrenic mess that's clearly paranoid and needs to be stuck in a
+mental institution forever*. Without skills for seeking and acquiring
+socially relevant information, people are socially paralyzed. To be
+sure, that's a fantastic vulnerability to breed if your objective is
+to generally dominate people -- and if you ever want to make them feel
+helpless, you can belittle them by calling them a lost puppy or a
+one-trick pony -- while never giving them a clue, of course. Why?
+Because America -- that's apparently why.
+
+I was never equipped with these skill during my adolescence, but
+afterwards everyone saught to ostracize me by meticulously
+constricting my social experience, running the rumor mill at full
+steam, fallaciously labelling me with mental illness, and figuring out
+how to get my closest friends/family to do all the dirty work,
+ensuring those relationships would be ruined. The most infuriating
+part of all of this is knowing that **these
+[dementors](http://harrypotter.wikia.com/wiki/Dementor%27s_Kiss)
+depend on my social vulnerability to abuse me** because otherwise
+they'd never be capable of doing this to someone without getting
+caught doing it. Moreover, other people apparently bred social
+vulnerability into my psychology TO USE ME, who now want run damage
+control by getting society to basically toss my life in a ditch, I
+would greatly prefer over being stuck in a mental institution like
+some unfortunately suppressed delusional Nietzsche.
 
 
 
