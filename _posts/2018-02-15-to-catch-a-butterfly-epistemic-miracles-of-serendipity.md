@@ -24,15 +24,17 @@ excerpt: ""
 
 ![Fruit of the Poisonous Tree](/img/posts/2018-02-14-to-catch-a-butterfly-epistemic-miracles-of-serendipity/hemlock.jpg)
 
-
 ![Kino's Journey](/img/posts/2018-02-14-to-catch-a-butterfly-epistemic-miracles-of-serendipity/kinos-journey.jpg)
-
 
 - [Stargate S3E22](http://stargate.wikia.com/wiki/SG-1_Season_3)
 
-
-
 ## [Epistemic Miracles of Serendipity Are Incomputable](#epistemic-miracles-of-serendipity-are-incomputable)
+
+#### &#920; [Life Is An Incomputable Sociophysical Game](#life-is-an-incomputable-sociophysical-game)
+
+#### &#920; [Without Serendipity, Analytic Methods That Accelerate Learning Algorithms Are Depressingly Limited](#without-serendipity-analytic-methods-that-accelerate-learning-algorithms-are-depressingly-limited)
+
+#### &#920; [The Typological Speciation of Life Experience](#the-typological-speciation-of-life-experience)
 
 #### &#920; [What is Found Only by Those Who See Clearly and Never By Those Who Seek?](#what-is-found-only-by-those-who-see-clearly-and-never-by-those-who-seek)
 
@@ -56,7 +58,7 @@ excerpt: ""
 
 #### &#920; [Marking The Bodies of Targets With Repetitive Strain](#marking-the-bodies-of-targets-with-repetitive-strain)
 
-####  &#920; 歯齒, [Where's Your Teeth?](#haha-wheres-your-teeth)
+#### &#920; 歯齒, [Where's Your Teeth?](#haha-wheres-your-teeth)
 
 #### &#920; [A Probabilistic Informational Addressing Scheme: Tracking Information and Parameterizing Handlers](#a-probabilistic-informational-addressing-scheme-programming-and-tracking-information)
 
@@ -66,12 +68,9 @@ excerpt: ""
 
 #### &#920; [Throwing Bambi To The Wolves By Forbidding Socioepistemic Information Acquisition](#throwing-bambi-to-the-wolves-by-forbidding-socioepistemic-information-aquisition)
 
-
 <a name="epistemic-miracles-of-serendipity-are-incomputable" />
 
 # [Epistemic Miracles of Serendipity Are Incomputable](#epistemic-miracles-of-serendipity-are-incomputable)
-
-![](/img/posts/2018-02-14-to-catch-a-butterfly-epistemic-miracles-of-serendipity/)
 
 After reading into this essay by David Kirsch and Paul Maglio -- [On
 Distinguishing Epistemic from Pragmatic Action](), my wheels started
@@ -83,12 +82,14 @@ essay, Kirsch and Maglio quickly outline two kinds of human behavior:
 that originted towards *pragmatic* attainment of a clear objective and
 that oriented towards resolution of *epistemic*
 uncertainty.[^distinguishing-pragmatic-and-epistemic-intent] The
-latter is a complicated defintion for random mutations of state in a
+latter is a complicated definition for random mutations of state in a
 game or social situation to suss out some details or knowledge
 structure. There may not be any clear purpose to it, but by engaging
 in it, one gains information.
 
-### Life Is An Incomputable Sociophysical Game
+<a name="life-is-an-incomputable-sociophysical-game" />
+
+### [Life Is An Incomputable Sociophysical Game](#life-is-an-incomputable-sociophysical-game)
 
 Life is a sociophysical game: without well-defined
 objectives; with both turn-based and simultaneous play; with many
@@ -100,25 +101,85 @@ sets of rules: for habitual behaviors; for accumulated event-driven
 response behaviors; to define a system of values for phenomena to
 either seek or avert.
 
-### Without Serendipity, Analytic Methods That Accelerate Learning Algorithms Are Depressingly Limited
+<a name="without-serendipity-analytic-methods-that-accelerate-learning-algorithms-are-depressingly-limited" />
+
+### [Without Serendipity, Analytic Methods That Accelerate Learning Algorithms Are Depressingly Limited](#without-serendipity-analytic-methods-that-accelerate-learning-algorithms-are-depressingly-limited)
 
 Because the game is so complex, Most extrapolations of information in
 sociophysical systems are intractible and incomputable. This is why
-the human brain is an analytic machine: there really are no tractible
-numerical methods for solving the game of life.
+the human brain is an *analytic* machine: there really are no
+tractible *numerical* methods for solving the game of life. The human
+brain emulates numerical methods by congealing it's plastic neural
+circuits around analytic emulations of numerical solutions. Though the
+computational capacity of the human brain is high, it's merely a
+lower-bound on the upper bound of maximum computational density.
+Sociophysical games involve reflection of information across socially
+networked, biological computers, as well as the spectral convergence
+and divergence of that information. If you do not understand what this
+means, either explicitly or by intuition, you are helplessly trapped
+within someone else's game.
+
+#### From Majjhima Nikaya 26:19[^majjhima-nikaya-26-19]
+
+> "This Dhamma that I have attained is profound, hard to see and hard
+> to understand, peaceful and sublime, **unattainable by mere
+> reasoning**, subtle, to be experienced by the wise..."
 
 Every person has their own experience in the world, resulting in a
-socially distributed typology of individuals' experiences.
+socially distributed typology of individuals' experiences. This means
+that some nuggets of wisdom about life are *unattainble by
+extrapolation alone*, which is one personal interpretation of the
+above verse. Instead, obtaining these *radiant teardrops* of wisdom
+requires perturbation of sociophysical models, where the models are
+optimally speciated expansively enough to consider that you've
+effectively searched the entire space.
 
-- When this typology is varied, the likelihood that some individual
-  will be likely to extrapolated in an unexpected manner increases
-  dramatically.
-- (these extrapolations are easier to compute when assumptions can be
-  made resulting in convergent information dynamics)
+#### The Buddha Could Walk At Birth.
 
-- TODO: expand this and connect to the essay
+> Was it a serendipitous miracle of ideal neurological configuration?
+> Or proof of reincarnation?
 
-#### Does That Taste Good? Is It Nutritious?
+![The Buddha's First Seven Steps](/img/posts/2018-02-14-to-catch-a-butterfly-epistemic-miracles-of-serendipity/buddhas-first-seven-steps.jpg)
+
+<a name="the-typological-speciation-of-life-experience" />
+
+### [The Typological Speciation of Life Experience](#the-typological-speciation-of-life-experience)
+
+When this *speciation of life experience types* is sufficiently
+varied, the likelihood that components of some individual's life
+experiences could extrapolate in an unexpected manner increases
+dramatically. This is because diversity of life experience has
+effectively covered the typological space of life experience types.
+
+From Kirsch and Maglio's essay, the notions (...) tetris piece
+rotations to accelerate cognitive identification of options related to
+those pieces in the game's playing space related to social physics and
+life. Every person is unique, but sufficient familiarity with the
+typological space of life experiences -- and especially the nature of
+metatypology, which I believe to be like the Dao of the Dao -- and one
+understand the "shapes" of people, personalities and psychologies as
+they apply to life as a sociophysical game.
+
+#### Astolfo From Fate/Grand Order
+
+![Astolfo on a Griffin](/img/posts/2018-02-14-to-catch-a-butterfly-epistemic-miracles-of-serendipity/fate-grand-order-astolfo.jpg)
+
+Further, these inferences extrapolations are easier to compute when
+assumptions can be made resulting in convergent information dynamics,
+which is exactly why it's both so critical and useful to be able to
+connect everything back to metatypology. High-dimensional, typological
+structures are what begin to emerge in the upper layers of
+neuralogical networks, though any given set of weights with equivalent
+accuracy can encode a similar analytical approximation of typological
+structures in a myriad of ways.[^typological-structures] There are
+algorithms that corportations prefer remain as trade secrets which are
+made manifest in the structures of neurons, so we can never surpass
+some threshold of neurological understanding without revealing
+them. Therefore, whether they should remain trade secret once revealed
+through neurological study is a debate not so different from that of
+patenting human and natural genes.
+
+#### Does That Taste Good? Is It Nutritious? How Would You Know?
 
 ![Kino Eating](/img/posts/2018-02-14-to-catch-a-butterfly-epistemic-miracles-of-serendipity/kino-eating.jpg)
 
@@ -156,10 +217,10 @@ in an efficient direction is itself a mathematically hard problem.
 
 #### Nonlinear Dimensionality Reduction For Faster Kernel Methods In Machine Learning&nbsp;(ML)
 
-> Please Note: I am lucky to even understand this
+> Please Note: this
 > [IAS](https://www.youtube.com/channel/UC8aRaZ6_0weiS50pvCmo0pw)
-> presentation at a high-level. Almost every single video is far out
-> of my league. It's like [Simons
+> presentation I am lucky to even understand at a high-level. Almost
+> every single video is far out of my league. It's like [Simons
 > Institute](https://www.youtube.com/user/SimonsInstitute) for people
 > that are easily bored with Simons Institute videos. I don't quite
 > understand the specifics of this video. I know enough to extrapolate
@@ -170,8 +231,6 @@ src="https://www.youtube.com/embed/ULFzxq0u_mI" frameborder="0"
 allow="autoplay; encrypted-media" allowfullscreen></iframe>
 
 ### [Boltzmann's Distribution, A Generalized Heat Equation and Optimizaiton for Distributed Social Computing](#botlzmanns-distribution-a-generalized-heat-equation)
-
-- mention Nash's generalized heat equation
 
 These are the same problems that data scientists face when trying to
 train ML algorithms to solve problems which are certainly non-linear
@@ -187,7 +246,16 @@ the Boltzmann distribution in that space helps you determine how much
 randomization you should introduce into your models as you're training
 them.
 
-Connecting this back to epistemology: how do we know whether our
+#### Now, If I Could Just Connect All This Distributed Sociophysical Computation To John Nash's Work On A Generalized Heat Equation...[^continuity-of-solutions]
+
+<iframe width="560" height="315"
+src="https://www.youtube.com/embed/iHKa8F-RsEM" frameborder="0"
+allow="autoplay; encrypted-media" allowfullscreen></iframe>
+
+> What's the big deal about John Nash, anyways? Why was his work so
+> important? Watch this lecture from Cédric Villani.
+
+Connecting this all back to epistemology: how do we know whether our
 understanding of reality is the "best" such understanding? We don't
 and we can't ever know this for sure. However, we can reflect the
 knowledge gleaned from each individual's experience back through the
@@ -202,9 +270,6 @@ rest of society to help us discover:
 #### [Kino's Journey: The Beautiful World](www.crunchyroll.com/kinos-journey-the-beautiful-world-the-animated-series)
 
 ![Kino with Glasses](/img/posts/2018-02-14-to-catch-a-butterfly-epistemic-miracles-of-serendipity/kino-riding.jpg)
-
-
-- more about
 
 When individuals are more likely to have streamlined and rigidly
 defined psychosocial development, their range of toughts and range of
@@ -238,9 +303,9 @@ some unique set of experiences. When you examine any individual's
 experiences typologically, no matter their specific or apparent
 background, you'll find that there is significant overlap with your
 own experiences. Everyone approaches myriad types of situations and
-some people have a profound lack of some of those types of situations.
-By listening to the people around you, you can gain an infinite amount
-of wisdom.
+some people have a profound lack of exposure to some experience
+types. By listening to the people around you, you can gain an infinite
+amount of wisdom.
 
 <a name="to-catch-a-butterfly" />
 
@@ -290,8 +355,6 @@ LISTEN.
 <a name="my-own-psychological-development-a-topped-tree-isolated-like-veal" />
 
 ### [My Own Psychological Development: A Topped Tree, Isolated Like Veal](#my-own-psychological-development-a-topped-tree-isolated-like-veal)
-
-- topped tree is also a metaphor for a lopsided family tree
 
 Adults can be sheltered in the extreme via poverty, restricted
 transportation, extreme sociological disruption, ruined reputation,
@@ -374,6 +437,9 @@ nice, huh?
 
 ![Topped Tree](/img/posts/2018-02-14-to-catch-a-butterfly-epistemic-miracles-of-serendipity/topped-tree.jpg)
 
+> Please Note: a topped tree is also tragic metaphor for a lopsided,
+> pruned family tree.
+
 <a name="his-psychology-looks-like-a-topped-tree" />
 
 ### [His Psychology Looks Like A Topped Tree](#his-psychology-looks-like-a-topped-tree)
@@ -392,15 +458,15 @@ People exploit your own decision making process, which is best,
 because then it seems that **you and you alone** were the cause of all
 your problems. For example, they will encourage you to not try new
 food or obsequiously weave triggers to artificial anxieties in your
-decision making processes *to dissuade you totally from any new types*
-of experiences*. There is a darker side to process engineering in
-social logistics; where some *sociophysical chariot* systematically
-manipulates your social boundary around someone to contain you -- by
-whatever manufactured means and justifications necessary. In the long
-term, this totally cripples you by shoving garbage into your
-psychology and decision-making processes. This eventually renders you
-helpless and alone, desparate for help -- and no one else is there for
-you except for those who victimized you.
+decision making processes, *so that you're dissuaded from* **any new
+types** *of experiences*. There is a darker side to process
+engineering in social logistics; where some *sociophysical chariot*
+systematically manipulates your social boundary around someone to
+contain you -- by whatever manufactured means and justifications
+necessary. In the long term, this totally cripples you by shoving
+garbage into your psychology and decision-making processes. This
+eventually renders you helpless and alone, desparate for help -- and
+no one else is there for you except for those who victimized you.
 
 #### Oh Know: You Think You're Chocolate, When You're Chewing Gum
 
@@ -468,13 +534,14 @@ information exists in the minds of people, it never goes away.
 
 > It's a problem that your own psychology burdens you with until the
 > end of time. If you're lucky, it's an `O(n)` problem and not a
-> polynomially complex problem to be triggered. If it's a good
-> sisyphean rock, it can regularly triggered by those lilliputian
-> wormtongue pricks who seek to burden you with all the timewasting
-> rocks necessary to keep in that hole. You'd be surprised just how
-> good "impartial" people are at doing this and how much they enjoy
-> doing it to me. It's a game that only works until the person wakes
-> up.
+> polynomially complex problem. It could be something triggered by
+> your frenemies or a supervisor who mismanages you to degrade your
+> performance, *generally detaining you*. If it's a good sisyphean
+> rock, it can regularly triggered by those lilliputian wormtongue
+> pricks who seek to burden you with all the timewasting rocks
+> necessary to keep you in that hole. You'd be surprised just how good
+> "impartial" people are at doing this and how much they enjoy doing
+> it to me. It's a game that only works until the person wakes up.
 
 ![Here, Sisyphus, Carry This Rock](/img/posts/2018-02-14-to-catch-a-butterfly-epistemic-miracles-of-serendipity/sisyphus.jpg)
 
@@ -655,7 +722,7 @@ instructions.
 
 #### Ever Get A Hot Babe's Number After Doing A Triple Take As She Walks By?
 
-So... if you've ever seen that puzzled look when you mistate something
+So... have you ever seen that puzzled look when you mistate something
 with the utmost confidence and the person you're talking to *triple
 checks* what you just said -- with all the feigned nonchalanace of a
 hopeful extra in a bad movie.
@@ -732,27 +799,86 @@ and your origination? Your coming and your going?
 
 
 
+<a name="who-is-tathagata-trebek" />
 
-### [Who Is Tathagata, Trebek?]()
+### [Who Is Tathagata, Trebek?](#who-is-tathagata-trebek)
 
-Regardless of how proficiently manipulative potential adversaries
-might be, when you free yourself of negative intention...
+Regardless of how proficiently toxic your manipulative adversaries and
+whether they're formally organized against, when you cleanse yourself
+of negative intention and liberate yourself from preconceived
+objectives, then, to evil, you have literally cloaked yourself in
+invisbility.
+
+Everything that exists in materialistic metaphysical world originates
+in the hearts and minds of men: both good and evil. Because you cannot
+allow yourself to intend negative consequences from your actions, you
+cannot so easily lend yourself towards evil's intentions. That is you
+exercise discernment to prohibit yourself from directing your energy
+towards that which you find to be morally reprehensible: you'd never
+finance that thing, give it a cent or *pay it any mind.* If you have
+no vices, there are no typical situations evil can (easily) contrive
+to gradually pin you down. If you (live virtuously and humbly),
+towards the steady accumulation of sociophysical potential energies,
+then when you are attacked, you have plenty of capacity to respond on
+your own.
+
+- mention will/agency, distributed across entity/agency
+  - what do you desire to manifest? do you allow yourself to become a
+    conduit for the will of others? what desires or will do you allow
+    to be manifested using your hands as a conduit? you must be aware
+    of what it is you allow your consciousness to create.
+  - what is good and what is evil anyways? can we ever have one
+    without the other? if dualism prevails, which it does, in a way,
+    this results in an incredibly complicated understanding for what
+    is "good" and what is "evil" in a world where both the
+    understanding of good and the willingness to fight for it depend
+    on having experienced evil or seen it corrupt those around you.
+  - if the above, more dynamic understanding of good and evil requires
+    patience, wisdom and knowledge to even distinguish the
+    higher-order good and evil from the lower-order good and evil,
+    then, to prevail, evil requires ignorance, attachment and
+    suffering.
+
+And if you suppress your sense of ego, you become fluid because you
+can (easily shift) your sociophysical energies (towards the life of
+another), if evil reaches out to destroy your life. To do this, you
+must disconnect from your own preconceived (goals, objectives,
+formulations) about your life. You have to be acutely aware of
+situations, so that you can utilize serendipity as it is presented to
+you. What appears serendipitous and miraculous to you, might not be
+readily apparent to others. Knowing that we are all one, then also,
+what might not be readily apparent to others might be serendipitously
+miraculous to them, while requiring some (instantaneous) action of
+your own. Such virtuous, selfless action may require personal
+sacrifice, but if we are all one, you would gladly pay it. Mara cannot
+know this: selflessness is literally incomprehensible to evil. Because
+selflessness is incomprehensible to evil, if we are all a little more
+selfless and fluid, then society as a whole becomes less susceptible
+to evil.
+
+Evil depends on our own attachment to our personal designs on life. By
+decoupling from that, you're not giving Mara any (fixtures) in
+reality,
+
+
+, equip yourself with the knowledge of causality and
 
 
 
-
+![3D Graffiti of The Ways]()
 
 
 
 ### The Eight Jhanas from the Ariyapariyesana Sutta
 
 
-#### [Majjhima Nikaya 26:34-42](https://suttacentral.net/en/mn26):
+#### [Majjhima Nikaya
+26:34-42](https://www.accesstoinsight.org/tipitaka/mn/mn.026.than.html):
 
 > This monk is said to have blinded Mara. Trackless, he has destroyed
 > Mara's vision and has become invisible to the Evil One.
 
-#### Another Translation of [Mijjhima Nikiya](https://www.accesstoinsight.org/tipitaka/mn/mn.026.than.html)
+#### Another Translation of [Mijjhima Nikiya](https://suttacentral.net/en/mn26)
 
 > This bhikkhu is said to have blindfolded Māra, to have become
 > invisible to the Evil One by depriving Māra’s eye of its
@@ -880,6 +1006,7 @@ allow="autoplay; encrypted-media" allowfullscreen></iframe>
 
 
 
+
 - of course, the inverse: the more people who are bound to the
   expedient/pragmatic/etc attainment of their desires, (the more
   people that are available for evil to use.)
@@ -993,11 +1120,53 @@ J/K folks, that's not the napkin...
 
 ### [Throwing Bambi To The Wolves By Forbidding Socioepistemic Information Acquisition](#throwing-bambi-to-the-wolves-by-forbidding-socioepistemic-information-aquisition)
 
+*Whenever I engage in behaviors to discover the outlines of epistemic
+structures -- viz. to socially inquire about the missing pieces to
+explain why my life is a broken mess -- I am derided as a broken
+schizophrenic mess that's clearly paranoid and needs to be stuck in a
+mental institution forever*. Without skills for seeking and acquiring
+socially relevant information, people are socially paralyzed. To be
+sure, that's a fantastic vulnerability to breed if your objective is
+to generally dominate people -- and if you ever want to make them feel
+helpless, you can belittle them by calling them a lost puppy or a
+one-trick pony -- while never giving them a clue, of course. Why?
+Because America -- that's apparently why.
+
+I was never equipped with these skill during my adolescence, but
+afterwards everyone saught to ostracize me by meticulously
+constricting my social experience, running the rumor mill at full
+steam, fallaciously labelling me with mental illness, and figuring out
+how to get my closest friends/family to do all the dirty work,
+ensuring those relationships would be ruined. The most infuriating
+part of all of this is knowing that **these
+[dementors](http://harrypotter.wikia.com/wiki/Dementor%27s_Kiss)
+depend on my social vulnerability to abuse me** because otherwise
+they'd never be capable of doing this to someone without getting
+caught doing it. Moreover, other people apparently bred social
+vulnerability into my psychology TO USE ME, who now want run damage
+control by getting society to basically toss my life in a ditch, I
+would greatly prefer over being stuck in a mental institution like
+some unfortunately suppressed delusional Nietzsche.
+
+### Wherefore The Rollerrink Drama Went Thermonuclear
+
 #### Step One: Label Someone With Mental Illness, Particularly Paranoia
 
 #### Step Two: Obsequiously Encourage Others to Virally Label The Target As Paranoid
 
-#### Step Three: Profit! That Person Can NEVER Question Your Motives Or The Motives Of Anyone In Life Because A Critical Behavior Is Forbidden To People Labelled Schizo or Paranoid. Their Life Will Be RUINED. They Will NEVER Be Able To Ascertain The Epistemic Beliefs/Information About Others, OUT OF FEAR OF STRENGTHENING THE LABEL. Making Decisions About Is So Critical To Maturing As An Adult. They Will Likely Blind Themselves To ALL Of The Information Needed To Develop Healthy, Mature Adult Behaviors Which Is Precisely What Happened After [Michael Lehrke](https://www.pacermonitor.com/public/case/10004266/RC_Sports,_Inc_v_Lehrke) Labeled Me As Paranoid *In A Geographically Significant Way In 2004.*
+#### Step Three: Profit! That Person Can NEVER Question Your Motives Or The Motives Of Anyone In Life Because That Critical Behavior Is Forbidden To People Labelled Schizo or Paranoid.
+
+
+- TODO: rewrite and remove capitalization
+
+Their Life Will Be RUINED. They Will NEVER Be Able To Ascertain The
+Epistemic Beliefs/Information About Others, OUT OF FEAR OF
+STRENGTHENING THE LABEL. Making Decisions About Is So Critical To
+Maturing As An Adult. They Will Likely Blind Themselves To ALL Of The
+Information Needed To Develop Healthy, Mature Adult Behaviors Which Is
+Precisely What Happened After [Michael
+Lehrke](https://www.pacermonitor.com/public/case/10004266/RC_Sports,_Inc_v_Lehrke)
+Labeled Me As Paranoid *In A Geographically Significant Way In 2004.*
 
 What Michael did to me then would have seemed insignificant to anyone
 and it's certainly not anything I'm losing sleep over in 2018 ... but
@@ -1068,43 +1237,20 @@ did humanity do to raw, unpotentiated greatness? You destroyed it
 because you fear what you do not understand. And when I achieve such a
 great accomplishment -- whether it's possible to surpass your petty,
 judgemental bullshit or hopeless and impossible -- it will be so
-great, but also good *BECAUSE YOU METHODICALLY TORMENTED AN ALTRUISTIC
-PERSON WHO LOVES HUMANITY*. And you'll never do it to someone like me
-again.
-
-*Whenever I engage in behaviors to discover the outlines of epistemic
-structures -- viz. to socially inquire about the missing pieces to
-explain why my life is a broken mess -- I am derided as a broken
-schizophrenic mess that's clearly paranoid and needs to be stuck in a
-mental institution forever*. Without skills for seeking and acquiring
-socially relevant information, people are socially paralyzed. To be
-sure, that's a fantastic vulnerability to breed if your objective is
-to generally dominate people -- and if you ever want to make them feel
-helpless, you can belittle them by calling them a lost puppy or a
-one-trick pony -- while never giving them a clue, of course. Why?
-Because America -- that's apparently why.
-
-I was never equipped with these skill during my adolescence, but
-afterwards everyone saught to ostracize me by meticulously
-constricting my social experience, running the rumor mill at full
-steam, fallaciously labelling me with mental illness, and figuring out
-how to get my closest friends/family to do all the dirty work,
-ensuring those relationships would be ruined. The most infuriating
-part of all of this is knowing that **these
-[dementors](http://harrypotter.wikia.com/wiki/Dementor%27s_Kiss)
-depend on my social vulnerability to abuse me** because otherwise
-they'd never be capable of doing this to someone without getting
-caught doing it. Moreover, other people apparently bred social
-vulnerability into my psychology TO USE ME, who now want run damage
-control by getting society to basically toss my life in a ditch, I
-would greatly prefer over being stuck in a mental institution like
-some unfortunately suppressed delusional Nietzsche.
-
+great, but also good *BECAUSE YOU METHODICALLY TORMENTED AN*
+**ALTRUISTIC** *PERSON WHO LOVES HUMANITY*. And you'll never do it to
+someone like me again.
 
 
 <iframe width="560" height="315"
 src="https://www.youtube.com/embed/Ze_hfMw8JFg" frameborder="0"
 allow="autoplay; encrypted-media" allowfullscreen></iframe>
+
+[^majjhima-nikaya-26-19]: From "The Noble Search" ([Ariyapariyesanā
+    Sutta](www.wisdompubs.org/book/middle-length-discourses-buddha/selections/middle-length-discourses-26-ariyapariyesana-sutta),
+    Majjhima Nikaya 26:19)
+
+
 
 [^distinguishing-pragmatic-and-epistemic-intent]: Kirsh, D. and
     Maglio, P. (1994), [On Distinguishing Epistemic from Pragmatic
@@ -1127,3 +1273,14 @@ allow="autoplay; encrypted-media" allowfullscreen></iframe>
 [^svali-speaks]: [Svali
     Speaks](https://archive.org/stream/SvaliSpeaksMindControlSurvivor/Svali%20Speaks%20-%20Mind%20Control%20Survivor_djvu.txt)
     (now almost completely eradicated from the internet)
+
+[^continuity-of-solutions]: Nash, J. ["Continuity of Solutions of
+    Parabolic and Elliptic
+    Equations."](https://doi.org/10.2307/2372841) American Journal of
+    Mathematics 80, no. 4 (1958):
+    931-54. doi:[10.2307/2372841](https://doi.org/10.2307/2372841).
+
+[^typological-structures]: I've known this since 2012, with rapidly
+    evaporating dis-parity, after finishing the Andrew Ng's Machine
+    Learning course. However, I've never been given a real chance to
+    integrate into the workforce in America.

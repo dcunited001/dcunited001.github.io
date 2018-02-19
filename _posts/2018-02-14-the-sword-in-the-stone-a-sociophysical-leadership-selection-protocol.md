@@ -365,7 +365,7 @@ allow="autoplay; encrypted-media" allowfullscreen></iframe>
 There is far too much baseless conjecture in the explanations above
 for any of it to be taken as fact. Still, if you avoid thinking about
 any of this on the basis that it's not factual, you're missing the
-point; here it's the journey, not the destination, that transforms
+point; here, it's the journey, not the destination, that transforms
 your mind and augments your metacognition.
 
 Mathematic models behind social physics[^pos-sensitive-propagation]
@@ -414,7 +414,7 @@ inherent to probabilistic systems.
 
 #### An Enthralling Discussion Of Probability Ensues
 
-![All The Probability Distributions](/img/posts/2018-02-14-the-sword-in-the-stone-a-sociophysical-leadership-selection-protocol/all-the-probability-distributions.jpg)
+![All The Probability Distributions](/img/posts/2018-02-14-the-sword-in-the-stone-a-sociophysical-leadership-selection-protocol/all-the-distributions.jpg)
 
 Consider a probability distribution of events where the frequency
 values for event types are aggregated typologically. That is, you're

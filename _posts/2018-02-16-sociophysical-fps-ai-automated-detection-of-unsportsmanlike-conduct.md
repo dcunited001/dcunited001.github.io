@@ -5,14 +5,15 @@ tags: "psychology neuro"
 headline: ""
 author:
   name: "David Conner"
-excerpt: "
-In the past five years, mainstream media has been weaving in
-experimental methods from bleeding edge psychology and neurology. For
-at least the past century, memory implantation and other mental
-manipulation is a classic science fiction plot mechanic. We see it in
-Eternal Sunshine of the Spotless Mind, where memories can be erased,
-something I would never want to do."
+excerpt: ""
 ---
+
+- throwing people's games as a protest tactic (omg he's online, let's
+  make him lose. we're really good at losing. like really good
+  losers. we don't really know how to win, but we sure do know how to
+  lose as a tactic and distribute the losses across our ranks.
+  "strength" in numbers. typical communist shenenigans.)
+
 
 Most people don't understand what is possible with algorithms because
 the math required is astronomic. To most people, math is boring, but
@@ -554,7 +555,6 @@ unique.
     stream for consistent metrics
     - if not, you can probably get the data, but its requests &
       interaction might resemble a maphack
-
 
 ### Signals Analysis on Density of Individual Team Damage Projection (Potential/Actual)
 
