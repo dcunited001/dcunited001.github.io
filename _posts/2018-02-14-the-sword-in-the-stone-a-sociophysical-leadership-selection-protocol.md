@@ -81,7 +81,7 @@ Merlin and John Dee derive their power by working from the shadows? If
 greatest twists in history were known to emerge from the loom of their
 magick, does the nature of such wizards' work preclude them from
 greatness? Do their works lose power once the hermetic seal is
-loosene? Do such men only attain their level of knowledge after a
+loosened? Do such men only attain their level of knowledge after a
 tragic life of seclusion, burdening them with informational baggage
 too inconvenient to withstand the spotlight? If so, then the guy
 standing in the limelight doesn't really have the awesome

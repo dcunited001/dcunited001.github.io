@@ -43,7 +43,11 @@ allow="autoplay; encrypted-media" allowfullscreen></iframe>
     - everything in poplocking starts with basic hiphop dance and
       gestures, layering everything in on top of that
 
+#### Vitruvian Man as the Zero Form for Dirichlet Energy
 
+- dirichlet energy and interpreting body language
+
+![Vitruvian Man]()
 
 
 - this is all geometric mechanics

@@ -26,6 +26,9 @@ excerpt: ""
 
 ![Kino's Journey](/img/posts/2018-02-14-to-catch-a-butterfly-epistemic-miracles-of-serendipity/kinos-journey.jpg)
 
+![School For The Blind](/img/posts/2018-02-14-to-catch-a-butterfly-epistemic-miracles-of-serendipity/school-for-the-blind.jpg)
+
+
 - [Stargate S3E22](http://stargate.wikia.com/wiki/SG-1_Season_3)
 
 ## [Epistemic Miracles of Serendipity Are Incomputable](#epistemic-miracles-of-serendipity-are-incomputable)
@@ -62,9 +65,29 @@ excerpt: ""
 
 #### &#920; [A Probabilistic Informational Addressing Scheme: Tracking Information and Parameterizing Handlers](#a-probabilistic-informational-addressing-scheme-programming-and-tracking-information)
 
+#### &#920; [Follow Your Nose!](#follow-your-nose)
+
 #### &#920; [All Roads Lead to Rome](#all-roads-lead-to-rome)
 
-#### &#920; ...
+#### &#920; [Who Is Tathagata, Trebek?](#who-is-tathagata-trebek)
+
+#### &#920; [The Problem of Higher-Order Moral Systems](#the-problem-of-higher-order-moral-systems)
+
+#### &#920; [All Causes and Effects Are Intertwined And Convoluted](#all-causes-and-effects-are-intertwined-and-convoluted)
+
+#### &#920; [Can Causality Exist Independent of Time or Space?](#can-causality-exist-independent-of-time-or-space)
+
+#### &#920; [Do Not Give Rise To That Which You Abhor](#do-not-give-rise-to-that-which-you-abhor)
+
+#### &#920; ["Be Water, My Friend"](#be-water-my friend)
+
+#### &#920; [Rendering Society Incomprehensible to Evil](#making-society-incomprehensible-to-evil)
+
+#### &#920; [The Eight Jhanas from the Ariyapariyesana Sutta](#the-eight-jhanas-from-the-ariyapariyesana-sutta)
+
+
+
+##
 
 #### &#920; [Throwing Bambi To The Wolves By Forbidding Socioepistemic Information Acquisition](#throwing-bambi-to-the-wolves-by-forbidding-socioepistemic-information-aquisition)
 
@@ -619,6 +642,11 @@ the common person is terrifyingly ignorant?
 
 # [Trackless: He Has Destroyed Mara's Vision](#trackless-he-has-destroyed-maras-vision)
 
+#### An Excerpt From [Majjhima Nikaya 26:34-42](https://www.accesstoinsight.org/tipitaka/mn/mn.026.than.html):
+
+> This monk is said to have blinded Mara. Trackless, he has destroyed
+> Mara's vision and has become invisible to the Evil One.
+
 Every action leaves behind information. On hiking trails and in ice
 skating rinks, the average foot traffic can be inferred by looking at
 the aggregate information encoded onto the surface of the ground. On
@@ -790,111 +818,263 @@ When people follow the footsteps of others, the trodden paths give way
 to trails, eventually paved for vehicles. This begins to tightly
 constrain the set of paths taken from city to city. When all roads
 lead to Rome, so to speak, how hard is it to infer your destination
-and your origination? Your coming and your going?
+and your origination? *Your coming and your going?*
 
 #### Robert Frost - [The Road Not Taken](/writing/)
 
 ![The Road Not Taken](/img/posts/2018-02-14-to-catch-a-butterfly-epistemic-miracles-of-serendipity/the-road-not-taken.jpg)
 
-
-
-
 <a name="who-is-tathagata-trebek" />
 
 ### [Who Is Tathagata, Trebek?](#who-is-tathagata-trebek)
 
+What do you desire to manifest? Do you desire the typical or the
+extraordinary? Why? Would you allow yourself to become a conduit
+through which others can project their will? Why or why not? Would you
+do so without knowing what exactly your are allowing your
+sociophysical flux to manifest? Most people would not, which requires
+evil to leave them ignorant of true causes and true effects. What
+desires, will and objectives would you allow to be manifested through
+your hands as a conduit? Does it even matter to you? Of course it
+does, if you are someone who values your life and the lives of
+others. No matter whether great or small, or artist, architect or
+pauper, our works here on Earth speak volumes about who we are. Still,
+if we are not aware of what it is we allow our consciousness to
+create, we will find our energy used up and our lives dried out.
+
+Moreover, if we are prohibited from understanding what it is that our
+energy is being used to build, we will surely find ourselves roped
+into someone else's scheme. What is good about what we and others do?
+People love talking about their acts of charity, humility and
+compassion. It is less clear what is evil about people do because evil
+is always cloaked in deception. It is also possible for good to be
+strengthened by works built in darkness, since it's difficult for evil
+to dissect them and defuse them.
+
+#### Yes, This Is The Way: 道 =~ The Dharma or The Road
+
+> This is a 3D Graff of the Kanji for the Dharma. It is literally The
+> Way.
+
+![3D Graffiti of "The Ways"](/img/posts/2018-02-14-to-catch-a-butterfly-epistemic-miracles-of-serendipity/3d-kanji-dou.jpg)
+
+<a name="the-problem-of-higher-order-moral-systems" />
+
+### [The Problem of Higher-Order Moral Systems](#the-problem-of-higher-order-moral-systems)
+
+What is good and what is evil anyways? Can there ever be one without
+the other? If dualism prevails -- which it does, in a way -- this
+results in an incredibly complicated understanding for what is "good"
+and what is "evil."  This is especially true in a world where both the
+understanding of good and the willingness to fight for it depend on
+having experienced evil or seen it corrupt those around you. If we
+haven't seen the works of evil, then what drives people to work so
+hard against it? How can people be easily rallied to defeat it when
+needed? How can people know when evil has taken root, if they can't
+recognize it for what it is?
+
+If the above, more dynamic understanding of good and evil requires
+patience, wisdom and knowledge to even distinguish the higher-order
+good and evil from the lower-order good and evil, then, to prevail,
+evil requires ignorance, attachment and suffering. It is irradiated by
+light and the worst kind of evil will seek to squelch out light and
+all desire to seek light before it spreads virulently. Regardless of
+the lives they've lived or which wines they've tasted, people tend to
+take action against evil when they see it. In spite of the sacrifices,
+some of use will take up arms against evil and will gladly throw our
+lives into the fire to save those we care about. However, we can only
+choose to do so if there's enough light to choose to act when it
+matters.
+
+#### Sociophysical Forces Pull Us Like Magnetism
+
+> "Love pulls us on to that distant horizon"
+
+<iframe width="560" height="315"
+src="https://www.youtube.com/embed/95Q4t0sUxQY" frameborder="0"
+allow="autoplay; encrypted-media" allowfullscreen></iframe>
+
+<a name="all-causes-and-effects-are-intertwined-and-convoluted" />
+
+### [All Causes and Effects Are Intertwined And Convoluted](#all-causes-and-effects-are-intertwined-and-convoluted)
+
+There are no independent causes and there are no independent effects,
+everything is intertwined and convoluted. We are all at the mercy of
+actions already in motion that we cannot hope to withstand. Instead,
+all we can hope to do, individually, is amplify the good intentions
+within us and dampen evil intentions. At the social scale, if we
+dampen the tendancy to become attached and dampen attached intention,
+we ultimately dampen the effects of evil and selfish desires: for
+control, for possession, for wealth. According to the Buddhist
+doctrine of
+[Pratītyasamutpāda](https://en.wikipedia.org/wiki/Pratītyasamutpāda)
+-- dependent origination -- the only phenomena to exist outside this
+hopelessly intertwined, literal
+[convolution](https://en.wikipedia.org/wiki/Convolution) of
+sociophysical cause and effect is the set of information which is
+totally independent, if I understand this correctly.
+
+<a name="can-causality-exist-independent-of-time-or-space" />
+
+### [Can Causality Exist Independent of Time or Space?](#can-causality-exist-independent-of-time-or-space)
+
+Traced backwards, all beings arose as the result of [convolution of
+physical interactions in chaotic dynamical
+systems](/posts/2017-09-14-awareness-precipitates-from-order-out-of-chaos.html). There
+is no mathematical system with chaos, that does not result in
+increasingly complicated order, life and awareness, given sufficiently
+protracted running time. This is because every system of chaos begins
+to result in compartmentalization of being into forms, which entities
+within the system must recognize along a stratification of types. If
+you hope to make predictions in the chaotic system, your system must
+take into account this *perfraction* of types of state spatially
+distributed in the system. This results in an illusion of separation,
+awareness containerized into entities distributed across the space in
+the chaotic system and, eventually, self-awareness.
+
+<a name="do-not-give-rise-to-that-which-you-abhor" />
+
+### [Do Not Give Rise To That Which You Abhor](#do-not-give-rise-to-that-which-you-abhor)
+
 Regardless of how proficiently toxic your manipulative adversaries and
-whether they're formally organized against, when you cleanse yourself
-of negative intention and liberate yourself from preconceived
-objectives, then, to evil, you have literally cloaked yourself in
-invisbility.
+whether they're formally organized, when you cleanse yourself of
+negative intention and liberate yourself from preconceived objectives,
+then, to evil, you have literally cloaked yourself in invisbility.
 
 Everything that exists in materialistic metaphysical world originates
-in the hearts and minds of men: both good and evil. Because you cannot
+in the hearts and minds of men: both good and evil. If you cannot
 allow yourself to intend negative consequences from your actions, you
-cannot so easily lend yourself towards evil's intentions. That is you
-exercise discernment to prohibit yourself from directing your energy
-towards that which you find to be morally reprehensible: you'd never
-finance that thing, give it a cent or *pay it any mind.* If you have
-no vices, there are no typical situations evil can (easily) contrive
-to gradually pin you down. If you (live virtuously and humbly),
-towards the steady accumulation of sociophysical potential energies,
+cannot so easily lend yourself towards evil's intentions. That is, you
+exercise
+[discernment](https://sniggle.net/TPL/index5.php?entry=12Feb12) to
+prohibit yourself from directing your energy towards that which you
+find to be morally reprehensible: you'd never socially finance that
+thing, give it a cent or *pay it any mind.* If you have no vices,
+there are many fewer typical patterns that evil can weave into your
+life to gradually pin you down. If you live virtuously, towards humble
+aims and the steady accumulation of sociophysical potential energies,
 then when you are attacked, you have plenty of capacity to respond on
 your own.
 
-- mention will/agency, distributed across entity/agency
-  - what do you desire to manifest? do you allow yourself to become a
-    conduit for the will of others? what desires or will do you allow
-    to be manifested using your hands as a conduit? you must be aware
-    of what it is you allow your consciousness to create.
-  - what is good and what is evil anyways? can we ever have one
-    without the other? if dualism prevails, which it does, in a way,
-    this results in an incredibly complicated understanding for what
-    is "good" and what is "evil" in a world where both the
-    understanding of good and the willingness to fight for it depend
-    on having experienced evil or seen it corrupt those around you.
-  - if the above, more dynamic understanding of good and evil requires
-    patience, wisdom and knowledge to even distinguish the
-    higher-order good and evil from the lower-order good and evil,
-    then, to prevail, evil requires ignorance, attachment and
-    suffering.
+#### The Dalai Lama Discusses Discernment In His Book, Beyond Religion: Ethics for a Whole World
 
-And if you suppress your sense of ego, you become fluid because you
-can (easily shift) your sociophysical energies (towards the life of
-another), if evil reaches out to destroy your life. To do this, you
-must disconnect from your own preconceived (goals, objectives,
-formulations) about your life. You have to be acutely aware of
-situations, so that you can utilize serendipity as it is presented to
-you. What appears serendipitous and miraculous to you, might not be
-readily apparent to others. Knowing that we are all one, then also,
-what might not be readily apparent to others might be serendipitously
-miraculous to them, while requiring some (instantaneous) action of
-your own. Such virtuous, selfless action may require personal
-sacrifice, but if we are all one, you would gladly pay it. Mara cannot
-know this: selflessness is literally incomprehensible to evil. Because
-selflessness is incomprehensible to evil, if we are all a little more
-selfless and fluid, then society as a whole becomes less susceptible
-to evil.
+![Beyond Religion: Ethics for a Whole World](/img/posts/2018-02-14-to-catch-a-butterfly-epistemic-miracles-of-serendipity/beyond-religion.jpg)
+
+> In this book, the Dalai Lama recommends [empathetic
+> joy](https://en.wikipedia.org/wiki/Mudita), which Americans find
+> horrifying, offensive and potentially symptomatic of mental illness,
+> if they don't know you personally. "He smiled at me for being
+> happy. He's crazy! Doesn't he know he's in the psychological torture
+> program?" No... I had no idea, but apparently, protracted
+> psychological torture is all I've ever known as an adult in
+> America. Apparently, everyone else in America knew about this little
+> program.
+
+<a name="be-water-my-friend" />
+
+### ["Be Water, My Friend"](#be-water-my friend)
+
+When you suppress your sense of ego, you become fluid: your
+sociophysical potential energies can easily be kinetically diverted
+towards aiding your life or the life of another, if evil reaches out
+to destroy or use. To become fluid, you must disconnect from your own
+preconceived conceptions about your life. This does not mean that you
+do not develop plans, goals or objectives, but instead you remain
+flexible and balanced. You must develop acute awareness of situations,
+so that you can utilize serendipity as it is presented to you.
+Ultimately, you should develop this ability to harness serendipity in
+a generalized manner. Preferably, you can inculcate this tendancy to
+use what is presented to you so that it becomes unconscious. Life is
+always handing you what you need, though it's not always easy to see.
+
+> There may be dozens of people attached to you to swat the
+> serendipity right out of your hands, which is unfortunate.
+
+What appears serendipitous and miraculous to you, might not be readily
+apparent to others. Knowing that we are all one, then also, what might
+not be readily apparent to others might be serendipitously miraculous
+to them, while requiring some instantaneous action of your own. This
+virtuous, selfless action may require personal sacrifice, but if we
+are all one, you would gladly pay it. Mara cannot know this:
+selflessness is literally incomprehensible to evil.
+
+<iframe width="560" height="315"
+src="https://www.youtube.com/embed/nzQWYHHqvIw" frameborder="0"
+allow="autoplay; encrypted-media" allowfullscreen></iframe>
+
+<a name="rendering-society-incomprehensible-to-evil" />
+
+### [Rendering Society Incomprehensible to Evil](#making-society-incomprehensible-to-evil)
 
 Evil depends on our own attachment to our personal designs on life. By
-decoupling from that, you're not giving Mara any (fixtures) in
-reality,
+decoupling from the specifics of those goals, we're convoluting the
+complexity of sociophysical computation by depriving Mara of any
+fix-points in reality upon which she can make assumptions. This is
+unexpected and incredibly disruptive.
+
+Because selflessness is incomprehensible to evil, if we are all a
+little more selfless and fluid, then society as a whole becomes less
+susceptible to evil. This starts from the grass roots at the level of
+individuals, who must autonomously act today to preserve tomorrow a
+myriad of possibilities, unencumbered by the informational burden of
+actions. Some action is necessary to accumulate various types of
+sociophyscial potential energies, but uninformed action will instead
+cause us to accrue a massive informational burden associated to our
+identities.
 
 
-, equip yourself with the knowledge of causality and
 
 
+<a name="the-eight-jhanas-from-the-ariyapariyesana-sutta" />
 
-![3D Graffiti of The Ways]()
+### [The Eight Jhanas from the Ariyapariyesana Sutta](#the-eight-jhanas-from-the-ariyapariyesana-sutta)
 
-
-
-### The Eight Jhanas from the Ariyapariyesana Sutta
-
-
-#### [Majjhima Nikaya
-26:34-42](https://www.accesstoinsight.org/tipitaka/mn/mn.026.than.html):
-
-> This monk is said to have blinded Mara. Trackless, he has destroyed
-> Mara's vision and has become invisible to the Evil One.
-
-#### Another Translation of [Mijjhima Nikiya](https://suttacentral.net/en/mn26)
+#### Another Translation of That Line From [Mijjhima Nikiya](https://suttacentral.net/en/mn26)
 
 > This bhikkhu is said to have blindfolded Māra, to have become
 > invisible to the Evil One by depriving Māra’s eye of its
 > opportunity.
 
+This section of Majjhima Nikaya section describes progression of
+medititave mindstate through eight
+[Dhyāna](https://en.wikipedia.org/wiki/Dhy%C4%81na_in_Buddhism) or
+jhana. However, these passages of literature appears to establish a
+pattern of thoughts intended to be used as objects of meditation in
+successive stages, with the ultimate goal to utilize meditation's
+trasformative effects to create a mind that is capable of liberation
+in the conscious world, espcially from the fate of being a pawn of
+desire or of the powerful.
 
+Progression beyond the fourth Jhana is exceedingly rare, in both
+transcending this in the state of meditation and in embodying these
+understandings in the conscious realm. Meditation merely facilitates
+the inculcation of these understandings. Speaking from my own
+experience, I believe that meditation allows the brain's constraints
+over the mind to relax so that the mind begins flowing in such a way
+that allows us to viscerally experience the metaphysical realm. I
+wrote about this in [Meditation, Conceputual Designation and Monadic
+Metaphysics](/posts/2017-10-09-meditation-conceptual-designation-and-monadic-metaphysics.html). I
+believe that these Jhanas describe a progression towards the mind's
+experience of raw metaphysics, which is why it talks about an
+increasing progression towards mindstates indicating spaceless
+consciousness and consciousness without the capability of perception.
 
-  - This section of Majjhima Nikaya section describes progression of
-    medititave mindstate through eight
-    [Dhyāna](https://en.wikipedia.org/wiki/Dhy%C4%81na_in_Buddhism) ,
-    where progression past the it is also describing a general
-    progression towards embodying the values of Buddhist thought.
+#### Please keep in mind that I am no authority on Buddhist thought.
 
+I've barely studied myself and only hope that I can encourage you to
+study for yourself without tainting your perception of Buddhist
+thought with what I have written, spoken or thought myself. It's not
+easy to make these insights, but the best advice I can give you for
+meditation is to be open-minded, patient, to realize that you are
+already capable and to understand that you have to try to not try. It
+is a feeling of surrender to the natural state of the mind and it
+cannot be accelerated by trying. If you want to make it anywhere with
+Buddhism, spiritualism, or religious practices, you must commit
+yourself to it. It's really not something you can pick up and put down
+when it is convenient for you, which is unfortunately what I've done
+all too often.
 
-
-#### Brief Notes on the Symbolic Parity of Literary Translations
+#### On the Symbolic Parity of Literary Translations
 
 It's critical to read multiple translations of philosophical and
 religious texts. Each one leaves varying degrees of satisfaction in
@@ -921,8 +1101,9 @@ symbolically abbreviated, compared to KJV, ECV and NIV.
 - well networked
 
 - however, if you are personally effective in liberating yourself or
-  others, then you can be sure that Mara (greed, lust, etc) will be
-  there to chain you down again.
+  others, then you can be sure that Mara will be there to chain you
+  down again, with her three daughters, [Attraction, Aversion and
+  Delusion](https://en.wikipedia.org/wiki/Mara_(demon)#Three_daughters).
   - if you are successful in making a major difference sociologically,
     you can be certain that Mara will track down the source of
     liberation.
@@ -946,7 +1127,116 @@ symbolically abbreviated, compared to KJV, ECV and NIV.
     crucial to preserving your sociophysical potential energies.
     - you have to know how to act to change just the things you want,
       while allowing everything else to remain stable
-    - metaphor: curling and "burned rocks"
+      - metaphor: curling and "burned rocks"
+    - if you don't know how to act without changing anything, you
+      cannot act to obtain precisely the changes you want without
+      risking creating too much sociophysical turbulence
+      - for your actions to create a response with surgical precision,
+        you have to know. if you are forbidden from acquiring
+        information about your circumstances, you cannot act without
+        creating negative reactions.
+      - for me, in 2015, it seems that there was already a plethora of
+        negative sociophysical momentum associated to my identity and
+        actions I couldn't believe were real myself. the people who
+        had coaxed this into being did so assuming that they could
+        blame it all on me, so they didn't want me to understand what
+        had been created and worked tirelessly to prevent me from
+        understanding the specifics and consequences of actions which
+        I could not believe ever occured.
+
+- who had social/financial/informational resources to change things?
+  what did these groups of people intend to create? what information
+  did they propagate and why? what information did they seek to
+  prevent being unveiled to me? all you have to do is understand is
+  that I had as close to zero social, financial and informational
+  resources as possible. this is generally true throughout my entire
+  life and whenever i begin to accumulate social/financial resources,
+  it is immediately smacked out of my hands.
+
+### To Turn The Other Cheek
+
+- regardless, sociophysical turblence will continue to reverberate
+  across the social fabric until someone chooses to transmute it and
+  exert their energy in quelling it.
+
+- physics and the inherent ineffiencies quelling turbulence and
+  turning the tides of entropy.
+  - fortunately, social physics lacks the exact equilibrium dynamics
+    of systems with equivalent exchange. this implies that using
+    information, one can quell sociophysical turbulence without a
+    precisely equilvalent investment of energy, per se. however,
+    sociophysical systems do still have phenomena that parallel
+    equilibrium dynamics, so events with large magnitudes of
+    sociophysical turbulence do still require proportionally large
+    investments of energy to quash.
+
+
+  - need to refer to the book to find this line. when the text of the
+    20 verses is read, this line appears counterintuitive, but i think
+    it means to act so that you don't unwittingly propagate the
+    consequences of others' actions and instead choose to
+    internalize/transmute/purify the effects, instead of acting as a
+    vector for propagating it.
+    - by generally turning the other cheek, even when you are harmed
+      by something.
+
+
+- absorbing and transmuting the sociophysical reverberations of
+  negative karma (from the book on bodhisattva vows)
+  - the line is "with mercy, there is no deed without virtue"
+    - or alternatively translated as: "When together with compassion
+      and mercy, there is no non-virtue."
+
+    - what this seems to mean is that, even if someone has done you
+      wrong, if you choose to internalize that wrong instead of
+      responding to it in kind, then one can transmute the experience
+      of having been wronged into one that is virtuous.
+    - if you zoom out to a sociological scale, the it's important to
+      consider it to be virtuous when absorb the wrong actions of
+      others in order to move past them.
+      - people cause so many problems by wronging someone they
+        consider weak and assuming that person will turn around and do
+        the same thing, perhaps by justifying these learned wrong
+        actions by assuming that's just how the world works.
+      - however, if people consider turning the other cheek to be a
+        virtue, than even the common person can act as a kind of
+        sociophysical "buffer" in the same way that buffer agents
+        respond to changes in pH by absorbing acidity.
+      - when a significant amount of the population prefers to react
+        in this way to wrongness, they can act to quell karmic
+        turbulence. when instead, victims of theft turn around and
+        reflect the consequences of stolen goods onto others by
+        becoming thieves themselves, the consequences of the original
+        sins then multiply.
+      - those who turn to theft to account for the imbalance in their
+        lives are choosing self over society by finding someone else
+        upon which they can thrust their bad lot in life.
+      - when those who turn to fraud to correct an imbalance in their
+        lives that originated from fraud, they are acting to reflect
+        fraud throughout society. this is sustainable, if small groups
+        of people decide to work together at the cost of detriment to
+        society as a whole. However, reflecting negativity upon others
+        is never the solution. You are only temporarily pushing the
+        negativity in your personal life upon the lives of others at
+        the risk of normalizing the malice that victimized you in the
+        first place. In order to stop this, people have to decide upon
+        themselves to absorb negativity. To do this effectively,
+        people must be equipped with knowledge, they must be
+        encouraged to network the social graph in a way that does NOT
+        exclude people. It is never OK to exclude people
+        systematically: that is what leads the excluded individuals to
+        believe it is justified to act in a wrong way, which is
+        incredibly easy if you've never been acknowledged by society
+        or felt appreciated.
+      - utlimately, what do people want? what is it that individuals
+        intend? and what is it that groups in society intend?
+      - and generally, when people accept "this is how things are" --
+        and especially when this is used to justify wrongdoing -- they
+        have ceded all the power they have to change the world. True
+        change requires suffering and if people do not choose to
+        suffer for something better, we will always stay the course
+        decided for use by those in power.
+
 
   - regardless of how proficiently manipulative someone might be, when
     you free yourself of negative intention, then decoupling yourself
@@ -974,12 +1264,6 @@ symbolically abbreviated, compared to KJV, ECV and NIV.
 
 ### [Would You Like Some Tea?](#would-you-like-some-tea)
 
-### "Be Water, My Friend"
-
-<iframe width="560" height="315"
-src="https://www.youtube.com/embed/nzQWYHHqvIw" frameborder="0"
-allow="autoplay; encrypted-media" allowfullscreen></iframe>
-
 - someone who (understands, absorbs, reacts to) the presence of the
   sets of objectified equilibria that determine, is (wise...)
   - someone who is free from attachment to and desire for (obtaining,
@@ -990,12 +1274,6 @@ allow="autoplay; encrypted-media" allowfullscreen></iframe>
       someone who could not be controlled by desire or attachment
     - "trackless, he has destroyed Mara's vision..."
       - footsteps (Kino ep. 3)
-
-  - wisely, they act today with the possibilities of tomorrow in mind:
-    they conserve their potential energies to maximize any potential
-    transformation they may need in the future
-    - this is usually (...always?) best done by minimizing your
-      informational footprint.
 
 - when (many people together) become fluid by abandoning attachment to
   attainment and control,
@@ -1051,16 +1329,7 @@ allow="autoplay; encrypted-media" allowfullscreen></iframe>
     time in the past three were my words ever heard for what they
     truly were.
 
-### What Was The Start Of All This?
-
-![The Road Not Taken](/img/posts/2018-02-14-to-catch-a-butterfly-epistemic-miracles-of-serendipity/chrono-cross.jpg)
-
-#### Chrono Cross: [What Was The Start Of All This?](https://www.youtube.com/watch?v=lHQ7yEYwEnE)
-
-> damn, i think somebody just got laid
-
-![What Was The Start Of All This?]()
-
+### [What Was The Start Of All This?](#what-was-the-start-of-all-this)
 
 
 - Mara only comprehends men who seek the path of least resistence, not
@@ -1072,6 +1341,9 @@ allow="autoplay; encrypted-media" allowfullscreen></iframe>
     the paths to people's [unstated] goals is the best way to catch
     sociopathic people in the act.
 
+#### Chrono Cross: [What Was The Start Of All This?](https://www.youtube.com/watch?v=lHQ7yEYwEnE)
+
+![What Was The Start of All This?](/img/posts/2018-02-14-to-catch-a-butterfly-epistemic-miracles-of-serendipity/chrono-cross.jpg)
 
 
 #### This Is What One Billion Dollars Looks Like ... (Not)
