@@ -1646,8 +1646,9 @@ internalize any information in my arguments.
 
 <a name="what-was-the-start-of-all-this" />
 
+#### [Chrono Cross Intro](https://www.youtube.com/watch?v=lHQ7yEYwEnE)
 
-
+![What Was The Start of All This?](/img/posts/2018-02-14-to-catch-a-butterfly-epistemic-miracles-of-serendipity/chrono-cross.jpg)
 
 ### [What Was The Start Of All This](#what-was-the-start-of-all-this)
 
@@ -1686,16 +1687,24 @@ adult life, when I want nothing other than to help people.
 
 ### [What Does It Mean To Be Memory-Holed?](#what-does-it-mean-to-be-memory-holed)
 
-It essentially means that whenever someone comes into contact with
-you, they have bluepills shoved down their throat until they either
-hate you or forget you ever existed. Ideally, it means that no one
-will encounter you to form memories that need to be scrubbed out later
-on. Whether it was intentional at first is unclear, but I've been
-memory holed happened for over 10 years now. i've experience a decade
-of this. It's called being "Memory Holed" as in "Hold the memories,
-please." Basically, you are socially isolated, so people accumulate
-minimal memories with you, socially. This means that your adversaries
-have pre-emptively erased you.
+While the [memory hole](https://en.wikipedia.org/wiki/Memory_hole) is
+originally from 1984, it is not THE memory hole that I'm referring
+to. The reference from 1984 is simply a metaphor for a more sinister
+tactic of information control. It's incredibly effective for handling
+waste that unfortunately came into contact with "classified"
+information.
+
+Being memory-holed essentially means that whenever someone comes into
+contact with a targeted individual, they have bluepills shoved down
+their throat until they either hate the target or forget that person
+ever existed. Ideally, it ensures that no one will encounter you to
+form memories that need to be scrubbed out later on. Whether it was
+intentional at first is unclear, but I've been memory holed happened
+for over 10 years now. i've experience a decade of this. It's called
+being "Memory Holed" as in "Hold the memories, please." Basically, you
+are socially isolated, so people accumulate minimal memories with you,
+socially. This means that your adversaries have pre-emptively erased
+you.
 
 People develop emotional connections with each other gradually as they
 spend time together. However, people are fickle and the strength of
@@ -1716,9 +1725,33 @@ assessed my psychology and worked to cull me out of society, undermine
 my career and seeded a bunch of personality disorders into my
 psychology.
 
-### Thread-Killing: The NSA Effectively Memory-Holes Targeted Individuals By Deranking Any Post The Interact On
+By the way, once you are sufficiently memory holed, you're already as
+good as dead, those cigar-smoking men just haven't killed you
+yet. Until they do, they seek to prevent other people from forming
+memories about you, leveraging mob-style tactics to threaten everyone
+close to you to handle your life details like it's literally
+classified information. This is so that, after they act, they have
+maximal flexibility with regard to telling the story about *your*
+life. While they manage to restrict you socially, the volume of
+memories created in the minds of other people created is minimized, so
+there's a much lower chance of blowback occuring after they act
+against you. This isn't true of everyone memory holed, but it takes a
+lot of thumbscrews to get people to handle a loved one in this way, so
+after they've committed to engaging a target in this way for a
+sufficent amount of time, they do not back off.
 
-Dissidents
+If you have any doubts as to what the memory hole is, check out [this
+youtube video](https://www.youtube.com/watch?v=DSSY_i136tw)
+instructing children to ignore the talking turkey at
+Thanksgiving. It's a video from our friends at the [Memory Hole
+channel](https://www.youtube.com/channel/UCNBGgrsyZCmcsc18h6VJh_w) on
+YouTube, chock full of videos which are like metaphorical instruction
+manuals for psychological torture techniques. Fun for you and the
+whole family ... except for that one kid under the table, but! What's
+that?! I think I heard a squirrel talking. Squirrels don't talk, do
+they?
+
+### [Thread-Killing: The NSA Effectively Memory-Holes Targeted Individuals By Dissappearing Content They Interact With](#thread-killing-the-nsa-effecively-memory-holes-targeted-individuals-by-disappearing-any-content-they-interact-with)
 
 
 - memory-holing people on facebook
@@ -1726,7 +1759,7 @@ Dissidents
 
 <a name="redpill-everything-that-moves" />
 
-### [ Redpill Everything That Moves](#my-life-is-a-rigged-game-redpill-everything-that-moves)
+### [Redpill Everything That Moves](#my-life-is-a-rigged-game-redpill-everything-that-moves)
 
 ![](neo-redpill.jpg)
 
@@ -1750,25 +1783,27 @@ people who have saught to socially limit me also assumed they could
 create a bunch of negative consequences and then USE me as both a
 scapegoat for a shitstorm they created as well as an example of what
 happens to someone who leaks -- all while never telling me what I
-could and could not talk about.
+could and could not talk about, ensuring that the consequences of my
+ignorant actions would create problems of significant exposure.
 
 
-- Everyone close to me and even people I've never met already know my
-  fate: I'm essentially not allowed to ever achieve anything in
-  America. I live inside a rigged game. No one was allowed to tell me
-  this. Why? During 2013, 2014 and 2015, I was easily controlled *and
-  predictable*. If I learned that my life is a rigged game, I would
-  become unpredictable. I'd respond in exactly they way these people
-  were afraid I would respond: I'd reorient my energy to accomplish
-  something different. While I was working on startup ideas, I was
-  essentially on a hamster wheel. I was under surveillance: as soon as
-  I started moving closer to my goals, people manipulated me and
-  situations around me to disrupt my
-  [velocity](https://en.wikipedia.org/wiki/Velocity_(software_development))
-  and [traction](). Since I was working on esoteric software, no one
-  would understand anything I did and all the source code I left
-  behind would be worthless. With the assistance of my handy-dandy
-  terminal cynicism, I finally figured this out. How did I respond?
+
+Everyone close to me and even people I've never met already know my
+fate: I'm essentially not allowed to ever achieve anything in
+America. I live inside a rigged game. No one was allowed to tell me
+this. Why? During 2013, 2014 and 2015, I was easily controlled *and
+predictable*. If I learned that my life is a rigged game, I would
+become unpredictable. I'd respond in exactly they way these people
+were afraid I would respond: I'd reorient my energy to accomplish
+something different. While I was working on startup ideas, I was
+essentially on a hamster wheel. I was under surveillance: as soon as I
+started moving closer to my goals, people manipulated me and
+situations around me to disrupt my
+[velocity](https://en.wikipedia.org/wiki/Velocity_(software_development))
+and [traction](). Since I was working on esoteric software, no one
+would understand anything I did and all the source code I left behind
+would be worthless. With the assistance of my handy-dandy terminal
+cynicism, I finally figured this out. How did I respond?
 
 > No one's ever going to cofound a business with me? I guess I don't
 > care about several dozen business ideas or several thousand
@@ -1820,12 +1855,6 @@ their own beliefs. If you lose freedom of religion, you lose freedom
 of belief. If individuals in America lose freedom to decide what they
 do and do not believe, they have effectively lost the freedom of
 religion.
-
-
-
-### [Chrono Cross](https://www.youtube.com/watch?v=lHQ7yEYwEnE)
-
-![What Was The Start of All This?](/img/posts/2018-02-14-to-catch-a-butterfly-epistemic-miracles-of-serendipity/chrono-cross.jpg)
 
 
 #### This Is What One Billion Dollars Looks Like ... (Not)
