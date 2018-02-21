@@ -8,6 +8,11 @@ author:
 excerpt: ""
 ---
 
+- TODO: fully distinguish socio-epistemic from socio-epistemological,
+  so the language is clear henceforth.
+  - (move this distinction to the other article)
+
+
 - TODO: DG Sever Rime
 - TODO: semioteleological metaphor “to eat”
 

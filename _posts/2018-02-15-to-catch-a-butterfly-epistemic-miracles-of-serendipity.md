@@ -8,10 +8,6 @@ author:
 excerpt: ""
 ---
 
-- TODO: fully distinguish socio-epistemic from socio-epistemological,
-  so the language is clear henceforth.
-  - (move this distinction to the other article)
-
 - Drowning in manufactured [fruit of the poisonous tree](https://www.commdiginews.com/politics-2/memo-reveals-thin-gruel-creates-messy-stew-trump-russia-dossier-98608/)
   - With a system commited to nothing else but destroying me in
     anything it does, yet apparently can't tolerate creating a
@@ -83,8 +79,9 @@ excerpt: ""
 
 #### &#920; [The Path of Least Resistence Leads to Crooked Rivers and Crooked Men](#the-path-of-least-resistence-leads-to-crooked-rivers-and-crooken-men)
 
-
 #### &#920; [Rendering Society Incomprehensible to Evil](#making-society-incomprehensible-to-evil)
+
+#### &#920; [Impoverished People are Tragically Predictable](#impoverished-people-are-tragically-predictable)
 
 #### &#920; [The Eight Jhanas from the Ariyapariyesana Sutta](#the-eight-jhanas-from-the-ariyapariyesana-sutta)
 
@@ -1105,35 +1102,94 @@ sociophyscial potential energies, but uninformed action will instead
 cause us to accrue a massive informational burden associated to our
 identities.
 
+However, if people are fluid, but have not accumulated social,
+financial or informational resources of their own, they cannot do much
+when the time comes to act. There is a social analogy to the financial
+savings rate in a country, but this sociophysical savings rate is more
+about having developed a robust safety net and ensuring that each node
+is empowered with sociophysical potential energy. When this safety net
+is in place and sufficiently well-developed, then individuals can
+choose to respond and ideally, there are no social nodes which are
+vulnerable purely from isolation. America could be leveraging data
+science to this end, but the government has instead chosen to leverage
+data science and surveillance purely as a mechanism of control, a tool
+to destroy lives where a handful of people decide it's necessary.
 
-- cultivating sociophysical potential energy
-  - how to be most successful in this regard?
-    - encourage others to live so that they are most empowered,
-      providing the most value to others while remaining the least
-      obliged with the greatest capacity to act when needed.
-  - this must be coupled with the desire to liberate others around
-    you, regardless of the apparent personal cost
-  - how to remain most free?
+When people are empowered as individuals, we are most capable of
+reorienting towards our social circumstances as we see fit. When
+people are instead told to fear anything with power except that which
+stems from the government, people become systemically crippled when
+responding to tyrrany. Americans are being told to fear knowledge and
+to fear dissenting information. We're being conditioned to need the
+government, not to be free from it. Poverty conditions us to seek the
+option that sounds like it's going to amerliorate or pain soonest or
+most effectively, but if you seek an abusive master in response to
+pain and poverty, you may find yourself abused for life. Worse, you
+may find your friends and family abused for generations. You have to
+liberate yourself by your own hands, so that no one holds sway over
+you, your liberty or your ability to help each other. While I will not
+judge anyone who seeks government assistance for help with poverty, I
+will not take a cent from an abusive government which has ruined my
+life. I never have and I never will and I couldn't be happier about
+living with nothing to my name, if it means that I don't have to be
+subservient to an abusive force.
 
+<a name="impoverished-people-are-tragically-predictable" />
 
+### [Impoverished People are Tragically Predictable](#impoverished-people-are-tragically-predictable)
 
-  - regardless of how proficiently manipulative someone might be, when
-    you free yourself of negative intention, then decoupling yourself
-    from any (predisposition of intention... / presupposition &
-    expectation) of intentionality, etc/etc...
+When people are generally empowered, they are fluid and their
+reactions are difficult to predict. When people are subject to
+poverty, this systematically limits their options: in geographic
+terms, people in poverty become unable to move; in temporal terms,
+people in poverty have less time to respond to threats. In logical
+terms, people in poverty have a decision-space that is mathematically
+limited because most options are financially restricted from
+them. Because impoverished people are more predictible individually,
+they are more predictable systemically. Impoverished people are
+desperate: they will believe anything you tell them that seems to
+amerliorate their pain and they will predictably take the first
+appealing option given to them. This leads impoverished people to
+tragically have the wool pulled over their eyes, while they get roped
+into some scheme. Since they don't have access to educational
+opportunities, they often end up enslaved by the consequences of their
+ignorance. Worst of all, the typological extent of the variety of
+their life experiece is vastly limited when compared to people who are
+not impoverished.
 
-- (have i already sufficiently covered this)
-  - 15,000 word articles become exponentially harder to edit
-- gradually becoming formless, you cannot be
-  predicted/anticipated/etc.
-    - why is this? is it because all manipulative/evil people must be
-      driven by attachments to their desires/etc?
-      - if so, are those who progress through and embody these states
-        of mind necessarily pure? does this progression move towards
-        an ideal that is the opposite of the being Mara epitomizes?
-        - or is it instead a state purely devoid of the elements
-          required for suffering/evil?
+For the typical impoverished person, most of the folly and pain they
+experience is the result of being predictable and their being used for
+someone else's gain. They're not stupid: their options are financially
+limited and therefore, they suffer because they are predictable. Why
+is it heresy in America to wish that people are empowered? To
+encourage others to question authority and to help each other live by
+the merit of their inner strength? To cultivate this sociophysical
+potential energy, we must all live so that we steadily gain value from
+everything we do, whether that is social, financial or informational
+value.
 
+To do this best, we need all people to be strong -- but instead,
+Americans are encouraged to surrender themselves to a vindictive
+authority **out of fear that strength is dangerous.** We are
+encouraged to deliver our neighbors, friends and family into torment
+and told that, if we comply, we will be secure. NO! If you comply with
+this, you deserve neither liberty, nor security. True strength comes
+from within and it is steadily accumulated by piety, love of virtue
+and love of one another. We must never forget that our strength
+derives from our freedom. Therefore, we should desire to liberate
+other people around us: financially and socially. People should be
+encouraged to be independent and capable of living independently.
+
+The greater the number of people who abandon attachment by shedding
+some self-ordained objectified understanding of reality, the greater
+the composition of the social fluid that is agile and unpredictable.
+When we all become fluid, with a convergent set of postitive
+intentions, then collectively, Mara is blind to us. Mara is unable to
+predict people and thus unable to use people. That said, being
+predictable to some is good, but being predictable to evil means that
+evil can determine your actions by manipulating you. Do not allow evil
+to believe that manipulating you is even possible and evil will pass
+you by to find another tool.
 
 <a name="the-eight-jhanas-from-the-ariyapariyesana-sutta" />
 
@@ -1235,6 +1291,13 @@ together for profit and power.
 > conspiring to destroy him to preempt the self-propagating change to
 > follow his life.
 
+- why is this? is it because all manipulative/evil people must be
+  driven by attachments to their desires/etc?
+  - if so, are those who progress through and embody these states of
+    mind necessarily pure? does this progression move towards an ideal
+    that is the opposite of the being Mara epitomizes?
+        - or is it instead a state purely devoid of the elements
+          required for suffering/evil?
 
 
 - of course, the inverse: the more people who are bound to the
@@ -1365,6 +1428,7 @@ ultimately gaining from them.
 
 
 
+
 - absorbing and transmuting the sociophysical reverberations of
   negative karma (from the book on bodhisattva vows)
   - the line is "with mercy, there is no deed without virtue"
@@ -1457,21 +1521,25 @@ forever: you must divert the dissenting sociophysical energy with
 alternative avenues for flow, just like with a real dam. Otherwise,
 that dam will burst. Just because you've made it illegal to
 acknowledge reality doesn't mean what you do not allow anyone to see
-cannot affect reality. You're just not going to be aware at all of the
-nature of the threat before it hits you, which will be far too late.
+cannot affect reality. You simply won't be whatsoever aware of the
+nature of an impending threat before it hits you, which will be far
+too late. If the general population isn't aware of a realistic threat,
+how can we prepare for it?
+
+Why do our leaders expect that it's intolerable for people who see
+real threats to speak about them or to be concerned about them?
+Because our leaders refuse to be accountable for their incompetence,
+our entire population is unable to respond to *REALITY* when that
+reality is uncomfortable. If you put your neck on the line in this
+country, you better have something good to say because you're going to
+be tormented for speaking up. This is all very easy for me to say
+because I don't have anything to lose; I've never been permitted to
+have anything in this country, which is what makes me so free. Irony
+comes in many flavors, but like coffee, this one's an acquired taste.
 
 #### Our Leaders Would Make Fantastic Ostriches: "What Economics? LOL"
 
 ![Danger: High Voltage](/img/posts/2018-02-14-to-catch-a-butterfly-epistemic-miracles-of-serendipity/ostrich-what-economics.jpg)
-
-- when (many people together) become fluid by abandoning attachment to
-  attainment and control,
-  - this means that collectively, (Mara is blind to them) AND their
-    fluidity. the greater the number of people who escape
-    (self-ordained) objectification of reality, the greater the
-    composition of the social fluid that is most agile.
-
-
 
 
 <a name="would-you-like-some-tea" />
