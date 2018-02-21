@@ -81,10 +81,18 @@ excerpt: ""
 
 #### &#920; ["Be Water, My Friend"](#be-water-my friend)
 
+#### &#920; [The Path of Least Resistence Leads to Crooked Rivers and Crooked Men](#the-path-of-least-resistence-leads-to-crooked-rivers-and-crooken-men)
+
+
 #### &#920; [Rendering Society Incomprehensible to Evil](#making-society-incomprehensible-to-evil)
 
 #### &#920; [The Eight Jhanas from the Ariyapariyesana Sutta](#the-eight-jhanas-from-the-ariyapariyesana-sutta)
 
+
+
+
+
+#### &#920; [Would You Like Some Tea?](#would-you-like-some-tea)
 
 
 ##
@@ -831,16 +839,16 @@ and your origination? *Your coming and your going?*
 What do you desire to manifest? Do you desire the typical or the
 extraordinary? Why? Would you allow yourself to become a conduit
 through which others can project their will? Why or why not? Would you
-do so without knowing what exactly your are allowing your
-sociophysical flux to manifest? Most people would not, which requires
-evil to leave them ignorant of true causes and true effects. What
-desires, will and objectives would you allow to be manifested through
-your hands as a conduit? Does it even matter to you? Of course it
-does, if you are someone who values your life and the lives of
-others. No matter whether great or small, or artist, architect or
-pauper, our works here on Earth speak volumes about who we are. Still,
-if we are not aware of what it is we allow our consciousness to
-create, we will find our energy used up and our lives dried out.
+do so without knowing exactly what you are allowing your sociophysical
+flux to manifest? Most people would not, which requires evil to leave
+them ignorant of true causes and true effects. What desires, will and
+objectives would you allow to be manifested through your hands as a
+conduit? Does it even matter to you? Of course it does, if you are
+someone who values your life and the lives of others. No matter
+whether great or small, or artist, architect or pauper, our works here
+on Earth speak volumes about who we are. Still, if we are not aware of
+what it is we allow our consciousness to create, we will find our
+energy used up and our lives dried out.
 
 Moreover, if we are prohibited from understanding what it is that our
 energy is being used to build, we will surely find ourselves roped
@@ -982,8 +990,8 @@ preconceived conceptions about your life. This does not mean that you
 do not develop plans, goals or objectives, but instead you remain
 flexible and balanced. You must develop acute awareness of situations,
 so that you can utilize serendipity as it is presented to you.
-Ultimately, you should develop this ability to harness serendipity in
-a generalized manner. Preferably, you can inculcate this tendancy to
+Ultimately, you should develop in a generalized manner this ability to
+harness serendipity. Preferably, you can inculcate this tendancy to
 use what is presented to you so that it becomes unconscious. Life is
 always handing you what you need, though it's not always easy to see.
 
@@ -1002,15 +1010,90 @@ selflessness is literally incomprehensible to evil.
 src="https://www.youtube.com/embed/nzQWYHHqvIw" frameborder="0"
 allow="autoplay; encrypted-media" allowfullscreen></iframe>
 
-<a name="rendering-society-incomprehensible-to-evil" />
+<a name="the-path-of-least-resistence-leads-to-crooked-rivers-and-crooken-men" />
 
-### [Rendering Society Incomprehensible to Evil](#making-society-incomprehensible-to-evil)
+### [The Path of Least Resistence Leads to Crooked Rivers and Crooked Men](#the-path-of-least-resistence-leads-to-crooked-rivers-and-crooken-men)
+
+Such a path is useful, for both good and evil, but even the specific
+path identified is trivial. Find people following this path and you
+know where they're going and where they're coming from. This is a
+little-known secret to resolving uncertainty in human-behavior. Are
+people following a path of least resistence? If so, their destinations
+become trivial to infer, regardless of the charades calculated by the
+media concocted to distract people from understanding the true
+intent. Further, money is sociofinancial energy, find the path of
+least resistence for money and everything else falls into place around
+that. Follow the money. It's quite simple. When people place their
+chips on the table, they usually mean business. If there's no money
+down, who cares?
+
+Calculuating the path of least resistance can be efficient or it can
+be intractible. Path-finding algorithms are well-studied in computer
+science and for video game design.
+
+#### A GPU-Based Path-Finding Algorithm To Find Shortest Paths Through A Floorplan
+
+> This problem is significantly less complex if the floorplan can be
+> guaranteed to not contain loops. When a floorplan contains cycles,
+> algorithms with matroids are required to simplify using [Spanning
+> Trees](https://theory.stanford.edu/~jvondrak/CS369P/lec7.pdf).
+
+![Path-Finding Algorithms](/img/posts/2018-02-14-to-catch-a-butterfly-epistemic-miracles-of-serendipity/path-finding.jpg)
+
+Furthermore, floorplans that do not have loops allow people within the
+building to make much more accurate assumptions about the intention of
+other people that aren't even visible based entirely on the
+presence/absence of cycles. This is because the discrete graph of the
+floorplan forms a tree and is combinatorially less complex. Therefore,
+if someone is walking along a particular path, the set of potential
+destinations they are walking towards is also exponentially
+less. Extrapolations about someone's path through a building are
+similarly augmented when there are fewer doors, rooms and
+entrances. These are critical design concerns for level design in
+video games, architecture and many other fields. If you do not
+constrain the design of your levels with these concerns, AI algorithms
+may not run proficiently because AI must compensate for the loops.
 
 Evil depends on our own attachment to our personal designs on life. By
 decoupling from the specifics of those goals, we're convoluting the
 complexity of sociophysical computation by depriving Mara of any
-fix-points in reality upon which she can make assumptions. This is
-unexpected and incredibly disruptive.
+fix-points in reality upon which she can make assumptions. There are
+many things people can do, rendering their behaviors unexpected and
+incredibly disruptive. Evil will always seek to condition you through
+belief and propaganda to avoid doing these things that make you less
+predictable. Doing this can be good, depending on for whom your intent
+appears more predictable.
+
+#### GPU-based Flowfield Even Allows You To Solve A Maze!
+
+> The following video demonstrates abuse of color-channels for compute
+> shaders, but no textures were harmed in the making of this video.
+> Sometimes you wish you had 32 color-channels, but unfortunately,
+> GPU's require the implementation of techniques in hardware and
+> there's a hard-limit on 4 color channels, perhaps eight. I want to
+> cry sometimes. This is one of those times.
+
+<iframe src="https://player.vimeo.com/video/232576506" width="640"
+height="360" frameborder="0" webkitallowfullscreen mozallowfullscreen
+allowfullscreen></iframe> <p><a
+href="https://vimeo.com/232576506">FlowField Pathfinding</a> from <a
+href="https://vimeo.com/diwi">Thomas Diewald</a> on <a
+href="https://vimeo.com">Vimeo</a>.</p>
+
+<a name="rendering-society-incomprehensible-to-evil" />
+
+### [Rendering Society Incomprehensible to Evil](#making-society-incomprehensible-to-evil)
+
+Mara only comprehends men who seek the path of least resistence, not
+fluid men who do not conform to any worldly desires or mechanisms of
+control. When you render this path of least resistence difficult to
+know, you've made evil's job a little bit harder. Such a path is
+predictable and often quite irresistable. Identifying the paths to
+people's [unstated] goals is the best way to catch sociopathic people
+in the act. For sociopaths: identifying this path is what you can
+depend on! You can literally depend on the callous sociopath's
+tendency to maximize personal gains if you present them with a
+situation they can't resist where they can't see through the trick.
 
 Because selflessness is incomprehensible to evil, if we are all a
 little more selfless and fluid, then society as a whole becomes less
@@ -1023,6 +1106,33 @@ cause us to accrue a massive informational burden associated to our
 identities.
 
 
+- cultivating sociophysical potential energy
+  - how to be most successful in this regard?
+    - encourage others to live so that they are most empowered,
+      providing the most value to others while remaining the least
+      obliged with the greatest capacity to act when needed.
+  - this must be coupled with the desire to liberate others around
+    you, regardless of the apparent personal cost
+  - how to remain most free?
+
+
+
+  - regardless of how proficiently manipulative someone might be, when
+    you free yourself of negative intention, then decoupling yourself
+    from any (predisposition of intention... / presupposition &
+    expectation) of intentionality, etc/etc...
+
+- (have i already sufficiently covered this)
+  - 15,000 word articles become exponentially harder to edit
+- gradually becoming formless, you cannot be
+  predicted/anticipated/etc.
+    - why is this? is it because all manipulative/evil people must be
+      driven by attachments to their desires/etc?
+      - if so, are those who progress through and embody these states
+        of mind necessarily pure? does this progression move towards
+        an ideal that is the opposite of the being Mara epitomizes?
+        - or is it instead a state purely devoid of the elements
+          required for suffering/evil?
 
 
 <a name="the-eight-jhanas-from-the-ariyapariyesana-sutta" />
@@ -1088,38 +1198,68 @@ one that stands out as ... not good. After reading several passages, I
 felt that the text had almost been edited, not retranslated. It feels
 symbolically abbreviated, compared to KJV, ECV and NIV.
 
+<a name="if-youre-out-there-generally-liberating-people-watch-your-ass" />
+
+### [If You're Out There Generally Liberating People, Watch Your Ass](#if-youre-out-there-generally-liberating-people-watch-your-ass)
+
+When people are freed of negative intention and equipped with the
+knowledge of causality, the size of the splash they'll create pars
+alongside the magnitude of their desire to liberate others. When this
+is combined with a propensity to cultivate in others the same desire
+-- [Bodhicitta](https://en.wikipedia.org/wiki/Bodhicitta): the desire
+for all sentient beings to be liberated from suffering -- this person
+may sow the seeds for a tidal wave in true societal change. All it
+takes is knowledge, wisdom, sociophysical potential energy and *strong
+desire* to liberate others, which is a bit of a paradox in Buddhist
+tradition and one for which I should not pretend to be an
+authority. In order to cause effects that do not ultimately harm
+others, you need to be capable of being surgical with your
+influence. This is why knowledge of causality is so critical.
+
+However, if you are personally effective in liberating yourself or
+others, then you can be sure that Mara will be there to chain you down
+again, with her [three
+daughters](https://en.wikipedia.org/wiki/Mara_(demon)#Three_daughters)
+and the three poisons: attraction, aversion and delusion. Mara will
+delude you with techniques like gaslighting. She will lure you in with
+worldly pleasures, so she can pin you down, leveraging your propensity
+to be controlled by desire or to remain commited to previous
+obligations for receipt of that which you unwisely desired. Further,
+if you are successful in making a major difference sociologically, you
+can be certain that Mara will track down the source of liberation. To
+Mara, people are not to be free, they are to be used and chained
+together for profit and power.
+
+> Here, I use Mara here as a metaphor, mostly from my understanding of
+> Mara as the deity who tempted the Buddha, while simultaneously
+> conspiring to destroy him to preempt the self-propagating change to
+> follow his life.
 
 
 
+- of course, the inverse: the more people who are bound to the
+  expedient/pragmatic/etc attainment of their desires, (the more
+  people that are available for evil to use.)
+  - (this section needs to be re-outlined)
+  - these people will always arrange themselves hierarchically.
+    - forming a "tree-like" graph with more and less tightly connected
+      regions. the less connected regions are usually where the most
+      and least powerful nodes in the social graph reside (~ expander
+      graph)
+      - but power always corresponds to a greater range of 1st/2nd
+        degree connections across the social graph
+      - at larger scales of social graphs, power can be seen to flow
+        clearly towards some subgraphs of the social graph.
+  - again, these people will always begin to arrange themselves
+    hierarchically.
+    - in some cases, the same people to define sin will *encourage
+      some sin* as a means of creating mechanisms of control across
+      the graph.
+    - the people in control will be very interested in learning your
+      desires/needs/vices/sins to entice you with them.
 
-- freed of negative intention. knowledge of causality and an
-  understanding of the consequences of your actions
-  - with a strong desire to cultivate in others the desire to liberate
-    along with the knowledge required to be effective
-- knowledgeable about the world, but more importantly knowledgable
-  about the nature of wisdom
-- well networked
 
-- however, if you are personally effective in liberating yourself or
-  others, then you can be sure that Mara will be there to chain you
-  down again, with her three daughters, [Attraction, Aversion and
-  Delusion](https://en.wikipedia.org/wiki/Mara_(demon)#Three_daughters).
-  - if you are successful in making a major difference sociologically,
-    you can be certain that Mara will track down the source of
-    liberation.
-  - (i use Mara here as a metaphor, mostly from my understanding of
-    Mara as the deity who tempted the Buddha, while simultaneously
-    conspiring to destroy him to preempt the self-propagating change
-    to follow his life)
 
-- cultivating sociophysical potential energy
-  - how to be most successful in this regard?
-    - encourage others to live so that they are most empowered,
-      providing the most value to others while remaining the least
-      obliged with the greatest capacity to act when needed.
-  - this must be coupled with the desire to liberate others around
-    you, regardless of the apparent personal cost
-  - how to remain most free?
 
   - understanding the nature of causality and the consequences of
     karma is so critical in understanding how to act without seeming
@@ -1144,6 +1284,7 @@ symbolically abbreviated, compared to KJV, ECV and NIV.
         understanding the specifics and consequences of actions which
         I could not believe ever occured.
 
+-
 - who had social/financial/informational resources to change things?
   what did these groups of people intend to create? what information
   did they propagate and why? what information did they seek to
@@ -1153,32 +1294,75 @@ symbolically abbreviated, compared to KJV, ECV and NIV.
   life and whenever i begin to accumulate social/financial resources,
   it is immediately smacked out of my hands.
 
-### To Turn The Other Cheek
+<a name="to-turn-the-other-cheek" />
 
-- regardless, sociophysical turblence will continue to reverberate
-  across the social fabric until someone chooses to transmute it and
-  exert their energy in quelling it.
+### [To Turn The Other Cheek](#to-turn-the-other-cheek)
 
-- physics and the inherent ineffiencies quelling turbulence and
-  turning the tides of entropy.
-  - fortunately, social physics lacks the exact equilibrium dynamics
-    of systems with equivalent exchange. this implies that using
-    information, one can quell sociophysical turbulence without a
-    precisely equilvalent investment of energy, per se. however,
-    sociophysical systems do still have phenomena that parallel
-    equilibrium dynamics, so events with large magnitudes of
-    sociophysical turbulence do still require proportionally large
-    investments of energy to quash.
+The destablizing effects of sociophysical turblence will continue to
+reverberate across the social fabric until enough individuals choose
+to transmute it and exert their energy in quelling it. This is very
+similar to the problem of turbulence in aerodynamics and physics: any
+time you have turbulence, your system rapidly loses energy. If you're
+designing a car or aircraft, then features of its design that creates
+turbulence near the vehicle cause it to be more susceptible to
+drag. Thereby, the vehicle surrenders its efficiency to high-entropy
+motion of particles.
+
+Fortunately, social physics lacks the exact equilibrium dynamics of
+purely physical systems with equivalent exchange. Therefore, one can
+alter the "shape" and trends of sociophysical interactions using
+information. This is what it means by choosing to construct your own
+reality. You can choose to direct your attention and your beliefs
+towards whatever you choose.  *Some of those beliefs might concern
+information more convergently shared in reality: among these are
+things called FACTS, which are often pretty hard to argue with. You'd
+be suprised though.*
+
+#### Your "Crazy" And What-have-yous? Nothing.
+
+> When groups with sufficient influence get to decide which "facts"
+> can be vehemently assaulted by targeting anyone who propagates them
+> with **directed** negative sociophysical **energy**, this can
+> perpetuate situations which are very difficult to
+> resolve. i.e. things that are "not" classified information and for
+> which it is practically illegal to consider as anything but
+> non-sense. For me, any details about my life that are not
+> maliciously intended or incredibly negative are essentially
+> classified information because I've been **memory-holed**, which is
+> like the toxic version of the "Steve Jobs reality distortion field."
+> So, is it any wonder that I'm a walking sociophysical black-hole, a
+> karmic vortex which you cannot look at whatsoever without being
+> targeted? Thanks, America. Oh, and I get blamed for everything, but
+> never tell me that I'm a walking dead-star... that practically be
+> illegal. Fascinating! Yet, tragic: it can apparently rip families
+> into pieces, WITH ZERO LEGAL CONSEQUENCES.
+
+Because of the lack of true equilibrium dynamics, then by altering the
+shapes of interacting sociophysical phenomena, we can quell
+sociophysical turbulence without precisely equilvalent investment of
+energy. However, sociophysical systems do still have phenomena that
+parallel equilibrium dynamics, so events with large magnitudes of
+sociophysical turbulence do still require proportionally large
+investments of energy to quash.
+
+By generally turning the other cheek, even when you are harmed by
+something, you absorb the negative karma in a way: and you don't
+unwittingly propagate the consequences of others' actions. Instead,
+your actions allow you to, internalize, transmute and purify the
+effects, instead of acting as a vector for propagating it. Doing so
+doesn't necessarily require a net-expenditure of sociophysical energy:
+you can respond to disruptive, unwelcome or rude events in this way by
+ultimately gaining from them.
+
+#### Tales of Zestria
+
+![A Shepherd Bodhisattva?](/img/posts/2018-02-14-to-catch-a-butterfly-epistemic-miracles-of-serendipity/tales-of-zestria.jpg)
+
+<a name="without-mercy-there-is-no-deed-without-virtue" />
+
+### ["With Mercy, There Is No Deed Without Virtue"](#without-mercy-there-is-no-deed-without-virtue)
 
 
-  - need to refer to the book to find this line. when the text of the
-    20 verses is read, this line appears counterintuitive, but i think
-    it means to act so that you don't unwittingly propagate the
-    consequences of others' actions and instead choose to
-    internalize/transmute/purify the effects, instead of acting as a
-    vector for propagating it.
-    - by generally turning the other cheek, even when you are harmed
-      by something.
 
 
 - absorbing and transmuting the sociophysical reverberations of
@@ -1237,43 +1421,48 @@ symbolically abbreviated, compared to KJV, ECV and NIV.
         suffer for something better, we will always stay the course
         decided for use by those in power.
 
+<a name="you-will-not-silence-us" />
 
-  - regardless of how proficiently manipulative someone might be, when
-    you free yourself of negative intention, then decoupling yourself
-    from any (predisposition of intention... / presupposition &
-    expectation) of intentionality, etc/etc... gradually becoming
-    formless, you cannot be predicted/anticipated/etc.
-    - why is this? is it because all manipulative/evil people must be
-      driven by attachments to their desires/etc?
-      - if so, are those who progress through and embody these states
-        of mind necessarily pure? does this progression move towards
-        an ideal that is the opposite of the being Mara epitomizes?
-        - or is it instead a state purely devoid of the elements
-          required for suffering/evil?
+### ["You Will Not Silence Us"](#you-will-not-silence-us) - Occupy Wall Street
 
-- e.g. no one's ever going to cofound a business with me? i guess i
-  don't care about several dozen business ideas or several thousand
-  intellectually interesting ideas that i have.
-  - no, i get it. everything in my life is a rigged game. nothing i do
-    matters. any mild level of success i enjoy will be mitigated as
-    soon as i begin to taste progress.
-    - if i never taste progress in the direction of the gradient of
-      success, how will ripping it from my hands serve to torment me?
+[As I've written
+before](/posts/2017-02-21-civil-disobedience-and-operational-strategy-in-information-warfare.html#natural-justice-and-the-human-condition),
+take away publicity and you neuter any possibility of civil
+disobedience being effective. If no one witnesses the wrongdoing you
+endure, it may never change. The movement of Martin Luther King
+Jr. coincided with the availability of visual mass-communication:
+cameras and TV's everywhere meant that you could no longer segregate
+society and expect that no one would want society to change simply
+because they did not witness the mistreatment that African American's
+endured. Suddenly, you had news cameras everywhere in America, in
+segregated neighborhoods and even at protest events. Given visual,
+visceral exposure to this mistreatment, most white people started to
+undergo a change of heart -- because it was now impossible to look
+away and to continue pretending that such incredibly divorced
+circumstances in segregated communities were not real. Therefore, in
+the 21st century, when political dissidents are completely stripped of
+any publicity, you have robbed society of the avenue of civil
+disobedience. Suffering is no longer witnessed by others, it is merely
+endured and perhaps for no reason. Suddenly, there is little reason to
+suffer collectively for change because there's not much to be gained
+from it.
 
-<a name="would-you-like-some-tea" />
+What is happening in America seems calculated to undermine any
+potential for civil disobedience. Our leaders will not be aware of
+what those dissidents were trying to say, and America is merely
+damming up an impending sociophysical deluge: one that they refuse to
+acknoweldge. If and when this deluge is unleashed, it will be
+massive. This is because you cannot stem the tides of natural justice
+forever: you must divert the dissenting sociophysical energy with
+alternative avenues for flow, just like with a real dam. Otherwise,
+that dam will burst. Just because you've made it illegal to
+acknowledge reality doesn't mean what you do not allow anyone to see
+cannot affect reality. You're just not going to be aware at all of the
+nature of the threat before it hits you, which will be far too late.
 
-### [Would You Like Some Tea?](#would-you-like-some-tea)
+#### Our Leaders Would Make Fantastic Ostriches: "What Economics? LOL"
 
-- someone who (understands, absorbs, reacts to) the presence of the
-  sets of objectified equilibria that determine, is (wise...)
-  - someone who is free from attachment to and desire for (obtaining,
-    maintaining, altering) any particular set of equilibria is not
-    only fluid, but incomprehensible to Mara (the Evil One)
-    - they become quite literally invisible to even the most
-      (manipulative/deceitful) groups of people, who can't conceive of
-      someone who could not be controlled by desire or attachment
-    - "trackless, he has destroyed Mara's vision..."
-      - footsteps (Kino ep. 3)
+![Danger: High Voltage](/img/posts/2018-02-14-to-catch-a-butterfly-epistemic-miracles-of-serendipity/ostrich-what-economics.jpg)
 
 - when (many people together) become fluid by abandoning attachment to
   attainment and control,
@@ -1285,27 +1474,22 @@ symbolically abbreviated, compared to KJV, ECV and NIV.
 
 
 
-- of course, the inverse: the more people who are bound to the
-  expedient/pragmatic/etc attainment of their desires, (the more
-  people that are available for evil to use.)
-  - (this section needs to be re-outlined)
-  - these people will always arrange themselves hierarchically.
-    - forming a "tree-like" graph with more and less tightly connected
-      regions. the less connected regions are usually where the most
-      and least powerful nodes in the social graph reside (~ expander
-      graph)
-      - but power always corresponds to a greater range of 1st/2nd
-        degree connections across the social graph
-      - at larger scales of social graphs, power can be seen to flow
-        clearly towards some subgraphs of the social graph.
-  - again, these people will always begin to arrange themselves
-    hierarchically.
-    - in some cases, the same people to define sin will *encourage
-      some sin* as a means of creating mechanisms of control across
-      the graph.
-    - the people in control will be very interested in learning your
-      desires/needs/vices/sins to entice you with them.
+<a name="would-you-like-some-tea" />
 
+# [Would You Like Some Tea?](#would-you-like-some-tea)
+
+
+
+## Reorganize the following
+
+- e.g. no one's ever going to cofound a business with me? i guess i
+  don't care about several dozen business ideas or several thousand
+  intellectually interesting ideas that i have.
+  - no, i get it. everything in my life is a rigged game. nothing i do
+    matters. any mild level of success i enjoy will be mitigated as
+    soon as i begin to taste progress.
+    - if i never taste progress in the direction of the gradient of
+      success, how will ripping it from my hands serve to torment me?
 
 - why wouldn't i find retreat in a buddhist monestary? because
   whatever follows me around the world will follow me wherever i go
@@ -1329,17 +1513,16 @@ symbolically abbreviated, compared to KJV, ECV and NIV.
     time in the past three were my words ever heard for what they
     truly were.
 
+
 ### [What Was The Start Of All This?](#what-was-the-start-of-all-this)
 
+Freedom of religion utlimately represents and individuals freedom over
+their own beliefs. If you lose freedom of religion, you lose freedom
+of belief. If individuals in America lose freedom to decide what they
+do and do not believe, they have effectively lost the freedom of
+religion.
 
-- Mara only comprehends men who seek the path of least resistence, not
-  fluid men who do not conform to any worldly desires or mechanisms of
-  control
-  - Henry David Thoreau quote "the path of least resistence leads to
-    crooked rivers and crooked men"
-  - such a path is useful sometimes, but it's predictable. identifying
-    the paths to people's [unstated] goals is the best way to catch
-    sociopathic people in the act.
+
 
 #### Chrono Cross: [What Was The Start Of All This?](https://www.youtube.com/watch?v=lHQ7yEYwEnE)
 
@@ -1363,7 +1546,7 @@ J/K folks, that's not the napkin...
     be an investment
     - informational baggage: unrepentent drug use, etc.
     - people tend to think investing their energy in me would be a
-      waste of their time because they assume that it's so easy for
+      waste of their time because they assume that it's too easy for
       other people with authority -- academic, political and otherwise
       -- to tear me down.
   - however terrible and inconvenient details of my life story are,
@@ -1522,7 +1705,7 @@ allow="autoplay; encrypted-media" allowfullscreen></iframe>
     Sutta](www.wisdompubs.org/book/middle-length-discourses-buddha/selections/middle-length-discourses-26-ariyapariyesana-sutta),
     Majjhima Nikaya 26:19)
 
-
+[^gpu-pathfinding]: [GPU FlowField Pathfinding](http://thomasdiewald.com/blog/?p=3294)
 
 [^distinguishing-pragmatic-and-epistemic-intent]: Kirsh, D. and
     Maglio, P. (1994), [On Distinguishing Epistemic from Pragmatic
