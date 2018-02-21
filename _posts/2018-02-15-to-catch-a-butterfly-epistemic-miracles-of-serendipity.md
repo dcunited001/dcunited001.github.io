@@ -8,17 +8,11 @@ author:
 excerpt: ""
 ---
 
-- Drowning in manufactured [fruit of the poisonous tree](https://www.commdiginews.com/politics-2/memo-reveals-thin-gruel-creates-messy-stew-trump-russia-dossier-98608/)
-  - With a system commited to nothing else but destroying me in
-    anything it does, yet apparently can't tolerate creating a
-    socrates or martyr in the process. "Once you find an anonymous
-    martyr, then there are no more."
+-
+  -
 
-> and yet all they ever wanted Socrates to do was to shut up... But
-> instead, his death lead him to develop the most notoriety amoung any
-> intellectual in the west without any such writing of his own.
+>
 
-![Fruit of the Poisonous Tree](/img/posts/2018-02-14-to-catch-a-butterfly-epistemic-miracles-of-serendipity/hemlock.jpg)
 
 ![School For The Blind](/img/posts/2018-02-14-to-catch-a-butterfly-epistemic-miracles-of-serendipity/school-for-the-blind.jpg)
 
@@ -82,6 +76,7 @@ excerpt: ""
 
 #### &#920; [The Eight Jhanas from the Ariyapariyesana Sutta](#the-eight-jhanas-from-the-ariyapariyesana-sutta)
 
+#### &#920; [If You're Out There Generally Liberating People, Watch Your Ass](#if-youre-out-there-generally-liberating-people-watch-your-ass)
 
 
 ...
@@ -93,16 +88,29 @@ excerpt: ""
 
 #### &#920; ["You Will Not Silence Us"](#you-will-not-silence-us) - Occupy Wall Street
 
-
-
-...
-
 #### &#920; [Would You Like Some Tea?](#would-you-like-some-tea)
 
 
 ## [Oh, I'm A Hypocrite?](#oh-im-a-hypocrite)
 
+#### &#920; [What Was The Start Of All This](#what-was-the-start-of-all-this)
+
+#### &#920; [What Does It Mean To Be Memory-Holed?](#what-does-it-mean-to-be-memory-holed)
+
+
+#### &#920; [Thread-Killing: The NSA Effectively Memory-Holes Targeted Individuals By Dissappearing Content They Interact With](#thread-killing-the-nsa-effecively-memory-holes-targeted-individuals)
+
+#### &#920; [Redpill Everything That Moves](#my-life-is-a-rigged-game-redpill-everything-that-moves)
+
+#### &#920; [My Life Is A Rigged Game](#my-life-is-a-rigged-game)
+
 #### &#920; [Throwing Bambi To The Wolves By Forbidding Socioepistemic Information Acquisition](#throwing-bambi-to-the-wolves-by-forbidding-socioepistemic-information-aquisition)
+
+#### &#920; [Wherefore The Rollerrink Drama Went Thermonuclear](#wherefore-the-rollerrink-drama-went-thermonuclear)
+
+
+#### &#920; [Until Then, I'm Drowning In Manufactured Fruit of the Poisonous Tree](#drowning-in-manufactured-fruit-of-the-poisonous-tree)
+
 
 <a name="epistemic-miracles-of-serendipity-are-incomputable" />
 
@@ -1302,9 +1310,8 @@ together for profit and power.
 > self-propagating change to follow his life.
 
 
-
-- why is this? is it because all manipulative/evil people must be
-  driven by attachments to their desires/etc?
+mara is it because all manipulative/evil people must be driven by
+  attachments to their desires/etc?
   - if so, are those who progress through and embody these states of
     mind necessarily pure? does this progression move towards an ideal
     that is the opposite of the being Mara epitomizes?
@@ -1865,7 +1872,7 @@ incompetent at best, as they're incredibly susceptible to exactly the
 kind of disinformation that's blinding this entire nation. At worst,
 they've lied to you for job security in national security.
 
-![](neo-redpill.jpg)
+![Neo Redpill](/img/posts/2018-02-14-to-catch-a-butterfly-epistemic-miracles-of-serendipity/neo-redpill.jpg)
 
 When I say I'm trying to stop a 21st century Holocaust, I'm not
 kidding. This is what happens in any state that accumulates and marks
@@ -1883,7 +1890,6 @@ their own beliefs. If you lose freedom of religion, you lose freedom
 of belief. If individuals in America lose freedom to decide what they
 do and do not believe, they have effectively lost the freedom of
 religion.
-
 
 <a name="my-life-is-a-rigged-game" />
 
@@ -1910,7 +1916,14 @@ happens to someone who leaks -- all while never telling me what I
 could and could not talk about, ensuring that the consequences of my
 ignorant actions would create problems of significant exposure.
 
+#### This Is What One Billion Dollars Looks Like ... (Not)
 
+> Here it is: the napkin. Apparently, they kept this thing around
+> ... a probably put it in a glass case like Lenin.
+
+![Southwest Airlines](/img/posts/2018-02-14-to-catch-a-butterfly-epistemic-miracles-of-serendipity/the-napkin.jpg)
+
+#### J/K folks, that's not actually the napkin...
 
 Everyone close to me and even people I've never met already know my
 fate: I'm essentially not allowed to ever achieve anything in
@@ -1924,10 +1937,12 @@ essentially on a hamster wheel. I was under surveillance: as soon as I
 started moving closer to my goals, people manipulated me and
 situations around me to disrupt my
 [velocity](https://en.wikipedia.org/wiki/Velocity_(software_development))
-and [traction](). Since I was working on esoteric software, no one
-would understand anything I did and all the source code I left behind
-would be worthless. With the assistance of my handy-dandy terminal
-cynicism, I finally figured this out. How did I respond?
+and
+[traction](https://www.amazon.com/What-Every-Angel-Investor-Wants/dp/0071800719). Since
+I was working on esoteric software, no one would understand anything I
+did and all the source code I left behind would be worthless. With the
+assistance of my handy-dandy terminal cynicism, I finally figured this
+out. How did I respond?
 
 > No one's ever going to cofound a business with me? I guess I don't
 > care about several dozen business ideas or several thousand
@@ -1967,16 +1982,6 @@ game. People seem to be compelled to treat me this way. Why? I don't
 really care and I could be wrong about a lot of it. The "why" only
 matters to me insofar as I can change my circumstances.
 
-
-
-#### This Is What One Billion Dollars Looks Like ... (Not)
-
-> Here it is: the napkin. Apparently, they kept this thing around
-> ... a probably put it in a glass case like Lenin.
-
-![Southwest Airlines](/img/posts/2018-02-14-to-catch-a-butterfly-epistemic-miracles-of-serendipity/)
-
-J/K folks, that's not the napkin...
 
 
 
@@ -2043,7 +2048,9 @@ control by getting society to basically toss my life in a ditch, I
 would greatly prefer over being stuck in a mental institution like
 some unfortunately suppressed delusional Nietzsche.
 
-### Wherefore The Rollerrink Drama Went Thermonuclear
+<a name="wherefore-the-rollerrink-drama-went-thermonuclear" />
+
+### [Wherefore The Rollerrink Drama Went Thermonuclear](#wherefore-the-rollerrink-drama-went-thermonuclear)
 
 #### Step One: Label Someone With Mental Illness, Particularly Paranoia
 
@@ -2051,17 +2058,17 @@ some unfortunately suppressed delusional Nietzsche.
 
 #### Step Three: Profit! That Person Can NEVER Question Your Motives Or The Motives Of Anyone In Life Because That Critical Behavior Is Forbidden To People Labelled Schizo or Paranoid.
 
-
-- TODO: rewrite and remove capitalization
-
-Their Life Will Be RUINED. They Will NEVER Be Able To Ascertain The
-Epistemic Beliefs/Information About Others, OUT OF FEAR OF
-STRENGTHENING THE LABEL. Making Decisions About Is So Critical To
-Maturing As An Adult. They Will Likely Blind Themselves To ALL Of The
-Information Needed To Develop Healthy, Mature Adult Behaviors Which Is
-Precisely What Happened After [Michael
+Their life will be *ruined*. They'll never be able to ascertain the
+epistemic beliefs and information about others -- out of fear of
+strengthening this label of mental illness. Making decisions about the
+beliefs and thoughts of others -- the epistemic information-structures
+in people's minds -- is critical to functioning as a person and
+maturing as an adult. Unless the target has already developed
+emotionally, they will likely blind themselves to all of the
+information needed to develop healthy, mature adult behaviors. This is
+all precisely how I responded after [Michael
 Lehrke](https://www.pacermonitor.com/public/case/10004266/RC_Sports,_Inc_v_Lehrke)
-Labeled Me As Paranoid *In A Geographically Significant Way In 2004.*
+labeled me as paranoid *in a geographically significant way in 2004*.
 
 What Michael did to me then would have seemed insignificant to anyone
 and it's certainly not anything I'm losing sleep over in 2018 ... but
@@ -2107,41 +2114,57 @@ happened to me for what it was.
 src="https://www.youtube.com/embed/-3tDvMG87Ro" frameborder="0"
 allow="autoplay; encrypted-media" allowfullscreen></iframe>
 
-### (a little closer to ubermensche)
+<a name="because-you-methodically-tormented-an-altruistic-person-who-loves-humanity" />
+
+### [Because You Methodically Tormented An Altruistic Person Who Loves Humanity](#because-you-methodically-tormented-an-altruistic-person-who-loves-humanity)
 
 I eventually gave up on startups and began writing. I never got a more
 amusing reaction from all the people who try to control me in my life
 -- **I've been addicted to that ever since**. I don't give a fuck
 about your money, your fame, or any of your petty measures of
 success. None of that matters to me because it's apparently
-*verbotten* to let me have any success whatsoever.  For me, life is a
-rigged game and I'm laughing because, to me, people are the game;
-*humanity is the game*. If I ever achieve moderate success, it's
-because I've so sufficiently dominated all of you. It's because I've
-done something so great that all your petty eichmanns have to go back
-through my life and account for everything they did to me along the
-way. At this point, I'd practically have to cure cancer: this
-accomplishment must be so great, it outweighs all the falsehoods and
-defamation. I do not care about what humanity has to say about me
-because they'd never say anything that reflects the truth of my
-identity anyways: *IT'S A RIGGED GAME.* Instead, what people say and
-think is only useful to me insofar as it indicates whether or not I've
-become great enough to unbind. This is hardly a strategy I recommend,
-but it's just about all I've got: how's it working out for you? What
-did humanity do to raw, unpotentiated greatness? You destroyed it
-because you fear what you do not understand. And when I achieve such a
-great accomplishment -- whether it's possible to surpass your petty,
-judgemental bullshit or hopeless and impossible -- it will be so
-great, but also good *BECAUSE YOU METHODICALLY TORMENTED AN*
-**ALTRUISTIC** *PERSON WHO LOVES HUMANITY*. And you'll never do it to
-someone like me again.
+*verbotten* to let me have any success whatsoever.
 
+For me, life is a rigged game and I'm laughing because, to me, people
+are the game; *humanity is the game*. If I ever achieve moderate
+success, it's because I've so sufficiently dominated all of you. It's
+because I've done something so great that all your petty eichmanns
+have to go back through my life and account for everything they did to
+me along the way. At this point, I'd practically have to cure cancer:
+this accomplishment must be so great, it outweighs all the falsehoods
+and defamation.
 
-<iframe width="560" height="315"
-src="https://www.youtube.com/embed/Ze_hfMw8JFg" frameborder="0"
-allow="autoplay; encrypted-media" allowfullscreen></iframe>
+I do not care about what humanity has to say about me because they'd
+never say anything that reflects the truth of my identity anyways:
+*IT'S A RIGGED GAME.* Instead, what people say and think is only
+useful to me insofar as it indicates whether or not I've become great
+enough to unbind.
 
+This is hardly a strategy I recommend, but it's just about all I've
+got: how's it working out for you? What did humanity do to raw,
+unpotentiated greatness? You destroyed it because you fear what you do
+not understand. And when I achieve such a great accomplishment --
+whether it's possible to surpass your petty, judgemental bullshit or
+hopeless and impossible -- it will be so great, but also good *BECAUSE
+YOU METHODICALLY TORMENTED AN* **ALTRUISTIC** *PERSON WHO LOVES
+HUMANITY*. And you'll never do it to someone like me again.
 
+<a name="drowning-in-manufactured-fruit-of-the-poisonous-tree" />
+
+#### Manufactured [fruit of the poisonous tree](https://www.commdiginews.com/politics-2/memo-reveals-thin-gruel-creates-messy-stew-trump-russia-dossier-98608/)
+
+> And yet all they ever wanted Socrates to do was to shut up... But
+> instead, his death lead him to develop the most notoriety amoung any
+> intellectual in the West without any such writing of his own.
+
+![Fruit of the Poisonous Tree](/img/posts/2018-02-14-to-catch-a-butterfly-epistemic-miracles-of-serendipity/hemlock.jpg)
+
+### [Until Then, I'm Drowning In Manufactured Fruit of the Poisonous Tree](#drowning-in-manufactured-fruit-of-the-poisonous-tree)
+
+With a system commited to nothing else but destroying me in anything
+it does, yet apparently can't tolerate creating a Socrates or martyr
+in the process. **"Once you find an anonymous martyr, then there are
+no more."**
 
 
 [^majjhima-nikaya-26-19]: From "The Noble Search" ([Ariyapariyesanā
