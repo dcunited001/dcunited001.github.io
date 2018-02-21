@@ -100,7 +100,7 @@ excerpt: ""
 #### &#920; [Would You Like Some Tea?](#would-you-like-some-tea)
 
 
-##
+## [Oh, I'm A Hypocrite?](#oh-im-a-hypocrite)
 
 #### &#920; [Throwing Bambi To The Wolves By Forbidding Socioepistemic Information Acquisition](#throwing-bambi-to-the-wolves-by-forbidding-socioepistemic-information-aquisition)
 
@@ -1585,12 +1585,8 @@ comes in many flavors, but like coffee, this one's an acquired taste.
 
 ## Reorganize the following
 
-- e.g. no one's ever going to cofound a business with me? i guess i
-  don't care about several dozen business ideas or several thousand
-  intellectually interesting ideas that i have.
-  - no, i get it. everything in my life is a rigged game. nothing i do
-    matters. any mild level of success i enjoy will be mitigated as
-    soon as i begin to taste progress.
+- e.g.
+  -
     - if i never taste progress in the direction of the gradient of
       success, how will ripping it from my hands serve to torment me?
 
@@ -1616,6 +1612,206 @@ comes in many flavors, but like coffee, this one's an acquired taste.
     time in the past three were my words ever heard for what they
     truly were.
 
+<a name="oh-im-a-hypocrite" />
+
+# [Oh, I'm A Hypocrite?](#oh-im-a-hypocrite)
+
+In my life, people have a way with words. They get to say that "David
+Conner's never done anything else for anyone but himself." Why?
+Because it's true: in almost my entire adult life, I have never
+possessed sufficient social or financial resources to give back to
+anyone. I possess merely information and what good does information do
+for anyone else when no one's allowed to acknowledge your identity?
+
+Would they ever care about helping me attain some position, where free
+from being under someone else's thumb, so that I can accumulate
+sociophysical resources to contribute to someone else's life? It
+depends on who you're asking, but yes, almost everyone would say "Yes,
+we'd love to help David Conner." However, do they ever follow through?
+My family refuses to read anything I ever write -- ALWAYS claiming
+that they don't understand it, while at the same time, NEVER being
+willing to listen to me explain it to them in less complicated
+language. I can tell they don't read anything I write because their
+**impetulant, facile arguments** to justify depriving me of all
+opportunity *NEVER reference any ideas I project*. Literally ZERO
+information that comes out of my mouth finds itself as
+*[material](https://en.wikipedia.org/wiki/Materiality_(law))* to any
+propositions in their arguments. It's because they are objectively bad
+listeners when it comes to listening to David Conner. Why? Because
+just like with everyone else, my existence and all informational
+associated to my identity is inconvenient to their understanding of
+reality. The lies people around me tell themselves to make themselves
+feel better about my psychological abuse fall to pieces if they
+internalize any information in my arguments.
+
+<a name="what-was-the-start-of-all-this" />
+
+
+
+
+### [What Was The Start Of All This](#what-was-the-start-of-all-this)
+
+I don't actually care about who's fault it is. I don't want to blame
+my family, but when I write, I'm writing for two reasons. First, no
+one listens to me. And secondly, it is inefficient for me to talk
+about my problems and my passions, but when I write, my words have the
+potential to multiply with zero effort required on my part. This yet
+another reason why the people around me who seek to control me reacted
+so negatively to my initial writing. It creates more information they
+must clean up. However, these information-control-freaks -- *not my
+family* -- never really expected me to recover from anything they've
+done.
+
+I don't expect my family to be interested in everything I write, but I
+have been writing for three years about all the problems in my life,
+specifically so that when I am shoved into a mental institution, I
+will have a library of content that refutes all the fantastic bullshit
+that has been said about me -- which does not primarily originate from
+my family. Instead, it originates from people who seek to use my
+family as vectors to control me by minimizing my social boundary --
+the set of people I interact with regularly.
+
+What's worse than never having done anything for anyone else? *Never
+being permitted to accumulate good karma because you've been so
+totally deprived of social interaction and financial resources.* So,
+when people get to say "I've never done anything for anyone else" it's
+because they don't let me out of my cage very often. And if the people
+in my social boundary are more socially connected than I am, it means
+that the negative information that they project predominantly
+determines how everyone in society views me. I am literally in a
+fucking social cage; I am sick and tired of being abused for my entire
+adult life, when I want nothing other than to help people.
+
+<a name="what-does-it-mean-to-be-memory-holed" />
+
+### [What Does It Mean To Be Memory-Holed?](#what-does-it-mean-to-be-memory-holed)
+
+It essentially means that whenever someone comes into contact with
+you, they have bluepills shoved down their throat until they either
+hate you or forget you ever existed. Ideally, it means that no one
+will encounter you to form memories that need to be scrubbed out later
+on. Whether it was intentional at first is unclear, but I've been
+memory holed happened for over 10 years now. i've experience a decade
+of this. It's called being "Memory Holed" as in "Hold the memories,
+please." Basically, you are socially isolated, so people accumulate
+minimal memories with you, socially. This means that your adversaries
+have pre-emptively erased you.
+
+People develop emotional connections with each other gradually as they
+spend time together. However, people are fickle and the strength of
+the emotional connections we form fades quickly, as though friendships
+are plants in a garden that need to be water with social
+interaction. If you suffer in poverty, isolation or from complete
+ignorance of social interactions, then you may be at a disadvantage
+throughout life, before being intentionally memory-holed. For example,
+you have Asperger's, you're broke because you're psychologically
+tortured at work and now you have an attachment disorder to top it all
+off.
+
+The memory hole is only a tactic against valid targets, who must be
+socially, financially and psychologically vulnerable. It won't work
+against everyone, but where it does, it's incredibly effective. This
+is why it's infuriating for me personally: it means that people
+assessed my psychology and worked to cull me out of society, undermine
+my career and seeded a bunch of personality disorders into my
+psychology.
+
+### Thread-Killing: The NSA Effectively Memory-Holes Targeted Individuals By Deranking Any Post The Interact On
+
+Dissidents
+
+
+- memory-holing people on facebook
+
+
+<a name="redpill-everything-that-moves" />
+
+### [ Redpill Everything That Moves](#my-life-is-a-rigged-game-redpill-everything-that-moves)
+
+![](neo-redpill.jpg)
+
+### My Life Is A Rigged Game
+
+You get to never acknowledge anything positive about me, whether I'm
+your friend, your family or a stranger you've been told to hate for as
+long as you can remember, if that -- which is the intent of
+memory-holing someone: to prevent an individuals in society from
+thinking about that person or forming memories about them
+whatsoever. If you deviate from the official story -- that I'm nothing
+other than a drug-seeking, manipulative person completely devoid of
+all value -- then any interactions with me will bring down upon you
+the wrath of the intelligence community. You can only interact with me
+if you *INTEND* negative consequences OR generally appear to have
+strengthened the sources of my social isolation. It sounds crazy
+doesn't it?
+
+This is what it's like to be David Conner in America. Of course, the
+people who have saught to socially limit me also assumed they could
+create a bunch of negative consequences and then USE me as both a
+scapegoat for a shitstorm they created as well as an example of what
+happens to someone who leaks -- all while never telling me what I
+could and could not talk about.
+
+
+- Everyone close to me and even people I've never met already know my
+  fate: I'm essentially not allowed to ever achieve anything in
+  America. I live inside a rigged game. No one was allowed to tell me
+  this. Why? During 2013, 2014 and 2015, I was easily controlled *and
+  predictable*. If I learned that my life is a rigged game, I would
+  become unpredictable. I'd respond in exactly they way these people
+  were afraid I would respond: I'd reorient my energy to accomplish
+  something different. While I was working on startup ideas, I was
+  essentially on a hamster wheel. I was under surveillance: as soon as
+  I started moving closer to my goals, people manipulated me and
+  situations around me to disrupt my
+  [velocity](https://en.wikipedia.org/wiki/Velocity_(software_development))
+  and [traction](). Since I was working on esoteric software, no one
+  would understand anything I did and all the source code I left
+  behind would be worthless. With the assistance of my handy-dandy
+  terminal cynicism, I finally figured this out. How did I respond?
+
+> No one's ever going to cofound a business with me? I guess I don't
+> care about several dozen business ideas or several thousand
+> intellectually interesting ideas that I have. I'm going to tweet
+> about everything and write about it as fast as possible. I don't
+> care if I ever make a dime from any of it because no one would ever
+> let me have that dime anyways.
+>
+> No, I get it. Everything in my life is a rigged game. nothing i do
+> matters. any mild level of success i enjoy will be mitigated as soon
+> as i begin to taste progress. Since anyone in the world can
+> understand english, if I blog instead of writing javascript,
+> everything I leave behind matters. If nothing else, when people read
+> my writing, they can't possibly disregard my genius. Boy, was I
+> wrong.
+
+Yeh, call me paranoid. I don't care; I never do anything with a
+singular purpose or singular objective. I'm always aiming for more
+than one bird with every stone I throw. it sounds crazy, but I
+thought:
+
+> If I write, it will force me to structure my ideas. This improves my
+> communication and language skills. I dont need a business model. I
+> can write about anything I'm interested in. When people read what I
+> write, it will be impossible for them to ignore me. It will seem
+> like a waste of time while I'm doing it, but the more I write, the
+> more I can demonstrate how I have the equivalent of twenty bachelor
+> degrees. When my family and their friends read the content I'm
+> writing, there's no possible way they could continue to want to
+> deprive me of every possible opportunity. They'd be fools not to
+> invest their energy in me.
+
+All of that has happened: except people have never changed the way
+they look at me, as though I'm some worthless piece of shit stuck to
+their shoe. It's because I live in a tightly managed, rigged
+game. People seem to be compelled to treat me this way. Why? I don't
+really care and I could be wrong about a lot of it. The "why" only
+matters to me insofar as I can change my circumstances.
+
+<a name="the-triumvarate-of-sociophysical-resources-social-financial-and-informational" />
+
+### [The Triumvarate of Sociphysical Resources: Social, Financial and Informational](#the-triumvarate-of-sociophysical-resources-social-financial-and-informational)
+
 
 ### [What Was The Start Of All This?](#what-was-the-start-of-all-this)
 
@@ -1627,7 +1823,7 @@ religion.
 
 
 
-#### Chrono Cross: [What Was The Start Of All This?](https://www.youtube.com/watch?v=lHQ7yEYwEnE)
+### [Chrono Cross](https://www.youtube.com/watch?v=lHQ7yEYwEnE)
 
 ![What Was The Start of All This?](/img/posts/2018-02-14-to-catch-a-butterfly-epistemic-miracles-of-serendipity/chrono-cross.jpg)
 
