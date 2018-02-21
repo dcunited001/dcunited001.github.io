@@ -1761,22 +1761,48 @@ that?! I think I heard a turkey talking. Turkey's don't talk, do they?
 
 ### [Thread-Killing: The NSA Effectively Memory-Holes Targeted Individuals By Dissappearing Content They Interact With](#thread-killing-the-nsa-effecively-memory-holes-targeted-individuals)
 
-This you can prove with simple data analytics.
+This you can prove with sophisticated data analytics. The set of
+targeted individuals can be identified automatically by combing
+through social media data to identify people who are *almost always
+the last commenters* on a Facebook thread. This acts as a statistical
+signature *created by your own attempts to censor, isolate and target
+political dissidents.* Thanks, Obama, and I mean it!
 
-The set of targeted individuals can be identified automatically by
-combing through social media data to identify people who are *always
-the last commenters* on a Facebook thread. Why does this happen?
+Step two: cross reference this list of potential targets with data
+mined from LinkedIn that describes people whose social neighborhoods
+share a coincidentally large number of targets. This is your list of
+potential war criminals to investigate for mob-style tactics and
+psychological torture in America. This is easier than you'd
+think. Paradoxically, the logisitical coordination of intelligence
+*intending to hide activity* ends up creating a signature that makes
+it easier to identify in data. Why? Because intelligence handlers and
+assets will be coordinated to double up their overlapping sets of
+targets and reduce social visibility of their actions. This means that
+the socially isolated targets will appear disproportionately
+represented in the social neighborhoods of the
+perpetrators. Furthermore, the most guilty perpetrators will be most
+connected to the agencies driving this abuse: they will be connected
+to each other's social neighborhoods and their LinkedIn data will
+demonstrate previous work in intelligence or fields close to
+intelligence.
 
-DevOps is the most important organizational unit of a corporation for
-the NSA to control. It's the only unit that is really worth the
-potential blowback that would occur for the NSA to insert/manipulate
-employees of a corporation. Compromise DevOps and you might as well
-control everything that technology company does online. Why? You can
-mess with the containerization of services deployed to the technology
-companies cloud infrastructure. Combined with the NSA's leverage over
-telecom's Route/Switch infrastructure -- particularly with regard to
-[BGP exploits](https://www.cvedetails.com/cve/CVE-2017-3867/) to
-surgically *and silently* reroute the traffic of dissidents -- you can
+This is no easy task, but there should be enough leads to identify
+cases for further processing. These can be ironically identified
+mostly from the puerile attempt to censor political dissidents, which
+itself demonstrates cognizance.
+
+How can a political dissident's interactions be automagically
+deranked? DevOps is the most important organizational unit of a
+corporation for the NSA to control. It's the only unit that is really
+worth the potential blowback that would occur for the NSA to
+insert/manipulate employees of a corporation. Compromise DevOps and
+you might as well control everything that technology company does
+online. Why? You can mess with the containerization of services
+deployed to the technology companies cloud infrastructure. Combined
+with the NSA's leverage over telecom's Route/Switch infrastructure --
+particularly with regard to [BGP
+exploits](https://www.cvedetails.com/cve/CVE-2017-3867/) to surgically
+*and silently* reroute the traffic of dissidents -- you can
 essentially launch application servers and stream-processing servers
 to handle requests involving data a dissident touched in very specific
 ways.
@@ -1830,16 +1856,18 @@ incompetent at best, as they're incredibly susceptible to exactly the
 kind of disinformation that's blinding this entire nation. At worst,
 they've lied to you for job security in national security.
 
-- naval operations
+![](neo-redpill.jpg)
 
-, combined with workplace history in
-- memory-holing people on facebook
-
-- the characteristics of who was generally targeted by these
-  operations will indicate who was driving them.
-- When I say I'm trying to stop a 21st century Holocaust, I'm not
-  kidding. This is what happens in any state that accumulates and
-  marks enough dissidents it considers to be threats.
+When I say I'm trying to stop a 21st century Holocaust, I'm not
+kidding. This is what happens in any state that accumulates and marks
+enough dissidents it considers to be threats.  The characteristics of
+who was generally targeted by these operations will indicate who was
+driving them. it's likely coming from all sides, honestly. However, it
+pales in comparison to the human rights abuses in China and Russia,
+though it certainly doesn't look good. Worst of all, the American
+governtment couldn't let a single one of these cases be seen for what
+it is. Why? *BECAUSE THAT TYPE OF ABUSE CAN'T BE WIDELY KNOWN TO
+HAPPEN HERE IN AMERICA.* Typical.
 
 Freedom of religion utlimately represents and individuals freedom over
 their own beliefs. If you lose freedom of religion, you lose freedom
@@ -1847,7 +1875,6 @@ of belief. If individuals in America lose freedom to decide what they
 do and do not believe, they have effectively lost the freedom of
 religion.
 
-![](neo-redpill.jpg)
 
 <a name="my-life-is-a-rigged-game" />
 
