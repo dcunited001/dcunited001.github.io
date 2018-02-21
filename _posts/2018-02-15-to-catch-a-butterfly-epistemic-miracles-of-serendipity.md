@@ -1576,41 +1576,54 @@ comes in many flavors, but like coffee, this one's an acquired taste.
 
 ![Danger: High Voltage](/img/posts/2018-02-14-to-catch-a-butterfly-epistemic-miracles-of-serendipity/ostrich-what-economics.jpg)
 
+<a name="would-you-like-some-more-tea" />
 
-<a name="would-you-like-some-tea" />
+### [Would You Like More Some Tea?](#would-you-like-some-tea)
 
-# [Would You Like Some Tea?](#would-you-like-some-tea)
+If I never taste progress in the direction of the gradient of success,
+how will ripping it from my hands serve to torment me? If I can never
+hold a driver's license because revoking my license has simply been a
+mechanism to control me, why should I bother with a restricted
+license? If someone is not permitted to have nice things, how are they
+supposed to develop a respect for other people's nice things? If
+someone's not permitted to love or be loved, how could they possibly
+experience the love and compassion required to respect and care for
+other people? They simply won't learn how to build relationships, but
+if your goal is to prevent them from having relationships, that's
+perfect then, isn't it?
 
+Why wouldn't i find retreat in a buddhist monestary? Because whatever
+follows me around the world will follow me wherever I go until I face
+it and destroy it. There is no hiding. There is no running. There is
+only standing up to this and pulling it out by the root. This dark
+miasma will follow me into any place I go, no matter how pure that
+place might be, to disrupt anyone's lives, no matter how pure they are
+or who they are. This kind of darkness doesn't care. You are a marked
+man. It may seek you, but it doesn't need to find you, you will find
+it, over and over again.
 
+The only way I know how to fight this is by waking people up, so that
+they see it for what it is, which forces this [metaphysical autonomous
+form](/posts/2017-10-12-treatise-on-entity-and-agency.html#sociophysical-and-metaphysical-autonomous-forms)
+-- this [egregore](https://en.wikipedia.org/wiki/Egregore) -- to
+expend its sociophysical energy beyond it's maximum burn rate.
 
-## Reorganize the following
+That's the only way to stop this. you have to bait "it" into as many
+simultaneous battles as possible because it's like a hydra crossed
+with a zombie epidemic. This compulsion for networks of people to
+dominate others is now empowered by technology. Wnless people stand
+for something and refuse to allow it to grow, it will continue
+consuming lives with coercion and racketeering until it consumes
+everything.
 
-- e.g.
-  -
-    - if i never taste progress in the direction of the gradient of
-      success, how will ripping it from my hands serve to torment me?
+#### [Chrono Cross Intro](https://www.youtube.com/watch?v=lHQ7yEYwEnE): "What Was The Start of All This?"
 
-- why wouldn't i find retreat in a buddhist monestary? because
-  whatever follows me around the world will follow me wherever i go
-  until i destroy it.
-  - so "it" will follow me into any place i go, no matter how pure it
-    is, to disrupt anyone's lives, no matter how pure they are.
+![What Was The Start of All This?](/img/posts/2018-02-14-to-catch-a-butterfly-epistemic-miracles-of-serendipity/chrono-cross.jpg)
 
-- the only way i see this as possible is by waking people up, so that
-  they see it for what it is, to force this metaphysical autonomous
-  form, this egregore, to expend its sociophysical energy beyond it's
-  maximum burn rate.
-  - that's the only way to stop this. you have to bait "it" into as
-    many simultaneous battles as possible because it's like a hydra
-    crossed with a zombie epidemic.
-  - this compulsion for networks of people to dominate others is now
-    empowered by technology. unless people stand for something and
-    refuse to allow it to grow, it will continue consuming lives with
-    coercion and racketeering until it consumes everything.
-  - I didn't realize this from the beginning, whenever that was. I
-    have always tried to minimize the scope of this thing, but at no
-    time in the past three were my words ever heard for what they
-    truly were.
+I didn't realize this from the beginning, whenever that was. I have
+always tried to minimize the scope of this thing, but at no time in
+the past three years were my words ever heard for what they truly
+were.
 
 <a name="oh-im-a-hypocrite" />
 
@@ -1645,10 +1658,6 @@ feel better about my psychological abuse fall to pieces if they
 internalize any information in my arguments.
 
 <a name="what-was-the-start-of-all-this" />
-
-#### [Chrono Cross Intro](https://www.youtube.com/watch?v=lHQ7yEYwEnE)
-
-![What Was The Start of All This?](/img/posts/2018-02-14-to-catch-a-butterfly-epistemic-miracles-of-serendipity/chrono-cross.jpg)
 
 ### [What Was The Start Of All This](#what-was-the-start-of-all-this)
 
