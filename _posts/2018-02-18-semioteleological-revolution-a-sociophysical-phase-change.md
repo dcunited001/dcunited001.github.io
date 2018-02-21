@@ -13,6 +13,10 @@ excerpt: ""
   - (move this distinction to the other article)
 
 
+
+### [The Triumvarate of Sociphysical Resources: Social, Financial and Informational](#the-triumvarate-of-sociophysical-resources-social-financial-and-informational)
+
+
 - TODO: DG Sever Rime
 - TODO: semioteleological metaphor “to eat”
 

@@ -1725,6 +1725,13 @@ assessed my psychology and worked to cull me out of society, undermine
 my career and seeded a bunch of personality disorders into my
 psychology.
 
+#### Classifying Memories of Guantanamo Detainees Serves to Blame The Victims and Protect the Perpetrators
+
+> SO, YES, THERE IS ABSOLUTELY A FACTUAL BASIS FOR THE NOTION OF
+> *CLASSIFIED MEMORIES* AS ABSURD AND ORWELLIAN AS THAT SOUNDS.
+
+![Detainees Memories Are Classified](/img/posts/2018-02-14-to-catch-a-butterfly-epistemic-miracles-of-serendipity/classified-memories.jpg)
+
 By the way, once you are sufficiently memory holed, you're already as
 good as dead, those cigar-smoking men just haven't killed you
 yet. Until they do, they seek to prevent other people from forming
@@ -1748,22 +1755,103 @@ channel](https://www.youtube.com/channel/UCNBGgrsyZCmcsc18h6VJh_w) on
 YouTube, chock full of videos which are like metaphorical instruction
 manuals for psychological torture techniques. Fun for you and the
 whole family ... except for that one kid under the table, but! What's
-that?! I think I heard a squirrel talking. Squirrels don't talk, do
-they?
+that?! I think I heard a turkey talking. Turkey's don't talk, do they?
 
-### [Thread-Killing: The NSA Effectively Memory-Holes Targeted Individuals By Dissappearing Content They Interact With](#thread-killing-the-nsa-effecively-memory-holes-targeted-individuals-by-disappearing-any-content-they-interact-with)
+<a name="thread-killing-the-nsa-effecively-memory-holes-targeted-individuals" />
 
+### [Thread-Killing: The NSA Effectively Memory-Holes Targeted Individuals By Dissappearing Content They Interact With](#thread-killing-the-nsa-effecively-memory-holes-targeted-individuals)
 
-- memory-holing people on facebook
+This you can prove with simple data analytics.
 
+The set of targeted individuals can be identified automatically by
+combing through social media data to identify people who are *always
+the last commenters* on a Facebook thread. Why does this happen?
+
+DevOps is the most important organizational unit of a corporation for
+the NSA to control. It's the only unit that is really worth the
+potential blowback that would occur for the NSA to insert/manipulate
+employees of a corporation. Compromise DevOps and you might as well
+control everything that technology company does online. Why? You can
+mess with the containerization of services deployed to the technology
+companies cloud infrastructure. Combined with the NSA's leverage over
+telecom's Route/Switch infrastructure -- particularly with regard to
+[BGP exploits](https://www.cvedetails.com/cve/CVE-2017-3867/) to
+surgically *and silently* reroute the traffic of dissidents -- you can
+essentially launch application servers and stream-processing servers
+to handle requests involving data a dissident touched in very specific
+ways.
+
+You can rerank entire shards of data that any dissident touches. That
+comment thread? It's newsfeed rank is suddenly zero. This means that
+*POOF!* the facebook thread your dissident just interacted with is no
+longer seen by anyone that matters on Facebook. Or you can promote
+shards of content to be marketed towards people who berate and
+humiliate that person. Or you can screw with the matching algorithms
+in online gaming to ensure that political dissidents are routed to
+matches with people who audit the audio stream for references to
+classified information -- or subject that person to simple hypnotic
+techniques via audio.
+
+There is a set of individuals in America whose days are numbered. They
+are considered the radioactive waste products of intelligence
+operations gone wrong. This set of individuals is completely
+identifyable using publically accessible data, which is impossible to
+cleanse to statistical satisfaction. Therefore, people in control of
+the informational security [must be planning to purge it all at
+once](http://localhost:4000/posts/2018-01-30-caelis-ruissent-avoiding-the-engineered-collapse.html):
+they're not ignorant of their operational security
+vulnerabilities. **This is but one of twenty different factors
+indicating convergence towards a total system reset.**
+
+It's this awareness OpSec weaknesses that drives American in command
+of informational security to push for social engineering to avoid ever
+creating these digitized data footprince in the first place. If they
+can drive fear into the hearts of young Americans, they can dissuade
+us from ever creating the digital artifacts that prove anything ever
+happened. However, nothing that can be done now is good enough to
+eliminate the footprint that already exists.
+
+Facebook's production operations team has apparently hired many people
+who used to work with the Navy in cyber-operations: they have the
+clearances to work with NSA, though this is circumstantial. The point
+is that, if you wanted to have access to Facebook's devops, you would
+want to control the people who work in Facebook DevOps.
 
 <a name="redpill-everything-that-moves" />
 
 ### [Redpill Everything That Moves](#my-life-is-a-rigged-game-redpill-everything-that-moves)
 
+How is it paying off to have assassinated my career? If you hadn't
+done that, I'd have been so fucking busy with my head down, I'd never
+have become a philosopher, nor would I ever have the time to look at
+so much information online. All your operations to control me have
+backfired. All these people placed on me for security have been
+incompetent at best, as they're incredibly susceptible to exactly the
+kind of disinformation that's blinding this entire nation. At worst,
+they've lied to you for job security in national security.
+
+- naval operations
+
+, combined with workplace history in
+- memory-holing people on facebook
+
+- the characteristics of who was generally targeted by these
+  operations will indicate who was driving them.
+- When I say I'm trying to stop a 21st century Holocaust, I'm not
+  kidding. This is what happens in any state that accumulates and
+  marks enough dissidents it considers to be threats.
+
+Freedom of religion utlimately represents and individuals freedom over
+their own beliefs. If you lose freedom of religion, you lose freedom
+of belief. If individuals in America lose freedom to decide what they
+do and do not believe, they have effectively lost the freedom of
+religion.
+
 ![](neo-redpill.jpg)
 
-### My Life Is A Rigged Game
+<a name="my-life-is-a-rigged-game" />
+
+### [My Life Is A Rigged Game](#my-life-is-a-rigged-game)
 
 You get to never acknowledge anything positive about me, whether I'm
 your friend, your family or a stranger you've been told to hate for as
@@ -1843,18 +1931,6 @@ game. People seem to be compelled to treat me this way. Why? I don't
 really care and I could be wrong about a lot of it. The "why" only
 matters to me insofar as I can change my circumstances.
 
-<a name="the-triumvarate-of-sociophysical-resources-social-financial-and-informational" />
-
-### [The Triumvarate of Sociphysical Resources: Social, Financial and Informational](#the-triumvarate-of-sociophysical-resources-social-financial-and-informational)
-
-
-### [What Was The Start Of All This?](#what-was-the-start-of-all-this)
-
-Freedom of religion utlimately represents and individuals freedom over
-their own beliefs. If you lose freedom of religion, you lose freedom
-of belief. If individuals in America lose freedom to decide what they
-do and do not believe, they have effectively lost the freedom of
-religion.
 
 
 #### This Is What One Billion Dollars Looks Like ... (Not)
@@ -2028,6 +2104,9 @@ someone like me again.
 <iframe width="560" height="315"
 src="https://www.youtube.com/embed/Ze_hfMw8JFg" frameborder="0"
 allow="autoplay; encrypted-media" allowfullscreen></iframe>
+
+
+
 
 [^majjhima-nikaya-26-19]: From "The Noble Search" ([Ariyapariyesanā
     Sutta](www.wisdompubs.org/book/middle-length-discourses-buddha/selections/middle-length-discourses-26-ariyapariyesana-sutta),
