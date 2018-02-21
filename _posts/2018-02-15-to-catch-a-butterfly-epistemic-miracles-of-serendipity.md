@@ -20,10 +20,7 @@ excerpt: ""
 
 ![Fruit of the Poisonous Tree](/img/posts/2018-02-14-to-catch-a-butterfly-epistemic-miracles-of-serendipity/hemlock.jpg)
 
-![Kino's Journey](/img/posts/2018-02-14-to-catch-a-butterfly-epistemic-miracles-of-serendipity/kinos-journey.jpg)
-
 ![School For The Blind](/img/posts/2018-02-14-to-catch-a-butterfly-epistemic-miracles-of-serendipity/school-for-the-blind.jpg)
-
 
 - [Stargate S3E22](http://stargate.wikia.com/wiki/SG-1_Season_3)
 
@@ -87,7 +84,18 @@ excerpt: ""
 
 
 
+...
 
+
+#### &#920; [To Turn The Other Cheek](#to-turn-the-other-cheek)
+
+#### &#920; ["With Mercy, There Is No Deed Without Virtue"](#without-mercy-there-is-no-deed-without-virtue)
+
+#### &#920; ["You Will Not Silence Us"](#you-will-not-silence-us) - Occupy Wall Street
+
+
+
+...
 
 #### &#920; [Would You Like Some Tea?](#would-you-like-some-tea)
 
@@ -1168,17 +1176,19 @@ potential energy, we must all live so that we steadily gain value from
 everything we do, whether that is social, financial or informational
 value.
 
-To do this best, we need all people to be strong -- but instead,
+To do this best, we need all people to be strong -- but **instead,
 Americans are encouraged to surrender themselves to a vindictive
-authority **out of fear that strength is dangerous.** We are
-encouraged to deliver our neighbors, friends and family into torment
-and told that, if we comply, we will be secure. NO! If you comply with
-this, you deserve neither liberty, nor security. True strength comes
-from within and it is steadily accumulated by piety, love of virtue
-and love of one another. We must never forget that our strength
-derives from our freedom. Therefore, we should desire to liberate
-other people around us: financially and socially. People should be
-encouraged to be independent and capable of living independently.
+authority out of fear that strength is dangerous.** We are encouraged
+to deliver our neighbors, friends and family into torment and told
+that, if we comply, we will be secure. NO! If you comply with this,
+you deserve neither liberty, nor security. True strength comes from
+within and it is steadily accumulated by piety, love of virtue and
+love of one another. We must never forget that our strength derives
+from our freedom. Therefore, we should desire to liberate other people
+around us: financially and socially. People should be encouraged to be
+independent and capable of living independently.
+
+![Kino's Journey](/img/posts/2018-02-14-to-catch-a-butterfly-epistemic-miracles-of-serendipity/kinos-journey.jpg)
 
 The greater the number of people who abandon attachment by shedding
 some self-ordained objectified understanding of reality, the greater
@@ -1286,10 +1296,12 @@ can be certain that Mara will track down the source of liberation. To
 Mara, people are not to be free, they are to be used and chained
 together for profit and power.
 
-> Here, I use Mara here as a metaphor, mostly from my understanding of
-> Mara as the deity who tempted the Buddha, while simultaneously
-> conspiring to destroy him to preempt the self-propagating change to
-> follow his life.
+> Here, I use Mara here as a metaphor, mostly from my [limited]
+> understanding of Mara as the deity who tempted the Buddha, while
+> simultaneously conspiring to destroy him to preempt the
+> self-propagating change to follow his life.
+
+
 
 - why is this? is it because all manipulative/evil people must be
   driven by attachments to their desires/etc?
@@ -1425,65 +1437,88 @@ ultimately gaining from them.
 
 ### ["With Mercy, There Is No Deed Without Virtue"](#without-mercy-there-is-no-deed-without-virtue)
 
+#### Here Is A Separate English Translation:
 
+> When together with compassion and mercy, there is no non-virtue.
 
+The quote above is a line from the book [Chandragoman's Twenty Verses
+On The Bodhisattva's
+Vow](www.abuddhistlibrary.com/Buddhism/A%20-%20Tibetan%20Buddhism/Authors/Chandragomin/Twenty%20Verses%20on%20the%20Bodhisattva%20Vow/Twenty%20Verses%20on%20the%20Bodhisattva%20Vow.htm),
+a book that caught my eye at a Boulder bookstore, in the middle of
+Startup Week 2013, two weeks before [that time I *allegedly*
+suppressed my memories ... for
+love](/posts/2016-08-17-that-time-i-repressed-my-own-memories-for-love.html). During
+a recent reading of these twenty verses, I spent about an hour in
+thought after reading this line literally.
 
+How can it be that there are no actions without virtue? There are
+certainly non-virtuous actions, per se. However, we are all given
+choice over how we respond to non-virtuous deeds. To me, its meaning
+is similar to *turn the other cheek*: it's about absorbing and
+transmuting the sociophysical reverberations of actions with negative
+karma. If you choose to internalize that wrong instead of responding
+to it in kind, then one can transmute the experience of having been
+wronged into one that is virtuous.
 
-- absorbing and transmuting the sociophysical reverberations of
-  negative karma (from the book on bodhisattva vows)
-  - the line is "with mercy, there is no deed without virtue"
-    - or alternatively translated as: "When together with compassion
-      and mercy, there is no non-virtue."
+Its importance to the Bodhisattva's vows can be understood by zooming
+out to the sociological scale: it's critical to consider it to be
+virtuous to absorb and trasmute the consequences of actions with
+negative karma. What happens if you don't? You can choose to suffer
+with the consequences of that non-virtuous deed. You can also choose
+to repay it in kind: either to directly the the person who inflicted
+it on you or perhaps by reflecting the consequences onto another
+person.
 
-    - what this seems to mean is that, even if someone has done you
-      wrong, if you choose to internalize that wrong instead of
-      responding to it in kind, then one can transmute the experience
-      of having been wronged into one that is virtuous.
-    - if you zoom out to a sociological scale, the it's important to
-      consider it to be virtuous when absorb the wrong actions of
-      others in order to move past them.
-      - people cause so many problems by wronging someone they
-        consider weak and assuming that person will turn around and do
-        the same thing, perhaps by justifying these learned wrong
-        actions by assuming that's just how the world works.
-      - however, if people consider turning the other cheek to be a
-        virtue, than even the common person can act as a kind of
-        sociophysical "buffer" in the same way that buffer agents
-        respond to changes in pH by absorbing acidity.
-      - when a significant amount of the population prefers to react
-        in this way to wrongness, they can act to quell karmic
-        turbulence. when instead, victims of theft turn around and
-        reflect the consequences of stolen goods onto others by
-        becoming thieves themselves, the consequences of the original
-        sins then multiply.
-      - those who turn to theft to account for the imbalance in their
-        lives are choosing self over society by finding someone else
-        upon which they can thrust their bad lot in life.
-      - when those who turn to fraud to correct an imbalance in their
-        lives that originated from fraud, they are acting to reflect
-        fraud throughout society. this is sustainable, if small groups
-        of people decide to work together at the cost of detriment to
-        society as a whole. However, reflecting negativity upon others
-        is never the solution. You are only temporarily pushing the
-        negativity in your personal life upon the lives of others at
-        the risk of normalizing the malice that victimized you in the
-        first place. In order to stop this, people have to decide upon
-        themselves to absorb negativity. To do this effectively,
-        people must be equipped with knowledge, they must be
-        encouraged to network the social graph in a way that does NOT
-        exclude people. It is never OK to exclude people
-        systematically: that is what leads the excluded individuals to
-        believe it is justified to act in a wrong way, which is
-        incredibly easy if you've never been acknowledged by society
-        or felt appreciated.
-      - utlimately, what do people want? what is it that individuals
-        intend? and what is it that groups in society intend?
-      - and generally, when people accept "this is how things are" --
-        and especially when this is used to justify wrongdoing -- they
-        have ceded all the power they have to change the world. True
-        change requires suffering and if people do not choose to
-        suffer for something better, we will always stay the course
-        decided for use by those in power.
+Why do people engage in non-virtuous behavior? It primarily stems from
+ignorance, but less indirectly, it's usually to satisfy a need or
+desire. People sometimes try to take from another, by foisting the
+costs of their needs and desires upon someone else. People cause so
+many problems by wronging someone they consider weak: they often
+assume that person will turn around and do the same thing. perhaps,
+they by justify these learned wrong actions by assuming that's just
+how the world works.
+
+#### "Heroes Never Die, ..." - Mercy
+
+> I donno what a "rez" is, but I'll take two. With heals, please.
+
+![Mercy](/img/posts/2018-02-14-to-catch-a-butterfly-epistemic-miracles-of-serendipity/heroes-never-die.jpg)
+
+However, if people consider turning the other cheek to be a virtue,
+than even the common person can act as a kind of sociophysical
+"buffer" in the same way that buffer agents respond to changes in pH
+by absorbing acidity. When a significant amount of the population
+prefers to react in this way to wrongness, they can act to quell
+karmic turbulence. When instead, victims of theft turn around and
+reflect the consequences of stolen goods onto others by becoming
+thieves themselves, the consequences of the original sins then
+multiply. Those who turn to theft to account for the imbalance in
+their lives are choosing self over society by finding someone else
+upon which they can thrust their bad lot in life. When those who turn
+to fraud to correct an imbalance in their lives that originated from
+fraud, they are acting to reflect fraud throughout society. this is
+sustainable, if small groups of people decide to work together at the
+cost of detriment to society as a whole.
+
+However, reflecting negativity upon others is never the solution. You
+are only temporarily pushing the negativity in your personal life upon
+the lives of others at the risk of normalizing the malice that
+victimized you in the first place. In order to stop this, people have
+to autonomously decide upon themselves to absorb negativity. To do
+this effectively, we must be equipped with knowledge, wemust be
+encouraged to network across the social graph in a way that does NOT
+exclude people. It is never OK to exclude people systematically: that
+is often what leads the excluded individuals to believe it is
+justified to act in a wrong way, which is incredibly easy if you've
+never been acknowledged by society or felt appreciated.
+
+Utlimately, what do people want? what is it that individuals intend?
+and what is it that groups in society intend?  Generally, when people
+accept "this is how things are" -- and especially when this is used to
+justify wrongdoing -- they have ceded all the power they have to
+change the world. True change requires suffering and if people do not
+choose to suffer for something better, we will always stay the course
+decided for use by those in power.
 
 <a name="you-will-not-silence-us" />
 
