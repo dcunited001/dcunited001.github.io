@@ -8,13 +8,10 @@ author:
 excerpt: ""
 ---
 
--
-  -
+#### Astolfo From Fate/Grand Order
 
->
+![Astolfo on a Griffin](/img/posts/2018-02-14-to-catch-a-butterfly-epistemic-miracles-of-serendipity/fate-grand-order-astolfo.jpg)
 
-
-![School For The Blind](/img/posts/2018-02-14-to-catch-a-butterfly-epistemic-miracles-of-serendipity/school-for-the-blind.jpg)
 
 - [Stargate S3E22](http://stargate.wikia.com/wiki/SG-1_Season_3)
 
@@ -22,13 +19,15 @@ excerpt: ""
 
 #### &#920; [Life Is An Incomputable Sociophysical Game](#life-is-an-incomputable-sociophysical-game)
 
+### [Convolutions On Serendipitous Epistemic Configurations](#convolutions-on-serendipitous-epistemic-configurations)
+
 #### &#920; [Without Serendipity, Analytic Methods That Accelerate Learning Algorithms Are Depressingly Limited](#without-serendipity-analytic-methods-that-accelerate-learning-algorithms-are-depressingly-limited)
 
 #### &#920; [The Typological Speciation of Life Experience](#the-typological-speciation-of-life-experience)
 
 #### &#920; [What is Found Only by Those Who See Clearly and Never By Those Who Seek?](#what-is-found-only-by-those-who-see-clearly-and-never-by-those-who-seek)
 
-#### &#920; [Boltzmann's Distribution, A Generalized Heat Equation and Optimizaiton for Distributed Social Computing](#botlzmanns-distribution-a-generalized-heat-equation)
+#### &#920; [Boltzmann's Distribution, A Generalized Heat Equation and Optimizaiton for Distributed Social Computing](#boltzmanns-distribution-a-generalized-heat-equation)
 
 #### &#920; [Can You See What I See?](#can-you-see-what-i-see)
 
@@ -78,9 +77,9 @@ excerpt: ""
 
 #### &#920; [If You're Out There Generally Liberating People, Watch Your Ass](#if-youre-out-there-generally-liberating-people-watch-your-ass)
 
+#### &#920; [Is There Truly Such A Thing As Chaotic Evil?](#is-there-truly-such-a-thing-as-chaotic-evil)
 
 ...
-
 
 #### &#920; [To Turn The Other Cheek](#to-turn-the-other-cheek)
 
@@ -91,61 +90,164 @@ excerpt: ""
 #### &#920; [Would You Like Some Tea?](#would-you-like-some-tea)
 
 
-## [Oh, I'm A Hypocrite?](#oh-im-a-hypocrite)
-
-#### &#920; [What Was The Start Of All This](#what-was-the-start-of-all-this)
-
-#### &#920; [What Does It Mean To Be Memory-Holed?](#what-does-it-mean-to-be-memory-holed)
-
-
-#### &#920; [Thread-Killing: The NSA Effectively Memory-Holes Targeted Individuals By Dissappearing Content They Interact With](#thread-killing-the-nsa-effecively-memory-holes-targeted-individuals)
-
-#### &#920; [Redpill Everything That Moves](#my-life-is-a-rigged-game-redpill-everything-that-moves)
-
-#### &#920; [My Life Is A Rigged Game](#my-life-is-a-rigged-game)
-
-#### &#920; [Throwing Bambi To The Wolves By Forbidding Socioepistemic Information Acquisition](#throwing-bambi-to-the-wolves-by-forbidding-socioepistemic-information-aquisition)
-
-#### &#920; [Wherefore The Rollerrink Drama Went Thermonuclear](#wherefore-the-rollerrink-drama-went-thermonuclear)
-
-
-#### &#920; [Until Then, I'm Drowning In Manufactured Fruit of the Poisonous Tree](#drowning-in-manufactured-fruit-of-the-poisonous-tree)
-
-
 <a name="epistemic-miracles-of-serendipity-are-incomputable" />
 
 # [Epistemic Miracles of Serendipity Are Incomputable](#epistemic-miracles-of-serendipity-are-incomputable)
 
 After reading into this essay by David Kirsch and Paul Maglio -- [On
-Distinguishing Epistemic from Pragmatic Action](), my wheels started
+Distinguishing Epistemic from Pragmatic
+Action](https://doi.org/10.1207/s15516709cog1804_1), my wheels started
 turning. I originally approached the essay to distinguish the
 denotative differences between epistemy and epistemology, so that I
-could dilineate socioepistemic and socioepistemology in an attempt to
-describe how structures of knowledge are manipulated socially. In the
-essay, Kirsch and Maglio quickly outline two kinds of human behavior:
-that originted towards *pragmatic* attainment of a clear objective and
-that oriented towards resolution of *epistemic*
+could dilineate socioepistemic and socioepistemology to describe how
+structures of knowledge are manipulated socially. In the essay, Kirsch
+and Maglio quickly outline two kinds of human behavior: that oriented
+towards *pragmatic* attainment of a clear objective and that oriented
+towards resolution of *epistemic*
 uncertainty.[^distinguishing-pragmatic-and-epistemic-intent] The
-latter is a complicated definition for random mutations of state in a
-game or social situation to suss out some details or knowledge
-structure. There may not be any clear purpose to it, but by engaging
-in it, one gains information.
+latter is alludes to random mutations of state applied in a game or
+social situation to suss out the outlines of knowledge about the state
+of the game. At the surface, these are mutations of state and actions
+without clear purpose to them -- but by meandering through random
+state, one incidentally gains information that is otherwise difficult
+to compute.
 
 <a name="life-is-an-incomputable-sociophysical-game" />
 
 ### [Life Is An Incomputable Sociophysical Game](#life-is-an-incomputable-sociophysical-game)
 
-Life is a sociophysical game: without well-defined
-objectives; with both turn-based and simultaneous play; with many
-games threaded into other games; where players are not well-defined;
-with both schematic and inschematic structures. All that complexity
-makes life very complex, when approached from the perspectives of math
-and game theory. Most people operate best when conditioned with clear
-sets of rules: for habitual behaviors; for accumulated event-driven
-response behaviors; to define a system of values for phenomena to
-either seek or avert.
+Life is a sociophysical game: without well-defined objectives; with
+both turn-based and simultaneous play; with many games threaded into
+other games; where players are not well-defined; with both schematic
+and inschematic structures. When approached from the perspectives of
+math and game theory, this complexity renders intricate the games of
+life, forcing players to adapt with sophistication. Most people
+operate best when conditioned with clear sets of rules: for habitual
+behaviors; for accumulated event-driven response behaviors; to define
+a system of values for phenomena to either seek or avert. Unless the
+player is sophisticated, they often operate better without
+understanding the motivations behind those clear sets of rules. This
+allows them to perform better.
 
-<a name="without-serendipity-analytic-methods-that-accelerate-learning-algorithms-are-depressingly-limited" />
+People whose conditioning results in behavior patterns without agility
+cannot embrace adaptation, evolution and flexibility when needed.
+Modernism presented humanity with rapid crescendo of cultural change,
+Nietzsche's Beyond Good and Evil identified in values systems the
+*Danger of Dangers*: that rigidity and inflexibility of moral systems
+would itself foment systemic weakness in societies unable to cope with
+the rate of change. Among the problems of rigid rule-based dictated
+behaviors is in the propagation of those rigid behavioral
+systems. This indicates and creates a trans-generational problem of
+rigid moral systems wherein those systems dampen the collective
+performance of that society when unable to evolve to pace the demands
+of economic and political externalities. However, the problem of
+auto-propagation plagues especially those systems which evolve too
+rapidly to perpetuate themselves as well as those systems without
+spectral harmonization. Yet, a virus which mutates too quickly
+eventually homogenizes into multiple dominant strains.
+
+There are tools that allow for the identification of middle ground in
+systems: from rigid to flexible; from those nearly universal systems,
+distributed homogenously, to those singleton systems who are most
+unlike any other. The same math for identifying whether machine
+learning is proceeding efficiently presents itself naturally in the
+evolution of ideas, culture and genetics. It occurs incidentally, but
+can be leveraged as a tool.
+
+<a name="convolutions-on-serendipitous-epistemic-configurations" />
+
+### [Convolutions On Serendipitous Epistemic Configurations](#convolutions-on-serendipitous-epistemic-configurations)
+
+There is a 20th Century philosopher whose name escapes my ability to
+navigate Wikipedia. He studied epistemology for the purpose of
+evaluating knowledge systems, specifically to ideally stratify them
+into the curricula taught by educational systems. How does one
+epistemic structure differ from another when both contain the set of
+knowledge required for a particular math or science? Is one epistemic
+structure of knowledge more difficult to teach versus another? Does
+one structure map more closely to "truth" for some phenomenon? Can any
+epistemic structure be the minimal such structure necessary to know,
+explain or verify some phenomena?
+
+Particularly, this philosopher was concerned with structural variation
+in an individual's epistemic configuration and how those structures
+related to the morphological characteristics of that individuals
+personal development of knowledge. How much variation in epistemic
+configuration occurs between two groups of subjects who learn algebra
+before geometry or vice versa, if such a phenomena could be
+measured. Or how much variation results among auto-dydacts and
+university students? If academia can more efficiently disseminate
+knowledge, then why do self-taught students seem to have more
+intuitive access to the knowledge they've observed?
+
+#### The Brueghel Tower of Babel
+
+![The Brueghel Tower of Babel](/img/posts/2018-02-14-to-catch-a-butterfly-epistemic-miracles-of-serendipity/brueghel-tower-of-babel.jpg)
+
+Academia presents us with more universally distributed knowledge
+systems. The well-distributed schemata of these modular epistemic
+configurations lend themselves to creating consistent languages among
+intellectuals, which allows society to propagate ideas and communicate
+about them efficiently. It is often so prohibitively expensive to
+propagate changes to the languages or the underlying schemata that it
+never occurs. Everyone simply builds upon these crumbling Cathedrals
+of knowledge. However, when there are fundamental flaws inherent in
+those epistemic modules, it's difficult for anyone operating within or
+heavily invested in the these intellectual foundations to be aware of
+such problems. Schematically reevaluating these foundations is beside
+the point: there is more than one way to see any and every idea.
+
+However, when you have two distinct epistemic structures you can
+recursively convolute them, while iteratively reevaluating each one as
+you cyclicly convolute. The degree of progress to be made here stems
+primarily from how distinct the structures are, initially. When the
+two epistemic modules are more distinct, there is more to be gained by
+convoluting them. Yet, it is slow to learn individually and efficient
+to be taught in a school.
+
+#### Epistemic Structures Can Be Imagined As Graphs
+
+> This picture[^on-the-arithmetic-of-graphs] represents three
+> different products of two graphs. Each of the three products is a
+> different type of convolution, each of which can individually
+> contract or congeal into the result of a single iteration the cyclic
+> epistemic reflection process described above. The more similar the
+> input to this process, the less inference the convolution yields.
+
+![](/img/posts/2018-02-14-to-catch-a-butterfly-epistemic-miracles-of-serendipity/arithmetic-of-graphs.jpg)
+
+Moreover today, since all knowledge is so widely propagated by
+wikipedia and social media -- especially the most intellectually
+useful knowledge -- it is increasingly rare to develop distinctly
+structured epistemic configurations mapping to knowledge of any
+universal significance. The frequency of emergence of sufficiently
+distinct epistemic configurations emerging is paradoxically both
+heightened and dampened by various mechanisms.  Population growth
+implies there are more people to contain epistemic structures. Yet,
+the dynamics of propagation imply all humanity's knowledge begins to
+increasingly share common inheritance, which among other factors,
+dampens the speciation of epistemic schemata. Thereof, the utility of
+convolution is subsequently modulated.
+
+As for this unnamed philosopher, I can't recall whether his work
+extrapolated into the implications of the speciation of
+epistemological structures onto the convolution of those structures.
+Great advancements in knowledge systems often result from the
+reconciliation of someone's ad hoc unique knowledge system with that
+of more universal knowledge systems, like those inculcated in
+academia. As homogeneity is the mother of weakness, knowledge systems
+with mostly homogeneic schema prevent advancement because efforts to
+additively advance the knowledge system lack the ability to convolute
+diverging epistemic schema.
+
+#### This Unknown Philosopher Can Be Found On A Wikipedia Page, Served Only From Aladdin's Magic Cave
+
+> Dare ye venture forth for findth ye wondrous jewels?
+
+![Aladdin's Cave](/img/posts/2018-02-14-to-catch-a-butterfly-epistemic-miracles-of-serendipity/aladdins-cave.jpg)
+
+<a name="without-serendipity-analytic-methods-that-accelerate-learning-algorithms-are-depressingly-limited"
+/>
 
 ### [Without Serendipity, Analytic Methods That Accelerate Learning Algorithms Are Depressingly Limited](#without-serendipity-analytic-methods-that-accelerate-learning-algorithms-are-depressingly-limited)
 
@@ -167,7 +269,8 @@ within someone else's game.
 
 > "This Dhamma that I have attained is profound, hard to see and hard
 > to understand, peaceful and sublime, **unattainable by mere
-> reasoning**, subtle, to be experienced by the wise..."
+> reasoning**, subtle, to be experienced by the wise..." - The Words
+> of the Buddha
 
 Every person has their own experience in the world, resulting in a
 socially distributed typology of individuals' experiences. This means
@@ -192,36 +295,89 @@ effectively searched the entire space.
 When this *speciation of life experience types* is sufficiently
 varied, the likelihood that components of some individual's life
 experiences could extrapolate in an unexpected manner increases
-dramatically. This is because diversity of life experience has
-effectively covered the typological space of life experience types.
+dramatically. This is because diversity of life experience
+collectively *covers* the typological space of life experience
+types. Democracy always promotes an increase in the diversity of
+ideas, opening society's aperture on life. Nowhere is this best seen
+than in Greece -- a veritable *Hanging Gardens of Bronze Age ideas*,
+wherein early prototyping of social and governmental systems
+accelerated because of unique archipelogic features and it's proximity
+to the center of world trade.
 
-From Kirsch and Maglio's essay, the notions (...) tetris piece
-rotations to accelerate cognitive identification of options related to
-those pieces in the game's playing space related to social physics and
-life. Every person is unique, but sufficient familiarity with the
-typological space of life experiences -- and especially the nature of
-metatypology, which I believe to be like the Dao of the Dao -- and one
-understand the "shapes" of people, personalities and psychologies as
-they apply to life as a sociophysical game.
+In their essay, Kirsch and Maglio introduce the notions that tetris
+players rotate their pieces to accelerate cognitive identification of
+options related to those pieces in the game's playing space related to
+social physics and life. Every person is unique, but sufficient
+familiarity with the typological space of life experiences -- and
+especially the nature of metatypology, which I believe to be like the
+Dao of the Dao -- and one understand the "shapes" of people,
+personalities and psychologies as they apply to life as a
+sociophysical game.
 
-#### Astolfo From Fate/Grand Order
+#### Joan of Arc from Fate/Grand Order
 
-![Astolfo on a Griffin](/img/posts/2018-02-14-to-catch-a-butterfly-epistemic-miracles-of-serendipity/fate-grand-order-astolfo.jpg)
+> Joanne d'Arc was a commander in the French army, but secretly a
+> female, so she had the experience of life from both perspectives.
+> This terrified 15th century men, who couldn't comprehend how a
+> female psychology commanded forces better than any French man of
+> that era. So, they burned her at the stake, like Western people are
+> often wont to do when they encounter something they both fear and
+> hate out of *ignorance* ... and thus beget we the story of
+> [Bluebeard](https://en.wikipedia.org/wiki/Bluebeard), a menace borne
+> of tragedy who thirsted for a demon made manifest, so that he might
+> spite the Roman Catholic Church who burned his radiant heroine,
+> Joanne d'Arc.[^hundred-years-war]
 
-Further, these inferences extrapolations are easier to compute when
-assumptions can be made resulting in convergent information dynamics,
-which is exactly why it's both so critical and useful to be able to
-connect everything back to metatypology. High-dimensional, typological
-structures are what begin to emerge in the upper layers of
-neuralogical networks, though any given set of weights with equivalent
-accuracy can encode a similar analytical approximation of typological
-structures in a myriad of ways.[^typological-structures] There are
-algorithms that corportations prefer remain as trade secrets which are
-made manifest in the structures of neurons, so we can never surpass
-some threshold of neurological understanding without revealing
+![Astolfo on a Griffin](/img/posts/2018-02-14-to-catch-a-butterfly-epistemic-miracles-of-serendipity/fate-grand-order-joan-of-arc.jpg)
+
+What is the difference between the male experience and the female
+experience? Are there truly simply two experience types with
+insignificant differences between the male experience type and the
+female experience type? No, there are myriad experience types within
+each sex, but the experience of each sex fundamentally differs from
+that of the other. Most members of each sex have little experience
+with experiencing life from the other side. Similarly, what is it like
+to be rich and to be poor? What is it like to beg, borrow or steal?
+What is it like to suffer? What is it like to never know suffering?
+Who is stronger: the one who knows suffering or the one who never
+knows what it's like to suffer? Although there are some experience
+types we hope our children never live to see and others we'd never
+wish upon our worst enemy, isn't the person who has viscerally and
+vicariously experienced the greatest range of experience types who is
+most equipped to handle life?
+
+This partly underlies a paradox of aristocracy addressed in Plato's
+Republic: the aristocrats who don't or can't effectively pass the sum
+of their experience of their highborn children are doomed to lose
+power and frivolously waste their advantages gained from fortunate
+circumstance. It's impossible to underestimate the value of the
+knowledge of how to effectively encapsulate the wisdom of generations
+to be passed to subsequent generations, which speaks to the value of
+religion as such a vehicle for handing down the wisdom of
+ancestors. Those who say religion have no value are blind to the
+knowledge required to live life effectively. They simply don't
+understand how difficult it is to pass this knowledge from one
+generation to the next -- or they simply don't care.
+
+Further, epistemic extrapolations are easier to compute when
+assumptions can be made resulting in convergent information
+dynamics. This is exactly why it's both so critical and useful to be
+able to connect everything back to metatypology, which is like the
+metaphysical tiling that underlies all typologies. High-dimensional,
+typological structures are seen emerging in the middle and upper
+layers of neuralogical networks -- though any given set of weights
+with equivalent accuracy can encode a similar analytical approximation
+of typological structures in a myriad of varying points for
+perspective.[^typological-structures] Recursive reiteration on the
+perspective-points for many trainings of the same neural network allow
+nearly any neural network to increase its accuracy, etching away and
+dissolving the essence of any and every statistical space. There are
+algorithms that corporations prefer remain trade secrets which are
+made manifest in the structures of neurons; therefore, we can never
+surpass some threshold of neurological understanding without revealing
 them. Therefore, whether they should remain trade secret once revealed
-through neurological study is a debate not so different from that of
-patenting human and natural genes.
+through neurological data analysis is a debate not so different from
+that of patenting human and natural genes.
 
 #### Does That Taste Good? Is It Nutritious? How Would You Know?
 
@@ -259,6 +415,8 @@ since you can't know the structure of that typology, then even
 understanding whether your "distributed computations" are proceeding
 in an efficient direction is itself a mathematically hard problem.
 
+<a name="boltzmanns-distribution-a-generalized-heat-equation" />
+
 #### Nonlinear Dimensionality Reduction For Faster Kernel Methods In Machine Learning&nbsp;(ML)
 
 > Please Note: this
@@ -274,7 +432,7 @@ in an efficient direction is itself a mathematically hard problem.
 src="https://www.youtube.com/embed/ULFzxq0u_mI" frameborder="0"
 allow="autoplay; encrypted-media" allowfullscreen></iframe>
 
-### [Boltzmann's Distribution, A Generalized Heat Equation and Optimizaiton for Distributed Social Computing](#botlzmanns-distribution-a-generalized-heat-equation)
+### [Boltzmann's Distribution, A Generalized Heat Equation and Optimizaiton for Distributed Social Computing](#boltzmanns-distribution-a-generalized-heat-equation)
 
 These are the same problems that data scientists face when trying to
 train ML algorithms to solve problems which are certainly non-linear
@@ -379,22 +537,22 @@ a wide variety of activities. The dark corrolary of this: in/formal
 social institutions *who want to hold you back* will approach your
 life and constrain the typological expanse of your life experiences.
 
-If you don't understand what *typological constraint*, every parent
-that has ever successfully raised children knows what this means,
-though they likely wouldn't recognize the vocabulary. Every child's
-psychology starts off as tabula rasa and the typological variety of
-children's experiences must be constrained so that they do not
-experience things that they are not psychologically ready to
-handle. However, when an adolescent's typological extent of
+If you don't understand what is meant by **typological constraint** --
+every parent that has ever successfully raised children knows what
+this means, though they likely wouldn't recognize the
+vocabulary. Every child's psychology starts off as tabula rasa and the
+typological variety of children's experiences must be constrained so
+that they do not experience things that they are not psychologically
+ready to handle. However, when an adolescent's typological extent of
 experiences is constrained in the extreme, this is colloquially known
-as being sheltered. So, the concepts that I'm describing are not
+as being **sheltered**. So, the concepts that I'm describing are not
 incomprehensible: they are actually facile, trivial and necessary to
 being successful in life or family. What is difficult to follow is the
 language that I use to methodologically describe it, which is where my
 power of psychosocial inference and extrapolation are derived. This is
 what angers me when people do not listen. I can describe these same
-subjects a hundred different ways: BUT I NEED SOMEONE TO FUCKING
-LISTEN.
+subjects a hundred different ways: *but I need someone to fucking
+listen.*
 
 <a name="my-own-psychological-development-a-topped-tree-isolated-like-veal" />
 
@@ -411,30 +569,30 @@ deception into my life to destroy any chance I have a socialization.
 Every social connection I try to make is preemptively
 destroyed.
 
-Instead I feel like human veal, raised as a ignorant manakin as
-someone else's alchemical humonculus, intended to be thrown around
-like a doll, completely clueless to the nature of life, since any
-actual parenting was so conveniently left out of my life. My extended
-family doesn't understand because they only hear what my mom, my
-brother and my sister have to say, whose narratives dominate
+Instead I feel like human veal -- raised as an ignorant manakin,
+essentially as someone else's alchemical humonculus -- intended to be
+thrown around like a doll, completely clueless to the nature of life,
+since any actual parenting was so conveniently left out of my life. My
+extended family doesn't understand because they only hear what my mom,
+my brother and my sister have to say, whose narratives dominate
 everything. They seek my total exclusion from social life to cover up
 their own bullshit. My family acts like nothing has happened and
 always portrays a socially compartmentallized view of reality to me.
 
 > Just read [this account](github.com/dcunited001/bb8) of what I went
 > through when I was set up: two days before Christmas. No one in my
-> family would talk about it at all to me, giving me absolutely ZERO
-> SUPPORT. That's all you need to know: they would've been happier *AT
-> CHRISTMAS* lording it over me, if I had ended up in jail. I am still
-> incredibly furious that no one in my family has asked me anything
-> about what happened to me or offered me support in any way, in the
-> two months since I was TRAUMATIZED AGAIN by someone who stabbed me
-> in the back with potentially severe legal consequences and nothing
-> but *CONSTANT BLAME-SHIFTING FROM EVERYONE AROUND ME*. My experience
-> in life is so profoundly, horribly different from that of every
-> other person I know. I don't actually believe they want this; I
-> believe that someone is compelling them to do it. I can't cut
-> through all the duplicitious bullshit, disruption and social
+> family would talk about it at all to me, giving me absolutely **zero
+> support**. That's all you need to know: they would've been happier
+> **at Christmas** lording it over me, if I had ended up in jail. I am
+> still incredibly furious that no one in my family has asked me
+> anything about what happened to me or offered me support in any way,
+> in the two months since I was **traumatized again** by someone who
+> stabbed me in the back with potentially severe legal consequences
+> and nothing but **constant blame-shifting from everyone around me.**
+> My experience in life is so profoundly, horribly different from that
+> of every other person I know. I don't actually believe they want
+> this; I believe that someone is compelling them to do it. I can't
+> cut through all the duplicitious bullshit, disruption and social
 > isolation to prove it. **I've had to invent my own branch of
 > philsophy based on extrapolations from social physics to prove what
 > is happening to me, which is what these lilliputians don't
@@ -455,7 +613,7 @@ I am unable to leave my abusive circumstances at home and completely
 devoid of coping mechanisms when I leave, all while people are pushed
 out of my life while i'm at home, so that no one sees what i actually
 go through. They specifically refuse to respond to any argument I make
-in writing *FOR LEGAL REASONS* and to cover their own asses because
+in writing *for legal reasons*and to cover their own asses because
 they fear what people would think if I am to be believed. I'm not
 trying to point fingers, but I need people to accept how things are,
 *so that things can change*. Right now, that's not happening and my
@@ -481,8 +639,8 @@ nice, huh?
 
 ![Topped Tree](/img/posts/2018-02-14-to-catch-a-butterfly-epistemic-miracles-of-serendipity/topped-tree.jpg)
 
-> Please Note: a topped tree is also tragic metaphor for a lopsided,
-> pruned family tree.
+**Please Note:** a topped tree is also tragic metaphor for a lopsided,
+pruned family tree.
 
 <a name="his-psychology-looks-like-a-topped-tree" />
 
@@ -514,19 +672,23 @@ no one else is there for you except for those who victimized you.
 
 #### Oh Know: You Think You're Chocolate, When You're Chewing Gum
 
-> Well, I guess everyone you come into contact will spit you out, now.
-
 <iframe width="560" height="315"
 src="https://www.youtube.com/embed/uutT2pMEPqk" frameborder="0"
 allow="autoplay; encrypted-media" allowfullscreen></iframe>
 
+> Well, I guess everyone you come into contact will spit you out, now.
+
 The key to understanding what has happened in someone's life is to
 examine how they exhibited control over their circumstance: did they
-have social or finanical influence? Did they have that ability
-whatsoever? Who in their life had social and financial resources?
-Further, if you never have access to financial or social resources,
-you never learn out to play with your own chips, so to speak. *So you
-never learn how to manage money or become social in a healthy way.*
+have social or financial influence? Did they have any ability to alter
+their circumstances whatsoever? If anyone, who in their life had
+social and financial resources? Further, if you never have access to
+financial or social resources, you never learn out to play with your
+own chips, so to speak. *So you never learn how to manage money or
+become social in a healthy way.* You never become acquainted with any
+facets of life presupposing a confluence of social and financial
+resources; there are many facets of life that are completely
+off-limits to those who are pushed out of society and their career.
 
 <a name="the-tragedy-of-informational-baggage" />
 
@@ -872,7 +1034,7 @@ is always cloaked in deception. It is also possible for good to be
 strengthened by works built in darkness, since it's difficult for evil
 to dissect them and defuse them.
 
-#### Yes, This Is The Way: 道 =~ The Dharma or The Road
+#### Yes, This Is The Way: 道 =~ Road =~ Dharma
 
 > This is a 3D Graff of the Kanji for the Dharma. It is literally The
 > Way.
@@ -1009,7 +1171,8 @@ use what is presented to you so that it becomes unconscious. Life is
 always handing you what you need, though it's not always easy to see.
 
 > There may be dozens of people attached to you to swat the
-> serendipity right out of your hands, which is unfortunate.
+> serendipity right out of your hands, which is
+> unfortunate.[^some-people-are-assholes]
 
 What appears serendipitous and miraculous to you, might not be readily
 apparent to others. Knowing that we are all one, then also, what might
@@ -1251,12 +1414,14 @@ thought with what I have written, spoken or thought myself. It's not
 easy to make these insights, but the best advice I can give you for
 meditation is to be open-minded, patient, to realize that you are
 already capable and to understand that you have to try to not try. It
-is a feeling of surrender to the natural state of the mind and it
-cannot be accelerated by trying. If you want to make it anywhere with
-Buddhism, spiritualism, or religious practices, you must commit
-yourself to it. It's really not something you can pick up and put down
-when it is convenient for you, which is unfortunately what I've done
-all too often.
+is a feeling of surrender to the natural state of the mind; these are
+not cognitive patterns that can be forced in any way. If you want to
+make it anywhere with Buddhism, spiritualism, or religious practices,
+you must commit yourself to it. It's really not something you can pick
+up and put down when it is convenient for you, which is unfortunately
+what I've done all too often.
+
+![School For The Blind](/img/posts/2018-02-14-to-catch-a-butterfly-epistemic-miracles-of-serendipity/school-for-the-blind.jpg)
 
 #### On the Symbolic Parity of Literary Translations
 
@@ -1309,31 +1474,64 @@ together for profit and power.
 > simultaneously conspiring to destroy him to preempt the
 > self-propagating change to follow his life.
 
+<a name="is-there-truly-such-a-thing-as-chaotic-evil" />
 
-mara is it because all manipulative/evil people must be driven by
-  attachments to their desires/etc?
-  - if so, are those who progress through and embody these states of
-    mind necessarily pure? does this progression move towards an ideal
-    that is the opposite of the being Mara epitomizes?
-        - or is it instead a state purely devoid of the elements
-          required for suffering/evil?
+### [Is There Truly Such A Thing As Chaotic Evil?](#is-there-truly-such-a-thing-as-chaotic-evil)
+
+If there is, doesn't that problem mostly solve itself? Isn't chaotic
+evil simply insanity? What does evil serve if it doesn't serve the
+self? And insomuch, mustn't all manipulative and evil people be driven
+by their desires and attachments? Narcissism, sociopathy and
+psychopathy seem to be means to the end of feeding the self by
+likewise leveraging others' tendancy towards their own attachments.
+Therefore, insomuch, how does one most effectively use others? By
+encouraging their tendancy towards attachments. One can exacerbate
+such tendancies in people, specifically and in the population
+generally. It's easiest to lead astray those you don't know, those
+whose falls you'll never see and those whose detriment doesn't affect
+you or those close to you.
+
+Generally, the more people who are bound to the expedient and
+pragmatic attainment of their desires, the more people that are
+available for evil to use. When people instead generally choose not to
+want, to disdain desire and to shed attachments, then motivating them
+towards something they want or do not want requires more intent, more
+energy and more severe means.
+
+Mara manifests networks of people chained to one another through
+desire and attachment. These people will always arrange themselves
+hierarchically: this is partly due to the nature of power.
+Unfortunately, power and its accompanying sociohierarchical structures
+seem to be necessary to providing the most good to the most people;
+for now, there is simply no other way to effectively govern.  As
+population grows and, particularly population density, the social
+graph begins to stratify itself, insulating more powerful nodes as the
+less powerful are externalized to lower strata. Forgoing the social
+impacts of telecommunication, greater population density accompanies
+increasing emergence of stratification and specialization in the
+social graph. The least connected regions of this social graph are
+where *both the most and least powerful nodes reside*, but power
+*always* corresponds to a greater range of 1&deg; and 2&deg; span of
+the social network. i.e. powerful people may have less 1&deg;
+connections, but always have a greater social reach.  As one zooms out
+on the social graph, a gradient of power flow should clearly become
+visible, if a measure of social power can be measured.
 
 
-- of course, the inverse: the more people who are bound to the
-  expedient/pragmatic/etc attainment of their desires, (the more
-  people that are available for evil to use.)
-  - (this section needs to be re-outlined)
-  - these people will always arrange themselves hierarchically.
-    - forming a "tree-like" graph with more and less tightly connected
-      regions. the less connected regions are usually where the most
-      and least powerful nodes in the social graph reside (~ expander
-      graph)
-      - but power always corresponds to a greater range of 1st/2nd
-        degree connections across the social graph
-      - at larger scales of social graphs, power can be seen to flow
-        clearly towards some subgraphs of the social graph.
-  - again, these people will always begin to arrange themselves
-    hierarchically.
+There are many mechanisms of influencing nearby social nodes, whether
+they are nearby physically or logically. The best leaders exemplify
+magnanimity, which is the virtue of virtues -- however,
+
+- magnanimity requires:
+  - foresight, wisdom
+- it typically correlates with exemplification of all the other
+  virtues
+
+- TODO: link to facets of greatness article explaining why Magnanimity
+  is difficult and not available to everyone.
+
+powerful social nodes tend tightly couple others to them
+
     - in some cases, the same people to define sin will *encourage
       some sin* as a means of creating mechanisms of control across
       the graph.
@@ -1341,6 +1539,22 @@ mara is it because all manipulative/evil people must be driven by
       desires/needs/vices/sins to entice you with them.
 
 
+  - if so, are those who progress through and embody these states of
+    mind necessarily pure? does this progression move towards an ideal
+    that is the opposite of the being Mara epitomizes?
+    - or is it instead a state purely devoid of the elements
+      required for suffering/evil?
+      - what state? the state of progression towards liberation? or
+        the state of having liberated one self?
+
+
+####
+
+> No, that's not the burned rock. The Canadians did not burn that
+> rock. They did, however, decide to send that rock to the Phantom
+> Zone.
+
+![Curling Burned Rock](/img/posts/2018-02-14-to-catch-a-butterfly-epistemic-miracles-of-serendipity/curling-burned-rock.jpg)
 
 
   - understanding the nature of causality and the consequences of
@@ -1366,7 +1580,6 @@ mara is it because all manipulative/evil people must be driven by
         understanding the specifics and consequences of actions which
         I could not believe ever occured.
 
--
 - who had social/financial/informational resources to change things?
   what did these groups of people intend to create? what information
   did they propagate and why? what information did they seek to
@@ -1375,6 +1588,9 @@ mara is it because all manipulative/evil people must be driven by
   resources as possible. this is generally true throughout my entire
   life and whenever i begin to accumulate social/financial resources,
   it is immediately smacked out of my hands.
+
+
+
 
 <a name="to-turn-the-other-cheek" />
 
@@ -1531,12 +1747,14 @@ decided for use by those in power.
 
 ### ["You Will Not Silence Us"](#you-will-not-silence-us) - Occupy Wall Street
 
+- TODO: fix
+
 [As I've written
 before](/posts/2017-02-21-civil-disobedience-and-operational-strategy-in-information-warfare.html#natural-justice-and-the-human-condition),
 take away publicity and you neuter any possibility of civil
 disobedience being effective. If no one witnesses the wrongdoing you
-endure, it may never change. The movement of Martin Luther King
-Jr. coincided with the availability of visual mass-communication:
+endure, it may never change. The movement of (Martin Luther King
+Jr. coincided with the availability of visual mass-communication:)
 cameras and TV's everywhere meant that you could no longer segregate
 society and expect that no one would want society to change simply
 because they did not witness the mistreatment that African American's
@@ -1599,7 +1817,7 @@ other people? They simply won't learn how to build relationships, but
 if your goal is to prevent them from having relationships, that's
 perfect then, isn't it?
 
-Why wouldn't i find retreat in a buddhist monestary? Because whatever
+Why wouldn't I find retreat in a buddhist monestary? Because whatever
 follows me around the world will follow me wherever I go until I face
 it and destroy it. There is no hiding. There is no running. There is
 only standing up to this and pulling it out by the root. This dark
@@ -1632,541 +1850,6 @@ always tried to minimize the scope of this thing, but at no time in
 the past three years were my words ever heard for what they truly
 were.
 
-<a name="oh-im-a-hypocrite" />
-
-# [Oh, I'm A Hypocrite?](#oh-im-a-hypocrite)
-
-In my life, people have a way with words. They get to say that "David
-Conner's never done anything else for anyone but himself." Why?
-Because it's true: in almost my entire adult life, I have never
-possessed sufficient social or financial resources to give back to
-anyone. I possess merely information and what good does information do
-for anyone else when no one's allowed to acknowledge your identity?
-
-Would they ever care about helping me attain some position, where free
-from being under someone else's thumb, so that I can accumulate
-sociophysical resources to contribute to someone else's life? It
-depends on who you're asking, but yes, almost everyone would say "Yes,
-we'd love to help David Conner." However, do they ever follow through?
-My family refuses to read anything I ever write -- ALWAYS claiming
-that they don't understand it, while at the same time, NEVER being
-willing to listen to me explain it to them in less complicated
-language. I can tell they don't read anything I write because their
-**impetulant, facile arguments** to justify depriving me of all
-opportunity *NEVER reference any ideas I project*. Literally ZERO
-information that comes out of my mouth finds itself as
-*[material](https://en.wikipedia.org/wiki/Materiality_(law))* to any
-propositions in their arguments. It's because they are objectively bad
-listeners when it comes to listening to David Conner. Why? Because
-just like with everyone else, my existence and all informational
-associated to my identity is inconvenient to their understanding of
-reality. The lies people around me tell themselves to make themselves
-feel better about my psychological abuse fall to pieces if they
-internalize any information in my arguments.
-
-<a name="what-was-the-start-of-all-this" />
-
-### [What Was The Start Of All This](#what-was-the-start-of-all-this)
-
-I don't actually care about who's fault it is. I don't want to blame
-my family, but when I write, I'm writing for two reasons. First, no
-one listens to me. And secondly, it is inefficient for me to talk
-about my problems and my passions, but when I write, my words have the
-potential to multiply with zero effort required on my part. This yet
-another reason why the people around me who seek to control me reacted
-so negatively to my initial writing. It creates more information they
-must clean up. However, these information-control-freaks -- *not my
-family* -- never really expected me to recover from anything they've
-done.
-
-I don't expect my family to be interested in everything I write, but I
-have been writing for three years about all the problems in my life,
-specifically so that when I am shoved into a mental institution, I
-will have a library of content that refutes all the fantastic bullshit
-that has been said about me -- which does not primarily originate from
-my family. Instead, it originates from people who seek to use my
-family as vectors to control me by minimizing my social boundary --
-the set of people I interact with regularly.
-
-What's worse than never having done anything for anyone else? *Never
-being permitted to accumulate good karma because you've been so
-totally deprived of social interaction and financial resources.* So,
-when people get to say "I've never done anything for anyone else" it's
-because they don't let me out of my cage very often. And if the people
-in my social boundary are more socially connected than I am, it means
-that the negative information that they project predominantly
-determines how everyone in society views me. I am literally in a
-fucking social cage; I am sick and tired of being abused for my entire
-adult life, when I want nothing other than to help people.
-
-<a name="what-does-it-mean-to-be-memory-holed" />
-
-### [What Does It Mean To Be Memory-Holed?](#what-does-it-mean-to-be-memory-holed)
-
-While the [memory hole](https://en.wikipedia.org/wiki/Memory_hole) is
-originally from 1984, it is not THE memory hole that I'm referring
-to. The reference from 1984 is simply a metaphor for a more sinister
-tactic of information control. It's incredibly effective for handling
-waste that unfortunately came into contact with "classified"
-information.
-
-Being memory-holed essentially means that whenever someone comes into
-contact with a targeted individual, they have bluepills shoved down
-their throat until they either hate the target or forget that person
-ever existed. Ideally, it ensures that no one will encounter you to
-form memories that need to be scrubbed out later on. Whether it was
-intentional at first is unclear, but I've been memory holed happened
-for over 10 years now. i've experience a decade of this. It's called
-being "Memory Holed" as in "Hold the memories, please." Basically, you
-are socially isolated, so people accumulate minimal memories with you,
-socially. This means that your adversaries have pre-emptively erased
-you.
-
-People develop emotional connections with each other gradually as they
-spend time together. However, people are fickle and the strength of
-the emotional connections we form fades quickly, as though friendships
-are plants in a garden that need to be water with social
-interaction. If you suffer in poverty, isolation or from complete
-ignorance of social interactions, then you may be at a disadvantage
-throughout life, before being intentionally memory-holed. For example,
-you have Asperger's, you're broke because you're psychologically
-tortured at work and now you have an attachment disorder to top it all
-off.
-
-The memory hole is only a tactic against valid targets, who must be
-socially, financially and psychologically vulnerable. It won't work
-against everyone, but where it does, it's incredibly effective. This
-is why it's infuriating for me personally: it means that people
-assessed my psychology and worked to cull me out of society, undermine
-my career and seeded a bunch of personality disorders into my
-psychology.
-
-#### Classifying Memories of Guantanamo Detainees Serves to Blame The Victims and Protect the Perpetrators
-
-> SO, YES, THERE IS ABSOLUTELY A FACTUAL BASIS FOR THE NOTION OF
-> *CLASSIFIED MEMORIES* AS ABSURD AND ORWELLIAN AS THAT SOUNDS.
-
-![Detainees Memories Are Classified](/img/posts/2018-02-14-to-catch-a-butterfly-epistemic-miracles-of-serendipity/classified-memories.jpg)
-
-By the way, once you are sufficiently memory holed, you're already as
-good as dead, those cigar-smoking men just haven't killed you
-yet. Until they do, they seek to prevent other people from forming
-memories about you, leveraging mob-style tactics to threaten everyone
-close to you to handle your life details like it's literally
-classified information. This is so that, after they act, they have
-maximal flexibility with regard to telling the story about *your*
-life. While they manage to restrict you socially, the volume of
-memories created in the minds of other people created is minimized, so
-there's a much lower chance of blowback occuring after they act
-against you. This isn't true of everyone memory holed, but it takes a
-lot of thumbscrews to get people to handle a loved one in this way, so
-after they've committed to engaging a target in this way for a
-sufficent amount of time, they do not back off.
-
-If you have any doubts as to what the memory hole is, check out [this
-youtube video](https://www.youtube.com/watch?v=DSSY_i136tw)
-instructing children to ignore the talking turkey at
-Thanksgiving. It's a video from our friends at the [Memory Hole
-channel](https://www.youtube.com/channel/UCNBGgrsyZCmcsc18h6VJh_w) on
-YouTube, chock full of videos which are like metaphorical instruction
-manuals for psychological torture techniques. Fun for you and the
-whole family ... except for that one kid under the table, but! What's
-that?! I think I heard a turkey talking. Turkey's don't talk, do they?
-
-<a name="thread-killing-the-nsa-effecively-memory-holes-targeted-individuals" />
-
-### [Thread-Killing: The NSA Effectively Memory-Holes Targeted Individuals By Dissappearing Content They Interact With](#thread-killing-the-nsa-effecively-memory-holes-targeted-individuals)
-
-This you can prove with sophisticated data analytics. The set of
-targeted individuals can be identified automatically by combing
-through social media data to identify people who are *almost always
-the last commenters* on a Facebook thread. This acts as a statistical
-signature *created by your own attempts to censor, isolate and target
-political dissidents.* Thanks, Obama, and I mean it!
-
-Step two: cross reference this list of potential targets with data
-mined from LinkedIn that describes people whose social neighborhoods
-share a coincidentally large number of targets. This is your list of
-potential war criminals to investigate for mob-style tactics and
-psychological torture in America. This is easier than you'd
-think. Paradoxically, the logisitical coordination of intelligence
-*intending to hide activity* ends up creating a signature that makes
-it easier to identify in data. Why? Because intelligence handlers and
-assets will be coordinated to double up their overlapping sets of
-targets and reduce social visibility of their actions. This means that
-the socially isolated targets will appear disproportionately
-represented in the social neighborhoods of the
-perpetrators. Furthermore, the most guilty perpetrators will be most
-connected to the agencies driving this abuse: they will be connected
-to each other's social neighborhoods and their LinkedIn data will
-demonstrate previous work in intelligence or fields close to
-intelligence.
-
-This is no easy task, but there should be enough leads to identify
-cases for further processing. These can be ironically identified
-mostly from the puerile attempt to censor political dissidents, which
-itself demonstrates cognizance.
-
-How can a political dissident's interactions be automagically
-deranked? DevOps is the most important organizational unit of a
-corporation for the NSA to control. It's the only unit that is really
-worth the potential blowback that would occur for the NSA to
-insert/manipulate employees of a corporation. Compromise DevOps and
-you might as well control everything that technology company does
-online. Why? You can mess with the containerization of services
-deployed to the technology companies cloud infrastructure. Combined
-with the NSA's leverage over telecom's Route/Switch infrastructure --
-particularly with regard to [BGP
-exploits](https://www.cvedetails.com/cve/CVE-2017-3867/) to surgically
-*and silently* reroute the traffic of dissidents -- you can
-essentially launch application servers and stream-processing servers
-to handle requests involving data a dissident touched in very specific
-ways.
-
-You can rerank entire shards of data that any dissident touches. That
-comment thread? It's newsfeed rank is suddenly zero. This means that
-*POOF!* the facebook thread your dissident just interacted with is no
-longer seen by anyone that matters on Facebook. Or you can promote
-shards of content to be marketed towards people who berate and
-humiliate that person. Or you can screw with the matching algorithms
-in online gaming to ensure that political dissidents are routed to
-matches with people who audit the audio stream for references to
-classified information -- or subject that person to simple hypnotic
-techniques via audio.
-
-There is a set of individuals in America whose days are numbered. They
-are considered the radioactive waste products of intelligence
-operations gone wrong. This set of individuals is completely
-identifyable using publically accessible data, which is impossible to
-cleanse to statistical satisfaction. Therefore, people in control of
-the informational security [must be planning to purge it all at
-once](http://localhost:4000/posts/2018-01-30-caelis-ruissent-avoiding-the-engineered-collapse.html):
-they're not ignorant of their operational security
-vulnerabilities. **This is but one of twenty different factors
-indicating convergence towards a total system reset.**
-
-It's this awareness OpSec weaknesses that drives American in command
-of informational security to push for social engineering to avoid ever
-creating these digitized data footprince in the first place. If they
-can drive fear into the hearts of young Americans, they can dissuade
-us from ever creating the digital artifacts that prove anything ever
-happened. However, nothing that can be done now is good enough to
-eliminate the footprint that already exists.
-
-Facebook's production operations team has apparently hired many people
-who used to work with the Navy in cyber-operations: they have the
-clearances to work with NSA, though this is circumstantial. The point
-is that, if you wanted to have access to Facebook's devops, you would
-want to control the people who work in Facebook DevOps.
-
-<a name="redpill-everything-that-moves" />
-
-### [Redpill Everything That Moves](#my-life-is-a-rigged-game-redpill-everything-that-moves)
-
-How is it paying off to have assassinated my career? If you hadn't
-done that, I'd have been so fucking busy with my head down, I'd never
-have become a philosopher, nor would I ever have the time to look at
-so much information online. All your operations to control me have
-backfired. All these people placed on me for security have been
-incompetent at best, as they're incredibly susceptible to exactly the
-kind of disinformation that's blinding this entire nation. At worst,
-they've lied to you for job security in national security.
-
-![Neo Redpill](/img/posts/2018-02-14-to-catch-a-butterfly-epistemic-miracles-of-serendipity/neo-redpill.jpg)
-
-When I say I'm trying to stop a 21st century Holocaust, I'm not
-kidding. This is what happens in any state that accumulates and marks
-enough dissidents it considers to be threats.  The characteristics of
-who was generally targeted by these operations will indicate who was
-driving them. it's likely coming from all sides, honestly. However, it
-pales in comparison to the human rights abuses in China and Russia,
-though it certainly doesn't look good. Worst of all, the American
-governtment couldn't let a single one of these cases be seen for what
-it is. Why? *BECAUSE THAT TYPE OF ABUSE CAN'T BE WIDELY KNOWN TO
-HAPPEN HERE IN AMERICA.* Typical.
-
-Freedom of religion utlimately represents and individuals freedom over
-their own beliefs. If you lose freedom of religion, you lose freedom
-of belief. If individuals in America lose freedom to decide what they
-do and do not believe, they have effectively lost the freedom of
-religion.
-
-<a name="my-life-is-a-rigged-game" />
-
-### [My Life Is A Rigged Game](#my-life-is-a-rigged-game)
-
-You get to never acknowledge anything positive about me, whether I'm
-your friend, your family or a stranger you've been told to hate for as
-long as you can remember, if that -- which is the intent of
-memory-holing someone: to prevent an individuals in society from
-thinking about that person or forming memories about them
-whatsoever. If you deviate from the official story -- that I'm nothing
-other than a drug-seeking, manipulative person completely devoid of
-all value -- then any interactions with me will bring down upon you
-the wrath of the intelligence community. You can only interact with me
-if you *INTEND* negative consequences OR generally appear to have
-strengthened the sources of my social isolation. It sounds crazy
-doesn't it?
-
-This is what it's like to be David Conner in America. Of course, the
-people who have saught to socially limit me also assumed they could
-create a bunch of negative consequences and then USE me as both a
-scapegoat for a shitstorm they created as well as an example of what
-happens to someone who leaks -- all while never telling me what I
-could and could not talk about, ensuring that the consequences of my
-ignorant actions would create problems of significant exposure.
-
-#### This Is What One Billion Dollars Looks Like ... (Not)
-
-> Here it is: the napkin. Apparently, they kept this thing around
-> ... a probably put it in a glass case like Lenin.
-
-![Southwest Airlines](/img/posts/2018-02-14-to-catch-a-butterfly-epistemic-miracles-of-serendipity/the-napkin.jpg)
-
-#### J/K folks, that's not actually the napkin...
-
-Everyone close to me and even people I've never met already know my
-fate: I'm essentially not allowed to ever achieve anything in
-America. I live inside a rigged game. No one was allowed to tell me
-this. Why? During 2013, 2014 and 2015, I was easily controlled *and
-predictable*. If I learned that my life is a rigged game, I would
-become unpredictable. I'd respond in exactly they way these people
-were afraid I would respond: I'd reorient my energy to accomplish
-something different. While I was working on startup ideas, I was
-essentially on a hamster wheel. I was under surveillance: as soon as I
-started moving closer to my goals, people manipulated me and
-situations around me to disrupt my
-[velocity](https://en.wikipedia.org/wiki/Velocity_(software_development))
-and
-[traction](https://www.amazon.com/What-Every-Angel-Investor-Wants/dp/0071800719). Since
-I was working on esoteric software, no one would understand anything I
-did and all the source code I left behind would be worthless. With the
-assistance of my handy-dandy terminal cynicism, I finally figured this
-out. How did I respond?
-
-> No one's ever going to cofound a business with me? I guess I don't
-> care about several dozen business ideas or several thousand
-> intellectually interesting ideas that I have. I'm going to tweet
-> about everything and write about it as fast as possible. I don't
-> care if I ever make a dime from any of it because no one would ever
-> let me have that dime anyways.
->
-> No, I get it. Everything in my life is a rigged game. nothing i do
-> matters. any mild level of success i enjoy will be mitigated as soon
-> as i begin to taste progress. Since anyone in the world can
-> understand english, if I blog instead of writing javascript,
-> everything I leave behind matters. If nothing else, when people read
-> my writing, they can't possibly disregard my genius. Boy, was I
-> wrong.
-
-Yeh, call me paranoid. I don't care; I never do anything with a
-singular purpose or singular objective. I'm always aiming for more
-than one bird with every stone I throw. it sounds crazy, but I
-thought:
-
-> If I write, it will force me to structure my ideas. This improves my
-> communication and language skills. I dont need a business model. I
-> can write about anything I'm interested in. When people read what I
-> write, it will be impossible for them to ignore me. It will seem
-> like a waste of time while I'm doing it, but the more I write, the
-> more I can demonstrate how I have the equivalent of twenty bachelor
-> degrees. When my family and their friends read the content I'm
-> writing, there's no possible way they could continue to want to
-> deprive me of every possible opportunity. They'd be fools not to
-> invest their energy in me.
-
-All of that has happened: except people have never changed the way
-they look at me, as though I'm some worthless piece of shit stuck to
-their shoe. It's because I live in a tightly managed, rigged
-game. People seem to be compelled to treat me this way. Why? I don't
-really care and I could be wrong about a lot of it. The "why" only
-matters to me insofar as I can change my circumstances.
-
-
-
-
-- informational baggage limits flexibility
-- connect to rant on academic (et alias) gatekeepers
-  - informational baggage making it "too inconvenient" for someone to
-    be an investment
-    - informational baggage: unrepentent drug use, etc.
-    - people tend to think investing their energy in me would be a
-      waste of their time because they assume that it's too easy for
-      other people with authority -- academic, political and otherwise
-      -- to tear me down.
-  - however terrible and inconvenient details of my life story are,
-    when i finally break free of these artificial sociophysical
-    restraints placed on me by the weak and petty, it will be because
-    i tore through everything used to hold me back with force of will
-    and strength of mind.
-    - at that point, everything that had been done to hold me back
-      will fly back in the face of those people who sought to
-      (mitigate me) by restraining me, gaslighting me and denying me
-      all opportunities.
-    - for example, people have sought to limit my exposure to
-      academics and people with careers in technology. however,
-      despite their vain attempts to prevent my ideas from escaping
-      and to avoid exposing me to academic knowledge, in the end,
-      these people merely serve to prove that my ideas are original,
-      since no one except wikipedia and lonely nights could have
-      helped me develop them.
-      - therefore, their attempts to isolate me will backfire as this
-        is just one aspect of my life experience or lack thereof which
-        I will gladly use when the time is right.
-
-
-
-<a name="throwing-bambi-to-the-wolves-by-forbidding-socioepistemic-information-aquisition" />
-
-### [Throwing Bambi To The Wolves By Forbidding Socioepistemic Information Acquisition](#throwing-bambi-to-the-wolves-by-forbidding-socioepistemic-information-aquisition)
-
-*Whenever I engage in behaviors to discover the outlines of epistemic
-structures -- viz. to socially inquire about the missing pieces to
-explain why my life is a broken mess -- I am derided as a broken
-schizophrenic mess that's clearly paranoid and needs to be stuck in a
-mental institution forever*. Without skills for seeking and acquiring
-socially relevant information, people are socially paralyzed. To be
-sure, that's a fantastic vulnerability to breed if your objective is
-to generally dominate people -- and if you ever want to make them feel
-helpless, you can belittle them by calling them a lost puppy or a
-one-trick pony -- while never giving them a clue, of course. Why?
-Because America -- that's apparently why.
-
-I was never equipped with these skill during my adolescence, but
-afterwards everyone saught to ostracize me by meticulously
-constricting my social experience, running the rumor mill at full
-steam, fallaciously labelling me with mental illness, and figuring out
-how to get my closest friends/family to do all the dirty work,
-ensuring those relationships would be ruined. The most infuriating
-part of all of this is knowing that **these
-[dementors](http://harrypotter.wikia.com/wiki/Dementor%27s_Kiss)
-depend on my social vulnerability to abuse me** because otherwise
-they'd never be capable of doing this to someone without getting
-caught doing it. Moreover, other people apparently bred social
-vulnerability into my psychology TO USE ME, who now want run damage
-control by getting society to basically toss my life in a ditch, I
-would greatly prefer over being stuck in a mental institution like
-some unfortunately suppressed delusional Nietzsche.
-
-<a name="wherefore-the-rollerrink-drama-went-thermonuclear" />
-
-### [Wherefore The Rollerrink Drama Went Thermonuclear](#wherefore-the-rollerrink-drama-went-thermonuclear)
-
-#### Step One: Label Someone With Mental Illness, Particularly Paranoia
-
-#### Step Two: Obsequiously Encourage Others to Virally Label The Target As Paranoid
-
-#### Step Three: Profit! That Person Can NEVER Question Your Motives Or The Motives Of Anyone In Life Because That Critical Behavior Is Forbidden To People Labelled Schizo or Paranoid.
-
-Their life will be *ruined*. They'll never be able to ascertain the
-epistemic beliefs and information about others -- out of fear of
-strengthening this label of mental illness. Making decisions about the
-beliefs and thoughts of others -- the epistemic information-structures
-in people's minds -- is critical to functioning as a person and
-maturing as an adult. Unless the target has already developed
-emotionally, they will likely blind themselves to all of the
-information needed to develop healthy, mature adult behaviors. This is
-all precisely how I responded after [Michael
-Lehrke](https://www.pacermonitor.com/public/case/10004266/RC_Sports,_Inc_v_Lehrke)
-labeled me as paranoid *in a geographically significant way in 2004*.
-
-What Michael did to me then would have seemed insignificant to anyone
-and it's certainly not anything I'm losing sleep over in 2018 ... but
-that's what happened. He's not the only one who sought to label me
-this way: simply the first and no single person can exert that much
-influence on your life. A single person cannot exert that much
-influence. However, the truth is that people like Michael Lerkhe, who
-irresponsibly worshipped the book 48 Laws of Power, have a long
-history of people they've deceived and manipulated. The trick is
-gaining enough influence in a social environment where you monopolize
-your position as a gatekeeper to success. Everyone will quickly forget
-everything you did to them and your enemies because you're the primary
-power broker: you can empower anyone you want *and fulfill the dreams
-of any up-and-coming jamskater. One little gotcha about power: IF YOU
-USE IT, DON'T LOSE IT.
-
-> Sorry, Mike, I still don't believe you were actually that stupid.
-> It's ok. I forgive you.
-
-My entire strategy in life since 2010 has been to abstract and
-generalize the process I applied to combinatorially enumerate all the
-jamskating moves, so I could apply it to something that matters:
-bioinformatics, neurology, physics, philosophy, etc -- preferably
-something that would give me money or power, so I could prove myself
-in a domain, where my accomplishments couldn't be overwritten with
-petty drama and where the people from my past could not affect
-me. Once I achieved that understanding of the human creative process
-and applied it to something -- perhaps earning a Nobel Prize along the
-way -- then people would look back at jamskating and realize what had
-happened to me for what it was.
-
-#### Liminal, A Video From the Skateboarder-Philosopher Rodney Mullen.
-
-> Watch the end of Bones Brigade. That guy knows the Daoest Dao of the
-> Dao. IMO, it's because he became methodically creative in a fresh
-> domain that no one knew how to map, index or quantify whatsoever.
-> When you intuitionistically understand how to methodically explore
-> something that no one knows or no one has taught you, you develop an
-> awareness that there is always a better way to know what you can
-> know.
-
-<iframe width="560" height="315"
-src="https://www.youtube.com/embed/-3tDvMG87Ro" frameborder="0"
-allow="autoplay; encrypted-media" allowfullscreen></iframe>
-
-<a name="because-you-methodically-tormented-an-altruistic-person-who-loves-humanity" />
-
-### [Because You Methodically Tormented An Altruistic Person Who Loves Humanity](#because-you-methodically-tormented-an-altruistic-person-who-loves-humanity)
-
-I eventually gave up on startups and began writing. I never got a more
-amusing reaction from all the people who try to control me in my life
--- **I've been addicted to that ever since**. I don't give a fuck
-about your money, your fame, or any of your petty measures of
-success. None of that matters to me because it's apparently
-*verbotten* to let me have any success whatsoever.
-
-For me, life is a rigged game and I'm laughing because, to me, people
-are the game; *humanity is the game*. If I ever achieve moderate
-success, it's because I've so sufficiently dominated all of you. It's
-because I've done something so great that all your petty eichmanns
-have to go back through my life and account for everything they did to
-me along the way. At this point, I'd practically have to cure cancer:
-this accomplishment must be so great, it outweighs all the falsehoods
-and defamation.
-
-I do not care about what humanity has to say about me because they'd
-never say anything that reflects the truth of my identity anyways:
-*IT'S A RIGGED GAME.* Instead, what people say and think is only
-useful to me insofar as it indicates whether or not I've become great
-enough to unbind.
-
-This is hardly a strategy I recommend, but it's just about all I've
-got: how's it working out for you? What did humanity do to raw,
-unpotentiated greatness? You destroyed it because you fear what you do
-not understand. And when I achieve such a great accomplishment --
-whether it's possible to surpass your petty, judgemental bullshit or
-hopeless and impossible -- it will be so great, but also good *BECAUSE
-YOU METHODICALLY TORMENTED AN* **ALTRUISTIC** *PERSON WHO LOVES
-HUMANITY*. And you'll never do it to someone like me again.
-
-<a name="drowning-in-manufactured-fruit-of-the-poisonous-tree" />
-
-#### Manufactured [fruit of the poisonous tree](https://www.commdiginews.com/politics-2/memo-reveals-thin-gruel-creates-messy-stew-trump-russia-dossier-98608/)
-
-> And yet all they ever wanted Socrates to do was to shut up... But
-> instead, his death lead him to develop the most notoriety amoung any
-> intellectual in the West without any such writing of his own.
-
-![Fruit of the Poisonous Tree](/img/posts/2018-02-14-to-catch-a-butterfly-epistemic-miracles-of-serendipity/hemlock.jpg)
-
-### [Until Then, I'm Drowning In Manufactured Fruit of the Poisonous Tree](#drowning-in-manufactured-fruit-of-the-poisonous-tree)
-
-With a system commited to nothing else but destroying me in anything
-it does, yet apparently can't tolerate creating a Socrates or martyr
-in the process. **"Once you find an anonymous martyr, then there are
-no more."**
-
-
 [^majjhima-nikaya-26-19]: From "The Noble Search" ([Ariyapariyesanā
     Sutta](www.wisdompubs.org/book/middle-length-discourses-buddha/selections/middle-length-discourses-26-ariyapariyesana-sutta),
     Majjhima Nikaya 26:19)
@@ -2177,6 +1860,10 @@ no more."**
     Maglio, P. (1994), [On Distinguishing Epistemic from Pragmatic
     Action](https://doi.org/10.1207/s15516709cog1804_1). Cognitive Science, 18:
     513–549. doi:[10.1207/s15516709cog1804_1](https://doi.org/10.1207/s15516709cog1804_1)
+
+[^on-the-arithmetic-of-graphs]: [On the arithmetic of
+    graphs](https://arxiv.org/abs/1706.05767), Oliver Knill
+    arXiv:1706.05767 [math.CO] (2017),
 
 [^no-love-from-academia]: Virginia Tech, however, wouldn't ever
     acknoledge me precisely because of the argument I've made in this
@@ -2205,3 +1892,19 @@ no more."**
     evaporating dis-parity, after finishing the Andrew Ng's Machine
     Learning course. However, I've never been given a real chance to
     integrate into the workforce in America.
+
+[^hundred-years-war]: Since I don't know enough about Joanne d'Arc or
+    Gilles de Rais, historians of the Hundred Years War and of French
+    History thereafter can probably contest this. That won't happen
+    because no one in America acts like it's worth the time to even
+    correct anything I say. People don't want to give me the credit of
+    being worth any attention whatsoever. That's what it's like being
+    in this plane of nullified existance. How's that working out for
+    you?
+
+[^some-people-are-assholes]: They may become attached autonomously
+    (i.e. without interaction/direction from someone else) or they may
+    attach themselves un/intentionally. They may interact with your
+    life in/directly. Regardless, how they choose to see you and what
+    change they intend to create by interacting with you will have a
+    large effect.

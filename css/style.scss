@@ -84,6 +84,12 @@ article iframe {
  --------------------------------------------------
  */
 
+blockquote {
+    padding: 5px 10px;
+    margin: 0 0 5px;
+    font-size: 15px;
+    line-height: 18px;
+}
 
 .btn-group-label {
     pointer-events: none;
@@ -96,7 +102,7 @@ article iframe {
 body {
     @extend %noto;
     font-size: 18px;
-    line-height: 30px;
+    line-height: 23px;
     padding-top: 51px;
     -webkit-font-smoothing: antialiased;
 }
