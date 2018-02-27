@@ -12,7 +12,8 @@ excerpt: ""
   so the language is clear henceforth.
   - (move this distinction to the other article)
 
-
+- seize the power of ideas, thought and knowledge, to return
+  (providence to the people)
 
 ### [The Triumvarate of Sociphysical Resources: Social, Financial and Informational](#the-triumvarate-of-sociophysical-resources-social-financial-and-informational)
 

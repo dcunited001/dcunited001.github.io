@@ -8,18 +8,18 @@ author:
 excerpt: ""
 ---
 
-#### Astolfo From Fate/Grand Order
-
-![Astolfo on a Griffin](/img/posts/2018-02-14-to-catch-a-butterfly-epistemic-miracles-of-serendipity/fate-grand-order-astolfo.jpg)
-
-
-- [Stargate S3E22](http://stargate.wikia.com/wiki/SG-1_Season_3)
+> This article is dedicated to [Stargate
+> S3E22](http://stargate.wikia.com/wiki/SG-1_Season_3), the episode
+> where even the simplest minds managed to identify solutions beyond
+> the comprehension of the most advanced beings in the universe. Yes,
+> technically, it's shotgun philosophy, but it's really about
+> intricacy, nuance, precision and most of all serendipity.
 
 ## [Epistemic Miracles of Serendipity Are Incomputable](#epistemic-miracles-of-serendipity-are-incomputable)
 
 #### &#920; [Life Is An Incomputable Sociophysical Game](#life-is-an-incomputable-sociophysical-game)
 
-### [Convolutions On Serendipitous Epistemic Configurations](#convolutions-on-serendipitous-epistemic-configurations)
+#### &#920; [Convolutions On Serendipitous Epistemic Configurations](#convolutions-on-serendipitous-epistemic-configurations)
 
 #### &#920; [Without Serendipity, Analytic Methods That Accelerate Learning Algorithms Are Depressingly Limited](#without-serendipity-analytic-methods-that-accelerate-learning-algorithms-are-depressingly-limited)
 
@@ -132,19 +132,21 @@ allows them to perform better.
 People whose conditioning results in behavior patterns without agility
 cannot embrace adaptation, evolution and flexibility when needed.
 Modernism presented humanity with rapid crescendo of cultural change,
-Nietzsche's Beyond Good and Evil identified in values systems the
-*Danger of Dangers*: that rigidity and inflexibility of moral systems
-would itself foment systemic weakness in societies unable to cope with
-the rate of change. Among the problems of rigid rule-based dictated
-behaviors is in the propagation of those rigid behavioral
-systems. This indicates and creates a trans-generational problem of
-rigid moral systems wherein those systems dampen the collective
-performance of that society when unable to evolve to pace the demands
-of economic and political externalities. However, the problem of
-auto-propagation plagues especially those systems which evolve too
-rapidly to perpetuate themselves as well as those systems without
-spectral harmonization. Yet, a virus which mutates too quickly
-eventually homogenizes into multiple dominant strains.
+Nietzsche's Geneology of Morals identified in values systems the
+[*Danger of
+Dangers*](https://academyofideas.com/2017/01/nietzsche-and-morality/):
+that rigidity and inflexibility of moral systems would itself foment
+systemic weakness in societies unable to cope with the rate of
+change. Among the problems of rigid rule-based dictated behaviors is
+in the propagation of those rigid behavioral systems. This indicates
+and creates a trans-generational problem of rigid moral systems
+wherein those systems dampen the collective performance of that
+society when unable to evolve to pace the demands of economic and
+political externalities. However, the problem of auto-propagation
+plagues especially those systems which evolve too rapidly to
+perpetuate themselves as well as those systems without spectral
+harmonization. Yet, a virus which mutates too quickly eventually
+homogenizes into multiple dominant strains.
 
 There are tools that allow for the identification of middle ground in
 systems: from rigid to flexible; from those nearly universal systems,
@@ -790,16 +792,9 @@ sources of all of this, all the neutral people in the middle will no
 longer be under their spell. They will realize how they've been
 deceived and flip in my favor.
 
-#### Sure, Throw The Quasi-Buddhist into [the Pit and The Pendulum](https://en.wikipedia.org/wiki/The_Pit_and_the_Pendulum). That's A Great Look.
-
-> Wow. I didn't realize that literature and myth was full of
-> guidebooks for this kind of stuff. Still think this is funny?
-
-![The Pit and the Pendulum](/img/posts/2018-01-22-semioteleological-revolution/pit-and-the-pendulum.jpg)
-
 Furthermore, this methodical system of defamation by abstract poison
 pen is forever broken for everyone who's used it and been abused by
-it: FOREVER! Why? Because the common person does not trust you any
+it: **forever!** Why? Because the common person does not trust you any
 more. They don't believe anything you say. By refusing to give in, I
 will destroy you by obliterating all the types of life-ruining tools
 you've used to hold people back with information about their own
@@ -808,6 +803,13 @@ religions as measures of suppression for their usefulness in
 controlling threats via temptation. They are enumerated so that people
 can learn early to prevent themselves from becoming slaves to the
 informational thumbscrews of their known sinful past.
+
+#### Sure, Throw The Quasi-Buddhist into [the Pit and The Pendulum](https://en.wikipedia.org/wiki/The_Pit_and_the_Pendulum). That's A Great Look.
+
+> Wow. I didn't realize that literature and myth was full of
+> guidebooks for this kind of stuff. Still think this is funny?
+
+![The Pit and the Pendulum](/img/posts/2018-01-22-semioteleological-revolution/pit-and-the-pendulum.jpg)
 
 Today, this is more critical than ever as all information rapidly
 converges towards omnipresence. Social media distributes information
@@ -1498,8 +1500,8 @@ want, to disdain desire and to shed attachments, then motivating them
 towards something they want or do not want requires more intent, more
 energy and more severe means.
 
-Mara manifests networks of people chained to one another through
-desire and attachment. These people will always arrange themselves
+The concept networks of people chained to one another through desire
+and attachment. These people will always arrange themselves
 hierarchically: this is partly due to the nature of power.
 Unfortunately, power and its accompanying sociohierarchical structures
 seem to be necessary to providing the most good to the most people;
@@ -1517,10 +1519,10 @@ connections, but always have a greater social reach.  As one zooms out
 on the social graph, a gradient of power flow should clearly become
 visible, if a measure of social power can be measured.
 
-
 There are many mechanisms of influencing nearby social nodes, whether
 they are nearby physically or logically. The best leaders exemplify
-magnanimity, which is the virtue of virtues -- however,
+magnanimity, which I've discussed at length in [Facets of
+Greatness](/posts/2016-05-12-facets-of-greatness-intro.html#aristotelian-ethics-a-brief-interlude).
 
 - magnanimity requires:
   - foresight, wisdom
@@ -1574,7 +1576,7 @@ powerful social nodes tend tightly couple others to them
       - for me, in 2015, it seems that there was already a plethora of
         negative sociophysical momentum associated to my identity and
         actions I couldn't believe were real myself. the people who
-        had coaxed this into being did so assuming that they could
+        had hoaxed this into being did so assuming that they could
         blame it all on me, so they didn't want me to understand what
         had been created and worked tirelessly to prevent me from
         understanding the specifics and consequences of actions which
@@ -1652,8 +1654,6 @@ doesn't necessarily require a net-expenditure of sociophysical energy:
 you can respond to disruptive, unwelcome or rude events in this way by
 ultimately gaining from them.
 
-#### Tales of Zestria
-
 ![A Shepherd Bodhisattva?](/img/posts/2018-02-14-to-catch-a-butterfly-epistemic-miracles-of-serendipity/tales-of-zestria.jpg)
 
 <a name="without-mercy-there-is-no-deed-without-virtue" />
@@ -1701,7 +1701,7 @@ assume that person will turn around and do the same thing. perhaps,
 they by justify these learned wrong actions by assuming that's just
 how the world works.
 
-#### "Heroes Never Die, ..." - Mercy
+#### "Heroes Never Die, [REDACTED]" - Mercy
 
 > I donno what a "rez" is, but I'll take two. With heals, please.
 
@@ -1747,29 +1747,26 @@ decided for use by those in power.
 
 ### ["You Will Not Silence Us"](#you-will-not-silence-us) - Occupy Wall Street
 
-- TODO: fix
-
 [As I've written
 before](/posts/2017-02-21-civil-disobedience-and-operational-strategy-in-information-warfare.html#natural-justice-and-the-human-condition),
 take away publicity and you neuter any possibility of civil
 disobedience being effective. If no one witnesses the wrongdoing you
-endure, it may never change. The movement of (Martin Luther King
-Jr. coincided with the availability of visual mass-communication:)
-cameras and TV's everywhere meant that you could no longer segregate
-society and expect that no one would want society to change simply
-because they did not witness the mistreatment that African American's
-endured. Suddenly, you had news cameras everywhere in America, in
-segregated neighborhoods and even at protest events. Given visual,
-visceral exposure to this mistreatment, most white people started to
-undergo a change of heart -- because it was now impossible to look
-away and to continue pretending that such incredibly divorced
-circumstances in segregated communities were not real. Therefore, in
-the 21st century, when political dissidents are completely stripped of
-any publicity, you have robbed society of the avenue of civil
-disobedience. Suffering is no longer witnessed by others, it is merely
-endured and perhaps for no reason. Suddenly, there is little reason to
-suffer collectively for change because there's not much to be gained
-from it.
+endure, it may never change. Martin Luther King Jr.'s civil rights
+movement of Martin Luther King Jr. coincided with the explosion of
+visual mass-communication. No longer could society remain segregated
+under the expectation that too few people would witness the
+mistreatment that African Americans endured. Suddenly, you had news
+cameras everywhere in America, in segregated neighborhoods and even at
+protest events. Given visual, visceral exposure to this mistreatment,
+most white people started to undergo a change of heart -- because it
+was now impossible to look away and to continue pretending that such
+incredibly divorced circumstances in segregated communities were not
+real. Therefore, in the 21st century, when political dissidents are
+completely stripped of any publicity, you have robbed society of the
+avenue of civil disobedience. Suffering is no longer witnessed by
+others, it is merely endured and perhaps for no reason. Suddenly,
+there is little reason to suffer collectively for change because
+there's not much to be gained from it.
 
 What is happening in America seems calculated to undermine any
 potential for civil disobedience. Our leaders will not be aware of
@@ -1841,14 +1838,14 @@ for something and refuse to allow it to grow, it will continue
 consuming lives with coercion and racketeering until it consumes
 everything.
 
-#### [Chrono Cross Intro](https://www.youtube.com/watch?v=lHQ7yEYwEnE): "What Was The Start of All This?"
-
-![What Was The Start of All This?](/img/posts/2018-02-14-to-catch-a-butterfly-epistemic-miracles-of-serendipity/chrono-cross.jpg)
-
 I didn't realize this from the beginning, whenever that was. I have
 always tried to minimize the scope of this thing, but at no time in
 the past three years were my words ever heard for what they truly
 were.
+
+#### [Chrono Cross Intro](https://www.youtube.com/watch?v=lHQ7yEYwEnE): "What Was The Start of All This?"
+
+![What Was The Start of All This?](/img/posts/2018-02-14-to-catch-a-butterfly-epistemic-miracles-of-serendipity/what-was-the-start-of-all-this.jpg)
 
 [^majjhima-nikaya-26-19]: From "The Noble Search" ([Ariyapariyesanā
     Sutta](www.wisdompubs.org/book/middle-length-discourses-buddha/selections/middle-length-discourses-26-ariyapariyesana-sutta),
