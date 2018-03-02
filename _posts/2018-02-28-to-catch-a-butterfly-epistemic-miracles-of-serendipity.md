@@ -550,11 +550,23 @@ experiences is constrained in the extreme, this is colloquially known
 as being **sheltered**. So, the concepts that I'm describing are not
 incomprehensible: they are actually facile, trivial and necessary to
 being successful in life or family. What is difficult to follow is the
-language that I use to methodologically describe it, which is where my
-power of psychosocial inference and extrapolation are derived. This is
-what angers me when people do not listen. I can describe these same
-subjects a hundred different ways: *but I need someone to fucking
-listen.*
+language that I use to methodologically describe these concepts, which
+is where my power of psychosocial inference and extrapolation are
+derived.
+
+What angers me when people do not listen? If you bother to talk to me,
+I can describe these same subjects a hundred different ways: *but I
+need someone to fucking listen.* I would be patient with anyone who
+listens because I don't expect them to understand immediately, but
+nearly everyone who interacts with me expects to *handle* me. **They
+employ the same rhetorical and psychological tactics to get me to shut
+up as quickly as possible.** They don't understand that I react the
+way I do because that's the only treatment I ever receive. They talk
+down to me and reinforce the labels society wants people to use to
+humiliate me and disempower me. They might have a college degree, but
+they assume that, because I don't have a BS/BA, no one has given me
+the seal of approval and no one should respect my ideas. It's because
+they are incapable of identifying actual substance.
 
 <a name="my-own-psychological-development-a-topped-tree-isolated-like-veal" />
 
@@ -1174,7 +1186,8 @@ always handing you what you need, though it's not always easy to see.
 
 > There may be dozens of people attached to you to swat the
 > serendipity right out of your hands, which is
-> unfortunate.[^some-people-are-assholes]
+> unfortunate.[^some-people-are-assholes] This is almost certainly not
+> true.
 
 What appears serendipitous and miraculous to you, might not be readily
 apparent to others. Knowing that we are all one, then also, what might
@@ -1192,8 +1205,8 @@ allow="autoplay; encrypted-media" allowfullscreen></iframe>
 
 ### [The Path of Least Resistence Leads to Crooked Rivers and Crooked Men](#the-path-of-least-resistence-leads-to-crooked-rivers-and-crooken-men)
 
-Such a path is useful, for both good and evil, but even the specific
-path identified is trivial. Find people following this path and you
+Such a path is useful, for both good and evil, (but even the specific
+path identified is trivial). Find people following this path and you
 know where they're going and where they're coming from. This is a
 little-known secret to resolving uncertainty in human-behavior. Are
 people following a path of least resistence? If so, their destinations
@@ -1500,75 +1513,132 @@ want, to disdain desire and to shed attachments, then motivating them
 towards something they want or do not want requires more intent, more
 energy and more severe means.
 
-The concept networks of people chained to one another through desire
-and attachment. These people will always arrange themselves
-hierarchically: this is partly due to the nature of power.
-Unfortunately, power and its accompanying sociohierarchical structures
-seem to be necessary to providing the most good to the most people;
-for now, there is simply no other way to effectively govern.  As
-population grows and, particularly population density, the social
-graph begins to stratify itself, insulating more powerful nodes as the
-less powerful are externalized to lower strata. Forgoing the social
-impacts of telecommunication, greater population density accompanies
-increasing emergence of stratification and specialization in the
-social graph. The least connected regions of this social graph are
-where *both the most and least powerful nodes reside*, but power
-*always* corresponds to a greater range of 1&deg; and 2&deg; span of
-the social network. i.e. powerful people may have less 1&deg;
-connections, but always have a greater social reach.  As one zooms out
-on the social graph, a gradient of power flow should clearly become
-visible, if a measure of social power can be measured.
+Evil compels people to magnify their sociophysical energy by lensing
+lust for attachment through branches of the social graph. By
+projecting informational signals, you direct the cumulative attention
+of people in society. Similarly, you can direct the cumulative desire
+through networks of people bound by attachments and incentivized by
+desire. The nature of power causes people to always begin arranging
+themselves hierarchically. Unfortunately, power and its accompanying
+sociohierarchical structures seem to be necessary to providing the
+most good to the most people; for now, there is simply no other way to
+effectively lead or govern. As population grows and, particularly
+population density, the social graph begins to stratify itself,
+insulating more powerful nodes as the less powerful are externalized
+to lower strata. Forgoing the social impacts of telecommunication,
+greater population density accompanies increasing emergence of
+stratification and specialization in the social graph. The least
+connected regions of this social graph are where *both the most and
+least powerful nodes reside*, but power *always* corresponds to a
+greater range of 1&deg; and 2&deg; span of the social
+network. i.e. powerful people may have less 1&deg; connections, but
+always have a greater social reach.  As one zooms out on the social
+graph, a gradient of power flow should clearly become visible, if a
+measure of social power can be measured.
 
-There are many mechanisms of influencing nearby social nodes, whether
-they are nearby physically or logically. The best leaders exemplify
-magnanimity, which I've discussed at length in [Facets of
-Greatness](/posts/2016-05-12-facets-of-greatness-intro.html#aristotelian-ethics-a-brief-interlude).
+###
 
-- magnanimity requires:
-  - foresight, wisdom
-- it typically correlates with exemplification of all the other
-  virtues
+The best leaders exemplify magnanimity, the "crowning virtue" featured
+in a discussion on Artistotelian Ethics in the [Facets of
+Greatness](/posts/2016-05-12-facets-of-greatness-intro.html#aristotelian-ethics-a-brief-interlude). Operating
+magnimously requires exemplifying the other Aristotelian virtues. A
+magnanimous leader develops redundancy into the avenues whereby they
+exercise their power. They leverage one circuit of sociophysical
+energy against another -- compelling their subjects to compete against
+one another in serving higher values, while disdaining what is lower.
+They incentivize behavior by appealing to their subject's sense of
+honor or values systems. By appearing to uphold these values justly
+and equitably, you incentivize people in a way that renders you
+practically unassailable.
 
-- TODO: link to facets of greatness article explaining why Magnanimity
-  is difficult and not available to everyone.
+Magnanimous leaders are still vulnerable to deception and karmic
+obfuscation. Mitigating co-opted subtlety, indirect threats and the
+cultivation of potential threat vectors requires cultivating constant
+awareness of affairs in their realm and thereby raising redundant
+options for statecraft.  However, in order to make gains against other
+magnanimous contemporaries, they must also leverage deception and
+karmic obfuscation to act, while making minimal concessions in
+appearances. Exemplifying magnanimity is much easier when your
+position in society places you above others, yet maintaining this
+position still requires unparalleled foresight and intuition. These
+people and everyone who serves them must always walk on eggshells, but
+is it worth all the extra care? Everything they want to do must be
+deconstructed, encapsulated within handling protocols, and delegated
+amoung networks of people. Just as devops processes for web
+applications develop problems specific to large-scale deployments --
+e.g. deployments of containerized applications to stream-processing
+requests for sharded services -- scaling logistic processes to large
+networks of people for powerful leaders or large organizations
+requires solving many similar problems.
 
-powerful social nodes tend tightly couple others to them
+The seemingly vain adherence to etiquette and those values systems
+distributed by vague doctrine: is it worth the trouble? That doctrine
+is often religious or esoteric in nature; rendering it simple for
+followers to question and external influencers to undermine
+faith. Who's interests to those systems serve? Why are people willing
+to sacrifice themselves to die in the service of magnanimous leaders?
+Because, regardless simple-minded and common people understand the
+complicated mechanics and dynamics of power, what they do understand
+is when serving their leaders serves their own interests. When leaders
+act magnanimously, they do not stand for themselves, their own
+attachments or their own realizations of desire -- instead they must
+always stand for something higher. The average person realizes this
+intuitively and when they see that serving their leaders means serving
+truth, justice and reason, they are willing take on risks, to work
+harder and to absorb causal fallout of the mistakes of [some of] their
+leaders.
 
-    - in some cases, the same people to define sin will *encourage
-      some sin* as a means of creating mechanisms of control across
-      the graph.
-    - the people in control will be very interested in learning your
-      desires/needs/vices/sins to entice you with them.
+Magnanimous leaders are patient and place themselves in the service of
+higher ideals until they find their own circumstance in life raised up
+by accumulating merit. Less ideal leaders tend to motivate and
+incentivize people in more negative ways. To the end of attaining
+their desires and servicing the upkeep of their attachments, this
+seems expedient. As for these short-sighted leaders -- regardless of
+their undestanding of the circumstance of those they use or whether
+their pawns are destroyed once used -- they seem to be able to gain
+power quickly, but they often lose it even faster. By allowing their
+hands to become dirty, they make the quick gains they see. This
+renders the inexperienced short work for the wise, which only becomes
+clear later in life. After tasting what seems like success, these
+myopic leaders and manipulators are rightly ruined by karma. They
+become burdened by their past mistakes, their unwise desires and the
+need to service the own attachments they've accumulated along their
+life's path. Unless these people flee their obligations, they become
+restricted by the past.
 
+It's slow, steady and humble that wins the race. This is why you must
+serve ideas, not people and not attachments. Unfortunately, it is
+difficult to attain the knowledge and wisdom to know which ideas to
+serve. Systems like religion, philosophy or academia are shortcuts for
+finding a noble path.
 
-  - if so, are those who progress through and embody these states of
-    mind necessarily pure? does this progression move towards an ideal
-    that is the opposite of the being Mara epitomizes?
-    - or is it instead a state purely devoid of the elements
-      required for suffering/evil?
-      - what state? the state of progression towards liberation? or
-        the state of having liberated one self?
+### (Chaotic Good)
 
+Understanding the nature of causality and the consequences of karma is
+so critical in understanding how to act without seeming to have acted
+at all. while knowing that you've identi minimal course of
+action. which is crucial to preserving your sociophysical potential
+energies.
+
+  - you have to know how to act to change just the things you want,
+    while allowing everything else to remain stable
+    - metaphor: curling and "burned rocks"
 
 ####
 
 > No, that's not the burned rock. The Canadians did not burn that
-> rock. They did, however, decide to send that rock to the Phantom
-> Zone.
+> rock. They did, however, decide to send that rock to the [Phantom
+> Zone](https://en.wikipedia.org/wiki/Phantom_Zone).
 
 ![Curling Burned Rock](/img/posts/2018-02-14-to-catch-a-butterfly-epistemic-miracles-of-serendipity/curling-burned-rock.jpg)
 
+If you don't know how to act without changing anything, you cannot act
+to obtain precise changes without risking sociophysical turbulence.
 
-  - understanding the nature of causality and the consequences of
-    karma is so critical in understanding how to act without seeming
-    to have acted or perhaps without having acted at all, which is
-    crucial to preserving your sociophysical potential energies.
-    - you have to know how to act to change just the things you want,
-      while allowing everything else to remain stable
-      - metaphor: curling and "burned rocks"
-    - if you don't know how to act without changing anything, you
-      cannot act to obtain precisely the changes you want without
-      risking creating too much sociophysical turbulence
+In addition to destabalizing plans to serve your own ends or that of
+others, you'll end up destabalizing the goals and actions of others.
+
+
       - for your actions to create a response with surgical precision,
         you have to know. if you are forbidden from acquiring
         information about your circumstances, you cannot act without
@@ -1590,6 +1660,15 @@ powerful social nodes tend tightly couple others to them
   resources as possible. this is generally true throughout my entire
   life and whenever i begin to accumulate social/financial resources,
   it is immediately smacked out of my hands.
+
+
+  - if so, are those who progress through and embody these states of
+    mind necessarily pure? does this progression move towards an ideal
+    that is the opposite of the being Mara epitomizes?
+    - or is it instead a state purely devoid of the elements
+      required for suffering/evil?
+      - what state? the state of progression towards liberation? or
+        the state of having liberated one self?
 
 
 
@@ -1633,7 +1712,7 @@ be suprised though.*
 > So, is it any wonder that I'm a walking sociophysical black-hole, a
 > karmic vortex which you cannot look at whatsoever without being
 > targeted? Thanks, America. Oh, and I get blamed for everything, but
-> never tell me that I'm a walking dead-star... that practically be
+> never tell me that I'm a walking dead-star... that'd practically be
 > illegal. Fascinating! Yet, tragic: it can apparently rip families
 > into pieces, WITH ZERO LEGAL CONSEQUENCES.
 
