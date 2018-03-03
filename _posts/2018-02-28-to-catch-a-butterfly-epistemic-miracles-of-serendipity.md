@@ -17,7 +17,7 @@ excerpt: ""
 
 ## [Epistemic Miracles of Serendipity Are Incomputable](#epistemic-miracles-of-serendipity-are-incomputable)
 
-#### &#920; [Life Is An Incomputable Sociophysical Game](#life-is-an-incomputable-sociophysical-game)
+#### [&#920; Life Is An Incomputable Sociophysical Game](#life-is-an-incomputable-sociophysical-game)
 
 #### &#920; [Convolutions On Serendipitous Epistemic Configurations](#convolutions-on-serendipitous-epistemic-configurations)
 
@@ -79,13 +79,13 @@ excerpt: ""
 
 #### &#920; [Is There Truly Such A Thing As Chaotic Evil?](#is-there-truly-such-a-thing-as-chaotic-evil)
 
-...
+#### &#920; [Magnanimity: Why Must Power Inevitably Corrupt?](#magnanimity-why-must-power-inevitably-corrupt)
 
 #### &#920; [To Turn The Other Cheek](#to-turn-the-other-cheek)
 
 #### &#920; ["With Mercy, There Is No Deed Without Virtue"](#without-mercy-there-is-no-deed-without-virtue)
 
-#### &#920; ["You Will Not Silence Us"](#you-will-not-silence-us) - Occupy Wall Street
+#### &#920; ["You Will Not Silence Us"](#you-will-not-silence-us) <=> Occupy Wall Street
 
 #### &#920; [Would You Like Some Tea?](#would-you-like-some-tea)
 
@@ -1571,22 +1571,28 @@ requests for sharded services -- scaling logistic processes to large
 networks of people for powerful leaders or large organizations
 requires solving many similar problems.
 
+#### Dali - The Tallenge Store
+
+> Each one's got their own angle...
+
+![Dali - The Tallenge Store](/img/posts/2018-02-14-to-catch-a-butterfly-epistemic-miracles-of-serendipity/dali-the-tallenge-store.jpg)
+
 The seemingly vain adherence to etiquette and those values systems
 distributed by vague doctrine: is it worth the trouble? That doctrine
 is often religious or esoteric in nature; rendering it simple for
 followers to question and external influencers to undermine
 faith. Who's interests to those systems serve? Why are people willing
 to sacrifice themselves to die in the service of magnanimous leaders?
-Because, regardless simple-minded and common people understand the
-complicated mechanics and dynamics of power, what they do understand
-is when serving their leaders serves their own interests. When leaders
-act magnanimously, they do not stand for themselves, their own
-attachments or their own realizations of desire -- instead they must
-always stand for something higher. The average person realizes this
-intuitively and when they see that serving their leaders means serving
-truth, justice and reason, they are willing take on risks, to work
-harder and to absorb causal fallout of the mistakes of [some of] their
-leaders.
+Because, regardless of whether simple-minded or common people
+understand the complicated mechanics and dynamics of power, what they
+do understand is when serving their leaders serves their own
+interests. When leaders act magnanimously, they do not stand for
+themselves, their own attachments or their own realizations of desire
+-- instead they always stand for something higher. The average person
+realizes this intuitively and when they see that serving their leaders
+means serving truth, justice and reason, they are willing take on
+risks, to work harder and to absorb causal fallout of the mistakes of
+[some of] their leaders.
 
 Magnanimous leaders are patient and place themselves in the service of
 higher ideals until they find their own circumstance in life raised up
@@ -1617,12 +1623,16 @@ noble path.
 - those who allow themselves to be conduits for beneficent ideas,
   (enable the development of virtue), and (create/serve magnanimity)
 
-###
+### Magnanimity (requires indirection)
 
 Understanding the nature of causality and the consequences of karma is
 so critical in understanding how to act without seeming to have acted
 at all. While knowing that you've identified minimal course of action,
 which is crucial to preserving your sociophysical potential energies.
+
+#### Dali - Le Main
+
+![Dali's Le Main](/img/posts/2018-02-14-to-catch-a-butterfly-epistemic-miracles-of-serendipity/dali-le-main.jpg)
 
 - how to act in a situation of concern without changing anything?
   - how to act so that your actions minimally affect the course of
@@ -1737,6 +1747,16 @@ others, you'll end up destabalizing the goals and actions of others.
     - it is no doubt incredibly frustrating for people to heavily
       invest in someone or something, all for it to be ruined no
       matter what they do.
+
+#### Dali - Ascension
+
+> Compare this western painting with Ryūnosuke Akutagawa's short story
+> [The Spider's
+> Thread](http://www1.edogawa-u.ac.jp/~tmkelly/research_spider.html).
+
+![Dali's
+Ascension](/img/posts/2018-02-14-to-catch-a-butterfly-epistemic-miracles-of-serendipity/dali-ascension.jpg)
+
     - i feel like a lot of people have tried to help me, but that it
       doesn't matter what they do because there's a small fragment of
       people whose objective is to destroy my life, regardless of how
@@ -1944,7 +1964,7 @@ decided for use by those in power.
 
 <a name="you-will-not-silence-us" />
 
-### ["You Will Not Silence Us"](#you-will-not-silence-us) - Occupy Wall Street
+### ["You Will Not Silence Us"](#you-will-not-silence-us) <=> Occupy Wall Street
 
 [As I've written
 before](/posts/2017-02-21-civil-disobedience-and-operational-strategy-in-information-warfare.html#natural-justice-and-the-human-condition),

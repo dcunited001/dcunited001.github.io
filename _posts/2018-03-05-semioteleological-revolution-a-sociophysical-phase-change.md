@@ -25,10 +25,26 @@ excerpt: ""
 
 ![DG Sever Rime](/img/posts/2018-01-22-semioteleological-revolution/dg-sever-rime.jpg)
 
+#### Dali - Liquid Desire (to explain a gestault hard-switch in psycholinguiistic programming)
+
+> If desire were a substance, could you produce it? Could you farm it?
+> Could you reap it and sheaf it? Can you bundle it up and sell it?
+
+![Dali's Liquid Desire](/img/posts/2018-01-22-semioteleological-revolution/dali-liquid-desire.jpg)
+
+#### Dali - Leda Atomica
+
+![Dali - Leda Atomica](/img/posts/2018-01-22-semioteleological-revolution/dali-leda-atomica.jpg)
+
+#### Graydon Parrish - Suggested Donation
+
+![Graydon Parrish - Suggested Donation](/img/posts/2018-01-22-semioteleological-revolution/dali-liquid-desire.jpg)
 
 driving sociopolitical churn with a dichotomous sword to harness
 siphoned energy of each fearful swing, raping america like
 black-bagged prisoners trapped in Poe's the Pit and the Pendulum.
+
+
 
 #### Magus In Search of Schala
 
