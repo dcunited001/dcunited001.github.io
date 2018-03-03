@@ -35,6 +35,8 @@ permalink: /quotes/
 > I have is the will that drives me to never let my pain be forever
 > meaningless.
 
+> Tolerance, alone, is not enough for love.
+
 > The greats who came before us, though we may seem greater, were
 > truly the greatest.
 

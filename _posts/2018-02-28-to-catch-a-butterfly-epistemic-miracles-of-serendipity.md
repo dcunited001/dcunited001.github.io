@@ -1197,9 +1197,7 @@ virtuous, selfless action may require personal sacrifice, but if we
 are all one, you would gladly pay it. Mara cannot know this:
 selflessness is literally incomprehensible to evil.
 
-<iframe width="560" height="315"
-src="https://www.youtube.com/embed/nzQWYHHqvIw" frameborder="0"
-allow="autoplay; encrypted-media" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/nzQWYHHqvIw" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
 
 <a name="the-path-of-least-resistence-leads-to-crooked-rivers-and-crooken-men" />
 
@@ -1536,7 +1534,9 @@ always have a greater social reach.  As one zooms out on the social
 graph, a gradient of power flow should clearly become visible, if a
 measure of social power can be measured.
 
-###
+<a name="magnanimity-why-must-power-inevitably-corrupt" />
+
+### [Magnanimity: Why Must Power Inevitably Corrupt?](#magnanimity-why-must-power-inevitably-corrupt)
 
 The best leaders exemplify magnanimity, the "crowning virtue" featured
 in a discussion on Artistotelian Ethics in the [Facets of
@@ -1606,19 +1606,57 @@ need to service the own attachments they've accumulated along their
 life's path. Unless these people flee their obligations, they become
 restricted by the past.
 
-It's slow, steady and humble that wins the race. This is why you must
-serve ideas, not people and not attachments. Unfortunately, it is
-difficult to attain the knowledge and wisdom to know which ideas to
-serve. Systems like religion, philosophy or academia are shortcuts for
-finding a noble path.
+It's slow, steady and humble that wins the race. You must serve ideas,
+not people and not attachments. Unfortunately, it is difficult to
+attain the knowledge and wisdom to know which ideas to serve. Systems
+like religion, philosophy or academia are shortcuts for finding a
+noble path.
 
-### (Chaotic Good)
+- What do you empower?
+
+- those who allow themselves to be conduits for beneficent ideas,
+  (enable the development of virtue), and (create/serve magnanimity)
+
+###
 
 Understanding the nature of causality and the consequences of karma is
 so critical in understanding how to act without seeming to have acted
-at all. while knowing that you've identi minimal course of
-action. which is crucial to preserving your sociophysical potential
-energies.
+at all. While knowing that you've identified minimal course of action,
+which is crucial to preserving your sociophysical potential energies.
+
+- how to act in a situation of concern without changing anything?
+  - how to act so that your actions minimally affect the course of
+    that situation?
+  - how to act to present people who need help with options that are
+    their implicit means of salvation/judgement? (reword this)
+    - in otherwords, you do not interfere with the situation directly,
+      but only act to ascertain information and construct options the
+      person who needs help will reach for *only* if they (deserve)
+      the help.
+    - in doing so, you prompt the person to identify tools/options
+      they can use in the situation of concern, but the tool only
+      functions if they make they right decisions and prioritize the
+      correct values
+    - then, when you act, you've done nothing at all. if the person
+      has misrepresented the situation to you, the tool/option you've
+      provided doesn't quite function
+      - if the other people have misrepresented the situation to you,
+        then your attempts to minimally interfere should have elements
+        monadically encapsulated within them that provide you with
+        more information without having appeared to involve you at
+        all. (and without sociophysically destablizing the sitaution)
+      - if other people are seeking to misrepresent a situation to you
+        where someone does need help, then your indirect attempts to
+        aid that person will provide you with information about who is
+        deceiving and who is acting on bad information.
+      - you'll begin to infer why sociophysical energy and intent are
+        invested in that situation, without having changed the nature
+        of the situation and without alerting those invested in the
+        outcome to your involvement.
+
+- change must emerge from within
+- metric of degrees of separation/indirection
+  - informational/social/financial degrees of separation/indirection
 
   - you have to know how to act to change just the things you want,
     while allowing everything else to remain stable
@@ -1638,19 +1676,17 @@ to obtain precise changes without risking sociophysical turbulence.
 In addition to destabalizing plans to serve your own ends or that of
 others, you'll end up destabalizing the goals and actions of others.
 
-
-      - for your actions to create a response with surgical precision,
-        you have to know. if you are forbidden from acquiring
-        information about your circumstances, you cannot act without
-        creating negative reactions.
-      - for me, in 2015, it seems that there was already a plethora of
-        negative sociophysical momentum associated to my identity and
-        actions I couldn't believe were real myself. the people who
-        had hoaxed this into being did so assuming that they could
-        blame it all on me, so they didn't want me to understand what
-        had been created and worked tirelessly to prevent me from
-        understanding the specifics and consequences of actions which
-        I could not believe ever occured.
+- for your actions to create a response with surgical precision, you
+  have to know. if you are forbidden from acquiring information about
+  your circumstances, you cannot act without creating negative
+  reactions.
+- for me, in 2015, it seems that there was already a plethora of
+  negative sociophysical momentum associated to my identity and
+  actions I couldn't believe were real myself. the people who had
+  hoaxed this into being did so assuming that they could blame it all
+  on me, so they didn't want me to understand what had been created
+  and worked tirelessly to prevent me from understanding the specifics
+  and consequences of actions which I could not believe ever occured.
 
 - who had social/financial/informational resources to change things?
   what did these groups of people intend to create? what information
@@ -1661,16 +1697,100 @@ others, you'll end up destabalizing the goals and actions of others.
   life and whenever i begin to accumulate social/financial resources,
   it is immediately smacked out of my hands.
 
-
+  - as for the states of mind specified by the jhanas
   - if so, are those who progress through and embody these states of
     mind necessarily pure? does this progression move towards an ideal
     that is the opposite of the being Mara epitomizes?
     - or is it instead a state purely devoid of the elements
       required for suffering/evil?
-      - what state? the state of progression towards liberation? or
-        the state of having liberated one self?
+      - what states of mind? the state of progression towards
+        liberation? or the state of having liberated one self?
+      - the states of mind specified by the Jhanas
 
 
+###
+
+- It is (very difficult) to live in these ways. it requires
+  significant investment of personal time and energy to be
+  compassionate. There are a million ways to attempt to be
+  compassionate when interacting in social situations. (Some ways)
+  produce profound changes while (other ways) generate far too much
+  sociophysical turbulence as a result. For this and many other
+  reasons, it is a computationally hard problem to determine how to
+  act compassionately, while achieviing the effects you want to see in
+  the world. (is not nearly as computationally hard to identify) the
+  path of least resistence so that you can contort situations to your
+  advantage.
+  - There are myriad ways to act while creating a compassionate
+    result, when seen from the eyes of the person you're trying to
+    help. There are myriad ways to act while creating discompassionate
+    or incompassionte results. Whether you intend to create
+    compassionate or incompassionate results or whether you are
+    dispassionately detached from the consequences of your actions,
+    (the challenge) is acting to create the result you intend without
+    generating destabalizing discord (as a side-effect)
+  - (informing your actions to create minimal side-effects is the
+    "hard" problem.)
+    - ultimately, the point is that the people who intend to create
+      specific results are exerting a ton of time/energy into the
+      thought behind their actions.
+    - it is no doubt incredibly frustrating for people to heavily
+      invest in someone or something, all for it to be ruined no
+      matter what they do.
+    - i feel like a lot of people have tried to help me, but that it
+      doesn't matter what they do because there's a small fragment of
+      people whose objective is to destroy my life, regardless of how
+      much effort other people invest in it.
+      - these people, whether acting intentionally or not, see any
+        sign that i'm either moving towards specific goals or
+        accumulating social/financial resources as a sign they need to
+        act to disrupt my life.
+      - ordinarily, people would have given up trying to help me a
+        long time ago. why? it's expensive to help someone. You can't
+        help everyone, so when people focus their energy towards
+        compassionate, they generally want to see a result.
+        - however, my own life seems to demonstrate that, no matter
+          what you do -- regardless of how much time/energy and money
+          is spent -- small groups of people can act simply to fuck
+          everything up by socially disconnecting that person,
+          creating sociophysical turbulence and surrounding that
+          person with the polar opposite of the Steve Jobs reality
+          distortion field.
+        - it's tragic: such a small group of people can trivially
+          inject sociophysical turbulence in my life to stall any and
+          all progress. There might only be several dozen toxic people
+          who consciously intend to perpetually keep you in a dungeon
+          of psychological torture. Even so, if they wanted, they
+          could literal outweigh the efforts of the rest of the human
+          population, simply by injecting sociophysical turbulence to
+          disrupt anyone who tries to help you.
+          - If they pick on someone with a developmental disorder, who
+            is gullible, oblivious to social norms, easy to
+            deceive/disrupt, then if they prevent that person from
+            every attaining any social/financial resources whatsoever,
+            then "they" can keep you in that dungeon until you decide
+            to hang yourself like a GITMO inmate. Incidentally,
+            suicide is one of the intended final destinations of that
+            program.
+
+
+### (In Defense of Chaotic Good)
+
+- actually transition into a discussion on chaotic good...
+  - always question everything
+- "chaotic good" is generally disruptive
+  - how can something that rejects order lead to goodness
+    - when protection of belief/values systems, virtues, justice and
+      the rule of law requires a strong rule of law in itself?
+  - for order in social systems, etc: when can strong order be known
+    to stand for good? and when can such an order be
+    known/demonstrated to stand simply for itself?
+
+- generally testing the ability, power, intent and beliefs of those in
+  power. how?
+  - by questioning/testing authority.
+  - by compelling people to act when needed.
+  - by directing attention to issues/problems where needed.
 
 
 <a name="to-turn-the-other-cheek" />
@@ -1905,9 +2025,9 @@ it, over and over again.
 
 The only way I know how to fight this is by waking people up, so that
 they see it for what it is, which forces this [metaphysical autonomous
-form](/posts/2017-10-12-treatise-on-entity-and-agency.html#sociophysical-and-metaphysical-autonomous-forms)
--- this [egregore](https://en.wikipedia.org/wiki/Egregore) -- to
-expend its sociophysical energy beyond it's maximum burn rate.
+form](/posts/2017-10-12-treatise-on-entity-and-agency.html#sociophysical-and-metaphysical-autonomous-forms),
+this [egregore](https://en.wikipedia.org/wiki/Egregore), to expend its
+sociophysical energy beyond it's maximum burn rate.
 
 That's the only way to stop this. you have to bait "it" into as many
 simultaneous battles as possible because it's like a hydra crossed
@@ -1925,6 +2045,7 @@ were.
 #### [Chrono Cross Intro](https://www.youtube.com/watch?v=lHQ7yEYwEnE): "What Was The Start of All This?"
 
 ![What Was The Start of All This?](/img/posts/2018-02-14-to-catch-a-butterfly-epistemic-miracles-of-serendipity/what-was-the-start-of-all-this.jpg)
+
 
 [^majjhima-nikaya-26-19]: From "The Noble Search" ([Ariyapariyesanā
     Sutta](www.wisdompubs.org/book/middle-length-discourses-buddha/selections/middle-length-discourses-26-ariyapariyesana-sutta),
