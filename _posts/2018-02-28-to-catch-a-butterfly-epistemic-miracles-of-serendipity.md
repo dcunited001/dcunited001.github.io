@@ -428,7 +428,10 @@ in an efficient direction is itself a mathematically hard problem.
 > Institute](https://www.youtube.com/user/SimonsInstitute) for people
 > that are easily bored with Simons Institute videos. I don't quite
 > understand the specifics of this video. I know enough to extrapolate
-> with the content as though I've been given mathematic legos.
+> with the content as though I've been given mathematic
+> legos.[^gladatorial-mural] I changed the bullet points from orange
+> to black theta's because this [Kathleen Colema's analysis of a
+> Gladiatoral mural]() indicates
 
 <iframe width="560" height="315"
 src="https://www.youtube.com/embed/ULFzxq0u_mI" frameborder="0"
@@ -1050,8 +1053,10 @@ to dissect them and defuse them.
 
 #### Yes, This Is The Way: 道 =~ Road =~ Dharma
 
-> This is a 3D Graff of the Kanji for the Dharma. It is literally The
-> Way.
+> This is a 3D Graff of the Kanji for the
+> Dharma[^my-own-approach-to-art]. It is literally The Way. See the
+> footnotes for more information on the approach I would take to my
+> own art if I were ever permitted to achieve anything in America.
 
 ![3D Graffiti of "The Ways"](/img/posts/2018-02-14-to-catch-a-butterfly-epistemic-miracles-of-serendipity/3d-kanji-dou.jpg)
 
@@ -2125,3 +2130,53 @@ were.
     life in/directly. Regardless, how they choose to see you and what
     change they intend to create by interacting with you will have a
     large effect.
+
+[^my-own-approach-to-art]: I recently dove into art in late 2017,
+    which was apparently feuled by an inability to put the pencil down
+    when my brain was flooded with amphetamine. I'd love to be an
+    artist in the future. However, it looks like I can't touch drugs
+    without people trying to [set me up to go to prison for years as a
+    drug user](https://github.com/dcunited001/bb8). Regardless, my own
+    approach to the little art I engaged in was to sketch endlessly to
+    develop the outlines of future work. My interest and fascination
+    with math and machine learning lead me to attempt to explore with
+    sketching the outlines of future work until I identified visual
+    patterns that break the brain's ability to coherently recognize
+    surfaces and symbols. Art is yet another talent no one can
+    *enable* me to develop -- since I'm a publicly known drug user and
+    "Winners didn't do drugs"* -- Thanks a lot Nancy Reagon.
+
+    Anyways, my attempt at art would be to explore
+    combining my fascinations of semiotics, linguistics, differential
+    geometry, functional analysis and computational vision. The last
+    three are particularly useful in breaking the brain's procedures
+    in recognizing symbolic imagery. The utilization of techniques
+    from functional analysis are my attempts to break this procedures
+    of vision in functionally different ways in different locations of
+    the painting. Why? Because when you look at the details in a
+    specific region of the painting, then to your mind, the semiotic
+    elements of my art would locally combine to invoke the expression
+    of a distinct combination of unconsious imagery; always
+    ineffable. The intended effect is to cause the viewer's eyes to
+    meander around the painting to search for meaning. Paintings that
+    people want to look at and want to study are the paintings that
+    develop sociophysically momentum because they garner their
+    viewer's cumulative attention.
+
+    If I could be permitted to develop
+    the technical skills of painting/etc, my art would end up being
+    like a cross between Picasso's cubism and Dali's usage of both
+    surrealism and the unconsious. However, I'm never allowed to
+    achieve anything of meaning or create anything that lasts. My art
+    sucks, but the important point is that there is potential or there
+    was potential, but everyone around me seeks to destroy me and hold
+    me up as an example, as though they are morally superior.
+
+[^gladatorial-mural]: I changed the bullet points from black theta's
+    to orange after watching the IAS video on [Kathleen Colema's
+    analysis of a Gladiatoral mural](). Apparently the black theta
+    implies indicates a gladiator who lost and who is almost certainly
+    already dead -- if not in the last battle than almost certainly in
+    the next.
+
+    > "I ain't dead yet" - Richard Prior
