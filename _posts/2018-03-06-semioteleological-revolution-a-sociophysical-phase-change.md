@@ -8,6 +8,8 @@ author:
 excerpt: ""
 ---
 
+- see section on additive/subtractive reasoning from `ideas.md`
+
 - TODO: fully distinguish socio-epistemic from socio-epistemological,
   so the language is clear henceforth.
   - (move this distinction to the other article)

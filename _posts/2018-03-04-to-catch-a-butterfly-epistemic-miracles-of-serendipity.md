@@ -5,7 +5,18 @@ tags: ""
 headline: ""
 author:
   name: "David Conner"
-excerpt: ""
+excerpt: "
+There are tools that allow for the identification of middle ground in
+systems: from rigid to flexible; from those nearly universal systems,
+distributed homogenously, to those singleton systems who are most
+unlike any other. The same math for identifying whether machine
+learning is proceeding efficiently presents itself naturally in the
+evolution of ideas, culture and genetics. It occurs incidentally, but
+can be leveraged as a tool, yielding the efficient social distribution
+of computation whereby perhaps we can answer that age-old question:
+what is the meaning of life? If I were to answer that question: there
+is no meaning of life other than searching for the meaning to life in
+spite of the obvious lack of meaning."
 ---
 
 > This article is dedicated to [Stargate
@@ -33,7 +44,7 @@ excerpt: ""
 
 #### How Did "Someone Like Me" Ever Find [This](https://en.wikipedia.org/wiki/Kangxi_Dictionary)?&nbsp;[^someone-like-me]
 
-![That's Not Hyaku](/img/posts/2018-02-14-to-catch-a-butterfly-epistemic-miracles-of-serendipity/thats-not-hyaku.jpg)
+![That's Not Hyaku](/img/posts/2018-03-04-to-catch-a-butterfly-epistemic-miracles-of-serendipity/thats-not-hyaku.jpg)
 
 ## [To Catch a Butterfly](#to-catch-a-butterfly)
 
@@ -85,6 +96,12 @@ excerpt: ""
 
 #### [&#920; Magnanimity: Why Must Power Inevitably Corrupt?](#magnanimity-why-must-power-inevitably-corrupt)
 
+#### [&#920; Maintaining Magnanimity and Social Posture Requires Indirection](#maintaining-magnanimity-and-social-posture-requires-indirection)
+
+#### [&#920; Avalokiteśvara Has A Thousand Hands, But Why?](#avalokitesvara-has-a-thousand-hands-but-why)
+
+#### [&#920; onDavidConnerSuccess(additionalGenericMonad(this.sucks).destroyDavidConnersLife);](#on-david-conner-success)
+
 #### [&#920; To Turn The Other Cheek](#to-turn-the-other-cheek)
 
 #### [&#920; "With Mercy, There Is No Deed Without Virtue"](#without-mercy-there-is-no-deed-without-virtue)
@@ -92,6 +109,10 @@ excerpt: ""
 #### [&#920; "You Will Not Silence Us"](#you-will-not-silence-us) <=> Occupy Wall Street
 
 #### [&#920; Would You Like Some Tea?](#would-you-like-some-tea)
+
+# [This Has Been Yet Another Exciting Episode of Wu Xing Physics](#this-has-been-yet-another-exciting-episode-of-wu-xing-physics)
+
+#### [&#920; The Apparent Ablation of Causality In A Socially-Superconnected Era](#the-apparent-ablation-of-causality-in-a-socially-superconnected-era)
 
 <a name="epistemic-miracles-of-serendipity-are-incomputable" />
 
@@ -183,7 +204,7 @@ spite of the obvious lack of meaning.
 > forgot you ever saw it, making it kind of indescribable. Of course,
 > now the internet ruins all of that.[^takara]
 
-![Takarabune](/img/posts/2018-02-14-to-catch-a-butterfly-epistemic-miracles-of-serendipity/takarabune.jpg)
+![Takarabune](/img/posts/2018-03-04-to-catch-a-butterfly-epistemic-miracles-of-serendipity/takarabune.jpg)
 
 In America, if you accidentally stumble upon the wrong pieces of
 knowledge, you're tormented for the rest of your [short]
@@ -219,7 +240,7 @@ more completely?
 
 #### The Brueghel Tower of Babel
 
-![The Brueghel Tower of Babel](/img/posts/2018-02-14-to-catch-a-butterfly-epistemic-miracles-of-serendipity/brueghel-tower-of-babel.jpg)
+![The Brueghel Tower of Babel](/img/posts/2018-03-04-to-catch-a-butterfly-epistemic-miracles-of-serendipity/brueghel-tower-of-babel.jpg)
 
 Academia presents us with more universally distributed knowledge
 systems. The well-distributed schemata of these modular epistemic
@@ -251,7 +272,7 @@ to be taught in a school.
 > epistemic reflection process described above. The more similar the
 > input to this process, the less inference the convolution yields.
 
-![Oliver Knill - On The Arithmetic of Graphs](/img/posts/2018-02-14-to-catch-a-butterfly-epistemic-miracles-of-serendipity/arithmetic-of-graphs.jpg)
+![Oliver Knill - On The Arithmetic of Graphs](/img/posts/2018-03-04-to-catch-a-butterfly-epistemic-miracles-of-serendipity/arithmetic-of-graphs.jpg)
 
 Moreover today, since all knowledge is so widely propagated by
 wikipedia and social media -- especially the most intellectually
@@ -283,7 +304,7 @@ convolute sufficiently divergent epistemic schemata.
 
 > Dare ye venture forth for findth ye wondrous jewels?
 
-![Aladdin's Cave](/img/posts/2018-02-14-to-catch-a-butterfly-epistemic-miracles-of-serendipity/aladdins-cave.jpg)
+![Aladdin's Cave](/img/posts/2018-03-04-to-catch-a-butterfly-epistemic-miracles-of-serendipity/aladdins-cave.jpg)
 
 <a name="without-serendipity-analytic-methods-that-accelerate-learning-algorithms-are-depressingly-limited" />
 
@@ -328,7 +349,7 @@ better system requires disruption.
 > Was it a serendipitous miracle of ideal neurological configuration?
 > Or proof of reincarnation?
 
-![The Buddha's First Seven Steps](/img/posts/2018-02-14-to-catch-a-butterfly-epistemic-miracles-of-serendipity/buddhas-first-seven-steps.jpg)
+![The Buddha's First Seven Steps](/img/posts/2018-03-04-to-catch-a-butterfly-epistemic-miracles-of-serendipity/buddhas-first-seven-steps.jpg)
 
 <a name="the-typological-speciation-of-life-experience" />
 
@@ -370,7 +391,7 @@ sociophysical game.
 > spite the Roman Catholic Church who burned his radiant heroine,
 > Joanne d'Arc.[^hundred-years-war]
 
-![Astolfo on a Griffin](/img/posts/2018-02-14-to-catch-a-butterfly-epistemic-miracles-of-serendipity/fate-grand-order-joan-of-arc.jpg)
+![Astolfo on a Griffin](/img/posts/2018-03-04-to-catch-a-butterfly-epistemic-miracles-of-serendipity/fate-grand-order-joan-of-arc.jpg)
 
 What is the difference between the male experience and the female
 experience? Truly, are there simply two experience types with
@@ -426,7 +447,7 @@ that of patenting human and natural genes.
 
 #### Does That Taste Good? Is It Nutritious? How Would You Know?
 
-![Kino Eating](/img/posts/2018-02-14-to-catch-a-butterfly-epistemic-miracles-of-serendipity/kino-eating.jpg)
+![Kino Eating](/img/posts/2018-03-04-to-catch-a-butterfly-epistemic-miracles-of-serendipity/kino-eating.jpg)
 
 <a name="what-is-found-only-by-those-who-see-clearly-and-never-by-those-who-seek" />
 
@@ -443,7 +464,7 @@ distributed computation.
 
 #### In Which I Attempt To Visualize The Concept of Covering Typological Spaces
 
-![Covering A Typological Space](/img/posts/2018-02-14-to-catch-a-butterfly-epistemic-miracles-of-serendipity/covering-a-typological-space.jpg)
+![Covering A Typological Space](/img/posts/2018-03-04-to-catch-a-butterfly-epistemic-miracles-of-serendipity/covering-a-typological-space.jpg)
 
 > [McKayla Maroney](https://en.wikipedia.org/wiki/McKayla_Maroney)
 > gets the joke: I think I need an illustrator ... Less artistic
@@ -519,7 +540,7 @@ rest of society to help us discover:
 
 #### [Kino's Journey: The Beautiful World](www.crunchyroll.com/kinos-journey-the-beautiful-world-the-animated-series)
 
-![Kino with Glasses](/img/posts/2018-02-14-to-catch-a-butterfly-epistemic-miracles-of-serendipity/kino-riding.jpg)
+![Kino with Glasses](/img/posts/2018-03-04-to-catch-a-butterfly-epistemic-miracles-of-serendipity/kino-riding.jpg)
 
 When individuals are more likely to have streamlined and rigidly
 defined psychosocial development, their range of toughts and range of
@@ -531,7 +552,7 @@ a system of identifying and propagating miracles of serendipity.
 
 #### Kino Mails A Letter
 
-![Kino Mailing](/img/posts/2018-02-14-to-catch-a-butterfly-epistemic-miracles-of-serendipity/kino-mailing.jpg)
+![Kino Mailing](/img/posts/2018-03-04-to-catch-a-butterfly-epistemic-miracles-of-serendipity/kino-mailing.jpg)
 
 <a name="can-you-see-what-i-see" />
 
@@ -697,7 +718,7 @@ nice, huh?
 > everything: even if you manage to survive this psychological
 > torture, everyone just thinks you're crazy.
 
-![Topped Tree](/img/posts/2018-02-14-to-catch-a-butterfly-epistemic-miracles-of-serendipity/topped-tree.jpg)
+![Topped Tree](/img/posts/2018-03-04-to-catch-a-butterfly-epistemic-miracles-of-serendipity/topped-tree.jpg)
 
 **Please Note:** a topped tree is also tragic metaphor for a lopsided,
 pruned family tree.
@@ -809,7 +830,7 @@ information exists in the minds of people, it never goes away.
 > "impartial" people are at doing this and how much they enjoy doing
 > it to me. It's a game that only works until the person wakes up.
 
-![Here, Sisyphus, Carry This Rock](/img/posts/2018-02-14-to-catch-a-butterfly-epistemic-miracles-of-serendipity/sisyphus.jpg)
+![Here, Sisyphus, Carry This Rock](/img/posts/2018-03-04-to-catch-a-butterfly-epistemic-miracles-of-serendipity/sisyphus.jpg)
 
 My own personal suffering has far more to do with false information in
 the minds of people, for which I have been methodically stripped of
@@ -828,7 +849,7 @@ justice. I'm sorry that is so offensive to you, America.
 
 #### Kino, Again? No, That's&nbsp;&nbsp;&nbsp;&nbsp;Not Kino.
 
-![Kino's Collection of National Security Letters](/img/posts/2018-02-14-to-catch-a-butterfly-epistemic-miracles-of-serendipity/kino-national-security-letters.jpg)
+![Kino's Collection of National Security Letters](/img/posts/2018-03-04-to-catch-a-butterfly-epistemic-miracles-of-serendipity/kino-national-security-letters.jpg)
 
 It doesn't matter how negative, constraining information is created:
 whether it's true or it's false, it is a burden you must carry with
@@ -928,7 +949,7 @@ emerged ad hoc.
 > complexity can be produced by processing the distribution data in
 > various means.[^no-love-from-academia]
 
-![Virginia Tech Drill Field](/img/posts/2018-02-14-to-catch-a-butterfly-epistemic-miracles-of-serendipity/virginia-tech-drillfield.jpg)
+![Virginia Tech Drill Field](/img/posts/2018-03-04-to-catch-a-butterfly-epistemic-miracles-of-serendipity/virginia-tech-drillfield.jpg)
 
 <a name="marking-the-bodies-of-targets-with-repetitive-strain" />
 
@@ -1051,7 +1072,7 @@ the data.
 
 #### Just Follow Your Knows
 
-![Follow Your Nose](/img/posts/2018-02-14-to-catch-a-butterfly-epistemic-miracles-of-serendipity/toucan-sam.jpg)
+![Follow Your Nose](/img/posts/2018-03-04-to-catch-a-butterfly-epistemic-miracles-of-serendipity/toucan-sam.jpg)
 
 <a name="all-roads-lead-to-rome" />
 
@@ -1065,7 +1086,7 @@ and your origination? *Your coming and your going?*
 
 #### Robert Frost - [The Road Not Taken](/writing/)
 
-![The Road Not Taken](/img/posts/2018-02-14-to-catch-a-butterfly-epistemic-miracles-of-serendipity/the-road-not-taken.jpg)
+![The Road Not Taken](/img/posts/2018-03-04-to-catch-a-butterfly-epistemic-miracles-of-serendipity/the-road-not-taken.jpg)
 
 <a name="who-is-tathagata-trebek" />
 
@@ -1101,7 +1122,7 @@ to dissect them and defuse them.
 > footnotes for more information on the approach I would take to my
 > own art if I were ever permitted to achieve anything in America.
 
-![3D Graffiti of "The Ways"](/img/posts/2018-02-14-to-catch-a-butterfly-epistemic-miracles-of-serendipity/3d-kanji-dou.jpg)
+![3D Graffiti of "The Ways"](/img/posts/2018-03-04-to-catch-a-butterfly-epistemic-miracles-of-serendipity/3d-kanji-dou.jpg)
 
 <a name="the-problem-of-higher-order-moral-systems" />
 
@@ -1203,7 +1224,7 @@ your own.
 
 #### The Dalai Lama Discusses Discernment In His Book, Beyond Religion: Ethics for a Whole World
 
-![Beyond Religion: Ethics for a Whole World](/img/posts/2018-02-14-to-catch-a-butterfly-epistemic-miracles-of-serendipity/beyond-religion.jpg)
+![Beyond Religion: Ethics for a Whole World](/img/posts/2018-03-04-to-catch-a-butterfly-epistemic-miracles-of-serendipity/beyond-religion.jpg)
 
 > In this book, the Dalai Lama recommends [empathetic
 > joy](https://en.wikipedia.org/wiki/Mudita), which Americans find
@@ -1251,13 +1272,13 @@ selflessness is literally incomprehensible to evil.
 
 ### [The Path of Least Resistence Leads to Crooked Rivers and Crooked Men](#the-path-of-least-resistence-leads-to-crooked-rivers-and-crooken-men)
 
-Such a path is useful, for both good and evil, (but even the specific
-path identified is trivial). Find people following this path and you
-know where they're going and where they're coming from. This is a
-little-known secret to resolving uncertainty in human-behavior. Are
-people following a path of least resistence? If so, their destinations
-become trivial to infer, regardless of the charades calculated by the
-media concocted to distract people from understanding the true
+Such a path is useful, for both good and evil, but is identified
+nugatorially. Find people following this path: now you know where
+they're going and where they're coming from. This is a little-known
+secret to resolving uncertainty in human-behavior. Are people
+following a path of least resistence? If so, their destinations become
+trivial to infer, regardless of the charades calculated by the media
+concocted to distract people from understanding the true
 intent. Further, money is sociofinancial energy, find the path of
 least resistence for money and everything else falls into place around
 that. Follow the money. It's quite simple. When people place their
@@ -1275,7 +1296,7 @@ science and for video game design.
 > algorithms with matroids are required to simplify using [Spanning
 > Trees](https://theory.stanford.edu/~jvondrak/CS369P/lec7.pdf).
 
-![Path-Finding Algorithms](/img/posts/2018-02-14-to-catch-a-butterfly-epistemic-miracles-of-serendipity/path-finding.jpg)
+![Path-Finding Algorithms](/img/posts/2018-03-04-to-catch-a-butterfly-epistemic-miracles-of-serendipity/path-finding.jpg)
 
 Furthermore, floorplans that do not have loops allow people within the
 building to make much more accurate assumptions about the intention of
@@ -1420,7 +1441,7 @@ from our freedom. Therefore, we should desire to liberate other people
 around us: financially and socially. People should be encouraged to be
 independent and capable of living independently.
 
-![Kino's Journey](/img/posts/2018-02-14-to-catch-a-butterfly-epistemic-miracles-of-serendipity/kinos-journey.jpg)
+![Kino's Journey](/img/posts/2018-03-04-to-catch-a-butterfly-epistemic-miracles-of-serendipity/kinos-journey.jpg)
 
 The greater the number of people who abandon attachment by shedding
 some self-ordained objectified understanding of reality, the greater
@@ -1482,7 +1503,7 @@ you must commit yourself to it. It's really not something you can pick
 up and put down when it is convenient for you, which is unfortunately
 what I've done all too often.
 
-![School For The Blind](/img/posts/2018-02-14-to-catch-a-butterfly-epistemic-miracles-of-serendipity/school-for-the-blind.jpg)
+![School For The Blind](/img/posts/2018-03-04-to-catch-a-butterfly-epistemic-miracles-of-serendipity/school-for-the-blind.jpg)
 
 #### On the Symbolic Parity of Literary Translations
 
@@ -1639,7 +1660,7 @@ requires solving many similar problems.
 
 > Each one's got their own angle...
 
-![Dali - The Tallenge Store](/img/posts/2018-02-14-to-catch-a-butterfly-epistemic-miracles-of-serendipity/dali-the-tallenge-store.jpg)
+![Dali - The Tallenge Store](/img/posts/2018-03-04-to-catch-a-butterfly-epistemic-miracles-of-serendipity/dali-the-tallenge-store.jpg)
 
 The seemingly vain adherence to etiquette and those values systems
 distributed by vague doctrine: is it worth the trouble? That doctrine
@@ -1721,7 +1742,7 @@ cause has it's own causes. There are reasons for everything.
 > subsequently, easy to control, even though it appears they have
 > everything they could ever wish for.
 
-![Dali's Le Main](/img/posts/2018-02-14-to-catch-a-butterfly-epistemic-miracles-of-serendipity/dali-le-main.jpg)
+![Dali's La Main](/img/posts/2018-03-04-to-catch-a-butterfly-epistemic-miracles-of-serendipity/dali-la-main.jpg)
 
 If you want to intervene in some such situation, you must examine what
 you know carefully, until you can construct a monadic russian doll
@@ -1778,7 +1799,7 @@ want, while holding everything else stable
 
 #### This Is Not So Different Than Curling's Notion of "Burned Rocks"
 
-![Curling Burned Rock](/img/posts/2018-02-14-to-catch-a-butterfly-epistemic-miracles-of-serendipity/curling-burned-rock.jpg)
+![Curling Burned Rock](/img/posts/2018-03-04-to-catch-a-butterfly-epistemic-miracles-of-serendipity/curling-burned-rock.jpg)
 
 > No, that's not the burned rock. The Canadians did not burn that
 > rock. They did, however, decide to send that rock to the [Phantom
@@ -1805,36 +1826,76 @@ resources as possible. This is generally true throughout my entire
 life and whenever I begin to accumulate social/financial resources, it
 is immediately smacked out of my hands.
 
-### [A Million Ways To Do Right And Die Trying;](#a-million-ways-to-do-right-and-die-trying)
+<a name="avalokitesvara-has-a-thousand-hands-but-why" />
 
-> A million ways to do harm, but who's counting?
+### [Avalokiteśvara Has A Thousand Hands, But Why?](#avalokitesvara-has-a-thousand-hands-but-why)
 
-It is (very difficult) to live in these ways. it requires significant
+#### Don't let me conclusively answer this question for you...
+
+> Like so many other mysteries, it's better if you find the answers
+> yourself. This, coming from me, is a flavor of irony with a
+> distinctly pungent flavor.
+
+![Avalokitesvara has a 1,000 hands](/img/posts/2018-03-04-to-catch-a-butterfly-epistemic-miracles-of-serendipity/avalokitesvara.jpg)
+
+It is nigh herculean to live in these ways and wouldn't it be nice if
+you had a few extra hands from time to time? It requires eloquent
 investment of personal time and energy to be compassionate. There are
-a million ways to attempt to be compassionate when interacting in
-social situations. (Some ways) produce profound changes while (other
-ways) generate far too much sociophysical turbulence as a result. For
-this and many other reasons, it is a computationally hard problem to
-determine how to act compassionately, while achieviing the effects you
-want to see in the world. (is not nearly as computationally hard to
-identify) the path of least resistence so that you can contort
-situations to your advantage.
-  - There are myriad ways to act while creating a compassionate
-    result, when seen from the eyes of the person you're trying to
-    help. There are myriad ways to act while creating discompassionate
-    or incompassionte results. Whether you intend to create
-    compassionate or incompassionate results or whether you are
-    dispassionately detached from the consequences of your actions,
-    (the challenge) is acting to create the result you intend without
-    generating destabalizing discord (as a side-effect)
-  - (informing your actions to create minimal side-effects is the
-    "hard" problem.)
-    - ultimately, the point is that the people who intend to create
-      specific results are exerting a ton of time/energy into the
-      thought behind their actions.
-    - it is no doubt incredibly frustrating for people to heavily
-      invest in someone or something, all for it to be ruined no
-      matter what they do.
+myriad ways attempt to be compassionate when interacting in social
+situations. Some means surgically yield profound and lasting changes
+while other means generate far too much sociophysical turbulence as a
+result. For this and many other reasons, it is a computationally hard
+problem to determine how to act compassionately to achieve the effects
+you want to see in the world, while minimizing side effects. Far less
+recalcitrant it is to identify some abstract path of least resistence
+so that you can contort situations to your advantage.
+
+> A million ways to do right and die trying;
+>
+> And a billion ways to do harm, but who's counting?
+
+There are myriad ways to act while creating a compassionate result,
+when seen from the eyes of the person you're trying to help. There are
+myriad ways to act while creating discompassionate or incompassionte
+results. Whether you intend to create positive, neutral or negative
+results, the challenge is acting to create the result you intend
+without generating destabalizing discord, as a side-effect. If you are
+altogether dispassionately detached from the consequences of your
+actions or perhaps unwillingly ignorant, then I hope your causal waves
+do not crest into a tsunami of karmic discord. This is, *after* all is
+said and done, what a scapegoat is for: that wave comes crashing down
+with their name on it. If given the chance, would they have tried to
+stop it?
+
+Informing your actions to create minimal side-effects is what
+contributes most to the intractibility. You must apply techniques from
+functional analaysis to sociophysical problems to extrapolate the
+qualitative consequences of your actions. If all people -- or simply
+enough people with influence -- share a belief system such that they
+react to sociophysical turbulence or the unrestrained effects of
+causal waves, then we socially absorb the turbulence more efficiently
+and effectively. Furthermore, when such a belief system is prevelant
+in enough nodes with social influence, then calculating the
+sociophysical consequnces of someone's actions itself becomes an
+easier problem *because of the assumptions people can make.*
+
+Ultimately, anyone who intends to create specific results is exerting
+a voluminous time and energy into the thought behind their actions,
+from the very start. This is yet another reason that the intent people
+harbor in their hearts is so critical: if we do not harbor darkness in
+our hearts, how can it give rise to negative thoughts, actions and
+words? Even if someone is capable of covering all the negativity they
+create to successfully hide the truth of the causes from everyone
+else, if they did not intend to create such negativity, then at most,
+we would be living with the consequences of accidents and phenomena
+beyond our control. Instead, if the intent in our hearts was
+beneficient and our fidelity to altruism remained unblemished,
+humanity would have far less disruption and negativity to deal
+with. We would only be dealing with the karmic fallout that extends
+from the biological and economic requirements of human existence.
+
+It is no doubt incredibly frustrating for people to heavily invest in
+someone or something, all for it to be ruined no matter what they do.
 
 #### Dali - Ascension
 
@@ -1843,63 +1904,55 @@ situations to your advantage.
 > Thread](http://www1.edogawa-u.ac.jp/~tmkelly/research_spider.html).
 
 ![Dali's
-Ascension](/img/posts/2018-02-14-to-catch-a-butterfly-epistemic-miracles-of-serendipity/dali-ascension.jpg)
+Ascension](/img/posts/2018-03-04-to-catch-a-butterfly-epistemic-miracles-of-serendipity/dali-ascension.jpg)
 
-    - i feel like a lot of people have tried to help me, but that it
-      doesn't matter what they do because there's a small fragment of
-      people whose objective is to destroy my life, regardless of how
-      much effort other people invest in it.
-      - these people, whether acting intentionally or not, see any
-        sign that i'm either moving towards specific goals or
-        accumulating social/financial resources as a sign they need to
-        act to disrupt my life.
-      - ordinarily, people would have given up trying to help me a
-        long time ago. why? it's expensive to help someone. You can't
-        help everyone, so when people focus their energy towards
-        compassionate, they generally want to see a result.
-        - however, my own life seems to demonstrate that, no matter
-          what you do -- regardless of how much time/energy and money
-          is spent -- small groups of people can act simply to fuck
-          everything up by socially disconnecting that person,
-          creating sociophysical turbulence and surrounding that
-          person with the polar opposite of the Steve Jobs reality
-          distortion field.
-        - it's tragic: such a small group of people can trivially
-          inject sociophysical turbulence in my life to stall any and
-          all progress. There might only be several dozen toxic people
-          who consciously intend to perpetually keep you in a dungeon
-          of psychological torture. Even so, if they wanted, they
-          could literal outweigh the efforts of the rest of the human
-          population, simply by injecting sociophysical turbulence to
-          disrupt anyone who tries to help you.
-          - If they pick on someone with a developmental disorder, who
-            is gullible, oblivious to social norms, easy to
-            deceive/disrupt, then if they prevent that person from
-            every attaining any social/financial resources whatsoever,
-            then "they" can keep you in that dungeon until you decide
-            to hang yourself like a GITMO inmate. Incidentally,
-            suicide is one of the intended final destinations of that
-            program.
+<a name="on-david-conner-success" />
 
+### [onDavidConnerSuccess(additionalGenericMonad(this.sucks).destroyDavidConnersLife);](#on-david-conner-success)
 
-### (In Defense of Chaotic Good)
+I feel that innumerable people have tried to help me, but that it
+doesn't matter what they do because there's a small fragment of people
+whose objective is to destroy my life, regardless of how much effort
+other people invest in it. At this point, it is like their raison
+d'etre: any success on my part would destroy them, especially if it's
+public and causes people to question "the official story" -- whatever
+that is. These people, whether acting intentionally or not, see any
+sign that i'm either moving towards specific goals or accumulating
+social & financial resources as a sign they need to act to disrupt my
+life, in event-driven fashion.
 
-- actually transition into a discussion on chaotic good...
-  - always question everything
-- "chaotic good" is generally disruptive
-  - how can something that rejects order lead to goodness
-    - when protection of belief/values systems, virtues, justice and
-      the rule of law requires a strong rule of law in itself?
-  - for order in social systems, etc: when can strong order be known
-    to stand for good? and when can such an order be
-    known/demonstrated to stand simply for itself?
+> At some point, you really have to wonder: what makes this person so
+> critical to destroy? Why? I am a rational person -- I actually do
+> try very hard to be rational -- but holy shit, I have been living
+> this firsthand for the past decade and it is undeniable.
 
-- generally testing the ability, power, intent and beliefs of those in
-  power. how?
-  - by questioning/testing authority.
-  - by compelling people to act when needed.
-  - by directing attention to issues/problems where needed.
+Ordinarily, people would have given up trying to help me a long time
+ago. Why? It's expensive to help someone. Financial resources are
+limited and so is sociophysical potential energy. You can't help
+everyone, so when people focus their energy towards compassionate,
+they generally want to see a positive result.
 
+However, my own life seems to demonstrate that, no matter what you do
+-- regardless of how much time, energy and money you expend -- small
+groups of people can act simply to upend anything that is done, if
+they so choose. This seems to be most efficiently done by socially
+disconnecting that person, creating sociophysical turbulence and
+essentially surrounding that person with the polar opposite of the
+Steve Jobs reality distortion field.  It's tragic: such a small group
+of people can trivially inject sociophysical turbulence in my life to
+stall any and all progress.
+
+There might only be several dozen toxic people who consciously intend
+to perpetually keep you in a dungeon of psychological torture. Even
+so, if they wanted, they could literal outweigh the efforts of the
+rest of the human population, simply by injecting sociophysical
+turbulence to disrupt anyone who tries to help you. If they pick on
+someone with a developmental disorder, who is gullible, oblivious to
+social norms, easy to deceive/disrupt, then if they prevent that
+person from every attaining any social/financial resources whatsoever,
+then "they" can keep you in that dungeon until you decide to hang
+yourself like a GITMO inmate. Incidentally, suicide is one of the
+intended final destinations of that program.
 
 <a name="to-turn-the-other-cheek" />
 
@@ -1961,7 +2014,7 @@ doesn't necessarily require a net-expenditure of sociophysical energy:
 you can respond to disruptive, unwelcome or rude events in this way by
 ultimately gaining from them.
 
-![A Shepherd Bodhisattva?](/img/posts/2018-02-14-to-catch-a-butterfly-epistemic-miracles-of-serendipity/tales-of-zestria.jpg)
+![A Shepherd Bodhisattva?](/img/posts/2018-03-04-to-catch-a-butterfly-epistemic-miracles-of-serendipity/tales-of-zestria.jpg)
 
 <a name="without-mercy-there-is-no-deed-without-virtue" />
 
@@ -2012,7 +2065,7 @@ how the world works.
 
 > I donno what a "rez" is, but I'll take two. With heals, please.
 
-![Mercy](/img/posts/2018-02-14-to-catch-a-butterfly-epistemic-miracles-of-serendipity/heroes-never-die.jpg)
+![Mercy](/img/posts/2018-03-04-to-catch-a-butterfly-epistemic-miracles-of-serendipity/heroes-never-die.jpg)
 
 However, if people consider turning the other cheek to be a virtue,
 than even the common person can act as a kind of sociophysical
@@ -2103,7 +2156,7 @@ comes in many flavors, but like coffee, this one's an acquired taste.
 
 #### Our Leaders Would Make Fantastic Ostriches: "What Economics? LOL"
 
-![Danger: High Voltage](/img/posts/2018-02-14-to-catch-a-butterfly-epistemic-miracles-of-serendipity/ostrich-what-economics.jpg)
+![Danger: High Voltage](/img/posts/2018-03-04-to-catch-a-butterfly-epistemic-miracles-of-serendipity/ostrich-what-economics.jpg)
 
 <a name="would-you-like-some-more-tea" />
 
@@ -2152,15 +2205,114 @@ were.
 
 #### [Chrono Cross Intro](https://www.youtube.com/watch?v=lHQ7yEYwEnE): "What Was The Start of All This?"
 
-![What Was The Start of All This?](/img/posts/2018-02-14-to-catch-a-butterfly-epistemic-miracles-of-serendipity/what-was-the-start-of-all-this.jpg)
+![What Was The Start of All This?](/img/posts/2018-03-04-to-catch-a-butterfly-epistemic-miracles-of-serendipity/what-was-the-start-of-all-this.jpg)
 
-<a name="in-america-when-a-butterfly-flaps-its-wings-kill-it-with-fire" />
+In America, when a butterfly flaps it's wings, kill it with
+fire... apparently. Until someone tells me otherwise, this is all I
+know because it's all that my constricted life experience is capable
+of informing me.
 
-### [In America, When A Butterfly Flaps Its Wings, Kill It With Fire!](#in-america-when-a-butterfly-flaps-its-wings-kill-it-with-fire)
+<a name="this-has-been-yet-another-exciting-episode-of-wu-xing-physics" />
 
-... Apparently. Until someone tells me otherwise, this is all I know
-because it's all that my constricted life experience is capable of
-informing me.
+# [This Has Been Yet Another Exciting Episode of Wu Xing Physics](#this-has-been-yet-another-exciting-episode-of-wu-xing-physics)
+
+> This monk is said to have blinded Mara. Trackless, he has destroyed
+> Mara's vision and has become invisible to the Evil One.
+
+This monk mentioned above isn't quite *tabula rasa*, since a modicum
+of knowledge & wisdom required to understand is needed to live in this
+fluid & invisble way. If you aren't quite precocious enough to attain
+these insights early on or have someone in life to guide you along so
+that you don't make certain mistakes, then it's all to easy for even
+the best of us to accumulate information we'll carry with us for the
+rest of our lives. Religious belief systems and institutions are
+fantastic means for the
+[kernel](https://en.wikipedia.org/wiki/Kernel_(algebra)) of such
+timeless wisdom to be handed down between multiple generations. It is
+the only way that such wisdom can be inculcated early on, so that it
+might drastically outweigh the effects of information created by the
+mistakes you'll make without it.
+
+I often wonder what can be done to wash off the sins of the past or
+the information of the past.  Is it the information itself or the
+dispersion of iota throughout society that binds us down and defines
+us? If it's the dispersion of iota -- physically distributed datums of
+information -- then what can be done when that is predominately
+misinformation and disinformation? What if the information that most
+tightly holds you down is lies that foment fear, causing you to be
+isolated without social connection for your entire life?
+
+Tragically, the effect of such burdening information is the same,
+whether it is true or false. The effects of social isolation are much
+the same, regardless of the cause, regardless of whether they were
+imposed financially, socially or informationally. Poverty has many of
+the same effects of social isolation and leaves individuals in its
+wake with a paucity of life experience.
+
+The magnitudes of these effects, whether postive/negative, are
+determined by the sociophysical distribution of information, the
+typological variance in specific responses that these iota provoke and
+the frequency of datum expression. Richard Dawkins explained many of
+these same effects through the study of memes as they parallel the
+expression of genes, but how is it that he cannot see the value of
+homogeny of beliefs and the social institutions which propagate them
+-- viz. religion. Perhaps it's because Richard Dawkins isn't quite the
+athiest that the average person believes the label of atheist to
+indicate. It is perplexing that the [many of the same people who
+pioneer and champion social physics](http://www.eoht.info) are
+obsessed with dismantling "fictitious" religious institutions, while
+concocting their own quasi-mythologies like Scientology. How could
+they possibly not understand?
+
+> Scientology: Schödinger's mythos. We're all waiting... But
+> apparently all my ideas are simply "[woo woo physics]()"
+
+<a name="the-apparent-ablation-of-causality-in-a-socially-superconnected-era" />
+
+### [The Apparent Ablation of Causality In A Socially-Superconnected Era](#the-apparent-ablation-of-causality-in-a-socially-superconnected-era)
+
+The questions and discussion above are critical, when viewed in the
+context of technology's impact on informational dynamics and our
+perception of causality. If the best way to live in order to preserve
+fluidity and your potential for change later is to do so without the
+accumulation of informational baggage, then how is someone supposed to
+live and act in our new era in order to attain this state of fluid
+being?
+
+There are many manipulative people who want fodder for blackmail and
+coercion as a general means of controlling anyone for the purpose of
+strengthen the chains of attachment which bind us to them. Today,
+superconnected networks facilitate the exchange of an unprecedented
+deluge of personal information -- does that imply these controlling
+people now have more potential than ever to facilitate our bondage?
+
+While I posted information privately on social media, I found that
+people used my post details against me, without my knowledge and
+without intending to give me a chance to fight back. Further, they
+used my social media to inform the tactics by which they interfered
+with my life. They hid all attempts to do so, but used my private
+information to facilitate their actions, which included running the
+rumor mill at full force, projecting information to people who could
+not actually view my social media profile to verify the
+information. It was 'round this time, I decided to make everything I
+ever did online public, so that my private information could never be
+used against me. Since I have done so, I have had social media -- *as
+well as illicit and potentially illegal surveillance* -- used against
+me by *God knows who* to psychologically torment me and disrupt all
+attempts at friendship, love, and any of the other positive faces of
+social phenomena in the human experience. I have experienced only a
+few teardrops of love in the past decade, which is all that has ever
+kept me going.
+
+I'll be damned if I let anyone control me by snooping ALL of my
+digital communications. These wizards-behind-the-curtain are
+apparently so terrified of what I've posted online that they could
+never say jack shit to my face. In fact, if this is the last chance
+anyone ever has to make a statement about life, society and
+technology, *the I'm going to stand up and scream and I do not care
+about the worldly consequences they threaten me with.*
+
+## How the hell can these people expect to regulate love [like that](https://www.facebook.com/photo.php?fbid=10204297595236683&set=a.1054024247508.7365.1732883075&type=3&theater) and get away with it? *Go to hell, Machiavelli.*
 
 [^someone-like-me]: I was looking for it. The answer is that I was too
     stupid to have learned to not look. What does it mean? Wouldn't
